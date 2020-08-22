@@ -86,7 +86,7 @@
 * Q&A: Coffee Mug? https://clips.twitch.tv/SpunkyHyperWasabi4Head
 
 ## August 11th, 2020
-* [in-depth discussion over various clips](2020-08-18.md#merch)
+* [in-depth discussion over various clips](2020-08-11.md#merch)
 
 ## August 18th, 2020
 * Q&A: Is there a Merch Store? https://clips.twitch.tv/CleanCarefulMoonAMPEnergyCherry
