@@ -12,6 +12,10 @@
 * Q&A: What are some of the priorities for the next update? https://clips.twitch.tv/SneakyLovelyCrabsAMPEnergyCherry
 * Q&A: How often will there be updates to the game? https://clips.twitch.tv/CheerfulZanyWebVoteYea
 
+## August 25th, 2020
+* [ETA for Update 4](2020-08-25.md#eta-for-update-4)
+* [additional clips](2020-08-25.md#update-4-single-clip-videos)
+
 # Tiers
 
 ## July 28th, 2020
@@ -34,6 +38,9 @@
 * Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5
 * Q&A: Will Drones be added to the game for aerial travel? https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper
 
+## August 25th, 2020
+* [various Q&A clips](2020-08-25.md#flying-vehicles)
+
 # Console Release
 
 ## July 28th, 2020
@@ -50,6 +57,12 @@
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
 * Q&A: Dedicated Servers, start building a community around that? https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow
 
+## August 25th, 2020
+* Q&A: Dedicated Servers update? https://clips.twitch.tv/AgitatedAltruisticAnacondaStinkyCheese
+* Q&A: Will Dedicated Servers be available on Linux, or Windows? https://clips.twitch.tv/SeductiveInnocentFerretHeyGirl
+* Q&A: Linux would be useful for Servers https://clips.twitch.tv/UglyAwkwardCiderSSSsss
+* Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc
+
 # Maps
 
 ## July 28th, 2020
@@ -65,6 +78,9 @@
 * Q&A: Any ice/snow biome plans? https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl
 * Q&A: Any different maps planned? https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat
 * Q&A: Will you be able to create your own map? https://clips.twitch.tv/ChillyRockyWalrusUnSane
+
+## August 25th, 2020
+* [various clips](2020-08-25.md#world-map)
 
 # Mass Building
 
