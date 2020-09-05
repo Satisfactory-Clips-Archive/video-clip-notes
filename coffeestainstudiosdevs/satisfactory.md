@@ -10,3 +10,7 @@
 ## August 2020
 * [August 11th, 2020](satisfactory/2020-08-11.md)
 * [August 18th, 2020](satisfactory/2020-08-18.md)
+* [August 25th, 2020](satisfactory/2020-08-25.md)
+
+## September 2020
+* [September 1st, 2020](satisfactory/2020-09-01.md)
