@@ -16,6 +16,10 @@
 * [ETA for Update 4](2020-08-25.md#eta-for-update-4)
 * [additional clips](2020-08-25.md#update-4-single-clip-videos)
 
+## September 1st, 2020
+* [general information](2020-09-01.md#update-4)
+* [release date](2020-09-01.md#release-date)
+
 # Tiers
 
 ## July 28th, 2020
@@ -46,6 +50,9 @@
 ## July 28th, 2020
 * Q&A: Satisfactory Console Release https://clips.twitch.tv/FragileNimbleEggnogDatSheffy
 
+## September 1st, 2020
+* Q&A: Satisfactory on next-gen Consoles? https://www.youtube.com/watch?v=ed1gycRZji4
+
 # Dedicated Servers
 
 ## July 28th, 2020
@@ -62,6 +69,10 @@
 * Q&A: Will Dedicated Servers be available on Linux, or Windows? https://clips.twitch.tv/SeductiveInnocentFerretHeyGirl
 * Q&A: Linux would be useful for Servers https://clips.twitch.tv/UglyAwkwardCiderSSSsss
 * Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc
+
+## September 1st, 2020
+* Q&A: Dedicated Servers https://www.youtube.com/watch?v=z5bf3k7JWlg
+* Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content? https://www.youtube.com/watch?v=CGoHMrbwftU
 
 # Maps
 
@@ -82,6 +93,9 @@
 ## August 25th, 2020
 * [various clips](2020-08-25.md#world-map)
 
+## September 1st, 2020
+* [various clips](2020-09-01.md#world-map)
+
 # Mass Building
 
 ## July 8th, 2020
@@ -96,6 +110,9 @@
 ## August 18th, 2020
 * Q&A: Any plans for 1-click multi-building? https://clips.twitch.tv/CheerfulLightAsteriskGOWSkull
 
+## September 1st, 2020
+* [various clips](2020-09-01.md#mass-building)
+
 # Merch
 
 ## July 28th, 2020
@@ -107,3 +124,11 @@
 ## August 18th, 2020
 * Q&A: Is there a Merch Store? https://clips.twitch.tv/CleanCarefulMoonAMPEnergyCherry
 * Q&A: When will have Merch? https://clips.twitch.tv/FunOriginalPistachioNerfRedBlaster
+
+## September 1st, 2020
+* [various clips](2020-09-01.md#merch)
+
+# Nuclear Waste
+
+## September 1st, 2020
+* Q&A: Any plans to get rid of Nuclear Waste? https://www.youtube.com/watch?v=cxWdU5_ai-0
