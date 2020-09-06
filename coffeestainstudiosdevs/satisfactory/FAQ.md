@@ -116,6 +116,7 @@
 * [various clips](2020-09-01.md#mass-building)
 
 # Merch
+*Please note that Merch has since been launched https://www.youtube.com/watch?v=4_cYnq746zk*
 
 ## July 28th, 2020
 * Q&A: Coffee Mug? https://clips.twitch.tv/SpunkyHyperWasabi4Head
