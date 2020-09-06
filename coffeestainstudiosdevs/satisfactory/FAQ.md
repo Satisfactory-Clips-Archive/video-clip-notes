@@ -40,6 +40,8 @@
 
 ## July 28th, 2020
 * Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5
+
+## August 11th, 2020
 * Q&A: Will Drones be added to the game for aerial travel? https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper
 
 ## August 25th, 2020
