@@ -14,3 +14,4 @@
 
 ## September 2020
 * [September 1st, 2020](satisfactory/2020-09-01.md)
+* [September 8th, 2020](satisfactory/2020-09-08.md)
