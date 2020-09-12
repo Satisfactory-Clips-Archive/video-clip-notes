@@ -20,6 +20,9 @@
 * [general information](2020-09-01.md#update-4)
 * [release date](2020-09-01.md#release-date)
 
+## September 8th, 2020
+* [general information](2020-09-08.md#satisfactory-update-4)
+
 # Tiers
 
 ## July 28th, 2020
@@ -30,6 +33,9 @@
 * Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit
 * Q&A: What's in Tier 8? (part 1) https://clips.twitch.tv/RelievedRelievedCroissantMingLee
 * Q&A: What's in Tier 8? (part 2) https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu
+
+## September 8th, 2020
+* Q&A: What additions to Tier 7 might be coming & when ? https://www.youtube.com/watch?v=lGbJwWh5W_I
 
 # Space Exploration
 
@@ -47,6 +53,9 @@
 ## August 25th, 2020
 * [various Q&A clips](2020-08-25.md#flying-vehicles)
 
+## September 8th, 2020
+* [various Q&A clips](2020-09-08.md#aerial-travel)
+
 # Console Release
 
 ## July 28th, 2020
@@ -54,6 +63,9 @@
 
 ## September 1st, 2020
 * Q&A: Satisfactory on next-gen Consoles? https://www.youtube.com/watch?v=ed1gycRZji4
+
+## September 8th, 2020
+* Q&A: Will this game come out on Console at some point? https://www.youtube.com/watch?v=pfD6p4g3fQ8
 
 # Dedicated Servers
 
@@ -76,6 +88,9 @@
 * Q&A: Dedicated Servers https://www.youtube.com/watch?v=z5bf3k7JWlg
 * Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content? https://www.youtube.com/watch?v=CGoHMrbwftU
 
+## September 8th, 2020
+* [various clips](2020-09-08.md#dedicated-servers)
+
 # Maps
 
 ## July 28th, 2020
@@ -97,6 +112,9 @@
 
 ## September 1st, 2020
 * [various clips](2020-09-01.md#world-map)
+
+## September 8th, 2020
+* [various clips](2020-09-08.md#world-map)
 
 # Mass Building
 
@@ -130,6 +148,9 @@
 
 ## September 1st, 2020
 * [various clips](2020-09-01.md#merch)
+
+## September 8th, 2020
+* Q&A: Will there be a european Merch store? https://www.youtube.com/watch?v=GhfR61WpR6k
 
 # Nuclear Waste
 
