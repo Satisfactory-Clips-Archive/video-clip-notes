@@ -1,3 +1,5 @@
+*FAQ is out-of-date, pending changes to the update script*
+
 # Update 4
 
 ## July 28th, 2020
