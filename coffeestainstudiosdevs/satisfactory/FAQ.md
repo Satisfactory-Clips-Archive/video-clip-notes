@@ -63,6 +63,9 @@
 ## July 28th, 2020
 * Q&A: Satisfactory Console Release https://clips.twitch.tv/FragileNimbleEggnogDatSheffy
 
+## August 18th, 2020
+* Q&A: Are there any plans to port the game to console? https://clips.twitch.tv/CogentRichJackalHeyGirl
+
 ## September 1st, 2020
 * Q&A: Satisfactory on next-gen Consoles? https://www.youtube.com/watch?v=ed1gycRZji4
 
