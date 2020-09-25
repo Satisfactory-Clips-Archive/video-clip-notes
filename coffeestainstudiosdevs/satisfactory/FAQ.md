@@ -1,5 +1,3 @@
-*FAQ is out-of-date, pending changes to the update script*
-
 # Update 4
 
 ## July 28th, 2020
@@ -161,3 +159,72 @@
 
 ## September 1st, 2020
 * Q&A: Any plans to get rid of Nuclear Waste? https://www.youtube.com/watch?v=cxWdU5_ai-0
+
+# Pending categorisation in FAQ
+
+## September 15th, 2020
+* Q&A: DLSS one day? https://www.youtube.com/watch?v=IXroe1QFRzc
+* Q&A: Coming to Consoles? https://www.youtube.com/watch?v=09PyuqxekgU
+* Q&A: Full Release, 2021? https://www.youtube.com/watch?v=9Um_UtQI8yE
+* Q&A: Any chance Update 4 unlocks the Work In Progress items? https://www.youtube.com/watch?v=Z870GlRbfjk
+* Q&A: Update release schedule (part 2) https://www.youtube.com/watch?v=vfVo9rCpVtQ
+* Q&A: Will the update break saves? https://www.youtube.com/watch?v=4RrHBOTPcs8
+* Q&A: Update release schedule (part 1) https://www.youtube.com/watch?v=xkalDtEeoOY
+* Q&A: The Mug? https://www.youtube.com/watch?v=mg0CAgdI5S8
+* Q&A: Any news on EU Merch? https://www.youtube.com/watch?v=IXeIE9qV-lA
+* Q&A: Will there be a Map Editor? https://www.youtube.com/watch?v=MYno60AbSGk
+* Q&A: Will you add any Monsters/Bosses in the future? https://www.youtube.com/watch?v=D_BVMiGNvqI
+* Q&A: Is the limit on items hardcoded into the game? https://www.youtube.com/watch?v=FWVdvSc-nrw
+* Q&A: Any improvement for the Trucks so they can transport Fluids? https://www.youtube.com/watch?v=lNpwyJr7lZc
+* Q&A: Are you guys going to make a Player Elevator? https://www.youtube.com/watch?v=KTp_pmyifGo
+* Q&A: Are there any plans for Blueprinting Buildings? https://www.youtube.com/watch?v=-sQgPUaxR-Y
+* Q&A: Can you add Floor Holes for Pipes? https://www.youtube.com/watch?v=VLvqacnnn5c
+* Q&A: Will the Map be bigger? https://www.youtube.com/watch?v=b49tcUeMO3E
+* Snutt Talk: Dedicated Servers https://www.youtube.com/watch?v=yRJNzDLMJZU
+* Q&A: Are you planning on porting the game to PS4? https://www.youtube.com/watch?v=0Zv9Qjp2fHI
+* Q&A: Official Mod support? https://www.youtube.com/watch?v=0M3RKdwK5mA
+* Q&A: Is there a plan to deal with Nuclear Waste? https://www.youtube.com/watch?v=Eo_4p0KSPSY
+* Q&A: What will be happening with the Train collisions/signalling? https://www.youtube.com/watch?v=BZtRginha6g
+* Q&A: FICSIT Toilet soon? https://www.youtube.com/watch?v=clJjkvA5whw
+* Q&A: Will there be more polish to the Survival aspects of the game? https://www.youtube.com/watch?v=0flTS1mpH7s
+* Q&A: Any plans for randomly generated worlds / Procedurally Generated maps? https://www.youtube.com/watch?v=eo_84m3ZYfQ
+* Q&A: Give details about the Fluids? https://www.youtube.com/watch?v=CFKUv9FCVms
+* Q&A: When do the Work In Progress items get a purpose? https://www.youtube.com/watch?v=koMqOABA6x8
+* Q&A: Are we ever going to see a new enemy type? https://www.youtube.com/watch?v=Kxq543wzKcY
+* Q&A: Mk2 Pipes? https://www.youtube.com/watch?v=FJPA1gKRxsI
+
+## September 22nd, 2020
+* Q&A: Will there be more adjustments to progression? https://www.youtube.com/watch?v=9hON4HpgaXU
+* Q&A: Where is the Toilet DLC? https://www.youtube.com/watch?v=unZciwmFlwA
+* Jace & Snutt Talk: Story https://www.youtube.com/watch?v=vPWShxAn3io
+* Q&A: Any chance of a new Map? https://www.youtube.com/watch?v=GcWk8f29OBM
+* Q&A: Will there be a Creative Mode? https://www.youtube.com/watch?v=nz4VgYaVDDo
+* Q&A: Any information on Merch shipping to EU/rest of the world? https://www.youtube.com/watch?v=hAEInvMcQfk
+* Q&A: Will the Story play out when implemented or will we have to start a new game? https://www.youtube.com/watch?v=PPu_s5Gg8gs
+* Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5) https://www.youtube.com/watch?v=oT2NLP9ZvGk
+* Q&A: Hoping for Base Defence? https://www.youtube.com/watch?v=RjFIQhJY824
+* Q&A: What about the Mug? https://www.youtube.com/watch?v=Z4ossbr19xo
+* Q&A: What about Update 3.5? https://www.youtube.com/watch?v=yuPh64NufF4
+* Q&A: Been a little while without any Updates? https://www.youtube.com/watch?v=sSLGErHJcyE
+* Q&A: Why are we only Female in the game and no Male options? https://www.youtube.com/watch?v=njr4NS88fBc
+* Q&A: How about lighting? https://www.youtube.com/watch?v=WDfN-WpIJXY
+* Q&A: Update 4, bigger Pipes? https://www.youtube.com/watch?v=sXfGrrX3E0E
+* Q&A: Dedicated Servers? https://www.youtube.com/watch?v=tHUqAoOXffs
+* Q&A: Any plans to add a Levitate option with Jetpacks? https://www.youtube.com/watch?v=_9P859YpEbE
+* Q&A: Update 4? https://www.youtube.com/watch?v=ctS5hIogKas
+* Q&A: How will time run on the Dedicated Servers? https://www.youtube.com/watch?v=1RgR6JDSoPg
+* Q&A: Will Dedicated Servers run on Linux? https://www.youtube.com/watch?v=299eeYGePHM
+* Q&A: Dedicated Servers don't need to wait for an Update? https://www.youtube.com/watch?v=BRvjOB3hRaE
+* Q&A: Snowy Biome confirmed? https://www.youtube.com/watch?v=Yend7bHTMvw
+* Jace & Snutt Talk: Zombie/Clone Players (part 2) https://www.youtube.com/watch?v=8Kcg4e20fMk
+* Jace & Snutt Talk: Zombie/Clone Players (part 1) https://www.youtube.com/watch?v=atdEe4Bm11k
+* Q&A: Tier 9, 10, 11, 12? https://www.youtube.com/watch?v=NU1DLvv4zb0
+* Q&A: Any new info about Train Signals? https://www.youtube.com/watch?v=bPU07wU3Mr0
+* Q&A: Weather in Satisfactory? https://www.youtube.com/watch?v=Sxvg881RjeA
+* Q&A: Can we get more cat variety? https://www.youtube.com/watch?v=v_9SO9SU3B0
+* Q&A: Does destroying trees & rocks make the game slower like making buildings? https://www.youtube.com/watch?v=vOJIZQfzcUk
+* Q&A: What is the Object Count Limit, and how can we tell in our own game? https://www.youtube.com/watch?v=gMq-fPCqGWQ
+* Q&A: Are there server files when I want to host my own Dedicated Server? https://www.youtube.com/watch?v=12nA53wOK6w
+* Q&A: How's the cup going? https://www.youtube.com/watch?v=bkjnr6Ae1r0
+* Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible? https://www.youtube.com/watch?v=v0UZaH3mXh4
+* Q&A: Farm? https://www.youtube.com/watch?v=2i5toplIVJo
