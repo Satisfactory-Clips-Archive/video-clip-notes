@@ -17,3 +17,4 @@
 * [September 8th, 2020](satisfactory/2020-09-08.md)
 * [September 15th, 2020](satisfactory/2020-09-15.md)
 * [September 22nd, 2020](satisfactory/2020-09-22.md)
+* [September 29th, 2020](satisfactory/2020-09-29.md)

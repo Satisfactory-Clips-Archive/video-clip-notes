@@ -228,3 +228,16 @@
 * Q&A: How's the cup going? https://www.youtube.com/watch?v=bkjnr6Ae1r0
 * Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible? https://www.youtube.com/watch?v=v0UZaH3mXh4
 * Q&A: Farm? https://www.youtube.com/watch?v=2i5toplIVJo
+
+## September 29th, 2020
+* Jace Talk: Dedicated Servers summary https://www.youtube.com/watch?v=pEq7XWO3gCA
+* Q&A: Will Blueprints be a thing at some point? https://www.youtube.com/watch?v=Ywq4zdWMiq8
+* Q&A: Are there any Green Energy options in the game? https://www.youtube.com/watch?v=9eBugtyk8U0
+* Q&A: System that destroyed Nuclear Waste wouldn't be bad? https://www.youtube.com/watch?v=1nSztPm_B14
+* Q&A: Any update for Hosted/Dedicated Servers? https://www.youtube.com/watch?v=kiko6VnK6sA
+* Q&A: Will we see air vehicles some time in the future? https://www.youtube.com/watch?v=qJ56jBYTtAc
+* Q&A: Merch - The Cup https://www.youtube.com/watch?v=YhiTxpNy9Ao
+* Q&A: Give us Steam Achievements already? https://www.youtube.com/watch?v=9tNel2ksYnI
+* Q&A: Can we get Signs in the game? https://www.youtube.com/watch?v=P1hgqMJ8MW0
+* Snutt Talk: WIP (Work In Progress) Items https://www.youtube.com/watch?v=ItHlbfIkVl4
+* Q&A: Any plans for an elevator or lift? https://www.youtube.com/watch?v=zoHTyGXCbsM
