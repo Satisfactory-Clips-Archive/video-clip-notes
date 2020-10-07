@@ -1,0 +1,33 @@
+# [September 22nd, 2020 livestream](../2020-09-22.md)
+## Q&A: Tier 9, 10, 11, 12?
+https://www.youtube.com/watch?v=NU1DLvv4zb0
+> yes tier 9 10 11
+> 
+> 12 tier 9 has been confirmed has it
+> 
+> cool it already has i checked the wiki
+> 
+> earlier today
+> 
+> so either someone just bamboozled me by
+> 
+> just putting it in there yeah
+> 
+> no it's confirmed we should put stuff in
+> 
+> there
+> 
+> yeah we should put stuff in the wiki
+> 
+> just to [ __ ] with people
+> 
+> like oh [ __ ] they're going to have uh
+> 
+> mollusks in the game
+> 
+> mollusks can't wait for malice i can't
+> 
+> wait for that
+> 
+> it's going to be in tier 17.
+> 
