@@ -241,3 +241,13 @@
 * Q&A: Can we get Signs in the game? https://www.youtube.com/watch?v=P1hgqMJ8MW0
 * Snutt Talk: WIP (Work In Progress) Items https://www.youtube.com/watch?v=ItHlbfIkVl4
 * Q&A: Any plans for an elevator or lift? https://www.youtube.com/watch?v=zoHTyGXCbsM
+
+## October 6th, 2020
+* Q&A: When I play offline I get a second character? https://www.youtube.com/watch?v=6EGahbkbK18
+* Q&A: Will you incorporate any mods into the base game? https://www.youtube.com/watch?v=G1NZf7SbA00
+* Q&A: What is the object limit and why is it that number? https://www.youtube.com/watch?v=VpCuu0aYFw0
+* Q&A: Any update on Update 4 release date? https://www.youtube.com/watch?v=RfmKDYjBDUo
+* Q&A: Any plans to bring Satisfactory to Linux? https://www.youtube.com/watch?v=ADBTXxQnDL4
+* Q&A: Will we have to redo Pipe systems with the new Update? https://www.youtube.com/watch?v=7r2YUHrQyB8
+* Q&A: Any Update on Merch shipping alternatives? https://www.youtube.com/watch?v=kj_vdE5-CEI
+* Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into? https://www.youtube.com/watch?v=RVq5k89jlEA
