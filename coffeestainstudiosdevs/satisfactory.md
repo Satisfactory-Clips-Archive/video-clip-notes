@@ -18,3 +18,6 @@
 * [September 15th, 2020](satisfactory/2020-09-15.md)
 * [September 22nd, 2020](satisfactory/2020-09-22.md)
 * [September 29th, 2020](satisfactory/2020-09-29.md)
+
+## October 2020
+* [October 6th, 2020](satisfactory/2020-10-06.md)
