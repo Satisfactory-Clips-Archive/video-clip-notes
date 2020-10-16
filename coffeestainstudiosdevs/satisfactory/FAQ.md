@@ -251,3 +251,14 @@
 * Q&A: Will we have to redo Pipe systems with the new Update? https://www.youtube.com/watch?v=7r2YUHrQyB8
 * Q&A: Any Update on Merch shipping alternatives? https://www.youtube.com/watch?v=kj_vdE5-CEI
 * Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into? https://www.youtube.com/watch?v=RVq5k89jlEA
+
+## October 13th, 2020
+* Q&A: Is the Pioneer a human? https://www.youtube.com/watch?v=I0al2jSp_Rk
+* Q&A: I want this to come to XBox Series X & Playstation 5 https://www.youtube.com/watch?v=9NqrE4ASW9U
+* Q&A: Will you switch to using Unreal Engine 5? https://www.youtube.com/watch?v=9r6ROgTQ_n4
+* Q&A: When will the Merch be sold in the EU? https://www.youtube.com/watch?v=cLOvb6pC788
+* Q&A: What about the Mug? https://www.youtube.com/watch?v=IVy_-gV3h6M
+* Q&A: Update on the Mug? https://www.youtube.com/watch?v=9e8Q65g3HWI
+* Q&A: Info on EU shopping for Merch? https://www.youtube.com/watch?v=D3uJQzZmGQM
+* Q&A: Who knows the most about feature roadmap? https://www.youtube.com/watch?v=-MwbxCLSUC4
+* Q&A: If Factories can get attacked? https://www.youtube.com/watch?v=tK_m7AqM4sY
