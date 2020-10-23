@@ -262,3 +262,19 @@
 * Q&A: Info on EU shopping for Merch? https://www.youtube.com/watch?v=D3uJQzZmGQM
 * Q&A: Who knows the most about feature roadmap? https://www.youtube.com/watch?v=-MwbxCLSUC4
 * Q&A: If Factories can get attacked? https://www.youtube.com/watch?v=tK_m7AqM4sY
+
+# Pending categorisation in FAQ
+
+
+## October 20th, 2020
+* Q&A: Will Dedicated Servers have Multiple Hubs? https://www.youtube.com/watch?v=GDuWS-cOFX8
+* Jace Talk: Multiplayer Bugs vs. Dedicated Servers https://www.youtube.com/watch?v=cKyRBdQq7JY
+* Q&A: Dedicated Servers coming with the next Update ? https://www.youtube.com/watch?v=VyyzowIc504
+* Q&A: Will there be a way to auto-feed Biomass into the generators? https://www.youtube.com/watch?v=5eQ3I4vmbZA
+* Q&A: Will there be Priority Mergers for this Update? https://www.youtube.com/watch?v=sMidcvjGGOM
+* Q&A: When will Dedicated Servers be coming? https://www.youtube.com/watch?v=TW0i2hxJ7C0
+* Q&A: What's the secret behind S.A.M. Ore? https://www.youtube.com/watch?v=tXqk1eu0-BQ
+* Q&A: Are there plans for Character Customisation? https://www.youtube.com/watch?v=LAR8rVCHVmw
+* Q&A: Solar Panels? https://www.youtube.com/watch?v=zpNZHeAOoQE
+* Jace & Snutt Talk: Save-breaking Updates https://www.youtube.com/watch?v=Qbb01c0EnEE
+* Jace Talk: Merch Shipping outside of the US https://www.youtube.com/watch?v=dPyS44dffR8
