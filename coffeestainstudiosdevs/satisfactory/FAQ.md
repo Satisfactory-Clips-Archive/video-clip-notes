@@ -278,3 +278,14 @@
 * Q&A: Solar Panels? https://www.youtube.com/watch?v=zpNZHeAOoQE
 * Jace & Snutt Talk: Save-breaking Updates https://www.youtube.com/watch?v=Qbb01c0EnEE
 * Jace Talk: Merch Shipping outside of the US https://www.youtube.com/watch?v=dPyS44dffR8
+
+# Pending categorisation in FAQ
+
+
+## October 27th, 2020
+* Q&A: What about a new Map? https://www.youtube.com/watch?v=O9cRWaKhSRo
+* Q&A: Is ADA computer generated or a voice actress? https://www.youtube.com/watch?v=lSeLNlkKo1w
+* Q&A: Are Mods okay on Experimental? https://www.youtube.com/watch?v=qDzU3niTLPI
+* Q&A: Fluid Sink ever going to happen? https://www.youtube.com/watch?v=j79cJptq5h8
+* Q&A: Does the Packager also do unpacking? https://www.youtube.com/watch?v=s1ibMeMeBT8
+* Q&A: Can I play my Early Access save on Experimental? https://www.youtube.com/watch?v=d9u5Na0jBfo

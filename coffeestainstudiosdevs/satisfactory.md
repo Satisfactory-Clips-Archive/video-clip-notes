@@ -23,3 +23,4 @@
 * [October 6th, 2020](satisfactory/2020-10-06.md)
 * [October 13th, 2020](satisfactory/2020-10-13.md)
 * [October 20th, 2020](satisfactory/2020-10-20.md)
+* [October 27th, 2020](satisfactory/2020-10-27.md)
