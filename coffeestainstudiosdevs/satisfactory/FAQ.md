@@ -289,3 +289,28 @@
 * Q&A: Fluid Sink ever going to happen? https://www.youtube.com/watch?v=j79cJptq5h8
 * Q&A: Does the Packager also do unpacking? https://www.youtube.com/watch?v=s1ibMeMeBT8
 * Q&A: Can I play my Early Access save on Experimental? https://www.youtube.com/watch?v=d9u5Na0jBfo
+
+# Pending categorisation in FAQ
+
+
+## November 3rd, 2020
+* Q&A: What's the difference between Experimental and the other version? https://www.youtube.com/watch?v=T6zmq2rGoHU
+* Q&A: When do Signs come? https://www.youtube.com/watch?v=5PwIEaLRDRY
+* Q&A: Can you use old saves after Updates ? https://www.youtube.com/watch?v=2iEj514FVbs
+* Q&A: Will the Map become bigger? https://www.youtube.com/watch?v=1pzu9fbySq0
+* Q&A: Blueprints? https://www.youtube.com/watch?v=Vm5LIvY8TtA
+* Q&A: Map is amazing, but infinite generation? https://www.youtube.com/watch?v=2yoGAha7ju0
+* Q&A: Can you put in Lights, please? https://www.youtube.com/watch?v=7dm8Lvfj8Ao
+* Q&A: VR Support? https://www.youtube.com/watch?v=eJz8dJImPfQ
+* Q&A: Are Steam Achievements going to be added in the future? https://www.youtube.com/watch?v=Gi08SVnHyLU
+* Q&A: Can you give us a hint about the Story of the game? https://www.youtube.com/watch?v=gZoINqh_HAY
+* Q&A: Is it going to be possible to create randomly generated Resources on the Map? https://www.youtube.com/watch?v=xeAXhjMWZpI
+* Q&A: Is there going to be a Creative Mode? https://www.youtube.com/watch?v=Yn4Brcx8CSs
+* Q&A: RTX support ever? https://www.youtube.com/watch?v=PKx5vpwPGW0
+* Q&A: Can I play on Epic with someone on Steam? https://www.youtube.com/watch?v=zekvCEX_mv8
+* Q&A: Will there be DLCs? https://www.youtube.com/watch?v=-f-E47s74Uw
+* Q&A: Will Dedicated Servers run under Linux? https://www.youtube.com/watch?v=v5Niam8EYts
+* Q&A: Are there going to be new Creatures? https://www.youtube.com/watch?v=c3jeZv_aYug
+* Q&A: Will Satisfactory get Ray Tracing? https://www.youtube.com/watch?v=pb2KprHATHk
+* Q&A: Will we get Flying Vehicles? https://www.youtube.com/watch?v=CkWtF0M2ddY
+* Q&A: Shouldn't Vehicles despawn after they fall off the World? https://www.youtube.com/watch?v=3n1NZE7lkOk
