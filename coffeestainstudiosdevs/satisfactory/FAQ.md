@@ -314,3 +314,27 @@
 * Q&A: Will Satisfactory get Ray Tracing? https://www.youtube.com/watch?v=pb2KprHATHk
 * Q&A: Will we get Flying Vehicles? https://www.youtube.com/watch?v=CkWtF0M2ddY
 * Q&A: Shouldn't Vehicles despawn after they fall off the World? https://www.youtube.com/watch?v=3n1NZE7lkOk
+
+# Pending categorisation in FAQ
+
+
+## November 10th, 2020
+* Q&A: Nuclear Waste removal in-game when? https://www.youtube.com/watch?v=laualQ7TTug
+* Q&A: Mac Release / Release to other platforms? https://www.youtube.com/watch?v=xVOvU3NVxfs
+* Q&A: Nuclear removal when? https://www.youtube.com/watch?v=q-Z32Ff5_Pg
+* Q&A: When can we buy the FICSIT Cup? https://www.youtube.com/watch?v=8VBAsvNZAGM
+* Jace Talk: Merch https://www.youtube.com/watch?v=23FUIPYyBds
+* Q&A: When we talk about Dedicated Servers is the plan that those servers are hosted by Coffee Stain? https://www.youtube.com/watch?v=TYf5xLi8060
+* Q&A: Will Story need a new Save File? https://www.youtube.com/watch?v=zrHzxTVBc3w
+* Q&A: Can you summarise the upcoming builds for the next months? https://www.youtube.com/watch?v=hUYyIETHuJ4
+* Q&A: New Tiers? https://www.youtube.com/watch?v=cApO9CV5uhU
+* Q&A: Is there a debug command to see how many Objects you are using? https://www.youtube.com/watch?v=3Tht0Ap0S8c
+* Q&A: Are there Mods that you might put into the game? https://www.youtube.com/watch?v=DAmVYd9vGbA
+* Snutt & Jace Talk: Unreal Engine Object Limit https://www.youtube.com/watch?v=bk2ojhuil-g
+* Q&A: Any plans to expand the Map / add new Biomes? https://www.youtube.com/watch?v=oZhfgq9vdKg
+* Q&A: Marine life ? https://www.youtube.com/watch?v=cZCA9NXj7Co
+* Q&A: Achievements system? https://www.youtube.com/watch?v=bthe_Dhs6uo
+* Q&A: Randomising nodes? https://www.youtube.com/watch?v=eTALbWgKmuE
+* Q&A: Is it true that building vertically equals worse performance than building horizontally? https://www.youtube.com/watch?v=BF0MYqw_SpM
+* Q&A: Are Conveyor Belt Mk. 6 going to be a thing? https://www.youtube.com/watch?v=WbtzFVFOFMs
+* Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game? https://www.youtube.com/watch?v=2SqpfMeDmcw
