@@ -13,10 +13,14 @@
 * Q&A: Will Drones be added to the game for aerial travel? https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper
 
 ## August 25th, 2020
-* [various Q&A clips](2020-08-25.md#flying-vehicles)
+* Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother
+* Q&A: How about a drone to fly around? https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby
 
 ## September 8th, 2020
-* [various Q&A clips](2020-09-08.md#aerial-travel)
+* Jace Talk: Air Transportation https://www.youtube.com/watch?v=hKQlthlcwXc
+* Q&A: Jetpack needs a Hover Mode? https://www.youtube.com/watch?v=zeXh53pKe0A
+* Q&A: The game needs small Flying Vehicles to travel long distance? https://www.youtube.com/watch?v=i0_bbpQ_91I
+* Q&A: What're your guys thoughts on transport beyond Jetpacks ? https://www.youtube.com/watch?v=-sa8wjg4lYk
 
 ## September 22nd, 2020
 * Q&A: Any plans to add a Levitate option with Jetpacks? https://www.youtube.com/watch?v=_9P859YpEbE
@@ -27,8 +31,15 @@
 ## November 3rd, 2020
 * Q&A: Will we get Flying Vehicles? https://www.youtube.com/watch?v=CkWtF0M2ddY
 
+## November 17th, 2020
+* Trolling: Flying Vehicles in Update 4 https://www.youtube.com/watch?v=E666WdfoeP0
+
 
 # Buildings
+
+## September 8th, 2020
+* Q&A: Pollution is a thing? https://www.youtube.com/watch?v=EI4HJKvO-OU
+* Q&A: Will Factories continue to run when players are logged into a Dedicated Server? https://www.youtube.com/watch?v=UYJHOPt6tTw
 
 ## September 15th, 2020
 * Q&A: Are there any plans for Blueprinting Buildings? https://www.youtube.com/watch?v=-sQgPUaxR-Y
@@ -62,6 +73,10 @@
 ## September 8th, 2020
 * Q&A: Will this game come out on Console at some point? https://www.youtube.com/watch?v=pfD6p4g3fQ8
 
+## November 17th, 2020
+* Q&A: Is Console support coming? https://www.youtube.com/watch?v=tqB7YuLM2Fs
+* Trolling: Console Support https://www.youtube.com/watch?v=OMFvjE8llfs
+
 
 # Conveyor Belts
 
@@ -85,6 +100,9 @@
 
 ## November 10th, 2020
 * Q&A: Marine life ? https://www.youtube.com/watch?v=cZCA9NXj7Co
+
+## November 17th, 2020
+* Q&A: Any news on big Crab monster? https://www.youtube.com/watch?v=tTXExwaqZQM
 
 
 # DLC
@@ -118,7 +136,10 @@
 * Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content? https://www.youtube.com/watch?v=CGoHMrbwftU
 
 ## September 8th, 2020
-* [various clips](2020-09-08.md#dedicated-servers)
+* Jace & Snutt Talk: Update 4 & Dedicated Servers https://www.youtube.com/watch?v=PEFai6HyxTs
+* Q&A: Dedicated Servers aren't tied to an Update? https://www.youtube.com/watch?v=2GeQaPM1UGg
+* Q&A: When are we expecting to get Dedicated Servers? https://www.youtube.com/watch?v=G9PuZ0WvoOM
+* Q&A: Will Factories continue to run when players are logged into a Dedicated Server? https://www.youtube.com/watch?v=UYJHOPt6tTw
 
 ## September 15th, 2020
 * Snutt Talk: Dedicated Servers https://www.youtube.com/watch?v=yRJNzDLMJZU
@@ -149,6 +170,11 @@
 ## November 10th, 2020
 * Q&A: When we talk about Dedicated Servers is the plan that those servers are hosted by Coffee Stain? https://www.youtube.com/watch?v=TYf5xLi8060
 
+## November 17th, 2020
+* Q&A: Are Dedicated Servers part of Update 4? https://www.youtube.com/watch?v=MKjtHTOMDZk
+* Q&A: Updates about Dedicated Servers? https://www.youtube.com/watch?v=32SZ2UKPZiQ
+* Trolling: Dedicated Servers https://www.youtube.com/watch?v=rS_9SnK_Eag
+
 
 # Fluids
 
@@ -157,6 +183,15 @@
 
 ## October 27th, 2020
 * Q&A: Fluid Sink ever going to happen? https://www.youtube.com/watch?v=j79cJptq5h8
+
+
+# Foundations
+
+## September 1st, 2020
+* Q&A: Any plans for bigger foundations? https://www.youtube.com/watch?v=uUFy6qyZLKo
+
+## November 17th, 2020
+* Q&A: Circular Foundations? https://www.youtube.com/watch?v=5snNwUqWAxA
 
 
 # Game Modes
@@ -174,8 +209,23 @@
 ## November 10th, 2020
 * Q&A: Randomising nodes? https://www.youtube.com/watch?v=eTALbWgKmuE
 
+## November 17th, 2020
+* Q&A: When are you adding hunger & thirst? https://www.youtube.com/watch?v=hro__pZa1pk
+
+
+# Geothermal Energy
+
+## November 17th, 2020
+* Q&A: When are Geothermal Generators going to get it's Info Panel? https://www.youtube.com/watch?v=WTfWu44SQ1k
+
 
 # Graphics
+
+## September 1st, 2020
+* Q&A: DXR/RTX/DLSS ? https://www.youtube.com/watch?v=QuoiJ9lpkB4
+
+## September 8th, 2020
+* Q&A: Should I remove all nature to improve FPS? https://www.youtube.com/watch?v=t-FNpaJUBcE
 
 ## September 15th, 2020
 * Q&A: DLSS one day? https://www.youtube.com/watch?v=IXroe1QFRzc
@@ -186,6 +236,9 @@
 * Q&A: How about lighting? https://www.youtube.com/watch?v=WDfN-WpIJXY
 * Q&A: What is the Object Count Limit, and how can we tell in our own game? https://www.youtube.com/watch?v=gMq-fPCqGWQ
 
+## September 29th, 2020
+* Q&A: Add RTX? https://www.youtube.com/watch?v=KXKJxFYBxos
+
 ## November 3rd, 2020
 * Q&A: Can you put in Lights, please? https://www.youtube.com/watch?v=7dm8Lvfj8Ao
 * Q&A: RTX support ever? https://www.youtube.com/watch?v=PKx5vpwPGW0
@@ -194,6 +247,19 @@
 
 ## November 10th, 2020
 * Q&A: Is it true that building vertically equals worse performance than building horizontally? https://www.youtube.com/watch?v=BF0MYqw_SpM
+
+## November 17th, 2020
+* Q&A: Are there any plans to add an option to disable the day/night cycle? https://www.youtube.com/watch?v=15jG0o32Dqk
+* Q&A: Do you think this game would be suited for VR? https://www.youtube.com/watch?v=z_DRaH3tfvY
+* Trolling: Lights https://www.youtube.com/watch?v=-9gsspVilYk
+* Trolling: Procedural Generation https://www.youtube.com/watch?v=bvjKY6CcnLI
+* Trolling: Ray Tracing https://www.youtube.com/watch?v=ow_LpyvCnVo
+
+
+# Green Energy
+
+## November 17th, 2020
+* Q&A: Can we add Solar Power? https://www.youtube.com/watch?v=_Uf5e-J9TwA
 
 
 # Mass Building
@@ -211,7 +277,10 @@
 * Q&A: Any plans for 1-click multi-building? https://clips.twitch.tv/CheerfulLightAsteriskGOWSkull
 
 ## September 1st, 2020
-* [various clips](2020-09-01.md#mass-building)
+* Q&A: Any plans for bigger foundations? https://www.youtube.com/watch?v=uUFy6qyZLKo
+* Q&A: Blueprints? https://www.youtube.com/watch?v=hpl23B1A0Qk
+* Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are? https://www.youtube.com/watch?v=RyE_hc4huhA
+* Q&A: drag & place? https://www.youtube.com/watch?v=OQwjkJmYxAs
 
 ## September 15th, 2020
 * Q&A: Are there any plans for Blueprinting Buildings? https://www.youtube.com/watch?v=-sQgPUaxR-Y
@@ -230,6 +299,11 @@
 * Q&A: Is there a debug command to see how many Objects you are using? https://www.youtube.com/watch?v=3Tht0Ap0S8c
 * Snutt & Jace Talk: Unreal Engine Object Limit https://www.youtube.com/watch?v=bk2ojhuil-g
 
+## November 17th, 2020
+* Q&A: Are you going to add any Template/Blueprint system? https://www.youtube.com/watch?v=tkwKMTaTpV8
+* Q&A: Can we have your opinion on Blueprints? https://www.youtube.com/watch?v=0HoRmIFZq4Y
+* Q&A: What is the current state of the "click & drag" creation debate? https://www.youtube.com/watch?v=_tVKaBw1syU
+
 
 # Merch
 
@@ -245,7 +319,9 @@
 * Q&A: When will have Merch? https://clips.twitch.tv/FunOriginalPistachioNerfRedBlaster
 
 ## September 1st, 2020
-* [various clips](2020-09-01.md#merch)
+* Q&A: The Doggo Plushie has to fit into the Cup https://www.youtube.com/watch?v=HMsgkhM0i34
+* Q&A: What about the Merch? https://www.youtube.com/watch?v=jQyDj_wa0LA
+* Q&A: Will the Factory Cart be available as Merch? https://www.youtube.com/watch?v=i1iL8KXmptE
 
 ## September 8th, 2020
 * Q&A: Will there be a european Merch store? https://www.youtube.com/watch?v=GhfR61WpR6k
@@ -278,8 +354,16 @@
 * Jace Talk: Merch https://www.youtube.com/watch?v=23FUIPYyBds
 * Q&A: When can we buy the FICSIT Cup? https://www.youtube.com/watch?v=8VBAsvNZAGM
 
+## November 17th, 2020
+* Q&A: Do you have an update on the price of delivery fee of Merch? https://www.youtube.com/watch?v=mNtdBj-DpK0
+* Q&A: Mug Merch update? https://www.youtube.com/watch?v=6vHKc1HxAGc
+
 
 # Mods
+
+## September 8th, 2020
+* Jace & Snutt Talk: Map Modding https://www.youtube.com/watch?v=4nzTdrIc2hg
+* Q&A: Time to invest in Map Modding? https://www.youtube.com/watch?v=a5PSHoSuXec
 
 ## September 15th, 2020
 * Q&A: Official Mod support? https://www.youtube.com/watch?v=0M3RKdwK5mA
@@ -304,8 +388,15 @@
 * Q&A: Are Conveyor Belt Mk. 6 going to be a thing? https://www.youtube.com/watch?v=WbtzFVFOFMs
 * Q&A: Are there Mods that you might put into the game? https://www.youtube.com/watch?v=DAmVYd9vGbA
 
+## November 17th, 2020
+* Q&A: What are some of the things you guys want to see in Satisfactory? https://www.youtube.com/watch?v=NEM6_KiEgA8
+
 
 # Multiplayer
+
+## September 8th, 2020
+* Q&A: Should I remove all nature to improve FPS? https://www.youtube.com/watch?v=t-FNpaJUBcE
+* Q&A: Why not make a giant-ass World & Open Multiplayer? https://www.youtube.com/watch?v=ipZ1acgaODg
 
 ## September 22nd, 2020
 * Jace & Snutt Talk: Zombie/Clone Players (part 1) https://www.youtube.com/watch?v=atdEe4Bm11k
@@ -323,6 +414,12 @@
 
 ## November 3rd, 2020
 * Q&A: Can I play on Epic with someone on Steam? https://www.youtube.com/watch?v=zekvCEX_mv8
+
+## November 17th, 2020
+* Q&A: Are you going to fix the Trains so it doesn't break in multiplayer for other people? https://www.youtube.com/watch?v=Kg29HlSMQjI
+* Q&A: Better Multiplayer support? https://www.youtube.com/watch?v=ECQdh3EiXws
+* Q&A: Can we go over the Freight Train fix in a little detail? https://www.youtube.com/watch?v=7vpbefcvoYI
+* Q&A: Will Trees respawning being worked on? https://www.youtube.com/watch?v=59eW6SBaiNk
 
 
 # Nuclear Energy
@@ -343,10 +440,37 @@
 * Q&A: Nuclear removal when? https://www.youtube.com/watch?v=q-Z32Ff5_Pg
 
 
+# Official Mod Support
+
+## November 17th, 2020
+* Q&A: Is there any Official Mod Support planned? https://www.youtube.com/watch?v=z4Uv-UNMETw
+
+
 # Packager
 
 ## October 27th, 2020
 * Q&A: Does the Packager also do unpacking? https://www.youtube.com/watch?v=s1ibMeMeBT8
+
+
+# Paint
+
+## November 17th, 2020
+* Q&A: Paintable Vehicles when? https://www.youtube.com/watch?v=0DPbCQ4WQHU
+
+
+# Plants
+
+## September 8th, 2020
+* Q&A: Should I remove all nature to improve FPS? https://www.youtube.com/watch?v=t-FNpaJUBcE
+
+## November 17th, 2020
+* Q&A: Will Trees respawning being worked on? https://www.youtube.com/watch?v=59eW6SBaiNk
+
+
+# Pollution
+
+## September 8th, 2020
+* Q&A: Pollution is a thing? https://www.youtube.com/watch?v=EI4HJKvO-OU
 
 
 # Power Management
@@ -370,6 +494,10 @@
 * Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game? https://www.youtube.com/watch?v=2SqpfMeDmcw
 * Q&A: Nuclear Waste removal in-game when? https://www.youtube.com/watch?v=laualQ7TTug
 * Q&A: Nuclear removal when? https://www.youtube.com/watch?v=q-Z32Ff5_Pg
+
+## November 17th, 2020
+* Q&A: Can we add Solar Power? https://www.youtube.com/watch?v=_Uf5e-J9TwA
+* Q&A: When are Geothermal Generators going to get it's Info Panel? https://www.youtube.com/watch?v=WTfWu44SQ1k
 
 
 # Release Builds
@@ -402,6 +530,9 @@
 
 ## September 29th, 2020
 * Snutt Talk: WIP (Work In Progress) Items https://www.youtube.com/watch?v=ItHlbfIkVl4
+
+## November 17th, 2020
+* Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented? https://www.youtube.com/watch?v=ccmgnLh1oO0
 
 
 # Satisfactory Fluids Update
@@ -458,6 +589,9 @@
 ## September 1st, 2020
 * Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content? https://www.youtube.com/watch?v=CGoHMrbwftU
 
+## September 8th, 2020
+* Jace & Snutt Talk: Update 4 & Dedicated Servers https://www.youtube.com/watch?v=PEFai6HyxTs
+
 ## September 15th, 2020
 * Q&A: Any chance Update 4 unlocks the Work In Progress items? https://www.youtube.com/watch?v=Z870GlRbfjk
 * Q&A: Update release schedule (part 1) https://www.youtube.com/watch?v=xkalDtEeoOY
@@ -483,6 +617,18 @@
 
 ## November 10th, 2020
 * Q&A: Can you summarise the upcoming builds for the next months? https://www.youtube.com/watch?v=hUYyIETHuJ4
+
+## November 17th, 2020
+* Q&A: Any news on big Crab monster? https://www.youtube.com/watch?v=tTXExwaqZQM
+* Q&A: Are Dedicated Servers part of Update 4? https://www.youtube.com/watch?v=MKjtHTOMDZk
+* Q&A: Update 4 progress? https://www.youtube.com/watch?v=QK8Bis0LNp0
+* Trolling: Flying Vehicles in Update 4 https://www.youtube.com/watch?v=E666WdfoeP0
+
+
+# Satisfactory Update 5
+
+## November 17th, 2020
+* Q&A: Any news on big Crab monster? https://www.youtube.com/watch?v=tTXExwaqZQM
 
 
 # Signs
@@ -524,6 +670,10 @@
 ## November 10th, 2020
 * Q&A: Will Story need a new Save File? https://www.youtube.com/watch?v=zrHzxTVBc3w
 
+## November 17th, 2020
+* Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented? https://www.youtube.com/watch?v=ccmgnLh1oO0
+* Q&A: Who is Hannah? https://www.youtube.com/watch?v=KwsiVfRUKNE
+
 
 # Tiers
 
@@ -547,6 +697,9 @@
 ## November 10th, 2020
 * Q&A: New Tiers? https://www.youtube.com/watch?v=cApO9CV5uhU
 
+## November 17th, 2020
+* Trolling: Flying Vehicles in Update 4 https://www.youtube.com/watch?v=E666WdfoeP0
+
 
 # Trains
 
@@ -559,12 +712,34 @@
 ## October 6th, 2020
 * Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into? https://www.youtube.com/watch?v=RVq5k89jlEA
 
+## November 17th, 2020
+* Q&A: Are you going to fix the Trains so it doesn't break in multiplayer for other people? https://www.youtube.com/watch?v=Kg29HlSMQjI
+* Q&A: Can we go over the Freight Train fix in a little detail? https://www.youtube.com/watch?v=7vpbefcvoYI
+* Q&A: Train Collision https://www.youtube.com/watch?v=OdCLosbTp60
+
+
+# Trolling
+
+## November 17th, 2020
+* Trolling: Console Support https://www.youtube.com/watch?v=OMFvjE8llfs
+* Trolling: Dedicated Servers https://www.youtube.com/watch?v=rS_9SnK_Eag
+* Trolling: Flying Vehicles in Update 4 https://www.youtube.com/watch?v=E666WdfoeP0
+* Trolling: Lights https://www.youtube.com/watch?v=-9gsspVilYk
+* Trolling: Procedural Generation https://www.youtube.com/watch?v=bvjKY6CcnLI
+* Trolling: Ray Tracing https://www.youtube.com/watch?v=ow_LpyvCnVo
+
 
 # Unreal Engine
+
+## September 1st, 2020
+* Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are? https://www.youtube.com/watch?v=RyE_hc4huhA
 
 ## September 22nd, 2020
 * Q&A: What is the Object Count Limit, and how can we tell in our own game? https://www.youtube.com/watch?v=gMq-fPCqGWQ
 * Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5) https://www.youtube.com/watch?v=oT2NLP9ZvGk
+
+## September 29th, 2020
+* Q&A: Add RTX? https://www.youtube.com/watch?v=KXKJxFYBxos
 
 ## October 6th, 2020
 * Q&A: What is the object limit and why is it that number? https://www.youtube.com/watch?v=VpCuu0aYFw0
@@ -577,7 +752,19 @@
 * Snutt & Jace Talk: Unreal Engine Object Limit https://www.youtube.com/watch?v=bk2ojhuil-g
 
 
+# User Interface
+
+## November 17th, 2020
+* Q&A: When are Geothermal Generators going to get it's Info Panel? https://www.youtube.com/watch?v=WTfWu44SQ1k
+
+
 # Vehicles
+
+## September 1st, 2020
+* Q&A: Will the Factory Cart be available as Merch? https://www.youtube.com/watch?v=i1iL8KXmptE
+
+## September 8th, 2020
+* Q&A: What're your guys thoughts on transport beyond Jetpacks ? https://www.youtube.com/watch?v=-sa8wjg4lYk
 
 ## September 15th, 2020
 * Q&A: Any improvement for the Trucks so they can transport Fluids? https://www.youtube.com/watch?v=lNpwyJr7lZc
@@ -589,11 +776,21 @@
 * Q&A: Shouldn't Vehicles despawn after they fall off the World? https://www.youtube.com/watch?v=3n1NZE7lkOk
 * Q&A: Will we get Flying Vehicles? https://www.youtube.com/watch?v=CkWtF0M2ddY
 
+## November 17th, 2020
+* Q&A: Paintable Vehicles when? https://www.youtube.com/watch?v=0DPbCQ4WQHU
+
 
 # Weather Systems
 
 ## September 22nd, 2020
 * Q&A: Weather in Satisfactory? https://www.youtube.com/watch?v=Sxvg881RjeA
+
+## November 10th, 2020
+* Q&A: Can we get Weather to change? https://www.youtube.com/watch?v=iq-K9FY-RT8
+* Q&A: Will we have Weather events? https://www.youtube.com/watch?v=MzWzCnmbkYI
+
+## November 17th, 2020
+* Q&A: Any plans on Weather cycles? https://www.youtube.com/watch?v=-QpGRQcZfe0
 
 
 # World Map
@@ -616,10 +813,20 @@
 * [various clips](2020-08-25.md#world-map)
 
 ## September 1st, 2020
-* [various clips](2020-09-01.md#world-map)
+* Q&A: Let Hannah finish her work on the map before expanding? https://www.youtube.com/watch?v=wZOVw8KV1rQ
+* Q&A: Map expansion ? https://www.youtube.com/watch?v=2ZHnQ9U4f9I
 
 ## September 8th, 2020
-* [various clips](2020-09-08.md#world-map)
+* Jace & Snutt Talk: Map Modding https://www.youtube.com/watch?v=4nzTdrIc2hg
+* Q&A: Any plans for new Maps? https://www.youtube.com/watch?v=zBv2UdKrYtI
+* Q&A: Any thoughts on Terraforming, specifically tunneling ? https://www.youtube.com/watch?v=LIi_14XOp60
+* Q&A: Even more Biomes coming to play? https://www.youtube.com/watch?v=VgDl00Ycn3U
+* Q&A: Extension on current Map? https://www.youtube.com/watch?v=Ad3tjOha0JI
+* Q&A: Pollution is a thing? https://www.youtube.com/watch?v=EI4HJKvO-OU
+* Q&A: Should I remove all nature to improve FPS? https://www.youtube.com/watch?v=t-FNpaJUBcE
+* Q&A: Time to invest in Map Modding? https://www.youtube.com/watch?v=a5PSHoSuXec
+* Q&A: When can Poison Pillars be removed? https://www.youtube.com/watch?v=BRpEHi7W7u0
+* Q&A: Why not make a giant-ass World & Open Multiplayer? https://www.youtube.com/watch?v=ipZ1acgaODg
 
 ## September 15th, 2020
 * Q&A: Any plans for randomly generated worlds / Procedurally Generated maps? https://www.youtube.com/watch?v=eo_84m3ZYfQ
@@ -641,3 +848,10 @@
 
 ## November 10th, 2020
 * Q&A: Any plans to expand the Map / add new Biomes? https://www.youtube.com/watch?v=oZhfgq9vdKg
+
+## November 17th, 2020
+* Q&A: Are there any plans to add an option to disable the day/night cycle? https://www.youtube.com/watch?v=15jG0o32Dqk
+* Q&A: Is Snow/Ice coming? https://www.youtube.com/watch?v=s8HISCrP7w8
+* Q&A: Who is Hannah? https://www.youtube.com/watch?v=KwsiVfRUKNE
+* Q&A: Will Trees respawning being worked on? https://www.youtube.com/watch?v=59eW6SBaiNk
+* Trolling: Procedural Generation https://www.youtube.com/watch?v=bvjKY6CcnLI
