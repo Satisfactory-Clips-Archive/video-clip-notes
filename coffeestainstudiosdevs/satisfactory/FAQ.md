@@ -77,6 +77,10 @@
 * Q&A: Is Console support coming? https://www.youtube.com/watch?v=tqB7YuLM2Fs
 * Trolling: Console Support https://www.youtube.com/watch?v=OMFvjE8llfs
 
+## November 24th, 2020
+* Q&A: Is Console confirmed for Satisfactory? https://www.youtube.com/watch?v=KEJYlYO511Q
+* Q&A: When is Satisfactory coming to Switch? https://www.youtube.com/watch?v=tBDXG3OHt1c
+
 
 # Conveyor Belts
 
@@ -85,6 +89,9 @@
 
 ## November 10th, 2020
 * Q&A: Are Conveyor Belt Mk. 6 going to be a thing? https://www.youtube.com/watch?v=WbtzFVFOFMs
+
+## November 24th, 2020
+* Q&A: Mk.6 Belts coming? https://www.youtube.com/watch?v=H2WwaLFOI9Q
 
 
 # Creatures
@@ -175,6 +182,10 @@
 * Q&A: Updates about Dedicated Servers? https://www.youtube.com/watch?v=32SZ2UKPZiQ
 * Trolling: Dedicated Servers https://www.youtube.com/watch?v=rS_9SnK_Eag
 
+## November 24th, 2020
+* Q&A: Are Dedicated Servers going to have Mod support? https://www.youtube.com/watch?v=PD79jEZuOAU
+* Q&A: Dedicated Servers in Update 4? https://www.youtube.com/watch?v=QWirowEMRbk
+
 
 # Fluids
 
@@ -255,11 +266,21 @@
 * Trolling: Procedural Generation https://www.youtube.com/watch?v=bvjKY6CcnLI
 * Trolling: Ray Tracing https://www.youtube.com/watch?v=ow_LpyvCnVo
 
+## November 24th, 2020
+* Jace Talk: VR for Satisfactory https://www.youtube.com/watch?v=Xd5TIxzat7M
+* Q&A: Plans for Ray Tracing? https://www.youtube.com/watch?v=pvMET7F9BQ8
+
 
 # Green Energy
 
 ## November 17th, 2020
 * Q&A: Can we add Solar Power? https://www.youtube.com/watch?v=_Uf5e-J9TwA
+
+
+# Localisation
+
+## November 24th, 2020
+* Q&A: What other languages are going to be added? https://www.youtube.com/watch?v=xpzqQntBUgw
 
 
 # Mass Building
@@ -303,6 +324,10 @@
 * Q&A: Are you going to add any Template/Blueprint system? https://www.youtube.com/watch?v=tkwKMTaTpV8
 * Q&A: Can we have your opinion on Blueprints? https://www.youtube.com/watch?v=0HoRmIFZq4Y
 * Q&A: What is the current state of the "click & drag" creation debate? https://www.youtube.com/watch?v=_tVKaBw1syU
+
+## November 24th, 2020
+* Q&A: Any improvements on build limits? https://www.youtube.com/watch?v=eReH6Sdroq8
+* Q&A: Click & Drag functionality for building? https://www.youtube.com/watch?v=vaYxvmOkUQY
 
 
 # Merch
@@ -358,6 +383,9 @@
 * Q&A: Do you have an update on the price of delivery fee of Merch? https://www.youtube.com/watch?v=mNtdBj-DpK0
 * Q&A: Mug Merch update? https://www.youtube.com/watch?v=6vHKc1HxAGc
 
+## November 24th, 2020
+* Q&A: The Cup, where can I buy it? https://www.youtube.com/watch?v=WpsGOpaoH1o
+
 
 # Mods
 
@@ -371,6 +399,10 @@
 
 ## October 27th, 2020
 * Q&A: Are Mods okay on Experimental? https://www.youtube.com/watch?v=qDzU3niTLPI
+
+## November 24th, 2020
+* Q&A: Are Dedicated Servers going to have Mod support? https://www.youtube.com/watch?v=PD79jEZuOAU
+* Q&A: Will Mods be downloadable in-game? https://www.youtube.com/watch?v=JRP30-Yz8pQ
 
 
 # Mods vs. Features
@@ -439,11 +471,17 @@
 * Q&A: Nuclear Waste removal in-game when? https://www.youtube.com/watch?v=laualQ7TTug
 * Q&A: Nuclear removal when? https://www.youtube.com/watch?v=q-Z32Ff5_Pg
 
+## November 24th, 2020
+* Q&A: Any way to recycle Nuclear Waste? https://www.youtube.com/watch?v=2ZbRpgGteaI
+
 
 # Official Mod Support
 
 ## November 17th, 2020
 * Q&A: Is there any Official Mod Support planned? https://www.youtube.com/watch?v=z4Uv-UNMETw
+
+## November 24th, 2020
+* Q&A: Will Mods be downloadable in-game? https://www.youtube.com/watch?v=JRP30-Yz8pQ
 
 
 # Packager
@@ -508,6 +546,9 @@
 ## November 10th, 2020
 * Q&A: Can you summarise the upcoming builds for the next months? https://www.youtube.com/watch?v=hUYyIETHuJ4
 * Q&A: Mac Release / Release to other platforms? https://www.youtube.com/watch?v=xVOvU3NVxfs
+
+## November 24th, 2020
+* Q&A: Is there going to be a Satisfactory for Mac? https://www.youtube.com/watch?v=eLjNJO4pUBA
 
 
 # Resources
@@ -623,6 +664,11 @@
 * Q&A: Are Dedicated Servers part of Update 4? https://www.youtube.com/watch?v=MKjtHTOMDZk
 * Q&A: Update 4 progress? https://www.youtube.com/watch?v=QK8Bis0LNp0
 * Trolling: Flying Vehicles in Update 4 https://www.youtube.com/watch?v=E666WdfoeP0
+
+## November 24th, 2020
+* Jace Talk: Update 4 release schedule https://www.youtube.com/watch?v=e7ASTpTbibg
+* Q&A: Any air & sea Vehicles in Update 4? https://www.youtube.com/watch?v=HSoBZKjAN1k
+* Q&A: Dedicated Servers in Update 4? https://www.youtube.com/watch?v=QWirowEMRbk
 
 
 # Satisfactory Update 5
@@ -751,6 +797,10 @@
 * Q&A: Is there a debug command to see how many Objects you are using? https://www.youtube.com/watch?v=3Tht0Ap0S8c
 * Snutt & Jace Talk: Unreal Engine Object Limit https://www.youtube.com/watch?v=bk2ojhuil-g
 
+## November 24th, 2020
+* Q&A: Any improvements on build limits? https://www.youtube.com/watch?v=eReH6Sdroq8
+* Q&A: Will the Engine Upgrade affect performance? https://www.youtube.com/watch?v=S0BQ6HAU2vA
+
 
 # User Interface
 
@@ -778,6 +828,15 @@
 
 ## November 17th, 2020
 * Q&A: Paintable Vehicles when? https://www.youtube.com/watch?v=0DPbCQ4WQHU
+
+## November 24th, 2020
+* Q&A: Any air & sea Vehicles in Update 4? https://www.youtube.com/watch?v=HSoBZKjAN1k
+
+
+# Walls
+
+## November 24th, 2020
+* Q&A: When are diagonal Walls coming? https://www.youtube.com/watch?v=0-3ITfkBKZw
 
 
 # Weather Systems
@@ -855,3 +914,8 @@
 * Q&A: Who is Hannah? https://www.youtube.com/watch?v=KwsiVfRUKNE
 * Q&A: Will Trees respawning being worked on? https://www.youtube.com/watch?v=59eW6SBaiNk
 * Trolling: Procedural Generation https://www.youtube.com/watch?v=bvjKY6CcnLI
+
+## November 24th, 2020
+* Q&A: Any plans for underwater mechanics? https://www.youtube.com/watch?v=nQplpfNLru8
+* Q&A: Is terraforming possible any time in the future? https://www.youtube.com/watch?v=_fE2dbyaJZg
+* Q&A: Procedural generation of the World? https://www.youtube.com/watch?v=q6tkuGjM4zY
