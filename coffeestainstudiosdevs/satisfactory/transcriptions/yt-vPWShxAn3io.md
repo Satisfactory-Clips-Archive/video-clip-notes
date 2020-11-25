@@ -1,399 +1,399 @@
-# [September 22nd, 2020 livestream](../2020-09-22.md)
+# [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Jace & Snutt Talk: Story
 https://www.youtube.com/watch?v=vPWShxAn3io
 > here here as well and uh boy oh boy do
-> 
+>
 > we have a
-> 
+>
 > big update on today uh
-> 
+>
 > talking to the reporter on the scene uh
-> 
+>
 > first of all i mean are you kidding or
-> 
+>
 > do you actually have an update well i
-> 
+>
 > mean
-> 
+>
 > i was going to talk about the story
-> 
+>
 > stuff but yeah go ahead okay well yeah
-> 
+>
 > yeah yeah so so there was
-> 
+>
 > uh hannah who is not only our level
-> 
+>
 > slash world designer
-> 
+>
 > but uh also
-> 
+>
 > our writer for the story and so today
-> 
+>
 > she did a big old
-> 
+>
 > uh uh presentation yeah
-> 
+>
 > of the story to us to the rest of the
-> 
+>
 > studio
-> 
+>
 > and it was very interesting uh we can't
-> 
+>
 > say what the story is
-> 
+>
 > guys of course but um yeah it was super
-> 
+>
 > cool and all i can say
-> 
+>
 > is like it feels like it's not basic
-> 
+>
 > which is nice you know i think it's
-> 
+>
 > pretty good like
-> 
+>
 > there are many there are many aspects to
-> 
+>
 > it yeah so that's pretty cool
-> 
+>
 > uh it it won't be it won't be nothing it
-> 
+>
 > doesn't for you
-> 
+>
 > it doesn't force you to do the story to
-> 
+>
 > play the game or anything like that it's
-> 
+>
 > it's it's more supplementary because the
-> 
+>
 > game is about the factory but but if you
-> 
+>
 > want to chase the story you kind of can
-> 
+>
 > as well
-> 
+>
 > um but also did live
-> 
+>
 > live tweet yeah i did if you check out
-> 
+>
 > satisfac
-> 
+>
 > twitter.com satisfactoryaf
-> 
+>
 > um i think it's like the latest posts
-> 
+>
 > that you've done yeah
-> 
+>
 > i i yeah there's one tweet that i [ __ ]
-> 
+>
 > up to keep it in the
-> 
+>
 > in the thread but it's kind of funny
-> 
+>
 > that it's its own tweet so i just left
-> 
+>
 > it
-> 
+>
 > cool cool yeah but yeah you can check
-> 
+>
 > that out there's a thread about
-> 
+>
 > uh that that's actually from hannah's
-> 
+>
 > presentation we just redacted a few
-> 
+>
 > things
-> 
+>
 > uh yeah just a couple things but a few
-> 
+>
 > things that products
-> 
+>
 > yeah it's just a couple things it wasn't
-> 
+>
 > too bad though yeah where's the toilet
-> 
+>
 > dlc i'm pushing for it
-> 
+>
 > we're all waiting for that sweet flush
-> 
+>
 > bro it's getting stinking here
-> 
+>
 > um but yeah so hannah did a she's been
-> 
+>
 > working on like the
-> 
+>
 > whole story so we've always had like us
-> 
+>
 > since we released the game we've always
-> 
+>
 > been like we're gonna have a story in
-> 
+>
 > the game at some point
-> 
+>
 > and hannah is the lead writer on that
-> 
+>
 > and she's had like a you know
-> 
+>
 > the overarching like this is the start
-> 
+>
 > in the end kind of
-> 
+>
 > but now she's like fully sat down and
-> 
+>
 > like fleshed out like okay
-> 
+>
 > what does that mean uh and you know all
-> 
+>
 > the
-> 
+>
 > everything that involves that story i
-> 
+>
 > feel like if i talk too much about it
-> 
+>
 > i'm probably gonna spoil
-> 
+>
 > so i'm gonna try and keep it as big as i
-> 
+>
 > can um but
-> 
+>
 > because the thing is as well like we're
-> 
+>
 > talking about the story right now and
-> 
+>
 > this is the first time that like the
-> 
+>
 > rest of the studio got to hear this
-> 
+>
 > story
-> 
+>
 > but like that's for 1.0 so that's still
-> 
+>
 > like
-> 
+>
 > way off in the future until you guys
-> 
+>
 > will actually
-> 
+>
 > get to experience that stuff um
-> 
+>
 > because we are we are intending to kind
-> 
+>
 > of like
-> 
+>
 > release the whole story as one big
-> 
+>
 > segment or like in one big patch or
-> 
+>
 > whatever
-> 
+>
 > so you don't get like the subnautica
-> 
+>
 > thing where you get like pieces of the
-> 
+>
 > story as we go in early access
-> 
+>
 > we kind of like want to release the
-> 
+>
 > whole story in one big chunk
-> 
+>
 > so that you don't get like the blocky
-> 
+>
 > like the the experience that like you'll
-> 
+>
 > get stopped at some point or some
-> 
+>
 > something like that yeah um or it's like
-> 
+>
 > or it's like you get past a certain
-> 
+>
 > point but your stuff gets added before
-> 
+>
 > that and it's like
-> 
+>
 > yeah but yeah so like as we've said many
-> 
+>
 > times a lot of the
-> 
+>
 > work in progress items are part of the
-> 
+>
 > story it's like mercy spheres and
-> 
+>
 > summer sloops
-> 
+>
 > [Music]
-> 
+>
 > sorry i farted um
-> 
+>
 > [Laughter]
-> 
+>
 > it's funny because they've not drilled
-> 
+>
 > like
-> 
+>
 > anything today and like one minute
-> 
+>
 > before you glued up
-> 
+>
 > they just like started going at it
-> 
+>
 > they're watching the stream probably
-> 
+>
 > want to be on it literally one minute
-> 
+>
 > before didn't hear anything before that
-> 
+>
 > um yeah so so like the uh samoan stuff
-> 
+>
 > as well
-> 
+>
 > so we we now know pretty much what
-> 
+>
 > they're going to be used for
-> 
+>
 > or their purpose essentially
-> 
+>
 > and basically we're just flexing right
-> 
+>
 > now and just being lost
-> 
+>
 > we know so much and you don't hell yeah
-> 
+>
 > yeah so we reflect but okay exactly so
-> 
+>
 > you make 28k
-> 
+>
 > the one thing we can reveal though that
-> 
+>
 > was a pretty big
-> 
+>
 > thing in the in the uh in the
-> 
+>
 > presentation
-> 
+>
 > was that the story the primary thing
-> 
+>
 > about the story is that it's a cake
-> 
+>
 > that's the one thing that i got out of
-> 
+>
 > it
-> 
+>
 > like there's a cake and there's icing
-> 
+>
 > i wasn't fully listening so i only
-> 
+>
 > caught this part but i think this is a
-> 
+>
 > pretty big part of the
-> 
+>
 > the whole presentation so just just
-> 
+>
 > putting that out there
-> 
+>
 > very nice jay borden got there young dog
-> 
+>
 > shirt very nice young dog represent
-> 
+>
 > except not really i didn't go outside
-> 
+>
 > with this [ __ ] uh my young dog was
-> 
+>
 > uh in the is in the dryer right now but
-> 
+>
 > i am wearing the
-> 
+>
 > this the fix-it one so i'm trying to
-> 
+>
 > make up for it
-> 
+>
 > yeah so you got the you got the good one
-> 
+>
 > i didn't get one of those
-> 
+>
 > didn't you nope but you got the fix it
-> 
+>
 > um hoodie didn't you get another one as
-> 
+>
 > well
-> 
+>
 > wasn't there oh maybe that was yum dog
-> 
+>
 > gotta get yum dog yo yum dog is the best
-> 
+>
 > one
-> 
+>
 > it really isn't i mean it really is
-> 
+>
 > though
-> 
+>
 > i mean i all right well we've come to an
-> 
+>
 > impulse
-> 
+>
 > this is what happens when an immovable
-> 
+>
 > object meets an unstoppable force
-> 
+>
 > exactly uh
-> 
+>
 > will the story be released as a book
-> 
+>
 > slash merch that could be interesting
-> 
+>
 > maybe it's like a
-> 
+>
 > or like a comic book spin-off like uh
-> 
+>
 > portal did that would be really cool
-> 
+>
 > actually
-> 
+>
 > yeah yum dog millionaire was a good move
-> 
+>
 > i'm convinced buying another yum dog
-> 
+>
 > shirt don't do it don't do it
-> 
+>
 > hannah's writing a book with the game
-> 
+>
 > plot it's actually
-> 
+>
 > if you've seen the site the size of the
-> 
+>
 > um
-> 
+>
 > like the all the information about the
-> 
+>
 > story is like a book
-> 
+>
 > yeah like yeah because it was
-> 
+>
 > essentially a
-> 
+>
 > full one-hour presentation of yeah
-> 
+>
 > like both a brief presentation a brief
-> 
+>
 > yeah it's a brief presentation of like
-> 
+>
 > um of the the whole story essentially
-> 
+>
 > and also how the story is delivered
-> 
+>
 > which i probably don't think we'll talk
-> 
+>
 > about either but
-> 
+>
 > um so yeah but there's still a lot of
-> 
+>
 > work left
-> 
+>
 > there's there's uh there's a whole whole
-> 
+>
 > time ahead of us to work on that and
-> 
+>
 > flesh that out so it's going to be dope
-> 
+>
 > i think
-> 
+>
 > i'm excited
-> 
+>
