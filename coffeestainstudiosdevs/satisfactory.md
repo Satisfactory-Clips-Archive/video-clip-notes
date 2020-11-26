@@ -28,3 +28,5 @@
 ## November 2020
 * [November 3rd, 2020](satisfactory/2020-11-03.md)
 * [November 10th, 2020](satisfactory/2020-11-10.md)
+* [November 17th, 2020](satisfactory/2020-11-17.md)
+* [November 24th, 2020](satisfactory/2020-11-24.md)
