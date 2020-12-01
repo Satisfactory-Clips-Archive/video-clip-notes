@@ -474,6 +474,9 @@
 ## November 24th, 2020
 * Q&A: Any way to recycle Nuclear Waste? https://www.youtube.com/watch?v=2ZbRpgGteaI
 
+## December 1st, 2020
+* Q&A: How do we get rid of toxic waste? https://www.youtube.com/watch?v=sag85tf3NQQ
+
 
 # Official Mod Support
 
@@ -689,6 +692,12 @@
 * Q&A: Signs & Planets https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo
 
 
+# Special Guests
+
+## December 1st, 2020
+* Q&A: How do we get rid of toxic waste? https://www.youtube.com/watch?v=sag85tf3NQQ
+
+
 # State of Dev
 
 ## November 10th, 2020
@@ -818,6 +827,9 @@
 
 ## September 15th, 2020
 * Q&A: Any improvement for the Trucks so they can transport Fluids? https://www.youtube.com/watch?v=lNpwyJr7lZc
+
+## September 22nd, 2020
+* Q&A: Boats will come? https://www.youtube.com/watch?v=33wha_duTqs
 
 ## October 6th, 2020
 * Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into? https://www.youtube.com/watch?v=RVq5k89jlEA

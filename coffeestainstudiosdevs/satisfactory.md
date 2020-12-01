@@ -30,3 +30,6 @@
 * [November 10th, 2020](satisfactory/2020-11-10.md)
 * [November 17th, 2020](satisfactory/2020-11-17.md)
 * [November 24th, 2020](satisfactory/2020-11-24.md)
+
+## December 2020
+* [December 1st, 2020](satisfactory/2020-12-01.md)
