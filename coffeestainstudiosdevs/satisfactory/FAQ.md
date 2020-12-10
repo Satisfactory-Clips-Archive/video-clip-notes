@@ -52,11 +52,23 @@
 ## October 27th, 2020
 * Q&A: Fluid Sink ever going to happen? https://www.youtube.com/watch?v=j79cJptq5h8
 
+## December 8th, 2020
+* Snutt Talk: Lights on Buildings https://www.youtube.com/watch?v=fsP_b5C7y0M
+
 
 # Character Customisation
 
 ## October 20th, 2020
 * Q&A: Are there plans for Character Customisation? https://www.youtube.com/watch?v=LAR8rVCHVmw
+
+
+# Coffeestainers
+
+## September 1st, 2020
+* Q&A: Let Hannah finish her work on the map before expanding? https://www.youtube.com/watch?v=wZOVw8KV1rQ
+
+## November 17th, 2020
+* Q&A: Who is Hannah? https://www.youtube.com/watch?v=KwsiVfRUKNE
 
 
 # Console Release
@@ -186,6 +198,18 @@
 * Q&A: Are Dedicated Servers going to have Mod support? https://www.youtube.com/watch?v=PD79jEZuOAU
 * Q&A: Dedicated Servers in Update 4? https://www.youtube.com/watch?v=QWirowEMRbk
 
+## December 8th, 2020
+* Q&A: Is there a reason for a lack of Dedicated Server builds? https://www.youtube.com/watch?v=47gzhAEWkFM
+
+
+# FICS⁕MAS
+
+## December 8th, 2020
+* Jace Talk: FICS⁕MAS leaks are not "leaks" https://www.youtube.com/watch?v=TOevQ69HYNA
+* Q&A: How do you get the Advent Calendar? https://www.youtube.com/watch?v=LPU9cyNeI7Y
+* Q&A: What are we going to keep after the event? https://www.youtube.com/watch?v=nZjZGFce1lE
+* Q&A: Will Gift Trees continue to produce? https://www.youtube.com/watch?v=FqUcLve4Oyc
+
 
 # Fluids
 
@@ -222,6 +246,10 @@
 
 ## November 17th, 2020
 * Q&A: When are you adding hunger & thirst? https://www.youtube.com/watch?v=hro__pZa1pk
+
+## December 8th, 2020
+* Q&A: Will there be a creative-style mode in the future? https://www.youtube.com/watch?v=ba7BBZw0IsU
+* Q&A: Will there be any Base Defense? https://www.youtube.com/watch?v=5-8ACtMU2_E
 
 
 # Geothermal Energy
@@ -269,6 +297,10 @@
 ## November 24th, 2020
 * Jace Talk: VR for Satisfactory https://www.youtube.com/watch?v=Xd5TIxzat7M
 * Q&A: Plans for Ray Tracing? https://www.youtube.com/watch?v=pvMET7F9BQ8
+
+## December 8th, 2020
+* Snutt Talk: Lights (not) confirmed! https://www.youtube.com/watch?v=9VodwDOMBl0
+* Snutt Talk: Lights on Buildings https://www.youtube.com/watch?v=fsP_b5C7y0M
 
 
 # Green Energy
@@ -404,6 +436,9 @@
 * Q&A: Are Dedicated Servers going to have Mod support? https://www.youtube.com/watch?v=PD79jEZuOAU
 * Q&A: Will Mods be downloadable in-game? https://www.youtube.com/watch?v=JRP30-Yz8pQ
 
+## December 8th, 2020
+* Q&A: Will Mods break? https://www.youtube.com/watch?v=f1iY6Fj__E0
+
 
 # Mods vs. Features
 
@@ -453,6 +488,9 @@
 * Q&A: Can we go over the Freight Train fix in a little detail? https://www.youtube.com/watch?v=7vpbefcvoYI
 * Q&A: Will Trees respawning being worked on? https://www.youtube.com/watch?v=59eW6SBaiNk
 
+## December 8th, 2020
+* Q&A: Is Multiplayer desync fixed in Update 4? https://www.youtube.com/watch?v=OjiLxOBdkU8
+
 
 # Nuclear Energy
 
@@ -485,6 +523,9 @@
 
 ## November 24th, 2020
 * Q&A: Will Mods be downloadable in-game? https://www.youtube.com/watch?v=JRP30-Yz8pQ
+
+## December 8th, 2020
+* Q&A: Will there be official mod support in the future? https://www.youtube.com/watch?v=7igkLYvzHCU
 
 
 # Packager
@@ -673,6 +714,13 @@
 * Q&A: Any air & sea Vehicles in Update 4? https://www.youtube.com/watch?v=HSoBZKjAN1k
 * Q&A: Dedicated Servers in Update 4? https://www.youtube.com/watch?v=QWirowEMRbk
 
+## December 8th, 2020
+* Jace Talk: FICS⁕MAS leaks are not "leaks" https://www.youtube.com/watch?v=TOevQ69HYNA
+* Q&A: As Update 4 gets closer will you be releasing more info on how to prepare for the changes? https://www.youtube.com/watch?v=dkVq6ix0lQM
+* Q&A: ETA on Update 4? https://www.youtube.com/watch?v=2Slrxqcmay0
+* Q&A: Is Multiplayer desync fixed in Update 4? https://www.youtube.com/watch?v=OjiLxOBdkU8
+* Q&A: Will Mods break? https://www.youtube.com/watch?v=f1iY6Fj__E0
+
 
 # Satisfactory Update 5
 
@@ -755,6 +803,10 @@
 ## November 17th, 2020
 * Trolling: Flying Vehicles in Update 4 https://www.youtube.com/watch?v=E666WdfoeP0
 
+## December 8th, 2020
+* Q&A: Do you guys know what is going to be the last Tier in the game? https://www.youtube.com/watch?v=ZOmxbDTRWmg
+* Q&A: Is Tier 8 last Tier for the game? https://www.youtube.com/watch?v=FhoIzj_QLm0
+
 
 # Trains
 
@@ -783,6 +835,9 @@
 * Trolling: Procedural Generation https://www.youtube.com/watch?v=bvjKY6CcnLI
 * Trolling: Ray Tracing https://www.youtube.com/watch?v=ow_LpyvCnVo
 
+## December 8th, 2020
+* Jace Talk: FICS⁕MAS leaks are not "leaks" https://www.youtube.com/watch?v=TOevQ69HYNA
+
 
 # Unreal Engine
 
@@ -809,6 +864,10 @@
 ## November 24th, 2020
 * Q&A: Any improvements on build limits? https://www.youtube.com/watch?v=eReH6Sdroq8
 * Q&A: Will the Engine Upgrade affect performance? https://www.youtube.com/watch?v=S0BQ6HAU2vA
+
+## December 8th, 2020
+* Q&A: When is the Engine Upgrade planned now? https://www.youtube.com/watch?v=kg4OkSCHFNs
+* Snutt Talk: Lights (not) confirmed! https://www.youtube.com/watch?v=9VodwDOMBl0
 
 
 # User Interface

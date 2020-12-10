@@ -33,3 +33,4 @@
 
 ## December 2020
 * [December 1st, 2020](satisfactory/2020-12-01.md)
+* [December 8th, 2020](satisfactory/2020-12-08.md)
