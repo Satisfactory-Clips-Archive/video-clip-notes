@@ -85,19 +85,26 @@
 
 # Satisfactory Updates
 * [Satisfactory Updates > State of Dev](./topics/satisfactory-updates/state-of-dev.md)
-* [Satisfactory Updates > Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
-* [Satisfactory Updates > Satisfactory Update 3](./topics/satisfactory-updates/satisfactory-update-3.md)
-* [Satisfactory Updates > Satisfactory Fluids Update](./topics/satisfactory-updates/satisfactory-fluids-update.md)
-* [Satisfactory Updates > Satisfactory Update 4](./topics/satisfactory-updates/satisfactory-update-4.md)
-* [Satisfactory Updates > Satisfactory Update 5](./topics/satisfactory-updates/satisfactory-update-5.md)
-* [Satisfactory Updates > Satisfactory Update 6](./topics/satisfactory-updates/satisfactory-update-6.md)
-* [Satisfactory Updates > Satisfactory Update 8](./topics/satisfactory-updates/satisfactory-update-8.md)
 * [Satisfactory Updates > Release Builds](./topics/satisfactory-updates/release-builds.md)
-* [Satisfactory Updates > Satisfactory 1.0](./topics/satisfactory-updates/satisfactory-1-0.md)
+* [Satisfactory Updates > Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
+
+## Pending
+* [Satisfactory Updates > Pending > Satisfactory Update 4](./topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Pending > Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
+
+## Released
+* [Satisfactory Updates > Released > Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](./topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ## Seasonal Events
 * [Satisfactory Updates > Seasonal Events](./topics/satisfactory-updates/seasonal-events.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](./topics/satisfactory-updates/seasonal-events/fics-mas.md)
+
+## Speculative
+* [Satisfactory Updates > Speculative > Satisfactory Update 5](./topics/satisfactory-updates/speculative/satisfactory-update-5.md)
+* [Satisfactory Updates > Speculative > Satisfactory Update 6](./topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Speculative > Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
+
 
 # Technology
 * [Technology > Graphics](./topics/technology/graphics.md)
