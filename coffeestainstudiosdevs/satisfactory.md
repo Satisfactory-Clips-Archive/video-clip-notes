@@ -1,7 +1,8 @@
-[FAQ](satisfactory/FAQ.md)
-[Topics](satisfactory/topics.md)
-
 # Archives
+* [FAQ](satisfactory/FAQ.md)
+* [Topics](satisfactory/topics.md)
+
+# Archives By Date
 
 ## July 2020
 * [July 8th, 2020](satisfactory/2020-07-08.md)
