@@ -29,3 +29,13 @@
 * Q&A: Will you be able to upgrade Splitters to Smart/Programmable Splitters? https://www.youtube.com/watch?v=7G0wdPB4X-c
 * Q&A: How about that device used to measure stuff on Conveyor Belts? https://www.youtube.com/watch?v=7KXTz-m8424
 * Q&A: Will there be Priority Mergers for this Update? https://www.youtube.com/watch?v=sMidcvjGGOM
+
+# August 25th, 2020 Livestream
+* Q&A: Please think about adding dedicated Storage Containers like in Ark ? https://clips.twitch.tv/ArbitraryIronicClipsdadPicoMause
+
+## Q&A: Can players have custom programmers ?
+* Part 1: https://clips.twitch.tv/BovineConsiderateSangMVGame
+* Part 2: https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain
+
+# August 18th, 2020 Livestream
+* Q&A: Will there ever be conveyor lift splitters & mergers ? https://clips.twitch.tv/MiniatureFlaccidSwanKAPOW

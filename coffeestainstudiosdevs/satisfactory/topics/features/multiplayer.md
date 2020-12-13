@@ -66,3 +66,29 @@
 * Q&A: Train Multiplayer Bugs https://www.youtube.com/watch?v=2zs8wqPKwFE
 * Q&A: Is multiplayer desync getting fixed? https://www.youtube.com/watch?v=tkx-DVLp3fs
 * Q&A: Maybe it's a good idea to dynamically hand over authority a vehicle in multiplayer? https://www.youtube.com/watch?v=Xdrr6IazPTg
+
+# August 25th, 2020 Livestream
+* Q&A: Is there a Battle Royale Mode planned? https://clips.twitch.tv/SavorySlickWombatOSkomodo
+* Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug? https://clips.twitch.tv/LightAcceptableCheesePermaSmug
+* Q&A: The time for multiplayer fix, can't use vehicles? https://clips.twitch.tv/PlayfulConfidentRabbitCurseLit
+
+## Q&A: Are you going to improve networking for multiplayer?
+* Part 1: https://clips.twitch.tv/HomelyHyperGnatDoritosChip
+* Part 2: https://clips.twitch.tv/SpinelessTsundereBurritoDxAbomb
+
+# August 18th, 2020 Livestream
+* Q&A: Offline Play https://clips.twitch.tv/BashfulDependableBobaWTRuck
+
+## Multiplayer desync issues
+* Part 1: https://clips.twitch.tv/AliveHomelySandwichGivePLZ
+* Part 2: https://clips.twitch.tv/VastScrumptiousEyeballLeeroyJenkins
+* Part 3: https://clips.twitch.tv/TsundereHandsomeBottleCharlietheUnicorn
+
+## Q&A: When will multiplayer reach 128 so we can build a tower?
+* Part 1: https://clips.twitch.tv/OpenIntelligentPizzaYouWHY
+* Part 2: https://clips.twitch.tv/TardyBitterGnatDatSheffy
+* Part 3: https://clips.twitch.tv/SavagePopularBatChocolateRain
+
+## Q&A: Session Privacy / Join Button not working.
+* Part 1 https://clips.twitch.tv/PolishedThirstyDinosaurOhMyDog
+* Part 2 https://clips.twitch.tv/CrackyBombasticEggUWot

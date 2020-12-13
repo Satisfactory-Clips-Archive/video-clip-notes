@@ -34,3 +34,26 @@
 # September 15th, 2020
 * Q&A: Full Release, 2021? https://www.youtube.com/watch?v=9Um_UtQI8yE
 * Q&A: When do the Work In Progress items get a purpose? https://www.youtube.com/watch?v=koMqOABA6x8
+
+# August 25th, 2020 Livestream
+* Snutt Talk: 1.0 & Sequels https://clips.twitch.tv/CharmingHeadstrongAsparagusBCouch
+* Q&A: Do you want to release updates before you release full game? https://clips.twitch.tv/EmpathicExuberantWeaselAllenHuhu
+* Q&A: Do you have any clue on what the alien artefacts do? https://clips.twitch.tv/CulturedEnthusiasticNoodleWTRuck
+* Q&A: Will there be any further goals besides Research & Development stages? https://clips.twitch.tv/TsundereOutstandingNuggetsFUNgineer
+
+## Do you have a set of ideas?
+* Part 1: https://clips.twitch.tv/AgitatedProtectiveBaguetteRiPepperonis
+* Part 2: https://clips.twitch.tv/NaiveProudZebraWOOP
+
+## Snutt Talk: Satisfactory 1.0, and beyond
+* Part 1: https://clips.twitch.tv/BrainyArbitraryEagleBrokeBack
+* Part 2: https://clips.twitch.tv/HomelyCovertParrotNinjaGrumpy
+* Part 3: https://clips.twitch.tv/SmellyCarefulRuffPastaThat
+* Part 4: https://clips.twitch.tv/GenerousSlickKimchiResidentSleeper
+
+# August 18th, 2020 Livestream
+* Snutt Talk: Macro Plan towards 1.0 https://clips.twitch.tv/CorrectNiceStingraySpicyBoy
+* Q&A: Storyline before 1.0? https://clips.twitch.tv/SteamyFurtiveRadishStrawBeary
+* Q&A: Is 1.0 the end of the game or will it be expanded? https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace
+* Q&A: Will 1.0 require a reset of the game? https://clips.twitch.tv/SpoopyPlacidPepperoniSoonerLater
+* Q&A: When are Somersloops and Orbs have meaning? https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride

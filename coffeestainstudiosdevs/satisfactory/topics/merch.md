@@ -48,3 +48,41 @@
 * Q&A: What about the Merch? https://www.youtube.com/watch?v=jQyDj_wa0LA
 * Q&A: The Doggo Plushie has to fit into the Cup https://www.youtube.com/watch?v=HMsgkhM0i34
 * Q&A: Will the Factory Cart be available as Merch? https://www.youtube.com/watch?v=i1iL8KXmptE
+
+# August 18th, 2020 Livestream
+* Q&A: Is there a Merch Store? https://clips.twitch.tv/CleanCarefulMoonAMPEnergyCherry
+* Q&A: When will have Merch? https://clips.twitch.tv/FunOriginalPistachioNerfRedBlaster
+
+# August 11th, 2020 Livestream
+## Prototypes
+* Pioneer Helmet t-shirt (black): https://clips.twitch.tv/PunchyGloriousMoonPanicBasket
+* FICSIT employee hoodie (light grey) https://clips.twitch.tv/FaithfulFrigidFinchKappaPride
+* Fine Art by Jace Varlet https://clips.twitch.tv/CrispyAstuteBeeNerfRedBlaster
+
+## FICSIT Cup
+* Jace Talk: Launch & FICSIT Cup https://clips.twitch.tv/AmazingOriginalMeerkatArgieB8
+* Jace Talk: FICSIT Cup https://clips.twitch.tv/InquisitiveCooperativeMallardWholeWheat
+* Q&A: FICSIT Cup material? https://clips.twitch.tv/SarcasticWildBeanRitzMitz
+
+## Q&A
+* Q&A: gravity-defying FICSIT-branded coffee https://clips.twitch.tv/TalentedIntelligentGazelleFunRun
+* Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
+* Q&A: Doggo Toys? https://clips.twitch.tv/FlirtyScarySushiYouWHY
+* Q&A: FICSIT employee t-shirt? https://clips.twitch.tv/SuspiciousAlluringDolphinThunBeast
+* Q&A: How much will the Merch cost? https://clips.twitch.tv/SmallSullenTomatoTheThing
+* Q&A: How much will the Merch cost? (part 2) https://clips.twitch.tv/EnticingPricklyWitchM4xHeh
+* Q&A: Figurine? https://clips.twitch.tv/ShortKathishAardvarkUnSane
+* Q&A: zip-up hoodie? https://clips.twitch.tv/SpoopyCrowdedOctopusTBTacoLeft
+* Q&A: FICSIT Masks/Helmets https://clips.twitch.tv/ClearColdbloodedCakeVoHiYo
+* Q&A: remote-control Factory Cart https://clips.twitch.tv/MoistSmellyReubenDoubleRainbow
+* Q&A: t-shirt material? https://clips.twitch.tv/ComfortableAltruisticHerringDansGame
+
+## Jace Talk
+* Jace Talk: Additional Merch, Launch & later Merch https://clips.twitch.tv/EndearingBraveSeahorseBloodTrail
+* Jace Merch Talk: US vs. EU Merch Warehousing https://clips.twitch.tv/ColdStormySalsifyArgieB8
+
+# July 28th, 2020 Livestream
+* Q&A: Coffee Mug? https://clips.twitch.tv/SpunkyHyperWasabi4Head
+
+# July 21st, 2020 Livestream
+* Q&A: How's the Merch Store coming along? https://clips.twitch.tv/OilySillySproutNotLikeThis

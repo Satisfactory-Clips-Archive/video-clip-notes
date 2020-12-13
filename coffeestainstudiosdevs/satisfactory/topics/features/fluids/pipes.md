@@ -18,3 +18,13 @@
 
 # October 20th, 2020
 * Q&A: Will the Pipeline Junction be stackable? https://www.youtube.com/watch?v=qzAbkRHSojU
+
+# August 25th, 2020 Livestream
+* Q&A: A mark on pipes to show the meters ? https://clips.twitch.tv/AltruisticSuperBobaBudBlast
+
+# August 18th, 2020 Livestream
+* Q&A: Is there any way to prioritise power plant pipes? https://clips.twitch.tv/AnnoyingSavageParrotWoofer
+* Q&A: What convinced you to add pipes? https://clips.twitch.tv/BashfulFantasticPotDAESuppy
+
+# July 28th, 2020 Livestream
+* Q&A: Has Pipe Overflow been discussed? https://clips.twitch.tv/VainArtsyLeopardUncleNox

@@ -17,3 +17,6 @@
 * Q&A: Releasing the Soundtrack on Spotify? https://www.youtube.com/watch?v=zoDYA4Y9jdE
 * Q&A: Releasing a Vinyl on the Merch Store ? https://www.youtube.com/watch?v=DeEK7w3qPyg
 * Q&A: Any new additions to the music planned? https://www.youtube.com/watch?v=RKfqg8EOZgE
+
+# August 25th, 2020 Livestream
+* Q&A: Will there be any new music soundtracks in the future? https://clips.twitch.tv/UgliestArbitraryOwlDatBoi

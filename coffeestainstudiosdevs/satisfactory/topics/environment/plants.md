@@ -8,3 +8,7 @@
 
 # September 8th, 2020
 * Q&A: Should I remove all nature to improve FPS? https://www.youtube.com/watch?v=t-FNpaJUBcE
+
+# August 25th, 2020 Livestream
+* Q&A: Removing vegetation speeds up the game, yes or no ? https://clips.twitch.tv/BusyHandsomeSmoothiePartyTime
+* Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt

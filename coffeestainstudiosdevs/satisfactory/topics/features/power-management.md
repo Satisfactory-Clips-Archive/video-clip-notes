@@ -45,3 +45,18 @@
 # September 1st, 2020
 * Q&A: Would geothermal generators get a buff or rework of sorts? https://www.youtube.com/watch?v=T7BPQ1ZHeJA
 * Q&A: Any plans to get rid of Nuclear Waste? https://www.youtube.com/watch?v=cxWdU5_ai-0
+
+# August 25th, 2020 Livestream
+* Q&A: What about a more complex power system with transformers and stuff? https://clips.twitch.tv/FrozenVivaciousLaptopGivePLZ
+* Q&A: AI in an Electricity Management System that can handle power surges when we're away from base? https://clips.twitch.tv/FancyPiercingLardOneHand
+* Q&A: Potential to get better management for power grids? https://clips.twitch.tv/SoftTangentialGaurJonCarnage
+* Q&A: When will you ad UI for the Steam Geyser Power Plant? https://clips.twitch.tv/WanderingBashfulGoatTBCheesePull
+
+## Q&A: Any chance we can have a power switch so we can shut down power generators?
+* Part 1: https://clips.twitch.tv/SmokyBreakableAyeayeEagleEye
+* Part 2: https://clips.twitch.tv/SassyLightSkirretOSsloth
+* Part 3: https://clips.twitch.tv/KawaiiOddGrasshopperMrDestructoid
+* Part 4: https://clips.twitch.tv/ElegantNaivePorpoiseTF2John
+
+# July 28th, 2020 Livestream
+* Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy

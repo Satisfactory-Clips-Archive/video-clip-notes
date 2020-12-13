@@ -24,3 +24,12 @@
 * Q&A: What do you think about adding some kind of Tanker Truck? https://www.youtube.com/watch?v=JCBQj8Ern20
 * Q&A: Will we have to redo Pipe systems with the new Update? https://www.youtube.com/watch?v=7r2YUHrQyB8
 * Q&A: Is it safe to set up 1000 Turbo Fuel Generators? https://www.youtube.com/watch?v=0JyFVACOZ-E
+
+# August 25th, 2020 Livestream
+* Q&A: Is the sink going to accept liquids in the future? https://clips.twitch.tv/ArtisticCoweringTortoiseRitzMitz
+
+# August 11th, 2020 Livestream
+* Q&A: Gas Tanks? https://clips.twitch.tv/FitAlertTurtleDogFace
+
+# July 28th, 2020 Livestream
+* Q&A: Gas Manufacturing https://clips.twitch.tv/ThirstyJoyousSparrowSoBayed

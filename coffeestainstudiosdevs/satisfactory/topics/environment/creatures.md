@@ -52,3 +52,21 @@
 # September 15th, 2020
 * Q&A: Does the Giant Crab unlock stuff? https://www.youtube.com/watch?v=Dsjz5ntv9II
 * Q&A: Are we ever going to see a new enemy type? https://www.youtube.com/watch?v=Kxq543wzKcY
+
+# August 25th, 2020 Livestream
+* Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
+* Q&A: Will we have more monsters? https://clips.twitch.tv/GrotesqueDelightfulLyrebirdPrimeMe
+* Q&A: Please make the Walking Bean stop clipping https://clips.twitch.tv/WanderingGloriousWallabyPunchTrees
+
+# August 18th, 2020 Livestream
+* Q&A: Are we ever going to add taming mounts? https://clips.twitch.tv/BoldAgileSquidDoggo
+* Q&A: Will you be able to pet the doggo? https://clips.twitch.tv/DullHyperSpindlePanicVis
+
+# August 11th, 2020 Livestream
+* Q&A: Do you have Goats in Satisfactory? https://clips.twitch.tv/FurryTalentedCrowBleedPurple
+
+# July 28th, 2020 Livestream
+* Q&A: More Wildlife? https://clips.twitch.tv/DirtyHilariousPancakeWow
+
+# July 21st, 2020 Livestream
+* Q&A: Puppies, Train Fix https://clips.twitch.tv/ColdBraveShieldSMOrc

@@ -13,3 +13,9 @@
 # November 10th, 2020
 * Snutt & Jace Talk: Geese https://www.youtube.com/watch?v=dYWkEEqj_qc
 * Q&A: Would you fight 100 duck-sized horses or a horse-sized duck? https://www.youtube.com/watch?v=8YhgTMdTfDY
+
+# August 18th, 2020 Livestream
+* Q&A: Why does Snutt have many guitars? https://clips.twitch.tv/AverageRenownedAxeWholeWheat
+
+# August 11th, 2020 Livestream
+* Q&A: New Apartment? https://clips.twitch.tv/CorrectAdorableDinosaurWoofer

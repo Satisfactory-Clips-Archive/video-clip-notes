@@ -30,3 +30,6 @@
 
 # September 1st, 2020
 * Q&A: Flushable Toilet DLC? https://www.youtube.com/watch?v=Z7KaqsyT7_k
+
+# August 18th, 2020 Livestream
+* Q&A: Any plans to add toilet paper in the bathroom? https://clips.twitch.tv/AuspiciousPrettiestAlfalfaKAPOW

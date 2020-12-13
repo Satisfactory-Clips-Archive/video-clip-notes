@@ -13,3 +13,14 @@
 
 # September 1st, 2020
 * Q&A: Any plans for bigger foundations? https://www.youtube.com/watch?v=uUFy6qyZLKo
+
+# August 25th, 2020 Livestream
+* Q&A: Set a specific Foundation as the keystone https://clips.twitch.tv/GoodAnimatedSproutPipeHype
+* Q&A: Grid- a radius would be perfect https://clips.twitch.tv/GeniusConcernedEggDogFace
+
+## Q&A: What about holes for Foundations?
+* Part 1: https://clips.twitch.tv/CrepuscularEnergeticPartridgePanicVis
+* Part 2: https://clips.twitch.tv/SparklingGiftedDumplingsSquadGoals
+
+# August 11th, 2020 Livestream
+* Q&A: Floating Factories vs. Structural Supports https://clips.twitch.tv/GiftedSincereDillDoubleRainbow

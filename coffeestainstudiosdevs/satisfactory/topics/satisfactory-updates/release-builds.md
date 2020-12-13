@@ -14,3 +14,6 @@
 * Q&A: What's the difference between Experimental and the other version? https://www.youtube.com/watch?v=T6zmq2rGoHU
 * Q&A: What's the Modular Build? https://www.youtube.com/watch?v=vKIeFeGPXJQ
 * Q&A: Is there a difference in performance between the Epic version and the Steam version? https://www.youtube.com/watch?v=CgGc8VRspUA
+
+# August 25th, 2020 Livestream
+* Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp

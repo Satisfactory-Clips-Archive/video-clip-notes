@@ -22,3 +22,25 @@
 
 # November 3rd, 2020
 * Snutt & Jace Talk: State of Dev https://www.youtube.com/watch?v=WnGFHQPWIGE
+
+# August 25th, 2020 Livestream
+## Snutt Talk: State of Development
+* Part 1: https://clips.twitch.tv/WealthyModernInternDogFace
+* Part 2: https://clips.twitch.tv/SuaveChillyGrouseSaltBae
+
+### Q&A: State of things = 🤷
+* Part 1: https://clips.twitch.tv/WealthyStormySnakeOptimizePrime
+* Part 2: https://clips.twitch.tv/EndearingBlitheTruffleJebaited
+
+## Quality-of-life update?
+* Part 1: https://clips.twitch.tv/RudeSpoopyAlligatorVoteYea
+* Part 2: https://clips.twitch.tv/AlertFancyAxeFUNgineer
+* Part 3: https://clips.twitch.tv/CrunchyGlutenFreeNuggetsMingLee
+
+## Why do big updates at all - why not just release everything in small bites?
+* Part 1: https://clips.twitch.tv/FrozenLuckyRamenDxCat
+* Part 2: https://clips.twitch.tv/BrainySecretiveSquidChefFrank
+* Part 3: https://clips.twitch.tv/SpunkyFlirtySoybeanJebaited
+* Part 4: https://clips.twitch.tv/EnjoyableCrazyVanillaStinkyCheese
+* Part 5: https://clips.twitch.tv/CharmingObservantLardSMOrc
+* Part 6: https://clips.twitch.tv/LachrymoseCourteousDoveDxAbomb

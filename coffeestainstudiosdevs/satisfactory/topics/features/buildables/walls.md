@@ -9,3 +9,6 @@
 
 # November 10th, 2020
 * Q&A: Need Doors before Elevators? https://www.youtube.com/watch?v=PxNJBFSLvNc
+
+# August 25th, 2020 Livestream
+* Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause

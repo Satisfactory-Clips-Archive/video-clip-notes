@@ -70,3 +70,32 @@
 # September 1st, 2020
 * Q&A: Map expansion ? https://www.youtube.com/watch?v=2ZHnQ9U4f9I
 * Q&A: Let Hannah finish her work on the map before expanding? https://www.youtube.com/watch?v=wZOVw8KV1rQ
+
+# August 25th, 2020 Livestream
+* Q&A: Underwater biome when? https://clips.twitch.tv/HonorableCautiousDonutStoneLightning
+* Q&A: Terraforming? https://clips.twitch.tv/CourageousTardyLarkShazBotstix
+* Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John
+* Q&A: Why can't we explode some stones in the map? https://clips.twitch.tv/HeartlessAntsyMelonCharlieBitMe
+* Q&A: Like a new map for Satisfactory? https://clips.twitch.tv/ArtisticAthleticCroissantRalpherZ
+* Q&A: How about procedural maps? https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea
+* Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ? https://clips.twitch.tv/VibrantExpensiveRaisinStinkyCheese
+* Q&A: Will there be a rocket to leave the planet? https://clips.twitch.tv/BusyPowerfulWombatSoonerLater
+
+## Q&A: Plans for a Map Editor?
+* Part 1: https://clips.twitch.tv/ApatheticExpensiveDiscPeoplesChamp
+* Part 2: https://clips.twitch.tv/WiseToughOstrichYouWHY
+
+## Snutt Talk: Map Builders
+* Part 1: https://clips.twitch.tv/TsundereProudKiwiRaccAttack
+* Part 2: https://clips.twitch.tv/RichResourcefulSwanRlyTho
+
+# August 18th, 2020 Livestream
+* Q&A: Will there be any underwater resources? https://clips.twitch.tv/RelievedCleanBibimbapDancingBanana
+* Q&A: Terraforming? https://clips.twitch.tv/AmericanSpineyWitchTinyFace
+* Q&A: Any ice/snow biome plans? https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl
+* Q&A: Any different maps planned? https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat
+* Q&A: Will you be able to create your own map? https://clips.twitch.tv/ChillyRockyWalrusUnSane
+
+# August 11th, 2020 Livestream
+* Q&A: Randomly Generated Maps: https://clips.twitch.tv/OilyBloodyMangoFutureMan
+* Q&A: Do you plan to release a World Editor? https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank

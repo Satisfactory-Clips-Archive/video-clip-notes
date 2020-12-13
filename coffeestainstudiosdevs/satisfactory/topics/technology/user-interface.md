@@ -39,3 +39,7 @@
 * Q&A: Can we get the stream starting video as the main menu? https://www.youtube.com/watch?v=Mqso2kUIPVA
 * Q&A: Any chance of you putting a daily limit in the game? https://www.youtube.com/watch?v=vgxwqJg7o2A
 * Q&A: When will "coal" be "Coal" on the Resource Scanner? https://www.youtube.com/watch?v=p-Zd7qm0D6E
+
+# August 25th, 2020 Livestream
+* Q&A: Today I Learned - there's a mass dismantle? https://clips.twitch.tv/OnerousGlamorousMoonAllenHuhu
+* Q&A: What about a Tutorial System? https://clips.twitch.tv/EntertainingTenuousCasettePeteZaroll

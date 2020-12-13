@@ -53,3 +53,38 @@
 
 # September 1st, 2020
 * Q&A: Will the Factory Cart be available as Merch? https://www.youtube.com/watch?v=i1iL8KXmptE
+
+# August 25th, 2020 Livestream
+* Snutt Talk: Improving on Vehicles https://clips.twitch.tv/AmazonianAnnoyingSushiUncleNox
+* Q&A: Any plans to dig my explorer to get it out of the hole it fell into? https://clips.twitch.tv/FuriousRockyDuckPRChase
+
+## Trucks
+* Q&A: Smart Truck Stations? https://clips.twitch.tv/FurtiveHealthyRhinocerosJonCarnage
+* Q&A: Trailer for the Trucks? https://clips.twitch.tv/SarcasticNeighborlyPigTebowing
+
+### Q&A: Tanker Trucks?
+* Part 1: https://clips.twitch.tv/TenderSuspiciousSashimiEleGiggle
+* Part 2: https://clips.twitch.tv/FunSparklyFishRedCoat
+
+## Q&A: Can you make modular vehicles?
+* Part 1: https://clips.twitch.tv/OriginalMuddyDogePeteZaroll
+* Part 2: https://clips.twitch.tv/DistinctConcernedPlumageWow
+
+## Water Vehicles
+* Q&A: If you add Trucks then add Boats? https://clips.twitch.tv/EasyEnticingBearM4xHeh
+* Q&A: We need Battleships https://clips.twitch.tv/WildHonorableCakeGrammarKing
+
+## Cyber Wagon
+* Q&A: Make the Cyber Wagon useful ? https://clips.twitch.tv/SpeedyAssiduousCrabKevinTurtle
+* Q&A: What can the Cyber Wagon do? https://clips.twitch.tv/SuperHappyEmuOMGScoots
+
+# August 18th, 2020 Livestream
+* Q&A: Are there some other vehicles planned? https://clips.twitch.tv/EsteemedNurturingHyenaWOOP
+* Q&A: Are vehicles going to get less sketchy or are we always getting Goat Simulator physics? https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage
+
+# August 11th, 2020 Livestream
+* Q&A: Elevators? https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime
+* Q&A: First-person Vehicle Driving? https://clips.twitch.tv/ShinySilkyMelonGivePLZ
+## Two-seated vehicles
+* Part 1 https://clips.twitch.tv/OilySourBeaverAMPEnergy
+* Part 2 https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog

@@ -40,3 +40,11 @@
 # September 1st, 2020
 * Q&A: What is your opinion on the most downloaded mods? https://www.youtube.com/watch?v=iOniZ-OPIps
 * Q&A: Can we have food-making in the game? https://www.youtube.com/watch?v=2sE4CPkkc3o
+
+# August 25th, 2020 Livestream
+* Q&A: Actual Elevators with floor-select buttons ? https://clips.twitch.tv/SparklingFilthyKathyBleedPurple
+* Q&A: Do you have plans for elevators usable for players? https://clips.twitch.tv/DullSmokyWaffleDoggo
+
+## Q&A: Can players have custom programmers ?
+* Part 1: https://clips.twitch.tv/BovineConsiderateSangMVGame
+* Part 2: https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain

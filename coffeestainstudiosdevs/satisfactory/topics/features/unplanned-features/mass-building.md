@@ -53,3 +53,25 @@
 * Q&A: drag & place? https://www.youtube.com/watch?v=OQwjkJmYxAs
 * Q&A: Any plans for bigger foundations? https://www.youtube.com/watch?v=uUFy6qyZLKo
 * Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are? https://www.youtube.com/watch?v=RyE_hc4huhA
+
+# August 25th, 2020 Livestream
+* Q&A: Copy & Paste settings from Machine to Machine? https://clips.twitch.tv/SlickEsteemedTriangleVoteNay
+* Q&A: Drag-to-build Mode? https://clips.twitch.tv/UglyRacyCaribouYouWHY
+
+## Q&A: Blueprints would be awesome for end-game
+* Part 1: https://clips.twitch.tv/LuckyNastyLionDogFace
+* Part 2: https://clips.twitch.tv/FreezingCuriousHeronDatBoi
+* Part 3: https://clips.twitch.tv/CrunchyGlamorousQuailSwiftRage
+* Part 4: https://clips.twitch.tv/RacyHilariousMangoStinkyCheese
+
+# August 18th, 2020 Livestream
+* Q&A: Any plans for 1-click multi-building? https://clips.twitch.tv/CheerfulLightAsteriskGOWSkull
+
+# August 11th, 2020 Livestream
+* Q&A: Any plans to make vertical building easier? https://clips.twitch.tv/ImpartialHardSageBigBrother
+
+# July 21st, 2020 Livestream
+* Q&A: Why no mass building? https://clips.twitch.tv/SoftBovineArmadilloNerfRedBlaster
+
+# July 8th, 2020 Livestream
+* Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis

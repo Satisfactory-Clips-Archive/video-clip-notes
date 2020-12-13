@@ -60,3 +60,21 @@
 # September 1st, 2020
 * Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content? https://www.youtube.com/watch?v=CGoHMrbwftU
 * Q&A: Dedicated Servers https://www.youtube.com/watch?v=z5bf3k7JWlg
+
+# August 25th, 2020 Livestream
+* Q&A: Dedicated Servers update? https://clips.twitch.tv/AgitatedAltruisticAnacondaStinkyCheese
+* Q&A: Will Dedicated Servers be available on Linux, or Windows? https://clips.twitch.tv/SeductiveInnocentFerretHeyGirl
+* Q&A: Linux would be useful for Servers https://clips.twitch.tv/UglyAwkwardCiderSSSsss
+* Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc
+
+# August 18th, 2020 Livestream
+* Q&A: Did I miss the status update of Dedicated Servers? https://clips.twitch.tv/ElatedWittyVelociraptorThunBeast
+
+# August 11th, 2020 Livestream
+* Q&A: Are Dedicated Servers coming? https://clips.twitch.tv/BigDeadPhoneKappaWealth
+* Q&A: What's the hold-up on Dedicated Servers? https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride
+* Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
+* Q&A: Dedicated Servers, start building a community around that? https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow
+
+# July 28th, 2020 Livestream
+* Q&A: Dedicated Server cost https://clips.twitch.tv/ConfidentLittleSnood4Head

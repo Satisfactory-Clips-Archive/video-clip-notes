@@ -20,3 +20,9 @@
 
 # September 1st, 2020
 * Q&A: Let Hannah finish her work on the map before expanding? https://www.youtube.com/watch?v=wZOVw8KV1rQ
+
+# August 25th, 2020 Livestream
+* Q&A: Are the Devs back from vacation? https://clips.twitch.tv/SeductiveImpartialCobblerOptimizePrime
+
+# August 11th, 2020 Livestream
+* Q&A: Do you have a QA department? https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull

@@ -5,3 +5,6 @@
 
 # September 8th, 2020
 * Q&A: Pollution is a thing? https://www.youtube.com/watch?v=EI4HJKvO-OU
+
+# August 25th, 2020 Livestream
+* Q&A: More pollution as you progress? https://clips.twitch.tv/WanderingLitigiousDurianRalpherZ

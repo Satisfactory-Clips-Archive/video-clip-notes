@@ -51,3 +51,34 @@
 
 # September 1st, 2020
 * Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are? https://www.youtube.com/watch?v=RyE_hc4huhA
+
+# August 25th, 2020 Livestream
+* Q&A: Will we ever have proper multi-core support? https://clips.twitch.tv/VenomousProtectiveDonutTheTarFu
+
+## Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds
+* Part 1: https://clips.twitch.tv/TentativeHardPlumberYee
+* Part 2: https://clips.twitch.tv/SquareLovelyFriesBudBlast
+* Part 3: https://clips.twitch.tv/TemperedEnchantingOrangeTBCheesePull
+* Part 4: https://clips.twitch.tv/FrigidFragileCucumberOneHand
+
+## Autosave
+* Q&A: Better Autosave system? https://clips.twitch.tv/CarefulBashfulHyenaWOOP
+* Snutt Talk: If you think Autosave is annoying https://clips.twitch.tv/InventiveStylishGerbilWow
+* Q&A: Is it possible to have the Autosave not noticeable at all ? https://clips.twitch.tv/ThirstyTubularHamMikeHogu
+
+# August 18th, 2020 Livestream
+* Q&A: Is Satisfactory affected by Epic vs. Apple? https://clips.twitch.tv/FurryAwkwardStrawberryWoofer
+* Q&A: Custom game engine? https://clips.twitch.tv/ViscousFuriousPonyPhilosoraptor
+* Q&A: Any news about autosave freezes? https://clips.twitch.tv/CrispyCheerfulCrocodilePanicBasket
+* Q&A: Are you going to upgrade to UE5? https://clips.twitch.tv/GloriousTangentialSalmonPastaThat
+
+## Build Limit
+* Part 1: https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis
+* Part 2: https://clips.twitch.tv/UnusualExquisiteKuduDendiFace
+* Part 3: https://clips.twitch.tv/SullenColdbloodedDiscEagleEye
+* Part 4: https://clips.twitch.tv/BlitheEnergeticEelPRChase
+* Part 5: https://clips.twitch.tv/GiantGeniusGooseCclamChamp
+* Part 6: https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ
+
+# July 28th, 2020 Livestream
+* Q&A: Unreal Engine 5 https://clips.twitch.tv/PiliableZanyGrassFreakinStinkin

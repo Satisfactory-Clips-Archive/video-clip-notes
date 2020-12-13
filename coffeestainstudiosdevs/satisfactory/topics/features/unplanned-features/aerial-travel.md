@@ -21,3 +21,19 @@
 * Jace Talk: Air Transportation https://www.youtube.com/watch?v=hKQlthlcwXc
 * Q&A: Jetpack needs a Hover Mode? https://www.youtube.com/watch?v=zeXh53pKe0A
 * Q&A: The game needs small Flying Vehicles to travel long distance? https://www.youtube.com/watch?v=i0_bbpQ_91I
+
+# August 25th, 2020 Livestream
+* Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother
+* Q&A: How about a drone to fly around? https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby
+
+## Q&A: Add Planes as Vehicles and we can automate it to  carry our resources?
+* Part 1: https://clips.twitch.tv/AbstruseFrailKathyMrDestructoid
+* Part 2: https://clips.twitch.tv/SourManlyMochaBudStar
+* Part 3: https://clips.twitch.tv/PowerfulFriendlyKoalaANELE
+* Part 4: https://clips.twitch.tv/PoliteEnergeticGrouseHassaanChop
+
+# August 11th, 2020 Livestream
+* Q&A: Will Drones be added to the game for aerial travel? https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper
+
+# July 28th, 2020 Livestream
+* Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5

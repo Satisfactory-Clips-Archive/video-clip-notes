@@ -53,3 +53,10 @@
 
 # September 1st, 2020
 * Q&A: Will Story happen in Update 4? https://www.youtube.com/watch?v=_I0dz6Zop0w
+
+# August 25th, 2020 Livestream
+* Q&A: Will there be more narrative? https://clips.twitch.tv/DarlingPoisedPotCopyThis
+* Q&A: Is the Story a mode, or can I play with my actual save game? https://clips.twitch.tv/GeniusInventiveMomPRChase
+
+# August 11th, 2020 Livestream
+* Q&A: Story / End-game? https://clips.twitch.tv/AmorphousVictoriousTrayPartyTime

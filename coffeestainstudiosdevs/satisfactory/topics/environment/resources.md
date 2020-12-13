@@ -21,3 +21,16 @@
 
 # October 6th, 2020
 * Q&A: Will the Resource Transportation get an update? https://www.youtube.com/watch?v=hKxm2Ps1UYY
+
+# August 25th, 2020 Livestream
+* Q&A: Will you be adding more variety of resources? https://clips.twitch.tv/BraveThankfulBeefFreakinStinkin
+
+## Q&A: Are limited resources planned?
+* Part 1: https://clips.twitch.tv/ConcernedStylishTomatoBabyRage
+* Part 2: https://clips.twitch.tv/PrettyBelovedTermiteOptimizePrime
+* Part 3: https://clips.twitch.tv/PoorAlluringHerdRitzMitz
+
+# August 18th, 2020 Livestream
+* Q&A: Do you plan to make other resources beyond S.A.M. Ore? https://clips.twitch.tv/InventiveBillowingEggPMSTwin
+* Q&A: S.A.M. Ore uses? https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis
+* Q&A: Coffee Cups are made out of S.A.M. Ore? https://clips.twitch.tv/SuspiciousImportantOryxSquadGoals

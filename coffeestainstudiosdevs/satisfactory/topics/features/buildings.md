@@ -97,3 +97,33 @@
 * Q&A: Will there be something like the Resource Sink but for Fluids? https://www.youtube.com/watch?v=nT4pfUlmZBs
 * Q&A: Are we going to be able to get the Space Elevator Food Court? https://www.youtube.com/watch?v=YNogQuanQlc
 * Q&A: Why did you change the Nuclear Reactors model? https://www.youtube.com/watch?v=hBpbwXr9cMs
+
+# August 25th, 2020 Livestream
+* Q&A: Fixing machines that break? https://clips.twitch.tv/EnergeticInexpensiveDillCurseLit
+* Snutt Talk: Machines breaking & Base Defense https://clips.twitch.tv/ElegantKawaiiGnatOneHand
+* Q&A: Water Extractors need to snap to grid https://clips.twitch.tv/ExuberantAmorphousCarrotNononoCat
+
+## Q&A: Internal discussions to significantly rework existing buildings like refineries?
+* Part 1: https://clips.twitch.tv/CrispySaltyOcelotOSfrog
+* Part 2: https://clips.twitch.tv/CooperativeCrackyAyeayeTheTarFu
+* Part 3: https://clips.twitch.tv/SmallProductiveKaleCclamChamp
+* Part 4: https://clips.twitch.tv/BoredThankfulPistachioJKanStyle
+
+## Refineries
+* Q&A: Do you not think that Refineries are over-used? https://clips.twitch.tv/LongOpenFlamingoSMOrc
+* Q&A: End game is all about building refineries https://clips.twitch.tv/MildNurturingWoodcockYouWHY
+* Q&A: Refineries take up so much space https://clips.twitch.tv/FilthyPerfectDragonSwiftRage
+
+## Hypertubes
+* Q&A: Signs for Hypertube Entrances? https://clips.twitch.tv/SpinelessUnsightlyVanillaKeyboardCat
+* Q&A: Mk. 2 Hypertubes? https://clips.twitch.tv/CrypticUnusualPandaArsonNoSexy
+* Q&A: Why is hyperloop in first person? https://clips.twitch.tv/FairCallousStingrayHeyGuys
+
+# August 18th, 2020 Livestream
+* Q&A: How about adding machine variants during late-game so you can have less machines overall? https://clips.twitch.tv/BlatantEnjoyableTigerStoneLightning
+
+# August 11th, 2020 Livestream
+* Q&A: Hypertube Cannons - Bug or Feature? https://clips.twitch.tv/OilyPatientOtterTBTacoLeft
+
+# July 21st, 2020 Livestream
+* Q&A: How about building underwater? https://clips.twitch.tv/NiceDreamyGarbageBuddhaBar
