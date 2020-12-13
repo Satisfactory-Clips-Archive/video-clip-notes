@@ -1,4 +1,5 @@
 [FAQ](satisfactory/FAQ.md)
+[Topics](satisfactory/topics.md)
 
 # Archives
 
