@@ -1,6 +1,6 @@
 [Topics](../../../topics.md) > Features > Equipment > Chainsaw
 
-# October 6th, 2020
+# October 6th, 2020 Livestream
 * Q&A: Why is the Chainsaw a gasoline 2-stroke? https://www.youtube.com/watch?v=HDlxFGP87Oo
 * Q&A: How does the AoE on the Chainsaw work? https://www.youtube.com/watch?v=GRvWhu6FKOk
 * Q&A: Why does the Chainsaw only run on Solid Biofuel? https://www.youtube.com/watch?v=qJF8f6v_FNw

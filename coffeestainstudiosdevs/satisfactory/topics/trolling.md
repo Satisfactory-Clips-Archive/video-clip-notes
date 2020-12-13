@@ -1,6 +1,6 @@
 [Topics](../topics.md) > Trolling
 
-# December 8th, 2020
+# December 8th, 2020 Livestream
 * State of Dev: Blame Simon https://www.youtube.com/watch?v=H4gyZoXsfo0
 * Q&A: Cyberpunk cross-over when? https://www.youtube.com/watch?v=GJMD7L7BLxE
 * Q&A: Is that it for State of Dev? https://www.youtube.com/watch?v=OI6OAux6VrM
@@ -10,13 +10,13 @@
 * Q&A: Have you sold more than 10 copies yet? https://www.youtube.com/watch?v=m7UjXQmtBK0
 * Q&A: If they refunded how could you get so many screenshots for FICS⁕MAS? https://www.youtube.com/watch?v=AHYlgGcYkjw
 
-# November 24th, 2020
+# November 24th, 2020 Livestream
 * Q&A: When are we going to delete the game? https://www.youtube.com/watch?v=Yn1cEfU4mlg
 * Q&A: When is Satisfactory coming to N-Gage? https://www.youtube.com/watch?v=qL6dp9eUB58
 * Q&A: Are beanies and beards part of new minimum spec for Satisfactory or Update 4 content? https://www.youtube.com/watch?v=-uJ6AqPZy0U
 * Q&A: Simon is dead, did he run out of Alpha Keys? https://www.youtube.com/watch?v=dj20zgoTvA0
 
-# November 17th, 2020
+# November 17th, 2020 Livestream
 * Snutt & Jace Don't Talk: Taking suggestions from Twitter https://www.youtube.com/watch?v=AAGE7-1paKw
 * Snutt & Jace Talk: Special Announcements https://www.youtube.com/watch?v=Abv5c_etxZQ
 * Trolling: There's going to be Coffee https://www.youtube.com/watch?v=r5daZccdDvM

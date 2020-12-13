@@ -1,21 +1,21 @@
 [Topics](../../../topics.md) > Features > Buildings > Packager
 
-# November 10th, 2020
+# November 10th, 2020 Livestream
 * Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers? https://www.youtube.com/watch?v=SJI1puC2mEw
 
-# November 3rd, 2020
+# November 3rd, 2020 Livestream
 * Q&A: Will the Packager input/output orientation be changed before it goes to Early Access? https://www.youtube.com/watch?v=Pjj0oalwYj0
 * Q&A: Packager solid/liquid I/O don't allow for placement of Conveyor lifts? https://www.youtube.com/watch?v=gqLycnJA_3c
 
-# October 27th, 2020
+# October 27th, 2020 Livestream
 * Q&A: What was the Mystery Machine? https://www.youtube.com/watch?v=dh0tcSlSjNE
 * Q&A: Does the Packager also do unpacking? https://www.youtube.com/watch?v=s1ibMeMeBT8
 
-# October 20th, 2020
+# October 20th, 2020 Livestream
 * Q&A: Will the Packing machine cost the same amount of power as the Refinery? https://www.youtube.com/watch?v=jhq2XmKDz9M
 * Q&A: I'd take 30mw for the Packager if I could take 3x speed than the Refineries? https://www.youtube.com/watch?v=cYJQS0bzr1o
 
-# October 13th, 2020
+# October 13th, 2020 Livestream
 * Jace & Snutt Talk: New Feature - Packager (part 1) https://www.youtube.com/watch?v=V9x1XLqoKeU
 * Jace & Snutt Talk: New Feature - Packager (part 2) https://www.youtube.com/watch?v=iEGhH9cZWWQ
 * Q&A: Is that not actual gameplay footage? https://www.youtube.com/watch?v=fRiHEwAwDpw

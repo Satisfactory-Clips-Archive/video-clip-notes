@@ -1,12 +1,12 @@
 [Topics](../../topics.md) > Environment > Plants
 
-# November 17th, 2020
+# November 17th, 2020 Livestream
 * Q&A: Will Trees respawning being worked on? https://www.youtube.com/watch?v=59eW6SBaiNk
 
-# November 10th, 2020
+# November 10th, 2020 Livestream
 * Q&A: Does destroying all the foliage in the game biomes increase or decrease performance? https://www.youtube.com/watch?v=IFxnvuYEVtk
 
-# September 8th, 2020
+# September 8th, 2020 Livestream
 * Q&A: Should I remove all nature to improve FPS? https://www.youtube.com/watch?v=t-FNpaJUBcE
 
 # August 25th, 2020 Livestream
