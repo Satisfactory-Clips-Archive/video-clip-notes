@@ -55,6 +55,9 @@
 ## December 8th, 2020
 * Snutt Talk: Lights on Buildings https://www.youtube.com/watch?v=fsP_b5C7y0M
 
+## December 15th, 2020
+* Q&A: Will FICS⁕MAS Buildings and items still be in the World after the event is over? https://www.youtube.com/watch?v=ospbB7hdDdI
+
 
 # Character Customisation
 
@@ -62,7 +65,7 @@
 * Q&A: Are there plans for Character Customisation? https://www.youtube.com/watch?v=LAR8rVCHVmw
 
 
-# Coffeestainers
+# Coffee Stainers
 
 ## September 1st, 2020
 * Q&A: Let Hannah finish her work on the map before expanding? https://www.youtube.com/watch?v=wZOVw8KV1rQ
@@ -122,6 +125,9 @@
 
 ## November 17th, 2020
 * Q&A: Any news on big Crab monster? https://www.youtube.com/watch?v=tTXExwaqZQM
+
+## December 15th, 2020
+* Q&A: Will there be new enemies? https://www.youtube.com/watch?v=mwN7mAZ2dbg
 
 
 # DLC
@@ -201,6 +207,11 @@
 ## December 8th, 2020
 * Q&A: Is there a reason for a lack of Dedicated Server builds? https://www.youtube.com/watch?v=47gzhAEWkFM
 
+## December 15th, 2020
+* Q&A: Dedicated Server for Windows? https://www.youtube.com/watch?v=znK3Ne7dLUc
+* Q&A: Dedicated Servers? https://www.youtube.com/watch?v=03Ybo6-_eWA
+* Q&A: Dedicated Servers? https://www.youtube.com/watch?v=HeezNCrsBRU
+
 
 # FICS⁕MAS
 
@@ -209,6 +220,11 @@
 * Q&A: How do you get the Advent Calendar? https://www.youtube.com/watch?v=LPU9cyNeI7Y
 * Q&A: What are we going to keep after the event? https://www.youtube.com/watch?v=nZjZGFce1lE
 * Q&A: Will Gift Trees continue to produce? https://www.youtube.com/watch?v=FqUcLve4Oyc
+
+## December 15th, 2020
+* Q&A: If I backup current version, will FICS⁕MAS still work after the 18th? https://www.youtube.com/watch?v=01DJ6EPqTk4
+* Q&A: What will happen to the FICS⁕MAS power lines after the event? https://www.youtube.com/watch?v=Gt9an2au_YU
+* Q&A: Will FICS⁕MAS Buildings and items still be in the World after the event is over? https://www.youtube.com/watch?v=ospbB7hdDdI
 
 
 # Fluids
@@ -227,6 +243,9 @@
 
 ## November 17th, 2020
 * Q&A: Circular Foundations? https://www.youtube.com/watch?v=5snNwUqWAxA
+
+## December 15th, 2020
+* Q&A: We need more foundation types- triangle foundations, smaller foundations? https://www.youtube.com/watch?v=V8sGth96I5w
 
 
 # Game Modes
@@ -250,6 +269,10 @@
 ## December 8th, 2020
 * Q&A: Will there be a creative-style mode in the future? https://www.youtube.com/watch?v=ba7BBZw0IsU
 * Q&A: Will there be any Base Defense? https://www.youtube.com/watch?v=5-8ACtMU2_E
+
+## December 15th, 2020
+* Q&A: Can we get turrets and more PvE? https://www.youtube.com/watch?v=sJnuRV0OGF0
+* Q&A: How about Creative Mode? https://www.youtube.com/watch?v=pFc0pdgYnlU
 
 
 # Geothermal Energy
@@ -302,11 +325,30 @@
 * Snutt Talk: Lights (not) confirmed! https://www.youtube.com/watch?v=9VodwDOMBl0
 * Snutt Talk: Lights on Buildings https://www.youtube.com/watch?v=fsP_b5C7y0M
 
+## December 15th, 2020
+* Q&A: Will RTX be added to Update 4 with the new Unreal Engine? https://www.youtube.com/watch?v=RubFX693enI
+
 
 # Green Energy
 
 ## November 17th, 2020
 * Q&A: Can we add Solar Power? https://www.youtube.com/watch?v=_Uf5e-J9TwA
+
+
+# Hyper Tubes
+
+## September 8th, 2020
+* Q&A: Hyper Tube Cannon future ? https://www.youtube.com/watch?v=X3RdhRuPf04
+
+
+# Jetpack
+
+## September 8th, 2020
+* Q&A: Jetpack needs a Hover Mode? https://www.youtube.com/watch?v=zeXh53pKe0A
+* Q&A: What're your guys thoughts on transport beyond Jetpacks ? https://www.youtube.com/watch?v=-sa8wjg4lYk
+
+## September 22nd, 2020
+* Q&A: Any plans to add a Levitate option with Jetpacks? https://www.youtube.com/watch?v=_9P859YpEbE
 
 
 # Localisation
@@ -360,6 +402,9 @@
 ## November 24th, 2020
 * Q&A: Any improvements on build limits? https://www.youtube.com/watch?v=eReH6Sdroq8
 * Q&A: Click & Drag functionality for building? https://www.youtube.com/watch?v=vaYxvmOkUQY
+
+## December 15th, 2020
+* Q&A: Do you plan on adding mass foundation placement? https://www.youtube.com/watch?v=8Pm6KLejrOQ
 
 
 # Merch
@@ -417,6 +462,10 @@
 
 ## November 24th, 2020
 * Q&A: The Cup, where can I buy it? https://www.youtube.com/watch?v=WpsGOpaoH1o
+
+## December 15th, 2020
+* Q&A: Coffee Mugs? https://www.youtube.com/watch?v=DuGUOXyGtHg
+* Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy? https://www.youtube.com/watch?v=PYyvu8feZqA
 
 
 # Mods
@@ -539,6 +588,9 @@
 ## November 17th, 2020
 * Q&A: Paintable Vehicles when? https://www.youtube.com/watch?v=0DPbCQ4WQHU
 
+## December 15th, 2020
+* Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update? https://www.youtube.com/watch?v=6BahsrvlPJs
+
 
 # Plants
 
@@ -581,6 +633,9 @@
 * Q&A: Can we add Solar Power? https://www.youtube.com/watch?v=_Uf5e-J9TwA
 * Q&A: When are Geothermal Generators going to get it's Info Panel? https://www.youtube.com/watch?v=WTfWu44SQ1k
 
+## December 15th, 2020
+* Q&A: What will happen to the FICS⁕MAS power lines after the event? https://www.youtube.com/watch?v=Gt9an2au_YU
+
 
 # Release Builds
 
@@ -594,6 +649,9 @@
 ## November 24th, 2020
 * Q&A: Is there going to be a Satisfactory for Mac? https://www.youtube.com/watch?v=eLjNJO4pUBA
 
+## December 15th, 2020
+* Q&A: Will Satisfactory have native support for Linux? https://www.youtube.com/watch?v=jGFUMhD3WGg
+
 
 # Resources
 
@@ -602,6 +660,9 @@
 
 ## November 10th, 2020
 * Q&A: Randomising nodes? https://www.youtube.com/watch?v=eTALbWgKmuE
+
+## December 15th, 2020
+* Q&A: Will we be able to deal with Gas towers you can't kill right now? https://www.youtube.com/watch?v=0nRCXveJemw
 
 
 # Satisfactory 1.0
@@ -618,6 +679,9 @@
 
 ## November 17th, 2020
 * Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented? https://www.youtube.com/watch?v=ccmgnLh1oO0
+
+## December 15th, 2020
+* Q&A: What is priority currently? https://www.youtube.com/watch?v=GOg5NVFpjSU
 
 
 # Satisfactory Fluids Update
@@ -721,6 +785,11 @@
 * Q&A: Is Multiplayer desync fixed in Update 4? https://www.youtube.com/watch?v=OjiLxOBdkU8
 * Q&A: Will Mods break? https://www.youtube.com/watch?v=f1iY6Fj__E0
 
+## December 15th, 2020
+* Q&A: What is priority currently? https://www.youtube.com/watch?v=GOg5NVFpjSU
+* Q&A: Will RTX be added to Update 4 with the new Unreal Engine? https://www.youtube.com/watch?v=RubFX693enI
+* Q&A: Will there be any major changes to the game with Update 4? https://www.youtube.com/watch?v=8ImofeADWyI
+
 
 # Satisfactory Update 5
 
@@ -752,6 +821,12 @@
 * Q&A: Can you summarise the upcoming builds for the next months? https://www.youtube.com/watch?v=hUYyIETHuJ4
 
 
+# Storage Containers
+
+## December 15th, 2020
+* Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update? https://www.youtube.com/watch?v=6BahsrvlPJs
+
+
 # Story & Lore
 
 ## September 22nd, 2020
@@ -776,6 +851,9 @@
 ## November 17th, 2020
 * Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented? https://www.youtube.com/watch?v=ccmgnLh1oO0
 * Q&A: Who is Hannah? https://www.youtube.com/watch?v=KwsiVfRUKNE
+
+## December 15th, 2020
+* Q&A: Does Sanctum and Satisfactory exist in the same universe? https://www.youtube.com/watch?v=JnR3oHKDQi0
 
 
 # Tiers
@@ -824,6 +902,9 @@
 * Q&A: Can we go over the Freight Train fix in a little detail? https://www.youtube.com/watch?v=7vpbefcvoYI
 * Q&A: Train Collision https://www.youtube.com/watch?v=OdCLosbTp60
 
+## December 15th, 2020
+* Q&A: Train Update? https://www.youtube.com/watch?v=ts7TQnRykB0
+
 
 # Trolling
 
@@ -869,6 +950,10 @@
 * Q&A: When is the Engine Upgrade planned now? https://www.youtube.com/watch?v=kg4OkSCHFNs
 * Snutt Talk: Lights (not) confirmed! https://www.youtube.com/watch?v=9VodwDOMBl0
 
+## December 15th, 2020
+* Q&A: Will RTX be added to Update 4 with the new Unreal Engine? https://www.youtube.com/watch?v=RubFX693enI
+* Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update? https://www.youtube.com/watch?v=6BahsrvlPJs
+
 
 # User Interface
 
@@ -902,6 +987,9 @@
 
 ## November 24th, 2020
 * Q&A: Any air & sea Vehicles in Update 4? https://www.youtube.com/watch?v=HSoBZKjAN1k
+
+## December 15th, 2020
+* Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update? https://www.youtube.com/watch?v=6BahsrvlPJs
 
 
 # Walls
@@ -990,3 +1078,9 @@
 * Q&A: Any plans for underwater mechanics? https://www.youtube.com/watch?v=nQplpfNLru8
 * Q&A: Is terraforming possible any time in the future? https://www.youtube.com/watch?v=_fE2dbyaJZg
 * Q&A: Procedural generation of the World? https://www.youtube.com/watch?v=q6tkuGjM4zY
+
+## December 15th, 2020
+* Q&A: Are there hidden secrets and cameos in the game? https://www.youtube.com/watch?v=57Cc22ZK5aw
+* Q&A: Can we get turrets and more PvE? https://www.youtube.com/watch?v=sJnuRV0OGF0
+* Q&A: When are you going to expand the map? https://www.youtube.com/watch?v=axmmm-ituSg
+* Q&A: Will there be a Snow Biome? https://www.youtube.com/watch?v=iyhdKRg1b0A
