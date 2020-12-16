@@ -1,5 +1,8 @@
 [Topics](../../topics.md) > Features > Tiers
 
+# December 15th, 2020 Livestream
+* Q&A: Have you confirmed Superposition Oscillators and Quantum Computers to be buildable in Tier 8? https://www.youtube.com/watch?v=fmE3DQFeVGk
+
 # December 8th, 2020 Livestream
 * Q&A: How does Coffee Stain feel with all Tier 1-6 stuff? https://www.youtube.com/watch?v=42AzC9Qk2yc
 * Snutt Talk: Update 4 Tier 7 changes & Early Access https://www.youtube.com/watch?v=X9X9MsVbDAk

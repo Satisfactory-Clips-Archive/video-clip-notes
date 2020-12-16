@@ -1,5 +1,10 @@
 [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+# December 15th, 2020 Livestream
+* Q&A: Dedicated Servers? https://www.youtube.com/watch?v=03Ybo6-_eWA
+* Q&A: Dedicated Servers? https://www.youtube.com/watch?v=HeezNCrsBRU
+* Q&A: Dedicated Server for Windows? https://www.youtube.com/watch?v=znK3Ne7dLUc
+
 # December 8th, 2020 Livestream
 * Q&A: Is there a reason for a lack of Dedicated Server builds? https://www.youtube.com/watch?v=47gzhAEWkFM
 * Jace Talk: Multiplayer experience vs. Dedicated Server https://www.youtube.com/watch?v=QcD9eKlgte0

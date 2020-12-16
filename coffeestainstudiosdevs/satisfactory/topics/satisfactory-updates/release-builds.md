@@ -1,5 +1,8 @@
 [Topics](../../topics.md) > Satisfactory Updates > Release Builds
 
+# December 15th, 2020 Livestream
+* Q&A: Will Satisfactory have native support for Linux? https://www.youtube.com/watch?v=jGFUMhD3WGg
+
 # November 24th, 2020 Livestream
 * Q&A: Is there going to be a Satisfactory for Mac? https://www.youtube.com/watch?v=eLjNJO4pUBA
 

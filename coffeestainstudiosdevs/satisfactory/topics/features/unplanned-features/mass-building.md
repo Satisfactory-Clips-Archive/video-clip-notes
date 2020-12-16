@@ -1,5 +1,8 @@
 [Topics](../../../topics.md) > Features > Unplanned Features > Mass Building
 
+# December 15th, 2020 Livestream
+* Q&A: Do you plan on adding mass foundation placement? https://www.youtube.com/watch?v=8Pm6KLejrOQ
+
 # November 24th, 2020 Livestream
 * Q&A: Click & Drag functionality for building? https://www.youtube.com/watch?v=vaYxvmOkUQY
 * Q&A: Any improvements on build limits? https://www.youtube.com/watch?v=eReH6Sdroq8

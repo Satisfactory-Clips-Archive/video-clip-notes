@@ -1,5 +1,15 @@
 [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory Update 4
 
+# December 15th, 2020 Livestream
+* Q&A: How big will the update for Update 4 be in gigabytes? https://www.youtube.com/watch?v=_i9f2NI9JNc
+* Q&A: Is there a reason to reveal so much Update 4 content in the latest YouTube video? https://www.youtube.com/watch?v=YyHvsUgbSGw
+* Q&A: Will there be any major changes to the game with Update 4? https://www.youtube.com/watch?v=8ImofeADWyI
+* Q&A: What is priority currently? https://www.youtube.com/watch?v=GOg5NVFpjSU
+* Q&A: What is the Superposition Oscillator for? https://www.youtube.com/watch?v=foek1b3z0kI
+* Q&A: Have you confirmed Superposition Oscillators and Quantum Computers to be buildable in Tier 8? https://www.youtube.com/watch?v=fmE3DQFeVGk
+* Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner? https://www.youtube.com/watch?v=pSGEDxxLn2E
+* Q&A: Will RTX be added to Update 4 with the new Unreal Engine? https://www.youtube.com/watch?v=RubFX693enI
+
 # December 8th, 2020 Livestream
 * State of Dev: Update 4 https://www.youtube.com/watch?v=8tiGIPGptWQ
 * Q&A: How does Coffee Stain feel with all Tier 1-6 stuff? https://www.youtube.com/watch?v=42AzC9Qk2yc

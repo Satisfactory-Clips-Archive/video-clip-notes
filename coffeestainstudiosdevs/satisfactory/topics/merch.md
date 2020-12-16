@@ -1,5 +1,9 @@
 [Topics](../topics.md) > Merch
 
+# December 15th, 2020 Livestream
+* Q&A: Coffee Mugs? https://www.youtube.com/watch?v=DuGUOXyGtHg
+* Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy? https://www.youtube.com/watch?v=PYyvu8feZqA
+
 # November 24th, 2020 Livestream
 * Snutt & Jace Talk: State of Dev https://www.youtube.com/watch?v=uYPhHTSL6Ys
 * Q&A: The Cup, where can I buy it? https://www.youtube.com/watch?v=WpsGOpaoH1o

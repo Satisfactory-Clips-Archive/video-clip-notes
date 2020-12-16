@@ -1,5 +1,8 @@
 [Topics](../topics.md) > Trolling
 
+# December 15th, 2020 Livestream
+* Q&A: How big will the update for Update 4 be in gigabytes? https://www.youtube.com/watch?v=_i9f2NI9JNc
+
 # December 8th, 2020 Livestream
 * State of Dev: Blame Simon https://www.youtube.com/watch?v=H4gyZoXsfo0
 * Q&A: Cyberpunk cross-over when? https://www.youtube.com/watch?v=GJMD7L7BLxE

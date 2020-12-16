@@ -1,5 +1,8 @@
 [Topics](../../topics.md) > Technology > Graphics
 
+# December 15th, 2020 Livestream
+* Q&A: Will RTX be added to Update 4 with the new Unreal Engine? https://www.youtube.com/watch?v=RubFX693enI
+
 # December 8th, 2020 Livestream
 * Snutt Talk: Lights (not) confirmed! https://www.youtube.com/watch?v=9VodwDOMBl0
 * Q&A: DirectX 12 when? https://www.youtube.com/watch?v=BxAAQTxvy-Y

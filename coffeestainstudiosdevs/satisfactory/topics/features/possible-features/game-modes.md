@@ -1,5 +1,10 @@
 [Topics](../../../topics.md) > Features > Possible Features > Game Modes
 
+# December 15th, 2020 Livestream
+* Q&A: How about Creative Mode? https://www.youtube.com/watch?v=pFc0pdgYnlU
+* Q&A: Can we get turrets and more PvE? https://www.youtube.com/watch?v=sJnuRV0OGF0
+* Q&A: Will we get a Battle Royale Update? https://www.youtube.com/watch?v=tN8DpsYR8ro
+
 # December 8th, 2020 Livestream
 * Q&A: Will there be a creative-style mode in the future? https://www.youtube.com/watch?v=ba7BBZw0IsU
 * Q&A: Will there be any Base Defense? https://www.youtube.com/watch?v=5-8ACtMU2_E

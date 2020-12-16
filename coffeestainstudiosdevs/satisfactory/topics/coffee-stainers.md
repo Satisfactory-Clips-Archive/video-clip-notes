@@ -1,4 +1,11 @@
-[Topics](../topics.md) > Coffeestainers
+[Topics](../topics.md) > Coffee Stainers
+
+# December 15th, 2020 Livestream
+* Snutt Talk: Jace is a dedicated boi https://www.youtube.com/watch?v=Lx8cCt-jNJQ
+* Q&A: What's the best nickname someone has ever given you? https://www.youtube.com/watch?v=_4_umuhMFK8
+* Q&A: Do you guys crunch or do you actually care about stuff like health? https://www.youtube.com/watch?v=Ev8CEXznWsE
+* Q&A: Who's Dylan? https://www.youtube.com/watch?v=1SJA0S2IagA
+* Snutt Talk: Guitars https://www.youtube.com/watch?v=U-4gFkYIESU
 
 # December 8th, 2020 Livestream
 * State of Dev: Blame Simon https://www.youtube.com/watch?v=H4gyZoXsfo0
@@ -20,9 +27,3 @@
 
 # September 1st, 2020 Livestream
 * Q&A: Let Hannah finish her work on the map before expanding? https://www.youtube.com/watch?v=wZOVw8KV1rQ
-
-# August 25th, 2020 Livestream
-* Q&A: Are the Devs back from vacation? https://clips.twitch.tv/SeductiveImpartialCobblerOptimizePrime
-
-# August 11th, 2020 Livestream
-* Q&A: Do you have a QA department? https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull

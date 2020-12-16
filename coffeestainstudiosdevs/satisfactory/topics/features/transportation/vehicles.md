@@ -1,5 +1,8 @@
 [Topics](../../../topics.md) > Features > Transportation > Vehicles
 
+# December 15th, 2020 Livestream
+* Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update? https://www.youtube.com/watch?v=6BahsrvlPJs
+
 # December 8th, 2020 Livestream
 * Q&A: Are there plans to improve Vehicle performance for Update 4? https://www.youtube.com/watch?v=nat8VwaykqE
 

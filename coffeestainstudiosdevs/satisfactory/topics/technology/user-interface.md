@@ -1,5 +1,13 @@
 [Topics](../../topics.md) > Technology > User Interface
 
+# December 15th, 2020 Livestream
+* Q&A: Will there be any changes to clear how the efficiency works? https://www.youtube.com/watch?v=XNigRFh5_LA
+* Q&A: Can you make a toolbar selection to be with just hotkeys instead of mousewheel? https://www.youtube.com/watch?v=xwwx4N37G8M
+* Q&A: Why can't you deselect items when you've selected them? https://www.youtube.com/watch?v=KGLZ6f6PdRs
+* Q&A: Can dismantle mode have an ignore function maybe? https://www.youtube.com/watch?v=0KLJ2_1P_uk
+* Q&A: More emotes? https://www.youtube.com/watch?v=Ii3ahSfYOYI
+* Q&A: Will planning be added? https://www.youtube.com/watch?v=_HKsPj2tx04
+
 # December 8th, 2020 Livestream
 * Q&A: What is this interface? https://www.youtube.com/watch?v=MDs8eRquWN8
 * Jace Talk: Natalie https://www.youtube.com/watch?v=AmdGZXxyt6Y

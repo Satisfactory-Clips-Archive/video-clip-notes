@@ -1,5 +1,10 @@
 [Topics](../../../topics.md) > Features > Buildings > The HUB
 
+# December 15th, 2020 Livestream
+* Q&A: Why is there a Coffee Cup in the HUB called "BRY"? https://www.youtube.com/watch?v=cIuO0sScXGg
+* Q&A: Are you going to add more functionality to the HUB? https://www.youtube.com/watch?v=lacIs2by7tk
+* Q&A: Why can't we flush the toilet? https://www.youtube.com/watch?v=En8viTUiojc
+
 # November 24th, 2020 Livestream
 * Q&A: Toilet Plunger for The HUB when? https://www.youtube.com/watch?v=1-xFJyIBosU
 

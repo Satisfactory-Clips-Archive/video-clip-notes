@@ -1,5 +1,8 @@
 [Topics](../../../topics.md) > Features > Fluids > Pipes
 
+# December 15th, 2020 Livestream
+* Q&A: Walls & Handrails, be able to place like Pipes? https://www.youtube.com/watch?v=LFH3YB0pV24
+
 # November 24th, 2020 Livestream
 * Q&A: What requires more computing power, Belts or Pipes? https://www.youtube.com/watch?v=NM_f7DwMhdA
 

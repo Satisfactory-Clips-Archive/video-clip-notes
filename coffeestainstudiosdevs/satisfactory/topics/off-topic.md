@@ -1,5 +1,8 @@
 [Topics](../topics.md) > Off-Topic
 
+# December 15th, 2020 Livestream
+* Snutt Talk: Guitars https://www.youtube.com/watch?v=U-4gFkYIESU
+
 # November 24th, 2020 Livestream
 * Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru? https://www.youtube.com/watch?v=a1eSZz7wksU
 * Q&A: Jace - F, Marry, Kill: either Snutt, [special guest], or anyone from chat? https://www.youtube.com/watch?v=1GtBsosr66E

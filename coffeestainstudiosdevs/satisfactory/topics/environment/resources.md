@@ -1,5 +1,8 @@
 [Topics](../../topics.md) > Environment > Resources
 
+# December 15th, 2020 Livestream
+* Q&A: Will we be able to deal with Gas towers you can't kill right now? https://www.youtube.com/watch?v=0nRCXveJemw
+
 # December 8th, 2020 Livestream
 * Q&A: Please reintroduce the Mining mini-game? https://www.youtube.com/watch?v=LTpEW1G0VH0
 

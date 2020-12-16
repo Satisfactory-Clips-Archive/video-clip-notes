@@ -1,5 +1,13 @@
 [Topics](../../../topics.md) > Satisfactory Updates > Seasonal Events > FICS⁕MAS
 
+# December 15th, 2020 Livestream
+* Q&A: Will FICS⁕MAS Buildings and items still be in the World after the event is over? https://www.youtube.com/watch?v=ospbB7hdDdI
+* Q&A: Will the event come back next year? https://www.youtube.com/watch?v=6XovxrktCDA
+* Q&A: Could it be released to the Modding Community to polish and release it as a Mod? https://www.youtube.com/watch?v=MQLuFiVQPYY
+* Q&A: If I backup current version, will FICS⁕MAS still work after the 18th? https://www.youtube.com/watch?v=01DJ6EPqTk4
+* Q&A: What is the Superposition Oscillator for? https://www.youtube.com/watch?v=foek1b3z0kI
+* Q&A: What will happen to the FICS⁕MAS power lines after the event? https://www.youtube.com/watch?v=Gt9an2au_YU
+
 # December 8th, 2020 Livestream
 * State of Dev: FICS⁕MAS https://www.youtube.com/watch?v=zxaJChchCMo
 * Jace Talk: FICS⁕MAS leaks are not "leaks" https://www.youtube.com/watch?v=TOevQ69HYNA

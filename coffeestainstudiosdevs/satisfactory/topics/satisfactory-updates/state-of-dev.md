@@ -1,5 +1,8 @@
 [Topics](../../topics.md) > Satisfactory Updates > State of Dev
 
+# December 15th, 2020 Livestream
+* State of Dev https://www.youtube.com/watch?v=bGem8CSwRlQ
+
 # December 8th, 2020 Livestream
 * State of Dev: FICS⁕MAS https://www.youtube.com/watch?v=zxaJChchCMo
 * State of Dev: Update 4 https://www.youtube.com/watch?v=8tiGIPGptWQ

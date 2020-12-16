@@ -1,5 +1,8 @@
 [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory 1.0
 
+# December 15th, 2020 Livestream
+* Q&A: What is priority currently? https://www.youtube.com/watch?v=GOg5NVFpjSU
+
 # December 8th, 2020 Livestream
 * Snutt Talk: Update 4 Tier 7 changes & Early Access https://www.youtube.com/watch?v=X9X9MsVbDAk
 

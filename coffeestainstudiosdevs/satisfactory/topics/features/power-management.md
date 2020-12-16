@@ -1,5 +1,8 @@
 [Topics](../../topics.md) > Features > Power Management
 
+# December 15th, 2020 Livestream
+* Q&A: What will happen to the FICS⁕MAS power lines after the event? https://www.youtube.com/watch?v=Gt9an2au_YU
+
 # November 17th, 2020 Livestream
 * Q&A: Dark Matter in the game? https://www.youtube.com/watch?v=sZ9JZYY87bY
 * Q&A: When are Geothermal Generators going to get it's Info Panel? https://www.youtube.com/watch?v=WTfWu44SQ1k

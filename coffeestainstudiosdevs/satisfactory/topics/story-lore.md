@@ -1,5 +1,9 @@
 [Topics](../topics.md) > Story & Lore
 
+# December 15th, 2020 Livestream
+* Q&A: Does Sanctum and Satisfactory exist in the same universe? https://www.youtube.com/watch?v=JnR3oHKDQi0
+* Q&A: Will the game in the future have some cataclysms or breakdowns? https://www.youtube.com/watch?v=O02Z9u7DpPo
+
 # December 8th, 2020 Livestream
 * Q&A: Is there any info/lore on the player character? https://www.youtube.com/watch?v=7W32eD2pZOM
 

@@ -1,4 +1,4 @@
-* [Coffeestainers](./topics/coffeestainers.md)
+* [Coffee Stainers](./topics/coffee-stainers.md)
 * [Localisation](./topics/localisation.md)
 * [Merch](./topics/merch.md)
 * [Off-Topic](./topics/off-topic.md)
@@ -8,15 +8,10 @@
 * [Trolling](./topics/trolling.md)
 * [Wiki](./topics/wiki.md)
 
-# Coffeestainers
-* [Simon](./topics/coffeestainers/simon.md)
-
-# Environment
-* [Creatures](./topics/environment/creatures.md)
-* [Plants](./topics/environment/plants.md)
-* [Pollution](./topics/environment/pollution.md)
-* [Resources](./topics/environment/resources.md)
-* [World Map](./topics/environment/world-map.md)
+# Coffee Stainers
+* [Dylan](./topics/coffee-stainers/dylan.md)
+* [Jace](./topics/coffee-stainers/jace.md)
+* [Snutt](./topics/coffee-stainers/snutt.md)
 
 # Features
 * [Accessibility](./topics/features/accessibility.md)
@@ -37,14 +32,20 @@
 * [Foundations](./topics/features/buildables/foundations.md)
 * [Jump Pads](./topics/features/buildables/jump-pads.md)
 * [Ladders](./topics/features/buildables/ladders.md)
+* [Storage Containers](./topics/features/buildables/storage-containers.md)
 * [Walls](./topics/features/buildables/walls.md)
 
 ## Buildings
 * [Packager](./topics/features/buildings/packager.md)
+* [Radar Tower](./topics/features/buildings/radar-tower.md)
 * [The HUB](./topics/features/buildings/the-hub.md)
+
+## Crafting
+* [Superposition Oscillator](./topics/features/crafting/superposition-oscillator.md)
 
 ## Equipment
 * [Chainsaw](./topics/features/equipment/chainsaw.md)
+* [Jetpack](./topics/features/equipment/jetpack.md)
 
 ## Fluids
 * [Pipes](./topics/features/fluids/pipes.md)
@@ -64,21 +65,32 @@
 * [Third-Party Service Integration](./topics/features/possible-features/third-party-service-integration.md)
 * [Weather Systems](./topics/features/possible-features/weather-systems.md)
 
-## Unreleased Features
-* [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
-
 ## Power Management
 * [Geothermal Energy](./topics/features/power-management/geothermal-energy.md)
 * [Green Energy](./topics/features/power-management/green-energy.md)
 * [Nuclear Energy](./topics/features/power-management/nuclear-energy.md)
 
 ## Transportation
+* [Hyper Tubes](./topics/features/transportation/hyper-tubes.md)
 * [Trains](./topics/features/transportation/trains.md)
 * [Vehicles](./topics/features/transportation/vehicles.md)
 
 ## Unplanned Features
 * [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)
 * [Mass Building](./topics/features/unplanned-features/mass-building.md)
+
+## Unreleased Features
+* [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
+
+# Coffeestainers
+* [Simon](./topics/coffeestainers/simon.md)
+
+# Environment
+* [Creatures](./topics/environment/creatures.md)
+* [Plants](./topics/environment/plants.md)
+* [Pollution](./topics/environment/pollution.md)
+* [Resources](./topics/environment/resources.md)
+* [World Map](./topics/environment/world-map.md)
 
 # Mods
 * [Mods](./topics/mods.md)

@@ -1,5 +1,9 @@
 [Topics](../../topics.md) > Mods > Mods vs. Features
 
+# December 15th, 2020 Livestream
+* Q&A: Could it be released to the Modding Community to polish and release it as a Mod? https://www.youtube.com/watch?v=MQLuFiVQPYY
+* Q&A: Is automated food production planned? https://www.youtube.com/watch?v=-9WFYJETif4
+
 # December 8th, 2020 Livestream
 * Snutt Talk: We had windows before Mods. https://www.youtube.com/watch?v=FLOpWOXppKo
 

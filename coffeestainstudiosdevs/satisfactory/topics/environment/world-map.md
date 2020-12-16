@@ -1,5 +1,13 @@
 [Topics](../../topics.md) > Environment > World Map
 
+# December 15th, 2020 Livestream
+* Q&A: Will we add more to the Map? https://www.youtube.com/watch?v=NeQpezHiVzI
+* Q&A: Will there be a Snow Biome? https://www.youtube.com/watch?v=iyhdKRg1b0A
+* Q&A: When are you going to expand the map? https://www.youtube.com/watch?v=axmmm-ituSg
+* Q&A: Can we get turrets and more PvE? https://www.youtube.com/watch?v=sJnuRV0OGF0
+* Q&A: Are there hidden secrets and cameos in the game? https://www.youtube.com/watch?v=57Cc22ZK5aw
+* Q&A: Will the game in the future have some cataclysms or breakdowns? https://www.youtube.com/watch?v=O02Z9u7DpPo
+
 # December 8th, 2020 Livestream
 * Q&A: The Map? https://www.youtube.com/watch?v=y7chTv597Cw
 

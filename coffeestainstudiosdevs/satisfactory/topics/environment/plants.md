@@ -1,5 +1,8 @@
 [Topics](../../topics.md) > Environment > Plants
 
+# December 15th, 2020 Livestream
+* Q&A: Is automated food production planned? https://www.youtube.com/watch?v=-9WFYJETif4
+
 # November 17th, 2020 Livestream
 * Q&A: Will Trees respawning being worked on? https://www.youtube.com/watch?v=59eW6SBaiNk
 
