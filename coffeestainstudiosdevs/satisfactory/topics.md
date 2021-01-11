@@ -11,7 +11,15 @@
 # Coffee Stainers
 * [Dylan](./topics/coffee-stainers/dylan.md)
 * [Jace](./topics/coffee-stainers/jace.md)
+* [Simon](./topics/coffee-stainers/simon.md)
 * [Snutt](./topics/coffee-stainers/snutt.md)
+
+# Environment
+* [Creatures](./topics/environment/creatures.md)
+* [Plants](./topics/environment/plants.md)
+* [Pollution](./topics/environment/pollution.md)
+* [Resources](./topics/environment/resources.md)
+* [World Map](./topics/environment/world-map.md)
 
 # Features
 * [Accessibility](./topics/features/accessibility.md)
@@ -81,16 +89,6 @@
 
 ## Unreleased Features
 * [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
-
-# Coffeestainers
-* [Simon](./topics/coffeestainers/simon.md)
-
-# Environment
-* [Creatures](./topics/environment/creatures.md)
-* [Plants](./topics/environment/plants.md)
-* [Pollution](./topics/environment/pollution.md)
-* [Resources](./topics/environment/resources.md)
-* [World Map](./topics/environment/world-map.md)
 
 # Mods
 * [Mods](./topics/mods.md)
