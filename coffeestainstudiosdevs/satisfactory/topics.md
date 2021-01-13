@@ -2,25 +2,25 @@
 title: "Q&A Clips Archive - Browse Topics"
 date: Last Modified
 ---
-* [Arachnophobia Mode](./topics/arachnophobia-mode.md)
 * [Coffee Stainers](./topics/coffee-stainers.md)
 * [Localisation](./topics/localisation.md)
 * [Merch](./topics/merch.md)
 * [Off-Topic](./topics/off-topic.md)
-* [Procedural Generation](./topics/procedural-generation.md)
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)
 * [Story & Lore](./topics/story-lore.md)
-* [Terraforming](./topics/terraforming.md)
-* [Tim](./topics/tim.md)
 * [Trolling](./topics/trolling.md)
 * [Wiki](./topics/wiki.md)
+
+# Accessibility
+* [Arachnophobia Mode](./topics/accessibility/arachnophobia-mode.md)
 
 # Coffee Stainers
 * [Dylan](./topics/coffee-stainers/dylan.md)
 * [Jace](./topics/coffee-stainers/jace.md)
 * [Simon](./topics/coffee-stainers/simon.md)
 * [Snutt](./topics/coffee-stainers/snutt.md)
+* [Tim](./topics/coffee-stainers/tim.md)
 
 # Environment
 * [Creatures](./topics/environment/creatures.md)
@@ -52,6 +52,7 @@ date: Last Modified
 * [Walls](./topics/features/buildables/walls.md)
 
 ## Buildings
+* [Blender](./topics/features/buildings/blender.md)
 * [Packager](./topics/features/buildings/packager.md)
 * [Radar Tower](./topics/features/buildings/radar-tower.md)
 * [The HUB](./topics/features/buildings/the-hub.md)
@@ -94,14 +95,11 @@ date: Last Modified
 ## Unplanned Features
 * [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)
 * [Mass Building](./topics/features/unplanned-features/mass-building.md)
+* [Procedural Generation](./topics/features/unplanned-features/procedural-generation.md)
+* [Terraforming](./topics/features/unplanned-features/terraforming.md)
 
 ## Unreleased Features
 * [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
-
-# Technology
-* [Graphics](./topics/technology/graphics.md)
-* [Unreal Engine](./topics/technology/unreal-engine.md)
-* [User Interface](./topics/technology/user-interface.md)
 
 # Mods
 * [Mods](./topics/mods.md)
@@ -129,3 +127,8 @@ date: Last Modified
 * [Satisfactory Update 5](./topics/5/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Update 6](./topics/6/satisfactory-updates/speculative/satisfactory-update-6.md)
 * [Satisfactory Update 8](./topics/7/satisfactory-updates/speculative/satisfactory-update-8.md)
+
+# Technology
+* [Graphics](./topics/technology/graphics.md)
+* [Unreal Engine](./topics/technology/unreal-engine.md)
+* [User Interface](./topics/technology/user-interface.md)

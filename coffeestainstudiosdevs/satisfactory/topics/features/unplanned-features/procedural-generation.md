@@ -1,8 +1,8 @@
 ---
-title: "Procedural Generation"
+title: "Features > Unplanned Features > Procedural Generation"
 date: Last Modified
 ---
-[Topics](../topics.md) > Procedural Generation
+[Topics](../../../topics.md) > Features > Unplanned Features > Procedural Generation
 
 # November 24th, 2020 Livestream
 * Q&A: Procedural generation of the World? https://www.youtube.com/watch?v=q6tkuGjM4zY

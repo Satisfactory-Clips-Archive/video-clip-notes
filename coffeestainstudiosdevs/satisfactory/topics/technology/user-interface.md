@@ -41,6 +41,9 @@ date: Last Modified
 * Q&A: Is there a way to deposit all of the same material? https://www.youtube.com/watch?v=WCqChz4xFWg
 * Q&A: What's the max amount of body slots? https://www.youtube.com/watch?v=aPWXjH-Xf1o
 
+# September 29th, 2020 Livestream
+* Q&A: Add a Tape Measure or something to gauge distance between two objects? https://www.youtube.com/watch?v=-hFvijwVlSQ
+
 # September 22nd, 2020 Livestream
 * Q&A: Scrolling through your items? https://www.youtube.com/watch?v=KBeCXfGZ4Sg
 

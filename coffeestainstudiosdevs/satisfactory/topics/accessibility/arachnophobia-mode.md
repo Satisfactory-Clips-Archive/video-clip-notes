@@ -1,8 +1,8 @@
 ---
-title: "Arachnophobia Mode"
+title: "Accessibility > Arachnophobia Mode"
 date: Last Modified
 ---
-[Topics](../topics.md) > Arachnophobia Mode
+[Topics](../../topics.md) > Accessibility > Arachnophobia Mode
 
 # December 8th, 2020 Livestream
 * Q&A: Cyberpunk cross-over when? https://www.youtube.com/watch?v=GJMD7L7BLxE

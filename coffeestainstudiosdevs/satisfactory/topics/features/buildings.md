@@ -67,7 +67,7 @@ date: Last Modified
 
 # September 29th, 2020 Livestream
 * Q&A: What about Mk. 6 Belts? https://www.youtube.com/watch?v=NiBLAUCxIEs
-* Snut Talk: The Pipes Indicator https://www.youtube.com/watch?v=MhUCod36x7Y
+* Snutt Talk: The Pipes Indicator https://www.youtube.com/watch?v=MhUCod36x7Y
 * Q&A: Enclosed Belts https://www.youtube.com/watch?v=oLpv9B5-OjE
 * Q&A: When are we getting a Production Overview in the game? https://www.youtube.com/watch?v=OnK4DcHAB4o
 * Q&A: Any form of Mass Storage Management? https://www.youtube.com/watch?v=v_dacWIRc1Y
