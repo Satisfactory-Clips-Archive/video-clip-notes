@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: Janky, Weird, and Gross"
+title: "December 8th, 2020 Livestream Snutt & Jace Talk: Janky, Weird, and Gross"
 date: "2020-12-08"
 layout: transcript
 topics:

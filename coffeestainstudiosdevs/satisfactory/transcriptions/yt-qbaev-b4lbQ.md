@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How can I help with translation- the Spanish one looks like Google Translator?"
+title: "January 12th, 2021 Livestream Q&A: How can I help with translation- the Spanish one looks like Google Translator?"
 date: "2021-01-12"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What were the first reaction of the Factorio devs when they saw your job on Satisfactory?"
+title: "March 9th, 2019 Livestream Q&A: What were the first reaction of the Factorio devs when they saw your job on Satisfactory?"
 date: "2019-03-09"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there a debug command to see how many Objects you are using?"
+title: "November 10th, 2020 Livestream Q&A: Is there a debug command to see how many Objects you are using?"
 date: "2020-11-10"
 layout: transcript
 topics:

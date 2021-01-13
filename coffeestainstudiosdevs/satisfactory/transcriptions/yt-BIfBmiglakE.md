@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: SignpostMarv clips up all the Questions & Answers"
+title: "November 3rd, 2020 Livestream Snutt Talk: SignpostMarv clips up all the Questions & Answers"
 date: "2020-11-03"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When will we have Train Collision?"
+title: "October 20th, 2020 Livestream Q&A: When will we have Train Collision?"
 date: "2020-10-20"
 layout: transcript
 topics:

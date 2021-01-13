@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When do Signs come?"
+title: "November 3rd, 2020 Livestream Q&A: When do Signs come?"
 date: "2020-11-03"
 layout: transcript
 topics:

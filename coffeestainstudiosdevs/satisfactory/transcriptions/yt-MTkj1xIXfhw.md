@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the dark areas of the Map open up soon?"
+title: "November 10th, 2020 Livestream Q&A: Will the dark areas of the Map open up soon?"
 date: "2020-11-10"
 layout: transcript
 topics:

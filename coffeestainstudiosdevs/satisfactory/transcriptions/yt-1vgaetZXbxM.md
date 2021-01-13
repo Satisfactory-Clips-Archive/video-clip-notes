@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is the Tick the official for the Space Cow Bean Giraffe?"
+title: "October 20th, 2020 Livestream Q&A: Is the Tick the official for the Space Cow Bean Giraffe?"
 date: "2020-10-20"
 layout: transcript
 topics:

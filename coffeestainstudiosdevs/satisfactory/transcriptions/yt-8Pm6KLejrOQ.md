@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you plan on adding mass foundation placement?"
+title: "December 15th, 2020 Livestream Q&A: Do you plan on adding mass foundation placement?"
 date: "2020-12-15"
 layout: transcript
 topics:

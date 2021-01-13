@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we have an alternate arachnophobia mode with Simon's face?"
+title: "March 9th, 2019 Livestream Q&A: Can we have an alternate arachnophobia mode with Simon's face?"
 date: "2019-03-09"
 layout: transcript
 topics:

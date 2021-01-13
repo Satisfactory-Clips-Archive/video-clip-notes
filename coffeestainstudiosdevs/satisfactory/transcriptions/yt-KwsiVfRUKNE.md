@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Who is Hannah?"
+title: "November 17th, 2020 Livestream Q&A: Who is Hannah?"
 date: "2020-11-17"
 layout: transcript
 topics:

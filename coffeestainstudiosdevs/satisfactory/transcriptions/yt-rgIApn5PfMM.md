@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be better power poles later on?"
+title: "March 9th, 2019 Livestream Q&A: Will there be better power poles later on?"
 date: "2019-03-09"
 layout: transcript
 topics:

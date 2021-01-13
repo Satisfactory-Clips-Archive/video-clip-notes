@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How will time run on the Dedicated Servers?"
+title: "September 22nd, 2020 Livestream Q&A: How will time run on the Dedicated Servers?"
 date: "2020-09-22"
 layout: transcript
 topics:

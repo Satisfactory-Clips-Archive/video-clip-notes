@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How big will the update for Update 4 be in gigabytes?"
+title: "December 15th, 2020 Livestream Q&A: How big will the update for Update 4 be in gigabytes?"
 date: "2020-12-15"
 layout: transcript
 topics:

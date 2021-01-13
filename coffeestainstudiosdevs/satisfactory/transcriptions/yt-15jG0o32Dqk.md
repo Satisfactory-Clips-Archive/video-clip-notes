@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there any plans to add an option to disable the day/night cycle?"
+title: "November 17th, 2020 Livestream Q&A: Are there any plans to add an option to disable the day/night cycle?"
 date: "2020-11-17"
 layout: transcript
 topics:

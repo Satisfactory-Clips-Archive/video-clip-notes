@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Mercer Spheres and Somersloops?"
+title: "January 12th, 2021 Livestream Q&A: Mercer Spheres and Somersloops?"
 date: "2021-01-12"
 layout: transcript
 topics:

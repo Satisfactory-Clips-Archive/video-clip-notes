@@ -1,5 +1,5 @@
 ---
-title: "Snutt, Simon, Jace Talk: Laughing in the office"
+title: "March 9th, 2019 Livestream Snutt, Simon, Jace Talk: Laughing in the office"
 date: "2019-03-09"
 layout: transcript
 topics:

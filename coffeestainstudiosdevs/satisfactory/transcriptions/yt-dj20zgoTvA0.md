@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Simon is dead, did he run out of Alpha Keys?"
+title: "November 24th, 2020 Livestream Q&A: Simon is dead, did he run out of Alpha Keys?"
 date: "2020-11-24"
 layout: transcript
 topics:

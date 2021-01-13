@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any info on possible build contests?"
+title: "September 8th, 2020 Livestream Q&A: Any info on possible build contests?"
 date: "2020-09-08"
 layout: transcript
 topics:

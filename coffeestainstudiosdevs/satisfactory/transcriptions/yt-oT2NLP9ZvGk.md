@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)"
+title: "September 22nd, 2020 Livestream Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)"
 date: "2020-09-22"
 layout: transcript
 topics:

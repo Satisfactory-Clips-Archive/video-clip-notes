@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What's the most outrageous suggestion you've gotten from the community?"
+title: "December 8th, 2020 Livestream Q&A: What's the most outrageous suggestion you've gotten from the community?"
 date: "2020-12-08"
 layout: transcript
 topics:

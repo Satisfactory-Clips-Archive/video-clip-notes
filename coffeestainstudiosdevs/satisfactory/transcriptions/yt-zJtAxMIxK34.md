@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Does anyone actually moderate the questions site?"
+title: "September 1st, 2020 Livestream Q&A: Does anyone actually moderate the questions site?"
 date: "2020-09-01"
 layout: transcript
 topics:

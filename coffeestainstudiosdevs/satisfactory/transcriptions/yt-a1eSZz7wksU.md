@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?"
+title: "November 24th, 2020 Livestream Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?"
 date: "2020-11-24"
 layout: transcript
 topics:

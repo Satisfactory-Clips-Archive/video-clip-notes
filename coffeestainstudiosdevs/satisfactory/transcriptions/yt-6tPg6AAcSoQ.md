@@ -1,5 +1,5 @@
 ---
-title: "Q&A: If you have time to play, what games do you play?"
+title: "November 24th, 2020 Livestream Q&A: If you have time to play, what games do you play?"
 date: "2020-11-24"
 layout: transcript
 topics:

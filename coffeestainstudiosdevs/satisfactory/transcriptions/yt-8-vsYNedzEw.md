@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Update 4 Release Date"
+title: "January 12th, 2021 Livestream Q&A: Update 4 Release Date"
 date: "2021-01-12"
 layout: transcript
 topics:

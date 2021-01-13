@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be faster Smelter/Manufacturers?"
+title: "November 10th, 2020 Livestream Q&A: Will there be faster Smelter/Manufacturers?"
 date: "2020-11-10"
 layout: transcript
 topics:

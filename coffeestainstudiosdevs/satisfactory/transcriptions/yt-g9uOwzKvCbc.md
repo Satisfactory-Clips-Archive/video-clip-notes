@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can I choose the gender and customise my character?"
+title: "March 9th, 2019 Livestream Q&A: Can I choose the gender and customise my character?"
 date: "2019-03-09"
 layout: transcript
 topics:

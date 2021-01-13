@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you have to take advil before playing this game?"
+title: "December 8th, 2020 Livestream Q&A: Do you have to take advil before playing this game?"
 date: "2020-12-08"
 layout: transcript
 topics:

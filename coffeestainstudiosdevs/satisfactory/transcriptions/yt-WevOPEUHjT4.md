@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be an update on how many copies of the game has sold?"
+title: "November 3rd, 2020 Livestream Q&A: Will there be an update on how many copies of the game has sold?"
 date: "2020-11-03"
 layout: transcript
 topics:

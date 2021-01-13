@@ -1,5 +1,5 @@
 ---
-title: "Q&A: So is this a Refinery that can only package/unpackage liquids & more compact?"
+title: "October 13th, 2020 Livestream Q&A: So is this a Refinery that can only package/unpackage liquids & more compact?"
 date: "2020-10-13"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Snutt, Jace Talk: People doing crazy stuff"
+title: "March 9th, 2019 Livestream Snutt, Jace Talk: People doing crazy stuff"
 date: "2019-03-09"
 layout: transcript
 topics:

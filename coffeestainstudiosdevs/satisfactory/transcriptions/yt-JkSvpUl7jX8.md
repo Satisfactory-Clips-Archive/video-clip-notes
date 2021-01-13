@@ -1,9 +1,9 @@
 ---
-title: "Q&A: Do you have any good stories for features that didn't get included in the game?"
+title: "October 6th, 2020 Livestream Q&A: Do you have any good stories for features that didn't get included in the game?"
 date: "2020-10-06"
 layout: transcript
 topics:
-    - ""
+    - "features/unplanned-features/procedural-generation"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Do you have any good stories for features that didn't get included in the game?

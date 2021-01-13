@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What item that you can talk about are you most looking forward to?"
+title: "October 6th, 2020 Livestream Q&A: What item that you can talk about are you most looking forward to?"
 date: "2020-10-06"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Does the Packager also do unpacking?"
+title: "October 27th, 2020 Livestream Q&A: Does the Packager also do unpacking?"
 date: "2020-10-27"
 layout: transcript
 topics:

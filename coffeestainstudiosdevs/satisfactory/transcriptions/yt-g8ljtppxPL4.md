@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the drag technology of Ladders be used elsewhere?"
+title: "November 3rd, 2020 Livestream Q&A: Will the drag technology of Ladders be used elsewhere?"
 date: "2020-11-03"
 layout: transcript
 topics:

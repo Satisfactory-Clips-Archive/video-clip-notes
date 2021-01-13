@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Have you sold more than 10 copies yet?"
+title: "December 8th, 2020 Livestream Q&A: Have you sold more than 10 copies yet?"
 date: "2020-12-08"
 layout: transcript
 topics:

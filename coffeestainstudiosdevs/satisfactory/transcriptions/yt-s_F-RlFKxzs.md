@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is new stuff still being created for Update 4 or just polishing and bug-fixing at this point?"
+title: "January 12th, 2021 Livestream Q&A: Is new stuff still being created for Update 4 or just polishing and bug-fixing at this point?"
 date: "2021-01-12"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Snutt, Simon, Jace Talk: Turning on Arachnophobia Mode"
+title: "March 9th, 2019 Livestream Snutt, Simon, Jace Talk: Turning on Arachnophobia Mode"
 date: "2019-03-09"
 layout: transcript
 topics:

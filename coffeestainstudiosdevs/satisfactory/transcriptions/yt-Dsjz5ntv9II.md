@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Does the Giant Crab unlock stuff?"
+title: "September 15th, 2020 Livestream Q&A: Does the Giant Crab unlock stuff?"
 date: "2020-09-15"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: I fucked up"
+title: "October 20th, 2020 Livestream Snutt Talk: I fucked up"
 date: "2020-10-20"
 layout: transcript
 topics:

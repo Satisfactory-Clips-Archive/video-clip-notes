@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans for when your Base grows so large you literally run out of nodes to make it bigger?"
+title: "September 15th, 2020 Livestream Q&A: Any plans for when your Base grows so large you literally run out of nodes to make it bigger?"
 date: "2020-09-15"
 layout: transcript
 topics:

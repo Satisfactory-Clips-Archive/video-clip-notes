@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Turbo Motors be used more in the Update?"
+title: "October 13th, 2020 Livestream Q&A: Will Turbo Motors be used more in the Update?"
 date: "2020-10-13"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Co-op networking bugs been fixed?"
+title: "October 6th, 2020 Livestream Q&A: Co-op networking bugs been fixed?"
 date: "2020-10-06"
 layout: transcript
 topics:

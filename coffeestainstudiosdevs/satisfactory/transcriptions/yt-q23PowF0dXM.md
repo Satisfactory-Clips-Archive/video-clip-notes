@@ -1,5 +1,5 @@
 ---
-title: "Q&A: The pipes thing- is that a reskin?"
+title: "October 27th, 2020 Livestream Q&A: The pipes thing- is that a reskin?"
 date: "2020-10-27"
 layout: transcript
 topics:

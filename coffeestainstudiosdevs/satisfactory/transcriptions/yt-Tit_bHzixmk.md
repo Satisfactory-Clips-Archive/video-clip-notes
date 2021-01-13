@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why did you take our industrial lights away from walkways, I miss those?"
+title: "March 9th, 2019 Livestream Q&A: Why did you take our industrial lights away from walkways, I miss those?"
 date: "2019-03-09"
 layout: transcript
 topics:

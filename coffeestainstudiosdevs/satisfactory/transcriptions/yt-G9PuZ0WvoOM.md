@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When are we expecting to get Dedicated Servers?"
+title: "September 8th, 2020 Livestream Q&A: When are we expecting to get Dedicated Servers?"
 date: "2020-09-08"
 layout: transcript
 topics:

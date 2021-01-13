@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Power Cables"
+title: "October 20th, 2020 Livestream Snutt Talk: Power Cables"
 date: "2020-10-20"
 layout: transcript
 topics:

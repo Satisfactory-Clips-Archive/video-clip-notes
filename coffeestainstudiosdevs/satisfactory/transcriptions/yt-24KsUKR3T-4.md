@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When are we getting Toilet Flush DLC?"
+title: "November 10th, 2020 Livestream Q&A: When are we getting Toilet Flush DLC?"
 date: "2020-11-10"
 layout: transcript
 topics:

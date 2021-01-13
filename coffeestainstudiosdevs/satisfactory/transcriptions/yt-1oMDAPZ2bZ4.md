@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When do we get Twitch Subscribe/Emote options?"
+title: "November 17th, 2020 Livestream Q&A: When do we get Twitch Subscribe/Emote options?"
 date: "2020-11-17"
 layout: transcript
 topics:

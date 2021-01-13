@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What're your guys thoughts on transport beyond Jetpacks ?"
+title: "September 8th, 2020 Livestream Q&A: What're your guys thoughts on transport beyond Jetpacks ?"
 date: "2020-09-08"
 layout: transcript
 topics:

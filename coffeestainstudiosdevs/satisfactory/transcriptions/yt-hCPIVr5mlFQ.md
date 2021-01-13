@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Player death without the HUB being built."
+title: "March 9th, 2019 Livestream Snutt Talk: Player death without the HUB being built."
 date: "2019-03-09"
 layout: transcript
 topics:

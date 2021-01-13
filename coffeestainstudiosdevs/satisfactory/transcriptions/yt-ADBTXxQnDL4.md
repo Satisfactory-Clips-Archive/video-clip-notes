@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans to bring Satisfactory to Linux?"
+title: "October 6th, 2020 Livestream Q&A: Any plans to bring Satisfactory to Linux?"
 date: "2020-10-06"
 layout: transcript
 topics:

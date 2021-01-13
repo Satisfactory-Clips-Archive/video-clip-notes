@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Packagers out yet?"
+title: "October 13th, 2020 Livestream Q&A: Packagers out yet?"
 date: "2020-10-13"
 layout: transcript
 topics:

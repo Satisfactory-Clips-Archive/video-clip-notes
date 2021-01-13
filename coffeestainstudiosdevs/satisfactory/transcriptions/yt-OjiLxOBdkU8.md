@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is Multiplayer desync fixed in Update 4?"
+title: "December 8th, 2020 Livestream Q&A: Is Multiplayer desync fixed in Update 4?"
 date: "2020-12-08"
 layout: transcript
 topics:

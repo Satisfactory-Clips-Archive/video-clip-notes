@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Thumbs Up & Thumbs Down emotes in game?"
+title: "November 10th, 2020 Livestream Q&A: Thumbs Up & Thumbs Down emotes in game?"
 date: "2020-11-10"
 layout: transcript
 topics:

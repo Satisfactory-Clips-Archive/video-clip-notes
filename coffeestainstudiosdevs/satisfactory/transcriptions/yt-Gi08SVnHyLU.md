@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are Steam Achievements going to be added in the future?"
+title: "November 3rd, 2020 Livestream Q&A: Are Steam Achievements going to be added in the future?"
 date: "2020-11-03"
 layout: transcript
 topics:

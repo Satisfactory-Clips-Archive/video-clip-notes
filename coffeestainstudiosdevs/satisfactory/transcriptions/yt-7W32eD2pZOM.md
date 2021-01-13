@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there any info/lore on the player character?"
+title: "December 8th, 2020 Livestream Q&A: Is there any info/lore on the player character?"
 date: "2020-12-08"
 layout: transcript
 topics:

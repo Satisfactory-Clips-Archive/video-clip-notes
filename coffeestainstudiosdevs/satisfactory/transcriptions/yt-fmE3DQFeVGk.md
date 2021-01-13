@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Have you confirmed Superposition Oscillators and Quantum Computers to be buildable in Tier 8?"
+title: "December 15th, 2020 Livestream Q&A: Have you confirmed Superposition Oscillators and Quantum Computers to be buildable in Tier 8?"
 date: "2020-12-15"
 layout: transcript
 topics:

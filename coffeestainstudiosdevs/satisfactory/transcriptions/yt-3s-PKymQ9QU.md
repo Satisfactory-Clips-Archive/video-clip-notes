@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Ever consider making a VR version of Satisfactory?"
+title: "September 8th, 2020 Livestream Q&A: Ever consider making a VR version of Satisfactory?"
 date: "2020-09-08"
 layout: transcript
 topics:

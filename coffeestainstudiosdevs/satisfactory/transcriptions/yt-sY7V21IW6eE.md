@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans for Power Management?"
+title: "November 17th, 2020 Livestream Q&A: Any plans for Power Management?"
 date: "2020-11-17"
 layout: transcript
 topics:

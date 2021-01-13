@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the game in the future have some cataclysms or breakdowns?"
+title: "December 15th, 2020 Livestream Q&A: Will the game in the future have some cataclysms or breakdowns?"
 date: "2020-12-15"
 layout: transcript
 topics:

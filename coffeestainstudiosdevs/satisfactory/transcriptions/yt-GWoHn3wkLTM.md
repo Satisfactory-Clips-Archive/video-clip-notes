@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is liking Coffee a requirement to work at the Studio?"
+title: "September 1st, 2020 Livestream Q&A: Is liking Coffee a requirement to work at the Studio?"
 date: "2020-09-01"
 layout: transcript
 topics:

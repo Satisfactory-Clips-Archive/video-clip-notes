@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How many developers are working on Satisfactory?"
+title: "November 17th, 2020 Livestream Q&A: How many developers are working on Satisfactory?"
 date: "2020-11-17"
 layout: transcript
 topics:

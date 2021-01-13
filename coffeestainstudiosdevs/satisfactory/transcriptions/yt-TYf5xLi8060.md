@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When we talk about Dedicated Servers is the plan that those servers are hosted by Coffee Stain?"
+title: "November 10th, 2020 Livestream Q&A: When we talk about Dedicated Servers is the plan that those servers are hosted by Coffee Stain?"
 date: "2020-11-10"
 layout: transcript
 topics:

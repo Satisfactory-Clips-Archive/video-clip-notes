@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any thought to allow Splitters to regulate the flow of items per minute?"
+title: "December 15th, 2020 Livestream Q&A: Any thought to allow Splitters to regulate the flow of items per minute?"
 date: "2020-12-15"
 layout: transcript
 topics:

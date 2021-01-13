@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What's the best nickname someone has ever given you?"
+title: "December 15th, 2020 Livestream Q&A: What's the best nickname someone has ever given you?"
 date: "2020-12-15"
 layout: transcript
 topics:

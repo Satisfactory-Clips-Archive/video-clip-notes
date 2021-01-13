@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are the Ore deposits infinite or do they exhaust eventually??"
+title: "March 9th, 2019 Livestream Q&A: Are the Ore deposits infinite or do they exhaust eventually??"
 date: "2019-03-09"
 layout: transcript
 topics:

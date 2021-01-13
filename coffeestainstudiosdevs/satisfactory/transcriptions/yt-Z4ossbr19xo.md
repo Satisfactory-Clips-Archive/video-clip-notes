@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What about the Mug?"
+title: "September 22nd, 2020 Livestream Q&A: What about the Mug?"
 date: "2020-09-22"
 layout: transcript
 topics:

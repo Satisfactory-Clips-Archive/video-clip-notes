@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What's happening with S.A.M. Ore?"
+title: "January 12th, 2021 Livestream Q&A: What's happening with S.A.M. Ore?"
 date: "2021-01-12"
 layout: transcript
 topics:

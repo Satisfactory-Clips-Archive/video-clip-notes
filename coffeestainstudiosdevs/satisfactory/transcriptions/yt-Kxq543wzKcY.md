@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are we ever going to see a new enemy type?"
+title: "September 15th, 2020 Livestream Q&A: Are we ever going to see a new enemy type?"
 date: "2020-09-15"
 layout: transcript
 topics:

@@ -1,8 +1,9 @@
 ---
-title: "Q&A: Can we get more cat variety?"
+title: "September 22nd, 2020 Livestream Q&A: Can we get more cat variety?"
 date: "2020-09-22"
 layout: transcript
 topics:
+    - "accessibility/arachnophobia-mode"
     - "features/accessibility"
     - "technology/graphics"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Give details about the Fluids?"
+title: "September 15th, 2020 Livestream Q&A: Give details about the Fluids?"
 date: "2020-09-15"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is Linux support planned in the future?"
+title: "March 9th, 2019 Livestream Q&A: Is Linux support planned in the future?"
 date: "2019-03-09"
 layout: transcript
 topics:

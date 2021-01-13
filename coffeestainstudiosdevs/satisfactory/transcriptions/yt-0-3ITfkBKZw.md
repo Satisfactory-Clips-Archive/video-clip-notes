@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When are diagonal Walls coming?"
+title: "November 24th, 2020 Livestream Q&A: When are diagonal Walls coming?"
 date: "2020-11-24"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Mobile Edition?"
+title: "September 22nd, 2020 Livestream Q&A: Mobile Edition?"
 date: "2020-09-22"
 layout: transcript
 topics:

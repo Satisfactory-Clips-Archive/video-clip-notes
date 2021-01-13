@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Flying Monsters?"
+title: "September 8th, 2020 Livestream Q&A: Flying Monsters?"
 date: "2020-09-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Factorio has Belt multi-core?"
+title: "November 24th, 2020 Livestream Q&A: Factorio has Belt multi-core?"
 date: "2020-11-24"
 layout: transcript
 topics:

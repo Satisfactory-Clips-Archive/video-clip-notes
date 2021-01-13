@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Turkish section on the Discord/Forums?"
+title: "September 29th, 2020 Livestream Q&A: Turkish section on the Discord/Forums?"
 date: "2020-09-29"
 layout: transcript
 topics:

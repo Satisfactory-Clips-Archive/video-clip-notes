@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the Story play out when implemented or will we have to start a new game?"
+title: "September 22nd, 2020 Livestream Q&A: Will the Story play out when implemented or will we have to start a new game?"
 date: "2020-09-22"
 layout: transcript
 topics:

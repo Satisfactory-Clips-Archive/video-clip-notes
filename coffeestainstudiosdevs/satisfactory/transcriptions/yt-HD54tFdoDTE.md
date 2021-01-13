@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will we ever see the Crab Boss?"
+title: "September 8th, 2020 Livestream Q&A: Will we ever see the Crab Boss?"
 date: "2020-09-08"
 layout: transcript
 topics:

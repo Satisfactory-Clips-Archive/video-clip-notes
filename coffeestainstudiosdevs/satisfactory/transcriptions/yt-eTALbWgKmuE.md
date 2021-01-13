@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Randomising nodes?"
+title: "November 10th, 2020 Livestream Q&A: Randomising nodes?"
 date: "2020-11-10"
 layout: transcript
 topics:

@@ -1,9 +1,12 @@
 ---
-title: "Q&A: Add a Tape Measure or something to gauge distance between two objects?"
+title: "September 29th, 2020 Livestream Q&A: Add a Tape Measure or something to gauge distance between two objects?"
 date: "2020-09-29"
 layout: transcript
 topics:
+    - "features/fluids/pumps"
+    - "features/fluids/pipes"
     - "features/crafting"
+    - "technology/user-interface"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Add a Tape Measure or something to gauge distance between two objects?

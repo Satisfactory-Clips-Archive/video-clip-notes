@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the Engine Upgrade affect performance?"
+title: "November 24th, 2020 Livestream Q&A: Will the Engine Upgrade affect performance?"
 date: "2020-11-24"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When can we buy the FICSIT Cup?"
+title: "November 10th, 2020 Livestream Q&A: When can we buy the FICSIT Cup?"
 date: "2020-11-10"
 layout: transcript
 topics:

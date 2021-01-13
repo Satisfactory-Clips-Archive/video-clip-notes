@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Collect Fart Gas for fuel?"
+title: "March 9th, 2019 Livestream Q&A: Collect Fart Gas for fuel?"
 date: "2019-03-09"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you guys think Steel cost is balanced right now?"
+title: "October 13th, 2020 Livestream Q&A: Do you guys think Steel cost is balanced right now?"
 date: "2020-10-13"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: Geese"
+title: "November 10th, 2020 Livestream Snutt & Jace Talk: Geese"
 date: "2020-11-10"
 layout: transcript
 topics:

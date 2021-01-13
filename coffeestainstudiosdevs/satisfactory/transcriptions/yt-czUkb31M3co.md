@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there a date targeted?"
+title: "September 1st, 2020 Livestream Q&A: Is there a date targeted?"
 date: "2020-09-01"
 layout: transcript
 topics:

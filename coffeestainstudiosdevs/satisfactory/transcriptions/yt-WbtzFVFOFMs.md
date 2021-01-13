@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are Conveyor Belt Mk. 6 going to be a thing?"
+title: "November 10th, 2020 Livestream Q&A: Are Conveyor Belt Mk. 6 going to be a thing?"
 date: "2020-11-10"
 layout: transcript
 topics:

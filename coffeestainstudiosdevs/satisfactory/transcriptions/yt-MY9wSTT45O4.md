@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is the building going to be built with already in-game materials or built with new materials?"
+title: "October 13th, 2020 Livestream Q&A: Is the building going to be built with already in-game materials or built with new materials?"
 date: "2020-10-13"
 layout: transcript
 topics:

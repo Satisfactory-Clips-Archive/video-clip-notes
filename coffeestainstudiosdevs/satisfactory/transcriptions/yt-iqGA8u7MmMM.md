@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?"
+title: "January 12th, 2021 Livestream Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?"
 date: "2021-01-12"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there any limit to how much you can build, or just your PC specs?"
+title: "March 9th, 2019 Livestream Q&A: Is there any limit to how much you can build, or just your PC specs?"
 date: "2019-03-09"
 layout: transcript
 topics:

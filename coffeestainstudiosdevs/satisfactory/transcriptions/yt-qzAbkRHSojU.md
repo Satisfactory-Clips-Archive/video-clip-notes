@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the Pipeline Junction be stackable?"
+title: "October 20th, 2020 Livestream Q&A: Will the Pipeline Junction be stackable?"
 date: "2020-10-20"
 layout: transcript
 topics:

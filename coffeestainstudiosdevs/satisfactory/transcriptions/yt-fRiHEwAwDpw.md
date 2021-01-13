@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is that not actual gameplay footage?"
+title: "October 13th, 2020 Livestream Q&A: Is that not actual gameplay footage?"
 date: "2020-10-13"
 layout: transcript
 topics:

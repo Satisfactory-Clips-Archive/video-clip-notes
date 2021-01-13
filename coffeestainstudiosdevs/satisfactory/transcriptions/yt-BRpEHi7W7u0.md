@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When can Poison Pillars be removed?"
+title: "September 8th, 2020 Livestream Q&A: When can Poison Pillars be removed?"
 date: "2020-09-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will we add DLC?"
+title: "October 20th, 2020 Livestream Q&A: Will we add DLC?"
 date: "2020-10-20"
 layout: transcript
 topics:

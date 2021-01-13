@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How many hours do you have in your playthrough?"
+title: "September 22nd, 2020 Livestream Q&A: How many hours do you have in your playthrough?"
 date: "2020-09-22"
 layout: transcript
 topics:

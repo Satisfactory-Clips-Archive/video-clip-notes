@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why is everybody updating Engine?"
+title: "October 6th, 2020 Livestream Q&A: Why is everybody updating Engine?"
 date: "2020-10-06"
 layout: transcript
 topics:

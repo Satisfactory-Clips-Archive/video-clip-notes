@@ -1,5 +1,5 @@
 ---
-title: "Q&A: DLSS one day?"
+title: "September 15th, 2020 Livestream Q&A: DLSS one day?"
 date: "2020-09-15"
 layout: transcript
 topics:

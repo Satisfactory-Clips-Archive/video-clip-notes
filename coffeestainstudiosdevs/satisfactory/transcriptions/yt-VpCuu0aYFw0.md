@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What is the object limit and why is it that number?"
+title: "October 6th, 2020 Livestream Q&A: What is the object limit and why is it that number?"
 date: "2020-10-06"
 layout: transcript
 topics:

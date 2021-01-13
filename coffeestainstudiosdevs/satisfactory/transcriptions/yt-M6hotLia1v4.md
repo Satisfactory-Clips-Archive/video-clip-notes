@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be penguins in the game?"
+title: "September 22nd, 2020 Livestream Q&A: Will there be penguins in the game?"
 date: "2020-09-22"
 layout: transcript
 topics:

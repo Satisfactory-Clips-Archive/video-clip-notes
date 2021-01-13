@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Who's Dylan?"
+title: "December 15th, 2020 Livestream Q&A: Who's Dylan?"
 date: "2020-12-15"
 layout: transcript
 topics:

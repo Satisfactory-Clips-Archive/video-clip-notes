@@ -1,5 +1,5 @@
 ---
-title: "Jace & Snutt Talk: Zombie/Clone Players (part 1)"
+title: "September 22nd, 2020 Livestream Jace & Snutt Talk: Zombie/Clone Players (part 1)"
 date: "2020-09-22"
 layout: transcript
 topics:

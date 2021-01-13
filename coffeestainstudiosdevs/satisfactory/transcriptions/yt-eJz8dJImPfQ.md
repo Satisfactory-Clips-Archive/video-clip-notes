@@ -1,5 +1,5 @@
 ---
-title: "Q&A: VR Support?"
+title: "November 3rd, 2020 Livestream Q&A: VR Support?"
 date: "2020-11-03"
 layout: transcript
 topics:

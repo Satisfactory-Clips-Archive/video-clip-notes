@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Look's like the game is performing better - what went wrong?"
+title: "December 8th, 2020 Livestream Q&A: Look's like the game is performing better - what went wrong?"
 date: "2020-12-08"
 layout: transcript
 topics:

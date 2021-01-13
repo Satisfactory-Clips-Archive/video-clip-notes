@@ -1,5 +1,5 @@
 ---
-title: "State of Dev: Coffee Stain new office (Part 1)"
+title: "January 12th, 2021 Livestream State of Dev: Coffee Stain new office (Part 1)"
 date: "2021-01-12"
 layout: transcript
 topics:

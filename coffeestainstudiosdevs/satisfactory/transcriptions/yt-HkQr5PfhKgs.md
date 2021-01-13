@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Fan Forge"
+title: "September 22nd, 2020 Livestream Snutt Talk: Fan Forge"
 date: "2020-09-22"
 layout: transcript
 topics:

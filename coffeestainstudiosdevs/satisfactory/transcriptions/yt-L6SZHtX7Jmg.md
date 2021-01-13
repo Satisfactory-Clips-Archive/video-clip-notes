@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any chance of Autosave process not creating giant frame drops ?"
+title: "September 1st, 2020 Livestream Q&A: Any chance of Autosave process not creating giant frame drops ?"
 date: "2020-09-01"
 layout: transcript
 topics:

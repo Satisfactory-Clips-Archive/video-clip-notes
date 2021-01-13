@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Third-Person When?"
+title: "September 8th, 2020 Livestream Q&A: Third-Person When?"
 date: "2020-09-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any secret mechanics we haven't figured out yet?"
+title: "November 10th, 2020 Livestream Q&A: Any secret mechanics we haven't figured out yet?"
 date: "2020-11-10"
 layout: transcript
 topics:

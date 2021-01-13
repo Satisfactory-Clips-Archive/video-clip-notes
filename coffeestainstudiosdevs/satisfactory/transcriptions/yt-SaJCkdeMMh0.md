@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you supposed to be able to break the rocks that has a slug inside of it?"
+title: "March 9th, 2019 Livestream Q&A: Are you supposed to be able to break the rocks that has a slug inside of it?"
 date: "2019-03-09"
 layout: transcript
 topics:

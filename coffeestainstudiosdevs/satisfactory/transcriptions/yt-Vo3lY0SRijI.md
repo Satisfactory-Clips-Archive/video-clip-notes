@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: More. More. More. More. More. More. More. More. More. More. More. More. More."
+title: "November 17th, 2020 Livestream Snutt & Jace Talk: More. More. More. More. More. More. More. More. More. More. More. More. More."
 date: "2020-11-17"
 layout: transcript
 topics:

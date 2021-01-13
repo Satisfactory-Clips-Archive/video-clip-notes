@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are 24/7 Servers for the game so important?"
+title: "October 20th, 2020 Livestream Q&A: Are 24/7 Servers for the game so important?"
 date: "2020-10-20"
 layout: transcript
 topics:

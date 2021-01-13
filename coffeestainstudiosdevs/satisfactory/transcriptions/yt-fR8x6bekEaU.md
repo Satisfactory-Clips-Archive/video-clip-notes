@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can you DMCA me just for funsies?"
+title: "November 17th, 2020 Livestream Q&A: Can you DMCA me just for funsies?"
 date: "2020-11-17"
 layout: transcript
 topics:

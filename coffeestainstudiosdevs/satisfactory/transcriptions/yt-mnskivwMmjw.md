@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What are the advantages of packaging?"
+title: "October 13th, 2020 Livestream Q&A: What are the advantages of packaging?"
 date: "2020-10-13"
 layout: transcript
 topics:

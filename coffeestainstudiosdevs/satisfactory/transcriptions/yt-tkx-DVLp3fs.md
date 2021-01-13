@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is multiplayer desync getting fixed?"
+title: "September 1st, 2020 Livestream Q&A: Is multiplayer desync getting fixed?"
 date: "2020-09-01"
 layout: transcript
 topics:

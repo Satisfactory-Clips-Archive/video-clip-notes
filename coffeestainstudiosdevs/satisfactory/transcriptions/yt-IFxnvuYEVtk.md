@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?"
+title: "November 10th, 2020 Livestream Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?"
 date: "2020-11-10"
 layout: transcript
 topics:

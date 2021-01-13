@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Snow Area Confirmed?"
+title: "September 15th, 2020 Livestream Q&A: Snow Area Confirmed?"
 date: "2020-09-15"
 layout: transcript
 topics:

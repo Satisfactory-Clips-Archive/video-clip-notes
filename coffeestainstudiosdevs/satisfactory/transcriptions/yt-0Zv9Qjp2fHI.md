@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you planning on porting the game to PS4?"
+title: "September 15th, 2020 Livestream Q&A: Are you planning on porting the game to PS4?"
 date: "2020-09-15"
 layout: transcript
 topics:

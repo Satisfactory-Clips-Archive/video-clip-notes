@@ -1,5 +1,5 @@
 ---
-title: "Trolling: Console Support"
+title: "November 17th, 2020 Livestream Trolling: Console Support"
 date: "2020-11-17"
 layout: transcript
 topics:

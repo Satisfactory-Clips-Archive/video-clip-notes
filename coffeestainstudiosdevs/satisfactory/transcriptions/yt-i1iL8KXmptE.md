@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the Factory Cart be available as Merch?"
+title: "September 1st, 2020 Livestream Q&A: Will the Factory Cart be available as Merch?"
 date: "2020-09-01"
 layout: transcript
 topics:

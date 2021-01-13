@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When is the official release?"
+title: "March 9th, 2019 Livestream Q&A: When is the official release?"
 date: "2019-03-09"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there Mods that you might put into the game?"
+title: "November 10th, 2020 Livestream Q&A: Are there Mods that you might put into the game?"
 date: "2020-11-10"
 layout: transcript
 topics:

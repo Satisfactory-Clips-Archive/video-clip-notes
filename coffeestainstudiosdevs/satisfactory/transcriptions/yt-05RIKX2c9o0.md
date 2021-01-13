@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Plans for small Hub storage container?"
+title: "October 6th, 2020 Livestream Q&A: Plans for small Hub storage container?"
 date: "2020-10-06"
 layout: transcript
 topics:

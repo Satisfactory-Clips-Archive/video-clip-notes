@@ -1,5 +1,5 @@
 ---
-title: "State of Dev"
+title: "December 1st, 2020 Livestream State of Dev"
 date: "2020-12-01"
 layout: transcript
 topics:

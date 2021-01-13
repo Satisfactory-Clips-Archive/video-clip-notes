@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Won't it run on Linux with Wine/Proton?"
+title: "October 6th, 2020 Livestream Q&A: Won't it run on Linux with Wine/Proton?"
 date: "2020-10-06"
 layout: transcript
 topics:

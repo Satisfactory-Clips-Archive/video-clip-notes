@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: Play styles"
+title: "March 9th, 2019 Livestream Snutt & Jace Talk: Play styles"
 date: "2019-03-09"
 layout: transcript
 topics:

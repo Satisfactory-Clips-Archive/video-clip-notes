@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you practice being vague?"
+title: "November 10th, 2020 Livestream Q&A: Are you practice being vague?"
 date: "2020-11-10"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: More emotes?"
+title: "December 15th, 2020 Livestream Q&A: More emotes?"
 date: "2020-12-15"
 layout: transcript
 topics:

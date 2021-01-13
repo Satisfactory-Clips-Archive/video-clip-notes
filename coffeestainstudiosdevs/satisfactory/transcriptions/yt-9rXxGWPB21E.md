@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can you please add a Smart or Programmable Merger?"
+title: "September 8th, 2020 Livestream Q&A: Can you please add a Smart or Programmable Merger?"
 date: "2020-09-08"
 layout: transcript
 topics:

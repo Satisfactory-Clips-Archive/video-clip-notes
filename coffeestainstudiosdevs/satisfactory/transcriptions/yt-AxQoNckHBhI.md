@@ -1,5 +1,5 @@
 ---
-title: "Q&A: The Trains lag a lot on Multiplayer?"
+title: "October 20th, 2020 Livestream Q&A: The Trains lag a lot on Multiplayer?"
 date: "2020-10-20"
 layout: transcript
 topics:

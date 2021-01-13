@@ -1,5 +1,5 @@
 ---
-title: "Q&A: DMCA Strikes if we use your Music?"
+title: "November 17th, 2020 Livestream Q&A: DMCA Strikes if we use your Music?"
 date: "2020-11-17"
 layout: transcript
 topics:

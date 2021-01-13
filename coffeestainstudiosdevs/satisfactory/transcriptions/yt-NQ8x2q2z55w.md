@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Does the kitchen come into the HUB, I want to cook a Lizard Doggo"
+title: "November 3rd, 2020 Livestream Q&A: Does the kitchen come into the HUB, I want to cook a Lizard Doggo"
 date: "2020-11-03"
 layout: transcript
 topics:

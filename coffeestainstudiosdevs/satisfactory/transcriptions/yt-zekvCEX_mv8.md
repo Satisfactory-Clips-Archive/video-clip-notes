@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can I play on Epic with someone on Steam?"
+title: "November 3rd, 2020 Livestream Q&A: Can I play on Epic with someone on Steam?"
 date: "2020-11-03"
 layout: transcript
 topics:

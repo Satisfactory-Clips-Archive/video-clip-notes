@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What quality-of-life Updates can we hope for the next Update?"
+title: "October 13th, 2020 Livestream Q&A: What quality-of-life Updates can we hope for the next Update?"
 date: "2020-10-13"
 layout: transcript
 topics:

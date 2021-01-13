@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Boats will come?"
+title: "September 22nd, 2020 Livestream Q&A: Boats will come?"
 date: "2020-09-22"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans for an elevator or lift?"
+title: "September 29th, 2020 Livestream Q&A: Any plans for an elevator or lift?"
 date: "2020-09-29"
 layout: transcript
 topics:

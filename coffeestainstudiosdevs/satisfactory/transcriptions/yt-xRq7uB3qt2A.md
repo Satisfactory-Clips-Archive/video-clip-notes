@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: State of Dev summary (again)"
+title: "September 29th, 2020 Livestream Snutt Talk: State of Dev summary (again)"
 date: "2020-09-29"
 layout: transcript
 topics:

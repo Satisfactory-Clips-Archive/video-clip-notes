@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How about that device used to measure stuff on Conveyor Belts?"
+title: "October 20th, 2020 Livestream Q&A: How about that device used to measure stuff on Conveyor Belts?"
 date: "2020-10-20"
 layout: transcript
 topics:

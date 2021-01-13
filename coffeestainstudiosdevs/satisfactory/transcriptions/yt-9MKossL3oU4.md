@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the Scanner be fixed so it doesn't show already-picked items?"
+title: "October 6th, 2020 Livestream Q&A: Will the Scanner be fixed so it doesn't show already-picked items?"
 date: "2020-10-06"
 layout: transcript
 topics:

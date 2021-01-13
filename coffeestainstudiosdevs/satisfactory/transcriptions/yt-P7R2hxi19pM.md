@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get a Console Release for the KFConsole?"
+title: "January 12th, 2021 Livestream Q&A: Can we get a Console Release for the KFConsole?"
 date: "2021-01-12"
 layout: transcript
 topics:

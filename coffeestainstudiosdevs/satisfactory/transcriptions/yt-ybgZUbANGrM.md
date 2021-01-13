@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Weirdest bug you guys fixed"
+title: "March 9th, 2019 Livestream Q&A: Weirdest bug you guys fixed"
 date: "2019-03-09"
 layout: transcript
 topics:

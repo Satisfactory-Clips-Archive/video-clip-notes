@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be Priority Mergers for this Update?"
+title: "October 20th, 2020 Livestream Q&A: Will there be Priority Mergers for this Update?"
 date: "2020-10-20"
 layout: transcript
 topics:

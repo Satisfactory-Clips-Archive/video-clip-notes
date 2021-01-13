@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Map is amazing, but infinite generation?"
+title: "November 3rd, 2020 Livestream Q&A: Map is amazing, but infinite generation?"
 date: "2020-11-03"
 layout: transcript
 topics:

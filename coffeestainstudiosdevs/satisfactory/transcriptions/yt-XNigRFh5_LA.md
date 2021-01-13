@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be any changes to clear how the efficiency works?"
+title: "December 15th, 2020 Livestream Q&A: Will there be any changes to clear how the efficiency works?"
 date: "2020-12-15"
 layout: transcript
 topics:

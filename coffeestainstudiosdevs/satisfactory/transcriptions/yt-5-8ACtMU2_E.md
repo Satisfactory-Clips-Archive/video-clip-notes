@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be any Base Defense?"
+title: "December 8th, 2020 Livestream Q&A: Will there be any Base Defense?"
 date: "2020-12-08"
 layout: transcript
 topics:

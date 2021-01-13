@@ -1,5 +1,5 @@
 ---
-title: "Q&A: If the game's not dead, where's the new content?"
+title: "September 1st, 2020 Livestream Q&A: If the game's not dead, where's the new content?"
 date: "2020-09-01"
 layout: transcript
 topics:

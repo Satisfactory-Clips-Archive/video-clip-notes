@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Better UI scaling?"
+title: "November 24th, 2020 Livestream Q&A: Better UI scaling?"
 date: "2020-11-24"
 layout: transcript
 topics:

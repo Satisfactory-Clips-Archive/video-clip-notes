@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Click & Drag functionality for building?"
+title: "November 24th, 2020 Livestream Q&A: Click & Drag functionality for building?"
 date: "2020-11-24"
 layout: transcript
 topics:

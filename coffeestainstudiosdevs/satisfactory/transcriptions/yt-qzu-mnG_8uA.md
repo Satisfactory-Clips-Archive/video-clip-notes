@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Would Official Mod Support use Steam Workshop?"
+title: "November 17th, 2020 Livestream Q&A: Would Official Mod Support use Steam Workshop?"
 date: "2020-11-17"
 layout: transcript
 topics:

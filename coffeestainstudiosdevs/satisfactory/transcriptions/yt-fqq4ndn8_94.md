@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can old save games still be used in the upcoming patch?"
+title: "October 13th, 2020 Livestream Q&A: Can old save games still be used in the upcoming patch?"
 date: "2020-10-13"
 layout: transcript
 topics:

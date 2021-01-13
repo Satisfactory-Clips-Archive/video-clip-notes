@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Jace - F, Marry, Kill: either Snutt, [special guest], or anyone from chat?"
+title: "November 24th, 2020 Livestream Q&A: Jace - F, Marry, Kill: either Snutt, [special guest], or anyone from chat?"
 date: "2020-11-24"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there any possibility to autodetect materials on the belts to preselect recipes per input?"
+title: "September 22nd, 2020 Livestream Q&A: Is there any possibility to autodetect materials on the belts to preselect recipes per input?"
 date: "2020-09-22"
 layout: transcript
 topics:

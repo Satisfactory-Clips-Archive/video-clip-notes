@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Should enable Slow Mode for Q&A?"
+title: "November 3rd, 2020 Livestream Q&A: Should enable Slow Mode for Q&A?"
 date: "2020-11-03"
 layout: transcript
 topics:

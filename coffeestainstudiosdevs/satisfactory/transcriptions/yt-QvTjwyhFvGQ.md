@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there any plans to add Lights inside the factory?"
+title: "January 12th, 2021 Livestream Q&A: Are there any plans to add Lights inside the factory?"
 date: "2021-01-12"
 layout: transcript
 topics:

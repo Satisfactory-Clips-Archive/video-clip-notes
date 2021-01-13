@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any air & sea Vehicles in Update 4?"
+title: "November 24th, 2020 Livestream Q&A: Any air & sea Vehicles in Update 4?"
 date: "2020-11-24"
 layout: transcript
 topics:

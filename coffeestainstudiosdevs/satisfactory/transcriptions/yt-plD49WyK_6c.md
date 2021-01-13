@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Does Coffee Stain have a fun code-name for the game, or is it just Satisfactory internally?"
+title: "September 22nd, 2020 Livestream Q&A: Does Coffee Stain have a fun code-name for the game, or is it just Satisfactory internally?"
 date: "2020-09-22"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get Circular Foundations?"
+title: "November 3rd, 2020 Livestream Q&A: Can we get Circular Foundations?"
 date: "2020-11-03"
 layout: transcript
 topics:

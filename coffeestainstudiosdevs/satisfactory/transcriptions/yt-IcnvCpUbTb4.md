@@ -1,5 +1,5 @@
 ---
-title: "Trolling: Hunger & Thirst"
+title: "November 17th, 2020 Livestream Trolling: Hunger & Thirst"
 date: "2020-11-17"
 layout: transcript
 topics:

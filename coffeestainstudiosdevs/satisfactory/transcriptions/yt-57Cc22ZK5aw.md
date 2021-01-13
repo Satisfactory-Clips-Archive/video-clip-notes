@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there hidden secrets and cameos in the game?"
+title: "December 15th, 2020 Livestream Q&A: Are there hidden secrets and cameos in the game?"
 date: "2020-12-15"
 layout: transcript
 topics:

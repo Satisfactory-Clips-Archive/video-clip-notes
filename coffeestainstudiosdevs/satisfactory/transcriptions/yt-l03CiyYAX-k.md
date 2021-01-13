@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do the Wall Power Connectors tell how many connections are connected to them?"
+title: "November 3rd, 2020 Livestream Q&A: Do the Wall Power Connectors tell how many connections are connected to them?"
 date: "2020-11-03"
 layout: transcript
 topics:

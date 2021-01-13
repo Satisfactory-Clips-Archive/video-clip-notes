@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Satisfactory Sandbox ever?"
+title: "September 29th, 2020 Livestream Q&A: Satisfactory Sandbox ever?"
 date: "2020-09-29"
 layout: transcript
 topics:

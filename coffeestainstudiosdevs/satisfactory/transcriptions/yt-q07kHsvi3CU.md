@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can chainsaw kill the Fart Flower?"
+title: "March 9th, 2019 Livestream Q&A: Can chainsaw kill the Fart Flower?"
 date: "2019-03-09"
 layout: transcript
 topics:

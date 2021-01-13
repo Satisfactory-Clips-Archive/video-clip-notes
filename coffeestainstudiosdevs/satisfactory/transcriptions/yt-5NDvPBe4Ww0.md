@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Horizontal Ladders, please?"
+title: "November 10th, 2020 Livestream Q&A: Horizontal Ladders, please?"
 date: "2020-11-10"
 layout: transcript
 topics:

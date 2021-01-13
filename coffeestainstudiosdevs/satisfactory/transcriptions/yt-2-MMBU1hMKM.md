@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Doesn't Jace already have a video/youtube on Dev Timelime stuff?"
+title: "November 10th, 2020 Livestream Q&A: Doesn't Jace already have a video/youtube on Dev Timelime stuff?"
 date: "2020-11-10"
 layout: transcript
 topics:

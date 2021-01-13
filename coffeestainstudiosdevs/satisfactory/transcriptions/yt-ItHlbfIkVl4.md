@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: WIP (Work In Progress) Items"
+title: "September 29th, 2020 Livestream Snutt Talk: WIP (Work In Progress) Items"
 date: "2020-09-29"
 layout: transcript
 topics:

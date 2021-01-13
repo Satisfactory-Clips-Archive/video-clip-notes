@@ -1,5 +1,5 @@
 ---
-title: "Q&A: New skins?"
+title: "January 12th, 2021 Livestream Q&A: New skins?"
 date: "2021-01-12"
 layout: transcript
 topics:

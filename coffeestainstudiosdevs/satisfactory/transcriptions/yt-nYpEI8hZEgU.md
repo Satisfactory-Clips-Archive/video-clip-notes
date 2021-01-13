@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Emmissive Materials"
+title: "December 8th, 2020 Livestream Snutt Talk: Emmissive Materials"
 date: "2020-12-08"
 layout: transcript
 topics:

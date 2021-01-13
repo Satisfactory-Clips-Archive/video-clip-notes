@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why have two beds and loo but can't use?"
+title: "November 10th, 2020 Livestream Q&A: Why have two beds and loo but can't use?"
 date: "2020-11-10"
 layout: transcript
 topics:

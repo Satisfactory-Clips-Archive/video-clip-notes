@@ -1,5 +1,5 @@
 ---
-title: "Jace & Snutt Talk: Dedicated Servers"
+title: "October 6th, 2020 Livestream Jace & Snutt Talk: Dedicated Servers"
 date: "2020-10-06"
 layout: transcript
 topics:

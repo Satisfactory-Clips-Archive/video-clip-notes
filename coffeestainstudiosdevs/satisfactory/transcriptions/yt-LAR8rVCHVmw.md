@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there plans for Character Customisation?"
+title: "October 20th, 2020 Livestream Q&A: Are there plans for Character Customisation?"
 date: "2020-10-20"
 layout: transcript
 topics:

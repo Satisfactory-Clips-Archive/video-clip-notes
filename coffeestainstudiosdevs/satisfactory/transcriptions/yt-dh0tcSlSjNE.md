@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What was the Mystery Machine?"
+title: "October 27th, 2020 Livestream Q&A: What was the Mystery Machine?"
 date: "2020-10-27"
 layout: transcript
 topics:

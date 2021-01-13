@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Five years? What is this- an Early Access Logistics game?"
+title: "October 20th, 2020 Livestream Q&A: Five years? What is this- an Early Access Logistics game?"
 date: "2020-10-20"
 layout: transcript
 topics:

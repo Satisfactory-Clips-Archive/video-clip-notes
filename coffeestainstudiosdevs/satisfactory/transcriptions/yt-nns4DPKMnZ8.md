@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we see your notes?"
+title: "October 13th, 2020 Livestream Q&A: Can we see your notes?"
 date: "2020-10-13"
 layout: transcript
 topics:

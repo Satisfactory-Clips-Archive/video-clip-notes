@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Change for Electricity when? (substations)"
+title: "November 10th, 2020 Livestream Q&A: Change for Electricity when? (substations)"
 date: "2020-11-10"
 layout: transcript
 topics:

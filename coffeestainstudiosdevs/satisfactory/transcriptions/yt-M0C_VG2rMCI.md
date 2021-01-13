@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What's your thoughts on hanging Conveyor Mounts?"
+title: "November 3rd, 2020 Livestream Q&A: What's your thoughts on hanging Conveyor Mounts?"
 date: "2020-11-03"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Story Mode have Co-op?"
+title: "November 24th, 2020 Livestream Q&A: Will Story Mode have Co-op?"
 date: "2020-11-24"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When are these Work In Progress (WIP) items going to be used?"
+title: "October 6th, 2020 Livestream Q&A: When are these Work In Progress (WIP) items going to be used?"
 date: "2020-10-06"
 layout: transcript
 topics:

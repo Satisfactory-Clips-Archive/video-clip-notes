@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Please reintroduce the Mining mini-game?"
+title: "December 8th, 2020 Livestream Q&A: Please reintroduce the Mining mini-game?"
 date: "2020-12-08"
 layout: transcript
 topics:

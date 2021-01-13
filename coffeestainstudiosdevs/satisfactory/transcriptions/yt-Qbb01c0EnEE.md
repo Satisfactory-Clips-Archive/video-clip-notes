@@ -1,5 +1,5 @@
 ---
-title: "Jace & Snutt Talk: Save-breaking Updates"
+title: "October 20th, 2020 Livestream Jace & Snutt Talk: Save-breaking Updates"
 date: "2020-10-20"
 layout: transcript
 topics:

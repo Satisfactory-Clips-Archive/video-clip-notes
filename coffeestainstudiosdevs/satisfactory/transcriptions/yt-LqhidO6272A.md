@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Platform-building in space?"
+title: "November 24th, 2020 Livestream Q&A: Platform-building in space?"
 date: "2020-11-24"
 layout: transcript
 topics:

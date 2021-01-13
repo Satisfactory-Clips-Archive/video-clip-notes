@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will we be able to deal with Gas towers you can't kill right now?"
+title: "December 15th, 2020 Livestream Q&A: Will we be able to deal with Gas towers you can't kill right now?"
 date: "2020-12-15"
 layout: transcript
 topics:

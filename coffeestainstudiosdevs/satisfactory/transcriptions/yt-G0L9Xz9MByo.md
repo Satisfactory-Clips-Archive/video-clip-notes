@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Customisable Build Menu?"
+title: "September 1st, 2020 Livestream Q&A: Customisable Build Menu?"
 date: "2020-09-01"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How come so many Dutch developers?"
+title: "November 10th, 2020 Livestream Q&A: How come so many Dutch developers?"
 date: "2020-11-10"
 layout: transcript
 topics:

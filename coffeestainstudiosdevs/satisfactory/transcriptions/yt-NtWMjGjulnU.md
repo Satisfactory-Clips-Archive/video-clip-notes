@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: Filler Content"
+title: "January 12th, 2021 Livestream Snutt & Jace Talk: Filler Content"
 date: "2021-01-12"
 layout: transcript
 topics:

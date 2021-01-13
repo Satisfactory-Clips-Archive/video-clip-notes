@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Parallelisation"
+title: "October 6th, 2020 Livestream Snutt Talk: Parallelisation"
 date: "2020-10-06"
 layout: transcript
 topics:

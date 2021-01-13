@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Quality of Life regards the Map like floating water falls, rocks, holes in the map?"
+title: "November 17th, 2020 Livestream Q&A: Quality of Life regards the Map like floating water falls, rocks, holes in the map?"
 date: "2020-11-17"
 layout: transcript
 topics:

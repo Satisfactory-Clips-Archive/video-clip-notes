@@ -1,5 +1,5 @@
 ---
-title: "Trolling: Adding Cigarettes to the game"
+title: "November 17th, 2020 Livestream Trolling: Adding Cigarettes to the game"
 date: "2020-11-17"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What are the technical reasons (behind 600upm limit on pipes)?"
+title: "October 27th, 2020 Livestream Q&A: What are the technical reasons (behind 600upm limit on pipes)?"
 date: "2020-10-27"
 layout: transcript
 topics:

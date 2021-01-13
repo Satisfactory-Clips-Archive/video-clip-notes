@@ -1,5 +1,5 @@
 ---
-title: "Q&A: We need more foundation types- triangle foundations, smaller foundations?"
+title: "December 15th, 2020 Livestream Q&A: We need more foundation types- triangle foundations, smaller foundations?"
 date: "2020-12-15"
 layout: transcript
 topics:

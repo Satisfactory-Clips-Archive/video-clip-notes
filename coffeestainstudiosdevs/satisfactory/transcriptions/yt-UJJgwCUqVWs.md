@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can you change the angle of the new jump pad after you build it?"
+title: "October 20th, 2020 Livestream Q&A: Can you change the angle of the new jump pad after you build it?"
 date: "2020-10-20"
 layout: transcript
 topics:

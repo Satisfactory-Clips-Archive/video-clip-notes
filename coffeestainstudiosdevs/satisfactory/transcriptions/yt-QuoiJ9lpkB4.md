@@ -1,5 +1,5 @@
 ---
-title: "Q&A: DXR/RTX/DLSS ?"
+title: "September 1st, 2020 Livestream Q&A: DXR/RTX/DLSS ?"
 date: "2020-09-01"
 layout: transcript
 topics:

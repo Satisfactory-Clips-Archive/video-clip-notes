@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any news about Trains? If so put them in Update 4?"
+title: "November 10th, 2020 Livestream Q&A: Any news about Trains? If so put them in Update 4?"
 date: "2020-11-10"
 layout: transcript
 topics:

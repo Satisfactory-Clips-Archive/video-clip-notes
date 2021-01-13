@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any word on farming Pale Berries / Nuts / Bacon?"
+title: "October 20th, 2020 Livestream Q&A: Any word on farming Pale Berries / Nuts / Bacon?"
 date: "2020-10-20"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What do you think about adding some kind of Tanker Truck?"
+title: "October 6th, 2020 Livestream Q&A: What do you think about adding some kind of Tanker Truck?"
 date: "2020-10-06"
 layout: transcript
 topics:

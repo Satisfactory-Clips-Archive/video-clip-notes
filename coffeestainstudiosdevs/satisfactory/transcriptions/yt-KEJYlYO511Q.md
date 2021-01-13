@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is Console confirmed for Satisfactory?"
+title: "November 24th, 2020 Livestream Q&A: Is Console confirmed for Satisfactory?"
 date: "2020-11-24"
 layout: transcript
 topics:

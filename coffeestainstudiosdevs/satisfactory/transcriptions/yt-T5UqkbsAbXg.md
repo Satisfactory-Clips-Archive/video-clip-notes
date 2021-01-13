@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Thoughts on using a Priority Merger similar to Smart Splitter using overflow?"
+title: "September 1st, 2020 Livestream Q&A: Thoughts on using a Priority Merger similar to Smart Splitter using overflow?"
 date: "2020-09-01"
 layout: transcript
 topics:

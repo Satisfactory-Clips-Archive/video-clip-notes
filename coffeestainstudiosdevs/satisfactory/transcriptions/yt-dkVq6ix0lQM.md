@@ -1,5 +1,5 @@
 ---
-title: "Q&A: As Update 4 gets closer will you be releasing more info on how to prepare for the changes?"
+title: "December 8th, 2020 Livestream Q&A: As Update 4 gets closer will you be releasing more info on how to prepare for the changes?"
 date: "2020-12-08"
 layout: transcript
 topics:

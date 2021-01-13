@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any idea about Official Modding?"
+title: "November 3rd, 2020 Livestream Q&A: Any idea about Official Modding?"
 date: "2020-11-03"
 layout: transcript
 topics:

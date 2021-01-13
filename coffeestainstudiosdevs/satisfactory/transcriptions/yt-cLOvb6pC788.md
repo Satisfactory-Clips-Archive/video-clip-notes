@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When will the Merch be sold in the EU?"
+title: "October 13th, 2020 Livestream Q&A: When will the Merch be sold in the EU?"
 date: "2020-10-13"
 layout: transcript
 topics:

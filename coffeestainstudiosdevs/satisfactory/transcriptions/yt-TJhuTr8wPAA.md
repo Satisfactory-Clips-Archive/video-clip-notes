@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Cookie Factory Mod"
+title: "December 8th, 2020 Livestream Snutt Talk: Cookie Factory Mod"
 date: "2020-12-08"
 layout: transcript
 topics:

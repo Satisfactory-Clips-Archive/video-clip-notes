@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Please take a look at the Doggo farm"
+title: "September 1st, 2020 Livestream Q&A: Please take a look at the Doggo farm"
 date: "2020-09-01"
 layout: transcript
 topics:

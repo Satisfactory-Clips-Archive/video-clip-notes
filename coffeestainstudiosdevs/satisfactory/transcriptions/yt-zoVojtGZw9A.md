@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When will the Toilet be operative?"
+title: "September 8th, 2020 Livestream Q&A: When will the Toilet be operative?"
 date: "2020-09-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What's the storyline on Satisfactory? Is it after Deep Rock Galactic?"
+title: "September 15th, 2020 Livestream Q&A: What's the storyline on Satisfactory? Is it after Deep Rock Galactic?"
 date: "2020-09-15"
 layout: transcript
 topics:

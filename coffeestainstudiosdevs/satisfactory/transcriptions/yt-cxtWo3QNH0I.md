@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Mk.0 Iron Trains that you can power with cOAL"
+title: "November 17th, 2020 Livestream Q&A: Mk.0 Iron Trains that you can power with cOAL"
 date: "2020-11-17"
 layout: transcript
 topics:

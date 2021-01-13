@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is the Q&A Site linked in-game?"
+title: "November 10th, 2020 Livestream Q&A: Is the Q&A Site linked in-game?"
 date: "2020-11-10"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans to add a Levitate option with Jetpacks?"
+title: "September 22nd, 2020 Livestream Q&A: Any plans to add a Levitate option with Jetpacks?"
 date: "2020-09-22"
 layout: transcript
 topics:

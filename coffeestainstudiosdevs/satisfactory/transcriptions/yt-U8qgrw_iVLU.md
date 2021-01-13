@@ -1,5 +1,5 @@
 ---
-title: "Jace & Simon take on a Hog that rode Snutt"
+title: "March 9th, 2019 Livestream Jace & Simon take on a Hog that rode Snutt"
 date: "2019-03-09"
 layout: transcript
 topics:

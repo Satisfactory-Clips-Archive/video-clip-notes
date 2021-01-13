@@ -1,5 +1,5 @@
 ---
-title: "Q&A: I think the price for mk. 3 & 4 belts are great, but mk. 2 I skip almost every time."
+title: "October 13th, 2020 Livestream Q&A: I think the price for mk. 3 & 4 belts are great, but mk. 2 I skip almost every time."
 date: "2020-10-13"
 layout: transcript
 topics:

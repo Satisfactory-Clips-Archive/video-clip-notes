@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Keeping it portable to other OSes?"
+title: "October 6th, 2020 Livestream Q&A: Keeping it portable to other OSes?"
 date: "2020-10-06"
 layout: transcript
 topics:

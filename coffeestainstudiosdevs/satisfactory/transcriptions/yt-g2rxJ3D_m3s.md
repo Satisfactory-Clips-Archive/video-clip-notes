@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Need a Netflix GameDev documentary that shows ins&outs so people don't ask all those questions"
+title: "November 10th, 2020 Livestream Q&A: Need a Netflix GameDev documentary that shows ins&outs so people don't ask all those questions"
 date: "2020-11-10"
 layout: transcript
 topics:

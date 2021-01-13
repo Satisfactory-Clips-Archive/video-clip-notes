@@ -1,5 +1,5 @@
 ---
-title: "Q&A: This secretism is not good"
+title: "September 8th, 2020 Livestream Q&A: This secretism is not good"
 date: "2020-09-08"
 layout: transcript
 topics:

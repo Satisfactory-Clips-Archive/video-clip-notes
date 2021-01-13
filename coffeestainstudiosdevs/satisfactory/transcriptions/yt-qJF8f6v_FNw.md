@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why does the Chainsaw only run on Solid Biofuel?"
+title: "October 6th, 2020 Livestream Q&A: Why does the Chainsaw only run on Solid Biofuel?"
 date: "2020-10-06"
 layout: transcript
 topics:

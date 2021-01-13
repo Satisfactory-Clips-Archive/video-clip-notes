@@ -1,5 +1,5 @@
 ---
-title: "Q&A: You need to add some Christmas and Halloween stuff"
+title: "November 10th, 2020 Livestream Q&A: You need to add some Christmas and Halloween stuff"
 date: "2020-11-10"
 layout: transcript
 topics:

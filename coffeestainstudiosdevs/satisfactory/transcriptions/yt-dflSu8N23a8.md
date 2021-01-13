@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will it package Sulfuric Acid or Aluminum Solution?"
+title: "October 13th, 2020 Livestream Q&A: Will it package Sulfuric Acid or Aluminum Solution?"
 date: "2020-10-13"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When are we going to delete the game?"
+title: "November 24th, 2020 Livestream Q&A: When are we going to delete the game?"
 date: "2020-11-24"
 layout: transcript
 topics:

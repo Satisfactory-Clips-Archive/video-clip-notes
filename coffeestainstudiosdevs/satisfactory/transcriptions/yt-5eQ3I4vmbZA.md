@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be a way to auto-feed Biomass into the generators?"
+title: "October 20th, 2020 Livestream Q&A: Will there be a way to auto-feed Biomass into the generators?"
 date: "2020-10-20"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any hints you can give on the level of mod support you'll provide eventually?"
+title: "December 8th, 2020 Livestream Q&A: Any hints you can give on the level of mod support you'll provide eventually?"
 date: "2020-12-08"
 layout: transcript
 topics:

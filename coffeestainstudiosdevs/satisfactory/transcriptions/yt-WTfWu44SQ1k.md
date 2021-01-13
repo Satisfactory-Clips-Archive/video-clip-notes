@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When are Geothermal Generators going to get it's Info Panel?"
+title: "November 17th, 2020 Livestream Q&A: When are Geothermal Generators going to get it's Info Panel?"
 date: "2020-11-17"
 layout: transcript
 topics:

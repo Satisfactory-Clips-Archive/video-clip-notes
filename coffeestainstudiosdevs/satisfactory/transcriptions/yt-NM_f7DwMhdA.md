@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What requires more computing power, Belts or Pipes?"
+title: "November 24th, 2020 Livestream Q&A: What requires more computing power, Belts or Pipes?"
 date: "2020-11-24"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Danish (counting) is stupid"
+title: "November 17th, 2020 Livestream Snutt Talk: Danish (counting) is stupid"
 date: "2020-11-17"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there server files when I want to host my own Dedicated Server?"
+title: "September 22nd, 2020 Livestream Q&A: Are there server files when I want to host my own Dedicated Server?"
 date: "2020-09-22"
 layout: transcript
 topics:

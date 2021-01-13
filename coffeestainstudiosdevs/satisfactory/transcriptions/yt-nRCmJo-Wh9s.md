@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How did you guys optimise the game so much?"
+title: "March 9th, 2019 Livestream Q&A: How did you guys optimise the game so much?"
 date: "2019-03-09"
 layout: transcript
 topics:

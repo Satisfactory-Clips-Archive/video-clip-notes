@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Jace is a dedicated boi"
+title: "December 15th, 2020 Livestream Snutt Talk: Jace is a dedicated boi"
 date: "2020-12-15"
 layout: transcript
 topics:

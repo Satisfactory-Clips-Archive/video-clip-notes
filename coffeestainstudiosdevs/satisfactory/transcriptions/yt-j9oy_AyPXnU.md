@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Ultrawide Monitors?"
+title: "September 22nd, 2020 Livestream Q&A: Ultrawide Monitors?"
 date: "2020-09-22"
 layout: transcript
 topics:

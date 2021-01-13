@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is Jace using an old soup can for a mic?"
+title: "March 9th, 2019 Livestream Q&A: Is Jace using an old soup can for a mic?"
 date: "2019-03-09"
 layout: transcript
 topics:

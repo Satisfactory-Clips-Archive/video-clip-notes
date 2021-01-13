@@ -1,5 +1,5 @@
 ---
-title: "Q&A: In the future will there be better movement?"
+title: "October 20th, 2020 Livestream Q&A: In the future will there be better movement?"
 date: "2020-10-20"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How code-heavy is the game and how do you keep it organised?"
+title: "November 3rd, 2020 Livestream Q&A: How code-heavy is the game and how do you keep it organised?"
 date: "2020-11-03"
 layout: transcript
 topics:

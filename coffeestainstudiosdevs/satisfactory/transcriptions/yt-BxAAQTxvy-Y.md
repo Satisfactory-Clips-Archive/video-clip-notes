@@ -1,5 +1,5 @@
 ---
-title: "Q&A: DirectX 12 when?"
+title: "December 8th, 2020 Livestream Q&A: DirectX 12 when?"
 date: "2020-12-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get Signs in the game?"
+title: "September 29th, 2020 Livestream Q&A: Can we get Signs in the game?"
 date: "2020-09-29"
 layout: transcript
 topics:

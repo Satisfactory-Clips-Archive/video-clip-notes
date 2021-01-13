@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What is the hardest part of making games?"
+title: "December 8th, 2020 Livestream Q&A: What is the hardest part of making games?"
 date: "2020-12-08"
 layout: transcript
 topics:

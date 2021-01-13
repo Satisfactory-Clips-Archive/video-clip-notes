@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are the teasers for Update 4?"
+title: "October 20th, 2020 Livestream Q&A: Are the teasers for Update 4?"
 date: "2020-10-20"
 layout: transcript
 topics:

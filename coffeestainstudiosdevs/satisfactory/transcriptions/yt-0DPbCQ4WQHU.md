@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Paintable Vehicles when?"
+title: "November 17th, 2020 Livestream Q&A: Paintable Vehicles when?"
 date: "2020-11-17"
 layout: transcript
 topics:

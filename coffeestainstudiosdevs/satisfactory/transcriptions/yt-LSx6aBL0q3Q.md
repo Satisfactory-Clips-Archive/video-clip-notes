@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you ever get the feeling the game will be put aside and never leave Early Access?"
+title: "November 10th, 2020 Livestream Q&A: Do you ever get the feeling the game will be put aside and never leave Early Access?"
 date: "2020-11-10"
 layout: transcript
 topics:

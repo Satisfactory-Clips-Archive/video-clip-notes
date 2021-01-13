@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What are some of the things you guys want to see in Satisfactory?"
+title: "November 17th, 2020 Livestream Q&A: What are some of the things you guys want to see in Satisfactory?"
 date: "2020-11-17"
 layout: transcript
 topics:

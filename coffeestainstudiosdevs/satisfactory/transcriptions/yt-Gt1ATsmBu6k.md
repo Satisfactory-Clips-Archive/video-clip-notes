@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can I wear Boots, Jetpack and a Gas Mask?"
+title: "September 15th, 2020 Livestream Q&A: Can I wear Boots, Jetpack and a Gas Mask?"
 date: "2020-09-15"
 layout: transcript
 topics:

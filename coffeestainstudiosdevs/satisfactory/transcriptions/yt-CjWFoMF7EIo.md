@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can you add ability to deselect with ctrl?"
+title: "September 8th, 2020 Livestream Q&A: Can you add ability to deselect with ctrl?"
 date: "2020-09-08"
 layout: transcript
 topics:

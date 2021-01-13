@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Where is Lizard Doggo?"
+title: "March 9th, 2019 Livestream Q&A: Where is Lizard Doggo?"
 date: "2019-03-09"
 layout: transcript
 topics:

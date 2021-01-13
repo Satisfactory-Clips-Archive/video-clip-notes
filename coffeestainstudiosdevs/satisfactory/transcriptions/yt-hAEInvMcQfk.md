@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any information on Merch shipping to EU/rest of the world?"
+title: "September 22nd, 2020 Livestream Q&A: Any information on Merch shipping to EU/rest of the world?"
 date: "2020-09-22"
 layout: transcript
 topics:

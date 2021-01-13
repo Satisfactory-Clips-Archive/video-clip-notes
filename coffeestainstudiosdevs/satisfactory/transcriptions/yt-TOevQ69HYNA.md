@@ -1,5 +1,5 @@
 ---
-title: "Jace Talk: FICS⁕MAS leaks are not \"leaks\""
+title: "December 8th, 2020 Livestream Jace Talk: FICS⁕MAS leaks are not \"leaks\""
 date: "2020-12-08"
 layout: transcript
 topics:

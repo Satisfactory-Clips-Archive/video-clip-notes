@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Update 4 Tier 7 changes & Early Access"
+title: "December 8th, 2020 Livestream Snutt Talk: Update 4 Tier 7 changes & Early Access"
 date: "2020-12-08"
 layout: transcript
 topics:

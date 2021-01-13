@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Train Multiplayer Bugs"
+title: "September 1st, 2020 Livestream Q&A: Train Multiplayer Bugs"
 date: "2020-09-01"
 layout: transcript
 topics:

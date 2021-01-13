@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is the OST on Spotify?"
+title: "September 22nd, 2020 Livestream Q&A: Is the OST on Spotify?"
 date: "2020-09-22"
 layout: transcript
 topics:

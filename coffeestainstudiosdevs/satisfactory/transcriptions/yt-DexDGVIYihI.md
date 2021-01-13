@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Idea - Smart & Programmable Storage Containers?"
+title: "September 8th, 2020 Livestream Q&A: Idea - Smart & Programmable Storage Containers?"
 date: "2020-09-08"
 layout: transcript
 topics:

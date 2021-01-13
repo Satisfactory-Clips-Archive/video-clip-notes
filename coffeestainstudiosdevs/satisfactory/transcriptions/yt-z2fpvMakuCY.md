@@ -1,5 +1,5 @@
 ---
-title: "Jace Talk: Legacy of Goat Simulator & launching Satisfactory"
+title: "March 9th, 2019 Livestream Jace Talk: Legacy of Goat Simulator & launching Satisfactory"
 date: "2019-03-09"
 layout: transcript
 topics:

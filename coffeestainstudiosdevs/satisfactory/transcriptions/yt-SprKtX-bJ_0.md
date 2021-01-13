@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Jace consider doing a PS5Controller% run on the Satisfactory Livestream?"
+title: "November 24th, 2020 Livestream Q&A: Will Jace consider doing a PS5Controller% run on the Satisfactory Livestream?"
 date: "2020-11-24"
 layout: transcript
 topics:

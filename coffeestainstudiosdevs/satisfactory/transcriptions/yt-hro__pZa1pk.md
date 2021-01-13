@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When are you adding hunger & thirst?"
+title: "November 17th, 2020 Livestream Q&A: When are you adding hunger & thirst?"
 date: "2020-11-17"
 layout: transcript
 topics:

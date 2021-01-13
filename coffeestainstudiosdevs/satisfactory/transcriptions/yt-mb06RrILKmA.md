@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Love the Music, but are there plans for more?"
+title: "October 20th, 2020 Livestream Q&A: Love the Music, but are there plans for more?"
 date: "2020-10-20"
 layout: transcript
 topics:

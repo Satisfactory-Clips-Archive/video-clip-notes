@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Flushable Toilet DLC?"
+title: "September 1st, 2020 Livestream Q&A: Flushable Toilet DLC?"
 date: "2020-09-01"
 layout: transcript
 topics:

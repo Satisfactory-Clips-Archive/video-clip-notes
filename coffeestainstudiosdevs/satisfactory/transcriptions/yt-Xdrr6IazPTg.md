@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Maybe it's a good idea to dynamically hand over authority a vehicle in multiplayer?"
+title: "September 1st, 2020 Livestream Q&A: Maybe it's a good idea to dynamically hand over authority a vehicle in multiplayer?"
 date: "2020-09-01"
 layout: transcript
 topics:

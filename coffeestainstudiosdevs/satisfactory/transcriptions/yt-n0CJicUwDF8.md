@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will you be able to switch the mousewheel rotation with the hotbar?"
+title: "September 1st, 2020 Livestream Q&A: Will you be able to switch the mousewheel rotation with the hotbar?"
 date: "2020-09-01"
 layout: transcript
 topics:

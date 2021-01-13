@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Would you guys be up for doing a stream reacting to other FanForge content?"
+title: "November 24th, 2020 Livestream Q&A: Would you guys be up for doing a stream reacting to other FanForge content?"
 date: "2020-11-24"
 layout: transcript
 topics:

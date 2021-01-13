@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can you put in Lights, please?"
+title: "November 3rd, 2020 Livestream Q&A: Can you put in Lights, please?"
 date: "2020-11-03"
 layout: transcript
 topics:

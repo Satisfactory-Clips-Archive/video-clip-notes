@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there going to be more equipment coming, like Rifle Mk. 2?"
+title: "October 20th, 2020 Livestream Q&A: Is there going to be more equipment coming, like Rifle Mk. 2?"
 date: "2020-10-20"
 layout: transcript
 topics:

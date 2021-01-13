@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How do you determine how much a part of the game is influencing Multiplayer?"
+title: "November 17th, 2020 Livestream Q&A: How do you determine how much a part of the game is influencing Multiplayer?"
 date: "2020-11-17"
 layout: transcript
 topics:

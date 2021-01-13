@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is Tier 8 last Tier for the game?"
+title: "December 8th, 2020 Livestream Q&A: Is Tier 8 last Tier for the game?"
 date: "2020-12-08"
 layout: transcript
 topics:

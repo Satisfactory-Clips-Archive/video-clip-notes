@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the game expand into space or will it stay on the ground?"
+title: "March 9th, 2019 Livestream Q&A: Will the game expand into space or will it stay on the ground?"
 date: "2019-03-09"
 layout: transcript
 topics:

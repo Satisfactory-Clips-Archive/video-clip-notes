@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will I be able to play it on my Samsung fridge?"
+title: "March 9th, 2019 Livestream Q&A: Will I be able to play it on my Samsung fridge?"
 date: "2019-03-09"
 layout: transcript
 topics:

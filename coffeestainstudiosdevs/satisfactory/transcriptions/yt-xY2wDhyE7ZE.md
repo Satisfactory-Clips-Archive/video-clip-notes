@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Turbofuel in Jetpacks"
+title: "January 12th, 2021 Livestream Snutt Talk: Turbofuel in Jetpacks"
 date: "2021-01-12"
 layout: transcript
 topics:

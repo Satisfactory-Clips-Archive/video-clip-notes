@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is it called \"Packager\" or \"Fluid Packager\" ?"
+title: "October 13th, 2020 Livestream Q&A: Is it called \"Packager\" or \"Fluid Packager\" ?"
 date: "2020-10-13"
 layout: transcript
 topics:

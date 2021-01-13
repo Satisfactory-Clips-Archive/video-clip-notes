@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Hyper Tube Cannon future ?"
+title: "September 8th, 2020 Livestream Q&A: Hyper Tube Cannon future ?"
 date: "2020-09-08"
 layout: transcript
 topics:

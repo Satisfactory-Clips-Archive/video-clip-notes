@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Does destroying trees & rocks make the game slower like making buildings?"
+title: "September 22nd, 2020 Livestream Q&A: Does destroying trees & rocks make the game slower like making buildings?"
 date: "2020-09-22"
 layout: transcript
 topics:

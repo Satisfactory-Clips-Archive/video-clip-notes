@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any more tiers in 3.5?"
+title: "September 8th, 2020 Livestream Q&A: Any more tiers in 3.5?"
 date: "2020-09-08"
 layout: transcript
 topics:

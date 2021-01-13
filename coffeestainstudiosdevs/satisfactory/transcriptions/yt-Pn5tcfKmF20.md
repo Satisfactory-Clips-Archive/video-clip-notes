@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there an actual win condition or is it just 'til end of content?"
+title: "March 9th, 2019 Livestream Q&A: Is there an actual win condition or is it just 'til end of content?"
 date: "2019-03-09"
 layout: transcript
 topics:

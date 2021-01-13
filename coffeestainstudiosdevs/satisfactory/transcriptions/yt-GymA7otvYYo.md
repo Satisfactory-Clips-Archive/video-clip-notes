@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you going to be able to change characters?"
+title: "September 8th, 2020 Livestream Q&A: Are you going to be able to change characters?"
 date: "2020-09-08"
 layout: transcript
 topics:

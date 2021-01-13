@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How many people signed up after E3?"
+title: "March 9th, 2019 Livestream Q&A: How many people signed up after E3?"
 date: "2019-03-09"
 layout: transcript
 topics:

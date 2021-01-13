@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the game ever be more stable?"
+title: "November 3rd, 2020 Livestream Q&A: Will the game ever be more stable?"
 date: "2020-11-03"
 layout: transcript
 topics:

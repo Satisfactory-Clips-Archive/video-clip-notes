@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Patch Notes"
+title: "October 27th, 2020 Livestream Q&A: Patch Notes"
 date: "2020-10-27"
 layout: transcript
 topics:

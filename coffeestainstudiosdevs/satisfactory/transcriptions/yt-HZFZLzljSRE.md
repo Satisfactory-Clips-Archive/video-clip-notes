@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Community Translation do we get paid or is it free unlike buying the game?"
+title: "November 24th, 2020 Livestream Q&A: Community Translation do we get paid or is it free unlike buying the game?"
 date: "2020-11-24"
 layout: transcript
 topics:

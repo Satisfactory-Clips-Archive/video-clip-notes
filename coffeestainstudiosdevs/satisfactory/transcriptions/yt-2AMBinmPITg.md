@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will one of the Quality of Life Updates be turning down the fog?"
+title: "October 13th, 2020 Livestream Q&A: Will one of the Quality of Life Updates be turning down the fog?"
 date: "2020-10-13"
 layout: transcript
 topics:

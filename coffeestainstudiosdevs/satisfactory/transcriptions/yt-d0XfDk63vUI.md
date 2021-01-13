@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How does the Industrial Storage decide what comes out the bottom & what comes out the top?"
+title: "October 13th, 2020 Livestream Q&A: How does the Industrial Storage decide what comes out the bottom & what comes out the top?"
 date: "2020-10-13"
 layout: transcript
 topics:

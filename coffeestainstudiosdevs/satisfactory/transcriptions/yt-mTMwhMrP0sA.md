@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Protective Walls against Radiation?"
+title: "September 15th, 2020 Livestream Q&A: Protective Walls against Radiation?"
 date: "2020-09-15"
 layout: transcript
 topics:

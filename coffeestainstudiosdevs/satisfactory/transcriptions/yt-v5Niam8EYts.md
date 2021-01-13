@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Dedicated Servers run under Linux?"
+title: "November 3rd, 2020 Livestream Q&A: Will Dedicated Servers run under Linux?"
 date: "2020-11-03"
 layout: transcript
 topics:

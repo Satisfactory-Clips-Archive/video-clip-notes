@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Updates before 1.0"
+title: "October 6th, 2020 Livestream Snutt Talk: Updates before 1.0"
 date: "2020-10-06"
 layout: transcript
 topics:

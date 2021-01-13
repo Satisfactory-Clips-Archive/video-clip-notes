@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Enclosed Belts"
+title: "September 29th, 2020 Livestream Q&A: Enclosed Belts"
 date: "2020-09-29"
 layout: transcript
 topics:

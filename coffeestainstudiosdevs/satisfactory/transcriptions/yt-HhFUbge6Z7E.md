@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How many lines of code is Satisfactory?"
+title: "December 8th, 2020 Livestream Q&A: How many lines of code is Satisfactory?"
 date: "2020-12-08"
 layout: transcript
 topics:

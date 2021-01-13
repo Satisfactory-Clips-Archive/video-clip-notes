@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When do the Work In Progress items get a purpose?"
+title: "September 15th, 2020 Livestream Q&A: When do the Work In Progress items get a purpose?"
 date: "2020-09-15"
 layout: transcript
 topics:

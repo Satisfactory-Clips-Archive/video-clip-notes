@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Ceiling Power Mounts?"
+title: "October 20th, 2020 Livestream Q&A: Ceiling Power Mounts?"
 date: "2020-10-20"
 layout: transcript
 topics:

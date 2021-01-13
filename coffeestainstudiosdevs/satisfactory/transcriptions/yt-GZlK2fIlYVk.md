@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Another game mode with a procedurally generated world?"
+title: "March 9th, 2019 Livestream Q&A: Another game mode with a procedurally generated world?"
 date: "2019-03-09"
 layout: transcript
 topics:

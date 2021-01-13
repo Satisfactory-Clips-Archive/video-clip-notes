@@ -1,5 +1,5 @@
 ---
-title: "Q&A: All the interest in the game is spoiled by the ability to build an infinitely long platform"
+title: "September 29th, 2020 Livestream Q&A: All the interest in the game is spoiled by the ability to build an infinitely long platform"
 date: "2020-09-29"
 layout: transcript
 topics:

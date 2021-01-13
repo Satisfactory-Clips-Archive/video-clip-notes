@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?"
+title: "October 6th, 2020 Livestream Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?"
 date: "2020-10-06"
 layout: transcript
 topics:

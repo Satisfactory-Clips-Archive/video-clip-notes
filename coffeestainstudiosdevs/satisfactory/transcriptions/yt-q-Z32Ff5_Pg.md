@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Nuclear removal when?"
+title: "November 10th, 2020 Livestream Q&A: Nuclear removal when?"
 date: "2020-11-10"
 layout: transcript
 topics:

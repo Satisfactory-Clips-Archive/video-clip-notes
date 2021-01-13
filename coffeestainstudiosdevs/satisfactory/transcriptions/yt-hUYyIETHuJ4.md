@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can you summarise the upcoming builds for the next months?"
+title: "November 10th, 2020 Livestream Q&A: Can you summarise the upcoming builds for the next months?"
 date: "2020-11-10"
 layout: transcript
 topics:

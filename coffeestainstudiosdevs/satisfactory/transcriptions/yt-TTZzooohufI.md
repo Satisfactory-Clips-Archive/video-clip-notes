@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any way to disable motion blur?"
+title: "March 9th, 2019 Livestream Q&A: Any way to disable motion blur?"
 date: "2019-03-09"
 layout: transcript
 topics:

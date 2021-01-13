@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How often will you release updates in Early Access?"
+title: "March 9th, 2019 Livestream Q&A: How often will you release updates in Early Access?"
 date: "2019-03-09"
 layout: transcript
 topics:

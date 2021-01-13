@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Does Coffee Stain \"matrix\" it's people across different games?"
+title: "November 10th, 2020 Livestream Q&A: Does Coffee Stain \"matrix\" it's people across different games?"
 date: "2020-11-10"
 layout: transcript
 topics:

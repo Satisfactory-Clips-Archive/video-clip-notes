@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Shouldn't Vehicles despawn after they fall off the World?"
+title: "November 3rd, 2020 Livestream Q&A: Shouldn't Vehicles despawn after they fall off the World?"
 date: "2020-11-03"
 layout: transcript
 topics:

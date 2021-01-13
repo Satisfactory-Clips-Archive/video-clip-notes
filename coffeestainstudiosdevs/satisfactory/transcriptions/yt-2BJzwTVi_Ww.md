@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What material are they going to use for the new Pipes & Pumps?"
+title: "October 27th, 2020 Livestream Q&A: What material are they going to use for the new Pipes & Pumps?"
 date: "2020-10-27"
 layout: transcript
 topics:

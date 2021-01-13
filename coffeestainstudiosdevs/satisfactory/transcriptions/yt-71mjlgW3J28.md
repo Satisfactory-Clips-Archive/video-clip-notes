@@ -1,5 +1,5 @@
 ---
-title: "Q&A: If you kill Lizard Doggos do they respawn?"
+title: "November 10th, 2020 Livestream Q&A: If you kill Lizard Doggos do they respawn?"
 date: "2020-11-10"
 layout: transcript
 topics:

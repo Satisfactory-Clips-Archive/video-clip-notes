@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is \"Fluid Update\" Update 4?"
+title: "October 6th, 2020 Livestream Q&A: Is \"Fluid Update\" Update 4?"
 date: "2020-10-06"
 layout: transcript
 topics:

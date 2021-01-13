@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Trees respawning being worked on?"
+title: "November 17th, 2020 Livestream Q&A: Will Trees respawning being worked on?"
 date: "2020-11-17"
 layout: transcript
 topics:

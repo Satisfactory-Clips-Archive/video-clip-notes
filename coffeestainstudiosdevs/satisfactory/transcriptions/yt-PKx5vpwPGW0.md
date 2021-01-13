@@ -1,5 +1,5 @@
 ---
-title: "Q&A: RTX support ever?"
+title: "November 3rd, 2020 Livestream Q&A: RTX support ever?"
 date: "2020-11-03"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Infinite Colours?"
+title: "December 15th, 2020 Livestream Q&A: Infinite Colours?"
 date: "2020-12-15"
 layout: transcript
 topics:

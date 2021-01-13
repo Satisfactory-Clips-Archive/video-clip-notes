@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is it only packaging or does it unpack as well?"
+title: "October 13th, 2020 Livestream Q&A: Is it only packaging or does it unpack as well?"
 date: "2020-10-13"
 layout: transcript
 topics:

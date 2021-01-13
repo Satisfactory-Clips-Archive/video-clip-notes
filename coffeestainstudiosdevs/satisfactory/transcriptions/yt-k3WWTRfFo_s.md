@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do we get better Jump Pads in the Update?"
+title: "November 10th, 2020 Livestream Q&A: Do we get better Jump Pads in the Update?"
 date: "2020-11-10"
 layout: transcript
 topics:

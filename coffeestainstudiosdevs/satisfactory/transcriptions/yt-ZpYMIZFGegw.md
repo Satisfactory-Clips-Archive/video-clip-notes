@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get an update on Walls?"
+title: "November 17th, 2020 Livestream Q&A: Can we get an update on Walls?"
 date: "2020-11-17"
 layout: transcript
 topics:

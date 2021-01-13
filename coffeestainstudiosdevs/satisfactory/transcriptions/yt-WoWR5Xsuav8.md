@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do we have an idea of the full release?"
+title: "January 12th, 2021 Livestream Q&A: Do we have an idea of the full release?"
 date: "2021-01-12"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are we going to be releasing a video with the Fluids Update?"
+title: "October 27th, 2020 Livestream Q&A: Are we going to be releasing a video with the Fluids Update?"
 date: "2020-10-27"
 layout: transcript
 topics:

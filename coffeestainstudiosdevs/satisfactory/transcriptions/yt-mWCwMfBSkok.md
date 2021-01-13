@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is Fog going to be turned down?"
+title: "September 1st, 2020 Livestream Q&A: Is Fog going to be turned down?"
 date: "2020-09-01"
 layout: transcript
 topics:

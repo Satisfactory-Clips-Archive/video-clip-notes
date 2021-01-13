@@ -1,8 +1,9 @@
 ---
-title: "Q&A: Did the Procedural part look awful?"
+title: "October 6th, 2020 Livestream Q&A: Did the Procedural part look awful?"
 date: "2020-10-06"
 layout: transcript
 topics:
+    - "features/unplanned-features/procedural-generation"
     - "environment/world-map"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)

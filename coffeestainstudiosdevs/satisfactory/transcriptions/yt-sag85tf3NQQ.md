@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How do we get rid of toxic waste?"
+title: "December 1st, 2020 Livestream Q&A: How do we get rid of toxic waste?"
 date: "2020-12-01"
 layout: transcript
 topics:

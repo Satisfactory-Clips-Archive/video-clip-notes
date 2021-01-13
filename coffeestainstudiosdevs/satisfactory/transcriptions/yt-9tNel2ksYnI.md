@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Give us Steam Achievements already?"
+title: "September 29th, 2020 Livestream Q&A: Give us Steam Achievements already?"
 date: "2020-09-29"
 layout: transcript
 topics:

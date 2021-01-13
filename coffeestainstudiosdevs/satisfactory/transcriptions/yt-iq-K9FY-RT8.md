@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get Weather to change?"
+title: "November 10th, 2020 Livestream Q&A: Can we get Weather to change?"
 date: "2020-11-10"
 layout: transcript
 topics:

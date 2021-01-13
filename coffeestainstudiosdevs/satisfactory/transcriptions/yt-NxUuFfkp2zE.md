@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Indoor factories are very dark, will we be getting lighting to add to our bases?"
+title: "September 8th, 2020 Livestream Q&A: Indoor factories are very dark, will we be getting lighting to add to our bases?"
 date: "2020-09-08"
 layout: transcript
 topics:

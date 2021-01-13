@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Cat Companion instead of Doggo?"
+title: "September 8th, 2020 Livestream Q&A: Cat Companion instead of Doggo?"
 date: "2020-09-08"
 layout: transcript
 topics:

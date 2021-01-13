@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any features you want to add to the game but you don't expect to be added to the vanilla game?"
+title: "November 10th, 2020 Livestream Q&A: Any features you want to add to the game but you don't expect to be added to the vanilla game?"
 date: "2020-11-10"
 layout: transcript
 topics:

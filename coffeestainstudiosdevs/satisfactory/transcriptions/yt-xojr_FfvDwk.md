@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any chance of a Logic System in the game?"
+title: "September 1st, 2020 Livestream Q&A: Any chance of a Logic System in the game?"
 date: "2020-09-01"
 layout: transcript
 topics:

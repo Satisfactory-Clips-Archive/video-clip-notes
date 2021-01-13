@@ -1,5 +1,5 @@
 ---
-title: "Jace & Snutt Talk: Jump Pad Teaser (part 1)"
+title: "October 20th, 2020 Livestream Jace & Snutt Talk: Jump Pad Teaser (part 1)"
 date: "2020-10-20"
 layout: transcript
 topics:

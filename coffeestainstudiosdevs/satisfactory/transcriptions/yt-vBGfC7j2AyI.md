@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How much S.A.M. Ore should we stock up on?"
+title: "September 29th, 2020 Livestream Q&A: How much S.A.M. Ore should we stock up on?"
 date: "2020-09-29"
 layout: transcript
 topics:

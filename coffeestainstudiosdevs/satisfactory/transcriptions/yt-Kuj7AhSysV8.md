@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Alpha Keys, when ?"
+title: "September 1st, 2020 Livestream Q&A: Alpha Keys, when ?"
 date: "2020-09-01"
 layout: transcript
 topics:

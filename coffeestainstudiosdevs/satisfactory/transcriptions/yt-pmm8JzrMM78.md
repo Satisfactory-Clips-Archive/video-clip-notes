@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How do you stream on Steam like you guys are right now?"
+title: "December 8th, 2020 Livestream Q&A: How do you stream on Steam like you guys are right now?"
 date: "2020-12-08"
 layout: transcript
 topics:

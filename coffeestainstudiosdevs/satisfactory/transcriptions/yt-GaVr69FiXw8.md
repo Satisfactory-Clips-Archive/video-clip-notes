@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be any minor releases between now and Update 4?"
+title: "January 12th, 2021 Livestream Q&A: Will there be any minor releases between now and Update 4?"
 date: "2021-01-12"
 layout: transcript
 topics:

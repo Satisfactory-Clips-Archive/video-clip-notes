@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you using Blueprints or C++?"
+title: "September 8th, 2020 Livestream Q&A: Are you using Blueprints or C++?"
 date: "2020-09-08"
 layout: transcript
 topics:

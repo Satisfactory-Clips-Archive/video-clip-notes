@@ -1,5 +1,5 @@
 ---
-title: "Q&A: You guys planning a Content Creator Program?"
+title: "September 1st, 2020 Livestream Q&A: You guys planning a Content Creator Program?"
 date: "2020-09-01"
 layout: transcript
 topics:

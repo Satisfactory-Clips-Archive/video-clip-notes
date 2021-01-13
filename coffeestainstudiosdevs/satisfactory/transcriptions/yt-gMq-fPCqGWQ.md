@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What is the Object Count Limit, and how can we tell in our own game?"
+title: "September 22nd, 2020 Livestream Q&A: What is the Object Count Limit, and how can we tell in our own game?"
 date: "2020-09-22"
 layout: transcript
 topics:

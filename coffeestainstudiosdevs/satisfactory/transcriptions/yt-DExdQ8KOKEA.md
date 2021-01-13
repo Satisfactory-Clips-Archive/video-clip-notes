@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get different spawn points not linked to the Hub?"
+title: "October 20th, 2020 Livestream Q&A: Can we get different spawn points not linked to the Hub?"
 date: "2020-10-20"
 layout: transcript
 topics:

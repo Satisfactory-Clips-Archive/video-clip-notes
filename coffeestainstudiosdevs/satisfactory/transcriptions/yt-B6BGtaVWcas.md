@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will you be making these older versions public?"
+title: "December 8th, 2020 Livestream Q&A: Will you be making these older versions public?"
 date: "2020-12-08"
 layout: transcript
 topics:

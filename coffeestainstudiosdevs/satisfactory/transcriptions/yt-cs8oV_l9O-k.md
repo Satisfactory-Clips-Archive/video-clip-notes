@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can I switch between Experimental & Early Access?"
+title: "November 10th, 2020 Livestream Q&A: Can I switch between Experimental & Early Access?"
 date: "2020-11-10"
 layout: transcript
 topics:

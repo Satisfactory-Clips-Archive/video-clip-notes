@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Gift Trees continue to produce?"
+title: "December 8th, 2020 Livestream Q&A: Will Gift Trees continue to produce?"
 date: "2020-12-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Confused on the use of Controllers?"
+title: "September 22nd, 2020 Livestream Q&A: Confused on the use of Controllers?"
 date: "2020-09-22"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is automated food production planned?"
+title: "December 15th, 2020 Livestream Q&A: Is automated food production planned?"
 date: "2020-12-15"
 layout: transcript
 topics:

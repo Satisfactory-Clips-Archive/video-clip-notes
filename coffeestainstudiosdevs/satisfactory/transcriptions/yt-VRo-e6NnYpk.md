@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we choose the gender of the player?"
+title: "September 1st, 2020 Livestream Q&A: Can we choose the gender of the player?"
 date: "2020-09-01"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Satisfactory Mobile Game ?"
+title: "September 1st, 2020 Livestream Q&A: Satisfactory Mobile Game ?"
 date: "2020-09-01"
 layout: transcript
 topics:

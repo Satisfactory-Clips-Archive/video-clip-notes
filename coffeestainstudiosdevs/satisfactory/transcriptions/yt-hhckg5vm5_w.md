@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Thoughts on making end-game point or goal?"
+title: "November 10th, 2020 Livestream Q&A: Thoughts on making end-game point or goal?"
 date: "2020-11-10"
 layout: transcript
 topics:

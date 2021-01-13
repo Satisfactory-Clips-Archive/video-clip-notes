@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you guys know what is going to be the last Tier in the game?"
+title: "December 8th, 2020 Livestream Q&A: Do you guys know what is going to be the last Tier in the game?"
 date: "2020-12-08"
 layout: transcript
 topics:

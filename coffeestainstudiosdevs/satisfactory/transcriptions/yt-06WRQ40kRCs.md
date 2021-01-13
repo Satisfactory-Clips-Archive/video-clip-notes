@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How many hours should Satisfactory take usually (new player once we go 1.0) ?"
+title: "October 20th, 2020 Livestream Q&A: How many hours should Satisfactory take usually (new player once we go 1.0) ?"
 date: "2020-10-20"
 layout: transcript
 topics:

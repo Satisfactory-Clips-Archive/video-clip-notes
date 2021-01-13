@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Hyper Tube cannons be patched out eventually & officially supported as a feature?"
+title: "December 15th, 2020 Livestream Q&A: Will Hyper Tube cannons be patched out eventually & officially supported as a feature?"
 date: "2020-12-15"
 layout: transcript
 topics:

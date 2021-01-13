@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What other languages are going to be added?"
+title: "November 24th, 2020 Livestream Q&A: What other languages are going to be added?"
 date: "2020-11-24"
 layout: transcript
 topics:

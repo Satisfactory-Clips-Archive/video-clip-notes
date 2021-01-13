@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What will Story Mode be like?"
+title: "October 20th, 2020 Livestream Q&A: What will Story Mode be like?"
 date: "2020-10-20"
 layout: transcript
 topics:

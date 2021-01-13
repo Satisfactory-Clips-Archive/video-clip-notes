@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be new music in the future?"
+title: "October 20th, 2020 Livestream Q&A: Will there be new music in the future?"
 date: "2020-10-20"
 layout: transcript
 topics:

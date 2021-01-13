@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you going to share something important related to next Updates?"
+title: "September 1st, 2020 Livestream Q&A: Are you going to share something important related to next Updates?"
 date: "2020-09-01"
 layout: transcript
 topics:

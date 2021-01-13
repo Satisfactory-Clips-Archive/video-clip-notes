@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be something like the Resource Sink but for Fluids?"
+title: "September 1st, 2020 Livestream Q&A: Will there be something like the Resource Sink but for Fluids?"
 date: "2020-09-01"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why no partner with Twitch?"
+title: "January 12th, 2021 Livestream Q&A: Why no partner with Twitch?"
 date: "2021-01-12"
 layout: transcript
 topics:

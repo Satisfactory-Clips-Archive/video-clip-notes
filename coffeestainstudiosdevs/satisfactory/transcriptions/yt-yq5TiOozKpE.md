@@ -1,5 +1,5 @@
 ---
-title: "Q&A: As in \"PAC-ITger\" ?"
+title: "October 13th, 2020 Livestream Q&A: As in \"PAC-ITger\" ?"
 date: "2020-10-13"
 layout: transcript
 topics:

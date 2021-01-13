@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you going to add more functionality to the HUB?"
+title: "December 15th, 2020 Livestream Q&A: Are you going to add more functionality to the HUB?"
 date: "2020-12-15"
 layout: transcript
 topics:

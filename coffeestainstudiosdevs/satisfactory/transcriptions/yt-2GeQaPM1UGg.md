@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Dedicated Servers aren't tied to an Update?"
+title: "September 8th, 2020 Livestream Q&A: Dedicated Servers aren't tied to an Update?"
 date: "2020-09-08"
 layout: transcript
 topics:

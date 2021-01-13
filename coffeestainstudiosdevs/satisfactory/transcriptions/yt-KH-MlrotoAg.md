@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Let's Gay It Out video next week?"
+title: "November 24th, 2020 Livestream Q&A: Let's Gay It Out video next week?"
 date: "2020-11-24"
 layout: transcript
 topics:

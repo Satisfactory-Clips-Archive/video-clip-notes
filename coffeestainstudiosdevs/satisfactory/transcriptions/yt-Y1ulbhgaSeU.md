@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Broader Belts?"
+title: "November 3rd, 2020 Livestream Q&A: Broader Belts?"
 date: "2020-11-03"
 layout: transcript
 topics:

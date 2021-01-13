@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Secondary Hub/Spawn Point ?"
+title: "September 8th, 2020 Livestream Q&A: Secondary Hub/Spawn Point ?"
 date: "2020-09-08"
 layout: transcript
 topics:

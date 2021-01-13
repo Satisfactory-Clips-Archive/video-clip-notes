@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What about Multiplayer Updates?"
+title: "October 27th, 2020 Livestream Q&A: What about Multiplayer Updates?"
 date: "2020-10-27"
 layout: transcript
 topics:

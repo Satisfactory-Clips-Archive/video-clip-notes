@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When you have 200,000 Foundations, Walls would be good too."
+title: "October 27th, 2020 Livestream Q&A: When you have 200,000 Foundations, Walls would be good too."
 date: "2020-10-27"
 layout: transcript
 topics:

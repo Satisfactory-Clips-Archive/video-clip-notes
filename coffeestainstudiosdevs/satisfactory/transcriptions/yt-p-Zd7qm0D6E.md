@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When will \"coal\" be \"Coal\" on the Resource Scanner?"
+title: "September 8th, 2020 Livestream Q&A: When will \"coal\" be \"Coal\" on the Resource Scanner?"
 date: "2020-09-08"
 layout: transcript
 topics:

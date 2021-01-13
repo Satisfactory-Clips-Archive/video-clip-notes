@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any chance splitters/mergers can be placed in production buildings?"
+title: "November 3rd, 2020 Livestream Q&A: Any chance splitters/mergers can be placed in production buildings?"
 date: "2020-11-03"
 layout: transcript
 topics:

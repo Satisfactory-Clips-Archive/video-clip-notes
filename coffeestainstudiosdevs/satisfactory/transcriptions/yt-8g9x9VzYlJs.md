@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can there be a notebook in the Hub with Somersloop on the cover?"
+title: "October 6th, 2020 Livestream Q&A: Can there be a notebook in the Hub with Somersloop on the cover?"
 date: "2020-10-06"
 layout: transcript
 topics:

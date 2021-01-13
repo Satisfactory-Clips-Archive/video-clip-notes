@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do I need a beanie to play the game?"
+title: "December 8th, 2020 Livestream Q&A: Do I need a beanie to play the game?"
 date: "2020-12-08"
 layout: transcript
 topics:

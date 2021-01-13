@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Giving people Solar, Wind, and Hydro means FICSIT gets more resources?"
+title: "September 29th, 2020 Livestream Q&A: Giving people Solar, Wind, and Hydro means FICSIT gets more resources?"
 date: "2020-09-29"
 layout: transcript
 topics:

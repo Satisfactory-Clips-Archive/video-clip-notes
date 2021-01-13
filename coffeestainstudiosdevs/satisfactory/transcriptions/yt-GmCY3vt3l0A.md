@@ -1,5 +1,5 @@
 ---
-title: "Q&A: One thing you're working on near-term for Content?"
+title: "September 1st, 2020 Livestream Q&A: One thing you're working on near-term for Content?"
 date: "2020-09-01"
 layout: transcript
 topics:

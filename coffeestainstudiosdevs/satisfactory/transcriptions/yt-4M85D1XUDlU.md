@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you know what caused the Lizard Doggos to be super-janky at the launch of FICS⁕MAS?"
+title: "December 8th, 2020 Livestream Q&A: Do you know what caused the Lizard Doggos to be super-janky at the launch of FICS⁕MAS?"
 date: "2020-12-08"
 layout: transcript
 topics:

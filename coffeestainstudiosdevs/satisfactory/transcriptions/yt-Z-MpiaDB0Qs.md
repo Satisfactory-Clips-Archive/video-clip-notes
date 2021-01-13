@@ -1,8 +1,9 @@
 ---
-title: "Q&A: Will the anti-spider mode stay like it is now / When is Satisfactory getting Goats?"
+title: "September 8th, 2020 Livestream Q&A: Will the anti-spider mode stay like it is now / When is Satisfactory getting Goats?"
 date: "2020-09-08"
 layout: transcript
 topics:
+    - "accessibility/arachnophobia-mode"
     - "features/accessibility"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)

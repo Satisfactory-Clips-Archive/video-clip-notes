@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be more cosmetic options for Factory Buildings?"
+title: "September 1st, 2020 Livestream Q&A: Will there be more cosmetic options for Factory Buildings?"
 date: "2020-09-01"
 layout: transcript
 topics:

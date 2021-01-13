@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any chance to use the HUB Computer to display the statistics and production of the factory?"
+title: "November 17th, 2020 Livestream Q&A: Any chance to use the HUB Computer to display the statistics and production of the factory?"
 date: "2020-11-17"
 layout: transcript
 topics:

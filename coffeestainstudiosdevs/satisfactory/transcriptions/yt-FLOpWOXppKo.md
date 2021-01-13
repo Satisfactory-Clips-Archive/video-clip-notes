@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: We had windows before Mods."
+title: "December 8th, 2020 Livestream Snutt Talk: We had windows before Mods."
 date: "2020-12-08"
 layout: transcript
 topics:

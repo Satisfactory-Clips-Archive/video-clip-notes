@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How about you add the Goat so we can use her to destroy the Factory we don't need?"
+title: "November 10th, 2020 Livestream Q&A: How about you add the Goat so we can use her to destroy the Factory we don't need?"
 date: "2020-11-10"
 layout: transcript
 topics:

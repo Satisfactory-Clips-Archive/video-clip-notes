@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How does the AoE on the Chainsaw work?"
+title: "October 6th, 2020 Livestream Q&A: How does the AoE on the Chainsaw work?"
 date: "2020-10-06"
 layout: transcript
 topics:

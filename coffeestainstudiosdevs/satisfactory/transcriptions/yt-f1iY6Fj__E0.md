@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Mods break?"
+title: "December 8th, 2020 Livestream Q&A: Will Mods break?"
 date: "2020-12-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get an open end to Pipes like dumping waste water?"
+title: "October 6th, 2020 Livestream Q&A: Can we get an open end to Pipes like dumping waste water?"
 date: "2020-10-06"
 layout: transcript
 topics:

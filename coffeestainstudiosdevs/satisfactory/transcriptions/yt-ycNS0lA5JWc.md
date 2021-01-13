@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any chance of Simon becoming 3rd Community Manager?"
+title: "November 24th, 2020 Livestream Q&A: Any chance of Simon becoming 3rd Community Manager?"
 date: "2020-11-24"
 layout: transcript
 topics:

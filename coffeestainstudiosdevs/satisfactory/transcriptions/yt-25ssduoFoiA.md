@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there any plans for integrated mod support?"
+title: "October 13th, 2020 Livestream Q&A: Are there any plans for integrated mod support?"
 date: "2020-10-13"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will we launch Satisfactory 2?"
+title: "October 20th, 2020 Livestream Q&A: Will we launch Satisfactory 2?"
 date: "2020-10-20"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What's the difference between Experimental and the other version?"
+title: "November 3rd, 2020 Livestream Q&A: What's the difference between Experimental and the other version?"
 date: "2020-11-03"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are Doors being planned?"
+title: "October 13th, 2020 Livestream Q&A: Are Doors being planned?"
 date: "2020-10-13"
 layout: transcript
 topics:

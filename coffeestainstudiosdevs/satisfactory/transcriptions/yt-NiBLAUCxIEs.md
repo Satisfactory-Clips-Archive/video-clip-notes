@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What about Mk. 6 Belts?"
+title: "September 29th, 2020 Livestream Q&A: What about Mk. 6 Belts?"
 date: "2020-09-29"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: The Doggo Plushie has to fit into the Cup"
+title: "September 1st, 2020 Livestream Q&A: The Doggo Plushie has to fit into the Cup"
 date: "2020-09-01"
 layout: transcript
 topics:

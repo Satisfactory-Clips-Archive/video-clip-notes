@@ -1,8 +1,9 @@
 ---
-title: "Q&A: Can we upload a Spider image other than a Cat?"
+title: "September 8th, 2020 Livestream Q&A: Can we upload a Spider image other than a Cat?"
 date: "2020-09-08"
 layout: transcript
 topics:
+    - "accessibility/arachnophobia-mode"
     - "features/accessibility"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)

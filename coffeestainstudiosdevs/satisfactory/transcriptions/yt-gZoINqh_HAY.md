@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can you give us a hint about the Story of the game?"
+title: "November 3rd, 2020 Livestream Q&A: Can you give us a hint about the Story of the game?"
 date: "2020-11-03"
 layout: transcript
 topics:

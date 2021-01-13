@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any Update on Merch shipping alternatives?"
+title: "October 6th, 2020 Livestream Q&A: Any Update on Merch shipping alternatives?"
 date: "2020-10-06"
 layout: transcript
 topics:

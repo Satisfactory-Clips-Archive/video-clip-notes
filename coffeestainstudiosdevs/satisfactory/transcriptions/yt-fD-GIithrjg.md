@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you guys think 5000 hours in Satisfactory is too much?"
+title: "October 20th, 2020 Livestream Q&A: Do you guys think 5000 hours in Satisfactory is too much?"
 date: "2020-10-20"
 layout: transcript
 topics:

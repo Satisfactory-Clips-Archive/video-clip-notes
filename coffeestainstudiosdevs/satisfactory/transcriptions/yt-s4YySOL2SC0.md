@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What about Discord implementation for that Discord Rich Presence?"
+title: "November 3rd, 2020 Livestream Q&A: What about Discord implementation for that Discord Rich Presence?"
 date: "2020-11-03"
 layout: transcript
 topics:

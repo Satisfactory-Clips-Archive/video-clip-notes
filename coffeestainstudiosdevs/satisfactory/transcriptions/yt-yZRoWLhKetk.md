@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: Email replies work"
+title: "March 9th, 2019 Livestream Snutt & Jace Talk: Email replies work"
 date: "2019-03-09"
 layout: transcript
 topics:

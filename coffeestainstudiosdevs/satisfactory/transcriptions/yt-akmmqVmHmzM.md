@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there any things you had wanted to add to the game but had to cancel?"
+title: "March 9th, 2019 Livestream Q&A: Are there any things you had wanted to add to the game but had to cancel?"
 date: "2019-03-09"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When do we get the Crab Boss?"
+title: "October 6th, 2020 Livestream Q&A: When do we get the Crab Boss?"
 date: "2020-10-06"
 layout: transcript
 topics:

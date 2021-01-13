@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is ADA a synth voice ?"
+title: "October 6th, 2020 Livestream Q&A: Is ADA a synth voice ?"
 date: "2020-10-06"
 layout: transcript
 topics:

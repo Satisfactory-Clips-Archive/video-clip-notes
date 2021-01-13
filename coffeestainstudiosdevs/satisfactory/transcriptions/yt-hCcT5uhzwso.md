@@ -1,5 +1,5 @@
 ---
-title: "Q&A: The question is not \"Who is Hannah?\", the question is \"Who is Hannannatalie?\""
+title: "November 17th, 2020 Livestream Q&A: The question is not \"Who is Hannah?\", the question is \"Who is Hannannatalie?\""
 date: "2020-11-17"
 layout: transcript
 topics:

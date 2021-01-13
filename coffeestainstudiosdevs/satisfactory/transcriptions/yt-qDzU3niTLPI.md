@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are Mods okay on Experimental?"
+title: "October 27th, 2020 Livestream Q&A: Are Mods okay on Experimental?"
 date: "2020-10-27"
 layout: transcript
 topics:

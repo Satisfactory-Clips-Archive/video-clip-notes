@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Let Hannah finish her work on the map before expanding?"
+title: "September 1st, 2020 Livestream Q&A: Let Hannah finish her work on the map before expanding?"
 date: "2020-09-01"
 layout: transcript
 topics:

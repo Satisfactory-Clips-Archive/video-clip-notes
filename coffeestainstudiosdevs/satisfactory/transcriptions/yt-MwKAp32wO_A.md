@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is Snutt rocking two watches?"
+title: "January 12th, 2021 Livestream Q&A: Is Snutt rocking two watches?"
 date: "2021-01-12"
 layout: transcript
 topics:

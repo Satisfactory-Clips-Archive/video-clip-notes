@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Didn't you guys confirm a new vehicle?"
+title: "September 8th, 2020 Livestream Q&A: Didn't you guys confirm a new vehicle?"
 date: "2020-09-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Looking into Modular Builds for the Game"
+title: "September 15th, 2020 Livestream Snutt Talk: Looking into Modular Builds for the Game"
 date: "2020-09-15"
 layout: transcript
 topics:

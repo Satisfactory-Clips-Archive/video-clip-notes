@@ -1,5 +1,5 @@
 ---
-title: "Q&A: (re: the wiki) So the old data-mined data?"
+title: "October 6th, 2020 Livestream Q&A: (re: the wiki) So the old data-mined data?"
 date: "2020-10-06"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are Dedicated Servers going to have Mod support?"
+title: "November 24th, 2020 Livestream Q&A: Are Dedicated Servers going to have Mod support?"
 date: "2020-11-24"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Circular Foundations?"
+title: "November 17th, 2020 Livestream Q&A: Circular Foundations?"
 date: "2020-11-17"
 layout: transcript
 topics:

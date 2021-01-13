@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?"
+title: "November 17th, 2020 Livestream Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?"
 date: "2020-11-17"
 layout: transcript
 topics:

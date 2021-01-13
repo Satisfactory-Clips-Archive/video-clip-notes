@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: Closed Captions in the livestream"
+title: "January 12th, 2021 Livestream Snutt & Jace Talk: Closed Captions in the livestream"
 date: "2021-01-12"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Train Collision"
+title: "November 17th, 2020 Livestream Q&A: Train Collision"
 date: "2020-11-17"
 layout: transcript
 topics:

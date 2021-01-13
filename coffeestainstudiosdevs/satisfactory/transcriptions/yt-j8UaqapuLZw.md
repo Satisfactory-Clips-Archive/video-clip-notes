@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Does Coffee Stain have a plan to further monetise the game to fund dev?"
+title: "November 24th, 2020 Livestream Q&A: Does Coffee Stain have a plan to further monetise the game to fund dev?"
 date: "2020-11-24"
 layout: transcript
 topics:

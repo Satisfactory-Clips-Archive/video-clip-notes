@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any way to recycle Nuclear Waste?"
+title: "November 24th, 2020 Livestream Q&A: Any way to recycle Nuclear Waste?"
 date: "2020-11-24"
 layout: transcript
 topics:

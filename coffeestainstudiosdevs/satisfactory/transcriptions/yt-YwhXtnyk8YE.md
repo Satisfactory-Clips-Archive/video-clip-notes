@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot."
+title: "March 9th, 2019 Livestream Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot."
 date: "2019-03-09"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Game is awesome, but late-game is super laggy sometimes."
+title: "March 9th, 2019 Livestream Q&A: Game is awesome, but late-game is super laggy sometimes."
 date: "2019-03-09"
 layout: transcript
 topics:

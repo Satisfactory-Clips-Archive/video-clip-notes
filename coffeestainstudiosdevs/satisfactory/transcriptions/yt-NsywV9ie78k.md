@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What's the point of naming beacons?"
+title: "March 9th, 2019 Livestream Q&A: What's the point of naming beacons?"
 date: "2019-03-09"
 layout: transcript
 topics:

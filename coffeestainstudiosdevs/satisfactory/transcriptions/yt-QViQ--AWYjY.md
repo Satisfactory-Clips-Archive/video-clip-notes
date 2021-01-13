@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Does the game get a deeper Story?"
+title: "January 12th, 2021 Livestream Q&A: Does the game get a deeper Story?"
 date: "2021-01-12"
 layout: transcript
 topics:

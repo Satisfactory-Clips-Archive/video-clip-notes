@@ -1,5 +1,5 @@
 ---
-title: "Q&A: This sitting down thing, is it AFK or not in the session?"
+title: "October 20th, 2020 Livestream Q&A: This sitting down thing, is it AFK or not in the session?"
 date: "2020-10-20"
 layout: transcript
 topics:

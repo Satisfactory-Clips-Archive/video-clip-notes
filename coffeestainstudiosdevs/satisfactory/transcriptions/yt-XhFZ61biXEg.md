@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why are we rushing stuff to Early Access?"
+title: "November 3rd, 2020 Livestream Q&A: Why are we rushing stuff to Early Access?"
 date: "2020-11-03"
 layout: transcript
 topics:

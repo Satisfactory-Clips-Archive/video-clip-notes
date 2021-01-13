@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you not devs?"
+title: "October 20th, 2020 Livestream Q&A: Are you not devs?"
 date: "2020-10-20"
 layout: transcript
 topics:

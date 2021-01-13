@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you adding support for Mac any time soon?"
+title: "March 9th, 2019 Livestream Q&A: Are you adding support for Mac any time soon?"
 date: "2019-03-09"
 layout: transcript
 topics:

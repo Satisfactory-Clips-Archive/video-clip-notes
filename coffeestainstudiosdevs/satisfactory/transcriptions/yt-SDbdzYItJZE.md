@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get Miner Mk.4?"
+title: "November 10th, 2020 Livestream Q&A: Can we get Miner Mk.4?"
 date: "2020-11-10"
 layout: transcript
 topics:

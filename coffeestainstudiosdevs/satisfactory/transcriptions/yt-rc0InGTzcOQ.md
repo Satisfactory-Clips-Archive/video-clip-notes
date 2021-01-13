@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is the expected date relative to Early Access or Experimental?"
+title: "October 6th, 2020 Livestream Q&A: Is the expected date relative to Early Access or Experimental?"
 date: "2020-10-06"
 layout: transcript
 topics:

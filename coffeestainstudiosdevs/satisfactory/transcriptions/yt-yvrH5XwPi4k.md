@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there plans to optimise the Tutorial?"
+title: "January 12th, 2021 Livestream Q&A: Are there plans to optimise the Tutorial?"
 date: "2021-01-12"
 layout: transcript
 topics:

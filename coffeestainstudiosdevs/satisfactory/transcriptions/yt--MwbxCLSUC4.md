@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Who knows the most about feature roadmap?"
+title: "October 13th, 2020 Livestream Q&A: Who knows the most about feature roadmap?"
 date: "2020-10-13"
 layout: transcript
 topics:

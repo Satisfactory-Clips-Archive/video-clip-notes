@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Update 4 be disruptive enough that players will want to start from scratch?"
+title: "September 1st, 2020 Livestream Q&A: Will Update 4 be disruptive enough that players will want to start from scratch?"
 date: "2020-09-01"
 layout: transcript
 topics:

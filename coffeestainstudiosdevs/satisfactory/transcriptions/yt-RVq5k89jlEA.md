@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?"
+title: "October 6th, 2020 Livestream Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?"
 date: "2020-10-06"
 layout: transcript
 topics:

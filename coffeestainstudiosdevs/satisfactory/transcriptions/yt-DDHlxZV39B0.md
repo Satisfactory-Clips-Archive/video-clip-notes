@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there specific parts or objects that contain a lot of objects in them ?"
+title: "September 22nd, 2020 Livestream Q&A: Are there specific parts or objects that contain a lot of objects in them ?"
 date: "2020-09-22"
 layout: transcript
 topics:

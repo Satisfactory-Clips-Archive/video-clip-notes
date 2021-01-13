@@ -1,5 +1,5 @@
 ---
-title: "Q&A: You like to watch the modding community suffer, don't you."
+title: "September 8th, 2020 Livestream Q&A: You like to watch the modding community suffer, don't you."
 date: "2020-09-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the price stay at $30, or will it drop/increase as time goes on?"
+title: "March 9th, 2019 Livestream Q&A: Will the price stay at $30, or will it drop/increase as time goes on?"
 date: "2019-03-09"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: DX12 more efficient?"
+title: "November 17th, 2020 Livestream Q&A: DX12 more efficient?"
 date: "2020-11-17"
 layout: transcript
 topics:

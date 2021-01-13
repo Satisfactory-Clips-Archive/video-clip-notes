@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Update 4 be like Update 3, will it break saves?"
+title: "September 1st, 2020 Livestream Q&A: Will Update 4 be like Update 3, will it break saves?"
 date: "2020-09-01"
 layout: transcript
 topics:

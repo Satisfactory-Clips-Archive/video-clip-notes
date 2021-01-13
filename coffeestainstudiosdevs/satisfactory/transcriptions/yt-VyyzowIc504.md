@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Dedicated Servers coming with the next Update ?"
+title: "October 20th, 2020 Livestream Q&A: Dedicated Servers coming with the next Update ?"
 date: "2020-10-20"
 layout: transcript
 topics:

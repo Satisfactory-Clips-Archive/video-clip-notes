@@ -1,5 +1,5 @@
 ---
-title: "Jace & Snutt Talk: Update Release Schedule"
+title: "October 6th, 2020 Livestream Jace & Snutt Talk: Update Release Schedule"
 date: "2020-10-06"
 layout: transcript
 topics:

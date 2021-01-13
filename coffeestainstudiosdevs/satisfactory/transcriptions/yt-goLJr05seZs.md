@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Adjustable Scanner so when you scan for nodes it doesn't show ones that have a Miner on them."
+title: "September 15th, 2020 Livestream Q&A: Adjustable Scanner so when you scan for nodes it doesn't show ones that have a Miner on them."
 date: "2020-09-15"
 layout: transcript
 topics:

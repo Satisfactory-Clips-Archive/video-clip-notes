@@ -1,5 +1,5 @@
 ---
-title: "Q&A: You mentioned Power isn't going to stay the way it is?"
+title: "November 17th, 2020 Livestream Q&A: You mentioned Power isn't going to stay the way it is?"
 date: "2020-11-17"
 layout: transcript
 topics:

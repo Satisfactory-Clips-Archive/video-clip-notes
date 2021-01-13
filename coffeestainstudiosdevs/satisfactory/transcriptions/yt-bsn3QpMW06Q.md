@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the Update work with old worlds?"
+title: "October 6th, 2020 Livestream Q&A: Will the Update work with old worlds?"
 date: "2020-10-06"
 layout: transcript
 topics:

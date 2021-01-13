@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Been a little while without any Updates?"
+title: "September 22nd, 2020 Livestream Q&A: Been a little while without any Updates?"
 date: "2020-09-22"
 layout: transcript
 topics:

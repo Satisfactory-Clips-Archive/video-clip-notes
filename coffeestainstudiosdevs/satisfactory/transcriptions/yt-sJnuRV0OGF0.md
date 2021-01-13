@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get turrets and more PvE?"
+title: "December 15th, 2020 Livestream Q&A: Can we get turrets and more PvE?"
 date: "2020-12-15"
 layout: transcript
 topics:

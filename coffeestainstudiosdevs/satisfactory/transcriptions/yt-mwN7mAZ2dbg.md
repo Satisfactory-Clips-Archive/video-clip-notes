@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be new enemies?"
+title: "December 15th, 2020 Livestream Q&A: Will there be new enemies?"
 date: "2020-12-15"
 layout: transcript
 topics:

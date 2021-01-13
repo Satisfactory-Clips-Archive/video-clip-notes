@@ -1,5 +1,5 @@
 ---
-title: "Q&A: WTF, there's a Rifle in Satisfactory?"
+title: "October 20th, 2020 Livestream Q&A: WTF, there's a Rifle in Satisfactory?"
 date: "2020-10-20"
 layout: transcript
 topics:

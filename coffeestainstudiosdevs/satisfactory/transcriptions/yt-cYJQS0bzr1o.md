@@ -1,5 +1,5 @@
 ---
-title: "Q&A: I'd take 30mw for the Packager if I could take 3x speed than the Refineries?"
+title: "October 20th, 2020 Livestream Q&A: I'd take 30mw for the Packager if I could take 3x speed than the Refineries?"
 date: "2020-10-20"
 layout: transcript
 topics:

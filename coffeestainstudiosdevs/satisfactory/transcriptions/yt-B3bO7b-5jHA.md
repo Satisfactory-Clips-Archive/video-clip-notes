@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Elements of Survival ?"
+title: "September 8th, 2020 Livestream Q&A: Elements of Survival ?"
 date: "2020-09-08"
 layout: transcript
 topics:

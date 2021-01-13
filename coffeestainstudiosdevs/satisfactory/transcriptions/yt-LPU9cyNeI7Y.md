@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How do you get the Advent Calendar?"
+title: "December 8th, 2020 Livestream Q&A: How do you get the Advent Calendar?"
 date: "2020-12-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Solar Panels?"
+title: "October 20th, 2020 Livestream Q&A: Solar Panels?"
 date: "2020-10-20"
 layout: transcript
 topics:

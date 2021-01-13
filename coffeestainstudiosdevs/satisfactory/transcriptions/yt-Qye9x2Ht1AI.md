@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will we get automatic curtain doors?"
+title: "September 22nd, 2020 Livestream Q&A: Will we get automatic curtain doors?"
 date: "2020-09-22"
 layout: transcript
 topics:

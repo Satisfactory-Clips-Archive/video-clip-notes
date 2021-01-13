@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any Easter Eggs nobody's found yet?"
+title: "November 10th, 2020 Livestream Q&A: Any Easter Eggs nobody's found yet?"
 date: "2020-11-10"
 layout: transcript
 topics:

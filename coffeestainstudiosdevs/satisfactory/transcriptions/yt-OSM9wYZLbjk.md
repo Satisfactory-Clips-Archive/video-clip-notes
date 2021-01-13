@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is this (Fluid Updates) coming in Update 4?"
+title: "October 27th, 2020 Livestream Q&A: Is this (Fluid Updates) coming in Update 4?"
 date: "2020-10-27"
 layout: transcript
 topics:

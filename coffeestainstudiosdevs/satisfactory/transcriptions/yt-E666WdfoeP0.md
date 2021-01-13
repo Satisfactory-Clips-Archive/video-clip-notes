@@ -1,5 +1,5 @@
 ---
-title: "Trolling: Flying Vehicles in Update 4"
+title: "November 17th, 2020 Livestream Trolling: Flying Vehicles in Update 4"
 date: "2020-11-17"
 layout: transcript
 topics:

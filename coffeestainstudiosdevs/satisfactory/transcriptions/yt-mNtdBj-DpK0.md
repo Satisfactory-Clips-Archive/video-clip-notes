@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you have an update on the price of delivery fee of Merch?"
+title: "November 17th, 2020 Livestream Q&A: Do you have an update on the price of delivery fee of Merch?"
 date: "2020-11-17"
 layout: transcript
 topics:

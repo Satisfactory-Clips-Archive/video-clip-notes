@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Cosmetics for the Pioneer or even Lizard Doggo?"
+title: "September 8th, 2020 Livestream Q&A: Cosmetics for the Pioneer or even Lizard Doggo?"
 date: "2020-09-08"
 layout: transcript
 topics:

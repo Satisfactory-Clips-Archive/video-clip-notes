@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will we have a Content teaser?"
+title: "September 1st, 2020 Livestream Q&A: Will we have a Content teaser?"
 date: "2020-09-01"
 layout: transcript
 topics:

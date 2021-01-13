@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How big was the team back when this version was made?"
+title: "December 8th, 2020 Livestream Q&A: How big was the team back when this version was made?"
 date: "2020-12-08"
 layout: transcript
 topics:

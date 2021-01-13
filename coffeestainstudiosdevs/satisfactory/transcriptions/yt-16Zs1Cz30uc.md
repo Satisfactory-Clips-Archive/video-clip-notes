@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What is your opinion of the creations of players?"
+title: "September 1st, 2020 Livestream Q&A: What is your opinion of the creations of players?"
 date: "2020-09-01"
 layout: transcript
 topics:

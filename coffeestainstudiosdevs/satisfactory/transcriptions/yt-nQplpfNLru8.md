@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans for underwater mechanics?"
+title: "November 24th, 2020 Livestream Q&A: Any plans for underwater mechanics?"
 date: "2020-11-24"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When is the Update releasing in Early Access?"
+title: "November 3rd, 2020 Livestream Q&A: When is the Update releasing in Early Access?"
 date: "2020-11-03"
 layout: transcript
 topics:

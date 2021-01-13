@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why is the install folder still called FactoryGame?"
+title: "December 8th, 2020 Livestream Q&A: Why is the install folder still called FactoryGame?"
 date: "2020-12-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: I want this to come to XBox Series X & Playstation 5"
+title: "October 13th, 2020 Livestream Q&A: I want this to come to XBox Series X & Playstation 5"
 date: "2020-10-13"
 layout: transcript
 topics:

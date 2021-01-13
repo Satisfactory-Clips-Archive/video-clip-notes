@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Finish like a Credits scene in-game and game end?"
+title: "November 10th, 2020 Livestream Q&A: Finish like a Credits scene in-game and game end?"
 date: "2020-11-10"
 layout: transcript
 topics:

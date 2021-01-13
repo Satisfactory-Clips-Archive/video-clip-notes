@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans for Switches to divert items?"
+title: "September 15th, 2020 Livestream Q&A: Any plans for Switches to divert items?"
 date: "2020-09-15"
 layout: transcript
 topics:

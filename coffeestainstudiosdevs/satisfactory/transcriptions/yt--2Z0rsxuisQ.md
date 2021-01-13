@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Radar Towers get a Mk.2 version?"
+title: "December 15th, 2020 Livestream Q&A: Will Radar Towers get a Mk.2 version?"
 date: "2020-12-15"
 layout: transcript
 topics:

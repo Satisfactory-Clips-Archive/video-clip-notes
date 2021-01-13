@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Who's Kibitz?"
+title: "November 10th, 2020 Livestream Q&A: Who's Kibitz?"
 date: "2020-11-10"
 layout: transcript
 topics:

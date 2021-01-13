@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What will happen to the FICS⁕MAS power lines after the event?"
+title: "December 15th, 2020 Livestream Q&A: What will happen to the FICS⁕MAS power lines after the event?"
 date: "2020-12-15"
 layout: transcript
 topics:

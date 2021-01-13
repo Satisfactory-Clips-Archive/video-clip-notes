@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Laser Turrets on Trains?"
+title: "September 22nd, 2020 Livestream Q&A: Laser Turrets on Trains?"
 date: "2020-09-22"
 layout: transcript
 topics:

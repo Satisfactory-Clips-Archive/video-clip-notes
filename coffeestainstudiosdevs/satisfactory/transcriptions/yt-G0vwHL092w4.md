@@ -1,5 +1,5 @@
 ---
-title: "Q&A: The world should react to the invasive destruction and polluting?"
+title: "November 17th, 2020 Livestream Q&A: The world should react to the invasive destruction and polluting?"
 date: "2020-11-17"
 layout: transcript
 topics:

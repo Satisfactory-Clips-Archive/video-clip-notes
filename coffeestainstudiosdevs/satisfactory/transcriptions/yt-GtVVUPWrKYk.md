@@ -1,5 +1,5 @@
 ---
-title: "Q&A: View of Satisfactory played from the top of the Space Elevator and it's an RTS?"
+title: "September 8th, 2020 Livestream Q&A: View of Satisfactory played from the top of the Space Elevator and it's an RTS?"
 date: "2020-09-08"
 layout: transcript
 topics:

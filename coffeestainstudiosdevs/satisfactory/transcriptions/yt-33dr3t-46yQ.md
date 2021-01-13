@@ -1,5 +1,5 @@
 ---
-title: "Jace Talk: Mount Prototypes"
+title: "November 10th, 2020 Livestream Jace Talk: Mount Prototypes"
 date: "2020-11-10"
 layout: transcript
 topics:

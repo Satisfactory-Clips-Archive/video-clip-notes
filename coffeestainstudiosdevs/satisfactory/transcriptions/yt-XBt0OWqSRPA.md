@@ -1,5 +1,5 @@
 ---
-title: "State of Dev - The Blender™"
+title: "January 12th, 2021 Livestream State of Dev - The Blender™"
 date: "2021-01-12"
 layout: transcript
 topics:

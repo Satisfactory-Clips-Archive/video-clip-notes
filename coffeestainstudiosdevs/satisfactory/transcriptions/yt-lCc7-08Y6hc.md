@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What is the reason Belts have a finite length?"
+title: "October 13th, 2020 Livestream Q&A: What is the reason Belts have a finite length?"
 date: "2020-10-13"
 layout: transcript
 topics:

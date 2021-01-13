@@ -1,5 +1,5 @@
 ---
-title: "Q&A: After the Update do I need to switch back to Early Access?"
+title: "November 10th, 2020 Livestream Q&A: After the Update do I need to switch back to Early Access?"
 date: "2020-11-10"
 layout: transcript
 topics:

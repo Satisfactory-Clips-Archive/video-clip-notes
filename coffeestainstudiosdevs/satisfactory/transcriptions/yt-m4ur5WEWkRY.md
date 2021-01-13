@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When are the next stages in the HUB?"
+title: "November 10th, 2020 Livestream Q&A: When are the next stages in the HUB?"
 date: "2020-11-10"
 layout: transcript
 topics:

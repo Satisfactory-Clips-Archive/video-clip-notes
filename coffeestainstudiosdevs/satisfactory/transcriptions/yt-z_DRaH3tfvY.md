@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you think this game would be suited for VR?"
+title: "November 17th, 2020 Livestream Q&A: Do you think this game would be suited for VR?"
 date: "2020-11-17"
 layout: transcript
 topics:

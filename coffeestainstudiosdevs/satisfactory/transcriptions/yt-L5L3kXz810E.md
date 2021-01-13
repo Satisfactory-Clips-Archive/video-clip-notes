@@ -1,5 +1,5 @@
 ---
-title: "Trolling: This is an honest stream"
+title: "November 17th, 2020 Livestream Trolling: This is an honest stream"
 date: "2020-11-17"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Factories continue to run when players are logged into a Dedicated Server?"
+title: "September 8th, 2020 Livestream Q&A: Will Factories continue to run when players are logged into a Dedicated Server?"
 date: "2020-09-08"
 layout: transcript
 topics:

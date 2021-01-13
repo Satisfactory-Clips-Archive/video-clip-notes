@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What is your opinion on the most downloaded mods?"
+title: "September 1st, 2020 Livestream Q&A: What is your opinion on the most downloaded mods?"
 date: "2020-09-01"
 layout: transcript
 topics:

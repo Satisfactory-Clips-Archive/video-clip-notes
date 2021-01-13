@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: Unreal Engine Object Limit"
+title: "November 10th, 2020 Livestream Snutt & Jace Talk: Unreal Engine Object Limit"
 date: "2020-11-10"
 layout: transcript
 topics:

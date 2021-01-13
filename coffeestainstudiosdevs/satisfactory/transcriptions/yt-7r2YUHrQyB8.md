@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will we have to redo Pipe systems with the new Update?"
+title: "October 6th, 2020 Livestream Q&A: Will we have to redo Pipe systems with the new Update?"
 date: "2020-10-06"
 layout: transcript
 topics:

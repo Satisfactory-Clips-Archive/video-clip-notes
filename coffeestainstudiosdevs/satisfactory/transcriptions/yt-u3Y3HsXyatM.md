@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What does Network Quality selector in Options do?"
+title: "November 10th, 2020 Livestream Q&A: What does Network Quality selector in Options do?"
 date: "2020-11-10"
 layout: transcript
 topics:

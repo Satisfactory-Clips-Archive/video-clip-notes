@@ -1,5 +1,5 @@
 ---
-title: "Jace & Snutt Talk: Story"
+title: "September 22nd, 2020 Livestream Jace & Snutt Talk: Story"
 date: "2020-09-22"
 layout: transcript
 topics:

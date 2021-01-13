@@ -1,5 +1,5 @@
 ---
-title: "Q&A: The Cup, where can I buy it?"
+title: "November 24th, 2020 Livestream Q&A: The Cup, where can I buy it?"
 date: "2020-11-24"
 layout: transcript
 topics:

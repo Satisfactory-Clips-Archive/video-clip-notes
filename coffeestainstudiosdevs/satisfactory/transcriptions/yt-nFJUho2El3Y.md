@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How is the World Building going?"
+title: "October 6th, 2020 Livestream Q&A: How is the World Building going?"
 date: "2020-10-06"
 layout: transcript
 topics:

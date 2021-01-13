@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will you guys fix the connection loss with long loading with friends?"
+title: "September 1st, 2020 Livestream Q&A: Will you guys fix the connection loss with long loading with friends?"
 date: "2020-09-01"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is it recommended to use all cores in Steam?"
+title: "September 22nd, 2020 Livestream Q&A: Is it recommended to use all cores in Steam?"
 date: "2020-09-22"
 layout: transcript
 topics:

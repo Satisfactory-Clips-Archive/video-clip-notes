@@ -1,5 +1,5 @@
 ---
-title: "Trolling: New Community Manager"
+title: "November 17th, 2020 Livestream Trolling: New Community Manager"
 date: "2020-11-17"
 layout: transcript
 topics:

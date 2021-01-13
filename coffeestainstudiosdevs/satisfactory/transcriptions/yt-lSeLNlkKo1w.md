@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is ADA computer generated or a voice actress?"
+title: "October 27th, 2020 Livestream Q&A: Is ADA computer generated or a voice actress?"
 date: "2020-10-27"
 layout: transcript
 topics:

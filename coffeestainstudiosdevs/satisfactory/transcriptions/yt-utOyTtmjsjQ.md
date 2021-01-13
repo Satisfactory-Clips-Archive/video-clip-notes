@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Were there any Multiplayer updates in 3.5?"
+title: "November 3rd, 2020 Livestream Q&A: Were there any Multiplayer updates in 3.5?"
 date: "2020-11-03"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Update 4 include Multiplayer optimisation?"
+title: "September 1st, 2020 Livestream Q&A: Will Update 4 include Multiplayer optimisation?"
 date: "2020-09-01"
 layout: transcript
 topics:

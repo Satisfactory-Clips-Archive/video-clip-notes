@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get a \"blow kiss\" emote so I can kiss my homies goodbye after a game sesh?"
+title: "November 10th, 2020 Livestream Q&A: Can we get a \"blow kiss\" emote so I can kiss my homies goodbye after a game sesh?"
 date: "2020-11-10"
 layout: transcript
 topics:

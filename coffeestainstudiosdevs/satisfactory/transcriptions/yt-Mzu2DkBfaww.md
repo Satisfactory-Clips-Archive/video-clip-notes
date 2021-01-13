@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: New Refinery model"
+title: "October 27th, 2020 Livestream Snutt Talk: New Refinery model"
 date: "2020-10-27"
 layout: transcript
 topics:

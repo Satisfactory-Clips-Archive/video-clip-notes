@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why did you change the Nuclear Reactors model?"
+title: "September 1st, 2020 Livestream Q&A: Why did you change the Nuclear Reactors model?"
 date: "2020-09-01"
 layout: transcript
 topics:

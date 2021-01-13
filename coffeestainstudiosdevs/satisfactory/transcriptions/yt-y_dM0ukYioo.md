@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How long will the game be supported?"
+title: "September 1st, 2020 Livestream Q&A: How long will the game be supported?"
 date: "2020-09-01"
 layout: transcript
 topics:

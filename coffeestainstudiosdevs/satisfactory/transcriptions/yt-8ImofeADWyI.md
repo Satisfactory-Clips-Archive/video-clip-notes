@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be any major changes to the game with Update 4?"
+title: "December 15th, 2020 Livestream Q&A: Will there be any major changes to the game with Update 4?"
 date: "2020-12-15"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is it true that building vertically equals worse performance than building horizontally?"
+title: "November 10th, 2020 Livestream Q&A: Is it true that building vertically equals worse performance than building horizontally?"
 date: "2020-11-10"
 layout: transcript
 topics:

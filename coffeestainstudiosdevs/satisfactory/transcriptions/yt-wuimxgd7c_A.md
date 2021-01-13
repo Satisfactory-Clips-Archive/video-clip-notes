@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can you imagine bringing something decoration foundations to factories?"
+title: "December 15th, 2020 Livestream Q&A: Can you imagine bringing something decoration foundations to factories?"
 date: "2020-12-15"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Would geothermal generators get a buff or rework of sorts?"
+title: "September 1st, 2020 Livestream Q&A: Would geothermal generators get a buff or rework of sorts?"
 date: "2020-09-01"
 layout: transcript
 topics:

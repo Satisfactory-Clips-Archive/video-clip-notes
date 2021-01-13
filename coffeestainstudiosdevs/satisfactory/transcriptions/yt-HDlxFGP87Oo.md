@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why is the Chainsaw a gasoline 2-stroke?"
+title: "October 6th, 2020 Livestream Q&A: Why is the Chainsaw a gasoline 2-stroke?"
 date: "2020-10-06"
 layout: transcript
 topics:

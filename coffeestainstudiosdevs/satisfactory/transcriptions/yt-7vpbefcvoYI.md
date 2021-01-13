@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we go over the Freight Train fix in a little detail?"
+title: "November 17th, 2020 Livestream Q&A: Can we go over the Freight Train fix in a little detail?"
 date: "2020-11-17"
 layout: transcript
 topics:

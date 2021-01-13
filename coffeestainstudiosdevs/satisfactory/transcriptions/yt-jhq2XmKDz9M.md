@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the Packing machine cost the same amount of power as the Refinery?"
+title: "October 20th, 2020 Livestream Q&A: Will the Packing machine cost the same amount of power as the Refinery?"
 date: "2020-10-20"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any extra info about the Content Creator post on Twitter?"
+title: "November 24th, 2020 Livestream Q&A: Any extra info about the Content Creator post on Twitter?"
 date: "2020-11-24"
 layout: transcript
 topics:

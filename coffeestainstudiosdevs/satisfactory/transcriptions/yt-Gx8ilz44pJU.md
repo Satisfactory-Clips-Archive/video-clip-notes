@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you going to add Ansel support for HD photos? (Part 1)"
+title: "March 9th, 2019 Livestream Q&A: Are you going to add Ansel support for HD photos? (Part 1)"
 date: "2019-03-09"
 layout: transcript
 topics:

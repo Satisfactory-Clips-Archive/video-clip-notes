@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we add Stamina back?"
+title: "December 8th, 2020 Livestream Q&A: Can we add Stamina back?"
 date: "2020-12-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Trolling: Dedicated Servers"
+title: "November 17th, 2020 Livestream Trolling: Dedicated Servers"
 date: "2020-11-17"
 layout: transcript
 topics:

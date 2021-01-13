@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will existing Mods work with new build?"
+title: "November 10th, 2020 Livestream Q&A: Will existing Mods work with new build?"
 date: "2020-11-10"
 layout: transcript
 topics:

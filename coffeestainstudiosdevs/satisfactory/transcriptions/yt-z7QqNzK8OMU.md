@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is the Engineer human at least?"
+title: "November 17th, 2020 Livestream Q&A: Is the Engineer human at least?"
 date: "2020-11-17"
 layout: transcript
 topics:

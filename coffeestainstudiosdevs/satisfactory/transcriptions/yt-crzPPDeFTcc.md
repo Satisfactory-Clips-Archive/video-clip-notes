@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Did the Steam release meet expected goals?"
+title: "September 1st, 2020 Livestream Q&A: Did the Steam release meet expected goals?"
 date: "2020-09-01"
 layout: transcript
 topics:

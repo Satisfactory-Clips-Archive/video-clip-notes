@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What about a new Map?"
+title: "October 27th, 2020 Livestream Q&A: What about a new Map?"
 date: "2020-10-27"
 layout: transcript
 topics:

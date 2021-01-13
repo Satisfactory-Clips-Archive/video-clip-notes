@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there going to be a Creative Mode?"
+title: "November 3rd, 2020 Livestream Q&A: Is there going to be a Creative Mode?"
 date: "2020-11-03"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Jobs available in Stockholm but not Skövde?"
+title: "December 8th, 2020 Livestream Q&A: Jobs available in Stockholm but not Skövde?"
 date: "2020-12-08"
 layout: transcript
 topics:

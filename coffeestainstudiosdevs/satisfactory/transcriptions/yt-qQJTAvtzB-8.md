@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be more options for aesthetics regarding things like house building?"
+title: "November 24th, 2020 Livestream Q&A: Will there be more options for aesthetics regarding things like house building?"
 date: "2020-11-24"
 layout: transcript
 topics:

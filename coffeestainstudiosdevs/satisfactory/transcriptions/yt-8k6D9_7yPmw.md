@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you have an in-house tool for calculating balance of factory outputs and the like?"
+title: "December 15th, 2020 Livestream Q&A: Do you have an in-house tool for calculating balance of factory outputs and the like?"
 date: "2020-12-15"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Aliens become more diverse/actually challenging?"
+title: "October 20th, 2020 Livestream Q&A: Will Aliens become more diverse/actually challenging?"
 date: "2020-10-20"
 layout: transcript
 topics:

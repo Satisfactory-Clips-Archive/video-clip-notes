@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there plans to improve Vehicle performance for Update 4?"
+title: "December 8th, 2020 Livestream Q&A: Are there plans to improve Vehicle performance for Update 4?"
 date: "2020-12-08"
 layout: transcript
 topics:

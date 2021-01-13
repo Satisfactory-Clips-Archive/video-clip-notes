@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Adding Smart/Programmable Splitters to allow us to dedicate material for each direction?"
+title: "November 10th, 2020 Livestream Q&A: Adding Smart/Programmable Splitters to allow us to dedicate material for each direction?"
 date: "2020-11-10"
 layout: transcript
 topics:

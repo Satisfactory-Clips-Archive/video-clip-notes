@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What do you think of the current state of the game?"
+title: "December 8th, 2020 Livestream Q&A: What do you think of the current state of the game?"
 date: "2020-12-08"
 layout: transcript
 topics:

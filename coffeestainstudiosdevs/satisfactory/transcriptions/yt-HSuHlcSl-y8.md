@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why do you take Gas damage while wearing a Gas Mask while driving a Car?"
+title: "September 8th, 2020 Livestream Q&A: Why do you take Gas damage while wearing a Gas Mask while driving a Car?"
 date: "2020-09-08"
 layout: transcript
 topics:

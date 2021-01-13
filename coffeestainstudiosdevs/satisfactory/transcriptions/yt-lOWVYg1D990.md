@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans to add Ducks to the game?"
+title: "September 29th, 2020 Livestream Q&A: Any plans to add Ducks to the game?"
 date: "2020-09-29"
 layout: transcript
 topics:

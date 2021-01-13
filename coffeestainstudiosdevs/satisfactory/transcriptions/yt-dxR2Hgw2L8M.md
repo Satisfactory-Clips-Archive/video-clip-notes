@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why not try ban all Mods / Do you want people to use Mods ?"
+title: "September 8th, 2020 Livestream Q&A: Why not try ban all Mods / Do you want people to use Mods ?"
 date: "2020-09-08"
 layout: transcript
 topics:

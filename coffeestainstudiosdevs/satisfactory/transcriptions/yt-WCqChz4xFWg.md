@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there a way to deposit all of the same material?"
+title: "October 6th, 2020 Livestream Q&A: Is there a way to deposit all of the same material?"
 date: "2020-10-06"
 layout: transcript
 topics:

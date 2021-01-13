@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: Water VFX"
+title: "December 8th, 2020 Livestream Snutt & Jace Talk: Water VFX"
 date: "2020-12-08"
 layout: transcript
 topics:

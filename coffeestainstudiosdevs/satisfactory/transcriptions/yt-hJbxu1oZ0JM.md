@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are we waiting for any% speedruns after 1.0?"
+title: "November 3rd, 2020 Livestream Q&A: Are we waiting for any% speedruns after 1.0?"
 date: "2020-11-03"
 layout: transcript
 topics:

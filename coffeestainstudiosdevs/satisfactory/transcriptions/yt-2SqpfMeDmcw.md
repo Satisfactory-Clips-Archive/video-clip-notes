@@ -1,5 +1,5 @@
 ---
-title: "Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?"
+title: "November 10th, 2020 Livestream Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?"
 date: "2020-11-10"
 layout: transcript
 topics:

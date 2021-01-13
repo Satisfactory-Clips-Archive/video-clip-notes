@@ -1,5 +1,5 @@
 ---
-title: "State of Dev: FICS⁕MAS"
+title: "December 8th, 2020 Livestream State of Dev: FICS⁕MAS"
 date: "2020-12-08"
 layout: transcript
 topics:

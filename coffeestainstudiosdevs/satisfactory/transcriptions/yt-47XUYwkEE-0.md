@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What kind of oven does Jace have?"
+title: "January 12th, 2021 Livestream Q&A: What kind of oven does Jace have?"
 date: "2021-01-12"
 layout: transcript
 topics:

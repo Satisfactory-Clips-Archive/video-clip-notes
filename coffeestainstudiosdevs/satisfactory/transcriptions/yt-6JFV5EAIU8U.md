@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When will we implement gravity physics to the Buildings?"
+title: "November 10th, 2020 Livestream Q&A: When will we implement gravity physics to the Buildings?"
 date: "2020-11-10"
 layout: transcript
 topics:

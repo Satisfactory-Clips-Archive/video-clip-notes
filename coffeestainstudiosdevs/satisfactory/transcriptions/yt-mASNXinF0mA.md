@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Alien creature launcher - evict the giant Tick?"
+title: "November 24th, 2020 Livestream Q&A: Alien creature launcher - evict the giant Tick?"
 date: "2020-11-24"
 layout: transcript
 topics:

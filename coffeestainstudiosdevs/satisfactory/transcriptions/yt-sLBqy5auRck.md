@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans about new pets?"
+title: "October 6th, 2020 Livestream Q&A: Any plans about new pets?"
 date: "2020-10-06"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Does the timer for Epic exclusivity run when the game comes out or Early Access phase?"
+title: "March 9th, 2019 Livestream Q&A: Does the timer for Epic exclusivity run when the game comes out or Early Access phase?"
 date: "2019-03-09"
 layout: transcript
 topics:

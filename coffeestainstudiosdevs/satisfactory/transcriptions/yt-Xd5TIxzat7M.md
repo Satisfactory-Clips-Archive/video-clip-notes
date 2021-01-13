@@ -1,5 +1,5 @@
 ---
-title: "Jace Talk: VR for Satisfactory"
+title: "November 24th, 2020 Livestream Jace Talk: VR for Satisfactory"
 date: "2020-11-24"
 layout: transcript
 topics:

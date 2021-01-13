@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Flying Lizard Doggos, when?"
+title: "September 22nd, 2020 Livestream Q&A: Flying Lizard Doggos, when?"
 date: "2020-09-22"
 layout: transcript
 topics:

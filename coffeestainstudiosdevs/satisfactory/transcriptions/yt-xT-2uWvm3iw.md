@@ -1,5 +1,5 @@
 ---
-title: "Jace Talk: Encased Conveyor Belts"
+title: "November 10th, 2020 Livestream Jace Talk: Encased Conveyor Belts"
 date: "2020-11-10"
 layout: transcript
 topics:

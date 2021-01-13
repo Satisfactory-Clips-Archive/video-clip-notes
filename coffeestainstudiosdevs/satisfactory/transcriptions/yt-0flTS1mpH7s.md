@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be more polish to the Survival aspects of the game?"
+title: "September 15th, 2020 Livestream Q&A: Will there be more polish to the Survival aspects of the game?"
 date: "2020-09-15"
 layout: transcript
 topics:

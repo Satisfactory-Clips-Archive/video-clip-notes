@@ -1,5 +1,5 @@
 ---
-title: "Trolling: Goat Simulator DLC"
+title: "November 17th, 2020 Livestream Trolling: Goat Simulator DLC"
 date: "2020-11-17"
 layout: transcript
 topics:

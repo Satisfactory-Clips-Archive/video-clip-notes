@@ -1,5 +1,5 @@
 ---
-title: "Q&A: The use-case for Dedicated Servers is specifically so you can have a centralised file (etc.)"
+title: "September 29th, 2020 Livestream Q&A: The use-case for Dedicated Servers is specifically so you can have a centralised file (etc.)"
 date: "2020-09-29"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there any plans for Blueprinting Buildings?"
+title: "September 15th, 2020 Livestream Q&A: Are there any plans for Blueprinting Buildings?"
 date: "2020-09-15"
 layout: transcript
 topics:

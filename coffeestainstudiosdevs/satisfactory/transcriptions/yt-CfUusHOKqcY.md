@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we train Lizard Doggos to feed Biomass into Generators?"
+title: "October 20th, 2020 Livestream Q&A: Can we train Lizard Doggos to feed Biomass into Generators?"
 date: "2020-10-20"
 layout: transcript
 topics:

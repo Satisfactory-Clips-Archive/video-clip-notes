@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there going to be a Satisfactory for Mac?"
+title: "November 24th, 2020 Livestream Q&A: Is there going to be a Satisfactory for Mac?"
 date: "2020-11-24"
 layout: transcript
 topics:

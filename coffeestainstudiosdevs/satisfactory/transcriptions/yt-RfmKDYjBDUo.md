@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any update on Update 4 release date?"
+title: "October 6th, 2020 Livestream Q&A: Any update on Update 4 release date?"
 date: "2020-10-06"
 layout: transcript
 topics:

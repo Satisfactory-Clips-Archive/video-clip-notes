@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we make a Satisfactory Mobile Mod?"
+title: "September 22nd, 2020 Livestream Q&A: Can we make a Satisfactory Mobile Mod?"
 date: "2020-09-22"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What is the output per minute compared to the refinery?"
+title: "October 13th, 2020 Livestream Q&A: What is the output per minute compared to the refinery?"
 date: "2020-10-13"
 layout: transcript
 topics:

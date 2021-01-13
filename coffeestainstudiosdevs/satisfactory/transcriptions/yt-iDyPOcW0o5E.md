@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you considering adding more music to the game?"
+title: "September 1st, 2020 Livestream Q&A: Are you considering adding more music to the game?"
 date: "2020-09-01"
 layout: transcript
 topics:

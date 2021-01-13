@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How about being able to snap Foundations by their halfway point instead of just the edge?"
+title: "November 3rd, 2020 Livestream Q&A: How about being able to snap Foundations by their halfway point instead of just the edge?"
 date: "2020-11-03"
 layout: transcript
 topics:

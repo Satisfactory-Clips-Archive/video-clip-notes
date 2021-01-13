@@ -1,5 +1,5 @@
 ---
-title: "Q&A: New Tiers?"
+title: "November 10th, 2020 Livestream Q&A: New Tiers?"
 date: "2020-11-10"
 layout: transcript
 topics:

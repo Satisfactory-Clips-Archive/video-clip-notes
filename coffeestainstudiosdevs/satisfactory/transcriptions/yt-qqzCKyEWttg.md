@@ -1,5 +1,5 @@
 ---
-title: "Q&A: ETA on the next patch?"
+title: "October 13th, 2020 Livestream Q&A: ETA on the next patch?"
 date: "2020-10-13"
 layout: transcript
 topics:

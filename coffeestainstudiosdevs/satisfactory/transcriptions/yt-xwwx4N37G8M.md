@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can you make a toolbar selection to be with just hotkeys instead of mousewheel?"
+title: "December 15th, 2020 Livestream Q&A: Can you make a toolbar selection to be with just hotkeys instead of mousewheel?"
 date: "2020-12-15"
 layout: transcript
 topics:

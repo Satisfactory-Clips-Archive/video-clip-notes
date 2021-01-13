@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Mk2 Pipes?"
+title: "September 15th, 2020 Livestream Q&A: Mk2 Pipes?"
 date: "2020-09-15"
 layout: transcript
 topics:

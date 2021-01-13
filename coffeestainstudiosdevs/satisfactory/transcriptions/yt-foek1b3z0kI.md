@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What is the Superposition Oscillator for?"
+title: "December 15th, 2020 Livestream Q&A: What is the Superposition Oscillator for?"
 date: "2020-12-15"
 layout: transcript
 topics:

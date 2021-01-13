@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Train Collisions/Signalling, will it break the game completely?"
+title: "September 8th, 2020 Livestream Q&A: Train Collisions/Signalling, will it break the game completely?"
 date: "2020-09-08"
 layout: transcript
 topics:

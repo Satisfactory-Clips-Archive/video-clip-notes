@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any chance Update 4 unlocks the Work In Progress items?"
+title: "September 15th, 2020 Livestream Q&A: Any chance Update 4 unlocks the Work In Progress items?"
 date: "2020-09-15"
 layout: transcript
 topics:

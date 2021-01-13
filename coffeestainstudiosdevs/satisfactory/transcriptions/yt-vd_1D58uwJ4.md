@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: When is Update 4 due?"
+title: "September 1st, 2020 Livestream Snutt Talk: When is Update 4 due?"
 date: "2020-09-01"
 layout: transcript
 topics:

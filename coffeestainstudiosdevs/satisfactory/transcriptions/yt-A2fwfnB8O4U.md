@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you concerned that Dedicated Servers will cause people to move through Tiers too quickly?"
+title: "November 3rd, 2020 Livestream Q&A: Are you concerned that Dedicated Servers will cause people to move through Tiers too quickly?"
 date: "2020-11-03"
 layout: transcript
 topics:

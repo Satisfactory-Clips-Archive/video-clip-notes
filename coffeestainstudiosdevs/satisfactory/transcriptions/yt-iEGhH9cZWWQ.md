@@ -1,5 +1,5 @@
 ---
-title: "Jace & Snutt Talk: New Feature - Packager (part 2)"
+title: "October 13th, 2020 Livestream Jace & Snutt Talk: New Feature - Packager (part 2)"
 date: "2020-10-13"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What is the Goal of this game?"
+title: "October 6th, 2020 Livestream Q&A: What is the Goal of this game?"
 date: "2020-10-06"
 layout: transcript
 topics:

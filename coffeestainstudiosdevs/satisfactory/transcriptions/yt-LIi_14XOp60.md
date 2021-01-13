@@ -1,8 +1,9 @@
 ---
-title: "Q&A: Any thoughts on Terraforming, specifically tunneling ?"
+title: "September 8th, 2020 Livestream Q&A: Any thoughts on Terraforming, specifically tunneling ?"
 date: "2020-09-08"
 layout: transcript
 topics:
+    - "features/unplanned-features/terraforming"
     - "environment/world-map"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)

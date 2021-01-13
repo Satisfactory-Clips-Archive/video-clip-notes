@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: Verticality & top-down views, procedural generation"
+title: "March 9th, 2019 Livestream Snutt & Jace Talk: Verticality & top-down views, procedural generation"
 date: "2019-03-09"
 layout: transcript
 topics:

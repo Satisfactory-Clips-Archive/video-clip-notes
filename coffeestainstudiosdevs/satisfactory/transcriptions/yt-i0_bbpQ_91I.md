@@ -1,5 +1,5 @@
 ---
-title: "Q&A: The game needs small Flying Vehicles to travel long distance?"
+title: "September 8th, 2020 Livestream Q&A: The game needs small Flying Vehicles to travel long distance?"
 date: "2020-09-08"
 layout: transcript
 topics:

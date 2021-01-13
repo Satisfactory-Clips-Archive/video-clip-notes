@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Story need a new Save File?"
+title: "November 10th, 2020 Livestream Q&A: Will Story need a new Save File?"
 date: "2020-11-10"
 layout: transcript
 topics:

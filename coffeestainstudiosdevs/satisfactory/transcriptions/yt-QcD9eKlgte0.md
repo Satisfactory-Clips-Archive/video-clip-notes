@@ -1,5 +1,5 @@
 ---
-title: "Jace Talk: Multiplayer experience vs. Dedicated Server"
+title: "December 8th, 2020 Livestream Jace Talk: Multiplayer experience vs. Dedicated Server"
 date: "2020-12-08"
 layout: transcript
 topics:

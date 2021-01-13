@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Updates about Dedicated Servers?"
+title: "November 17th, 2020 Livestream Q&A: Updates about Dedicated Servers?"
 date: "2020-11-17"
 layout: transcript
 topics:

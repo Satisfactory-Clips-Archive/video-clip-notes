@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Model of the Explorer seems incomplete?"
+title: "January 12th, 2021 Livestream Q&A: Model of the Explorer seems incomplete?"
 date: "2021-01-12"
 layout: transcript
 topics:

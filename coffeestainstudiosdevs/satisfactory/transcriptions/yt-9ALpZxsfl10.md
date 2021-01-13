@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Somersloop"
+title: "March 9th, 2019 Livestream Snutt Talk: Somersloop"
 date: "2019-03-09"
 layout: transcript
 topics:

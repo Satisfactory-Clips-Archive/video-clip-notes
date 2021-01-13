@@ -1,5 +1,5 @@
 ---
-title: "Jace & Snutt Talk: Mk.1 Pumps"
+title: "October 27th, 2020 Livestream Jace & Snutt Talk: Mk.1 Pumps"
 date: "2020-10-27"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any news on big Crab monster?"
+title: "November 17th, 2020 Livestream Q&A: Any news on big Crab monster?"
 date: "2020-11-17"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Control Console with a simple representation of the Remote Plants?"
+title: "September 29th, 2020 Livestream Q&A: Control Console with a simple representation of the Remote Plants?"
 date: "2020-09-29"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Satisfactory get Ray Tracing?"
+title: "November 3rd, 2020 Livestream Q&A: Will Satisfactory get Ray Tracing?"
 date: "2020-11-03"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we have a natural healing area in the Hub?"
+title: "September 15th, 2020 Livestream Q&A: Can we have a natural healing area in the Hub?"
 date: "2020-09-15"
 layout: transcript
 topics:

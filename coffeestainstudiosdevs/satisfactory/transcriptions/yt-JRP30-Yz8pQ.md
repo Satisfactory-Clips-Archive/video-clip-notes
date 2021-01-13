@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Mods be downloadable in-game?"
+title: "November 24th, 2020 Livestream Q&A: Will Mods be downloadable in-game?"
 date: "2020-11-24"
 layout: transcript
 topics:

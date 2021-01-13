@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Jeff Goldblum narrate 1.0?"
+title: "October 13th, 2020 Livestream Q&A: Will Jeff Goldblum narrate 1.0?"
 date: "2020-10-13"
 layout: transcript
 topics:

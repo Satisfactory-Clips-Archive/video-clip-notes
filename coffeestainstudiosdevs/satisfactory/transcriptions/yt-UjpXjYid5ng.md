@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you guys have any plans for wrangling Lizard Doggos?"
+title: "September 22nd, 2020 Livestream Q&A: Do you guys have any plans for wrangling Lizard Doggos?"
 date: "2020-09-22"
 layout: transcript
 topics:

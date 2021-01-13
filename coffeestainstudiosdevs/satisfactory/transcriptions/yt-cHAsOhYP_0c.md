@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When you showcase removed stuff can you speak a little bit about why it was removed?"
+title: "December 8th, 2020 Livestream Q&A: When you showcase removed stuff can you speak a little bit about why it was removed?"
 date: "2020-12-08"
 layout: transcript
 topics:

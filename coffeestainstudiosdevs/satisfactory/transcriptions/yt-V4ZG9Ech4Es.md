@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are Sanctum and Satisfactory in the same Universe?"
+title: "September 8th, 2020 Livestream Q&A: Are Sanctum and Satisfactory in the same Universe?"
 date: "2020-09-08"
 layout: transcript
 topics:

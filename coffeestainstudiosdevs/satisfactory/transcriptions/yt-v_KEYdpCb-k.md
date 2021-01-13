@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Elevator for Vehicles & Players?"
+title: "September 8th, 2020 Livestream Q&A: Elevator for Vehicles & Players?"
 date: "2020-09-08"
 layout: transcript
 topics:

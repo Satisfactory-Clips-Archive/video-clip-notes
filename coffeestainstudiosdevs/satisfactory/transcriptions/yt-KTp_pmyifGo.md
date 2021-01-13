@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you guys going to make a Player Elevator?"
+title: "September 15th, 2020 Livestream Q&A: Are you guys going to make a Player Elevator?"
 date: "2020-09-15"
 layout: transcript
 topics:

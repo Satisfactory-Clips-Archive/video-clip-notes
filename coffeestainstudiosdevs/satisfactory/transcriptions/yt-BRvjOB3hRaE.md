@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Dedicated Servers don't need to wait for an Update?"
+title: "September 22nd, 2020 Livestream Q&A: Dedicated Servers don't need to wait for an Update?"
 date: "2020-09-22"
 layout: transcript
 topics:

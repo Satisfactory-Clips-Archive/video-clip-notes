@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Satisfactory / Sanctum cross-over?"
+title: "September 15th, 2020 Livestream Q&A: Satisfactory / Sanctum cross-over?"
 date: "2020-09-15"
 layout: transcript
 topics:

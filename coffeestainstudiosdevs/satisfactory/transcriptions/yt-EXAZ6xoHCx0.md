@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: FICS⁕MAS"
+title: "December 1st, 2020 Livestream Snutt & Jace Talk: FICS⁕MAS"
 date: "2020-12-01"
 layout: transcript
 topics:

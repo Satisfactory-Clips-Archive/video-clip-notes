@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will you add any Monsters/Bosses in the future?"
+title: "September 15th, 2020 Livestream Q&A: Will you add any Monsters/Bosses in the future?"
 date: "2020-09-15"
 layout: transcript
 topics:

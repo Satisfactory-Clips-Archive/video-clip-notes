@@ -1,12 +1,12 @@
 ---
-title: "Snut Talk: The Pipes Indicator"
+title: "September 29th, 2020 Livestream Snutt Talk: The Pipes Indicator"
 date: "2020-09-29"
 layout: transcript
 topics:
     - "features/buildings"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
-## Snut Talk: The Pipes Indicator
+## Snutt Talk: The Pipes Indicator
 https://www.youtube.com/watch?v=MhUCod36x7Y
 > this to those sorry oh one another fun
 > 

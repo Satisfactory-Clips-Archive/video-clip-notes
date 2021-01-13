@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When is the Hub bed going to work like the Minecraft one?"
+title: "October 6th, 2020 Livestream Q&A: When is the Hub bed going to work like the Minecraft one?"
 date: "2020-10-06"
 layout: transcript
 topics:

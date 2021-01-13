@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Merch - The Cup"
+title: "September 29th, 2020 Livestream Q&A: Merch - The Cup"
 date: "2020-09-29"
 layout: transcript
 topics:

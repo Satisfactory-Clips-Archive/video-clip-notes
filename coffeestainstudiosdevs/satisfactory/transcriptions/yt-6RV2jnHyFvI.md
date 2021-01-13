@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there something you'll never add to the game that you recommend Modders add instead?"
+title: "November 10th, 2020 Livestream Q&A: Is there something you'll never add to the game that you recommend Modders add instead?"
 date: "2020-11-10"
 layout: transcript
 topics:

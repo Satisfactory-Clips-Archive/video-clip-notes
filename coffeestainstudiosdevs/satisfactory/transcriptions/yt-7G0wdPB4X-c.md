@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will you be able to upgrade Splitters to Smart/Programmable Splitters?"
+title: "October 20th, 2020 Livestream Q&A: Will you be able to upgrade Splitters to Smart/Programmable Splitters?"
 date: "2020-10-20"
 layout: transcript
 topics:

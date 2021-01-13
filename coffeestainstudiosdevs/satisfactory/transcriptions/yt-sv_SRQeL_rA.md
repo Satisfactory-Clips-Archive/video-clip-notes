@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans for Construction Drones?"
+title: "October 20th, 2020 Livestream Q&A: Any plans for Construction Drones?"
 date: "2020-10-20"
 layout: transcript
 topics:

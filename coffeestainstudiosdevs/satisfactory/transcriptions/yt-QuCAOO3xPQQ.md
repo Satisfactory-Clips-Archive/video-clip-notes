@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there any features you guys really want in the game but you can't/won't add?"
+title: "October 20th, 2020 Livestream Q&A: Are there any features you guys really want in the game but you can't/won't add?"
 date: "2020-10-20"
 layout: transcript
 topics:

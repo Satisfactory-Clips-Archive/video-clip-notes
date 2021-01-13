@@ -1,5 +1,5 @@
 ---
-title: "Trolling: Ray Tracing"
+title: "November 17th, 2020 Livestream Trolling: Ray Tracing"
 date: "2020-11-17"
 layout: transcript
 topics:

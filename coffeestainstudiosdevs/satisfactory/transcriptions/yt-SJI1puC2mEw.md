@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?"
+title: "November 10th, 2020 Livestream Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?"
 date: "2020-11-10"
 layout: transcript
 topics:

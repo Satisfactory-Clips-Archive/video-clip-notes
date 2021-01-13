@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When will Merch shipping worldwide be possible?"
+title: "January 12th, 2021 Livestream Q&A: When will Merch shipping worldwide be possible?"
 date: "2021-01-12"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When does the Toilet Paper DLC come out?"
+title: "November 10th, 2020 Livestream Q&A: When does the Toilet Paper DLC come out?"
 date: "2020-11-10"
 layout: transcript
 topics:

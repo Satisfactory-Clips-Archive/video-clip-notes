@@ -1,5 +1,5 @@
 ---
-title: "Trolling: Flushing Toilet paid DLC"
+title: "November 17th, 2020 Livestream Trolling: Flushing Toilet paid DLC"
 date: "2020-11-17"
 layout: transcript
 topics:

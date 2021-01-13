@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Lizard Doggo plushie when?"
+title: "March 9th, 2019 Livestream Q&A: Lizard Doggo plushie when?"
 date: "2019-03-09"
 layout: transcript
 topics:

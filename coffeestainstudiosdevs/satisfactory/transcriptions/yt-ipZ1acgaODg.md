@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why not make a giant-ass World & Open Multiplayer?"
+title: "September 8th, 2020 Livestream Q&A: Why not make a giant-ass World & Open Multiplayer?"
 date: "2020-09-08"
 layout: transcript
 topics:

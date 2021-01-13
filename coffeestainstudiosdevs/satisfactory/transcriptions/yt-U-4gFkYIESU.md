@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Guitars"
+title: "December 15th, 2020 Livestream Snutt Talk: Guitars"
 date: "2020-12-15"
 layout: transcript
 topics:

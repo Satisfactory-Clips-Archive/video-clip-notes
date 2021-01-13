@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will you incorporate any mods into the base game?"
+title: "October 6th, 2020 Livestream Q&A: Will you incorporate any mods into the base game?"
 date: "2020-10-06"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why is there only Female option and no Doggo option?"
+title: "September 22nd, 2020 Livestream Q&A: Why is there only Female option and no Doggo option?"
 date: "2020-09-22"
 layout: transcript
 topics:

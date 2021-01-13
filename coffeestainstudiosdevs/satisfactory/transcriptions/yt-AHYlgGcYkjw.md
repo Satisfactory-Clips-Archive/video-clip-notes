@@ -1,5 +1,5 @@
 ---
-title: "Q&A: If they refunded how could you get so many screenshots for FICS⁕MAS?"
+title: "December 8th, 2020 Livestream Q&A: If they refunded how could you get so many screenshots for FICS⁕MAS?"
 date: "2020-12-08"
 layout: transcript
 topics:

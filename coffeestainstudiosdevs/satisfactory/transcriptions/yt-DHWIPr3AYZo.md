@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When are you guys adding back maps?"
+title: "March 9th, 2019 Livestream Q&A: When are you guys adding back maps?"
 date: "2019-03-09"
 layout: transcript
 topics:

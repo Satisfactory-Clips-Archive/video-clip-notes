@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Walls & Handrails, be able to place like Pipes?"
+title: "December 15th, 2020 Livestream Q&A: Walls & Handrails, be able to place like Pipes?"
 date: "2020-12-15"
 layout: transcript
 topics:

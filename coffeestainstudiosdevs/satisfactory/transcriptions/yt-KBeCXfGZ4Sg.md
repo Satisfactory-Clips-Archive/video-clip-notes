@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Scrolling through your items?"
+title: "September 22nd, 2020 Livestream Q&A: Scrolling through your items?"
 date: "2020-09-22"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Jace Talk: Multiplayer Bugs vs. Dedicated Servers"
+title: "October 20th, 2020 Livestream Jace Talk: Multiplayer Bugs vs. Dedicated Servers"
 date: "2020-10-20"
 layout: transcript
 topics:

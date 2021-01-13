@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we theoretically make a Mod that reduces Constructor Object numbers?"
+title: "November 10th, 2020 Livestream Q&A: Can we theoretically make a Mod that reduces Constructor Object numbers?"
 date: "2020-11-10"
 layout: transcript
 topics:

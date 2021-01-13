@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Lamposts be copy/pasted from the mods be copy/pasted like Fluid Packager was copy/pasted?"
+title: "November 10th, 2020 Livestream Q&A: Lamposts be copy/pasted from the mods be copy/pasted like Fluid Packager was copy/pasted?"
 date: "2020-11-10"
 layout: transcript
 topics:

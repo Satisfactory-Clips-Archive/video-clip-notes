@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any news on EU Merch?"
+title: "September 15th, 2020 Livestream Q&A: Any news on EU Merch?"
 date: "2020-09-15"
 layout: transcript
 topics:

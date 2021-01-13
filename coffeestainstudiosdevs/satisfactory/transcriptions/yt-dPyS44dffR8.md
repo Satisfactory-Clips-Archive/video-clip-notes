@@ -1,5 +1,5 @@
 ---
-title: "Jace Talk: Merch Shipping outside of the US"
+title: "October 20th, 2020 Livestream Jace Talk: Merch Shipping outside of the US"
 date: "2020-10-20"
 layout: transcript
 topics:

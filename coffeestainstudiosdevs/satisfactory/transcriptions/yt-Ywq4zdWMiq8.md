@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will Blueprints be a thing at some point?"
+title: "September 29th, 2020 Livestream Q&A: Will Blueprints be a thing at some point?"
 date: "2020-09-29"
 layout: transcript
 topics:

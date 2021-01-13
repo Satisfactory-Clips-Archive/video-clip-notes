@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any word on merging platforms to reduce object count?"
+title: "October 27th, 2020 Livestream Q&A: Any word on merging platforms to reduce object count?"
 date: "2020-10-27"
 layout: transcript
 topics:

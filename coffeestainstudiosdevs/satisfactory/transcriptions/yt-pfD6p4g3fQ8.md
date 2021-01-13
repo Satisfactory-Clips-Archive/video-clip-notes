@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will this game come out on Console at some point?"
+title: "September 8th, 2020 Livestream Q&A: Will this game come out on Console at some point?"
 date: "2020-09-08"
 layout: transcript
 topics:

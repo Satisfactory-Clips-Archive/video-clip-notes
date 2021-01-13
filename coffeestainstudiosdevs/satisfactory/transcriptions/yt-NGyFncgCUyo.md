@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Please give us tips to decrease/avoid Multiplayer delays?"
+title: "January 12th, 2021 Livestream Q&A: Please give us tips to decrease/avoid Multiplayer delays?"
 date: "2021-01-12"
 layout: transcript
 topics:

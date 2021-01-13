@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there a reason for a lack of Dedicated Server builds?"
+title: "December 8th, 2020 Livestream Q&A: Is there a reason for a lack of Dedicated Server builds?"
 date: "2020-12-08"
 layout: transcript
 topics:

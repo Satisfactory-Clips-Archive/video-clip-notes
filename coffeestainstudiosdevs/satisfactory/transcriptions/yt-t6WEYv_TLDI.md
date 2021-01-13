@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do you plan on some cutscenes for the Story?"
+title: "November 3rd, 2020 Livestream Q&A: Do you plan on some cutscenes for the Story?"
 date: "2020-11-03"
 layout: transcript
 topics:

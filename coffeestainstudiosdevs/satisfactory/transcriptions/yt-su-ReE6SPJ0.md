@@ -1,5 +1,5 @@
 ---
-title: "Jace Talk: Winter Hibernation"
+title: "December 8th, 2020 Livestream Jace Talk: Winter Hibernation"
 date: "2020-12-08"
 layout: transcript
 topics:

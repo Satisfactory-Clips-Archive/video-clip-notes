@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Should I remove all nature to improve FPS?"
+title: "September 8th, 2020 Livestream Q&A: Should I remove all nature to improve FPS?"
 date: "2020-09-08"
 layout: transcript
 topics:

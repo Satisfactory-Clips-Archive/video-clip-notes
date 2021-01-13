@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any chance of you putting a daily limit in the game?"
+title: "September 8th, 2020 Livestream Q&A: Any chance of you putting a daily limit in the game?"
 date: "2020-09-08"
 layout: transcript
 topics:

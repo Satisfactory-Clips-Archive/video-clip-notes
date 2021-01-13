@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans on having Vehicles not constantly make gear-shifting noises?"
+title: "November 10th, 2020 Livestream Q&A: Any plans on having Vehicles not constantly make gear-shifting noises?"
 date: "2020-11-10"
 layout: transcript
 topics:

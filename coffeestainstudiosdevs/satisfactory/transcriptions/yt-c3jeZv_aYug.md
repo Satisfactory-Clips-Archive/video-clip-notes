@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there going to be new Creatures?"
+title: "November 3rd, 2020 Livestream Q&A: Are there going to be new Creatures?"
 date: "2020-11-03"
 layout: transcript
 topics:

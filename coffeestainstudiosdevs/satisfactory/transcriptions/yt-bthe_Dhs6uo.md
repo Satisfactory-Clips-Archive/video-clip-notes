@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Achievements system?"
+title: "November 10th, 2020 Livestream Q&A: Achievements system?"
 date: "2020-11-10"
 layout: transcript
 topics:

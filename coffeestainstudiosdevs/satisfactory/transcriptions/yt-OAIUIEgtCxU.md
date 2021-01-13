@@ -1,5 +1,5 @@
 ---
-title: "Snutt, Simon, & Jace Talk: Space Potato"
+title: "March 9th, 2019 Livestream Snutt, Simon, & Jace Talk: Space Potato"
 date: "2019-03-09"
 layout: transcript
 topics:

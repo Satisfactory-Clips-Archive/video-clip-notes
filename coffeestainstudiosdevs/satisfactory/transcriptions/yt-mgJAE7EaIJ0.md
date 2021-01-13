@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can you add a F1 key option for bug reports?"
+title: "November 10th, 2020 Livestream Q&A: Can you add a F1 key option for bug reports?"
 date: "2020-11-10"
 layout: transcript
 topics:

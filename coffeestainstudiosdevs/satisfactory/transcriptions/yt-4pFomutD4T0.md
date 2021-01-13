@@ -1,5 +1,5 @@
 ---
-title: "Q&A: When are we getting an Alternate Recipe for Paint so we can automate it ?"
+title: "November 17th, 2020 Livestream Q&A: When are we getting an Alternate Recipe for Paint so we can automate it ?"
 date: "2020-11-17"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we blend Lizard Doggos in the new Blender?"
+title: "January 12th, 2021 Livestream Q&A: Can we blend Lizard Doggos in the new Blender?"
 date: "2021-01-12"
 layout: transcript
 topics:

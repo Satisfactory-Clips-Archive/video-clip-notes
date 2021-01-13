@@ -1,5 +1,5 @@
 ---
-title: "Jace Talk: Space Elevator"
+title: "March 9th, 2019 Livestream Jace Talk: Space Elevator"
 date: "2019-03-09"
 layout: transcript
 topics:

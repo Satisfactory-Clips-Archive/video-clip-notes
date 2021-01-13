@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans for bigger foundations?"
+title: "September 1st, 2020 Livestream Q&A: Any plans for bigger foundations?"
 date: "2020-09-01"
 layout: transcript
 topics:

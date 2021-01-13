@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get multiple Hubs?"
+title: "October 20th, 2020 Livestream Q&A: Can we get multiple Hubs?"
 date: "2020-10-20"
 layout: transcript
 topics:

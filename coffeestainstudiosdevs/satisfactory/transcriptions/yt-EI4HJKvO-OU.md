@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Pollution is a thing?"
+title: "September 8th, 2020 Livestream Q&A: Pollution is a thing?"
 date: "2020-09-08"
 layout: transcript
 topics:

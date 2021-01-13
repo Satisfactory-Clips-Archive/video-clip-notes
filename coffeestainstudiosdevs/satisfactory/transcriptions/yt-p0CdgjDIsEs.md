@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Could you add more Build pieces every week?"
+title: "November 3rd, 2020 Livestream Q&A: Could you add more Build pieces every week?"
 date: "2020-11-03"
 layout: transcript
 topics:

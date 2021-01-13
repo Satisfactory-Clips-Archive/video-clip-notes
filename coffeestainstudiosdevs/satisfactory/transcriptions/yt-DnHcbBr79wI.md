@@ -1,5 +1,5 @@
 ---
-title: "Snutt & Jace Talk: Dan Harmon plays Satisfactory"
+title: "January 12th, 2021 Livestream Snutt & Jace Talk: Dan Harmon plays Satisfactory"
 date: "2021-01-12"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is Console support coming?"
+title: "November 17th, 2020 Livestream Q&A: Is Console support coming?"
 date: "2020-11-17"
 layout: transcript
 topics:

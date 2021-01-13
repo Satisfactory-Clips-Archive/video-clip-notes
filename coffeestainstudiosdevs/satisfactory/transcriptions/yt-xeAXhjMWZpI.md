@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is it going to be possible to create randomly generated Resources on the Map?"
+title: "November 3rd, 2020 Livestream Q&A: Is it going to be possible to create randomly generated Resources on the Map?"
 date: "2020-11-03"
 layout: transcript
 topics:

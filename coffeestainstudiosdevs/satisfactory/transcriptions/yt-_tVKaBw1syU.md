@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What is the current state of the \"click & drag\" creation debate?"
+title: "November 17th, 2020 Livestream Q&A: What is the current state of the \"click & drag\" creation debate?"
 date: "2020-11-17"
 layout: transcript
 topics:

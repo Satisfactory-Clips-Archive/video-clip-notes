@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will we have Steam Workshop on Steam?"
+title: "September 8th, 2020 Livestream Q&A: Will we have Steam Workshop on Steam?"
 date: "2020-09-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What's the secret behind S.A.M. Ore?"
+title: "October 20th, 2020 Livestream Q&A: What's the secret behind S.A.M. Ore?"
 date: "2020-10-20"
 layout: transcript
 topics:

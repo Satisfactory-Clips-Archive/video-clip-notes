@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How many Devs are working on the Game approximately?"
+title: "September 15th, 2020 Livestream Q&A: How many Devs are working on the Game approximately?"
 date: "2020-09-15"
 layout: transcript
 topics:

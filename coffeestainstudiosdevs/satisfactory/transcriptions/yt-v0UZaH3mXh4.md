@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible?"
+title: "September 22nd, 2020 Livestream Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible?"
 date: "2020-09-22"
 layout: transcript
 topics:

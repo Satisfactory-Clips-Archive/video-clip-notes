@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans for a helicopter so we don't have to turn into spaghetti to get across the map?"
+title: "November 10th, 2020 Livestream Q&A: Any plans for a helicopter so we don't have to turn into spaghetti to get across the map?"
 date: "2020-11-10"
 layout: transcript
 topics:

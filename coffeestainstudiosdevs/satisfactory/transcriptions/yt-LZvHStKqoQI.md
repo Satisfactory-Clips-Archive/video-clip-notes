@@ -1,5 +1,5 @@
 ---
-title: "Q&A: A hard-reset option for the paint presets used for the painted surfaces"
+title: "September 8th, 2020 Livestream Q&A: A hard-reset option for the paint presets used for the painted surfaces"
 date: "2020-09-08"
 layout: transcript
 topics:

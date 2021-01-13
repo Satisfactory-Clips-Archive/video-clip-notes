@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans to let us cycle through Foundation thickness with the R key?"
+title: "October 27th, 2020 Livestream Q&A: Any plans to let us cycle through Foundation thickness with the R key?"
 date: "2020-10-27"
 layout: transcript
 topics:

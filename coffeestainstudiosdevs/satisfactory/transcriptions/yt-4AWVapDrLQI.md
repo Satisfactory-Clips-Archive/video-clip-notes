@@ -1,5 +1,5 @@
 ---
-title: "Jace & Snutt Talk: Early Access Games"
+title: "September 15th, 2020 Livestream Jace & Snutt Talk: Early Access Games"
 date: "2020-09-15"
 layout: transcript
 topics:

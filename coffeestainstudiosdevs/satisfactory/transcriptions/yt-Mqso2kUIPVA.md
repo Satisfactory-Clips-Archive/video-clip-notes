@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get the stream starting video as the main menu?"
+title: "September 8th, 2020 Livestream Q&A: Can we get the stream starting video as the main menu?"
 date: "2020-09-08"
 layout: transcript
 topics:

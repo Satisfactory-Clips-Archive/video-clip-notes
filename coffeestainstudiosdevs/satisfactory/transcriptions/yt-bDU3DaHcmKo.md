@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What about a Jet Pack one that gives a small bonus of surviving a fall?"
+title: "March 9th, 2019 Livestream Q&A: What about a Jet Pack one that gives a small bonus of surviving a fall?"
 date: "2019-03-09"
 layout: transcript
 topics:

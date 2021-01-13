@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans for better Belts for Pure nodes?"
+title: "November 3rd, 2020 Livestream Q&A: Any plans for better Belts for Pure nodes?"
 date: "2020-11-03"
 layout: transcript
 topics:

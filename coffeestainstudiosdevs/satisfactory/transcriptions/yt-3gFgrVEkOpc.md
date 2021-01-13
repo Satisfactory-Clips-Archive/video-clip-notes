@@ -1,5 +1,5 @@
 ---
-title: "Snutt, Simon, Jace Talk: Don't shit in the storage box"
+title: "March 9th, 2019 Livestream Snutt, Simon, Jace Talk: Don't shit in the storage box"
 date: "2019-03-09"
 layout: transcript
 topics:

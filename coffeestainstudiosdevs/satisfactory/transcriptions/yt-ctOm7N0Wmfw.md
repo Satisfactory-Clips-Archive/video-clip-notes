@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any way we can get closed captions for the stream?"
+title: "November 10th, 2020 Livestream Q&A: Any way we can get closed captions for the stream?"
 date: "2020-11-10"
 layout: transcript
 topics:

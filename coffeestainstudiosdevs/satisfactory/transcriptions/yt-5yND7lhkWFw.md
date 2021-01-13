@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why are the weird 4-legged pigeon things bouncy?"
+title: "October 20th, 2020 Livestream Q&A: Why are the weird 4-legged pigeon things bouncy?"
 date: "2020-10-20"
 layout: transcript
 topics:

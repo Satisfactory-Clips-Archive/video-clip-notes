@@ -1,5 +1,5 @@
 ---
-title: "Jace & Snutt Talk: Unconventional usage of Vehicles"
+title: "October 6th, 2020 Livestream Jace & Snutt Talk: Unconventional usage of Vehicles"
 date: "2020-10-06"
 layout: transcript
 topics:

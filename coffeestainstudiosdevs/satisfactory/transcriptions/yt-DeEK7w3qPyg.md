@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Releasing a Vinyl on the Merch Store ?"
+title: "September 8th, 2020 Livestream Q&A: Releasing a Vinyl on the Merch Store ?"
 date: "2020-09-08"
 layout: transcript
 topics:

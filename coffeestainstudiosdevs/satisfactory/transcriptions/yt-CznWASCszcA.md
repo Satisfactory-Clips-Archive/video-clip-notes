@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be intelligent aliens?"
+title: "November 24th, 2020 Livestream Q&A: Will there be intelligent aliens?"
 date: "2020-11-24"
 layout: transcript
 topics:

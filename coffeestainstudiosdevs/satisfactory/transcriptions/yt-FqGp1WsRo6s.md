@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What about lights?"
+title: "September 1st, 2020 Livestream Q&A: What about lights?"
 date: "2020-09-01"
 layout: transcript
 topics:

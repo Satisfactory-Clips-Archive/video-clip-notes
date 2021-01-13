@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What's the Modular Build?"
+title: "November 3rd, 2020 Livestream Q&A: What's the Modular Build?"
 date: "2020-11-03"
 layout: transcript
 topics:

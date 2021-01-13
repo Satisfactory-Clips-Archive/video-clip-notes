@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we get Mobs that spawn near you and attack you?"
+title: "November 17th, 2020 Livestream Q&A: Can we get Mobs that spawn near you and attack you?"
 date: "2020-11-17"
 layout: transcript
 topics:

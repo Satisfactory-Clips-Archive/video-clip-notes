@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any quality-of-life stuff for platform placing or fluids?"
+title: "October 6th, 2020 Livestream Q&A: Any quality-of-life stuff for platform placing or fluids?"
 date: "2020-10-06"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any plans on adding Ladders?"
+title: "October 20th, 2020 Livestream Q&A: Any plans on adding Ladders?"
 date: "2020-10-20"
 layout: transcript
 topics:

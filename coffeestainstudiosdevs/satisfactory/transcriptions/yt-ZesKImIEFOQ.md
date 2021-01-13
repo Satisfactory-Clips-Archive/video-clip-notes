@@ -1,5 +1,5 @@
 ---
-title: "Q&A: There's a cracked version of the game on offer but it's just a virus"
+title: "March 9th, 2019 Livestream Q&A: There's a cracked version of the game on offer but it's just a virus"
 date: "2019-03-09"
 layout: transcript
 topics:

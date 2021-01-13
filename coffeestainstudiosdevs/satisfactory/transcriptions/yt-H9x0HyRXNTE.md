@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How big is the Dev Team?"
+title: "September 29th, 2020 Livestream Q&A: How big is the Dev Team?"
 date: "2020-09-29"
 layout: transcript
 topics:

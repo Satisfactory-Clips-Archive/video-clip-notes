@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Dedicated Servers are kinda useless when you don't have friends"
+title: "October 20th, 2020 Livestream Q&A: Dedicated Servers are kinda useless when you don't have friends"
 date: "2020-10-20"
 layout: transcript
 topics:

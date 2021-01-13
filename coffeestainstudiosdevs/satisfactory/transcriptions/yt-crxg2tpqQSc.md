@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Which studio has the goofiest Community Managers?"
+title: "December 8th, 2020 Livestream Q&A: Which studio has the goofiest Community Managers?"
 date: "2020-12-08"
 layout: transcript
 topics:

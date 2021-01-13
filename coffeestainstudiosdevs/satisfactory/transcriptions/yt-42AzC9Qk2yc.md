@@ -1,5 +1,5 @@
 ---
-title: "Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?"
+title: "December 8th, 2020 Livestream Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?"
 date: "2020-12-08"
 layout: transcript
 topics:

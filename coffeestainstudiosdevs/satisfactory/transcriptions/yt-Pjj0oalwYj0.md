@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will the Packager input/output orientation be changed before it goes to Early Access?"
+title: "November 3rd, 2020 Livestream Q&A: Will the Packager input/output orientation be changed before it goes to Early Access?"
 date: "2020-11-03"
 layout: transcript
 topics:

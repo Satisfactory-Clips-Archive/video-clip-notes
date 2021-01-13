@@ -1,5 +1,5 @@
 ---
-title: "Q&A: I'm not asking for a change, but why Beacons to craft Bullets?"
+title: "September 8th, 2020 Livestream Q&A: I'm not asking for a change, but why Beacons to craft Bullets?"
 date: "2020-09-08"
 layout: transcript
 topics:

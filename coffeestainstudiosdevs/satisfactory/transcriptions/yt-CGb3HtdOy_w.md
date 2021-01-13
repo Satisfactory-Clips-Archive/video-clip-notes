@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Release date this month or next month?"
+title: "October 13th, 2020 Livestream Q&A: Release date this month or next month?"
 date: "2020-10-13"
 layout: transcript
 topics:

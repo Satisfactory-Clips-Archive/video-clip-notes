@@ -1,5 +1,5 @@
 ---
-title: "State of Dev: Mug Merch"
+title: "January 12th, 2021 Livestream State of Dev: Mug Merch"
 date: "2021-01-12"
 layout: transcript
 topics:

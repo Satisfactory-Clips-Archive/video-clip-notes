@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Weather in Satisfactory?"
+title: "September 22nd, 2020 Livestream Q&A: Weather in Satisfactory?"
 date: "2020-09-22"
 layout: transcript
 topics:

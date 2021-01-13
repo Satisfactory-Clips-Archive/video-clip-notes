@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is it possible to use the add to-do list without visiting the crafting bench?"
+title: "October 13th, 2020 Livestream Q&A: Is it possible to use the add to-do list without visiting the crafting bench?"
 date: "2020-10-13"
 layout: transcript
 topics:

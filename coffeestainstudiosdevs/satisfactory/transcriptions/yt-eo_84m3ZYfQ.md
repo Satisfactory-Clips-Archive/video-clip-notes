@@ -1,8 +1,9 @@
 ---
-title: "Q&A: Any plans for randomly generated worlds / Procedurally Generated maps?"
+title: "September 15th, 2020 Livestream Q&A: Any plans for randomly generated worlds / Procedurally Generated maps?"
 date: "2020-09-15"
 layout: transcript
 topics:
+    - "features/unplanned-features/procedural-generation"
     - "environment/world-map"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)

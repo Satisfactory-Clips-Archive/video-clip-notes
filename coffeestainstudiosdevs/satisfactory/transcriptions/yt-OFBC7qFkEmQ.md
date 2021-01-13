@@ -1,8 +1,9 @@
 ---
-title: "Jace & Snutt Talk: Phobia Modes & Accessibility"
+title: "September 8th, 2020 Livestream Jace & Snutt Talk: Phobia Modes & Accessibility"
 date: "2020-09-08"
 layout: transcript
 topics:
+    - "accessibility/arachnophobia-mode"
     - "features/accessibility"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)

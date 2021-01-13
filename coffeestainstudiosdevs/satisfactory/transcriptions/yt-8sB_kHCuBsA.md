@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What are the points on the Q&A Site?"
+title: "November 10th, 2020 Livestream Q&A: What are the points on the Q&A Site?"
 date: "2020-11-10"
 layout: transcript
 topics:

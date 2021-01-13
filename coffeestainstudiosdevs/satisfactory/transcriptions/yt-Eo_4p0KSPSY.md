@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there a plan to deal with Nuclear Waste?"
+title: "September 15th, 2020 Livestream Q&A: Is there a plan to deal with Nuclear Waste?"
 date: "2020-09-15"
 layout: transcript
 topics:

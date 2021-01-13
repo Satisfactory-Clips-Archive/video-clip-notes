@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will there be a Peacfull Mode with no Hostile Creatures?"
+title: "September 8th, 2020 Livestream Q&A: Will there be a Peacfull Mode with no Hostile Creatures?"
 date: "2020-09-08"
 layout: transcript
 topics:

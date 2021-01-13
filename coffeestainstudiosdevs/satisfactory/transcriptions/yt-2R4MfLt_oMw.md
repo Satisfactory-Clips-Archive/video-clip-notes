@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Would implementing covered belts reduce the number of objects in the world?"
+title: "September 22nd, 2020 Livestream Q&A: Would implementing covered belts reduce the number of objects in the world?"
 date: "2020-09-22"
 layout: transcript
 topics:

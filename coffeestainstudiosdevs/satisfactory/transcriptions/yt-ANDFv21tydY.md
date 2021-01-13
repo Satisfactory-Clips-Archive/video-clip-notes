@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are there going to be Lore teasers in the Game before launch?"
+title: "September 22nd, 2020 Livestream Q&A: Are there going to be Lore teasers in the Game before launch?"
 date: "2020-09-22"
 layout: transcript
 topics:

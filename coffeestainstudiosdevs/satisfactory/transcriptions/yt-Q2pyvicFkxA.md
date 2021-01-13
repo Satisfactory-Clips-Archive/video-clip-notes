@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there any plans for Steam?"
+title: "March 9th, 2019 Livestream Q&A: Is there any plans for Steam?"
 date: "2019-03-09"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content?"
+title: "September 1st, 2020 Livestream Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content?"
 date: "2020-09-01"
 layout: transcript
 topics:

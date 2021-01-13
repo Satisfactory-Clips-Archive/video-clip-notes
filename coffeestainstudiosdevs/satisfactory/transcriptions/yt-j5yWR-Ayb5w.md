@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Do we have support for Ultra-wide Monitors?"
+title: "November 10th, 2020 Livestream Q&A: Do we have support for Ultra-wide Monitors?"
 date: "2020-11-10"
 layout: transcript
 topics:

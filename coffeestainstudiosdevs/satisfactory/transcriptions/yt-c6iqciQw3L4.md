@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What if Modders will optimise your game more than you?"
+title: "September 8th, 2020 Livestream Q&A: What if Modders will optimise your game more than you?"
 date: "2020-09-08"
 layout: transcript
 topics:

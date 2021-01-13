@@ -1,5 +1,5 @@
 ---
-title: "Q&A: The maze?"
+title: "January 12th, 2021 Livestream Q&A: The maze?"
 date: "2021-01-12"
 layout: transcript
 topics:

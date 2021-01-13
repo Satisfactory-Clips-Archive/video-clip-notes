@@ -1,5 +1,5 @@
 ---
-title: "Q&A: The game is not done until I can flush the toilet?"
+title: "January 12th, 2021 Livestream Q&A: The game is not done until I can flush the toilet?"
 date: "2021-01-12"
 layout: transcript
 topics:

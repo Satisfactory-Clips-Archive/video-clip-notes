@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why did you change the minimum length of Pipes ?"
+title: "November 17th, 2020 Livestream Q&A: Why did you change the minimum length of Pipes ?"
 date: "2020-11-17"
 layout: transcript
 topics:

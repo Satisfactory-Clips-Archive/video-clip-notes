@@ -1,5 +1,5 @@
 ---
-title: "Q&A: If you have a full inventory you can remove just a single tree but you don't get the resources?"
+title: "October 6th, 2020 Livestream Q&A: If you have a full inventory you can remove just a single tree but you don't get the resources?"
 date: "2020-10-06"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why can't you deselect items when you've selected them?"
+title: "December 15th, 2020 Livestream Q&A: Why can't you deselect items when you've selected them?"
 date: "2020-12-15"
 layout: transcript
 topics:

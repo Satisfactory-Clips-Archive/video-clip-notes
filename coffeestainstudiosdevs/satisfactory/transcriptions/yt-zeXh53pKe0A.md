@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Jetpack needs a Hover Mode?"
+title: "September 8th, 2020 Livestream Q&A: Jetpack needs a Hover Mode?"
 date: "2020-09-08"
 layout: transcript
 topics:

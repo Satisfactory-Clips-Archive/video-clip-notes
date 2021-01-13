@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can you give one more time on the materials costs?"
+title: "October 13th, 2020 Livestream Q&A: Can you give one more time on the materials costs?"
 date: "2020-10-13"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Will these streams be a regular thing during Early Access phase?"
+title: "March 9th, 2019 Livestream Q&A: Will these streams be a regular thing during Early Access phase?"
 date: "2019-03-09"
 layout: transcript
 topics:

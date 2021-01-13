@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Fluid Update seems a bit bigger than I thought?"
+title: "October 13th, 2020 Livestream Q&A: Fluid Update seems a bit bigger than I thought?"
 date: "2020-10-13"
 layout: transcript
 topics:

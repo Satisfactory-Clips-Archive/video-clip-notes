@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Steam Workshop support ?"
+title: "September 1st, 2020 Livestream Q&A: Steam Workshop support ?"
 date: "2020-09-01"
 layout: transcript
 topics:

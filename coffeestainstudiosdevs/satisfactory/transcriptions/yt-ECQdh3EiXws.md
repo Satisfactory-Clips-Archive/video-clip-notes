@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Better Multiplayer support?"
+title: "November 17th, 2020 Livestream Q&A: Better Multiplayer support?"
 date: "2020-11-17"
 layout: transcript
 topics:

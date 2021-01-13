@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Can we can expect a dev *blog* article about the Engine changes?"
+title: "December 8th, 2020 Livestream Q&A: Can we can expect a dev *blog* article about the Engine changes?"
 date: "2020-12-08"
 layout: transcript
 topics:

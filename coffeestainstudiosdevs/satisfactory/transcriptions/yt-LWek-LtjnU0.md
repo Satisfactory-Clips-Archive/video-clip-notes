@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any new Ores coming to the game?"
+title: "October 13th, 2020 Livestream Q&A: Any new Ores coming to the game?"
 date: "2020-10-13"
 layout: transcript
 topics:

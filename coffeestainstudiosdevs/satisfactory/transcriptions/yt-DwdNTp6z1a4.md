@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: the most important part of the HUB"
+title: "March 9th, 2019 Livestream Snutt Talk: the most important part of the HUB"
 date: "2019-03-09"
 layout: transcript
 topics:

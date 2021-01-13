@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Why are we only Female in the game and no Male options?"
+title: "September 22nd, 2020 Livestream Q&A: Why are we only Female in the game and no Male options?"
 date: "2020-09-22"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Inpure Resource Nodes"
+title: "March 9th, 2019 Livestream Snutt Talk: Inpure Resource Nodes"
 date: "2019-03-09"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is the Early Access version the same version Alpha Testers have?"
+title: "March 9th, 2019 Livestream Q&A: Is the Early Access version the same version Alpha Testers have?"
 date: "2019-03-09"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?"
+title: "November 10th, 2020 Livestream Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?"
 date: "2020-11-10"
 layout: transcript
 topics:

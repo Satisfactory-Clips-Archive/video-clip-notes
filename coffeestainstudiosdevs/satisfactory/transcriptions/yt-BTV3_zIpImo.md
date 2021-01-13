@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Lizard Doggo work name"
+title: "March 9th, 2019 Livestream Snutt Talk: Lizard Doggo work name"
 date: "2019-03-09"
 layout: transcript
 topics:

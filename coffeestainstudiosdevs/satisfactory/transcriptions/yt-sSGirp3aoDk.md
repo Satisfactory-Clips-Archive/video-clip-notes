@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Has there been any community interest in Building mirror or flip options?"
+title: "October 13th, 2020 Livestream Q&A: Has there been any community interest in Building mirror or flip options?"
 date: "2020-10-13"
 layout: transcript
 topics:

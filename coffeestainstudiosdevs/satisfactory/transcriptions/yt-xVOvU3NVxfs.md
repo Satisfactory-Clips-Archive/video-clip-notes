@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Mac Release / Release to other platforms?"
+title: "November 10th, 2020 Livestream Q&A: Mac Release / Release to other platforms?"
 date: "2020-11-10"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you guys aware of how broken Rails are?"
+title: "November 17th, 2020 Livestream Q&A: Are you guys aware of how broken Rails are?"
 date: "2020-11-17"
 layout: transcript
 topics:

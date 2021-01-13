@@ -1,5 +1,5 @@
 ---
-title: "Q&A: About how many Updates will there be before 1.0?"
+title: "September 1st, 2020 Livestream Q&A: About how many Updates will there be before 1.0?"
 date: "2020-09-01"
 layout: transcript
 topics:

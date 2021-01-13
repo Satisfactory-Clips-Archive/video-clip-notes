@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are you happy with the progress of the game?"
+title: "September 1st, 2020 Livestream Q&A: Are you happy with the progress of the game?"
 date: "2020-09-01"
 layout: transcript
 topics:

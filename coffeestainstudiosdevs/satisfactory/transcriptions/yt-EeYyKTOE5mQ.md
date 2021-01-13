@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Strange Creature Mounts?"
+title: "November 10th, 2020 Livestream Q&A: Strange Creature Mounts?"
 date: "2020-11-10"
 layout: transcript
 topics:

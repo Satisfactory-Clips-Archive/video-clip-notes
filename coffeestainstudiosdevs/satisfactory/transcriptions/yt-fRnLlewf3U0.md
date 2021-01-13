@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What're your plans for looking at performance issues?"
+title: "September 8th, 2020 Livestream Q&A: What're your plans for looking at performance issues?"
 date: "2020-09-08"
 layout: transcript
 topics:

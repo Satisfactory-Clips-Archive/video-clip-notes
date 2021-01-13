@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What was with the song?"
+title: "October 27th, 2020 Livestream Q&A: What was with the song?"
 date: "2020-10-27"
 layout: transcript
 topics:

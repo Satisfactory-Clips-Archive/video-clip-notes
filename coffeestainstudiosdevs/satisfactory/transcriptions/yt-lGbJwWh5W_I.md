@@ -1,5 +1,5 @@
 ---
-title: "Q&A: What additions to Tier 7 might be coming & when ?"
+title: "September 8th, 2020 Livestream Q&A: What additions to Tier 7 might be coming & when ?"
 date: "2020-09-08"
 layout: transcript
 topics:

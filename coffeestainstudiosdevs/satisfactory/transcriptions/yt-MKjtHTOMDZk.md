@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Are Dedicated Servers part of Update 4?"
+title: "November 17th, 2020 Livestream Q&A: Are Dedicated Servers part of Update 4?"
 date: "2020-11-17"
 layout: transcript
 topics:

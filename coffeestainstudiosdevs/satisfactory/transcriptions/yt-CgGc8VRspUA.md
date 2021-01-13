@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is there a difference in performance between the Epic version and the Steam version?"
+title: "November 3rd, 2020 Livestream Q&A: Is there a difference in performance between the Epic version and the Steam version?"
 date: "2020-11-03"
 layout: transcript
 topics:

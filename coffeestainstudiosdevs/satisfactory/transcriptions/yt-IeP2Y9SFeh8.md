@@ -1,5 +1,5 @@
 ---
-title: "Snutt Talk: Belts, Pipes, and Hyper Tube max lengths"
+title: "September 8th, 2020 Livestream Snutt Talk: Belts, Pipes, and Hyper Tube max lengths"
 date: "2020-09-08"
 layout: transcript
 topics:

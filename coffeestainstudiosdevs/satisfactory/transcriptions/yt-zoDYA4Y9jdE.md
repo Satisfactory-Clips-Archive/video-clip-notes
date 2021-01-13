@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Releasing the Soundtrack on Spotify?"
+title: "September 8th, 2020 Livestream Q&A: Releasing the Soundtrack on Spotify?"
 date: "2020-09-08"
 layout: transcript
 topics:

@@ -1,5 +1,5 @@
 ---
-title: "Jace Talk: Players are still using their old save files"
+title: "November 3rd, 2020 Livestream Jace Talk: Players are still using their old save files"
 date: "2020-11-03"
 layout: transcript
 topics:
