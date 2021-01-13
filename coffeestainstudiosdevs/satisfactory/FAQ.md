@@ -1238,5 +1238,3 @@ date: Last Modified
 * Q&A: Can we get turrets and more PvE? https://www.youtube.com/watch?v=sJnuRV0OGF0
 * Q&A: When are you going to expand the map? https://www.youtube.com/watch?v=axmmm-ituSg
 * Q&A: Will there be a Snow Biome? https://www.youtube.com/watch?v=iyhdKRg1b0A
-
-
