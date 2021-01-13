@@ -1,3 +1,10 @@
+---
+title: "Q&A: Factorio has Belt multi-core?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - ""
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Factorio has Belt multi-core?
 https://www.youtube.com/watch?v=x3IazTW1yM8

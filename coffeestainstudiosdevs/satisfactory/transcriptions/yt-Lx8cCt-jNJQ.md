@@ -1,3 +1,10 @@
+---
+title: "Snutt Talk: Jace is a dedicated boi"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "coffee-stainers/jace"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Snutt Talk: Jace is a dedicated boi
 https://www.youtube.com/watch?v=Lx8cCt-jNJQ

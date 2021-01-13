@@ -1,3 +1,7 @@
+---
+title: "Satisfactory Updates > Pending > Satisfactory 1.0"
+date: Last Modified
+---
 [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory 1.0
 
 # December 15th, 2020 Livestream

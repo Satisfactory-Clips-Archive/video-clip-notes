@@ -1,3 +1,10 @@
+---
+title: "Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - ""
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?
 https://www.youtube.com/watch?v=a1eSZz7wksU

@@ -1,3 +1,7 @@
+---
+title: "Q&A Clips Archive - Frequently Asked Questions"
+date: Last Modified
+---
 # Accessibility
 
 ## September 22nd, 2020
@@ -33,6 +37,12 @@
 
 ## November 17th, 2020
 * Trolling: Flying Vehicles in Update 4 https://www.youtube.com/watch?v=E666WdfoeP0
+
+
+# Arachnophobia Mode
+
+## September 22nd, 2020
+* Q&A: Can we get more cat variety? https://www.youtube.com/watch?v=v_9SO9SU3B0
 
 
 # Buildings
@@ -637,6 +647,18 @@
 * Q&A: What will happen to the FICS⁕MAS power lines after the event? https://www.youtube.com/watch?v=Gt9an2au_YU
 
 
+# Procedural Generation
+
+## September 15th, 2020
+* Q&A: Any plans for randomly generated worlds / Procedurally Generated maps? https://www.youtube.com/watch?v=eo_84m3ZYfQ
+
+## November 17th, 2020
+* Trolling: Procedural Generation https://www.youtube.com/watch?v=bvjKY6CcnLI
+
+## November 24th, 2020
+* Q&A: Procedural generation of the World? https://www.youtube.com/watch?v=q6tkuGjM4zY
+
+
 # Release Builds
 
 ## November 3rd, 2020
@@ -854,6 +876,16 @@
 
 ## December 15th, 2020
 * Q&A: Does Sanctum and Satisfactory exist in the same universe? https://www.youtube.com/watch?v=JnR3oHKDQi0
+
+
+# Terraforming
+
+## September 8th, 2020
+* Jace & Snutt Talk: Map Modding https://www.youtube.com/watch?v=4nzTdrIc2hg
+* Q&A: Any thoughts on Terraforming, specifically tunneling ? https://www.youtube.com/watch?v=LIi_14XOp60
+
+## November 24th, 2020
+* Q&A: Is terraforming possible any time in the future? https://www.youtube.com/watch?v=_fE2dbyaJZg
 
 
 # Tiers
@@ -1084,3 +1116,5 @@
 * Q&A: Can we get turrets and more PvE? https://www.youtube.com/watch?v=sJnuRV0OGF0
 * Q&A: When are you going to expand the map? https://www.youtube.com/watch?v=axmmm-ituSg
 * Q&A: Will there be a Snow Biome? https://www.youtube.com/watch?v=iyhdKRg1b0A
+
+

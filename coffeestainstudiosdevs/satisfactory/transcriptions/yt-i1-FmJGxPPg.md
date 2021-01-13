@@ -1,3 +1,11 @@
+---
+title: "Q&A: Infinite Colours?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "features/paint"
+    - "technology/unreal-engine"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Infinite Colours?
 https://www.youtube.com/watch?v=i1-FmJGxPPg
@@ -9,7 +17,7 @@ https://www.youtube.com/watch?v=i1-FmJGxPPg
 > 
 > you know
 > 
-> combinations of of uh colors so you'll
+> combinations of of colors so you'll
 > 
 > still have the same color picker in the
 > 
@@ -23,7 +31,7 @@ https://www.youtube.com/watch?v=i1-FmJGxPPg
 > 
 > slots really so you would be able to
 > 
-> color to your heart's content uh
+> color to your heart's content
 > 
 > essentially
 > 

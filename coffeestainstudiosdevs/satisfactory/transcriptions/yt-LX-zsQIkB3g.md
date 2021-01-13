@@ -1,3 +1,11 @@
+---
+title: "Q&A: Multiplayer fix?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "technology/unreal-engine"
+    - "features/multiplayer"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Multiplayer fix?
 https://www.youtube.com/watch?v=LX-zsQIkB3g

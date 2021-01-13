@@ -1,3 +1,10 @@
+---
+title: "State of Dev: Blame Simon"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/state-of-dev"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## State of Dev: Blame Simon
 https://www.youtube.com/watch?v=H4gyZoXsfo0

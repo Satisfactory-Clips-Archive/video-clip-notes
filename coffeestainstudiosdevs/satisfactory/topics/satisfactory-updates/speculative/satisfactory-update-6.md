@@ -1,3 +1,7 @@
+---
+title: "Satisfactory Updates > Speculative > Satisfactory Update 6"
+date: Last Modified
+---
 [Topics](../../../topics.md) > Satisfactory Updates > Speculative > Satisfactory Update 6
 
 # September 1st, 2020 Livestream

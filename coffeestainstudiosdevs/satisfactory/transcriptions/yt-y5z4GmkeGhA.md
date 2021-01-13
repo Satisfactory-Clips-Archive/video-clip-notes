@@ -1,3 +1,10 @@
+---
+title: "Q&A: Is there a known issue with friend's games not showing cross-platform?"
+date: "2020-09-22"
+layout: transcript
+topics:
+    - "features/multiplayer"
+---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is there a known issue with friend's games not showing cross-platform?
 https://www.youtube.com/watch?v=y5z4GmkeGhA

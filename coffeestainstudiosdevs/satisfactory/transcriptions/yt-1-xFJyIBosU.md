@@ -1,3 +1,11 @@
+---
+title: "Q&A: Toilet Plunger for The HUB when?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "features/buildings/the-hub"
+    - "features/possible-features/dlc"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Toilet Plunger for The HUB when?
 https://www.youtube.com/watch?v=1-xFJyIBosU

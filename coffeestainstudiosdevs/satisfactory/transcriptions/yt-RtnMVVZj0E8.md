@@ -1,3 +1,10 @@
+---
+title: "Q&A: What do you think of the current state of the game?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/satisfactory-2017"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: What do you think of the current state of the game?
 https://www.youtube.com/watch?v=RtnMVVZj0E8

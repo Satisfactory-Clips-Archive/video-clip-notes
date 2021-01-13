@@ -1,3 +1,10 @@
+---
+title: "Q&A: How do you stream on Steam like you guys are right now?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - ""
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How do you stream on Steam like you guys are right now?
 https://www.youtube.com/watch?v=pmm8JzrMM78

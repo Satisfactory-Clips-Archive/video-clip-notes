@@ -1,3 +1,10 @@
+---
+title: "Jace Talk: Update 4 release schedule"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "satisfactory-updates/pending/satisfactory-update-4"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Jace Talk: Update 4 release schedule
 https://www.youtube.com/watch?v=e7ASTpTbibg

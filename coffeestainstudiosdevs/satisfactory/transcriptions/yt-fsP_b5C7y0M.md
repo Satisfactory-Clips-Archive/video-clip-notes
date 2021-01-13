@@ -1,3 +1,11 @@
+---
+title: "Snutt Talk: Lights on Buildings"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "technology/graphics"
+    - "features/buildings"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt Talk: Lights on Buildings
 https://www.youtube.com/watch?v=fsP_b5C7y0M

@@ -1,3 +1,10 @@
+---
+title: "Q&A: When are we going to delete the game?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - ""
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: When are we going to delete the game?
 https://www.youtube.com/watch?v=Yn1cEfU4mlg

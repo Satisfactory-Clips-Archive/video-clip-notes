@@ -1,3 +1,7 @@
+---
+title: "Satisfactory Updates > State of Dev"
+date: Last Modified
+---
 [Topics](../../topics.md) > Satisfactory Updates > State of Dev
 
 # December 15th, 2020 Livestream

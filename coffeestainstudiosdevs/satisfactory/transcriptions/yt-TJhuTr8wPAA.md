@@ -1,3 +1,10 @@
+---
+title: "Snutt Talk: Cookie Factory Mod"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "mods"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt Talk: Cookie Factory Mod
 https://www.youtube.com/watch?v=TJhuTr8wPAA

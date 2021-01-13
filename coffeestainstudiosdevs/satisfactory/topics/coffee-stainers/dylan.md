@@ -1,3 +1,7 @@
+---
+title: "Coffee Stainers > Dylan"
+date: Last Modified
+---
 [Topics](../../topics.md) > Coffee Stainers > Dylan
 
 # December 15th, 2020 Livestream

@@ -1,3 +1,11 @@
+---
+title: "Q&A: What will happen to the FICS⁕MAS power lines after the event?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "satisfactory-updates/seasonal-events/fics-mas"
+    - "features/power-management"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: What will happen to the FICS⁕MAS power lines after the event?
 https://www.youtube.com/watch?v=Gt9an2au_YU

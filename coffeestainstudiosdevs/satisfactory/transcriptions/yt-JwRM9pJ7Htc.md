@@ -1,13 +1,23 @@
+---
+title: "Q&A: So is this a Refinery that can only package/unpackage liquids & more compact?"
+date: "2020-10-13"
+layout: transcript
+topics:
+    - "features/buildings/packager"
+    - "features/fluids"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "features/buildings"
+---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: So is this a Refinery that can only package/unpackage liquids & more compact?
 https://www.youtube.com/watch?v=JwRM9pJ7Htc
 > q a and it is although there's one more
->
+> 
 > question uh so is the refinery uh it's
->
+> 
 > just a refinery that can only package
->
+> 
 > unpackaged liquids and more compact yeah
->
+> 
 > yes pretty much
->
+> 

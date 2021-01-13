@@ -1,3 +1,10 @@
+---
+title: "Q&A: Why is there a Coffee Cup in the HUB called \"BRY\"?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "features/buildings/the-hub"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Why is there a Coffee Cup in the HUB called "BRY"?
 https://www.youtube.com/watch?v=cIuO0sScXGg

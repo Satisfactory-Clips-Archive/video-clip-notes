@@ -1,3 +1,7 @@
+---
+title: "Features > Crafting"
+date: Last Modified
+---
 [Topics](../../topics.md) > Features > Crafting
 
 # October 13th, 2020 Livestream

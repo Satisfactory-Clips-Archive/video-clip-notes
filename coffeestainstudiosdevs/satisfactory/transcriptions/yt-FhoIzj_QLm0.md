@@ -1,3 +1,10 @@
+---
+title: "Q&A: Is Tier 8 last Tier for the game?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "features/tiers"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Is Tier 8 last Tier for the game?
 https://www.youtube.com/watch?v=FhoIzj_QLm0

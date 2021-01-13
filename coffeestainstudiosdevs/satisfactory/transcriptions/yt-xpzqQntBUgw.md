@@ -1,3 +1,10 @@
+---
+title: "Q&A: What other languages are going to be added?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - ""
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: What other languages are going to be added?
 https://www.youtube.com/watch?v=xpzqQntBUgw

@@ -1,3 +1,7 @@
+---
+title: "Trolling"
+date: Last Modified
+---
 [Topics](../topics.md) > Trolling
 
 # December 15th, 2020 Livestream

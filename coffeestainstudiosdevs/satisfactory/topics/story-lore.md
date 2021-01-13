@@ -1,3 +1,7 @@
+---
+title: "Story & Lore"
+date: Last Modified
+---
 [Topics](../topics.md) > Story & Lore
 
 # December 15th, 2020 Livestream

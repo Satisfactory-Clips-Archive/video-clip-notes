@@ -1,71 +1,79 @@
+---
+title: "Trolling: Procedural Generation"
+date: "2020-11-17"
+layout: transcript
+topics:
+    - "technology/graphics"
+    - "environment/world-map"
+---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Procedural Generation
 https://www.youtube.com/watch?v=bvjKY6CcnLI
 > procedural generation that's a good one
->
+> 
 > yes about procedural generation yep so
->
+> 
 > uh we are happy to announce that
->
+> 
 > from today you are going to be able
->
+> 
 > to place anything
->
+> 
 > anywhere in the game
->
+> 
 > at the atomic level yes of the uh
->
+> 
 > the map you're going to be able to
->
+> 
 > shrink down to subatomic atomic level
->
+> 
 > and you'll be able to walk around among
->
+> 
 > the quarks that you can place
->
+> 
 > and move yeah yeah you can't go smaller
->
+> 
 > than the quarks though
->
+> 
 > there's we've limitation there but
->
+> 
 > technical thing um
->
+> 
 > uh how is that procedural well because
->
+> 
 > it's all procedurally generated in
->
+> 
 > a brand new world beforehand yes and uh
->
+> 
 > hannah is not fired she's the one who's
->
+> 
 > making the procedural
->
+> 
 > generation by hand live as you're
->
+> 
 > playing by quark
->
+> 
 > quark by quark so as you're playing
->
+> 
 > she's going to be live
->
+> 
 > on the other end on our end on our on
->
+> 
 > the dedicated server
->
+> 
 > that she sits on she's going to be
->
+> 
 > handcraftingly making the procedural
->
+> 
 > generation yep
->
+> 
 > one quark at a time yep
->
+> 
 > i don't know do you think we've got any
->
+> 
 > more
->
+> 
 > no that's that's it
->
+> 
 > that's all people want
->
+> 

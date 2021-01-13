@@ -1,231 +1,238 @@
+---
+title: "Q&A: Fix Multiplayer quick?"
+date: "2020-09-08"
+layout: transcript
+topics:
+    - "features/multiplayer"
+---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Fix Multiplayer quick?
 https://www.youtube.com/watch?v=-p03ktqVUdc
 > fix multiplayer quick we always work on
->
+> 
 > multiplayer
->
+> 
 > it's not really a thing that you can
->
+> 
 > just just fix though
->
+> 
 > uh but you can always work on it
->
+> 
 > constantly and we do that
->
+> 
 > and it should should get better yeah
->
+> 
 > over time
->
+> 
 > if there was an easy fix the multiplayer
->
+> 
 > we would have been done
->
+> 
 > yeah yeah exactly it's it's like it's
->
+> 
 > not like
->
+> 
 > we could fix multiplayer like you know
->
+> 
 > we
->
+> 
 > we would do it like we have people that
->
+> 
 > are dedicated doing
->
+> 
 > nothing but optimizing the game like
->
+> 
 > everything
->
+> 
 > like rendering and networking and blah
->
+> 
 > blah blah like they're doing
->
+> 
 > stuff specifically for optimization
->
+> 
 > doing nothing but optimization
->
+> 
 > and we have people working on nothing
->
+> 
 > but improving networking
->
+> 
 > like or optimizing network play online
->
+> 
 > play
->
+> 
 > yep uh and those patches are gonna be
->
+> 
 > like you're probably not gonna notice a
->
+> 
 > big
->
+> 
 > significant like oh it suddenly got way
->
+> 
 > better it's kind of like
->
+> 
 > it's slow like like it's it's one it's
->
+> 
 > one of those things that like
->
+> 
 > uh if you were to look back six months
->
+> 
 > like back six months from now or like a
->
+> 
 > year from now
->
+> 
 > you would you would see a massive
->
+> 
 > difference right but you don't
->
+> 
 > feel the jumps the tiny tiny jumps
->
+> 
 > between them and that's what is
->
+> 
 > happening
->
+> 
 > um yeah so it's like i don't know
->
+> 
 > in like six months you look back and
->
+> 
 > you'll be like oh yeah that is a big
->
+> 
 > deal
->
+> 
 > but you'll never be able to see it
->
+> 
 > because you can't go back six months but
->
+> 
 > and in some cases maybe we'll have to
->
+> 
 > like rework
->
+> 
 > some system like maybe we'll need to
->
+> 
 > rework completely like how the vehicle
->
+> 
 > networking synchronization works or
->
+> 
 > something this is some spitballing but
->
+> 
 > like if we
->
+> 
 > do that then yeah you'll notice that
->
+> 
 > once that thing is coming in
->
+> 
 > if it's a big thing yeah but then it'll
->
+> 
 > probably be buggy in different reasons
->
+> 
 > and then we'll patch that stuff
->
+> 
 > but like you'll it's yeah
->
+> 
 > it's it's and like we haven't pushed pat
->
+> 
 > like patches in a while since june or
->
+> 
 > something yeah
->
+> 
 > and that's because we are working on
->
+> 
 > pretty major systems right now
->
+> 
 > uh and doing you can't patch them when
->
+> 
 > they're half done yeah
->
+> 
 > and we're also working on refactoring a
->
+> 
 > lot of our current systems because it
->
+> 
 > will be easier for us to work on them in
->
+> 
 > the future for coming up days
->
+> 
 > so like there are gonna be like a few
->
+> 
 > patches now maybe
->
+> 
 > soon-ish where like you don't see any
->
+> 
 > difference yeah but uh
->
+> 
 > it's like systems that we've kind of
->
+> 
 > re-implemented and then we need to push
->
+> 
 > those and test them to make sure that
->
+> 
 > they're
->
+> 
 > and they will allow better things in the
->
+> 
 > future
->
+> 
 > and this is pretty standard stuff but uh
->
+> 
 > from the outside it seems like nothing
->
+> 
 > is happening yeah
->
+> 
 > but in reality it's like a month of hard
->
+> 
 > work yeah exactly
->
+> 
 > because like one thing that's uh that is
->
+> 
 > i think it's slated for the 3.5
->
+> 
 > ish i'm calling it now that but sure
->
+> 
 > it's 3.5
->
+> 
 > level 5 update is the the november
->
+> 
 > update or whatever
->
+> 
 > is uh we are updating the engine version
->
+> 
 > that we're on currently
->
+> 
 > um if we make it in for that because
->
+> 
 > apparently it's been bit of a nightmare
->
+> 
 > apparently
->
+> 
 > for the update but uh that might give
->
+> 
 > you some like
->
+> 
 > performance improvement in general like
->
+> 
 > that we just got
->
+> 
 > out of for free yeah yeah might be good
->
+> 
 > yeah or it might break things
->
+> 
 > well it has so far
->
+> 
 > we're fixing that right now uh but that
->
+> 
 > will imp
->
+> 
 > that will improve the engine we are
->
+> 
 > using right now and that will give us
->
+> 
 > more tools to work on like environment
->
+> 
 > so these are all welcome stuff from our
->
+> 
 > end at least
->
+> 
 > yeah i don't care about that and it all
->
+> 
 > goes it's all close to improving the
->
+> 
 > game
->
+> 

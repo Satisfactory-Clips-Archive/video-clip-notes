@@ -1,3 +1,11 @@
+---
+title: "Q&A: Dedicated Servers in Update 4?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "features/planned-features/dedicated-servers"
+    - "satisfactory-updates/pending/satisfactory-update-4"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Dedicated Servers in Update 4?
 https://www.youtube.com/watch?v=QWirowEMRbk

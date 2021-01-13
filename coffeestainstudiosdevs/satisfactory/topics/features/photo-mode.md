@@ -1,3 +1,7 @@
+---
+title: "Features > Photo Mode"
+date: Last Modified
+---
 [Topics](../../topics.md) > Features > Photo Mode
 
 # November 10th, 2020 Livestream

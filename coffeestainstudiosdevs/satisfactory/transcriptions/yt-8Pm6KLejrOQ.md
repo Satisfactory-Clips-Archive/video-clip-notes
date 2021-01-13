@@ -1,3 +1,10 @@
+---
+title: "Q&A: Do you plan on adding mass foundation placement?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "features/unplanned-features/mass-building"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Do you plan on adding mass foundation placement?
 https://www.youtube.com/watch?v=8Pm6KLejrOQ
@@ -24,6 +31,8 @@ https://www.youtube.com/watch?v=8Pm6KLejrOQ
 > and i don't know what the state of that
 > 
 > is um
+> 
+> [Music]
 > 
 > honestly it's it's a can of worms
 > 

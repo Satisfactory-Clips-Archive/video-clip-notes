@@ -1,3 +1,10 @@
+---
+title: "Q&A: Rare albino Doggo?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "environment/creatures"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Rare albino Doggo?
 https://www.youtube.com/watch?v=XuO0mesKglU

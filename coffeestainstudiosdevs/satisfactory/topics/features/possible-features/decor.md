@@ -1,3 +1,7 @@
+---
+title: "Features > Possible Features > Decor"
+date: Last Modified
+---
 [Topics](../../../topics.md) > Features > Possible Features > Decor
 
 # December 15th, 2020 Livestream

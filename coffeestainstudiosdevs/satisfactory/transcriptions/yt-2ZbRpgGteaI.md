@@ -1,3 +1,10 @@
+---
+title: "Q&A: Any way to recycle Nuclear Waste?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "features/power-management/nuclear-energy"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Any way to recycle Nuclear Waste?
 https://www.youtube.com/watch?v=2ZbRpgGteaI

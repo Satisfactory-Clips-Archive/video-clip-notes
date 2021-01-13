@@ -1,3 +1,10 @@
+---
+title: "Jace Talk: Winter Hibernation"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - ""
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Jace Talk: Winter Hibernation
 https://www.youtube.com/watch?v=su-ReE6SPJ0

@@ -1,3 +1,10 @@
+---
+title: "Q&A: Will Gift Trees continue to produce?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/seasonal-events/fics-mas"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Will Gift Trees continue to produce?
 https://www.youtube.com/watch?v=FqUcLve4Oyc

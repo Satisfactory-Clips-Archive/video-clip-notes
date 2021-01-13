@@ -1,3 +1,11 @@
+---
+title: "Q&A: Will Mods be downloadable in-game?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "mods/official-mod-support"
+    - "mods"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will Mods be downloadable in-game?
 https://www.youtube.com/watch?v=JRP30-Yz8pQ

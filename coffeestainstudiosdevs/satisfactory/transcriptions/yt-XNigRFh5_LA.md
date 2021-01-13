@@ -1,3 +1,10 @@
+---
+title: "Q&A: Will there be any changes to clear how the efficiency works?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "technology/user-interface"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will there be any changes to clear how the efficiency works?
 https://www.youtube.com/watch?v=XNigRFh5_LA

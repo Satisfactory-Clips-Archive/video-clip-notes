@@ -1,3 +1,11 @@
+---
+title: "Snutt & Jace Talk: Water VFX"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/satisfactory-2017"
+    - "technology/graphics"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt & Jace Talk: Water VFX
 https://www.youtube.com/watch?v=rALTAvblpEM

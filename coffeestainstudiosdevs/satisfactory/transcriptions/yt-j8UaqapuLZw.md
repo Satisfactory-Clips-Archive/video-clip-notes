@@ -1,3 +1,10 @@
+---
+title: "Q&A: Does Coffee Stain have a plan to further monetise the game to fund dev?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "features/possible-features/dlc"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Does Coffee Stain have a plan to further monetise the game to fund dev?
 https://www.youtube.com/watch?v=j8UaqapuLZw

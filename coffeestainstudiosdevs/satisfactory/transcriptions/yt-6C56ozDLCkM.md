@@ -1,3 +1,10 @@
+---
+title: "Q&A: Can we add Stamina back?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/satisfactory-2017"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Can we add Stamina back?
 https://www.youtube.com/watch?v=6C56ozDLCkM

@@ -1,3 +1,11 @@
+---
+title: "Jace Talk: Natalie"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/satisfactory-2017"
+    - "technology/user-interface"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Jace Talk: Natalie
 https://www.youtube.com/watch?v=AmdGZXxyt6Y

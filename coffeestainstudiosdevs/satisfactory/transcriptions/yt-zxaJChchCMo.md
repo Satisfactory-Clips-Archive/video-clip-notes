@@ -1,3 +1,11 @@
+---
+title: "State of Dev: FICS⁕MAS"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/seasonal-events/fics-mas"
+    - "satisfactory-updates/state-of-dev"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## State of Dev: FICS⁕MAS
 https://www.youtube.com/watch?v=zxaJChchCMo

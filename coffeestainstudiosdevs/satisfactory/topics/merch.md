@@ -1,3 +1,7 @@
+---
+title: "Merch"
+date: Last Modified
+---
 [Topics](../topics.md) > Merch
 
 # December 15th, 2020 Livestream

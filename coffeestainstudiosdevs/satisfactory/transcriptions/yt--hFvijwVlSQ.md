@@ -1,3 +1,10 @@
+---
+title: "Q&A: Add a Tape Measure or something to gauge distance between two objects?"
+date: "2020-09-29"
+layout: transcript
+topics:
+    - "features/crafting"
+---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Add a Tape Measure or something to gauge distance between two objects?
 https://www.youtube.com/watch?v=-hFvijwVlSQ

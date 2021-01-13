@@ -1,3 +1,11 @@
+---
+title: "Snutt Talk: Emmissive Materials"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "technology/unreal-engine"
+    - "technology/graphics"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt Talk: Emmissive Materials
 https://www.youtube.com/watch?v=nYpEI8hZEgU

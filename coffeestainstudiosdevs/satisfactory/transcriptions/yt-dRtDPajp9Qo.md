@@ -1,3 +1,10 @@
+---
+title: "Q&A: Would you guys be up for doing a stream reacting to other FanForge content?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - ""
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Would you guys be up for doing a stream reacting to other FanForge content?
 https://www.youtube.com/watch?v=dRtDPajp9Qo

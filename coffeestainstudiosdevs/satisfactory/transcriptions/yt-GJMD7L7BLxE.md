@@ -1,3 +1,10 @@
+---
+title: "Q&A: Cyberpunk cross-over when?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - ""
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Cyberpunk cross-over when?
 https://www.youtube.com/watch?v=GJMD7L7BLxE

@@ -1,3 +1,10 @@
+---
+title: "Q&A: Why is the install folder still called FactoryGame?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - ""
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Why is the install folder still called FactoryGame?
 https://www.youtube.com/watch?v=O_J3pNOPvWw

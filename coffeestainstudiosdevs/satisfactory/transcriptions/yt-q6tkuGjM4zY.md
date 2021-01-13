@@ -1,3 +1,10 @@
+---
+title: "Q&A: Procedural generation of the World?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "environment/world-map"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Procedural generation of the World?
 https://www.youtube.com/watch?v=q6tkuGjM4zY

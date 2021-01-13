@@ -1,3 +1,7 @@
+---
+title: "Satisfactory Updates > Seasonal Events"
+date: Last Modified
+---
 [Topics](../../topics.md) > Satisfactory Updates > Seasonal Events
 
 # December 15th, 2020 Livestream

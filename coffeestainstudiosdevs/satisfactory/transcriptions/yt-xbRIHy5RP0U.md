@@ -1,3 +1,10 @@
+---
+title: "Q&A: What is the hardest part of making games?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - ""
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: What is the hardest part of making games?
 https://www.youtube.com/watch?v=xbRIHy5RP0U

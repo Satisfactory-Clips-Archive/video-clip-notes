@@ -1,3 +1,10 @@
+---
+title: "Q&A: Do you guys know what is going to be the last Tier in the game?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "features/tiers"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Do you guys know what is going to be the last Tier in the game?
 https://www.youtube.com/watch?v=ZOmxbDTRWmg

@@ -1,3 +1,10 @@
+---
+title: "Q&A: How do you use the feedback from us when we play the game?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - ""
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How do you use the feedback from us when we play the game?
 https://www.youtube.com/watch?v=yEMTgjDHzI8

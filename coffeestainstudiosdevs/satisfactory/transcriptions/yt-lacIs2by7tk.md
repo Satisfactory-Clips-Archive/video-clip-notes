@@ -1,3 +1,10 @@
+---
+title: "Q&A: Are you going to add more functionality to the HUB?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "features/buildings/the-hub"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Are you going to add more functionality to the HUB?
 https://www.youtube.com/watch?v=lacIs2by7tk

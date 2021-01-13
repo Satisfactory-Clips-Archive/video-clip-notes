@@ -1,3 +1,7 @@
+---
+title: "Features > Crafting > Superposition Oscillator"
+date: Last Modified
+---
 [Topics](../../../topics.md) > Features > Crafting > Superposition Oscillator
 
 # December 15th, 2020 Livestream

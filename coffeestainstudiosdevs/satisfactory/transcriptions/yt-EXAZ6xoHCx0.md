@@ -1,3 +1,10 @@
+---
+title: "Snutt & Jace Talk: FICS⁕MAS"
+date: "2020-12-01"
+layout: transcript
+topics:
+    - "satisfactory-updates/seasonal-events/fics-mas"
+---
 # [December 1st, 2020 Livestream](../2020-12-01.md)
 ## Snutt & Jace Talk: FICS⁕MAS
 https://www.youtube.com/watch?v=EXAZ6xoHCx0
@@ -39,7 +46,7 @@ https://www.youtube.com/watch?v=EXAZ6xoHCx0
 > 
 > anything from the christmas
 > 
-> stuff you're free to do it and holy [ __ ]
+> stuff you're free to do it and holy
 > 
 > people went full
 > 
@@ -123,7 +130,7 @@ https://www.youtube.com/watch?v=EXAZ6xoHCx0
 > 
 > put that video on youtube
 > 
-> and we're going to push all the [ __ ] can
+> and we're going to push all the can
 > 
 > i just link to youtube now is that stuff
 > 
@@ -257,7 +264,7 @@ https://www.youtube.com/watch?v=EXAZ6xoHCx0
 > 
 > because i think we're going to wrap it
 > 
-> up here because i need to do some [ __ ]
+> up here because i need to do some
 > 
 > yeah same um
 > 
@@ -311,7 +318,7 @@ https://www.youtube.com/watch?v=EXAZ6xoHCx0
 > 
 > with each other you got some christmas
 > 
-> [ __ ]
+> 
 > 
 > it's gonna be fun you got to meet tim i
 > 

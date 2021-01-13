@@ -1,3 +1,12 @@
+---
+title: "Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "features/equipment/jetpack"
+    - "features/fluids"
+    - "satisfactory-updates/pending/satisfactory-update-4"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?
 https://www.youtube.com/watch?v=pSGEDxxLn2E

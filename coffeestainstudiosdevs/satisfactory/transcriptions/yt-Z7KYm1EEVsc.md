@@ -1,3 +1,11 @@
+---
+title: "Q&A: Better UI scaling?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "technology/user-interface"
+    - "technology/graphics"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Better UI scaling?
 https://www.youtube.com/watch?v=Z7KYm1EEVsc

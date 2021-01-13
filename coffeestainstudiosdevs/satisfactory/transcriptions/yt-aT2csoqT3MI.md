@@ -1,3 +1,10 @@
+---
+title: "Q&A: Jobs available in Stockholm but not Skövde?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - ""
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Jobs available in Stockholm but not Skövde?
 https://www.youtube.com/watch?v=aT2csoqT3MI

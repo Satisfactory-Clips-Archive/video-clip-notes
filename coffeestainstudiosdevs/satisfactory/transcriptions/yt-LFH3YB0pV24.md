@@ -1,3 +1,11 @@
+---
+title: "Q&A: Walls & Handrails, be able to place like Pipes?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "features/buildables/walls"
+    - "features/fluids/pipes"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Walls & Handrails, be able to place like Pipes?
 https://www.youtube.com/watch?v=LFH3YB0pV24

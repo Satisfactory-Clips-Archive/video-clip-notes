@@ -1,3 +1,10 @@
+---
+title: "Q&A: Is Console confirmed for Satisfactory?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "features/possible-features/console-release"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Is Console confirmed for Satisfactory?
 https://www.youtube.com/watch?v=KEJYlYO511Q

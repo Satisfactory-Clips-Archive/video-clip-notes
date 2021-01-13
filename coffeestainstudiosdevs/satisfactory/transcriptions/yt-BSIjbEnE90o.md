@@ -1,3 +1,10 @@
+---
+title: "Q&A: Do you have to take advil before playing this game?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - ""
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Do you have to take advil before playing this game?
 https://www.youtube.com/watch?v=BSIjbEnE90o

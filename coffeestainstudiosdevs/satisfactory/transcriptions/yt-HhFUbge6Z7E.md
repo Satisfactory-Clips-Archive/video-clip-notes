@@ -1,3 +1,10 @@
+---
+title: "Q&A: How many lines of code is Satisfactory?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - ""
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How many lines of code is Satisfactory?
 https://www.youtube.com/watch?v=HhFUbge6Z7E

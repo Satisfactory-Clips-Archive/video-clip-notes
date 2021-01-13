@@ -1,3 +1,11 @@
+---
+title: "Jace Talk: Multiplayer experience vs. Dedicated Server"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Jace Talk: Multiplayer experience vs. Dedicated Server
 https://www.youtube.com/watch?v=QcD9eKlgte0

@@ -1,3 +1,10 @@
+---
+title: "Q&A: Are Coffee Stain looking for Unreal Engine programmers - do you hire remotely?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "technology/unreal-engine"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Are Coffee Stain looking for Unreal Engine programmers - do you hire remotely?
 https://www.youtube.com/watch?v=sI7zMjVad1c

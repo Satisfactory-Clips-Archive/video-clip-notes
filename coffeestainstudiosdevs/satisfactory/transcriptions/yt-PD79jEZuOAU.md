@@ -1,3 +1,11 @@
+---
+title: "Q&A: Are Dedicated Servers going to have Mod support?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "mods"
+    - "features/planned-features/dedicated-servers"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Are Dedicated Servers going to have Mod support?
 https://www.youtube.com/watch?v=PD79jEZuOAU

@@ -1,3 +1,10 @@
+---
+title: "Q&A: How do you get the Advent Calendar?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/seasonal-events/fics-mas"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How do you get the Advent Calendar?
 https://www.youtube.com/watch?v=LPU9cyNeI7Y

@@ -1,3 +1,7 @@
+---
+title: "Features > Buildables > Ladders"
+date: Last Modified
+---
 [Topics](../../../topics.md) > Features > Buildables > Ladders
 
 # November 10th, 2020 Livestream

@@ -1,3 +1,7 @@
+---
+title: "Features > Equipment > Jetpack"
+date: Last Modified
+---
 [Topics](../../../topics.md) > Features > Equipment > Jetpack
 
 # December 15th, 2020 Livestream

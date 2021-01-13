@@ -1,3 +1,7 @@
+---
+title: "Satisfactory Updates > Released > Satisfactory Fluids Update"
+date: Last Modified
+---
 [Topics](../../../topics.md) > Satisfactory Updates > Released > Satisfactory Fluids Update
 
 # December 8th, 2020 Livestream

@@ -1,3 +1,11 @@
+---
+title: "Q&A: Alien creature launcher - evict the giant Tick?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "features/buildables/jump-pads"
+    - "environment/creatures"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Alien creature launcher - evict the giant Tick?
 https://www.youtube.com/watch?v=mASNXinF0mA

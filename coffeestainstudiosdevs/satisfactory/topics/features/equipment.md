@@ -1,3 +1,7 @@
+---
+title: "Features > Equipment"
+date: Last Modified
+---
 [Topics](../../topics.md) > Features > Equipment
 
 # October 20th, 2020 Livestream

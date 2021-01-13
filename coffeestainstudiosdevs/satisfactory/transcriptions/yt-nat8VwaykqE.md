@@ -1,3 +1,11 @@
+---
+title: "Q&A: Are there plans to improve Vehicle performance for Update 4?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "features/transportation/vehicles"
+    - "satisfactory-updates/pending/satisfactory-update-4"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Are there plans to improve Vehicle performance for Update 4?
 https://www.youtube.com/watch?v=nat8VwaykqE

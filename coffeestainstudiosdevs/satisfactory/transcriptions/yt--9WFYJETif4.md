@@ -1,3 +1,11 @@
+---
+title: "Q&A: Is automated food production planned?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "environment/plants"
+    - "mods/mods-vs-features"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Is automated food production planned?
 https://www.youtube.com/watch?v=-9WFYJETif4

@@ -1,3 +1,11 @@
+---
+title: "Jace Talk: FICS⁕MAS leaks are not \"leaks\""
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/seasonal-events/fics-mas"
+    - "satisfactory-updates/pending/satisfactory-update-4"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Jace Talk: FICS⁕MAS leaks are not "leaks"
 https://www.youtube.com/watch?v=TOevQ69HYNA

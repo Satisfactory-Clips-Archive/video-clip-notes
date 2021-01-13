@@ -1,3 +1,10 @@
+---
+title: "Q&A: How come the translations are weird when it was natively made in Swedish?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/satisfactory-2017"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How come the translations are weird when it was natively made in Swedish?
 https://www.youtube.com/watch?v=OloYImcj1GA

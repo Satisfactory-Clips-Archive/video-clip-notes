@@ -1,3 +1,12 @@
+---
+title: "Snutt & Jace Talk: State of Dev"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "satisfactory-updates/state-of-dev"
+    - "features/buildables/conveyor-belts"
+    - "technology/unreal-engine"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Snutt & Jace Talk: State of Dev
 https://www.youtube.com/watch?v=uYPhHTSL6Ys

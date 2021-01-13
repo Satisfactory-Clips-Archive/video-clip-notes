@@ -1,3 +1,7 @@
+---
+title: "Satisfactory Updates > Seasonal Events > FICS⁕MAS"
+date: Last Modified
+---
 [Topics](../../../topics.md) > Satisfactory Updates > Seasonal Events > FICS⁕MAS
 
 # December 15th, 2020 Livestream

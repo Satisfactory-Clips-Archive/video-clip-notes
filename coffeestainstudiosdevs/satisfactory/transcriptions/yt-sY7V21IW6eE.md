@@ -1,3 +1,11 @@
+---
+title: "Q&A: Any plans for Power Management?"
+date: "2020-11-17"
+layout: transcript
+topics:
+    - "technology/user-interface"
+    - "features/power-management"
+---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any plans for Power Management?
 https://www.youtube.com/watch?v=sY7V21IW6eE

@@ -1,3 +1,10 @@
+---
+title: "Q&A: Any hints you can give on the level of mod support you'll provide eventually?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "mods/official-mod-support"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Any hints you can give on the level of mod support you'll provide eventually?
 https://www.youtube.com/watch?v=o7FFLZpEf_Y

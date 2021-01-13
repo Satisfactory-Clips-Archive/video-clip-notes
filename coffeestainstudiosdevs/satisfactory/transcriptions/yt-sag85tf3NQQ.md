@@ -1,3 +1,10 @@
+---
+title: "Q&A: How do we get rid of toxic waste?"
+date: "2020-12-01"
+layout: transcript
+topics:
+    - "features/power-management/nuclear-energy"
+---
 # [December 1st, 2020 Livestream](../2020-12-01.md)
 ## Q&A: How do we get rid of toxic waste?
 https://www.youtube.com/watch?v=sag85tf3NQQ
@@ -13,7 +20,7 @@ https://www.youtube.com/watch?v=sag85tf3NQQ
 > 
 > you can do stuff with the toxic waste
 > 
-> lee he just comes out and says this [ __ ]
+> lee he just comes out and says this
 > 
 > this is why you'll never make a
 > 

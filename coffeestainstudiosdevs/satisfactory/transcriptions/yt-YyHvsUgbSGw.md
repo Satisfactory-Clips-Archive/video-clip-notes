@@ -1,3 +1,10 @@
+---
+title: "Q&A: Is there a reason to reveal so much Update 4 content in the latest YouTube video?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "satisfactory-updates/pending/satisfactory-update-4"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Is there a reason to reveal so much Update 4 content in the latest YouTube video?
 https://www.youtube.com/watch?v=YyHvsUgbSGw

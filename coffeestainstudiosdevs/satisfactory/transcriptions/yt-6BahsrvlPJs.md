@@ -1,3 +1,13 @@
+---
+title: "Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "features/buildables/storage-containers"
+    - "features/paint"
+    - "technology/unreal-engine"
+    - "features/transportation/vehicles"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update?
 https://www.youtube.com/watch?v=6BahsrvlPJs

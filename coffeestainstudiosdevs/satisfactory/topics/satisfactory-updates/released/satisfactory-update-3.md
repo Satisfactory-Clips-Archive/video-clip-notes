@@ -1,3 +1,7 @@
+---
+title: "Satisfactory Updates > Released > Satisfactory Update 3"
+date: Last Modified
+---
 [Topics](../../../topics.md) > Satisfactory Updates > Released > Satisfactory Update 3
 
 # December 8th, 2020 Livestream

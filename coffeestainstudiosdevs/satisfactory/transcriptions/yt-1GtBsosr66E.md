@@ -1,3 +1,10 @@
+---
+title: "Q&A: Jace - F, Marry, Kill: either Snutt, [special guest], or anyone from chat?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - ""
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Jace - F, Marry, Kill: either Snutt, [special guest], or anyone from chat?
 https://www.youtube.com/watch?v=1GtBsosr66E

@@ -1,3 +1,11 @@
+---
+title: "State of Dev: Engine Upgrade"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/state-of-dev"
+    - "technology/unreal-engine"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## State of Dev: Engine Upgrade
 https://www.youtube.com/watch?v=j2kW9a3CTXE

@@ -1,3 +1,10 @@
+---
+title: "Q&A: Do I need a beanie to play the game?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - ""
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Do I need a beanie to play the game?
 https://www.youtube.com/watch?v=Kx_0tBWze0k

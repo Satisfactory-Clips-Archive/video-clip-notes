@@ -1,3 +1,7 @@
+---
+title: "Coffee Stainers > Simon"
+date: Last Modified
+---
 [Topics](../../topics.md) > Coffee Stainers > Simon
 
 # November 24th, 2020 Livestream

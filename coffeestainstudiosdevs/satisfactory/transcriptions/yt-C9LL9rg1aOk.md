@@ -1,3 +1,10 @@
+---
+title: "Q&A: Can we can expect a dev *blog* article about the Engine changes?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "technology/unreal-engine"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Can we can expect a dev *blog* article about the Engine changes?
 https://www.youtube.com/watch?v=C9LL9rg1aOk

@@ -1,3 +1,7 @@
+---
+title: "Features > Planned Features > Signs"
+date: Last Modified
+---
 [Topics](../../../topics.md) > Features > Planned Features > Signs
 
 # November 3rd, 2020 Livestream

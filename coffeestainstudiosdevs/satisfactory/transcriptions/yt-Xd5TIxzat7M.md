@@ -1,3 +1,10 @@
+---
+title: "Jace Talk: VR for Satisfactory"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "technology/graphics"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Jace Talk: VR for Satisfactory
 https://www.youtube.com/watch?v=Xd5TIxzat7M

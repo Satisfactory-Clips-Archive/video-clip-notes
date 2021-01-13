@@ -1,3 +1,10 @@
+---
+title: "Q&A: How much configuration will we be able to do with Dedicated Servers?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "features/planned-features/dedicated-servers"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How much configuration will we be able to do with Dedicated Servers?
 https://www.youtube.com/watch?v=Dj2hOG7UjVA

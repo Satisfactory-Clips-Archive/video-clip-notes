@@ -1,3 +1,10 @@
+---
+title: "Q&A: As Update 4 gets closer will you be releasing more info on how to prepare for the changes?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/pending/satisfactory-update-4"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: As Update 4 gets closer will you be releasing more info on how to prepare for the changes?
 https://www.youtube.com/watch?v=dkVq6ix0lQM

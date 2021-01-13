@@ -1,3 +1,11 @@
+---
+title: "Q&A: Will there be more options for aesthetics regarding things like house building?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "features/possible-features/decor"
+    - "features/buildings"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will there be more options for aesthetics regarding things like house building?
 https://www.youtube.com/watch?v=qQJTAvtzB-8
@@ -37,7 +45,7 @@ https://www.youtube.com/watch?v=qQJTAvtzB-8
 > 
 > stream i thought you said something else
 > 
-> and i was genuinely like what the
+> and i was genuinely like what the [ __ ]
 > 
 > all right all right
 > 

@@ -1,3 +1,10 @@
+---
+title: "Q&A: Are there hidden secrets and cameos in the game?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "environment/world-map"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Are there hidden secrets and cameos in the game?
 https://www.youtube.com/watch?v=57Cc22ZK5aw

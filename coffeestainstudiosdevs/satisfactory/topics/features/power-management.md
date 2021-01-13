@@ -1,3 +1,7 @@
+---
+title: "Features > Power Management"
+date: Last Modified
+---
 [Topics](../../topics.md) > Features > Power Management
 
 # December 15th, 2020 Livestream

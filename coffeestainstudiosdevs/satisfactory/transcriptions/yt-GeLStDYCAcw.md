@@ -1,3 +1,10 @@
+---
+title: "Snutt & Jace Talk: Janky, Weird, and Gross"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/satisfactory-2017"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt & Jace Talk: Janky, Weird, and Gross
 https://www.youtube.com/watch?v=GeLStDYCAcw

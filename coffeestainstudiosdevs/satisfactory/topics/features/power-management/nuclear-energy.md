@@ -1,3 +1,7 @@
+---
+title: "Features > Power Management > Nuclear Energy"
+date: Last Modified
+---
 [Topics](../../../topics.md) > Features > Power Management > Nuclear Energy
 
 # December 1st, 2020 Livestream

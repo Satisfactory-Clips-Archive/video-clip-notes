@@ -1,3 +1,11 @@
+---
+title: "Q&A: Any improvements on build limits?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "technology/unreal-engine"
+    - "features/unplanned-features/mass-building"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Any improvements on build limits?
 https://www.youtube.com/watch?v=eReH6Sdroq8

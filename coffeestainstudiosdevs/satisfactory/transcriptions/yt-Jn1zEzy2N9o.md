@@ -1,3 +1,10 @@
+---
+title: "State of Dev"
+date: "2020-12-01"
+layout: transcript
+topics:
+    - "satisfactory-updates/state-of-dev"
+---
 # [December 1st, 2020 Livestream](../2020-12-01.md)
 ## State of Dev
 https://www.youtube.com/watch?v=Jn1zEzy2N9o

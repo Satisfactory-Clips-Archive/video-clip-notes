@@ -1,3 +1,10 @@
+---
+title: "Q&A: Will there be any major changes to the game with Update 4?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "satisfactory-updates/pending/satisfactory-update-4"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will there be any major changes to the game with Update 4?
 https://www.youtube.com/watch?v=8ImofeADWyI

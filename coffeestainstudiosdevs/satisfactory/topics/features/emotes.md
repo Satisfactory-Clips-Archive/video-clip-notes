@@ -1,3 +1,7 @@
+---
+title: "Features > Emotes"
+date: Last Modified
+---
 [Topics](../../topics.md) > Features > Emotes
 
 # November 10th, 2020 Livestream

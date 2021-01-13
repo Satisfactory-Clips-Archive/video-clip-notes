@@ -1,3 +1,10 @@
+---
+title: "Q&A: Does Sanctum and Satisfactory exist in the same universe?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - ""
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Does Sanctum and Satisfactory exist in the same universe?
 https://www.youtube.com/watch?v=JnR3oHKDQi0

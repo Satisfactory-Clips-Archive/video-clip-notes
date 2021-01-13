@@ -1,3 +1,10 @@
+---
+title: "Q&A: Will Jace consider doing a PS5Controller% run on the Satisfactory Livestream?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - ""
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will Jace consider doing a PS5Controller% run on the Satisfactory Livestream?
 https://www.youtube.com/watch?v=SprKtX-bJ_0

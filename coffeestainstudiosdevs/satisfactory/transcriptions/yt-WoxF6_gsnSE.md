@@ -1,3 +1,10 @@
+---
+title: "Q&A: Any extra info about the Content Creator post on Twitter?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - ""
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Any extra info about the Content Creator post on Twitter?
 https://www.youtube.com/watch?v=WoxF6_gsnSE

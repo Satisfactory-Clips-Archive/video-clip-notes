@@ -1,3 +1,7 @@
+---
+title: "Features > Buildings"
+date: Last Modified
+---
 [Topics](../../topics.md) > Features > Buildings
 
 # December 15th, 2020 Livestream
@@ -63,7 +67,7 @@
 
 # September 29th, 2020 Livestream
 * Q&A: What about Mk. 6 Belts? https://www.youtube.com/watch?v=NiBLAUCxIEs
-* Snutt Talk: The Pipes Indicator https://www.youtube.com/watch?v=MhUCod36x7Y
+* Snut Talk: The Pipes Indicator https://www.youtube.com/watch?v=MhUCod36x7Y
 * Q&A: Enclosed Belts https://www.youtube.com/watch?v=oLpv9B5-OjE
 * Q&A: When are we getting a Production Overview in the game? https://www.youtube.com/watch?v=OnK4DcHAB4o
 * Q&A: Any form of Mass Storage Management? https://www.youtube.com/watch?v=v_dacWIRc1Y

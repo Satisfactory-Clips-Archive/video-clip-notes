@@ -1,3 +1,10 @@
+---
+title: "Q&A: Train Update?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "features/transportation/trains"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Train Update?
 https://www.youtube.com/watch?v=ts7TQnRykB0

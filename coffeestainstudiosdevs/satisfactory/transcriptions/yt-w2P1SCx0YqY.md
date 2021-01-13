@@ -1,3 +1,10 @@
+---
+title: "Q&A: Can we have this build?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/satisfactory-2017"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Can we have this build?
 https://www.youtube.com/watch?v=w2P1SCx0YqY

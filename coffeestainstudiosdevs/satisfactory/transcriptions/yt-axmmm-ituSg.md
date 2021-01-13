@@ -1,3 +1,10 @@
+---
+title: "Q&A: When are you going to expand the map?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "environment/world-map"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: When are you going to expand the map?
 https://www.youtube.com/watch?v=axmmm-ituSg

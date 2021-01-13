@@ -1,3 +1,10 @@
+---
+title: "Snutt & Jace Talk: The Wiki"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "features/tiers"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt & Jace Talk: The Wiki
 https://www.youtube.com/watch?v=JGdEGbzDFlY

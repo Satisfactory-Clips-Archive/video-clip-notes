@@ -1,3 +1,10 @@
+---
+title: "Q&A: Is there going to be a Satisfactory for Mac?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "satisfactory-updates/release-builds"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Is there going to be a Satisfactory for Mac?
 https://www.youtube.com/watch?v=eLjNJO4pUBA

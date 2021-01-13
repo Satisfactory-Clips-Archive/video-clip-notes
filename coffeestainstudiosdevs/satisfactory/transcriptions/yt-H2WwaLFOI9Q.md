@@ -1,3 +1,10 @@
+---
+title: "Q&A: Mk.6 Belts coming?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "features/buildables/conveyor-belts"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Mk.6 Belts coming?
 https://www.youtube.com/watch?v=H2WwaLFOI9Q

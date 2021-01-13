@@ -1,3 +1,10 @@
+---
+title: "Q&A: I would be interested to see your in-house roadmap"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - ""
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: I would be interested to see your in-house roadmap
 https://www.youtube.com/watch?v=D0LY0PxkSJM

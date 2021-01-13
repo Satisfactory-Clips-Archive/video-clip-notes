@@ -1,3 +1,10 @@
+---
+title: "Q&A: Any news on Train Signals?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "features/transportation/trains"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Any news on Train Signals?
 https://www.youtube.com/watch?v=V-OVvjoUAmg

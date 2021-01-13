@@ -1,3 +1,10 @@
+---
+title: "Q&A: Can you add Road Foundations?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "features/buildables/foundations"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can you add Road Foundations?
 https://www.youtube.com/watch?v=ay4pgtU2Q8g

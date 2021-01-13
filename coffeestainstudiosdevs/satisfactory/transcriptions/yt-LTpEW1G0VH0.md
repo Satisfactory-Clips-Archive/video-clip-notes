@@ -1,3 +1,11 @@
+---
+title: "Q&A: Please reintroduce the Mining mini-game?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/satisfactory-2017"
+    - "environment/resources"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Please reintroduce the Mining mini-game?
 https://www.youtube.com/watch?v=LTpEW1G0VH0

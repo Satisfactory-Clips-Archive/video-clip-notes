@@ -1,3 +1,12 @@
+---
+title: "Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - "satisfactory-updates/released/satisfactory-update-3"
+    - "features/tiers"
+    - "satisfactory-updates/pending/satisfactory-update-4"
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?
 https://www.youtube.com/watch?v=42AzC9Qk2yc

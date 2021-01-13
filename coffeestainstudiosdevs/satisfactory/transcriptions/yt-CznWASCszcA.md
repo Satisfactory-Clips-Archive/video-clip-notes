@@ -1,3 +1,10 @@
+---
+title: "Q&A: Will there be intelligent aliens?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "environment/creatures"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will there be intelligent aliens?
 https://www.youtube.com/watch?v=CznWASCszcA

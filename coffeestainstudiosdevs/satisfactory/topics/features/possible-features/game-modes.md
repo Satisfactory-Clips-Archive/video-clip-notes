@@ -1,3 +1,7 @@
+---
+title: "Features > Possible Features > Game Modes"
+date: Last Modified
+---
 [Topics](../../../topics.md) > Features > Possible Features > Game Modes
 
 # December 15th, 2020 Livestream

@@ -1,3 +1,10 @@
+---
+title: "Q&A: Is terraforming possible any time in the future?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "environment/world-map"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Is terraforming possible any time in the future?
 https://www.youtube.com/watch?v=_fE2dbyaJZg

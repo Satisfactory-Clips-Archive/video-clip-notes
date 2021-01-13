@@ -1,3 +1,10 @@
+---
+title: "Q&A: Will planning be added?"
+date: "2020-12-15"
+layout: transcript
+topics:
+    - "technology/user-interface"
+---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will planning be added?
 https://www.youtube.com/watch?v=_HKsPj2tx04

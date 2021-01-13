@@ -1,3 +1,10 @@
+---
+title: "Q&A: What's the most outrageous suggestion you've gotten from the community?"
+date: "2020-12-08"
+layout: transcript
+topics:
+    - ""
+---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: What's the most outrageous suggestion you've gotten from the community?
 https://www.youtube.com/watch?v=8T_tAhaxVvw

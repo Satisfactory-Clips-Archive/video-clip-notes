@@ -1,3 +1,11 @@
+---
+title: "Q&A: Split-screen for Satisfactory?"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "technology/graphics"
+    - "features/multiplayer"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Split-screen for Satisfactory?
 https://www.youtube.com/watch?v=nA6JASYXPMM

@@ -1,3 +1,7 @@
+---
+title: "Technology > Graphics"
+date: Last Modified
+---
 [Topics](../../topics.md) > Technology > Graphics
 
 # December 15th, 2020 Livestream

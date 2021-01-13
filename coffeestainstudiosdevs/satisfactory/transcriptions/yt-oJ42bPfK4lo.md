@@ -1,3 +1,11 @@
+---
+title: "Jace Talk: More buildables"
+date: "2020-11-24"
+layout: transcript
+topics:
+    - "features/buildables/walls"
+    - "features/buildings"
+---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Jace Talk: More buildables
 https://www.youtube.com/watch?v=oJ42bPfK4lo

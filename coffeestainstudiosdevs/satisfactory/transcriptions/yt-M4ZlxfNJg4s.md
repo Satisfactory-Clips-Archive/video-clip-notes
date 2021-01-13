@@ -1,3 +1,10 @@
+---
+title: "Q&A: When can I change the keybindings?"
+date: "2020-09-08"
+layout: transcript
+topics:
+    - "technology/user-interface"
+---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When can I change the keybindings?
 https://www.youtube.com/watch?v=M4ZlxfNJg4s
