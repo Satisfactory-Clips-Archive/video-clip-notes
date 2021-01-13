@@ -4,7 +4,6 @@ date: Last Modified
 ---
 # Archives
 * [FAQ](satisfactory/FAQ.md)
-
 * [Topics](satisfactory/topics.md)
 
 # Archives By Date
