@@ -4,6 +4,11 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Technology > User Interface
 
+# January 12th, 2021 Livestream
+* Snutt Talk: Turbofuel in Jetpacks https://www.youtube.com/watch?v=xY2wDhyE7ZE
+* Q&A: Any changes coming to To-Do List? https://www.youtube.com/watch?v=NStZ-wKVHYc
+* Q&A: Are there plans to optimise the Tutorial? https://www.youtube.com/watch?v=yvrH5XwPi4k
+
 # December 15th, 2020 Livestream
 * Q&A: Will there be any changes to clear how the efficiency works? https://www.youtube.com/watch?v=XNigRFh5_LA
 * Q&A: Can you make a toolbar selection to be with just hotkeys instead of mousewheel? https://www.youtube.com/watch?v=xwwx4N37G8M
@@ -54,6 +59,19 @@ date: Last Modified
 * Q&A: Can we get the stream starting video as the main menu? https://www.youtube.com/watch?v=Mqso2kUIPVA
 * Q&A: Any chance of you putting a daily limit in the game? https://www.youtube.com/watch?v=vgxwqJg7o2A
 * Q&A: When will "coal" be "Coal" on the Resource Scanner? https://www.youtube.com/watch?v=p-Zd7qm0D6E
+
+# March 9th, 2019 Livestream
+* Snutt Talk: Inpure Resource Nodes https://www.youtube.com/watch?v=-OHmfKyBPA4
+* Q&A: Is that the alpha build version? https://www.youtube.com/watch?v=u9Vu9NIjiRs
+* Q&A: Controller support? https://www.youtube.com/watch?v=XrsD3h62ils
+* Snutt Talk: To-Do List https://www.youtube.com/watch?v=e-no7l9HuqE
+* Q&A: How do you ping? https://www.youtube.com/watch?v=3DLGyE9GUf4
+* Snutt & Jace Talk: Email replies work https://www.youtube.com/watch?v=yZRoWLhKetk
+* Q&A: When are you guys adding back maps? https://www.youtube.com/watch?v=DHWIPr3AYZo
+* Q&A: Quick keys for tools? https://www.youtube.com/watch?v=MUBE6tb7AjQ
+* Q&A: Will we ever be able to skip the Intro? https://www.youtube.com/watch?v=t_hHHaDdJU0
+* Q&A: Why is flashlight default key B and not F? https://www.youtube.com/watch?v=StrNS8tDWV4
+* Q&A: There is no way to hotkey items? https://www.youtube.com/watch?v=KmX7CoVGPA0
 
 # August 25th, 2020 Livestream
 * Q&A: Today I Learned - there's a mass dismantle? https://clips.twitch.tv/OnerousGlamorousMoonAllenHuhu

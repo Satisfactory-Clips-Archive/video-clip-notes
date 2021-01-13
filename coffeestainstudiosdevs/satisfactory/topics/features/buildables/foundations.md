@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Buildables > Foundations
 
+# January 12th, 2021 Livestream
+* Q&A: Possibility of placing more than one foundation at once? https://www.youtube.com/watch?v=TdmIe3EM_B8
+
 # December 15th, 2020 Livestream
 * Q&A: Can you add Road Foundations? https://www.youtube.com/watch?v=ay4pgtU2Q8g
 * Q&A: We need more foundation types- triangle foundations, smaller foundations? https://www.youtube.com/watch?v=V8sGth96I5w
@@ -21,6 +24,9 @@ date: Last Modified
 
 # September 1st, 2020 Livestream
 * Q&A: Any plans for bigger foundations? https://www.youtube.com/watch?v=uUFy6qyZLKo
+
+# March 9th, 2019 Livestream
+* Q&A: Why do you guys not use the Foundations? https://www.youtube.com/watch?v=SjwuIUhqtM8
 
 # August 25th, 2020 Livestream
 * Q&A: Set a specific Foundation as the keystone https://clips.twitch.tv/GoodAnimatedSproutPipeHype

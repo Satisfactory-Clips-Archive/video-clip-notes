@@ -21,6 +21,12 @@ date: Last Modified
 * Q&A: When are we getting Toilet Flush DLC? https://www.youtube.com/watch?v=24KsUKR3T-4
 * Q&A: Any plans on in-game Jukebox? https://www.youtube.com/watch?v=dbyTU3Wdpog
 
+# March 9th, 2019 Livestream
+* Q&A: Why does the rocket pod fly away for 1 - 10 minutes and then come back? https://www.youtube.com/watch?v=PtrLYyfhnvQ
+* Snutt Talk: the most important part of the HUB https://www.youtube.com/watch?v=DwdNTp6z1a4
+* Snutt Talk: HUB screens https://www.youtube.com/watch?v=ofpDJ6kv9Iw
+* Snutt Talk: Player death without the HUB being built. https://www.youtube.com/watch?v=hCPIVr5mlFQ
+
 # August 25th, 2020 Livestream
 * Q&A: Will you be able to play Doom on the Hub screens? https://clips.twitch.tv/DifficultDependableGooseAMPEnergyCherry
 

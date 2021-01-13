@@ -11,3 +11,7 @@ date: Last Modified
 * Q&A: If you have a full inventory you can remove just a single tree but you don't get the resources? https://www.youtube.com/watch?v=bwEOd9tqyuQ
 * Snutt Talk: Biomass / Biofuel / Handcrafting https://www.youtube.com/watch?v=QPgQXdWXoj4
 * Q&A: Any way to toggle AoE on the Chainsaw? https://www.youtube.com/watch?v=PsJvQrhXylU
+
+# March 9th, 2019 Livestream
+* Q&A: Can chainsaw kill the Fart Flower? https://www.youtube.com/watch?v=q07kHsvi3CU
+* Q&A: Why do the Chainsaws not do damage? https://www.youtube.com/watch?v=EsDX-SE0fGU

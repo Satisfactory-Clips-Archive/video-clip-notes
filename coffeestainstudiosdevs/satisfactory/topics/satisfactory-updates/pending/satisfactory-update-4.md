@@ -4,6 +4,14 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory Update 4
 
+# January 12th, 2021 Livestream
+* State of Dev - The Blender™ https://www.youtube.com/watch?v=XBt0OWqSRPA
+* Q&A: Update 4 Release Date https://www.youtube.com/watch?v=8-vsYNedzEw
+* Q&A: Will there be any minor releases between now and Update 4? https://www.youtube.com/watch?v=GaVr69FiXw8
+* Q&A: Is new stuff still being created for Update 4 or just polishing and bug-fixing at this point? https://www.youtube.com/watch?v=s_F-RlFKxzs
+* Q&A: Any early release previews for the update? https://www.youtube.com/watch?v=o1IfznnrGgc
+* Q&A: More performance updates with Update 4? https://www.youtube.com/watch?v=-NZqqfxHzhQ
+
 # December 15th, 2020 Livestream
 * Q&A: How big will the update for Update 4 be in gigabytes? https://www.youtube.com/watch?v=_i9f2NI9JNc
 * Q&A: Is there a reason to reveal so much Update 4 content in the latest YouTube video? https://www.youtube.com/watch?v=YyHvsUgbSGw

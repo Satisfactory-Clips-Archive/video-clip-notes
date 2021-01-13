@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Technology > Graphics
 
+# January 12th, 2021 Livestream
+* Q&A: Are there any plans to add Lights inside the factory? https://www.youtube.com/watch?v=QvTjwyhFvGQ
+
 # December 15th, 2020 Livestream
 * Q&A: Will RTX be added to Update 4 with the new Unreal Engine? https://www.youtube.com/watch?v=RubFX693enI
 
@@ -85,3 +88,11 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * Q&A: DXR/RTX/DLSS ? https://www.youtube.com/watch?v=QuoiJ9lpkB4
 * Q&A: Why did you change the Nuclear Reactors model? https://www.youtube.com/watch?v=hBpbwXr9cMs
+
+# March 9th, 2019 Livestream
+* Q&A: Does building Walls around big factories help performance? https://www.youtube.com/watch?v=Cnw8Vw-BFO4
+* Q&A: How did you guys optimise the game so much? https://www.youtube.com/watch?v=nRCmJo-Wh9s
+* Q&A: Game is awesome, but late-game is super laggy sometimes. https://www.youtube.com/watch?v=3MO6SYCZuFI
+* Q&A: Any way to disable motion blur? https://www.youtube.com/watch?v=TTZzooohufI
+* Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
+* Q&A: Why did you take our industrial lights away from walkways, I miss those? https://www.youtube.com/watch?v=Tit_bHzixmk

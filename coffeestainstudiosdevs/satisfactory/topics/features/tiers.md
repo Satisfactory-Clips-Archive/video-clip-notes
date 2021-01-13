@@ -31,6 +31,11 @@ date: Last Modified
 # September 8th, 2020 Livestream
 * Q&A: What additions to Tier 7 might be coming & when ? https://www.youtube.com/watch?v=lGbJwWh5W_I
 
+# March 9th, 2019 Livestream
+* Q&A: Did you mean to let us get above Tier 3 in the crashed ships? https://www.youtube.com/watch?v=-pXuWOzgCyQ
+* Q&A: Tier 4 open now? https://www.youtube.com/watch?v=dWt4mf9am90
+* Q&A: I think the milestones are too cheap https://www.youtube.com/watch?v=clmX0WGZBfg
+
 # August 25th, 2020 Livestream
 ## Tier 8
 * Q&A: When's Tier 8 coming? https://clips.twitch.tv/BlueMildLaptopHassaanChop

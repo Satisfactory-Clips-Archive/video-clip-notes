@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+# January 12th, 2021 Livestream
+* Snutt & Jace Talk: Dedicated Servers https://www.youtube.com/watch?v=Z3VztvcNSI8
+
 # December 15th, 2020 Livestream
 * Q&A: Dedicated Servers? https://www.youtube.com/watch?v=03Ybo6-_eWA
 * Q&A: Dedicated Servers? https://www.youtube.com/watch?v=HeezNCrsBRU
@@ -69,6 +72,10 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content? https://www.youtube.com/watch?v=CGoHMrbwftU
 * Q&A: Dedicated Servers https://www.youtube.com/watch?v=z5bf3k7JWlg
+
+# March 9th, 2019 Livestream
+* Q&A: Will Dedicated Servers and Mods be free? https://www.youtube.com/watch?v=WEq2xEXVVQ0
+* Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible? https://www.youtube.com/watch?v=Cnw_Ow3K29I
 
 # August 25th, 2020 Livestream
 * Q&A: Dedicated Servers update? https://clips.twitch.tv/AgitatedAltruisticAnacondaStinkyCheese

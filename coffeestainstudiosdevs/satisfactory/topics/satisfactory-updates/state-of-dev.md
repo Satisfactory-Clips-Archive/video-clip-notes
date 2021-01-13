@@ -4,6 +4,14 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Satisfactory Updates > State of Dev
 
+# January 12th, 2021 Livestream
+* State of Dev - FICS⁕MAS https://www.youtube.com/watch?v=dnkH1mqdCKI
+* State of Dev: Mug Merch https://www.youtube.com/watch?v=sDMER4xm8Gc
+* State of Dev - Unreal Engine Update https://www.youtube.com/watch?v=DNmmfH4tJSA
+* State of Dev: Coffee Stain new office (Part 1) https://www.youtube.com/watch?v=htoUHZbvu1A
+* State of Dev: Coffee Stain new office (Part 2) https://www.youtube.com/watch?v=yU3v4BNnUPU
+* State of Dev - The Blender™ https://www.youtube.com/watch?v=XBt0OWqSRPA
+
 # December 15th, 2020 Livestream
 * State of Dev https://www.youtube.com/watch?v=bGem8CSwRlQ
 

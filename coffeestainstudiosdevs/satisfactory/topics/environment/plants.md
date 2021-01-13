@@ -16,6 +16,9 @@ date: Last Modified
 # September 8th, 2020 Livestream
 * Q&A: Should I remove all nature to improve FPS? https://www.youtube.com/watch?v=t-FNpaJUBcE
 
+# March 9th, 2019 Livestream
+* Q&A: Can chainsaw kill the Fart Flower? https://www.youtube.com/watch?v=q07kHsvi3CU
+
 # August 25th, 2020 Livestream
 * Q&A: Removing vegetation speeds up the game, yes or no ? https://clips.twitch.tv/BusyHandsomeSmoothiePartyTime
 * Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt

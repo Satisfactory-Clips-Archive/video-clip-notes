@@ -41,6 +41,9 @@ date: Last Modified
 
 # Arachnophobia Mode
 
+## March 9th, 2019
+* Q&A: Where can I find those "cute cats" https://www.youtube.com/watch?v=ALTf24gjRHE
+
 ## September 22nd, 2020
 * Q&A: Can we get more cat variety? https://www.youtube.com/watch?v=v_9SO9SU3B0
 
@@ -71,6 +74,9 @@ date: Last Modified
 
 # Character Customisation
 
+## March 9th, 2019
+* Q&A: What gender is the character model? https://www.youtube.com/watch?v=eoMeAy8w2Fs
+
 ## October 20th, 2020
 * Q&A: Are there plans for Character Customisation? https://www.youtube.com/watch?v=LAR8rVCHVmw
 
@@ -85,6 +91,10 @@ date: Last Modified
 
 
 # Console Release
+
+## March 9th, 2019
+* Q&A: Any scope of the game being on consoles? https://www.youtube.com/watch?v=bsTq_WiSeCY
+* Q&A: Will you create Console version of Satisfactory? https://www.youtube.com/watch?v=_MGUbEI247M
 
 ## July 28th, 2020
 * Q&A: Satisfactory Console Release https://clips.twitch.tv/FragileNimbleEggnogDatSheffy
@@ -120,6 +130,15 @@ date: Last Modified
 
 
 # Creatures
+
+## March 9th, 2019
+* Q&A: Can creatures in any way disrupt your factory? https://www.youtube.com/watch?v=R2Fms8EjhN8
+* Q&A: How do you win the heart of Lizard Doggo? https://www.youtube.com/watch?v=z5BnfkmTQfA
+* Q&A: How to pet Doggo? https://www.youtube.com/watch?v=izvalD5vPuc
+* Q&A: Is it possible to kill a Spitter with the standard Zapper? https://www.youtube.com/watch?v=ZmVoWBHW9Jc
+* Q&A: Lizard Doggo plushie when? https://www.youtube.com/watch?v=jGiN1SdQOFk
+* Q&A: Where can I find those "cute cats" https://www.youtube.com/watch?v=ALTf24gjRHE
+* Q&A: Where is Lizard Doggo? https://www.youtube.com/watch?v=bB6SOIoAYg4
 
 ## September 15th, 2020
 * Q&A: Are we ever going to see a new enemy type? https://www.youtube.com/watch?v=Kxq543wzKcY
@@ -223,6 +242,12 @@ date: Last Modified
 * Q&A: Dedicated Servers? https://www.youtube.com/watch?v=HeezNCrsBRU
 
 
+# Equipment
+
+## March 9th, 2019
+* Q&A: Is it possible to kill a Spitter with the standard Zapper? https://www.youtube.com/watch?v=ZmVoWBHW9Jc
+
+
 # FICS⁕MAS
 
 ## December 8th, 2020
@@ -245,6 +270,9 @@ date: Last Modified
 ## October 27th, 2020
 * Q&A: Fluid Sink ever going to happen? https://www.youtube.com/watch?v=j79cJptq5h8
 
+## January 12th, 2021
+* Snutt Talk: Turbofuel in Jetpacks https://www.youtube.com/watch?v=xY2wDhyE7ZE
+
 
 # Foundations
 
@@ -257,8 +285,14 @@ date: Last Modified
 ## December 15th, 2020
 * Q&A: We need more foundation types- triangle foundations, smaller foundations? https://www.youtube.com/watch?v=V8sGth96I5w
 
+## January 12th, 2021
+* Q&A: Possibility of placing more than one foundation at once? https://www.youtube.com/watch?v=TdmIe3EM_B8
+
 
 # Game Modes
+
+## March 9th, 2019
+* Q&A: Another game mode with a procedurally generated world? https://www.youtube.com/watch?v=GZlK2fIlYVk
 
 ## September 15th, 2020
 * Q&A: Will there be more polish to the Survival aspects of the game? https://www.youtube.com/watch?v=0flTS1mpH7s
@@ -292,6 +326,10 @@ date: Last Modified
 
 
 # Graphics
+
+## March 9th, 2019
+* Q&A: Does building Walls around big factories help performance? https://www.youtube.com/watch?v=Cnw8Vw-BFO4
+* Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
 
 ## September 1st, 2020
 * Q&A: DXR/RTX/DLSS ? https://www.youtube.com/watch?v=QuoiJ9lpkB4
@@ -338,6 +376,9 @@ date: Last Modified
 ## December 15th, 2020
 * Q&A: Will RTX be added to Update 4 with the new Unreal Engine? https://www.youtube.com/watch?v=RubFX693enI
 
+## January 12th, 2021
+* Q&A: Are there any plans to add Lights inside the factory? https://www.youtube.com/watch?v=QvTjwyhFvGQ
+
 
 # Green Energy
 
@@ -360,11 +401,17 @@ date: Last Modified
 ## September 22nd, 2020
 * Q&A: Any plans to add a Levitate option with Jetpacks? https://www.youtube.com/watch?v=_9P859YpEbE
 
+## January 12th, 2021
+* Snutt Talk: Turbofuel in Jetpacks https://www.youtube.com/watch?v=xY2wDhyE7ZE
+
 
 # Localisation
 
 ## November 24th, 2020
 * Q&A: What other languages are going to be added? https://www.youtube.com/watch?v=xpzqQntBUgw
+
+## January 12th, 2021
+* Q&A: How can I help with translation- the Spanish one looks like Google Translator? https://www.youtube.com/watch?v=qbaev-b4lbQ
 
 
 # Mass Building
@@ -416,10 +463,16 @@ date: Last Modified
 ## December 15th, 2020
 * Q&A: Do you plan on adding mass foundation placement? https://www.youtube.com/watch?v=8Pm6KLejrOQ
 
+## January 12th, 2021
+* Q&A: Possibility of placing more than one foundation at once? https://www.youtube.com/watch?v=TdmIe3EM_B8
+
 
 # Merch
 
 *Please note that Merch has since been launched https://www.youtube.com/watch?v=4_cYnq746zk*
+## March 9th, 2019
+* Q&A: Lizard Doggo plushie when? https://www.youtube.com/watch?v=jGiN1SdQOFk
+
 ## July 28th, 2020
 * Q&A: Coffee Mug? https://clips.twitch.tv/SpunkyHyperWasabi4Head
 
@@ -477,6 +530,10 @@ date: Last Modified
 * Q&A: Coffee Mugs? https://www.youtube.com/watch?v=DuGUOXyGtHg
 * Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy? https://www.youtube.com/watch?v=PYyvu8feZqA
 
+## January 12th, 2021
+* Q&A: When will Merch shipping worldwide be possible? https://www.youtube.com/watch?v=iyFXDTn2YPM
+* State of Dev: Mug Merch https://www.youtube.com/watch?v=sDMER4xm8Gc
+
 
 # Mods
 
@@ -519,6 +576,9 @@ date: Last Modified
 
 
 # Multiplayer
+
+## March 9th, 2019
+* Q&A: Do you want to support more than 4 people? https://www.youtube.com/watch?v=wb5HY05QX9I
 
 ## September 8th, 2020
 * Q&A: Should I remove all nature to improve FPS? https://www.youtube.com/watch?v=t-FNpaJUBcE
@@ -649,6 +709,9 @@ date: Last Modified
 
 # Procedural Generation
 
+## March 9th, 2019
+* Q&A: The game won't have any random world generation, is that because of limitations of the engine? https://www.youtube.com/watch?v=NUXUlt4c26k
+
 ## September 15th, 2020
 * Q&A: Any plans for randomly generated worlds / Procedurally Generated maps? https://www.youtube.com/watch?v=eo_84m3ZYfQ
 
@@ -660,6 +723,10 @@ date: Last Modified
 
 
 # Release Builds
+
+## March 9th, 2019
+* Q&A: Are you adding support for Mac any time soon? https://www.youtube.com/watch?v=XQioxcXDRqc
+* Q&A: Is Linux support planned in the future? https://www.youtube.com/watch?v=GR3xet5AyuE
 
 ## November 3rd, 2020
 * Q&A: What's the difference between Experimental and the other version? https://www.youtube.com/watch?v=T6zmq2rGoHU
@@ -677,6 +744,11 @@ date: Last Modified
 
 # Resources
 
+## March 9th, 2019
+* Q&A: Are the Ore deposits infinite or do they exhaust eventually?? https://www.youtube.com/watch?v=v4zf3_-seAg
+* Q&A: Collect Fart Gas for fuel? https://www.youtube.com/watch?v=O5R_YmTmXUI
+* Q&A: What do you use S.A.M. Ore for? https://www.youtube.com/watch?v=jdOQXcBiSH0
+
 ## November 3rd, 2020
 * Q&A: Is it going to be possible to create randomly generated Resources on the Map? https://www.youtube.com/watch?v=xeAXhjMWZpI
 
@@ -688,6 +760,10 @@ date: Last Modified
 
 
 # Satisfactory 1.0
+
+## March 9th, 2019
+* Q&A: Is there an actual win condition or is it just 'til end of content? https://www.youtube.com/watch?v=Pn5tcfKmF20
+* Q&A: When is the official release? https://www.youtube.com/watch?v=H0HcDZTv_ts
 
 ## September 15th, 2020
 * Q&A: Full Release, 2021? https://www.youtube.com/watch?v=9Um_UtQI8yE
@@ -704,6 +780,9 @@ date: Last Modified
 
 ## December 15th, 2020
 * Q&A: What is priority currently? https://www.youtube.com/watch?v=GOg5NVFpjSU
+
+## January 12th, 2021
+* Q&A: Do we have an idea of the full release? https://www.youtube.com/watch?v=WoWR5Xsuav8
 
 
 # Satisfactory Fluids Update
@@ -812,6 +891,9 @@ date: Last Modified
 * Q&A: Will RTX be added to Update 4 with the new Unreal Engine? https://www.youtube.com/watch?v=RubFX693enI
 * Q&A: Will there be any major changes to the game with Update 4? https://www.youtube.com/watch?v=8ImofeADWyI
 
+## January 12th, 2021
+* Q&A: Update 4 Release Date https://www.youtube.com/watch?v=8-vsYNedzEw
+
 
 # Satisfactory Update 5
 
@@ -842,6 +924,9 @@ date: Last Modified
 ## November 10th, 2020
 * Q&A: Can you summarise the upcoming builds for the next months? https://www.youtube.com/watch?v=hUYyIETHuJ4
 
+## January 12th, 2021
+* State of Dev: Mug Merch https://www.youtube.com/watch?v=sDMER4xm8Gc
+
 
 # Storage Containers
 
@@ -850,6 +935,11 @@ date: Last Modified
 
 
 # Story & Lore
+
+## March 9th, 2019
+* Q&A: Is there an actual win condition or is it just 'til end of content? https://www.youtube.com/watch?v=Pn5tcfKmF20
+* Q&A: What's the final objective of the game? https://www.youtube.com/watch?v=xG0mfuXiFY8
+* Q&A: What gender is the character model? https://www.youtube.com/watch?v=eoMeAy8w2Fs
 
 ## September 22nd, 2020
 * Jace & Snutt Talk: Story https://www.youtube.com/watch?v=vPWShxAn3io
@@ -877,8 +967,14 @@ date: Last Modified
 ## December 15th, 2020
 * Q&A: Does Sanctum and Satisfactory exist in the same universe? https://www.youtube.com/watch?v=JnR3oHKDQi0
 
+## January 12th, 2021
+* Q&A: Does the game get a deeper Story? https://www.youtube.com/watch?v=QViQ--AWYjY
+
 
 # Terraforming
+
+## March 9th, 2019
+* Q&A: Are you going to add the ability to raise/lower parts of the landscape? https://www.youtube.com/watch?v=AEd2Rt5VDfk
 
 ## September 8th, 2020
 * Jace & Snutt Talk: Map Modding https://www.youtube.com/watch?v=4nzTdrIc2hg
@@ -937,6 +1033,9 @@ date: Last Modified
 ## December 15th, 2020
 * Q&A: Train Update? https://www.youtube.com/watch?v=ts7TQnRykB0
 
+## January 12th, 2021
+* Q&A: Any new information regarding Signal system for Trains? https://www.youtube.com/watch?v=Bu2TPRFV_2o
+
 
 # Trolling
 
@@ -953,6 +1052,9 @@ date: Last Modified
 
 
 # Unreal Engine
+
+## March 9th, 2019
+* Q&A: The game won't have any random world generation, is that because of limitations of the engine? https://www.youtube.com/watch?v=NUXUlt4c26k
 
 ## September 1st, 2020
 * Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are? https://www.youtube.com/watch?v=RyE_hc4huhA
@@ -989,11 +1091,20 @@ date: Last Modified
 
 # User Interface
 
+## March 9th, 2019
+* Q&A: Controller support? https://www.youtube.com/watch?v=XrsD3h62ils
+
 ## November 17th, 2020
 * Q&A: When are Geothermal Generators going to get it's Info Panel? https://www.youtube.com/watch?v=WTfWu44SQ1k
 
+## January 12th, 2021
+* Snutt Talk: Turbofuel in Jetpacks https://www.youtube.com/watch?v=xY2wDhyE7ZE
+
 
 # Vehicles
+
+## March 9th, 2019
+* Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
 
 ## September 1st, 2020
 * Q&A: Will the Factory Cart be available as Merch? https://www.youtube.com/watch?v=i1iL8KXmptE
@@ -1026,6 +1137,9 @@ date: Last Modified
 
 # Walls
 
+## March 9th, 2019
+* Q&A: Does building Walls around big factories help performance? https://www.youtube.com/watch?v=Cnw8Vw-BFO4
+
 ## November 24th, 2020
 * Q&A: When are diagonal Walls coming? https://www.youtube.com/watch?v=0-3ITfkBKZw
 
@@ -1044,6 +1158,14 @@ date: Last Modified
 
 
 # World Map
+
+## March 9th, 2019
+* Q&A: Another game mode with a procedurally generated world? https://www.youtube.com/watch?v=GZlK2fIlYVk
+* Q&A: Are you going to add the ability to raise/lower parts of the landscape? https://www.youtube.com/watch?v=AEd2Rt5VDfk
+* Q&A: Are you guys planning to add any terraforming or digging? https://www.youtube.com/watch?v=DW0MT8G-wMI
+* Q&A: The game won't have any random world generation, is that because of limitations of the engine? https://www.youtube.com/watch?v=NUXUlt4c26k
+* Q&A: The map is pre-made, not procedurally generated? https://www.youtube.com/watch?v=229Wl8AMQx8
+* Q&A: Will the game expand into space or will it stay on the ground? https://www.youtube.com/watch?v=Ea0f72zZshQ
 
 ## July 28th, 2020
 * Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5

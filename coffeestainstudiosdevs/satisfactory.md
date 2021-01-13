@@ -19,6 +19,9 @@ date: Last Modified
 * [August 18th, 2020](satisfactory/2020-08-18.md)
 * [August 25th, 2020](satisfactory/2020-08-25.md)
 
+## March 2019
+* [March 9th, 2019](satisfactory/2019-03-09.md)
+
 ## September 2020
 * [September 1st, 2020](satisfactory/2020-09-01.md)
 * [September 8th, 2020](satisfactory/2020-09-08.md)
@@ -42,3 +45,6 @@ date: Last Modified
 * [December 1st, 2020](satisfactory/2020-12-01.md)
 * [December 8th, 2020](satisfactory/2020-12-08.md)
 * [December 15th, 2020](satisfactory/2020-12-15.md)
+
+## January 2021
+* [January 12th, 2021](satisfactory/2021-01-12.md)

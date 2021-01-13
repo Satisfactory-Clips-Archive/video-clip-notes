@@ -53,6 +53,10 @@ date: Last Modified
 * Q&A: Would geothermal generators get a buff or rework of sorts? https://www.youtube.com/watch?v=T7BPQ1ZHeJA
 * Q&A: Any plans to get rid of Nuclear Waste? https://www.youtube.com/watch?v=cxWdU5_ai-0
 
+# March 9th, 2019 Livestream
+* Q&A: Is it possible to use powerline as zip-lines? https://www.youtube.com/watch?v=NTeBuhOqIu0
+* Q&A: Will there be better power poles later on? https://www.youtube.com/watch?v=rgIApn5PfMM
+
 # August 25th, 2020 Livestream
 * Q&A: What about a more complex power system with transformers and stuff? https://clips.twitch.tv/FrozenVivaciousLaptopGivePLZ
 * Q&A: AI in an Electricity Management System that can handle power surges when we're away from base? https://clips.twitch.tv/FancyPiercingLardOneHand

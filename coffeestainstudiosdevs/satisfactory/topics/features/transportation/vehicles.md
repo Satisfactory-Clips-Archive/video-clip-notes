@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Transportation > Vehicles
 
+# January 12th, 2021 Livestream
+* Q&A: Model of the Explorer seems incomplete? https://www.youtube.com/watch?v=8wGU5mxm-bY
+
 # December 15th, 2020 Livestream
 * Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update? https://www.youtube.com/watch?v=6BahsrvlPJs
 
@@ -60,6 +63,15 @@ date: Last Modified
 
 # September 1st, 2020 Livestream
 * Q&A: Will the Factory Cart be available as Merch? https://www.youtube.com/watch?v=i1iL8KXmptE
+
+# March 9th, 2019 Livestream
+* Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot. https://www.youtube.com/watch?v=YwhXtnyk8YE
+* Q&A: Weirdest bug you guys fixed https://www.youtube.com/watch?v=ybgZUbANGrM
+* Q&A: Tractor, but "Sugar Cube" is mentioned in the description? https://www.youtube.com/watch?v=qvzPjISX75Y
+* Q&A: I don't understand the autopilot for the Tractor? https://www.youtube.com/watch?v=V7BwnNzG8I0
+* Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
+* Q&A: Do you guys plan on adding filters to Truck Stations? https://www.youtube.com/watch?v=HzaMvf15Ty8
+* Q&A: I've activated autopilot but it doesn't run? https://www.youtube.com/watch?v=yzhYoMChQ6Q
 
 # August 25th, 2020 Livestream
 * Snutt Talk: Improving on Vehicles https://clips.twitch.tv/AmazonianAnnoyingSushiUncleNox

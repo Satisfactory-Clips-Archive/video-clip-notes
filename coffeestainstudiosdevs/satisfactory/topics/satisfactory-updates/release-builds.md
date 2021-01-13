@@ -22,5 +22,17 @@ date: Last Modified
 * Q&A: What's the Modular Build? https://www.youtube.com/watch?v=vKIeFeGPXJQ
 * Q&A: Is there a difference in performance between the Epic version and the Steam version? https://www.youtube.com/watch?v=CgGc8VRspUA
 
+# March 9th, 2019 Livestream
+* Q&A: Is that the alpha build version? https://www.youtube.com/watch?v=u9Vu9NIjiRs
+* Jace Talk: All saves should work https://www.youtube.com/watch?v=w9kJj1Hd-cs
+* Q&A: Is the Early Access version the same version Alpha Testers have? https://www.youtube.com/watch?v=bnUTeUn6TA4
+* Snutt Talk: Alpha Test Weekend Hard Drive M.A.M. bug https://www.youtube.com/watch?v=EyUfBo2-gjw
+* Q&A: How often will you release updates in Early Access? https://www.youtube.com/watch?v=PBkvqmyjADM
+* Q&A: Are you adding support for Mac any time soon? https://www.youtube.com/watch?v=XQioxcXDRqc
+* Q&A: Is Linux support planned in the future? https://www.youtube.com/watch?v=GR3xet5AyuE
+* Q&A: Will I be able to play it on my Samsung fridge? https://www.youtube.com/watch?v=8pVI2F2Y7rs
+* Snutt, Simon, Jace Talk: Early Access Release https://www.youtube.com/watch?v=RsI9XqjI0fk
+* Q&A: You guys are planning a mobile port, right? https://www.youtube.com/watch?v=gxWgVKBPTtM
+
 # August 25th, 2020 Livestream
 * Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp

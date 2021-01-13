@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Unplanned Features > Mass Building
 
+# January 12th, 2021 Livestream
+* Q&A: Possibility of placing more than one foundation at once? https://www.youtube.com/watch?v=TdmIe3EM_B8
+
 # December 15th, 2020 Livestream
 * Q&A: Do you plan on adding mass foundation placement? https://www.youtube.com/watch?v=8Pm6KLejrOQ
 

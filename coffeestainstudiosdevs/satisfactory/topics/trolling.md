@@ -4,6 +4,10 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Trolling
 
+# January 12th, 2021 Livestream
+* Q&A: Can we get a Console Release for the KFConsole? https://www.youtube.com/watch?v=P7R2hxi19pM
+* Q&A: Can we blend Lizard Doggos in the new Blender? https://www.youtube.com/watch?v=Keprp2vxOM8
+
 # December 15th, 2020 Livestream
 * Q&A: How big will the update for Update 4 be in gigabytes? https://www.youtube.com/watch?v=_i9f2NI9JNc
 
@@ -42,3 +46,8 @@ date: Last Modified
 * Trolling: This is an honest stream https://www.youtube.com/watch?v=L5L3kXz810E
 * Trolling: Adding Cigarettes to the game https://www.youtube.com/watch?v=OvP_WQvSEuc
 * Trolling: Roleplay https://www.youtube.com/watch?v=woqoPQxH1aQ
+
+# March 9th, 2019 Livestream
+* Snutt Talk: the most important part of the HUB https://www.youtube.com/watch?v=DwdNTp6z1a4
+* Q&A: You guys are planning a mobile port, right? https://www.youtube.com/watch?v=gxWgVKBPTtM
+* Jace Talk: ADA and "deez nuts" https://www.youtube.com/watch?v=5v6QGL7KBZk

@@ -17,5 +17,8 @@ date: Last Modified
 # November 10th, 2020 Livestream
 * Q&A: Need Doors before Elevators? https://www.youtube.com/watch?v=PxNJBFSLvNc
 
+# March 9th, 2019 Livestream
+* Q&A: Does building Walls around big factories help performance? https://www.youtube.com/watch?v=Cnw8Vw-BFO4
+
 # August 25th, 2020 Livestream
 * Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause

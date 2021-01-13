@@ -4,6 +4,12 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory 1.0
 
+# January 12th, 2021 Livestream
+* Q&A: The game is not done until I can flush the toilet? https://www.youtube.com/watch?v=64xmTN-rhbs
+* Q&A: What's happening with S.A.M. Ore? https://www.youtube.com/watch?v=f0Z9VIAK5Iw
+* Q&A: Mercer Spheres and Somersloops? https://www.youtube.com/watch?v=99pdUN5glzw
+* Q&A: Do we have an idea of the full release? https://www.youtube.com/watch?v=WoWR5Xsuav8
+
 # December 15th, 2020 Livestream
 * Q&A: What is priority currently? https://www.youtube.com/watch?v=GOg5NVFpjSU
 
@@ -41,3 +47,7 @@ date: Last Modified
 # September 15th, 2020 Livestream
 * Q&A: Full Release, 2021? https://www.youtube.com/watch?v=9Um_UtQI8yE
 * Q&A: When do the Work In Progress items get a purpose? https://www.youtube.com/watch?v=koMqOABA6x8
+
+# March 9th, 2019 Livestream
+* Q&A: When is the official release? https://www.youtube.com/watch?v=H0HcDZTv_ts
+* Q&A: Is there an actual win condition or is it just 'til end of content? https://www.youtube.com/watch?v=Pn5tcfKmF20

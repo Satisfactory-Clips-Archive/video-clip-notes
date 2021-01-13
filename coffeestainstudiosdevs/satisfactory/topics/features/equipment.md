@@ -13,5 +13,10 @@ date: Last Modified
 # September 15th, 2020 Livestream
 * Q&A: Can I wear Boots, Jetpack and a Gas Mask? https://www.youtube.com/watch?v=Gt1ATsmBu6k
 
+# March 9th, 2019 Livestream
+* Q&A: Is it possible to kill a Spitter with the standard Zapper? https://www.youtube.com/watch?v=ZmVoWBHW9Jc
+* Q&A: Quick keys for tools? https://www.youtube.com/watch?v=MUBE6tb7AjQ
+* Q&A: There is no way to hotkey items? https://www.youtube.com/watch?v=KmX7CoVGPA0
+
 # August 25th, 2020 Livestream
 * Q&A: Explosive Barrels of Gas we can send through the rail guns ? https://clips.twitch.tv/CrowdedRespectfulNostrilNotATK

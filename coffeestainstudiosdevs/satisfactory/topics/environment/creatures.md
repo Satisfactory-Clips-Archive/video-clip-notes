@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > Creatures
 
+# January 12th, 2021 Livestream
+* Q&A: Can we blend Lizard Doggos in the new Blender? https://www.youtube.com/watch?v=Keprp2vxOM8
+
 # December 15th, 2020 Livestream
 * Q&A: Will there be new enemies? https://www.youtube.com/watch?v=mwN7mAZ2dbg
 
@@ -59,6 +62,30 @@ date: Last Modified
 # September 15th, 2020 Livestream
 * Q&A: Does the Giant Crab unlock stuff? https://www.youtube.com/watch?v=Dsjz5ntv9II
 * Q&A: Are we ever going to see a new enemy type? https://www.youtube.com/watch?v=Kxq543wzKcY
+
+# March 9th, 2019 Livestream
+* Q&A: Where is Lizard Doggo? https://www.youtube.com/watch?v=bB6SOIoAYg4
+* Q&A: Where can I find those "cute cats" https://www.youtube.com/watch?v=ALTf24gjRHE
+* Q&A: What's the name of the tall thing? https://www.youtube.com/watch?v=EhbB7DIOdZ4
+* Snutt Talk: Lizard Doggo work name https://www.youtube.com/watch?v=BTV3_zIpImo
+* Q&A: How many bosses in Satisfactory? https://www.youtube.com/watch?v=OHrWEP9zmy8
+* Q&A: How do you win the heart of Lizard Doggo? https://www.youtube.com/watch?v=z5BnfkmTQfA
+* Q&A: Lizard Doggo plushie when? https://www.youtube.com/watch?v=jGiN1SdQOFk
+* Q&A: You can tame any native lifeform? https://www.youtube.com/watch?v=EnGMyJjYDdI
+* Q&A: Is it possible to kill a Spitter with the standard Zapper? https://www.youtube.com/watch?v=ZmVoWBHW9Jc
+* Q&A: When are you going to add orcs to the game? https://www.youtube.com/watch?v=S43FE8W6Feo
+* Snutt, Simon, & Jace Talk: Space Potato https://www.youtube.com/watch?v=OAIUIEgtCxU
+* Q&A: How many types of scary spiders / cute cats are in game? https://www.youtube.com/watch?v=Qw4AMG6mgnY
+* Jace Talk: Petting the Lizard Doggo https://www.youtube.com/watch?v=1ZxQ9RoC930
+* Jace & Simon take on a Hog that rode Snutt https://www.youtube.com/watch?v=U8qgrw_iVLU
+* Q&A: I don't like spiders but arachnophobia mode is even scarier https://www.youtube.com/watch?v=GluAI4ipeLY
+* Q&A: Are there any goats in the game? https://www.youtube.com/watch?v=jAjSoN6Z1rc
+* Q&A: Are there going to be strawberry fishes in the game? https://www.youtube.com/watch?v=LKcrsIMzGYY
+* Q&A: Plans to make saddle for the big flying thing? https://www.youtube.com/watch?v=gcjbJ7uX2No
+* Q&A: How to pet Doggo? https://www.youtube.com/watch?v=izvalD5vPuc
+* Q&A: Is there a name for the giant flying creature? https://www.youtube.com/watch?v=bWnZ-OI-_Og
+* Q&A: Is there more than 5 enemies in? https://www.youtube.com/watch?v=DLnUjlixpg8
+* Q&A: Can creatures in any way disrupt your factory? https://www.youtube.com/watch?v=R2Fms8EjhN8
 
 # August 25th, 2020 Livestream
 * Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY

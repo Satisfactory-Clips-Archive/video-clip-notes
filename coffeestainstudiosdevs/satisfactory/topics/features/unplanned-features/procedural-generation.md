@@ -20,3 +20,7 @@ date: Last Modified
 
 # September 8th, 2020 Livestream
 * Q&A: Procedural Generation? https://www.youtube.com/watch?v=lcZJKlvLZuo
+
+# March 9th, 2019 Livestream
+* Q&A: The game won't have any random world generation, is that because of limitations of the engine? https://www.youtube.com/watch?v=NUXUlt4c26k
+* Q&A: Procedural generation can be done good, look at Rust? https://www.youtube.com/watch?v=bTR3AWDpld4

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > World Map
 
+# January 12th, 2021 Livestream
+* Q&A: Which Biome will be rebuilt? https://www.youtube.com/watch?v=5v0_pFbQLF4
+
 # December 15th, 2020 Livestream
 * Q&A: Will we add more to the Map? https://www.youtube.com/watch?v=NeQpezHiVzI
 * Q&A: Will there be a Snow Biome? https://www.youtube.com/watch?v=iyhdKRg1b0A
@@ -82,6 +85,27 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * Q&A: Map expansion ? https://www.youtube.com/watch?v=2ZHnQ9U4f9I
 * Q&A: Let Hannah finish her work on the map before expanding? https://www.youtube.com/watch?v=wZOVw8KV1rQ
+
+# March 9th, 2019 Livestream
+* Q&A: The map is pre-made, not procedurally generated? https://www.youtube.com/watch?v=229Wl8AMQx8
+* Q&A: Is the Desert Biome available in the beta? https://www.youtube.com/watch?v=JMQotRaN9Bs
+* Jace Talk: The Map is not procedural https://www.youtube.com/watch?v=lTWfWXB6IG8
+* Q&A: When are you guys adding back maps? https://www.youtube.com/watch?v=DHWIPr3AYZo
+* Q&A: Are you guys planning to add any terraforming or digging? https://www.youtube.com/watch?v=DW0MT8G-wMI
+* Q&A: How many biomes are in game? https://www.youtube.com/watch?v=ouDTfnrZDKo
+* Jace Talk: Grass https://www.youtube.com/watch?v=vpbfpee26Yo
+* Jace Talk: fantasyish Biome https://www.youtube.com/watch?v=-2hJ5_qMAoM
+* Q&A: Are you going to add the ability to raise/lower parts of the landscape? https://www.youtube.com/watch?v=AEd2Rt5VDfk
+* Q&A: Flying vehicles for overhead view of your factory? https://www.youtube.com/watch?v=njN-07Q5-8s
+* Snutt, Simon, & Jace Talk: Unfinished areas/Biomes https://www.youtube.com/watch?v=Un45veTgPk8
+* Snutt & Jace Talk: Verticality & top-down views, procedural generation https://www.youtube.com/watch?v=mvkDIjW-NDs
+* Q&A: What's the point of naming beacons? https://www.youtube.com/watch?v=NsywV9ie78k
+* Q&A: Will the game expand into space or will it stay on the ground? https://www.youtube.com/watch?v=Ea0f72zZshQ
+* Q&A: Another game mode with a procedurally generated world? https://www.youtube.com/watch?v=GZlK2fIlYVk
+* Q&A: The game won't have any random world generation, is that because of limitations of the engine? https://www.youtube.com/watch?v=NUXUlt4c26k
+* Q&A: I wouldn't be surprised if Mod support enable third-party maps? https://www.youtube.com/watch?v=LgGYmQrwAgg
+* Snutt & Jace Talk: Archway Story Time https://www.youtube.com/watch?v=5481tMGLLys
+* Q&A: Are you supposed to be able to break the rocks that has a slug inside of it? https://www.youtube.com/watch?v=SaJCkdeMMh0
 
 # August 25th, 2020 Livestream
 * Q&A: Underwater biome when? https://clips.twitch.tv/HonorableCautiousDonutStoneLightning

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > Resources
 
+# January 12th, 2021 Livestream
+* Q&A: What's happening with S.A.M. Ore? https://www.youtube.com/watch?v=f0Z9VIAK5Iw
+
 # December 15th, 2020 Livestream
 * Q&A: Will we be able to deal with Gas towers you can't kill right now? https://www.youtube.com/watch?v=0nRCXveJemw
 
@@ -28,6 +31,13 @@ date: Last Modified
 
 # October 6th, 2020 Livestream
 * Q&A: Will the Resource Transportation get an update? https://www.youtube.com/watch?v=hKxm2Ps1UYY
+
+# March 9th, 2019 Livestream
+* Snutt Talk: Inpure Resource Nodes https://www.youtube.com/watch?v=-OHmfKyBPA4
+* Q&A: Are the Ore deposits infinite or do they exhaust eventually?? https://www.youtube.com/watch?v=v4zf3_-seAg
+* Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot. https://www.youtube.com/watch?v=YwhXtnyk8YE
+* Q&A: Collect Fart Gas for fuel? https://www.youtube.com/watch?v=O5R_YmTmXUI
+* Q&A: What do you use S.A.M. Ore for? https://www.youtube.com/watch?v=jdOQXcBiSH0
 
 # August 25th, 2020 Livestream
 * Q&A: Will you be adding more variety of resources? https://clips.twitch.tv/BraveThankfulBeefFreakinStinkin

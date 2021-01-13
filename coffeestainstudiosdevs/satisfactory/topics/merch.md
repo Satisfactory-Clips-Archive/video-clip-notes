@@ -4,6 +4,10 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Merch
 
+# January 12th, 2021 Livestream
+* State of Dev: Mug Merch https://www.youtube.com/watch?v=sDMER4xm8Gc
+* Q&A: When will Merch shipping worldwide be possible? https://www.youtube.com/watch?v=iyFXDTn2YPM
+
 # December 15th, 2020 Livestream
 * Q&A: Coffee Mugs? https://www.youtube.com/watch?v=DuGUOXyGtHg
 * Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy? https://www.youtube.com/watch?v=PYyvu8feZqA
@@ -56,6 +60,10 @@ date: Last Modified
 * Q&A: What about the Merch? https://www.youtube.com/watch?v=jQyDj_wa0LA
 * Q&A: The Doggo Plushie has to fit into the Cup https://www.youtube.com/watch?v=HMsgkhM0i34
 * Q&A: Will the Factory Cart be available as Merch? https://www.youtube.com/watch?v=i1iL8KXmptE
+
+# March 9th, 2019 Livestream
+* Q&A: Lizard Doggo plushie when? https://www.youtube.com/watch?v=jGiN1SdQOFk
+* Q&A: Do I get a sticker for how many bugs I reported in alpha? https://www.youtube.com/watch?v=2ny0XTCY6l0
 
 # August 18th, 2020 Livestream
 * Q&A: Is there a Merch Store? https://clips.twitch.tv/CleanCarefulMoonAMPEnergyCherry

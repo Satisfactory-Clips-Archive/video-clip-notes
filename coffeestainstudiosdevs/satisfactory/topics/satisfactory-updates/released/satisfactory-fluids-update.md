@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Released > Satisfactory Fluids Update
 
+# January 12th, 2021 Livestream
+* State of Dev - The Blender™ https://www.youtube.com/watch?v=XBt0OWqSRPA
+
 # December 8th, 2020 Livestream
 * Snutt Talk: Update 4 Tier 7 changes & Early Access https://www.youtube.com/watch?v=X9X9MsVbDAk
 

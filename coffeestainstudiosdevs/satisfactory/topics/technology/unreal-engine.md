@@ -4,6 +4,13 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Technology > Unreal Engine
 
+# January 12th, 2021 Livestream
+* State of Dev - Unreal Engine Update https://www.youtube.com/watch?v=DNmmfH4tJSA
+* Q&A: Will there be any minor releases between now and Update 4? https://www.youtube.com/watch?v=GaVr69FiXw8
+* Q&A: More performance updates with Update 4? https://www.youtube.com/watch?v=-NZqqfxHzhQ
+* Q&A: CPU make multi-core? https://www.youtube.com/watch?v=0yzIyIlPDxw
+* Q&A: Hope more crashes won't appear after the Engine Upgrade? https://www.youtube.com/watch?v=IiJqms2FdS4
+
 # December 15th, 2020 Livestream
 * Q&A: Infinite Colours? https://www.youtube.com/watch?v=i1-FmJGxPPg
 * Q&A: Will Hyper Tube cannons be broken by the Engine Upgrade? https://www.youtube.com/watch?v=TYZBVCcqLzg
@@ -61,6 +68,9 @@ date: Last Modified
 
 # September 1st, 2020 Livestream
 * Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are? https://www.youtube.com/watch?v=RyE_hc4huhA
+
+# March 9th, 2019 Livestream
+* Q&A: The game won't have any random world generation, is that because of limitations of the engine? https://www.youtube.com/watch?v=NUXUlt4c26k
 
 # August 25th, 2020 Livestream
 * Q&A: Will we ever have proper multi-core support? https://clips.twitch.tv/VenomousProtectiveDonutTheTarFu

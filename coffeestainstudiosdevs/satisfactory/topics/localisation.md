@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Localisation
 
+# January 12th, 2021 Livestream
+* Q&A: How can I help with translation- the Spanish one looks like Google Translator? https://www.youtube.com/watch?v=qbaev-b4lbQ
+
 # December 8th, 2020 Livestream
 * Q&A: How come the translations are weird when it was natively made in Swedish? https://www.youtube.com/watch?v=OloYImcj1GA
 

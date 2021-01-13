@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Story & Lore
 
+# January 12th, 2021 Livestream
+* Q&A: Does the game get a deeper Story? https://www.youtube.com/watch?v=QViQ--AWYjY
+
 # December 15th, 2020 Livestream
 * Q&A: Does Sanctum and Satisfactory exist in the same universe? https://www.youtube.com/watch?v=JnR3oHKDQi0
 * Q&A: Will the game in the future have some cataclysms or breakdowns? https://www.youtube.com/watch?v=O02Z9u7DpPo
@@ -61,6 +64,12 @@ date: Last Modified
 
 # September 1st, 2020 Livestream
 * Q&A: Will Story happen in Update 4? https://www.youtube.com/watch?v=_I0dz6Zop0w
+
+# March 9th, 2019 Livestream
+* Q&A: What's the final objective of the game? https://www.youtube.com/watch?v=xG0mfuXiFY8
+* Q&A: What gender is the character model? https://www.youtube.com/watch?v=eoMeAy8w2Fs
+* Snutt Talk: Somersloop https://www.youtube.com/watch?v=9ALpZxsfl10
+* Q&A: Is there an actual win condition or is it just 'til end of content? https://www.youtube.com/watch?v=Pn5tcfKmF20
 
 # August 25th, 2020 Livestream
 * Q&A: Will there be more narrative? https://clips.twitch.tv/DarlingPoisedPotCopyThis

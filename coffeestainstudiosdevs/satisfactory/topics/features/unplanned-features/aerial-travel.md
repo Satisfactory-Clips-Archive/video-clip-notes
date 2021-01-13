@@ -26,6 +26,10 @@ date: Last Modified
 * Q&A: Jetpack needs a Hover Mode? https://www.youtube.com/watch?v=zeXh53pKe0A
 * Q&A: The game needs small Flying Vehicles to travel long distance? https://www.youtube.com/watch?v=i0_bbpQ_91I
 
+# March 9th, 2019 Livestream
+* Q&A: Is it possible to use powerline as zip-lines? https://www.youtube.com/watch?v=NTeBuhOqIu0
+* Q&A: Flying vehicles for overhead view of your factory? https://www.youtube.com/watch?v=njN-07Q5-8s
+
 # August 25th, 2020 Livestream
 * Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother
 * Q&A: How about a drone to fly around? https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby
