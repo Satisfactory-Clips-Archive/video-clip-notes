@@ -10,6 +10,14 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any news on big Crab monster?
 https://www.youtube.com/watch?v=tTXExwaqZQM
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > so any news on big crab monster uh i
 > 
 > don't know what the latest is on him

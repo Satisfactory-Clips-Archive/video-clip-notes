@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Official Mod support?
 https://www.youtube.com/watch?v=0M3RKdwK5mA
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > um i don't know when when official mods
 > 
 > support one drop

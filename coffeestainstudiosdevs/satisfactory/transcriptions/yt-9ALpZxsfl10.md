@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt Talk: Somersloop
 https://www.youtube.com/watch?v=9ALpZxsfl10
+
+### Topics
+
+
+### Transcript
+
 > that yeah yeah look at this look at this
 > 
 > oh [ __ ] explosion thingy

@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Give us a sneak peak?
 https://www.youtube.com/watch?v=CExAeq0cW5E
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > i'll send my card in folks give us a
 > 
 > sneak peek here's the thing guys we've

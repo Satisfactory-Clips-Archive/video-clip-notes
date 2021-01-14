@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Update 4 still this year?
 https://www.youtube.com/watch?v=EH6z7ln4OAc
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > update for still this year
 > 
 > um maybe maybe not maybe next year maybe

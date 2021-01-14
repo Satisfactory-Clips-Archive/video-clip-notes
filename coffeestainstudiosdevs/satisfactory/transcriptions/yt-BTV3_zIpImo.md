@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt Talk: Lizard Doggo work name
 https://www.youtube.com/watch?v=BTV3_zIpImo
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > so like speaking of
 > 
 > like work names the the official like

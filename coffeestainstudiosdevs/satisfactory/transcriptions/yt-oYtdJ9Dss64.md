@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Can we get Mobs that spawn near you and attack you?
 https://www.youtube.com/watch?v=oYtdJ9Dss64
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > list can we get mobs that spawn near you
 > 
 > and attack you

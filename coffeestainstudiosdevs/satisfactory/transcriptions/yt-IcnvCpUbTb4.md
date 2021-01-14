@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Hunger & Thirst
 https://www.youtube.com/watch?v=IcnvCpUbTb4
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+
+### Transcript
+
 > when tomorrow we're doing adding
 > 
 > tomorrow i've got one more announcement

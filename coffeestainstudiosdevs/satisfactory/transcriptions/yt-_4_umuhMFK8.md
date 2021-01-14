@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: What's the best nickname someone has ever given you?
 https://www.youtube.com/watch?v=_4_umuhMFK8
+
+### Topics
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+
+### Transcript
+
 > what's the best nickname someone has
 > 
 > ever given you

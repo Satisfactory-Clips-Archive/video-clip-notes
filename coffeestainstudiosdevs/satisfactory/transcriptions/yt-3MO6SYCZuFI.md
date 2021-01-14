@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Game is awesome, but late-game is super laggy sometimes.
 https://www.youtube.com/watch?v=3MO6SYCZuFI
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > is doing today the game is also just
 > 
 > like

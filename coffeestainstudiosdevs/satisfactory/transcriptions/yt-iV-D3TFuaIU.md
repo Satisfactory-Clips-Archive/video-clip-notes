@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: How come so many Dutch developers?
 https://www.youtube.com/watch?v=iV-D3TFuaIU
+
+### Topics
+
+
+### Transcript
+
 > how come so many dutch developers yeah
 > 
 > we have a lot of dutch people

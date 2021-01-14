@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will Hyper Tube cannons be patched out eventually & officially supported as a feature?
 https://www.youtube.com/watch?v=bvtKzwJA4pw
+
+### Topics
+* [Features > Transportation > Hyper Tubes](../topics/features/transportation/hyper-tubes.md)
+
+### Transcript
+
 > um will hypertube cannons be patched out
 > 
 > eventually

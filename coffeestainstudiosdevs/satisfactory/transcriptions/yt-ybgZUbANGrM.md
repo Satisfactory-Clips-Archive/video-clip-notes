@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Weirdest bug you guys fixed
 https://www.youtube.com/watch?v=ybgZUbANGrM
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > back what is weirdest bugs you guys yeah
 > 
 > chase

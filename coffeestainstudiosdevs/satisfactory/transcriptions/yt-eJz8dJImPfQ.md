@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: VR Support?
 https://www.youtube.com/watch?v=eJz8dJImPfQ
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > vr support uh
 > 
 > people yeah every week we have people

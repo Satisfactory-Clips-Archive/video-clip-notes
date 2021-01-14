@@ -11,6 +11,15 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?
 https://www.youtube.com/watch?v=SJI1puC2mEw
+
+### Topics
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > yeah they plan on letting us uh put pipe
 > 
 > splitters on top of belt splitters and

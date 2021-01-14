@@ -5,36 +5,36 @@ date: Last Modified
 [Topics](../../topics.md) > Features > Tiers
 
 # December 15th, 2020 Livestream
-* Q&A: Have you confirmed Superposition Oscillators and Quantum Computers to be buildable in Tier 8? https://www.youtube.com/watch?v=fmE3DQFeVGk
+* [Q&A: Have you confirmed Superposition Oscillators and Quantum Computers to be buildable in Tier 8?](../../transcriptions/yt-fmE3DQFeVGk.md) https://www.youtube.com/watch?v=fmE3DQFeVGk
 
 # December 8th, 2020 Livestream
-* Q&A: How does Coffee Stain feel with all Tier 1-6 stuff? https://www.youtube.com/watch?v=42AzC9Qk2yc
-* Snutt Talk: Update 4 Tier 7 changes & Early Access https://www.youtube.com/watch?v=X9X9MsVbDAk
-* Q&A: Is Tier 8 last Tier for the game? https://www.youtube.com/watch?v=FhoIzj_QLm0
-* Snutt & Jace Talk: The Wiki https://www.youtube.com/watch?v=JGdEGbzDFlY
-* Q&A: Do you guys know what is going to be the last Tier in the game? https://www.youtube.com/watch?v=ZOmxbDTRWmg
+* [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../transcriptions/yt-42AzC9Qk2yc.md) https://www.youtube.com/watch?v=42AzC9Qk2yc
+* [Snutt Talk: Update 4 Tier 7 changes & Early Access](../../transcriptions/yt-X9X9MsVbDAk.md) https://www.youtube.com/watch?v=X9X9MsVbDAk
+* [Q&A: Is Tier 8 last Tier for the game?](../../transcriptions/yt-FhoIzj_QLm0.md) https://www.youtube.com/watch?v=FhoIzj_QLm0
+* [Snutt & Jace Talk: The Wiki](../../transcriptions/yt-JGdEGbzDFlY.md) https://www.youtube.com/watch?v=JGdEGbzDFlY
+* [Q&A: Do you guys know what is going to be the last Tier in the game?](../../transcriptions/yt-ZOmxbDTRWmg.md) https://www.youtube.com/watch?v=ZOmxbDTRWmg
 
 # November 17th, 2020 Livestream
-* Trolling: Flying Vehicles in Update 4 https://www.youtube.com/watch?v=E666WdfoeP0
+* [Trolling: Flying Vehicles in Update 4](../../transcriptions/yt-E666WdfoeP0.md) https://www.youtube.com/watch?v=E666WdfoeP0
 
 # November 10th, 2020 Livestream
-* Q&A: New Tiers? https://www.youtube.com/watch?v=cApO9CV5uhU
-* Q&A: When are the next stages in the HUB? https://www.youtube.com/watch?v=m4ur5WEWkRY
+* [Q&A: New Tiers?](../../transcriptions/yt-cApO9CV5uhU.md) https://www.youtube.com/watch?v=cApO9CV5uhU
+* [Q&A: When are the next stages in the HUB?](../../transcriptions/yt-m4ur5WEWkRY.md) https://www.youtube.com/watch?v=m4ur5WEWkRY
 
 # November 3rd, 2020 Livestream
-* Q&A: Are you concerned that Dedicated Servers will cause people to move through Tiers too quickly? https://www.youtube.com/watch?v=A2fwfnB8O4U
+* [Q&A: Are you concerned that Dedicated Servers will cause people to move through Tiers too quickly?](../../transcriptions/yt-A2fwfnB8O4U.md) https://www.youtube.com/watch?v=A2fwfnB8O4U
 
 # September 22nd, 2020 Livestream
-* Q&A: Will there be more adjustments to progression? https://www.youtube.com/watch?v=9hON4HpgaXU
-* Q&A: Tier 9, 10, 11, 12? https://www.youtube.com/watch?v=NU1DLvv4zb0
+* [Q&A: Will there be more adjustments to progression?](../../transcriptions/yt-9hON4HpgaXU.md) https://www.youtube.com/watch?v=9hON4HpgaXU
+* [Q&A: Tier 9, 10, 11, 12?](../../transcriptions/yt-NU1DLvv4zb0.md) https://www.youtube.com/watch?v=NU1DLvv4zb0
 
 # September 8th, 2020 Livestream
-* Q&A: What additions to Tier 7 might be coming & when ? https://www.youtube.com/watch?v=lGbJwWh5W_I
+* [Q&A: What additions to Tier 7 might be coming & when ?](../../transcriptions/yt-lGbJwWh5W_I.md) https://www.youtube.com/watch?v=lGbJwWh5W_I
 
 # March 9th, 2019 Livestream
-* Q&A: Did you mean to let us get above Tier 3 in the crashed ships? https://www.youtube.com/watch?v=-pXuWOzgCyQ
-* Q&A: Tier 4 open now? https://www.youtube.com/watch?v=dWt4mf9am90
-* Q&A: I think the milestones are too cheap https://www.youtube.com/watch?v=clmX0WGZBfg
+* [Q&A: Did you mean to let us get above Tier 3 in the crashed ships?](../../transcriptions/yt--pXuWOzgCyQ.md) https://www.youtube.com/watch?v=-pXuWOzgCyQ
+* [Q&A: Tier 4 open now?](../../transcriptions/yt-dWt4mf9am90.md) https://www.youtube.com/watch?v=dWt4mf9am90
+* [Q&A: I think the milestones are too cheap](../../transcriptions/yt-clmX0WGZBfg.md) https://www.youtube.com/watch?v=clmX0WGZBfg
 
 # August 25th, 2020 Livestream
 ## Tier 8

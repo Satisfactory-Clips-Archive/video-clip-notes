@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Randomising nodes?
 https://www.youtube.com/watch?v=eTALbWgKmuE
+
+### Topics
+* [Environment > Resources](../topics/environment/resources.md)
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+
+### Transcript
+
 > uh we're randomizing nodes
 > 
 > uh yeah like things like randomizing and

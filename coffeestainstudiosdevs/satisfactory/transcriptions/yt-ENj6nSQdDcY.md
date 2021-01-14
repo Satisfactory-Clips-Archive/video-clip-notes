@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What's the Fluid Update?
 https://www.youtube.com/watch?v=ENj6nSQdDcY
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > what's the fluid update ah it's it's a
 > 
 > no big deal

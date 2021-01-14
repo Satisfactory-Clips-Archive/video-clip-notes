@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is there a known issue with friend's games not showing cross-platform?
 https://www.youtube.com/watch?v=y5z4GmkeGhA
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > Snutt: Tier 17!
 > 
 > Jace: Uh is there a known issue with friends' games not showing cross-platform?

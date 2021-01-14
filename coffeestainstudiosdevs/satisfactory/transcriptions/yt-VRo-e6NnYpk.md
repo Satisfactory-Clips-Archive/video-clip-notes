@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Can we choose the gender of the player?
 https://www.youtube.com/watch?v=VRo-e6NnYpk
+
+### Topics
+
+
+### Transcript
+
 > so maybe i don't know can we choose the
 > 
 > jenner of the player uh right now the

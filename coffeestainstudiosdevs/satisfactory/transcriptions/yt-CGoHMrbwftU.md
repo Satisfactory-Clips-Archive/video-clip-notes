@@ -9,6 +9,13 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content?
 https://www.youtube.com/watch?v=CGoHMrbwftU
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > it's a good question dedicated servers
 > 
 > that's actually a good point uh let me

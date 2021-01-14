@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When are the next stages in the HUB?
 https://www.youtube.com/watch?v=m4ur5WEWkRY
+
+### Topics
+* [Features > Tiers](../topics/features/tiers.md)
+
+### Transcript
+
 > would be pretty fun yeah
 > 
 > uh one of the next stages in the hub um

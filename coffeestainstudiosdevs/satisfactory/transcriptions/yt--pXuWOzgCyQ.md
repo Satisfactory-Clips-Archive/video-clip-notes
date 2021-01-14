@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Did you mean to let us get above Tier 3 in the crashed ships?
 https://www.youtube.com/watch?v=-pXuWOzgCyQ
+
+### Topics
+* [Features > Tiers](../topics/features/tiers.md)
+
+### Transcript
+
 > yeah did you mean to let us get above
 > 
 > tier three in the crash ships

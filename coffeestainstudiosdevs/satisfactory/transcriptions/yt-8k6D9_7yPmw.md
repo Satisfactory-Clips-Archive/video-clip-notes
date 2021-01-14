@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Do you have an in-house tool for calculating balance of factory outputs and the like?
 https://www.youtube.com/watch?v=8k6D9_7yPmw
+
+### Topics
+
+
+### Transcript
+
 > uh do you have an in-house tool for
 > 
 > calculating balance of factory outputs

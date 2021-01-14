@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Broader Belts?
 https://www.youtube.com/watch?v=Y1ulbhgaSeU
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+
+### Transcript
+
 > broader belts
 > 
 > no that's crazy uh

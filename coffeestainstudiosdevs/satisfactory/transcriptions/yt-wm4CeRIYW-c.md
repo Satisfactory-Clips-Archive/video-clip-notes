@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Are you happy with the progress of the game?
 https://www.youtube.com/watch?v=wm4CeRIYW-c
+
+### Topics
+
+
+### Transcript
+
 > are you happy with the progress of the
 > 
 > game uh i think we are

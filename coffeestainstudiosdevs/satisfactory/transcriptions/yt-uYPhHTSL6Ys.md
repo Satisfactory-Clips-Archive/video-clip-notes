@@ -10,6 +10,14 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Snutt & Jace Talk: State of Dev
 https://www.youtube.com/watch?v=uYPhHTSL6Ys
+
+### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+
+### Transcript
+
 > from stick stone separately very nice uh
 > 
 > okay well shall we get into it

@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Are there server files when I want to host my own Dedicated Server?
 https://www.youtube.com/watch?v=12nA53wOK6w
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > are there server files if i want to host
 > 
 > my

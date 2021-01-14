@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Do you know I Am Kibitz?
 https://www.youtube.com/watch?v=KWRlYteoilQ
+
+### Topics
+
+
+### Transcript
+
 > do you know i am kibbits i discovered
 > 
 > the game thanks to his youtube channel

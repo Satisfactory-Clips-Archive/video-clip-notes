@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Any new info about Train Signals?
 https://www.youtube.com/watch?v=bPU07wU3Mr0
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+
+### Transcript
+
 > uh any new uh info about train signals
 > 
 > uh there's gonna be train signals right

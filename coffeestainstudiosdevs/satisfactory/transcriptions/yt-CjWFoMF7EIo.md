@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Can you add ability to deselect with ctrl?
 https://www.youtube.com/watch?v=CjWFoMF7EIo
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > can you add ability to deselect with
 > 
 > control

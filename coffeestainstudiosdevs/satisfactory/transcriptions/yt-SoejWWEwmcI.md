@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Will the Crab Boss be flying or ground-bound?
 https://www.youtube.com/watch?v=SoejWWEwmcI
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > will the crab boss be flying or will be
 > 
 > ground bound i have no idea i've never

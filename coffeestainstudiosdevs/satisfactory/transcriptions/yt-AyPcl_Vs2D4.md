@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Who suggested to build factory game?
 https://www.youtube.com/watch?v=AyPcl_Vs2D4
+
+### Topics
+
+
+### Transcript
+
 > who suggested to build factory game
 > 
 > uh it is it was just um

@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: ETA on the next patch?
 https://www.youtube.com/watch?v=qqzCKyEWttg
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > eta in the next patch
 > 
 > um so we're hoping to get it out like

@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Why do you guys speak English so fluently in Sweden?
 https://www.youtube.com/watch?v=aFcW-Zs8DzE
+
+### Topics
+
+
+### Transcript
+
 > why do you guys speak english so
 > 
 > fluently in sweden

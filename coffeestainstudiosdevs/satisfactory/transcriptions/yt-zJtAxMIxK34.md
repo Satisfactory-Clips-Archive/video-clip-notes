@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Does anyone actually moderate the questions site?
 https://www.youtube.com/watch?v=zJtAxMIxK34
+
+### Topics
+
+
+### Transcript
+
 > does anyone actually moderate the
 > 
 > question site lately there's been more

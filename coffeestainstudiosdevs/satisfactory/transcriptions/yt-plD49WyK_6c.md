@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Does Coffee Stain have a fun code-name for the game, or is it just Satisfactory internally?
 https://www.youtube.com/watch?v=plD49WyK_6c
+
+### Topics
+
+
+### Transcript
+
 > does coffee stain have a fun code name
 > 
 > for the game or is it just satisfactory

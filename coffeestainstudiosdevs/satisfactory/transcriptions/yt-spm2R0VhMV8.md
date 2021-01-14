@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Five years? What is this- an Early Access Logistics game?
 https://www.youtube.com/watch?v=spm2R0VhMV8
+
+### Topics
+
+
+### Transcript
+
 > i have some idea like five years what is
 > 
 > this an early access logistics game oh

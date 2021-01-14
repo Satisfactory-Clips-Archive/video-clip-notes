@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Finish like a Credits scene in-game and game end?
 https://www.youtube.com/watch?v=HMrZKuuXUEs
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+
+### Transcript
+
 > on that uh finish like a credit scene in
 > 
 > game end yeah sure i guess so i mean i

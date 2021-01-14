@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When will "coal" be "Coal" on the Resource Scanner?
 https://www.youtube.com/watch?v=p-Zd7qm0D6E
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > future we are planning for it when will
 > 
 > coal be coal

@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Jace Talk: Grass
 https://www.youtube.com/watch?v=vpbfpee26Yo
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 >  yeah all right now i'm not
 > 
 > completely useless

@@ -9,6 +9,13 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Are Dedicated Servers part of Update 4?
 https://www.youtube.com/watch?v=MKjtHTOMDZk
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > you wish dedicated servers part of
 > 
 > update for a separate so they're

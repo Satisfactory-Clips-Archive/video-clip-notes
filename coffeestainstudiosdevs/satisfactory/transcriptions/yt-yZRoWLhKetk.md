@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt & Jace Talk: Email replies work
 https://www.youtube.com/watch?v=yZRoWLhKetk
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > up here we just get email what is this
 > 
 > limes oh it's limestone yeah i'm getting

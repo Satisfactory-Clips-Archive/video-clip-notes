@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any plans to bring Satisfactory to Linux?
 https://www.youtube.com/watch?v=ADBTXxQnDL4
+
+### Topics
+
+
+### Transcript
+
 > any plans to bring the factory to linux
 > 
 > um we don't have any plans per se

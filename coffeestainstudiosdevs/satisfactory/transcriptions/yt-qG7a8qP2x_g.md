@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Jace & Snutt Talk: State of Dev
 https://www.youtube.com/watch?v=qG7a8qP2x_g
+
+### Topics
+
+
+### Transcript
+
 > so let's talk about the dev then what
 > 
 > the hell is going on at the studio

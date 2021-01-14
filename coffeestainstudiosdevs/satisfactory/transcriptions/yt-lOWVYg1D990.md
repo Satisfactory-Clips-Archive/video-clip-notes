@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Any plans to add Ducks to the game?
 https://www.youtube.com/watch?v=lOWVYg1D990
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > person so any plans to add ducks to the
 > 
 > game

@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will existing Mods work with new build?
 https://www.youtube.com/watch?v=bBrB9Qeb1hk
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > that's what we need well existing mods
 > 
 > would work with the new build

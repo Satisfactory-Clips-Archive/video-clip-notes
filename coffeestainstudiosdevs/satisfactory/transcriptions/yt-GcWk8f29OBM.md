@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Any chance of a new Map?
 https://www.youtube.com/watch?v=GcWk8f29OBM
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > any chance of a new map no no chance
 > 
 > current current change uh change of the

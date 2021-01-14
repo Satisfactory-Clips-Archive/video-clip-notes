@@ -10,6 +10,14 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any quality-of-life stuff for platform placing or fluids?
 https://www.youtube.com/watch?v=zCdLPoPjIBY
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > any quality of stuff in regards to path
 > 
 > platform placing or moving nature in the

@@ -9,6 +9,13 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Why does my game lag when I made a huge Base?
 https://www.youtube.com/watch?v=oJnzSnxlxsE
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > kind of is why does my game lag when i
 > 
 > make a huge base that's because

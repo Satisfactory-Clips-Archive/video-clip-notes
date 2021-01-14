@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Jace Talk: All saves should work
 https://www.youtube.com/watch?v=w9kJj1Hd-cs
+
+### Topics
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+
+### Transcript
+
 > do you keep things uh i missed your
 > 
 > comment but i think girls do you keep

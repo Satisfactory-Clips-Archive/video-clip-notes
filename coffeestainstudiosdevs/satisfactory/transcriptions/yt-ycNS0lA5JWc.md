@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Any chance of Simon becoming 3rd Community Manager?
 https://www.youtube.com/watch?v=ycNS0lA5JWc
+
+### Topics
+* [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+
+### Transcript
+
 > any chance of simon becoming thirds he
 > 
 > had zero percent chance

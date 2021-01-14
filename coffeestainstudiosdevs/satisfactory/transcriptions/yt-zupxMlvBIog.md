@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Quality of Life regards the Map like floating water falls, rocks, holes in the map?
 https://www.youtube.com/watch?v=zupxMlvBIog
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > uh quality of life regards the
 > 
 > map like floating waterfalls rocks holes

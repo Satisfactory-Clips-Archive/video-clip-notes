@@ -10,6 +10,14 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can you summarise the upcoming builds for the next months?
 https://www.youtube.com/watch?v=hUYyIETHuJ4
+
+### Topics
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > um can you summarize the upcoming builds
 > 
 > for the next few months

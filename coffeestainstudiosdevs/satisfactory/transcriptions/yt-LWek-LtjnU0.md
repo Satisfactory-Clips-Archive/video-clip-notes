@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Any new Ores coming to the game?
 https://www.youtube.com/watch?v=LWek-LtjnU0
+
+### Topics
+* [Environment > Resources](../topics/environment/resources.md)
+
+### Transcript
+
 > okay any new wars coming to the game
 > 
 > no uh as far as i know the only or

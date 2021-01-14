@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Strange Creature Mounts?
 https://www.youtube.com/watch?v=EeYyKTOE5mQ
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > get it strange creature mounts yeah you
 > 
 > i'm trying to find a good warcraft uh

@@ -9,6 +9,13 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will the drag technology of Ladders be used elsewhere?
 https://www.youtube.com/watch?v=g8ljtppxPL4
+
+### Topics
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Buildables > Ladders](../topics/features/buildables/ladders.md)
+
+### Transcript
+
 > well the drag technology of ladders also
 > 
 > be used elsewhere

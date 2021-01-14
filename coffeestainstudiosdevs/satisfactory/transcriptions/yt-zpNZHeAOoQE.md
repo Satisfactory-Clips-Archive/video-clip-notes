@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Solar Panels?
 https://www.youtube.com/watch?v=zpNZHeAOoQE
+
+### Topics
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > okay solar panels uh also something
 > 
 > to upvote on the question site uh it's

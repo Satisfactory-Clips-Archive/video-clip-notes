@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Jace & Simon take on a Hog that rode Snutt
 https://www.youtube.com/watch?v=U8qgrw_iVLU
+
+### Topics
+* [Features > Photo Mode](../topics/features/photo-mode.md)
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > it's pretty cool
 > 
 > that is a big hug oh that's a trap right

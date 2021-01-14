@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, Jace Talk: Animator, Sound Designer, Tim, and Simon Saga
 https://www.youtube.com/watch?v=mTBx_JmNnsE
+
+### Topics
+* [Coffee Stainers > Tim](../topics/coffee-stainers/tim.md)
+* [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+
+### Transcript
+
 > uh miss serena asked that then like i
 > 
 > said the animators did such a fantastic

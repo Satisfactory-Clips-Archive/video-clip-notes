@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: What will Story Mode be like?
 https://www.youtube.com/watch?v=rRESDp2VwEI
+
+### Topics
+
+
+### Transcript
+
 > uh what will story mode be like like in
 > 
 > the story told

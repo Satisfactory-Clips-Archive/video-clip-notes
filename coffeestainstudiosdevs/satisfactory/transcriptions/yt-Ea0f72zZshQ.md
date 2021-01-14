@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will the game expand into space or will it stay on the ground?
 https://www.youtube.com/watch?v=Ea0f72zZshQ
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > it's pretty crazy yeah will the game
 > 
 > expand into space so will it stay on the

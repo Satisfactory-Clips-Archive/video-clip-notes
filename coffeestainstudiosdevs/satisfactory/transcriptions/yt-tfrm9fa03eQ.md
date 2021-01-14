@@ -9,6 +9,13 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Jace & Snutt Talk: Update Release Schedule
 https://www.youtube.com/watch?v=tfrm9fa03eQ
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > the trailers that are coming up the
 > 
 > update itself is planned for

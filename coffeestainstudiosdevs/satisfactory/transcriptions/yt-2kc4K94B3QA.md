@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can you remove Fluid from crate because I destroyed a Fluid Train and got a crate full of fluid
 https://www.youtube.com/watch?v=2kc4K94B3QA
+
+### Topics
+* [Features > Fluids](../topics/features/fluids.md)
+
+### Transcript
+
 > um can you remove
 > 
 > fluid from crate because i destroyed

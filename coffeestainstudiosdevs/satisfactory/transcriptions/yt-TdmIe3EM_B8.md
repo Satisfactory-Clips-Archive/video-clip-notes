@@ -9,6 +9,13 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Possibility of placing more than one foundation at once?
 https://www.youtube.com/watch?v=TdmIe3EM_B8
+
+### Topics
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > um possibilities of placing more than
 > 
 > one foundation at once that's something

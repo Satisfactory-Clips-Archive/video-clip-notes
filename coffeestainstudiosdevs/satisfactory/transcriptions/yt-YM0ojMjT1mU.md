@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will there be a stream or something with Hannah?
 https://www.youtube.com/watch?v=YM0ojMjT1mU
+
+### Topics
+
+
+### Transcript
+
 > protective layer uh will there be a
 > 
 > stream or something with hannah yeah

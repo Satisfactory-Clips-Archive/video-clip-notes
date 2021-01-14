@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Are Steam Achievements going to be added in the future?
 https://www.youtube.com/watch?v=Gi08SVnHyLU
+
+### Topics
+
+
+### Transcript
+
 > uh that was something else here that i
 > 
 > our steam achievements gonna be added in

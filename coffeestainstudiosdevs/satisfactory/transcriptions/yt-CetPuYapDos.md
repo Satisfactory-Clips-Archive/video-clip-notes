@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Turkish section on the Discord/Forums?
 https://www.youtube.com/watch?v=CetPuYapDos
+
+### Topics
+
+
+### Transcript
+
 > um as turkish players we
 > 
 > very much want to have our own sections

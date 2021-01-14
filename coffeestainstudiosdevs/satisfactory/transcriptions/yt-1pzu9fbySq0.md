@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will the Map become bigger?
 https://www.youtube.com/watch?v=1pzu9fbySq0
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > will the map become bigger
 > 
 > it won't become bigger but there will be

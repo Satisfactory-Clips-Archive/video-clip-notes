@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: What's the most outrageous suggestion you've gotten from the community?
 https://www.youtube.com/watch?v=8T_tAhaxVvw
+
+### Topics
+
+
+### Transcript
+
 > they are yeah what's the most outrageous
 > 
 > suggestion you've gotten so far from the

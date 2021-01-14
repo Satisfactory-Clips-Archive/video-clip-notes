@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will there be a Story Mode?
 https://www.youtube.com/watch?v=e_CXOG7_cH8
+
+### Topics
+
+
+### Transcript
+
 > um will there be a story mode uh yes
 > 
 > there's gonna be

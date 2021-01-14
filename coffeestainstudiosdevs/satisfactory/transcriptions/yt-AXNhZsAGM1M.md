@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are you going to add earth problems for smoke fault?
 https://www.youtube.com/watch?v=AXNhZsAGM1M
+
+### Topics
+* [Environment > Pollution](../topics/environment/pollution.md)
+
+### Transcript
+
 > peace uh you're gonna add earth
 > 
 > problems for smoke fault i assume that's

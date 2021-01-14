@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Coffee Cup Mk.2
 https://www.youtube.com/watch?v=MkmrRDX0axw
+
+### Topics
+
+
+### Transcript
+
 > planned for next halloween coffee cup
 > 
 > mark ii

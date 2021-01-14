@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Elements of Survival ?
 https://www.youtube.com/watch?v=B3bO7b-5jHA
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+
+### Transcript
+
 > right now at some point will aliens
 > 
 > attack and threaten the

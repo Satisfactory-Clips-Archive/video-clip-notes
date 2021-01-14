@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Jace Talk: Preorder confusion
 https://www.youtube.com/watch?v=Fk-hgvsxXzg
+
+### Topics
+
+
+### Transcript
+
 > i'm confused because i bought the game
 > 
 > though i wanted to stream on my channel

@@ -9,6 +9,13 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will there be more options for aesthetics regarding things like house building?
 https://www.youtube.com/watch?v=qQJTAvtzB-8
+
+### Topics
+* [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > uh will there be more options for
 > 
 > aesthetics regarding things like house

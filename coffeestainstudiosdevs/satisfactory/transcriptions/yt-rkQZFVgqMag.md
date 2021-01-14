@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Jace & Snutt Talk: Community built-tools
 https://www.youtube.com/watch?v=rkQZFVgqMag
+
+### Topics
+
+
+### Transcript
+
 > tr imagine doing this in a five by five
 > 
 > yeah okay

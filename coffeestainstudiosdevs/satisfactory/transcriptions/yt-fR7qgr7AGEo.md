@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: You mentioned Power isn't going to stay the way it is?
 https://www.youtube.com/watch?v=fR7qgr7AGEo
+
+### Topics
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > uh you guys mentioned that power isn't
 > 
 > going to stay the way it currently is

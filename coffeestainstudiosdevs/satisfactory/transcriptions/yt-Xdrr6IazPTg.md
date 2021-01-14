@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Maybe it's a good idea to dynamically hand over authority a vehicle in multiplayer?
 https://www.youtube.com/watch?v=Xdrr6IazPTg
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > [Music]
 > 
 > regarding multiplayer maybe it's a good

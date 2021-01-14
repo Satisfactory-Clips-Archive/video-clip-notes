@@ -9,6 +9,13 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Multiplayer fix?
 https://www.youtube.com/watch?v=LX-zsQIkB3g
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > probably never multiplayer fix which one
 > 
 > there is uh there are some multiplayer

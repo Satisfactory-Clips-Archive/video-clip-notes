@@ -9,6 +9,13 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: What about having covered Conveyors to help performance?
 https://www.youtube.com/watch?v=dbJGfDr5SLk
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > what about having covered conveyors to
 > 
 > help performance

@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: I have 24 (CPU) cores, can you make more use of it ?
 https://www.youtube.com/watch?v=LUM8i_wyJ-Y
+
+### Topics
+
+
+### Transcript
+
 > do a face reveal yeah i have 24 cores
 > 
 > uh can you make more use of it so the

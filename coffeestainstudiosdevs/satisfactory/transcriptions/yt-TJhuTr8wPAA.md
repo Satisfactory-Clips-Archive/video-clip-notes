@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt Talk: Cookie Factory Mod
 https://www.youtube.com/watch?v=TJhuTr8wPAA
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > check that out same i'm still
 > 
 > really sad to see that uh somebody

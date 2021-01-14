@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Turbofuel?
 https://www.youtube.com/watch?v=5rp-Y1WsPnA
+
+### Topics
+* [Features > Fluids](../topics/features/fluids.md)
+
+### Transcript
+
 > major um someone is screaming turbo fuel
 > 
 > over and over and over if you want to

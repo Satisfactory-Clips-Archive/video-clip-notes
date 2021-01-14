@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Is there going to be more equipment coming, like Rifle Mk. 2?
 https://www.youtube.com/watch?v=-fXaMAXEY5U
+
+### Topics
+* [Features > Equipment](../topics/features/equipment.md)
+
+### Transcript
+
 > is there going to be more equipment
 > 
 > coming like

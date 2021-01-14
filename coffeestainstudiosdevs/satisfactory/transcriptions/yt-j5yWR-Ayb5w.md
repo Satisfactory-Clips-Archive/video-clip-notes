@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do we have support for Ultra-wide Monitors?
 https://www.youtube.com/watch?v=j5yWR-Ayb5w
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > okay sure um will it be official support
 > 
 > for ultrawide monitors i don't know if

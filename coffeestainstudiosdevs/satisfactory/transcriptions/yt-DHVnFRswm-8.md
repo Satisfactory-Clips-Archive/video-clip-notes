@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Jace & Snutt Talk: Mods
 https://www.youtube.com/watch?v=DHVnFRswm-8
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > i resent any mods in my vanilla game
 > 
 > yeah hopefully we can get uh

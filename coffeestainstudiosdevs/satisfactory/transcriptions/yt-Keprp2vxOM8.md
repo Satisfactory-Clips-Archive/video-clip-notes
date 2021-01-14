@@ -9,6 +9,13 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Can we blend Lizard Doggos in the new Blender?
 https://www.youtube.com/watch?v=Keprp2vxOM8
+
+### Topics
+* [Features > Buildings > Blender](../topics/features/buildings/blender.md)
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > let's see uh can we blend lizzy doggers
 > 
 > in the new blender

@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: The Mug?
 https://www.youtube.com/watch?v=mg0CAgdI5S8
+
+### Topics
+
+
+### Transcript
+
 > yes uh someone has is asking about
 > 
 > the mug hmm

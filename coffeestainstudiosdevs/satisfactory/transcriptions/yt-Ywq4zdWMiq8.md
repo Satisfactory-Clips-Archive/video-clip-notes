@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will Blueprints be a thing at some point?
 https://www.youtube.com/watch?v=Ywq4zdWMiq8
+
+### Topics
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > um well blueprints be a thing at some
 > 
 > point

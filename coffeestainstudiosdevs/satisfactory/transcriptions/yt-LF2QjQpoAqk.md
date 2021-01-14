@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Update to the save system?
 https://www.youtube.com/watch?v=LF2QjQpoAqk
+
+### Topics
+
+
+### Transcript
+
 > and update to the save system what kind
 > 
 > of update are you looking for

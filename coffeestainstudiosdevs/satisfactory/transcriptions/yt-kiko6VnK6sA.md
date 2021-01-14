@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Any update for Hosted/Dedicated Servers?
 https://www.youtube.com/watch?v=kiko6VnK6sA
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > yeah uh any update for hosted servers
 > 
 > they're still being worked on right

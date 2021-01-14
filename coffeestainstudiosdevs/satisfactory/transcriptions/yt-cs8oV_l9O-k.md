@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can I switch between Experimental & Early Access?
 https://www.youtube.com/watch?v=cs8oV_l9O-k
+
+### Topics
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+
+### Transcript
+
 > uh okay so then there's um
 > 
 > can i switch from experiment to early

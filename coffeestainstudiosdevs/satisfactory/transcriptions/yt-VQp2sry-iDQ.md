@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are you going to add Ansel support for HD photos? (Part 2)
 https://www.youtube.com/watch?v=VQp2sry-iDQ
+
+### Topics
+* [Features > Photo Mode](../topics/features/photo-mode.md)
+
+### Transcript
+
 > zapper yes sleepless on i i think that
 > 
 > is the

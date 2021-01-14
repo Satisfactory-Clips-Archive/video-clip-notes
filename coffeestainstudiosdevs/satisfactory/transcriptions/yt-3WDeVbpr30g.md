@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Do we intend to add rain/storms ?
 https://www.youtube.com/watch?v=3WDeVbpr30g
+
+### Topics
+* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+
+### Transcript
+
 > do we enter uh intend to add rain
 > 
 > electrical storms

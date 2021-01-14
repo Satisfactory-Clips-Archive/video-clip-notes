@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## State of Dev
 https://www.youtube.com/watch?v=bGem8CSwRlQ
+
+### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+
+### Transcript
+
 > um and yeah on that point let's start
 > 
 > with

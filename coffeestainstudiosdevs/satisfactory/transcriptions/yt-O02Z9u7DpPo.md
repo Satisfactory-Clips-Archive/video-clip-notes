@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will the game in the future have some cataclysms or breakdowns?
 https://www.youtube.com/watch?v=O02Z9u7DpPo
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > question from steam because i missed
 > 
 > that well the game fee in the future had

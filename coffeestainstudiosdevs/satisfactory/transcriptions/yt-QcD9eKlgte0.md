@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Jace Talk: Multiplayer experience vs. Dedicated Server
 https://www.youtube.com/watch?v=QcD9eKlgte0
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > the the covers n ellen exactly the multi
 > 
 > experience would be like using multiple

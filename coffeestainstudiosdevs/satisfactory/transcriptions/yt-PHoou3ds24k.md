@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Snutt Talk: Looking into Modular Builds for the Game
 https://www.youtube.com/watch?v=PHoou3ds24k
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > uh one oh one one more
 > 
 > kind of interesting thing i guess is

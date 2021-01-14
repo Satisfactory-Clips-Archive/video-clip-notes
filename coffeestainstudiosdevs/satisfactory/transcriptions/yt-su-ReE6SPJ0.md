@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Jace Talk: Winter Hibernation
 https://www.youtube.com/watch?v=su-ReE6SPJ0
+
+### Topics
+
+
+### Transcript
+
 > very nice by the way guys
 > 
 > just want to say uh today's my last

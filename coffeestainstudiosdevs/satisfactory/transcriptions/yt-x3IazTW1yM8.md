@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Factorio has Belt multi-core?
 https://www.youtube.com/watch?v=x3IazTW1yM8
+
+### Topics
+
+
+### Transcript
+
 > factorio has built multicore uh so
 > 
 > factoria and satisfactory work

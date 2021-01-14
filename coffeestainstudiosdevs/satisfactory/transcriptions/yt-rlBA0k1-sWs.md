@@ -9,6 +9,13 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Can we upload a Spider image other than a Cat?
 https://www.youtube.com/watch?v=rlBA0k1-sWs
+
+### Topics
+* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+* [Features > Accessibility](../topics/features/accessibility.md)
+
+### Transcript
+
 > uh
 > 
 > can we upload our spider image other

@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: You guys planning a Content Creator Program?
 https://www.youtube.com/watch?v=jfPUvIBBJVw
+
+### Topics
+
+
+### Transcript
+
 > you guys planning a content creator
 > 
 > program

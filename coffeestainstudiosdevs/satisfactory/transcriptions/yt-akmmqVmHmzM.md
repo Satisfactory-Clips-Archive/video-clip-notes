@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are there any things you had wanted to add to the game but had to cancel?
 https://www.youtube.com/watch?v=akmmqVmHmzM
+
+### Topics
+
+
+### Transcript
+
 > uh are there any things you
 > 
 > wanted to add to the game had to cancel

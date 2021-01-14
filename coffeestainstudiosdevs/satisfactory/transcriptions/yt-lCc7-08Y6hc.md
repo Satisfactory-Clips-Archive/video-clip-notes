@@ -9,6 +9,13 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: What is the reason Belts have a finite length?
 https://www.youtube.com/watch?v=lCc7-08Y6hc
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > what is the reason belts have a finite
 > 
 > length because they'd be pretty

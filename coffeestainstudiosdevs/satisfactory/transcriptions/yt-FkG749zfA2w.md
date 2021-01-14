@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Steam Workshop support ?
 https://www.youtube.com/watch?v=FkG749zfA2w
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > uh and while we're speaking of mods yeah
 > 
 > steam workshop support

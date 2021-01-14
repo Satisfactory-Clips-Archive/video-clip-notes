@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: How many hours should Satisfactory take usually (new player once we go 1.0) ?
 https://www.youtube.com/watch?v=06WRQ40kRCs
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+
+### Transcript
+
 > okay all right anyway uh how many hours
 > 
 > should satisfactory take

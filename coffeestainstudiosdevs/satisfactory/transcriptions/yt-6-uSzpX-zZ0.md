@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: What do you think about future Mod support?
 https://www.youtube.com/watch?v=6-uSzpX-zZ0
+
+### Topics
+* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
+
+### Transcript
+
 > red uh let's see what do you think about
 > 
 > the future mod support it's secondary or

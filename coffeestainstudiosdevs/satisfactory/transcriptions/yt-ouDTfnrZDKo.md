@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How many biomes are in game?
 https://www.youtube.com/watch?v=ouDTfnrZDKo
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > how many biomes are in game i think it's
 > 
 > like

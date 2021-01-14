@@ -9,6 +9,13 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Is automated food production planned?
 https://www.youtube.com/watch?v=-9WFYJETif4
+
+### Topics
+* [Environment > Plants](../topics/environment/plants.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+
+### Transcript
+
 > this automated food production plan i
 > 
 > have been on three health bars my entire

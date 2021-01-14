@@ -9,6 +9,13 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What do you think about adding some kind of Tanker Truck?
 https://www.youtube.com/watch?v=JCBQj8Ern20
+
+### Topics
+* [Features > Fluids](../topics/features/fluids.md)
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > what do you think about adding some kind
 > 
 > of tanker truck

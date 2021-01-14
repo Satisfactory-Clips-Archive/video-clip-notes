@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Can we get multiple Hubs?
 https://www.youtube.com/watch?v=aByFeSq5z2U
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > yeah uh can we get multiple hubs
 > 
 > no is this short like it's it's

@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: (re: the wiki) So the old data-mined data?
 https://www.youtube.com/watch?v=SG9tehaWHsE
+
+### Topics
+
+
+### Transcript
+
 > eventually
 > 
 > um so the old data mine data like no

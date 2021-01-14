@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: What are we going to keep after the event?
 https://www.youtube.com/watch?v=nZjZGFce1lE
+
+### Topics
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
+
+### Transcript
+
 > um what are we going to keep up to the
 > 
 > end everything that you have

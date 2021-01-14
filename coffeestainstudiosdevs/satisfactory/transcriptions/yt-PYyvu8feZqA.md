@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy?
 https://www.youtube.com/watch?v=PYyvu8feZqA
+
+### Topics
+
+
+### Transcript
+
 > um will we get a shop in europe the
 > 
 > shipping cost is a bit spicy uh it is

@@ -10,6 +10,14 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, Jace Talk: Don't shit in the storage box
 https://www.youtube.com/watch?v=3gFgrVEkOpc
+
+### Topics
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+
+### Transcript
+
 > god do we have a storage box somewhere
 > 
 > uh we have the one over here yeah i'm

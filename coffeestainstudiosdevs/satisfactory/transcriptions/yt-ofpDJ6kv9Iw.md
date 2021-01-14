@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt Talk: HUB screens
 https://www.youtube.com/watch?v=ofpDJ6kv9Iw
+
+### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+
+### Transcript
+
 > yeah yeah all right so now we're gonna
 > 
 > take a look at the the screens here

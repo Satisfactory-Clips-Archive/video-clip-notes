@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Jace Talk: Encased Conveyor Belts
 https://www.youtube.com/watch?v=xT-2uWvm3iw
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > uh so i got some folks asking about like
 > 
 > encased

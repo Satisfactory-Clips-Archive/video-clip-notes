@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: How does the AoE on the Chainsaw work?
 https://www.youtube.com/watch?v=GRvWhu6FKOk
+
+### Topics
+* [Features > Equipment > Chainsaw](../topics/features/equipment/chainsaw.md)
+
+### Transcript
+
 > how does the aoe on the chainsaw work
 > 
 > well i'm glad you asked because i'm

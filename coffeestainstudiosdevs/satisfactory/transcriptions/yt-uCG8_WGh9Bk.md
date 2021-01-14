@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will these streams be a regular thing during Early Access phase?
 https://www.youtube.com/watch?v=uCG8_WGh9Bk
+
+### Topics
+
+
+### Transcript
+
 > will these streams be a regular thing
 > 
 > during early access phase and

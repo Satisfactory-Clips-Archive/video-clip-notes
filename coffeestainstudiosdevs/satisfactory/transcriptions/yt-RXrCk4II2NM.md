@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: How code-heavy is the game and how do you keep it organised?
 https://www.youtube.com/watch?v=RXrCk4II2NM
+
+### Topics
+
+
+### Transcript
+
 > i'm not sure um code heavy is the game
 > 
 > uh how do you keep it organized and is

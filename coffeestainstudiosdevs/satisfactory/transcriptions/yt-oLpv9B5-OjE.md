@@ -10,6 +10,14 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Enclosed Belts
 https://www.youtube.com/watch?v=oLpv9B5-OjE
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > yeah a few people keep asking about like
 > 
 > enclosed belts

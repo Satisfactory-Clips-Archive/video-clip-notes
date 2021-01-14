@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Snutt & Jace Talk: Closed Captions in the livestream
 https://www.youtube.com/watch?v=vSJ0V15Mlow
+
+### Topics
+
+
+### Transcript
+
 > we have no idea um
 > 
 > i'm on a work hall trying to lip read

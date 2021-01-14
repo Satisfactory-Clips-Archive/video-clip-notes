@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Snutt & Jace Talk: State of Dev
 https://www.youtube.com/watch?v=WnGFHQPWIGE
+
+### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+
+### Transcript
+
 > we get paid by the hour let's keep going
 > 
 > all right um yeah so let's keep on

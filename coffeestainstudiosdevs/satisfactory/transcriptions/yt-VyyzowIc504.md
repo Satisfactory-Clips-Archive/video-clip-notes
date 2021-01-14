@@ -9,6 +9,13 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Dedicated Servers coming with the next Update ?
 https://www.youtube.com/watch?v=VyyzowIc504
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > dedicated service coming up number three
 > 
 > dedicated servers

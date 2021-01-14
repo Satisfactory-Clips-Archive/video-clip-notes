@@ -9,6 +9,13 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Packager solid/liquid I/O don't allow for placement of Conveyor lifts?
 https://www.youtube.com/watch?v=gqLycnJA_3c
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+
+### Transcript
+
 > yeah can the solid liquid i o um
 > 
 > be switched around on the package or

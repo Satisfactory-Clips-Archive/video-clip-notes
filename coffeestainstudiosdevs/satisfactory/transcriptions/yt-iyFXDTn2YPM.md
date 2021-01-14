@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: When will Merch shipping worldwide be possible?
 https://www.youtube.com/watch?v=iyFXDTn2YPM
+
+### Topics
+
+
+### Transcript
+
 > slash pickup when will
 > 
 > not shipping worldwide be possible it's

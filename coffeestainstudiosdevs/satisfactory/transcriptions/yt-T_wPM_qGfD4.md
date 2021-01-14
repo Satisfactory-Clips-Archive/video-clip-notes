@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Twitch greater than YouTube?
 https://www.youtube.com/watch?v=T_wPM_qGfD4
+
+### Topics
+
+
+### Transcript
+
 > twitch greater than youtube i prefer
 > 
 > twitch to youtube but we have a really

@@ -9,6 +9,13 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Ever consider making a VR version of Satisfactory?
 https://www.youtube.com/watch?v=3s-PKymQ9QU
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > um ever consider making a vr version
 > 
 > satisfactory i don't think that's been

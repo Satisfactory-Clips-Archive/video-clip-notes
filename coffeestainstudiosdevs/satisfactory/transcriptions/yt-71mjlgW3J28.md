@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: If you kill Lizard Doggos do they respawn?
 https://www.youtube.com/watch?v=71mjlgW3J28
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > if you kill lizard doggers do they
 > 
 > respawn do they i think so no comment

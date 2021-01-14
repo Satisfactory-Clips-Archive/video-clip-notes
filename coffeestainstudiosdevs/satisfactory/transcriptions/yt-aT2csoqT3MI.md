@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Jobs available in Stockholm but not Skövde?
 https://www.youtube.com/watch?v=aT2csoqT3MI
+
+### Topics
+
+
+### Transcript
+
 > enough jobs available in stockholm but
 > 
 > not gloveda yep because so by the way

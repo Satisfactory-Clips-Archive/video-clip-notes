@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will there be more Seasonal Events?
 https://www.youtube.com/watch?v=TNrm3qsWdxQ
+
+### Topics
+* [Satisfactory Updates > Seasonal Events](../topics/satisfactory-updates/seasonal-events.md)
+
+### Transcript
+
 > anything will there be more seasonal
 > 
 > events uh i don't know we don't know

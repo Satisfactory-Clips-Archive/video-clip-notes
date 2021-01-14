@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Blueprints?
 https://www.youtube.com/watch?v=hpl23B1A0Qk
+
+### Topics
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > once blueprints it will be it will not
 > 
 > be blueprints i can tell you that much

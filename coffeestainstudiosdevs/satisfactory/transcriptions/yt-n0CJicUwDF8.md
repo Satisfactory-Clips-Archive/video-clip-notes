@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will you be able to switch the mousewheel rotation with the hotbar?
 https://www.youtube.com/watch?v=n0CJicUwDF8
+
+### Topics
+
+
+### Transcript
+
 > will you be able to switch the mouse
 > 
 > wheel rotation for the hot bar

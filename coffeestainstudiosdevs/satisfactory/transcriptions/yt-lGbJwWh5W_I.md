@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: What additions to Tier 7 might be coming & when ?
 https://www.youtube.com/watch?v=lGbJwWh5W_I
+
+### Topics
+* [Features > Tiers](../topics/features/tiers.md)
+
+### Transcript
+
 > uh charlie what additions to tier seven
 > 
 > might be coming and when

@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Can we have food-making in the game?
 https://www.youtube.com/watch?v=2sE4CPkkc3o
+
+### Topics
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+
+### Transcript
+
 > can we have food making in the game
 > 
 > be great to put some of the annoying

@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will the dark areas of the Map open up soon?
 https://www.youtube.com/watch?v=MTkj1xIXfhw
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > will the dark areas of the map open up
 > 
 > soon

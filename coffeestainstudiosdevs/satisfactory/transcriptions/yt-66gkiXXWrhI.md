@@ -9,6 +9,13 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Snutt Talk: I fucked up
 https://www.youtube.com/watch?v=66gkiXXWrhI
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > that is coming out end of the month
 > 
 > supposedly yeah but there's been one

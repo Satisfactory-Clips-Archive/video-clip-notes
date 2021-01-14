@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When does the Toilet Paper DLC come out?
 https://www.youtube.com/watch?v=8S1NK72uyLE
+
+### Topics
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+
+### Transcript
+
 > it's scandalous when's the toilet paper
 > 
 > dlc there's the

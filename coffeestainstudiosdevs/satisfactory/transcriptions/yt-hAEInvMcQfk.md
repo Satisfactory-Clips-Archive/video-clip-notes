@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Any information on Merch shipping to EU/rest of the world?
 https://www.youtube.com/watch?v=hAEInvMcQfk
+
+### Topics
+
+
+### Transcript
+
 > like quad games and now uh any
 > 
 > information on merch shipping to eu rest

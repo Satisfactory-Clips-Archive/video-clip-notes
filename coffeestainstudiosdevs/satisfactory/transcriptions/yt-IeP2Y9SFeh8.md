@@ -9,6 +9,13 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Snutt Talk: Belts, Pipes, and Hyper Tube max lengths
 https://www.youtube.com/watch?v=IeP2Y9SFeh8
+
+### Topics
+* [Features > Transportation > Hyper Tubes](../topics/features/transportation/hyper-tubes.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > yes by the way
 > 
 > i just realized that this is completely

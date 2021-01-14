@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will there be Priority Mergers for this Update?
 https://www.youtube.com/watch?v=sMidcvjGGOM
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+
+### Transcript
+
 > um
 > 
 > will there be priority mergers for this

@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is there any possibility to autodetect materials on the belts to preselect recipes per input?
 https://www.youtube.com/watch?v=KB49DxFs6tw
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > is there any possibility for an audit uh
 > 
 > detect

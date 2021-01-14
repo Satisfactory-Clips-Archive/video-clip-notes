@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Procedural generation can be done good, look at Rust?
 https://www.youtube.com/watch?v=bTR3AWDpld4
+
+### Topics
+* [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
+
+### Transcript
+
 > yeah crazy generation
 > 
 > can be done good look at russ but most

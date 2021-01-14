@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will you let us upgrade Storage Containers to Industrial Storage Containers?
 https://www.youtube.com/watch?v=dcK5sAXkSPg
+
+### Topics
+* [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
+
+### Transcript
+
 > will you let us upgrade storage
 > 
 > containers to industrial storage

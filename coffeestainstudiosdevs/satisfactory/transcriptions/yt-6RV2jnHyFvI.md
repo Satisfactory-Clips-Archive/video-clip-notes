@@ -10,6 +10,14 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Is there something you'll never add to the game that you recommend Modders add instead?
 https://www.youtube.com/watch?v=6RV2jnHyFvI
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > when we plan to but
 > 
 > is there something you'll never add to

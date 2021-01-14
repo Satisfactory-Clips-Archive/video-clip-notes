@@ -10,6 +10,14 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Have you confirmed Superposition Oscillators and Quantum Computers to be buildable in Tier 8?
 https://www.youtube.com/watch?v=fmE3DQFeVGk
+
+### Topics
+* [Features > Crafting > Superposition Oscillator](../topics/features/crafting/superposition-oscillator.md)
+* [Features > Tiers](../topics/features/tiers.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > oh
 > 
 > this is a good one have you confirmed

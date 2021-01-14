@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt Talk: Lights (not) confirmed!
 https://www.youtube.com/watch?v=9VodwDOMBl0
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > it so it must be okay i believe it's
 > 
 > really

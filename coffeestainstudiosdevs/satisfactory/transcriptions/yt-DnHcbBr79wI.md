@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Snutt & Jace Talk: Dan Harmon plays Satisfactory
 https://www.youtube.com/watch?v=DnHcbBr79wI
+
+### Topics
+
+
+### Transcript
+
 > hours wow wow that's very impressive
 > 
 > good job yo

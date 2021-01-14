@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Do you guys have any plans for wrangling Lizard Doggos?
 https://www.youtube.com/watch?v=UjpXjYid5ng
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > yep uh i'm a bit late for the q a but
 > 
 > did you guys have any plans to make

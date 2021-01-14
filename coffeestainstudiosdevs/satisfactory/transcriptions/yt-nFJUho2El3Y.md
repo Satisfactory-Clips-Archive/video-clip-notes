@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: How is the World Building going?
 https://www.youtube.com/watch?v=nFJUho2El3Y
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > uh how will how is the world building
 > 
 > going will we see updates to the map in

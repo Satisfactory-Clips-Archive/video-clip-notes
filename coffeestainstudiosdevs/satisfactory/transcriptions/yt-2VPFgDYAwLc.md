@@ -8,6 +8,12 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Are we going to be releasing a video with the Fluids Update?
 https://www.youtube.com/watch?v=2VPFgDYAwLc
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > wait i forgot something
 > 
 > where's the someone asked if we're gonna

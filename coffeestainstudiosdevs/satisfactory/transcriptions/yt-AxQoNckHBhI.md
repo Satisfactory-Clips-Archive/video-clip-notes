@@ -9,6 +9,13 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: The Trains lag a lot on Multiplayer?
 https://www.youtube.com/watch?v=AxQoNckHBhI
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > rebecca sanchez um
 > 
 > yeah the trains lag a lot on multiplayer

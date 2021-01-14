@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Is Tier 8 last Tier for the game?
 https://www.youtube.com/watch?v=FhoIzj_QLm0
+
+### Topics
+* [Features > Tiers](../topics/features/tiers.md)
+
+### Transcript
+
 > just get that rolling is tier eight last
 > 
 > tier planned for the game

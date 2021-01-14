@@ -9,6 +9,13 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will the event come back next year?
 https://www.youtube.com/watch?v=6XovxrktCDA
+
+### Topics
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
+* [Satisfactory Updates > Seasonal Events](../topics/satisfactory-updates/seasonal-events.md)
+
+### Transcript
+
 > uh will even come back next year
 > 
 > uh i think so i i

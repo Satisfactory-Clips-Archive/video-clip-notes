@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt & Jace Talk: Verticality & top-down views, procedural generation
 https://www.youtube.com/watch?v=mvkDIjW-NDs
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > be able to do yeah
 > 
 > i also think like whoa look at this i

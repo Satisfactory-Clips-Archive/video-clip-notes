@@ -9,6 +9,13 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Any idea about Official Modding?
 https://www.youtube.com/watch?v=D5-Y6LYR7jk
+
+### Topics
+* [Mods](../topics/mods.md)
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > uh an idea about off official modding
 > 
 > play out internally um i think if

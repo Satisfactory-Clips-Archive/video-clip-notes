@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Do you plan on adding mass foundation placement?
 https://www.youtube.com/watch?v=8Pm6KLejrOQ
+
+### Topics
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > i have several references to this being
 > 
 > a note 2 which was that do you plan on

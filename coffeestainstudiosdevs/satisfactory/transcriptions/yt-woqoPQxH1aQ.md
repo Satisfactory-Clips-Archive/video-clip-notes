@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Roleplay
 https://www.youtube.com/watch?v=woqoPQxH1aQ
+
+### Topics
+* [Features > Possible Features > Character Customisation](../topics/features/possible-features/character-customisation.md)
+
+### Transcript
+
 > would the engineer be a smoker though i
 > 
 > don't know it's

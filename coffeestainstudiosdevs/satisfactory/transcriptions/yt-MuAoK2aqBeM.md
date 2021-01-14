@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any secret mechanics we haven't figured out yet?
 https://www.youtube.com/watch?v=MuAoK2aqBeM
+
+### Topics
+
+
+### Transcript
+
 > any secret mechanics we haven't figured
 > 
 > out yet oh god no

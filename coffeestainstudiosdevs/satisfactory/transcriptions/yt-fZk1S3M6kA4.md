@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Are you practice being vague?
 https://www.youtube.com/watch?v=fZk1S3M6kA4
+
+### Topics
+
+
+### Transcript
+
 > with um ash poker
 > 
 > asks are you practice being vague um

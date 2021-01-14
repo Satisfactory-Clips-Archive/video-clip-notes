@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will Update 4 be like Update 3, will it break saves?
 https://www.youtube.com/watch?v=rJVLbdJMJWk
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > uh will update 4b like update 3 will
 > 
 > break saves

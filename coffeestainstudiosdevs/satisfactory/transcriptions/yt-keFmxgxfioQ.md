@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt & Jace Talk: Play styles
 https://www.youtube.com/watch?v=keFmxgxfioQ
+
+### Topics
+
+
+### Transcript
+
 > i like how jase is playing a completely
 > 
 > different game than simon that that is

@@ -9,6 +9,13 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Any chance of you putting a daily limit in the game?
 https://www.youtube.com/watch?v=vgxwqJg7o2A
+
+### Topics
+* [Features > Accessibility](../topics/features/accessibility.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > this is a bit of a bummer yeah uh
 > 
 > any chance you're putting a daily limit

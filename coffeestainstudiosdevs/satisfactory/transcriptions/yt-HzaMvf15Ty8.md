@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Do you guys plan on adding filters to Truck Stations?
 https://www.youtube.com/watch?v=HzaMvf15Ty8
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > on do you guys plan on adding filters to
 > 
 > truck stations

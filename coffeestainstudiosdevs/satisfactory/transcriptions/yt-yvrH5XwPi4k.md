@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Are there plans to optimise the Tutorial?
 https://www.youtube.com/watch?v=yvrH5XwPi4k
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > uh christmas tv this is a pretty cool
 > 
 > question so have you guys uh

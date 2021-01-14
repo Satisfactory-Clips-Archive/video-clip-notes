@@ -9,6 +9,13 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Toilet Plunger for The HUB when?
 https://www.youtube.com/watch?v=1-xFJyIBosU
+
+### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+
+### Transcript
+
 > as we know um toilet plunger for the hub
 > 
 > when

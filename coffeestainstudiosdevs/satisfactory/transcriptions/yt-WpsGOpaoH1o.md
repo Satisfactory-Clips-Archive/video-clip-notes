@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: The Cup, where can I buy it?
 https://www.youtube.com/watch?v=WpsGOpaoH1o
+
+### Topics
+
+
+### Transcript
+
 > whatever uh the cup where can i buy it
 > 
 > uh it's not released yet

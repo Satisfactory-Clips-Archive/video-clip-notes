@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Do you consider your game as niche or will it go mainstream?
 https://www.youtube.com/watch?v=pLe-afyAtIo
+
+### Topics
+
+
+### Transcript
+
 > [Music]
 > 
 > do you consider your game as niche or do

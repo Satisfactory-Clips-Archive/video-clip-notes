@@ -9,6 +9,13 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Are there any plans to add an option to disable the day/night cycle?
 https://www.youtube.com/watch?v=15jG0o32Dqk
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > yep are there any plans to move
 > 
 > an option disabled day night cycle uh

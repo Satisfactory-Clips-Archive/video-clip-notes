@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will there be more polish to the Survival aspects of the game?
 https://www.youtube.com/watch?v=0flTS1mpH7s
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+
+### Transcript
+
 > 18 for some reason why
 > 
 > elder devs love the game quick question

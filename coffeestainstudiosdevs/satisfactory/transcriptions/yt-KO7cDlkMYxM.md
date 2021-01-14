@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Are you hiring new devs?
 https://www.youtube.com/watch?v=KO7cDlkMYxM
+
+### Topics
+
+
+### Transcript
+
 > all are you hiring new devs i think we
 > 
 > just hired a bunch of

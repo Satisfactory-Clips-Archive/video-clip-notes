@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Snowy Biome confirmed?
 https://www.youtube.com/watch?v=Yend7bHTMvw
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > snowy biome confirmed has been confirmed
 > 
 > that there won't be one

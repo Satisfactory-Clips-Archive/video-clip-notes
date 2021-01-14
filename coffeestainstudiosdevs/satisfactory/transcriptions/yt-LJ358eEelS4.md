@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Satisfactory Mobile Game ?
 https://www.youtube.com/watch?v=LJ358eEelS4
+
+### Topics
+
+
+### Transcript
+
 > um
 > 
 > satisfactory mobile game that will

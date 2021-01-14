@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Are you going to add more functionality to the HUB?
 https://www.youtube.com/watch?v=lacIs2by7tk
+
+### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+
+### Transcript
+
 > no no are you going to add more
 > 
 > functionality to the base home

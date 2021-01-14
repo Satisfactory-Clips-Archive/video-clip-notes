@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Overhaul Production output?
 https://www.youtube.com/watch?v=LZKS9z5niSk
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > uh overall production output thing
 > 
 > that's something that's been uh

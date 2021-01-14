@@ -9,6 +9,13 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Better UI scaling?
 https://www.youtube.com/watch?v=Z7KYm1EEVsc
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > better ui scaling uh
 > 
 > go to the qa site and leave that

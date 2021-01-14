@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: New skins?
 https://www.youtube.com/watch?v=-IYD97gEt4w
+
+### Topics
+* [Features > Possible Features > Character Customisation](../topics/features/possible-features/character-customisation.md)
+
+### Transcript
+
 > uh new skins well
 > 
 > not sure when that's gonna happen but we

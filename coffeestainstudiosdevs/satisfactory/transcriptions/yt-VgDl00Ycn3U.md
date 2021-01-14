@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Even more Biomes coming to play?
 https://www.youtube.com/watch?v=VgDl00Ycn3U
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > so that
 > 
 > uh even more biomes come into play i

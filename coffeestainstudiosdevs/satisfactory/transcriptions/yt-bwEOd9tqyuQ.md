@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: If you have a full inventory you can remove just a single tree but you don't get the resources?
 https://www.youtube.com/watch?v=bwEOd9tqyuQ
+
+### Topics
+* [Features > Equipment > Chainsaw](../topics/features/equipment/chainsaw.md)
+
+### Transcript
+
 > for no reason if you have a full
 > 
 > inventory

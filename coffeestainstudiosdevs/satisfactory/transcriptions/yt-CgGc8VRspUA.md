@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Is there a difference in performance between the Epic version and the Steam version?
 https://www.youtube.com/watch?v=CgGc8VRspUA
+
+### Topics
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+
+### Transcript
+
 > no one older now someone asked if
 > 
 > there's a difference between

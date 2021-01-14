@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Does the Giant Crab unlock stuff?
 https://www.youtube.com/watch?v=Dsjz5ntv9II
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > uh this giant crab stuff i i don't know
 > 
 > i don't know what it

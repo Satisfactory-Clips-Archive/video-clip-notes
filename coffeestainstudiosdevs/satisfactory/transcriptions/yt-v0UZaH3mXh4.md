@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible?
 https://www.youtube.com/watch?v=v0UZaH3mXh4
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > is it better during a multiplayer
 > 
 > session to not destroy as many plants as

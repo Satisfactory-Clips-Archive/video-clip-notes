@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: What is your opinion of the creations of players?
 https://www.youtube.com/watch?v=16Zs1Cz30uc
+
+### Topics
+
+
+### Transcript
+
 > uh
 > 
 > i'm pretty sure you have seen a lot of

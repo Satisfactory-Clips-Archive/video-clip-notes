@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Train Update?
 https://www.youtube.com/watch?v=ts7TQnRykB0
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+
+### Transcript
+
 > uh train update um
 > 
 > we haven't worked on trains for a while

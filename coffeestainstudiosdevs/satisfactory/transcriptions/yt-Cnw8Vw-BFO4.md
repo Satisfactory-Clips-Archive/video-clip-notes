@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Does building Walls around big factories help performance?
 https://www.youtube.com/watch?v=Cnw8Vw-BFO4
+
+### Topics
+* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > performance
 > 
 > yeah maybe does it simon i think it

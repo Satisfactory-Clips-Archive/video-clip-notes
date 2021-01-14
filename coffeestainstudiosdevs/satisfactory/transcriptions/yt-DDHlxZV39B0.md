@@ -9,6 +9,13 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Are there specific parts or objects that contain a lot of objects in them ?
 https://www.youtube.com/watch?v=DDHlxZV39B0
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > on that route and tried it out at least
 > 
 > are there

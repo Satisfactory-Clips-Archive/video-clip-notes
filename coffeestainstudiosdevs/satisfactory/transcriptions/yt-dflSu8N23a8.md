@@ -10,6 +10,14 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Will it package Sulfuric Acid or Aluminum Solution?
 https://www.youtube.com/watch?v=dflSu8N23a8
+
+### Topics
+* [Features > Fluids](../topics/features/fluids.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > yeah exactly will it package sulfuric
 > 
 > acid

@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Where do photos go when you save them?
 https://www.youtube.com/watch?v=wjFzW8KUu-w
+
+### Topics
+* [Features > Photo Mode](../topics/features/photo-mode.md)
+
+### Transcript
+
 > maybe you also can ask
 > 
 > maybe you know this uh since you

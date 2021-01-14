@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: New Community Manager
 https://www.youtube.com/watch?v=awAhXucxS-Y
+
+### Topics
+
+
+### Transcript
+
 > you've got the next one
 > 
 > um let's see here

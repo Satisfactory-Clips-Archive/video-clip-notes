@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Jace Talk: Ben is awesome
 https://www.youtube.com/watch?v=jSEd3fDu6KE
+
+### Topics
+
+
+### Transcript
+
 > the that someone was gonna say
 > 
 > uh clearly didn't matter oh yeah the

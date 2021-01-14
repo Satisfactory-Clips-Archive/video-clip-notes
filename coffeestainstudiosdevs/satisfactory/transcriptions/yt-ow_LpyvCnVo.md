@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Ray Tracing
 https://www.youtube.com/watch?v=ow_LpyvCnVo
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > each pedal now you kind of glossed over
 > 
 > one

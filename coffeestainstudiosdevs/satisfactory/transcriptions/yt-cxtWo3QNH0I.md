@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Mk.0 Iron Trains that you can power with cOAL
 https://www.youtube.com/watch?v=cxtWo3QNH0I
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+
+### Transcript
+
 > mk0 iron trains that you can power with
 > 
 > coal that's kind of cool

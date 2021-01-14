@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Dedicated Servers?
 https://www.youtube.com/watch?v=tHUqAoOXffs
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > um some people asking about dedicated
 > 
 > servers

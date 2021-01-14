@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## State of Dev: Coffee Stain new office (Part 1)
 https://www.youtube.com/watch?v=htoUHZbvu1A
+
+### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+
+### Transcript
+
 > um so another point we have here is uh
 > 
 > just a quick update on on like

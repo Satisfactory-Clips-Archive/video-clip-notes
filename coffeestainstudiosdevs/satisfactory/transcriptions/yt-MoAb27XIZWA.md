@@ -9,6 +9,13 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Jace & Snutt Talk: Mk.1 Pumps
 https://www.youtube.com/watch?v=MoAb27XIZWA
+
+### Topics
+* [Features > Fluids > Pumps](../topics/features/fluids/pumps.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > gonna be cool um what else
 > 
 > what else well there were also the uh

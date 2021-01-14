@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: If the game's not dead, where's the new content?
 https://www.youtube.com/watch?v=lhbj5mWOmeo
+
+### Topics
+
+
+### Transcript
+
 > um if the game's not dead where's the
 > 
 > new content we're working on it

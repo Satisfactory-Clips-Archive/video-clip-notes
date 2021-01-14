@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt Talk: We had windows before Mods.
 https://www.youtube.com/watch?v=FLOpWOXppKo
+
+### Topics
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+
+### Transcript
+
 > of anything around them so i just want
 > 
 > to show something real quick so i

@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How big was the team back when this version was made?
 https://www.youtube.com/watch?v=KYNLjaRJCRs
+
+### Topics
+* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
+
+### Transcript
+
 > chain inkomst help ik was de tien
 > 
 > baklava oké ik zeg eerste workbench

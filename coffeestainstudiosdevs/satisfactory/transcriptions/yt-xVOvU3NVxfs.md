@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Mac Release / Release to other platforms?
 https://www.youtube.com/watch?v=xVOvU3NVxfs
+
+### Topics
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+
+### Transcript
+
 > back essentially mac release uh released
 > 
 > to other platforms be it mac

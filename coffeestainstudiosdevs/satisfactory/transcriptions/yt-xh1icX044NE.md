@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, & Jace Talk: Satisfactory & Goat Simulator development
 https://www.youtube.com/watch?v=xh1icX044NE
+
+### Topics
+
+
+### Transcript
+
 > i can see you tried hard on good sim
 > 
 > but you guys did uh sorry it's moving

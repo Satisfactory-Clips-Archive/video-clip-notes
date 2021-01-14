@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Jace Talk: Players are still using their old save files
 https://www.youtube.com/watch?v=NPX6XOg0SKo
+
+### Topics
+
+
+### Transcript
+
 > work all right someone has said that
 > 
 > they're still using the same game

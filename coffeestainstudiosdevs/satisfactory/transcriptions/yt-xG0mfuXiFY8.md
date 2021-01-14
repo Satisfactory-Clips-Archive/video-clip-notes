@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: What's the final objective of the game?
 https://www.youtube.com/watch?v=xG0mfuXiFY8
+
+### Topics
+
+
+### Transcript
+
 > all this that's really hard
 > 
 > what's the final objective in the game

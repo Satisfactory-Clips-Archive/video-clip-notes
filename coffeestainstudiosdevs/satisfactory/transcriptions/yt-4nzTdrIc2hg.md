@@ -10,6 +10,14 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Jace & Snutt Talk: Map Modding
 https://www.youtube.com/watch?v=4nzTdrIc2hg
+
+### Topics
+* [Features > Unplanned Features > Terraforming](../topics/features/unplanned-features/terraforming.md)
+* [Mods](../topics/mods.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > yeah that is made with landscaping tool
 > 
 > i think it has some weird limitations

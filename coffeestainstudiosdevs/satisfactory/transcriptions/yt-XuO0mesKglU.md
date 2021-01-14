@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Rare albino Doggo?
 https://www.youtube.com/watch?v=XuO0mesKglU
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > um
 > 
 > your prayer albino dogger that sounds

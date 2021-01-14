@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: A hard-reset option for the paint presets used for the painted surfaces
 https://www.youtube.com/watch?v=LZvHStKqoQI
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > uh let's see i i need a hard reset
 > 
 > option

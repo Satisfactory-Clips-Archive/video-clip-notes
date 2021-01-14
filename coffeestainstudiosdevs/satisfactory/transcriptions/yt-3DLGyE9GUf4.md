@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How do you ping?
 https://www.youtube.com/watch?v=3DLGyE9GUf4
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > how do you ping you press alt
 > 
 > and you hold alt and press left click

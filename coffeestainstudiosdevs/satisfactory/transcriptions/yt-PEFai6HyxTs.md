@@ -9,6 +9,13 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Jace & Snutt Talk: Update 4 & Dedicated Servers
 https://www.youtube.com/watch?v=PEFai6HyxTs
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > uh okay cool so um
 > 
 > let's go to update four what's up

@@ -9,6 +9,13 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Is there a plan to deal with Nuclear Waste?
 https://www.youtube.com/watch?v=Eo_4p0KSPSY
+
+### Topics
+* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > faith yeah their plan how to deal with
 > 
 > nuclear waste it will have to result in

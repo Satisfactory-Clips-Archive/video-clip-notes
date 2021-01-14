@@ -5,41 +5,41 @@ date: Last Modified
 [Topics](../../../topics.md) > Features > Possible Features > DLC
 
 # January 12th, 2021 Livestream
-* Q&A: The game is not done until I can flush the toilet? https://www.youtube.com/watch?v=64xmTN-rhbs
+* [Q&A: The game is not done until I can flush the toilet?](../../../transcriptions/yt-64xmTN-rhbs.md) https://www.youtube.com/watch?v=64xmTN-rhbs
 
 # December 15th, 2020 Livestream
-* Q&A: Why can't we flush the toilet? https://www.youtube.com/watch?v=En8viTUiojc
+* [Q&A: Why can't we flush the toilet?](../../../transcriptions/yt-En8viTUiojc.md) https://www.youtube.com/watch?v=En8viTUiojc
 
 # November 24th, 2020 Livestream
-* Q&A: Toilet Plunger for The HUB when? https://www.youtube.com/watch?v=1-xFJyIBosU
-* Q&A: Does Coffee Stain have a plan to further monetise the game to fund dev? https://www.youtube.com/watch?v=j8UaqapuLZw
+* [Q&A: Toilet Plunger for The HUB when?](../../../transcriptions/yt-1-xFJyIBosU.md) https://www.youtube.com/watch?v=1-xFJyIBosU
+* [Q&A: Does Coffee Stain have a plan to further monetise the game to fund dev?](../../../transcriptions/yt-j8UaqapuLZw.md) https://www.youtube.com/watch?v=j8UaqapuLZw
 
 # November 17th, 2020 Livestream
-* Trolling: Goat Simulator DLC https://www.youtube.com/watch?v=yXp4YAvRZHg
-* Trolling: Flushing Toilet paid DLC https://www.youtube.com/watch?v=7HtEV_DVbgw
-* Trolling: Rockets Expansion https://www.youtube.com/watch?v=QgVfu28HSwA
+* [Trolling: Goat Simulator DLC](../../../transcriptions/yt-yXp4YAvRZHg.md) https://www.youtube.com/watch?v=yXp4YAvRZHg
+* [Trolling: Flushing Toilet paid DLC](../../../transcriptions/yt-7HtEV_DVbgw.md) https://www.youtube.com/watch?v=7HtEV_DVbgw
+* [Trolling: Rockets Expansion](../../../transcriptions/yt-QgVfu28HSwA.md) https://www.youtube.com/watch?v=QgVfu28HSwA
 
 # November 10th, 2020 Livestream
-* Q&A: When does the Toilet Paper DLC come out? https://www.youtube.com/watch?v=8S1NK72uyLE
-* Q&A: When are we getting Toilet Flush DLC? https://www.youtube.com/watch?v=24KsUKR3T-4
+* [Q&A: When does the Toilet Paper DLC come out?](../../../transcriptions/yt-8S1NK72uyLE.md) https://www.youtube.com/watch?v=8S1NK72uyLE
+* [Q&A: When are we getting Toilet Flush DLC?](../../../transcriptions/yt-24KsUKR3T-4.md) https://www.youtube.com/watch?v=24KsUKR3T-4
 
 # November 3rd, 2020 Livestream
-* Q&A: Will there be DLCs? https://www.youtube.com/watch?v=-f-E47s74Uw
+* [Q&A: Will there be DLCs?](../../../transcriptions/yt--f-E47s74Uw.md) https://www.youtube.com/watch?v=-f-E47s74Uw
 
 # October 20th, 2020 Livestream
-* Q&A: Will we add DLC? https://www.youtube.com/watch?v=4VxcyGiOSHw
+* [Q&A: Will we add DLC?](../../../transcriptions/yt-4VxcyGiOSHw.md) https://www.youtube.com/watch?v=4VxcyGiOSHw
 
 # September 22nd, 2020 Livestream
-* Q&A: Where is the Toilet DLC? https://www.youtube.com/watch?v=unZciwmFlwA
+* [Q&A: Where is the Toilet DLC?](../../../transcriptions/yt-unZciwmFlwA.md) https://www.youtube.com/watch?v=unZciwmFlwA
 
 # September 15th, 2020 Livestream
-* Q&A: FICSIT Toilet soon? https://www.youtube.com/watch?v=clJjkvA5whw
+* [Q&A: FICSIT Toilet soon?](../../../transcriptions/yt-clJjkvA5whw.md) https://www.youtube.com/watch?v=clJjkvA5whw
 
 # September 8th, 2020 Livestream
-* Q&A: When will the Toilet be operative? https://www.youtube.com/watch?v=zoVojtGZw9A
+* [Q&A: When will the Toilet be operative?](../../../transcriptions/yt-zoVojtGZw9A.md) https://www.youtube.com/watch?v=zoVojtGZw9A
 
 # September 1st, 2020 Livestream
-* Q&A: Flushable Toilet DLC? https://www.youtube.com/watch?v=Z7KaqsyT7_k
+* [Q&A: Flushable Toilet DLC?](../../../transcriptions/yt-Z7KaqsyT7_k.md) https://www.youtube.com/watch?v=Z7KaqsyT7_k
 
 # August 18th, 2020 Livestream
 * Q&A: Any plans to add toilet paper in the bathroom? https://clips.twitch.tv/AuspiciousPrettiestAlfalfaKAPOW

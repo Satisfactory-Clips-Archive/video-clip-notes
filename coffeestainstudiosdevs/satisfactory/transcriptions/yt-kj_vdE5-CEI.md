@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any Update on Merch shipping alternatives?
 https://www.youtube.com/watch?v=kj_vdE5-CEI
+
+### Topics
+
+
+### Transcript
+
 > um any update on merge shipping
 > 
 > alternatives

@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Is new stuff still being created for Update 4 or just polishing and bug-fixing at this point?
 https://www.youtube.com/watch?v=s_F-RlFKxzs
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > um let's see
 > 
 > is new stuff still being created for

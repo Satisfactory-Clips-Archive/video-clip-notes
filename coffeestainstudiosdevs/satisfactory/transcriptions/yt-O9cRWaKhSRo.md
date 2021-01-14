@@ -8,6 +8,12 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: What about a new Map?
 https://www.youtube.com/watch?v=O9cRWaKhSRo
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > what about a new map that's terrifying
 > 
 > [Music]

@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Is there any info/lore on the player character?
 https://www.youtube.com/watch?v=7W32eD2pZOM
+
+### Topics
+
+
+### Transcript
+
 > so let's build a constructor is there
 > 
 > any info slash lore on the player

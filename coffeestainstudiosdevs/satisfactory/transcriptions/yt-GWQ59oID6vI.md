@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Jace & Snutt Talk: Dedicated Servers & Workflow
 https://www.youtube.com/watch?v=GWQ59oID6vI
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > we'll never know bad because still
 > 
 > no dedicated servers until they out

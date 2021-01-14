@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Can we get an autorun button?
 https://www.youtube.com/watch?v=z36dxVjAkJ8
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > i don't forget can we get an autorun but
 > 
 > button uh that's a great thing to

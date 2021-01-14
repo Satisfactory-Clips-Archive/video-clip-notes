@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Where is Lizard Doggo?
 https://www.youtube.com/watch?v=bB6SOIoAYg4
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > that's some pro stretch right there
 > 
 > where is liza doggo there are various

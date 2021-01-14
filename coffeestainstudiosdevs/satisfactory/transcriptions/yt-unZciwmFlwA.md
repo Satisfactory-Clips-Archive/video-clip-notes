@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Where is the Toilet DLC?
 https://www.youtube.com/watch?v=unZciwmFlwA
+
+### Topics
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+
+### Transcript
+
 > yeah where's the toilet dlc i'm pushing
 > 
 > for it

@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, Jace Talk: How to pronounce "Haigen"
 https://www.youtube.com/watch?v=q9RGSlz1JE4
+
+### Topics
+
+
+### Transcript
+
 > uh hey again how about 2v2 oh hi
 > 
 > again hey again i keep saying it right

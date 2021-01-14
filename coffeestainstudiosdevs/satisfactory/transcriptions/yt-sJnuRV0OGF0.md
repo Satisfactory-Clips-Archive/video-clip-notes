@@ -9,6 +9,13 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can we get turrets and more PvE?
 https://www.youtube.com/watch?v=sJnuRV0OGF0
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > animator was good hell yeah
 > 
 > can we get turrets and more pve no

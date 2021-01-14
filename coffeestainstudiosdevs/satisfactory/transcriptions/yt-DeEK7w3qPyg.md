@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Releasing a Vinyl on the Merch Store ?
 https://www.youtube.com/watch?v=DeEK7w3qPyg
+
+### Topics
+
+
+### Transcript
+
 > releasing a vinyl on the merch store
 > 
 > damn

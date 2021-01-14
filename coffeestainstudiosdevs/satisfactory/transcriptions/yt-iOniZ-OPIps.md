@@ -9,6 +9,13 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: What is your opinion on the most downloaded mods?
 https://www.youtube.com/watch?v=iOniZ-OPIps
+
+### Topics
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > uh what is your opinion on the most
 > 
 > downloaded mods and is the team planning

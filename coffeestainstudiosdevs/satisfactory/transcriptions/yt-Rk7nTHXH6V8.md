@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Jace Talk: People doing crazy stuff
 https://www.youtube.com/watch?v=Rk7nTHXH6V8
+
+### Topics
+
+
+### Transcript
+
 > [Music]
 > 
 > i hope uh at the end of the weekend

@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Snutt Talk: Jace is a dedicated boi
 https://www.youtube.com/watch?v=Lx8cCt-jNJQ
+
+### Topics
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+
+### Transcript
+
 > you can go a bit over uh where's jay-z
 > 
 > you got fire again jace is actually on

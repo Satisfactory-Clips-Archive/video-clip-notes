@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Thumbs Up & Thumbs Down emotes in game?
 https://www.youtube.com/watch?v=Z9vhqFPuIOo
+
+### Topics
+* [Features > Emotes](../topics/features/emotes.md)
+
+### Transcript
+
 > okay thumbs up
 > 
 > and down emotes in games that makes

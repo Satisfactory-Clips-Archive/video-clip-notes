@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Removing Pipes
 https://www.youtube.com/watch?v=H1ulq2yh6ww
+
+### Topics
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+
+### Transcript
+
 > announcement for satisfactory moving
 > 
 > pipes yes

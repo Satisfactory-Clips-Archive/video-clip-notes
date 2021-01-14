@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any way to toggle AoE on the Chainsaw?
 https://www.youtube.com/watch?v=PsJvQrhXylU
+
+### Topics
+* [Features > Equipment > Chainsaw](../topics/features/equipment/chainsaw.md)
+
+### Transcript
+
 > any way to toggle aoe on chainsaw oh
 > 
 > that's a good question i don't think

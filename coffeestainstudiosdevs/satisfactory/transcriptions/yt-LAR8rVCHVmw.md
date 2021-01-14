@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Are there plans for Character Customisation?
 https://www.youtube.com/watch?v=LAR8rVCHVmw
+
+### Topics
+* [Features > Possible Features > Character Customisation](../topics/features/possible-features/character-customisation.md)
+
+### Transcript
+
 > are there plans for character
 > 
 > customization different colors or

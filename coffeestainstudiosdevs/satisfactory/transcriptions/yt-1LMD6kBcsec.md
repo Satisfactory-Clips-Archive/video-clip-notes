@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Satisfactory / Sanctum cross-over?
 https://www.youtube.com/watch?v=1LMD6kBcsec
+
+### Topics
+
+
+### Transcript
+
 > satisfactory sanctum crossover
 > 
 > i want that are you guys allowed to say

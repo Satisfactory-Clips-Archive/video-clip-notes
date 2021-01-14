@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Snutt Talk: State of Dev summary
 https://www.youtube.com/watch?v=sutYZrGrcYs
+
+### Topics
+
+
+### Transcript
+
 > of course if you won uh while you do
 > 
 > this i can get

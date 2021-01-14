@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How long did it take Simon to finish the game?
 https://www.youtube.com/watch?v=b8BSxuagqLI
+
+### Topics
+* [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+
+### Transcript
+
 > yeah hey simon how long would it take
 > 
 > you to finish the game

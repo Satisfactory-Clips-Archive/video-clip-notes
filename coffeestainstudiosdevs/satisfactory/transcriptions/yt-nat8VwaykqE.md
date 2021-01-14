@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Are there plans to improve Vehicle performance for Update 4?
 https://www.youtube.com/watch?v=nat8VwaykqE
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > next year are there plans to improve
 > 
 > vehicle performance for multiplane

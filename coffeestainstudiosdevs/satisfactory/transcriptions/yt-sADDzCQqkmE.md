@@ -9,6 +9,13 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Engine Update - allow more objects to be built without fps drops?
 https://www.youtube.com/watch?v=sADDzCQqkmE
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > yep engine update uh allow more objects
 > 
 > to be built

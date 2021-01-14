@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Info on EU shopping for Merch?
 https://www.youtube.com/watch?v=D3uJQzZmGQM
+
+### Topics
+
+
+### Transcript
+
 > the recipe and stuff info on eu shopping
 > 
 > for merch

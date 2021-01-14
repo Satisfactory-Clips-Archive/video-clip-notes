@@ -9,6 +9,13 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Split-screen for Satisfactory?
 https://www.youtube.com/watch?v=nA6JASYXPMM
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > uh split screen for satisfactory i don't
 > 
 > think so because uh

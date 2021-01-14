@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: What is your favourite Mod?
 https://www.youtube.com/watch?v=9tdYBCwd5no
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > what is your favorite mod my favorite
 > 
 > mod i think my

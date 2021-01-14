@@ -9,6 +9,13 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Train Multiplayer Bugs
 https://www.youtube.com/watch?v=2zs8wqPKwFE
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > um we fixed like or i fixed
 > 
 > some of the more annoying multiplayer

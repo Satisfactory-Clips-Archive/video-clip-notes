@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is Linux support planned in the future?
 https://www.youtube.com/watch?v=GR3xet5AyuE
+
+### Topics
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+
+### Transcript
+
 > get a letter to do it not sure if this
 > 
 > has been announced enough his living

@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Look's like the game is performing better - what went wrong?
 https://www.youtube.com/watch?v=x7dc9P7vEGQ
+
+### Topics
+* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > looks like the game is performing better
 > 
 > what went wrong

@@ -9,6 +9,13 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are there any plans for Blueprinting Buildings?
 https://www.youtube.com/watch?v=-sQgPUaxR-Y
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > are there any plans for blueprinting
 > 
 > buildings and systems there are no plans

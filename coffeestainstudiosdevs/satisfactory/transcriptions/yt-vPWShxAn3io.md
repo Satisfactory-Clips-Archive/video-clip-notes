@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Jace & Snutt Talk: Story
 https://www.youtube.com/watch?v=vPWShxAn3io
+
+### Topics
+
+
+### Transcript
+
 > here here as well and uh boy oh boy do
 > 
 > we have a

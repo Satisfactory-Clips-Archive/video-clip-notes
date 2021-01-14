@@ -9,6 +9,13 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Is procedural hard to get balanced?
 https://www.youtube.com/watch?v=aeBAgps_tnM
+
+### Topics
+* [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > meant to yeah procedure is really hard
 > 
 > to get balanced

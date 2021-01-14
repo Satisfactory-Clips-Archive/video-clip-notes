@@ -9,6 +9,13 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Third-Person When?
 https://www.youtube.com/watch?v=nVXcTzC72EQ
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > the press third person when not anytime
 > 
 > soon

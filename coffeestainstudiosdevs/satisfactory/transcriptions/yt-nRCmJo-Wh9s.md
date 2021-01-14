@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How did you guys optimise the game so much?
 https://www.youtube.com/watch?v=nRCmJo-Wh9s
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > correct how did you guys optimize the
 > 
 > game so much that gtx 1050 can play

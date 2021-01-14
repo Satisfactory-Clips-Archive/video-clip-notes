@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Is Console confirmed for Satisfactory?
 https://www.youtube.com/watch?v=KEJYlYO511Q
+
+### Topics
+* [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)
+
+### Transcript
+
 > is console confirmed to satisfactory uh
 > 
 > it's not confirmed so

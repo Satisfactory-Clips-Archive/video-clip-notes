@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will there be a european Merch store?
 https://www.youtube.com/watch?v=GhfR61WpR6k
+
+### Topics
+
+
+### Transcript
+
 > shrink when they get out yeah would it
 > 
 > be a european

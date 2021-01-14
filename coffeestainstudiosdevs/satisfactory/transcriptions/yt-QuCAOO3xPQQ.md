@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Are there any features you guys really want in the game but you can't/won't add?
 https://www.youtube.com/watch?v=QuCAOO3xPQQ
+
+### Topics
+
+
+### Transcript
+
 > um
 > 
 > are there any features you guys really

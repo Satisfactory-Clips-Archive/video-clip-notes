@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will Jace consider doing a PS5Controller% run on the Satisfactory Livestream?
 https://www.youtube.com/watch?v=SprKtX-bJ_0
+
+### Topics
+
+
+### Transcript
+
 > anyways yes cool well jay's considered
 > 
 > doing a ps5 controller percent run on

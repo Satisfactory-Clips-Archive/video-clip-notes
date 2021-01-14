@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Map Editor?
 https://www.youtube.com/watch?v=Oq4gGKBYHQI
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > i saw someone before was asking about
 > 
 > like map editor and stuff like that

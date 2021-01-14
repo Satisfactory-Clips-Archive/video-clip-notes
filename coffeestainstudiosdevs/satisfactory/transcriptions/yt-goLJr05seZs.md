@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Adjustable Scanner so when you scan for nodes it doesn't show ones that have a Miner on them.
 https://www.youtube.com/watch?v=goLJr05seZs
+
+### Topics
+
+
+### Transcript
+
 > uh adjustable scanner so when you scan
 > 
 > it shows resource nodes that don't have

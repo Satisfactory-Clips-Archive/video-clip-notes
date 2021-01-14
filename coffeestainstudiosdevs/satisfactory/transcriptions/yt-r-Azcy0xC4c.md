@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Please take a look at the Doggo farm
 https://www.youtube.com/watch?v=r-Azcy0xC4c
+
+### Topics
+
+
+### Transcript
+
 > please take a look at the doggo farm
 > 
 > that would be so cool in base game wait

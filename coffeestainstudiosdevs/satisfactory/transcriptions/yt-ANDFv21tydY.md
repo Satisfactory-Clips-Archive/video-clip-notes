@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Are there going to be Lore teasers in the Game before launch?
 https://www.youtube.com/watch?v=ANDFv21tydY
+
+### Topics
+
+
+### Transcript
+
 > hmm i'm excited are they going to be
 > 
 > lower teasers in the game before launch

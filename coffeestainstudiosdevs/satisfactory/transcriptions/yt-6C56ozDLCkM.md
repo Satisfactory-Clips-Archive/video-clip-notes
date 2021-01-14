@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Can we add Stamina back?
 https://www.youtube.com/watch?v=6C56ozDLCkM
+
+### Topics
+* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
+
+### Transcript
+
 > but it's like right next to that stamina
 > 
 > back i don't think we're gonna no i

@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Any info on possible build contests?
 https://www.youtube.com/watch?v=L3Pi9Mydc60
+
+### Topics
+
+
+### Transcript
+
 > Jace: Any info on possible build contests?
 > 
 > Jace: That sounds great!

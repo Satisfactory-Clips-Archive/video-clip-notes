@@ -10,6 +10,14 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Flying Vehicles in Update 4
 https://www.youtube.com/watch?v=E666WdfoeP0
+
+### Topics
+* [Features > Tiers](../topics/features/tiers.md)
+* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > yeah helicopters
 > 
 > oh that's what we're talking about the

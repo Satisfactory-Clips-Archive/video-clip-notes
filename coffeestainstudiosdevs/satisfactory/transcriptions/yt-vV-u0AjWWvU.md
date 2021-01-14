@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Is there an update to Trainstations, Rails, and Railway Switches in the future?
 https://www.youtube.com/watch?v=vV-u0AjWWvU
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+
+### Transcript
+
 > uh is there an update to train station
 > 
 > and rails railway switches in the near

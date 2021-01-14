@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Snutt & Jace Talk: Filler Content
 https://www.youtube.com/watch?v=NtWMjGjulnU
+
+### Topics
+
+
+### Transcript
+
 > really yeah but let's move on we've got
 > 
 > more stream to do okay

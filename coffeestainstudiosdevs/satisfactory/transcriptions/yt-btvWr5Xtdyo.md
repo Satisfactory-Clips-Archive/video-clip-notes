@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: When will Satisfactory 2 come out for Raspberry Pi 4?
 https://www.youtube.com/watch?v=btvWr5Xtdyo
+
+### Topics
+
+
+### Transcript
+
 > [Music]
 > 
 > yeah yeah cool uh

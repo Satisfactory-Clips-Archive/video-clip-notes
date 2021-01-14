@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: I want this to come to XBox Series X & Playstation 5
 https://www.youtube.com/watch?v=9NqrE4ASW9U
+
+### Topics
+
+
+### Transcript
+
 > uh i want this to come up to xbox series
 > 
 > x and playstation 5.

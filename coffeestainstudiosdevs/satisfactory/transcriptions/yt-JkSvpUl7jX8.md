@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Do you have any good stories for features that didn't get included in the game?
 https://www.youtube.com/watch?v=JkSvpUl7jX8
+
+### Topics
+* [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
+
+### Transcript
+
 > do you have any good stories for
 > 
 > features that didn't include in the game

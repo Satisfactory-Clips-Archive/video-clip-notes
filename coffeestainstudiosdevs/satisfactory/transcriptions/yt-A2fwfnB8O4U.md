@@ -10,6 +10,14 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Are you concerned that Dedicated Servers will cause people to move through Tiers too quickly?
 https://www.youtube.com/watch?v=A2fwfnB8O4U
+
+### Topics
+* [Features > Tiers](../topics/features/tiers.md)
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > okay are you concerned dedicated to
 > 
 > cause people to move through tears too

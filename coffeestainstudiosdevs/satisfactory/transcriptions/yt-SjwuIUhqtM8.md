@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Why do you guys not use the Foundations?
 https://www.youtube.com/watch?v=SjwuIUhqtM8
+
+### Topics
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+
+### Transcript
+
 > why you don't guys don't use the
 > 
 > foundations

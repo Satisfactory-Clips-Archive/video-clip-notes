@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Coming to Consoles?
 https://www.youtube.com/watch?v=09PyuqxekgU
+
+### Topics
+
+
+### Transcript
+
 > um coming to consoles uh no
 > 
 > uh we don't we have no plans for console

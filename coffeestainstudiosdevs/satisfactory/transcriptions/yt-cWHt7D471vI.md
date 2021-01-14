@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Pizza with seafood?
 https://www.youtube.com/watch?v=cWHt7D471vI
+
+### Topics
+
+
+### Transcript
+
 > pizza was seafood yeah it had like it
 > 
 > had like those mussels those shells

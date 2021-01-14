@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will we see air vehicles some time in the future?
 https://www.youtube.com/watch?v=qJ56jBYTtAc
+
+### Topics
+* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
+
+### Transcript
+
 > uh will we see vehicles air vehicles
 > 
 > sometime in the future

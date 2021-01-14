@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will we add DLC?
 https://www.youtube.com/watch?v=4VxcyGiOSHw
+
+### Topics
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+
+### Transcript
+
 > we did i wasn't there i i don't know so
 > 
 > will we add dlc

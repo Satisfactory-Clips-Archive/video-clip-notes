@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Alpha Keys, when ?
 https://www.youtube.com/watch?v=Kuj7AhSysV8
+
+### Topics
+
+
+### Transcript
+
 > um alpha keys when
 > 
 > did you ever get enough of kimeza

@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## State of Dev: Update 4
 https://www.youtube.com/watch?v=8tiGIPGptWQ
+
+### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > let's do it yeah we can do that uh last
 > 
 > week we also released a

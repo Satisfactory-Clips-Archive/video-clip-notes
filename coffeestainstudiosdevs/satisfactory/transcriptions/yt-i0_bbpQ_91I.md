@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: The game needs small Flying Vehicles to travel long distance?
 https://www.youtube.com/watch?v=i0_bbpQ_91I
+
+### Topics
+* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
+
+### Transcript
+
 > uh the game needs small flying vehicles
 > 
 > travel long distance

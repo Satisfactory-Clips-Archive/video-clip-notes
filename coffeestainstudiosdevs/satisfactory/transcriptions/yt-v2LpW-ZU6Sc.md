@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Keeping it portable to other OSes?
 https://www.youtube.com/watch?v=v2LpW-ZU6Sc
+
+### Topics
+
+
+### Transcript
+
 > so yeah uh talking about like unreal
 > 
 > like

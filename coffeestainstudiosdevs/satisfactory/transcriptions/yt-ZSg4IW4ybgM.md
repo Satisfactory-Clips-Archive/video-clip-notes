@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: What is your optimisation process?
 https://www.youtube.com/watch?v=ZSg4IW4ybgM
+
+### Topics
+
+
+### Transcript
+
 > uh what is your optimization process do
 > 
 > you research our profiler first did you

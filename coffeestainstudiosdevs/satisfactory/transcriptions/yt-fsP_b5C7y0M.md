@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt Talk: Lights on Buildings
 https://www.youtube.com/watch?v=fsP_b5C7y0M
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > i want to comment on one thing though
 > 
 > that i've seen some people comment on is

@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will Colour Gun work on Vehicles in the future?
 https://www.youtube.com/watch?v=J8M7X0igt2w
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > uh will color gun work on vehicles in
 > 
 > the future

@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Any changes coming to To-Do List?
 https://www.youtube.com/watch?v=NStZ-wKVHYc
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > um quarter of life fixes to the to-do
 > 
 > list i don't know if there are any

@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans for a helicopter so we don't have to turn into spaghetti to get across the map?
 https://www.youtube.com/watch?v=l-k7qpxgpRQ
+
+### Topics
+* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
+
+### Transcript
+
 > going places any plans for a small
 > 
 > helicopter gyrocopter so we'd have to

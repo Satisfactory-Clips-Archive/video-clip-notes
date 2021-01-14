@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Has anyone 3D-printed any Statues?
 https://www.youtube.com/watch?v=vINDLY2E0R8
+
+### Topics
+
+
+### Transcript
+
 > exactly uh killer dreams asked if
 > 
 > anyone's 3d printed any statues and

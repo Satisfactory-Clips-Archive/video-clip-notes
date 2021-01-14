@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do you earn money with the keys sold on third-party sites?
 https://www.youtube.com/watch?v=1Q7R8pQ4WrE
+
+### Topics
+
+
+### Transcript
+
 > it's terrible do you earn money with the
 > 
 > keys sold on third-party sites so only

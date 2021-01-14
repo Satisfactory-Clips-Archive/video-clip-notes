@@ -10,6 +10,14 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will the Packing machine cost the same amount of power as the Refinery?
 https://www.youtube.com/watch?v=jhq2XmKDz9M
+
+### Topics
+* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > ain't that bad yeah
 > 
 > um would the packet machine cost the

@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Platform-building in space?
 https://www.youtube.com/watch?v=LqhidO6272A
+
+### Topics
+
+
+### Transcript
+
 > yeah i know you're right you're right
 > 
 > actually

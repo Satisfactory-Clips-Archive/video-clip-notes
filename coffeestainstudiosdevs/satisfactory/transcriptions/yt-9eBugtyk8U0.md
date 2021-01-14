@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Are there any Green Energy options in the game?
 https://www.youtube.com/watch?v=9eBugtyk8U0
+
+### Topics
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > you want to make a thing so you can do
 > 
 > it um are there any green

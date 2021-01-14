@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Battle Royale Mode?
 https://www.youtube.com/watch?v=qo8WFOlPkTc
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+
+### Transcript
+
 > inevitable battle royale
 > 
 > mode coming soon maybe when we get uh

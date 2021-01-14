@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: What's the difference between Experimental and the other version?
 https://www.youtube.com/watch?v=T6zmq2rGoHU
+
+### Topics
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+
+### Transcript
+
 > what's the difference between
 > 
 > experimental and the other version the

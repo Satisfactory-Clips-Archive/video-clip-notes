@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are you planning on porting the game to PS4?
 https://www.youtube.com/watch?v=0Zv9Qjp2fHI
+
+### Topics
+
+
+### Transcript
+
 > thanks are you planning on putting the
 > 
 > game to ps4

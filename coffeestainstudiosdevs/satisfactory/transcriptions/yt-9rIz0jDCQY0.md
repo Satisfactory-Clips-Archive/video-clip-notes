@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Update on Fluids?
 https://www.youtube.com/watch?v=9rIz0jDCQY0
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > my god okay so uh i heard rumors about
 > 
 > update on fluid what is that exactly

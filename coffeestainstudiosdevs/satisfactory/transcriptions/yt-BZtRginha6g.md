@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: What will be happening with the Train collisions/signalling?
 https://www.youtube.com/watch?v=BZtRginha6g
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+
+### Transcript
+
 > the flush yeah will be happening with
 > 
 > the trains and collisions i heard

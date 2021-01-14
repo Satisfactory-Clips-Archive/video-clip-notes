@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Snutt Talk: Localisation Update
 https://www.youtube.com/watch?v=olB0GBC1sZI
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > um so so the rest of this
 > 
 > the sich right now in the studio is oh

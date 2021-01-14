@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Is the Tick the official for the Space Cow Bean Giraffe?
 https://www.youtube.com/watch?v=1vgaetZXbxM
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > nice nice uh is there tick
 > 
 > the official name for the space cow bean

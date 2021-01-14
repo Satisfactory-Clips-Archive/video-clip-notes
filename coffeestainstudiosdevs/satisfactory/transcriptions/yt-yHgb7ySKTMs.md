@@ -9,6 +9,13 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: When will we see the crab?
 https://www.youtube.com/watch?v=yHgb7ySKTMs
+
+### Topics
+* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > when will you see the crab ooh
 > 
 > that's a really good question uh i would

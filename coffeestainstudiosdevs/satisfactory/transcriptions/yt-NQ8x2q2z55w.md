@@ -9,6 +9,13 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Does the kitchen come into the HUB, I want to cook a Lizard Doggo
 https://www.youtube.com/watch?v=NQ8x2q2z55w
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > and i'm losing my mind um
 > 
 > is the kitchen coming to the hub i want

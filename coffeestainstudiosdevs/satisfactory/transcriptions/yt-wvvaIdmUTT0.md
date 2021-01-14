@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Why no partner with Twitch?
 https://www.youtube.com/watch?v=wvvaIdmUTT0
+
+### Topics
+
+
+### Transcript
+
 > stupid why not partner with twitch um
 > 
 > because if we partner with twitch we

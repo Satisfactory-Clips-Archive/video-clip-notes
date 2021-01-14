@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Adding of favourites to the Construction Menu ?
 https://www.youtube.com/watch?v=tet-0DBydrc
+
+### Topics
+
+
+### Transcript
+
 > adding a favorites to the construction
 > 
 > menu

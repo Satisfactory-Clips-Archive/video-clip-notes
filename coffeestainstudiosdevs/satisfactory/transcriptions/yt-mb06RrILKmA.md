@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Love the Music, but are there plans for more?
 https://www.youtube.com/watch?v=mb06RrILKmA
+
+### Topics
+
+
+### Transcript
+
 > let's not take care of that love the
 > 
 > music but are there plans for more yes

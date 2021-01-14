@@ -8,6 +8,12 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Any plans to let us cycle through Foundation thickness with the R key?
 https://www.youtube.com/watch?v=ez909nY4cQI
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > any plans to let a cycle through
 > 
 > foundation thickness

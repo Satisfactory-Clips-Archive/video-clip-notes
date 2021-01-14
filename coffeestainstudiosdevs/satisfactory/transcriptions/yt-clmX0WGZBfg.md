@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: I think the milestones are too cheap
 https://www.youtube.com/watch?v=clmX0WGZBfg
+
+### Topics
+* [Features > Tiers](../topics/features/tiers.md)
+
+### Transcript
+
 > i think the milestones are too cheap uh
 > 
 > i think

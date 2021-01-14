@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Does the game get a deeper Story?
 https://www.youtube.com/watch?v=QViQ--AWYjY
+
+### Topics
+
+
+### Transcript
+
 > thing does the game get a deeper story
 > 
 > yes it's gonna have like a full story

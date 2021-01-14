@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is it possible to use powerline as zip-lines?
 https://www.youtube.com/watch?v=NTeBuhOqIu0
+
+### Topics
+* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > oh yeah yeah yeah i see that player
 > 
 > which stream is it possible to use power

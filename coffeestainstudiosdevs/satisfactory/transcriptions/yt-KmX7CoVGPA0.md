@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: There is no way to hotkey items?
 https://www.youtube.com/watch?v=KmX7CoVGPA0
+
+### Topics
+* [Features > Equipment](../topics/features/equipment.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > word okay there is no way to hot key the
 > 
 > xeno zapper or

@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Confused on the use of Controllers?
 https://www.youtube.com/watch?v=BuC0nQS2Kqs
+
+### Topics
+
+
+### Transcript
+
 > um stuff like that
 > 
 > um confused on the use of controllers

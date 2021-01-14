@@ -9,6 +9,13 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Did the Procedural part look awful?
 https://www.youtube.com/watch?v=U7io7UQarus
+
+### Topics
+* [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > the procedural part if it looked awful
 > 
 > uh

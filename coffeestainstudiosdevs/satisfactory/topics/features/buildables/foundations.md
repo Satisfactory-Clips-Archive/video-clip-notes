@@ -5,28 +5,28 @@ date: Last Modified
 [Topics](../../../topics.md) > Features > Buildables > Foundations
 
 # January 12th, 2021 Livestream
-* Q&A: Possibility of placing more than one foundation at once? https://www.youtube.com/watch?v=TdmIe3EM_B8
+* [Q&A: Possibility of placing more than one foundation at once?](../../../transcriptions/yt-TdmIe3EM_B8.md) https://www.youtube.com/watch?v=TdmIe3EM_B8
 
 # December 15th, 2020 Livestream
-* Q&A: Can you add Road Foundations? https://www.youtube.com/watch?v=ay4pgtU2Q8g
-* Q&A: We need more foundation types- triangle foundations, smaller foundations? https://www.youtube.com/watch?v=V8sGth96I5w
+* [Q&A: Can you add Road Foundations?](../../../transcriptions/yt-ay4pgtU2Q8g.md) https://www.youtube.com/watch?v=ay4pgtU2Q8g
+* [Q&A: We need more foundation types- triangle foundations, smaller foundations?](../../../transcriptions/yt-V8sGth96I5w.md) https://www.youtube.com/watch?v=V8sGth96I5w
 
 # November 17th, 2020 Livestream
-* Q&A: Circular Foundations? https://www.youtube.com/watch?v=5snNwUqWAxA
+* [Q&A: Circular Foundations?](../../../transcriptions/yt-5snNwUqWAxA.md) https://www.youtube.com/watch?v=5snNwUqWAxA
 
 # November 10th, 2020 Livestream
-* Q&A: Is there any possibility you guys will be add the making of circles? https://www.youtube.com/watch?v=40bnpFI8SqE
+* [Q&A: Is there any possibility you guys will be add the making of circles?](../../../transcriptions/yt-40bnpFI8SqE.md) https://www.youtube.com/watch?v=40bnpFI8SqE
 
 # November 3rd, 2020 Livestream
-* Q&A: Can we get Circular Foundations? https://www.youtube.com/watch?v=4sKy5-TJVKY
-* Q&A: Will the drag technology of Ladders be used elsewhere? https://www.youtube.com/watch?v=g8ljtppxPL4
-* Q&A: How about being able to snap Foundations by their halfway point instead of just the edge? https://www.youtube.com/watch?v=SYEIsZ6KVgU
+* [Q&A: Can we get Circular Foundations?](../../../transcriptions/yt-4sKy5-TJVKY.md) https://www.youtube.com/watch?v=4sKy5-TJVKY
+* [Q&A: Will the drag technology of Ladders be used elsewhere?](../../../transcriptions/yt-g8ljtppxPL4.md) https://www.youtube.com/watch?v=g8ljtppxPL4
+* [Q&A: How about being able to snap Foundations by their halfway point instead of just the edge?](../../../transcriptions/yt-SYEIsZ6KVgU.md) https://www.youtube.com/watch?v=SYEIsZ6KVgU
 
 # September 1st, 2020 Livestream
-* Q&A: Any plans for bigger foundations? https://www.youtube.com/watch?v=uUFy6qyZLKo
+* [Q&A: Any plans for bigger foundations?](../../../transcriptions/yt-uUFy6qyZLKo.md) https://www.youtube.com/watch?v=uUFy6qyZLKo
 
 # March 9th, 2019 Livestream
-* Q&A: Why do you guys not use the Foundations? https://www.youtube.com/watch?v=SjwuIUhqtM8
+* [Q&A: Why do you guys not use the Foundations?](../../../transcriptions/yt-SjwuIUhqtM8.md) https://www.youtube.com/watch?v=SjwuIUhqtM8
 
 # August 25th, 2020 Livestream
 * Q&A: Set a specific Foundation as the keystone https://clips.twitch.tv/GoodAnimatedSproutPipeHype

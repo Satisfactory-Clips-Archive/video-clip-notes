@@ -9,6 +9,13 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Can you make it so we can use closed Conveyor Belts to help with Rendering?
 https://www.youtube.com/watch?v=6KdakqhC8Q4
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > okay can you make it so we can use
 > 
 > uh can you make it so we can use closed

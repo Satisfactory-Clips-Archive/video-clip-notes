@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Jace Talk: Mount Prototypes
 https://www.youtube.com/watch?v=33dr3t-46yQ
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > easy peasy there's tall creatures you
 > 
 > just bounce on them you okay so here it

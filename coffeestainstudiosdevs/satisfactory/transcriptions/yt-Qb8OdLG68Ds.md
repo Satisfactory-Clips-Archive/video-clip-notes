@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Are you guys aware of a crash when looking at using Double Wall Outlets?
 https://www.youtube.com/watch?v=Qb8OdLG68Ds
+
+### Topics
+* [Mods](../topics/mods.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > um are you guys already aware of a crash
 > 
 > when looking at using double wall

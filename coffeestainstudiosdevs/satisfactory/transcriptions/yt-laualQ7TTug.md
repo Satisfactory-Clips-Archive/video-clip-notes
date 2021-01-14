@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Nuclear Waste removal in-game when?
 https://www.youtube.com/watch?v=laualQ7TTug
+
+### Topics
+* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > think that nuclear wage removal in game
 > 
 > when

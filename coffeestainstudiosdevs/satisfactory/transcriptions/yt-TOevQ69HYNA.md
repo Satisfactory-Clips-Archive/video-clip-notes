@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Jace Talk: FICS⁕MAS leaks are not "leaks"
 https://www.youtube.com/watch?v=TOevQ69HYNA
+
+### Topics
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > time you can do that if you feel so i'm
 > 
 > going to address the first thing that

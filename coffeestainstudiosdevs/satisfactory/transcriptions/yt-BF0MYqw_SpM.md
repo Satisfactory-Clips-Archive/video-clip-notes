@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Is it true that building vertically equals worse performance than building horizontally?
 https://www.youtube.com/watch?v=BF0MYqw_SpM
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > um someone was asking oh here is it true
 > 
 > that building vertically equals worse

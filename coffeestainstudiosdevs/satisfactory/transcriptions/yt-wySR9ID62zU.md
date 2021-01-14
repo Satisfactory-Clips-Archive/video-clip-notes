@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: What's the storyline on Satisfactory? Is it after Deep Rock Galactic?
 https://www.youtube.com/watch?v=wySR9ID62zU
+
+### Topics
+
+
+### Transcript
+
 > yeah what's the storyline of
 > 
 > satisfactory is this after deep rock

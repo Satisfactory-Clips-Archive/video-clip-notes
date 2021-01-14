@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Did the Steam release meet expected goals?
 https://www.youtube.com/watch?v=crzPPDeFTcc
+
+### Topics
+
+
+### Transcript
+
 > uh
 > 
 > did the steam release meet expected

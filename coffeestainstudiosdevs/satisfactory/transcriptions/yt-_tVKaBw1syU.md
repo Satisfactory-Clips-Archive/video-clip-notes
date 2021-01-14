@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: What is the current state of the "click & drag" creation debate?
 https://www.youtube.com/watch?v=_tVKaBw1syU
+
+### Topics
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > what is the current state of the click
 > 
 > and drag creation debate

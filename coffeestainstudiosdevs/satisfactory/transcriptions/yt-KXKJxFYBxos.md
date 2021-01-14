@@ -9,6 +9,13 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Add RTX?
 https://www.youtube.com/watch?v=KXKJxFYBxos
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > if there's many to add rtx smith that's
 > 
 > for you

@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Cyberpunk cross-over when?
 https://www.youtube.com/watch?v=GJMD7L7BLxE
+
+### Topics
+* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+
+### Transcript
+
 > this year cyberpunk crossover when
 > 
 > they've been we've been crossing over

@@ -9,6 +9,13 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Were there any Multiplayer updates in 3.5?
 https://www.youtube.com/watch?v=utOyTtmjsjQ
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > in it though yeah were there any
 > 
 > multiplayer updates in 3.5 my son can't

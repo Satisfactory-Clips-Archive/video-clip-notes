@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will you add any Monsters/Bosses in the future?
 https://www.youtube.com/watch?v=D_BVMiGNvqI
+
+### Topics
+
+
+### Transcript
+
 > [Music]
 > 
 > uh would you add uh monsters to any

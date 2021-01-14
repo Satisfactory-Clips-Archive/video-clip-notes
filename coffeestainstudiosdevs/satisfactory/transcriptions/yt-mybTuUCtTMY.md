@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will we have a Content teaser?
 https://www.youtube.com/watch?v=mybTuUCtTMY
+
+### Topics
+
+
+### Transcript
+
 > uh will we have a content teaser yeah
 > 
 > for sure um

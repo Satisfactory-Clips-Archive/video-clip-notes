@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: How's the cup going?
 https://www.youtube.com/watch?v=bkjnr6Ae1r0
+
+### Topics
+
+
+### Transcript
+
 > a lot of here on the stream how's
 > 
 > the cup going i assume by a cup you mean

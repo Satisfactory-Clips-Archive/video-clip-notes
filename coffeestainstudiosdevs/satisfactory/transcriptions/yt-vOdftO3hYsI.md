@@ -9,6 +9,13 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is it recommended to use all cores in Steam?
 https://www.youtube.com/watch?v=vOdftO3hYsI
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > yeah does they recommend to use all
 > 
 > cores and steam similar to

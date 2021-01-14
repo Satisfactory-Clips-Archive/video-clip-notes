@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Is there a debug command to see how many Objects you are using?
 https://www.youtube.com/watch?v=3Tht0Ap0S8c
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > sir uh is there a debug command to see
 > 
 > how many objects you're in uh the game

@@ -10,6 +10,14 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will RTX be added to Update 4 with the new Unreal Engine?
 https://www.youtube.com/watch?v=RubFX693enI
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > what else we got will rtx be added to
 > 
 > update four with the new unreal engine

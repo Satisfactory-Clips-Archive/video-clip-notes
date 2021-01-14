@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Are you guys aware of how broken Rails are?
 https://www.youtube.com/watch?v=ziSNgugerjg
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+
+### Transcript
+
 > we're adding them uh are you guys
 > 
 > um aware of a broken braille star

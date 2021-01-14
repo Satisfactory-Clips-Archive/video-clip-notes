@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Will there be penguins in the game?
 https://www.youtube.com/watch?v=M6hotLia1v4
+
+### Topics
+
+
+### Transcript
+
 > um will there be penguins in the game
 > 
 > what the [ __ ]

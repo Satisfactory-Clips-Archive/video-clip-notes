@@ -9,6 +9,13 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Why not try ban all Mods / Do you want people to use Mods ?
 https://www.youtube.com/watch?v=dxR2Hgw2L8M
+
+### Topics
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > i don't mind like the mod so like when
 > 
 > when people make mods and they they make

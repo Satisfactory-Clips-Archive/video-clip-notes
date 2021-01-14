@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will we ever be able to skip the Intro?
 https://www.youtube.com/watch?v=t_hHHaDdJU0
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > cuda or something okay but would you
 > 
 > ever be able to skip the intro

@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: When are you going to expand the map?
 https://www.youtube.com/watch?v=axmmm-ituSg
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > uh when are you gonna expand the map and
 > 
 > plan some new enemies oh yeah that's

@@ -10,6 +10,14 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Will Trees respawning being worked on?
 https://www.youtube.com/watch?v=59eW6SBaiNk
+
+### Topics
+* [Environment > Plants](../topics/environment/plants.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > roof trees respawning being worked on
 > 
 > i'm not sure

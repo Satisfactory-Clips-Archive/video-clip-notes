@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Hope more crashes won't appear after the Engine Upgrade?
 https://www.youtube.com/watch?v=IiJqms2FdS4
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+
+### Transcript
+
 > do that someday yeah um
 > 
 > hope my uh crashes won't appear after

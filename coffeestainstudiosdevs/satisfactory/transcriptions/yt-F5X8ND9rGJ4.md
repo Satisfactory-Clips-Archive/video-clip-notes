@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Snutt Talk: Danish (counting) is stupid
 https://www.youtube.com/watch?v=F5X8ND9rGJ4
+
+### Topics
+
+
+### Transcript
+
 > yeah kinda uh if i say let's meet up at
 > 
 > half

@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Model of the Explorer seems incomplete?
 https://www.youtube.com/watch?v=8wGU5mxm-bY
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > model of the explorer seems almost
 > 
 > incomplete can we expect some kind of

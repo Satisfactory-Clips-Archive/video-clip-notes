@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Any thought to allow Splitters to regulate the flow of items per minute?
 https://www.youtube.com/watch?v=nSC4C_h1ONo
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+
+### Transcript
+
 > uh
 > 
 > any thought to allow splitters to be

@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will we have Paintable Vehicles?
 https://www.youtube.com/watch?v=Wq7wvbW3fPo
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > yeah but we have paintable vehicles
 > 
 > don't know we used to way back when

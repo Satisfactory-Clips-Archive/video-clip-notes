@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Jace & Snutt Talk: Unconventional usage of Vehicles
 https://www.youtube.com/watch?v=QSxbYoiwVIQ
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > yeah whatever steal
 > 
 > steering wheel support for factory car

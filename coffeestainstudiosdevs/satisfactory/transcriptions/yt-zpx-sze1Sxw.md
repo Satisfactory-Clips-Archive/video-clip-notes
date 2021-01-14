@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Jace Talk: Q&A Site
 https://www.youtube.com/watch?v=zpx-sze1Sxw
+
+### Topics
+
+
+### Transcript
+
 > uh subnautica did it fantastic it
 > 
 > probably wasn't easy

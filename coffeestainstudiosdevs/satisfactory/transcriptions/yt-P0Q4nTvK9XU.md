@@ -9,6 +9,13 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will Update 4 include Multiplayer optimisation?
 https://www.youtube.com/watch?v=P0Q4nTvK9XU
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > uh will update4 include multiplayer
 > 
 > optimization yes

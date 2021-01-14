@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: As Update 4 gets closer will you be releasing more info on how to prepare for the changes?
 https://www.youtube.com/watch?v=dkVq6ix0lQM
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > with that as as release 4 assuming
 > 
 > update 4 gets closer will

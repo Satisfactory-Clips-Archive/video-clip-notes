@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Snutt & Jace Talk: State of Dev
 https://www.youtube.com/watch?v=KfR4wW7o82k
+
+### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+
+### Transcript
+
 > like that so let's talk about state of
 > 
 > dev i guess as we've

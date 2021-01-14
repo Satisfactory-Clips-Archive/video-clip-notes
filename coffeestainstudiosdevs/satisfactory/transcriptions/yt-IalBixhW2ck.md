@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Are you okay with Mods?
 https://www.youtube.com/watch?v=IalBixhW2ck
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > no we can't discuss it but i'm happy
 > 
 > with the

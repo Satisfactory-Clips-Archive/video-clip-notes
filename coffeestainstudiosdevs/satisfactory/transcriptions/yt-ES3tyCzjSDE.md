@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Can we get a Jace Beanie in the game?
 https://www.youtube.com/watch?v=ES3tyCzjSDE
+
+### Topics
+* [Features > Crafting](../topics/features/crafting.md)
+
+### Transcript
+
 >  chase can we get a beanie um get my
 > 
 > beanie as a hat and satisfactory

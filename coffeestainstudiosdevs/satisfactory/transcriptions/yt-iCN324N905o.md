@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is the OST on Spotify?
 https://www.youtube.com/watch?v=iCN324N905o
+
+### Topics
+
+
+### Transcript
+
 > does it always see on spotify
 > 
 > no not yet the one of the main reasons

@@ -9,6 +9,13 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Dedicated Servers are kinda useless when you don't have friends
 https://www.youtube.com/watch?v=e-Zgy9_ZuwU
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > honestly dedicated servers are kind of
 > 
 > useless when you don't have friends

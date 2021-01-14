@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: When are you guys adding back maps?
 https://www.youtube.com/watch?v=DHWIPr3AYZo
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > it sounds cool what are you guys adding
 > 
 > what are you guys adding back maps

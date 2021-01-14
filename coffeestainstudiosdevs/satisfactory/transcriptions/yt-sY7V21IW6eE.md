@@ -9,6 +9,13 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any plans for Power Management?
 https://www.youtube.com/watch?v=sY7V21IW6eE
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > any plans for power management
 > 
 > uh setting up factories just have power

@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When we talk about Dedicated Servers is the plan that those servers are hosted by Coffee Stain?
 https://www.youtube.com/watch?v=TYf5xLi8060
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > when we talk about dedicated services
 > 
 > that is the plan that those servers are

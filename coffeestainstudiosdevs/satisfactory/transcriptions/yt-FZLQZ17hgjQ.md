@@ -9,6 +9,13 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Jace & Snutt Talk: Jump Pad Teaser (part 2)
 https://www.youtube.com/watch?v=FZLQZ17hgjQ
+
+### Topics
+* [Features > Buildables > Jump Pads](../topics/features/buildables/jump-pads.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > there you are
 > 
 > there you go so that was the e.t sequel

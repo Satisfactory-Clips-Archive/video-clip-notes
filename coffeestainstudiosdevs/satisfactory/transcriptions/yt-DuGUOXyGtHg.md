@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Coffee Mugs?
 https://www.youtube.com/watch?v=DuGUOXyGtHg
+
+### Topics
+
+
+### Transcript
+
 > times um coffee mugs we are working on
 > 
 > coffee mugs uh

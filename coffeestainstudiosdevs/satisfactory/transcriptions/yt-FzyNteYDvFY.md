@@ -9,6 +9,13 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Snutt Talk: Update release schedule
 https://www.youtube.com/watch?v=FzyNteYDvFY
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > yeah and a reminder update 4 is slated
 > 
 > for

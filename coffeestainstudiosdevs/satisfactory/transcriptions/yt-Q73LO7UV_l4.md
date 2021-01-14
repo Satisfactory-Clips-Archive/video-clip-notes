@@ -9,6 +9,13 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Will Turbo Motors be used more in the Update?
 https://www.youtube.com/watch?v=Q73LO7UV_l4
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > satisfactory uh will turbo motors be
 > 
 > used more in the update uh

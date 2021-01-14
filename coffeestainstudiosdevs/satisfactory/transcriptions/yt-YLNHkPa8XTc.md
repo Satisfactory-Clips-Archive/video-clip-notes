@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: give me update 4 so I can leave
 https://www.youtube.com/watch?v=YLNHkPa8XTc
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > [Music]
 > 
 > and give me update 4 so i can leave

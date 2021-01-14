@@ -10,6 +10,14 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Any plans for when your Base grows so large you literally run out of nodes to make it bigger?
 https://www.youtube.com/watch?v=A8vmAeTgBfw
+
+### Topics
+* [Features > Crafting](../topics/features/crafting.md)
+* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > um are there any plans for when your
 > 
 > base grows so large you literally

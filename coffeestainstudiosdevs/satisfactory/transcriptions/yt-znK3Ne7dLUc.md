@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Dedicated Server for Windows?
 https://www.youtube.com/watch?v=znK3Ne7dLUc
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > dedicated server for windows yeah
 > 
 > windows is the first

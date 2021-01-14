@@ -9,6 +9,13 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Only use it (mk. 2 belts) for Load Balancing.
 https://www.youtube.com/watch?v=1xgb-jbAWt4
+
+### Topics
+* [Environment > Resources](../topics/environment/resources.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > only use it for load balancing yeah
 > 
 > there's another aspect to it as well

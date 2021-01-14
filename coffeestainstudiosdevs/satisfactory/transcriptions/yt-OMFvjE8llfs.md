@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Console Support
 https://www.youtube.com/watch?v=OMFvjE8llfs
+
+### Topics
+* [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)
+
+### Transcript
+
 > uh support i think we have time for one
 > 
 > more announcement all right let's do it

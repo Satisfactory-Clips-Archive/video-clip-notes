@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are you guys going to make a Player Elevator?
 https://www.youtube.com/watch?v=KTp_pmyifGo
+
+### Topics
+
+
+### Transcript
+
 > are you guys going to make a player
 > 
 > elevator like a real elevator where you

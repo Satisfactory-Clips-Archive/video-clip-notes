@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Any plans on updating Vehicles and Planning Routes?
 https://www.youtube.com/watch?v=gddxBoi8DxY
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > your story yeah um
 > 
 > any plans on updating vehicles and

@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Do you have an update on the price of delivery fee of Merch?
 https://www.youtube.com/watch?v=mNtdBj-DpK0
+
+### Topics
+
+
+### Transcript
+
 > do you have an update on the price of
 > 
 > delivery for your uh

@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: What kind of oven does Jace have?
 https://www.youtube.com/watch?v=47XUYwkEE-0
+
+### Topics
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+
+### Transcript
+
 > next next uh week what kind of oven do i
 > 
 > have i have no idea it's just a good one

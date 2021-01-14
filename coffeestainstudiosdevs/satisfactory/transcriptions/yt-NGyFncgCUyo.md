@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Please give us tips to decrease/avoid Multiplayer delays?
 https://www.youtube.com/watch?v=NGyFncgCUyo
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > um please give us tips to decrease avoid
 > 
 > nasty multiplayer delays

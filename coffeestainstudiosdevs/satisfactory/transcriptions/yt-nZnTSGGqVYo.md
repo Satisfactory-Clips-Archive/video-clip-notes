@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: This secretism is not good
 https://www.youtube.com/watch?v=nZnTSGGqVYo
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > it's complicated the secretism is not
 > 
 > good my friend we just gave you

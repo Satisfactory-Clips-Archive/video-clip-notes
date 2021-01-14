@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any news about Trains? If so put them in Update 4?
 https://www.youtube.com/watch?v=eT6uSBu-sVw
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > yeah any news about trains if so put him
 > 
 > in update four i don't know if we're

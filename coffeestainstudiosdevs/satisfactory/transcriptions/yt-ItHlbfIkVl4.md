@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Snutt Talk: WIP (Work In Progress) Items
 https://www.youtube.com/watch?v=ItHlbfIkVl4
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+
+### Transcript
+
 > yeah cool uh someone asked about the
 > 
 > summersloop the summersloop and like the

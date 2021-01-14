@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will there be a Peacfull Mode with no Hostile Creatures?
 https://www.youtube.com/watch?v=yS_1rXuvxFw
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+
+### Transcript
+
 > that's money for your money
 > 
 > uh will it be peaceful mode with no

@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Dedicated Servers aren't tied to an Update?
 https://www.youtube.com/watch?v=2GeQaPM1UGg
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > yeah good times yeah so morris that's
 > 
 > exactly right

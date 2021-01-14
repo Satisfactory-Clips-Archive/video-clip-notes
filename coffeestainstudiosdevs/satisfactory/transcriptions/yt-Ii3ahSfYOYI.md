@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: More emotes?
 https://www.youtube.com/watch?v=Ii3ahSfYOYI
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > in some way more remotes any day i think
 > 
 > there are more amounts coming

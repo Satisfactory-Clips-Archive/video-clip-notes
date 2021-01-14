@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will planning be added?
 https://www.youtube.com/watch?v=_HKsPj2tx04
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > to it
 > 
 > and planning the added so that we can

@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Another game mode with a procedurally generated world?
 https://www.youtube.com/watch?v=GZlK2fIlYVk
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > we're going to be adding a procedural
 > 
 > generated world at all ever

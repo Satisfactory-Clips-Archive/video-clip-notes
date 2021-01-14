@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Are Conveyor Belt Mk. 6 going to be a thing?
 https://www.youtube.com/watch?v=WbtzFVFOFMs
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+
+### Transcript
+
 > tell you actually are conveyor belt mark
 > 
 > 6 going to be a thing

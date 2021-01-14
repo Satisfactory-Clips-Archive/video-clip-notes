@@ -9,6 +9,13 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Can we train Lizard Doggos to feed Biomass into Generators?
 https://www.youtube.com/watch?v=CfUusHOKqcY
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > can we train lizard doggos to feed
 > 
 > biomass into the generators

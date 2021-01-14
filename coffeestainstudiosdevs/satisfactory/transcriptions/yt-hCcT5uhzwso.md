@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"
 https://www.youtube.com/watch?v=hCcT5uhzwso
+
+### Topics
+
+
+### Transcript
+
 > margarita's on the beach yeah the
 > 
 > question is not who is hannah

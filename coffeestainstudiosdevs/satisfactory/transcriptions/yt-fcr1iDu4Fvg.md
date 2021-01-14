@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Can we get an open end to Pipes like dumping waste water?
 https://www.youtube.com/watch?v=fcr1iDu4Fvg
+
+### Topics
+* [Features > Fluids](../topics/features/fluids.md)
+
+### Transcript
+
 > can we get an open end to pipes like
 > 
 > dump waste water uh

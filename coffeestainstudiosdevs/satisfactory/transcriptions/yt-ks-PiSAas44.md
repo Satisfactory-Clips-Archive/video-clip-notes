@@ -9,6 +9,13 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Can we get bigger pipes?
 https://www.youtube.com/watch?v=ks-PiSAas44
+
+### Topics
+* [Features > Fluids](../topics/features/fluids.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > devs yeah giving a bigger pipe some co2
 > 
 > pipes a lot of people asking for better

@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How do you win the heart of Lizard Doggo?
 https://www.youtube.com/watch?v=z5BnfkmTQfA
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > procedural generator that's correct uh
 > 
 > how do you win the heart of wizard doggo

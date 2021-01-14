@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Has there been any community interest in Building mirror or flip options?
 https://www.youtube.com/watch?v=sSGirp3aoDk
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > yeah i got a question from solitaire
 > 
 > lover on

@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Why is everybody updating Engine?
 https://www.youtube.com/watch?v=oEwOqm1xAkE
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+
+### Transcript
+
 > why is everybody updating engine mostly
 > 
 > because there are either like new

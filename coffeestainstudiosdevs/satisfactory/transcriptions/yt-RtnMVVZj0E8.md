@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: What do you think of the current state of the game?
 https://www.youtube.com/watch?v=RtnMVVZj0E8
+
+### Topics
+* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
+
+### Transcript
+
 > so someone uh hisako asks uh what
 > 
 > what what do i think of the current

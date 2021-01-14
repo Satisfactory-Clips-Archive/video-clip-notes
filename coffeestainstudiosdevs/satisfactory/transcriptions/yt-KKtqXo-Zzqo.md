@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Are there spiders in this build?
 https://www.youtube.com/watch?v=KKtqXo-Zzqo
+
+### Topics
+* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > yeah are there spiders in this build i
 > 
 > don't know are they in

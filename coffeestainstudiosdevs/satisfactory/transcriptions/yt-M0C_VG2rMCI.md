@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: What's your thoughts on hanging Conveyor Mounts?
 https://www.youtube.com/watch?v=M0C_VG2rMCI
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+
+### Transcript
+
 > that'll do uh sort of spamming but i
 > 
 > know it's big on the qa site what's the

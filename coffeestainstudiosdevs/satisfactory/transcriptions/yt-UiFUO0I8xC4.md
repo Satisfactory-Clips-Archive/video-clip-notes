@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans on having Vehicles not constantly make gear-shifting noises?
 https://www.youtube.com/watch?v=UiFUO0I8xC4
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > uh any plans of having the vehicles
 > 
 > constantly

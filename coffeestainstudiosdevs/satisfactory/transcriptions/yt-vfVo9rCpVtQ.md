@@ -9,6 +9,13 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Update release schedule (part 2)
 https://www.youtube.com/watch?v=vfVo9rCpVtQ
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > something i don't know um one thing i
 > 
 > wouldn't want to say as well regarding

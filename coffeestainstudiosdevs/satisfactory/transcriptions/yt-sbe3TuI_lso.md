@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Some performance improvements?
 https://www.youtube.com/watch?v=sbe3TuI_lso
+
+### Topics
+
+
+### Transcript
+
 > right so and then yeah some performance
 > 
 > improvements so improvements

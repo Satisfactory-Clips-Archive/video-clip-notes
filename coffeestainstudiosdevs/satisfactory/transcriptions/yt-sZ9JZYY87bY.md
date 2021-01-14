@@ -10,6 +10,14 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Dark Matter in the game?
 https://www.youtube.com/watch?v=sZ9JZYY87bY
+
+### Topics
+* [Features > Unreleased Features > Unreleased Content](../topics/features/unreleased-features/unreleased-content.md)
+* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > [Music]
 > 
 > dark matter in the game

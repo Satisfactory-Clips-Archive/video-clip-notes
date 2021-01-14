@@ -9,6 +9,13 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any chance to use the HUB Computer to display the statistics and production of the factory?
 https://www.youtube.com/watch?v=5rVqTHOiwh0
+
+### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > any chance to use the hub computer to
 > 
 > display

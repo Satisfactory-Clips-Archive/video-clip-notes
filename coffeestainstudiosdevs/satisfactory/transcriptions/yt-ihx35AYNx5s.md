@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: How many developers are working on Satisfactory?
 https://www.youtube.com/watch?v=ihx35AYNx5s
+
+### Topics
+
+
+### Transcript
+
 > sure how many developers work in
 > 
 > satisfactory i think we're at something

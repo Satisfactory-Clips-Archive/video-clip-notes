@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: How many hours do you have in your playthrough?
 https://www.youtube.com/watch?v=f-vojQoyqiA
+
+### Topics
+
+
+### Transcript
+
 > how many hours do you guys have in your
 > 
 > playthrough i have about four hours

@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will the Factory Cart be available as Merch?
 https://www.youtube.com/watch?v=i1iL8KXmptE
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > will the factory card be his merch
 > 
 > i don't think so uh it would be cool if

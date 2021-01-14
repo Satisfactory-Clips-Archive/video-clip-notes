@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Do you guys write automated tests?
 https://www.youtube.com/watch?v=wJ-LL985q_c
+
+### Topics
+
+
+### Transcript
+
 > okay
 > 
 > do you guys write automated tests no we

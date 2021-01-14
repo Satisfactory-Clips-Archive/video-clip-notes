@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Is there going to be a Creative Mode?
 https://www.youtube.com/watch?v=Yn4Brcx8CSs
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+
+### Transcript
+
 > get back to your people exactly is to
 > 
 > can't hit

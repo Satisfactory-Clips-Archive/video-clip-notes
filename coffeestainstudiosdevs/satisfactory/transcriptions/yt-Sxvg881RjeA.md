@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Weather in Satisfactory?
 https://www.youtube.com/watch?v=Sxvg881RjeA
+
+### Topics
+* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+
+### Transcript
+
 > weather and satisfactory
 > 
 > maybe trying to think uh

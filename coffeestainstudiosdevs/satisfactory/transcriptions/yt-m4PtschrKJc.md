@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: When do we get the Crab Boss?
 https://www.youtube.com/watch?v=m4PtschrKJc
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > uh when do we get the crab boss the crab
 > 
 > boss is

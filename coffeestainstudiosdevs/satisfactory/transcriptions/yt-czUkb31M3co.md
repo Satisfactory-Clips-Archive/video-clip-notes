@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Is there a date targeted?
 https://www.youtube.com/watch?v=czUkb31M3co
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > is there a date targeted no we actually
 > 
 > don't have a date targeted at all

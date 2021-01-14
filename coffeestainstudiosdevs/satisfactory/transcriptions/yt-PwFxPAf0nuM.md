@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will we have Steam Workshop on Steam?
 https://www.youtube.com/watch?v=PwFxPAf0nuM
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > on it uh will we have steam workshop on
 > 
 > steam

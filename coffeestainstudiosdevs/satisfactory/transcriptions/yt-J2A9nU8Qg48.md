@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will Update 4 wipe existing saves?
 https://www.youtube.com/watch?v=J2A9nU8Qg48
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > Jace: uhh
 Jace: will Update 4 wipe your existing saves?
 > 

@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When do you have Discord integration?
 https://www.youtube.com/watch?v=uI3MwJi8iAk
+
+### Topics
+
+
+### Transcript
+
 > uh when do you have discord integration
 > 
 > that's a good question yeah well any

@@ -9,6 +9,13 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Any form of Mass Storage Management?
 https://www.youtube.com/watch?v=v_dacWIRc1Y
+
+### Topics
+* [Features > Crafting](../topics/features/crafting.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > [Music]
 > 
 > um any add any form of mass storage

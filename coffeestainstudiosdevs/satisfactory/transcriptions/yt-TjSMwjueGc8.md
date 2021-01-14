@@ -9,6 +9,13 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: When will we have Train Collision?
 https://www.youtube.com/watch?v=TjSMwjueGc8
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+
+### Transcript
+
 > my name is mark chan yeah uh when we'll
 > 
 > have train collision

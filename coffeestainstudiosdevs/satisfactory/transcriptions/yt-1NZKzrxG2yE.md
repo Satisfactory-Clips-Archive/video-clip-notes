@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Jace & Snutt Talk: Dedicated Servers
 https://www.youtube.com/watch?v=1NZKzrxG2yE
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > then i'll quit oh we haven't oh
 > 
 > this is like the first stream where

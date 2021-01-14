@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will Story happen in Update 4?
 https://www.youtube.com/watch?v=_I0dz6Zop0w
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > later or something but yeah story will
 > 
 > not happen in update four

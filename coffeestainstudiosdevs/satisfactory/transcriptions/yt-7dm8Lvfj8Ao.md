@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Can you put in Lights, please?
 https://www.youtube.com/watch?v=7dm8Lvfj8Ao
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > um here's a question uh can you put in
 > 
 > lies please

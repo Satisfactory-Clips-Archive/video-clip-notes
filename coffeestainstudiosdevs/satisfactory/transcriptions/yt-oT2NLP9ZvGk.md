@@ -9,6 +9,13 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)
 https://www.youtube.com/watch?v=oT2NLP9ZvGk
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > yeah um what else i think that's the
 > 
 > that's a big thing because we're still

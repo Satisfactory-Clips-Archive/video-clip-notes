@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Are we waiting for any% speedruns after 1.0?
 https://www.youtube.com/watch?v=hJbxu1oZ0JM
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+
+### Transcript
+
 > i'll be waiting for any percent speed
 > 
 > runs after 1.0 that would be cool

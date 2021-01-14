@@ -9,6 +9,13 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Are 24/7 Servers for the game so important?
 https://www.youtube.com/watch?v=hrwqrs89c4s
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > fingers crossed 24 7 servers for the
 > 
 > game that's so important

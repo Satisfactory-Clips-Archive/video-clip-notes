@@ -8,6 +8,12 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Jace & Snutt Talk: State of Dev
 https://www.youtube.com/watch?v=mBI3bICtLcE
+
+### Topics
+
+
+### Transcript
+
 > yeah um but yeah let's talk about the
 > 
 > the teaser from last week

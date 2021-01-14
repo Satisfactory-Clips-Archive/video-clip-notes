@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Why do you take Gas damage while wearing a Gas Mask while driving a Car?
 https://www.youtube.com/watch?v=HSuHlcSl-y8
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > yeah uh why do you take gas damage while
 > 
 > with the gas mask in a car

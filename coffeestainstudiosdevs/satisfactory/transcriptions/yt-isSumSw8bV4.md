@@ -11,6 +11,15 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Fluid Dynamics + Water, can we get Water Wheels?
 https://www.youtube.com/watch?v=isSumSw8bV4
+
+### Topics
+* [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)
+* [Features > Fluids](../topics/features/fluids.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > yeah your fluid dynamics in water can we
 > 
 > get water wheels

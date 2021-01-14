@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?
 https://www.youtube.com/watch?v=a1eSZz7wksU
+
+### Topics
+
+
+### Transcript
+
 > so yeah i guess yes who is the biggest
 > 
 > josh fans

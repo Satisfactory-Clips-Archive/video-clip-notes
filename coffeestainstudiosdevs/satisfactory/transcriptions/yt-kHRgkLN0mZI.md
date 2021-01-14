@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will there be more cosmetic options for Factory Buildings?
 https://www.youtube.com/watch?v=kHRgkLN0mZI
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > a little bit more cosmetic options for
 > 
 > factory buildings such as construction

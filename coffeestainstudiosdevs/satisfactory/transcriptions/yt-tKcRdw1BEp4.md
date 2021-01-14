@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: How large is the development team?
 https://www.youtube.com/watch?v=tKcRdw1BEp4
+
+### Topics
+
+
+### Transcript
+
 > soon soon how large is the development
 > 
 > team

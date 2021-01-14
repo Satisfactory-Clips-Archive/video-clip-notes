@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any update on Update 8 release date?
 https://www.youtube.com/watch?v=wv1Wugj_4TI
+
+### Topics
+* [Satisfactory Updates > Speculative > Satisfactory Update 8](../topics/satisfactory-updates/speculative/satisfactory-update-8.md)
+
+### Transcript
+
 > any update on update eight release date
 > 
 > yo do you think we'll make his update

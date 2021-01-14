@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Can we have this build?
 https://www.youtube.com/watch?v=w2P1SCx0YqY
+
+### Topics
+* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
+
+### Transcript
+
 > i want this feature right now people
 > 
 > asking if you uh if

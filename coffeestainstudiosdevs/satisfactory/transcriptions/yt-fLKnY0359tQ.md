@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Jace & Snutt Talk: State of Dev
 https://www.youtube.com/watch?v=fLKnY0359tQ
+
+### Topics
+
+
+### Transcript
+
 > it away take it away hell yeah we're not
 > 
 > doing anything right now we

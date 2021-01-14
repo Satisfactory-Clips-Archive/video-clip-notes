@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## State of Dev: Engine Upgrade
 https://www.youtube.com/watch?v=j2kW9a3CTXE
+
+### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+
+### Transcript
+
 > it's a little different in that case uh
 > 
 > someone has also asked about what what

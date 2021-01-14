@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Lizard Doggo plushie when?
 https://www.youtube.com/watch?v=jGiN1SdQOFk
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > i have all the power yeah i want one
 > 
 > binary i want one yeah we're we're

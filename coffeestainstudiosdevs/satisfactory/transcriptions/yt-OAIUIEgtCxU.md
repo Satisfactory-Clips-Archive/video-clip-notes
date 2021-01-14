@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, & Jace Talk: Space Potato
 https://www.youtube.com/watch?v=OAIUIEgtCxU
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > can i can i kill the space potato
 > 
 > i think they can but they have a [ __ ]

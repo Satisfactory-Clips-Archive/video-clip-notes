@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: When is Steam access updated?
 https://www.youtube.com/watch?v=y4vMStiTtT4
+
+### Topics
+
+
+### Transcript
+
 > uh before we go there uh mukvu
 > 
 > asked when is steam access updated and

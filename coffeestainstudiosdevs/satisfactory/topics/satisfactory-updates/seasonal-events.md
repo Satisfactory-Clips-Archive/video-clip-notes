@@ -5,11 +5,11 @@ date: Last Modified
 [Topics](../../topics.md) > Satisfactory Updates > Seasonal Events
 
 # December 15th, 2020 Livestream
-* Q&A: Will the event come back next year? https://www.youtube.com/watch?v=6XovxrktCDA
-* Q&A: Will there be more Seasonal Events? https://www.youtube.com/watch?v=TNrm3qsWdxQ
+* [Q&A: Will the event come back next year?](../../transcriptions/yt-6XovxrktCDA.md) https://www.youtube.com/watch?v=6XovxrktCDA
+* [Q&A: Will there be more Seasonal Events?](../../transcriptions/yt-TNrm3qsWdxQ.md) https://www.youtube.com/watch?v=TNrm3qsWdxQ
 
 # November 10th, 2020 Livestream
-* Q&A: You need to add some Christmas and Halloween stuff https://www.youtube.com/watch?v=ZTHtVU1twTY
+* [Q&A: You need to add some Christmas and Halloween stuff](../../transcriptions/yt-ZTHtVU1twTY.md) https://www.youtube.com/watch?v=ZTHtVU1twTY
 
 # August 25th, 2020 Livestream
 ## Free Wekends

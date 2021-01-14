@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?
 https://www.youtube.com/watch?v=tv1pCGiRtkM
+
+### Topics
+* [Features > Photo Mode](../topics/features/photo-mode.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+
+### Transcript
+
 > any tools to add cinematic tools to the
 > 
 > game like machinima

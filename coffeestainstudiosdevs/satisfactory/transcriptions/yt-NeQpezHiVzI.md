@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we add more to the Map?
 https://www.youtube.com/watch?v=NeQpezHiVzI
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > uh we add more to the map so
 > 
 > the way things are currently is that um

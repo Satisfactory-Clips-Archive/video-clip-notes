@@ -9,6 +9,13 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## State of Dev - Unreal Engine Update
 https://www.youtube.com/watch?v=DNmmfH4tJSA
+
+### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+
+### Transcript
+
 > so yeah so the mug is coming anyway
 > 
 > let's get back to the uh the plans yeah

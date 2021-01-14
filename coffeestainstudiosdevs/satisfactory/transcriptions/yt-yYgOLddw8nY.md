@@ -8,6 +8,12 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: What was with the song?
 https://www.youtube.com/watch?v=yYgOLddw8nY
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > um and i saw a lot of people
 > 
 > also speculating about like what's with

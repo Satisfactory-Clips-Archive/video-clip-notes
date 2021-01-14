@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What item that you can talk about are you most looking forward to?
 https://www.youtube.com/watch?v=utwPssAgiqs
+
+### Topics
+
+
+### Transcript
+
 > key into the game what item
 > 
 > that you can talk about are you most

@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, Jace Talk: Laughing in the office
 https://www.youtube.com/watch?v=X5P9-9npJIQ
+
+### Topics
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+
+### Transcript
+
 > i just realized like a new whole like
 > 
 > meta to it

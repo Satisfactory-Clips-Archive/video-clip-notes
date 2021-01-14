@@ -9,6 +9,13 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Will there be any minor releases between now and Update 4?
 https://www.youtube.com/watch?v=GaVr69FiXw8
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > um were there any any minor releases
 > 
 > between now and update four

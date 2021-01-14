@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Are there physics safety's in place on vehicles?
 https://www.youtube.com/watch?v=SOX83BVfEK8
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > the difference are there physics
 > 
 > safeties in place on vehicles i've been

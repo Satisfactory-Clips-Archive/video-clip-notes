@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Do you guys know what is going to be the last Tier in the game?
 https://www.youtube.com/watch?v=ZOmxbDTRWmg
+
+### Topics
+* [Features > Tiers](../topics/features/tiers.md)
+
+### Transcript
+
 > let me do cables um
 > 
 > do you guys know what's gonna be the

@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Any chance Update 4 unlocks the Work In Progress items?
 https://www.youtube.com/watch?v=Z870GlRbfjk
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > how long any chance update 4 unlocks the
 > 
 > work in progress items

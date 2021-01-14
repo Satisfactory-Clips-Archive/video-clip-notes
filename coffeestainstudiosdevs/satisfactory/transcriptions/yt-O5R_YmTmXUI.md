@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Collect Fart Gas for fuel?
 https://www.youtube.com/watch?v=O5R_YmTmXUI
+
+### Topics
+* [Environment > Resources](../topics/environment/resources.md)
+
+### Transcript
+
 > i'm already out of concrete collect fart
 > 
 > gas for fuel

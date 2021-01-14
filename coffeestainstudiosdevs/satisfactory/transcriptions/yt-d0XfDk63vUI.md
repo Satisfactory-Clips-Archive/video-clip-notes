@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: How does the Industrial Storage decide what comes out the bottom & what comes out the top?
 https://www.youtube.com/watch?v=d0XfDk63vUI
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > um i got a question about how does this
 > 
 > industrial storage container decide what

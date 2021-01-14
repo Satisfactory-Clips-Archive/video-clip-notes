@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any way we can get closed captions for the stream?
 https://www.youtube.com/watch?v=ctOm7N0Wmfw
+
+### Topics
+* [Features > Accessibility](../topics/features/accessibility.md)
+
+### Transcript
+
 > 2021 anyway we can get close captions
 > 
 > for the stream

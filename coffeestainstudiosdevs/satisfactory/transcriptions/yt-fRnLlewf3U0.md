@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: What're your plans for looking at performance issues?
 https://www.youtube.com/watch?v=fRnLlewf3U0
+
+### Topics
+
+
+### Transcript
+
 > uh what are you looking
 > 
 > uh the plans looking for performance

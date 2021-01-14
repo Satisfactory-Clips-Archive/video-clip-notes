@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Update 4 Release Date
 https://www.youtube.com/watch?v=8-vsYNedzEw
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > year what else uh update 4 release date
 > 
 > is something that people generally going

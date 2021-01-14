@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Snutt & Jace Talk: Geese
 https://www.youtube.com/watch?v=dYWkEEqj_qc
+
+### Topics
+
+
+### Transcript
+
 > i'm not sure who it is though ducks
 > 
 > don't have teeth wait they do right on

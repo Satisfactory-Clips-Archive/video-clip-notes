@@ -9,6 +9,13 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Can we go over the Freight Train fix in a little detail?
 https://www.youtube.com/watch?v=7vpbefcvoYI
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > can we go over the front train fixed in
 > 
 > a little more detail

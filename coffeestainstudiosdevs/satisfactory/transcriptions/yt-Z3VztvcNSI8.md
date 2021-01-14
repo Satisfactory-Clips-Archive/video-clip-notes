@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Snutt & Jace Talk: Dedicated Servers
 https://www.youtube.com/watch?v=Z3VztvcNSI8
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > are we back okay so uh we're at the q a
 > 
 > section

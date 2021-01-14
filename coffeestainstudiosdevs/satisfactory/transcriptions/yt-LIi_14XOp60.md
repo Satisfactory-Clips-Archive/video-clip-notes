@@ -9,6 +9,13 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Any thoughts on Terraforming, specifically tunneling ?
 https://www.youtube.com/watch?v=LIi_14XOp60
+
+### Topics
+* [Features > Unplanned Features > Terraforming](../topics/features/unplanned-features/terraforming.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > [Music]
 > 
 > any thoughts in terraforming uh

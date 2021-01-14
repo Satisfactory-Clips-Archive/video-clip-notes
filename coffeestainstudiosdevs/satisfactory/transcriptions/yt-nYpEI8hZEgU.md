@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt Talk: Emmissive Materials
 https://www.youtube.com/watch?v=nYpEI8hZEgU
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > uh
 > 
 > asex says i read up the image uh the

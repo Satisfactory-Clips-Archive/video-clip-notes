@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Can you change the angle of the new jump pad after you build it?
 https://www.youtube.com/watch?v=UJJgwCUqVWs
+
+### Topics
+* [Features > Buildables > Jump Pads](../topics/features/buildables/jump-pads.md)
+
+### Transcript
+
 > let's see here can you change the angle
 > 
 > of the new jump pad after building it or

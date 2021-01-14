@@ -9,6 +9,13 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will the Packager input/output orientation be changed before it goes to Early Access?
 https://www.youtube.com/watch?v=Pjj0oalwYj0
+
+### Topics
+* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > will the packager input output
 > 
 > orientation be changed before it goes to

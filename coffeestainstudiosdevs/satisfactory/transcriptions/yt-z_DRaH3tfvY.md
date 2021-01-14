@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Do you think this game would be suited for VR?
 https://www.youtube.com/watch?v=z_DRaH3tfvY
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > uh do you think this game would be
 > 
 > suited for vr

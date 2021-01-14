@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What is the Goal of this game?
 https://www.youtube.com/watch?v=fKNLebIdNpY
+
+### Topics
+
+
+### Transcript
+
 > what is the goal of this game the final
 > 
 > goal isn't in yet but there's still like

@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Jace Talk: Update 4 release schedule
 https://www.youtube.com/watch?v=e7ASTpTbibg
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > oh yeah by the way with update 4 uh we
 > 
 > haven't really talked about it so we

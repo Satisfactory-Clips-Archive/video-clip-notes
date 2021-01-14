@@ -11,6 +11,15 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## State of Dev - The Blender™
 https://www.youtube.com/watch?v=XBt0OWqSRPA
+
+### Topics
+* [Features > Buildings > Blender](../topics/features/buildings/blender.md)
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > some cool stuff all right um
 > 
 > let's move on in the agenda the thing

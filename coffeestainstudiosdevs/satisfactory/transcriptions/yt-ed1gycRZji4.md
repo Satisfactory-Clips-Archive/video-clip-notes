@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Satisfactory on next-gen Consoles?
 https://www.youtube.com/watch?v=ed1gycRZji4
+
+### Topics
+* [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)
+
+### Transcript
+
 > that deeply yet he just confirmed
 > 
 > satisfactory next-gen consoles no

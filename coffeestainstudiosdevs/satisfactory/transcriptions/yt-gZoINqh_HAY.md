@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Can you give us a hint about the Story of the game?
 https://www.youtube.com/watch?v=gZoINqh_HAY
+
+### Topics
+
+
+### Transcript
+
 > uh i was about to read someone square oh
 > 
 > yeah can you give us a hint about the

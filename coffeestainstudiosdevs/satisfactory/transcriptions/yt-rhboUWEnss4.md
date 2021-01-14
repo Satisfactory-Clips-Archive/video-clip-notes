@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Change for Electricity when? (substations)
 https://www.youtube.com/watch?v=rhboUWEnss4
+
+### Topics
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > change for electricity when
 > 
 > um there's some stations i think there's

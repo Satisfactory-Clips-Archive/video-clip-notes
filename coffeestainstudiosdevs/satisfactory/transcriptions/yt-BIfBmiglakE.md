@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Snutt Talk: SignpostMarv clips up all the Questions & Answers
 https://www.youtube.com/watch?v=BIfBmiglakE
+
+### Topics
+
+
+### Transcript
+
 > vote uh we already answered so what is
 > 
 > there

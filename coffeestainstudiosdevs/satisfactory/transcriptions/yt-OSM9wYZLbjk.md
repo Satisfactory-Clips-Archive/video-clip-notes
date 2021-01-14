@@ -9,6 +9,13 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Is this (Fluid Updates) coming in Update 4?
 https://www.youtube.com/watch?v=OSM9wYZLbjk
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > yeah some folks asking is this coming in
 > 
 > update four no it's coming in the update

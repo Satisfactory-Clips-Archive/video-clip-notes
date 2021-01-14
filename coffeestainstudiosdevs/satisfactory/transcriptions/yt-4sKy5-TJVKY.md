@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Can we get Circular Foundations?
 https://www.youtube.com/watch?v=4sKy5-TJVKY
+
+### Topics
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+
+### Transcript
+
 > stream yep i mean we have circular
 > 
 > foundations

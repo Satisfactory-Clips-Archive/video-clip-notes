@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: How about lighting?
 https://www.youtube.com/watch?v=WDfN-WpIJXY
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > how about lighting lighting's gonna
 > 
 > happen at some point

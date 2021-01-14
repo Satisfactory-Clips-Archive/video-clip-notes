@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Tier 9, 10, 11, 12?
 https://www.youtube.com/watch?v=NU1DLvv4zb0
+
+### Topics
+* [Features > Tiers](../topics/features/tiers.md)
+
+### Transcript
+
 > yes tier 9 10 11
 > 
 > 12 tier 9 has been confirmed has it

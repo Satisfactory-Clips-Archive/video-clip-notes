@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: What about the Merch?
 https://www.youtube.com/watch?v=jQyDj_wa0LA
+
+### Topics
+
+
+### Transcript
+
 > [Music]
 > 
 > oh here's a good question what about the

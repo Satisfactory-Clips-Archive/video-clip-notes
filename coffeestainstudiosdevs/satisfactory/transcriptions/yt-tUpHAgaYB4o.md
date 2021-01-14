@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Cat Companion instead of Doggo?
 https://www.youtube.com/watch?v=tUpHAgaYB4o
+
+### Topics
+
+
+### Transcript
+
 > like hmm cat companion instead of doggo
 > 
 > no get out bend you're working on thin

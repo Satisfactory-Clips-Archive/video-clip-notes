@@ -10,6 +10,14 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: What about Mk. 6 Belts?
 https://www.youtube.com/watch?v=NiBLAUCxIEs
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > website they can't plan for it so to
 > 
 > speak what about mk6

@@ -10,6 +10,14 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will there be a Map Editor?
 https://www.youtube.com/watch?v=MYno60AbSGk
+
+### Topics
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Mods](../topics/mods.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > i think that would be really cool uh
 > 
 > will there be a map editor or something

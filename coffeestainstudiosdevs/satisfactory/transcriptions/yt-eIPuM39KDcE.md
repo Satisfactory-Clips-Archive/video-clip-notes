@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will there be a creative mode?
 https://www.youtube.com/watch?v=eIPuM39KDcE
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+
+### Transcript
+
 > work scan the slowdown
 > 
 > will there be a creative mode i pretty

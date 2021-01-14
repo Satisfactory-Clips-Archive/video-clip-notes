@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Jace & Snutt Talk: Dev Streams
 https://www.youtube.com/watch?v=9VKK9Cbsq7g
+
+### Topics
+
+
+### Transcript
+
 > um what was i gonna say
 > 
 > yeah so on friday hopefully uh maybe uh

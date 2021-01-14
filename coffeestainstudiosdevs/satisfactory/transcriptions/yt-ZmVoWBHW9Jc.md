@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is it possible to kill a Spitter with the standard Zapper?
 https://www.youtube.com/watch?v=ZmVoWBHW9Jc
+
+### Topics
+* [Features > Equipment](../topics/features/equipment.md)
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > [Music]
 > 
 > is it possible to kill a spit the

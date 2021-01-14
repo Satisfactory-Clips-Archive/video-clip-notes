@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will there be a way to auto-feed Biomass into the generators?
 https://www.youtube.com/watch?v=5eQ3I4vmbZA
+
+### Topics
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > least will there be a way to auto feed
 > 
 > biomass into the generators i don't

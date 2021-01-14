@@ -5,26 +5,26 @@ date: Last Modified
 [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
 # January 12th, 2021 Livestream
-* Q&A: Can we get a Console Release for the KFConsole? https://www.youtube.com/watch?v=P7R2hxi19pM
+* [Q&A: Can we get a Console Release for the KFConsole?](../../../transcriptions/yt-P7R2hxi19pM.md) https://www.youtube.com/watch?v=P7R2hxi19pM
 
 # November 24th, 2020 Livestream
-* Q&A: When is Satisfactory coming to Switch? https://www.youtube.com/watch?v=tBDXG3OHt1c
-* Q&A: Is Console confirmed for Satisfactory? https://www.youtube.com/watch?v=KEJYlYO511Q
-* Q&A: When is Satisfactory coming to N-Gage? https://www.youtube.com/watch?v=qL6dp9eUB58
+* [Q&A: When is Satisfactory coming to Switch?](../../../transcriptions/yt-tBDXG3OHt1c.md) https://www.youtube.com/watch?v=tBDXG3OHt1c
+* [Q&A: Is Console confirmed for Satisfactory?](../../../transcriptions/yt-KEJYlYO511Q.md) https://www.youtube.com/watch?v=KEJYlYO511Q
+* [Q&A: When is Satisfactory coming to N-Gage?](../../../transcriptions/yt-qL6dp9eUB58.md) https://www.youtube.com/watch?v=qL6dp9eUB58
 
 # November 17th, 2020 Livestream
-* Trolling: Console Support https://www.youtube.com/watch?v=OMFvjE8llfs
-* Q&A: Is Console support coming? https://www.youtube.com/watch?v=tqB7YuLM2Fs
+* [Trolling: Console Support](../../../transcriptions/yt-OMFvjE8llfs.md) https://www.youtube.com/watch?v=OMFvjE8llfs
+* [Q&A: Is Console support coming?](../../../transcriptions/yt-tqB7YuLM2Fs.md) https://www.youtube.com/watch?v=tqB7YuLM2Fs
 
 # September 8th, 2020 Livestream
-* Q&A: Will this game come out on Console at some point? https://www.youtube.com/watch?v=pfD6p4g3fQ8
+* [Q&A: Will this game come out on Console at some point?](../../../transcriptions/yt-pfD6p4g3fQ8.md) https://www.youtube.com/watch?v=pfD6p4g3fQ8
 
 # September 1st, 2020 Livestream
-* Q&A: Satisfactory on next-gen Consoles? https://www.youtube.com/watch?v=ed1gycRZji4
+* [Q&A: Satisfactory on next-gen Consoles?](../../../transcriptions/yt-ed1gycRZji4.md) https://www.youtube.com/watch?v=ed1gycRZji4
 
 # March 9th, 2019 Livestream
-* Q&A: Any scope of the game being on consoles? https://www.youtube.com/watch?v=bsTq_WiSeCY
-* Q&A: Will you create Console version of Satisfactory? https://www.youtube.com/watch?v=_MGUbEI247M
+* [Q&A: Any scope of the game being on consoles?](../../../transcriptions/yt-bsTq_WiSeCY.md) https://www.youtube.com/watch?v=bsTq_WiSeCY
+* [Q&A: Will you create Console version of Satisfactory?](../../../transcriptions/yt-_MGUbEI247M.md) https://www.youtube.com/watch?v=_MGUbEI247M
 
 # August 18th, 2020 Livestream
 * Q&A: Are there any plans to port the game to console? https://clips.twitch.tv/CogentRichJackalHeyGirl

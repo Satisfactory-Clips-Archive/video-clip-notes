@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Ladders Mk.2?
 https://www.youtube.com/watch?v=XCPztcDtneI
+
+### Topics
+* [Features > Buildables > Ladders](../topics/features/buildables/ladders.md)
+
+### Transcript
+
 > ladders mark two if you want mark two
 > 
 > letters

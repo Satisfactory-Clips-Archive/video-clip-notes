@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: What's the reason for not having good in-production overview?
 https://www.youtube.com/watch?v=66gt7CjmdXs
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > uh what's the reason for not having
 > 
 > getting production overview

@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Jace Talk: Air Transportation
 https://www.youtube.com/watch?v=hKQlthlcwXc
+
+### Topics
+* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
+
+### Transcript
+
 > wait
 uhh
 > 

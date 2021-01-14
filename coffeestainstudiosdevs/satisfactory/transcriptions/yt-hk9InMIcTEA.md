@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: What things are currently in Update 4?
 https://www.youtube.com/watch?v=hk9InMIcTEA
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > what things are coming in update four
 > 
 > that is currently a secret

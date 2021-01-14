@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Dedicated Servers don't need to wait for an Update?
 https://www.youtube.com/watch?v=BRvjOB3hRaE
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > uh dedicated servers don't need to wait
 > 
 > for an update that's correct

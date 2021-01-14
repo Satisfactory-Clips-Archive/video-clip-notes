@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Jace & Snutt Talk: Early Access Games
 https://www.youtube.com/watch?v=4AWVapDrLQI
+
+### Topics
+
+
+### Transcript
+
 > [ __ ] uh having already been successful
 > 
 > in both epic and steam early access

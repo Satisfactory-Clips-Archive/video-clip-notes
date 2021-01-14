@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Snutt Talk: Known Bug re: "Reliable Overflow Buffer"
 https://www.youtube.com/watch?v=Arc8UO1Ne7M
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > all the answers that we have uh one
 > 
 > quick thing i just want to address real

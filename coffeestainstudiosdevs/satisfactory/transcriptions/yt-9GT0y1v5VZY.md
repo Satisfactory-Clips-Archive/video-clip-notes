@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: What is the object limit and will it be increased in the future?
 https://www.youtube.com/watch?v=9GT0y1v5VZY
+
+### Topics
+
+
+### Transcript
+
 > um what is the object limit and will it
 > 
 > be increased in the future so the object

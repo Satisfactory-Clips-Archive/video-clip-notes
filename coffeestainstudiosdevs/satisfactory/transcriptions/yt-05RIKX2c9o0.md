@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Plans for small Hub storage container?
 https://www.youtube.com/watch?v=05RIKX2c9o0
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > oh plans for small
 > 
 > hub storage container uh you mean the

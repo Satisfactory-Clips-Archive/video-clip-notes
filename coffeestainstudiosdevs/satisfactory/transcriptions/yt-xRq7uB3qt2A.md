@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Snutt Talk: State of Dev summary (again)
 https://www.youtube.com/watch?v=xRq7uB3qt2A
+
+### Topics
+
+
+### Transcript
+
 > quick tvr of the state of dev i just did
 > 
 > i just did

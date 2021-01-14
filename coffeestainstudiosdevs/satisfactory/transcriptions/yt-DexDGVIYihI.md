@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Idea - Smart & Programmable Storage Containers?
 https://www.youtube.com/watch?v=DexDGVIYihI
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > idea smart and programmable storage
 > 
 > containers

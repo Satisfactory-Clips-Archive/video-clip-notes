@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Dirt Bikes?
 https://www.youtube.com/watch?v=75OR9Co9l74
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > yeah we have kevin we already got him
 > 
 > dirt bikes uh

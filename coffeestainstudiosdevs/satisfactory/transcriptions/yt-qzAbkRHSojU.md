@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will the Pipeline Junction be stackable?
 https://www.youtube.com/watch?v=qzAbkRHSojU
+
+### Topics
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+
+### Transcript
+
 > thing um will the pipeline junction be
 > 
 > stackable like split emergers

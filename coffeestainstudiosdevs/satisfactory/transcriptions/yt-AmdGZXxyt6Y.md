@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Jace Talk: Natalie
 https://www.youtube.com/watch?v=AmdGZXxyt6Y
+
+### Topics
+* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > yeah i think i think all the ui game
 > 
 > mechanics aren't like

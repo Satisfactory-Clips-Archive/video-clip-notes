@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Snutt & Jace Talk: Unreal Engine Object Limit
 https://www.youtube.com/watch?v=bk2ojhuil-g
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > i haven't seen that though yeah so the
 > 
 > only question i have uh i placed one 500

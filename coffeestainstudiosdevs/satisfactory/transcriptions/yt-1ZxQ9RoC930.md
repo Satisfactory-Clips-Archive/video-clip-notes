@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Jace Talk: Petting the Lizard Doggo
 https://www.youtube.com/watch?v=1ZxQ9RoC930
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > should we head back to town another
 > 
 > lizard

@@ -9,6 +9,13 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Can we get an update on Walls?
 https://www.youtube.com/watch?v=ZpYMIZFGegw
+
+### Topics
+* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > yeah will there be an update of walls
 > 
 > for some half walls so function like

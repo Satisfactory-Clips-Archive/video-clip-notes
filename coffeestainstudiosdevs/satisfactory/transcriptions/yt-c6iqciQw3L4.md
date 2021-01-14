@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: What if Modders will optimise your game more than you?
 https://www.youtube.com/watch?v=c6iqciQw3L4
+
+### Topics
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+
+### Transcript
+
 > uh what if modders will optimize your
 > 
 > game

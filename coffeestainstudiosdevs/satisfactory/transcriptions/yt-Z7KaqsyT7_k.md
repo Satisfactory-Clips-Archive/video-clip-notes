@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Flushable Toilet DLC?
 https://www.youtube.com/watch?v=Z7KaqsyT7_k
+
+### Topics
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+
+### Transcript
+
 > uh flushable toilet dlc yes that is that
 > 
 > that that we can confirm straight away

@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Multi-GPU Support?
 https://www.youtube.com/watch?v=Q19sqmdRQAM
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > multi-gpu support uh
 > 
 > that's a tricky one i don't know what we

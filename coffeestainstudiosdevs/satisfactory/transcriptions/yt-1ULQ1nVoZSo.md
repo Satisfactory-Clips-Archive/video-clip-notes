@@ -9,6 +9,13 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Snutt Talk: Power Cables
 https://www.youtube.com/watch?v=1ULQ1nVoZSo
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > all right but like the thing that i
 > 
 > really i'm most hyped for is the fact

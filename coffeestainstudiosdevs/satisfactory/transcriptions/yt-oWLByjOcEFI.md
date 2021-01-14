@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Jace Talk: Mods
 https://www.youtube.com/watch?v=oWLByjOcEFI
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > but there are mods uh as as for the mods
 > 
 > by the way guys like

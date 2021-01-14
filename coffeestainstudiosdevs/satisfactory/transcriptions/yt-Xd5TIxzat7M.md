@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Jace Talk: VR for Satisfactory
 https://www.youtube.com/watch?v=Xd5TIxzat7M
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > subjects please explain to the people
 > 
 > asking that vr is impossible

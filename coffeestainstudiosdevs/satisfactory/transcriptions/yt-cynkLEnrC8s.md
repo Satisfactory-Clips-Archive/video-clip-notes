@@ -10,6 +10,14 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can we theoretically make a Mod that reduces Constructor Object numbers?
 https://www.youtube.com/watch?v=cynkLEnrC8s
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > can we theoretically make a mod that
 > 
 > reduces constructors

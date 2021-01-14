@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: When you showcase removed stuff can you speak a little bit about why it was removed?
 https://www.youtube.com/watch?v=cHAsOhYP_0c
+
+### Topics
+* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
+
+### Transcript
+
 > is a fresh fresh game here when you
 > 
 > showcase or move stuff can you speak a

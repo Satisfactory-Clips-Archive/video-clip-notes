@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Why is there a Coffee Cup in the HUB called "BRY"?
 https://www.youtube.com/watch?v=cIuO0sScXGg
+
+### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+
+### Transcript
+
 > why is there a coffee cup in the hub
 > 
 > called bry

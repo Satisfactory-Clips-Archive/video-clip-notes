@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Snutt Talk: What will be in the next Update ?
 https://www.youtube.com/watch?v=EILrefwr83k
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > the i don't know
 > 
 > but my what i think was said was that

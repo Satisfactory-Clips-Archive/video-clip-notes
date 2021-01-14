@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: When are you going to add orcs to the game?
 https://www.youtube.com/watch?v=S43FE8W6Feo
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > [ __ ] ton is there but when you're gonna
 > 
 > add

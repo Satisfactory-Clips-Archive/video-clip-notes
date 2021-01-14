@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are there plans to have an item filter device for Conveyor Belts?
 https://www.youtube.com/watch?v=qzDz2348s1Y
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+
+### Transcript
+
 > yes
 > 
 > are there plans to have an item filter

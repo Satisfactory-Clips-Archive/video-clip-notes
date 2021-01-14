@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can dismantle mode have an ignore function maybe?
 https://www.youtube.com/watch?v=0KLJ2_1P_uk
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > could this mental mode have an ignore
 > 
 > function maybe

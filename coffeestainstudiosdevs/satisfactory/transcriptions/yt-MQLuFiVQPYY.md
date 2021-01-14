@@ -9,6 +9,13 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Could it be released to the Modding Community to polish and release it as a Mod?
 https://www.youtube.com/watch?v=MQLuFiVQPYY
+
+### Topics
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+
+### Transcript
+
 > could it be released to the mona
 > 
 > community to polish and release it as

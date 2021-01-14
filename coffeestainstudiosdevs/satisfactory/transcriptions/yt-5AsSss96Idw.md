@@ -9,6 +9,13 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will the Map change for 1.0?
 https://www.youtube.com/watch?v=5AsSss96Idw
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > will the map change for 1.0 i think it
 > 
 > will evolve

@@ -9,6 +9,13 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Any improvement for the Trucks so they can transport Fluids?
 https://www.youtube.com/watch?v=lNpwyJr7lZc
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > mel that's really nice oh nice yeah uh
 > 
 > any improvement for the trucks uh as if

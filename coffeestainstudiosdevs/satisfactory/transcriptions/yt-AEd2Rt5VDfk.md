@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are you going to add the ability to raise/lower parts of the landscape?
 https://www.youtube.com/watch?v=AEd2Rt5VDfk
+
+### Topics
+* [Features > Unplanned Features > Terraforming](../topics/features/unplanned-features/terraforming.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > [Music]
 > 
 > are you going to add the ability to

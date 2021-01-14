@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can you add Road Foundations?
 https://www.youtube.com/watch?v=ay4pgtU2Q8g
+
+### Topics
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+
+### Transcript
+
 > can you add
 > 
 > road foundations we've actually had road

@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Elevator for Vehicles & Players?
 https://www.youtube.com/watch?v=v_KEYdpCb-k
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > burger oh i think what elevator for
 > 
 > vehicles and players

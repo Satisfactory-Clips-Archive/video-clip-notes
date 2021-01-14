@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Why are we only Female in the game and no Male options?
 https://www.youtube.com/watch?v=njr4NS88fBc
+
+### Topics
+
+
+### Transcript
+
 > yep why are we only females in the game
 > 
 > and not male options because that's just

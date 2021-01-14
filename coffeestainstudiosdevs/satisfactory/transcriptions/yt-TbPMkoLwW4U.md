@@ -10,6 +10,14 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Will we see performance improvements?
 https://www.youtube.com/watch?v=TbPMkoLwW4U
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > uh anyway will we see performance
 > 
 > improvements most likely pretty sure

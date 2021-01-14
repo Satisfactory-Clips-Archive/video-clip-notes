@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: I'm not asking for a change, but why Beacons to craft Bullets?
 https://www.youtube.com/watch?v=Gttu7r1NCLk
+
+### Topics
+* [Features > Crafting](../topics/features/crafting.md)
+
+### Transcript
+
 > [Music]
 > 
 > i'm not changing asking for a change but

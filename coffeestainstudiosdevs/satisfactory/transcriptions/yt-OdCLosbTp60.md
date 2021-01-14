@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Train Collision
 https://www.youtube.com/watch?v=OdCLosbTp60
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+
+### Transcript
+
 > i don't think we'll do them justice
 > 
 > train collision i don't think that's

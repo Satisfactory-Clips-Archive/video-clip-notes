@@ -9,6 +9,13 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?
 https://www.youtube.com/watch?v=RyE_hc4huhA
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > have you thought about implementing
 > 
 > oh jumped

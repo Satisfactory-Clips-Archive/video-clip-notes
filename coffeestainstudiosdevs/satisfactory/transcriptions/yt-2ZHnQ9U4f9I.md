@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Map expansion ?
 https://www.youtube.com/watch?v=2ZHnQ9U4f9I
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > map expansion yeah maybe we'll do
 > 
 > something like that i don't know or

@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Can we have a natural healing area in the Hub?
 https://www.youtube.com/watch?v=yhi19PhUzkE
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > out of that stream can we have a natural
 > 
 > healing area in the hub

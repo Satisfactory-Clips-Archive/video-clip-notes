@@ -9,6 +9,13 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil?
 https://www.youtube.com/watch?v=DYy7NpZ7qYA
+
+### Topics
+* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > why is it a trade off with nuclear power
 > 
 > but none with coal oil

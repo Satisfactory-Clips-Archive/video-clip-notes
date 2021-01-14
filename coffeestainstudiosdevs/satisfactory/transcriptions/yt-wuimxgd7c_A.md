@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can you imagine bringing something decoration foundations to factories?
 https://www.youtube.com/watch?v=wuimxgd7c_A
+
+### Topics
+* [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
+
+### Transcript
+
 > can you imagine bringing something like
 > 
 > decoration foundations etc

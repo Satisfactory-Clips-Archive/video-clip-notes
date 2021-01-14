@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is there any plans for Steam?
 https://www.youtube.com/watch?v=Q2pyvicFkxA
+
+### Topics
+
+
+### Transcript
+
 > uh that was another question someone
 > 
 > said someone else something about is

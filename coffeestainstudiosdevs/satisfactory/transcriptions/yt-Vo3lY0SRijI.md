@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Snutt & Jace Talk: More. More. More. More. More. More. More. More. More. More. More. More. More.
 https://www.youtube.com/watch?v=Vo3lY0SRijI
+
+### Topics
+
+
+### Transcript
+
 > my dad i couldn't find the [ __ ]
 > 
 > picture of hannah as the pioneer on

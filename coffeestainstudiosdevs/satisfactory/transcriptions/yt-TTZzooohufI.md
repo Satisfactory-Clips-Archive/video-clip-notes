@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Any way to disable motion blur?
 https://www.youtube.com/watch?v=TTZzooohufI
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > don't really know right now any way to
 > 
 > disable motion blur

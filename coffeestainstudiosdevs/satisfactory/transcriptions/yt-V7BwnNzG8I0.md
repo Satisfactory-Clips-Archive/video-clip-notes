@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: I don't understand the autopilot for the Tractor?
 https://www.youtube.com/watch?v=V7BwnNzG8I0
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > i don't understand the autopilot for the
 > 
 > tractor

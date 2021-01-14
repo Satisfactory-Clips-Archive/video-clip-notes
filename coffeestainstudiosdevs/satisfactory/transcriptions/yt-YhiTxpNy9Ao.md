@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Merch - The Cup
 https://www.youtube.com/watch?v=YhiTxpNy9Ao
+
+### Topics
+
+
+### Transcript
+
 > probably gonna wait uh i need the coffee
 > 
 > mug like i

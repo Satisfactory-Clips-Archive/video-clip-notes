@@ -9,6 +9,13 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: What's happening with S.A.M. Ore?
 https://www.youtube.com/watch?v=f0Z9VIAK5Iw
+
+### Topics
+* [Environment > Resources](../topics/environment/resources.md)
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+
+### Transcript
+
 > years old okay more questions so what's
 > 
 > happening with sam moore that's gonna

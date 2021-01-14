@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When can Poison Pillars be removed?
 https://www.youtube.com/watch?v=BRpEHi7W7u0
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > when can poison pillars be removed i
 > 
 > don't know what the plan is

@@ -10,6 +10,14 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt Talk: We're assholes.
 https://www.youtube.com/watch?v=2tTlAAZMBPw
+
+### Topics
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+
+### Transcript
+
 > [Music]
 > 
 > yeah yeah

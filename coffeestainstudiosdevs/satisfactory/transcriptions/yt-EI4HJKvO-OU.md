@@ -10,6 +10,14 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Pollution is a thing?
 https://www.youtube.com/watch?v=EI4HJKvO-OU
+
+### Topics
+* [Environment > Pollution](../topics/environment/pollution.md)
+* [Features > Buildings](../topics/features/buildings.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > cool very cool pollution is a thing no
 > 
 > it's a thing that we planned in the

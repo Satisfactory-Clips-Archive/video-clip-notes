@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Controller support?
 https://www.youtube.com/watch?v=XrsD3h62ils
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > um it was a question controller support
 > 
 > we always had control support in mind

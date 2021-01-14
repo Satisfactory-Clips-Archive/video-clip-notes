@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Any chance of larger Foundations?
 https://www.youtube.com/watch?v=I5HR5ocUX9o
+
+### Topics
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > [Music]
 > 
 > can it show some larger foundations uh

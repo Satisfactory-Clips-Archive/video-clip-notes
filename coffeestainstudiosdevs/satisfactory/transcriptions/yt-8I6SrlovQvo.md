@@ -9,6 +9,13 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: When you have 200,000 Foundations, Walls would be good too.
 https://www.youtube.com/watch?v=8I6SrlovQvo
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > um when you have 200 000 foundation
 > 
 > also be good too yeah

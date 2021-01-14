@@ -9,6 +9,13 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Snutt Talk: Biomass / Biofuel / Handcrafting
 https://www.youtube.com/watch?v=QPgQXdWXoj4
+
+### Topics
+* [Features > Equipment > Chainsaw](../topics/features/equipment/chainsaw.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > okay because here i
 > 
 > am everything i can

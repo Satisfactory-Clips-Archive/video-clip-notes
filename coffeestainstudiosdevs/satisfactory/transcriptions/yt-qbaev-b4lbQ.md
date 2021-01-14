@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: How can I help with translation- the Spanish one looks like Google Translator?
 https://www.youtube.com/watch?v=qbaev-b4lbQ
+
+### Topics
+
+
+### Transcript
+
 > super crucial how can i help with
 > 
 > translation the spanish one looks like

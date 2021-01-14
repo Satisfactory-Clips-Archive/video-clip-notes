@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Is the Engineer human at least?
 https://www.youtube.com/watch?v=z7QqNzK8OMU
+
+### Topics
+
+
+### Transcript
+
 > is the engineer human at least oh i
 > 
 > don't know is

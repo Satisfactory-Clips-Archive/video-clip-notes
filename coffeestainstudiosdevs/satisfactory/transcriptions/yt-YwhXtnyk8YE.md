@@ -10,6 +10,14 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.
 https://www.youtube.com/watch?v=YwhXtnyk8YE
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Environment > Resources](../topics/environment/resources.md)
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > open weekend now at least why is
 > 
 > coleslaw rare it's almost impossible to

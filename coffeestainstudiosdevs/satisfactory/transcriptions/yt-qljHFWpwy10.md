@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Would it be great to farm resources and trade with other planets?
 https://www.youtube.com/watch?v=qljHFWpwy10
+
+### Topics
+
+
+### Transcript
+
 > uh okay would it be great
 > 
 > farm resources even so far i've tried to

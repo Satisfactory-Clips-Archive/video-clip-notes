@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any plans on Weather cycles?
 https://www.youtube.com/watch?v=-QpGRQcZfe0
+
+### Topics
+* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+
+### Transcript
+
 > oh my god it's good any plans on weather
 > 
 > cycles

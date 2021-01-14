@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Procedural Generation?
 https://www.youtube.com/watch?v=lcZJKlvLZuo
+
+### Topics
+* [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
+
+### Transcript
+
 > procedural generation?
 > 
 > most likely not.

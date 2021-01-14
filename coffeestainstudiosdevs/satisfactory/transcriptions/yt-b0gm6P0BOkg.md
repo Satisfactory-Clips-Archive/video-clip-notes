@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Mk.2 Trains?
 https://www.youtube.com/watch?v=b0gm6P0BOkg
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+
+### Transcript
+
 > mk2 trains maybe after we're done with
 > 
 > mk1 trains

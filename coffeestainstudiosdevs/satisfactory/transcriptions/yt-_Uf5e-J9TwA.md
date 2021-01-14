@@ -9,6 +9,13 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Can we add Solar Power?
 https://www.youtube.com/watch?v=_Uf5e-J9TwA
+
+### Topics
+* [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > um can we add solar power
 > 
 > the topic of like green energy is

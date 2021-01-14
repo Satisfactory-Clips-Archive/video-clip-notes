@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: How do you determine how much a part of the game is influencing Multiplayer?
 https://www.youtube.com/watch?v=gs7ny6y2Hco
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > is no
 > 
 > um how do you determine how much

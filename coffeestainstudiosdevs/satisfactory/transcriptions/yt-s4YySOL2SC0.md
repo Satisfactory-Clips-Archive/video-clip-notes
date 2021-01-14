@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: What about Discord implementation for that Discord Rich Presence?
 https://www.youtube.com/watch?v=s4YySOL2SC0
+
+### Topics
+* [Features > Possible Features > Third-Party Service Integration](../topics/features/possible-features/third-party-service-integration.md)
+
+### Transcript
+
 > uh what about discord implementation
 > 
 > that discord rich presence that's

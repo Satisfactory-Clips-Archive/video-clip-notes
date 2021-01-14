@@ -11,6 +11,15 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Is it only packaging or does it unpack as well?
 https://www.youtube.com/watch?v=usWp2cMLGwE
+
+### Topics
+* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Features > Fluids](../topics/features/fluids.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > uh is it only packaging or does it
 > 
 > unpack as well

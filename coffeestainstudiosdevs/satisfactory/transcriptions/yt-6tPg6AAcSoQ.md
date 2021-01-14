@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: If you have time to play, what games do you play?
 https://www.youtube.com/watch?v=6tPg6AAcSoQ
+
+### Topics
+
+
+### Transcript
+
 > if you have time to play what games do
 > 
 > you guys play uh right now

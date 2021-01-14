@@ -10,6 +10,14 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?
 https://www.youtube.com/watch?v=IFxnvuYEVtk
+
+### Topics
+* [Environment > Plants](../topics/environment/plants.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > that's how it starts destroy all the
 > 
 > followers in the game biomes increase

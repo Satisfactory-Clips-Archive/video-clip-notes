@@ -9,6 +9,13 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: What was the Mystery Machine?
 https://www.youtube.com/watch?v=dh0tcSlSjNE
+
+### Topics
+* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > it should it has to be out there uh
 > 
 > sorry if this was addressed but what was

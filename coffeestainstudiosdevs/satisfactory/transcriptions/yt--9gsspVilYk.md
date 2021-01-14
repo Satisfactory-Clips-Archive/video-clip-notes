@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Lights
 https://www.youtube.com/watch?v=-9gsspVilYk
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > it doesn't count um
 > 
 > let's see

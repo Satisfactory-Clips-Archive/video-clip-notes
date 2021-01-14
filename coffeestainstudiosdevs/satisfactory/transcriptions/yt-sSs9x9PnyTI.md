@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Didn't you guys confirm a new vehicle?
 https://www.youtube.com/watch?v=sSs9x9PnyTI
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > uh didn't you guys confirm another
 > 
 > vehicle 27 while ago i don't remember

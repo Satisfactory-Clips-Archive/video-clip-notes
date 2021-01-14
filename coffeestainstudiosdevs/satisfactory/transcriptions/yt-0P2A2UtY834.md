@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Jace Talk: Space Elevator
 https://www.youtube.com/watch?v=0P2A2UtY834
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > great actually so you didn't jerk around
 > 
 > with the space celebrity

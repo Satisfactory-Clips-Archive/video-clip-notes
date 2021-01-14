@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Any hints you can give on the level of mod support you'll provide eventually?
 https://www.youtube.com/watch?v=o7FFLZpEf_Y
+
+### Topics
+* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
+
+### Transcript
+
 > we go and then i need to build any info
 > 
 > you can give on the level of mod support

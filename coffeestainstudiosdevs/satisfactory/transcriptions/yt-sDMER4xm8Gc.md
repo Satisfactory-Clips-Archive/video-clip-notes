@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## State of Dev: Mug Merch
 https://www.youtube.com/watch?v=sDMER4xm8Gc
+
+### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+
+### Transcript
+
 > one thing i'll talk about because some
 > 
 > we didn't talk about this but some

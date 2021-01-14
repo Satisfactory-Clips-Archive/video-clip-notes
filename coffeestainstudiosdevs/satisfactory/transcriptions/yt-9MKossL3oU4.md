@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Will the Scanner be fixed so it doesn't show already-picked items?
 https://www.youtube.com/watch?v=9MKossL3oU4
+
+### Topics
+
+
+### Transcript
+
 > oh yeah will the scanner be fixed so it
 > 
 > doesn't show already picked items

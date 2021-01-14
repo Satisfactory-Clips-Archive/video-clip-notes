@@ -10,6 +10,14 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: I'd take 30mw for the Packager if I could take 3x speed than the Refineries?
 https://www.youtube.com/watch?v=cYJQS0bzr1o
+
+### Topics
+* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > oh for [ __ ] sake i'd take 30 megawatts
 > 
 > for the packager if i could do

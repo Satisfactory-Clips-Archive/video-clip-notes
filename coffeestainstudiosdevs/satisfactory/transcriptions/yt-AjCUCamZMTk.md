@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Does Coffee Stain "matrix" it's people across different games?
 https://www.youtube.com/watch?v=AjCUCamZMTk
+
+### Topics
+
+
+### Transcript
+
 > um yeah i'll do one more real quick it's
 > 
 > just there i just saw it so does uh

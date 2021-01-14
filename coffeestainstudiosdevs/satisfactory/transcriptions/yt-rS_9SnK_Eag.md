@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Dedicated Servers
 https://www.youtube.com/watch?v=rS_9SnK_Eag
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > lights oh dedicated servers that's a
 > 
 > good one people want us to finally

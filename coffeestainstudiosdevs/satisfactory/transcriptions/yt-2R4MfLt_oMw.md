@@ -10,6 +10,14 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Would implementing covered belts reduce the number of objects in the world?
 https://www.youtube.com/watch?v=2R4MfLt_oMw
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > let's keep it that way uh we're
 > 
 > implementing

@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: What does Network Quality selector in Options do?
 https://www.youtube.com/watch?v=u3Y3HsXyatM
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > um here's one for you snit
 > 
 > which one what does net what does

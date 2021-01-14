@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt Talk: To-Do List
 https://www.youtube.com/watch?v=e-no7l9HuqE
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > on the way home i haven't seen a lot of
 > 
 > people do this thing uh so like if you

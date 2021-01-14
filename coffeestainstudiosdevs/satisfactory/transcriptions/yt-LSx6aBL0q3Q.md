@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do you ever get the feeling the game will be put aside and never leave Early Access?
 https://www.youtube.com/watch?v=LSx6aBL0q3Q
+
+### Topics
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+
+### Transcript
+
 > maybe um
 > 
 > [Music]

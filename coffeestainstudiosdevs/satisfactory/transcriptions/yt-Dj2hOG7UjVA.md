@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How much configuration will we be able to do with Dedicated Servers?
 https://www.youtube.com/watch?v=Dj2hOG7UjVA
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > geez how much configuration will be able
 > 
 > to dedicated servers for example we'll

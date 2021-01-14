@@ -9,6 +9,13 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Fluid Sink ever going to happen?
 https://www.youtube.com/watch?v=j79cJptq5h8
+
+### Topics
+* [Features > Fluids](../topics/features/fluids.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > the with sync ever gonna happen
 > 
 > yeah there's already one over here

@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Do you plan on some cutscenes for the Story?
 https://www.youtube.com/watch?v=t6WEYv_TLDI
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > uh do you plan on some cutscenes for the
 > 
 > story

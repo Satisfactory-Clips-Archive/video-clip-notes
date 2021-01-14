@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: How many Devs are working on the Game approximately?
 https://www.youtube.com/watch?v=cqz8zcpP2og
+
+### Topics
+
+
+### Transcript
+
 > yeah honestly how many devs are working
 > 
 > on the game approximately just curious i

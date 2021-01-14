@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will Story Mode have Co-op?
 https://www.youtube.com/watch?v=1iHSFaYoEow
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > thanks for asking um will story mode
 > 
 > have co-op

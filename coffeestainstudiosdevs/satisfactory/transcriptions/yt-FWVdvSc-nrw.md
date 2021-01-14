@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Is the limit on items hardcoded into the game?
 https://www.youtube.com/watch?v=FWVdvSc-nrw
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > uh it's limit on items in game hardcoded
 > 
 > into the game or immutable down the line

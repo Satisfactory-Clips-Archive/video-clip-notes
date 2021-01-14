@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can we get Miner Mk.4?
 https://www.youtube.com/watch?v=SDbdzYItJZE
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > yes but anyway um can we get minor
 > 
 > mark four maybe

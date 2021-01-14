@@ -11,6 +11,15 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Is it safe to set up 1000 Turbo Fuel Generators?
 https://www.youtube.com/watch?v=0JyFVACOZ-E
+
+### Topics
+* [Features > Fluids](../topics/features/fluids.md)
+* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Power Management](../topics/features/power-management.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > um is it safe to set up 1 000 t
 > 
 > turbo fuel generators or better weight

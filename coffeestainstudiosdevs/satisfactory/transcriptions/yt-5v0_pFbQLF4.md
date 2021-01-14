@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Which Biome will be rebuilt?
 https://www.youtube.com/watch?v=5v0_pFbQLF4
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > yeah which biome will be rebuilt
 > 
 > i don't think any of them necessarily

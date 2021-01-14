@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Who in Coffee Stain Studios is the best Factory Builder?
 https://www.youtube.com/watch?v=ypN9OtMd7YU
+
+### Topics
+
+
+### Transcript
+
 > um people learn who in css is the best
 > 
 > factory builder oh

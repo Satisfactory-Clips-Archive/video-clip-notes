@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Adding Smart/Programmable Splitters to allow us to dedicate material for each direction?
 https://www.youtube.com/watch?v=sUMAyPlkahk
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+
+### Transcript
+
 > adding smart programmable splitters to
 > 
 > allow us to dedicate a percentage of

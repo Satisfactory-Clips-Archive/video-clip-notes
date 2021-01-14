@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do we get better Jump Pads in the Update?
 https://www.youtube.com/watch?v=k3WWTRfFo_s
+
+### Topics
+* [Features > Buildables > Jump Pads](../topics/features/buildables/jump-pads.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > do we get better jump pads in the new
 > 
 > update

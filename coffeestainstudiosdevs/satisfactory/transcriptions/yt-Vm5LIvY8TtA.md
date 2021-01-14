@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Blueprints?
 https://www.youtube.com/watch?v=Vm5LIvY8TtA
+
+### Topics
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > um
 > 
 > blueprints uh yeah this comes up every

@@ -10,6 +10,14 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Snutt Talk: Turbofuel in Jetpacks
 https://www.youtube.com/watch?v=xY2wDhyE7ZE
+
+### Topics
+* [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
+* [Features > Fluids](../topics/features/fluids.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > sure i can also say on the no note on
 > 
 > turbofuel and jetpacks that's something

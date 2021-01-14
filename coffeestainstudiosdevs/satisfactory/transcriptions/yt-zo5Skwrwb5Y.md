@@ -11,6 +11,15 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Which one is better from an FPS performance point of view, Conveyor Belts, Trains, or Vehicles?
 https://www.youtube.com/watch?v=zo5Skwrwb5Y
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+
+### Transcript
+
 > i think sometimes hello which one is
 > 
 > uh better from a frame rate performance

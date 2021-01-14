@@ -9,6 +9,13 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Flushing Toilet paid DLC
 https://www.youtube.com/watch?v=7HtEV_DVbgw
+
+### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+
+### Transcript
+
 > yep all right we need another
 > 
 > announcement we've got we've got room

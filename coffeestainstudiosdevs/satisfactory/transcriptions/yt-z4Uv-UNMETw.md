@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Is there any Official Mod Support planned?
 https://www.youtube.com/watch?v=z4Uv-UNMETw
+
+### Topics
+* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
+
+### Transcript
+
 > uh is there any official mod support
 > 
 > planned yes uh

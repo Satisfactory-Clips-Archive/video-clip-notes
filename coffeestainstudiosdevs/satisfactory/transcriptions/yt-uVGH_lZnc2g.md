@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any features you want to add to the game but you don't expect to be added to the vanilla game?
 https://www.youtube.com/watch?v=uVGH_lZnc2g
+
+### Topics
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+
+### Transcript
+
 > any features you want to add to the game
 > 
 > but you don't expect to be added to the

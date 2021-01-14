@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Horizontal Ladders, please?
 https://www.youtube.com/watch?v=5NDvPBe4Ww0
+
+### Topics
+* [Features > Buildables > Ladders](../topics/features/buildables/ladders.md)
+
+### Transcript
+
 > yeah yeah definitely horizontal ladders
 > 
 > please

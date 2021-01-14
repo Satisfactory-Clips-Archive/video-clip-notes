@@ -11,6 +11,15 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Should I remove all nature to improve FPS?
 https://www.youtube.com/watch?v=t-FNpaJUBcE
+
+### Topics
+* [Environment > Plants](../topics/environment/plants.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > empty okay should i remove all nature to
 > 
 > improve fps

@@ -9,6 +9,13 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Why do you put cat faces in Arachnophobia Mode?
 https://www.youtube.com/watch?v=vlNaHkvoi0Y
+
+### Topics
+* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+* [Features > Accessibility](../topics/features/accessibility.md)
+
+### Transcript
+
 > why you put catfaces in arachnophobia
 > 
 > mode because cats are cute

@@ -9,6 +9,13 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Time to invest in Map Modding?
 https://www.youtube.com/watch?v=a5PSHoSuXec
+
+### Topics
+* [Mods](../topics/mods.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > hmm time to invest into
 > 
 > map modding uh apparently you can't do

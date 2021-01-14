@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt Talk: Player death without the HUB being built.
 https://www.youtube.com/watch?v=hCPIVr5mlFQ
+
+### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+
+### Transcript
+
 > i'm not sure what's gonna happen uh if
 > 
 > he dies and the hub isn't built he just

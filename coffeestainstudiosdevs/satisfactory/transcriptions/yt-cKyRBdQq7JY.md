@@ -9,6 +9,13 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Jace Talk: Multiplayer Bugs vs. Dedicated Servers
 https://www.youtube.com/watch?v=cKyRBdQq7JY
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > [Music]
 > 
 > i'm not sure

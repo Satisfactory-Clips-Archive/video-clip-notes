@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Snutt Talk: Parallelisation
 https://www.youtube.com/watch?v=hjizpuVBJLc
+
+### Topics
+
+
+### Transcript
+
 > that as well
 > 
 > it's yes it's the cpu core yeah it's

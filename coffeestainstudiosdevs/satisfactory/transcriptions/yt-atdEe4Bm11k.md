@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Jace & Snutt Talk: Zombie/Clone Players (part 1)
 https://www.youtube.com/watch?v=atdEe4Bm11k
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > i can't win them all uh killer dreams
 > 
 > the issue that amman is having is not

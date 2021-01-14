@@ -8,6 +8,12 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Are Mods okay on Experimental?
 https://www.youtube.com/watch?v=qDzU3niTLPI
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > um more decay on
 > 
 > experimental can't really comment on

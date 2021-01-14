@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will you guys fix the connection loss with long loading with friends?
 https://www.youtube.com/watch?v=qOV_ydeQ07E
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > will you guys fix the lost connection
 > 
 > when you have a long loading

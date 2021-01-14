@@ -9,6 +9,13 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Jace Talk: More buildables
 https://www.youtube.com/watch?v=oJ42bPfK4lo
+
+### Topics
+* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > diagonal walls i
 > 
 > think i answered yeah yeah yeah okay

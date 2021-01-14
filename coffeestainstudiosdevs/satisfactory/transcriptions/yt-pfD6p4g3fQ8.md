@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will this game come out on Console at some point?
 https://www.youtube.com/watch?v=pfD6p4g3fQ8
+
+### Topics
+* [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)
+
+### Transcript
+
 > just will this game come out on console
 > 
 > at some point it's not impossible

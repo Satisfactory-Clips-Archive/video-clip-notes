@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Does the Crab have a Crab?
 https://www.youtube.com/watch?v=leLtSRvC-J8
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > thanks for hanging out on the stream
 > 
 > does the crab have a crab

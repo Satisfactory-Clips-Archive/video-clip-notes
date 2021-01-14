@@ -9,6 +9,13 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Flying Lizard Doggos, when?
 https://www.youtube.com/watch?v=p-f_kfmUdR0
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
+
+### Transcript
+
 > flying lizard dog is when it's going to
 > 
 > be a 30

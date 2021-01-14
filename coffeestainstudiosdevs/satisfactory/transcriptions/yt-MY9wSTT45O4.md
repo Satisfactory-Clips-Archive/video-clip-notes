@@ -10,6 +10,14 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Is the building going to be built with already in-game materials or built with new materials?
 https://www.youtube.com/watch?v=MY9wSTT45O4
+
+### Topics
+* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > so everything should go there if you can
 > 
 > so there's one question as well that was

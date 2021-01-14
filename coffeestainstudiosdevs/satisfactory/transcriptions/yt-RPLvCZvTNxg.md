@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Is there going to be a Mass Construction option?
 https://www.youtube.com/watch?v=RPLvCZvTNxg
+
+### Topics
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > um two package asks if there's gonna be
 > 
 > a mass construction

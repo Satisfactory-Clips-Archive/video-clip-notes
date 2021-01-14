@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Jace Talk: Questions & Suggestions
 https://www.youtube.com/watch?v=uGdC1rBQyv0
+
+### Topics
+
+
+### Transcript
+
 > Snutt: *strokes beard*
 > 
 > Jace: Uhmmm...?

@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Is Snutt rocking two watches?
 https://www.youtube.com/watch?v=MwKAp32wO_A
+
+### Topics
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+
+### Transcript
+
 > it um
 > 
 > are you are you rocking two watches net

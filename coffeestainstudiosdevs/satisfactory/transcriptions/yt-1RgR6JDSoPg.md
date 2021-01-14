@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: How will time run on the Dedicated Servers?
 https://www.youtube.com/watch?v=1RgR6JDSoPg
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > how will time run on the dedicated
 > 
 > servers i think it will just run

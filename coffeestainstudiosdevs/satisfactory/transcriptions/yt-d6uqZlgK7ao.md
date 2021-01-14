@@ -9,6 +9,13 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: I think the price for mk. 3 & 4 belts are great, but mk. 2 I skip almost every time.
 https://www.youtube.com/watch?v=d6uqZlgK7ao
+
+### Topics
+* [Environment > Resources](../topics/environment/resources.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > i think the price for mark three and
 > 
 > four are great

@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How to pet Doggo?
 https://www.youtube.com/watch?v=izvalD5vPuc
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > whatever you want mommy
 > 
 > how to pet doggo you press e to pet this

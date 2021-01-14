@@ -10,6 +10,14 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: What material are they going to use for the new Pipes & Pumps?
 https://www.youtube.com/watch?v=2BJzwTVi_Ww
+
+### Topics
+* [Features > Fluids > Pumps](../topics/features/fluids/pumps.md)
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > um anything
 > 
 > else what material are they going to use

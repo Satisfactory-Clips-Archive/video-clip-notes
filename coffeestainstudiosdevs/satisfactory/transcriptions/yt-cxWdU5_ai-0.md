@@ -9,6 +9,13 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Any plans to get rid of Nuclear Waste?
 https://www.youtube.com/watch?v=cxWdU5_ai-0
+
+### Topics
+* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > any plans to get rid of nuclear waste so
 > 
 > here's the thing about nuclear waste

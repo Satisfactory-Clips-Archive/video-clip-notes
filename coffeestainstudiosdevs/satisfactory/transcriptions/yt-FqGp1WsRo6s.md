@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: What about lights?
 https://www.youtube.com/watch?v=FqGp1WsRo6s
+
+### Topics
+
+
+### Transcript
+
 > uh what about lights in the game so like
 > 
 > i mentioned this earlier but i'll say it

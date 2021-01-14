@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Do you guys think 5000 hours in Satisfactory is too much?
 https://www.youtube.com/watch?v=fD-GIithrjg
+
+### Topics
+
+
+### Transcript
+
 > uh do you guys think five thousand hours
 > 
 > and satisfactory is too much i do

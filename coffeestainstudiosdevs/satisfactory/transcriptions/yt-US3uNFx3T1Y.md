@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Are you not devs?
 https://www.youtube.com/watch?v=US3uNFx3T1Y
+
+### Topics
+
+
+### Transcript
+
 > are you fully aware of being fully aware
 > 
 > most of the time

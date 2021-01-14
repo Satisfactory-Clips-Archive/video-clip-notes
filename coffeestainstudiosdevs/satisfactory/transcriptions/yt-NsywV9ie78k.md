@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: What's the point of naming beacons?
 https://www.youtube.com/watch?v=NsywV9ie78k
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > like you can like
 > 
 > for me example when i find a good like

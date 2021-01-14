@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: In the future will there be better movement?
 https://www.youtube.com/watch?v=wS0rkaDIPEw
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+
+### Transcript
+
 > now we'll find out in the future uh in
 > 
 > the future will

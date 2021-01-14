@@ -9,6 +9,13 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: The game is not done until I can flush the toilet?
 https://www.youtube.com/watch?v=64xmTN-rhbs
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+
+### Transcript
+
 > yeah uh the game is not done until i can
 > 
 > flush the toilet there we are meza knows

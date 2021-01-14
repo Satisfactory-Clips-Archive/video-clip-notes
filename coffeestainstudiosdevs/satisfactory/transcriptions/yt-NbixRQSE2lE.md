@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Why are you not upgrading to UE 4.25?
 https://www.youtube.com/watch?v=NbixRQSE2lE
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+
+### Transcript
+
 > that one uh why are you not upgrading to
 > 
 > um

@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will Update 4 be disruptive enough that players will want to start from scratch?
 https://www.youtube.com/watch?v=PuTEiefcHnU
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > will update four be disruptive enough
 > 
 > that players will want to start from

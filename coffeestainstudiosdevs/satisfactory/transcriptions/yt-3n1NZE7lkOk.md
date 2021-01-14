@@ -9,6 +9,13 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Shouldn't Vehicles despawn after they fall off the World?
 https://www.youtube.com/watch?v=3n1NZE7lkOk
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > shouldn't vehicles despawn after they
 > 
 > fall off the wall

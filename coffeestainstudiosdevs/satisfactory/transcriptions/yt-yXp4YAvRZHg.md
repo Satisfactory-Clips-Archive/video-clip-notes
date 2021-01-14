@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Goat Simulator DLC
 https://www.youtube.com/watch?v=yXp4YAvRZHg
+
+### Topics
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+
+### Transcript
+
 > uh there's gonna be coffee in the game
 > 
 > we've got good some dlc okay so we've

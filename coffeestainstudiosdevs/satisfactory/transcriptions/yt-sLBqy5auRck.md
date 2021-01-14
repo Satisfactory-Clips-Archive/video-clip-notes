@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any plans about new pets?
 https://www.youtube.com/watch?v=sLBqy5auRck
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > any plans about new pets uh no plans
 > 
 > right now

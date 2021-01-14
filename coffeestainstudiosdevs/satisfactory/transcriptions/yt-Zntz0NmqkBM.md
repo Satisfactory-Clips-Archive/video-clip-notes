@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Do you guys think Steel cost is balanced right now?
 https://www.youtube.com/watch?v=Zntz0NmqkBM
+
+### Topics
+* [Environment > Resources](../topics/environment/resources.md)
+
+### Transcript
+
 > you guys think steel cost is balanced
 > 
 > that is right now i believe mark 3 and

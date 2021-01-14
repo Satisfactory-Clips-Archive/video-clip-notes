@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: I forgot the game even had Mod capability
 https://www.youtube.com/watch?v=HEqq1dnxrg4
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > i forgot the game even had mod
 > 
 > capability it's unofficial like the

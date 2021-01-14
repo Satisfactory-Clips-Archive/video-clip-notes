@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Will there be more adjustments to progression?
 https://www.youtube.com/watch?v=9hON4HpgaXU
+
+### Topics
+* [Features > Tiers](../topics/features/tiers.md)
+
+### Transcript
+
 > indeed yes uh will there be more
 > 
 > adjustments to progression

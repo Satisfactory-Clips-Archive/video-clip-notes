@@ -9,6 +9,13 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: When are we getting a Production Overview in the game?
 https://www.youtube.com/watch?v=OnK4DcHAB4o
+
+### Topics
+* [Features > Crafting](../topics/features/crafting.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > [Music]
 > 
 > yeah so that's when are we getting

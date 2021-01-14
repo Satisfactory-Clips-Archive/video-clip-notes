@@ -9,6 +9,13 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Any chance splitters/mergers can be placed in production buildings?
 https://www.youtube.com/watch?v=Ypi07NY-1rg
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > can be placed on conveyor lifts
 > 
 > um drastically slimming the lifts with

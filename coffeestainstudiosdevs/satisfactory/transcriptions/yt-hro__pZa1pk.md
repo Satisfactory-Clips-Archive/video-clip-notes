@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: When are you adding hunger & thirst?
 https://www.youtube.com/watch?v=hro__pZa1pk
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+
+### Transcript
+
 > plants
 > 
 > when are you adding hunger and thirst

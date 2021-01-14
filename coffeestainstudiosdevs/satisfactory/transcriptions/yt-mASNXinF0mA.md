@@ -9,6 +9,13 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Alien creature launcher - evict the giant Tick?
 https://www.youtube.com/watch?v=mASNXinF0mA
+
+### Topics
+* [Features > Buildables > Jump Pads](../topics/features/buildables/jump-pads.md)
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > gun alien creature launcher
 > 
 > evict the giant tick uh i'm pretty sure

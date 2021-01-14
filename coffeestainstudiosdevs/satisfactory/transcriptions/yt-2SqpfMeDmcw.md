@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?
 https://www.youtube.com/watch?v=2SqpfMeDmcw
+
+### Topics
+* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > um
 > 
 > will be a way to deal with nuclear

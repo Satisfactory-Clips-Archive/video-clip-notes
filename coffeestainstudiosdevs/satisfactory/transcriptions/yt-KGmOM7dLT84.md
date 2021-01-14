@@ -9,6 +9,13 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?
 https://www.youtube.com/watch?v=KGmOM7dLT84
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > maybe someday i'll be able to talk
 > 
 > have you looked into i think that's

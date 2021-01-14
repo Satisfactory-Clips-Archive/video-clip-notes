@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Update on the Mug?
 https://www.youtube.com/watch?v=9e8Q65g3HWI
+
+### Topics
+
+
+### Transcript
+
 > fix the beer mug comfort yeah so the mug
 > 
 > i don't know if there's any update on

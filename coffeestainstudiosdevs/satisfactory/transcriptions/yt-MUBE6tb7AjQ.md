@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Quick keys for tools?
 https://www.youtube.com/watch?v=MUBE6tb7AjQ
+
+### Topics
+* [Features > Equipment](../topics/features/equipment.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > quick equip
 > 
 > uh keys for tools i don't know i'm

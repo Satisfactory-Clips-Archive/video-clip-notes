@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are we ever going to see a new enemy type?
 https://www.youtube.com/watch?v=Kxq543wzKcY
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > uh are we ever gonna see a new enemy
 > 
 > type we've just been talking about that

@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: All the interest in the game is spoiled by the ability to build an infinitely long platform
 https://www.youtube.com/watch?v=XGlE_HTHTlA
+
+### Topics
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > [Music]
 > 
 > uh so all the interest

@@ -9,6 +9,13 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: What's the Modular Build?
 https://www.youtube.com/watch?v=vKIeFeGPXJQ
+
+### Topics
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > for us it's good i've seen a few
 > 
 > people ask what the modular build

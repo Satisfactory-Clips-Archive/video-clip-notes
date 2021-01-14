@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will there be intelligent aliens?
 https://www.youtube.com/watch?v=CznWASCszcA
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > camp will there be intelligent aliens
 > 
 > are you saying liza doggo is not an

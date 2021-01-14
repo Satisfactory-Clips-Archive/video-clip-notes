@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?
 https://www.youtube.com/watch?v=ccmgnLh1oO0
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+
+### Transcript
+
 > comes up maybe yep any idea where the
 > 
 > sum of slope mesosphere or samurai said

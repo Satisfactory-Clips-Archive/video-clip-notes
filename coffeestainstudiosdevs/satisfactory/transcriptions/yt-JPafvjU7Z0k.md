@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Jace Talk: Mods
 https://www.youtube.com/watch?v=JPafvjU7Z0k
+
+### Topics
+* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > one of the biggest things that helped me
 > 
 > longevity of the game minecraft wouldn't

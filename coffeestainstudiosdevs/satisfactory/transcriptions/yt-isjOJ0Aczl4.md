@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Is ADA a synth voice ?
 https://www.youtube.com/watch?v=isjOJ0Aczl4
+
+### Topics
+
+
+### Transcript
+
 > so yeah someone asked if ada is a synth
 > 
 > voice or a licensed something something

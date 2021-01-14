@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Why does the Chainsaw only run on Solid Biofuel?
 https://www.youtube.com/watch?v=qJF8f6v_FNw
+
+### Topics
+* [Features > Equipment > Chainsaw](../topics/features/equipment/chainsaw.md)
+
+### Transcript
+
 > why does the chainsaw only run on solid
 > 
 > biofuel

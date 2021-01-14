@@ -9,6 +9,13 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will Mods be downloadable in-game?
 https://www.youtube.com/watch?v=JRP30-Yz8pQ
+
+### Topics
+* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > well it must be downloadable in game we
 > 
 > will have official mod support at some

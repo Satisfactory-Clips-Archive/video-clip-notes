@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Snutt Talk: The Pipes Indicator
 https://www.youtube.com/watch?v=MhUCod36x7Y
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > this to those sorry oh one another fun
 > 
 > fact about the pipes

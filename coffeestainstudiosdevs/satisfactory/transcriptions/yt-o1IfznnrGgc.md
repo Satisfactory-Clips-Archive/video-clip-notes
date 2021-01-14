@@ -9,6 +9,13 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Any early release previews for the update?
 https://www.youtube.com/watch?v=o1IfznnrGgc
+
+### Topics
+* [Features > Buildings > Blender](../topics/features/buildings/blender.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > that's my oven um any early release
 > 
 > previews

@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Would you guys be up for doing a stream reacting to other FanForge content?
 https://www.youtube.com/watch?v=dRtDPajp9Qo
+
+### Topics
+
+
+### Transcript
+
 > you're the alien yeah exactly yeah would
 > 
 > you guys be

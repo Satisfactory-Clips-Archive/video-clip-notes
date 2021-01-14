@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What's the max amount of body slots?
 https://www.youtube.com/watch?v=aPWXjH-Xf1o
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > hmm what's the max amount of body slots
 > 
 > uh i don't know that check the wiki

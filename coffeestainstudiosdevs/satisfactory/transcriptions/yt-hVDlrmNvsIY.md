@@ -9,6 +9,13 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Control Console with a simple representation of the Remote Plants?
 https://www.youtube.com/watch?v=hVDlrmNvsIY
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > control console with a simple
 > 
 > representation of the remote plants

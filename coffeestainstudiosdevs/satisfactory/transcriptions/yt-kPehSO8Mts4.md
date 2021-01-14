@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will Security Cams become a feature?
 https://www.youtube.com/watch?v=kPehSO8Mts4
+
+### Topics
+
+
+### Transcript
+
 > um
 > 
 > [Music]

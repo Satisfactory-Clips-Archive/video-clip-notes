@@ -10,6 +10,14 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Will the Resource Transportation get an update?
 https://www.youtube.com/watch?v=hKxm2Ps1UYY
+
+### Topics
+* [Environment > Resources](../topics/environment/resources.md)
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+
+### Transcript
+
 > will the resource transportation get an
 > 
 > update easier mass transportation

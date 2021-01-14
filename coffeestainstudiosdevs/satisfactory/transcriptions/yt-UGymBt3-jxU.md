@@ -9,6 +9,13 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: What are the technical reasons (behind 600upm limit on pipes)?
 https://www.youtube.com/watch?v=UGymBt3-jxU
+
+### Topics
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > would still be maximum uh so what are
 > 
 > the technical reasons some people want

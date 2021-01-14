@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: When are we going to delete the game?
 https://www.youtube.com/watch?v=Yn1cEfU4mlg
+
+### Topics
+
+
+### Transcript
+
 > it's going to be cool what are we going
 > 
 > to delete the game

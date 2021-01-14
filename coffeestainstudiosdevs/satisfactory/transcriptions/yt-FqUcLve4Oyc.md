@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Will Gift Trees continue to produce?
 https://www.youtube.com/watch?v=FqUcLve4Oyc
+
+### Topics
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
+
+### Transcript
+
 > all right i think i fixed the figure
 > 
 > well gift trees continue to produce i'm

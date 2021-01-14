@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Could you add more Build pieces every week?
 https://www.youtube.com/watch?v=p0CdgjDIsEs
+
+### Topics
+
+
+### Transcript
+
 > um but yeah um
 > 
 > could you add more built pieces every

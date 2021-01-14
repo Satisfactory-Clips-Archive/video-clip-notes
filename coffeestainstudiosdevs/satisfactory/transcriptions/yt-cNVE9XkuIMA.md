@@ -10,6 +10,14 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: What is the output per minute compared to the refinery?
 https://www.youtube.com/watch?v=cNVE9XkuIMA
+
+### Topics
+* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > force animations it looks too weird what
 > 
 > is the output what is the output per

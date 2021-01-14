@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Extension on current Map?
 https://www.youtube.com/watch?v=Ad3tjOha0JI
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > extensions on current map i mean there's
 > 
 > still a lot of work to the current map

@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Can we can expect a dev *blog* article about the Engine changes?
 https://www.youtube.com/watch?v=C9LL9rg1aOk
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+
+### Transcript
+
 > you guys uh um can we expect a dev vlog
 > 
 > uh

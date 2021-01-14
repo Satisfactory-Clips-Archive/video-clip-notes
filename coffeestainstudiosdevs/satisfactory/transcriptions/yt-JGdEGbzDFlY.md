@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt & Jace Talk: The Wiki
 https://www.youtube.com/watch?v=JGdEGbzDFlY
+
+### Topics
+* [Features > Tiers](../topics/features/tiers.md)
+
+### Transcript
+
 > see just check the wiki the wiki's got
 > 
 > like like crazy on it it's got like

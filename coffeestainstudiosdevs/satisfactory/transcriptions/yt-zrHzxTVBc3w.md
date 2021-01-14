@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will Story need a new Save File?
 https://www.youtube.com/watch?v=zrHzxTVBc3w
+
+### Topics
+
+
+### Transcript
+
 > yeah will story need a new save file
 > 
 > it's too early to tell at this point um

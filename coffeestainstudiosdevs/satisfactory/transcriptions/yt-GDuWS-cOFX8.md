@@ -9,6 +9,13 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will Dedicated Servers have Multiple Hubs?
 https://www.youtube.com/watch?v=GDuWS-cOFX8
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > um
 > 
 > dedicated searches have multiple hubs no

@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When are we expecting to get Dedicated Servers?
 https://www.youtube.com/watch?v=G9PuZ0WvoOM
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > uh what are we expecting to get hosted
 > 
 > servers i assume you mean dedicated

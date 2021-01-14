@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will Satisfactory have native support for Linux?
 https://www.youtube.com/watch?v=jGFUMhD3WGg
+
+### Topics
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+
+### Transcript
+
 > it will not uh will satisfactory have
 > 
 > native support for linux

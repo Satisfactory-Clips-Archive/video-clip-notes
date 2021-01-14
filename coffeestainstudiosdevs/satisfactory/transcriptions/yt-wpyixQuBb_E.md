@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: I'd love a feature for storage containers to empty out my inventory of a specific item
 https://www.youtube.com/watch?v=wpyixQuBb_E
+
+### Topics
+
+
+### Transcript
+
 > i'd love a feature for storage
 > 
 > containers to empty out my inventory off

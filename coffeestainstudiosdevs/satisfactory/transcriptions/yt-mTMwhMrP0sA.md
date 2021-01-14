@@ -9,6 +9,13 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Protective Walls against Radiation?
 https://www.youtube.com/watch?v=mTMwhMrP0sA
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > never mind attacking balls against
 > 
 > radiation like that would be super cool

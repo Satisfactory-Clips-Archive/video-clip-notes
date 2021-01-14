@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: This is an honest stream
 https://www.youtube.com/watch?v=L5L3kXz810E
+
+### Topics
+
+
+### Transcript
+
 > we're going to add that to ourselves uh
 > 
 > we're trolling us no we're always honest

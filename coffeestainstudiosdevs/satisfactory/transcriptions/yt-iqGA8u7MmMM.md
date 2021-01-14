@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?
 https://www.youtube.com/watch?v=iqGA8u7MmMM
+
+### Topics
+
+
+### Transcript
+
 > right here
 > 
 > uh now that you guys have a big boy

@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: DX12 more efficient?
 https://www.youtube.com/watch?v=FlEUMECDwS4
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > dx12 is more efficient i've got
 > 
 > uh i know that we're looking into dx12

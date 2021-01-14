@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is Jace using an old soup can for a mic?
 https://www.youtube.com/watch?v=kNfhYvkifNM
+
+### Topics
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+
+### Transcript
+
 > is jace using
 > 
 > an old soup can for a mic shouldn't be

@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: What about the Mug?
 https://www.youtube.com/watch?v=IVy_-gV3h6M
+
+### Topics
+
+
+### Transcript
+
 > on twitter and uh just quickly jesus
 > 
 > literally jesus

@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: After the Alpha Weekend - Alpha Testers can continue streaming with the Alpha client?
 https://www.youtube.com/watch?v=jBOvSHJtna8
+
+### Topics
+
+
+### Transcript
+
 > but just a question to be absolutely on
 > 
 > the safe side after that off the weekend

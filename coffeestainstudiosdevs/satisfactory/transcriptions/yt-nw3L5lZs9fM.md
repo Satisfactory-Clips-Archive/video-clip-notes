@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Anything you can reveal about Fluid changes coming?
 https://www.youtube.com/watch?v=nw3L5lZs9fM
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > one can anything you can reveal about
 > 
 > fluid changes coming

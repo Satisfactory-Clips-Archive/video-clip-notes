@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: WTF, there's a Rifle in Satisfactory?
 https://www.youtube.com/watch?v=WTCjl2Tu39A
+
+### Topics
+* [Features > Equipment](../topics/features/equipment.md)
+
+### Transcript
+
 > oh yeah um wait what the they're
 > 
 > right from the satisfactory yeah there's

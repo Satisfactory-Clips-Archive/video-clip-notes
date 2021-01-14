@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Is Lead being added?
 https://www.youtube.com/watch?v=t6T-Wazh9o4
+
+### Topics
+* [Environment > Resources](../topics/environment/resources.md)
+
+### Transcript
+
 > see what will happen there don't know is
 > 
 > lead being added i don't think so

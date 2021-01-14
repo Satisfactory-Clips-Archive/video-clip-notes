@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Fluid Update seems a bit bigger than I thought?
 https://www.youtube.com/watch?v=gSeMZO30cEg
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > um food update seems a bit bigger than i
 > 
 > thought yeah

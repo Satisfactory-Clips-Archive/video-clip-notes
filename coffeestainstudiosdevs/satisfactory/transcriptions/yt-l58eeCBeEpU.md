@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: The use-case for Dedicated Servers is specifically so you can have a centralised file (etc.)
 https://www.youtube.com/watch?v=l58eeCBeEpU
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > you get so much more out of it so the
 > 
 > use use case for dedicated services

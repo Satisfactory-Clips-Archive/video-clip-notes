@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When can I change the keybindings?
 https://www.youtube.com/watch?v=M4ZlxfNJg4s
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > Snutt:Yeah
 Jace: Yeah, when can I change the key bindings
 > 

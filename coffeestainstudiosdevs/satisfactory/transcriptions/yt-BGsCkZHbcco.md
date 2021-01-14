@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?
 https://www.youtube.com/watch?v=BGsCkZHbcco
+
+### Topics
+
+
+### Transcript
+
 > a report a bug included a screenshot is
 > 
 > there an easy way to do it in game

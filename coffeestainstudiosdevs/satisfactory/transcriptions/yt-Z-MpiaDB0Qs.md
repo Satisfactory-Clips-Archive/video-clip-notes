@@ -9,6 +9,13 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will the anti-spider mode stay like it is now / When is Satisfactory getting Goats?
 https://www.youtube.com/watch?v=Z-MpiaDB0Qs
+
+### Topics
+* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+* [Features > Accessibility](../topics/features/accessibility.md)
+
+### Transcript
+
 > i like these two
 > 
 > things here will the anti-spider mode

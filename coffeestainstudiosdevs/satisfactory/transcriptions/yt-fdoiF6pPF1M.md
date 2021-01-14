@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will we be able to breed the Doggos?
 https://www.youtube.com/watch?v=fdoiF6pPF1M
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > like emote yes please we'll be able to
 > 
 > breed the doggers that's disgusting and

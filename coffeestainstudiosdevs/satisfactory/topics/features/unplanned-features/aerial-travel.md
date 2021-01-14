@@ -5,30 +5,30 @@ date: Last Modified
 [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel
 
 # November 17th, 2020 Livestream
-* Trolling: Flying Vehicles in Update 4 https://www.youtube.com/watch?v=E666WdfoeP0
+* [Trolling: Flying Vehicles in Update 4](../../../transcriptions/yt-E666WdfoeP0.md) https://www.youtube.com/watch?v=E666WdfoeP0
 
 # November 10th, 2020 Livestream
-* Q&A: Any plans for a helicopter so we don't have to turn into spaghetti to get across the map? https://www.youtube.com/watch?v=l-k7qpxgpRQ
+* [Q&A: Any plans for a helicopter so we don't have to turn into spaghetti to get across the map?](../../../transcriptions/yt-l-k7qpxgpRQ.md) https://www.youtube.com/watch?v=l-k7qpxgpRQ
 
 # November 3rd, 2020 Livestream
-* Q&A: Will we get Flying Vehicles? https://www.youtube.com/watch?v=CkWtF0M2ddY
+* [Q&A: Will we get Flying Vehicles?](../../../transcriptions/yt-CkWtF0M2ddY.md) https://www.youtube.com/watch?v=CkWtF0M2ddY
 
 # September 29th, 2020 Livestream
-* Q&A: Will we see air vehicles some time in the future? https://www.youtube.com/watch?v=qJ56jBYTtAc
+* [Q&A: Will we see air vehicles some time in the future?](../../../transcriptions/yt-qJ56jBYTtAc.md) https://www.youtube.com/watch?v=qJ56jBYTtAc
 
 # September 22nd, 2020 Livestream
-* Q&A: Any plans to add a Levitate option with Jetpacks? https://www.youtube.com/watch?v=_9P859YpEbE
-* Q&A: Flying Lizard Doggos, when? https://www.youtube.com/watch?v=p-f_kfmUdR0
+* [Q&A: Any plans to add a Levitate option with Jetpacks?](../../../transcriptions/yt-_9P859YpEbE.md) https://www.youtube.com/watch?v=_9P859YpEbE
+* [Q&A: Flying Lizard Doggos, when?](../../../transcriptions/yt-p-f_kfmUdR0.md) https://www.youtube.com/watch?v=p-f_kfmUdR0
 
 # September 8th, 2020 Livestream
-* Q&A: What're your guys thoughts on transport beyond Jetpacks ? https://www.youtube.com/watch?v=-sa8wjg4lYk
-* Jace Talk: Air Transportation https://www.youtube.com/watch?v=hKQlthlcwXc
-* Q&A: Jetpack needs a Hover Mode? https://www.youtube.com/watch?v=zeXh53pKe0A
-* Q&A: The game needs small Flying Vehicles to travel long distance? https://www.youtube.com/watch?v=i0_bbpQ_91I
+* [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](../../../transcriptions/yt--sa8wjg4lYk.md) https://www.youtube.com/watch?v=-sa8wjg4lYk
+* [Jace Talk: Air Transportation](../../../transcriptions/yt-hKQlthlcwXc.md) https://www.youtube.com/watch?v=hKQlthlcwXc
+* [Q&A: Jetpack needs a Hover Mode?](../../../transcriptions/yt-zeXh53pKe0A.md) https://www.youtube.com/watch?v=zeXh53pKe0A
+* [Q&A: The game needs small Flying Vehicles to travel long distance?](../../../transcriptions/yt-i0_bbpQ_91I.md) https://www.youtube.com/watch?v=i0_bbpQ_91I
 
 # March 9th, 2019 Livestream
-* Q&A: Is it possible to use powerline as zip-lines? https://www.youtube.com/watch?v=NTeBuhOqIu0
-* Q&A: Flying vehicles for overhead view of your factory? https://www.youtube.com/watch?v=njN-07Q5-8s
+* [Q&A: Is it possible to use powerline as zip-lines?](../../../transcriptions/yt-NTeBuhOqIu0.md) https://www.youtube.com/watch?v=NTeBuhOqIu0
+* [Q&A: Flying vehicles for overhead view of your factory?](../../../transcriptions/yt-njN-07Q5-8s.md) https://www.youtube.com/watch?v=njN-07Q5-8s
 
 # August 25th, 2020 Livestream
 * Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother

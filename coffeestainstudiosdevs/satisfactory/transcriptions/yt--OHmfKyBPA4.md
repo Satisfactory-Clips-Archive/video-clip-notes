@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt Talk: Inpure Resource Nodes
 https://www.youtube.com/watch?v=-OHmfKyBPA4
+
+### Topics
+* [Environment > Resources](../topics/environment/resources.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > i can't believe we still haven't fixed
 > 
 > that typo

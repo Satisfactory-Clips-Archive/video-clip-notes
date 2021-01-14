@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Snutt & Jace Talk: Update 5
 https://www.youtube.com/watch?v=Fq5fx3DzOU8
+
+### Topics
+* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
+
+### Transcript
+
 > yeah yeah update 5 is confirmed guys
 > 
 > like

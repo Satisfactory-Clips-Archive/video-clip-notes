@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Can we get a Console Release for the KFConsole?
 https://www.youtube.com/watch?v=P7R2hxi19pM
+
+### Topics
+* [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)
+
+### Transcript
+
 > this is cursed can we get a console
 > 
 > release for the kfc called

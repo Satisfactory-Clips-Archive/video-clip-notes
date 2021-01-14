@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Adding Cigarettes to the game
 https://www.youtube.com/watch?v=OvP_WQvSEuc
+
+### Topics
+
+
+### Transcript
+
 > uh and eat healthy yeah if you don't eat
 > 
 > healthy you age fast and if you smoke

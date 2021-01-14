@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: What's the recommended network performance for smooth Multiplayer right now?
 https://www.youtube.com/watch?v=MSt300MAcq8
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > um what's the recommended network
 > 
 > performance for smooth multiplayer right

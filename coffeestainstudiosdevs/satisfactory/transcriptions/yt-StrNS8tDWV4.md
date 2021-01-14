@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Why is flashlight default key B and not F?
 https://www.youtube.com/watch?v=StrNS8tDWV4
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > yeah why is flashlight before key v and
 > 
 > not f

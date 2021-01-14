@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any plans for customising the Build Menu organisation?
 https://www.youtube.com/watch?v=Y6RYXEZ3aek
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > any plans for uh
 > 
 > customizing the build menu organization

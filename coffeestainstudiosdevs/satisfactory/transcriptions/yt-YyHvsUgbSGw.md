@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Is there a reason to reveal so much Update 4 content in the latest YouTube video?
 https://www.youtube.com/watch?v=YyHvsUgbSGw
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > um was there a reason to reveal so much
 > 
 > update for content in the latest youtube

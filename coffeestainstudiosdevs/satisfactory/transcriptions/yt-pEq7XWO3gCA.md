@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Jace Talk: Dedicated Servers summary
 https://www.youtube.com/watch?v=pEq7XWO3gCA
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > um
 > 
 > i'm so sorry uh if it's the seventh time

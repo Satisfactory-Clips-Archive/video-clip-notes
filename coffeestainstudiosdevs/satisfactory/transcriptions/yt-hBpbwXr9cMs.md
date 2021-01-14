@@ -10,6 +10,14 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Why did you change the Nuclear Reactors model?
 https://www.youtube.com/watch?v=hBpbwXr9cMs
+
+### Topics
+* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > uh why did you change the nuclear
 > 
 > reactors model i don't know

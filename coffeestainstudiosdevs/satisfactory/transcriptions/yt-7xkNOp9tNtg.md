@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Flying Monsters?
 https://www.youtube.com/watch?v=7xkNOp9tNtg
+
+### Topics
+
+
+### Transcript
+
 > hmm flying monsters they're already
 > 
 > flying moses in the game

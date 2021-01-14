@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Why can't you deselect items when you've selected them?
 https://www.youtube.com/watch?v=KGLZ6f6PdRs
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > um
 > 
 > why can you not why can't you deselect

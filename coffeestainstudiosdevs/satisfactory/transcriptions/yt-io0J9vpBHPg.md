@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Is the Wiki Official?
 https://www.youtube.com/watch?v=io0J9vpBHPg
+
+### Topics
+
+
+### Transcript
+
 > salaam alaikum jullie mee tools is de
 > 
 > wiki official page microfiches elk de

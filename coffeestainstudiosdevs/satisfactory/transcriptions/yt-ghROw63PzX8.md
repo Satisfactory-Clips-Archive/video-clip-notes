@@ -11,6 +11,15 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Snutt & Jace Talk: Vague Roadmap, Update 4
 https://www.youtube.com/watch?v=ghROw63PzX8
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > that's state of dev dedicated servers
 > 
 > never heard of it

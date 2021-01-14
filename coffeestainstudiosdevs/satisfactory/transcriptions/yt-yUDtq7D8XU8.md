@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Snow Area Confirmed?
 https://www.youtube.com/watch?v=yUDtq7D8XU8
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > i'll give him a good spanking no area
 > 
 > confirmed there will there will

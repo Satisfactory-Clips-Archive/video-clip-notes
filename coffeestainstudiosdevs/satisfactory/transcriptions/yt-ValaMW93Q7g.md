@@ -10,6 +10,14 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Is it possible to use the add to-do list without visiting the crafting bench?
 https://www.youtube.com/watch?v=ValaMW93Q7g
+
+### Topics
+* [Features > Crafting](../topics/features/crafting.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > no i don't know uh it's possible to use
 > 
 > the add

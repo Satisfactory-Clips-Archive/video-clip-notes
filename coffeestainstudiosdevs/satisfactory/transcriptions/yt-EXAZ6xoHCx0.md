@@ -8,6 +8,12 @@ topics:
 # [December 1st, 2020 Livestream](../2020-12-01.md)
 ## Snutt & Jace Talk: FICS⁕MAS
 https://www.youtube.com/watch?v=EXAZ6xoHCx0
+
+### Topics
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
+
+### Transcript
+
 > there we go
 > 
 > i hit the extra mute button just to make

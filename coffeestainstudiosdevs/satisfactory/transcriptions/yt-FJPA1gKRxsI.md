@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Mk2 Pipes?
 https://www.youtube.com/watch?v=FJPA1gKRxsI
+
+### Topics
+
+
+### Transcript
+
 > reference and gives you pipes
 > 
 > yeah probably uh to quote our uh

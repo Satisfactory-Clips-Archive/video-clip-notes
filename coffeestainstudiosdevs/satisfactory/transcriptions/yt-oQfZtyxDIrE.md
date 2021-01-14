@@ -9,6 +9,13 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt Talk: Storage Containers
 https://www.youtube.com/watch?v=oQfZtyxDIrE
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > i forgot to place like a constructor for
 > 
 > plates i just realized

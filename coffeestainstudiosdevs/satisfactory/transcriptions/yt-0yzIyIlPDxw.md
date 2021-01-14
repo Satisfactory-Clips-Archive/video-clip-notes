@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: CPU make multi-core?
 https://www.youtube.com/watch?v=0yzIyIlPDxw
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+
+### Transcript
+
 > here oh boy cpu multicore the game is
 > 
 > already multicore

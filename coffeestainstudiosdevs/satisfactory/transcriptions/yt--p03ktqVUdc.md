@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Fix Multiplayer quick?
 https://www.youtube.com/watch?v=-p03ktqVUdc
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > fix multiplayer quick we always work on
 > 
 > multiplayer

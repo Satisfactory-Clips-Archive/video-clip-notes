@@ -9,6 +9,13 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Paintable Vehicles when?
 https://www.youtube.com/watch?v=0DPbCQ4WQHU
+
+### Topics
+* [Features > Paint](../topics/features/paint.md)
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+
+### Transcript
+
 > paintable vehicles when that's what i
 > 
 > want to know

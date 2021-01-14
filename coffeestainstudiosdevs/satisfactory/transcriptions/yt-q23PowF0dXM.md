@@ -9,6 +9,13 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: The pipes thing- is that a reskin?
 https://www.youtube.com/watch?v=q23PowF0dXM
+
+### Topics
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > says in the video i don't know so yeah
 > 
 > so people have asked

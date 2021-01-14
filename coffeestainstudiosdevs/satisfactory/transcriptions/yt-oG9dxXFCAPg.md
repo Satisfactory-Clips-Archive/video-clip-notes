@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, Jace Talk: Turning on Arachnophobia Mode
 https://www.youtube.com/watch?v=oG9dxXFCAPg
+
+### Topics
+* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+
+### Transcript
+
 > no all right i'm going to turn it on
 > 
 > let me show you guys what this looks

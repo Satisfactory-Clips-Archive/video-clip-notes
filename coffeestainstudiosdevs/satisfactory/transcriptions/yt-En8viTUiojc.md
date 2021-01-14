@@ -9,6 +9,13 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Why can't we flush the toilet?
 https://www.youtube.com/watch?v=En8viTUiojc
+
+### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+
+### Transcript
+
 > yeah why can't we flush the toilet
 > 
 > that's a good

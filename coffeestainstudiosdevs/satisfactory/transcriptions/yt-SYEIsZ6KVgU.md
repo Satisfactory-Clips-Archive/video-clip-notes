@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: How about being able to snap Foundations by their halfway point instead of just the edge?
 https://www.youtube.com/watch?v=SYEIsZ6KVgU
+
+### Topics
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+
+### Transcript
+
 > how about being able to snap foundations
 > 
 > by the halfway point instead of just the

@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: How does the Questions site transfer to Feature in game?
 https://www.youtube.com/watch?v=djGcxAQ9Xkk
+
+### Topics
+
+
+### Transcript
+
 > let's see here uh how does the questions
 > 
 > site translate to feature in game uh i'm

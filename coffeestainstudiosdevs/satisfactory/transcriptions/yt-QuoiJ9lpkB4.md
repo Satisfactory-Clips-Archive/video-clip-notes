@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: DXR/RTX/DLSS ?
 https://www.youtube.com/watch?v=QuoiJ9lpkB4
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > are we straight huh any chance of
 > 
 > oh uh dxr implementation eventually

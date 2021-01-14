@@ -8,6 +8,12 @@ topics:
 # [December 1st, 2020 Livestream](../2020-12-01.md)
 ## Q&A: How do we get rid of toxic waste?
 https://www.youtube.com/watch?v=sag85tf3NQQ
+
+### Topics
+* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
+
+### Transcript
+
 > so how do we get rid of toxic waste
 > 
 > tim you know toxic waste tim

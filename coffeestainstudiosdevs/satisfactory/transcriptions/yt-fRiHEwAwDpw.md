@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Is that not actual gameplay footage?
 https://www.youtube.com/watch?v=fRiHEwAwDpw
+
+### Topics
+* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+
+### Transcript
+
 > see you and uh someone's like says uh
 > 
 > asterisk not actual gameplay footage i'm

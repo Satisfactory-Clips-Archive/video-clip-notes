@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: drag & place?
 https://www.youtube.com/watch?v=OQwjkJmYxAs
+
+### Topics
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > yeah like dragon place
 > 
 > that the the problem with the dragon

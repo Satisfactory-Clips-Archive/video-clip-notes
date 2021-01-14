@@ -9,6 +9,13 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Jace & Snutt Talk: Phobia Modes & Accessibility
 https://www.youtube.com/watch?v=OFBC7qFkEmQ
+
+### Topics
+* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+* [Features > Accessibility](../topics/features/accessibility.md)
+
+### Transcript
+
 > sure
 > 
 > [Music]

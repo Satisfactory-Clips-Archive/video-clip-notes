@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Secondary Hub/Spawn Point ?
 https://www.youtube.com/watch?v=MjQNNzVfZTY
+
+### Topics
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > uh secondary hubs for spawn point with
 > 
 > the option to

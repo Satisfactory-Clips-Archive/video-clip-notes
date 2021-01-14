@@ -9,6 +9,13 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Can you add Floor Holes for Pipes?
 https://www.youtube.com/watch?v=VLvqacnnn5c
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > can you add floor holes
 > 
 > for pipes i'm gonna uh do some nice runs

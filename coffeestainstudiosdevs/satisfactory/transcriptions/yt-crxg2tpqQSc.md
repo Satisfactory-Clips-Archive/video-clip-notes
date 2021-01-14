@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Which studio has the goofiest Community Managers?
 https://www.youtube.com/watch?v=crxg2tpqQSc
+
+### Topics
+
+
+### Transcript
+
 > this is actually a bit fun which studio
 > 
 > has the goofiest community managers out

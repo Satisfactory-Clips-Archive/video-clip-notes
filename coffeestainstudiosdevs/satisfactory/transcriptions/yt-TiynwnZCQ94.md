@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Jace & Snutt Talk: Dev Streams
 https://www.youtube.com/watch?v=TiynwnZCQ94
+
+### Topics
+
+
+### Transcript
+
 > whatever um that reminds me by the way
 > 
 > uh

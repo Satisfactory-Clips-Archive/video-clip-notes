@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Are there Mods that you might put into the game?
 https://www.youtube.com/watch?v=DAmVYd9vGbA
+
+### Topics
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+
+### Transcript
+
 > uh are there mods you might put into the
 > 
 > game uh

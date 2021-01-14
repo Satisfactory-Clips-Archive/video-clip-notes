@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can we get Weather to change?
 https://www.youtube.com/watch?v=iq-K9FY-RT8
+
+### Topics
+* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+
+### Transcript
+
 > oh that's so good can we get weather
 > 
 > change um

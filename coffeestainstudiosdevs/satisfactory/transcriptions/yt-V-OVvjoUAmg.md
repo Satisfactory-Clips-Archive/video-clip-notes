@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Any news on Train Signals?
 https://www.youtube.com/watch?v=V-OVvjoUAmg
+
+### Topics
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+
+### Transcript
+
 > in your face or anything uh just
 > 
 > something jason any news on train

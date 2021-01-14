@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Snutt & Jace Talk: State of Dev Summary
 https://www.youtube.com/watch?v=C0x-CrnWaAs
+
+### Topics
+
+
+### Transcript
+
 > jason mug that's funny um
 > 
 > did you miss the state of dev you did

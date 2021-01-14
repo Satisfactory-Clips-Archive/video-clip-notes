@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we be able to deal with Gas towers you can't kill right now?
 https://www.youtube.com/watch?v=0nRCXveJemw
+
+### Topics
+* [Environment > Resources](../topics/environment/resources.md)
+
+### Transcript
+
 > will we
 > 
 > will we'll be able to deal with gas

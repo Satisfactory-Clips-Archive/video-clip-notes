@@ -9,6 +9,13 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Removing 90 Factory Carts doubled my FPS
 https://www.youtube.com/watch?v=R6XOvosAptg
+
+### Topics
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > uh meza says removing 90 factory cards
 > 
 > doubled my fps yeah all right that would

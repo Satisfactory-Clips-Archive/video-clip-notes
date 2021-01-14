@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can you add a F1 key option for bug reports?
 https://www.youtube.com/watch?v=mgJAE7EaIJ0
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > uh can you add a f1
 > 
 > key option for bug reports so the

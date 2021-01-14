@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Jace Talk: Early Tutorial
 https://www.youtube.com/watch?v=FYLxMnDCuNw
+
+### Topics
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+
+### Transcript
+
 > oh this is where i did the um
 > 
 > the let's play sort of tutorial early

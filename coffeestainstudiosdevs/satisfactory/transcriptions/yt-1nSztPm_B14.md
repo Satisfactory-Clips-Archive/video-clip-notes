@@ -9,6 +9,13 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: System that destroyed Nuclear Waste wouldn't be bad?
 https://www.youtube.com/watch?v=1nSztPm_B14
+
+### Topics
+* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > doing system that destroy nuclear waste
 > 
 > wouldn't be bad a lot of people asked

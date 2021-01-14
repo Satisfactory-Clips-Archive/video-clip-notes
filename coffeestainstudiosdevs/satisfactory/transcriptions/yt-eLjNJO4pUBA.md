@@ -8,6 +8,12 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Is there going to be a Satisfactory for Mac?
 https://www.youtube.com/watch?v=eLjNJO4pUBA
+
+### Topics
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+
+### Transcript
+
 > uh is there ever going to be a
 > 
 > satisfactory for mac or four-player

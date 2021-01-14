@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans for Elevators?
 https://www.youtube.com/watch?v=VUe1w6nSdko
+
+### Topics
+* [Features > Buildables > Ladders](../topics/features/buildables/ladders.md)
+
+### Transcript
+
 > uh any plans for elevators we just added
 > 
 > ladders you're basically asking me

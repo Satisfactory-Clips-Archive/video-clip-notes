@@ -8,6 +8,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: If Factories can get attacked?
 https://www.youtube.com/watch?v=tK_m7AqM4sY
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > fake hellish screws and [ __ ] got a
 > 
 > question from told if

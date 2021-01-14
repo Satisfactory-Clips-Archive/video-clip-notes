@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: When will Dedicated Servers be coming?
 https://www.youtube.com/watch?v=TW0i2hxJ7C0
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > a little dedicated service be coming uh
 > 
 > so check the uh what's the it's a daddy

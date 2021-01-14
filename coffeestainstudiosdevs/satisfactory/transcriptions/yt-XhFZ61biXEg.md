@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Why are we rushing stuff to Early Access?
 https://www.youtube.com/watch?v=XhFZ61biXEg
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > i saw a question about uh why are we
 > 
 > rushing

@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Do you have to take advil before playing this game?
 https://www.youtube.com/watch?v=BSIjbEnE90o
+
+### Topics
+
+
+### Transcript
+
 > you gotta take advil before playing this
 > 
 > game see this is the thing you guys you

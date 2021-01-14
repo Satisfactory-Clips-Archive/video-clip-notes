@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Why have two beds and loo but can't use?
 https://www.youtube.com/watch?v=9sP0hOMzQ40
+
+### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+
+### Transcript
+
 > do that can't believe it
 > 
 > why have two beds and lou but can't use

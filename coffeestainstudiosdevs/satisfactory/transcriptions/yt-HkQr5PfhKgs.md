@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Snutt Talk: Fan Forge
 https://www.youtube.com/watch?v=HkQr5PfhKgs
+
+### Topics
+
+
+### Transcript
+
 > so uh anything else with state of dev
 > 
 > that's what i'm trying to remember i i

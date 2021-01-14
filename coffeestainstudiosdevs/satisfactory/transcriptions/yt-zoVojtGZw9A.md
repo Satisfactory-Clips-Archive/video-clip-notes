@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When will the Toilet be operative?
 https://www.youtube.com/watch?v=zoVojtGZw9A
+
+### Topics
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+
+### Transcript
+
 > all natural uh the one with the toilet b
 > 
 > operative i can't wait more with this

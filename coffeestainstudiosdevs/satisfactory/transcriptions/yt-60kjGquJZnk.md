@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Co-op networking bugs been fixed?
 https://www.youtube.com/watch?v=60kjGquJZnk
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > yeah i really don't co-op network has
 > 
 > been fixed yes uh so like

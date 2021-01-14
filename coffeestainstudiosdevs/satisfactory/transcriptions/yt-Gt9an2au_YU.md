@@ -9,6 +9,13 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: What will happen to the FICS⁕MAS power lines after the event?
 https://www.youtube.com/watch?v=Gt9an2au_YU
+
+### Topics
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > what will happen to the victims power
 > 
 > lines after the event will they stay

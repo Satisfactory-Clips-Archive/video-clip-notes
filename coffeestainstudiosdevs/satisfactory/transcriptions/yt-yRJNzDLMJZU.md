@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Snutt Talk: Dedicated Servers
 https://www.youtube.com/watch?v=yRJNzDLMJZU
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > uh and and on the topic also one thing
 > 
 > that it's probably also good to clear up

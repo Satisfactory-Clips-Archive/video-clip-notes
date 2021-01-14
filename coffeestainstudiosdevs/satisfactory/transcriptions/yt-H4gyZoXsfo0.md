@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## State of Dev: Blame Simon
 https://www.youtube.com/watch?v=H4gyZoXsfo0
+
+### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+
+### Transcript
+
 > isn't that that's what's happening i get
 > 
 > audio issues so i can actually blame

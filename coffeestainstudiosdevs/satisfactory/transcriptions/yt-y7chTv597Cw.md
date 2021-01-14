@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: The Map?
 https://www.youtube.com/watch?v=y7chTv597Cw
+
+### Topics
+* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > better but smirking asking for the for
 > 
 > the map

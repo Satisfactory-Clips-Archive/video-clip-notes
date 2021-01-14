@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Is Multiplayer desync fixed in Update 4?
 https://www.youtube.com/watch?v=OjiLxOBdkU8
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > support the future yes that is the goal
 > 
 > is uh multiplayer desync fixed in update

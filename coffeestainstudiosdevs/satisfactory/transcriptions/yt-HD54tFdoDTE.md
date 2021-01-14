@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will we ever see the Crab Boss?
 https://www.youtube.com/watch?v=HD54tFdoDTE
+
+### Topics
+
+
+### Transcript
+
 > mode for me can't handle it will we ever
 > 
 > see the crab boss

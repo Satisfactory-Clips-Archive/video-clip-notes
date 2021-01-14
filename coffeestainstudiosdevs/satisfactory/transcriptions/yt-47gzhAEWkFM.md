@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Is there a reason for a lack of Dedicated Server builds?
 https://www.youtube.com/watch?v=47gzhAEWkFM
+
+### Topics
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+
+### Transcript
+
 > is there a reason for lack of dedicated
 > 
 > server builds yep just uh we're not done

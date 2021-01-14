@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will you be able to upgrade Splitters to Smart/Programmable Splitters?
 https://www.youtube.com/watch?v=7G0wdPB4X-c
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+
+### Transcript
+
 > three more uh will you be able to
 > 
 > upgrade splitters to smart programmable

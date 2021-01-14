@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Giving people Solar, Wind, and Hydro means FICSIT gets more resources?
 https://www.youtube.com/watch?v=F212AWqzBVI
+
+### Topics
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > uh giving people solar wind and hydra
 > 
 > actually means fixer gets more resources

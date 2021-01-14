@@ -8,6 +8,12 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Can I play my Early Access save on Experimental?
 https://www.youtube.com/watch?v=d9u5Na0jBfo
+
+### Topics
+
+
+### Transcript
+
 > yeah uh uh a few people asking about um
 > 
 > sort of can they play

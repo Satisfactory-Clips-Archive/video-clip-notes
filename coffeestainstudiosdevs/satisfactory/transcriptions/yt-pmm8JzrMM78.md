@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How do you stream on Steam like you guys are right now?
 https://www.youtube.com/watch?v=pmm8JzrMM78
+
+### Topics
+
+
+### Transcript
+
 > of information already how do you stream
 > 
 > on steam like you guys are right now i

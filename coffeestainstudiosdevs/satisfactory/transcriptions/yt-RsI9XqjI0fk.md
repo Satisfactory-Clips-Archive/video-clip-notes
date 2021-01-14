@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, Jace Talk: Early Access Release
 https://www.youtube.com/watch?v=RsI9XqjI0fk
+
+### Topics
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+
+### Transcript
+
 > hmm gabe looks amazing can't wait till
 > 
 > the 19th

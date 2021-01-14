@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are you supposed to be able to break the rocks that has a slug inside of it?
 https://www.youtube.com/watch?v=SaJCkdeMMh0
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > bird's eye view here are you able to
 > 
 > supposed to be able to

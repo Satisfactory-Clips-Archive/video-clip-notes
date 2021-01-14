@@ -9,6 +9,13 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Do you know what caused the Lizard Doggos to be super-janky at the launch of FICS⁕MAS?
 https://www.youtube.com/watch?v=4M85D1XUDlU
+
+### Topics
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > do we
 > 
 > know what caused the lizard dog is to be

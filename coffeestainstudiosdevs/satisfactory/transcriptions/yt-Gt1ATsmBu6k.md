@@ -9,6 +9,13 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Can I wear Boots, Jetpack and a Gas Mask?
 https://www.youtube.com/watch?v=Gt1ATsmBu6k
+
+### Topics
+* [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
+* [Features > Equipment](../topics/features/equipment.md)
+
+### Transcript
+
 > i'm gonna wear boots jet pack and a gas
 > 
 > mask what are you talking in real life

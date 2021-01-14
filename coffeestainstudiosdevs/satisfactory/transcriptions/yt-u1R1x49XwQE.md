@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Snutt Talk: Update 4 Release Window
 https://www.youtube.com/watch?v=u1R1x49XwQE
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
 > uh but i love the the i don't know how
 > 
 > many

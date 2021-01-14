@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: DMCA Strikes if we use your Music?
 https://www.youtube.com/watch?v=YMOHvk22t2Y
+
+### Topics
+
+
+### Transcript
+
 > um
 > 
 > ca strikes if you use your music i don't

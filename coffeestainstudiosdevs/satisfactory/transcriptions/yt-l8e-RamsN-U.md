@@ -9,6 +9,13 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Why did you change the minimum length of Pipes ?
 https://www.youtube.com/watch?v=l8e-RamsN-U
+
+### Topics
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > why did you change the minimum length of
 > 
 > pipes

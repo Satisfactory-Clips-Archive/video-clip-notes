@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Jace Talk: The Map is not procedural
 https://www.youtube.com/watch?v=lTWfWXB6IG8
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > yes the map is not procedural there
 > 
 > it is handcrafted

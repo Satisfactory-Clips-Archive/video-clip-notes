@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Would Official Mod Support use Steam Workshop?
 https://www.youtube.com/watch?v=qzu-mnG_8uA
+
+### Topics
+* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
+
+### Transcript
+
 > as well would official mod support use
 > 
 > steam workshop or like factory in-game

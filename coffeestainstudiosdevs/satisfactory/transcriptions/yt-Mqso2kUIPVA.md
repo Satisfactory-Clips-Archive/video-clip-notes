@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Can we get the stream starting video as the main menu?
 https://www.youtube.com/watch?v=Mqso2kUIPVA
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > that's pretty much one this is cool cool
 > 
 > can we get the stream

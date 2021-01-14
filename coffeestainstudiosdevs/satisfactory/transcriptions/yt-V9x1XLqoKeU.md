@@ -10,6 +10,14 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Jace & Snutt Talk: New Feature - Packager (part 1)
 https://www.youtube.com/watch?v=V9x1XLqoKeU
+
+### Topics
+* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > keep going at it um the real update
 > 
 > is really the the teaser we put out yet

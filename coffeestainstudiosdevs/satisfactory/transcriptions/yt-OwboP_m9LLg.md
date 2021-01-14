@@ -8,6 +8,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Snutt Talk: Q&A Site Bug
 https://www.youtube.com/watch?v=OwboP_m9LLg
+
+### Topics
+
+
+### Transcript
+
 > yeah oh yeah so one thing i forgot to
 > 
 > mention last week

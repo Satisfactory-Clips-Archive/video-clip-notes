@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Can I choose the gender and customise my character?
 https://www.youtube.com/watch?v=g9uOwzKvCbc
+
+### Topics
+* [Features > Possible Features > Character Customisation](../topics/features/possible-features/character-customisation.md)
+
+### Transcript
+
 > can i choose the gender and customize
 > 
 > that my character you cannot at the

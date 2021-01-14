@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: How much S.A.M. Ore should we stock up on?
 https://www.youtube.com/watch?v=vBGfC7j2AyI
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+
+### Transcript
+
 > Jace: How much S.A.M. Ore should we stock up on?
 Jace: You know what? I actually think 
 > 

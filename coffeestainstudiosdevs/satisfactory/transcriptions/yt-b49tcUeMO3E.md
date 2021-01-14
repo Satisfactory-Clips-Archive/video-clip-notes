@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will the Map be bigger?
 https://www.youtube.com/watch?v=b49tcUeMO3E
+
+### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
 > very much crits that's kind will the map
 > 
 > be bigger

@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: The Doggo Plushie has to fit into the Cup
 https://www.youtube.com/watch?v=HMsgkhM0i34
+
+### Topics
+
+
+### Transcript
+
 > the doggo plushie has to fit into the
 > 
 > cup yeah so that's another thing like

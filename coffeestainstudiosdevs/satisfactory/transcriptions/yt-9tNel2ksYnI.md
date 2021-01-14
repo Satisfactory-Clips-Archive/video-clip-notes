@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Give us Steam Achievements already?
 https://www.youtube.com/watch?v=9tNel2ksYnI
+
+### Topics
+
+
+### Transcript
+
 > um given steam achievements already i
 > 
 > think we're gonna wait until 1.0

@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Snutt & Jace Talk: Taking screenshots
 https://www.youtube.com/watch?v=L24vwtoTNIc
+
+### Topics
+* [Features > Photo Mode](../topics/features/photo-mode.md)
+
+### Transcript
+
 > i meant to do a screenshot there is um
 > 
 > you can use the photo mode for a

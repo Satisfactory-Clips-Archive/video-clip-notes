@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Are you going to be able to change characters?
 https://www.youtube.com/watch?v=GymA7otvYYo
+
+### Topics
+
+
+### Transcript
+
 > them they're okay are we going to be
 > 
 > able to change characters we may have

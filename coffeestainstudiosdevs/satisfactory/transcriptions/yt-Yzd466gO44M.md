@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Will there be more creatures?
 https://www.youtube.com/watch?v=Yzd466gO44M
+
+### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
+
+### Transcript
+
 > uh will there be more creatures yes
 > 
 > there will be there is still

@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Do we have an idea of the full release?
 https://www.youtube.com/watch?v=WoWR5Xsuav8
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+
+### Transcript
+
 > um do we have uh long shot but do we
 > 
 > have an idea of the full release not

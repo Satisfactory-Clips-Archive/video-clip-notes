@@ -8,6 +8,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Jace Talk: Merch
 https://www.youtube.com/watch?v=23FUIPYyBds
+
+### Topics
+
+
+### Transcript
+
 > factory yep all right then merch dude
 > 
 > yeah okay so merch i forgot what i was

@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What is the object limit and why is it that number?
 https://www.youtube.com/watch?v=VpCuu0aYFw0
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+
+### Transcript
+
 > um a reason was told by twitch streamer
 > 
 > that there's a limit to objects in the

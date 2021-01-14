@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will the price stay at $30, or will it drop/increase as time goes on?
 https://www.youtube.com/watch?v=RVdtG9yWW68
+
+### Topics
+
+
+### Transcript
+
 > like what is this say at 30 or will it
 > 
 > drop increases time goes on

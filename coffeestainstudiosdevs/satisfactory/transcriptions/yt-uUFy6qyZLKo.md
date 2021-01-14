@@ -9,6 +9,13 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Any plans for bigger foundations?
 https://www.youtube.com/watch?v=uUFy6qyZLKo
+
+### Topics
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+
+### Transcript
+
 > any plans for bigger foundations
 > 
 > um maybe

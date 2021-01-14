@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Are you using Blueprints or C++?
 https://www.youtube.com/watch?v=z7fe-_3-Al4
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+
+### Transcript
+
 > um are you are using blueprints with c
 > 
 > plus plus we use a mixture

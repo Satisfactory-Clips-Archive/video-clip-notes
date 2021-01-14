@@ -9,6 +9,13 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans on in-game Jukebox?
 https://www.youtube.com/watch?v=dbyTU3Wdpog
+
+### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > the game and he plans on in-game jukebox
 > 
 > that's such a good idea

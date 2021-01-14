@@ -8,6 +8,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Any news on EU Merch?
 https://www.youtube.com/watch?v=IXeIE9qV-lA
+
+### Topics
+
+
+### Transcript
+
 > oh yeah so any news on
 > 
 > eu merch we're looking into it but we

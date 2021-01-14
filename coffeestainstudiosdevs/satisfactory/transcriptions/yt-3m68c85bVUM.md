@@ -8,6 +8,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Satisfactory Sandbox ever?
 https://www.youtube.com/watch?v=3m68c85bVUM
+
+### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+
+### Transcript
+
 > so we'll see uh satisfactory sandbox
 > 
 > ever we will likely have

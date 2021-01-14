@@ -8,6 +8,12 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Any word on merging platforms to reduce object count?
 https://www.youtube.com/watch?v=JSAcfBylMmA
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > no faith any word emerging
 > 
 > terms for reducing object count that's

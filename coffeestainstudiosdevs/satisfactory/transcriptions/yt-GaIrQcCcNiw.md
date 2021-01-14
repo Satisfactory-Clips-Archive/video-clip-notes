@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will the game ever be more stable?
 https://www.youtube.com/watch?v=GaIrQcCcNiw
+
+### Topics
+
+
+### Transcript
+
 > all right anyway um will the gamer be
 > 
 > more stable uh i hope so i think so

@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Snutt & Jace Talk: Special Announcements
 https://www.youtube.com/watch?v=Abv5c_etxZQ
+
+### Topics
+
+
+### Transcript
+
 > stream all right we have um special
 > 
 > announcements now

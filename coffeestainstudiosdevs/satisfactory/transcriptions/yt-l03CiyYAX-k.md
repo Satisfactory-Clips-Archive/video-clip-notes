@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Do the Wall Power Connectors tell how many connections are connected to them?
 https://www.youtube.com/watch?v=l03CiyYAX-k
+
+### Topics
+* [Features > Power Management](../topics/features/power-management.md)
+
+### Transcript
+
 > uh
 > 
 > let's just take a couple more does the

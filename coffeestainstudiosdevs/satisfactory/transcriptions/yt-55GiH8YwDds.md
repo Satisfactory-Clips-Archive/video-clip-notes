@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Any more tiers in 3.5?
 https://www.youtube.com/watch?v=55GiH8YwDds
+
+### Topics
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### Transcript
+
 > like any more tears in 3.5
 > 
 > i'm not sure most likely not you know if

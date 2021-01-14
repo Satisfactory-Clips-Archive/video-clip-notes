@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Scrolling through your items?
 https://www.youtube.com/watch?v=KBeCXfGZ4Sg
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > uh yeah uh someone else before
 > 
 > can they can we add

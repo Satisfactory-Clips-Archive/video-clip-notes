@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: When do we get Twitch Subscribe/Emote options?
 https://www.youtube.com/watch?v=1oMDAPZ2bZ4
+
+### Topics
+
+
+### Transcript
+
 > yeah uh when do we get twitch subscribes
 > 
 > slash emote options

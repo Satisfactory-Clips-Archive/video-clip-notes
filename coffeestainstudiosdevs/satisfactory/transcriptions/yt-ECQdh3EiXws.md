@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Better Multiplayer support?
 https://www.youtube.com/watch?v=ECQdh3EiXws
+
+### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
 > questions better multi-threading support
 > 
 > i mean there is multiple things we have

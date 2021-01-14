@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: What are some of the things you guys want to see in Satisfactory?
 https://www.youtube.com/watch?v=NEM6_KiEgA8
+
+### Topics
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+
+### Transcript
+
 > what are some things you guys want to
 > 
 > see in satisfactory

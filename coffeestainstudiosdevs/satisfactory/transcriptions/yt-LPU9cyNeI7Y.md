@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How do you get the Advent Calendar?
 https://www.youtube.com/watch?v=LPU9cyNeI7Y
+
+### Topics
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
+
+### Transcript
+
 > uh rick how do you get the advent
 > 
 > calendar it's already in the game it's

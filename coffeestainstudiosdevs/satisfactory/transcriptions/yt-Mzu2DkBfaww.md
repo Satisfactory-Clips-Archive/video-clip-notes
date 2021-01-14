@@ -9,6 +9,13 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Snutt Talk: New Refinery model
 https://www.youtube.com/watch?v=Mzu2DkBfaww
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Buildings](../topics/features/buildings.md)
+
+### Transcript
+
 > uh so one thing that we haven't added in
 > 
 > the

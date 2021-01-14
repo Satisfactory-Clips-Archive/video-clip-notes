@@ -8,6 +8,12 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Should enable Slow Mode for Q&A?
 https://www.youtube.com/watch?v=l0e9itmXFT8
+
+### Topics
+
+
+### Transcript
+
 > should enable slow mode for q a
 > 
 > hmm

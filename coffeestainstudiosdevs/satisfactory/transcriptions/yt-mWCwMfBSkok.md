@@ -8,6 +8,12 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Is Fog going to be turned down?
 https://www.youtube.com/watch?v=mWCwMfBSkok
+
+### Topics
+
+
+### Transcript
+
 > uh is fog gonna be tuned down yes fog is
 > 
 > going

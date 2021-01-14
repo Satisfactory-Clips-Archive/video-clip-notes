@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: You like to watch the modding community suffer, don't you.
 https://www.youtube.com/watch?v=ecGKcdGYi4o
+
+### Topics
+* [Mods](../topics/mods.md)
+
+### Transcript
+
 > you like to watch the morning community
 > 
 > suffer don't you i like to watch

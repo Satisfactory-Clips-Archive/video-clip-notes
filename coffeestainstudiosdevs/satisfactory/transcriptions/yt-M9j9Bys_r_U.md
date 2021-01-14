@@ -9,6 +9,13 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Does the Engine update include the waterfall graphics update?
 https://www.youtube.com/watch?v=M9j9Bys_r_U
+
+### Topics
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > um
 > 
 > does the engine update include the

@@ -8,6 +8,12 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Is there a way to deposit all of the same material?
 https://www.youtube.com/watch?v=WCqChz4xFWg
+
+### Topics
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
 > a lot uh is there a way to deposit all
 > 
 > material the same material

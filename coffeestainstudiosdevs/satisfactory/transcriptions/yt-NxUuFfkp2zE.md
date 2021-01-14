@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Indoor factories are very dark, will we be getting lighting to add to our bases?
 https://www.youtube.com/watch?v=NxUuFfkp2zE
+
+### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
+
+### Transcript
+
 > hola uh indoor factories are very
 > 
 > dark we'll be getting lighting to add to

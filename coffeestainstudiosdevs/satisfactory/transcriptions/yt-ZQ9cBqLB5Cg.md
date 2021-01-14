@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: The maze?
 https://www.youtube.com/watch?v=ZQ9cBqLB5Cg
+
+### Topics
+
+
+### Transcript
+
 > during chaos asking about the maze we
 > 
 > were thinking of running it today but
