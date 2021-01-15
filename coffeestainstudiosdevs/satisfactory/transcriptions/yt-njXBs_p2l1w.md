@@ -1,5 +1,5 @@
 ---
-title: "December 11th, 2020 TeasersNew Parts coming in Update 4"
+title: "December 11th, 2020 Teasers New Parts coming in Update 4"
 date: "2020-12-11"
 layout: transcript
 topics:

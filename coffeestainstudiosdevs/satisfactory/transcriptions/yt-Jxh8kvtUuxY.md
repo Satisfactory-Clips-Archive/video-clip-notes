@@ -1,5 +1,5 @@
 ---
-title: "January 15th, 2021 TeasersGases are coming in Update 4"
+title: "January 15th, 2021 Teasers Gases are coming in Update 4"
 date: "2021-01-15"
 layout: transcript
 topics:
