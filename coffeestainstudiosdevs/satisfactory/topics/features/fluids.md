@@ -38,9 +38,3 @@ date: Last Modified
 
 # August 25th, 2020 Livestream
 * Q&A: Is the sink going to accept liquids in the future? https://clips.twitch.tv/ArtisticCoweringTortoiseRitzMitz
-
-# August 11th, 2020 Livestream
-* Q&A: Gas Tanks? https://clips.twitch.tv/FitAlertTurtleDogFace
-
-# July 28th, 2020 Livestream
-* Q&A: Gas Manufacturing https://clips.twitch.tv/ThirstyJoyousSparrowSoBayed

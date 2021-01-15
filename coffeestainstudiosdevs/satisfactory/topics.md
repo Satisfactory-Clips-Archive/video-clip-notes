@@ -16,6 +16,7 @@ date: Last Modified
 * [Arachnophobia Mode](./topics/accessibility/arachnophobia-mode.md)
 
 # Coffee Stainers
+* [Ben](./topics/coffee-stainers/ben.md)
 * [Dylan](./topics/coffee-stainers/dylan.md)
 * [Jace](./topics/coffee-stainers/jace.md)
 * [Simon](./topics/coffee-stainers/simon.md)
@@ -36,6 +37,7 @@ date: Last Modified
 * [Emotes](./topics/features/emotes.md)
 * [Equipment](./topics/features/equipment.md)
 * [Fluids](./topics/features/fluids.md)
+* [Gases](./topics/features/gases.md)
 * [Multiplayer](./topics/features/multiplayer.md)
 * [Paint](./topics/features/paint.md)
 * [Photo Mode](./topics/features/photo-mode.md)
@@ -55,6 +57,8 @@ date: Last Modified
 * [Blender](./topics/features/buildings/blender.md)
 * [Packager](./topics/features/buildings/packager.md)
 * [Radar Tower](./topics/features/buildings/radar-tower.md)
+* [Resource Well Extractor](./topics/features/buildings/resource-well-extractor.md)
+* [Resource Well Pressurizer](./topics/features/buildings/resource-well-pressurizer.md)
 * [The HUB](./topics/features/buildings/the-hub.md)
 
 ## Crafting
@@ -63,11 +67,6 @@ date: Last Modified
 ## Equipment
 * [Chainsaw](./topics/features/equipment/chainsaw.md)
 * [Jetpack](./topics/features/equipment/jetpack.md)
-
-## Fluids
-* [Pipes](./topics/features/fluids/pipes.md)
-* [Pumps](./topics/features/fluids/pumps.md)
-* [Valves](./topics/features/fluids/valves.md)
 
 ## Planned Features
 * [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
@@ -100,6 +99,11 @@ date: Last Modified
 
 ## Unreleased Features
 * [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
+
+## Fluids
+* [Pipes](./topics/features/fluids/pipes.md)
+* [Pumps](./topics/features/fluids/pumps.md)
+* [Valves](./topics/features/fluids/valves.md)
 
 # Mods
 * [Mods](./topics/mods.md)

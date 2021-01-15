@@ -3,14 +3,14 @@ title: "November 10th, 2020 Livestream Jace Talk: Ben is awesome"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - ""
+    - "coffee-stainers/ben"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Jace Talk: Ben is awesome
 https://www.youtube.com/watch?v=jSEd3fDu6KE
 
 ### Topics
-
+* [Coffee Stainers > Ben](../topics/coffee-stainers/ben.md)
 
 ### Transcript
 

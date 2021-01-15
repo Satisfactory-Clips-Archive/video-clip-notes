@@ -319,6 +319,12 @@ date: Last Modified
 * Q&A: How about Creative Mode? https://www.youtube.com/watch?v=pFc0pdgYnlU
 
 
+# Gases
+
+## March 9th, 2019
+* Q&A: Collect Fart Gas for fuel? https://www.youtube.com/watch?v=O5R_YmTmXUI
+
+
 # Geothermal Energy
 
 ## November 17th, 2020

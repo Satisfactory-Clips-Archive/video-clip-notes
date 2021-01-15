@@ -22,6 +22,9 @@ date: Last Modified
 * [Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?](../../../transcriptions/yt-pSGEDxxLn2E.md) https://www.youtube.com/watch?v=pSGEDxxLn2E
 * [Q&A: Will RTX be added to Update 4 with the new Unreal Engine?](../../../transcriptions/yt-RubFX693enI.md) https://www.youtube.com/watch?v=RubFX693enI
 
+# December 11th, 2020 Teasers
+* [New Parts coming in Update 4](../../../transcriptions/yt-njXBs_p2l1w.md) https://www.youtube.com/watch?v=njXBs_p2l1w
+
 # December 8th, 2020 Livestream
 * [State of Dev: Update 4](../../../transcriptions/yt-8tiGIPGptWQ.md) https://www.youtube.com/watch?v=8tiGIPGptWQ
 * [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../../transcriptions/yt-42AzC9Qk2yc.md) https://www.youtube.com/watch?v=42AzC9Qk2yc

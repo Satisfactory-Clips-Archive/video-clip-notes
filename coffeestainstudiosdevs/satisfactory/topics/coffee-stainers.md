@@ -23,9 +23,6 @@ date: Last Modified
 * [Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"](../transcriptions/yt-hCcT5uhzwso.md) https://www.youtube.com/watch?v=hCcT5uhzwso
 * [Q&A: Who is Hannah?](../transcriptions/yt-KwsiVfRUKNE.md) https://www.youtube.com/watch?v=KwsiVfRUKNE
 
-# November 10th, 2020 Livestream
-* [Jace Talk: Ben is awesome](../transcriptions/yt-jSEd3fDu6KE.md) https://www.youtube.com/watch?v=jSEd3fDu6KE
-
 # September 29th, 2020 Livestream
 * [Q&A: Will there be a stream or something with Hannah?](../transcriptions/yt-YM0ojMjT1mU.md) https://www.youtube.com/watch?v=YM0ojMjT1mU
 

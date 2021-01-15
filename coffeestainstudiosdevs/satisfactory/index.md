@@ -44,7 +44,9 @@ layout: index
 ## December 2020
 * [December 1st, 2020](2020-12-01.md)
 * [December 8th, 2020](2020-12-08.md)
+* [December 11th, 2020](2020-12-11.md)
 * [December 15th, 2020](2020-12-15.md)
 
 ## January 2021
 * [January 12th, 2021](2021-01-12.md)
+* [January 15th, 2021](2021-01-15.md)
