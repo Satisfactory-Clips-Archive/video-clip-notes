@@ -1,5 +1,5 @@
 ---
-title: "Satisfactory Updates > Seasonal Events"
+title: "Q&A Clips Archive - Satisfactory Updates > Seasonal Events"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Satisfactory Updates > Seasonal Events

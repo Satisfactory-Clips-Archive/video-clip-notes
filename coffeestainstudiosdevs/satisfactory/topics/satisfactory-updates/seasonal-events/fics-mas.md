@@ -1,5 +1,5 @@
 ---
-title: "Satisfactory Updates > Seasonal Events > FICS⁕MAS"
+title: "Q&A Clips Archive - Satisfactory Updates > Seasonal Events > FICS⁕MAS"
 date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Seasonal Events > FICS⁕MAS

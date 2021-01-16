@@ -1,5 +1,5 @@
 ---
-title: "Features > Equipment > Jetpack"
+title: "Q&A Clips Archive - Features > Equipment > Jetpack"
 date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Equipment > Jetpack

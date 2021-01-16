@@ -1,5 +1,5 @@
 ---
-title: "Features > Power Management > Green Energy"
+title: "Q&A Clips Archive - Features > Power Management > Green Energy"
 date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Power Management > Green Energy

@@ -1,5 +1,5 @@
 ---
-title: "Features > Crafting > Superposition Oscillator"
+title: "Q&A Clips Archive - Features > Crafting > Superposition Oscillator"
 date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Crafting > Superposition Oscillator

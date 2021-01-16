@@ -1,5 +1,5 @@
 ---
-title: "Merch"
+title: "Q&A Clips Archive - Merch"
 date: Last Modified
 ---
 [Topics](../topics.md) > Merch

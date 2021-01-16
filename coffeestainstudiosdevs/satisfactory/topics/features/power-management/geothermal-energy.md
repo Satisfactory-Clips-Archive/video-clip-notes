@@ -1,5 +1,5 @@
 ---
-title: "Features > Power Management > Geothermal Energy"
+title: "Q&A Clips Archive - Features > Power Management > Geothermal Energy"
 date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Power Management > Geothermal Energy
