@@ -1,7 +1,6 @@
 ---
 title: Q&A Clips Archive - Browse
 date: Last Modified
-layout: index
 ---
 # Archives
 * [FAQ](FAQ.md)
