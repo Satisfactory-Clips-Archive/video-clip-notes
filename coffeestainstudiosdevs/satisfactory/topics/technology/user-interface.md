@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Technology > User Interface"
+title: "Technology > User Interface"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Technology > User Interface

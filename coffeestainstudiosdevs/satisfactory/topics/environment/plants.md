@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Environment > Plants"
+title: "Environment > Plants"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > Plants

@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Environment > Pollution"
+title: "Environment > Pollution"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > Pollution

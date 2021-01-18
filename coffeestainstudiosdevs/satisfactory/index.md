@@ -1,5 +1,5 @@
 ---
-title: Q&A Clips Archive - Browse
+title: Browse
 date: Last Modified
 layout: index
 ---

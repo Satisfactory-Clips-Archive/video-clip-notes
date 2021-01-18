@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Frequently Asked Questions"
+title: "Frequently Asked Questions"
 date: Last Modified
 ---
 # Accessibility

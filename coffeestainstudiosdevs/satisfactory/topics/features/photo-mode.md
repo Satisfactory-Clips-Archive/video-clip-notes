@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Photo Mode"
+title: "Features > Photo Mode"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Photo Mode

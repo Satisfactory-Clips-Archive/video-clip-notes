@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Off-Topic"
+title: "Off-Topic"
 date: Last Modified
 ---
 [Topics](../topics.md) > Off-Topic

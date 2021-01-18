@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Buildings > Resource Well Pressurizer"
+title: "Features > Buildings > Resource Well Pressurizer"
 date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Buildings > Resource Well Pressurizer

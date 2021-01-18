@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Paint"
+title: "Features > Paint"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Paint

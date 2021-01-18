@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Trolling"
+title: "Trolling"
 date: Last Modified
 ---
 [Topics](../topics.md) > Trolling

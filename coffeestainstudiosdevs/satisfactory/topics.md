@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Browse Topics"
+title: "Browse Topics"
 date: Last Modified
 ---
 * [Coffee Stainers](./topics/coffee-stainers.md)

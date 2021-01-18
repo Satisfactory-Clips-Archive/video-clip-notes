@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Power Management"
+title: "Features > Power Management"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Power Management

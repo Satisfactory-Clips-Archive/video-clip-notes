@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Buildables > Walls"
+title: "Features > Buildables > Walls"
 date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Buildables > Walls

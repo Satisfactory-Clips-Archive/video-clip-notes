@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Coffee Stainers > Jace"
+title: "Coffee Stainers > Jace"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Coffee Stainers > Jace

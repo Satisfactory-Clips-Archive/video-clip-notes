@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Accessibility > Arachnophobia Mode"
+title: "Accessibility > Arachnophobia Mode"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Accessibility > Arachnophobia Mode

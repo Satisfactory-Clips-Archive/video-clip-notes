@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Buildings"
+title: "Features > Buildings"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Buildings

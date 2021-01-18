@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Buildables > Conveyor Belts"
+title: "Features > Buildables > Conveyor Belts"
 date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Buildables > Conveyor Belts

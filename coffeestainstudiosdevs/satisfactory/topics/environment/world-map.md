@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Environment > World Map"
+title: "Environment > World Map"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > World Map

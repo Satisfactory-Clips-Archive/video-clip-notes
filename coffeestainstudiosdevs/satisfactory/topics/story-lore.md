@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Story & Lore"
+title: "Story & Lore"
 date: Last Modified
 ---
 [Topics](../topics.md) > Story & Lore

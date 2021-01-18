@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Coffee Stainers"
+title: "Coffee Stainers"
 date: Last Modified
 ---
 [Topics](../topics.md) > Coffee Stainers

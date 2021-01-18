@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Coffee Stainers > Snutt"
+title: "Coffee Stainers > Snutt"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Coffee Stainers > Snutt

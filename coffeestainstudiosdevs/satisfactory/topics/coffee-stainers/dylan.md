@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Coffee Stainers > Dylan"
+title: "Coffee Stainers > Dylan"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Coffee Stainers > Dylan

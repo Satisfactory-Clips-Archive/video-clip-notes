@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Satisfactory Updates > Pending > Satisfactory Update 4"
+title: "Satisfactory Updates > Pending > Satisfactory Update 4"
 date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory Update 4

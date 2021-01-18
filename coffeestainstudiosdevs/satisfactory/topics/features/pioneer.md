@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Pioneer"
+title: "Features > Pioneer"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Pioneer

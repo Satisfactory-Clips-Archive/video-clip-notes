@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Tiers"
+title: "Features > Tiers"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Tiers

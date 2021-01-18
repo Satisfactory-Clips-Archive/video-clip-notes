@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Equipment > Chainsaw"
+title: "Features > Equipment > Chainsaw"
 date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Equipment > Chainsaw

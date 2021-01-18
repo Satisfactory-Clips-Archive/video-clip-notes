@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Technology > Graphics"
+title: "Technology > Graphics"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Technology > Graphics

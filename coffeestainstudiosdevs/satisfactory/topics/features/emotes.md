@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Emotes"
+title: "Features > Emotes"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Emotes

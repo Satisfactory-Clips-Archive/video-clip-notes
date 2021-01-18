@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Special Guests"
+title: "Special Guests"
 date: Last Modified
 ---
 [Topics](../topics.md) > Special Guests

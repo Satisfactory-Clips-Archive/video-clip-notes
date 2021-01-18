@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Coffee Stainers > Simon"
+title: "Coffee Stainers > Simon"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Coffee Stainers > Simon

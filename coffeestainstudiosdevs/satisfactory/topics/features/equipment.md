@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Equipment"
+title: "Features > Equipment"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Equipment

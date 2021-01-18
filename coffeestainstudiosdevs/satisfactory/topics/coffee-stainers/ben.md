@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Coffee Stainers > Ben"
+title: "Coffee Stainers > Ben"
 date: Last Modified
 ---
 [Topics](../../topics.md) > Coffee Stainers > Ben

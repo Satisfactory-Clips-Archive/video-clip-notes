@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Planned Features > Signs"
+title: "Features > Planned Features > Signs"
 date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Planned Features > Signs

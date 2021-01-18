@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Wiki"
+title: "Wiki"
 date: Last Modified
 ---
 [Topics](../topics.md) > Wiki

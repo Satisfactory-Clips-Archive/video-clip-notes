@@ -1,5 +1,5 @@
 ---
-title: "Q&A Clips Archive - Features > Transportation > Vehicles"
+title: "Features > Transportation > Vehicles"
 date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Transportation > Vehicles
