@@ -3,6 +3,7 @@ title: "November 3rd, 2020 Livestream Q&A: Any idea about Official Modding?"
 date: "2020-11-03"
 layout: transcript
 topics:
+    - "mods/official-mod-support"
     - "mods"
     - "features/planned-features/dedicated-servers"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=D5-Y6LYR7jk
 
 ### Topics
+* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
 * [Mods](../topics/mods.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 

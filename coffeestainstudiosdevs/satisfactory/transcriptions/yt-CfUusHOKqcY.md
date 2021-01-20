@@ -3,6 +3,7 @@ title: "October 20th, 2020 Livestream Q&A: Can we train Lizard Doggos to feed Bi
 date: "2020-10-20"
 layout: transcript
 topics:
+    - "environment/creatures/lizard-doggo"
     - "environment/creatures"
     - "features/power-management"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=CfUusHOKqcY
 
 ### Topics
+* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Features > Power Management](../topics/features/power-management.md)
 

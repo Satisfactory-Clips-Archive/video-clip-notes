@@ -3,6 +3,7 @@ title: "November 10th, 2020 Livestream Q&A: When are the next stages in the HUB?
 date: "2020-11-10"
 layout: transcript
 topics:
+    - "features/buildings/the-hub"
     - "features/tiers"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=m4ur5WEWkRY
 
 ### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Tiers](../topics/features/tiers.md)
 
 ### Transcript

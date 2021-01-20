@@ -3,6 +3,7 @@ title: "September 22nd, 2020 Livestream Q&A: Snowy Biome confirmed?"
 date: "2020-09-22"
 layout: transcript
 topics:
+    - "environment/biomes"
     - "environment/world-map"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=Yend7bHTMvw
 
 ### Topics
+* [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript

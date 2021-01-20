@@ -3,14 +3,14 @@ title: "September 15th, 2020 Livestream Q&A: Satisfactory / Sanctum cross-over?"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - ""
+    - "off-topic/sanctum"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Satisfactory / Sanctum cross-over?
 https://www.youtube.com/watch?v=1LMD6kBcsec
 
 ### Topics
-
+* [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
 
 ### Transcript
 

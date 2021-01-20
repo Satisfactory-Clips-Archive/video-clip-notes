@@ -3,6 +3,7 @@ title: "March 9th, 2019 Livestream Q&A: Collect Fart Gas for fuel?"
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "features/crafting/fuel"
     - "features/gases"
     - "environment/resources"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=O5R_YmTmXUI
 
 ### Topics
+* [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
 * [Features > Gases](../topics/features/gases.md)
 * [Environment > Resources](../topics/environment/resources.md)
 

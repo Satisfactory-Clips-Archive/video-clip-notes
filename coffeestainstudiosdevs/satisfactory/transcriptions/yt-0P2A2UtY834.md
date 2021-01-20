@@ -3,6 +3,7 @@ title: "March 9th, 2019 Livestream Jace Talk: Space Elevator"
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "features/buildings/space-elevator"
     - "features/buildings"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=0P2A2UtY834
 
 ### Topics
+* [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
 * [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript

@@ -3,14 +3,14 @@ title: "September 22nd, 2020 Livestream Q&A: Why is there only Female option and
 date: "2020-09-22"
 layout: transcript
 topics:
-    - ""
+    - "environment/creatures/lizard-doggo"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Why is there only Female option and no Doggo option?
 https://www.youtube.com/watch?v=LzokNbLJWfk
 
 ### Topics
-
+* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 
 ### Transcript
 

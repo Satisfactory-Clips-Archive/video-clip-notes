@@ -3,6 +3,7 @@ title: "March 9th, 2019 Livestream Q&A: Are you guys planning to add any terrafo
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "features/unplanned-features/terraforming"
     - "environment/world-map"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=DW0MT8G-wMI
 
 ### Topics
+* [Features > Unplanned Features > Terraforming](../topics/features/unplanned-features/terraforming.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript

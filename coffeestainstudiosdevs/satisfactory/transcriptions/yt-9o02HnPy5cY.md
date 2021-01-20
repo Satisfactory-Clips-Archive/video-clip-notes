@@ -3,14 +3,14 @@ title: "October 6th, 2020 Livestream Q&A: When is the Hub bed going to work like
 date: "2020-10-06"
 layout: transcript
 topics:
-    - ""
+    - "features/buildings/the-hub"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: When is the Hub bed going to work like the Minecraft one?
 https://www.youtube.com/watch?v=9o02HnPy5cY
 
 ### Topics
-
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 
 ### Transcript
 

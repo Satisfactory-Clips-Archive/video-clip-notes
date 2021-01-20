@@ -3,6 +3,7 @@ title: "September 22nd, 2020 Livestream Q&A: Does destroying trees & rocks make 
 date: "2020-09-22"
 layout: transcript
 topics:
+    - "environment/plants"
     - "technology/graphics"
     - "features/multiplayer"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=vOJIZQfzcUk
 
 ### Topics
+* [Environment > Plants](../topics/environment/plants.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 

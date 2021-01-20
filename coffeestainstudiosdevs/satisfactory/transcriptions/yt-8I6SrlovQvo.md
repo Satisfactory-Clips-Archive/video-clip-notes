@@ -3,6 +3,8 @@ title: "October 27th, 2020 Livestream Q&A: When you have 200,000 Foundations, Wa
 date: "2020-10-27"
 layout: transcript
 topics:
+    - "features/buildables/walls"
+    - "features/buildables/foundations"
     - "technology/graphics"
     - "features/unplanned-features/mass-building"
 ---
@@ -11,6 +13,8 @@ topics:
 https://www.youtube.com/watch?v=8I6SrlovQvo
 
 ### Topics
+* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 

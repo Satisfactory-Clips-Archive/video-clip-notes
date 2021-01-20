@@ -3,6 +3,7 @@ title: "October 20th, 2020 Livestream Q&A: Will the Packing machine cost the sam
 date: "2020-10-20"
 layout: transcript
 topics:
+    - "features/buildings/refinery"
     - "features/buildings/packager"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "features/power-management"
@@ -12,6 +13,7 @@ topics:
 https://www.youtube.com/watch?v=jhq2XmKDz9M
 
 ### Topics
+* [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Features > Power Management](../topics/features/power-management.md)

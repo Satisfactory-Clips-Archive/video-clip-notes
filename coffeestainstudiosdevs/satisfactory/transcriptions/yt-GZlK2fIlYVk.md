@@ -3,6 +3,7 @@ title: "March 9th, 2019 Livestream Q&A: Another game mode with a procedurally ge
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "features/unplanned-features/procedural-generation"
     - "features/possible-features/game-modes"
     - "environment/world-map"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=GZlK2fIlYVk
 
 ### Topics
+* [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 

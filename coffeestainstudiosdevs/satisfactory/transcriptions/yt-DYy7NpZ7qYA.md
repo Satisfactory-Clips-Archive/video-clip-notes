@@ -3,6 +3,7 @@ title: "September 29th, 2020 Livestream Q&A: Why is there a trade-off with Nucle
 date: "2020-09-29"
 layout: transcript
 topics:
+    - "environment/resources/oil"
     - "features/power-management/nuclear-energy"
     - "features/power-management"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=DYy7NpZ7qYA
 
 ### Topics
+* [Environment > Resources > Oil](../topics/environment/resources/oil.md)
 * [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
 * [Features > Power Management](../topics/features/power-management.md)
 

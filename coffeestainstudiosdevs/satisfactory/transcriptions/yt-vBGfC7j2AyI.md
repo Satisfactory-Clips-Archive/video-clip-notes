@@ -3,6 +3,7 @@ title: "September 29th, 2020 Livestream Q&A: How much S.A.M. Ore should we stock
 date: "2020-09-29"
 layout: transcript
 topics:
+    - "environment/resources/sam-ore"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=vBGfC7j2AyI
 
 ### Topics
+* [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript

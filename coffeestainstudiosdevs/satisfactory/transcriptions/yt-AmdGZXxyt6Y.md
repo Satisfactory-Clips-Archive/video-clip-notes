@@ -1,16 +1,18 @@
 ---
-title: "December 8th, 2020 Livestream Jace Talk: Natalie"
+title: "December 8th, 2020 Livestream Jace Talk: Nathalie"
 date: "2020-12-08"
 layout: transcript
 topics:
+    - "coffee-stainers/nathalie"
     - "satisfactory-updates/satisfactory-2017"
     - "technology/user-interface"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
-## Jace Talk: Natalie
+## Jace Talk: Nathalie
 https://www.youtube.com/watch?v=AmdGZXxyt6Y
 
 ### Topics
+* [Coffee Stainers > Nathalie](../topics/coffee-stainers/nathalie.md)
 * [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

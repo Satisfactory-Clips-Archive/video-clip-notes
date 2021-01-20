@@ -3,7 +3,7 @@ title: "January 12th, 2021 Livestream Q&A: What's happening with S.A.M. Ore?"
 date: "2021-01-12"
 layout: transcript
 topics:
-    - "environment/resources"
+    - "environment/resources/sam-ore"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=f0Z9VIAK5Iw
 
 ### Topics
-* [Environment > Resources](../topics/environment/resources.md)
+* [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript

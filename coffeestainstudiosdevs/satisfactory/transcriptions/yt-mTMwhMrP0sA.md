@@ -3,6 +3,7 @@ title: "September 15th, 2020 Livestream Q&A: Protective Walls against Radiation?
 date: "2020-09-15"
 layout: transcript
 topics:
+    - "features/buildables/walls"
     - "features/buildings"
     - "features/power-management"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=mTMwhMrP0sA
 
 ### Topics
+* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Power Management](../topics/features/power-management.md)
 

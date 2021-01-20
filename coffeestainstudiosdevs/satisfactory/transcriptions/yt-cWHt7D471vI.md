@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: Pizza with seafood?"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - ""
+    - "off-topic/pizza"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Pizza with seafood?
 https://www.youtube.com/watch?v=cWHt7D471vI
 
 ### Topics
-
+* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
 
 ### Transcript
 

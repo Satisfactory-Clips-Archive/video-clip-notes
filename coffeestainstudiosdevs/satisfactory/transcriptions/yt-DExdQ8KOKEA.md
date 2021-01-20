@@ -3,6 +3,7 @@ title: "October 20th, 2020 Livestream Q&A: Can we get different spawn points not
 date: "2020-10-20"
 layout: transcript
 topics:
+    - "features/buildings/the-hub"
     - "environment/world-map"
     - "features/multiplayer"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=DExdQ8KOKEA
 
 ### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 

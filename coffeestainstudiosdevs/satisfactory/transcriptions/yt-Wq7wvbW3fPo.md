@@ -3,6 +3,7 @@ title: "November 3rd, 2020 Livestream Q&A: Will we have Paintable Vehicles?"
 date: "2020-11-03"
 layout: transcript
 topics:
+    - "features/paint"
     - "features/transportation/vehicles"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=Wq7wvbW3fPo
 
 ### Topics
+* [Features > Paint](../topics/features/paint.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 
 ### Transcript

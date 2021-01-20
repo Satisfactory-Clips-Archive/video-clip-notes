@@ -4,6 +4,7 @@ date: "2020-09-01"
 layout: transcript
 topics:
     - "features/buildings"
+    - "features/buildings/awesome-sink"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will there be something like the Resource Sink but for Fluids?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=nT4pfUlmZBs
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > AWESOME Sink](../topics/features/buildings/awesome-sink.md)
 
 ### Transcript
 

@@ -3,6 +3,7 @@ title: "September 22nd, 2020 Livestream Q&A: Flying Lizard Doggos, when?"
 date: "2020-09-22"
 layout: transcript
 topics:
+    - "environment/creatures/lizard-doggo"
     - "environment/creatures"
     - "features/unplanned-features/aerial-travel"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=p-f_kfmUdR0
 
 ### Topics
+* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 

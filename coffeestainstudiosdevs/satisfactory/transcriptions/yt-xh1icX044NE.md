@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Snutt, Simon, & Jace Talk: Satisfactory & Goa
 date: "2019-03-09"
 layout: transcript
 topics:
-    - ""
+    - "off-topic/goat-simulator"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, & Jace Talk: Satisfactory & Goat Simulator development
 https://www.youtube.com/watch?v=xh1icX044NE
 
 ### Topics
-
+* [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 
 ### Transcript
 

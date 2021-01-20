@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Jace Talk: Legacy of Goat Simulator & launchi
 date: "2019-03-09"
 layout: transcript
 topics:
-    - ""
+    - "off-topic/goat-simulator"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Jace Talk: Legacy of Goat Simulator & launching Satisfactory
 https://www.youtube.com/watch?v=z2fpvMakuCY
 
 ### Topics
-
+* [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 
 ### Transcript
 

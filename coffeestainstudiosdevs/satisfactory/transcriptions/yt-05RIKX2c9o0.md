@@ -3,6 +3,7 @@ title: "October 6th, 2020 Livestream Q&A: Plans for small Hub storage container?
 date: "2020-10-06"
 layout: transcript
 topics:
+    - "features/buildings/the-hub"
     - "features/buildings"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=05RIKX2c9o0
 
 ### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript

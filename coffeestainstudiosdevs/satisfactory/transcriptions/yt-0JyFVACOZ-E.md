@@ -3,6 +3,7 @@ title: "October 6th, 2020 Livestream Q&A: Is it safe to set up 1000 Turbo Fuel G
 date: "2020-10-06"
 layout: transcript
 topics:
+    - "features/crafting/fuel"
     - "features/fluids"
     - "features/buildings"
     - "features/power-management"
@@ -13,6 +14,7 @@ topics:
 https://www.youtube.com/watch?v=0JyFVACOZ-E
 
 ### Topics
+* [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
 * [Features > Fluids](../topics/features/fluids.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Power Management](../topics/features/power-management.md)

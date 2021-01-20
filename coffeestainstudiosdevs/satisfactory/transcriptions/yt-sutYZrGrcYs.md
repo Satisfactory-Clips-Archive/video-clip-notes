@@ -3,14 +3,14 @@ title: "September 29th, 2020 Livestream Snutt Talk: State of Dev summary"
 date: "2020-09-29"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates/state-of-dev"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Snutt Talk: State of Dev summary
 https://www.youtube.com/watch?v=sutYZrGrcYs
 
 ### Topics
-
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript
 

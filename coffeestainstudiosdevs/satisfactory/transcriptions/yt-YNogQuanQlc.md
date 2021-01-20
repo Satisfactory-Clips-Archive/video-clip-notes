@@ -3,6 +3,7 @@ title: "September 1st, 2020 Livestream Q&A: Are we going to be able to get the S
 date: "2020-09-01"
 layout: transcript
 topics:
+    - "features/buildings/space-elevator"
     - "features/buildings"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=YNogQuanQlc
 
 ### Topics
+* [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
 * [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript

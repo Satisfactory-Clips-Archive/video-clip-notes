@@ -3,6 +3,7 @@ title: "September 8th, 2020 Livestream Q&A: Secondary Hub/Spawn Point ?"
 date: "2020-09-08"
 layout: transcript
 topics:
+    - "features/buildings/the-hub"
     - "features/buildings"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=MjQNNzVfZTY
 
 ### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript

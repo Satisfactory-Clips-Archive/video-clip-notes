@@ -4,6 +4,7 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "mods/mods-vs-features"
+    - "mods"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Lamposts be copy/pasted from the mods be copy/pasted like Fluid Packager was copy/pasted?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=P2EUFf4poKg
 
 ### Topics
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Mods](../topics/mods.md)
 
 ### Transcript
 

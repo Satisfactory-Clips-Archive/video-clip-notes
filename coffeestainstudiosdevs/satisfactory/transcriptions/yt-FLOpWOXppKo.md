@@ -4,6 +4,7 @@ date: "2020-12-08"
 layout: transcript
 topics:
     - "mods/mods-vs-features"
+    - "mods"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt Talk: We had windows before Mods.
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=FLOpWOXppKo
 
 ### Topics
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Mods](../topics/mods.md)
 
 ### Transcript
 

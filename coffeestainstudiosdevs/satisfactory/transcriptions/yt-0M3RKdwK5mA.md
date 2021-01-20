@@ -3,6 +3,7 @@ title: "September 15th, 2020 Livestream Q&A: Official Mod support?"
 date: "2020-09-15"
 layout: transcript
 topics:
+    - "mods/official-mod-support"
     - "mods"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=0M3RKdwK5mA
 
 ### Topics
+* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
 * [Mods](../topics/mods.md)
 
 ### Transcript

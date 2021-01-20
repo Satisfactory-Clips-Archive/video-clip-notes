@@ -3,6 +3,7 @@ title: "September 8th, 2020 Livestream Q&A: Any more tiers in 3.5?"
 date: "2020-09-08"
 layout: transcript
 topics:
+    - "features/tiers"
     - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=55GiH8YwDds
 
 ### Topics
+* [Features > Tiers](../topics/features/tiers.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript

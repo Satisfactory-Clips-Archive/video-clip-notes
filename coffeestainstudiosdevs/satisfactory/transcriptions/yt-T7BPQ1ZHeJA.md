@@ -3,6 +3,7 @@ title: "September 1st, 2020 Livestream Q&A: Would geothermal generators get a bu
 date: "2020-09-01"
 layout: transcript
 topics:
+    - "features/power-management/geothermal-energy"
     - "features/power-management"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=T7BPQ1ZHeJA
 
 ### Topics
+* [Features > Power Management > Geothermal Energy](../topics/features/power-management/geothermal-energy.md)
 * [Features > Power Management](../topics/features/power-management.md)
 
 ### Transcript

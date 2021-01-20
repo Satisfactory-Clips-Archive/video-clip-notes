@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Q&A: When do we get Twitch Subscribe/Emot
 date: "2020-11-17"
 layout: transcript
 topics:
-    - ""
+    - "features/emotes"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: When do we get Twitch Subscribe/Emote options?
 https://www.youtube.com/watch?v=1oMDAPZ2bZ4
 
 ### Topics
-
+* [Features > Emotes](../topics/features/emotes.md)
 
 ### Transcript
 

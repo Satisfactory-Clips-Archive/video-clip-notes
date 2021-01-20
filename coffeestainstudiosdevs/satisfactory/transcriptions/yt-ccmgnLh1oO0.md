@@ -3,6 +3,7 @@ title: "November 17th, 2020 Livestream Q&A: Any idea when Sommersloop, Mercer Sp
 date: "2020-11-17"
 layout: transcript
 topics:
+    - "environment/resources/sam-ore"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=ccmgnLh1oO0
 
 ### Topics
+* [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript

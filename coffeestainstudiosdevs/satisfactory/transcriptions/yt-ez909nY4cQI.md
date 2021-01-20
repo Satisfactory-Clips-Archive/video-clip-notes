@@ -3,6 +3,7 @@ title: "October 27th, 2020 Livestream Q&A: Any plans to let us cycle through Fou
 date: "2020-10-27"
 layout: transcript
 topics:
+    - "features/buildables/foundations"
     - "technology/user-interface"
 ---
 # [October 27th, 2020 Livestream](../2020-10-27.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=ez909nY4cQI
 
 ### Topics
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

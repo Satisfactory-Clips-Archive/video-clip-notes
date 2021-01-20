@@ -3,6 +3,7 @@ title: "October 20th, 2020 Livestream Q&A: Will Colour Gun work on Vehicles in t
 date: "2020-10-20"
 layout: transcript
 topics:
+    - "features/paint"
     - "features/transportation/vehicles"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=J8M7X0igt2w
 
 ### Topics
+* [Features > Paint](../topics/features/paint.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 
 ### Transcript

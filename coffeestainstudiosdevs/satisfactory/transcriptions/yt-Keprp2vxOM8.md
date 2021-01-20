@@ -3,6 +3,7 @@ title: "January 12th, 2021 Livestream Q&A: Can we blend Lizard Doggos in the new
 date: "2021-01-12"
 layout: transcript
 topics:
+    - "environment/creatures/lizard-doggo"
     - "features/buildings/blender"
     - "environment/creatures"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=Keprp2vxOM8
 
 ### Topics
+* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Features > Buildings > Blender](../topics/features/buildings/blender.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 

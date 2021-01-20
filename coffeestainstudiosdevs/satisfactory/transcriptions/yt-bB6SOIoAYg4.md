@@ -3,6 +3,7 @@ title: "March 9th, 2019 Livestream Q&A: Where is Lizard Doggo?"
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "environment/creatures/lizard-doggo"
     - "environment/creatures"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=bB6SOIoAYg4
 
 ### Topics
+* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript

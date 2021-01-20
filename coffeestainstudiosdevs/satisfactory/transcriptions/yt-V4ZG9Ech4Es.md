@@ -3,14 +3,14 @@ title: "September 8th, 2020 Livestream Q&A: Are Sanctum and Satisfactory in the 
 date: "2020-09-08"
 layout: transcript
 topics:
-    - ""
+    - "off-topic/sanctum"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Are Sanctum and Satisfactory in the same Universe?
 https://www.youtube.com/watch?v=V4ZG9Ech4Es
 
 ### Topics
-
+* [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
 
 ### Transcript
 

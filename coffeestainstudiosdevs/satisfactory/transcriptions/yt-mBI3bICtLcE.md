@@ -3,14 +3,14 @@ title: "October 27th, 2020 Livestream Jace & Snutt Talk: State of Dev"
 date: "2020-10-27"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates/state-of-dev"
 ---
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Jace & Snutt Talk: State of Dev
 https://www.youtube.com/watch?v=mBI3bICtLcE
 
 ### Topics
-
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript
 

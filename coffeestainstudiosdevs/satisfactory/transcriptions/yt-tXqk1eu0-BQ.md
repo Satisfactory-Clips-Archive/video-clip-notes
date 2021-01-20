@@ -3,14 +3,14 @@ title: "October 20th, 2020 Livestream Q&A: What's the secret behind S.A.M. Ore?"
 date: "2020-10-20"
 layout: transcript
 topics:
-    - ""
+    - "environment/resources/sam-ore"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: What's the secret behind S.A.M. Ore?
 https://www.youtube.com/watch?v=tXqk1eu0-BQ
 
 ### Topics
-
+* [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
 
 ### Transcript
 

@@ -3,6 +3,7 @@ title: "December 8th, 2020 Livestream Q&A: Are there spiders in this build?"
 date: "2020-12-08"
 layout: transcript
 topics:
+    - "accessibility/arachnophobia-mode"
     - "satisfactory-updates/satisfactory-2017"
     - "environment/creatures"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=KKtqXo-Zzqo
 
 ### Topics
+* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
 * [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 

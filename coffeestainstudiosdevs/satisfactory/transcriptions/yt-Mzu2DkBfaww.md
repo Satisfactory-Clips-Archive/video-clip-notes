@@ -3,6 +3,7 @@ title: "October 27th, 2020 Livestream Snutt Talk: New Refinery model"
 date: "2020-10-27"
 layout: transcript
 topics:
+    - "features/buildings/refinery"
     - "technology/graphics"
     - "features/buildings"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=Mzu2DkBfaww
 
 ### Topics
+* [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 * [Features > Buildings](../topics/features/buildings.md)
 

@@ -3,6 +3,7 @@ title: "December 8th, 2020 Livestream Q&A: Do you know what caused the Lizard Do
 date: "2020-12-08"
 layout: transcript
 topics:
+    - "environment/creatures/lizard-doggo"
     - "satisfactory-updates/seasonal-events/fics-mas"
     - "environment/creatures"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=4M85D1XUDlU
 
 ### Topics
+* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 

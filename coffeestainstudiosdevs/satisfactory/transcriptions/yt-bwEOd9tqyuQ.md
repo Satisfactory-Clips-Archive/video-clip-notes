@@ -3,6 +3,7 @@ title: "October 6th, 2020 Livestream Q&A: If you have a full inventory you can r
 date: "2020-10-06"
 layout: transcript
 topics:
+    - "environment/plants"
     - "features/equipment/chainsaw"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=bwEOd9tqyuQ
 
 ### Topics
+* [Environment > Plants](../topics/environment/plants.md)
 * [Features > Equipment > Chainsaw](../topics/features/equipment/chainsaw.md)
 
 ### Transcript

@@ -4,6 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "mods/official-mod-support"
+    - "mods"
     - "features/planned-features/dedicated-servers"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=WEq2xEXVVQ0
 
 ### Topics
 * [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
+* [Mods](../topics/mods.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 
 ### Transcript

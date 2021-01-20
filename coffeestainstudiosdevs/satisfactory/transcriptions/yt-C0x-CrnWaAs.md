@@ -3,14 +3,14 @@ title: "September 15th, 2020 Livestream Snutt & Jace Talk: State of Dev Summary"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates/state-of-dev"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Snutt & Jace Talk: State of Dev Summary
 https://www.youtube.com/watch?v=C0x-CrnWaAs
 
 ### Topics
-
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript
 

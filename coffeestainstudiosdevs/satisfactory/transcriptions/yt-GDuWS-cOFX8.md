@@ -3,6 +3,7 @@ title: "October 20th, 2020 Livestream Q&A: Will Dedicated Servers have Multiple 
 date: "2020-10-20"
 layout: transcript
 topics:
+    - "features/buildings/the-hub"
     - "features/planned-features/dedicated-servers"
     - "features/multiplayer"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=GDuWS-cOFX8
 
 ### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 

@@ -3,6 +3,7 @@ title: "November 17th, 2020 Livestream Trolling: Goat Simulator DLC"
 date: "2020-11-17"
 layout: transcript
 topics:
+    - "off-topic/goat-simulator"
     - "features/possible-features/dlc"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=yXp4YAvRZHg
 
 ### Topics
+* [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
 
 ### Transcript

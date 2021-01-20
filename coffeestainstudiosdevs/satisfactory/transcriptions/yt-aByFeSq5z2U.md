@@ -3,6 +3,7 @@ title: "October 20th, 2020 Livestream Q&A: Can we get multiple Hubs?"
 date: "2020-10-20"
 layout: transcript
 topics:
+    - "features/buildings/the-hub"
     - "features/multiplayer"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=aByFeSq5z2U
 
 ### Topics
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 
 ### Transcript

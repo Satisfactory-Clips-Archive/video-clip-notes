@@ -3,6 +3,7 @@ title: "September 22nd, 2020 Livestream Q&A: Is it better during a Multiplayer s
 date: "2020-09-22"
 layout: transcript
 topics:
+    - "environment/plants"
     - "features/multiplayer"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=v0UZaH3mXh4
 
 ### Topics
+* [Environment > Plants](../topics/environment/plants.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 
 ### Transcript

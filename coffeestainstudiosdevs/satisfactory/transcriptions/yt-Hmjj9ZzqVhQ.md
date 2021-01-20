@@ -3,6 +3,7 @@ title: "September 29th, 2020 Livestream Jace & Snutt Talk: State of Dev"
 date: "2020-09-29"
 layout: transcript
 topics:
+    - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=Hmjj9ZzqVhQ
 
 ### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 

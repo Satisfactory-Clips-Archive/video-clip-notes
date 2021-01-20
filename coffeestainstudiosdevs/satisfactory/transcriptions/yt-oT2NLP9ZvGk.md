@@ -3,6 +3,7 @@ title: "September 22nd, 2020 Livestream Snutt & Jace Talk: State of Dev (Unreal 
 date: "2020-09-22"
 layout: transcript
 topics:
+    - "satisfactory-updates/state-of-dev"
     - "technology/unreal-engine"
     - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=oT2NLP9ZvGk
 
 ### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
