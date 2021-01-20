@@ -4,6 +4,14 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > World Map
 
+# January 19th, 2021 Livestream
+* [Q&A: Do we know where the new Resource Wells be placed?](../../transcriptions/yt-pMAE5-tkdGg.md) https://www.youtube.com/watch?v=pMAE5-tkdGg
+* [Snutt & Mark Talk: Building a megabase over the top of a new Resource Well or new mountain.](../../transcriptions/yt-KF8AhiHW1o0.md) https://www.youtube.com/watch?v=KF8AhiHW1o0
+* [Q&A: Are you still planning Underground Biomes?](../../transcriptions/yt-zho1Gn_x76w.md) https://www.youtube.com/watch?v=zho1Gn_x76w
+* [Q&A: Is the Map finalised, as in there will be no more additions?](../../transcriptions/yt-zVnmYZemxe8.md) https://www.youtube.com/watch?v=zVnmYZemxe8
+* [Q&A: What about the island off to the west of the Map?](../../transcriptions/yt-VjKPXr_e5yk.md) https://www.youtube.com/watch?v=VjKPXr_e5yk
+* [Q&A: What about an opional grid to put all Foundations all aligned around the Map?](../../transcriptions/yt-Xi9S_sVklB8.md) https://www.youtube.com/watch?v=Xi9S_sVklB8
+
 # January 12th, 2021 Livestream
 * [Q&A: Which Biome will be rebuilt?](../../transcriptions/yt-5v0_pFbQLF4.md) https://www.youtube.com/watch?v=5v0_pFbQLF4
 
@@ -85,6 +93,18 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * [Q&A: Map expansion ?](../../transcriptions/yt-2ZHnQ9U4f9I.md) https://www.youtube.com/watch?v=2ZHnQ9U4f9I
 * [Q&A: Let Hannah finish her work on the map before expanding?](../../transcriptions/yt-wZOVw8KV1rQ.md) https://www.youtube.com/watch?v=wZOVw8KV1rQ
+
+# December 19th, 2019 Livestream
+* [Q&A: Is Hannah working on a new level?](../../transcriptions/yt-gcdDfoBWaog.md) https://www.youtube.com/watch?v=gcdDfoBWaog
+* [Q&A: What's Hannah's take on rocks that aren't on the ground?](../../transcriptions/yt-y8FchPasYvI.md) https://www.youtube.com/watch?v=y8FchPasYvI
+* [Q&A: What's Hannah's favourite part of level design?](../../transcriptions/yt-sDZjuyYO-zE.md) https://www.youtube.com/watch?v=sDZjuyYO-zE
+* [Hannah Talk: Non-buoyant water](../../transcriptions/yt-lbjhdAumMKc.md) https://www.youtube.com/watch?v=lbjhdAumMKc
+* [Q&A: Are there any Easter Eggs in the landscape?](../../transcriptions/yt-06YaY3zGZeg.md) https://www.youtube.com/watch?v=06YaY3zGZeg
+* [Q&A: Will we get a bigger World Map?](../../transcriptions/yt-TfKysphS2S4.md) https://www.youtube.com/watch?v=TfKysphS2S4
+* [Snutt & Hannah Talk: Hannah wants to delete the map.](../../transcriptions/yt-_bVk1N0dvDY.md) https://www.youtube.com/watch?v=_bVk1N0dvDY
+* [Q&A: Will there be larger underground spaces?](../../transcriptions/yt-cuGHH7KF9BI.md) https://www.youtube.com/watch?v=cuGHH7KF9BI
+* [Q&A: Underwater Worlds?](../../transcriptions/yt-QXK9y3pnWGg.md) https://www.youtube.com/watch?v=QXK9y3pnWGg
+* [Q&A: Is there going to be a way to destroy the fart rock?](../../transcriptions/yt-byPiSQZOAhw.md) https://www.youtube.com/watch?v=byPiSQZOAhw
 
 # March 9th, 2019 Livestream
 * [Q&A: The map is pre-made, not procedurally generated?](../../transcriptions/yt-229Wl8AMQx8.md) https://www.youtube.com/watch?v=229Wl8AMQx8

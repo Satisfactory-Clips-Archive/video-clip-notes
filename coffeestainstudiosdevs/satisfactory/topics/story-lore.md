@@ -65,6 +65,11 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * [Q&A: Will Story happen in Update 4?](../transcriptions/yt-_I0dz6Zop0w.md) https://www.youtube.com/watch?v=_I0dz6Zop0w
 
+# December 19th, 2019 Livestream
+* [Q&A: What's Hannah's take on rocks that aren't on the ground?](../transcriptions/yt-y8FchPasYvI.md) https://www.youtube.com/watch?v=y8FchPasYvI
+* [Q&A: Is there going to be a storyline?](../transcriptions/yt-mFxik_NlE0w.md) https://www.youtube.com/watch?v=mFxik_NlE0w
+* [Q&A: Will Mercer Spheres and Somersloops be useful soon?](../transcriptions/yt-SYWPIjbe_4Y.md) https://www.youtube.com/watch?v=SYWPIjbe_4Y
+
 # March 9th, 2019 Livestream
 * [Q&A: What's the final objective of the game?](../transcriptions/yt-xG0mfuXiFY8.md) https://www.youtube.com/watch?v=xG0mfuXiFY8
 * [Q&A: What gender is the character model?](../transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs

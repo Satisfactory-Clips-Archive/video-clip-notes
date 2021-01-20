@@ -4,6 +4,10 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Trolling
 
+# January 19th, 2021 Livestream
+* [Snutt Talk: Which one is the Assembler again?](../transcriptions/yt-rNeiGrE8ZL0.md) https://www.youtube.com/watch?v=rNeiGrE8ZL0
+* [Q&A: Why are Conveyor Belts not powered?](../transcriptions/yt-X2A_DOO7O4c.md) https://www.youtube.com/watch?v=X2A_DOO7O4c
+
 # January 12th, 2021 Livestream
 * [Q&A: Can we get a Console Release for the KFConsole?](../transcriptions/yt-P7R2hxi19pM.md) https://www.youtube.com/watch?v=P7R2hxi19pM
 * [Q&A: Can we blend Lizard Doggos in the new Blender?](../transcriptions/yt-Keprp2vxOM8.md) https://www.youtube.com/watch?v=Keprp2vxOM8
@@ -46,6 +50,11 @@ date: Last Modified
 * [Trolling: This is an honest stream](../transcriptions/yt-L5L3kXz810E.md) https://www.youtube.com/watch?v=L5L3kXz810E
 * [Trolling: Adding Cigarettes to the game](../transcriptions/yt-OvP_WQvSEuc.md) https://www.youtube.com/watch?v=OvP_WQvSEuc
 * [Trolling: Roleplay](../transcriptions/yt-woqoPQxH1aQ.md) https://www.youtube.com/watch?v=woqoPQxH1aQ
+
+# December 19th, 2019 Livestream
+* [Snutt & Hannah Talk: Hannah wants to delete the map.](../transcriptions/yt-_bVk1N0dvDY.md) https://www.youtube.com/watch?v=_bVk1N0dvDY
+* [Q&A: What's Hannah's take on rocks that aren't on the ground?](../transcriptions/yt-y8FchPasYvI.md) https://www.youtube.com/watch?v=y8FchPasYvI
+* [Q&A: What happened to the keys?](../transcriptions/yt-Xv-yl9jnC4s.md) https://www.youtube.com/watch?v=Xv-yl9jnC4s
 
 # March 9th, 2019 Livestream
 * [Snutt Talk: the most important part of the HUB](../transcriptions/yt-DwdNTp6z1a4.md) https://www.youtube.com/watch?v=DwdNTp6z1a4

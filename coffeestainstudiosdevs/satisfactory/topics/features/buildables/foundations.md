@@ -4,12 +4,20 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Buildables > Foundations
 
+# January 19th, 2021 Livestream
+* [Q&A: Is this modded because the foundations are glitching into the Power Plant?](../../../transcriptions/yt-03J8nqdJCtY.md) https://www.youtube.com/watch?v=03J8nqdJCtY
+* [Q&A: Any thoughts about reworking Foundations or adding Foundation holes?](../../../transcriptions/yt-DFO9JPJP1yM.md) https://www.youtube.com/watch?v=DFO9JPJP1yM
+* [Q&A: Mass Foundation creation?](../../../transcriptions/yt-Z0H06UJbb4E.md) https://www.youtube.com/watch?v=Z0H06UJbb4E
+* [Q&A: What about an opional grid to put all Foundations all aligned around the Map?](../../../transcriptions/yt-Xi9S_sVklB8.md) https://www.youtube.com/watch?v=Xi9S_sVklB8
+
 # January 12th, 2021 Livestream
 * [Q&A: Possibility of placing more than one foundation at once?](../../../transcriptions/yt-TdmIe3EM_B8.md) https://www.youtube.com/watch?v=TdmIe3EM_B8
 
 # December 15th, 2020 Livestream
 * [Q&A: Can you add Road Foundations?](../../../transcriptions/yt-ay4pgtU2Q8g.md) https://www.youtube.com/watch?v=ay4pgtU2Q8g
 * [Q&A: We need more foundation types- triangle foundations, smaller foundations?](../../../transcriptions/yt-V8sGth96I5w.md) https://www.youtube.com/watch?v=V8sGth96I5w
+* [Q&A: Do you plan on adding mass foundation placement?](../../../transcriptions/yt-8Pm6KLejrOQ.md) https://www.youtube.com/watch?v=8Pm6KLejrOQ
+* [Q&A: Can you imagine bringing something decoration foundations to factories?](../../../transcriptions/yt-wuimxgd7c_A.md) https://www.youtube.com/watch?v=wuimxgd7c_A
 
 # November 17th, 2020 Livestream
 * [Q&A: Circular Foundations?](../../../transcriptions/yt-5snNwUqWAxA.md) https://www.youtube.com/watch?v=5snNwUqWAxA
@@ -21,6 +29,13 @@ date: Last Modified
 * [Q&A: Can we get Circular Foundations?](../../../transcriptions/yt-4sKy5-TJVKY.md) https://www.youtube.com/watch?v=4sKy5-TJVKY
 * [Q&A: Will the drag technology of Ladders be used elsewhere?](../../../transcriptions/yt-g8ljtppxPL4.md) https://www.youtube.com/watch?v=g8ljtppxPL4
 * [Q&A: How about being able to snap Foundations by their halfway point instead of just the edge?](../../../transcriptions/yt-SYEIsZ6KVgU.md) https://www.youtube.com/watch?v=SYEIsZ6KVgU
+
+# October 27th, 2020 Livestream
+* [Q&A: When you have 200,000 Foundations, Walls would be good too.](../../../transcriptions/yt-8I6SrlovQvo.md) https://www.youtube.com/watch?v=8I6SrlovQvo
+* [Q&A: Any plans to let us cycle through Foundation thickness with the R key?](../../../transcriptions/yt-ez909nY4cQI.md) https://www.youtube.com/watch?v=ez909nY4cQI
+
+# September 29th, 2020 Livestream
+* [Q&A: Any chance of larger Foundations?](../../../transcriptions/yt-I5HR5ocUX9o.md) https://www.youtube.com/watch?v=I5HR5ocUX9o
 
 # September 1st, 2020 Livestream
 * [Q&A: Any plans for bigger foundations?](../../../transcriptions/yt-uUFy6qyZLKo.md) https://www.youtube.com/watch?v=uUFy6qyZLKo

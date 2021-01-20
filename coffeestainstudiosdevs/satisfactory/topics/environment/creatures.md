@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > Creatures
 
+# January 19th, 2021 Livestream
+* [Q&A: Will there be more Creatures, even more dangerous ones?](../../transcriptions/yt-T0jbE_WjQJQ.md) https://www.youtube.com/watch?v=T0jbE_WjQJQ
+
 # January 12th, 2021 Livestream
 * [Q&A: Can we blend Lizard Doggos in the new Blender?](../../transcriptions/yt-Keprp2vxOM8.md) https://www.youtube.com/watch?v=Keprp2vxOM8
 
@@ -62,6 +65,10 @@ date: Last Modified
 # September 15th, 2020 Livestream
 * [Q&A: Does the Giant Crab unlock stuff?](../../transcriptions/yt-Dsjz5ntv9II.md) https://www.youtube.com/watch?v=Dsjz5ntv9II
 * [Q&A: Are we ever going to see a new enemy type?](../../transcriptions/yt-Kxq543wzKcY.md) https://www.youtube.com/watch?v=Kxq543wzKcY
+
+# December 19th, 2019 Livestream
+* [Q&A: Will there be goats?](../../transcriptions/yt-3YZMayi1Qec.md) https://www.youtube.com/watch?v=3YZMayi1Qec
+* [Q&A: Does it mean we get Goats?](../../transcriptions/yt-RlSL5DONzns.md) https://www.youtube.com/watch?v=RlSL5DONzns
 
 # March 9th, 2019 Livestream
 * [Q&A: Where is Lizard Doggo?](../../transcriptions/yt-bB6SOIoAYg4.md) https://www.youtube.com/watch?v=bB6SOIoAYg4

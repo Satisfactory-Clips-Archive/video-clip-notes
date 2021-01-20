@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Coffee Stainers
 
+# January 19th, 2021 Livestream
+* [Q&A: Who in Coffee Stain plays Satisfactory the most?](../transcriptions/yt-N4JpnY4zy70.md) https://www.youtube.com/watch?v=N4JpnY4zy70
+
 # December 15th, 2020 Livestream
 * [Snutt Talk: Jace is a dedicated boi](../transcriptions/yt-Lx8cCt-jNJQ.md) https://www.youtube.com/watch?v=Lx8cCt-jNJQ
 * [Q&A: What's the best nickname someone has ever given you?](../transcriptions/yt-_4_umuhMFK8.md) https://www.youtube.com/watch?v=_4_umuhMFK8
@@ -13,7 +16,6 @@ date: Last Modified
 
 # December 8th, 2020 Livestream
 * [State of Dev: Blame Simon](../transcriptions/yt-H4gyZoXsfo0.md) https://www.youtube.com/watch?v=H4gyZoXsfo0
-* [Jace Talk: Natalie](../transcriptions/yt-AmdGZXxyt6Y.md) https://www.youtube.com/watch?v=AmdGZXxyt6Y
 
 # November 24th, 2020 Livestream
 * [Q&A: Any chance of Simon becoming 3rd Community Manager?](../transcriptions/yt-ycNS0lA5JWc.md) https://www.youtube.com/watch?v=ycNS0lA5JWc

@@ -4,6 +4,14 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Buildables > Conveyor Belts
 
+# January 19th, 2021 Livestream
+* [Q&A: Are you going to add more functionality to the Programmable Splitters?](../../../transcriptions/yt-PGyc_YN4DaM.md) https://www.youtube.com/watch?v=PGyc_YN4DaM
+* [Q&A: Smart Mergers?](../../../transcriptions/yt-iwID_cZx20g.md) https://www.youtube.com/watch?v=iwID_cZx20g
+* [Q&A: Can you change the inputs & outputs to be on top of each other please?](../../../transcriptions/yt-SsjiubBz5zs.md) https://www.youtube.com/watch?v=SsjiubBz5zs
+* [Q&A: Can we get a Packager with outputs not stacked?](../../../transcriptions/yt-Cmhx-wt1pBg.md) https://www.youtube.com/watch?v=Cmhx-wt1pBg
+* [Q&A: Any plans for alternate Conveyor Belt layout modes, like how Pipes have multiple layout modes?](../../../transcriptions/yt-N8GQDbxeYkE.md) https://www.youtube.com/watch?v=N8GQDbxeYkE
+* [Q&A: Why are Conveyor Belts not powered?](../../../transcriptions/yt-X2A_DOO7O4c.md) https://www.youtube.com/watch?v=X2A_DOO7O4c
+
 # December 15th, 2020 Livestream
 * [Q&A: Any thought to allow Splitters to regulate the flow of items per minute?](../../../transcriptions/yt-nSC4C_h1ONo.md) https://www.youtube.com/watch?v=nSC4C_h1ONo
 

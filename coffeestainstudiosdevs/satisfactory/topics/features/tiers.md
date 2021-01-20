@@ -4,6 +4,15 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Tiers
 
+# January 19th, 2021 Livestream
+* [Mark Talk: Resource Wells are unlocked in Tier 8](../../transcriptions/yt-HjiEL3hWZd4.md) https://www.youtube.com/watch?v=HjiEL3hWZd4
+* [Q&A: Will you be able to skip Oil Extractors and go straight for Resource Well Extractors?](../../transcriptions/yt-_MeCW-2ol-c.md) https://www.youtube.com/watch?v=_MeCW-2ol-c
+* [Snutt & Mark Talk: Tier 7 Rebalancing](../../transcriptions/yt-YIGc6e8zwYs.md) https://www.youtube.com/watch?v=YIGc6e8zwYs
+* [Q&A: When will Jace get to Tier 7?](../../transcriptions/yt-xmZ--a6nkQU.md) https://www.youtube.com/watch?v=xmZ--a6nkQU
+* [Q&A: Recipes in Tier 6 and below will also change but no production lines below Tier 7?](../../transcriptions/yt-2LczuvKevK4.md) https://www.youtube.com/watch?v=2LczuvKevK4
+* [Q&A: What are the incentives to unlock Tier 8 in terms of factory efficiency?](../../transcriptions/yt-Ii-CZGy8-7A.md) https://www.youtube.com/watch?v=Ii-CZGy8-7A
+* [Q&A: Will some of the AWESOME Store items be integrated into Tiers of the M.A.M.?](../../transcriptions/yt-o-rncE3S1wA.md) https://www.youtube.com/watch?v=o-rncE3S1wA
+
 # December 15th, 2020 Livestream
 * [Q&A: Have you confirmed Superposition Oscillators and Quantum Computers to be buildable in Tier 8?](../../transcriptions/yt-fmE3DQFeVGk.md) https://www.youtube.com/watch?v=fmE3DQFeVGk
 
@@ -30,6 +39,7 @@ date: Last Modified
 
 # September 8th, 2020 Livestream
 * [Q&A: What additions to Tier 7 might be coming & when ?](../../transcriptions/yt-lGbJwWh5W_I.md) https://www.youtube.com/watch?v=lGbJwWh5W_I
+* [Q&A: Any more tiers in 3.5?](../../transcriptions/yt-55GiH8YwDds.md) https://www.youtube.com/watch?v=55GiH8YwDds
 
 # March 9th, 2019 Livestream
 * [Q&A: Did you mean to let us get above Tier 3 in the crashed ships?](../../transcriptions/yt--pXuWOzgCyQ.md) https://www.youtube.com/watch?v=-pXuWOzgCyQ

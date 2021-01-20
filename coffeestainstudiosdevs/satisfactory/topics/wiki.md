@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Wiki
 
+# January 19th, 2021 Livestream
+* [Snutt Talk: Which one is the Assembler again?](../transcriptions/yt-rNeiGrE8ZL0.md) https://www.youtube.com/watch?v=rNeiGrE8ZL0
+
 # December 8th, 2020 Livestream
 * [Snutt & Jace Talk: The Wiki](../transcriptions/yt-JGdEGbzDFlY.md) https://www.youtube.com/watch?v=JGdEGbzDFlY
 

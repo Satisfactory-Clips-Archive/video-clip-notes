@@ -4,6 +4,10 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+# January 19th, 2021 Livestream
+* [Q&A: Dedicated Servers?](../../../transcriptions/yt-FIamGlpCEFk.md) https://www.youtube.com/watch?v=FIamGlpCEFk
+* [Q&A: How possible are Dedicated Servers in Update 4?](../../../transcriptions/yt--3JqJE_94g0.md) https://www.youtube.com/watch?v=-3JqJE_94g0
+
 # January 12th, 2021 Livestream
 * [Snutt & Jace Talk: Dedicated Servers](../../../transcriptions/yt-Z3VztvcNSI8.md) https://www.youtube.com/watch?v=Z3VztvcNSI8
 

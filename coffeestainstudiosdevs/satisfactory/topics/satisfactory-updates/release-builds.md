@@ -4,6 +4,11 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Satisfactory Updates > Release Builds
 
+# January 19th, 2021 Livestream
+* [Q&A: Will the Engine Upgrade work on Linux?](../../transcriptions/yt-twjZc7ImIts.md) https://www.youtube.com/watch?v=twjZc7ImIts
+* [Snutt Talk: Switching from Early Access to Experimental builds](../../transcriptions/yt-mnxaJP6wmnE.md) https://www.youtube.com/watch?v=mnxaJP6wmnE
+* [Q&A: How long will you wait until the Engine Upgrade gets merged from Experimental to Early Access?](../../transcriptions/yt-MNh_mdTOijU.md) https://www.youtube.com/watch?v=MNh_mdTOijU
+
 # December 15th, 2020 Livestream
 * [Q&A: Will Satisfactory have native support for Linux?](../../transcriptions/yt-jGFUMhD3WGg.md) https://www.youtube.com/watch?v=jGFUMhD3WGg
 

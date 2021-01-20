@@ -16,6 +16,12 @@ date: Last Modified
 * [Q&A: Would Official Mod Support use Steam Workshop?](../../transcriptions/yt-qzu-mnG_8uA.md) https://www.youtube.com/watch?v=qzu-mnG_8uA
 * [Q&A: A custom mod installer seems like a lot of work?](../../transcriptions/yt-mrCHlJuOY4w.md) https://www.youtube.com/watch?v=mrCHlJuOY4w
 
+# November 3rd, 2020 Livestream
+* [Q&A: Any idea about Official Modding?](../../transcriptions/yt-D5-Y6LYR7jk.md) https://www.youtube.com/watch?v=D5-Y6LYR7jk
+
+# September 15th, 2020 Livestream
+* [Q&A: Official Mod support?](../../transcriptions/yt-0M3RKdwK5mA.md) https://www.youtube.com/watch?v=0M3RKdwK5mA
+
 # March 9th, 2019 Livestream
 * [Q&A: What do you think about future Mod support?](../../transcriptions/yt-6-uSzpX-zZ0.md) https://www.youtube.com/watch?v=6-uSzpX-zZ0
 * [Jace Talk: Mod support](../../transcriptions/yt-37zFxpeGm-E.md) https://www.youtube.com/watch?v=37zFxpeGm-E

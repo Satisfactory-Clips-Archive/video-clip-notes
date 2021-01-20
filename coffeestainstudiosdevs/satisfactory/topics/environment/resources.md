@@ -4,11 +4,11 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > Resources
 
+# January 19th, 2021 Livestream
+* [Q&A: Some buildings used to auto-select recipes?](../../transcriptions/yt-iCOiamAc_ak.md) https://www.youtube.com/watch?v=iCOiamAc_ak
+
 # January 15th, 2021 Teasers
 * [Gases are coming in Update 4](../../transcriptions/yt-Jxh8kvtUuxY.md) https://www.youtube.com/watch?v=Jxh8kvtUuxY
-
-# January 12th, 2021 Livestream
-* [Q&A: What's happening with S.A.M. Ore?](../../transcriptions/yt-f0Z9VIAK5Iw.md) https://www.youtube.com/watch?v=f0Z9VIAK5Iw
 
 # December 15th, 2020 Livestream
 * [Q&A: Will we be able to deal with Gas towers you can't kill right now?](../../transcriptions/yt-0nRCXveJemw.md) https://www.youtube.com/watch?v=0nRCXveJemw
@@ -39,7 +39,6 @@ date: Last Modified
 * [Snutt Talk: Inpure Resource Nodes](../../transcriptions/yt--OHmfKyBPA4.md) https://www.youtube.com/watch?v=-OHmfKyBPA4
 * [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](../../transcriptions/yt-v4zf3_-seAg.md) https://www.youtube.com/watch?v=v4zf3_-seAg
 * [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
-* [Q&A: What do you use S.A.M. Ore for?](../../transcriptions/yt-jdOQXcBiSH0.md) https://www.youtube.com/watch?v=jdOQXcBiSH0
 * [Q&A: Collect Fart Gas for fuel?](../../transcriptions/yt-O5R_YmTmXUI.md) https://www.youtube.com/watch?v=O5R_YmTmXUI
 
 # August 25th, 2020 Livestream

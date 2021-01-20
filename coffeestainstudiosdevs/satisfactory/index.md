@@ -12,6 +12,9 @@ layout: index
 ## March 2019
 * [March 9th, 2019](2019-03-09.md)
 
+## December 2019
+* [December 19th, 2019](2019-12-19.md)
+
 ## July 2020
 * [July 8th, 2020](2020-07-08.md)
 * [July 21st, 2020](2020-07-21.md)
@@ -50,3 +53,4 @@ layout: index
 ## January 2021
 * [January 12th, 2021](2021-01-12.md)
 * [January 15th, 2021](2021-01-15.md)
+* [January 19th, 2021](2021-01-19.md)

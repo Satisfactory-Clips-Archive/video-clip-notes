@@ -22,5 +22,8 @@ date: Last Modified
 * [Q&A: Releasing a Vinyl on the Merch Store ?](../transcriptions/yt-DeEK7w3qPyg.md) https://www.youtube.com/watch?v=DeEK7w3qPyg
 * [Q&A: Any new additions to the music planned?](../transcriptions/yt-RKfqg8EOZgE.md) https://www.youtube.com/watch?v=RKfqg8EOZgE
 
+# September 1st, 2020 Livestream
+* [Q&A: Are you considering adding more music to the game?](../transcriptions/yt-iDyPOcW0o5E.md) https://www.youtube.com/watch?v=iDyPOcW0o5E
+
 # August 25th, 2020 Livestream
 * Q&A: Will there be any new music soundtracks in the future? https://clips.twitch.tv/UgliestArbitraryOwlDatBoi

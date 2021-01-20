@@ -46,6 +46,9 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * [Q&A: Is there going to be creative mode?](../../../transcriptions/yt-zZILz6cMKbw.md) https://www.youtube.com/watch?v=zZILz6cMKbw
 
+# December 19th, 2019 Livestream
+* [Q&A: Will there be more competitive stuff?](../../../transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
+
 # March 9th, 2019 Livestream
 * [Q&A: Will there be a creative mode?](../../../transcriptions/yt-eIPuM39KDcE.md) https://www.youtube.com/watch?v=eIPuM39KDcE
 * [Q&A: Another game mode with a procedurally generated world?](../../../transcriptions/yt-GZlK2fIlYVk.md) https://www.youtube.com/watch?v=GZlK2fIlYVk

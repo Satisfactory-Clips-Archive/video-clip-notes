@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Unplanned Features > Mass Building
 
+# January 19th, 2021 Livestream
+* [Q&A: Mass Foundation creation?](../../../transcriptions/yt-Z0H06UJbb4E.md) https://www.youtube.com/watch?v=Z0H06UJbb4E
+
 # January 12th, 2021 Livestream
 * [Q&A: Possibility of placing more than one foundation at once?](../../../transcriptions/yt-TdmIe3EM_B8.md) https://www.youtube.com/watch?v=TdmIe3EM_B8
 

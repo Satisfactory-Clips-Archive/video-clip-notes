@@ -4,6 +4,11 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Buildings > Packager
 
+# January 19th, 2021 Livestream
+* [Q&A: Will Gas packaging happen in the Packager?](../../../transcriptions/yt-K2uidbt0_VE.md) https://www.youtube.com/watch?v=K2uidbt0_VE
+* [Q&A: Will Diluted Packaged Fuel be retained if Diluted Liquid Fuel gets added to the Blender?](../../../transcriptions/yt-7U9JUf9NUYQ.md) https://www.youtube.com/watch?v=7U9JUf9NUYQ
+* [Q&A: Can we get a Packager with outputs not stacked?](../../../transcriptions/yt-Cmhx-wt1pBg.md) https://www.youtube.com/watch?v=Cmhx-wt1pBg
+
 # November 10th, 2020 Livestream
 * [Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?](../../../transcriptions/yt-SJI1puC2mEw.md) https://www.youtube.com/watch?v=SJI1puC2mEw
 

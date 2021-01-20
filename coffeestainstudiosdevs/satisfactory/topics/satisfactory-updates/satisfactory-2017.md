@@ -17,6 +17,6 @@ date: Last Modified
 * [Snutt & Jace Talk: Janky, Weird, and Gross](../../transcriptions/yt-GeLStDYCAcw.md) https://www.youtube.com/watch?v=GeLStDYCAcw
 * [Q&A: What do you think of the current state of the game?](../../transcriptions/yt-RtnMVVZj0E8.md) https://www.youtube.com/watch?v=RtnMVVZj0E8
 * [Q&A: What is this interface?](../../transcriptions/yt-MDs8eRquWN8.md) https://www.youtube.com/watch?v=MDs8eRquWN8
-* [Jace Talk: Natalie](../../transcriptions/yt-AmdGZXxyt6Y.md) https://www.youtube.com/watch?v=AmdGZXxyt6Y
+* [Jace Talk: Nathalie](../../transcriptions/yt-AmdGZXxyt6Y.md) https://www.youtube.com/watch?v=AmdGZXxyt6Y
 * [Q&A: How come the translations are weird when it was natively made in Swedish?](../../transcriptions/yt-OloYImcj1GA.md) https://www.youtube.com/watch?v=OloYImcj1GA
 * [Q&A: Will you be making these older versions public?](../../transcriptions/yt-B6BGtaVWcas.md) https://www.youtube.com/watch?v=B6BGtaVWcas

@@ -4,6 +4,11 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Satisfactory Updates > State of Dev
 
+# January 19th, 2021 Livestream
+* [State of Dev: Closed Captions](../../transcriptions/yt-sAS09ChPivY.md) https://www.youtube.com/watch?v=sAS09ChPivY
+* [State of Dev: Engine Upgrade](../../transcriptions/yt-WIK1Ko-rCTE.md) https://www.youtube.com/watch?v=WIK1Ko-rCTE
+* [State of Dev: ETA for Update 4](../../transcriptions/yt-5kVXtK-Yu5g.md) https://www.youtube.com/watch?v=5kVXtK-Yu5g
+
 # January 12th, 2021 Livestream
 * [State of Dev - FICS⁕MAS](../../transcriptions/yt-dnkH1mqdCKI.md) https://www.youtube.com/watch?v=dnkH1mqdCKI
 * [State of Dev: Mug Merch](../../transcriptions/yt-sDMER4xm8Gc.md) https://www.youtube.com/watch?v=sDMER4xm8Gc
@@ -37,6 +42,29 @@ date: Last Modified
 
 # November 3rd, 2020 Livestream
 * [Snutt & Jace Talk: State of Dev](../../transcriptions/yt-WnGFHQPWIGE.md) https://www.youtube.com/watch?v=WnGFHQPWIGE
+
+# October 27th, 2020 Livestream
+* [Jace & Snutt Talk: State of Dev](../../transcriptions/yt-mBI3bICtLcE.md) https://www.youtube.com/watch?v=mBI3bICtLcE
+
+# October 20th, 2020 Livestream
+* [Jace & Snutt Talk: State of Dev](../../transcriptions/yt-sBLktg7_Ep8.md) https://www.youtube.com/watch?v=sBLktg7_Ep8
+
+# October 13th, 2020 Livestream
+* [Jace & Snutt Talk: State of Dev](../../transcriptions/yt-fLKnY0359tQ.md) https://www.youtube.com/watch?v=fLKnY0359tQ
+
+# October 6th, 2020 Livestream
+* [Jace & Snutt Talk: State of Dev](../../transcriptions/yt-qG7a8qP2x_g.md) https://www.youtube.com/watch?v=qG7a8qP2x_g
+
+# September 29th, 2020 Livestream
+* [Snutt Talk: State of Dev summary](../../transcriptions/yt-sutYZrGrcYs.md) https://www.youtube.com/watch?v=sutYZrGrcYs
+* [Snutt Talk: State of Dev summary (again)](../../transcriptions/yt-xRq7uB3qt2A.md) https://www.youtube.com/watch?v=xRq7uB3qt2A
+* [Jace & Snutt Talk: State of Dev](../../transcriptions/yt-Hmjj9ZzqVhQ.md) https://www.youtube.com/watch?v=Hmjj9ZzqVhQ
+
+# September 22nd, 2020 Livestream
+* [Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)](../../transcriptions/yt-oT2NLP9ZvGk.md) https://www.youtube.com/watch?v=oT2NLP9ZvGk
+
+# September 15th, 2020 Livestream
+* [Snutt & Jace Talk: State of Dev Summary](../../transcriptions/yt-C0x-CrnWaAs.md) https://www.youtube.com/watch?v=C0x-CrnWaAs
 
 # August 25th, 2020 Livestream
 ## Snutt Talk: State of Development

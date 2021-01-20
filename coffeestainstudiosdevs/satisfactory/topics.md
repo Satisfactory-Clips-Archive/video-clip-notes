@@ -17,18 +17,32 @@ date: Last Modified
 
 # Coffee Stainers
 * [Ben](./topics/coffee-stainers/ben.md)
+* [Birk](./topics/coffee-stainers/birk.md)
 * [Dylan](./topics/coffee-stainers/dylan.md)
+* [Hannah](./topics/coffee-stainers/hannah.md)
 * [Jace](./topics/coffee-stainers/jace.md)
+* [Kristoffer](./topics/coffee-stainers/kristoffer.md)
+* [Mark](./topics/coffee-stainers/mark.md)
+* [Nathalie](./topics/coffee-stainers/nathalie.md)
 * [Simon](./topics/coffee-stainers/simon.md)
 * [Snutt](./topics/coffee-stainers/snutt.md)
 * [Tim](./topics/coffee-stainers/tim.md)
 
 # Environment
+* [Biomes](./topics/environment/biomes.md)
 * [Creatures](./topics/environment/creatures.md)
 * [Plants](./topics/environment/plants.md)
 * [Pollution](./topics/environment/pollution.md)
+* [Resource Wells](./topics/environment/resource-wells.md)
 * [Resources](./topics/environment/resources.md)
 * [World Map](./topics/environment/world-map.md)
+
+## Creatures
+* [Lizard Doggo](./topics/environment/creatures/lizard-doggo.md)
+
+## Resources
+* [Oil](./topics/environment/resources/oil.md)
+* [S.A.M. Ore](./topics/environment/resources/sam-ore.md)
 
 # Features
 * [Accessibility](./topics/features/accessibility.md)
@@ -45,6 +59,25 @@ date: Last Modified
 * [Power Management](./topics/features/power-management.md)
 * [Tiers](./topics/features/tiers.md)
 
+## Buildings
+* [AWESOME Sink](./topics/features/buildings/awesome-sink.md)
+* [AWESOME Store](./topics/features/buildings/awesome-store.md)
+* [Assembler](./topics/features/buildings/assembler.md)
+* [Blender](./topics/features/buildings/blender.md)
+* [M.A.M.](./topics/features/buildings/m-a-m.md)
+* [Oil Extractor](./topics/features/buildings/oil-extractor.md)
+* [Packager](./topics/features/buildings/packager.md)
+* [Radar Tower](./topics/features/buildings/radar-tower.md)
+* [Refinery](./topics/features/buildings/refinery.md)
+* [Resource Well Extractor](./topics/features/buildings/resource-well-extractor.md)
+* [Resource Well Pressurizer](./topics/features/buildings/resource-well-pressurizer.md)
+* [Space Elevator](./topics/features/buildings/space-elevator.md)
+* [The HUB](./topics/features/buildings/the-hub.md)
+
+## Planned Features
+* [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
+* [Signs](./topics/features/planned-features/signs.md)
+
 ## Buildables
 * [Conveyor Belts](./topics/features/buildables/conveyor-belts.md)
 * [Foundations](./topics/features/buildables/foundations.md)
@@ -53,24 +86,18 @@ date: Last Modified
 * [Storage Containers](./topics/features/buildables/storage-containers.md)
 * [Walls](./topics/features/buildables/walls.md)
 
-## Buildings
-* [Blender](./topics/features/buildings/blender.md)
-* [Packager](./topics/features/buildings/packager.md)
-* [Radar Tower](./topics/features/buildings/radar-tower.md)
-* [Resource Well Extractor](./topics/features/buildings/resource-well-extractor.md)
-* [Resource Well Pressurizer](./topics/features/buildings/resource-well-pressurizer.md)
-* [The HUB](./topics/features/buildings/the-hub.md)
-
 ## Crafting
+* [Fuel](./topics/features/crafting/fuel.md)
 * [Superposition Oscillator](./topics/features/crafting/superposition-oscillator.md)
 
 ## Equipment
 * [Chainsaw](./topics/features/equipment/chainsaw.md)
 * [Jetpack](./topics/features/equipment/jetpack.md)
 
-## Planned Features
-* [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
-* [Signs](./topics/features/planned-features/signs.md)
+## Fluids
+* [Pipes](./topics/features/fluids/pipes.md)
+* [Pumps](./topics/features/fluids/pumps.md)
+* [Valves](./topics/features/fluids/valves.md)
 
 ## Possible Features
 * [Character Customisation](./topics/features/possible-features/character-customisation.md)
@@ -100,15 +127,16 @@ date: Last Modified
 ## Unreleased Features
 * [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
 
-## Fluids
-* [Pipes](./topics/features/fluids/pipes.md)
-* [Pumps](./topics/features/fluids/pumps.md)
-* [Valves](./topics/features/fluids/valves.md)
-
 # Mods
 * [Mods](./topics/mods.md)
 * [Mods vs. Features](./topics/mods/mods-vs-features.md)
 * [Official Mod Support](./topics/mods/official-mod-support.md)
+
+# Off-Topic
+* [Goat Simulator](./topics/off-topic/goat-simulator.md)
+* [Pizza](./topics/off-topic/pizza.md)
+* [Sanctum](./topics/off-topic/sanctum.md)
+* [Valheim](./topics/off-topic/valheim.md)
 
 # Satisfactory Updates
 * [Release Builds](./topics/satisfactory-updates/release-builds.md)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Released > Satisfactory Fluids Update
 
+# January 19th, 2021 Livestream
+* [Snutt & Mark Talk: Retaining legacy recipes with new buildings](../../../transcriptions/yt-ETgrEgA1-7Q.md) https://www.youtube.com/watch?v=ETgrEgA1-7Q
+
 # January 12th, 2021 Livestream
 * [State of Dev - The Blender™](../../../transcriptions/yt-XBt0OWqSRPA.md) https://www.youtube.com/watch?v=XBt0OWqSRPA
 

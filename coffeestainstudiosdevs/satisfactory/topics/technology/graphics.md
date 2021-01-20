@@ -4,6 +4,13 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Technology > Graphics
 
+# January 19th, 2021 Livestream
+* [Snutt Talk: We're not using a linear colour space](../../transcriptions/yt-jigwsKo5YKY.md) https://www.youtube.com/watch?v=jigwsKo5YKY
+* [Snut Talk: Engine Upgrade - DirectX 12](../../transcriptions/yt-2QfjxpKJVIE.md) https://www.youtube.com/watch?v=2QfjxpKJVIE
+* [Q&A: Any Vulkan support?](../../transcriptions/yt-9_yf4tON8MM.md) https://www.youtube.com/watch?v=9_yf4tON8MM
+* [Q&A: Is there any plan to add the r.screenpercentage setting for folks on 4k or high-res screens?](../../transcriptions/yt-p3zdRLbGwsk.md) https://www.youtube.com/watch?v=p3zdRLbGwsk
+* [Q&A: Ever add DLSS at some point?](../../transcriptions/yt-PqFAGrVd3M0.md) https://www.youtube.com/watch?v=PqFAGrVd3M0
+
 # January 12th, 2021 Livestream
 * [Q&A: Are there any plans to add Lights inside the factory?](../../transcriptions/yt-QvTjwyhFvGQ.md) https://www.youtube.com/watch?v=QvTjwyhFvGQ
 

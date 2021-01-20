@@ -4,6 +4,16 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Technology > User Interface
 
+# January 19th, 2021 Livestream
+* [Q&A: Will it be possible to use decimal places for percentages in future?](../../transcriptions/yt-zGH69_aSwwk.md) https://www.youtube.com/watch?v=zGH69_aSwwk
+* [Q&A: Will there be ways to see your total production per minute?](../../transcriptions/yt-tHzH3dkTZ4s.md) https://www.youtube.com/watch?v=tHzH3dkTZ4s
+* [Q&A: Any plans to revisit the To-Do List for Quality-of-Life pass?](../../transcriptions/yt-nI31KeD88V8.md) https://www.youtube.com/watch?v=nI31KeD88V8
+* [Q&A: Is it possible to add German layout for the keyboards for the console commands?](../../transcriptions/yt-jb2RwJxpeqk.md) https://www.youtube.com/watch?v=jb2RwJxpeqk
+* [Q&A: Why do we get a Gas warning when we're in a Hypertube?](../../transcriptions/yt-b1pzjEAzXOU.md) https://www.youtube.com/watch?v=b1pzjEAzXOU
+* [Q&A: Any plans for alternate Conveyor Belt layout modes, like how Pipes have multiple layout modes?](../../transcriptions/yt-N8GQDbxeYkE.md) https://www.youtube.com/watch?v=N8GQDbxeYkE
+* [Q&A: Mass Foundation creation?](../../transcriptions/yt-Z0H06UJbb4E.md) https://www.youtube.com/watch?v=Z0H06UJbb4E
+* [Q&A: What about an opional grid to put all Foundations all aligned around the Map?](../../transcriptions/yt-Xi9S_sVklB8.md) https://www.youtube.com/watch?v=Xi9S_sVklB8
+
 # January 12th, 2021 Livestream
 * [Snutt Talk: Turbofuel in Jetpacks](../../transcriptions/yt-xY2wDhyE7ZE.md) https://www.youtube.com/watch?v=xY2wDhyE7ZE
 * [Q&A: Any changes coming to To-Do List?](../../transcriptions/yt-NStZ-wKVHYc.md) https://www.youtube.com/watch?v=NStZ-wKVHYc
@@ -19,7 +29,7 @@ date: Last Modified
 
 # December 8th, 2020 Livestream
 * [Q&A: What is this interface?](../../transcriptions/yt-MDs8eRquWN8.md) https://www.youtube.com/watch?v=MDs8eRquWN8
-* [Jace Talk: Natalie](../../transcriptions/yt-AmdGZXxyt6Y.md) https://www.youtube.com/watch?v=AmdGZXxyt6Y
+* [Jace Talk: Nathalie](../../transcriptions/yt-AmdGZXxyt6Y.md) https://www.youtube.com/watch?v=AmdGZXxyt6Y
 
 # November 24th, 2020 Livestream
 * [Q&A: Better UI scaling?](../../transcriptions/yt-Z7KYm1EEVsc.md) https://www.youtube.com/watch?v=Z7KYm1EEVsc
@@ -59,6 +69,13 @@ date: Last Modified
 * [Q&A: Can we get the stream starting video as the main menu?](../../transcriptions/yt-Mqso2kUIPVA.md) https://www.youtube.com/watch?v=Mqso2kUIPVA
 * [Q&A: Any chance of you putting a daily limit in the game?](../../transcriptions/yt-vgxwqJg7o2A.md) https://www.youtube.com/watch?v=vgxwqJg7o2A
 * [Q&A: When will "coal" be "Coal" on the Resource Scanner?](../../transcriptions/yt-p-Zd7qm0D6E.md) https://www.youtube.com/watch?v=p-Zd7qm0D6E
+
+# December 19th, 2019 Livestream
+* [Q&A: Favourite problem to solve in the UI so far?](../../transcriptions/yt-cONX37SiszU.md) https://www.youtube.com/watch?v=cONX37SiszU
+* [Q&A: Can we put the "Nani‽" back in?](../../transcriptions/yt-sn0yrFw_Lfw.md) https://www.youtube.com/watch?v=sn0yrFw_Lfw
+* [Q&A: Colour blind accessibility stuff?](../../transcriptions/yt-r4TS6nRxy9k.md) https://www.youtube.com/watch?v=r4TS6nRxy9k
+* [Q&A: Hotbars?](../../transcriptions/yt-pkYEJmwJWrg.md) https://www.youtube.com/watch?v=pkYEJmwJWrg
+* [Q&A: Is there going to be a central computer plant where you can check the whole production?](../../transcriptions/yt-Zlq2K0-z0_8.md) https://www.youtube.com/watch?v=Zlq2K0-z0_8
 
 # March 9th, 2019 Livestream
 * [Snutt Talk: Inpure Resource Nodes](../../transcriptions/yt--OHmfKyBPA4.md) https://www.youtube.com/watch?v=-OHmfKyBPA4

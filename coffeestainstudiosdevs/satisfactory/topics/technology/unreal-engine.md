@@ -4,6 +4,22 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Technology > Unreal Engine
 
+# January 19th, 2021 Livestream
+* [State of Dev: Engine Upgrade](../../transcriptions/yt-WIK1Ko-rCTE.md) https://www.youtube.com/watch?v=WIK1Ko-rCTE
+* [Q&A: Will the Engine Upgrade affect our Windows installation?](../../transcriptions/yt-xIfzyBihoI4.md) https://www.youtube.com/watch?v=xIfzyBihoI4
+* [Q&A: Will the Engine Upgrade work on Linux?](../../transcriptions/yt-twjZc7ImIts.md) https://www.youtube.com/watch?v=twjZc7ImIts
+* [Snutt Talk: Engine Upgrade is probably going to break mods.](../../transcriptions/yt-lHKPC3m2Z2A.md) https://www.youtube.com/watch?v=lHKPC3m2Z2A
+* [Snutt Talk: Engine Upgrade & Network Latency](../../transcriptions/yt-b--gsLSysTg.md) https://www.youtube.com/watch?v=b--gsLSysTg
+* [Snutt Talk: We're not using a linear colour space](../../transcriptions/yt-jigwsKo5YKY.md) https://www.youtube.com/watch?v=jigwsKo5YKY
+* [Snutt Talk: Engine Upgrade - Network tweaks](../../transcriptions/yt-cjQzivCIdIU.md) https://www.youtube.com/watch?v=cjQzivCIdIU
+* [Snut Talk: Engine Upgrade - DirectX 12](../../transcriptions/yt-2QfjxpKJVIE.md) https://www.youtube.com/watch?v=2QfjxpKJVIE
+* [Q&A: What about Multiplayer Vehicle de-sync?](../../transcriptions/yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw
+* [Q&A: Is there any plan to add the r.screenpercentage setting for folks on 4k or high-res screens?](../../transcriptions/yt-p3zdRLbGwsk.md) https://www.youtube.com/watch?v=p3zdRLbGwsk
+* [Q&A: While Unreal Engine 4 gets upgraded, will the Object Limit get changed?](../../transcriptions/yt-BE6kB3nmSdM.md) https://www.youtube.com/watch?v=BE6kB3nmSdM
+* [Q&A: Will clearing out all the Biomes increase your garbage limit?](../../transcriptions/yt-XcfIWDujsxA.md) https://www.youtube.com/watch?v=XcfIWDujsxA
+* [Snutt Talk: Issues downloading the patch on Steam](../../transcriptions/yt-voxZiFRE-MU.md) https://www.youtube.com/watch?v=voxZiFRE-MU
+* [Q&A: How long will you wait until the Engine Upgrade gets merged from Experimental to Early Access?](../../transcriptions/yt-MNh_mdTOijU.md) https://www.youtube.com/watch?v=MNh_mdTOijU
+
 # January 12th, 2021 Livestream
 * [State of Dev - Unreal Engine Update](../../transcriptions/yt-DNmmfH4tJSA.md) https://www.youtube.com/watch?v=DNmmfH4tJSA
 * [Q&A: Will there be any minor releases between now and Update 4?](../../transcriptions/yt-GaVr69FiXw8.md) https://www.youtube.com/watch?v=GaVr69FiXw8

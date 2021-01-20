@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+# January 19th, 2021 Livestream
+* [Q&A: Could we expect the game on Consoles some day?](../../../transcriptions/yt-OVn94IC65fw.md) https://www.youtube.com/watch?v=OVn94IC65fw
+
 # January 12th, 2021 Livestream
 * [Q&A: Can we get a Console Release for the KFConsole?](../../../transcriptions/yt-P7R2hxi19pM.md) https://www.youtube.com/watch?v=P7R2hxi19pM
 
@@ -21,6 +24,9 @@ date: Last Modified
 
 # September 1st, 2020 Livestream
 * [Q&A: Satisfactory on next-gen Consoles?](../../../transcriptions/yt-ed1gycRZji4.md) https://www.youtube.com/watch?v=ed1gycRZji4
+
+# December 19th, 2019 Livestream
+* [Q&A: Satisfactory on Switch?](../../../transcriptions/yt-QVQZ2qgtTsQ.md) https://www.youtube.com/watch?v=QVQZ2qgtTsQ
 
 # March 9th, 2019 Livestream
 * [Q&A: Any scope of the game being on consoles?](../../../transcriptions/yt-bsTq_WiSeCY.md) https://www.youtube.com/watch?v=bsTq_WiSeCY

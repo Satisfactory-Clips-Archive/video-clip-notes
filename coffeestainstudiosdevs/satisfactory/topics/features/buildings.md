@@ -4,6 +4,13 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Buildings
 
+# January 19th, 2021 Livestream
+* [Q&A: Some buildings used to auto-select recipes?](../../transcriptions/yt-iCOiamAc_ak.md) https://www.youtube.com/watch?v=iCOiamAc_ak
+* [Q&A: Will it be possible to use decimal places for percentages in future?](../../transcriptions/yt-zGH69_aSwwk.md) https://www.youtube.com/watch?v=zGH69_aSwwk
+* [Q&A: Can you change the inputs & outputs to be on top of each other please?](../../transcriptions/yt-SsjiubBz5zs.md) https://www.youtube.com/watch?v=SsjiubBz5zs
+* [Q&A: Alternate Buildings, like Recipes?](../../transcriptions/yt-ufYriERRzwc.md) https://www.youtube.com/watch?v=ufYriERRzwc
+* [Q&A: Any plans to daisy-chain Buildings together to not have Power Poles everywhere?](../../transcriptions/yt-wFyEOXvO1bA.md) https://www.youtube.com/watch?v=wFyEOXvO1bA
+
 # December 15th, 2020 Livestream
 * [Q&A: Will FICS⁕MAS Buildings and items still be in the World after the event is over?](../../transcriptions/yt-ospbB7hdDdI.md) https://www.youtube.com/watch?v=ospbB7hdDdI
 
@@ -104,6 +111,10 @@ date: Last Modified
 * [Q&A: Will there be something like the Resource Sink but for Fluids?](../../transcriptions/yt-nT4pfUlmZBs.md) https://www.youtube.com/watch?v=nT4pfUlmZBs
 * [Q&A: Are we going to be able to get the Space Elevator Food Court?](../../transcriptions/yt-YNogQuanQlc.md) https://www.youtube.com/watch?v=YNogQuanQlc
 * [Q&A: Why did you change the Nuclear Reactors model?](../../transcriptions/yt-hBpbwXr9cMs.md) https://www.youtube.com/watch?v=hBpbwXr9cMs
+
+# December 19th, 2019 Livestream
+* [Q&A: How about personal elevators?](../../transcriptions/yt-f3TtRJWOI2Q.md) https://www.youtube.com/watch?v=f3TtRJWOI2Q
+* [Q&A: Human Elevators?](../../transcriptions/yt-HGwoBSLqtcw.md) https://www.youtube.com/watch?v=HGwoBSLqtcw
 
 # March 9th, 2019 Livestream
 * [Snutt Talk: Storage Containers](../../transcriptions/yt-oQfZtyxDIrE.md) https://www.youtube.com/watch?v=oQfZtyxDIrE

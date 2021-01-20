@@ -4,6 +4,11 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Fluids
 
+# January 19th, 2021 Livestream
+* [Q&A: What do Resource Wells mean for existing ways for extracting Water & Oil?](../../transcriptions/yt-ezGse7K-fWI.md) https://www.youtube.com/watch?v=ezGse7K-fWI
+* [Q&A: Do you have a plan on adding a Pipe-bursting feature if you over-pressurise them?](../../transcriptions/yt-OoXaGUS3umo.md) https://www.youtube.com/watch?v=OoXaGUS3umo
+* [Q&A: Sink that accepts Liquids or Gas?](../../transcriptions/yt-SskXA-lxaCI.md) https://www.youtube.com/watch?v=SskXA-lxaCI
+
 # January 12th, 2021 Livestream
 * [Q&A: Turbofuel?](../../transcriptions/yt-5rp-Y1WsPnA.md) https://www.youtube.com/watch?v=5rp-Y1WsPnA
 * [Snutt Talk: Turbofuel in Jetpacks](../../transcriptions/yt-xY2wDhyE7ZE.md) https://www.youtube.com/watch?v=xY2wDhyE7ZE
@@ -35,6 +40,9 @@ date: Last Modified
 * [Q&A: What do you think about adding some kind of Tanker Truck?](../../transcriptions/yt-JCBQj8Ern20.md) https://www.youtube.com/watch?v=JCBQj8Ern20
 * [Q&A: Will we have to redo Pipe systems with the new Update?](../../transcriptions/yt-7r2YUHrQyB8.md) https://www.youtube.com/watch?v=7r2YUHrQyB8
 * [Q&A: Is it safe to set up 1000 Turbo Fuel Generators?](../../transcriptions/yt-0JyFVACOZ-E.md) https://www.youtube.com/watch?v=0JyFVACOZ-E
+
+# December 19th, 2019 Livestream
+* [Q&A: When is Coffee going to be introduced to the game?](../../transcriptions/yt-o3Nr13tH7dY.md) https://www.youtube.com/watch?v=o3Nr13tH7dY
 
 # August 25th, 2020 Livestream
 * Q&A: Is the sink going to accept liquids in the future? https://clips.twitch.tv/ArtisticCoweringTortoiseRitzMitz

@@ -4,6 +4,42 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory Update 4
 
+# January 19th, 2021 Livestream
+* [State of Dev: ETA for Update 4](../../../transcriptions/yt-5kVXtK-Yu5g.md) https://www.youtube.com/watch?v=5kVXtK-Yu5g
+* [Mark Talk: Resource Wells are unlocked in Tier 8](../../../transcriptions/yt-HjiEL3hWZd4.md) https://www.youtube.com/watch?v=HjiEL3hWZd4
+* [Q&A: Will Oil fields be affected by the Update 4 patch?](../../../transcriptions/yt-khEicU2JVzY.md) https://www.youtube.com/watch?v=khEicU2JVzY
+* [Q&A: What's the cost of the Resource Well Extractors & Pressurisers (Part 1)](../../../transcriptions/yt-Ik8K1G6lGyM.md) https://www.youtube.com/watch?v=Ik8K1G6lGyM
+* [Q&A: Will you be able to skip Oil Extractors and go straight for Resource Well Extractors?](../../../transcriptions/yt-_MeCW-2ol-c.md) https://www.youtube.com/watch?v=_MeCW-2ol-c
+* [Q&A: What's the cost of the Resource Well Extractors & Pressurisers (Part 2)](../../../transcriptions/yt-MaHhdhMI_38.md) https://www.youtube.com/watch?v=MaHhdhMI_38
+* [Snutt Talk: Disclaimer regarding changes in communicating Updates (Update 2 & 3 vs. Update 4)](../../../transcriptions/yt-avsSNP2oO-Y.md) https://www.youtube.com/watch?v=avsSNP2oO-Y
+* [Snutt & Mark Talk: The Blender](../../../transcriptions/yt-a2D7kT6Z1J0.md) https://www.youtube.com/watch?v=a2D7kT6Z1J0
+* [Snutt & Mark Talk: Tier 7 Rebalancing](../../../transcriptions/yt-YIGc6e8zwYs.md) https://www.youtube.com/watch?v=YIGc6e8zwYs
+* [Snutt & Mark Talk: Retaining legacy recipes with new buildings](../../../transcriptions/yt-ETgrEgA1-7Q.md) https://www.youtube.com/watch?v=ETgrEgA1-7Q
+* [Q&A: Will alternative recipes change with Update 4?](../../../transcriptions/yt-mwrYWPHr4jk.md) https://www.youtube.com/watch?v=mwrYWPHr4jk
+* [Q&A: Will we use the Blender for Diluted Fuel?](../../../transcriptions/yt-9rPXUN4W5Hg.md) https://www.youtube.com/watch?v=9rPXUN4W5Hg
+* [Q&A: Will batteries be used alongside factory power?](../../../transcriptions/yt-UoDF7Vl1ZJQ.md) https://www.youtube.com/watch?v=UoDF7Vl1ZJQ
+* [Q&A: Is there teleportation in Update 4?](../../../transcriptions/yt-TnXIhw27Cws.md) https://www.youtube.com/watch?v=TnXIhw27Cws
+* [Q&A: Jace mentioned Nitric Acid, will Nitrous Oxide be used for Tractors or Rocket Fuel?](../../../transcriptions/yt-wEzD5wugI4Y.md) https://www.youtube.com/watch?v=wEzD5wugI4Y
+* [Q&A: Are you changing Pure Ingot recipes?](../../../transcriptions/yt-WTE-Q1zQLM0.md) https://www.youtube.com/watch?v=WTE-Q1zQLM0
+* [Q&A: Will you be adding more Cargo Crash Sites to add more alt recipes?](../../../transcriptions/yt-P7JCgZ-mLDE.md) https://www.youtube.com/watch?v=P7JCgZ-mLDE
+* [Q&A: Why not have a system like in real life where you get Nitrogen out of air?](../../../transcriptions/yt-p3AQTmE2XoQ.md) https://www.youtube.com/watch?v=p3AQTmE2XoQ
+* [Q&A: Can we still skip the Nuclear part for Energy Production?](../../../transcriptions/yt-Are7eJK9iKk.md) https://www.youtube.com/watch?v=Are7eJK9iKk
+* [Q&A: Recipes in Tier 6 and below will also change but no production lines below Tier 7?](../../../transcriptions/yt-2LczuvKevK4.md) https://www.youtube.com/watch?v=2LczuvKevK4
+* [Q&A: When you extract nitrogen will you attract more monsters or alien creatures?](../../../transcriptions/yt-ZYjlQtfwJj0.md) https://www.youtube.com/watch?v=ZYjlQtfwJj0
+* [Q&A: How can you transport Gas over a big distance?](../../../transcriptions/yt-eZIVeN8_8sc.md) https://www.youtube.com/watch?v=eZIVeN8_8sc
+* [Q&A: Are we going to be able to build more or less Nuclear Power in Update 4 than currently?](../../../transcriptions/yt-RrAwAvxM5T4.md) https://www.youtube.com/watch?v=RrAwAvxM5T4
+* [Q&A: Will Gases affect health or hurt you if you don't have a hazmat suit?](../../../transcriptions/yt-3gHStWkd0oE.md) https://www.youtube.com/watch?v=3gHStWkd0oE
+* [Q&A: Any plans to make Liquid Biofuel a viable automated means of Power Generation?](../../../transcriptions/yt-s52yTvp9nbM.md) https://www.youtube.com/watch?v=s52yTvp9nbM
+* [Q&A: Will you have specialised Gas Buffers?](../../../transcriptions/yt-IumWTbZtoWo.md) https://www.youtube.com/watch?v=IumWTbZtoWo
+* [Q&A: Will Gas packaging happen in the Packager?](../../../transcriptions/yt-K2uidbt0_VE.md) https://www.youtube.com/watch?v=K2uidbt0_VE
+* [Q&A: Will you ever add explosions on the Resource Wells when you Pressurize them?](../../../transcriptions/yt-3A5iYkto5W0.md) https://www.youtube.com/watch?v=3A5iYkto5W0
+* [Q&A: Will Gas Pipes have Headlift or Valves?](../../../transcriptions/yt-Zd9lUkAlJrk.md) https://www.youtube.com/watch?v=Zd9lUkAlJrk
+* [Q&A: With the introducion of Gas, will Coal Generators be split into two buildings?](../../../transcriptions/yt-vsmihiP_Tmg.md) https://www.youtube.com/watch?v=vsmihiP_Tmg
+* [Q&A: How possible are Dedicated Servers in Update 4?](../../../transcriptions/yt--3JqJE_94g0.md) https://www.youtube.com/watch?v=-3JqJE_94g0
+* [Q&A: What are the incentives to unlock Tier 8 in terms of factory efficiency?](../../../transcriptions/yt-Ii-CZGy8-7A.md) https://www.youtube.com/watch?v=Ii-CZGy8-7A
+* [Q&A: Do we have to worry about Nuclear Power Plants too in Update 4?](../../../transcriptions/yt-Y8Ib5zlOzKI.md) https://www.youtube.com/watch?v=Y8Ib5zlOzKI
+* [Q&A: Are we getting a new gun with the Gas update like a freeze gun ?](../../../transcriptions/yt-eFgO1iuPr20.md) https://www.youtube.com/watch?v=eFgO1iuPr20
+
 # January 12th, 2021 Livestream
 * [State of Dev - The Blender™](../../../transcriptions/yt-XBt0OWqSRPA.md) https://www.youtube.com/watch?v=XBt0OWqSRPA
 * [Q&A: Update 4 Release Date](../../../transcriptions/yt-8-vsYNedzEw.md) https://www.youtube.com/watch?v=8-vsYNedzEw

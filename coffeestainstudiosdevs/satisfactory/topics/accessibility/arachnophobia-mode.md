@@ -6,6 +6,7 @@ date: Last Modified
 
 # December 8th, 2020 Livestream
 * [Q&A: Cyberpunk cross-over when?](../../transcriptions/yt-GJMD7L7BLxE.md) https://www.youtube.com/watch?v=GJMD7L7BLxE
+* [Q&A: Are there spiders in this build?](../../transcriptions/yt-KKtqXo-Zzqo.md) https://www.youtube.com/watch?v=KKtqXo-Zzqo
 
 # November 24th, 2020 Livestream
 * [Q&A: Why do you put cat faces in Arachnophobia Mode?](../../transcriptions/yt-vlNaHkvoi0Y.md) https://www.youtube.com/watch?v=vlNaHkvoi0Y

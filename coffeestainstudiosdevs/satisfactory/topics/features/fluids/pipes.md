@@ -4,6 +4,13 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Fluids > Pipes
 
+# January 19th, 2021 Livestream
+* [Q&A: How can you transport Gas over a big distance?](../../../transcriptions/yt-eZIVeN8_8sc.md) https://www.youtube.com/watch?v=eZIVeN8_8sc
+* [Q&A: Do you have a plan on adding a Pipe-bursting feature if you over-pressurise them?](../../../transcriptions/yt-OoXaGUS3umo.md) https://www.youtube.com/watch?v=OoXaGUS3umo
+* [Q&A: Will Gas Pipes have Headlift or Valves?](../../../transcriptions/yt-Zd9lUkAlJrk.md) https://www.youtube.com/watch?v=Zd9lUkAlJrk
+* [Q&A: Is this modded because the foundations are glitching into the Power Plant?](../../../transcriptions/yt-03J8nqdJCtY.md) https://www.youtube.com/watch?v=03J8nqdJCtY
+* [Q&A: Can we get a Packager with outputs not stacked?](../../../transcriptions/yt-Cmhx-wt1pBg.md) https://www.youtube.com/watch?v=Cmhx-wt1pBg
+
 # December 15th, 2020 Livestream
 * [Q&A: Walls & Handrails, be able to place like Pipes?](../../../transcriptions/yt-LFH3YB0pV24.md) https://www.youtube.com/watch?v=LFH3YB0pV24
 
@@ -28,6 +35,9 @@ date: Last Modified
 
 # September 29th, 2020 Livestream
 * [Q&A: Add a Tape Measure or something to gauge distance between two objects?](../../../transcriptions/yt--hFvijwVlSQ.md) https://www.youtube.com/watch?v=-hFvijwVlSQ
+
+# December 19th, 2019 Livestream
+* [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../../transcriptions/yt-krQI-cHEAl8.md) https://www.youtube.com/watch?v=krQI-cHEAl8
 
 # August 25th, 2020 Livestream
 * Q&A: A mark on pipes to show the meters ? https://clips.twitch.tv/AltruisticSuperBobaBudBlast

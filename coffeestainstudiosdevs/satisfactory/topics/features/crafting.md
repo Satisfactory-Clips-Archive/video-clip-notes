@@ -22,3 +22,7 @@ date: Last Modified
 
 # September 8th, 2020 Livestream
 * [Q&A: I'm not asking for a change, but why Beacons to craft Bullets?](../../transcriptions/yt-Gttu7r1NCLk.md) https://www.youtube.com/watch?v=Gttu7r1NCLk
+
+# December 19th, 2019 Livestream
+* [Q&A: Can we put the "Nani‽" back in?](../../transcriptions/yt-sn0yrFw_Lfw.md) https://www.youtube.com/watch?v=sn0yrFw_Lfw
+* [Q&A: Favourite problem to solve in the UI so far?](../../transcriptions/yt-cONX37SiszU.md) https://www.youtube.com/watch?v=cONX37SiszU

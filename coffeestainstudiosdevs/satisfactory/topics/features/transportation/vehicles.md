@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Transportation > Vehicles
 
+# January 19th, 2021 Livestream
+* [Q&A: What about Multiplayer Vehicle de-sync?](../../../transcriptions/yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw
+
 # January 12th, 2021 Livestream
 * [Q&A: Model of the Explorer seems incomplete?](../../../transcriptions/yt-8wGU5mxm-bY.md) https://www.youtube.com/watch?v=8wGU5mxm-bY
 
@@ -63,6 +66,12 @@ date: Last Modified
 
 # September 1st, 2020 Livestream
 * [Q&A: Will the Factory Cart be available as Merch?](../../../transcriptions/yt-i1iL8KXmptE.md) https://www.youtube.com/watch?v=i1iL8KXmptE
+
+# December 19th, 2019 Livestream
+* [Q&A: Give us a flight vehicle?](../../../transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I
+* [Q&A: Vehicle Lifts?](../../../transcriptions/yt-ayGH9w3sEBo.md) https://www.youtube.com/watch?v=ayGH9w3sEBo
+* [Q&A: Have you considerd Flying Drones?](../../../transcriptions/yt-KYox3m1mePU.md) https://www.youtube.com/watch?v=KYox3m1mePU
+* [Q&A: Improve Vehicles in general?](../../../transcriptions/yt-pRuIjTp-u5I.md) https://www.youtube.com/watch?v=pRuIjTp-u5I
 
 # March 9th, 2019 Livestream
 * [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE

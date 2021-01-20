@@ -4,6 +4,19 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Power Management
 
+# January 19th, 2021 Livestream
+* [Q&A: Is Mark the mastermind behind Turbofuel?](../../transcriptions/yt-vPfI712DEns.md) https://www.youtube.com/watch?v=vPfI712DEns
+* [Q&A: Will batteries be used alongside factory power?](../../transcriptions/yt-UoDF7Vl1ZJQ.md) https://www.youtube.com/watch?v=UoDF7Vl1ZJQ
+* [Q&A: Can we still skip the Nuclear part for Energy Production?](../../transcriptions/yt-Are7eJK9iKk.md) https://www.youtube.com/watch?v=Are7eJK9iKk
+* [Q&A: Are we going to be able to build more or less Nuclear Power in Update 4 than currently?](../../transcriptions/yt-RrAwAvxM5T4.md) https://www.youtube.com/watch?v=RrAwAvxM5T4
+* [Q&A: Any plans to make Liquid Biofuel a viable automated means of Power Generation?](../../transcriptions/yt-s52yTvp9nbM.md) https://www.youtube.com/watch?v=s52yTvp9nbM
+* [Q&A: Is this modded because the foundations are glitching into the Power Plant?](../../transcriptions/yt-03J8nqdJCtY.md) https://www.youtube.com/watch?v=03J8nqdJCtY
+* [Q&A: With the introducion of Gas, will Coal Generators be split into two buildings?](../../transcriptions/yt-vsmihiP_Tmg.md) https://www.youtube.com/watch?v=vsmihiP_Tmg
+* [Q&A: Do we have to worry about Nuclear Power Plants too in Update 4?](../../transcriptions/yt-Y8Ib5zlOzKI.md) https://www.youtube.com/watch?v=Y8Ib5zlOzKI
+* [Q&A: Will you change Geothermal Generators?](../../transcriptions/yt-MmCfcNv8F8o.md) https://www.youtube.com/watch?v=MmCfcNv8F8o
+* [Q&A: Any plans to daisy-chain Buildings together to not have Power Poles everywhere?](../../transcriptions/yt-wFyEOXvO1bA.md) https://www.youtube.com/watch?v=wFyEOXvO1bA
+* [Q&A: Why are Conveyor Belts not powered?](../../transcriptions/yt-X2A_DOO7O4c.md) https://www.youtube.com/watch?v=X2A_DOO7O4c
+
 # December 15th, 2020 Livestream
 * [Q&A: What will happen to the FICS⁕MAS power lines after the event?](../../transcriptions/yt-Gt9an2au_YU.md) https://www.youtube.com/watch?v=Gt9an2au_YU
 

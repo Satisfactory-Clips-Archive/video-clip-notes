@@ -19,6 +19,9 @@ date: Last Modified
 * [Q&A: Can we upload a Spider image other than a Cat?](../../transcriptions/yt-rlBA0k1-sWs.md) https://www.youtube.com/watch?v=rlBA0k1-sWs
 * [Jace & Snutt Talk: Phobia Modes & Accessibility](../../transcriptions/yt-OFBC7qFkEmQ.md) https://www.youtube.com/watch?v=OFBC7qFkEmQ
 
+# December 19th, 2019 Livestream
+* [Q&A: Colour blind accessibility stuff?](../../transcriptions/yt-r4TS6nRxy9k.md) https://www.youtube.com/watch?v=r4TS6nRxy9k
+
 # August 25th, 2020 Livestream
 ## Arachnophobia Mode
 * Q&A: More cats in Arachnophobia Mode? https://clips.twitch.tv/KathishConcernedWalrusRedCoat

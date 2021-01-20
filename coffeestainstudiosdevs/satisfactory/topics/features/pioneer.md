@@ -4,8 +4,17 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Pioneer
 
+# January 19th, 2021 Livestream
+* [Q&A: Why doesn't the Pioneer Helmet integrate a Gas Mask if the atmosphere is unbreathable?](../../transcriptions/yt-2zz08zzXTCU.md) https://www.youtube.com/watch?v=2zz08zzXTCU
+
 # November 10th, 2020 Livestream
 * [Q&A: Does the Pioneer have any lore or is she just a random worker person?](../../transcriptions/yt-0V_fsSPIEHA.md) https://www.youtube.com/watch?v=0V_fsSPIEHA
+
+# October 13th, 2020 Livestream
+* [Q&A: Is the Pioneer a human?](../../transcriptions/yt-I0al2jSp_Rk.md) https://www.youtube.com/watch?v=I0al2jSp_Rk
+
+# September 8th, 2020 Livestream
+* [Q&A: Cosmetics for the Pioneer or even Lizard Doggo?](../../transcriptions/yt-wFKmvfIOuCY.md) https://www.youtube.com/watch?v=wFKmvfIOuCY
 
 # August 25th, 2020 Livestream
 * Q&A: She!? Not me !? https://clips.twitch.tv/InexpensiveChillyWheelItsBoshyTime

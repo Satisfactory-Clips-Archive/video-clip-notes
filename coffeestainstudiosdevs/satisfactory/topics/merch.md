@@ -55,11 +55,16 @@ date: Last Modified
 
 # September 8th, 2020 Livestream
 * [Q&A: Will there be a european Merch store?](../transcriptions/yt-GhfR61WpR6k.md) https://www.youtube.com/watch?v=GhfR61WpR6k
+* [Q&A: Releasing a Vinyl on the Merch Store ?](../transcriptions/yt-DeEK7w3qPyg.md) https://www.youtube.com/watch?v=DeEK7w3qPyg
 
 # September 1st, 2020 Livestream
 * [Q&A: What about the Merch?](../transcriptions/yt-jQyDj_wa0LA.md) https://www.youtube.com/watch?v=jQyDj_wa0LA
 * [Q&A: The Doggo Plushie has to fit into the Cup](../transcriptions/yt-HMsgkhM0i34.md) https://www.youtube.com/watch?v=HMsgkhM0i34
 * [Q&A: Will the Factory Cart be available as Merch?](../transcriptions/yt-i1iL8KXmptE.md) https://www.youtube.com/watch?v=i1iL8KXmptE
+
+# December 19th, 2019 Livestream
+* [Q&A: We want a Simon body pillow?](../transcriptions/yt-gHZsodBmCms.md) https://www.youtube.com/watch?v=gHZsodBmCms
+* [Q&A: Are there any plans on releasing these arts?](../transcriptions/yt-caJMcQ-Z0eE.md) https://www.youtube.com/watch?v=caJMcQ-Z0eE
 
 # March 9th, 2019 Livestream
 * [Q&A: Lizard Doggo plushie when?](../transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
