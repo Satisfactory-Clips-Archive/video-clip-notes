@@ -1,0 +1,38 @@
+---
+title: "January 19th, 2021 Livestream Q&A: What about an opional grid to put all Foundations all aligned around the Map?"
+date: "2021-01-19"
+layout: transcript
+topics:
+    - "features/buildables/foundations"
+    - "technology/user-interface"
+    - "environment/world-map"
+---
+# [January 19th, 2021 Livestream](../2021-01-19.md)
+## Q&A: What about an opional grid to put all Foundations all aligned around the Map?
+https://www.youtube.com/watch?v=Xi9S_sVklB8
+
+### Topics
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
+> what about an optional grid to put
+> 
+> foundations all online around the map
+> 
+> yo um put that on the question site
+> 
+> i would personally really like that
+> 
+> because it bothers me a bit that there's
+> 
+> no global grid mode
+> 
+> like in fortnite yeah i said it
+> 
+> fortnite's got a better build mode than
+> 
+> we do
+> 
