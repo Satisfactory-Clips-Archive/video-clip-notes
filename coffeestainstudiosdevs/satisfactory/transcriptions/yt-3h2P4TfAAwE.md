@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: Can we have an alternate arachnophobia m
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "accessibility/arachnophobia-mode"
+    - "features/accessibility/arachnophobia-mode"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Can we have an alternate arachnophobia mode with Simon's face?
 https://www.youtube.com/watch?v=3h2P4TfAAwE
 
 ### Topics
-* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+* [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
 
 ### Transcript
 

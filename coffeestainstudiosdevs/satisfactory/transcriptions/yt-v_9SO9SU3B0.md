@@ -3,8 +3,8 @@ title: "September 22nd, 2020 Livestream Q&A: Can we get more cat variety?"
 date: "2020-09-22"
 layout: transcript
 topics:
-    - "accessibility/arachnophobia-mode"
     - "features/accessibility"
+    - "features/accessibility/arachnophobia-mode"
     - "technology/graphics"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=v_9SO9SU3B0
 
 ### Topics
-* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+* [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
 * [Features > Accessibility](../topics/features/accessibility.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 

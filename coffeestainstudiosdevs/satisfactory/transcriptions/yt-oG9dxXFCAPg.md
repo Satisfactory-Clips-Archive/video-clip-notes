@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Snutt, Simon, Jace Talk: Turning on Arachnoph
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "accessibility/arachnophobia-mode"
+    - "features/accessibility/arachnophobia-mode"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, Jace Talk: Turning on Arachnophobia Mode
 https://www.youtube.com/watch?v=oG9dxXFCAPg
 
 ### Topics
-* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+* [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
 
 ### Transcript
 

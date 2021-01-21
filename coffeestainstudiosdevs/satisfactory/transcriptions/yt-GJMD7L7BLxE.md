@@ -3,14 +3,14 @@ title: "December 8th, 2020 Livestream Q&A: Cyberpunk cross-over when?"
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "accessibility/arachnophobia-mode"
+    - "features/accessibility/arachnophobia-mode"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Cyberpunk cross-over when?
 https://www.youtube.com/watch?v=GJMD7L7BLxE
 
 ### Topics
-* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+* [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
 
 ### Transcript
 

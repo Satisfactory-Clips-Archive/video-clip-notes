@@ -57,6 +57,9 @@ date: Last Modified
 * [Q&A: Will there be a european Merch store?](../transcriptions/yt-GhfR61WpR6k.md) https://www.youtube.com/watch?v=GhfR61WpR6k
 * [Q&A: Releasing a Vinyl on the Merch Store ?](../transcriptions/yt-DeEK7w3qPyg.md) https://www.youtube.com/watch?v=DeEK7w3qPyg
 
+# September 4th, 2020 Teasers
+* [Official Satisfactory MERCH!](../transcriptions/yt-4_cYnq746zk.md) https://www.youtube.com/watch?v=4_cYnq746zk
+
 # September 1st, 2020 Livestream
 * [Q&A: What about the Merch?](../transcriptions/yt-jQyDj_wa0LA.md) https://www.youtube.com/watch?v=jQyDj_wa0LA
 * [Q&A: The Doggo Plushie has to fit into the Cup](../transcriptions/yt-HMsgkhM0i34.md) https://www.youtube.com/watch?v=HMsgkhM0i34

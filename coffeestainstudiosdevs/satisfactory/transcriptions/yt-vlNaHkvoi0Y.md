@@ -3,15 +3,15 @@ title: "November 24th, 2020 Livestream Q&A: Why do you put cat faces in Arachnop
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "accessibility/arachnophobia-mode"
     - "features/accessibility"
+    - "features/accessibility/arachnophobia-mode"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Why do you put cat faces in Arachnophobia Mode?
 https://www.youtube.com/watch?v=vlNaHkvoi0Y
 
 ### Topics
-* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+* [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
 * [Features > Accessibility](../topics/features/accessibility.md)
 
 ### Transcript

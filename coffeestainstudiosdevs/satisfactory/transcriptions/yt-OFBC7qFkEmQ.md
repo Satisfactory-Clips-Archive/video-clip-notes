@@ -3,15 +3,15 @@ title: "September 8th, 2020 Livestream Jace & Snutt Talk: Phobia Modes & Accessi
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "accessibility/arachnophobia-mode"
     - "features/accessibility"
+    - "features/accessibility/arachnophobia-mode"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Jace & Snutt Talk: Phobia Modes & Accessibility
 https://www.youtube.com/watch?v=OFBC7qFkEmQ
 
 ### Topics
-* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+* [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
 * [Features > Accessibility](../topics/features/accessibility.md)
 
 ### Transcript

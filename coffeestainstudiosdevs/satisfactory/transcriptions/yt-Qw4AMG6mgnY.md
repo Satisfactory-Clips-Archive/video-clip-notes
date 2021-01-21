@@ -3,15 +3,15 @@ title: "March 9th, 2019 Livestream Q&A: How many types of scary spiders / cute c
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "accessibility/arachnophobia-mode"
     - "environment/creatures"
+    - "features/accessibility/arachnophobia-mode"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How many types of scary spiders / cute cats are in game?
 https://www.youtube.com/watch?v=Qw4AMG6mgnY
 
 ### Topics
-* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+* [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript

@@ -3,15 +3,15 @@ title: "September 8th, 2020 Livestream Q&A: Can we upload a Spider image other t
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "accessibility/arachnophobia-mode"
     - "features/accessibility"
+    - "features/accessibility/arachnophobia-mode"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Can we upload a Spider image other than a Cat?
 https://www.youtube.com/watch?v=rlBA0k1-sWs
 
 ### Topics
-* [Accessibility > Arachnophobia Mode](../topics/accessibility/arachnophobia-mode.md)
+* [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
 * [Features > Accessibility](../topics/features/accessibility.md)
 
 ### Transcript
