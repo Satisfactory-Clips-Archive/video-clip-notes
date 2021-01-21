@@ -12,9 +12,6 @@ date: Last Modified
 * [Trolling](./topics/trolling.md)
 * [Wiki](./topics/wiki.md)
 
-# Accessibility
-* [Arachnophobia Mode](./topics/accessibility/arachnophobia-mode.md)
-
 # Coffee Stainers
 * [Ben](./topics/coffee-stainers/ben.md)
 * [Birk](./topics/coffee-stainers/birk.md)
@@ -60,6 +57,9 @@ date: Last Modified
 * [Pioneer](./topics/features/pioneer.md)
 * [Power Management](./topics/features/power-management.md)
 * [Tiers](./topics/features/tiers.md)
+
+## Accessibility
+* [Arachnophobia Mode](./topics/features/accessibility/arachnophobia-mode.md)
 
 ## Buildings
 * [AWESOME Sink](./topics/features/buildings/awesome-sink.md)
