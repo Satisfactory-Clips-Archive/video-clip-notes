@@ -3,8 +3,8 @@ title: "March 9th, 2019 Livestream Q&A: Is it possible to use powerline as zip-l
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "features/unplanned-features/aerial-travel"
     - "features/power-management"
+    - "features/unplanned-features/aerial-travel"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is it possible to use powerline as zip-lines?

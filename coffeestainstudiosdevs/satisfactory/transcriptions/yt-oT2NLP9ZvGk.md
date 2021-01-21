@@ -3,9 +3,9 @@ title: "September 22nd, 2020 Livestream Snutt & Jace Talk: State of Dev (Unreal 
 date: "2020-09-22"
 layout: transcript
 topics:
+    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/state-of-dev"
     - "technology/unreal-engine"
-    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)

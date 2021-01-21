@@ -3,8 +3,8 @@ title: "November 10th, 2020 Livestream Q&A: Is it true that building vertically 
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "technology/graphics"
     - "features/unplanned-features/mass-building"
+    - "technology/graphics"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Is it true that building vertically equals worse performance than building horizontally?

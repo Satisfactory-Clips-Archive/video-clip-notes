@@ -3,8 +3,8 @@ title: "September 15th, 2020 Livestream Q&A: Can you add Floor Holes for Pipes?"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "features/buildings"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Can you add Floor Holes for Pipes?

@@ -3,9 +3,9 @@ title: "December 8th, 2020 Livestream Q&A: How does Coffee Stain feel with all T
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-update-3"
     - "features/tiers"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?

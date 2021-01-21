@@ -4,8 +4,8 @@ date: "2020-09-08"
 layout: transcript
 topics:
     - "features/equipment/jetpack"
-    - "features/unplanned-features/aerial-travel"
     - "features/transportation/vehicles"
+    - "features/unplanned-features/aerial-travel"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: What're your guys thoughts on transport beyond Jetpacks ?

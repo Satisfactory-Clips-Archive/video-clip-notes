@@ -3,8 +3,8 @@ title: "December 15th, 2020 Livestream Q&A: Will FICS⁕MAS Buildings and items 
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/seasonal-events/fics-mas"
     - "features/buildings"
+    - "satisfactory-updates/seasonal-events/fics-mas"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will FICS⁕MAS Buildings and items still be in the World after the event is over?

@@ -3,8 +3,8 @@ title: "December 15th, 2020 Livestream Q&A: Could it be released to the Modding 
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/seasonal-events/fics-mas"
     - "mods/mods-vs-features"
+    - "satisfactory-updates/seasonal-events/fics-mas"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Could it be released to the Modding Community to polish and release it as a Mod?

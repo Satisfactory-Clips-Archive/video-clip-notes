@@ -4,9 +4,9 @@ date: "2020-09-08"
 layout: transcript
 topics:
     - "environment/plants"
-    - "technology/graphics"
     - "environment/world-map"
     - "features/multiplayer"
+    - "technology/graphics"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Should I remove all nature to improve FPS?

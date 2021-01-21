@@ -3,9 +3,9 @@ title: "September 29th, 2020 Livestream Jace & Snutt Talk: State of Dev"
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "satisfactory-updates/state-of-dev"
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/state-of-dev"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Jace & Snutt Talk: State of Dev

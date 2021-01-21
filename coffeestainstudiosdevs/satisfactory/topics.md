@@ -38,7 +38,9 @@ date: Last Modified
 * [World Map](./topics/environment/world-map.md)
 
 ## Creatures
+* [Crab Boss](./topics/environment/creatures/crab-boss.md)
 * [Lizard Doggo](./topics/environment/creatures/lizard-doggo.md)
+* [Space Giraffe-Tick-Penguin-Whale Thing](./topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
 ## Resources
 * [Oil](./topics/environment/resources/oil.md)

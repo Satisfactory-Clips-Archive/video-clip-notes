@@ -3,9 +3,9 @@ title: "January 19th, 2021 Livestream Q&A: Why doesn't the Pioneer Helmet integr
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "features/equipment"
     - "features/gases"
     - "features/pioneer"
-    - "features/equipment"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Why doesn't the Pioneer Helmet integrate a Gas Mask if the atmosphere is unbreathable?

@@ -3,8 +3,8 @@ title: "September 29th, 2020 Livestream Q&A: When are we getting a Production Ov
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "features/crafting"
     - "features/buildings"
+    - "features/crafting"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: When are we getting a Production Overview in the game?

@@ -3,8 +3,8 @@ title: "October 20th, 2020 Livestream Q&A: Are the teasers for Update 4?"
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Are the teasers for Update 4?

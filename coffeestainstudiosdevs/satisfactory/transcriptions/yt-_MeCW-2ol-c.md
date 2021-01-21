@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: Will you be able to skip Oil Extracto
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/buildings/oil-extractor"
     - "environment/resources/oil"
+    - "features/buildings/oil-extractor"
     - "features/buildings/resource-well-extractor"
     - "features/tiers"
     - "satisfactory-updates/pending/satisfactory-update-4"

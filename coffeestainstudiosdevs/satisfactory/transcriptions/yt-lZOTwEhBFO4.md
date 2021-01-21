@@ -3,8 +3,8 @@ title: "October 13th, 2020 Livestream Q&A: Why are the Refineries so big?"
 date: "2020-10-13"
 layout: transcript
 topics:
-    - "features/buildings/refinery"
     - "features/buildings"
+    - "features/buildings/refinery"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Why are the Refineries so big?

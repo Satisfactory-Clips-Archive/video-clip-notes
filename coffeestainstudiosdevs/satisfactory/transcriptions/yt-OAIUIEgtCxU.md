@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Snutt, Simon, & Jace Talk: Space Potato"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "environment/creatures"
+    - "environment/creatures/space-giraffe-tick-penguin-whale-thing"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, & Jace Talk: Space Potato
 https://www.youtube.com/watch?v=OAIUIEgtCxU
 
 ### Topics
-* [Environment > Creatures](../topics/environment/creatures.md)
+* [Environment > Creatures > Space Giraffe-Tick-Penguin-Whale Thing](../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
 ### Transcript
 

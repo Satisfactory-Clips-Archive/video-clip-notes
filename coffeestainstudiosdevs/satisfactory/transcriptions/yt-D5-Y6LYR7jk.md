@@ -3,9 +3,9 @@ title: "November 3rd, 2020 Livestream Q&A: Any idea about Official Modding?"
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "mods/official-mod-support"
-    - "mods"
     - "features/planned-features/dedicated-servers"
+    - "mods"
+    - "mods/official-mod-support"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Any idea about Official Modding?

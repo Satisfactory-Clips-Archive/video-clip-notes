@@ -175,22 +175,33 @@ date: Last Modified
 * Q&A: Why are Conveyor Belts not powered? https://www.youtube.com/watch?v=X2A_DOO7O4c
 
 
+# Crab Boss
+
+## September 15th, 2020
+* Q&A: Are we ever going to see a new enemy type? https://www.youtube.com/watch?v=Kxq543wzKcY
+
+## November 3rd, 2020
+* Q&A: Are there going to be new Creatures? https://www.youtube.com/watch?v=c3jeZv_aYug
+
+## November 17th, 2020
+* Q&A: Any news on big Crab monster? https://www.youtube.com/watch?v=tTXExwaqZQM
+
+## December 15th, 2020
+* Q&A: Will there be new enemies? https://www.youtube.com/watch?v=mwN7mAZ2dbg
+
+## January 19th, 2021
+* Q&A: Will there be more Creatures, even more dangerous ones? https://www.youtube.com/watch?v=T0jbE_WjQJQ
+
+
 # Creatures
 
 ## March 9th, 2019
 * Q&A: Can creatures in any way disrupt your factory? https://www.youtube.com/watch?v=R2Fms8EjhN8
-* Q&A: How do you win the heart of Lizard Doggo? https://www.youtube.com/watch?v=z5BnfkmTQfA
-* Q&A: How to pet Doggo? https://www.youtube.com/watch?v=izvalD5vPuc
 * Q&A: Is it possible to kill a Spitter with the standard Zapper? https://www.youtube.com/watch?v=ZmVoWBHW9Jc
-* Q&A: Lizard Doggo plushie when? https://www.youtube.com/watch?v=jGiN1SdQOFk
 * Q&A: Where can I find those "cute cats" https://www.youtube.com/watch?v=ALTf24gjRHE
-* Q&A: Where is Lizard Doggo? https://www.youtube.com/watch?v=bB6SOIoAYg4
 
 ## December 19th, 2019
 * Q&A: Will there be goats? https://www.youtube.com/watch?v=3YZMayi1Qec
-
-## September 15th, 2020
-* Q&A: Are we ever going to see a new enemy type? https://www.youtube.com/watch?v=Kxq543wzKcY
 
 ## October 13th, 2020
 * Q&A: If Factories can get attacked? https://www.youtube.com/watch?v=tK_m7AqM4sY
@@ -201,14 +212,8 @@ date: Last Modified
 ## November 10th, 2020
 * Q&A: Marine life ? https://www.youtube.com/watch?v=cZCA9NXj7Co
 
-## November 17th, 2020
-* Q&A: Any news on big Crab monster? https://www.youtube.com/watch?v=tTXExwaqZQM
-
 ## December 15th, 2020
 * Q&A: Will there be new enemies? https://www.youtube.com/watch?v=mwN7mAZ2dbg
-
-## January 19th, 2021
-* Q&A: Will there be more Creatures, even more dangerous ones? https://www.youtube.com/watch?v=T0jbE_WjQJQ
 
 
 # DLC

@@ -3,9 +3,9 @@ title: "January 19th, 2021 Livestream Q&A: Will Gas Pipes have Headlift or Valve
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/gases"
-    - "features/fluids/valves"
     - "features/fluids/pipes"
+    - "features/fluids/valves"
+    - "features/gases"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)

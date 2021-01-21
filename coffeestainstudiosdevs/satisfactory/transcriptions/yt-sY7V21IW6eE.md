@@ -3,8 +3,8 @@ title: "November 17th, 2020 Livestream Q&A: Any plans for Power Management?"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "technology/user-interface"
     - "features/power-management"
+    - "technology/user-interface"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any plans for Power Management?

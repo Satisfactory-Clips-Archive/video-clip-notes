@@ -3,8 +3,8 @@ title: "November 24th, 2020 Livestream Snutt & Jace Talk: State of Dev"
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "satisfactory-updates/state-of-dev"
     - "features/buildables/conveyor-belts"
+    - "satisfactory-updates/state-of-dev"
     - "technology/unreal-engine"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)

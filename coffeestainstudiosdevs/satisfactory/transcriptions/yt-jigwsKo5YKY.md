@@ -4,8 +4,8 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "features/paint"
-    - "technology/unreal-engine"
     - "technology/graphics"
+    - "technology/unreal-engine"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Snutt Talk: We're not using a linear colour space

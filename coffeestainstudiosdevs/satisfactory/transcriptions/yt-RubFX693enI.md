@@ -3,9 +3,9 @@ title: "December 15th, 2020 Livestream Q&A: Will RTX be added to Update 4 with t
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "technology/unreal-engine"
-    - "technology/graphics"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "technology/graphics"
+    - "technology/unreal-engine"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will RTX be added to Update 4 with the new Unreal Engine?

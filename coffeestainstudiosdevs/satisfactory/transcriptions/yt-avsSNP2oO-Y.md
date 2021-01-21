@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Snutt Talk: Disclaimer regarding changes i
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-update-3"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Snutt Talk: Disclaimer regarding changes in communicating Updates (Update 2 & 3 vs. Update 4)

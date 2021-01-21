@@ -3,8 +3,8 @@ title: "September 15th, 2020 Livestream Q&A: Official Mod support?"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "mods/official-mod-support"
     - "mods"
+    - "mods/official-mod-support"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Official Mod support?

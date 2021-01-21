@@ -4,9 +4,9 @@ date: "2021-01-12"
 layout: transcript
 topics:
     - "features/buildings/blender"
-    - "satisfactory-updates/state-of-dev"
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/state-of-dev"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## State of Dev - The Blender™

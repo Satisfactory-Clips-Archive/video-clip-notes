@@ -3,8 +3,8 @@ title: "December 19th, 2019 Livestream Q&A: Has Simon tried key pizza?"
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "off-topic/pizza"
     - "coffee-stainers/simon"
+    - "off-topic/pizza"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Has Simon tried key pizza?

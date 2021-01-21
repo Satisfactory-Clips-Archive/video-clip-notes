@@ -3,9 +3,9 @@ title: "October 13th, 2020 Livestream Q&A: Is the building going to be built wit
 date: "2020-10-13"
 layout: transcript
 topics:
+    - "features/buildings"
     - "features/buildings/packager"
     - "satisfactory-updates/released/satisfactory-fluids-update"
-    - "features/buildings"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Is the building going to be built with already in-game materials or built with new materials?

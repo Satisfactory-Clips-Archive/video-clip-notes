@@ -3,10 +3,10 @@ title: "October 13th, 2020 Livestream Q&A: What is the output per minute compare
 date: "2020-10-13"
 layout: transcript
 topics:
-    - "features/buildings/refinery"
-    - "features/buildings/packager"
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "features/buildings"
+    - "features/buildings/packager"
+    - "features/buildings/refinery"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: What is the output per minute compared to the refinery?

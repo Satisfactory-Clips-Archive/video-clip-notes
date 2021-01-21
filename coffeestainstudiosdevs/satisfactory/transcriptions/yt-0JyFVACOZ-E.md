@@ -3,9 +3,9 @@ title: "October 6th, 2020 Livestream Q&A: Is it safe to set up 1000 Turbo Fuel G
 date: "2020-10-06"
 layout: transcript
 topics:
+    - "features/buildings"
     - "features/crafting/fuel"
     - "features/fluids"
-    - "features/buildings"
     - "features/power-management"
     - "features/unplanned-features/mass-building"
 ---

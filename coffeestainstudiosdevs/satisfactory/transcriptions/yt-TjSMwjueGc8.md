@@ -3,8 +3,8 @@ title: "October 20th, 2020 Livestream Q&A: When will we have Train Collision?"
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-1-0"
     - "features/transportation/trains"
+    - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: When will we have Train Collision?

@@ -3,8 +3,8 @@ title: "September 29th, 2020 Livestream Q&A: System that destroyed Nuclear Waste
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "features/power-management/nuclear-energy"
     - "features/power-management"
+    - "features/power-management/nuclear-energy"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: System that destroyed Nuclear Waste wouldn't be bad?

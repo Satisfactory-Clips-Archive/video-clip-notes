@@ -4,7 +4,6 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "environment/creatures/lizard-doggo"
-    - "environment/creatures"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will we be able to breed the Doggos?
@@ -12,7 +11,6 @@ https://www.youtube.com/watch?v=fdoiF6pPF1M
 
 ### Topics
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
-* [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript
 

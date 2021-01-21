@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "features/buildables/foundations"
     - "features/fluids/pipes"
-    - "mods"
     - "features/power-management"
+    - "mods"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Is this modded because the foundations are glitching into the Power Plant?

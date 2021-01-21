@@ -3,8 +3,8 @@ title: "March 9th, 2019 Livestream Q&A: Flying vehicles for overhead view of you
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "features/unplanned-features/aerial-travel"
     - "environment/world-map"
+    - "features/unplanned-features/aerial-travel"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Flying vehicles for overhead view of your factory?

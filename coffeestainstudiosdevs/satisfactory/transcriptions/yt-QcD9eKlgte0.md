@@ -3,8 +3,8 @@ title: "December 8th, 2020 Livestream Jace Talk: Multiplayer experience vs. Dedi
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
     - "features/multiplayer"
+    - "features/planned-features/dedicated-servers"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Jace Talk: Multiplayer experience vs. Dedicated Server

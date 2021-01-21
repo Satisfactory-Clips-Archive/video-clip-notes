@@ -4,8 +4,8 @@ date: "2020-10-06"
 layout: transcript
 topics:
     - "environment/resources"
-    - "features/transportation/vehicles"
     - "features/transportation/trains"
+    - "features/transportation/vehicles"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Will the Resource Transportation get an update?

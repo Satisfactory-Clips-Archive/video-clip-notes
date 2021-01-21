@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: Are we going to be able to build more
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/power-management/nuclear-energy"
     - "features/power-management"
+    - "features/power-management/nuclear-energy"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)

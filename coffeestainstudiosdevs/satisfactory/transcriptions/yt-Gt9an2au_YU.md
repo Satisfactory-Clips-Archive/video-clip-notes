@@ -3,8 +3,8 @@ title: "December 15th, 2020 Livestream Q&A: What will happen to the FICS⁕MAS p
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/seasonal-events/fics-mas"
     - "features/power-management"
+    - "satisfactory-updates/seasonal-events/fics-mas"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: What will happen to the FICS⁕MAS power lines after the event?

@@ -3,8 +3,8 @@ title: "October 6th, 2020 Livestream Q&A: Is procedural hard to get balanced?"
 date: "2020-10-06"
 layout: transcript
 topics:
-    - "features/unplanned-features/procedural-generation"
     - "environment/world-map"
+    - "features/unplanned-features/procedural-generation"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Is procedural hard to get balanced?

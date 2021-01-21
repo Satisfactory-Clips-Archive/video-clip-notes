@@ -3,8 +3,8 @@ title: "September 15th, 2020 Livestream Q&A: Can we have a natural healing area 
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "features/buildings/the-hub"
     - "features/buildings"
+    - "features/buildings/the-hub"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Can we have a natural healing area in the Hub?

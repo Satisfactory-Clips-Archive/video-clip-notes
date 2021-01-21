@@ -3,8 +3,8 @@ title: "November 10th, 2020 Livestream Q&A: Are you guys aware of a crash when l
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "mods"
     - "features/power-management"
+    - "mods"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Are you guys aware of a crash when looking at using Double Wall Outlets?

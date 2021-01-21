@@ -3,8 +3,8 @@ title: "December 19th, 2019 Livestream Q&A: Give us a flight vehicle?"
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "features/unplanned-features/aerial-travel"
     - "features/transportation/vehicles"
+    - "features/unplanned-features/aerial-travel"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Give us a flight vehicle?

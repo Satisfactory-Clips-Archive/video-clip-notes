@@ -3,8 +3,8 @@ title: "November 10th, 2020 Livestream Q&A: Any plans on in-game Jukebox?"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "features/buildings/the-hub"
     - "features/buildings"
+    - "features/buildings/the-hub"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans on in-game Jukebox?

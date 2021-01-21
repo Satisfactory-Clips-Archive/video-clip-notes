@@ -3,8 +3,8 @@ title: "March 9th, 2019 Livestream Jace Talk: The Map is not procedural"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "features/unplanned-features/procedural-generation"
     - "environment/world-map"
+    - "features/unplanned-features/procedural-generation"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Jace Talk: The Map is not procedural

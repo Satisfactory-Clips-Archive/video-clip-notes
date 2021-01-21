@@ -3,8 +3,8 @@ title: "September 15th, 2020 Livestream Q&A: Will the update break saves?"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will the update break saves?

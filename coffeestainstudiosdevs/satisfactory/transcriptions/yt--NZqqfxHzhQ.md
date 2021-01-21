@@ -3,8 +3,8 @@ title: "January 12th, 2021 Livestream Q&A: More performance updates with Update 
 date: "2021-01-12"
 layout: transcript
 topics:
-    - "technology/unreal-engine"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "technology/unreal-engine"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: More performance updates with Update 4?

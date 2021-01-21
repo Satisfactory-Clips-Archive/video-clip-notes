@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: Will it be possible to use decimal pl
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "technology/user-interface"
     - "features/buildings"
+    - "technology/user-interface"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will it be possible to use decimal places for percentages in future?

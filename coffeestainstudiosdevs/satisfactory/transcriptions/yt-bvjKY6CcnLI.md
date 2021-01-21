@@ -3,9 +3,9 @@ title: "November 17th, 2020 Livestream Trolling: Procedural Generation"
 date: "2020-11-17"
 layout: transcript
 topics:
+    - "environment/world-map"
     - "features/unplanned-features/procedural-generation"
     - "technology/graphics"
-    - "environment/world-map"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Procedural Generation

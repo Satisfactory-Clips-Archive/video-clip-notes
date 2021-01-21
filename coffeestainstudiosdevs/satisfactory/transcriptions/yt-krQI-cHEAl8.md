@@ -3,8 +3,8 @@ title: "December 19th, 2019 Livestream Q&A: Will Snutt carry on Jace's legacy th
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "coffee-stainers/snutt"
     - "coffee-stainers/jace"
+    - "coffee-stainers/snutt"
     - "features/fluids/pipes"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)

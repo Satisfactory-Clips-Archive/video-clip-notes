@@ -3,10 +3,10 @@ title: "December 8th, 2020 Livestream Snutt Talk: Update 4 Tier 7 changes & Earl
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-1-0"
     - "features/tiers"
-    - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/pending/satisfactory-1-0"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt Talk: Update 4 Tier 7 changes & Early Access

@@ -3,8 +3,8 @@ title: "September 1st, 2020 Livestream Q&A: Are we going to be able to get the S
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "features/buildings/space-elevator"
     - "features/buildings"
+    - "features/buildings/space-elevator"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Are we going to be able to get the Space Elevator Food Court?

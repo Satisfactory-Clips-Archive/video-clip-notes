@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=33dr3t-46yQ
 
 ### Topics
-* [Environment > Creatures](../topics/environment/creatures.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript
 

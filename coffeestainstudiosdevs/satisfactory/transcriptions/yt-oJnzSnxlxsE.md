@@ -3,8 +3,8 @@ title: "November 3rd, 2020 Livestream Q&A: Why does my game lag when I made a hu
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "technology/graphics"
     - "features/unplanned-features/mass-building"
+    - "technology/graphics"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Why does my game lag when I made a huge Base?

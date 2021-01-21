@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: Will you change Geothermal Generators
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/power-management/geothermal-energy"
     - "features/power-management"
+    - "features/power-management/geothermal-energy"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will you change Geothermal Generators?

@@ -3,9 +3,9 @@ title: "September 8th, 2020 Livestream Jace & Snutt Talk: Map Modding"
 date: "2020-09-08"
 layout: transcript
 topics:
+    - "environment/world-map"
     - "features/unplanned-features/terraforming"
     - "mods"
-    - "environment/world-map"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Jace & Snutt Talk: Map Modding

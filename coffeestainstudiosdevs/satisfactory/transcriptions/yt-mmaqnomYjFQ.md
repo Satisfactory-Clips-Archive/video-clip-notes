@@ -3,8 +3,8 @@ title: "December 19th, 2019 Livestream Q&A: Snutt Jace's baby Community Manager?
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "coffee-stainers/snutt"
     - "coffee-stainers/jace"
+    - "coffee-stainers/snutt"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Snutt Jace's baby Community Manager?

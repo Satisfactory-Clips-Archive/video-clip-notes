@@ -3,8 +3,8 @@ title: "March 9th, 2019 Livestream Q&A: When are you guys adding back maps?"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "technology/user-interface"
     - "environment/world-map"
+    - "technology/user-interface"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: When are you guys adding back maps?

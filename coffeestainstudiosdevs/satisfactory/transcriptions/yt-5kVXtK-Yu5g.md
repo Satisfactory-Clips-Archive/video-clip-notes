@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream State of Dev: ETA for Update 4"
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/state-of-dev"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## State of Dev: ETA for Update 4

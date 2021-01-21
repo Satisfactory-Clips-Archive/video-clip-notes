@@ -4,12 +4,14 @@ date: "2020-09-22"
 layout: transcript
 topics:
     - "environment/creatures"
+    - "environment/creatures/crab-boss"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Will there be more creatures?
 https://www.youtube.com/watch?v=Yzd466gO44M
 
 ### Topics
+* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript

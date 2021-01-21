@@ -3,8 +3,8 @@ title: "November 24th, 2020 Livestream Q&A: Split-screen for Satisfactory?"
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "technology/graphics"
     - "features/multiplayer"
+    - "technology/graphics"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Split-screen for Satisfactory?

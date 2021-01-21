@@ -3,8 +3,8 @@ title: "December 19th, 2019 Livestream Q&A: Does it mean we get Goats?"
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "off-topic/goat-simulator"
     - "environment/creatures"
+    - "off-topic/goat-simulator"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Does it mean we get Goats?

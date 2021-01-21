@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: What's the cost of the Resource Well 
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/buildings/resource-well-pressurizer"
     - "features/buildings/resource-well-extractor"
+    - "features/buildings/resource-well-pressurizer"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)

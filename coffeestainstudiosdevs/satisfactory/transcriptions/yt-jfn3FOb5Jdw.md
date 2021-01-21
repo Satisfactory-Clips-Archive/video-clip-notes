@@ -3,9 +3,9 @@ title: "October 27th, 2020 Livestream Q&A: What about Multiplayer Updates?"
 date: "2020-10-27"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "features/multiplayer"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: What about Multiplayer Updates?

@@ -3,14 +3,14 @@ title: "October 6th, 2020 Livestream Q&A: When do we get the Crab Boss?"
 date: "2020-10-06"
 layout: transcript
 topics:
-    - "environment/creatures"
+    - "environment/creatures/crab-boss"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: When do we get the Crab Boss?
 https://www.youtube.com/watch?v=m4PtschrKJc
 
 ### Topics
-* [Environment > Creatures](../topics/environment/creatures.md)
+* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 
 ### Transcript
 

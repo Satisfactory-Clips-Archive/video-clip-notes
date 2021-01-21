@@ -4,8 +4,8 @@ date: "2020-09-08"
 layout: transcript
 topics:
     - "environment/pollution"
-    - "features/buildings"
     - "environment/world-map"
+    - "features/buildings"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Pollution is a thing?

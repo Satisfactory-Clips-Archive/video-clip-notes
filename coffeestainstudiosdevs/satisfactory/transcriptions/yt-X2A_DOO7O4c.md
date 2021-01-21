@@ -3,9 +3,9 @@ title: "January 19th, 2021 Livestream Q&A: Why are Conveyor Belts not powered?"
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/power-management/green-energy"
     - "features/buildables/conveyor-belts"
     - "features/power-management"
+    - "features/power-management/green-energy"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Why are Conveyor Belts not powered?

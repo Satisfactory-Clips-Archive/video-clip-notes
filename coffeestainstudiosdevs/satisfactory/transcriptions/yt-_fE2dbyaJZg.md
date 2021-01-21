@@ -3,8 +3,8 @@ title: "November 24th, 2020 Livestream Q&A: Is terraforming possible any time in
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "features/unplanned-features/terraforming"
     - "environment/world-map"
+    - "features/unplanned-features/terraforming"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Is terraforming possible any time in the future?

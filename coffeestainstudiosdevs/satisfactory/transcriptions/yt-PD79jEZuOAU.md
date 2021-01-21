@@ -3,8 +3,8 @@ title: "November 24th, 2020 Livestream Q&A: Are Dedicated Servers going to have 
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "mods"
     - "features/planned-features/dedicated-servers"
+    - "mods"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Are Dedicated Servers going to have Mod support?

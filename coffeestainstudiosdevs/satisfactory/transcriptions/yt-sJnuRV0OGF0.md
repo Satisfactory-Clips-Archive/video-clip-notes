@@ -3,8 +3,8 @@ title: "December 15th, 2020 Livestream Q&A: Can we get turrets and more PvE?"
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
     - "environment/world-map"
+    - "features/possible-features/game-modes"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can we get turrets and more PvE?

@@ -3,9 +3,9 @@ title: "January 19th, 2021 Livestream Q&A: Will Diluted Packaged Fuel be retaine
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/crafting/fuel"
     - "features/buildings/blender"
     - "features/buildings/packager"
+    - "features/crafting/fuel"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will Diluted Packaged Fuel be retained if Diluted Liquid Fuel gets added to the Blender?

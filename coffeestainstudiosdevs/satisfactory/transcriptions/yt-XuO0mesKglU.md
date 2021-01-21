@@ -4,7 +4,6 @@ date: "2020-11-24"
 layout: transcript
 topics:
     - "environment/creatures/lizard-doggo"
-    - "environment/creatures"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Rare albino Doggo?
@@ -12,7 +11,6 @@ https://www.youtube.com/watch?v=XuO0mesKglU
 
 ### Topics
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
-* [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript
 

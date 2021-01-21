@@ -3,8 +3,8 @@ title: "November 17th, 2020 Livestream Q&A: Can we add Solar Power?"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "features/power-management/green-energy"
     - "features/power-management"
+    - "features/power-management/green-energy"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Can we add Solar Power?

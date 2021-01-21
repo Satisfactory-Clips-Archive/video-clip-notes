@@ -4,7 +4,6 @@ date: "2020-09-22"
 layout: transcript
 topics:
     - "environment/creatures/lizard-doggo"
-    - "environment/creatures"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Do you guys have any plans for wrangling Lizard Doggos?
@@ -12,7 +11,6 @@ https://www.youtube.com/watch?v=UjpXjYid5ng
 
 ### Topics
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
-* [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript
 

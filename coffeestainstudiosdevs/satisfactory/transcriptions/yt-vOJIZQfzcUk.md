@@ -4,8 +4,8 @@ date: "2020-09-22"
 layout: transcript
 topics:
     - "environment/plants"
-    - "technology/graphics"
     - "features/multiplayer"
+    - "technology/graphics"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Does destroying trees & rocks make the game slower like making buildings?

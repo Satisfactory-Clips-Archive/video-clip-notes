@@ -3,8 +3,8 @@ title: "October 27th, 2020 Livestream Q&A: What material are they going to use f
 date: "2020-10-27"
 layout: transcript
 topics:
-    - "features/fluids/pumps"
     - "features/fluids/pipes"
+    - "features/fluids/pumps"
     - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 27th, 2020 Livestream](../2020-10-27.md)

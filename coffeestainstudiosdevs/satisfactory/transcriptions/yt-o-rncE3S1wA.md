@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: Will some of the AWESOME Store items 
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/buildings/m-a-m"
     - "features/buildings/awesome-store"
+    - "features/buildings/m-a-m"
     - "features/tiers"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)

@@ -4,12 +4,14 @@ date: "2020-10-20"
 layout: transcript
 topics:
     - "environment/creatures"
+    - "environment/creatures/crab-boss"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will Aliens become more diverse/actually challenging?
 https://www.youtube.com/watch?v=K7fDE5Dg570
 
 ### Topics
+* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript

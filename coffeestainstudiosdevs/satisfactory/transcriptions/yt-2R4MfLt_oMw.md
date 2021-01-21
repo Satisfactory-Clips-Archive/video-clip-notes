@@ -3,9 +3,9 @@ title: "September 22nd, 2020 Livestream Q&A: Would implementing covered belts re
 date: "2020-09-22"
 layout: transcript
 topics:
-    - "technology/graphics"
     - "features/buildings"
     - "features/unplanned-features/mass-building"
+    - "technology/graphics"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Would implementing covered belts reduce the number of objects in the world?

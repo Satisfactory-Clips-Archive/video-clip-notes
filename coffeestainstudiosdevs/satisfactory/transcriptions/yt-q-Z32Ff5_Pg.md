@@ -3,8 +3,8 @@ title: "November 10th, 2020 Livestream Q&A: Nuclear removal when?"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "features/power-management/nuclear-energy"
     - "features/power-management"
+    - "features/power-management/nuclear-energy"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Nuclear removal when?

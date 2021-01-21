@@ -3,9 +3,9 @@ title: "November 10th, 2020 Livestream Q&A: Can you summarise the upcoming build
 date: "2020-11-10"
 layout: transcript
 topics:
+    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/release-builds"
     - "satisfactory-updates/state-of-dev"
-    - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can you summarise the upcoming builds for the next months?

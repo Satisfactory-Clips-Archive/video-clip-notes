@@ -3,8 +3,8 @@ title: "October 20th, 2020 Livestream Q&A: Dedicated Servers coming with the nex
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "features/planned-features/dedicated-servers"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Dedicated Servers coming with the next Update ?

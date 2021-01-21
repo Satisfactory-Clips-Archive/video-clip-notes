@@ -3,8 +3,8 @@ title: "September 1st, 2020 Livestream Q&A: Any plans to get rid of Nuclear Wast
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "features/power-management/nuclear-energy"
     - "features/power-management"
+    - "features/power-management/nuclear-energy"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Any plans to get rid of Nuclear Waste?

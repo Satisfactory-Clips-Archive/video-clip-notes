@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: Will we use the Blender for Diluted F
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/crafting/fuel"
     - "features/buildings/blender"
+    - "features/crafting/fuel"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)

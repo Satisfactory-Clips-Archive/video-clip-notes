@@ -3,10 +3,10 @@ title: "January 15th, 2021 Teasers Gases are coming in Update 4"
 date: "2021-01-15"
 layout: transcript
 topics:
-    - "features/buildings/resource-well-pressurizer"
-    - "features/buildings/resource-well-extractor"
-    - "features/gases"
     - "environment/resources"
+    - "features/buildings/resource-well-extractor"
+    - "features/buildings/resource-well-pressurizer"
+    - "features/gases"
 ---
 # [January 15th, 2021 Teasers](../2021-01-15.md)
 ## Gases are coming in Update 4

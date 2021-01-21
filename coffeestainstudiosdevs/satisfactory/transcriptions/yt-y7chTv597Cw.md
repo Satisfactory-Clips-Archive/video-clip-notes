@@ -3,8 +3,8 @@ title: "December 8th, 2020 Livestream Q&A: The Map?"
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "satisfactory-updates/satisfactory-2017"
     - "environment/world-map"
+    - "satisfactory-updates/satisfactory-2017"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: The Map?

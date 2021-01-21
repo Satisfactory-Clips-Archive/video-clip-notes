@@ -3,9 +3,9 @@ title: "October 13th, 2020 Livestream Q&A: Is it possible to use the add to-do l
 date: "2020-10-13"
 layout: transcript
 topics:
+    - "features/buildings"
     - "features/crafting"
     - "technology/user-interface"
-    - "features/buildings"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Is it possible to use the add to-do list without visiting the crafting bench?

@@ -3,8 +3,8 @@ title: "November 24th, 2020 Livestream Q&A: Alien creature launcher - evict the 
 date: "2020-11-24"
 layout: transcript
 topics:
+    - "environment/creatures/space-giraffe-tick-penguin-whale-thing"
     - "features/buildables/jump-pads"
-    - "environment/creatures"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Alien creature launcher - evict the giant Tick?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=mASNXinF0mA
 
 ### Topics
 * [Features > Buildables > Jump Pads](../topics/features/buildables/jump-pads.md)
-* [Environment > Creatures](../topics/environment/creatures.md)
+* [Environment > Creatures > Space Giraffe-Tick-Penguin-Whale Thing](../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
 ### Transcript
 

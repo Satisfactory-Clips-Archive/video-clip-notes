@@ -3,8 +3,8 @@ title: "September 8th, 2020 Livestream Q&A: Time to invest in Map Modding?"
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "mods"
     - "environment/world-map"
+    - "mods"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Time to invest in Map Modding?

@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=wFKmvfIOuCY
 
 ### Topics
-* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Features > Pioneer](../topics/features/pioneer.md)
+* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 
 ### Transcript
 

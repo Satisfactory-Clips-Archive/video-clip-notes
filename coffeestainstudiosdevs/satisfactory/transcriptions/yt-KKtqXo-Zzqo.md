@@ -4,8 +4,8 @@ date: "2020-12-08"
 layout: transcript
 topics:
     - "accessibility/arachnophobia-mode"
-    - "satisfactory-updates/satisfactory-2017"
     - "environment/creatures"
+    - "satisfactory-updates/satisfactory-2017"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Are there spiders in this build?

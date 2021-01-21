@@ -3,8 +3,8 @@ title: "September 29th, 2020 Livestream Q&A: Will the Map change for 1.0?"
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-1-0"
     - "environment/world-map"
+    - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will the Map change for 1.0?

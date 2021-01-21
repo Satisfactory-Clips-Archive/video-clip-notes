@@ -3,8 +3,8 @@ title: "March 9th, 2019 Livestream Snutt, Simon, Jace Talk: Animator, Sound Desi
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "coffee-stainers/tim"
     - "coffee-stainers/simon"
+    - "coffee-stainers/tim"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, Jace Talk: Animator, Sound Designer, Tim, and Simon Saga

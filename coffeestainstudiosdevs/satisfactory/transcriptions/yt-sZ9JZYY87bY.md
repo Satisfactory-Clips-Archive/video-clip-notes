@@ -3,9 +3,9 @@ title: "November 17th, 2020 Livestream Q&A: Dark Matter in the game?"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "features/unreleased-features/unreleased-content"
     - "features/buildings"
     - "features/power-management"
+    - "features/unreleased-features/unreleased-content"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Dark Matter in the game?

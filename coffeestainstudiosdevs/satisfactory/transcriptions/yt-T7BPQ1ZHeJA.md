@@ -3,8 +3,8 @@ title: "September 1st, 2020 Livestream Q&A: Would geothermal generators get a bu
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "features/power-management/geothermal-energy"
     - "features/power-management"
+    - "features/power-management/geothermal-energy"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Would geothermal generators get a buff or rework of sorts?

@@ -3,8 +3,8 @@ title: "October 6th, 2020 Livestream Q&A: Is the expected date relative to Early
 date: "2020-10-06"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Is the expected date relative to Early Access or Experimental?

@@ -4,12 +4,14 @@ date: "2020-11-03"
 layout: transcript
 topics:
     - "environment/creatures"
+    - "environment/creatures/crab-boss"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Are there going to be new Creatures?
 https://www.youtube.com/watch?v=c3jeZv_aYug
 
 ### Topics
+* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript

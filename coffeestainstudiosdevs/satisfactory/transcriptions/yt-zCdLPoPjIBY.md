@@ -3,9 +3,9 @@ title: "October 6th, 2020 Livestream Q&A: Any quality-of-life stuff for platform
 date: "2020-10-06"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "features/unplanned-features/mass-building"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any quality-of-life stuff for platform placing or fluids?

@@ -3,8 +3,8 @@ title: "November 3rd, 2020 Livestream Q&A: Any plans for better Belts for Pure n
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "features/buildables/conveyor-belts"
     - "environment/resources"
+    - "features/buildables/conveyor-belts"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Any plans for better Belts for Pure nodes?

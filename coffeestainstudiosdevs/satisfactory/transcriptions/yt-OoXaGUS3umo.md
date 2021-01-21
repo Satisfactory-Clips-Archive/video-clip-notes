@@ -4,9 +4,9 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "features/buildings/resource-well-pressurizer"
-    - "features/gases"
-    - "features/fluids/pipes"
     - "features/fluids"
+    - "features/fluids/pipes"
+    - "features/gases"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Do you have a plan on adding a Pipe-bursting feature if you over-pressurise them?

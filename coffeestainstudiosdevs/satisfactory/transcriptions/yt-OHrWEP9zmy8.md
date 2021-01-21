@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: How many bosses in Satisfactory?"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "environment/creatures"
+    - "environment/creatures/crab-boss"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How many bosses in Satisfactory?
 https://www.youtube.com/watch?v=OHrWEP9zmy8
 
 ### Topics
-* [Environment > Creatures](../topics/environment/creatures.md)
+* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 
 ### Transcript
 

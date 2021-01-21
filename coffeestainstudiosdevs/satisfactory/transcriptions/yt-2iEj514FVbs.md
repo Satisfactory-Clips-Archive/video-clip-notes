@@ -3,8 +3,8 @@ title: "November 3rd, 2020 Livestream Q&A: Can you use old saves after Updates ?
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Can you use old saves after Updates ?

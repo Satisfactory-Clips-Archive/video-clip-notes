@@ -3,8 +3,8 @@ title: "November 24th, 2020 Livestream Q&A: Will there be more options for aesth
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "features/possible-features/decor"
     - "features/buildings"
+    - "features/possible-features/decor"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will there be more options for aesthetics regarding things like house building?

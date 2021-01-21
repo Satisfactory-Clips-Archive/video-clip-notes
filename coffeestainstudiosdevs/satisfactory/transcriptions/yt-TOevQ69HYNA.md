@@ -3,8 +3,8 @@ title: "December 8th, 2020 Livestream Jace Talk: FICS⁕MAS leaks are not \"leak
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "satisfactory-updates/seasonal-events/fics-mas"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/seasonal-events/fics-mas"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Jace Talk: FICS⁕MAS leaks are not "leaks"

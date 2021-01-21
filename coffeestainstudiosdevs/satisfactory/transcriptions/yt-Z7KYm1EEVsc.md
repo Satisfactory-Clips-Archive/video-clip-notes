@@ -3,8 +3,8 @@ title: "November 24th, 2020 Livestream Q&A: Better UI scaling?"
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "technology/user-interface"
     - "technology/graphics"
+    - "technology/user-interface"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Better UI scaling?

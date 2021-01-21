@@ -3,14 +3,14 @@ title: "September 15th, 2020 Livestream Q&A: Does the Giant Crab unlock stuff?"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "environment/creatures"
+    - "environment/creatures/crab-boss"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Does the Giant Crab unlock stuff?
 https://www.youtube.com/watch?v=Dsjz5ntv9II
 
 ### Topics
-* [Environment > Creatures](../topics/environment/creatures.md)
+* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 
 ### Transcript
 

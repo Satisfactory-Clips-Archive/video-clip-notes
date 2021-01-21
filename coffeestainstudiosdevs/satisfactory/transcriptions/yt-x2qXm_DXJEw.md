@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=x2qXm_DXJEw
 
 ### Topics
-* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
+* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 
 ### Transcript
 

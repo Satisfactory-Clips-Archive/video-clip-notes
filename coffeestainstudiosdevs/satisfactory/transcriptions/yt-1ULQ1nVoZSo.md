@@ -3,8 +3,8 @@ title: "October 20th, 2020 Livestream Snutt Talk: Power Cables"
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "features/power-management"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Snutt Talk: Power Cables

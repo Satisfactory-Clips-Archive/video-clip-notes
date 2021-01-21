@@ -3,8 +3,8 @@ title: "October 6th, 2020 Livestream Q&A: Have you looked into shit for Multipla
 date: "2020-10-06"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
     - "features/multiplayer"
+    - "features/planned-features/dedicated-servers"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?

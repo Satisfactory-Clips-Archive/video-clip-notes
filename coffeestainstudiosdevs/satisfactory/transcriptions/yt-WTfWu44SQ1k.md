@@ -3,9 +3,9 @@ title: "November 17th, 2020 Livestream Q&A: When are Geothermal Generators going
 date: "2020-11-17"
 layout: transcript
 topics:
+    - "features/power-management"
     - "features/power-management/geothermal-energy"
     - "technology/user-interface"
-    - "features/power-management"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: When are Geothermal Generators going to get it's Info Panel?

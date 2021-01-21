@@ -3,8 +3,8 @@ title: "November 17th, 2020 Livestream Q&A: Are there any plans to add an option
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "technology/graphics"
     - "environment/world-map"
+    - "technology/graphics"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Are there any plans to add an option to disable the day/night cycle?

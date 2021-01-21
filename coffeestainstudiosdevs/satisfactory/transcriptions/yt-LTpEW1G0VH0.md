@@ -3,8 +3,8 @@ title: "December 8th, 2020 Livestream Q&A: Please reintroduce the Mining mini-ga
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "satisfactory-updates/satisfactory-2017"
     - "environment/resources"
+    - "satisfactory-updates/satisfactory-2017"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Please reintroduce the Mining mini-game?

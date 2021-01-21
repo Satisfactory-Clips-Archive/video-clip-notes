@@ -3,8 +3,8 @@ title: "November 24th, 2020 Livestream Q&A: Will Mods be downloadable in-game?"
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "mods/official-mod-support"
     - "mods"
+    - "mods/official-mod-support"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will Mods be downloadable in-game?

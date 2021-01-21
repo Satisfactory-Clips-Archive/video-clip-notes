@@ -3,10 +3,10 @@ title: "October 20th, 2020 Livestream Q&A: I'd take 30mw for the Packager if I c
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "features/buildings/refinery"
     - "features/buildings/packager"
-    - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "features/buildings/refinery"
     - "features/power-management"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: I'd take 30mw for the Packager if I could take 3x speed than the Refineries?

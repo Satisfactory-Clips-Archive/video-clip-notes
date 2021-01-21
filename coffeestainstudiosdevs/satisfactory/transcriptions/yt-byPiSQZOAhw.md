@@ -3,8 +3,8 @@ title: "December 19th, 2019 Livestream Q&A: Is there going to be a way to destro
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "features/gases"
     - "environment/world-map"
+    - "features/gases"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Is there going to be a way to destroy the fart rock?

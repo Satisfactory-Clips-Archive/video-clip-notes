@@ -4,8 +4,8 @@ date: "2020-09-29"
 layout: transcript
 topics:
     - "environment/resources/oil"
-    - "features/power-management/nuclear-energy"
     - "features/power-management"
+    - "features/power-management/nuclear-energy"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil?

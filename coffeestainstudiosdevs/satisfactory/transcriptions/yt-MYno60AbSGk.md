@@ -3,9 +3,9 @@ title: "September 15th, 2020 Livestream Q&A: Will there be a Map Editor?"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "mods/mods-vs-features"
-    - "mods"
     - "environment/world-map"
+    - "mods"
+    - "mods/mods-vs-features"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will there be a Map Editor?

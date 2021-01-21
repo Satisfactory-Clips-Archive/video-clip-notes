@@ -3,8 +3,8 @@ title: "October 20th, 2020 Livestream Q&A: Are 24/7 Servers for the game so impo
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
     - "features/multiplayer"
+    - "features/planned-features/dedicated-servers"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Are 24/7 Servers for the game so important?

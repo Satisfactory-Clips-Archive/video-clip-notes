@@ -3,8 +3,8 @@ title: "March 9th, 2019 Livestream Q&A: Is it possible to kill a Spitter with th
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "features/equipment"
     - "environment/creatures"
+    - "features/equipment"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is it possible to kill a Spitter with the standard Zapper?

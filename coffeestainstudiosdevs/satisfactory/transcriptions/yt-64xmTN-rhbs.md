@@ -3,8 +3,8 @@ title: "January 12th, 2021 Livestream Q&A: The game is not done until I can flus
 date: "2021-01-12"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-1-0"
     - "features/possible-features/dlc"
+    - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: The game is not done until I can flush the toilet?

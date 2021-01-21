@@ -3,14 +3,14 @@ title: "October 20th, 2020 Livestream Q&A: Is the Tick the official for the Spac
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "environment/creatures"
+    - "environment/creatures/space-giraffe-tick-penguin-whale-thing"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Is the Tick the official for the Space Cow Bean Giraffe?
 https://www.youtube.com/watch?v=1vgaetZXbxM
 
 ### Topics
-* [Environment > Creatures](../topics/environment/creatures.md)
+* [Environment > Creatures > Space Giraffe-Tick-Penguin-Whale Thing](../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
 ### Transcript
 

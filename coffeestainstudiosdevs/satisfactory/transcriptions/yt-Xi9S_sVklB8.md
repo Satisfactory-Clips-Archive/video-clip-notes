@@ -3,9 +3,9 @@ title: "January 19th, 2021 Livestream Q&A: What about an opional grid to put all
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "environment/world-map"
     - "features/buildables/foundations"
     - "technology/user-interface"
-    - "environment/world-map"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: What about an opional grid to put all Foundations all aligned around the Map?

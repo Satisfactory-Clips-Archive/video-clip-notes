@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "environment/biomes"
     - "environment/plants"
-    - "technology/graphics"
     - "environment/world-map"
+    - "technology/graphics"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?

@@ -3,8 +3,8 @@ title: "December 15th, 2020 Livestream Q&A: Can you imagine bringing something d
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "features/possible-features/decor"
     - "features/buildables/foundations"
+    - "features/possible-features/decor"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can you imagine bringing something decoration foundations to factories?

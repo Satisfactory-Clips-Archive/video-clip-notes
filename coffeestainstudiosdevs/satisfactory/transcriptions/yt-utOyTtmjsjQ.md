@@ -3,8 +3,8 @@ title: "November 3rd, 2020 Livestream Q&A: Were there any Multiplayer updates in
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "features/multiplayer"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Were there any Multiplayer updates in 3.5?

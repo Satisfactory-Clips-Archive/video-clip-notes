@@ -3,8 +3,8 @@ title: "September 22nd, 2020 Livestream Snutt Talk: Update release schedule"
 date: "2020-09-22"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Snutt Talk: Update release schedule

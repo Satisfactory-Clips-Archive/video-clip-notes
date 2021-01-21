@@ -3,8 +3,8 @@ title: "September 15th, 2020 Livestream Q&A: Can I wear Boots, Jetpack and a Gas
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "features/equipment/jetpack"
     - "features/equipment"
+    - "features/equipment/jetpack"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Can I wear Boots, Jetpack and a Gas Mask?

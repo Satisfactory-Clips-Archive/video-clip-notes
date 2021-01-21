@@ -3,10 +3,10 @@ title: "October 20th, 2020 Livestream Q&A: Will the Packing machine cost the sam
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "features/buildings/refinery"
     - "features/buildings/packager"
-    - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "features/buildings/refinery"
     - "features/power-management"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will the Packing machine cost the same amount of power as the Refinery?

@@ -3,9 +3,9 @@ title: "October 27th, 2020 Livestream Q&A: Will we see performance improvements?
 date: "2020-10-27"
 layout: transcript
 topics:
+    - "features/multiplayer"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "technology/graphics"
-    - "features/multiplayer"
 ---
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Will we see performance improvements?

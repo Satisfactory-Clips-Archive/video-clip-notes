@@ -4,9 +4,9 @@ date: "2020-10-13"
 layout: transcript
 topics:
     - "features/possible-features/weather-systems"
+    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "technology/graphics"
-    - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Will one of the Quality of Life Updates be turning down the fog?

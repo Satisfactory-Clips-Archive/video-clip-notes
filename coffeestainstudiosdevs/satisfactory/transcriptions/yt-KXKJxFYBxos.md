@@ -3,8 +3,8 @@ title: "September 29th, 2020 Livestream Q&A: Add RTX?"
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "technology/unreal-engine"
     - "technology/graphics"
+    - "technology/unreal-engine"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Add RTX?

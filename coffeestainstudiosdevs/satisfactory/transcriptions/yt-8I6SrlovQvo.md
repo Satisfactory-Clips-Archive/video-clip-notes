@@ -3,10 +3,10 @@ title: "October 27th, 2020 Livestream Q&A: When you have 200,000 Foundations, Wa
 date: "2020-10-27"
 layout: transcript
 topics:
-    - "features/buildables/walls"
     - "features/buildables/foundations"
-    - "technology/graphics"
+    - "features/buildables/walls"
     - "features/unplanned-features/mass-building"
+    - "technology/graphics"
 ---
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: When you have 200,000 Foundations, Walls would be good too.

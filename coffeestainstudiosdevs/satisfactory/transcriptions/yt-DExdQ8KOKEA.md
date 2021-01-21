@@ -3,8 +3,8 @@ title: "October 20th, 2020 Livestream Q&A: Can we get different spawn points not
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "features/buildings/the-hub"
     - "environment/world-map"
+    - "features/buildings/the-hub"
     - "features/multiplayer"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)

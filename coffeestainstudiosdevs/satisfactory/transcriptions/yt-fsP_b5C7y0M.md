@@ -3,8 +3,8 @@ title: "December 8th, 2020 Livestream Snutt Talk: Lights on Buildings"
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "technology/graphics"
     - "features/buildings"
+    - "technology/graphics"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt Talk: Lights on Buildings

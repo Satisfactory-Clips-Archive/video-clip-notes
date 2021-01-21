@@ -4,8 +4,8 @@ date: "2020-12-15"
 layout: transcript
 topics:
     - "features/crafting/superposition-oscillator"
-    - "satisfactory-updates/seasonal-events/fics-mas"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/seasonal-events/fics-mas"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: What is the Superposition Oscillator for?

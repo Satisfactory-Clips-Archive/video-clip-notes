@@ -3,14 +3,14 @@ title: "October 6th, 2020 Livestream Q&A: Will the Crab Boss be flying or ground
 date: "2020-10-06"
 layout: transcript
 topics:
-    - "environment/creatures"
+    - "environment/creatures/crab-boss"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Will the Crab Boss be flying or ground-bound?
 https://www.youtube.com/watch?v=SoejWWEwmcI
 
 ### Topics
-* [Environment > Creatures](../topics/environment/creatures.md)
+* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 
 ### Transcript
 

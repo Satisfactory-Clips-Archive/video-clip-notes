@@ -3,9 +3,9 @@ title: "September 1st, 2020 Livestream Q&A: Why did you change the Nuclear React
 date: "2020-09-01"
 layout: transcript
 topics:
+    - "features/buildings"
     - "features/power-management/nuclear-energy"
     - "technology/graphics"
-    - "features/buildings"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Why did you change the Nuclear Reactors model?

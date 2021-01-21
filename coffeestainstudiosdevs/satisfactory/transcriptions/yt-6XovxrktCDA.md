@@ -3,8 +3,8 @@ title: "December 15th, 2020 Livestream Q&A: Will the event come back next year?"
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/seasonal-events/fics-mas"
     - "satisfactory-updates/seasonal-events"
+    - "satisfactory-updates/seasonal-events/fics-mas"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will the event come back next year?

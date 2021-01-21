@@ -4,9 +4,9 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "features/multiplayer"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Snutt & Jace Talk: Vague Roadmap, Update 4

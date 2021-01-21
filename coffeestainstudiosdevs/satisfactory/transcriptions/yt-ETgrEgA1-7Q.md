@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Snutt & Mark Talk: Retaining legacy recipe
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Snutt & Mark Talk: Retaining legacy recipes with new buildings

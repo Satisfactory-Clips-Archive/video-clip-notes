@@ -3,8 +3,8 @@ title: "September 15th, 2020 Livestream Q&A: Any improvement for the Trucks so t
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "features/transportation/vehicles"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Any improvement for the Trucks so they can transport Fluids?

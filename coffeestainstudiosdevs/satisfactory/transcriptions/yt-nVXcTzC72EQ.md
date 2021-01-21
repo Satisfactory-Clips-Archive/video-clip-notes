@@ -3,8 +3,8 @@ title: "September 8th, 2020 Livestream Q&A: Third-Person When?"
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "technology/user-interface"
     - "technology/graphics"
+    - "technology/user-interface"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Third-Person When?

@@ -4,8 +4,8 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "features/possible-features/game-modes"
-    - "mods/mods-vs-features"
     - "mods"
+    - "mods/mods-vs-features"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Is there something you'll never add to the game that you recommend Modders add instead?

@@ -3,8 +3,8 @@ title: "September 1st, 2020 Livestream Q&A: About how many Updates will there be
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-5"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/speculative/satisfactory-update-5"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: About how many Updates will there be before 1.0?

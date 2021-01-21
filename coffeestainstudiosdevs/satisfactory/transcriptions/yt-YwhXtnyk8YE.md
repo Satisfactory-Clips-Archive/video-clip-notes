@@ -3,8 +3,8 @@ title: "March 9th, 2019 Livestream Q&A: Why is Coal so rare? It's almost impossi
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "features/buildables/conveyor-belts"
     - "environment/resources"
+    - "features/buildables/conveyor-belts"
     - "features/transportation/vehicles"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)

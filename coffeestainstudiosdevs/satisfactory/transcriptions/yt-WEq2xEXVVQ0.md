@@ -3,9 +3,9 @@ title: "March 9th, 2019 Livestream Q&A: Will Dedicated Servers and Mods be free?
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "mods/official-mod-support"
-    - "mods"
     - "features/planned-features/dedicated-servers"
+    - "mods"
+    - "mods/official-mod-support"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will Dedicated Servers and Mods be free?

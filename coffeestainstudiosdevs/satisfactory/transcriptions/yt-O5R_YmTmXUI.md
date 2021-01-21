@@ -3,9 +3,9 @@ title: "March 9th, 2019 Livestream Q&A: Collect Fart Gas for fuel?"
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "environment/resources"
     - "features/crafting/fuel"
     - "features/gases"
-    - "environment/resources"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Collect Fart Gas for fuel?

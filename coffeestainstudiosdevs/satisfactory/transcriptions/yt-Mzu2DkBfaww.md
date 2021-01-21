@@ -3,9 +3,9 @@ title: "October 27th, 2020 Livestream Snutt Talk: New Refinery model"
 date: "2020-10-27"
 layout: transcript
 topics:
+    - "features/buildings"
     - "features/buildings/refinery"
     - "technology/graphics"
-    - "features/buildings"
 ---
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Snutt Talk: New Refinery model

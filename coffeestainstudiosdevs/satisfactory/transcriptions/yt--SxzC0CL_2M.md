@@ -3,8 +3,8 @@ title: "October 20th, 2020 Livestream Q&A: This sitting down thing, is it AFK or
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: This sitting down thing, is it AFK or not in the session?

@@ -3,8 +3,8 @@ title: "March 9th, 2019 Livestream Q&A: Why did you take our industrial lights a
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "technology/graphics"
     - "features/buildings"
+    - "technology/graphics"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Why did you take our industrial lights away from walkways, I miss those?

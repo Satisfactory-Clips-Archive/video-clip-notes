@@ -3,8 +3,8 @@ title: "September 8th, 2020 Livestream Q&A: Why not try ban all Mods / Do you wa
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "mods/mods-vs-features"
     - "mods"
+    - "mods/mods-vs-features"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Why not try ban all Mods / Do you want people to use Mods ?

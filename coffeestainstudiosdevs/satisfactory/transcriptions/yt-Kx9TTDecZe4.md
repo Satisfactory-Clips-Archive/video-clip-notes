@@ -3,8 +3,8 @@ title: "September 1st, 2020 Livestream Q&A: Are you going to share something imp
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-5"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/speculative/satisfactory-update-5"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Are you going to share something important related to next Updates?

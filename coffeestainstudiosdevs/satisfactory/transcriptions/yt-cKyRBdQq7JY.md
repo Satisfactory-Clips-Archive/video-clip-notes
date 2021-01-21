@@ -3,8 +3,8 @@ title: "October 20th, 2020 Livestream Jace Talk: Multiplayer Bugs vs. Dedicated 
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
     - "features/multiplayer"
+    - "features/planned-features/dedicated-servers"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Jace Talk: Multiplayer Bugs vs. Dedicated Servers

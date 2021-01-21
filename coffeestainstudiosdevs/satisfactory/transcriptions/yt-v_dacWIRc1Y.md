@@ -3,8 +3,8 @@ title: "September 29th, 2020 Livestream Q&A: Any form of Mass Storage Management
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "features/crafting"
     - "features/buildings"
+    - "features/crafting"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Any form of Mass Storage Management?

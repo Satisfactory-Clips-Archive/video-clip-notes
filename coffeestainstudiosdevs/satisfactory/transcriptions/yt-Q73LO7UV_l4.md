@@ -3,8 +3,8 @@ title: "October 13th, 2020 Livestream Q&A: Will Turbo Motors be used more in the
 date: "2020-10-13"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Will Turbo Motors be used more in the Update?

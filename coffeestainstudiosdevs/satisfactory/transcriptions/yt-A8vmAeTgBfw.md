@@ -3,8 +3,8 @@ title: "September 15th, 2020 Livestream Q&A: Any plans for when your Base grows 
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "features/crafting"
     - "features/buildings"
+    - "features/crafting"
     - "features/unplanned-features/mass-building"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)

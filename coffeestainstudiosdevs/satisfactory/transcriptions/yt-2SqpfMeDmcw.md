@@ -3,8 +3,8 @@ title: "November 10th, 2020 Livestream Q&A: I report a bug and include a screens
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "features/power-management/nuclear-energy"
     - "features/power-management"
+    - "features/power-management/nuclear-energy"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?

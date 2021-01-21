@@ -3,9 +3,9 @@ title: "October 6th, 2020 Livestream Q&A: Are Multiplayer desync issues with Tra
 date: "2020-10-06"
 layout: transcript
 topics:
-    - "features/transportation/vehicles"
-    - "features/transportation/trains"
     - "features/multiplayer"
+    - "features/transportation/trains"
+    - "features/transportation/vehicles"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?
