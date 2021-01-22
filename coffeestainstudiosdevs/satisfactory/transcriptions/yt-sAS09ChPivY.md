@@ -3,6 +3,7 @@ title: "January 19th, 2021 Livestream State of Dev: Closed Captions"
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "features/accessibility"
     - "satisfactory-updates/state-of-dev"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=sAS09ChPivY
 
 ### Topics
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Features > Accessibility](../topics/features/accessibility.md)
 
 ### Transcript
 

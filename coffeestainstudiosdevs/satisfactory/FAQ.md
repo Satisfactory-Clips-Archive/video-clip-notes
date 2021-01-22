@@ -16,6 +16,9 @@ date: Last Modified
 ## September 22nd, 2020
 * Q&A: Can we get more cat variety? https://www.youtube.com/watch?v=v_9SO9SU3B0
 
+## January 19th, 2021
+* State of Dev: Closed Captions https://www.youtube.com/watch?v=sAS09ChPivY
+
 
 # Aerial Travel
 
@@ -59,6 +62,28 @@ date: Last Modified
 
 ## September 22nd, 2020
 * Q&A: Can we get more cat variety? https://www.youtube.com/watch?v=v_9SO9SU3B0
+
+
+# Base Defense
+
+## March 9th, 2019
+* Q&A: Can creatures in any way disrupt your factory? https://www.youtube.com/watch?v=R2Fms8EjhN8
+* Q&A: Will there be turrets or something in the game? https://www.youtube.com/watch?v=xNBFywqCrxM
+
+## September 8th, 2020
+* Q&A: Pollution is a thing? https://www.youtube.com/watch?v=EI4HJKvO-OU
+
+## September 22nd, 2020
+* Q&A: Hoping for Base Defence? https://www.youtube.com/watch?v=RjFIQhJY824
+
+## December 8th, 2020
+* Q&A: Will there be any Base Defense? https://www.youtube.com/watch?v=5-8ACtMU2_E
+
+## December 15th, 2020
+* Q&A: Can we get turrets and more PvE? https://www.youtube.com/watch?v=sJnuRV0OGF0
+
+## January 19th, 2021
+* Snutt & Mark Talk: We will not be adding tower defense https://www.youtube.com/watch?v=hq02irf8xGM
 
 
 # Biomes

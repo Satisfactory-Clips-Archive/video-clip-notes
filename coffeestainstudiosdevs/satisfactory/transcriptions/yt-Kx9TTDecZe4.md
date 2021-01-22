@@ -3,6 +3,7 @@ title: "September 1st, 2020 Livestream Q&A: Are you going to share something imp
 date: "2020-09-01"
 layout: transcript
 topics:
+    - "features/unplanned-features/base-defense"
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/speculative/satisfactory-update-5"
 ---
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=Kx9TTDecZe4
 ### Topics
 * [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 

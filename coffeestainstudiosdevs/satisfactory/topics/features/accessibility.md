@@ -4,6 +4,12 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Accessibility
 
+# January 19th, 2021 Livestream
+* [State of Dev: Closed Captions](../../transcriptions/yt-sAS09ChPivY.md) https://www.youtube.com/watch?v=sAS09ChPivY
+
+# January 12th, 2021 Livestream
+* [Snutt & Jace Talk: Closed Captions in the livestream](../../transcriptions/yt-vSJ0V15Mlow.md) https://www.youtube.com/watch?v=vSJ0V15Mlow
+
 # November 24th, 2020 Livestream
 * [Q&A: Why do you put cat faces in Arachnophobia Mode?](../../transcriptions/yt-vlNaHkvoi0Y.md) https://www.youtube.com/watch?v=vlNaHkvoi0Y
 

@@ -4,6 +4,7 @@ date: "2020-12-08"
 layout: transcript
 topics:
     - "features/possible-features/game-modes"
+    - "features/unplanned-features/base-defense"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Will there be any Base Defense?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=5-8ACtMU2_E
 
 ### Topics
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 

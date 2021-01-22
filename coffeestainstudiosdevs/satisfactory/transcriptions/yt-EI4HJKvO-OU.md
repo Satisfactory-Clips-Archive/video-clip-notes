@@ -6,6 +6,7 @@ topics:
     - "environment/pollution"
     - "environment/world-map"
     - "features/buildings"
+    - "features/unplanned-features/base-defense"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Pollution is a thing?
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=EI4HJKvO-OU
 * [Environment > Pollution](../topics/environment/pollution.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 

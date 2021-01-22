@@ -3,6 +3,7 @@ title: "October 6th, 2020 Livestream Q&A: Do you have any good stories for featu
 date: "2020-10-06"
 layout: transcript
 topics:
+    - "features/unplanned-features/base-defense"
     - "features/unplanned-features/procedural-generation"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=JkSvpUl7jX8
 
 ### Topics
 * [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 

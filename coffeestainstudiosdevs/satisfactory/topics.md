@@ -134,6 +134,7 @@ date: Last Modified
 
 ## Unplanned Features
 * [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)
+* [Base Defense](./topics/features/unplanned-features/base-defense.md)
 * [Mass Building](./topics/features/unplanned-features/mass-building.md)
 * [Procedural Generation](./topics/features/unplanned-features/procedural-generation.md)
 * [Terraforming](./topics/features/unplanned-features/terraforming.md)
@@ -141,16 +142,16 @@ date: Last Modified
 ## Unreleased Features
 * [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
 
-# Mods
-* [Mods](./topics/mods.md)
-* [Mods vs. Features](./topics/mods/mods-vs-features.md)
-* [Official Mod Support](./topics/mods/official-mod-support.md)
-
 # Off-Topic
 * [Goat Simulator](./topics/off-topic/goat-simulator.md)
 * [Pizza](./topics/off-topic/pizza.md)
 * [Sanctum](./topics/off-topic/sanctum.md)
 * [Valheim](./topics/off-topic/valheim.md)
+
+# Mods
+* [Mods](./topics/mods.md)
+* [Mods vs. Features](./topics/mods/mods-vs-features.md)
+* [Official Mod Support](./topics/mods/official-mod-support.md)
 
 # Satisfactory Updates
 * [Release Builds](./topics/satisfactory-updates/release-builds.md)

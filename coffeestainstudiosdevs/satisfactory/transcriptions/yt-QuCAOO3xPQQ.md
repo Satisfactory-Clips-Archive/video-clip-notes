@@ -3,14 +3,14 @@ title: "October 20th, 2020 Livestream Q&A: Are there any features you guys reall
 date: "2020-10-20"
 layout: transcript
 topics:
-    - ""
+    - "features/unplanned-features/base-defense"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Are there any features you guys really want in the game but you can't/won't add?
 https://www.youtube.com/watch?v=QuCAOO3xPQQ
 
 ### Topics
-
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 

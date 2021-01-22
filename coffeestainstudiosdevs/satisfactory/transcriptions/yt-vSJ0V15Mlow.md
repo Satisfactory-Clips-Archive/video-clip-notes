@@ -3,14 +3,14 @@ title: "January 12th, 2021 Livestream Snutt & Jace Talk: Closed Captions in the 
 date: "2021-01-12"
 layout: transcript
 topics:
-    - ""
+    - "features/accessibility"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Snutt & Jace Talk: Closed Captions in the livestream
 https://www.youtube.com/watch?v=vSJ0V15Mlow
 
 ### Topics
-
+* [Features > Accessibility](../topics/features/accessibility.md)
 
 ### Transcript
 

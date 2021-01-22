@@ -3,14 +3,14 @@ title: "January 19th, 2021 Livestream Snutt & Mark Talk: We will not be adding t
 date: "2021-01-19"
 layout: transcript
 topics:
-    - ""
+    - "features/unplanned-features/base-defense"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Snutt & Mark Talk: We will not be adding tower defense
 https://www.youtube.com/watch?v=hq02irf8xGM
 
 ### Topics
-
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 

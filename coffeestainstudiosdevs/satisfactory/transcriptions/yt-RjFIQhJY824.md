@@ -4,6 +4,7 @@ date: "2020-09-22"
 layout: transcript
 topics:
     - "features/possible-features/game-modes"
+    - "features/unplanned-features/base-defense"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Hoping for Base Defence?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=RjFIQhJY824
 
 ### Topics
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 

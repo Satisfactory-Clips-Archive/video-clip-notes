@@ -4,6 +4,7 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "features/possible-features/game-modes"
+    - "features/unplanned-features/base-defense"
     - "mods"
     - "mods/mods-vs-features"
 ---
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=6RV2jnHyFvI
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Mods](../topics/mods.md)
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 
