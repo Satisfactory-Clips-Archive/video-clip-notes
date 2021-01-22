@@ -3,14 +3,14 @@ title: "January 12th, 2021 Livestream Q&A: Are there any plans to add Lights ins
 date: "2021-01-12"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "features/planned-features/lights"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Are there any plans to add Lights inside the factory?
 https://www.youtube.com/watch?v=QvTjwyhFvGQ
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
 
 ### Transcript
 

@@ -11,19 +11,14 @@ date: Last Modified
 * [Q&A: Is there any plan to add the r.screenpercentage setting for folks on 4k or high-res screens?](../../transcriptions/yt-p3zdRLbGwsk.md) https://www.youtube.com/watch?v=p3zdRLbGwsk
 * [Q&A: Ever add DLSS at some point?](../../transcriptions/yt-PqFAGrVd3M0.md) https://www.youtube.com/watch?v=PqFAGrVd3M0
 
-# January 12th, 2021 Livestream
-* [Q&A: Are there any plans to add Lights inside the factory?](../../transcriptions/yt-QvTjwyhFvGQ.md) https://www.youtube.com/watch?v=QvTjwyhFvGQ
-
 # December 15th, 2020 Livestream
 * [Q&A: Will RTX be added to Update 4 with the new Unreal Engine?](../../transcriptions/yt-RubFX693enI.md) https://www.youtube.com/watch?v=RubFX693enI
 
 # December 8th, 2020 Livestream
-* [Snutt Talk: Lights (not) confirmed!](../../transcriptions/yt-9VodwDOMBl0.md) https://www.youtube.com/watch?v=9VodwDOMBl0
 * [Q&A: DirectX 12 when?](../../transcriptions/yt-BxAAQTxvy-Y.md) https://www.youtube.com/watch?v=BxAAQTxvy-Y
 * [Q&A: Look's like the game is performing better - what went wrong?](../../transcriptions/yt-x7dc9P7vEGQ.md) https://www.youtube.com/watch?v=x7dc9P7vEGQ
 * [Snutt & Jace Talk: Water VFX](../../transcriptions/yt-rALTAvblpEM.md) https://www.youtube.com/watch?v=rALTAvblpEM
 * [Snutt Talk: Emmissive Materials](../../transcriptions/yt-nYpEI8hZEgU.md) https://www.youtube.com/watch?v=nYpEI8hZEgU
-* [Snutt Talk: Lights on Buildings](../../transcriptions/yt-fsP_b5C7y0M.md) https://www.youtube.com/watch?v=fsP_b5C7y0M
 
 # November 24th, 2020 Livestream
 * [Q&A: Does the Engine update include the waterfall graphics update?](../../transcriptions/yt-M9j9Bys_r_U.md) https://www.youtube.com/watch?v=M9j9Bys_r_U
@@ -33,12 +28,10 @@ date: Last Modified
 * [Jace Talk: VR for Satisfactory](../../transcriptions/yt-Xd5TIxzat7M.md) https://www.youtube.com/watch?v=Xd5TIxzat7M
 
 # November 17th, 2020 Livestream
-* [Trolling: Lights](../../transcriptions/yt--9gsspVilYk.md) https://www.youtube.com/watch?v=-9gsspVilYk
 * [Trolling: Procedural Generation](../../transcriptions/yt-bvjKY6CcnLI.md) https://www.youtube.com/watch?v=bvjKY6CcnLI
 * [Trolling: Ray Tracing](../../transcriptions/yt-ow_LpyvCnVo.md) https://www.youtube.com/watch?v=ow_LpyvCnVo
 * [Q&A: Multi-GPU Support?](../../transcriptions/yt-Q19sqmdRQAM.md) https://www.youtube.com/watch?v=Q19sqmdRQAM
 * [Q&A: DX12 more efficient?](../../transcriptions/yt-FlEUMECDwS4.md) https://www.youtube.com/watch?v=FlEUMECDwS4
-* [Q&A: Are there any plans to add an option to disable the day/night cycle?](../../transcriptions/yt-15jG0o32Dqk.md) https://www.youtube.com/watch?v=15jG0o32Dqk
 * [Q&A: Do you think this game would be suited for VR?](../../transcriptions/yt-z_DRaH3tfvY.md) https://www.youtube.com/watch?v=z_DRaH3tfvY
 
 # November 10th, 2020 Livestream
@@ -49,7 +42,6 @@ date: Last Modified
 
 # November 3rd, 2020 Livestream
 * [Q&A: VR Support?](../../transcriptions/yt-eJz8dJImPfQ.md) https://www.youtube.com/watch?v=eJz8dJImPfQ
-* [Q&A: Can you put in Lights, please?](../../transcriptions/yt-7dm8Lvfj8Ao.md) https://www.youtube.com/watch?v=7dm8Lvfj8Ao
 * [Q&A: Do you plan on some cutscenes for the Story?](../../transcriptions/yt-t6WEYv_TLDI.md) https://www.youtube.com/watch?v=t6WEYv_TLDI
 * [Q&A: Why does my game lag when I made a huge Base?](../../transcriptions/yt-oJnzSnxlxsE.md) https://www.youtube.com/watch?v=oJnzSnxlxsE
 * [Q&A: RTX support ever?](../../transcriptions/yt-PKx5vpwPGW0.md) https://www.youtube.com/watch?v=PKx5vpwPGW0
@@ -74,7 +66,6 @@ date: Last Modified
 
 # September 22nd, 2020 Livestream
 * [Q&A: Engine Update - allow more objects to be built without fps drops?](../../transcriptions/yt-sADDzCQqkmE.md) https://www.youtube.com/watch?v=sADDzCQqkmE
-* [Q&A: How about lighting?](../../transcriptions/yt-WDfN-WpIJXY.md) https://www.youtube.com/watch?v=WDfN-WpIJXY
 * [Q&A: Would implementing covered belts reduce the number of objects in the world?](../../transcriptions/yt-2R4MfLt_oMw.md) https://www.youtube.com/watch?v=2R4MfLt_oMw
 * [Q&A: What is the Object Count Limit, and how can we tell in our own game?](../../transcriptions/yt-gMq-fPCqGWQ.md) https://www.youtube.com/watch?v=gMq-fPCqGWQ
 * [Q&A: Does destroying trees & rocks make the game slower like making buildings?](../../transcriptions/yt-vOJIZQfzcUk.md) https://www.youtube.com/watch?v=vOJIZQfzcUk
@@ -90,7 +81,6 @@ date: Last Modified
 * [Q&A: Ever consider making a VR version of Satisfactory?](../../transcriptions/yt-3s-PKymQ9QU.md) https://www.youtube.com/watch?v=3s-PKymQ9QU
 * [Q&A: Should I remove all nature to improve FPS?](../../transcriptions/yt-t-FNpaJUBcE.md) https://www.youtube.com/watch?v=t-FNpaJUBcE
 * [Q&A: Third-Person When?](../../transcriptions/yt-nVXcTzC72EQ.md) https://www.youtube.com/watch?v=nVXcTzC72EQ
-* [Q&A: Indoor factories are very dark, will we be getting lighting to add to our bases?](../../transcriptions/yt-NxUuFfkp2zE.md) https://www.youtube.com/watch?v=NxUuFfkp2zE
 
 # September 1st, 2020 Livestream
 * [Q&A: DXR/RTX/DLSS ?](../../transcriptions/yt-QuoiJ9lpkB4.md) https://www.youtube.com/watch?v=QuoiJ9lpkB4
@@ -101,5 +91,3 @@ date: Last Modified
 * [Q&A: How did you guys optimise the game so much?](../../transcriptions/yt-nRCmJo-Wh9s.md) https://www.youtube.com/watch?v=nRCmJo-Wh9s
 * [Q&A: Game is awesome, but late-game is super laggy sometimes.](../../transcriptions/yt-3MO6SYCZuFI.md) https://www.youtube.com/watch?v=3MO6SYCZuFI
 * [Q&A: Any way to disable motion blur?](../../transcriptions/yt-TTZzooohufI.md) https://www.youtube.com/watch?v=TTZzooohufI
-* [Q&A: Will there be lamps for night?](../../transcriptions/yt-SiS0HGq7_oU.md) https://www.youtube.com/watch?v=SiS0HGq7_oU
-* [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../transcriptions/yt-Tit_bHzixmk.md) https://www.youtube.com/watch?v=Tit_bHzixmk

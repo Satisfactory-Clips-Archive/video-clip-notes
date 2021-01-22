@@ -3,14 +3,14 @@ title: "September 29th, 2020 Livestream Q&A: How high on the priority list is Tr
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "features/transportation/vehicles"
+    - "features/transportation/vehicles/truck"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: How high on the priority list is Truck Physics?
 https://www.youtube.com/watch?v=RdNktCE1Pek
 
 ### Topics
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
 
 ### Transcript
 

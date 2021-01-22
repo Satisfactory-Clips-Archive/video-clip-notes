@@ -7,9 +7,6 @@ date: Last Modified
 # January 19th, 2021 Livestream
 * [Q&A: What about Multiplayer Vehicle de-sync?](../../../transcriptions/yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw
 
-# January 12th, 2021 Livestream
-* [Q&A: Model of the Explorer seems incomplete?](../../../transcriptions/yt-8wGU5mxm-bY.md) https://www.youtube.com/watch?v=8wGU5mxm-bY
-
 # December 15th, 2020 Livestream
 * [Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update?](../../../transcriptions/yt-6BahsrvlPJs.md) https://www.youtube.com/watch?v=6BahsrvlPJs
 
@@ -43,17 +40,12 @@ date: Last Modified
 # October 6th, 2020 Livestream
 * [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](../../../transcriptions/yt-RVq5k89jlEA.md) https://www.youtube.com/watch?v=RVq5k89jlEA
 * [Q&A: Will the Resource Transportation get an update?](../../../transcriptions/yt-hKxm2Ps1UYY.md) https://www.youtube.com/watch?v=hKxm2Ps1UYY
-* [Q&A: What do you think about adding some kind of Tanker Truck?](../../../transcriptions/yt-JCBQj8Ern20.md) https://www.youtube.com/watch?v=JCBQj8Ern20
 * [Jace & Snutt Talk: Unconventional usage of Vehicles](../../../transcriptions/yt-QSxbYoiwVIQ.md) https://www.youtube.com/watch?v=QSxbYoiwVIQ
-
-# September 29th, 2020 Livestream
-* [Q&A: How high on the priority list is Truck Physics?](../../../transcriptions/yt-RdNktCE1Pek.md) https://www.youtube.com/watch?v=RdNktCE1Pek
 
 # September 22nd, 2020 Livestream
 * [Q&A: Boats will come?](../../../transcriptions/yt-33wha_duTqs.md) https://www.youtube.com/watch?v=33wha_duTqs
 
 # September 15th, 2020 Livestream
-* [Q&A: Any improvement for the Trucks so they can transport Fluids?](../../../transcriptions/yt-lNpwyJr7lZc.md) https://www.youtube.com/watch?v=lNpwyJr7lZc
 * [Q&A: Off-road Motorbike?](../../../transcriptions/yt-ZEFN3_Qz4Kg.md) https://www.youtube.com/watch?v=ZEFN3_Qz4Kg
 
 # September 8th, 2020 Livestream
@@ -75,7 +67,6 @@ date: Last Modified
 * [Q&A: Tractor, but "Sugar Cube" is mentioned in the description?](../../../transcriptions/yt-qvzPjISX75Y.md) https://www.youtube.com/watch?v=qvzPjISX75Y
 * [Q&A: I don't understand the autopilot for the Tractor?](../../../transcriptions/yt-V7BwnNzG8I0.md) https://www.youtube.com/watch?v=V7BwnNzG8I0
 * [Q&A: Will there be lamps for night?](../../../transcriptions/yt-SiS0HGq7_oU.md) https://www.youtube.com/watch?v=SiS0HGq7_oU
-* [Q&A: Do you guys plan on adding filters to Truck Stations?](../../../transcriptions/yt-HzaMvf15Ty8.md) https://www.youtube.com/watch?v=HzaMvf15Ty8
 * [Q&A: I've activated autopilot but it doesn't run?](../../../transcriptions/yt-yzhYoMChQ6Q.md) https://www.youtube.com/watch?v=yzhYoMChQ6Q
 
 # August 25th, 2020 Livestream

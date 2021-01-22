@@ -6,6 +6,7 @@ topics:
     - "features/buildables/walls"
     - "features/buildings"
     - "features/power-management"
+    - "features/power-management/nuclear-energy/nuclear-waste"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Protective Walls against Radiation?
@@ -14,6 +15,7 @@ https://www.youtube.com/watch?v=mTMwhMrP0sA
 ### Topics
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 * [Features > Power Management](../topics/features/power-management.md)
 
 ### Transcript

@@ -456,7 +456,6 @@ date: Last Modified
 
 ## March 9th, 2019
 * Q&A: Does building Walls around big factories help performance? https://www.youtube.com/watch?v=Cnw8Vw-BFO4
-* Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
 
 ## September 1st, 2020
 * Q&A: DXR/RTX/DLSS ? https://www.youtube.com/watch?v=QuoiJ9lpkB4
@@ -470,14 +469,12 @@ date: Last Modified
 ## September 22nd, 2020
 * Q&A: Can we get more cat variety? https://www.youtube.com/watch?v=v_9SO9SU3B0
 * Q&A: Does destroying trees & rocks make the game slower like making buildings? https://www.youtube.com/watch?v=vOJIZQfzcUk
-* Q&A: How about lighting? https://www.youtube.com/watch?v=WDfN-WpIJXY
 * Q&A: What is the Object Count Limit, and how can we tell in our own game? https://www.youtube.com/watch?v=gMq-fPCqGWQ
 
 ## September 29th, 2020
 * Q&A: Add RTX? https://www.youtube.com/watch?v=KXKJxFYBxos
 
 ## November 3rd, 2020
-* Q&A: Can you put in Lights, please? https://www.youtube.com/watch?v=7dm8Lvfj8Ao
 * Q&A: RTX support ever? https://www.youtube.com/watch?v=PKx5vpwPGW0
 * Q&A: VR Support? https://www.youtube.com/watch?v=eJz8dJImPfQ
 * Q&A: Will Satisfactory get Ray Tracing? https://www.youtube.com/watch?v=pb2KprHATHk
@@ -486,9 +483,7 @@ date: Last Modified
 * Q&A: Is it true that building vertically equals worse performance than building horizontally? https://www.youtube.com/watch?v=BF0MYqw_SpM
 
 ## November 17th, 2020
-* Q&A: Are there any plans to add an option to disable the day/night cycle? https://www.youtube.com/watch?v=15jG0o32Dqk
 * Q&A: Do you think this game would be suited for VR? https://www.youtube.com/watch?v=z_DRaH3tfvY
-* Trolling: Lights https://www.youtube.com/watch?v=-9gsspVilYk
 * Trolling: Procedural Generation https://www.youtube.com/watch?v=bvjKY6CcnLI
 * Trolling: Ray Tracing https://www.youtube.com/watch?v=ow_LpyvCnVo
 
@@ -496,15 +491,8 @@ date: Last Modified
 * Jace Talk: VR for Satisfactory https://www.youtube.com/watch?v=Xd5TIxzat7M
 * Q&A: Plans for Ray Tracing? https://www.youtube.com/watch?v=pvMET7F9BQ8
 
-## December 8th, 2020
-* Snutt Talk: Lights (not) confirmed! https://www.youtube.com/watch?v=9VodwDOMBl0
-* Snutt Talk: Lights on Buildings https://www.youtube.com/watch?v=fsP_b5C7y0M
-
 ## December 15th, 2020
 * Q&A: Will RTX be added to Update 4 with the new Unreal Engine? https://www.youtube.com/watch?v=RubFX693enI
-
-## January 12th, 2021
-* Q&A: Are there any plans to add Lights inside the factory? https://www.youtube.com/watch?v=QvTjwyhFvGQ
 
 ## January 19th, 2021
 * Q&A: Any Vulkan support? https://www.youtube.com/watch?v=9_yf4tON8MM
@@ -550,6 +538,29 @@ date: Last Modified
 
 ## January 12th, 2021
 * Snutt Talk: Turbofuel in Jetpacks https://www.youtube.com/watch?v=xY2wDhyE7ZE
+
+
+# Lights
+
+## March 9th, 2019
+* Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
+
+## September 22nd, 2020
+* Q&A: How about lighting? https://www.youtube.com/watch?v=WDfN-WpIJXY
+
+## November 3rd, 2020
+* Q&A: Can you put in Lights, please? https://www.youtube.com/watch?v=7dm8Lvfj8Ao
+
+## November 17th, 2020
+* Q&A: Are there any plans to add an option to disable the day/night cycle? https://www.youtube.com/watch?v=15jG0o32Dqk
+* Trolling: Lights https://www.youtube.com/watch?v=-9gsspVilYk
+
+## December 8th, 2020
+* Snutt Talk: Lights (not) confirmed! https://www.youtube.com/watch?v=9VodwDOMBl0
+* Snutt Talk: Lights on Buildings https://www.youtube.com/watch?v=fsP_b5C7y0M
+
+## January 12th, 2021
+* Q&A: Are there any plans to add Lights inside the factory? https://www.youtube.com/watch?v=QvTjwyhFvGQ
 
 
 # Lizard Doggo
@@ -785,6 +796,16 @@ date: Last Modified
 
 # Nuclear Energy
 
+## September 29th, 2020
+* Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil? https://www.youtube.com/watch?v=DYy7NpZ7qYA
+
+## November 10th, 2020
+* Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game? https://www.youtube.com/watch?v=2SqpfMeDmcw
+* Q&A: Nuclear removal when? https://www.youtube.com/watch?v=q-Z32Ff5_Pg
+
+
+# Nuclear Waste
+
 ## September 1st, 2020
 * Q&A: Any plans to get rid of Nuclear Waste? https://www.youtube.com/watch?v=cxWdU5_ai-0
 
@@ -793,12 +814,9 @@ date: Last Modified
 
 ## September 29th, 2020
 * Q&A: System that destroyed Nuclear Waste wouldn't be bad? https://www.youtube.com/watch?v=1nSztPm_B14
-* Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil? https://www.youtube.com/watch?v=DYy7NpZ7qYA
 
 ## November 10th, 2020
-* Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game? https://www.youtube.com/watch?v=2SqpfMeDmcw
 * Q&A: Nuclear Waste removal in-game when? https://www.youtube.com/watch?v=laualQ7TTug
-* Q&A: Nuclear removal when? https://www.youtube.com/watch?v=q-Z32Ff5_Pg
 
 ## November 24th, 2020
 * Q&A: Any way to recycle Nuclear Waste? https://www.youtube.com/watch?v=2ZbRpgGteaI
@@ -876,15 +894,8 @@ date: Last Modified
 
 # Power Management
 
-## September 1st, 2020
-* Q&A: Any plans to get rid of Nuclear Waste? https://www.youtube.com/watch?v=cxWdU5_ai-0
-
-## September 15th, 2020
-* Q&A: Is there a plan to deal with Nuclear Waste? https://www.youtube.com/watch?v=Eo_4p0KSPSY
-
 ## September 29th, 2020
 * Q&A: Are there any Green Energy options in the game? https://www.youtube.com/watch?v=9eBugtyk8U0
-* Q&A: System that destroyed Nuclear Waste wouldn't be bad? https://www.youtube.com/watch?v=1nSztPm_B14
 * Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil? https://www.youtube.com/watch?v=DYy7NpZ7qYA
 
 ## October 20th, 2020
@@ -893,7 +904,6 @@ date: Last Modified
 
 ## November 10th, 2020
 * Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game? https://www.youtube.com/watch?v=2SqpfMeDmcw
-* Q&A: Nuclear Waste removal in-game when? https://www.youtube.com/watch?v=laualQ7TTug
 * Q&A: Nuclear removal when? https://www.youtube.com/watch?v=q-Z32Ff5_Pg
 
 ## November 17th, 2020
@@ -1341,6 +1351,12 @@ date: Last Modified
 * Q&A: Why are Conveyor Belts not powered? https://www.youtube.com/watch?v=X2A_DOO7O4c
 
 
+# Truck
+
+## September 15th, 2020
+* Q&A: Any improvement for the Trucks so they can transport Fluids? https://www.youtube.com/watch?v=lNpwyJr7lZc
+
+
 # Underwater
 
 ## December 19th, 2019
@@ -1432,9 +1448,6 @@ date: Last Modified
 
 ## September 8th, 2020
 * Q&A: What're your guys thoughts on transport beyond Jetpacks ? https://www.youtube.com/watch?v=-sa8wjg4lYk
-
-## September 15th, 2020
-* Q&A: Any improvement for the Trucks so they can transport Fluids? https://www.youtube.com/watch?v=lNpwyJr7lZc
 
 ## September 22nd, 2020
 * Q&A: Boats will come? https://www.youtube.com/watch?v=33wha_duTqs

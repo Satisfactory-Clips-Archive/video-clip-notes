@@ -3,6 +3,7 @@ title: "September 29th, 2020 Livestream Q&A: Any form of Mass Storage Management
 date: "2020-09-29"
 layout: transcript
 topics:
+    - "features/buildables/storage-containers"
     - "features/buildings"
     - "features/crafting"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=v_dacWIRc1Y
 
 ### Topics
+* [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
 * [Features > Crafting](../topics/features/crafting.md)
 * [Features > Buildings](../topics/features/buildings.md)
 

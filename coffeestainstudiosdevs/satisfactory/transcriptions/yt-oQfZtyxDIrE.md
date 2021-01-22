@@ -4,6 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
+    - "features/buildables/storage-containers"
     - "features/buildings"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=oQfZtyxDIrE
 
 ### Topics
+* [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Buildings](../topics/features/buildings.md)
 

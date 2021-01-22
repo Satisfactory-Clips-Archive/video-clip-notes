@@ -51,6 +51,7 @@ date: Last Modified
 
 # Features
 * [Accessibility](./topics/features/accessibility.md)
+* [Autosave](./topics/features/autosave.md)
 * [Buildings](./topics/features/buildings.md)
 * [Crafting](./topics/features/crafting.md)
 * [Emotes](./topics/features/emotes.md)
@@ -81,6 +82,7 @@ date: Last Modified
 
 ## Planned Features
 * [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
+* [Lights](./topics/features/planned-features/lights.md)
 * [Signs](./topics/features/planned-features/signs.md)
 
 ## Accessibility
@@ -121,6 +123,9 @@ date: Last Modified
 * [Green Energy](./topics/features/power-management/green-energy.md)
 * [Nuclear Energy](./topics/features/power-management/nuclear-energy.md)
 
+### Nuclear Energy
+* [Nuclear Waste](./topics/features/power-management/nuclear-energy/nuclear-waste.md)
+
 ## Transportation
 * [Hyper Tubes](./topics/features/transportation/hyper-tubes.md)
 * [Trains](./topics/features/transportation/trains.md)
@@ -130,7 +135,9 @@ date: Last Modified
 * [Train Signals](./topics/features/transportation/trains/train-signals.md)
 
 ### Vehicles
+* [Explorer](./topics/features/transportation/vehicles/explorer.md)
 * [Factory Cart](./topics/features/transportation/vehicles/factory-cart.md)
+* [Truck](./topics/features/transportation/vehicles/truck.md)
 
 ## Unplanned Features
 * [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)

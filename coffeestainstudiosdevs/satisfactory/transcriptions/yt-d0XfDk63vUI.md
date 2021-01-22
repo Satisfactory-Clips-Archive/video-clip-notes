@@ -3,6 +3,7 @@ title: "October 13th, 2020 Livestream Q&A: How does the Industrial Storage decid
 date: "2020-10-13"
 layout: transcript
 topics:
+    - "features/buildables/storage-containers"
     - "features/buildings"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=d0XfDk63vUI
 
 ### Topics
+* [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
 * [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript

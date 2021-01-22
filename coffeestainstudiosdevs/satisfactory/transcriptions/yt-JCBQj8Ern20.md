@@ -4,7 +4,7 @@ date: "2020-10-06"
 layout: transcript
 topics:
     - "features/fluids"
-    - "features/transportation/vehicles"
+    - "features/transportation/vehicles/truck"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What do you think about adding some kind of Tanker Truck?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=JCBQj8Ern20
 
 ### Topics
 * [Features > Fluids](../topics/features/fluids.md)
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
 
 ### Transcript
 

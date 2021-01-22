@@ -3,14 +3,14 @@ title: "September 1st, 2020 Livestream Q&A: I'd love a feature for storage conta
 date: "2020-09-01"
 layout: transcript
 topics:
-    - ""
+    - "features/buildables/storage-containers"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: I'd love a feature for storage containers to empty out my inventory of a specific item
 https://www.youtube.com/watch?v=wpyixQuBb_E
 
 ### Topics
-
+* [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
 
 ### Transcript
 

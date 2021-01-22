@@ -3,7 +3,7 @@ title: "September 15th, 2020 Livestream Q&A: Any improvement for the Trucks so t
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "features/transportation/vehicles"
+    - "features/transportation/vehicles/truck"
     - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=lNpwyJr7lZc
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
 
 ### Transcript
 

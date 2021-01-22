@@ -14,9 +14,9 @@ https://www.youtube.com/watch?v=X9X9MsVbDAk
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Features > Tiers](../topics/features/tiers.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Features > Tiers](../topics/features/tiers.md)
 
 ### Transcript
 

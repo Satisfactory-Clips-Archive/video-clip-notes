@@ -30,7 +30,6 @@ date: Last Modified
 
 # November 10th, 2020 Livestream
 * [Q&A: Nuclear removal when?](../../transcriptions/yt-q-Z32Ff5_Pg.md) https://www.youtube.com/watch?v=q-Z32Ff5_Pg
-* [Q&A: Nuclear Waste removal in-game when?](../../transcriptions/yt-laualQ7TTug.md) https://www.youtube.com/watch?v=laualQ7TTug
 * [Q&A: Are you guys aware of a crash when looking at using Double Wall Outlets?](../../transcriptions/yt-Qb8OdLG68Ds.md) https://www.youtube.com/watch?v=Qb8OdLG68Ds
 * [Q&A: Change for Electricity when? (substations)](../../transcriptions/yt-rhboUWEnss4.md) https://www.youtube.com/watch?v=rhboUWEnss4
 * [Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?](../../transcriptions/yt-2SqpfMeDmcw.md) https://www.youtube.com/watch?v=2SqpfMeDmcw
@@ -52,19 +51,16 @@ date: Last Modified
 * [Snutt Talk: Biomass / Biofuel / Handcrafting](../../transcriptions/yt-QPgQXdWXoj4.md) https://www.youtube.com/watch?v=QPgQXdWXoj4
 
 # September 29th, 2020 Livestream
-* [Q&A: System that destroyed Nuclear Waste wouldn't be bad?](../../transcriptions/yt-1nSztPm_B14.md) https://www.youtube.com/watch?v=1nSztPm_B14
 * [Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil?](../../transcriptions/yt-DYy7NpZ7qYA.md) https://www.youtube.com/watch?v=DYy7NpZ7qYA
 * [Q&A: Control Console with a simple representation of the Remote Plants?](../../transcriptions/yt-hVDlrmNvsIY.md) https://www.youtube.com/watch?v=hVDlrmNvsIY
 * [Q&A: Are there any Green Energy options in the game?](../../transcriptions/yt-9eBugtyk8U0.md) https://www.youtube.com/watch?v=9eBugtyk8U0
 * [Q&A: Giving people Solar, Wind, and Hydro means FICSIT gets more resources?](../../transcriptions/yt-F212AWqzBVI.md) https://www.youtube.com/watch?v=F212AWqzBVI
 
 # September 15th, 2020 Livestream
-* [Q&A: Is there a plan to deal with Nuclear Waste?](../../transcriptions/yt-Eo_4p0KSPSY.md) https://www.youtube.com/watch?v=Eo_4p0KSPSY
 * [Q&A: Protective Walls against Radiation?](../../transcriptions/yt-mTMwhMrP0sA.md) https://www.youtube.com/watch?v=mTMwhMrP0sA
 
 # September 1st, 2020 Livestream
 * [Q&A: Would geothermal generators get a buff or rework of sorts?](../../transcriptions/yt-T7BPQ1ZHeJA.md) https://www.youtube.com/watch?v=T7BPQ1ZHeJA
-* [Q&A: Any plans to get rid of Nuclear Waste?](../../transcriptions/yt-cxWdU5_ai-0.md) https://www.youtube.com/watch?v=cxWdU5_ai-0
 
 # March 9th, 2019 Livestream
 * [Q&A: Is it possible to use powerline as zip-lines?](../../transcriptions/yt-NTeBuhOqIu0.md) https://www.youtube.com/watch?v=NTeBuhOqIu0

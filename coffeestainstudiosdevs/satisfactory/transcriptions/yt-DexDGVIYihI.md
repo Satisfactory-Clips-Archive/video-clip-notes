@@ -3,6 +3,7 @@ title: "September 8th, 2020 Livestream Q&A: Idea - Smart & Programmable Storage 
 date: "2020-09-08"
 layout: transcript
 topics:
+    - "features/buildables/storage-containers"
     - "features/buildings"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=DexDGVIYihI
 
 ### Topics
+* [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
 * [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript

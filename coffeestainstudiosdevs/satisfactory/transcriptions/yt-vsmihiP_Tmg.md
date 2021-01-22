@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=vsmihiP_Tmg
 
 ### Topics
 * [Features > Gases](../topics/features/gases.md)
-* [Features > Power Management](../topics/features/power-management.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Features > Power Management](../topics/features/power-management.md)
 
 ### Transcript
 

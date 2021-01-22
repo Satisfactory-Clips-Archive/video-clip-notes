@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=E666WdfoeP0
 
 ### Topics
-* [Features > Tiers](../topics/features/tiers.md)
 * [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Features > Tiers](../topics/features/tiers.md)
 
 ### Transcript
 

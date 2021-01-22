@@ -3,14 +3,14 @@ title: "September 1st, 2020 Livestream Q&A: What about lights?"
 date: "2020-09-01"
 layout: transcript
 topics:
-    - ""
+    - "features/planned-features/lights"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: What about lights?
 https://www.youtube.com/watch?v=FqGp1WsRo6s
 
 ### Topics
-
+* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
 
 ### Transcript
 

@@ -4,15 +4,15 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "environment/creatures/lizard-doggo"
-    - "features/power-management/nuclear-energy"
+    - "features/power-management/nuclear-energy/nuclear-waste"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Can we remove Nuclear Waste from the Doggo loot list?
 https://www.youtube.com/watch?v=x2qXm_DXJEw
 
 ### Topics
-* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
+* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
 ### Transcript
 

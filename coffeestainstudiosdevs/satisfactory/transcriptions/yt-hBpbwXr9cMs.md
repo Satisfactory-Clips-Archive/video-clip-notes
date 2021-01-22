@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=hBpbwXr9cMs
 
 ### Topics
+* [Features > Buildings](../topics/features/buildings.md)
 * [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
-* [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "November 3rd, 2020 Livestream Q&A: Can you put in Lights, please?"
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "features/planned-features/lights"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Can you put in Lights, please?
 https://www.youtube.com/watch?v=7dm8Lvfj8Ao
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
 
 ### Transcript
 

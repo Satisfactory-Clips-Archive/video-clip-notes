@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=CfUusHOKqcY
 
 ### Topics
-* [Features > Power Management](../topics/features/power-management.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
+* [Features > Power Management](../topics/features/power-management.md)
 
 ### Transcript
 

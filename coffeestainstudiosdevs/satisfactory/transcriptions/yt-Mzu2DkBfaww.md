@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=Mzu2DkBfaww
 
 ### Topics
 * [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 

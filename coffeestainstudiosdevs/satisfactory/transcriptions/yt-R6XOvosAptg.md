@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=R6XOvosAptg
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
 * [Features > Transportation > Vehicles > Factory Cart](../topics/features/transportation/vehicles/factory-cart.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 

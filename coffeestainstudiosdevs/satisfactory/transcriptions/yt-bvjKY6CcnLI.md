@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=bvjKY6CcnLI
 
 ### Topics
 * [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 

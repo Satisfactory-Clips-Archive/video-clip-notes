@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=RubFX693enI
 
 ### Topics
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 
