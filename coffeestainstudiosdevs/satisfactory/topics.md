@@ -126,6 +126,9 @@ date: Last Modified
 * [Trains](./topics/features/transportation/trains.md)
 * [Vehicles](./topics/features/transportation/vehicles.md)
 
+### Trains
+* [Train Signals](./topics/features/transportation/trains/train-signals.md)
+
 ### Vehicles
 * [Factory Cart](./topics/features/transportation/vehicles/factory-cart.md)
 

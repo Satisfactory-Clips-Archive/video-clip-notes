@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=eT6uSBu-sVw
 
 ### Topics
-* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
 
 ### Transcript
 

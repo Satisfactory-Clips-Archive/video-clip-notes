@@ -3,7 +3,7 @@ title: "October 20th, 2020 Livestream Q&A: When will we have Train Collision?"
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "features/transportation/trains"
+    - "features/transportation/trains/train-signals"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=TjSMwjueGc8
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Q&A: Train Collision"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "features/transportation/trains"
+    - "features/transportation/trains/train-signals"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Train Collision
 https://www.youtube.com/watch?v=OdCLosbTp60
 
 ### Topics
-* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 
 ### Transcript
 

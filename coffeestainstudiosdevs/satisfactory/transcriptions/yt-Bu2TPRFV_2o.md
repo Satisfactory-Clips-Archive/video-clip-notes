@@ -3,14 +3,14 @@ title: "January 12th, 2021 Livestream Q&A: Any new information regarding Signal 
 date: "2021-01-12"
 layout: transcript
 topics:
-    - "features/transportation/trains"
+    - "features/transportation/trains/train-signals"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Any new information regarding Signal system for Trains?
 https://www.youtube.com/watch?v=Bu2TPRFV_2o
 
 ### Topics
-* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 
 ### Transcript
 

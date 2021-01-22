@@ -3,14 +3,14 @@ title: "September 8th, 2020 Livestream Q&A: Train Collisions/Signalling, will it
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "features/transportation/trains"
+    - "features/transportation/trains/train-signals"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Train Collisions/Signalling, will it break the game completely?
 https://www.youtube.com/watch?v=8Huq89frY2k
 
 ### Topics
-* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 
 ### Transcript
 

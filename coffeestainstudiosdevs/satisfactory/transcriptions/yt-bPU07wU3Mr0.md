@@ -3,14 +3,14 @@ title: "September 22nd, 2020 Livestream Q&A: Any new info about Train Signals?"
 date: "2020-09-22"
 layout: transcript
 topics:
-    - "features/transportation/trains"
+    - "features/transportation/trains/train-signals"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Any new info about Train Signals?
 https://www.youtube.com/watch?v=bPU07wU3Mr0
 
 ### Topics
-* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 
 ### Transcript
 

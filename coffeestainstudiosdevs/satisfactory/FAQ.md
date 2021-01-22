@@ -1271,7 +1271,7 @@ date: Last Modified
 * Q&A: Is Tier 8 last Tier for the game? https://www.youtube.com/watch?v=FhoIzj_QLm0
 
 
-# Trains
+# Train Signals
 
 ## September 15th, 2020
 * Q&A: What will be happening with the Train collisions/signalling? https://www.youtube.com/watch?v=BZtRginha6g
@@ -1279,19 +1279,24 @@ date: Last Modified
 ## September 22nd, 2020
 * Q&A: Any new info about Train Signals? https://www.youtube.com/watch?v=bPU07wU3Mr0
 
+## November 17th, 2020
+* Q&A: Train Collision https://www.youtube.com/watch?v=OdCLosbTp60
+
+## January 12th, 2021
+* Q&A: Any new information regarding Signal system for Trains? https://www.youtube.com/watch?v=Bu2TPRFV_2o
+
+
+# Trains
+
 ## October 6th, 2020
 * Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into? https://www.youtube.com/watch?v=RVq5k89jlEA
 
 ## November 17th, 2020
 * Q&A: Are you going to fix the Trains so it doesn't break in multiplayer for other people? https://www.youtube.com/watch?v=Kg29HlSMQjI
 * Q&A: Can we go over the Freight Train fix in a little detail? https://www.youtube.com/watch?v=7vpbefcvoYI
-* Q&A: Train Collision https://www.youtube.com/watch?v=OdCLosbTp60
 
 ## December 15th, 2020
 * Q&A: Train Update? https://www.youtube.com/watch?v=ts7TQnRykB0
-
-## January 12th, 2021
-* Q&A: Any new information regarding Signal system for Trains? https://www.youtube.com/watch?v=Bu2TPRFV_2o
 
 
 # Trolling

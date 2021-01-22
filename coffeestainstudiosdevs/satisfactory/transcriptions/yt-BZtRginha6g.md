@@ -3,14 +3,14 @@ title: "September 15th, 2020 Livestream Q&A: What will be happening with the Tra
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "features/transportation/trains"
+    - "features/transportation/trains/train-signals"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: What will be happening with the Train collisions/signalling?
 https://www.youtube.com/watch?v=BZtRginha6g
 
 ### Topics
-* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 
 ### Transcript
 
