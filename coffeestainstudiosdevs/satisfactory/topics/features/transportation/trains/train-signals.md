@@ -27,3 +27,10 @@ date: Last Modified
 
 # September 1st, 2020 Livestream
 * [Q&A: Any more info on Train Signals?](../../../../transcriptions/yt-1hTjt3er8XI.md) https://www.youtube.com/watch?v=1hTjt3er8XI
+
+# August 25th, 2020 Livestream
+* Q&A: Train Signals https://clips.twitch.tv/OriginalAntsySmoothieStoneLightning
+* Q&A: Will the Train always clip? https://clips.twitch.tv/ImpartialEnchantingCider4Head
+
+# August 18th, 2020 Livestream
+* Q&A: Any thoughts on whether Trains will ever collide? https://clips.twitch.tv/SaltyJazzyPasta4Head

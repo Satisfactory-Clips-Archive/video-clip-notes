@@ -25,3 +25,13 @@ date: Last Modified
 * [Q&A: I don't like spiders but arachnophobia mode is even scarier](../../../transcriptions/yt-GluAI4ipeLY.md) https://www.youtube.com/watch?v=GluAI4ipeLY
 * [Snutt, Simon, Jace Talk: Turning on Arachnophobia Mode](../../../transcriptions/yt-oG9dxXFCAPg.md) https://www.youtube.com/watch?v=oG9dxXFCAPg
 * [Q&A: Can we have an alternate arachnophobia mode with Simon's face?](../../../transcriptions/yt-3h2P4TfAAwE.md) https://www.youtube.com/watch?v=3h2P4TfAAwE
+
+# August 25th, 2020 Livestream
+* Q&A: More cats in Arachnophobia Mode? https://clips.twitch.tv/KathishConcernedWalrusRedCoat
+* Q&A: Arachnophobia Mode is scarier than the actual spiders https://clips.twitch.tv/NeighborlyEnticingMarrowResidentSleeper
+
+# August 18th, 2020 Livestream
+* Snutt & Jace Talk: Arachnophobia Mode (part 1) https://clips.twitch.tv/HandsomeJoyousPigeonYouWHY
+* Snutt & Jace Talk: Arachnophobia Mode (part 2) https://clips.twitch.tv/ResilientTalentedSalsifySSSsss
+* Snutt & Jace Talk: Arachnophobia Mode (part 3) https://clips.twitch.tv/ModernExquisiteJayFeelsBadMan
+* Snutt & Jace Talk: Arachnophobia Mode (part 4) https://clips.twitch.tv/NurturingPlayfulSwanTBTacoLeft

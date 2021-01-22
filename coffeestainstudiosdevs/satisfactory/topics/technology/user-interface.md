@@ -92,4 +92,8 @@ date: Last Modified
 
 # August 25th, 2020 Livestream
 * Q&A: Today I Learned - there's a mass dismantle? https://clips.twitch.tv/OnerousGlamorousMoonAllenHuhu
+* Q&A: Water Extractors need to snap to grid https://clips.twitch.tv/ExuberantAmorphousCarrotNononoCat
+* Q&A: Set a specific Foundation as the keystone https://clips.twitch.tv/GoodAnimatedSproutPipeHype
+* Q&A: Grid- a radius would be perfect https://clips.twitch.tv/GeniusConcernedEggDogFace
+* Q&A: A mark on pipes to show the meters ? https://clips.twitch.tv/AltruisticSuperBobaBudBlast
 * Q&A: What about a Tutorial System? https://clips.twitch.tv/EntertainingTenuousCasettePeteZaroll

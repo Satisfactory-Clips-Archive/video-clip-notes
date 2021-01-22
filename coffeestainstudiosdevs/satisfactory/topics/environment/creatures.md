@@ -62,13 +62,10 @@ date: Last Modified
 * [Q&A: Can creatures in any way disrupt your factory?](../../transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
 
 # August 25th, 2020 Livestream
-* Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
 * Q&A: Will we have more monsters? https://clips.twitch.tv/GrotesqueDelightfulLyrebirdPrimeMe
-* Q&A: Please make the Walking Bean stop clipping https://clips.twitch.tv/WanderingGloriousWallabyPunchTrees
 
 # August 18th, 2020 Livestream
 * Q&A: Are we ever going to add taming mounts? https://clips.twitch.tv/BoldAgileSquidDoggo
-* Q&A: Will you be able to pet the doggo? https://clips.twitch.tv/DullHyperSpindlePanicVis
 
 # August 11th, 2020 Livestream
 * Q&A: Do you have Goats in Satisfactory? https://clips.twitch.tv/FurryTalentedCrowBleedPurple

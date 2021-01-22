@@ -91,3 +91,12 @@ date: Last Modified
 * [Q&A: How did you guys optimise the game so much?](../../transcriptions/yt-nRCmJo-Wh9s.md) https://www.youtube.com/watch?v=nRCmJo-Wh9s
 * [Q&A: Game is awesome, but late-game is super laggy sometimes.](../../transcriptions/yt-3MO6SYCZuFI.md) https://www.youtube.com/watch?v=3MO6SYCZuFI
 * [Q&A: Any way to disable motion blur?](../../transcriptions/yt-TTZzooohufI.md) https://www.youtube.com/watch?v=TTZzooohufI
+
+# August 25th, 2020 Livestream
+* Q&A: Please consider adding a third-person view? (Part 1) https://clips.twitch.tv/PeacefulInventiveDogWOOP
+* Q&A: Please consider adding a third-person view? (Part 2) https://clips.twitch.tv/FrailSuaveBeanImGlitch
+* Q&A: Reducing the stupid poly counts? https://clips.twitch.tv/PoliteTallLocustStoneLightning
+* Q&A: Real-time reflections for the helmet? https://clips.twitch.tv/LivelyHeartlessRutabagaWholeWheat
+* Q&A: UV issues and texture tearing is a known issue? https://clips.twitch.tv/WealthyPunchyAxePeoplesChamp
+* Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt
+* Snutt Talk: VR Support https://clips.twitch.tv/DullScrumptiousEagleStinkyCheese

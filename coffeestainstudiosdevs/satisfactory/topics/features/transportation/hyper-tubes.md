@@ -14,3 +14,11 @@ date: Last Modified
 # September 8th, 2020 Livestream
 * [Q&A: Hyper Tube Cannon future ?](../../../transcriptions/yt-X3RdhRuPf04.md) https://www.youtube.com/watch?v=X3RdhRuPf04
 * [Snutt Talk: Belts, Pipes, and Hyper Tube max lengths](../../../transcriptions/yt-IeP2Y9SFeh8.md) https://www.youtube.com/watch?v=IeP2Y9SFeh8
+
+# August 25th, 2020 Livestream
+* Q&A: Signs for Hypertube Entrances? https://clips.twitch.tv/SpinelessUnsightlyVanillaKeyboardCat
+* Q&A: Mk. 2 Hypertubes? https://clips.twitch.tv/CrypticUnusualPandaArsonNoSexy
+* Q&A: Why is hyperloop in first person? https://clips.twitch.tv/FairCallousStingrayHeyGuys
+
+# August 11th, 2020 Livestream
+* Q&A: Hypertube Cannons - Bug or Feature? https://clips.twitch.tv/OilyPatientOtterTBTacoLeft

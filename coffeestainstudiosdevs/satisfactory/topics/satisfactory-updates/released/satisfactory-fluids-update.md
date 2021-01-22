@@ -130,3 +130,9 @@ date: Last Modified
 
 # September 8th, 2020 Livestream
 * [Q&A: Any more tiers in 3.5?](../../../transcriptions/yt-55GiH8YwDds.md) https://www.youtube.com/watch?v=55GiH8YwDds
+
+# August 25th, 2020 Livestream
+* Quality-of-live update? (Part 1): https://clips.twitch.tv/RudeSpoopyAlligatorVoteYea
+* Quality-of-live update? (Part 2): https://clips.twitch.tv/AlertFancyAxeFUNgineer
+* Quality-of-live update? (Part 3): https://clips.twitch.tv/CrunchyGlutenFreeNuggetsMingLee
+* Q&A: Some new Machines in the next update? https://clips.twitch.tv/CourteousSmellyNewtTTours

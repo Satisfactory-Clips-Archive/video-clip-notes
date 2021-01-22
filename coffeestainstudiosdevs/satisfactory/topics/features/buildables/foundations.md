@@ -44,12 +44,8 @@ date: Last Modified
 * [Q&A: Why do you guys not use the Foundations?](../../../transcriptions/yt-SjwuIUhqtM8.md) https://www.youtube.com/watch?v=SjwuIUhqtM8
 
 # August 25th, 2020 Livestream
-* Q&A: Set a specific Foundation as the keystone https://clips.twitch.tv/GoodAnimatedSproutPipeHype
-* Q&A: Grid- a radius would be perfect https://clips.twitch.tv/GeniusConcernedEggDogFace
-
-## Q&A: What about holes for Foundations?
-* Part 1: https://clips.twitch.tv/CrepuscularEnergeticPartridgePanicVis
-* Part 2: https://clips.twitch.tv/SparklingGiftedDumplingsSquadGoals
+* Q&A: What about holes for Foundations? (Part 1) https://clips.twitch.tv/CrepuscularEnergeticPartridgePanicVis
+* Q&A: What about holes for Foundations? (Part 2) https://clips.twitch.tv/SparklingGiftedDumplingsSquadGoals
 
 # August 11th, 2020 Livestream
 * Q&A: Floating Factories vs. Structural Supports https://clips.twitch.tv/GiftedSincereDillDoubleRainbow

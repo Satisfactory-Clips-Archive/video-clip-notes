@@ -13,3 +13,6 @@ date: Last Modified
 # March 9th, 2019 Livestream
 * [Jace Talk: Legacy of Goat Simulator & launching Satisfactory](../../transcriptions/yt-z2fpvMakuCY.md) https://www.youtube.com/watch?v=z2fpvMakuCY
 * [Snutt, Simon, & Jace Talk: Satisfactory & Goat Simulator development](../../transcriptions/yt-xh1icX044NE.md) https://www.youtube.com/watch?v=xh1icX044NE
+
+# August 18th, 2020 Livestream
+* Q&A: Are vehicles going to get less sketchy or are we always getting Goat Simulator physics? https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage

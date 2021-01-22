@@ -29,10 +29,6 @@ date: Last Modified
 * [Jace Talk: Mods](../../transcriptions/yt-JPafvjU7Z0k.md) https://www.youtube.com/watch?v=JPafvjU7Z0k
 
 # August 25th, 2020 Livestream
-## Plans for mod support?
-* Part 1: https://clips.twitch.tv/OnerousDeterminedMoonRlyTho
-* Part 2: https://clips.twitch.tv/CreativeOptimisticWalrusSwiftRage
-* Part 3: https://clips.twitch.tv/HumbleRenownedTofuLitty
-
-# August 18th, 2020 Livestream
-* Q&A: Will you plan to add Steam Workshop support? https://clips.twitch.tv/SwissTameCoffeeDansGame
+* Plans for mod support? (Part 1) https://clips.twitch.tv/OnerousDeterminedMoonRlyTho
+* Plans for mod support? (Part 2) https://clips.twitch.tv/CreativeOptimisticWalrusSwiftRage
+* Plans for mod support? (Part 3) https://clips.twitch.tv/HumbleRenownedTofuLitty

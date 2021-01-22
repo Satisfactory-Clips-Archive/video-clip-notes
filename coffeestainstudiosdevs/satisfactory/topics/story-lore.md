@@ -77,8 +77,14 @@ date: Last Modified
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
 
 # August 25th, 2020 Livestream
+* Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John
+* Q&A: Do you have any clue on what the alien artefacts do? https://clips.twitch.tv/CulturedEnthusiasticNoodleWTRuck
 * Q&A: Will there be more narrative? https://clips.twitch.tv/DarlingPoisedPotCopyThis
 * Q&A: Is the Story a mode, or can I play with my actual save game? https://clips.twitch.tv/GeniusInventiveMomPRChase
+
+# August 18th, 2020 Livestream
+* Q&A: Storyline before 1.0? https://clips.twitch.tv/SteamyFurtiveRadishStrawBeary
+* Q&A: When are Somersloops and Orbs have meaning? https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride
 
 # August 11th, 2020 Livestream
 * Q&A: Story / End-game? https://clips.twitch.tv/AmorphousVictoriousTrayPartyTime

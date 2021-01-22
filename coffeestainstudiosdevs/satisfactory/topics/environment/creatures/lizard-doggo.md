@@ -46,3 +46,10 @@ date: Last Modified
 * [Q&A: Lizard Doggo plushie when?](../../../transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
 * [Snutt Talk: Lizard Doggo work name](../../../transcriptions/yt-BTV3_zIpImo.md) https://www.youtube.com/watch?v=BTV3_zIpImo
 * [Q&A: How to pet Doggo?](../../../transcriptions/yt-izvalD5vPuc.md) https://www.youtube.com/watch?v=izvalD5vPuc
+
+# August 18th, 2020 Livestream
+* Q&A: Will you be able to pet the doggo? https://clips.twitch.tv/DullHyperSpindlePanicVis
+
+# August 11th, 2020 Livestream
+* Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
+* Q&A: Doggo Toys? https://clips.twitch.tv/FlirtyScarySushiYouWHY

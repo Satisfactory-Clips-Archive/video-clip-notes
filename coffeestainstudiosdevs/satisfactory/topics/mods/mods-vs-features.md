@@ -63,9 +63,20 @@ date: Last Modified
 * [Q&A: I wouldn't be surprised if Mod support enable third-party maps?](../../transcriptions/yt-LgGYmQrwAgg.md) https://www.youtube.com/watch?v=LgGYmQrwAgg
 
 # August 25th, 2020 Livestream
+* Q&A: Can players have custom programmers ? (Part 1) https://clips.twitch.tv/BovineConsiderateSangMVGame
+* Q&A: Can players have custom programmers ? (Part 2) https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain
 * Q&A: Actual Elevators with floor-select buttons ? https://clips.twitch.tv/SparklingFilthyKathyBleedPurple
 * Q&A: Do you have plans for elevators usable for players? https://clips.twitch.tv/DullSmokyWaffleDoggo
 
-## Q&A: Can players have custom programmers ?
-* Part 1: https://clips.twitch.tv/BovineConsiderateSangMVGame
-* Part 2: https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain
+# August 18th, 2020 Livestream
+* Mods vs. Features (Part 1) https://clips.twitch.tv/ShakingCredulousGalagoCopyThis
+* Mods vs. Features (Part 2) https://clips.twitch.tv/OriginalDifficultTeaKevinTurtle
+* Mods vs. Features (Part 3) https://clips.twitch.tv/CorrectAlertEggplantPJSalt
+* Mods vs. Features (Part 4) https://clips.twitch.tv/ShakingNastyJaguarGrammarKing
+
+# August 11th, 2020 Livestream
+* Mods vs. Features (Part 1) https://clips.twitch.tv/ElegantKindPrariedogGrammarKing
+* Mods vs. Features (Part 2) https://clips.twitch.tv/NimbleFurryDumplingsBudBlast
+
+# July 8th, 2020 Livestream
+* Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis

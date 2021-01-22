@@ -19,3 +19,9 @@ date: Last Modified
 # March 9th, 2019 Livestream
 * [Q&A: What gender is the character model?](../../../transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs
 * [Q&A: Can I choose the gender and customise my character?](../../../transcriptions/yt-g9uOwzKvCbc.md) https://www.youtube.com/watch?v=g9uOwzKvCbc
+
+# August 25th, 2020 Livestream
+* Q&A: Let me personalise my character? https://clips.twitch.tv/CharmingRespectfulFlyFUNgineer
+
+# August 18th, 2020 Livestream
+* Q&A: Additional Suit Variations in the Coupon Shop ? https://clips.twitch.tv/CourteousMotionlessWrenMcaT

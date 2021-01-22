@@ -43,6 +43,3 @@ date: Last Modified
 
 # December 19th, 2019 Livestream
 * [Q&A: When is Coffee going to be introduced to the game?](../../transcriptions/yt-o3Nr13tH7dY.md) https://www.youtube.com/watch?v=o3Nr13tH7dY
-
-# August 25th, 2020 Livestream
-* Q&A: Is the sink going to accept liquids in the future? https://clips.twitch.tv/ArtisticCoweringTortoiseRitzMitz

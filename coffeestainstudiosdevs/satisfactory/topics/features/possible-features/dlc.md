@@ -42,4 +42,4 @@ date: Last Modified
 * [Q&A: Flushable Toilet DLC?](../../../transcriptions/yt-Z7KaqsyT7_k.md) https://www.youtube.com/watch?v=Z7KaqsyT7_k
 
 # August 18th, 2020 Livestream
-* Q&A: Any plans to add toilet paper in the bathroom? https://clips.twitch.tv/AuspiciousPrettiestAlfalfaKAPOW
+* Q&A: Is 1.0 the end of the game or will it be expanded? https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace

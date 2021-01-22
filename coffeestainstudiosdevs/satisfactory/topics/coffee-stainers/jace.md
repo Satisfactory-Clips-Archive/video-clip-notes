@@ -31,3 +31,6 @@ date: Last Modified
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) https://www.youtube.com/watch?v=2tTlAAZMBPw
 * [Q&A: Is Jace using an old soup can for a mic?](../../transcriptions/yt-kNfhYvkifNM.md) https://www.youtube.com/watch?v=kNfhYvkifNM
 * [Snutt, Simon, Jace Talk: Laughing in the office](../../transcriptions/yt-X5P9-9npJIQ.md) https://www.youtube.com/watch?v=X5P9-9npJIQ
+
+# August 11th, 2020 Livestream
+* Q&A: New Apartment? https://clips.twitch.tv/CorrectAdorableDinosaurWoofer

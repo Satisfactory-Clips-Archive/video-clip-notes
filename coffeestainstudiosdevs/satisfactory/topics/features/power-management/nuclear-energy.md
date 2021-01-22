@@ -18,3 +18,6 @@ date: Last Modified
 
 # September 1st, 2020 Livestream
 * [Q&A: Why did you change the Nuclear Reactors model?](../../../transcriptions/yt-hBpbwXr9cMs.md) https://www.youtube.com/watch?v=hBpbwXr9cMs
+
+# August 25th, 2020 Livestream
+* Q&A: Nuclear is the current end game https://clips.twitch.tv/CoweringHotZebraTheTarFu

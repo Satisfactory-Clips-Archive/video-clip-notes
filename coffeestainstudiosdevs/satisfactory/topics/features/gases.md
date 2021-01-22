@@ -28,6 +28,10 @@ date: Last Modified
 # March 9th, 2019 Livestream
 * [Q&A: Collect Fart Gas for fuel?](../../transcriptions/yt-O5R_YmTmXUI.md) https://www.youtube.com/watch?v=O5R_YmTmXUI
 
+# August 25th, 2020 Livestream
+* Q&A: Will Gas be in Update 4? https://clips.twitch.tv/SpinelessSneakySalsifyNerfRedBlaster
+* Q&A: Explosive Barrels of Gas we can send through the rail guns ? https://clips.twitch.tv/CrowdedRespectfulNostrilNotATK
+
 # August 11th, 2020 Livestream
 * Q&A: Gas Tanks? https://clips.twitch.tv/FitAlertTurtleDogFace
 

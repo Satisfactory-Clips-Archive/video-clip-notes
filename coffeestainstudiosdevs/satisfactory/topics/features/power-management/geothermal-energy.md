@@ -12,3 +12,6 @@ date: Last Modified
 
 # September 1st, 2020 Livestream
 * [Q&A: Would geothermal generators get a buff or rework of sorts?](../../../transcriptions/yt-T7BPQ1ZHeJA.md) https://www.youtube.com/watch?v=T7BPQ1ZHeJA
+
+# August 25th, 2020 Livestream
+* Q&A: When will you ad UI for the Steam Geyser Power Plant? https://clips.twitch.tv/WanderingBashfulGoatTBCheesePull

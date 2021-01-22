@@ -17,3 +17,12 @@ date: Last Modified
 # October 13th, 2020 Livestream
 * [Q&A: What is the output per minute compared to the refinery?](../../../transcriptions/yt-cNVE9XkuIMA.md) https://www.youtube.com/watch?v=cNVE9XkuIMA
 * [Q&A: Why are the Refineries so big?](../../../transcriptions/yt-lZOTwEhBFO4.md) https://www.youtube.com/watch?v=lZOTwEhBFO4
+
+# August 25th, 2020 Livestream
+* Q&A: Internal discussions to significantly rework existing buildings like refineries? (Part 1) https://clips.twitch.tv/CrispySaltyOcelotOSfrog
+* Q&A: Internal discussions to significantly rework existing buildings like refineries? (Part 2) https://clips.twitch.tv/CooperativeCrackyAyeayeTheTarFu
+* Q&A: Internal discussions to significantly rework existing buildings like refineries? (Part 3) https://clips.twitch.tv/SmallProductiveKaleCclamChamp
+* Q&A: Internal discussions to significantly rework existing buildings like refineries? (Part 4) https://clips.twitch.tv/BoredThankfulPistachioJKanStyle
+* Q&A: Do you not think that Refineries are over-used? https://clips.twitch.tv/LongOpenFlamingoSMOrc
+* Q&A: End game is all about building refineries https://clips.twitch.tv/MildNurturingWoodcockYouWHY
+* Q&A: Refineries take up so much space https://clips.twitch.tv/FilthyPerfectDragonSwiftRage

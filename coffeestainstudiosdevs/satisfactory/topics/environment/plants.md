@@ -30,5 +30,6 @@ date: Last Modified
 * [Q&A: Can chainsaw kill the Fart Flower?](../../transcriptions/yt-q07kHsvi3CU.md) https://www.youtube.com/watch?v=q07kHsvi3CU
 
 # August 25th, 2020 Livestream
+* Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ? https://clips.twitch.tv/VibrantExpensiveRaisinStinkyCheese
 * Q&A: Removing vegetation speeds up the game, yes or no ? https://clips.twitch.tv/BusyHandsomeSmoothiePartyTime
 * Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt

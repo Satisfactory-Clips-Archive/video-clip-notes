@@ -26,3 +26,9 @@ date: Last Modified
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../../transcriptions/yt-3gFgrVEkOpc.md) https://www.youtube.com/watch?v=3gFgrVEkOpc
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) https://www.youtube.com/watch?v=2tTlAAZMBPw
 * [Snutt, Simon, Jace Talk: Laughing in the office](../../transcriptions/yt-X5P9-9npJIQ.md) https://www.youtube.com/watch?v=X5P9-9npJIQ
+
+# August 25th, 2020 Livestream
+* Snutt Talk: Snutt discovers the fridge. https://clips.twitch.tv/SeductiveAbstemiousBisonDerp
+
+# August 18th, 2020 Livestream
+* Q&A: Why does Snutt have many guitars? https://clips.twitch.tv/AverageRenownedAxeWholeWheat

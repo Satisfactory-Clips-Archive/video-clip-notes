@@ -59,10 +59,12 @@ date: Last Modified
 # August 18th, 2020 Livestream
 * Q&A: When is Creative Mode coming? https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu
 * Q&A: Will there be a no combat/fight version? https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid
-* Q&A: Will there be animals that attack the base? https://clips.twitch.tv/ProtectiveTubularCatJebaited
 
 # August 11th, 2020 Livestream
 * Q&A: Any plans for Difficulty Levels? https://clips.twitch.tv/GrotesqueDaintyRamenGivePLZ
 
 # July 28th, 2020 Livestream
 * Q&A: Will you be expanding on the survival aspect of the game? https://clips.twitch.tv/IntelligentBlatantOrangeBrokeBack
+
+# July 21st, 2020 Livestream
+* Q&A: What do you think about a game mode with weather effects doing damage or slowing machines? https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime

@@ -9,3 +9,6 @@ date: Last Modified
 
 # December 8th, 2020 Livestream
 * [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../../transcriptions/yt-42AzC9Qk2yc.md) https://www.youtube.com/watch?v=42AzC9Qk2yc
+
+# August 25th, 2020 Livestream
+* Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY

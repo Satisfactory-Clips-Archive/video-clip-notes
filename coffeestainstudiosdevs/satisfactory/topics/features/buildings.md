@@ -123,30 +123,16 @@ date: Last Modified
 
 # August 25th, 2020 Livestream
 * Q&A: Fixing machines that break? https://clips.twitch.tv/EnergeticInexpensiveDillCurseLit
-* Snutt Talk: Machines breaking & Base Defense https://clips.twitch.tv/ElegantKawaiiGnatOneHand
-* Q&A: Water Extractors need to snap to grid https://clips.twitch.tv/ExuberantAmorphousCarrotNononoCat
-
-## Q&A: Internal discussions to significantly rework existing buildings like refineries?
-* Part 1: https://clips.twitch.tv/CrispySaltyOcelotOSfrog
-* Part 2: https://clips.twitch.tv/CooperativeCrackyAyeayeTheTarFu
-* Part 3: https://clips.twitch.tv/SmallProductiveKaleCclamChamp
-* Part 4: https://clips.twitch.tv/BoredThankfulPistachioJKanStyle
-
-## Refineries
-* Q&A: Do you not think that Refineries are over-used? https://clips.twitch.tv/LongOpenFlamingoSMOrc
-* Q&A: End game is all about building refineries https://clips.twitch.tv/MildNurturingWoodcockYouWHY
-* Q&A: Refineries take up so much space https://clips.twitch.tv/FilthyPerfectDragonSwiftRage
-
-## Hypertubes
-* Q&A: Signs for Hypertube Entrances? https://clips.twitch.tv/SpinelessUnsightlyVanillaKeyboardCat
-* Q&A: Mk. 2 Hypertubes? https://clips.twitch.tv/CrypticUnusualPandaArsonNoSexy
-* Q&A: Why is hyperloop in first person? https://clips.twitch.tv/FairCallousStingrayHeyGuys
+* Snutt Talk: Machines breaking & Base Defence https://clips.twitch.tv/ElegantKawaiiGnatOneHand
+* Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause
+* Q&A: Some new Machines in the next update? https://clips.twitch.tv/CourteousSmellyNewtTTours
+* Q&A: Reducing the stupid poly counts? https://clips.twitch.tv/PoliteTallLocustStoneLightning
 
 # August 18th, 2020 Livestream
 * Q&A: How about adding machine variants during late-game so you can have less machines overall? https://clips.twitch.tv/BlatantEnjoyableTigerStoneLightning
 
 # August 11th, 2020 Livestream
-* Q&A: Hypertube Cannons - Bug or Feature? https://clips.twitch.tv/OilyPatientOtterTBTacoLeft
+* Q&A: Elevators? https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime
 
 # July 21st, 2020 Livestream
-* Q&A: How about building underwater? https://clips.twitch.tv/NiceDreamyGarbageBuddhaBar
+* Q&A: What do you think about a game mode with weather effects doing damage or slowing machines? https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime

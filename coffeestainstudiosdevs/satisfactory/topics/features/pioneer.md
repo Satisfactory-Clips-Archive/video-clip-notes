@@ -18,22 +18,11 @@ date: Last Modified
 
 # August 25th, 2020 Livestream
 * Q&A: She!? Not me !? https://clips.twitch.tv/InexpensiveChillyWheelItsBoshyTime
-* Q&A: Let me personalise my character? https://clips.twitch.tv/CharmingRespectfulFlyFUNgineer
-
-## Q&A: Please consider adding a third-person view?
-* Part 1: https://clips.twitch.tv/PeacefulInventiveDogWOOP
-* Part 2: https://clips.twitch.tv/FrailSuaveBeanImGlitch
+* Q&A: Real-time reflections for the helmet? https://clips.twitch.tv/LivelyHeartlessRutabagaWholeWheat
 
 # August 18th, 2020 Livestream
-* Q&A: Additional Suit Variations in the Coupon Shop ? https://clips.twitch.tv/CourteousMotionlessWrenMcaT
-
-## Q&A: How did you make the character slide in Satisfactory?
-* Part 1 https://clips.twitch.tv/WittyYawningSangJKanStyle
-* Part 2 https://clips.twitch.tv/BlueBadWeaselPMSTwin
+* Q&A: How did you make the character slide in Satisfactory? (part 1) https://clips.twitch.tv/WittyYawningSangJKanStyle
+* Q&A: How did you make the character slide in Satisfactory? (part 2) https://clips.twitch.tv/BlueBadWeaselPMSTwin
 
 # August 11th, 2020 Livestream
 * Q&A: FICSIT Pioneer gender confirmed? https://clips.twitch.tv/TriangularLongOctopusOneHand
-
-## Q&A: Sleep in-game?
-* Part 1 https://clips.twitch.tv/DaintyYummyLemurANELE
-* Part 2 https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime

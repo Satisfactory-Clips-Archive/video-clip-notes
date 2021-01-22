@@ -14,3 +14,6 @@ date: Last Modified
 * [Q&A: About how many Updates will there be before 1.0?](../../../transcriptions/yt-eIolvvHPWmw.md) https://www.youtube.com/watch?v=eIolvvHPWmw
 * [Q&A: When will we see the crab?](../../../transcriptions/yt-yHgb7ySKTMs.md) https://www.youtube.com/watch?v=yHgb7ySKTMs
 * [Q&A: Are you going to share something important related to next Updates?](../../../transcriptions/yt-Kx9TTDecZe4.md) https://www.youtube.com/watch?v=Kx9TTDecZe4
+
+# August 25th, 2020 Livestream
+* Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY

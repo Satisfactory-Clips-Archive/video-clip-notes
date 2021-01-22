@@ -28,19 +28,7 @@ date: Last Modified
 # December 19th, 2019 Livestream
 * [Q&A: Colour blind accessibility stuff?](../../transcriptions/yt-r4TS6nRxy9k.md) https://www.youtube.com/watch?v=r4TS6nRxy9k
 
-# August 25th, 2020 Livestream
-## Arachnophobia Mode
-* Q&A: More cats in Arachnophobia Mode? https://clips.twitch.tv/KathishConcernedWalrusRedCoat
-* Q&A: Arachnophobia Mode is scarier than the actual spiders https://clips.twitch.tv/NeighborlyEnticingMarrowResidentSleeper
-
 # August 18th, 2020 Livestream
-## Arachnophobia Mode
-* Q&A: Arachnophobia Mode (part 1) https://clips.twitch.tv/HandsomeJoyousPigeonYouWHY
-* Snutt & Jace Talk: Arachnophobia Mode (part 2) https://clips.twitch.tv/ResilientTalentedSalsifySSSsss
-* Snutt & Jace Talk: Arachnophobia Mode (part 3) https://clips.twitch.tv/ModernExquisiteJayFeelsBadMan
-* Snutt & Jace Talk: Arachnophobia Mode (part 4) https://clips.twitch.tv/NurturingPlayfulSwanTBTacoLeft
-
-## Accessibility Features
 * Snutt Talk: Accessibility (part 1): https://clips.twitch.tv/CrowdedSplendidSalamanderSoonerLater
 * Q&A: We get this awesome phobia system but people still have trouble with colour blindness modes? https://clips.twitch.tv/PrettiestBloodyBadgerDendiFace
 * Jace Talk: Accessibility - Arachnophobia & Colour Blindness (part 3) https://clips.twitch.tv/DignifiedSmoggyKathyAMPEnergyCherry

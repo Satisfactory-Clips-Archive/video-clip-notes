@@ -38,3 +38,13 @@ date: Last Modified
 
 # September 1st, 2020 Livestream
 * [Q&A: Train Multiplayer Bugs](../../../transcriptions/yt-2zs8wqPKwFE.md) https://www.youtube.com/watch?v=2zs8wqPKwFE
+
+# August 25th, 2020 Livestream
+* Q&A: Add Train tunnels to go through mountains? https://clips.twitch.tv/GleamingHyperBottleRickroll
+* Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug? https://clips.twitch.tv/LightAcceptableCheesePermaSmug
+
+# August 18th, 2020 Livestream
+* Q&A: When will we be able to paint our trains? https://clips.twitch.tv/BelovedBloodyStapleGingerPower
+
+# July 21st, 2020 Livestream
+* Q&A: Puppies, Train Fix https://clips.twitch.tv/ColdBraveShieldSMOrc

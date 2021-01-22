@@ -72,34 +72,23 @@ date: Last Modified
 # August 25th, 2020 Livestream
 * Snutt Talk: Improving on Vehicles https://clips.twitch.tv/AmazonianAnnoyingSushiUncleNox
 * Q&A: Any plans to dig my explorer to get it out of the hole it fell into? https://clips.twitch.tv/FuriousRockyDuckPRChase
-
-## Trucks
-* Q&A: Smart Truck Stations? https://clips.twitch.tv/FurtiveHealthyRhinocerosJonCarnage
-* Q&A: Trailer for the Trucks? https://clips.twitch.tv/SarcasticNeighborlyPigTebowing
-
-### Q&A: Tanker Trucks?
-* Part 1: https://clips.twitch.tv/TenderSuspiciousSashimiEleGiggle
-* Part 2: https://clips.twitch.tv/FunSparklyFishRedCoat
-
-## Q&A: Can you make modular vehicles?
-* Part 1: https://clips.twitch.tv/OriginalMuddyDogePeteZaroll
-* Part 2: https://clips.twitch.tv/DistinctConcernedPlumageWow
-
-## Water Vehicles
+* Q&A: Can you make modular vehicles? (Part 1) https://clips.twitch.tv/OriginalMuddyDogePeteZaroll
+* Q&A: Can you make modular vehicles? (Part 2) https://clips.twitch.tv/DistinctConcernedPlumageWow
 * Q&A: If you add Trucks then add Boats? https://clips.twitch.tv/EasyEnticingBearM4xHeh
 * Q&A: We need Battleships https://clips.twitch.tv/WildHonorableCakeGrammarKing
-
-## Cyber Wagon
-* Q&A: Make the Cyber Wagon useful ? https://clips.twitch.tv/SpeedyAssiduousCrabKevinTurtle
-* Q&A: What can the Cyber Wagon do? https://clips.twitch.tv/SuperHappyEmuOMGScoots
+* Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother
+* Q&A: How about a drone to fly around? https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby
+* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 1) https://clips.twitch.tv/AbstruseFrailKathyMrDestructoid
+* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 2) https://clips.twitch.tv/SourManlyMochaBudStar
+* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 3) https://clips.twitch.tv/PowerfulFriendlyKoalaANELE
+* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 4) https://clips.twitch.tv/PoliteEnergeticGrouseHassaanChop
 
 # August 18th, 2020 Livestream
 * Q&A: Are there some other vehicles planned? https://clips.twitch.tv/EsteemedNurturingHyenaWOOP
 * Q&A: Are vehicles going to get less sketchy or are we always getting Goat Simulator physics? https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage
 
 # August 11th, 2020 Livestream
-* Q&A: Elevators? https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime
+* Q&A: Will Drones be added to the game for aerial travel? https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper
 * Q&A: First-person Vehicle Driving? https://clips.twitch.tv/ShinySilkyMelonGivePLZ
-## Two-seated vehicles
-* Part 1 https://clips.twitch.tv/OilySourBeaverAMPEnergy
-* Part 2 https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog
+* Q&A: Two-seated vehicles (Part 1) https://clips.twitch.tv/OilySourBeaverAMPEnergy
+* Q&A: Two-seated vehicles (Part 2) https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog

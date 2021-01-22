@@ -41,8 +41,8 @@ date: Last Modified
 * [Q&A: Is Jace using an old soup can for a mic?](../transcriptions/yt-kNfhYvkifNM.md) https://www.youtube.com/watch?v=kNfhYvkifNM
 * [Q&A: Pizza with seafood?](../transcriptions/yt-cWHt7D471vI.md) https://www.youtube.com/watch?v=cWHt7D471vI
 
-# August 18th, 2020 Livestream
-* Q&A: Why does Snutt have many guitars? https://clips.twitch.tv/AverageRenownedAxeWholeWheat
+# August 25th, 2020 Livestream
+* Q&A: What game will come out first, Satisfactory or Star Citizen? https://clips.twitch.tv/AdventurousUninterestedBasenji4Head
 
-# August 11th, 2020 Livestream
-* Q&A: New Apartment? https://clips.twitch.tv/CorrectAdorableDinosaurWoofer
+# August 18th, 2020 Livestream
+* Q&A: Is Satisfactory affected by Epic vs. Apple? https://clips.twitch.tv/FurryAwkwardStrawberryWoofer

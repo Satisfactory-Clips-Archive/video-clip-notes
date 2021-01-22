@@ -54,11 +54,9 @@ date: Last Modified
 * [Q&A: What the heck is a Conveyor Belt Lift?](../../../transcriptions/yt-egkjxaDluQI.md) https://www.youtube.com/watch?v=egkjxaDluQI
 
 # August 25th, 2020 Livestream
-* Q&A: Please think about adding dedicated Storage Containers like in Ark ? https://clips.twitch.tv/ArbitraryIronicClipsdadPicoMause
-
-## Q&A: Can players have custom programmers ?
-* Part 1: https://clips.twitch.tv/BovineConsiderateSangMVGame
-* Part 2: https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain
+* Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause
+* Q&A: Can players have custom programmers ? (Part 1) https://clips.twitch.tv/BovineConsiderateSangMVGame
+* Q&A: Can players have custom programmers ? (Part 2) https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain
 
 # August 18th, 2020 Livestream
 * Q&A: Will there ever be conveyor lift splitters & mergers ? https://clips.twitch.tv/MiniatureFlaccidSwanKAPOW

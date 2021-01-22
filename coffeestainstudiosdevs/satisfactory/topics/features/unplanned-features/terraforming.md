@@ -17,3 +17,10 @@ date: Last Modified
 # March 9th, 2019 Livestream
 * [Q&A: Are you going to add the ability to raise/lower parts of the landscape?](../../../transcriptions/yt-AEd2Rt5VDfk.md) https://www.youtube.com/watch?v=AEd2Rt5VDfk
 * [Q&A: Are you guys planning to add any terraforming or digging?](../../../transcriptions/yt-DW0MT8G-wMI.md) https://www.youtube.com/watch?v=DW0MT8G-wMI
+
+# August 25th, 2020 Livestream
+* Q&A: Add Train tunnels to go through mountains? https://clips.twitch.tv/GleamingHyperBottleRickroll
+* Q&A: Terraforming? https://clips.twitch.tv/CourageousTardyLarkShazBotstix
+
+# August 18th, 2020 Livestream
+* Q&A: Terraforming? https://clips.twitch.tv/AmericanSpineyWitchTinyFace

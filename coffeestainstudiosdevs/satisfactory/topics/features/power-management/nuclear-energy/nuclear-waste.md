@@ -25,3 +25,12 @@ date: Last Modified
 
 # September 1st, 2020 Livestream
 * [Q&A: Any plans to get rid of Nuclear Waste?](../../../../transcriptions/yt-cxWdU5_ai-0.md) https://www.youtube.com/watch?v=cxWdU5_ai-0
+
+# August 25th, 2020 Livestream
+* Snutt PSA: Nuclear Waste disposal (Part 1) https://clips.twitch.tv/DarlingSteamyCourgetteOneHand
+* Snutt PSA: Nuclear Waste disposal (Part 2) https://clips.twitch.tv/HorribleToughMouseThunBeast
+* Snutt PSA: Nuclear Waste disposal (Part 3) https://clips.twitch.tv/SullenWittyBearHassanChop
+* Snutt PSA: Nuclear Waste disposal (Part 4) https://clips.twitch.tv/QuaintBeautifulMetalWoofer
+* Snutt PSA: Nuclear Waste disposal (Part 5) https://clips.twitch.tv/GoldenTenuousLemurDAESuppy
+* Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them? (Part 1) https://clips.twitch.tv/ConfidentImpossibleShingleTBTacoLeft
+* Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them? (Part 2) https://clips.twitch.tv/SnappyExpensiveDootMVGame

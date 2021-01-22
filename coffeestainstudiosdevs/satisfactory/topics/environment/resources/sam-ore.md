@@ -21,3 +21,14 @@ date: Last Modified
 
 # March 9th, 2019 Livestream
 * [Q&A: What do you use S.A.M. Ore for?](../../../transcriptions/yt-jdOQXcBiSH0.md) https://www.youtube.com/watch?v=jdOQXcBiSH0
+
+# August 25th, 2020 Livestream
+* Q&A: Please tell me Update 4 will use S.A.M. Ore https://clips.twitch.tv/ArtisticGlutenFreeSpindleDxAbomb
+* Q&A: Are limited resources planned? (Part 1) https://clips.twitch.tv/ConcernedStylishTomatoBabyRage
+* Q&A: Are limited resources planned? (Part 2) https://clips.twitch.tv/PrettyBelovedTermiteOptimizePrime
+* Q&A: Are limited resources planned? (Part 3) https://clips.twitch.tv/PoorAlluringHerdRitzMitz
+
+# August 18th, 2020 Livestream
+* Q&A: Do you plan to make other resources beyond S.A.M. Ore? https://clips.twitch.tv/InventiveBillowingEggPMSTwin
+* Q&A: S.A.M. Ore uses? https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis
+* Q&A: Coffee Cups are made out of S.A.M. Ore? https://clips.twitch.tv/SuspiciousImportantOryxSquadGoals

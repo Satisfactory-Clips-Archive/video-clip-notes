@@ -26,3 +26,6 @@ date: Last Modified
 # March 9th, 2019 Livestream
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../../../transcriptions/yt-3gFgrVEkOpc.md) https://www.youtube.com/watch?v=3gFgrVEkOpc
 * [Snutt Talk: Storage Containers](../../../transcriptions/yt-oQfZtyxDIrE.md) https://www.youtube.com/watch?v=oQfZtyxDIrE
+
+# August 25th, 2020 Livestream
+* Q&A: Please think about adding dedicated Storage Containers like in Ark ? https://clips.twitch.tv/ArbitraryIronicClipsdadPicoMause

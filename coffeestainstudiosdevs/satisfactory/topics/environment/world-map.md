@@ -134,16 +134,11 @@ date: Last Modified
 * Q&A: Why can't we explode some stones in the map? https://clips.twitch.tv/HeartlessAntsyMelonCharlieBitMe
 * Q&A: Like a new map for Satisfactory? https://clips.twitch.tv/ArtisticAthleticCroissantRalpherZ
 * Q&A: How about procedural maps? https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea
+* Q&A: Plans for a Map Editor? (Part 1) https://clips.twitch.tv/ApatheticExpensiveDiscPeoplesChamp
+* Q&A: Plans for a Map Editor? (Part 2) https://clips.twitch.tv/WiseToughOstrichYouWHY
+* Snutt Talk: Map Builders (Part 1) https://clips.twitch.tv/TsundereProudKiwiRaccAttack
+* Snutt Talk: Map Builders (Part 2) https://clips.twitch.tv/RichResourcefulSwanRlyTho
 * Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ? https://clips.twitch.tv/VibrantExpensiveRaisinStinkyCheese
-* Q&A: Will there be a rocket to leave the planet? https://clips.twitch.tv/BusyPowerfulWombatSoonerLater
-
-## Q&A: Plans for a Map Editor?
-* Part 1: https://clips.twitch.tv/ApatheticExpensiveDiscPeoplesChamp
-* Part 2: https://clips.twitch.tv/WiseToughOstrichYouWHY
-
-## Snutt Talk: Map Builders
-* Part 1: https://clips.twitch.tv/TsundereProudKiwiRaccAttack
-* Part 2: https://clips.twitch.tv/RichResourcefulSwanRlyTho
 
 # August 18th, 2020 Livestream
 * Q&A: Will there be any underwater resources? https://clips.twitch.tv/RelievedCleanBibimbapDancingBanana
@@ -155,3 +150,6 @@ date: Last Modified
 # August 11th, 2020 Livestream
 * Q&A: Randomly Generated Maps: https://clips.twitch.tv/OilyBloodyMangoFutureMan
 * Q&A: Do you plan to release a World Editor? https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank
+
+# July 28th, 2020 Livestream
+* Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5

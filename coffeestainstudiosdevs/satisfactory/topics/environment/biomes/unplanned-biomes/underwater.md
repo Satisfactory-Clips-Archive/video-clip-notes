@@ -12,3 +12,12 @@ date: Last Modified
 
 # December 19th, 2019 Livestream
 * [Q&A: Underwater Worlds?](../../../../transcriptions/yt-QXK9y3pnWGg.md) https://www.youtube.com/watch?v=QXK9y3pnWGg
+
+# August 25th, 2020 Livestream
+* Q&A: Underwater biome when? https://clips.twitch.tv/HonorableCautiousDonutStoneLightning
+
+# August 18th, 2020 Livestream
+* Q&A: Will there be any underwater resources? https://clips.twitch.tv/RelievedCleanBibimbapDancingBanana
+
+# July 21st, 2020 Livestream
+* Q&A: How about building underwater? https://clips.twitch.tv/NiceDreamyGarbageBuddhaBar

@@ -89,32 +89,20 @@ date: Last Modified
 * [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](../../transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k
 
 # August 25th, 2020 Livestream
-* Q&A: Will we ever have proper multi-core support? https://clips.twitch.tv/VenomousProtectiveDonutTheTarFu
-
-## Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds
-* Part 1: https://clips.twitch.tv/TentativeHardPlumberYee
-* Part 2: https://clips.twitch.tv/SquareLovelyFriesBudBlast
-* Part 3: https://clips.twitch.tv/TemperedEnchantingOrangeTBCheesePull
-* Part 4: https://clips.twitch.tv/FrigidFragileCucumberOneHand
-
-## Autosave
-* Q&A: Better Autosave system? https://clips.twitch.tv/CarefulBashfulHyenaWOOP
-* Snutt Talk: If you think Autosave is annoying https://clips.twitch.tv/InventiveStylishGerbilWow
-* Q&A: Is it possible to have the Autosave not noticeable at all ? https://clips.twitch.tv/ThirstyTubularHamMikeHogu
+* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 1) https://clips.twitch.tv/TentativeHardPlumberYee
+* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 2) https://clips.twitch.tv/SquareLovelyFriesBudBlast
+* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 3) https://clips.twitch.tv/TemperedEnchantingOrangeTBCheesePull
+* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 4) https://clips.twitch.tv/FrigidFragileCucumberOneHand
 
 # August 18th, 2020 Livestream
-* Q&A: Is Satisfactory affected by Epic vs. Apple? https://clips.twitch.tv/FurryAwkwardStrawberryWoofer
+* Build Limit (Part 1): https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis
+* Build Limit (Part 2): https://clips.twitch.tv/UnusualExquisiteKuduDendiFace
+* Build Limit (Part 3): https://clips.twitch.tv/SullenColdbloodedDiscEagleEye
+* Build Limit (Part 4): https://clips.twitch.tv/BlitheEnergeticEelPRChase
+* Build Limit (Part 5): https://clips.twitch.tv/GiantGeniusGooseCclamChamp
+* Build Limit (Part 6): https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ
 * Q&A: Custom game engine? https://clips.twitch.tv/ViscousFuriousPonyPhilosoraptor
-* Q&A: Any news about autosave freezes? https://clips.twitch.tv/CrispyCheerfulCrocodilePanicBasket
 * Q&A: Are you going to upgrade to UE5? https://clips.twitch.tv/GloriousTangentialSalmonPastaThat
-
-## Build Limit
-* Part 1: https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis
-* Part 2: https://clips.twitch.tv/UnusualExquisiteKuduDendiFace
-* Part 3: https://clips.twitch.tv/SullenColdbloodedDiscEagleEye
-* Part 4: https://clips.twitch.tv/BlitheEnergeticEelPRChase
-* Part 5: https://clips.twitch.tv/GiantGeniusGooseCclamChamp
-* Part 6: https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ
 
 # July 28th, 2020 Livestream
 * Q&A: Unreal Engine 5 https://clips.twitch.tv/PiliableZanyGrassFreakinStinkin

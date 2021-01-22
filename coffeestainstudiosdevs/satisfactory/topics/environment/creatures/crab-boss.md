@@ -33,3 +33,10 @@ date: Last Modified
 
 # March 9th, 2019 Livestream
 * [Q&A: How many bosses in Satisfactory?](../../../transcriptions/yt-OHrWEP9zmy8.md) https://www.youtube.com/watch?v=OHrWEP9zmy8
+
+# August 25th, 2020 Livestream
+* Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
+* Q&A: Will we have more monsters? https://clips.twitch.tv/GrotesqueDelightfulLyrebirdPrimeMe
+
+# July 28th, 2020 Livestream
+* Q&A: More Wildlife? https://clips.twitch.tv/DirtyHilariousPancakeWow

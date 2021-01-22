@@ -9,3 +9,6 @@ date: Last Modified
 
 # September 1st, 2020 Livestream
 * [Q&A: Will the Factory Cart be available as Merch?](../../../../transcriptions/yt-i1iL8KXmptE.md) https://www.youtube.com/watch?v=i1iL8KXmptE
+
+# August 11th, 2020 Livestream
+* Q&A: remote-control Factory Cart https://clips.twitch.tv/MoistSmellyReubenDoubleRainbow
