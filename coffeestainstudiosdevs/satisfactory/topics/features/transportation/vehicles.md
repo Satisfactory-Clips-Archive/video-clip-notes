@@ -57,7 +57,7 @@ date: Last Modified
 
 # December 19th, 2019 Livestream
 * [Q&A: Give us a flight vehicle?](../../../transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I
-* [Q&A: Vehicle Lifts?](../../../transcriptions/yt-ayGH9w3sEBo.md) https://www.youtube.com/watch?v=ayGH9w3sEBo
+* Q&A: Vehicle Lifts? https://www.youtube.com/watch?v=ayGH9w3sEBo
 * [Q&A: Have you considerd Flying Drones?](../../../transcriptions/yt-KYox3m1mePU.md) https://www.youtube.com/watch?v=KYox3m1mePU
 * [Q&A: Improve Vehicles in general?](../../../transcriptions/yt-pRuIjTp-u5I.md) https://www.youtube.com/watch?v=pRuIjTp-u5I
 
@@ -66,7 +66,7 @@ date: Last Modified
 * [Q&A: Weirdest bug you guys fixed](../../../transcriptions/yt-ybgZUbANGrM.md) https://www.youtube.com/watch?v=ybgZUbANGrM
 * [Q&A: Tractor, but "Sugar Cube" is mentioned in the description?](../../../transcriptions/yt-qvzPjISX75Y.md) https://www.youtube.com/watch?v=qvzPjISX75Y
 * [Q&A: I don't understand the autopilot for the Tractor?](../../../transcriptions/yt-V7BwnNzG8I0.md) https://www.youtube.com/watch?v=V7BwnNzG8I0
-* [Q&A: Will there be lamps for night?](../../../transcriptions/yt-SiS0HGq7_oU.md) https://www.youtube.com/watch?v=SiS0HGq7_oU
+* Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
 * [Q&A: I've activated autopilot but it doesn't run?](../../../transcriptions/yt-yzhYoMChQ6Q.md) https://www.youtube.com/watch?v=yzhYoMChQ6Q
 
 # August 25th, 2020 Livestream

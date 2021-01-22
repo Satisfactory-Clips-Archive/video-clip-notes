@@ -38,7 +38,7 @@ date: Last Modified
 * [Q&A: Can we can expect a dev *blog* article about the Engine changes?](../../transcriptions/yt-C9LL9rg1aOk.md) https://www.youtube.com/watch?v=C9LL9rg1aOk
 * [Snutt Talk: Lights (not) confirmed!](../../transcriptions/yt-9VodwDOMBl0.md) https://www.youtube.com/watch?v=9VodwDOMBl0
 * [Q&A: DirectX 12 when?](../../transcriptions/yt-BxAAQTxvy-Y.md) https://www.youtube.com/watch?v=BxAAQTxvy-Y
-* [Q&A: When is the Engine Upgrade planned now?](../../transcriptions/yt-kg4OkSCHFNs.md) https://www.youtube.com/watch?v=kg4OkSCHFNs
+* Q&A: When is the Engine Upgrade planned now? https://www.youtube.com/watch?v=kg4OkSCHFNs
 * [Q&A: Are Coffee Stain looking for Unreal Engine programmers - do you hire remotely?](../../transcriptions/yt-sI7zMjVad1c.md) https://www.youtube.com/watch?v=sI7zMjVad1c
 * [Snutt Talk: Emmissive Materials](../../transcriptions/yt-nYpEI8hZEgU.md) https://www.youtube.com/watch?v=nYpEI8hZEgU
 

@@ -10,7 +10,7 @@ date: Last Modified
 * [State of Dev: ETA for Update 4](../../transcriptions/yt-5kVXtK-Yu5g.md) https://www.youtube.com/watch?v=5kVXtK-Yu5g
 
 # January 12th, 2021 Livestream
-* [State of Dev - FICS⁕MAS](../../transcriptions/yt-dnkH1mqdCKI.md) https://www.youtube.com/watch?v=dnkH1mqdCKI
+* State of Dev - FICS⁕MAS https://www.youtube.com/watch?v=dnkH1mqdCKI
 * [State of Dev: Mug Merch](../../transcriptions/yt-sDMER4xm8Gc.md) https://www.youtube.com/watch?v=sDMER4xm8Gc
 * [State of Dev - Unreal Engine Update](../../transcriptions/yt-DNmmfH4tJSA.md) https://www.youtube.com/watch?v=DNmmfH4tJSA
 * [State of Dev: Coffee Stain new office (Part 1)](../../transcriptions/yt-htoUHZbvu1A.md) https://www.youtube.com/watch?v=htoUHZbvu1A

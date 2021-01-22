@@ -8,7 +8,7 @@ date: Last Modified
 * [Q&A: New skins?](../../../transcriptions/yt--IYD97gEt4w.md) https://www.youtube.com/watch?v=-IYD97gEt4w
 
 # December 15th, 2020 Livestream
-* [Q&A: Are we adding new skins?](../../../transcriptions/yt-w2zJd6F1Udw.md) https://www.youtube.com/watch?v=w2zJd6F1Udw
+* Q&A: Are we adding new skins? https://www.youtube.com/watch?v=w2zJd6F1Udw
 
 # November 17th, 2020 Livestream
 * [Trolling: Roleplay](../../../transcriptions/yt-woqoPQxH1aQ.md) https://www.youtube.com/watch?v=woqoPQxH1aQ

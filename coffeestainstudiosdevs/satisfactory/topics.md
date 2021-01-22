@@ -6,9 +6,11 @@ date: Last Modified
 * [Localisation](./topics/localisation.md)
 * [Merch](./topics/merch.md)
 * [Off-Topic](./topics/off-topic.md)
+* [Satisfactory Updates](./topics/satisfactory-updates.md)
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)
 * [Story & Lore](./topics/story-lore.md)
+* [Technology](./topics/technology.md)
 * [Trolling](./topics/trolling.md)
 * [Wiki](./topics/wiki.md)
 
@@ -24,6 +26,125 @@ date: Last Modified
 * [Simon](./topics/coffee-stainers/simon.md)
 * [Snutt](./topics/coffee-stainers/snutt.md)
 * [Tim](./topics/coffee-stainers/tim.md)
+
+# Features
+* [Accessibility](./topics/features/accessibility.md)
+* [Autosave](./topics/features/autosave.md)
+* [Buildings](./topics/features/buildings.md)
+* [Crafting](./topics/features/crafting.md)
+* [Emotes](./topics/features/emotes.md)
+* [Equipment](./topics/features/equipment.md)
+* [Fluids](./topics/features/fluids.md)
+* [Gases](./topics/features/gases.md)
+* [Multiplayer](./topics/features/multiplayer.md)
+* [Paint](./topics/features/paint.md)
+* [Photo Mode](./topics/features/photo-mode.md)
+* [Pioneer](./topics/features/pioneer.md)
+* [Power Management](./topics/features/power-management.md)
+* [Tiers](./topics/features/tiers.md)
+
+## Accessibility
+* [Arachnophobia Mode](./topics/features/accessibility/arachnophobia-mode.md)
+
+## Buildables
+* [Conveyor Belts](./topics/features/buildables/conveyor-belts.md)
+* [Foundations](./topics/features/buildables/foundations.md)
+* [Jump Pads](./topics/features/buildables/jump-pads.md)
+* [Ladders](./topics/features/buildables/ladders.md)
+* [Storage Containers](./topics/features/buildables/storage-containers.md)
+* [Walls](./topics/features/buildables/walls.md)
+
+## Buildings
+* [AWESOME Sink](./topics/features/buildings/awesome-sink.md)
+* [AWESOME Store](./topics/features/buildings/awesome-store.md)
+* [Assembler](./topics/features/buildings/assembler.md)
+* [Blender](./topics/features/buildings/blender.md)
+* [M.A.M.](./topics/features/buildings/m-a-m.md)
+* [Oil Extractor](./topics/features/buildings/oil-extractor.md)
+* [Packager](./topics/features/buildings/packager.md)
+* [Radar Tower](./topics/features/buildings/radar-tower.md)
+* [Refinery](./topics/features/buildings/refinery.md)
+* [Resource Well Extractor](./topics/features/buildings/resource-well-extractor.md)
+* [Resource Well Pressurizer](./topics/features/buildings/resource-well-pressurizer.md)
+* [Space Elevator](./topics/features/buildings/space-elevator.md)
+* [The HUB](./topics/features/buildings/the-hub.md)
+
+## Crafting
+* [Fuel](./topics/features/crafting/fuel.md)
+* [Superposition Oscillator](./topics/features/crafting/superposition-oscillator.md)
+
+## Equipment
+* [Chainsaw](./topics/features/equipment/chainsaw.md)
+* [Jetpack](./topics/features/equipment/jetpack.md)
+
+## Fluids
+* [Pipes](./topics/features/fluids/pipes.md)
+* [Pumps](./topics/features/fluids/pumps.md)
+* [Valves](./topics/features/fluids/valves.md)
+
+## Planned Features
+* [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
+* [Lights](./topics/features/planned-features/lights.md)
+* [Signs](./topics/features/planned-features/signs.md)
+
+## Possible Features
+* [Character Customisation](./topics/features/possible-features/character-customisation.md)
+* [Console Release](./topics/features/possible-features/console-release.md)
+* [DLC](./topics/features/possible-features/dlc.md)
+* [Decor](./topics/features/possible-features/decor.md)
+* [Game Modes](./topics/features/possible-features/game-modes.md)
+* [Third-Party Service Integration](./topics/features/possible-features/third-party-service-integration.md)
+* [Weather Systems](./topics/features/possible-features/weather-systems.md)
+
+## Power Management
+* [Geothermal Energy](./topics/features/power-management/geothermal-energy.md)
+* [Green Energy](./topics/features/power-management/green-energy.md)
+* [Nuclear Energy](./topics/features/power-management/nuclear-energy.md)
+
+### Nuclear Energy
+* [Nuclear Waste](./topics/features/power-management/nuclear-energy/nuclear-waste.md)
+
+## Tiers
+* [Tier 10](./topics/features/tiers/tier-10.md)
+* [Tier 7](./topics/features/tiers/tier-7.md)
+* [Tier 8](./topics/features/tiers/tier-8.md)
+* [Tier 9](./topics/features/tiers/tier-9.md)
+
+## Transportation
+* [Hyper Tubes](./topics/features/transportation/hyper-tubes.md)
+* [Trains](./topics/features/transportation/trains.md)
+* [Vehicles](./topics/features/transportation/vehicles.md)
+
+### Trains
+* [Train Signals](./topics/features/transportation/trains/train-signals.md)
+
+### Vehicles
+* [Cyber Wagon](./topics/features/transportation/vehicles/cyber-wagon.md)
+* [Explorer](./topics/features/transportation/vehicles/explorer.md)
+* [Factory Cart](./topics/features/transportation/vehicles/factory-cart.md)
+* [Truck](./topics/features/transportation/vehicles/truck.md)
+
+## Unplanned Features
+* [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)
+* [Base Defense](./topics/features/unplanned-features/base-defense.md)
+* [Mass Building](./topics/features/unplanned-features/mass-building.md)
+* [Procedural Generation](./topics/features/unplanned-features/procedural-generation.md)
+* [Space Exploration](./topics/features/unplanned-features/space-exploration.md)
+* [Terraforming](./topics/features/unplanned-features/terraforming.md)
+
+## Unreleased Features
+* [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
+
+# Off-Topic
+* [Goat Simulator](./topics/off-topic/goat-simulator.md)
+* [Pizza](./topics/off-topic/pizza.md)
+* [Sanctum](./topics/off-topic/sanctum.md)
+* [Valheim](./topics/off-topic/valheim.md)
+
+# Technology
+* [Graphics](./topics/technology/graphics.md)
+* [Unreal Engine](./topics/technology/unreal-engine.md)
+* [User Interface](./topics/technology/user-interface.md)
 
 # Environment
 * [Biomes](./topics/environment/biomes.md)
@@ -49,111 +170,11 @@ date: Last Modified
 * [Oil](./topics/environment/resources/oil.md)
 * [S.A.M. Ore](./topics/environment/resources/sam-ore.md)
 
-# Features
-* [Accessibility](./topics/features/accessibility.md)
-* [Autosave](./topics/features/autosave.md)
-* [Buildings](./topics/features/buildings.md)
-* [Crafting](./topics/features/crafting.md)
-* [Emotes](./topics/features/emotes.md)
-* [Equipment](./topics/features/equipment.md)
-* [Fluids](./topics/features/fluids.md)
-* [Gases](./topics/features/gases.md)
-* [Multiplayer](./topics/features/multiplayer.md)
-* [Paint](./topics/features/paint.md)
-* [Photo Mode](./topics/features/photo-mode.md)
-* [Pioneer](./topics/features/pioneer.md)
-* [Power Management](./topics/features/power-management.md)
-* [Tiers](./topics/features/tiers.md)
+# Merch
+* [Merch Prototypes](./topics/merch/merch-prototypes.md)
 
-## Buildings
-* [AWESOME Sink](./topics/features/buildings/awesome-sink.md)
-* [AWESOME Store](./topics/features/buildings/awesome-store.md)
-* [Assembler](./topics/features/buildings/assembler.md)
-* [Blender](./topics/features/buildings/blender.md)
-* [M.A.M.](./topics/features/buildings/m-a-m.md)
-* [Oil Extractor](./topics/features/buildings/oil-extractor.md)
-* [Packager](./topics/features/buildings/packager.md)
-* [Radar Tower](./topics/features/buildings/radar-tower.md)
-* [Refinery](./topics/features/buildings/refinery.md)
-* [Resource Well Extractor](./topics/features/buildings/resource-well-extractor.md)
-* [Resource Well Pressurizer](./topics/features/buildings/resource-well-pressurizer.md)
-* [Space Elevator](./topics/features/buildings/space-elevator.md)
-* [The HUB](./topics/features/buildings/the-hub.md)
-
-## Planned Features
-* [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
-* [Lights](./topics/features/planned-features/lights.md)
-* [Signs](./topics/features/planned-features/signs.md)
-
-## Accessibility
-* [Arachnophobia Mode](./topics/features/accessibility/arachnophobia-mode.md)
-
-## Buildables
-* [Conveyor Belts](./topics/features/buildables/conveyor-belts.md)
-* [Foundations](./topics/features/buildables/foundations.md)
-* [Jump Pads](./topics/features/buildables/jump-pads.md)
-* [Ladders](./topics/features/buildables/ladders.md)
-* [Storage Containers](./topics/features/buildables/storage-containers.md)
-* [Walls](./topics/features/buildables/walls.md)
-
-## Crafting
-* [Fuel](./topics/features/crafting/fuel.md)
-* [Superposition Oscillator](./topics/features/crafting/superposition-oscillator.md)
-
-## Equipment
-* [Chainsaw](./topics/features/equipment/chainsaw.md)
-* [Jetpack](./topics/features/equipment/jetpack.md)
-
-## Fluids
-* [Pipes](./topics/features/fluids/pipes.md)
-* [Pumps](./topics/features/fluids/pumps.md)
-* [Valves](./topics/features/fluids/valves.md)
-
-## Possible Features
-* [Character Customisation](./topics/features/possible-features/character-customisation.md)
-* [Console Release](./topics/features/possible-features/console-release.md)
-* [DLC](./topics/features/possible-features/dlc.md)
-* [Decor](./topics/features/possible-features/decor.md)
-* [Game Modes](./topics/features/possible-features/game-modes.md)
-* [Third-Party Service Integration](./topics/features/possible-features/third-party-service-integration.md)
-* [Weather Systems](./topics/features/possible-features/weather-systems.md)
-
-## Power Management
-* [Geothermal Energy](./topics/features/power-management/geothermal-energy.md)
-* [Green Energy](./topics/features/power-management/green-energy.md)
-* [Nuclear Energy](./topics/features/power-management/nuclear-energy.md)
-
-### Nuclear Energy
-* [Nuclear Waste](./topics/features/power-management/nuclear-energy/nuclear-waste.md)
-
-## Transportation
-* [Hyper Tubes](./topics/features/transportation/hyper-tubes.md)
-* [Trains](./topics/features/transportation/trains.md)
-* [Vehicles](./topics/features/transportation/vehicles.md)
-
-### Trains
-* [Train Signals](./topics/features/transportation/trains/train-signals.md)
-
-### Vehicles
-* [Explorer](./topics/features/transportation/vehicles/explorer.md)
-* [Factory Cart](./topics/features/transportation/vehicles/factory-cart.md)
-* [Truck](./topics/features/transportation/vehicles/truck.md)
-
-## Unplanned Features
-* [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)
-* [Base Defense](./topics/features/unplanned-features/base-defense.md)
-* [Mass Building](./topics/features/unplanned-features/mass-building.md)
-* [Procedural Generation](./topics/features/unplanned-features/procedural-generation.md)
-* [Terraforming](./topics/features/unplanned-features/terraforming.md)
-
-## Unreleased Features
-* [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
-
-# Off-Topic
-* [Goat Simulator](./topics/off-topic/goat-simulator.md)
-* [Pizza](./topics/off-topic/pizza.md)
-* [Sanctum](./topics/off-topic/sanctum.md)
-* [Valheim](./topics/off-topic/valheim.md)
+## Merch Prototypes
+* [FICSIT Cup Prototypes](./topics/merch/merch-prototypes/ficsit-cup-prototypes.md)
 
 # Mods
 * [Mods](./topics/mods.md)
@@ -161,6 +182,7 @@ date: Last Modified
 * [Official Mod Support](./topics/mods/official-mod-support.md)
 
 # Satisfactory Updates
+* [Free Weekends](./topics/satisfactory-updates/free-weekends.md)
 * [Release Builds](./topics/satisfactory-updates/release-builds.md)
 * [Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
 * [Seasonal Events](./topics/satisfactory-updates/seasonal-events.md)
@@ -181,8 +203,3 @@ date: Last Modified
 * [Satisfactory Update 5](./topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Update 6](./topics/satisfactory-updates/speculative/satisfactory-update-6.md)
 * [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
-
-# Technology
-* [Graphics](./topics/technology/graphics.md)
-* [Unreal Engine](./topics/technology/unreal-engine.md)
-* [User Interface](./topics/technology/user-interface.md)

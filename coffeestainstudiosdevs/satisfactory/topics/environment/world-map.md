@@ -41,7 +41,7 @@ date: Last Modified
 * [Q&A: Who is Hannah?](../../transcriptions/yt-KwsiVfRUKNE.md) https://www.youtube.com/watch?v=KwsiVfRUKNE
 
 # November 10th, 2020 Livestream
-* [Q&A: Any plans to expand the Map / add new Biomes?](../../transcriptions/yt-oZhfgq9vdKg.md) https://www.youtube.com/watch?v=oZhfgq9vdKg
+* Q&A: Any plans to expand the Map / add new Biomes? https://www.youtube.com/watch?v=oZhfgq9vdKg
 * [Q&A: Will the dark areas of the Map open up soon?](../../transcriptions/yt-MTkj1xIXfhw.md) https://www.youtube.com/watch?v=MTkj1xIXfhw
 * [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](../../transcriptions/yt-IFxnvuYEVtk.md) https://www.youtube.com/watch?v=IFxnvuYEVtk
 * [Q&A: Any plans to add more animals to enemies or dangers?](../../transcriptions/yt-RuzL7DdAJ1o.md) https://www.youtube.com/watch?v=RuzL7DdAJ1o
@@ -50,7 +50,7 @@ date: Last Modified
 * [Q&A: Will the Map become bigger?](../../transcriptions/yt-1pzu9fbySq0.md) https://www.youtube.com/watch?v=1pzu9fbySq0
 * [Q&A: Map is amazing, but infinite generation?](../../transcriptions/yt-2yoGAha7ju0.md) https://www.youtube.com/watch?v=2yoGAha7ju0
 * [Q&A: Is it going to be possible to create randomly generated Resources on the Map?](../../transcriptions/yt-xeAXhjMWZpI.md) https://www.youtube.com/watch?v=xeAXhjMWZpI
-* [Q&A: The Map of the Dedicted Server, currently it doesn't have enough nodes for a Competitive map](../../transcriptions/yt-rtOmNkt5whw.md) https://www.youtube.com/watch?v=rtOmNkt5whw
+* Q&A: The Map of the Dedicted Server, currently it doesn't have enough nodes for a Competitive map https://www.youtube.com/watch?v=rtOmNkt5whw
 * [Q&A: Shouldn't Vehicles despawn after they fall off the World?](../../transcriptions/yt-3n1NZE7lkOk.md) https://www.youtube.com/watch?v=3n1NZE7lkOk
 
 # October 27th, 2020 Livestream
@@ -100,7 +100,7 @@ date: Last Modified
 * [Q&A: What's Hannah's favourite part of level design?](../../transcriptions/yt-sDZjuyYO-zE.md) https://www.youtube.com/watch?v=sDZjuyYO-zE
 * [Hannah Talk: Non-buoyant water](../../transcriptions/yt-lbjhdAumMKc.md) https://www.youtube.com/watch?v=lbjhdAumMKc
 * [Q&A: Are there any Easter Eggs in the landscape?](../../transcriptions/yt-06YaY3zGZeg.md) https://www.youtube.com/watch?v=06YaY3zGZeg
-* [Q&A: Will we get a bigger World Map?](../../transcriptions/yt-TfKysphS2S4.md) https://www.youtube.com/watch?v=TfKysphS2S4
+* Q&A: Will we get a bigger World Map? https://www.youtube.com/watch?v=TfKysphS2S4
 * [Snutt & Hannah Talk: Hannah wants to delete the map.](../../transcriptions/yt-_bVk1N0dvDY.md) https://www.youtube.com/watch?v=_bVk1N0dvDY
 * [Q&A: Will there be larger underground spaces?](../../transcriptions/yt-cuGHH7KF9BI.md) https://www.youtube.com/watch?v=cuGHH7KF9BI
 * [Q&A: Underwater Worlds?](../../transcriptions/yt-QXK9y3pnWGg.md) https://www.youtube.com/watch?v=QXK9y3pnWGg
@@ -114,10 +114,10 @@ date: Last Modified
 * [Q&A: Are you guys planning to add any terraforming or digging?](../../transcriptions/yt-DW0MT8G-wMI.md) https://www.youtube.com/watch?v=DW0MT8G-wMI
 * [Q&A: How many biomes are in game?](../../transcriptions/yt-ouDTfnrZDKo.md) https://www.youtube.com/watch?v=ouDTfnrZDKo
 * [Jace Talk: Grass](../../transcriptions/yt-vpbfpee26Yo.md) https://www.youtube.com/watch?v=vpbfpee26Yo
-* [Jace Talk: fantasyish Biome](../../transcriptions/yt--2hJ5_qMAoM.md) https://www.youtube.com/watch?v=-2hJ5_qMAoM
+* Jace Talk: fantasyish Biome https://www.youtube.com/watch?v=-2hJ5_qMAoM
 * [Q&A: Are you going to add the ability to raise/lower parts of the landscape?](../../transcriptions/yt-AEd2Rt5VDfk.md) https://www.youtube.com/watch?v=AEd2Rt5VDfk
 * [Q&A: Flying vehicles for overhead view of your factory?](../../transcriptions/yt-njN-07Q5-8s.md) https://www.youtube.com/watch?v=njN-07Q5-8s
-* [Snutt, Simon, & Jace Talk: Unfinished areas/Biomes](../../transcriptions/yt-Un45veTgPk8.md) https://www.youtube.com/watch?v=Un45veTgPk8
+* Snutt, Simon, & Jace Talk: Unfinished areas/Biomes https://www.youtube.com/watch?v=Un45veTgPk8
 * [Snutt & Jace Talk: Verticality & top-down views, procedural generation](../../transcriptions/yt-mvkDIjW-NDs.md) https://www.youtube.com/watch?v=mvkDIjW-NDs
 * [Q&A: What's the point of naming beacons?](../../transcriptions/yt-NsywV9ie78k.md) https://www.youtube.com/watch?v=NsywV9ie78k
 * [Q&A: Will the game expand into space or will it stay on the ground?](../../transcriptions/yt-Ea0f72zZshQ.md) https://www.youtube.com/watch?v=Ea0f72zZshQ

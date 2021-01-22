@@ -19,8 +19,8 @@ date: Last Modified
 
 # November 17th, 2020 Livestream
 * [Q&A: What is the current state of the "click & drag" creation debate?](../../../transcriptions/yt-_tVKaBw1syU.md) https://www.youtube.com/watch?v=_tVKaBw1syU
-* [Q&A: Are you going to add any Template/Blueprint system?](../../../transcriptions/yt-tkwKMTaTpV8.md) https://www.youtube.com/watch?v=tkwKMTaTpV8
-* [Q&A: Can we have your opinion on Blueprints?](../../../transcriptions/yt-0HoRmIFZq4Y.md) https://www.youtube.com/watch?v=0HoRmIFZq4Y
+* Q&A: Are you going to add any Template/Blueprint system? https://www.youtube.com/watch?v=tkwKMTaTpV8
+* Q&A: Can we have your opinion on Blueprints? https://www.youtube.com/watch?v=0HoRmIFZq4Y
 
 # November 10th, 2020 Livestream
 * [Q&A: Is it true that building vertically equals worse performance than building horizontally?](../../../transcriptions/yt-BF0MYqw_SpM.md) https://www.youtube.com/watch?v=BF0MYqw_SpM

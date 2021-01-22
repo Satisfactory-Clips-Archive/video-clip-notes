@@ -5,7 +5,7 @@ date: Last Modified
 [Topics](../../topics.md) > Off-Topic > Pizza
 
 # January 12th, 2021 Livestream
-* [Q&A: When will Coffee Stain get Jace a pizza oven?](../../transcriptions/yt-LRsn8Qz3fms.md) https://www.youtube.com/watch?v=LRsn8Qz3fms
+* Q&A: When will Coffee Stain get Jace a pizza oven? https://www.youtube.com/watch?v=LRsn8Qz3fms
 
 # December 19th, 2019 Livestream
 * [Q&A: Bananas on Pizza?](../../transcriptions/yt-RbDtGuXHEH0.md) https://www.youtube.com/watch?v=RbDtGuXHEH0

@@ -9,7 +9,7 @@ date: Last Modified
 * [Q&A: Can we ban Jace from the QA site?](../../transcriptions/yt-X-dk6cTGO_g.md) https://www.youtube.com/watch?v=X-dk6cTGO_g
 
 # January 12th, 2021 Livestream
-* [Q&A: When will Coffee Stain get Jace a pizza oven?](../../transcriptions/yt-LRsn8Qz3fms.md) https://www.youtube.com/watch?v=LRsn8Qz3fms
+* Q&A: When will Coffee Stain get Jace a pizza oven? https://www.youtube.com/watch?v=LRsn8Qz3fms
 * [Q&A: What kind of oven does Jace have?](../../transcriptions/yt-47XUYwkEE-0.md) https://www.youtube.com/watch?v=47XUYwkEE-0
 
 # December 15th, 2020 Livestream

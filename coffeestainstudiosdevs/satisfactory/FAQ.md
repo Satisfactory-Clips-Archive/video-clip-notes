@@ -26,16 +26,6 @@ date: Last Modified
 * Q&A: Give us a flight vehicle? https://www.youtube.com/watch?v=Fb6JnI4Bb4I
 * Q&A: Have you considerd Flying Drones? https://www.youtube.com/watch?v=KYox3m1mePU
 
-## July 28th, 2020
-* Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5
-
-## August 11th, 2020
-* Q&A: Will Drones be added to the game for aerial travel? https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper
-
-## August 25th, 2020
-* Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother
-* Q&A: How about a drone to fly around? https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby
-
 ## September 8th, 2020
 * Jace Talk: Air Transportation https://www.youtube.com/watch?v=hKQlthlcwXc
 * Q&A: Jetpack needs a Hover Mode? https://www.youtube.com/watch?v=zeXh53pKe0A
@@ -162,12 +152,6 @@ date: Last Modified
 * Q&A: Any scope of the game being on consoles? https://www.youtube.com/watch?v=bsTq_WiSeCY
 * Q&A: Will you create Console version of Satisfactory? https://www.youtube.com/watch?v=_MGUbEI247M
 
-## July 28th, 2020
-* Q&A: Satisfactory Console Release https://clips.twitch.tv/FragileNimbleEggnogDatSheffy
-
-## August 18th, 2020
-* Q&A: Are there any plans to port the game to console? https://clips.twitch.tv/CogentRichJackalHeyGirl
-
 ## September 1st, 2020
 * Q&A: Satisfactory on next-gen Consoles? https://www.youtube.com/watch?v=ed1gycRZji4
 
@@ -258,18 +242,6 @@ date: Last Modified
 
 # Dedicated Servers
 
-## August 11th, 2020
-* Q&A: Are Dedicated Servers coming? https://clips.twitch.tv/BigDeadPhoneKappaWealth
-* Q&A: What's the hold-up on Dedicated Servers? https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride
-* Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
-* Q&A: Dedicated Servers, start building a community around that? https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow
-
-## August 25th, 2020
-* Q&A: Dedicated Servers update? https://clips.twitch.tv/AgitatedAltruisticAnacondaStinkyCheese
-* Q&A: Will Dedicated Servers be available on Linux, or Windows? https://clips.twitch.tv/SeductiveInnocentFerretHeyGirl
-* Q&A: Linux would be useful for Servers https://clips.twitch.tv/UglyAwkwardCiderSSSsss
-* Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc
-
 ## September 1st, 2020
 * Q&A: Dedicated Servers https://www.youtube.com/watch?v=z5bf3k7JWlg
 * Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content? https://www.youtube.com/watch?v=CGoHMrbwftU
@@ -289,9 +261,6 @@ date: Last Modified
 * Q&A: Dedicated Servers don't need to wait for an Update? https://www.youtube.com/watch?v=BRvjOB3hRaE
 * Q&A: How will time run on the Dedicated Servers? https://www.youtube.com/watch?v=1RgR6JDSoPg
 * Q&A: Will Dedicated Servers run on Linux? https://www.youtube.com/watch?v=299eeYGePHM
-
-## September 28th, 2020
-* Q&A: Dedicated Server cost https://clips.twitch.tv/ConfidentLittleSnood4Head
 
 ## September 29th, 2020
 * Jace Talk: Dedicated Servers summary https://www.youtube.com/watch?v=pEq7XWO3gCA
@@ -589,18 +558,6 @@ date: Last Modified
 
 # Mass Building
 
-## July 8th, 2020
-* Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis
-
-## July 21st, 2020
-* Q&A: Why no mass building? https://clips.twitch.tv/SoftBovineArmadilloNerfRedBlaster
-
-## August 11th, 2020
-* Q&A: Any plans to make vertical building easier? https://clips.twitch.tv/ImpartialHardSageBigBrother
-
-## August 18th, 2020
-* Q&A: Any plans for 1-click multi-building? https://clips.twitch.tv/CheerfulLightAsteriskGOWSkull
-
 ## September 1st, 2020
 * Q&A: Any plans for bigger foundations? https://www.youtube.com/watch?v=uUFy6qyZLKo
 * Q&A: Blueprints? https://www.youtube.com/watch?v=hpl23B1A0Qk
@@ -642,19 +599,8 @@ date: Last Modified
 
 # Merch
 
-*Please note that Merch has since been launched https://www.youtube.com/watch?v=4_cYnq746zk*
 ## March 9th, 2019
 * Q&A: Lizard Doggo plushie when? https://www.youtube.com/watch?v=jGiN1SdQOFk
-
-## July 28th, 2020
-* Q&A: Coffee Mug? https://clips.twitch.tv/SpunkyHyperWasabi4Head
-
-## August 11th, 2020
-* [in-depth discussion over various clips](2020-08-11.md#merch)
-
-## August 18th, 2020
-* Q&A: Is there a Merch Store? https://clips.twitch.tv/CleanCarefulMoonAMPEnergyCherry
-* Q&A: When will have Merch? https://clips.twitch.tv/FunOriginalPistachioNerfRedBlaster
 
 ## September 1st, 2020
 * Q&A: The Doggo Plushie has to fit into the Cup https://www.youtube.com/watch?v=HMsgkhM0i34
@@ -1058,22 +1004,6 @@ date: Last Modified
 
 # Satisfactory Update 4
 
-## July 28th, 2020
-* Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy
-
-## August 11th, 2020
-* Q&A: Next Update? https://clips.twitch.tv/CrunchyMistyAsparagus4Head
-
-## August 18th, 2020
-* Q&A: When is Update 4 pencilled for? https://clips.twitch.tv/RelievedTawdryEelDogFace
-* Snutt Talk: There's also discussions about how we release Update 4 https://clips.twitch.tv/FaintToughRingYee
-* Q&A: What are some of the priorities for the next update? https://clips.twitch.tv/SneakyLovelyCrabsAMPEnergyCherry
-* Q&A: How often will there be updates to the game? https://clips.twitch.tv/CheerfulZanyWebVoteYea
-
-## August 25th, 2020
-* [ETA for Update 4](2020-08-25.md#eta-for-update-4)
-* [additional clips](2020-08-25.md#update-4-single-clip-videos)
-
 ## September 1st, 2020
 * Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content? https://www.youtube.com/watch?v=CGoHMrbwftU
 
@@ -1169,12 +1099,6 @@ date: Last Modified
 ## January 19th, 2021
 * Q&A: Can we please get a Snow Biome? https://www.youtube.com/watch?v=QHVdhswD13w
 * Q&A: If the community made a Snow Biome, would you add that? https://www.youtube.com/watch?v=I8rWTBGdGio
-
-
-# Space Exploration
-
-## July 28th, 2020
-* Q&A: Signs & Planets https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo
 
 
 # Special Guests
@@ -1276,19 +1200,15 @@ date: Last Modified
 * Q&A: Will there be ways to see your total production per minute? https://www.youtube.com/watch?v=tHzH3dkTZ4s
 
 
-# Tiers
-
-## July 28th, 2020
-* Jace Talk: Content & Tiers https://clips.twitch.tv/SwissFurryPlumPlanking
-
-## August 18th, 2020
-* Q&A: Might we see additions to Tier 7 before the end of the year? https://clips.twitch.tv/DoubtfulNaiveCroquettePeoplesChamp
-* Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit
-* Q&A: What's in Tier 8? (part 1) https://clips.twitch.tv/RelievedRelievedCroissantMingLee
-* Q&A: What's in Tier 8? (part 2) https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu
+# Tier 7
 
 ## September 8th, 2020
 * Q&A: What additions to Tier 7 might be coming & when ? https://www.youtube.com/watch?v=lGbJwWh5W_I
+
+
+# Tiers
+
+## September 8th, 2020
 * Q&A: What additions to Tier 7 might be coming & when ? https://www.youtube.com/watch?v=lGbJwWh5W_I
 
 ## September 22nd, 2020
@@ -1507,23 +1427,6 @@ date: Last Modified
 ## December 19th, 2019
 * Q&A: Is there going to be a way to destroy the fart rock? https://www.youtube.com/watch?v=byPiSQZOAhw
 * Q&A: Underwater Worlds? https://www.youtube.com/watch?v=QXK9y3pnWGg
-
-## July 28th, 2020
-* Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5
-
-## August 11th, 2020
-* Q&A: Randomly Generated Maps: https://clips.twitch.tv/OilyBloodyMangoFutureMan
-* Q&A: Do you plan to release a World Editor? https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank
-
-## August 18th, 2020
-* Q&A: Will there be any underwater resources? https://clips.twitch.tv/RelievedCleanBibimbapDancingBanana
-* Q&A: Terraforming? https://clips.twitch.tv/AmericanSpineyWitchTinyFace
-* Q&A: Any ice/snow biome plans? https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl
-* Q&A: Any different maps planned? https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat
-* Q&A: Will you be able to create your own map? https://clips.twitch.tv/ChillyRockyWalrusUnSane
-
-## August 25th, 2020
-* [various clips](2020-08-25.md#world-map)
 
 ## September 1st, 2020
 * Q&A: Let Hannah finish her work on the map before expanding? https://www.youtube.com/watch?v=wZOVw8KV1rQ

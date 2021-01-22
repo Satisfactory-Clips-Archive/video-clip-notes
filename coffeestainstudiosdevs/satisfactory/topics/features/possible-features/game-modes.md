@@ -10,7 +10,7 @@ date: Last Modified
 * [Q&A: Will we get a Battle Royale Update?](../../../transcriptions/yt-tN8DpsYR8ro.md) https://www.youtube.com/watch?v=tN8DpsYR8ro
 
 # December 8th, 2020 Livestream
-* [Q&A: Will there be a creative-style mode in the future?](../../../transcriptions/yt-ba7BBZw0IsU.md) https://www.youtube.com/watch?v=ba7BBZw0IsU
+* Q&A: Will there be a creative-style mode in the future? https://www.youtube.com/watch?v=ba7BBZw0IsU
 * [Q&A: Will there be any Base Defense?](../../../transcriptions/yt-5-8ACtMU2_E.md) https://www.youtube.com/watch?v=5-8ACtMU2_E
 
 # November 17th, 2020 Livestream
@@ -24,7 +24,7 @@ date: Last Modified
 
 # November 3rd, 2020 Livestream
 * [Q&A: Is there going to be a Creative Mode?](../../../transcriptions/yt-Yn4Brcx8CSs.md) https://www.youtube.com/watch?v=Yn4Brcx8CSs
-* [Q&A: The Map of the Dedicted Server, currently it doesn't have enough nodes for a Competitive map](../../../transcriptions/yt-rtOmNkt5whw.md) https://www.youtube.com/watch?v=rtOmNkt5whw
+* Q&A: The Map of the Dedicted Server, currently it doesn't have enough nodes for a Competitive map https://www.youtube.com/watch?v=rtOmNkt5whw
 
 # September 29th, 2020 Livestream
 * [Q&A: Satisfactory Sandbox ever?](../../../transcriptions/yt-3m68c85bVUM.md) https://www.youtube.com/watch?v=3m68c85bVUM

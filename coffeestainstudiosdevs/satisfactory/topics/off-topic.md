@@ -26,10 +26,10 @@ date: Last Modified
 
 # November 10th, 2020 Livestream
 * [Snutt & Jace Talk: Geese](../transcriptions/yt-dYWkEEqj_qc.md) https://www.youtube.com/watch?v=dYWkEEqj_qc
-* [Q&A: Would you fight 100 duck-sized horses or a horse-sized duck?](../transcriptions/yt-8YhgTMdTfDY.md) https://www.youtube.com/watch?v=8YhgTMdTfDY
+* Q&A: Would you fight 100 duck-sized horses or a horse-sized duck? https://www.youtube.com/watch?v=8YhgTMdTfDY
 
 # December 19th, 2019 Livestream
-* [Q&A: No Coffee in Coffee Stain?](../transcriptions/yt-bNX04zqQ-uY.md) https://www.youtube.com/watch?v=bNX04zqQ-uY
+* Q&A: No Coffee in Coffee Stain? https://www.youtube.com/watch?v=bNX04zqQ-uY
 * [Q&A: Can Birk slap Jace?](../transcriptions/yt-BEOwkK8suFc.md) https://www.youtube.com/watch?v=BEOwkK8suFc
 * [Q&A: Will Birk take Snutt's hat & put it on?](../transcriptions/yt-QGR8OUtf08c.md) https://www.youtube.com/watch?v=QGR8OUtf08c
 * [Q&A: Did you meet the makers of Space Engineers?](../transcriptions/yt-aeNPY1Wpos8.md) https://www.youtube.com/watch?v=aeNPY1Wpos8

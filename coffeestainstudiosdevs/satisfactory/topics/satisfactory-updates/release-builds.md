@@ -31,7 +31,7 @@ date: Last Modified
 * [Q&A: Is that the alpha build version?](../../transcriptions/yt-u9Vu9NIjiRs.md) https://www.youtube.com/watch?v=u9Vu9NIjiRs
 * [Jace Talk: All saves should work](../../transcriptions/yt-w9kJj1Hd-cs.md) https://www.youtube.com/watch?v=w9kJj1Hd-cs
 * [Q&A: Is the Early Access version the same version Alpha Testers have?](../../transcriptions/yt-bnUTeUn6TA4.md) https://www.youtube.com/watch?v=bnUTeUn6TA4
-* [Snutt Talk: Alpha Test Weekend Hard Drive M.A.M. bug](../../transcriptions/yt-EyUfBo2-gjw.md) https://www.youtube.com/watch?v=EyUfBo2-gjw
+* Snutt Talk: Alpha Test Weekend Hard Drive M.A.M. bug https://www.youtube.com/watch?v=EyUfBo2-gjw
 * [Q&A: How often will you release updates in Early Access?](../../transcriptions/yt-PBkvqmyjADM.md) https://www.youtube.com/watch?v=PBkvqmyjADM
 * [Q&A: Are you adding support for Mac any time soon?](../../transcriptions/yt-XQioxcXDRqc.md) https://www.youtube.com/watch?v=XQioxcXDRqc
 * [Q&A: Is Linux support planned in the future?](../../transcriptions/yt-GR3xet5AyuE.md) https://www.youtube.com/watch?v=GR3xet5AyuE

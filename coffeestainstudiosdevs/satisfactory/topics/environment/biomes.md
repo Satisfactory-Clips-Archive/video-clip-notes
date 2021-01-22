@@ -22,7 +22,7 @@ date: Last Modified
 
 # November 10th, 2020 Livestream
 * [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](../../transcriptions/yt-IFxnvuYEVtk.md) https://www.youtube.com/watch?v=IFxnvuYEVtk
-* [Q&A: Any plans to expand the Map / add new Biomes?](../../transcriptions/yt-oZhfgq9vdKg.md) https://www.youtube.com/watch?v=oZhfgq9vdKg
+* Q&A: Any plans to expand the Map / add new Biomes? https://www.youtube.com/watch?v=oZhfgq9vdKg
 
 # September 22nd, 2020 Livestream
 * [Q&A: Snowy Biome confirmed?](../../transcriptions/yt-Yend7bHTMvw.md) https://www.youtube.com/watch?v=Yend7bHTMvw
@@ -36,5 +36,5 @@ date: Last Modified
 # March 9th, 2019 Livestream
 * [Q&A: Is the Desert Biome available in the beta?](../../transcriptions/yt-JMQotRaN9Bs.md) https://www.youtube.com/watch?v=JMQotRaN9Bs
 * [Q&A: How many biomes are in game?](../../transcriptions/yt-ouDTfnrZDKo.md) https://www.youtube.com/watch?v=ouDTfnrZDKo
-* [Jace Talk: fantasyish Biome](../../transcriptions/yt--2hJ5_qMAoM.md) https://www.youtube.com/watch?v=-2hJ5_qMAoM
-* [Snutt, Simon, & Jace Talk: Unfinished areas/Biomes](../../transcriptions/yt-Un45veTgPk8.md) https://www.youtube.com/watch?v=Un45veTgPk8
+* Jace Talk: fantasyish Biome https://www.youtube.com/watch?v=-2hJ5_qMAoM
+* Snutt, Simon, & Jace Talk: Unfinished areas/Biomes https://www.youtube.com/watch?v=Un45veTgPk8

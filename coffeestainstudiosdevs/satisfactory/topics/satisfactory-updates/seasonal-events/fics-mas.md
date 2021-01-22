@@ -5,7 +5,7 @@ date: Last Modified
 [Topics](../../../topics.md) > Satisfactory Updates > Seasonal Events > FICS⁕MAS
 
 # January 12th, 2021 Livestream
-* [State of Dev - FICS⁕MAS](../../../transcriptions/yt-dnkH1mqdCKI.md) https://www.youtube.com/watch?v=dnkH1mqdCKI
+* State of Dev - FICS⁕MAS https://www.youtube.com/watch?v=dnkH1mqdCKI
 
 # December 15th, 2020 Livestream
 * [Q&A: Will FICS⁕MAS Buildings and items still be in the World after the event is over?](../../../transcriptions/yt-ospbB7hdDdI.md) https://www.youtube.com/watch?v=ospbB7hdDdI

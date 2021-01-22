@@ -38,7 +38,7 @@ date: Last Modified
 * [Q&A: What are the technical reasons (behind 600upm limit on pipes)?](../../../transcriptions/yt-UGymBt3-jxU.md) https://www.youtube.com/watch?v=UGymBt3-jxU
 * [Jace & Snutt Talk: Mk.1 Pumps](../../../transcriptions/yt-MoAb27XIZWA.md) https://www.youtube.com/watch?v=MoAb27XIZWA
 * [Jace & Snutt Talk: Mk.2 Pumps](../../../transcriptions/yt-yaniNsFqP9A.md) https://www.youtube.com/watch?v=yaniNsFqP9A
-* [Snutt Talk: Pump Headlift Indicator](../../../transcriptions/yt-eKAWhpZySP4.md) https://www.youtube.com/watch?v=eKAWhpZySP4
+* Snutt Talk: Pump Headlift Indicator https://www.youtube.com/watch?v=eKAWhpZySP4
 * [Jace & Snutt Talk: Valves](../../../transcriptions/yt-3GXsZcsWBzc.md) https://www.youtube.com/watch?v=3GXsZcsWBzc
 * [Q&A: Is this (Fluid Updates) coming in Update 4?](../../../transcriptions/yt-OSM9wYZLbjk.md) https://www.youtube.com/watch?v=OSM9wYZLbjk
 * [Q&A: Patch Notes](../../../transcriptions/yt-UKbF_tNNin0.md) https://www.youtube.com/watch?v=UKbF_tNNin0
@@ -48,8 +48,8 @@ date: Last Modified
 * [Q&A: Will we see performance improvements?](../../../transcriptions/yt-TbPMkoLwW4U.md) https://www.youtube.com/watch?v=TbPMkoLwW4U
 * [Q&A: Does the Packager also do unpacking?](../../../transcriptions/yt-s1ibMeMeBT8.md) https://www.youtube.com/watch?v=s1ibMeMeBT8
 * [Q&A: What was with the song?](../../../transcriptions/yt-yYgOLddw8nY.md) https://www.youtube.com/watch?v=yYgOLddw8nY
-* [Q&A: Can Mk.1 Pump push 600upm through Mk.2 Pipes?](../../../transcriptions/yt-WUyc9WI1DBc.md) https://www.youtube.com/watch?v=WUyc9WI1DBc
-* [Q&A: Will there be Modular Build introduced in this Update?](../../../transcriptions/yt-jtLq06ZLwEY.md) https://www.youtube.com/watch?v=jtLq06ZLwEY
+* Q&A: Can Mk.1 Pump push 600upm through Mk.2 Pipes? https://www.youtube.com/watch?v=WUyc9WI1DBc
+* Q&A: Will there be Modular Build introduced in this Update? https://www.youtube.com/watch?v=jtLq06ZLwEY
 * [Q&A: What about Multiplayer Updates?](../../../transcriptions/yt-jfn3FOb5Jdw.md) https://www.youtube.com/watch?v=jfn3FOb5Jdw
 * [Q&A: Talking about Engine Update, was that Unreal Engine 5?](../../../transcriptions/yt-unAf5J6OtDE.md) https://www.youtube.com/watch?v=unAf5J6OtDE
 

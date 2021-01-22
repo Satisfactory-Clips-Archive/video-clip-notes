@@ -32,7 +32,7 @@ date: Last Modified
 * [Q&A: Simon is dead, did he run out of Alpha Keys?](../transcriptions/yt-dj20zgoTvA0.md) https://www.youtube.com/watch?v=dj20zgoTvA0
 
 # November 17th, 2020 Livestream
-* [Snutt & Jace Don't Talk: Taking suggestions from Twitter](../transcriptions/yt-AAGE7-1paKw.md) https://www.youtube.com/watch?v=AAGE7-1paKw
+* Snutt & Jace Don't Talk: Taking suggestions from Twitter https://www.youtube.com/watch?v=AAGE7-1paKw
 * [Snutt & Jace Talk: Special Announcements](../transcriptions/yt-Abv5c_etxZQ.md) https://www.youtube.com/watch?v=Abv5c_etxZQ
 * [Trolling: There's going to be Coffee](../transcriptions/yt-r5daZccdDvM.md) https://www.youtube.com/watch?v=r5daZccdDvM
 * [Trolling: Goat Simulator DLC](../transcriptions/yt-yXp4YAvRZHg.md) https://www.youtube.com/watch?v=yXp4YAvRZHg

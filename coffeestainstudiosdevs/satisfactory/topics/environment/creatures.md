@@ -54,7 +54,7 @@ date: Last Modified
 * [Q&A: How many types of scary spiders / cute cats are in game?](../../transcriptions/yt-Qw4AMG6mgnY.md) https://www.youtube.com/watch?v=Qw4AMG6mgnY
 * [Jace & Simon take on a Hog that rode Snutt](../../transcriptions/yt-U8qgrw_iVLU.md) https://www.youtube.com/watch?v=U8qgrw_iVLU
 * [Q&A: I don't like spiders but arachnophobia mode is even scarier](../../transcriptions/yt-GluAI4ipeLY.md) https://www.youtube.com/watch?v=GluAI4ipeLY
-* [Q&A: Are there any goats in the game?](../../transcriptions/yt-jAjSoN6Z1rc.md) https://www.youtube.com/watch?v=jAjSoN6Z1rc
+* Q&A: Are there any goats in the game? https://www.youtube.com/watch?v=jAjSoN6Z1rc
 * [Q&A: Are there going to be strawberry fishes in the game?](../../transcriptions/yt-LKcrsIMzGYY.md) https://www.youtube.com/watch?v=LKcrsIMzGYY
 * [Q&A: Plans to make saddle for the big flying thing?](../../transcriptions/yt-gcjbJ7uX2No.md) https://www.youtube.com/watch?v=gcjbJ7uX2No
 * [Q&A: Is there a name for the giant flying creature?](../../transcriptions/yt-bWnZ-OI-_Og.md) https://www.youtube.com/watch?v=bWnZ-OI-_Og

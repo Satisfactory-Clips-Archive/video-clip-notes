@@ -38,7 +38,7 @@ date: Last Modified
 
 # November 3rd, 2020 Livestream
 * [Q&A: Were there any Multiplayer updates in 3.5?](../../transcriptions/yt-utOyTtmjsjQ.md) https://www.youtube.com/watch?v=utOyTtmjsjQ
-* [Q&A: The Map of the Dedicted Server, currently it doesn't have enough nodes for a Competitive map](../../transcriptions/yt-rtOmNkt5whw.md) https://www.youtube.com/watch?v=rtOmNkt5whw
+* Q&A: The Map of the Dedicted Server, currently it doesn't have enough nodes for a Competitive map https://www.youtube.com/watch?v=rtOmNkt5whw
 * [Q&A: Can I play on Epic with someone on Steam?](../../transcriptions/yt-zekvCEX_mv8.md) https://www.youtube.com/watch?v=zekvCEX_mv8
 * [Q&A: What's the recommended network performance for smooth Multiplayer right now?](../../transcriptions/yt-MSt300MAcq8.md) https://www.youtube.com/watch?v=MSt300MAcq8
 * [Q&A: Are you concerned that Dedicated Servers will cause people to move through Tiers too quickly?](../../transcriptions/yt-A2fwfnB8O4U.md) https://www.youtube.com/watch?v=A2fwfnB8O4U
@@ -59,7 +59,7 @@ date: Last Modified
 # October 6th, 2020 Livestream
 * [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](../../transcriptions/yt-RVq5k89jlEA.md) https://www.youtube.com/watch?v=RVq5k89jlEA
 * [Q&A: Co-op networking bugs been fixed?](../../transcriptions/yt-60kjGquJZnk.md) https://www.youtube.com/watch?v=60kjGquJZnk
-* [Q&A: When I play offline I get a second character?](../../transcriptions/yt-6EGahbkbK18.md) https://www.youtube.com/watch?v=6EGahbkbK18
+* Q&A: When I play offline I get a second character? https://www.youtube.com/watch?v=6EGahbkbK18
 * [Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?](../../transcriptions/yt-KGmOM7dLT84.md) https://www.youtube.com/watch?v=KGmOM7dLT84
 
 # September 22nd, 2020 Livestream
