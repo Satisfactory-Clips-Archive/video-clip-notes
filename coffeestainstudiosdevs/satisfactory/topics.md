@@ -34,6 +34,12 @@ date: Last Modified
 * [Resources](./topics/environment/resources.md)
 * [World Map](./topics/environment/world-map.md)
 
+## Biomes
+
+### Unplanned Biomes
+* [Snow](./topics/environment/biomes/unplanned-biomes/snow.md)
+* [Underwater](./topics/environment/biomes/unplanned-biomes/underwater.md)
+
 ## Creatures
 * [Crab Boss](./topics/environment/creatures/crab-boss.md)
 * [Lizard Doggo](./topics/environment/creatures/lizard-doggo.md)
@@ -58,9 +64,6 @@ date: Last Modified
 * [Power Management](./topics/features/power-management.md)
 * [Tiers](./topics/features/tiers.md)
 
-## Accessibility
-* [Arachnophobia Mode](./topics/features/accessibility/arachnophobia-mode.md)
-
 ## Buildings
 * [AWESOME Sink](./topics/features/buildings/awesome-sink.md)
 * [AWESOME Store](./topics/features/buildings/awesome-store.md)
@@ -79,6 +82,9 @@ date: Last Modified
 ## Planned Features
 * [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
 * [Signs](./topics/features/planned-features/signs.md)
+
+## Accessibility
+* [Arachnophobia Mode](./topics/features/accessibility/arachnophobia-mode.md)
 
 ## Buildables
 * [Conveyor Belts](./topics/features/buildables/conveyor-belts.md)
@@ -119,6 +125,9 @@ date: Last Modified
 * [Hyper Tubes](./topics/features/transportation/hyper-tubes.md)
 * [Trains](./topics/features/transportation/trains.md)
 * [Vehicles](./topics/features/transportation/vehicles.md)
+
+### Vehicles
+* [Factory Cart](./topics/features/transportation/vehicles/factory-cart.md)
 
 ## Unplanned Features
 * [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)

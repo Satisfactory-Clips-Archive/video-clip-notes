@@ -51,7 +51,6 @@ date: Last Modified
 
 # September 22nd, 2020 Livestream
 * [Q&A: Boats will come?](../../../transcriptions/yt-33wha_duTqs.md) https://www.youtube.com/watch?v=33wha_duTqs
-* [Q&A: Removing 90 Factory Carts doubled my FPS](../../../transcriptions/yt-R6XOvosAptg.md) https://www.youtube.com/watch?v=R6XOvosAptg
 
 # September 15th, 2020 Livestream
 * [Q&A: Any improvement for the Trucks so they can transport Fluids?](../../../transcriptions/yt-lNpwyJr7lZc.md) https://www.youtube.com/watch?v=lNpwyJr7lZc
@@ -63,9 +62,6 @@ date: Last Modified
 * [Q&A: Why do you take Gas damage while wearing a Gas Mask while driving a Car?](../../../transcriptions/yt-HSuHlcSl-y8.md) https://www.youtube.com/watch?v=HSuHlcSl-y8
 * [Q&A: Elevator for Vehicles & Players?](../../../transcriptions/yt-v_KEYdpCb-k.md) https://www.youtube.com/watch?v=v_KEYdpCb-k
 * [Q&A: Dirt Bikes?](../../../transcriptions/yt-75OR9Co9l74.md) https://www.youtube.com/watch?v=75OR9Co9l74
-
-# September 1st, 2020 Livestream
-* [Q&A: Will the Factory Cart be available as Merch?](../../../transcriptions/yt-i1iL8KXmptE.md) https://www.youtube.com/watch?v=i1iL8KXmptE
 
 # December 19th, 2019 Livestream
 * [Q&A: Give us a flight vehicle?](../../../transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I

@@ -65,6 +65,7 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * [Q&A: Steam Workshop support ?](../transcriptions/yt-FkG749zfA2w.md) https://www.youtube.com/watch?v=FkG749zfA2w
 * [Q&A: What is your opinion on the most downloaded mods?](../transcriptions/yt-iOniZ-OPIps.md) https://www.youtube.com/watch?v=iOniZ-OPIps
+* [Q&A: Please take a look at the Doggo farm](../transcriptions/yt-r-Azcy0xC4c.md) https://www.youtube.com/watch?v=r-Azcy0xC4c
 
 # March 9th, 2019 Livestream
 * [Jace Talk: Mods](../transcriptions/yt-JPafvjU7Z0k.md) https://www.youtube.com/watch?v=JPafvjU7Z0k

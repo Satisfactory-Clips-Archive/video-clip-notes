@@ -3,6 +3,8 @@ title: "September 15th, 2020 Livestream Q&A: Snow Area Confirmed?"
 date: "2020-09-15"
 layout: transcript
 topics:
+    - "environment/biomes"
+    - "environment/biomes/unplanned-biomes/snow"
     - "environment/world-map"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
@@ -10,7 +12,9 @@ topics:
 https://www.youtube.com/watch?v=yUDtq7D8XU8
 
 ### Topics
+* [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 
 ### Transcript
 

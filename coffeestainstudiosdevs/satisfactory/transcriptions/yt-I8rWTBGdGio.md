@@ -4,6 +4,7 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "environment/biomes"
+    - "environment/biomes/unplanned-biomes/snow"
     - "mods/mods-vs-features"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=I8rWTBGdGio
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "September 1st, 2020 Livestream Q&A: Will the Factory Cart be available a
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "features/transportation/vehicles"
+    - "features/transportation/vehicles/factory-cart"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will the Factory Cart be available as Merch?
 https://www.youtube.com/watch?v=i1iL8KXmptE
 
 ### Topics
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Vehicles > Factory Cart](../topics/features/transportation/vehicles/factory-cart.md)
 
 ### Transcript
 

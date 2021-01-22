@@ -4,6 +4,7 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "environment/biomes"
+    - "environment/biomes/unplanned-biomes/snow"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Can we please get a Snow Biome?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=QHVdhswD13w
 
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 
 ### Transcript
 

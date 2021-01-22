@@ -3,7 +3,7 @@ title: "September 22nd, 2020 Livestream Q&A: Removing 90 Factory Carts doubled m
 date: "2020-09-22"
 layout: transcript
 topics:
-    - "features/transportation/vehicles"
+    - "features/transportation/vehicles/factory-cart"
     - "technology/graphics"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=R6XOvosAptg
 
 ### Topics
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Transportation > Vehicles > Factory Cart](../topics/features/transportation/vehicles/factory-cart.md)
 
 ### Transcript
 

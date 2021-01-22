@@ -4,6 +4,7 @@ date: "2020-12-15"
 layout: transcript
 topics:
     - "environment/biomes"
+    - "environment/biomes/unplanned-biomes/snow"
     - "environment/world-map"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=iyhdKRg1b0A
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 
 ### Transcript
 
