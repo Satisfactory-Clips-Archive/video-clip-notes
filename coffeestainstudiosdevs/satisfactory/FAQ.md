@@ -146,6 +146,18 @@ date: Last Modified
 * [Q&A: Who is Hannah?](./transcriptions/yt-KwsiVfRUKNE.md) https://www.youtube.com/watch?v=KwsiVfRUKNE
 
 
+# Community
+
+## November 24th, 2020
+* [Q&A: What other languages are going to be added?](./transcriptions/yt-xpzqQntBUgw.md) https://www.youtube.com/watch?v=xpzqQntBUgw
+
+## January 12th, 2021
+* [Q&A: How can I help with translation- the Spanish one looks like Google Translator?](./transcriptions/yt-qbaev-b4lbQ.md) https://www.youtube.com/watch?v=qbaev-b4lbQ
+
+## January 19th, 2021
+* [Q&A: If the community made a Snow Biome, would you add that?](./transcriptions/yt-I8rWTBGdGio.md) https://www.youtube.com/watch?v=I8rWTBGdGio
+
+
 # Console Release
 
 ## March 9th, 2019

@@ -15,6 +15,9 @@ date: Last Modified
 * [Snutt](./topics/coffee-stainers/snutt.md)
 * [Tim](./topics/coffee-stainers/tim.md)
 
+# [Community](./topics/community.md)
+* [Wiki](./topics/community/wiki.md)
+
 # [Environment](./topics/environment.md)
 
 ## [Biomes](./topics/environment/biomes.md)
@@ -180,4 +183,3 @@ date: Last Modified
 * [Unreal Engine](./topics/technology/unreal-engine.md)
 * [User Interface](./topics/technology/user-interface.md)
 * [Trolling](./topics/trolling.md)
-* [Wiki](./topics/wiki.md)
