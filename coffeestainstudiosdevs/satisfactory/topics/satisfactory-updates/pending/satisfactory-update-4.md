@@ -4,7 +4,7 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory Update 4
 
-# January 22nd, 2021 Community Highlights
+# January 22nd, 2021 Instagram AMA
 * Q&A: When is update 4!!!!! https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA_-_When_is_Update_4.mp4
 
 # January 19th, 2021 Livestream
