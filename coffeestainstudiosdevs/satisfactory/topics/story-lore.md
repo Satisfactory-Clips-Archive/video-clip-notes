@@ -5,7 +5,7 @@ date: Last Modified
 [Topics](../topics.md) > Story & Lore
 
 # January 22nd, 2021 Community Highlights
-* Q&A: Will you add a lore or a secret story to satisfactory? https://satisfactory.gamepedia.com/File:January_22nd,_2021_Instagram_AMA_-_story_is_fully_written.mp4
+* Q&A: Will you add a lore or a secret story to satisfactory? https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA_-_story_is_fully_written.mp4
 
 # January 12th, 2021 Livestream
 * [Q&A: Does the game get a deeper Story?](../transcriptions/yt-QViQ--AWYjY.md) https://www.youtube.com/watch?v=QViQ--AWYjY

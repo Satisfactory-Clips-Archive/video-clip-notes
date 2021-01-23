@@ -5,7 +5,7 @@ date: Last Modified
 [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
 # January 22nd, 2021 Community Highlights
-* Q&A: Is there a plan for automatize the base defense? https://satisfactory.gamepedia.com/File:January_22nd,_2021_Instagram_AMA-base_defense.mp4
+* Q&A: Is there a plan for automatize the base defense? https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4
 
 # January 19th, 2021 Livestream
 * [Snutt & Mark Talk: We will not be adding tower defense](../../../transcriptions/yt-hq02irf8xGM.md) https://www.youtube.com/watch?v=hq02irf8xGM
