@@ -35,7 +35,7 @@ date: Last Modified
 * [Q&A: Will there be turrets or something in the game?](../../../transcriptions/yt-xNBFywqCrxM.md) https://www.youtube.com/watch?v=xNBFywqCrxM
 * [Q&A: Can creatures in any way disrupt your factory?](../../../transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
 
-# January 22nd, 2021 Livestream
+# January 22nd, 2021 Community Highlights
 * Q&A: Is there a plan for automatize the base defense? https://satisfactory.gamepedia.com/File:January_22nd,_2021_Instagram_AMA-base_defense.mp4
 
 # August 25th, 2020 Livestream

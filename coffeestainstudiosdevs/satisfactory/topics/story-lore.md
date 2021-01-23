@@ -76,7 +76,7 @@ date: Last Modified
 * [Snutt Talk: Somersloop](../transcriptions/yt-9ALpZxsfl10.md) https://www.youtube.com/watch?v=9ALpZxsfl10
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
 
-# January 22nd, 2021 Livestream
+# January 22nd, 2021 Community Highlights
 * Q&A: Will you add a lore or a secret story to satisfactory? https://satisfactory.gamepedia.com/File:January_22nd,_2021_Instagram_AMA_-_story_is_fully_written.mp4
 
 # August 25th, 2020 Livestream
