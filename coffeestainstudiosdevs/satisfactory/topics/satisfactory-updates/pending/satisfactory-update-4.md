@@ -163,6 +163,9 @@ date: Last Modified
 * [Q&A: Will Update 4 be disruptive enough that players will want to start from scratch?](../../../transcriptions/yt-PuTEiefcHnU.md) https://www.youtube.com/watch?v=PuTEiefcHnU
 * [Q&A: Is there a date targeted?](../../../transcriptions/yt-czUkb31M3co.md) https://www.youtube.com/watch?v=czUkb31M3co
 
+# January 22nd, 2021 Livestream
+* Q&A: When is update 4!!!!! https://satisfactory.gamepedia.com/File:January_22nd,_2021_Instagram_AMA_-_When_is_Update_4.mp4
+
 # August 25th, 2020 Livestream
 * ETA for Update 4? (Part 1) https://clips.twitch.tv/DeadPrettySaladMoreCowbell
 * ETA for Update 4? (Part 2) https://clips.twitch.tv/SavageBenevolentEndiveChocolateRain
