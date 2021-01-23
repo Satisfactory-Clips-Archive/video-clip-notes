@@ -22,13 +22,13 @@ date: Last Modified
 # September 15th, 2020 Livestream
 * [Q&A: Official Mod support?](../../transcriptions/yt-0M3RKdwK5mA.md) https://www.youtube.com/watch?v=0M3RKdwK5mA
 
+# August 25th, 2020 Livestream
+* Plans for mod support? (Part 1) https://clips.twitch.tv/OnerousDeterminedMoonRlyTho
+* Plans for mod support? (Part 2) https://clips.twitch.tv/CreativeOptimisticWalrusSwiftRage
+* Plans for mod support? (Part 3) https://clips.twitch.tv/HumbleRenownedTofuLitty
+
 # March 9th, 2019 Livestream
 * [Q&A: What do you think about future Mod support?](../../transcriptions/yt-6-uSzpX-zZ0.md) https://www.youtube.com/watch?v=6-uSzpX-zZ0
 * [Jace Talk: Mod support](../../transcriptions/yt-37zFxpeGm-E.md) https://www.youtube.com/watch?v=37zFxpeGm-E
 * [Q&A: Will Dedicated Servers and Mods be free?](../../transcriptions/yt-WEq2xEXVVQ0.md) https://www.youtube.com/watch?v=WEq2xEXVVQ0
 * [Jace Talk: Mods](../../transcriptions/yt-JPafvjU7Z0k.md) https://www.youtube.com/watch?v=JPafvjU7Z0k
-
-# August 25th, 2020 Livestream
-* Plans for mod support? (Part 1) https://clips.twitch.tv/OnerousDeterminedMoonRlyTho
-* Plans for mod support? (Part 2) https://clips.twitch.tv/CreativeOptimisticWalrusSwiftRage
-* Plans for mod support? (Part 3) https://clips.twitch.tv/HumbleRenownedTofuLitty

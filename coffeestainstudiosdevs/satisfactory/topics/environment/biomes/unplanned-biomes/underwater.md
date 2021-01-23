@@ -10,9 +10,6 @@ date: Last Modified
 # November 24th, 2020 Livestream
 * [Q&A: Any plans for underwater mechanics?](../../../../transcriptions/yt-nQplpfNLru8.md) https://www.youtube.com/watch?v=nQplpfNLru8
 
-# December 19th, 2019 Livestream
-* [Q&A: Underwater Worlds?](../../../../transcriptions/yt-QXK9y3pnWGg.md) https://www.youtube.com/watch?v=QXK9y3pnWGg
-
 # August 25th, 2020 Livestream
 * Q&A: Underwater biome when? https://clips.twitch.tv/HonorableCautiousDonutStoneLightning
 
@@ -21,3 +18,6 @@ date: Last Modified
 
 # July 21st, 2020 Livestream
 * Q&A: How about building underwater? https://clips.twitch.tv/NiceDreamyGarbageBuddhaBar
+
+# December 19th, 2019 Livestream
+* [Q&A: Underwater Worlds?](../../../../transcriptions/yt-QXK9y3pnWGg.md) https://www.youtube.com/watch?v=QXK9y3pnWGg

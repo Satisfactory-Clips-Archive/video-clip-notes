@@ -70,6 +70,14 @@ date: Last Modified
 * [Q&A: Any chance of you putting a daily limit in the game?](../../transcriptions/yt-vgxwqJg7o2A.md) https://www.youtube.com/watch?v=vgxwqJg7o2A
 * [Q&A: When will "coal" be "Coal" on the Resource Scanner?](../../transcriptions/yt-p-Zd7qm0D6E.md) https://www.youtube.com/watch?v=p-Zd7qm0D6E
 
+# August 25th, 2020 Livestream
+* Q&A: Today I Learned - there's a mass dismantle? https://clips.twitch.tv/OnerousGlamorousMoonAllenHuhu
+* Q&A: Water Extractors need to snap to grid https://clips.twitch.tv/ExuberantAmorphousCarrotNononoCat
+* Q&A: Set a specific Foundation as the keystone https://clips.twitch.tv/GoodAnimatedSproutPipeHype
+* Q&A: Grid- a radius would be perfect https://clips.twitch.tv/GeniusConcernedEggDogFace
+* Q&A: A mark on pipes to show the meters ? https://clips.twitch.tv/AltruisticSuperBobaBudBlast
+* Q&A: What about a Tutorial System? https://clips.twitch.tv/EntertainingTenuousCasettePeteZaroll
+
 # December 19th, 2019 Livestream
 * [Q&A: Favourite problem to solve in the UI so far?](../../transcriptions/yt-cONX37SiszU.md) https://www.youtube.com/watch?v=cONX37SiszU
 * [Q&A: Can we put the "Nani‽" back in?](../../transcriptions/yt-sn0yrFw_Lfw.md) https://www.youtube.com/watch?v=sn0yrFw_Lfw
@@ -89,11 +97,3 @@ date: Last Modified
 * [Q&A: Will we ever be able to skip the Intro?](../../transcriptions/yt-t_hHHaDdJU0.md) https://www.youtube.com/watch?v=t_hHHaDdJU0
 * [Q&A: Why is flashlight default key B and not F?](../../transcriptions/yt-StrNS8tDWV4.md) https://www.youtube.com/watch?v=StrNS8tDWV4
 * [Q&A: There is no way to hotkey items?](../../transcriptions/yt-KmX7CoVGPA0.md) https://www.youtube.com/watch?v=KmX7CoVGPA0
-
-# August 25th, 2020 Livestream
-* Q&A: Today I Learned - there's a mass dismantle? https://clips.twitch.tv/OnerousGlamorousMoonAllenHuhu
-* Q&A: Water Extractors need to snap to grid https://clips.twitch.tv/ExuberantAmorphousCarrotNononoCat
-* Q&A: Set a specific Foundation as the keystone https://clips.twitch.tv/GoodAnimatedSproutPipeHype
-* Q&A: Grid- a radius would be perfect https://clips.twitch.tv/GeniusConcernedEggDogFace
-* Q&A: A mark on pipes to show the meters ? https://clips.twitch.tv/AltruisticSuperBobaBudBlast
-* Q&A: What about a Tutorial System? https://clips.twitch.tv/EntertainingTenuousCasettePeteZaroll

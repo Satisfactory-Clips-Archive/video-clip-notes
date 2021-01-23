@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory Update 4
 
+# January 22nd, 2021 Community Highlights
+* Q&A: When is update 4!!!!! https://satisfactory.gamepedia.com/File:January_22nd,_2021_Instagram_AMA_-_When_is_Update_4.mp4
+
 # January 19th, 2021 Livestream
 * [State of Dev: ETA for Update 4](../../../transcriptions/yt-5kVXtK-Yu5g.md) https://www.youtube.com/watch?v=5kVXtK-Yu5g
 * [Mark Talk: Resource Wells are unlocked in Tier 8](../../../transcriptions/yt-HjiEL3hWZd4.md) https://www.youtube.com/watch?v=HjiEL3hWZd4
@@ -162,9 +165,6 @@ date: Last Modified
 * [Q&A: Update 4 still this year?](../../../transcriptions/yt-EH6z7ln4OAc.md) https://www.youtube.com/watch?v=EH6z7ln4OAc
 * [Q&A: Will Update 4 be disruptive enough that players will want to start from scratch?](../../../transcriptions/yt-PuTEiefcHnU.md) https://www.youtube.com/watch?v=PuTEiefcHnU
 * [Q&A: Is there a date targeted?](../../../transcriptions/yt-czUkb31M3co.md) https://www.youtube.com/watch?v=czUkb31M3co
-
-# January 22nd, 2021 Community Highlights
-* Q&A: When is update 4!!!!! https://satisfactory.gamepedia.com/File:January_22nd,_2021_Instagram_AMA_-_When_is_Update_4.mp4
 
 # August 25th, 2020 Livestream
 * ETA for Update 4? (Part 1) https://clips.twitch.tv/DeadPrettySaladMoreCowbell

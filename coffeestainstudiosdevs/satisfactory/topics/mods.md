@@ -67,12 +67,12 @@ date: Last Modified
 * [Q&A: What is your opinion on the most downloaded mods?](../transcriptions/yt-iOniZ-OPIps.md) https://www.youtube.com/watch?v=iOniZ-OPIps
 * [Q&A: Please take a look at the Doggo farm](../transcriptions/yt-r-Azcy0xC4c.md) https://www.youtube.com/watch?v=r-Azcy0xC4c
 
-# March 9th, 2019 Livestream
-* [Jace Talk: Mods](../transcriptions/yt-JPafvjU7Z0k.md) https://www.youtube.com/watch?v=JPafvjU7Z0k
-* [Q&A: Will Dedicated Servers and Mods be free?](../transcriptions/yt-WEq2xEXVVQ0.md) https://www.youtube.com/watch?v=WEq2xEXVVQ0
-
 # August 25th, 2020 Livestream
 * Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc
 
 # August 18th, 2020 Livestream
 * Q&A: Will you plan to add Steam Workshop support? https://clips.twitch.tv/SwissTameCoffeeDansGame
+
+# March 9th, 2019 Livestream
+* [Jace Talk: Mods](../transcriptions/yt-JPafvjU7Z0k.md) https://www.youtube.com/watch?v=JPafvjU7Z0k
+* [Q&A: Will Dedicated Servers and Mods be free?](../transcriptions/yt-WEq2xEXVVQ0.md) https://www.youtube.com/watch?v=WEq2xEXVVQ0

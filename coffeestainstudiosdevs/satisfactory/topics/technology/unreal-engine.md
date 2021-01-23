@@ -85,9 +85,6 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * [Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?](../../transcriptions/yt-RyE_hc4huhA.md) https://www.youtube.com/watch?v=RyE_hc4huhA
 
-# March 9th, 2019 Livestream
-* [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](../../transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k
-
 # August 25th, 2020 Livestream
 * Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 1) https://clips.twitch.tv/TentativeHardPlumberYee
 * Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 2) https://clips.twitch.tv/SquareLovelyFriesBudBlast
@@ -106,3 +103,6 @@ date: Last Modified
 
 # July 28th, 2020 Livestream
 * Q&A: Unreal Engine 5 https://clips.twitch.tv/PiliableZanyGrassFreakinStinkin
+
+# March 9th, 2019 Livestream
+* [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](../../transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k

@@ -16,12 +16,6 @@ date: Last Modified
 # September 29th, 2020 Livestream
 * [Q&A: How much S.A.M. Ore should we stock up on?](../../../transcriptions/yt-vBGfC7j2AyI.md) https://www.youtube.com/watch?v=vBGfC7j2AyI
 
-# December 19th, 2019 Livestream
-* [Q&A: S.A.M. Ore?](../../../transcriptions/yt-irJw2itG4wM.md) https://www.youtube.com/watch?v=irJw2itG4wM
-
-# March 9th, 2019 Livestream
-* [Q&A: What do you use S.A.M. Ore for?](../../../transcriptions/yt-jdOQXcBiSH0.md) https://www.youtube.com/watch?v=jdOQXcBiSH0
-
 # August 25th, 2020 Livestream
 * Q&A: Please tell me Update 4 will use S.A.M. Ore https://clips.twitch.tv/ArtisticGlutenFreeSpindleDxAbomb
 * Q&A: Are limited resources planned? (Part 1) https://clips.twitch.tv/ConcernedStylishTomatoBabyRage
@@ -32,3 +26,9 @@ date: Last Modified
 * Q&A: Do you plan to make other resources beyond S.A.M. Ore? https://clips.twitch.tv/InventiveBillowingEggPMSTwin
 * Q&A: S.A.M. Ore uses? https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis
 * Q&A: Coffee Cups are made out of S.A.M. Ore? https://clips.twitch.tv/SuspiciousImportantOryxSquadGoals
+
+# December 19th, 2019 Livestream
+* [Q&A: S.A.M. Ore?](../../../transcriptions/yt-irJw2itG4wM.md) https://www.youtube.com/watch?v=irJw2itG4wM
+
+# March 9th, 2019 Livestream
+* [Q&A: What do you use S.A.M. Ore for?](../../../transcriptions/yt-jdOQXcBiSH0.md) https://www.youtube.com/watch?v=jdOQXcBiSH0

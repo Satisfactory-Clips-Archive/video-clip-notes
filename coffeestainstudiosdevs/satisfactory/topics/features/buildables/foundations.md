@@ -40,12 +40,12 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * [Q&A: Any plans for bigger foundations?](../../../transcriptions/yt-uUFy6qyZLKo.md) https://www.youtube.com/watch?v=uUFy6qyZLKo
 
-# March 9th, 2019 Livestream
-* [Q&A: Why do you guys not use the Foundations?](../../../transcriptions/yt-SjwuIUhqtM8.md) https://www.youtube.com/watch?v=SjwuIUhqtM8
-
 # August 25th, 2020 Livestream
 * Q&A: What about holes for Foundations? (Part 1) https://clips.twitch.tv/CrepuscularEnergeticPartridgePanicVis
 * Q&A: What about holes for Foundations? (Part 2) https://clips.twitch.tv/SparklingGiftedDumplingsSquadGoals
 
 # August 11th, 2020 Livestream
 * Q&A: Floating Factories vs. Structural Supports https://clips.twitch.tv/GiftedSincereDillDoubleRainbow
+
+# March 9th, 2019 Livestream
+* [Q&A: Why do you guys not use the Foundations?](../../../transcriptions/yt-SjwuIUhqtM8.md) https://www.youtube.com/watch?v=SjwuIUhqtM8

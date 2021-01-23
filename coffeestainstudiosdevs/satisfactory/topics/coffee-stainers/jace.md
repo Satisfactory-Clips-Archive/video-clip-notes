@@ -15,6 +15,9 @@ date: Last Modified
 # December 15th, 2020 Livestream
 * [Snutt Talk: Jace is a dedicated boi](../../transcriptions/yt-Lx8cCt-jNJQ.md) https://www.youtube.com/watch?v=Lx8cCt-jNJQ
 
+# August 11th, 2020 Livestream
+* Q&A: New Apartment? https://clips.twitch.tv/CorrectAdorableDinosaurWoofer
+
 # December 19th, 2019 Livestream
 * [Q&A: What is the job of Community Managers?](../../transcriptions/yt-zaE2VeeV2mY.md) https://www.youtube.com/watch?v=zaE2VeeV2mY
 * [Q&A: Can Jace smile for us?](../../transcriptions/yt-L5MBf2GoTxQ.md) https://www.youtube.com/watch?v=L5MBf2GoTxQ
@@ -31,6 +34,3 @@ date: Last Modified
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) https://www.youtube.com/watch?v=2tTlAAZMBPw
 * [Q&A: Is Jace using an old soup can for a mic?](../../transcriptions/yt-kNfhYvkifNM.md) https://www.youtube.com/watch?v=kNfhYvkifNM
 * [Snutt, Simon, Jace Talk: Laughing in the office](../../transcriptions/yt-X5P9-9npJIQ.md) https://www.youtube.com/watch?v=X5P9-9npJIQ
-
-# August 11th, 2020 Livestream
-* Q&A: New Apartment? https://clips.twitch.tv/CorrectAdorableDinosaurWoofer

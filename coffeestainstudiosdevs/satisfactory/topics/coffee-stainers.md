@@ -31,14 +31,14 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * [Q&A: Let Hannah finish her work on the map before expanding?](../transcriptions/yt-wZOVw8KV1rQ.md) https://www.youtube.com/watch?v=wZOVw8KV1rQ
 
-# March 9th, 2019 Livestream
-* [Snutt, Simon, Jace Talk: Don't shit in the storage box](../transcriptions/yt-3gFgrVEkOpc.md) https://www.youtube.com/watch?v=3gFgrVEkOpc
-* [Snutt, Simon, Jace Talk: Animator, Sound Designer, Tim, and Simon Saga](../transcriptions/yt-mTBx_JmNnsE.md) https://www.youtube.com/watch?v=mTBx_JmNnsE
-* [Q&A: But do they take your opinion (about steam) serious?](../transcriptions/yt-sZDS8dOdyvQ.md) https://www.youtube.com/watch?v=sZDS8dOdyvQ
-* [Q&A: Who suggested to build factory game?](../transcriptions/yt-AyPcl_Vs2D4.md) https://www.youtube.com/watch?v=AyPcl_Vs2D4
-
 # August 25th, 2020 Livestream
 * Q&A: Are the Devs back from vacation? https://clips.twitch.tv/SeductiveImpartialCobblerOptimizePrime
 
 # August 11th, 2020 Livestream
 * Q&A: Do you have a QA department? https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull
+
+# March 9th, 2019 Livestream
+* [Snutt, Simon, Jace Talk: Don't shit in the storage box](../transcriptions/yt-3gFgrVEkOpc.md) https://www.youtube.com/watch?v=3gFgrVEkOpc
+* [Snutt, Simon, Jace Talk: Animator, Sound Designer, Tim, and Simon Saga](../transcriptions/yt-mTBx_JmNnsE.md) https://www.youtube.com/watch?v=mTBx_JmNnsE
+* [Q&A: But do they take your opinion (about steam) serious?](../transcriptions/yt-sZDS8dOdyvQ.md) https://www.youtube.com/watch?v=sZDS8dOdyvQ
+* [Q&A: Who suggested to build factory game?](../transcriptions/yt-AyPcl_Vs2D4.md) https://www.youtube.com/watch?v=AyPcl_Vs2D4

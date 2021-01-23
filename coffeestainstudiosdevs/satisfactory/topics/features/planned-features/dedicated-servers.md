@@ -77,10 +77,6 @@ date: Last Modified
 * [Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content?](../../../transcriptions/yt-CGoHMrbwftU.md) https://www.youtube.com/watch?v=CGoHMrbwftU
 * [Q&A: Dedicated Servers](../../../transcriptions/yt-z5bf3k7JWlg.md) https://www.youtube.com/watch?v=z5bf3k7JWlg
 
-# March 9th, 2019 Livestream
-* [Q&A: Will Dedicated Servers and Mods be free?](../../../transcriptions/yt-WEq2xEXVVQ0.md) https://www.youtube.com/watch?v=WEq2xEXVVQ0
-* [Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](../../../transcriptions/yt-Cnw_Ow3K29I.md) https://www.youtube.com/watch?v=Cnw_Ow3K29I
-
 # August 25th, 2020 Livestream
 * Q&A: Dedicated Servers update? https://clips.twitch.tv/AgitatedAltruisticAnacondaStinkyCheese
 * Q&A: Will Dedicated Servers be available on Linux, or Windows? https://clips.twitch.tv/SeductiveInnocentFerretHeyGirl
@@ -98,3 +94,7 @@ date: Last Modified
 
 # July 28th, 2020 Livestream
 * Q&A: Dedicated Server cost https://clips.twitch.tv/ConfidentLittleSnood4Head
+
+# March 9th, 2019 Livestream
+* [Q&A: Will Dedicated Servers and Mods be free?](../../../transcriptions/yt-WEq2xEXVVQ0.md) https://www.youtube.com/watch?v=WEq2xEXVVQ0
+* [Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](../../../transcriptions/yt-Cnw_Ow3K29I.md) https://www.youtube.com/watch?v=Cnw_Ow3K29I

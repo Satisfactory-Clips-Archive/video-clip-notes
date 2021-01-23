@@ -26,14 +26,6 @@ date: Last Modified
 * [Q&A: Jetpack needs a Hover Mode?](../../../transcriptions/yt-zeXh53pKe0A.md) https://www.youtube.com/watch?v=zeXh53pKe0A
 * [Q&A: The game needs small Flying Vehicles to travel long distance?](../../../transcriptions/yt-i0_bbpQ_91I.md) https://www.youtube.com/watch?v=i0_bbpQ_91I
 
-# December 19th, 2019 Livestream
-* [Q&A: Give us a flight vehicle?](../../../transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I
-* [Q&A: Have you considerd Flying Drones?](../../../transcriptions/yt-KYox3m1mePU.md) https://www.youtube.com/watch?v=KYox3m1mePU
-
-# March 9th, 2019 Livestream
-* [Q&A: Is it possible to use powerline as zip-lines?](../../../transcriptions/yt-NTeBuhOqIu0.md) https://www.youtube.com/watch?v=NTeBuhOqIu0
-* [Q&A: Flying vehicles for overhead view of your factory?](../../../transcriptions/yt-njN-07Q5-8s.md) https://www.youtube.com/watch?v=njN-07Q5-8s
-
 # August 25th, 2020 Livestream
 * Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother
 * Q&A: How about a drone to fly around? https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby
@@ -47,3 +39,11 @@ date: Last Modified
 
 # July 28th, 2020 Livestream
 * Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5
+
+# December 19th, 2019 Livestream
+* [Q&A: Give us a flight vehicle?](../../../transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I
+* [Q&A: Have you considerd Flying Drones?](../../../transcriptions/yt-KYox3m1mePU.md) https://www.youtube.com/watch?v=KYox3m1mePU
+
+# March 9th, 2019 Livestream
+* [Q&A: Is it possible to use powerline as zip-lines?](../../../transcriptions/yt-NTeBuhOqIu0.md) https://www.youtube.com/watch?v=NTeBuhOqIu0
+* [Q&A: Flying vehicles for overhead view of your factory?](../../../transcriptions/yt-njN-07Q5-8s.md) https://www.youtube.com/watch?v=njN-07Q5-8s

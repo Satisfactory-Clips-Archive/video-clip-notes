@@ -10,8 +10,8 @@ date: Last Modified
 # September 8th, 2020 Livestream
 * [Q&A: Pollution is a thing?](../../transcriptions/yt-EI4HJKvO-OU.md) https://www.youtube.com/watch?v=EI4HJKvO-OU
 
-# March 9th, 2019 Livestream
-* [Q&A: Are you going to add earth problems for smoke fault?](../../transcriptions/yt-AXNhZsAGM1M.md) https://www.youtube.com/watch?v=AXNhZsAGM1M
-
 # August 25th, 2020 Livestream
 * Q&A: More pollution as you progress? https://clips.twitch.tv/WanderingLitigiousDurianRalpherZ
+
+# March 9th, 2019 Livestream
+* [Q&A: Are you going to add earth problems for smoke fault?](../../transcriptions/yt-AXNhZsAGM1M.md) https://www.youtube.com/watch?v=AXNhZsAGM1M

@@ -55,20 +55,6 @@ date: Last Modified
 * [Q&A: Elevator for Vehicles & Players?](../../../transcriptions/yt-v_KEYdpCb-k.md) https://www.youtube.com/watch?v=v_KEYdpCb-k
 * [Q&A: Dirt Bikes?](../../../transcriptions/yt-75OR9Co9l74.md) https://www.youtube.com/watch?v=75OR9Co9l74
 
-# December 19th, 2019 Livestream
-* [Q&A: Give us a flight vehicle?](../../../transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I
-* Q&A: Vehicle Lifts? https://www.youtube.com/watch?v=ayGH9w3sEBo
-* [Q&A: Have you considerd Flying Drones?](../../../transcriptions/yt-KYox3m1mePU.md) https://www.youtube.com/watch?v=KYox3m1mePU
-* [Q&A: Improve Vehicles in general?](../../../transcriptions/yt-pRuIjTp-u5I.md) https://www.youtube.com/watch?v=pRuIjTp-u5I
-
-# March 9th, 2019 Livestream
-* [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
-* [Q&A: Weirdest bug you guys fixed](../../../transcriptions/yt-ybgZUbANGrM.md) https://www.youtube.com/watch?v=ybgZUbANGrM
-* [Q&A: Tractor, but "Sugar Cube" is mentioned in the description?](../../../transcriptions/yt-qvzPjISX75Y.md) https://www.youtube.com/watch?v=qvzPjISX75Y
-* [Q&A: I don't understand the autopilot for the Tractor?](../../../transcriptions/yt-V7BwnNzG8I0.md) https://www.youtube.com/watch?v=V7BwnNzG8I0
-* Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
-* [Q&A: I've activated autopilot but it doesn't run?](../../../transcriptions/yt-yzhYoMChQ6Q.md) https://www.youtube.com/watch?v=yzhYoMChQ6Q
-
 # August 25th, 2020 Livestream
 * Snutt Talk: Improving on Vehicles https://clips.twitch.tv/AmazonianAnnoyingSushiUncleNox
 * Q&A: Any plans to dig my explorer to get it out of the hole it fell into? https://clips.twitch.tv/FuriousRockyDuckPRChase
@@ -92,3 +78,17 @@ date: Last Modified
 * Q&A: First-person Vehicle Driving? https://clips.twitch.tv/ShinySilkyMelonGivePLZ
 * Q&A: Two-seated vehicles (Part 1) https://clips.twitch.tv/OilySourBeaverAMPEnergy
 * Q&A: Two-seated vehicles (Part 2) https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog
+
+# December 19th, 2019 Livestream
+* [Q&A: Give us a flight vehicle?](../../../transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I
+* Q&A: Vehicle Lifts? https://www.youtube.com/watch?v=ayGH9w3sEBo
+* [Q&A: Have you considerd Flying Drones?](../../../transcriptions/yt-KYox3m1mePU.md) https://www.youtube.com/watch?v=KYox3m1mePU
+* [Q&A: Improve Vehicles in general?](../../../transcriptions/yt-pRuIjTp-u5I.md) https://www.youtube.com/watch?v=pRuIjTp-u5I
+
+# March 9th, 2019 Livestream
+* [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
+* [Q&A: Weirdest bug you guys fixed](../../../transcriptions/yt-ybgZUbANGrM.md) https://www.youtube.com/watch?v=ybgZUbANGrM
+* [Q&A: Tractor, but "Sugar Cube" is mentioned in the description?](../../../transcriptions/yt-qvzPjISX75Y.md) https://www.youtube.com/watch?v=qvzPjISX75Y
+* [Q&A: I don't understand the autopilot for the Tractor?](../../../transcriptions/yt-V7BwnNzG8I0.md) https://www.youtube.com/watch?v=V7BwnNzG8I0
+* Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
+* [Q&A: I've activated autopilot but it doesn't run?](../../../transcriptions/yt-yzhYoMChQ6Q.md) https://www.youtube.com/watch?v=yzhYoMChQ6Q

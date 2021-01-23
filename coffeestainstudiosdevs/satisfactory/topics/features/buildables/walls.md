@@ -26,8 +26,8 @@ date: Last Modified
 # September 15th, 2020 Livestream
 * [Q&A: Protective Walls against Radiation?](../../../transcriptions/yt-mTMwhMrP0sA.md) https://www.youtube.com/watch?v=mTMwhMrP0sA
 
-# March 9th, 2019 Livestream
-* [Q&A: Does building Walls around big factories help performance?](../../../transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4
-
 # August 25th, 2020 Livestream
 * Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause
+
+# March 9th, 2019 Livestream
+* [Q&A: Does building Walls around big factories help performance?](../../../transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4

@@ -27,11 +27,11 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * [Q&A: What about lights?](../../../transcriptions/yt-FqGp1WsRo6s.md) https://www.youtube.com/watch?v=FqGp1WsRo6s
 
-# March 9th, 2019 Livestream
-* [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../../transcriptions/yt-Tit_bHzixmk.md) https://www.youtube.com/watch?v=Tit_bHzixmk
-* Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
-
 # August 25th, 2020 Livestream
 * Q&A: Will light be added to the game? (Part 1) https://clips.twitch.tv/FunOilyWolverineCorgiDerp
 * Q&A: Will light be added to the game? (Part 2) https://clips.twitch.tv/NeighborlyCharmingBasenjiRlyTho
 * Q&A: Will light be added to the game? (Part 3) https://clips.twitch.tv/AbnegateEndearingBottleKlappa
+
+# March 9th, 2019 Livestream
+* [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../../transcriptions/yt-Tit_bHzixmk.md) https://www.youtube.com/watch?v=Tit_bHzixmk
+* Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU

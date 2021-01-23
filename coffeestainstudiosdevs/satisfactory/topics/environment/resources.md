@@ -35,14 +35,14 @@ date: Last Modified
 # October 6th, 2020 Livestream
 * [Q&A: Will the Resource Transportation get an update?](../../transcriptions/yt-hKxm2Ps1UYY.md) https://www.youtube.com/watch?v=hKxm2Ps1UYY
 
-# March 9th, 2019 Livestream
-* [Snutt Talk: Inpure Resource Nodes](../../transcriptions/yt--OHmfKyBPA4.md) https://www.youtube.com/watch?v=-OHmfKyBPA4
-* [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](../../transcriptions/yt-v4zf3_-seAg.md) https://www.youtube.com/watch?v=v4zf3_-seAg
-* [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
-* [Q&A: Collect Fart Gas for fuel?](../../transcriptions/yt-O5R_YmTmXUI.md) https://www.youtube.com/watch?v=O5R_YmTmXUI
-
 # August 25th, 2020 Livestream
 * Q&A: Will you be adding more variety of resources? https://clips.twitch.tv/BraveThankfulBeefFreakinStinkin
 
 # August 18th, 2020 Livestream
 * Q&A: Do you plan to make other resources beyond S.A.M. Ore? https://clips.twitch.tv/InventiveBillowingEggPMSTwin
+
+# March 9th, 2019 Livestream
+* [Snutt Talk: Inpure Resource Nodes](../../transcriptions/yt--OHmfKyBPA4.md) https://www.youtube.com/watch?v=-OHmfKyBPA4
+* [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](../../transcriptions/yt-v4zf3_-seAg.md) https://www.youtube.com/watch?v=v4zf3_-seAg
+* [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
+* [Q&A: Collect Fart Gas for fuel?](../../transcriptions/yt-O5R_YmTmXUI.md) https://www.youtube.com/watch?v=O5R_YmTmXUI

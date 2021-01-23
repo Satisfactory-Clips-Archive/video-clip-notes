@@ -65,14 +65,6 @@ date: Last Modified
 * [Q&A: The Doggo Plushie has to fit into the Cup](../transcriptions/yt-HMsgkhM0i34.md) https://www.youtube.com/watch?v=HMsgkhM0i34
 * [Q&A: Will the Factory Cart be available as Merch?](../transcriptions/yt-i1iL8KXmptE.md) https://www.youtube.com/watch?v=i1iL8KXmptE
 
-# December 19th, 2019 Livestream
-* [Q&A: We want a Simon body pillow?](../transcriptions/yt-gHZsodBmCms.md) https://www.youtube.com/watch?v=gHZsodBmCms
-* [Q&A: Are there any plans on releasing these arts?](../transcriptions/yt-caJMcQ-Z0eE.md) https://www.youtube.com/watch?v=caJMcQ-Z0eE
-
-# March 9th, 2019 Livestream
-* [Q&A: Lizard Doggo plushie when?](../transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
-* [Q&A: Do I get a sticker for how many bugs I reported in alpha?](../transcriptions/yt-2ny0XTCY6l0.md) https://www.youtube.com/watch?v=2ny0XTCY6l0
-
 # August 18th, 2020 Livestream
 * Q&A: Is there a Merch Store? https://clips.twitch.tv/CleanCarefulMoonAMPEnergyCherry
 * Q&A: When will have Merch? https://clips.twitch.tv/FunOriginalPistachioNerfRedBlaster
@@ -97,3 +89,11 @@ date: Last Modified
 
 # July 21st, 2020 Livestream
 * Q&A: How's the Merch Store coming along? https://clips.twitch.tv/OilySillySproutNotLikeThis
+
+# December 19th, 2019 Livestream
+* [Q&A: We want a Simon body pillow?](../transcriptions/yt-gHZsodBmCms.md) https://www.youtube.com/watch?v=gHZsodBmCms
+* [Q&A: Are there any plans on releasing these arts?](../transcriptions/yt-caJMcQ-Z0eE.md) https://www.youtube.com/watch?v=caJMcQ-Z0eE
+
+# March 9th, 2019 Livestream
+* [Q&A: Lizard Doggo plushie when?](../transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
+* [Q&A: Do I get a sticker for how many bugs I reported in alpha?](../transcriptions/yt-2ny0XTCY6l0.md) https://www.youtube.com/watch?v=2ny0XTCY6l0

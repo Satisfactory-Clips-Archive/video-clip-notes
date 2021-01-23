@@ -94,6 +94,33 @@ date: Last Modified
 * [Q&A: Map expansion ?](../../transcriptions/yt-2ZHnQ9U4f9I.md) https://www.youtube.com/watch?v=2ZHnQ9U4f9I
 * [Q&A: Let Hannah finish her work on the map before expanding?](../../transcriptions/yt-wZOVw8KV1rQ.md) https://www.youtube.com/watch?v=wZOVw8KV1rQ
 
+# August 25th, 2020 Livestream
+* Q&A: Underwater biome when? https://clips.twitch.tv/HonorableCautiousDonutStoneLightning
+* Q&A: Terraforming? https://clips.twitch.tv/CourageousTardyLarkShazBotstix
+* Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John
+* Q&A: Why can't we explode some stones in the map? https://clips.twitch.tv/HeartlessAntsyMelonCharlieBitMe
+* Q&A: Like a new map for Satisfactory? https://clips.twitch.tv/ArtisticAthleticCroissantRalpherZ
+* Q&A: How about procedural maps? https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea
+* Q&A: Plans for a Map Editor? (Part 1) https://clips.twitch.tv/ApatheticExpensiveDiscPeoplesChamp
+* Q&A: Plans for a Map Editor? (Part 2) https://clips.twitch.tv/WiseToughOstrichYouWHY
+* Snutt Talk: Map Builders (Part 1) https://clips.twitch.tv/TsundereProudKiwiRaccAttack
+* Snutt Talk: Map Builders (Part 2) https://clips.twitch.tv/RichResourcefulSwanRlyTho
+* Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ? https://clips.twitch.tv/VibrantExpensiveRaisinStinkyCheese
+
+# August 18th, 2020 Livestream
+* Q&A: Will there be any underwater resources? https://clips.twitch.tv/RelievedCleanBibimbapDancingBanana
+* Q&A: Terraforming? https://clips.twitch.tv/AmericanSpineyWitchTinyFace
+* Q&A: Any ice/snow biome plans? https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl
+* Q&A: Any different maps planned? https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat
+* Q&A: Will you be able to create your own map? https://clips.twitch.tv/ChillyRockyWalrusUnSane
+
+# August 11th, 2020 Livestream
+* Q&A: Randomly Generated Maps: https://clips.twitch.tv/OilyBloodyMangoFutureMan
+* Q&A: Do you plan to release a World Editor? https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank
+
+# July 28th, 2020 Livestream
+* Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5
+
 # December 19th, 2019 Livestream
 * [Q&A: Is Hannah working on a new level?](../../transcriptions/yt-gcdDfoBWaog.md) https://www.youtube.com/watch?v=gcdDfoBWaog
 * [Q&A: What's Hannah's take on rocks that aren't on the ground?](../../transcriptions/yt-y8FchPasYvI.md) https://www.youtube.com/watch?v=y8FchPasYvI
@@ -126,30 +153,3 @@ date: Last Modified
 * [Q&A: I wouldn't be surprised if Mod support enable third-party maps?](../../transcriptions/yt-LgGYmQrwAgg.md) https://www.youtube.com/watch?v=LgGYmQrwAgg
 * [Snutt & Jace Talk: Archway Story Time](../../transcriptions/yt-5481tMGLLys.md) https://www.youtube.com/watch?v=5481tMGLLys
 * [Q&A: Are you supposed to be able to break the rocks that has a slug inside of it?](../../transcriptions/yt-SaJCkdeMMh0.md) https://www.youtube.com/watch?v=SaJCkdeMMh0
-
-# August 25th, 2020 Livestream
-* Q&A: Underwater biome when? https://clips.twitch.tv/HonorableCautiousDonutStoneLightning
-* Q&A: Terraforming? https://clips.twitch.tv/CourageousTardyLarkShazBotstix
-* Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John
-* Q&A: Why can't we explode some stones in the map? https://clips.twitch.tv/HeartlessAntsyMelonCharlieBitMe
-* Q&A: Like a new map for Satisfactory? https://clips.twitch.tv/ArtisticAthleticCroissantRalpherZ
-* Q&A: How about procedural maps? https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea
-* Q&A: Plans for a Map Editor? (Part 1) https://clips.twitch.tv/ApatheticExpensiveDiscPeoplesChamp
-* Q&A: Plans for a Map Editor? (Part 2) https://clips.twitch.tv/WiseToughOstrichYouWHY
-* Snutt Talk: Map Builders (Part 1) https://clips.twitch.tv/TsundereProudKiwiRaccAttack
-* Snutt Talk: Map Builders (Part 2) https://clips.twitch.tv/RichResourcefulSwanRlyTho
-* Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ? https://clips.twitch.tv/VibrantExpensiveRaisinStinkyCheese
-
-# August 18th, 2020 Livestream
-* Q&A: Will there be any underwater resources? https://clips.twitch.tv/RelievedCleanBibimbapDancingBanana
-* Q&A: Terraforming? https://clips.twitch.tv/AmericanSpineyWitchTinyFace
-* Q&A: Any ice/snow biome plans? https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl
-* Q&A: Any different maps planned? https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat
-* Q&A: Will you be able to create your own map? https://clips.twitch.tv/ChillyRockyWalrusUnSane
-
-# August 11th, 2020 Livestream
-* Q&A: Randomly Generated Maps: https://clips.twitch.tv/OilyBloodyMangoFutureMan
-* Q&A: Do you plan to release a World Editor? https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank
-
-# July 28th, 2020 Livestream
-* Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5

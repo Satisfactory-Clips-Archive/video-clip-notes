@@ -112,15 +112,6 @@ date: Last Modified
 * [Q&A: Are we going to be able to get the Space Elevator Food Court?](../../transcriptions/yt-YNogQuanQlc.md) https://www.youtube.com/watch?v=YNogQuanQlc
 * [Q&A: Why did you change the Nuclear Reactors model?](../../transcriptions/yt-hBpbwXr9cMs.md) https://www.youtube.com/watch?v=hBpbwXr9cMs
 
-# December 19th, 2019 Livestream
-* [Q&A: How about personal elevators?](../../transcriptions/yt-f3TtRJWOI2Q.md) https://www.youtube.com/watch?v=f3TtRJWOI2Q
-* [Q&A: Human Elevators?](../../transcriptions/yt-HGwoBSLqtcw.md) https://www.youtube.com/watch?v=HGwoBSLqtcw
-
-# March 9th, 2019 Livestream
-* [Snutt Talk: Storage Containers](../../transcriptions/yt-oQfZtyxDIrE.md) https://www.youtube.com/watch?v=oQfZtyxDIrE
-* [Jace Talk: Space Elevator](../../transcriptions/yt-0P2A2UtY834.md) https://www.youtube.com/watch?v=0P2A2UtY834
-* [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../transcriptions/yt-Tit_bHzixmk.md) https://www.youtube.com/watch?v=Tit_bHzixmk
-
 # August 25th, 2020 Livestream
 * Q&A: Fixing machines that break? https://clips.twitch.tv/EnergeticInexpensiveDillCurseLit
 * Snutt Talk: Machines breaking & Base Defence https://clips.twitch.tv/ElegantKawaiiGnatOneHand
@@ -136,3 +127,12 @@ date: Last Modified
 
 # July 21st, 2020 Livestream
 * Q&A: What do you think about a game mode with weather effects doing damage or slowing machines? https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime
+
+# December 19th, 2019 Livestream
+* [Q&A: How about personal elevators?](../../transcriptions/yt-f3TtRJWOI2Q.md) https://www.youtube.com/watch?v=f3TtRJWOI2Q
+* [Q&A: Human Elevators?](../../transcriptions/yt-HGwoBSLqtcw.md) https://www.youtube.com/watch?v=HGwoBSLqtcw
+
+# March 9th, 2019 Livestream
+* [Snutt Talk: Storage Containers](../../transcriptions/yt-oQfZtyxDIrE.md) https://www.youtube.com/watch?v=oQfZtyxDIrE
+* [Jace Talk: Space Elevator](../../transcriptions/yt-0P2A2UtY834.md) https://www.youtube.com/watch?v=0P2A2UtY834
+* [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../transcriptions/yt-Tit_bHzixmk.md) https://www.youtube.com/watch?v=Tit_bHzixmk

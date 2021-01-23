@@ -86,12 +86,6 @@ date: Last Modified
 * [Q&A: DXR/RTX/DLSS ?](../../transcriptions/yt-QuoiJ9lpkB4.md) https://www.youtube.com/watch?v=QuoiJ9lpkB4
 * [Q&A: Why did you change the Nuclear Reactors model?](../../transcriptions/yt-hBpbwXr9cMs.md) https://www.youtube.com/watch?v=hBpbwXr9cMs
 
-# March 9th, 2019 Livestream
-* [Q&A: Does building Walls around big factories help performance?](../../transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4
-* [Q&A: How did you guys optimise the game so much?](../../transcriptions/yt-nRCmJo-Wh9s.md) https://www.youtube.com/watch?v=nRCmJo-Wh9s
-* [Q&A: Game is awesome, but late-game is super laggy sometimes.](../../transcriptions/yt-3MO6SYCZuFI.md) https://www.youtube.com/watch?v=3MO6SYCZuFI
-* [Q&A: Any way to disable motion blur?](../../transcriptions/yt-TTZzooohufI.md) https://www.youtube.com/watch?v=TTZzooohufI
-
 # August 25th, 2020 Livestream
 * Q&A: Please consider adding a third-person view? (Part 1) https://clips.twitch.tv/PeacefulInventiveDogWOOP
 * Q&A: Please consider adding a third-person view? (Part 2) https://clips.twitch.tv/FrailSuaveBeanImGlitch
@@ -100,3 +94,9 @@ date: Last Modified
 * Q&A: UV issues and texture tearing is a known issue? https://clips.twitch.tv/WealthyPunchyAxePeoplesChamp
 * Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt
 * Snutt Talk: VR Support https://clips.twitch.tv/DullScrumptiousEagleStinkyCheese
+
+# March 9th, 2019 Livestream
+* [Q&A: Does building Walls around big factories help performance?](../../transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4
+* [Q&A: How did you guys optimise the game so much?](../../transcriptions/yt-nRCmJo-Wh9s.md) https://www.youtube.com/watch?v=nRCmJo-Wh9s
+* [Q&A: Game is awesome, but late-game is super laggy sometimes.](../../transcriptions/yt-3MO6SYCZuFI.md) https://www.youtube.com/watch?v=3MO6SYCZuFI
+* [Q&A: Any way to disable motion blur?](../../transcriptions/yt-TTZzooohufI.md) https://www.youtube.com/watch?v=TTZzooohufI

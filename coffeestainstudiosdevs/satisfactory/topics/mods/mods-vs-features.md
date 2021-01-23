@@ -53,15 +53,6 @@ date: Last Modified
 * [Q&A: What is your opinion on the most downloaded mods?](../../transcriptions/yt-iOniZ-OPIps.md) https://www.youtube.com/watch?v=iOniZ-OPIps
 * [Q&A: Can we have food-making in the game?](../../transcriptions/yt-2sE4CPkkc3o.md) https://www.youtube.com/watch?v=2sE4CPkkc3o
 
-# December 19th, 2019 Livestream
-* [Q&A: Will there be more competitive stuff?](../../transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
-* [Q&A: Human Elevators?](../../transcriptions/yt-HGwoBSLqtcw.md) https://www.youtube.com/watch?v=HGwoBSLqtcw
-
-# March 9th, 2019 Livestream
-* [Q&A: Any plans for farming (for biomass production) ?](../../transcriptions/yt-unMHGjOsGAc.md) https://www.youtube.com/watch?v=unMHGjOsGAc
-* [Jace Talk: Mod support](../../transcriptions/yt-37zFxpeGm-E.md) https://www.youtube.com/watch?v=37zFxpeGm-E
-* [Q&A: I wouldn't be surprised if Mod support enable third-party maps?](../../transcriptions/yt-LgGYmQrwAgg.md) https://www.youtube.com/watch?v=LgGYmQrwAgg
-
 # August 25th, 2020 Livestream
 * Q&A: Can players have custom programmers ? (Part 1) https://clips.twitch.tv/BovineConsiderateSangMVGame
 * Q&A: Can players have custom programmers ? (Part 2) https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain
@@ -80,3 +71,12 @@ date: Last Modified
 
 # July 8th, 2020 Livestream
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis
+
+# December 19th, 2019 Livestream
+* [Q&A: Will there be more competitive stuff?](../../transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
+* [Q&A: Human Elevators?](../../transcriptions/yt-HGwoBSLqtcw.md) https://www.youtube.com/watch?v=HGwoBSLqtcw
+
+# March 9th, 2019 Livestream
+* [Q&A: Any plans for farming (for biomass production) ?](../../transcriptions/yt-unMHGjOsGAc.md) https://www.youtube.com/watch?v=unMHGjOsGAc
+* [Jace Talk: Mod support](../../transcriptions/yt-37zFxpeGm-E.md) https://www.youtube.com/watch?v=37zFxpeGm-E
+* [Q&A: I wouldn't be surprised if Mod support enable third-party maps?](../../transcriptions/yt-LgGYmQrwAgg.md) https://www.youtube.com/watch?v=LgGYmQrwAgg

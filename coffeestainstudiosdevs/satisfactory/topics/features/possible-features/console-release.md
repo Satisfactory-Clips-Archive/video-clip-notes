@@ -25,15 +25,15 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * [Q&A: Satisfactory on next-gen Consoles?](../../../transcriptions/yt-ed1gycRZji4.md) https://www.youtube.com/watch?v=ed1gycRZji4
 
+# August 18th, 2020 Livestream
+* Q&A: Are there any plans to port the game to console? https://clips.twitch.tv/CogentRichJackalHeyGirl
+
+# July 28th, 2020 Livestream
+* Q&A: Satisfactory Console Release https://clips.twitch.tv/FragileNimbleEggnogDatSheffy
+
 # December 19th, 2019 Livestream
 * [Q&A: Satisfactory on Switch?](../../../transcriptions/yt-QVQZ2qgtTsQ.md) https://www.youtube.com/watch?v=QVQZ2qgtTsQ
 
 # March 9th, 2019 Livestream
 * [Q&A: Any scope of the game being on consoles?](../../../transcriptions/yt-bsTq_WiSeCY.md) https://www.youtube.com/watch?v=bsTq_WiSeCY
 * [Q&A: Will you create Console version of Satisfactory?](../../../transcriptions/yt-_MGUbEI247M.md) https://www.youtube.com/watch?v=_MGUbEI247M
-
-# August 18th, 2020 Livestream
-* Q&A: Are there any plans to port the game to console? https://clips.twitch.tv/CogentRichJackalHeyGirl
-
-# July 28th, 2020 Livestream
-* Q&A: Satisfactory Console Release https://clips.twitch.tv/FragileNimbleEggnogDatSheffy

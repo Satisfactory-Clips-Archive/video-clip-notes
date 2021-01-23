@@ -48,13 +48,6 @@ date: Last Modified
 * [Q&A: Full Release, 2021?](../../../transcriptions/yt-9Um_UtQI8yE.md) https://www.youtube.com/watch?v=9Um_UtQI8yE
 * [Q&A: When do the Work In Progress items get a purpose?](../../../transcriptions/yt-koMqOABA6x8.md) https://www.youtube.com/watch?v=koMqOABA6x8
 
-# December 19th, 2019 Livestream
-* [Q&A: Will price go up after Early Access ends?](../../../transcriptions/yt-TFg_ppmX8OE.md) https://www.youtube.com/watch?v=TFg_ppmX8OE
-
-# March 9th, 2019 Livestream
-* [Q&A: When is the official release?](../../../transcriptions/yt-H0HcDZTv_ts.md) https://www.youtube.com/watch?v=H0HcDZTv_ts
-* [Q&A: Is there an actual win condition or is it just 'til end of content?](../../../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
-
 # August 25th, 2020 Livestream
 * Snutt Talk: 1.0 & Sequels https://clips.twitch.tv/CharmingHeadstrongAsparagusBCouch
 * Snutt Talk: Satisfactory 1.0, and beyond (Part 1) https://clips.twitch.tv/BrainyArbitraryEagleBrokeBack
@@ -69,3 +62,10 @@ date: Last Modified
 * Q&A: Is 1.0 the end of the game or will it be expanded? https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace
 * Q&A: Will 1.0 require a reset of the game? https://clips.twitch.tv/SpoopyPlacidPepperoniSoonerLater
 * Q&A: When are Somersloops and Orbs have meaning? https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride
+
+# December 19th, 2019 Livestream
+* [Q&A: Will price go up after Early Access ends?](../../../transcriptions/yt-TFg_ppmX8OE.md) https://www.youtube.com/watch?v=TFg_ppmX8OE
+
+# March 9th, 2019 Livestream
+* [Q&A: When is the official release?](../../../transcriptions/yt-H0HcDZTv_ts.md) https://www.youtube.com/watch?v=H0HcDZTv_ts
+* [Q&A: Is there an actual win condition or is it just 'til end of content?](../../../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20

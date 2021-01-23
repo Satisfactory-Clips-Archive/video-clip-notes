@@ -28,6 +28,12 @@ date: Last Modified
 * [Snutt & Jace Talk: Geese](../transcriptions/yt-dYWkEEqj_qc.md) https://www.youtube.com/watch?v=dYWkEEqj_qc
 * Q&A: Would you fight 100 duck-sized horses or a horse-sized duck? https://www.youtube.com/watch?v=8YhgTMdTfDY
 
+# August 25th, 2020 Livestream
+* Q&A: What game will come out first, Satisfactory or Star Citizen? https://clips.twitch.tv/AdventurousUninterestedBasenji4Head
+
+# August 18th, 2020 Livestream
+* Q&A: Is Satisfactory affected by Epic vs. Apple? https://clips.twitch.tv/FurryAwkwardStrawberryWoofer
+
 # December 19th, 2019 Livestream
 * Q&A: No Coffee in Coffee Stain? https://www.youtube.com/watch?v=bNX04zqQ-uY
 * [Q&A: Can Birk slap Jace?](../transcriptions/yt-BEOwkK8suFc.md) https://www.youtube.com/watch?v=BEOwkK8suFc
@@ -40,9 +46,3 @@ date: Last Modified
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../transcriptions/yt-3gFgrVEkOpc.md) https://www.youtube.com/watch?v=3gFgrVEkOpc
 * [Q&A: Is Jace using an old soup can for a mic?](../transcriptions/yt-kNfhYvkifNM.md) https://www.youtube.com/watch?v=kNfhYvkifNM
 * [Q&A: Pizza with seafood?](../transcriptions/yt-cWHt7D471vI.md) https://www.youtube.com/watch?v=cWHt7D471vI
-
-# August 25th, 2020 Livestream
-* Q&A: What game will come out first, Satisfactory or Star Citizen? https://clips.twitch.tv/AdventurousUninterestedBasenji4Head
-
-# August 18th, 2020 Livestream
-* Q&A: Is Satisfactory affected by Epic vs. Apple? https://clips.twitch.tv/FurryAwkwardStrawberryWoofer

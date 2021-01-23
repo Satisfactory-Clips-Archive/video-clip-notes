@@ -45,14 +45,6 @@ date: Last Modified
 * [Q&A: How about that device used to measure stuff on Conveyor Belts?](../../../transcriptions/yt-7KXTz-m8424.md) https://www.youtube.com/watch?v=7KXTz-m8424
 * [Q&A: Will there be Priority Mergers for this Update?](../../../transcriptions/yt-sMidcvjGGOM.md) https://www.youtube.com/watch?v=sMidcvjGGOM
 
-# March 9th, 2019 Livestream
-* [Q&A: Are there plans to have an item filter device for Conveyor Belts?](../../../transcriptions/yt-qzDz2348s1Y.md) https://www.youtube.com/watch?v=qzDz2348s1Y
-* [Snutt Talk: Storage Containers](../../../transcriptions/yt-oQfZtyxDIrE.md) https://www.youtube.com/watch?v=oQfZtyxDIrE
-* [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
-* [Q&A: Are there plans to have Conveyor filters?](../../../transcriptions/yt-AtqljG_K7xA.md) https://www.youtube.com/watch?v=AtqljG_K7xA
-* [Q&A: Are you going to leave the player movement speed on the Conveyor Belts?](../../../transcriptions/yt-_ka5-9hNUGQ.md) https://www.youtube.com/watch?v=_ka5-9hNUGQ
-* [Q&A: What the heck is a Conveyor Belt Lift?](../../../transcriptions/yt-egkjxaDluQI.md) https://www.youtube.com/watch?v=egkjxaDluQI
-
 # August 25th, 2020 Livestream
 * Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause
 * Q&A: Can players have custom programmers ? (Part 1) https://clips.twitch.tv/BovineConsiderateSangMVGame
@@ -60,3 +52,11 @@ date: Last Modified
 
 # August 18th, 2020 Livestream
 * Q&A: Will there ever be conveyor lift splitters & mergers ? https://clips.twitch.tv/MiniatureFlaccidSwanKAPOW
+
+# March 9th, 2019 Livestream
+* [Q&A: Are there plans to have an item filter device for Conveyor Belts?](../../../transcriptions/yt-qzDz2348s1Y.md) https://www.youtube.com/watch?v=qzDz2348s1Y
+* [Snutt Talk: Storage Containers](../../../transcriptions/yt-oQfZtyxDIrE.md) https://www.youtube.com/watch?v=oQfZtyxDIrE
+* [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
+* [Q&A: Are there plans to have Conveyor filters?](../../../transcriptions/yt-AtqljG_K7xA.md) https://www.youtube.com/watch?v=AtqljG_K7xA
+* [Q&A: Are you going to leave the player movement speed on the Conveyor Belts?](../../../transcriptions/yt-_ka5-9hNUGQ.md) https://www.youtube.com/watch?v=_ka5-9hNUGQ
+* [Q&A: What the heck is a Conveyor Belt Lift?](../../../transcriptions/yt-egkjxaDluQI.md) https://www.youtube.com/watch?v=egkjxaDluQI

@@ -25,9 +25,6 @@ date: Last Modified
 * [Q&A: Can we upload a Spider image other than a Cat?](../../transcriptions/yt-rlBA0k1-sWs.md) https://www.youtube.com/watch?v=rlBA0k1-sWs
 * [Jace & Snutt Talk: Phobia Modes & Accessibility](../../transcriptions/yt-OFBC7qFkEmQ.md) https://www.youtube.com/watch?v=OFBC7qFkEmQ
 
-# December 19th, 2019 Livestream
-* [Q&A: Colour blind accessibility stuff?](../../transcriptions/yt-r4TS6nRxy9k.md) https://www.youtube.com/watch?v=r4TS6nRxy9k
-
 # August 18th, 2020 Livestream
 * Snutt Talk: Accessibility (part 1): https://clips.twitch.tv/CrowdedSplendidSalamanderSoonerLater
 * Q&A: We get this awesome phobia system but people still have trouble with colour blindness modes? https://clips.twitch.tv/PrettiestBloodyBadgerDendiFace
@@ -36,3 +33,6 @@ date: Last Modified
 * Snutt & Jace Talk: Accessibility - Hard of Hearing (part 5) https://clips.twitch.tv/RealFastShieldDoubleRainbow
 * Snutt & Jace Talk: Accessibility (part 6) https://clips.twitch.tv/BelovedWrongCiderBCouch
 * Q&A: I can definitely work around my colour deficiency - but the colour picker doesn't work https://clips.twitch.tv/CrepuscularInterestingWerewolfBCWarrior
+
+# December 19th, 2019 Livestream
+* [Q&A: Colour blind accessibility stuff?](../../transcriptions/yt-r4TS6nRxy9k.md) https://www.youtube.com/watch?v=r4TS6nRxy9k

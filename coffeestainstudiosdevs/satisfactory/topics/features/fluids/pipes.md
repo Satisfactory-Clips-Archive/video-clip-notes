@@ -36,9 +36,6 @@ date: Last Modified
 # September 29th, 2020 Livestream
 * [Q&A: Add a Tape Measure or something to gauge distance between two objects?](../../../transcriptions/yt--hFvijwVlSQ.md) https://www.youtube.com/watch?v=-hFvijwVlSQ
 
-# December 19th, 2019 Livestream
-* [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../../transcriptions/yt-krQI-cHEAl8.md) https://www.youtube.com/watch?v=krQI-cHEAl8
-
 # August 25th, 2020 Livestream
 * Q&A: A mark on pipes to show the meters ? https://clips.twitch.tv/AltruisticSuperBobaBudBlast
 
@@ -48,3 +45,6 @@ date: Last Modified
 
 # July 28th, 2020 Livestream
 * Q&A: Has Pipe Overflow been discussed? https://clips.twitch.tv/VainArtsyLeopardUncleNox
+
+# December 19th, 2019 Livestream
+* [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../../transcriptions/yt-krQI-cHEAl8.md) https://www.youtube.com/watch?v=krQI-cHEAl8

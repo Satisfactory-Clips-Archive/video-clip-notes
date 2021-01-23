@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Story & Lore
 
+# January 22nd, 2021 Community Highlights
+* Q&A: Will you add a lore or a secret story to satisfactory? https://satisfactory.gamepedia.com/File:January_22nd,_2021_Instagram_AMA_-_story_is_fully_written.mp4
+
 # January 12th, 2021 Livestream
 * [Q&A: Does the game get a deeper Story?](../transcriptions/yt-QViQ--AWYjY.md) https://www.youtube.com/watch?v=QViQ--AWYjY
 
@@ -65,20 +68,6 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * [Q&A: Will Story happen in Update 4?](../transcriptions/yt-_I0dz6Zop0w.md) https://www.youtube.com/watch?v=_I0dz6Zop0w
 
-# December 19th, 2019 Livestream
-* [Q&A: What's Hannah's take on rocks that aren't on the ground?](../transcriptions/yt-y8FchPasYvI.md) https://www.youtube.com/watch?v=y8FchPasYvI
-* [Q&A: Is there going to be a storyline?](../transcriptions/yt-mFxik_NlE0w.md) https://www.youtube.com/watch?v=mFxik_NlE0w
-* [Q&A: Will Mercer Spheres and Somersloops be useful soon?](../transcriptions/yt-SYWPIjbe_4Y.md) https://www.youtube.com/watch?v=SYWPIjbe_4Y
-
-# March 9th, 2019 Livestream
-* [Q&A: What's the final objective of the game?](../transcriptions/yt-xG0mfuXiFY8.md) https://www.youtube.com/watch?v=xG0mfuXiFY8
-* [Q&A: What gender is the character model?](../transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs
-* [Snutt Talk: Somersloop](../transcriptions/yt-9ALpZxsfl10.md) https://www.youtube.com/watch?v=9ALpZxsfl10
-* [Q&A: Is there an actual win condition or is it just 'til end of content?](../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
-
-# January 22nd, 2021 Community Highlights
-* Q&A: Will you add a lore or a secret story to satisfactory? https://satisfactory.gamepedia.com/File:January_22nd,_2021_Instagram_AMA_-_story_is_fully_written.mp4
-
 # August 25th, 2020 Livestream
 * Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John
 * Q&A: Do you have any clue on what the alien artefacts do? https://clips.twitch.tv/CulturedEnthusiasticNoodleWTRuck
@@ -91,3 +80,14 @@ date: Last Modified
 
 # August 11th, 2020 Livestream
 * Q&A: Story / End-game? https://clips.twitch.tv/AmorphousVictoriousTrayPartyTime
+
+# December 19th, 2019 Livestream
+* [Q&A: What's Hannah's take on rocks that aren't on the ground?](../transcriptions/yt-y8FchPasYvI.md) https://www.youtube.com/watch?v=y8FchPasYvI
+* [Q&A: Is there going to be a storyline?](../transcriptions/yt-mFxik_NlE0w.md) https://www.youtube.com/watch?v=mFxik_NlE0w
+* [Q&A: Will Mercer Spheres and Somersloops be useful soon?](../transcriptions/yt-SYWPIjbe_4Y.md) https://www.youtube.com/watch?v=SYWPIjbe_4Y
+
+# March 9th, 2019 Livestream
+* [Q&A: What's the final objective of the game?](../transcriptions/yt-xG0mfuXiFY8.md) https://www.youtube.com/watch?v=xG0mfuXiFY8
+* [Q&A: What gender is the character model?](../transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs
+* [Snutt Talk: Somersloop](../transcriptions/yt-9ALpZxsfl10.md) https://www.youtube.com/watch?v=9ALpZxsfl10
+* [Q&A: Is there an actual win condition or is it just 'til end of content?](../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20

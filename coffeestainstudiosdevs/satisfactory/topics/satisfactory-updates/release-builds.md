@@ -27,6 +27,13 @@ date: Last Modified
 * [Q&A: What's the Modular Build?](../../transcriptions/yt-vKIeFeGPXJQ.md) https://www.youtube.com/watch?v=vKIeFeGPXJQ
 * [Q&A: Is there a difference in performance between the Epic version and the Steam version?](../../transcriptions/yt-CgGc8VRspUA.md) https://www.youtube.com/watch?v=CgGc8VRspUA
 
+# August 25th, 2020 Livestream
+* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 1) https://clips.twitch.tv/TentativeHardPlumberYee
+* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 2) https://clips.twitch.tv/SquareLovelyFriesBudBlast
+* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 3) https://clips.twitch.tv/TemperedEnchantingOrangeTBCheesePull
+* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 4) https://clips.twitch.tv/FrigidFragileCucumberOneHand
+* Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp
+
 # March 9th, 2019 Livestream
 * [Q&A: Is that the alpha build version?](../../transcriptions/yt-u9Vu9NIjiRs.md) https://www.youtube.com/watch?v=u9Vu9NIjiRs
 * [Jace Talk: All saves should work](../../transcriptions/yt-w9kJj1Hd-cs.md) https://www.youtube.com/watch?v=w9kJj1Hd-cs
@@ -38,10 +45,3 @@ date: Last Modified
 * [Q&A: Will I be able to play it on my Samsung fridge?](../../transcriptions/yt-8pVI2F2Y7rs.md) https://www.youtube.com/watch?v=8pVI2F2Y7rs
 * [Snutt, Simon, Jace Talk: Early Access Release](../../transcriptions/yt-RsI9XqjI0fk.md) https://www.youtube.com/watch?v=RsI9XqjI0fk
 * [Q&A: You guys are planning a mobile port, right?](../../transcriptions/yt-gxWgVKBPTtM.md) https://www.youtube.com/watch?v=gxWgVKBPTtM
-
-# August 25th, 2020 Livestream
-* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 1) https://clips.twitch.tv/TentativeHardPlumberYee
-* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 2) https://clips.twitch.tv/SquareLovelyFriesBudBlast
-* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 3) https://clips.twitch.tv/TemperedEnchantingOrangeTBCheesePull
-* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 4) https://clips.twitch.tv/FrigidFragileCucumberOneHand
-* Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp

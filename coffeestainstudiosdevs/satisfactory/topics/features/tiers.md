@@ -41,13 +41,13 @@ date: Last Modified
 * [Q&A: What additions to Tier 7 might be coming & when ?](../../transcriptions/yt-lGbJwWh5W_I.md) https://www.youtube.com/watch?v=lGbJwWh5W_I
 * [Q&A: Any more tiers in 3.5?](../../transcriptions/yt-55GiH8YwDds.md) https://www.youtube.com/watch?v=55GiH8YwDds
 
-# March 9th, 2019 Livestream
-* [Q&A: Did you mean to let us get above Tier 3 in the crashed ships?](../../transcriptions/yt--pXuWOzgCyQ.md) https://www.youtube.com/watch?v=-pXuWOzgCyQ
-* [Q&A: Tier 4 open now?](../../transcriptions/yt-dWt4mf9am90.md) https://www.youtube.com/watch?v=dWt4mf9am90
-* [Q&A: I think the milestones are too cheap](../../transcriptions/yt-clmX0WGZBfg.md) https://www.youtube.com/watch?v=clmX0WGZBfg
-
 # August 25th, 2020 Livestream
 * Q&A: Will there be any further goals besides Research & Development stages? https://clips.twitch.tv/TsundereOutstandingNuggetsFUNgineer
 
 # July 28th, 2020 Livestream
 * Jace Talk: Content & Tiers https://clips.twitch.tv/SwissFurryPlumPlanking
+
+# March 9th, 2019 Livestream
+* [Q&A: Did you mean to let us get above Tier 3 in the crashed ships?](../../transcriptions/yt--pXuWOzgCyQ.md) https://www.youtube.com/watch?v=-pXuWOzgCyQ
+* [Q&A: Tier 4 open now?](../../transcriptions/yt-dWt4mf9am90.md) https://www.youtube.com/watch?v=dWt4mf9am90
+* [Q&A: I think the milestones are too cheap](../../transcriptions/yt-clmX0WGZBfg.md) https://www.youtube.com/watch?v=clmX0WGZBfg

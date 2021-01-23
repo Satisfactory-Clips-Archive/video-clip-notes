@@ -42,6 +42,21 @@ date: Last Modified
 # September 22nd, 2020 Livestream
 * [Q&A: Will there be more creatures?](../../transcriptions/yt-Yzd466gO44M.md) https://www.youtube.com/watch?v=Yzd466gO44M
 
+# August 25th, 2020 Livestream
+* Q&A: Will we have more monsters? https://clips.twitch.tv/GrotesqueDelightfulLyrebirdPrimeMe
+
+# August 18th, 2020 Livestream
+* Q&A: Are we ever going to add taming mounts? https://clips.twitch.tv/BoldAgileSquidDoggo
+
+# August 11th, 2020 Livestream
+* Q&A: Do you have Goats in Satisfactory? https://clips.twitch.tv/FurryTalentedCrowBleedPurple
+
+# July 28th, 2020 Livestream
+* Q&A: More Wildlife? https://clips.twitch.tv/DirtyHilariousPancakeWow
+
+# July 21st, 2020 Livestream
+* Q&A: Puppies, Train Fix https://clips.twitch.tv/ColdBraveShieldSMOrc
+
 # December 19th, 2019 Livestream
 * [Q&A: Will there be goats?](../../transcriptions/yt-3YZMayi1Qec.md) https://www.youtube.com/watch?v=3YZMayi1Qec
 * [Q&A: Does it mean we get Goats?](../../transcriptions/yt-RlSL5DONzns.md) https://www.youtube.com/watch?v=RlSL5DONzns
@@ -60,18 +75,3 @@ date: Last Modified
 * [Q&A: Is there a name for the giant flying creature?](../../transcriptions/yt-bWnZ-OI-_Og.md) https://www.youtube.com/watch?v=bWnZ-OI-_Og
 * [Q&A: Is there more than 5 enemies in?](../../transcriptions/yt-DLnUjlixpg8.md) https://www.youtube.com/watch?v=DLnUjlixpg8
 * [Q&A: Can creatures in any way disrupt your factory?](../../transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
-
-# August 25th, 2020 Livestream
-* Q&A: Will we have more monsters? https://clips.twitch.tv/GrotesqueDelightfulLyrebirdPrimeMe
-
-# August 18th, 2020 Livestream
-* Q&A: Are we ever going to add taming mounts? https://clips.twitch.tv/BoldAgileSquidDoggo
-
-# August 11th, 2020 Livestream
-* Q&A: Do you have Goats in Satisfactory? https://clips.twitch.tv/FurryTalentedCrowBleedPurple
-
-# July 28th, 2020 Livestream
-* Q&A: More Wildlife? https://clips.twitch.tv/DirtyHilariousPancakeWow
-
-# July 21st, 2020 Livestream
-* Q&A: Puppies, Train Fix https://clips.twitch.tv/ColdBraveShieldSMOrc

@@ -81,9 +81,6 @@ date: Last Modified
 * [Q&A: Is multiplayer desync getting fixed?](../../transcriptions/yt-tkx-DVLp3fs.md) https://www.youtube.com/watch?v=tkx-DVLp3fs
 * [Q&A: Maybe it's a good idea to dynamically hand over authority a vehicle in multiplayer?](../../transcriptions/yt-Xdrr6IazPTg.md) https://www.youtube.com/watch?v=Xdrr6IazPTg
 
-# March 9th, 2019 Livestream
-* [Q&A: Do you want to support more than 4 people?](../../transcriptions/yt-wb5HY05QX9I.md) https://www.youtube.com/watch?v=wb5HY05QX9I
-
 # August 25th, 2020 Livestream
 * Q&A: Is there a Battle Royale Mode planned? https://clips.twitch.tv/SavorySlickWombatOSkomodo
 * Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug? https://clips.twitch.tv/LightAcceptableCheesePermaSmug
@@ -103,3 +100,6 @@ date: Last Modified
 
 # August 11th, 2020 Livestream
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
+
+# March 9th, 2019 Livestream
+* [Q&A: Do you want to support more than 4 people?](../../transcriptions/yt-wb5HY05QX9I.md) https://www.youtube.com/watch?v=wb5HY05QX9I

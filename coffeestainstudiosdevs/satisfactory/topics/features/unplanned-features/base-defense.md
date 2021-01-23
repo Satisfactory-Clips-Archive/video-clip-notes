@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
+# January 22nd, 2021 Community Highlights
+* Q&A: Is there a plan for automatize the base defense? https://satisfactory.gamepedia.com/File:January_22nd,_2021_Instagram_AMA-base_defense.mp4
+
 # January 19th, 2021 Livestream
 * [Snutt & Mark Talk: We will not be adding tower defense](../../../transcriptions/yt-hq02irf8xGM.md) https://www.youtube.com/watch?v=hq02irf8xGM
 
@@ -31,15 +34,12 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * [Q&A: Are you going to share something important related to next Updates?](../../../transcriptions/yt-Kx9TTDecZe4.md) https://www.youtube.com/watch?v=Kx9TTDecZe4
 
-# March 9th, 2019 Livestream
-* [Q&A: Will there be turrets or something in the game?](../../../transcriptions/yt-xNBFywqCrxM.md) https://www.youtube.com/watch?v=xNBFywqCrxM
-* [Q&A: Can creatures in any way disrupt your factory?](../../../transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
-
-# January 22nd, 2021 Community Highlights
-* Q&A: Is there a plan for automatize the base defense? https://satisfactory.gamepedia.com/File:January_22nd,_2021_Instagram_AMA-base_defense.mp4
-
 # August 25th, 2020 Livestream
 * Snutt Talk: Machines breaking & Base Defence https://clips.twitch.tv/ElegantKawaiiGnatOneHand
 
 # August 18th, 2020 Livestream
 * Q&A: Will there be animals that attack the base? https://clips.twitch.tv/ProtectiveTubularCatJebaited
+
+# March 9th, 2019 Livestream
+* [Q&A: Will there be turrets or something in the game?](../../../transcriptions/yt-xNBFywqCrxM.md) https://www.youtube.com/watch?v=xNBFywqCrxM
+* [Q&A: Can creatures in any way disrupt your factory?](../../../transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8

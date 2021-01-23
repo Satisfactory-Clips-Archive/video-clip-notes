@@ -19,6 +19,9 @@ date: Last Modified
 # September 15th, 2020 Livestream
 * [Q&A: Can I wear Boots, Jetpack and a Gas Mask?](../../transcriptions/yt-Gt1ATsmBu6k.md) https://www.youtube.com/watch?v=Gt1ATsmBu6k
 
+# August 25th, 2020 Livestream
+* Q&A: Explosive Barrels of Gas we can send through the rail guns ? https://clips.twitch.tv/CrowdedRespectfulNostrilNotATK
+
 # December 19th, 2019 Livestream
 * [Jace, Snutt, & Birk Talk: Testing weapons & animations](../../transcriptions/yt-BWn3_s89tYE.md) https://www.youtube.com/watch?v=BWn3_s89tYE
 
@@ -26,6 +29,3 @@ date: Last Modified
 * [Q&A: Is it possible to kill a Spitter with the standard Zapper?](../../transcriptions/yt-ZmVoWBHW9Jc.md) https://www.youtube.com/watch?v=ZmVoWBHW9Jc
 * [Q&A: Quick keys for tools?](../../transcriptions/yt-MUBE6tb7AjQ.md) https://www.youtube.com/watch?v=MUBE6tb7AjQ
 * [Q&A: There is no way to hotkey items?](../../transcriptions/yt-KmX7CoVGPA0.md) https://www.youtube.com/watch?v=KmX7CoVGPA0
-
-# August 25th, 2020 Livestream
-* Q&A: Explosive Barrels of Gas we can send through the rail guns ? https://clips.twitch.tv/CrowdedRespectfulNostrilNotATK

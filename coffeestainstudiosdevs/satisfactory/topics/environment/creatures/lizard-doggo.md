@@ -39,6 +39,13 @@ date: Last Modified
 * [Q&A: Please take a look at the Doggo farm](../../../transcriptions/yt-r-Azcy0xC4c.md) https://www.youtube.com/watch?v=r-Azcy0xC4c
 * [Q&A: The Doggo Plushie has to fit into the Cup](../../../transcriptions/yt-HMsgkhM0i34.md) https://www.youtube.com/watch?v=HMsgkhM0i34
 
+# August 18th, 2020 Livestream
+* Q&A: Will you be able to pet the doggo? https://clips.twitch.tv/DullHyperSpindlePanicVis
+
+# August 11th, 2020 Livestream
+* Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
+* Q&A: Doggo Toys? https://clips.twitch.tv/FlirtyScarySushiYouWHY
+
 # March 9th, 2019 Livestream
 * [Q&A: Where is Lizard Doggo?](../../../transcriptions/yt-bB6SOIoAYg4.md) https://www.youtube.com/watch?v=bB6SOIoAYg4
 * [Q&A: How do you win the heart of Lizard Doggo?](../../../transcriptions/yt-z5BnfkmTQfA.md) https://www.youtube.com/watch?v=z5BnfkmTQfA
@@ -46,10 +53,3 @@ date: Last Modified
 * [Q&A: Lizard Doggo plushie when?](../../../transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
 * [Snutt Talk: Lizard Doggo work name](../../../transcriptions/yt-BTV3_zIpImo.md) https://www.youtube.com/watch?v=BTV3_zIpImo
 * [Q&A: How to pet Doggo?](../../../transcriptions/yt-izvalD5vPuc.md) https://www.youtube.com/watch?v=izvalD5vPuc
-
-# August 18th, 2020 Livestream
-* Q&A: Will you be able to pet the doggo? https://clips.twitch.tv/DullHyperSpindlePanicVis
-
-# August 11th, 2020 Livestream
-* Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
-* Q&A: Doggo Toys? https://clips.twitch.tv/FlirtyScarySushiYouWHY
