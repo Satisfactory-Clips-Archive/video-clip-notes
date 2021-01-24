@@ -1218,6 +1218,12 @@ date: Last Modified
 * [Q&A: What additions to Tier 7 might be coming & when ?](./transcriptions/yt-lGbJwWh5W_I.md) https://www.youtube.com/watch?v=lGbJwWh5W_I
 
 
+# Tier 8
+
+## December 8th, 2020
+* [Q&A: Is Tier 8 last Tier for the game?](./transcriptions/yt-FhoIzj_QLm0.md) https://www.youtube.com/watch?v=FhoIzj_QLm0
+
+
 # Tiers
 
 ## September 8th, 2020
