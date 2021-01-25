@@ -18,11 +18,11 @@ date: Last Modified
 # [Community](./topics/community.md)
 * [Wiki](./topics/community/wiki.md)
 
-# [Environment](./topics/environment.md)
+# Environment
 
 ## [Biomes](./topics/environment/biomes.md)
 
-### [Unplanned Biomes](./topics/environment/biomes/unplanned-biomes.md)
+### Unplanned Biomes
 * [Snow](./topics/environment/biomes/unplanned-biomes/snow.md)
 * [Underwater](./topics/environment/biomes/unplanned-biomes/underwater.md)
 
@@ -39,13 +39,13 @@ date: Last Modified
 * [Resource Wells](./topics/environment/resource-wells.md)
 * [World Map](./topics/environment/world-map.md)
 
-# [Features](./topics/features.md)
+# Features
 
 ## [Accessibility](./topics/features/accessibility.md)
 * [Arachnophobia Mode](./topics/features/accessibility/arachnophobia-mode.md)
 * [Autosave](./topics/features/autosave.md)
 
-## [Buildables](./topics/features/buildables.md)
+## Buildables
 * [Conveyor Belts](./topics/features/buildables/conveyor-belts.md)
 * [Foundations](./topics/features/buildables/foundations.md)
 * [Jump Pads](./topics/features/buildables/jump-pads.md)
@@ -87,12 +87,12 @@ date: Last Modified
 * [Photo Mode](./topics/features/photo-mode.md)
 * [Pioneer](./topics/features/pioneer.md)
 
-## [Planned Features](./topics/features/planned-features.md)
+## Planned Features
 * [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
 * [Lights](./topics/features/planned-features/lights.md)
 * [Signs](./topics/features/planned-features/signs.md)
 
-## [Possible Features](./topics/features/possible-features.md)
+## Possible Features
 * [Character Customisation](./topics/features/possible-features/character-customisation.md)
 * [Console Release](./topics/features/possible-features/console-release.md)
 * [Decor](./topics/features/possible-features/decor.md)
@@ -114,7 +114,7 @@ date: Last Modified
 * [Tier 9](./topics/features/tiers/tier-9.md)
 * [Tier 10](./topics/features/tiers/tier-10.md)
 
-## [Transportation](./topics/features/transportation.md)
+## Transportation
 * [Hyper Tubes](./topics/features/transportation/hyper-tubes.md)
 
 ### [Trains](./topics/features/transportation/trains.md)
@@ -126,7 +126,7 @@ date: Last Modified
 * [Factory Cart](./topics/features/transportation/vehicles/factory-cart.md)
 * [Truck](./topics/features/transportation/vehicles/truck.md)
 
-## [Unplanned Features](./topics/features/unplanned-features.md)
+## Unplanned Features
 * [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)
 * [Base Defense](./topics/features/unplanned-features/base-defense.md)
 * [Mass Building](./topics/features/unplanned-features/mass-building.md)
@@ -134,7 +134,7 @@ date: Last Modified
 * [Space Exploration](./topics/features/unplanned-features/space-exploration.md)
 * [Terraforming](./topics/features/unplanned-features/terraforming.md)
 
-## [Unreleased Features](./topics/features/unreleased-features.md)
+## Unreleased Features
 * [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
 * [Localisation](./topics/localisation.md)
 
@@ -156,12 +156,12 @@ date: Last Modified
 # [Satisfactory Updates](./topics/satisfactory-updates.md)
 * [Free Weekends](./topics/satisfactory-updates/free-weekends.md)
 
-## [Pending](./topics/satisfactory-updates/pending.md)
+## Pending
 * [Satisfactory Update 4](./topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Release Builds](./topics/satisfactory-updates/release-builds.md)
 
-## [Released](./topics/satisfactory-updates/released.md)
+## Released
 * [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Fluids Update](./topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
@@ -169,7 +169,7 @@ date: Last Modified
 ## [Seasonal Events](./topics/satisfactory-updates/seasonal-events.md)
 * [FICS⁕MAS](./topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
-## [Speculative](./topics/satisfactory-updates/speculative.md)
+## Speculative
 * [Satisfactory Update 5](./topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Update 6](./topics/satisfactory-updates/speculative/satisfactory-update-6.md)
 * [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
