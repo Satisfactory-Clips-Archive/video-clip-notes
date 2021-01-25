@@ -19,6 +19,10 @@ date: Last Modified
 * [Wiki](./topics/community/wiki.md)
 
 # Environment
+* [Plants](./topics/environment/plants.md)
+* [Pollution](./topics/environment/pollution.md)
+* [Resource Wells](./topics/environment/resource-wells.md)
+* [World Map](./topics/environment/world-map.md)
 
 ## [Biomes](./topics/environment/biomes.md)
 
@@ -30,20 +34,22 @@ date: Last Modified
 * [Crab Boss](./topics/environment/creatures/crab-boss.md)
 * [Lizard Doggo](./topics/environment/creatures/lizard-doggo.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](./topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
-* [Plants](./topics/environment/plants.md)
-* [Pollution](./topics/environment/pollution.md)
 
 ## [Resources](./topics/environment/resources.md)
 * [Oil](./topics/environment/resources/oil.md)
 * [S.A.M. Ore](./topics/environment/resources/sam-ore.md)
-* [Resource Wells](./topics/environment/resource-wells.md)
-* [World Map](./topics/environment/world-map.md)
 
 # Features
+* [Autosave](./topics/features/autosave.md)
+* [Emotes](./topics/features/emotes.md)
+* [Gases](./topics/features/gases.md)
+* [Multiplayer](./topics/features/multiplayer.md)
+* [Paint](./topics/features/paint.md)
+* [Photo Mode](./topics/features/photo-mode.md)
+* [Pioneer](./topics/features/pioneer.md)
 
 ## [Accessibility](./topics/features/accessibility.md)
 * [Arachnophobia Mode](./topics/features/accessibility/arachnophobia-mode.md)
-* [Autosave](./topics/features/autosave.md)
 
 ## Buildables
 * [Conveyor Belts](./topics/features/buildables/conveyor-belts.md)
@@ -71,7 +77,6 @@ date: Last Modified
 ## [Crafting](./topics/features/crafting.md)
 * [Fuel](./topics/features/crafting/fuel.md)
 * [Superposition Oscillator](./topics/features/crafting/superposition-oscillator.md)
-* [Emotes](./topics/features/emotes.md)
 
 ## [Equipment](./topics/features/equipment.md)
 * [Chainsaw](./topics/features/equipment/chainsaw.md)
@@ -81,11 +86,6 @@ date: Last Modified
 * [Pipes](./topics/features/fluids/pipes.md)
 * [Pumps](./topics/features/fluids/pumps.md)
 * [Valves](./topics/features/fluids/valves.md)
-* [Gases](./topics/features/gases.md)
-* [Multiplayer](./topics/features/multiplayer.md)
-* [Paint](./topics/features/paint.md)
-* [Photo Mode](./topics/features/photo-mode.md)
-* [Pioneer](./topics/features/pioneer.md)
 
 ## Planned Features
 * [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
@@ -155,16 +155,17 @@ date: Last Modified
 
 # [Satisfactory Updates](./topics/satisfactory-updates.md)
 * [Free Weekends](./topics/satisfactory-updates/free-weekends.md)
+* [Release Builds](./topics/satisfactory-updates/release-builds.md)
+* [Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
+* [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
 
 ## Pending
 * [Satisfactory Update 4](./topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Release Builds](./topics/satisfactory-updates/release-builds.md)
 
 ## Released
 * [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Fluids Update](./topics/satisfactory-updates/released/satisfactory-fluids-update.md)
-* [Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
 
 ## [Seasonal Events](./topics/satisfactory-updates/seasonal-events.md)
 * [FICS⁕MAS](./topics/satisfactory-updates/seasonal-events/fics-mas.md)
@@ -173,7 +174,6 @@ date: Last Modified
 * [Satisfactory Update 5](./topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Update 6](./topics/satisfactory-updates/speculative/satisfactory-update-6.md)
 * [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
-* [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)
 * [Story & Lore](./topics/story-lore.md)
