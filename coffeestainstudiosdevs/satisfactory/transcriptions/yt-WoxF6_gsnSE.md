@@ -3,14 +3,14 @@ title: "November 24th, 2020 Livestream Q&A: Any extra info about the Content Cre
 date: "2020-11-24"
 layout: transcript
 topics:
-    - ""
+    - "community"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Any extra info about the Content Creator post on Twitter?
 https://www.youtube.com/watch?v=WoxF6_gsnSE
 
 ### Topics
-
+* [Community](../topics/community.md)
 
 ### Transcript
 

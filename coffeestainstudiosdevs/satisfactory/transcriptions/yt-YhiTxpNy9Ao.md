@@ -3,14 +3,14 @@ title: "September 29th, 2020 Livestream Q&A: Merch - The Cup"
 date: "2020-09-29"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Merch - The Cup
 https://www.youtube.com/watch?v=YhiTxpNy9Ao
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

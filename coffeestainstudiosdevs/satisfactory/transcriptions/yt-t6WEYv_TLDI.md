@@ -3,6 +3,7 @@ title: "November 3rd, 2020 Livestream Q&A: Do you plan on some cutscenes for the
 date: "2020-11-03"
 layout: transcript
 topics:
+    - "story-lore"
     - "technology/graphics"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=t6WEYv_TLDI
 
 ### Topics
+* [Story & Lore](../topics/story-lore.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

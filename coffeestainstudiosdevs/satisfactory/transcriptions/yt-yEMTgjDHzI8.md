@@ -3,14 +3,14 @@ title: "December 8th, 2020 Livestream Q&A: How do you use the feedback from us w
 date: "2020-12-08"
 layout: transcript
 topics:
-    - ""
+    - "community"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How do you use the feedback from us when we play the game?
 https://www.youtube.com/watch?v=yEMTgjDHzI8
 
 ### Topics
-
+* [Community](../topics/community.md)
 
 ### Transcript
 

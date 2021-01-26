@@ -3,14 +3,16 @@ title: "November 24th, 2020 Livestream Q&A: Jace - F, Marry, Kill: either Snutt,
 date: "2020-11-24"
 layout: transcript
 topics:
-    - ""
+    - "off-topic"
+    - "special-guests"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Jace - F, Marry, Kill: either Snutt, [special guest], or anyone from chat?
 https://www.youtube.com/watch?v=1GtBsosr66E
 
 ### Topics
-
+* [Special Guests](../topics/special-guests.md)
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

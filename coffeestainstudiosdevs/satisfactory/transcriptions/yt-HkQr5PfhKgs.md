@@ -3,14 +3,16 @@ title: "September 22nd, 2020 Livestream Snutt Talk: Fan Forge"
 date: "2020-09-22"
 layout: transcript
 topics:
-    - ""
+    - "community"
+    - "merch"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Snutt Talk: Fan Forge
 https://www.youtube.com/watch?v=HkQr5PfhKgs
 
 ### Topics
-
+* [Merch](../topics/merch.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

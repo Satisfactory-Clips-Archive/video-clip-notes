@@ -3,6 +3,7 @@ title: "December 15th, 2020 Livestream Q&A: Could it be released to the Modding 
 date: "2020-12-15"
 layout: transcript
 topics:
+    - "community"
     - "mods/mods-vs-features"
     - "satisfactory-updates/seasonal-events/fics-mas"
 ---
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=MQLuFiVQPYY
 ### Topics
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

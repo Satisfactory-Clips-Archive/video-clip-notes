@@ -3,6 +3,7 @@ title: "January 19th, 2021 Livestream Q&A: If the community made a Snow Biome, w
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "community"
     - "environment/biomes"
     - "environment/biomes/unplanned-biomes/snow"
     - "mods/mods-vs-features"
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=I8rWTBGdGio
 * [Environment > Biomes](../topics/environment/biomes.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

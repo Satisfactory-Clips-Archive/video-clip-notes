@@ -3,14 +3,14 @@ title: "September 8th, 2020 Livestream Q&A: Any new additions to the music plann
 date: "2020-09-08"
 layout: transcript
 topics:
-    - ""
+    - "soundtrack"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Any new additions to the music planned?
 https://www.youtube.com/watch?v=RKfqg8EOZgE
 
 ### Topics
-
+* [Soundtrack](../topics/soundtrack.md)
 
 ### Transcript
 

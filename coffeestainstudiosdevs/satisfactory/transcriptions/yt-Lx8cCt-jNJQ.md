@@ -3,6 +3,7 @@ title: "December 15th, 2020 Livestream Snutt Talk: Jace is a dedicated boi"
 date: "2020-12-15"
 layout: transcript
 topics:
+    - "coffee-stainers"
     - "coffee-stainers/jace"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=Lx8cCt-jNJQ
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers](../topics/coffee-stainers.md)
 
 ### Transcript
 

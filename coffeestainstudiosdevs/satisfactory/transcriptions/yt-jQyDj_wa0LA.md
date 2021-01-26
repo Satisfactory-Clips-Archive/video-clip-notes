@@ -3,14 +3,14 @@ title: "September 1st, 2020 Livestream Q&A: What about the Merch?"
 date: "2020-09-01"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: What about the Merch?
 https://www.youtube.com/watch?v=jQyDj_wa0LA
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

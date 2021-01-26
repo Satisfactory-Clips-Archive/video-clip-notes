@@ -3,14 +3,16 @@ title: "November 24th, 2020 Livestream Q&A: Who is the biggest [special guest] f
 date: "2020-11-24"
 layout: transcript
 topics:
-    - ""
+    - "off-topic"
+    - "special-guests"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?
 https://www.youtube.com/watch?v=a1eSZz7wksU
 
 ### Topics
-
+* [Special Guests](../topics/special-guests.md)
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

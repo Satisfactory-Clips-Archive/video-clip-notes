@@ -4,6 +4,7 @@ date: "2019-12-19"
 layout: transcript
 topics:
     - "coffee-stainers/simon"
+    - "trolling"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: What happened to the keys?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=Xv-yl9jnC4s
 
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

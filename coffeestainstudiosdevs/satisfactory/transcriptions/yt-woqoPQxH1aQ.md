@@ -4,12 +4,14 @@ date: "2020-11-17"
 layout: transcript
 topics:
     - "features/possible-features/character-customisation"
+    - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Roleplay
 https://www.youtube.com/watch?v=woqoPQxH1aQ
 
 ### Topics
+* [Trolling](../topics/trolling.md)
 * [Features > Possible Features > Character Customisation](../topics/features/possible-features/character-customisation.md)
 
 ### Transcript

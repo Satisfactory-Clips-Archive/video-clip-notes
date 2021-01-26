@@ -4,12 +4,14 @@ date: "2020-12-01"
 layout: transcript
 topics:
     - "features/power-management/nuclear-energy/nuclear-waste"
+    - "special-guests"
 ---
 # [December 1st, 2020 Livestream](../2020-12-01.md)
 ## Q&A: How do we get rid of toxic waste?
 https://www.youtube.com/watch?v=sag85tf3NQQ
 
 ### Topics
+* [Special Guests](../topics/special-guests.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
 ### Transcript

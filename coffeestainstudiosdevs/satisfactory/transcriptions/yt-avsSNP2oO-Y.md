@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=avsSNP2oO-Y
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Q&A: Is the Engineer human at least?"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - ""
+    - "story-lore"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Is the Engineer human at least?
 https://www.youtube.com/watch?v=z7QqNzK8OMU
 
 ### Topics
-
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

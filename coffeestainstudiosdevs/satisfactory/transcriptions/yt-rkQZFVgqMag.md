@@ -3,14 +3,14 @@ title: "October 6th, 2020 Livestream Jace & Snutt Talk: Community built-tools"
 date: "2020-10-06"
 layout: transcript
 topics:
-    - ""
+    - "community"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Jace & Snutt Talk: Community built-tools
 https://www.youtube.com/watch?v=rkQZFVgqMag
 
 ### Topics
-
+* [Community](../topics/community.md)
 
 ### Transcript
 

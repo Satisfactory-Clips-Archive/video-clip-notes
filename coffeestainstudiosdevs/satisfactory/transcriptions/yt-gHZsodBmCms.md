@@ -3,14 +3,14 @@ title: "December 19th, 2019 Livestream Q&A: We want a Simon body pillow?"
 date: "2019-12-19"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: We want a Simon body pillow?
 https://www.youtube.com/watch?v=gHZsodBmCms
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

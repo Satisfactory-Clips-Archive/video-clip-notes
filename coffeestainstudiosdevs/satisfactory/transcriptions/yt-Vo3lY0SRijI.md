@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Snutt & Jace Talk: More. More. More. More
 date: "2020-11-17"
 layout: transcript
 topics:
-    - ""
+    - "community"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Snutt & Jace Talk: More. More. More. More. More. More. More. More. More. More. More. More. More.
 https://www.youtube.com/watch?v=Vo3lY0SRijI
 
 ### Topics
-
+* [Community](../topics/community.md)
 
 ### Transcript
 

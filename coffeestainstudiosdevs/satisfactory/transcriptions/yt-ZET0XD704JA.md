@@ -3,14 +3,16 @@ title: "September 22nd, 2020 Livestream Q&A: Will the Story be released as a boo
 date: "2020-09-22"
 layout: transcript
 topics:
-    - ""
+    - "merch"
+    - "story-lore"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Will the Story be released as a book/comic ?
 https://www.youtube.com/watch?v=ZET0XD704JA
 
 ### Topics
-
+* [Story & Lore](../topics/story-lore.md)
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Q&A: Can you DMCA me just for funsies?"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - ""
+    - "off-topic"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Can you DMCA me just for funsies?
 https://www.youtube.com/watch?v=fR8x6bekEaU
 
 ### Topics
-
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

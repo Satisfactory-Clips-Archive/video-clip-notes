@@ -4,12 +4,14 @@ date: "2020-11-17"
 layout: transcript
 topics:
     - "features/planned-features/dedicated-servers"
+    - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Dedicated Servers
 https://www.youtube.com/watch?v=rS_9SnK_Eag
 
 ### Topics
+* [Trolling](../topics/trolling.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 
 ### Transcript

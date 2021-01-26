@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Q&A: Do you have an update on the price o
 date: "2020-11-17"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Do you have an update on the price of delivery fee of Merch?
 https://www.youtube.com/watch?v=mNtdBj-DpK0
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

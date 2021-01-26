@@ -3,14 +3,14 @@ title: "October 6th, 2020 Livestream Q&A: Is the Wiki Official?"
 date: "2020-10-06"
 layout: transcript
 topics:
-    - ""
+    - "community/wiki"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Is the Wiki Official?
 https://www.youtube.com/watch?v=io0J9vpBHPg
 
 ### Topics
-
+* [Community > Wiki](../topics/community/wiki.md)
 
 ### Transcript
 

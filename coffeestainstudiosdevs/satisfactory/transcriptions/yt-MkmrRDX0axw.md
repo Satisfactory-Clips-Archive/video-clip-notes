@@ -3,14 +3,14 @@ title: "November 10th, 2020 Livestream Q&A: Coffee Cup Mk.2"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Coffee Cup Mk.2
 https://www.youtube.com/watch?v=MkmrRDX0axw
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

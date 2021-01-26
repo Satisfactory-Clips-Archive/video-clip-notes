@@ -3,14 +3,14 @@ title: "September 22nd, 2020 Livestream Q&A: Any information on Merch shipping t
 date: "2020-09-22"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Any information on Merch shipping to EU/rest of the world?
 https://www.youtube.com/watch?v=hAEInvMcQfk
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

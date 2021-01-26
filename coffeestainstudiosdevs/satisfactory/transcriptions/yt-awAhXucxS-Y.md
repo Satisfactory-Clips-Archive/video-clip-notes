@@ -3,14 +3,16 @@ title: "November 17th, 2020 Livestream Trolling: New Community Manager"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - ""
+    - "community"
+    - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: New Community Manager
 https://www.youtube.com/watch?v=awAhXucxS-Y
 
 ### Topics
-
+* [Trolling](../topics/trolling.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

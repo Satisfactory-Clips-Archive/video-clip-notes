@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/buildings"
     - "features/buildings/the-hub"
+    - "soundtrack"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans on in-game Jukebox?
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=dbyTU3Wdpog
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Soundtrack](../topics/soundtrack.md)
 * [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript

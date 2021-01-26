@@ -3,14 +3,14 @@ title: "September 22nd, 2020 Livestream Jace & Snutt Talk: Story"
 date: "2020-09-22"
 layout: transcript
 topics:
-    - ""
+    - "story-lore"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Jace & Snutt Talk: Story
 https://www.youtube.com/watch?v=vPWShxAn3io
 
 ### Topics
-
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

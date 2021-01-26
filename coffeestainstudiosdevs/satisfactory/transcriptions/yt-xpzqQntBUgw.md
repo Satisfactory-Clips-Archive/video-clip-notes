@@ -3,14 +3,16 @@ title: "November 24th, 2020 Livestream Q&A: What other languages are going to be
 date: "2020-11-24"
 layout: transcript
 topics:
-    - ""
+    - "community"
+    - "localisation"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: What other languages are going to be added?
 https://www.youtube.com/watch?v=xpzqQntBUgw
 
 ### Topics
-
+* [Localisation](../topics/localisation.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

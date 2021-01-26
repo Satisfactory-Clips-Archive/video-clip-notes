@@ -3,14 +3,14 @@ title: "September 4th, 2020 Teasers Official Satisfactory MERCH!"
 date: "2020-09-04"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [September 4th, 2020 Teasers](../2020-09-04.md)
 ## Official Satisfactory MERCH!
 https://www.youtube.com/watch?v=4_cYnq746zk
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

@@ -4,12 +4,14 @@ date: "2020-12-15"
 layout: transcript
 topics:
     - "off-topic/sanctum"
+    - "story-lore"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Does Sanctum and Satisfactory exist in the same universe?
 https://www.youtube.com/watch?v=JnR3oHKDQi0
 
 ### Topics
+* [Story & Lore](../topics/story-lore.md)
 * [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
 
 ### Transcript

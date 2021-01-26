@@ -4,6 +4,7 @@ date: "2020-09-22"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
+    - "story-lore"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Will the Story play out when implemented or will we have to start a new game?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=PPu_s5Gg8gs
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

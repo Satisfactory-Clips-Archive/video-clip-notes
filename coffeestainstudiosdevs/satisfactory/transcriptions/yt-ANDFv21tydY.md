@@ -3,14 +3,14 @@ title: "September 22nd, 2020 Livestream Q&A: Are there going to be Lore teasers 
 date: "2020-09-22"
 layout: transcript
 topics:
-    - ""
+    - "story-lore"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Are there going to be Lore teasers in the Game before launch?
 https://www.youtube.com/watch?v=ANDFv21tydY
 
 ### Topics
-
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

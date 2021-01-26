@@ -3,14 +3,14 @@ title: "November 10th, 2020 Livestream Jace Talk: Merch"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Jace Talk: Merch
 https://www.youtube.com/watch?v=23FUIPYyBds
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

@@ -4,12 +4,14 @@ date: "2020-12-15"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "trolling"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: How big will the update for Update 4 be in gigabytes?
 https://www.youtube.com/watch?v=_i9f2NI9JNc
 
 ### Topics
+* [Trolling](../topics/trolling.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

@@ -3,14 +3,14 @@ title: "October 6th, 2020 Livestream Q&A: (re: the wiki) So the old data-mined d
 date: "2020-10-06"
 layout: transcript
 topics:
-    - ""
+    - "community/wiki"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: (re: the wiki) So the old data-mined data?
 https://www.youtube.com/watch?v=SG9tehaWHsE
 
 ### Topics
-
+* [Community > Wiki](../topics/community/wiki.md)
 
 ### Transcript
 

@@ -4,6 +4,7 @@ date: "2020-11-24"
 layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
+    - "merch"
     - "satisfactory-updates/state-of-dev"
     - "technology/unreal-engine"
 ---
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=uYPhHTSL6Ys
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

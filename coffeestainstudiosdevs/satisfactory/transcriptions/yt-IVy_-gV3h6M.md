@@ -3,14 +3,14 @@ title: "October 13th, 2020 Livestream Q&A: What about the Mug?"
 date: "2020-10-13"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: What about the Mug?
 https://www.youtube.com/watch?v=IVy_-gV3h6M
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

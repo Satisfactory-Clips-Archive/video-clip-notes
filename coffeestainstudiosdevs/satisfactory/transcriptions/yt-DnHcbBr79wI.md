@@ -3,14 +3,14 @@ title: "January 12th, 2021 Livestream Snutt & Jace Talk: Dan Harmon plays Satisf
 date: "2021-01-12"
 layout: transcript
 topics:
-    - ""
+    - "community"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Snutt & Jace Talk: Dan Harmon plays Satisfactory
 https://www.youtube.com/watch?v=DnHcbBr79wI
 
 ### Topics
-
+* [Community](../topics/community.md)
 
 ### Transcript
 

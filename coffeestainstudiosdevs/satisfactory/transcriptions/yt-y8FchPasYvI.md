@@ -5,6 +5,8 @@ layout: transcript
 topics:
     - "coffee-stainers/hannah"
     - "environment/world-map"
+    - "story-lore"
+    - "trolling"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: What's Hannah's take on rocks that aren't on the ground?
@@ -12,6 +14,8 @@ https://www.youtube.com/watch?v=y8FchPasYvI
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
+* [Trolling](../topics/trolling.md)
+* [Story & Lore](../topics/story-lore.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript

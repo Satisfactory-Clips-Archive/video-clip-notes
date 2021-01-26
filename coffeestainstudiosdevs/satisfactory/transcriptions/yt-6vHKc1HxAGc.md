@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Q&A: Mug Merch update?"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Mug Merch update?
 https://www.youtube.com/watch?v=6vHKc1HxAGc
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

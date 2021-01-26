@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Snutt & Jace Talk: Special Announcements"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - ""
+    - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Snutt & Jace Talk: Special Announcements
 https://www.youtube.com/watch?v=Abv5c_etxZQ
 
 ### Topics
-
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/crafting/superposition-oscillator"
     - "features/tiers"
+    - "features/tiers/tier-8"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=fmE3DQFeVGk
 * [Features > Crafting > Superposition Oscillator](../topics/features/crafting/superposition-oscillator.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Features > Tiers](../topics/features/tiers.md)
+* [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
 
 ### Transcript
 

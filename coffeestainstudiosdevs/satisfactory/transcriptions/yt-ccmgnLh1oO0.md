@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "environment/resources/sam-ore"
     - "satisfactory-updates/pending/satisfactory-1-0"
+    - "story-lore"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=ccmgnLh1oO0
 ### Topics
 * [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

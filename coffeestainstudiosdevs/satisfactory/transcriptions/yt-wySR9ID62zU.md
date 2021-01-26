@@ -3,14 +3,14 @@ title: "September 15th, 2020 Livestream Q&A: What's the storyline on Satisfactor
 date: "2020-09-15"
 layout: transcript
 topics:
-    - ""
+    - "story-lore"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: What's the storyline on Satisfactory? Is it after Deep Rock Galactic?
 https://www.youtube.com/watch?v=wySR9ID62zU
 
 ### Topics
-
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

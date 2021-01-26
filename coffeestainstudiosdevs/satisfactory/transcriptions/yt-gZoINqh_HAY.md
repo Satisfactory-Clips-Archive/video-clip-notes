@@ -3,14 +3,14 @@ title: "November 3rd, 2020 Livestream Q&A: Can you give us a hint about the Stor
 date: "2020-11-03"
 layout: transcript
 topics:
-    - ""
+    - "story-lore"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Can you give us a hint about the Story of the game?
 https://www.youtube.com/watch?v=gZoINqh_HAY
 
 ### Topics
-
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

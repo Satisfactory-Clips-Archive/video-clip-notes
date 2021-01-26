@@ -4,6 +4,7 @@ date: "2021-01-12"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "off-topic"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: What kind of oven does Jace have?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=47XUYwkEE-0
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

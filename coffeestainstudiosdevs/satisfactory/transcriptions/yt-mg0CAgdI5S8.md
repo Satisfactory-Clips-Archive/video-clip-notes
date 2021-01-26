@@ -3,14 +3,14 @@ title: "September 15th, 2020 Livestream Q&A: The Mug?"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: The Mug?
 https://www.youtube.com/watch?v=mg0CAgdI5S8
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

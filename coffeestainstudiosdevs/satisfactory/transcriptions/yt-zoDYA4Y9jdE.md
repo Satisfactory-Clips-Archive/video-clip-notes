@@ -3,14 +3,14 @@ title: "September 8th, 2020 Livestream Q&A: Releasing the Soundtrack on Spotify?
 date: "2020-09-08"
 layout: transcript
 topics:
-    - ""
+    - "soundtrack"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Releasing the Soundtrack on Spotify?
 https://www.youtube.com/watch?v=zoDYA4Y9jdE
 
 ### Topics
-
+* [Soundtrack](../topics/soundtrack.md)
 
 ### Transcript
 

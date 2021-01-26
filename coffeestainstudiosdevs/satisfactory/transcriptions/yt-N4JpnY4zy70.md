@@ -3,14 +3,14 @@ title: "January 19th, 2021 Livestream Q&A: Who in Coffee Stain plays Satisfactor
 date: "2021-01-19"
 layout: transcript
 topics:
-    - ""
+    - "coffee-stainers"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Who in Coffee Stain plays Satisfactory the most?
 https://www.youtube.com/watch?v=N4JpnY4zy70
 
 ### Topics
-
+* [Coffee Stainers](../topics/coffee-stainers.md)
 
 ### Transcript
 

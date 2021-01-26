@@ -3,14 +3,14 @@ title: "September 1st, 2020 Livestream Q&A: You guys planning a Content Creator 
 date: "2020-09-01"
 layout: transcript
 topics:
-    - ""
+    - "community"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: You guys planning a Content Creator Program?
 https://www.youtube.com/watch?v=jfPUvIBBJVw
 
 ### Topics
-
+* [Community](../topics/community.md)
 
 ### Transcript
 

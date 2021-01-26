@@ -3,6 +3,7 @@ title: "December 8th, 2020 Livestream Snutt & Jace Talk: The Wiki"
 date: "2020-12-08"
 layout: transcript
 topics:
+    - "community/wiki"
     - "features/tiers"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=JGdEGbzDFlY
 
 ### Topics
+* [Community > Wiki](../topics/community/wiki.md)
 * [Features > Tiers](../topics/features/tiers.md)
 
 ### Transcript

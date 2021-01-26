@@ -3,13 +3,17 @@ title: "December 8th, 2020 Livestream State of Dev: Blame Simon"
 date: "2020-12-08"
 layout: transcript
 topics:
+    - "coffee-stainers"
     - "satisfactory-updates/state-of-dev"
+    - "trolling"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## State of Dev: Blame Simon
 https://www.youtube.com/watch?v=H4gyZoXsfo0
 
 ### Topics
+* [Coffee Stainers](../topics/coffee-stainers.md)
+* [Trolling](../topics/trolling.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

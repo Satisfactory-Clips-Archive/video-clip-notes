@@ -3,6 +3,7 @@ title: "January 12th, 2021 Livestream State of Dev: Mug Merch"
 date: "2021-01-12"
 layout: transcript
 topics:
+    - "merch"
     - "satisfactory-updates/state-of-dev"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=sDMER4xm8Gc
 
 ### Topics
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
+    - "community"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: What is the job of Community Managers?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=zaE2VeeV2mY
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

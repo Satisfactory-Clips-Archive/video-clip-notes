@@ -3,10 +3,12 @@ title: "March 9th, 2019 Livestream Snutt, Simon, Jace Talk: Don't shit in the st
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "coffee-stainers"
     - "coffee-stainers/jace"
     - "coffee-stainers/simon"
     - "coffee-stainers/snutt"
     - "features/buildables/storage-containers"
+    - "off-topic"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt, Simon, Jace Talk: Don't shit in the storage box
@@ -16,7 +18,9 @@ https://www.youtube.com/watch?v=3gFgrVEkOpc
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
+* [Coffee Stainers](../topics/coffee-stainers.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

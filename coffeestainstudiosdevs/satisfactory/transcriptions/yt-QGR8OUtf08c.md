@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/birk"
     - "coffee-stainers/snutt"
+    - "off-topic"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Will Birk take Snutt's hat & put it on?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=QGR8OUtf08c
 ### Topics
 * [Coffee Stainers > Birk](../topics/coffee-stainers/birk.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

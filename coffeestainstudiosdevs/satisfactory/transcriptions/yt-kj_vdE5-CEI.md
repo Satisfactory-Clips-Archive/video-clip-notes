@@ -3,14 +3,14 @@ title: "October 6th, 2020 Livestream Q&A: Any Update on Merch shipping alternati
 date: "2020-10-06"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any Update on Merch shipping alternatives?
 https://www.youtube.com/watch?v=kj_vdE5-CEI
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

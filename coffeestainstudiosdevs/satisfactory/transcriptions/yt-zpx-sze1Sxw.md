@@ -3,14 +3,14 @@ title: "November 10th, 2020 Livestream Jace Talk: Q&A Site"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - ""
+    - "community"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Jace Talk: Q&A Site
 https://www.youtube.com/watch?v=zpx-sze1Sxw
 
 ### Topics
-
+* [Community](../topics/community.md)
 
 ### Transcript
 

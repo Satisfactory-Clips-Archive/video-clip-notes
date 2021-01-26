@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Trolling: This is an honest stream"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - ""
+    - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: This is an honest stream
 https://www.youtube.com/watch?v=L5L3kXz810E
 
 ### Topics
-
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

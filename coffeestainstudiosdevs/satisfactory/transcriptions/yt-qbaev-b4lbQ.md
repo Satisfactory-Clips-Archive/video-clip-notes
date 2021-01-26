@@ -3,14 +3,16 @@ title: "January 12th, 2021 Livestream Q&A: How can I help with translation- the 
 date: "2021-01-12"
 layout: transcript
 topics:
-    - ""
+    - "community"
+    - "localisation"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: How can I help with translation- the Spanish one looks like Google Translator?
 https://www.youtube.com/watch?v=qbaev-b4lbQ
 
 ### Topics
-
+* [Localisation](../topics/localisation.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

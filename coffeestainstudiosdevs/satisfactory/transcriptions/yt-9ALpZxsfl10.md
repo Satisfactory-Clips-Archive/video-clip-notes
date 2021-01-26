@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Snutt Talk: Somersloop"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - ""
+    - "story-lore"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt Talk: Somersloop
 https://www.youtube.com/watch?v=9ALpZxsfl10
 
 ### Topics
-
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

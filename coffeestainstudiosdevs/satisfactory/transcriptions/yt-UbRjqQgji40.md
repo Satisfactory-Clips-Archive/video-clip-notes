@@ -3,14 +3,14 @@ title: "January 19th, 2021 Livestream Q&A: Any news from the Content Creator pro
 date: "2021-01-19"
 layout: transcript
 topics:
-    - ""
+    - "community"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Any news from the Content Creator program?
 https://www.youtube.com/watch?v=UbRjqQgji40
 
 ### Topics
-
+* [Community](../topics/community.md)
 
 ### Transcript
 

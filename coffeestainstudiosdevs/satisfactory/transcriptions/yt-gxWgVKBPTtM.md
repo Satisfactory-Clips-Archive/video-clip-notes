@@ -4,12 +4,14 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "satisfactory-updates/release-builds"
+    - "trolling"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: You guys are planning a mobile port, right?
 https://www.youtube.com/watch?v=gxWgVKBPTtM
 
 ### Topics
+* [Trolling](../topics/trolling.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript

@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/seasonal-events/fics-mas"
+    - "trolling"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Jace Talk: FICS⁕MAS leaks are not "leaks"
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=TOevQ69HYNA
 
 ### Topics
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
+* [Trolling](../topics/trolling.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

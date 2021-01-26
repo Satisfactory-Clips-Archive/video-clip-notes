@@ -3,6 +3,7 @@ title: "October 13th, 2020 Livestream Q&A: Has there been any community interest
 date: "2020-10-13"
 layout: transcript
 topics:
+    - "community"
     - "features/buildings"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=sSGirp3aoDk
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

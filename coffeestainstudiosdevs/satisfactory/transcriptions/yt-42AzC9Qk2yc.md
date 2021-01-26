@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=42AzC9Qk2yc
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Features > Tiers](../topics/features/tiers.md)
+* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript
 

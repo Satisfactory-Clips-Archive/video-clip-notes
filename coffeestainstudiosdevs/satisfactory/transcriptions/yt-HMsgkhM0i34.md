@@ -4,6 +4,7 @@ date: "2020-09-01"
 layout: transcript
 topics:
     - "environment/creatures/lizard-doggo"
+    - "merch"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: The Doggo Plushie has to fit into the Cup
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=HMsgkhM0i34
 
 ### Topics
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

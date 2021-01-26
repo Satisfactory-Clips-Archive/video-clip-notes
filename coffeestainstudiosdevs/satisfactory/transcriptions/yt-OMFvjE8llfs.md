@@ -4,12 +4,14 @@ date: "2020-11-17"
 layout: transcript
 topics:
     - "features/possible-features/console-release"
+    - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Console Support
 https://www.youtube.com/watch?v=OMFvjE8llfs
 
 ### Topics
+* [Trolling](../topics/trolling.md)
 * [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)
 
 ### Transcript

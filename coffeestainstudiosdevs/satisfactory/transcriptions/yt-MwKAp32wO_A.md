@@ -4,6 +4,7 @@ date: "2021-01-12"
 layout: transcript
 topics:
     - "coffee-stainers/snutt"
+    - "off-topic"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Is Snutt rocking two watches?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=MwKAp32wO_A
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

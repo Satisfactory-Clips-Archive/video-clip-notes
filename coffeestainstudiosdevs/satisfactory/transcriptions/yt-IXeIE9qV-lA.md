@@ -3,14 +3,14 @@ title: "September 15th, 2020 Livestream Q&A: Any news on EU Merch?"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Any news on EU Merch?
 https://www.youtube.com/watch?v=IXeIE9qV-lA
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

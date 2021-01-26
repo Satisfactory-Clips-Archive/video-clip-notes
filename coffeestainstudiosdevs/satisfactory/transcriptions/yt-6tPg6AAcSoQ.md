@@ -3,14 +3,14 @@ title: "November 24th, 2020 Livestream Q&A: If you have time to play, what games
 date: "2020-11-24"
 layout: transcript
 topics:
-    - ""
+    - "off-topic"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: If you have time to play, what games do you play?
 https://www.youtube.com/watch?v=6tPg6AAcSoQ
 
 ### Topics
-
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

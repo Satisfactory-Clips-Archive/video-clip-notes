@@ -3,14 +3,14 @@ title: "September 22nd, 2020 Livestream Q&A: Is the OST on Spotify?"
 date: "2020-09-22"
 layout: transcript
 topics:
-    - ""
+    - "soundtrack"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is the OST on Spotify?
 https://www.youtube.com/watch?v=iCN324N905o
 
 ### Topics
-
+* [Soundtrack](../topics/soundtrack.md)
 
 ### Transcript
 

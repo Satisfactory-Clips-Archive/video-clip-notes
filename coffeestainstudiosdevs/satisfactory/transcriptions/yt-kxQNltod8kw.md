@@ -3,14 +3,14 @@ title: "December 19th, 2019 Livestream Jace, Snutt, & Hannah Talk: Modelling rea
 date: "2019-12-19"
 layout: transcript
 topics:
-    - ""
+    - "off-topic"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Jace, Snutt, & Hannah Talk: Modelling real-world places in games.
 https://www.youtube.com/watch?v=kxQNltod8kw
 
 ### Topics
-
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

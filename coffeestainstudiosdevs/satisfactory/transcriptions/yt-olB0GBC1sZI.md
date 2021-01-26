@@ -3,6 +3,7 @@ title: "September 22nd, 2020 Livestream Snutt Talk: Localisation Update"
 date: "2020-09-22"
 layout: transcript
 topics:
+    - "localisation"
     - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=olB0GBC1sZI
 
 ### Topics
+* [Localisation](../topics/localisation.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript

@@ -3,14 +3,16 @@ title: "November 24th, 2020 Livestream Q&A: Community Translation do we get paid
 date: "2020-11-24"
 layout: transcript
 topics:
-    - ""
+    - "community"
+    - "localisation"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Community Translation do we get paid or is it free unlike buying the game?
 https://www.youtube.com/watch?v=HZFZLzljSRE
 
 ### Topics
-
+* [Localisation](../topics/localisation.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

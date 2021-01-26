@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Q&A: DMCA Strikes if we use your Music?"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - ""
+    - "soundtrack"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: DMCA Strikes if we use your Music?
 https://www.youtube.com/watch?v=YMOHvk22t2Y
 
 ### Topics
-
+* [Soundtrack](../topics/soundtrack.md)
 
 ### Transcript
 

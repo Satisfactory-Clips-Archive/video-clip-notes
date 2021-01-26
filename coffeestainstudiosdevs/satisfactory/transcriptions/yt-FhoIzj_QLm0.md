@@ -4,6 +4,7 @@ date: "2020-12-08"
 layout: transcript
 topics:
     - "features/tiers"
+    - "features/tiers/tier-8"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Is Tier 8 last Tier for the game?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=FhoIzj_QLm0
 
 ### Topics
 * [Features > Tiers](../topics/features/tiers.md)
+* [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
 
 ### Transcript
 

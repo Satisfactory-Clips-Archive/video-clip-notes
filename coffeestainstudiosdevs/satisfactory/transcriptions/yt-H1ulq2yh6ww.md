@@ -4,12 +4,14 @@ date: "2020-11-17"
 layout: transcript
 topics:
     - "features/fluids/pipes"
+    - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Removing Pipes
 https://www.youtube.com/watch?v=H1ulq2yh6ww
 
 ### Topics
+* [Trolling](../topics/trolling.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 
 ### Transcript

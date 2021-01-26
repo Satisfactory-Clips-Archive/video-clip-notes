@@ -3,14 +3,14 @@ title: "October 20th, 2020 Livestream Q&A: What will Story Mode be like?"
 date: "2020-10-20"
 layout: transcript
 topics:
-    - ""
+    - "story-lore"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: What will Story Mode be like?
 https://www.youtube.com/watch?v=rRESDp2VwEI
 
 ### Topics
-
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

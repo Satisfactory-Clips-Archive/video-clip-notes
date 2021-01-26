@@ -4,12 +4,14 @@ date: "2020-11-17"
 layout: transcript
 topics:
     - "features/possible-features/game-modes"
+    - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Hunger & Thirst
 https://www.youtube.com/watch?v=IcnvCpUbTb4
 
 ### Topics
+* [Trolling](../topics/trolling.md)
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 
 ### Transcript

@@ -3,6 +3,7 @@ title: "January 12th, 2021 Livestream Q&A: What is your favourite Mod?"
 date: "2021-01-12"
 layout: transcript
 topics:
+    - "community"
     - "mods"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=9tdYBCwd5no
 
 ### Topics
 * [Mods](../topics/mods.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

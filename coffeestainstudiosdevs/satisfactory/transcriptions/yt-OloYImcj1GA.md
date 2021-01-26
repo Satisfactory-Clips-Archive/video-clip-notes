@@ -3,6 +3,7 @@ title: "December 8th, 2020 Livestream Q&A: How come the translations are weird w
 date: "2020-12-08"
 layout: transcript
 topics:
+    - "localisation"
     - "satisfactory-updates/satisfactory-2017"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=OloYImcj1GA
 
 ### Topics
 * [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
+* [Localisation](../topics/localisation.md)
 
 ### Transcript
 

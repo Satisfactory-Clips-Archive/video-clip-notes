@@ -3,14 +3,14 @@ title: "January 12th, 2021 Livestream Q&A: When will Merch shipping worldwide be
 date: "2021-01-12"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: When will Merch shipping worldwide be possible?
 https://www.youtube.com/watch?v=iyFXDTn2YPM
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

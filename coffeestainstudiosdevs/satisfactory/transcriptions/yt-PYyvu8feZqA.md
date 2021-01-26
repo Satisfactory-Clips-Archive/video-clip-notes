@@ -3,14 +3,14 @@ title: "December 15th, 2020 Livestream Q&A: Will we get a Shop in Europe - the s
 date: "2020-12-15"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy?
 https://www.youtube.com/watch?v=PYyvu8feZqA
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

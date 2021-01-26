@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Snutt Talk: Danish (counting) is stupid"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - ""
+    - "off-topic"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Snutt Talk: Danish (counting) is stupid
 https://www.youtube.com/watch?v=F5X8ND9rGJ4
 
 ### Topics
-
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

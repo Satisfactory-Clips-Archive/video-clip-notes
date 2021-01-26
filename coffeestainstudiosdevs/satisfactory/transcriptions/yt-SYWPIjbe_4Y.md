@@ -3,14 +3,14 @@ title: "December 19th, 2019 Livestream Q&A: Will Mercer Spheres and Somersloops 
 date: "2019-12-19"
 layout: transcript
 topics:
-    - ""
+    - "story-lore"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Will Mercer Spheres and Somersloops be useful soon?
 https://www.youtube.com/watch?v=SYWPIjbe_4Y
 
 ### Topics
-
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

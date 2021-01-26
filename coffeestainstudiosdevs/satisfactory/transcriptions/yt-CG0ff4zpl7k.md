@@ -4,6 +4,7 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "coffee-stainers/mark"
+    - "community"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Mark Talk: My day-to-day work as Game Director
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=CG0ff4zpl7k
 
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

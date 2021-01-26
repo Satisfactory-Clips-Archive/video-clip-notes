@@ -4,6 +4,7 @@ date: "2019-12-19"
 layout: transcript
 topics:
     - "coffee-stainers/simon"
+    - "off-topic"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: How is Simon so jacked?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=yRdv_AYUVR4
 
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

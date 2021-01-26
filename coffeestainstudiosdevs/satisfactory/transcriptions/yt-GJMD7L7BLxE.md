@@ -4,6 +4,7 @@ date: "2020-12-08"
 layout: transcript
 topics:
     - "features/accessibility/arachnophobia-mode"
+    - "trolling"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Cyberpunk cross-over when?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=GJMD7L7BLxE
 
 ### Topics
 * [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

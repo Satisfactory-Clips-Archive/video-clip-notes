@@ -4,12 +4,14 @@ date: "2020-11-24"
 layout: transcript
 topics:
     - "features/multiplayer"
+    - "story-lore"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will Story Mode have Co-op?
 https://www.youtube.com/watch?v=1iHSFaYoEow
 
 ### Topics
+* [Story & Lore](../topics/story-lore.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 
 ### Transcript

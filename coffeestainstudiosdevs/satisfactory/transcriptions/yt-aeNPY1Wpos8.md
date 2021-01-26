@@ -3,14 +3,14 @@ title: "December 19th, 2019 Livestream Q&A: Did you meet the makers of Space Eng
 date: "2019-12-19"
 layout: transcript
 topics:
-    - ""
+    - "off-topic"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Did you meet the makers of Space Engineers?
 https://www.youtube.com/watch?v=aeNPY1Wpos8
 
 ### Topics
-
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

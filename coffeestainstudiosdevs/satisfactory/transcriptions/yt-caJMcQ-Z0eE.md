@@ -4,6 +4,7 @@ date: "2019-12-19"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "merch"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Are there any plans on releasing these arts?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=caJMcQ-Z0eE
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/simon"
     - "features/buildings/the-hub"
+    - "trolling"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt Talk: the most important part of the HUB
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=DwdNTp6z1a4
 
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Trolling](../topics/trolling.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 
 ### Transcript

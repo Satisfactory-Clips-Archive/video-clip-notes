@@ -3,14 +3,14 @@ title: "December 15th, 2020 Livestream Q&A: Coffee Mugs?"
 date: "2020-12-15"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Coffee Mugs?
 https://www.youtube.com/watch?v=DuGUOXyGtHg
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

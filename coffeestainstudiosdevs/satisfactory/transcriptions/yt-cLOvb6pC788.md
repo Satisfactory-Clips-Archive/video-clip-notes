@@ -3,14 +3,14 @@ title: "October 13th, 2020 Livestream Q&A: When will the Merch be sold in the EU
 date: "2020-10-13"
 layout: transcript
 topics:
-    - ""
+    - "merch"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: When will the Merch be sold in the EU?
 https://www.youtube.com/watch?v=cLOvb6pC788
 
 ### Topics
-
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

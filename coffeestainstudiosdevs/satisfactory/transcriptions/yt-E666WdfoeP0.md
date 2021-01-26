@@ -6,12 +6,14 @@ topics:
     - "features/tiers"
     - "features/unplanned-features/aerial-travel"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Flying Vehicles in Update 4
 https://www.youtube.com/watch?v=E666WdfoeP0
 
 ### Topics
+* [Trolling](../topics/trolling.md)
 * [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Features > Tiers](../topics/features/tiers.md)

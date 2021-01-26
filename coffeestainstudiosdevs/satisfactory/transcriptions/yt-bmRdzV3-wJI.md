@@ -3,14 +3,14 @@ title: "October 6th, 2020 Livestream Q&A: When are these Work In Progress (WIP) 
 date: "2020-10-06"
 layout: transcript
 topics:
-    - ""
+    - "story-lore"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: When are these Work In Progress (WIP) items going to be used?
 https://www.youtube.com/watch?v=bmRdzV3-wJI
 
 ### Topics
-
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

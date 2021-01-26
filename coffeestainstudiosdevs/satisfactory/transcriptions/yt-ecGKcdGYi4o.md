@@ -3,6 +3,7 @@ title: "September 8th, 2020 Livestream Q&A: You like to watch the modding commun
 date: "2020-09-08"
 layout: transcript
 topics:
+    - "community"
     - "mods"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=ecGKcdGYi4o
 
 ### Topics
 * [Mods](../topics/mods.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

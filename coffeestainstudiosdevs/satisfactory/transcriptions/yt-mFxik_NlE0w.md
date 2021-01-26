@@ -3,14 +3,14 @@ title: "December 19th, 2019 Livestream Q&A: Is there going to be a storyline?"
 date: "2019-12-19"
 layout: transcript
 topics:
-    - ""
+    - "story-lore"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Is there going to be a storyline?
 https://www.youtube.com/watch?v=mFxik_NlE0w
 
 ### Topics
-
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

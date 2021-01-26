@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "features/tiers"
+    - "features/tiers/tier-7"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: When will Jace get to Tier 7?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=xmZ--a6nkQU
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Features > Tiers](../topics/features/tiers.md)
+* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 
 ### Transcript
 

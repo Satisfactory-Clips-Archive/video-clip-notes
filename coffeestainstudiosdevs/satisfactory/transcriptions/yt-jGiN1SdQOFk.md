@@ -4,6 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "environment/creatures/lizard-doggo"
+    - "merch"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Lizard Doggo plushie when?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=jGiN1SdQOFk
 
 ### Topics
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

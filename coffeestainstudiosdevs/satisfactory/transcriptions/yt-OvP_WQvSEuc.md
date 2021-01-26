@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Trolling: Adding Cigarettes to the game"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - ""
+    - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Adding Cigarettes to the game
 https://www.youtube.com/watch?v=OvP_WQvSEuc
 
 ### Topics
-
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

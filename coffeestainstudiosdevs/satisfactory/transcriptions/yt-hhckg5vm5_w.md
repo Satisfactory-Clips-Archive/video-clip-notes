@@ -4,6 +4,7 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
+    - "story-lore"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Thoughts on making end-game point or goal?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=hhckg5vm5_w
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/possible-features/dlc"
     - "off-topic/goat-simulator"
+    - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Goat Simulator DLC
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=yXp4YAvRZHg
 
 ### Topics
 * [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
+* [Trolling](../topics/trolling.md)
 * [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
 
 ### Transcript

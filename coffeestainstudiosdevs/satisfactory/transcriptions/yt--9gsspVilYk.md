@@ -4,12 +4,14 @@ date: "2020-11-17"
 layout: transcript
 topics:
     - "features/planned-features/lights"
+    - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Trolling: Lights
 https://www.youtube.com/watch?v=-9gsspVilYk
 
 ### Topics
+* [Trolling](../topics/trolling.md)
 * [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
 
 ### Transcript

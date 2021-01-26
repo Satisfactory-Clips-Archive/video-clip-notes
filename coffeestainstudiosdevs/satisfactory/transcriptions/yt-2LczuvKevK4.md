@@ -4,6 +4,7 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "features/tiers"
+    - "features/tiers/tier-7"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=2LczuvKevK4
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Features > Tiers](../topics/features/tiers.md)
+* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 
 ### Transcript
 

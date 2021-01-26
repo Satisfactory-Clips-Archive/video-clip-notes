@@ -3,14 +3,14 @@ title: "December 8th, 2020 Livestream Q&A: Which studio has the goofiest Communi
 date: "2020-12-08"
 layout: transcript
 topics:
-    - ""
+    - "community"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Which studio has the goofiest Community Managers?
 https://www.youtube.com/watch?v=crxg2tpqQSc
 
 ### Topics
-
+* [Community](../topics/community.md)
 
 ### Transcript
 

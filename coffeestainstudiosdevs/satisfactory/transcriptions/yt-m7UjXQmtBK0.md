@@ -3,14 +3,14 @@ title: "December 8th, 2020 Livestream Q&A: Have you sold more than 10 copies yet
 date: "2020-12-08"
 layout: transcript
 topics:
-    - ""
+    - "trolling"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Have you sold more than 10 copies yet?
 https://www.youtube.com/watch?v=m7UjXQmtBK0
 
 ### Topics
-
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

@@ -3,6 +3,7 @@ title: "September 15th, 2020 Livestream Snutt Talk: Looking into Modular Builds 
 date: "2020-09-15"
 layout: transcript
 topics:
+    - "community"
     - "mods"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=PHoou3ds24k
 
 ### Topics
 * [Mods](../topics/mods.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

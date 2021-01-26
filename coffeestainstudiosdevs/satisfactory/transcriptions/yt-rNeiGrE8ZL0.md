@@ -3,7 +3,9 @@ title: "January 19th, 2021 Livestream Snutt Talk: Which one is the Assembler aga
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "community/wiki"
     - "features/buildings/assembler"
+    - "trolling"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Snutt Talk: Which one is the Assembler again?
@@ -11,6 +13,8 @@ https://www.youtube.com/watch?v=rNeiGrE8ZL0
 
 ### Topics
 * [Features > Buildings > Assembler](../topics/features/buildings/assembler.md)
+* [Trolling](../topics/trolling.md)
+* [Community > Wiki](../topics/community/wiki.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "September 8th, 2020 Livestream Q&A: When do you have Discord integration
 date: "2020-09-08"
 layout: transcript
 topics:
-    - ""
+    - "features/possible-features/third-party-service-integration"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When do you have Discord integration?
 https://www.youtube.com/watch?v=uI3MwJi8iAk
 
 ### Topics
-
+* [Features > Possible Features > Third-Party Service Integration](../topics/features/possible-features/third-party-service-integration.md)
 
 ### Transcript
 

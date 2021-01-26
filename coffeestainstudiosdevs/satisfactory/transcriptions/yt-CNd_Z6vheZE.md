@@ -3,14 +3,14 @@ title: "January 19th, 2021 Livestream Q&A: Did you get a Twitch Rewind infograph
 date: "2021-01-19"
 layout: transcript
 topics:
-    - ""
+    - "off-topic"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Did you get a Twitch Rewind infographic for last year's watch times?
 https://www.youtube.com/watch?v=CNd_Z6vheZE
 
 ### Topics
-
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 
