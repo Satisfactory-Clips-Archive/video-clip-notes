@@ -29,5 +29,8 @@ date: Last Modified
 # August 25th, 2020 Livestream
 * Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause
 
+# January 22nd, 2020 Livestream
+* [Snutt & Jace Talk: AWESOME Shop Teaser](../../../transcriptions/yt-0fiuHwwSrrI.md) https://www.youtube.com/watch?v=0fiuHwwSrrI
+
 # March 9th, 2019 Livestream
 * [Q&A: Does building Walls around big factories help performance?](../../../transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4

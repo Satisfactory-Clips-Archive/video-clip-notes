@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=RjFIQhJY824
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 
 ### Transcript
 

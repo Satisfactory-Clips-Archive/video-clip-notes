@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=tTXExwaqZQM
 
 ### Topics
+* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 * [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
-* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 
 ### Transcript
 

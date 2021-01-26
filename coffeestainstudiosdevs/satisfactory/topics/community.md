@@ -64,6 +64,14 @@ date: Last Modified
 # September 1st, 2020 Livestream
 * [Q&A: You guys planning a Content Creator Program?](../transcriptions/yt-jfPUvIBBJVw.md) https://www.youtube.com/watch?v=jfPUvIBBJVw
 
+# January 22nd, 2020 Livestream
+* [Q&A: Why two Community Managers again?](../transcriptions/yt-vr0RPVS158o.md) https://www.youtube.com/watch?v=vr0RPVS158o
+* [Q&A: Do you have to wear a hat when you become CM of Coffee Stain](../transcriptions/yt-h4V2Fx6IXyI.md) https://www.youtube.com/watch?v=h4V2Fx6IXyI
+* [Snutt & Jace Talk: Smerkin is hardcore](../transcriptions/yt-RT5R6J7dj3g.md) https://www.youtube.com/watch?v=RT5R6J7dj3g
+* [Snutt & Jace Talk: What the community would like to see in Update 3?](../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0
+* [Snutt Talk: Clip stuff, it makes our life a lot easier](../transcriptions/yt-hOrDM-9lNQo.md) https://www.youtube.com/watch?v=hOrDM-9lNQo
+* [Jace Talk: The QA Site](../transcriptions/yt-eaaYqnAGK0M.md) https://www.youtube.com/watch?v=eaaYqnAGK0M
+
 # December 19th, 2019 Livestream
 * [Q&A: What is the job of Community Managers?](../transcriptions/yt-zaE2VeeV2mY.md) https://www.youtube.com/watch?v=zaE2VeeV2mY
 * [Q&A: Snutt Jace's baby Community Manager?](../transcriptions/yt-mmaqnomYjFQ.md) https://www.youtube.com/watch?v=mmaqnomYjFQ

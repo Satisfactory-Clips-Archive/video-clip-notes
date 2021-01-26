@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=HkQr5PfhKgs
 
 ### Topics
-* [Merch](../topics/merch.md)
 * [Community](../topics/community.md)
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

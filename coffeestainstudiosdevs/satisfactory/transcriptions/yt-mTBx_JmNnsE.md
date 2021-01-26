@@ -3,7 +3,6 @@ title: "March 9th, 2019 Livestream Snutt, Simon, Jace Talk: Animator, Sound Desi
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "coffee-stainers"
     - "coffee-stainers/simon"
     - "coffee-stainers/tim"
 ---
@@ -13,7 +12,6 @@ https://www.youtube.com/watch?v=mTBx_JmNnsE
 
 ### Topics
 * [Coffee Stainers > Tim](../topics/coffee-stainers/tim.md)
-* [Coffee Stainers](../topics/coffee-stainers.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
 
 ### Transcript

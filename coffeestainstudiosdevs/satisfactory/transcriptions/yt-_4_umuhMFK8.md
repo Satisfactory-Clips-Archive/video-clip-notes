@@ -3,7 +3,6 @@ title: "December 15th, 2020 Livestream Q&A: What's the best nickname someone has
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "coffee-stainers"
     - "coffee-stainers/snutt"
     - "community"
 ---
@@ -12,9 +11,8 @@ topics:
 https://www.youtube.com/watch?v=_4_umuhMFK8
 
 ### Topics
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Coffee Stainers](../topics/coffee-stainers.md)
 * [Community](../topics/community.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 
 ### Transcript
 

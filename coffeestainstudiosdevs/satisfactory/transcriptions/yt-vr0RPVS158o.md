@@ -3,14 +3,18 @@ title: "January 22nd, 2020 Livestream Q&A: Why two Community Managers again?"
 date: "2020-01-22"
 layout: transcript
 topics:
+    - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
+    - "community"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Why two Community Managers again?
 https://www.youtube.com/watch?v=vr0RPVS158o
 
 ### Topics
+* [Community](../topics/community.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 
 ### Transcript
 

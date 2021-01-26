@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=lNpwyJr7lZc
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript
 

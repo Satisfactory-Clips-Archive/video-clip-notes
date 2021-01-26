@@ -3,14 +3,14 @@ title: "January 22nd, 2020 Livestream Q&A: Will consumables ever grow back?"
 date: "2020-01-22"
 layout: transcript
 topics:
-    - ""
+    - "environment/plants"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Will consumables ever grow back?
 https://www.youtube.com/watch?v=hbm5XfpQ1O0
 
 ### Topics
-
+* [Environment > Plants](../topics/environment/plants.md)
 
 ### Transcript
 

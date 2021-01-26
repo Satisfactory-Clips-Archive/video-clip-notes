@@ -4,6 +4,7 @@ date: "2020-01-22"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
+    - "story-lore"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Are we getting Story?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=0U_N0TCXqxU
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

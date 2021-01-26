@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=-9gsspVilYk
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

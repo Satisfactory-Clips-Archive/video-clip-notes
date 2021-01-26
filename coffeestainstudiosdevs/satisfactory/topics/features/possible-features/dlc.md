@@ -43,3 +43,7 @@ date: Last Modified
 
 # August 18th, 2020 Livestream
 * Q&A: Is 1.0 the end of the game or will it be expanded? https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace
+
+# January 22nd, 2020 Livestream
+* [Q&A: Microtranscation DLC?](../../../transcriptions/yt-ithVAX7EptE.md) https://www.youtube.com/watch?v=ithVAX7EptE
+* [Q&A: Will there be DLC after 1.0?](../../../transcriptions/yt-FHqvzjGbhvg.md) https://www.youtube.com/watch?v=FHqvzjGbhvg

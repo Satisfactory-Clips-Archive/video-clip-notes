@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=tv1pCGiRtkM
 
 ### Topics
+* [Community](../topics/community.md)
 * [Features > Photo Mode](../topics/features/photo-mode.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
-* [Community](../topics/community.md)
 
 ### Transcript
 

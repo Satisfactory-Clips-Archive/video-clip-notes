@@ -31,5 +31,8 @@ date: Last Modified
 * Q&A: Removing vegetation speeds up the game, yes or no ? https://clips.twitch.tv/BusyHandsomeSmoothiePartyTime
 * Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt
 
+# January 22nd, 2020 Livestream
+* [Q&A: Will consumables ever grow back?](../../transcriptions/yt-hbm5XfpQ1O0.md) https://www.youtube.com/watch?v=hbm5XfpQ1O0
+
 # March 9th, 2019 Livestream
 * [Q&A: Can chainsaw kill the Fart Flower?](../../transcriptions/yt-q07kHsvi3CU.md) https://www.youtube.com/watch?v=q07kHsvi3CU

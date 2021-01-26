@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=Kx9TTDecZe4
 
 ### Topics
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 * [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
-* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 

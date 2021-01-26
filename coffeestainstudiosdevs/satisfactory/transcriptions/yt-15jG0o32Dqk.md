@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=15jG0o32Dqk
 
 ### Topics
-* [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript
 

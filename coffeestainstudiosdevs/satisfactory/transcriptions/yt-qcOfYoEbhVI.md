@@ -3,6 +3,7 @@ title: "January 22nd, 2020 Livestream Q&A: Will Gas Masks be working when you si
 date: "2020-01-22"
 layout: transcript
 topics:
+    - "features/equipment"
     - "features/transportation/vehicles"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=qcOfYoEbhVI
 
 ### Topics
+* [Features > Equipment](../topics/features/equipment.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 
 ### Transcript

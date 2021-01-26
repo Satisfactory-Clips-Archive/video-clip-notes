@@ -78,6 +78,10 @@ date: Last Modified
 * Q&A: A mark on pipes to show the meters ? https://clips.twitch.tv/AltruisticSuperBobaBudBlast
 * Q&A: What about a Tutorial System? https://clips.twitch.tv/EntertainingTenuousCasettePeteZaroll
 
+# January 22nd, 2020 Livestream
+* [Snutt & Jace Talk: What the community would like to see in Update 3?](../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0
+* [Q&A: Alignment issues?](../../transcriptions/yt-Wqkx9p4mbn0.md) https://www.youtube.com/watch?v=Wqkx9p4mbn0
+
 # December 19th, 2019 Livestream
 * [Q&A: Favourite problem to solve in the UI so far?](../../transcriptions/yt-cONX37SiszU.md) https://www.youtube.com/watch?v=cONX37SiszU
 * [Q&A: Can we put the "Nani‽" back in?](../../transcriptions/yt-sn0yrFw_Lfw.md) https://www.youtube.com/watch?v=sn0yrFw_Lfw

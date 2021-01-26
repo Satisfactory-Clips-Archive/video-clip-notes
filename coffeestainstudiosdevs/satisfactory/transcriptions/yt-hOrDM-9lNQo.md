@@ -3,14 +3,14 @@ title: "January 22nd, 2020 Livestream Snutt Talk: Clip stuff, it makes our life 
 date: "2020-01-22"
 layout: transcript
 topics:
-    - ""
+    - "community"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Snutt Talk: Clip stuff, it makes our life a lot easier
 https://www.youtube.com/watch?v=hOrDM-9lNQo
 
 ### Topics
-
+* [Community](../topics/community.md)
 
 ### Transcript
 

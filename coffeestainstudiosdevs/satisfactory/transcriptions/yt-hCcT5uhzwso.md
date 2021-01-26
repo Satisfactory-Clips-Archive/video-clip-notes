@@ -3,8 +3,8 @@ title: "November 17th, 2020 Livestream Q&A: The question is not \"Who is Hannah?
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "coffee-stainers"
     - "coffee-stainers/hannah"
+    - "coffee-stainers/nathalie"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=hCcT5uhzwso
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Coffee Stainers](../topics/coffee-stainers.md)
+* [Coffee Stainers > Nathalie](../topics/coffee-stainers/nathalie.md)
 
 ### Transcript
 

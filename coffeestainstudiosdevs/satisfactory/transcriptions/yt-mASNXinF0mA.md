@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=mASNXinF0mA
 
 ### Topics
-* [Features > Buildables > Jump Pads](../topics/features/buildables/jump-pads.md)
 * [Environment > Creatures > Space Giraffe-Tick-Penguin-Whale Thing](../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
+* [Features > Buildables > Jump Pads](../topics/features/buildables/jump-pads.md)
 
 ### Transcript
 

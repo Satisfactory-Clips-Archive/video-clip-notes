@@ -4,12 +4,14 @@ date: "2020-01-22"
 layout: transcript
 topics:
     - "features/planned-features/dedicated-servers"
+    - "satisfactory-updates/state-of-dev"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Snutt & Jace Talk: The state of Dedicated Servers
 https://www.youtube.com/watch?v=t9hoNpC4-Ik
 
 ### Topics
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 
 ### Transcript

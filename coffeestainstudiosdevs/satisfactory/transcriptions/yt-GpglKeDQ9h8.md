@@ -4,6 +4,7 @@ date: "2020-01-22"
 layout: transcript
 topics:
     - "features/buildings/awesome-store"
+    - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Snutt & Jace Talk: Tongue-twisters
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=GpglKeDQ9h8
 
 ### Topics
 * [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
+* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript
 

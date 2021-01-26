@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=RrAwAvxM5T4
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript
 

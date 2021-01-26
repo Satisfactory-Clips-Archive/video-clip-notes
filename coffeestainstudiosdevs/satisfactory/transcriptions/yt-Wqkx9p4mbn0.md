@@ -4,6 +4,7 @@ date: "2020-01-22"
 layout: transcript
 topics:
     - "features/buildables/foundations"
+    - "technology/user-interface"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Alignment issues?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=Wqkx9p4mbn0
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

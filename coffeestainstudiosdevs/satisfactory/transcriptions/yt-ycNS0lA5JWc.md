@@ -3,7 +3,6 @@ title: "November 24th, 2020 Livestream Q&A: Any chance of Simon becoming 3rd Com
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "coffee-stainers"
     - "coffee-stainers/simon"
     - "community"
 ---
@@ -12,9 +11,8 @@ topics:
 https://www.youtube.com/watch?v=ycNS0lA5JWc
 
 ### Topics
-* [Coffee Stainers](../topics/coffee-stainers.md)
-* [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
 * [Community](../topics/community.md)
+* [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
 
 ### Transcript
 

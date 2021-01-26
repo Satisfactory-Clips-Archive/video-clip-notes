@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=r-Azcy0xC4c
 
 ### Topics
-* [Mods](../topics/mods.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
+* [Mods](../topics/mods.md)
 
 ### Transcript
 

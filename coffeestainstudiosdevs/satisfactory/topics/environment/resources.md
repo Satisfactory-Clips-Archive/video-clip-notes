@@ -41,6 +41,9 @@ date: Last Modified
 # August 18th, 2020 Livestream
 * Q&A: Do you plan to make other resources beyond S.A.M. Ore? https://clips.twitch.tv/InventiveBillowingEggPMSTwin
 
+# January 22nd, 2020 Livestream
+* [Snutt & Jace Talk: Smerkin is hardcore](../../transcriptions/yt-RT5R6J7dj3g.md) https://www.youtube.com/watch?v=RT5R6J7dj3g
+
 # March 9th, 2019 Livestream
 * [Snutt Talk: Inpure Resource Nodes](../../transcriptions/yt--OHmfKyBPA4.md) https://www.youtube.com/watch?v=-OHmfKyBPA4
 * [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](../../transcriptions/yt-v4zf3_-seAg.md) https://www.youtube.com/watch?v=v4zf3_-seAg

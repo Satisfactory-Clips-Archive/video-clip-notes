@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=_MeCW-2ol-c
 * [Features > Buildings > Oil Extractor](../topics/features/buildings/oil-extractor.md)
 * [Environment > Resources > Oil](../topics/environment/resources/oil.md)
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Features > Tiers](../topics/features/tiers.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript
 

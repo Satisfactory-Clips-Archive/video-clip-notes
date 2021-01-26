@@ -3,18 +3,28 @@ title: "January 22nd, 2020 Livestream Snutt & Jace Talk: What the community woul
 date: "2020-01-22"
 layout: transcript
 topics:
+    - "coffee-stainers/tim"
+    - "community"
+    - "features/equipment/jetpack"
     - "features/multiplayer"
     - "features/transportation/trains"
     - "features/transportation/vehicles"
+    - "satisfactory-updates/released/satisfactory-update-3"
+    - "technology/user-interface"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Snutt & Jace Talk: What the community would like to see in Update 3?
 https://www.youtube.com/watch?v=d_FZQ5KTWA0
 
 ### Topics
-* [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Community](../topics/community.md)
+* [Coffee Stainers > Tim](../topics/coffee-stainers/tim.md)
+* [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
+* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
 
 ### Transcript
 

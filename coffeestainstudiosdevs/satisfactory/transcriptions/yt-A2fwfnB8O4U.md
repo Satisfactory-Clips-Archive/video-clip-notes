@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=A2fwfnB8O4U
 
 ### Topics
+* [Features > Tiers](../topics/features/tiers.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Tiers](../topics/features/tiers.md)
 
 ### Transcript
 

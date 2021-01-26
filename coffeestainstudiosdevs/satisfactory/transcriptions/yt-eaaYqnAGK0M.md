@@ -3,14 +3,14 @@ title: "January 22nd, 2020 Livestream Jace Talk: The QA Site"
 date: "2020-01-22"
 layout: transcript
 topics:
-    - ""
+    - "community"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Jace Talk: The QA Site
 https://www.youtube.com/watch?v=eaaYqnAGK0M
 
 ### Topics
-
+* [Community](../topics/community.md)
 
 ### Transcript
 

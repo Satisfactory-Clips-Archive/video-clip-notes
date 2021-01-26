@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=9tdYBCwd5no
 
 ### Topics
-* [Mods](../topics/mods.md)
 * [Community](../topics/community.md)
+* [Mods](../topics/mods.md)
 
 ### Transcript
 

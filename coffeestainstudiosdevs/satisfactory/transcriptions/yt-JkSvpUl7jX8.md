@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=JkSvpUl7jX8
 
 ### Topics
-* [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
+* [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
 
 ### Transcript
 

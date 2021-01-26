@@ -3,14 +3,14 @@ title: "January 22nd, 2020 Livestream State of Dev: Biggest thing that's going o
 date: "2020-01-22"
 layout: transcript
 topics:
-    - ""
+    - "coffee-stainers"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## State of Dev: Biggest thing that's going on in the office right now.
 https://www.youtube.com/watch?v=-HN8rUEaVwY
 
 ### Topics
-
+* [Coffee Stainers](../topics/coffee-stainers.md)
 
 ### Transcript
 

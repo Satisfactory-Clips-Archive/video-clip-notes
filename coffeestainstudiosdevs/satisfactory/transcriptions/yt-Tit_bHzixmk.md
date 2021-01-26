@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=Tit_bHzixmk
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
 * [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript
 

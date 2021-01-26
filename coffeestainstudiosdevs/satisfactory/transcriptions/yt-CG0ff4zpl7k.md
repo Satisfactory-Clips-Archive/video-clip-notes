@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=CG0ff4zpl7k
 
 ### Topics
-* [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
 * [Community](../topics/community.md)
+* [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
 
 ### Transcript
 

@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=Keprp2vxOM8
 
 ### Topics
+* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Features > Buildings > Blender](../topics/features/buildings/blender.md)
 * [Trolling](../topics/trolling.md)
-* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 
 ### Transcript
 

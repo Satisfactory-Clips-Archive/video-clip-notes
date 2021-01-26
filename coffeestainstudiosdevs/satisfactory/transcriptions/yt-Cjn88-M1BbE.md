@@ -4,12 +4,14 @@ date: "2020-01-22"
 layout: transcript
 topics:
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: How much time between Experimental and Early Access?
 https://www.youtube.com/watch?v=Cjn88-M1BbE
 
 ### Topics
+* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript

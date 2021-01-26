@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=i1iL8KXmptE
 
 ### Topics
-* [Merch](../topics/merch.md)
 * [Features > Transportation > Vehicles > Factory Cart](../topics/features/transportation/vehicles/factory-cart.md)
+* [Merch](../topics/merch.md)
 
 ### Transcript
 

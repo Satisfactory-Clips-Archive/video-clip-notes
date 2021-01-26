@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=nT4pfUlmZBs
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > AWESOME Sink](../topics/features/buildings/awesome-sink.md)
+* [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript
 

@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=sag85tf3NQQ
 
 ### Topics
-* [Special Guests](../topics/special-guests.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
+* [Special Guests](../topics/special-guests.md)
 
 ### Transcript
 

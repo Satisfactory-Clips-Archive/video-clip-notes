@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=NQ8x2q2z55w
 
 ### Topics
+* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Buildings](../topics/features/buildings.md)
-* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 
 ### Transcript
 

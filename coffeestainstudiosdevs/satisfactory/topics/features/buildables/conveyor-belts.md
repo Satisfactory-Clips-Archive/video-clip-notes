@@ -53,6 +53,9 @@ date: Last Modified
 # August 18th, 2020 Livestream
 * Q&A: Will there ever be conveyor lift splitters & mergers ? https://clips.twitch.tv/MiniatureFlaccidSwanKAPOW
 
+# January 22nd, 2020 Livestream
+* Q&A: What do you think about Splitters that can split a certain percentage of the Belts? https://www.youtube.com/watch?v=GiOZBqdfrAQ
+
 # March 9th, 2019 Livestream
 * [Q&A: Are there plans to have an item filter device for Conveyor Belts?](../../../transcriptions/yt-qzDz2348s1Y.md) https://www.youtube.com/watch?v=qzDz2348s1Y
 * [Snutt Talk: Storage Containers](../../../transcriptions/yt-oQfZtyxDIrE.md) https://www.youtube.com/watch?v=oQfZtyxDIrE

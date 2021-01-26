@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=awAhXucxS-Y
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Community](../topics/community.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

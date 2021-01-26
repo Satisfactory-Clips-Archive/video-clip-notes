@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=TjSMwjueGc8
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript
 

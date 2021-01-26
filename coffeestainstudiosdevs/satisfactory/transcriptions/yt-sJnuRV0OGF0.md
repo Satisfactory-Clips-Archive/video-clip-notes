@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=sJnuRV0OGF0
 
 ### Topics
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 * [Environment > World Map](../topics/environment/world-map.md)
-* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 

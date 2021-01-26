@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=p-f_kfmUdR0
 
 ### Topics
-* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
+* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 
 ### Transcript
 

@@ -3,14 +3,16 @@ title: "January 22nd, 2020 Livestream Snutt & Jace Talk: Game delays"
 date: "2020-01-22"
 layout: transcript
 topics:
-    - ""
+    - "off-topic"
+    - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Snutt & Jace Talk: Game delays
 https://www.youtube.com/watch?v=xE2XbR8_jgA
 
 ### Topics
-
+* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Off-Topic](../topics/off-topic.md)
 
 ### Transcript
 

@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=6RV2jnHyFvI
 
 ### Topics
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Mods](../topics/mods.md)
-* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 

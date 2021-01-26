@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=F212AWqzBVI
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

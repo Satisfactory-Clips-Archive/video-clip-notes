@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=V4ZG9Ech4Es
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
 * [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

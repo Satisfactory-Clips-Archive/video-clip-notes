@@ -3,7 +3,6 @@ title: "November 17th, 2020 Livestream Q&A: Who is Hannah?"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "coffee-stainers"
     - "coffee-stainers/hannah"
     - "environment/world-map"
     - "story-lore"
@@ -14,7 +13,6 @@ https://www.youtube.com/watch?v=KwsiVfRUKNE
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Coffee Stainers](../topics/coffee-stainers.md)
 * [Story & Lore](../topics/story-lore.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 

@@ -22,6 +22,9 @@ date: Last Modified
 # August 25th, 2020 Livestream
 * Q&A: Explosive Barrels of Gas we can send through the rail guns ? https://clips.twitch.tv/CrowdedRespectfulNostrilNotATK
 
+# January 22nd, 2020 Livestream
+* [Q&A: Will Gas Masks be working when you sit in vehicles?](../../transcriptions/yt-qcOfYoEbhVI.md) https://www.youtube.com/watch?v=qcOfYoEbhVI
+
 # December 19th, 2019 Livestream
 * [Jace, Snutt, & Birk Talk: Testing weapons & animations](../../transcriptions/yt-BWn3_s89tYE.md) https://www.youtube.com/watch?v=BWn3_s89tYE
 

@@ -3,14 +3,14 @@ title: "January 22nd, 2020 Livestream Q&A: Do you have to wear a hat when you be
 date: "2020-01-22"
 layout: transcript
 topics:
-    - ""
+    - "community"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Do you have to wear a hat when you become CM of Coffee Stain
 https://www.youtube.com/watch?v=h4V2Fx6IXyI
 
 ### Topics
-
+* [Community](../topics/community.md)
 
 ### Transcript
 

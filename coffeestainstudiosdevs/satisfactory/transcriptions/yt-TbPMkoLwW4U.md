@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=TbPMkoLwW4U
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
-* [Features > Multiplayer](../topics/features/multiplayer.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
 
 ### Transcript
 

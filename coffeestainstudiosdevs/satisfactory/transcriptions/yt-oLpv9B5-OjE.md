@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=oLpv9B5-OjE
 
 ### Topics
+* [Technology > Graphics](../topics/technology/graphics.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Features > Buildings](../topics/features/buildings.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 

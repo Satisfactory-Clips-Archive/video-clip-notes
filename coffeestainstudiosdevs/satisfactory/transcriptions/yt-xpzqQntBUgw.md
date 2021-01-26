@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=xpzqQntBUgw
 
 ### Topics
-* [Localisation](../topics/localisation.md)
 * [Community](../topics/community.md)
+* [Localisation](../topics/localisation.md)
 
 ### Transcript
 

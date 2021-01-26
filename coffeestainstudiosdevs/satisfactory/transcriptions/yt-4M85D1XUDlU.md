@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=4M85D1XUDlU
 
 ### Topics
-* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
 ### Transcript
 

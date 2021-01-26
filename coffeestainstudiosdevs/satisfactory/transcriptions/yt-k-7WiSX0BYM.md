@@ -3,14 +3,14 @@ title: "January 22nd, 2020 Livestream Q&A: Console?"
 date: "2020-01-22"
 layout: transcript
 topics:
-    - ""
+    - "features/possible-features/console-release"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Console?
 https://www.youtube.com/watch?v=k-7WiSX0BYM
 
 ### Topics
-
+* [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)
 
 ### Transcript
 

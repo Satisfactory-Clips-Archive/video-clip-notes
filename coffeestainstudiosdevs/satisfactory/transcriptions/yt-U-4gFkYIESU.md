@@ -3,7 +3,6 @@ title: "December 15th, 2020 Livestream Snutt Talk: Guitars"
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "coffee-stainers"
     - "coffee-stainers/snutt"
     - "off-topic"
 ---
@@ -13,7 +12,6 @@ https://www.youtube.com/watch?v=U-4gFkYIESU
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Coffee Stainers](../topics/coffee-stainers.md)
 * [Off-Topic](../topics/off-topic.md)
 
 ### Transcript

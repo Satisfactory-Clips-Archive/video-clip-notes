@@ -416,6 +416,9 @@ date: Last Modified
 #### [October 20th, 2020 Livestream](./2020-10-20.md)
 * [Q&A: Will there be Priority Mergers for this Update?](./transcriptions/yt-sMidcvjGGOM.md) https://www.youtube.com/watch?v=sMidcvjGGOM
 
+#### [January 22nd, 2020 Livestream](./2020-01-22.md)
+* Q&A: What do you think about Splitters that can split a certain percentage of the Belts? https://www.youtube.com/watch?v=GiOZBqdfrAQ
+
 ### [Foundations](./topics/features/buildables/foundations.md)
 
 #### [January 19th, 2021 Livestream](./2021-01-19.md)
@@ -716,6 +719,9 @@ date: Last Modified
 
 #### [July 28th, 2020 Livestream](./2020-07-28.md)
 * Q&A: Satisfactory Console Release https://clips.twitch.tv/FragileNimbleEggnogDatSheffy
+
+#### [January 22nd, 2020 Livestream](./2020-01-22.md)
+* [Q&A: Console?](./transcriptions/yt-k-7WiSX0BYM.md) https://www.youtube.com/watch?v=k-7WiSX0BYM
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: Will you create Console version of Satisfactory?](./transcriptions/yt-_MGUbEI247M.md) https://www.youtube.com/watch?v=_MGUbEI247M
@@ -1405,6 +1411,9 @@ date: Last Modified
 ### [September 22nd, 2020 Livestream](./2020-09-22.md)
 * [Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)](./transcriptions/yt-oT2NLP9ZvGk.md) https://www.youtube.com/watch?v=oT2NLP9ZvGk
 
+### [January 22nd, 2020 Livestream](./2020-01-22.md)
+* [Snutt & Jace Talk: The state of Dedicated Servers](./transcriptions/yt-t9hoNpC4-Ik.md) https://www.youtube.com/watch?v=t9hoNpC4-Ik
+
 ## Pending
 
 ### [Satisfactory Update 4](./topics/satisfactory-updates/pending/satisfactory-update-4.md)
@@ -1543,6 +1552,14 @@ date: Last Modified
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](./transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
 
 ## Released
+
+### [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
+
+#### [January 22nd, 2020 Livestream](./2020-01-22.md)
+* [Q&A: Will you fix translations?](./transcriptions/yt-NJxOCbsJtZQ.md) https://www.youtube.com/watch?v=NJxOCbsJtZQ
+* [Q&A: Any downsides to playing experimental](./transcriptions/yt-PJEaT3SIv0U.md) https://www.youtube.com/watch?v=PJEaT3SIv0U
+* [Q&A: How much time between Experimental and Early Access?](./transcriptions/yt-Cjn88-M1BbE.md) https://www.youtube.com/watch?v=Cjn88-M1BbE
+* Q&A: Will Mods work correctly after the Update? https://www.youtube.com/watch?v=qf6QTYIHDaQ
 
 ### [Satisfactory Fluids Update](./topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 

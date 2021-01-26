@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=QXK9y3pnWGg
 
 ### Topics
-* [Environment > World Map](../topics/environment/world-map.md)
 * [Environment > Biomes > Unplanned Biomes > Underwater](../topics/environment/biomes/unplanned-biomes/underwater.md)
+* [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript
 

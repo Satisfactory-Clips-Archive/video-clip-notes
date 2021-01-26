@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=J_a6kzow6gk
 
 ### Topics
-* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 
 ### Transcript
 
