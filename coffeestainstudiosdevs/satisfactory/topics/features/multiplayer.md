@@ -101,5 +101,11 @@ date: Last Modified
 # August 11th, 2020 Livestream
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
 
+# January 22nd, 2020 Livestream
+* [Snutt & Jace Talk: What the community would like to see in Update 3?](../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0
+* [Q&A: Will Dedicated Servers improve performance for everyone?](../../transcriptions/yt-_hPGb4nGFvs.md) https://www.youtube.com/watch?v=_hPGb4nGFvs
+* [Q&A: Will the Dedicated Servers have some sort of permissions system?](../../transcriptions/yt-h6mpSh0JH5o.md) https://www.youtube.com/watch?v=h6mpSh0JH5o
+* [Snutt & Jace Talk: NAT](../../transcriptions/yt-4WFbYbEegN4.md) https://www.youtube.com/watch?v=4WFbYbEegN4
+
 # March 9th, 2019 Livestream
 * [Q&A: Do you want to support more than 4 people?](../../transcriptions/yt-wb5HY05QX9I.md) https://www.youtube.com/watch?v=wb5HY05QX9I

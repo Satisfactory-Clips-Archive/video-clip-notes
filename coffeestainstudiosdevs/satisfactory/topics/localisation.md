@@ -16,3 +16,6 @@ date: Last Modified
 
 # September 22nd, 2020 Livestream
 * [Snutt Talk: Localisation Update](../transcriptions/yt-olB0GBC1sZI.md) https://www.youtube.com/watch?v=olB0GBC1sZI
+
+# January 22nd, 2020 Livestream
+* [Q&A: Will you fix translations?](../transcriptions/yt-NJxOCbsJtZQ.md) https://www.youtube.com/watch?v=NJxOCbsJtZQ

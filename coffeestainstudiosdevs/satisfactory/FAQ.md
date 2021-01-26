@@ -254,6 +254,12 @@ date: Last Modified
 
 # Dedicated Servers
 
+## January 22nd, 2020
+* [Q&A: Dedicated Servers, will they cost anything?](./transcriptions/yt-SdB0QlhgmGs.md) https://www.youtube.com/watch?v=SdB0QlhgmGs
+* [Q&A: Dedicated Servers?](./transcriptions/yt-Qy10mQQMXXI.md) https://www.youtube.com/watch?v=Qy10mQQMXXI
+* [Q&A: Linux support for Dedicated Servers?](./transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
+* [Snutt & Jace Talk: The state of Dedicated Servers](./transcriptions/yt-t9hoNpC4-Ik.md) https://www.youtube.com/watch?v=t9hoNpC4-Ik
+
 ## September 1st, 2020
 * [Q&A: Dedicated Servers](./transcriptions/yt-z5bf3k7JWlg.md) https://www.youtube.com/watch?v=z5bf3k7JWlg
 * [Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content?](./transcriptions/yt-CGoHMrbwftU.md) https://www.youtube.com/watch?v=CGoHMrbwftU
@@ -561,6 +567,9 @@ date: Last Modified
 
 # Localisation
 
+## January 22nd, 2020
+* [Q&A: Will you fix translations?](./transcriptions/yt-NJxOCbsJtZQ.md) https://www.youtube.com/watch?v=NJxOCbsJtZQ
+
 ## November 24th, 2020
 * [Q&A: What other languages are going to be added?](./transcriptions/yt-xpzqQntBUgw.md) https://www.youtube.com/watch?v=xpzqQntBUgw
 
@@ -692,6 +701,9 @@ date: Last Modified
 ## December 19th, 2019
 * [Q&A: Human Elevators?](./transcriptions/yt-HGwoBSLqtcw.md) https://www.youtube.com/watch?v=HGwoBSLqtcw
 * [Q&A: Will there be more competitive stuff?](./transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
+
+## January 22nd, 2020
+* [Q&A: Are we going to be implmenting any of the ideas from Mods?](./transcriptions/yt-SUSCYnziYkI.md) https://www.youtube.com/watch?v=SUSCYnziYkI
 
 ## September 15th, 2020
 * [Q&A: Will there be a Map Editor?](./transcriptions/yt-MYno60AbSGk.md) https://www.youtube.com/watch?v=MYno60AbSGk
@@ -898,6 +910,11 @@ date: Last Modified
 * [Q&A: Are you adding support for Mac any time soon?](./transcriptions/yt-XQioxcXDRqc.md) https://www.youtube.com/watch?v=XQioxcXDRqc
 * [Q&A: Is Linux support planned in the future?](./transcriptions/yt-GR3xet5AyuE.md) https://www.youtube.com/watch?v=GR3xet5AyuE
 
+## January 22nd, 2020
+* [Q&A: Any downsides to playing experimental](./transcriptions/yt-PJEaT3SIv0U.md) https://www.youtube.com/watch?v=PJEaT3SIv0U
+* [Q&A: How much time between Experimental and Early Access?](./transcriptions/yt-Cjn88-M1BbE.md) https://www.youtube.com/watch?v=Cjn88-M1BbE
+* [Q&A: Linux support for Dedicated Servers?](./transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
+
 ## November 3rd, 2020
 * [Q&A: What's the difference between Experimental and the other version?](./transcriptions/yt-T6zmq2rGoHU.md) https://www.youtube.com/watch?v=T6zmq2rGoHU
 
@@ -960,6 +977,9 @@ date: Last Modified
 
 ## December 19th, 2019
 * [Q&A: Will price go up after Early Access ends?](./transcriptions/yt-TFg_ppmX8OE.md) https://www.youtube.com/watch?v=TFg_ppmX8OE
+
+## January 22nd, 2020
+* [Q&A: Are we getting Story?](./transcriptions/yt-0U_N0TCXqxU.md) https://www.youtube.com/watch?v=0U_N0TCXqxU
 
 ## September 15th, 2020
 * [Q&A: Full Release, 2021?](./transcriptions/yt-9Um_UtQI8yE.md) https://www.youtube.com/watch?v=9Um_UtQI8yE
@@ -1111,6 +1131,12 @@ date: Last Modified
 ## January 19th, 2021
 * [Q&A: Can we please get a Snow Biome?](./transcriptions/yt-QHVdhswD13w.md) https://www.youtube.com/watch?v=QHVdhswD13w
 * [Q&A: If the community made a Snow Biome, would you add that?](./transcriptions/yt-I8rWTBGdGio.md) https://www.youtube.com/watch?v=I8rWTBGdGio
+
+
+# Soundtrack
+
+## January 22nd, 2020
+* [Q&A: Are there plans to put the OST on Spotify?](./transcriptions/yt-z4cypywhIks.md) https://www.youtube.com/watch?v=z4cypywhIks
 
 
 # Special Guests

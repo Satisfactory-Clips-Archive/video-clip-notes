@@ -95,6 +95,15 @@ date: Last Modified
 # July 28th, 2020 Livestream
 * Q&A: Dedicated Server cost https://clips.twitch.tv/ConfidentLittleSnood4Head
 
+# January 22nd, 2020 Livestream
+* [Q&A: Dedicated Servers, will they cost anything?](../../../transcriptions/yt-SdB0QlhgmGs.md) https://www.youtube.com/watch?v=SdB0QlhgmGs
+* [Snutt & Jace Talk: The state of Dedicated Servers](../../../transcriptions/yt-t9hoNpC4-Ik.md) https://www.youtube.com/watch?v=t9hoNpC4-Ik
+* [Q&A: Dedicated Servers?](../../../transcriptions/yt-Qy10mQQMXXI.md) https://www.youtube.com/watch?v=Qy10mQQMXXI
+* [Q&A: Will Dedicated Servers improve performance for everyone?](../../../transcriptions/yt-_hPGb4nGFvs.md) https://www.youtube.com/watch?v=_hPGb4nGFvs
+* [Q&A: Linux support for Dedicated Servers?](../../../transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
+* [Q&A: Will the Dedicated Servers have some sort of permissions system?](../../../transcriptions/yt-h6mpSh0JH5o.md) https://www.youtube.com/watch?v=h6mpSh0JH5o
+* [Q&A: Will we need to buy a new copy for the server?](../../../transcriptions/yt-H6FZ4VqocHw.md) https://www.youtube.com/watch?v=H6FZ4VqocHw
+
 # March 9th, 2019 Livestream
 * [Q&A: Will Dedicated Servers and Mods be free?](../../../transcriptions/yt-WEq2xEXVVQ0.md) https://www.youtube.com/watch?v=WEq2xEXVVQ0
 * [Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](../../../transcriptions/yt-Cnw_Ow3K29I.md) https://www.youtube.com/watch?v=Cnw_Ow3K29I

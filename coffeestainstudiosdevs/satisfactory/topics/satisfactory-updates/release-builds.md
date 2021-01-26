@@ -34,6 +34,11 @@ date: Last Modified
 * Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 4) https://clips.twitch.tv/FrigidFragileCucumberOneHand
 * Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp
 
+# January 22nd, 2020 Livestream
+* [Q&A: How much time between Experimental and Early Access?](../../transcriptions/yt-Cjn88-M1BbE.md) https://www.youtube.com/watch?v=Cjn88-M1BbE
+* [Q&A: Any downsides to playing experimental](../../transcriptions/yt-PJEaT3SIv0U.md) https://www.youtube.com/watch?v=PJEaT3SIv0U
+* [Q&A: Linux support for Dedicated Servers?](../../transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
+
 # March 9th, 2019 Livestream
 * [Q&A: Is that the alpha build version?](../../transcriptions/yt-u9Vu9NIjiRs.md) https://www.youtube.com/watch?v=u9Vu9NIjiRs
 * [Jace Talk: All saves should work](../../transcriptions/yt-w9kJj1Hd-cs.md) https://www.youtube.com/watch?v=w9kJj1Hd-cs

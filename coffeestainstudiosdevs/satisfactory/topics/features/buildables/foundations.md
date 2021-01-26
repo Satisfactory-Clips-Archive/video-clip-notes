@@ -47,5 +47,9 @@ date: Last Modified
 # August 11th, 2020 Livestream
 * Q&A: Floating Factories vs. Structural Supports https://clips.twitch.tv/GiftedSincereDillDoubleRainbow
 
+# January 22nd, 2020 Livestream
+* [Snutt & Jace Talk: AWESOME Shop Teaser](../../../transcriptions/yt-0fiuHwwSrrI.md) https://www.youtube.com/watch?v=0fiuHwwSrrI
+* [Q&A: Alignment issues?](../../../transcriptions/yt-Wqkx9p4mbn0.md) https://www.youtube.com/watch?v=Wqkx9p4mbn0
+
 # March 9th, 2019 Livestream
 * [Q&A: Why do you guys not use the Foundations?](../../../transcriptions/yt-SjwuIUhqtM8.md) https://www.youtube.com/watch?v=SjwuIUhqtM8

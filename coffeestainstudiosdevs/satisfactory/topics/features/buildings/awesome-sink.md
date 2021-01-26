@@ -15,3 +15,6 @@ date: Last Modified
 
 # August 25th, 2020 Livestream
 * Q&A: Is the sink going to accept liquids in the future? https://clips.twitch.tv/ArtisticCoweringTortoiseRitzMitz
+
+# January 22nd, 2020 Livestream
+* Snutt & Jace Talk: Upcoming Things https://www.youtube.com/watch?v=EiVuur226E8

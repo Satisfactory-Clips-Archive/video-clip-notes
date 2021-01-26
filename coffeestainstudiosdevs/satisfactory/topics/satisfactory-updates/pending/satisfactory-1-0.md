@@ -63,6 +63,10 @@ date: Last Modified
 * Q&A: Will 1.0 require a reset of the game? https://clips.twitch.tv/SpoopyPlacidPepperoniSoonerLater
 * Q&A: When are Somersloops and Orbs have meaning? https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride
 
+# January 22nd, 2020 Livestream
+* [Q&A: Are we getting Story?](../../../transcriptions/yt-0U_N0TCXqxU.md) https://www.youtube.com/watch?v=0U_N0TCXqxU
+* [Q&A: Will there be DLC after 1.0?](../../../transcriptions/yt-FHqvzjGbhvg.md) https://www.youtube.com/watch?v=FHqvzjGbhvg
+
 # December 19th, 2019 Livestream
 * [Q&A: Will price go up after Early Access ends?](../../../transcriptions/yt-TFg_ppmX8OE.md) https://www.youtube.com/watch?v=TFg_ppmX8OE
 

@@ -46,5 +46,8 @@ date: Last Modified
 # July 28th, 2020 Livestream
 * Q&A: Has Pipe Overflow been discussed? https://clips.twitch.tv/VainArtsyLeopardUncleNox
 
+# January 22nd, 2020 Livestream
+* Q&A: What's the joke with Pipes, why do people want them? https://www.youtube.com/watch?v=LWyO9jzxduo
+
 # December 19th, 2019 Livestream
 * [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../../transcriptions/yt-krQI-cHEAl8.md) https://www.youtube.com/watch?v=krQI-cHEAl8

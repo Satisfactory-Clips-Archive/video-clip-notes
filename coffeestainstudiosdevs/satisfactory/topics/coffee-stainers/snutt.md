@@ -22,6 +22,9 @@ date: Last Modified
 # August 18th, 2020 Livestream
 * Q&A: Why does Snutt have many guitars? https://clips.twitch.tv/AverageRenownedAxeWholeWheat
 
+# January 22nd, 2020 Livestream
+* [Q&A: Why two Community Managers again?](../../transcriptions/yt-vr0RPVS158o.md) https://www.youtube.com/watch?v=vr0RPVS158o
+
 # December 19th, 2019 Livestream
 * [Q&A: What is the job of Community Managers?](../../transcriptions/yt-zaE2VeeV2mY.md) https://www.youtube.com/watch?v=zaE2VeeV2mY
 * [Q&A: Will Birk take Snutt's hat & put it on?](../../transcriptions/yt-QGR8OUtf08c.md) https://www.youtube.com/watch?v=QGR8OUtf08c

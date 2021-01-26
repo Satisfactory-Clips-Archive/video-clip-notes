@@ -164,6 +164,7 @@ date: Last Modified
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ## Released
+* [Satisfactory Update 2](./topics/satisfactory-updates/released/satisfactory-update-2.md)
 * [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Fluids Update](./topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
