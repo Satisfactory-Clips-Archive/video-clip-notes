@@ -4,8 +4,12 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Coffee Stainers > Simon
 
+# December 8th, 2020 Livestream
+* [State of Dev: Blame Simon](../../transcriptions/yt-H4gyZoXsfo0.md) https://www.youtube.com/watch?v=H4gyZoXsfo0
+
 # November 24th, 2020 Livestream
 * [Q&A: Any chance of Simon becoming 3rd Community Manager?](../../transcriptions/yt-ycNS0lA5JWc.md) https://www.youtube.com/watch?v=ycNS0lA5JWc
+* [Q&A: Simon is dead, did he run out of Alpha Keys?](../../transcriptions/yt-dj20zgoTvA0.md) https://www.youtube.com/watch?v=dj20zgoTvA0
 
 # December 19th, 2019 Livestream
 * [Q&A: What happened to the keys?](../../transcriptions/yt-Xv-yl9jnC4s.md) https://www.youtube.com/watch?v=Xv-yl9jnC4s

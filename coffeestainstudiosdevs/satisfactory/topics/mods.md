@@ -73,6 +73,9 @@ date: Last Modified
 # August 18th, 2020 Livestream
 * Q&A: Will you plan to add Steam Workshop support? https://clips.twitch.tv/SwissTameCoffeeDansGame
 
+# January 22nd, 2020 Livestream
+* Q&A: Will Mods work correctly after the Update? https://www.youtube.com/watch?v=qf6QTYIHDaQ
+
 # March 9th, 2019 Livestream
 * [Jace Talk: Mods](../transcriptions/yt-JPafvjU7Z0k.md) https://www.youtube.com/watch?v=JPafvjU7Z0k
 * [Q&A: Will Dedicated Servers and Mods be free?](../transcriptions/yt-WEq2xEXVVQ0.md) https://www.youtube.com/watch?v=WEq2xEXVVQ0

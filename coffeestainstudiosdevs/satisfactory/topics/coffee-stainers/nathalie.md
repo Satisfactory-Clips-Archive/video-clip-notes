@@ -7,6 +7,9 @@ date: Last Modified
 # December 8th, 2020 Livestream
 * [Jace Talk: Nathalie](../../transcriptions/yt-AmdGZXxyt6Y.md) https://www.youtube.com/watch?v=AmdGZXxyt6Y
 
+# November 17th, 2020 Livestream
+* [Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"](../../transcriptions/yt-hCcT5uhzwso.md) https://www.youtube.com/watch?v=hCcT5uhzwso
+
 # December 19th, 2019 Livestream
 * [Q&A: Favourite problem to solve in the UI so far?](../../transcriptions/yt-cONX37SiszU.md) https://www.youtube.com/watch?v=cONX37SiszU
 * [Q&A: What software does Nathalie use?](../../transcriptions/yt-mzJAHopMW8o.md) https://www.youtube.com/watch?v=mzJAHopMW8o

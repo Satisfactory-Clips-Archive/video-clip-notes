@@ -18,6 +18,10 @@ date: Last Modified
 # August 11th, 2020 Livestream
 * Q&A: New Apartment? https://clips.twitch.tv/CorrectAdorableDinosaurWoofer
 
+# January 22nd, 2020 Livestream
+* [Q&A: Why two Community Managers again?](../../transcriptions/yt-vr0RPVS158o.md) https://www.youtube.com/watch?v=vr0RPVS158o
+* [Q&A: Is Jace trying to go Super-Saiyan?](../../transcriptions/yt-ttGCkjfrRtY.md) https://www.youtube.com/watch?v=ttGCkjfrRtY
+
 # December 19th, 2019 Livestream
 * [Q&A: What is the job of Community Managers?](../../transcriptions/yt-zaE2VeeV2mY.md) https://www.youtube.com/watch?v=zaE2VeeV2mY
 * [Q&A: Can Jace smile for us?](../../transcriptions/yt-L5MBf2GoTxQ.md) https://www.youtube.com/watch?v=L5MBf2GoTxQ

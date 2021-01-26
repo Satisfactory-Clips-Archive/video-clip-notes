@@ -81,6 +81,9 @@ date: Last Modified
 # August 11th, 2020 Livestream
 * Q&A: Story / End-game? https://clips.twitch.tv/AmorphousVictoriousTrayPartyTime
 
+# January 22nd, 2020 Livestream
+* [Q&A: Are we getting Story?](../transcriptions/yt-0U_N0TCXqxU.md) https://www.youtube.com/watch?v=0U_N0TCXqxU
+
 # December 19th, 2019 Livestream
 * [Q&A: What's Hannah's take on rocks that aren't on the ground?](../transcriptions/yt-y8FchPasYvI.md) https://www.youtube.com/watch?v=y8FchPasYvI
 * [Q&A: Is there going to be a storyline?](../transcriptions/yt-mFxik_NlE0w.md) https://www.youtube.com/watch?v=mFxik_NlE0w

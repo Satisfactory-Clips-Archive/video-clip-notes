@@ -4,12 +4,6 @@ date: Last Modified
 ---
 # [Coffee Stainers](./topics/coffee-stainers.md)
 
-## [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Q&A: Who is Hannah?](./transcriptions/yt-KwsiVfRUKNE.md) https://www.youtube.com/watch?v=KwsiVfRUKNE
-
-## [September 1st, 2020 Livestream](./2020-09-01.md)
-* [Q&A: Let Hannah finish her work on the map before expanding?](./transcriptions/yt-wZOVw8KV1rQ.md) https://www.youtube.com/watch?v=wZOVw8KV1rQ
-
 ## [Hannah](./topics/coffee-stainers/hannah.md)
 
 ### [November 17th, 2020 Livestream](./2020-11-17.md)
@@ -1309,6 +1303,9 @@ date: Last Modified
 ## [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc
 
+## [January 22nd, 2020 Livestream](./2020-01-22.md)
+* Q&A: Will Mods work correctly after the Update? https://www.youtube.com/watch?v=qf6QTYIHDaQ
+
 ## [Mods vs. Features](./topics/mods/mods-vs-features.md)
 
 ### [January 19th, 2021 Livestream](./2021-01-19.md)
@@ -1647,6 +1644,9 @@ date: Last Modified
 
 ## [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John
+
+## [January 22nd, 2020 Livestream](./2020-01-22.md)
+* [Q&A: Are we getting Story?](./transcriptions/yt-0U_N0TCXqxU.md) https://www.youtube.com/watch?v=0U_N0TCXqxU
 
 ## [December 19th, 2019 Livestream](./2019-12-19.md)
 * [Q&A: Will Mercer Spheres and Somersloops be useful soon?](./transcriptions/yt-SYWPIjbe_4Y.md) https://www.youtube.com/watch?v=SYWPIjbe_4Y

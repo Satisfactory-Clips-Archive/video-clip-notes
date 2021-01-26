@@ -20,5 +20,8 @@ date: Last Modified
 * [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](../../../transcriptions/yt--sa8wjg4lYk.md) https://www.youtube.com/watch?v=-sa8wjg4lYk
 * [Q&A: Jetpack needs a Hover Mode?](../../../transcriptions/yt-zeXh53pKe0A.md) https://www.youtube.com/watch?v=zeXh53pKe0A
 
+# January 22nd, 2020 Livestream
+* [Snutt & Jace Talk: What the community would like to see in Update 3?](../../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0
+
 # March 9th, 2019 Livestream
 * [Q&A: What about a Jet Pack one that gives a small bonus of surviving a fall?](../../../transcriptions/yt-bDU3DaHcmKo.md) https://www.youtube.com/watch?v=bDU3DaHcmKo

@@ -34,6 +34,10 @@ date: Last Modified
 # August 18th, 2020 Livestream
 * Q&A: Is Satisfactory affected by Epic vs. Apple? https://clips.twitch.tv/FurryAwkwardStrawberryWoofer
 
+# January 22nd, 2020 Livestream
+* [Snutt & Jace Talk: Game delays](../transcriptions/yt-xE2XbR8_jgA.md) https://www.youtube.com/watch?v=xE2XbR8_jgA
+* [Q&A: Is Jace trying to go Super-Saiyan?](../transcriptions/yt-ttGCkjfrRtY.md) https://www.youtube.com/watch?v=ttGCkjfrRtY
+
 # December 19th, 2019 Livestream
 * Q&A: No Coffee in Coffee Stain? https://www.youtube.com/watch?v=bNX04zqQ-uY
 * [Q&A: Can Birk slap Jace?](../transcriptions/yt-BEOwkK8suFc.md) https://www.youtube.com/watch?v=BEOwkK8suFc
