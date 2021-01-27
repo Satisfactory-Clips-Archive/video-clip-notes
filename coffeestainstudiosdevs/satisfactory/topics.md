@@ -193,6 +193,4 @@ date: Last Modified
 * [Physics](./topics/technology/physics.md)
 * [Unreal Engine](./topics/technology/unreal-engine.md)
 * [User Interface](./topics/technology/user-interface.md)
-* [Tier 7](./topics/tier-7.md)
-* [Tier 8](./topics/tier-8.md)
 * [Trolling](./topics/trolling.md)

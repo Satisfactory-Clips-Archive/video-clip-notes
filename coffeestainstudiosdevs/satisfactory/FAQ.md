@@ -939,10 +939,18 @@ date: Last Modified
 #### [September 8th, 2020 Livestream](./2020-09-08.md)
 * [Q&A: What additions to Tier 7 might be coming & when ?](./transcriptions/yt-lGbJwWh5W_I.md) https://www.youtube.com/watch?v=lGbJwWh5W_I
 
+#### [August 18th, 2020 Livestream](./2020-08-18.md)
+* Q&A: Might we see additions to Tier 7 before the end of the year? https://clips.twitch.tv/DoubtfulNaiveCroquettePeoplesChamp
+
 ### [Tier 8](./topics/features/tiers/tier-8.md)
 
 #### [December 8th, 2020 Livestream](./2020-12-08.md)
 * [Q&A: Is Tier 8 last Tier for the game?](./transcriptions/yt-FhoIzj_QLm0.md) https://www.youtube.com/watch?v=FhoIzj_QLm0
+
+#### [August 18th, 2020 Livestream](./2020-08-18.md)
+* Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit
+* Q&A: What's in Tier 8? (part 1) https://clips.twitch.tv/RelievedRelievedCroissantMingLee
+* Q&A: What's in Tier 8? (part 2) https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu
 
 ## Transportation
 
@@ -1868,18 +1876,6 @@ date: Last Modified
 
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: Controller support?](./transcriptions/yt-XrsD3h62ils.md) https://www.youtube.com/watch?v=XrsD3h62ils
-
-# [Tier 7](./topics/tier-7.md)
-
-## [August 18th, 2020 Livestream](./2020-08-18.md)
-* Q&A: Might we see additions to Tier 7 before the end of the year? https://clips.twitch.tv/DoubtfulNaiveCroquettePeoplesChamp
-
-# [Tier 8](./topics/tier-8.md)
-
-## [August 18th, 2020 Livestream](./2020-08-18.md)
-* Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit
-* Q&A: What's in Tier 8? (part 1) https://clips.twitch.tv/RelievedRelievedCroissantMingLee
-* Q&A: What's in Tier 8? (part 2) https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu
 
 # [Trolling](./topics/trolling.md)
 
