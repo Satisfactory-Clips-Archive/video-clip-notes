@@ -4,7 +4,6 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "features/tiers"
     - "features/tiers/tier-7"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -12,9 +11,8 @@ topics:
 https://www.youtube.com/watch?v=xmZ--a6nkQU
 
 ### Topics
-* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Features > Tiers](../topics/features/tiers.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 
 ### Transcript
 

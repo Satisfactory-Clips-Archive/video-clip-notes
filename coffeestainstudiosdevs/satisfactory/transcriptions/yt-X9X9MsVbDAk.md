@@ -3,7 +3,6 @@ title: "December 8th, 2020 Livestream Snutt Talk: Update 4 Tier 7 changes & Earl
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "features/tiers"
     - "features/tiers/tier-7"
     - "satisfactory-updates/pending/satisfactory-1-0"
     - "satisfactory-updates/pending/satisfactory-update-4"
@@ -14,11 +13,10 @@ topics:
 https://www.youtube.com/watch?v=X9X9MsVbDAk
 
 ### Topics
+* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Features > Tiers](../topics/features/tiers.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
-* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 
 ### Transcript
 

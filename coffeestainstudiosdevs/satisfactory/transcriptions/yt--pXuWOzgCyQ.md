@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: Did you mean to let us get above Tier 3 
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "features/tiers"
+    - "features/tiers/tier-3"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Did you mean to let us get above Tier 3 in the crashed ships?
 https://www.youtube.com/watch?v=-pXuWOzgCyQ
 
 ### Topics
-* [Features > Tiers](../topics/features/tiers.md)
+* [Features > Tiers > Tier 3](../topics/features/tiers/tier-3.md)
 
 ### Transcript
 

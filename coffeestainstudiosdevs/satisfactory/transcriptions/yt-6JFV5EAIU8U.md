@@ -4,12 +4,14 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "features/buildings"
+    - "technology/physics"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When will we implement gravity physics to the Buildings?
 https://www.youtube.com/watch?v=6JFV5EAIU8U
 
 ### Topics
+* [Technology > Physics](../topics/technology/physics.md)
 * [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript

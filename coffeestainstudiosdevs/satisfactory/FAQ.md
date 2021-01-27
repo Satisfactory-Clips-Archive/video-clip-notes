@@ -870,7 +870,6 @@ date: Last Modified
 ## [Tiers](./topics/features/tiers.md)
 
 ### [December 8th, 2020 Livestream](./2020-12-08.md)
-* [Q&A: Is Tier 8 last Tier for the game?](./transcriptions/yt-FhoIzj_QLm0.md) https://www.youtube.com/watch?v=FhoIzj_QLm0
 * [Q&A: Do you guys know what is going to be the last Tier in the game?](./transcriptions/yt-ZOmxbDTRWmg.md) https://www.youtube.com/watch?v=ZOmxbDTRWmg
 
 ### [November 17th, 2020 Livestream](./2020-11-17.md)
@@ -883,9 +882,6 @@ date: Last Modified
 * [Q&A: Will there be more adjustments to progression?](./transcriptions/yt-9hON4HpgaXU.md) https://www.youtube.com/watch?v=9hON4HpgaXU
 * [Q&A: Tier 9, 10, 11, 12?](./transcriptions/yt-NU1DLvv4zb0.md) https://www.youtube.com/watch?v=NU1DLvv4zb0
 
-### [September 8th, 2020 Livestream](./2020-09-08.md)
-* [Q&A: What additions to Tier 7 might be coming & when ?](./transcriptions/yt-lGbJwWh5W_I.md) https://www.youtube.com/watch?v=lGbJwWh5W_I
-
 ### [July 28th, 2020 Livestream](./2020-07-28.md)
 * Jace Talk: Content & Tiers https://clips.twitch.tv/SwissFurryPlumPlanking
 
@@ -894,18 +890,10 @@ date: Last Modified
 #### [September 8th, 2020 Livestream](./2020-09-08.md)
 * [Q&A: What additions to Tier 7 might be coming & when ?](./transcriptions/yt-lGbJwWh5W_I.md) https://www.youtube.com/watch?v=lGbJwWh5W_I
 
-#### [August 18th, 2020 Livestream](./2020-08-18.md)
-* Q&A: Might we see additions to Tier 7 before the end of the year? https://clips.twitch.tv/DoubtfulNaiveCroquettePeoplesChamp
-
 ### [Tier 8](./topics/features/tiers/tier-8.md)
 
 #### [December 8th, 2020 Livestream](./2020-12-08.md)
 * [Q&A: Is Tier 8 last Tier for the game?](./transcriptions/yt-FhoIzj_QLm0.md) https://www.youtube.com/watch?v=FhoIzj_QLm0
-
-#### [August 18th, 2020 Livestream](./2020-08-18.md)
-* Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit
-* Q&A: What's in Tier 8? (part 1) https://clips.twitch.tv/RelievedRelievedCroissantMingLee
-* Q&A: What's in Tier 8? (part 2) https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu
 
 ## Transportation
 

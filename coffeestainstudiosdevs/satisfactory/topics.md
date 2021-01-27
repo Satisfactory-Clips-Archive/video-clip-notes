@@ -9,6 +9,7 @@ date: Last Modified
 * [Hannah](./topics/coffee-stainers/hannah.md)
 * [Jace](./topics/coffee-stainers/jace.md)
 * [Kristoffer](./topics/coffee-stainers/kristoffer.md)
+* [Linus](./topics/coffee-stainers/linus.md)
 * [Mark](./topics/coffee-stainers/mark.md)
 * [Nathalie](./topics/coffee-stainers/nathalie.md)
 * [Simon](./topics/coffee-stainers/simon.md)
@@ -16,6 +17,7 @@ date: Last Modified
 * [Tim](./topics/coffee-stainers/tim.md)
 
 # [Community](./topics/community.md)
+* [Joshie](./topics/community/joshie.md)
 * [Wiki](./topics/community/wiki.md)
 
 # Environment
@@ -109,6 +111,13 @@ date: Last Modified
 * [Nuclear Waste](./topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
 ## [Tiers](./topics/features/tiers.md)
+* [Tier 0](./topics/features/tiers/tier-0.md)
+* [Tier 1](./topics/features/tiers/tier-1.md)
+* [Tier 2](./topics/features/tiers/tier-2.md)
+* [Tier 3](./topics/features/tiers/tier-3.md)
+* [Tier 4](./topics/features/tiers/tier-4.md)
+* [Tier 5](./topics/features/tiers/tier-5.md)
+* [Tier 6](./topics/features/tiers/tier-6.md)
 * [Tier 7](./topics/features/tiers/tier-7.md)
 * [Tier 8](./topics/features/tiers/tier-8.md)
 * [Tier 9](./topics/features/tiers/tier-9.md)
@@ -181,6 +190,9 @@ date: Last Modified
 
 # [Technology](./topics/technology.md)
 * [Graphics](./topics/technology/graphics.md)
+* [Physics](./topics/technology/physics.md)
 * [Unreal Engine](./topics/technology/unreal-engine.md)
 * [User Interface](./topics/technology/user-interface.md)
+* [Tier 7](./topics/tier-7.md)
+* [Tier 8](./topics/tier-8.md)
 * [Trolling](./topics/trolling.md)

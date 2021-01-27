@@ -3,6 +3,7 @@ title: "November 24th, 2020 Livestream Q&A: Jace - F, Marry, Kill: either Snutt,
 date: "2020-11-24"
 layout: transcript
 topics:
+    - "community/joshie"
     - "off-topic"
     - "special-guests"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=1GtBsosr66E
 
 ### Topics
+* [Community > Joshie](../topics/community/joshie.md)
 * [Special Guests](../topics/special-guests.md)
 * [Off-Topic](../topics/off-topic.md)
 

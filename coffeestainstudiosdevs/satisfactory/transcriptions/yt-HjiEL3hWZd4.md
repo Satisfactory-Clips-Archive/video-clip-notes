@@ -4,7 +4,6 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "environment/resource-wells"
-    - "features/tiers"
     - "features/tiers/tier-8"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
@@ -13,10 +12,9 @@ topics:
 https://www.youtube.com/watch?v=HjiEL3hWZd4
 
 ### Topics
-* [Environment > Resource Wells](../topics/environment/resource-wells.md)
-* [Features > Tiers](../topics/features/tiers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
+* [Environment > Resource Wells](../topics/environment/resource-wells.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -4,12 +4,14 @@ date: "2020-11-03"
 layout: transcript
 topics:
     - "features/transportation/vehicles"
+    - "technology/physics"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Are there physics safety's in place on vehicles?
 https://www.youtube.com/watch?v=SOX83BVfEK8
 
 ### Topics
+* [Technology > Physics](../topics/technology/physics.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 
 ### Transcript

@@ -4,12 +4,14 @@ date: "2020-09-29"
 layout: transcript
 topics:
     - "features/transportation/vehicles/truck"
+    - "technology/physics"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: How high on the priority list is Truck Physics?
 https://www.youtube.com/watch?v=RdNktCE1Pek
 
 ### Topics
+* [Technology > Physics](../topics/technology/physics.md)
 * [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
 
 ### Transcript

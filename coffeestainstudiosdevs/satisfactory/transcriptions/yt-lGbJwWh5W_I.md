@@ -3,7 +3,6 @@ title: "September 8th, 2020 Livestream Q&A: What additions to Tier 7 might be co
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "features/tiers"
     - "features/tiers/tier-7"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
@@ -11,7 +10,6 @@ topics:
 https://www.youtube.com/watch?v=lGbJwWh5W_I
 
 ### Topics
-* [Features > Tiers](../topics/features/tiers.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 
 ### Transcript
