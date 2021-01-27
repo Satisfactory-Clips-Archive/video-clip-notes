@@ -2,9 +2,9 @@
 title: "Satisfactory Updates > Satisfactory 2017"
 date: Last Modified
 ---
-[Topics](../../topics.md) > Satisfactory Updates > Satisfactory 2017
+# [Topics](../../topics.md) > Satisfactory Updates > Satisfactory 2017
 
-# December 8th, 2020 Livestream
+## December 8th, 2020 Livestream
 * [Q&A: Please reintroduce the Mining mini-game?](../../transcriptions/yt-LTpEW1G0VH0.md) https://www.youtube.com/watch?v=LTpEW1G0VH0
 * [Q&A: When you showcase removed stuff can you speak a little bit about why it was removed?](../../transcriptions/yt-cHAsOhYP_0c.md) https://www.youtube.com/watch?v=cHAsOhYP_0c
 * [Q&A: Can we have this build?](../../transcriptions/yt-w2P1SCx0YqY.md) https://www.youtube.com/watch?v=w2P1SCx0YqY

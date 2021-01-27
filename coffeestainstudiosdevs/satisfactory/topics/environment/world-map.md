@@ -2,16 +2,16 @@
 title: "Environment > World Map"
 date: Last Modified
 ---
-[Topics](../../topics.md) > Environment > World Map
+# [Topics](../../topics.md) > Environment > World Map
 
-# January 26th, 2021 Livestream
+## January 26th, 2021 Livestream
 * [Jace Talk: There are no plans for increasing the size of the Map](../../transcriptions/yt-aCvn84FtDMI.md) https://www.youtube.com/watch?v=aCvn84FtDMI
 * [Q&A: Is there another area rework like the desert update happening?](../../transcriptions/yt-sV-kvBvlTXc.md) https://www.youtube.com/watch?v=sV-kvBvlTXc
 * [Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?](../../transcriptions/yt-gqIBbkGCxdI.md) https://www.youtube.com/watch?v=gqIBbkGCxdI
 * [Q&A: Can add a basic non-interactive local Map from the start?](../../transcriptions/yt-9h4HwEuF2_U.md) https://www.youtube.com/watch?v=9h4HwEuF2_U
 * [Q&A: What is blocking you now from releasing Update 4, Story elements, Buildings, Maps?](../../transcriptions/yt-pCwOyYQ1f6Y.md) https://www.youtube.com/watch?v=pCwOyYQ1f6Y
 
-# January 19th, 2021 Livestream
+## January 19th, 2021 Livestream
 * [Q&A: Do we know where the new Resource Wells be placed?](../../transcriptions/yt-pMAE5-tkdGg.md) https://www.youtube.com/watch?v=pMAE5-tkdGg
 * [Snutt & Mark Talk: Building a megabase over the top of a new Resource Well or new mountain.](../../transcriptions/yt-KF8AhiHW1o0.md) https://www.youtube.com/watch?v=KF8AhiHW1o0
 * [Q&A: Are you still planning Underground Biomes?](../../transcriptions/yt-zho1Gn_x76w.md) https://www.youtube.com/watch?v=zho1Gn_x76w
@@ -19,10 +19,10 @@ date: Last Modified
 * [Q&A: What about the island off to the west of the Map?](../../transcriptions/yt-VjKPXr_e5yk.md) https://www.youtube.com/watch?v=VjKPXr_e5yk
 * [Q&A: What about an opional grid to put all Foundations all aligned around the Map?](../../transcriptions/yt-Xi9S_sVklB8.md) https://www.youtube.com/watch?v=Xi9S_sVklB8
 
-# January 12th, 2021 Livestream
+## January 12th, 2021 Livestream
 * [Q&A: Which Biome will be rebuilt?](../../transcriptions/yt-5v0_pFbQLF4.md) https://www.youtube.com/watch?v=5v0_pFbQLF4
 
-# December 15th, 2020 Livestream
+## December 15th, 2020 Livestream
 * [Q&A: Will we add more to the Map?](../../transcriptions/yt-NeQpezHiVzI.md) https://www.youtube.com/watch?v=NeQpezHiVzI
 * [Q&A: Will there be a Snow Biome?](../../transcriptions/yt-iyhdKRg1b0A.md) https://www.youtube.com/watch?v=iyhdKRg1b0A
 * [Q&A: When are you going to expand the map?](../../transcriptions/yt-axmmm-ituSg.md) https://www.youtube.com/watch?v=axmmm-ituSg
@@ -30,15 +30,15 @@ date: Last Modified
 * [Q&A: Are there hidden secrets and cameos in the game?](../../transcriptions/yt-57Cc22ZK5aw.md) https://www.youtube.com/watch?v=57Cc22ZK5aw
 * [Q&A: Will the game in the future have some cataclysms or breakdowns?](../../transcriptions/yt-O02Z9u7DpPo.md) https://www.youtube.com/watch?v=O02Z9u7DpPo
 
-# December 8th, 2020 Livestream
+## December 8th, 2020 Livestream
 * [Q&A: The Map?](../../transcriptions/yt-y7chTv597Cw.md) https://www.youtube.com/watch?v=y7chTv597Cw
 
-# November 24th, 2020 Livestream
+## November 24th, 2020 Livestream
 * [Q&A: Is terraforming possible any time in the future?](../../transcriptions/yt-_fE2dbyaJZg.md) https://www.youtube.com/watch?v=_fE2dbyaJZg
 * [Q&A: Procedural generation of the World?](../../transcriptions/yt-q6tkuGjM4zY.md) https://www.youtube.com/watch?v=q6tkuGjM4zY
 * [Q&A: Any plans for underwater mechanics?](../../transcriptions/yt-nQplpfNLru8.md) https://www.youtube.com/watch?v=nQplpfNLru8
 
-# November 17th, 2020 Livestream
+## November 17th, 2020 Livestream
 * [Q&A: Quality of Life regards the Map like floating water falls, rocks, holes in the map?](../../transcriptions/yt-zupxMlvBIog.md) https://www.youtube.com/watch?v=zupxMlvBIog
 * [Trolling: Procedural Generation](../../transcriptions/yt-bvjKY6CcnLI.md) https://www.youtube.com/watch?v=bvjKY6CcnLI
 * [Q&A: The world should react to the invasive destruction and polluting?](../../transcriptions/yt-G0vwHL092w4.md) https://www.youtube.com/watch?v=G0vwHL092w4
@@ -47,45 +47,45 @@ date: Last Modified
 * [Q&A: Are there any plans to add an option to disable the day/night cycle?](../../transcriptions/yt-15jG0o32Dqk.md) https://www.youtube.com/watch?v=15jG0o32Dqk
 * [Q&A: Who is Hannah?](../../transcriptions/yt-KwsiVfRUKNE.md) https://www.youtube.com/watch?v=KwsiVfRUKNE
 
-# November 10th, 2020 Livestream
+## November 10th, 2020 Livestream
 * Q&A: Any plans to expand the Map / add new Biomes? https://www.youtube.com/watch?v=oZhfgq9vdKg
 * [Q&A: Will the dark areas of the Map open up soon?](../../transcriptions/yt-MTkj1xIXfhw.md) https://www.youtube.com/watch?v=MTkj1xIXfhw
 * [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](../../transcriptions/yt-IFxnvuYEVtk.md) https://www.youtube.com/watch?v=IFxnvuYEVtk
 * [Q&A: Any plans to add more animals to enemies or dangers?](../../transcriptions/yt-RuzL7DdAJ1o.md) https://www.youtube.com/watch?v=RuzL7DdAJ1o
 
-# November 3rd, 2020 Livestream
+## November 3rd, 2020 Livestream
 * [Q&A: Will the Map become bigger?](../../transcriptions/yt-1pzu9fbySq0.md) https://www.youtube.com/watch?v=1pzu9fbySq0
 * [Q&A: Map is amazing, but infinite generation?](../../transcriptions/yt-2yoGAha7ju0.md) https://www.youtube.com/watch?v=2yoGAha7ju0
 * [Q&A: Is it going to be possible to create randomly generated Resources on the Map?](../../transcriptions/yt-xeAXhjMWZpI.md) https://www.youtube.com/watch?v=xeAXhjMWZpI
 * Q&A: The Map of the Dedicted Server, currently it doesn't have enough nodes for a Competitive map https://www.youtube.com/watch?v=rtOmNkt5whw
 * [Q&A: Shouldn't Vehicles despawn after they fall off the World?](../../transcriptions/yt-3n1NZE7lkOk.md) https://www.youtube.com/watch?v=3n1NZE7lkOk
 
-# October 27th, 2020 Livestream
+## October 27th, 2020 Livestream
 * [Q&A: What about a new Map?](../../transcriptions/yt-O9cRWaKhSRo.md) https://www.youtube.com/watch?v=O9cRWaKhSRo
 
-# October 20th, 2020 Livestream
+## October 20th, 2020 Livestream
 * [Q&A: Can we get different spawn points not linked to the Hub?](../../transcriptions/yt-DExdQ8KOKEA.md) https://www.youtube.com/watch?v=DExdQ8KOKEA
 
-# October 6th, 2020 Livestream
+## October 6th, 2020 Livestream
 * [Q&A: How is the World Building going?](../../transcriptions/yt-nFJUho2El3Y.md) https://www.youtube.com/watch?v=nFJUho2El3Y
 * [Q&A: Did the Procedural part look awful?](../../transcriptions/yt-U7io7UQarus.md) https://www.youtube.com/watch?v=U7io7UQarus
 * [Q&A: Is procedural hard to get balanced?](../../transcriptions/yt-aeBAgps_tnM.md) https://www.youtube.com/watch?v=aeBAgps_tnM
 * [Q&A: Map Editor?](../../transcriptions/yt-Oq4gGKBYHQI.md) https://www.youtube.com/watch?v=Oq4gGKBYHQI
 
-# September 29th, 2020 Livestream
+## September 29th, 2020 Livestream
 * [Q&A: Will the Map change for 1.0?](../../transcriptions/yt-5AsSss96Idw.md) https://www.youtube.com/watch?v=5AsSss96Idw
 
-# September 22nd, 2020 Livestream
+## September 22nd, 2020 Livestream
 * [Q&A: Any chance of a new Map?](../../transcriptions/yt-GcWk8f29OBM.md) https://www.youtube.com/watch?v=GcWk8f29OBM
 * [Q&A: Snowy Biome confirmed?](../../transcriptions/yt-Yend7bHTMvw.md) https://www.youtube.com/watch?v=Yend7bHTMvw
 
-# September 15th, 2020 Livestream
+## September 15th, 2020 Livestream
 * [Q&A: Will the Map be bigger?](../../transcriptions/yt-b49tcUeMO3E.md) https://www.youtube.com/watch?v=b49tcUeMO3E
 * [Q&A: Snow Area Confirmed?](../../transcriptions/yt-yUDtq7D8XU8.md) https://www.youtube.com/watch?v=yUDtq7D8XU8
 * [Q&A: Will there be a Map Editor?](../../transcriptions/yt-MYno60AbSGk.md) https://www.youtube.com/watch?v=MYno60AbSGk
 * [Q&A: Any plans for randomly generated worlds / Procedurally Generated maps?](../../transcriptions/yt-eo_84m3ZYfQ.md) https://www.youtube.com/watch?v=eo_84m3ZYfQ
 
-# September 8th, 2020 Livestream
+## September 8th, 2020 Livestream
 * [Q&A: Any plans for new Maps?](../../transcriptions/yt-zBv2UdKrYtI.md) https://www.youtube.com/watch?v=zBv2UdKrYtI
 * [Q&A: Extension on current Map?](../../transcriptions/yt-Ad3tjOha0JI.md) https://www.youtube.com/watch?v=Ad3tjOha0JI
 * [Q&A: Even more Biomes coming to play?](../../transcriptions/yt-VgDl00Ycn3U.md) https://www.youtube.com/watch?v=VgDl00Ycn3U
@@ -97,11 +97,11 @@ date: Last Modified
 * [Jace & Snutt Talk: Map Modding](../../transcriptions/yt-4nzTdrIc2hg.md) https://www.youtube.com/watch?v=4nzTdrIc2hg
 * [Q&A: Time to invest in Map Modding?](../../transcriptions/yt-a5PSHoSuXec.md) https://www.youtube.com/watch?v=a5PSHoSuXec
 
-# September 1st, 2020 Livestream
+## September 1st, 2020 Livestream
 * [Q&A: Map expansion ?](../../transcriptions/yt-2ZHnQ9U4f9I.md) https://www.youtube.com/watch?v=2ZHnQ9U4f9I
 * [Q&A: Let Hannah finish her work on the map before expanding?](../../transcriptions/yt-wZOVw8KV1rQ.md) https://www.youtube.com/watch?v=wZOVw8KV1rQ
 
-# August 25th, 2020 Livestream
+## August 25th, 2020 Livestream
 * Q&A: Underwater biome when? https://clips.twitch.tv/HonorableCautiousDonutStoneLightning
 * Q&A: Terraforming? https://clips.twitch.tv/CourageousTardyLarkShazBotstix
 * Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John
@@ -114,21 +114,21 @@ date: Last Modified
 * Snutt Talk: Map Builders (Part 2) https://clips.twitch.tv/RichResourcefulSwanRlyTho
 * Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ? https://clips.twitch.tv/VibrantExpensiveRaisinStinkyCheese
 
-# August 18th, 2020 Livestream
+## August 18th, 2020 Livestream
 * Q&A: Will there be any underwater resources? https://clips.twitch.tv/RelievedCleanBibimbapDancingBanana
 * Q&A: Terraforming? https://clips.twitch.tv/AmericanSpineyWitchTinyFace
 * Q&A: Any ice/snow biome plans? https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl
 * Q&A: Any different maps planned? https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat
 * Q&A: Will you be able to create your own map? https://clips.twitch.tv/ChillyRockyWalrusUnSane
 
-# August 11th, 2020 Livestream
+## August 11th, 2020 Livestream
 * Q&A: Randomly Generated Maps: https://clips.twitch.tv/OilyBloodyMangoFutureMan
 * Q&A: Do you plan to release a World Editor? https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank
 
-# July 28th, 2020 Livestream
+## July 28th, 2020 Livestream
 * Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5
 
-# December 19th, 2019 Livestream
+## December 19th, 2019 Livestream
 * [Q&A: Is Hannah working on a new level?](../../transcriptions/yt-gcdDfoBWaog.md) https://www.youtube.com/watch?v=gcdDfoBWaog
 * [Q&A: What's Hannah's take on rocks that aren't on the ground?](../../transcriptions/yt-y8FchPasYvI.md) https://www.youtube.com/watch?v=y8FchPasYvI
 * [Q&A: What's Hannah's favourite part of level design?](../../transcriptions/yt-sDZjuyYO-zE.md) https://www.youtube.com/watch?v=sDZjuyYO-zE
@@ -140,7 +140,7 @@ date: Last Modified
 * [Q&A: Underwater Worlds?](../../transcriptions/yt-QXK9y3pnWGg.md) https://www.youtube.com/watch?v=QXK9y3pnWGg
 * [Q&A: Is there going to be a way to destroy the fart rock?](../../transcriptions/yt-byPiSQZOAhw.md) https://www.youtube.com/watch?v=byPiSQZOAhw
 
-# March 9th, 2019 Livestream
+## March 9th, 2019 Livestream
 * [Q&A: The map is pre-made, not procedurally generated?](../../transcriptions/yt-229Wl8AMQx8.md) https://www.youtube.com/watch?v=229Wl8AMQx8
 * [Q&A: Is the Desert Biome available in the beta?](../../transcriptions/yt-JMQotRaN9Bs.md) https://www.youtube.com/watch?v=JMQotRaN9Bs
 * [Jace Talk: The Map is not procedural](../../transcriptions/yt-lTWfWXB6IG8.md) https://www.youtube.com/watch?v=lTWfWXB6IG8

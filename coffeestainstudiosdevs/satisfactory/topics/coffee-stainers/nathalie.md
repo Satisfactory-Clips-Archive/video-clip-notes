@@ -2,18 +2,18 @@
 title: "Coffee Stainers > Nathalie"
 date: Last Modified
 ---
-[Topics](../../topics.md) > Coffee Stainers > Nathalie
+# [Topics](../../topics.md) > Coffee Stainers > Nathalie
 
-# January 26th, 2021 Livestream
+## January 26th, 2021 Livestream
 * State of Dev: User Interface changes https://www.youtube.com/watch?v=XGNTN8I4PL0
 
-# December 8th, 2020 Livestream
+## December 8th, 2020 Livestream
 * [Jace Talk: Nathalie](../../transcriptions/yt-AmdGZXxyt6Y.md) https://www.youtube.com/watch?v=AmdGZXxyt6Y
 
-# November 17th, 2020 Livestream
+## November 17th, 2020 Livestream
 * [Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"](../../transcriptions/yt-hCcT5uhzwso.md) https://www.youtube.com/watch?v=hCcT5uhzwso
 
-# December 19th, 2019 Livestream
+## December 19th, 2019 Livestream
 * [Q&A: Favourite problem to solve in the UI so far?](../../transcriptions/yt-cONX37SiszU.md) https://www.youtube.com/watch?v=cONX37SiszU
 * [Q&A: What software does Nathalie use?](../../transcriptions/yt-mzJAHopMW8o.md) https://www.youtube.com/watch?v=mzJAHopMW8o
 * [Q&A: Do you know how much we love you?](../../transcriptions/yt-EBG0144tNiQ.md) https://www.youtube.com/watch?v=EBG0144tNiQ

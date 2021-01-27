@@ -2,21 +2,21 @@
 title: "Satisfactory Updates > Released > Satisfactory Fluids Update"
 date: Last Modified
 ---
-[Topics](../../../topics.md) > Satisfactory Updates > Released > Satisfactory Fluids Update
+# [Topics](../../../topics.md) > Satisfactory Updates > Released > Satisfactory Fluids Update
 
-# January 19th, 2021 Livestream
+## January 19th, 2021 Livestream
 * [Snutt & Mark Talk: Retaining legacy recipes with new buildings](../../../transcriptions/yt-ETgrEgA1-7Q.md) https://www.youtube.com/watch?v=ETgrEgA1-7Q
 
-# January 12th, 2021 Livestream
+## January 12th, 2021 Livestream
 * [State of Dev - The Blender™](../../../transcriptions/yt-XBt0OWqSRPA.md) https://www.youtube.com/watch?v=XBt0OWqSRPA
 
-# December 8th, 2020 Livestream
+## December 8th, 2020 Livestream
 * [Snutt Talk: Update 4 Tier 7 changes & Early Access](../../../transcriptions/yt-X9X9MsVbDAk.md) https://www.youtube.com/watch?v=X9X9MsVbDAk
 
-# November 17th, 2020 Livestream
+## November 17th, 2020 Livestream
 * [Q&A: Why did you change the minimum length of Pipes ?](../../../transcriptions/yt-l8e-RamsN-U.md) https://www.youtube.com/watch?v=l8e-RamsN-U
 
-# November 10th, 2020 Livestream
+## November 10th, 2020 Livestream
 * [Snutt & Jace Talk: Vague Roadmap, Update 4](../../../transcriptions/yt-ghROw63PzX8.md) https://www.youtube.com/watch?v=ghROw63PzX8
 * [Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?](../../../transcriptions/yt-SJI1puC2mEw.md) https://www.youtube.com/watch?v=SJI1puC2mEw
 * [Q&A: Will existing Mods work with new build?](../../../transcriptions/yt-bBrB9Qeb1hk.md) https://www.youtube.com/watch?v=bBrB9Qeb1hk
@@ -25,7 +25,7 @@ date: Last Modified
 * [Q&A: Doesn't Jace already have a video/youtube on Dev Timelime stuff?](../../../transcriptions/yt-2-MMBU1hMKM.md) https://www.youtube.com/watch?v=2-MMBU1hMKM
 * [Q&A: Who's Kibitz?](../../../transcriptions/yt-7fXJNHVrNCs.md) https://www.youtube.com/watch?v=7fXJNHVrNCs
 
-# November 3rd, 2020 Livestream
+## November 3rd, 2020 Livestream
 * [Q&A: Were there any Multiplayer updates in 3.5?](../../../transcriptions/yt-utOyTtmjsjQ.md) https://www.youtube.com/watch?v=utOyTtmjsjQ
 * [Q&A: Can you use old saves after Updates ?](../../../transcriptions/yt-2iEj514FVbs.md) https://www.youtube.com/watch?v=2iEj514FVbs
 * [Q&A: Will the Packager input/output orientation be changed before it goes to Early Access?](../../../transcriptions/yt-Pjj0oalwYj0.md) https://www.youtube.com/watch?v=Pjj0oalwYj0
@@ -33,7 +33,7 @@ date: Last Modified
 * [Q&A: When is the Update releasing in Early Access?](../../../transcriptions/yt-Jyh3gpkd4LY.md) https://www.youtube.com/watch?v=Jyh3gpkd4LY
 * [Q&A: Updates for bug fixes?](../../../transcriptions/yt-Xp6ktsuAAu8.md) https://www.youtube.com/watch?v=Xp6ktsuAAu8
 
-# October 27th, 2020 Livestream
+## October 27th, 2020 Livestream
 * [Q&A: The pipes thing- is that a reskin?](../../../transcriptions/yt-q23PowF0dXM.md) https://www.youtube.com/watch?v=q23PowF0dXM
 * [Q&A: What are the technical reasons (behind 600upm limit on pipes)?](../../../transcriptions/yt-UGymBt3-jxU.md) https://www.youtube.com/watch?v=UGymBt3-jxU
 * [Jace & Snutt Talk: Mk.1 Pumps](../../../transcriptions/yt-MoAb27XIZWA.md) https://www.youtube.com/watch?v=MoAb27XIZWA
@@ -53,7 +53,7 @@ date: Last Modified
 * [Q&A: What about Multiplayer Updates?](../../../transcriptions/yt-jfn3FOb5Jdw.md) https://www.youtube.com/watch?v=jfn3FOb5Jdw
 * [Q&A: Talking about Engine Update, was that Unreal Engine 5?](../../../transcriptions/yt-unAf5J6OtDE.md) https://www.youtube.com/watch?v=unAf5J6OtDE
 
-# October 20th, 2020 Livestream
+## October 20th, 2020 Livestream
 * [Jace & Snutt Talk: Jump Pad Teaser (part 1)](../../../transcriptions/yt-w-f3V9PdqxI.md) https://www.youtube.com/watch?v=w-f3V9PdqxI
 * [Jace & Snutt Talk: Jump Pad Teaser (part 2)](../../../transcriptions/yt-FZLQZ17hgjQ.md) https://www.youtube.com/watch?v=FZLQZ17hgjQ
 * [Q&A: Dedicated Servers coming with the next Update ?](../../../transcriptions/yt-VyyzowIc504.md) https://www.youtube.com/watch?v=VyyzowIc504
@@ -67,7 +67,7 @@ date: Last Modified
 * [Q&A: Will the Packing machine cost the same amount of power as the Refinery?](../../../transcriptions/yt-jhq2XmKDz9M.md) https://www.youtube.com/watch?v=jhq2XmKDz9M
 * [Q&A: I'd take 30mw for the Packager if I could take 3x speed than the Refineries?](../../../transcriptions/yt-cYJQS0bzr1o.md) https://www.youtube.com/watch?v=cYJQS0bzr1o
 
-# October 13th, 2020 Livestream
+## October 13th, 2020 Livestream
 * [Q&A: Will it package Sulfuric Acid or Aluminum Solution?](../../../transcriptions/yt-dflSu8N23a8.md) https://www.youtube.com/watch?v=dflSu8N23a8
 * [Jace & Snutt Talk: New Feature - Packager (part 2)](../../../transcriptions/yt-iEGhH9cZWWQ.md) https://www.youtube.com/watch?v=iEGhH9cZWWQ
 * [Jace & Snutt Talk: New Feature - Packager (part 1)](../../../transcriptions/yt-V9x1XLqoKeU.md) https://www.youtube.com/watch?v=V9x1XLqoKeU
@@ -96,7 +96,7 @@ date: Last Modified
 * [Q&A: ETA on the next patch?](../../../transcriptions/yt-qqzCKyEWttg.md) https://www.youtube.com/watch?v=qqzCKyEWttg
 * [Q&A: Can old save games still be used in the upcoming patch?](../../../transcriptions/yt-fqq4ndn8_94.md) https://www.youtube.com/watch?v=fqq4ndn8_94
 
-# October 6th, 2020 Livestream
+## October 6th, 2020 Livestream
 * [Jace & Snutt Talk: Update Release Schedule](../../../transcriptions/yt-tfrm9fa03eQ.md) https://www.youtube.com/watch?v=tfrm9fa03eQ
 * [Q&A: Is the expected date relative to Early Access or Experimental?](../../../transcriptions/yt-rc0InGTzcOQ.md) https://www.youtube.com/watch?v=rc0InGTzcOQ
 * [Q&A: Is "Fluid Update" Update 4?](../../../transcriptions/yt-uHk1mumCE0I.md) https://www.youtube.com/watch?v=uHk1mumCE0I
@@ -107,10 +107,10 @@ date: Last Modified
 * [Q&A: Any quality-of-life stuff for platform placing or fluids?](../../../transcriptions/yt-zCdLPoPjIBY.md) https://www.youtube.com/watch?v=zCdLPoPjIBY
 * [Q&A: Will the Update work with old worlds?](../../../transcriptions/yt-bsn3QpMW06Q.md) https://www.youtube.com/watch?v=bsn3QpMW06Q
 
-# September 29th, 2020 Livestream
+## September 29th, 2020 Livestream
 * [Jace & Snutt Talk: State of Dev](../../../transcriptions/yt-Hmjj9ZzqVhQ.md) https://www.youtube.com/watch?v=Hmjj9ZzqVhQ
 
-# September 22nd, 2020 Livestream
+## September 22nd, 2020 Livestream
 * [Snutt Talk: Localisation Update](../../../transcriptions/yt-olB0GBC1sZI.md) https://www.youtube.com/watch?v=olB0GBC1sZI
 * [Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)](../../../transcriptions/yt-oT2NLP9ZvGk.md) https://www.youtube.com/watch?v=oT2NLP9ZvGk
 * [Q&A: Update on Fluids?](../../../transcriptions/yt-9rIz0jDCQY0.md) https://www.youtube.com/watch?v=9rIz0jDCQY0
@@ -119,7 +119,7 @@ date: Last Modified
 * [Q&A: What about Update 3.5?](../../../transcriptions/yt-yuPh64NufF4.md) https://www.youtube.com/watch?v=yuPh64NufF4
 * [Snutt Talk: Update release schedule](../../../transcriptions/yt-FzyNteYDvFY.md) https://www.youtube.com/watch?v=FzyNteYDvFY
 
-# September 15th, 2020 Livestream
+## September 15th, 2020 Livestream
 * [Q&A: Update release schedule (part 1)](../../../transcriptions/yt-xkalDtEeoOY.md) https://www.youtube.com/watch?v=xkalDtEeoOY
 * [Q&A: Will the update break saves?](../../../transcriptions/yt-4RrHBOTPcs8.md) https://www.youtube.com/watch?v=4RrHBOTPcs8
 * [Q&A: Update release schedule (part 2)](../../../transcriptions/yt-vfVo9rCpVtQ.md) https://www.youtube.com/watch?v=vfVo9rCpVtQ
@@ -128,10 +128,10 @@ date: Last Modified
 * [Q&A: Any improvement for the Trucks so they can transport Fluids?](../../../transcriptions/yt-lNpwyJr7lZc.md) https://www.youtube.com/watch?v=lNpwyJr7lZc
 * [Q&A: Give details about the Fluids?](../../../transcriptions/yt-CFKUv9FCVms.md) https://www.youtube.com/watch?v=CFKUv9FCVms
 
-# September 8th, 2020 Livestream
+## September 8th, 2020 Livestream
 * [Q&A: Any more tiers in 3.5?](../../../transcriptions/yt-55GiH8YwDds.md) https://www.youtube.com/watch?v=55GiH8YwDds
 
-# August 25th, 2020 Livestream
+## August 25th, 2020 Livestream
 * Quality-of-live update? (Part 1): https://clips.twitch.tv/RudeSpoopyAlligatorVoteYea
 * Quality-of-live update? (Part 2): https://clips.twitch.tv/AlertFancyAxeFUNgineer
 * Quality-of-live update? (Part 3): https://clips.twitch.tv/CrunchyGlutenFreeNuggetsMingLee

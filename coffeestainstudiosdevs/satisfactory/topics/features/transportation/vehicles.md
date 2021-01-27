@@ -2,60 +2,64 @@
 title: "Features > Transportation > Vehicles"
 date: Last Modified
 ---
-[Topics](../../../topics.md) > Features > Transportation > Vehicles
+# [Topics](../../../topics.md) > Features > Transportation > Vehicles
+* [Cyber Wagon](./vehicles/cyber-wagon.md)
+* [Explorer](./vehicles/explorer.md)
+* [Factory Cart](./vehicles/factory-cart.md)
+* [Truck](./vehicles/truck.md)
 
-# January 19th, 2021 Livestream
+## January 19th, 2021 Livestream
 * [Q&A: What about Multiplayer Vehicle de-sync?](../../../transcriptions/yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw
 
-# December 15th, 2020 Livestream
+## December 15th, 2020 Livestream
 * [Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update?](../../../transcriptions/yt-6BahsrvlPJs.md) https://www.youtube.com/watch?v=6BahsrvlPJs
 
-# December 8th, 2020 Livestream
+## December 8th, 2020 Livestream
 * [Q&A: Are there plans to improve Vehicle performance for Update 4?](../../../transcriptions/yt-nat8VwaykqE.md) https://www.youtube.com/watch?v=nat8VwaykqE
 
-# November 24th, 2020 Livestream
+## November 24th, 2020 Livestream
 * [Q&A: Any air & sea Vehicles in Update 4?](../../../transcriptions/yt-HSoBZKjAN1k.md) https://www.youtube.com/watch?v=HSoBZKjAN1k
 
-# November 17th, 2020 Livestream
+## November 17th, 2020 Livestream
 * [Q&A: Paintable Vehicles when?](../../../transcriptions/yt-0DPbCQ4WQHU.md) https://www.youtube.com/watch?v=0DPbCQ4WQHU
 
-# November 10th, 2020 Livestream
+## November 10th, 2020 Livestream
 * [Q&A: Any plans on having Vehicles not constantly make gear-shifting noises?](../../../transcriptions/yt-UiFUO0I8xC4.md) https://www.youtube.com/watch?v=UiFUO0I8xC4
 * [Q&A: Strange Creature Mounts?](../../../transcriptions/yt-EeYyKTOE5mQ.md) https://www.youtube.com/watch?v=EeYyKTOE5mQ
 * [Jace Talk: Mount Prototypes](../../../transcriptions/yt-33dr3t-46yQ.md) https://www.youtube.com/watch?v=33dr3t-46yQ
 
-# November 3rd, 2020 Livestream
+## November 3rd, 2020 Livestream
 * [Q&A: Will we have Paintable Vehicles?](../../../transcriptions/yt-Wq7wvbW3fPo.md) https://www.youtube.com/watch?v=Wq7wvbW3fPo
 * [Q&A: Which one is better from an FPS performance point of view, Conveyor Belts, Trains, or Vehicles?](../../../transcriptions/yt-zo5Skwrwb5Y.md) https://www.youtube.com/watch?v=zo5Skwrwb5Y
 * [Q&A: Are there physics safety's in place on vehicles?](../../../transcriptions/yt-SOX83BVfEK8.md) https://www.youtube.com/watch?v=SOX83BVfEK8
 * [Q&A: Shouldn't Vehicles despawn after they fall off the World?](../../../transcriptions/yt-3n1NZE7lkOk.md) https://www.youtube.com/watch?v=3n1NZE7lkOk
 * [Q&A: Will we get Flying Vehicles?](../../../transcriptions/yt-CkWtF0M2ddY.md) https://www.youtube.com/watch?v=CkWtF0M2ddY
 
-# October 20th, 2020 Livestream
+## October 20th, 2020 Livestream
 * [Q&A: Will Colour Gun work on Vehicles in the future?](../../../transcriptions/yt-J8M7X0igt2w.md) https://www.youtube.com/watch?v=J8M7X0igt2w
 
-# October 13th, 2020 Livestream
+## October 13th, 2020 Livestream
 * [Q&A: Any plans on updating Vehicles and Planning Routes?](../../../transcriptions/yt-gddxBoi8DxY.md) https://www.youtube.com/watch?v=gddxBoi8DxY
 
-# October 6th, 2020 Livestream
+## October 6th, 2020 Livestream
 * [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](../../../transcriptions/yt-RVq5k89jlEA.md) https://www.youtube.com/watch?v=RVq5k89jlEA
 * [Q&A: Will the Resource Transportation get an update?](../../../transcriptions/yt-hKxm2Ps1UYY.md) https://www.youtube.com/watch?v=hKxm2Ps1UYY
 * [Jace & Snutt Talk: Unconventional usage of Vehicles](../../../transcriptions/yt-QSxbYoiwVIQ.md) https://www.youtube.com/watch?v=QSxbYoiwVIQ
 
-# September 22nd, 2020 Livestream
+## September 22nd, 2020 Livestream
 * [Q&A: Boats will come?](../../../transcriptions/yt-33wha_duTqs.md) https://www.youtube.com/watch?v=33wha_duTqs
 
-# September 15th, 2020 Livestream
+## September 15th, 2020 Livestream
 * [Q&A: Off-road Motorbike?](../../../transcriptions/yt-ZEFN3_Qz4Kg.md) https://www.youtube.com/watch?v=ZEFN3_Qz4Kg
 
-# September 8th, 2020 Livestream
+## September 8th, 2020 Livestream
 * [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](../../../transcriptions/yt--sa8wjg4lYk.md) https://www.youtube.com/watch?v=-sa8wjg4lYk
 * [Q&A: Didn't you guys confirm a new vehicle?](../../../transcriptions/yt-sSs9x9PnyTI.md) https://www.youtube.com/watch?v=sSs9x9PnyTI
 * [Q&A: Why do you take Gas damage while wearing a Gas Mask while driving a Car?](../../../transcriptions/yt-HSuHlcSl-y8.md) https://www.youtube.com/watch?v=HSuHlcSl-y8
 * [Q&A: Elevator for Vehicles & Players?](../../../transcriptions/yt-v_KEYdpCb-k.md) https://www.youtube.com/watch?v=v_KEYdpCb-k
 * [Q&A: Dirt Bikes?](../../../transcriptions/yt-75OR9Co9l74.md) https://www.youtube.com/watch?v=75OR9Co9l74
 
-# August 25th, 2020 Livestream
+## August 25th, 2020 Livestream
 * Snutt Talk: Improving on Vehicles https://clips.twitch.tv/AmazonianAnnoyingSushiUncleNox
 * Q&A: Any plans to dig my explorer to get it out of the hole it fell into? https://clips.twitch.tv/FuriousRockyDuckPRChase
 * Q&A: Can you make modular vehicles? (Part 1) https://clips.twitch.tv/OriginalMuddyDogePeteZaroll
@@ -69,27 +73,27 @@ date: Last Modified
 * Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 3) https://clips.twitch.tv/PowerfulFriendlyKoalaANELE
 * Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 4) https://clips.twitch.tv/PoliteEnergeticGrouseHassaanChop
 
-# August 18th, 2020 Livestream
+## August 18th, 2020 Livestream
 * Q&A: Are there some other vehicles planned? https://clips.twitch.tv/EsteemedNurturingHyenaWOOP
 * Q&A: Are vehicles going to get less sketchy or are we always getting Goat Simulator physics? https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage
 
-# August 11th, 2020 Livestream
+## August 11th, 2020 Livestream
 * Q&A: Will Drones be added to the game for aerial travel? https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper
 * Q&A: First-person Vehicle Driving? https://clips.twitch.tv/ShinySilkyMelonGivePLZ
 * Q&A: Two-seated vehicles (Part 1) https://clips.twitch.tv/OilySourBeaverAMPEnergy
 * Q&A: Two-seated vehicles (Part 2) https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog
 
-# January 22nd, 2020 Livestream
+## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0
 * [Q&A: Will Gas Masks be working when you sit in vehicles?](../../../transcriptions/yt-qcOfYoEbhVI.md) https://www.youtube.com/watch?v=qcOfYoEbhVI
 
-# December 19th, 2019 Livestream
+## December 19th, 2019 Livestream
 * [Q&A: Give us a flight vehicle?](../../../transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I
 * Q&A: Vehicle Lifts? https://www.youtube.com/watch?v=ayGH9w3sEBo
 * [Q&A: Have you considerd Flying Drones?](../../../transcriptions/yt-KYox3m1mePU.md) https://www.youtube.com/watch?v=KYox3m1mePU
 * [Q&A: Improve Vehicles in general?](../../../transcriptions/yt-pRuIjTp-u5I.md) https://www.youtube.com/watch?v=pRuIjTp-u5I
 
-# March 9th, 2019 Livestream
+## March 9th, 2019 Livestream
 * [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
 * [Q&A: Weirdest bug you guys fixed](../../../transcriptions/yt-ybgZUbANGrM.md) https://www.youtube.com/watch?v=ybgZUbANGrM
 * [Q&A: Tractor, but "Sugar Cube" is mentioned in the description?](../../../transcriptions/yt-qvzPjISX75Y.md) https://www.youtube.com/watch?v=qvzPjISX75Y

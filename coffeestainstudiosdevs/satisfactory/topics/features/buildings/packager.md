@@ -2,29 +2,29 @@
 title: "Features > Buildings > Packager"
 date: Last Modified
 ---
-[Topics](../../../topics.md) > Features > Buildings > Packager
+# [Topics](../../../topics.md) > Features > Buildings > Packager
 
-# January 19th, 2021 Livestream
+## January 19th, 2021 Livestream
 * [Q&A: Will Gas packaging happen in the Packager?](../../../transcriptions/yt-K2uidbt0_VE.md) https://www.youtube.com/watch?v=K2uidbt0_VE
 * [Q&A: Will Diluted Packaged Fuel be retained if Diluted Liquid Fuel gets added to the Blender?](../../../transcriptions/yt-7U9JUf9NUYQ.md) https://www.youtube.com/watch?v=7U9JUf9NUYQ
 * [Q&A: Can we get a Packager with outputs not stacked?](../../../transcriptions/yt-Cmhx-wt1pBg.md) https://www.youtube.com/watch?v=Cmhx-wt1pBg
 
-# November 10th, 2020 Livestream
+## November 10th, 2020 Livestream
 * [Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?](../../../transcriptions/yt-SJI1puC2mEw.md) https://www.youtube.com/watch?v=SJI1puC2mEw
 
-# November 3rd, 2020 Livestream
+## November 3rd, 2020 Livestream
 * [Q&A: Will the Packager input/output orientation be changed before it goes to Early Access?](../../../transcriptions/yt-Pjj0oalwYj0.md) https://www.youtube.com/watch?v=Pjj0oalwYj0
 * [Q&A: Packager solid/liquid I/O don't allow for placement of Conveyor lifts?](../../../transcriptions/yt-gqLycnJA_3c.md) https://www.youtube.com/watch?v=gqLycnJA_3c
 
-# October 27th, 2020 Livestream
+## October 27th, 2020 Livestream
 * [Q&A: What was the Mystery Machine?](../../../transcriptions/yt-dh0tcSlSjNE.md) https://www.youtube.com/watch?v=dh0tcSlSjNE
 * [Q&A: Does the Packager also do unpacking?](../../../transcriptions/yt-s1ibMeMeBT8.md) https://www.youtube.com/watch?v=s1ibMeMeBT8
 
-# October 20th, 2020 Livestream
+## October 20th, 2020 Livestream
 * [Q&A: Will the Packing machine cost the same amount of power as the Refinery?](../../../transcriptions/yt-jhq2XmKDz9M.md) https://www.youtube.com/watch?v=jhq2XmKDz9M
 * [Q&A: I'd take 30mw for the Packager if I could take 3x speed than the Refineries?](../../../transcriptions/yt-cYJQS0bzr1o.md) https://www.youtube.com/watch?v=cYJQS0bzr1o
 
-# October 13th, 2020 Livestream
+## October 13th, 2020 Livestream
 * [Jace & Snutt Talk: New Feature - Packager (part 1)](../../../transcriptions/yt-V9x1XLqoKeU.md) https://www.youtube.com/watch?v=V9x1XLqoKeU
 * [Jace & Snutt Talk: New Feature - Packager (part 2)](../../../transcriptions/yt-iEGhH9cZWWQ.md) https://www.youtube.com/watch?v=iEGhH9cZWWQ
 * [Q&A: Is that not actual gameplay footage?](../../../transcriptions/yt-fRiHEwAwDpw.md) https://www.youtube.com/watch?v=fRiHEwAwDpw

@@ -2,9 +2,9 @@
 title: "Environment > Resource Wells"
 date: Last Modified
 ---
-[Topics](../../topics.md) > Environment > Resource Wells
+# [Topics](../../topics.md) > Environment > Resource Wells
 
-# January 19th, 2021 Livestream
+## January 19th, 2021 Livestream
 * [Q&A: Do we know where the new Resource Wells be placed?](../../transcriptions/yt-pMAE5-tkdGg.md) https://www.youtube.com/watch?v=pMAE5-tkdGg
 * [Snutt & Mark Talk: Building a megabase over the top of a new Resource Well or new mountain.](../../transcriptions/yt-KF8AhiHW1o0.md) https://www.youtube.com/watch?v=KF8AhiHW1o0
 * [Q&A: Will you ever add explosions on the Resource Wells when you Pressurize them?](../../transcriptions/yt-3A5iYkto5W0.md) https://www.youtube.com/watch?v=3A5iYkto5W0
