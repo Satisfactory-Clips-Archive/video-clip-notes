@@ -2,7 +2,7 @@
 title: "Vehicles"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Transportation](../../../topics/features/transportation.md) > Vehicles
+# [Topics](../../../topics.md) > Features > Transportation > Vehicles
 * [Cyber Wagon](../../../topics/features/transportation/vehicles/cyber-wagon.md)
 * [Explorer](../../../topics/features/transportation/vehicles/explorer.md)
 * [Factory Cart](../../../topics/features/transportation/vehicles/factory-cart.md)

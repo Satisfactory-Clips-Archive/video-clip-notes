@@ -2,7 +2,7 @@
 title: "Packager"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Packager
+# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Packager
 
 ## January 19th, 2021 Livestream
 * [Q&A: Will Gas packaging happen in the Packager?](../../../transcriptions/yt-K2uidbt0_VE.md) https://www.youtube.com/watch?v=K2uidbt0_VE

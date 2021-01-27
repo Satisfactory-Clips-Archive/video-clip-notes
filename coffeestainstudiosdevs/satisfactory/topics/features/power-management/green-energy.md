@@ -2,7 +2,7 @@
 title: "Green Energy"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Green Energy
+# [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
 ## January 19th, 2021 Livestream
 * [Q&A: Why are Conveyor Belts not powered?](../../../transcriptions/yt-X2A_DOO7O4c.md) https://www.youtube.com/watch?v=X2A_DOO7O4c

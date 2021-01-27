@@ -2,7 +2,7 @@
 title: "Nuclear Energy"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Nuclear Energy
+# [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Nuclear Energy
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
 ## January 19th, 2021 Livestream

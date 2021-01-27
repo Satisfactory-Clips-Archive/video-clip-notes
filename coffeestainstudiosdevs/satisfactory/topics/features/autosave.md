@@ -2,7 +2,7 @@
 title: "Autosave"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../../topics/features.md) > Autosave
+# [Topics](../../topics.md) > Features > Autosave
 
 ## January 26th, 2021 Livestream
 * [Q&A: Had a save game from Early Access, spent time in Experimental, now back on EA it doesn't work?](../../transcriptions/yt-b586YMEHeRk.md) https://www.youtube.com/watch?v=b586YMEHeRk

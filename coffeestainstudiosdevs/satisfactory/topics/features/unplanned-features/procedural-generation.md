@@ -2,7 +2,7 @@
 title: "Procedural Generation"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Procedural Generation
+# [Topics](../../../topics.md) > Features > Unplanned Features > Procedural Generation
 
 ## November 24th, 2020 Livestream
 * [Q&A: Procedural generation of the World?](../../../transcriptions/yt-q6tkuGjM4zY.md) https://www.youtube.com/watch?v=q6tkuGjM4zY

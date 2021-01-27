@@ -2,7 +2,7 @@
 title: "Photo Mode"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../../topics/features.md) > Photo Mode
+# [Topics](../../topics.md) > Features > Photo Mode
 
 ## November 10th, 2020 Livestream
 * [Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?](../../transcriptions/yt-tv1pCGiRtkM.md) https://www.youtube.com/watch?v=tv1pCGiRtkM

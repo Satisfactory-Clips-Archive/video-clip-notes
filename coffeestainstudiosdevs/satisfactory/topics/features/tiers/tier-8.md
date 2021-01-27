@@ -2,7 +2,7 @@
 title: "Tier 8"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 8
+# [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 8
 
 ## January 19th, 2021 Livestream
 * [Mark Talk: Resource Wells are unlocked in Tier 8](../../../transcriptions/yt-HjiEL3hWZd4.md) https://www.youtube.com/watch?v=HjiEL3hWZd4

@@ -2,7 +2,7 @@
 title: "Trains"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Transportation](../../../topics/features/transportation.md) > Trains
+# [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
 ## January 26th, 2021 Livestream

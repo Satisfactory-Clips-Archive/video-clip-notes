@@ -2,7 +2,7 @@
 title: "Hyper Tubes"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Transportation](../../../topics/features/transportation.md) > Hyper Tubes
+# [Topics](../../../topics.md) > Features > Transportation > Hyper Tubes
 
 ## January 19th, 2021 Livestream
 * [Q&A: Why do we get a Gas warning when we're in a Hypertube?](../../../transcriptions/yt-b1pzjEAzXOU.md) https://www.youtube.com/watch?v=b1pzjEAzXOU

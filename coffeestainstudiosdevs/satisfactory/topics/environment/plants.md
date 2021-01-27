@@ -2,7 +2,7 @@
 title: "Plants"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
+# [Topics](../../topics.md) > Environment > Plants
 
 ## January 26th, 2021 Livestream
 * [Q&A: Farming would be cool?](../../transcriptions/yt-qO1Zl01HfqU.md) https://www.youtube.com/watch?v=qO1Zl01HfqU

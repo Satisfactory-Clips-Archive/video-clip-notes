@@ -2,7 +2,7 @@
 title: "The HUB"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
+# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
 ## January 26th, 2021 Livestream
 * [Q&A: Ability to sleep coming any time?](../../../transcriptions/yt-kDwywg_UJoc.md) https://www.youtube.com/watch?v=kDwywg_UJoc

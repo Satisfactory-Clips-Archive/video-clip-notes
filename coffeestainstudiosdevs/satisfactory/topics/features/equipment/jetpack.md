@@ -2,7 +2,7 @@
 title: "Jetpack"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Jetpack
+# [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
 ## January 26th, 2021 Livestream
 * [Q&A: Are we looking at improving the maneuverability of Jetpacks?](../../../transcriptions/yt-VNMPlZTlRGk.md) https://www.youtube.com/watch?v=VNMPlZTlRGk

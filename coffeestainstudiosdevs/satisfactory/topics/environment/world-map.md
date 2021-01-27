@@ -2,7 +2,7 @@
 title: "World Map"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
+# [Topics](../../topics.md) > Environment > World Map
 
 ## January 26th, 2021 Livestream
 * [Jace Talk: There are no plans for increasing the size of the Map](../../transcriptions/yt-aCvn84FtDMI.md) https://www.youtube.com/watch?v=aCvn84FtDMI

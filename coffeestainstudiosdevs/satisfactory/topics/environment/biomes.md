@@ -2,7 +2,7 @@
 title: "Biomes"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Biomes
+# [Topics](../../topics.md) > Environment > Biomes
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
 ## January 26th, 2021 Livestream

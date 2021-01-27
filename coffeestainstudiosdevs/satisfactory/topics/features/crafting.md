@@ -2,7 +2,7 @@
 title: "Crafting"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../../topics/features.md) > Crafting
+# [Topics](../../topics.md) > Features > Crafting
 * [Fuel](../../topics/features/crafting/fuel.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 

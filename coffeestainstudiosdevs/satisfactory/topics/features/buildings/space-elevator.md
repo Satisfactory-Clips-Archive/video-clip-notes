@@ -2,7 +2,7 @@
 title: "Space Elevator"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Space Elevator
+# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 
 ## January 19th, 2021 Livestream
 * [Q&A: Will we get more uses/shipments for the Space Elevator?](../../../transcriptions/yt-pjoG5bBsTKI.md) https://www.youtube.com/watch?v=pjoG5bBsTKI

@@ -2,7 +2,7 @@
 title: "Base Defense"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
+# [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
 ## January 22nd, 2021 Instagram AMA
 * Q&A: Is there a plan for automatize the base defense? https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4

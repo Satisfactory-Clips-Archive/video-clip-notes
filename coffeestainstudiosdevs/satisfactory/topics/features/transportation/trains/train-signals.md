@@ -2,7 +2,7 @@
 title: "Train Signals"
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Transportation](../../../../topics/features/transportation.md) > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
+# [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
 ## January 12th, 2021 Livestream
 * [Q&A: Any new information regarding Signal system for Trains?](../../../../transcriptions/yt-Bu2TPRFV_2o.md) https://www.youtube.com/watch?v=Bu2TPRFV_2o

@@ -2,7 +2,7 @@
 title: "Gases"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../../topics/features.md) > Gases
+# [Topics](../../topics.md) > Features > Gases
 
 ## January 19th, 2021 Livestream
 * [Q&A: Why not have a system like in real life where you get Nitrogen out of air?](../../transcriptions/yt-p3AQTmE2XoQ.md) https://www.youtube.com/watch?v=p3AQTmE2XoQ

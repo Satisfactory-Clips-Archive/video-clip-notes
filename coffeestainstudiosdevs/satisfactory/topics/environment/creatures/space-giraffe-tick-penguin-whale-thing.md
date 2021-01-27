@@ -2,7 +2,7 @@
 title: "Space Giraffe-Tick-Penguin-Whale Thing"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
+# [Topics](../../../topics.md) > Environment > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
 ## November 24th, 2020 Livestream
 * [Q&A: Alien creature launcher - evict the giant Tick?](../../../transcriptions/yt-mASNXinF0mA.md) https://www.youtube.com/watch?v=mASNXinF0mA

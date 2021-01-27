@@ -2,7 +2,7 @@
 title: "Tiers"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../../topics/features.md) > Tiers
+# [Topics](../../topics.md) > Features > Tiers
 * [Tier 0](../../topics/features/tiers/tier-0.md)
 * [Tier 1](../../topics/features/tiers/tier-1.md)
 * [Tier 2](../../topics/features/tiers/tier-2.md)
