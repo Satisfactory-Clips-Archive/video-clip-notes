@@ -1,9 +1,9 @@
 ---
-title: "Satisfactory Updates > Seasonal Events"
+title: "Seasonal Events"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Satisfactory Updates](../satisfactory-updates.md) > Seasonal Events
-* [FICS⁕MAS](./seasonal-events/fics-mas.md)
+# [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events
+* [FICS⁕MAS](../../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Is there a goal amount of Events per year?](../../transcriptions/yt-2koHO0P289M.md) https://www.youtube.com/watch?v=2koHO0P289M

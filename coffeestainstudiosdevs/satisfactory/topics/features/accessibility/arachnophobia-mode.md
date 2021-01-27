@@ -1,8 +1,8 @@
 ---
-title: "Features > Accessibility > Arachnophobia Mode"
+title: "Arachnophobia Mode"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Accessibility](../accessibility.md) > Arachnophobia Mode
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
 ## January 26th, 2021 Livestream
 * [Q&A: Nighttime is only bad because of these damn cats?](../../../transcriptions/yt-YkXm2LWDAeA.md) https://www.youtube.com/watch?v=YkXm2LWDAeA

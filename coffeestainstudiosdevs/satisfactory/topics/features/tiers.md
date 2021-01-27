@@ -1,19 +1,19 @@
 ---
-title: "Features > Tiers"
+title: "Tiers"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../features.md) > Tiers
-* [Tier 0](./tiers/tier-0.md)
-* [Tier 1](./tiers/tier-1.md)
-* [Tier 2](./tiers/tier-2.md)
-* [Tier 3](./tiers/tier-3.md)
-* [Tier 4](./tiers/tier-4.md)
-* [Tier 5](./tiers/tier-5.md)
-* [Tier 6](./tiers/tier-6.md)
-* [Tier 7](./tiers/tier-7.md)
-* [Tier 8](./tiers/tier-8.md)
-* [Tier 9](./tiers/tier-9.md)
-* [Tier 10](./tiers/tier-10.md)
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Tiers
+* [Tier 0](../../topics/features/tiers/tier-0.md)
+* [Tier 1](../../topics/features/tiers/tier-1.md)
+* [Tier 2](../../topics/features/tiers/tier-2.md)
+* [Tier 3](../../topics/features/tiers/tier-3.md)
+* [Tier 4](../../topics/features/tiers/tier-4.md)
+* [Tier 5](../../topics/features/tiers/tier-5.md)
+* [Tier 6](../../topics/features/tiers/tier-6.md)
+* [Tier 7](../../topics/features/tiers/tier-7.md)
+* [Tier 8](../../topics/features/tiers/tier-8.md)
+* [Tier 9](../../topics/features/tiers/tier-9.md)
+* [Tier 10](../../topics/features/tiers/tier-10.md)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Update 5 new Tiers?](../../transcriptions/yt-DyXs7ps8cOY.md) https://www.youtube.com/watch?v=DyXs7ps8cOY

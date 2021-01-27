@@ -1,8 +1,8 @@
 ---
-title: "Features > Possible Features > DLC"
+title: "DLC"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Possible Features](../possible-features.md) > DLC
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > DLC
 
 ## January 26th, 2021 Livestream
 * [Q&A: When will we get the toilet DLC?](../../../transcriptions/yt-AeWfPCZQZBQ.md) https://www.youtube.com/watch?v=AeWfPCZQZBQ

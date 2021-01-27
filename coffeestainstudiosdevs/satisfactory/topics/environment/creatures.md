@@ -1,11 +1,11 @@
 ---
-title: "Environment > Creatures"
+title: "Creatures"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Environment](../environment.md) > Creatures
-* [Crab Boss](./creatures/crab-boss.md)
-* [Lizard Doggo](./creatures/lizard-doggo.md)
-* [Space Giraffe-Tick-Penguin-Whale Thing](./creatures/space-giraffe-tick-penguin-whale-thing.md)
+# [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Creatures
+* [Crab Boss](../../topics/environment/creatures/crab-boss.md)
+* [Lizard Doggo](../../topics/environment/creatures/lizard-doggo.md)
+* [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
 ## December 15th, 2020 Livestream
 * [Q&A: Will there be new enemies?](../../transcriptions/yt-mwN7mAZ2dbg.md) https://www.youtube.com/watch?v=mwN7mAZ2dbg

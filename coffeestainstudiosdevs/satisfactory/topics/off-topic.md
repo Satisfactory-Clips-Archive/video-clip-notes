@@ -3,10 +3,10 @@ title: "Off-Topic"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Off-Topic
-* [Goat Simulator](./off-topic/goat-simulator.md)
-* [Pizza](./off-topic/pizza.md)
-* [Sanctum](./off-topic/sanctum.md)
-* [Valheim](./off-topic/valheim.md)
+* [Goat Simulator](../topics/off-topic/goat-simulator.md)
+* [Pizza](../topics/off-topic/pizza.md)
+* [Sanctum](../topics/off-topic/sanctum.md)
+* [Valheim](../topics/off-topic/valheim.md)
 
 ## January 26th, 2021 Livestream
 * [Snutt & Jace Talk: Shaving](../transcriptions/yt-2lh_A-WR2Gw.md) https://www.youtube.com/watch?v=2lh_A-WR2Gw

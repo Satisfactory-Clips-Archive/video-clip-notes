@@ -1,8 +1,8 @@
 ---
-title: "Off-Topic > Pizza"
+title: "Pizza"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Off-Topic](../off-topic.md) > Pizza
+# [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Pizza
 
 ## January 12th, 2021 Livestream
 * Q&A: When will Coffee Stain get Jace a pizza oven? https://www.youtube.com/watch?v=LRsn8Qz3fms

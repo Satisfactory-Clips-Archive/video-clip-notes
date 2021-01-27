@@ -1,9 +1,9 @@
 ---
-title: "Environment > Biomes"
+title: "Biomes"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Environment](../environment.md) > Biomes
-* [Unplanned Biomes](./biomes/unplanned-biomes.md)
+# [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Biomes
+* [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Is there another area rework like the desert update happening?](../../transcriptions/yt-sV-kvBvlTXc.md) https://www.youtube.com/watch?v=sV-kvBvlTXc

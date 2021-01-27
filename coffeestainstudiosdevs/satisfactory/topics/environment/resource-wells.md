@@ -1,8 +1,8 @@
 ---
-title: "Environment > Resource Wells"
+title: "Resource Wells"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Environment](../environment.md) > Resource Wells
+# [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Resource Wells
 
 ## January 19th, 2021 Livestream
 * [Q&A: Do we know where the new Resource Wells be placed?](../../transcriptions/yt-pMAE5-tkdGg.md) https://www.youtube.com/watch?v=pMAE5-tkdGg

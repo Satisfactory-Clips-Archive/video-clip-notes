@@ -1,8 +1,8 @@
 ---
-title: "Features > Crafting > Superposition Oscillator"
+title: "Superposition Oscillator"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Crafting](../crafting.md) > Superposition Oscillator
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Superposition Oscillator
 
 ## December 15th, 2020 Livestream
 * [Q&A: What is the Superposition Oscillator for?](../../../transcriptions/yt-foek1b3z0kI.md) https://www.youtube.com/watch?v=foek1b3z0kI

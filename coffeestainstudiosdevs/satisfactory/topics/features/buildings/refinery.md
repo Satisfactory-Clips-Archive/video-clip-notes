@@ -1,8 +1,8 @@
 ---
-title: "Features > Buildings > Refinery"
+title: "Refinery"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Buildings](../buildings.md) > Refinery
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Refinery
 
 ## January 26th, 2021 Livestream
 * [Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?](../../../transcriptions/yt-zYh_QUHwAh4.md) https://www.youtube.com/watch?v=zYh_QUHwAh4

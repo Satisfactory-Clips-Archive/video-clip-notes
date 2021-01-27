@@ -1,8 +1,8 @@
 ---
-title: "Features > Power Management > Nuclear Energy > Nuclear Waste"
+title: "Nuclear Waste"
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > [Features](../../../features.md) >  > [Power Management](../../power-management.md) >  > [Nuclear Energy](../nuclear-energy.md) > Nuclear Waste
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
 ## January 19th, 2021 Livestream
 * [Q&A: Can we remove Nuclear Waste from the Doggo loot list?](../../../../transcriptions/yt-x2qXm_DXJEw.md) https://www.youtube.com/watch?v=x2qXm_DXJEw

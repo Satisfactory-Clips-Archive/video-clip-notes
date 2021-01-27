@@ -1,8 +1,8 @@
 ---
-title: "Features > Fluids > Pipes"
+title: "Pipes"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Fluids](../fluids.md) > Pipes
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
 ## January 19th, 2021 Livestream
 * [Q&A: How can you transport Gas over a big distance?](../../../transcriptions/yt-eZIVeN8_8sc.md) https://www.youtube.com/watch?v=eZIVeN8_8sc

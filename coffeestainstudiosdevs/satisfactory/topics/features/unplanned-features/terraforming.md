@@ -1,8 +1,8 @@
 ---
-title: "Features > Unplanned Features > Terraforming"
+title: "Terraforming"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Unplanned Features](../unplanned-features.md) > Terraforming
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Terraforming
 
 ## November 24th, 2020 Livestream
 * [Q&A: Is terraforming possible any time in the future?](../../../transcriptions/yt-_fE2dbyaJZg.md) https://www.youtube.com/watch?v=_fE2dbyaJZg

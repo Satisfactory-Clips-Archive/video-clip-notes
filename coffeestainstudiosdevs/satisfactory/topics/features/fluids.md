@@ -1,11 +1,11 @@
 ---
-title: "Features > Fluids"
+title: "Fluids"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../features.md) > Fluids
-* [Pipes](./fluids/pipes.md)
-* [Pumps](./fluids/pumps.md)
-* [Valves](./fluids/valves.md)
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Fluids
+* [Pipes](../../topics/features/fluids/pipes.md)
+* [Pumps](../../topics/features/fluids/pumps.md)
+* [Valves](../../topics/features/fluids/valves.md)
 
 ## January 19th, 2021 Livestream
 * [Q&A: What do Resource Wells mean for existing ways for extracting Water & Oil?](../../transcriptions/yt-ezGse7K-fWI.md) https://www.youtube.com/watch?v=ezGse7K-fWI

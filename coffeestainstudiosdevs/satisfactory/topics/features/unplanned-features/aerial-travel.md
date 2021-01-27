@@ -1,8 +1,8 @@
 ---
-title: "Features > Unplanned Features > Aerial Travel"
+title: "Aerial Travel"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Unplanned Features](../unplanned-features.md) > Aerial Travel
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Aerial Travel
 
 ## January 26th, 2021 Livestream
 * [Q&A: Were you serious about the drones in the last YouTube video?](../../../transcriptions/yt-bbAGxhCSN8c.md) https://www.youtube.com/watch?v=bbAGxhCSN8c

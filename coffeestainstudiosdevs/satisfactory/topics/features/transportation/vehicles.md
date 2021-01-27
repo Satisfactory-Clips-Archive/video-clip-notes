@@ -1,12 +1,12 @@
 ---
-title: "Features > Transportation > Vehicles"
+title: "Vehicles"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Transportation](../transportation.md) > Vehicles
-* [Cyber Wagon](./vehicles/cyber-wagon.md)
-* [Explorer](./vehicles/explorer.md)
-* [Factory Cart](./vehicles/factory-cart.md)
-* [Truck](./vehicles/truck.md)
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Transportation](../../../topics/features/transportation.md) > Vehicles
+* [Cyber Wagon](../../../topics/features/transportation/vehicles/cyber-wagon.md)
+* [Explorer](../../../topics/features/transportation/vehicles/explorer.md)
+* [Factory Cart](../../../topics/features/transportation/vehicles/factory-cart.md)
+* [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
 ## January 19th, 2021 Livestream
 * [Q&A: What about Multiplayer Vehicle de-sync?](../../../transcriptions/yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw

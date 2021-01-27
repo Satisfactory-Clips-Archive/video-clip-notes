@@ -1,8 +1,8 @@
 ---
-title: "Features > Buildings > Blender"
+title: "Blender"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Buildings](../buildings.md) > Blender
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Blender
 
 ## January 19th, 2021 Livestream
 * [Snutt & Mark Talk: The Blender](../../../transcriptions/yt-a2D7kT6Z1J0.md) https://www.youtube.com/watch?v=a2D7kT6Z1J0

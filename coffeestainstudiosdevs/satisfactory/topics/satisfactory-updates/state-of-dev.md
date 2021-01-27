@@ -1,8 +1,8 @@
 ---
-title: "Satisfactory Updates > State of Dev"
+title: "State of Dev"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Satisfactory Updates](../satisfactory-updates.md) > State of Dev
+# [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
 ## January 26th, 2021 Livestream
 * State of Dev: Update 4 https://www.youtube.com/watch?v=HjMEFo3mt_s

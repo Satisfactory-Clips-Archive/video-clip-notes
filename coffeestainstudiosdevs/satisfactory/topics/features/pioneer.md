@@ -1,8 +1,8 @@
 ---
-title: "Features > Pioneer"
+title: "Pioneer"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../features.md) > Pioneer
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
 ## January 19th, 2021 Livestream
 * [Q&A: Why doesn't the Pioneer Helmet integrate a Gas Mask if the atmosphere is unbreathable?](../../transcriptions/yt-2zz08zzXTCU.md) https://www.youtube.com/watch?v=2zz08zzXTCU

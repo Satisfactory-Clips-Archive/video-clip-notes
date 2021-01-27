@@ -1,8 +1,8 @@
 ---
-title: "Features > Buildables > Storage Containers"
+title: "Storage Containers"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Buildables](../buildables.md) > Storage Containers
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
 ## December 15th, 2020 Livestream
 * [Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update?](../../../transcriptions/yt-6BahsrvlPJs.md) https://www.youtube.com/watch?v=6BahsrvlPJs

@@ -1,8 +1,8 @@
 ---
-title: "Features > Fluids > Pumps"
+title: "Pumps"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Fluids](../fluids.md) > Pumps
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pumps
 
 ## October 27th, 2020 Livestream
 * [Jace & Snutt Talk: Mk.1 Pumps](../../../transcriptions/yt-MoAb27XIZWA.md) https://www.youtube.com/watch?v=MoAb27XIZWA

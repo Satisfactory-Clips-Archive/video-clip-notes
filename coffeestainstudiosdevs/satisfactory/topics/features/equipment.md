@@ -1,10 +1,10 @@
 ---
-title: "Features > Equipment"
+title: "Equipment"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../features.md) > Equipment
-* [Chainsaw](./equipment/chainsaw.md)
-* [Jetpack](./equipment/jetpack.md)
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Equipment
+* [Chainsaw](../../topics/features/equipment/chainsaw.md)
+* [Jetpack](../../topics/features/equipment/jetpack.md)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Will Gases affect health or hurt you if you don't have a hazmat suit?](../../transcriptions/yt-3gHStWkd0oE.md) https://www.youtube.com/watch?v=3gHStWkd0oE

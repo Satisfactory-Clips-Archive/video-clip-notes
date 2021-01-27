@@ -1,8 +1,8 @@
 ---
-title: "Features > Buildables > Ladders"
+title: "Ladders"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Buildables](../buildables.md) > Ladders
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Ladders
 
 ## November 10th, 2020 Livestream
 * [Q&A: Ladders Mk.2?](../../../transcriptions/yt-XCPztcDtneI.md) https://www.youtube.com/watch?v=XCPztcDtneI

@@ -1,8 +1,8 @@
 ---
-title: "Community > Wiki"
+title: "Wiki"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Community](../community.md) > Wiki
+# [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
 ## January 26th, 2021 Livestream
 * [Q&A: Check the Future content page on the wiki?](../../transcriptions/yt-hcLeqMUzJ08.md) https://www.youtube.com/watch?v=hcLeqMUzJ08

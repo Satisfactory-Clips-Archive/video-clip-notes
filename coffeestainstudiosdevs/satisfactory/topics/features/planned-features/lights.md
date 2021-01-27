@@ -1,8 +1,8 @@
 ---
-title: "Features > Planned Features > Lights"
+title: "Lights"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Planned Features](../planned-features.md) > Lights
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Planned Features](../../../topics/features/planned-features.md) > Lights
 
 ## January 26th, 2021 Livestream
 * [Q&A: Lights & Lampposts please?](../../../transcriptions/yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g

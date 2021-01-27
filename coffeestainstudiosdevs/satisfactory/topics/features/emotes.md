@@ -1,8 +1,8 @@
 ---
-title: "Features > Emotes"
+title: "Emotes"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../features.md) > Emotes
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Emotes
 
 ## December 15th, 2020 Livestream
 * [Q&A: More emotes?](../../transcriptions/yt-Ii3ahSfYOYI.md) https://www.youtube.com/watch?v=Ii3ahSfYOYI

@@ -1,8 +1,8 @@
 ---
-title: "Satisfactory Updates > Satisfactory 2017"
+title: "Satisfactory 2017"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Satisfactory Updates](../satisfactory-updates.md) > Satisfactory 2017
+# [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory 2017
 
 ## December 8th, 2020 Livestream
 * [Q&A: Please reintroduce the Mining mini-game?](../../transcriptions/yt-LTpEW1G0VH0.md) https://www.youtube.com/watch?v=LTpEW1G0VH0

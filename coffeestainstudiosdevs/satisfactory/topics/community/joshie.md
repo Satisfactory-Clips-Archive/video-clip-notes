@@ -1,8 +1,8 @@
 ---
-title: "Community > Joshie"
+title: "Joshie"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Community](../community.md) > Joshie
+# [Topics](../../topics.md) > [Community](../../topics/community.md) > Joshie
 
 ## January 26th, 2021 Livestream
 * [Q&A: Replication graph? That sounds familiar to my crash.](../../transcriptions/yt-sdo0vTu0RoE.md) https://www.youtube.com/watch?v=sdo0vTu0RoE

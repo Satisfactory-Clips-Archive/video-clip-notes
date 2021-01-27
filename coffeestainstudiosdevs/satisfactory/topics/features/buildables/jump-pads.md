@@ -1,8 +1,8 @@
 ---
-title: "Features > Buildables > Jump Pads"
+title: "Jump Pads"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Buildables](../buildables.md) > Jump Pads
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Jump Pads
 
 ## November 24th, 2020 Livestream
 * [Q&A: Alien creature launcher - evict the giant Tick?](../../../transcriptions/yt-mASNXinF0mA.md) https://www.youtube.com/watch?v=mASNXinF0mA

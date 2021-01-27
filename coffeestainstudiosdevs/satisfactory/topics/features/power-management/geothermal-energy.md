@@ -1,8 +1,8 @@
 ---
-title: "Features > Power Management > Geothermal Energy"
+title: "Geothermal Energy"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Power Management](../power-management.md) > Geothermal Energy
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Geothermal Energy
 
 ## January 19th, 2021 Livestream
 * [Q&A: Will you change Geothermal Generators?](../../../transcriptions/yt-MmCfcNv8F8o.md) https://www.youtube.com/watch?v=MmCfcNv8F8o

@@ -1,8 +1,8 @@
 ---
-title: "Environment > Resources > S.A.M. Ore"
+title: "S.A.M. Ore"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Environment](../../environment.md) >  > [Resources](../resources.md) > S.A.M. Ore
+# [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
 ## January 12th, 2021 Livestream
 * [Q&A: What's happening with S.A.M. Ore?](../../../transcriptions/yt-f0Z9VIAK5Iw.md) https://www.youtube.com/watch?v=f0Z9VIAK5Iw

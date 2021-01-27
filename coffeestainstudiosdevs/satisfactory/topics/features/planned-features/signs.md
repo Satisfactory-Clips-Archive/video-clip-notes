@@ -1,8 +1,8 @@
 ---
-title: "Features > Planned Features > Signs"
+title: "Signs"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Planned Features](../planned-features.md) > Signs
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Planned Features](../../../topics/features/planned-features.md) > Signs
 
 ## January 26th, 2021 Livestream
 * [Q&A: Are we getting signs any time soon?](../../../transcriptions/yt-RAYufEKcGLk.md) https://www.youtube.com/watch?v=RAYufEKcGLk

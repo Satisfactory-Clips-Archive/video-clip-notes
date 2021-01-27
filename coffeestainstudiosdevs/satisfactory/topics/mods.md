@@ -3,8 +3,8 @@ title: "Mods"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Mods
-* [Mods vs. Features](./mods/mods-vs-features.md)
-* [Official Mod Support](./mods/official-mod-support.md)
+* [Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Official Mod Support](../topics/mods/official-mod-support.md)
 
 ## January 26th, 2021 Livestream
 * [Q&A: When will Mods work again?](../transcriptions/yt-u6HJZ1gJhRk.md) https://www.youtube.com/watch?v=u6HJZ1gJhRk

@@ -1,8 +1,8 @@
 ---
-title: "Features > Crafting > Fuel"
+title: "Fuel"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Crafting](../crafting.md) > Fuel
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Fuel
 
 ## January 19th, 2021 Livestream
 * [Q&A: Will we use the Blender for Diluted Fuel?](../../../transcriptions/yt-9rPXUN4W5Hg.md) https://www.youtube.com/watch?v=9rPXUN4W5Hg

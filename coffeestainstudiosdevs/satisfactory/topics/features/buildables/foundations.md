@@ -1,8 +1,8 @@
 ---
-title: "Features > Buildables > Foundations"
+title: "Foundations"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Buildables](../buildables.md) > Foundations
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Foundations
 
 ## January 26th, 2021 Livestream
 * [Q&A: Will physics be improved later on, i.e. Steel Beams for supports instead of floating platforms?](../../../transcriptions/yt-H5XZebVqyTA.md) https://www.youtube.com/watch?v=H5XZebVqyTA

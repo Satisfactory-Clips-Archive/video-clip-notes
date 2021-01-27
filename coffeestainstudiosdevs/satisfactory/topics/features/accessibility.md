@@ -1,9 +1,9 @@
 ---
-title: "Features > Accessibility"
+title: "Accessibility"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../features.md) > Accessibility
-* [Arachnophobia Mode](./accessibility/arachnophobia-mode.md)
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Accessibility
+* [Arachnophobia Mode](../../topics/features/accessibility/arachnophobia-mode.md)
 
 ## January 19th, 2021 Livestream
 * [State of Dev: Closed Captions](../../transcriptions/yt-sAS09ChPivY.md) https://www.youtube.com/watch?v=sAS09ChPivY

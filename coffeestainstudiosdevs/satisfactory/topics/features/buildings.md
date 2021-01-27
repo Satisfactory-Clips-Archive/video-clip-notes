@@ -1,21 +1,21 @@
 ---
-title: "Features > Buildings"
+title: "Buildings"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../features.md) > Buildings
-* [Assembler](./buildings/assembler.md)
-* [AWESOME Sink](./buildings/awesome-sink.md)
-* [AWESOME Store](./buildings/awesome-store.md)
-* [Blender](./buildings/blender.md)
-* [M.A.M.](./buildings/m-a-m.md)
-* [Oil Extractor](./buildings/oil-extractor.md)
-* [Packager](./buildings/packager.md)
-* [Radar Tower](./buildings/radar-tower.md)
-* [Refinery](./buildings/refinery.md)
-* [Resource Well Extractor](./buildings/resource-well-extractor.md)
-* [Resource Well Pressurizer](./buildings/resource-well-pressurizer.md)
-* [Space Elevator](./buildings/space-elevator.md)
-* [The HUB](./buildings/the-hub.md)
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Buildings
+* [Assembler](../../topics/features/buildings/assembler.md)
+* [AWESOME Sink](../../topics/features/buildings/awesome-sink.md)
+* [AWESOME Store](../../topics/features/buildings/awesome-store.md)
+* [Blender](../../topics/features/buildings/blender.md)
+* [M.A.M.](../../topics/features/buildings/m-a-m.md)
+* [Oil Extractor](../../topics/features/buildings/oil-extractor.md)
+* [Packager](../../topics/features/buildings/packager.md)
+* [Radar Tower](../../topics/features/buildings/radar-tower.md)
+* [Refinery](../../topics/features/buildings/refinery.md)
+* [Resource Well Extractor](../../topics/features/buildings/resource-well-extractor.md)
+* [Resource Well Pressurizer](../../topics/features/buildings/resource-well-pressurizer.md)
+* [Space Elevator](../../topics/features/buildings/space-elevator.md)
+* [The HUB](../../topics/features/buildings/the-hub.md)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Any plans for deterioration or maintenance mechanics for Buildings?](../../transcriptions/yt-W8Ia5yx0n-k.md) https://www.youtube.com/watch?v=W8Ia5yx0n-k

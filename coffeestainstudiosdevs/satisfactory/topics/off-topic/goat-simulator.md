@@ -1,8 +1,8 @@
 ---
-title: "Off-Topic > Goat Simulator"
+title: "Goat Simulator"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Off-Topic](../off-topic.md) > Goat Simulator
+# [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
 ## January 26th, 2021 Livestream
 * [Q&A: Is the game only good because you made Goat Simulator?](../../transcriptions/yt-RkTbSfY1pKc.md) https://www.youtube.com/watch?v=RkTbSfY1pKc

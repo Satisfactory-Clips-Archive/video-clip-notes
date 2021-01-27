@@ -1,8 +1,8 @@
 ---
-title: "Features > Transportation > Vehicles > Factory Cart"
+title: "Factory Cart"
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > [Features](../../../features.md) >  > [Transportation](../../transportation.md) >  > [Vehicles](../vehicles.md) > Factory Cart
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Transportation](../../../../topics/features/transportation.md) > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Factory Cart
 
 ## September 22nd, 2020 Livestream
 * [Q&A: Removing 90 Factory Carts doubled my FPS](../../../../transcriptions/yt-R6XOvosAptg.md) https://www.youtube.com/watch?v=R6XOvosAptg

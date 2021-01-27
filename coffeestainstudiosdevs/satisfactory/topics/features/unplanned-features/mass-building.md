@@ -1,8 +1,8 @@
 ---
-title: "Features > Unplanned Features > Mass Building"
+title: "Mass Building"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Unplanned Features](../unplanned-features.md) > Mass Building
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Mass Building
 
 ## January 19th, 2021 Livestream
 * [Q&A: Mass Foundation creation?](../../../transcriptions/yt-Z0H06UJbb4E.md) https://www.youtube.com/watch?v=Z0H06UJbb4E

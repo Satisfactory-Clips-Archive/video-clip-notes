@@ -1,8 +1,8 @@
 ---
-title: "Technology > Graphics"
+title: "Graphics"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Technology](../technology.md) > Graphics
+# [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Graphics
 
 ## January 26th, 2021 Livestream
 * [Q&A: Is ray-trace in planning?](../../transcriptions/yt-Rx_M6fLOzvM.md) https://www.youtube.com/watch?v=Rx_M6fLOzvM

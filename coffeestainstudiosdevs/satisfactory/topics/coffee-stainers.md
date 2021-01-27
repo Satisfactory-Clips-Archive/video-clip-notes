@@ -3,18 +3,18 @@ title: "Coffee Stainers"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Coffee Stainers
-* [Ben](./coffee-stainers/ben.md)
-* [Birk](./coffee-stainers/birk.md)
-* [Dylan](./coffee-stainers/dylan.md)
-* [Hannah](./coffee-stainers/hannah.md)
-* [Jace](./coffee-stainers/jace.md)
-* [Kristoffer](./coffee-stainers/kristoffer.md)
-* [Linus](./coffee-stainers/linus.md)
-* [Mark](./coffee-stainers/mark.md)
-* [Nathalie](./coffee-stainers/nathalie.md)
-* [Simon](./coffee-stainers/simon.md)
-* [Snutt](./coffee-stainers/snutt.md)
-* [Tim](./coffee-stainers/tim.md)
+* [Ben](../topics/coffee-stainers/ben.md)
+* [Birk](../topics/coffee-stainers/birk.md)
+* [Dylan](../topics/coffee-stainers/dylan.md)
+* [Hannah](../topics/coffee-stainers/hannah.md)
+* [Jace](../topics/coffee-stainers/jace.md)
+* [Kristoffer](../topics/coffee-stainers/kristoffer.md)
+* [Linus](../topics/coffee-stainers/linus.md)
+* [Mark](../topics/coffee-stainers/mark.md)
+* [Nathalie](../topics/coffee-stainers/nathalie.md)
+* [Simon](../topics/coffee-stainers/simon.md)
+* [Snutt](../topics/coffee-stainers/snutt.md)
+* [Tim](../topics/coffee-stainers/tim.md)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Where is Coffee Stain HQ located?](../transcriptions/yt-1xr77MkTmdM.md) https://www.youtube.com/watch?v=1xr77MkTmdM

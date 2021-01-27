@@ -3,8 +3,8 @@ title: "Community"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Community
-* [Joshie](./community/joshie.md)
-* [Wiki](./community/wiki.md)
+* [Joshie](../topics/community/joshie.md)
+* [Wiki](../topics/community/wiki.md)
 
 ## January 26th, 2021 Livestream
 * [Q&A: How many bugs did you fix of the ones Let's Game It Out discovered?](../transcriptions/yt-OZTQGd4ZZ_E.md) https://www.youtube.com/watch?v=OZTQGd4ZZ_E

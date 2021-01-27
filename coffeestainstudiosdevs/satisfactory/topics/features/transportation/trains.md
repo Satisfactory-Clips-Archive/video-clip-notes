@@ -1,9 +1,9 @@
 ---
-title: "Features > Transportation > Trains"
+title: "Trains"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Transportation](../transportation.md) > Trains
-* [Train Signals](./trains/train-signals.md)
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Transportation](../../../topics/features/transportation.md) > Trains
+* [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Have there been any changes on Train collision stuff?](../../../transcriptions/yt-KvIFKOokxYE.md) https://www.youtube.com/watch?v=KvIFKOokxYE

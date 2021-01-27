@@ -1,8 +1,8 @@
 ---
-title: "Features > Paint"
+title: "Paint"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../features.md) > Paint
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Paint
 
 ## January 26th, 2021 Livestream
 * [Q&A: Any chance on updating level-of-detail for coloured Walls?](../../transcriptions/yt-b7j3iswXHAc.md) https://www.youtube.com/watch?v=b7j3iswXHAc

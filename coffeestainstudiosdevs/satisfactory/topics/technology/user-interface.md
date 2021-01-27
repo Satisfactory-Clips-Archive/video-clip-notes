@@ -1,8 +1,8 @@
 ---
-title: "Technology > User Interface"
+title: "User Interface"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Technology](../technology.md) > User Interface
+# [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 
 ## January 26th, 2021 Livestream
 * State of Dev: User Interface changes https://www.youtube.com/watch?v=XGNTN8I4PL0

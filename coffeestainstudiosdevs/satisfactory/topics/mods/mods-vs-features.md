@@ -1,8 +1,8 @@
 ---
-title: "Mods > Mods vs. Features"
+title: "Mods vs. Features"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Mods](../mods.md) > Mods vs. Features
+# [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
 ## January 26th, 2021 Livestream
 * [Q&A: Farming would be cool?](../../transcriptions/yt-qO1Zl01HfqU.md) https://www.youtube.com/watch?v=qO1Zl01HfqU

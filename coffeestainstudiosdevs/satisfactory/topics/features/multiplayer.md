@@ -1,8 +1,8 @@
 ---
-title: "Features > Multiplayer"
+title: "Multiplayer"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../features.md) > Multiplayer
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Multiplayer
 
 ## January 26th, 2021 Livestream
 * [Q&A: Dedicated Servers aka Multiplayer fixes when?](../../transcriptions/yt-_XfcfZ8vfj8.md) https://www.youtube.com/watch?v=_XfcfZ8vfj8

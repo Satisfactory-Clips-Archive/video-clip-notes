@@ -1,8 +1,8 @@
 ---
-title: "Features > Unplanned Features > Space Exploration"
+title: "Space Exploration"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Unplanned Features](../unplanned-features.md) > Space Exploration
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Space Exploration
 
 ## August 25th, 2020 Livestream
 * Q&A: Will there be a rocket to leave the planet? https://clips.twitch.tv/BusyPowerfulWombatSoonerLater

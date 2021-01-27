@@ -3,7 +3,7 @@ title: "Merch"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Merch
-* [Merch Prototypes](./merch/merch-prototypes.md)
+* [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
 ## January 26th, 2021 Livestream
 * Q&A: When can we buy the Mug? https://www.youtube.com/watch?v=r6-zAmp9tgo

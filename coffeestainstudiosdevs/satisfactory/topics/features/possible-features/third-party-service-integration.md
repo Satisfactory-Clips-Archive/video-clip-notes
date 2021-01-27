@@ -1,8 +1,8 @@
 ---
-title: "Features > Possible Features > Third-Party Service Integration"
+title: "Third-Party Service Integration"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Possible Features](../possible-features.md) > Third-Party Service Integration
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Third-Party Service Integration
 
 ## January 19th, 2021 Livestream
 * [Snutt Talk: GeForce NOW](../../../transcriptions/yt-JDXZ-q-9na0.md) https://www.youtube.com/watch?v=JDXZ-q-9na0

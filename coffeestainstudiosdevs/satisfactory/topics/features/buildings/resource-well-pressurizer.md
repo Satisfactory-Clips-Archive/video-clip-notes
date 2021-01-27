@@ -1,8 +1,8 @@
 ---
-title: "Features > Buildings > Resource Well Pressurizer"
+title: "Resource Well Pressurizer"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Buildings](../buildings.md) > Resource Well Pressurizer
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Resource Well Pressurizer
 
 ## January 19th, 2021 Livestream
 * [Q&A: What's the cost of the Resource Well Extractors & Pressurisers (Part 1)](../../../transcriptions/yt-Ik8K1G6lGyM.md) https://www.youtube.com/watch?v=Ik8K1G6lGyM

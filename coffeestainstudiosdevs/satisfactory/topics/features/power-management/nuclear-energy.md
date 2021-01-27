@@ -1,9 +1,9 @@
 ---
-title: "Features > Power Management > Nuclear Energy"
+title: "Nuclear Energy"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Power Management](../power-management.md) > Nuclear Energy
-* [Nuclear Waste](./nuclear-energy/nuclear-waste.md)
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Nuclear Energy
+* [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Can we still skip the Nuclear part for Energy Production?](../../../transcriptions/yt-Are7eJK9iKk.md) https://www.youtube.com/watch?v=Are7eJK9iKk

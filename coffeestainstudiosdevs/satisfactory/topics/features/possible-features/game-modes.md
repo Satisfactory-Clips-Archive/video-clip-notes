@@ -1,8 +1,8 @@
 ---
-title: "Features > Possible Features > Game Modes"
+title: "Game Modes"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Possible Features](../possible-features.md) > Game Modes
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Game Modes
 
 ## January 26th, 2021 Livestream
 * [Q&A: Will you guys eventually add survival elements like hunger & thirst?](../../../transcriptions/yt-5QJJqDM03Ww.md) https://www.youtube.com/watch?v=5QJJqDM03Ww

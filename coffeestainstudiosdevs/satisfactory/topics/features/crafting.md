@@ -1,10 +1,10 @@
 ---
-title: "Features > Crafting"
+title: "Crafting"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Features](../features.md) > Crafting
-* [Fuel](./crafting/fuel.md)
-* [Superposition Oscillator](./crafting/superposition-oscillator.md)
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Crafting
+* [Fuel](../../topics/features/crafting/fuel.md)
+* [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
 ## October 13th, 2020 Livestream
 * [Q&A: Is it possible to use the add to-do list without visiting the crafting bench?](../../transcriptions/yt-ValaMW93Q7g.md) https://www.youtube.com/watch?v=ValaMW93Q7g

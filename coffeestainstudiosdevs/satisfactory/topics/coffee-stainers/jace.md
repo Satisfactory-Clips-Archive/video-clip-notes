@@ -1,8 +1,8 @@
 ---
-title: "Coffee Stainers > Jace"
+title: "Jace"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > [Coffee Stainers](../coffee-stainers.md) > Jace
+# [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
 ## January 26th, 2021 Livestream
 * [Snutt & Jace Talk: Shaving](../../transcriptions/yt-2lh_A-WR2Gw.md) https://www.youtube.com/watch?v=2lh_A-WR2Gw
