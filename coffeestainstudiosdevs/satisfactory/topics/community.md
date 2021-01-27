@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Community
 
+# January 26th, 2021 Livestream
+* [Q&A: How many bugs did you fix of the ones Let's Game It Out discovered?](../transcriptions/yt-OZTQGd4ZZ_E.md) https://www.youtube.com/watch?v=OZTQGd4ZZ_E
+
 # January 19th, 2021 Livestream
 * [Q&A: If the community made a Snow Biome, would you add that?](../transcriptions/yt-I8rWTBGdGio.md) https://www.youtube.com/watch?v=I8rWTBGdGio
 * [Q&A: Any news from the Content Creator program?](../transcriptions/yt-UbRjqQgji40.md) https://www.youtube.com/watch?v=UbRjqQgji40

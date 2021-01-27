@@ -4,6 +4,22 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory Update 4
 
+# January 26th, 2021 Livestream
+* State of Dev: Update 4 https://www.youtube.com/watch?v=HjMEFo3mt_s
+* [State of Dev: Update 4 release date](../../../transcriptions/yt-scIACwZmTgE.md) https://www.youtube.com/watch?v=scIACwZmTgE
+* Snutt & Jace Talk: Potential change to User Interface https://www.youtube.com/watch?v=GsGsIQ1FleQ
+* [Q&A: Does the game get another dramatic change like in Update 3 in the future?](../../../transcriptions/yt-9d3Uu7bu8q4.md) https://www.youtube.com/watch?v=9d3Uu7bu8q4
+* Q&A: How many Updates do you have planned before 1.0? https://www.youtube.com/watch?v=7t2DLBi7kl8
+* [Q&A: Have there been any changes on Train collision stuff?](../../../transcriptions/yt-KvIFKOokxYE.md) https://www.youtube.com/watch?v=KvIFKOokxYE
+* [Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?](../../../transcriptions/yt--N0atMiN9dM.md) https://www.youtube.com/watch?v=-N0atMiN9dM
+* [Q&A: New teaser this thursday/friday?](../../../transcriptions/yt-yqYVuPOQIWc.md) https://www.youtube.com/watch?v=yqYVuPOQIWc
+* [Q&A: News for the Work In Progress collectables for anything in Update 4?](../../../transcriptions/yt-5vlFsF0dm3E.md) https://www.youtube.com/watch?v=5vlFsF0dm3E
+* [Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?](../../../transcriptions/yt-zYh_QUHwAh4.md) https://www.youtube.com/watch?v=zYh_QUHwAh4
+* [Q&A: Will Update 4 be rolled out to Experimental first?](../../../transcriptions/yt-xJ3zk3Yvav0.md) https://www.youtube.com/watch?v=xJ3zk3Yvav0
+* [Q&A: What is blocking you now from releasing Update 4, Story elements, Buildings, Maps?](../../../transcriptions/yt-pCwOyYQ1f6Y.md) https://www.youtube.com/watch?v=pCwOyYQ1f6Y
+* [Q&A: Can we see a sneak-peek video?](../../../transcriptions/yt-w0h08ctpsz4.md) https://www.youtube.com/watch?v=w0h08ctpsz4
+* [Q&A: Update 4 estimate?](../../../transcriptions/yt-R-GjcKzww6Y.md) https://www.youtube.com/watch?v=R-GjcKzww6Y
+
 # January 22nd, 2021 Instagram AMA
 * Q&A: When is update 4!!!!! https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA_-_When_is_Update_4.mp4
 

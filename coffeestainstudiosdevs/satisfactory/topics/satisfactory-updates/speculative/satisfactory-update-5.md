@@ -4,6 +4,11 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Speculative > Satisfactory Update 5
 
+# January 26th, 2021 Livestream
+* Q&A: How many Updates do you have planned before 1.0? https://www.youtube.com/watch?v=7t2DLBi7kl8
+* [Q&A: Have there been any changes on Train collision stuff?](../../../transcriptions/yt-KvIFKOokxYE.md) https://www.youtube.com/watch?v=KvIFKOokxYE
+* [Q&A: Update 5 new Tiers?](../../../transcriptions/yt-DyXs7ps8cOY.md) https://www.youtube.com/watch?v=DyXs7ps8cOY
+
 # November 17th, 2020 Livestream
 * [Q&A: Any news on big Crab monster?](../../../transcriptions/yt-tTXExwaqZQM.md) https://www.youtube.com/watch?v=tTXExwaqZQM
 

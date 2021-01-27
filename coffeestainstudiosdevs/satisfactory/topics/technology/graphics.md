@@ -4,6 +4,14 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Technology > Graphics
 
+# January 26th, 2021 Livestream
+* [Q&A: Is ray-trace in planning?](../../transcriptions/yt-Rx_M6fLOzvM.md) https://www.youtube.com/watch?v=Rx_M6fLOzvM
+* [Q&A: VR support would be heavenly?](../../transcriptions/yt-0Ld1fbTEOvM.md) https://www.youtube.com/watch?v=0Ld1fbTEOvM
+* [Q&A: Any chance on updating level-of-detail for coloured Walls?](../../transcriptions/yt-b7j3iswXHAc.md) https://www.youtube.com/watch?v=b7j3iswXHAc
+* [Q&A: In terms of pure performance is the fewer items being moved by Conveyor, the better?](../../transcriptions/yt-h0rUjNNgiCw.md) https://www.youtube.com/watch?v=h0rUjNNgiCw
+* [Q&A: Lights & Lampposts please?](../../transcriptions/yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g
+* [Q&A: Ability to sleep coming any time?](../../transcriptions/yt-kDwywg_UJoc.md) https://www.youtube.com/watch?v=kDwywg_UJoc
+
 # January 19th, 2021 Livestream
 * [Snutt Talk: We're not using a linear colour space](../../transcriptions/yt-jigwsKo5YKY.md) https://www.youtube.com/watch?v=jigwsKo5YKY
 * [Snut Talk: Engine Upgrade - DirectX 12](../../transcriptions/yt-2QfjxpKJVIE.md) https://www.youtube.com/watch?v=2QfjxpKJVIE

@@ -4,6 +4,13 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Off-Topic
 
+# January 26th, 2021 Livestream
+* [Snutt & Jace Talk: Shaving](../transcriptions/yt-2lh_A-WR2Gw.md) https://www.youtube.com/watch?v=2lh_A-WR2Gw
+* [Q&A: Have you seen the Dyson Sphere Program?](../transcriptions/yt-iANJAR0M2eQ.md) https://www.youtube.com/watch?v=iANJAR0M2eQ
+* [Jace Talk: I do not stand with Unity haters](../transcriptions/yt-JKt7rPe50mY.md) https://www.youtube.com/watch?v=JKt7rPe50mY
+* [Jace Talk: I used geocities and angelfire back in the day](../transcriptions/yt-KfvXbDycjds.md) https://www.youtube.com/watch?v=KfvXbDycjds
+* Q&A: Some anime recommendations? https://www.youtube.com/watch?v=ryEPfOM3oME
+
 # January 19th, 2021 Livestream
 * [Q&A: Did you get a Twitch Rewind infographic for last year's watch times?](../transcriptions/yt-CNd_Z6vheZE.md) https://www.youtube.com/watch?v=CNd_Z6vheZE
 

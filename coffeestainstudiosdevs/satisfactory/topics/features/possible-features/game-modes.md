@@ -4,6 +4,10 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Possible Features > Game Modes
 
+# January 26th, 2021 Livestream
+* [Q&A: Will you guys eventually add survival elements like hunger & thirst?](../../../transcriptions/yt-5QJJqDM03Ww.md) https://www.youtube.com/watch?v=5QJJqDM03Ww
+* [Q&A: Battle Royale mode?](../../../transcriptions/yt-U4t0BJ7mjwc.md) https://www.youtube.com/watch?v=U4t0BJ7mjwc
+
 # December 15th, 2020 Livestream
 * [Q&A: How about Creative Mode?](../../../transcriptions/yt-pFc0pdgYnlU.md) https://www.youtube.com/watch?v=pFc0pdgYnlU
 * [Q&A: Can we get turrets and more PvE?](../../../transcriptions/yt-sJnuRV0OGF0.md) https://www.youtube.com/watch?v=sJnuRV0OGF0

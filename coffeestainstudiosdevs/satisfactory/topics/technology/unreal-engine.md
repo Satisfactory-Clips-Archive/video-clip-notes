@@ -4,6 +4,14 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Technology > Unreal Engine
 
+# January 26th, 2021 Livestream
+* Q&A: Will you tell here the current build limit number considering the Engine Upgrade? https://www.youtube.com/watch?v=WfU45N1EvQ0
+* [Q&A: Are each of the items it's own actor or are they mesh instances like HISM?](../../transcriptions/yt-aNBmGx4Q5fw.md) https://www.youtube.com/watch?v=aNBmGx4Q5fw
+* [Q&A: When will the code be optimised for the new engine?](../../transcriptions/yt-FVT8_xB9V94.md) https://www.youtube.com/watch?v=FVT8_xB9V94
+* [Q&A: To what extent do you overhaul the engine?](../../transcriptions/yt-CQJERurn85U.md) https://www.youtube.com/watch?v=CQJERurn85U
+* [Q&A: Replication graph? That sounds familiar to my crash.](../../transcriptions/yt-sdo0vTu0RoE.md) https://www.youtube.com/watch?v=sdo0vTu0RoE
+* [Q&A: Ability to sleep coming any time?](../../transcriptions/yt-kDwywg_UJoc.md) https://www.youtube.com/watch?v=kDwywg_UJoc
+
 # January 19th, 2021 Livestream
 * [State of Dev: Engine Upgrade](../../transcriptions/yt-WIK1Ko-rCTE.md) https://www.youtube.com/watch?v=WIK1Ko-rCTE
 * [Q&A: Will the Engine Upgrade affect our Windows installation?](../../transcriptions/yt-xIfzyBihoI4.md) https://www.youtube.com/watch?v=xIfzyBihoI4

@@ -4,6 +4,14 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Trolling
 
+# January 26th, 2021 Livestream
+* [Q&A: How are the talks with exclusivity on KFConsole?](../transcriptions/yt-hEs8MwzAoig.md) https://www.youtube.com/watch?v=hEs8MwzAoig
+* [Q&A: Were you serious about the drones in the last YouTube video?](../transcriptions/yt-bbAGxhCSN8c.md) https://www.youtube.com/watch?v=bbAGxhCSN8c
+* [Q&A: Can we expect aircraft any time?](../transcriptions/yt-XMIUlTU9xcU.md) https://www.youtube.com/watch?v=XMIUlTU9xcU
+* [Q&A: Battle Royale mode?](../transcriptions/yt-U4t0BJ7mjwc.md) https://www.youtube.com/watch?v=U4t0BJ7mjwc
+* [Q&A: Will you add drones to Satisfactory?](../transcriptions/yt-pdppJAPp4yA.md) https://www.youtube.com/watch?v=pdppJAPp4yA
+* [Snutt & Jace Talk: Everyone call Snutt "senpai" from now on.](../transcriptions/yt-9pr79A-BvHU.md) https://www.youtube.com/watch?v=9pr79A-BvHU
+
 # January 19th, 2021 Livestream
 * [Snutt Talk: Which one is the Assembler again?](../transcriptions/yt-rNeiGrE8ZL0.md) https://www.youtube.com/watch?v=rNeiGrE8ZL0
 * [Q&A: Why are Conveyor Belts not powered?](../transcriptions/yt-X2A_DOO7O4c.md) https://www.youtube.com/watch?v=X2A_DOO7O4c

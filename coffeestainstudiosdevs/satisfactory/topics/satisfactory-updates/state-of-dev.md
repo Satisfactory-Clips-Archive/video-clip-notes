@@ -4,6 +4,12 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Satisfactory Updates > State of Dev
 
+# January 26th, 2021 Livestream
+* State of Dev: Update 4 https://www.youtube.com/watch?v=HjMEFo3mt_s
+* [State of Dev: Video Release Schedule](../../transcriptions/yt-K-L2cEZmj4c.md) https://www.youtube.com/watch?v=K-L2cEZmj4c
+* State of Dev: User Interface changes https://www.youtube.com/watch?v=XGNTN8I4PL0
+* [State of Dev: Update 4 release date](../../transcriptions/yt-scIACwZmTgE.md) https://www.youtube.com/watch?v=scIACwZmTgE
+
 # January 19th, 2021 Livestream
 * [State of Dev: Closed Captions](../../transcriptions/yt-sAS09ChPivY.md) https://www.youtube.com/watch?v=sAS09ChPivY
 * [State of Dev: Engine Upgrade](../../transcriptions/yt-WIK1Ko-rCTE.md) https://www.youtube.com/watch?v=WIK1Ko-rCTE

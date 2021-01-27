@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Possible Features > Character Customisation
 
+# January 26th, 2021 Livestream
+* [Q&A: Are we going to get googly eyes?](../../../transcriptions/yt-lkPWRnkW9OU.md) https://www.youtube.com/watch?v=lkPWRnkW9OU
+
 # January 12th, 2021 Livestream
 * [Q&A: New skins?](../../../transcriptions/yt--IYD97gEt4w.md) https://www.youtube.com/watch?v=-IYD97gEt4w
 

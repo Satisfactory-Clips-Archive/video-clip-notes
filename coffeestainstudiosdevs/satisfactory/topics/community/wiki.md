@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Community > Wiki
 
+# January 26th, 2021 Livestream
+* [Q&A: Check the Future content page on the wiki?](../../transcriptions/yt-hcLeqMUzJ08.md) https://www.youtube.com/watch?v=hcLeqMUzJ08
+
 # January 19th, 2021 Livestream
 * [Snutt Talk: Which one is the Assembler again?](../../transcriptions/yt-rNeiGrE8ZL0.md) https://www.youtube.com/watch?v=rNeiGrE8ZL0
 

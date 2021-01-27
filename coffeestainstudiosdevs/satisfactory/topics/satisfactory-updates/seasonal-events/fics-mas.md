@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Seasonal Events > FICS⁕MAS
 
+# January 26th, 2021 Livestream
+* [Q&A: Give FICS⁕MAS back?](../../../transcriptions/yt-CmQgxVzbXoQ.md) https://www.youtube.com/watch?v=CmQgxVzbXoQ
+
 # January 12th, 2021 Livestream
 * State of Dev - FICS⁕MAS https://www.youtube.com/watch?v=dnkH1mqdCKI
 

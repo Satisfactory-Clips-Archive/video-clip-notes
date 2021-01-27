@@ -4,6 +4,12 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Satisfactory Updates > Release Builds
 
+# January 26th, 2021 Livestream
+* [Q&A: Did you know Satisfactory Experimental is running well on Linux Mint?](../../transcriptions/yt-3d5h-Okw-uU.md) https://www.youtube.com/watch?v=3d5h-Okw-uU
+* [Q&A: Had a save game from Early Access, spent time in Experimental, now back on EA it doesn't work?](../../transcriptions/yt-b586YMEHeRk.md) https://www.youtube.com/watch?v=b586YMEHeRk
+* [Q&A: When will the code be optimised for the new engine?](../../transcriptions/yt-FVT8_xB9V94.md) https://www.youtube.com/watch?v=FVT8_xB9V94
+* [Q&A: Will Update 4 be rolled out to Experimental first?](../../transcriptions/yt-xJ3zk3Yvav0.md) https://www.youtube.com/watch?v=xJ3zk3Yvav0
+
 # January 19th, 2021 Livestream
 * [Q&A: Will the Engine Upgrade work on Linux?](../../transcriptions/yt-twjZc7ImIts.md) https://www.youtube.com/watch?v=twjZc7ImIts
 * [Snutt Talk: Switching from Early Access to Experimental builds](../../transcriptions/yt-mnxaJP6wmnE.md) https://www.youtube.com/watch?v=mnxaJP6wmnE

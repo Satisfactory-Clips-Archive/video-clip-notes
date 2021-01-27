@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Mods > Official Mod Support
 
+# January 26th, 2021 Livestream
+* [Q&A: When will Mods work again?](../../transcriptions/yt-u6HJZ1gJhRk.md) https://www.youtube.com/watch?v=u6HJZ1gJhRk
+
 # December 8th, 2020 Livestream
 * Q&A: Will there be official mod support in the future? https://www.youtube.com/watch?v=7igkLYvzHCU
 * [Q&A: Any hints you can give on the level of mod support you'll provide eventually?](../../transcriptions/yt-o7FFLZpEf_Y.md) https://www.youtube.com/watch?v=o7FFLZpEf_Y

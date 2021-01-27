@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Equipment > Jetpack
 
+# January 26th, 2021 Livestream
+* [Q&A: Are we looking at improving the maneuverability of Jetpacks?](../../../transcriptions/yt-VNMPlZTlRGk.md) https://www.youtube.com/watch?v=VNMPlZTlRGk
+
 # January 12th, 2021 Livestream
 * [Snutt Talk: Turbofuel in Jetpacks](../../../transcriptions/yt-xY2wDhyE7ZE.md) https://www.youtube.com/watch?v=xY2wDhyE7ZE
 

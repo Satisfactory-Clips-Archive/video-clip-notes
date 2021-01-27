@@ -4,6 +4,16 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Coffee Stainers > Snutt
 
+# January 26th, 2021 Livestream
+* [Snutt & Jace Talk: Shaving](../../transcriptions/yt-2lh_A-WR2Gw.md) https://www.youtube.com/watch?v=2lh_A-WR2Gw
+* [Q&A: What do you guys do outside of Community Manager responsibilities?](../../transcriptions/yt-AoGBlnRxGdw.md) https://www.youtube.com/watch?v=AoGBlnRxGdw
+* [Q&A: How much do you both play Satisfactory?](../../transcriptions/yt-fIb1LHQ0TJw.md) https://www.youtube.com/watch?v=fIb1LHQ0TJw
+* [Q&A: Do either of you have a FICSIT checkmark tatooed on your person?](../../transcriptions/yt-72yhov-YwuU.md) https://www.youtube.com/watch?v=72yhov-YwuU
+* [Q&A: When did you guys first have an interest in programming?](../../transcriptions/yt-e0zlCy61u4w.md) https://www.youtube.com/watch?v=e0zlCy61u4w
+* [Q&A: Do you ever lurk on Satisfactory streams and watch vids?](../../transcriptions/yt-IQYDSa80AL0.md) https://www.youtube.com/watch?v=IQYDSa80AL0
+* Q&A: Some anime recommendations? https://www.youtube.com/watch?v=ryEPfOM3oME
+* [Snutt & Jace Talk: Everyone call Snutt "senpai" from now on.](../../transcriptions/yt-9pr79A-BvHU.md) https://www.youtube.com/watch?v=9pr79A-BvHU
+
 # January 19th, 2021 Livestream
 * [Q&A: Does Snutt even play the game?](../../transcriptions/yt-2l7uHjYr2v4.md) https://www.youtube.com/watch?v=2l7uHjYr2v4
 * [Q&A: How many languages does Snutt speak?](../../transcriptions/yt-NQS-IFhG8o8.md) https://www.youtube.com/watch?v=NQS-IFhG8o8

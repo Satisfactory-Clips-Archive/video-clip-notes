@@ -4,6 +4,12 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Merch
 
+# January 26th, 2021 Livestream
+* Q&A: When can we buy the Mug? https://www.youtube.com/watch?v=r6-zAmp9tgo
+* [Q&A: You can't find a place to make a Cup?](../transcriptions/yt-F90s1pV1WWY.md) https://www.youtube.com/watch?v=F90s1pV1WWY
+* [Q&A: Plush?](../transcriptions/yt-svSLbvLwSxQ.md) https://www.youtube.com/watch?v=svSLbvLwSxQ
+* [Q&A: Whose idea was the Coffee Cup anyway?](../transcriptions/yt-JiqZXOgj8WA.md) https://www.youtube.com/watch?v=JiqZXOgj8WA
+
 # January 12th, 2021 Livestream
 * [State of Dev: Mug Merch](../transcriptions/yt-sDMER4xm8Gc.md) https://www.youtube.com/watch?v=sDMER4xm8Gc
 * [Q&A: When will Merch shipping worldwide be possible?](../transcriptions/yt-iyFXDTn2YPM.md) https://www.youtube.com/watch?v=iyFXDTn2YPM

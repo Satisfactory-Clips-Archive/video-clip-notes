@@ -4,6 +4,10 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Soundtrack
 
+# January 26th, 2021 Livestream
+* [Q&A: New music theme coming?](../transcriptions/yt-3Xf0xozi8zc.md) https://www.youtube.com/watch?v=3Xf0xozi8zc
+* [Q&A: The music is awesome, can you add some more?](../transcriptions/yt-O53AjVF79aE.md) https://www.youtube.com/watch?v=O53AjVF79aE
+
 # November 17th, 2020 Livestream
 * [Q&A: DMCA Strikes if we use your Music?](../transcriptions/yt-YMOHvk22t2Y.md) https://www.youtube.com/watch?v=YMOHvk22t2Y
 

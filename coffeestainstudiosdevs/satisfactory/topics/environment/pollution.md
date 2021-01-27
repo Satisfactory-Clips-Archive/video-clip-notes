@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > Pollution
 
+# January 26th, 2021 Livestream
+* [Q&A: Acid rain?](../../transcriptions/yt-wKU558LFiqI.md) https://www.youtube.com/watch?v=wKU558LFiqI
+
 # November 17th, 2020 Livestream
 * [Q&A: The world should react to the invasive destruction and polluting?](../../transcriptions/yt-G0vwHL092w4.md) https://www.youtube.com/watch?v=G0vwHL092w4
 

@@ -4,6 +4,15 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Coffee Stainers > Jace
 
+# January 26th, 2021 Livestream
+* [Snutt & Jace Talk: Shaving](../../transcriptions/yt-2lh_A-WR2Gw.md) https://www.youtube.com/watch?v=2lh_A-WR2Gw
+* [Q&A: What do you guys do outside of Community Manager responsibilities?](../../transcriptions/yt-AoGBlnRxGdw.md) https://www.youtube.com/watch?v=AoGBlnRxGdw
+* [Q&A: How much do you both play Satisfactory?](../../transcriptions/yt-fIb1LHQ0TJw.md) https://www.youtube.com/watch?v=fIb1LHQ0TJw
+* [Q&A: Do either of you have a FICSIT checkmark tatooed on your person?](../../transcriptions/yt-72yhov-YwuU.md) https://www.youtube.com/watch?v=72yhov-YwuU
+* [Q&A: When did you guys first have an interest in programming?](../../transcriptions/yt-e0zlCy61u4w.md) https://www.youtube.com/watch?v=e0zlCy61u4w
+* [Jace Talk: I used geocities and angelfire back in the day](../../transcriptions/yt-KfvXbDycjds.md) https://www.youtube.com/watch?v=KfvXbDycjds
+* [Q&A: Do you ever lurk on Satisfactory streams and watch vids?](../../transcriptions/yt-IQYDSa80AL0.md) https://www.youtube.com/watch?v=IQYDSa80AL0
+
 # January 19th, 2021 Livestream
 * [Q&A: When will Jace get to Tier 7?](../../transcriptions/yt-xmZ--a6nkQU.md) https://www.youtube.com/watch?v=xmZ--a6nkQU
 * [Q&A: Can we ban Jace from the QA site?](../../transcriptions/yt-X-dk6cTGO_g.md) https://www.youtube.com/watch?v=X-dk6cTGO_g

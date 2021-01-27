@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Mods
 
+# January 26th, 2021 Livestream
+* [Q&A: When will Mods work again?](../transcriptions/yt-u6HJZ1gJhRk.md) https://www.youtube.com/watch?v=u6HJZ1gJhRk
+
 # January 19th, 2021 Livestream
 * [Snutt Talk: Engine Upgrade is probably going to break mods.](../transcriptions/yt-lHKPC3m2Z2A.md) https://www.youtube.com/watch?v=lHKPC3m2Z2A
 * [Q&A: Is this modded because the foundations are glitching into the Power Plant?](../transcriptions/yt-03J8nqdJCtY.md) https://www.youtube.com/watch?v=03J8nqdJCtY

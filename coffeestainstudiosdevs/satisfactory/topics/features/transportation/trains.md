@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Transportation > Trains
 
+# January 26th, 2021 Livestream
+* [Q&A: Have there been any changes on Train collision stuff?](../../../transcriptions/yt-KvIFKOokxYE.md) https://www.youtube.com/watch?v=KvIFKOokxYE
+
 # January 19th, 2021 Livestream
 * [Q&A: Can more people ride the same Train soon?](../../../transcriptions/yt-YMWU_qSRI1E.md) https://www.youtube.com/watch?v=YMWU_qSRI1E
 

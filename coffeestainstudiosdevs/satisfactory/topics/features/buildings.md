@@ -4,6 +4,12 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Buildings
 
+# January 26th, 2021 Livestream
+* [Q&A: Any plans for deterioration or maintenance mechanics for Buildings?](../../transcriptions/yt-W8Ia5yx0n-k.md) https://www.youtube.com/watch?v=W8Ia5yx0n-k
+* [Q&A: Will any of the Building dimensions change?](../../transcriptions/yt-JaheHIeuxXU.md) https://www.youtube.com/watch?v=JaheHIeuxXU
+* [Q&A: What is blocking you now from releasing Update 4, Story elements, Buildings, Maps?](../../transcriptions/yt-pCwOyYQ1f6Y.md) https://www.youtube.com/watch?v=pCwOyYQ1f6Y
+* [Q&A: Any thoughts on letting you have a planning tool mode?](../../transcriptions/yt-MFCmy7atLDk.md) https://www.youtube.com/watch?v=MFCmy7atLDk
+
 # January 19th, 2021 Livestream
 * [Q&A: Some buildings used to auto-select recipes?](../../transcriptions/yt-iCOiamAc_ak.md) https://www.youtube.com/watch?v=iCOiamAc_ak
 * [Q&A: Will it be possible to use decimal places for percentages in future?](../../transcriptions/yt-zGH69_aSwwk.md) https://www.youtube.com/watch?v=zGH69_aSwwk

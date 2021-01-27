@@ -4,6 +4,10 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Off-Topic > Goat Simulator
 
+# January 26th, 2021 Livestream
+* [Q&A: Is the game only good because you made Goat Simulator?](../../transcriptions/yt-RkTbSfY1pKc.md) https://www.youtube.com/watch?v=RkTbSfY1pKc
+* [Q&A: I never connected the dots between Goat Simulator and Satisfactory?](../../transcriptions/yt-HtKqSryNU88.md) https://www.youtube.com/watch?v=HtKqSryNU88
+
 # November 17th, 2020 Livestream
 * [Trolling: Goat Simulator DLC](../../transcriptions/yt-yXp4YAvRZHg.md) https://www.youtube.com/watch?v=yXp4YAvRZHg
 

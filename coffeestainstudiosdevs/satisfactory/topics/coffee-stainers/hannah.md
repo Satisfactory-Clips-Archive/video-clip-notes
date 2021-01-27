@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Coffee Stainers > Hannah
 
+# January 26th, 2021 Livestream
+* [Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?](../../transcriptions/yt-gqIBbkGCxdI.md) https://www.youtube.com/watch?v=gqIBbkGCxdI
+
 # November 17th, 2020 Livestream
 * [Q&A: Who is Hannah?](../../transcriptions/yt-KwsiVfRUKNE.md) https://www.youtube.com/watch?v=KwsiVfRUKNE
 * [Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"](../../transcriptions/yt-hCcT5uhzwso.md) https://www.youtube.com/watch?v=hCcT5uhzwso

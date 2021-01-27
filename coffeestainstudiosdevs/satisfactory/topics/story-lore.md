@@ -4,6 +4,11 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Story & Lore
 
+# January 26th, 2021 Livestream
+* [Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?](../transcriptions/yt--N0atMiN9dM.md) https://www.youtube.com/watch?v=-N0atMiN9dM
+* [Q&A: News for the Work In Progress collectables for anything in Update 4?](../transcriptions/yt-5vlFsF0dm3E.md) https://www.youtube.com/watch?v=5vlFsF0dm3E
+* [Q&A: What is blocking you now from releasing Update 4, Story elements, Buildings, Maps?](../transcriptions/yt-pCwOyYQ1f6Y.md) https://www.youtube.com/watch?v=pCwOyYQ1f6Y
+
 # January 22nd, 2021 Instagram AMA
 * Q&A: Will you add a lore or a secret story to satisfactory? https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA_-_story_is_fully_written.mp4
 

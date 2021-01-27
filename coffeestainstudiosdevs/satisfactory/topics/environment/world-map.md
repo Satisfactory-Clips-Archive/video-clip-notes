@@ -4,6 +4,13 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > World Map
 
+# January 26th, 2021 Livestream
+* [Jace Talk: There are no plans for increasing the size of the Map](../../transcriptions/yt-aCvn84FtDMI.md) https://www.youtube.com/watch?v=aCvn84FtDMI
+* [Q&A: Is there another area rework like the desert update happening?](../../transcriptions/yt-sV-kvBvlTXc.md) https://www.youtube.com/watch?v=sV-kvBvlTXc
+* [Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?](../../transcriptions/yt-gqIBbkGCxdI.md) https://www.youtube.com/watch?v=gqIBbkGCxdI
+* [Q&A: Can add a basic non-interactive local Map from the start?](../../transcriptions/yt-9h4HwEuF2_U.md) https://www.youtube.com/watch?v=9h4HwEuF2_U
+* [Q&A: What is blocking you now from releasing Update 4, Story elements, Buildings, Maps?](../../transcriptions/yt-pCwOyYQ1f6Y.md) https://www.youtube.com/watch?v=pCwOyYQ1f6Y
+
 # January 19th, 2021 Livestream
 * [Q&A: Do we know where the new Resource Wells be placed?](../../transcriptions/yt-pMAE5-tkdGg.md) https://www.youtube.com/watch?v=pMAE5-tkdGg
 * [Snutt & Mark Talk: Building a megabase over the top of a new Resource Well or new mountain.](../../transcriptions/yt-KF8AhiHW1o0.md) https://www.youtube.com/watch?v=KF8AhiHW1o0

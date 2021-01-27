@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Off-Topic > Sanctum
 
+# January 26th, 2021 Livestream
+* [Q&A: I never connected the dots between Goat Simulator and Satisfactory?](../../transcriptions/yt-HtKqSryNU88.md) https://www.youtube.com/watch?v=HtKqSryNU88
+
 # January 19th, 2021 Livestream
 * [Q&A: Can you add factories to Sanctum since you aren't adding tower defense to Satisfactory?](../../transcriptions/yt-GZL-xNTeXlI.md) https://www.youtube.com/watch?v=GZL-xNTeXlI
 

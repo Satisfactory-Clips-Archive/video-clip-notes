@@ -4,6 +4,11 @@ date: Last Modified
 ---
 [Topics](../topics.md) > Coffee Stainers
 
+# January 26th, 2021 Livestream
+* [Q&A: Where is Coffee Stain HQ located?](../transcriptions/yt-1xr77MkTmdM.md) https://www.youtube.com/watch?v=1xr77MkTmdM
+* [Q&A: How did you come up with the idea of making Satisfactory?](../transcriptions/yt-BG-xhTN4-0Q.md) https://www.youtube.com/watch?v=BG-xhTN4-0Q
+* [Q&A: Whose idea was the Coffee Cup anyway?](../transcriptions/yt-JiqZXOgj8WA.md) https://www.youtube.com/watch?v=JiqZXOgj8WA
+
 # January 19th, 2021 Livestream
 * [Q&A: Who in Coffee Stain plays Satisfactory the most?](../transcriptions/yt-N4JpnY4zy70.md) https://www.youtube.com/watch?v=N4JpnY4zy70
 

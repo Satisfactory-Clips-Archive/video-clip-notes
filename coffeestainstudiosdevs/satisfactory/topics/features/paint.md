@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Paint
 
+# January 26th, 2021 Livestream
+* [Q&A: Any chance on updating level-of-detail for coloured Walls?](../../transcriptions/yt-b7j3iswXHAc.md) https://www.youtube.com/watch?v=b7j3iswXHAc
+
 # January 19th, 2021 Livestream
 * [Snutt Talk: We're not using a linear colour space](../../transcriptions/yt-jigwsKo5YKY.md) https://www.youtube.com/watch?v=jigwsKo5YKY
 * [Q&A: My friend has a green colour preset for all walls in the world, is there a way to change this?](../../transcriptions/yt-6DayBMofsHs.md) https://www.youtube.com/watch?v=6DayBMofsHs

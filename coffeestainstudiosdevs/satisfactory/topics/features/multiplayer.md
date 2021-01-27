@@ -4,6 +4,10 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Features > Multiplayer
 
+# January 26th, 2021 Livestream
+* [Q&A: Dedicated Servers aka Multiplayer fixes when?](../../transcriptions/yt-_XfcfZ8vfj8.md) https://www.youtube.com/watch?v=_XfcfZ8vfj8
+* [Q&A: Are we going to increase the limit of only having 4 players per game?](../../transcriptions/yt-9Fe7lcAQx9I.md) https://www.youtube.com/watch?v=9Fe7lcAQx9I
+
 # January 19th, 2021 Livestream
 * [Snutt Talk: Engine Upgrade & Network Latency](../../transcriptions/yt-b--gsLSysTg.md) https://www.youtube.com/watch?v=b--gsLSysTg
 * [Snutt Talk: Engine Upgrade - Network tweaks](../../transcriptions/yt-cjQzivCIdIU.md) https://www.youtube.com/watch?v=cjQzivCIdIU

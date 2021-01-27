@@ -4,6 +4,11 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel
 
+# January 26th, 2021 Livestream
+* [Q&A: Were you serious about the drones in the last YouTube video?](../../../transcriptions/yt-bbAGxhCSN8c.md) https://www.youtube.com/watch?v=bbAGxhCSN8c
+* [Q&A: Can we expect aircraft any time?](../../../transcriptions/yt-XMIUlTU9xcU.md) https://www.youtube.com/watch?v=XMIUlTU9xcU
+* [Q&A: Will you add drones to Satisfactory?](../../../transcriptions/yt-pdppJAPp4yA.md) https://www.youtube.com/watch?v=pdppJAPp4yA
+
 # November 17th, 2020 Livestream
 * [Trolling: Flying Vehicles in Update 4](../../../transcriptions/yt-E666WdfoeP0.md) https://www.youtube.com/watch?v=E666WdfoeP0
 

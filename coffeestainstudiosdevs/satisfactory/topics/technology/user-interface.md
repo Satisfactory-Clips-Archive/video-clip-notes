@@ -4,6 +4,13 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Technology > User Interface
 
+# January 26th, 2021 Livestream
+* State of Dev: User Interface changes https://www.youtube.com/watch?v=XGNTN8I4PL0
+* Snutt & Jace Talk: Potential change to User Interface https://www.youtube.com/watch?v=GsGsIQ1FleQ
+* [Q&A: Can add a basic non-interactive local Map from the start?](../../transcriptions/yt-9h4HwEuF2_U.md) https://www.youtube.com/watch?v=9h4HwEuF2_U
+* [Q&A: Any thoughts on letting you have a planning tool mode?](../../transcriptions/yt-MFCmy7atLDk.md) https://www.youtube.com/watch?v=MFCmy7atLDk
+* [Q&A: Do you ever plan on implementing to move things instead of having to demolish?](../../transcriptions/yt-cuWHom8yZ-g.md) https://www.youtube.com/watch?v=cuWHom8yZ-g
+
 # January 19th, 2021 Livestream
 * [Q&A: Will it be possible to use decimal places for percentages in future?](../../transcriptions/yt-zGH69_aSwwk.md) https://www.youtube.com/watch?v=zGH69_aSwwk
 * [Q&A: Will there be ways to see your total production per minute?](../../transcriptions/yt-tHzH3dkTZ4s.md) https://www.youtube.com/watch?v=tHzH3dkTZ4s

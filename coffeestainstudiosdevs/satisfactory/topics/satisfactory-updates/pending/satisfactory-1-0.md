@@ -4,6 +4,11 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory 1.0
 
+# January 26th, 2021 Livestream
+* Q&A: How many Updates do you have planned before 1.0? https://www.youtube.com/watch?v=7t2DLBi7kl8
+* [Q&A: Does the dev team have any ideas for post-launch content?](../../../transcriptions/yt-gppSU17i2as.md) https://www.youtube.com/watch?v=gppSU17i2as
+* [Q&A: When will the game be released from Early Access?](../../../transcriptions/yt-Z0yYtiR__Nk.md) https://www.youtube.com/watch?v=Z0yYtiR__Nk
+
 # January 12th, 2021 Livestream
 * [Q&A: The game is not done until I can flush the toilet?](../../../transcriptions/yt-64xmTN-rhbs.md) https://www.youtube.com/watch?v=64xmTN-rhbs
 * [Q&A: What's happening with S.A.M. Ore?](../../../transcriptions/yt-f0Z9VIAK5Iw.md) https://www.youtube.com/watch?v=f0Z9VIAK5Iw

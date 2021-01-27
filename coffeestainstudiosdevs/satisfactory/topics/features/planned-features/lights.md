@@ -4,6 +4,10 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Planned Features > Lights
 
+# January 26th, 2021 Livestream
+* [Q&A: Lights & Lampposts please?](../../../transcriptions/yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g
+* [Q&A: Ability to sleep coming any time?](../../../transcriptions/yt-kDwywg_UJoc.md) https://www.youtube.com/watch?v=kDwywg_UJoc
+
 # January 12th, 2021 Livestream
 * [Q&A: Are there any plans to add Lights inside the factory?](../../../transcriptions/yt-QvTjwyhFvGQ.md) https://www.youtube.com/watch?v=QvTjwyhFvGQ
 

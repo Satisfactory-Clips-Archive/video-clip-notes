@@ -4,6 +4,10 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > Biomes
 
+# January 26th, 2021 Livestream
+* [Q&A: Is there another area rework like the desert update happening?](../../transcriptions/yt-sV-kvBvlTXc.md) https://www.youtube.com/watch?v=sV-kvBvlTXc
+* [Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?](../../transcriptions/yt-gqIBbkGCxdI.md) https://www.youtube.com/watch?v=gqIBbkGCxdI
+
 # January 19th, 2021 Livestream
 * [Q&A: Are you still planning Underground Biomes?](../../transcriptions/yt-zho1Gn_x76w.md) https://www.youtube.com/watch?v=zho1Gn_x76w
 * [Q&A: Can we please get a Snow Biome?](../../transcriptions/yt-QHVdhswD13w.md) https://www.youtube.com/watch?v=QHVdhswD13w

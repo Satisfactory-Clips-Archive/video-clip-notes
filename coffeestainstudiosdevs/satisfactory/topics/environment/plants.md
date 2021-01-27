@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../topics.md) > Environment > Plants
 
+# January 26th, 2021 Livestream
+* [Q&A: Farming would be cool?](../../transcriptions/yt-qO1Zl01HfqU.md) https://www.youtube.com/watch?v=qO1Zl01HfqU
+
 # January 19th, 2021 Livestream
 * [Q&A: Will clearing out all the Biomes increase your garbage limit?](../../transcriptions/yt-XcfIWDujsxA.md) https://www.youtube.com/watch?v=XcfIWDujsxA
 

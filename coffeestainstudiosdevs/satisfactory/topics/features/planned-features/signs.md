@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+# January 26th, 2021 Livestream
+* [Q&A: Are we getting signs any time soon?](../../../transcriptions/yt-RAYufEKcGLk.md) https://www.youtube.com/watch?v=RAYufEKcGLk
+
 # January 19th, 2021 Livestream
 * [Q&A: Is there a plan to add Screens to the game?](../../../transcriptions/yt-sjfADGMwclM.md) https://www.youtube.com/watch?v=sjfADGMwclM
 

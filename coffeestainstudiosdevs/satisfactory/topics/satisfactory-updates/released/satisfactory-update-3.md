@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Satisfactory Updates > Released > Satisfactory Update 3
 
+# January 26th, 2021 Livestream
+* [Q&A: Does the game get another dramatic change like in Update 3 in the future?](../../../transcriptions/yt-9d3Uu7bu8q4.md) https://www.youtube.com/watch?v=9d3Uu7bu8q4
+
 # January 19th, 2021 Livestream
 * [Snutt Talk: Disclaimer regarding changes in communicating Updates (Update 2 & 3 vs. Update 4)](../../../transcriptions/yt-avsSNP2oO-Y.md) https://www.youtube.com/watch?v=avsSNP2oO-Y
 

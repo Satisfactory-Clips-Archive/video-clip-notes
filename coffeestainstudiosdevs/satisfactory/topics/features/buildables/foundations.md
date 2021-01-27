@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Buildables > Foundations
 
+# January 26th, 2021 Livestream
+* [Q&A: Will physics be improved later on, i.e. Steel Beams for supports instead of floating platforms?](../../../transcriptions/yt-H5XZebVqyTA.md) https://www.youtube.com/watch?v=H5XZebVqyTA
+
 # January 19th, 2021 Livestream
 * [Q&A: Is this modded because the foundations are glitching into the Power Plant?](../../../transcriptions/yt-03J8nqdJCtY.md) https://www.youtube.com/watch?v=03J8nqdJCtY
 * [Q&A: Any thoughts about reworking Foundations or adding Foundation holes?](../../../transcriptions/yt-DFO9JPJP1yM.md) https://www.youtube.com/watch?v=DFO9JPJP1yM

@@ -4,6 +4,11 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Possible Features > DLC
 
+# January 26th, 2021 Livestream
+* [Q&A: When will we get the toilet DLC?](../../../transcriptions/yt-AeWfPCZQZBQ.md) https://www.youtube.com/watch?v=AeWfPCZQZBQ
+* [Q&A: Will DLC be paid or will it be free updates?](../../../transcriptions/yt-RpmitKGrznw.md) https://www.youtube.com/watch?v=RpmitKGrznw
+* [Q&A: Please, Toilet DLC before Official DLC?](../../../transcriptions/yt-5sqgxrPlcUI.md) https://www.youtube.com/watch?v=5sqgxrPlcUI
+
 # January 12th, 2021 Livestream
 * [Q&A: The game is not done until I can flush the toilet?](../../../transcriptions/yt-64xmTN-rhbs.md) https://www.youtube.com/watch?v=64xmTN-rhbs
 

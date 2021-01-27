@@ -9,6 +9,7 @@ layout: index
 * [January 15th, 2021](2021-01-15.md)
 * [January 19th, 2021](2021-01-19.md)
 * [January 22nd, 2021](2021-01-22.md)
+* [January 26th, 2021](2021-01-26.md)
 
 # December 2020
 * [December 1st, 2020](2020-12-01.md)

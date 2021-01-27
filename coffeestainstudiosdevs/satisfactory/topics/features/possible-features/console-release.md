@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+# January 26th, 2021 Livestream
+* [Q&A: Release date on PS4?](../../../transcriptions/yt-xUdlPZfMgDw.md) https://www.youtube.com/watch?v=xUdlPZfMgDw
+
 # January 19th, 2021 Livestream
 * [Q&A: Could we expect the game on Consoles some day?](../../../transcriptions/yt-OVn94IC65fw.md) https://www.youtube.com/watch?v=OVn94IC65fw
 

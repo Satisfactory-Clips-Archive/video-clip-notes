@@ -4,6 +4,10 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Buildables > Conveyor Belts
 
+# January 26th, 2021 Livestream
+* [Q&A: In terms of pure performance is the fewer items being moved by Conveyor, the better?](../../../transcriptions/yt-h0rUjNNgiCw.md) https://www.youtube.com/watch?v=h0rUjNNgiCw
+* [Q&A: Any thoughts on letting you have a planning tool mode?](../../../transcriptions/yt-MFCmy7atLDk.md) https://www.youtube.com/watch?v=MFCmy7atLDk
+
 # January 19th, 2021 Livestream
 * [Q&A: Are you going to add more functionality to the Programmable Splitters?](../../../transcriptions/yt-PGyc_YN4DaM.md) https://www.youtube.com/watch?v=PGyc_YN4DaM
 * [Q&A: Smart Mergers?](../../../transcriptions/yt-iwID_cZx20g.md) https://www.youtube.com/watch?v=iwID_cZx20g

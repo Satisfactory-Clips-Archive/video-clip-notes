@@ -4,6 +4,10 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+# January 26th, 2021 Livestream
+* [Q&A: Any updates on Dedicated Servers?](../../../transcriptions/yt-cvlz1tP61_M.md) https://www.youtube.com/watch?v=cvlz1tP61_M
+* [Q&A: Dedicated Servers aka Multiplayer fixes when?](../../../transcriptions/yt-_XfcfZ8vfj8.md) https://www.youtube.com/watch?v=_XfcfZ8vfj8
+
 # January 19th, 2021 Livestream
 * [Q&A: Dedicated Servers?](../../../transcriptions/yt-FIamGlpCEFk.md) https://www.youtube.com/watch?v=FIamGlpCEFk
 * [Q&A: How possible are Dedicated Servers in Update 4?](../../../transcriptions/yt--3JqJE_94g0.md) https://www.youtube.com/watch?v=-3JqJE_94g0

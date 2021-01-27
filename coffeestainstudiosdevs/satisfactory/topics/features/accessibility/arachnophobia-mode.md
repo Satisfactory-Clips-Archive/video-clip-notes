@@ -4,6 +4,9 @@ date: Last Modified
 ---
 [Topics](../../../topics.md) > Features > Accessibility > Arachnophobia Mode
 
+# January 26th, 2021 Livestream
+* [Q&A: Nighttime is only bad because of these damn cats?](../../../transcriptions/yt-YkXm2LWDAeA.md) https://www.youtube.com/watch?v=YkXm2LWDAeA
+
 # December 8th, 2020 Livestream
 * [Q&A: Cyberpunk cross-over when?](../../../transcriptions/yt-GJMD7L7BLxE.md) https://www.youtube.com/watch?v=GJMD7L7BLxE
 * [Q&A: Are there spiders in this build?](../../../transcriptions/yt-KKtqXo-Zzqo.md) https://www.youtube.com/watch?v=KKtqXo-Zzqo
