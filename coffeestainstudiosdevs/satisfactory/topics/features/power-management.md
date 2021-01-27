@@ -2,7 +2,7 @@
 title: "Features > Power Management"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Power Management
+# [Topics](../../topics.md) > [Features](../features.md) > Power Management
 * [Geothermal Energy](./power-management/geothermal-energy.md)
 * [Green Energy](./power-management/green-energy.md)
 * [Nuclear Energy](./power-management/nuclear-energy.md)

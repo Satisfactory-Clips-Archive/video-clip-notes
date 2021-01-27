@@ -2,7 +2,7 @@
 title: "Environment > Pollution"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Environment > Pollution
+# [Topics](../../topics.md) > [Environment](../environment.md) > Pollution
 
 ## January 26th, 2021 Livestream
 * [Q&A: Acid rain?](../../transcriptions/yt-wKU558LFiqI.md) https://www.youtube.com/watch?v=wKU558LFiqI

@@ -2,7 +2,7 @@
 title: "Features > Equipment > Chainsaw"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Equipment > Chainsaw
+# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Equipment](../equipment.md) > Chainsaw
 
 ## October 6th, 2020 Livestream
 * [Q&A: Why is the Chainsaw a gasoline 2-stroke?](../../../transcriptions/yt-HDlxFGP87Oo.md) https://www.youtube.com/watch?v=HDlxFGP87Oo

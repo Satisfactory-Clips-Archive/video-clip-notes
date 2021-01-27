@@ -2,7 +2,7 @@
 title: "Satisfactory Updates > Speculative > Satisfactory Update 5"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Satisfactory Updates > Speculative > Satisfactory Update 5
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../satisfactory-updates.md) >  > [Speculative](../speculative.md) > Satisfactory Update 5
 
 ## January 26th, 2021 Livestream
 * Q&A: How many Updates do you have planned before 1.0? https://www.youtube.com/watch?v=7t2DLBi7kl8

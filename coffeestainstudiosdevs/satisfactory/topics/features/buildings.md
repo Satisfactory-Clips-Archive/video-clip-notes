@@ -2,7 +2,7 @@
 title: "Features > Buildings"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Buildings
+# [Topics](../../topics.md) > [Features](../features.md) > Buildings
 * [Assembler](./buildings/assembler.md)
 * [AWESOME Sink](./buildings/awesome-sink.md)
 * [AWESOME Store](./buildings/awesome-store.md)

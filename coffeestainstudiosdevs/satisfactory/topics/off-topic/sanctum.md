@@ -2,7 +2,7 @@
 title: "Off-Topic > Sanctum"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Off-Topic > Sanctum
+# [Topics](../../topics.md) > [Off-Topic](../off-topic.md) > Sanctum
 
 ## January 26th, 2021 Livestream
 * [Q&A: I never connected the dots between Goat Simulator and Satisfactory?](../../transcriptions/yt-HtKqSryNU88.md) https://www.youtube.com/watch?v=HtKqSryNU88

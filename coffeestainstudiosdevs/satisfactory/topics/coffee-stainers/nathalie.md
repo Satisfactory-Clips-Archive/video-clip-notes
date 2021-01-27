@@ -2,7 +2,7 @@
 title: "Coffee Stainers > Nathalie"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Coffee Stainers > Nathalie
+# [Topics](../../topics.md) > [Coffee Stainers](../coffee-stainers.md) > Nathalie
 
 ## January 26th, 2021 Livestream
 * State of Dev: User Interface changes https://www.youtube.com/watch?v=XGNTN8I4PL0

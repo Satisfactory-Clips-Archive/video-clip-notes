@@ -2,7 +2,7 @@
 title: "Features > Planned Features > Lights"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Planned Features > Lights
+# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Planned Features](../planned-features.md) > Lights
 
 ## January 26th, 2021 Livestream
 * [Q&A: Lights & Lampposts please?](../../../transcriptions/yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g

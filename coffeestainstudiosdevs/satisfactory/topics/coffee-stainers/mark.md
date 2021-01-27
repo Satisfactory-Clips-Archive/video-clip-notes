@@ -2,7 +2,7 @@
 title: "Coffee Stainers > Mark"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Coffee Stainers > Mark
+# [Topics](../../topics.md) > [Coffee Stainers](../coffee-stainers.md) > Mark
 
 ## January 19th, 2021 Livestream
 * [Mark Talk: My day-to-day work as Game Director](../../transcriptions/yt-CG0ff4zpl7k.md) https://www.youtube.com/watch?v=CG0ff4zpl7k

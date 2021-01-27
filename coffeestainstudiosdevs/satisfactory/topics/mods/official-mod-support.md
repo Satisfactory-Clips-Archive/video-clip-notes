@@ -2,7 +2,7 @@
 title: "Mods > Official Mod Support"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Mods > Official Mod Support
+# [Topics](../../topics.md) > [Mods](../mods.md) > Official Mod Support
 
 ## January 26th, 2021 Livestream
 * [Q&A: When will Mods work again?](../../transcriptions/yt-u6HJZ1gJhRk.md) https://www.youtube.com/watch?v=u6HJZ1gJhRk

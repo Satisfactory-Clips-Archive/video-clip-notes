@@ -2,7 +2,7 @@
 title: "Features > Possible Features > Console Release"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Possible Features > Console Release
+# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Possible Features](../possible-features.md) > Console Release
 
 ## January 26th, 2021 Livestream
 * [Q&A: Release date on PS4?](../../../transcriptions/yt-xUdlPZfMgDw.md) https://www.youtube.com/watch?v=xUdlPZfMgDw

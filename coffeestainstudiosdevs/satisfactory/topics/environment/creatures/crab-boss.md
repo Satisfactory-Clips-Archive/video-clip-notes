@@ -2,7 +2,7 @@
 title: "Environment > Creatures > Crab Boss"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Environment > Creatures > Crab Boss
+# [Topics](../../../topics.md) > [Environment](../../environment.md) >  > [Creatures](../creatures.md) > Crab Boss
 
 ## January 19th, 2021 Livestream
 * [Q&A: Will there be more Creatures, even more dangerous ones?](../../../transcriptions/yt-T0jbE_WjQJQ.md) https://www.youtube.com/watch?v=T0jbE_WjQJQ

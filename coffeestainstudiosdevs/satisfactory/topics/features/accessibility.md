@@ -2,7 +2,7 @@
 title: "Features > Accessibility"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Accessibility
+# [Topics](../../topics.md) > [Features](../features.md) > Accessibility
 * [Arachnophobia Mode](./accessibility/arachnophobia-mode.md)
 
 ## January 19th, 2021 Livestream

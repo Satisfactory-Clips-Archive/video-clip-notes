@@ -2,7 +2,7 @@
 title: "Coffee Stainers > Hannah"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Coffee Stainers > Hannah
+# [Topics](../../topics.md) > [Coffee Stainers](../coffee-stainers.md) > Hannah
 
 ## January 26th, 2021 Livestream
 * [Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?](../../transcriptions/yt-gqIBbkGCxdI.md) https://www.youtube.com/watch?v=gqIBbkGCxdI

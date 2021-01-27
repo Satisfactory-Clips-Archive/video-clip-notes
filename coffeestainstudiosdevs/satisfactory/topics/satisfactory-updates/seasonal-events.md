@@ -2,7 +2,7 @@
 title: "Satisfactory Updates > Seasonal Events"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Satisfactory Updates > Seasonal Events
+# [Topics](../../topics.md) > [Satisfactory Updates](../satisfactory-updates.md) > Seasonal Events
 * [FICS⁕MAS](./seasonal-events/fics-mas.md)
 
 ## January 19th, 2021 Livestream

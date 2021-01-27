@@ -2,7 +2,7 @@
 title: "Features > Planned Features > Dedicated Servers"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
+# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Planned Features](../planned-features.md) > Dedicated Servers
 
 ## January 26th, 2021 Livestream
 * [Q&A: Any updates on Dedicated Servers?](../../../transcriptions/yt-cvlz1tP61_M.md) https://www.youtube.com/watch?v=cvlz1tP61_M

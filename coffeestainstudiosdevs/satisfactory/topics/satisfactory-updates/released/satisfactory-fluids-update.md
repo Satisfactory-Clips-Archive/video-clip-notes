@@ -2,7 +2,7 @@
 title: "Satisfactory Updates > Released > Satisfactory Fluids Update"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Satisfactory Updates > Released > Satisfactory Fluids Update
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../satisfactory-updates.md) >  > [Released](../released.md) > Satisfactory Fluids Update
 
 ## January 19th, 2021 Livestream
 * [Snutt & Mark Talk: Retaining legacy recipes with new buildings](../../../transcriptions/yt-ETgrEgA1-7Q.md) https://www.youtube.com/watch?v=ETgrEgA1-7Q

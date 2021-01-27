@@ -2,7 +2,7 @@
 title: "Environment > Creatures"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Environment > Creatures
+# [Topics](../../topics.md) > [Environment](../environment.md) > Creatures
 * [Crab Boss](./creatures/crab-boss.md)
 * [Lizard Doggo](./creatures/lizard-doggo.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](./creatures/space-giraffe-tick-penguin-whale-thing.md)

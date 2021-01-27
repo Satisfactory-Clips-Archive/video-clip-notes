@@ -2,7 +2,7 @@
 title: "Features > Possible Features > Character Customisation"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Possible Features > Character Customisation
+# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Possible Features](../possible-features.md) > Character Customisation
 
 ## January 26th, 2021 Livestream
 * [Q&A: Are we going to get googly eyes?](../../../transcriptions/yt-lkPWRnkW9OU.md) https://www.youtube.com/watch?v=lkPWRnkW9OU

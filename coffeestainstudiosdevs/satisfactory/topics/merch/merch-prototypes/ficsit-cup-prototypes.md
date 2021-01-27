@@ -2,7 +2,7 @@
 title: "Merch > Merch Prototypes > FICSIT Cup Prototypes"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Merch > Merch Prototypes > FICSIT Cup Prototypes
+# [Topics](../../../topics.md) > [Merch](../../merch.md) >  > [Merch Prototypes](../merch-prototypes.md) > FICSIT Cup Prototypes
 
 ## August 11th, 2020 Livestream
 * Jace Talk: Launch & FICSIT Cup https://clips.twitch.tv/AmazingOriginalMeerkatArgieB8

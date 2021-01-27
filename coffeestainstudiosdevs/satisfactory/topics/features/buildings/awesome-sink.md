@@ -2,7 +2,7 @@
 title: "Features > Buildings > AWESOME Sink"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Buildings > AWESOME Sink
+# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Buildings](../buildings.md) > AWESOME Sink
 
 ## January 19th, 2021 Livestream
 * [Q&A: Sink that accepts Liquids or Gas?](../../../transcriptions/yt-SskXA-lxaCI.md) https://www.youtube.com/watch?v=SskXA-lxaCI

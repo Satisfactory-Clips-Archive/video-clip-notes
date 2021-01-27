@@ -2,7 +2,7 @@
 title: "Satisfactory Updates > Seasonal Events > FICS⁕MAS"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Satisfactory Updates > Seasonal Events > FICS⁕MAS
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../satisfactory-updates.md) >  > [Seasonal Events](../seasonal-events.md) > FICS⁕MAS
 
 ## January 26th, 2021 Livestream
 * [Q&A: Give FICS⁕MAS back?](../../../transcriptions/yt-CmQgxVzbXoQ.md) https://www.youtube.com/watch?v=CmQgxVzbXoQ

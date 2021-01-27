@@ -2,7 +2,7 @@
 title: "Environment > Creatures > Lizard Doggo"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Environment > Creatures > Lizard Doggo
+# [Topics](../../../topics.md) > [Environment](../../environment.md) >  > [Creatures](../creatures.md) > Lizard Doggo
 
 ## January 19th, 2021 Livestream
 * [Q&A: Can we remove Nuclear Waste from the Doggo loot list?](../../../transcriptions/yt-x2qXm_DXJEw.md) https://www.youtube.com/watch?v=x2qXm_DXJEw

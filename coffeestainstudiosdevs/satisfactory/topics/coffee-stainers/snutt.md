@@ -2,7 +2,7 @@
 title: "Coffee Stainers > Snutt"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Coffee Stainers > Snutt
+# [Topics](../../topics.md) > [Coffee Stainers](../coffee-stainers.md) > Snutt
 
 ## January 26th, 2021 Livestream
 * [Snutt & Jace Talk: Shaving](../../transcriptions/yt-2lh_A-WR2Gw.md) https://www.youtube.com/watch?v=2lh_A-WR2Gw

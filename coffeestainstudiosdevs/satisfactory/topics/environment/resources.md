@@ -2,7 +2,7 @@
 title: "Environment > Resources"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Environment > Resources
+# [Topics](../../topics.md) > [Environment](../environment.md) > Resources
 * [Oil](./resources/oil.md)
 * [S.A.M. Ore](./resources/sam-ore.md)
 

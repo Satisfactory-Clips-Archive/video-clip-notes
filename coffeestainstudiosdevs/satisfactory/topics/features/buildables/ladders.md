@@ -2,7 +2,7 @@
 title: "Features > Buildables > Ladders"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Buildables > Ladders
+# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Buildables](../buildables.md) > Ladders
 
 ## November 10th, 2020 Livestream
 * [Q&A: Ladders Mk.2?](../../../transcriptions/yt-XCPztcDtneI.md) https://www.youtube.com/watch?v=XCPztcDtneI

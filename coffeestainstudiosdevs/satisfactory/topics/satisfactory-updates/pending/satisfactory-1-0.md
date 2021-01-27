@@ -2,7 +2,7 @@
 title: "Satisfactory Updates > Pending > Satisfactory 1.0"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory 1.0
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../satisfactory-updates.md) >  > [Pending](../pending.md) > Satisfactory 1.0
 
 ## January 26th, 2021 Livestream
 * Q&A: How many Updates do you have planned before 1.0? https://www.youtube.com/watch?v=7t2DLBi7kl8

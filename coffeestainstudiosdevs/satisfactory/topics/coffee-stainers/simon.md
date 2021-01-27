@@ -2,7 +2,7 @@
 title: "Coffee Stainers > Simon"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Coffee Stainers > Simon
+# [Topics](../../topics.md) > [Coffee Stainers](../coffee-stainers.md) > Simon
 
 ## December 8th, 2020 Livestream
 * [State of Dev: Blame Simon](../../transcriptions/yt-H4gyZoXsfo0.md) https://www.youtube.com/watch?v=H4gyZoXsfo0

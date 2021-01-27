@@ -2,7 +2,7 @@
 title: "Satisfactory Updates > Released > Satisfactory Update 3"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Satisfactory Updates > Released > Satisfactory Update 3
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../satisfactory-updates.md) >  > [Released](../released.md) > Satisfactory Update 3
 
 ## January 26th, 2021 Livestream
 * [Q&A: Does the game get another dramatic change like in Update 3 in the future?](../../../transcriptions/yt-9d3Uu7bu8q4.md) https://www.youtube.com/watch?v=9d3Uu7bu8q4

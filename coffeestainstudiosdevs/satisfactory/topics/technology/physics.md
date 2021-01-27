@@ -2,7 +2,7 @@
 title: "Technology > Physics"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Technology > Physics
+# [Topics](../../topics.md) > [Technology](../technology.md) > Physics
 
 ## January 26th, 2021 Livestream
 * [Q&A: Will physics be improved later on, i.e. Steel Beams for supports instead of floating platforms?](../../transcriptions/yt-H5XZebVqyTA.md) https://www.youtube.com/watch?v=H5XZebVqyTA

@@ -2,7 +2,7 @@
 title: "Satisfactory Updates > Pending > Satisfactory Update 4"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Satisfactory Updates > Pending > Satisfactory Update 4
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../satisfactory-updates.md) >  > [Pending](../pending.md) > Satisfactory Update 4
 
 ## January 26th, 2021 Livestream
 * State of Dev: Update 4 https://www.youtube.com/watch?v=HjMEFo3mt_s

@@ -2,7 +2,7 @@
 title: "Features > Equipment"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Equipment
+# [Topics](../../topics.md) > [Features](../features.md) > Equipment
 * [Chainsaw](./equipment/chainsaw.md)
 * [Jetpack](./equipment/jetpack.md)
 

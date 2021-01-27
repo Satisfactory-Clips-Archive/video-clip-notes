@@ -2,7 +2,7 @@
 title: "Features > Transportation > Trains > Train Signals"
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Transportation > Trains > Train Signals
+# [Topics](../../../../topics.md) > [Features](../../../features.md) >  > [Transportation](../../transportation.md) >  > [Trains](../trains.md) > Train Signals
 
 ## January 12th, 2021 Livestream
 * [Q&A: Any new information regarding Signal system for Trains?](../../../../transcriptions/yt-Bu2TPRFV_2o.md) https://www.youtube.com/watch?v=Bu2TPRFV_2o

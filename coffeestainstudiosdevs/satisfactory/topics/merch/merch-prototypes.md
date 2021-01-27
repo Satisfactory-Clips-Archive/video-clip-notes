@@ -2,7 +2,7 @@
 title: "Merch > Merch Prototypes"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Merch > Merch Prototypes
+# [Topics](../../topics.md) > [Merch](../merch.md) > Merch Prototypes
 * [FICSIT Cup Prototypes](./merch-prototypes/ficsit-cup-prototypes.md)
 
 ## August 11th, 2020 Livestream

@@ -2,7 +2,7 @@
 title: "Coffee Stainers > Tim"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Coffee Stainers > Tim
+# [Topics](../../topics.md) > [Coffee Stainers](../coffee-stainers.md) > Tim
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0

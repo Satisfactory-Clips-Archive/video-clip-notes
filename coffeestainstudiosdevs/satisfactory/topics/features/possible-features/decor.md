@@ -2,7 +2,7 @@
 title: "Features > Possible Features > Decor"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Possible Features > Decor
+# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Possible Features](../possible-features.md) > Decor
 
 ## January 26th, 2021 Livestream
 * [Q&A: Any chance for decorative stuff?](../../../transcriptions/yt-2JUtqNFl5_8.md) https://www.youtube.com/watch?v=2JUtqNFl5_8

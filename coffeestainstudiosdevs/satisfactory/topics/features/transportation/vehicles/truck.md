@@ -2,7 +2,7 @@
 title: "Features > Transportation > Vehicles > Truck"
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Transportation > Vehicles > Truck
+# [Topics](../../../../topics.md) > [Features](../../../features.md) >  > [Transportation](../../transportation.md) >  > [Vehicles](../vehicles.md) > Truck
 
 ## October 6th, 2020 Livestream
 * [Q&A: What do you think about adding some kind of Tanker Truck?](../../../../transcriptions/yt-JCBQj8Ern20.md) https://www.youtube.com/watch?v=JCBQj8Ern20

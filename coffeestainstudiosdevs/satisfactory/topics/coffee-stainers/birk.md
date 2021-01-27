@@ -2,7 +2,7 @@
 title: "Coffee Stainers > Birk"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Coffee Stainers > Birk
+# [Topics](../../topics.md) > [Coffee Stainers](../coffee-stainers.md) > Birk
 
 ## December 19th, 2019 Livestream
 * [Q&A: Can Birk slap Jace?](../../transcriptions/yt-BEOwkK8suFc.md) https://www.youtube.com/watch?v=BEOwkK8suFc

@@ -2,7 +2,7 @@
 title: "Community > Joshie"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Community > Joshie
+# [Topics](../../topics.md) > [Community](../community.md) > Joshie
 
 ## January 26th, 2021 Livestream
 * [Q&A: Replication graph? That sounds familiar to my crash.](../../transcriptions/yt-sdo0vTu0RoE.md) https://www.youtube.com/watch?v=sdo0vTu0RoE

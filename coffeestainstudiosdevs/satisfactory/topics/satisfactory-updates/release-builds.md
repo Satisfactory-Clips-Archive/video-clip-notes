@@ -2,7 +2,7 @@
 title: "Satisfactory Updates > Release Builds"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Satisfactory Updates > Release Builds
+# [Topics](../../topics.md) > [Satisfactory Updates](../satisfactory-updates.md) > Release Builds
 
 ## January 26th, 2021 Livestream
 * [Q&A: Did you know Satisfactory Experimental is running well on Linux Mint?](../../transcriptions/yt-3d5h-Okw-uU.md) https://www.youtube.com/watch?v=3d5h-Okw-uU

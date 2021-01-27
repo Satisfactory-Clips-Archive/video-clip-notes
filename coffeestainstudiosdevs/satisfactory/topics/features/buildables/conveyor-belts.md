@@ -2,7 +2,7 @@
 title: "Features > Buildables > Conveyor Belts"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Buildables > Conveyor Belts
+# [Topics](../../../topics.md) > [Features](../../features.md) >  > [Buildables](../buildables.md) > Conveyor Belts
 
 ## January 26th, 2021 Livestream
 * [Q&A: In terms of pure performance is the fewer items being moved by Conveyor, the better?](../../../transcriptions/yt-h0rUjNNgiCw.md) https://www.youtube.com/watch?v=h0rUjNNgiCw
