@@ -3,6 +3,8 @@ title: "September 22nd, 2020 Livestream Jace & Snutt Talk: Story"
 date: "2020-09-22"
 layout: transcript
 topics:
+    - "environment/resources/mercer-sphere"
+    - "environment/resources/somersloop"
     - "story-lore"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
@@ -10,6 +12,8 @@ topics:
 https://www.youtube.com/watch?v=vPWShxAn3io
 
 ### Topics
+* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
+* [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Story & Lore](../topics/story-lore.md)
 
 ### Transcript

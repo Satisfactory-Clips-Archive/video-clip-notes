@@ -3,6 +3,8 @@ title: "December 19th, 2019 Livestream Q&A: Will Mercer Spheres and Somersloops 
 date: "2019-12-19"
 layout: transcript
 topics:
+    - "environment/resources/mercer-sphere"
+    - "environment/resources/somersloop"
     - "story-lore"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
@@ -10,6 +12,8 @@ topics:
 https://www.youtube.com/watch?v=SYWPIjbe_4Y
 
 ### Topics
+* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
+* [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Story & Lore](../topics/story-lore.md)
 
 ### Transcript

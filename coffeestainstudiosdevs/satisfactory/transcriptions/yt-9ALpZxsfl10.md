@@ -3,6 +3,7 @@ title: "March 9th, 2019 Livestream Snutt Talk: Somersloop"
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "environment/resources/somersloop"
     - "story-lore"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=9ALpZxsfl10
 
 ### Topics
+* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
 * [Story & Lore](../topics/story-lore.md)
 
 ### Transcript

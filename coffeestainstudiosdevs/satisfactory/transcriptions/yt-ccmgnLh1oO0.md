@@ -1,17 +1,21 @@
 ---
-title: "November 17th, 2020 Livestream Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?"
+title: "November 17th, 2020 Livestream Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?"
 date: "2020-11-17"
 layout: transcript
 topics:
+    - "environment/resources/mercer-sphere"
     - "environment/resources/sam-ore"
+    - "environment/resources/somersloop"
     - "satisfactory-updates/pending/satisfactory-1-0"
     - "story-lore"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
-## Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?
+## Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?
 https://www.youtube.com/watch?v=ccmgnLh1oO0
 
 ### Topics
+* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
+* [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Story & Lore](../topics/story-lore.md)

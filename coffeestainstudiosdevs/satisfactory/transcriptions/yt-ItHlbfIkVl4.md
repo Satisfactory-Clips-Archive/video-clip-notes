@@ -3,6 +3,8 @@ title: "September 29th, 2020 Livestream Snutt Talk: WIP (Work In Progress) Items
 date: "2020-09-29"
 layout: transcript
 topics:
+    - "environment/resources/mercer-sphere"
+    - "environment/resources/somersloop"
     - "satisfactory-updates/pending/satisfactory-1-0"
     - "story-lore"
 ---
@@ -11,6 +13,8 @@ topics:
 https://www.youtube.com/watch?v=ItHlbfIkVl4
 
 ### Topics
+* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
+* [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Story & Lore](../topics/story-lore.md)
 

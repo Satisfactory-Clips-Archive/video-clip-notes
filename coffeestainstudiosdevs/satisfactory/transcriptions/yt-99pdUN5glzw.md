@@ -3,6 +3,8 @@ title: "January 12th, 2021 Livestream Q&A: Mercer Spheres and Somersloops?"
 date: "2021-01-12"
 layout: transcript
 topics:
+    - "environment/resources/mercer-sphere"
+    - "environment/resources/somersloop"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
@@ -10,6 +12,8 @@ topics:
 https://www.youtube.com/watch?v=99pdUN5glzw
 
 ### Topics
+* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
+* [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript

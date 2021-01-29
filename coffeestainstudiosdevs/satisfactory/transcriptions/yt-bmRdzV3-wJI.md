@@ -3,6 +3,10 @@ title: "October 6th, 2020 Livestream Q&A: When are these Work In Progress (WIP) 
 date: "2020-10-06"
 layout: transcript
 topics:
+    - "environment/resources/mercer-sphere"
+    - "environment/resources/sam-ore"
+    - "environment/resources/somersloop"
+    - "satisfactory-updates/pending/satisfactory-1-0"
     - "story-lore"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
@@ -10,6 +14,10 @@ topics:
 https://www.youtube.com/watch?v=bmRdzV3-wJI
 
 ### Topics
+* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
+* [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
+* [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Story & Lore](../topics/story-lore.md)
 
 ### Transcript

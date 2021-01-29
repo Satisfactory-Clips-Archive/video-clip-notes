@@ -3,6 +3,8 @@ title: "January 26th, 2021 Livestream Q&A: Do Mercer Spheres and Somersloops get
 date: "2021-01-26"
 layout: transcript
 topics:
+    - "environment/resources/mercer-sphere"
+    - "environment/resources/somersloop"
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "story-lore"
 ---
@@ -11,6 +13,8 @@ topics:
 https://www.youtube.com/watch?v=-N0atMiN9dM
 
 ### Topics
+* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
+* [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Story & Lore](../topics/story-lore.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
