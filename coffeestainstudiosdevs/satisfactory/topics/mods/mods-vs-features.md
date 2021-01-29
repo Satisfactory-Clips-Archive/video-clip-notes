@@ -75,6 +75,9 @@ date: Last Modified
 ## July 8th, 2020 Livestream
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis
 
+## February 17th, 2020 Livestream
+* Q&A: Are you going to add Potato Energy? https://www.youtube.com/watch?v=V1h0SVwCHKc
+
 ## January 22nd, 2020 Livestream
 * [Q&A: Are we going to be implmenting any of the ideas from Mods?](../../transcriptions/yt-SUSCYnziYkI.md) https://www.youtube.com/watch?v=SUSCYnziYkI
 

@@ -6,11 +6,13 @@ date: Last Modified
 * [Ben](../topics/coffee-stainers/ben.md)
 * [Birk](../topics/coffee-stainers/birk.md)
 * [Dylan](../topics/coffee-stainers/dylan.md)
+* [G2](../topics/coffee-stainers/g2.md)
 * [Hannah](../topics/coffee-stainers/hannah.md)
 * [Jace](../topics/coffee-stainers/jace.md)
 * [Kristoffer](../topics/coffee-stainers/kristoffer.md)
 * [Linus](../topics/coffee-stainers/linus.md)
 * [Mark](../topics/coffee-stainers/mark.md)
+* [Markus](../topics/coffee-stainers/markus.md)
 * [Nathalie](../topics/coffee-stainers/nathalie.md)
 * [Simon](../topics/coffee-stainers/simon.md)
 * [Snutt](../topics/coffee-stainers/snutt.md)
@@ -32,6 +34,13 @@ date: Last Modified
 
 ## August 11th, 2020 Livestream
 * Q&A: Do you have a QA department? https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull
+
+## February 17th, 2020 Livestream
+* Snutt Talk: Get back to school, Coffee Stain needs devs https://www.youtube.com/watch?v=Ee0IFHzpEh4
+* Q&A: Did you crunch for Update 3? https://www.youtube.com/watch?v=BwJG6ZHR7Io
+* Jace Talk: Funny roulette story https://www.youtube.com/watch?v=8Cw56ZD9syU
+* Jace Talk: We're having some fun before Update 3 releases https://www.youtube.com/watch?v=Vggm0YmGP84
+* Snutt & Jace Talk: What's the mood like in the Studio right now? https://www.youtube.com/watch?v=ZfUik8FwH2Y
 
 ## January 22nd, 2020 Livestream
 * [State of Dev: Biggest thing that's going on in the office right now.](../transcriptions/yt--HN8rUEaVwY.md) https://www.youtube.com/watch?v=-HN8rUEaVwY

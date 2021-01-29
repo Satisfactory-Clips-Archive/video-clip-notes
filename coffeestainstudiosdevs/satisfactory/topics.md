@@ -6,11 +6,13 @@ date: Last Modified
 * [Ben](./topics/coffee-stainers/ben.md)
 * [Birk](./topics/coffee-stainers/birk.md)
 * [Dylan](./topics/coffee-stainers/dylan.md)
+* [G2](./topics/coffee-stainers/g2.md)
 * [Hannah](./topics/coffee-stainers/hannah.md)
 * [Jace](./topics/coffee-stainers/jace.md)
 * [Kristoffer](./topics/coffee-stainers/kristoffer.md)
 * [Linus](./topics/coffee-stainers/linus.md)
 * [Mark](./topics/coffee-stainers/mark.md)
+* [Markus](./topics/coffee-stainers/markus.md)
 * [Nathalie](./topics/coffee-stainers/nathalie.md)
 * [Simon](./topics/coffee-stainers/simon.md)
 * [Snutt](./topics/coffee-stainers/snutt.md)
@@ -18,6 +20,7 @@ date: Last Modified
 
 # [Community](./topics/community.md)
 * [Joshie](./topics/community/joshie.md)
+* [Panakotta](./topics/community/panakotta.md)
 * [Wiki](./topics/community/wiki.md)
 
 # Environment
@@ -38,8 +41,10 @@ date: Last Modified
 * [Space Giraffe-Tick-Penguin-Whale Thing](./topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
 ## [Resources](./topics/environment/resources.md)
+* [Mercer Sphere](./topics/environment/resources/mercer-sphere.md)
 * [Oil](./topics/environment/resources/oil.md)
 * [S.A.M. Ore](./topics/environment/resources/sam-ore.md)
+* [Somersloop](./topics/environment/resources/somersloop.md)
 
 # Features
 * [Autosave](./topics/features/autosave.md)
@@ -157,9 +162,12 @@ date: Last Modified
 * [Official Mod Support](./topics/mods/official-mod-support.md)
 
 # [Off-Topic](./topics/off-topic.md)
+* [Deep Rock Galactic](./topics/off-topic/deep-rock-galactic.md)
 * [Goat Simulator](./topics/off-topic/goat-simulator.md)
 * [Pizza](./topics/off-topic/pizza.md)
 * [Sanctum](./topics/off-topic/sanctum.md)
+* [Semlor](./topics/off-topic/semlor.md)
+* [The Cycle](./topics/off-topic/the-cycle.md)
 * [Valheim](./topics/off-topic/valheim.md)
 
 # [Satisfactory Updates](./topics/satisfactory-updates.md)

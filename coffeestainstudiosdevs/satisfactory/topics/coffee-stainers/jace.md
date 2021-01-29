@@ -27,6 +27,12 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Q&A: New Apartment? https://clips.twitch.tv/CorrectAdorableDinosaurWoofer
 
+## February 17th, 2020 Livestream
+* Q&A: Is Jace not Swedish? https://www.youtube.com/watch?v=QHqLDc6L46g
+* Snutt & Jace Talk: The Table https://www.youtube.com/watch?v=qjrhU8HuT3E
+* Jace Talk: Funny roulette story https://www.youtube.com/watch?v=8Cw56ZD9syU
+* Snutt & Jace Talk: Comparing foodstuffs to Burgers https://www.youtube.com/watch?v=QI6fPFYrMbE
+
 ## January 22nd, 2020 Livestream
 * [Q&A: Why two Community Managers again?](../../transcriptions/yt-vr0RPVS158o.md) https://www.youtube.com/watch?v=vr0RPVS158o
 * [Q&A: Is Jace trying to go Super-Saiyan?](../../transcriptions/yt-ttGCkjfrRtY.md) https://www.youtube.com/watch?v=ttGCkjfrRtY

@@ -15,6 +15,11 @@ date: Last Modified
 ### [September 1st, 2020 Livestream](./2020-09-01.md)
 * [Q&A: Let Hannah finish her work on the map before expanding?](./transcriptions/yt-wZOVw8KV1rQ.md) https://www.youtube.com/watch?v=wZOVw8KV1rQ
 
+## [Simon](./topics/coffee-stainers/simon.md)
+
+### [February 17th, 2020](./2020-02-17.md)
+* Q&A: Lizard Doggo plushies? https://www.youtube.com/watch?v=SFZCi_HshCE
+
 # [Community](./topics/community.md)
 
 ## [January 19th, 2021 Livestream](./2021-01-19.md)
@@ -272,6 +277,9 @@ date: Last Modified
 * Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
 * Q&A: Doggo Toys? https://clips.twitch.tv/FlirtyScarySushiYouWHY
 
+#### [February 17th, 2020](./2020-02-17.md)
+* Q&A: Lizard Doggo plushies? https://www.youtube.com/watch?v=SFZCi_HshCE
+
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: Where is Lizard Doggo?](./transcriptions/yt-bB6SOIoAYg4.md) https://www.youtube.com/watch?v=bB6SOIoAYg4
 * [Q&A: Lizard Doggo plushie when?](./transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
@@ -293,6 +301,20 @@ date: Last Modified
 * [Q&A: Collect Fart Gas for fuel?](./transcriptions/yt-O5R_YmTmXUI.md) https://www.youtube.com/watch?v=O5R_YmTmXUI
 * [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](./transcriptions/yt-v4zf3_-seAg.md) https://www.youtube.com/watch?v=v4zf3_-seAg
 
+### [Mercer Sphere](./topics/environment/resources/mercer-sphere.md)
+
+#### [November 17th, 2020 Livestream](./2020-11-17.md)
+* [Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](./transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
+
+#### [September 29th, 2020 Livestream](./2020-09-29.md)
+* [Snutt Talk: WIP (Work In Progress) Items](./transcriptions/yt-ItHlbfIkVl4.md) https://www.youtube.com/watch?v=ItHlbfIkVl4
+
+#### [September 22nd, 2020 Livestream](./2020-09-22.md)
+* [Jace & Snutt Talk: Story](./transcriptions/yt-vPWShxAn3io.md) https://www.youtube.com/watch?v=vPWShxAn3io
+
+#### [December 19th, 2019 Livestream](./2019-12-19.md)
+* [Q&A: Will Mercer Spheres and Somersloops be useful soon?](./transcriptions/yt-SYWPIjbe_4Y.md) https://www.youtube.com/watch?v=SYWPIjbe_4Y
+
 ### [Oil](./topics/environment/resources/oil.md)
 
 #### [September 29th, 2020 Livestream](./2020-09-29.md)
@@ -301,7 +323,7 @@ date: Last Modified
 ### [S.A.M. Ore](./topics/environment/resources/sam-ore.md)
 
 #### [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](./transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
+* [Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](./transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
 
 #### [October 20th, 2020 Livestream](./2020-10-20.md)
 * [Q&A: What's the secret behind S.A.M. Ore?](./transcriptions/yt-tXqk1eu0-BQ.md) https://www.youtube.com/watch?v=tXqk1eu0-BQ
@@ -309,11 +331,28 @@ date: Last Modified
 #### [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Please tell me Update 4 will use S.A.M. Ore https://clips.twitch.tv/ArtisticGlutenFreeSpindleDxAbomb
 
+#### [February 17th, 2020](./2020-02-17.md)
+* Q&A: S.A.M. Ore? https://www.youtube.com/watch?v=6r-s6Hk7QwY
+
 #### [December 19th, 2019 Livestream](./2019-12-19.md)
 * [Q&A: S.A.M. Ore?](./transcriptions/yt-irJw2itG4wM.md) https://www.youtube.com/watch?v=irJw2itG4wM
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: What do you use S.A.M. Ore for?](./transcriptions/yt-jdOQXcBiSH0.md) https://www.youtube.com/watch?v=jdOQXcBiSH0
+
+### [Somersloop](./topics/environment/resources/somersloop.md)
+
+#### [November 17th, 2020 Livestream](./2020-11-17.md)
+* [Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](./transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
+
+#### [September 29th, 2020 Livestream](./2020-09-29.md)
+* [Snutt Talk: WIP (Work In Progress) Items](./transcriptions/yt-ItHlbfIkVl4.md) https://www.youtube.com/watch?v=ItHlbfIkVl4
+
+#### [September 22nd, 2020 Livestream](./2020-09-22.md)
+* [Jace & Snutt Talk: Story](./transcriptions/yt-vPWShxAn3io.md) https://www.youtube.com/watch?v=vPWShxAn3io
+
+#### [December 19th, 2019 Livestream](./2019-12-19.md)
+* [Q&A: Will Mercer Spheres and Somersloops be useful soon?](./transcriptions/yt-SYWPIjbe_4Y.md) https://www.youtube.com/watch?v=SYWPIjbe_4Y
 
 # Features
 
@@ -669,6 +708,9 @@ date: Last Modified
 #### [July 28th, 2020 Livestream](./2020-07-28.md)
 * Q&A: Dedicated Server cost https://clips.twitch.tv/ConfidentLittleSnood4Head
 
+#### [February 17th, 2020](./2020-02-17.md)
+* Q&A: Any news on Dedicated Servers? https://www.youtube.com/watch?v=pUhzc1Fd8sg
+
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
 * [Q&A: Linux support for Dedicated Servers?](./transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
 * [Q&A: Dedicated Servers?](./transcriptions/yt-Qy10mQQMXXI.md) https://www.youtube.com/watch?v=Qy10mQQMXXI
@@ -754,6 +796,9 @@ date: Last Modified
 
 #### [July 28th, 2020 Livestream](./2020-07-28.md)
 * Q&A: Satisfactory Console Release https://clips.twitch.tv/FragileNimbleEggnogDatSheffy
+
+#### [February 17th, 2020](./2020-02-17.md)
+* Q&A: Is Satisfactory going to be on PS5/PS6? https://www.youtube.com/watch?v=1v4Mho5Uh9I
 
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
 * [Q&A: Console?](./transcriptions/yt-k-7WiSX0BYM.md) https://www.youtube.com/watch?v=k-7WiSX0BYM
@@ -1237,6 +1282,9 @@ date: Last Modified
 ## [November 24th, 2020 Livestream](./2020-11-24.md)
 * [Q&A: What other languages are going to be added?](./transcriptions/yt-xpzqQntBUgw.md) https://www.youtube.com/watch?v=xpzqQntBUgw
 
+## [February 17th, 2020](./2020-02-17.md)
+* Q&A: How does one help with localisation? https://www.youtube.com/watch?v=uLblaRDOX4Y
+
 ## [January 22nd, 2020 Livestream](./2020-01-22.md)
 * [Q&A: Will you fix translations?](./transcriptions/yt-NJxOCbsJtZQ.md) https://www.youtube.com/watch?v=NJxOCbsJtZQ
 
@@ -1318,6 +1366,9 @@ date: Last Modified
 
 ## [July 28th, 2020 Livestream](./2020-07-28.md)
 * Q&A: Coffee Mug? https://clips.twitch.tv/SpunkyHyperWasabi4Head
+
+## [February 17th, 2020](./2020-02-17.md)
+* Q&A: Lizard Doggo plushies? https://www.youtube.com/watch?v=SFZCi_HshCE
 
 ## [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: Lizard Doggo plushie when?](./transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
@@ -1442,6 +1493,9 @@ date: Last Modified
 
 ### [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp
+
+### [February 17th, 2020](./2020-02-17.md)
+* Q&A: How long will it be on Experimental? https://www.youtube.com/watch?v=SiKHL4mgM40
 
 ### [January 22nd, 2020 Livestream](./2020-01-22.md)
 * [Q&A: Linux support for Dedicated Servers?](./transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
@@ -1594,7 +1648,7 @@ date: Last Modified
 * [Q&A: What is priority currently?](./transcriptions/yt-GOg5NVFpjSU.md) https://www.youtube.com/watch?v=GOg5NVFpjSU
 
 #### [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](./transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
+* [Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](./transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
 
 #### [September 29th, 2020 Livestream](./2020-09-29.md)
 * [Snutt Talk: WIP (Work In Progress) Items](./transcriptions/yt-ItHlbfIkVl4.md) https://www.youtube.com/watch?v=ItHlbfIkVl4
@@ -1622,6 +1676,11 @@ date: Last Modified
 ## Released
 
 ### [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
+
+#### [February 17th, 2020](./2020-02-17.md)
+* Q&A: Should/Can we start a new save? https://www.youtube.com/watch?v=wKvUpRb-FHw
+* Q&A: How long will it be on Experimental? https://www.youtube.com/watch?v=SiKHL4mgM40
+* Q&A: Anything narrative? https://www.youtube.com/watch?v=1mZyPuZXLE4
 
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
 * [Q&A: Will you fix translations?](./transcriptions/yt-NJxOCbsJtZQ.md) https://www.youtube.com/watch?v=NJxOCbsJtZQ
@@ -1711,7 +1770,7 @@ date: Last Modified
 * [Q&A: Does Sanctum and Satisfactory exist in the same universe?](./transcriptions/yt-JnR3oHKDQi0.md) https://www.youtube.com/watch?v=JnR3oHKDQi0
 
 ## [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](./transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
+* [Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](./transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
 * [Q&A: Who is Hannah?](./transcriptions/yt-KwsiVfRUKNE.md) https://www.youtube.com/watch?v=KwsiVfRUKNE
 
 ## [November 10th, 2020 Livestream](./2020-11-10.md)
@@ -1735,6 +1794,9 @@ date: Last Modified
 
 ## [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John
+
+## [February 17th, 2020](./2020-02-17.md)
+* Q&A: Anything narrative? https://www.youtube.com/watch?v=1mZyPuZXLE4
 
 ## [January 22nd, 2020 Livestream](./2020-01-22.md)
 * [Q&A: Are we getting Story?](./transcriptions/yt-0U_N0TCXqxU.md) https://www.youtube.com/watch?v=0U_N0TCXqxU

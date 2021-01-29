@@ -46,6 +46,13 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Q&A: Has Pipe Overflow been discussed? https://clips.twitch.tv/VainArtsyLeopardUncleNox
 
+## February 17th, 2020 Livestream
+* Q&A: Is there a reason why you hate Pipes? https://www.youtube.com/watch?v=OsetK7Ww2zI
+* Snutt & Jace Talk: We can finally talk about Update 3 https://www.youtube.com/watch?v=sThTLaqNsts
+* Q&A: Are there things people will be surprised by? https://www.youtube.com/watch?v=v-f6PgaD4rY
+* Snutt & Jace Talk: People still asking for Pipes https://www.youtube.com/watch?v=pTg32vCi8_Y
+* Jace Talk: Regretting mention Pipes on the Update 3 Launch stream https://www.youtube.com/watch?v=GHbZplfp7Jc
+
 ## January 22nd, 2020 Livestream
 * Q&A: What's the joke with Pipes, why do people want them? https://www.youtube.com/watch?v=LWyO9jzxduo
 

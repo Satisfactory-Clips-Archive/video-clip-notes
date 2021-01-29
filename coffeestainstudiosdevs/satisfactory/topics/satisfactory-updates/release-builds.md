@@ -40,6 +40,15 @@ date: Last Modified
 * Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 4) https://clips.twitch.tv/FrigidFragileCucumberOneHand
 * Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp
 
+## February 17th, 2020 Livestream
+* Q&A: How big is the Update going to be? https://www.youtube.com/watch?v=yQe_yYHAwsQ
+* Q&A: Satisfactory on mobile? https://www.youtube.com/watch?v=Vb5nLTtDSpA
+* Q&A: How long will it be on Experimental? https://www.youtube.com/watch?v=SiKHL4mgM40
+* Q&A: Is it worth to go to Experimental just to try Update 3? https://www.youtube.com/watch?v=QKBhSfxAWGQ
+* Q&A: Will you be able to preload the game? https://www.youtube.com/watch?v=xY1OQ_CuQhQ
+* Jace Talk: Update 3 launches on Experimental https://www.youtube.com/watch?v=Ljnrgop-8mo
+* Q&A: How do we install Experimental on Epic? https://www.youtube.com/watch?v=XWqTKTZB0S0
+
 ## January 22nd, 2020 Livestream
 * [Q&A: How much time between Experimental and Early Access?](../../transcriptions/yt-Cjn88-M1BbE.md) https://www.youtube.com/watch?v=Cjn88-M1BbE
 * [Q&A: Any downsides to playing experimental](../../transcriptions/yt-PJEaT3SIv0U.md) https://www.youtube.com/watch?v=PJEaT3SIv0U

@@ -47,6 +47,9 @@ layout: index
 * [July 21st, 2020](2020-07-21.md)
 * [July 28th, 2020](2020-07-28.md)
 
+# February 2020
+* [February 17th, 2020](2020-02-17.md)
+
 # January 2020
 * [January 22nd, 2020](2020-01-22.md)
 

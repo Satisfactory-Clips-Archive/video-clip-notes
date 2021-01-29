@@ -15,6 +15,9 @@ date: Last Modified
 * Snutt Talk: If you think Autosave is annoying https://clips.twitch.tv/InventiveStylishGerbilWow
 * Q&A: Is it possible to have the Autosave not noticeable at all ? https://clips.twitch.tv/ThirstyTubularHamMikeHogu
 
+## February 17th, 2020 Livestream
+* Markus Talk: What I've been working on (optimisation) https://www.youtube.com/watch?v=LmzVhKaW_5I
+
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: Save Files & Cloud Sync](../../transcriptions/yt-gGnQV2Rs5oc.md) https://www.youtube.com/watch?v=gGnQV2Rs5oc
 * [Snutt & Jace Talk: Cloud Sync issues](../../transcriptions/yt-a2v9EWPj79Q.md) https://www.youtube.com/watch?v=a2v9EWPj79Q

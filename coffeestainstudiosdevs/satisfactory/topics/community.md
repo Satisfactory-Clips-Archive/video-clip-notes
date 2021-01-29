@@ -4,6 +4,7 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Community
 * [Joshie](../topics/community/joshie.md)
+* [Panakotta](../topics/community/panakotta.md)
 * [Wiki](../topics/community/wiki.md)
 
 ## January 26th, 2021 Livestream
@@ -68,6 +69,12 @@ date: Last Modified
 
 ## September 1st, 2020 Livestream
 * [Q&A: You guys planning a Content Creator Program?](../transcriptions/yt-jfPUvIBBJVw.md) https://www.youtube.com/watch?v=jfPUvIBBJVw
+
+## February 17th, 2020 Livestream
+* Q&A: Is this the new Desert Biome? https://www.youtube.com/watch?v=ZKHgWByn3D4
+* Snutt & Jace Talk: Semlor (Part 1) https://www.youtube.com/watch?v=gHxHTyslv7Q
+* Snutt & Jace Talk: Update 3 Launch Stream https://www.youtube.com/watch?v=omrl422pdJQ
+* Jace Talk: Regretting mention Pipes on the Update 3 Launch stream https://www.youtube.com/watch?v=GHbZplfp7Jc
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Why two Community Managers again?](../transcriptions/yt-vr0RPVS158o.md) https://www.youtube.com/watch?v=vr0RPVS158o

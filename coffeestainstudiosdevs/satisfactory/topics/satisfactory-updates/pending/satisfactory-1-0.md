@@ -22,7 +22,7 @@ date: Last Modified
 * [Snutt Talk: Update 4 Tier 7 changes & Early Access](../../../transcriptions/yt-X9X9MsVbDAk.md) https://www.youtube.com/watch?v=X9X9MsVbDAk
 
 ## November 17th, 2020 Livestream
-* [Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](../../../transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
+* [Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](../../../transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
 
 ## November 10th, 2020 Livestream
 * [Q&A: Thoughts on making end-game point or goal?](../../../transcriptions/yt-hhckg5vm5_w.md) https://www.youtube.com/watch?v=hhckg5vm5_w
@@ -39,6 +39,9 @@ date: Last Modified
 
 ## October 13th, 2020 Livestream
 * [Q&A: Will Jeff Goldblum narrate 1.0?](../../../transcriptions/yt-ojWHhAieF2w.md) https://www.youtube.com/watch?v=ojWHhAieF2w
+
+## October 6th, 2020 Livestream
+* [Q&A: When are these Work In Progress (WIP) items going to be used?](../../../transcriptions/yt-bmRdzV3-wJI.md) https://www.youtube.com/watch?v=bmRdzV3-wJI
 
 ## September 29th, 2020 Livestream
 * [Snutt Talk: WIP (Work In Progress) Items](../../../transcriptions/yt-ItHlbfIkVl4.md) https://www.youtube.com/watch?v=ItHlbfIkVl4

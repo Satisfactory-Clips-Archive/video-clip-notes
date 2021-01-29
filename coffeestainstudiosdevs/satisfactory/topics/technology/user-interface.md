@@ -85,6 +85,9 @@ date: Last Modified
 * Q&A: A mark on pipes to show the meters ? https://clips.twitch.tv/AltruisticSuperBobaBudBlast
 * Q&A: What about a Tutorial System? https://clips.twitch.tv/EntertainingTenuousCasettePeteZaroll
 
+## February 17th, 2020 Livestream
+* Snutt & Markus Talk: Status of Dedicated Servers https://www.youtube.com/watch?v=QdMnTdqRxaE
+
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0
 * [Q&A: Alignment issues?](../../transcriptions/yt-Wqkx9p4mbn0.md) https://www.youtube.com/watch?v=Wqkx9p4mbn0

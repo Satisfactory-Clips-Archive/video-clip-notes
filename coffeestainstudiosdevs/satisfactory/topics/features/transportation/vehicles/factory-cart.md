@@ -12,3 +12,6 @@ date: Last Modified
 
 ## August 11th, 2020 Livestream
 * Q&A: remote-control Factory Cart https://clips.twitch.tv/MoistSmellyReubenDoubleRainbow
+
+## February 17th, 2020 Livestream
+* Snutt & Jace Talk: We can finally talk about Update 3 https://www.youtube.com/watch?v=sThTLaqNsts

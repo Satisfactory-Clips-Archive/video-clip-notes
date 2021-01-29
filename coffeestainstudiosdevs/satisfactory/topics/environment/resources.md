@@ -3,8 +3,10 @@ title: "Resources"
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Environment > Resources
+* [Mercer Sphere](../../topics/environment/resources/mercer-sphere.md)
 * [Oil](../../topics/environment/resources/oil.md)
 * [S.A.M. Ore](../../topics/environment/resources/sam-ore.md)
+* [Somersloop](../../topics/environment/resources/somersloop.md)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Some buildings used to auto-select recipes?](../../transcriptions/yt-iCOiamAc_ak.md) https://www.youtube.com/watch?v=iCOiamAc_ak

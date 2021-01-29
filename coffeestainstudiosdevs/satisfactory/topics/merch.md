@@ -97,6 +97,11 @@ date: Last Modified
 ## July 21st, 2020 Livestream
 * Q&A: How's the Merch Store coming along? https://clips.twitch.tv/OilySillySproutNotLikeThis
 
+## February 17th, 2020 Livestream
+* Q&A: Merch? https://www.youtube.com/watch?v=1Mdtq6Ytb1g
+* Q&A: Lizard Doggo plushies? https://www.youtube.com/watch?v=SFZCi_HshCE
+* Q&A: I'd love your Coffee? https://www.youtube.com/watch?v=BGRyEeiW078
+
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: Merch](../transcriptions/yt-1EIiCBd1F5g.md) https://www.youtube.com/watch?v=1EIiCBd1F5g
 

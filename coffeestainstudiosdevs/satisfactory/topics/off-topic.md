@@ -3,9 +3,12 @@ title: "Off-Topic"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Off-Topic
+* [Deep Rock Galactic](../topics/off-topic/deep-rock-galactic.md)
 * [Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [Pizza](../topics/off-topic/pizza.md)
 * [Sanctum](../topics/off-topic/sanctum.md)
+* [Semlor](../topics/off-topic/semlor.md)
+* [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
 ## January 26th, 2021 Livestream
@@ -44,6 +47,12 @@ date: Last Modified
 
 ## August 18th, 2020 Livestream
 * Q&A: Is Satisfactory affected by Epic vs. Apple? https://clips.twitch.tv/FurryAwkwardStrawberryWoofer
+
+## February 17th, 2020 Livestream
+* Snutt Talk: People learning Swedish by setting Windows to Swedish https://www.youtube.com/watch?v=7yNYQitR6B0
+* Snutt & Jace Talk: The Table https://www.youtube.com/watch?v=qjrhU8HuT3E
+* Q&A: Unreal vs. Unity? https://www.youtube.com/watch?v=CvlS6rkrPu4
+* Snutt & Jace Talk: Comparing foodstuffs to Burgers https://www.youtube.com/watch?v=QI6fPFYrMbE
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: Game delays](../transcriptions/yt-xE2XbR8_jgA.md) https://www.youtube.com/watch?v=xE2XbR8_jgA

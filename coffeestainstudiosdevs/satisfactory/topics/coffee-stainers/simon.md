@@ -11,6 +11,9 @@ date: Last Modified
 * [Q&A: Any chance of Simon becoming 3rd Community Manager?](../../transcriptions/yt-ycNS0lA5JWc.md) https://www.youtube.com/watch?v=ycNS0lA5JWc
 * [Q&A: Simon is dead, did he run out of Alpha Keys?](../../transcriptions/yt-dj20zgoTvA0.md) https://www.youtube.com/watch?v=dj20zgoTvA0
 
+## February 17th, 2020 Livestream
+* Q&A: Lizard Doggo plushies? https://www.youtube.com/watch?v=SFZCi_HshCE
+
 ## December 19th, 2019 Livestream
 * [Q&A: What happened to the keys?](../../transcriptions/yt-Xv-yl9jnC4s.md) https://www.youtube.com/watch?v=Xv-yl9jnC4s
 * [Q&A: Which one was Simon's favourite Simon Saga video?](../../transcriptions/yt-weWtkbvOxdU.md) https://www.youtube.com/watch?v=weWtkbvOxdU

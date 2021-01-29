@@ -59,6 +59,17 @@ date: Last Modified
 * [Trolling: Adding Cigarettes to the game](../transcriptions/yt-OvP_WQvSEuc.md) https://www.youtube.com/watch?v=OvP_WQvSEuc
 * [Trolling: Roleplay](../transcriptions/yt-woqoPQxH1aQ.md) https://www.youtube.com/watch?v=woqoPQxH1aQ
 
+## February 17th, 2020 Livestream
+* Q&A: Satisfactory on mobile? https://www.youtube.com/watch?v=Vb5nLTtDSpA
+* Q&A: Battle Royale? https://www.youtube.com/watch?v=fO_ZW22gL-g
+* Q&A: Bikes in Satisfactory confirmed? https://www.youtube.com/watch?v=sh2faQb1DPQ
+* Q&A: Is this the new Desert Biome? https://www.youtube.com/watch?v=ZKHgWByn3D4
+* Q&A: Is this the thing you can buy with Coupons? https://www.youtube.com/watch?v=nj-hjbu8RLA
+* Q&A: Update 3? https://www.youtube.com/watch?v=NjONXA2SgsM
+* Q&A: Is there a reason why you hate Pipes? https://www.youtube.com/watch?v=OsetK7Ww2zI
+* Q&A: They eat Update 3? https://www.youtube.com/watch?v=EHG9NGG7D_E
+* Q&A: What's underneath Snutt's hat? https://www.youtube.com/watch?v=grxWoGI4tCU
+
 ## December 19th, 2019 Livestream
 * [Snutt & Hannah Talk: Hannah wants to delete the map.](../transcriptions/yt-_bVk1N0dvDY.md) https://www.youtube.com/watch?v=_bVk1N0dvDY
 * [Q&A: What's Hannah's take on rocks that aren't on the ground?](../transcriptions/yt-y8FchPasYvI.md) https://www.youtube.com/watch?v=y8FchPasYvI

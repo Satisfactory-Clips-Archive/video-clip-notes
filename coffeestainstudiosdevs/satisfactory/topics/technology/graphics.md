@@ -103,6 +103,9 @@ date: Last Modified
 * Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt
 * Snutt Talk: VR Support https://clips.twitch.tv/DullScrumptiousEagleStinkyCheese
 
+## February 17th, 2020 Livestream
+* Snutt Talk: There's so many things I want to fix & do https://www.youtube.com/watch?v=jNQ4IPihWUY
+
 ## March 9th, 2019 Livestream
 * [Q&A: Does building Walls around big factories help performance?](../../transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4
 * [Q&A: How did you guys optimise the game so much?](../../transcriptions/yt-nRCmJo-Wh9s.md) https://www.youtube.com/watch?v=nRCmJo-Wh9s

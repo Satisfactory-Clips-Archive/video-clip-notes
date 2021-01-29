@@ -218,3 +218,6 @@ date: Last Modified
 
 ## July 28th, 2020 Livestream
 * Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy
+
+## February 17th, 2020 Livestream
+* Q&A: Battle Royale? https://www.youtube.com/watch?v=fO_ZW22gL-g

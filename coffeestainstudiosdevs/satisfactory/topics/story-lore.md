@@ -26,7 +26,7 @@ date: Last Modified
 * [Q&A: Will Story Mode have Co-op?](../transcriptions/yt-1iHSFaYoEow.md) https://www.youtube.com/watch?v=1iHSFaYoEow
 
 ## November 17th, 2020 Livestream
-* [Q&A: Any idea when Sommersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](../transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
+* [Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](../transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
 * [Q&A: Is the Engineer human at least?](../transcriptions/yt-z7QqNzK8OMU.md) https://www.youtube.com/watch?v=z7QqNzK8OMU
 * [Q&A: Who is Hannah?](../transcriptions/yt-KwsiVfRUKNE.md) https://www.youtube.com/watch?v=KwsiVfRUKNE
 
@@ -85,6 +85,9 @@ date: Last Modified
 
 ## August 11th, 2020 Livestream
 * Q&A: Story / End-game? https://clips.twitch.tv/AmorphousVictoriousTrayPartyTime
+
+## February 17th, 2020 Livestream
+* Q&A: Anything narrative? https://www.youtube.com/watch?v=1mZyPuZXLE4
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Are we getting Story?](../transcriptions/yt-0U_N0TCXqxU.md) https://www.youtube.com/watch?v=0U_N0TCXqxU
