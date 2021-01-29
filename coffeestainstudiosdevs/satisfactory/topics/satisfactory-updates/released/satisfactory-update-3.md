@@ -17,31 +17,31 @@ date: Last Modified
 * Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
 
 ## February 17th, 2020 Livestream
-* Q&A: Biggest history of Satisfactory Updates? https://www.youtube.com/watch?v=LOjffz_Nj4A
-* Q&A: How big is the Update going to be? https://www.youtube.com/watch?v=yQe_yYHAwsQ
-* Q&A: Why the secrecy? https://www.youtube.com/watch?v=RIDb5diAEgE
-* Q&A: How long will it be on Experimental? https://www.youtube.com/watch?v=SiKHL4mgM40
-* Q&A: Should/Can we start a new save? https://www.youtube.com/watch?v=wKvUpRb-FHw
-* Q&A: Will there be any more major rebalances in the future? https://www.youtube.com/watch?v=y6PVnuMZu8w
-* Q&A: Anything narrative? https://www.youtube.com/watch?v=1mZyPuZXLE4
-* Q&A: Is it worth to go to Experimental just to try Update 3? https://www.youtube.com/watch?v=QKBhSfxAWGQ
-* Q&A: Are Dedicated Servers part of Update 3? https://www.youtube.com/watch?v=4BbgGgUb1rA
-* Q&A: Update 3? https://www.youtube.com/watch?v=NjONXA2SgsM
-* Q&A: Is there a reason why you hate Pipes? https://www.youtube.com/watch?v=OsetK7Ww2zI
-* Snutt & Jace Talk: We can finally talk about Update 3 https://www.youtube.com/watch?v=sThTLaqNsts
-* Q&A: How big is the Update? https://www.youtube.com/watch?v=bzYuFehrxT0
-* Q&A: I just joined, thought this was Update 3? https://www.youtube.com/watch?v=02Zb5q8Zm5s
-* Q&A: Will you be able to preload the game? https://www.youtube.com/watch?v=xY1OQ_CuQhQ
-* Q&A: Did you crunch for Update 3? https://www.youtube.com/watch?v=BwJG6ZHR7Io
-* Jace Talk: We're having some fun before Update 3 releases https://www.youtube.com/watch?v=Vggm0YmGP84
-* Snutt & Jace Talk: What's the mood like in the Studio right now? https://www.youtube.com/watch?v=ZfUik8FwH2Y
-* Snutt Talk: Revealing Update 3 when the countdown hits zero https://www.youtube.com/watch?v=9m7is-TbgQA
-* Q&A: Are there things people will be surprised by? https://www.youtube.com/watch?v=v-f6PgaD4rY
-* Snutt & Jace Talk: People still asking for Pipes https://www.youtube.com/watch?v=pTg32vCi8_Y
+* [Q&A: Biggest history of Satisfactory Updates?](../../../transcriptions/yt-LOjffz_Nj4A.md) https://www.youtube.com/watch?v=LOjffz_Nj4A
+* [Q&A: How big is the Update going to be?](../../../transcriptions/yt-yQe_yYHAwsQ.md) https://www.youtube.com/watch?v=yQe_yYHAwsQ
+* [Q&A: Why the secrecy?](../../../transcriptions/yt-RIDb5diAEgE.md) https://www.youtube.com/watch?v=RIDb5diAEgE
+* [Q&A: How long will it be on Experimental?](../../../transcriptions/yt-SiKHL4mgM40.md) https://www.youtube.com/watch?v=SiKHL4mgM40
+* [Q&A: Should/Can we start a new save?](../../../transcriptions/yt-wKvUpRb-FHw.md) https://www.youtube.com/watch?v=wKvUpRb-FHw
+* [Q&A: Will there be any more major rebalances in the future?](../../../transcriptions/yt-y6PVnuMZu8w.md) https://www.youtube.com/watch?v=y6PVnuMZu8w
+* [Q&A: Anything narrative?](../../../transcriptions/yt-1mZyPuZXLE4.md) https://www.youtube.com/watch?v=1mZyPuZXLE4
+* [Q&A: Is it worth to go to Experimental just to try Update 3?](../../../transcriptions/yt-QKBhSfxAWGQ.md) https://www.youtube.com/watch?v=QKBhSfxAWGQ
+* [Q&A: Are Dedicated Servers part of Update 3?](../../../transcriptions/yt-4BbgGgUb1rA.md) https://www.youtube.com/watch?v=4BbgGgUb1rA
+* [Q&A: Update 3?](../../../transcriptions/yt-NjONXA2SgsM.md) https://www.youtube.com/watch?v=NjONXA2SgsM
+* [Q&A: Is there a reason why you hate Pipes?](../../../transcriptions/yt-OsetK7Ww2zI.md) https://www.youtube.com/watch?v=OsetK7Ww2zI
+* [Snutt & Jace Talk: We can finally talk about Update 3](../../../transcriptions/yt-sThTLaqNsts.md) https://www.youtube.com/watch?v=sThTLaqNsts
+* [Q&A: How big is the Update?](../../../transcriptions/yt-bzYuFehrxT0.md) https://www.youtube.com/watch?v=bzYuFehrxT0
+* [Q&A: I just joined, thought this was Update 3?](../../../transcriptions/yt-02Zb5q8Zm5s.md) https://www.youtube.com/watch?v=02Zb5q8Zm5s
+* [Q&A: Will you be able to preload the game?](../../../transcriptions/yt-xY1OQ_CuQhQ.md) https://www.youtube.com/watch?v=xY1OQ_CuQhQ
+* [Q&A: Did you crunch for Update 3?](../../../transcriptions/yt-BwJG6ZHR7Io.md) https://www.youtube.com/watch?v=BwJG6ZHR7Io
+* [Jace Talk: We're having some fun before Update 3 releases](../../../transcriptions/yt-Vggm0YmGP84.md) https://www.youtube.com/watch?v=Vggm0YmGP84
+* [Snutt & Jace Talk: What's the mood like in the Studio right now?](../../../transcriptions/yt-ZfUik8FwH2Y.md) https://www.youtube.com/watch?v=ZfUik8FwH2Y
+* [Snutt Talk: Revealing Update 3 when the countdown hits zero](../../../transcriptions/yt-9m7is-TbgQA.md) https://www.youtube.com/watch?v=9m7is-TbgQA
+* [Q&A: Are there things people will be surprised by?](../../../transcriptions/yt-v-f6PgaD4rY.md) https://www.youtube.com/watch?v=v-f6PgaD4rY
+* [Snutt & Jace Talk: People still asking for Pipes](../../../transcriptions/yt-pTg32vCi8_Y.md) https://www.youtube.com/watch?v=pTg32vCi8_Y
 * Q&A: They eat Update 3? https://www.youtube.com/watch?v=EHG9NGG7D_E
 * Snutt & Jace Talk: Update 3 Launch Stream https://www.youtube.com/watch?v=omrl422pdJQ
-* Jace Talk: Regretting mention Pipes on the Update 3 Launch stream https://www.youtube.com/watch?v=GHbZplfp7Jc
-* Jace Talk: Update 3 launches on Experimental https://www.youtube.com/watch?v=Ljnrgop-8mo
+* [Jace Talk: Regretting mention Pipes on the Update 3 Launch stream](../../../transcriptions/yt-GHbZplfp7Jc.md) https://www.youtube.com/watch?v=GHbZplfp7Jc
+* [Jace Talk: Update 3 launches on Experimental](../../../transcriptions/yt-Ljnrgop-8mo.md) https://www.youtube.com/watch?v=Ljnrgop-8mo
 
 ## January 22nd, 2020 Livestream
 * [State of Dev: Update 3 Play Testing](../../../transcriptions/yt-pi4rCVbiq14.md) https://www.youtube.com/watch?v=pi4rCVbiq14

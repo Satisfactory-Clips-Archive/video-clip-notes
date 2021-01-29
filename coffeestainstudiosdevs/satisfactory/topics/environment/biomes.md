@@ -39,7 +39,7 @@ date: Last Modified
 * [Q&A: Even more Biomes coming to play?](../../transcriptions/yt-VgDl00Ycn3U.md) https://www.youtube.com/watch?v=VgDl00Ycn3U
 
 ## February 17th, 2020 Livestream
-* Q&A: Is this the new Desert Biome? https://www.youtube.com/watch?v=ZKHgWByn3D4
+* [Q&A: Is this the new Desert Biome?](../../transcriptions/yt-ZKHgWByn3D4.md) https://www.youtube.com/watch?v=ZKHgWByn3D4
 
 ## March 9th, 2019 Livestream
 * [Q&A: Is the Desert Biome available in the beta?](../../transcriptions/yt-JMQotRaN9Bs.md) https://www.youtube.com/watch?v=JMQotRaN9Bs

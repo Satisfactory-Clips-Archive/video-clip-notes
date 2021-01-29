@@ -16,7 +16,7 @@ date: Last Modified
 * Q&A: Is it possible to have the Autosave not noticeable at all ? https://clips.twitch.tv/ThirstyTubularHamMikeHogu
 
 ## February 17th, 2020 Livestream
-* Markus Talk: What I've been working on (optimisation) https://www.youtube.com/watch?v=LmzVhKaW_5I
+* [Markus Talk: What I've been working on (optimisation)](../../transcriptions/yt-LmzVhKaW_5I.md) https://www.youtube.com/watch?v=LmzVhKaW_5I
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: Save Files & Cloud Sync](../../transcriptions/yt-gGnQV2Rs5oc.md) https://www.youtube.com/watch?v=gGnQV2Rs5oc

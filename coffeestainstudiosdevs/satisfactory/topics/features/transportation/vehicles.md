@@ -84,7 +84,7 @@ date: Last Modified
 * Q&A: Two-seated vehicles (Part 2) https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog
 
 ## February 17th, 2020 Livestream
-* Q&A: Bikes in Satisfactory confirmed? https://www.youtube.com/watch?v=sh2faQb1DPQ
+* [Q&A: Bikes in Satisfactory confirmed?](../../../transcriptions/yt-sh2faQb1DPQ.md) https://www.youtube.com/watch?v=sh2faQb1DPQ
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0

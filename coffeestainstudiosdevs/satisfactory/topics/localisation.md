@@ -18,8 +18,8 @@ date: Last Modified
 * [Snutt Talk: Localisation Update](../transcriptions/yt-olB0GBC1sZI.md) https://www.youtube.com/watch?v=olB0GBC1sZI
 
 ## February 17th, 2020 Livestream
-* Q&A: Are the builds already translated? https://www.youtube.com/watch?v=0W8y6KDem6U
-* Q&A: How does one help with localisation? https://www.youtube.com/watch?v=uLblaRDOX4Y
+* [Q&A: Are the builds already translated?](../transcriptions/yt-0W8y6KDem6U.md) https://www.youtube.com/watch?v=0W8y6KDem6U
+* [Q&A: How does one help with localisation?](../transcriptions/yt-uLblaRDOX4Y.md) https://www.youtube.com/watch?v=uLblaRDOX4Y
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Will you fix translations?](../transcriptions/yt-NJxOCbsJtZQ.md) https://www.youtube.com/watch?v=NJxOCbsJtZQ

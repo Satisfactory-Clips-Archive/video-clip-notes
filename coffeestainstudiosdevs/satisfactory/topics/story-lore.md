@@ -87,7 +87,7 @@ date: Last Modified
 * Q&A: Story / End-game? https://clips.twitch.tv/AmorphousVictoriousTrayPartyTime
 
 ## February 17th, 2020 Livestream
-* Q&A: Anything narrative? https://www.youtube.com/watch?v=1mZyPuZXLE4
+* [Q&A: Anything narrative?](../transcriptions/yt-1mZyPuZXLE4.md) https://www.youtube.com/watch?v=1mZyPuZXLE4
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Are we getting Story?](../transcriptions/yt-0U_N0TCXqxU.md) https://www.youtube.com/watch?v=0U_N0TCXqxU

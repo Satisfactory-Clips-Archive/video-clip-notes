@@ -67,8 +67,8 @@ date: Last Modified
 * Q&A: What do you think about a game mode with weather effects doing damage or slowing machines? https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime
 
 ## February 17th, 2020 Livestream
-* Q&A: Battle Royale? https://www.youtube.com/watch?v=fO_ZW22gL-g
-* Q&A: I just joined, thought this was Update 3? https://www.youtube.com/watch?v=02Zb5q8Zm5s
+* [Q&A: Battle Royale?](../../../transcriptions/yt-fO_ZW22gL-g.md) https://www.youtube.com/watch?v=fO_ZW22gL-g
+* [Q&A: I just joined, thought this was Update 3?](../../../transcriptions/yt-02Zb5q8Zm5s.md) https://www.youtube.com/watch?v=02Zb5q8Zm5s
 
 ## December 19th, 2019 Livestream
 * [Q&A: Will there be more competitive stuff?](../../../transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA

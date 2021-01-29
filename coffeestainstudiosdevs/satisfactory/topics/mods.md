@@ -79,7 +79,7 @@ date: Last Modified
 * Q&A: Will you plan to add Steam Workshop support? https://clips.twitch.tv/SwissTameCoffeeDansGame
 
 ## February 17th, 2020 Livestream
-* Snutt, Markus, & G2 Talk: The Modding Community https://www.youtube.com/watch?v=0nF9GbpBe5I
+* [Snutt, Markus, & G2 Talk: The Modding Community](../transcriptions/yt-0nF9GbpBe5I.md) https://www.youtube.com/watch?v=0nF9GbpBe5I
 
 ## January 22nd, 2020 Livestream
 * Q&A: Will Mods work correctly after the Update? https://www.youtube.com/watch?v=qf6QTYIHDaQ

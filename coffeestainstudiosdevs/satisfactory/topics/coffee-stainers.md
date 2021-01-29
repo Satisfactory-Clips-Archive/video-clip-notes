@@ -36,11 +36,11 @@ date: Last Modified
 * Q&A: Do you have a QA department? https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull
 
 ## February 17th, 2020 Livestream
-* Snutt Talk: Get back to school, Coffee Stain needs devs https://www.youtube.com/watch?v=Ee0IFHzpEh4
-* Q&A: Did you crunch for Update 3? https://www.youtube.com/watch?v=BwJG6ZHR7Io
-* Jace Talk: Funny roulette story https://www.youtube.com/watch?v=8Cw56ZD9syU
-* Jace Talk: We're having some fun before Update 3 releases https://www.youtube.com/watch?v=Vggm0YmGP84
-* Snutt & Jace Talk: What's the mood like in the Studio right now? https://www.youtube.com/watch?v=ZfUik8FwH2Y
+* [Snutt Talk: Get back to school, Coffee Stain needs devs](../transcriptions/yt-Ee0IFHzpEh4.md) https://www.youtube.com/watch?v=Ee0IFHzpEh4
+* [Q&A: Did you crunch for Update 3?](../transcriptions/yt-BwJG6ZHR7Io.md) https://www.youtube.com/watch?v=BwJG6ZHR7Io
+* [Jace Talk: Funny roulette story](../transcriptions/yt-8Cw56ZD9syU.md) https://www.youtube.com/watch?v=8Cw56ZD9syU
+* [Jace Talk: We're having some fun before Update 3 releases](../transcriptions/yt-Vggm0YmGP84.md) https://www.youtube.com/watch?v=Vggm0YmGP84
+* [Snutt & Jace Talk: What's the mood like in the Studio right now?](../transcriptions/yt-ZfUik8FwH2Y.md) https://www.youtube.com/watch?v=ZfUik8FwH2Y
 
 ## January 22nd, 2020 Livestream
 * [State of Dev: Biggest thing that's going on in the office right now.](../transcriptions/yt--HN8rUEaVwY.md) https://www.youtube.com/watch?v=-HN8rUEaVwY

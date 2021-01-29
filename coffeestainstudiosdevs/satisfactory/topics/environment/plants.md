@@ -35,8 +35,8 @@ date: Last Modified
 * Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt
 
 ## February 17th, 2020 Livestream
-* Snutt Talk: There's so many things I want to fix & do https://www.youtube.com/watch?v=jNQ4IPihWUY
-* Q&A: Are you going to add Potato Energy? https://www.youtube.com/watch?v=V1h0SVwCHKc
+* [Snutt Talk: There's so many things I want to fix & do](../../transcriptions/yt-jNQ4IPihWUY.md) https://www.youtube.com/watch?v=jNQ4IPihWUY
+* [Q&A: Are you going to add Potato Energy?](../../transcriptions/yt-V1h0SVwCHKc.md) https://www.youtube.com/watch?v=V1h0SVwCHKc
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Will consumables ever grow back?](../../transcriptions/yt-hbm5XfpQ1O0.md) https://www.youtube.com/watch?v=hbm5XfpQ1O0

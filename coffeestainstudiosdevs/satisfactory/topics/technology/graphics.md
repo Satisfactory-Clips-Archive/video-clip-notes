@@ -104,7 +104,7 @@ date: Last Modified
 * Snutt Talk: VR Support https://clips.twitch.tv/DullScrumptiousEagleStinkyCheese
 
 ## February 17th, 2020 Livestream
-* Snutt Talk: There's so many things I want to fix & do https://www.youtube.com/watch?v=jNQ4IPihWUY
+* [Snutt Talk: There's so many things I want to fix & do](../../transcriptions/yt-jNQ4IPihWUY.md) https://www.youtube.com/watch?v=jNQ4IPihWUY
 
 ## March 9th, 2019 Livestream
 * [Q&A: Does building Walls around big factories help performance?](../../transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4

@@ -106,10 +106,10 @@ date: Last Modified
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
 
 ## February 17th, 2020 Livestream
-* Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity https://www.youtube.com/watch?v=jFeV8JA7NXg
-* Snutt & Markus Talk: Status of Dedicated Servers https://www.youtube.com/watch?v=QdMnTdqRxaE
-* Snutt Talk: There's so many things I want to fix & do https://www.youtube.com/watch?v=jNQ4IPihWUY
-* Q&A: Will Dedicated Servers help with the lag? https://www.youtube.com/watch?v=NmlWN5vExT0
+* [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) https://www.youtube.com/watch?v=jFeV8JA7NXg
+* [Snutt & Markus Talk: Status of Dedicated Servers](../../transcriptions/yt-QdMnTdqRxaE.md) https://www.youtube.com/watch?v=QdMnTdqRxaE
+* [Snutt Talk: There's so many things I want to fix & do](../../transcriptions/yt-jNQ4IPihWUY.md) https://www.youtube.com/watch?v=jNQ4IPihWUY
+* [Q&A: Will Dedicated Servers help with the lag?](../../transcriptions/yt-NmlWN5vExT0.md) https://www.youtube.com/watch?v=NmlWN5vExT0
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0

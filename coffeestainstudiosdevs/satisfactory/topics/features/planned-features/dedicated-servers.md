@@ -100,10 +100,10 @@ date: Last Modified
 * Q&A: Dedicated Server cost https://clips.twitch.tv/ConfidentLittleSnood4Head
 
 ## February 17th, 2020 Livestream
-* Q&A: Any news on Dedicated Servers? https://www.youtube.com/watch?v=pUhzc1Fd8sg
-* Q&A: Are Dedicated Servers part of Update 3? https://www.youtube.com/watch?v=4BbgGgUb1rA
-* Snutt & Markus Talk: Status of Dedicated Servers https://www.youtube.com/watch?v=QdMnTdqRxaE
-* Q&A: Will Dedicated Servers help with the lag? https://www.youtube.com/watch?v=NmlWN5vExT0
+* [Q&A: Any news on Dedicated Servers?](../../../transcriptions/yt-pUhzc1Fd8sg.md) https://www.youtube.com/watch?v=pUhzc1Fd8sg
+* [Q&A: Are Dedicated Servers part of Update 3?](../../../transcriptions/yt-4BbgGgUb1rA.md) https://www.youtube.com/watch?v=4BbgGgUb1rA
+* [Snutt & Markus Talk: Status of Dedicated Servers](../../../transcriptions/yt-QdMnTdqRxaE.md) https://www.youtube.com/watch?v=QdMnTdqRxaE
+* [Q&A: Will Dedicated Servers help with the lag?](../../../transcriptions/yt-NmlWN5vExT0.md) https://www.youtube.com/watch?v=NmlWN5vExT0
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Dedicated Servers, will they cost anything?](../../../transcriptions/yt-SdB0QlhgmGs.md) https://www.youtube.com/watch?v=SdB0QlhgmGs

@@ -86,7 +86,7 @@ date: Last Modified
 * Q&A: What about a Tutorial System? https://clips.twitch.tv/EntertainingTenuousCasettePeteZaroll
 
 ## February 17th, 2020 Livestream
-* Snutt & Markus Talk: Status of Dedicated Servers https://www.youtube.com/watch?v=QdMnTdqRxaE
+* [Snutt & Markus Talk: Status of Dedicated Servers](../../transcriptions/yt-QdMnTdqRxaE.md) https://www.youtube.com/watch?v=QdMnTdqRxaE
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0

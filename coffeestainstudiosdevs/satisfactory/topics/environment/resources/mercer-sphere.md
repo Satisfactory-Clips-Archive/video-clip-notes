@@ -23,7 +23,7 @@ date: Last Modified
 * [Jace & Snutt Talk: Story](../../../transcriptions/yt-vPWShxAn3io.md) https://www.youtube.com/watch?v=vPWShxAn3io
 
 ## February 17th, 2020 Livestream
-* Q&A: Mercer Spheres? https://www.youtube.com/watch?v=9VS0lGfDZ1k
+* [Q&A: Mercer Spheres?](../../../transcriptions/yt-9VS0lGfDZ1k.md) https://www.youtube.com/watch?v=9VS0lGfDZ1k
 
 ## December 19th, 2019 Livestream
 * [Q&A: Will Mercer Spheres and Somersloops be useful soon?](../../../transcriptions/yt-SYWPIjbe_4Y.md) https://www.youtube.com/watch?v=SYWPIjbe_4Y

@@ -12,7 +12,7 @@ date: Last Modified
 * [Q&A: Simon is dead, did he run out of Alpha Keys?](../../transcriptions/yt-dj20zgoTvA0.md) https://www.youtube.com/watch?v=dj20zgoTvA0
 
 ## February 17th, 2020 Livestream
-* Q&A: Lizard Doggo plushies? https://www.youtube.com/watch?v=SFZCi_HshCE
+* [Q&A: Lizard Doggo plushies?](../../transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 ## December 19th, 2019 Livestream
 * [Q&A: What happened to the keys?](../../transcriptions/yt-Xv-yl9jnC4s.md) https://www.youtube.com/watch?v=Xv-yl9jnC4s

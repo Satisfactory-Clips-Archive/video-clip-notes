@@ -31,7 +31,7 @@ date: Last Modified
 * Plans for mod support? (Part 3) https://clips.twitch.tv/HumbleRenownedTofuLitty
 
 ## February 17th, 2020 Livestream
-* Q&A: Where's Mod support? https://www.youtube.com/watch?v=JRyAZT7y44g
+* [Q&A: Where's Mod support?](../../transcriptions/yt-JRyAZT7y44g.md) https://www.youtube.com/watch?v=JRyAZT7y44g
 
 ## March 9th, 2019 Livestream
 * [Q&A: What do you think about future Mod support?](../../transcriptions/yt-6-uSzpX-zZ0.md) https://www.youtube.com/watch?v=6-uSzpX-zZ0

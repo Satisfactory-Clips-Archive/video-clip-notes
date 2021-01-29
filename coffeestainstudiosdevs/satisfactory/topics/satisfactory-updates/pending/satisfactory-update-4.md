@@ -220,4 +220,4 @@ date: Last Modified
 * Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy
 
 ## February 17th, 2020 Livestream
-* Q&A: Battle Royale? https://www.youtube.com/watch?v=fO_ZW22gL-g
+* [Q&A: Battle Royale?](../../../transcriptions/yt-fO_ZW22gL-g.md) https://www.youtube.com/watch?v=fO_ZW22gL-g

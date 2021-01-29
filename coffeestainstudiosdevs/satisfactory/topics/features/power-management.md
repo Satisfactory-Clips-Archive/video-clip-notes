@@ -81,7 +81,7 @@ date: Last Modified
 * Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy
 
 ## February 17th, 2020 Livestream
-* Q&A: Are you going to add Potato Energy? https://www.youtube.com/watch?v=V1h0SVwCHKc
+* [Q&A: Are you going to add Potato Energy?](../../transcriptions/yt-V1h0SVwCHKc.md) https://www.youtube.com/watch?v=V1h0SVwCHKc
 
 ## March 9th, 2019 Livestream
 * [Q&A: Is it possible to use powerline as zip-lines?](../../transcriptions/yt-NTeBuhOqIu0.md) https://www.youtube.com/watch?v=NTeBuhOqIu0

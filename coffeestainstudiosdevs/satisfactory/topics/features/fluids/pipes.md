@@ -47,11 +47,11 @@ date: Last Modified
 * Q&A: Has Pipe Overflow been discussed? https://clips.twitch.tv/VainArtsyLeopardUncleNox
 
 ## February 17th, 2020 Livestream
-* Q&A: Is there a reason why you hate Pipes? https://www.youtube.com/watch?v=OsetK7Ww2zI
-* Snutt & Jace Talk: We can finally talk about Update 3 https://www.youtube.com/watch?v=sThTLaqNsts
-* Q&A: Are there things people will be surprised by? https://www.youtube.com/watch?v=v-f6PgaD4rY
-* Snutt & Jace Talk: People still asking for Pipes https://www.youtube.com/watch?v=pTg32vCi8_Y
-* Jace Talk: Regretting mention Pipes on the Update 3 Launch stream https://www.youtube.com/watch?v=GHbZplfp7Jc
+* [Q&A: Is there a reason why you hate Pipes?](../../../transcriptions/yt-OsetK7Ww2zI.md) https://www.youtube.com/watch?v=OsetK7Ww2zI
+* [Snutt & Jace Talk: We can finally talk about Update 3](../../../transcriptions/yt-sThTLaqNsts.md) https://www.youtube.com/watch?v=sThTLaqNsts
+* [Q&A: Are there things people will be surprised by?](../../../transcriptions/yt-v-f6PgaD4rY.md) https://www.youtube.com/watch?v=v-f6PgaD4rY
+* [Snutt & Jace Talk: People still asking for Pipes](../../../transcriptions/yt-pTg32vCi8_Y.md) https://www.youtube.com/watch?v=pTg32vCi8_Y
+* [Jace Talk: Regretting mention Pipes on the Update 3 Launch stream](../../../transcriptions/yt-GHbZplfp7Jc.md) https://www.youtube.com/watch?v=GHbZplfp7Jc
 
 ## January 22nd, 2020 Livestream
 * Q&A: What's the joke with Pipes, why do people want them? https://www.youtube.com/watch?v=LWyO9jzxduo

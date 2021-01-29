@@ -113,11 +113,11 @@ date: Last Modified
 * Q&A: Unreal Engine 5 https://clips.twitch.tv/PiliableZanyGrassFreakinStinkin
 
 ## February 17th, 2020 Livestream
-* Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity https://www.youtube.com/watch?v=jFeV8JA7NXg
-* Snutt, Markus, & G2 Talk: Unreal Engine 3 vs. Unreal Engine 4 https://www.youtube.com/watch?v=lMh52dOpyUk
-* Q&A: Why not C#? https://www.youtube.com/watch?v=c7q7LckT01A
-* Snutt, Markus, & G2 Talk: The Modding Community https://www.youtube.com/watch?v=0nF9GbpBe5I
-* Markus Talk: What I've been working on (optimisation) https://www.youtube.com/watch?v=LmzVhKaW_5I
+* [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) https://www.youtube.com/watch?v=jFeV8JA7NXg
+* [Snutt, Markus, & G2 Talk: Unreal Engine 3 vs. Unreal Engine 4](../../transcriptions/yt-lMh52dOpyUk.md) https://www.youtube.com/watch?v=lMh52dOpyUk
+* [Q&A: Why not C#?](../../transcriptions/yt-c7q7LckT01A.md) https://www.youtube.com/watch?v=c7q7LckT01A
+* [Snutt, Markus, & G2 Talk: The Modding Community](../../transcriptions/yt-0nF9GbpBe5I.md) https://www.youtube.com/watch?v=0nF9GbpBe5I
+* [Markus Talk: What I've been working on (optimisation)](../../transcriptions/yt-LmzVhKaW_5I.md) https://www.youtube.com/watch?v=LmzVhKaW_5I
 
 ## March 9th, 2019 Livestream
 * [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](../../transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k

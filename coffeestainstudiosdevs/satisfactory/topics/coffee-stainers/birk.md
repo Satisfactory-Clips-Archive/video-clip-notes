@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Birk
 
 ## February 17th, 2020 Livestream
-* Q&A: Where's Mod support? https://www.youtube.com/watch?v=JRyAZT7y44g
+* [Q&A: Where's Mod support?](../../transcriptions/yt-JRyAZT7y44g.md) https://www.youtube.com/watch?v=JRyAZT7y44g
 
 ## December 19th, 2019 Livestream
 * [Q&A: Can Birk slap Jace?](../../transcriptions/yt-BEOwkK8suFc.md) https://www.youtube.com/watch?v=BEOwkK8suFc

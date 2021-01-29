@@ -15,8 +15,8 @@ date: Last Modified
 * Q&A: Are vehicles going to get less sketchy or are we always getting Goat Simulator physics? https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage
 
 ## February 17th, 2020 Livestream
-* Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity https://www.youtube.com/watch?v=jFeV8JA7NXg
-* Snutt, Markus, & G2 Talk: Unreal Engine 3 vs. Unreal Engine 4 https://www.youtube.com/watch?v=lMh52dOpyUk
+* [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) https://www.youtube.com/watch?v=jFeV8JA7NXg
+* [Snutt, Markus, & G2 Talk: Unreal Engine 3 vs. Unreal Engine 4](../../transcriptions/yt-lMh52dOpyUk.md) https://www.youtube.com/watch?v=lMh52dOpyUk
 
 ## December 19th, 2019 Livestream
 * [Q&A: Does it mean we get Goats?](../../transcriptions/yt-RlSL5DONzns.md) https://www.youtube.com/watch?v=RlSL5DONzns

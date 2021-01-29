@@ -33,9 +33,9 @@ date: Last Modified
 * Q&A: Why does Snutt have many guitars? https://clips.twitch.tv/AverageRenownedAxeWholeWheat
 
 ## February 17th, 2020 Livestream
-* Snutt Talk: People learning Swedish by setting Windows to Swedish https://www.youtube.com/watch?v=7yNYQitR6B0
-* Snutt Talk: Revealing Update 3 when the countdown hits zero https://www.youtube.com/watch?v=9m7is-TbgQA
-* Q&A: What's underneath Snutt's hat? https://www.youtube.com/watch?v=grxWoGI4tCU
+* [Snutt Talk: People learning Swedish by setting Windows to Swedish](../../transcriptions/yt-7yNYQitR6B0.md) https://www.youtube.com/watch?v=7yNYQitR6B0
+* [Snutt Talk: Revealing Update 3 when the countdown hits zero](../../transcriptions/yt-9m7is-TbgQA.md) https://www.youtube.com/watch?v=9m7is-TbgQA
+* [Q&A: What's underneath Snutt's hat?](../../transcriptions/yt-grxWoGI4tCU.md) https://www.youtube.com/watch?v=grxWoGI4tCU
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Why two Community Managers again?](../../transcriptions/yt-vr0RPVS158o.md) https://www.youtube.com/watch?v=vr0RPVS158o

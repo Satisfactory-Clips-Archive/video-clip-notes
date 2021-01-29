@@ -47,7 +47,7 @@ date: Last Modified
 * Q&A: Doggo Toys? https://clips.twitch.tv/FlirtyScarySushiYouWHY
 
 ## February 17th, 2020 Livestream
-* Q&A: Lizard Doggo plushies? https://www.youtube.com/watch?v=SFZCi_HshCE
+* [Q&A: Lizard Doggo plushies?](../../../transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 ## March 9th, 2019 Livestream
 * [Q&A: Where is Lizard Doggo?](../../../transcriptions/yt-bB6SOIoAYg4.md) https://www.youtube.com/watch?v=bB6SOIoAYg4
