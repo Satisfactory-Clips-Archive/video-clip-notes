@@ -41,7 +41,7 @@ date: Last Modified
 * Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp
 
 ## March 24th, 2020 Livestream
-* State of Dev: Update 3, Steam Release https://www.youtube.com/watch?v=Y__cl6AcRzs
+* [State of Dev: Update 3, Steam Release](../../transcriptions/yt-Y__cl6AcRzs.md) https://www.youtube.com/watch?v=Y__cl6AcRzs
 
 ## February 17th, 2020 Livestream
 * [Q&A: How big is the Update going to be?](../../transcriptions/yt-yQe_yYHAwsQ.md) https://www.youtube.com/watch?v=yQe_yYHAwsQ

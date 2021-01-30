@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Tim
 
 ## March 24th, 2020 Livestream
-* Snutt & Jace Talk: We don't plan very well at all https://www.youtube.com/watch?v=uNWZuo9AxdM
+* [Snutt & Jace Talk: We don't plan very well at all](../../transcriptions/yt-uNWZuo9AxdM.md) https://www.youtube.com/watch?v=uNWZuo9AxdM
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0

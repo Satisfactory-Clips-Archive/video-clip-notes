@@ -98,7 +98,7 @@ date: Last Modified
 * Q&A: How's the Merch Store coming along? https://clips.twitch.tv/OilySillySproutNotLikeThis
 
 ## March 24th, 2020 Livestream
-* Q&A: Merch? https://www.youtube.com/watch?v=PIlduefx6Vk
+* [Q&A: Merch?](../transcriptions/yt-PIlduefx6Vk.md) https://www.youtube.com/watch?v=PIlduefx6Vk
 * Q&A: Could sell Dev Bath Water? https://www.youtube.com/watch?v=-Lqo5URgAfM
 
 ## February 17th, 2020 Livestream

@@ -55,7 +55,7 @@ date: Last Modified
 * Q&A: Removing vegetation speeds up the game, yes or no ? https://clips.twitch.tv/BusyHandsomeSmoothiePartyTime
 
 ### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: Berry Farming? https://www.youtube.com/watch?v=2Cq3xmLN8sQ
+* [Q&A: Berry Farming?](./transcriptions/yt-2Cq3xmLN8sQ.md) https://www.youtube.com/watch?v=2Cq3xmLN8sQ
 
 ## [Pollution](./topics/environment/pollution.md)
 
@@ -428,7 +428,7 @@ date: Last Modified
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
 
 ### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: How will we crossplay? https://www.youtube.com/watch?v=-kVvrassZVw
+* [Q&A: How will we crossplay?](./transcriptions/yt--kVvrassZVw.md) https://www.youtube.com/watch?v=-kVvrassZVw
 
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: Do you want to support more than 4 people?](./transcriptions/yt-wb5HY05QX9I.md) https://www.youtube.com/watch?v=wb5HY05QX9I
@@ -484,7 +484,7 @@ date: Last Modified
 * [Q&A: Will there be Priority Mergers for this Update?](./transcriptions/yt-sMidcvjGGOM.md) https://www.youtube.com/watch?v=sMidcvjGGOM
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Jace Talk: Use the QA Site https://www.youtube.com/watch?v=Bm_Yh-0jjtI
+* [Jace Talk: Use the QA Site](./transcriptions/yt-Bm_Yh-0jjtI.md) https://www.youtube.com/watch?v=Bm_Yh-0jjtI
 
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
 * Q&A: What do you think about Splitters that can split a certain percentage of the Belts? https://www.youtube.com/watch?v=GiOZBqdfrAQ
@@ -512,8 +512,8 @@ date: Last Modified
 * Q&A: What about holes for Foundations? (Part 2) https://clips.twitch.tv/SparklingGiftedDumplingsSquadGoals
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: Multiple Foundation creation? https://www.youtube.com/watch?v=zfdV2qIDHP4
-* Jace Talk: Use the QA Site https://www.youtube.com/watch?v=Bm_Yh-0jjtI
+* [Q&A: Multiple Foundation creation?](./transcriptions/yt-zfdV2qIDHP4.md) https://www.youtube.com/watch?v=zfdV2qIDHP4
+* [Jace Talk: Use the QA Site](./transcriptions/yt-Bm_Yh-0jjtI.md) https://www.youtube.com/watch?v=Bm_Yh-0jjtI
 
 ### [Storage Containers](./topics/features/buildables/storage-containers.md)
 
@@ -780,7 +780,7 @@ date: Last Modified
 * [Q&A: Are there plans for Character Customisation?](./transcriptions/yt-LAR8rVCHVmw.md) https://www.youtube.com/watch?v=LAR8rVCHVmw
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: Can I change my character from female to male? https://www.youtube.com/watch?v=NFKSJi204cc
+* [Q&A: Can I change my character from female to male?](./transcriptions/yt-NFKSJi204cc.md) https://www.youtube.com/watch?v=NFKSJi204cc
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: What gender is the character model?](./transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs
@@ -814,7 +814,7 @@ date: Last Modified
 * Q&A: Satisfactory Console Release https://clips.twitch.tv/FragileNimbleEggnogDatSheffy
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: Satisfactory on the next Console generation? https://www.youtube.com/watch?v=9bez-QIVKLA
+* [Q&A: Satisfactory on the next Console generation?](./transcriptions/yt-9bez-QIVKLA.md) https://www.youtube.com/watch?v=9bez-QIVKLA
 
 #### [February 17th, 2020](./2020-02-17.md)
 * [Q&A: Is Satisfactory going to be on PS5/PS6?](./transcriptions/yt-1v4Mho5Uh9I.md) https://www.youtube.com/watch?v=1v4Mho5Uh9I
@@ -854,7 +854,7 @@ date: Last Modified
 * [Q&A: Farm?](./transcriptions/yt-2i5toplIVJo.md) https://www.youtube.com/watch?v=2i5toplIVJo
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: Berry Farming? https://www.youtube.com/watch?v=2Cq3xmLN8sQ
+* [Q&A: Berry Farming?](./transcriptions/yt-2Cq3xmLN8sQ.md) https://www.youtube.com/watch?v=2Cq3xmLN8sQ
 
 ### [Game Modes](./topics/features/possible-features/game-modes.md)
 
@@ -890,8 +890,8 @@ date: Last Modified
 * Q&A: Will there be a no combat/fight version? https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: Wouldn't you split normal & Creative Mode then not allow switching? https://www.youtube.com/watch?v=7xTscBSrsY0
-* Q&A: Creative Mode without having to Mod? https://www.youtube.com/watch?v=ww37EE17YP4
+* [Q&A: Wouldn't you split normal & Creative Mode then not allow switching?](./transcriptions/yt-7xTscBSrsY0.md) https://www.youtube.com/watch?v=7xTscBSrsY0
+* [Q&A: Creative Mode without having to Mod?](./transcriptions/yt-ww37EE17YP4.md) https://www.youtube.com/watch?v=ww37EE17YP4
 
 #### [December 19th, 2019 Livestream](./2019-12-19.md)
 * [Q&A: Will there be more competitive stuff?](./transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
@@ -1260,7 +1260,7 @@ date: Last Modified
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: Multiple Foundation creation? https://www.youtube.com/watch?v=zfdV2qIDHP4
+* [Q&A: Multiple Foundation creation?](./transcriptions/yt-zfdV2qIDHP4.md) https://www.youtube.com/watch?v=zfdV2qIDHP4
 
 ### [Procedural Generation](./topics/features/unplanned-features/procedural-generation.md)
 
@@ -1475,7 +1475,7 @@ date: Last Modified
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis
 
 ### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: Creative Mode without having to Mod? https://www.youtube.com/watch?v=ww37EE17YP4
+* [Q&A: Creative Mode without having to Mod?](./transcriptions/yt-ww37EE17YP4.md) https://www.youtube.com/watch?v=ww37EE17YP4
 
 ### [January 22nd, 2020 Livestream](./2020-01-22.md)
 * [Q&A: Are we going to be implmenting any of the ideas from Mods?](./transcriptions/yt-SUSCYnziYkI.md) https://www.youtube.com/watch?v=SUSCYnziYkI
@@ -1670,7 +1670,7 @@ date: Last Modified
 * Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: Will there be a roadmap again for Updates? https://www.youtube.com/watch?v=EiqFP9bm7v4
+* [Q&A: Will there be a roadmap again for Updates?](./transcriptions/yt-EiqFP9bm7v4.md) https://www.youtube.com/watch?v=EiqFP9bm7v4
 
 ### [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
@@ -1701,7 +1701,7 @@ date: Last Modified
 * Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: Will there be a roadmap again for Updates? https://www.youtube.com/watch?v=EiqFP9bm7v4
+* [Q&A: Will there be a roadmap again for Updates?](./transcriptions/yt-EiqFP9bm7v4.md) https://www.youtube.com/watch?v=EiqFP9bm7v4
 
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
 * [Q&A: Are we getting Story?](./transcriptions/yt-0U_N0TCXqxU.md) https://www.youtube.com/watch?v=0U_N0TCXqxU
@@ -1761,7 +1761,7 @@ date: Last Modified
 * [Q&A: Give details about the Fluids?](./transcriptions/yt-CFKUv9FCVms.md) https://www.youtube.com/watch?v=CFKUv9FCVms
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: Will there be a roadmap again for Updates? https://www.youtube.com/watch?v=EiqFP9bm7v4
+* [Q&A: Will there be a roadmap again for Updates?](./transcriptions/yt-EiqFP9bm7v4.md) https://www.youtube.com/watch?v=EiqFP9bm7v4
 
 ## [Seasonal Events](./topics/satisfactory-updates/seasonal-events.md)
 
@@ -1794,7 +1794,7 @@ date: Last Modified
 # [Soundtrack](./topics/soundtrack.md)
 
 ## [March 24th, 2020 Livestream](./2020-03-24.md)
-* Q&A: Will we be able to download & buy the amazing soundtrack? https://www.youtube.com/watch?v=yLgW2QiPT70
+* [Q&A: Will we be able to download & buy the amazing soundtrack?](./transcriptions/yt-yLgW2QiPT70.md) https://www.youtube.com/watch?v=yLgW2QiPT70
 
 ## [January 22nd, 2020 Livestream](./2020-01-22.md)
 * [Q&A: Are there plans to put the OST on Spotify?](./transcriptions/yt-z4cypywhIks.md) https://www.youtube.com/watch?v=z4cypywhIks

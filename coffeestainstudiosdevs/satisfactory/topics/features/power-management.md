@@ -81,7 +81,7 @@ date: Last Modified
 * Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy
 
 ## March 24th, 2020 Livestream
-* Q&A: What HUB Tier will have electric floors? https://www.youtube.com/watch?v=cH3ityZn8E4
+* [Q&A: What HUB Tier will have electric floors?](../../transcriptions/yt-cH3ityZn8E4.md) https://www.youtube.com/watch?v=cH3ityZn8E4
 
 ## February 17th, 2020 Livestream
 * [Q&A: Are you going to add Potato Energy?](../../transcriptions/yt-V1h0SVwCHKc.md) https://www.youtube.com/watch?v=V1h0SVwCHKc

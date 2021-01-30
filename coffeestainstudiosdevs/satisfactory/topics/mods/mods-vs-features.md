@@ -69,7 +69,7 @@ date: Last Modified
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis
 
 ## March 24th, 2020 Livestream
-* Q&A: Creative Mode without having to Mod? https://www.youtube.com/watch?v=ww37EE17YP4
+* [Q&A: Creative Mode without having to Mod?](../../transcriptions/yt-ww37EE17YP4.md) https://www.youtube.com/watch?v=ww37EE17YP4
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Are we going to be implmenting any of the ideas from Mods?](../../transcriptions/yt-SUSCYnziYkI.md) https://www.youtube.com/watch?v=SUSCYnziYkI

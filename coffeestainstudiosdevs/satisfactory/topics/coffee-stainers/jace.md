@@ -29,7 +29,7 @@ date: Last Modified
 
 ## March 24th, 2020 Livestream
 * Q&A: When are the Wind Turbines that Jace leaked coming? https://www.youtube.com/watch?v=nRMTYlLqiSc
-* Snutt & Jace Talk: Jace is now a Swedish citizen https://www.youtube.com/watch?v=JE2ZLGxPShE
+* [Snutt & Jace Talk: Jace is now a Swedish citizen](../../transcriptions/yt-JE2ZLGxPShE.md) https://www.youtube.com/watch?v=JE2ZLGxPShE
 
 ## February 17th, 2020 Livestream
 * [Q&A: Is Jace not Swedish?](../../transcriptions/yt-QHqLDc6L46g.md) https://www.youtube.com/watch?v=QHqLDc6L46g

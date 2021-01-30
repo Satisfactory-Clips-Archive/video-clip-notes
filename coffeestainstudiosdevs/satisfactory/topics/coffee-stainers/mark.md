@@ -11,4 +11,4 @@ date: Last Modified
 * [Snutt Talk: Game Director Mark](../../transcriptions/yt-G9n9eSO0l7A.md) https://www.youtube.com/watch?v=G9n9eSO0l7A
 
 ## March 24th, 2020 Livestream
-* Q&A: You have several job openings right now? https://www.youtube.com/watch?v=lqRP7DsUVes
+* [Q&A: You have several job openings right now?](../../transcriptions/yt-lqRP7DsUVes.md) https://www.youtube.com/watch?v=lqRP7DsUVes

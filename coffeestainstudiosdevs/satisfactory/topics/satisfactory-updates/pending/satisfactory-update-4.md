@@ -220,8 +220,8 @@ date: Last Modified
 * Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy
 
 ## March 24th, 2020 Livestream
-* Q&A: Will there be a roadmap again for Updates? https://www.youtube.com/watch?v=EiqFP9bm7v4
-* Snutt & Jace Talk: Future Updates https://www.youtube.com/watch?v=yMTaDzjlfH0
+* [Q&A: Will there be a roadmap again for Updates?](../../../transcriptions/yt-EiqFP9bm7v4.md) https://www.youtube.com/watch?v=EiqFP9bm7v4
+* [Snutt & Jace Talk: Future Updates](../../../transcriptions/yt-yMTaDzjlfH0.md) https://www.youtube.com/watch?v=yMTaDzjlfH0
 
 ## February 17th, 2020 Livestream
 * [Q&A: Battle Royale?](../../../transcriptions/yt-fO_ZW22gL-g.md) https://www.youtube.com/watch?v=fO_ZW22gL-g

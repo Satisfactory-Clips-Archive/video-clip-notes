@@ -106,10 +106,10 @@ date: Last Modified
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
 
 ## March 24th, 2020 Livestream
-* Q&A: Will the Steam release make reliability better? https://www.youtube.com/watch?v=fKXR3PibLLA
-* Snutt & Jace Talk: Multiplayer issues https://www.youtube.com/watch?v=3vVD6SKT5OQ
-* Q&A: How will we crossplay? https://www.youtube.com/watch?v=-kVvrassZVw
-* Q&A: How high is Multiplayer bugfixing on the priority list? https://www.youtube.com/watch?v=mvSWBd42JYM
+* [Q&A: Will the Steam release make reliability better?](../../transcriptions/yt-fKXR3PibLLA.md) https://www.youtube.com/watch?v=fKXR3PibLLA
+* [Snutt & Jace Talk: Multiplayer issues](../../transcriptions/yt-3vVD6SKT5OQ.md) https://www.youtube.com/watch?v=3vVD6SKT5OQ
+* [Q&A: How will we crossplay?](../../transcriptions/yt--kVvrassZVw.md) https://www.youtube.com/watch?v=-kVvrassZVw
+* [Q&A: How high is Multiplayer bugfixing on the priority list?](../../transcriptions/yt-mvSWBd42JYM.md) https://www.youtube.com/watch?v=mvSWBd42JYM
 
 ## February 17th, 2020 Livestream
 * [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) https://www.youtube.com/watch?v=jFeV8JA7NXg

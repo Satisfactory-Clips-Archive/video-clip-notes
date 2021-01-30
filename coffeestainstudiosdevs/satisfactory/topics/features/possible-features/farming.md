@@ -23,7 +23,7 @@ date: Last Modified
 * [Q&A: Farm?](../../../transcriptions/yt-2i5toplIVJo.md) https://www.youtube.com/watch?v=2i5toplIVJo
 
 ## March 24th, 2020 Livestream
-* Q&A: Berry Farming? https://www.youtube.com/watch?v=2Cq3xmLN8sQ
+* [Q&A: Berry Farming?](../../../transcriptions/yt-2Cq3xmLN8sQ.md) https://www.youtube.com/watch?v=2Cq3xmLN8sQ
 
 ## February 17th, 2020 Livestream
 * [Q&A: Are you going to add Potato Energy?](../../../transcriptions/yt-V1h0SVwCHKc.md) https://www.youtube.com/watch?v=V1h0SVwCHKc

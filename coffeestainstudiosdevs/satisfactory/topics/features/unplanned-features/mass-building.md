@@ -88,4 +88,4 @@ date: Last Modified
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis
 
 ## March 24th, 2020 Livestream
-* Q&A: Multiple Foundation creation? https://www.youtube.com/watch?v=zfdV2qIDHP4
+* [Q&A: Multiple Foundation creation?](../../../transcriptions/yt-zfdV2qIDHP4.md) https://www.youtube.com/watch?v=zfdV2qIDHP4

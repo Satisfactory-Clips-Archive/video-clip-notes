@@ -37,9 +37,9 @@ date: Last Modified
 * Q&A: Do you have a QA department? https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull
 
 ## March 24th, 2020 Livestream
-* State of Dev: Working from home https://www.youtube.com/watch?v=4umNqbDy7Yc
-* Q&A: You have several job openings right now? https://www.youtube.com/watch?v=lqRP7DsUVes
-* Snutt & Jace Talk: We don't plan very well at all https://www.youtube.com/watch?v=uNWZuo9AxdM
+* [State of Dev: Working from home](../transcriptions/yt-4umNqbDy7Yc.md) https://www.youtube.com/watch?v=4umNqbDy7Yc
+* [Q&A: You have several job openings right now?](../transcriptions/yt-lqRP7DsUVes.md) https://www.youtube.com/watch?v=lqRP7DsUVes
+* [Snutt & Jace Talk: We don't plan very well at all](../transcriptions/yt-uNWZuo9AxdM.md) https://www.youtube.com/watch?v=uNWZuo9AxdM
 
 ## February 17th, 2020 Livestream
 * [Snutt Talk: Get back to school, Coffee Stain needs devs](../transcriptions/yt-Ee0IFHzpEh4.md) https://www.youtube.com/watch?v=Ee0IFHzpEh4

@@ -20,4 +20,4 @@ date: Last Modified
 * Q&A: Green Energy? https://clips.twitch.tv/BloodyIcyDragonflyStoneLightning
 
 ## March 24th, 2020 Livestream
-* Q&A: Green Energy & Nuclear Waste? https://www.youtube.com/watch?v=T2MEOzplmSQ
+* [Q&A: Green Energy & Nuclear Waste?](../../../transcriptions/yt-T2MEOzplmSQ.md) https://www.youtube.com/watch?v=T2MEOzplmSQ

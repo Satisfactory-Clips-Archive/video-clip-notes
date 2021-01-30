@@ -11,8 +11,8 @@ date: Last Modified
 * [Q&A: Is ADA a synth voice ?](../../../transcriptions/yt-isjOJ0Aczl4.md) https://www.youtube.com/watch?v=isjOJ0Aczl4
 
 ## March 24th, 2020 Livestream
-* Q&A: Who speaks ADA? https://www.youtube.com/watch?v=aYUTkfL-jKk
-* Q&A: Can we turn of ADA notifications? https://www.youtube.com/watch?v=w2S15UcuaUs
+* [Q&A: Who speaks ADA?](../../../transcriptions/yt-aYUTkfL-jKk.md) https://www.youtube.com/watch?v=aYUTkfL-jKk
+* [Q&A: Can we turn of ADA notifications?](../../../transcriptions/yt-w2S15UcuaUs.md) https://www.youtube.com/watch?v=w2S15UcuaUs
 
 ## December 19th, 2019 Livestream
 * [Q&A: Who is the voice of A.D.A. ?](../../../transcriptions/yt-aOzSvX8iaYg.md) https://www.youtube.com/watch?v=aOzSvX8iaYg

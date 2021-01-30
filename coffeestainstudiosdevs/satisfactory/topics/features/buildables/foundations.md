@@ -51,10 +51,10 @@ date: Last Modified
 * Q&A: Floating Factories vs. Structural Supports https://clips.twitch.tv/GiftedSincereDillDoubleRainbow
 
 ## March 24th, 2020 Livestream
-* Jace Talk: Use the QA Site https://www.youtube.com/watch?v=Bm_Yh-0jjtI
-* Q&A: What HUB Tier will have electric floors? https://www.youtube.com/watch?v=cH3ityZn8E4
+* [Jace Talk: Use the QA Site](../../../transcriptions/yt-Bm_Yh-0jjtI.md) https://www.youtube.com/watch?v=Bm_Yh-0jjtI
+* [Q&A: What HUB Tier will have electric floors?](../../../transcriptions/yt-cH3ityZn8E4.md) https://www.youtube.com/watch?v=cH3ityZn8E4
 * Q&A: When are the Wind Turbines that Jace leaked coming? https://www.youtube.com/watch?v=nRMTYlLqiSc
-* Q&A: Multiple Foundation creation? https://www.youtube.com/watch?v=zfdV2qIDHP4
+* [Q&A: Multiple Foundation creation?](../../../transcriptions/yt-zfdV2qIDHP4.md) https://www.youtube.com/watch?v=zfdV2qIDHP4
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: AWESOME Shop Teaser](../../../transcriptions/yt-0fiuHwwSrrI.md) https://www.youtube.com/watch?v=0fiuHwwSrrI

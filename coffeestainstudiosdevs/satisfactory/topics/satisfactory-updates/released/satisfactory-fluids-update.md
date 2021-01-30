@@ -138,5 +138,5 @@ date: Last Modified
 * Q&A: Some new Machines in the next update? https://clips.twitch.tv/CourteousSmellyNewtTTours
 
 ## March 24th, 2020 Livestream
-* Q&A: Will there be a roadmap again for Updates? https://www.youtube.com/watch?v=EiqFP9bm7v4
-* Snutt & Jace Talk: Future Updates https://www.youtube.com/watch?v=yMTaDzjlfH0
+* [Q&A: Will there be a roadmap again for Updates?](../../../transcriptions/yt-EiqFP9bm7v4.md) https://www.youtube.com/watch?v=EiqFP9bm7v4
+* [Snutt & Jace Talk: Future Updates](../../../transcriptions/yt-yMTaDzjlfH0.md) https://www.youtube.com/watch?v=yMTaDzjlfH0

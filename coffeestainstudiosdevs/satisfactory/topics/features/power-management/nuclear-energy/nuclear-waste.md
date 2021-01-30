@@ -36,4 +36,4 @@ date: Last Modified
 * Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them? (Part 2) https://clips.twitch.tv/SnappyExpensiveDootMVGame
 
 ## March 24th, 2020 Livestream
-* Q&A: Green Energy & Nuclear Waste? https://www.youtube.com/watch?v=T2MEOzplmSQ
+* [Q&A: Green Energy & Nuclear Waste?](../../../../transcriptions/yt-T2MEOzplmSQ.md) https://www.youtube.com/watch?v=T2MEOzplmSQ

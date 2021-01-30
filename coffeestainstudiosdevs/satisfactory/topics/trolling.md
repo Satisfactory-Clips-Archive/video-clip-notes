@@ -61,8 +61,8 @@ date: Last Modified
 
 ## March 24th, 2020 Livestream
 * Q&A: Could sell Dev Bath Water? https://www.youtube.com/watch?v=-Lqo5URgAfM
-* Snutt & Jace Talk: Future Updates https://www.youtube.com/watch?v=yMTaDzjlfH0
-* Q&A: Did we miss any announcements? https://www.youtube.com/watch?v=Ws7_PXlK14g
+* [Snutt & Jace Talk: Future Updates](../transcriptions/yt-yMTaDzjlfH0.md) https://www.youtube.com/watch?v=yMTaDzjlfH0
+* [Q&A: Did we miss any announcements?](../transcriptions/yt-Ws7_PXlK14g.md) https://www.youtube.com/watch?v=Ws7_PXlK14g
 
 ## February 17th, 2020 Livestream
 * [Q&A: Satisfactory on mobile?](../transcriptions/yt-Vb5nLTtDSpA.md) https://www.youtube.com/watch?v=Vb5nLTtDSpA
