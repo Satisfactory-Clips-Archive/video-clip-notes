@@ -4,6 +4,7 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "features/crafting/fuel"
+    - "features/possible-features/farming"
     - "features/power-management"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
@@ -12,6 +13,7 @@ topics:
 https://www.youtube.com/watch?v=s52yTvp9nbM
 
 ### Topics
+* [Features > Possible Features > Farming](../topics/features/possible-features/farming.md)
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

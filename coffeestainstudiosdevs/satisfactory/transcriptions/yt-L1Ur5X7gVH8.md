@@ -3,14 +3,14 @@ title: "October 20th, 2020 Livestream Q&A: Any word on farming Pale Berries / Nu
 date: "2020-10-20"
 layout: transcript
 topics:
-    - "mods/mods-vs-features"
+    - "features/possible-features/farming"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Any word on farming Pale Berries / Nuts / Bacon?
 https://www.youtube.com/watch?v=L1Ur5X7gVH8
 
 ### Topics
-* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Features > Possible Features > Farming](../topics/features/possible-features/farming.md)
 
 ### Transcript
 

@@ -3,14 +3,16 @@ title: "September 29th, 2020 Livestream Q&A: Would it be great to farm resources
 date: "2020-09-29"
 layout: transcript
 topics:
-    - ""
+    - "features/possible-features/farming"
+    - "features/unplanned-features/space-exploration"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Would it be great to farm resources and trade with other planets?
 https://www.youtube.com/watch?v=qljHFWpwy10
 
 ### Topics
-
+* [Features > Unplanned Features > Space Exploration](../topics/features/unplanned-features/space-exploration.md)
+* [Features > Possible Features > Farming](../topics/features/possible-features/farming.md)
 
 ### Transcript
 

@@ -4,15 +4,15 @@ date: "2020-09-01"
 layout: transcript
 topics:
     - "environment/creatures/lizard-doggo"
-    - "mods"
+    - "mods/ficsit-farming"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Please take a look at the Doggo farm
 https://www.youtube.com/watch?v=r-Azcy0xC4c
 
 ### Topics
+* [Mods > Ficsit Farming](../topics/mods/ficsit-farming.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
-* [Mods](../topics/mods.md)
 
 ### Transcript
 

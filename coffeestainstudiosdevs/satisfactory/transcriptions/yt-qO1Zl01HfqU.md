@@ -4,15 +4,15 @@ date: "2021-01-26"
 layout: transcript
 topics:
     - "environment/plants"
-    - "mods/mods-vs-features"
+    - "features/possible-features/farming"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Farming would be cool?
 https://www.youtube.com/watch?v=qO1Zl01HfqU
 
 ### Topics
+* [Features > Possible Features > Farming](../topics/features/possible-features/farming.md)
 * [Environment > Plants](../topics/environment/plants.md)
-* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 
 ### Transcript
 

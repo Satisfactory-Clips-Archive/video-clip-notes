@@ -4,16 +4,16 @@ date: "2020-02-17"
 layout: transcript
 topics:
     - "environment/plants"
+    - "features/possible-features/farming"
     - "features/power-management"
-    - "mods/mods-vs-features"
 ---
 # [February 17th, 2020 Livestream](../2020-02-17.md)
 ## Q&A: Are you going to add Potato Energy?
 https://www.youtube.com/watch?v=V1h0SVwCHKc
 
 ### Topics
+* [Features > Possible Features > Farming](../topics/features/possible-features/farming.md)
 * [Environment > Plants](../topics/environment/plants.md)
-* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Features > Power Management](../topics/features/power-management.md)
 
 ### Transcript
