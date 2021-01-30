@@ -66,6 +66,10 @@ date: Last Modified
 ## July 21st, 2020 Livestream
 * Q&A: What do you think about a game mode with weather effects doing damage or slowing machines? https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime
 
+## March 24th, 2020 Livestream
+* Q&A: Creative Mode without having to Mod? https://www.youtube.com/watch?v=ww37EE17YP4
+* Q&A: Wouldn't you split normal & Creative Mode then not allow switching? https://www.youtube.com/watch?v=7xTscBSrsY0
+
 ## February 17th, 2020 Livestream
 * [Q&A: Battle Royale?](../../../transcriptions/yt-fO_ZW22gL-g.md) https://www.youtube.com/watch?v=fO_ZW22gL-g
 * [Q&A: I just joined, thought this was Update 3?](../../../transcriptions/yt-02Zb5q8Zm5s.md) https://www.youtube.com/watch?v=02Zb5q8Zm5s

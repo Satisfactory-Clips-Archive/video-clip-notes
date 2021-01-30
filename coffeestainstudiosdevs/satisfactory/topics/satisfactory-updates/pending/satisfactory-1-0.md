@@ -71,6 +71,9 @@ date: Last Modified
 * Q&A: Will 1.0 require a reset of the game? https://clips.twitch.tv/SpoopyPlacidPepperoniSoonerLater
 * Q&A: When are Somersloops and Orbs have meaning? https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride
 
+## March 24th, 2020 Livestream
+* Q&A: Will there be a roadmap again for Updates? https://www.youtube.com/watch?v=EiqFP9bm7v4
+
 ## January 22nd, 2020 Livestream
 * [Q&A: Are we getting Story?](../../../transcriptions/yt-0U_N0TCXqxU.md) https://www.youtube.com/watch?v=0U_N0TCXqxU
 * [Q&A: Will there be DLC after 1.0?](../../../transcriptions/yt-FHqvzjGbhvg.md) https://www.youtube.com/watch?v=FHqvzjGbhvg

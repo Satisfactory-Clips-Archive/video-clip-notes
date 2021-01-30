@@ -34,6 +34,9 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Q&A: Satisfactory Console Release https://clips.twitch.tv/FragileNimbleEggnogDatSheffy
 
+## March 24th, 2020 Livestream
+* Q&A: Satisfactory on the next Console generation? https://www.youtube.com/watch?v=9bez-QIVKLA
+
 ## February 17th, 2020 Livestream
 * [Q&A: Is Satisfactory going to be on PS5/PS6?](../../../transcriptions/yt-1v4Mho5Uh9I.md) https://www.youtube.com/watch?v=1v4Mho5Uh9I
 

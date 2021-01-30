@@ -16,6 +16,9 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
 
+## March 24th, 2020 Livestream
+* State of Dev: Update 3, Steam Release https://www.youtube.com/watch?v=Y__cl6AcRzs
+
 ## February 17th, 2020 Livestream
 * [Q&A: Biggest history of Satisfactory Updates?](../../../transcriptions/yt-LOjffz_Nj4A.md) https://www.youtube.com/watch?v=LOjffz_Nj4A
 * [Q&A: How big is the Update going to be?](../../../transcriptions/yt-yQe_yYHAwsQ.md) https://www.youtube.com/watch?v=yQe_yYHAwsQ

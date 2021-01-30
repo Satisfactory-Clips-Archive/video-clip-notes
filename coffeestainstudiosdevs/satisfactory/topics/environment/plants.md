@@ -34,6 +34,10 @@ date: Last Modified
 * Q&A: Removing vegetation speeds up the game, yes or no ? https://clips.twitch.tv/BusyHandsomeSmoothiePartyTime
 * Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt
 
+## March 24th, 2020 Livestream
+* Q&A: Berry Farming? https://www.youtube.com/watch?v=2Cq3xmLN8sQ
+* Q&A: When are the Wind Turbines that Jace leaked coming? https://www.youtube.com/watch?v=nRMTYlLqiSc
+
 ## February 17th, 2020 Livestream
 * [Snutt Talk: There's so many things I want to fix & do](../../transcriptions/yt-jNQ4IPihWUY.md) https://www.youtube.com/watch?v=jNQ4IPihWUY
 * [Q&A: Are you going to add Potato Energy?](../../transcriptions/yt-V1h0SVwCHKc.md) https://www.youtube.com/watch?v=V1h0SVwCHKc

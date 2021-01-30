@@ -59,6 +59,11 @@ date: Last Modified
 * [Trolling: Adding Cigarettes to the game](../transcriptions/yt-OvP_WQvSEuc.md) https://www.youtube.com/watch?v=OvP_WQvSEuc
 * [Trolling: Roleplay](../transcriptions/yt-woqoPQxH1aQ.md) https://www.youtube.com/watch?v=woqoPQxH1aQ
 
+## March 24th, 2020 Livestream
+* Q&A: Could sell Dev Bath Water? https://www.youtube.com/watch?v=-Lqo5URgAfM
+* Snutt & Jace Talk: Future Updates https://www.youtube.com/watch?v=yMTaDzjlfH0
+* Q&A: Did we miss any announcements? https://www.youtube.com/watch?v=Ws7_PXlK14g
+
 ## February 17th, 2020 Livestream
 * [Q&A: Satisfactory on mobile?](../transcriptions/yt-Vb5nLTtDSpA.md) https://www.youtube.com/watch?v=Vb5nLTtDSpA
 * [Q&A: Battle Royale?](../transcriptions/yt-fO_ZW22gL-g.md) https://www.youtube.com/watch?v=fO_ZW22gL-g

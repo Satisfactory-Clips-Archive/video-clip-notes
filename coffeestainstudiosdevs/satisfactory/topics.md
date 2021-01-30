@@ -11,6 +11,7 @@ date: Last Modified
 * [Jace](./topics/coffee-stainers/jace.md)
 * [Kristoffer](./topics/coffee-stainers/kristoffer.md)
 * [Linus](./topics/coffee-stainers/linus.md)
+* [Marie](./topics/coffee-stainers/marie.md)
 * [Mark](./topics/coffee-stainers/mark.md)
 * [Markus](./topics/coffee-stainers/markus.md)
 * [Nathalie](./topics/coffee-stainers/nathalie.md)
@@ -104,6 +105,7 @@ date: Last Modified
 * [Console Release](./topics/features/possible-features/console-release.md)
 * [Decor](./topics/features/possible-features/decor.md)
 * [DLC](./topics/features/possible-features/dlc.md)
+* [Farming](./topics/features/possible-features/farming.md)
 * [Game Modes](./topics/features/possible-features/game-modes.md)
 * [Third-Party Service Integration](./topics/features/possible-features/third-party-service-integration.md)
 * [Weather Systems](./topics/features/possible-features/weather-systems.md)
@@ -158,6 +160,7 @@ date: Last Modified
 * [FICSIT Cup Prototypes](./topics/merch/merch-prototypes/ficsit-cup-prototypes.md)
 
 # [Mods](./topics/mods.md)
+* [Ficsit Farming](./topics/mods/ficsit-farming.md)
 * [Mods vs. Features](./topics/mods/mods-vs-features.md)
 * [Official Mod Support](./topics/mods/official-mod-support.md)
 
@@ -194,7 +197,11 @@ date: Last Modified
 * [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)
-* [Story & Lore](./topics/story-lore.md)
+
+# [Story & Lore](./topics/story-lore.md)
+
+## Characters
+* [ADA](./topics/story-lore/characters/ada.md)
 
 # [Technology](./topics/technology.md)
 * [Graphics](./topics/technology/graphics.md)

@@ -54,6 +54,9 @@ date: Last Modified
 ### [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Removing vegetation speeds up the game, yes or no ? https://clips.twitch.tv/BusyHandsomeSmoothiePartyTime
 
+### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: Berry Farming? https://www.youtube.com/watch?v=2Cq3xmLN8sQ
+
 ## [Pollution](./topics/environment/pollution.md)
 
 ### [January 26th, 2021 Livestream](./2021-01-26.md)
@@ -424,6 +427,9 @@ date: Last Modified
 ### [August 11th, 2020 Livestream](./2020-08-11.md)
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
 
+### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: How will we crossplay? https://www.youtube.com/watch?v=-kVvrassZVw
+
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: Do you want to support more than 4 people?](./transcriptions/yt-wb5HY05QX9I.md) https://www.youtube.com/watch?v=wb5HY05QX9I
 
@@ -477,6 +483,9 @@ date: Last Modified
 #### [October 20th, 2020 Livestream](./2020-10-20.md)
 * [Q&A: Will there be Priority Mergers for this Update?](./transcriptions/yt-sMidcvjGGOM.md) https://www.youtube.com/watch?v=sMidcvjGGOM
 
+#### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Jace Talk: Use the QA Site https://www.youtube.com/watch?v=Bm_Yh-0jjtI
+
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
 * Q&A: What do you think about Splitters that can split a certain percentage of the Belts? https://www.youtube.com/watch?v=GiOZBqdfrAQ
 
@@ -501,6 +510,10 @@ date: Last Modified
 #### [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: What about holes for Foundations? (Part 1) https://clips.twitch.tv/CrepuscularEnergeticPartridgePanicVis
 * Q&A: What about holes for Foundations? (Part 2) https://clips.twitch.tv/SparklingGiftedDumplingsSquadGoals
+
+#### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: Multiple Foundation creation? https://www.youtube.com/watch?v=zfdV2qIDHP4
+* Jace Talk: Use the QA Site https://www.youtube.com/watch?v=Bm_Yh-0jjtI
 
 ### [Storage Containers](./topics/features/buildables/storage-containers.md)
 
@@ -766,6 +779,9 @@ date: Last Modified
 #### [October 20th, 2020 Livestream](./2020-10-20.md)
 * [Q&A: Are there plans for Character Customisation?](./transcriptions/yt-LAR8rVCHVmw.md) https://www.youtube.com/watch?v=LAR8rVCHVmw
 
+#### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: Can I change my character from female to male? https://www.youtube.com/watch?v=NFKSJi204cc
+
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: What gender is the character model?](./transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs
 
@@ -797,6 +813,9 @@ date: Last Modified
 #### [July 28th, 2020 Livestream](./2020-07-28.md)
 * Q&A: Satisfactory Console Release https://clips.twitch.tv/FragileNimbleEggnogDatSheffy
 
+#### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: Satisfactory on the next Console generation? https://www.youtube.com/watch?v=9bez-QIVKLA
+
 #### [February 17th, 2020](./2020-02-17.md)
 * [Q&A: Is Satisfactory going to be on PS5/PS6?](./transcriptions/yt-1v4Mho5Uh9I.md) https://www.youtube.com/watch?v=1v4Mho5Uh9I
 
@@ -825,6 +844,17 @@ date: Last Modified
 
 #### [September 15th, 2020 Livestream](./2020-09-15.md)
 * [Q&A: FICSIT Toilet soon?](./transcriptions/yt-clJjkvA5whw.md) https://www.youtube.com/watch?v=clJjkvA5whw
+
+### [Farming](./topics/features/possible-features/farming.md)
+
+#### [January 26th, 2021 Livestream](./2021-01-26.md)
+* [Q&A: Farming would be cool?](./transcriptions/yt-qO1Zl01HfqU.md) https://www.youtube.com/watch?v=qO1Zl01HfqU
+
+#### [September 22nd, 2020 Livestream](./2020-09-22.md)
+* [Q&A: Farm?](./transcriptions/yt-2i5toplIVJo.md) https://www.youtube.com/watch?v=2i5toplIVJo
+
+#### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: Berry Farming? https://www.youtube.com/watch?v=2Cq3xmLN8sQ
 
 ### [Game Modes](./topics/features/possible-features/game-modes.md)
 
@@ -858,6 +888,10 @@ date: Last Modified
 #### [August 18th, 2020 Livestream](./2020-08-18.md)
 * Q&A: When is Creative Mode coming? https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu
 * Q&A: Will there be a no combat/fight version? https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid
+
+#### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: Wouldn't you split normal & Creative Mode then not allow switching? https://www.youtube.com/watch?v=7xTscBSrsY0
+* Q&A: Creative Mode without having to Mod? https://www.youtube.com/watch?v=ww37EE17YP4
 
 #### [December 19th, 2019 Livestream](./2019-12-19.md)
 * [Q&A: Will there be more competitive stuff?](./transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
@@ -1225,6 +1259,9 @@ date: Last Modified
 #### [July 8th, 2020 Livestream](./2020-07-08.md)
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis
 
+#### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: Multiple Foundation creation? https://www.youtube.com/watch?v=zfdV2qIDHP4
+
 ### [Procedural Generation](./topics/features/unplanned-features/procedural-generation.md)
 
 #### [November 24th, 2020 Livestream](./2020-11-24.md)
@@ -1418,9 +1455,6 @@ date: Last Modified
 
 ## [Mods vs. Features](./topics/mods/mods-vs-features.md)
 
-### [January 26th, 2021 Livestream](./2021-01-26.md)
-* [Q&A: Farming would be cool?](./transcriptions/yt-qO1Zl01HfqU.md) https://www.youtube.com/watch?v=qO1Zl01HfqU
-
 ### [January 19th, 2021 Livestream](./2021-01-19.md)
 * [Q&A: If the community made a Snow Biome, would you add that?](./transcriptions/yt-I8rWTBGdGio.md) https://www.youtube.com/watch?v=I8rWTBGdGio
 
@@ -1434,14 +1468,14 @@ date: Last Modified
 ### [October 6th, 2020 Livestream](./2020-10-06.md)
 * [Q&A: Will you incorporate any mods into the base game?](./transcriptions/yt-G1NZf7SbA00.md) https://www.youtube.com/watch?v=G1NZf7SbA00
 
-### [September 22nd, 2020 Livestream](./2020-09-22.md)
-* [Q&A: Farm?](./transcriptions/yt-2i5toplIVJo.md) https://www.youtube.com/watch?v=2i5toplIVJo
-
 ### [September 15th, 2020 Livestream](./2020-09-15.md)
 * [Q&A: Will there be a Map Editor?](./transcriptions/yt-MYno60AbSGk.md) https://www.youtube.com/watch?v=MYno60AbSGk
 
 ### [July 8th, 2020 Livestream](./2020-07-08.md)
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis
+
+### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: Creative Mode without having to Mod? https://www.youtube.com/watch?v=ww37EE17YP4
 
 ### [January 22nd, 2020 Livestream](./2020-01-22.md)
 * [Q&A: Are we going to be implmenting any of the ideas from Mods?](./transcriptions/yt-SUSCYnziYkI.md) https://www.youtube.com/watch?v=SUSCYnziYkI
@@ -1635,6 +1669,9 @@ date: Last Modified
 #### [July 28th, 2020 Livestream](./2020-07-28.md)
 * Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy
 
+#### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: Will there be a roadmap again for Updates? https://www.youtube.com/watch?v=EiqFP9bm7v4
+
 ### [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 #### [January 26th, 2021 Livestream](./2021-01-26.md)
@@ -1662,6 +1699,9 @@ date: Last Modified
 
 #### [August 18th, 2020 Livestream](./2020-08-18.md)
 * Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit
+
+#### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: Will there be a roadmap again for Updates? https://www.youtube.com/watch?v=EiqFP9bm7v4
 
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
 * [Q&A: Are we getting Story?](./transcriptions/yt-0U_N0TCXqxU.md) https://www.youtube.com/watch?v=0U_N0TCXqxU
@@ -1720,6 +1760,9 @@ date: Last Modified
 * [Q&A: Can you add Floor Holes for Pipes?](./transcriptions/yt-VLvqacnnn5c.md) https://www.youtube.com/watch?v=VLvqacnnn5c
 * [Q&A: Give details about the Fluids?](./transcriptions/yt-CFKUv9FCVms.md) https://www.youtube.com/watch?v=CFKUv9FCVms
 
+#### [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: Will there be a roadmap again for Updates? https://www.youtube.com/watch?v=EiqFP9bm7v4
+
 ## [Seasonal Events](./topics/satisfactory-updates/seasonal-events.md)
 
 ### [FICS⁕MAS](./topics/satisfactory-updates/seasonal-events/fics-mas.md)
@@ -1749,6 +1792,9 @@ date: Last Modified
 * [Q&A: Any news on big Crab monster?](./transcriptions/yt-tTXExwaqZQM.md) https://www.youtube.com/watch?v=tTXExwaqZQM
 
 # [Soundtrack](./topics/soundtrack.md)
+
+## [March 24th, 2020 Livestream](./2020-03-24.md)
+* Q&A: Will we be able to download & buy the amazing soundtrack? https://www.youtube.com/watch?v=yLgW2QiPT70
 
 ## [January 22nd, 2020 Livestream](./2020-01-22.md)
 * [Q&A: Are there plans to put the OST on Spotify?](./transcriptions/yt-z4cypywhIks.md) https://www.youtube.com/watch?v=z4cypywhIks
@@ -1808,6 +1854,13 @@ date: Last Modified
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](./transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
 * [Q&A: What gender is the character model?](./transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs
 * [Q&A: What's the final objective of the game?](./transcriptions/yt-xG0mfuXiFY8.md) https://www.youtube.com/watch?v=xG0mfuXiFY8
+
+## Characters
+
+### [ADA](./topics/story-lore/characters/ada.md)
+
+#### [October 27th, 2020 Livestream](./2020-10-27.md)
+* [Q&A: Is ADA computer generated or a voice actress?](./transcriptions/yt-lSeLNlkKo1w.md) https://www.youtube.com/watch?v=lSeLNlkKo1w
 
 # [Technology](./topics/technology.md)
 

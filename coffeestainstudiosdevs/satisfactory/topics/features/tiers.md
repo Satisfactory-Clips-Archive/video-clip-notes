@@ -50,5 +50,8 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Jace Talk: Content & Tiers https://clips.twitch.tv/SwissFurryPlumPlanking
 
+## March 24th, 2020 Livestream
+* Q&A: What HUB Tier will have electric floors? https://www.youtube.com/watch?v=cH3ityZn8E4
+
 ## March 9th, 2019 Livestream
 * [Q&A: I think the milestones are too cheap](../../transcriptions/yt-clmX0WGZBfg.md) https://www.youtube.com/watch?v=clmX0WGZBfg

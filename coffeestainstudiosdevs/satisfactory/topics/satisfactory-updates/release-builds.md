@@ -40,6 +40,9 @@ date: Last Modified
 * Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 4) https://clips.twitch.tv/FrigidFragileCucumberOneHand
 * Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp
 
+## March 24th, 2020 Livestream
+* State of Dev: Update 3, Steam Release https://www.youtube.com/watch?v=Y__cl6AcRzs
+
 ## February 17th, 2020 Livestream
 * [Q&A: How big is the Update going to be?](../../transcriptions/yt-yQe_yYHAwsQ.md) https://www.youtube.com/watch?v=yQe_yYHAwsQ
 * [Q&A: Satisfactory on mobile?](../../transcriptions/yt-Vb5nLTtDSpA.md) https://www.youtube.com/watch?v=Vb5nLTtDSpA

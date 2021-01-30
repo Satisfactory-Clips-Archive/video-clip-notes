@@ -34,3 +34,6 @@ date: Last Modified
 * Snutt PSA: Nuclear Waste disposal (Part 5) https://clips.twitch.tv/GoldenTenuousLemurDAESuppy
 * Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them? (Part 1) https://clips.twitch.tv/ConfidentImpossibleShingleTBTacoLeft
 * Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them? (Part 2) https://clips.twitch.tv/SnappyExpensiveDootMVGame
+
+## March 24th, 2020 Livestream
+* Q&A: Green Energy & Nuclear Waste? https://www.youtube.com/watch?v=T2MEOzplmSQ

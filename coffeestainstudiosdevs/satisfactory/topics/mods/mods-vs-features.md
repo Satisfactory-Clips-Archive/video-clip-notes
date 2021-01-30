@@ -4,9 +4,6 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
-## January 26th, 2021 Livestream
-* [Q&A: Farming would be cool?](../../transcriptions/yt-qO1Zl01HfqU.md) https://www.youtube.com/watch?v=qO1Zl01HfqU
-
 ## January 19th, 2021 Livestream
 * [Q&A: If the community made a Snow Biome, would you add that?](../../transcriptions/yt-I8rWTBGdGio.md) https://www.youtube.com/watch?v=I8rWTBGdGio
 * [Q&A: Mass Foundation creation?](../../transcriptions/yt-Z0H06UJbb4E.md) https://www.youtube.com/watch?v=Z0H06UJbb4E
@@ -33,7 +30,6 @@ date: Last Modified
 
 ## October 20th, 2020 Livestream
 * [Q&A: How about that device used to measure stuff on Conveyor Belts?](../../transcriptions/yt-7KXTz-m8424.md) https://www.youtube.com/watch?v=7KXTz-m8424
-* [Q&A: Any word on farming Pale Berries / Nuts / Bacon?](../../transcriptions/yt-L1Ur5X7gVH8.md) https://www.youtube.com/watch?v=L1Ur5X7gVH8
 
 ## October 6th, 2020 Livestream
 * [Q&A: Will you incorporate any mods into the base game?](../../transcriptions/yt-G1NZf7SbA00.md) https://www.youtube.com/watch?v=G1NZf7SbA00
@@ -41,9 +37,6 @@ date: Last Modified
 ## September 29th, 2020 Livestream
 * [Q&A: What about Mk. 6 Belts?](../../transcriptions/yt-NiBLAUCxIEs.md) https://www.youtube.com/watch?v=NiBLAUCxIEs
 * [Q&A: Enclosed Belts](../../transcriptions/yt-oLpv9B5-OjE.md) https://www.youtube.com/watch?v=oLpv9B5-OjE
-
-## September 22nd, 2020 Livestream
-* [Q&A: Farm?](../../transcriptions/yt-2i5toplIVJo.md) https://www.youtube.com/watch?v=2i5toplIVJo
 
 ## September 15th, 2020 Livestream
 * [Q&A: Will there be a Map Editor?](../../transcriptions/yt-MYno60AbSGk.md) https://www.youtube.com/watch?v=MYno60AbSGk
@@ -75,8 +68,8 @@ date: Last Modified
 ## July 8th, 2020 Livestream
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis
 
-## February 17th, 2020 Livestream
-* [Q&A: Are you going to add Potato Energy?](../../transcriptions/yt-V1h0SVwCHKc.md) https://www.youtube.com/watch?v=V1h0SVwCHKc
+## March 24th, 2020 Livestream
+* Q&A: Creative Mode without having to Mod? https://www.youtube.com/watch?v=ww37EE17YP4
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Are we going to be implmenting any of the ideas from Mods?](../../transcriptions/yt-SUSCYnziYkI.md) https://www.youtube.com/watch?v=SUSCYnziYkI
@@ -86,6 +79,5 @@ date: Last Modified
 * [Q&A: Human Elevators?](../../transcriptions/yt-HGwoBSLqtcw.md) https://www.youtube.com/watch?v=HGwoBSLqtcw
 
 ## March 9th, 2019 Livestream
-* [Q&A: Any plans for farming (for biomass production) ?](../../transcriptions/yt-unMHGjOsGAc.md) https://www.youtube.com/watch?v=unMHGjOsGAc
 * [Jace Talk: Mod support](../../transcriptions/yt-37zFxpeGm-E.md) https://www.youtube.com/watch?v=37zFxpeGm-E
 * [Q&A: I wouldn't be surprised if Mod support enable third-party maps?](../../transcriptions/yt-LgGYmQrwAgg.md) https://www.youtube.com/watch?v=LgGYmQrwAgg

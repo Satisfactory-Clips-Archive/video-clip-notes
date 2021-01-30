@@ -45,6 +45,9 @@ date: Last Modified
 ## August 18th, 2020 Livestream
 * Q&A: Do you plan to make other resources beyond S.A.M. Ore? https://clips.twitch.tv/InventiveBillowingEggPMSTwin
 
+## March 24th, 2020 Livestream
+* Q&A: Creatures and Resources in deep ocean? https://www.youtube.com/watch?v=bz7PJ3VF6FE
+
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: Smerkin is hardcore](../../transcriptions/yt-RT5R6J7dj3g.md) https://www.youtube.com/watch?v=RT5R6J7dj3g
 

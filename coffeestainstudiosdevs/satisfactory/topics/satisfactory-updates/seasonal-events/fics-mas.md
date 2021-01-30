@@ -29,3 +29,6 @@ date: Last Modified
 
 ## December 1st, 2020 Livestream
 * [Snutt & Jace Talk: FICS⁕MAS](../../../transcriptions/yt-EXAZ6xoHCx0.md) https://www.youtube.com/watch?v=EXAZ6xoHCx0
+
+## March 24th, 2020 Livestream
+* Q&A: Blizzard Doggos in winter Update? https://www.youtube.com/watch?v=95geu_0m8ls

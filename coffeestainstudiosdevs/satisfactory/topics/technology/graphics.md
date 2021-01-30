@@ -103,6 +103,9 @@ date: Last Modified
 * Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt
 * Snutt Talk: VR Support https://clips.twitch.tv/DullScrumptiousEagleStinkyCheese
 
+## March 24th, 2020 Livestream
+* Q&A: Third-person Camera option? https://www.youtube.com/watch?v=hWRM_bQHXzc
+
 ## February 17th, 2020 Livestream
 * [Snutt Talk: There's so many things I want to fix & do](../../transcriptions/yt-jNQ4IPihWUY.md) https://www.youtube.com/watch?v=jNQ4IPihWUY
 

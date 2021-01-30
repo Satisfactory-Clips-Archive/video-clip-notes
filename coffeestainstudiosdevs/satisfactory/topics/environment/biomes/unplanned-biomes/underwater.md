@@ -19,5 +19,8 @@ date: Last Modified
 ## July 21st, 2020 Livestream
 * Q&A: How about building underwater? https://clips.twitch.tv/NiceDreamyGarbageBuddhaBar
 
+## March 24th, 2020 Livestream
+* Q&A: Creatures and Resources in deep ocean? https://www.youtube.com/watch?v=bz7PJ3VF6FE
+
 ## December 19th, 2019 Livestream
 * [Q&A: Underwater Worlds?](../../../../transcriptions/yt-QXK9y3pnWGg.md) https://www.youtube.com/watch?v=QXK9y3pnWGg

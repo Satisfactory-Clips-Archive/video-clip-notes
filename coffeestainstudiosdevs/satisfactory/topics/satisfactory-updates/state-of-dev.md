@@ -78,6 +78,9 @@ date: Last Modified
 * Q&A: State of things = 🤷? (Part 1) https://clips.twitch.tv/WealthyStormySnakeOptimizePrime
 * Q&A: State of things = 🤷? (Part 2) https://clips.twitch.tv/EndearingBlitheTruffleJebaited
 
+## March 24th, 2020 Livestream
+* State of Dev: Working from home https://www.youtube.com/watch?v=4umNqbDy7Yc
+
 ## January 22nd, 2020 Livestream
 * [State of Dev: Update 3 Play Testing](../../transcriptions/yt-pi4rCVbiq14.md) https://www.youtube.com/watch?v=pi4rCVbiq14
 * [Snutt & Jace Talk: The state of Dedicated Servers](../../transcriptions/yt-t9hoNpC4-Ik.md) https://www.youtube.com/watch?v=t9hoNpC4-Ik

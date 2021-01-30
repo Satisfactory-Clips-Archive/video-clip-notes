@@ -57,6 +57,9 @@ date: Last Modified
 ## August 18th, 2020 Livestream
 * Q&A: Will there ever be conveyor lift splitters & mergers ? https://clips.twitch.tv/MiniatureFlaccidSwanKAPOW
 
+## March 24th, 2020 Livestream
+* Jace Talk: Use the QA Site https://www.youtube.com/watch?v=Bm_Yh-0jjtI
+
 ## January 22nd, 2020 Livestream
 * Q&A: What do you think about Splitters that can split a certain percentage of the Belts? https://www.youtube.com/watch?v=GiOZBqdfrAQ
 

@@ -3,6 +3,7 @@ title: "Mods"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Mods
+* [Ficsit Farming](../topics/mods/ficsit-farming.md)
 * [Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Official Mod Support](../topics/mods/official-mod-support.md)
 
@@ -18,7 +19,6 @@ date: Last Modified
 
 ## December 8th, 2020 Livestream
 * [Q&A: Will Mods break?](../transcriptions/yt-f1iY6Fj__E0.md) https://www.youtube.com/watch?v=f1iY6Fj__E0
-* [Snutt Talk: Cookie Factory Mod](../transcriptions/yt-TJhuTr8wPAA.md) https://www.youtube.com/watch?v=TJhuTr8wPAA
 * [Snutt Talk: We had windows before Mods.](../transcriptions/yt-FLOpWOXppKo.md) https://www.youtube.com/watch?v=FLOpWOXppKo
 
 ## November 24th, 2020 Livestream
@@ -70,7 +70,6 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: Steam Workshop support ?](../transcriptions/yt-FkG749zfA2w.md) https://www.youtube.com/watch?v=FkG749zfA2w
 * [Q&A: What is your opinion on the most downloaded mods?](../transcriptions/yt-iOniZ-OPIps.md) https://www.youtube.com/watch?v=iOniZ-OPIps
-* [Q&A: Please take a look at the Doggo farm](../transcriptions/yt-r-Azcy0xC4c.md) https://www.youtube.com/watch?v=r-Azcy0xC4c
 
 ## August 25th, 2020 Livestream
 * Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc

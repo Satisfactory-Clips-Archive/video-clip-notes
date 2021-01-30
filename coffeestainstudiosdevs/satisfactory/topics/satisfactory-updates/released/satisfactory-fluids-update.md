@@ -136,3 +136,7 @@ date: Last Modified
 * Quality-of-live update? (Part 2): https://clips.twitch.tv/AlertFancyAxeFUNgineer
 * Quality-of-live update? (Part 3): https://clips.twitch.tv/CrunchyGlutenFreeNuggetsMingLee
 * Q&A: Some new Machines in the next update? https://clips.twitch.tv/CourteousSmellyNewtTTours
+
+## March 24th, 2020 Livestream
+* Q&A: Will there be a roadmap again for Updates? https://www.youtube.com/watch?v=EiqFP9bm7v4
+* Snutt & Jace Talk: Future Updates https://www.youtube.com/watch?v=yMTaDzjlfH0

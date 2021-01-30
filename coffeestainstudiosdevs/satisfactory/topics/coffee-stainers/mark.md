@@ -9,3 +9,6 @@ date: Last Modified
 * [Q&A: Is Mark the mastermind behind Turbofuel?](../../transcriptions/yt-vPfI712DEns.md) https://www.youtube.com/watch?v=vPfI712DEns
 * [Q&A: Where is Mark from?](../../transcriptions/yt--nsfNFSevf4.md) https://www.youtube.com/watch?v=-nsfNFSevf4
 * [Snutt Talk: Game Director Mark](../../transcriptions/yt-G9n9eSO0l7A.md) https://www.youtube.com/watch?v=G9n9eSO0l7A
+
+## March 24th, 2020 Livestream
+* Q&A: You have several job openings right now? https://www.youtube.com/watch?v=lqRP7DsUVes

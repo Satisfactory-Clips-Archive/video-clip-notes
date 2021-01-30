@@ -85,6 +85,10 @@ date: Last Modified
 * Q&A: A mark on pipes to show the meters ? https://clips.twitch.tv/AltruisticSuperBobaBudBlast
 * Q&A: What about a Tutorial System? https://clips.twitch.tv/EntertainingTenuousCasettePeteZaroll
 
+## March 24th, 2020 Livestream
+* Q&A: Third-person Camera option? https://www.youtube.com/watch?v=hWRM_bQHXzc
+* Q&A: Can we turn of ADA notifications? https://www.youtube.com/watch?v=w2S15UcuaUs
+
 ## February 17th, 2020 Livestream
 * [Snutt & Markus Talk: Status of Dedicated Servers](../../transcriptions/yt-QdMnTdqRxaE.md) https://www.youtube.com/watch?v=QdMnTdqRxaE
 

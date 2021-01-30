@@ -46,6 +46,10 @@ date: Last Modified
 * Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
 * Q&A: Doggo Toys? https://clips.twitch.tv/FlirtyScarySushiYouWHY
 
+## March 24th, 2020 Livestream
+* Q&A: Did we miss any announcements? https://www.youtube.com/watch?v=Ws7_PXlK14g
+* Q&A: Blizzard Doggos in winter Update? https://www.youtube.com/watch?v=95geu_0m8ls
+
 ## February 17th, 2020 Livestream
 * [Q&A: Lizard Doggo plushies?](../../../transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 

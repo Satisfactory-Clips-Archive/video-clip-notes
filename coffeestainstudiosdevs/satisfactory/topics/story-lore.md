@@ -3,6 +3,7 @@ title: "Story & Lore"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Story & Lore
+* [Characters](../topics/story-lore/characters.md)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?](../transcriptions/yt--N0atMiN9dM.md) https://www.youtube.com/watch?v=-N0atMiN9dM
@@ -85,6 +86,9 @@ date: Last Modified
 
 ## August 11th, 2020 Livestream
 * Q&A: Story / End-game? https://clips.twitch.tv/AmorphousVictoriousTrayPartyTime
+
+## March 24th, 2020 Livestream
+* Q&A: What about Story, will more of it come? https://www.youtube.com/watch?v=V8r96lmiV9k
 
 ## February 17th, 2020 Livestream
 * [Q&A: Anything narrative?](../transcriptions/yt-1mZyPuZXLE4.md) https://www.youtube.com/watch?v=1mZyPuZXLE4

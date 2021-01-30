@@ -27,6 +27,10 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Q&A: New Apartment? https://clips.twitch.tv/CorrectAdorableDinosaurWoofer
 
+## March 24th, 2020 Livestream
+* Q&A: When are the Wind Turbines that Jace leaked coming? https://www.youtube.com/watch?v=nRMTYlLqiSc
+* Snutt & Jace Talk: Jace is now a Swedish citizen https://www.youtube.com/watch?v=JE2ZLGxPShE
+
 ## February 17th, 2020 Livestream
 * [Q&A: Is Jace not Swedish?](../../transcriptions/yt-QHqLDc6L46g.md) https://www.youtube.com/watch?v=QHqLDc6L46g
 * [Snutt & Jace Talk: The Table](../../transcriptions/yt-qjrhU8HuT3E.md) https://www.youtube.com/watch?v=qjrhU8HuT3E

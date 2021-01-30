@@ -60,6 +60,9 @@ date: Last Modified
 ## July 21st, 2020 Livestream
 * Q&A: Puppies, Train Fix https://clips.twitch.tv/ColdBraveShieldSMOrc
 
+## March 24th, 2020 Livestream
+* Q&A: Creatures and Resources in deep ocean? https://www.youtube.com/watch?v=bz7PJ3VF6FE
+
 ## December 19th, 2019 Livestream
 * [Q&A: Will there be goats?](../../transcriptions/yt-3YZMayi1Qec.md) https://www.youtube.com/watch?v=3YZMayi1Qec
 * [Q&A: Does it mean we get Goats?](../../transcriptions/yt-RlSL5DONzns.md) https://www.youtube.com/watch?v=RlSL5DONzns

@@ -17,6 +17,9 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: Let Hannah finish her work on the map before expanding?](../../transcriptions/yt-wZOVw8KV1rQ.md) https://www.youtube.com/watch?v=wZOVw8KV1rQ
 
+## March 24th, 2020 Livestream
+* Q&A: You have several job openings right now? https://www.youtube.com/watch?v=lqRP7DsUVes
+
 ## December 19th, 2019 Livestream
 * [Q&A: Why does Hannah look like Billie Eilish?](../../transcriptions/yt-vn8SMPtHoJM.md) https://www.youtube.com/watch?v=vn8SMPtHoJM
 * [Q&A: Is Hannah working on a new level?](../../transcriptions/yt-gcdDfoBWaog.md) https://www.youtube.com/watch?v=gcdDfoBWaog

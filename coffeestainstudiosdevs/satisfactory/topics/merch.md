@@ -97,6 +97,10 @@ date: Last Modified
 ## July 21st, 2020 Livestream
 * Q&A: How's the Merch Store coming along? https://clips.twitch.tv/OilySillySproutNotLikeThis
 
+## March 24th, 2020 Livestream
+* Q&A: Merch? https://www.youtube.com/watch?v=PIlduefx6Vk
+* Q&A: Could sell Dev Bath Water? https://www.youtube.com/watch?v=-Lqo5URgAfM
+
 ## February 17th, 2020 Livestream
 * [Q&A: Merch?](../transcriptions/yt-1Mdtq6Ytb1g.md) https://www.youtube.com/watch?v=1Mdtq6Ytb1g
 * [Q&A: Lizard Doggo plushies?](../transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
