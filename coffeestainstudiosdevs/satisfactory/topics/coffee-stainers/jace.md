@@ -24,8 +24,14 @@ date: Last Modified
 ## December 15th, 2020 Livestream
 * [Snutt Talk: Jace is a dedicated boi](../../transcriptions/yt-Lx8cCt-jNJQ.md) https://www.youtube.com/watch?v=Lx8cCt-jNJQ
 
+## November 24th, 2020 Livestream
+* [Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?](../../transcriptions/yt-a1eSZz7wksU.md) https://www.youtube.com/watch?v=a1eSZz7wksU
+
 ## August 11th, 2020 Livestream
 * Q&A: New Apartment? https://clips.twitch.tv/CorrectAdorableDinosaurWoofer
+
+## May 26th, 2020 Livestream
+* Q&A: What about Tier 8? https://www.youtube.com/watch?v=lQC68q7s21c
 
 ## March 24th, 2020 Livestream
 * Q&A: When are the Wind Turbines that Jace leaked coming? https://www.youtube.com/watch?v=nRMTYlLqiSc

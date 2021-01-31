@@ -26,6 +26,9 @@ date: Last Modified
 * [Q&A: What's the best nickname someone has ever given you?](../../transcriptions/yt-_4_umuhMFK8.md) https://www.youtube.com/watch?v=_4_umuhMFK8
 * [Snutt Talk: Guitars](../../transcriptions/yt-U-4gFkYIESU.md) https://www.youtube.com/watch?v=U-4gFkYIESU
 
+## November 24th, 2020 Livestream
+* [Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?](../../transcriptions/yt-a1eSZz7wksU.md) https://www.youtube.com/watch?v=a1eSZz7wksU
+
 ## August 25th, 2020 Livestream
 * Snutt Talk: Snutt discovers the fridge. https://clips.twitch.tv/SeductiveAbstemiousBisonDerp
 

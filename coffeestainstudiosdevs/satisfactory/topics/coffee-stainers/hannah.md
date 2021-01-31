@@ -17,6 +17,9 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: Let Hannah finish her work on the map before expanding?](../../transcriptions/yt-wZOVw8KV1rQ.md) https://www.youtube.com/watch?v=wZOVw8KV1rQ
 
+## May 26th, 2020 Livestream
+* Q&A: What's the name of the Player Character? https://www.youtube.com/watch?v=pNTCYMAibe8
+
 ## March 24th, 2020 Livestream
 * [Q&A: You have several job openings right now?](../../transcriptions/yt-lqRP7DsUVes.md) https://www.youtube.com/watch?v=lqRP7DsUVes
 

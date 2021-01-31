@@ -3,6 +3,7 @@ title: "Official Mod Support"
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Official Mod Support
+* [Steam Workshop](../../topics/mods/official-mod-support/steam-workshop.md)
 
 ## January 26th, 2021 Livestream
 * [Q&A: When will Mods work again?](../../transcriptions/yt-u6HJZ1gJhRk.md) https://www.youtube.com/watch?v=u6HJZ1gJhRk
@@ -16,7 +17,6 @@ date: Last Modified
 
 ## November 17th, 2020 Livestream
 * [Q&A: Is there any Official Mod Support planned?](../../transcriptions/yt-z4Uv-UNMETw.md) https://www.youtube.com/watch?v=z4Uv-UNMETw
-* [Q&A: Would Official Mod Support use Steam Workshop?](../../transcriptions/yt-qzu-mnG_8uA.md) https://www.youtube.com/watch?v=qzu-mnG_8uA
 * Q&A: A custom mod installer seems like a lot of work? https://www.youtube.com/watch?v=mrCHlJuOY4w
 
 ## November 3rd, 2020 Livestream

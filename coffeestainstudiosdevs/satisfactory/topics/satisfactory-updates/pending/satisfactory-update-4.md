@@ -219,6 +219,9 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy
 
+## May 26th, 2020 Livestream
+* Q&A: Do you intended to do planned amount of huge Updates? https://www.youtube.com/watch?v=Nk53HWpUnnk
+
 ## March 24th, 2020 Livestream
 * [Q&A: Will there be a roadmap again for Updates?](../../../transcriptions/yt-EiqFP9bm7v4.md) https://www.youtube.com/watch?v=EiqFP9bm7v4
 * [Snutt & Jace Talk: Future Updates](../../../transcriptions/yt-yMTaDzjlfH0.md) https://www.youtube.com/watch?v=yMTaDzjlfH0

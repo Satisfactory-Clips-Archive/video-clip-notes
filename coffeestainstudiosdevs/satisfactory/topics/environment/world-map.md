@@ -128,6 +128,9 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5
 
+## May 26th, 2020 Livestream
+* Q&A: Planet has floating rocks, is not bound by Earth physics? https://www.youtube.com/watch?v=jXwIeLGuSvI
+
 ## December 19th, 2019 Livestream
 * [Q&A: Is Hannah working on a new level?](../../transcriptions/yt-gcdDfoBWaog.md) https://www.youtube.com/watch?v=gcdDfoBWaog
 * [Q&A: What's Hannah's take on rocks that aren't on the ground?](../../transcriptions/yt-y8FchPasYvI.md) https://www.youtube.com/watch?v=y8FchPasYvI

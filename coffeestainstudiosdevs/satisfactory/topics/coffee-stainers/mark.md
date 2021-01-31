@@ -10,5 +10,8 @@ date: Last Modified
 * [Q&A: Where is Mark from?](../../transcriptions/yt--nsfNFSevf4.md) https://www.youtube.com/watch?v=-nsfNFSevf4
 * [Snutt Talk: Game Director Mark](../../transcriptions/yt-G9n9eSO0l7A.md) https://www.youtube.com/watch?v=G9n9eSO0l7A
 
+## May 26th, 2020 Livestream
+* Q&A: What about Tier 8? https://www.youtube.com/watch?v=lQC68q7s21c
+
 ## March 24th, 2020 Livestream
 * [Q&A: You have several job openings right now?](../../transcriptions/yt-lqRP7DsUVes.md) https://www.youtube.com/watch?v=lqRP7DsUVes

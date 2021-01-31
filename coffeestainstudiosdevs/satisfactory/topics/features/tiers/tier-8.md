@@ -21,3 +21,6 @@ date: Last Modified
 * Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit
 * Q&A: What's in Tier 8? (part 1) https://clips.twitch.tv/RelievedRelievedCroissantMingLee
 * Q&A: What's in Tier 8? (part 2) https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu
+
+## May 26th, 2020 Livestream
+* Q&A: What about Tier 8? https://www.youtube.com/watch?v=lQC68q7s21c

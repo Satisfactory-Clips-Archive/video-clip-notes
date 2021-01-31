@@ -20,6 +20,7 @@ date: Last Modified
 * [Tim](./topics/coffee-stainers/tim.md)
 
 # [Community](./topics/community.md)
+* [Josh](./topics/community/josh.md)
 * [Joshie](./topics/community/joshie.md)
 * [Panakotta](./topics/community/panakotta.md)
 * [Wiki](./topics/community/wiki.md)
@@ -162,7 +163,9 @@ date: Last Modified
 # [Mods](./topics/mods.md)
 * [Ficsit Farming](./topics/mods/ficsit-farming.md)
 * [Mods vs. Features](./topics/mods/mods-vs-features.md)
-* [Official Mod Support](./topics/mods/official-mod-support.md)
+
+## [Official Mod Support](./topics/mods/official-mod-support.md)
+* [Steam Workshop](./topics/mods/official-mod-support/steam-workshop.md)
 
 # [Off-Topic](./topics/off-topic.md)
 * [Deep Rock Galactic](./topics/off-topic/deep-rock-galactic.md)

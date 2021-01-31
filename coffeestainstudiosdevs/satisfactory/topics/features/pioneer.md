@@ -26,3 +26,6 @@ date: Last Modified
 
 ## August 11th, 2020 Livestream
 * Q&A: FICSIT Pioneer gender confirmed? https://clips.twitch.tv/TriangularLongOctopusOneHand
+
+## May 26th, 2020 Livestream
+* Q&A: Zombie Pioneers? https://www.youtube.com/watch?v=90rAQ31MQPI

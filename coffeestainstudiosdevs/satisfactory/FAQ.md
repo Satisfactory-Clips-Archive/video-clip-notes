@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Coffee Stainers](./topics/coffee-stainers.md)
 
+## [G2](./topics/coffee-stainers/g2.md)
+
+### [March 9th, 2019 Livestream](./2019-03-09.md)
+* [Q&A: Does building Walls around big factories help performance?](./transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4
+
 ## [Hannah](./topics/coffee-stainers/hannah.md)
 
 ### [January 26th, 2021 Livestream](./2021-01-26.md)
@@ -449,6 +454,9 @@ date: Last Modified
 ### [October 13th, 2020 Livestream](./2020-10-13.md)
 * [Q&A: Is the Pioneer a human?](./transcriptions/yt-I0al2jSp_Rk.md) https://www.youtube.com/watch?v=I0al2jSp_Rk
 
+### [May 26th, 2020 Livestream](./2020-05-26.md)
+* Q&A: Zombie Pioneers? https://www.youtube.com/watch?v=90rAQ31MQPI
+
 ## [Accessibility](./topics/features/accessibility.md)
 
 ### [January 19th, 2021 Livestream](./2021-01-19.md)
@@ -751,6 +759,9 @@ date: Last Modified
 
 #### [September 22nd, 2020 Livestream](./2020-09-22.md)
 * [Q&A: How about lighting?](./transcriptions/yt-WDfN-WpIJXY.md) https://www.youtube.com/watch?v=WDfN-WpIJXY
+
+#### [May 26th, 2020 Livestream](./2020-05-26.md)
+* Q&A: Why can't you just add lights to the game? https://www.youtube.com/watch?v=IJdIUISe5S4
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
 * Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
@@ -1441,7 +1452,6 @@ date: Last Modified
 
 ## [September 15th, 2020 Livestream](./2020-09-15.md)
 * [Q&A: Will there be a Map Editor?](./transcriptions/yt-MYno60AbSGk.md) https://www.youtube.com/watch?v=MYno60AbSGk
-* [Q&A: Official Mod support?](./transcriptions/yt-0M3RKdwK5mA.md) https://www.youtube.com/watch?v=0M3RKdwK5mA
 
 ## [September 8th, 2020 Livestream](./2020-09-08.md)
 * [Q&A: Time to invest in Map Modding?](./transcriptions/yt-a5PSHoSuXec.md) https://www.youtube.com/watch?v=a5PSHoSuXec
@@ -1497,6 +1507,17 @@ date: Last Modified
 
 ### [September 15th, 2020 Livestream](./2020-09-15.md)
 * [Q&A: Official Mod support?](./transcriptions/yt-0M3RKdwK5mA.md) https://www.youtube.com/watch?v=0M3RKdwK5mA
+
+### [Steam Workshop](./topics/mods/official-mod-support/steam-workshop.md)
+
+#### [November 17th, 2020 Livestream](./2020-11-17.md)
+* [Q&A: Would Official Mod Support use Steam Workshop?](./transcriptions/yt-qzu-mnG_8uA.md) https://www.youtube.com/watch?v=qzu-mnG_8uA
+
+#### [September 15th, 2020 Livestream](./2020-09-15.md)
+* [Q&A: Official Mod support?](./transcriptions/yt-0M3RKdwK5mA.md) https://www.youtube.com/watch?v=0M3RKdwK5mA
+
+#### [May 26th, 2020 Livestream](./2020-05-26.md)
+* Q&A: Will we be seeing support for Steam Workshop? https://www.youtube.com/watch?v=n4fagQ4eivI
 
 # [Off-Topic](./topics/off-topic.md)
 
@@ -1968,6 +1989,10 @@ date: Last Modified
 * Build Limit (Part 4): https://clips.twitch.tv/BlitheEnergeticEelPRChase
 * Build Limit (Part 5): https://clips.twitch.tv/GiantGeniusGooseCclamChamp
 * Build Limit (Part 6): https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ
+
+### [May 26th, 2020 Livestream](./2020-05-26.md)
+* Q&A: Will you be using Unreal Engine 5 for Satisfactory? https://www.youtube.com/watch?v=Wy79gUb24es
+* Q&A: Why can't you just add lights to the game? https://www.youtube.com/watch?v=IJdIUISe5S4
 
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](./transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k
