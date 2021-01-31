@@ -3,6 +3,9 @@ title: "November 24th, 2020 Livestream Q&A: Who is the biggest [special guest] f
 date: "2020-11-24"
 layout: transcript
 topics:
+    - "coffee-stainers/jace"
+    - "coffee-stainers/snutt"
+    - "community/josh"
     - "off-topic"
     - "special-guests"
 ---
@@ -11,6 +14,9 @@ topics:
 https://www.youtube.com/watch?v=a1eSZz7wksU
 
 ### Topics
+* [Community > Josh](../topics/community/josh.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Special Guests](../topics/special-guests.md)
 * [Off-Topic](../topics/off-topic.md)
 

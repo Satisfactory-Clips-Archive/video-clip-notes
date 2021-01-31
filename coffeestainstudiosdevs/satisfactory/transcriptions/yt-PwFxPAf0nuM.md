@@ -3,14 +3,14 @@ title: "September 8th, 2020 Livestream Q&A: Will we have Steam Workshop on Steam
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "mods"
+    - "mods/official-mod-support/steam-workshop"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will we have Steam Workshop on Steam?
 https://www.youtube.com/watch?v=PwFxPAf0nuM
 
 ### Topics
-* [Mods](../topics/mods.md)
+* [Mods > Official Mod Support > Steam Workshop](../topics/mods/official-mod-support/steam-workshop.md)
 
 ### Transcript
 

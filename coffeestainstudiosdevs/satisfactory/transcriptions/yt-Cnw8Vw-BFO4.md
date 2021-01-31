@@ -3,6 +3,7 @@ title: "March 9th, 2019 Livestream Q&A: Does building Walls around big factories
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "coffee-stainers/g2"
     - "features/buildables/walls"
     - "technology/graphics"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=Cnw8Vw-BFO4
 
 ### Topics
+* [Coffee Stainers > G2](../topics/coffee-stainers/g2.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 

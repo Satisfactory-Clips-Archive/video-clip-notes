@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Q&A: Would Official Mod Support use Steam
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "mods/official-mod-support"
+    - "mods/official-mod-support/steam-workshop"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Would Official Mod Support use Steam Workshop?
 https://www.youtube.com/watch?v=qzu-mnG_8uA
 
 ### Topics
-* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
+* [Mods > Official Mod Support > Steam Workshop](../topics/mods/official-mod-support/steam-workshop.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "September 1st, 2020 Livestream Q&A: Steam Workshop support ?"
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "mods"
+    - "mods/official-mod-support/steam-workshop"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Steam Workshop support ?
 https://www.youtube.com/watch?v=FkG749zfA2w
 
 ### Topics
-* [Mods](../topics/mods.md)
+* [Mods > Official Mod Support > Steam Workshop](../topics/mods/official-mod-support/steam-workshop.md)
 
 ### Transcript
 

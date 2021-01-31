@@ -3,6 +3,7 @@ title: "March 9th, 2019 Livestream Q&A: How did you guys optimise the game so mu
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "coffee-stainers/g2"
     - "technology/graphics"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=nRCmJo-Wh9s
 
 ### Topics
+* [Coffee Stainers > G2](../topics/coffee-stainers/g2.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

@@ -4,12 +4,14 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "coffee-stainers"
+    - "coffee-stainers/g2"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Who in Coffee Stain plays Satisfactory the most?
 https://www.youtube.com/watch?v=N4JpnY4zy70
 
 ### Topics
+* [Coffee Stainers > G2](../topics/coffee-stainers/g2.md)
 * [Coffee Stainers](../topics/coffee-stainers.md)
 
 ### Transcript
