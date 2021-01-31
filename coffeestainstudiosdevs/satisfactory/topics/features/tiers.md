@@ -51,8 +51,8 @@ date: Last Modified
 * Jace Talk: Content & Tiers https://clips.twitch.tv/SwissFurryPlumPlanking
 
 ## May 26th, 2020 Livestream
-* Q&A: Tier 14 Toilet? https://www.youtube.com/watch?v=d8RBkY8oP1Q
-* Q&A: Does Coffee Stain have any analytics for what players do in the game? https://www.youtube.com/watch?v=Ggro568KcHA
+* [Q&A: Tier 14 Toilet?](../../transcriptions/yt-d8RBkY8oP1Q.md) https://www.youtube.com/watch?v=d8RBkY8oP1Q
+* [Q&A: Does Coffee Stain have any analytics for what players do in the game?](../../transcriptions/yt-Ggro568KcHA.md) https://www.youtube.com/watch?v=Ggro568KcHA
 
 ## March 24th, 2020 Livestream
 * [Q&A: What HUB Tier will have electric floors?](../../transcriptions/yt-cH3ityZn8E4.md) https://www.youtube.com/watch?v=cH3ityZn8E4

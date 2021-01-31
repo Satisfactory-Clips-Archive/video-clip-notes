@@ -1,0 +1,26 @@
+---
+title: "May 26th, 2020 Livestream Q&A: Planet has floating rocks, is not bound by Earth physics?"
+date: "2020-05-26"
+layout: transcript
+topics:
+    - "environment/world-map"
+    - "story-lore"
+---
+# [May 26th, 2020 Livestream](../2020-05-26.md)
+## Q&A: Planet has floating rocks, is not bound by Earth physics?
+https://www.youtube.com/watch?v=jXwIeLGuSvI
+
+### Topics
+* [Story & Lore](../topics/story-lore.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+
+### Transcript
+
+> planet is floating rocks it's not bound
+> 
+> by earth physics yeah we're on an alien
+> 
+> planet so you have to expect
+> 
+> some things
+> 

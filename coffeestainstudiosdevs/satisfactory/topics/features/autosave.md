@@ -16,7 +16,7 @@ date: Last Modified
 * Q&A: Is it possible to have the Autosave not noticeable at all ? https://clips.twitch.tv/ThirstyTubularHamMikeHogu
 
 ## May 26th, 2020 Livestream
-* Q&A: Save stutter? https://www.youtube.com/watch?v=n523WIVo5LM
+* [Q&A: Save stutter?](../../transcriptions/yt-n523WIVo5LM.md) https://www.youtube.com/watch?v=n523WIVo5LM
 
 ## February 17th, 2020 Livestream
 * [Markus Talk: What I've been working on (optimisation)](../../transcriptions/yt-LmzVhKaW_5I.md) https://www.youtube.com/watch?v=LmzVhKaW_5I

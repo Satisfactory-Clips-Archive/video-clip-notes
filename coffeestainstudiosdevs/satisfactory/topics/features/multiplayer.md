@@ -106,15 +106,15 @@ date: Last Modified
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
 
 ## May 26th, 2020 Livestream
-* Q&A: What does Performance Budget mean? https://www.youtube.com/watch?v=qg27gPorXB4
-* Q&A: Does Coffee Stain have any analytics for what players do in the game? https://www.youtube.com/watch?v=Ggro568KcHA
-* Q&A: What have you had to do in order to support Multiplayer on Steam? https://www.youtube.com/watch?v=tzQZ1akwzzM
-* Q&A: How does Epic / Steam crossplay work? https://www.youtube.com/watch?v=TM6DY2kEQ8E
-* Q&A: Would you rather buy the game on both platforms than solve these issues? https://www.youtube.com/watch?v=-ISubZfsFS4
-* Q&A: What if Coffee Stain were to handle multiplayer authentication directly? https://www.youtube.com/watch?v=l5GyjL5jYuA
-* Q&A: Why use Epic Online Services? https://www.youtube.com/watch?v=0SgEjTk4pnU
+* [Q&A: What does Performance Budget mean?](../../transcriptions/yt-qg27gPorXB4.md) https://www.youtube.com/watch?v=qg27gPorXB4
+* [Q&A: Does Coffee Stain have any analytics for what players do in the game?](../../transcriptions/yt-Ggro568KcHA.md) https://www.youtube.com/watch?v=Ggro568KcHA
+* [Q&A: What have you had to do in order to support Multiplayer on Steam?](../../transcriptions/yt-tzQZ1akwzzM.md) https://www.youtube.com/watch?v=tzQZ1akwzzM
+* [Q&A: How does Epic / Steam crossplay work?](../../transcriptions/yt-TM6DY2kEQ8E.md) https://www.youtube.com/watch?v=TM6DY2kEQ8E
+* [Q&A: Would you rather buy the game on both platforms than solve these issues?](../../transcriptions/yt--ISubZfsFS4.md) https://www.youtube.com/watch?v=-ISubZfsFS4
+* [Q&A: What if Coffee Stain were to handle multiplayer authentication directly?](../../transcriptions/yt-l5GyjL5jYuA.md) https://www.youtube.com/watch?v=l5GyjL5jYuA
+* [Q&A: Why use Epic Online Services?](../../transcriptions/yt-0SgEjTk4pnU.md) https://www.youtube.com/watch?v=0SgEjTk4pnU
 * Q&A: Will there be a lag difference between crossplay Multiplayer? https://www.youtube.com/watch?v=kgQjKxY0oGQ
-* Q&A: Will crossplay launch with the Steam release? https://www.youtube.com/watch?v=egY71egazyQ
+* [Q&A: Will crossplay launch with the Steam release?](../../transcriptions/yt-egY71egazyQ.md) https://www.youtube.com/watch?v=egY71egazyQ
 
 ## March 24th, 2020 Livestream
 * [Q&A: Will the Steam release make reliability better?](../../transcriptions/yt-fKXR3PibLLA.md) https://www.youtube.com/watch?v=fKXR3PibLLA

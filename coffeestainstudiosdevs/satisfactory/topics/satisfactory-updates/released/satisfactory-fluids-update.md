@@ -138,7 +138,7 @@ date: Last Modified
 * Q&A: Some new Machines in the next update? https://clips.twitch.tv/CourteousSmellyNewtTTours
 
 ## May 26th, 2020 Livestream
-* Q&A: Do you intended to do planned amount of huge Updates? https://www.youtube.com/watch?v=Nk53HWpUnnk
+* [Q&A: Do you intended to do planned amount of huge Updates?](../../../transcriptions/yt-Nk53HWpUnnk.md) https://www.youtube.com/watch?v=Nk53HWpUnnk
 
 ## March 24th, 2020 Livestream
 * [Q&A: Will there be a roadmap again for Updates?](../../../transcriptions/yt-EiqFP9bm7v4.md) https://www.youtube.com/watch?v=EiqFP9bm7v4

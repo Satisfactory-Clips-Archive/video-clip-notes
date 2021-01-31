@@ -113,11 +113,11 @@ date: Last Modified
 * Q&A: Unreal Engine 5 https://clips.twitch.tv/PiliableZanyGrassFreakinStinkin
 
 ## May 26th, 2020 Livestream
-* Q&A: What does Performance Budget mean? https://www.youtube.com/watch?v=qg27gPorXB4
-* Q&A: Will you be using Unreal Engine 5 for Satisfactory? https://www.youtube.com/watch?v=Wy79gUb24es
-* Q&A: Why can't you just add lights to the game? https://www.youtube.com/watch?v=IJdIUISe5S4
-* Q&A: Any work on Occlusion Culling? https://www.youtube.com/watch?v=SauDZG88AFI
-* Q&A: Optimisation passes? https://www.youtube.com/watch?v=yOyNULmDdpc
+* [Q&A: What does Performance Budget mean?](../../transcriptions/yt-qg27gPorXB4.md) https://www.youtube.com/watch?v=qg27gPorXB4
+* [Q&A: Will you be using Unreal Engine 5 for Satisfactory?](../../transcriptions/yt-Wy79gUb24es.md) https://www.youtube.com/watch?v=Wy79gUb24es
+* [Q&A: Why can't you just add lights to the game?](../../transcriptions/yt-IJdIUISe5S4.md) https://www.youtube.com/watch?v=IJdIUISe5S4
+* [Q&A: Any work on Occlusion Culling?](../../transcriptions/yt-SauDZG88AFI.md) https://www.youtube.com/watch?v=SauDZG88AFI
+* [Q&A: Optimisation passes?](../../transcriptions/yt-yOyNULmDdpc.md) https://www.youtube.com/watch?v=yOyNULmDdpc
 
 ## February 17th, 2020 Livestream
 * [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) https://www.youtube.com/watch?v=jFeV8JA7NXg

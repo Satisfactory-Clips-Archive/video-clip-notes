@@ -58,7 +58,7 @@ date: Last Modified
 * Q&A: Will there ever be conveyor lift splitters & mergers ? https://clips.twitch.tv/MiniatureFlaccidSwanKAPOW
 
 ## May 26th, 2020 Livestream
-* Q&A: Can we increase the cable length of the Conveyor Belts? https://www.youtube.com/watch?v=xFEFHB3qyPk
+* [Q&A: Can we increase the cable length of the Conveyor Belts?](../../../transcriptions/yt-xFEFHB3qyPk.md) https://www.youtube.com/watch?v=xFEFHB3qyPk
 
 ## March 24th, 2020 Livestream
 * [Jace Talk: Use the QA Site](../../../transcriptions/yt-Bm_Yh-0jjtI.md) https://www.youtube.com/watch?v=Bm_Yh-0jjtI

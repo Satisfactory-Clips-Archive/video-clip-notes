@@ -20,4 +20,4 @@ date: Last Modified
 * Q&A: Will you plan to add Steam Workshop support? https://clips.twitch.tv/SwissTameCoffeeDansGame
 
 ## May 26th, 2020 Livestream
-* Q&A: Will we be seeing support for Steam Workshop? https://www.youtube.com/watch?v=n4fagQ4eivI
+* [Q&A: Will we be seeing support for Steam Workshop?](../../../transcriptions/yt-n4fagQ4eivI.md) https://www.youtube.com/watch?v=n4fagQ4eivI

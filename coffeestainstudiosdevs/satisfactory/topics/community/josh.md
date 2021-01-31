@@ -9,4 +9,4 @@ date: Last Modified
 * [Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?](../../transcriptions/yt-a1eSZz7wksU.md) https://www.youtube.com/watch?v=a1eSZz7wksU
 
 ## May 26th, 2020 Livestream
-* Q&A: Any comments on Josh from Let's Game It Out? https://www.youtube.com/watch?v=vnHJtX7yEAw
+* [Q&A: Any comments on Josh from Let's Game It Out?](../../transcriptions/yt-vnHJtX7yEAw.md) https://www.youtube.com/watch?v=vnHJtX7yEAw

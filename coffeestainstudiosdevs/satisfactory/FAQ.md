@@ -455,7 +455,7 @@ date: Last Modified
 * [Q&A: Is the Pioneer a human?](./transcriptions/yt-I0al2jSp_Rk.md) https://www.youtube.com/watch?v=I0al2jSp_Rk
 
 ### [May 26th, 2020 Livestream](./2020-05-26.md)
-* Q&A: Zombie Pioneers? https://www.youtube.com/watch?v=90rAQ31MQPI
+* [Q&A: Zombie Pioneers?](./transcriptions/yt-90rAQ31MQPI.md) https://www.youtube.com/watch?v=90rAQ31MQPI
 
 ## [Accessibility](./topics/features/accessibility.md)
 
@@ -761,7 +761,7 @@ date: Last Modified
 * [Q&A: How about lighting?](./transcriptions/yt-WDfN-WpIJXY.md) https://www.youtube.com/watch?v=WDfN-WpIJXY
 
 #### [May 26th, 2020 Livestream](./2020-05-26.md)
-* Q&A: Why can't you just add lights to the game? https://www.youtube.com/watch?v=IJdIUISe5S4
+* [Q&A: Why can't you just add lights to the game?](./transcriptions/yt-IJdIUISe5S4.md) https://www.youtube.com/watch?v=IJdIUISe5S4
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
 * Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
@@ -1517,7 +1517,7 @@ date: Last Modified
 * [Q&A: Official Mod support?](./transcriptions/yt-0M3RKdwK5mA.md) https://www.youtube.com/watch?v=0M3RKdwK5mA
 
 #### [May 26th, 2020 Livestream](./2020-05-26.md)
-* Q&A: Will we be seeing support for Steam Workshop? https://www.youtube.com/watch?v=n4fagQ4eivI
+* [Q&A: Will we be seeing support for Steam Workshop?](./transcriptions/yt-n4fagQ4eivI.md) https://www.youtube.com/watch?v=n4fagQ4eivI
 
 # [Off-Topic](./topics/off-topic.md)
 
@@ -1991,8 +1991,8 @@ date: Last Modified
 * Build Limit (Part 6): https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ
 
 ### [May 26th, 2020 Livestream](./2020-05-26.md)
-* Q&A: Will you be using Unreal Engine 5 for Satisfactory? https://www.youtube.com/watch?v=Wy79gUb24es
-* Q&A: Why can't you just add lights to the game? https://www.youtube.com/watch?v=IJdIUISe5S4
+* [Q&A: Will you be using Unreal Engine 5 for Satisfactory?](./transcriptions/yt-Wy79gUb24es.md) https://www.youtube.com/watch?v=Wy79gUb24es
+* [Q&A: Why can't you just add lights to the game?](./transcriptions/yt-IJdIUISe5S4.md) https://www.youtube.com/watch?v=IJdIUISe5S4
 
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](./transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k

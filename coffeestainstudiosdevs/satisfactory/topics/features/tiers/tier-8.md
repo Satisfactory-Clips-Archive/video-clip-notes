@@ -23,4 +23,4 @@ date: Last Modified
 * Q&A: What's in Tier 8? (part 2) https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu
 
 ## May 26th, 2020 Livestream
-* Q&A: What about Tier 8? https://www.youtube.com/watch?v=lQC68q7s21c
+* [Q&A: What about Tier 8?](../../../transcriptions/yt-lQC68q7s21c.md) https://www.youtube.com/watch?v=lQC68q7s21c

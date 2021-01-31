@@ -1,0 +1,330 @@
+---
+title: "May 26th, 2020 Livestream Q&A: What does Performance Budget mean?"
+date: "2020-05-26"
+layout: transcript
+topics:
+    - "features/multiplayer"
+    - "features/planned-features/lights"
+    - "technology/graphics"
+    - "technology/unreal-engine"
+---
+# [May 26th, 2020 Livestream](../2020-05-26.md)
+## Q&A: What does Performance Budget mean?
+https://www.youtube.com/watch?v=qg27gPorXB4
+
+### Topics
+* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+
+### Transcript
+
+> uh yes here's a question that i've been
+> 
+> wanting to
+> 
+> i almost answered on twitter but uh i
+> 
+> got distracted by something else
+> 
+> so um this question is about perform i
+> 
+> i talk off i often talk about
+> 
+> performance budget
+> 
+> uh when we talked about optimization and
+> 
+> we specifically talk often talk about
+> 
+> when we talk about lights and stuff
+> 
+> um and and
+> 
+> so so the question is like what does
+> 
+> performance budget mean really
+> 
+> so performance budget is like a loose
+> 
+> term but
+> 
+> but the the generally the way you see it
+> 
+> is like performance budget is
+> 
+> when you're rendering a frame right
+> 
+> you're you're often shooting for a
+> 
+> target frame rate you have a target
+> 
+> frame rate and you
+> 
+> have a minimum uh
+> 
+> viable frame rate where like we're
+> 
+> shooting for you know
+> 
+> 60 fps i think that's like our goal and
+> 
+> that's
+> 
+> kind of reasonable um
+> 
+> but we also have a minimum viable um
+> 
+> frame rate which is like at like what's
+> 
+> the lowest frame rate you can play the
+> 
+> game and it's still okay
+> 
+> you know and you know that that minimum
+> 
+> viable frame rate differs based
+> 
+> on like what kind of game it is um so
+> 
+> like if you're playing a
+> 
+> a a music rhythm game for instance
+> 
+> then your minimum viable frame rate
+> 
+> might be 60 fps like you have to
+> 
+> have at least 60 fps and stuff like that
+> 
+> um blah blah blah
+> 
+> anyway so the performance budget that i
+> 
+> keep mentioning is
+> 
+> we often say okay so if our target frame
+> 
+> rate is 60 fps
+> 
+> that means that each frame is rendered
+> 
+> in 16 milliseconds right um
+> 
+> so that means if if
+> 
+> all the aspects that are in the game
+> 
+> that does any kind of logic stuff and
+> 
+> like updates
+> 
+> you know that runs on the cpu or gpu
+> 
+> whatever that needs to run
+> 
+> with under that um that target time
+> 
+> right
+> 
+> so often when we when we talk about the
+> 
+> budget we mean like okay if
+> 
+> if we have 16 milliseconds to
+> 
+> to be able to perform everything we need
+> 
+> to perform each tick each update
+> 
+> frame kind of so like if if it takes one
+> 
+> millisecond to run like the logic for
+> 
+> your factory if it takes one millisecond
+> 
+> to
+> 
+> um to update like all the enemies in the
+> 
+> game
+> 
+> and stuff like that if it takes four
+> 
+> milliseconds to to do something else
+> 
+> blah blah blah
+> 
+> like all that stuff adds up um and and
+> 
+> you know that's what determines what
+> 
+> frame rate you get
+> 
+> um and if we have
+> 
+> when we measure stuff we measured in a
+> 
+> low um
+> 
+> low uh hard like low spec hardware kind
+> 
+> of
+> 
+> and so so for instance if we have like
+> 
+> systems where like if if rendering takes
+> 
+> eight milliseconds right now in the game
+> 
+> then we can't re
+> 
+> and like that means that we bloat the
+> 
+> the budget
+> 
+> that means we can't reasonably add
+> 
+> anything that's gonna add like another
+> 
+> millisecond because
+> 
+> we're still we're still exceeding our
+> 
+> performance budget right
+> 
+> so that's what i'm referring to when i'm
+> 
+> talking about like stuff like that
+> 
+> so and and pr we'll probably talk about
+> 
+> this a bit with with kafka maybe about
+> 
+> light specifically because he
+> 
+> he knows uh more about that than i do
+> 
+> but it's the same thing there like if we
+> 
+> add lights then okay we need to have
+> 
+> room for that kind of in the budget
+> 
+> which means okay if we're gonna add
+> 
+> lights we have to
+> 
+> shrink down like the the way you use it
+> 
+> to have like the general use
+> 
+> case for that to be as few milliseconds
+> 
+> as possible and then they also we also
+> 
+> need to be able to afford
+> 
+> somewhere else in our budget to like get
+> 
+> something out in the budget and
+> 
+> to be able to fit it in you know in the
+> 
+> schedule kind of so
+> 
+> long story short it's just like all
+> 
+> these different things in the game that
+> 
+> is taking up cpu time and taking up
+> 
+> rendering time like
+> 
+> if we're gonna add lights we need to be
+> 
+> able to fit that in that budget
+> 
+> and this is something we talk about game
+> 
+> development in general like you know how
+> 
+> some games can have like really accurate
+> 
+> simulation going on whereas in other
+> 
+> games it's just like
+> 
+> so like we don't have physics in
+> 
+> satisfactory for instance and that is
+> 
+> because
+> 
+> that's such a big part of the budget but
+> 
+> if we remove physics then we have room
+> 
+> for other things that we can do like
+> 
+> all the rendering stuff i'm logging so
+> 
+> yes
+> 
+> very very long question or
+> 
+> answer but yeah um
+> 
+> i just read like drawing chaos snoot
+> 
+> body as like dude are you okay
+> 
+> do you want to sit down like
+> 
+> um and yeah like multi-threaded stuff is
+> 
+> one thing that
+> 
+> we we when we added support for that
+> 
+> more support for that that means that oh
+> 
+> we cleared up some some space in the
+> 
+> budget so we can add
+> 
+> this thing and that's what we used to
+> 
+> add pipes
+> 
+> so like when we added the
+> 
+> multi-threading stuff
+> 
+> that's currently in the game we got this
+> 
+> big hole in the budget and we're like
+> 
+> all right let's cram
+> 
+> pipes and that um so it's it's a
+> 
+> balancing act of figuring out what you
+> 
+> can and can't afford to to run in your
+> 
+> game and satisfactory uh
+> 
+> unfortunately is one of those games
+> 
+> where it scales so like you can you can
+> 
+> have like
+> 
+> a ton of stuff in the game that
+> 
+> will affect cpu time
+> 
+> so yes
+> 

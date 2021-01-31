@@ -31,7 +31,7 @@ date: Last Modified
 * Q&A: New Apartment? https://clips.twitch.tv/CorrectAdorableDinosaurWoofer
 
 ## May 26th, 2020 Livestream
-* Q&A: What about Tier 8? https://www.youtube.com/watch?v=lQC68q7s21c
+* [Q&A: What about Tier 8?](../../transcriptions/yt-lQC68q7s21c.md) https://www.youtube.com/watch?v=lQC68q7s21c
 
 ## March 24th, 2020 Livestream
 * Q&A: When are the Wind Turbines that Jace leaked coming? https://www.youtube.com/watch?v=nRMTYlLqiSc

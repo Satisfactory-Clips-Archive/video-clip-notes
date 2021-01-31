@@ -37,8 +37,8 @@ date: Last Modified
 * Q&A: Will light be added to the game? (Part 3) https://clips.twitch.tv/AbnegateEndearingBottleKlappa
 
 ## May 26th, 2020 Livestream
-* Q&A: What does Performance Budget mean? https://www.youtube.com/watch?v=qg27gPorXB4
-* Q&A: Why can't you just add lights to the game? https://www.youtube.com/watch?v=IJdIUISe5S4
+* [Q&A: What does Performance Budget mean?](../../../transcriptions/yt-qg27gPorXB4.md) https://www.youtube.com/watch?v=qg27gPorXB4
+* [Q&A: Why can't you just add lights to the game?](../../../transcriptions/yt-IJdIUISe5S4.md) https://www.youtube.com/watch?v=IJdIUISe5S4
 
 ## March 9th, 2019 Livestream
 * [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../../transcriptions/yt-Tit_bHzixmk.md) https://www.youtube.com/watch?v=Tit_bHzixmk
