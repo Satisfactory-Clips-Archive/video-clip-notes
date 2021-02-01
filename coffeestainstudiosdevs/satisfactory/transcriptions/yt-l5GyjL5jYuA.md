@@ -1,11 +1,11 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: What if Coffee Stain were to handle multiplayer authentication directly?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Q&A: What if Coffee Stain were to handle multiplayer authentication directly?"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "features/multiplayer"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: What if Coffee Stain were to handle multiplayer authentication directly?
 https://www.youtube.com/watch?v=l5GyjL5jYuA
 

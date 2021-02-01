@@ -1,13 +1,13 @@
 ---
-title: "February 17th, 2020 Livestream Q&A: I just joined, thought this was Update 3?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Q&A: I just joined, thought this was Update 3?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "features/possible-features/game-modes"
     - "off-topic/the-cycle"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: I just joined, thought this was Update 3?
 https://www.youtube.com/watch?v=02Zb5q8Zm5s
 

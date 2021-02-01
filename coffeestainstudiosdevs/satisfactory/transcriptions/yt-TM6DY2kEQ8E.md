@@ -1,16 +1,16 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: How does Epic / Steam crossplay work?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Snutt & Gafgar Talk: How Epic / Steam crossplay works"
+date: "2020-05-19"
 layout: transcript
 topics:
-    - "features/multiplayer"
+    - "features/multiplayer/crossplay"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
-## Q&A: How does Epic / Steam crossplay work?
+# [May 19th, 2020 Livestream](../2020-05-19.md)
+## Snutt & Gafgar Talk: How Epic / Steam crossplay works
 https://www.youtube.com/watch?v=TM6DY2kEQ8E
 
 ### Topics
-* [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Features > Multiplayer > Crossplay](../topics/features/multiplayer/crossplay.md)
 
 ### Transcript
 

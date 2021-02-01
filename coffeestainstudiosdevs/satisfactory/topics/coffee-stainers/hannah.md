@@ -17,6 +17,9 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: Let Hannah finish her work on the map before expanding?](../../transcriptions/yt-wZOVw8KV1rQ.md) https://www.youtube.com/watch?v=wZOVw8KV1rQ
 
+## June 8th, 2020 Livestream
+* [Q&A: Are there any Dutch people in Coffee Stain?](../../transcriptions/yt-ZhrRG351PsI.md) https://www.youtube.com/watch?v=ZhrRG351PsI
+
 ## May 19th, 2020 Livestream
 * [Q&A: What's the name of the Player Character?](../../transcriptions/yt-pNTCYMAibe8.md) https://www.youtube.com/watch?v=pNTCYMAibe8
 

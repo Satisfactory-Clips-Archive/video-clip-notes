@@ -1,12 +1,12 @@
 ---
-title: "February 17th, 2020 Livestream Q&A: How big is the Update going to be?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Q&A: How big is the Update going to be?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "satisfactory-updates/release-builds"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: How big is the Update going to be?
 https://www.youtube.com/watch?v=yQe_yYHAwsQ
 

@@ -1,13 +1,13 @@
 ---
-title: "February 17th, 2020 Livestream Snutt & Jace Talk: We can finally talk about Update 3"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Snutt & Jace Talk: We can finally talk about Update 3"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "features/fluids/pipes"
     - "features/transportation/vehicles/factory-cart"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt & Jace Talk: We can finally talk about Update 3
 https://www.youtube.com/watch?v=sThTLaqNsts
 

@@ -80,6 +80,9 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy
 
+## June 8th, 2020 Livestream
+* [Q&A: What is your take on new Energy sources?](../../transcriptions/yt-OS-zYJZqi-0.md) https://www.youtube.com/watch?v=OS-zYJZqi-0
+
 ## March 24th, 2020 Livestream
 * [Q&A: What HUB Tier will have electric floors?](../../transcriptions/yt-cH3ityZn8E4.md) https://www.youtube.com/watch?v=cH3ityZn8E4
 

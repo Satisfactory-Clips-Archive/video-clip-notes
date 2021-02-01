@@ -1,12 +1,12 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: Why use Epic Online Services?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Snutt & Gafgar Talk: Using Epic Online Services"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "features/multiplayer"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
-## Q&A: Why use Epic Online Services?
+# [May 19th, 2020 Livestream](../2020-05-19.md)
+## Snutt & Gafgar Talk: Using Epic Online Services
 https://www.youtube.com/watch?v=0SgEjTk4pnU
 
 ### Topics

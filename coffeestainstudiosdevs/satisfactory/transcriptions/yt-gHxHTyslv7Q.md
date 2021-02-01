@@ -1,12 +1,12 @@
 ---
-title: "February 17th, 2020 Livestream Snutt & Jace Talk: Semlor (Part 1)"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Snutt & Jace Talk: Semlor (Part 1)"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "community"
     - "off-topic/semlor"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt & Jace Talk: Semlor (Part 1)
 https://www.youtube.com/watch?v=gHxHTyslv7Q
 

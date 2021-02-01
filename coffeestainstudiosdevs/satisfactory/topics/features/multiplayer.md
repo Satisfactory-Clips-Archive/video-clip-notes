@@ -3,6 +3,7 @@ title: "Multiplayer"
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Multiplayer
+* [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Dedicated Servers aka Multiplayer fixes when?](../../transcriptions/yt-_XfcfZ8vfj8.md) https://www.youtube.com/watch?v=_XfcfZ8vfj8
@@ -105,21 +106,20 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
 
+## June 8th, 2020 Livestream
+* [Q&A: Please fix Multiplayer bugs?](../../transcriptions/yt-X6OALg4vc7w.md) https://www.youtube.com/watch?v=X6OALg4vc7w
+
 ## May 19th, 2020 Livestream
 * [Q&A: What does Performance Budget mean?](../../transcriptions/yt-qg27gPorXB4.md) https://www.youtube.com/watch?v=qg27gPorXB4
 * [Q&A: Does Coffee Stain have any analytics for what players do in the game?](../../transcriptions/yt-Ggro568KcHA.md) https://www.youtube.com/watch?v=Ggro568KcHA
-* [Q&A: What have you had to do in order to support Multiplayer on Steam?](../../transcriptions/yt-tzQZ1akwzzM.md) https://www.youtube.com/watch?v=tzQZ1akwzzM
-* [Q&A: How does Epic / Steam crossplay work?](../../transcriptions/yt-TM6DY2kEQ8E.md) https://www.youtube.com/watch?v=TM6DY2kEQ8E
+* [Snutt & Gafgar Talk: What we had to do in order to support Multiplayer on Steam](../../transcriptions/yt-tzQZ1akwzzM.md) https://www.youtube.com/watch?v=tzQZ1akwzzM
 * [Q&A: Would you rather buy the game on both platforms than solve these issues?](../../transcriptions/yt--ISubZfsFS4.md) https://www.youtube.com/watch?v=-ISubZfsFS4
 * [Q&A: What if Coffee Stain were to handle multiplayer authentication directly?](../../transcriptions/yt-l5GyjL5jYuA.md) https://www.youtube.com/watch?v=l5GyjL5jYuA
-* [Q&A: Why use Epic Online Services?](../../transcriptions/yt-0SgEjTk4pnU.md) https://www.youtube.com/watch?v=0SgEjTk4pnU
-* Q&A: Will there be a lag difference between crossplay Multiplayer? https://www.youtube.com/watch?v=kgQjKxY0oGQ
-* [Q&A: Will crossplay launch with the Steam release?](../../transcriptions/yt-egY71egazyQ.md) https://www.youtube.com/watch?v=egY71egazyQ
+* [Snutt & Gafgar Talk: Using Epic Online Services](../../transcriptions/yt-0SgEjTk4pnU.md) https://www.youtube.com/watch?v=0SgEjTk4pnU
 
 ## March 24th, 2020 Livestream
 * [Q&A: Will the Steam release make reliability better?](../../transcriptions/yt-fKXR3PibLLA.md) https://www.youtube.com/watch?v=fKXR3PibLLA
 * [Snutt & Jace Talk: Multiplayer issues](../../transcriptions/yt-3vVD6SKT5OQ.md) https://www.youtube.com/watch?v=3vVD6SKT5OQ
-* [Q&A: How will we crossplay?](../../transcriptions/yt--kVvrassZVw.md) https://www.youtube.com/watch?v=-kVvrassZVw
 * [Q&A: How high is Multiplayer bugfixing on the priority list?](../../transcriptions/yt-mvSWBd42JYM.md) https://www.youtube.com/watch?v=mvSWBd42JYM
 
 ## February 11th, 2020 Livestream

@@ -34,3 +34,6 @@ date: Last Modified
 
 ## August 18th, 2020 Livestream
 * Q&A: Any thoughts on whether Trains will ever collide? https://clips.twitch.tv/SaltyJazzyPasta4Head
+
+## June 8th, 2020 Livestream
+* [Q&A: What are plans for Trains?](../../../../transcriptions/yt-9MVglCjtlwY.md) https://www.youtube.com/watch?v=9MVglCjtlwY

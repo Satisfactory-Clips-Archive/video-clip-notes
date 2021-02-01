@@ -1,13 +1,13 @@
 ---
-title: "February 17th, 2020 Livestream Snutt Talk: There's so many things I want to fix & do"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Snutt Talk: There's so many things I want to fix & do"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "environment/plants"
     - "features/multiplayer"
     - "technology/graphics"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt Talk: There's so many things I want to fix & do
 https://www.youtube.com/watch?v=jNQ4IPihWUY
 

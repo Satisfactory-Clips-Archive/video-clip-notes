@@ -1,11 +1,11 @@
 ---
-title: "February 17th, 2020 Livestream Snutt & Jace Talk: WTF‽ That's our Drop Pod‽"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Snutt & Jace Talk: WTF‽ That's our Drop Pod‽"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "off-topic/the-cycle"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt & Jace Talk: WTF‽ That's our Drop Pod‽
 https://www.youtube.com/watch?v=NMmBLjJHb3c
 

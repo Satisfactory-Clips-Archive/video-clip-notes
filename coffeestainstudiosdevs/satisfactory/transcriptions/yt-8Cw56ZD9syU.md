@@ -1,12 +1,12 @@
 ---
-title: "February 17th, 2020 Livestream Jace Talk: Funny roulette story"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Jace Talk: Funny roulette story"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers"
     - "coffee-stainers/jace"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Jace Talk: Funny roulette story
 https://www.youtube.com/watch?v=8Cw56ZD9syU
 

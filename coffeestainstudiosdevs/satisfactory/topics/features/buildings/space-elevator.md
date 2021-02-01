@@ -13,5 +13,9 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: Are we going to be able to get the Space Elevator Food Court?](../../../transcriptions/yt-YNogQuanQlc.md) https://www.youtube.com/watch?v=YNogQuanQlc
 
+## June 8th, 2020 Livestream
+* [Q&A: How about repeatable Space Elevator shipments to make more use of it?](../../../transcriptions/yt-fbCEIVUNDe0.md) https://www.youtube.com/watch?v=fbCEIVUNDe0
+* [Snutt, Jace, & Mark Talk: Changing the behaviour of the Space Elevator inputs](../../../transcriptions/yt-HAB_W3gw4mQ.md) https://www.youtube.com/watch?v=HAB_W3gw4mQ
+
 ## March 9th, 2019 Livestream
 * [Jace Talk: Space Elevator](../../../transcriptions/yt-0P2A2UtY834.md) https://www.youtube.com/watch?v=0P2A2UtY834

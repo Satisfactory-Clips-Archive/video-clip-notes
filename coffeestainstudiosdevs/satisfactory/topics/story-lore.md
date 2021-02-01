@@ -87,6 +87,10 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Q&A: Story / End-game? https://clips.twitch.tv/AmorphousVictoriousTrayPartyTime
 
+## June 8th, 2020 Livestream
+* [Q&A: What about Story Mode?](../transcriptions/yt-H0Q4kZ7otEk.md) https://www.youtube.com/watch?v=H0Q4kZ7otEk
+* [Q&A: What if players don't want a Story?](../transcriptions/yt-VnwSM5AZYng.md) https://www.youtube.com/watch?v=VnwSM5AZYng
+
 ## May 19th, 2020 Livestream
 * [Q&A: Planet has floating rocks, is not bound by Earth physics?](../transcriptions/yt-jXwIeLGuSvI.md) https://www.youtube.com/watch?v=jXwIeLGuSvI
 * [Q&A: What's the name of the Player Character?](../transcriptions/yt-pNTCYMAibe8.md) https://www.youtube.com/watch?v=pNTCYMAibe8

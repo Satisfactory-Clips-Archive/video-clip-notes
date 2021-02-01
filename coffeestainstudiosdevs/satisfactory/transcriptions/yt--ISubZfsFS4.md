@@ -1,11 +1,11 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: Would you rather buy the game on both platforms than solve these issues?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Q&A: Would you rather buy the game on both platforms than solve these issues?"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "features/multiplayer"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Would you rather buy the game on both platforms than solve these issues?
 https://www.youtube.com/watch?v=-ISubZfsFS4
 

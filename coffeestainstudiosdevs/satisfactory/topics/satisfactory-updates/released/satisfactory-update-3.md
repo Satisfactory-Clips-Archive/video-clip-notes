@@ -16,6 +16,9 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
 
+## June 8th, 2020 Livestream
+* [Q&A: Are there any plans for Pipes in general?](../../../transcriptions/yt-1LQhTjYMptc.md) https://www.youtube.com/watch?v=1LQhTjYMptc
+
 ## March 24th, 2020 Livestream
 * [State of Dev: Update 3, Steam Release](../../../transcriptions/yt-Y__cl6AcRzs.md) https://www.youtube.com/watch?v=Y__cl6AcRzs
 

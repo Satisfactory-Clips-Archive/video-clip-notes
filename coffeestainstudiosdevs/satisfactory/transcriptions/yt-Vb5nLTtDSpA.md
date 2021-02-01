@@ -1,12 +1,12 @@
 ---
-title: "February 17th, 2020 Livestream Q&A: Satisfactory on mobile?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Q&A: Satisfactory on mobile?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "satisfactory-updates/release-builds"
     - "trolling"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Satisfactory on mobile?
 https://www.youtube.com/watch?v=Vb5nLTtDSpA
 

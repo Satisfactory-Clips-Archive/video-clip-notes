@@ -1,11 +1,11 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: Save stutter?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Q&A: Save stutter?"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "features/autosave"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Save stutter?
 https://www.youtube.com/watch?v=n523WIVo5LM
 

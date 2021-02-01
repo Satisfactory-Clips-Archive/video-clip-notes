@@ -10,6 +10,9 @@ date: Last Modified
 ## October 6th, 2020 Livestream
 * [Q&A: Is ADA a synth voice ?](../../../transcriptions/yt-isjOJ0Aczl4.md) https://www.youtube.com/watch?v=isjOJ0Aczl4
 
+## June 8th, 2020 Livestream
+* [Snutt, Jace, & Mark Talk: Muting ADA](../../../transcriptions/yt-H3eApDUK_Xs.md) https://www.youtube.com/watch?v=H3eApDUK_Xs
+
 ## March 24th, 2020 Livestream
 * [Q&A: Who speaks ADA?](../../../transcriptions/yt-aYUTkfL-jKk.md) https://www.youtube.com/watch?v=aYUTkfL-jKk
 * [Q&A: Can we turn of ADA notifications?](../../../transcriptions/yt-w2S15UcuaUs.md) https://www.youtube.com/watch?v=w2S15UcuaUs

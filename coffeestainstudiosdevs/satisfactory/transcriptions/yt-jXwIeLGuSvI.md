@@ -1,12 +1,12 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: Planet has floating rocks, is not bound by Earth physics?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Q&A: Planet has floating rocks, is not bound by Earth physics?"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "environment/world-map"
     - "story-lore"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Planet has floating rocks, is not bound by Earth physics?
 https://www.youtube.com/watch?v=jXwIeLGuSvI
 

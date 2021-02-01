@@ -3,7 +3,7 @@ title: "January 22nd, 2020 Livestream Snutt & Jace Talk: Smerkin is hardcore"
 date: "2020-01-22"
 layout: transcript
 topics:
-    - "community"
+    - "community/smerkin"
     - "environment/resources"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=RT5R6J7dj3g
 
 ### Topics
-* [Community](../topics/community.md)
+* [Community > Smerkin](../topics/community/smerkin.md)
 * [Environment > Resources](../topics/environment/resources.md)
 
 ### Transcript

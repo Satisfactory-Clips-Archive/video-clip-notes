@@ -40,6 +40,11 @@ date: Last Modified
 * Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 4) https://clips.twitch.tv/FrigidFragileCucumberOneHand
 * Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp
 
+## June 8th, 2020 Livestream
+* [Q&A: Will I be able to play Experimental branches on Steam?](../../transcriptions/yt-gXCCQ_JBIUg.md) https://www.youtube.com/watch?v=gXCCQ_JBIUg
+* [Q&A: Will Epic & Steam get the same Updates?](../../transcriptions/yt-t814f8sansw.md) https://www.youtube.com/watch?v=t814f8sansw
+* [Q&A: What about the building the game Modular?](../../transcriptions/yt-WRVv8qIBxHU.md) https://www.youtube.com/watch?v=WRVv8qIBxHU
+
 ## March 24th, 2020 Livestream
 * [State of Dev: Update 3, Steam Release](../../transcriptions/yt-Y__cl6AcRzs.md) https://www.youtube.com/watch?v=Y__cl6AcRzs
 

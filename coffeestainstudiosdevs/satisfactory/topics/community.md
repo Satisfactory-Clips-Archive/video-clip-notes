@@ -6,6 +6,7 @@ date: Last Modified
 * [Josh](../topics/community/josh.md)
 * [Joshie](../topics/community/joshie.md)
 * [Panakotta](../topics/community/panakotta.md)
+* [Smerkin](../topics/community/smerkin.md)
 * [Wiki](../topics/community/wiki.md)
 
 ## January 26th, 2021 Livestream
@@ -71,6 +72,9 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: You guys planning a Content Creator Program?](../transcriptions/yt-jfPUvIBBJVw.md) https://www.youtube.com/watch?v=jfPUvIBBJVw
 
+## June 8th, 2020 Livestream
+* [Community Highlights - Chainsaw on legs](../transcriptions/yt-tX8VDBudtuI.md) https://www.youtube.com/watch?v=tX8VDBudtuI
+
 ## February 11th, 2020 Livestream
 * [Q&A: Is this the new Desert Biome?](../transcriptions/yt-ZKHgWByn3D4.md) https://www.youtube.com/watch?v=ZKHgWByn3D4
 * [Snutt & Jace Talk: Semlor (Part 1)](../transcriptions/yt-gHxHTyslv7Q.md) https://www.youtube.com/watch?v=gHxHTyslv7Q
@@ -80,7 +84,6 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Q&A: Why two Community Managers again?](../transcriptions/yt-vr0RPVS158o.md) https://www.youtube.com/watch?v=vr0RPVS158o
 * [Q&A: Do you have to wear a hat when you become CM of Coffee Stain](../transcriptions/yt-h4V2Fx6IXyI.md) https://www.youtube.com/watch?v=h4V2Fx6IXyI
-* [Snutt & Jace Talk: Smerkin is hardcore](../transcriptions/yt-RT5R6J7dj3g.md) https://www.youtube.com/watch?v=RT5R6J7dj3g
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0
 * [Snutt Talk: Clip stuff, it makes our life a lot easier](../transcriptions/yt-hOrDM-9lNQo.md) https://www.youtube.com/watch?v=hOrDM-9lNQo
 * [Jace Talk: The QA Site](../transcriptions/yt-eaaYqnAGK0M.md) https://www.youtube.com/watch?v=eaaYqnAGK0M

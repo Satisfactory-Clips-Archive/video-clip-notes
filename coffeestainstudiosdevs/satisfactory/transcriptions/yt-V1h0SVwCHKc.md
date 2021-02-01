@@ -1,13 +1,13 @@
 ---
-title: "February 17th, 2020 Livestream Q&A: Are you going to add Potato Energy?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Q&A: Are you going to add Potato Energy?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "environment/plants"
     - "features/possible-features/farming"
     - "features/power-management"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Are you going to add Potato Energy?
 https://www.youtube.com/watch?v=V1h0SVwCHKc
 

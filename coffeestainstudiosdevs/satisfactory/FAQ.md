@@ -161,6 +161,9 @@ date: Last Modified
 ### [July 28th, 2020 Livestream](./2020-07-28.md)
 * Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5
 
+### [June 8th, 2020 Livestream](./2020-06-08.md)
+* [Q&A: Will we have other maps?](./transcriptions/yt-1-A4zqHdNKA.md) https://www.youtube.com/watch?v=1-A4zqHdNKA
+
 ### [December 19th, 2019 Livestream](./2019-12-19.md)
 * [Q&A: Underwater Worlds?](./transcriptions/yt-QXK9y3pnWGg.md) https://www.youtube.com/watch?v=QXK9y3pnWGg
 * [Q&A: Is there going to be a way to destroy the fart rock?](./transcriptions/yt-byPiSQZOAhw.md) https://www.youtube.com/watch?v=byPiSQZOAhw
@@ -379,65 +382,6 @@ date: Last Modified
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: Collect Fart Gas for fuel?](./transcriptions/yt-O5R_YmTmXUI.md) https://www.youtube.com/watch?v=O5R_YmTmXUI
 
-## [Multiplayer](./topics/features/multiplayer.md)
-
-### [January 26th, 2021 Livestream](./2021-01-26.md)
-* [Q&A: Are we going to increase the limit of only having 4 players per game?](./transcriptions/yt-9Fe7lcAQx9I.md) https://www.youtube.com/watch?v=9Fe7lcAQx9I
-* [Q&A: Dedicated Servers aka Multiplayer fixes when?](./transcriptions/yt-_XfcfZ8vfj8.md) https://www.youtube.com/watch?v=_XfcfZ8vfj8
-
-### [January 19th, 2021 Livestream](./2021-01-19.md)
-* [Q&A: What about Multiplayer Vehicle de-sync?](./transcriptions/yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw
-
-### [December 8th, 2020 Livestream](./2020-12-08.md)
-* [Q&A: Is Multiplayer desync fixed in Update 4?](./transcriptions/yt-OjiLxOBdkU8.md) https://www.youtube.com/watch?v=OjiLxOBdkU8
-
-### [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Q&A: Better Multiplayer support?](./transcriptions/yt-ECQdh3EiXws.md) https://www.youtube.com/watch?v=ECQdh3EiXws
-* [Q&A: Are you going to fix the Trains so it doesn't break in multiplayer for other people?](./transcriptions/yt-Kg29HlSMQjI.md) https://www.youtube.com/watch?v=Kg29HlSMQjI
-* [Q&A: Will Trees respawning being worked on?](./transcriptions/yt-59eW6SBaiNk.md) https://www.youtube.com/watch?v=59eW6SBaiNk
-* [Q&A: Can we go over the Freight Train fix in a little detail?](./transcriptions/yt-7vpbefcvoYI.md) https://www.youtube.com/watch?v=7vpbefcvoYI
-
-### [November 3rd, 2020 Livestream](./2020-11-03.md)
-* [Q&A: Can I play on Epic with someone on Steam?](./transcriptions/yt-zekvCEX_mv8.md) https://www.youtube.com/watch?v=zekvCEX_mv8
-
-### [October 20th, 2020 Livestream](./2020-10-20.md)
-* [Q&A: Will Dedicated Servers have Multiple Hubs?](./transcriptions/yt-GDuWS-cOFX8.md) https://www.youtube.com/watch?v=GDuWS-cOFX8
-* [Jace Talk: Multiplayer Bugs vs. Dedicated Servers](./transcriptions/yt-cKyRBdQq7JY.md) https://www.youtube.com/watch?v=cKyRBdQq7JY
-
-### [October 6th, 2020 Livestream](./2020-10-06.md)
-* Q&A: When I play offline I get a second character? https://www.youtube.com/watch?v=6EGahbkbK18
-* [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](./transcriptions/yt-RVq5k89jlEA.md) https://www.youtube.com/watch?v=RVq5k89jlEA
-
-### [September 22nd, 2020 Livestream](./2020-09-22.md)
-* [Jace & Snutt Talk: Zombie/Clone Players (part 2)](./transcriptions/yt-8Kcg4e20fMk.md) https://www.youtube.com/watch?v=8Kcg4e20fMk
-* [Jace & Snutt Talk: Zombie/Clone Players (part 1)](./transcriptions/yt-atdEe4Bm11k.md) https://www.youtube.com/watch?v=atdEe4Bm11k
-* [Q&A: Does destroying trees & rocks make the game slower like making buildings?](./transcriptions/yt-vOJIZQfzcUk.md) https://www.youtube.com/watch?v=vOJIZQfzcUk
-* [Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible?](./transcriptions/yt-v0UZaH3mXh4.md) https://www.youtube.com/watch?v=v0UZaH3mXh4
-
-### [September 8th, 2020 Livestream](./2020-09-08.md)
-* [Q&A: Should I remove all nature to improve FPS?](./transcriptions/yt-t-FNpaJUBcE.md) https://www.youtube.com/watch?v=t-FNpaJUBcE
-* [Q&A: Why not make a giant-ass World & Open Multiplayer?](./transcriptions/yt-ipZ1acgaODg.md) https://www.youtube.com/watch?v=ipZ1acgaODg
-
-### [August 25th, 2020 Livestream](./2020-08-25.md)
-* Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug? https://clips.twitch.tv/LightAcceptableCheesePermaSmug
-* Q&A: The time for multiplayer fix, can't use vehicles? https://clips.twitch.tv/PlayfulConfidentRabbitCurseLit
-* Q&A: Are you going to improve networking for multiplayer? Part 1: https://clips.twitch.tv/HomelyHyperGnatDoritosChip
-* Q&A: Are you going to improve networking for multiplayer? Part 2: https://clips.twitch.tv/SpinelessTsundereBurritoDxAbomb
-
-### [August 18th, 2020 Livestream](./2020-08-18.md)
-* Multiplayer desync issues (Part 1) https://clips.twitch.tv/AliveHomelySandwichGivePLZ
-* Multiplayer desync issues (Part 2) https://clips.twitch.tv/VastScrumptiousEyeballLeeroyJenkins
-* Multiplayer desync issues (Part 3) https://clips.twitch.tv/TsundereHandsomeBottleCharlietheUnicorn
-
-### [August 11th, 2020 Livestream](./2020-08-11.md)
-* Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
-
-### [March 24th, 2020 Livestream](./2020-03-24.md)
-* [Q&A: How will we crossplay?](./transcriptions/yt--kVvrassZVw.md) https://www.youtube.com/watch?v=-kVvrassZVw
-
-### [March 9th, 2019 Livestream](./2019-03-09.md)
-* [Q&A: Do you want to support more than 4 people?](./transcriptions/yt-wb5HY05QX9I.md) https://www.youtube.com/watch?v=wb5HY05QX9I
-
 ## [Paint](./topics/features/paint.md)
 
 ### [December 15th, 2020 Livestream](./2020-12-15.md)
@@ -646,6 +590,70 @@ date: Last Modified
 #### [January 19th, 2021 Livestream](./2021-01-19.md)
 * [Q&A: Overflow option for Valve?](./transcriptions/yt-yaqPaD8DLds.md) https://www.youtube.com/watch?v=yaqPaD8DLds
 
+## [Multiplayer](./topics/features/multiplayer.md)
+
+### [January 26th, 2021 Livestream](./2021-01-26.md)
+* [Q&A: Are we going to increase the limit of only having 4 players per game?](./transcriptions/yt-9Fe7lcAQx9I.md) https://www.youtube.com/watch?v=9Fe7lcAQx9I
+* [Q&A: Dedicated Servers aka Multiplayer fixes when?](./transcriptions/yt-_XfcfZ8vfj8.md) https://www.youtube.com/watch?v=_XfcfZ8vfj8
+
+### [January 19th, 2021 Livestream](./2021-01-19.md)
+* [Q&A: What about Multiplayer Vehicle de-sync?](./transcriptions/yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw
+
+### [December 8th, 2020 Livestream](./2020-12-08.md)
+* [Q&A: Is Multiplayer desync fixed in Update 4?](./transcriptions/yt-OjiLxOBdkU8.md) https://www.youtube.com/watch?v=OjiLxOBdkU8
+
+### [November 17th, 2020 Livestream](./2020-11-17.md)
+* [Q&A: Better Multiplayer support?](./transcriptions/yt-ECQdh3EiXws.md) https://www.youtube.com/watch?v=ECQdh3EiXws
+* [Q&A: Are you going to fix the Trains so it doesn't break in multiplayer for other people?](./transcriptions/yt-Kg29HlSMQjI.md) https://www.youtube.com/watch?v=Kg29HlSMQjI
+* [Q&A: Will Trees respawning being worked on?](./transcriptions/yt-59eW6SBaiNk.md) https://www.youtube.com/watch?v=59eW6SBaiNk
+* [Q&A: Can we go over the Freight Train fix in a little detail?](./transcriptions/yt-7vpbefcvoYI.md) https://www.youtube.com/watch?v=7vpbefcvoYI
+
+### [November 3rd, 2020 Livestream](./2020-11-03.md)
+* [Q&A: Can I play on Epic with someone on Steam?](./transcriptions/yt-zekvCEX_mv8.md) https://www.youtube.com/watch?v=zekvCEX_mv8
+
+### [October 20th, 2020 Livestream](./2020-10-20.md)
+* [Q&A: Will Dedicated Servers have Multiple Hubs?](./transcriptions/yt-GDuWS-cOFX8.md) https://www.youtube.com/watch?v=GDuWS-cOFX8
+* [Jace Talk: Multiplayer Bugs vs. Dedicated Servers](./transcriptions/yt-cKyRBdQq7JY.md) https://www.youtube.com/watch?v=cKyRBdQq7JY
+
+### [October 6th, 2020 Livestream](./2020-10-06.md)
+* Q&A: When I play offline I get a second character? https://www.youtube.com/watch?v=6EGahbkbK18
+* [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](./transcriptions/yt-RVq5k89jlEA.md) https://www.youtube.com/watch?v=RVq5k89jlEA
+
+### [September 22nd, 2020 Livestream](./2020-09-22.md)
+* [Jace & Snutt Talk: Zombie/Clone Players (part 2)](./transcriptions/yt-8Kcg4e20fMk.md) https://www.youtube.com/watch?v=8Kcg4e20fMk
+* [Jace & Snutt Talk: Zombie/Clone Players (part 1)](./transcriptions/yt-atdEe4Bm11k.md) https://www.youtube.com/watch?v=atdEe4Bm11k
+* [Q&A: Does destroying trees & rocks make the game slower like making buildings?](./transcriptions/yt-vOJIZQfzcUk.md) https://www.youtube.com/watch?v=vOJIZQfzcUk
+* [Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible?](./transcriptions/yt-v0UZaH3mXh4.md) https://www.youtube.com/watch?v=v0UZaH3mXh4
+
+### [September 8th, 2020 Livestream](./2020-09-08.md)
+* [Q&A: Should I remove all nature to improve FPS?](./transcriptions/yt-t-FNpaJUBcE.md) https://www.youtube.com/watch?v=t-FNpaJUBcE
+* [Q&A: Why not make a giant-ass World & Open Multiplayer?](./transcriptions/yt-ipZ1acgaODg.md) https://www.youtube.com/watch?v=ipZ1acgaODg
+
+### [August 25th, 2020 Livestream](./2020-08-25.md)
+* Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug? https://clips.twitch.tv/LightAcceptableCheesePermaSmug
+* Q&A: The time for multiplayer fix, can't use vehicles? https://clips.twitch.tv/PlayfulConfidentRabbitCurseLit
+* Q&A: Are you going to improve networking for multiplayer? Part 1: https://clips.twitch.tv/HomelyHyperGnatDoritosChip
+* Q&A: Are you going to improve networking for multiplayer? Part 2: https://clips.twitch.tv/SpinelessTsundereBurritoDxAbomb
+
+### [August 18th, 2020 Livestream](./2020-08-18.md)
+* Multiplayer desync issues (Part 1) https://clips.twitch.tv/AliveHomelySandwichGivePLZ
+* Multiplayer desync issues (Part 2) https://clips.twitch.tv/VastScrumptiousEyeballLeeroyJenkins
+* Multiplayer desync issues (Part 3) https://clips.twitch.tv/TsundereHandsomeBottleCharlietheUnicorn
+
+### [August 11th, 2020 Livestream](./2020-08-11.md)
+* Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
+
+### [March 9th, 2019 Livestream](./2019-03-09.md)
+* [Q&A: Do you want to support more than 4 people?](./transcriptions/yt-wb5HY05QX9I.md) https://www.youtube.com/watch?v=wb5HY05QX9I
+
+### [Crossplay](./topics/features/multiplayer/crossplay.md)
+
+#### [June 8th, 2020 Livestream](./2020-06-08.md)
+* [Q&A: Is Crossplay available?](./transcriptions/yt-MR5331unvbQ.md) https://www.youtube.com/watch?v=MR5331unvbQ
+
+#### [March 24th, 2020 Livestream](./2020-03-24.md)
+* [Q&A: How will we crossplay?](./transcriptions/yt--kVvrassZVw.md) https://www.youtube.com/watch?v=-kVvrassZVw
+
 ## Planned Features
 
 ### [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
@@ -728,6 +736,9 @@ date: Last Modified
 
 #### [July 28th, 2020 Livestream](./2020-07-28.md)
 * Q&A: Dedicated Server cost https://clips.twitch.tv/ConfidentLittleSnood4Head
+
+#### [June 8th, 2020 Livestream](./2020-06-08.md)
+* [Q&A: Dedicated Servers?](./transcriptions/yt-XuFfkTTZnoA.md) https://www.youtube.com/watch?v=XuFfkTTZnoA
 
 #### [February 11th, 2020](./2020-02-11.md)
 * [Q&A: Any news on Dedicated Servers?](./transcriptions/yt-pUhzc1Fd8sg.md) https://www.youtube.com/watch?v=pUhzc1Fd8sg

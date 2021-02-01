@@ -1,12 +1,12 @@
 ---
-title: "February 17th, 2020 Livestream Snutt Talk: People learning Swedish by setting Windows to Swedish"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Snutt Talk: People learning Swedish by setting Windows to Swedish"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers/snutt"
     - "off-topic"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt Talk: People learning Swedish by setting Windows to Swedish
 https://www.youtube.com/watch?v=7yNYQitR6B0
 

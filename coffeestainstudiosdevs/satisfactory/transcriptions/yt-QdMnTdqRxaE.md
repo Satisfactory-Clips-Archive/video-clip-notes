@@ -1,6 +1,6 @@
 ---
-title: "February 17th, 2020 Livestream Snutt & Markus Talk: Status of Dedicated Servers"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Snutt & Markus Talk: Status of Dedicated Servers"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers/markus"
@@ -8,7 +8,7 @@ topics:
     - "features/planned-features/dedicated-servers"
     - "technology/user-interface"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt & Markus Talk: Status of Dedicated Servers
 https://www.youtube.com/watch?v=QdMnTdqRxaE
 

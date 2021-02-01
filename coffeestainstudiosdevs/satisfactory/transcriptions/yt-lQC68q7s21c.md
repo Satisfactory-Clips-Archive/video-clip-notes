@@ -1,13 +1,13 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: What about Tier 8?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Q&A: What about Tier 8?"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/mark"
     - "features/tiers/tier-8"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: What about Tier 8?
 https://www.youtube.com/watch?v=lQC68q7s21c
 

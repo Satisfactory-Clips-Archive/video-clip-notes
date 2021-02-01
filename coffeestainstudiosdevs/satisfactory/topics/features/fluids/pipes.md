@@ -46,6 +46,10 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Q&A: Has Pipe Overflow been discussed? https://clips.twitch.tv/VainArtsyLeopardUncleNox
 
+## June 8th, 2020 Livestream
+* [Q&A: Can you talk a little bit about balancing for Pipes?](../../../transcriptions/yt-Pzda6aAHOYQ.md) https://www.youtube.com/watch?v=Pzda6aAHOYQ
+* [Q&A: Are there any plans for Pipes in general?](../../../transcriptions/yt-1LQhTjYMptc.md) https://www.youtube.com/watch?v=1LQhTjYMptc
+
 ## February 11th, 2020 Livestream
 * [Q&A: Is there a reason why you hate Pipes?](../../../transcriptions/yt-OsetK7Ww2zI.md) https://www.youtube.com/watch?v=OsetK7Ww2zI
 * [Snutt & Jace Talk: We can finally talk about Update 3](../../../transcriptions/yt-sThTLaqNsts.md) https://www.youtube.com/watch?v=sThTLaqNsts

@@ -1,6 +1,6 @@
 ---
-title: "February 17th, 2020 Livestream Snutt, Markus, & G2 Talk: Unreal Engine 3 vs. Unreal Engine 4"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Snutt, Markus, & G2 Talk: Unreal Engine 3 vs. Unreal Engine 4"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers/g2"
@@ -8,7 +8,7 @@ topics:
     - "off-topic/goat-simulator"
     - "technology/unreal-engine"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt, Markus, & G2 Talk: Unreal Engine 3 vs. Unreal Engine 4
 https://www.youtube.com/watch?v=lMh52dOpyUk
 

@@ -117,7 +117,7 @@ date: Last Modified
 * [Q&A: Will you be using Unreal Engine 5 for Satisfactory?](../../transcriptions/yt-Wy79gUb24es.md) https://www.youtube.com/watch?v=Wy79gUb24es
 * [Q&A: Why can't you just add lights to the game?](../../transcriptions/yt-IJdIUISe5S4.md) https://www.youtube.com/watch?v=IJdIUISe5S4
 * [Q&A: Any work on Occlusion Culling?](../../transcriptions/yt-SauDZG88AFI.md) https://www.youtube.com/watch?v=SauDZG88AFI
-* [Q&A: Optimisation passes?](../../transcriptions/yt-yOyNULmDdpc.md) https://www.youtube.com/watch?v=yOyNULmDdpc
+* [Snutt & Gafgar Talk: Optimisation passes](../../transcriptions/yt-yOyNULmDdpc.md) https://www.youtube.com/watch?v=yOyNULmDdpc
 
 ## February 11th, 2020 Livestream
 * [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) https://www.youtube.com/watch?v=jFeV8JA7NXg

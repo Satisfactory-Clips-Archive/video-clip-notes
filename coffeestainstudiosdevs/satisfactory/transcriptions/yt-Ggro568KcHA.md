@@ -1,12 +1,12 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: Does Coffee Stain have any analytics for what players do in the game?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Q&A: Does Coffee Stain have any analytics for what players do in the game?"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "features/multiplayer"
     - "features/tiers"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Does Coffee Stain have any analytics for what players do in the game?
 https://www.youtube.com/watch?v=Ggro568KcHA
 

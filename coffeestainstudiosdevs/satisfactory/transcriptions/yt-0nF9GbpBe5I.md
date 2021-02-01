@@ -1,6 +1,6 @@
 ---
-title: "February 17th, 2020 Livestream Snutt, Markus, & G2 Talk: The Modding Community"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Snutt, Markus, & G2 Talk: The Modding Community"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers/markus"
@@ -8,7 +8,7 @@ topics:
     - "mods"
     - "technology/unreal-engine"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt, Markus, & G2 Talk: The Modding Community
 https://www.youtube.com/watch?v=0nF9GbpBe5I
 

@@ -22,6 +22,9 @@ date: Last Modified
 ## September 22nd, 2020 Livestream
 * [Q&A: Farm?](../../../transcriptions/yt-2i5toplIVJo.md) https://www.youtube.com/watch?v=2i5toplIVJo
 
+## June 8th, 2020 Livestream
+* [Q&A: What do you think about Farming?](../../../transcriptions/yt-UijCvihSvzE.md) https://www.youtube.com/watch?v=UijCvihSvzE
+
 ## March 24th, 2020 Livestream
 * [Q&A: Berry Farming?](../../../transcriptions/yt-2Cq3xmLN8sQ.md) https://www.youtube.com/watch?v=2Cq3xmLN8sQ
 

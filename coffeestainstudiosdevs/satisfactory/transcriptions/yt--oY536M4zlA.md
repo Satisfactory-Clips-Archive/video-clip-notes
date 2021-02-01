@@ -1,11 +1,11 @@
 ---
-title: "May 26th, 2020 Livestream Snutt Talk: Steam Release"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Snutt Talk: Steam Release"
+date: "2020-05-19"
 layout: transcript
 topics:
     - ""
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Snutt Talk: Steam Release
 https://www.youtube.com/watch?v=-oY536M4zlA
 

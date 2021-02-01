@@ -1,11 +1,11 @@
 ---
-title: "February 17th, 2020 Livestream Q&A: How do we install Experimental on Epic?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Q&A: How do we install Experimental on Epic?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "satisfactory-updates/release-builds"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: How do we install Experimental on Epic?
 https://www.youtube.com/watch?v=XWqTKTZB0S0
 

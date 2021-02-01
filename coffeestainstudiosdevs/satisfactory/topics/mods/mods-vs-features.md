@@ -68,6 +68,9 @@ date: Last Modified
 ## July 8th, 2020 Livestream
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis
 
+## June 8th, 2020 Livestream
+* [Q&A: What is your take on new Energy sources?](../../transcriptions/yt-OS-zYJZqi-0.md) https://www.youtube.com/watch?v=OS-zYJZqi-0
+
 ## March 24th, 2020 Livestream
 * [Q&A: Creative Mode without having to Mod?](../../transcriptions/yt-ww37EE17YP4.md) https://www.youtube.com/watch?v=ww37EE17YP4
 

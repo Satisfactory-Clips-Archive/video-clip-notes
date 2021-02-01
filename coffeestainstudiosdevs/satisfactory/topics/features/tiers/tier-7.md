@@ -20,3 +20,6 @@ date: Last Modified
 
 ## August 18th, 2020 Livestream
 * Q&A: Might we see additions to Tier 7 before the end of the year? https://clips.twitch.tv/DoubtfulNaiveCroquettePeoplesChamp
+
+## June 8th, 2020 Livestream
+* [Q&A: How many Tiers does the team envision having in the game?](../../../transcriptions/yt-PdnkUetagWM.md) https://www.youtube.com/watch?v=PdnkUetagWM

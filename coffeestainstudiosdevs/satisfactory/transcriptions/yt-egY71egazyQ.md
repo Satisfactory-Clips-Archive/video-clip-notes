@@ -1,16 +1,16 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: Will crossplay launch with the Steam release?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Q&A: Will crossplay launch with the Steam release?"
+date: "2020-05-19"
 layout: transcript
 topics:
-    - "features/multiplayer"
+    - "features/multiplayer/crossplay"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Will crossplay launch with the Steam release?
 https://www.youtube.com/watch?v=egY71egazyQ
 
 ### Topics
-* [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Features > Multiplayer > Crossplay](../topics/features/multiplayer/crossplay.md)
 
 ### Transcript
 

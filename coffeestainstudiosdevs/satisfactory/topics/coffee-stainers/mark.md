@@ -10,6 +10,12 @@ date: Last Modified
 * [Q&A: Where is Mark from?](../../transcriptions/yt--nsfNFSevf4.md) https://www.youtube.com/watch?v=-nsfNFSevf4
 * [Snutt Talk: Game Director Mark](../../transcriptions/yt-G9n9eSO0l7A.md) https://www.youtube.com/watch?v=G9n9eSO0l7A
 
+## June 8th, 2020 Livestream
+* [Q&A: Can you talk a little bit about balancing for Pipes?](../../transcriptions/yt-Pzda6aAHOYQ.md) https://www.youtube.com/watch?v=Pzda6aAHOYQ
+* [Q&A: What can you tell us about priorities over the next few months?](../../transcriptions/yt-qlQSwBKwoz0.md) https://www.youtube.com/watch?v=qlQSwBKwoz0
+* [Q&A: Are there any Dutch people in Coffee Stain?](../../transcriptions/yt-ZhrRG351PsI.md) https://www.youtube.com/watch?v=ZhrRG351PsI
+* [Q&A: Where is Jace and why has he been replaced with a large child?](../../transcriptions/yt-ftJxvHWUROQ.md) https://www.youtube.com/watch?v=ftJxvHWUROQ
+
 ## May 19th, 2020 Livestream
 * [Q&A: What about Tier 8?](../../transcriptions/yt-lQC68q7s21c.md) https://www.youtube.com/watch?v=lQC68q7s21c
 

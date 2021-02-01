@@ -1,13 +1,13 @@
 ---
-title: "February 17th, 2020 Livestream Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "features/multiplayer"
     - "off-topic/goat-simulator"
     - "technology/unreal-engine"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity
 https://www.youtube.com/watch?v=jFeV8JA7NXg
 

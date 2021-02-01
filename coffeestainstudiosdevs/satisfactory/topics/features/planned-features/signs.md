@@ -18,3 +18,6 @@ date: Last Modified
 
 ## July 28th, 2020 Livestream
 * Q&A: Signs & Planets https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo
+
+## June 8th, 2020 Livestream
+* [Q&A: What about Signs?](../../../transcriptions/yt-UGKquiGR0CY.md) https://www.youtube.com/watch?v=UGKquiGR0CY

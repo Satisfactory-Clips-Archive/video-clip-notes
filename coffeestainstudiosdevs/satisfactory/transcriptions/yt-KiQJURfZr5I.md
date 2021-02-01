@@ -1,11 +1,11 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: Is the game CPU heavy, GPU heavy, or both?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Q&A: Is the game CPU heavy, GPU heavy, or both?"
+date: "2020-05-19"
 layout: transcript
 topics:
     - ""
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Is the game CPU heavy, GPU heavy, or both?
 https://www.youtube.com/watch?v=KiQJURfZr5I
 

@@ -1,12 +1,12 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: Optimisation passes?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Snutt & Gafgar Talk: Optimisation passes"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "technology/unreal-engine"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
-## Q&A: Optimisation passes?
+# [May 19th, 2020 Livestream](../2020-05-19.md)
+## Snutt & Gafgar Talk: Optimisation passes
 https://www.youtube.com/watch?v=yOyNULmDdpc
 
 ### Topics

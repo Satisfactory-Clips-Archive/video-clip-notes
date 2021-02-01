@@ -53,5 +53,8 @@ date: Last Modified
 ## July 21st, 2020 Livestream
 * Q&A: Puppies, Train Fix https://clips.twitch.tv/ColdBraveShieldSMOrc
 
+## June 8th, 2020 Livestream
+* [Q&A: What are plans for Trains?](../../../transcriptions/yt-9MVglCjtlwY.md) https://www.youtube.com/watch?v=9MVglCjtlwY
+
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0

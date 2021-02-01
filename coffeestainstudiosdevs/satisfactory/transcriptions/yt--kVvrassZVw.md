@@ -3,14 +3,14 @@ title: "March 24th, 2020 Livestream Q&A: How will we crossplay?"
 date: "2020-03-24"
 layout: transcript
 topics:
-    - "features/multiplayer"
+    - "features/multiplayer/crossplay"
 ---
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: How will we crossplay?
 https://www.youtube.com/watch?v=-kVvrassZVw
 
 ### Topics
-* [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Features > Multiplayer > Crossplay](../topics/features/multiplayer/crossplay.md)
 
 ### Transcript
 

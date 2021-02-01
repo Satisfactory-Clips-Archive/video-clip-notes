@@ -1,11 +1,11 @@
 ---
-title: "February 17th, 2020 Livestream Snutt Talk: Get back to school, Coffee Stain needs devs"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Snutt Talk: Get back to school, Coffee Stain needs devs"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt Talk: Get back to school, Coffee Stain needs devs
 https://www.youtube.com/watch?v=Ee0IFHzpEh4
 

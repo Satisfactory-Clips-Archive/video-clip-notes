@@ -16,5 +16,8 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * Q&A: Is the sink going to accept liquids in the future? https://clips.twitch.tv/ArtisticCoweringTortoiseRitzMitz
 
+## June 8th, 2020 Livestream
+* [Q&A: How about repeatable Space Elevator shipments to make more use of it?](../../../transcriptions/yt-fbCEIVUNDe0.md) https://www.youtube.com/watch?v=fbCEIVUNDe0
+
 ## January 22nd, 2020 Livestream
 * Snutt & Jace Talk: Upcoming Things https://www.youtube.com/watch?v=EiVuur226E8

@@ -30,6 +30,9 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Q&A: New Apartment? https://clips.twitch.tv/CorrectAdorableDinosaurWoofer
 
+## June 8th, 2020 Livestream
+* [Q&A: Where is Jace and why has he been replaced with a large child?](../../transcriptions/yt-ftJxvHWUROQ.md) https://www.youtube.com/watch?v=ftJxvHWUROQ
+
 ## May 19th, 2020 Livestream
 * [Q&A: What about Tier 8?](../../transcriptions/yt-lQC68q7s21c.md) https://www.youtube.com/watch?v=lQC68q7s21c
 

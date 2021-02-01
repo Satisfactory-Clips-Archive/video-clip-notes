@@ -1,12 +1,12 @@
 ---
-title: "February 17th, 2020 Livestream Q&A: Is this the thing you can buy with Coupons?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Q&A: Is this the thing you can buy with Coupons?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "features/buildings/awesome-store"
     - "trolling"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Is this the thing you can buy with Coupons?
 https://www.youtube.com/watch?v=nj-hjbu8RLA
 

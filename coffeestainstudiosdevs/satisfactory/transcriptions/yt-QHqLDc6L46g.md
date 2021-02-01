@@ -1,11 +1,11 @@
 ---
-title: "February 17th, 2020 Livestream Q&A: Is Jace not Swedish?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Q&A: Is Jace not Swedish?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Is Jace not Swedish?
 https://www.youtube.com/watch?v=QHqLDc6L46g
 

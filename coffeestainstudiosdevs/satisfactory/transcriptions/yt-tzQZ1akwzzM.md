@@ -1,15 +1,17 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: What have you had to do in order to support Multiplayer on Steam?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Snutt & Gafgar Talk: What we had to do in order to support Multiplayer on Steam"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "features/multiplayer"
+    - "features/multiplayer/crossplay"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
-## Q&A: What have you had to do in order to support Multiplayer on Steam?
+# [May 19th, 2020 Livestream](../2020-05-19.md)
+## Snutt & Gafgar Talk: What we had to do in order to support Multiplayer on Steam
 https://www.youtube.com/watch?v=tzQZ1akwzzM
 
 ### Topics
+* [Features > Multiplayer > Crossplay](../topics/features/multiplayer/crossplay.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 
 ### Transcript

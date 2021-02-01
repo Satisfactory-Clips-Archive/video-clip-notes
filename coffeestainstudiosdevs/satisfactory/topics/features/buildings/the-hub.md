@@ -63,6 +63,10 @@ date: Last Modified
 * Q&A: Sleep in-game? (Part 2) https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime
 * Q&A: Anything inside the HUB where the MAM used to be? https://clips.twitch.tv/RespectfulDreamyHabaneroMrDestructoid
 
+## June 8th, 2020 Livestream
+* [Q&A: Will there be a cosy place for the Pioneer to live in?](../../../transcriptions/yt-F0Lu47hMTD8.md) https://www.youtube.com/watch?v=F0Lu47hMTD8
+* [Q&A: Flushable Toilet?](../../../transcriptions/yt-FlaP38G7O5U.md) https://www.youtube.com/watch?v=FlaP38G7O5U
+
 ## May 19th, 2020 Livestream
 * Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing https://www.youtube.com/watch?v=HU5CtNK3rds
 

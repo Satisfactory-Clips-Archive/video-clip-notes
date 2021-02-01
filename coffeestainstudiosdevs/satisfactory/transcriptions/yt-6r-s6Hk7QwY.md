@@ -1,11 +1,11 @@
 ---
-title: "February 17th, 2020 Livestream Q&A: S.A.M. Ore?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Q&A: S.A.M. Ore?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "environment/resources/sam-ore"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: S.A.M. Ore?
 https://www.youtube.com/watch?v=6r-s6Hk7QwY
 

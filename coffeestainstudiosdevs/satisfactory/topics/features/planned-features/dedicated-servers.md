@@ -99,6 +99,9 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Q&A: Dedicated Server cost https://clips.twitch.tv/ConfidentLittleSnood4Head
 
+## June 8th, 2020 Livestream
+* [Q&A: Dedicated Servers?](../../../transcriptions/yt-XuFfkTTZnoA.md) https://www.youtube.com/watch?v=XuFfkTTZnoA
+
 ## February 11th, 2020 Livestream
 * [Q&A: Any news on Dedicated Servers?](../../../transcriptions/yt-pUhzc1Fd8sg.md) https://www.youtube.com/watch?v=pUhzc1Fd8sg
 * [Q&A: Are Dedicated Servers part of Update 3?](../../../transcriptions/yt-4BbgGgUb1rA.md) https://www.youtube.com/watch?v=4BbgGgUb1rA

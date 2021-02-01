@@ -1,11 +1,11 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: Can you talk about Story/Lore?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Q&A: Can you talk about Story/Lore?"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "story-lore"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Can you talk about Story/Lore?
 https://www.youtube.com/watch?v=juRjcmcJwkg
 

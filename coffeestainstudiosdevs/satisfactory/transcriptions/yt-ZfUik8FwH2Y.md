@@ -1,12 +1,12 @@
 ---
-title: "February 17th, 2020 Livestream Snutt & Jace Talk: What's the mood like in the Studio right now?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Snutt & Jace Talk: What's the mood like in the Studio right now?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt & Jace Talk: What's the mood like in the Studio right now?
 https://www.youtube.com/watch?v=ZfUik8FwH2Y
 

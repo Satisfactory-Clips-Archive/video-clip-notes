@@ -87,5 +87,8 @@ date: Last Modified
 ## July 8th, 2020 Livestream
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis
 
+## June 8th, 2020 Livestream
+* [Q&A: Blueprints/Mass construction - will we have it ? If not, why not?](../../../transcriptions/yt-T1w4TV8Y8Lk.md) https://www.youtube.com/watch?v=T1w4TV8Y8Lk
+
 ## March 24th, 2020 Livestream
 * [Q&A: Multiple Foundation creation?](../../../transcriptions/yt-zfdV2qIDHP4.md) https://www.youtube.com/watch?v=zfdV2qIDHP4

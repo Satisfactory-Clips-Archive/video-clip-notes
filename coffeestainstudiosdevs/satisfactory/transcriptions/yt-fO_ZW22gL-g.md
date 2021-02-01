@@ -1,13 +1,13 @@
 ---
-title: "February 17th, 2020 Livestream Q&A: Battle Royale?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Q&A: Battle Royale?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "features/possible-features/game-modes"
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "trolling"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Battle Royale?
 https://www.youtube.com/watch?v=fO_ZW22gL-g
 

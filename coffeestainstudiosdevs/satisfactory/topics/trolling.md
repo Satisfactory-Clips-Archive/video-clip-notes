@@ -59,6 +59,9 @@ date: Last Modified
 * [Trolling: Adding Cigarettes to the game](../transcriptions/yt-OvP_WQvSEuc.md) https://www.youtube.com/watch?v=OvP_WQvSEuc
 * [Trolling: Roleplay](../transcriptions/yt-woqoPQxH1aQ.md) https://www.youtube.com/watch?v=woqoPQxH1aQ
 
+## June 8th, 2020 Livestream
+* [Q&A: Will Jace and Snutt still be friends with me if I buy it on Steam?](../transcriptions/yt-Lem_s04UYBA.md) https://www.youtube.com/watch?v=Lem_s04UYBA
+
 ## March 24th, 2020 Livestream
 * Q&A: Could sell Dev Bath Water? https://www.youtube.com/watch?v=-Lqo5URgAfM
 * [Snutt & Jace Talk: Future Updates](../transcriptions/yt-yMTaDzjlfH0.md) https://www.youtube.com/watch?v=yMTaDzjlfH0

@@ -50,6 +50,9 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Jace Talk: Content & Tiers https://clips.twitch.tv/SwissFurryPlumPlanking
 
+## June 8th, 2020 Livestream
+* [Q&A: How many Tiers does the team envision having in the game?](../../transcriptions/yt-PdnkUetagWM.md) https://www.youtube.com/watch?v=PdnkUetagWM
+
 ## May 19th, 2020 Livestream
 * [Q&A: Tier 14 Toilet?](../../transcriptions/yt-d8RBkY8oP1Q.md) https://www.youtube.com/watch?v=d8RBkY8oP1Q
 * [Q&A: Does Coffee Stain have any analytics for what players do in the game?](../../transcriptions/yt-Ggro568KcHA.md) https://www.youtube.com/watch?v=Ggro568KcHA

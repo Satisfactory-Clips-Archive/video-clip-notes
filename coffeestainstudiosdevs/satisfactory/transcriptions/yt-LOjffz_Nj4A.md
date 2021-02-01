@@ -1,11 +1,11 @@
 ---
-title: "February 17th, 2020 Livestream Q&A: Biggest history of Satisfactory Updates?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Q&A: Biggest history of Satisfactory Updates?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Biggest history of Satisfactory Updates?
 https://www.youtube.com/watch?v=LOjffz_Nj4A
 

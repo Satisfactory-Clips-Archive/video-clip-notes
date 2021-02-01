@@ -1,11 +1,11 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: Will we be seeing support for Steam Workshop?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Q&A: Will we be seeing support for Steam Workshop?"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "mods/official-mod-support/steam-workshop"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Will we be seeing support for Steam Workshop?
 https://www.youtube.com/watch?v=n4fagQ4eivI
 

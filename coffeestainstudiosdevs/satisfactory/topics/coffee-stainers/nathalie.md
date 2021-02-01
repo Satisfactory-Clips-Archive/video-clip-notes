@@ -13,6 +13,9 @@ date: Last Modified
 ## November 17th, 2020 Livestream
 * [Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"](../../transcriptions/yt-hCcT5uhzwso.md) https://www.youtube.com/watch?v=hCcT5uhzwso
 
+## June 8th, 2020 Livestream
+* [Q&A: Are there any Dutch people in Coffee Stain?](../../transcriptions/yt-ZhrRG351PsI.md) https://www.youtube.com/watch?v=ZhrRG351PsI
+
 ## December 19th, 2019 Livestream
 * [Q&A: Favourite problem to solve in the UI so far?](../../transcriptions/yt-cONX37SiszU.md) https://www.youtube.com/watch?v=cONX37SiszU
 * [Q&A: What software does Nathalie use?](../../transcriptions/yt-mzJAHopMW8o.md) https://www.youtube.com/watch?v=mzJAHopMW8o

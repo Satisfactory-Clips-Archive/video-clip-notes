@@ -25,6 +25,9 @@ date: Last Modified
 ## August 18th, 2020 Livestream
 * Q&A: Additional Suit Variations in the Coupon Shop ? https://clips.twitch.tv/CourteousMotionlessWrenMcaT
 
+## June 8th, 2020 Livestream
+* [Q&A: Player skin customisation?](../../../transcriptions/yt-oJzUWOdpQ5o.md) https://www.youtube.com/watch?v=oJzUWOdpQ5o
+
 ## March 24th, 2020 Livestream
 * [Q&A: How to change your character from male to female?](../../../transcriptions/yt-o6Za1vV_Zk0.md) https://www.youtube.com/watch?v=o6Za1vV_Zk0
 * [Q&A: Can I change my character from female to male?](../../../transcriptions/yt-NFKSJi204cc.md) https://www.youtube.com/watch?v=NFKSJi204cc

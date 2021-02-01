@@ -1,13 +1,13 @@
 ---
-title: "February 17th, 2020 Livestream Q&A: Lizard Doggo plushies?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Q&A: Lizard Doggo plushies?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers/simon"
     - "environment/creatures/lizard-doggo"
     - "merch"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Lizard Doggo plushies?
 https://www.youtube.com/watch?v=SFZCi_HshCE
 

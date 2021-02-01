@@ -23,6 +23,7 @@ date: Last Modified
 * [Josh](./topics/community/josh.md)
 * [Joshie](./topics/community/joshie.md)
 * [Panakotta](./topics/community/panakotta.md)
+* [Smerkin](./topics/community/smerkin.md)
 * [Wiki](./topics/community/wiki.md)
 
 # Environment
@@ -52,7 +53,6 @@ date: Last Modified
 * [Autosave](./topics/features/autosave.md)
 * [Emotes](./topics/features/emotes.md)
 * [Gases](./topics/features/gases.md)
-* [Multiplayer](./topics/features/multiplayer.md)
 * [Paint](./topics/features/paint.md)
 * [Photo Mode](./topics/features/photo-mode.md)
 * [Pioneer](./topics/features/pioneer.md)
@@ -95,6 +95,9 @@ date: Last Modified
 * [Pipes](./topics/features/fluids/pipes.md)
 * [Pumps](./topics/features/fluids/pumps.md)
 * [Valves](./topics/features/fluids/valves.md)
+
+## [Multiplayer](./topics/features/multiplayer.md)
+* [Crossplay](./topics/features/multiplayer/crossplay.md)
 
 ## Planned Features
 * [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)

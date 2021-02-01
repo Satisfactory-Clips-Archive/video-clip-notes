@@ -219,6 +219,11 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy
 
+## June 8th, 2020 Livestream
+* [Q&A: What can you tell us about priorities over the next few months?](../../../transcriptions/yt-qlQSwBKwoz0.md) https://www.youtube.com/watch?v=qlQSwBKwoz0
+* [Q&A: What is your take on new Energy sources?](../../../transcriptions/yt-OS-zYJZqi-0.md) https://www.youtube.com/watch?v=OS-zYJZqi-0
+* [Snutt Talk: Working on Update 4 after Steam launch](../../../transcriptions/yt-YpysG6xNbhU.md) https://www.youtube.com/watch?v=YpysG6xNbhU
+
 ## May 19th, 2020 Livestream
 * [Q&A: Do you intended to do planned amount of huge Updates?](../../../transcriptions/yt-Nk53HWpUnnk.md) https://www.youtube.com/watch?v=Nk53HWpUnnk
 

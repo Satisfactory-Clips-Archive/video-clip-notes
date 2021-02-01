@@ -1,13 +1,13 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: Do you intended to do planned amount of huge Updates?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Q&A: Do you intended to do planned amount of huge Updates?"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/speculative/satisfactory-update-5"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Do you intended to do planned amount of huge Updates?
 https://www.youtube.com/watch?v=Nk53HWpUnnk
 

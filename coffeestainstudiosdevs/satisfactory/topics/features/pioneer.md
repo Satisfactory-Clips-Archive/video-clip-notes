@@ -27,5 +27,8 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Q&A: FICSIT Pioneer gender confirmed? https://clips.twitch.tv/TriangularLongOctopusOneHand
 
+## June 8th, 2020 Livestream
+* [Q&A: Will there be a cosy place for the Pioneer to live in?](../../transcriptions/yt-F0Lu47hMTD8.md) https://www.youtube.com/watch?v=F0Lu47hMTD8
+
 ## May 19th, 2020 Livestream
 * [Snutt & Gafgar Talk: Zombie Pioneers](../../transcriptions/yt-90rAQ31MQPI.md) https://www.youtube.com/watch?v=90rAQ31MQPI

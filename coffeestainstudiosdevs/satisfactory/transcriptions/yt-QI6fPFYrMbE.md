@@ -1,13 +1,13 @@
 ---
-title: "February 17th, 2020 Livestream Snutt & Jace Talk: Comparing foodstuffs to Burgers"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Snutt & Jace Talk: Comparing foodstuffs to Burgers"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "off-topic"
     - "off-topic/semlor"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt & Jace Talk: Comparing foodstuffs to Burgers
 https://www.youtube.com/watch?v=QI6fPFYrMbE
 

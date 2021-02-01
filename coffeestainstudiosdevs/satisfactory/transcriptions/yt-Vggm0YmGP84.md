@@ -1,12 +1,12 @@
 ---
-title: "February 17th, 2020 Livestream Jace Talk: We're having some fun before Update 3 releases"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Jace Talk: We're having some fun before Update 3 releases"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Jace Talk: We're having some fun before Update 3 releases
 https://www.youtube.com/watch?v=Vggm0YmGP84
 

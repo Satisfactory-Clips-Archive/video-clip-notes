@@ -1,11 +1,11 @@
 ---
-title: "May 26th, 2020 Livestream Q&A: Deactivate Fog parameter?"
-date: "2020-05-26"
+title: "May 19th, 2020 Livestream Q&A: Deactivate Fog parameter?"
+date: "2020-05-19"
 layout: transcript
 topics:
     - "technology/graphics"
 ---
-# [May 26th, 2020 Livestream](../2020-05-26.md)
+# [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Deactivate Fog parameter?
 https://www.youtube.com/watch?v=2H_QouHUoBQ
 

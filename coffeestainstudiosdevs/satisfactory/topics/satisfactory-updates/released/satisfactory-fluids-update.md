@@ -137,6 +137,11 @@ date: Last Modified
 * Quality-of-live update? (Part 3): https://clips.twitch.tv/CrunchyGlutenFreeNuggetsMingLee
 * Q&A: Some new Machines in the next update? https://clips.twitch.tv/CourteousSmellyNewtTTours
 
+## June 8th, 2020 Livestream
+* [Q&A: What can you tell us about priorities over the next few months?](../../../transcriptions/yt-qlQSwBKwoz0.md) https://www.youtube.com/watch?v=qlQSwBKwoz0
+* [Q&A: Are there any plans for Pipes in general?](../../../transcriptions/yt-1LQhTjYMptc.md) https://www.youtube.com/watch?v=1LQhTjYMptc
+* [Snutt Talk: Working on Update 4 after Steam launch](../../../transcriptions/yt-YpysG6xNbhU.md) https://www.youtube.com/watch?v=YpysG6xNbhU
+
 ## May 19th, 2020 Livestream
 * [Q&A: Do you intended to do planned amount of huge Updates?](../../../transcriptions/yt-Nk53HWpUnnk.md) https://www.youtube.com/watch?v=Nk53HWpUnnk
 

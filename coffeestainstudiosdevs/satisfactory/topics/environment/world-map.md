@@ -128,6 +128,9 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5
 
+## June 8th, 2020 Livestream
+* [Q&A: Will we have other maps?](../../transcriptions/yt-1-A4zqHdNKA.md) https://www.youtube.com/watch?v=1-A4zqHdNKA
+
 ## May 19th, 2020 Livestream
 * [Q&A: Planet has floating rocks, is not bound by Earth physics?](../../transcriptions/yt-jXwIeLGuSvI.md) https://www.youtube.com/watch?v=jXwIeLGuSvI
 

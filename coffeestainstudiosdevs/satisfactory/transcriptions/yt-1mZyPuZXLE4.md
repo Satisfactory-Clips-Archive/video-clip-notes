@@ -1,12 +1,12 @@
 ---
-title: "February 17th, 2020 Livestream Q&A: Anything narrative?"
-date: "2020-02-17"
+title: "February 11th, 2020 Livestream Q&A: Anything narrative?"
+date: "2020-02-11"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-3"
     - "story-lore"
 ---
-# [February 17th, 2020 Livestream](../2020-02-17.md)
+# [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Anything narrative?
 https://www.youtube.com/watch?v=1mZyPuZXLE4
 
