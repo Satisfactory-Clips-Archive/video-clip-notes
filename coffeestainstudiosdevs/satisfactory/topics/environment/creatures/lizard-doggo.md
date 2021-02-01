@@ -46,14 +46,14 @@ date: Last Modified
 * Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
 * Q&A: Doggo Toys? https://clips.twitch.tv/FlirtyScarySushiYouWHY
 
-## May 26th, 2020 Livestream
+## May 19th, 2020 Livestream
 * Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing https://www.youtube.com/watch?v=HU5CtNK3rds
 
 ## March 24th, 2020 Livestream
 * [Q&A: Did we miss any announcements?](../../../transcriptions/yt-Ws7_PXlK14g.md) https://www.youtube.com/watch?v=Ws7_PXlK14g
 * [Q&A: Blizzard Doggos in winter Update?](../../../transcriptions/yt-95geu_0m8ls.md) https://www.youtube.com/watch?v=95geu_0m8ls
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Lizard Doggo plushies?](../../../transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 ## March 9th, 2019 Livestream

@@ -70,7 +70,7 @@ date: Last Modified
 * [Q&A: Creative Mode without having to Mod?](../../../transcriptions/yt-ww37EE17YP4.md) https://www.youtube.com/watch?v=ww37EE17YP4
 * [Q&A: Wouldn't you split normal & Creative Mode then not allow switching?](../../../transcriptions/yt-7xTscBSrsY0.md) https://www.youtube.com/watch?v=7xTscBSrsY0
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Battle Royale?](../../../transcriptions/yt-fO_ZW22gL-g.md) https://www.youtube.com/watch?v=fO_ZW22gL-g
 * [Q&A: I just joined, thought this was Update 3?](../../../transcriptions/yt-02Zb5q8Zm5s.md) https://www.youtube.com/watch?v=02Zb5q8Zm5s
 

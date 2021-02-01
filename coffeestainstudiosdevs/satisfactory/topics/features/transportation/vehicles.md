@@ -83,7 +83,7 @@ date: Last Modified
 * Q&A: Two-seated vehicles (Part 1) https://clips.twitch.tv/OilySourBeaverAMPEnergy
 * Q&A: Two-seated vehicles (Part 2) https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Bikes in Satisfactory confirmed?](../../../transcriptions/yt-sh2faQb1DPQ.md) https://www.youtube.com/watch?v=sh2faQb1DPQ
 
 ## January 22nd, 2020 Livestream

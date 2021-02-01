@@ -64,7 +64,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Future Updates](../transcriptions/yt-yMTaDzjlfH0.md) https://www.youtube.com/watch?v=yMTaDzjlfH0
 * [Q&A: Did we miss any announcements?](../transcriptions/yt-Ws7_PXlK14g.md) https://www.youtube.com/watch?v=Ws7_PXlK14g
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Satisfactory on mobile?](../transcriptions/yt-Vb5nLTtDSpA.md) https://www.youtube.com/watch?v=Vb5nLTtDSpA
 * [Q&A: Battle Royale?](../transcriptions/yt-fO_ZW22gL-g.md) https://www.youtube.com/watch?v=fO_ZW22gL-g
 * [Q&A: Bikes in Satisfactory confirmed?](../transcriptions/yt-sh2faQb1DPQ.md) https://www.youtube.com/watch?v=sh2faQb1DPQ

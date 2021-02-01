@@ -137,7 +137,7 @@ date: Last Modified
 * Quality-of-live update? (Part 3): https://clips.twitch.tv/CrunchyGlutenFreeNuggetsMingLee
 * Q&A: Some new Machines in the next update? https://clips.twitch.tv/CourteousSmellyNewtTTours
 
-## May 26th, 2020 Livestream
+## May 19th, 2020 Livestream
 * [Q&A: Do you intended to do planned amount of huge Updates?](../../../transcriptions/yt-Nk53HWpUnnk.md) https://www.youtube.com/watch?v=Nk53HWpUnnk
 
 ## March 24th, 2020 Livestream

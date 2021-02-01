@@ -49,7 +49,7 @@ date: Last Modified
 ## August 18th, 2020 Livestream
 * Q&A: Is 1.0 the end of the game or will it be expanded? https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace
 
-## May 26th, 2020 Livestream
+## May 19th, 2020 Livestream
 * [Q&A: Tier 14 Toilet?](../../../transcriptions/yt-d8RBkY8oP1Q.md) https://www.youtube.com/watch?v=d8RBkY8oP1Q
 
 ## March 24th, 2020 Livestream

@@ -43,7 +43,7 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * [State of Dev: Update 3, Steam Release](../../transcriptions/yt-Y__cl6AcRzs.md) https://www.youtube.com/watch?v=Y__cl6AcRzs
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: How big is the Update going to be?](../../transcriptions/yt-yQe_yYHAwsQ.md) https://www.youtube.com/watch?v=yQe_yYHAwsQ
 * [Q&A: Satisfactory on mobile?](../../transcriptions/yt-Vb5nLTtDSpA.md) https://www.youtube.com/watch?v=Vb5nLTtDSpA
 * [Q&A: How long will it be on Experimental?](../../transcriptions/yt-SiKHL4mgM40.md) https://www.youtube.com/watch?v=SiKHL4mgM40

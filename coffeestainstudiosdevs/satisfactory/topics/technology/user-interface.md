@@ -89,7 +89,7 @@ date: Last Modified
 * [Q&A: Third-person Camera option?](../../transcriptions/yt-hWRM_bQHXzc.md) https://www.youtube.com/watch?v=hWRM_bQHXzc
 * [Q&A: Can we turn of ADA notifications?](../../transcriptions/yt-w2S15UcuaUs.md) https://www.youtube.com/watch?v=w2S15UcuaUs
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Snutt & Markus Talk: Status of Dedicated Servers](../../transcriptions/yt-QdMnTdqRxaE.md) https://www.youtube.com/watch?v=QdMnTdqRxaE
 
 ## January 22nd, 2020 Livestream

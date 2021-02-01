@@ -22,7 +22,7 @@ date: Last Modified
 ## September 22nd, 2020 Livestream
 * [Jace & Snutt Talk: Story](../../../transcriptions/yt-vPWShxAn3io.md) https://www.youtube.com/watch?v=vPWShxAn3io
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Mercer Spheres?](../../../transcriptions/yt-9VS0lGfDZ1k.md) https://www.youtube.com/watch?v=9VS0lGfDZ1k
 
 ## December 19th, 2019 Livestream

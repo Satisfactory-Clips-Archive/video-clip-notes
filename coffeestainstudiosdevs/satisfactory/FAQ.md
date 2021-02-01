@@ -22,7 +22,7 @@ date: Last Modified
 
 ## [Simon](./topics/coffee-stainers/simon.md)
 
-### [February 17th, 2020](./2020-02-17.md)
+### [February 11th, 2020](./2020-02-11.md)
 * [Q&A: Lizard Doggo plushies?](./transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 # [Community](./topics/community.md)
@@ -285,7 +285,7 @@ date: Last Modified
 * Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
 * Q&A: Doggo Toys? https://clips.twitch.tv/FlirtyScarySushiYouWHY
 
-#### [February 17th, 2020](./2020-02-17.md)
+#### [February 11th, 2020](./2020-02-11.md)
 * [Q&A: Lizard Doggo plushies?](./transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
@@ -339,7 +339,7 @@ date: Last Modified
 #### [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Please tell me Update 4 will use S.A.M. Ore https://clips.twitch.tv/ArtisticGlutenFreeSpindleDxAbomb
 
-#### [February 17th, 2020](./2020-02-17.md)
+#### [February 11th, 2020](./2020-02-11.md)
 * [Q&A: S.A.M. Ore?](./transcriptions/yt-6r-s6Hk7QwY.md) https://www.youtube.com/watch?v=6r-s6Hk7QwY
 
 #### [December 19th, 2019 Livestream](./2019-12-19.md)
@@ -454,8 +454,8 @@ date: Last Modified
 ### [October 13th, 2020 Livestream](./2020-10-13.md)
 * [Q&A: Is the Pioneer a human?](./transcriptions/yt-I0al2jSp_Rk.md) https://www.youtube.com/watch?v=I0al2jSp_Rk
 
-### [May 26th, 2020 Livestream](./2020-05-26.md)
-* [Q&A: Zombie Pioneers?](./transcriptions/yt-90rAQ31MQPI.md) https://www.youtube.com/watch?v=90rAQ31MQPI
+### [May 19th, 2020 Livestream](./2020-05-19.md)
+* [Snutt & Gafgar Talk: Zombie Pioneers](./transcriptions/yt-90rAQ31MQPI.md) https://www.youtube.com/watch?v=90rAQ31MQPI
 
 ## [Accessibility](./topics/features/accessibility.md)
 
@@ -729,7 +729,7 @@ date: Last Modified
 #### [July 28th, 2020 Livestream](./2020-07-28.md)
 * Q&A: Dedicated Server cost https://clips.twitch.tv/ConfidentLittleSnood4Head
 
-#### [February 17th, 2020](./2020-02-17.md)
+#### [February 11th, 2020](./2020-02-11.md)
 * [Q&A: Any news on Dedicated Servers?](./transcriptions/yt-pUhzc1Fd8sg.md) https://www.youtube.com/watch?v=pUhzc1Fd8sg
 
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
@@ -760,7 +760,7 @@ date: Last Modified
 #### [September 22nd, 2020 Livestream](./2020-09-22.md)
 * [Q&A: How about lighting?](./transcriptions/yt-WDfN-WpIJXY.md) https://www.youtube.com/watch?v=WDfN-WpIJXY
 
-#### [May 26th, 2020 Livestream](./2020-05-26.md)
+#### [May 19th, 2020 Livestream](./2020-05-19.md)
 * [Q&A: Why can't you just add lights to the game?](./transcriptions/yt-IJdIUISe5S4.md) https://www.youtube.com/watch?v=IJdIUISe5S4
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
@@ -827,7 +827,7 @@ date: Last Modified
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
 * [Q&A: Satisfactory on the next Console generation?](./transcriptions/yt-9bez-QIVKLA.md) https://www.youtube.com/watch?v=9bez-QIVKLA
 
-#### [February 17th, 2020](./2020-02-17.md)
+#### [February 11th, 2020](./2020-02-11.md)
 * [Q&A: Is Satisfactory going to be on PS5/PS6?](./transcriptions/yt-1v4Mho5Uh9I.md) https://www.youtube.com/watch?v=1v4Mho5Uh9I
 
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
@@ -1330,7 +1330,7 @@ date: Last Modified
 ## [November 24th, 2020 Livestream](./2020-11-24.md)
 * [Q&A: What other languages are going to be added?](./transcriptions/yt-xpzqQntBUgw.md) https://www.youtube.com/watch?v=xpzqQntBUgw
 
-## [February 17th, 2020](./2020-02-17.md)
+## [February 11th, 2020](./2020-02-11.md)
 * [Q&A: How does one help with localisation?](./transcriptions/yt-uLblaRDOX4Y.md) https://www.youtube.com/watch?v=uLblaRDOX4Y
 
 ## [January 22nd, 2020 Livestream](./2020-01-22.md)
@@ -1415,7 +1415,7 @@ date: Last Modified
 ## [July 28th, 2020 Livestream](./2020-07-28.md)
 * Q&A: Coffee Mug? https://clips.twitch.tv/SpunkyHyperWasabi4Head
 
-## [February 17th, 2020](./2020-02-17.md)
+## [February 11th, 2020](./2020-02-11.md)
 * [Q&A: Lizard Doggo plushies?](./transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 ## [March 9th, 2019 Livestream](./2019-03-09.md)
@@ -1516,7 +1516,7 @@ date: Last Modified
 #### [September 15th, 2020 Livestream](./2020-09-15.md)
 * [Q&A: Official Mod support?](./transcriptions/yt-0M3RKdwK5mA.md) https://www.youtube.com/watch?v=0M3RKdwK5mA
 
-#### [May 26th, 2020 Livestream](./2020-05-26.md)
+#### [May 19th, 2020 Livestream](./2020-05-19.md)
 * [Q&A: Will we be seeing support for Steam Workshop?](./transcriptions/yt-n4fagQ4eivI.md) https://www.youtube.com/watch?v=n4fagQ4eivI
 
 # [Off-Topic](./topics/off-topic.md)
@@ -1549,7 +1549,7 @@ date: Last Modified
 ### [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp
 
-### [February 17th, 2020](./2020-02-17.md)
+### [February 11th, 2020](./2020-02-11.md)
 * [Q&A: How long will it be on Experimental?](./transcriptions/yt-SiKHL4mgM40.md) https://www.youtube.com/watch?v=SiKHL4mgM40
 
 ### [January 22nd, 2020 Livestream](./2020-01-22.md)
@@ -1738,7 +1738,7 @@ date: Last Modified
 
 ### [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
 
-#### [February 17th, 2020](./2020-02-17.md)
+#### [February 11th, 2020](./2020-02-11.md)
 * [Q&A: Should/Can we start a new save?](./transcriptions/yt-wKvUpRb-FHw.md) https://www.youtube.com/watch?v=wKvUpRb-FHw
 * [Q&A: How long will it be on Experimental?](./transcriptions/yt-SiKHL4mgM40.md) https://www.youtube.com/watch?v=SiKHL4mgM40
 * [Q&A: Anything narrative?](./transcriptions/yt-1mZyPuZXLE4.md) https://www.youtube.com/watch?v=1mZyPuZXLE4
@@ -1862,7 +1862,7 @@ date: Last Modified
 ## [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John
 
-## [February 17th, 2020](./2020-02-17.md)
+## [February 11th, 2020](./2020-02-11.md)
 * [Q&A: Anything narrative?](./transcriptions/yt-1mZyPuZXLE4.md) https://www.youtube.com/watch?v=1mZyPuZXLE4
 
 ## [January 22nd, 2020 Livestream](./2020-01-22.md)
@@ -1990,7 +1990,7 @@ date: Last Modified
 * Build Limit (Part 5): https://clips.twitch.tv/GiantGeniusGooseCclamChamp
 * Build Limit (Part 6): https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ
 
-### [May 26th, 2020 Livestream](./2020-05-26.md)
+### [May 19th, 2020 Livestream](./2020-05-19.md)
 * [Q&A: Will you be using Unreal Engine 5 for Satisfactory?](./transcriptions/yt-Wy79gUb24es.md) https://www.youtube.com/watch?v=Wy79gUb24es
 * [Q&A: Why can't you just add lights to the game?](./transcriptions/yt-IJdIUISe5S4.md) https://www.youtube.com/watch?v=IJdIUISe5S4
 

@@ -10,7 +10,7 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * Q&A: Will there be new items coming to the AWESOME Shop between now and Update 4? https://clips.twitch.tv/PerfectNurturingTrollRiPepperonis
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Are we going to be able to use items from the shop in different saves?](../../../transcriptions/yt-SCcS2Wdqfs4.md) https://www.youtube.com/watch?v=SCcS2Wdqfs4
 * [Q&A: Is this the thing you can buy with Coupons?](../../../transcriptions/yt-nj-hjbu8RLA.md) https://www.youtube.com/watch?v=nj-hjbu8RLA
 * [Q&A: What are the coupons for?](../../../transcriptions/yt-a5Ej8K5AHos.md) https://www.youtube.com/watch?v=a5Ej8K5AHos

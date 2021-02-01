@@ -36,7 +36,7 @@ date: Last Modified
 * Q&A: Will light be added to the game? (Part 2) https://clips.twitch.tv/NeighborlyCharmingBasenjiRlyTho
 * Q&A: Will light be added to the game? (Part 3) https://clips.twitch.tv/AbnegateEndearingBottleKlappa
 
-## May 26th, 2020 Livestream
+## May 19th, 2020 Livestream
 * [Q&A: What does Performance Budget mean?](../../../transcriptions/yt-qg27gPorXB4.md) https://www.youtube.com/watch?v=qg27gPorXB4
 * [Q&A: Why can't you just add lights to the game?](../../../transcriptions/yt-IJdIUISe5S4.md) https://www.youtube.com/watch?v=IJdIUISe5S4
 

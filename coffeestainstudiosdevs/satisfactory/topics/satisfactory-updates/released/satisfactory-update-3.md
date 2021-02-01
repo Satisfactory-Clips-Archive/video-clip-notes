@@ -19,7 +19,7 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * [State of Dev: Update 3, Steam Release](../../../transcriptions/yt-Y__cl6AcRzs.md) https://www.youtube.com/watch?v=Y__cl6AcRzs
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Biggest history of Satisfactory Updates?](../../../transcriptions/yt-LOjffz_Nj4A.md) https://www.youtube.com/watch?v=LOjffz_Nj4A
 * [Q&A: How big is the Update going to be?](../../../transcriptions/yt-yQe_yYHAwsQ.md) https://www.youtube.com/watch?v=yQe_yYHAwsQ
 * [Q&A: Why the secrecy?](../../../transcriptions/yt-RIDb5diAEgE.md) https://www.youtube.com/watch?v=RIDb5diAEgE

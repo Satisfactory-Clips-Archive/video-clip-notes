@@ -48,7 +48,7 @@ date: Last Modified
 ## August 18th, 2020 Livestream
 * Q&A: Is Satisfactory affected by Epic vs. Apple? https://clips.twitch.tv/FurryAwkwardStrawberryWoofer
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Snutt Talk: People learning Swedish by setting Windows to Swedish](../transcriptions/yt-7yNYQitR6B0.md) https://www.youtube.com/watch?v=7yNYQitR6B0
 * [Snutt & Jace Talk: The Table](../transcriptions/yt-qjrhU8HuT3E.md) https://www.youtube.com/watch?v=qjrhU8HuT3E
 * [Q&A: Unreal vs. Unity?](../transcriptions/yt-CvlS6rkrPu4.md) https://www.youtube.com/watch?v=CvlS6rkrPu4

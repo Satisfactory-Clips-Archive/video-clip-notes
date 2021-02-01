@@ -14,7 +14,7 @@ date: Last Modified
 ## August 18th, 2020 Livestream
 * Q&A: Are vehicles going to get less sketchy or are we always getting Goat Simulator physics? https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) https://www.youtube.com/watch?v=jFeV8JA7NXg
 * [Snutt, Markus, & G2 Talk: Unreal Engine 3 vs. Unreal Engine 4](../../transcriptions/yt-lMh52dOpyUk.md) https://www.youtube.com/watch?v=lMh52dOpyUk
 

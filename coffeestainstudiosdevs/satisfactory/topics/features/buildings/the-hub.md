@@ -63,7 +63,7 @@ date: Last Modified
 * Q&A: Sleep in-game? (Part 2) https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime
 * Q&A: Anything inside the HUB where the MAM used to be? https://clips.twitch.tv/RespectfulDreamyHabaneroMrDestructoid
 
-## May 26th, 2020 Livestream
+## May 19th, 2020 Livestream
 * Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing https://www.youtube.com/watch?v=HU5CtNK3rds
 
 ## December 19th, 2019 Livestream

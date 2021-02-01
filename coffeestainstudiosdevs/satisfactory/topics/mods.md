@@ -71,7 +71,7 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Snutt, Markus, & G2 Talk: The Modding Community](../transcriptions/yt-0nF9GbpBe5I.md) https://www.youtube.com/watch?v=0nF9GbpBe5I
 
 ## January 22nd, 2020 Livestream

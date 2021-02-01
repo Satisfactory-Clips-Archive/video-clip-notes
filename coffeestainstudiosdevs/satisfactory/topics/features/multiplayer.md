@@ -105,7 +105,7 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
 
-## May 26th, 2020 Livestream
+## May 19th, 2020 Livestream
 * [Q&A: What does Performance Budget mean?](../../transcriptions/yt-qg27gPorXB4.md) https://www.youtube.com/watch?v=qg27gPorXB4
 * [Q&A: Does Coffee Stain have any analytics for what players do in the game?](../../transcriptions/yt-Ggro568KcHA.md) https://www.youtube.com/watch?v=Ggro568KcHA
 * [Q&A: What have you had to do in order to support Multiplayer on Steam?](../../transcriptions/yt-tzQZ1akwzzM.md) https://www.youtube.com/watch?v=tzQZ1akwzzM
@@ -122,7 +122,7 @@ date: Last Modified
 * [Q&A: How will we crossplay?](../../transcriptions/yt--kVvrassZVw.md) https://www.youtube.com/watch?v=-kVvrassZVw
 * [Q&A: How high is Multiplayer bugfixing on the priority list?](../../transcriptions/yt-mvSWBd42JYM.md) https://www.youtube.com/watch?v=mvSWBd42JYM
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) https://www.youtube.com/watch?v=jFeV8JA7NXg
 * [Snutt & Markus Talk: Status of Dedicated Servers](../../transcriptions/yt-QdMnTdqRxaE.md) https://www.youtube.com/watch?v=QdMnTdqRxaE
 * [Snutt Talk: There's so many things I want to fix & do](../../transcriptions/yt-jNQ4IPihWUY.md) https://www.youtube.com/watch?v=jNQ4IPihWUY

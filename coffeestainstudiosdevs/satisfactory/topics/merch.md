@@ -101,7 +101,7 @@ date: Last Modified
 * [Q&A: Merch?](../transcriptions/yt-PIlduefx6Vk.md) https://www.youtube.com/watch?v=PIlduefx6Vk
 * Q&A: Could sell Dev Bath Water? https://www.youtube.com/watch?v=-Lqo5URgAfM
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Merch?](../transcriptions/yt-1Mdtq6Ytb1g.md) https://www.youtube.com/watch?v=1Mdtq6Ytb1g
 * [Q&A: Lizard Doggo plushies?](../transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 * [Q&A: I'd love your Coffee?](../transcriptions/yt-BGRyEeiW078.md) https://www.youtube.com/watch?v=BGRyEeiW078

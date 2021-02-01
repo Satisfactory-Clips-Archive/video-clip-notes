@@ -4,7 +4,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 2
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Did you crunch for Update 3?](../../../transcriptions/yt-BwJG6ZHR7Io.md) https://www.youtube.com/watch?v=BwJG6ZHR7Io
 
 ## January 22nd, 2020 Livestream

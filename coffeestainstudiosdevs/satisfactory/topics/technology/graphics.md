@@ -103,7 +103,7 @@ date: Last Modified
 * Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt
 * Snutt Talk: VR Support https://clips.twitch.tv/DullScrumptiousEagleStinkyCheese
 
-## May 26th, 2020 Livestream
+## May 19th, 2020 Livestream
 * [Q&A: What does Performance Budget mean?](../../transcriptions/yt-qg27gPorXB4.md) https://www.youtube.com/watch?v=qg27gPorXB4
 * [Q&A: Deactivate Fog parameter?](../../transcriptions/yt-2H_QouHUoBQ.md) https://www.youtube.com/watch?v=2H_QouHUoBQ
 * [Q&A: Any work on Occlusion Culling?](../../transcriptions/yt-SauDZG88AFI.md) https://www.youtube.com/watch?v=SauDZG88AFI
@@ -111,7 +111,7 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * [Q&A: Third-person Camera option?](../../transcriptions/yt-hWRM_bQHXzc.md) https://www.youtube.com/watch?v=hWRM_bQHXzc
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Snutt Talk: There's so many things I want to fix & do](../../transcriptions/yt-jNQ4IPihWUY.md) https://www.youtube.com/watch?v=jNQ4IPihWUY
 
 ## March 9th, 2019 Livestream

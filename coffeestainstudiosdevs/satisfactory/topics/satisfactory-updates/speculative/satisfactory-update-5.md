@@ -23,5 +23,5 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
 
-## May 26th, 2020 Livestream
+## May 19th, 2020 Livestream
 * [Q&A: Do you intended to do planned amount of huge Updates?](../../../transcriptions/yt-Nk53HWpUnnk.md) https://www.youtube.com/watch?v=Nk53HWpUnnk

@@ -48,13 +48,13 @@ layout: index
 * [July 28th, 2020](2020-07-28.md)
 
 # May 2020
-* [May 26th, 2020](2020-05-26.md)
+* [May 19th, 2020](2020-05-19.md)
 
 # March 2020
 * [March 24th, 2020](2020-03-24.md)
 
 # February 2020
-* [February 17th, 2020](2020-02-17.md)
+* [February 11th, 2020](2020-02-11.md)
 
 # January 2020
 * [January 22nd, 2020](2020-01-22.md)

@@ -13,7 +13,7 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * Q&A: Please make the Walking Bean stop clipping https://clips.twitch.tv/WanderingGloriousWallabyPunchTrees
 
-## May 26th, 2020 Livestream
+## May 19th, 2020 Livestream
 * Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing https://www.youtube.com/watch?v=HU5CtNK3rds
 
 ## March 9th, 2019 Livestream

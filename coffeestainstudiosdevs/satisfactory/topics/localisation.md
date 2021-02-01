@@ -17,7 +17,7 @@ date: Last Modified
 ## September 22nd, 2020 Livestream
 * [Snutt Talk: Localisation Update](../transcriptions/yt-olB0GBC1sZI.md) https://www.youtube.com/watch?v=olB0GBC1sZI
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Are the builds already translated?](../transcriptions/yt-0W8y6KDem6U.md) https://www.youtube.com/watch?v=0W8y6KDem6U
 * [Q&A: How does one help with localisation?](../transcriptions/yt-uLblaRDOX4Y.md) https://www.youtube.com/watch?v=uLblaRDOX4Y
 

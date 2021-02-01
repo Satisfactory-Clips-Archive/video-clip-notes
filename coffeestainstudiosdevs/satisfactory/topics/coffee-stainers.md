@@ -41,7 +41,7 @@ date: Last Modified
 * [Q&A: You have several job openings right now?](../transcriptions/yt-lqRP7DsUVes.md) https://www.youtube.com/watch?v=lqRP7DsUVes
 * [Snutt & Jace Talk: We don't plan very well at all](../transcriptions/yt-uNWZuo9AxdM.md) https://www.youtube.com/watch?v=uNWZuo9AxdM
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Snutt Talk: Get back to school, Coffee Stain needs devs](../transcriptions/yt-Ee0IFHzpEh4.md) https://www.youtube.com/watch?v=Ee0IFHzpEh4
 * [Q&A: Did you crunch for Update 3?](../transcriptions/yt-BwJG6ZHR7Io.md) https://www.youtube.com/watch?v=BwJG6ZHR7Io
 * [Jace Talk: Funny roulette story](../transcriptions/yt-8Cw56ZD9syU.md) https://www.youtube.com/watch?v=8Cw56ZD9syU

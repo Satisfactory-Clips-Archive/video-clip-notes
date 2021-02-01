@@ -32,7 +32,7 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * Q&A: Will there be any new music soundtracks in the future? https://clips.twitch.tv/UgliestArbitraryOwlDatBoi
 
-## May 26th, 2020 Livestream
+## May 19th, 2020 Livestream
 * [Q&A: Will there be a Soundtrack release?](../transcriptions/yt-XswfSsanpDo.md) https://www.youtube.com/watch?v=XswfSsanpDo
 
 ## March 24th, 2020 Livestream

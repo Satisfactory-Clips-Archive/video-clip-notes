@@ -30,7 +30,7 @@ date: Last Modified
 * Q&A: S.A.M. Ore uses? https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis
 * Q&A: Coffee Cups are made out of S.A.M. Ore? https://clips.twitch.tv/SuspiciousImportantOryxSquadGoals
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: S.A.M. Ore?](../../../transcriptions/yt-6r-s6Hk7QwY.md) https://www.youtube.com/watch?v=6r-s6Hk7QwY
 
 ## December 19th, 2019 Livestream

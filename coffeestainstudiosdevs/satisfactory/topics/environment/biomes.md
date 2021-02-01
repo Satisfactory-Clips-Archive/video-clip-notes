@@ -38,7 +38,7 @@ date: Last Modified
 ## September 8th, 2020 Livestream
 * [Q&A: Even more Biomes coming to play?](../../transcriptions/yt-VgDl00Ycn3U.md) https://www.youtube.com/watch?v=VgDl00Ycn3U
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Is this the new Desert Biome?](../../transcriptions/yt-ZKHgWByn3D4.md) https://www.youtube.com/watch?v=ZKHgWByn3D4
 
 ## March 9th, 2019 Livestream

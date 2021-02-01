@@ -71,7 +71,7 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: You guys planning a Content Creator Program?](../transcriptions/yt-jfPUvIBBJVw.md) https://www.youtube.com/watch?v=jfPUvIBBJVw
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Is this the new Desert Biome?](../transcriptions/yt-ZKHgWByn3D4.md) https://www.youtube.com/watch?v=ZKHgWByn3D4
 * [Snutt & Jace Talk: Semlor (Part 1)](../transcriptions/yt-gHxHTyslv7Q.md) https://www.youtube.com/watch?v=gHxHTyslv7Q
 * Snutt & Jace Talk: Update 3 Launch Stream https://www.youtube.com/watch?v=omrl422pdJQ

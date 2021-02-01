@@ -14,7 +14,7 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * Q&A: When are the Wind Turbines that Jace leaked coming? https://www.youtube.com/watch?v=nRMTYlLqiSc
 
-## February 17th, 2020 Livestream
+## February 11th, 2020 Livestream
 * [Q&A: Lizard Doggo plushies?](../../transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 ## December 19th, 2019 Livestream
