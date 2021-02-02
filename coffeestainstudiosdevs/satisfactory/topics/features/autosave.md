@@ -11,10 +11,10 @@ date: Last Modified
 * [Q&A: Any chance of Autosave process not creating giant frame drops ?](../../transcriptions/yt-L6SZHtX7Jmg.md) https://www.youtube.com/watch?v=L6SZHtX7Jmg
 
 ## August 25th, 2020 Livestream
-* Q&A: Better Autosave system? https://www.youtube.com/watch?v=EGl4PxUS0J8
-* Snutt Talk: If you think Autosave is annoying https://www.youtube.com/watch?v=21diy9LWH8g
-* Q&A: Is it possible to have the Autosave not noticeable at all ? https://www.youtube.com/watch?v=ap-EONXus_4
-* Q&A: Removing vegetation speeds up the game, yes or no ? https://www.youtube.com/watch?v=GgoQS6sOADQ
+* [Q&A: Better Autosave system?](../../transcriptions/yt-EGl4PxUS0J8.md) https://www.youtube.com/watch?v=EGl4PxUS0J8
+* [Snutt Talk: If you think Autosave is annoying](../../transcriptions/yt-21diy9LWH8g.md) https://www.youtube.com/watch?v=21diy9LWH8g
+* [Q&A: Is it possible to have the Autosave not noticeable at all ?](../../transcriptions/yt-ap-EONXus_4.md) https://www.youtube.com/watch?v=ap-EONXus_4
+* [Q&A: Removing vegetation speeds up the game, yes or no ?](../../transcriptions/yt-GgoQS6sOADQ.md) https://www.youtube.com/watch?v=GgoQS6sOADQ
 * Q&A: Better Autosave system? https://clips.twitch.tv/CarefulBashfulHyenaWOOP
 * Snutt Talk: If you think Autosave is annoying https://clips.twitch.tv/InventiveStylishGerbilWow
 * Q&A: Is it possible to have the Autosave not noticeable at all ? https://clips.twitch.tv/ThirstyTubularHamMikeHogu

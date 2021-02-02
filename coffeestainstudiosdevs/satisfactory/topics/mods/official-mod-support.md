@@ -26,7 +26,7 @@ date: Last Modified
 * [Q&A: Official Mod support?](../../transcriptions/yt-0M3RKdwK5mA.md) https://www.youtube.com/watch?v=0M3RKdwK5mA
 
 ## August 25th, 2020 Livestream
-* Q&A: Plans for mod support? https://www.youtube.com/watch?v=iOk7KMpNMEo
+* [Q&A: Plans for mod support?](../../transcriptions/yt-iOk7KMpNMEo.md) https://www.youtube.com/watch?v=iOk7KMpNMEo
 * Plans for mod support? (Part 1) https://clips.twitch.tv/OnerousDeterminedMoonRlyTho
 * Plans for mod support? (Part 2) https://clips.twitch.tv/CreativeOptimisticWalrusSwiftRage
 * Plans for mod support? (Part 3) https://clips.twitch.tv/HumbleRenownedTofuLitty

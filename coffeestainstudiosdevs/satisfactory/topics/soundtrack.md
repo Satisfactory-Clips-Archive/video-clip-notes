@@ -30,7 +30,7 @@ date: Last Modified
 * [Q&A: Are you considering adding more music to the game?](../transcriptions/yt-iDyPOcW0o5E.md) https://www.youtube.com/watch?v=iDyPOcW0o5E
 
 ## August 25th, 2020 Livestream
-* Q&A: Will there be any new music soundtracks in the future? https://www.youtube.com/watch?v=vg0kvdyXANY
+* [Q&A: Will there be any new music soundtracks in the future?](../transcriptions/yt-vg0kvdyXANY.md) https://www.youtube.com/watch?v=vg0kvdyXANY
 * Q&A: Will there be any new music soundtracks in the future? https://clips.twitch.tv/UgliestArbitraryOwlDatBoi
 
 ## May 19th, 2020 Livestream

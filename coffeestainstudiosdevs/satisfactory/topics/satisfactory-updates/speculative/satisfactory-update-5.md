@@ -21,11 +21,11 @@ date: Last Modified
 * [Q&A: Are you going to share something important related to next Updates?](../../../transcriptions/yt-Kx9TTDecZe4.md) https://www.youtube.com/watch?v=Kx9TTDecZe4
 
 ## August 25th, 2020 Livestream
-* State of Dev: Update 4 & Update 5 https://www.youtube.com/watch?v=e-51TRYTVg8
-* Q&A: Quality-of-life update? https://www.youtube.com/watch?v=cwWUYRciIoc
-* Q&A: New enemies / creatures? https://www.youtube.com/watch?v=TDbNru0heoU
-* Q&A: Are there internal discussions to significantly rework existing buildings like refineries? https://www.youtube.com/watch?v=x07FQZjbA_c
-* Q&A: When's Tier 8 coming? https://www.youtube.com/watch?v=plexfdPIaSw
+* [State of Dev: Update 4 & Update 5](../../../transcriptions/yt-e-51TRYTVg8.md) https://www.youtube.com/watch?v=e-51TRYTVg8
+* [Q&A: Quality-of-life update?](../../../transcriptions/yt-cwWUYRciIoc.md) https://www.youtube.com/watch?v=cwWUYRciIoc
+* [Q&A: New enemies / creatures?](../../../transcriptions/yt-TDbNru0heoU.md) https://www.youtube.com/watch?v=TDbNru0heoU
+* [Q&A: Are there internal discussions to significantly rework existing buildings like refineries?](../../../transcriptions/yt-x07FQZjbA_c.md) https://www.youtube.com/watch?v=x07FQZjbA_c
+* [Q&A: When's Tier 8 coming?](../../../transcriptions/yt-plexfdPIaSw.md) https://www.youtube.com/watch?v=plexfdPIaSw
 * Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
 
 ## May 19th, 2020 Livestream

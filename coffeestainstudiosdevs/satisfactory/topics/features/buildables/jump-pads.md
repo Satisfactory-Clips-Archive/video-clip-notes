@@ -16,6 +16,6 @@ date: Last Modified
 * [Q&A: Can you change the angle of the new jump pad after you build it?](../../../transcriptions/yt-UJJgwCUqVWs.md) https://www.youtube.com/watch?v=UJJgwCUqVWs
 
 ## August 25th, 2020 Livestream
-* Q&A: Can we get an indicator for the launch line from the Launch Pad? https://www.youtube.com/watch?v=YwYLlE8veKs
-* Q&A: What can the Cyber Wagon do? https://www.youtube.com/watch?v=mL4yeGMg3ms
+* [Q&A: Can we get an indicator for the launch line from the Launch Pad?](../../../transcriptions/yt-YwYLlE8veKs.md) https://www.youtube.com/watch?v=YwYLlE8veKs
+* [Q&A: What can the Cyber Wagon do?](../../../transcriptions/yt-mL4yeGMg3ms.md) https://www.youtube.com/watch?v=mL4yeGMg3ms
 * Q&A: Can we get an indicator for the launch line from the Launch Pad? https://clips.twitch.tv/ShakingBlushingLampNerfRedBlaster

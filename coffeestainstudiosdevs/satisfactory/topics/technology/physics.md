@@ -18,4 +18,4 @@ date: Last Modified
 * [Q&A: How high on the priority list is Truck Physics?](../../transcriptions/yt-RdNktCE1Pek.md) https://www.youtube.com/watch?v=RdNktCE1Pek
 
 ## August 25th, 2020 Livestream
-* Q&A: Can you make modular vehicles? https://www.youtube.com/watch?v=k6hkL7fE6OQ
+* [Q&A: Can you make modular vehicles?](../../transcriptions/yt-k6hkL7fE6OQ.md) https://www.youtube.com/watch?v=k6hkL7fE6OQ

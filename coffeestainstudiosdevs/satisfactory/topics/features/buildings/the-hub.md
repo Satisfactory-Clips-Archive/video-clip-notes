@@ -49,11 +49,11 @@ date: Last Modified
 * [Q&A: Secondary Hub/Spawn Point ?](../../../transcriptions/yt-MjQNNzVfZTY.md) https://www.youtube.com/watch?v=MjQNNzVfZTY
 
 ## August 25th, 2020 Livestream
-* Q&A: Can we get a drink on the fridge in the base? https://www.youtube.com/watch?v=Lk34vKl94hI
-* Snutt Talk: Fridge in the Hub https://www.youtube.com/watch?v=0S3NrfwpV0c
-* Snutt Talk: Snutt discovers the fridge https://www.youtube.com/watch?v=AwfR7ExmwJ0
-* Q&A: Will you be able to play Doom on the Hub screens? https://www.youtube.com/watch?v=lVjzwGuhM5I
-* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? https://www.youtube.com/watch?v=Ds9NIPna9_4
+* [Q&A: Can we get a drink on the fridge in the base?](../../../transcriptions/yt-Lk34vKl94hI.md) https://www.youtube.com/watch?v=Lk34vKl94hI
+* [Snutt Talk: Fridge in the Hub](../../../transcriptions/yt-0S3NrfwpV0c.md) https://www.youtube.com/watch?v=0S3NrfwpV0c
+* [Snutt Talk: Snutt discovers the fridge](../../../transcriptions/yt-AwfR7ExmwJ0.md) https://www.youtube.com/watch?v=AwfR7ExmwJ0
+* [Q&A: Will you be able to play Doom on the Hub screens?](../../../transcriptions/yt-lVjzwGuhM5I.md) https://www.youtube.com/watch?v=lVjzwGuhM5I
+* [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../../transcriptions/yt-Ds9NIPna9_4.md) https://www.youtube.com/watch?v=Ds9NIPna9_4
 * Q&A: Will you be able to play Doom on the Hub screens? https://clips.twitch.tv/DifficultDependableGooseAMPEnergyCherry
 * Q&A: Can we get a drink on the fridge in the base? https://clips.twitch.tv/ShyDifferentOcelotRalpherZ
 * Snutt Talk: Fridge in the Hub https://clips.twitch.tv/FreezingBovineRutabagaFutureMan

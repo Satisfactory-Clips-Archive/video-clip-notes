@@ -16,4 +16,4 @@ date: Last Modified
 * [Q&A: Any plans on adding Ladders?](../../../transcriptions/yt-Grn5Pthp7uM.md) https://www.youtube.com/watch?v=Grn5Pthp7uM
 
 ## August 25th, 2020 Livestream
-* Q&A: Will there be new items coming to the AWESOME Shop between now and Update 4? https://www.youtube.com/watch?v=JSdd9fpzhK4
+* [Q&A: Will there be new items coming to the AWESOME Shop between now and Update 4?](../../../transcriptions/yt-JSdd9fpzhK4.md) https://www.youtube.com/watch?v=JSdd9fpzhK4

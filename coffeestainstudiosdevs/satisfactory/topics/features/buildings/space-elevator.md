@@ -14,9 +14,9 @@ date: Last Modified
 * [Q&A: Are we going to be able to get the Space Elevator Food Court?](../../../transcriptions/yt-YNogQuanQlc.md) https://www.youtube.com/watch?v=YNogQuanQlc
 
 ## August 25th, 2020 Livestream
-* Q&A: Could we order food from the Food Station, or is it like a buffet? https://www.youtube.com/watch?v=aSiqmneWXcg
-* Q&A: Will there be a rocket to leave the planet? https://www.youtube.com/watch?v=r6XZwAA1Cvk
-* Q&A: Can we send the nuke waste to FICSIT? https://www.youtube.com/watch?v=MmiaI_vhyI0
+* [Q&A: Could we order food from the Food Station, or is it like a buffet?](../../../transcriptions/yt-aSiqmneWXcg.md) https://www.youtube.com/watch?v=aSiqmneWXcg
+* [Q&A: Will there be a rocket to leave the planet?](../../../transcriptions/yt-r6XZwAA1Cvk.md) https://www.youtube.com/watch?v=r6XZwAA1Cvk
+* [Q&A: Can we send the nuke waste to FICSIT?](../../../transcriptions/yt-MmiaI_vhyI0.md) https://www.youtube.com/watch?v=MmiaI_vhyI0
 
 ## June 8th, 2020 Livestream
 * [Q&A: How about repeatable Space Elevator shipments to make more use of it?](../../../transcriptions/yt-fbCEIVUNDe0.md) https://www.youtube.com/watch?v=fbCEIVUNDe0

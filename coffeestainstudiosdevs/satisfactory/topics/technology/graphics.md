@@ -90,15 +90,15 @@ date: Last Modified
 * [Q&A: Why did you change the Nuclear Reactors model?](../../transcriptions/yt-hBpbwXr9cMs.md) https://www.youtube.com/watch?v=hBpbwXr9cMs
 
 ## August 25th, 2020 Livestream
-* Q&A: Reducing the stupid poly counts? https://www.youtube.com/watch?v=aDlrBrPtdfw
-* Q&A: Please consider adding a third-person view? https://www.youtube.com/watch?v=HXXn10GhRWU
-* Q&A: Why is hyperloop in first person? https://www.youtube.com/watch?v=BmSeFBv2rAQ
-* Q&A: Real-time reflections for the helmet? https://www.youtube.com/watch?v=RuQcbza7pVw
-* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? https://www.youtube.com/watch?v=Ds9NIPna9_4
-* Q&A: UV issues and texture tearing is a known issue? https://www.youtube.com/watch?v=1uYhNDc8E1M
-* Q&A: Removing vegetation speeds up the game, yes or no ? https://www.youtube.com/watch?v=GgoQS6sOADQ
-* Q&A: Are the trees instance-based? https://www.youtube.com/watch?v=73nEuwO7HTA
-* Q&A: Linux would be useful for Servers https://www.youtube.com/watch?v=ITkosdWcGbA
+* [Q&A: Reducing the stupid poly counts?](../../transcriptions/yt-aDlrBrPtdfw.md) https://www.youtube.com/watch?v=aDlrBrPtdfw
+* [Q&A: Please consider adding a third-person view?](../../transcriptions/yt-HXXn10GhRWU.md) https://www.youtube.com/watch?v=HXXn10GhRWU
+* [Q&A: Why is hyperloop in first person?](../../transcriptions/yt-BmSeFBv2rAQ.md) https://www.youtube.com/watch?v=BmSeFBv2rAQ
+* [Q&A: Real-time reflections for the helmet?](../../transcriptions/yt-RuQcbza7pVw.md) https://www.youtube.com/watch?v=RuQcbza7pVw
+* [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../transcriptions/yt-Ds9NIPna9_4.md) https://www.youtube.com/watch?v=Ds9NIPna9_4
+* [Q&A: UV issues and texture tearing is a known issue?](../../transcriptions/yt-1uYhNDc8E1M.md) https://www.youtube.com/watch?v=1uYhNDc8E1M
+* [Q&A: Removing vegetation speeds up the game, yes or no ?](../../transcriptions/yt-GgoQS6sOADQ.md) https://www.youtube.com/watch?v=GgoQS6sOADQ
+* [Q&A: Are the trees instance-based?](../../transcriptions/yt-73nEuwO7HTA.md) https://www.youtube.com/watch?v=73nEuwO7HTA
+* [Q&A: Linux would be useful for Servers](../../transcriptions/yt-ITkosdWcGbA.md) https://www.youtube.com/watch?v=ITkosdWcGbA
 * Q&A: Please consider adding a third-person view? (Part 1) https://clips.twitch.tv/PeacefulInventiveDogWOOP
 * Q&A: Please consider adding a third-person view? (Part 2) https://clips.twitch.tv/FrailSuaveBeanImGlitch
 * Q&A: Reducing the stupid poly counts? https://clips.twitch.tv/PoliteTallLocustStoneLightning

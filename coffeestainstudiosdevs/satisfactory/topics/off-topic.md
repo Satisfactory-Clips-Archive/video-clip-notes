@@ -44,8 +44,8 @@ date: Last Modified
 * Q&A: Would you fight 100 duck-sized horses or a horse-sized duck? https://www.youtube.com/watch?v=8YhgTMdTfDY
 
 ## August 25th, 2020 Livestream
-* Q&A: Update before release of Cyberpunk 2077? https://www.youtube.com/watch?v=0lYeX6eduFM
-* Q&A: What game will come out first, Satisfactory or Star Citizen? https://www.youtube.com/watch?v=3b1QpgsICwA
+* [Q&A: Update before release of Cyberpunk 2077?](../transcriptions/yt-0lYeX6eduFM.md) https://www.youtube.com/watch?v=0lYeX6eduFM
+* [Q&A: What game will come out first, Satisfactory or Star Citizen?](../transcriptions/yt-3b1QpgsICwA.md) https://www.youtube.com/watch?v=3b1QpgsICwA
 * Q&A: What game will come out first, Satisfactory or Star Citizen? https://clips.twitch.tv/AdventurousUninterestedBasenji4Head
 
 ## August 18th, 2020 Livestream

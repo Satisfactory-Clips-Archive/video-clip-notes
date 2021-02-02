@@ -20,4 +20,4 @@ date: Last Modified
 * [Q&A: Are Sanctum and Satisfactory in the same Universe?](../../transcriptions/yt-V4ZG9Ech4Es.md) https://www.youtube.com/watch?v=V4ZG9Ech4Es
 
 ## August 25th, 2020 Livestream
-* Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever? https://www.youtube.com/watch?v=-AjFbGOOAQI
+* [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../transcriptions/yt--AjFbGOOAQI.md) https://www.youtube.com/watch?v=-AjFbGOOAQI

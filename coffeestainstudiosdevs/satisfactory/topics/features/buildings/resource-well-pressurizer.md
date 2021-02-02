@@ -14,4 +14,4 @@ date: Last Modified
 * [Gases are coming in Update 4](../../../transcriptions/yt-Jxh8kvtUuxY.md) https://www.youtube.com/watch?v=Jxh8kvtUuxY
 
 ## August 25th, 2020 Livestream
-* Q&A: Some new Machines in the next update? https://www.youtube.com/watch?v=Kk0ULnBXeXE
+* [Q&A: Some new Machines in the next update?](../../../transcriptions/yt-Kk0ULnBXeXE.md) https://www.youtube.com/watch?v=Kk0ULnBXeXE

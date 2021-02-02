@@ -12,9 +12,9 @@ date: Last Modified
 * [Q&A: Fluid Dynamics + Water, can we get Water Wheels?](../../../transcriptions/yt-isSumSw8bV4.md) https://www.youtube.com/watch?v=isSumSw8bV4
 
 ## August 25th, 2020 Livestream
-* Q&A: Why are there no Solar Panels ? https://www.youtube.com/watch?v=C1XaJJmvg1M
-* Q&A: Put in Solar & Wind Power to make it ultra limited? https://www.youtube.com/watch?v=_IJsp-Fy1zw
-* Q&A: What about wind turbines? https://www.youtube.com/watch?v=bvMAe2VTC5A
+* [Q&A: Why are there no Solar Panels ?](../../../transcriptions/yt-C1XaJJmvg1M.md) https://www.youtube.com/watch?v=C1XaJJmvg1M
+* [Q&A: Put in Solar & Wind Power to make it ultra limited?](../../../transcriptions/yt-_IJsp-Fy1zw.md) https://www.youtube.com/watch?v=_IJsp-Fy1zw
+* [Q&A: What about wind turbines?](../../../transcriptions/yt-bvMAe2VTC5A.md) https://www.youtube.com/watch?v=bvMAe2VTC5A
 * Q&A: Why are there no Solar Panels ? https://clips.twitch.tv/CleverPluckyOctopusRedCoat
 * Q&A: Put in Solar & Wind Power to make it ultra limited? https://clips.twitch.tv/DeliciousStylishOctopusTBTacoRight
 * Q&A: What about wind turbines? https://clips.twitch.tv/TriangularColdShingleSquadGoals

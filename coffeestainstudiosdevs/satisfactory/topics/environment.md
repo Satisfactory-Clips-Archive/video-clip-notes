@@ -12,5 +12,5 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 
 ## August 25th, 2020 Livestream
-* Q&A: ETA for Update 4 https://www.youtube.com/watch?v=3xgs6Y-ZSe8
-* Q&A: Put in Solar & Wind Power to make it ultra limited? https://www.youtube.com/watch?v=_IJsp-Fy1zw
+* [Q&A: ETA for Update 4](../transcriptions/yt-3xgs6Y-ZSe8.md) https://www.youtube.com/watch?v=3xgs6Y-ZSe8
+* [Q&A: Put in Solar & Wind Power to make it ultra limited?](../transcriptions/yt-_IJsp-Fy1zw.md) https://www.youtube.com/watch?v=_IJsp-Fy1zw

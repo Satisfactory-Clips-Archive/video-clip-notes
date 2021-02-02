@@ -11,7 +11,7 @@ date: Last Modified
 * [Q&A: Is the Tick the official for the Space Cow Bean Giraffe?](../../../transcriptions/yt-1vgaetZXbxM.md) https://www.youtube.com/watch?v=1vgaetZXbxM
 
 ## August 25th, 2020 Livestream
-* Q&A: Please make the Walking Bean stop clipping? https://www.youtube.com/watch?v=wTbRzvQ8ZLY
+* [Q&A: Please make the Walking Bean stop clipping?](../../../transcriptions/yt-wTbRzvQ8ZLY.md) https://www.youtube.com/watch?v=wTbRzvQ8ZLY
 * Q&A: Please make the Walking Bean stop clipping https://clips.twitch.tv/WanderingGloriousWallabyPunchTrees
 
 ## May 19th, 2020 Livestream

@@ -14,4 +14,4 @@ date: Last Modified
 * [Q&A: Will there be a new type of processing material like Steam in Update 4?](../../transcriptions/yt-fkxbtZfVM8c.md) https://www.youtube.com/watch?v=fkxbtZfVM8c
 
 ## August 25th, 2020 Livestream
-* Q&A: Can we expect significant performance increase with Update 4? https://www.youtube.com/watch?v=PVf-pBNYO_M
+* [Q&A: Can we expect significant performance increase with Update 4?](../../transcriptions/yt-PVf-pBNYO_M.md) https://www.youtube.com/watch?v=PVf-pBNYO_M

@@ -46,13 +46,13 @@ date: Last Modified
 * [Q&A: Will there be more creatures?](../../transcriptions/yt-Yzd466gO44M.md) https://www.youtube.com/watch?v=Yzd466gO44M
 
 ## August 25th, 2020 Livestream
-* Q&A: New enemies / creatures? https://www.youtube.com/watch?v=TDbNru0heoU
-* Q&A: Given how often Blueprints keeps being requested it really needs to be adopted? https://www.youtube.com/watch?v=EbTEcw5zg8k
-* Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ? https://www.youtube.com/watch?v=s55I90_ELrQ
-* Q&A: There's a smaller pink jelly above the pillar in the sky too? https://www.youtube.com/watch?v=wWVbIS8jgy8
+* [Q&A: New enemies / creatures?](../../transcriptions/yt-TDbNru0heoU.md) https://www.youtube.com/watch?v=TDbNru0heoU
+* [Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?](../../transcriptions/yt-EbTEcw5zg8k.md) https://www.youtube.com/watch?v=EbTEcw5zg8k
+* [Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ?](../../transcriptions/yt-s55I90_ELrQ.md) https://www.youtube.com/watch?v=s55I90_ELrQ
+* [Q&A: There's a smaller pink jelly above the pillar in the sky too?](../../transcriptions/yt-wWVbIS8jgy8.md) https://www.youtube.com/watch?v=wWVbIS8jgy8
 * Q&A: Add Godzilla to fight the big Manta? https://www.youtube.com/watch?v=MncPu1Yxuf8
-* Q&A: Will we have more monsters? https://www.youtube.com/watch?v=shEKhZakMxQ
-* Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever? https://www.youtube.com/watch?v=-AjFbGOOAQI
+* [Q&A: Will we have more monsters?](../../transcriptions/yt-shEKhZakMxQ.md) https://www.youtube.com/watch?v=shEKhZakMxQ
+* [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../transcriptions/yt--AjFbGOOAQI.md) https://www.youtube.com/watch?v=-AjFbGOOAQI
 * Q&A: Will we have more monsters? https://clips.twitch.tv/GrotesqueDelightfulLyrebirdPrimeMe
 
 ## August 18th, 2020 Livestream

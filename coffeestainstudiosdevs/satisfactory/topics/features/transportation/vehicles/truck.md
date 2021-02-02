@@ -14,10 +14,10 @@ date: Last Modified
 * [Q&A: Any improvement for the Trucks so they can transport Fluids?](../../../../transcriptions/yt-lNpwyJr7lZc.md) https://www.youtube.com/watch?v=lNpwyJr7lZc
 
 ## August 25th, 2020 Livestream
-* Q&A: Tanker Trucks? https://www.youtube.com/watch?v=IPmVdCgi2_A
-* Q&A: Smart Truck Stations? https://www.youtube.com/watch?v=xYwIsp94W7c
-* Q&A: If you add Trucks then add Boats? https://www.youtube.com/watch?v=A10cQzT6TpU
-* Q&A: Trailer for the Trucks? https://www.youtube.com/watch?v=WjVP7rOR38M
+* [Q&A: Tanker Trucks?](../../../../transcriptions/yt-IPmVdCgi2_A.md) https://www.youtube.com/watch?v=IPmVdCgi2_A
+* [Q&A: Smart Truck Stations?](../../../../transcriptions/yt-xYwIsp94W7c.md) https://www.youtube.com/watch?v=xYwIsp94W7c
+* [Q&A: If you add Trucks then add Boats?](../../../../transcriptions/yt-A10cQzT6TpU.md) https://www.youtube.com/watch?v=A10cQzT6TpU
+* [Q&A: Trailer for the Trucks?](../../../../transcriptions/yt-WjVP7rOR38M.md) https://www.youtube.com/watch?v=WjVP7rOR38M
 * Q&A: Smart Truck Stations? https://clips.twitch.tv/FurtiveHealthyRhinocerosJonCarnage
 * Q&A: Trailer for the Trucks? https://clips.twitch.tv/SarcasticNeighborlyPigTebowing
 * Q&A: Tanker Trucks? (Part 1) https://clips.twitch.tv/TenderSuspiciousSashimiEleGiggle

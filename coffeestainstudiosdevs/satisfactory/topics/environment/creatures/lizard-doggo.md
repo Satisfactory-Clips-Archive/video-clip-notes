@@ -40,7 +40,7 @@ date: Last Modified
 * [Q&A: The Doggo Plushie has to fit into the Cup](../../../transcriptions/yt-HMsgkhM0i34.md) https://www.youtube.com/watch?v=HMsgkhM0i34
 
 ## August 25th, 2020 Livestream
-* Snutt PSA: Nuclear Waste disposal https://www.youtube.com/watch?v=FUMyJYJr88Y
+* [Snutt PSA: Nuclear Waste disposal](../../../transcriptions/yt-FUMyJYJr88Y.md) https://www.youtube.com/watch?v=FUMyJYJr88Y
 
 ## August 18th, 2020 Livestream
 * Q&A: Will you be able to pet the doggo? https://clips.twitch.tv/DullHyperSpindlePanicVis

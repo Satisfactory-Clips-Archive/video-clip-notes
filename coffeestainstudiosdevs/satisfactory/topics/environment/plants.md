@@ -30,10 +30,10 @@ date: Last Modified
 * [Q&A: Should I remove all nature to improve FPS?](../../transcriptions/yt-t-FNpaJUBcE.md) https://www.youtube.com/watch?v=t-FNpaJUBcE
 
 ## August 25th, 2020 Livestream
-* Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ? https://www.youtube.com/watch?v=s55I90_ELrQ
-* Q&A: More pollution as you progress? https://www.youtube.com/watch?v=dTd-M1qGkfU
-* Q&A: Removing vegetation speeds up the game, yes or no ? https://www.youtube.com/watch?v=GgoQS6sOADQ
-* Q&A: Are the trees instance-based? https://www.youtube.com/watch?v=73nEuwO7HTA
+* [Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ?](../../transcriptions/yt-s55I90_ELrQ.md) https://www.youtube.com/watch?v=s55I90_ELrQ
+* [Q&A: More pollution as you progress?](../../transcriptions/yt-dTd-M1qGkfU.md) https://www.youtube.com/watch?v=dTd-M1qGkfU
+* [Q&A: Removing vegetation speeds up the game, yes or no ?](../../transcriptions/yt-GgoQS6sOADQ.md) https://www.youtube.com/watch?v=GgoQS6sOADQ
+* [Q&A: Are the trees instance-based?](../../transcriptions/yt-73nEuwO7HTA.md) https://www.youtube.com/watch?v=73nEuwO7HTA
 * Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ? https://clips.twitch.tv/VibrantExpensiveRaisinStinkyCheese
 * Q&A: Removing vegetation speeds up the game, yes or no ? https://clips.twitch.tv/BusyHandsomeSmoothiePartyTime
 * Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt

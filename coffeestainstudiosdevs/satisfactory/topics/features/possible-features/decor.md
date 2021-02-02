@@ -14,7 +14,7 @@ date: Last Modified
 * [Q&A: Will there be more options for aesthetics regarding things like house building?](../../../transcriptions/yt-qQJTAvtzB-8.md) https://www.youtube.com/watch?v=qQJTAvtzB-8
 
 ## August 25th, 2020 Livestream
-* Snutt Talk: Snutt discovers the fridge https://www.youtube.com/watch?v=AwfR7ExmwJ0
+* [Snutt Talk: Snutt discovers the fridge](../../../transcriptions/yt-AwfR7ExmwJ0.md) https://www.youtube.com/watch?v=AwfR7ExmwJ0
 
 ## June 8th, 2020 Livestream
 * [Q&A: Will there be a cosy place for the Pioneer to live in?](../../../transcriptions/yt-F0Lu47hMTD8.md) https://www.youtube.com/watch?v=F0Lu47hMTD8

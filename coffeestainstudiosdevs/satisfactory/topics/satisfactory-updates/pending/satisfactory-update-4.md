@@ -183,25 +183,25 @@ date: Last Modified
 * [Q&A: Is there a date targeted?](../../../transcriptions/yt-czUkb31M3co.md) https://www.youtube.com/watch?v=czUkb31M3co
 
 ## August 25th, 2020 Livestream
-* State of Dev: Update 4 & Update 5 https://www.youtube.com/watch?v=e-51TRYTVg8
-* Q&A: Quality-of-life update? https://www.youtube.com/watch?v=cwWUYRciIoc
-* Q&A: ETA for Update 4 https://www.youtube.com/watch?v=3xgs6Y-ZSe8
-* Q&A: Do you have a set of ideas? https://www.youtube.com/watch?v=eSN0HQlSJBs
-* Q&A: Why do big updates at all - why not just release everything in small bites? https://www.youtube.com/watch?v=qEiYxLhX3CM
-* Q&A: Will there be new items coming to the AWESOME Shop between now and Update 4? https://www.youtube.com/watch?v=JSdd9fpzhK4
-* Snutt Talk: Minor stuff before Update 4 https://www.youtube.com/watch?v=GbggTKLCQtc
-* Q&A: New enemies / creatures? https://www.youtube.com/watch?v=TDbNru0heoU
-* ETA for Update 4? (Mid-stream reiteration) https://www.youtube.com/watch?v=tNgHT-JIuvE
-* Q&A: Some new Machines in the next update? https://www.youtube.com/watch?v=Kk0ULnBXeXE
-* Q&A: Dedicated Servers update? https://www.youtube.com/watch?v=mtE-rHjMsn4
-* Q&A: Update 4, just a quality-of-life thing? https://www.youtube.com/watch?v=G7k6pjP1nK8
-* Q&A: Can we expect significant performance increase with Update 4? https://www.youtube.com/watch?v=PVf-pBNYO_M
-* Q&A: Are there internal discussions to significantly rework existing buildings like refineries? https://www.youtube.com/watch?v=x07FQZjbA_c
-* Q&A: Will Gas be in Update 4? https://www.youtube.com/watch?v=ScNrW0Th3wg
-* Q&A: When's Tier 8 coming? https://www.youtube.com/watch?v=plexfdPIaSw
-* Q&A: State of things = 🤷? https://www.youtube.com/watch?v=5SH9eySqDzU
-* Q&A: Please tell me Update 4 will use S.A.M. Ore https://www.youtube.com/watch?v=-b2L_nlW_Fo
-* Q&A: When will the next patch even get released? https://www.youtube.com/watch?v=I59oaCtgopI
+* [State of Dev: Update 4 & Update 5](../../../transcriptions/yt-e-51TRYTVg8.md) https://www.youtube.com/watch?v=e-51TRYTVg8
+* [Q&A: Quality-of-life update?](../../../transcriptions/yt-cwWUYRciIoc.md) https://www.youtube.com/watch?v=cwWUYRciIoc
+* [Q&A: ETA for Update 4](../../../transcriptions/yt-3xgs6Y-ZSe8.md) https://www.youtube.com/watch?v=3xgs6Y-ZSe8
+* [Q&A: Do you have a set of ideas?](../../../transcriptions/yt-eSN0HQlSJBs.md) https://www.youtube.com/watch?v=eSN0HQlSJBs
+* [Q&A: Why do big updates at all - why not just release everything in small bites?](../../../transcriptions/yt-qEiYxLhX3CM.md) https://www.youtube.com/watch?v=qEiYxLhX3CM
+* [Q&A: Will there be new items coming to the AWESOME Shop between now and Update 4?](../../../transcriptions/yt-JSdd9fpzhK4.md) https://www.youtube.com/watch?v=JSdd9fpzhK4
+* [Snutt Talk: Minor stuff before Update 4](../../../transcriptions/yt-GbggTKLCQtc.md) https://www.youtube.com/watch?v=GbggTKLCQtc
+* [Q&A: New enemies / creatures?](../../../transcriptions/yt-TDbNru0heoU.md) https://www.youtube.com/watch?v=TDbNru0heoU
+* [ETA for Update 4? (Mid-stream reiteration)](../../../transcriptions/yt-tNgHT-JIuvE.md) https://www.youtube.com/watch?v=tNgHT-JIuvE
+* [Q&A: Some new Machines in the next update?](../../../transcriptions/yt-Kk0ULnBXeXE.md) https://www.youtube.com/watch?v=Kk0ULnBXeXE
+* [Q&A: Dedicated Servers update?](../../../transcriptions/yt-mtE-rHjMsn4.md) https://www.youtube.com/watch?v=mtE-rHjMsn4
+* [Q&A: Update 4, just a quality-of-life thing?](../../../transcriptions/yt-G7k6pjP1nK8.md) https://www.youtube.com/watch?v=G7k6pjP1nK8
+* [Q&A: Can we expect significant performance increase with Update 4?](../../../transcriptions/yt-PVf-pBNYO_M.md) https://www.youtube.com/watch?v=PVf-pBNYO_M
+* [Q&A: Are there internal discussions to significantly rework existing buildings like refineries?](../../../transcriptions/yt-x07FQZjbA_c.md) https://www.youtube.com/watch?v=x07FQZjbA_c
+* [Q&A: Will Gas be in Update 4?](../../../transcriptions/yt-ScNrW0Th3wg.md) https://www.youtube.com/watch?v=ScNrW0Th3wg
+* [Q&A: When's Tier 8 coming?](../../../transcriptions/yt-plexfdPIaSw.md) https://www.youtube.com/watch?v=plexfdPIaSw
+* [Q&A: State of things = 🤷?](../../../transcriptions/yt-5SH9eySqDzU.md) https://www.youtube.com/watch?v=5SH9eySqDzU
+* [Q&A: Please tell me Update 4 will use S.A.M. Ore](../../../transcriptions/yt--b2L_nlW_Fo.md) https://www.youtube.com/watch?v=-b2L_nlW_Fo
+* [Q&A: When will the next patch even get released?](../../../transcriptions/yt-I59oaCtgopI.md) https://www.youtube.com/watch?v=I59oaCtgopI
 * ETA for Update 4? (Part 1) https://clips.twitch.tv/DeadPrettySaladMoreCowbell
 * ETA for Update 4? (Part 2) https://clips.twitch.tv/SavageBenevolentEndiveChocolateRain
 * ETA for Update 4? (Part 3) https://clips.twitch.tv/GoodSaltyPepperoniPunchTrees

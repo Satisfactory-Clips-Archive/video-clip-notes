@@ -37,13 +37,13 @@ date: Last Modified
 * [Q&A: Add a Tape Measure or something to gauge distance between two objects?](../../../transcriptions/yt--hFvijwVlSQ.md) https://www.youtube.com/watch?v=-hFvijwVlSQ
 
 ## August 25th, 2020 Livestream
-* Q&A: ETA for Update 4 https://www.youtube.com/watch?v=3xgs6Y-ZSe8
-* Q&A: Do you have a set of ideas? https://www.youtube.com/watch?v=eSN0HQlSJBs
-* Q&A: What about holes for Foundations? https://www.youtube.com/watch?v=fufH5ltdn7E
-* Q&A: Do you have any tips on Coal Generators? https://www.youtube.com/watch?v=M4myLkUI6HU
-* Q&A: A mark on pipes to show the meters ? https://www.youtube.com/watch?v=lXL_N-a887E
-* Q&A: Will you be adding more variety of resources? https://www.youtube.com/watch?v=wvFR-VL4nc8
-* Q&A: Are there internal discussions to significantly rework existing buildings like refineries? https://www.youtube.com/watch?v=x07FQZjbA_c
+* [Q&A: ETA for Update 4](../../../transcriptions/yt-3xgs6Y-ZSe8.md) https://www.youtube.com/watch?v=3xgs6Y-ZSe8
+* [Q&A: Do you have a set of ideas?](../../../transcriptions/yt-eSN0HQlSJBs.md) https://www.youtube.com/watch?v=eSN0HQlSJBs
+* [Q&A: What about holes for Foundations?](../../../transcriptions/yt-fufH5ltdn7E.md) https://www.youtube.com/watch?v=fufH5ltdn7E
+* [Q&A: Do you have any tips on Coal Generators?](../../../transcriptions/yt-M4myLkUI6HU.md) https://www.youtube.com/watch?v=M4myLkUI6HU
+* [Q&A: A mark on pipes to show the meters ?](../../../transcriptions/yt-lXL_N-a887E.md) https://www.youtube.com/watch?v=lXL_N-a887E
+* [Q&A: Will you be adding more variety of resources?](../../../transcriptions/yt-wvFR-VL4nc8.md) https://www.youtube.com/watch?v=wvFR-VL4nc8
+* [Q&A: Are there internal discussions to significantly rework existing buildings like refineries?](../../../transcriptions/yt-x07FQZjbA_c.md) https://www.youtube.com/watch?v=x07FQZjbA_c
 * Q&A: A mark on pipes to show the meters ? https://clips.twitch.tv/AltruisticSuperBobaBudBlast
 
 ## August 18th, 2020 Livestream

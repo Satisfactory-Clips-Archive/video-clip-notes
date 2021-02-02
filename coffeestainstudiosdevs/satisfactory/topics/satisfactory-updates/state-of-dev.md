@@ -73,8 +73,8 @@ date: Last Modified
 * [Snutt & Jace Talk: State of Dev Summary](../../transcriptions/yt-C0x-CrnWaAs.md) https://www.youtube.com/watch?v=C0x-CrnWaAs
 
 ## August 25th, 2020 Livestream
-* State of Dev: Update 4 & Update 5 https://www.youtube.com/watch?v=e-51TRYTVg8
-* Q&A: State of things = 🤷? https://www.youtube.com/watch?v=5SH9eySqDzU
+* [State of Dev: Update 4 & Update 5](../../transcriptions/yt-e-51TRYTVg8.md) https://www.youtube.com/watch?v=e-51TRYTVg8
+* [Q&A: State of things = 🤷?](../../transcriptions/yt-5SH9eySqDzU.md) https://www.youtube.com/watch?v=5SH9eySqDzU
 * Snutt Talk: State of Development (Part 1) https://clips.twitch.tv/WealthyModernInternDogFace
 * Snutt Talk: State of Development (Part 2) https://clips.twitch.tv/SuaveChillyGrouseSaltBae
 * Q&A: State of things = 🤷? (Part 1) https://clips.twitch.tv/WealthyStormySnakeOptimizePrime

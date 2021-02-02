@@ -40,11 +40,11 @@ date: Last Modified
 * [Q&A: Will the Resource Transportation get an update?](../../transcriptions/yt-hKxm2Ps1UYY.md) https://www.youtube.com/watch?v=hKxm2Ps1UYY
 
 ## August 25th, 2020 Livestream
-* Q&A: Will you be adding more variety of resources? https://www.youtube.com/watch?v=wvFR-VL4nc8
-* Q&A: Mad Max server where someone controls all the Iron nodes? https://www.youtube.com/watch?v=LcWR0d7elvs
-* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? https://www.youtube.com/watch?v=Ds9NIPna9_4
-* Q&A: Please think about adding dedicated Storage Containers like in Ark ? https://www.youtube.com/watch?v=_IL63Q90d1k
-* Q&A: Are limited resources planned? https://www.youtube.com/watch?v=85XNSiDpeZw
+* [Q&A: Will you be adding more variety of resources?](../../transcriptions/yt-wvFR-VL4nc8.md) https://www.youtube.com/watch?v=wvFR-VL4nc8
+* [Q&A: Mad Max server where someone controls all the Iron nodes?](../../transcriptions/yt-LcWR0d7elvs.md) https://www.youtube.com/watch?v=LcWR0d7elvs
+* [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../transcriptions/yt-Ds9NIPna9_4.md) https://www.youtube.com/watch?v=Ds9NIPna9_4
+* [Q&A: Please think about adding dedicated Storage Containers like in Ark ?](../../transcriptions/yt-_IL63Q90d1k.md) https://www.youtube.com/watch?v=_IL63Q90d1k
+* [Q&A: Are limited resources planned?](../../transcriptions/yt-85XNSiDpeZw.md) https://www.youtube.com/watch?v=85XNSiDpeZw
 * Q&A: Will you be adding more variety of resources? https://clips.twitch.tv/BraveThankfulBeefFreakinStinkin
 
 ## August 18th, 2020 Livestream

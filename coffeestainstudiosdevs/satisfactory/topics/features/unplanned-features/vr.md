@@ -20,4 +20,4 @@ date: Last Modified
 * [Q&A: Ever consider making a VR version of Satisfactory?](../../../transcriptions/yt-3s-PKymQ9QU.md) https://www.youtube.com/watch?v=3s-PKymQ9QU
 
 ## August 25th, 2020 Livestream
-* Snutt Talk: VR Support https://www.youtube.com/watch?v=ZHumj5MeIcw
+* [Snutt Talk: VR Support](../../../transcriptions/yt-ZHumj5MeIcw.md) https://www.youtube.com/watch?v=ZHumj5MeIcw

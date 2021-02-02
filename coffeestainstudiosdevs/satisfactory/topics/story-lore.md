@@ -75,12 +75,12 @@ date: Last Modified
 * [Q&A: Will Story happen in Update 4?](../transcriptions/yt-_I0dz6Zop0w.md) https://www.youtube.com/watch?v=_I0dz6Zop0w
 
 ## August 25th, 2020 Livestream
-* Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://www.youtube.com/watch?v=7EM97GvjRGY
-* Q&A: Do you have any clue on what the alien artefacts do? https://www.youtube.com/watch?v=hRe0QvJDjsg
-* Q&A: Why are there no Solar Panels ? https://www.youtube.com/watch?v=C1XaJJmvg1M
-* Q&A: Will there be more narrative? https://www.youtube.com/watch?v=8Igl_hPAXPs
-* Q&A: Will there be any further goals besides Research & Development stages? https://www.youtube.com/watch?v=6Tt6xgjgn7k
-* Q&A: Is the Story a mode, or can I play with my actual save game? https://www.youtube.com/watch?v=DdGctBLngpE
+* [Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode?](../transcriptions/yt-7EM97GvjRGY.md) https://www.youtube.com/watch?v=7EM97GvjRGY
+* [Q&A: Do you have any clue on what the alien artefacts do?](../transcriptions/yt-hRe0QvJDjsg.md) https://www.youtube.com/watch?v=hRe0QvJDjsg
+* [Q&A: Why are there no Solar Panels ?](../transcriptions/yt-C1XaJJmvg1M.md) https://www.youtube.com/watch?v=C1XaJJmvg1M
+* [Q&A: Will there be more narrative?](../transcriptions/yt-8Igl_hPAXPs.md) https://www.youtube.com/watch?v=8Igl_hPAXPs
+* [Q&A: Will there be any further goals besides Research & Development stages?](../transcriptions/yt-6Tt6xgjgn7k.md) https://www.youtube.com/watch?v=6Tt6xgjgn7k
+* [Q&A: Is the Story a mode, or can I play with my actual save game?](../transcriptions/yt-DdGctBLngpE.md) https://www.youtube.com/watch?v=DdGctBLngpE
 * Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John
 * Q&A: Do you have any clue on what the alien artefacts do? https://clips.twitch.tv/CulturedEnthusiasticNoodleWTRuck
 * Q&A: Will there be more narrative? https://clips.twitch.tv/DarlingPoisedPotCopyThis

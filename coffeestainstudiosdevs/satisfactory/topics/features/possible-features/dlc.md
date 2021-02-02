@@ -47,9 +47,9 @@ date: Last Modified
 * [Q&A: Flushable Toilet DLC?](../../../transcriptions/yt-Z7KaqsyT7_k.md) https://www.youtube.com/watch?v=Z7KaqsyT7_k
 
 ## August 25th, 2020 Livestream
-* Q&A: Everyone knows that quality-of-life updates are part of DLCs? https://www.youtube.com/watch?v=3KUCZoraaBc
-* Snutt Talk: Satisfactory 1.0, and beyond https://www.youtube.com/watch?v=gAO072mzibQ
-* Q&A: Like a new map for Satisfactory? https://www.youtube.com/watch?v=gNfCEV1J-2Q
+* [Q&A: Everyone knows that quality-of-life updates are part of DLCs?](../../../transcriptions/yt-3KUCZoraaBc.md) https://www.youtube.com/watch?v=3KUCZoraaBc
+* [Snutt Talk: Satisfactory 1.0, and beyond](../../../transcriptions/yt-gAO072mzibQ.md) https://www.youtube.com/watch?v=gAO072mzibQ
+* [Q&A: Like a new map for Satisfactory?](../../../transcriptions/yt-gNfCEV1J-2Q.md) https://www.youtube.com/watch?v=gNfCEV1J-2Q
 
 ## August 18th, 2020 Livestream
 * Q&A: Is 1.0 the end of the game or will it be expanded? https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace

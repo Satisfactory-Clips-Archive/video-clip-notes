@@ -50,12 +50,12 @@ date: Last Modified
 * [Q&A: Can we have food-making in the game?](../../transcriptions/yt-2sE4CPkkc3o.md) https://www.youtube.com/watch?v=2sE4CPkkc3o
 
 ## August 25th, 2020 Livestream
-* Q&A: Plans for a Map Editor? https://www.youtube.com/watch?v=vvRPYyc7sb8
-* Q&A: Mk. 2 Hypertubes? https://www.youtube.com/watch?v=SFKNdledOaA
-* Q&A: Actual Elevators with floor-select buttons ? https://www.youtube.com/watch?v=vZxhnaT88dc
-* Snutt Talk: Map Builders https://www.youtube.com/watch?v=UjOVdR5tNSw
-* Q&A: Will light be added to the game? https://www.youtube.com/watch?v=FuUHMwoNA0s
-* Snutt Talk: VR Support https://www.youtube.com/watch?v=ZHumj5MeIcw
+* [Q&A: Plans for a Map Editor?](../../transcriptions/yt-vvRPYyc7sb8.md) https://www.youtube.com/watch?v=vvRPYyc7sb8
+* [Q&A: Mk. 2 Hypertubes?](../../transcriptions/yt-SFKNdledOaA.md) https://www.youtube.com/watch?v=SFKNdledOaA
+* [Q&A: Actual Elevators with floor-select buttons ?](../../transcriptions/yt-vZxhnaT88dc.md) https://www.youtube.com/watch?v=vZxhnaT88dc
+* [Snutt Talk: Map Builders](../../transcriptions/yt-UjOVdR5tNSw.md) https://www.youtube.com/watch?v=UjOVdR5tNSw
+* [Q&A: Will light be added to the game?](../../transcriptions/yt-FuUHMwoNA0s.md) https://www.youtube.com/watch?v=FuUHMwoNA0s
+* [Snutt Talk: VR Support](../../transcriptions/yt-ZHumj5MeIcw.md) https://www.youtube.com/watch?v=ZHumj5MeIcw
 * Q&A: Can players have custom programmers ? (Part 1) https://clips.twitch.tv/BovineConsiderateSangMVGame
 * Q&A: Can players have custom programmers ? (Part 2) https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain
 * Q&A: Actual Elevators with floor-select buttons ? https://clips.twitch.tv/SparklingFilthyKathyBleedPurple

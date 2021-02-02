@@ -45,4 +45,4 @@ date: Last Modified
 * [Q&A: What are the advantages of packaging?](../../../transcriptions/yt-mnskivwMmjw.md) https://www.youtube.com/watch?v=mnskivwMmjw
 
 ## August 25th, 2020 Livestream
-* Q&A: Some new Machines in the next update? https://www.youtube.com/watch?v=Kk0ULnBXeXE
+* [Q&A: Some new Machines in the next update?](../../../transcriptions/yt-Kk0ULnBXeXE.md) https://www.youtube.com/watch?v=Kk0ULnBXeXE

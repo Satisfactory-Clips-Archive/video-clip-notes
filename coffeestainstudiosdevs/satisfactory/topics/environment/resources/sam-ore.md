@@ -20,9 +20,9 @@ date: Last Modified
 * [Q&A: How much S.A.M. Ore should we stock up on?](../../../transcriptions/yt-vBGfC7j2AyI.md) https://www.youtube.com/watch?v=vBGfC7j2AyI
 
 ## August 25th, 2020 Livestream
-* Q&A: Are limited resources planned? https://www.youtube.com/watch?v=85XNSiDpeZw
-* Q&A: Please tell me Update 4 will use S.A.M. Ore https://www.youtube.com/watch?v=-b2L_nlW_Fo
-* Q&A: Is the Story a mode, or can I play with my actual save game? https://www.youtube.com/watch?v=DdGctBLngpE
+* [Q&A: Are limited resources planned?](../../../transcriptions/yt-85XNSiDpeZw.md) https://www.youtube.com/watch?v=85XNSiDpeZw
+* [Q&A: Please tell me Update 4 will use S.A.M. Ore](../../../transcriptions/yt--b2L_nlW_Fo.md) https://www.youtube.com/watch?v=-b2L_nlW_Fo
+* [Q&A: Is the Story a mode, or can I play with my actual save game?](../../../transcriptions/yt-DdGctBLngpE.md) https://www.youtube.com/watch?v=DdGctBLngpE
 * Q&A: Please tell me Update 4 will use S.A.M. Ore https://clips.twitch.tv/ArtisticGlutenFreeSpindleDxAbomb
 * Q&A: Are limited resources planned? (Part 1) https://clips.twitch.tv/ConcernedStylishTomatoBabyRage
 * Q&A: Are limited resources planned? (Part 2) https://clips.twitch.tv/PrettyBelovedTermiteOptimizePrime

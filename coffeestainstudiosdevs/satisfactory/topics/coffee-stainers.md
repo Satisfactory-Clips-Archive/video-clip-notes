@@ -33,9 +33,9 @@ date: Last Modified
 * [Q&A: Do you guys crunch or do you actually care about stuff like health?](../transcriptions/yt-Ev8CEXznWsE.md) https://www.youtube.com/watch?v=Ev8CEXznWsE
 
 ## August 25th, 2020 Livestream
-* Q&A: Train Signals? https://www.youtube.com/watch?v=WQH5cWS3s2s
-* Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://www.youtube.com/watch?v=My4e5HOzxLc
-* Q&A: Are the Devs back from vacation? https://www.youtube.com/watch?v=dfHUHMQ9JQE
+* [Q&A: Train Signals?](../transcriptions/yt-WQH5cWS3s2s.md) https://www.youtube.com/watch?v=WQH5cWS3s2s
+* [Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors?](../transcriptions/yt-My4e5HOzxLc.md) https://www.youtube.com/watch?v=My4e5HOzxLc
+* [Q&A: Are the Devs back from vacation?](../transcriptions/yt-dfHUHMQ9JQE.md) https://www.youtube.com/watch?v=dfHUHMQ9JQE
 * Q&A: Are the Devs back from vacation? https://clips.twitch.tv/SeductiveImpartialCobblerOptimizePrime
 
 ## August 11th, 2020 Livestream

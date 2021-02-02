@@ -30,9 +30,9 @@ date: Last Modified
 * [Q&A: Blueprints?](../transcriptions/yt-hpl23B1A0Qk.md) https://www.youtube.com/watch?v=hpl23B1A0Qk
 
 ## August 25th, 2020 Livestream
-* Q&A: Quality-of-life update? https://www.youtube.com/watch?v=cwWUYRciIoc
-* Q&A: When are you going to finish Factorio? https://www.youtube.com/watch?v=rJXYNXfUQCI
-* Q&A: Is Satisfactory just a Factorio DLC? https://www.youtube.com/watch?v=eECUlmDq1LQ
+* [Q&A: Quality-of-life update?](../transcriptions/yt-cwWUYRciIoc.md) https://www.youtube.com/watch?v=cwWUYRciIoc
+* [Q&A: When are you going to finish Factorio?](../transcriptions/yt-rJXYNXfUQCI.md) https://www.youtube.com/watch?v=rJXYNXfUQCI
+* [Q&A: Is Satisfactory just a Factorio DLC?](../transcriptions/yt-eECUlmDq1LQ.md) https://www.youtube.com/watch?v=eECUlmDq1LQ
 
 ## March 9th, 2019 Livestream
 * [Q&A: What were the first reaction of the Factorio devs when they saw your job on Satisfactory?](../transcriptions/yt-Cgy1m7GQvXc.md) https://www.youtube.com/watch?v=Cgy1m7GQvXc

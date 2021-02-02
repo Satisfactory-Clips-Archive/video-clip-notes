@@ -74,8 +74,8 @@ date: Last Modified
 * [Q&A: You guys planning a Content Creator Program?](../transcriptions/yt-jfPUvIBBJVw.md) https://www.youtube.com/watch?v=jfPUvIBBJVw
 
 ## August 25th, 2020 Livestream
-* Q&A: I wanna see a Mod highlight part 2? https://www.youtube.com/watch?v=ZaVKeo3QXqg
-* Q&A: Should I try a 5x5? https://www.youtube.com/watch?v=sTyZCrW9F_E
+* [Q&A: I wanna see a Mod highlight part 2?](../transcriptions/yt-ZaVKeo3QXqg.md) https://www.youtube.com/watch?v=ZaVKeo3QXqg
+* [Q&A: Should I try a 5x5?](../transcriptions/yt-sTyZCrW9F_E.md) https://www.youtube.com/watch?v=sTyZCrW9F_E
 
 ## June 8th, 2020 Livestream
 * [Community Highlights - Chainsaw on legs](../transcriptions/yt-tX8VDBudtuI.md) https://www.youtube.com/watch?v=tX8VDBudtuI

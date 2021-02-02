@@ -8,4 +8,4 @@ date: Last Modified
 * [Q&A: What is your favourite Mod?](../../transcriptions/yt-9tdYBCwd5no.md) https://www.youtube.com/watch?v=9tdYBCwd5no
 
 ## August 25th, 2020 Livestream
-* Q&A: Can players have custom programmers ? https://www.youtube.com/watch?v=0mvgvUhbUuI
+* [Q&A: Can players have custom programmers ?](../../transcriptions/yt-0mvgvUhbUuI.md) https://www.youtube.com/watch?v=0mvgvUhbUuI

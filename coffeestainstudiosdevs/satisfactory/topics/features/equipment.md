@@ -22,9 +22,9 @@ date: Last Modified
 * [Q&A: Can I wear Boots, Jetpack and a Gas Mask?](../../transcriptions/yt-Gt1ATsmBu6k.md) https://www.youtube.com/watch?v=Gt1ATsmBu6k
 
 ## August 25th, 2020 Livestream
-* Q&A: I want to fire Nukes at my rival Pioneers? https://www.youtube.com/watch?v=CQ0vc3uRaw8
-* Q&A: Why can't we explode some stones in the map? https://www.youtube.com/watch?v=Yhtu3NBv2NM
-* Q&A: Explosive Barrels of Gas we can send through the rail guns ? https://www.youtube.com/watch?v=e4iY6zivsbU
+* [Q&A: I want to fire Nukes at my rival Pioneers?](../../transcriptions/yt-CQ0vc3uRaw8.md) https://www.youtube.com/watch?v=CQ0vc3uRaw8
+* [Q&A: Why can't we explode some stones in the map?](../../transcriptions/yt-Yhtu3NBv2NM.md) https://www.youtube.com/watch?v=Yhtu3NBv2NM
+* [Q&A: Explosive Barrels of Gas we can send through the rail guns ?](../../transcriptions/yt-e4iY6zivsbU.md) https://www.youtube.com/watch?v=e4iY6zivsbU
 * Q&A: Explosive Barrels of Gas we can send through the rail guns ? https://clips.twitch.tv/CrowdedRespectfulNostrilNotATK
 
 ## January 22nd, 2020 Livestream

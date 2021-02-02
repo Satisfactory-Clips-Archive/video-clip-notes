@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 9
 
 ## August 25th, 2020 Livestream
-* Q&A: What is expected for Tier 9? https://www.youtube.com/watch?v=EAOiEQn7E5A
+* [Q&A: What is expected for Tier 9?](../../../transcriptions/yt-EAOiEQn7E5A.md) https://www.youtube.com/watch?v=EAOiEQn7E5A
 * Q&A: What is expected for Tier 9? https://clips.twitch.tv/FrigidWiseSnakeOSfrog
 
 ## June 8th, 2020 Livestream

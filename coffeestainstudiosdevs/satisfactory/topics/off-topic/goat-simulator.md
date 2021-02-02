@@ -12,8 +12,8 @@ date: Last Modified
 * [Trolling: Goat Simulator DLC](../../transcriptions/yt-yXp4YAvRZHg.md) https://www.youtube.com/watch?v=yXp4YAvRZHg
 
 ## August 25th, 2020 Livestream
-* Q&A: Will you be able to play Doom on the Hub screens? https://www.youtube.com/watch?v=lVjzwGuhM5I
-* Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever? https://www.youtube.com/watch?v=-AjFbGOOAQI
+* [Q&A: Will you be able to play Doom on the Hub screens?](../../transcriptions/yt-lVjzwGuhM5I.md) https://www.youtube.com/watch?v=lVjzwGuhM5I
+* [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../transcriptions/yt--AjFbGOOAQI.md) https://www.youtube.com/watch?v=-AjFbGOOAQI
 
 ## August 18th, 2020 Livestream
 * Q&A: Are vehicles going to get less sketchy or are we always getting Goat Simulator physics? https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage

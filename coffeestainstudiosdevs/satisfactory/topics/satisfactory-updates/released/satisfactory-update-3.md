@@ -14,12 +14,12 @@ date: Last Modified
 * [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../../transcriptions/yt-42AzC9Qk2yc.md) https://www.youtube.com/watch?v=42AzC9Qk2yc
 
 ## August 25th, 2020 Livestream
-* Q&A: Quality-of-life update? https://www.youtube.com/watch?v=cwWUYRciIoc
-* Q&A: Do you have a set of ideas? https://www.youtube.com/watch?v=eSN0HQlSJBs
-* Q&A: Why do big updates at all - why not just release everything in small bites? https://www.youtube.com/watch?v=qEiYxLhX3CM
-* Q&A: Do you want to release updates before you release full game? https://www.youtube.com/watch?v=xdj5fWV5VK8
-* Q&A: Dedicated Servers update? https://www.youtube.com/watch?v=mtE-rHjMsn4
-* Q&A: When's Tier 8 coming? https://www.youtube.com/watch?v=plexfdPIaSw
+* [Q&A: Quality-of-life update?](../../../transcriptions/yt-cwWUYRciIoc.md) https://www.youtube.com/watch?v=cwWUYRciIoc
+* [Q&A: Do you have a set of ideas?](../../../transcriptions/yt-eSN0HQlSJBs.md) https://www.youtube.com/watch?v=eSN0HQlSJBs
+* [Q&A: Why do big updates at all - why not just release everything in small bites?](../../../transcriptions/yt-qEiYxLhX3CM.md) https://www.youtube.com/watch?v=qEiYxLhX3CM
+* [Q&A: Do you want to release updates before you release full game?](../../../transcriptions/yt-xdj5fWV5VK8.md) https://www.youtube.com/watch?v=xdj5fWV5VK8
+* [Q&A: Dedicated Servers update?](../../../transcriptions/yt-mtE-rHjMsn4.md) https://www.youtube.com/watch?v=mtE-rHjMsn4
+* [Q&A: When's Tier 8 coming?](../../../transcriptions/yt-plexfdPIaSw.md) https://www.youtube.com/watch?v=plexfdPIaSw
 * Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
 
 ## June 8th, 2020 Livestream

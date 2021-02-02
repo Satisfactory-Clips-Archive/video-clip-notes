@@ -45,9 +45,9 @@ date: Last Modified
 * [Q&A: Is it safe to set up 1000 Turbo Fuel Generators?](../../transcriptions/yt-0JyFVACOZ-E.md) https://www.youtube.com/watch?v=0JyFVACOZ-E
 
 ## August 25th, 2020 Livestream
-* Q&A: Tanker Trucks? https://www.youtube.com/watch?v=IPmVdCgi2_A
-* Q&A: Will you be adding more variety of resources? https://www.youtube.com/watch?v=wvFR-VL4nc8
-* Q&A: Is the sink going to accept liquids in the future? https://www.youtube.com/watch?v=k6ZS5wzlNKs
+* [Q&A: Tanker Trucks?](../../transcriptions/yt-IPmVdCgi2_A.md) https://www.youtube.com/watch?v=IPmVdCgi2_A
+* [Q&A: Will you be adding more variety of resources?](../../transcriptions/yt-wvFR-VL4nc8.md) https://www.youtube.com/watch?v=wvFR-VL4nc8
+* [Q&A: Is the sink going to accept liquids in the future?](../../transcriptions/yt-k6ZS5wzlNKs.md) https://www.youtube.com/watch?v=k6ZS5wzlNKs
 
 ## December 19th, 2019 Livestream
 * [Q&A: When is Coffee going to be introduced to the game?](../../transcriptions/yt-o3Nr13tH7dY.md) https://www.youtube.com/watch?v=o3Nr13tH7dY

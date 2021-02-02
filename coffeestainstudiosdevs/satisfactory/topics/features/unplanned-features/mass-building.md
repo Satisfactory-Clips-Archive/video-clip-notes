@@ -68,10 +68,10 @@ date: Last Modified
 * [Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?](../../../transcriptions/yt-RyE_hc4huhA.md) https://www.youtube.com/watch?v=RyE_hc4huhA
 
 ## August 25th, 2020 Livestream
-* Q&A: Blueprints would be awesome for end-game https://www.youtube.com/watch?v=e2YhcCwJNNg
-* Q&A: Given how often Blueprints keeps being requested it really needs to be adopted? https://www.youtube.com/watch?v=EbTEcw5zg8k
-* Q&A: Drag-to-build Mode? https://www.youtube.com/watch?v=uACIFWnIlY0
-* Snutt Talk: Blueprints for beginners vs. end-game play https://www.youtube.com/watch?v=RdDroPYu1sk
+* [Q&A: Blueprints would be awesome for end-game](../../../transcriptions/yt-e2YhcCwJNNg.md) https://www.youtube.com/watch?v=e2YhcCwJNNg
+* [Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?](../../../transcriptions/yt-EbTEcw5zg8k.md) https://www.youtube.com/watch?v=EbTEcw5zg8k
+* [Q&A: Drag-to-build Mode?](../../../transcriptions/yt-uACIFWnIlY0.md) https://www.youtube.com/watch?v=uACIFWnIlY0
+* [Snutt Talk: Blueprints for beginners vs. end-game play](../../../transcriptions/yt-RdDroPYu1sk.md) https://www.youtube.com/watch?v=RdDroPYu1sk
 * Q&A: Copy & Paste settings from Machine to Machine? https://clips.twitch.tv/SlickEsteemedTriangleVoteNay
 * Q&A: Drag-to-build Mode? https://clips.twitch.tv/UglyRacyCaribouYouWHY
 * Q&A: Blueprints would be awesome for end-game (Part 1) https://clips.twitch.tv/LuckyNastyLionDogFace

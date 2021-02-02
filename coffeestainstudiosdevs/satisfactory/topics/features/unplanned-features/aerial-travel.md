@@ -32,10 +32,10 @@ date: Last Modified
 * [Q&A: The game needs small Flying Vehicles to travel long distance?](../../../transcriptions/yt-i0_bbpQ_91I.md) https://www.youtube.com/watch?v=i0_bbpQ_91I
 
 ## August 25th, 2020 Livestream
-* Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://www.youtube.com/watch?v=mAA2oX9mDOw
+* [Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ?](../../../transcriptions/yt-mAA2oX9mDOw.md) https://www.youtube.com/watch?v=mAA2oX9mDOw
 * Q&A: How about a drone to fly around? https://www.youtube.com/watch?v=1msTsQksmbI
-* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? https://www.youtube.com/watch?v=Ds9NIPna9_4
-* Q&A: State of things = 🤷? https://www.youtube.com/watch?v=5SH9eySqDzU
+* [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../../transcriptions/yt-Ds9NIPna9_4.md) https://www.youtube.com/watch?v=Ds9NIPna9_4
+* [Q&A: State of things = 🤷?](../../../transcriptions/yt-5SH9eySqDzU.md) https://www.youtube.com/watch?v=5SH9eySqDzU
 * Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother
 * Q&A: How about a drone to fly around? https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby
 * Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 1) https://clips.twitch.tv/AbstruseFrailKathyMrDestructoid

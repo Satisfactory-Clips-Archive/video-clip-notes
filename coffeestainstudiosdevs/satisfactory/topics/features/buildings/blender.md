@@ -15,4 +15,4 @@ date: Last Modified
 * [Q&A: Any early release previews for the update?](../../../transcriptions/yt-o1IfznnrGgc.md) https://www.youtube.com/watch?v=o1IfznnrGgc
 
 ## August 25th, 2020 Livestream
-* Q&A: Some new Machines in the next update? https://www.youtube.com/watch?v=Kk0ULnBXeXE
+* [Q&A: Some new Machines in the next update?](../../../transcriptions/yt-Kk0ULnBXeXE.md) https://www.youtube.com/watch?v=Kk0ULnBXeXE

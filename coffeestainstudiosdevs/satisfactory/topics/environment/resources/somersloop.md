@@ -23,7 +23,7 @@ date: Last Modified
 * [Jace & Snutt Talk: Story](../../../transcriptions/yt-vPWShxAn3io.md) https://www.youtube.com/watch?v=vPWShxAn3io
 
 ## August 25th, 2020 Livestream
-* Q&A: Do you have any clue on what the alien artefacts do? https://www.youtube.com/watch?v=hRe0QvJDjsg
+* [Q&A: Do you have any clue on what the alien artefacts do?](../../../transcriptions/yt-hRe0QvJDjsg.md) https://www.youtube.com/watch?v=hRe0QvJDjsg
 
 ## December 19th, 2019 Livestream
 * [Q&A: Will Mercer Spheres and Somersloops be useful soon?](../../../transcriptions/yt-SYWPIjbe_4Y.md) https://www.youtube.com/watch?v=SYWPIjbe_4Y

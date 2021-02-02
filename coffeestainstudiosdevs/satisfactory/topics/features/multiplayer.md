@@ -87,12 +87,12 @@ date: Last Modified
 * [Q&A: Maybe it's a good idea to dynamically hand over authority a vehicle in multiplayer?](../../transcriptions/yt-Xdrr6IazPTg.md) https://www.youtube.com/watch?v=Xdrr6IazPTg
 
 ## August 25th, 2020 Livestream
-* Q&A: Can you make modular vehicles? https://www.youtube.com/watch?v=k6hkL7fE6OQ
-* Q&A: Are you going to improve networking for multiplayer? https://www.youtube.com/watch?v=mf-PgMUVTiI
-* Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug? https://www.youtube.com/watch?v=btJHOT-HkO0
-* Q&A: The time for multiplayer fix, can't use vehicles? https://www.youtube.com/watch?v=UOhRWdHvGzc
-* Q&A: Are limited resources planned? https://www.youtube.com/watch?v=85XNSiDpeZw
-* Q&A: Is there a Battle Royale Mode planned? https://www.youtube.com/watch?v=b7ZVifJXBBg
+* [Q&A: Can you make modular vehicles?](../../transcriptions/yt-k6hkL7fE6OQ.md) https://www.youtube.com/watch?v=k6hkL7fE6OQ
+* [Q&A: Are you going to improve networking for multiplayer?](../../transcriptions/yt-mf-PgMUVTiI.md) https://www.youtube.com/watch?v=mf-PgMUVTiI
+* [Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug?](../../transcriptions/yt-btJHOT-HkO0.md) https://www.youtube.com/watch?v=btJHOT-HkO0
+* [Q&A: The time for multiplayer fix, can't use vehicles?](../../transcriptions/yt-UOhRWdHvGzc.md) https://www.youtube.com/watch?v=UOhRWdHvGzc
+* [Q&A: Are limited resources planned?](../../transcriptions/yt-85XNSiDpeZw.md) https://www.youtube.com/watch?v=85XNSiDpeZw
+* [Q&A: Is there a Battle Royale Mode planned?](../../transcriptions/yt-b7ZVifJXBBg.md) https://www.youtube.com/watch?v=b7ZVifJXBBg
 * Q&A: Is there a Battle Royale Mode planned? https://clips.twitch.tv/SavorySlickWombatOSkomodo
 * Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug? https://clips.twitch.tv/LightAcceptableCheesePermaSmug
 * Q&A: The time for multiplayer fix, can't use vehicles? https://clips.twitch.tv/PlayfulConfidentRabbitCurseLit
