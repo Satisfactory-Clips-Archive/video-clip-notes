@@ -3,14 +3,14 @@ title: "October 20th, 2020 Livestream Q&A: Five years? What is this- an Early Ac
 date: "2020-10-20"
 layout: transcript
 topics:
-    - ""
+    - "factorio"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Five years? What is this- an Early Access Logistics game?
 https://www.youtube.com/watch?v=spm2R0VhMV8
 
 ### Topics
-
+* [Factorio](../topics/factorio.md)
 
 ### Transcript
 

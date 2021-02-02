@@ -4,7 +4,7 @@ date: "2020-09-08"
 layout: transcript
 topics:
     - "features/possible-features/game-modes"
-    - "technology/graphics"
+    - "features/unplanned-features/vr"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Ever consider making a VR version of Satisfactory?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=3s-PKymQ9QU
 
 ### Topics
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Unplanned Features > VR](../topics/features/unplanned-features/vr.md)
 
 ### Transcript
 

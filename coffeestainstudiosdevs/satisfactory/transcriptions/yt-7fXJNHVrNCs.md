@@ -3,6 +3,7 @@ title: "November 10th, 2020 Livestream Q&A: Who's Kibitz?"
 date: "2020-11-10"
 layout: transcript
 topics:
+    - "community/kibitz"
     - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=7fXJNHVrNCs
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Community > Kibitz](../topics/community/kibitz.md)
 
 ### Transcript
 

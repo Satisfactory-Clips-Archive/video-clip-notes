@@ -3,14 +3,14 @@ title: "October 13th, 2020 Livestream Q&A: Do you guys think Steel cost is balan
 date: "2020-10-13"
 layout: transcript
 topics:
-    - "environment/resources"
+    - "environment/resources/steel"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Do you guys think Steel cost is balanced right now?
 https://www.youtube.com/watch?v=Zntz0NmqkBM
 
 ### Topics
-* [Environment > Resources](../topics/environment/resources.md)
+* [Environment > Resources > Steel](../topics/environment/resources/steel.md)
 
 ### Transcript
 

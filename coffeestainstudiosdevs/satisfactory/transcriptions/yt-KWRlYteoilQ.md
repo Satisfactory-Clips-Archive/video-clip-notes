@@ -3,14 +3,14 @@ title: "November 3rd, 2020 Livestream Q&A: Do you know I Am Kibitz?"
 date: "2020-11-03"
 layout: transcript
 topics:
-    - ""
+    - "community/kibitz"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Do you know I Am Kibitz?
 https://www.youtube.com/watch?v=KWRlYteoilQ
 
 ### Topics
-
+* [Community > Kibitz](../topics/community/kibitz.md)
 
 ### Transcript
 

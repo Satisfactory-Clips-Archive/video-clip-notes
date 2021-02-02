@@ -3,14 +3,14 @@ title: "November 3rd, 2020 Livestream Q&A: VR Support?"
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "features/unplanned-features/vr"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: VR Support?
 https://www.youtube.com/watch?v=eJz8dJImPfQ
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Unplanned Features > VR](../topics/features/unplanned-features/vr.md)
 
 ### Transcript
 

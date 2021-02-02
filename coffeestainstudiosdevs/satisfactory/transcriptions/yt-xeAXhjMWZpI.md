@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=xeAXhjMWZpI
 
 ### Topics
-* [Environment > Resources](../topics/environment/resources.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Environment > Resources](../topics/environment/resources.md)
 
 ### Transcript
 

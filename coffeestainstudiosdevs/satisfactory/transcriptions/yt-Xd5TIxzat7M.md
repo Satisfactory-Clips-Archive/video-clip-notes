@@ -3,14 +3,14 @@ title: "November 24th, 2020 Livestream Jace Talk: VR for Satisfactory"
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "features/unplanned-features/vr"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Jace Talk: VR for Satisfactory
 https://www.youtube.com/watch?v=Xd5TIxzat7M
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Unplanned Features > VR](../topics/features/unplanned-features/vr.md)
 
 ### Transcript
 

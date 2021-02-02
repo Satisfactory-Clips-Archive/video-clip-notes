@@ -3,6 +3,7 @@ title: "September 1st, 2020 Livestream Q&A: Will there be a new type of processi
 date: "2020-09-01"
 layout: transcript
 topics:
+    - "community/kibitz"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=fkxbtZfVM8c
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Community > Kibitz](../topics/community/kibitz.md)
 
 ### Transcript
 

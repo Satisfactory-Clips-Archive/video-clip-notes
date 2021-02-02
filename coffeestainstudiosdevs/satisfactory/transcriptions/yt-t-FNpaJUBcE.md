@@ -14,9 +14,9 @@ https://www.youtube.com/watch?v=t-FNpaJUBcE
 
 ### Topics
 * [Environment > Plants](../topics/environment/plants.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 

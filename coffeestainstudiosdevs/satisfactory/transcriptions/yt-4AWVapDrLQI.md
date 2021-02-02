@@ -3,14 +3,14 @@ title: "September 15th, 2020 Livestream Jace & Snutt Talk: Early Access Games"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - ""
+    - "factorio"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Jace & Snutt Talk: Early Access Games
 https://www.youtube.com/watch?v=4AWVapDrLQI
 
 ### Topics
-
+* [Factorio](../topics/factorio.md)
 
 ### Transcript
 

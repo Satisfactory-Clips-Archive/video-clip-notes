@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=IFxnvuYEVtk
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > Plants](../topics/environment/plants.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 

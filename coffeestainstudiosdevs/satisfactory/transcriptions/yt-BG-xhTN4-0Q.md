@@ -4,6 +4,7 @@ date: "2021-01-26"
 layout: transcript
 topics:
     - "coffee-stainers"
+    - "factorio"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: How did you come up with the idea of making Satisfactory?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=BG-xhTN4-0Q
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
+* [Factorio](../topics/factorio.md)
 
 ### Transcript
 

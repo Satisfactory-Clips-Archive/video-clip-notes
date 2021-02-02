@@ -3,14 +3,14 @@ title: "November 17th, 2020 Livestream Q&A: Do you think this game would be suit
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "features/unplanned-features/vr"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Do you think this game would be suited for VR?
 https://www.youtube.com/watch?v=z_DRaH3tfvY
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Unplanned Features > VR](../topics/features/unplanned-features/vr.md)
 
 ### Transcript
 

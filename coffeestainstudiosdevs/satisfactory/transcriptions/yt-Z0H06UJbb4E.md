@@ -3,6 +3,7 @@ title: "January 19th, 2021 Livestream Q&A: Mass Foundation creation?"
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "factorio"
     - "features/buildables/foundations"
     - "features/unplanned-features/mass-building"
     - "mods/mods-vs-features"
@@ -17,6 +18,7 @@ https://www.youtube.com/watch?v=Z0H06UJbb4E
 * [Technology > User Interface](../topics/technology/user-interface.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+* [Factorio](../topics/factorio.md)
 
 ### Transcript
 
