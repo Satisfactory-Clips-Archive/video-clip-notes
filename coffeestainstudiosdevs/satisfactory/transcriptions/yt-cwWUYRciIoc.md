@@ -3,7 +3,7 @@ title: "August 25th, 2020 Livestream Q&A: Quality-of-life update?"
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "factorio"
+    - "off-topic/factorio"
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-update-3"
     - "satisfactory-updates/speculative/satisfactory-update-5"
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=cwWUYRciIoc
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
-* [Factorio](../topics/factorio.md)
+* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
 
 ### Transcript
 

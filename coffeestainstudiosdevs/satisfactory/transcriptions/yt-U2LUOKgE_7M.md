@@ -3,14 +3,14 @@ title: "January 26th, 2021 Livestream Q&A: My friend says Satisfactory is just F
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "factorio"
+    - "off-topic/factorio"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: My friend says Satisfactory is just Factorio in 3d, how do I convince them otherwise?
 https://www.youtube.com/watch?v=U2LUOKgE_7M
 
 ### Topics
-* [Factorio](../topics/factorio.md)
+* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
 
 ### Transcript
 

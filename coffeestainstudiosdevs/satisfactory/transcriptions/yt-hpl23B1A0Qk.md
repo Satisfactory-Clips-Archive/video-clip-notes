@@ -3,8 +3,8 @@ title: "September 1st, 2020 Livestream Q&A: Blueprints?"
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "factorio"
     - "features/unplanned-features/mass-building"
+    - "off-topic/factorio"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Blueprints?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=hpl23B1A0Qk
 
 ### Topics
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
-* [Factorio](../topics/factorio.md)
+* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
 
 ### Transcript
 

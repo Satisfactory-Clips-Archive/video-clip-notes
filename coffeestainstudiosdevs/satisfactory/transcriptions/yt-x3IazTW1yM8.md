@@ -3,14 +3,14 @@ title: "November 24th, 2020 Livestream Q&A: Factorio has Belt multi-core?"
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "factorio"
+    - "off-topic/factorio"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Factorio has Belt multi-core?
 https://www.youtube.com/watch?v=x3IazTW1yM8
 
 ### Topics
-* [Factorio](../topics/factorio.md)
+* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
 
 ### Transcript
 

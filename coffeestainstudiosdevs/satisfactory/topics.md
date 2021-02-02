@@ -52,7 +52,6 @@ date: Last Modified
 * [S.A.M. Ore](./topics/environment/resources/sam-ore.md)
 * [Somersloop](./topics/environment/resources/somersloop.md)
 * [Steel](./topics/environment/resources/steel.md)
-* [Factorio](./topics/factorio.md)
 
 # Features
 * [Autosave](./topics/features/autosave.md)
@@ -180,6 +179,7 @@ date: Last Modified
 
 # [Off-Topic](./topics/off-topic.md)
 * [Deep Rock Galactic](./topics/off-topic/deep-rock-galactic.md)
+* [Factorio](./topics/off-topic/factorio.md)
 * [Goat Simulator](./topics/off-topic/goat-simulator.md)
 * [Infinifactory](./topics/off-topic/infinifactory.md)
 * [Pizza](./topics/off-topic/pizza.md)

@@ -376,11 +376,6 @@ date: Last Modified
 #### [December 19th, 2019 Livestream](./2019-12-19.md)
 * [Q&A: Will Mercer Spheres and Somersloops be useful soon?](./transcriptions/yt-SYWPIjbe_4Y.md) https://www.youtube.com/watch?v=SYWPIjbe_4Y
 
-# [Factorio](./topics/factorio.md)
-
-## [September 1st, 2020 Livestream](./2020-09-01.md)
-* [Q&A: Blueprints?](./transcriptions/yt-hpl23B1A0Qk.md) https://www.youtube.com/watch?v=hpl23B1A0Qk
-
 # Features
 
 ## [Autosave](./topics/features/autosave.md)
@@ -1590,6 +1585,11 @@ date: Last Modified
 * [Q&A: Will we be seeing support for Steam Workshop?](./transcriptions/yt-n4fagQ4eivI.md) https://www.youtube.com/watch?v=n4fagQ4eivI
 
 # [Off-Topic](./topics/off-topic.md)
+
+## [Factorio](./topics/off-topic/factorio.md)
+
+### [September 1st, 2020 Livestream](./2020-09-01.md)
+* [Q&A: Blueprints?](./transcriptions/yt-hpl23B1A0Qk.md) https://www.youtube.com/watch?v=hpl23B1A0Qk
 
 ## [Sanctum](./topics/off-topic/sanctum.md)
 

@@ -3,14 +3,14 @@ title: "August 25th, 2020 Livestream Q&A: Is Satisfactory just a Factorio DLC?"
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "factorio"
+    - "off-topic/factorio"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Is Satisfactory just a Factorio DLC?
 https://www.youtube.com/watch?v=eECUlmDq1LQ
 
 ### Topics
-* [Factorio](../topics/factorio.md)
+* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
 
 ### Transcript
 

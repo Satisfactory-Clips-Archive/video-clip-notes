@@ -3,14 +3,14 @@ title: "August 25th, 2020 Livestream Q&A: When are you going to finish Factorio?
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "factorio"
+    - "off-topic/factorio"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: When are you going to finish Factorio?
 https://www.youtube.com/watch?v=rJXYNXfUQCI
 
 ### Topics
-* [Factorio](../topics/factorio.md)
+* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
 
 ### Transcript
 

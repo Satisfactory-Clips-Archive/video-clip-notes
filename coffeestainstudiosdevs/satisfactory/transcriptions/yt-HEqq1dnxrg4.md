@@ -3,8 +3,8 @@ title: "September 29th, 2020 Livestream Q&A: I forgot the game even had Mod capa
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "factorio"
     - "mods"
+    - "off-topic/factorio"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: I forgot the game even had Mod capability
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=HEqq1dnxrg4
 
 ### Topics
 * [Mods](../topics/mods.md)
-* [Factorio](../topics/factorio.md)
+* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
 
 ### Transcript
 

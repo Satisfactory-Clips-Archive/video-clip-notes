@@ -4,6 +4,7 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Off-Topic
 * [Deep Rock Galactic](../topics/off-topic/deep-rock-galactic.md)
+* [Factorio](../topics/off-topic/factorio.md)
 * [Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [Infinifactory](../topics/off-topic/infinifactory.md)
 * [Pizza](../topics/off-topic/pizza.md)
