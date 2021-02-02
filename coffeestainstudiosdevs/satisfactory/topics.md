@@ -15,6 +15,8 @@ date: Last Modified
 * [Mark](./topics/coffee-stainers/mark.md)
 * [Markus](./topics/coffee-stainers/markus.md)
 * [Nathalie](./topics/coffee-stainers/nathalie.md)
+* [Neshkor](./topics/coffee-stainers/neshkor.md)
+* [Ros](./topics/coffee-stainers/ros.md)
 * [Simon](./topics/coffee-stainers/simon.md)
 * [Snutt](./topics/coffee-stainers/snutt.md)
 * [Tim](./topics/coffee-stainers/tim.md)
@@ -22,11 +24,12 @@ date: Last Modified
 # [Community](./topics/community.md)
 * [Josh](./topics/community/josh.md)
 * [Joshie](./topics/community/joshie.md)
+* [Kibitz](./topics/community/kibitz.md)
 * [Panakotta](./topics/community/panakotta.md)
 * [Smerkin](./topics/community/smerkin.md)
 * [Wiki](./topics/community/wiki.md)
 
-# Environment
+# [Environment](./topics/environment.md)
 * [Plants](./topics/environment/plants.md)
 * [Pollution](./topics/environment/pollution.md)
 * [Resource Wells](./topics/environment/resource-wells.md)
@@ -48,6 +51,8 @@ date: Last Modified
 * [Oil](./topics/environment/resources/oil.md)
 * [S.A.M. Ore](./topics/environment/resources/sam-ore.md)
 * [Somersloop](./topics/environment/resources/somersloop.md)
+* [Steel](./topics/environment/resources/steel.md)
+* [Factorio](./topics/factorio.md)
 
 # Features
 * [Autosave](./topics/features/autosave.md)
@@ -82,6 +87,7 @@ date: Last Modified
 * [Resource Well Pressurizer](./topics/features/buildings/resource-well-pressurizer.md)
 * [Space Elevator](./topics/features/buildings/space-elevator.md)
 * [The HUB](./topics/features/buildings/the-hub.md)
+* [Water Extractor](./topics/features/buildings/water-extractor.md)
 
 ## [Crafting](./topics/features/crafting.md)
 * [Fuel](./topics/features/crafting/fuel.md)
@@ -153,6 +159,7 @@ date: Last Modified
 * [Procedural Generation](./topics/features/unplanned-features/procedural-generation.md)
 * [Space Exploration](./topics/features/unplanned-features/space-exploration.md)
 * [Terraforming](./topics/features/unplanned-features/terraforming.md)
+* [VR](./topics/features/unplanned-features/vr.md)
 
 ## Unreleased Features
 * [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
@@ -164,6 +171,7 @@ date: Last Modified
 * [FICSIT Cup Prototypes](./topics/merch/merch-prototypes/ficsit-cup-prototypes.md)
 
 # [Mods](./topics/mods.md)
+* [FicsIt-Networks](./topics/mods/ficsit-networks.md)
 * [Ficsit Farming](./topics/mods/ficsit-farming.md)
 * [Mods vs. Features](./topics/mods/mods-vs-features.md)
 
@@ -173,6 +181,7 @@ date: Last Modified
 # [Off-Topic](./topics/off-topic.md)
 * [Deep Rock Galactic](./topics/off-topic/deep-rock-galactic.md)
 * [Goat Simulator](./topics/off-topic/goat-simulator.md)
+* [Infinifactory](./topics/off-topic/infinifactory.md)
 * [Pizza](./topics/off-topic/pizza.md)
 * [Sanctum](./topics/off-topic/sanctum.md)
 * [Semlor](./topics/off-topic/semlor.md)
@@ -208,6 +217,8 @@ date: Last Modified
 
 ## Characters
 * [ADA](./topics/story-lore/characters/ada.md)
+* [Caterina Parks](./topics/story-lore/characters/caterina-parks.md)
+* [Steve](./topics/story-lore/characters/steve.md)
 
 # [Technology](./topics/technology.md)
 * [Graphics](./topics/technology/graphics.md)

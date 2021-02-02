@@ -32,6 +32,8 @@ date: Last Modified
 * [Q&A: What about lights?](../../../transcriptions/yt-FqGp1WsRo6s.md) https://www.youtube.com/watch?v=FqGp1WsRo6s
 
 ## August 25th, 2020 Livestream
+* Q&A: Will light be added to the game? https://www.youtube.com/watch?v=FuUHMwoNA0s
+* Q&A: State of things = 🤷? https://www.youtube.com/watch?v=5SH9eySqDzU
 * Q&A: Will light be added to the game? (Part 1) https://clips.twitch.tv/FunOilyWolverineCorgiDerp
 * Q&A: Will light be added to the game? (Part 2) https://clips.twitch.tv/NeighborlyCharmingBasenjiRlyTho
 * Q&A: Will light be added to the game? (Part 3) https://clips.twitch.tv/AbnegateEndearingBottleKlappa

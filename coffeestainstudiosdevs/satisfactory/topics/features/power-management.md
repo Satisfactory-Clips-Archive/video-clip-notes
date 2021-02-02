@@ -66,6 +66,13 @@ date: Last Modified
 * [Q&A: Would geothermal generators get a buff or rework of sorts?](../../transcriptions/yt-T7BPQ1ZHeJA.md) https://www.youtube.com/watch?v=T7BPQ1ZHeJA
 
 ## August 25th, 2020 Livestream
+* Q&A: Do you have any tips on Coal Generators? https://www.youtube.com/watch?v=M4myLkUI6HU
+* Q&A: What about a more complex power system with transformers and stuff? https://www.youtube.com/watch?v=GaId9klI7ho
+* Q&A: AI in an Electricity Management System that can handle power surges when we're away from base? https://www.youtube.com/watch?v=gj-NgdVYap8
+* Q&A: Are there internal discussions to significantly rework existing buildings like refineries? https://www.youtube.com/watch?v=x07FQZjbA_c
+* Q&A: Potential to get better management for power grids? https://www.youtube.com/watch?v=_H3wk4VfjIY
+* Q&A: Any chance we can have a power switch so we can shut down power generators? https://www.youtube.com/watch?v=kZAnBqZybhs
+* Q&A: Generators have power switches, so do all structures in the game? https://www.youtube.com/watch?v=CN2G6ZH6bmA
 * Q&A: What about a more complex power system with transformers and stuff? https://clips.twitch.tv/FrozenVivaciousLaptopGivePLZ
 * Q&A: AI in an Electricity Management System that can handle power surges when we're away from base? https://clips.twitch.tv/FancyPiercingLardOneHand
 * Q&A: Potential to get better management for power grids? https://clips.twitch.tv/SoftTangentialGaurJonCarnage

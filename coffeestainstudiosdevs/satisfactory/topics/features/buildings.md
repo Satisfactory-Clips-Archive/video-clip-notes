@@ -16,6 +16,7 @@ date: Last Modified
 * [Resource Well Pressurizer](../../topics/features/buildings/resource-well-pressurizer.md)
 * [Space Elevator](../../topics/features/buildings/space-elevator.md)
 * [The HUB](../../topics/features/buildings/the-hub.md)
+* [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Any plans for deterioration or maintenance mechanics for Buildings?](../../transcriptions/yt-W8Ia5yx0n-k.md) https://www.youtube.com/watch?v=W8Ia5yx0n-k
@@ -132,6 +133,10 @@ date: Last Modified
 * [Q&A: Why did you change the Nuclear Reactors model?](../../transcriptions/yt-hBpbwXr9cMs.md) https://www.youtube.com/watch?v=hBpbwXr9cMs
 
 ## August 25th, 2020 Livestream
+* Q&A: Copy & Paste settings from Machine to Machine? https://www.youtube.com/watch?v=20nzwUoDWuA
+* Q&A: Fixing machines that break? https://www.youtube.com/watch?v=oYFn3xvAOHs
+* Snutt Talk: Machines breaking & Base Defence https://www.youtube.com/watch?v=UhehbJ9kR2c
+* Q&A: Generators have power switches, so do all structures in the game? https://www.youtube.com/watch?v=CN2G6ZH6bmA
 * Q&A: Fixing machines that break? https://clips.twitch.tv/EnergeticInexpensiveDillCurseLit
 * Snutt Talk: Machines breaking & Base Defence https://clips.twitch.tv/ElegantKawaiiGnatOneHand
 * Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause

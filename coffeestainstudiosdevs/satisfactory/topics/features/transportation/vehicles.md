@@ -60,6 +60,16 @@ date: Last Modified
 * [Q&A: Dirt Bikes?](../../../transcriptions/yt-75OR9Co9l74.md) https://www.youtube.com/watch?v=75OR9Co9l74
 
 ## August 25th, 2020 Livestream
+* Q&A: If you add Trucks then add Boats? https://www.youtube.com/watch?v=A10cQzT6TpU
+* Q&A: Can you make modular vehicles? https://www.youtube.com/watch?v=k6hkL7fE6OQ
+* Q&A: Please consider adding a third-person view? https://www.youtube.com/watch?v=HXXn10GhRWU
+* Q&A: The time for multiplayer fix, can't use vehicles? https://www.youtube.com/watch?v=UOhRWdHvGzc
+* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? https://www.youtube.com/watch?v=Ds9NIPna9_4
+* Q&A: We need Battleships? https://www.youtube.com/watch?v=VaEaP9IBe08
+* Q&A: Make the Cyber Wagon useful ? https://www.youtube.com/watch?v=ExsAYB92whs
+* Q&A: What can the Cyber Wagon do? https://www.youtube.com/watch?v=mL4yeGMg3ms
+* Q&A: Any plans to dig my explorer to get it out of the hole it fell into? https://www.youtube.com/watch?v=aaP5_tXPthI
+* Snutt PSA: Nuclear Waste disposal https://www.youtube.com/watch?v=FUMyJYJr88Y
 * Snutt Talk: Improving on Vehicles https://clips.twitch.tv/AmazonianAnnoyingSushiUncleNox
 * Q&A: Any plans to dig my explorer to get it out of the hole it fell into? https://clips.twitch.tv/FuriousRockyDuckPRChase
 * Q&A: Can you make modular vehicles? (Part 1) https://clips.twitch.tv/OriginalMuddyDogePeteZaroll

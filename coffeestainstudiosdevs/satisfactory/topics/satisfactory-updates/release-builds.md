@@ -34,6 +34,8 @@ date: Last Modified
 * [Q&A: Is there a difference in performance between the Epic version and the Steam version?](../../transcriptions/yt-CgGc8VRspUA.md) https://www.youtube.com/watch?v=CgGc8VRspUA
 
 ## August 25th, 2020 Livestream
+* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds https://www.youtube.com/watch?v=rr1UWnrs0d4
+* Q&A: Plans for official Linux support? https://www.youtube.com/watch?v=vSFTo-1j-SA
 * Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 1) https://clips.twitch.tv/TentativeHardPlumberYee
 * Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 2) https://clips.twitch.tv/SquareLovelyFriesBudBlast
 * Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 3) https://clips.twitch.tv/TemperedEnchantingOrangeTBCheesePull

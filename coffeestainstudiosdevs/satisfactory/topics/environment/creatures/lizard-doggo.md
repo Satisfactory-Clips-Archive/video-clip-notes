@@ -2,7 +2,7 @@
 title: "Lizard Doggo"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Environment > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
+# [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
 ## January 19th, 2021 Livestream
 * [Q&A: Can we remove Nuclear Waste from the Doggo loot list?](../../../transcriptions/yt-x2qXm_DXJEw.md) https://www.youtube.com/watch?v=x2qXm_DXJEw
@@ -38,6 +38,9 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: Please take a look at the Doggo farm](../../../transcriptions/yt-r-Azcy0xC4c.md) https://www.youtube.com/watch?v=r-Azcy0xC4c
 * [Q&A: The Doggo Plushie has to fit into the Cup](../../../transcriptions/yt-HMsgkhM0i34.md) https://www.youtube.com/watch?v=HMsgkhM0i34
+
+## August 25th, 2020 Livestream
+* Snutt PSA: Nuclear Waste disposal https://www.youtube.com/watch?v=FUMyJYJr88Y
 
 ## August 18th, 2020 Livestream
 * Q&A: Will you be able to pet the doggo? https://clips.twitch.tv/DullHyperSpindlePanicVis

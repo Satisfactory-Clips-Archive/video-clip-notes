@@ -78,6 +78,18 @@ date: Last Modified
 * [Q&A: When will "coal" be "Coal" on the Resource Scanner?](../../transcriptions/yt-p-Zd7qm0D6E.md) https://www.youtube.com/watch?v=p-Zd7qm0D6E
 
 ## August 25th, 2020 Livestream
+* Q&A: What about holes for Foundations? https://www.youtube.com/watch?v=fufH5ltdn7E
+* Q&A: A mark on pipes to show the meters ? https://www.youtube.com/watch?v=lXL_N-a887E
+* Q&A: Today I Learned - there's a mass dismantle? https://www.youtube.com/watch?v=omtlLJxraPk
+* Q&A: What about a Tutorial System? https://www.youtube.com/watch?v=jJOvimJ-Jcc
+* Q&A: Copy & Paste settings from Machine to Machine? https://www.youtube.com/watch?v=20nzwUoDWuA
+* Q&A: Can we get an indicator for the launch line from the Launch Pad? https://www.youtube.com/watch?v=YwYLlE8veKs
+* Q&A: Have you played Infinifactory? https://www.youtube.com/watch?v=QC5TQ6iL8sg
+* Q&A: Water Extractors need to snap to grid https://www.youtube.com/watch?v=sAHdYX0iwIg
+* Q&A: Set a specific Foundation as the keystone? https://www.youtube.com/watch?v=DTZz5jdnn_s
+* Q&A: When will you ad UI for the Steam Geyser Power Plant? https://www.youtube.com/watch?v=xFZfkjY3J0c
+* Q&A: Generators have power switches, so do all structures in the game? https://www.youtube.com/watch?v=CN2G6ZH6bmA
+* Q&A: Grid- a radius would be perfect? https://www.youtube.com/watch?v=AgdOGd32U3w
 * Q&A: Today I Learned - there's a mass dismantle? https://clips.twitch.tv/OnerousGlamorousMoonAllenHuhu
 * Q&A: Water Extractors need to snap to grid https://clips.twitch.tv/ExuberantAmorphousCarrotNononoCat
 * Q&A: Set a specific Foundation as the keystone https://clips.twitch.tv/GoodAnimatedSproutPipeHype

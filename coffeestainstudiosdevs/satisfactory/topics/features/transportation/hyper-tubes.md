@@ -16,6 +16,12 @@ date: Last Modified
 * [Snutt Talk: Belts, Pipes, and Hyper Tube max lengths](../../../transcriptions/yt-IeP2Y9SFeh8.md) https://www.youtube.com/watch?v=IeP2Y9SFeh8
 
 ## August 25th, 2020 Livestream
+* Q&A: Signs for Hypertube Entrances? https://www.youtube.com/watch?v=y3w-vPtVjog
+* Q&A: Mk. 2 Hypertubes? https://www.youtube.com/watch?v=SFKNdledOaA
+* Snutt Talk: Hyper Tube max speed https://www.youtube.com/watch?v=bQ-5mKC09Fk
+* Q&A: Why is hyperloop in first person? https://www.youtube.com/watch?v=BmSeFBv2rAQ
+* Q&A: Explosive Barrels of Gas we can send through the rail guns ? https://www.youtube.com/watch?v=e4iY6zivsbU
+* Q&A: Generators have power switches, so do all structures in the game? https://www.youtube.com/watch?v=CN2G6ZH6bmA
 * Q&A: Signs for Hypertube Entrances? https://clips.twitch.tv/SpinelessUnsightlyVanillaKeyboardCat
 * Q&A: Mk. 2 Hypertubes? https://clips.twitch.tv/CrypticUnusualPandaArsonNoSexy
 * Q&A: Why is hyperloop in first person? https://clips.twitch.tv/FairCallousStingrayHeyGuys

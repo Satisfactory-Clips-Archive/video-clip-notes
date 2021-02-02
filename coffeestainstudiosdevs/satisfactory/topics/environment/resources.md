@@ -2,11 +2,12 @@
 title: "Resources"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Environment > Resources
+# [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Resources
 * [Mercer Sphere](../../topics/environment/resources/mercer-sphere.md)
 * [Oil](../../topics/environment/resources/oil.md)
 * [S.A.M. Ore](../../topics/environment/resources/sam-ore.md)
 * [Somersloop](../../topics/environment/resources/somersloop.md)
+* [Steel](../../topics/environment/resources/steel.md)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Some buildings used to auto-select recipes?](../../transcriptions/yt-iCOiamAc_ak.md) https://www.youtube.com/watch?v=iCOiamAc_ak
@@ -32,7 +33,6 @@ date: Last Modified
 
 ## October 13th, 2020 Livestream
 * [Q&A: Any new Ores coming to the game?](../../transcriptions/yt-LWek-LtjnU0.md) https://www.youtube.com/watch?v=LWek-LtjnU0
-* [Q&A: Do you guys think Steel cost is balanced right now?](../../transcriptions/yt-Zntz0NmqkBM.md) https://www.youtube.com/watch?v=Zntz0NmqkBM
 * [Q&A: I think the price for mk. 3 & 4 belts are great, but mk. 2 I skip almost every time.](../../transcriptions/yt-d6uqZlgK7ao.md) https://www.youtube.com/watch?v=d6uqZlgK7ao
 * [Q&A: Only use it (mk. 2 belts) for Load Balancing.](../../transcriptions/yt-1xgb-jbAWt4.md) https://www.youtube.com/watch?v=1xgb-jbAWt4
 
@@ -40,6 +40,11 @@ date: Last Modified
 * [Q&A: Will the Resource Transportation get an update?](../../transcriptions/yt-hKxm2Ps1UYY.md) https://www.youtube.com/watch?v=hKxm2Ps1UYY
 
 ## August 25th, 2020 Livestream
+* Q&A: Will you be adding more variety of resources? https://www.youtube.com/watch?v=wvFR-VL4nc8
+* Q&A: Mad Max server where someone controls all the Iron nodes? https://www.youtube.com/watch?v=LcWR0d7elvs
+* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? https://www.youtube.com/watch?v=Ds9NIPna9_4
+* Q&A: Please think about adding dedicated Storage Containers like in Ark ? https://www.youtube.com/watch?v=_IL63Q90d1k
+* Q&A: Are limited resources planned? https://www.youtube.com/watch?v=85XNSiDpeZw
 * Q&A: Will you be adding more variety of resources? https://clips.twitch.tv/BraveThankfulBeefFreakinStinkin
 
 ## August 18th, 2020 Livestream

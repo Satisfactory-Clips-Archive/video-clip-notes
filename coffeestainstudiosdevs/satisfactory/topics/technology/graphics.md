@@ -6,7 +6,6 @@ date: Last Modified
 
 ## January 26th, 2021 Livestream
 * [Q&A: Is ray-trace in planning?](../../transcriptions/yt-Rx_M6fLOzvM.md) https://www.youtube.com/watch?v=Rx_M6fLOzvM
-* [Q&A: VR support would be heavenly?](../../transcriptions/yt-0Ld1fbTEOvM.md) https://www.youtube.com/watch?v=0Ld1fbTEOvM
 * [Q&A: Any chance on updating level-of-detail for coloured Walls?](../../transcriptions/yt-b7j3iswXHAc.md) https://www.youtube.com/watch?v=b7j3iswXHAc
 * [Q&A: In terms of pure performance is the fewer items being moved by Conveyor, the better?](../../transcriptions/yt-h0rUjNNgiCw.md) https://www.youtube.com/watch?v=h0rUjNNgiCw
 * [Q&A: Lights & Lampposts please?](../../transcriptions/yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g
@@ -33,14 +32,12 @@ date: Last Modified
 * [Q&A: Plans for Ray Tracing?](../../transcriptions/yt-pvMET7F9BQ8.md) https://www.youtube.com/watch?v=pvMET7F9BQ8
 * [Q&A: Split-screen for Satisfactory?](../../transcriptions/yt-nA6JASYXPMM.md) https://www.youtube.com/watch?v=nA6JASYXPMM
 * [Q&A: Better UI scaling?](../../transcriptions/yt-Z7KYm1EEVsc.md) https://www.youtube.com/watch?v=Z7KYm1EEVsc
-* [Jace Talk: VR for Satisfactory](../../transcriptions/yt-Xd5TIxzat7M.md) https://www.youtube.com/watch?v=Xd5TIxzat7M
 
 ## November 17th, 2020 Livestream
 * [Trolling: Procedural Generation](../../transcriptions/yt-bvjKY6CcnLI.md) https://www.youtube.com/watch?v=bvjKY6CcnLI
 * [Trolling: Ray Tracing](../../transcriptions/yt-ow_LpyvCnVo.md) https://www.youtube.com/watch?v=ow_LpyvCnVo
 * [Q&A: Multi-GPU Support?](../../transcriptions/yt-Q19sqmdRQAM.md) https://www.youtube.com/watch?v=Q19sqmdRQAM
 * [Q&A: DX12 more efficient?](../../transcriptions/yt-FlEUMECDwS4.md) https://www.youtube.com/watch?v=FlEUMECDwS4
-* [Q&A: Do you think this game would be suited for VR?](../../transcriptions/yt-z_DRaH3tfvY.md) https://www.youtube.com/watch?v=z_DRaH3tfvY
 
 ## November 10th, 2020 Livestream
 * [Q&A: Is it true that building vertically equals worse performance than building horizontally?](../../transcriptions/yt-BF0MYqw_SpM.md) https://www.youtube.com/watch?v=BF0MYqw_SpM
@@ -49,7 +46,6 @@ date: Last Modified
 * [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](../../transcriptions/yt-IFxnvuYEVtk.md) https://www.youtube.com/watch?v=IFxnvuYEVtk
 
 ## November 3rd, 2020 Livestream
-* [Q&A: VR Support?](../../transcriptions/yt-eJz8dJImPfQ.md) https://www.youtube.com/watch?v=eJz8dJImPfQ
 * [Q&A: Do you plan on some cutscenes for the Story?](../../transcriptions/yt-t6WEYv_TLDI.md) https://www.youtube.com/watch?v=t6WEYv_TLDI
 * [Q&A: Why does my game lag when I made a huge Base?](../../transcriptions/yt-oJnzSnxlxsE.md) https://www.youtube.com/watch?v=oJnzSnxlxsE
 * [Q&A: RTX support ever?](../../transcriptions/yt-PKx5vpwPGW0.md) https://www.youtube.com/watch?v=PKx5vpwPGW0
@@ -86,7 +82,6 @@ date: Last Modified
 * [Q&A: DLSS one day?](../../transcriptions/yt-IXroe1QFRzc.md) https://www.youtube.com/watch?v=IXroe1QFRzc
 
 ## September 8th, 2020 Livestream
-* [Q&A: Ever consider making a VR version of Satisfactory?](../../transcriptions/yt-3s-PKymQ9QU.md) https://www.youtube.com/watch?v=3s-PKymQ9QU
 * [Q&A: Should I remove all nature to improve FPS?](../../transcriptions/yt-t-FNpaJUBcE.md) https://www.youtube.com/watch?v=t-FNpaJUBcE
 * [Q&A: Third-Person When?](../../transcriptions/yt-nVXcTzC72EQ.md) https://www.youtube.com/watch?v=nVXcTzC72EQ
 
@@ -95,6 +90,15 @@ date: Last Modified
 * [Q&A: Why did you change the Nuclear Reactors model?](../../transcriptions/yt-hBpbwXr9cMs.md) https://www.youtube.com/watch?v=hBpbwXr9cMs
 
 ## August 25th, 2020 Livestream
+* Q&A: Reducing the stupid poly counts? https://www.youtube.com/watch?v=aDlrBrPtdfw
+* Q&A: Please consider adding a third-person view? https://www.youtube.com/watch?v=HXXn10GhRWU
+* Q&A: Why is hyperloop in first person? https://www.youtube.com/watch?v=BmSeFBv2rAQ
+* Q&A: Real-time reflections for the helmet? https://www.youtube.com/watch?v=RuQcbza7pVw
+* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? https://www.youtube.com/watch?v=Ds9NIPna9_4
+* Q&A: UV issues and texture tearing is a known issue? https://www.youtube.com/watch?v=1uYhNDc8E1M
+* Q&A: Removing vegetation speeds up the game, yes or no ? https://www.youtube.com/watch?v=GgoQS6sOADQ
+* Q&A: Are the trees instance-based? https://www.youtube.com/watch?v=73nEuwO7HTA
+* Q&A: Linux would be useful for Servers https://www.youtube.com/watch?v=ITkosdWcGbA
 * Q&A: Please consider adding a third-person view? (Part 1) https://clips.twitch.tv/PeacefulInventiveDogWOOP
 * Q&A: Please consider adding a third-person view? (Part 2) https://clips.twitch.tv/FrailSuaveBeanImGlitch
 * Q&A: Reducing the stupid poly counts? https://clips.twitch.tv/PoliteTallLocustStoneLightning

@@ -2,7 +2,7 @@
 title: "Oil"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Environment > [Resources](../../../topics/environment/resources.md) > Oil
+# [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Oil
 
 ## January 19th, 2021 Livestream
 * [Q&A: Will Oil fields be affected by the Update 4 patch?](../../../transcriptions/yt-khEicU2JVzY.md) https://www.youtube.com/watch?v=khEicU2JVzY

@@ -17,6 +17,12 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: Let Hannah finish her work on the map before expanding?](../../transcriptions/yt-wZOVw8KV1rQ.md) https://www.youtube.com/watch?v=wZOVw8KV1rQ
 
+## August 25th, 2020 Livestream
+* Q&A: We need some more Easter Egg hints from Hannah? https://www.youtube.com/watch?v=faI65v9Solc
+* Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://www.youtube.com/watch?v=7EM97GvjRGY
+* Snutt Talk: Satisfactory 1.0, and beyond https://www.youtube.com/watch?v=gAO072mzibQ
+* Q&A: Leaving the planet would make Hannah sad? https://www.youtube.com/watch?v=X-3Lne2kt8E
+
 ## June 8th, 2020 Livestream
 * [Q&A: Are there any Dutch people in Coffee Stain?](../../transcriptions/yt-ZhrRG351PsI.md) https://www.youtube.com/watch?v=ZhrRG351PsI
 

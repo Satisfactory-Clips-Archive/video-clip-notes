@@ -2,7 +2,7 @@
 title: "S.A.M. Ore"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Environment > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
+# [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
 ## January 12th, 2021 Livestream
 * [Q&A: What's happening with S.A.M. Ore?](../../../transcriptions/yt-f0Z9VIAK5Iw.md) https://www.youtube.com/watch?v=f0Z9VIAK5Iw
@@ -20,6 +20,9 @@ date: Last Modified
 * [Q&A: How much S.A.M. Ore should we stock up on?](../../../transcriptions/yt-vBGfC7j2AyI.md) https://www.youtube.com/watch?v=vBGfC7j2AyI
 
 ## August 25th, 2020 Livestream
+* Q&A: Are limited resources planned? https://www.youtube.com/watch?v=85XNSiDpeZw
+* Q&A: Please tell me Update 4 will use S.A.M. Ore https://www.youtube.com/watch?v=-b2L_nlW_Fo
+* Q&A: Is the Story a mode, or can I play with my actual save game? https://www.youtube.com/watch?v=DdGctBLngpE
 * Q&A: Please tell me Update 4 will use S.A.M. Ore https://clips.twitch.tv/ArtisticGlutenFreeSpindleDxAbomb
 * Q&A: Are limited resources planned? (Part 1) https://clips.twitch.tv/ConcernedStylishTomatoBabyRage
 * Q&A: Are limited resources planned? (Part 2) https://clips.twitch.tv/PrettyBelovedTermiteOptimizePrime

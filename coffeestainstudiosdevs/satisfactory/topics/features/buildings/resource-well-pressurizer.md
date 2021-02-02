@@ -12,3 +12,6 @@ date: Last Modified
 
 ## January 15th, 2021 Teasers
 * [Gases are coming in Update 4](../../../transcriptions/yt-Jxh8kvtUuxY.md) https://www.youtube.com/watch?v=Jxh8kvtUuxY
+
+## August 25th, 2020 Livestream
+* Q&A: Some new Machines in the next update? https://www.youtube.com/watch?v=Kk0ULnBXeXE

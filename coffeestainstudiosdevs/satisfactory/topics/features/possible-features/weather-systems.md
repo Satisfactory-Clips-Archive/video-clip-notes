@@ -23,6 +23,9 @@ date: Last Modified
 ## September 8th, 2020 Livestream
 * [Q&A: Do we intend to add rain/storms ?](../../../transcriptions/yt-3WDeVbpr30g.md) https://www.youtube.com/watch?v=3WDeVbpr30g
 
+## August 25th, 2020 Livestream
+* Q&A: More pollution as you progress? https://www.youtube.com/watch?v=dTd-M1qGkfU
+
 ## August 11th, 2020 Livestream
 * Q&A: What about Weather systems? https://clips.twitch.tv/SilkyFurryCheetahMVGame
 

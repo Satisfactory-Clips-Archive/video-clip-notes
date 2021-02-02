@@ -14,4 +14,6 @@ date: Last Modified
 * [Q&A: Would geothermal generators get a buff or rework of sorts?](../../../transcriptions/yt-T7BPQ1ZHeJA.md) https://www.youtube.com/watch?v=T7BPQ1ZHeJA
 
 ## August 25th, 2020 Livestream
+* Q&A: Generators have power switches, so do all structures in the game? https://www.youtube.com/watch?v=CN2G6ZH6bmA
+* Q&A: When will you ad UI for the Steam Geyser Power Plant? https://www.youtube.com/watch?v=xFZfkjY3J0c
 * Q&A: When will you ad UI for the Steam Geyser Power Plant? https://clips.twitch.tv/WanderingBashfulGoatTBCheesePull

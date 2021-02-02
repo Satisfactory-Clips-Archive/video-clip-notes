@@ -2,7 +2,7 @@
 title: "World Map"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Environment > World Map
+# [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
 ## January 26th, 2021 Livestream
 * [Jace Talk: There are no plans for increasing the size of the Map](../../transcriptions/yt-aCvn84FtDMI.md) https://www.youtube.com/watch?v=aCvn84FtDMI
@@ -102,6 +102,15 @@ date: Last Modified
 * [Q&A: Let Hannah finish her work on the map before expanding?](../../transcriptions/yt-wZOVw8KV1rQ.md) https://www.youtube.com/watch?v=wZOVw8KV1rQ
 
 ## August 25th, 2020 Livestream
+* Q&A: Plans for a Map Editor? https://www.youtube.com/watch?v=vvRPYyc7sb8
+* Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ? https://www.youtube.com/watch?v=s55I90_ELrQ
+* Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://www.youtube.com/watch?v=7EM97GvjRGY
+* Q&A: There's a smaller pink jelly above the pillar in the sky too? https://www.youtube.com/watch?v=wWVbIS8jgy8
+* Q&A: Can we expect significant performance increase with Update 4? https://www.youtube.com/watch?v=PVf-pBNYO_M
+* Q&A: Why can't we explode some stones in the map? https://www.youtube.com/watch?v=Yhtu3NBv2NM
+* Q&A: Like a new map for Satisfactory? https://www.youtube.com/watch?v=gNfCEV1J-2Q
+* Q&A: How about procedural maps? https://www.youtube.com/watch?v=oYVWBcgkahY
+* Snutt Talk: Map Builders https://www.youtube.com/watch?v=UjOVdR5tNSw
 * Q&A: Underwater biome when? https://clips.twitch.tv/HonorableCautiousDonutStoneLightning
 * Q&A: Terraforming? https://clips.twitch.tv/CourageousTardyLarkShazBotstix
 * Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John

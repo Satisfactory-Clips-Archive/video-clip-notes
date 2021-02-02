@@ -50,6 +50,9 @@ date: Last Modified
 * [Q&A: Will there be Priority Mergers for this Update?](../../../transcriptions/yt-sMidcvjGGOM.md) https://www.youtube.com/watch?v=sMidcvjGGOM
 
 ## August 25th, 2020 Livestream
+* Q&A: What about holes for Foundations? https://www.youtube.com/watch?v=fufH5ltdn7E
+* Q&A: Can players have custom programmers ? https://www.youtube.com/watch?v=0mvgvUhbUuI
+* Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://www.youtube.com/watch?v=My4e5HOzxLc
 * Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause
 * Q&A: Can players have custom programmers ? (Part 1) https://clips.twitch.tv/BovineConsiderateSangMVGame
 * Q&A: Can players have custom programmers ? (Part 2) https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain

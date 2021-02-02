@@ -22,6 +22,8 @@ date: Last Modified
 * [Q&A: Procedural Generation?](../../../transcriptions/yt-lcZJKlvLZuo.md) https://www.youtube.com/watch?v=lcZJKlvLZuo
 
 ## August 25th, 2020 Livestream
+* Q&A: How about procedural maps? https://www.youtube.com/watch?v=oYVWBcgkahY
+* Q&A: State of things = 🤷? https://www.youtube.com/watch?v=5SH9eySqDzU
 * Q&A: How about procedural maps? https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea
 
 ## August 11th, 2020 Livestream

@@ -27,6 +27,11 @@ date: Last Modified
 ## November 24th, 2020 Livestream
 * [Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?](../../transcriptions/yt-a1eSZz7wksU.md) https://www.youtube.com/watch?v=a1eSZz7wksU
 
+## August 25th, 2020 Livestream
+* State of Dev: Update 4 & Update 5 https://www.youtube.com/watch?v=e-51TRYTVg8
+* Q&A: Have you played Infinifactory? https://www.youtube.com/watch?v=QC5TQ6iL8sg
+* Q&A: nodismantle% ? https://www.youtube.com/watch?v=IT0T0C6u97A
+
 ## August 11th, 2020 Livestream
 * Q&A: New Apartment? https://clips.twitch.tv/CorrectAdorableDinosaurWoofer
 

@@ -28,6 +28,9 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: Satisfactory on next-gen Consoles?](../../../transcriptions/yt-ed1gycRZji4.md) https://www.youtube.com/watch?v=ed1gycRZji4
 
+## August 25th, 2020 Livestream
+* Q&A: Any chance to play Satisfactory on N64? https://www.youtube.com/watch?v=Ov7_XZoduDQ
+
 ## August 18th, 2020 Livestream
 * Q&A: Are there any plans to port the game to console? https://clips.twitch.tv/CogentRichJackalHeyGirl
 

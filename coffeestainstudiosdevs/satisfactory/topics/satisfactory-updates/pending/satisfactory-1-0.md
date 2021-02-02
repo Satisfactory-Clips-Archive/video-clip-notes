@@ -57,6 +57,12 @@ date: Last Modified
 * [Q&A: When do the Work In Progress items get a purpose?](../../../transcriptions/yt-koMqOABA6x8.md) https://www.youtube.com/watch?v=koMqOABA6x8
 
 ## August 25th, 2020 Livestream
+* Q&A: Do you have a set of ideas? https://www.youtube.com/watch?v=eSN0HQlSJBs
+* Q&A: Why do big updates at all - why not just release everything in small bites? https://www.youtube.com/watch?v=qEiYxLhX3CM
+* Q&A: Do you want to release updates before you release full game? https://www.youtube.com/watch?v=xdj5fWV5VK8
+* Q&A: Train Signals? https://www.youtube.com/watch?v=WQH5cWS3s2s
+* Snutt Talk: Satisfactory 1.0, and beyond https://www.youtube.com/watch?v=gAO072mzibQ
+* Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever? https://www.youtube.com/watch?v=-AjFbGOOAQI
 * Snutt Talk: 1.0 & Sequels https://clips.twitch.tv/CharmingHeadstrongAsparagusBCouch
 * Snutt Talk: Satisfactory 1.0, and beyond (Part 1) https://clips.twitch.tv/BrainyArbitraryEagleBrokeBack
 * Snutt Talk: Satisfactory 1.0, and beyond (Part 2) https://clips.twitch.tv/HomelyCovertParrotNinjaGrumpy

@@ -132,9 +132,16 @@ date: Last Modified
 * [Q&A: Any more tiers in 3.5?](../../../transcriptions/yt-55GiH8YwDds.md) https://www.youtube.com/watch?v=55GiH8YwDds
 
 ## August 25th, 2020 Livestream
-* Quality-of-live update? (Part 1): https://clips.twitch.tv/RudeSpoopyAlligatorVoteYea
-* Quality-of-live update? (Part 2): https://clips.twitch.tv/AlertFancyAxeFUNgineer
-* Quality-of-live update? (Part 3): https://clips.twitch.tv/CrunchyGlutenFreeNuggetsMingLee
+* State of Dev: Update 4 & Update 5 https://www.youtube.com/watch?v=e-51TRYTVg8
+* Q&A: ETA for Update 4 https://www.youtube.com/watch?v=3xgs6Y-ZSe8
+* Snutt Talk: Minor stuff before Update 4 https://www.youtube.com/watch?v=GbggTKLCQtc
+* Q&A: A mark on pipes to show the meters ? https://www.youtube.com/watch?v=lXL_N-a887E
+* ETA for Update 4? (Mid-stream reiteration) https://www.youtube.com/watch?v=tNgHT-JIuvE
+* Q&A: Can we get an indicator for the launch line from the Launch Pad? https://www.youtube.com/watch?v=YwYLlE8veKs
+* Q&A: When will the next patch even get released? https://www.youtube.com/watch?v=I59oaCtgopI
+* Quality-of-life update? (Part 1): https://clips.twitch.tv/RudeSpoopyAlligatorVoteYea
+* Quality-of-life update? (Part 2): https://clips.twitch.tv/AlertFancyAxeFUNgineer
+* Quality-of-life update? (Part 3): https://clips.twitch.tv/CrunchyGlutenFreeNuggetsMingLee
 * Q&A: Some new Machines in the next update? https://clips.twitch.tv/CourteousSmellyNewtTTours
 
 ## June 8th, 2020 Livestream

@@ -15,6 +15,9 @@ date: Last Modified
 * [Q&A: Is Tier 8 last Tier for the game?](../../../transcriptions/yt-FhoIzj_QLm0.md) https://www.youtube.com/watch?v=FhoIzj_QLm0
 
 ## August 25th, 2020 Livestream
+* Q&A: ETA for Update 4 https://www.youtube.com/watch?v=3xgs6Y-ZSe8
+* Q&A: What is expected for Tier 9? https://www.youtube.com/watch?v=EAOiEQn7E5A
+* Q&A: When's Tier 8 coming? https://www.youtube.com/watch?v=plexfdPIaSw
 * Q&A: When's Tier 8 coming? https://clips.twitch.tv/BlueMildLaptopHassaanChop
 
 ## August 18th, 2020 Livestream

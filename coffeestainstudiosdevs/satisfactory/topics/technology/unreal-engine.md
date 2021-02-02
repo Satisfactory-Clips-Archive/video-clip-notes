@@ -94,6 +94,11 @@ date: Last Modified
 * [Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?](../../transcriptions/yt-RyE_hc4huhA.md) https://www.youtube.com/watch?v=RyE_hc4huhA
 
 ## August 25th, 2020 Livestream
+* State of Dev: Update 4 & Update 5 https://www.youtube.com/watch?v=e-51TRYTVg8
+* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds https://www.youtube.com/watch?v=rr1UWnrs0d4
+* Snutt Talk: Hyper Tube max speed https://www.youtube.com/watch?v=bQ-5mKC09Fk
+* Q&A: Can we expect significant performance increase with Update 4? https://www.youtube.com/watch?v=PVf-pBNYO_M
+* Q&A: When will the next patch even get released? https://www.youtube.com/watch?v=I59oaCtgopI
 * Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 1) https://clips.twitch.tv/TentativeHardPlumberYee
 * Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 2) https://clips.twitch.tv/SquareLovelyFriesBudBlast
 * Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 3) https://clips.twitch.tv/TemperedEnchantingOrangeTBCheesePull

@@ -10,6 +10,9 @@ date: Last Modified
 ## October 6th, 2020 Livestream
 * [Q&A: Is ADA a synth voice ?](../../../transcriptions/yt-isjOJ0Aczl4.md) https://www.youtube.com/watch?v=isjOJ0Aczl4
 
+## August 25th, 2020 Livestream
+* Q&A: Will there be more narrative? https://www.youtube.com/watch?v=8Igl_hPAXPs
+
 ## June 8th, 2020 Livestream
 * [Snutt, Jace, & Mark Talk: Muting ADA](../../../transcriptions/yt-H3eApDUK_Xs.md) https://www.youtube.com/watch?v=H3eApDUK_Xs
 

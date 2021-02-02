@@ -29,6 +29,9 @@ date: Last Modified
 * [Q&A: Any more info on Train Signals?](../../../../transcriptions/yt-1hTjt3er8XI.md) https://www.youtube.com/watch?v=1hTjt3er8XI
 
 ## August 25th, 2020 Livestream
+* Q&A: Why do big updates at all - why not just release everything in small bites? https://www.youtube.com/watch?v=qEiYxLhX3CM
+* Q&A: Train Signals? https://www.youtube.com/watch?v=WQH5cWS3s2s
+* Q&A: Will the Train always clip? https://www.youtube.com/watch?v=PY6wf7cvjgM
 * Q&A: Train Signals https://clips.twitch.tv/OriginalAntsySmoothieStoneLightning
 * Q&A: Will the Train always clip? https://clips.twitch.tv/ImpartialEnchantingCider4Head
 

@@ -82,6 +82,11 @@ date: Last Modified
 * [Q&A: Dedicated Servers](../../../transcriptions/yt-z5bf3k7JWlg.md) https://www.youtube.com/watch?v=z5bf3k7JWlg
 
 ## August 25th, 2020 Livestream
+* Q&A: ETA for Update 4 https://www.youtube.com/watch?v=3xgs6Y-ZSe8
+* Q&A: Dedicated Servers update? https://www.youtube.com/watch?v=mtE-rHjMsn4
+* Q&A: Will Dedicated Servers be available on Linux, or Windows? https://www.youtube.com/watch?v=4f7KWwnXhoU
+* Q&A: Linux would be useful for Servers https://www.youtube.com/watch?v=ITkosdWcGbA
+* Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? https://www.youtube.com/watch?v=B5BoBKZ8SF8
 * Q&A: Dedicated Servers update? https://clips.twitch.tv/AgitatedAltruisticAnacondaStinkyCheese
 * Q&A: Will Dedicated Servers be available on Linux, or Windows? https://clips.twitch.tv/SeductiveInnocentFerretHeyGirl
 * Q&A: Linux would be useful for Servers https://clips.twitch.tv/UglyAwkwardCiderSSSsss

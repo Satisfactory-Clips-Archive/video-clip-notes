@@ -14,6 +14,7 @@ date: Last Modified
 * [Q&A: Will there be something like the Resource Sink but for Fluids?](../../../transcriptions/yt-nT4pfUlmZBs.md) https://www.youtube.com/watch?v=nT4pfUlmZBs
 
 ## August 25th, 2020 Livestream
+* Q&A: Is the sink going to accept liquids in the future? https://www.youtube.com/watch?v=k6ZS5wzlNKs
 * Q&A: Is the sink going to accept liquids in the future? https://clips.twitch.tv/ArtisticCoweringTortoiseRitzMitz
 
 ## June 8th, 2020 Livestream

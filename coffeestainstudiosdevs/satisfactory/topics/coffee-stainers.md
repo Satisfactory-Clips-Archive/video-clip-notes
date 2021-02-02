@@ -15,6 +15,8 @@ date: Last Modified
 * [Mark](../topics/coffee-stainers/mark.md)
 * [Markus](../topics/coffee-stainers/markus.md)
 * [Nathalie](../topics/coffee-stainers/nathalie.md)
+* [Neshkor](../topics/coffee-stainers/neshkor.md)
+* [Ros](../topics/coffee-stainers/ros.md)
 * [Simon](../topics/coffee-stainers/simon.md)
 * [Snutt](../topics/coffee-stainers/snutt.md)
 * [Tim](../topics/coffee-stainers/tim.md)
@@ -31,6 +33,9 @@ date: Last Modified
 * [Q&A: Do you guys crunch or do you actually care about stuff like health?](../transcriptions/yt-Ev8CEXznWsE.md) https://www.youtube.com/watch?v=Ev8CEXznWsE
 
 ## August 25th, 2020 Livestream
+* Q&A: Train Signals? https://www.youtube.com/watch?v=WQH5cWS3s2s
+* Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://www.youtube.com/watch?v=My4e5HOzxLc
+* Q&A: Are the Devs back from vacation? https://www.youtube.com/watch?v=dfHUHMQ9JQE
 * Q&A: Are the Devs back from vacation? https://clips.twitch.tv/SeductiveImpartialCobblerOptimizePrime
 
 ## August 11th, 2020 Livestream

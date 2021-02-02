@@ -2,7 +2,7 @@
 title: "Mercer Sphere"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Environment > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
+# [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
 ## January 26th, 2021 Livestream
 * [Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?](../../../transcriptions/yt--N0atMiN9dM.md) https://www.youtube.com/watch?v=-N0atMiN9dM
@@ -21,6 +21,9 @@ date: Last Modified
 
 ## September 22nd, 2020 Livestream
 * [Jace & Snutt Talk: Story](../../../transcriptions/yt-vPWShxAn3io.md) https://www.youtube.com/watch?v=vPWShxAn3io
+
+## August 25th, 2020 Livestream
+* Q&A: Do you have any clue on what the alien artefacts do? https://www.youtube.com/watch?v=hRe0QvJDjsg
 
 ## February 11th, 2020 Livestream
 * [Q&A: Mercer Spheres?](../../../transcriptions/yt-9VS0lGfDZ1k.md) https://www.youtube.com/watch?v=9VS0lGfDZ1k

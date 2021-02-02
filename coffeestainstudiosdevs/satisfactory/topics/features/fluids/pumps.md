@@ -13,3 +13,7 @@ date: Last Modified
 
 ## September 29th, 2020 Livestream
 * [Q&A: Add a Tape Measure or something to gauge distance between two objects?](../../../transcriptions/yt--hFvijwVlSQ.md) https://www.youtube.com/watch?v=-hFvijwVlSQ
+
+## August 25th, 2020 Livestream
+* Q&A: Do you have any tips on Coal Generators? https://www.youtube.com/watch?v=M4myLkUI6HU
+* Q&A: A mark on pipes to show the meters ? https://www.youtube.com/watch?v=lXL_N-a887E

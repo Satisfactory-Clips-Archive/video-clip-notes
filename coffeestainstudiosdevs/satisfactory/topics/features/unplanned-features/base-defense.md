@@ -35,6 +35,8 @@ date: Last Modified
 * [Q&A: Are you going to share something important related to next Updates?](../../../transcriptions/yt-Kx9TTDecZe4.md) https://www.youtube.com/watch?v=Kx9TTDecZe4
 
 ## August 25th, 2020 Livestream
+* Q&A: Given how often Blueprints keeps being requested it really needs to be adopted? https://www.youtube.com/watch?v=EbTEcw5zg8k
+* Snutt Talk: Machines breaking & Base Defence https://www.youtube.com/watch?v=UhehbJ9kR2c
 * Snutt Talk: Machines breaking & Base Defence https://clips.twitch.tv/ElegantKawaiiGnatOneHand
 
 ## August 18th, 2020 Livestream

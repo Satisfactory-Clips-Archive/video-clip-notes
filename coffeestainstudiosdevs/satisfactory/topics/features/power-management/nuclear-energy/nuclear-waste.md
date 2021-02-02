@@ -27,6 +27,10 @@ date: Last Modified
 * [Q&A: Any plans to get rid of Nuclear Waste?](../../../../transcriptions/yt-cxWdU5_ai-0.md) https://www.youtube.com/watch?v=cxWdU5_ai-0
 
 ## August 25th, 2020 Livestream
+* Q&A: I want to fire Nukes at my rival Pioneers? https://www.youtube.com/watch?v=CQ0vc3uRaw8
+* Snutt PSA: Nuclear Waste disposal https://www.youtube.com/watch?v=FUMyJYJr88Y
+* Q&A: Can we send the nuke waste to FICSIT? https://www.youtube.com/watch?v=MmiaI_vhyI0
+* Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them? https://www.youtube.com/watch?v=535Zu17HOlQ
 * Snutt PSA: Nuclear Waste disposal (Part 1) https://clips.twitch.tv/DarlingSteamyCourgetteOneHand
 * Snutt PSA: Nuclear Waste disposal (Part 2) https://clips.twitch.tv/HorribleToughMouseThunBeast
 * Snutt PSA: Nuclear Waste disposal (Part 3) https://clips.twitch.tv/SullenWittyBearHassanChop

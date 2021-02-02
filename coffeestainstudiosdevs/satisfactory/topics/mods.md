@@ -3,6 +3,7 @@ title: "Mods"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Mods
+* [FicsIt-Networks](../topics/mods/ficsit-networks.md)
 * [Ficsit Farming](../topics/mods/ficsit-farming.md)
 * [Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Official Mod Support](../topics/mods/official-mod-support.md)
@@ -69,6 +70,8 @@ date: Last Modified
 * [Q&A: What is your opinion on the most downloaded mods?](../transcriptions/yt-iOniZ-OPIps.md) https://www.youtube.com/watch?v=iOniZ-OPIps
 
 ## August 25th, 2020 Livestream
+* Q&A: Plans for mod support? https://www.youtube.com/watch?v=iOk7KMpNMEo
+* Q&A: I wanna see a Mod highlight part 2? https://www.youtube.com/watch?v=ZaVKeo3QXqg
 * Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc
 
 ## February 11th, 2020 Livestream

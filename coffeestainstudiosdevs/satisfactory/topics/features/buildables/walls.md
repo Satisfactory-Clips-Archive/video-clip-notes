@@ -30,6 +30,8 @@ date: Last Modified
 * [Q&A: Protective Walls against Radiation?](../../../transcriptions/yt-mTMwhMrP0sA.md) https://www.youtube.com/watch?v=mTMwhMrP0sA
 
 ## August 25th, 2020 Livestream
+* Q&A: A mark on pipes to show the meters ? https://www.youtube.com/watch?v=lXL_N-a887E
+* Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://www.youtube.com/watch?v=My4e5HOzxLc
 * Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause
 
 ## January 22nd, 2020 Livestream

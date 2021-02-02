@@ -13,3 +13,6 @@ date: Last Modified
 * [State of Dev - The Blender™](../../../transcriptions/yt-XBt0OWqSRPA.md) https://www.youtube.com/watch?v=XBt0OWqSRPA
 * [Q&A: Can we blend Lizard Doggos in the new Blender?](../../../transcriptions/yt-Keprp2vxOM8.md) https://www.youtube.com/watch?v=Keprp2vxOM8
 * [Q&A: Any early release previews for the update?](../../../transcriptions/yt-o1IfznnrGgc.md) https://www.youtube.com/watch?v=o1IfznnrGgc
+
+## August 25th, 2020 Livestream
+* Q&A: Some new Machines in the next update? https://www.youtube.com/watch?v=Kk0ULnBXeXE

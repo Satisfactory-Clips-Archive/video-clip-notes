@@ -17,6 +17,9 @@ date: Last Modified
 * [Q&A: Cosmetics for the Pioneer or even Lizard Doggo?](../../transcriptions/yt-wFKmvfIOuCY.md) https://www.youtube.com/watch?v=wFKmvfIOuCY
 
 ## August 25th, 2020 Livestream
+* Q&A: I want to fire Nukes at my rival Pioneers? https://www.youtube.com/watch?v=CQ0vc3uRaw8
+* Q&A: She‽ Not me‽ https://www.youtube.com/watch?v=v2qV7Kfbcac
+* Q&A: Real-time reflections for the helmet? https://www.youtube.com/watch?v=RuQcbza7pVw
 * Q&A: She!? Not me !? https://clips.twitch.tv/InexpensiveChillyWheelItsBoshyTime
 * Q&A: Real-time reflections for the helmet? https://clips.twitch.tv/LivelyHeartlessRutabagaWholeWheat
 

@@ -2,7 +2,7 @@
 title: "Snow"
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Environment > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Snow
+# [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Snow
 
 ## January 19th, 2021 Livestream
 * [Q&A: If the community made a Snow Biome, would you add that?](../../../../transcriptions/yt-I8rWTBGdGio.md) https://www.youtube.com/watch?v=I8rWTBGdGio

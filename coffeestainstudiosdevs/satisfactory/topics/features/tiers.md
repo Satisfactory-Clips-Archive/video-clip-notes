@@ -45,6 +45,7 @@ date: Last Modified
 * [Q&A: Any more tiers in 3.5?](../../transcriptions/yt-55GiH8YwDds.md) https://www.youtube.com/watch?v=55GiH8YwDds
 
 ## August 25th, 2020 Livestream
+* Q&A: End game is all about building refineries? https://www.youtube.com/watch?v=mZ4l1leFAWY
 * Q&A: Will there be any further goals besides Research & Development stages? https://clips.twitch.tv/TsundereOutstandingNuggetsFUNgineer
 
 ## July 28th, 2020 Livestream

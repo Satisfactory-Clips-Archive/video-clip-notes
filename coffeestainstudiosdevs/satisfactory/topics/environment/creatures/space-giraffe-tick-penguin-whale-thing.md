@@ -2,7 +2,7 @@
 title: "Space Giraffe-Tick-Penguin-Whale Thing"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Environment > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
+# [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
 ## November 24th, 2020 Livestream
 * [Q&A: Alien creature launcher - evict the giant Tick?](../../../transcriptions/yt-mASNXinF0mA.md) https://www.youtube.com/watch?v=mASNXinF0mA
@@ -11,6 +11,7 @@ date: Last Modified
 * [Q&A: Is the Tick the official for the Space Cow Bean Giraffe?](../../../transcriptions/yt-1vgaetZXbxM.md) https://www.youtube.com/watch?v=1vgaetZXbxM
 
 ## August 25th, 2020 Livestream
+* Q&A: Please make the Walking Bean stop clipping? https://www.youtube.com/watch?v=wTbRzvQ8ZLY
 * Q&A: Please make the Walking Bean stop clipping https://clips.twitch.tv/WanderingGloriousWallabyPunchTrees
 
 ## May 19th, 2020 Livestream

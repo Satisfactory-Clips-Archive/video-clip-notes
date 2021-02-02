@@ -23,6 +23,8 @@ date: Last Modified
 * [Jace & Snutt Talk: Phobia Modes & Accessibility](../../../transcriptions/yt-OFBC7qFkEmQ.md) https://www.youtube.com/watch?v=OFBC7qFkEmQ
 
 ## August 25th, 2020 Livestream
+* Q&A: More cats in Arachnophobia Mode? https://www.youtube.com/watch?v=xgdgen43IzQ
+* Q&A: Arachnophobia Mode is scarier than the actual spiders https://www.youtube.com/watch?v=-kovZdz9IS8
 * Q&A: More cats in Arachnophobia Mode? https://clips.twitch.tv/KathishConcernedWalrusRedCoat
 * Q&A: Arachnophobia Mode is scarier than the actual spiders https://clips.twitch.tv/NeighborlyEnticingMarrowResidentSleeper
 

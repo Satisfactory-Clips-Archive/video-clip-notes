@@ -43,3 +43,6 @@ date: Last Modified
 * [Q&A: Does the Unpackager animation go in reverse?](../../../transcriptions/yt-UIR3ibksgYA.md) https://www.youtube.com/watch?v=UIR3ibksgYA
 * [Q&A: Will the colour of the liquid update in regards to the Packager?](../../../transcriptions/yt-ROw3qnWJwFk.md) https://www.youtube.com/watch?v=ROw3qnWJwFk
 * [Q&A: What are the advantages of packaging?](../../../transcriptions/yt-mnskivwMmjw.md) https://www.youtube.com/watch?v=mnskivwMmjw
+
+## August 25th, 2020 Livestream
+* Q&A: Some new Machines in the next update? https://www.youtube.com/watch?v=Kk0ULnBXeXE

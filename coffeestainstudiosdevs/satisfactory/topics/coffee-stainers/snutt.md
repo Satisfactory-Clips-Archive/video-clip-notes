@@ -30,6 +30,9 @@ date: Last Modified
 * [Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?](../../transcriptions/yt-a1eSZz7wksU.md) https://www.youtube.com/watch?v=a1eSZz7wksU
 
 ## August 25th, 2020 Livestream
+* Snutt Talk: Fridge in the Hub https://www.youtube.com/watch?v=0S3NrfwpV0c
+* Snutt Talk: Snutt discovers the fridge https://www.youtube.com/watch?v=AwfR7ExmwJ0
+* Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://www.youtube.com/watch?v=My4e5HOzxLc
 * Snutt Talk: Snutt discovers the fridge. https://clips.twitch.tv/SeductiveAbstemiousBisonDerp
 
 ## August 18th, 2020 Livestream

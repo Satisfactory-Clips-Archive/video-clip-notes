@@ -20,6 +20,7 @@ date: Last Modified
 * [Q&A: Are there plans for Character Customisation?](../../../transcriptions/yt-LAR8rVCHVmw.md) https://www.youtube.com/watch?v=LAR8rVCHVmw
 
 ## August 25th, 2020 Livestream
+* Q&A: Let me personalise my character? https://www.youtube.com/watch?v=QyKyNbHPaHg
 * Q&A: Let me personalise my character? https://clips.twitch.tv/CharmingRespectfulFlyFUNgineer
 
 ## August 18th, 2020 Livestream

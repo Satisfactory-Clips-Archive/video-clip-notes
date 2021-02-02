@@ -12,6 +12,8 @@ date: Last Modified
 * [Jace & Snutt Talk: Map Modding](../../../transcriptions/yt-4nzTdrIc2hg.md) https://www.youtube.com/watch?v=4nzTdrIc2hg
 
 ## August 25th, 2020 Livestream
+* Q&A: Terraforming? https://www.youtube.com/watch?v=B5cAjdFTltY
+* Q&A: Add Train tunnels to go through mountains? https://www.youtube.com/watch?v=v6sWQLM4fMM
 * Q&A: Add Train tunnels to go through mountains? https://clips.twitch.tv/GleamingHyperBottleRickroll
 * Q&A: Terraforming? https://clips.twitch.tv/CourageousTardyLarkShazBotstix
 

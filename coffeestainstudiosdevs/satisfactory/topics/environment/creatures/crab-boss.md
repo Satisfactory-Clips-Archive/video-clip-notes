@@ -2,7 +2,7 @@
 title: "Crab Boss"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Environment > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
+# [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
 ## January 19th, 2021 Livestream
 * [Q&A: Will there be more Creatures, even more dangerous ones?](../../../transcriptions/yt-T0jbE_WjQJQ.md) https://www.youtube.com/watch?v=T0jbE_WjQJQ
@@ -32,6 +32,9 @@ date: Last Modified
 * [Q&A: Are we ever going to see a new enemy type?](../../../transcriptions/yt-Kxq543wzKcY.md) https://www.youtube.com/watch?v=Kxq543wzKcY
 
 ## August 25th, 2020 Livestream
+* Q&A: New enemies / creatures? https://www.youtube.com/watch?v=TDbNru0heoU
+* Q&A: Will we have more monsters? https://www.youtube.com/watch?v=shEKhZakMxQ
+* Q&A: Please make the Walking Bean stop clipping? https://www.youtube.com/watch?v=wTbRzvQ8ZLY
 * Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
 * Q&A: Will we have more monsters? https://clips.twitch.tv/GrotesqueDelightfulLyrebirdPrimeMe
 

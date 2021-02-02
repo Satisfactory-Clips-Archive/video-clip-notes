@@ -22,6 +22,10 @@ date: Last Modified
 * [Q&A: Why are the Refineries so big?](../../../transcriptions/yt-lZOTwEhBFO4.md) https://www.youtube.com/watch?v=lZOTwEhBFO4
 
 ## August 25th, 2020 Livestream
+* Q&A: Do you not think that Refineries are over-used? https://www.youtube.com/watch?v=ZUAoFCpE1vY
+* Q&A: Are there internal discussions to significantly rework existing buildings like refineries? https://www.youtube.com/watch?v=x07FQZjbA_c
+* Q&A: End game is all about building refineries? https://www.youtube.com/watch?v=mZ4l1leFAWY
+* Q&A: Refineries take up so much space? https://www.youtube.com/watch?v=KzQ1E8V06zA
 * Q&A: Internal discussions to significantly rework existing buildings like refineries? (Part 1) https://clips.twitch.tv/CrispySaltyOcelotOSfrog
 * Q&A: Internal discussions to significantly rework existing buildings like refineries? (Part 2) https://clips.twitch.tv/CooperativeCrackyAyeayeTheTarFu
 * Q&A: Internal discussions to significantly rework existing buildings like refineries? (Part 3) https://clips.twitch.tv/SmallProductiveKaleCclamChamp
