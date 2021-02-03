@@ -3,6 +3,7 @@ title: "March 9th, 2019 Livestream Q&A: Is it possible to use powerline as zip-l
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "features/equipment/zip-lines"
     - "features/power-management"
     - "features/unplanned-features/aerial-travel"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=NTeBuhOqIu0
 
 ### Topics
+* [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
 * [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 * [Features > Power Management](../topics/features/power-management.md)
 

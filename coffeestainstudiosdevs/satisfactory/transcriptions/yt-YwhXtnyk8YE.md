@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=YwhXtnyk8YE
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 
 ### Transcript
 

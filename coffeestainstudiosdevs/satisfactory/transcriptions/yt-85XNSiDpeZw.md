@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=85XNSiDpeZw
 
 ### Topics
 * [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
-* [Features > Multiplayer](../topics/features/multiplayer.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
 
 ### Transcript
 

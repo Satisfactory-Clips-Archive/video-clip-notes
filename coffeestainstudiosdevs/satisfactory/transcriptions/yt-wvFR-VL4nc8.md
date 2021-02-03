@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=wvFR-VL4nc8
 
 ### Topics
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
-* [Features > Fluids](../topics/features/fluids.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Fluids](../topics/features/fluids.md)
 
 ### Transcript
 

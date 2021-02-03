@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=bz7PJ3VF6FE
 
 ### Topics
 * [Environment > Biomes > Unplanned Biomes > Underwater](../topics/environment/biomes/unplanned-biomes/underwater.md)
-* [Environment > Creatures](../topics/environment/creatures.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript
 

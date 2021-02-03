@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=LcWR0d7elvs
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 
 ### Transcript
 

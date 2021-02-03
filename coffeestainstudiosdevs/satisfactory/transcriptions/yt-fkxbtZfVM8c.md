@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=fkxbtZfVM8c
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Community > Kibitz](../topics/community/kibitz.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=hBpbwXr9cMs
 
 ### Topics
 * [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
-* [Features > Buildings](../topics/features/buildings.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript
 

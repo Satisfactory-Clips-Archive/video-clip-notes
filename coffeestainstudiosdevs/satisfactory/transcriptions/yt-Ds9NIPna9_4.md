@@ -15,9 +15,9 @@ https://www.youtube.com/watch?v=Ds9NIPna9_4
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Environment > Resources](../topics/environment/resources.md)
 * [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
-* [Environment > Resources](../topics/environment/resources.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=ITkosdWcGbA
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 
 ### Transcript
 

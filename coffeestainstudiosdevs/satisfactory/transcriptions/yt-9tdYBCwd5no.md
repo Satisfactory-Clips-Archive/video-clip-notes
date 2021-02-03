@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=9tdYBCwd5no
 
 ### Topics
+* [Mods > FicsIt-Networks](../topics/mods/ficsit-networks.md)
 * [Community](../topics/community.md)
 * [Mods](../topics/mods.md)
-* [Mods > FicsIt-Networks](../topics/mods/ficsit-networks.md)
 
 ### Transcript
 

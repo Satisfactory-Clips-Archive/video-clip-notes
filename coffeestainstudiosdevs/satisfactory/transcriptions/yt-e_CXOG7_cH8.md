@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=e_CXOG7_cH8
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
 * [Off-Topic > Factorio](../topics/off-topic/factorio.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

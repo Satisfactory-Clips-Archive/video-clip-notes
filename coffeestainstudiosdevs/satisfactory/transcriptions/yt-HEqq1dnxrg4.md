@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=HEqq1dnxrg4
 
 ### Topics
-* [Mods](../topics/mods.md)
 * [Off-Topic > Factorio](../topics/off-topic/factorio.md)
+* [Mods](../topics/mods.md)
 
 ### Transcript
 

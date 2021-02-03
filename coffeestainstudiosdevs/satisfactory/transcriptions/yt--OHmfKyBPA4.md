@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=-OHmfKyBPA4
 
 ### Topics
-* [Technology > User Interface](../topics/technology/user-interface.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

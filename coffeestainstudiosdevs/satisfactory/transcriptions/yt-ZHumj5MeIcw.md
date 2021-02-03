@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=ZHumj5MeIcw
 
 ### Topics
-* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Features > Unplanned Features > VR](../topics/features/unplanned-features/vr.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 
 ### Transcript
 

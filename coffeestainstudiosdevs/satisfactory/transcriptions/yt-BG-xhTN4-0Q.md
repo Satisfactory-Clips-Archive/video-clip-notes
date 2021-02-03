@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=BG-xhTN4-0Q
 
 ### Topics
-* [Coffee Stainers](../topics/coffee-stainers.md)
 * [Off-Topic > Factorio](../topics/off-topic/factorio.md)
+* [Coffee Stainers](../topics/coffee-stainers.md)
 
 ### Transcript
 

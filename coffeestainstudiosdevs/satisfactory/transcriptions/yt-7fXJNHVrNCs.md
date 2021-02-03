@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=7fXJNHVrNCs
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Community > Kibitz](../topics/community/kibitz.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript
 

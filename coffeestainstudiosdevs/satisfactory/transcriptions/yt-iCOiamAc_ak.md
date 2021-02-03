@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=iCOiamAc_ak
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript
 

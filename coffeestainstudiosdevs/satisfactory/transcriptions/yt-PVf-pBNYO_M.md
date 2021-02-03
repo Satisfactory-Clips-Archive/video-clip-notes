@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=PVf-pBNYO_M
 
 ### Topics
+* [Community > Kibitz](../topics/community/kibitz.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
-* [Community > Kibitz](../topics/community/kibitz.md)
 
 ### Transcript
 
