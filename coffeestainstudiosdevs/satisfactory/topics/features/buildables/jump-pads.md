@@ -18,4 +18,3 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Can we get an indicator for the launch line from the Launch Pad?](../../../transcriptions/yt-YwYLlE8veKs.md) https://www.youtube.com/watch?v=YwYLlE8veKs
 * [Q&A: What can the Cyber Wagon do?](../../../transcriptions/yt-mL4yeGMg3ms.md) https://www.youtube.com/watch?v=mL4yeGMg3ms
-* Q&A: Can we get an indicator for the launch line from the Launch Pad? https://clips.twitch.tv/ShakingBlushingLampNerfRedBlaster

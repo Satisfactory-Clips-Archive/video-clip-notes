@@ -137,8 +137,6 @@ date: Last Modified
 * [Q&A: Fixing machines that break?](../../transcriptions/yt-oYFn3xvAOHs.md) https://www.youtube.com/watch?v=oYFn3xvAOHs
 * [Snutt Talk: Machines breaking & Base Defence](../../transcriptions/yt-UhehbJ9kR2c.md) https://www.youtube.com/watch?v=UhehbJ9kR2c
 * [Q&A: Generators have power switches, so do all structures in the game?](../../transcriptions/yt-CN2G6ZH6bmA.md) https://www.youtube.com/watch?v=CN2G6ZH6bmA
-* Q&A: Fixing machines that break? https://clips.twitch.tv/EnergeticInexpensiveDillCurseLit
-* Snutt Talk: Machines breaking & Base Defence https://clips.twitch.tv/ElegantKawaiiGnatOneHand
 * Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause
 * Q&A: Some new Machines in the next update? https://clips.twitch.tv/CourteousSmellyNewtTTours
 * Q&A: Reducing the stupid poly counts? https://clips.twitch.tv/PoliteTallLocustStoneLightning

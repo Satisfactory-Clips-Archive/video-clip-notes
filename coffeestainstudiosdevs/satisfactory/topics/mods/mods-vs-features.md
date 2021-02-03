@@ -58,7 +58,6 @@ date: Last Modified
 * [Snutt Talk: VR Support](../../transcriptions/yt-ZHumj5MeIcw.md) https://www.youtube.com/watch?v=ZHumj5MeIcw
 * Q&A: Can players have custom programmers ? (Part 1) https://clips.twitch.tv/BovineConsiderateSangMVGame
 * Q&A: Can players have custom programmers ? (Part 2) https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain
-* Q&A: Actual Elevators with floor-select buttons ? https://clips.twitch.tv/SparklingFilthyKathyBleedPurple
 * Q&A: Do you have plans for elevators usable for players? https://clips.twitch.tv/DullSmokyWaffleDoggo
 
 ## August 18th, 2020 Livestream

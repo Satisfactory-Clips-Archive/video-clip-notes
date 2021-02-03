@@ -21,7 +21,6 @@ date: Last Modified
 * [Q&A: ETA for Update 4](../../../transcriptions/yt-3xgs6Y-ZSe8.md) https://www.youtube.com/watch?v=3xgs6Y-ZSe8
 * [Q&A: What is expected for Tier 9?](../../../transcriptions/yt-EAOiEQn7E5A.md) https://www.youtube.com/watch?v=EAOiEQn7E5A
 * [Q&A: When's Tier 8 coming?](../../../transcriptions/yt-plexfdPIaSw.md) https://www.youtube.com/watch?v=plexfdPIaSw
-* Q&A: When's Tier 8 coming? https://clips.twitch.tv/BlueMildLaptopHassaanChop
 
 ## August 18th, 2020 Livestream
 * Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit

@@ -57,9 +57,6 @@ date: Last Modified
 * [Q&A: What about holes for Foundations?](../../../transcriptions/yt-fufH5ltdn7E.md) https://www.youtube.com/watch?v=fufH5ltdn7E
 * [Q&A: Can players have custom programmers ?](../../../transcriptions/yt-0mvgvUhbUuI.md) https://www.youtube.com/watch?v=0mvgvUhbUuI
 * [Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors?](../../../transcriptions/yt-My4e5HOzxLc.md) https://www.youtube.com/watch?v=My4e5HOzxLc
-* Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause
-* Q&A: Can players have custom programmers ? (Part 1) https://clips.twitch.tv/BovineConsiderateSangMVGame
-* Q&A: Can players have custom programmers ? (Part 2) https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain
 
 ## August 18th, 2020 Livestream
 * Q&A: Will there ever be conveyor lift splitters & mergers ? https://clips.twitch.tv/MiniatureFlaccidSwanKAPOW

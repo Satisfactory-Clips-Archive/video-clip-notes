@@ -35,8 +35,6 @@ date: Last Modified
 * [Q&A: New enemies / creatures?](../../../transcriptions/yt-TDbNru0heoU.md) https://www.youtube.com/watch?v=TDbNru0heoU
 * [Q&A: Will we have more monsters?](../../../transcriptions/yt-shEKhZakMxQ.md) https://www.youtube.com/watch?v=shEKhZakMxQ
 * [Q&A: Please make the Walking Bean stop clipping?](../../../transcriptions/yt-wTbRzvQ8ZLY.md) https://www.youtube.com/watch?v=wTbRzvQ8ZLY
-* Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
-* Q&A: Will we have more monsters? https://clips.twitch.tv/GrotesqueDelightfulLyrebirdPrimeMe
 
 ## July 28th, 2020 Livestream
 * Q&A: More Wildlife? https://clips.twitch.tv/DirtyHilariousPancakeWow

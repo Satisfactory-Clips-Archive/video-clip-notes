@@ -66,11 +66,6 @@ date: Last Modified
 * [Q&A: Train Signals?](../../../transcriptions/yt-WQH5cWS3s2s.md) https://www.youtube.com/watch?v=WQH5cWS3s2s
 * [Snutt Talk: Satisfactory 1.0, and beyond](../../../transcriptions/yt-gAO072mzibQ.md) https://www.youtube.com/watch?v=gAO072mzibQ
 * [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../../transcriptions/yt--AjFbGOOAQI.md) https://www.youtube.com/watch?v=-AjFbGOOAQI
-* Snutt Talk: 1.0 & Sequels https://clips.twitch.tv/CharmingHeadstrongAsparagusBCouch
-* Snutt Talk: Satisfactory 1.0, and beyond (Part 1) https://clips.twitch.tv/BrainyArbitraryEagleBrokeBack
-* Snutt Talk: Satisfactory 1.0, and beyond (Part 2) https://clips.twitch.tv/HomelyCovertParrotNinjaGrumpy
-* Snutt Talk: Satisfactory 1.0, and beyond (Part 3) https://clips.twitch.tv/SmellyCarefulRuffPastaThat
-* Snutt Talk: Satisfactory 1.0, and beyond (Part 4) https://clips.twitch.tv/GenerousSlickKimchiResidentSleeper
 
 ## August 18th, 2020 Livestream
 * Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit

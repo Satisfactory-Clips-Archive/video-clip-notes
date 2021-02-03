@@ -44,7 +44,6 @@ date: Last Modified
 * [Q&A: A mark on pipes to show the meters ?](../../../transcriptions/yt-lXL_N-a887E.md) https://www.youtube.com/watch?v=lXL_N-a887E
 * [Q&A: Will you be adding more variety of resources?](../../../transcriptions/yt-wvFR-VL4nc8.md) https://www.youtube.com/watch?v=wvFR-VL4nc8
 * [Q&A: Are there internal discussions to significantly rework existing buildings like refineries?](../../../transcriptions/yt-x07FQZjbA_c.md) https://www.youtube.com/watch?v=x07FQZjbA_c
-* Q&A: A mark on pipes to show the meters ? https://clips.twitch.tv/AltruisticSuperBobaBudBlast
 
 ## August 18th, 2020 Livestream
 * Q&A: Is there any way to prioritise power plant pipes? https://clips.twitch.tv/AnnoyingSavageParrotWoofer

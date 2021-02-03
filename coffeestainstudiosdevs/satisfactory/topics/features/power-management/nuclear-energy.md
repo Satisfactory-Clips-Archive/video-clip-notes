@@ -23,4 +23,3 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: End game is all about building refineries?](../../../transcriptions/yt-mZ4l1leFAWY.md) https://www.youtube.com/watch?v=mZ4l1leFAWY
 * [Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them?](../../../transcriptions/yt-535Zu17HOlQ.md) https://www.youtube.com/watch?v=535Zu17HOlQ
-* Q&A: Nuclear is the current end game https://clips.twitch.tv/CoweringHotZebraTheTarFu

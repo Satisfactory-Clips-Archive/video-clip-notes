@@ -26,7 +26,6 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Please think about adding dedicated Storage Containers like in Ark ?](../../../transcriptions/yt-_IL63Q90d1k.md) https://www.youtube.com/watch?v=_IL63Q90d1k
 * [Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them?](../../../transcriptions/yt-535Zu17HOlQ.md) https://www.youtube.com/watch?v=535Zu17HOlQ
-* Q&A: Please think about adding dedicated Storage Containers like in Ark ? https://clips.twitch.tv/ArbitraryIronicClipsdadPicoMause
 
 ## March 9th, 2019 Livestream
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../../../transcriptions/yt-3gFgrVEkOpc.md) https://www.youtube.com/watch?v=3gFgrVEkOpc

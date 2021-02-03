@@ -48,8 +48,6 @@ date: Last Modified
 * [Q&A: Set a specific Foundation as the keystone?](../../../transcriptions/yt-DTZz5jdnn_s.md) https://www.youtube.com/watch?v=DTZz5jdnn_s
 * [Snutt Talk: Blueprints for beginners vs. end-game play](../../../transcriptions/yt-RdDroPYu1sk.md) https://www.youtube.com/watch?v=RdDroPYu1sk
 * [Q&A: Grid- a radius would be perfect?](../../../transcriptions/yt-AgdOGd32U3w.md) https://www.youtube.com/watch?v=AgdOGd32U3w
-* Q&A: What about holes for Foundations? (Part 1) https://clips.twitch.tv/CrepuscularEnergeticPartridgePanicVis
-* Q&A: What about holes for Foundations? (Part 2) https://clips.twitch.tv/SparklingGiftedDumplingsSquadGoals
 
 ## August 11th, 2020 Livestream
 * Q&A: Floating Factories vs. Structural Supports https://clips.twitch.tv/GiftedSincereDillDoubleRainbow

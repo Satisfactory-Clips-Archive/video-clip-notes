@@ -16,4 +16,3 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Generators have power switches, so do all structures in the game?](../../../transcriptions/yt-CN2G6ZH6bmA.md) https://www.youtube.com/watch?v=CN2G6ZH6bmA
 * [Q&A: When will you ad UI for the Steam Geyser Power Plant?](../../../transcriptions/yt-xFZfkjY3J0c.md) https://www.youtube.com/watch?v=xFZfkjY3J0c
-* Q&A: When will you ad UI for the Steam Geyser Power Plant? https://clips.twitch.tv/WanderingBashfulGoatTBCheesePull

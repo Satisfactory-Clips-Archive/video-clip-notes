@@ -45,7 +45,6 @@ date: Last Modified
 * [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../transcriptions/yt-Ds9NIPna9_4.md) https://www.youtube.com/watch?v=Ds9NIPna9_4
 * [Q&A: Please think about adding dedicated Storage Containers like in Ark ?](../../transcriptions/yt-_IL63Q90d1k.md) https://www.youtube.com/watch?v=_IL63Q90d1k
 * [Q&A: Are limited resources planned?](../../transcriptions/yt-85XNSiDpeZw.md) https://www.youtube.com/watch?v=85XNSiDpeZw
-* Q&A: Will you be adding more variety of resources? https://clips.twitch.tv/BraveThankfulBeefFreakinStinkin
 
 ## August 18th, 2020 Livestream
 * Q&A: Do you plan to make other resources beyond S.A.M. Ore? https://clips.twitch.tv/InventiveBillowingEggPMSTwin

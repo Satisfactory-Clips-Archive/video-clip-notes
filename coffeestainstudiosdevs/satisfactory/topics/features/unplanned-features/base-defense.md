@@ -37,7 +37,6 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?](../../../transcriptions/yt-EbTEcw5zg8k.md) https://www.youtube.com/watch?v=EbTEcw5zg8k
 * [Snutt Talk: Machines breaking & Base Defence](../../../transcriptions/yt-UhehbJ9kR2c.md) https://www.youtube.com/watch?v=UhehbJ9kR2c
-* Snutt Talk: Machines breaking & Base Defence https://clips.twitch.tv/ElegantKawaiiGnatOneHand
 
 ## August 18th, 2020 Livestream
 * Q&A: Will there be animals that attack the base? https://clips.twitch.tv/ProtectiveTubularCatJebaited

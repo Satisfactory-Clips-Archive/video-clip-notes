@@ -35,7 +35,6 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: A mark on pipes to show the meters ?](../../../transcriptions/yt-lXL_N-a887E.md) https://www.youtube.com/watch?v=lXL_N-a887E
 * [Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors?](../../../transcriptions/yt-My4e5HOzxLc.md) https://www.youtube.com/watch?v=My4e5HOzxLc
-* Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: AWESOME Shop Teaser](../../../transcriptions/yt-0fiuHwwSrrI.md) https://www.youtube.com/watch?v=0fiuHwwSrrI

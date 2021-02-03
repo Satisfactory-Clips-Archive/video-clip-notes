@@ -35,8 +35,6 @@ date: Last Modified
 * [Q&A: Why do big updates at all - why not just release everything in small bites?](../../../../transcriptions/yt-qEiYxLhX3CM.md) https://www.youtube.com/watch?v=qEiYxLhX3CM
 * [Q&A: Train Signals?](../../../../transcriptions/yt-WQH5cWS3s2s.md) https://www.youtube.com/watch?v=WQH5cWS3s2s
 * [Q&A: Will the Train always clip?](../../../../transcriptions/yt-PY6wf7cvjgM.md) https://www.youtube.com/watch?v=PY6wf7cvjgM
-* Q&A: Train Signals https://clips.twitch.tv/OriginalAntsySmoothieStoneLightning
-* Q&A: Will the Train always clip? https://clips.twitch.tv/ImpartialEnchantingCider4Head
 
 ## August 18th, 2020 Livestream
 * Q&A: Any thoughts on whether Trains will ever collide? https://clips.twitch.tv/SaltyJazzyPasta4Head

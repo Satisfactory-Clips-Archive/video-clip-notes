@@ -51,8 +51,6 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Add Train tunnels to go through mountains?](../../../transcriptions/yt-v6sWQLM4fMM.md) https://www.youtube.com/watch?v=v6sWQLM4fMM
 * [Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug?](../../../transcriptions/yt-btJHOT-HkO0.md) https://www.youtube.com/watch?v=btJHOT-HkO0
-* Q&A: Add Train tunnels to go through mountains? https://clips.twitch.tv/GleamingHyperBottleRickroll
-* Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug? https://clips.twitch.tv/LightAcceptableCheesePermaSmug
 
 ## August 18th, 2020 Livestream
 * Q&A: When will we be able to paint our trains? https://clips.twitch.tv/BelovedBloodyStapleGingerPower

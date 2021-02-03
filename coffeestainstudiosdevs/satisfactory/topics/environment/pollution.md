@@ -15,7 +15,6 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: More pollution as you progress?](../../transcriptions/yt-dTd-M1qGkfU.md) https://www.youtube.com/watch?v=dTd-M1qGkfU
-* Q&A: More pollution as you progress? https://clips.twitch.tv/WanderingLitigiousDurianRalpherZ
 
 ## March 9th, 2019 Livestream
 * [Q&A: Are you going to add earth problems for smoke fault?](../../transcriptions/yt-AXNhZsAGM1M.md) https://www.youtube.com/watch?v=AXNhZsAGM1M

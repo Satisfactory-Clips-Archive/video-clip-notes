@@ -18,10 +18,6 @@ date: Last Modified
 * [Q&A: Smart Truck Stations?](../../../../transcriptions/yt-xYwIsp94W7c.md) https://www.youtube.com/watch?v=xYwIsp94W7c
 * [Q&A: If you add Trucks then add Boats?](../../../../transcriptions/yt-A10cQzT6TpU.md) https://www.youtube.com/watch?v=A10cQzT6TpU
 * [Q&A: Trailer for the Trucks?](../../../../transcriptions/yt-WjVP7rOR38M.md) https://www.youtube.com/watch?v=WjVP7rOR38M
-* Q&A: Smart Truck Stations? https://clips.twitch.tv/FurtiveHealthyRhinocerosJonCarnage
-* Q&A: Trailer for the Trucks? https://clips.twitch.tv/SarcasticNeighborlyPigTebowing
-* Q&A: Tanker Trucks? (Part 1) https://clips.twitch.tv/TenderSuspiciousSashimiEleGiggle
-* Q&A: Tanker Trucks? (Part 2) https://clips.twitch.tv/FunSparklyFishRedCoat
 
 ## March 9th, 2019 Livestream
 * [Q&A: Do you guys plan on adding filters to Truck Stations?](../../../../transcriptions/yt-HzaMvf15Ty8.md) https://www.youtube.com/watch?v=HzaMvf15Ty8

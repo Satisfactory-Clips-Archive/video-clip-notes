@@ -34,9 +34,6 @@ date: Last Modified
 * [Q&A: More pollution as you progress?](../../transcriptions/yt-dTd-M1qGkfU.md) https://www.youtube.com/watch?v=dTd-M1qGkfU
 * [Q&A: Removing vegetation speeds up the game, yes or no ?](../../transcriptions/yt-GgoQS6sOADQ.md) https://www.youtube.com/watch?v=GgoQS6sOADQ
 * [Q&A: Are the trees instance-based?](../../transcriptions/yt-73nEuwO7HTA.md) https://www.youtube.com/watch?v=73nEuwO7HTA
-* Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ? https://clips.twitch.tv/VibrantExpensiveRaisinStinkyCheese
-* Q&A: Removing vegetation speeds up the game, yes or no ? https://clips.twitch.tv/BusyHandsomeSmoothiePartyTime
-* Q&A: Are the trees instance-based? https://clips.twitch.tv/HandsomeAnnoyingLEDPraiseIt
 
 ## March 24th, 2020 Livestream
 * [Q&A: Berry Farming?](../../transcriptions/yt-2Cq3xmLN8sQ.md) https://www.youtube.com/watch?v=2Cq3xmLN8sQ

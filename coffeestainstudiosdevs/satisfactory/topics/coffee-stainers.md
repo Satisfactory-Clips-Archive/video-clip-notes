@@ -40,7 +40,6 @@ date: Last Modified
 * [Q&A: Train Signals?](../transcriptions/yt-WQH5cWS3s2s.md) https://www.youtube.com/watch?v=WQH5cWS3s2s
 * [Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors?](../transcriptions/yt-My4e5HOzxLc.md) https://www.youtube.com/watch?v=My4e5HOzxLc
 * [Q&A: Are the Devs back from vacation?](../transcriptions/yt-dfHUHMQ9JQE.md) https://www.youtube.com/watch?v=dfHUHMQ9JQE
-* Q&A: Are the Devs back from vacation? https://clips.twitch.tv/SeductiveImpartialCobblerOptimizePrime
 
 ## August 11th, 2020 Livestream
 * Q&A: Do you have a QA department? https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull

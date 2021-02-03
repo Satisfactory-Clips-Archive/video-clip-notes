@@ -12,7 +12,6 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Will there be new items coming to the AWESOME Shop between now and Update 4?](../../../transcriptions/yt-JSdd9fpzhK4.md) https://www.youtube.com/watch?v=JSdd9fpzhK4
-* Q&A: Will there be new items coming to the AWESOME Shop between now and Update 4? https://clips.twitch.tv/PerfectNurturingTrollRiPepperonis
 
 ## June 8th, 2020 Livestream
 * [Q&A: Why the stairs and stuff not available earlier in the game?](../../../transcriptions/yt-8c389_Pw_Ic.md) https://www.youtube.com/watch?v=8c389_Pw_Ic

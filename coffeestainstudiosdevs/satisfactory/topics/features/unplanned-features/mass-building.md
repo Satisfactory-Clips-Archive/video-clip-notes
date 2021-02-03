@@ -73,11 +73,6 @@ date: Last Modified
 * [Q&A: Drag-to-build Mode?](../../../transcriptions/yt-uACIFWnIlY0.md) https://www.youtube.com/watch?v=uACIFWnIlY0
 * [Snutt Talk: Blueprints for beginners vs. end-game play](../../../transcriptions/yt-RdDroPYu1sk.md) https://www.youtube.com/watch?v=RdDroPYu1sk
 * Q&A: Copy & Paste settings from Machine to Machine? https://clips.twitch.tv/SlickEsteemedTriangleVoteNay
-* Q&A: Drag-to-build Mode? https://clips.twitch.tv/UglyRacyCaribouYouWHY
-* Q&A: Blueprints would be awesome for end-game (Part 1) https://clips.twitch.tv/LuckyNastyLionDogFace
-* Q&A: Blueprints would be awesome for end-game (Part 2) https://clips.twitch.tv/FreezingCuriousHeronDatBoi
-* Q&A: Blueprints would be awesome for end-game (Part 3) https://clips.twitch.tv/CrunchyGlamorousQuailSwiftRage
-* Q&A: Blueprints would be awesome for end-game (Part 4) https://clips.twitch.tv/RacyHilariousMangoStinkyCheese
 
 ## August 18th, 2020 Livestream
 * Q&A: Any plans for 1-click multi-building? https://clips.twitch.tv/CheerfulLightAsteriskGOWSkull

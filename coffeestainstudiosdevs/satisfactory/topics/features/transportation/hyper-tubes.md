@@ -22,9 +22,6 @@ date: Last Modified
 * [Q&A: Why is hyperloop in first person?](../../../transcriptions/yt-BmSeFBv2rAQ.md) https://www.youtube.com/watch?v=BmSeFBv2rAQ
 * [Q&A: Explosive Barrels of Gas we can send through the rail guns ?](../../../transcriptions/yt-e4iY6zivsbU.md) https://www.youtube.com/watch?v=e4iY6zivsbU
 * [Q&A: Generators have power switches, so do all structures in the game?](../../../transcriptions/yt-CN2G6ZH6bmA.md) https://www.youtube.com/watch?v=CN2G6ZH6bmA
-* Q&A: Signs for Hypertube Entrances? https://clips.twitch.tv/SpinelessUnsightlyVanillaKeyboardCat
-* Q&A: Mk. 2 Hypertubes? https://clips.twitch.tv/CrypticUnusualPandaArsonNoSexy
-* Q&A: Why is hyperloop in first person? https://clips.twitch.tv/FairCallousStingrayHeyGuys
 
 ## August 11th, 2020 Livestream
 * Q&A: Hypertube Cannons - Bug or Feature? https://clips.twitch.tv/OilyPatientOtterTBTacoLeft

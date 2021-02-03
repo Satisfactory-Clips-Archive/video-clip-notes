@@ -25,8 +25,6 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * Q&A: More cats in Arachnophobia Mode? https://www.youtube.com/watch?v=xgdgen43IzQ
 * [Q&A: Arachnophobia Mode is scarier than the actual spiders](../../../transcriptions/yt--kovZdz9IS8.md) https://www.youtube.com/watch?v=-kovZdz9IS8
-* Q&A: More cats in Arachnophobia Mode? https://clips.twitch.tv/KathishConcernedWalrusRedCoat
-* Q&A: Arachnophobia Mode is scarier than the actual spiders https://clips.twitch.tv/NeighborlyEnticingMarrowResidentSleeper
 
 ## August 18th, 2020 Livestream
 * Snutt & Jace Talk: Arachnophobia Mode (part 1) https://clips.twitch.tv/HandsomeJoyousPigeonYouWHY

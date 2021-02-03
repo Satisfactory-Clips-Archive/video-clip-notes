@@ -56,7 +56,6 @@ date: Last Modified
 * Q&A: Add Godzilla to fight the big Manta? https://www.youtube.com/watch?v=MncPu1Yxuf8
 * [Q&A: Will we have more monsters?](../../transcriptions/yt-shEKhZakMxQ.md) https://www.youtube.com/watch?v=shEKhZakMxQ
 * [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../transcriptions/yt--AjFbGOOAQI.md) https://www.youtube.com/watch?v=-AjFbGOOAQI
-* Q&A: Will we have more monsters? https://clips.twitch.tv/GrotesqueDelightfulLyrebirdPrimeMe
 
 ## August 18th, 2020 Livestream
 * Q&A: Are we ever going to add taming mounts? https://clips.twitch.tv/BoldAgileSquidDoggo

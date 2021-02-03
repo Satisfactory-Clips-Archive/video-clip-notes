@@ -73,13 +73,6 @@ date: Last Modified
 * [Q&A: Potential to get better management for power grids?](../../transcriptions/yt-_H3wk4VfjIY.md) https://www.youtube.com/watch?v=_H3wk4VfjIY
 * [Q&A: Any chance we can have a power switch so we can shut down power generators?](../../transcriptions/yt-kZAnBqZybhs.md) https://www.youtube.com/watch?v=kZAnBqZybhs
 * [Q&A: Generators have power switches, so do all structures in the game?](../../transcriptions/yt-CN2G6ZH6bmA.md) https://www.youtube.com/watch?v=CN2G6ZH6bmA
-* Q&A: What about a more complex power system with transformers and stuff? https://clips.twitch.tv/FrozenVivaciousLaptopGivePLZ
-* Q&A: AI in an Electricity Management System that can handle power surges when we're away from base? https://clips.twitch.tv/FancyPiercingLardOneHand
-* Q&A: Potential to get better management for power grids? https://clips.twitch.tv/SoftTangentialGaurJonCarnage
-* Q&A: Any chance we can have a power switch so we can shut down power generators? (Part 1) https://clips.twitch.tv/SmokyBreakableAyeayeEagleEye
-* Q&A: Any chance we can have a power switch so we can shut down power generators? (Part 2) https://clips.twitch.tv/SassyLightSkirretOSsloth
-* Q&A: Any chance we can have a power switch so we can shut down power generators? (Part 3) https://clips.twitch.tv/KawaiiOddGrasshopperMrDestructoid
-* Q&A: Any chance we can have a power switch so we can shut down power generators? (Part 4) https://clips.twitch.tv/ElegantNaivePorpoiseTF2John
 
 ## August 18th, 2020 Livestream
 * Q&A: Is there any way to prioritise power plant pipes? https://clips.twitch.tv/AnnoyingSavageParrotWoofer

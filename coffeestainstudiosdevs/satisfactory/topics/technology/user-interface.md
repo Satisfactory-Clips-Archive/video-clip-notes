@@ -94,12 +94,6 @@ date: Last Modified
 * [Q&A: When will you ad UI for the Steam Geyser Power Plant?](../../transcriptions/yt-xFZfkjY3J0c.md) https://www.youtube.com/watch?v=xFZfkjY3J0c
 * [Q&A: Generators have power switches, so do all structures in the game?](../../transcriptions/yt-CN2G6ZH6bmA.md) https://www.youtube.com/watch?v=CN2G6ZH6bmA
 * [Q&A: Grid- a radius would be perfect?](../../transcriptions/yt-AgdOGd32U3w.md) https://www.youtube.com/watch?v=AgdOGd32U3w
-* Q&A: Today I Learned - there's a mass dismantle? https://clips.twitch.tv/OnerousGlamorousMoonAllenHuhu
-* Q&A: Water Extractors need to snap to grid https://clips.twitch.tv/ExuberantAmorphousCarrotNononoCat
-* Q&A: Set a specific Foundation as the keystone https://clips.twitch.tv/GoodAnimatedSproutPipeHype
-* Q&A: Grid- a radius would be perfect https://clips.twitch.tv/GeniusConcernedEggDogFace
-* Q&A: A mark on pipes to show the meters ? https://clips.twitch.tv/AltruisticSuperBobaBudBlast
-* Q&A: What about a Tutorial System? https://clips.twitch.tv/EntertainingTenuousCasettePeteZaroll
 
 ## June 8th, 2020 Livestream
 * [Snutt, Jace, & Mark Talk: Muting ADA](../../transcriptions/yt-H3eApDUK_Xs.md) https://www.youtube.com/watch?v=H3eApDUK_Xs

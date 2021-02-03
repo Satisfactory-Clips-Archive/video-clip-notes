@@ -36,12 +36,6 @@ date: Last Modified
 * Q&A: How about a drone to fly around? https://www.youtube.com/watch?v=1msTsQksmbI
 * [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../../transcriptions/yt-Ds9NIPna9_4.md) https://www.youtube.com/watch?v=Ds9NIPna9_4
 * [Q&A: State of things = 🤷?](../../../transcriptions/yt-5SH9eySqDzU.md) https://www.youtube.com/watch?v=5SH9eySqDzU
-* Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother
-* Q&A: How about a drone to fly around? https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby
-* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 1) https://clips.twitch.tv/AbstruseFrailKathyMrDestructoid
-* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 2) https://clips.twitch.tv/SourManlyMochaBudStar
-* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 3) https://clips.twitch.tv/PowerfulFriendlyKoalaANELE
-* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 4) https://clips.twitch.tv/PoliteEnergeticGrouseHassaanChop
 
 ## August 11th, 2020 Livestream
 * Q&A: Will Drones be added to the game for aerial travel? https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper

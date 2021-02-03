@@ -225,26 +225,7 @@ date: Last Modified
 * [Q&A: State of things = 🤷?](../../../transcriptions/yt-5SH9eySqDzU.md) https://www.youtube.com/watch?v=5SH9eySqDzU
 * [Q&A: Please tell me Update 4 will use S.A.M. Ore](../../../transcriptions/yt--b2L_nlW_Fo.md) https://www.youtube.com/watch?v=-b2L_nlW_Fo
 * [Q&A: When will the next patch even get released?](../../../transcriptions/yt-I59oaCtgopI.md) https://www.youtube.com/watch?v=I59oaCtgopI
-* ETA for Update 4? (Part 1) https://clips.twitch.tv/DeadPrettySaladMoreCowbell
-* ETA for Update 4? (Part 2) https://clips.twitch.tv/SavageBenevolentEndiveChocolateRain
-* ETA for Update 4? (Part 3) https://clips.twitch.tv/GoodSaltyPepperoniPunchTrees
-* ETA for Update 4? (Part 4) https://clips.twitch.tv/UnsightlyApatheticHornetKreygasm
-* ETA for Update 4? (Part 5) https://clips.twitch.tv/AmazingEagerGorillaHeyGuys
-* Q&A: Will Gas be in Update 4? https://clips.twitch.tv/SpinelessSneakySalsifyNerfRedBlaster
-* Q&A: Will there be new items coming to the AWESOME Shop between now and Update 4? https://clips.twitch.tv/PerfectNurturingTrollRiPepperonis
-* Snutt Talk: Minor stuff before Update 4 https://clips.twitch.tv/FrozenEndearingCodEleGiggle
-* Q&A: Update 4, just a quality-of-life thing? https://clips.twitch.tv/GleamingCheerfulWatercressRaccAttack
-* Q&A: Please tell me Update 4 will use S.A.M. Ore https://clips.twitch.tv/ArtisticGlutenFreeSpindleDxAbomb
-* Q&A: When will the next patch even get released? https://clips.twitch.tv/BlitheKitschySnoodTwitchRaid
-* ETA for Update 4? (Mid-stream reiteration part 1) https://clips.twitch.tv/TangentialHyperFlyBigBrother
-* ETA for Update 4? (Mid-stream reiteration part 2) https://clips.twitch.tv/PlumpEntertainingSandstormYee
-* ETA for Update 4? (Mid-stream reiteration part 3) https://clips.twitch.tv/EntertainingTentativeGaurSmoocherZ
 * Q&A: Update before release of Cyberpunk 2077? https://clips.twitch.tv/AttractiveFrailRaisinKAPOW
-* Q&A: Can we expect significant performance increase with Update 4? (Part 1) https://clips.twitch.tv/CarelessDepressedShingleHassanChop
-* Q&A: Can we expect significant performance increase with Update 4? (Part 2) https://clips.twitch.tv/LuckyMushyShingleTBTacoRight
-* Q&A: Can we expect significant performance increase with Update 4? (Part 3) https://clips.twitch.tv/SincereProductiveScallionLeeroyJenkins
-* Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
-* Q&A: Some new Machines in the next update? https://clips.twitch.tv/CourteousSmellyNewtTTours
 
 ## August 18th, 2020 Livestream
 * Q&A: When is Update 4 pencilled for? https://clips.twitch.tv/RelievedTawdryEelDogFace

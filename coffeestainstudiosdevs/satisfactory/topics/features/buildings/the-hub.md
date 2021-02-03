@@ -57,10 +57,6 @@ date: Last Modified
 * [Snutt Talk: Snutt discovers the fridge](../../../transcriptions/yt-AwfR7ExmwJ0.md) https://www.youtube.com/watch?v=AwfR7ExmwJ0
 * [Q&A: Will you be able to play Doom on the Hub screens?](../../../transcriptions/yt-lVjzwGuhM5I.md) https://www.youtube.com/watch?v=lVjzwGuhM5I
 * [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../../transcriptions/yt-Ds9NIPna9_4.md) https://www.youtube.com/watch?v=Ds9NIPna9_4
-* Q&A: Will you be able to play Doom on the Hub screens? https://clips.twitch.tv/DifficultDependableGooseAMPEnergyCherry
-* Q&A: Can we get a drink on the fridge in the base? https://clips.twitch.tv/ShyDifferentOcelotRalpherZ
-* Snutt Talk: Fridge in the Hub https://clips.twitch.tv/FreezingBovineRutabagaFutureMan
-* Snutt Talk: Snutt discovers the fridge. https://clips.twitch.tv/SeductiveAbstemiousBisonDerp
 * Q&A: Could we order food from the Food Station, or is it like a buffet? https://clips.twitch.tv/ExuberantDeadDinosaurBatChest
 
 ## August 18th, 2020 Livestream

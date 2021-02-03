@@ -74,18 +74,8 @@ date: Last Modified
 * [Q&A: What can the Cyber Wagon do?](../../../transcriptions/yt-mL4yeGMg3ms.md) https://www.youtube.com/watch?v=mL4yeGMg3ms
 * [Q&A: Any plans to dig my explorer to get it out of the hole it fell into?](../../../transcriptions/yt-aaP5_tXPthI.md) https://www.youtube.com/watch?v=aaP5_tXPthI
 * [Snutt PSA: Nuclear Waste disposal](../../../transcriptions/yt-FUMyJYJr88Y.md) https://www.youtube.com/watch?v=FUMyJYJr88Y
-* Snutt Talk: Improving on Vehicles https://clips.twitch.tv/AmazonianAnnoyingSushiUncleNox
-* Q&A: Any plans to dig my explorer to get it out of the hole it fell into? https://clips.twitch.tv/FuriousRockyDuckPRChase
-* Q&A: Can you make modular vehicles? (Part 1) https://clips.twitch.tv/OriginalMuddyDogePeteZaroll
-* Q&A: Can you make modular vehicles? (Part 2) https://clips.twitch.tv/DistinctConcernedPlumageWow
-* Q&A: If you add Trucks then add Boats? https://clips.twitch.tv/EasyEnticingBearM4xHeh
-* Q&A: We need Battleships https://clips.twitch.tv/WildHonorableCakeGrammarKing
 * Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother
 * Q&A: How about a drone to fly around? https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby
-* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 1) https://clips.twitch.tv/AbstruseFrailKathyMrDestructoid
-* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 2) https://clips.twitch.tv/SourManlyMochaBudStar
-* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 3) https://clips.twitch.tv/PowerfulFriendlyKoalaANELE
-* Q&A: Add Planes as Vehicles and we can automate it to carry our resources? (Part 4) https://clips.twitch.tv/PoliteEnergeticGrouseHassaanChop
 
 ## August 18th, 2020 Livestream
 * Q&A: Are there some other vehicles planned? https://clips.twitch.tv/EsteemedNurturingHyenaWOOP

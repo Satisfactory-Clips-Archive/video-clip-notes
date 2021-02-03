@@ -81,10 +81,6 @@ date: Last Modified
 * [Q&A: Will there be more narrative?](../transcriptions/yt-8Igl_hPAXPs.md) https://www.youtube.com/watch?v=8Igl_hPAXPs
 * [Q&A: Will there be any further goals besides Research & Development stages?](../transcriptions/yt-6Tt6xgjgn7k.md) https://www.youtube.com/watch?v=6Tt6xgjgn7k
 * [Q&A: Is the Story a mode, or can I play with my actual save game?](../transcriptions/yt-DdGctBLngpE.md) https://www.youtube.com/watch?v=DdGctBLngpE
-* Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John
-* Q&A: Do you have any clue on what the alien artefacts do? https://clips.twitch.tv/CulturedEnthusiasticNoodleWTRuck
-* Q&A: Will there be more narrative? https://clips.twitch.tv/DarlingPoisedPotCopyThis
-* Q&A: Is the Story a mode, or can I play with my actual save game? https://clips.twitch.tv/GeniusInventiveMomPRChase
 
 ## August 18th, 2020 Livestream
 * Q&A: Storyline before 1.0? https://clips.twitch.tv/SteamyFurtiveRadishStrawBeary

@@ -12,7 +12,6 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Underwater biome when?](../../../../transcriptions/yt-pKZc4ciFu6Q.md) https://www.youtube.com/watch?v=pKZc4ciFu6Q
-* Q&A: Underwater biome when? https://clips.twitch.tv/HonorableCautiousDonutStoneLightning
 
 ## August 18th, 2020 Livestream
 * Q&A: Will there be any underwater resources? https://clips.twitch.tv/RelievedCleanBibimbapDancingBanana

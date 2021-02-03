@@ -23,8 +23,6 @@ date: Last Modified
 * [Q&A: I want to fire Nukes at my rival Pioneers?](../../transcriptions/yt-CQ0vc3uRaw8.md) https://www.youtube.com/watch?v=CQ0vc3uRaw8
 * [Q&A: She‽ Not me‽](../../transcriptions/yt-v2qV7Kfbcac.md) https://www.youtube.com/watch?v=v2qV7Kfbcac
 * [Q&A: Real-time reflections for the helmet?](../../transcriptions/yt-RuQcbza7pVw.md) https://www.youtube.com/watch?v=RuQcbza7pVw
-* Q&A: She!? Not me !? https://clips.twitch.tv/InexpensiveChillyWheelItsBoshyTime
-* Q&A: Real-time reflections for the helmet? https://clips.twitch.tv/LivelyHeartlessRutabagaWholeWheat
 
 ## August 18th, 2020 Livestream
 * Q&A: How did you make the character slide in Satisfactory? (part 1) https://clips.twitch.tv/WittyYawningSangJKanStyle

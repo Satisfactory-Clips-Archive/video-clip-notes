@@ -103,10 +103,6 @@ date: Last Modified
 * [Snutt Talk: Hyper Tube max speed](../../transcriptions/yt-bQ-5mKC09Fk.md) https://www.youtube.com/watch?v=bQ-5mKC09Fk
 * [Q&A: Can we expect significant performance increase with Update 4?](../../transcriptions/yt-PVf-pBNYO_M.md) https://www.youtube.com/watch?v=PVf-pBNYO_M
 * [Q&A: When will the next patch even get released?](../../transcriptions/yt-I59oaCtgopI.md) https://www.youtube.com/watch?v=I59oaCtgopI
-* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 1) https://clips.twitch.tv/TentativeHardPlumberYee
-* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 2) https://clips.twitch.tv/SquareLovelyFriesBudBlast
-* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 3) https://clips.twitch.tv/TemperedEnchantingOrangeTBCheesePull
-* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 4) https://clips.twitch.tv/FrigidFragileCucumberOneHand
 
 ## August 18th, 2020 Livestream
 * Build Limit (Part 1): https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis

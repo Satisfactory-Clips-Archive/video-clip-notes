@@ -29,7 +29,6 @@ date: Last Modified
 * [Q&A: I want to fire Nukes at my rival Pioneers?](../../transcriptions/yt-CQ0vc3uRaw8.md) https://www.youtube.com/watch?v=CQ0vc3uRaw8
 * [Q&A: Why can't we explode some stones in the map?](../../transcriptions/yt-Yhtu3NBv2NM.md) https://www.youtube.com/watch?v=Yhtu3NBv2NM
 * [Q&A: Explosive Barrels of Gas we can send through the rail guns ?](../../transcriptions/yt-e4iY6zivsbU.md) https://www.youtube.com/watch?v=e4iY6zivsbU
-* Q&A: Explosive Barrels of Gas we can send through the rail guns ? https://clips.twitch.tv/CrowdedRespectfulNostrilNotATK
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Will Gas Masks be working when you sit in vehicles?](../../transcriptions/yt-qcOfYoEbhVI.md) https://www.youtube.com/watch?v=qcOfYoEbhVI

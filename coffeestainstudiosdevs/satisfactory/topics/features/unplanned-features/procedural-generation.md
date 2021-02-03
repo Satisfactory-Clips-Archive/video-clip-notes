@@ -24,7 +24,6 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: How about procedural maps?](../../../transcriptions/yt-oYVWBcgkahY.md) https://www.youtube.com/watch?v=oYVWBcgkahY
 * [Q&A: State of things = 🤷?](../../../transcriptions/yt-5SH9eySqDzU.md) https://www.youtube.com/watch?v=5SH9eySqDzU
-* Q&A: How about procedural maps? https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea
 
 ## August 11th, 2020 Livestream
 * Q&A: Randomly Generated Maps: https://clips.twitch.tv/OilyBloodyMangoFutureMan

@@ -15,9 +15,6 @@ date: Last Modified
 * [Q&A: Why are there no Solar Panels ?](../../../transcriptions/yt-C1XaJJmvg1M.md) https://www.youtube.com/watch?v=C1XaJJmvg1M
 * [Q&A: Put in Solar & Wind Power to make it ultra limited?](../../../transcriptions/yt-_IJsp-Fy1zw.md) https://www.youtube.com/watch?v=_IJsp-Fy1zw
 * [Q&A: What about wind turbines?](../../../transcriptions/yt-bvMAe2VTC5A.md) https://www.youtube.com/watch?v=bvMAe2VTC5A
-* Q&A: Why are there no Solar Panels ? https://clips.twitch.tv/CleverPluckyOctopusRedCoat
-* Q&A: Put in Solar & Wind Power to make it ultra limited? https://clips.twitch.tv/DeliciousStylishOctopusTBTacoRight
-* Q&A: What about wind turbines? https://clips.twitch.tv/TriangularColdShingleSquadGoals
 
 ## August 11th, 2020 Livestream
 * Q&A: Green Energy? https://clips.twitch.tv/BloodyIcyDragonflyStoneLightning

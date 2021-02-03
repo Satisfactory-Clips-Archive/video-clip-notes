@@ -28,8 +28,6 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Will Gas be in Update 4?](../../transcriptions/yt-ScNrW0Th3wg.md) https://www.youtube.com/watch?v=ScNrW0Th3wg
 * [Q&A: Explosive Barrels of Gas we can send through the rail guns ?](../../transcriptions/yt-e4iY6zivsbU.md) https://www.youtube.com/watch?v=e4iY6zivsbU
-* Q&A: Will Gas be in Update 4? https://clips.twitch.tv/SpinelessSneakySalsifyNerfRedBlaster
-* Q&A: Explosive Barrels of Gas we can send through the rail guns ? https://clips.twitch.tv/CrowdedRespectfulNostrilNotATK
 
 ## August 11th, 2020 Livestream
 * Q&A: Gas Tanks? https://clips.twitch.tv/FitAlertTurtleDogFace

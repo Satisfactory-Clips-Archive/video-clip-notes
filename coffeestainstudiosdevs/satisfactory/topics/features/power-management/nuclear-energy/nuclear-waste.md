@@ -35,13 +35,6 @@ date: Last Modified
 * [Snutt PSA: Nuclear Waste disposal](../../../../transcriptions/yt-FUMyJYJr88Y.md) https://www.youtube.com/watch?v=FUMyJYJr88Y
 * [Q&A: Can we send the nuke waste to FICSIT?](../../../../transcriptions/yt-MmiaI_vhyI0.md) https://www.youtube.com/watch?v=MmiaI_vhyI0
 * [Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them?](../../../../transcriptions/yt-535Zu17HOlQ.md) https://www.youtube.com/watch?v=535Zu17HOlQ
-* Snutt PSA: Nuclear Waste disposal (Part 1) https://clips.twitch.tv/DarlingSteamyCourgetteOneHand
-* Snutt PSA: Nuclear Waste disposal (Part 2) https://clips.twitch.tv/HorribleToughMouseThunBeast
-* Snutt PSA: Nuclear Waste disposal (Part 3) https://clips.twitch.tv/SullenWittyBearHassanChop
-* Snutt PSA: Nuclear Waste disposal (Part 4) https://clips.twitch.tv/QuaintBeautifulMetalWoofer
-* Snutt PSA: Nuclear Waste disposal (Part 5) https://clips.twitch.tv/GoldenTenuousLemurDAESuppy
-* Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them? (Part 1) https://clips.twitch.tv/ConfidentImpossibleShingleTBTacoLeft
-* Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them? (Part 2) https://clips.twitch.tv/SnappyExpensiveDootMVGame
 
 ## March 24th, 2020 Livestream
 * [Q&A: Green Energy & Nuclear Waste?](../../../../transcriptions/yt-T2MEOzplmSQ.md) https://www.youtube.com/watch?v=T2MEOzplmSQ

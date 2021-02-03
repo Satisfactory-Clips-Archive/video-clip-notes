@@ -26,7 +26,6 @@ date: Last Modified
 * [Q&A: New enemies / creatures?](../../../transcriptions/yt-TDbNru0heoU.md) https://www.youtube.com/watch?v=TDbNru0heoU
 * [Q&A: Are there internal discussions to significantly rework existing buildings like refineries?](../../../transcriptions/yt-x07FQZjbA_c.md) https://www.youtube.com/watch?v=x07FQZjbA_c
 * [Q&A: When's Tier 8 coming?](../../../transcriptions/yt-plexfdPIaSw.md) https://www.youtube.com/watch?v=plexfdPIaSw
-* Q&A: New enemies / creatures? https://clips.twitch.tv/WonderfulNurturingYamYouWHY
 
 ## May 19th, 2020 Livestream
 * [Q&A: Do you intended to do planned amount of huge Updates?](../../../transcriptions/yt-Nk53HWpUnnk.md) https://www.youtube.com/watch?v=Nk53HWpUnnk

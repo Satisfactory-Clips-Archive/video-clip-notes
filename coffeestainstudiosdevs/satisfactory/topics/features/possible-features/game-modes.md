@@ -57,7 +57,6 @@ date: Last Modified
 * [Q&A: Is there a Battle Royale Mode planned?](../../../transcriptions/yt-b7ZVifJXBBg.md) https://www.youtube.com/watch?v=b7ZVifJXBBg
 * [Q&A: Mad Max server where someone controls all the Iron nodes?](../../../transcriptions/yt-LcWR0d7elvs.md) https://www.youtube.com/watch?v=LcWR0d7elvs
 * [Q&A: Should I try a 5x5?](../../../transcriptions/yt-sTyZCrW9F_E.md) https://www.youtube.com/watch?v=sTyZCrW9F_E
-* Q&A: Is there a Battle Royale Mode planned? https://clips.twitch.tv/SavorySlickWombatOSkomodo
 
 ## August 18th, 2020 Livestream
 * Q&A: When is Creative Mode coming? https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu

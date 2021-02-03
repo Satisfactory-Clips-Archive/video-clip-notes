@@ -47,7 +47,6 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Update before release of Cyberpunk 2077?](../transcriptions/yt-0lYeX6eduFM.md) https://www.youtube.com/watch?v=0lYeX6eduFM
 * [Q&A: What game will come out first, Satisfactory or Star Citizen?](../transcriptions/yt-3b1QpgsICwA.md) https://www.youtube.com/watch?v=3b1QpgsICwA
-* Q&A: What game will come out first, Satisfactory or Star Citizen? https://clips.twitch.tv/AdventurousUninterestedBasenji4Head
 
 ## August 18th, 2020 Livestream
 * Q&A: Is Satisfactory affected by Epic vs. Apple? https://clips.twitch.tv/FurryAwkwardStrawberryWoofer

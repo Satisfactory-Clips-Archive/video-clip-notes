@@ -40,11 +40,6 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds](../../transcriptions/yt-rr1UWnrs0d4.md) https://www.youtube.com/watch?v=rr1UWnrs0d4
 * [Q&A: Plans for official Linux support?](../../transcriptions/yt-vSFTo-1j-SA.md) https://www.youtube.com/watch?v=vSFTo-1j-SA
-* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 1) https://clips.twitch.tv/TentativeHardPlumberYee
-* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 2) https://clips.twitch.tv/SquareLovelyFriesBudBlast
-* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 3) https://clips.twitch.tv/TemperedEnchantingOrangeTBCheesePull
-* Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds (Part 4) https://clips.twitch.tv/FrigidFragileCucumberOneHand
-* Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp
 
 ## June 8th, 2020 Livestream
 * [Q&A: Will I be able to play Experimental branches on Steam?](../../transcriptions/yt-gXCCQ_JBIUg.md) https://www.youtube.com/watch?v=gXCCQ_JBIUg

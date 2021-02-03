@@ -21,7 +21,6 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Let me personalise my character?](../../../transcriptions/yt-QyKyNbHPaHg.md) https://www.youtube.com/watch?v=QyKyNbHPaHg
-* Q&A: Let me personalise my character? https://clips.twitch.tv/CharmingRespectfulFlyFUNgineer
 
 ## August 18th, 2020 Livestream
 * Q&A: Additional Suit Variations in the Coupon Shop ? https://clips.twitch.tv/CourteousMotionlessWrenMcaT
