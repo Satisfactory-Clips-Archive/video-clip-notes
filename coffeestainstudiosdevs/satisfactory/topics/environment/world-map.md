@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## February 2nd, 2021 Livestream
+* [Q&A: Will more Water be added to the map?](../../transcriptions/yt-TRPP6LcTtRQ.md) https://www.youtube.com/watch?v=TRPP6LcTtRQ
+* [Q&A: Will the Map be bigger later?](../../transcriptions/yt-gvOt4jwWA4Q.md) https://www.youtube.com/watch?v=gvOt4jwWA4Q
+
 ## January 26th, 2021 Livestream
 * [Jace Talk: There are no plans for increasing the size of the Map](../../transcriptions/yt-aCvn84FtDMI.md) https://www.youtube.com/watch?v=aCvn84FtDMI
 * [Q&A: Is there another area rework like the desert update happening?](../../transcriptions/yt-sV-kvBvlTXc.md) https://www.youtube.com/watch?v=sV-kvBvlTXc

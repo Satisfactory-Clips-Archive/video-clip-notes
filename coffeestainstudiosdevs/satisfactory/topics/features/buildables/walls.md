@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Buildables > Walls
 
+## February 2nd, 2021 Livestream
+* [Q&A: Will we be getting more Walls and other building stuff in vanilla?](../../../transcriptions/yt-Y9m96T9a5qU.md) https://www.youtube.com/watch?v=Y9m96T9a5qU
+
 ## January 26th, 2021 Livestream
 * [Q&A: Any chance on updating level-of-detail for coloured Walls?](../../../transcriptions/yt-b7j3iswXHAc.md) https://www.youtube.com/watch?v=b7j3iswXHAc
 

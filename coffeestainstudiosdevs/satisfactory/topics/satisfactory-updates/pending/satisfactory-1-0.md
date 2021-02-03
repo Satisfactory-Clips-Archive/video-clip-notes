@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## February 2nd, 2021 Livestream
+* [Q&A: Out of Early Access?](../../../transcriptions/yt-y51YDVf8VOI.md) https://www.youtube.com/watch?v=y51YDVf8VOI
+
 ## January 26th, 2021 Livestream
 * Q&A: How many Updates do you have planned before 1.0? https://www.youtube.com/watch?v=7t2DLBi7kl8
 * [Q&A: Does the dev team have any ideas for post-launch content?](../../../transcriptions/yt-gppSU17i2as.md) https://www.youtube.com/watch?v=gppSU17i2as

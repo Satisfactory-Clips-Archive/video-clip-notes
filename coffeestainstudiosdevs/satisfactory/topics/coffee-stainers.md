@@ -21,6 +21,10 @@ date: Last Modified
 * [Snutt](../topics/coffee-stainers/snutt.md)
 * [Tim](../topics/coffee-stainers/tim.md)
 
+## February 2nd, 2021 Livestream
+* [Q&A: Will you guys do a new Studio tour with Sweden on lockdown?](../transcriptions/yt-9WJQIJgKgp4.md) https://www.youtube.com/watch?v=9WJQIJgKgp4
+* [Q&A: I am grateful that our 2 Community Managers have dev experience](../transcriptions/yt-VeGSy0F0mVY.md) https://www.youtube.com/watch?v=VeGSy0F0mVY
+
 ## January 26th, 2021 Livestream
 * [Q&A: Where is Coffee Stain HQ located?](../transcriptions/yt-1xr77MkTmdM.md) https://www.youtube.com/watch?v=1xr77MkTmdM
 * [Q&A: How did you come up with the idea of making Satisfactory?](../transcriptions/yt-BG-xhTN4-0Q.md) https://www.youtube.com/watch?v=BG-xhTN4-0Q

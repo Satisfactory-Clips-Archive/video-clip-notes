@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 7
 
+## February 2nd, 2021 Livestream
+* [Q&A: With new Space Elevator parts does this mean that Tier 8 will unlock separately from Tier 7?](../../../transcriptions/yt-1Xgd1ANF9gw.md) https://www.youtube.com/watch?v=1Xgd1ANF9gw
+* [Q&A: Will Update 4 change any existing Alt recipes? (Part 2)](../../../transcriptions/yt-wN7_0V9lRfk.md) https://www.youtube.com/watch?v=wN7_0V9lRfk
+* [Q&A: Will the new Update break my save game?](../../../transcriptions/yt-Hbs0pidLv_4.md) https://www.youtube.com/watch?v=Hbs0pidLv_4
+
 ## January 26th, 2021 Livestream
 * [Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?](../../../transcriptions/yt-zYh_QUHwAh4.md) https://www.youtube.com/watch?v=zYh_QUHwAh4
 

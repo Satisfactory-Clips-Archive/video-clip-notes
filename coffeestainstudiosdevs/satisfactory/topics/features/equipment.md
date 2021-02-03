@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Equipment
 * [Chainsaw](../../topics/features/equipment/chainsaw.md)
 * [Jetpack](../../topics/features/equipment/jetpack.md)
+* [Zip Lines](../../topics/features/equipment/zip-lines.md)
+
+## February 2nd, 2021 Livestream
+* [Q&A: Will we get two character slots for Jetpacks and Blade Runners](../../transcriptions/yt-YKIN_NCGDpo.md) https://www.youtube.com/watch?v=YKIN_NCGDpo
 
 ## January 19th, 2021 Livestream
 * [Q&A: Will Gases affect health or hurt you if you don't have a hazmat suit?](../../transcriptions/yt-3gHStWkd0oE.md) https://www.youtube.com/watch?v=3gHStWkd0oE

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 
+## February 2nd, 2021 Livestream
+* [Q&A: Will more Water be added to the map?](../../transcriptions/yt-TRPP6LcTtRQ.md) https://www.youtube.com/watch?v=TRPP6LcTtRQ
+
 ## January 26th, 2021 Livestream
 * [Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?](../../transcriptions/yt-gqIBbkGCxdI.md) https://www.youtube.com/watch?v=gqIBbkGCxdI
 

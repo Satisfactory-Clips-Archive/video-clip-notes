@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Gases
 
+## February 2nd, 2021 Livestream
+* [Q&A: Are Gases going to work like Liquids?](../../transcriptions/yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
+
 ## January 19th, 2021 Livestream
 * [Q&A: Why not have a system like in real life where you get Nitrogen out of air?](../../transcriptions/yt-p3AQTmE2XoQ.md) https://www.youtube.com/watch?v=p3AQTmE2XoQ
 * [Q&A: When you extract nitrogen will you attract more monsters or alien creatures?](../../transcriptions/yt-ZYjlQtfwJj0.md) https://www.youtube.com/watch?v=ZYjlQtfwJj0

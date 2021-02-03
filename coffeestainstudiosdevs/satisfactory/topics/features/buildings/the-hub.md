@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## February 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Turning the toilet into a shrine to us](../../../transcriptions/yt-JSE233L0yRA.md) https://www.youtube.com/watch?v=JSE233L0yRA
+
 ## January 26th, 2021 Livestream
 * [Q&A: Ability to sleep coming any time?](../../../transcriptions/yt-kDwywg_UJoc.md) https://www.youtube.com/watch?v=kDwywg_UJoc
 

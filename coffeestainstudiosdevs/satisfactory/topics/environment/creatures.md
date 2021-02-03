@@ -7,6 +7,9 @@ date: Last Modified
 * [Lizard Doggo](../../topics/environment/creatures/lizard-doggo.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## February 2nd, 2021 Livestream
+* [Q&A: Increase the spawn radius for animals?](../../transcriptions/yt-6_JS0HRIPp8.md) https://www.youtube.com/watch?v=6_JS0HRIPp8
+
 ## December 15th, 2020 Livestream
 * [Q&A: Will there be new enemies?](../../transcriptions/yt-mwN7mAZ2dbg.md) https://www.youtube.com/watch?v=mwN7mAZ2dbg
 

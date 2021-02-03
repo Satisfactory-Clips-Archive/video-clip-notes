@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## February 2nd, 2021 Livestream
+* [Q&A: Any tips for Train bugs, mine keep docking forever?](../../../transcriptions/yt-dc6IuP5oFeA.md) https://www.youtube.com/watch?v=dc6IuP5oFeA
+* [Q&A: Speaking of Trains, you can't access the demolish menu?](../../../transcriptions/yt-CIk2IbhBuCA.md) https://www.youtube.com/watch?v=CIk2IbhBuCA
+* [Q&A: Train Timetable issues?](../../../transcriptions/yt-PuV7iLqmGBU.md) https://www.youtube.com/watch?v=PuV7iLqmGBU
+
 ## January 26th, 2021 Livestream
 * [Q&A: Have there been any changes on Train collision stuff?](../../../transcriptions/yt-KvIFKOokxYE.md) https://www.youtube.com/watch?v=KvIFKOokxYE
 

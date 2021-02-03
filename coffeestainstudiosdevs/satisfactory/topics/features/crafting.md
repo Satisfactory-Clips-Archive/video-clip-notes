@@ -6,6 +6,10 @@ date: Last Modified
 * [Fuel](../../topics/features/crafting/fuel.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## February 2nd, 2021 Livestream
+* [Q&A: Will Update 4 change any existing Alt recipes? (Part 2)](../../transcriptions/yt-wN7_0V9lRfk.md) https://www.youtube.com/watch?v=wN7_0V9lRfk
+* [Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](../../transcriptions/yt-U7q88D_G0Ac.md) https://www.youtube.com/watch?v=U7q88D_G0Ac
+
 ## October 13th, 2020 Livestream
 * [Q&A: Is it possible to use the add to-do list without visiting the crafting bench?](../../transcriptions/yt-ValaMW93Q7g.md) https://www.youtube.com/watch?v=ValaMW93Q7g
 

@@ -385,6 +385,9 @@ date: Last Modified
 
 ## [Gases](./topics/features/gases.md)
 
+### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [Q&A: Are Gases going to work like Liquids?](./transcriptions/yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
+
 ### [January 19th, 2021 Livestream](./2021-01-19.md)
 * [Q&A: Why do we get a Gas warning when we're in a Hypertube?](./transcriptions/yt-b1pzjEAzXOU.md) https://www.youtube.com/watch?v=b1pzjEAzXOU
 * [Q&A: Sink that accepts Liquids or Gas?](./transcriptions/yt-SskXA-lxaCI.md) https://www.youtube.com/watch?v=SskXA-lxaCI
@@ -410,6 +413,9 @@ date: Last Modified
 * Q&A: When will we be able to paint our trains? https://clips.twitch.tv/BelovedBloodyStapleGingerPower
 
 ## [Pioneer](./topics/features/pioneer.md)
+
+### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [Q&A: Bug or feature, Zombie Pioneers?](./transcriptions/yt-P0g4FfDfncE.md) https://www.youtube.com/watch?v=P0g4FfDfncE
 
 ### [October 13th, 2020 Livestream](./2020-10-13.md)
 * [Q&A: Is the Pioneer a human?](./transcriptions/yt-I0al2jSp_Rk.md) https://www.youtube.com/watch?v=I0al2jSp_Rk
@@ -566,6 +572,9 @@ date: Last Modified
 
 ## [Crafting](./topics/features/crafting.md)
 
+### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](./transcriptions/yt-U7q88D_G0Ac.md) https://www.youtube.com/watch?v=U7q88D_G0Ac
+
 ### [Fuel](./topics/features/crafting/fuel.md)
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
@@ -575,6 +584,11 @@ date: Last Modified
 
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: Is it possible to kill a Spitter with the standard Zapper?](./transcriptions/yt-ZmVoWBHW9Jc.md) https://www.youtube.com/watch?v=ZmVoWBHW9Jc
+
+### [Chainsaw](./topics/features/equipment/chainsaw.md)
+
+#### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [Q&A: Will you reduce the Chainsaw sound?](./transcriptions/yt-xa3ku5IEhrs.md) https://www.youtube.com/watch?v=xa3ku5IEhrs
 
 ### [Jetpack](./topics/features/equipment/jetpack.md)
 
@@ -588,7 +602,17 @@ date: Last Modified
 * [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](./transcriptions/yt--sa8wjg4lYk.md) https://www.youtube.com/watch?v=-sa8wjg4lYk
 * [Q&A: Jetpack needs a Hover Mode?](./transcriptions/yt-zeXh53pKe0A.md) https://www.youtube.com/watch?v=zeXh53pKe0A
 
+### [Zip Lines](./topics/features/equipment/zip-lines.md)
+
+#### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [Q&A: Do Zip Lines need to be powered?](./transcriptions/yt-r_mQ7Xqk6Yo.md) https://www.youtube.com/watch?v=r_mQ7Xqk6Yo
+* [Q&A: Can you Zip Line up?](./transcriptions/yt-obQpGKr8mWg.md) https://www.youtube.com/watch?v=obQpGKr8mWg
+* [Q&A: With the Zip Line, can you Zip through Poles?](./transcriptions/yt-moN0-HQ2R3k.md) https://www.youtube.com/watch?v=moN0-HQ2R3k
+
 ## [Fluids](./topics/features/fluids.md)
+
+### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [Q&A: Are Gases going to work like Liquids?](./transcriptions/yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
 
 ### [January 19th, 2021 Livestream](./2021-01-19.md)
 * [Q&A: Sink that accepts Liquids or Gas?](./transcriptions/yt-SskXA-lxaCI.md) https://www.youtube.com/watch?v=SskXA-lxaCI
@@ -617,6 +641,9 @@ date: Last Modified
 * [Q&A: Overflow option for Valve?](./transcriptions/yt-yaqPaD8DLds.md) https://www.youtube.com/watch?v=yaqPaD8DLds
 
 ## [Multiplayer](./topics/features/multiplayer.md)
+
+### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [Q&A: Bug or feature, Zombie Pioneers?](./transcriptions/yt-P0g4FfDfncE.md) https://www.youtube.com/watch?v=P0g4FfDfncE
 
 ### [January 26th, 2021 Livestream](./2021-01-26.md)
 * [Q&A: Are we going to increase the limit of only having 4 players per game?](./transcriptions/yt-9Fe7lcAQx9I.md) https://www.youtube.com/watch?v=9Fe7lcAQx9I
@@ -684,6 +711,10 @@ date: Last Modified
 ## Planned Features
 
 ### [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
+
+#### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [Q&A: Any news on Dedicated Servers?](./transcriptions/yt--IAV3zlXLss.md) https://www.youtube.com/watch?v=-IAV3zlXLss
+* [Q&A: Release date for Dedicated Servers?](./transcriptions/yt-bhFmwWIY_dw.md) https://www.youtube.com/watch?v=bhFmwWIY_dw
 
 #### [January 26th, 2021 Livestream](./2021-01-26.md)
 * [Q&A: Any updates on Dedicated Servers?](./transcriptions/yt-cvlz1tP61_M.md) https://www.youtube.com/watch?v=cvlz1tP61_M
@@ -1064,6 +1095,9 @@ date: Last Modified
 * Jace Talk: Content & Tiers https://clips.twitch.tv/SwissFurryPlumPlanking
 
 ### [Tier 7](./topics/features/tiers/tier-7.md)
+
+#### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [Q&A: Will the new Update break my save game?](./transcriptions/yt-Hbs0pidLv_4.md) https://www.youtube.com/watch?v=Hbs0pidLv_4
 
 #### [September 8th, 2020 Livestream](./2020-09-08.md)
 * [Q&A: What additions to Tier 7 might be coming & when ?](./transcriptions/yt-lGbJwWh5W_I.md) https://www.youtube.com/watch?v=lGbJwWh5W_I
@@ -1600,6 +1634,9 @@ date: Last Modified
 
 ## [Release Builds](./topics/satisfactory-updates/release-builds.md)
 
+### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [Q&A: Will Update 4 be on Experimental or main branch?](./transcriptions/yt-ePwT4AogKWY.md) https://www.youtube.com/watch?v=ePwT4AogKWY
+
 ### [January 19th, 2021 Livestream](./2021-01-19.md)
 * [Snutt Talk: Switching from Early Access to Experimental builds](./transcriptions/yt-mnxaJP6wmnE.md) https://www.youtube.com/watch?v=mnxaJP6wmnE
 
@@ -1634,6 +1671,9 @@ date: Last Modified
 
 ## [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
 
+### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [State of Dev: Update 4 release date](./transcriptions/yt-pTNcgSWTa-k.md) https://www.youtube.com/watch?v=pTNcgSWTa-k
+
 ### [January 26th, 2021 Livestream](./2021-01-26.md)
 * [State of Dev: Update 4 release date](./transcriptions/yt-scIACwZmTgE.md) https://www.youtube.com/watch?v=scIACwZmTgE
 
@@ -1656,6 +1696,17 @@ date: Last Modified
 ## Pending
 
 ### [Satisfactory Update 4](./topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+#### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [Q&A: Do Zip Lines need to be powered?](./transcriptions/yt-r_mQ7Xqk6Yo.md) https://www.youtube.com/watch?v=r_mQ7Xqk6Yo
+* [Q&A: Can you Zip Line up?](./transcriptions/yt-obQpGKr8mWg.md) https://www.youtube.com/watch?v=obQpGKr8mWg
+* [State of Dev: Update 4 release date](./transcriptions/yt-pTNcgSWTa-k.md) https://www.youtube.com/watch?v=pTNcgSWTa-k
+* [Q&A: When do you think the Release Date will be solid?](./transcriptions/yt-SbKFw6yksO0.md) https://www.youtube.com/watch?v=SbKFw6yksO0
+* [Q&A: Are Gases going to work like Liquids?](./transcriptions/yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
+* [Q&A: More HDD Crash Sites for Update 4?](./transcriptions/yt-awtYncMFbBo.md) https://www.youtube.com/watch?v=awtYncMFbBo
+* [Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](./transcriptions/yt-U7q88D_G0Ac.md) https://www.youtube.com/watch?v=U7q88D_G0Ac
+* [Q&A: Will Update 4 be on Experimental or main branch?](./transcriptions/yt-ePwT4AogKWY.md) https://www.youtube.com/watch?v=ePwT4AogKWY
+* [Q&A: Will the new Update break my save game?](./transcriptions/yt-Hbs0pidLv_4.md) https://www.youtube.com/watch?v=Hbs0pidLv_4
 
 #### [January 26th, 2021 Livestream](./2021-01-26.md)
 * Q&A: How many Updates do you have planned before 1.0? https://www.youtube.com/watch?v=7t2DLBi7kl8
@@ -1769,6 +1820,9 @@ date: Last Modified
 * [Q&A: Will there be a roadmap again for Updates?](./transcriptions/yt-EiqFP9bm7v4.md) https://www.youtube.com/watch?v=EiqFP9bm7v4
 
 ### [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
+
+#### [February 2nd, 2021 Livestream](./2021-02-02.md)
+* [Q&A: Out of Early Access?](./transcriptions/yt-y51YDVf8VOI.md) https://www.youtube.com/watch?v=y51YDVf8VOI
 
 #### [January 26th, 2021 Livestream](./2021-01-26.md)
 * Q&A: How many Updates do you have planned before 1.0? https://www.youtube.com/watch?v=7t2DLBi7kl8

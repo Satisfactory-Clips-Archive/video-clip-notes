@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Simon
 
+## February 2nd, 2021 Livestream
+* [Q&A: Snutt & Jace poster in Satisfactory when?](../../transcriptions/yt-X4heczNNOO8.md) https://www.youtube.com/watch?v=X4heczNNOO8
+
 ## December 8th, 2020 Livestream
 * [State of Dev: Blame Simon](../../transcriptions/yt-H4gyZoXsfo0.md) https://www.youtube.com/watch?v=H4gyZoXsfo0
 

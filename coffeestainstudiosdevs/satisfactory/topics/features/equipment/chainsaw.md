@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Chainsaw
 
+## February 2nd, 2021 Livestream
+* [Q&A: Will you reduce the Chainsaw sound?](../../../transcriptions/yt-xa3ku5IEhrs.md) https://www.youtube.com/watch?v=xa3ku5IEhrs
+
 ## October 6th, 2020 Livestream
 * [Q&A: Why is the Chainsaw a gasoline 2-stroke?](../../../transcriptions/yt-HDlxFGP87Oo.md) https://www.youtube.com/watch?v=HDlxFGP87Oo
 * [Q&A: How does the AoE on the Chainsaw work?](../../../transcriptions/yt-GRvWhu6FKOk.md) https://www.youtube.com/watch?v=GRvWhu6FKOk

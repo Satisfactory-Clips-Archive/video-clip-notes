@@ -7,6 +7,9 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## February 2nd, 2021 Livestream
+* [Q&A: Are Gases going to work like Liquids?](../../transcriptions/yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
+
 ## January 19th, 2021 Livestream
 * [Q&A: What do Resource Wells mean for existing ways for extracting Water & Oil?](../../transcriptions/yt-ezGse7K-fWI.md) https://www.youtube.com/watch?v=ezGse7K-fWI
 * [Q&A: Do you have a plan on adding a Pipe-bursting feature if you over-pressurise them?](../../transcriptions/yt-OoXaGUS3umo.md) https://www.youtube.com/watch?v=OoXaGUS3umo

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Blender
 
+## February 2nd, 2021 Livestream
+* [Q&A: In the next Update will we be able to craft something with Nuclear Waste?](../../../transcriptions/yt-tmuvsaAsm-c.md) https://www.youtube.com/watch?v=tmuvsaAsm-c
+
 ## January 19th, 2021 Livestream
 * [Snutt & Mark Talk: The Blender](../../../transcriptions/yt-a2D7kT6Z1J0.md) https://www.youtube.com/watch?v=a2D7kT6Z1J0
 * [Q&A: Will we use the Blender for Diluted Fuel?](../../../transcriptions/yt-9rPXUN4W5Hg.md) https://www.youtube.com/watch?v=9rPXUN4W5Hg

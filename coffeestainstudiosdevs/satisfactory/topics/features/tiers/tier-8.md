@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 8
 
+## February 2nd, 2021 Livestream
+* [Q&A: With new Space Elevator parts does this mean that Tier 8 will unlock separately from Tier 7?](../../../transcriptions/yt-1Xgd1ANF9gw.md) https://www.youtube.com/watch?v=1Xgd1ANF9gw
+
 ## January 19th, 2021 Livestream
 * [Mark Talk: Resource Wells are unlocked in Tier 8](../../../transcriptions/yt-HjiEL3hWZd4.md) https://www.youtube.com/watch?v=HjiEL3hWZd4
 * [Q&A: What are the incentives to unlock Tier 8 in terms of factory efficiency?](../../../transcriptions/yt-Ii-CZGy8-7A.md) https://www.youtube.com/watch?v=Ii-CZGy8-7A

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## February 2nd, 2021 Livestream
+* [State of Dev: Update 4 release date](../../transcriptions/yt-pTNcgSWTa-k.md) https://www.youtube.com/watch?v=pTNcgSWTa-k
+* [State of Dev: We leaked Zip Lines](../../transcriptions/yt-NJmd9ET-R1k.md) https://www.youtube.com/watch?v=NJmd9ET-R1k
+
 ## January 26th, 2021 Livestream
 * State of Dev: Update 4 https://www.youtube.com/watch?v=HjMEFo3mt_s
 * [State of Dev: Video Release Schedule](../../transcriptions/yt-K-L2cEZmj4c.md) https://www.youtube.com/watch?v=K-L2cEZmj4c

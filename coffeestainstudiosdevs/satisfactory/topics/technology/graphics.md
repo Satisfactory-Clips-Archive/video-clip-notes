@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Graphics
 
+## February 2nd, 2021 Livestream
+* [Q&A: Is the new Engine more heavy as my fps got worse after the Upgrade?](../../transcriptions/yt-adQiqvCYQdw.md) https://www.youtube.com/watch?v=adQiqvCYQdw
+* [Q&A: Any chance on making a tutorial on optimal graphics settings for performance?](../../transcriptions/yt-vwI3DmL9xHM.md) https://www.youtube.com/watch?v=vwI3DmL9xHM
+
 ## January 26th, 2021 Livestream
 * [Q&A: Is ray-trace in planning?](../../transcriptions/yt-Rx_M6fLOzvM.md) https://www.youtube.com/watch?v=Rx_M6fLOzvM
 * [Q&A: Any chance on updating level-of-detail for coloured Walls?](../../transcriptions/yt-b7j3iswXHAc.md) https://www.youtube.com/watch?v=b7j3iswXHAc

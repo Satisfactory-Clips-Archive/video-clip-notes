@@ -4,6 +4,28 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 4
 
+## February 2nd, 2021 Livestream
+* [State of Dev: We leaked Zip Lines](../../../transcriptions/yt-NJmd9ET-R1k.md) https://www.youtube.com/watch?v=NJmd9ET-R1k
+* [Q&A: Do Zip Lines need to be powered?](../../../transcriptions/yt-r_mQ7Xqk6Yo.md) https://www.youtube.com/watch?v=r_mQ7Xqk6Yo
+* [Q&A: Can you Zip Line up?](../../../transcriptions/yt-obQpGKr8mWg.md) https://www.youtube.com/watch?v=obQpGKr8mWg
+* [Snutt & Jace Talk: Other things you can do with Zip Lines](../../../transcriptions/yt-uoQSjjOaq3w.md) https://www.youtube.com/watch?v=uoQSjjOaq3w
+* [State of Dev: Update 4 release date](../../../transcriptions/yt-pTNcgSWTa-k.md) https://www.youtube.com/watch?v=pTNcgSWTa-k
+* [Q&A: Any more teasers?](../../../transcriptions/yt-r7i2CQaxnWc.md) https://www.youtube.com/watch?v=r7i2CQaxnWc
+* [Q&A: When do you think the Release Date will be solid?](../../../transcriptions/yt-SbKFw6yksO0.md) https://www.youtube.com/watch?v=SbKFw6yksO0
+* [Q&A: Is the new Engine more heavy as my fps got worse after the Upgrade?](../../../transcriptions/yt-adQiqvCYQdw.md) https://www.youtube.com/watch?v=adQiqvCYQdw
+* [Q&A: In the next Update will we be able to craft something with Nuclear Waste?](../../../transcriptions/yt-tmuvsaAsm-c.md) https://www.youtube.com/watch?v=tmuvsaAsm-c
+* [Q&A: Any changes to Logistics?](../../../transcriptions/yt-KuWALlTGzq0.md) https://www.youtube.com/watch?v=KuWALlTGzq0
+* [Q&A: With new Space Elevator parts does this mean that Tier 8 will unlock separately from Tier 7?](../../../transcriptions/yt-1Xgd1ANF9gw.md) https://www.youtube.com/watch?v=1Xgd1ANF9gw
+* [Q&A: Are we getting a new teaser this week?](../../../transcriptions/yt-pY14Dudonjc.md) https://www.youtube.com/watch?v=pY14Dudonjc
+* [Q&A: Are Gases going to work like Liquids?](../../../transcriptions/yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
+* [Q&A: Mk.6 Belt in the next Update?](../../../transcriptions/yt-DpT2LNED0wk.md) https://www.youtube.com/watch?v=DpT2LNED0wk
+* [Q&A: Improvements on Vehicles next Update?](../../../transcriptions/yt-79CHl9qFo90.md) https://www.youtube.com/watch?v=79CHl9qFo90
+* [Q&A: More HDD Crash Sites for Update 4?](../../../transcriptions/yt-awtYncMFbBo.md) https://www.youtube.com/watch?v=awtYncMFbBo
+* [Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](../../../transcriptions/yt-U7q88D_G0Ac.md) https://www.youtube.com/watch?v=U7q88D_G0Ac
+* [Q&A: Will Update 4 be on Experimental or main branch?](../../../transcriptions/yt-ePwT4AogKWY.md) https://www.youtube.com/watch?v=ePwT4AogKWY
+* [Q&A: Will Update 4 change any existing Alt recipes? (Part 2)](../../../transcriptions/yt-wN7_0V9lRfk.md) https://www.youtube.com/watch?v=wN7_0V9lRfk
+* [Q&A: Will the new Update break my save game?](../../../transcriptions/yt-Hbs0pidLv_4.md) https://www.youtube.com/watch?v=Hbs0pidLv_4
+
 ## January 26th, 2021 Livestream
 * State of Dev: Update 4 https://www.youtube.com/watch?v=HjMEFo3mt_s
 * [State of Dev: Update 4 release date](../../../transcriptions/yt-scIACwZmTgE.md) https://www.youtube.com/watch?v=scIACwZmTgE
@@ -19,6 +41,7 @@ date: Last Modified
 * [Q&A: What is blocking you now from releasing Update 4, Story elements, Buildings, Maps?](../../../transcriptions/yt-pCwOyYQ1f6Y.md) https://www.youtube.com/watch?v=pCwOyYQ1f6Y
 * [Q&A: Can we see a sneak-peek video?](../../../transcriptions/yt-w0h08ctpsz4.md) https://www.youtube.com/watch?v=w0h08ctpsz4
 * [Q&A: Update 4 estimate?](../../../transcriptions/yt-R-GjcKzww6Y.md) https://www.youtube.com/watch?v=R-GjcKzww6Y
+* [Snutt & Jace Talk: Delete the VOD](../../../transcriptions/yt-MhIaB4UPEP4.md) https://www.youtube.com/watch?v=MhIaB4UPEP4
 
 ## January 22nd, 2021 Instagram AMA
 * Q&A: When is update 4!!!!! https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA_-_When_is_Update_4.mp4

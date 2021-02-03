@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
+## February 2nd, 2021 Livestream
+* Snutt Talk: I can't find Jace https://www.youtube.com/watch?v=EcYryv-vFUc
+* [Q&A: Snutt & Jace poster in Satisfactory when?](../../transcriptions/yt-X4heczNNOO8.md) https://www.youtube.com/watch?v=X4heczNNOO8
+* [Snutt & Jace Talk: Turning the toilet into a shrine to us](../../transcriptions/yt-JSE233L0yRA.md) https://www.youtube.com/watch?v=JSE233L0yRA
+* [Q&A: I am grateful that our 2 Community Managers have dev experience](../../transcriptions/yt-VeGSy0F0mVY.md) https://www.youtube.com/watch?v=VeGSy0F0mVY
+
 ## January 26th, 2021 Livestream
 * [Snutt & Jace Talk: Shaving](../../transcriptions/yt-2lh_A-WR2Gw.md) https://www.youtube.com/watch?v=2lh_A-WR2Gw
 * [Q&A: What do you guys do outside of Community Manager responsibilities?](../../transcriptions/yt-AoGBlnRxGdw.md) https://www.youtube.com/watch?v=AoGBlnRxGdw

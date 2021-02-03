@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Unreal Engine
 
+## February 2nd, 2021 Livestream
+* [Q&A: How has feedback on the Engine Upgrade been going?](../../transcriptions/yt-lBNLO9T_VVk.md) https://www.youtube.com/watch?v=lBNLO9T_VVk
+* [Q&A: Is the new Engine more heavy as my fps got worse after the Upgrade?](../../transcriptions/yt-adQiqvCYQdw.md) https://www.youtube.com/watch?v=adQiqvCYQdw
+
 ## January 26th, 2021 Livestream
 * Q&A: Will you tell here the current build limit number considering the Engine Upgrade? https://www.youtube.com/watch?v=WfU45N1EvQ0
 * [Q&A: Are each of the items it's own actor or are they mesh instances like HISM?](../../transcriptions/yt-aNBmGx4Q5fw.md) https://www.youtube.com/watch?v=aNBmGx4Q5fw

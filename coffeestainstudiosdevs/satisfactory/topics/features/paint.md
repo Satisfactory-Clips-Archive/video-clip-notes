@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Paint
 
+## February 2nd, 2021 Livestream
+* Q&A: Vehicle Painting? https://www.youtube.com/watch?v=aIproPDd8V0
+
 ## January 26th, 2021 Livestream
 * [Q&A: Any chance on updating level-of-detail for coloured Walls?](../../transcriptions/yt-b7j3iswXHAc.md) https://www.youtube.com/watch?v=b7j3iswXHAc
 

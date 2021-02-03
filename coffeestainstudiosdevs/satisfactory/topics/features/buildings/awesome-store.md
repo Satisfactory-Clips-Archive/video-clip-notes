@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## February 2nd, 2021 Livestream
+* [Q&A: Will we be getting more Walls and other building stuff in vanilla?](../../../transcriptions/yt-Y9m96T9a5qU.md) https://www.youtube.com/watch?v=Y9m96T9a5qU
+
 ## January 19th, 2021 Livestream
 * [Q&A: Will some of the AWESOME Store items be integrated into Tiers of the M.A.M.?](../../../transcriptions/yt-o-rncE3S1wA.md) https://www.youtube.com/watch?v=o-rncE3S1wA
 

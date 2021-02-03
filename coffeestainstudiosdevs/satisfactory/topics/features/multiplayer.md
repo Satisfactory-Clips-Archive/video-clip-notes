@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## February 2nd, 2021 Livestream
+* [Q&A: Multiplayer, how's it going- when came better sync in Multiplayer?](../../transcriptions/yt-bfXUQNNIPRY.md) https://www.youtube.com/watch?v=bfXUQNNIPRY
+* [Q&A: Bug or feature, Zombie Pioneers?](../../transcriptions/yt-P0g4FfDfncE.md) https://www.youtube.com/watch?v=P0g4FfDfncE
+* [Q&A: Improvements on Vehicles next Update?](../../transcriptions/yt-79CHl9qFo90.md) https://www.youtube.com/watch?v=79CHl9qFo90
+
 ## January 26th, 2021 Livestream
 * [Q&A: Dedicated Servers aka Multiplayer fixes when?](../../transcriptions/yt-_XfcfZ8vfj8.md) https://www.youtube.com/watch?v=_XfcfZ8vfj8
 * [Q&A: Are we going to increase the limit of only having 4 players per game?](../../transcriptions/yt-9Fe7lcAQx9I.md) https://www.youtube.com/watch?v=9Fe7lcAQx9I

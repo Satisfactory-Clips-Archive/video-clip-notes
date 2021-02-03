@@ -22,6 +22,7 @@ date: Last Modified
 * [Tim](./topics/coffee-stainers/tim.md)
 
 # [Community](./topics/community.md)
+* [Baine](./topics/community/baine.md)
 * [Josh](./topics/community/josh.md)
 * [Joshie](./topics/community/joshie.md)
 * [Kibitz](./topics/community/kibitz.md)
@@ -95,6 +96,7 @@ date: Last Modified
 ## [Equipment](./topics/features/equipment.md)
 * [Chainsaw](./topics/features/equipment/chainsaw.md)
 * [Jetpack](./topics/features/equipment/jetpack.md)
+* [Zip Lines](./topics/features/equipment/zip-lines.md)
 
 ## [Fluids](./topics/features/fluids.md)
 * [Pipes](./topics/features/fluids/pipes.md)

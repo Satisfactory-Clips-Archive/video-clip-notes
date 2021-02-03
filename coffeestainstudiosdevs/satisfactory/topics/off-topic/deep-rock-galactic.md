@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Deep Rock Galactic
 
+## February 2nd, 2021 Livestream
+* Q&A: Do you have any more plans for Deep Rock Galactic? https://www.youtube.com/watch?v=qJKYIqCKEOc
+
 ## August 25th, 2020 Livestream
 * [Snutt PSA: Nuclear Waste disposal](../../transcriptions/yt-FUMyJYJr88Y.md) https://www.youtube.com/watch?v=FUMyJYJr88Y
 

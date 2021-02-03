@@ -8,6 +8,10 @@ date: Last Modified
 * [Factory Cart](../../../topics/features/transportation/vehicles/factory-cart.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## February 2nd, 2021 Livestream
+* Q&A: Vehicle Painting? https://www.youtube.com/watch?v=aIproPDd8V0
+* [Q&A: Improvements on Vehicles next Update?](../../../transcriptions/yt-79CHl9qFo90.md) https://www.youtube.com/watch?v=79CHl9qFo90
+
 ## January 19th, 2021 Livestream
 * [Q&A: What about Multiplayer Vehicle de-sync?](../../../transcriptions/yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw
 

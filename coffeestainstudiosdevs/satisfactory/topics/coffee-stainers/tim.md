@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Tim
 
+## February 2nd, 2021 Livestream
+* [Q&A: In the next Update will we be able to craft something with Nuclear Waste?](../../transcriptions/yt-tmuvsaAsm-c.md) https://www.youtube.com/watch?v=tmuvsaAsm-c
+
 ## March 24th, 2020 Livestream
 * [Snutt & Jace Talk: We don't plan very well at all](../../transcriptions/yt-uNWZuo9AxdM.md) https://www.youtube.com/watch?v=uNWZuo9AxdM
 

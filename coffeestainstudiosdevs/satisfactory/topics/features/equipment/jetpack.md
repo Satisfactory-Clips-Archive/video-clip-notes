@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## February 2nd, 2021 Livestream
+* [Q&A: Will we get two character slots for Jetpacks and Blade Runners](../../../transcriptions/yt-YKIN_NCGDpo.md) https://www.youtube.com/watch?v=YKIN_NCGDpo
+
 ## January 26th, 2021 Livestream
 * [Q&A: Are we looking at improving the maneuverability of Jetpacks?](../../../transcriptions/yt-VNMPlZTlRGk.md) https://www.youtube.com/watch?v=VNMPlZTlRGk
 

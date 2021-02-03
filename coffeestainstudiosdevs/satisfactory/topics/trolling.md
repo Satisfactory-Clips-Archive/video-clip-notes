@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## February 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Baine is hungover and needs you to talk quieter](../transcriptions/yt-6GcH3WaDcHg.md) https://www.youtube.com/watch?v=6GcH3WaDcHg
+* [Q&A: KFConsole exclusive?](../transcriptions/yt-nK8NUTMQVTM.md) https://www.youtube.com/watch?v=nK8NUTMQVTM
+* [Q&A: Have you sold 10 copies yet?](../transcriptions/yt-q1L297zZiDY.md) https://www.youtube.com/watch?v=q1L297zZiDY
+
 ## January 26th, 2021 Livestream
 * [Q&A: How are the talks with exclusivity on KFConsole?](../transcriptions/yt-hEs8MwzAoig.md) https://www.youtube.com/watch?v=hEs8MwzAoig
 * [Q&A: Were you serious about the drones in the last YouTube video?](../transcriptions/yt-bbAGxhCSN8c.md) https://www.youtube.com/watch?v=bbAGxhCSN8c
@@ -11,6 +16,7 @@ date: Last Modified
 * [Q&A: Battle Royale mode?](../transcriptions/yt-U4t0BJ7mjwc.md) https://www.youtube.com/watch?v=U4t0BJ7mjwc
 * [Q&A: Will you add drones to Satisfactory?](../transcriptions/yt-pdppJAPp4yA.md) https://www.youtube.com/watch?v=pdppJAPp4yA
 * [Snutt & Jace Talk: Everyone call Snutt "senpai" from now on.](../transcriptions/yt-9pr79A-BvHU.md) https://www.youtube.com/watch?v=9pr79A-BvHU
+* [Snutt & Jace Talk: Delete the VOD](../transcriptions/yt-MhIaB4UPEP4.md) https://www.youtube.com/watch?v=MhIaB4UPEP4
 
 ## January 19th, 2021 Livestream
 * [Snutt Talk: Which one is the Assembler again?](../transcriptions/yt-rNeiGrE8ZL0.md) https://www.youtube.com/watch?v=rNeiGrE8ZL0

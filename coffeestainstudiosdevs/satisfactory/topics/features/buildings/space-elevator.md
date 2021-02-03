@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 
+## February 2nd, 2021 Livestream
+* [Q&A: With new Space Elevator parts does this mean that Tier 8 will unlock separately from Tier 7?](../../../transcriptions/yt-1Xgd1ANF9gw.md) https://www.youtube.com/watch?v=1Xgd1ANF9gw
+
 ## January 19th, 2021 Livestream
 * [Q&A: Will we get more uses/shipments for the Space Elevator?](../../../transcriptions/yt-pjoG5bBsTKI.md) https://www.youtube.com/watch?v=pjoG5bBsTKI
 

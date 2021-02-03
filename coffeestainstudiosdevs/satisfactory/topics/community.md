@@ -3,6 +3,7 @@ title: "Community"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Community
+* [Baine](../topics/community/baine.md)
 * [Josh](../topics/community/josh.md)
 * [Joshie](../topics/community/joshie.md)
 * [Kibitz](../topics/community/kibitz.md)
@@ -10,8 +11,12 @@ date: Last Modified
 * [Smerkin](../topics/community/smerkin.md)
 * [Wiki](../topics/community/wiki.md)
 
+## February 2nd, 2021 Livestream
+* [Q&A: Will you do YouTuber statues?](../transcriptions/yt-394eLDR3mFU.md) https://www.youtube.com/watch?v=394eLDR3mFU
+
 ## January 26th, 2021 Livestream
 * [Q&A: How many bugs did you fix of the ones Let's Game It Out discovered?](../transcriptions/yt-OZTQGd4ZZ_E.md) https://www.youtube.com/watch?v=OZTQGd4ZZ_E
+* [Snutt & Jace Talk: Delete the VOD](../transcriptions/yt-MhIaB4UPEP4.md) https://www.youtube.com/watch?v=MhIaB4UPEP4
 
 ## January 19th, 2021 Livestream
 * [Q&A: If the community made a Snow Biome, would you add that?](../transcriptions/yt-I8rWTBGdGio.md) https://www.youtube.com/watch?v=I8rWTBGdGio

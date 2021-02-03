@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Game Modes
 
+## February 2nd, 2021 Livestream
+* [Q&A: Is Creative Mode coming?](../../../transcriptions/yt-aJZ3jTvUHHQ.md) https://www.youtube.com/watch?v=aJZ3jTvUHHQ
+
 ## January 26th, 2021 Livestream
 * [Q&A: Will you guys eventually add survival elements like hunger & thirst?](../../../transcriptions/yt-5QJJqDM03Ww.md) https://www.youtube.com/watch?v=5QJJqDM03Ww
 * [Q&A: Battle Royale mode?](../../../transcriptions/yt-U4t0BJ7mjwc.md) https://www.youtube.com/watch?v=U4t0BJ7mjwc

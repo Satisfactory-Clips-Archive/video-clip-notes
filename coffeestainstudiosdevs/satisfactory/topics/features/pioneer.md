@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## February 2nd, 2021 Livestream
+* [Q&A: Bug or feature, Zombie Pioneers?](../../transcriptions/yt-P0g4FfDfncE.md) https://www.youtube.com/watch?v=P0g4FfDfncE
+
 ## January 19th, 2021 Livestream
 * [Q&A: Why doesn't the Pioneer Helmet integrate a Gas Mask if the atmosphere is unbreathable?](../../transcriptions/yt-2zz08zzXTCU.md) https://www.youtube.com/watch?v=2zz08zzXTCU
 

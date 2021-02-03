@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+## February 2nd, 2021 Livestream
+* [Q&A: Will Satisfactory be coming to Console?](../../../transcriptions/yt-ZljpvyZWlIA.md) https://www.youtube.com/watch?v=ZljpvyZWlIA
+* [Q&A: KFConsole exclusive?](../../../transcriptions/yt-nK8NUTMQVTM.md) https://www.youtube.com/watch?v=nK8NUTMQVTM
+* [Q&A: Will the game ever be on Console?](../../../transcriptions/yt-G_pmJbKEhX4.md) https://www.youtube.com/watch?v=G_pmJbKEhX4
+
 ## January 26th, 2021 Livestream
 * [Q&A: Release date on PS4?](../../../transcriptions/yt-xUdlPZfMgDw.md) https://www.youtube.com/watch?v=xUdlPZfMgDw
 
