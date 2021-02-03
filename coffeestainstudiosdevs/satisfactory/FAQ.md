@@ -22,7 +22,7 @@ date: Last Modified
 
 ## [Simon](./topics/coffee-stainers/simon.md)
 
-### [February 11th, 2020](./2020-02-11.md)
+### [February 11th, 2020 Livestream](./2020-02-11.md)
 * [Q&A: Lizard Doggo plushies?](./transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 # [Community](./topics/community.md)
@@ -299,7 +299,7 @@ date: Last Modified
 * Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
 * Q&A: Doggo Toys? https://clips.twitch.tv/FlirtyScarySushiYouWHY
 
-#### [February 11th, 2020](./2020-02-11.md)
+#### [February 11th, 2020 Livestream](./2020-02-11.md)
 * [Q&A: Lizard Doggo plushies?](./transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
@@ -353,7 +353,7 @@ date: Last Modified
 #### [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Please tell me Update 4 will use S.A.M. Ore https://clips.twitch.tv/ArtisticGlutenFreeSpindleDxAbomb
 
-#### [February 11th, 2020](./2020-02-11.md)
+#### [February 11th, 2020 Livestream](./2020-02-11.md)
 * [Q&A: S.A.M. Ore?](./transcriptions/yt-6r-s6Hk7QwY.md) https://www.youtube.com/watch?v=6r-s6Hk7QwY
 
 #### [December 19th, 2019 Livestream](./2019-12-19.md)
@@ -799,7 +799,7 @@ date: Last Modified
 #### [June 8th, 2020 Livestream](./2020-06-08.md)
 * [Q&A: Dedicated Servers?](./transcriptions/yt-XuFfkTTZnoA.md) https://www.youtube.com/watch?v=XuFfkTTZnoA
 
-#### [February 11th, 2020](./2020-02-11.md)
+#### [February 11th, 2020 Livestream](./2020-02-11.md)
 * [Q&A: Any news on Dedicated Servers?](./transcriptions/yt-pUhzc1Fd8sg.md) https://www.youtube.com/watch?v=pUhzc1Fd8sg
 
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
@@ -897,7 +897,7 @@ date: Last Modified
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
 * [Q&A: Satisfactory on the next Console generation?](./transcriptions/yt-9bez-QIVKLA.md) https://www.youtube.com/watch?v=9bez-QIVKLA
 
-#### [February 11th, 2020](./2020-02-11.md)
+#### [February 11th, 2020 Livestream](./2020-02-11.md)
 * [Q&A: Is Satisfactory going to be on PS5/PS6?](./transcriptions/yt-1v4Mho5Uh9I.md) https://www.youtube.com/watch?v=1v4Mho5Uh9I
 
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
@@ -1426,7 +1426,7 @@ date: Last Modified
 ## [November 24th, 2020 Livestream](./2020-11-24.md)
 * [Q&A: What other languages are going to be added?](./transcriptions/yt-xpzqQntBUgw.md) https://www.youtube.com/watch?v=xpzqQntBUgw
 
-## [February 11th, 2020](./2020-02-11.md)
+## [February 11th, 2020 Livestream](./2020-02-11.md)
 * [Q&A: How does one help with localisation?](./transcriptions/yt-uLblaRDOX4Y.md) https://www.youtube.com/watch?v=uLblaRDOX4Y
 
 ## [January 22nd, 2020 Livestream](./2020-01-22.md)
@@ -1511,7 +1511,7 @@ date: Last Modified
 ## [July 28th, 2020 Livestream](./2020-07-28.md)
 * Q&A: Coffee Mug? https://clips.twitch.tv/SpunkyHyperWasabi4Head
 
-## [February 11th, 2020](./2020-02-11.md)
+## [February 11th, 2020 Livestream](./2020-02-11.md)
 * [Q&A: Lizard Doggo plushies?](./transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 ## [March 9th, 2019 Livestream](./2019-03-09.md)
@@ -1657,7 +1657,7 @@ date: Last Modified
 * [Q&A: Plans for official Linux support?](./transcriptions/yt-vSFTo-1j-SA.md) https://www.youtube.com/watch?v=vSFTo-1j-SA
 * Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp
 
-### [February 11th, 2020](./2020-02-11.md)
+### [February 11th, 2020 Livestream](./2020-02-11.md)
 * [Q&A: How long will it be on Experimental?](./transcriptions/yt-SiKHL4mgM40.md) https://www.youtube.com/watch?v=SiKHL4mgM40
 
 ### [January 22nd, 2020 Livestream](./2020-01-22.md)
@@ -1867,7 +1867,7 @@ date: Last Modified
 
 ### [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
 
-#### [February 11th, 2020](./2020-02-11.md)
+#### [February 11th, 2020 Livestream](./2020-02-11.md)
 * [Q&A: Should/Can we start a new save?](./transcriptions/yt-wKvUpRb-FHw.md) https://www.youtube.com/watch?v=wKvUpRb-FHw
 * [Q&A: How long will it be on Experimental?](./transcriptions/yt-SiKHL4mgM40.md) https://www.youtube.com/watch?v=SiKHL4mgM40
 * [Q&A: Anything narrative?](./transcriptions/yt-1mZyPuZXLE4.md) https://www.youtube.com/watch?v=1mZyPuZXLE4
@@ -1996,7 +1996,7 @@ date: Last Modified
 ## [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode? https://clips.twitch.tv/VastAlertBadgerTF2John
 
-## [February 11th, 2020](./2020-02-11.md)
+## [February 11th, 2020 Livestream](./2020-02-11.md)
 * [Q&A: Anything narrative?](./transcriptions/yt-1mZyPuZXLE4.md) https://www.youtube.com/watch?v=1mZyPuZXLE4
 
 ## [January 22nd, 2020 Livestream](./2020-01-22.md)
