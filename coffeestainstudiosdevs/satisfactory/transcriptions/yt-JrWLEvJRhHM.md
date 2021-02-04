@@ -3,15 +3,15 @@ title: "October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 3)"
 date: "2020-10-09"
 layout: transcript
 topics:
-    - "custom-component-instanced-spline-mesh"
     - "technology"
+    - "technology/unreal-engine/custom-component-instanced-spline-mesh"
 ---
 # [October 9th, 2020 Livestream](../2020-10-09.md)
 ## Dylan Talk: Instanced Splines (Part 3)
 https://www.youtube.com/watch?v=JrWLEvJRhHM
 
 ### Topics
-* [Custom Component: Instanced Spline Mesh](../topics/custom-component-instanced-spline-mesh.md)
+* [Technology > Unreal Engine > Custom Component: Instanced Spline Mesh](../topics/technology/unreal-engine/custom-component-instanced-spline-mesh.md)
 * [Technology](../topics/technology.md)
 
 ### Transcript

@@ -29,7 +29,6 @@ date: Last Modified
 * [Panakotta](./topics/community/panakotta.md)
 * [Smerkin](./topics/community/smerkin.md)
 * [Wiki](./topics/community/wiki.md)
-* [Custom Component: Instanced Spline Mesh](./topics/custom-component-instanced-spline-mesh.md)
 
 # [Environment](./topics/environment.md)
 * [Plants](./topics/environment/plants.md)
@@ -232,6 +231,8 @@ date: Last Modified
 * [Graphics](./topics/technology/graphics.md)
 * [Linux](./topics/technology/linux.md)
 * [Physics](./topics/technology/physics.md)
-* [Unreal Engine](./topics/technology/unreal-engine.md)
 * [User Interface](./topics/technology/user-interface.md)
+
+## [Unreal Engine](./topics/technology/unreal-engine.md)
+* [Custom Component: Instanced Spline Mesh](./topics/technology/unreal-engine/custom-component-instanced-spline-mesh.md)
 * [Trolling](./topics/trolling.md)
