@@ -14,6 +14,9 @@ date: Last Modified
 * [Q&A: Any chance of Simon becoming 3rd Community Manager?](../../transcriptions/yt-ycNS0lA5JWc.md) https://www.youtube.com/watch?v=ycNS0lA5JWc
 * [Q&A: Simon is dead, did he run out of Alpha Keys?](../../transcriptions/yt-dj20zgoTvA0.md) https://www.youtube.com/watch?v=dj20zgoTvA0
 
+## October 9th, 2020 Livestream
+* [Q&A: How can you concentrate with that hot piece of Simon walking around the office?](../../transcriptions/yt-VkIGrj60KtI.md) https://www.youtube.com/watch?v=VkIGrj60KtI
+
 ## March 24th, 2020 Livestream
 * Q&A: When are the Wind Turbines that Jace leaked coming? https://www.youtube.com/watch?v=nRMTYlLqiSc
 

@@ -29,6 +29,7 @@ date: Last Modified
 * [Panakotta](./topics/community/panakotta.md)
 * [Smerkin](./topics/community/smerkin.md)
 * [Wiki](./topics/community/wiki.md)
+* [Custom Component: Instanced Spline Mesh](./topics/custom-component-instanced-spline-mesh.md)
 
 # [Environment](./topics/environment.md)
 * [Plants](./topics/environment/plants.md)
@@ -55,7 +56,6 @@ date: Last Modified
 * [Steel](./topics/environment/resources/steel.md)
 
 # Features
-* [Autosave](./topics/features/autosave.md)
 * [Emotes](./topics/features/emotes.md)
 * [Gases](./topics/features/gases.md)
 * [Paint](./topics/features/paint.md)
@@ -128,6 +128,10 @@ date: Last Modified
 ### [Nuclear Energy](./topics/features/power-management/nuclear-energy.md)
 * [Nuclear Waste](./topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## [Save System](./topics/features/save-system.md)
+* [Autosave](./topics/features/save-system/autosave.md)
+* [Cloud Sync](./topics/features/save-system/cloud-sync.md)
+
 ## [Tiers](./topics/features/tiers.md)
 * [Tier 0](./topics/features/tiers/tier-0.md)
 * [Tier 1](./topics/features/tiers/tier-1.md)
@@ -148,9 +152,11 @@ date: Last Modified
 * [Train Signals](./topics/features/transportation/trains/train-signals.md)
 
 ### [Vehicles](./topics/features/transportation/vehicles.md)
+* [Autopilot](./topics/features/transportation/vehicles/autopilot.md)
 * [Cyber Wagon](./topics/features/transportation/vehicles/cyber-wagon.md)
 * [Explorer](./topics/features/transportation/vehicles/explorer.md)
 * [Factory Cart](./topics/features/transportation/vehicles/factory-cart.md)
+* [Tractor](./topics/features/transportation/vehicles/tractor.md)
 * [Truck](./topics/features/transportation/vehicles/truck.md)
 
 ## Unplanned Features
@@ -224,6 +230,7 @@ date: Last Modified
 
 # [Technology](./topics/technology.md)
 * [Graphics](./topics/technology/graphics.md)
+* [Linux](./topics/technology/linux.md)
 * [Physics](./topics/technology/physics.md)
 * [Unreal Engine](./topics/technology/unreal-engine.md)
 * [User Interface](./topics/technology/user-interface.md)

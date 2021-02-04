@@ -3,14 +3,14 @@ title: "August 25th, 2020 Livestream Snutt Talk: If you think Autosave is annoyi
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "features/autosave"
+    - "features/save-system/autosave"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Snutt Talk: If you think Autosave is annoying
 https://www.youtube.com/watch?v=21diy9LWH8g
 
 ### Topics
-* [Features > Autosave](../topics/features/autosave.md)
+* [Features > Save System > Autosave](../topics/features/save-system/autosave.md)
 
 ### Transcript
 

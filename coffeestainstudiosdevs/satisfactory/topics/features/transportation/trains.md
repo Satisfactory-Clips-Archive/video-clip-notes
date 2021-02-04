@@ -35,6 +35,11 @@ date: Last Modified
 ## October 20th, 2020 Livestream
 * [Q&A: The Trains lag a lot on Multiplayer?](../../../transcriptions/yt-AxQoNckHBhI.md) https://www.youtube.com/watch?v=AxQoNckHBhI
 
+## October 9th, 2020 Livestream
+* [Snutt & Dylan Talk: Development priorities](../../../transcriptions/yt-iap-q8Jggq8.md) https://www.youtube.com/watch?v=iap-q8Jggq8
+* [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../../../transcriptions/yt-Ri4BTkabEaE.md) https://www.youtube.com/watch?v=Ri4BTkabEaE
+* [Q&A: What is the limit?](../../../transcriptions/yt-Njv_PJT3B2g.md) https://www.youtube.com/watch?v=Njv_PJT3B2g
+
 ## October 6th, 2020 Livestream
 * [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](../../../transcriptions/yt-RVq5k89jlEA.md) https://www.youtube.com/watch?v=RVq5k89jlEA
 * [Q&A: Will the Resource Transportation get an update?](../../../transcriptions/yt-hKxm2Ps1UYY.md) https://www.youtube.com/watch?v=hKxm2Ps1UYY

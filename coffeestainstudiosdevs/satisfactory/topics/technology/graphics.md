@@ -67,6 +67,13 @@ date: Last Modified
 ## October 13th, 2020 Livestream
 * [Q&A: Will one of the Quality of Life Updates be turning down the fog?](../../transcriptions/yt-2AMBinmPITg.md) https://www.youtube.com/watch?v=2AMBinmPITg
 
+## October 9th, 2020 Livestream
+* [Q&A: Have Coffee Stain considered contributing the instanced spline mesh back to Unreal Engine?](../../transcriptions/yt-ny4PdCAnT9Q.md) https://www.youtube.com/watch?v=ny4PdCAnT9Q
+* [Snutt & Dylan Talk: Developing Shaders](../../transcriptions/yt-m5fQMCWE1MY.md) https://www.youtube.com/watch?v=m5fQMCWE1MY
+* [Q&A: Could we get Ray Tracing?](../../transcriptions/yt-tsUgV4Irw9I.md) https://www.youtube.com/watch?v=tsUgV4Irw9I
+* [Snutt & Dylan Talk: Development priorities](../../transcriptions/yt-iap-q8Jggq8.md) https://www.youtube.com/watch?v=iap-q8Jggq8
+* [Q&A: What is the limit?](../../transcriptions/yt-Njv_PJT3B2g.md) https://www.youtube.com/watch?v=Njv_PJT3B2g
+
 ## September 29th, 2020 Livestream
 * [Q&A: What about Mk. 6 Belts?](../../transcriptions/yt-NiBLAUCxIEs.md) https://www.youtube.com/watch?v=NiBLAUCxIEs
 * [Q&A: Enclosed Belts](../../transcriptions/yt-oLpv9B5-OjE.md) https://www.youtube.com/watch?v=oLpv9B5-OjE

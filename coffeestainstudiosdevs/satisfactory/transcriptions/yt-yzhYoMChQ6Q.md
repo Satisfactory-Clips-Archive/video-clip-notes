@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: I've activated autopilot but it doesn't 
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "features/transportation/vehicles"
+    - "features/transportation/vehicles/autopilot"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: I've activated autopilot but it doesn't run?
 https://www.youtube.com/watch?v=yzhYoMChQ6Q
 
 ### Topics
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Vehicles > Autopilot](../topics/features/transportation/vehicles/autopilot.md)
 
 ### Transcript
 

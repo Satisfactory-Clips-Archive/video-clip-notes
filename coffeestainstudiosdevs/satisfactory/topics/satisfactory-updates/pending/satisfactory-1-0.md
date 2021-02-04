@@ -43,6 +43,9 @@ date: Last Modified
 ## October 13th, 2020 Livestream
 * [Q&A: Will Jeff Goldblum narrate 1.0?](../../../transcriptions/yt-ojWHhAieF2w.md) https://www.youtube.com/watch?v=ojWHhAieF2w
 
+## October 9th, 2020 Livestream
+* [Snutt Talk: The future of Satisfactory?](../../../transcriptions/yt-BMIKnDVoS9Q.md) https://www.youtube.com/watch?v=BMIKnDVoS9Q
+
 ## October 6th, 2020 Livestream
 * [Q&A: When are these Work In Progress (WIP) items going to be used?](../../../transcriptions/yt-bmRdzV3-wJI.md) https://www.youtube.com/watch?v=bmRdzV3-wJI
 

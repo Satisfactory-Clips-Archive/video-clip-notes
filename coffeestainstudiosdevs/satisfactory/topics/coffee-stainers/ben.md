@@ -9,3 +9,8 @@ date: Last Modified
 
 ## November 10th, 2020 Livestream
 * [Jace Talk: Ben is awesome](../../transcriptions/yt-jSEd3fDu6KE.md) https://www.youtube.com/watch?v=jSEd3fDu6KE
+
+## October 9th, 2020 Livestream
+* [Q&A: Have Coffee Stain considered contributing the instanced spline mesh back to Unreal Engine?](../../transcriptions/yt-ny4PdCAnT9Q.md) https://www.youtube.com/watch?v=ny4PdCAnT9Q
+* [Q&A: Unit Tests FTW?](../../transcriptions/yt-8MbgpOLyXyY.md) https://www.youtube.com/watch?v=8MbgpOLyXyY
+* [Q&A: What do you use to test performance gains?](../../transcriptions/yt-YPWIkvRbeHI.md) https://www.youtube.com/watch?v=YPWIkvRbeHI

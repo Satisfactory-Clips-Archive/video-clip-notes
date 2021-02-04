@@ -28,6 +28,7 @@ layout: index
 
 # October 2020
 * [October 6th, 2020](2020-10-06.md)
+* [October 9th, 2020](2020-10-09.md)
 * [October 13th, 2020](2020-10-13.md)
 * [October 20th, 2020](2020-10-20.md)
 * [October 27th, 2020](2020-10-27.md)

@@ -41,6 +41,10 @@ date: Last Modified
 * [Q&A: What are the advantages of packaging?](../../transcriptions/yt-mnskivwMmjw.md) https://www.youtube.com/watch?v=mnskivwMmjw
 * [Q&A: Can we get bigger pipes?](../../transcriptions/yt-ks-PiSAas44.md) https://www.youtube.com/watch?v=ks-PiSAas44
 
+## October 9th, 2020 Livestream
+* [Dylan Talk: Other things we've been working on](../../transcriptions/yt-WRtv2WEia3Q.md) https://www.youtube.com/watch?v=WRtv2WEia3Q
+* [Q&A: How are the Fluids calculated in the Pipe?](../../transcriptions/yt-nI5VJXbiGJw.md) https://www.youtube.com/watch?v=nI5VJXbiGJw
+
 ## October 6th, 2020 Livestream
 * [Q&A: Can we get an open end to Pipes like dumping waste water?](../../transcriptions/yt-fcr1iDu4Fvg.md) https://www.youtube.com/watch?v=fcr1iDu4Fvg
 * [Q&A: What do you think about adding some kind of Tanker Truck?](../../transcriptions/yt-JCBQj8Ern20.md) https://www.youtube.com/watch?v=JCBQj8Ern20

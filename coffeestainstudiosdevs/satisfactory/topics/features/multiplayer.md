@@ -66,6 +66,11 @@ date: Last Modified
 * [Q&A: Can we get different spawn points not linked to the Hub?](../../transcriptions/yt-DExdQ8KOKEA.md) https://www.youtube.com/watch?v=DExdQ8KOKEA
 * [Q&A: The Trains lag a lot on Multiplayer?](../../transcriptions/yt-AxQoNckHBhI.md) https://www.youtube.com/watch?v=AxQoNckHBhI
 
+## October 9th, 2020 Livestream
+* [Snutt & Dylan Talk: Crash reporting](../../transcriptions/yt-1QDj7pJa9DQ.md) https://www.youtube.com/watch?v=1QDj7pJa9DQ
+* [Dylan Talk: Working on the Replication Graph](../../transcriptions/yt-0THShqltbYM.md) https://www.youtube.com/watch?v=0THShqltbYM
+* [Dylan Talk: Buffer Overflow bugs](../../transcriptions/yt-t6Gd_T5Tea4.md) https://www.youtube.com/watch?v=t6Gd_T5Tea4
+
 ## October 6th, 2020 Livestream
 * [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](../../transcriptions/yt-RVq5k89jlEA.md) https://www.youtube.com/watch?v=RVq5k89jlEA
 * [Q&A: Co-op networking bugs been fixed?](../../transcriptions/yt-60kjGquJZnk.md) https://www.youtube.com/watch?v=60kjGquJZnk

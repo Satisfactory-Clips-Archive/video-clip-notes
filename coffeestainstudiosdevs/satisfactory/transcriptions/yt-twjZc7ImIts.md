@@ -4,6 +4,7 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "satisfactory-updates/release-builds"
+    - "technology/linux"
     - "technology/unreal-engine"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=twjZc7ImIts
 
 ### Topics
+* [Technology > Linux](../topics/technology/linux.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 

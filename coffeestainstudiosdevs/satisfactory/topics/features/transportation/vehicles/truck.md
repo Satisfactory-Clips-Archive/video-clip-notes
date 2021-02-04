@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## October 9th, 2020 Livestream
+* [Community FYI: Game struggles with 10 Tractors, 14 Trucks, 1 Explorer, and 83 Factory Carts](../../../../transcriptions/yt-T_Vldyf9rBI.md) https://www.youtube.com/watch?v=T_Vldyf9rBI
+
 ## October 6th, 2020 Livestream
 * [Q&A: What do you think about adding some kind of Tanker Truck?](../../../../transcriptions/yt-JCBQj8Ern20.md) https://www.youtube.com/watch?v=JCBQj8Ern20
 

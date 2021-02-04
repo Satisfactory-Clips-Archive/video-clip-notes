@@ -4,7 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "environment/plants"
-    - "features/autosave"
+    - "features/save-system"
     - "technology/graphics"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=GgoQS6sOADQ
 
 ### Topics
-* [Features > Autosave](../topics/features/autosave.md)
+* [Features > Save System](../topics/features/save-system.md)
 * [Environment > Plants](../topics/environment/plants.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 

@@ -3,7 +3,7 @@ title: "January 26th, 2021 Livestream Q&A: Had a save game from Early Access, sp
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "features/autosave"
+    - "features/save-system"
     - "satisfactory-updates/release-builds"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=b586YMEHeRk
 
 ### Topics
-* [Features > Autosave](../topics/features/autosave.md)
+* [Features > Save System](../topics/features/save-system.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript

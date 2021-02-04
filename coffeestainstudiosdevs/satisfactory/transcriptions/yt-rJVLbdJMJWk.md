@@ -3,6 +3,8 @@ title: "September 1st, 2020 Livestream Q&A: Will Update 4 be like Update 3, will
 date: "2020-09-01"
 layout: transcript
 topics:
+    - "features/save-system"
+    - "features/save-system/cloud-sync"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
@@ -10,6 +12,8 @@ topics:
 https://www.youtube.com/watch?v=rJVLbdJMJWk
 
 ### Topics
+* [Features > Save System > Cloud Sync](../topics/features/save-system/cloud-sync.md)
+* [Features > Save System](../topics/features/save-system.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

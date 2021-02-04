@@ -4,12 +4,14 @@ date: "2020-11-03"
 layout: transcript
 topics:
     - "features/planned-features/dedicated-servers"
+    - "technology/linux"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will Dedicated Servers run under Linux?
 https://www.youtube.com/watch?v=v5Niam8EYts
 
 ### Topics
+* [Technology > Linux](../topics/technology/linux.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 
 ### Transcript

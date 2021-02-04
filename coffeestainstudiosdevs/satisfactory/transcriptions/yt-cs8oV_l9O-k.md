@@ -3,6 +3,7 @@ title: "November 10th, 2020 Livestream Q&A: Can I switch between Experimental & 
 date: "2020-11-10"
 layout: transcript
 topics:
+    - "features/save-system/cloud-sync"
     - "satisfactory-updates/release-builds"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=cs8oV_l9O-k
 
 ### Topics
+* [Features > Save System > Cloud Sync](../topics/features/save-system/cloud-sync.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript

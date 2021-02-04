@@ -4,12 +4,14 @@ date: "2021-01-26"
 layout: transcript
 topics:
     - "satisfactory-updates/release-builds"
+    - "technology/linux"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Did you know Satisfactory Experimental is running well on Linux Mint?
 https://www.youtube.com/watch?v=3d5h-Okw-uU
 
 ### Topics
+* [Technology > Linux](../topics/technology/linux.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript

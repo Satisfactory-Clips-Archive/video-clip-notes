@@ -4,12 +4,14 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "features/planned-features/dedicated-servers"
+    - "technology/linux"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will Dedicated Servers be available on Linux, or Windows?
 https://www.youtube.com/watch?v=4f7KWwnXhoU
 
 ### Topics
+* [Technology > Linux](../topics/technology/linux.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 
 ### Transcript

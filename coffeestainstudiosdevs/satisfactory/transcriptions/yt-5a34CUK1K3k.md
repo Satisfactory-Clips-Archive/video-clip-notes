@@ -5,12 +5,14 @@ layout: transcript
 topics:
     - "features/planned-features/dedicated-servers"
     - "satisfactory-updates/release-builds"
+    - "technology/linux"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Linux support for Dedicated Servers?
 https://www.youtube.com/watch?v=5a34CUK1K3k
 
 ### Topics
+* [Technology > Linux](../topics/technology/linux.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 

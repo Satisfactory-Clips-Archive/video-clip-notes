@@ -13,6 +13,9 @@ date: Last Modified
 ## October 13th, 2020 Livestream
 * [Q&A: Is it possible to use the add to-do list without visiting the crafting bench?](../../transcriptions/yt-ValaMW93Q7g.md) https://www.youtube.com/watch?v=ValaMW93Q7g
 
+## October 9th, 2020 Livestream
+* [Q&A: Toggle for the Build animation?](../../transcriptions/yt-sEw2W8SbmaQ.md) https://www.youtube.com/watch?v=sEw2W8SbmaQ
+
 ## September 29th, 2020 Livestream
 * [Q&A: Add a Tape Measure or something to gauge distance between two objects?](../../transcriptions/yt--hFvijwVlSQ.md) https://www.youtube.com/watch?v=-hFvijwVlSQ
 * [Q&A: When are we getting a Production Overview in the game?](../../transcriptions/yt-OnK4DcHAB4o.md) https://www.youtube.com/watch?v=OnK4DcHAB4o

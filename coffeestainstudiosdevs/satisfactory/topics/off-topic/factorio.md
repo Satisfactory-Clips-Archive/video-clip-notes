@@ -17,6 +17,9 @@ date: Last Modified
 ## October 20th, 2020 Livestream
 * [Q&A: Five years? What is this- an Early Access Logistics game?](../../transcriptions/yt-spm2R0VhMV8.md) https://www.youtube.com/watch?v=spm2R0VhMV8
 
+## October 9th, 2020 Livestream
+* [Q&A: How are the Fluids calculated in the Pipe?](../../transcriptions/yt-nI5VJXbiGJw.md) https://www.youtube.com/watch?v=nI5VJXbiGJw
+
 ## September 29th, 2020 Livestream
 * [Q&A: I forgot the game even had Mod capability](../../transcriptions/yt-HEqq1dnxrg4.md) https://www.youtube.com/watch?v=HEqq1dnxrg4
 

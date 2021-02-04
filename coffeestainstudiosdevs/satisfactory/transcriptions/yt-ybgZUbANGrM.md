@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: Weirdest bug you guys fixed"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "features/transportation/vehicles"
+    - "features/transportation/vehicles/tractor"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Weirdest bug you guys fixed
 https://www.youtube.com/watch?v=ybgZUbANGrM
 
 ### Topics
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Vehicles > Tractor](../topics/features/transportation/vehicles/tractor.md)
 
 ### Transcript
 

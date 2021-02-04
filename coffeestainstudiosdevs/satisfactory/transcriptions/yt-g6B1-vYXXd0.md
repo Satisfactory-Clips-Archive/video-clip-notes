@@ -1,0 +1,48 @@
+---
+title: "October 9th, 2020 Livestream Q&A: Do you use emacs or vim?"
+date: "2020-10-09"
+layout: transcript
+topics:
+    - "coffee-stainers/dylan"
+    - "technology/linux"
+    - "technology/unreal-engine"
+---
+# [October 9th, 2020 Livestream](../2020-10-09.md)
+## Q&A: Do you use emacs or vim?
+https://www.youtube.com/watch?v=g6B1-vYXXd0
+
+### Topics
+* [Technology > Linux](../topics/technology/linux.md)
+* [Coffee Stainers > Dylan](../topics/coffee-stainers/dylan.md)
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+
+### Transcript
+
+> we have secret sturdy secrets people are
+> 
+> asking if you're using amex or vim
+> 
+> um so i use vim pretty much exclusively
+> 
+> um
+> 
+> enough of this though right not for this
+> 
+> no i uh
+> 
+> okay i haven't used them in forever if
+> 
+> i'm being perfectly honest
+> 
+> i don't know if you guys know the unreal
+> 
+> support for linux is not exactly top
+> 
+> tier
+> 
+> so that's you know i wonder if there's
+> 
+> anyone who actually does develop
+> 
+> there's always somebody that hardcore
+> 

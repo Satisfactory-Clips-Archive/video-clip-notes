@@ -36,6 +36,10 @@ date: Last Modified
 ## December 15th, 2020 Livestream
 * [Q&A: Do you guys crunch or do you actually care about stuff like health?](../transcriptions/yt-Ev8CEXznWsE.md) https://www.youtube.com/watch?v=Ev8CEXznWsE
 
+## October 9th, 2020 Livestream
+* [Dylan & Snutt Talk: Visual Studio vs. Rider](../transcriptions/yt-hc2OfgQZCvA.md) https://www.youtube.com/watch?v=hc2OfgQZCvA
+* [Snutt & Dylan Talk: Crash reporting](../transcriptions/yt-1QDj7pJa9DQ.md) https://www.youtube.com/watch?v=1QDj7pJa9DQ
+
 ## August 25th, 2020 Livestream
 * [Q&A: Train Signals?](../transcriptions/yt-WQH5cWS3s2s.md) https://www.youtube.com/watch?v=WQH5cWS3s2s
 * [Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors?](../transcriptions/yt-My4e5HOzxLc.md) https://www.youtube.com/watch?v=My4e5HOzxLc

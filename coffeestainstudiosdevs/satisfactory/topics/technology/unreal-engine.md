@@ -72,6 +72,32 @@ date: Last Modified
 ## October 13th, 2020 Livestream
 * [Q&A: Will you switch to using Unreal Engine 5?](../../transcriptions/yt-9r6ROgTQ_n4.md) https://www.youtube.com/watch?v=9r6ROgTQ_n4
 
+## October 9th, 2020 Livestream
+* [Dylan Talk: We have secrets, dirty secrets](../../transcriptions/yt-KLTPTV3T-JE.md) https://www.youtube.com/watch?v=KLTPTV3T-JE
+* [Q&A: Do you use emacs or vim?](../../transcriptions/yt-g6B1-vYXXd0.md) https://www.youtube.com/watch?v=g6B1-vYXXd0
+* [Dylan Talk: Cheat Buildings](../../transcriptions/yt-zThi_BgpiIA.md) https://www.youtube.com/watch?v=zThi_BgpiIA
+* [Dylan Talk: Instanced Splines (Part 1)](../../transcriptions/yt-c6Qy5jzXmqM.md) https://www.youtube.com/watch?v=c6Qy5jzXmqM
+* [Dylan Talk: Instanced Splines (Part 2)](../../transcriptions/yt-NM5eNwiCX0c.md) https://www.youtube.com/watch?v=NM5eNwiCX0c
+* [Dylan & Snutt Talk: Visual Studio vs. Rider](../../transcriptions/yt-hc2OfgQZCvA.md) https://www.youtube.com/watch?v=hc2OfgQZCvA
+* [Dylan Talk: Instanced Splines (Part 2)](../../transcriptions/yt-cZgVZMk4zvM.md) https://www.youtube.com/watch?v=cZgVZMk4zvM
+* [Q&A: How long does it take to do a full recompile on an average desktop?](../../transcriptions/yt-iNkLYa8R_eQ.md) https://www.youtube.com/watch?v=iNkLYa8R_eQ
+* [Snutt Talk: Customising Unreal Engine for Satisfactory](../../transcriptions/yt-lDtaZpq1K1A.md) https://www.youtube.com/watch?v=lDtaZpq1K1A
+* [Dylan Talk: Instanced Splines (Part 4)](../../transcriptions/yt-oyHCEA2k1PM.md) https://www.youtube.com/watch?v=oyHCEA2k1PM
+* [Dylan Talk: Instanced Splines (Part 7)](../../transcriptions/yt-pj50SOLT17Q.md) https://www.youtube.com/watch?v=pj50SOLT17Q
+* [Q&A: Have Coffee Stain considered contributing the instanced spline mesh back to Unreal Engine?](../../transcriptions/yt-ny4PdCAnT9Q.md) https://www.youtube.com/watch?v=ny4PdCAnT9Q
+* [Q&A: What Unreal Engine version are you upgrading between?](../../transcriptions/yt-PS73jBKTEtQ.md) https://www.youtube.com/watch?v=PS73jBKTEtQ
+* [Snutt & Dylan Talk: Crash reporting](../../transcriptions/yt-1QDj7pJa9DQ.md) https://www.youtube.com/watch?v=1QDj7pJa9DQ
+* [Snutt & Dylan Talk: Unreal vs. Unity](../../transcriptions/yt-HkVgKAkAMN8.md) https://www.youtube.com/watch?v=HkVgKAkAMN8
+* [Snutt & Dylan Talk: Developing Shaders](../../transcriptions/yt-m5fQMCWE1MY.md) https://www.youtube.com/watch?v=m5fQMCWE1MY
+* [Snutt & Dylan Talk: Graphics vs. Architectural programming](../../transcriptions/yt-LwQb17QlBbg.md) https://www.youtube.com/watch?v=LwQb17QlBbg
+* [Snutt & Dylan Talk: Shader Compiling](../../transcriptions/yt-aBPAMsZ1Vz8.md) https://www.youtube.com/watch?v=aBPAMsZ1Vz8
+* [Dylan Talk: Instanced Splines (Part 11)](../../transcriptions/yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
+* [Q&A: What's the reason for updating the engine?](../../transcriptions/yt-FsiVRfgi3Gs.md) https://www.youtube.com/watch?v=FsiVRfgi3Gs
+* [Dylan Talk: Working on the Replication Graph](../../transcriptions/yt-0THShqltbYM.md) https://www.youtube.com/watch?v=0THShqltbYM
+* [Q&A: What is the limit?](../../transcriptions/yt-Njv_PJT3B2g.md) https://www.youtube.com/watch?v=Njv_PJT3B2g
+* [Dylan Talk: Buffer Overflow bugs](../../transcriptions/yt-t6Gd_T5Tea4.md) https://www.youtube.com/watch?v=t6Gd_T5Tea4
+* [Q&A: Why can't you jump from 4.22 to 4.25?](../../transcriptions/yt-FX5UGaLcF0Y.md) https://www.youtube.com/watch?v=FX5UGaLcF0Y
+
 ## October 6th, 2020 Livestream
 * [Q&A: Why is everybody updating Engine?](../../transcriptions/yt-oEwOqm1xAkE.md) https://www.youtube.com/watch?v=oEwOqm1xAkE
 * [Q&A: What is the object limit and why is it that number?](../../transcriptions/yt-VpCuu0aYFw0.md) https://www.youtube.com/watch?v=VpCuu0aYFw0

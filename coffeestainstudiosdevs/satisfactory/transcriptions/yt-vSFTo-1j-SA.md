@@ -4,12 +4,14 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "satisfactory-updates/release-builds"
+    - "technology/linux"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Plans for official Linux support?
 https://www.youtube.com/watch?v=vSFTo-1j-SA
 
 ### Topics
+* [Technology > Linux](../topics/technology/linux.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript

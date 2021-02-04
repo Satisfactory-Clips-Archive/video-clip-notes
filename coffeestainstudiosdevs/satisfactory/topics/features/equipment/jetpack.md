@@ -10,6 +10,9 @@ date: Last Modified
 ## January 26th, 2021 Livestream
 * [Q&A: Are we looking at improving the maneuverability of Jetpacks?](../../../transcriptions/yt-VNMPlZTlRGk.md) https://www.youtube.com/watch?v=VNMPlZTlRGk
 
+## January 19th, 2021 Livestream
+* [Q&A: Jace mentioned Nitric Acid, will Nitrous Oxide be used for Tractors or Rocket Fuel?](../../../transcriptions/yt-wEzD5wugI4Y.md) https://www.youtube.com/watch?v=wEzD5wugI4Y
+
 ## January 12th, 2021 Livestream
 * [Snutt Talk: Turbofuel in Jetpacks](../../../transcriptions/yt-xY2wDhyE7ZE.md) https://www.youtube.com/watch?v=xY2wDhyE7ZE
 

@@ -53,6 +53,12 @@ date: Last Modified
 * [Q&A: How about that device used to measure stuff on Conveyor Belts?](../../../transcriptions/yt-7KXTz-m8424.md) https://www.youtube.com/watch?v=7KXTz-m8424
 * [Q&A: Will there be Priority Mergers for this Update?](../../../transcriptions/yt-sMidcvjGGOM.md) https://www.youtube.com/watch?v=sMidcvjGGOM
 
+## October 9th, 2020 Livestream
+* [Dylan Talk: Instanced Splines (Part 10)](../../../transcriptions/yt-0VtsjQsFzZU.md) https://www.youtube.com/watch?v=0VtsjQsFzZU
+* [Dylan Talk: Instanced Splines (Part 11)](../../../transcriptions/yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
+* [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../../../transcriptions/yt-Ri4BTkabEaE.md) https://www.youtube.com/watch?v=Ri4BTkabEaE
+* [Dylan Talk: Working on the Replication Graph](../../../transcriptions/yt-0THShqltbYM.md) https://www.youtube.com/watch?v=0THShqltbYM
+
 ## August 25th, 2020 Livestream
 * [Q&A: What about holes for Foundations?](../../../transcriptions/yt-fufH5ltdn7E.md) https://www.youtube.com/watch?v=fufH5ltdn7E
 * [Q&A: Can players have custom programmers ?](../../../transcriptions/yt-0mvgvUhbUuI.md) https://www.youtube.com/watch?v=0mvgvUhbUuI

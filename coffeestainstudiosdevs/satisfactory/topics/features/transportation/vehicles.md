@@ -3,9 +3,11 @@ title: "Vehicles"
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Transportation > Vehicles
+* [Autopilot](../../../topics/features/transportation/vehicles/autopilot.md)
 * [Cyber Wagon](../../../topics/features/transportation/vehicles/cyber-wagon.md)
 * [Explorer](../../../topics/features/transportation/vehicles/explorer.md)
 * [Factory Cart](../../../topics/features/transportation/vehicles/factory-cart.md)
+* [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
 ## February 2nd, 2021 Livestream
@@ -44,6 +46,9 @@ date: Last Modified
 
 ## October 13th, 2020 Livestream
 * [Q&A: Any plans on updating Vehicles and Planning Routes?](../../../transcriptions/yt-gddxBoi8DxY.md) https://www.youtube.com/watch?v=gddxBoi8DxY
+
+## October 9th, 2020 Livestream
+* [Community FYI: Game struggles with 10 Tractors, 14 Trucks, 1 Explorer, and 83 Factory Carts](../../../transcriptions/yt-T_Vldyf9rBI.md) https://www.youtube.com/watch?v=T_Vldyf9rBI
 
 ## October 6th, 2020 Livestream
 * [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](../../../transcriptions/yt-RVq5k89jlEA.md) https://www.youtube.com/watch?v=RVq5k89jlEA
@@ -102,8 +107,4 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
-* [Q&A: Weirdest bug you guys fixed](../../../transcriptions/yt-ybgZUbANGrM.md) https://www.youtube.com/watch?v=ybgZUbANGrM
-* [Q&A: Tractor, but "Sugar Cube" is mentioned in the description?](../../../transcriptions/yt-qvzPjISX75Y.md) https://www.youtube.com/watch?v=qvzPjISX75Y
-* [Q&A: I don't understand the autopilot for the Tractor?](../../../transcriptions/yt-V7BwnNzG8I0.md) https://www.youtube.com/watch?v=V7BwnNzG8I0
 * Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
-* [Q&A: I've activated autopilot but it doesn't run?](../../../transcriptions/yt-yzhYoMChQ6Q.md) https://www.youtube.com/watch?v=yzhYoMChQ6Q

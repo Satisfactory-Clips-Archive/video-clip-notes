@@ -59,6 +59,9 @@ date: Last Modified
 ## October 13th, 2020 Livestream
 * [Q&A: Has there been any community interest in Building mirror or flip options?](../transcriptions/yt-sSGirp3aoDk.md) https://www.youtube.com/watch?v=sSGirp3aoDk
 
+## October 9th, 2020 Livestream
+* [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../transcriptions/yt-Ri4BTkabEaE.md) https://www.youtube.com/watch?v=Ri4BTkabEaE
+
 ## October 6th, 2020 Livestream
 * [Jace & Snutt Talk: Community built-tools](../transcriptions/yt-rkQZFVgqMag.md) https://www.youtube.com/watch?v=rkQZFVgqMag
 

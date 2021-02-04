@@ -3,14 +3,14 @@ title: "February 2nd, 2021 Livestream Q&A: Is there a way we can make Autosave m
 date: "2021-02-02"
 layout: transcript
 topics:
-    - "features/autosave"
+    - "features/save-system/autosave"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Is there a way we can make Autosave more seamless?
 https://www.youtube.com/watch?v=UFWTP8Nu-MI
 
 ### Topics
-* [Features > Autosave](../topics/features/autosave.md)
+* [Features > Save System > Autosave](../topics/features/save-system/autosave.md)
 
 ### Transcript
 

@@ -33,6 +33,11 @@ date: Last Modified
 ## October 20th, 2020 Livestream
 * [Q&A: Will the Pipeline Junction be stackable?](../../../transcriptions/yt-qzAbkRHSojU.md) https://www.youtube.com/watch?v=qzAbkRHSojU
 
+## October 9th, 2020 Livestream
+* [Q&A: How are the Fluids calculated in the Pipe?](../../../transcriptions/yt-nI5VJXbiGJw.md) https://www.youtube.com/watch?v=nI5VJXbiGJw
+* [Dylan Talk: Instanced Splines (Part 11)](../../../transcriptions/yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
+* [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../../../transcriptions/yt-Ri4BTkabEaE.md) https://www.youtube.com/watch?v=Ri4BTkabEaE
+
 ## September 29th, 2020 Livestream
 * [Q&A: Add a Tape Measure or something to gauge distance between two objects?](../../../transcriptions/yt--hFvijwVlSQ.md) https://www.youtube.com/watch?v=-hFvijwVlSQ
 

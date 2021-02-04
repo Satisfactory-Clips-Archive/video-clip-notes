@@ -3,14 +3,14 @@ title: "August 25th, 2020 Livestream Q&A: Is it possible to have the Autosave no
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "features/autosave"
+    - "features/save-system/autosave"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Is it possible to have the Autosave not noticeable at all ?
 https://www.youtube.com/watch?v=ap-EONXus_4
 
 ### Topics
-* [Features > Autosave](../topics/features/autosave.md)
+* [Features > Save System > Autosave](../topics/features/save-system/autosave.md)
 
 ### Transcript
 

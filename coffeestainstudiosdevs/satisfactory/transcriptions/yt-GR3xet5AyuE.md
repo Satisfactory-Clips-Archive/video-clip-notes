@@ -4,12 +4,14 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "satisfactory-updates/release-builds"
+    - "technology/linux"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is Linux support planned in the future?
 https://www.youtube.com/watch?v=GR3xet5AyuE
 
 ### Topics
+* [Technology > Linux](../topics/technology/linux.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript

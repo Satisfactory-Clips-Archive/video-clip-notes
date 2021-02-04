@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Birk
 
+## October 9th, 2020 Livestream
+* [Snutt Talk: The future of Satisfactory?](../../transcriptions/yt-BMIKnDVoS9Q.md) https://www.youtube.com/watch?v=BMIKnDVoS9Q
+
 ## February 11th, 2020 Livestream
 * [Q&A: Where's Mod support?](../../transcriptions/yt-JRyAZT7y44g.md) https://www.youtube.com/watch?v=JRyAZT7y44g
 

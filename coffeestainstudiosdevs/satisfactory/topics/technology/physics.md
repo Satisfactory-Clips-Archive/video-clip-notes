@@ -14,6 +14,9 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * [Q&A: Are there physics safety's in place on vehicles?](../../transcriptions/yt-SOX83BVfEK8.md) https://www.youtube.com/watch?v=SOX83BVfEK8
 
+## October 9th, 2020 Livestream
+* [Community FYI: Game struggles with 10 Tractors, 14 Trucks, 1 Explorer, and 83 Factory Carts](../../transcriptions/yt-T_Vldyf9rBI.md) https://www.youtube.com/watch?v=T_Vldyf9rBI
+
 ## September 29th, 2020 Livestream
 * [Q&A: How high on the priority list is Truck Physics?](../../transcriptions/yt-RdNktCE1Pek.md) https://www.youtube.com/watch?v=RdNktCE1Pek
 

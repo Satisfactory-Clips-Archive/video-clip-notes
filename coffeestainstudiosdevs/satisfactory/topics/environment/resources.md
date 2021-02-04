@@ -36,6 +36,9 @@ date: Last Modified
 * [Q&A: I think the price for mk. 3 & 4 belts are great, but mk. 2 I skip almost every time.](../../transcriptions/yt-d6uqZlgK7ao.md) https://www.youtube.com/watch?v=d6uqZlgK7ao
 * [Q&A: Only use it (mk. 2 belts) for Load Balancing.](../../transcriptions/yt-1xgb-jbAWt4.md) https://www.youtube.com/watch?v=1xgb-jbAWt4
 
+## October 9th, 2020 Livestream
+* [Dylan Talk: Cheat Buildings](../../transcriptions/yt-zThi_BgpiIA.md) https://www.youtube.com/watch?v=zThi_BgpiIA
+
 ## October 6th, 2020 Livestream
 * [Q&A: Will the Resource Transportation get an update?](../../transcriptions/yt-hKxm2Ps1UYY.md) https://www.youtube.com/watch?v=hKxm2Ps1UYY
 

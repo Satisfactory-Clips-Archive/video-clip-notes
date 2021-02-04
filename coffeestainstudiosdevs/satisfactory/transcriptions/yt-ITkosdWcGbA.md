@@ -5,12 +5,14 @@ layout: transcript
 topics:
     - "features/planned-features/dedicated-servers"
     - "technology/graphics"
+    - "technology/linux"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Linux would be useful for Servers
 https://www.youtube.com/watch?v=ITkosdWcGbA
 
 ### Topics
+* [Technology > Linux](../topics/technology/linux.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 

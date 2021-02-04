@@ -3,14 +3,14 @@ title: "January 22nd, 2020 Livestream Snutt & Jace Talk: Cloud Sync issues"
 date: "2020-01-22"
 layout: transcript
 topics:
-    - "features/autosave"
+    - "features/save-system/cloud-sync"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Snutt & Jace Talk: Cloud Sync issues
 https://www.youtube.com/watch?v=a2v9EWPj79Q
 
 ### Topics
-* [Features > Autosave](../topics/features/autosave.md)
+* [Features > Save System > Cloud Sync](../topics/features/save-system/cloud-sync.md)
 
 ### Transcript
 

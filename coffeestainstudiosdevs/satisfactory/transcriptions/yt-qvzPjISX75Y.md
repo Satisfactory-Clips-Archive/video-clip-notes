@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: Tractor, but \"Sugar Cube\" is mentioned
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "features/transportation/vehicles"
+    - "features/transportation/vehicles/tractor"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Tractor, but "Sugar Cube" is mentioned in the description?
 https://www.youtube.com/watch?v=qvzPjISX75Y
 
 ### Topics
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Vehicles > Tractor](../topics/features/transportation/vehicles/tractor.md)
 
 ### Transcript
 

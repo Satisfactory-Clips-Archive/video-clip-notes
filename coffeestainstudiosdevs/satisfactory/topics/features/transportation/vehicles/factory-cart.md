@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Factory Cart
 
+## October 9th, 2020 Livestream
+* [Community FYI: Game struggles with 10 Tractors, 14 Trucks, 1 Explorer, and 83 Factory Carts](../../../../transcriptions/yt-T_Vldyf9rBI.md) https://www.youtube.com/watch?v=T_Vldyf9rBI
+
 ## September 22nd, 2020 Livestream
 * [Q&A: Removing 90 Factory Carts doubled my FPS](../../../../transcriptions/yt-R6XOvosAptg.md) https://www.youtube.com/watch?v=R6XOvosAptg
 

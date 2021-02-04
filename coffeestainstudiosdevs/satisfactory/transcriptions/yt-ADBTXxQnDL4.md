@@ -3,14 +3,14 @@ title: "October 6th, 2020 Livestream Q&A: Any plans to bring Satisfactory to Lin
 date: "2020-10-06"
 layout: transcript
 topics:
-    - ""
+    - "technology/linux"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any plans to bring Satisfactory to Linux?
 https://www.youtube.com/watch?v=ADBTXxQnDL4
 
 ### Topics
-
+* [Technology > Linux](../topics/technology/linux.md)
 
 ### Transcript
 

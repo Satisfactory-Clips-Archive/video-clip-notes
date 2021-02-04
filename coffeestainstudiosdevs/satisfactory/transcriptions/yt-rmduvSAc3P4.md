@@ -3,14 +3,14 @@ title: "October 6th, 2020 Livestream Q&A: Won't it run on Linux with Wine/Proton
 date: "2020-10-06"
 layout: transcript
 topics:
-    - ""
+    - "technology/linux"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Won't it run on Linux with Wine/Proton?
 https://www.youtube.com/watch?v=rmduvSAc3P4
 
 ### Topics
-
+* [Technology > Linux](../topics/technology/linux.md)
 
 ### Transcript
 

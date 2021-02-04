@@ -63,6 +63,9 @@ date: Last Modified
 * [Q&A: Can we get an autorun button?](../../transcriptions/yt-z36dxVjAkJ8.md) https://www.youtube.com/watch?v=z36dxVjAkJ8
 * [Q&A: Is it possible to use the add to-do list without visiting the crafting bench?](../../transcriptions/yt-ValaMW93Q7g.md) https://www.youtube.com/watch?v=ValaMW93Q7g
 
+## October 9th, 2020 Livestream
+* [Q&A: Toggle for the Build animation?](../../transcriptions/yt-sEw2W8SbmaQ.md) https://www.youtube.com/watch?v=sEw2W8SbmaQ
+
 ## October 6th, 2020 Livestream
 * [Q&A: Is there a way to deposit all of the same material?](../../transcriptions/yt-WCqChz4xFWg.md) https://www.youtube.com/watch?v=WCqChz4xFWg
 * [Q&A: What's the max amount of body slots?](../../transcriptions/yt-aPWXjH-Xf1o.md) https://www.youtube.com/watch?v=aPWXjH-Xf1o

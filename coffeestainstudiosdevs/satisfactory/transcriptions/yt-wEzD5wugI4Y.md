@@ -4,6 +4,8 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "features/crafting/fuel"
+    - "features/equipment/jetpack"
+    - "features/transportation/vehicles/tractor"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -11,7 +13,9 @@ topics:
 https://www.youtube.com/watch?v=wEzD5wugI4Y
 
 ### Topics
+* [Features > Transportation > Vehicles > Tractor](../topics/features/transportation/vehicles/tractor.md)
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
+* [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

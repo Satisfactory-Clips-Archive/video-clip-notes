@@ -35,6 +35,20 @@ date: Last Modified
 ## November 24th, 2020 Livestream
 * [Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?](../../transcriptions/yt-a1eSZz7wksU.md) https://www.youtube.com/watch?v=a1eSZz7wksU
 
+## October 9th, 2020 Livestream
+* [Q&A: How did Dylan get into programming?](../../transcriptions/yt-yJH2nTjQ9Tc.md) https://www.youtube.com/watch?v=yJH2nTjQ9Tc
+* [Snutt Talk: Perforce & Git](../../transcriptions/yt-3Fe1cJ3ujCE.md) https://www.youtube.com/watch?v=3Fe1cJ3ujCE
+* [Q&A: How can you concentrate with that hot piece of Simon walking around the office?](../../transcriptions/yt-VkIGrj60KtI.md) https://www.youtube.com/watch?v=VkIGrj60KtI
+* [Q&A: Dev for mobile is worse, when it works on one device but not the other?](../../transcriptions/yt-HxBzhdhCqp0.md) https://www.youtube.com/watch?v=HxBzhdhCqp0
+* [Q&A: Ever heard of Rust?](../../transcriptions/yt-SewkqzYFTQM.md) https://www.youtube.com/watch?v=SewkqzYFTQM
+* [Snutt & Dylan Talk: Vulkan, Metal, OpenGL, and DirectX](../../transcriptions/yt-l26WNbPPzzI.md) https://www.youtube.com/watch?v=l26WNbPPzzI
+* [Q&A: Does Snutt still do coding in spare time?](../../transcriptions/yt-KM5WVEA9CDs.md) https://www.youtube.com/watch?v=KM5WVEA9CDs
+* [Snutt & Dylan Talk: Graphics vs. Architectural programming](../../transcriptions/yt-LwQb17QlBbg.md) https://www.youtube.com/watch?v=LwQb17QlBbg
+* [Q&A: Unit Tests FTW?](../../transcriptions/yt-8MbgpOLyXyY.md) https://www.youtube.com/watch?v=8MbgpOLyXyY
+* [Snutt & Dylan Talk: Code Editors](../../transcriptions/yt-PCQ64Q_sx90.md) https://www.youtube.com/watch?v=PCQ64Q_sx90
+* [Q&A: Are you guys Swedish?](../../transcriptions/yt-sDqoInm05LM.md) https://www.youtube.com/watch?v=sDqoInm05LM
+* [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../../transcriptions/yt-Ri4BTkabEaE.md) https://www.youtube.com/watch?v=Ri4BTkabEaE
+
 ## August 25th, 2020 Livestream
 * [Snutt Talk: Fridge in the Hub](../../transcriptions/yt-0S3NrfwpV0c.md) https://www.youtube.com/watch?v=0S3NrfwpV0c
 * [Snutt Talk: Snutt discovers the fridge](../../transcriptions/yt-AwfR7ExmwJ0.md) https://www.youtube.com/watch?v=AwfR7ExmwJ0

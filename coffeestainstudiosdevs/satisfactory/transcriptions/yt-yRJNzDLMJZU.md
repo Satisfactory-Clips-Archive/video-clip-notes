@@ -4,12 +4,14 @@ date: "2020-09-15"
 layout: transcript
 topics:
     - "features/planned-features/dedicated-servers"
+    - "technology/linux"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Snutt Talk: Dedicated Servers
 https://www.youtube.com/watch?v=yRJNzDLMJZU
 
 ### Topics
+* [Technology > Linux](../topics/technology/linux.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 
 ### Transcript

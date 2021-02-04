@@ -41,6 +41,11 @@ date: Last Modified
 ### [August 25th, 2020 Livestream](./2020-08-25.md)
 * [Q&A: Can we expect significant performance increase with Update 4?](./transcriptions/yt-PVf-pBNYO_M.md) https://www.youtube.com/watch?v=PVf-pBNYO_M
 
+# [Custom Component: Instanced Spline Mesh](./topics/custom-component-instanced-spline-mesh.md)
+
+## [October 9th, 2020 Programming Stream](./2020-10-09.md)
+* [Q&A: Could we get Ray Tracing?](./transcriptions/yt-tsUgV4Irw9I.md) https://www.youtube.com/watch?v=tsUgV4Irw9I
+
 # [Environment](./topics/environment.md)
 
 ## [August 25th, 2020 Livestream](./2020-08-25.md)
@@ -378,11 +383,6 @@ date: Last Modified
 
 # Features
 
-## [Autosave](./topics/features/autosave.md)
-
-### [August 25th, 2020 Livestream](./2020-08-25.md)
-* [Q&A: Removing vegetation speeds up the game, yes or no ?](./transcriptions/yt-GgoQS6sOADQ.md) https://www.youtube.com/watch?v=GgoQS6sOADQ
-
 ## [Gases](./topics/features/gases.md)
 
 ### [February 2nd, 2021 Livestream](./2021-02-02.md)
@@ -419,6 +419,17 @@ date: Last Modified
 
 ### [October 13th, 2020 Livestream](./2020-10-13.md)
 * [Q&A: Is the Pioneer a human?](./transcriptions/yt-I0al2jSp_Rk.md) https://www.youtube.com/watch?v=I0al2jSp_Rk
+
+### [May 19th, 2020 Livestream](./2020-05-19.md)
+* [Snutt & Gafgar Talk: Zombie Pioneers](./transcriptions/yt-90rAQ31MQPI.md) https://www.youtube.com/watch?v=90rAQ31MQPI
+
+## [Save System](./topics/features/save-system.md)
+
+### [November 17th, 2020 Livestream](./2020-11-17.md)
+* [Q&A: Is there any Official Mod Support planned?](./transcriptions/yt-z4Uv-UNMETw.md) https://www.youtube.com/watch?v=z4Uv-UNMETw
+
+### [August 25th, 2020 Livestream](./2020-08-25.md)
+* [Q&A: Removing vegetation speeds up the game, yes or no ?](./transcriptions/yt-GgoQS6sOADQ.md) https://www.youtube.com/watch?v=GgoQS6sOADQ
 
 ### [May 19th, 2020 Livestream](./2020-05-19.md)
 * [Snutt & Gafgar Talk: Zombie Pioneers](./transcriptions/yt-90rAQ31MQPI.md) https://www.youtube.com/watch?v=90rAQ31MQPI
@@ -2019,6 +2030,9 @@ date: Last Modified
 
 # [Technology](./topics/technology.md)
 
+## [October 9th, 2020 Programming Stream](./2020-10-09.md)
+* Q&A: What language is Satisfactory programmed in? https://www.youtube.com/watch?v=Bczgrpei-oQ
+
 ## [Graphics](./topics/technology/graphics.md)
 
 ### [January 26th, 2021 Livestream](./2021-01-26.md)
@@ -2047,6 +2061,9 @@ date: Last Modified
 * [Q&A: RTX support ever?](./transcriptions/yt-PKx5vpwPGW0.md) https://www.youtube.com/watch?v=PKx5vpwPGW0
 * [Q&A: Will Satisfactory get Ray Tracing?](./transcriptions/yt-pb2KprHATHk.md) https://www.youtube.com/watch?v=pb2KprHATHk
 
+### [October 9th, 2020 Programming Stream](./2020-10-09.md)
+* [Q&A: Could we get Ray Tracing?](./transcriptions/yt-tsUgV4Irw9I.md) https://www.youtube.com/watch?v=tsUgV4Irw9I
+
 ### [September 29th, 2020 Livestream](./2020-09-29.md)
 * [Q&A: Add RTX?](./transcriptions/yt-KXKJxFYBxos.md) https://www.youtube.com/watch?v=KXKJxFYBxos
 
@@ -2070,6 +2087,33 @@ date: Last Modified
 
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: Does building Walls around big factories help performance?](./transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4
+
+## [Linux](./topics/technology/linux.md)
+
+### [December 15th, 2020 Livestream](./2020-12-15.md)
+* [Q&A: Dedicated Server for Windows?](./transcriptions/yt-znK3Ne7dLUc.md) https://www.youtube.com/watch?v=znK3Ne7dLUc
+* [Q&A: Will Satisfactory have native support for Linux?](./transcriptions/yt-jGFUMhD3WGg.md) https://www.youtube.com/watch?v=jGFUMhD3WGg
+
+### [November 3rd, 2020 Livestream](./2020-11-03.md)
+* [Q&A: Will Dedicated Servers run under Linux?](./transcriptions/yt-v5Niam8EYts.md) https://www.youtube.com/watch?v=v5Niam8EYts
+
+### [October 6th, 2020 Livestream](./2020-10-06.md)
+* [Q&A: Any plans to bring Satisfactory to Linux?](./transcriptions/yt-ADBTXxQnDL4.md) https://www.youtube.com/watch?v=ADBTXxQnDL4
+
+### [September 22nd, 2020 Livestream](./2020-09-22.md)
+* [Q&A: Will Dedicated Servers run on Linux?](./transcriptions/yt-299eeYGePHM.md) https://www.youtube.com/watch?v=299eeYGePHM
+
+### [September 15th, 2020 Livestream](./2020-09-15.md)
+* [Snutt Talk: Dedicated Servers](./transcriptions/yt-yRJNzDLMJZU.md) https://www.youtube.com/watch?v=yRJNzDLMJZU
+
+### [August 25th, 2020 Livestream](./2020-08-25.md)
+* [Q&A: Plans for official Linux support?](./transcriptions/yt-vSFTo-1j-SA.md) https://www.youtube.com/watch?v=vSFTo-1j-SA
+
+### [January 22nd, 2020 Livestream](./2020-01-22.md)
+* [Q&A: Linux support for Dedicated Servers?](./transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
+
+### [March 9th, 2019 Livestream](./2019-03-09.md)
+* [Q&A: Is Linux support planned in the future?](./transcriptions/yt-GR3xet5AyuE.md) https://www.youtube.com/watch?v=GR3xet5AyuE
 
 ## [Unreal Engine](./topics/technology/unreal-engine.md)
 

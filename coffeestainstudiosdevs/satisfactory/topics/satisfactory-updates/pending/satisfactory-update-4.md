@@ -154,6 +154,9 @@ date: Last Modified
 * [Q&A: Who knows the most about feature roadmap?](../../../transcriptions/yt--MwbxCLSUC4.md) https://www.youtube.com/watch?v=-MwbxCLSUC4
 * [Q&A: Will Turbo Motors be used more in the Update?](../../../transcriptions/yt-Q73LO7UV_l4.md) https://www.youtube.com/watch?v=Q73LO7UV_l4
 
+## October 9th, 2020 Livestream
+* [Snutt Talk: The future of Satisfactory?](../../../transcriptions/yt-BMIKnDVoS9Q.md) https://www.youtube.com/watch?v=BMIKnDVoS9Q
+
 ## October 6th, 2020 Livestream
 * [Jace & Snutt Talk: Update Release Schedule](../../../transcriptions/yt-tfrm9fa03eQ.md) https://www.youtube.com/watch?v=tfrm9fa03eQ
 * [Q&A: Is the expected date relative to Early Access or Experimental?](../../../transcriptions/yt-rc0InGTzcOQ.md) https://www.youtube.com/watch?v=rc0InGTzcOQ
