@@ -7,6 +7,7 @@ topics:
 ---
 # [March 9th, 2018 Q&A #1: Are we making Sanctum 3?](../2018-03-09.md)
 ## Q&A: Sanctum 3?
+https://youtube.com/embed/Zo2ybvs7keI?start=502.32&end=614.16
 ### Topics
 * [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
 

@@ -7,6 +7,7 @@ topics:
 ---
 # [March 9th, 2018 Q&A #1: Are we making Sanctum 3?](../2018-03-09.md)
 ## Q&A: What did it feel like when you made the decision to announce Sanctum 3 this friday?
+https://youtube.com/embed/Zo2ybvs7keI?start=645.8
 ### Topics
 * [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
 
