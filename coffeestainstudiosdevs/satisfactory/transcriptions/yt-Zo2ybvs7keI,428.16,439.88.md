@@ -7,7 +7,7 @@ topics:
 ---
 # [March 9th, 2018 Q&A #1: Are we making Sanctum 3?](../2018-03-09.md)
 ## Q&A: What is your favourite character from Sanctum?
-https://youtube.com/embed/Zo2ybvs7keI?start=428.16&end=439.88
+https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=428&end=440
 ### Topics
 * [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
 

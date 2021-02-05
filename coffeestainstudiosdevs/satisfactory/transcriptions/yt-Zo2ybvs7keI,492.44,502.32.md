@@ -7,7 +7,7 @@ topics:
 ---
 # [March 9th, 2018 Q&A #1: Are we making Sanctum 3?](../2018-03-09.md)
 ## Q&A: Coffee or tea?
-https://youtube.com/embed/Zo2ybvs7keI?start=492.44&end=502.32
+https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 
