@@ -44,3 +44,7 @@ date: Last Modified
 * [Q&A: What's Hannah's favourite part of level design?](../../transcriptions/yt-sDZjuyYO-zE.md) https://www.youtube.com/watch?v=sDZjuyYO-zE
 * [Jace, Snutt, & Hannah Talk: Jace can't pronounce last names](../../transcriptions/yt-k2MGfjgt5Wo.md) https://www.youtube.com/watch?v=k2MGfjgt5Wo
 * [Snutt & Hannah Talk: Hannah wants to delete the map.](../../transcriptions/yt-_bVk1N0dvDY.md) https://www.youtube.com/watch?v=_bVk1N0dvDY
+
+## March 9th, 2018 Livestream
+* [Q&A: Who is the better colleague, Nathalie or Hannah?](../../transcriptions/yt-Zo2ybvs7keI,300.32,310.36.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=300&end=311
+

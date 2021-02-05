@@ -28,3 +28,7 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Jace Talk: Legacy of Goat Simulator & launching Satisfactory](../../transcriptions/yt-z2fpvMakuCY.md) https://www.youtube.com/watch?v=z2fpvMakuCY
 * [Snutt, Simon, & Jace Talk: Satisfactory & Goat Simulator development](../../transcriptions/yt-xh1icX044NE.md) https://www.youtube.com/watch?v=xh1icX044NE
+
+## March 9th, 2018 Livestream
+* [Q&A: Are the first two letters of your next game's title really "Sa" ?](../../transcriptions/yt-Zo2ybvs7keI,344.96,382.8.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383
+
