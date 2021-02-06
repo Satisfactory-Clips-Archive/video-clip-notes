@@ -4,6 +4,20 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 4
 
+## February 5th, 2021 Livestream
+* [UI change - Open in Codex](../../../transcriptions/yt-rI5kRMSwo5Q,42.273444,75.54611.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76
+
+* [UI Change - AWESOME Store](../../../transcriptions/yt-rI5kRMSwo5Q,75.54213333333334,189.92306666666667.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=75&end=190
+
+* [UI Change - Production UI](../../../transcriptions/yt-rI5kRMSwo5Q,189.92306666666667,263.8969666666667.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=189&end=264
+
+* [UI Change - Unreleased Building sneak-peek (don't tell anyone)](../../../transcriptions/yt-rI5kRMSwo5Q,263.8969666666667,286.05243333333334.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=263&end=287
+
+* [UI Change - Power Management](../../../transcriptions/yt-rI5kRMSwo5Q,286.05243333333334,330.36336666666665.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=286&end=331
+
+* [Nitrogen Gas Resource Well](../../../transcriptions/yt-rI5kRMSwo5Q,330.36336666666665,499.6992.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500
+
+
 ## February 2nd, 2021 Livestream
 * [State of Dev: We leaked Zip Lines](../../../transcriptions/yt-NJmd9ET-R1k.md) https://www.youtube.com/watch?v=NJmd9ET-R1k
 * [Q&A: Do Zip Lines need to be powered?](../../../transcriptions/yt-r_mQ7Xqk6Yo.md) https://www.youtube.com/watch?v=r_mQ7Xqk6Yo

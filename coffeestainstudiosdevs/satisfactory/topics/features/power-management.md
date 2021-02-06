@@ -7,6 +7,10 @@ date: Last Modified
 * [Green Energy](../../topics/features/power-management/green-energy.md)
 * [Nuclear Energy](../../topics/features/power-management/nuclear-energy.md)
 
+## February 5th, 2021 Livestream
+* [UI Change - Power Management](../../transcriptions/yt-rI5kRMSwo5Q,286.05243333333334,330.36336666666665.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=286&end=331
+
+
 ## January 19th, 2021 Livestream
 * [Q&A: Is Mark the mastermind behind Turbofuel?](../../transcriptions/yt-vPfI712DEns.md) https://www.youtube.com/watch?v=vPfI712DEns
 * [Q&A: Will batteries be used alongside factory power?](../../transcriptions/yt-UoDF7Vl1ZJQ.md) https://www.youtube.com/watch?v=UoDF7Vl1ZJQ

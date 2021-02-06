@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Resource Well Pressurizer
 
+## February 5th, 2021 Livestream
+* [Nitrogen Gas Resource Well](../../../transcriptions/yt-rI5kRMSwo5Q,330.36336666666665,499.6992.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500
+
+
 ## January 19th, 2021 Livestream
 * [Q&A: What's the cost of the Resource Well Extractors & Pressurisers (Part 1)](../../../transcriptions/yt-Ik8K1G6lGyM.md) https://www.youtube.com/watch?v=Ik8K1G6lGyM
 * [Q&A: What's the cost of the Resource Well Extractors & Pressurisers (Part 2)](../../../transcriptions/yt-MaHhdhMI_38.md) https://www.youtube.com/watch?v=MaHhdhMI_38

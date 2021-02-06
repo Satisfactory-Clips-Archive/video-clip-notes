@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Gases
 
+## February 5th, 2021 Livestream
+* [Nitrogen Gas Resource Well](../../transcriptions/yt-rI5kRMSwo5Q,330.36336666666665,499.6992.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500
+
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Are Gases going to work like Liquids?](../../transcriptions/yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
 
