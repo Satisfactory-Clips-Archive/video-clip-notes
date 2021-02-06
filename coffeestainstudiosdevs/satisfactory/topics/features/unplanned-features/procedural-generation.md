@@ -35,3 +35,7 @@ date: Last Modified
 * [Jace Talk: The Map is not procedural](../../../transcriptions/yt-lTWfWXB6IG8.md) https://www.youtube.com/watch?v=lTWfWXB6IG8
 * [Q&A: Another game mode with a procedurally generated world?](../../../transcriptions/yt-GZlK2fIlYVk.md) https://www.youtube.com/watch?v=GZlK2fIlYVk
 * [Q&A: Procedural generation can be done good, look at Rust?](../../../transcriptions/yt-bTR3AWDpld4.md) https://www.youtube.com/watch?v=bTR3AWDpld4
+
+## June 22nd, 2018 Livestream
+* [Q&A: Is the Map procedurally generated?](../../../transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346
+

@@ -36,3 +36,7 @@ date: Last Modified
 * [Jace Talk: Mod support](../../transcriptions/yt-37zFxpeGm-E.md) https://www.youtube.com/watch?v=37zFxpeGm-E
 * [Q&A: Will Dedicated Servers and Mods be free?](../../transcriptions/yt-WEq2xEXVVQ0.md) https://www.youtube.com/watch?v=WEq2xEXVVQ0
 * [Jace Talk: Mods](../../transcriptions/yt-JPafvjU7Z0k.md) https://www.youtube.com/watch?v=JPafvjU7Z0k
+
+## June 22nd, 2018 Livestream
+* [Q&A: Will there be mods?](../../transcriptions/yt-W1E6EWrAsII,91.24,120.52.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121
+

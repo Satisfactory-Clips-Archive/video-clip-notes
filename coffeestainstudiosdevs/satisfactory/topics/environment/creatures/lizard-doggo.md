@@ -66,3 +66,7 @@ date: Last Modified
 * [Q&A: Lizard Doggo plushie when?](../../../transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
 * [Snutt Talk: Lizard Doggo work name](../../../transcriptions/yt-BTV3_zIpImo.md) https://www.youtube.com/watch?v=BTV3_zIpImo
 * [Q&A: How to pet Doggo?](../../../transcriptions/yt-izvalD5vPuc.md) https://www.youtube.com/watch?v=izvalD5vPuc
+
+## June 22nd, 2018 Livestream
+* [Q&A: Will there be Lizard Doggo plushies?](../../../transcriptions/yt-W1E6EWrAsII,214.36,238.12.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239
+

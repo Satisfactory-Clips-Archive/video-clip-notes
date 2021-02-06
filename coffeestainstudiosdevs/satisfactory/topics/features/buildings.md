@@ -14,9 +14,9 @@ date: Last Modified
 * [Refinery](../../topics/features/buildings/refinery.md)
 * [Resource Well Extractor](../../topics/features/buildings/resource-well-extractor.md)
 * [Resource Well Pressurizer](../../topics/features/buildings/resource-well-pressurizer.md)
-* [Space Elevator](../../topics/features/buildings/space-elevator.md)
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
+* [Space Elevator](../../topics/features/buildings/space-elevator.md)
 
 ## February 5th, 2021 Livestream
 * [UI Change - Production UI](../../transcriptions/yt-rI5kRMSwo5Q,189.92306666666667,263.8969666666667.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=189&end=264

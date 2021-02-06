@@ -16,6 +16,7 @@ date: Last Modified
 * [Markus](./topics/coffee-stainers/markus.md)
 * [Nathalie](./topics/coffee-stainers/nathalie.md)
 * [Neshkor](./topics/coffee-stainers/neshkor.md)
+* [Oscar](./topics/coffee-stainers/oscar.md)
 * [Ros](./topics/coffee-stainers/ros.md)
 * [Simon](./topics/coffee-stainers/simon.md)
 * [Snutt](./topics/coffee-stainers/snutt.md)
@@ -84,9 +85,11 @@ date: Last Modified
 * [Refinery](./topics/features/buildings/refinery.md)
 * [Resource Well Extractor](./topics/features/buildings/resource-well-extractor.md)
 * [Resource Well Pressurizer](./topics/features/buildings/resource-well-pressurizer.md)
-* [Space Elevator](./topics/features/buildings/space-elevator.md)
 * [The HUB](./topics/features/buildings/the-hub.md)
 * [Water Extractor](./topics/features/buildings/water-extractor.md)
+
+### [Space Elevator](./topics/features/buildings/space-elevator.md)
+* [Food Court](./topics/features/buildings/space-elevator/food-court.md)
 
 ## [Crafting](./topics/features/crafting.md)
 * [Fuel](./topics/features/crafting/fuel.md)
@@ -161,7 +164,9 @@ date: Last Modified
 ## Unplanned Features
 * [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)
 * [Base Defense](./topics/features/unplanned-features/base-defense.md)
+* [Loot Boxes](./topics/features/unplanned-features/loot-boxes.md)
 * [Mass Building](./topics/features/unplanned-features/mass-building.md)
+* [Microtransactions](./topics/features/unplanned-features/microtransactions.md)
 * [Procedural Generation](./topics/features/unplanned-features/procedural-generation.md)
 * [Space Exploration](./topics/features/unplanned-features/space-exploration.md)
 * [Terraforming](./topics/features/unplanned-features/terraforming.md)

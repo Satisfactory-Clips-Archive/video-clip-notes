@@ -82,3 +82,9 @@ date: Last Modified
 ## March 9th, 2018 Livestream
 * [Q&A: Coffee or tea?](../../transcriptions/yt-Zo2ybvs7keI,492.44,502.32.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503
 
+
+## November 17th, 2017 Livestream
+* [How can we be friends if you know nothing about me?](../../transcriptions/yt-6HZzPbgw3pg,72.16,127.08.md) https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=72&end=128
+
+* [Why would we need a Community Manager now?](../../transcriptions/yt-6HZzPbgw3pg,127.08,170.16.md) https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171
+

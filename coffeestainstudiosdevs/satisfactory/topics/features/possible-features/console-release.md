@@ -60,3 +60,7 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: Any scope of the game being on consoles?](../../../transcriptions/yt-bsTq_WiSeCY.md) https://www.youtube.com/watch?v=bsTq_WiSeCY
 * [Q&A: Will you create Console version of Satisfactory?](../../../transcriptions/yt-_MGUbEI247M.md) https://www.youtube.com/watch?v=_MGUbEI247M
+
+## June 22nd, 2018 Livestream
+* [Q&A: Will there be Mac/Linux/Console cross-platform support?](../../../transcriptions/yt-W1E6EWrAsII,406.52,421.68.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=406&end=422
+

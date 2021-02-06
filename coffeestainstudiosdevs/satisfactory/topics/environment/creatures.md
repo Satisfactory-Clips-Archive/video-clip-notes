@@ -90,3 +90,7 @@ date: Last Modified
 * [Q&A: Is there a name for the giant flying creature?](../../transcriptions/yt-bWnZ-OI-_Og.md) https://www.youtube.com/watch?v=bWnZ-OI-_Og
 * [Q&A: Is there more than 5 enemies in?](../../transcriptions/yt-DLnUjlixpg8.md) https://www.youtube.com/watch?v=DLnUjlixpg8
 * [Q&A: Can creatures in any way disrupt your factory?](../../transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
+
+## June 22nd, 2018 Livestream
+* [Q&A: Will we need to defend our factory?](../../transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215
+

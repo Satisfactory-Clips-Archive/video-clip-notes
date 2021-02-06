@@ -16,6 +16,7 @@ date: Last Modified
 * [Markus](../topics/coffee-stainers/markus.md)
 * [Nathalie](../topics/coffee-stainers/nathalie.md)
 * [Neshkor](../topics/coffee-stainers/neshkor.md)
+* [Oscar](../topics/coffee-stainers/oscar.md)
 * [Ros](../topics/coffee-stainers/ros.md)
 * [Simon](../topics/coffee-stainers/simon.md)
 * [Snutt](../topics/coffee-stainers/snutt.md)

@@ -147,3 +147,7 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: Do you want to support more than 4 people?](../../transcriptions/yt-wb5HY05QX9I.md) https://www.youtube.com/watch?v=wb5HY05QX9I
+
+## June 22nd, 2018 Livestream
+* [Jace Talk: General multiplayer questions](../../transcriptions/yt-W1E6EWrAsII,256.8,316.92.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317
+

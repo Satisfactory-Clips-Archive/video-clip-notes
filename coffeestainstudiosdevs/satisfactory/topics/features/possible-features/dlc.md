@@ -70,3 +70,7 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Q&A: Microtranscation DLC?](../../../transcriptions/yt-ithVAX7EptE.md) https://www.youtube.com/watch?v=ithVAX7EptE
 * [Q&A: Will there be DLC after 1.0?](../../../transcriptions/yt-FHqvzjGbhvg.md) https://www.youtube.com/watch?v=FHqvzjGbhvg
+
+## June 22nd, 2018 Livestream
+* [Q&A: Plans for post-launch?](../../../transcriptions/yt-W1E6EWrAsII,120.52,176.6.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177
+

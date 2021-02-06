@@ -170,3 +170,9 @@ date: Last Modified
 * [Q&A: I wouldn't be surprised if Mod support enable third-party maps?](../../transcriptions/yt-LgGYmQrwAgg.md) https://www.youtube.com/watch?v=LgGYmQrwAgg
 * [Snutt & Jace Talk: Archway Story Time](../../transcriptions/yt-5481tMGLLys.md) https://www.youtube.com/watch?v=5481tMGLLys
 * [Q&A: Are you supposed to be able to break the rocks that has a slug inside of it?](../../transcriptions/yt-SaJCkdeMMh0.md) https://www.youtube.com/watch?v=SaJCkdeMMh0
+
+## June 22nd, 2018 Livestream
+* [Q&A: Is the Map procedurally generated?](../../transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346
+
+* [Q&A: Is there a height limit in the game?](../../transcriptions/yt-W1E6EWrAsII,434.4,492.52.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=434&end=493
+

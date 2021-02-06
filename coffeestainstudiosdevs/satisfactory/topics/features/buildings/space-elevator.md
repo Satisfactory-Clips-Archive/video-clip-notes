@@ -3,6 +3,7 @@ title: "Space Elevator"
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator
+* [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
 ## February 2nd, 2021 Livestream
 * [Q&A: With new Space Elevator parts does this mean that Tier 8 will unlock separately from Tier 7?](../../../transcriptions/yt-1Xgd1ANF9gw.md) https://www.youtube.com/watch?v=1Xgd1ANF9gw
@@ -27,3 +28,7 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Jace Talk: Space Elevator](../../../transcriptions/yt-0P2A2UtY834.md) https://www.youtube.com/watch?v=0P2A2UtY834
+
+## June 22nd, 2018 Livestream
+* [Q&A: Is that a Space Elevator at the end of the trailer?](../../../transcriptions/yt-W1E6EWrAsII,421.68,434.4.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=421&end=435
+

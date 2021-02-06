@@ -23,3 +23,7 @@ date: Last Modified
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Will you fix translations?](../transcriptions/yt-NJxOCbsJtZQ.md) https://www.youtube.com/watch?v=NJxOCbsJtZQ
+
+## June 22nd, 2018 Livestream
+* [Q&A: Will you localise Satisfactory into x language?](../transcriptions/yt-W1E6EWrAsII,345.76,375.64.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=345&end=376
+

@@ -108,3 +108,7 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
 * Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
+
+## June 22nd, 2018 Livestream
+* [Q&A: Will there be autonomous/driveable/water vehicles?](../../../transcriptions/yt-W1E6EWrAsII,375.64,391.24.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=375&end=392
+

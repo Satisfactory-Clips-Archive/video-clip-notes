@@ -91,3 +91,7 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: When is the official release?](../../../transcriptions/yt-H0HcDZTv_ts.md) https://www.youtube.com/watch?v=H0HcDZTv_ts
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../../../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
+
+## June 22nd, 2018 Livestream
+* [Q&A: Plans for post-launch?](../../../transcriptions/yt-W1E6EWrAsII,120.52,176.6.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177
+

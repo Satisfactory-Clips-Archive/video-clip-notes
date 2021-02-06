@@ -116,3 +116,7 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: Lizard Doggo plushie when?](../transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
 * [Q&A: Do I get a sticker for how many bugs I reported in alpha?](../transcriptions/yt-2ny0XTCY6l0.md) https://www.youtube.com/watch?v=2ny0XTCY6l0
+
+## June 22nd, 2018 Livestream
+* [Q&A: Will there be Lizard Doggo plushies?](../transcriptions/yt-W1E6EWrAsII,214.36,238.12.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239
+

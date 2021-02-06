@@ -117,3 +117,7 @@ date: Last Modified
 * [Q&A: What gender is the character model?](../transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs
 * [Snutt Talk: Somersloop](../transcriptions/yt-9ALpZxsfl10.md) https://www.youtube.com/watch?v=9ALpZxsfl10
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
+
+## June 22nd, 2018 Livestream
+* [Q&A: Is there an end game? Will there be a story?](../transcriptions/yt-W1E6EWrAsII,391.24,406.52.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=391&end=407
+
