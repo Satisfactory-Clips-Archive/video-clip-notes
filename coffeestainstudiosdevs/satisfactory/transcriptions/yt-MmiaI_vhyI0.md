@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=MmiaI_vhyI0
 
 ### Topics
+* [Features > Buildings > Space Elevator > Food Court](../topics/features/buildings/space-elevator/food-court.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
-* [Features > Buildings > Space Elevator > Food Court](../topics/features/buildings/space-elevator/food-court.md)
 
 ### Transcript
 

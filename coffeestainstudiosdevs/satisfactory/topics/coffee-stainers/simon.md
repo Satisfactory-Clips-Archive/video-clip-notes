@@ -38,6 +38,12 @@ date: Last Modified
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) https://www.youtube.com/watch?v=2tTlAAZMBPw
 * [Q&A: How bad was the indigestion after eating all the keys?](../../transcriptions/yt-t9_0R3vkYOk.md) https://www.youtube.com/watch?v=t9_0R3vkYOk
 
+## October 3rd, 2018 Livestream
+* [Q&A: Localisation/Translation?](../../transcriptions/yt-1OQk7vNt6-0,261.62,292.16.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=261&end=293
+
+* [Q&A: Release Date?](../../transcriptions/yt-1OQk7vNt6-0,292.16,358.62.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=292&end=359
+
+
 ## August 1st, 2018 Livestream
 * [Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](../../transcriptions/yt-iFAy1NZUOGU,208.96,227.8.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228
 

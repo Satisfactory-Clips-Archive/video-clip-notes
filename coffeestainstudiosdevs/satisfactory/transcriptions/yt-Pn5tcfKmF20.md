@@ -4,6 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
+    - "satisfactory-updates/released/satisfactory-alpha"
     - "story-lore"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=Pn5tcfKmF20
 
 ### Topics
+* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Story & Lore](../topics/story-lore.md)
 

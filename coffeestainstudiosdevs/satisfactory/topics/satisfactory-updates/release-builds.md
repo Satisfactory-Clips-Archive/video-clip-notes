@@ -64,7 +64,6 @@ date: Last Modified
 * [Q&A: Linux support for Dedicated Servers?](../../transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
 
 ## March 9th, 2019 Livestream
-* [Q&A: Is that the alpha build version?](../../transcriptions/yt-u9Vu9NIjiRs.md) https://www.youtube.com/watch?v=u9Vu9NIjiRs
 * [Jace Talk: All saves should work](../../transcriptions/yt-w9kJj1Hd-cs.md) https://www.youtube.com/watch?v=w9kJj1Hd-cs
 * [Q&A: Is the Early Access version the same version Alpha Testers have?](../../transcriptions/yt-bnUTeUn6TA4.md) https://www.youtube.com/watch?v=bnUTeUn6TA4
 * Snutt Talk: Alpha Test Weekend Hard Drive M.A.M. bug https://www.youtube.com/watch?v=EyUfBo2-gjw

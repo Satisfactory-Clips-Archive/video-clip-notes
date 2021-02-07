@@ -3,13 +3,13 @@ title: "September 12th, 2018"
 date: "2018-09-12"
 layout: transcript
 topics: 
-    - "satisfactory-updates"
+    - "satisfactory-updates/released/satisfactory-alpha"
 ---
 # [September 12th, 2018 ~SOME~ Satisfactory Alpha Info](../2018-09-12.md)
 ## pushing the Alpha back
 https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=33&end=77
 ### Topics
-* [Satisfactory Updates](../topics/satisfactory-updates.md)
+* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 
 ### Transcript
 

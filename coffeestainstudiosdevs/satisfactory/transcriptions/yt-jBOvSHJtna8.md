@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: After the Alpha Weekend - Alpha Testers 
 date: "2019-03-09"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates/released/satisfactory-alpha"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: After the Alpha Weekend - Alpha Testers can continue streaming with the Alpha client?
 https://www.youtube.com/watch?v=jBOvSHJtna8
 
 ### Topics
-
+* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 
 ### Transcript
 

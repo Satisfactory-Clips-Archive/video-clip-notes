@@ -3,7 +3,7 @@ title: "September 12th, 2018"
 date: "2018-09-12"
 layout: transcript
 topics: 
-    - "satisfactory-updates"
+    - "satisfactory-updates/released/satisfactory-alpha"
     - "environment/biomes"
     - "environment/world-map"
     - "features/tiers"
@@ -12,7 +12,7 @@ topics:
 ## Alpha's content focus
 https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170
 ### Topics
-* [Satisfactory Updates](../topics/satisfactory-updates.md)
+* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Tiers](../topics/features/tiers.md)

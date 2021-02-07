@@ -3,7 +3,7 @@ title: "March 9th, 2019 Livestream Q&A: Is that the alpha build version?"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-alpha"
     - "technology/user-interface"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=u9Vu9NIjiRs
 
 ### Topics
-* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

@@ -4,12 +4,14 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "environment/world-map"
+    - "satisfactory-updates/released/satisfactory-alpha"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Snutt & Jace Talk: Archway Story Time
 https://www.youtube.com/watch?v=5481tMGLLys
 
 ### Topics
+* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript

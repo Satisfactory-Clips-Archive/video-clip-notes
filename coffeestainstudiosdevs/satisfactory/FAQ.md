@@ -1887,6 +1887,11 @@ date: Last Modified
 
 ## Released
 
+### [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)
+
+#### [March 9th, 2019 Livestream](./2019-03-09.md)
+* [Q&A: Is there an actual win condition or is it just 'til end of content?](./transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
+
 ### [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 #### [February 11th, 2020 Livestream](./2020-02-11.md)

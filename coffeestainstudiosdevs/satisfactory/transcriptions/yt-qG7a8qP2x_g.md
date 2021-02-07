@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=qG7a8qP2x_g
 
 ### Topics
-* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Features > Unplanned Features > Microtransactions](../topics/features/unplanned-features/microtransactions.md)
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript
 

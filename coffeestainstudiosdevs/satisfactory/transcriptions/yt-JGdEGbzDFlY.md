@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=JGdEGbzDFlY
 
 ### Topics
+* [Features > Buildings > Space Elevator > Food Court](../topics/features/buildings/space-elevator/food-court.md)
 * [Community > Wiki](../topics/community/wiki.md)
 * [Features > Tiers](../topics/features/tiers.md)
-* [Features > Buildings > Space Elevator > Food Court](../topics/features/buildings/space-elevator/food-court.md)
 
 ### Transcript
 

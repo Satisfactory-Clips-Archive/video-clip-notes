@@ -4,12 +4,14 @@ date: "2020-10-06"
 layout: transcript
 topics:
     - "community/wiki"
+    - "satisfactory-updates/released/satisfactory-alpha"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: (re: the wiki) So the old data-mined data?
 https://www.youtube.com/watch?v=SG9tehaWHsE
 
 ### Topics
+* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Community > Wiki](../topics/community/wiki.md)
 
 ### Transcript
