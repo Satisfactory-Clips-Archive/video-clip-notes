@@ -171,6 +171,10 @@ date: Last Modified
 * [Snutt & Jace Talk: Archway Story Time](../../transcriptions/yt-5481tMGLLys.md) https://www.youtube.com/watch?v=5481tMGLLys
 * [Q&A: Are you supposed to be able to break the rocks that has a slug inside of it?](../../transcriptions/yt-SaJCkdeMMh0.md) https://www.youtube.com/watch?v=SaJCkdeMMh0
 
+## September 12th, 2018 Livestream
+* [Alpha's content focus](../../transcriptions/yt-31XJ1Q_glAw,96.88,169.44.md) https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170
+
+
 ## August 1st, 2018 Livestream
 * [Q&A: Won't the factory stop working if you're really far away?](../../transcriptions/yt-iFAy1NZUOGU,170.36,188.8.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=170&end=189
 
