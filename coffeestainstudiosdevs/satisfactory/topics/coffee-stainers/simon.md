@@ -38,6 +38,10 @@ date: Last Modified
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) https://www.youtube.com/watch?v=2tTlAAZMBPw
 * [Q&A: How bad was the indigestion after eating all the keys?](../../transcriptions/yt-t9_0R3vkYOk.md) https://www.youtube.com/watch?v=t9_0R3vkYOk
 
+## August 1st, 2018 Livestream
+* [Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](../../transcriptions/yt-iFAy1NZUOGU,208.96,227.8.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228
+
+
 ## June 22nd, 2018 Livestream
 * [Jace Talk: General multiplayer questions](../../transcriptions/yt-W1E6EWrAsII,256.8,316.92.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317
 

@@ -91,6 +91,10 @@ date: Last Modified
 * [Q&A: Is there more than 5 enemies in?](../../transcriptions/yt-DLnUjlixpg8.md) https://www.youtube.com/watch?v=DLnUjlixpg8
 * [Q&A: Can creatures in any way disrupt your factory?](../../transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
 
+## August 1st, 2018 Livestream
+* [Q&A: Are there actual spiders in the game?](../../transcriptions/yt-iFAy1NZUOGU,237.4,252.8.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=237&end=253
+
+
 ## June 22nd, 2018 Livestream
 * [Q&A: Will we need to defend our factory?](../../transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215
 

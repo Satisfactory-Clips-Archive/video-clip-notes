@@ -40,3 +40,7 @@ date: Last Modified
 * [Q&A: Is it possible to kill a Spitter with the standard Zapper?](../../transcriptions/yt-ZmVoWBHW9Jc.md) https://www.youtube.com/watch?v=ZmVoWBHW9Jc
 * [Q&A: Quick keys for tools?](../../transcriptions/yt-MUBE6tb7AjQ.md) https://www.youtube.com/watch?v=MUBE6tb7AjQ
 * [Q&A: There is no way to hotkey items?](../../transcriptions/yt-KmX7CoVGPA0.md) https://www.youtube.com/watch?v=KmX7CoVGPA0
+
+## August 1st, 2018 Livestream
+* [Q&A: Is there research or a tech tree in the game?](../../transcriptions/yt-iFAy1NZUOGU,147.92,170.36.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171
+

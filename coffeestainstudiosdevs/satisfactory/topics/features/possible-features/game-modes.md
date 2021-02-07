@@ -88,3 +88,6 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: Will there be a creative mode?](../../../transcriptions/yt-eIPuM39KDcE.md) https://www.youtube.com/watch?v=eIPuM39KDcE
 * [Q&A: Another game mode with a procedurally generated world?](../../../transcriptions/yt-GZlK2fIlYVk.md) https://www.youtube.com/watch?v=GZlK2fIlYVk
+
+## August 1st, 2018 Livestream
+* Q&A: Will there be a Creative Mode? https://www.youtube.com/watch?v=yt-iFAy1NZUOGU%2C14%2C29

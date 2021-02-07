@@ -3,14 +3,14 @@ title: "November 3rd, 2020 Livestream Q&A: Are Steam Achievements going to be ad
 date: "2020-11-03"
 layout: transcript
 topics:
-    - ""
+    - "features/possible-features/third-party-service-integration/achievements"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Are Steam Achievements going to be added in the future?
 https://www.youtube.com/watch?v=Gi08SVnHyLU
 
 ### Topics
-
+* [Features > Possible Features > Third-Party Service Integration > Achievements](../topics/features/possible-features/third-party-service-integration/achievements.md)
 
 ### Transcript
 

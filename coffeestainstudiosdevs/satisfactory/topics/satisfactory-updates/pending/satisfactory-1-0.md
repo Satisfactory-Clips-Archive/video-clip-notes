@@ -92,6 +92,10 @@ date: Last Modified
 * [Q&A: When is the official release?](../../../transcriptions/yt-H0HcDZTv_ts.md) https://www.youtube.com/watch?v=H0HcDZTv_ts
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../../../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
 
+## August 1st, 2018 Livestream
+* [Q&A: How much will the game cost when it's released?](../../../transcriptions/yt-iFAy1NZUOGU,99.44,119.72.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120
+
+
 ## June 22nd, 2018 Livestream
 * [Q&A: Plans for post-launch?](../../../transcriptions/yt-W1E6EWrAsII,120.52,176.6.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177
 

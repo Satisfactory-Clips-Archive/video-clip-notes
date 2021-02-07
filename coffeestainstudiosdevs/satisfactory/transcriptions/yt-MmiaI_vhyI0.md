@@ -4,6 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "features/buildings/space-elevator"
+    - "features/buildings/space-elevator/food-court"
     - "features/power-management/nuclear-energy/nuclear-waste"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=MmiaI_vhyI0
 ### Topics
 * [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
+* [Features > Buildings > Space Elevator > Food Court](../topics/features/buildings/space-elevator/food-court.md)
 
 ### Transcript
 

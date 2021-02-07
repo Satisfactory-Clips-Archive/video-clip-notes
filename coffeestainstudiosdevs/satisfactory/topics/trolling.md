@@ -94,6 +94,12 @@ date: Last Modified
 * [Q&A: You guys are planning a mobile port, right?](../transcriptions/yt-gxWgVKBPTtM.md) https://www.youtube.com/watch?v=gxWgVKBPTtM
 * [Jace Talk: ADA and "deez nuts"](../transcriptions/yt-5v6QGL7KBZk.md) https://www.youtube.com/watch?v=5v6QGL7KBZk
 
+## August 1st, 2018 Livestream
+* [Q&A: How much will the game cost when it's released?](../transcriptions/yt-iFAy1NZUOGU,99.44,119.72.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120
+
+* [Q&A: But... will there be Pipes?](../transcriptions/yt-iFAy1NZUOGU,275.24,323.24.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324
+
+
 ## March 9th, 2018 Livestream
 * [Q&A: Are the first two letters of your next game's title really "Sa" ?](../transcriptions/yt-Zo2ybvs7keI,344.96,382.8.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383
 

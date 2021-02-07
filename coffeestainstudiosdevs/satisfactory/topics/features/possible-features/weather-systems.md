@@ -34,3 +34,7 @@ date: Last Modified
 
 ## March 24th, 2020 Livestream
 * Q&A: When are the Wind Turbines that Jace leaked coming? https://www.youtube.com/watch?v=nRMTYlLqiSc
+
+## August 1st, 2018 Livestream
+* [Q&A: Is there Weather in the game?](../../../transcriptions/yt-iFAy1NZUOGU,58.6,60.36.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61
+

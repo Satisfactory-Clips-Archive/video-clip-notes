@@ -109,6 +109,14 @@ date: Last Modified
 * [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
 * Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
 
+## August 1st, 2018 Livestream
+* [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100
+
+* [Q&A: Did the Vehicle dev blog cover everything?](../../../transcriptions/yt-iFAy1NZUOGU,131.28,147.92.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=131&end=148
+
+* [Q&A: Won't the factory stop working if you're really far away?](../../../transcriptions/yt-iFAy1NZUOGU,170.36,188.8.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=170&end=189
+
+
 ## June 22nd, 2018 Livestream
 * [Q&A: Will there be autonomous/driveable/water vehicles?](../../../transcriptions/yt-W1E6EWrAsII,375.64,391.24.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=375&end=392
 

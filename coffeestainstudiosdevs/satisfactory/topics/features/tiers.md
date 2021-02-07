@@ -63,3 +63,7 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: I think the milestones are too cheap](../../transcriptions/yt-clmX0WGZBfg.md) https://www.youtube.com/watch?v=clmX0WGZBfg
+
+## August 1st, 2018 Livestream
+* [Q&A: Is there research or a tech tree in the game?](../../transcriptions/yt-iFAy1NZUOGU,147.92,170.36.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171
+

@@ -3,6 +3,7 @@ title: "October 6th, 2020 Livestream Jace & Snutt Talk: State of Dev"
 date: "2020-10-06"
 layout: transcript
 topics:
+    - "features/unplanned-features/microtransactions"
     - "satisfactory-updates/state-of-dev"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=qG7a8qP2x_g
 
 ### Topics
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Features > Unplanned Features > Microtransactions](../topics/features/unplanned-features/microtransactions.md)
 
 ### Transcript
 

@@ -171,6 +171,10 @@ date: Last Modified
 * [Snutt & Jace Talk: Archway Story Time](../../transcriptions/yt-5481tMGLLys.md) https://www.youtube.com/watch?v=5481tMGLLys
 * [Q&A: Are you supposed to be able to break the rocks that has a slug inside of it?](../../transcriptions/yt-SaJCkdeMMh0.md) https://www.youtube.com/watch?v=SaJCkdeMMh0
 
+## August 1st, 2018 Livestream
+* [Q&A: Won't the factory stop working if you're really far away?](../../transcriptions/yt-iFAy1NZUOGU,170.36,188.8.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=170&end=189
+
+
 ## June 22nd, 2018 Livestream
 * [Q&A: Is the Map procedurally generated?](../../transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346
 

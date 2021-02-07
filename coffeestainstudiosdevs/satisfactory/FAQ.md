@@ -1001,6 +1001,22 @@ date: Last Modified
 #### [September 22nd, 2020 Livestream](./2020-09-22.md)
 * [Q&A: Weather in Satisfactory?](./transcriptions/yt-Sxvg881RjeA.md) https://www.youtube.com/watch?v=Sxvg881RjeA
 
+### [Third-Party Service Integration](./topics/features/possible-features/third-party-service-integration.md)
+
+#### [Achievements](./topics/features/possible-features/third-party-service-integration/achievements.md)
+
+##### [November 10th, 2020 Livestream](./2020-11-10.md)
+* [Q&A: Achievements system?](./transcriptions/yt-bthe_Dhs6uo.md) https://www.youtube.com/watch?v=bthe_Dhs6uo
+
+##### [November 3rd, 2020 Livestream](./2020-11-03.md)
+* [Q&A: Are Steam Achievements going to be added in the future?](./transcriptions/yt-Gi08SVnHyLU.md) https://www.youtube.com/watch?v=Gi08SVnHyLU
+
+##### [September 29th, 2020 Livestream](./2020-09-29.md)
+* [Q&A: Give us Steam Achievements already?](./transcriptions/yt-9tNel2ksYnI.md) https://www.youtube.com/watch?v=9tNel2ksYnI
+
+##### [March 24th, 2020 Livestream](./2020-03-24.md)
+* [Q&A: Achievements?](./transcriptions/yt-G8K0Bjs8mNo.md) https://www.youtube.com/watch?v=G8K0Bjs8mNo
+
 ## [Power Management](./topics/features/power-management.md)
 
 ### [January 19th, 2021 Livestream](./2021-01-19.md)

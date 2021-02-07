@@ -18,3 +18,7 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: Are you going to add earth problems for smoke fault?](../../transcriptions/yt-AXNhZsAGM1M.md) https://www.youtube.com/watch?v=AXNhZsAGM1M
+
+## August 1st, 2018 Livestream
+* [Q&A: Will there be Pollution in the game?](../../transcriptions/yt-iFAy1NZUOGU,60.36,62.6.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=60&end=63
+

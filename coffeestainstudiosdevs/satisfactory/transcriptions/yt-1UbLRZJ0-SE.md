@@ -4,6 +4,8 @@ date: "2020-01-22"
 layout: transcript
 topics:
     - "features/buildings/awesome-store"
+    - "features/unplanned-features/loot-boxes"
+    - "features/unplanned-features/microtransactions"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
@@ -13,6 +15,8 @@ https://www.youtube.com/watch?v=1UbLRZJ0-SE
 ### Topics
 * [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Features > Unplanned Features > Loot Boxes](../topics/features/unplanned-features/loot-boxes.md)
+* [Features > Unplanned Features > Microtransactions](../topics/features/unplanned-features/microtransactions.md)
 
 ### Transcript
 

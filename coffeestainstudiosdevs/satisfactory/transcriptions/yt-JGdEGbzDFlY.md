@@ -4,6 +4,7 @@ date: "2020-12-08"
 layout: transcript
 topics:
     - "community/wiki"
+    - "features/buildings/space-elevator/food-court"
     - "features/tiers"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=JGdEGbzDFlY
 ### Topics
 * [Community > Wiki](../topics/community/wiki.md)
 * [Features > Tiers](../topics/features/tiers.md)
+* [Features > Buildings > Space Elevator > Food Court](../topics/features/buildings/space-elevator/food-court.md)
 
 ### Transcript
 

@@ -120,8 +120,10 @@ date: Last Modified
 * [DLC](./topics/features/possible-features/dlc.md)
 * [Farming](./topics/features/possible-features/farming.md)
 * [Game Modes](./topics/features/possible-features/game-modes.md)
-* [Third-Party Service Integration](./topics/features/possible-features/third-party-service-integration.md)
 * [Weather Systems](./topics/features/possible-features/weather-systems.md)
+
+### [Third-Party Service Integration](./topics/features/possible-features/third-party-service-integration.md)
+* [Achievements](./topics/features/possible-features/third-party-service-integration/achievements.md)
 
 ## [Power Management](./topics/features/power-management.md)
 * [Geothermal Energy](./topics/features/power-management/geothermal-energy.md)

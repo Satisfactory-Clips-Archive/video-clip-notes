@@ -146,6 +146,9 @@ date: Last Modified
 * [Q&A: Why is flashlight default key B and not F?](../../transcriptions/yt-StrNS8tDWV4.md) https://www.youtube.com/watch?v=StrNS8tDWV4
 * [Q&A: There is no way to hotkey items?](../../transcriptions/yt-KmX7CoVGPA0.md) https://www.youtube.com/watch?v=KmX7CoVGPA0
 
+## August 1st, 2018 Livestream
+* Q&A: Will there be a top-down view? https://www.youtube.com/watch?v=yt-iFAy1NZUOGU%2C29%2C58.6
+
 ## July 19th, 2018 Livestream
 * [Vehicle Autopilot](../../transcriptions/yt-IxoCzb2M0vQ,130.550701,249.6.md) https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=130&end=250
 

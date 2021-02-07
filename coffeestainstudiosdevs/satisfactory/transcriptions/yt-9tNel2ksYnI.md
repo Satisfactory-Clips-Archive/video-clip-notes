@@ -3,14 +3,14 @@ title: "September 29th, 2020 Livestream Q&A: Give us Steam Achievements already?
 date: "2020-09-29"
 layout: transcript
 topics:
-    - ""
+    - "features/possible-features/third-party-service-integration/achievements"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Give us Steam Achievements already?
 https://www.youtube.com/watch?v=9tNel2ksYnI
 
 ### Topics
-
+* [Features > Possible Features > Third-Party Service Integration > Achievements](../topics/features/possible-features/third-party-service-integration/achievements.md)
 
 ### Transcript
 

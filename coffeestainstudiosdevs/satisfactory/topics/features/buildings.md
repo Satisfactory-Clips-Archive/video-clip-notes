@@ -162,3 +162,9 @@ date: Last Modified
 * [Snutt Talk: Storage Containers](../../transcriptions/yt-oQfZtyxDIrE.md) https://www.youtube.com/watch?v=oQfZtyxDIrE
 * [Jace Talk: Space Elevator](../../transcriptions/yt-0P2A2UtY834.md) https://www.youtube.com/watch?v=0P2A2UtY834
 * [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../transcriptions/yt-Tit_bHzixmk.md) https://www.youtube.com/watch?v=Tit_bHzixmk
+
+## August 1st, 2018 Livestream
+* [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100
+
+* [Q&A: Is there research or a tech tree in the game?](../../transcriptions/yt-iFAy1NZUOGU,147.92,170.36.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171
+

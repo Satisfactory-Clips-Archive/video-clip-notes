@@ -3,6 +3,7 @@ title: "Third-Party Service Integration"
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Third-Party Service Integration
+* [Achievements](../../../topics/features/possible-features/third-party-service-integration/achievements.md)
 
 ## January 19th, 2021 Livestream
 * [Snutt Talk: GeForce NOW](../../../transcriptions/yt-JDXZ-q-9na0.md) https://www.youtube.com/watch?v=JDXZ-q-9na0

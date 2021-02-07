@@ -64,3 +64,7 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: Why do you guys not use the Foundations?](../../../transcriptions/yt-SjwuIUhqtM8.md) https://www.youtube.com/watch?v=SjwuIUhqtM8
+
+## August 1st, 2018 Livestream
+* [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100
+

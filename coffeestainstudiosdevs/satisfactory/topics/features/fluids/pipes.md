@@ -73,3 +73,7 @@ date: Last Modified
 
 ## December 19th, 2019 Livestream
 * [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../../transcriptions/yt-krQI-cHEAl8.md) https://www.youtube.com/watch?v=krQI-cHEAl8
+
+## August 1st, 2018 Livestream
+* [Q&A: But... will there be Pipes?](../../../transcriptions/yt-iFAy1NZUOGU,275.24,323.24.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324
+
