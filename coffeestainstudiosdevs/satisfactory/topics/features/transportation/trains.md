@@ -68,3 +68,9 @@ date: Last Modified
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0
+
+## July 19th, 2018 Livestream
+* [Tractor](../../../transcriptions/yt-IxoCzb2M0vQ,88.366511,130.550701.md) https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=88&end=131
+
+* [Train](../../../transcriptions/yt-IxoCzb2M0vQ,424.68,501.2.md) https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=424&end=502
+

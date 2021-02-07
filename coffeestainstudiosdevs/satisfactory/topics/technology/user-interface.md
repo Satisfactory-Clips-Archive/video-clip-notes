@@ -145,3 +145,7 @@ date: Last Modified
 * [Q&A: Will we ever be able to skip the Intro?](../../transcriptions/yt-t_hHHaDdJU0.md) https://www.youtube.com/watch?v=t_hHHaDdJU0
 * [Q&A: Why is flashlight default key B and not F?](../../transcriptions/yt-StrNS8tDWV4.md) https://www.youtube.com/watch?v=StrNS8tDWV4
 * [Q&A: There is no way to hotkey items?](../../transcriptions/yt-KmX7CoVGPA0.md) https://www.youtube.com/watch?v=KmX7CoVGPA0
+
+## July 19th, 2018 Livestream
+* [Vehicle Autopilot](../../transcriptions/yt-IxoCzb2M0vQ,130.550701,249.6.md) https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=130&end=250
+

@@ -79,6 +79,9 @@ date: Last Modified
 * [Q&A: Is Jace using an old soup can for a mic?](../../transcriptions/yt-kNfhYvkifNM.md) https://www.youtube.com/watch?v=kNfhYvkifNM
 * [Snutt, Simon, Jace Talk: Laughing in the office](../../transcriptions/yt-X5P9-9npJIQ.md) https://www.youtube.com/watch?v=X5P9-9npJIQ
 
+## July 19th, 2018 Livestream
+* End Tag https://www.youtube.com/watch?v=yt-IxoCzb2M0vQ%2C562.24
+
 ## March 9th, 2018 Livestream
 * [Q&A: Coffee or tea?](../../transcriptions/yt-Zo2ybvs7keI,492.44,502.32.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503
 

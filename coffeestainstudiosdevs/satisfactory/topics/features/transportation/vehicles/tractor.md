@@ -14,3 +14,7 @@ date: Last Modified
 * [Q&A: Tractor, but "Sugar Cube" is mentioned in the description?](../../../../transcriptions/yt-qvzPjISX75Y.md) https://www.youtube.com/watch?v=qvzPjISX75Y
 * [Q&A: I don't understand the autopilot for the Tractor?](../../../../transcriptions/yt-V7BwnNzG8I0.md) https://www.youtube.com/watch?v=V7BwnNzG8I0
 * [Q&A: Weirdest bug you guys fixed](../../../../transcriptions/yt-ybgZUbANGrM.md) https://www.youtube.com/watch?v=ybgZUbANGrM
+
+## July 19th, 2018 Livestream
+* [Tractor](../../../../transcriptions/yt-IxoCzb2M0vQ,88.366511,130.550701.md) https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=88&end=131
+

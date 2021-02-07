@@ -24,3 +24,9 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: Do you guys plan on adding filters to Truck Stations?](../../../../transcriptions/yt-HzaMvf15Ty8.md) https://www.youtube.com/watch?v=HzaMvf15Ty8
+
+## July 19th, 2018 Livestream
+* [Tractor](../../../../transcriptions/yt-IxoCzb2M0vQ,88.366511,130.550701.md) https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=88&end=131
+
+* [Truck](../../../../transcriptions/yt-IxoCzb2M0vQ,249.6,358.2.md) https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=249&end=359
+
