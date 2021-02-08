@@ -4,12 +4,14 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "features/buildings"
+    - "features/buildings/smelter"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will there be faster Smelter/Manufacturers?
 https://www.youtube.com/watch?v=eiGqL7qpc14
 
 ### Topics
+* [Features > Buildings > Smelter](../topics/features/buildings/smelter.md)
 * [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript

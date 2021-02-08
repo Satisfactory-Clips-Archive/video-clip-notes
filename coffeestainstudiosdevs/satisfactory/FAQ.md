@@ -558,6 +558,24 @@ date: Last Modified
 #### [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Will there be new items coming to the AWESOME Shop between now and Update 4? https://clips.twitch.tv/PerfectNurturingTrollRiPepperonis
 
+### [Biomass Burner](./topics/features/buildings/biomass-burner.md)
+
+#### [October 20th, 2020 Livestream](./2020-10-20.md)
+* [Q&A: Will there be a way to auto-feed Biomass into the generators?](./transcriptions/yt-5eQ3I4vmbZA.md) https://www.youtube.com/watch?v=5eQ3I4vmbZA
+
+### [Constructor](./topics/features/buildings/constructor.md)
+
+#### [October 6th, 2020 Livestream](./2020-10-06.md)
+* [Q&A: What is the object limit and why is it that number?](./transcriptions/yt-VpCuu0aYFw0.md) https://www.youtube.com/watch?v=VpCuu0aYFw0
+
+#### [September 22nd, 2020 Livestream](./2020-09-22.md)
+* [Q&A: What is the Object Count Limit, and how can we tell in our own game?](./transcriptions/yt-gMq-fPCqGWQ.md) https://www.youtube.com/watch?v=gMq-fPCqGWQ
+
+### [Miner](./topics/features/buildings/miner.md)
+
+#### [March 9th, 2019 Livestream](./2019-03-09.md)
+* [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](./transcriptions/yt-v4zf3_-seAg.md) https://www.youtube.com/watch?v=v4zf3_-seAg
+
 ### [Packager](./topics/features/buildings/packager.md)
 
 #### [October 27th, 2020 Livestream](./2020-10-27.md)

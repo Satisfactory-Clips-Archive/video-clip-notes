@@ -2,7 +2,7 @@
 title: "THQ Nordic"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Embracer Group > THQ Nordic
+# [Topics](../../topics.md) > [Embracer Group](../../topics/embracer-group.md) > THQ Nordic
 * [Lars](../../topics/embracer-group/thq-nordic/lars.md)
 
 ## December 25th, 2018 Livestream

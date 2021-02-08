@@ -42,6 +42,9 @@ date: Last Modified
 ## October 6th, 2020 Livestream
 * [Q&A: Will the Resource Transportation get an update?](../../transcriptions/yt-hKxm2Ps1UYY.md) https://www.youtube.com/watch?v=hKxm2Ps1UYY
 
+## September 15th, 2020 Livestream
+* [Q&A: Adjustable Scanner so when you scan for nodes it doesn't show ones that have a Miner on them.](../../transcriptions/yt-goLJr05seZs.md) https://www.youtube.com/watch?v=goLJr05seZs
+
 ## August 25th, 2020 Livestream
 * [Q&A: Will you be adding more variety of resources?](../../transcriptions/yt-wvFR-VL4nc8.md) https://www.youtube.com/watch?v=wvFR-VL4nc8
 * [Q&A: Mad Max server where someone controls all the Iron nodes?](../../transcriptions/yt-LcWR0d7elvs.md) https://www.youtube.com/watch?v=LcWR0d7elvs

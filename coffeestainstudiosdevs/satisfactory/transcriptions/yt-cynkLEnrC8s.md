@@ -4,6 +4,7 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "features/buildings"
+    - "features/buildings/constructor"
     - "mods/mods-vs-features"
     - "technology/unreal-engine"
 ---
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=cynkLEnrC8s
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > Constructor](../topics/features/buildings/constructor.md)
 
 ### Transcript
 

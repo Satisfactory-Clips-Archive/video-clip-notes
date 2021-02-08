@@ -3,6 +3,7 @@ title: "January 12th, 2021 Livestream State of Dev: Coffee Stain new office (Par
 date: "2021-01-12"
 layout: transcript
 topics:
+    - "embracer-group"
     - "satisfactory-updates/state-of-dev"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=yU3v4BNnUPU
 
 ### Topics
+* [Embracer Group](../topics/embracer-group.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

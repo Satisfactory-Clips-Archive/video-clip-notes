@@ -3,14 +3,16 @@ title: "September 15th, 2020 Livestream Q&A: Adjustable Scanner so when you scan
 date: "2020-09-15"
 layout: transcript
 topics:
-    - ""
+    - "environment/resources"
+    - "features/buildings/miner"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Adjustable Scanner so when you scan for nodes it doesn't show ones that have a Miner on them.
 https://www.youtube.com/watch?v=goLJr05seZs
 
 ### Topics
-
+* [Features > Buildings > Miner](../topics/features/buildings/miner.md)
+* [Environment > Resources](../topics/environment/resources.md)
 
 ### Transcript
 

@@ -4,6 +4,7 @@ date: "2020-09-22"
 layout: transcript
 topics:
     - "features/buildings"
+    - "features/buildings/constructor"
     - "features/unplanned-features/mass-building"
     - "technology/graphics"
     - "technology/unreal-engine"
@@ -17,6 +18,7 @@ https://www.youtube.com/watch?v=gMq-fPCqGWQ
 * [Technology > Graphics](../topics/technology/graphics.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+* [Features > Buildings > Constructor](../topics/features/buildings/constructor.md)
 
 ### Transcript
 

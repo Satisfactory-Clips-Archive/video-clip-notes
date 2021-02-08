@@ -4,6 +4,7 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "features/buildings"
+    - "features/buildings/constructor"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Alternate Buildings, like Recipes?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=ufYriERRzwc
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > Constructor](../topics/features/buildings/constructor.md)
 
 ### Transcript
 

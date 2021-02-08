@@ -4,12 +4,14 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "environment/resources"
+    - "features/buildings/miner"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are the Ore deposits infinite or do they exhaust eventually??
 https://www.youtube.com/watch?v=v4zf3_-seAg
 
 ### Topics
+* [Features > Buildings > Miner](../topics/features/buildings/miner.md)
 * [Environment > Resources](../topics/environment/resources.md)
 
 ### Transcript

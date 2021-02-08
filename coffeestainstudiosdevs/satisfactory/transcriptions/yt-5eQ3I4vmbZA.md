@@ -3,6 +3,7 @@ title: "October 20th, 2020 Livestream Q&A: Will there be a way to auto-feed Biom
 date: "2020-10-20"
 layout: transcript
 topics:
+    - "features/buildings/biomass-burner"
     - "features/power-management"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=5eQ3I4vmbZA
 
 ### Topics
+* [Features > Buildings > Biomass Burner](../topics/features/buildings/biomass-burner.md)
 * [Features > Power Management](../topics/features/power-management.md)
 
 ### Transcript

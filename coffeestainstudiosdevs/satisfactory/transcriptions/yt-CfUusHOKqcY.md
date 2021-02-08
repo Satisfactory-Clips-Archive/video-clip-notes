@@ -4,6 +4,7 @@ date: "2020-10-20"
 layout: transcript
 topics:
     - "environment/creatures/lizard-doggo"
+    - "features/buildings/biomass-burner"
     - "features/power-management"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=CfUusHOKqcY
 
 ### Topics
+* [Features > Buildings > Biomass Burner](../topics/features/buildings/biomass-burner.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Features > Power Management](../topics/features/power-management.md)
 

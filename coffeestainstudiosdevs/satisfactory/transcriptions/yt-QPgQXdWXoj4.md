@@ -3,6 +3,7 @@ title: "October 6th, 2020 Livestream Snutt Talk: Biomass / Biofuel / Handcraftin
 date: "2020-10-06"
 layout: transcript
 topics:
+    - "features/buildings/biomass-burner"
     - "features/equipment/chainsaw"
     - "features/power-management"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=QPgQXdWXoj4
 
 ### Topics
+* [Features > Buildings > Biomass Burner](../topics/features/buildings/biomass-burner.md)
 * [Features > Equipment > Chainsaw](../topics/features/equipment/chainsaw.md)
 * [Features > Power Management](../topics/features/power-management.md)
 

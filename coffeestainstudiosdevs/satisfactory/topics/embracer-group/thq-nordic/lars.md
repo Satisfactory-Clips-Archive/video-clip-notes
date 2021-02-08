@@ -2,7 +2,7 @@
 title: "Lars"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Embracer Group > [THQ Nordic](../../../topics/embracer-group/thq-nordic.md) > Lars
+# [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > [THQ Nordic](../../../topics/embracer-group/thq-nordic.md) > Lars
 
 ## December 25th, 2018 Livestream
 * Intro https://www.youtube.com/watch?v=yt-S_AKfh38880%2C%2C73.8

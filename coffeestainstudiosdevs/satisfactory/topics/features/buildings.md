@@ -54,7 +54,6 @@ date: Last Modified
 
 ## November 10th, 2020 Livestream
 * [Q&A: Can we theoretically make a Mod that reduces Constructor Object numbers?](../../transcriptions/yt-cynkLEnrC8s.md) https://www.youtube.com/watch?v=cynkLEnrC8s
-* [Q&A: Can we get Miner Mk.4?](../../transcriptions/yt-SDbdzYItJZE.md) https://www.youtube.com/watch?v=SDbdzYItJZE
 * [Q&A: Will there be faster Smelter/Manufacturers?](../../transcriptions/yt-eiGqL7qpc14.md) https://www.youtube.com/watch?v=eiGqL7qpc14
 * [Q&A: When will we implement gravity physics to the Buildings?](../../transcriptions/yt-6JFV5EAIU8U.md) https://www.youtube.com/watch?v=6JFV5EAIU8U
 * [Q&A: Need Doors before Elevators?](../../transcriptions/yt-PxNJBFSLvNc.md) https://www.youtube.com/watch?v=PxNJBFSLvNc

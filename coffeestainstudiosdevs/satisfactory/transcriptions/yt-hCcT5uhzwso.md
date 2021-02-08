@@ -5,12 +5,14 @@ layout: transcript
 topics:
     - "coffee-stainers/hannah"
     - "coffee-stainers/nathalie"
+    - "embracer-group"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"
 https://www.youtube.com/watch?v=hCcT5uhzwso
 
 ### Topics
+* [Embracer Group](../topics/embracer-group.md)
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Coffee Stainers > Nathalie](../topics/coffee-stainers/nathalie.md)
 

@@ -3,14 +3,14 @@ title: "November 10th, 2020 Livestream Q&A: Can we get Miner Mk.4?"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "features/buildings"
+    - "features/buildings/miner"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can we get Miner Mk.4?
 https://www.youtube.com/watch?v=SDbdzYItJZE
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > Miner](../topics/features/buildings/miner.md)
 
 ### Transcript
 

@@ -31,7 +31,7 @@ date: Last Modified
 * [Smerkin](./topics/community/smerkin.md)
 * [Wiki](./topics/community/wiki.md)
 
-# Embracer Group
+# [Embracer Group](./topics/embracer-group.md)
 
 ## [THQ Nordic](./topics/embracer-group/thq-nordic.md)
 * [Lars](./topics/embracer-group/thq-nordic/lars.md)
