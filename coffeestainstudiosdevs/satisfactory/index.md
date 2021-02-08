@@ -4,7 +4,6 @@ date: Last Modified
 layout: index
 ---
 # 2021
-
 ## February
 * [February 5th](2021-02-05.md)
 * [February 2nd](2021-02-02.md)
@@ -15,8 +14,8 @@ layout: index
 * [January 19th](2021-01-19.md)
 * [January 15th](2021-01-15.md)
 * [January 12th](2021-01-12.md)
-# 2020
 
+# 2020
 ## December
 * [December 15th](2020-12-15.md)
 * [December 11th](2020-12-11.md)
@@ -68,15 +67,15 @@ layout: index
 
 ## January
 * [January 22nd](2020-01-22.md)
-# 2019
 
+# 2019
 ## December
 * [December 19th](2019-12-19.md)
 
 ## March
 * [March 9th](2019-03-09.md)
-# 2018
 
+# 2018
 ## December
 * [December 25th](2018-12-25.md)
 
@@ -101,7 +100,7 @@ layout: index
 
 ## March
 * [March 9th](2018-03-09.md)
-# 2017
 
+# 2017
 ## November
 * [November 17th](2017-11-17.md)
