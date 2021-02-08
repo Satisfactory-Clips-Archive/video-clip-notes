@@ -5,6 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Creatures
 * [Crab Boss](../../topics/environment/creatures/crab-boss.md)
 * [Lizard Doggo](../../topics/environment/creatures/lizard-doggo.md)
+* [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
 ## February 2nd, 2021 Livestream

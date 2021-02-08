@@ -146,6 +146,10 @@ date: Last Modified
 * [Q&A: Why is flashlight default key B and not F?](../../transcriptions/yt-StrNS8tDWV4.md) https://www.youtube.com/watch?v=StrNS8tDWV4
 * [Q&A: There is no way to hotkey items?](../../transcriptions/yt-KmX7CoVGPA0.md) https://www.youtube.com/watch?v=KmX7CoVGPA0
 
+## November 8th, 2018 Livestream
+* [Storing some items for later](../../transcriptions/yt-J_Dznt1OG-0,568.31775,885.815429.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886
+
+
 ## August 1st, 2018 Livestream
 * Q&A: Will there be a top-down view? https://www.youtube.com/watch?v=yt-iFAy1NZUOGU%2C29%2C58.6
 

@@ -40,3 +40,15 @@ date: Last Modified
 ## December 19th, 2019 Livestream
 * [Q&A: Can we put the "Nani‽" back in?](../../transcriptions/yt-sn0yrFw_Lfw.md) https://www.youtube.com/watch?v=sn0yrFw_Lfw
 * [Q&A: Favourite problem to solve in the UI so far?](../../transcriptions/yt-cONX37SiszU.md) https://www.youtube.com/watch?v=cONX37SiszU
+
+## November 8th, 2018 Livestream
+* [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
+
+* [Smelting Iron](../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275
+
+* [Using Iron Ingots to eventually make Screws](../../transcriptions/yt-J_Dznt1OG-0,274.440833,365.9656.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366
+
+* [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516
+
+* [Reinforced Iron Plates being created](../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569
+

@@ -48,3 +48,7 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: Can chainsaw kill the Fart Flower?](../../transcriptions/yt-q07kHsvi3CU.md) https://www.youtube.com/watch?v=q07kHsvi3CU
+
+## November 8th, 2018 Livestream
+* [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
+

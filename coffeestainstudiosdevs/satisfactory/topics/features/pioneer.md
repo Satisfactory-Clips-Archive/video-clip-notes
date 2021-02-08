@@ -36,3 +36,7 @@ date: Last Modified
 
 ## May 19th, 2020 Livestream
 * [Snutt & Gafgar Talk: Zombie Pioneers](../../transcriptions/yt-90rAQ31MQPI.md) https://www.youtube.com/watch?v=90rAQ31MQPI
+
+## November 8th, 2018 Livestream
+* [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516
+

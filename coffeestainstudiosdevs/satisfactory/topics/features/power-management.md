@@ -96,3 +96,9 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: Is it possible to use powerline as zip-lines?](../../transcriptions/yt-NTeBuhOqIu0.md) https://www.youtube.com/watch?v=NTeBuhOqIu0
 * [Q&A: Will there be better power poles later on?](../../transcriptions/yt-rgIApn5PfMM.md) https://www.youtube.com/watch?v=rgIApn5PfMM
+
+## November 8th, 2018 Livestream
+* [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
+
+* [Smelting Iron](../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275
+
