@@ -79,6 +79,11 @@ date: Last Modified
 * [Q&A: Is Jace using an old soup can for a mic?](../../transcriptions/yt-kNfhYvkifNM.md) https://www.youtube.com/watch?v=kNfhYvkifNM
 * [Snutt, Simon, Jace Talk: Laughing in the office](../../transcriptions/yt-X5P9-9npJIQ.md) https://www.youtube.com/watch?v=X5P9-9npJIQ
 
+## November 23rd, 2018 Livestream
+* Intro https://www.youtube.com/watch?v=yt-1UqIDp_byFc%2C%2C36.12
+* [Jace's opinion re: THQ Nordic](../../transcriptions/yt-1UqIDp_byFc,174.32,248.62.md) https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=174&end=249
+
+
 ## July 19th, 2018 Livestream
 * End Tag https://www.youtube.com/watch?v=yt-IxoCzb2M0vQ%2C562.24
 

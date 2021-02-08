@@ -74,6 +74,7 @@ layout: index
 * [March 9th, 2019](2019-03-09.md)
 
 # November 2018
+* [November 23rd, 2018](2018-11-23.md)
 * [November 8th, 2018](2018-11-08.md)
 
 # October 2018

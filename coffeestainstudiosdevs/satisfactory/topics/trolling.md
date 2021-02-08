@@ -94,6 +94,11 @@ date: Last Modified
 * [Q&A: You guys are planning a mobile port, right?](../transcriptions/yt-gxWgVKBPTtM.md) https://www.youtube.com/watch?v=gxWgVKBPTtM
 * [Jace Talk: ADA and "deez nuts"](../transcriptions/yt-5v6QGL7KBZk.md) https://www.youtube.com/watch?v=5v6QGL7KBZk
 
+## November 23rd, 2018 Livestream
+* [Q&A: Are your games going to be full of Microtransactions now?](../transcriptions/yt-1UqIDp_byFc,88.32,103.98.md) https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=88&end=104
+
+* End Tag https://www.youtube.com/watch?v=yt-1UqIDp_byFc%2C275.2
+
 ## August 1st, 2018 Livestream
 * [Q&A: How much will the game cost when it's released?](../transcriptions/yt-iFAy1NZUOGU,99.44,119.72.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120
 

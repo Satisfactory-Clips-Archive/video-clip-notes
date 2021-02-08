@@ -31,6 +31,11 @@ date: Last Modified
 * [Smerkin](./topics/community/smerkin.md)
 * [Wiki](./topics/community/wiki.md)
 
+# Embracer Group
+
+## [THQ Nordic](./topics/embracer-group/thq-nordic.md)
+* [Lars](./topics/embracer-group/thq-nordic/lars.md)
+
 # [Environment](./topics/environment.md)
 * [Plants](./topics/environment/plants.md)
 * [Pollution](./topics/environment/pollution.md)
