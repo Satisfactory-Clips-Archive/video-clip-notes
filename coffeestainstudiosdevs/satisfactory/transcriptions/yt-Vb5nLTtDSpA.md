@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=Vb5nLTtDSpA
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

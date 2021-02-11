@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=yMTaDzjlfH0
 
 ### Topics
-* [Trolling](../topics/trolling.md)
-* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

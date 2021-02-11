@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=NUXUlt4c26k
 
 ### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
-* [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript
 

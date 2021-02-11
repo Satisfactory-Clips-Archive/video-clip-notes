@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=o-rncE3S1wA
 
 ### Topics
-* [Features > Buildings > M.A.M.](../topics/features/buildings/m-a-m.md)
 * [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
+* [Features > Buildings > M.A.M.](../topics/features/buildings/m-a-m.md)
 * [Features > Tiers](../topics/features/tiers.md)
 
 ### Transcript

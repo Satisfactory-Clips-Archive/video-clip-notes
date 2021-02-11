@@ -3,9 +3,9 @@ title: "January 19th, 2021 Livestream Q&A: My friend has a green colour preset f
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "features/paint"
     - "features/buildables/walls"
     - "features/multiplayer"
-    - "features/paint"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: My friend has a green colour preset for all walls in the world, is there a way to change this?

@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=DYy7NpZ7qYA
 
 ### Topics
 * [Environment > Resources > Oil](../topics/environment/resources/oil.md)
-* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
 
 ### Transcript
 

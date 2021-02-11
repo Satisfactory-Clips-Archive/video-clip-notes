@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=dflSu8N23a8
 
 ### Topics
+* [Features > Buildings](../topics/features/buildings.md)
 * [Features > Fluids](../topics/features/fluids.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
-* [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript
 

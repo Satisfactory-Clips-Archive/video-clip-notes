@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=IcnvCpUbTb4
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

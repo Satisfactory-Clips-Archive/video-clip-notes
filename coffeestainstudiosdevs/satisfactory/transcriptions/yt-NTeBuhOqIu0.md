@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=NTeBuhOqIu0
 
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
-* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 
 ### Transcript
 

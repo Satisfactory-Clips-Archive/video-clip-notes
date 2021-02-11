@@ -4,10 +4,10 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/speculative/satisfactory-update-5"
-    - "satisfactory-updates/state-of-dev"
     - "technology/unreal-engine"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=e-51TRYTVg8
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
-* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript
 

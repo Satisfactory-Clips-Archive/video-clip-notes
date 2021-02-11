@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=vKIeFeGPXJQ
 
 ### Topics
-* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Mods](../topics/mods.md)
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript
 

@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=I8rWTBGdGio
 
 ### Topics
 * [Community](../topics/community.md)
-* [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 
 ### Transcript

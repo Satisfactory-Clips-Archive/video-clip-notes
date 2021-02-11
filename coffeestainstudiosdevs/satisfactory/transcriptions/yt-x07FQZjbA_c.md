@@ -16,13 +16,13 @@ topics:
 https://www.youtube.com/watch?v=x07FQZjbA_c
 
 ### Topics
+* [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
 * [Environment > Resources > Steel](../topics/environment/resources/steel.md)
 * [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
-* [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 
 ### Transcript
 

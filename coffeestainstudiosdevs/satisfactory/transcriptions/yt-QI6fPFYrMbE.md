@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=QI6fPFYrMbE
 
 ### Topics
-* [Off-Topic > Semlor](../topics/off-topic/semlor.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Off-Topic](../topics/off-topic.md)
+* [Off-Topic > Semlor](../topics/off-topic/semlor.md)
 
 ### Transcript
 

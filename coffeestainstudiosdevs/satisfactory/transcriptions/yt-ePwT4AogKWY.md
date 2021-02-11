@@ -3,8 +3,8 @@ title: "February 2nd, 2021 Livestream Q&A: Will Update 4 be on Experimental or m
 date: "2021-02-02"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Will Update 4 be on Experimental or main branch?

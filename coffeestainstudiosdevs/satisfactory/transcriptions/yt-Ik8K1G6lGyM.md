@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=Ik8K1G6lGyM
 
 ### Topics
-* [Features > Buildings > Resource Well Pressurizer](../topics/features/buildings/resource-well-pressurizer.md)
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)
+* [Features > Buildings > Resource Well Pressurizer](../topics/features/buildings/resource-well-pressurizer.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

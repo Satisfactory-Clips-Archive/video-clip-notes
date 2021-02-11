@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=mnskivwMmjw
 
 ### Topics
+* [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
 * [Features > Fluids](../topics/features/fluids.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
-* [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript
 

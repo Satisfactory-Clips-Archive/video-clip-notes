@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=sY7V21IW6eE
 
 ### Topics
-* [Technology > User Interface](../topics/technology/user-interface.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

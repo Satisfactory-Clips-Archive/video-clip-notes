@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=fIb1LHQ0TJw
 
 ### Topics
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 
 ### Transcript
 

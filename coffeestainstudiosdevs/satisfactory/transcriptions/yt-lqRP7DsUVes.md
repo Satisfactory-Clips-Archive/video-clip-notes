@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=lqRP7DsUVes
 
 ### Topics
+* [Coffee Stainers](../topics/coffee-stainers.md)
+* [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Coffee Stainers > Marie](../topics/coffee-stainers/marie.md)
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
-* [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Coffee Stainers](../topics/coffee-stainers.md)
 
 ### Transcript
 

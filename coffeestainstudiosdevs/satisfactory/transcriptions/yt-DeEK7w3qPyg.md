@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=DeEK7w3qPyg
 
 ### Topics
-* [Soundtrack](../topics/soundtrack.md)
 * [Merch](../topics/merch.md)
+* [Soundtrack](../topics/soundtrack.md)
 
 ### Transcript
 

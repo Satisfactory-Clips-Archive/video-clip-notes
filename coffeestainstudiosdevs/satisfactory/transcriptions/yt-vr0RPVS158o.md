@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=vr0RPVS158o
 
 ### Topics
-* [Community](../topics/community.md)
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

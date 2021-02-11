@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=_Uf5e-J9TwA
 
 ### Topics
-* [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)
 
 ### Transcript
 

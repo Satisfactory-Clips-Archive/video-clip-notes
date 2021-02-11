@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=isSumSw8bV4
 
 ### Topics
-* [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)
 * [Features > Fluids](../topics/features/fluids.md)
-* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 
 ### Transcript
 

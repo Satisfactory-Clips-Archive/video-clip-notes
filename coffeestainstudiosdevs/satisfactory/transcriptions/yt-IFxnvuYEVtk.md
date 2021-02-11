@@ -3,9 +3,9 @@ title: "November 10th, 2020 Livestream Q&A: Does destroying all the foliage in t
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "environment/biomes"
     - "environment/plants"
     - "environment/world-map"
+    - "environment/biomes"
     - "technology/graphics"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=IFxnvuYEVtk
 
 ### Topics
-* [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > Plants](../topics/environment/plants.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Environment > Biomes](../topics/environment/biomes.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 

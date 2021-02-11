@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=v_dacWIRc1Y
 
 ### Topics
 * [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
-* [Features > Crafting](../topics/features/crafting.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Crafting](../topics/features/crafting.md)
 
 ### Transcript
 

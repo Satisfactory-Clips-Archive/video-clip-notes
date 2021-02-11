@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=RdNktCE1Pek
 
 ### Topics
-* [Technology > Physics](../topics/technology/physics.md)
 * [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
+* [Technology > Physics](../topics/technology/physics.md)
 
 ### Transcript
 

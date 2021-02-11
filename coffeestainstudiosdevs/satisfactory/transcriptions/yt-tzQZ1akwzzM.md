@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=tzQZ1akwzzM
 
 ### Topics
-* [Features > Multiplayer > Crossplay](../topics/features/multiplayer/crossplay.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Features > Multiplayer > Crossplay](../topics/features/multiplayer/crossplay.md)
 
 ### Transcript
 

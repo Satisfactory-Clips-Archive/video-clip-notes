@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=EbTEcw5zg8k
 
 ### Topics
-* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 
 ### Transcript

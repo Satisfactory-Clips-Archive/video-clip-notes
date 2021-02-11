@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=oJnzSnxlxsE
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 

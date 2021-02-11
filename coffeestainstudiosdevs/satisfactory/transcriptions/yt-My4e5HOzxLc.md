@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=My4e5HOzxLc
 
 ### Topics
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Coffee Stainers](../topics/coffee-stainers.md)
-* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 
 ### Transcript
 

@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=OI6OAux6VrM
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

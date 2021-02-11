@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=DExdQ8KOKEA
 
 ### Topics
-* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 
 ### Transcript

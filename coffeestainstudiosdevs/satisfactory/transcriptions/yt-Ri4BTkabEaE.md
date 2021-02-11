@@ -16,12 +16,12 @@ topics:
 https://www.youtube.com/watch?v=Ri4BTkabEaE
 
 ### Topics
-* [Coffee Stainers > G2](../topics/coffee-stainers/g2.md)
-* [Community](../topics/community.md)
 * [Coffee Stainers > Dylan](../topics/coffee-stainers/dylan.md)
+* [Coffee Stainers > G2](../topics/coffee-stainers/g2.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Community](../topics/community.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
 
 ### Transcript

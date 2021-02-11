@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=GluAI4ipeLY
 
 ### Topics
-* [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
 
 ### Transcript
 

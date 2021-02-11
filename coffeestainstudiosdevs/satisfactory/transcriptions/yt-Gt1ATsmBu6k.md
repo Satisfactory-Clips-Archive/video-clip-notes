@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=Gt1ATsmBu6k
 
 ### Topics
-* [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
 * [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
 
 ### Transcript
 

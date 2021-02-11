@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=6JFV5EAIU8U
 
 ### Topics
-* [Technology > Physics](../topics/technology/physics.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Technology > Physics](../topics/technology/physics.md)
 
 ### Transcript
 

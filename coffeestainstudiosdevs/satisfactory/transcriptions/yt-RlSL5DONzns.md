@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=RlSL5DONzns
 
 ### Topics
-* [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
+* [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 
 ### Transcript
 

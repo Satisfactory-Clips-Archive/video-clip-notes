@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=d8RBkY8oP1Q
 
 ### Topics
-* [Features > Tiers](../topics/features/tiers.md)
 * [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Tiers](../topics/features/tiers.md)
 
 ### Transcript
 

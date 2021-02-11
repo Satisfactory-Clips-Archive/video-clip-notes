@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=qFYvqvrAFf8
 
 ### Topics
-* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
 
 ### Transcript
 

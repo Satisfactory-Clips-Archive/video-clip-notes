@@ -13,9 +13,9 @@ topics:
 https://www.youtube.com/watch?v=X4heczNNOO8
 
 ### Topics
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
 
 ### Transcript

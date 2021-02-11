@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=rNeiGrE8ZL0
 
 ### Topics
+* [Community > Wiki](../topics/community/wiki.md)
 * [Features > Buildings > Assembler](../topics/features/buildings/assembler.md)
 * [Trolling](../topics/trolling.md)
-* [Community > Wiki](../topics/community/wiki.md)
 
 ### Transcript
 

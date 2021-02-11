@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=SG9tehaWHsE
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Community > Wiki](../topics/community/wiki.md)
+* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 
 ### Transcript
 

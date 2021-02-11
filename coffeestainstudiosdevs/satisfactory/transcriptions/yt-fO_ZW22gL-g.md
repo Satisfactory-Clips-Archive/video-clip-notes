@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=fO_ZW22gL-g
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

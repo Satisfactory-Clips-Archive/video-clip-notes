@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=0fiuHwwSrrI
 
 ### Topics
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
-* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
-* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 
 ### Transcript
 

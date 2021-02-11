@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=OS-zYJZqi-0
 
 ### Topics
-* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

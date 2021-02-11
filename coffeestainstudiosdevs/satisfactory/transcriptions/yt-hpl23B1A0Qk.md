@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=hpl23B1A0Qk
 
 ### Topics
-* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
 
 ### Transcript
 

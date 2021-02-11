@@ -13,9 +13,9 @@ topics:
 https://www.youtube.com/watch?v=1UbLRZJ0-SE
 
 ### Topics
+* [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
 * [Features > Unplanned Features > Loot Boxes](../topics/features/unplanned-features/loot-boxes.md)
 * [Features > Unplanned Features > Microtransactions](../topics/features/unplanned-features/microtransactions.md)
-* [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript

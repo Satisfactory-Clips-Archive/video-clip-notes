@@ -14,11 +14,11 @@ topics:
 https://www.youtube.com/watch?v=Z0H06UJbb4E
 
 ### Topics
-* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
-* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

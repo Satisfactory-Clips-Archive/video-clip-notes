@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=05RIKX2c9o0
 
 ### Topics
 * [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
-* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 
 ### Transcript
 

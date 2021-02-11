@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=Ggro568KcHA
 
 ### Topics
-* [Features > Tiers](../topics/features/tiers.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Features > Tiers](../topics/features/tiers.md)
 
 ### Transcript
 

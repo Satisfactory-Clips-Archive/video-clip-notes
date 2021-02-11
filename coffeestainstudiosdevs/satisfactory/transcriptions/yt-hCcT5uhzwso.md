@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=hCcT5uhzwso
 
 ### Topics
-* [Embracer Group](../topics/embracer-group.md)
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Coffee Stainers > Nathalie](../topics/coffee-stainers/nathalie.md)
+* [Embracer Group](../topics/embracer-group.md)
 
 ### Transcript
 

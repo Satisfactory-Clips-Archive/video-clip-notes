@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=5AsSss96Idw
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript
 

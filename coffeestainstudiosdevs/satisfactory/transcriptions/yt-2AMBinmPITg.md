@@ -14,9 +14,9 @@ https://www.youtube.com/watch?v=2AMBinmPITg
 
 ### Topics
 * [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript
 

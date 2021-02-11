@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=mTBx_JmNnsE
 
 ### Topics
-* [Coffee Stainers > Tim](../topics/coffee-stainers/tim.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Coffee Stainers > Tim](../topics/coffee-stainers/tim.md)
 
 ### Transcript
 

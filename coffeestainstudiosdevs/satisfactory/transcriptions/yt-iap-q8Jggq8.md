@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=iap-q8Jggq8
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 

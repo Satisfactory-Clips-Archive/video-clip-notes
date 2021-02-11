@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=twjZc7ImIts
 
 ### Topics
-* [Technology > Linux](../topics/technology/linux.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Technology > Linux](../topics/technology/linux.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

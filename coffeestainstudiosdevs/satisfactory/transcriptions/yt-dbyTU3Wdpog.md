@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=dbyTU3Wdpog
 
 ### Topics
+* [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Soundtrack](../topics/soundtrack.md)
-* [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript
 

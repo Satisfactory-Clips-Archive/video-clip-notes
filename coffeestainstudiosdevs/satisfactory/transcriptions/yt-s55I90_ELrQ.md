@@ -3,9 +3,9 @@ title: "August 25th, 2020 Livestream Q&A: Found a big pink flower thing in a cav
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "environment/creatures"
     - "environment/plants"
     - "environment/world-map"
+    - "environment/creatures"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ?
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=s55I90_ELrQ
 
 ### Topics
 * [Environment > Plants](../topics/environment/plants.md)
-* [Environment > Creatures](../topics/environment/creatures.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript
 

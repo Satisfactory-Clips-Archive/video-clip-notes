@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=D5-Y6LYR7jk
 
 ### Topics
-* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
-* [Mods](../topics/mods.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Mods](../topics/mods.md)
+* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
 
 ### Transcript
 

@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=8I6SrlovQvo
 
 ### Topics
-* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 

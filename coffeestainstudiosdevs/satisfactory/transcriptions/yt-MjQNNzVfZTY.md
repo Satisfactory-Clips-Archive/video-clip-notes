@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=MjQNNzVfZTY
 
 ### Topics
-* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 
 ### Transcript
 

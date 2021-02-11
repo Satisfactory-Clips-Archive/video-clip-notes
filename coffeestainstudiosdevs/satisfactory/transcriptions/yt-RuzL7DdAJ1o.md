@@ -3,16 +3,16 @@ title: "November 10th, 2020 Livestream Q&A: Any plans to add more animals to ene
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "environment/creatures"
     - "environment/world-map"
+    - "environment/creatures"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans to add more animals to enemies or dangers?
 https://www.youtube.com/watch?v=RuzL7DdAJ1o
 
 ### Topics
-* [Environment > Creatures](../topics/environment/creatures.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript
 

@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=lQC68q7s21c
 
 ### Topics
-* [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
-* [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
+* [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
 
 ### Transcript
 

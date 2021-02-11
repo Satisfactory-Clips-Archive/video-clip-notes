@@ -14,11 +14,11 @@ topics:
 https://www.youtube.com/watch?v=a1eSZz7wksU
 
 ### Topics
-* [Community > Josh](../topics/community/josh.md)
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Special Guests](../topics/special-guests.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Community > Josh](../topics/community/josh.md)
 * [Off-Topic](../topics/off-topic.md)
+* [Special Guests](../topics/special-guests.md)
 
 ### Transcript
 

@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=3s-PKymQ9QU
 
 ### Topics
-* [Features > Unplanned Features > VR](../topics/features/unplanned-features/vr.md)
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Unplanned Features > VR](../topics/features/unplanned-features/vr.md)
 
 ### Transcript
 

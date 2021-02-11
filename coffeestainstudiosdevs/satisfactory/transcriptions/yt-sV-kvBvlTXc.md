@@ -3,16 +3,16 @@ title: "January 26th, 2021 Livestream Q&A: Is there another area rework like the
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "environment/biomes"
     - "environment/world-map"
+    - "environment/biomes"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Is there another area rework like the desert update happening?
 https://www.youtube.com/watch?v=sV-kvBvlTXc
 
 ### Topics
-* [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Environment > Biomes](../topics/environment/biomes.md)
 
 ### Transcript
 

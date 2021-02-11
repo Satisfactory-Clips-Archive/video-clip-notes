@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=7HtEV_DVbgw
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

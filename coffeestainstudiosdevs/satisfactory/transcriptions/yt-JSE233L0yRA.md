@@ -13,8 +13,8 @@ topics:
 https://www.youtube.com/watch?v=JSE233L0yRA
 
 ### Topics
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
 

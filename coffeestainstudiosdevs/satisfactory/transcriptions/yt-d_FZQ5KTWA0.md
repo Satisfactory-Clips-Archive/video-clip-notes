@@ -17,14 +17,14 @@ topics:
 https://www.youtube.com/watch?v=d_FZQ5KTWA0
 
 ### Topics
-* [Community](../topics/community.md)
 * [Coffee Stainers > Tim](../topics/coffee-stainers/tim.md)
+* [Community](../topics/community.md)
 * [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
+* [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
-* [Features > Transportation > Trains](../topics/features/transportation/trains.md)
-* [Features > Multiplayer](../topics/features/multiplayer.md)
 
 ### Transcript
 

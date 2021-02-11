@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=cH3ityZn8E4
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Features > Tiers](../topics/features/tiers.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Features > Tiers](../topics/features/tiers.md)
 
 ### Transcript
 

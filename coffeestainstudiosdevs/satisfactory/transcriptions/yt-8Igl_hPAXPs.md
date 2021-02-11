@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=8Igl_hPAXPs
 
 ### Topics
-* [Story & Lore > Characters > Steve](../topics/story-lore/characters/steve.md)
-* [Story & Lore > Characters > Caterina Parks](../topics/story-lore/characters/caterina-parks.md)
-* [Story & Lore > Characters > ADA](../topics/story-lore/characters/ada.md)
 * [Story & Lore](../topics/story-lore.md)
+* [Story & Lore > Characters > ADA](../topics/story-lore/characters/ada.md)
+* [Story & Lore > Characters > Caterina Parks](../topics/story-lore/characters/caterina-parks.md)
+* [Story & Lore > Characters > Steve](../topics/story-lore/characters/steve.md)
 
 ### Transcript
 

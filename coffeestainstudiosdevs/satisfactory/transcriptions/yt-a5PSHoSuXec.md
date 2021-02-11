@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=a5PSHoSuXec
 
 ### Topics
-* [Mods](../topics/mods.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Mods](../topics/mods.md)
 
 ### Transcript
 

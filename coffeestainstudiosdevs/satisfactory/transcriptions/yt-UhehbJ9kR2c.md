@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=UhehbJ9kR2c
 
 ### Topics
-* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 

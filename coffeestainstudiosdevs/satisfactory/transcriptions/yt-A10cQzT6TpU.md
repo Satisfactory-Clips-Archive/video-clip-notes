@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=A10cQzT6TpU
 
 ### Topics
-* [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
 
 ### Transcript
 

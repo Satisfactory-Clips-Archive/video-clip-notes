@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=vvRPYyc7sb8
 
 ### Topics
-* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 
 ### Transcript
 

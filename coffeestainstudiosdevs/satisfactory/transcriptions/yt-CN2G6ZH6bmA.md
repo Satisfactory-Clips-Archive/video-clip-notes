@@ -14,11 +14,11 @@ topics:
 https://www.youtube.com/watch?v=CN2G6ZH6bmA
 
 ### Topics
-* [Features > Transportation > Hyper Tubes](../topics/features/transportation/hyper-tubes.md)
-* [Features > Power Management > Geothermal Energy](../topics/features/power-management/geothermal-energy.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Features > Power Management > Geothermal Energy](../topics/features/power-management/geothermal-energy.md)
+* [Features > Transportation > Hyper Tubes](../topics/features/transportation/hyper-tubes.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

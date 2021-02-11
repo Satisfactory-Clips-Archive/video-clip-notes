@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=v4zf3_-seAg
 
 ### Topics
-* [Features > Buildings > Miner](../topics/features/buildings/miner.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Buildings > Miner](../topics/features/buildings/miner.md)
 
 ### Transcript
 

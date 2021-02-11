@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=dj20zgoTvA0
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

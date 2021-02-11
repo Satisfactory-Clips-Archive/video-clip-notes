@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=5481tMGLLys
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 
 ### Transcript
 

@@ -14,10 +14,10 @@ topics:
 https://www.youtube.com/watch?v=Kk0ULnBXeXE
 
 ### Topics
-* [Features > Buildings > Resource Well Pressurizer](../topics/features/buildings/resource-well-pressurizer.md)
-* [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)
 * [Features > Buildings > Blender](../topics/features/buildings/blender.md)
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)
+* [Features > Buildings > Resource Well Pressurizer](../topics/features/buildings/resource-well-pressurizer.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

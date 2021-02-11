@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=N4JpnY4zy70
 
 ### Topics
-* [Coffee Stainers > G2](../topics/coffee-stainers/g2.md)
 * [Coffee Stainers](../topics/coffee-stainers.md)
+* [Coffee Stainers > G2](../topics/coffee-stainers/g2.md)
 
 ### Transcript
 

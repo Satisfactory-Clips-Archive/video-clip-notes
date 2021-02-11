@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=YPWIkvRbeHI
 
 ### Topics
-* [Technology](../topics/technology.md)
 * [Coffee Stainers > Ben](../topics/coffee-stainers/ben.md)
+* [Technology](../topics/technology.md)
 
 ### Transcript
 

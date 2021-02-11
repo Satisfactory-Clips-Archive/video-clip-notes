@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=MhIaB4UPEP4
 
 ### Topics
-* [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
 * [Community](../topics/community.md)
-* [Trolling](../topics/trolling.md)
+* [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

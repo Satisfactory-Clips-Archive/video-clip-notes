@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=Gt9an2au_YU
 
 ### Topics
-* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
 ### Transcript
 

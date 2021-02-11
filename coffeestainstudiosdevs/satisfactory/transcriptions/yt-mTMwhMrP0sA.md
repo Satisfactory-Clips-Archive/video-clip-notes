@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=mTMwhMrP0sA
 
 ### Topics
-* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
 ### Transcript
 

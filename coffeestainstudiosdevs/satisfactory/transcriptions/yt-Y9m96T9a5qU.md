@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=Y9m96T9a5qU
 
 ### Topics
-* [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
+* [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
 
 ### Transcript
 

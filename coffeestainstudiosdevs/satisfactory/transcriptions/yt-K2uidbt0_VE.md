@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: Will Gas packaging happen in the Pack
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/buildings/packager"
     - "features/gases"
+    - "features/buildings/packager"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)

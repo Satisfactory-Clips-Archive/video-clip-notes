@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=7EM97GvjRGY
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Story & Lore](../topics/story-lore.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

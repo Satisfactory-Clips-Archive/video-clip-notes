@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=g6B1-vYXXd0
 
 ### Topics
-* [Technology > Linux](../topics/technology/linux.md)
 * [Coffee Stainers > Dylan](../topics/coffee-stainers/dylan.md)
+* [Technology > Linux](../topics/technology/linux.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

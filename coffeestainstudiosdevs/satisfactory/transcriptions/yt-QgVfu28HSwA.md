@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=QgVfu28HSwA
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

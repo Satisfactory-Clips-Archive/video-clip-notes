@@ -21,10 +21,10 @@ https://www.youtube.com/watch?v=2LczuvKevK4
 * [Features > Tiers > Tier 0](../topics/features/tiers/tier-0.md)
 * [Features > Tiers > Tier 1](../topics/features/tiers/tier-1.md)
 * [Features > Tiers > Tier 2](../topics/features/tiers/tier-2.md)
+* [Features > Tiers > Tier 3](../topics/features/tiers/tier-3.md)
+* [Features > Tiers > Tier 4](../topics/features/tiers/tier-4.md)
 * [Features > Tiers > Tier 5](../topics/features/tiers/tier-5.md)
 * [Features > Tiers > Tier 6](../topics/features/tiers/tier-6.md)
-* [Features > Tiers > Tier 4](../topics/features/tiers/tier-4.md)
-* [Features > Tiers > Tier 3](../topics/features/tiers/tier-3.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 

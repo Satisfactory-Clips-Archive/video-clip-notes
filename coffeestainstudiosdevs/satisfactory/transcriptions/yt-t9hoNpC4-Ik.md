@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=t9hoNpC4-Ik
 
 ### Topics
-* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript
 

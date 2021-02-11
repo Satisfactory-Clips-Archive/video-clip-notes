@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=fmE3DQFeVGk
 
 ### Topics
-* [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
 * [Features > Crafting > Superposition Oscillator](../topics/features/crafting/superposition-oscillator.md)
+* [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=03J8nqdJCtY
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
-* [Mods](../topics/mods.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Mods](../topics/mods.md)
 
 ### Transcript
 

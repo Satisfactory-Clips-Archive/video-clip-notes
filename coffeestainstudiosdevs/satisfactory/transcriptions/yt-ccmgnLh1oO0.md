@@ -14,9 +14,9 @@ topics:
 https://www.youtube.com/watch?v=ccmgnLh1oO0
 
 ### Topics
-* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
+* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Story & Lore](../topics/story-lore.md)
 

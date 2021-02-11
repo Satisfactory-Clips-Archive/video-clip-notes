@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=0M3RKdwK5mA
 
 ### Topics
-* [Mods > Official Mod Support > Steam Workshop](../topics/mods/official-mod-support/steam-workshop.md)
 * [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
+* [Mods > Official Mod Support > Steam Workshop](../topics/mods/official-mod-support/steam-workshop.md)
 
 ### Transcript
 

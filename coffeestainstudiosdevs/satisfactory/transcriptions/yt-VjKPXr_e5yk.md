@@ -3,16 +3,16 @@ title: "January 19th, 2021 Livestream Q&A: What about the island off to the west
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "environment/biomes"
     - "environment/world-map"
+    - "environment/biomes"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: What about the island off to the west of the Map?
 https://www.youtube.com/watch?v=VjKPXr_e5yk
 
 ### Topics
-* [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Environment > Biomes](../topics/environment/biomes.md)
 
 ### Transcript
 

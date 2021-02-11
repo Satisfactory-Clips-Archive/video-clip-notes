@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=cWHt7D471vI
 
 ### Topics
-* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
 * [Off-Topic](../topics/off-topic.md)
+* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
 
 ### Transcript
 

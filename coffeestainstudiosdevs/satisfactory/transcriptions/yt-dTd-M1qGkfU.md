@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=dTd-M1qGkfU
 
 ### Topics
-* [Environment > Pollution](../topics/environment/pollution.md)
 * [Environment > Plants](../topics/environment/plants.md)
+* [Environment > Pollution](../topics/environment/pollution.md)
 * [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
 
 ### Transcript

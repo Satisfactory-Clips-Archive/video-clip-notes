@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=wN7_0V9lRfk
 
 ### Topics
-* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Features > Crafting](../topics/features/crafting.md)
+* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

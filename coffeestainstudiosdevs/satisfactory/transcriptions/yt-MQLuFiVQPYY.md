@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=MQLuFiVQPYY
 
 ### Topics
 * [Community](../topics/community.md)
-* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
 ### Transcript
 

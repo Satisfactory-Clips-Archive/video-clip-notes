@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=HtKqSryNU88
 
 ### Topics
-* [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
 * [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
+* [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
 
 ### Transcript
 

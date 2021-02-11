@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=WTfWu44SQ1k
 
 ### Topics
+* [Features > Power Management](../topics/features/power-management.md)
 * [Features > Power Management > Geothermal Energy](../topics/features/power-management/geothermal-energy.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
-* [Features > Power Management](../topics/features/power-management.md)
 
 ### Transcript
 

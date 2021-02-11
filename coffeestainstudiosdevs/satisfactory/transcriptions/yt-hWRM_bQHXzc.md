@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=hWRM_bQHXzc
 
 ### Topics
-* [Technology > User Interface](../topics/technology/user-interface.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

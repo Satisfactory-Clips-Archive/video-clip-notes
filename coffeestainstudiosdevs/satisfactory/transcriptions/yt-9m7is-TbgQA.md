@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=9m7is-TbgQA
 
 ### Topics
-* [Off-Topic > Semlor](../topics/off-topic/semlor.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Off-Topic > Semlor](../topics/off-topic/semlor.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript

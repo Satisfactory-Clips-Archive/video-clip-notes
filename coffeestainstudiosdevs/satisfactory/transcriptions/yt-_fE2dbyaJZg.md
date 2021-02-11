@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=_fE2dbyaJZg
 
 ### Topics
-* [Features > Unplanned Features > Terraforming](../topics/features/unplanned-features/terraforming.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Unplanned Features > Terraforming](../topics/features/unplanned-features/terraforming.md)
 
 ### Transcript
 

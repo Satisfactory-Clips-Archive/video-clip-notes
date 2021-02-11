@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=7U9JUf9NUYQ
 
 ### Topics
-* [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
 * [Features > Buildings > Blender](../topics/features/buildings/blender.md)
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
 
 ### Transcript
 

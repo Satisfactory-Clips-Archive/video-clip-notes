@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=02Zb5q8Zm5s
 
 ### Topics
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 * [Off-Topic > The Cycle](../topics/off-topic/the-cycle.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 
 ### Transcript
 

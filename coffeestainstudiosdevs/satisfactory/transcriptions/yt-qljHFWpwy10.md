@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=qljHFWpwy10
 
 ### Topics
-* [Features > Unplanned Features > Space Exploration](../topics/features/unplanned-features/space-exploration.md)
 * [Features > Possible Features > Farming](../topics/features/possible-features/farming.md)
+* [Features > Unplanned Features > Space Exploration](../topics/features/unplanned-features/space-exploration.md)
 
 ### Transcript
 

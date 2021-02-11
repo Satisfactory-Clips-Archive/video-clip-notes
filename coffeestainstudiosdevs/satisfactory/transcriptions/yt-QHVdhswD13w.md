@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=QHVdhswD13w
 
 ### Topics
-* [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 
 ### Transcript
 

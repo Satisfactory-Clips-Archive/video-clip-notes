@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=Xi9S_sVklB8
 
 ### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
-* [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript
 

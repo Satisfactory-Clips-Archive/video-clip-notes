@@ -4,8 +4,8 @@ date: "2021-02-02"
 layout: transcript
 topics:
     - "features/equipment/zip-lines"
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/state-of-dev"
+    - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## State of Dev: We leaked Zip Lines

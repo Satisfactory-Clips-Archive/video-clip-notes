@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=P7R2hxi19pM
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

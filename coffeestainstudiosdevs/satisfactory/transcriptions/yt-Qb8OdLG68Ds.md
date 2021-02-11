@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=Qb8OdLG68Ds
 
 ### Topics
-* [Mods](../topics/mods.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Mods](../topics/mods.md)
 
 ### Transcript
 

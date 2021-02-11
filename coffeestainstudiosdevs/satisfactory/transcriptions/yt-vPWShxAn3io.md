@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=vPWShxAn3io
 
 ### Topics
-* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
+* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
 * [Story & Lore](../topics/story-lore.md)
 
 ### Transcript

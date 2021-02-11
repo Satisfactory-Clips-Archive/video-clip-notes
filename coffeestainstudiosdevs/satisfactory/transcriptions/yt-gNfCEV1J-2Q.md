@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=gNfCEV1J-2Q
 
 ### Topics
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
 
 ### Transcript
 

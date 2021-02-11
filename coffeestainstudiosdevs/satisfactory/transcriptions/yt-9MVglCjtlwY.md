@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=9MVglCjtlwY
 
 ### Topics
-* [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 
 ### Transcript
 

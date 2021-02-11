@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=SeVhrl1YXto
 
 ### Topics
-* [Technology](../topics/technology.md)
 * [Coffee Stainers > Dylan](../topics/coffee-stainers/dylan.md)
+* [Technology](../topics/technology.md)
 
 ### Transcript
 

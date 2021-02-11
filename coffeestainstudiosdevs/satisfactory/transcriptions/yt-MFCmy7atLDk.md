@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=MFCmy7atLDk
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=ycNS0lA5JWc
 
 ### Topics
-* [Community](../topics/community.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=ow_LpyvCnVo
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

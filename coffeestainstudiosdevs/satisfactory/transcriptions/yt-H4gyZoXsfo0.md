@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=H4gyZoXsfo0
 
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
-* [Trolling](../topics/trolling.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

@@ -4,16 +4,16 @@ date: "2020-06-08"
 layout: transcript
 topics:
     - "features/fluids/pipes"
-    - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/released/satisfactory-update-3"
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Are there any plans for Pipes in general?
 https://www.youtube.com/watch?v=1LQhTjYMptc
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript

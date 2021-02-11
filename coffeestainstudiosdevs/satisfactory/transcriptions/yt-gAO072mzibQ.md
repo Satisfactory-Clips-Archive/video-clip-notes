@@ -14,11 +14,11 @@ topics:
 https://www.youtube.com/watch?v=gAO072mzibQ
 
 ### Topics
+* [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Coffee Stainers > Neshkor](../topics/coffee-stainers/neshkor.md)
 * [Coffee Stainers > Ros](../topics/coffee-stainers/ros.md)
-* [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript
 

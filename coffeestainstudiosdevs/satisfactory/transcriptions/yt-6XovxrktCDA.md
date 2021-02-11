@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=6XovxrktCDA
 
 ### Topics
-* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Satisfactory Updates > Seasonal Events](../topics/satisfactory-updates/seasonal-events.md)
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
 ### Transcript
 

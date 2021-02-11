@@ -14,10 +14,10 @@ topics:
 https://www.youtube.com/watch?v=3gFgrVEkOpc
 
 ### Topics
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
 * [Off-Topic](../topics/off-topic.md)
 
 ### Transcript

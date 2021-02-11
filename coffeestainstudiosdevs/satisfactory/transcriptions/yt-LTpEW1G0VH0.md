@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=LTpEW1G0VH0
 
 ### Topics
-* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
 
 ### Transcript
 

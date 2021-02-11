@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=Yhtu3NBv2NM
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Equipment](../topics/features/equipment.md)
 
 ### Transcript
 

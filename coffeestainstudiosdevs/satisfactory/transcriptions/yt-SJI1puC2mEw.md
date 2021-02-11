@@ -13,9 +13,9 @@ topics:
 https://www.youtube.com/watch?v=SJI1puC2mEw
 
 ### Topics
-* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript

@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=PdnkUetagWM
 
 ### Topics
-* [Features > Tiers > Tier 9](../topics/features/tiers/tier-9.md)
-* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Features > Tiers](../topics/features/tiers.md)
+* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
+* [Features > Tiers > Tier 9](../topics/features/tiers/tier-9.md)
 
 ### Transcript
 

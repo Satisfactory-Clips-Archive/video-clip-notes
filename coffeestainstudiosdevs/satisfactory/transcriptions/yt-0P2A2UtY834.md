@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=0P2A2UtY834
 
 ### Topics
-* [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
 
 ### Transcript
 

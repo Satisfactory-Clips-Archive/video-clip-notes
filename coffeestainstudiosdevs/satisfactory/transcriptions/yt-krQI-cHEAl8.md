@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=krQI-cHEAl8
 
 ### Topics
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 
 ### Transcript

@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=zGH69_aSwwk
 
 ### Topics
-* [Technology > User Interface](../topics/technology/user-interface.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

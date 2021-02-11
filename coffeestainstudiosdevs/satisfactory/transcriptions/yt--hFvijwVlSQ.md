@@ -13,9 +13,9 @@ topics:
 https://www.youtube.com/watch?v=-hFvijwVlSQ
 
 ### Topics
-* [Features > Fluids > Pumps](../topics/features/fluids/pumps.md)
-* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Crafting](../topics/features/crafting.md)
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Features > Fluids > Pumps](../topics/features/fluids/pumps.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

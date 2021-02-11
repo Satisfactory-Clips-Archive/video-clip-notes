@@ -14,9 +14,9 @@ topics:
 https://www.youtube.com/watch?v=0JyFVACOZ-E
 
 ### Topics
+* [Features > Buildings](../topics/features/buildings.md)
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
 * [Features > Fluids](../topics/features/fluids.md)
-* [Features > Buildings](../topics/features/buildings.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 

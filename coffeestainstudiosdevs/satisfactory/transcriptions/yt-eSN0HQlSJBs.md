@@ -4,8 +4,8 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "features/fluids/pipes"
-    - "satisfactory-updates/pending/satisfactory-1-0"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/pending/satisfactory-1-0"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=eSN0HQlSJBs
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
-* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript
 

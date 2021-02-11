@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=OnK4DcHAB4o
 
 ### Topics
-* [Features > Crafting](../topics/features/crafting.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Crafting](../topics/features/crafting.md)
 
 ### Transcript
 

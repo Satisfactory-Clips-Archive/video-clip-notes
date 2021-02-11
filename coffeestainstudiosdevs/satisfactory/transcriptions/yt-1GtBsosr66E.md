@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=1GtBsosr66E
 ### Topics
 * [Community > Josh](../topics/community/josh.md)
 * [Community > Joshie](../topics/community/joshie.md)
-* [Special Guests](../topics/special-guests.md)
 * [Off-Topic](../topics/off-topic.md)
+* [Special Guests](../topics/special-guests.md)
 
 ### Transcript
 

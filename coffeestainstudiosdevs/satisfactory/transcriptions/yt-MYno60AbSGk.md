@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=MYno60AbSGk
 
 ### Topics
-* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
-* [Mods](../topics/mods.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Mods](../topics/mods.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 
 ### Transcript
 

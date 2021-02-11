@@ -14,9 +14,9 @@ https://www.youtube.com/watch?v=y8FchPasYvI
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Trolling](../topics/trolling.md)
-* [Story & Lore](../topics/story-lore.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Story & Lore](../topics/story-lore.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

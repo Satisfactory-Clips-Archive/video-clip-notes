@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=wuimxgd7c_A
 
 ### Topics
-* [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
 
 ### Transcript
 

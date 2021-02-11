@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=2BJzwTVi_Ww
 
 ### Topics
-* [Features > Fluids > Pumps](../topics/features/fluids/pumps.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Features > Fluids > Pumps](../topics/features/fluids/pumps.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript

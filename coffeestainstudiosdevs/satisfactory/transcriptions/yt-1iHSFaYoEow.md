@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=1iHSFaYoEow
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

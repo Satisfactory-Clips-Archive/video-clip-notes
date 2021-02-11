@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=_4_umuhMFK8
 
 ### Topics
-* [Community](../topics/community.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Community](../topics/community.md)
 
 ### Transcript
 

@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=mvkDIjW-NDs
 
 ### Topics
-* [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
 
 ### Transcript
 

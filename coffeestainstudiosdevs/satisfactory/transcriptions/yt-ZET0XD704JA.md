@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=ZET0XD704JA
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
 * [Merch](../topics/merch.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

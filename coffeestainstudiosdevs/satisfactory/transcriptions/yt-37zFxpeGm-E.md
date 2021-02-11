@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=37zFxpeGm-E
 
 ### Topics
-* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
 
 ### Transcript
 

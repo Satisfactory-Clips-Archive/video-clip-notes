@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=PD79jEZuOAU
 
 ### Topics
-* [Mods](../topics/mods.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Mods](../topics/mods.md)
 
 ### Transcript
 

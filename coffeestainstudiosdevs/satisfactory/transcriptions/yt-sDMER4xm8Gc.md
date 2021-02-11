@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=sDMER4xm8Gc
 
 ### Topics
-* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Merch](../topics/merch.md)
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript
 

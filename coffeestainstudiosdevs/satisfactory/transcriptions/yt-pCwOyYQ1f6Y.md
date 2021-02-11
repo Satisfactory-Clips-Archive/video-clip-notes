@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=pCwOyYQ1f6Y
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
-* [Story & Lore](../topics/story-lore.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Buildings](../topics/features/buildings.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

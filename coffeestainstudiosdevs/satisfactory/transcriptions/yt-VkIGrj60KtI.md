@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=VkIGrj60KtI
 
 ### Topics
 * [Coffee Stainers > Dylan](../topics/coffee-stainers/dylan.md)
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 
 ### Transcript
 

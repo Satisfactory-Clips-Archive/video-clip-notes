@@ -13,9 +13,9 @@ topics:
 https://www.youtube.com/watch?v=-AjFbGOOAQI
 
 ### Topics
-* [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
-* [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
+* [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
+* [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript

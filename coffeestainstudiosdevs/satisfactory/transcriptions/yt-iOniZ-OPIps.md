@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=iOniZ-OPIps
 
 ### Topics
-* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Mods](../topics/mods.md)
+* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 
 ### Transcript
 

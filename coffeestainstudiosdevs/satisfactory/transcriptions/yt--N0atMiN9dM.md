@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=-N0atMiN9dM
 
 ### Topics
-* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

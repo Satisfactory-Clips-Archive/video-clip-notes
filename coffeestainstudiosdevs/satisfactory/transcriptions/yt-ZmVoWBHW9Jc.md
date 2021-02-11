@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=ZmVoWBHW9Jc
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Equipment](../topics/features/equipment.md)
 
 ### Transcript
 

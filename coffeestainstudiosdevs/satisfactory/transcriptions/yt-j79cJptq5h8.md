@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=j79cJptq5h8
 
 ### Topics
+* [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > AWESOME Sink](../topics/features/buildings/awesome-sink.md)
 * [Features > Fluids](../topics/features/fluids.md)
-* [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript
 

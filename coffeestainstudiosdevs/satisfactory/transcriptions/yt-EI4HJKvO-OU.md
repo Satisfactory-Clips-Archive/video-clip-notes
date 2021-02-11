@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=EI4HJKvO-OU
 
 ### Topics
-* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 * [Environment > Pollution](../topics/environment/pollution.md)
-* [Features > Buildings](../topics/features/buildings.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 

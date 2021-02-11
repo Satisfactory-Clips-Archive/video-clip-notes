@@ -13,9 +13,9 @@ topics:
 https://www.youtube.com/watch?v=tmuvsaAsm-c
 
 ### Topics
-* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
-* [Features > Buildings > Blender](../topics/features/buildings/blender.md)
 * [Coffee Stainers > Tim](../topics/coffee-stainers/tim.md)
+* [Features > Buildings > Blender](../topics/features/buildings/blender.md)
+* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

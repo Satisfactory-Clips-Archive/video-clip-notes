@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=TbPMkoLwW4U
 
 ### Topics
+* [Features > Multiplayer](../topics/features/multiplayer.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
-* [Features > Multiplayer](../topics/features/multiplayer.md)
 
 ### Transcript
 

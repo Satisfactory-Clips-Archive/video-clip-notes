@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=X2A_DOO7O4c
 
 ### Topics
-* [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)
-* [Trolling](../topics/trolling.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

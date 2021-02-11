@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=3d5h-Okw-uU
 
 ### Topics
-* [Technology > Linux](../topics/technology/linux.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Technology > Linux](../topics/technology/linux.md)
 
 ### Transcript
 

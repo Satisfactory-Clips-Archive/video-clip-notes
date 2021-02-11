@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=lVjzwGuhM5I
 
 ### Topics
-* [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 
 ### Transcript
 

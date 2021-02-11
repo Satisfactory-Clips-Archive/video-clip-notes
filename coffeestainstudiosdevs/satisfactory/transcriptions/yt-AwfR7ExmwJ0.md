@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=AwfR7ExmwJ0
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
 
 ### Transcript
 

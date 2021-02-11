@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=T2MEOzplmSQ
 
 ### Topics
-* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 * [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)
+* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
 ### Transcript
 

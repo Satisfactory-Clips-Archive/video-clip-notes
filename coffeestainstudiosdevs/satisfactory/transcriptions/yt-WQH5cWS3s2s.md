@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=WQH5cWS3s2s
 
 ### Topics
-* [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Coffee Stainers](../topics/coffee-stainers.md)
+* [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript

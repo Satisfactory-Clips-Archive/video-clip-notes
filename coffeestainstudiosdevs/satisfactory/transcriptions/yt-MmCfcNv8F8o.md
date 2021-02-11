@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=MmCfcNv8F8o
 
 ### Topics
-* [Features > Power Management > Geothermal Energy](../topics/features/power-management/geothermal-energy.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Features > Power Management > Geothermal Energy](../topics/features/power-management/geothermal-energy.md)
 
 ### Transcript
 

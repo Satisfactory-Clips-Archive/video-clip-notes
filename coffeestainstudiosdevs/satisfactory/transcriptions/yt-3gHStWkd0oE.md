@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: Will Gases affect health or hurt you 
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/equipment"
     - "features/gases"
+    - "features/equipment"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)

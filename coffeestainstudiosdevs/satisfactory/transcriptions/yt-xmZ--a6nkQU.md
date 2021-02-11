@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=xmZ--a6nkQU
 
 ### Topics
-* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 
 ### Transcript
 

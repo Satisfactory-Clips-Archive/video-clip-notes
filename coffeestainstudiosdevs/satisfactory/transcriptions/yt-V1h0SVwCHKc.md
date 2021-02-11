@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=V1h0SVwCHKc
 
 ### Topics
-* [Features > Possible Features > Farming](../topics/features/possible-features/farming.md)
 * [Environment > Plants](../topics/environment/plants.md)
+* [Features > Possible Features > Farming](../topics/features/possible-features/farming.md)
 * [Features > Power Management](../topics/features/power-management.md)
 
 ### Transcript

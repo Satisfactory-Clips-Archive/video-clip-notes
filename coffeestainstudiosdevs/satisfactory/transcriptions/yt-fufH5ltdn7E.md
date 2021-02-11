@@ -13,9 +13,9 @@ topics:
 https://www.youtube.com/watch?v=fufH5ltdn7E
 
 ### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
-* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

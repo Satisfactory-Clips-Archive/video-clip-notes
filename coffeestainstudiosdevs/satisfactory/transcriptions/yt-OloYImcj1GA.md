@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=OloYImcj1GA
 
 ### Topics
-* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
 * [Localisation](../topics/localisation.md)
+* [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
 
 ### Transcript
 

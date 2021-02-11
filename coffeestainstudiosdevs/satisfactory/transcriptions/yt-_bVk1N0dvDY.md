@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=_bVk1N0dvDY
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Trolling](../topics/trolling.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

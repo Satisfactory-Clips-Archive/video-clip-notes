@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=VLvqacnnn5c
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript
 

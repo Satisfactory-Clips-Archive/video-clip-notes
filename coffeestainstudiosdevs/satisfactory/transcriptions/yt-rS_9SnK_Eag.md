@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=rS_9SnK_Eag
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

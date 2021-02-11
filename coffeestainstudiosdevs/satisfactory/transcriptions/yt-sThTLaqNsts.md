@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=sThTLaqNsts
 
 ### Topics
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Transportation > Vehicles > Factory Cart](../topics/features/transportation/vehicles/factory-cart.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
-* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 
 ### Transcript
 

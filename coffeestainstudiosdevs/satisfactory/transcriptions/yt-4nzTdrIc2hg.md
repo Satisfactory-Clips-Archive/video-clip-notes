@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=4nzTdrIc2hg
 
 ### Topics
+* [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Unplanned Features > Terraforming](../topics/features/unplanned-features/terraforming.md)
 * [Mods](../topics/mods.md)
-* [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript
 

@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=nI5VJXbiGJw
 
 ### Topics
-* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
-* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Fluids](../topics/features/fluids.md)
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Off-Topic > Factorio](../topics/off-topic/factorio.md)
 
 ### Transcript
 

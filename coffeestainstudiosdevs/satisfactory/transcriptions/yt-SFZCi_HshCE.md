@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=SFZCi_HshCE
 
 ### Topics
-* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Merch](../topics/merch.md)
 
 ### Transcript

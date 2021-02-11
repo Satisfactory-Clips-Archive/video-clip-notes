@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=8MbgpOLyXyY
 
 ### Topics
-* [Technology](../topics/technology.md)
 * [Coffee Stainers > Ben](../topics/coffee-stainers/ben.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Technology](../topics/technology.md)
 
 ### Transcript
 

@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=pTg32vCi8_Y
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript
 

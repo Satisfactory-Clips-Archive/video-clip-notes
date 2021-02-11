@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=U8qgrw_iVLU
 
 ### Topics
-* [Features > Photo Mode](../topics/features/photo-mode.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Photo Mode](../topics/features/photo-mode.md)
 
 ### Transcript
 

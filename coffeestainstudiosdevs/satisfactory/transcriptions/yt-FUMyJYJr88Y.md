@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=FUMyJYJr88Y
 
 ### Topics
-* [Off-Topic > Deep Rock Galactic](../topics/off-topic/deep-rock-galactic.md)
-* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
+* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Off-Topic > Deep Rock Galactic](../topics/off-topic/deep-rock-galactic.md)
 
 ### Transcript
 

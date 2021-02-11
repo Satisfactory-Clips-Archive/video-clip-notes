@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=4f7KWwnXhoU
 
 ### Topics
-* [Technology > Linux](../topics/technology/linux.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Technology > Linux](../topics/technology/linux.md)
 
 ### Transcript
 

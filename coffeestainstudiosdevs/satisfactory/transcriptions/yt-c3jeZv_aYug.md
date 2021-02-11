@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=c3jeZv_aYug
 
 ### Topics
-* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
+* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 
 ### Transcript
 

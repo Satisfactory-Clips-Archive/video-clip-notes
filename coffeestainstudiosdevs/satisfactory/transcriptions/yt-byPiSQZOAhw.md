@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=byPiSQZOAhw
 
 ### Topics
-* [Features > Gases](../topics/features/gases.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Gases](../topics/features/gases.md)
 
 ### Transcript
 

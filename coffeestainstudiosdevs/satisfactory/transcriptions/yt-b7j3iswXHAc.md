@@ -3,8 +3,8 @@ title: "January 26th, 2021 Livestream Q&A: Any chance on updating level-of-detai
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "features/buildables/walls"
     - "features/paint"
+    - "features/buildables/walls"
     - "technology/graphics"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)

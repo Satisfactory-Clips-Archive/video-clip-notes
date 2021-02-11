@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=-uJ6AqPZy0U
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

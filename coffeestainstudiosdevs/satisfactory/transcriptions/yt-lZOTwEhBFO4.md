@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=lZOTwEhBFO4
 
 ### Topics
-* [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
 
 ### Transcript
 

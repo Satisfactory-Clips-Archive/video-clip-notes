@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=t6WEYv_TLDI
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
 * [Story & Lore](../topics/story-lore.md)
+* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 

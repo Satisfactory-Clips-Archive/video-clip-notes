@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=PCQ64Q_sx90
 
 ### Topics
-* [Technology](../topics/technology.md)
 * [Coffee Stainers > Dylan](../topics/coffee-stainers/dylan.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Technology](../topics/technology.md)
 
 ### Transcript
 

@@ -3,16 +3,16 @@ title: "August 25th, 2020 Livestream Q&A: There's a smaller pink jelly above the
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "environment/creatures"
     - "environment/world-map"
+    - "environment/creatures"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: There's a smaller pink jelly above the pillar in the sky too?
 https://www.youtube.com/watch?v=wWVbIS8jgy8
 
 ### Topics
-* [Environment > Creatures](../topics/environment/creatures.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript
 

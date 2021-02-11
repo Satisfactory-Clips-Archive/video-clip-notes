@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=KKtqXo-Zzqo
 
 ### Topics
+* [Environment > Creatures](../topics/environment/creatures.md)
 * [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
 * [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
-* [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript
 

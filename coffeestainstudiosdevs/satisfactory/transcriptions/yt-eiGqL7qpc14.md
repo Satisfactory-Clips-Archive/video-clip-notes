@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=eiGqL7qpc14
 
 ### Topics
-* [Features > Buildings > Smelter](../topics/features/buildings/smelter.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > Smelter](../topics/features/buildings/smelter.md)
 
 ### Transcript
 

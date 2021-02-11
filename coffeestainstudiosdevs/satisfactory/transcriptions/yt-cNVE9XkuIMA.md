@@ -13,10 +13,10 @@ topics:
 https://www.youtube.com/watch?v=cNVE9XkuIMA
 
 ### Topics
-* [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
-* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
-* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript
 

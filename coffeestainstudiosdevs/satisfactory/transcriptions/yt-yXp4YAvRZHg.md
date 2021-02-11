@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=yXp4YAvRZHg
 
 ### Topics
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
 * [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [Trolling](../topics/trolling.md)
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
 
 ### Transcript
 

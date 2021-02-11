@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=5vlFsF0dm3E
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 

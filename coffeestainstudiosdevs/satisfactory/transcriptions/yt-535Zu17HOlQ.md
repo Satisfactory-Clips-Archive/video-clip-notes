@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=535Zu17HOlQ
 
 ### Topics
-* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 * [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
 * [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
+* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
 ### Transcript
 

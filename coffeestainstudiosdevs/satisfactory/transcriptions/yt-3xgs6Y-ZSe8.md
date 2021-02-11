@@ -16,11 +16,11 @@ https://www.youtube.com/watch?v=3xgs6Y-ZSe8
 
 ### Topics
 * [Environment](../topics/environment.md)
-* [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
-* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript
 

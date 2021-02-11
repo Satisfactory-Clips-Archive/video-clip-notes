@@ -3,8 +3,8 @@ title: "December 8th, 2020 Livestream State of Dev: Update 4"
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/state-of-dev"
+    - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## State of Dev: Update 4

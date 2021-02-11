@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=sAS09ChPivY
 
 ### Topics
-* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Features > Accessibility](../topics/features/accessibility.md)
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript
 

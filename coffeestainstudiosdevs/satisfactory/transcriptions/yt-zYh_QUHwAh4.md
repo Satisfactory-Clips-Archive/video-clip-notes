@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=zYh_QUHwAh4
 
 ### Topics
-* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
+* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

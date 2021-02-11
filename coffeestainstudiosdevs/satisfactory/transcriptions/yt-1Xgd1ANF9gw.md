@@ -13,9 +13,9 @@ topics:
 https://www.youtube.com/watch?v=1Xgd1ANF9gw
 
 ### Topics
-* [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
-* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
+* [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
+* [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

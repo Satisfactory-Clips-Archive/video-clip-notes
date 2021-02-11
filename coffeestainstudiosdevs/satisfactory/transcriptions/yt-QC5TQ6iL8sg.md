@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=QC5TQ6iL8sg
 
 ### Topics
-* [Off-Topic > Infinifactory](../topics/off-topic/infinifactory.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Off-Topic > Infinifactory](../topics/off-topic/infinifactory.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

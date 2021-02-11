@@ -3,16 +3,16 @@ title: "January 22nd, 2020 Livestream State of Dev: Update 3 Play Testing"
 date: "2020-01-22"
 layout: transcript
 topics:
-    - "satisfactory-updates/released/satisfactory-update-3"
     - "satisfactory-updates/state-of-dev"
+    - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## State of Dev: Update 3 Play Testing
 https://www.youtube.com/watch?v=pi4rCVbiq14
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript
 

@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=woqoPQxH1aQ
 
 ### Topics
-* [Trolling](../topics/trolling.md)
 * [Features > Possible Features > Character Customisation](../topics/features/possible-features/character-customisation.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

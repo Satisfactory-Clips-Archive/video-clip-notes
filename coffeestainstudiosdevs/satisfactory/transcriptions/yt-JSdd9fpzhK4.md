@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=JSdd9fpzhK4
 
 ### Topics
-* [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
 * [Features > Buildables > Ladders](../topics/features/buildables/ladders.md)
+* [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

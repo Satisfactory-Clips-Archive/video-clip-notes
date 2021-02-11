@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=GZlK2fIlYVk
 
 ### Topics
-* [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
 
 ### Transcript
 

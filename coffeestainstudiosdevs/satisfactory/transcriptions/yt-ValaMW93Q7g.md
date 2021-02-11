@@ -12,9 +12,9 @@ topics:
 https://www.youtube.com/watch?v=ValaMW93Q7g
 
 ### Topics
+* [Features > Buildings](../topics/features/buildings.md)
 * [Features > Crafting](../topics/features/crafting.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
-* [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript
 

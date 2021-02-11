@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=_IL63Q90d1k
 
 ### Topics
-* [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
 
 ### Transcript
 

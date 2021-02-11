@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=l26WNbPPzzI
 
 ### Topics
-* [Technology](../topics/technology.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Technology](../topics/technology.md)
 
 ### Transcript
 

@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=UxW9nGO9Ius
 
 ### Topics
-* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 
 ### Transcript
 

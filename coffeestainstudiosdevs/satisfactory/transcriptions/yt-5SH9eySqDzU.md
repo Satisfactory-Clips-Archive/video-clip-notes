@@ -6,8 +6,8 @@ topics:
     - "features/planned-features/lights"
     - "features/unplanned-features/aerial-travel"
     - "features/unplanned-features/procedural-generation"
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/state-of-dev"
+    - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: State of things = 🤷?
@@ -15,9 +15,9 @@ https://www.youtube.com/watch?v=5SH9eySqDzU
 
 ### Topics
 * [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 * [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
-* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

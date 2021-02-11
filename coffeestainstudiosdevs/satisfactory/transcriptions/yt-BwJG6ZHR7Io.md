@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=BwJG6ZHR7Io
 
 ### Topics
-* [Satisfactory Updates > Released > Satisfactory Update 2](../topics/satisfactory-updates/released/satisfactory-update-2.md)
 * [Coffee Stainers](../topics/coffee-stainers.md)
+* [Satisfactory Updates > Released > Satisfactory Update 2](../topics/satisfactory-updates/released/satisfactory-update-2.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript

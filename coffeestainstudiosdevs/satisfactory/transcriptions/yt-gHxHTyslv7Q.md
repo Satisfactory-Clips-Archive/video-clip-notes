@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=gHxHTyslv7Q
 
 ### Topics
-* [Off-Topic > Semlor](../topics/off-topic/semlor.md)
 * [Community](../topics/community.md)
+* [Off-Topic > Semlor](../topics/off-topic/semlor.md)
 
 ### Transcript
 

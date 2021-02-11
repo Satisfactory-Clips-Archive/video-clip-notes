@@ -11,8 +11,8 @@ topics:
 https://www.youtube.com/watch?v=CIk2IbhBuCA
 
 ### Topics
-* [Technology > User Interface](../topics/technology/user-interface.md)
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

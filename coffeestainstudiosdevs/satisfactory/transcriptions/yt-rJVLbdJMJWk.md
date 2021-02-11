@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=rJVLbdJMJWk
 
 ### Topics
-* [Features > Save System > Cloud Sync](../topics/features/save-system/cloud-sync.md)
 * [Features > Save System](../topics/features/save-system.md)
+* [Features > Save System > Cloud Sync](../topics/features/save-system/cloud-sync.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript
