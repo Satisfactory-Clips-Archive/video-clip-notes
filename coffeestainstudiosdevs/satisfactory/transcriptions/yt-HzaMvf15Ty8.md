@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=HzaMvf15Ty8
 ### Transcript
 
 > on do you guys plan on adding filters to
-> 
+>
 > truck stations
-> 
+>
 > i don't know maybe
-> 
+>

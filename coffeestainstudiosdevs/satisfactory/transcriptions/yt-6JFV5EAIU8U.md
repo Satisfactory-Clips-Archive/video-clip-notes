@@ -17,48 +17,48 @@ https://www.youtube.com/watch?v=6JFV5EAIU8U
 ### Transcript
 
 > when will we implement gravity physics
-> 
+>
 > to the buildings
-> 
+>
 > um so we we yeah i don't think we're
-> 
+>
 > gonna add it right but
-> 
+>
 > like we did play around with the idea of
-> 
+>
 > um support
-> 
+>
 > like structures and like strength and
-> 
+>
 > stuff so you have to support your
-> 
+>
 > buildings
-> 
+>
 > otherwise they'll fall or crumbling down
-> 
+>
 > uh i think we prototyped it and then we
-> 
+>
 > didn't like it i'm pretty sure that was
-> 
+>
 > how that went down
-> 
+>
 > and then we aren't doing it now um
-> 
+>
 > it would definitely be satisfying to
-> 
+>
 > just like
-> 
+>
 > remove some foundations and watch your
-> 
+>
 > factory fault of that would be
-> 
+>
 > pretty fun yeah but that would also be a
-> 
-> 
-> 
+>
+>
+>
 > simulation nightmare in the current
-> 
+>
 > state of
-> 
+>
 > yeah yeah performance
-> 
+>

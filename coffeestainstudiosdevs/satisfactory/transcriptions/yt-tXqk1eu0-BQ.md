@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=tXqk1eu0-BQ
 ### Transcript
 
 > uh what's the secret behind sam
-> 
+>
 > orr can you clue us in uh sam orr is
-> 
+>
 > an ore that is used in the game
-> 
+>
 > it will be story related it will be
-> 
+>
 > story related
-> 
+>
 > and i actually have no idea exactly i
-> 
+>
 > will tie in
-> 
+>

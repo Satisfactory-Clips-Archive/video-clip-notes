@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=Jyh3gpkd4LY
 ### Transcript
 
 > let's setting winter when is the update
-> 
+>
 > releasing in early access the plan is
-> 
+>
 > next week
-> 
+>
 > yep yep the plan is next week
-> 
+>

@@ -15,34 +15,34 @@ https://www.youtube.com/watch?v=KM5WVEA9CDs
 ### Transcript
 
 > do i still do uh coding in my spare time
-> 
+>
 > no i actually don't um but i am still
-> 
+>
 > kind of doing i'm actually i actually
-> 
+>
 > did programming today
-> 
+>
 > um because i'm doing custom stuff for
-> 
+>
 > our teaser that's coming up
-> 
+>
 > the coming week not the
-> 
+>
 > next week but the week after that i'm
-> 
+>
 > doing a little bit of a special thing
-> 
+>
 > there's special little guys he sounds
-> 
+>
 > really excited about it
-> 
+>
 > i have no idea what it is dude he gets
-> 
+>
 > he gets hype every day about it
-> 
+>
 > oh i'm so hyped for it though it's
-> 
+>
 > actually really funny
-> 
+>
 > i can't wait to to release that teaser
-> 
+>

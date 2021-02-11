@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=k6ZS5wzlNKs
 ### Transcript
 
 > is the sink going to accept liquids in
-> 
+>
 > the future
-> 
+>
 > good question i don't know maybe
-> 
+>

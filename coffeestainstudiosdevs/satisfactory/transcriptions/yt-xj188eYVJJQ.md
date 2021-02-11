@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=xj188eYVJJQ
 ### Transcript
 
 > the end so
-> 
+>
 > will there be new music in the future
-> 
+>
 > yes
-> 
+>

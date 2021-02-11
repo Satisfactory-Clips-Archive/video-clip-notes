@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=Ov7_XZoduDQ
 ### Transcript
 
 > the future any chance of blade status
-> 
+>
 > background n64
-> 
+>
 > yes we are no but oya i know oya was
-> 
+>
 > just like
-> 
+>
 > killed off or whatever like the support
-> 
+>
 > for it but yeah totally oya
-> 
+>
 > expect that
-> 
+>
 > you
-> 
+>

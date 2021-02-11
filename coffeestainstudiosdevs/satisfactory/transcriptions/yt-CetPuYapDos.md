@@ -15,284 +15,284 @@ https://www.youtube.com/watch?v=CetPuYapDos
 ### Transcript
 
 > um as turkish players we
-> 
+>
 > very much want to have our own sections
-> 
+>
 > on the forum discord we cannot
-> 
+>
 > understand the english sections and we
-> 
+>
 > cannot interact with turkish players
-> 
+>
 > uh yeah i've got this couple times
-> 
+>
 > specifically from turkish players and
-> 
+>
 > not really from anyone else actually
-> 
+>
 > it's kind of that's
-> 
+>
 > happened but a few more yeah but the
-> 
+>
 > thing is it's not possible uh we can't
-> 
+>
 > do that
-> 
+>
 > um the reason is like one thing is we're
-> 
+>
 > verified
-> 
+>
 > we've got a verified discord channel
-> 
+>
 > which means we're responsible for
-> 
+>
 > maintaining the terms of service
-> 
+>
 > on the channel and so the first thing is
-> 
+>
 > if we have a turkish section or a french
-> 
+>
 > section or whatever language
-> 
+>
 > um we won't be able to moderate that now
-> 
+>
 > you could say well get
-> 
+>
 > turkish-speaking moderators and yeah
-> 
+>
 > that would work
-> 
+>
 > and that would actually work but then
-> 
+>
 > the problem there is
-> 
+>
 > the french folks want the french section
-> 
+>
 > germans folk want german
-> 
+>
 > russians want russian the japanese want
-> 
+>
 > japanese koreans want korean
-> 
+>
 > like then what do we do spanish want
-> 
+>
 > spanish like
-> 
+>
 > what do we do we can't do that the loop
-> 
+>
 > of like having moderators on
-> 
+>
 > 24 7 so to speak because we have our
-> 
+>
 > mother is right now
-> 
+>
 > our place like all over the world so we
-> 
+>
 > do have an eye on the discord
-> 
+>
 > like all the time whereas if you have a
-> 
+>
 > turkish section
-> 
+>
 > we need to have people be able to do
-> 
+>
 > that so it's also complicated that way
-> 
+>
 > so one thing that we kind of recommend
-> 
+>
 > but it's like it's tricky like i would
-> 
+>
 > love this issue to be solved
-> 
+>
 > but it's it's really tricky and one
-> 
+>
 > thing we sort of encourage and some
-> 
+>
 > folks have done it
-> 
+>
 > is to create your own discord and try
-> 
+>
 > and start something there
-> 
+>
 > within the turkish or whatever language
-> 
+>
 > community
-> 
+>
 > uh and hope hopefully you can build
-> 
+>
 > something there where you can hang out
-> 
+>
 > and talk
-> 
+>
 > now the weird thing there is it would be
-> 
+>
 > really nice
-> 
+>
 > to me is if you did that that we could
-> 
+>
 > promote your discord and say
-> 
+>
 > there's a turkish-speaking one or a
-> 
+>
 > french-speaking one over here and try
-> 
+>
 > and redirect people to your discord
-> 
+>
 > but then the same problem occurs where
-> 
+>
 > we're
-> 
+>
 > a verified channel and if we're
-> 
+>
 > recommending
-> 
+>
 > another discord and i don't know some
-> 
+>
 > people are like hyper racist or like
-> 
+>
 > disgusting or sharing like
-> 
+>
 > inappropriate things then we're in a way
-> 
+>
 > responsible for promoting it it's it's
-> 
+>
 > tough like
-> 
+>
 > it's something we've thought about and
-> 
+>
 > don't yet have a solution for
-> 
+>
 > there's also the aspect that like there
-> 
+>
 > are for instance many french discourse
-> 
+>
 > satisfactory discords
-> 
+>
 > but that's the problem there are many
-> 
+>
 > french discords so like which one do we
-> 
+>
 > promote do we promote all the french
-> 
+>
 > discord so do we promote
-> 
+>
 > the most popular one like it's it's a
-> 
+>
 > it's a complex
-> 
+>
 > situation don't forget our norwegian
-> 
+>
 > section because you don't understand the
-> 
+>
 > quack of
-> 
+>
 > your swedes is what your swedes are
-> 
+>
 > saying in english
-> 
+>
 > um that's very funny uh is chinese
-> 
+>
 > someone said something
-> 
+>
 > is chinese the most speaking spoken
-> 
+>
 > language i actually don't have the stats
-> 
+>
 > on that it would be really good if we
-> 
+>
 > had stats on that
-> 
+>
 > um but maybe there's a lot of chinese
-> 
+>
 > speaking folks as well yeah so like same
-> 
+>
 > kind of thing
-> 
+>
 > for all major languages i don't like
-> 
+>
 > that idea so much though like
-> 
+>
 > yeah we could do that but define major
-> 
+>
 > language like we've got a turkish
-> 
+>
 > person here just suggesting and asking
-> 
+>
 > for that now
-> 
+>
 > and turkish is not a major language
-> 
+>
 > within the scope of the game or audience
-> 
+>
 > like i'm
-> 
+>
 > not saying turkish isn't important but
-> 
+>
 > you know and i and i
-> 
+>
 > i i really feel bad about that um
-> 
+>
 > i i don't i don't want to dis
-> 
+>
 > i don't want to dismiss any region or
-> 
+>
 > language
-> 
+>
 > because it's smaller i like i really
-> 
+>
 > don't like that but it's
-> 
+>
 > really hard to not do that or solve
-> 
+>
 > yeah it is a bummer because like it's
-> 
+>
 > the same way goes for like content
-> 
+>
 > creators and like anyone really in the
-> 
+>
 > community that's not
-> 
+>
 > spoken english because like that's how
-> 
+>
 > we interface with
-> 
+>
 > with our community and like the only way
-> 
+>
 > we really can integrate with people is
-> 
+>
 > be
-> 
+>
 > because of our language viruses like we
-> 
+>
 > speak english and we speak
-> 
+>
 > like swedish but that's pretty much
-> 
+>
 > where we stop like australian
-> 
+>
 > yeah again so they also said
-> 
+>
 > uh i also encountered racism on the rest
-> 
+>
 > of the discord twice
-> 
+>
 > only because i'm turkish you shouldn't
-> 
+>
 > be getting
-> 
+>
 > that treatment at all and if you are
-> 
+>
 > that is that is an issue and they should
-> 
+>
 > be punisher should be handled
-> 
+>
 > uh in that case please contact the mods
-> 
+>
 > and let them know what's happening so
-> 
+>
 > they can sort of review and look into it
-> 
+>
 > because that's not appropriate at all
-> 
+>
 > we do look into that yeah
-> 
+>

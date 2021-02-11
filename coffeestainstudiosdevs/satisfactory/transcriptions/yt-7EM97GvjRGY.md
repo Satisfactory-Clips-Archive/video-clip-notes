@@ -19,12 +19,12 @@ https://www.youtube.com/watch?v=7EM97GvjRGY
 ### Transcript
 
 > will you guys be hiding more stuff
-> 
+>
 > throughout the world for the story mode
-> 
+>
 > i believe so
-> 
+>
 > hannah hannah is mischievous she does
-> 
+>
 > stuff
-> 
+>

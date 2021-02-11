@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=B5cAjdFTltY
 ### Transcript
 
 > think that's unlikely and while we're on
-> 
+>
 > the topic of the map i also saw a
-> 
+>
 > question about
-> 
+>
 > terraforming which is also something
-> 
+>
 > that definitely is not happening
-> 
+>
 > [Music]
-> 
+>
 > the game is not built for it essentially
-> 
+>

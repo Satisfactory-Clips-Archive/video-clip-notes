@@ -19,12 +19,12 @@ https://www.youtube.com/watch?v=YNogQuanQlc
 ### Transcript
 
 > are we going to be able to get the space
-> 
+>
 > elevated food court
-> 
+>
 > not in update four um i think i think
-> 
+>
 > that's later
-> 
+>
 > later down the line
-> 
+>

@@ -19,10 +19,10 @@ https://www.youtube.com/watch?v=e4iY6zivsbU
 ### Transcript
 
 > explosive barrels of gas we can send
-> 
+>
 > through the railguns
-> 
+>
 > calm down satan
-> 
+>
 > holy
-> 
+>

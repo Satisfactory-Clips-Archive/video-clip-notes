@@ -17,6 +17,6 @@ https://www.youtube.com/watch?v=qL6dp9eUB58
 ### Transcript
 
 > coming i don't know when is satisfactory
-> 
+>
 > coming to engage next week
-> 
+>

@@ -17,6 +17,6 @@ https://www.youtube.com/watch?v=eoMeAy8w2Fs
 ### Transcript
 
 > do this yeah what gender is the
-> 
+>
 > character model it is female yes
-> 
+>

@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=ithVAX7EptE
 ### Transcript
 
 > micro transaction dlc
-> 
+>
 > you know what
-> 
+>

@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=PqnjFtF-VEc
 ### Transcript
 
 > and these headphones are sennheisers
-> 
+>
 > that was yeah i have uh
-> 
+>
 > i realized i'm not on video anymore so
-> 
+>
 > maybe you saw them earlier
-> 
+>
 > my dynamic
-> 
+>

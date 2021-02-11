@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=_MGUbEI247M
 ### Transcript
 
 > we want to do will you create console
-> 
+>
 > version satisfactory answered that one
-> 
+>
 > before
-> 
+>
 > don't know is the answer
-> 
+>

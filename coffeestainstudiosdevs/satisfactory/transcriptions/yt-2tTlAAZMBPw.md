@@ -19,16 +19,16 @@ https://www.youtube.com/watch?v=2tTlAAZMBPw
 ### Transcript
 
 > [Music]
-> 
+>
 > yeah yeah
-> 
+>
 > [Music]
-> 
+>
 > we're helpful on stream when no one's
-> 
+>
 > when a lot of people are watching but as
-> 
+>
 > soon as we start working again we're
-> 
+>
 > [ __ ]
-> 
+>

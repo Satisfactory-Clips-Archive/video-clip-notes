@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=6r-s6Hk7QwY
 ### Transcript
 
 > so people asking about sam or top secret
-> 
+>
 > you can stop asking about some more now
-> 
+>

@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=2Cq3xmLN8sQ
 ### Transcript
 
 > don't know berry farming we've talked
-> 
+>
 > about farming
-> 
+>
 > uh and we love the idea and it also
-> 
+>
 > makes sense for the game
-> 
+>
 > so maybe
-> 
+>

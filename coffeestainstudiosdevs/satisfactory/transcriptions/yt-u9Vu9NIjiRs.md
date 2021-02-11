@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=u9Vu9NIjiRs
 ### Transcript
 
 > in the top left yeah that is the alpha
-> 
+>
 > version that's correct
-> 
+>
 > thanks thanks for telling me i'll just
-> 
+>
 > sign the alpha
-> 
+>

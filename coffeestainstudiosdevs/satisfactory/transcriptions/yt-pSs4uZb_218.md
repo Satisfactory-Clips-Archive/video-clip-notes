@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=pSs4uZb_218
 ### Transcript
 
 > when comes update four uh beginning of
-> 
+>
 > 2021 yes sir next year
-> 
+>
 > almost got it right
-> 
+>

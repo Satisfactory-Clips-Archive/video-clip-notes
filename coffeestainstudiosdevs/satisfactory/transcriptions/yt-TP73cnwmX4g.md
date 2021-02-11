@@ -15,24 +15,24 @@ https://www.youtube.com/watch?v=TP73cnwmX4g
 ### Transcript
 
 > that's all you're going to get uh do you
-> 
+>
 > have any involvement in the
-> 
+>
 > developments of valham no we don't we're
-> 
+>
 > not the studio so iron gate studios are
-> 
+>
 > the ones
-> 
+>
 > or you can talk to the publishers which
-> 
+>
 > is coffee stain publishing which is not
-> 
+>
 > us
-> 
+>
 > we are coffee stain studios a
-> 
+>
 > development studio
-> 
+>
 > we aren't the publishers
-> 
+>

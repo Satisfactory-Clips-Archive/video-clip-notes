@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=AEd2Rt5VDfk
 ### Transcript
 
 > [Music]
-> 
+>
 > are you going to add the ability to
-> 
+>
 > raise lower parts of the landscape we
-> 
+>
 > did not plan on that normal planet
-> 
+>
 > easy exploit and explore yeah
-> 
+>

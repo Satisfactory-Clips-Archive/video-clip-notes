@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=ZUAoFCpE1vY
 ### Transcript
 
 > do you not think refineries are overused
-> 
+>
 > [Music]
-> 
+>
 > not impossible um those are all part of
-> 
+>
 > the balancing thing
-> 
+>
 > um with the game
-> 
+>
 > and it's possible that will change but i
-> 
+>
 > don't know
-> 
+>

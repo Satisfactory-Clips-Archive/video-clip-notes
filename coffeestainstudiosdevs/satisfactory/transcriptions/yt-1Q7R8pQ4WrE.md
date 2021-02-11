@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=1Q7R8pQ4WrE
 ### Transcript
 
 > it's terrible do you earn money with the
-> 
+>
 > keys sold on third-party sites so only
-> 
+>
 > with the purchase of steering epic steam
-> 
+>
 > and epic i don't think we are
-> 
+>
 > we are not sold on third-party sites if
-> 
+>
 > you're buying keys from those folks then
-> 
+>
 > they're getting them without
-> 
+>
 > being less than legally yes
-> 
+>

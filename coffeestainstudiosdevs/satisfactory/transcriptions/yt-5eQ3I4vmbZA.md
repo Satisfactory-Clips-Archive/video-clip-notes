@@ -17,14 +17,14 @@ https://www.youtube.com/watch?v=5eQ3I4vmbZA
 ### Transcript
 
 > least will there be a way to auto feed
-> 
+>
 > biomass into the generators i don't
-> 
+>
 > think so
-> 
+>
 > um because that's the point of the
-> 
+>
 > generation like you're supposed to feel
-> 
+>
 > annoying you don't want to use them
-> 
+>

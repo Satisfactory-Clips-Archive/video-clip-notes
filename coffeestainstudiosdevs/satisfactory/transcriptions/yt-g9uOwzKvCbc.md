@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=g9uOwzKvCbc
 ### Transcript
 
 > can i choose the gender and customize
-> 
+>
 > that my character you cannot at the
-> 
+>
 > moment
-> 
+>
 > we considered customization like things
-> 
+>
 > like um
-> 
+>
 > color and whatnot but we don't really
-> 
+>
 > know right now
-> 
+>

@@ -15,20 +15,20 @@ https://www.youtube.com/watch?v=KzQ1E8V06zA
 ### Transcript
 
 > refiners take up so much space that is
-> 
+>
 > 100 true they do take up a little space
-> 
+>
 > they're also kind of hard to stack you
-> 
+>
 > know
-> 
+>
 > they're very tall as well it's kind of
-> 
+>
 > finicky to like if you
-> 
+>
 > to get like the excess materials out or
-> 
+>
 > whatever like with the pipes and whatnot
-> 
+>
 > it's kind of tricky
-> 
+>

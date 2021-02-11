@@ -17,20 +17,20 @@ https://www.youtube.com/watch?v=sdo0vTu0RoE
 ### Transcript
 
 > replication graph
-> 
+>
 > that sounds familiar to my crash good
-> 
+>
 > well joshie
-> 
+>
 > don't worry about it sounds like you
-> 
+>
 > need to report a bug questions on
-> 
+>
 > satisfactory game
-> 
+>
 > if it's a crash you don't need to report
-> 
+>
 > anything you just need to send hit send
-> 
+>
 > on the crush reporter
-> 
+>

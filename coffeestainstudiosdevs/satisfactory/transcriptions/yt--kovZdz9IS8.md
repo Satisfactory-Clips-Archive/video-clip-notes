@@ -15,28 +15,28 @@ https://www.youtube.com/watch?v=-kovZdz9IS8
 ### Transcript
 
 > arachnophobia mode is scary in the sp
-> 
+>
 > actual spiders we'll just leave the
-> 
+>
 > spiders on then
-> 
+>
 > bam easy um i think jace talked about
-> 
+>
 > this last week that uh
-> 
+>
 > he had some ideas on how to like make
-> 
+>
 > his
-> 
+>
 > decent places but there are mods where
-> 
+>
 > you can replace the the sprite
-> 
+>
 > that replaces the cats in the game
-> 
+>
 > um
-> 
+>
 > so uh maybe that happens i don't know
-> 
+>
 > what the status of that is
-> 
+>

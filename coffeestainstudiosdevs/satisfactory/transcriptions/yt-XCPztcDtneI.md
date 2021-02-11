@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=XCPztcDtneI
 ### Transcript
 
 > ladders mark two if you want mark two
-> 
+>
 > letters
-> 
+>
 > ladders never heard of it are we adding
-> 
+>
 > lattice to the game
-> 
+>
 > yeah that's the only thing people care
-> 
+>
 > about i think
-> 
+>

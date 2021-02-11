@@ -17,14 +17,14 @@ https://www.youtube.com/watch?v=qO1Zl01HfqU
 ### Transcript
 
 > farming would be cool
-> 
+>
 > farming would be cool uh something that
-> 
+>
 > um we've
-> 
+>
 > we think is pretty good might happen at
-> 
+>
 > some point actually army
-> 
+>
 > to some degree but uh yeah
-> 
+>

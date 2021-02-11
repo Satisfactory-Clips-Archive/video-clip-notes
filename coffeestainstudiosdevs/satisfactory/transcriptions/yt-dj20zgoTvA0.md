@@ -19,8 +19,8 @@ https://www.youtube.com/watch?v=dj20zgoTvA0
 ### Transcript
 
 > simon simon's dead he run out of alpha
-> 
+>
 > keys
-> 
+>
 > maybe yeah too bad
-> 
+>

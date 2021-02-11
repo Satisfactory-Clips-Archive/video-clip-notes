@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=QViQ--AWYjY
 ### Transcript
 
 > thing does the game get a deeper story
-> 
+>
 > yes it's gonna have like a full story
-> 
+>
 > and you can finish the games that's
-> 
+>
 > gonna
-> 
+>
 > that's gonna happen at some point
-> 
+>

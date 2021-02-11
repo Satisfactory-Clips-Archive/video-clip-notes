@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=UYJHOPt6tTw
 ### Transcript
 
 > the factors continue to run when
-> 
+>
 > no players are logged into a dedicated
-> 
+>
 > server i assume so it should
-> 
+>
 > yeah that should be the case
-> 
+>

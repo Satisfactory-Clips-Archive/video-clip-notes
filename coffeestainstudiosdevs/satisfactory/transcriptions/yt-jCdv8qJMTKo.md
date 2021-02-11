@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=jCdv8qJMTKo
 ### Transcript
 
 > know when 1.0 is when is satisfactory
-> 
+>
 > two coming out
-> 
+>
 > you just gave me a heart attack jeez
-> 
+>

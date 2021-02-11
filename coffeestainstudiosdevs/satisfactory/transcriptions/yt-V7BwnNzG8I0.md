@@ -17,22 +17,22 @@ https://www.youtube.com/watch?v=V7BwnNzG8I0
 ### Transcript
 
 > i don't understand the autopilot for the
-> 
+>
 > tractor
-> 
+>
 > okay uh in your email there's
-> 
+>
 > information on where to ask questions
-> 
+>
 > and
-> 
+>
 > i'll bug reports if you just go there uh
-> 
+>
 > hopefully people can help you or go to
-> 
+>
 > the discord
-> 
+>
 > people can help you probably quicker
-> 
+>
 > without there there
-> 
+>

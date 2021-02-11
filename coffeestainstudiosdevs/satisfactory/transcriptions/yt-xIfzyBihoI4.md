@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=xIfzyBihoI4
 ### Transcript
 
 > um so yeah
-> 
+>
 > uh will the engine upgrade affect our
-> 
+>
 > windows installation i hope not
-> 
+>
 > i'd be a bummer
-> 
+>

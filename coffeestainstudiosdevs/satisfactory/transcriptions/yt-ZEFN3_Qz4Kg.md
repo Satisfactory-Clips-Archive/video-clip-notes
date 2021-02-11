@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=ZEFN3_Qz4Kg
 ### Transcript
 
 > horford norbank archivo diego hernán a
-> 
+>
 > [Música]
-> 
+>
 > y ahora
-> 
+>
 > robert bike
-> 
+>

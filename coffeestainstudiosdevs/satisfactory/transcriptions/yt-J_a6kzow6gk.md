@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=J_a6kzow6gk
 ### Transcript
 
 > much into that uh
-> 
+>
 > how about you add the goat so we can use
-> 
+>
 > her to destroy the factory we don't need
-> 
+>
 > we need to get the goat in the game
-> 
+>

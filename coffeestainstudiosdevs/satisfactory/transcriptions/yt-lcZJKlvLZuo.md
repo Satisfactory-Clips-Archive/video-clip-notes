@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=lcZJKlvLZuo
 ### Transcript
 
 > procedural generation?
-> 
+>
 > most likely not.
-> 
+>

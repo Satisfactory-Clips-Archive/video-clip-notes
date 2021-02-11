@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=H9x0HyRXNTE
 ### Transcript
 
 > no plans for that um how big is the dev
-> 
+>
 > team
-> 
+>
 > something around 30. people
-> 
+>
 > um
-> 
+>

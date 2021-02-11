@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=I0al2jSp_Rk
 ### Transcript
 
 > is the pioneer a human
-> 
+>
 > uh i think so i think so i think that's
-> 
+>
 > the lore
-> 
+>

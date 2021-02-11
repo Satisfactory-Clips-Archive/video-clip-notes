@@ -17,44 +17,44 @@ https://www.youtube.com/watch?v=dWU4c-MjLWE
 ### Transcript
 
 > uh do you have any youtube videos about
-> 
+>
 > more technical sides like how you keep
-> 
+>
 > track of machines
-> 
+>
 > tusks um not not like that
-> 
+>
 > per se um but we do have
-> 
+>
 > like let's see where's the one that i
-> 
+>
 > did with ben there this is a technical
-> 
+>
 > art and optimization video
-> 
+>
 > uh that i did with ben our technical
-> 
+>
 > artist and there's some more technical
-> 
+>
 > uh stuff there so um
-> 
+>
 > but i've been meaning to do like the
-> 
+>
 > next uh develop a highlight that i'm
-> 
+>
 > gonna do i wanna do on a programmer
-> 
+>
 > uh but because of covet it's been a bit
-> 
+>
 > weird like
-> 
+>
 > i i don't wanna do i don't really wanna
-> 
+>
 > do a
-> 
+>
 > a developer highlight that is just over
-> 
+>
 > a discord call or something like that
-> 
+>
 > um yeah
-> 
+>

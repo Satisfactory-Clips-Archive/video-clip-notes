@@ -19,10 +19,10 @@ https://www.youtube.com/watch?v=GDuWS-cOFX8
 ### Transcript
 
 > um
-> 
+>
 > dedicated searches have multiple hubs no
-> 
+>
 > it's just it's gonna be the same just
-> 
+>
 > exactly the same game same game
-> 
+>

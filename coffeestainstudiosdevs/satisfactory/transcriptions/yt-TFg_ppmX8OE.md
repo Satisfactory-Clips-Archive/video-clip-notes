@@ -15,20 +15,20 @@ https://www.youtube.com/watch?v=TFg_ppmX8OE
 ### Transcript
 
 > go for it yeah uh will the price go up
-> 
+>
 > after early access ends i'm actually not
-> 
+>
 > sure
-> 
+>
 > uh i think we sort of thought that maybe
-> 
+>
 > as the game gets more complete it would
-> 
+>
 > go up but
-> 
+>
 > that was uh over a year ago that that we
-> 
+>
 > thought of that and
-> 
+>
 > basically don't know
-> 
+>

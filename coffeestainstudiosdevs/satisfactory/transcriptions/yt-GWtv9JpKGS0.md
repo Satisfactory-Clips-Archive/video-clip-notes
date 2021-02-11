@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=GWtv9JpKGS0
 ### Transcript
 
 > crop play or any online actually uh okay
-> 
+>
 > so will i get a steam key if you've
-> 
+>
 > already bought it on epic games you will
-> 
+>
 > not
-> 
+>
 > um
-> 
+>

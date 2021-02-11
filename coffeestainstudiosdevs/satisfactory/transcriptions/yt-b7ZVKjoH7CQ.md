@@ -17,6 +17,6 @@ https://www.youtube.com/watch?v=b7ZVKjoH7CQ
 ### Transcript
 
 > verse i
-> 
+>
 > 야아 암
-> 
+>

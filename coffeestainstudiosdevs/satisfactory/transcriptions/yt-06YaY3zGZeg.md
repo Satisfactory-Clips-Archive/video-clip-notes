@@ -15,60 +15,60 @@ https://www.youtube.com/watch?v=06YaY3zGZeg
 ### Transcript
 
 > last one and then we'll move on um are
-> 
+>
 > there any easter eggs in the landscape
-> 
+>
 > plenty plenty some of them will be
-> 
+>
 > very hard to see from a a small
-> 
+>
 > perspective so you're going to have to
-> 
+>
 > like
-> 
+>
 > you know they're like top down or
-> 
+>
 > they're challenging
-> 
+>
 > all right go look for them guys there's
-> 
+>
 > one easter egg that we showed off like
-> 
+>
 > usual after one of our streams that i
-> 
+>
 > don't think
-> 
+>
 > you can see unless you can't unless you
-> 
+>
 > break the game yeah
-> 
+>
 > we'll we'll keep you you guys can like
-> 
+>
 > look up that video i think it's on
-> 
+>
 > youtube
-> 
+>
 > it's hannah yeah dev stream yeah
-> 
+>
 > oh yeah you've got hannah has a level
-> 
+>
 > design stream where she just works
-> 
+>
 > and then there's also your developer
-> 
+>
 > funny fact about that one
-> 
+>
 > that was the first time i worked with
-> 
+>
 > those assets because they were brand new
-> 
+>
 > oh really on that stream it was like the
-> 
+>
 > first time i tried them out so i was
-> 
+>
 > just like
-> 
+>
 > guess we're doing this it's fine it's
-> 
+>
 > fine
-> 
+>

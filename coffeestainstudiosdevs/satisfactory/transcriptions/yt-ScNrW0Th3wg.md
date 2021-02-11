@@ -17,20 +17,20 @@ https://www.youtube.com/watch?v=ScNrW0Th3wg
 ### Transcript
 
 > to hold down there will gas be an update
-> 
+>
 > for
-> 
+>
 > you mean i was going to insert a fart
-> 
+>
 > joke but i
-> 
+>
 > like i'm too bad um
-> 
+>
 > gas is already in the game right you
-> 
+>
 > already have the gas pillars
-> 
+>
 > just walk into those and you have gas
-> 
+>
 > gas
-> 
+>

@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=MzWzCnmbkYI
 ### Transcript
 
 > none well we have weather events yeah
-> 
+>
 > we just said that before um maybe i
-> 
+>
 > don't know
-> 
+>
 > for sure yet
-> 
+>

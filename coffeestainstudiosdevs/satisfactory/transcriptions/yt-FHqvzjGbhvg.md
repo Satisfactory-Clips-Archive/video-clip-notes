@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=FHqvzjGbhvg
 ### Transcript
 
 > will there be dlc after 1.0
-> 
+>
 > i don't know no idea we didn't even know
-> 
+>
 > when 1.0 is
-> 
+>

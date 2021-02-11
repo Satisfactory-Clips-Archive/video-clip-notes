@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=omtlLJxraPk
 ### Transcript
 
 > today i learned this as mass dismantle
-> 
+>
 > oh yeah if you
-> 
+>
 > hit control while you're in this mantle
-> 
+>
 > mode you will
-> 
+>
 > be able to dismantle more than one thing
-> 
+>

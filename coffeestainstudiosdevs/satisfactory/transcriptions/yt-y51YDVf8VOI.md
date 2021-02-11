@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=y51YDVf8VOI
 ### Transcript
 
 > out of early access
-> 
+>
 > um uh i guess you're asking when are we
-> 
+>
 > gonna be out of early access
-> 
+>
 > uh no no idea yet yeah well we have some
-> 
+>
 > ideas but
-> 
+>
 > our ideas are super super pickle
-> 
+>
 > right now yeah
-> 
+>

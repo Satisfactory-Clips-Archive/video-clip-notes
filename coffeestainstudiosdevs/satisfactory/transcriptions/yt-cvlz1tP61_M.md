@@ -15,28 +15,28 @@ https://www.youtube.com/watch?v=cvlz1tP61_M
 ### Transcript
 
 > on yeah nice any updates on dedicated
-> 
+>
 > servers
-> 
+>
 > um no no
-> 
+>
 > not right now we're working on
-> 
+>
 > multiplayer stuff uh and i think you'll
-> 
+>
 > see some of the
-> 
+>
 > changes we've done to networking in
-> 
+>
 > update four
-> 
+>
 > for multiplayer that hopefully will make
-> 
+>
 > things better
-> 
+>
 > but that's like one step towards
-> 
+>
 > dedicated servers
-> 
+>
 > yep
-> 
+>

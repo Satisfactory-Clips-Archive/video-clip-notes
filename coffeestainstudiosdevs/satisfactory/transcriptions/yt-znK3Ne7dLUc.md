@@ -17,14 +17,14 @@ https://www.youtube.com/watch?v=znK3Ne7dLUc
 ### Transcript
 
 > dedicated server for windows yeah
-> 
+>
 > windows is the first
-> 
+>
 > priority and then we might get for linux
-> 
+>
 > as well i don't know
-> 
+>
 > uh maybe possibly but
-> 
+>
 > i don't know
-> 
+>

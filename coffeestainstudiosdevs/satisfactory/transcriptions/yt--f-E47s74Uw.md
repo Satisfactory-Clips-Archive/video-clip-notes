@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=-f-E47s74Uw
 ### Transcript
 
 > Jace: Uh. Will there be DLCs?
-> 
+>
 > Jace: $1 Toilet DLC coming soon.
-> 
+>
 > Snutt: [sniggers]
-> 
+>

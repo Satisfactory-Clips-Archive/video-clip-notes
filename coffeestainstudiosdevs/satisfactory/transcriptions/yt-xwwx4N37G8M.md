@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=xwwx4N37G8M
 ### Transcript
 
 > can you make a toolbar selection to be
-> 
+>
 > with just hotkey like shift number or
-> 
+>
 > something instead of mouse wheel
-> 
+>
 > uh you probably make sure to hit that up
-> 
+>
 > on the question site
-> 
+>
 > i would recommend that
-> 
+>

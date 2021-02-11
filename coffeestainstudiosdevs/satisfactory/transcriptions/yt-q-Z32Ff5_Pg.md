@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=q-Z32Ff5_Pg
 ### Transcript
 
 > nuclear removal when in real life or in
-> 
+>
 > game
-> 
+>
 > let me know um
-> 
+>

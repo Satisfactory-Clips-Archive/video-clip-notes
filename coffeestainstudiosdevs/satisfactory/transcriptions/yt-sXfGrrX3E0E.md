@@ -17,6 +17,6 @@ https://www.youtube.com/watch?v=sXfGrrX3E0E
 ### Transcript
 
 > battle for the game bernard rey
-> 
+>
 > piqué
-> 
+>

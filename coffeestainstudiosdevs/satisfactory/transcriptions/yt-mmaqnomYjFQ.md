@@ -19,16 +19,16 @@ https://www.youtube.com/watch?v=mmaqnomYjFQ
 ### Transcript
 
 > my baby
-> 
+>
 > community manager no baby i mean he's
-> 
+>
 > like
-> 
+>
 > as good or like as i am as no
-> 
+>
 > like i don't have to teach him
-> 
+>
 > he's like maybe better i've been
-> 
+>
 > watching him do it yeah
-> 
+>

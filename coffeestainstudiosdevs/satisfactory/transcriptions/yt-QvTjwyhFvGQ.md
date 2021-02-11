@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=QvTjwyhFvGQ
 ### Transcript
 
 > in the butt yeah are there any plans to
-> 
+>
 > add lights inside the factories there's
-> 
+>
 > plans to do that someday yeah
-> 
+>

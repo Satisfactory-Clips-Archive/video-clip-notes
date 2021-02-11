@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=c3jeZv_aYug
 ### Transcript
 
 > that's pretty good they're gonna be new
-> 
+>
 > creatures there's the big crab that's
-> 
+>
 > coming soon after that i'm not sure
-> 
+>

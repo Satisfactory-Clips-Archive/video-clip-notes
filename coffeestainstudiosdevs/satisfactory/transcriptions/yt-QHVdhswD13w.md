@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=QHVdhswD13w
 ### Transcript
 
 > but hopefully soon can we please get a
-> 
+>
 > snow biome
-> 
+>
 > uh that is a big old nope from hannah
-> 
+>
 > we we don't want to do a snow biome
-> 
+>
 > unfortunately
-> 
+>

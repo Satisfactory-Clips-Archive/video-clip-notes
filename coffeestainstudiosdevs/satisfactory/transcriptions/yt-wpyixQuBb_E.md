@@ -15,20 +15,20 @@ https://www.youtube.com/watch?v=wpyixQuBb_E
 ### Transcript
 
 > i'd love a feature for storage
-> 
+>
 > containers to empty out my inventory off
-> 
+>
 > of a specific item
-> 
+>
 > except i'll drag the item over the store
-> 
+>
 > all i can all of this
-> 
+>
 > uh that already is in the game you can
-> 
+>
 > if you hold control
-> 
+>
 > and you drag the item it will move all
-> 
+>
 > the items of the same item
-> 
+>

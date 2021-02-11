@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=aaP5_tXPthI
 ### Transcript
 
 > any plans to dig my explorer out of the
-> 
+>
 > ground and fell into
-> 
+>
 > you got yourself into that hole you can
-> 
+>
 > get it out uh you can use the the save
-> 
+>
 > editor
-> 
+>
 > to uh to uh to
-> 
+>
 > like move your vehicles if you do
-> 
+>

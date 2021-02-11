@@ -21,10 +21,10 @@ https://www.youtube.com/watch?v=OoXaGUS3umo
 ### Transcript
 
 > um you ever plan on adding a pipe
-> 
+>
 > bursting feature if you over pressurize
-> 
+>
 > a pipe with gases
-> 
+>
 > nope
-> 
+>

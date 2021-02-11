@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=LzokNbLJWfk
 ### Transcript
 
 > why is there any female option and no
-> 
+>
 > dogger option we're on the case don't
-> 
+>
 > worry we're going to be
-> 
+>
 > the priority here
-> 
+>
 > holy [ __ ]
-> 
+>

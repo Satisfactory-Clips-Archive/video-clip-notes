@@ -17,22 +17,22 @@ https://www.youtube.com/watch?v=y3w-vPtVjog
 ### Transcript
 
 > of it i think uh signs for hypertube
-> 
+>
 > entrances so yeah we're gonna have
-> 
+>
 > science at some point
-> 
+>
 > um hopefully sooner rather than later
-> 
+>
 > but
-> 
+>
 > i don't know what's gonna happen
-> 
+>
 > and i think we we would make like a
-> 
+>
 > generic sign implementation rather than
-> 
+>
 > like something just for
-> 
+>
 > hypertubes
-> 
+>

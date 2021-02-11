@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=pb2KprHATHk
 ### Transcript
 
 > good way what was satisfactory get ray
-> 
+>
 > tracing over my dead body
-> 
+>
 > rather die
-> 
+>

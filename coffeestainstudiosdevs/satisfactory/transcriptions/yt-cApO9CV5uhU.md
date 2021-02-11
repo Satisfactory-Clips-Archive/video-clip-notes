@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=cApO9CV5uhU
 ### Transcript
 
 > uh new tiers there will be new tiers i
-> 
+>
 > assume there's going to be one in update
-> 
+>
 > for i don't know if we've announced
-> 
+>
 > whether we are or
-> 
+>
 > not doing that well i think maybe i just
-> 
+>
 > did right right now but
-> 
+>
 > but um yeah there will be new tears um
-> 
+>
 > can't say exactly when yet
-> 
+>

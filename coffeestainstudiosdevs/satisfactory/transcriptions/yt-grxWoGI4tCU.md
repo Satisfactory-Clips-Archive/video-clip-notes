@@ -17,14 +17,14 @@ https://www.youtube.com/watch?v=grxWoGI4tCU
 ### Transcript
 
 > yeah just be aware of that yeah somebody
-> 
+>
 > asked what's
-> 
+>
 > underneath my hat update three six
-> 
+>
 > underneath hat no no no no no underneath
-> 
+>
 > hat reveal at six million subs
-> 
+>
 > yeah let's do it
-> 
+>

@@ -19,18 +19,18 @@ https://www.youtube.com/watch?v=WEq2xEXVVQ0
 ### Transcript
 
 > there is that a communicated service and
-> 
+>
 > wants to be free
-> 
+>
 > yeah i think so what was that dedicated
-> 
+>
 > servers and mods be free
-> 
+>
 > what we're going to make is dedicated
-> 
+>
 > service support i think the plan
-> 
+>
 > is then people use that functionality
-> 
+>
 > however they want
-> 
+>

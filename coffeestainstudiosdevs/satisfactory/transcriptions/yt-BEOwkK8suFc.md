@@ -19,8 +19,8 @@ https://www.youtube.com/watch?v=BEOwkK8suFc
 ### Transcript
 
 > so burke we've got can you slap jace
-> 
+>
 > no yes thank you that is the correct
-> 
+>
 > answer
-> 
+>

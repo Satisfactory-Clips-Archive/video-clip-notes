@@ -15,20 +15,20 @@ https://www.youtube.com/watch?v=w9kJj1Hd-cs
 ### Transcript
 
 > do you keep things uh i missed your
-> 
+>
 > comment but i think girls do you keep
-> 
+>
 > saves from
-> 
+>
 > this to the early access you do all
-> 
+>
 > saves should work
-> 
+>
 > good good work sure yes
-> 
+>
 > uh we intend them to work
-> 
+>
 > or whatever our intention is that they
-> 
+>
 > will work
-> 
+>

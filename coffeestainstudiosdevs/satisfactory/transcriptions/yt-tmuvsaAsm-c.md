@@ -21,34 +21,34 @@ https://www.youtube.com/watch?v=tmuvsaAsm-c
 ### Transcript
 
 > where uh can you cra in the next update
-> 
+>
 > we'll be able to craft something with
-> 
+>
 > nuclear waste well
-> 
+>
 > there's there's we've teased a little
-> 
+>
 > bit about that in
-> 
+>
 > our parts video there are changes to
-> 
+>
 > nuclear yeah there are some changes
-> 
+>
 > coming to
-> 
+>
 > how nuclear the production line is gonna
-> 
+>
 > look um and you will be able to do
-> 
+>
 > something with waste
-> 
+>
 > um it's part of that shame but
-> 
+>
 > specifically what
-> 
+>
 > has yet to be revealed
-> 
+>
 > so we're gonna have to find out the
-> 
+>
 > coming weeks
-> 
+>

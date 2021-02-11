@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=tUpHAgaYB4o
 ### Transcript
 
 > like hmm cat companion instead of doggo
-> 
+>
 > no get out bend you're working on thin
-> 
+>
 > eyes
-> 
+>
 > oh yeah yeah i love you i've had it up
-> 
+>
 > to here with you and your shrinkages
-> 
+>

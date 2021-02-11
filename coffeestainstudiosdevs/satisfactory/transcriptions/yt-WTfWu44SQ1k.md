@@ -19,10 +19,10 @@ https://www.youtube.com/watch?v=WTfWu44SQ1k
 ### Transcript
 
 > when our geothermal generator is going
-> 
+>
 > to get its info panel oh that's that's
-> 
+>
 > the million dollar question i actually
-> 
+>
 > no idea someday
-> 
+>

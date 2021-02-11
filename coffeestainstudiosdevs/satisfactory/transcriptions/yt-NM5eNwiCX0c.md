@@ -19,34 +19,34 @@ https://www.youtube.com/watch?v=NM5eNwiCX0c
 ### Transcript
 
 > and find all my changes so this is
-> 
+>
 > this is a key thing though this whole
-> 
+>
 > block here
-> 
+>
 > didn't exist in unreal 423
-> 
+>
 > and so i kind of had to look into what
-> 
+>
 > this thing was doing when we merged we
-> 
+>
 > thought is this really right so you can
-> 
+>
 > see our hesitation
-> 
+>
 > and as you all saw it obviously wasn't
-> 
+>
 > right
-> 
+>
 > because it's invisible and that's not
-> 
+>
 > the only thing i don't think
-> 
+>
 > so first
-> 
+>
 > let's see i'm going to bring up another
-> 
+>
 > other files i think if i can find it
-> 
+>
 > do this on the screen
-> 
+>

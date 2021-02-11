@@ -15,32 +15,32 @@ https://www.youtube.com/watch?v=zVnmYZemxe8
 ### Transcript
 
 > is the map finalized as in there will be
-> 
+>
 > more additions the map is not finalized
-> 
+>
 > but there won't be no biomes if if that
-> 
+>
 > makes any sense
-> 
+>
 > uh apart from the potential of an
-> 
+>
 > underground biome but i'm not sure
-> 
+>
 > exactly what that
-> 
+>
 > will entail or if that's just you'd be
-> 
+>
 > like more caves or something like that
-> 
+>
 > i'm not sure um but the the map is still
-> 
+>
 > a working progress
-> 
+>
 > like there's a bunch of stuff that
-> 
+>
 > aren't done
-> 
+>
 > um and i'm not sure if
-> 
+>
 > when if who um
-> 
+>

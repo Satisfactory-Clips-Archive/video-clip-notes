@@ -15,20 +15,20 @@ https://www.youtube.com/watch?v=j9oy_AyPXnU
 ### Transcript
 
 > [Music]
-> 
+>
 > oh ultra wide monitors yeah maybe
-> 
+>
 > ultrawide is is like not fully fully
-> 
+>
 > supported
-> 
+>
 > at all like it works probably but there
-> 
+>
 > are a lot of things that aren't made for
-> 
+>
 > it
-> 
+>
 > um so like if it works at all it's luck
-> 
+>
 > right now
-> 
+>

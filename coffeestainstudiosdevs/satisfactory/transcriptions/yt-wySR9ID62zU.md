@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=wySR9ID62zU
 ### Transcript
 
 > yeah what's the storyline of
-> 
+>
 > satisfactory is this after deep rock
-> 
+>
 > galactic it's not in the same universe
-> 
+>
 > as deep rock
-> 
+>
 > um but i can't say anything about the
-> 
+>
 > storyline
-> 
+>

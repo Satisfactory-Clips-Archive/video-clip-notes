@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=TnXIhw27Cws
 ### Transcript
 
 > is there teleportation in this update
-> 
+>
 > no
-> 
+>

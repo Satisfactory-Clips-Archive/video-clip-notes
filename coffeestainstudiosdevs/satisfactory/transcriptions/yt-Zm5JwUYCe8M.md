@@ -17,6 +17,6 @@ https://www.youtube.com/watch?v=Zm5JwUYCe8M
 ### Transcript
 
 > uh ceiling power months are new yes
-> 
+>
 > it's not like it's it's coming
-> 
+>

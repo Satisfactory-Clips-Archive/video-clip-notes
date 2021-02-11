@@ -19,34 +19,34 @@ https://www.youtube.com/watch?v=wN7_0V9lRfk
 ### Transcript
 
 > we'll move it to the main branch yes so
-> 
+>
 > jake
-> 
+>
 > remember mark was on stream two weeks
-> 
+>
 > ago i think or three weeks maybe
-> 
+>
 > where somebody asked that question about
-> 
+>
 > will alt recipes change
-> 
+>
 > and jake i think is correct there
-> 
+>
 > every alt recipe that is affected that's
-> 
+>
 > that's not part of tier vii
-> 
+>
 > will be unaffected but all recipes for
-> 
+>
 > tier vii
-> 
+>
 > may change so that was the answer
-> 
+>
 > yeah that's that's pretty much the same
-> 
+>
 > answer for all then you can just say all
-> 
+>
 > recipes then
-> 
+>
 > yeah it's the same kind of yeah because
-> 
+>

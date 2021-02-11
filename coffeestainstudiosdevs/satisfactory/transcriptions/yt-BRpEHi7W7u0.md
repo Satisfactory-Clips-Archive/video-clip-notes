@@ -15,38 +15,38 @@ https://www.youtube.com/watch?v=BRpEHi7W7u0
 ### Transcript
 
 > when can poison pillars be removed i
-> 
+>
 > don't know what the plan is
-> 
+>
 > i also don't know um i know
-> 
+>
 > i think we plan to at some point if i
-> 
+>
 > recall
-> 
+>
 > i just it's like a technical thing as
-> 
+>
 > well where like the the
-> 
+>
 > the gas area is like baked into the map
-> 
+>
 > or something
-> 
+>
 > so we can't like dynamically remove it
-> 
+>
 > or something like that but what about
-> 
+>
 > the
-> 
+>
 > oh right so like even if you remove the
-> 
+>
 > pillar you probably still be taking
-> 
+>
 > damage
-> 
+>
 > yeah so i think that's why we haven't
-> 
+>
 > proved that yet but i think in the
-> 
+>
 > future we are planning for it
-> 
+>

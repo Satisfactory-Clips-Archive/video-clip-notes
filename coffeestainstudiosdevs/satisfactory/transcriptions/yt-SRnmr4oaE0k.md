@@ -17,36 +17,36 @@ https://www.youtube.com/watch?v=SRnmr4oaE0k
 ### Transcript
 
 > yeah yeah can you do percentage decimals
-> 
+>
 > to get exact part rates
-> 
+>
 > uh i think
-> 
+>
 > i don't want to promise anything but i
-> 
+>
 > have we have talked about that
-> 
+>
 > um
-> 
+>
 > [Music]
-> 
+>
 > so it might be a thing that's coming if
-> 
+>
 > not i'll put that on the keyway side
-> 
+>
 > because i know
-> 
+>
 > there's a there's a ticket for that on
-> 
+>
 > the on the keyword site
-> 
+>
 > um i i remember being in a discussion
-> 
+>
 > where we talked about it
-> 
+>
 > but i don't know exactly what we decided
-> 
+>
 > it would be
-> 
+>
 > pretty neat i think
-> 
+>

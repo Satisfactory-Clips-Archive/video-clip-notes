@@ -17,18 +17,18 @@ https://www.youtube.com/watch?v=bnUTeUn6TA4
 ### Transcript
 
 > is some stuff that unfortunately is the
-> 
+>
 > early access version the same version
-> 
+>
 > alpha testers have uh if by alpha test
-> 
+>
 > is so yeah
-> 
+>
 > this weekend version limited to three
-> 
+>
 > exactly uh but early access is the same
-> 
+>
 > as those who have the alphabet key
-> 
+>
 > uh yes
-> 
+>

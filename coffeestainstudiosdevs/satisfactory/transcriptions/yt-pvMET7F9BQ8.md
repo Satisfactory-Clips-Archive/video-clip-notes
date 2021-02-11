@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=pvMET7F9BQ8
 ### Transcript
 
 > planning on doing that plans for ray
-> 
+>
 > tracing there are no plans
-> 
+>
 > right now
-> 
+>

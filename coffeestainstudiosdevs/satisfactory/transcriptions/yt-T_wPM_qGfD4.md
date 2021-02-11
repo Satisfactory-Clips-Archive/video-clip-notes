@@ -15,20 +15,20 @@ https://www.youtube.com/watch?v=T_wPM_qGfD4
 ### Transcript
 
 > twitch greater than youtube i prefer
-> 
+>
 > twitch to youtube but we have a really
-> 
+>
 > really big following on youtube
-> 
+>
 > and we also have the ability to stream
-> 
+>
 > to both at the same time so it's like
-> 
+>
 > why not
-> 
+>
 > we just didn't do it today because of
-> 
+>
 > reasons
-> 
+>
 > just didn't feel good yeah
-> 
+>

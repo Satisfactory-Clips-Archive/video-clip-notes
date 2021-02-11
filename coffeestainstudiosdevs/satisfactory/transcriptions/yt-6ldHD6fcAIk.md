@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=6ldHD6fcAIk
 ### Transcript
 
 > then she'll never know what is your
-> 
+>
 > influence in deep rock galactic
-> 
+>
 > none at all yeah we don't uh work on
-> 
+>
 > that a difference today does it yeah
-> 
+>
 > our producer has some influence i
-> 
+>
 > believe
-> 
+>
 > yeah but i don't know how much
-> 
+>

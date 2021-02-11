@@ -15,24 +15,24 @@ https://www.youtube.com/watch?v=F90s1pV1WWY
 ### Transcript
 
 > i don't think uh you can't find a place
-> 
+>
 > to make a cup a cup no
-> 
+>
 > i can't find a place to make an enamel
-> 
+>
 > cup of the colors that i had that's what
-> 
+>
 > i said
-> 
+>
 > don't dumb it down like it's just a cup
-> 
+>
 > like this is serious no
-> 
+>
 > we spent months looking for a place to
-> 
+>
 > find a cup no to make the specific cup
-> 
+>
 > yeah we want it to be the right cup you
-> 
+>
 > guys
-> 
+>

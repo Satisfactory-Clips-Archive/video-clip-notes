@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=Rx_M6fLOzvM
 ### Transcript
 
 > maybe that'll be good is ray chasing
-> 
+>
 > planning it's not in the plans no
-> 
+>
 > no
-> 
+>

@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=R-GjcKzww6Y
 ### Transcript
 
 > a potential of Medicine and become the
-> 
+>
 > first in the unaware of pixels
-> 
+>
 > a possible to the night more interest in
-> 
+>
 > the market is working Days for Little
-> 
+>
 > girls mayy Optimus it again maintains
-> 
+>
 > Mày voices the right now think that
-> 
+>
 > person should they want
-> 
+>

@@ -19,12 +19,12 @@ https://www.youtube.com/watch?v=fO_ZW22gL-g
 ### Transcript
 
 > well there you go battle royale
-> 
+>
 > soon update four but we did a very
-> 
+>
 > battle royale when we streamed for the
-> 
+>
 > first time yeah we did that was pretty
-> 
+>
 > fun pretty fun
-> 
+>

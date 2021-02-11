@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=3b1QpgsICwA
 ### Transcript
 
 > what game will come out first
-> 
+>
 > satisfactory star citizen
-> 
+>
 > um good question i i
-> 
+>
 > i would guess satisfactory actually
-> 
+>
 > um but i don't know
-> 
+>
 > i also don't know the state of
-> 
+>
 > development for star citizen
-> 
+>

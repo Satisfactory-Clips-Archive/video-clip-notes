@@ -19,38 +19,38 @@ https://www.youtube.com/watch?v=AwfR7ExmwJ0
 ### Transcript
 
 > my god you guys are right there isn't
-> 
+>
 > fridge how have i not noticed
-> 
+>
 > oh wait oh my god i have not i've
-> 
+>
 > never
-> 
+>
 > i've never taken notice of this kitchen
-> 
+>
 > situation right here
-> 
+>
 > just a sink without a
-> 
+>
 > this there's not a faucet to it
-> 
+>
 > how does this work huh interesting
-> 
+>
 > it's a sink for throwing up in or
-> 
+>
 > something
-> 
+>
 > i've seen like little apartment stuff
-> 
+>
 > but i don't think i've ever noticed the
-> 
+>
 > uh
-> 
+>
 > the kitchen area cool
-> 
+>
 > well today i learned something and i
-> 
+>
 > work on the game
-> 
+>
 > do i though
-> 
+>

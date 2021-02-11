@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=A10cQzT6TpU
 ### Transcript
 
 > um if you add trucks then add boats
-> 
+>
 > that's never gonna happen at least not
-> 
+>
 > that i think
-> 
+>
 > no aquatic
-> 
+>

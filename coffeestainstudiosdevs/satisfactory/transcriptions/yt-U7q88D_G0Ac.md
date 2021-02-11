@@ -17,18 +17,18 @@ https://www.youtube.com/watch?v=U7q88D_G0Ac
 ### Transcript
 
 > site will update for change and existing
-> 
+>
 > old recipes
-> 
+>
 > i think some things change yes didn't i
-> 
+>
 > think it didn't
-> 
+>
 > change old recipes yeah i don't i think
-> 
+>
 > mark said wait let me i'm going to dig
-> 
+>
 > up the response
-> 
+>
 > maybe not old recipes then yeah okay
-> 
+>

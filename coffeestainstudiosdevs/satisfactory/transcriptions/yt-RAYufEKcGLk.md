@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=RAYufEKcGLk
 ### Transcript
 
 > for uh are we getting signs anytime soon
-> 
+>
 > uh soon no but yes you will you
-> 
+>
 > will get them
-> 
+>
 > we have confirmed that we will do them
-> 
+>
 > at some point at some point don't know
-> 
+>
 > when
-> 
+>

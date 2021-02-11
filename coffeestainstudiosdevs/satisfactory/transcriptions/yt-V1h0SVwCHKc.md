@@ -19,12 +19,12 @@ https://www.youtube.com/watch?v=V1h0SVwCHKc
 ### Transcript
 
 > let's chat
-> 
+>
 > do you gonna add potato energy soon soon
-> 
+>
 > you know what if we ever add farming we
-> 
+>
 > should add potato energy
-> 
+>
 > that's pretty funny though
-> 
+>

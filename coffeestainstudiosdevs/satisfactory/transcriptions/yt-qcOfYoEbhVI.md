@@ -17,22 +17,22 @@ https://www.youtube.com/watch?v=qcOfYoEbhVI
 ### Transcript
 
 > change the place is that for sure
-> 
+>
 > another question will gas masks be
-> 
+>
 > working
-> 
+>
 > when you sit in vehicles yes at some
-> 
+>
 > point cool not
-> 
+>
 > immediately on update 3 but it's a known
-> 
+>
 > issue
-> 
+>
 > now it might not be true i think i saw a
-> 
+>
 > mod where they fixed that
-> 
+>
 > but that might be false
-> 
+>

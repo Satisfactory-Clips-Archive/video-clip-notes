@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=_XfcfZ8vfj8
 ### Transcript
 
 > dedicated service aka multiplayer fix
-> 
+>
 > when multiplayer fixes come out with
-> 
+>
 > every single update pretty much
-> 
+>
 > so it's uh it's a it's a marathon not a
-> 
+>
 > sprint
-> 
+>

@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=mASNXinF0mA
 ### Transcript
 
 > gun alien creature launcher
-> 
+>
 > evict the giant tick uh i'm pretty sure
-> 
+>
 > the the
-> 
+>
 > the jump pads you can use them on
-> 
+>
 > animals as well
-> 
+>
 > so you can totally evict them using your
-> 
+>
 > uh
-> 
+>

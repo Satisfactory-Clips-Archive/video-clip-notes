@@ -19,12 +19,12 @@ https://www.youtube.com/watch?v=NQ8x2q2z55w
 ### Transcript
 
 > and i'm losing my mind um
-> 
+>
 > is the kitchen coming to the hub i want
-> 
+>
 > to cook a doggo now that is my
-> 
+>
 > kind hello let's be friends
-> 
+>
 > sorry go on uh
-> 
+>

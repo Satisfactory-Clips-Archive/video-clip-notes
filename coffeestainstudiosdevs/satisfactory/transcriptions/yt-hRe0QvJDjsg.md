@@ -19,14 +19,14 @@ https://www.youtube.com/watch?v=hRe0QvJDjsg
 ### Transcript
 
 > do you have any clue on what the alien
-> 
+>
 > artifacts do i actually don't know
-> 
+>
 > i i try to avoid story spoilers as much
-> 
+>
 > as i can
-> 
+>
 > just so i won't like accidentally spawn
-> 
+>
 > anything
-> 
+>

@@ -19,30 +19,30 @@ https://www.youtube.com/watch?v=Xg0nkRNXaIk
 ### Transcript
 
 > are there gonna be other planets in the
-> 
+>
 > game uh we haven't even finished with
-> 
+>
 > this planet so we're
-> 
+>
 > not really gonna look to add any other
-> 
+>
 > levels
-> 
+>
 > anytime soon i don't think it's
-> 
+>
 > something that we should look forward to
-> 
+>
 > like
-> 
+>
 > like hold your breath for uh it's
-> 
+>
 > definitely not gonna be something that's
-> 
+>
 > going to happen before 1.0
-> 
+>
 > we're not going to be releasing with
-> 
+>
 > more than one map for 1.0
-> 
+>
 > not going to happen
-> 
+>

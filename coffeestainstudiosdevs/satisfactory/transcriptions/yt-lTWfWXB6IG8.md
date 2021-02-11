@@ -17,6 +17,6 @@ https://www.youtube.com/watch?v=lTWfWXB6IG8
 ### Transcript
 
 > yes the map is not procedural there
-> 
+>
 > it is handcrafted
-> 
+>

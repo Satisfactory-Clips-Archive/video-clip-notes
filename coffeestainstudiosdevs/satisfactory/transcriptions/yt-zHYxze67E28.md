@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=zHYxze67E28
 ### Transcript
 
 > yeah another place does the time for
-> 
+>
 > epic success
-> 
+>
 > the exclusivity uh run when the game
-> 
+>
 > comes out or
-> 
+>
 > early access phase when uh on early
-> 
+>
 > access phase so it begins
-> 
+>
 > on the 19th of march when early access
-> 
+>
 > comes up
-> 
+>

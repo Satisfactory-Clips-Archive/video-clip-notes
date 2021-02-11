@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=BxAAQTxvy-Y
 ### Transcript
 
 > direct text 10 12 when i don't think
-> 
+>
 > that will happen
-> 
+>
 > for a long time
-> 
+>

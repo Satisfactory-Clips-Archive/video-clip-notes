@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=vaYxvmOkUQY
 ### Transcript
 
 > click and drag functionality for
-> 
+>
 > building is not a thing that we
-> 
+>
 > want currently
-> 
+>

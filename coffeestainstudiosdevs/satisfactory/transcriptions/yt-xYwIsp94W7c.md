@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=xYwIsp94W7c
 ### Transcript
 
 > smart truck stations uh
-> 
+>
 > yeah exactly like update those
-> 
+>
 > finagles um
-> 
+>

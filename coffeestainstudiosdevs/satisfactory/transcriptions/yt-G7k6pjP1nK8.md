@@ -15,34 +15,34 @@ https://www.youtube.com/watch?v=G7k6pjP1nK8
 ### Transcript
 
 > no i don't think update 4 will not be
-> 
+>
 > just a quality of life thing
-> 
+>
 > update 4 will be like content proper
-> 
+>
 > content
-> 
+>
 > i can assure you that um
-> 
+>
 > like update 4 might in like update four
-> 
+>
 > will probably
-> 
+>
 > uh contain quantum quantity quality of
-> 
+>
 > life stuff
-> 
+>
 > jesus christ um but it might also be
-> 
+>
 > that we might release some
-> 
+>
 > like as we go but no update four will
-> 
+>
 > definitely contain
-> 
+>
 > you know new content or features you
-> 
+>
 > know
-> 
+>
 > or stuff in general
-> 
+>

@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=VjKPXr_e5yk
 ### Transcript
 
 > what about the island
-> 
+>
 > off to the west of the map yeah what is
-> 
+>
 > it
-> 
+>
 > i don't know um
-> 
+>
 > it will it will improve i guess or
-> 
+>
 > something unless we don't do anything
-> 
+>
 > with it i don't know
-> 
+>

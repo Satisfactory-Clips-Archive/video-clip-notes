@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=EhbB7DIOdZ4
 ### Transcript
 
 > right what's the name of the tall thing
-> 
+>
 > is
-> 
+>
 > we got space sticks or is uh
-> 
+>
 > potato space potatoes we also said like
-> 
+>
 > space giraffes
-> 
+>
 > uh i think the official like
-> 
+>
 > uh work name is space ticks
-> 
+>
 > if i'm not wrong
-> 
+>

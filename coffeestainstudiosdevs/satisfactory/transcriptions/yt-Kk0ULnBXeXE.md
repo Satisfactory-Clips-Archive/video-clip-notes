@@ -23,14 +23,14 @@ https://www.youtube.com/watch?v=Kk0ULnBXeXE
 ### Transcript
 
 > some new machines in the next update i
-> 
+>
 > don't know
-> 
+>
 > um i have no idea
-> 
+>
 > honestly that's uh game director chan
-> 
+>
 > mark marchand probably has a better
-> 
+>
 > answer for that
-> 
+>

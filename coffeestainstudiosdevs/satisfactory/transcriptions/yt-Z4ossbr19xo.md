@@ -15,28 +15,28 @@ https://www.youtube.com/watch?v=Z4ossbr19xo
 ### Transcript
 
 > that now uh oh sorry one second what
-> 
+>
 > about the mug
-> 
+>
 > um the we've uh
-> 
+>
 > another step has been taken towards mug
-> 
+>
 > so there has been progress
-> 
+>
 > this doesn't mean anything is confirmed
-> 
+>
 > this doesn't mean that
-> 
+>
 > you know we absolutely can step back but
-> 
+>
 > i
-> 
+>
 > i'm feeling pretty confident about it
-> 
+>
 > okay moving on
-> 
+>
 > the mug the most important part of
-> 
+>
 > any merch
-> 
+>

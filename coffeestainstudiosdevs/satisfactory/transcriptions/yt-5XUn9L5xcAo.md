@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=5XUn9L5xcAo
 ### Transcript
 
 > dedicated service everyone asking about
-> 
+>
 > dedicated service
-> 
+>
 > as always uh we don't know it's the
-> 
+>
 > short answer
-> 
+>
 > yeah but um yeah there's there's the uh
-> 
+>
 > bought command
-> 
+>
 > and the bot is currently the correct
-> 
+>
 > answer
-> 
+>

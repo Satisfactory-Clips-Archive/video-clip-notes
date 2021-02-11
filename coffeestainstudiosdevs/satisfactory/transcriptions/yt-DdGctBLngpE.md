@@ -17,52 +17,52 @@ https://www.youtube.com/watch?v=DdGctBLngpE
 ### Transcript
 
 > can i that's a good question is the
-> 
+>
 > story a mode or can i play with my
-> 
+>
 > actual save game as far as i know you
-> 
+>
 > can play it with your actual save game
-> 
+>
 > it's gonna be
-> 
+>
 > added like on top of the game and as far
-> 
+>
 > as i know
-> 
+>
 > i might be wrong about this but as far
-> 
+>
 > as i know
-> 
+>
 > the uh like the um
-> 
+>
 > the the like the all the story
-> 
+>
 > progression stuff is like a
-> 
+>
 > separate chain of everything else you're
-> 
+>
 > developing
-> 
+>
 > kind of i think so it won't really when
-> 
+>
 > we add the story stuff it won't really
-> 
+>
 > affect
-> 
+>
 > the current game i might be wrong there
-> 
+>
 > might be like a big like
-> 
+>
 > break safe so whatever we add story uh
-> 
+>
 > but as far as i know it should be
-> 
+>
 > like a thing on top and that's when like
-> 
+>
 > you know
-> 
+>
 > samlor for instance will be usable and
-> 
+>
 > stuff like that
-> 
+>

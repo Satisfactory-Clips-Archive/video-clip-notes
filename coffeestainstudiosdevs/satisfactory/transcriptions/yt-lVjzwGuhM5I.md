@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=lVjzwGuhM5I
 ### Transcript
 
 > will you be able to play doom on the hub
-> 
+>
 > screens it would be cool if we could
-> 
+>
 > play like goat simulator on the screens
-> 
+>
 > or something
-> 
+>

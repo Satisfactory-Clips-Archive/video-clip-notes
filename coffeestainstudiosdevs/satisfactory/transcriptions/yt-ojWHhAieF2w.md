@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=ojWHhAieF2w
 ### Transcript
 
 > ever be pipes no never
-> 
+>
 > will jeff goldblum narrate 1.0
-> 
+>
 > that would be so dope that would be good
-> 
+>
 > i would be i would understand
-> 
+>
 > jeff goldblum and um morgan freeman if
-> 
+>
 > we can get them both
-> 
+>
 > oh morgan freeman
-> 
+>

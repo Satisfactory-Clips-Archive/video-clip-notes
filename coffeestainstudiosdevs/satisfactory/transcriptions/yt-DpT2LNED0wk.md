@@ -17,20 +17,20 @@ https://www.youtube.com/watch?v=DpT2LNED0wk
 ### Transcript
 
 > mk6 built in the next update maybe who
-> 
+>
 > knows
-> 
+>
 > that's one of those questions that are
-> 
+>
 > hard to answer because if i say no then
-> 
+>
 > i've confirmed that it's not
-> 
+>
 > but if i say maybe then you're like that
-> 
+>
 > means it is but he's not saying you know
-> 
+>
 > oh what was the video community manager
-> 
+>
 > you can't win
-> 
+>

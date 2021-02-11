@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=U4t0BJ7mjwc
 ### Transcript
 
 > battle royale mode soon soon
-> 
+>
 > it's like survival aspects no that's not
-> 
+>
 > the kind of game we're trying to make
-> 
+>
 > battle royale
-> 
+>
 > hold yep okay coming soon update four
-> 
+>
 > battle royale for sure for sure hold my
-> 
+>
 > phone
-> 
+>

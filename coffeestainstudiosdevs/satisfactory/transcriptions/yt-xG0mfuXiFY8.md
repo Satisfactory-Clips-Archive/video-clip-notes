@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=xG0mfuXiFY8
 ### Transcript
 
 > all this that's really hard
-> 
+>
 > what's the final objective in the game
-> 
+>
 > you need to complete project assembly
-> 
+>
 > and that's all i can say
-> 
+>
 > that's the one
-> 
+>

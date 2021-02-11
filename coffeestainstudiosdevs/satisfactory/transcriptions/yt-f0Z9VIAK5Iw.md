@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=f0Z9VIAK5Iw
 ### Transcript
 
 > years old okay more questions so what's
-> 
+>
 > happening with sam moore that's gonna
-> 
+>
 > it's tied to the story you'll learn more
-> 
+>
 > about that in the future when the story
-> 
+>
 > comes out
-> 
+>

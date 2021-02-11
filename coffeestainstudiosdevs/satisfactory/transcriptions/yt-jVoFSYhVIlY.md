@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=jVoFSYhVIlY
 ### Transcript
 
 > secret mode so leaked in two weeks
-> 
+>
 > exactly this isn't just a rerun no
-> 
+>

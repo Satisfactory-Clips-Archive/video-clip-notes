@@ -17,14 +17,14 @@ https://www.youtube.com/watch?v=UxW9nGO9Ius
 ### Transcript
 
 > um any plans for
-> 
+>
 > better belts for pure nodes i don't know
-> 
+>
 > what the plans are
-> 
+>
 > you mean like faster belts yeah i don't
-> 
+>
 > know
-> 
+>
 > like
-> 
+>

@@ -17,14 +17,14 @@ https://www.youtube.com/watch?v=KmX7CoVGPA0
 ### Transcript
 
 > word okay there is no way to hot key the
-> 
+>
 > xeno zapper or
-> 
+>
 > items or uh things like that just yet
-> 
+>
 > it's annoying that you can't but i'm
-> 
+>
 > quite sure we're putting that in but
-> 
+>
 > it's not there now
-> 
+>

@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=WAnckbn-EJ8
 ### Transcript
 
 > um uh does the uh story come in 2021
-> 
+>
 > it does if we release the full game in
-> 
+>
 > 2021
-> 
+>
 > and i don't know we're doing that
-> 
+>

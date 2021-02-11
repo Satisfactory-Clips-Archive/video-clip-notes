@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=x2qXm_DXJEw
 ### Transcript
 
 > uh can you remove nuclear waste from the
-> 
+>
 > doggo loot list
-> 
+>
 > yeah you can uh you just take the
-> 
+>
 > nuclear waste and you remove it from the
-> 
+>
 > doggo and then you put somewhere
-> 
+>

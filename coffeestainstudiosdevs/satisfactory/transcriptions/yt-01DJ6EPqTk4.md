@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=01DJ6EPqTk4
 ### Transcript
 
 > um if i back up current version
-> 
+>
 > will xmas still work after 18th nope
-> 
+>
 > it will not
-> 
+>

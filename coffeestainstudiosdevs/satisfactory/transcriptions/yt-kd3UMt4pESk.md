@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=kd3UMt4pESk
 ### Transcript
 
 > it's all fine size is flyable transport
-> 
+>
 > an option like a chopper there's the
-> 
+>
 > big manta in the sky you can fly at him
-> 
+>
 > yeah that's unfortunately only
-> 
+>
 > yeah that's all you're gonna get
-> 
+>

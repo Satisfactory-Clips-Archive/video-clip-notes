@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=zoHTyGXCbsM
 ### Transcript
 
 > um any plans for an elevator or a lift
-> 
+>
 > there are no plans for that
-> 
+>

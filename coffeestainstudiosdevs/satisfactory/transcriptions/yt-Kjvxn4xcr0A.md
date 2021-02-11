@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=Kjvxn4xcr0A
 ### Transcript
 
 > yep uh any chance of drm free release we
-> 
+>
 > already did a drm free release
-> 
+>
 > the game is drm free
-> 
+>

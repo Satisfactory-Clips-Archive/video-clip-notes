@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=o3Nr13tH7dY
 ### Transcript
 
 > when is coffee going to be introduced to
-> 
+>
 > the game good idea good idea a good
-> 
+>
 > point
-> 
+>
 > there is coffee in the game
-> 
+>
 > on the hub there's a cup of coffee
-> 
+>

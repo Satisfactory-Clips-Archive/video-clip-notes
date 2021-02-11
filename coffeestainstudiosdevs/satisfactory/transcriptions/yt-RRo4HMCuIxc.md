@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=RRo4HMCuIxc
 ### Transcript
 
 > you were talking about drinking coffee
-> 
+>
 > with a helmet on yeah that also doesn't
-> 
+>
 > make any sense but but there are tiny
-> 
+>
 > straws tiny straws
-> 
+>
 > so that's how that's how that cannon
-> 
+>
 > works
-> 
+>

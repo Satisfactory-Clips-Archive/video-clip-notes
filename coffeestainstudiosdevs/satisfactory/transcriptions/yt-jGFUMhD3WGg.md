@@ -17,18 +17,18 @@ https://www.youtube.com/watch?v=jGFUMhD3WGg
 ### Transcript
 
 > it will not uh will satisfactory have
-> 
+>
 > native support for linux
-> 
+>
 > don't know uh we don't have plans for
-> 
+>
 > that right now and you know anything can
-> 
+>
 > happen
-> 
+>
 > but we don't have plans for that right
-> 
+>
 > now so
-> 
+>
 > no one can tell
-> 
+>

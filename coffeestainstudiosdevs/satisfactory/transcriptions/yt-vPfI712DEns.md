@@ -17,40 +17,40 @@ https://www.youtube.com/watch?v=vPfI712DEns
 ### Transcript
 
 > the balance is weird yeah the mastermind
-> 
+>
 > behind turbo
-> 
+>
 > motors is that true mark or turbo fuel
-> 
+>
 > uh
-> 
+>
 > turbo fuel yeah i mean that was already
-> 
+>
 > there when i started as the
-> 
+>
 > as the director we had a different game
-> 
+>
 > director before i think uh ocus video is
-> 
+>
 > still up on the youtube right where he
-> 
+>
 > explains
-> 
+>
 > kind of his role and what he does uh but
-> 
+>
 > he has left on
-> 
+>
 > since last year or even 2019 he left
-> 
+>
 > oh yeah that's true god damn uh but yeah
-> 
+>
 > he he set up most of the things that we
-> 
+>
 > currently have
-> 
+>
 > and i've been trying to mostly improve
-> 
+>
 > it and build upon it
-> 
+>
 > further dope
-> 
+>

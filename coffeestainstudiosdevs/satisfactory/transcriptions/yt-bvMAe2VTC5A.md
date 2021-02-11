@@ -17,20 +17,20 @@ https://www.youtube.com/watch?v=bvMAe2VTC5A
 ### Transcript
 
 > what about wind turbine yeah that's also
-> 
+>
 > something that's
-> 
+>
 > you know likely or might happen i don't
-> 
+>
 > know
-> 
+>
 > i don't know the state of these things
-> 
+>
 > it's it's we need to get mark uh marc
-> 
+>
 > chan
-> 
+>
 > on the channel so we can explain his
-> 
+>
 > reasoning
-> 
+>

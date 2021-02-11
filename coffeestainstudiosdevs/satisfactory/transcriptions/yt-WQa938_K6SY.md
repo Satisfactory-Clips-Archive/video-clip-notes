@@ -17,14 +17,14 @@ https://www.youtube.com/watch?v=WQa938_K6SY
 ### Transcript
 
 > yeah update 4 contains the engine
-> 
+>
 > upgrade exactly
-> 
+>
 > essentially we'll we have like the
-> 
+>
 > engine upgrade and then stack
-> 
+>
 > the update 4 on top of that essentially
-> 
+>
 > on experimental
-> 
+>

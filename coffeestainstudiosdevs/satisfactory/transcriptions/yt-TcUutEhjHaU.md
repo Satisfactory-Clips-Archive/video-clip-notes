@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=TcUutEhjHaU
 ### Transcript
 
 > uh when trains get updated we're
-> 
+>
 > coupling and uncoupling
-> 
+>
 > like a real rail yard be coming too i
-> 
+>
 > actually have no idea david
-> 
+>
 > no sorry no idea dude but definitely
-> 
+>
 > check the qa site see if it's been
-> 
+>
 > suggested or not voted otherwise
-> 
+>
 > you can post it
-> 
+>

@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=EnGMyJjYDdI
 ### Transcript
 
 > uh wait you can tame any native life
-> 
+>
 > form no only
-> 
+>
 > there's a dog at this point yes
-> 
+>
 > i have two now
-> 
+>

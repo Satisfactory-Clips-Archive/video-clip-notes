@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=3Xf0xozi8zc
 ### Transcript
 
 > smoother now than they used to so
-> 
+>
 > there's that new music theme there's no
-> 
+>
 > music
-> 
+>
 > theme coming but there is new music
-> 
+>
 > coming
-> 
+>

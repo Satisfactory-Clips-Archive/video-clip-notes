@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=V8r96lmiV9k
 ### Transcript
 
 > um what about the story will more of it
-> 
+>
 > come
-> 
+>
 > yeah there's a whole story and it will
-> 
+>
 > not come incrementally it will come in
-> 
+>
 > one go
-> 
+>
 > at some point
-> 
+>

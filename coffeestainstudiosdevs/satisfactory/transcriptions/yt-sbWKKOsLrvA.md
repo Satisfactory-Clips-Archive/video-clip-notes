@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=sbWKKOsLrvA
 ### Transcript
 
 > there's a lot we still plan on doing
-> 
+>
 > with it mobile edition
-> 
+>
 > soon
-> 
+>

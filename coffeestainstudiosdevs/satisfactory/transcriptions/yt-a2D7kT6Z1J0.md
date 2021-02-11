@@ -17,238 +17,238 @@ https://www.youtube.com/watch?v=a2D7kT6Z1J0
 ### Transcript
 
 > so let's talk a little bit about the
-> 
+>
 > blender um
-> 
+>
 > and how it how like kind of the nitrogen
-> 
+>
 > plays into with the blender because
-> 
+>
 > that's also something that jay's put up
-> 
+>
 > in the video last week
-> 
+>
 > the the blender plays an instrumental
-> 
+>
 > part in how you use nitrogen to make
-> 
+>
 > fuse modular frames which we teased in
-> 
+>
 > the advent calendar if you played the
-> 
+>
 > fixmas event which
-> 
+>
 > ended yesterday um you you are you're
-> 
+>
 > gonna need
-> 
+>
 > nitrogen in order to make um
-> 
+>
 > fuse modular frames essentially in the
-> 
+>
 > blender uh because it's made in the
-> 
+>
 > blender right
-> 
+>
 > yeah exactly uh and we already
-> 
+>
 > we showed the cooling system right in
-> 
+>
 > the gases yeah we showed it in the gases
-> 
+>
 > video yeah yeah yeah
-> 
+>
 > yeah so both of those are are made in
-> 
+>
 > the blender
-> 
+>
 > cool with nitrogen as well awesome
-> 
+>
 > have we we didn't show the cooling
-> 
+>
 > system before
-> 
+>
 > the video last week right i don't think
-> 
+>
 > so no it was revealed yeah yeah
-> 
+>
 > the guest video yeah exactly so that's
-> 
+>
 > another part
-> 
+>
 > you guys this there's still more parts
-> 
+>
 > coming even that we haven't showed yet
-> 
+>
 > um and yeah we we i'm just gonna
-> 
+>
 > reiterate also the blender stuff that we
-> 
+>
 > released two weeks ago we're at least a
-> 
+>
 > teaser for that
-> 
+>
 > we talked on a stream we haven't put
-> 
+>
 > this in a video anyway uh
-> 
+>
 > or put the information out there but uh
-> 
+>
 > yeah the blender takes multiple fluid
-> 
+>
 > inputs
-> 
+>
 > it has um
-> 
+>
 > it has a big centrifuge i don't know why
-> 
+>
 > that is a point in my notes here
-> 
+>
 > um and the few smaller frames were built
-> 
+>
 > in it
-> 
+>
 > uh and like we teased last week that
-> 
+>
 > requires another resource and buildings
-> 
+>
 > and that was
-> 
+>
 > the gases that were revealed last week
-> 
+>
 > and something that we haven't talked
-> 
+>
 > about yet and we probably will
-> 
+>
 > we'll probably wait a little bit more
-> 
+>
 > before we unveil this stuff
-> 
+>
 > but the the blender plays a pretty
-> 
+>
 > centrifugal part
-> 
+>
 > in uh nuclear refinement and stuff like
-> 
+>
 > that and how the new nuclear stuff will
-> 
+>
 > work
-> 
+>
 > um and i don't think we'll talk too much
-> 
+>
 > about that today because
-> 
+>
 > there's still juicy interesting stuff
-> 
+>
 > with that um
-> 
+>
 > so we'll kind of tease that leading up
-> 
+>
 > to the
-> 
+>
 > uh the coming weeks
-> 
+>
 > is there anything interesting with the
-> 
+>
 > blender you feel like is is cool to
-> 
+>
 > bring up
-> 
+>
 > mark uh
-> 
+>
 > i think the main things that we haven't
-> 
+>
 > mentioned yet is that it's unlocked in
-> 
+>
 > tier eight
-> 
+>
 > okay yeah well so uh to get specific
-> 
+>
 > there
-> 
+>
 > like the the the resource well stuff
-> 
+>
 > isn't locked into your
-> 
+>
 > wait did i say tier eight for the
-> 
+>
 > blender the blender yeah
-> 
+>
 > ah my man tier seven okay so it's it's
-> 
+>
 > it's a liquid bauxite refinement
-> 
+>
 > the milestone that already exists where
-> 
+>
 > you get like uh the
-> 
+>
 > aluminium ingots and outlet sheets and
-> 
+>
 > stuff like that
-> 
+>
 > and we're kind of revising that whole
-> 
+>
 > thing so with with tier 8 we're also
-> 
+>
 > revising tier
-> 
+>
 > 7 of course and the blender is going to
-> 
+>
 > come with the bauxite refinement but it
-> 
+>
 > won't actually be used for the bauxite
-> 
+>
 > refinement
-> 
+>
 > but it will be used for a lot of
-> 
+>
 > important milestones after
-> 
+>
 > you get like your your basic aluminium
-> 
+>
 > parts running and you can unlock those
-> 
+>
 > further milestones
-> 
+>
 > and the reason that we're unlocking it
-> 
+>
 > in that that early milestone is because
-> 
+>
 > we want players to get
-> 
+>
 > to have some some freedom in which
-> 
+>
 > milestones they select
-> 
+>
 > because most of the important milestones
-> 
+>
 > afterwards need
-> 
+>
 > the blender to make their parts that
-> 
+>
 > they are uh
-> 
+>
 > unlocking gotcha to kind of give them a
-> 
+>
 > bit more of like an open-ended
-> 
+>
 > progression option there where you can
-> 
+>
 > actually
-> 
+>
 > have more freedom of choice of which
-> 
+>
 > parts of the progression you want to
-> 
+>
 > continue with
-> 
+>
 > you're unlocking it early on so
-> 
+>
 > so it kind of becomes like part of the
-> 
+>
 > whole like rebalancing
-> 
+>
 > thing with with tier seven yeah
-> 
+>
 > yeah cool
-> 
+>

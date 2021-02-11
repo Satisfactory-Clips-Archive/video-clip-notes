@@ -15,28 +15,28 @@ https://www.youtube.com/watch?v=NtWMjGjulnU
 ### Transcript
 
 > really yeah but let's move on we've got
-> 
+>
 > more stream to do okay
-> 
+>
 > we have half an hour left what are we
-> 
+>
 > gonna do jace i don't know uh
-> 
+>
 > so well it's usually our filler content
-> 
+>
 > is question and answers so this is no
-> 
+>
 > don't [ __ ] say that dude
-> 
+>
 > the sausage is made dude what the [ __ ]
-> 
+>
 > yeah don't tell them how the sausage is
-> 
+>
 > made you idiot
-> 
+>
 > um ah gg all right thanks everybody uh
-> 
+>
 > we got to uh we're back
-> 
+>
 > are we back okay cool
-> 
+>

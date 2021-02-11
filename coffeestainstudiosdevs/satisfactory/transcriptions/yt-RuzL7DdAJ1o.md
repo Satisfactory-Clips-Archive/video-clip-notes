@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=RuzL7DdAJ1o
 ### Transcript
 
 > any plans to add more animals enemies
-> 
+>
 > are dangerous yep the big crab as
-> 
+>
 > i call us i kill acegaming said
-> 
+>
 > uh
-> 
+>

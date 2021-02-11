@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=L6SZHtX7Jmg
 ### Transcript
 
 > any chance of auto save process not
-> 
+>
 > creating giant frame drops
-> 
+>
 > uh yes there's a there's a chance for
-> 
+>
 > that not on update four i believe
-> 
+>
 > uh but in the future
-> 
+>

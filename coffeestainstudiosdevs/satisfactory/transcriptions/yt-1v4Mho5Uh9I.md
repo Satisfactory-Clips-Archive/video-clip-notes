@@ -15,24 +15,24 @@ https://www.youtube.com/watch?v=1v4Mho5Uh9I
 ### Transcript
 
 > uh someone's asking about if the game
-> 
+>
 > was going to be uh
-> 
+>
 > released on ps5 and someone else wants
-> 
+>
 > to know if it's on ps6
-> 
+>
 > a lot of folks ask about consoles we
-> 
+>
 > don't have any plans for it yet that
-> 
+>
 > doesn't mean we won't do it like it's
-> 
+>
 > it sounds great but the game isn't
-> 
+>
 > finished and we're freaking out just on
-> 
+>
 > windows right yeah yeah
-> 
+>
 > um well reasonable mac like
-> 
+>

@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=5PwIEaLRDRY
 ### Transcript
 
 > no one knows um when do signs come
-> 
+>
 > not sure i don't know if they're going
-> 
+>
 > to be updated for or not uh i also
-> 
+>
 > but they will come
-> 
+>

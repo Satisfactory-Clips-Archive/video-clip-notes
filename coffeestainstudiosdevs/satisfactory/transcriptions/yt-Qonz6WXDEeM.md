@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=Qonz6WXDEeM
 ### Transcript
 
 > but you made a bunch are there any plans
-> 
+>
 > of adding keanu reeves to satisfaction
-> 
+>
 > i'll pitch it i'll pitch it be nice yeah
-> 
+>
 > we have to talk to him
-> 
+>
 > it's on stream
-> 
+>

@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=rCOD5becD6M
 ### Transcript
 
 > um probably answer this question before
-> 
+>
 > train collisions train collisions is
-> 
+>
 > something that we
-> 
+>
 > i believe we will be adding at some
-> 
+>
 > point in the future
-> 
+>

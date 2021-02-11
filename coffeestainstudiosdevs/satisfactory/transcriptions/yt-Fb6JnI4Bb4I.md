@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=Fb6JnI4Bb4I
 ### Transcript
 
 > give us a flight vehicle well
-> 
+>
 > we're not going to do oh yeah we're not
-> 
+>
 > going to do that but we'll give you a
-> 
+>
 > car
-> 
+>

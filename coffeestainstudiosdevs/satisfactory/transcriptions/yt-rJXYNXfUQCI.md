@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=rJXYNXfUQCI
 ### Transcript
 
 > when you're gonna finish factorio
-> 
+>
 > factory is finished but not by us
-> 
+>
 > we'll finish factoria don't but this
-> 
+>
 > this is
-> 
+>
 > wrong this is the wrong string for that
-> 
+>
 > stuff
-> 
+>

@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=AHYlgGcYkjw
 ### Transcript
 
 > all if they refunded how
-> 
+>
 > could you have made so many screenshots
-> 
+>
 > for christmas they took screenshots
-> 
+>
 > before they refunded
-> 
+>

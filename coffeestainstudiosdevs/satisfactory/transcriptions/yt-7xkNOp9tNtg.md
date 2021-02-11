@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=7xkNOp9tNtg
 ### Transcript
 
 > hmm flying monsters they're already
-> 
+>
 > flying moses in the game
-> 
+>
 > yeah they are they're little
-> 
+>
 > they're not attacking though
-> 
+>

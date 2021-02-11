@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=DW0MT8G-wMI
 ### Transcript
 
 > stuff is like we need to enable you guys
-> 
+>
 > are you guys planning to add any
-> 
+>
 > terraforming or digging
-> 
+>
 > we don't have that plan no
-> 
+>

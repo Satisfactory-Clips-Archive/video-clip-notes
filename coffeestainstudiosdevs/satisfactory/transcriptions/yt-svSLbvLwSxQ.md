@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=svSLbvLwSxQ
 ### Transcript
 
 > progress they're gonna come with the
-> 
+>
 > story um plush
-> 
+>
 > we will be making a doggo plush but
-> 
+>
 > we're solving the uh
-> 
+>
 > cup first one thing at a time
-> 
+>

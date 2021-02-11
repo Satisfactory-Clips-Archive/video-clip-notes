@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=aYUTkfL-jKk
 ### Transcript
 
 > at some point who speaks aydah the voice
-> 
+>
 > actress for ada
-> 
+>
 > is good text speech yeah peter is text
-> 
+>
 > to speech there is no human being there
-> 
+>
 > who did that
-> 
+>
 > no one can be that soulless no no
-> 
+>

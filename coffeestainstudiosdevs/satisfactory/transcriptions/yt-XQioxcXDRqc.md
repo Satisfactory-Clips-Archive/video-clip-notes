@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=XQioxcXDRqc
 ### Transcript
 
 > no brainer no brainer
-> 
+>
 > are you adding support for mac anytime
-> 
+>
 > soon we don't have that
-> 
+>
 > um planned or anything yet but you know
-> 
+>
 > if you look at the history of our games
-> 
+>
 > we have had
-> 
+>
 > them all on all the things so maybe
-> 
+>

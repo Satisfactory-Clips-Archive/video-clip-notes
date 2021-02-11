@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=TdmIe3EM_B8
 ### Transcript
 
 > um possibilities of placing more than
-> 
+>
 > one foundation at once that's something
-> 
+>
 > that's uh talked about pretty often but
-> 
+>
 > the uh plan right now is no
-> 
+>
 > this we will not do
-> 
+>

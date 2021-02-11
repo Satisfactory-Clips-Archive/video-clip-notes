@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=WoWR5Xsuav8
 ### Transcript
 
 > um do we have uh long shot but do we
-> 
+>
 > have an idea of the full release not
-> 
+>
 > really
-> 
+>
 > not really like the dates they're asking
-> 
+>
 > but no not not really
-> 
+>
 > short answers very ducking deep story
-> 
+>

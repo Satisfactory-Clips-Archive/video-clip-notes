@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=ZnuY8kzdKQU
 ### Transcript
 
 > 5
-> 
+>
 > reina
-> 
+>

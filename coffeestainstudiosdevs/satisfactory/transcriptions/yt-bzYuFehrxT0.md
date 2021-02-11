@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=bzYuFehrxT0
 ### Transcript
 
 > but some people got them how big is the
-> 
+>
 > update apparently six gigabytes is that
-> 
+>
 > you moving the mouse or does that mean
-> 
+>

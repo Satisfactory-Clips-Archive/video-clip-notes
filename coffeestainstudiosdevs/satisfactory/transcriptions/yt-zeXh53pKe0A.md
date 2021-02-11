@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=zeXh53pKe0A
 ### Transcript
 
 > doing it yep jet pack needs a hover mode
-> 
+>
 > i like that idea
-> 
+>
 > i don't know i kind of like
-> 
+>

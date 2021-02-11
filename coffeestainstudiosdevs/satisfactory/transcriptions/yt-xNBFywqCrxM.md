@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=xNBFywqCrxM
 ### Transcript
 
 > yeah well there'd be turrets or
-> 
+>
 > something in the game there will not
-> 
+>

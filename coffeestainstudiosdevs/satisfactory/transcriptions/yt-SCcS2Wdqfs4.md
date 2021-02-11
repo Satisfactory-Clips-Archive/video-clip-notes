@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=SCcS2Wdqfs4
 ### Transcript
 
 > uh well tickets we saved globally won't
-> 
+>
 > miss that
-> 
+>
 > which one are we going to be able to use
-> 
+>
 > item from the shop in different saves i
-> 
+>
 > don't think so
-> 
+>
 > no pretty sure
-> 
+>

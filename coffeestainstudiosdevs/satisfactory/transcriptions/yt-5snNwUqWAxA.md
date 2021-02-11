@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=5snNwUqWAxA
 ### Transcript
 
 > ne sıklıkta Kardeşiniz mi o sizin Yavuz
-> 
+>
 > soru soruyorum işte
-> 
+>
 > bu durum
-> 
+>

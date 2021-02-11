@@ -19,20 +19,20 @@ https://www.youtube.com/watch?v=Xi9S_sVklB8
 ### Transcript
 
 > what about an optional grid to put
-> 
+>
 > foundations all online around the map
-> 
+>
 > yo um put that on the question site
-> 
+>
 > i would personally really like that
-> 
+>
 > because it bothers me a bit that there's
-> 
+>
 > no global grid mode
-> 
+>
 > like in fortnite yeah i said it
-> 
+>
 > fortnite's got a better build mode than
-> 
+>
 > we do
-> 
+>

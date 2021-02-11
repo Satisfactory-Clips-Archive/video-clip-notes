@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=D3uJQzZmGQM
 ### Transcript
 
 > the recipe and stuff info on eu shopping
-> 
+>
 > for merch
-> 
+>
 > we're still looking into solutions but
-> 
+>
 > we don't have anything
-> 
+>
 > yet
-> 
+>

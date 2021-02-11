@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=95geu_0m8ls
 ### Transcript
 
 > i don't know
-> 
+>
 > blizzard doggos in winter update oh
-> 
+>
 > blizzard
-> 
+>
 > yeah that's pretty good that's pretty
-> 
+>
 > good
-> 
+>
 > that's really good oh my god we have to
-> 
+>
 > beat jace
-> 
+>

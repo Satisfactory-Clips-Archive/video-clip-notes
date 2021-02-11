@@ -17,98 +17,98 @@ https://www.youtube.com/watch?v=U-4gFkYIESU
 ### Transcript
 
 > guys are gonna be higher can we see
-> 
+>
 > god damn okay so i'm gonna do this now
-> 
+>
 > we usually don't do this but
-> 
+>
 > since since this is the last stream i
-> 
+>
 > will i will
-> 
+>
 > showcase one guitar
-> 
+>
 > and here you go here's a guitar i play
-> 
+>
 > on the petrucci model of mesa
-> 
+>
 > ernie ball music man um this one is
-> 
+>
 > custom built for me actually
-> 
+>
 > so it's a bit of a humble brag but this
-> 
+>
 > one was custom built for me i had a
-> 
+>
 > sponsorship
-> 
+>
 > with them a long time ago when i was
-> 
+>
 > trying to become a musician
-> 
+>
 > and yeah it's dope it's got pizzo mics
-> 
+>
 > and
-> 
+>
 > playing the guitar no never i know we
-> 
+>
 > said we were gonna uh
-> 
+>
 > maybe i should never mind we'll do it
-> 
+>
 > some other stream never mind i don't
-> 
+>
 > have like the stuff
-> 
+>
 > set up like this room is a mess right
-> 
+>
 > now so i can't plug it in
-> 
+>
 > um i can only like
-> 
+>
 > are you into metal nah i'm into most
-> 
+>
 > music actually
-> 
+>
 > i mean i can play the uh why am i key i
-> 
+>
 > don't need this anymore
-> 
+>
 > play this one
-> 
+>
 > [Music]
-> 
+>
 > there you go what what a way to end us
-> 
+>
 > and to go out on right
-> 
+>
 > this is this is my guitar lately by the
-> 
+>
 > way
-> 
+>
 > it's not it's not a guitar it's not a
-> 
+>
 > ukulele it's a guitar
-> 
+>
 > and it's not in tube
-> 
+>
 > [Music]
-> 
+>
 > it's it's very weird
-> 
+>
 > it also doesn't matter how much you tune
-> 
+>
 > it it still sounds like out of
-> 
+>
 > [Music]
-> 
+>
 > tune
-> 
+>
 > [Music]
-> 
+>
 > cool anyway out of beans
-> 
+>
 > yes we finally did it we finally played
-> 
+>
 > guitar on stream we did it
-> 
+>

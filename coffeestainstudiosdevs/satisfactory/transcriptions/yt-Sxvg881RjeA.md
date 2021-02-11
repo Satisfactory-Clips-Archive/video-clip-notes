@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=Sxvg881RjeA
 ### Transcript
 
 > weather and satisfactory
-> 
+>
 > maybe trying to think uh
-> 
+>
 > i don't think
-> 
+>
 > no i don't think i've heard anything
-> 
+>
 > about weather
-> 
+>

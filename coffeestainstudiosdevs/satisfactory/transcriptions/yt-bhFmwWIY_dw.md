@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=bhFmwWIY_dw
 ### Transcript
 
 > and the same goes for like a release
-> 
+>
 > date for dedicated servers like we don't
-> 
+>
 > know
-> 
+>
 > we don't really have an estimate either
-> 
+>
 > yeah
-> 
+>
 > when it sort of works
-> 
+>

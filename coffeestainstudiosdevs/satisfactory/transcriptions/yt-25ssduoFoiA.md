@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=25ssduoFoiA
 ### Transcript
 
 > use those solitaire lovers are there any
-> 
+>
 > plans for integrated mod support there
-> 
+>
 > is
-> 
+>

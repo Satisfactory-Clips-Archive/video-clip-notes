@@ -17,98 +17,98 @@ https://www.youtube.com/watch?v=9d3Uu7bu8q4
 ### Transcript
 
 > does the game get another dramatic
-> 
+>
 > change like in update 3 in the future
-> 
+>
 > so update 4 uh i don't think has a
-> 
+>
 > dramatic change
-> 
+>
 > i don't know if we're ever going to have
-> 
+>
 > a what are you doing to me
-> 
+>
 > don't worry about it okay i'm just going
-> 
+>
 > to keep going um i don't know if we're
-> 
+>
 > going gonna have another dramatic
-> 
+>
 > change of the same sky size or scale
-> 
+>
 > which is what i was trying to say when
-> 
+>
 > it's in skies
-> 
+>
 > um uh as update three we uh did with the
-> 
+>
 > uh pipes and and fluids
-> 
+>
 > uh that was a very very big change that
-> 
+>
 > sort of disrupted everything
-> 
+>
 > maybe when the story comes but even the
-> 
+>
 > story might not change
-> 
+>
 > gameplay so much update 4
-> 
+>
 > definitely in my opinion doesn't have
-> 
+>
 > anything that disrupts the game the same
-> 
+>
 > way that pipes did
-> 
+>
 > but update 4 has a lot of things in it
-> 
+>
 > it's like a lot of different things
-> 
+>
 > yeah that are being added so it's like
-> 
+>
 > the game does change
-> 
+>
 > but it's it's not like it's not in the
-> 
+>
 > same way that pipes changed the game
-> 
+>
 > and i don't know if that's ever going to
-> 
+>
 > happen again honestly no uh in
-> 
+>
 > in my opinion but there are there are a
-> 
+>
 > lot of big changes still coming right
-> 
+>
 > the way that update 4 is going to change
-> 
+>
 > your game is probably in the t
-> 
+>
 > it or not probably is in the tier 7 area
-> 
+>
 > so there's a bit of rebalancing
-> 
+>
 > as to like how the production lines were
-> 
+>
 > set up so that is going to happen there
-> 
+>
 > is a youtube video where jayce goes into
-> 
+>
 > depth about this
-> 
+>
 > or not in super interdepth but talks
-> 
+>
 > about this um
-> 
+>
 > that's i wish i had prepared but i don't
-> 
+>
 > um
-> 
+>
 > i can find it the uh the one where you
-> 
+>
 > talk about the uh
-> 
+>
 > tier seven uh i can link it right
-> 
+>
 > dig it up i'll take uh something
-> 
+>

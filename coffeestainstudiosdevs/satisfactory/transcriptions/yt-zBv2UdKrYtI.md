@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=zBv2UdKrYtI
 ### Transcript
 
 > [Music]
-> 
+>
 > any plans for new maps no plans
-> 
+>
 > no we're going to finish the one we have
-> 
+>
 > first
-> 
+>
 > and then who knows if we need another
-> 
+>
 > planet
-> 
+>

@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=nz4VgYaVDDo
 ### Transcript
 
 > uh update that's pretty funny will it be
-> 
+>
 > creative mode most likely
-> 
+>
 > when we get to a point when uh we have
-> 
+>
 > alternate game modes we'll most likely
-> 
+>
 > have that
-> 
+>

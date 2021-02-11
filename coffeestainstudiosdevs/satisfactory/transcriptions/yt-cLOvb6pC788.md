@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=cLOvb6pC788
 ### Transcript
 
 > okay yeah and when will the merch be
-> 
+>
 > sold in eu we're still looking into that
-> 
+>
 > as well and yeah
-> 
+>
 > sorry there's no solution at this stage
-> 
+>

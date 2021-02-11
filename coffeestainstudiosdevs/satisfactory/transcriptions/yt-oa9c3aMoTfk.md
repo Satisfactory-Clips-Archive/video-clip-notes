@@ -17,36 +17,36 @@ https://www.youtube.com/watch?v=oa9c3aMoTfk
 ### Transcript
 
 > how big will update 4b i don't know
-> 
+>
 > pretty big um like in terms of
-> 
+>
 > in size or in content yeah i guess
-> 
+>
 > yeah i don't know i don't know pretty
-> 
+>
 > big it's a pretty big update yeah it's a
-> 
+>
 > pretty big update
-> 
+>
 > honestly like there's uh i remember
-> 
+>
 > burke saying that uh
-> 
+>
 > like update three was a big update in
-> 
+>
 > the sense that it changed the entire
-> 
+>
 > game
-> 
+>
 > so like update four won't change you
-> 
+>
 > know the entire game
-> 
+>
 > but there's more features in update for
-> 
+>
 > than there were an update the game
-> 
+>
 > becomes just bigger in a way yeah yeah
-> 
+>
 > pretty much
-> 
+>

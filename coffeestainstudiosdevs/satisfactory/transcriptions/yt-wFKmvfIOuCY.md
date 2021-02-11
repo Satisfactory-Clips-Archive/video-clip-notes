@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=wFKmvfIOuCY
 ### Transcript
 
 > cosmetics for the character or even
-> 
+>
 > eliza taco uh
-> 
+>
 > not impossible
-> 
+>

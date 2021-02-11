@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=Z7KYm1EEVsc
 ### Transcript
 
 > better ui scaling uh
-> 
+>
 > go to the qa site and leave that
-> 
+>
 > suggestion there or see if anyone else
-> 
+>
 > has
-> 
+>
 > asked for it that's the best way to let
-> 
+>
 > people at the uh
-> 
+>
 > in the office know what you want
-> 
+>

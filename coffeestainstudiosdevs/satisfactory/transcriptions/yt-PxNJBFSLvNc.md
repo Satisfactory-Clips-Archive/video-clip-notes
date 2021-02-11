@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=PxNJBFSLvNc
 ### Transcript
 
 > nice
-> 
+>
 > need doors before elevators
-> 
+>
 > goddamn the goddess
-> 
+>

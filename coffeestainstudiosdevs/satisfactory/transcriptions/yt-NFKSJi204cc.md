@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=NFKSJi204cc
 ### Transcript
 
 > is going to be updates can i change my
-> 
+>
 > character from female to male you cannot
-> 
+>
 > and i don't think that's going to happen
-> 
+>
 > actually
-> 
+>

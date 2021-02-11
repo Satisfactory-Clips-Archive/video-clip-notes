@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=R2Fms8EjhN8
 ### Transcript
 
 > though but there's a little story yep
-> 
+>
 > can the
-> 
+>
 > creatures in a way describe disrupt your
-> 
+>
 > factory no they cannot
-> 
+>

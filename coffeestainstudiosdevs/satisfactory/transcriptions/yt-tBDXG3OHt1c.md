@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=tBDXG3OHt1c
 ### Transcript
 
 > when is satisfactory coming to switch
-> 
+>
 > funny you ask that we get that question
-> 
+>
 > every day
-> 
+>
 > um probably never
-> 
+>

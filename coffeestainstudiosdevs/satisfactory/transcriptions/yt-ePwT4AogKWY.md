@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=ePwT4AogKWY
 ### Transcript
 
 > okay yeah um we'll update forbidden
-> 
+>
 > experimental main branch like uh like
-> 
+>
 > always it's gonna come out on
-> 
+>
 > experimental first
-> 
+>
 > so uh people can test that and then once
-> 
+>
 > it's stable we'll move it to the main
-> 
+>
 > branch
-> 
+>

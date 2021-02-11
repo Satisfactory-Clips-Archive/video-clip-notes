@@ -17,24 +17,24 @@ https://www.youtube.com/watch?v=Ii-CZGy8-7A
 ### Transcript
 
 > so yeah what
-> 
+>
 > are the incentives to unlock tier 8 in
-> 
+>
 > terms of factory efficiency uh well
-> 
+>
 > i mean the incentive is that you can
-> 
+>
 > progress
-> 
+>
 > in the game i guess
-> 
+>
 > [Music]
-> 
+>
 > i'm not sure it will affect factory
-> 
+>
 > efficiency if i understand you correct
-> 
+>
 > your
-> 
+>
 > question correctly
-> 
+>

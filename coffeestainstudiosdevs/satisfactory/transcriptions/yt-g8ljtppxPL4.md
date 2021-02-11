@@ -17,28 +17,28 @@ https://www.youtube.com/watch?v=g8ljtppxPL4
 ### Transcript
 
 > well the drag technology of ladders also
-> 
+>
 > be used elsewhere
-> 
+>
 > i don't know i guess it depends where it
-> 
+>
 > sort of
-> 
+>
 > calls for it i know this sort of hints
-> 
+>
 > towards like well can we drag
-> 
+>
 > foundations but
-> 
+>
 > well i mean you can you can drag
-> 
+>
 > conveyor belts too i mean dragon ball
-> 
+>
 > belts yeah like pipes and commitments
-> 
+>
 > work the same way so
-> 
+>
 > yeah i think it just depends on the
-> 
+>
 > feature yeah um
-> 
+>

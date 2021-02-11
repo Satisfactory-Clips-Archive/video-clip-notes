@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=8S1NK72uyLE
 ### Transcript
 
 > it's scandalous when's the toilet paper
-> 
+>
 > dlc there's the
-> 
+>
 > the hard hidden questions come out soon
-> 
+>
 > soon
-> 
+>
 > soon we could uh let's see here
-> 
+>

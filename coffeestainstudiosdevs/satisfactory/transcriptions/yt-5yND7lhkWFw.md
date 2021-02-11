@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=5yND7lhkWFw
 ### Transcript
 
 > why are the weird four pit legged pigeon
-> 
+>
 > things bouncy why are they why shouldn't
-> 
+>
 > they be bouncy
-> 
+>
 > they look bouncy they should be
-> 
+>

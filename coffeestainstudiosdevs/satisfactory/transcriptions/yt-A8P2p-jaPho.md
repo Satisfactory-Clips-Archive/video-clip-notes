@@ -15,4 +15,4 @@ https://www.youtube.com/watch?v=A8P2p-jaPho
 ### Transcript
 
 > pérez white jr
-> 
+>

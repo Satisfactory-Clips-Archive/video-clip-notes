@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=DHWIPr3AYZo
 ### Transcript
 
 > it sounds cool what are you guys adding
-> 
+>
 > what are you guys adding back maps
-> 
+>
 > what like no they're they're not gone
-> 
+>
 > can you open the map no but for uh
-> 
+>
 > you can't do it right now okay cool
-> 
+>

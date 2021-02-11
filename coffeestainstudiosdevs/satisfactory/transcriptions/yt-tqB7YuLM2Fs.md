@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=tqB7YuLM2Fs
 ### Transcript
 
 > is er ons als de park comment or no it's
-> 
+>
 > possible to find something
-> 
+>
 > tot op drock pret plat
-> 
+>

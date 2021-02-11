@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=GaId9klI7ho
 ### Transcript
 
 > yeah what about a more complex power
-> 
+>
 > system with transformers and stuff
-> 
+>
 > uh also a really good idea um
-> 
+>
 > take punch that into the questions
-> 
+>
 > website it's also a pretty good idea
-> 
+>
 > uh not impossible
-> 
+>

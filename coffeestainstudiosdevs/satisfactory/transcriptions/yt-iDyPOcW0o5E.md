@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=iDyPOcW0o5E
 ### Transcript
 
 > are you guys considering adding more
-> 
+>
 > music to the game music can be a huge
-> 
+>
 > thing with games like this i mean you
-> 
+>
 > just look at my car
-> 
+>
 > um maybe
-> 
+>

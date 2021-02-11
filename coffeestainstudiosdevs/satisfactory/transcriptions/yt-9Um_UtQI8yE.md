@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=9Um_UtQI8yE
 ### Transcript
 
 > uh full release 2021 dunno
-> 
+>
 > that would be nice
-> 
+>

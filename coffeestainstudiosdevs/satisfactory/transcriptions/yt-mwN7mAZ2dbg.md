@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=mwN7mAZ2dbg
 ### Transcript
 
 > would make a difference will there be
-> 
+>
 > new enemies there will be the crab
-> 
+>
 > enemy but i think there's going to be
-> 
+>
 > some new enemies but i'm not quite sure
-> 
+>

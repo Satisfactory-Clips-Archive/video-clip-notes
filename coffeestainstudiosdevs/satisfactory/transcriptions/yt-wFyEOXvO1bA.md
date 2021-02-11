@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=wFyEOXvO1bA
 ### Transcript
 
 > and he plans to daisy chain buildings
-> 
+>
 > together to not have power poles
-> 
+>
 > everywhere
-> 
+>
 > uh no that's that's a like design
-> 
+>
 > decision we've had pretty much from the
-> 
+>
 > start that
-> 
+>
 > uh we don't want to do it like that
-> 
+>

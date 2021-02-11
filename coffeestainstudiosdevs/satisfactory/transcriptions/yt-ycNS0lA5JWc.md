@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=ycNS0lA5JWc
 ### Transcript
 
 > any chance of simon becoming thirds he
-> 
+>
 > had zero percent chance
-> 
+>
 > he's too good at actually he can
-> 
+>
 > actually do it do something he can
-> 
+>
 > actually contribute to the company in
-> 
+>
 > another way
-> 
+>
 > so we just like the rejects
-> 
+>

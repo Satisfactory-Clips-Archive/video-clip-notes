@@ -15,26 +15,26 @@ https://www.youtube.com/watch?v=awtYncMFbBo
 ### Transcript
 
 > more crash sites for update four with
-> 
+>
 > hard drives uh
-> 
+>
 > i don't think so no uh there are still
-> 
+>
 > still more
-> 
+>
 > hard drives in the world than there are
-> 
+>
 > alternative recipes
-> 
+>
 > um and it will probably be like that for
-> 
+>
 > a while but if we
-> 
+>
 > if we add like way more alternative
-> 
+>
 > recipes then maybe we'll add more
-> 
+>
 > drop pods or crash sites but i don't
-> 
+>
 > think that's the case
-> 
+>

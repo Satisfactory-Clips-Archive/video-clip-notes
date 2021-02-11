@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=8pVI2F2Y7rs
 ### Transcript
 
 > well i'll be able to play it on my
-> 
+>
 > samsung fridge
-> 
+>
 > try it and let me know
-> 
+>

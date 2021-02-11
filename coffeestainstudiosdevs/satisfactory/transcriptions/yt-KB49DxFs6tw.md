@@ -15,22 +15,22 @@ https://www.youtube.com/watch?v=KB49DxFs6tw
 ### Transcript
 
 > is there any possibility for an audit uh
-> 
+>
 > detect
-> 
+>
 > materials on the belts to select recipes
-> 
+>
 > per input
-> 
+>
 > there currently is not a possibility for
-> 
+>
 > that it is not in the game
-> 
+>
 > uh would we put it in the game i don't
-> 
+>
 > know but you can make the suggestion
-> 
+>
 > on the situation which is questions on
-> 
+>
 > satisfactorygame.com
-> 
+>

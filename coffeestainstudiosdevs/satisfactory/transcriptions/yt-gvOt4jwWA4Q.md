@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=gvOt4jwWA4Q
 ### Transcript
 
 > will the map be bigger later we're not
-> 
+>
 > gonna
-> 
+>
 > there's no plan to increase the size of
-> 
+>
 > the map but uh we're working on what's
-> 
+>
 > happening in the map so that there might
-> 
+>
 > be more things to do on the map but
-> 
+>
 > uh we don't want to increase the size
-> 
+>
 > that's the current plan
-> 
+>

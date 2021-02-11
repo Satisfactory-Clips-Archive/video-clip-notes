@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=HZFZLzljSRE
 ### Transcript
 
 > as well so uh
-> 
+>
 > if we do translation do we get paid or
-> 
+>
 > is it free unlike buying the game the
-> 
+>
 > translations are community driven and
-> 
+>
 > just like volunteer stuff so people
-> 
+>
 > uh do as much or as little as they want
-> 
+>
 > so uh no you don't get paid
-> 
+>

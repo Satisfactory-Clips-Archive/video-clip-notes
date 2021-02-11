@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=Kxq543wzKcY
 ### Transcript
 
 > uh are we ever gonna see a new enemy
-> 
+>
 > type we've just been talking about that
-> 
+>
 > my dude
-> 
+>
 > uh there's gonna be a big crab
-> 
+>
 > at least at least just that one at least
-> 
+>
 > at least
-> 
+>

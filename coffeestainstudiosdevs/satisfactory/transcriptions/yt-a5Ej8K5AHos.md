@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=a5Ej8K5AHos
 ### Transcript
 
 > possible what are the coupons for so you
-> 
+>
 > can buy
-> 
+>
 > cosmetic non-cosmetic things
-> 
+>

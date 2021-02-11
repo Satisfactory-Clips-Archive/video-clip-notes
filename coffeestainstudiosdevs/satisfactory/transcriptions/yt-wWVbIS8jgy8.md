@@ -17,18 +17,18 @@ https://www.youtube.com/watch?v=wWVbIS8jgy8
 ### Transcript
 
 > there's a smaller pink jelly above the
-> 
+>
 > pillar in the sky too okay then it's
-> 
+>
 > it might be some kind of easter egg or
-> 
+>
 > something that's not implemented yet or
-> 
+>
 > something i don't know
-> 
+>
 > i know there are jellyfish creatures
-> 
+>
 > that don't do anything right now
-> 
+>
 > currently in the game
-> 
+>

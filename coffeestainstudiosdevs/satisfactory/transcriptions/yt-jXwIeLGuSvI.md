@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=jXwIeLGuSvI
 ### Transcript
 
 > planet is floating rocks it's not bound
-> 
+>
 > by earth physics yeah we're on an alien
-> 
+>
 > planet so you have to expect
-> 
+>
 > some things
-> 
+>

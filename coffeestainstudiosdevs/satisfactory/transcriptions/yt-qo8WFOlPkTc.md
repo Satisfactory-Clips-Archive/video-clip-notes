@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=qo8WFOlPkTc
 ### Transcript
 
 > inevitable battle royale
-> 
+>
 > mode coming soon maybe when we get uh
-> 
+>
 > mods i don't know if that's going to be
-> 
+>
 > a thing that's possible
-> 
+>

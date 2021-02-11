@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=hro__pZa1pk
 ### Transcript
 
 > plants
-> 
+>
 > when are you adding hunger and thirst
-> 
+>
 > never just supposes that we will do it
-> 
+>
 > when tomorrow we're doing adding
-> 
+>
 > tomorrow
-> 
+>

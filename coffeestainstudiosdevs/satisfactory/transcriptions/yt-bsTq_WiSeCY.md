@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=bsTq_WiSeCY
 ### Transcript
 
 > what was that any scope of the game
-> 
+>
 > being on consoles
-> 
+>
 > uh we have no plans on that at all at
-> 
+>
 > the moment
-> 
+>

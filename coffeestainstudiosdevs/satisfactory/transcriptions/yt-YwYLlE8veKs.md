@@ -19,30 +19,30 @@ https://www.youtube.com/watch?v=YwYLlE8veKs
 ### Transcript
 
 >  can we get an indicator for the
-> 
+>
 > launch line from the launch pad
-> 
+>
 > uh wait what indicator for the launch
-> 
+>
 > line
-> 
+>
 > oh you mean the uh the
-> 
+>
 > the jump pad thing right okay okay i see
-> 
+>
 > what you mean um
-> 
+>
 > yes you can totally get that i think
-> 
+>
 > uh i think we're working on that
-> 
+>
 > actually
-> 
+>
 > i don't know what that when that's gonna
-> 
+>
 > happen but let me let me confirm that
-> 
+>
 > right here that that quality of life
-> 
+>
 > thing is gonna happen
-> 
+>

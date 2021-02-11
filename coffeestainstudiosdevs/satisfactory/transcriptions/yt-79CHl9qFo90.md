@@ -19,22 +19,22 @@ https://www.youtube.com/watch?v=79CHl9qFo90
 ### Transcript
 
 > improvements in vehicles next update i
-> 
+>
 > don't know maybe a little bit in
-> 
+>
 > multiplayer in terms of lag
-> 
+>
 > for update 4 not an experimental uh
-> 
+>
 > right now but
-> 
+>
 > maybe i'm not quite sure exactly like
-> 
+>
 > because we haven't fully tested it
-> 
+>
 > fully fully so yeah we don't know how
-> 
+>
 > much of an improvement it actually was
-> 
+>
 > but we have done something i think
-> 
+>

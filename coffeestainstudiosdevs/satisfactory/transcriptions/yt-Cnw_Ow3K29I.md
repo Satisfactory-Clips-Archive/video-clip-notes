@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=Cnw_Ow3K29I
 ### Transcript
 
 > any idea if the plan for dedicated
-> 
+>
 > server files will be headless linux
-> 
+>
 > compatible with no idea
-> 
+>

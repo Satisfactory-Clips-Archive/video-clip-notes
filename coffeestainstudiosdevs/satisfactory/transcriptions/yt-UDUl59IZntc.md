@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=UDUl59IZntc
 ### Transcript
 
 > think one word at a time is like any
-> 
+>
 > plans for or switches to divert items i
-> 
+>
 > don't know what that entails exactly
-> 
+>
 > um but not impossible
-> 
+>

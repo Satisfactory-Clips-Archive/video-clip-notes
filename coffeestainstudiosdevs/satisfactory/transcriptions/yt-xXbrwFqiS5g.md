@@ -17,24 +17,24 @@ https://www.youtube.com/watch?v=xXbrwFqiS5g
 ### Transcript
 
 > ế quá trình Android free Have you ever
-> 
+>
 > tried to Vietnamese companies in the
-> 
+>
 > Vietnamese
-> 
+>
 > I thought the method has made for you
-> 
+>
 > will make all Together the fish in your
-> 
+>
 > performance in brother and your
-> 
+>
 > performance to city of what a lovely
-> 
+>
 > Heart ramires implemented to hurt me
-> 
+>
 > warm in the way of doing things must use
-> 
+>
 > International or replace live preview
-> 
+>
 > wtw avent Natural face when you
-> 
+>

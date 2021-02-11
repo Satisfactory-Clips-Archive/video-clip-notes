@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=O9cRWaKhSRo
 ### Transcript
 
 > what about a new map that's terrifying
-> 
+>
 > [Music]
-> 
+>
 > that either will not happen or not
-> 
+>
 > happen for an incredibly long time
-> 
+>
 > can we finish this one first yeah we
-> 
+>
 > need to finish this one first okay
-> 
+>

@@ -15,30 +15,30 @@ https://www.youtube.com/watch?v=oYFn3xvAOHs
 ### Transcript
 
 > fixing machines that break but machines
-> 
+>
 > don't break
-> 
+>
 > right that's something that we very
-> 
+>
 > specifically didn't want in the game we
-> 
+>
 > didn't want like
-> 
+>
 > machines to be able to like break down
-> 
+>
 > and have to repair them and stuff like
-> 
+>
 > that
-> 
+>
 > uh we want you to focus on building
-> 
+>
 > stuff
-> 
+>
 > like the main challenge of the game is
-> 
+>
 > really
-> 
+>
 > how you lay out your factory in fact oh
-> 
+>
 > geez your factory and stuff like that
-> 
+>

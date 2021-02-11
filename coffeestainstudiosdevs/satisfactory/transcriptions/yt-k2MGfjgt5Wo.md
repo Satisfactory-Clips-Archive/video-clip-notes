@@ -17,20 +17,20 @@ https://www.youtube.com/watch?v=k2MGfjgt5Wo
 ### Transcript
 
 > so yeah let's see here oh jace got
-> 
+>
 > pronounced last names
-> 
+>
 > what a specific thing it's trying to
-> 
+>
 > pronounce my last name
-> 
+>
 > no you say it no that was wrong too that
-> 
+>
 > was wrong too
-> 
+>
 > you know what i'm talking about geez is
-> 
+>
 > this mass planing
-> 
+>
 > this definition yeah yeah yeah
-> 
+>

@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=MDs8eRquWN8
 ### Transcript
 
 > um and then what is this interface this
-> 
+>
 > is the interface of the game three years
-> 
+>
 > ago
-> 
+>
 > my god it's almost yeah
-> 
+>

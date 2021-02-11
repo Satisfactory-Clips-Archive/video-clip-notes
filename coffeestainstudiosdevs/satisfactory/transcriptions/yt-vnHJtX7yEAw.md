@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=vnHJtX7yEAw
 ### Transcript
 
 > in den comics und george w
-> 
+>
 > maxwell davies
-> 
+>

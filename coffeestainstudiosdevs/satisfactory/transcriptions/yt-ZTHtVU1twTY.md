@@ -15,20 +15,20 @@ https://www.youtube.com/watch?v=ZTHtVU1twTY
 ### Transcript
 
 > doing it from there you need to add some
-> 
+>
 > christmas and halloween stuff
-> 
+>
 > that'd be awesome to decorate factories
-> 
+>
 > we may
-> 
+>
 > be doing something about christmas
-> 
+>
 > halloween is tricky because it
-> 
+>
 > might be halloween is a long time till
-> 
+>
 > halloween now
-> 
+>
 > yeah christmas for next halloween
-> 
+>

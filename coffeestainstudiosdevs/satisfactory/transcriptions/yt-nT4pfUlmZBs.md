@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=nT4pfUlmZBs
 ### Transcript
 
 > uh will it be something like the
-> 
+>
 > resource sync but for fluids
-> 
+>
 > uh maybe i think so
-> 
+>
 > um i don't quite know
-> 
+>
 > uh but i think so
-> 
+>

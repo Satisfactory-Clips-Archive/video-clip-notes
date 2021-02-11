@@ -19,18 +19,18 @@ https://www.youtube.com/watch?v=NTeBuhOqIu0
 ### Transcript
 
 > oh yeah yeah yeah i see that player
-> 
+>
 > which stream is it possible to use power
-> 
+>
 > light as it lands no you cannot
-> 
+>
 > but uh there are other means to uh get
-> 
+>
 > around a big factory
-> 
+>
 > at you know kind of later you can do
-> 
+>
 > that
-> 
+>
 > hint say no more animals
-> 
+>

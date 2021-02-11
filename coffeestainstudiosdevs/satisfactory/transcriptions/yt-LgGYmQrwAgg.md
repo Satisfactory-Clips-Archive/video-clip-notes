@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=LgGYmQrwAgg
 ### Transcript
 
 > i wouldn't be surprised if mod support
-> 
+>
 > allows for third-party maps that would
-> 
+>
 > be really cool a lot of people want
-> 
+>
 > different maps so yeah i could
-> 
+>
 > i could do it
-> 
+>

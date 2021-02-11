@@ -17,18 +17,18 @@ https://www.youtube.com/watch?v=_Uf5e-J9TwA
 ### Transcript
 
 > um can we add solar power
-> 
+>
 > the topic of like green energy is
-> 
+>
 > something that is still sort of up for
-> 
+>
 > debate
-> 
+>
 > in uh the game so we'll see
-> 
+>
 > if we add any green energy i think solar
-> 
+>
 > power would definitely be either it
-> 
+>
 > or amongst what we would be adding
-> 
+>

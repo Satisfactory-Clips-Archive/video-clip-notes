@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=1-A4zqHdNKA
 ### Transcript
 
 > will we have other maps
-> 
+>
 > no there it is that's why that's why i
-> 
+>
 > asked that one because
-> 
+>
 > i need to be over real quick
-> 
+>

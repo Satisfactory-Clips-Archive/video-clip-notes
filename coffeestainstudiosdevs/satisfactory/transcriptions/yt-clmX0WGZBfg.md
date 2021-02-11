@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=clmX0WGZBfg
 ### Transcript
 
 > i think the milestones are too cheap uh
-> 
+>
 > i think
-> 
+>
 > as you go on they don't they're not that
-> 
+>
 > cheap no there's gonna be
-> 
+>
 > yeah becomes less cheap
-> 
+>

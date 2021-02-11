@@ -15,276 +15,276 @@ https://www.youtube.com/watch?v=iSMAUqquuvc
 ### Transcript
 
 > you expect us to just drop it road map
-> 
+>
 > so
-> 
+>
 > so i saw this post on the steam farms
-> 
+>
 > about road map as well
-> 
+>
 > so so let me let me talk a bit about
-> 
+>
 > that as well
-> 
+>
 > so so the reason why we don't have a
-> 
+>
 > roadmap anymore
-> 
+>
 > uh and we've talked about this in the
-> 
+>
 > past on our previous streams
-> 
+>
 > um the big reason why we don't have a
-> 
+>
 > roadmap is because
-> 
+>
 > uh stuff change all the time and
-> 
+>
 > we don't feel confident enough or like
-> 
+>
 > we don't
-> 
+>
 > feel comfortable putting out uh
-> 
+>
 > deadlines
-> 
+>
 > for our deliverables uh because
-> 
+>
 > it there are several reasons for this
-> 
+>
 > but i think the biggest one for us
-> 
+>
 > is mainly that it's set up like these
-> 
+>
 > deliverables in the roadmap
-> 
+>
 > set up kind of like internal deadlines
-> 
+>
 > for us which
-> 
+>
 > created this fallacy where we have we've
-> 
+>
 > made the decision that we shouldn't
-> 
+>
 > crunch
-> 
+>
 > and yet we would crunch for each update
-> 
+>
 > and we tried to avoid that
-> 
+>
 > um so that's why we don't have like a
-> 
+>
 > road map saying like
-> 
+>
 > at this time point in time we're gonna
-> 
+>
 > release this that's why we don't have a
-> 
+>
 > road map that's like
-> 
+>
 > a road by road map but then the next
-> 
+>
 > question is okay but why don't you just
-> 
+>
 > have like
-> 
+>
 > a you know general information on what's
-> 
+>
 > coming for the game it doesn't have to
-> 
+>
 > you don't have to specify like it's
-> 
+>
 > coming in march or you know
-> 
+>
 > if you don't like doing that why is
-> 
+>
 > there nothing like that and the reason
-> 
+>
 > for that is because
-> 
+>
 > uh we haven't like decided yet fully
-> 
+>
 > exactly what we wanna
-> 
+>
 > like what's coming next um
-> 
+>
 > and we we are doing that like
-> 
+>
 > i can't like when we say we don't know
-> 
+>
 > it's coming like obviously we have ideas
-> 
+>
 > of what's coming
-> 
+>
 > um and when i say we don't know it means
-> 
+>
 > we haven't decided right so we haven't
-> 
+>
 > fully decided yet
-> 
+>
 > um exactly you know
-> 
+>
 > what's coming roughly when it's coming
-> 
+>
 > you know
-> 
+>
 > um because some things are still kind of
-> 
+>
 > like in debate
-> 
+>
 > internally some things are you know
-> 
+>
 > up for anything can happen you know
-> 
+>
 > development wise like we
-> 
+>
 > we it's very easy to be ambitious with
-> 
+>
 > game development and be like yeah we're
-> 
+>
 > gonna have this and this and this and
-> 
+>
 > it's gonna be awesome
-> 
+>
 > and then you work like on half of like
-> 
+>
 > you spend like half the time oh sorry
-> 
+>
 > if you say like in a year we'll have
-> 
+>
 > this business and you spend like half
-> 
+>
 > the year you're like
-> 
+>
 > wow we only made like 20 of what we
-> 
+>
 > set out to do um
-> 
+>
 > so we also don't want to build any
-> 
+>
 > expectations of like
-> 
+>
 > what satisfactory might contain before
-> 
+>
 > we
-> 
+>
 > know what satisfactory will contain we
-> 
+>
 > don't we
-> 
+>
 > when we commit to stuff we want to be
-> 
+>
 > like this is 100 what's gonna happen
-> 
+>
 > um so that's why we don't even have that
-> 
+>
 > uh however uh we are
-> 
+>
 > discussing ways that we get around this
-> 
+>
 > or like how we
-> 
+>
 > kind of fill the gap with this uh
-> 
+>
 > because we can really only go so far
-> 
+>
 > like
-> 
+>
 > not everyone's gonna tune into the
-> 
+>
 > streams and we try to be as like
-> 
+>
 > explicit as possible about like why
-> 
+>
 > certain things are the way they are on
-> 
+>
 > stream uh but not everyone can tune in
-> 
+>
 > for that and
-> 
+>
 > and uh not everyone wants to tune in for
-> 
+>
 > that um
-> 
+>
 > so we're we're trying to figure out ways
-> 
+>
 > to fill that hole and one of ways is to
-> 
+>
 > have a more
-> 
+>
 > open development cycle where we talk a
-> 
+>
 > little bit more like what we're
-> 
+>
 > actively working on right now instead of
-> 
+>
 > being like figurative about it and
-> 
+>
 > release it again um
-> 
+>
 > so and and this is something that i
-> 
+>
 > reiterate almost every week that we but
-> 
+>
 > we think this is important
-> 
+>
 > um that um
-> 
+>
 > like whenever i see people saying like
-> 
+>
 > the game's dead like what the are
-> 
+>
 > you talking about there's so much
-> 
+>
 > happening behind the scenes
-> 
+>
 > and it's just like i guess it falls on
-> 
+>
 > me and jace to make sure that you guys
-> 
+>
 > know that there is happening holy
-> 
-> 
-> 
+>
+>
+>
 > there's a lot of work going on in the
-> 
+>
 > background um
-> 
+>
 > but for various reasons we can't be like
-> 
+>
 > you know
-> 
+>
 > we can't throw ourselves out there
-> 
+>
 > because of this and this and this and
-> 
+>
 > sometimes it's really hard it's really
-> 
+>
 > hard to convey that when you don't you
-> 
+>
 > know
-> 
+>
 > have these opportunities to to be you
-> 
+>
 > know face on face like this and explain
-> 
+>
 > things
-> 
+>
 > um and not everyone reads like all the
-> 
+>
 > steam post or the steam news
-> 
+>
 > section stuff or like you know so it's
-> 
+>
 > just hard to reach everyone
-> 
+>
 > so try just to spread the information as
-> 
+>
 > much as you can
-> 
+>
 > and help us out and know that stuff is
-> 
+>
 > happening
-> 
+>
 > like there's so much work happening
-> 
+>

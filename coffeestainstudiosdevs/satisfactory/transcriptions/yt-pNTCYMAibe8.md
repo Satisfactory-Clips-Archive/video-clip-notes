@@ -17,24 +17,24 @@ https://www.youtube.com/watch?v=pNTCYMAibe8
 ### Transcript
 
 > what's the name of the player character
-> 
+>
 > oh that's a good question i have no idea
-> 
+>
 > that's a question for hannah
-> 
+>
 > maybe she knows maybe we're all
-> 
+>
 > maybe maybe the name of the pioneer is
-> 
+>
 > is uh
-> 
+>
 > lol engineer 44
-> 
+>
 > 53 45 yeah maybe it's just a number
-> 
+>
 > maybe hannah is the name
-> 
+>
 > um that's a good question yeah i don't
-> 
+>
 > know actually that's a good question
-> 
+>

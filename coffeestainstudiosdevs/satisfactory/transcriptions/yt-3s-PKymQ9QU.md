@@ -17,28 +17,28 @@ https://www.youtube.com/watch?v=3s-PKymQ9QU
 ### Transcript
 
 > um ever consider making a vr version
-> 
+>
 > satisfactory i don't think that's been
-> 
+>
 > like seriously considered i mean it
-> 
+>
 > could be pretty cool
-> 
+>
 > yeah eventually i i mean i mean maybe
-> 
+>
 > everything's possible but
-> 
+>
 > yeah i think so yeah and maybe that's
-> 
+>
 > that would be
-> 
+>
 > i think that that would be such a low
-> 
+>
 > priority at least for
-> 
+>
 > quite some time this factory needs
-> 
+>
 > control support before considering vr
-> 
+>
 > yeah yeah
-> 
+>

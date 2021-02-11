@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=clJjkvA5whw
 ### Transcript
 
 > fix it toilet soon soon one dollar dlc
-> 
+>
 > flush yeah
-> 
+>

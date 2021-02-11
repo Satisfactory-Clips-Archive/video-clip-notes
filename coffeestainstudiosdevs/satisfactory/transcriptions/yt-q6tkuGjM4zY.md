@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=q6tkuGjM4zY
 ### Transcript
 
 > exactly uh progressive generation i
-> 
+>
 > guess i mean procedural generation of
-> 
+>
 > the world
-> 
+>
 > we aren't planning on doing that
-> 
+>

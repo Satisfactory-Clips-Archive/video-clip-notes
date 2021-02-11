@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=KYox3m1mePU
 ### Transcript
 
 > happen no have we considered flying
-> 
+>
 > drones
-> 
+>
 > yeah we have
-> 
+>

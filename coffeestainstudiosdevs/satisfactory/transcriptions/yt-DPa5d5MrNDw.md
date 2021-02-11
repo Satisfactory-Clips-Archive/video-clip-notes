@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=DPa5d5MrNDw
 ### Transcript
 
 > yet.
-> 
+>
 > when is Satisfactory 2 coming out?
-> 
+>
 > Soon, soon.
-> 
-> Uhh, 
-> 
+>
+> Uhh,
+>
 > Update 4 will come up after Satisfactory 2.
-> 
+>

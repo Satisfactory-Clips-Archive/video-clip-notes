@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=-b2L_nlW_Fo
 ### Transcript
 
 > please tell me update4 will use vip or
-> 
+>
 > you mean samore no
-> 
+>
 > update4 will not use samwar that's like
-> 
+>
 > the one thing i know for sure
-> 
+>
 > is not gonna be the case
-> 
+>

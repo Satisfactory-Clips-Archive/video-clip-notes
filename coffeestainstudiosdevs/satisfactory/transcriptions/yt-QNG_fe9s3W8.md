@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=QNG_fe9s3W8
 ### Transcript
 
 > y sí
-> 
+>
 > pixie klein ahora bien festeja
-> 
+>
 > job
-> 
+>

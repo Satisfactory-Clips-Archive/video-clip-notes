@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=gNfCEV1J-2Q
 ### Transcript
 
 > like a new map for satisfactory oh
-> 
+>
 > uh let's finish the fir this one we have
-> 
+>
 > first uh maybe it's dlc
-> 
+>
 > you know it might do something with that
-> 
+>
 > but
-> 
+>

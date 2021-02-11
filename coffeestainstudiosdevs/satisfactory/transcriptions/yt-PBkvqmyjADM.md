@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=PBkvqmyjADM
 ### Transcript
 
 > yep how often will you release updates
-> 
+>
 > early access i don't know like maybe
-> 
+>
 > every month or something will be aimed
-> 
+>
 > for something like
-> 
+>
 > that off yeah there's like the road map
-> 
+>
 > that you can take a look yeah there's
-> 
+>
 > the roadmap
-> 
+>
 > link below the video in the panels
-> 
+>

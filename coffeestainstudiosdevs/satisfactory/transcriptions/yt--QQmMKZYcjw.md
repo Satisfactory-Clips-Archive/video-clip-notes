@@ -17,6 +17,6 @@ https://www.youtube.com/watch?v=-QQmMKZYcjw
 ### Transcript
 
 > when will the hub get a plunger soon
-> 
+>
 > soon
-> 
+>

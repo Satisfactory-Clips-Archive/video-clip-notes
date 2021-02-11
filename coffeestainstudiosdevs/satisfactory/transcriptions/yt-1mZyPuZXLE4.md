@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=1mZyPuZXLE4
 ### Transcript
 
 > the anxiety anything narrative
-> 
+>
 > that's not going to come until way way
-> 
+>
 > way later
-> 
+>

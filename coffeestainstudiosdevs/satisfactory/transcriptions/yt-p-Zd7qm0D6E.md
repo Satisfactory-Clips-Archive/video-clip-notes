@@ -15,28 +15,28 @@ https://www.youtube.com/watch?v=p-Zd7qm0D6E
 ### Transcript
 
 > future we are planning for it when will
-> 
+>
 > coal be coal
-> 
+>
 > on the resource scanners you know what
-> 
+>
 > never like at this point i don't think
-> 
+>
 > ever
-> 
+>
 > there was another typo that we didn't
-> 
+>
 > update for so long
-> 
+>
 > it was like what was it wire or
-> 
+>
 > something like that
-> 
+>
 > cable or something yeah yeah yeah it was
-> 
+>
 > kable or like it was
-> 
+>
 > yeah it was kabel it was spelled cabell
-> 
+>
 > yeah exactly and we didn't update that
-> 
+>

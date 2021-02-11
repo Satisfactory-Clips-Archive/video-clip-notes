@@ -19,4 +19,4 @@ https://www.youtube.com/watch?v=s8HISCrP7w8
 ### Transcript
 
 > noch brennt
-> 
+>

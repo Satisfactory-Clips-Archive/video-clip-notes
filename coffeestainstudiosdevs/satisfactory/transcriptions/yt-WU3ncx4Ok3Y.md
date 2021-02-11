@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=WU3ncx4Ok3Y
 ### Transcript
 
 > any halloween event no but we're talking
-> 
+>
 > about a christmas thing so hopefully
-> 
+>
 > we'll have time to do something small
-> 
+>
 > for christmas
-> 
+>
 > [Music]
-> 
+>
 > if fingers crossed
-> 
+>

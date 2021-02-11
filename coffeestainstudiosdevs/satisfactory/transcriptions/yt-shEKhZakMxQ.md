@@ -17,18 +17,18 @@ https://www.youtube.com/watch?v=shEKhZakMxQ
 ### Transcript
 
 > will we have more monsters
-> 
+>
 > um yes i think so
-> 
+>
 > i'm pretty sure the the like
-> 
+>
 > yeah like we have one more thing that's
-> 
+>
 > for sure coming that's the big crab
-> 
+>
 > enemy that we have in our trailer
-> 
+>
 > um but i think we have more plans for
-> 
+>
 > animals i'm not quite sure i think so
-> 
+>

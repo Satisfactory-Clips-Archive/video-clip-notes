@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=S0BQ6HAU2vA
 ### Transcript
 
 > so with the engine upgrade effect
-> 
+>
 > performance it should
-> 
+>
 > there's going to be a video out this
-> 
+>
 > week on the engine upgrade
-> 
+>
 > all right
-> 
+>

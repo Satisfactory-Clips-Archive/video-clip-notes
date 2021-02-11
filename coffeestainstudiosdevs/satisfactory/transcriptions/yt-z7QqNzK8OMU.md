@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=z7QqNzK8OMU
 ### Transcript
 
 > is the engineer human at least oh i
-> 
+>
 > don't know is
-> 
+>
 > is she is she you tell us
-> 
+>
 > make sure to send an email to us at it's
-> 
+>
 > the engineering female.satisfactory.com
-> 
+>
 > slash musk we'll know
-> 
+>
 > dotcom
-> 
+>

@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=nVXcTzC72EQ
 ### Transcript
 
 > the press third person when not anytime
-> 
+>
 > soon
-> 
+>
 > if at all
-> 
+>

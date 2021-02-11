@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=zekvCEX_mv8
 ### Transcript
 
 > hey can i play an epic with someone on
-> 
+>
 > steam yes you can
-> 
+>
 > yes
-> 
+>

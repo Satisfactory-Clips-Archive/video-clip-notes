@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=G_pmJbKEhX4
 ### Transcript
 
 > um well the gabriel will be on console
-> 
+>
 > uh we don't know
-> 
+>
 > we don't have any plans for that
-> 
+>
 > currently but we never know what happens
-> 
+>
 > in the future
-> 
+>

@@ -17,28 +17,28 @@ https://www.youtube.com/watch?v=KfvXbDycjds
 ### Transcript
 
 > so it's looking pretty good geocities
-> 
+>
 > yes i used angel fire as well back in
-> 
+>
 > the day
-> 
+>
 > i don't know anyone no angel fire
-> 
+>
 > there's one in the chat if you know
-> 
+>
 > angelfire
-> 
+>
 > for your websites angel fire that sounds
-> 
+>
 > like an anime
-> 
+>
 > it's just like one of my japanese anime
-> 
+>
 > sounds like a username from
-> 
+>
 > 2000 yeah no you need like angelfire 420
-> 
+>
 > right you fired 995
-> 
+>
 > 420 yeah
-> 
+>

@@ -17,26 +17,26 @@ https://www.youtube.com/watch?v=RT5R6J7dj3g
 ### Transcript
 
 > a couple small things uh smirkin
-> 
+>
 > apparently did a no miners challenge
-> 
+>
 > loose deposits only what does that mean
-> 
+>
 > the
-> 
+>
 > things that you like yeah yeah but like
-> 
+>
 > you can only pick up deposits or i think
-> 
+>
 > so yeah what the
-> 
+>
 > or or maybe those like big rock things
-> 
+>
 > that's pretty interesting that's pretty
-> 
+>
 > hardcore it is smirking though smirking
-> 
+>
 > is hardcore yeah
-> 
+>
 > true
-> 
+>

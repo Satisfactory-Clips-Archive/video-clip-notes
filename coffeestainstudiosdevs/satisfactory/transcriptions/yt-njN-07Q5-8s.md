@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=njN-07Q5-8s
 ### Transcript
 
 > yeah some flying vehicles for overhead
-> 
+>
 > view of the factory there are other
-> 
+>
 > solutions to a
-> 
+>
 > red overhead view of the factory uh also
-> 
+>
 > like a
-> 
+>
 > yeah i mean there are jet packs so
-> 
+>
 > that's kind of a thing but
-> 
+>

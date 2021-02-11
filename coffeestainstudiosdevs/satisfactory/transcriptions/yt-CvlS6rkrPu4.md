@@ -15,22 +15,22 @@ https://www.youtube.com/watch?v=CvlS6rkrPu4
 ### Transcript
 
 > i'm [ __ ] dead oh unreal versus unity
-> 
+>
 > they're both good
-> 
+>
 > yeah got him that's not what you
-> 
+>
 > expected huh
-> 
+>
 > but i i have a preference but where's
-> 
+>
 > the person they're both good
-> 
+>
 > and i've worked with both unity and
-> 
+>
 > unreal and you have two right
-> 
+>
 > yeah so we can actually have a
-> 
+>
 > here's that person
-> 
+>

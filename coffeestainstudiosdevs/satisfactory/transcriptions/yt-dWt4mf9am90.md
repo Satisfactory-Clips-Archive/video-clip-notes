@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=dWt4mf9am90
 ### Transcript
 
 > tier four open now no no we're not going
-> 
+>
 > to open
-> 
+>
 > any more tiers um well like until early
-> 
+>
 > access when you get early access it'll
-> 
+>
 > be
-> 
+>
 > oh man it'll be uh
-> 
+>

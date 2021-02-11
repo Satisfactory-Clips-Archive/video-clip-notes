@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=-IAV3zlXLss
 ### Transcript
 
 > uh any news not dedicated servers no no
-> 
+>
 > news
-> 
+>

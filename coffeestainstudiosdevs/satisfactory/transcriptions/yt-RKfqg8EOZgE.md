@@ -15,20 +15,20 @@ https://www.youtube.com/watch?v=RKfqg8EOZgE
 ### Transcript
 
 > customs yeah any new additions to the
-> 
+>
 > music plan
-> 
+>
 > i don't know if i'm allowed to say this
-> 
+>
 > or not but i'm going to say it yes
-> 
+>
 > yes i've said baby oh well yes yeah yeah
-> 
+>
 > there's
-> 
+>
 > there's uh new additions to the music
-> 
+>
 > being
-> 
+>
 > planned
-> 
+>

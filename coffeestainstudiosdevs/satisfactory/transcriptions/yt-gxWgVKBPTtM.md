@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=gxWgVKBPTtM
 ### Transcript
 
 > obviously you guys are planning a mobile
-> 
+>
 > port right
-> 
+>
 > yeah yeah this is we're just running on
-> 
+>
 > mobile emulator right now it'll it'll be
-> 
+>
 > coming to uh
-> 
+>
 > uh epic mobile devices
-> 
+>
 > the epic windows but
-> 
+>

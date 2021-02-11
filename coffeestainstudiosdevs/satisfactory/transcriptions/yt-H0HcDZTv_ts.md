@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=H0HcDZTv_ts
 ### Transcript
 
 > what is the official release uh
-> 
+>
 > the early access is on the 19th of march
-> 
+>
 > the final is we have no idea
-> 
+>

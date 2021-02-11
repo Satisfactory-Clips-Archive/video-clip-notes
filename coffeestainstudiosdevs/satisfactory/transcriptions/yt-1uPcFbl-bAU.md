@@ -19,12 +19,12 @@ https://www.youtube.com/watch?v=1uPcFbl-bAU
 ### Transcript
 
 > mr worldwide i am
-> 
+>
 > packages out yet no they're going to
-> 
+>
 > come with a big update at the end of the
-> 
+>
 > month
-> 
+>
 > yes
-> 
+>

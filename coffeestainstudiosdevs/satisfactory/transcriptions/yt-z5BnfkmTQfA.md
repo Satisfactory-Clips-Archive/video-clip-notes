@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=z5BnfkmTQfA
 ### Transcript
 
 > procedural generator that's correct uh
-> 
+>
 > how do you win the heart of wizard doggo
-> 
+>
 > oh you know you should
-> 
+>
 > there are you trust you got to earn its
-> 
+>
 > trust where are you guys
-> 
+>

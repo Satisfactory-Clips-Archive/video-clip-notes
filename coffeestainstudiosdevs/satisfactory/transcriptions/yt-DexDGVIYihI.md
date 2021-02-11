@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=DexDGVIYihI
 ### Transcript
 
 > idea smart and programmable storage
-> 
+>
 > containers
-> 
+>
 > whoa whoa that's too big big brain mode
-> 
+>
 > for me
-> 
+>
 > can't handle it
-> 
+>

@@ -19,8 +19,8 @@ https://www.youtube.com/watch?v=_bVk1N0dvDY
 ### Transcript
 
 > yeah she wants to delete the map oh
-> 
+>
 > someone understands someone understands
-> 
+>
 > yeah imagine deleting them out
-> 
+>

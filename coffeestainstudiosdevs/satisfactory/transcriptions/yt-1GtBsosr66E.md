@@ -21,26 +21,26 @@ https://www.youtube.com/watch?v=1GtBsosr66E
 ### Transcript
 
 > mentioned there all right
-> 
+>
 > jace f marry kill uh either josh or
-> 
+>
 > anyone from chat
-> 
+>
 > kill joshie uh marry josh and
-> 
+>
 > f smith oh yeah
-> 
+>
 > i just want to sit down and watch josh
-> 
+>
 > play video games all day
-> 
+>
 > you get to be there please stop doing
-> 
+>
 > the same thing over again yeah
-> 
+>
 > yeah exactly except you won't get tired
-> 
+>
 > of it
-> 
+>
 > i'm pretty sure exactly take me now josh
-> 
+>

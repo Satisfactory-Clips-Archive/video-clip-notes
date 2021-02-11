@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=0KLJ2_1P_uk
 ### Transcript
 
 > could this mental mode have an ignore
-> 
+>
 > function maybe
-> 
+>
 > uh maybe we've talked about that too i
-> 
+>
 > think
-> 
+>
 > the thing that makes the most sense too
-> 
+>
 > intuitively is the deselecting
-> 
+>
 > in some way
-> 
+>

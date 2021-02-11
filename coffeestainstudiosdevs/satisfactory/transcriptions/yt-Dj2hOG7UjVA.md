@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=Dj2hOG7UjVA
 ### Transcript
 
 > geez how much configuration will be able
-> 
+>
 > to dedicated servers for example we'll
-> 
+>
 > be able to change the server setting for
-> 
+>
 > offline progress
-> 
+>
 > uh i don't know i don't know i don't
-> 
+>
 > know if we're
-> 
+>
 > intentionally going to be like locking
-> 
+>
 > anything down but yeah
-> 
+>

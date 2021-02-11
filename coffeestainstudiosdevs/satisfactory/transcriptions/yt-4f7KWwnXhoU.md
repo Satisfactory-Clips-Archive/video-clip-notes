@@ -17,38 +17,38 @@ https://www.youtube.com/watch?v=4f7KWwnXhoU
 ### Transcript
 
 > will dedicate a service be available on
-> 
+>
 > linux or windows
-> 
+>
 > so we're first and foremost
-> 
+>
 > windows um but
-> 
+>
 > we might do some form of linux support
-> 
+>
 > uh
-> 
+>
 > depending on time
-> 
+>
 > [Music]
-> 
+>
 > because we know that a lot of people
-> 
+>
 > want that
-> 
+>
 > so it's not impossible
-> 
+>
 > and also to differentiate because we do
-> 
+>
 > say also that we don't have plans for
-> 
+>
 > like mac and linux right now but
-> 
+>
 > it's not impossible either but like the
-> 
+>
 > linux dedicated server thing is more
-> 
+>
 > plausible
-> 
+>
 > than us making a mac and linux version
-> 
+>

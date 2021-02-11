@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=7fXJNHVrNCs
 ### Transcript
 
 > oh for sure yet who's kibbits i don't
-> 
+>
 > know i keep people i keep seeing that
-> 
+>
 > i'm not sure who it is though
-> 
+>

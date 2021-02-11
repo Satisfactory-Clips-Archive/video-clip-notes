@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=qJ56jBYTtAc
 ### Transcript
 
 > uh will we see vehicles air vehicles
-> 
+>
 > sometime in the future
-> 
+>
 > i mean there's already one in there
-> 
+>
 > it delivers your stuff
-> 
+>

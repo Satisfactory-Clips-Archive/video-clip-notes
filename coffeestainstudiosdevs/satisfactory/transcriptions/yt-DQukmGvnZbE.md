@@ -19,8 +19,8 @@ https://www.youtube.com/watch?v=DQukmGvnZbE
 ### Transcript
 
 > sounds dope uh can we paint lizard
-> 
+>
 > doggers in update four
-> 
+>
 > i don't think so
-> 
+>

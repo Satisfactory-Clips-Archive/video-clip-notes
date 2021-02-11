@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=q1L297zZiDY
 ### Transcript
 
 > have you sold 10 copies yet soon soon
-> 
+>
 > yeah we keep selling 10 but then we get
-> 
+>
 > refunds yeah yeah it's
-> 
+>
 > you know how it is stupid sexy refund
-> 
+>
 > policy
-> 
+>

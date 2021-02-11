@@ -21,8 +21,8 @@ https://www.youtube.com/watch?v=-N0atMiN9dM
 ### Transcript
 
 > update for it no they don't still uh
-> 
+>
 > work in progress they're gonna come with
-> 
+>
 > the story
-> 
+>

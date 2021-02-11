@@ -17,22 +17,22 @@ https://www.youtube.com/watch?v=J8M7X0igt2w
 ### Transcript
 
 > uh will color gun work on vehicles in
-> 
+>
 > the future
-> 
+>
 > yes it i think so wait maybe i
-> 
+>
 > shouldn't say that because i actually am
-> 
+>
 > not certain but i think so
-> 
+>
 > i'm not water coming you guys i feel
-> 
+>
 > regret oh yeah
-> 
+>
 > it's gonna no it's fine jase don't just
-> 
+>
 > go for it
-> 
+>
 > live your dreams
-> 
+>

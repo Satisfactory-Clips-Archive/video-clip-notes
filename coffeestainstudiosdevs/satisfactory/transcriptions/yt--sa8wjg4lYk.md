@@ -19,16 +19,16 @@ https://www.youtube.com/watch?v=-sa8wjg4lYk
 ### Transcript
 
 > what are your guys thoughts on
-> 
+>
 > transports uh beyond jet packs
-> 
+>
 > uh i'm not completely convinced that
-> 
+>
 > there's that they're necessary
-> 
+>
 > that's my that's my thought the what uh
-> 
+>
 > airborne transport beyond jetpacks oh
-> 
+>
 > yes
-> 
+>

@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=ZHumj5MeIcw
 ### Transcript
 
 > the way it is so i'm not ignoring vr
-> 
+>
 > support questions
-> 
+>
 > uh vr support is not planned whatsoever
-> 
+>
 > um i don't think it's something we're
-> 
+>
 > gonna do
-> 
+>
 > um it might be that some mod makes it i
-> 
+>
 > don't know um
-> 
+>

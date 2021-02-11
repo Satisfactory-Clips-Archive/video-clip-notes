@@ -17,18 +17,18 @@ https://www.youtube.com/watch?v=FlaP38G7O5U
 ### Transcript
 
 > by the way guys flushable toilet
-> 
+>
 > 1 dlc i i decided
-> 
+>
 > what about the toilet paper though one
-> 
+>
 > yellow square
-> 
+>
 > you can only buy one packet at a time
-> 
+>
 > [Music]
-> 
+>
 > remember that yeah that's topical anyway
-> 
+>
 > um
-> 
+>

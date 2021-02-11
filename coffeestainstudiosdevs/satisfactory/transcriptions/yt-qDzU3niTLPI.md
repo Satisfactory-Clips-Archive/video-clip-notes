@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=qDzU3niTLPI
 ### Transcript
 
 > um more decay on
-> 
+>
 > experimental can't really comment on
-> 
+>
 > mods you guys because um we don't
-> 
+>
 > officially support it so
-> 
+>
 > um maybe it will work maybe not
-> 
+>

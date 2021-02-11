@@ -19,14 +19,14 @@ https://www.youtube.com/watch?v=eFgO1iuPr20
 ### Transcript
 
 > um
-> 
+>
 > are we getting a new gun with the gas
-> 
+>
 > update like a freeze gun
-> 
+>
 > uh i don't think so i don't know
-> 
+>
 > actually no i don't think so
-> 
+>
 > this is a peaceful game okay
-> 
+>

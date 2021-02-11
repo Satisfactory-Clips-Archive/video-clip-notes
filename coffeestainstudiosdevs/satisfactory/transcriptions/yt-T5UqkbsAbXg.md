@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=T5UqkbsAbXg
 ### Transcript
 
 > thoughts on adding a priority merger
-> 
+>
 > similar to smart splitter using overflow
-> 
+>
 > uh i don't know requested on the
-> 
+>
 > question
-> 
+>
 > site it's the best place to do that
-> 
+>

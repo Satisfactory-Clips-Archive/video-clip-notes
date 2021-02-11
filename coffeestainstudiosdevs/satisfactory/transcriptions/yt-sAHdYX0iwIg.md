@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=sAHdYX0iwIg
 ### Transcript
 
 > um water extractors need to snap to grid
-> 
+>
 > yo i would appreciate that a lot because
-> 
+>
 > i just a generic like
-> 
+>
 > um global grid in general would be sweet
-> 
+>

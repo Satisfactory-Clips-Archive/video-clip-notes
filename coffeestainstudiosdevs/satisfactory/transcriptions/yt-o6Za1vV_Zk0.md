@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=o6Za1vV_Zk0
 ### Transcript
 
 > won't be for a while uh how to change
-> 
+>
 > your character from male to female the
-> 
+>
 > character is female so you did it
-> 
+>
 > great job um got it um
-> 
+>

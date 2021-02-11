@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=Np6yZYt45lw
 ### Transcript
 
 > that's right horizontal lifts please
-> 
+>
 > isn't it isn't that isn't that just a
-> 
+>
 > commando
-> 
+>
 > mind blown all right
-> 
+>

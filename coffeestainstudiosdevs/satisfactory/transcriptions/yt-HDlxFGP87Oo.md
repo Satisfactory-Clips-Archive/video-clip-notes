@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=HDlxFGP87Oo
 ### Transcript
 
 > why is the chainsaw a gasoline
-> 
+>
 > two-stroke
-> 
+>
 > i don't know sound design i guess
-> 
+>
 > i think it's more sound design than
-> 
+>
 > anything
-> 
+>

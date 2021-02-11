@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=AtqljG_K7xA
 ### Transcript
 
 > so are there plans to have conveyor
-> 
+>
 > filters if you look on youtube there's a
-> 
+>
 > video on
-> 
+>
 > uh splitters or like conveyor belts
-> 
+>
 > splitters or something like that
-> 
+>
 > and if you analyze that you may have a
-> 
+>
 > good idea of what
-> 
+>
 > splitters may or may not be able to do
-> 
+>

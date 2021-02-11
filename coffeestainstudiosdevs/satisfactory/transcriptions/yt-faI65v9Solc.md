@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=faI65v9Solc
 ### Transcript
 
 > we need some more easter hag hints from
-> 
+>
 > hannah
-> 
+>
 > maybe a weekly thing for each stream
-> 
+>
 > that's not a bad idea actually
-> 
+>
 > if there's enough but if we can't tease
-> 
+>
 > aaron like we can
-> 
+>
 > he's everything
-> 
+>

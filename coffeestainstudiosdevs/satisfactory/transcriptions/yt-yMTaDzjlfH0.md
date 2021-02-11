@@ -19,34 +19,34 @@ https://www.youtube.com/watch?v=yMTaDzjlfH0
 ### Transcript
 
 > yeah there are going to be smaller
-> 
+>
 > updates dj pocus
-> 
+>
 > um as well as a big one on the way as
-> 
+>
 > well
-> 
+>
 > but not as big as update three like that
-> 
+>
 > was the most massive we're ever
-> 
+>
 > done and maybe every i mean we we don't
-> 
+>
 > know that's the thing like maybe we will
-> 
+>
 > make a bigger update
-> 
+>
 > and like work on it in secret at the
-> 
+>
 > same time
-> 
+>
 > or something i don't know we're doing
-> 
+>
 > one now yeah don't say that dude
-> 
+>
 > or what if he's whoa what if he's
-> 
+>
 > telling the truth
-> 
+>
 > we'll never know we'll just never know
-> 
+>

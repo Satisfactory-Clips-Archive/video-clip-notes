@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=Z0yYtiR__Nk
 ### Transcript
 
 > yeah when will the game be released from
-> 
+>
 > early access
-> 
+>
 > no idea no idea still got some time left
-> 
+>

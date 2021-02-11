@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=9rXxGWPB21E
 ### Transcript
 
 > can you please add a smarter
-> 
+>
 > programmable merger don't we have that
-> 
+>
 > or is that the splitter
-> 
+>

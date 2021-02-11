@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=GZL-xNTeXlI
 ### Transcript
 
 > [Music]
-> 
+>
 > can you add
-> 
+>
 > satisf can you add factories to sanctum
-> 
+>
 > since you aren't adding tower defense to
-> 
+>
 > satisfactory
-> 
+>
 > who boy uh the short answer is
-> 
+>
 > that would no
-> 
+>
 > well that would be cool
-> 
+>

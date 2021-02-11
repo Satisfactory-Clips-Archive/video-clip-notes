@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=aJZ3jTvUHHQ
 ### Transcript
 
 > is creative mode coming we
-> 
+>
 > we i think we're going to be adding um
-> 
+>
 > uh alternative game modes in the future
-> 
+>
 > but and creative mode would then be one
-> 
+>
 > of them
-> 
+>
 > um but yeah not just yet
-> 
+>

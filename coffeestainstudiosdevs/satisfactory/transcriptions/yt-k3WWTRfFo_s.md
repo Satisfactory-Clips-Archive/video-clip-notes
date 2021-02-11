@@ -17,24 +17,24 @@ https://www.youtube.com/watch?v=k3WWTRfFo_s
 ### Transcript
 
 > do we get better jump pads in the new
-> 
+>
 > update
-> 
+>
 > you mean like for early access yes
-> 
+>
 > like that you get the jump pads from
-> 
+>
 > experimental
-> 
+>
 > and they are way better i just want to
-> 
+>
 > say my personal opinion on this on this
-> 
+>
 > very delicate matter it's way easier to
-> 
+>
 > set up like
-> 
+>
 > chains of jump pads
-> 
+>
 > just saying
-> 
+>

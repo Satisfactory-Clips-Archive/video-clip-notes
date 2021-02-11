@@ -15,22 +15,22 @@ https://www.youtube.com/watch?v=0lYeX6eduFM
 ### Transcript
 
 > i hope it's before release of cyberpunk
-> 
+>
 > so i don't think
-> 
+>
 > personally it will um because
-> 
+>
 > cyberpunk is november right but
-> 
+>
 > cyberpunk will also get delayed five
-> 
+>
 > more times right um
-> 
+>
 > so i think people will have a chance to
-> 
+>
 > play cyberpunk and then go back
-> 
+>
 > once that's done maybe depending on how
-> 
+>
 > far you got
-> 
+>

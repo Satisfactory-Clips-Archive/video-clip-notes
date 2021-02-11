@@ -15,20 +15,20 @@ https://www.youtube.com/watch?v=YhiTxpNy9Ao
 ### Transcript
 
 > probably gonna wait uh i need the coffee
-> 
+>
 > mug like i
-> 
+>
 > like in the game i play but the cover
-> 
+>
 > guppy is in the game you can get the
-> 
+>
 > coffee cup in the game
-> 
+>
 > get that cup get that cup
-> 
+>
 > um i need that cup for christmas
-> 
+>
 > hopefully we can get in for christmas
-> 
+>
 > um
-> 
+>

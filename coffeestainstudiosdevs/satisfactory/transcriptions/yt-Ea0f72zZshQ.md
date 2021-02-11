@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=Ea0f72zZshQ
 ### Transcript
 
 > it's pretty crazy yeah will the game
-> 
+>
 > expand into space so will it stay on the
-> 
+>
 > ground it'll stay on the ground you
-> 
+>
 > don't go to space
-> 
+>
 > don't go to space
-> 
+>

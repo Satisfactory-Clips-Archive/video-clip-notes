@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=otcOBJLcgic
 ### Transcript
 
 > um how much will update 4b i mean you
-> 
+>
 > don't have to pay money for it if that's
-> 
+>
 > what you're asking
-> 
+>
 > no
-> 
+>

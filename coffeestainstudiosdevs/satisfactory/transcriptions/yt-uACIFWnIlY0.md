@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=uACIFWnIlY0
 ### Transcript
 
 > drag to build mode that's that's a
-> 
+>
 > similar it's tied in with uh
-> 
+>
 > the discussion we're having with the
-> 
+>
 > blueprint thing
-> 
+>

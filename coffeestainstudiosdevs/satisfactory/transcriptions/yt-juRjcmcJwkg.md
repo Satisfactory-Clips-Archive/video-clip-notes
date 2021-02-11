@@ -15,38 +15,38 @@ https://www.youtube.com/watch?v=juRjcmcJwkg
 ### Transcript
 
 > talk about story lore uh
-> 
+>
 > we asked this question every stream
-> 
+>
 > essentially there's not gonna be a story
-> 
+>
 > until
-> 
+>
 > like close to 1.0 release and we don't
-> 
+>
 > know when that is
-> 
+>
 > uh just because we don't put in like a
-> 
+>
 > half finished story we don't want to go
-> 
+>
 > down the route that subnautica
-> 
+>
 > went with like they're releasing parts
-> 
+>
 > of the story and like it's half finished
-> 
+>
 > and uh
-> 
+>
 > we want to put out the game finished
-> 
+>
 > with the story kind of
-> 
+>
 > so story would probably be the last
-> 
+>
 > thing that we add to the game and that's
-> 
+>
 > going to be our 1.0 release essentially
-> 
+>
 > so yeah
-> 
+>

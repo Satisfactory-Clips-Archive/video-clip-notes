@@ -15,20 +15,20 @@ https://www.youtube.com/watch?v=aDlrBrPtdfw
 ### Transcript
 
 > reducing the stupid
-> 
+>
 > uh polycounts so we are doing lot
-> 
+>
 > lotting uh
-> 
+>
 > but that's not what's expensive right
-> 
+>
 > now the the polycount
-> 
+>
 > isn't necessarily the the expensive part
-> 
+>
 > of rendering for the game
-> 
+>
 > the expensive part is overdraw and
-> 
+>
 > the draw calls
-> 
+>

@@ -15,20 +15,20 @@ https://www.youtube.com/watch?v=AyPcl_Vs2D4
 ### Transcript
 
 > who suggested to build factory game
-> 
+>
 > uh it is it was just um
-> 
+>
 > after we wanted to move on from good
-> 
+>
 > simulator we made a bunch of different
-> 
+>
 > uh prototypes and
-> 
+>
 > there were a couple people who made
-> 
+>
 > vector game
-> 
+>
 > all right so i could have sworn the cave
-> 
+>
 > was around here somewhere
-> 
+>

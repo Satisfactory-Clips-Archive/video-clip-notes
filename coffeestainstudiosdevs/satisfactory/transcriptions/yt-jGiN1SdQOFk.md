@@ -17,18 +17,18 @@ https://www.youtube.com/watch?v=jGiN1SdQOFk
 ### Transcript
 
 > i have all the power yeah i want one
-> 
+>
 > binary i want one yeah we're we're
-> 
+>
 > working on it
-> 
+>
 > uh or i i'm poking the correct people
-> 
+>
 > about it
-> 
+>
 > and they're like yeah yeah we're going
-> 
+>
 > to do this it's a really good idea
-> 
+>
 > it's going to be simon and then
-> 
+>

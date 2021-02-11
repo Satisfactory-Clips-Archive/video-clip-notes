@@ -19,12 +19,12 @@ https://www.youtube.com/watch?v=CQ0vc3uRaw8
 ### Transcript
 
 > i want i want to fire nukes at my royal
-> 
+>
 > pioneers oof that's hardcore
-> 
+>
 > why why would you want to destroy this
-> 
+>
 > beautiful planet with nukes
-> 
+>
 > not that we're not already destroying it
-> 
+>

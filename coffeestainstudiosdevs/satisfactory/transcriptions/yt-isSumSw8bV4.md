@@ -21,8 +21,8 @@ https://www.youtube.com/watch?v=isSumSw8bV4
 ### Transcript
 
 > yeah your fluid dynamics in water can we
-> 
+>
 > get water wheels
-> 
+>
 > you can i don't think we're adding them
-> 
+>

@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=bB6SOIoAYg4
 ### Transcript
 
 > that's some pro stretch right there
-> 
+>
 > where is liza doggo there are various
-> 
+>
 > places on the map they can be a little
-> 
+>
 > hard to find sometimes you find them
-> 
+>
 > here
-> 
+>

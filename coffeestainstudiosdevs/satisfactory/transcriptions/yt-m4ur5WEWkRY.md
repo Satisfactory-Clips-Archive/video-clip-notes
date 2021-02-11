@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=m4ur5WEWkRY
 ### Transcript
 
 > would be pretty fun yeah
-> 
+>
 > uh one of the next stages in the hub um
-> 
+>
 > soon
-> 
+>
 > i can't tell you actually
-> 
+>

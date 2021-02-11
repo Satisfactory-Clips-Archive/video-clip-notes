@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=btvWr5Xtdyo
 ### Transcript
 
 > [Music]
-> 
+>
 > yeah yeah cool uh
-> 
+>
 > when will satisfactory two come out for
-> 
+>
 > raspberry pi four after it comes after
-> 
+>
 > you
-> 
+>
 > [Music]
-> 
+>
 > true we go again
-> 
+>
 > uh
-> 
+>

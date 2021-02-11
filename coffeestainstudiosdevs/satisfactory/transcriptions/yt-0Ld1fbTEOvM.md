@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=0Ld1fbTEOvM
 ### Transcript
 
 > here good to hear vr support would be
-> 
+>
 > heavenly that's not something that we
-> 
+>
 > um are planning uh it's not uh yeah it's
-> 
+>
 > not something that we
-> 
+>
 > uh are prioritizing vr no
-> 
+>

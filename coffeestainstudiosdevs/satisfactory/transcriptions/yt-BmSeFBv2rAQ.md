@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=BmSeFBv2rAQ
 ### Transcript
 
 > why is hyperloop in third prison the
-> 
+>
 > reason why hyperloop isn't third person
-> 
+>
 > is because that
-> 
+>
 > sucked inside first person um
-> 
+>
 > yo it was so bad
-> 
+>
 > so that was like that was more of a
-> 
+>
 > necessity you know
-> 
+>

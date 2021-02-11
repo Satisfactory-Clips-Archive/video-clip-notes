@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=2Slrxqcmay0
 ### Transcript
 
 > or i wonder ata on update 4
-> 
+>
 > is february or march next year
-> 
+>

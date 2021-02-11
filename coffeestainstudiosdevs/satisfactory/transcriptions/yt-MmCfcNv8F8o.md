@@ -17,36 +17,36 @@ https://www.youtube.com/watch?v=MmCfcNv8F8o
 ### Transcript
 
 > thank you bishop will you change
-> 
+>
 > geothermal generators dude that's such a
-> 
+>
 > that's such a good question you know we
-> 
+>
 > haven't touched the geothermal
-> 
+>
 > generators in such a long time
-> 
+>
 > and it's still kind of like work in
-> 
+>
 > progress in terms of like the ui isn't
-> 
+>
 > finished at all
-> 
+>
 > i don't know exactly what will happen
-> 
+>
 > with geothermal generators
-> 
+>
 > um at the moment
-> 
+>
 > they've kind of like been a like a stray
-> 
+>
 > child for super satisfactory i don't
-> 
+>
 > know we'll see we'll see
-> 
+>
 > make sure to upload those questions on
-> 
+>
 > the question site so we see
-> 
+>
 > that's the thing
-> 
+>

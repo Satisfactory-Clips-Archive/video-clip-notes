@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=MR5331unvbQ
 ### Transcript
 
 > um is cross play available yes they will
-> 
+>
 > be between steam and epic games
-> 
+>
 > it is a bit of a weird system but it's
-> 
+>
 > it's doable and we
-> 
+>
 > we'll see yeah it should be fine i think
-> 
+>
 > people will figure it out
-> 
+>
 > um
-> 
+>

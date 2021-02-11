@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=1_qy-PSFKO8
 ### Transcript
 
 > when will all the collectibles like
-> 
+>
 > mercy's fears be fully implemented
-> 
+>
 > they're gonna be
-> 
+>
 > they're related to the story odd knock
-> 
+>
 > so
-> 
+>
 > uh yeah it'll have something to do with
-> 
+>
 > the story when that comes along
-> 
+>

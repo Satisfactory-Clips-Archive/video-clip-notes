@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=6z70mPmDc5g
 ### Transcript
 
 > yeah any easter eggs nobody's found yet
-> 
+>
 > uh i think so but it's kind of hard to
-> 
+>
 > know what people have
-> 
+>
 > found yeah exactly yeah
-> 
+>

@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=Qw4AMG6mgnY
 ### Transcript
 
 > how many types of scary spiders are cute
-> 
+>
 > cats are in the game
-> 
+>
 > i don't know how many types and i don't
-> 
+>
 > know we'll see
-> 
+>

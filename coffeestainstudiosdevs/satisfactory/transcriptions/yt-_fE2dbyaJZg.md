@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=_fE2dbyaJZg
 ### Transcript
 
 > uh is terraforming possible anytime in
-> 
+>
 > the future
-> 
+>
 > no as far as we know um
-> 
+>

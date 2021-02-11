@@ -15,20 +15,20 @@ https://www.youtube.com/watch?v=71mjlgW3J28
 ### Transcript
 
 > if you kill lizard doggers do they
-> 
+>
 > respawn do they i think so no comment
-> 
+>
 > okay i don't know actually i think they
-> 
+>
 > do but aren't they don't they just use
-> 
+>
 > the same creature spawner yeah they do
-> 
+>
 > but yeah so then yeah but let's say they
-> 
+>
 > don't
-> 
+>
 > so you're a monster if you do that can't
-> 
+>
 > believe
-> 
+>

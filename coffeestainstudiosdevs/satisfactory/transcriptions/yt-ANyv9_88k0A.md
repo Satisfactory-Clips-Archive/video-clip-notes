@@ -21,10 +21,10 @@ https://www.youtube.com/watch?v=ANyv9_88k0A
 ### Transcript
 
 > um our truck stations and freight
-> 
+>
 > platforms part of the ui
-> 
+>
 > update uh not for this update but
-> 
+>
 > soon very soon
-> 
+>

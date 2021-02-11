@@ -15,36 +15,36 @@ https://www.youtube.com/watch?v=mf-PgMUVTiI
 ### Transcript
 
 > um grande filme né quem Formoso e as we
-> 
+>
 > are working on and at all
-> 
+>
 > se der like we always working on
-> 
+>
 > performance and multiplayer fixes for
-> 
+>
 > the game and we went on vacation' or you
-> 
+>
 > have an Engine is with Breaking News
-> 
+>
 > Story of ratios for First we are working
-> 
+>
 > On Fire bug system of houses and its
-> 
+>
 > Effects to your working on blogs but
-> 
+>
 > first I know what It's like in life is
-> 
+>
 > about friends and modeling for like aqui
-> 
+>
 > em primeiro One working working out of
-> 
+>
 > Systems Leader Of His hearing screening
-> 
+>
 > and proportion that kite is working on
-> 
+>
 > understanding and Fast your bearings and
-> 
+>
 > we are working on and on
-> 
+>
 > I like most every One of your Xbox 360
-> 
+>

@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=LqhidO6272A
 ### Transcript
 
 > yeah i know you're right you're right
-> 
+>
 > actually
-> 
+>
 > um platform building space new
-> 
+>

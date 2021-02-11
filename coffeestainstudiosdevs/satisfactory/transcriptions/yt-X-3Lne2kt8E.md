@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=X-3Lne2kt8E
 ### Transcript
 
 > um leaving that planet would make hannah
-> 
+>
 > sad that's kind of true actually
-> 
+>

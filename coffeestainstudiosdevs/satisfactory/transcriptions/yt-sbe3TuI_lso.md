@@ -15,18 +15,18 @@ https://www.youtube.com/watch?v=sbe3TuI_lso
 ### Transcript
 
 > right so and then yeah some performance
-> 
+>
 > improvements so improvements
-> 
+>
 > improvements are always happening like
-> 
+>
 > we have people
-> 
+>
 > who are dedicated like they're not doing
-> 
+>
 > anything else but like optimizing the
-> 
+>
 > game or figuring out ways to optimize
-> 
+>
 > the game
-> 
+>

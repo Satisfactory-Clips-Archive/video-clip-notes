@@ -17,38 +17,38 @@ https://www.youtube.com/watch?v=CIk2IbhBuCA
 ### Transcript
 
 > when you get on the trains you can't act
-> 
+>
 > um access the demolish menu that's
-> 
+>
 > really weird
-> 
+>
 > um if you have any questions or bug
-> 
+>
 > reports
-> 
+>
 > questions.satisfactorygame.com
-> 
+>
 > uh you can leave a bug report there
-> 
+>
 > really helpful
-> 
+>
 > especially since we're currently working
-> 
+>
 > on that part
-> 
+>
 > are we well did you say you said like
-> 
+>
 > some bug with like
-> 
+>
 > you can't dismantle train or was it yeah
-> 
+>
 > that's what
-> 
+>
 > someone said yeah yeah we're currently
-> 
+>
 > working on i believe one of those issues
-> 
+>
 > okay cool so hopefully soon we'll fix
-> 
+>
 > that
-> 
+>

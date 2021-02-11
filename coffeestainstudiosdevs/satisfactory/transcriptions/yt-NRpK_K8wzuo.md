@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=NRpK_K8wzuo
 ### Transcript
 
 > what else can i smoke trees
-> 
+>
 > wait i mean in in the game
-> 
+>
 > you know that's up to you dog
-> 
+>

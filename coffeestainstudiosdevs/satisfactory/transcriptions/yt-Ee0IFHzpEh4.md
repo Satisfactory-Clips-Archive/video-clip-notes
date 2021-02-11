@@ -15,22 +15,22 @@ https://www.youtube.com/watch?v=Ee0IFHzpEh4
 ### Transcript
 
 > [Music]
-> 
+>
 > yeah go back to school and and become a
-> 
+>
 > senior programmer and then
-> 
+>
 > take my place because that's how that
-> 
+>
 > works
-> 
+>
 > you uh you get out of school then and
-> 
+>
 > you need five years of
-> 
+>
 > experience pretty much you just do
-> 
+>
 > experience on the job
-> 
+>
 > yeah yeah
-> 
+>

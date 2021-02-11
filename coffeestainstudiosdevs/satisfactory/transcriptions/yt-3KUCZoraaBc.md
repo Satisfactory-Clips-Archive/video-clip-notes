@@ -15,16 +15,16 @@ https://www.youtube.com/watch?v=3KUCZoraaBc
 ### Transcript
 
 > everyone knows the quality of life
-> 
+>
 > updates are part of dlc's
-> 
+>
 > oh i no that's not how we view it
-> 
+>
 > i think it's it's a little bit cheap
-> 
+>
 > just if we were to do just quality of
-> 
+>
 > life stuff as an update
-> 
+>
 > to be honest
-> 
+>

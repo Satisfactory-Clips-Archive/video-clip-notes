@@ -21,22 +21,22 @@ https://www.youtube.com/watch?v=plexfdPIaSw
 ### Transcript
 
 > when's tier eight coming uh
-> 
+>
 > maybe in update four uh i don't know
-> 
+>
 > maybe i'll say five actually i don't
-> 
+>
 > know
-> 
+>
 > i don't think tier eight is that far off
-> 
+>
 > to be honest um
-> 
+>
 > but far off is like oh what does that
-> 
+>
 > mean coffee same terms
-> 
+>
 > you set up they three wasn't gonna be
-> 
+>
 > that far off here we are
-> 
+>

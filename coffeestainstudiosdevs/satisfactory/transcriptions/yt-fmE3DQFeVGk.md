@@ -19,14 +19,14 @@ https://www.youtube.com/watch?v=fmE3DQFeVGk
 ### Transcript
 
 > oh
-> 
+>
 > this is a good one have you confirmed
-> 
+>
 > super position oscillators and quantum
-> 
+>
 > computers to be buildable in tier eight
-> 
+>
 > in update four we haven't confirmed that
-> 
+>
 > next question
-> 
+>

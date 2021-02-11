@@ -17,16 +17,16 @@ https://www.youtube.com/watch?v=n6Wck4EawK0
 ### Transcript
 
 > machines break down i don't think uh
-> 
+>
 > i don't think we would make machines
-> 
+>
 > break down if we're gonna have a hard
-> 
+>
 > mode
-> 
+>
 > no that sounds um
-> 
+>
 > that sounds frustrating
-> 
+>
 > how much
-> 
+>

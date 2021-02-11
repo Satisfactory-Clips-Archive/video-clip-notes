@@ -17,14 +17,14 @@ https://www.youtube.com/watch?v=RlSL5DONzns
 ### Transcript
 
 > there it is um
-> 
+>
 > doesn't mean we get goats wrong studio
-> 
+>
 > you should buy the coffee stain north
-> 
+>
 > about the goats
-> 
+>
 > they handle like goat the old goat
-> 
+>
 > simulator stuff now so
-> 
+>

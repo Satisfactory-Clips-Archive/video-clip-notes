@@ -21,18 +21,18 @@ https://www.youtube.com/watch?v=mTMwhMrP0sA
 ### Transcript
 
 > never mind attacking balls against
-> 
+>
 > radiation like that would be super cool
-> 
+>
 > i don't know how he would do it but i
-> 
+>
 > think that would be cool because you
-> 
+>
 > could have like
-> 
+>
 > yeah just this big silo thing
-> 
+>
 > and fill it up with nuclear stuff i
-> 
+>
 > think that would be really cool
-> 
+>

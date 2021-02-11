@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=sTyZCrW9F_E
 ### Transcript
 
 > to speak should i try a 5x5 hell yeah do
-> 
+>
 > it it's the most tedious
-> 
+>
 > ever but
-> 
+>
 > do it i love it it's like the only way
-> 
+>
 > for me to enjoy the game right now
-> 
+>

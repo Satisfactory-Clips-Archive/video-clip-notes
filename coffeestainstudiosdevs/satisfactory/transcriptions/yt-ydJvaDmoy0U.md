@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=ydJvaDmoy0U
 ### Transcript
 
 > will the toilet flush soon soon one
-> 
+>
 > dollar dlc
-> 
+>
 > soon soon
-> 
+>

@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=f3TtRJWOI2Q
 ### Transcript
 
 > uh how about personal elevators i don't
-> 
+>
 > think they're coming
-> 
+>
 > improve the
-> 
+>

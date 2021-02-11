@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=JRyAZT7y44g
 ### Transcript
 
 > yeah where's my support yeah
-> 
+>
 > i have a new clue i've i'm usually
-> 
+>
 > poking burke and uh team like so
-> 
+>
 > when let's skip the dedicated just jump
-> 
+>
 > now yeah yeah
-> 
+>

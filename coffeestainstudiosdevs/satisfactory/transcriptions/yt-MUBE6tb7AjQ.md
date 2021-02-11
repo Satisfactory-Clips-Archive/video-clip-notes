@@ -17,24 +17,24 @@ https://www.youtube.com/watch?v=MUBE6tb7AjQ
 ### Transcript
 
 > quick equip
-> 
+>
 > uh keys for tools i don't know i'm
-> 
+>
 > watching a lot of people and it really
-> 
+>
 > looks like that functionality is kind of
-> 
+>
 > needed what do you guys think
-> 
+>
 > yeah how will they yeah like on the on
-> 
+>
 > the hop bar or something
-> 
+>
 > your gun or yeah oh yeah i i think it's
-> 
+>
 > really good
-> 
+>
 > it is it is planned it is planned it is
-> 
+>
 > planned okay cool
-> 
+>

@@ -15,14 +15,14 @@ https://www.youtube.com/watch?v=_H3wk4VfjIY
 ### Transcript
 
 > potential to get some better management
-> 
+>
 > for power grids
-> 
+>
 > yeah that's a pretty good idea uh make
-> 
+>
 > sure to drop it on the question site
-> 
+>
 > i've seen a few people ask about this on
-> 
+>
 > this stream
-> 
+>

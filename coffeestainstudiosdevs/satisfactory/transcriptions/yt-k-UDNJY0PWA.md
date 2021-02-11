@@ -21,30 +21,30 @@ https://www.youtube.com/watch?v=k-UDNJY0PWA
 ### Transcript
 
 > any plans to improve the visual part of
-> 
+>
 > building in the game like more walls
-> 
+>
 > different foundation designs
-> 
+>
 > uh yeah there's there's a few things
-> 
+>
 > like in terms of cosmetics there are a
-> 
+>
 > bunch of ideas that we want to do
-> 
+>
 > um
-> 
+>
 > [Music]
-> 
+>
 > i know that some of the artists are have
-> 
+>
 > like a bunch of ideas of cosmetics and
-> 
+>
 > like
-> 
+>
 > stuff to put on the walls and stuff like
-> 
+>
 > that that they want to do um
-> 
+>
 > but don't know when that will come
-> 
+>

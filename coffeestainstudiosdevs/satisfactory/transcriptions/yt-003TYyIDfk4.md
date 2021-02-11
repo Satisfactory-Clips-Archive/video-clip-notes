@@ -17,28 +17,28 @@ https://www.youtube.com/watch?v=003TYyIDfk4
 ### Transcript
 
 > why was it why was i hesitant to share
-> 
+>
 > this because
-> 
+>
 > i was i would have preferred to uh have
-> 
+>
 > structured the way that i wanted to
-> 
+>
 > communicate it and receive your feedback
-> 
+>
 > in a better way rather than just off the
-> 
+>
 > cuff right
-> 
+>
 > um but i and been a little bit better
-> 
+>
 > prepared that's that's
-> 
+>
 > the reason why but we can do both so now
-> 
+>
 > we got the now we got the
-> 
+>
 > uh piercing the veil uh
-> 
+>
 > checkup and then we can do another one
-> 
+>

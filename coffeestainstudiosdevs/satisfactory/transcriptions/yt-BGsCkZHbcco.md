@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=BGsCkZHbcco
 ### Transcript
 
 > a report a bug included a screenshot is
-> 
+>
 > there an easy way to do it in game
-> 
+>
 > no not in game you have to go to the qa
-> 
+>
 > site linked just below your comment
-> 
+>
 > and you can make bug reports there
-> 
+>

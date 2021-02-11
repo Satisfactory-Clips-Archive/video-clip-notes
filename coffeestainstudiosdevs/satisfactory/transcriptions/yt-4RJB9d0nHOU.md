@@ -17,14 +17,14 @@ https://www.youtube.com/watch?v=4RJB9d0nHOU
 ### Transcript
 
 > will there be a big revealed chill
-> 
+>
 > stream as it was with update three yeah
-> 
+>
 > yeah we'll do a big
-> 
+>
 > stream again you guys uh for it short
-> 
+>
 > for short
-> 
+>
 > um
-> 
+>

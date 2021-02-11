@@ -15,24 +15,24 @@ https://www.youtube.com/watch?v=vwI3DmL9xHM
 ### Transcript
 
 > any chance of making tutorial on optimum
-> 
+>
 > graphic settings for performance
-> 
+>
 > i don't know if we're going to do that
-> 
+>
 > um what was that
-> 
+>
 > uh any chance of making a tutorial on
-> 
+>
 > optimal graphics settings for
-> 
+>
 > performance
-> 
+>
 > no but everything put everything on low
-> 
+>
 > yeah
-> 
+>
 > let's totally ramp it up yeah i don't
-> 
+>
 > think we're gonna be doing that
-> 
+>

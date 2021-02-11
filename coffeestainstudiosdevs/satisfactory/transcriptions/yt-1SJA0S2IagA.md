@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=1SJA0S2IagA
 ### Transcript
 
 > no who's dylan dylan is uh another
-> 
+>
 > programmer here at coffee scene
-> 
+>

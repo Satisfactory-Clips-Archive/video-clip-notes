@@ -17,26 +17,26 @@ https://www.youtube.com/watch?v=iap-q8Jggq8
 ### Transcript
 
 > i don't know if you guys know that
-> 
+>
 > satisfactory is a pretty big game
-> 
+>
 > i don't know guys you do you want
-> 
+>
 > working trains or do you want ray
-> 
+>
 > tracing
-> 
+>
 > yeah or like it's it's not that it's
-> 
+>
 > even like you want working trains
-> 
+>
 > and this thing and this thing and
-> 
+>
 > multiplayer or do you want ray tracing
-> 
+>
 > therein lies the question you can and
-> 
+>
 > new content
-> 
+>
 > you gotta have new content
-> 
+>

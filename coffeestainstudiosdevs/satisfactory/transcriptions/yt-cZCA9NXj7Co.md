@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=cZCA9NXj7Co
 ### Transcript
 
 > probably at some point marine life is
-> 
+>
 > going to be a big crab
-> 
+>
 > on land
-> 
+>
