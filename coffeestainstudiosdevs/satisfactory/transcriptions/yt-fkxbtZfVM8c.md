@@ -52,8 +52,6 @@ https://www.youtube.com/watch?v=fkxbtZfVM8c
 >
 > i don't know because they don't tell me
 >
->
->
 > um
 >
 > so maybe i don't know

@@ -46,8 +46,6 @@ https://www.youtube.com/watch?v=Bu2TPRFV_2o
 >
 > yeah there was so many questions holy
 >
->
->
 > i tried to weasel out of the time stamp
 >
 > thing taco not found saying never crash

@@ -24,8 +24,6 @@ https://www.youtube.com/watch?v=3Fe1cJ3ujCE
 >
 > actually i've used git and i'm a i'm a
 >
->
->
 > git um uh
 >
 > what's the word uh the people that

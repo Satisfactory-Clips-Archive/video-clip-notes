@@ -176,8 +176,6 @@ https://www.youtube.com/watch?v=bGem8CSwRlQ
 >
 > extra good old three weeks of doing jack
 >
->
->
 > uh what we can expect in the end upgrade
 >
 > improved performance uh yeah improved

@@ -244,8 +244,6 @@ https://www.youtube.com/watch?v=iSMAUqquuvc
 >
 > know that there is happening holy
 >
->
->
 > there's a lot of work going on in the
 >
 > background um

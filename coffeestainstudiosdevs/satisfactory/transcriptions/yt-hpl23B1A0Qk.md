@@ -106,8 +106,6 @@ https://www.youtube.com/watch?v=hpl23B1A0Qk
 >
 > maybe we'll add nine tears i'm like
 >
->
->
 > you can't just change your mind like
 >
 > that dude um

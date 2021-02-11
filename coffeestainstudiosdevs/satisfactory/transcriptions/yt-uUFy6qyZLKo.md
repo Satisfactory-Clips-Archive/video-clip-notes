@@ -26,8 +26,6 @@ https://www.youtube.com/watch?v=uUFy6qyZLKo
 >
 > and request it there and upload that
 >
->
->
 > um because i don't know
 >
 > what the state of that is uh we do know

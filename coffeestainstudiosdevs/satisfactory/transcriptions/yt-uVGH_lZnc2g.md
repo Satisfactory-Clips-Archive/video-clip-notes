@@ -44,8 +44,6 @@ https://www.youtube.com/watch?v=uVGH_lZnc2g
 >
 > yeah yeah it's like turrets uh aquatic
 >
->
->
 > [Laughter]
 >
 > [Music]

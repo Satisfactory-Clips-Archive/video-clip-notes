@@ -32,8 +32,6 @@ https://www.youtube.com/watch?v=GpglKeDQ9h8
 >
 > really hard to say that yeah it is holy
 >
->
->
 > it's like the uh which one is the one
 >
 > that you always do we always do like the

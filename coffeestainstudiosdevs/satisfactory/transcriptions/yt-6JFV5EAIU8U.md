@@ -54,8 +54,6 @@ https://www.youtube.com/watch?v=6JFV5EAIU8U
 >
 > pretty fun yeah but that would also be a
 >
->
->
 > simulation nightmare in the current
 >
 > state of

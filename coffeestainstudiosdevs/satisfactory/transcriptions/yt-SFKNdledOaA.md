@@ -24,8 +24,6 @@ https://www.youtube.com/watch?v=SFKNdledOaA
 >
 > like the hyper tubes are already op as
 >
->
->
 > if you build like rail guns and stuff
 >
 > which is still like such a weird thing

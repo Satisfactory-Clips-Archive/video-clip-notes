@@ -324,8 +324,6 @@ https://www.youtube.com/watch?v=EXAZ6xoHCx0
 >
 > with each other you got some christmas
 >
->
->
 > it's gonna be fun you got to meet tim i
 >
 > hope you enjoyed that

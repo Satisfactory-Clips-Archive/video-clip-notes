@@ -32,8 +32,6 @@ https://www.youtube.com/watch?v=3gHStWkd0oE
 >
 > suggestion it might be fun i i have a
 >
->
->
 > feature creep here when you st when
 >
 > you're pushing down

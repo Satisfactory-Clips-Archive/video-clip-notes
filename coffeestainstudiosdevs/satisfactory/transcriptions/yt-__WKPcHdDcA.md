@@ -126,5 +126,3 @@ https://www.youtube.com/watch?v=__WKPcHdDcA
 >
 > how is it not moving that's that's cruel
 >
->
->

@@ -18,8 +18,6 @@ https://www.youtube.com/watch?v=spm2R0VhMV8
 >
 > this an early access logistics game oh
 >
->
->
 > uh factorio wasn't released early access
 >
 > for eight years

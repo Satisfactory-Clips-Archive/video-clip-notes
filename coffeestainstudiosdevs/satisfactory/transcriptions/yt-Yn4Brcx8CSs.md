@@ -20,8 +20,6 @@ https://www.youtube.com/watch?v=Yn4Brcx8CSs
 >
 > junior learning to be able to not hit
 >
->
->
 > asking if there's going to be creative
 >
 > mode on um and uh

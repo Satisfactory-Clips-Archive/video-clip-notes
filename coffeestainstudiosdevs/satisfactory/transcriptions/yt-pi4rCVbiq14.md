@@ -124,8 +124,6 @@ https://www.youtube.com/watch?v=pi4rCVbiq14
 >
 > funny um so we're making like gifts and
 >
->
->
 > and pictures that will mean about once
 >
 > the update is done that i think will fix

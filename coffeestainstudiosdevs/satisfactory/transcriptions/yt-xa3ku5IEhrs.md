@@ -38,8 +38,6 @@ https://www.youtube.com/watch?v=xa3ku5IEhrs
 >
 > pretty sure it's there so upload that
 >
->
->
 > um because yeah a lot of people pointed
 >
 > out i love it when
