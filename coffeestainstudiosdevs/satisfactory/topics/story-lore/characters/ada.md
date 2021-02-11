@@ -17,8 +17,8 @@ date: Last Modified
 * [Snutt, Jace, & Mark Talk: Muting ADA](../../../transcriptions/yt-H3eApDUK_Xs.md) https://www.youtube.com/watch?v=H3eApDUK_Xs
 
 ## March 24th, 2020 Livestream
-* [Q&A: Who speaks ADA?](../../../transcriptions/yt-aYUTkfL-jKk.md) https://www.youtube.com/watch?v=aYUTkfL-jKk
 * [Q&A: Can we turn of ADA notifications?](../../../transcriptions/yt-w2S15UcuaUs.md) https://www.youtube.com/watch?v=w2S15UcuaUs
+* [Q&A: Who speaks ADA?](../../../transcriptions/yt-aYUTkfL-jKk.md) https://www.youtube.com/watch?v=aYUTkfL-jKk
 
 ## December 19th, 2019 Livestream
 * [Q&A: Who is the voice of A.D.A. ?](../../../transcriptions/yt-aOzSvX8iaYg.md) https://www.youtube.com/watch?v=aOzSvX8iaYg

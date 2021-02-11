@@ -9,14 +9,21 @@ date: Last Modified
 * [Somersloop](../../topics/environment/resources/somersloop.md)
 * [Steel](../../topics/environment/resources/steel.md)
 
+## February 9th, 2021 Livestream
+* [Q&A: Are you able to confirm what resources can be pulled using the Resource Well Extractor?](../../transcriptions/yt-vlDuVpHyfVs.md) https://www.youtube.com/watch?v=vlDuVpHyfVs
+* Q&A: Can we use Turbofuel for new things in Update 4? https://www.youtube.com/watch?v=KQmKBaywHHw
+* [Q&A: Do you have any plans for the Radar Towers?](../../transcriptions/yt-Jb1JBMGknBY.md) https://www.youtube.com/watch?v=Jb1JBMGknBY
+* [Q&A: Will there be another list coming in the Codex showing you which recipes need certain items?](../../transcriptions/yt-Wk1osyojNQw.md) https://www.youtube.com/watch?v=Wk1osyojNQw
+
 ## January 19th, 2021 Livestream
 * [Q&A: Some buildings used to auto-select recipes?](../../transcriptions/yt-iCOiamAc_ak.md) https://www.youtube.com/watch?v=iCOiamAc_ak
 
-## January 15th, 2021 Teasers
-* [Gases are coming in Update 4](../../transcriptions/yt-Jxh8kvtUuxY.md) https://www.youtube.com/watch?v=Jxh8kvtUuxY
-
 ## December 15th, 2020 Livestream
 * [Q&A: Will we be able to deal with Gas towers you can't kill right now?](../../transcriptions/yt-0nRCXveJemw.md) https://www.youtube.com/watch?v=0nRCXveJemw
+
+## December 11th, 2020 Livestream
+* [Aluminum Casing](../../transcriptions/yt-njXBs_p2l1w,245.57866666666666,333.23290000000003.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334
+
 
 ## December 8th, 2020 Livestream
 * [Q&A: Please reintroduce the Mining mini-game?](../../transcriptions/yt-LTpEW1G0VH0.md) https://www.youtube.com/watch?v=LTpEW1G0VH0
@@ -28,8 +35,8 @@ date: Last Modified
 * [Q&A: Randomising nodes?](../../transcriptions/yt-eTALbWgKmuE.md) https://www.youtube.com/watch?v=eTALbWgKmuE
 
 ## November 3rd, 2020 Livestream
-* [Q&A: Is it going to be possible to create randomly generated Resources on the Map?](../../transcriptions/yt-xeAXhjMWZpI.md) https://www.youtube.com/watch?v=xeAXhjMWZpI
 * [Q&A: Any plans for better Belts for Pure nodes?](../../transcriptions/yt-UxW9nGO9Ius.md) https://www.youtube.com/watch?v=UxW9nGO9Ius
+* [Q&A: Is it going to be possible to create randomly generated Resources on the Map?](../../transcriptions/yt-xeAXhjMWZpI.md) https://www.youtube.com/watch?v=xeAXhjMWZpI
 
 ## October 13th, 2020 Livestream
 * [Q&A: Any new Ores coming to the game?](../../transcriptions/yt-LWek-LtjnU0.md) https://www.youtube.com/watch?v=LWek-LtjnU0
@@ -46,11 +53,11 @@ date: Last Modified
 * [Q&A: Adjustable Scanner so when you scan for nodes it doesn't show ones that have a Miner on them.](../../transcriptions/yt-goLJr05seZs.md) https://www.youtube.com/watch?v=goLJr05seZs
 
 ## August 25th, 2020 Livestream
-* [Q&A: Will you be adding more variety of resources?](../../transcriptions/yt-wvFR-VL4nc8.md) https://www.youtube.com/watch?v=wvFR-VL4nc8
-* [Q&A: Mad Max server where someone controls all the Iron nodes?](../../transcriptions/yt-LcWR0d7elvs.md) https://www.youtube.com/watch?v=LcWR0d7elvs
 * [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../transcriptions/yt-Ds9NIPna9_4.md) https://www.youtube.com/watch?v=Ds9NIPna9_4
-* [Q&A: Please think about adding dedicated Storage Containers like in Ark ?](../../transcriptions/yt-_IL63Q90d1k.md) https://www.youtube.com/watch?v=_IL63Q90d1k
 * [Q&A: Are limited resources planned?](../../transcriptions/yt-85XNSiDpeZw.md) https://www.youtube.com/watch?v=85XNSiDpeZw
+* [Q&A: Mad Max server where someone controls all the Iron nodes?](../../transcriptions/yt-LcWR0d7elvs.md) https://www.youtube.com/watch?v=LcWR0d7elvs
+* [Q&A: Please think about adding dedicated Storage Containers like in Ark ?](../../transcriptions/yt-_IL63Q90d1k.md) https://www.youtube.com/watch?v=_IL63Q90d1k
+* [Q&A: Will you be adding more variety of resources?](../../transcriptions/yt-wvFR-VL4nc8.md) https://www.youtube.com/watch?v=wvFR-VL4nc8
 
 ## August 18th, 2020 Livestream
 * Q&A: Do you plan to make other resources beyond S.A.M. Ore? https://clips.twitch.tv/InventiveBillowingEggPMSTwin
@@ -62,10 +69,10 @@ date: Last Modified
 * [Snutt & Jace Talk: Smerkin is hardcore](../../transcriptions/yt-RT5R6J7dj3g.md) https://www.youtube.com/watch?v=RT5R6J7dj3g
 
 ## March 9th, 2019 Livestream
-* [Snutt Talk: Inpure Resource Nodes](../../transcriptions/yt--OHmfKyBPA4.md) https://www.youtube.com/watch?v=-OHmfKyBPA4
 * [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](../../transcriptions/yt-v4zf3_-seAg.md) https://www.youtube.com/watch?v=v4zf3_-seAg
-* [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
 * [Q&A: Collect Fart Gas for fuel?](../../transcriptions/yt-O5R_YmTmXUI.md) https://www.youtube.com/watch?v=O5R_YmTmXUI
+* [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
+* [Snutt Talk: Inpure Resource Nodes](../../transcriptions/yt--OHmfKyBPA4.md) https://www.youtube.com/watch?v=-OHmfKyBPA4
 
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164

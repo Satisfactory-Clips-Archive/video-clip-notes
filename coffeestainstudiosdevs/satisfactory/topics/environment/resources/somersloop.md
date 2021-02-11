@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Somersloop
 
+## February 9th, 2021 Livestream
+* [Q&A: When will all the collectables like Mercer Spheres be implemented?](../../../transcriptions/yt-1_qy-PSFKO8.md) https://www.youtube.com/watch?v=1_qy-PSFKO8
+
 ## January 26th, 2021 Livestream
 * [Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?](../../../transcriptions/yt--N0atMiN9dM.md) https://www.youtube.com/watch?v=-N0atMiN9dM
 

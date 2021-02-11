@@ -11,6 +11,10 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Can we remove Nuclear Waste from the Doggo loot list?](../../../../transcriptions/yt-x2qXm_DXJEw.md) https://www.youtube.com/watch?v=x2qXm_DXJEw
 
+## December 11th, 2020 Livestream
+* [Plutonium Waste](../../../../transcriptions/yt-njXBs_p2l1w,333.23290000000003,443.557086.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444
+
+
 ## December 1st, 2020 Livestream
 * [Q&A: How do we get rid of toxic waste?](../../../../transcriptions/yt-sag85tf3NQQ.md) https://www.youtube.com/watch?v=sag85tf3NQQ
 
@@ -31,10 +35,10 @@ date: Last Modified
 * [Q&A: Any plans to get rid of Nuclear Waste?](../../../../transcriptions/yt-cxWdU5_ai-0.md) https://www.youtube.com/watch?v=cxWdU5_ai-0
 
 ## August 25th, 2020 Livestream
-* [Q&A: I want to fire Nukes at my rival Pioneers?](../../../../transcriptions/yt-CQ0vc3uRaw8.md) https://www.youtube.com/watch?v=CQ0vc3uRaw8
-* [Snutt PSA: Nuclear Waste disposal](../../../../transcriptions/yt-FUMyJYJr88Y.md) https://www.youtube.com/watch?v=FUMyJYJr88Y
 * [Q&A: Can we send the nuke waste to FICSIT?](../../../../transcriptions/yt-MmiaI_vhyI0.md) https://www.youtube.com/watch?v=MmiaI_vhyI0
 * [Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them?](../../../../transcriptions/yt-535Zu17HOlQ.md) https://www.youtube.com/watch?v=535Zu17HOlQ
+* [Q&A: I want to fire Nukes at my rival Pioneers?](../../../../transcriptions/yt-CQ0vc3uRaw8.md) https://www.youtube.com/watch?v=CQ0vc3uRaw8
+* [Snutt PSA: Nuclear Waste disposal](../../../../transcriptions/yt-FUMyJYJr88Y.md) https://www.youtube.com/watch?v=FUMyJYJr88Y
 
 ## March 24th, 2020 Livestream
 * [Q&A: Green Energy & Nuclear Waste?](../../../../transcriptions/yt-T2MEOzplmSQ.md) https://www.youtube.com/watch?v=T2MEOzplmSQ

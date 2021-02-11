@@ -44,13 +44,13 @@ https://www.youtube.com/watch?v=EAOiEQn7E5A
 > 
 > the
 > 
-> game audio died oh [ __ ] oh god oh [ __ ]
+> game audio died oh oh god oh
 > 
 > oh
 > 
-> [ __ ] man
+>  man
 > 
-> this is [ __ ] never stream never
+> this is never stream never
 > 
 > start streaming y'all
 > 

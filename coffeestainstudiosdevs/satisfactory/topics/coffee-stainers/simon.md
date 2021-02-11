@@ -24,19 +24,19 @@ date: Last Modified
 * [Q&A: Lizard Doggo plushies?](../../transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 ## December 19th, 2019 Livestream
+* [Q&A: Does Simon even like the game?](../../transcriptions/yt-diuFSFaPAJ4.md) https://www.youtube.com/watch?v=diuFSFaPAJ4
+* [Q&A: Has Simon tried key pizza?](../../transcriptions/yt-qFYvqvrAFf8.md) https://www.youtube.com/watch?v=qFYvqvrAFf8
+* [Q&A: How is Simon so jacked?](../../transcriptions/yt-yRdv_AYUVR4.md) https://www.youtube.com/watch?v=yRdv_AYUVR4
 * [Q&A: What happened to the keys?](../../transcriptions/yt-Xv-yl9jnC4s.md) https://www.youtube.com/watch?v=Xv-yl9jnC4s
 * [Q&A: Which one was Simon's favourite Simon Saga video?](../../transcriptions/yt-weWtkbvOxdU.md) https://www.youtube.com/watch?v=weWtkbvOxdU
-* [Q&A: How is Simon so jacked?](../../transcriptions/yt-yRdv_AYUVR4.md) https://www.youtube.com/watch?v=yRdv_AYUVR4
-* [Q&A: Has Simon tried key pizza?](../../transcriptions/yt-qFYvqvrAFf8.md) https://www.youtube.com/watch?v=qFYvqvrAFf8
-* [Q&A: Does Simon even like the game?](../../transcriptions/yt-diuFSFaPAJ4.md) https://www.youtube.com/watch?v=diuFSFaPAJ4
 
 ## March 9th, 2019 Livestream
+* [Q&A: How bad was the indigestion after eating all the keys?](../../transcriptions/yt-t9_0R3vkYOk.md) https://www.youtube.com/watch?v=t9_0R3vkYOk
+* [Q&A: How long did it take Simon to finish the game?](../../transcriptions/yt-b8BSxuagqLI.md) https://www.youtube.com/watch?v=b8BSxuagqLI
+* [Snutt, Simon, Jace Talk: Animator, Sound Designer, Tim, and Simon Saga](../../transcriptions/yt-mTBx_JmNnsE.md) https://www.youtube.com/watch?v=mTBx_JmNnsE
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../../transcriptions/yt-3gFgrVEkOpc.md) https://www.youtube.com/watch?v=3gFgrVEkOpc
 * [Snutt Talk: the most important part of the HUB](../../transcriptions/yt-DwdNTp6z1a4.md) https://www.youtube.com/watch?v=DwdNTp6z1a4
-* [Snutt, Simon, Jace Talk: Animator, Sound Designer, Tim, and Simon Saga](../../transcriptions/yt-mTBx_JmNnsE.md) https://www.youtube.com/watch?v=mTBx_JmNnsE
-* [Q&A: How long did it take Simon to finish the game?](../../transcriptions/yt-b8BSxuagqLI.md) https://www.youtube.com/watch?v=b8BSxuagqLI
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) https://www.youtube.com/watch?v=2tTlAAZMBPw
-* [Q&A: How bad was the indigestion after eating all the keys?](../../transcriptions/yt-t9_0R3vkYOk.md) https://www.youtube.com/watch?v=t9_0R3vkYOk
 
 ## October 3rd, 2018 Livestream
 * [Q&A: Localisation/Translation?](../../transcriptions/yt-1OQk7vNt6-0,261.62,292.16.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=261&end=293

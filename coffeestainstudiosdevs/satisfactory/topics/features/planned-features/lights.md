@@ -5,19 +5,19 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Planned Features > Lights
 
 ## January 26th, 2021 Livestream
-* [Q&A: Lights & Lampposts please?](../../../transcriptions/yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g
 * [Q&A: Ability to sleep coming any time?](../../../transcriptions/yt-kDwywg_UJoc.md) https://www.youtube.com/watch?v=kDwywg_UJoc
+* [Q&A: Lights & Lampposts please?](../../../transcriptions/yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g
 
 ## January 12th, 2021 Livestream
 * [Q&A: Are there any plans to add Lights inside the factory?](../../../transcriptions/yt-QvTjwyhFvGQ.md) https://www.youtube.com/watch?v=QvTjwyhFvGQ
 
 ## December 8th, 2020 Livestream
-* [Snutt Talk: Lights on Buildings](../../../transcriptions/yt-fsP_b5C7y0M.md) https://www.youtube.com/watch?v=fsP_b5C7y0M
 * [Snutt Talk: Lights (not) confirmed!](../../../transcriptions/yt-9VodwDOMBl0.md) https://www.youtube.com/watch?v=9VodwDOMBl0
+* [Snutt Talk: Lights on Buildings](../../../transcriptions/yt-fsP_b5C7y0M.md) https://www.youtube.com/watch?v=fsP_b5C7y0M
 
 ## November 17th, 2020 Livestream
-* [Trolling: Lights](../../../transcriptions/yt--9gsspVilYk.md) https://www.youtube.com/watch?v=-9gsspVilYk
 * [Q&A: Are there any plans to add an option to disable the day/night cycle?](../../../transcriptions/yt-15jG0o32Dqk.md) https://www.youtube.com/watch?v=15jG0o32Dqk
+* [Trolling: Lights](../../../transcriptions/yt--9gsspVilYk.md) https://www.youtube.com/watch?v=-9gsspVilYk
 
 ## November 3rd, 2020 Livestream
 * [Q&A: Can you put in Lights, please?](../../../transcriptions/yt-7dm8Lvfj8Ao.md) https://www.youtube.com/watch?v=7dm8Lvfj8Ao
@@ -32,8 +32,8 @@ date: Last Modified
 * [Q&A: What about lights?](../../../transcriptions/yt-FqGp1WsRo6s.md) https://www.youtube.com/watch?v=FqGp1WsRo6s
 
 ## August 25th, 2020 Livestream
-* [Q&A: Will light be added to the game?](../../../transcriptions/yt-FuUHMwoNA0s.md) https://www.youtube.com/watch?v=FuUHMwoNA0s
 * [Q&A: State of things = 🤷?](../../../transcriptions/yt-5SH9eySqDzU.md) https://www.youtube.com/watch?v=5SH9eySqDzU
+* [Q&A: Will light be added to the game?](../../../transcriptions/yt-FuUHMwoNA0s.md) https://www.youtube.com/watch?v=FuUHMwoNA0s
 
 ## May 19th, 2020 Livestream
 * [Q&A: What does Performance Budget mean?](../../../transcriptions/yt-qg27gPorXB4.md) https://www.youtube.com/watch?v=qg27gPorXB4

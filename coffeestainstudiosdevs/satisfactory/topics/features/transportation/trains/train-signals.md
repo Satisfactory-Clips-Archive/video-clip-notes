@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## February 9th, 2021 Livestream
+* [Q&A: I heard that with Update 4 there will be Train Signalling & Collisions, are the rumours true?](../../../../transcriptions/yt-0Dq3fFtmhmw.md) https://www.youtube.com/watch?v=0Dq3fFtmhmw
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Train Collisions?](../../../../transcriptions/yt-rCOD5becD6M.md) https://www.youtube.com/watch?v=rCOD5becD6M
 
@@ -32,8 +35,8 @@ date: Last Modified
 * [Q&A: Any more info on Train Signals?](../../../../transcriptions/yt-1hTjt3er8XI.md) https://www.youtube.com/watch?v=1hTjt3er8XI
 
 ## August 25th, 2020 Livestream
-* [Q&A: Why do big updates at all - why not just release everything in small bites?](../../../../transcriptions/yt-qEiYxLhX3CM.md) https://www.youtube.com/watch?v=qEiYxLhX3CM
 * [Q&A: Train Signals?](../../../../transcriptions/yt-WQH5cWS3s2s.md) https://www.youtube.com/watch?v=WQH5cWS3s2s
+* [Q&A: Why do big updates at all - why not just release everything in small bites?](../../../../transcriptions/yt-qEiYxLhX3CM.md) https://www.youtube.com/watch?v=qEiYxLhX3CM
 * [Q&A: Will the Train always clip?](../../../../transcriptions/yt-PY6wf7cvjgM.md) https://www.youtube.com/watch?v=PY6wf7cvjgM
 
 ## August 18th, 2020 Livestream

@@ -164,13 +164,15 @@ https://www.youtube.com/watch?v=YIGc6e8zwYs
 > 
 > you were actually um boy do i
 > 
-> oh [ __ ] yeah i think it was stockpiling
+> oh yeah i think it was stockpiling
 > 
 > stuff don't invest in the
 > 
 > new stuff i think that was it actually
 > 
 > yeah that was it
+> 
+> [Laughter]
 > 
 > was the top 10 tips right for mark you
 > 
@@ -264,7 +266,7 @@ https://www.youtube.com/watch?v=YIGc6e8zwYs
 > 
 > you might wanna just mass dismantle that
 > 
-> [ __ ]
+> 
 > 
 > um and rebuild it
 > 

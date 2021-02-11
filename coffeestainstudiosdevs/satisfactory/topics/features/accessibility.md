@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Accessibility
 * [Arachnophobia Mode](../../topics/features/accessibility/arachnophobia-mode.md)
 
+## February 9th, 2021 Livestream
+* [Q&A: Are colour blind mode settings coming, like making indicator lights flashing again?](../../transcriptions/yt-4acLhZvD1PU.md) https://www.youtube.com/watch?v=4acLhZvD1PU
+
 ## January 19th, 2021 Livestream
 * [State of Dev: Closed Captions](../../transcriptions/yt-sAS09ChPivY.md) https://www.youtube.com/watch?v=sAS09ChPivY
 
@@ -21,10 +24,10 @@ date: Last Modified
 * [Q&A: Can we get more cat variety?](../../transcriptions/yt-v_9SO9SU3B0.md) https://www.youtube.com/watch?v=v_9SO9SU3B0
 
 ## September 8th, 2020 Livestream
-* [Q&A: Any chance of you putting a daily limit in the game?](../../transcriptions/yt-vgxwqJg7o2A.md) https://www.youtube.com/watch?v=vgxwqJg7o2A
-* [Q&A: Will the anti-spider mode stay like it is now / When is Satisfactory getting Goats?](../../transcriptions/yt-Z-MpiaDB0Qs.md) https://www.youtube.com/watch?v=Z-MpiaDB0Qs
-* [Q&A: Can we upload a Spider image other than a Cat?](../../transcriptions/yt-rlBA0k1-sWs.md) https://www.youtube.com/watch?v=rlBA0k1-sWs
 * [Jace & Snutt Talk: Phobia Modes & Accessibility](../../transcriptions/yt-OFBC7qFkEmQ.md) https://www.youtube.com/watch?v=OFBC7qFkEmQ
+* [Q&A: Any chance of you putting a daily limit in the game?](../../transcriptions/yt-vgxwqJg7o2A.md) https://www.youtube.com/watch?v=vgxwqJg7o2A
+* [Q&A: Can we upload a Spider image other than a Cat?](../../transcriptions/yt-rlBA0k1-sWs.md) https://www.youtube.com/watch?v=rlBA0k1-sWs
+* [Q&A: Will the anti-spider mode stay like it is now / When is Satisfactory getting Goats?](../../transcriptions/yt-Z-MpiaDB0Qs.md) https://www.youtube.com/watch?v=Z-MpiaDB0Qs
 
 ## August 18th, 2020 Livestream
 * Snutt Talk: Accessibility (part 1): https://clips.twitch.tv/CrowdedSplendidSalamanderSoonerLater

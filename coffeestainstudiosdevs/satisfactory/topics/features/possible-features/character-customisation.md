@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Character Customisation
 
+## February 9th, 2021 Livestream
+* [Q&A: Can we sometimes drink Chai instead of Coffee?](../../../transcriptions/yt-MbmXwZe8mXY.md) https://www.youtube.com/watch?v=MbmXwZe8mXY
+* [Q&A: How do Gas Extractors work with Multiplayer fart emotes to increase Gas production?](../../../transcriptions/yt-Lv_BZl7rgOE.md) https://www.youtube.com/watch?v=Lv_BZl7rgOE
+* [Q&A: When will we be able to get different character customisations?](../../../transcriptions/yt-x55_Zt2OLQ4.md) https://www.youtube.com/watch?v=x55_Zt2OLQ4
+* Q&A: Will there be more emotes? https://www.youtube.com/watch?v=dBNJrDsc_XU
+
 ## January 26th, 2021 Livestream
 * [Q&A: Are we going to get googly eyes?](../../../transcriptions/yt-lkPWRnkW9OU.md) https://www.youtube.com/watch?v=lkPWRnkW9OU
 
@@ -29,9 +35,9 @@ date: Last Modified
 * [Q&A: Player skin customisation?](../../../transcriptions/yt-oJzUWOdpQ5o.md) https://www.youtube.com/watch?v=oJzUWOdpQ5o
 
 ## March 24th, 2020 Livestream
-* [Q&A: How to change your character from male to female?](../../../transcriptions/yt-o6Za1vV_Zk0.md) https://www.youtube.com/watch?v=o6Za1vV_Zk0
 * [Q&A: Can I change my character from female to male?](../../../transcriptions/yt-NFKSJi204cc.md) https://www.youtube.com/watch?v=NFKSJi204cc
+* [Q&A: How to change your character from male to female?](../../../transcriptions/yt-o6Za1vV_Zk0.md) https://www.youtube.com/watch?v=o6Za1vV_Zk0
 
 ## March 9th, 2019 Livestream
-* [Q&A: What gender is the character model?](../../../transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs
 * [Q&A: Can I choose the gender and customise my character?](../../../transcriptions/yt-g9uOwzKvCbc.md) https://www.youtube.com/watch?v=g9uOwzKvCbc
+* [Q&A: What gender is the character model?](../../../transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs

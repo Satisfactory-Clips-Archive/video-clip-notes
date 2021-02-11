@@ -264,6 +264,8 @@ https://www.youtube.com/watch?v=1UbLRZJ0-SE
 > 
 > so that was a [ __ ] lie
 > 
+> [Music]
+> 
 > the counter is like flying up here they
 > 
 > were 14 now

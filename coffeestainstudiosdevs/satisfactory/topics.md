@@ -32,6 +32,7 @@ date: Last Modified
 * [Wiki](./topics/community/wiki.md)
 
 # [Embracer Group](./topics/embracer-group.md)
+* [Gearbox Software](./topics/embracer-group/gearbox-software.md)
 
 ## [THQ Nordic](./topics/embracer-group/thq-nordic.md)
 * [Lars](./topics/embracer-group/thq-nordic/lars.md)
@@ -50,6 +51,7 @@ date: Last Modified
 
 ## [Creatures](./topics/environment/creatures.md)
 * [Crab Boss](./topics/environment/creatures/crab-boss.md)
+* [Giant Flying Manta](./topics/environment/creatures/giant-flying-manta.md)
 * [Lizard Doggo](./topics/environment/creatures/lizard-doggo.md)
 * [Non Flying Bird](./topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](./topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
@@ -197,6 +199,7 @@ date: Last Modified
 * [FicsIt-Networks](./topics/mods/ficsit-networks.md)
 * [Ficsit Farming](./topics/mods/ficsit-farming.md)
 * [Mods vs. Features](./topics/mods/mods-vs-features.md)
+* [Smart!](./topics/mods/smart.md)
 
 ## [Official Mod Support](./topics/mods/official-mod-support.md)
 * [Steam Workshop](./topics/mods/official-mod-support/steam-workshop.md)

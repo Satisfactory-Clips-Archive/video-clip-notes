@@ -15,16 +15,16 @@ date: Last Modified
 * [Q&A: Any plans on in-game Jukebox?](../transcriptions/yt-dbyTU3Wdpog.md) https://www.youtube.com/watch?v=dbyTU3Wdpog
 
 ## October 20th, 2020 Livestream
-* [Q&A: Will there be new music in the future?](../transcriptions/yt-xj188eYVJJQ.md) https://www.youtube.com/watch?v=xj188eYVJJQ
 * [Q&A: Love the Music, but are there plans for more?](../transcriptions/yt-mb06RrILKmA.md) https://www.youtube.com/watch?v=mb06RrILKmA
+* [Q&A: Will there be new music in the future?](../transcriptions/yt-xj188eYVJJQ.md) https://www.youtube.com/watch?v=xj188eYVJJQ
 
 ## September 22nd, 2020 Livestream
 * [Q&A: Is the OST on Spotify?](../transcriptions/yt-iCN324N905o.md) https://www.youtube.com/watch?v=iCN324N905o
 
 ## September 8th, 2020 Livestream
-* [Q&A: Releasing the Soundtrack on Spotify?](../transcriptions/yt-zoDYA4Y9jdE.md) https://www.youtube.com/watch?v=zoDYA4Y9jdE
-* [Q&A: Releasing a Vinyl on the Merch Store ?](../transcriptions/yt-DeEK7w3qPyg.md) https://www.youtube.com/watch?v=DeEK7w3qPyg
 * [Q&A: Any new additions to the music planned?](../transcriptions/yt-RKfqg8EOZgE.md) https://www.youtube.com/watch?v=RKfqg8EOZgE
+* [Q&A: Releasing a Vinyl on the Merch Store ?](../transcriptions/yt-DeEK7w3qPyg.md) https://www.youtube.com/watch?v=DeEK7w3qPyg
+* [Q&A: Releasing the Soundtrack on Spotify?](../transcriptions/yt-zoDYA4Y9jdE.md) https://www.youtube.com/watch?v=zoDYA4Y9jdE
 
 ## September 1st, 2020 Livestream
 * [Q&A: Are you considering adding more music to the game?](../transcriptions/yt-iDyPOcW0o5E.md) https://www.youtube.com/watch?v=iDyPOcW0o5E

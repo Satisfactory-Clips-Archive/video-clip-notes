@@ -4,23 +4,28 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Graphics
 
+## February 9th, 2021 Livestream
+* [Q&A: Any plans to improve the visual part of building in the game?](../../transcriptions/yt-k-UDNJY0PWA.md) https://www.youtube.com/watch?v=k-UDNJY0PWA
+* [Q&A: Can there be a first-person view for driving cars?](../../transcriptions/yt-7R_kqWfRwhA.md) https://www.youtube.com/watch?v=7R_kqWfRwhA
+* [Q&A: Do you have any plans to add Ray Tracing or DLSS?](../../transcriptions/yt-hRzZjCBoI8s.md) https://www.youtube.com/watch?v=hRzZjCBoI8s
+
 ## February 2nd, 2021 Livestream
-* [Q&A: Is the new Engine more heavy as my fps got worse after the Upgrade?](../../transcriptions/yt-adQiqvCYQdw.md) https://www.youtube.com/watch?v=adQiqvCYQdw
 * [Q&A: Any chance on making a tutorial on optimal graphics settings for performance?](../../transcriptions/yt-vwI3DmL9xHM.md) https://www.youtube.com/watch?v=vwI3DmL9xHM
+* [Q&A: Is the new Engine more heavy as my fps got worse after the Upgrade?](../../transcriptions/yt-adQiqvCYQdw.md) https://www.youtube.com/watch?v=adQiqvCYQdw
 
 ## January 26th, 2021 Livestream
-* [Q&A: Is ray-trace in planning?](../../transcriptions/yt-Rx_M6fLOzvM.md) https://www.youtube.com/watch?v=Rx_M6fLOzvM
+* [Q&A: Ability to sleep coming any time?](../../transcriptions/yt-kDwywg_UJoc.md) https://www.youtube.com/watch?v=kDwywg_UJoc
 * [Q&A: Any chance on updating level-of-detail for coloured Walls?](../../transcriptions/yt-b7j3iswXHAc.md) https://www.youtube.com/watch?v=b7j3iswXHAc
 * [Q&A: In terms of pure performance is the fewer items being moved by Conveyor, the better?](../../transcriptions/yt-h0rUjNNgiCw.md) https://www.youtube.com/watch?v=h0rUjNNgiCw
+* [Q&A: Is ray-trace in planning?](../../transcriptions/yt-Rx_M6fLOzvM.md) https://www.youtube.com/watch?v=Rx_M6fLOzvM
 * [Q&A: Lights & Lampposts please?](../../transcriptions/yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g
-* [Q&A: Ability to sleep coming any time?](../../transcriptions/yt-kDwywg_UJoc.md) https://www.youtube.com/watch?v=kDwywg_UJoc
 
 ## January 19th, 2021 Livestream
-* [Snutt Talk: We're not using a linear colour space](../../transcriptions/yt-jigwsKo5YKY.md) https://www.youtube.com/watch?v=jigwsKo5YKY
-* [Snut Talk: Engine Upgrade - DirectX 12](../../transcriptions/yt-2QfjxpKJVIE.md) https://www.youtube.com/watch?v=2QfjxpKJVIE
 * [Q&A: Any Vulkan support?](../../transcriptions/yt-9_yf4tON8MM.md) https://www.youtube.com/watch?v=9_yf4tON8MM
-* [Q&A: Is there any plan to add the r.screenpercentage setting for folks on 4k or high-res screens?](../../transcriptions/yt-p3zdRLbGwsk.md) https://www.youtube.com/watch?v=p3zdRLbGwsk
 * [Q&A: Ever add DLSS at some point?](../../transcriptions/yt-PqFAGrVd3M0.md) https://www.youtube.com/watch?v=PqFAGrVd3M0
+* [Q&A: Is there any plan to add the r.screenpercentage setting for folks on 4k or high-res screens?](../../transcriptions/yt-p3zdRLbGwsk.md) https://www.youtube.com/watch?v=p3zdRLbGwsk
+* [Snut Talk: Engine Upgrade - DirectX 12](../../transcriptions/yt-2QfjxpKJVIE.md) https://www.youtube.com/watch?v=2QfjxpKJVIE
+* [Snutt Talk: We're not using a linear colour space](../../transcriptions/yt-jigwsKo5YKY.md) https://www.youtube.com/watch?v=jigwsKo5YKY
 
 ## December 15th, 2020 Livestream
 * [Q&A: Will RTX be added to Update 4 with the new Unreal Engine?](../../transcriptions/yt-RubFX693enI.md) https://www.youtube.com/watch?v=RubFX693enI
@@ -32,62 +37,62 @@ date: Last Modified
 * [Snutt Talk: Emmissive Materials](../../transcriptions/yt-nYpEI8hZEgU.md) https://www.youtube.com/watch?v=nYpEI8hZEgU
 
 ## November 24th, 2020 Livestream
+* [Q&A: Better UI scaling?](../../transcriptions/yt-Z7KYm1EEVsc.md) https://www.youtube.com/watch?v=Z7KYm1EEVsc
 * [Q&A: Does the Engine update include the waterfall graphics update?](../../transcriptions/yt-M9j9Bys_r_U.md) https://www.youtube.com/watch?v=M9j9Bys_r_U
 * [Q&A: Plans for Ray Tracing?](../../transcriptions/yt-pvMET7F9BQ8.md) https://www.youtube.com/watch?v=pvMET7F9BQ8
 * [Q&A: Split-screen for Satisfactory?](../../transcriptions/yt-nA6JASYXPMM.md) https://www.youtube.com/watch?v=nA6JASYXPMM
-* [Q&A: Better UI scaling?](../../transcriptions/yt-Z7KYm1EEVsc.md) https://www.youtube.com/watch?v=Z7KYm1EEVsc
 
 ## November 17th, 2020 Livestream
+* [Q&A: DX12 more efficient?](../../transcriptions/yt-FlEUMECDwS4.md) https://www.youtube.com/watch?v=FlEUMECDwS4
+* [Q&A: Multi-GPU Support?](../../transcriptions/yt-Q19sqmdRQAM.md) https://www.youtube.com/watch?v=Q19sqmdRQAM
 * [Trolling: Procedural Generation](../../transcriptions/yt-bvjKY6CcnLI.md) https://www.youtube.com/watch?v=bvjKY6CcnLI
 * [Trolling: Ray Tracing](../../transcriptions/yt-ow_LpyvCnVo.md) https://www.youtube.com/watch?v=ow_LpyvCnVo
-* [Q&A: Multi-GPU Support?](../../transcriptions/yt-Q19sqmdRQAM.md) https://www.youtube.com/watch?v=Q19sqmdRQAM
-* [Q&A: DX12 more efficient?](../../transcriptions/yt-FlEUMECDwS4.md) https://www.youtube.com/watch?v=FlEUMECDwS4
 
 ## November 10th, 2020 Livestream
-* [Q&A: Is it true that building vertically equals worse performance than building horizontally?](../../transcriptions/yt-BF0MYqw_SpM.md) https://www.youtube.com/watch?v=BF0MYqw_SpM
-* [Q&A: Do we have support for Ultra-wide Monitors?](../../transcriptions/yt-j5yWR-Ayb5w.md) https://www.youtube.com/watch?v=j5yWR-Ayb5w
 * [Jace Talk: Encased Conveyor Belts](../../transcriptions/yt-xT-2uWvm3iw.md) https://www.youtube.com/watch?v=xT-2uWvm3iw
 * [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](../../transcriptions/yt-IFxnvuYEVtk.md) https://www.youtube.com/watch?v=IFxnvuYEVtk
+* [Q&A: Do we have support for Ultra-wide Monitors?](../../transcriptions/yt-j5yWR-Ayb5w.md) https://www.youtube.com/watch?v=j5yWR-Ayb5w
+* [Q&A: Is it true that building vertically equals worse performance than building horizontally?](../../transcriptions/yt-BF0MYqw_SpM.md) https://www.youtube.com/watch?v=BF0MYqw_SpM
 
 ## November 3rd, 2020 Livestream
 * [Q&A: Do you plan on some cutscenes for the Story?](../../transcriptions/yt-t6WEYv_TLDI.md) https://www.youtube.com/watch?v=t6WEYv_TLDI
-* [Q&A: Why does my game lag when I made a huge Base?](../../transcriptions/yt-oJnzSnxlxsE.md) https://www.youtube.com/watch?v=oJnzSnxlxsE
 * [Q&A: RTX support ever?](../../transcriptions/yt-PKx5vpwPGW0.md) https://www.youtube.com/watch?v=PKx5vpwPGW0
-* [Q&A: Which one is better from an FPS performance point of view, Conveyor Belts, Trains, or Vehicles?](../../transcriptions/yt-zo5Skwrwb5Y.md) https://www.youtube.com/watch?v=zo5Skwrwb5Y
 * [Q&A: What about having covered Conveyors to help performance?](../../transcriptions/yt-dbJGfDr5SLk.md) https://www.youtube.com/watch?v=dbJGfDr5SLk
+* [Q&A: Which one is better from an FPS performance point of view, Conveyor Belts, Trains, or Vehicles?](../../transcriptions/yt-zo5Skwrwb5Y.md) https://www.youtube.com/watch?v=zo5Skwrwb5Y
+* [Q&A: Why does my game lag when I made a huge Base?](../../transcriptions/yt-oJnzSnxlxsE.md) https://www.youtube.com/watch?v=oJnzSnxlxsE
 * [Q&A: Will Satisfactory get Ray Tracing?](../../transcriptions/yt-pb2KprHATHk.md) https://www.youtube.com/watch?v=pb2KprHATHk
 
 ## October 27th, 2020 Livestream
+* [Q&A: Any word on merging platforms to reduce object count?](../../transcriptions/yt-JSAcfBylMmA.md) https://www.youtube.com/watch?v=JSAcfBylMmA
+* [Q&A: Can you make it so we can use closed Conveyor Belts to help with Rendering?](../../transcriptions/yt-6KdakqhC8Q4.md) https://www.youtube.com/watch?v=6KdakqhC8Q4
+* [Q&A: When you have 200,000 Foundations, Walls would be good too.](../../transcriptions/yt-8I6SrlovQvo.md) https://www.youtube.com/watch?v=8I6SrlovQvo
 * [Q&A: Will we see performance improvements?](../../transcriptions/yt-TbPMkoLwW4U.md) https://www.youtube.com/watch?v=TbPMkoLwW4U
 * [Snutt Talk: New Refinery model](../../transcriptions/yt-Mzu2DkBfaww.md) https://www.youtube.com/watch?v=Mzu2DkBfaww
-* [Q&A: Can you make it so we can use closed Conveyor Belts to help with Rendering?](../../transcriptions/yt-6KdakqhC8Q4.md) https://www.youtube.com/watch?v=6KdakqhC8Q4
-* [Q&A: Any word on merging platforms to reduce object count?](../../transcriptions/yt-JSAcfBylMmA.md) https://www.youtube.com/watch?v=JSAcfBylMmA
-* [Q&A: When you have 200,000 Foundations, Walls would be good too.](../../transcriptions/yt-8I6SrlovQvo.md) https://www.youtube.com/watch?v=8I6SrlovQvo
 
 ## October 13th, 2020 Livestream
 * [Q&A: Will one of the Quality of Life Updates be turning down the fog?](../../transcriptions/yt-2AMBinmPITg.md) https://www.youtube.com/watch?v=2AMBinmPITg
 
 ## October 9th, 2020 Livestream
-* [Q&A: Have Coffee Stain considered contributing the instanced spline mesh back to Unreal Engine?](../../transcriptions/yt-ny4PdCAnT9Q.md) https://www.youtube.com/watch?v=ny4PdCAnT9Q
-* [Snutt & Dylan Talk: Developing Shaders](../../transcriptions/yt-m5fQMCWE1MY.md) https://www.youtube.com/watch?v=m5fQMCWE1MY
 * [Q&A: Could we get Ray Tracing?](../../transcriptions/yt-tsUgV4Irw9I.md) https://www.youtube.com/watch?v=tsUgV4Irw9I
-* [Snutt & Dylan Talk: Development priorities](../../transcriptions/yt-iap-q8Jggq8.md) https://www.youtube.com/watch?v=iap-q8Jggq8
+* [Q&A: Have Coffee Stain considered contributing the instanced spline mesh back to Unreal Engine?](../../transcriptions/yt-ny4PdCAnT9Q.md) https://www.youtube.com/watch?v=ny4PdCAnT9Q
 * [Q&A: What is the limit?](../../transcriptions/yt-Njv_PJT3B2g.md) https://www.youtube.com/watch?v=Njv_PJT3B2g
+* [Snutt & Dylan Talk: Developing Shaders](../../transcriptions/yt-m5fQMCWE1MY.md) https://www.youtube.com/watch?v=m5fQMCWE1MY
+* [Snutt & Dylan Talk: Development priorities](../../transcriptions/yt-iap-q8Jggq8.md) https://www.youtube.com/watch?v=iap-q8Jggq8
 
 ## September 29th, 2020 Livestream
-* [Q&A: What about Mk. 6 Belts?](../../transcriptions/yt-NiBLAUCxIEs.md) https://www.youtube.com/watch?v=NiBLAUCxIEs
-* [Q&A: Enclosed Belts](../../transcriptions/yt-oLpv9B5-OjE.md) https://www.youtube.com/watch?v=oLpv9B5-OjE
 * [Q&A: Add RTX?](../../transcriptions/yt-KXKJxFYBxos.md) https://www.youtube.com/watch?v=KXKJxFYBxos
+* [Q&A: Enclosed Belts](../../transcriptions/yt-oLpv9B5-OjE.md) https://www.youtube.com/watch?v=oLpv9B5-OjE
+* [Q&A: What about Mk. 6 Belts?](../../transcriptions/yt-NiBLAUCxIEs.md) https://www.youtube.com/watch?v=NiBLAUCxIEs
 
 ## September 22nd, 2020 Livestream
-* [Q&A: Engine Update - allow more objects to be built without fps drops?](../../transcriptions/yt-sADDzCQqkmE.md) https://www.youtube.com/watch?v=sADDzCQqkmE
-* [Q&A: Would implementing covered belts reduce the number of objects in the world?](../../transcriptions/yt-2R4MfLt_oMw.md) https://www.youtube.com/watch?v=2R4MfLt_oMw
-* [Q&A: What is the Object Count Limit, and how can we tell in our own game?](../../transcriptions/yt-gMq-fPCqGWQ.md) https://www.youtube.com/watch?v=gMq-fPCqGWQ
-* [Q&A: Does destroying trees & rocks make the game slower like making buildings?](../../transcriptions/yt-vOJIZQfzcUk.md) https://www.youtube.com/watch?v=vOJIZQfzcUk
-* [Q&A: Is it recommended to use all cores in Steam?](../../transcriptions/yt-vOdftO3hYsI.md) https://www.youtube.com/watch?v=vOdftO3hYsI
 * [Q&A: Can we get more cat variety?](../../transcriptions/yt-v_9SO9SU3B0.md) https://www.youtube.com/watch?v=v_9SO9SU3B0
-* [Q&A: Ultrawide Monitors?](../../transcriptions/yt-j9oy_AyPXnU.md) https://www.youtube.com/watch?v=j9oy_AyPXnU
+* [Q&A: Does destroying trees & rocks make the game slower like making buildings?](../../transcriptions/yt-vOJIZQfzcUk.md) https://www.youtube.com/watch?v=vOJIZQfzcUk
+* [Q&A: Engine Update - allow more objects to be built without fps drops?](../../transcriptions/yt-sADDzCQqkmE.md) https://www.youtube.com/watch?v=sADDzCQqkmE
+* [Q&A: Is it recommended to use all cores in Steam?](../../transcriptions/yt-vOdftO3hYsI.md) https://www.youtube.com/watch?v=vOdftO3hYsI
 * [Q&A: Removing 90 Factory Carts doubled my FPS](../../transcriptions/yt-R6XOvosAptg.md) https://www.youtube.com/watch?v=R6XOvosAptg
+* [Q&A: Ultrawide Monitors?](../../transcriptions/yt-j9oy_AyPXnU.md) https://www.youtube.com/watch?v=j9oy_AyPXnU
+* [Q&A: What is the Object Count Limit, and how can we tell in our own game?](../../transcriptions/yt-gMq-fPCqGWQ.md) https://www.youtube.com/watch?v=gMq-fPCqGWQ
+* [Q&A: Would implementing covered belts reduce the number of objects in the world?](../../transcriptions/yt-2R4MfLt_oMw.md) https://www.youtube.com/watch?v=2R4MfLt_oMw
 
 ## September 15th, 2020 Livestream
 * [Q&A: DLSS one day?](../../transcriptions/yt-IXroe1QFRzc.md) https://www.youtube.com/watch?v=IXroe1QFRzc
@@ -101,21 +106,21 @@ date: Last Modified
 * [Q&A: Why did you change the Nuclear Reactors model?](../../transcriptions/yt-hBpbwXr9cMs.md) https://www.youtube.com/watch?v=hBpbwXr9cMs
 
 ## August 25th, 2020 Livestream
-* [Q&A: Reducing the stupid poly counts?](../../transcriptions/yt-aDlrBrPtdfw.md) https://www.youtube.com/watch?v=aDlrBrPtdfw
-* [Q&A: Please consider adding a third-person view?](../../transcriptions/yt-HXXn10GhRWU.md) https://www.youtube.com/watch?v=HXXn10GhRWU
-* [Q&A: Why is hyperloop in first person?](../../transcriptions/yt-BmSeFBv2rAQ.md) https://www.youtube.com/watch?v=BmSeFBv2rAQ
-* [Q&A: Real-time reflections for the helmet?](../../transcriptions/yt-RuQcbza7pVw.md) https://www.youtube.com/watch?v=RuQcbza7pVw
 * [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../transcriptions/yt-Ds9NIPna9_4.md) https://www.youtube.com/watch?v=Ds9NIPna9_4
-* [Q&A: UV issues and texture tearing is a known issue?](../../transcriptions/yt-1uYhNDc8E1M.md) https://www.youtube.com/watch?v=1uYhNDc8E1M
-* [Q&A: Removing vegetation speeds up the game, yes or no ?](../../transcriptions/yt-GgoQS6sOADQ.md) https://www.youtube.com/watch?v=GgoQS6sOADQ
 * [Q&A: Are the trees instance-based?](../../transcriptions/yt-73nEuwO7HTA.md) https://www.youtube.com/watch?v=73nEuwO7HTA
 * [Q&A: Linux would be useful for Servers](../../transcriptions/yt-ITkosdWcGbA.md) https://www.youtube.com/watch?v=ITkosdWcGbA
+* [Q&A: Please consider adding a third-person view?](../../transcriptions/yt-HXXn10GhRWU.md) https://www.youtube.com/watch?v=HXXn10GhRWU
+* [Q&A: Real-time reflections for the helmet?](../../transcriptions/yt-RuQcbza7pVw.md) https://www.youtube.com/watch?v=RuQcbza7pVw
+* [Q&A: Reducing the stupid poly counts?](../../transcriptions/yt-aDlrBrPtdfw.md) https://www.youtube.com/watch?v=aDlrBrPtdfw
+* [Q&A: Removing vegetation speeds up the game, yes or no ?](../../transcriptions/yt-GgoQS6sOADQ.md) https://www.youtube.com/watch?v=GgoQS6sOADQ
+* [Q&A: UV issues and texture tearing is a known issue?](../../transcriptions/yt-1uYhNDc8E1M.md) https://www.youtube.com/watch?v=1uYhNDc8E1M
+* [Q&A: Why is hyperloop in first person?](../../transcriptions/yt-BmSeFBv2rAQ.md) https://www.youtube.com/watch?v=BmSeFBv2rAQ
 * Snutt Talk: VR Support https://clips.twitch.tv/DullScrumptiousEagleStinkyCheese
 
 ## May 19th, 2020 Livestream
-* [Q&A: What does Performance Budget mean?](../../transcriptions/yt-qg27gPorXB4.md) https://www.youtube.com/watch?v=qg27gPorXB4
-* [Q&A: Deactivate Fog parameter?](../../transcriptions/yt-2H_QouHUoBQ.md) https://www.youtube.com/watch?v=2H_QouHUoBQ
 * [Q&A: Any work on Occlusion Culling?](../../transcriptions/yt-SauDZG88AFI.md) https://www.youtube.com/watch?v=SauDZG88AFI
+* [Q&A: Deactivate Fog parameter?](../../transcriptions/yt-2H_QouHUoBQ.md) https://www.youtube.com/watch?v=2H_QouHUoBQ
+* [Q&A: What does Performance Budget mean?](../../transcriptions/yt-qg27gPorXB4.md) https://www.youtube.com/watch?v=qg27gPorXB4
 
 ## March 24th, 2020 Livestream
 * [Q&A: Third-person Camera option?](../../transcriptions/yt-hWRM_bQHXzc.md) https://www.youtube.com/watch?v=hWRM_bQHXzc
@@ -124,7 +129,7 @@ date: Last Modified
 * [Snutt Talk: There's so many things I want to fix & do](../../transcriptions/yt-jNQ4IPihWUY.md) https://www.youtube.com/watch?v=jNQ4IPihWUY
 
 ## March 9th, 2019 Livestream
-* [Q&A: Does building Walls around big factories help performance?](../../transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4
-* [Q&A: How did you guys optimise the game so much?](../../transcriptions/yt-nRCmJo-Wh9s.md) https://www.youtube.com/watch?v=nRCmJo-Wh9s
-* [Q&A: Game is awesome, but late-game is super laggy sometimes.](../../transcriptions/yt-3MO6SYCZuFI.md) https://www.youtube.com/watch?v=3MO6SYCZuFI
 * [Q&A: Any way to disable motion blur?](../../transcriptions/yt-TTZzooohufI.md) https://www.youtube.com/watch?v=TTZzooohufI
+* [Q&A: Does building Walls around big factories help performance?](../../transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4
+* [Q&A: Game is awesome, but late-game is super laggy sometimes.](../../transcriptions/yt-3MO6SYCZuFI.md) https://www.youtube.com/watch?v=3MO6SYCZuFI
+* [Q&A: How did you guys optimise the game so much?](../../transcriptions/yt-nRCmJo-Wh9s.md) https://www.youtube.com/watch?v=nRCmJo-Wh9s

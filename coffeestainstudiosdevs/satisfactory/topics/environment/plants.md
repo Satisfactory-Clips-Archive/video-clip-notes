@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## February 9th, 2021 Livestream
+* [Q&A: Can I smoke trees?](../../transcriptions/yt-NRpK_K8wzuo.md) https://www.youtube.com/watch?v=NRpK_K8wzuo
+
 ## January 26th, 2021 Livestream
 * [Q&A: Farming would be cool?](../../transcriptions/yt-qO1Zl01HfqU.md) https://www.youtube.com/watch?v=qO1Zl01HfqU
 
@@ -23,25 +26,25 @@ date: Last Modified
 * [Q&A: If you have a full inventory you can remove just a single tree but you don't get the resources?](../../transcriptions/yt-bwEOd9tqyuQ.md) https://www.youtube.com/watch?v=bwEOd9tqyuQ
 
 ## September 22nd, 2020 Livestream
-* [Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible?](../../transcriptions/yt-v0UZaH3mXh4.md) https://www.youtube.com/watch?v=v0UZaH3mXh4
 * [Q&A: Does destroying trees & rocks make the game slower like making buildings?](../../transcriptions/yt-vOJIZQfzcUk.md) https://www.youtube.com/watch?v=vOJIZQfzcUk
+* [Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible?](../../transcriptions/yt-v0UZaH3mXh4.md) https://www.youtube.com/watch?v=v0UZaH3mXh4
 
 ## September 8th, 2020 Livestream
 * [Q&A: Should I remove all nature to improve FPS?](../../transcriptions/yt-t-FNpaJUBcE.md) https://www.youtube.com/watch?v=t-FNpaJUBcE
 
 ## August 25th, 2020 Livestream
+* [Q&A: Are the trees instance-based?](../../transcriptions/yt-73nEuwO7HTA.md) https://www.youtube.com/watch?v=73nEuwO7HTA
 * [Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ?](../../transcriptions/yt-s55I90_ELrQ.md) https://www.youtube.com/watch?v=s55I90_ELrQ
 * [Q&A: More pollution as you progress?](../../transcriptions/yt-dTd-M1qGkfU.md) https://www.youtube.com/watch?v=dTd-M1qGkfU
 * [Q&A: Removing vegetation speeds up the game, yes or no ?](../../transcriptions/yt-GgoQS6sOADQ.md) https://www.youtube.com/watch?v=GgoQS6sOADQ
-* [Q&A: Are the trees instance-based?](../../transcriptions/yt-73nEuwO7HTA.md) https://www.youtube.com/watch?v=73nEuwO7HTA
 
 ## March 24th, 2020 Livestream
 * [Q&A: Berry Farming?](../../transcriptions/yt-2Cq3xmLN8sQ.md) https://www.youtube.com/watch?v=2Cq3xmLN8sQ
 * Q&A: When are the Wind Turbines that Jace leaked coming? https://www.youtube.com/watch?v=nRMTYlLqiSc
 
 ## February 11th, 2020 Livestream
-* [Snutt Talk: There's so many things I want to fix & do](../../transcriptions/yt-jNQ4IPihWUY.md) https://www.youtube.com/watch?v=jNQ4IPihWUY
 * [Q&A: Are you going to add Potato Energy?](../../transcriptions/yt-V1h0SVwCHKc.md) https://www.youtube.com/watch?v=V1h0SVwCHKc
+* [Snutt Talk: There's so many things I want to fix & do](../../transcriptions/yt-jNQ4IPihWUY.md) https://www.youtube.com/watch?v=jNQ4IPihWUY
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Will consumables ever grow back?](../../transcriptions/yt-hbm5XfpQ1O0.md) https://www.youtube.com/watch?v=hbm5XfpQ1O0

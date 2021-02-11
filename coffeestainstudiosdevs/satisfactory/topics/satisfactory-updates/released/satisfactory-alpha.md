@@ -15,12 +15,12 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: After the Alpha Weekend - Alpha Testers can continue streaming with the Alpha client?](../../../transcriptions/yt-jBOvSHJtna8.md) https://www.youtube.com/watch?v=jBOvSHJtna8
+* [Q&A: Do I get a sticker for how many bugs I reported in alpha?](../../../transcriptions/yt-2ny0XTCY6l0.md) https://www.youtube.com/watch?v=2ny0XTCY6l0
 * [Q&A: Is that the alpha build version?](../../../transcriptions/yt-u9Vu9NIjiRs.md) https://www.youtube.com/watch?v=u9Vu9NIjiRs
 * [Q&A: Is the Early Access version the same version Alpha Testers have?](../../../transcriptions/yt-bnUTeUn6TA4.md) https://www.youtube.com/watch?v=bnUTeUn6TA4
-* [Q&A: Do I get a sticker for how many bugs I reported in alpha?](../../../transcriptions/yt-2ny0XTCY6l0.md) https://www.youtube.com/watch?v=2ny0XTCY6l0
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../../../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
-* Snutt Talk: Alpha Test Weekend Hard Drive M.A.M. bug https://www.youtube.com/watch?v=EyUfBo2-gjw
 * [Snutt & Jace Talk: Archway Story Time](../../../transcriptions/yt-5481tMGLLys.md) https://www.youtube.com/watch?v=5481tMGLLys
+* Snutt Talk: Alpha Test Weekend Hard Drive M.A.M. bug https://www.youtube.com/watch?v=EyUfBo2-gjw
 
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164

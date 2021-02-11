@@ -4,9 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel
 
+## February 9th, 2021 Livestream
+* [Q&A: Is flyable transport an option?](../../../transcriptions/yt-kd3UMt4pESk.md) https://www.youtube.com/watch?v=kd3UMt4pESk
+
 ## January 26th, 2021 Livestream
-* [Q&A: Were you serious about the drones in the last YouTube video?](../../../transcriptions/yt-bbAGxhCSN8c.md) https://www.youtube.com/watch?v=bbAGxhCSN8c
 * [Q&A: Can we expect aircraft any time?](../../../transcriptions/yt-XMIUlTU9xcU.md) https://www.youtube.com/watch?v=XMIUlTU9xcU
+* [Q&A: Were you serious about the drones in the last YouTube video?](../../../transcriptions/yt-bbAGxhCSN8c.md) https://www.youtube.com/watch?v=bbAGxhCSN8c
 * [Q&A: Will you add drones to Satisfactory?](../../../transcriptions/yt-pdppJAPp4yA.md) https://www.youtube.com/watch?v=pdppJAPp4yA
 
 ## November 17th, 2020 Livestream
@@ -26,15 +29,15 @@ date: Last Modified
 * [Q&A: Flying Lizard Doggos, when?](../../../transcriptions/yt-p-f_kfmUdR0.md) https://www.youtube.com/watch?v=p-f_kfmUdR0
 
 ## September 8th, 2020 Livestream
-* [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](../../../transcriptions/yt--sa8wjg4lYk.md) https://www.youtube.com/watch?v=-sa8wjg4lYk
 * [Jace Talk: Air Transportation](../../../transcriptions/yt-hKQlthlcwXc.md) https://www.youtube.com/watch?v=hKQlthlcwXc
 * [Q&A: Jetpack needs a Hover Mode?](../../../transcriptions/yt-zeXh53pKe0A.md) https://www.youtube.com/watch?v=zeXh53pKe0A
 * [Q&A: The game needs small Flying Vehicles to travel long distance?](../../../transcriptions/yt-i0_bbpQ_91I.md) https://www.youtube.com/watch?v=i0_bbpQ_91I
+* [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](../../../transcriptions/yt--sa8wjg4lYk.md) https://www.youtube.com/watch?v=-sa8wjg4lYk
 
 ## August 25th, 2020 Livestream
-* [Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ?](../../../transcriptions/yt-mAA2oX9mDOw.md) https://www.youtube.com/watch?v=mAA2oX9mDOw
-* Q&A: How about a drone to fly around? https://www.youtube.com/watch?v=1msTsQksmbI
 * [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../../transcriptions/yt-Ds9NIPna9_4.md) https://www.youtube.com/watch?v=Ds9NIPna9_4
+* Q&A: How about a drone to fly around? https://www.youtube.com/watch?v=1msTsQksmbI
+* [Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ?](../../../transcriptions/yt-mAA2oX9mDOw.md) https://www.youtube.com/watch?v=mAA2oX9mDOw
 * [Q&A: State of things = 🤷?](../../../transcriptions/yt-5SH9eySqDzU.md) https://www.youtube.com/watch?v=5SH9eySqDzU
 
 ## August 11th, 2020 Livestream
@@ -48,5 +51,5 @@ date: Last Modified
 * [Q&A: Have you considerd Flying Drones?](../../../transcriptions/yt-KYox3m1mePU.md) https://www.youtube.com/watch?v=KYox3m1mePU
 
 ## March 9th, 2019 Livestream
-* [Q&A: Is it possible to use powerline as zip-lines?](../../../transcriptions/yt-NTeBuhOqIu0.md) https://www.youtube.com/watch?v=NTeBuhOqIu0
 * [Q&A: Flying vehicles for overhead view of your factory?](../../../transcriptions/yt-njN-07Q5-8s.md) https://www.youtube.com/watch?v=njN-07Q5-8s
+* [Q&A: Is it possible to use powerline as zip-lines?](../../../transcriptions/yt-NTeBuhOqIu0.md) https://www.youtube.com/watch?v=NTeBuhOqIu0

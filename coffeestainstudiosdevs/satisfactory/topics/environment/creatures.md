@@ -4,9 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Creatures
 * [Crab Boss](../../topics/environment/creatures/crab-boss.md)
+* [Giant Flying Manta](../../topics/environment/creatures/giant-flying-manta.md)
 * [Lizard Doggo](../../topics/environment/creatures/lizard-doggo.md)
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
+
+## February 9th, 2021 Livestream
+* [Q&A: When will you be adding more wildlife?](../../transcriptions/yt-gAjKNyUTkMQ.md) https://www.youtube.com/watch?v=gAjKNyUTkMQ
 
 ## February 2nd, 2021 Livestream
 * [Q&A: Increase the spawn radius for animals?](../../transcriptions/yt-6_JS0HRIPp8.md) https://www.youtube.com/watch?v=6_JS0HRIPp8
@@ -24,11 +28,11 @@ date: Last Modified
 * [Q&A: Can we get Mobs that spawn near you and attack you?](../../transcriptions/yt-oYtdJ9Dss64.md) https://www.youtube.com/watch?v=oYtdJ9Dss64
 
 ## November 10th, 2020 Livestream
+* [Jace Talk: Mount Prototypes](../../transcriptions/yt-33dr3t-46yQ.md) https://www.youtube.com/watch?v=33dr3t-46yQ
+* [Q&A: Any plans to add more animals to enemies or dangers?](../../transcriptions/yt-RuzL7DdAJ1o.md) https://www.youtube.com/watch?v=RuzL7DdAJ1o
+* [Q&A: How about you add the Goat so we can use her to destroy the Factory we don't need?](../../transcriptions/yt-J_a6kzow6gk.md) https://www.youtube.com/watch?v=J_a6kzow6gk
 * [Q&A: Marine life ?](../../transcriptions/yt-cZCA9NXj7Co.md) https://www.youtube.com/watch?v=cZCA9NXj7Co
 * [Q&A: Strange Creature Mounts?](../../transcriptions/yt-EeYyKTOE5mQ.md) https://www.youtube.com/watch?v=EeYyKTOE5mQ
-* [Jace Talk: Mount Prototypes](../../transcriptions/yt-33dr3t-46yQ.md) https://www.youtube.com/watch?v=33dr3t-46yQ
-* [Q&A: How about you add the Goat so we can use her to destroy the Factory we don't need?](../../transcriptions/yt-J_a6kzow6gk.md) https://www.youtube.com/watch?v=J_a6kzow6gk
-* [Q&A: Any plans to add more animals to enemies or dangers?](../../transcriptions/yt-RuzL7DdAJ1o.md) https://www.youtube.com/watch?v=RuzL7DdAJ1o
 
 ## November 3rd, 2020 Livestream
 * [Q&A: Are there going to be new Creatures?](../../transcriptions/yt-c3jeZv_aYug.md) https://www.youtube.com/watch?v=c3jeZv_aYug
@@ -50,13 +54,12 @@ date: Last Modified
 * [Q&A: Will there be more creatures?](../../transcriptions/yt-Yzd466gO44M.md) https://www.youtube.com/watch?v=Yzd466gO44M
 
 ## August 25th, 2020 Livestream
-* [Q&A: New enemies / creatures?](../../transcriptions/yt-TDbNru0heoU.md) https://www.youtube.com/watch?v=TDbNru0heoU
-* [Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?](../../transcriptions/yt-EbTEcw5zg8k.md) https://www.youtube.com/watch?v=EbTEcw5zg8k
 * [Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ?](../../transcriptions/yt-s55I90_ELrQ.md) https://www.youtube.com/watch?v=s55I90_ELrQ
+* [Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?](../../transcriptions/yt-EbTEcw5zg8k.md) https://www.youtube.com/watch?v=EbTEcw5zg8k
+* [Q&A: New enemies / creatures?](../../transcriptions/yt-TDbNru0heoU.md) https://www.youtube.com/watch?v=TDbNru0heoU
 * [Q&A: There's a smaller pink jelly above the pillar in the sky too?](../../transcriptions/yt-wWVbIS8jgy8.md) https://www.youtube.com/watch?v=wWVbIS8jgy8
-* Q&A: Add Godzilla to fight the big Manta? https://www.youtube.com/watch?v=MncPu1Yxuf8
-* [Q&A: Will we have more monsters?](../../transcriptions/yt-shEKhZakMxQ.md) https://www.youtube.com/watch?v=shEKhZakMxQ
 * [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../transcriptions/yt--AjFbGOOAQI.md) https://www.youtube.com/watch?v=-AjFbGOOAQI
+* [Q&A: Will we have more monsters?](../../transcriptions/yt-shEKhZakMxQ.md) https://www.youtube.com/watch?v=shEKhZakMxQ
 
 ## August 18th, 2020 Livestream
 * Q&A: Are we ever going to add taming mounts? https://clips.twitch.tv/BoldAgileSquidDoggo
@@ -74,23 +77,22 @@ date: Last Modified
 * [Q&A: Creatures and Resources in deep ocean?](../../transcriptions/yt-bz7PJ3VF6FE.md) https://www.youtube.com/watch?v=bz7PJ3VF6FE
 
 ## December 19th, 2019 Livestream
-* [Q&A: Will there be goats?](../../transcriptions/yt-3YZMayi1Qec.md) https://www.youtube.com/watch?v=3YZMayi1Qec
 * [Q&A: Does it mean we get Goats?](../../transcriptions/yt-RlSL5DONzns.md) https://www.youtube.com/watch?v=RlSL5DONzns
+* [Q&A: Will there be goats?](../../transcriptions/yt-3YZMayi1Qec.md) https://www.youtube.com/watch?v=3YZMayi1Qec
 
 ## March 9th, 2019 Livestream
-* [Q&A: Where can I find those "cute cats"](../../transcriptions/yt-ALTf24gjRHE.md) https://www.youtube.com/watch?v=ALTf24gjRHE
-* [Q&A: You can tame any native lifeform?](../../transcriptions/yt-EnGMyJjYDdI.md) https://www.youtube.com/watch?v=EnGMyJjYDdI
-* [Q&A: Is it possible to kill a Spitter with the standard Zapper?](../../transcriptions/yt-ZmVoWBHW9Jc.md) https://www.youtube.com/watch?v=ZmVoWBHW9Jc
-* [Q&A: When are you going to add orcs to the game?](../../transcriptions/yt-S43FE8W6Feo.md) https://www.youtube.com/watch?v=S43FE8W6Feo
-* [Q&A: How many types of scary spiders / cute cats are in game?](../../transcriptions/yt-Qw4AMG6mgnY.md) https://www.youtube.com/watch?v=Qw4AMG6mgnY
 * [Jace & Simon take on a Hog that rode Snutt](../../transcriptions/yt-U8qgrw_iVLU.md) https://www.youtube.com/watch?v=U8qgrw_iVLU
-* [Q&A: I don't like spiders but arachnophobia mode is even scarier](../../transcriptions/yt-GluAI4ipeLY.md) https://www.youtube.com/watch?v=GluAI4ipeLY
 * Q&A: Are there any goats in the game? https://www.youtube.com/watch?v=jAjSoN6Z1rc
 * [Q&A: Are there going to be strawberry fishes in the game?](../../transcriptions/yt-LKcrsIMzGYY.md) https://www.youtube.com/watch?v=LKcrsIMzGYY
-* [Q&A: Plans to make saddle for the big flying thing?](../../transcriptions/yt-gcjbJ7uX2No.md) https://www.youtube.com/watch?v=gcjbJ7uX2No
-* [Q&A: Is there a name for the giant flying creature?](../../transcriptions/yt-bWnZ-OI-_Og.md) https://www.youtube.com/watch?v=bWnZ-OI-_Og
-* [Q&A: Is there more than 5 enemies in?](../../transcriptions/yt-DLnUjlixpg8.md) https://www.youtube.com/watch?v=DLnUjlixpg8
 * [Q&A: Can creatures in any way disrupt your factory?](../../transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
+* [Q&A: How many types of scary spiders / cute cats are in game?](../../transcriptions/yt-Qw4AMG6mgnY.md) https://www.youtube.com/watch?v=Qw4AMG6mgnY
+* [Q&A: I don't like spiders but arachnophobia mode is even scarier](../../transcriptions/yt-GluAI4ipeLY.md) https://www.youtube.com/watch?v=GluAI4ipeLY
+* [Q&A: Is it possible to kill a Spitter with the standard Zapper?](../../transcriptions/yt-ZmVoWBHW9Jc.md) https://www.youtube.com/watch?v=ZmVoWBHW9Jc
+* [Q&A: Is there more than 5 enemies in?](../../transcriptions/yt-DLnUjlixpg8.md) https://www.youtube.com/watch?v=DLnUjlixpg8
+* [Q&A: Plans to make saddle for the big flying thing?](../../transcriptions/yt-gcjbJ7uX2No.md) https://www.youtube.com/watch?v=gcjbJ7uX2No
+* [Q&A: When are you going to add orcs to the game?](../../transcriptions/yt-S43FE8W6Feo.md) https://www.youtube.com/watch?v=S43FE8W6Feo
+* [Q&A: Where can I find those "cute cats"](../../transcriptions/yt-ALTf24gjRHE.md) https://www.youtube.com/watch?v=ALTf24gjRHE
+* [Q&A: You can tame any native lifeform?](../../transcriptions/yt-EnGMyJjYDdI.md) https://www.youtube.com/watch?v=EnGMyJjYDdI
 
 ## August 1st, 2018 Livestream
 * [Q&A: Are there actual spiders in the game?](../../transcriptions/yt-iFAy1NZUOGU,237.4,252.8.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=237&end=253

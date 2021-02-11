@@ -6,14 +6,19 @@ date: Last Modified
 * [FicsIt-Networks](../topics/mods/ficsit-networks.md)
 * [Ficsit Farming](../topics/mods/ficsit-farming.md)
 * [Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Smart!](../topics/mods/smart.md)
 * [Official Mod Support](../topics/mods/official-mod-support.md)
+
+## February 9th, 2021 Livestream
+* [Q&A: Will there be possibility to include Mods in GeForce Now?](../transcriptions/yt-AM7YsTblDn0.md) https://www.youtube.com/watch?v=AM7YsTblDn0
+* [State of Dev: Modular Build](../transcriptions/yt-pSaAt5v9asM.md) https://www.youtube.com/watch?v=pSaAt5v9asM
 
 ## January 26th, 2021 Livestream
 * [Q&A: When will Mods work again?](../transcriptions/yt-u6HJZ1gJhRk.md) https://www.youtube.com/watch?v=u6HJZ1gJhRk
 
 ## January 19th, 2021 Livestream
-* [Snutt Talk: Engine Upgrade is probably going to break mods.](../transcriptions/yt-lHKPC3m2Z2A.md) https://www.youtube.com/watch?v=lHKPC3m2Z2A
 * [Q&A: Is this modded because the foundations are glitching into the Power Plant?](../transcriptions/yt-03J8nqdJCtY.md) https://www.youtube.com/watch?v=03J8nqdJCtY
+* [Snutt Talk: Engine Upgrade is probably going to break mods.](../transcriptions/yt-lHKPC3m2Z2A.md) https://www.youtube.com/watch?v=lHKPC3m2Z2A
 
 ## January 12th, 2021 Livestream
 * [Q&A: What is your favourite Mod?](../transcriptions/yt-9tdYBCwd5no.md) https://www.youtube.com/watch?v=9tdYBCwd5no
@@ -29,8 +34,8 @@ date: Last Modified
 ## November 10th, 2020 Livestream
 * [Q&A: Are you guys aware of a crash when looking at using Double Wall Outlets?](../transcriptions/yt-Qb8OdLG68Ds.md) https://www.youtube.com/watch?v=Qb8OdLG68Ds
 * [Q&A: Is there something you'll never add to the game that you recommend Modders add instead?](../transcriptions/yt-6RV2jnHyFvI.md) https://www.youtube.com/watch?v=6RV2jnHyFvI
-* [Q&A: Will existing Mods work with new build?](../transcriptions/yt-bBrB9Qeb1hk.md) https://www.youtube.com/watch?v=bBrB9Qeb1hk
 * [Q&A: Lamposts be copy/pasted from the mods be copy/pasted like Fluid Packager was copy/pasted?](../transcriptions/yt-P2EUFf4poKg.md) https://www.youtube.com/watch?v=P2EUFf4poKg
+* [Q&A: Will existing Mods work with new build?](../transcriptions/yt-bBrB9Qeb1hk.md) https://www.youtube.com/watch?v=bBrB9Qeb1hk
 
 ## November 3rd, 2020 Livestream
 * [Q&A: Any idea about Official Modding?](../transcriptions/yt-D5-Y6LYR7jk.md) https://www.youtube.com/watch?v=D5-Y6LYR7jk
@@ -51,27 +56,27 @@ date: Last Modified
 * [Q&A: I forgot the game even had Mod capability](../transcriptions/yt-HEqq1dnxrg4.md) https://www.youtube.com/watch?v=HEqq1dnxrg4
 
 ## September 22nd, 2020 Livestream
-* [Q&A: Can we make a Satisfactory Mobile Mod?](../transcriptions/yt-Wv_kjBAmLAY.md) https://www.youtube.com/watch?v=Wv_kjBAmLAY
 * [Jace & Snutt Talk: Mods](../transcriptions/yt-DHVnFRswm-8.md) https://www.youtube.com/watch?v=DHVnFRswm-8
+* [Q&A: Can we make a Satisfactory Mobile Mod?](../transcriptions/yt-Wv_kjBAmLAY.md) https://www.youtube.com/watch?v=Wv_kjBAmLAY
 
 ## September 15th, 2020 Livestream
-* [Snutt Talk: Looking into Modular Builds for the Game](../transcriptions/yt-PHoou3ds24k.md) https://www.youtube.com/watch?v=PHoou3ds24k
 * [Q&A: Craftable Camera? (part 1)](../transcriptions/yt-__WKPcHdDcA.md) https://www.youtube.com/watch?v=__WKPcHdDcA
 * [Q&A: Craftable Camera? (part 2)](../transcriptions/yt-0vZS0gvnuqg.md) https://www.youtube.com/watch?v=0vZS0gvnuqg
 * [Q&A: Will there be a Map Editor?](../transcriptions/yt-MYno60AbSGk.md) https://www.youtube.com/watch?v=MYno60AbSGk
+* [Snutt Talk: Looking into Modular Builds for the Game](../transcriptions/yt-PHoou3ds24k.md) https://www.youtube.com/watch?v=PHoou3ds24k
 
 ## September 8th, 2020 Livestream
-* [Q&A: You like to watch the modding community suffer, don't you.](../transcriptions/yt-ecGKcdGYi4o.md) https://www.youtube.com/watch?v=ecGKcdGYi4o
-* [Q&A: Why not try ban all Mods / Do you want people to use Mods ?](../transcriptions/yt-dxR2Hgw2L8M.md) https://www.youtube.com/watch?v=dxR2Hgw2L8M
 * [Jace & Snutt Talk: Map Modding](../transcriptions/yt-4nzTdrIc2hg.md) https://www.youtube.com/watch?v=4nzTdrIc2hg
 * [Q&A: Time to invest in Map Modding?](../transcriptions/yt-a5PSHoSuXec.md) https://www.youtube.com/watch?v=a5PSHoSuXec
+* [Q&A: Why not try ban all Mods / Do you want people to use Mods ?](../transcriptions/yt-dxR2Hgw2L8M.md) https://www.youtube.com/watch?v=dxR2Hgw2L8M
+* [Q&A: You like to watch the modding community suffer, don't you.](../transcriptions/yt-ecGKcdGYi4o.md) https://www.youtube.com/watch?v=ecGKcdGYi4o
 
 ## September 1st, 2020 Livestream
 * [Q&A: What is your opinion on the most downloaded mods?](../transcriptions/yt-iOniZ-OPIps.md) https://www.youtube.com/watch?v=iOniZ-OPIps
 
 ## August 25th, 2020 Livestream
-* [Q&A: Plans for mod support?](../transcriptions/yt-iOk7KMpNMEo.md) https://www.youtube.com/watch?v=iOk7KMpNMEo
 * [Q&A: I wanna see a Mod highlight part 2?](../transcriptions/yt-ZaVKeo3QXqg.md) https://www.youtube.com/watch?v=ZaVKeo3QXqg
+* [Q&A: Plans for mod support?](../transcriptions/yt-iOk7KMpNMEo.md) https://www.youtube.com/watch?v=iOk7KMpNMEo
 * Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc
 
 ## February 11th, 2020 Livestream

@@ -5,8 +5,8 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
 ## February 2nd, 2021 Livestream
-* [Q&A: Will you do YouTuber statues?](../../../transcriptions/yt-394eLDR3mFU.md) https://www.youtube.com/watch?v=394eLDR3mFU
 * [Q&A: Snutt & Jace poster in Satisfactory when?](../../../transcriptions/yt-X4heczNNOO8.md) https://www.youtube.com/watch?v=X4heczNNOO8
+* [Q&A: Will you do YouTuber statues?](../../../transcriptions/yt-394eLDR3mFU.md) https://www.youtube.com/watch?v=394eLDR3mFU
 
 ## January 26th, 2021 Livestream
 * [Q&A: Any chance for decorative stuff?](../../../transcriptions/yt-2JUtqNFl5_8.md) https://www.youtube.com/watch?v=2JUtqNFl5_8

@@ -38,5 +38,5 @@ https://www.youtube.com/watch?v=vSJ0V15Mlow
 > 
 > background
 > 
-> [ __ ] dog um
+>  dog um
 > 

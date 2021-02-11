@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## February 9th, 2021 Livestream
+* [Q&A: Any plans to improve the visual part of building in the game?](../../../transcriptions/yt-k-UDNJY0PWA.md) https://www.youtube.com/watch?v=k-UDNJY0PWA
+
 ## February 5th, 2021 Livestream
 * [UI Change - AWESOME Store](../../../transcriptions/yt-rI5kRMSwo5Q,75.54213333333334,189.92306666666667.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=75&end=190
 
@@ -26,6 +29,6 @@ date: Last Modified
 * [Q&A: What are the coupons for?](../../../transcriptions/yt-a5Ej8K5AHos.md) https://www.youtube.com/watch?v=a5Ej8K5AHos
 
 ## January 22nd, 2020 Livestream
+* [Snutt & Jace Talk: AWESOME Shop Teaser](../../../transcriptions/yt-0fiuHwwSrrI.md) https://www.youtube.com/watch?v=0fiuHwwSrrI
 * [Snutt & Jace Talk: AWESOME Shop Teaser (no microtransactions)](../../../transcriptions/yt-1UbLRZJ0-SE.md) https://www.youtube.com/watch?v=1UbLRZJ0-SE
 * [Snutt & Jace Talk: Tongue-twisters](../../../transcriptions/yt-GpglKeDQ9h8.md) https://www.youtube.com/watch?v=GpglKeDQ9h8
-* [Snutt & Jace Talk: AWESOME Shop Teaser](../../../transcriptions/yt-0fiuHwwSrrI.md) https://www.youtube.com/watch?v=0fiuHwwSrrI

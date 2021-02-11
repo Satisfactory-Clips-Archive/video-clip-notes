@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## February 9th, 2021 Livestream
+* [Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?](../../../transcriptions/yt-5Z5pyzNiaVY.md) https://www.youtube.com/watch?v=5Z5pyzNiaVY
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Will we get two character slots for Jetpacks and Blade Runners](../../../transcriptions/yt-YKIN_NCGDpo.md) https://www.youtube.com/watch?v=YKIN_NCGDpo
 
@@ -26,8 +29,8 @@ date: Last Modified
 * [Q&A: Can I wear Boots, Jetpack and a Gas Mask?](../../../transcriptions/yt-Gt1ATsmBu6k.md) https://www.youtube.com/watch?v=Gt1ATsmBu6k
 
 ## September 8th, 2020 Livestream
-* [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](../../../transcriptions/yt--sa8wjg4lYk.md) https://www.youtube.com/watch?v=-sa8wjg4lYk
 * [Q&A: Jetpack needs a Hover Mode?](../../../transcriptions/yt-zeXh53pKe0A.md) https://www.youtube.com/watch?v=zeXh53pKe0A
+* [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](../../../transcriptions/yt--sa8wjg4lYk.md) https://www.youtube.com/watch?v=-sa8wjg4lYk
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0

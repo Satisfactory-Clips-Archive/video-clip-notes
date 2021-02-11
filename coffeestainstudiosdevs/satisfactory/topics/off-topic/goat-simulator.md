@@ -5,15 +5,15 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
 ## January 26th, 2021 Livestream
-* [Q&A: Is the game only good because you made Goat Simulator?](../../transcriptions/yt-RkTbSfY1pKc.md) https://www.youtube.com/watch?v=RkTbSfY1pKc
 * [Q&A: I never connected the dots between Goat Simulator and Satisfactory?](../../transcriptions/yt-HtKqSryNU88.md) https://www.youtube.com/watch?v=HtKqSryNU88
+* [Q&A: Is the game only good because you made Goat Simulator?](../../transcriptions/yt-RkTbSfY1pKc.md) https://www.youtube.com/watch?v=RkTbSfY1pKc
 
 ## November 17th, 2020 Livestream
 * [Trolling: Goat Simulator DLC](../../transcriptions/yt-yXp4YAvRZHg.md) https://www.youtube.com/watch?v=yXp4YAvRZHg
 
 ## August 25th, 2020 Livestream
-* [Q&A: Will you be able to play Doom on the Hub screens?](../../transcriptions/yt-lVjzwGuhM5I.md) https://www.youtube.com/watch?v=lVjzwGuhM5I
 * [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../transcriptions/yt--AjFbGOOAQI.md) https://www.youtube.com/watch?v=-AjFbGOOAQI
+* [Q&A: Will you be able to play Doom on the Hub screens?](../../transcriptions/yt-lVjzwGuhM5I.md) https://www.youtube.com/watch?v=lVjzwGuhM5I
 
 ## August 18th, 2020 Livestream
 * Q&A: Are vehicles going to get less sketchy or are we always getting Goat Simulator physics? https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage

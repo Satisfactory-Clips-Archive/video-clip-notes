@@ -12,8 +12,8 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Better Autosave system?](../../../transcriptions/yt-EGl4PxUS0J8.md) https://www.youtube.com/watch?v=EGl4PxUS0J8
-* [Snutt Talk: If you think Autosave is annoying](../../../transcriptions/yt-21diy9LWH8g.md) https://www.youtube.com/watch?v=21diy9LWH8g
 * [Q&A: Is it possible to have the Autosave not noticeable at all ?](../../../transcriptions/yt-ap-EONXus_4.md) https://www.youtube.com/watch?v=ap-EONXus_4
+* [Snutt Talk: If you think Autosave is annoying](../../../transcriptions/yt-21diy9LWH8g.md) https://www.youtube.com/watch?v=21diy9LWH8g
 
 ## May 19th, 2020 Livestream
 * [Q&A: Save stutter?](../../../transcriptions/yt-n523WIVo5LM.md) https://www.youtube.com/watch?v=n523WIVo5LM

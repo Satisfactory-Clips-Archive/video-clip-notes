@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
+## February 9th, 2021 Livestream
+* [Q&A: Is there going to be tower defense?](../../../transcriptions/yt-9dWWC0mFitU.md) https://www.youtube.com/watch?v=9dWWC0mFitU
+
 ## January 22nd, 2021 Instagram AMA
 * Q&A: Is there a plan for automatize the base defense? https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4
 
@@ -45,8 +48,8 @@ date: Last Modified
 * [Community Highlights - Chainsaw on legs](../../../transcriptions/yt-tX8VDBudtuI.md) https://www.youtube.com/watch?v=tX8VDBudtuI
 
 ## March 9th, 2019 Livestream
-* [Q&A: Will there be turrets or something in the game?](../../../transcriptions/yt-xNBFywqCrxM.md) https://www.youtube.com/watch?v=xNBFywqCrxM
 * [Q&A: Can creatures in any way disrupt your factory?](../../../transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
+* [Q&A: Will there be turrets or something in the game?](../../../transcriptions/yt-xNBFywqCrxM.md) https://www.youtube.com/watch?v=xNBFywqCrxM
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Will we need to defend our factory?](../../../transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215

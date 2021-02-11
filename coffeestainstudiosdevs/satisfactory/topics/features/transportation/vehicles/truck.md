@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## February 9th, 2021 Livestream
+* [Q&A: Are Truck Stations & Freight Platforms a part of the UI Update?](../../../../transcriptions/yt-ANyv9_88k0A.md) https://www.youtube.com/watch?v=ANyv9_88k0A
+
 ## October 9th, 2020 Livestream
 * [Community FYI: Game struggles with 10 Tractors, 14 Trucks, 1 Explorer, and 83 Factory Carts](../../../../transcriptions/yt-T_Vldyf9rBI.md) https://www.youtube.com/watch?v=T_Vldyf9rBI
 
@@ -17,9 +20,9 @@ date: Last Modified
 * [Q&A: Any improvement for the Trucks so they can transport Fluids?](../../../../transcriptions/yt-lNpwyJr7lZc.md) https://www.youtube.com/watch?v=lNpwyJr7lZc
 
 ## August 25th, 2020 Livestream
-* [Q&A: Tanker Trucks?](../../../../transcriptions/yt-IPmVdCgi2_A.md) https://www.youtube.com/watch?v=IPmVdCgi2_A
-* [Q&A: Smart Truck Stations?](../../../../transcriptions/yt-xYwIsp94W7c.md) https://www.youtube.com/watch?v=xYwIsp94W7c
 * [Q&A: If you add Trucks then add Boats?](../../../../transcriptions/yt-A10cQzT6TpU.md) https://www.youtube.com/watch?v=A10cQzT6TpU
+* [Q&A: Smart Truck Stations?](../../../../transcriptions/yt-xYwIsp94W7c.md) https://www.youtube.com/watch?v=xYwIsp94W7c
+* [Q&A: Tanker Trucks?](../../../../transcriptions/yt-IPmVdCgi2_A.md) https://www.youtube.com/watch?v=IPmVdCgi2_A
 * [Q&A: Trailer for the Trucks?](../../../../transcriptions/yt-WjVP7rOR38M.md) https://www.youtube.com/watch?v=WjVP7rOR38M
 
 ## March 9th, 2019 Livestream

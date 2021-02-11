@@ -4,9 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+## February 9th, 2021 Livestream
+* [Q&A: Do you plan to release on Console one day?](../../../transcriptions/yt-mS_O_qnXJp0.md) https://www.youtube.com/watch?v=mS_O_qnXJp0
+
 ## February 2nd, 2021 Livestream
-* [Q&A: Will Satisfactory be coming to Console?](../../../transcriptions/yt-ZljpvyZWlIA.md) https://www.youtube.com/watch?v=ZljpvyZWlIA
 * [Q&A: KFConsole exclusive?](../../../transcriptions/yt-nK8NUTMQVTM.md) https://www.youtube.com/watch?v=nK8NUTMQVTM
+* [Q&A: Will Satisfactory be coming to Console?](../../../transcriptions/yt-ZljpvyZWlIA.md) https://www.youtube.com/watch?v=ZljpvyZWlIA
 * [Q&A: Will the game ever be on Console?](../../../transcriptions/yt-G_pmJbKEhX4.md) https://www.youtube.com/watch?v=G_pmJbKEhX4
 
 ## January 26th, 2021 Livestream
@@ -19,13 +22,13 @@ date: Last Modified
 * [Q&A: Can we get a Console Release for the KFConsole?](../../../transcriptions/yt-P7R2hxi19pM.md) https://www.youtube.com/watch?v=P7R2hxi19pM
 
 ## November 24th, 2020 Livestream
-* [Q&A: When is Satisfactory coming to Switch?](../../../transcriptions/yt-tBDXG3OHt1c.md) https://www.youtube.com/watch?v=tBDXG3OHt1c
 * [Q&A: Is Console confirmed for Satisfactory?](../../../transcriptions/yt-KEJYlYO511Q.md) https://www.youtube.com/watch?v=KEJYlYO511Q
 * [Q&A: When is Satisfactory coming to N-Gage?](../../../transcriptions/yt-qL6dp9eUB58.md) https://www.youtube.com/watch?v=qL6dp9eUB58
+* [Q&A: When is Satisfactory coming to Switch?](../../../transcriptions/yt-tBDXG3OHt1c.md) https://www.youtube.com/watch?v=tBDXG3OHt1c
 
 ## November 17th, 2020 Livestream
-* [Trolling: Console Support](../../../transcriptions/yt-OMFvjE8llfs.md) https://www.youtube.com/watch?v=OMFvjE8llfs
 * [Q&A: Is Console support coming?](../../../transcriptions/yt-tqB7YuLM2Fs.md) https://www.youtube.com/watch?v=tqB7YuLM2Fs
+* [Trolling: Console Support](../../../transcriptions/yt-OMFvjE8llfs.md) https://www.youtube.com/watch?v=OMFvjE8llfs
 
 ## September 8th, 2020 Livestream
 * [Q&A: Will this game come out on Console at some point?](../../../transcriptions/yt-pfD6p4g3fQ8.md) https://www.youtube.com/watch?v=pfD6p4g3fQ8

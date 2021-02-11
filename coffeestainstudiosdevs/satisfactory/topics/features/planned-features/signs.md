@@ -17,8 +17,8 @@ date: Last Modified
 * [Q&A: Can we get Signs in the game?](../../../transcriptions/yt-P1hgqMJ8MW0.md) https://www.youtube.com/watch?v=P1hgqMJ8MW0
 
 ## August 25th, 2020 Livestream
-* [Q&A: Why do big updates at all - why not just release everything in small bites?](../../../transcriptions/yt-qEiYxLhX3CM.md) https://www.youtube.com/watch?v=qEiYxLhX3CM
 * [Q&A: Signs for Hypertube Entrances?](../../../transcriptions/yt-y3w-vPtVjog.md) https://www.youtube.com/watch?v=y3w-vPtVjog
+* [Q&A: Why do big updates at all - why not just release everything in small bites?](../../../transcriptions/yt-qEiYxLhX3CM.md) https://www.youtube.com/watch?v=qEiYxLhX3CM
 
 ## July 28th, 2020 Livestream
 * Q&A: Signs & Planets https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo

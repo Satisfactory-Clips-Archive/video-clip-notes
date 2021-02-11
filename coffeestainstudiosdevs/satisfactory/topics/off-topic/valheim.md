@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## February 9th, 2021 Livestream
+* [Q&A: Ask your friends in Valheim, they did it ?](../../transcriptions/yt-qjgnvEq36gA.md) https://www.youtube.com/watch?v=qjgnvEq36gA
+* [Q&A: Do you have any involvement in the development of Valheim?](../../transcriptions/yt-TP73cnwmX4g.md) https://www.youtube.com/watch?v=TP73cnwmX4g
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Will you give Josh a key for Valheim?](../../transcriptions/yt-LWYYLfTDnvI.md) https://www.youtube.com/watch?v=LWYYLfTDnvI
 

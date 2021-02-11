@@ -94,6 +94,8 @@ https://www.youtube.com/watch?v=lqRP7DsUVes
 > 
 > and we have openings for game designers
 > 
+> [Music]
+> 
 > and part of that is because we need more
 > 
 > people we don't have enough

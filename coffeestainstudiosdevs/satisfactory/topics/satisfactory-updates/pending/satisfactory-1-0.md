@@ -4,19 +4,22 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## February 9th, 2021 Livestream
+* [Q&A: Are there going to be other planets in the game?](../../../transcriptions/yt-Xg0nkRNXaIk.md) https://www.youtube.com/watch?v=Xg0nkRNXaIk
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Out of Early Access?](../../../transcriptions/yt-y51YDVf8VOI.md) https://www.youtube.com/watch?v=y51YDVf8VOI
 
 ## January 26th, 2021 Livestream
-* Q&A: How many Updates do you have planned before 1.0? https://www.youtube.com/watch?v=7t2DLBi7kl8
 * [Q&A: Does the dev team have any ideas for post-launch content?](../../../transcriptions/yt-gppSU17i2as.md) https://www.youtube.com/watch?v=gppSU17i2as
+* Q&A: How many Updates do you have planned before 1.0? https://www.youtube.com/watch?v=7t2DLBi7kl8
 * [Q&A: When will the game be released from Early Access?](../../../transcriptions/yt-Z0yYtiR__Nk.md) https://www.youtube.com/watch?v=Z0yYtiR__Nk
 
 ## January 12th, 2021 Livestream
+* [Q&A: Do we have an idea of the full release?](../../../transcriptions/yt-WoWR5Xsuav8.md) https://www.youtube.com/watch?v=WoWR5Xsuav8
+* [Q&A: Mercer Spheres and Somersloops?](../../../transcriptions/yt-99pdUN5glzw.md) https://www.youtube.com/watch?v=99pdUN5glzw
 * [Q&A: The game is not done until I can flush the toilet?](../../../transcriptions/yt-64xmTN-rhbs.md) https://www.youtube.com/watch?v=64xmTN-rhbs
 * [Q&A: What's happening with S.A.M. Ore?](../../../transcriptions/yt-f0Z9VIAK5Iw.md) https://www.youtube.com/watch?v=f0Z9VIAK5Iw
-* [Q&A: Mercer Spheres and Somersloops?](../../../transcriptions/yt-99pdUN5glzw.md) https://www.youtube.com/watch?v=99pdUN5glzw
-* [Q&A: Do we have an idea of the full release?](../../../transcriptions/yt-WoWR5Xsuav8.md) https://www.youtube.com/watch?v=WoWR5Xsuav8
 
 ## December 15th, 2020 Livestream
 * [Q&A: What is priority currently?](../../../transcriptions/yt-GOg5NVFpjSU.md) https://www.youtube.com/watch?v=GOg5NVFpjSU
@@ -28,17 +31,17 @@ date: Last Modified
 * [Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](../../../transcriptions/yt-ccmgnLh1oO0.md) https://www.youtube.com/watch?v=ccmgnLh1oO0
 
 ## November 10th, 2020 Livestream
-* [Q&A: Thoughts on making end-game point or goal?](../../../transcriptions/yt-hhckg5vm5_w.md) https://www.youtube.com/watch?v=hhckg5vm5_w
 * [Q&A: Finish like a Credits scene in-game and game end?](../../../transcriptions/yt-HMrZKuuXUEs.md) https://www.youtube.com/watch?v=HMrZKuuXUEs
+* [Q&A: Thoughts on making end-game point or goal?](../../../transcriptions/yt-hhckg5vm5_w.md) https://www.youtube.com/watch?v=hhckg5vm5_w
 
 ## November 3rd, 2020 Livestream
-* [Q&A: How many Updates until 1.0?](../../../transcriptions/yt-qtf26oE7kQs.md) https://www.youtube.com/watch?v=qtf26oE7kQs
 * [Q&A: Are we waiting for any% speedruns after 1.0?](../../../transcriptions/yt-hJbxu1oZ0JM.md) https://www.youtube.com/watch?v=hJbxu1oZ0JM
+* [Q&A: How many Updates until 1.0?](../../../transcriptions/yt-qtf26oE7kQs.md) https://www.youtube.com/watch?v=qtf26oE7kQs
 
 ## October 20th, 2020 Livestream
-* [Q&A: When will we have Train Collision?](../../../transcriptions/yt-TjSMwjueGc8.md) https://www.youtube.com/watch?v=TjSMwjueGc8
 * [Q&A: How many hours should Satisfactory take usually (new player once we go 1.0) ?](../../../transcriptions/yt-06WRQ40kRCs.md) https://www.youtube.com/watch?v=06WRQ40kRCs
 * [Q&A: In the future will there be better movement?](../../../transcriptions/yt-wS0rkaDIPEw.md) https://www.youtube.com/watch?v=wS0rkaDIPEw
+* [Q&A: When will we have Train Collision?](../../../transcriptions/yt-TjSMwjueGc8.md) https://www.youtube.com/watch?v=TjSMwjueGc8
 
 ## October 13th, 2020 Livestream
 * [Q&A: Will Jeff Goldblum narrate 1.0?](../../../transcriptions/yt-ojWHhAieF2w.md) https://www.youtube.com/watch?v=ojWHhAieF2w
@@ -50,10 +53,10 @@ date: Last Modified
 * [Q&A: When are these Work In Progress (WIP) items going to be used?](../../../transcriptions/yt-bmRdzV3-wJI.md) https://www.youtube.com/watch?v=bmRdzV3-wJI
 
 ## September 29th, 2020 Livestream
-* [Snutt Talk: WIP (Work In Progress) Items](../../../transcriptions/yt-ItHlbfIkVl4.md) https://www.youtube.com/watch?v=ItHlbfIkVl4
-* [Q&A: How much S.A.M. Ore should we stock up on?](../../../transcriptions/yt-vBGfC7j2AyI.md) https://www.youtube.com/watch?v=vBGfC7j2AyI
 * [Q&A: Does the Story come in 2021?](../../../transcriptions/yt-WAnckbn-EJ8.md) https://www.youtube.com/watch?v=WAnckbn-EJ8
+* [Q&A: How much S.A.M. Ore should we stock up on?](../../../transcriptions/yt-vBGfC7j2AyI.md) https://www.youtube.com/watch?v=vBGfC7j2AyI
 * [Q&A: Will the Map change for 1.0?](../../../transcriptions/yt-5AsSss96Idw.md) https://www.youtube.com/watch?v=5AsSss96Idw
+* [Snutt Talk: WIP (Work In Progress) Items](../../../transcriptions/yt-ItHlbfIkVl4.md) https://www.youtube.com/watch?v=ItHlbfIkVl4
 
 ## September 22nd, 2020 Livestream
 * [Q&A: Will the Story play out when implemented or will we have to start a new game?](../../../transcriptions/yt-PPu_s5Gg8gs.md) https://www.youtube.com/watch?v=PPu_s5Gg8gs
@@ -64,11 +67,11 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Do you have a set of ideas?](../../../transcriptions/yt-eSN0HQlSJBs.md) https://www.youtube.com/watch?v=eSN0HQlSJBs
-* [Q&A: Why do big updates at all - why not just release everything in small bites?](../../../transcriptions/yt-qEiYxLhX3CM.md) https://www.youtube.com/watch?v=qEiYxLhX3CM
 * [Q&A: Do you want to release updates before you release full game?](../../../transcriptions/yt-xdj5fWV5VK8.md) https://www.youtube.com/watch?v=xdj5fWV5VK8
 * [Q&A: Train Signals?](../../../transcriptions/yt-WQH5cWS3s2s.md) https://www.youtube.com/watch?v=WQH5cWS3s2s
-* [Snutt Talk: Satisfactory 1.0, and beyond](../../../transcriptions/yt-gAO072mzibQ.md) https://www.youtube.com/watch?v=gAO072mzibQ
+* [Q&A: Why do big updates at all - why not just release everything in small bites?](../../../transcriptions/yt-qEiYxLhX3CM.md) https://www.youtube.com/watch?v=qEiYxLhX3CM
 * [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../../transcriptions/yt--AjFbGOOAQI.md) https://www.youtube.com/watch?v=-AjFbGOOAQI
+* [Snutt Talk: Satisfactory 1.0, and beyond](../../../transcriptions/yt-gAO072mzibQ.md) https://www.youtube.com/watch?v=gAO072mzibQ
 
 ## August 18th, 2020 Livestream
 * Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit
@@ -89,8 +92,8 @@ date: Last Modified
 * [Q&A: Will price go up after Early Access ends?](../../../transcriptions/yt-TFg_ppmX8OE.md) https://www.youtube.com/watch?v=TFg_ppmX8OE
 
 ## March 9th, 2019 Livestream
-* [Q&A: When is the official release?](../../../transcriptions/yt-H0HcDZTv_ts.md) https://www.youtube.com/watch?v=H0HcDZTv_ts
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../../../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
+* [Q&A: When is the official release?](../../../transcriptions/yt-H0HcDZTv_ts.md) https://www.youtube.com/watch?v=H0HcDZTv_ts
 
 ## August 1st, 2018 Livestream
 * [Q&A: How much will the game cost when it's released?](../../../transcriptions/yt-iFAy1NZUOGU,99.44,119.72.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120

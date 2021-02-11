@@ -60,6 +60,8 @@ https://www.youtube.com/watch?v=oJzUWOdpQ5o
 > 
 > because you really need that in first
 > 
+> [Laughter]
+> 
 > person
 > 
 > or something right yeah yeah i mean you
@@ -81,6 +83,8 @@ https://www.youtube.com/watch?v=oJzUWOdpQ5o
 > you and be like damn i want that hat
 > 
 > that look that's a juicy hat
+> 
+> [Music]
 > 
 > but i think uh i mean the coffee cup is
 > 

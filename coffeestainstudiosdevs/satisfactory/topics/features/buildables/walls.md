@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Buildables > Walls
 
+## February 9th, 2021 Livestream
+* [Q&A: Any plans to improve the visual part of building in the game?](../../../transcriptions/yt-k-UDNJY0PWA.md) https://www.youtube.com/watch?v=k-UDNJY0PWA
+* [Q&A: Walls/barriers that follow the incline of Foundation?](../../../transcriptions/yt-UK0P7CWe1V4.md) https://www.youtube.com/watch?v=UK0P7CWe1V4
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Will we be getting more Walls and other building stuff in vanilla?](../../../transcriptions/yt-Y9m96T9a5qU.md) https://www.youtube.com/watch?v=Y9m96T9a5qU
 
@@ -17,8 +21,8 @@ date: Last Modified
 * [Q&A: Walls & Handrails, be able to place like Pipes?](../../../transcriptions/yt-LFH3YB0pV24.md) https://www.youtube.com/watch?v=LFH3YB0pV24
 
 ## November 24th, 2020 Livestream
-* [Q&A: When are diagonal Walls coming?](../../../transcriptions/yt-0-3ITfkBKZw.md) https://www.youtube.com/watch?v=0-3ITfkBKZw
 * [Jace Talk: More buildables](../../../transcriptions/yt-oJ42bPfK4lo.md) https://www.youtube.com/watch?v=oJ42bPfK4lo
+* [Q&A: When are diagonal Walls coming?](../../../transcriptions/yt-0-3ITfkBKZw.md) https://www.youtube.com/watch?v=0-3ITfkBKZw
 
 ## November 17th, 2020 Livestream
 * [Q&A: Can we get an update on Walls?](../../../transcriptions/yt-ZpYMIZFGegw.md) https://www.youtube.com/watch?v=ZpYMIZFGegw

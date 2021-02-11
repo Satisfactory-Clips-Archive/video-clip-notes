@@ -3,7 +3,11 @@ title: "Embracer Group"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Embracer Group
+* [Gearbox Software](../topics/embracer-group/gearbox-software.md)
 * [THQ Nordic](../topics/embracer-group/thq-nordic.md)
+
+## February 9th, 2021 Livestream
+* [Snutt & Jace Talk: Embracer Group acquiring Gearbox Software](../transcriptions/yt-_W2IUbLc1Zw.md) https://www.youtube.com/watch?v=_W2IUbLc1Zw
 
 ## January 12th, 2021 Livestream
 * [State of Dev: Coffee Stain new office (Part 1)](../transcriptions/yt-htoUHZbvu1A.md) https://www.youtube.com/watch?v=htoUHZbvu1A

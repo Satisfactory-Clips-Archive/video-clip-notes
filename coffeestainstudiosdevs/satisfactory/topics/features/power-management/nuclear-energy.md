@@ -6,9 +6,13 @@ date: Last Modified
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
 ## January 19th, 2021 Livestream
-* [Q&A: Can we still skip the Nuclear part for Energy Production?](../../../transcriptions/yt-Are7eJK9iKk.md) https://www.youtube.com/watch?v=Are7eJK9iKk
 * [Q&A: Are we going to be able to build more or less Nuclear Power in Update 4 than currently?](../../../transcriptions/yt-RrAwAvxM5T4.md) https://www.youtube.com/watch?v=RrAwAvxM5T4
+* [Q&A: Can we still skip the Nuclear part for Energy Production?](../../../transcriptions/yt-Are7eJK9iKk.md) https://www.youtube.com/watch?v=Are7eJK9iKk
 * [Q&A: Do we have to worry about Nuclear Power Plants too in Update 4?](../../../transcriptions/yt-Y8Ib5zlOzKI.md) https://www.youtube.com/watch?v=Y8Ib5zlOzKI
+
+## December 11th, 2020 Livestream
+* [Plutonium Waste](../../../transcriptions/yt-njXBs_p2l1w,333.23290000000003,443.557086.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444
+
 
 ## November 10th, 2020 Livestream
 * [Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?](../../../transcriptions/yt-2SqpfMeDmcw.md) https://www.youtube.com/watch?v=2SqpfMeDmcw

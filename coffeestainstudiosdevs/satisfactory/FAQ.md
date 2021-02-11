@@ -82,41 +82,41 @@ date: Last Modified
 ## [World Map](./topics/environment/world-map.md)
 
 ### [January 26th, 2021 Livestream](./2021-01-26.md)
+* [Jace Talk: There are no plans for increasing the size of the Map](./transcriptions/yt-aCvn84FtDMI.md) https://www.youtube.com/watch?v=aCvn84FtDMI
 * [Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?](./transcriptions/yt-gqIBbkGCxdI.md) https://www.youtube.com/watch?v=gqIBbkGCxdI
 * [Q&A: Is there another area rework like the desert update happening?](./transcriptions/yt-sV-kvBvlTXc.md) https://www.youtube.com/watch?v=sV-kvBvlTXc
-* [Jace Talk: There are no plans for increasing the size of the Map](./transcriptions/yt-aCvn84FtDMI.md) https://www.youtube.com/watch?v=aCvn84FtDMI
 
 ### [January 19th, 2021 Livestream](./2021-01-19.md)
-* [Q&A: What about an opional grid to put all Foundations all aligned around the Map?](./transcriptions/yt-Xi9S_sVklB8.md) https://www.youtube.com/watch?v=Xi9S_sVklB8
-* [Q&A: Is the Map finalised, as in there will be no more additions?](./transcriptions/yt-zVnmYZemxe8.md) https://www.youtube.com/watch?v=zVnmYZemxe8
 * [Q&A: Are you still planning Underground Biomes?](./transcriptions/yt-zho1Gn_x76w.md) https://www.youtube.com/watch?v=zho1Gn_x76w
+* [Q&A: Is the Map finalised, as in there will be no more additions?](./transcriptions/yt-zVnmYZemxe8.md) https://www.youtube.com/watch?v=zVnmYZemxe8
+* [Q&A: What about an opional grid to put all Foundations all aligned around the Map?](./transcriptions/yt-Xi9S_sVklB8.md) https://www.youtube.com/watch?v=Xi9S_sVklB8
 
 ### [December 15th, 2020 Livestream](./2020-12-15.md)
-* [Q&A: Will there be a Snow Biome?](./transcriptions/yt-iyhdKRg1b0A.md) https://www.youtube.com/watch?v=iyhdKRg1b0A
 * [Q&A: Are there hidden secrets and cameos in the game?](./transcriptions/yt-57Cc22ZK5aw.md) https://www.youtube.com/watch?v=57Cc22ZK5aw
 * [Q&A: Can we get turrets and more PvE?](./transcriptions/yt-sJnuRV0OGF0.md) https://www.youtube.com/watch?v=sJnuRV0OGF0
 * [Q&A: When are you going to expand the map?](./transcriptions/yt-axmmm-ituSg.md) https://www.youtube.com/watch?v=axmmm-ituSg
+* [Q&A: Will there be a Snow Biome?](./transcriptions/yt-iyhdKRg1b0A.md) https://www.youtube.com/watch?v=iyhdKRg1b0A
 
 ### [November 24th, 2020 Livestream](./2020-11-24.md)
 * [Q&A: Any plans for underwater mechanics?](./transcriptions/yt-nQplpfNLru8.md) https://www.youtube.com/watch?v=nQplpfNLru8
-* [Q&A: Procedural generation of the World?](./transcriptions/yt-q6tkuGjM4zY.md) https://www.youtube.com/watch?v=q6tkuGjM4zY
 * [Q&A: Is terraforming possible any time in the future?](./transcriptions/yt-_fE2dbyaJZg.md) https://www.youtube.com/watch?v=_fE2dbyaJZg
+* [Q&A: Procedural generation of the World?](./transcriptions/yt-q6tkuGjM4zY.md) https://www.youtube.com/watch?v=q6tkuGjM4zY
 
 ### [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Trolling: Procedural Generation](./transcriptions/yt-bvjKY6CcnLI.md) https://www.youtube.com/watch?v=bvjKY6CcnLI
-* [Q&A: Is Snow/Ice coming?](./transcriptions/yt-s8HISCrP7w8.md) https://www.youtube.com/watch?v=s8HISCrP7w8
-* [Q&A: Will Trees respawning being worked on?](./transcriptions/yt-59eW6SBaiNk.md) https://www.youtube.com/watch?v=59eW6SBaiNk
 * [Q&A: Are there any plans to add an option to disable the day/night cycle?](./transcriptions/yt-15jG0o32Dqk.md) https://www.youtube.com/watch?v=15jG0o32Dqk
+* [Q&A: Is Snow/Ice coming?](./transcriptions/yt-s8HISCrP7w8.md) https://www.youtube.com/watch?v=s8HISCrP7w8
 * [Q&A: Who is Hannah?](./transcriptions/yt-KwsiVfRUKNE.md) https://www.youtube.com/watch?v=KwsiVfRUKNE
+* [Q&A: Will Trees respawning being worked on?](./transcriptions/yt-59eW6SBaiNk.md) https://www.youtube.com/watch?v=59eW6SBaiNk
+* [Trolling: Procedural Generation](./transcriptions/yt-bvjKY6CcnLI.md) https://www.youtube.com/watch?v=bvjKY6CcnLI
 
 ### [November 10th, 2020 Livestream](./2020-11-10.md)
 * Q&A: Any plans to expand the Map / add new Biomes? https://www.youtube.com/watch?v=oZhfgq9vdKg
 
 ### [November 3rd, 2020 Livestream](./2020-11-03.md)
-* [Q&A: Will the Map become bigger?](./transcriptions/yt-1pzu9fbySq0.md) https://www.youtube.com/watch?v=1pzu9fbySq0
-* [Q&A: Map is amazing, but infinite generation?](./transcriptions/yt-2yoGAha7ju0.md) https://www.youtube.com/watch?v=2yoGAha7ju0
 * [Q&A: Is it going to be possible to create randomly generated Resources on the Map?](./transcriptions/yt-xeAXhjMWZpI.md) https://www.youtube.com/watch?v=xeAXhjMWZpI
+* [Q&A: Map is amazing, but infinite generation?](./transcriptions/yt-2yoGAha7ju0.md) https://www.youtube.com/watch?v=2yoGAha7ju0
 * [Q&A: Shouldn't Vehicles despawn after they fall off the World?](./transcriptions/yt-3n1NZE7lkOk.md) https://www.youtube.com/watch?v=3n1NZE7lkOk
+* [Q&A: Will the Map become bigger?](./transcriptions/yt-1pzu9fbySq0.md) https://www.youtube.com/watch?v=1pzu9fbySq0
 
 ### [October 27th, 2020 Livestream](./2020-10-27.md)
 * [Q&A: What about a new Map?](./transcriptions/yt-O9cRWaKhSRo.md) https://www.youtube.com/watch?v=O9cRWaKhSRo
@@ -126,25 +126,25 @@ date: Last Modified
 * [Q&A: Snowy Biome confirmed?](./transcriptions/yt-Yend7bHTMvw.md) https://www.youtube.com/watch?v=Yend7bHTMvw
 
 ### [September 15th, 2020 Livestream](./2020-09-15.md)
-* [Q&A: Will there be a Map Editor?](./transcriptions/yt-MYno60AbSGk.md) https://www.youtube.com/watch?v=MYno60AbSGk
-* [Q&A: Will the Map be bigger?](./transcriptions/yt-b49tcUeMO3E.md) https://www.youtube.com/watch?v=b49tcUeMO3E
 * [Q&A: Any plans for randomly generated worlds / Procedurally Generated maps?](./transcriptions/yt-eo_84m3ZYfQ.md) https://www.youtube.com/watch?v=eo_84m3ZYfQ
+* [Q&A: Will the Map be bigger?](./transcriptions/yt-b49tcUeMO3E.md) https://www.youtube.com/watch?v=b49tcUeMO3E
+* [Q&A: Will there be a Map Editor?](./transcriptions/yt-MYno60AbSGk.md) https://www.youtube.com/watch?v=MYno60AbSGk
 
 ### [September 8th, 2020 Livestream](./2020-09-08.md)
-* [Q&A: Any plans for new Maps?](./transcriptions/yt-zBv2UdKrYtI.md) https://www.youtube.com/watch?v=zBv2UdKrYtI
-* [Q&A: Extension on current Map?](./transcriptions/yt-Ad3tjOha0JI.md) https://www.youtube.com/watch?v=Ad3tjOha0JI
-* [Q&A: Even more Biomes coming to play?](./transcriptions/yt-VgDl00Ycn3U.md) https://www.youtube.com/watch?v=VgDl00Ycn3U
-* [Q&A: Any thoughts on Terraforming, specifically tunneling ?](./transcriptions/yt-LIi_14XOp60.md) https://www.youtube.com/watch?v=LIi_14XOp60
-* [Q&A: When can Poison Pillars be removed?](./transcriptions/yt-BRpEHi7W7u0.md) https://www.youtube.com/watch?v=BRpEHi7W7u0
-* [Q&A: Should I remove all nature to improve FPS?](./transcriptions/yt-t-FNpaJUBcE.md) https://www.youtube.com/watch?v=t-FNpaJUBcE
-* [Q&A: Pollution is a thing?](./transcriptions/yt-EI4HJKvO-OU.md) https://www.youtube.com/watch?v=EI4HJKvO-OU
-* [Q&A: Why not make a giant-ass World & Open Multiplayer?](./transcriptions/yt-ipZ1acgaODg.md) https://www.youtube.com/watch?v=ipZ1acgaODg
-* [Q&A: Time to invest in Map Modding?](./transcriptions/yt-a5PSHoSuXec.md) https://www.youtube.com/watch?v=a5PSHoSuXec
 * [Jace & Snutt Talk: Map Modding](./transcriptions/yt-4nzTdrIc2hg.md) https://www.youtube.com/watch?v=4nzTdrIc2hg
+* [Q&A: Any plans for new Maps?](./transcriptions/yt-zBv2UdKrYtI.md) https://www.youtube.com/watch?v=zBv2UdKrYtI
+* [Q&A: Any thoughts on Terraforming, specifically tunneling ?](./transcriptions/yt-LIi_14XOp60.md) https://www.youtube.com/watch?v=LIi_14XOp60
+* [Q&A: Even more Biomes coming to play?](./transcriptions/yt-VgDl00Ycn3U.md) https://www.youtube.com/watch?v=VgDl00Ycn3U
+* [Q&A: Extension on current Map?](./transcriptions/yt-Ad3tjOha0JI.md) https://www.youtube.com/watch?v=Ad3tjOha0JI
+* [Q&A: Pollution is a thing?](./transcriptions/yt-EI4HJKvO-OU.md) https://www.youtube.com/watch?v=EI4HJKvO-OU
+* [Q&A: Should I remove all nature to improve FPS?](./transcriptions/yt-t-FNpaJUBcE.md) https://www.youtube.com/watch?v=t-FNpaJUBcE
+* [Q&A: Time to invest in Map Modding?](./transcriptions/yt-a5PSHoSuXec.md) https://www.youtube.com/watch?v=a5PSHoSuXec
+* [Q&A: When can Poison Pillars be removed?](./transcriptions/yt-BRpEHi7W7u0.md) https://www.youtube.com/watch?v=BRpEHi7W7u0
+* [Q&A: Why not make a giant-ass World & Open Multiplayer?](./transcriptions/yt-ipZ1acgaODg.md) https://www.youtube.com/watch?v=ipZ1acgaODg
 
 ### [September 1st, 2020 Livestream](./2020-09-01.md)
-* [Q&A: Map expansion ?](./transcriptions/yt-2ZHnQ9U4f9I.md) https://www.youtube.com/watch?v=2ZHnQ9U4f9I
 * [Q&A: Let Hannah finish her work on the map before expanding?](./transcriptions/yt-wZOVw8KV1rQ.md) https://www.youtube.com/watch?v=wZOVw8KV1rQ
+* [Q&A: Map expansion ?](./transcriptions/yt-2ZHnQ9U4f9I.md) https://www.youtube.com/watch?v=2ZHnQ9U4f9I
 
 ### [August 25th, 2020 Livestream](./2020-08-25.md)
 * [Q&A: Can we expect significant performance increase with Update 4?](./transcriptions/yt-PVf-pBNYO_M.md) https://www.youtube.com/watch?v=PVf-pBNYO_M
@@ -176,16 +176,16 @@ date: Last Modified
 * [Q&A: Will we have other maps?](./transcriptions/yt-1-A4zqHdNKA.md) https://www.youtube.com/watch?v=1-A4zqHdNKA
 
 ### [December 19th, 2019 Livestream](./2019-12-19.md)
-* [Q&A: Underwater Worlds?](./transcriptions/yt-QXK9y3pnWGg.md) https://www.youtube.com/watch?v=QXK9y3pnWGg
 * [Q&A: Is there going to be a way to destroy the fart rock?](./transcriptions/yt-byPiSQZOAhw.md) https://www.youtube.com/watch?v=byPiSQZOAhw
+* [Q&A: Underwater Worlds?](./transcriptions/yt-QXK9y3pnWGg.md) https://www.youtube.com/watch?v=QXK9y3pnWGg
 
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
-* [Q&A: The map is pre-made, not procedurally generated?](./transcriptions/yt-229Wl8AMQx8.md) https://www.youtube.com/watch?v=229Wl8AMQx8
-* [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](./transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k
 * [Q&A: Another game mode with a procedurally generated world?](./transcriptions/yt-GZlK2fIlYVk.md) https://www.youtube.com/watch?v=GZlK2fIlYVk
-* [Q&A: Will the game expand into space or will it stay on the ground?](./transcriptions/yt-Ea0f72zZshQ.md) https://www.youtube.com/watch?v=Ea0f72zZshQ
 * [Q&A: Are you going to add the ability to raise/lower parts of the landscape?](./transcriptions/yt-AEd2Rt5VDfk.md) https://www.youtube.com/watch?v=AEd2Rt5VDfk
 * [Q&A: Are you guys planning to add any terraforming or digging?](./transcriptions/yt-DW0MT8G-wMI.md) https://www.youtube.com/watch?v=DW0MT8G-wMI
+* [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](./transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k
+* [Q&A: The map is pre-made, not procedurally generated?](./transcriptions/yt-229Wl8AMQx8.md) https://www.youtube.com/watch?v=229Wl8AMQx8
+* [Q&A: Will the game expand into space or will it stay on the ground?](./transcriptions/yt-Ea0f72zZshQ.md) https://www.youtube.com/watch?v=Ea0f72zZshQ
 
 ## [Biomes](./topics/environment/biomes.md)
 
@@ -194,10 +194,10 @@ date: Last Modified
 * [Q&A: Is there another area rework like the desert update happening?](./transcriptions/yt-sV-kvBvlTXc.md) https://www.youtube.com/watch?v=sV-kvBvlTXc
 
 ### [January 19th, 2021 Livestream](./2021-01-19.md)
+* [Q&A: Are you still planning Underground Biomes?](./transcriptions/yt-zho1Gn_x76w.md) https://www.youtube.com/watch?v=zho1Gn_x76w
+* [Q&A: Can we please get a Snow Biome?](./transcriptions/yt-QHVdhswD13w.md) https://www.youtube.com/watch?v=QHVdhswD13w
 * [Q&A: If the community made a Snow Biome, would you add that?](./transcriptions/yt-I8rWTBGdGio.md) https://www.youtube.com/watch?v=I8rWTBGdGio
 * [Q&A: Will clearing out all the Biomes increase your garbage limit?](./transcriptions/yt-XcfIWDujsxA.md) https://www.youtube.com/watch?v=XcfIWDujsxA
-* [Q&A: Can we please get a Snow Biome?](./transcriptions/yt-QHVdhswD13w.md) https://www.youtube.com/watch?v=QHVdhswD13w
-* [Q&A: Are you still planning Underground Biomes?](./transcriptions/yt-zho1Gn_x76w.md) https://www.youtube.com/watch?v=zho1Gn_x76w
 
 ### [December 15th, 2020 Livestream](./2020-12-15.md)
 * [Q&A: Will there be a Snow Biome?](./transcriptions/yt-iyhdKRg1b0A.md) https://www.youtube.com/watch?v=iyhdKRg1b0A
@@ -219,8 +219,8 @@ date: Last Modified
 #### [Snow](./topics/environment/biomes/unplanned-biomes/snow.md)
 
 ##### [January 19th, 2021 Livestream](./2021-01-19.md)
-* [Q&A: If the community made a Snow Biome, would you add that?](./transcriptions/yt-I8rWTBGdGio.md) https://www.youtube.com/watch?v=I8rWTBGdGio
 * [Q&A: Can we please get a Snow Biome?](./transcriptions/yt-QHVdhswD13w.md) https://www.youtube.com/watch?v=QHVdhswD13w
+* [Q&A: If the community made a Snow Biome, would you add that?](./transcriptions/yt-I8rWTBGdGio.md) https://www.youtube.com/watch?v=I8rWTBGdGio
 
 ##### [December 15th, 2020 Livestream](./2020-12-15.md)
 * [Q&A: Will there be a Snow Biome?](./transcriptions/yt-iyhdKRg1b0A.md) https://www.youtube.com/watch?v=iyhdKRg1b0A
@@ -266,9 +266,9 @@ date: Last Modified
 * [Q&A: Will there be goats?](./transcriptions/yt-3YZMayi1Qec.md) https://www.youtube.com/watch?v=3YZMayi1Qec
 
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
-* [Q&A: Where can I find those "cute cats"](./transcriptions/yt-ALTf24gjRHE.md) https://www.youtube.com/watch?v=ALTf24gjRHE
 * [Q&A: Can creatures in any way disrupt your factory?](./transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
 * [Q&A: Is it possible to kill a Spitter with the standard Zapper?](./transcriptions/yt-ZmVoWBHW9Jc.md) https://www.youtube.com/watch?v=ZmVoWBHW9Jc
+* [Q&A: Where can I find those "cute cats"](./transcriptions/yt-ALTf24gjRHE.md) https://www.youtube.com/watch?v=ALTf24gjRHE
 
 ### [Crab Boss](./topics/environment/creatures/crab-boss.md)
 
@@ -287,7 +287,15 @@ date: Last Modified
 #### [September 15th, 2020 Livestream](./2020-09-15.md)
 * [Q&A: Are we ever going to see a new enemy type?](./transcriptions/yt-Kxq543wzKcY.md) https://www.youtube.com/watch?v=Kxq543wzKcY
 
+### [Giant Flying Manta](./topics/environment/creatures/giant-flying-manta.md)
+
+#### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: Is flyable transport an option?](./transcriptions/yt-kd3UMt4pESk.md) https://www.youtube.com/watch?v=kd3UMt4pESk
+
 ### [Lizard Doggo](./topics/environment/creatures/lizard-doggo.md)
+
+#### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: Lizard Doggo plushie?](./transcriptions/yt-FlOFnqAw5go.md) https://www.youtube.com/watch?v=FlOFnqAw5go
 
 #### [January 19th, 2021 Livestream](./2021-01-19.md)
 * [Q&A: Can we remove Nuclear Waste from the Doggo loot list?](./transcriptions/yt-x2qXm_DXJEw.md) https://www.youtube.com/watch?v=x2qXm_DXJEw
@@ -303,10 +311,10 @@ date: Last Modified
 * [Q&A: Lizard Doggo plushies?](./transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
-* [Q&A: Where is Lizard Doggo?](./transcriptions/yt-bB6SOIoAYg4.md) https://www.youtube.com/watch?v=bB6SOIoAYg4
-* [Q&A: Lizard Doggo plushie when?](./transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
 * [Q&A: How do you win the heart of Lizard Doggo?](./transcriptions/yt-z5BnfkmTQfA.md) https://www.youtube.com/watch?v=z5BnfkmTQfA
 * [Q&A: How to pet Doggo?](./transcriptions/yt-izvalD5vPuc.md) https://www.youtube.com/watch?v=izvalD5vPuc
+* [Q&A: Lizard Doggo plushie when?](./transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
+* [Q&A: Where is Lizard Doggo?](./transcriptions/yt-bB6SOIoAYg4.md) https://www.youtube.com/watch?v=bB6SOIoAYg4
 
 ## [Resources](./topics/environment/resources.md)
 
@@ -320,8 +328,8 @@ date: Last Modified
 * [Q&A: Is it going to be possible to create randomly generated Resources on the Map?](./transcriptions/yt-xeAXhjMWZpI.md) https://www.youtube.com/watch?v=xeAXhjMWZpI
 
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
-* [Q&A: Collect Fart Gas for fuel?](./transcriptions/yt-O5R_YmTmXUI.md) https://www.youtube.com/watch?v=O5R_YmTmXUI
 * [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](./transcriptions/yt-v4zf3_-seAg.md) https://www.youtube.com/watch?v=v4zf3_-seAg
+* [Q&A: Collect Fart Gas for fuel?](./transcriptions/yt-O5R_YmTmXUI.md) https://www.youtube.com/watch?v=O5R_YmTmXUI
 
 ### [Mercer Sphere](./topics/environment/resources/mercer-sphere.md)
 
@@ -384,8 +392,8 @@ date: Last Modified
 * [Q&A: Are Gases going to work like Liquids?](./transcriptions/yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
 
 ### [January 19th, 2021 Livestream](./2021-01-19.md)
-* [Q&A: Why do we get a Gas warning when we're in a Hypertube?](./transcriptions/yt-b1pzjEAzXOU.md) https://www.youtube.com/watch?v=b1pzjEAzXOU
 * [Q&A: Sink that accepts Liquids or Gas?](./transcriptions/yt-SskXA-lxaCI.md) https://www.youtube.com/watch?v=SskXA-lxaCI
+* [Q&A: Why do we get a Gas warning when we're in a Hypertube?](./transcriptions/yt-b1pzjEAzXOU.md) https://www.youtube.com/watch?v=b1pzjEAzXOU
 
 ### [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Will Gas be in Update 4? https://clips.twitch.tv/SpinelessSneakySalsifyNerfRedBlaster
@@ -450,8 +458,8 @@ date: Last Modified
 ### [Conveyor Belts](./topics/features/buildables/conveyor-belts.md)
 
 #### [January 19th, 2021 Livestream](./2021-01-19.md)
-* [Q&A: Smart Mergers?](./transcriptions/yt-iwID_cZx20g.md) https://www.youtube.com/watch?v=iwID_cZx20g
 * [Q&A: Are you going to add more functionality to the Programmable Splitters?](./transcriptions/yt-PGyc_YN4DaM.md) https://www.youtube.com/watch?v=PGyc_YN4DaM
+* [Q&A: Smart Mergers?](./transcriptions/yt-iwID_cZx20g.md) https://www.youtube.com/watch?v=iwID_cZx20g
 * [Q&A: Why are Conveyor Belts not powered?](./transcriptions/yt-X2A_DOO7O4c.md) https://www.youtube.com/watch?v=X2A_DOO7O4c
 
 #### [November 24th, 2020 Livestream](./2020-11-24.md)
@@ -496,8 +504,8 @@ date: Last Modified
 * Q&A: What about holes for Foundations? (Part 2) https://clips.twitch.tv/SparklingGiftedDumplingsSquadGoals
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
-* [Q&A: Multiple Foundation creation?](./transcriptions/yt-zfdV2qIDHP4.md) https://www.youtube.com/watch?v=zfdV2qIDHP4
 * [Jace Talk: Use the QA Site](./transcriptions/yt-Bm_Yh-0jjtI.md) https://www.youtube.com/watch?v=Bm_Yh-0jjtI
+* [Q&A: Multiple Foundation creation?](./transcriptions/yt-zfdV2qIDHP4.md) https://www.youtube.com/watch?v=zfdV2qIDHP4
 
 ### [Storage Containers](./topics/features/buildables/storage-containers.md)
 
@@ -527,9 +535,9 @@ date: Last Modified
 * [Q&A: What is the Object Count Limit, and how can we tell in our own game?](./transcriptions/yt-gMq-fPCqGWQ.md) https://www.youtube.com/watch?v=gMq-fPCqGWQ
 
 ### [September 15th, 2020 Livestream](./2020-09-15.md)
-* [Q&A: Is the limit on items hardcoded into the game?](./transcriptions/yt-FWVdvSc-nrw.md) https://www.youtube.com/watch?v=FWVdvSc-nrw
 * [Q&A: Are there any plans for Blueprinting Buildings?](./transcriptions/yt--sQgPUaxR-Y.md) https://www.youtube.com/watch?v=-sQgPUaxR-Y
 * [Q&A: Can you add Floor Holes for Pipes?](./transcriptions/yt-VLvqacnnn5c.md) https://www.youtube.com/watch?v=VLvqacnnn5c
+* [Q&A: Is the limit on items hardcoded into the game?](./transcriptions/yt-FWVdvSc-nrw.md) https://www.youtube.com/watch?v=FWVdvSc-nrw
 
 ### [September 8th, 2020 Livestream](./2020-09-08.md)
 * [Q&A: Pollution is a thing?](./transcriptions/yt-EI4HJKvO-OU.md) https://www.youtube.com/watch?v=EI4HJKvO-OU
@@ -542,8 +550,8 @@ date: Last Modified
 * Q&A: Elevators? https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime
 
 ### [December 19th, 2019 Livestream](./2019-12-19.md)
-* [Q&A: Human Elevators?](./transcriptions/yt-HGwoBSLqtcw.md) https://www.youtube.com/watch?v=HGwoBSLqtcw
 * [Q&A: How about personal elevators?](./transcriptions/yt-f3TtRJWOI2Q.md) https://www.youtube.com/watch?v=f3TtRJWOI2Q
+* [Q&A: Human Elevators?](./transcriptions/yt-HGwoBSLqtcw.md) https://www.youtube.com/watch?v=HGwoBSLqtcw
 
 ### [AWESOME Sink](./topics/features/buildings/awesome-sink.md)
 
@@ -590,8 +598,8 @@ date: Last Modified
 * [Q&A: Will Dedicated Servers have Multiple Hubs?](./transcriptions/yt-GDuWS-cOFX8.md) https://www.youtube.com/watch?v=GDuWS-cOFX8
 
 #### [December 19th, 2019 Livestream](./2019-12-19.md)
-* [Q&A: When is Coffee going to be introduced to the game?](./transcriptions/yt-o3Nr13tH7dY.md) https://www.youtube.com/watch?v=o3Nr13tH7dY
 * [Q&A: Is there going to be a central computer plant where you can check the whole production?](./transcriptions/yt-Zlq2K0-z0_8.md) https://www.youtube.com/watch?v=Zlq2K0-z0_8
+* [Q&A: When is Coffee going to be introduced to the game?](./transcriptions/yt-o3Nr13tH7dY.md) https://www.youtube.com/watch?v=o3Nr13tH7dY
 * [Q&A: Will there be more competitive stuff?](./transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
 
 ## [Crafting](./topics/features/crafting.md)
@@ -623,14 +631,14 @@ date: Last Modified
 * [Q&A: Any plans to add a Levitate option with Jetpacks?](./transcriptions/yt-_9P859YpEbE.md) https://www.youtube.com/watch?v=_9P859YpEbE
 
 #### [September 8th, 2020 Livestream](./2020-09-08.md)
-* [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](./transcriptions/yt--sa8wjg4lYk.md) https://www.youtube.com/watch?v=-sa8wjg4lYk
 * [Q&A: Jetpack needs a Hover Mode?](./transcriptions/yt-zeXh53pKe0A.md) https://www.youtube.com/watch?v=zeXh53pKe0A
+* [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](./transcriptions/yt--sa8wjg4lYk.md) https://www.youtube.com/watch?v=-sa8wjg4lYk
 
 ### [Zip Lines](./topics/features/equipment/zip-lines.md)
 
 #### [February 2nd, 2021 Livestream](./2021-02-02.md)
-* [Q&A: Do Zip Lines need to be powered?](./transcriptions/yt-r_mQ7Xqk6Yo.md) https://www.youtube.com/watch?v=r_mQ7Xqk6Yo
 * [Q&A: Can you Zip Line up?](./transcriptions/yt-obQpGKr8mWg.md) https://www.youtube.com/watch?v=obQpGKr8mWg
+* [Q&A: Do Zip Lines need to be powered?](./transcriptions/yt-r_mQ7Xqk6Yo.md) https://www.youtube.com/watch?v=r_mQ7Xqk6Yo
 * [Q&A: With the Zip Line, can you Zip through Poles?](./transcriptions/yt-moN0-HQ2R3k.md) https://www.youtube.com/watch?v=moN0-HQ2R3k
 
 ## [Fluids](./topics/features/fluids.md)
@@ -680,25 +688,25 @@ date: Last Modified
 * [Q&A: Is Multiplayer desync fixed in Update 4?](./transcriptions/yt-OjiLxOBdkU8.md) https://www.youtube.com/watch?v=OjiLxOBdkU8
 
 ### [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Q&A: Better Multiplayer support?](./transcriptions/yt-ECQdh3EiXws.md) https://www.youtube.com/watch?v=ECQdh3EiXws
 * [Q&A: Are you going to fix the Trains so it doesn't break in multiplayer for other people?](./transcriptions/yt-Kg29HlSMQjI.md) https://www.youtube.com/watch?v=Kg29HlSMQjI
-* [Q&A: Will Trees respawning being worked on?](./transcriptions/yt-59eW6SBaiNk.md) https://www.youtube.com/watch?v=59eW6SBaiNk
+* [Q&A: Better Multiplayer support?](./transcriptions/yt-ECQdh3EiXws.md) https://www.youtube.com/watch?v=ECQdh3EiXws
 * [Q&A: Can we go over the Freight Train fix in a little detail?](./transcriptions/yt-7vpbefcvoYI.md) https://www.youtube.com/watch?v=7vpbefcvoYI
+* [Q&A: Will Trees respawning being worked on?](./transcriptions/yt-59eW6SBaiNk.md) https://www.youtube.com/watch?v=59eW6SBaiNk
 
 ### [November 3rd, 2020 Livestream](./2020-11-03.md)
 * [Q&A: Can I play on Epic with someone on Steam?](./transcriptions/yt-zekvCEX_mv8.md) https://www.youtube.com/watch?v=zekvCEX_mv8
 
 ### [October 20th, 2020 Livestream](./2020-10-20.md)
-* [Q&A: Will Dedicated Servers have Multiple Hubs?](./transcriptions/yt-GDuWS-cOFX8.md) https://www.youtube.com/watch?v=GDuWS-cOFX8
 * [Jace Talk: Multiplayer Bugs vs. Dedicated Servers](./transcriptions/yt-cKyRBdQq7JY.md) https://www.youtube.com/watch?v=cKyRBdQq7JY
+* [Q&A: Will Dedicated Servers have Multiple Hubs?](./transcriptions/yt-GDuWS-cOFX8.md) https://www.youtube.com/watch?v=GDuWS-cOFX8
 
 ### [October 6th, 2020 Livestream](./2020-10-06.md)
-* Q&A: When I play offline I get a second character? https://www.youtube.com/watch?v=6EGahbkbK18
 * [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](./transcriptions/yt-RVq5k89jlEA.md) https://www.youtube.com/watch?v=RVq5k89jlEA
+* Q&A: When I play offline I get a second character? https://www.youtube.com/watch?v=6EGahbkbK18
 
 ### [September 22nd, 2020 Livestream](./2020-09-22.md)
-* [Jace & Snutt Talk: Zombie/Clone Players (part 2)](./transcriptions/yt-8Kcg4e20fMk.md) https://www.youtube.com/watch?v=8Kcg4e20fMk
 * [Jace & Snutt Talk: Zombie/Clone Players (part 1)](./transcriptions/yt-atdEe4Bm11k.md) https://www.youtube.com/watch?v=atdEe4Bm11k
+* [Jace & Snutt Talk: Zombie/Clone Players (part 2)](./transcriptions/yt-8Kcg4e20fMk.md) https://www.youtube.com/watch?v=8Kcg4e20fMk
 * [Q&A: Does destroying trees & rocks make the game slower like making buildings?](./transcriptions/yt-vOJIZQfzcUk.md) https://www.youtube.com/watch?v=vOJIZQfzcUk
 * [Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible?](./transcriptions/yt-v0UZaH3mXh4.md) https://www.youtube.com/watch?v=v0UZaH3mXh4
 
@@ -736,6 +744,10 @@ date: Last Modified
 
 ### [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
 
+#### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: What Operating System will the Dedicated Servers be?](./transcriptions/yt-071RPMJfFJk.md) https://www.youtube.com/watch?v=071RPMJfFJk
+* [Q&A: When will we see Dedicated Servers?](./transcriptions/yt-5XUn9L5xcAo.md) https://www.youtube.com/watch?v=5XUn9L5xcAo
+
 #### [February 2nd, 2021 Livestream](./2021-02-02.md)
 * [Q&A: Any news on Dedicated Servers?](./transcriptions/yt--IAV3zlXLss.md) https://www.youtube.com/watch?v=-IAV3zlXLss
 * [Q&A: Release date for Dedicated Servers?](./transcriptions/yt-bhFmwWIY_dw.md) https://www.youtube.com/watch?v=bhFmwWIY_dw
@@ -750,15 +762,15 @@ date: Last Modified
 
 #### [December 15th, 2020 Livestream](./2020-12-15.md)
 * [Q&A: Dedicated Server for Windows?](./transcriptions/yt-znK3Ne7dLUc.md) https://www.youtube.com/watch?v=znK3Ne7dLUc
-* [Q&A: Dedicated Servers?](./transcriptions/yt-HeezNCrsBRU.md) https://www.youtube.com/watch?v=HeezNCrsBRU
 * [Q&A: Dedicated Servers?](./transcriptions/yt-03Ybo6-_eWA.md) https://www.youtube.com/watch?v=03Ybo6-_eWA
+* [Q&A: Dedicated Servers?](./transcriptions/yt-HeezNCrsBRU.md) https://www.youtube.com/watch?v=HeezNCrsBRU
 
 #### [December 8th, 2020 Livestream](./2020-12-08.md)
 * [Q&A: Is there a reason for a lack of Dedicated Server builds?](./transcriptions/yt-47gzhAEWkFM.md) https://www.youtube.com/watch?v=47gzhAEWkFM
 
 #### [November 24th, 2020 Livestream](./2020-11-24.md)
-* [Q&A: Dedicated Servers in Update 4?](./transcriptions/yt-QWirowEMRbk.md) https://www.youtube.com/watch?v=QWirowEMRbk
 * [Q&A: Are Dedicated Servers going to have Mod support?](./transcriptions/yt-PD79jEZuOAU.md) https://www.youtube.com/watch?v=PD79jEZuOAU
+* [Q&A: Dedicated Servers in Update 4?](./transcriptions/yt-QWirowEMRbk.md) https://www.youtube.com/watch?v=QWirowEMRbk
 
 #### [November 17th, 2020 Livestream](./2020-11-17.md)
 * [Q&A: Are Dedicated Servers part of Update 4?](./transcriptions/yt-MKjtHTOMDZk.md) https://www.youtube.com/watch?v=MKjtHTOMDZk
@@ -772,21 +784,21 @@ date: Last Modified
 * [Q&A: Will Dedicated Servers run under Linux?](./transcriptions/yt-v5Niam8EYts.md) https://www.youtube.com/watch?v=v5Niam8EYts
 
 #### [October 20th, 2020 Livestream](./2020-10-20.md)
-* [Q&A: Will Dedicated Servers have Multiple Hubs?](./transcriptions/yt-GDuWS-cOFX8.md) https://www.youtube.com/watch?v=GDuWS-cOFX8
 * [Jace Talk: Multiplayer Bugs vs. Dedicated Servers](./transcriptions/yt-cKyRBdQq7JY.md) https://www.youtube.com/watch?v=cKyRBdQq7JY
 * [Q&A: Dedicated Servers coming with the next Update ?](./transcriptions/yt-VyyzowIc504.md) https://www.youtube.com/watch?v=VyyzowIc504
 * [Q&A: When will Dedicated Servers be coming?](./transcriptions/yt-TW0i2hxJ7C0.md) https://www.youtube.com/watch?v=TW0i2hxJ7C0
+* [Q&A: Will Dedicated Servers have Multiple Hubs?](./transcriptions/yt-GDuWS-cOFX8.md) https://www.youtube.com/watch?v=GDuWS-cOFX8
 
 #### [September 29th, 2020 Livestream](./2020-09-29.md)
 * [Jace Talk: Dedicated Servers summary](./transcriptions/yt-pEq7XWO3gCA.md) https://www.youtube.com/watch?v=pEq7XWO3gCA
 * [Q&A: Any update for Hosted/Dedicated Servers?](./transcriptions/yt-kiko6VnK6sA.md) https://www.youtube.com/watch?v=kiko6VnK6sA
 
 #### [September 22nd, 2020 Livestream](./2020-09-22.md)
+* [Q&A: Are there server files when I want to host my own Dedicated Server?](./transcriptions/yt-12nA53wOK6w.md) https://www.youtube.com/watch?v=12nA53wOK6w
 * [Q&A: Dedicated Servers?](./transcriptions/yt-tHUqAoOXffs.md) https://www.youtube.com/watch?v=tHUqAoOXffs
+* [Q&A: Dedicated Servers don't need to wait for an Update?](./transcriptions/yt-BRvjOB3hRaE.md) https://www.youtube.com/watch?v=BRvjOB3hRaE
 * [Q&A: How will time run on the Dedicated Servers?](./transcriptions/yt-1RgR6JDSoPg.md) https://www.youtube.com/watch?v=1RgR6JDSoPg
 * [Q&A: Will Dedicated Servers run on Linux?](./transcriptions/yt-299eeYGePHM.md) https://www.youtube.com/watch?v=299eeYGePHM
-* [Q&A: Dedicated Servers don't need to wait for an Update?](./transcriptions/yt-BRvjOB3hRaE.md) https://www.youtube.com/watch?v=BRvjOB3hRaE
-* [Q&A: Are there server files when I want to host my own Dedicated Server?](./transcriptions/yt-12nA53wOK6w.md) https://www.youtube.com/watch?v=12nA53wOK6w
 
 #### [September 15th, 2020 Livestream](./2020-09-15.md)
 * [Snutt Talk: Dedicated Servers](./transcriptions/yt-yRJNzDLMJZU.md) https://www.youtube.com/watch?v=yRJNzDLMJZU
@@ -798,8 +810,8 @@ date: Last Modified
 * [Q&A: Will Factories continue to run when players are logged into a Dedicated Server?](./transcriptions/yt-UYJHOPt6tTw.md) https://www.youtube.com/watch?v=UYJHOPt6tTw
 
 #### [September 1st, 2020 Livestream](./2020-09-01.md)
-* [Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content?](./transcriptions/yt-CGoHMrbwftU.md) https://www.youtube.com/watch?v=CGoHMrbwftU
 * [Q&A: Dedicated Servers](./transcriptions/yt-z5bf3k7JWlg.md) https://www.youtube.com/watch?v=z5bf3k7JWlg
+* [Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content?](./transcriptions/yt-CGoHMrbwftU.md) https://www.youtube.com/watch?v=CGoHMrbwftU
 
 #### [August 25th, 2020 Livestream](./2020-08-25.md)
 * [Q&A: ETA for Update 4](./transcriptions/yt-3xgs6Y-ZSe8.md) https://www.youtube.com/watch?v=3xgs6Y-ZSe8
@@ -827,10 +839,10 @@ date: Last Modified
 * [Q&A: Any news on Dedicated Servers?](./transcriptions/yt-pUhzc1Fd8sg.md) https://www.youtube.com/watch?v=pUhzc1Fd8sg
 
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
-* [Q&A: Linux support for Dedicated Servers?](./transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
-* [Q&A: Dedicated Servers?](./transcriptions/yt-Qy10mQQMXXI.md) https://www.youtube.com/watch?v=Qy10mQQMXXI
-* [Snutt & Jace Talk: The state of Dedicated Servers](./transcriptions/yt-t9hoNpC4-Ik.md) https://www.youtube.com/watch?v=t9hoNpC4-Ik
 * [Q&A: Dedicated Servers, will they cost anything?](./transcriptions/yt-SdB0QlhgmGs.md) https://www.youtube.com/watch?v=SdB0QlhgmGs
+* [Q&A: Dedicated Servers?](./transcriptions/yt-Qy10mQQMXXI.md) https://www.youtube.com/watch?v=Qy10mQQMXXI
+* [Q&A: Linux support for Dedicated Servers?](./transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
+* [Snutt & Jace Talk: The state of Dedicated Servers](./transcriptions/yt-t9hoNpC4-Ik.md) https://www.youtube.com/watch?v=t9hoNpC4-Ik
 
 ### [Lights](./topics/features/planned-features/lights.md)
 
@@ -845,8 +857,8 @@ date: Last Modified
 * [Snutt Talk: Lights on Buildings](./transcriptions/yt-fsP_b5C7y0M.md) https://www.youtube.com/watch?v=fsP_b5C7y0M
 
 #### [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Trolling: Lights](./transcriptions/yt--9gsspVilYk.md) https://www.youtube.com/watch?v=-9gsspVilYk
 * [Q&A: Are there any plans to add an option to disable the day/night cycle?](./transcriptions/yt-15jG0o32Dqk.md) https://www.youtube.com/watch?v=15jG0o32Dqk
+* [Trolling: Lights](./transcriptions/yt--9gsspVilYk.md) https://www.youtube.com/watch?v=-9gsspVilYk
 
 #### [November 3rd, 2020 Livestream](./2020-11-03.md)
 * [Q&A: Can you put in Lights, please?](./transcriptions/yt-7dm8Lvfj8Ao.md) https://www.youtube.com/watch?v=7dm8Lvfj8Ao
@@ -899,12 +911,12 @@ date: Last Modified
 * [Q&A: Could we expect the game on Consoles some day?](./transcriptions/yt-OVn94IC65fw.md) https://www.youtube.com/watch?v=OVn94IC65fw
 
 #### [November 24th, 2020 Livestream](./2020-11-24.md)
-* [Q&A: When is Satisfactory coming to Switch?](./transcriptions/yt-tBDXG3OHt1c.md) https://www.youtube.com/watch?v=tBDXG3OHt1c
 * [Q&A: Is Console confirmed for Satisfactory?](./transcriptions/yt-KEJYlYO511Q.md) https://www.youtube.com/watch?v=KEJYlYO511Q
+* [Q&A: When is Satisfactory coming to Switch?](./transcriptions/yt-tBDXG3OHt1c.md) https://www.youtube.com/watch?v=tBDXG3OHt1c
 
 #### [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Trolling: Console Support](./transcriptions/yt-OMFvjE8llfs.md) https://www.youtube.com/watch?v=OMFvjE8llfs
 * [Q&A: Is Console support coming?](./transcriptions/yt-tqB7YuLM2Fs.md) https://www.youtube.com/watch?v=tqB7YuLM2Fs
+* [Trolling: Console Support](./transcriptions/yt-OMFvjE8llfs.md) https://www.youtube.com/watch?v=OMFvjE8llfs
 
 #### [September 8th, 2020 Livestream](./2020-09-08.md)
 * [Q&A: Will this game come out on Console at some point?](./transcriptions/yt-pfD6p4g3fQ8.md) https://www.youtube.com/watch?v=pfD6p4g3fQ8
@@ -928,8 +940,8 @@ date: Last Modified
 * [Q&A: Console?](./transcriptions/yt-k-7WiSX0BYM.md) https://www.youtube.com/watch?v=k-7WiSX0BYM
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
-* [Q&A: Will you create Console version of Satisfactory?](./transcriptions/yt-_MGUbEI247M.md) https://www.youtube.com/watch?v=_MGUbEI247M
 * [Q&A: Any scope of the game being on consoles?](./transcriptions/yt-bsTq_WiSeCY.md) https://www.youtube.com/watch?v=bsTq_WiSeCY
+* [Q&A: Will you create Console version of Satisfactory?](./transcriptions/yt-_MGUbEI247M.md) https://www.youtube.com/watch?v=_MGUbEI247M
 
 ### [Decor](./topics/features/possible-features/decor.md)
 
@@ -971,8 +983,8 @@ date: Last Modified
 * [Q&A: How about Creative Mode?](./transcriptions/yt-pFc0pdgYnlU.md) https://www.youtube.com/watch?v=pFc0pdgYnlU
 
 #### [December 8th, 2020 Livestream](./2020-12-08.md)
-* [Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) https://www.youtube.com/watch?v=5-8ACtMU2_E
 * Q&A: Will there be a creative-style mode in the future? https://www.youtube.com/watch?v=ba7BBZw0IsU
+* [Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) https://www.youtube.com/watch?v=5-8ACtMU2_E
 
 #### [November 17th, 2020 Livestream](./2020-11-17.md)
 * [Q&A: When are you adding hunger & thirst?](./transcriptions/yt-hro__pZa1pk.md) https://www.youtube.com/watch?v=hro__pZa1pk
@@ -984,8 +996,8 @@ date: Last Modified
 * [Q&A: Is there going to be a Creative Mode?](./transcriptions/yt-Yn4Brcx8CSs.md) https://www.youtube.com/watch?v=Yn4Brcx8CSs
 
 #### [September 22nd, 2020 Livestream](./2020-09-22.md)
-* [Q&A: Will there be a Creative Mode?](./transcriptions/yt-nz4VgYaVDDo.md) https://www.youtube.com/watch?v=nz4VgYaVDDo
 * [Q&A: Hoping for Base Defence?](./transcriptions/yt-RjFIQhJY824.md) https://www.youtube.com/watch?v=RjFIQhJY824
+* [Q&A: Will there be a Creative Mode?](./transcriptions/yt-nz4VgYaVDDo.md) https://www.youtube.com/watch?v=nz4VgYaVDDo
 
 #### [September 15th, 2020 Livestream](./2020-09-15.md)
 * [Q&A: Will there be more polish to the Survival aspects of the game?](./transcriptions/yt-0flTS1mpH7s.md) https://www.youtube.com/watch?v=0flTS1mpH7s
@@ -995,8 +1007,8 @@ date: Last Modified
 * Q&A: Will there be a no combat/fight version? https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
-* [Q&A: Wouldn't you split normal & Creative Mode then not allow switching?](./transcriptions/yt-7xTscBSrsY0.md) https://www.youtube.com/watch?v=7xTscBSrsY0
 * [Q&A: Creative Mode without having to Mod?](./transcriptions/yt-ww37EE17YP4.md) https://www.youtube.com/watch?v=ww37EE17YP4
+* [Q&A: Wouldn't you split normal & Creative Mode then not allow switching?](./transcriptions/yt-7xTscBSrsY0.md) https://www.youtube.com/watch?v=7xTscBSrsY0
 
 #### [December 19th, 2019 Livestream](./2019-12-19.md)
 * [Q&A: Will there be more competitive stuff?](./transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
@@ -1048,16 +1060,16 @@ date: Last Modified
 * [Q&A: When are Geothermal Generators going to get it's Info Panel?](./transcriptions/yt-WTfWu44SQ1k.md) https://www.youtube.com/watch?v=WTfWu44SQ1k
 
 ### [November 10th, 2020 Livestream](./2020-11-10.md)
-* [Q&A: Nuclear removal when?](./transcriptions/yt-q-Z32Ff5_Pg.md) https://www.youtube.com/watch?v=q-Z32Ff5_Pg
 * [Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?](./transcriptions/yt-2SqpfMeDmcw.md) https://www.youtube.com/watch?v=2SqpfMeDmcw
+* [Q&A: Nuclear removal when?](./transcriptions/yt-q-Z32Ff5_Pg.md) https://www.youtube.com/watch?v=q-Z32Ff5_Pg
 
 ### [October 20th, 2020 Livestream](./2020-10-20.md)
-* [Q&A: Will there be a way to auto-feed Biomass into the generators?](./transcriptions/yt-5eQ3I4vmbZA.md) https://www.youtube.com/watch?v=5eQ3I4vmbZA
 * [Q&A: Solar Panels?](./transcriptions/yt-zpNZHeAOoQE.md) https://www.youtube.com/watch?v=zpNZHeAOoQE
+* [Q&A: Will there be a way to auto-feed Biomass into the generators?](./transcriptions/yt-5eQ3I4vmbZA.md) https://www.youtube.com/watch?v=5eQ3I4vmbZA
 
 ### [September 29th, 2020 Livestream](./2020-09-29.md)
-* [Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil?](./transcriptions/yt-DYy7NpZ7qYA.md) https://www.youtube.com/watch?v=DYy7NpZ7qYA
 * [Q&A: Are there any Green Energy options in the game?](./transcriptions/yt-9eBugtyk8U0.md) https://www.youtube.com/watch?v=9eBugtyk8U0
+* [Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil?](./transcriptions/yt-DYy7NpZ7qYA.md) https://www.youtube.com/watch?v=DYy7NpZ7qYA
 
 ### [July 28th, 2020 Livestream](./2020-07-28.md)
 * Q&A: update 4 will rethink power situation? https://clips.twitch.tv/ProudRockyInternTooSpicy
@@ -1078,8 +1090,8 @@ date: Last Modified
 ### [Nuclear Energy](./topics/features/power-management/nuclear-energy.md)
 
 #### [November 10th, 2020 Livestream](./2020-11-10.md)
-* [Q&A: Nuclear removal when?](./transcriptions/yt-q-Z32Ff5_Pg.md) https://www.youtube.com/watch?v=q-Z32Ff5_Pg
 * [Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?](./transcriptions/yt-2SqpfMeDmcw.md) https://www.youtube.com/watch?v=2SqpfMeDmcw
+* [Q&A: Nuclear removal when?](./transcriptions/yt-q-Z32Ff5_Pg.md) https://www.youtube.com/watch?v=q-Z32Ff5_Pg
 
 #### [September 29th, 2020 Livestream](./2020-09-29.md)
 * [Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil?](./transcriptions/yt-DYy7NpZ7qYA.md) https://www.youtube.com/watch?v=DYy7NpZ7qYA
@@ -1128,13 +1140,21 @@ date: Last Modified
 * [Q&A: New Tiers?](./transcriptions/yt-cApO9CV5uhU.md) https://www.youtube.com/watch?v=cApO9CV5uhU
 
 ### [September 22nd, 2020 Livestream](./2020-09-22.md)
-* [Q&A: Will there be more adjustments to progression?](./transcriptions/yt-9hON4HpgaXU.md) https://www.youtube.com/watch?v=9hON4HpgaXU
 * [Q&A: Tier 9, 10, 11, 12?](./transcriptions/yt-NU1DLvv4zb0.md) https://www.youtube.com/watch?v=NU1DLvv4zb0
+* [Q&A: Will there be more adjustments to progression?](./transcriptions/yt-9hON4HpgaXU.md) https://www.youtube.com/watch?v=9hON4HpgaXU
 
 ### [July 28th, 2020 Livestream](./2020-07-28.md)
 * Jace Talk: Content & Tiers https://clips.twitch.tv/SwissFurryPlumPlanking
 
+### [Tier 6](./topics/features/tiers/tier-6.md)
+
+#### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: Are you going to break save games again?](./transcriptions/yt-hF6yB6Wrox0.md) https://www.youtube.com/watch?v=hF6yB6Wrox0
+
 ### [Tier 7](./topics/features/tiers/tier-7.md)
+
+#### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: Are you going to break save games again?](./transcriptions/yt-hF6yB6Wrox0.md) https://www.youtube.com/watch?v=hF6yB6Wrox0
 
 #### [February 2nd, 2021 Livestream](./2021-02-02.md)
 * [Q&A: Will the new Update break my save game?](./transcriptions/yt-Hbs0pidLv_4.md) https://www.youtube.com/watch?v=Hbs0pidLv_4
@@ -1216,8 +1236,8 @@ date: Last Modified
 * [Q&A: Paintable Vehicles when?](./transcriptions/yt-0DPbCQ4WQHU.md) https://www.youtube.com/watch?v=0DPbCQ4WQHU
 
 #### [November 3rd, 2020 Livestream](./2020-11-03.md)
-* [Q&A: Will we get Flying Vehicles?](./transcriptions/yt-CkWtF0M2ddY.md) https://www.youtube.com/watch?v=CkWtF0M2ddY
 * [Q&A: Shouldn't Vehicles despawn after they fall off the World?](./transcriptions/yt-3n1NZE7lkOk.md) https://www.youtube.com/watch?v=3n1NZE7lkOk
+* [Q&A: Will we get Flying Vehicles?](./transcriptions/yt-CkWtF0M2ddY.md) https://www.youtube.com/watch?v=CkWtF0M2ddY
 
 #### [October 6th, 2020 Livestream](./2020-10-06.md)
 * [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](./transcriptions/yt-RVq5k89jlEA.md) https://www.youtube.com/watch?v=RVq5k89jlEA
@@ -1238,9 +1258,9 @@ date: Last Modified
 * Q&A: Will Drones be added to the game for aerial travel? https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper
 
 #### [December 19th, 2019 Livestream](./2019-12-19.md)
+* [Q&A: Give us a flight vehicle?](./transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I
 * [Q&A: Have you considerd Flying Drones?](./transcriptions/yt-KYox3m1mePU.md) https://www.youtube.com/watch?v=KYox3m1mePU
 * Q&A: Vehicle Lifts? https://www.youtube.com/watch?v=ayGH9w3sEBo
-* [Q&A: Give us a flight vehicle?](./transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
 * Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
@@ -1262,9 +1282,12 @@ date: Last Modified
 
 ### [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)
 
+#### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: Is flyable transport an option?](./transcriptions/yt-kd3UMt4pESk.md) https://www.youtube.com/watch?v=kd3UMt4pESk
+
 #### [January 26th, 2021 Livestream](./2021-01-26.md)
-* [Q&A: Will you add drones to Satisfactory?](./transcriptions/yt-pdppJAPp4yA.md) https://www.youtube.com/watch?v=pdppJAPp4yA
 * [Q&A: Can we expect aircraft any time?](./transcriptions/yt-XMIUlTU9xcU.md) https://www.youtube.com/watch?v=XMIUlTU9xcU
+* [Q&A: Will you add drones to Satisfactory?](./transcriptions/yt-pdppJAPp4yA.md) https://www.youtube.com/watch?v=pdppJAPp4yA
 
 #### [November 17th, 2020 Livestream](./2020-11-17.md)
 * [Trolling: Flying Vehicles in Update 4](./transcriptions/yt-E666WdfoeP0.md) https://www.youtube.com/watch?v=E666WdfoeP0
@@ -1279,10 +1302,10 @@ date: Last Modified
 * [Q&A: Any plans to add a Levitate option with Jetpacks?](./transcriptions/yt-_9P859YpEbE.md) https://www.youtube.com/watch?v=_9P859YpEbE
 
 #### [September 8th, 2020 Livestream](./2020-09-08.md)
-* [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](./transcriptions/yt--sa8wjg4lYk.md) https://www.youtube.com/watch?v=-sa8wjg4lYk
 * [Jace Talk: Air Transportation](./transcriptions/yt-hKQlthlcwXc.md) https://www.youtube.com/watch?v=hKQlthlcwXc
 * [Q&A: Jetpack needs a Hover Mode?](./transcriptions/yt-zeXh53pKe0A.md) https://www.youtube.com/watch?v=zeXh53pKe0A
 * [Q&A: The game needs small Flying Vehicles to travel long distance?](./transcriptions/yt-i0_bbpQ_91I.md) https://www.youtube.com/watch?v=i0_bbpQ_91I
+* [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](./transcriptions/yt--sa8wjg4lYk.md) https://www.youtube.com/watch?v=-sa8wjg4lYk
 
 #### [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother
@@ -1295,10 +1318,13 @@ date: Last Modified
 * Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5
 
 #### [December 19th, 2019 Livestream](./2019-12-19.md)
-* [Q&A: Have you considerd Flying Drones?](./transcriptions/yt-KYox3m1mePU.md) https://www.youtube.com/watch?v=KYox3m1mePU
 * [Q&A: Give us a flight vehicle?](./transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I
+* [Q&A: Have you considerd Flying Drones?](./transcriptions/yt-KYox3m1mePU.md) https://www.youtube.com/watch?v=KYox3m1mePU
 
 ### [Base Defense](./topics/features/unplanned-features/base-defense.md)
+
+#### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: Is there going to be tower defense?](./transcriptions/yt-9dWWC0mFitU.md) https://www.youtube.com/watch?v=9dWWC0mFitU
 
 #### [January 22nd, 2021 Instagram AMA](./2021-01-22.md)
 * Q&A: Is there a plan for automatize the base defense? https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4
@@ -1325,8 +1351,8 @@ date: Last Modified
 * Q&A: Will there be animals that attack the base? https://clips.twitch.tv/ProtectiveTubularCatJebaited
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
-* [Q&A: Will there be turrets or something in the game?](./transcriptions/yt-xNBFywqCrxM.md) https://www.youtube.com/watch?v=xNBFywqCrxM
 * [Q&A: Can creatures in any way disrupt your factory?](./transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
+* [Q&A: Will there be turrets or something in the game?](./transcriptions/yt-xNBFywqCrxM.md) https://www.youtube.com/watch?v=xNBFywqCrxM
 
 ### [Mass Building](./topics/features/unplanned-features/mass-building.md)
 
@@ -1341,14 +1367,14 @@ date: Last Modified
 * [Q&A: Click & Drag functionality for building?](./transcriptions/yt-vaYxvmOkUQY.md) https://www.youtube.com/watch?v=vaYxvmOkUQY
 
 #### [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Q&A: What is the current state of the "click & drag" creation debate?](./transcriptions/yt-_tVKaBw1syU.md) https://www.youtube.com/watch?v=_tVKaBw1syU
 * Q&A: Are you going to add any Template/Blueprint system? https://www.youtube.com/watch?v=tkwKMTaTpV8
 * Q&A: Can we have your opinion on Blueprints? https://www.youtube.com/watch?v=0HoRmIFZq4Y
+* [Q&A: What is the current state of the "click & drag" creation debate?](./transcriptions/yt-_tVKaBw1syU.md) https://www.youtube.com/watch?v=_tVKaBw1syU
 
 #### [November 10th, 2020 Livestream](./2020-11-10.md)
+* [Q&A: Is it true that building vertically equals worse performance than building horizontally?](./transcriptions/yt-BF0MYqw_SpM.md) https://www.youtube.com/watch?v=BF0MYqw_SpM
 * [Q&A: Is there a debug command to see how many Objects you are using?](./transcriptions/yt-3Tht0Ap0S8c.md) https://www.youtube.com/watch?v=3Tht0Ap0S8c
 * [Snutt & Jace Talk: Unreal Engine Object Limit](./transcriptions/yt-bk2ojhuil-g.md) https://www.youtube.com/watch?v=bk2ojhuil-g
-* [Q&A: Is it true that building vertically equals worse performance than building horizontally?](./transcriptions/yt-BF0MYqw_SpM.md) https://www.youtube.com/watch?v=BF0MYqw_SpM
 
 #### [November 3rd, 2020 Livestream](./2020-11-03.md)
 * [Q&A: Blueprints?](./transcriptions/yt-Vm5LIvY8TtA.md) https://www.youtube.com/watch?v=Vm5LIvY8TtA
@@ -1363,9 +1389,9 @@ date: Last Modified
 * [Q&A: Are there any plans for Blueprinting Buildings?](./transcriptions/yt--sQgPUaxR-Y.md) https://www.youtube.com/watch?v=-sQgPUaxR-Y
 
 #### [September 1st, 2020 Livestream](./2020-09-01.md)
+* [Q&A: Any plans for bigger foundations?](./transcriptions/yt-uUFy6qyZLKo.md) https://www.youtube.com/watch?v=uUFy6qyZLKo
 * [Q&A: Blueprints?](./transcriptions/yt-hpl23B1A0Qk.md) https://www.youtube.com/watch?v=hpl23B1A0Qk
 * [Q&A: drag & place?](./transcriptions/yt-OQwjkJmYxAs.md) https://www.youtube.com/watch?v=OQwjkJmYxAs
-* [Q&A: Any plans for bigger foundations?](./transcriptions/yt-uUFy6qyZLKo.md) https://www.youtube.com/watch?v=uUFy6qyZLKo
 * [Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?](./transcriptions/yt-RyE_hc4huhA.md) https://www.youtube.com/watch?v=RyE_hc4huhA
 
 #### [August 25th, 2020 Livestream](./2020-08-25.md)
@@ -1410,9 +1436,9 @@ date: Last Modified
 * Q&A: Randomly Generated Maps: https://clips.twitch.tv/OilyBloodyMangoFutureMan
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
-* [Q&A: The map is pre-made, not procedurally generated?](./transcriptions/yt-229Wl8AMQx8.md) https://www.youtube.com/watch?v=229Wl8AMQx8
-* [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](./transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k
 * [Q&A: Another game mode with a procedurally generated world?](./transcriptions/yt-GZlK2fIlYVk.md) https://www.youtube.com/watch?v=GZlK2fIlYVk
+* [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](./transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k
+* [Q&A: The map is pre-made, not procedurally generated?](./transcriptions/yt-229Wl8AMQx8.md) https://www.youtube.com/watch?v=229Wl8AMQx8
 
 ### [Space Exploration](./topics/features/unplanned-features/space-exploration.md)
 
@@ -1425,8 +1451,8 @@ date: Last Modified
 * [Q&A: Is terraforming possible any time in the future?](./transcriptions/yt-_fE2dbyaJZg.md) https://www.youtube.com/watch?v=_fE2dbyaJZg
 
 #### [September 8th, 2020 Livestream](./2020-09-08.md)
-* [Q&A: Any thoughts on Terraforming, specifically tunneling ?](./transcriptions/yt-LIi_14XOp60.md) https://www.youtube.com/watch?v=LIi_14XOp60
 * [Jace & Snutt Talk: Map Modding](./transcriptions/yt-4nzTdrIc2hg.md) https://www.youtube.com/watch?v=4nzTdrIc2hg
+* [Q&A: Any thoughts on Terraforming, specifically tunneling ?](./transcriptions/yt-LIi_14XOp60.md) https://www.youtube.com/watch?v=LIi_14XOp60
 
 #### [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Terraforming? https://clips.twitch.tv/CourageousTardyLarkShazBotstix
@@ -1474,6 +1500,10 @@ date: Last Modified
 
 # [Merch](./topics/merch.md)
 
+## [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: I would buy Merch but there's no Coffee Cup?](./transcriptions/yt-bQnAGoo8jQA.md) https://www.youtube.com/watch?v=bQnAGoo8jQA
+* [Q&A: Lizard Doggo plushie?](./transcriptions/yt-FlOFnqAw5go.md) https://www.youtube.com/watch?v=FlOFnqAw5go
+
 ## [January 26th, 2021 Livestream](./2021-01-26.md)
 * [Q&A: Plush?](./transcriptions/yt-svSLbvLwSxQ.md) https://www.youtube.com/watch?v=svSLbvLwSxQ
 * Q&A: When can we buy the Mug? https://www.youtube.com/watch?v=r6-zAmp9tgo
@@ -1483,28 +1513,28 @@ date: Last Modified
 * [State of Dev: Mug Merch](./transcriptions/yt-sDMER4xm8Gc.md) https://www.youtube.com/watch?v=sDMER4xm8Gc
 
 ## [December 15th, 2020 Livestream](./2020-12-15.md)
-* [Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy?](./transcriptions/yt-PYyvu8feZqA.md) https://www.youtube.com/watch?v=PYyvu8feZqA
 * [Q&A: Coffee Mugs?](./transcriptions/yt-DuGUOXyGtHg.md) https://www.youtube.com/watch?v=DuGUOXyGtHg
+* [Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy?](./transcriptions/yt-PYyvu8feZqA.md) https://www.youtube.com/watch?v=PYyvu8feZqA
 
 ## [November 24th, 2020 Livestream](./2020-11-24.md)
 * [Q&A: The Cup, where can I buy it?](./transcriptions/yt-WpsGOpaoH1o.md) https://www.youtube.com/watch?v=WpsGOpaoH1o
 
 ## [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Q&A: Mug Merch update?](./transcriptions/yt-6vHKc1HxAGc.md) https://www.youtube.com/watch?v=6vHKc1HxAGc
 * [Q&A: Do you have an update on the price of delivery fee of Merch?](./transcriptions/yt-mNtdBj-DpK0.md) https://www.youtube.com/watch?v=mNtdBj-DpK0
+* [Q&A: Mug Merch update?](./transcriptions/yt-6vHKc1HxAGc.md) https://www.youtube.com/watch?v=6vHKc1HxAGc
 
 ## [November 10th, 2020 Livestream](./2020-11-10.md)
-* [Q&A: When can we buy the FICSIT Cup?](./transcriptions/yt-8VBAsvNZAGM.md) https://www.youtube.com/watch?v=8VBAsvNZAGM
 * [Jace Talk: Merch](./transcriptions/yt-23FUIPYyBds.md) https://www.youtube.com/watch?v=23FUIPYyBds
+* [Q&A: When can we buy the FICSIT Cup?](./transcriptions/yt-8VBAsvNZAGM.md) https://www.youtube.com/watch?v=8VBAsvNZAGM
 
 ## [October 20th, 2020 Livestream](./2020-10-20.md)
 * [Jace Talk: Merch Shipping outside of the US](./transcriptions/yt-dPyS44dffR8.md) https://www.youtube.com/watch?v=dPyS44dffR8
 
 ## [October 13th, 2020 Livestream](./2020-10-13.md)
-* [Q&A: When will the Merch be sold in the EU?](./transcriptions/yt-cLOvb6pC788.md) https://www.youtube.com/watch?v=cLOvb6pC788
-* [Q&A: What about the Mug?](./transcriptions/yt-IVy_-gV3h6M.md) https://www.youtube.com/watch?v=IVy_-gV3h6M
-* [Q&A: Update on the Mug?](./transcriptions/yt-9e8Q65g3HWI.md) https://www.youtube.com/watch?v=9e8Q65g3HWI
 * [Q&A: Info on EU shopping for Merch?](./transcriptions/yt-D3uJQzZmGQM.md) https://www.youtube.com/watch?v=D3uJQzZmGQM
+* [Q&A: Update on the Mug?](./transcriptions/yt-9e8Q65g3HWI.md) https://www.youtube.com/watch?v=9e8Q65g3HWI
+* [Q&A: What about the Mug?](./transcriptions/yt-IVy_-gV3h6M.md) https://www.youtube.com/watch?v=IVy_-gV3h6M
+* [Q&A: When will the Merch be sold in the EU?](./transcriptions/yt-cLOvb6pC788.md) https://www.youtube.com/watch?v=cLOvb6pC788
 
 ## [October 6th, 2020 Livestream](./2020-10-06.md)
 * [Q&A: Any Update on Merch shipping alternatives?](./transcriptions/yt-kj_vdE5-CEI.md) https://www.youtube.com/watch?v=kj_vdE5-CEI
@@ -1514,19 +1544,19 @@ date: Last Modified
 
 ## [September 22nd, 2020 Livestream](./2020-09-22.md)
 * [Q&A: Any information on Merch shipping to EU/rest of the world?](./transcriptions/yt-hAEInvMcQfk.md) https://www.youtube.com/watch?v=hAEInvMcQfk
-* [Q&A: What about the Mug?](./transcriptions/yt-Z4ossbr19xo.md) https://www.youtube.com/watch?v=Z4ossbr19xo
 * [Q&A: How's the cup going?](./transcriptions/yt-bkjnr6Ae1r0.md) https://www.youtube.com/watch?v=bkjnr6Ae1r0
+* [Q&A: What about the Mug?](./transcriptions/yt-Z4ossbr19xo.md) https://www.youtube.com/watch?v=Z4ossbr19xo
 
 ## [September 15th, 2020 Livestream](./2020-09-15.md)
-* [Q&A: The Mug?](./transcriptions/yt-mg0CAgdI5S8.md) https://www.youtube.com/watch?v=mg0CAgdI5S8
 * [Q&A: Any news on EU Merch?](./transcriptions/yt-IXeIE9qV-lA.md) https://www.youtube.com/watch?v=IXeIE9qV-lA
+* [Q&A: The Mug?](./transcriptions/yt-mg0CAgdI5S8.md) https://www.youtube.com/watch?v=mg0CAgdI5S8
 
 ## [September 8th, 2020 Livestream](./2020-09-08.md)
 * [Q&A: Will there be a european Merch store?](./transcriptions/yt-GhfR61WpR6k.md) https://www.youtube.com/watch?v=GhfR61WpR6k
 
 ## [September 1st, 2020 Livestream](./2020-09-01.md)
-* [Q&A: What about the Merch?](./transcriptions/yt-jQyDj_wa0LA.md) https://www.youtube.com/watch?v=jQyDj_wa0LA
 * [Q&A: The Doggo Plushie has to fit into the Cup](./transcriptions/yt-HMsgkhM0i34.md) https://www.youtube.com/watch?v=HMsgkhM0i34
+* [Q&A: What about the Merch?](./transcriptions/yt-jQyDj_wa0LA.md) https://www.youtube.com/watch?v=jQyDj_wa0LA
 * [Q&A: Will the Factory Cart be available as Merch?](./transcriptions/yt-i1iL8KXmptE.md) https://www.youtube.com/watch?v=i1iL8KXmptE
 
 ## [August 18th, 2020 Livestream](./2020-08-18.md)
@@ -1590,8 +1620,8 @@ date: Last Modified
 * [Q&A: Will there be a Map Editor?](./transcriptions/yt-MYno60AbSGk.md) https://www.youtube.com/watch?v=MYno60AbSGk
 
 ## [September 8th, 2020 Livestream](./2020-09-08.md)
-* [Q&A: Time to invest in Map Modding?](./transcriptions/yt-a5PSHoSuXec.md) https://www.youtube.com/watch?v=a5PSHoSuXec
 * [Jace & Snutt Talk: Map Modding](./transcriptions/yt-4nzTdrIc2hg.md) https://www.youtube.com/watch?v=4nzTdrIc2hg
+* [Q&A: Time to invest in Map Modding?](./transcriptions/yt-a5PSHoSuXec.md) https://www.youtube.com/watch?v=a5PSHoSuXec
 
 ## [August 25th, 2020 Livestream](./2020-08-25.md)
 * Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc
@@ -1608,8 +1638,8 @@ date: Last Modified
 * [Q&A: What are some of the things you guys want to see in Satisfactory?](./transcriptions/yt-NEM6_KiEgA8.md) https://www.youtube.com/watch?v=NEM6_KiEgA8
 
 ### [November 10th, 2020 Livestream](./2020-11-10.md)
-* [Q&A: Are there Mods that you might put into the game?](./transcriptions/yt-DAmVYd9vGbA.md) https://www.youtube.com/watch?v=DAmVYd9vGbA
 * [Q&A: Are Conveyor Belt Mk. 6 going to be a thing?](./transcriptions/yt-WbtzFVFOFMs.md) https://www.youtube.com/watch?v=WbtzFVFOFMs
+* [Q&A: Are there Mods that you might put into the game?](./transcriptions/yt-DAmVYd9vGbA.md) https://www.youtube.com/watch?v=DAmVYd9vGbA
 
 ### [October 6th, 2020 Livestream](./2020-10-06.md)
 * [Q&A: Will you incorporate any mods into the base game?](./transcriptions/yt-G1NZf7SbA00.md) https://www.youtube.com/watch?v=G1NZf7SbA00
@@ -1687,8 +1717,8 @@ date: Last Modified
 * [Q&A: Is there going to be a Satisfactory for Mac?](./transcriptions/yt-eLjNJO4pUBA.md) https://www.youtube.com/watch?v=eLjNJO4pUBA
 
 ### [November 10th, 2020 Livestream](./2020-11-10.md)
-* [Q&A: Mac Release / Release to other platforms?](./transcriptions/yt-xVOvU3NVxfs.md) https://www.youtube.com/watch?v=xVOvU3NVxfs
 * [Q&A: Can you summarise the upcoming builds for the next months?](./transcriptions/yt-hUYyIETHuJ4.md) https://www.youtube.com/watch?v=hUYyIETHuJ4
+* [Q&A: Mac Release / Release to other platforms?](./transcriptions/yt-xVOvU3NVxfs.md) https://www.youtube.com/watch?v=xVOvU3NVxfs
 
 ### [November 3rd, 2020 Livestream](./2020-11-03.md)
 * [Q&A: What's the difference between Experimental and the other version?](./transcriptions/yt-T6zmq2rGoHU.md) https://www.youtube.com/watch?v=T6zmq2rGoHU
@@ -1701,15 +1731,18 @@ date: Last Modified
 * [Q&A: How long will it be on Experimental?](./transcriptions/yt-SiKHL4mgM40.md) https://www.youtube.com/watch?v=SiKHL4mgM40
 
 ### [January 22nd, 2020 Livestream](./2020-01-22.md)
-* [Q&A: Linux support for Dedicated Servers?](./transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
 * [Q&A: Any downsides to playing experimental](./transcriptions/yt-PJEaT3SIv0U.md) https://www.youtube.com/watch?v=PJEaT3SIv0U
 * [Q&A: How much time between Experimental and Early Access?](./transcriptions/yt-Cjn88-M1BbE.md) https://www.youtube.com/watch?v=Cjn88-M1BbE
+* [Q&A: Linux support for Dedicated Servers?](./transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
 
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
-* [Q&A: Is Linux support planned in the future?](./transcriptions/yt-GR3xet5AyuE.md) https://www.youtube.com/watch?v=GR3xet5AyuE
 * [Q&A: Are you adding support for Mac any time soon?](./transcriptions/yt-XQioxcXDRqc.md) https://www.youtube.com/watch?v=XQioxcXDRqc
+* [Q&A: Is Linux support planned in the future?](./transcriptions/yt-GR3xet5AyuE.md) https://www.youtube.com/watch?v=GR3xet5AyuE
 
 ## [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
+
+### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [State of Dev: Update 4](./transcriptions/yt-coeCw5fADaE.md) https://www.youtube.com/watch?v=coeCw5fADaE
 
 ### [February 2nd, 2021 Livestream](./2021-02-02.md)
 * [State of Dev: Update 4 release date](./transcriptions/yt-pTNcgSWTa-k.md) https://www.youtube.com/watch?v=pTNcgSWTa-k
@@ -1718,8 +1751,8 @@ date: Last Modified
 * [State of Dev: Update 4 release date](./transcriptions/yt-scIACwZmTgE.md) https://www.youtube.com/watch?v=scIACwZmTgE
 
 ### [January 19th, 2021 Livestream](./2021-01-19.md)
-* [State of Dev: ETA for Update 4](./transcriptions/yt-5kVXtK-Yu5g.md) https://www.youtube.com/watch?v=5kVXtK-Yu5g
 * [State of Dev: Closed Captions](./transcriptions/yt-sAS09ChPivY.md) https://www.youtube.com/watch?v=sAS09ChPivY
+* [State of Dev: ETA for Update 4](./transcriptions/yt-5kVXtK-Yu5g.md) https://www.youtube.com/watch?v=5kVXtK-Yu5g
 
 ### [January 12th, 2021 Livestream](./2021-01-12.md)
 * [State of Dev: Mug Merch](./transcriptions/yt-sDMER4xm8Gc.md) https://www.youtube.com/watch?v=sDMER4xm8Gc
@@ -1737,54 +1770,60 @@ date: Last Modified
 
 ### [Satisfactory Update 4](./topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
+#### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: Are you going to break save games again?](./transcriptions/yt-hF6yB6Wrox0.md) https://www.youtube.com/watch?v=hF6yB6Wrox0
+* [Q&A: Update 4 contains the Engine Upgrade?](./transcriptions/yt-WQa938_K6SY.md) https://www.youtube.com/watch?v=WQa938_K6SY
+* Q&A: When is Update 4? https://www.youtube.com/watch?v=ByRRtAKyNa0
+* [State of Dev: Update 4](./transcriptions/yt-coeCw5fADaE.md) https://www.youtube.com/watch?v=coeCw5fADaE
+
 #### [February 2nd, 2021 Livestream](./2021-02-02.md)
-* [Q&A: Do Zip Lines need to be powered?](./transcriptions/yt-r_mQ7Xqk6Yo.md) https://www.youtube.com/watch?v=r_mQ7Xqk6Yo
-* [Q&A: Can you Zip Line up?](./transcriptions/yt-obQpGKr8mWg.md) https://www.youtube.com/watch?v=obQpGKr8mWg
-* [State of Dev: Update 4 release date](./transcriptions/yt-pTNcgSWTa-k.md) https://www.youtube.com/watch?v=pTNcgSWTa-k
-* [Q&A: When do you think the Release Date will be solid?](./transcriptions/yt-SbKFw6yksO0.md) https://www.youtube.com/watch?v=SbKFw6yksO0
 * [Q&A: Are Gases going to work like Liquids?](./transcriptions/yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
+* [Q&A: Can you Zip Line up?](./transcriptions/yt-obQpGKr8mWg.md) https://www.youtube.com/watch?v=obQpGKr8mWg
+* [Q&A: Do Zip Lines need to be powered?](./transcriptions/yt-r_mQ7Xqk6Yo.md) https://www.youtube.com/watch?v=r_mQ7Xqk6Yo
 * [Q&A: More HDD Crash Sites for Update 4?](./transcriptions/yt-awtYncMFbBo.md) https://www.youtube.com/watch?v=awtYncMFbBo
-* [Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](./transcriptions/yt-U7q88D_G0Ac.md) https://www.youtube.com/watch?v=U7q88D_G0Ac
-* [Q&A: Will Update 4 be on Experimental or main branch?](./transcriptions/yt-ePwT4AogKWY.md) https://www.youtube.com/watch?v=ePwT4AogKWY
+* [Q&A: When do you think the Release Date will be solid?](./transcriptions/yt-SbKFw6yksO0.md) https://www.youtube.com/watch?v=SbKFw6yksO0
 * [Q&A: Will the new Update break my save game?](./transcriptions/yt-Hbs0pidLv_4.md) https://www.youtube.com/watch?v=Hbs0pidLv_4
+* [Q&A: Will Update 4 be on Experimental or main branch?](./transcriptions/yt-ePwT4AogKWY.md) https://www.youtube.com/watch?v=ePwT4AogKWY
+* [Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](./transcriptions/yt-U7q88D_G0Ac.md) https://www.youtube.com/watch?v=U7q88D_G0Ac
+* [State of Dev: Update 4 release date](./transcriptions/yt-pTNcgSWTa-k.md) https://www.youtube.com/watch?v=pTNcgSWTa-k
 
 #### [January 26th, 2021 Livestream](./2021-01-26.md)
 * Q&A: How many Updates do you have planned before 1.0? https://www.youtube.com/watch?v=7t2DLBi7kl8
-* [State of Dev: Update 4 release date](./transcriptions/yt-scIACwZmTgE.md) https://www.youtube.com/watch?v=scIACwZmTgE
 * [Q&A: Update 4 estimate?](./transcriptions/yt-R-GjcKzww6Y.md) https://www.youtube.com/watch?v=R-GjcKzww6Y
+* [State of Dev: Update 4 release date](./transcriptions/yt-scIACwZmTgE.md) https://www.youtube.com/watch?v=scIACwZmTgE
 
 #### [January 22nd, 2021 Instagram AMA](./2021-01-22.md)
 * Q&A: When is update 4!!!!! https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA_-_When_is_Update_4.mp4
 
 #### [January 19th, 2021 Livestream](./2021-01-19.md)
-* [State of Dev: ETA for Update 4](./transcriptions/yt-5kVXtK-Yu5g.md) https://www.youtube.com/watch?v=5kVXtK-Yu5g
 * [Q&A: How possible are Dedicated Servers in Update 4?](./transcriptions/yt--3JqJE_94g0.md) https://www.youtube.com/watch?v=-3JqJE_94g0
+* [State of Dev: ETA for Update 4](./transcriptions/yt-5kVXtK-Yu5g.md) https://www.youtube.com/watch?v=5kVXtK-Yu5g
 
 #### [January 12th, 2021 Livestream](./2021-01-12.md)
 * [Q&A: Update 4 Release Date](./transcriptions/yt-8-vsYNedzEw.md) https://www.youtube.com/watch?v=8-vsYNedzEw
 
 #### [December 15th, 2020 Livestream](./2020-12-15.md)
-* [Q&A: Will RTX be added to Update 4 with the new Unreal Engine?](./transcriptions/yt-RubFX693enI.md) https://www.youtube.com/watch?v=RubFX693enI
 * [Q&A: What is priority currently?](./transcriptions/yt-GOg5NVFpjSU.md) https://www.youtube.com/watch?v=GOg5NVFpjSU
+* [Q&A: Will RTX be added to Update 4 with the new Unreal Engine?](./transcriptions/yt-RubFX693enI.md) https://www.youtube.com/watch?v=RubFX693enI
 * [Q&A: Will there be any major changes to the game with Update 4?](./transcriptions/yt-8ImofeADWyI.md) https://www.youtube.com/watch?v=8ImofeADWyI
 
 #### [December 8th, 2020 Livestream](./2020-12-08.md)
 * [Jace Talk: FICS⁕MAS leaks are not "leaks"](./transcriptions/yt-TOevQ69HYNA.md) https://www.youtube.com/watch?v=TOevQ69HYNA
-* [Q&A: Will Mods break?](./transcriptions/yt-f1iY6Fj__E0.md) https://www.youtube.com/watch?v=f1iY6Fj__E0
-* [Q&A: Is Multiplayer desync fixed in Update 4?](./transcriptions/yt-OjiLxOBdkU8.md) https://www.youtube.com/watch?v=OjiLxOBdkU8
-* [Q&A: ETA on Update 4?](./transcriptions/yt-2Slrxqcmay0.md) https://www.youtube.com/watch?v=2Slrxqcmay0
 * [Q&A: As Update 4 gets closer will you be releasing more info on how to prepare for the changes?](./transcriptions/yt-dkVq6ix0lQM.md) https://www.youtube.com/watch?v=dkVq6ix0lQM
+* [Q&A: ETA on Update 4?](./transcriptions/yt-2Slrxqcmay0.md) https://www.youtube.com/watch?v=2Slrxqcmay0
+* [Q&A: Is Multiplayer desync fixed in Update 4?](./transcriptions/yt-OjiLxOBdkU8.md) https://www.youtube.com/watch?v=OjiLxOBdkU8
+* [Q&A: Will Mods break?](./transcriptions/yt-f1iY6Fj__E0.md) https://www.youtube.com/watch?v=f1iY6Fj__E0
 
 #### [November 24th, 2020 Livestream](./2020-11-24.md)
-* [Q&A: Dedicated Servers in Update 4?](./transcriptions/yt-QWirowEMRbk.md) https://www.youtube.com/watch?v=QWirowEMRbk
-* [Q&A: Any air & sea Vehicles in Update 4?](./transcriptions/yt-HSoBZKjAN1k.md) https://www.youtube.com/watch?v=HSoBZKjAN1k
 * [Jace Talk: Update 4 release schedule](./transcriptions/yt-e7ASTpTbibg.md) https://www.youtube.com/watch?v=e7ASTpTbibg
+* [Q&A: Any air & sea Vehicles in Update 4?](./transcriptions/yt-HSoBZKjAN1k.md) https://www.youtube.com/watch?v=HSoBZKjAN1k
+* [Q&A: Dedicated Servers in Update 4?](./transcriptions/yt-QWirowEMRbk.md) https://www.youtube.com/watch?v=QWirowEMRbk
 
 #### [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Q&A: Are Dedicated Servers part of Update 4?](./transcriptions/yt-MKjtHTOMDZk.md) https://www.youtube.com/watch?v=MKjtHTOMDZk
-* [Trolling: Flying Vehicles in Update 4](./transcriptions/yt-E666WdfoeP0.md) https://www.youtube.com/watch?v=E666WdfoeP0
-* [Q&A: Update 4 progress?](./transcriptions/yt-QK8Bis0LNp0.md) https://www.youtube.com/watch?v=QK8Bis0LNp0
 * [Q&A: Any news on big Crab monster?](./transcriptions/yt-tTXExwaqZQM.md) https://www.youtube.com/watch?v=tTXExwaqZQM
+* [Q&A: Are Dedicated Servers part of Update 4?](./transcriptions/yt-MKjtHTOMDZk.md) https://www.youtube.com/watch?v=MKjtHTOMDZk
+* [Q&A: Update 4 progress?](./transcriptions/yt-QK8Bis0LNp0.md) https://www.youtube.com/watch?v=QK8Bis0LNp0
+* [Trolling: Flying Vehicles in Update 4](./transcriptions/yt-E666WdfoeP0.md) https://www.youtube.com/watch?v=E666WdfoeP0
 
 #### [November 10th, 2020 Livestream](./2020-11-10.md)
 * [Q&A: Can you summarise the upcoming builds for the next months?](./transcriptions/yt-hUYyIETHuJ4.md) https://www.youtube.com/watch?v=hUYyIETHuJ4
@@ -1808,9 +1847,9 @@ date: Last Modified
 
 #### [September 15th, 2020 Livestream](./2020-09-15.md)
 * [Q&A: Any chance Update 4 unlocks the Work In Progress items?](./transcriptions/yt-Z870GlRbfjk.md) https://www.youtube.com/watch?v=Z870GlRbfjk
+* [Q&A: Update release schedule (part 1)](./transcriptions/yt-xkalDtEeoOY.md) https://www.youtube.com/watch?v=xkalDtEeoOY
 * [Q&A: Update release schedule (part 2)](./transcriptions/yt-vfVo9rCpVtQ.md) https://www.youtube.com/watch?v=vfVo9rCpVtQ
 * [Q&A: Will the update break saves?](./transcriptions/yt-4RrHBOTPcs8.md) https://www.youtube.com/watch?v=4RrHBOTPcs8
-* [Q&A: Update release schedule (part 1)](./transcriptions/yt-xkalDtEeoOY.md) https://www.youtube.com/watch?v=xkalDtEeoOY
 
 #### [September 8th, 2020 Livestream](./2020-09-08.md)
 * [Jace & Snutt Talk: Update 4 & Dedicated Servers](./transcriptions/yt-PEFai6HyxTs.md) https://www.youtube.com/watch?v=PEFai6HyxTs
@@ -1819,9 +1858,9 @@ date: Last Modified
 * [Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content?](./transcriptions/yt-CGoHMrbwftU.md) https://www.youtube.com/watch?v=CGoHMrbwftU
 
 #### [August 25th, 2020 Livestream](./2020-08-25.md)
-* [Q&A: ETA for Update 4](./transcriptions/yt-3xgs6Y-ZSe8.md) https://www.youtube.com/watch?v=3xgs6Y-ZSe8
 * [ETA for Update 4? (Mid-stream reiteration)](./transcriptions/yt-tNgHT-JIuvE.md) https://www.youtube.com/watch?v=tNgHT-JIuvE
 * [Q&A: Can we expect significant performance increase with Update 4?](./transcriptions/yt-PVf-pBNYO_M.md) https://www.youtube.com/watch?v=PVf-pBNYO_M
+* [Q&A: ETA for Update 4](./transcriptions/yt-3xgs6Y-ZSe8.md) https://www.youtube.com/watch?v=3xgs6Y-ZSe8
 * [Q&A: When will the next patch even get released?](./transcriptions/yt-I59oaCtgopI.md) https://www.youtube.com/watch?v=I59oaCtgopI
 * ETA for Update 4? (Part 1) https://clips.twitch.tv/DeadPrettySaladMoreCowbell
 * ETA for Update 4? (Part 2) https://clips.twitch.tv/SavageBenevolentEndiveChocolateRain
@@ -1900,8 +1939,8 @@ date: Last Modified
 * [Q&A: Will price go up after Early Access ends?](./transcriptions/yt-TFg_ppmX8OE.md) https://www.youtube.com/watch?v=TFg_ppmX8OE
 
 #### [March 9th, 2019 Livestream](./2019-03-09.md)
-* [Q&A: When is the official release?](./transcriptions/yt-H0HcDZTv_ts.md) https://www.youtube.com/watch?v=H0HcDZTv_ts
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](./transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
+* [Q&A: When is the official release?](./transcriptions/yt-H0HcDZTv_ts.md) https://www.youtube.com/watch?v=H0HcDZTv_ts
 
 ## Released
 
@@ -1913,15 +1952,15 @@ date: Last Modified
 ### [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 #### [February 11th, 2020 Livestream](./2020-02-11.md)
-* [Q&A: Should/Can we start a new save?](./transcriptions/yt-wKvUpRb-FHw.md) https://www.youtube.com/watch?v=wKvUpRb-FHw
-* [Q&A: How long will it be on Experimental?](./transcriptions/yt-SiKHL4mgM40.md) https://www.youtube.com/watch?v=SiKHL4mgM40
 * [Q&A: Anything narrative?](./transcriptions/yt-1mZyPuZXLE4.md) https://www.youtube.com/watch?v=1mZyPuZXLE4
+* [Q&A: How long will it be on Experimental?](./transcriptions/yt-SiKHL4mgM40.md) https://www.youtube.com/watch?v=SiKHL4mgM40
+* [Q&A: Should/Can we start a new save?](./transcriptions/yt-wKvUpRb-FHw.md) https://www.youtube.com/watch?v=wKvUpRb-FHw
 
 #### [January 22nd, 2020 Livestream](./2020-01-22.md)
-* [Q&A: Will you fix translations?](./transcriptions/yt-NJxOCbsJtZQ.md) https://www.youtube.com/watch?v=NJxOCbsJtZQ
 * [Q&A: Any downsides to playing experimental](./transcriptions/yt-PJEaT3SIv0U.md) https://www.youtube.com/watch?v=PJEaT3SIv0U
 * [Q&A: How much time between Experimental and Early Access?](./transcriptions/yt-Cjn88-M1BbE.md) https://www.youtube.com/watch?v=Cjn88-M1BbE
 * Q&A: Will Mods work correctly after the Update? https://www.youtube.com/watch?v=qf6QTYIHDaQ
+* [Q&A: Will you fix translations?](./transcriptions/yt-NJxOCbsJtZQ.md) https://www.youtube.com/watch?v=NJxOCbsJtZQ
 
 ### [Satisfactory Fluids Update](./topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
@@ -1932,8 +1971,8 @@ date: Last Modified
 * [Q&A: Does the Packager also do unpacking?](./transcriptions/yt-s1ibMeMeBT8.md) https://www.youtube.com/watch?v=s1ibMeMeBT8
 
 #### [October 20th, 2020 Livestream](./2020-10-20.md)
-* [Q&A: Dedicated Servers coming with the next Update ?](./transcriptions/yt-VyyzowIc504.md) https://www.youtube.com/watch?v=VyyzowIc504
 * [Jace & Snutt Talk: Save-breaking Updates](./transcriptions/yt-Qbb01c0EnEE.md) https://www.youtube.com/watch?v=Qbb01c0EnEE
+* [Q&A: Dedicated Servers coming with the next Update ?](./transcriptions/yt-VyyzowIc504.md) https://www.youtube.com/watch?v=VyyzowIc504
 
 #### [October 13th, 2020 Livestream](./2020-10-13.md)
 * [Q&A: Who knows the most about feature roadmap?](./transcriptions/yt--MwbxCLSUC4.md) https://www.youtube.com/watch?v=-MwbxCLSUC4
@@ -1942,22 +1981,22 @@ date: Last Modified
 * [Q&A: Will we have to redo Pipe systems with the new Update?](./transcriptions/yt-7r2YUHrQyB8.md) https://www.youtube.com/watch?v=7r2YUHrQyB8
 
 #### [September 22nd, 2020 Livestream](./2020-09-22.md)
-* [Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)](./transcriptions/yt-oT2NLP9ZvGk.md) https://www.youtube.com/watch?v=oT2NLP9ZvGk
-* [Q&A: What about Update 3.5?](./transcriptions/yt-yuPh64NufF4.md) https://www.youtube.com/watch?v=yuPh64NufF4
 * [Q&A: Been a little while without any Updates?](./transcriptions/yt-sSLGErHJcyE.md) https://www.youtube.com/watch?v=sSLGErHJcyE
 * [Q&A: Update 4, bigger Pipes?](./transcriptions/yt-sXfGrrX3E0E.md) https://www.youtube.com/watch?v=sXfGrrX3E0E
+* [Q&A: What about Update 3.5?](./transcriptions/yt-yuPh64NufF4.md) https://www.youtube.com/watch?v=yuPh64NufF4
+* [Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)](./transcriptions/yt-oT2NLP9ZvGk.md) https://www.youtube.com/watch?v=oT2NLP9ZvGk
 
 #### [September 15th, 2020 Livestream](./2020-09-15.md)
-* [Q&A: Update release schedule (part 2)](./transcriptions/yt-vfVo9rCpVtQ.md) https://www.youtube.com/watch?v=vfVo9rCpVtQ
-* [Q&A: Will the update break saves?](./transcriptions/yt-4RrHBOTPcs8.md) https://www.youtube.com/watch?v=4RrHBOTPcs8
-* [Q&A: Update release schedule (part 1)](./transcriptions/yt-xkalDtEeoOY.md) https://www.youtube.com/watch?v=xkalDtEeoOY
 * [Q&A: Any improvement for the Trucks so they can transport Fluids?](./transcriptions/yt-lNpwyJr7lZc.md) https://www.youtube.com/watch?v=lNpwyJr7lZc
 * [Q&A: Can you add Floor Holes for Pipes?](./transcriptions/yt-VLvqacnnn5c.md) https://www.youtube.com/watch?v=VLvqacnnn5c
 * [Q&A: Give details about the Fluids?](./transcriptions/yt-CFKUv9FCVms.md) https://www.youtube.com/watch?v=CFKUv9FCVms
+* [Q&A: Update release schedule (part 1)](./transcriptions/yt-xkalDtEeoOY.md) https://www.youtube.com/watch?v=xkalDtEeoOY
+* [Q&A: Update release schedule (part 2)](./transcriptions/yt-vfVo9rCpVtQ.md) https://www.youtube.com/watch?v=vfVo9rCpVtQ
+* [Q&A: Will the update break saves?](./transcriptions/yt-4RrHBOTPcs8.md) https://www.youtube.com/watch?v=4RrHBOTPcs8
 
 #### [August 25th, 2020 Livestream](./2020-08-25.md)
-* [Q&A: ETA for Update 4](./transcriptions/yt-3xgs6Y-ZSe8.md) https://www.youtube.com/watch?v=3xgs6Y-ZSe8
 * [ETA for Update 4? (Mid-stream reiteration)](./transcriptions/yt-tNgHT-JIuvE.md) https://www.youtube.com/watch?v=tNgHT-JIuvE
+* [Q&A: ETA for Update 4](./transcriptions/yt-3xgs6Y-ZSe8.md) https://www.youtube.com/watch?v=3xgs6Y-ZSe8
 * [Q&A: When will the next patch even get released?](./transcriptions/yt-I59oaCtgopI.md) https://www.youtube.com/watch?v=I59oaCtgopI
 
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
@@ -1971,19 +2010,22 @@ date: Last Modified
 * [Q&A: Give FICS⁕MAS back?](./transcriptions/yt-CmQgxVzbXoQ.md) https://www.youtube.com/watch?v=CmQgxVzbXoQ
 
 #### [December 15th, 2020 Livestream](./2020-12-15.md)
-* [Q&A: Will FICS⁕MAS Buildings and items still be in the World after the event is over?](./transcriptions/yt-ospbB7hdDdI.md) https://www.youtube.com/watch?v=ospbB7hdDdI
-* [Q&A: What will happen to the FICS⁕MAS power lines after the event?](./transcriptions/yt-Gt9an2au_YU.md) https://www.youtube.com/watch?v=Gt9an2au_YU
 * [Q&A: If I backup current version, will FICS⁕MAS still work after the 18th?](./transcriptions/yt-01DJ6EPqTk4.md) https://www.youtube.com/watch?v=01DJ6EPqTk4
+* [Q&A: What will happen to the FICS⁕MAS power lines after the event?](./transcriptions/yt-Gt9an2au_YU.md) https://www.youtube.com/watch?v=Gt9an2au_YU
+* [Q&A: Will FICS⁕MAS Buildings and items still be in the World after the event is over?](./transcriptions/yt-ospbB7hdDdI.md) https://www.youtube.com/watch?v=ospbB7hdDdI
 
 #### [December 8th, 2020 Livestream](./2020-12-08.md)
 * [Jace Talk: FICS⁕MAS leaks are not "leaks"](./transcriptions/yt-TOevQ69HYNA.md) https://www.youtube.com/watch?v=TOevQ69HYNA
-* [Q&A: Will Gift Trees continue to produce?](./transcriptions/yt-FqUcLve4Oyc.md) https://www.youtube.com/watch?v=FqUcLve4Oyc
-* [Q&A: What are we going to keep after the event?](./transcriptions/yt-nZjZGFce1lE.md) https://www.youtube.com/watch?v=nZjZGFce1lE
 * [Q&A: How do you get the Advent Calendar?](./transcriptions/yt-LPU9cyNeI7Y.md) https://www.youtube.com/watch?v=LPU9cyNeI7Y
+* [Q&A: What are we going to keep after the event?](./transcriptions/yt-nZjZGFce1lE.md) https://www.youtube.com/watch?v=nZjZGFce1lE
+* [Q&A: Will Gift Trees continue to produce?](./transcriptions/yt-FqUcLve4Oyc.md) https://www.youtube.com/watch?v=FqUcLve4Oyc
 
 ## Speculative
 
 ### [Satisfactory Update 5](./topics/satisfactory-updates/speculative/satisfactory-update-5.md)
+
+#### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: When is Update 5?](./transcriptions/yt-n4H073Xwp-8.md) https://www.youtube.com/watch?v=n4H073Xwp-8
 
 #### [January 26th, 2021 Livestream](./2021-01-26.md)
 * Q&A: How many Updates do you have planned before 1.0? https://www.youtube.com/watch?v=7t2DLBi7kl8
@@ -2052,8 +2094,8 @@ date: Last Modified
 
 ## [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](./transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
-* [Q&A: What gender is the character model?](./transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs
 * [Q&A: What's the final objective of the game?](./transcriptions/yt-xG0mfuXiFY8.md) https://www.youtube.com/watch?v=xG0mfuXiFY8
+* [Q&A: What gender is the character model?](./transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs
 
 ## Characters
 
@@ -2069,13 +2111,16 @@ date: Last Modified
 
 ## [Graphics](./topics/technology/graphics.md)
 
+### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: Do you have any plans to add Ray Tracing or DLSS?](./transcriptions/yt-hRzZjCBoI8s.md) https://www.youtube.com/watch?v=hRzZjCBoI8s
+
 ### [January 26th, 2021 Livestream](./2021-01-26.md)
 * [Q&A: Is ray-trace in planning?](./transcriptions/yt-Rx_M6fLOzvM.md) https://www.youtube.com/watch?v=Rx_M6fLOzvM
 * [Q&A: Lights & Lampposts please?](./transcriptions/yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g
 
 ### [January 19th, 2021 Livestream](./2021-01-19.md)
-* [Q&A: Ever add DLSS at some point?](./transcriptions/yt-PqFAGrVd3M0.md) https://www.youtube.com/watch?v=PqFAGrVd3M0
 * [Q&A: Any Vulkan support?](./transcriptions/yt-9_yf4tON8MM.md) https://www.youtube.com/watch?v=9_yf4tON8MM
+* [Q&A: Ever add DLSS at some point?](./transcriptions/yt-PqFAGrVd3M0.md) https://www.youtube.com/watch?v=PqFAGrVd3M0
 * [Snut Talk: Engine Upgrade - DirectX 12](./transcriptions/yt-2QfjxpKJVIE.md) https://www.youtube.com/watch?v=2QfjxpKJVIE
 
 ### [December 15th, 2020 Livestream](./2020-12-15.md)
@@ -2085,8 +2130,8 @@ date: Last Modified
 * [Q&A: Plans for Ray Tracing?](./transcriptions/yt-pvMET7F9BQ8.md) https://www.youtube.com/watch?v=pvMET7F9BQ8
 
 ### [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Trolling: Ray Tracing](./transcriptions/yt-ow_LpyvCnVo.md) https://www.youtube.com/watch?v=ow_LpyvCnVo
 * [Trolling: Procedural Generation](./transcriptions/yt-bvjKY6CcnLI.md) https://www.youtube.com/watch?v=bvjKY6CcnLI
+* [Trolling: Ray Tracing](./transcriptions/yt-ow_LpyvCnVo.md) https://www.youtube.com/watch?v=ow_LpyvCnVo
 
 ### [November 10th, 2020 Livestream](./2020-11-10.md)
 * [Q&A: Is it true that building vertically equals worse performance than building horizontally?](./transcriptions/yt-BF0MYqw_SpM.md) https://www.youtube.com/watch?v=BF0MYqw_SpM
@@ -2123,6 +2168,9 @@ date: Last Modified
 * [Q&A: Does building Walls around big factories help performance?](./transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4
 
 ## [Linux](./topics/technology/linux.md)
+
+### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: What Operating System will the Dedicated Servers be?](./transcriptions/yt-071RPMJfFJk.md) https://www.youtube.com/watch?v=071RPMJfFJk
 
 ### [December 15th, 2020 Livestream](./2020-12-15.md)
 * [Q&A: Dedicated Server for Windows?](./transcriptions/yt-znK3Ne7dLUc.md) https://www.youtube.com/watch?v=znK3Ne7dLUc
@@ -2174,12 +2222,15 @@ date: Last Modified
 
 ## [Unreal Engine](./topics/technology/unreal-engine.md)
 
+### [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: Update 4 contains the Engine Upgrade?](./transcriptions/yt-WQa938_K6SY.md) https://www.youtube.com/watch?v=WQa938_K6SY
+
 ### [January 26th, 2021 Livestream](./2021-01-26.md)
 * Q&A: Will you tell here the current build limit number considering the Engine Upgrade? https://www.youtube.com/watch?v=WfU45N1EvQ0
 
 ### [January 19th, 2021 Livestream](./2021-01-19.md)
-* [Q&A: Will clearing out all the Biomes increase your garbage limit?](./transcriptions/yt-XcfIWDujsxA.md) https://www.youtube.com/watch?v=XcfIWDujsxA
 * [Q&A: What about Multiplayer Vehicle de-sync?](./transcriptions/yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw
+* [Q&A: Will clearing out all the Biomes increase your garbage limit?](./transcriptions/yt-XcfIWDujsxA.md) https://www.youtube.com/watch?v=XcfIWDujsxA
 * [Snut Talk: Engine Upgrade - DirectX 12](./transcriptions/yt-2QfjxpKJVIE.md) https://www.youtube.com/watch?v=2QfjxpKJVIE
 
 ### [December 15th, 2020 Livestream](./2020-12-15.md)
@@ -2187,12 +2238,12 @@ date: Last Modified
 * [Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update?](./transcriptions/yt-6BahsrvlPJs.md) https://www.youtube.com/watch?v=6BahsrvlPJs
 
 ### [December 8th, 2020 Livestream](./2020-12-08.md)
-* [Snutt Talk: Lights (not) confirmed!](./transcriptions/yt-9VodwDOMBl0.md) https://www.youtube.com/watch?v=9VodwDOMBl0
 * Q&A: When is the Engine Upgrade planned now? https://www.youtube.com/watch?v=kg4OkSCHFNs
+* [Snutt Talk: Lights (not) confirmed!](./transcriptions/yt-9VodwDOMBl0.md) https://www.youtube.com/watch?v=9VodwDOMBl0
 
 ### [November 24th, 2020 Livestream](./2020-11-24.md)
-* [Q&A: Will the Engine Upgrade affect performance?](./transcriptions/yt-S0BQ6HAU2vA.md) https://www.youtube.com/watch?v=S0BQ6HAU2vA
 * [Q&A: Any improvements on build limits?](./transcriptions/yt-eReH6Sdroq8.md) https://www.youtube.com/watch?v=eReH6Sdroq8
+* [Q&A: Will the Engine Upgrade affect performance?](./transcriptions/yt-S0BQ6HAU2vA.md) https://www.youtube.com/watch?v=S0BQ6HAU2vA
 
 ### [November 10th, 2020 Livestream](./2020-11-10.md)
 * [Q&A: Is there a debug command to see how many Objects you are using?](./transcriptions/yt-3Tht0Ap0S8c.md) https://www.youtube.com/watch?v=3Tht0Ap0S8c
@@ -2208,8 +2259,8 @@ date: Last Modified
 * [Q&A: Add RTX?](./transcriptions/yt-KXKJxFYBxos.md) https://www.youtube.com/watch?v=KXKJxFYBxos
 
 ### [September 22nd, 2020 Livestream](./2020-09-22.md)
-* [Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)](./transcriptions/yt-oT2NLP9ZvGk.md) https://www.youtube.com/watch?v=oT2NLP9ZvGk
 * [Q&A: What is the Object Count Limit, and how can we tell in our own game?](./transcriptions/yt-gMq-fPCqGWQ.md) https://www.youtube.com/watch?v=gMq-fPCqGWQ
+* [Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)](./transcriptions/yt-oT2NLP9ZvGk.md) https://www.youtube.com/watch?v=oT2NLP9ZvGk
 
 ### [September 1st, 2020 Livestream](./2020-09-01.md)
 * [Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?](./transcriptions/yt-RyE_hc4huhA.md) https://www.youtube.com/watch?v=RyE_hc4huhA
@@ -2227,8 +2278,8 @@ date: Last Modified
 * Build Limit (Part 6): https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ
 
 ### [May 19th, 2020 Livestream](./2020-05-19.md)
-* [Q&A: Will you be using Unreal Engine 5 for Satisfactory?](./transcriptions/yt-Wy79gUb24es.md) https://www.youtube.com/watch?v=Wy79gUb24es
 * [Q&A: Why can't you just add lights to the game?](./transcriptions/yt-IJdIUISe5S4.md) https://www.youtube.com/watch?v=IJdIUISe5S4
+* [Q&A: Will you be using Unreal Engine 5 for Satisfactory?](./transcriptions/yt-Wy79gUb24es.md) https://www.youtube.com/watch?v=Wy79gUb24es
 
 ### [March 9th, 2019 Livestream](./2019-03-09.md)
 * [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](./transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k
@@ -2240,9 +2291,12 @@ date: Last Modified
 
 # [Trolling](./topics/trolling.md)
 
+## [February 9th, 2021 Livestream](./2021-02-09.md)
+* [Q&A: When is Update 5?](./transcriptions/yt-n4H073Xwp-8.md) https://www.youtube.com/watch?v=n4H073Xwp-8
+
 ## [January 26th, 2021 Livestream](./2021-01-26.md)
-* [Q&A: Will you add drones to Satisfactory?](./transcriptions/yt-pdppJAPp4yA.md) https://www.youtube.com/watch?v=pdppJAPp4yA
 * [Q&A: Can we expect aircraft any time?](./transcriptions/yt-XMIUlTU9xcU.md) https://www.youtube.com/watch?v=XMIUlTU9xcU
+* [Q&A: Will you add drones to Satisfactory?](./transcriptions/yt-pdppJAPp4yA.md) https://www.youtube.com/watch?v=pdppJAPp4yA
 
 ## [January 19th, 2021 Livestream](./2021-01-19.md)
 * [Q&A: Why are Conveyor Belts not powered?](./transcriptions/yt-X2A_DOO7O4c.md) https://www.youtube.com/watch?v=X2A_DOO7O4c
@@ -2252,8 +2306,8 @@ date: Last Modified
 
 ## [November 17th, 2020 Livestream](./2020-11-17.md)
 * [Trolling: Console Support](./transcriptions/yt-OMFvjE8llfs.md) https://www.youtube.com/watch?v=OMFvjE8llfs
-* [Trolling: Ray Tracing](./transcriptions/yt-ow_LpyvCnVo.md) https://www.youtube.com/watch?v=ow_LpyvCnVo
-* [Trolling: Flying Vehicles in Update 4](./transcriptions/yt-E666WdfoeP0.md) https://www.youtube.com/watch?v=E666WdfoeP0
-* [Trolling: Procedural Generation](./transcriptions/yt-bvjKY6CcnLI.md) https://www.youtube.com/watch?v=bvjKY6CcnLI
 * [Trolling: Dedicated Servers](./transcriptions/yt-rS_9SnK_Eag.md) https://www.youtube.com/watch?v=rS_9SnK_Eag
+* [Trolling: Flying Vehicles in Update 4](./transcriptions/yt-E666WdfoeP0.md) https://www.youtube.com/watch?v=E666WdfoeP0
 * [Trolling: Lights](./transcriptions/yt--9gsspVilYk.md) https://www.youtube.com/watch?v=-9gsspVilYk
+* [Trolling: Procedural Generation](./transcriptions/yt-bvjKY6CcnLI.md) https://www.youtube.com/watch?v=bvjKY6CcnLI
+* [Trolling: Ray Tracing](./transcriptions/yt-ow_LpyvCnVo.md) https://www.youtube.com/watch?v=ow_LpyvCnVo

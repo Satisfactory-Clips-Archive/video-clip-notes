@@ -50,13 +50,13 @@ https://www.youtube.com/watch?v=MwKAp32wO_A
 > 
 > but i always forget it like i always
 > 
-> [ __ ] walk down
+>  walk down
 > 
 > like i i live on the fifth floor i walk
 > 
 > down five steps
 > 
-> uh steps of [ __ ] flights of stairs my
+> uh steps of flights of stairs my
 > 
 > swedish brain just like
 > 
@@ -92,7 +92,7 @@ https://www.youtube.com/watch?v=MwKAp32wO_A
 > 
 > exercise
 > 
-> yeah it knows like in [ __ ] like oh
+> yeah it knows like in like oh
 > 
 > you're exercising
 > 

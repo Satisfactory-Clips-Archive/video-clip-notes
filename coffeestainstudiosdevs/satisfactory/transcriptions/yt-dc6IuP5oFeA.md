@@ -26,6 +26,8 @@ https://www.youtube.com/watch?v=dc6IuP5oFeA
 > 
 > specifically i'm fired all right um
 > 
+> [Laughter]
+> 
 > not on youtube though um where uh people
 > 
 > go through like how the trains work
@@ -41,6 +43,8 @@ https://www.youtube.com/watch?v=dc6IuP5oFeA
 > but like
 > 
 > it's part of like this week's uh
+> 
+> [Music]
 > 
 > uh to-do list to fix a bunch of uh train
 > 

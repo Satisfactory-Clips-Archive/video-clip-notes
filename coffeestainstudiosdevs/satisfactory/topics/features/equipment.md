@@ -7,28 +7,31 @@ date: Last Modified
 * [Jetpack](../../topics/features/equipment/jetpack.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## February 9th, 2021 Livestream
+* [Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?](../../transcriptions/yt-5Z5pyzNiaVY.md) https://www.youtube.com/watch?v=5Z5pyzNiaVY
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Will we get two character slots for Jetpacks and Blade Runners](../../transcriptions/yt-YKIN_NCGDpo.md) https://www.youtube.com/watch?v=YKIN_NCGDpo
 
 ## January 19th, 2021 Livestream
-* [Q&A: Will Gases affect health or hurt you if you don't have a hazmat suit?](../../transcriptions/yt-3gHStWkd0oE.md) https://www.youtube.com/watch?v=3gHStWkd0oE
 * [Q&A: Are we getting a new gun with the Gas update like a freeze gun ?](../../transcriptions/yt-eFgO1iuPr20.md) https://www.youtube.com/watch?v=eFgO1iuPr20
-* [Q&A: Why doesn't the Pioneer Helmet integrate a Gas Mask if the atmosphere is unbreathable?](../../transcriptions/yt-2zz08zzXTCU.md) https://www.youtube.com/watch?v=2zz08zzXTCU
 * [Q&A: Drinking Coffee with a Helmet on?](../../transcriptions/yt-RRo4HMCuIxc.md) https://www.youtube.com/watch?v=RRo4HMCuIxc
+* [Q&A: Why doesn't the Pioneer Helmet integrate a Gas Mask if the atmosphere is unbreathable?](../../transcriptions/yt-2zz08zzXTCU.md) https://www.youtube.com/watch?v=2zz08zzXTCU
+* [Q&A: Will Gases affect health or hurt you if you don't have a hazmat suit?](../../transcriptions/yt-3gHStWkd0oE.md) https://www.youtube.com/watch?v=3gHStWkd0oE
 
 ## October 20th, 2020 Livestream
-* [Q&A: When will the Hub get a Plunger?](../../transcriptions/yt--QQmMKZYcjw.md) https://www.youtube.com/watch?v=-QQmMKZYcjw
-* [Q&A: Is there going to be more equipment coming, like Rifle Mk. 2?](../../transcriptions/yt--fXaMAXEY5U.md) https://www.youtube.com/watch?v=-fXaMAXEY5U
-* [Q&A: WTF, there's a Rifle in Satisfactory?](../../transcriptions/yt-WTCjl2Tu39A.md) https://www.youtube.com/watch?v=WTCjl2Tu39A
 * [Q&A: How about that device used to measure stuff on Conveyor Belts?](../../transcriptions/yt-7KXTz-m8424.md) https://www.youtube.com/watch?v=7KXTz-m8424
+* [Q&A: Is there going to be more equipment coming, like Rifle Mk. 2?](../../transcriptions/yt--fXaMAXEY5U.md) https://www.youtube.com/watch?v=-fXaMAXEY5U
+* [Q&A: When will the Hub get a Plunger?](../../transcriptions/yt--QQmMKZYcjw.md) https://www.youtube.com/watch?v=-QQmMKZYcjw
+* [Q&A: WTF, there's a Rifle in Satisfactory?](../../transcriptions/yt-WTCjl2Tu39A.md) https://www.youtube.com/watch?v=WTCjl2Tu39A
 
 ## September 15th, 2020 Livestream
 * [Q&A: Can I wear Boots, Jetpack and a Gas Mask?](../../transcriptions/yt-Gt1ATsmBu6k.md) https://www.youtube.com/watch?v=Gt1ATsmBu6k
 
 ## August 25th, 2020 Livestream
+* [Q&A: Explosive Barrels of Gas we can send through the rail guns ?](../../transcriptions/yt-e4iY6zivsbU.md) https://www.youtube.com/watch?v=e4iY6zivsbU
 * [Q&A: I want to fire Nukes at my rival Pioneers?](../../transcriptions/yt-CQ0vc3uRaw8.md) https://www.youtube.com/watch?v=CQ0vc3uRaw8
 * [Q&A: Why can't we explode some stones in the map?](../../transcriptions/yt-Yhtu3NBv2NM.md) https://www.youtube.com/watch?v=Yhtu3NBv2NM
-* [Q&A: Explosive Barrels of Gas we can send through the rail guns ?](../../transcriptions/yt-e4iY6zivsbU.md) https://www.youtube.com/watch?v=e4iY6zivsbU
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Will Gas Masks be working when you sit in vehicles?](../../transcriptions/yt-qcOfYoEbhVI.md) https://www.youtube.com/watch?v=qcOfYoEbhVI
