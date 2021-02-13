@@ -13,4 +13,5 @@ https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=84&end=93
 
 ### Transcript
 
-> (Sørgeligt musik)
+> But what if I still don't get an alpha key?
+> [ sad piano music ]

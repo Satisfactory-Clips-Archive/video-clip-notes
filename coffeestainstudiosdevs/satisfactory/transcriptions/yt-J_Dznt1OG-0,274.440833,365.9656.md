@@ -25,37 +25,39 @@ https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366
 
 ### Transcript
 
-> Smelteren har lavet jernbarrer.
-> Vi skal bare have dem ud til noget andet.
-> De to bygninger her, er konstruktører,
-> Så jeg forbinder den, med den her konstruktør.
-> Nu kan vi se vores jernbarrer kommer igennem.
-> I den her konstruktør, kan vi finde ud af, hvad vi vil lave.
-> Jeg kan huske at forstærkede jernplader,
-> Skal bruge skruer og jernplader
-> Skruer kræver jernbarrer, det kan vi se hernede.
-> jernrør kræfer jernbarrer,
-> og skruere kræver jernrørene.
-> Så skruerne er en slags 2 step process,
-> Så vi kan prøve at starte med at lave skruer,
-> Vi skal bruge jernrør, først.
-> Her er en anden konstruktør, som jeg har bygget,
-> Jeg sætter den, deri
-> Og så sætter vi den her til, at lave jernrør til skruer.
-> her kommer rørene...
-> Dukan bare samle ting op, herfra, hvis du vil.
-> Så går vi herind i.
-> Og...
-> Fedt, nu producere vi skruer.
-> Det sidste trin for skruerne, er at putte dem in i samlemaskinen.
-> Den har to inputs, dem kan du ser lige der.
-> Så vi tager et transportbånd herfra...
-> Forbinder den her.
-> Og nu har vi skruer der kommer igennem.
-> Super
-> En ting jeg glemte tidligere, var at sætte opskriften.
-> på samlemaskinen, hvilket er de forstærkde jernplader,
-> Jeg klikker på den, den her gang
-> Det betyder at når skruerne når frem, bliver de accepteret som en resource.
-> Vi kan se det her...
-> Her kommer de, ret fedt.
+> has been creating iron ingots we just
+> need to get them out into something else
+> these two buildings here are
+> constructors so I'm gonna plug it into
+> this constructor here we'll see our iron
+> ingots come through okay so in this
+> constructor we need to see what we want
+> to make so now I remember that the
+> reinforced iron plates needed screws and
+> iron plates screws require iron ingots
+> you can see down here iron rods require
+> iron ingots and screws require the iron
+> rods so the screws are like a two-step
+> process right so what we can do is we
+> can start trying to make screws so we'll
+> need iron rods first in this one and
+> then here's another constructor here
+> that I've set up and I'll plug this into
+> there and then we'll set this one up to
+> turn the iron rods into screws okay so
+> here come the rods and you can just pick
+> things up from here as well if you want
+> it's gonna go in here and cool now we're
+> producing screws and the last step for
+> the screws is to put them into the
+> assembler the assembler has two inputs
+> you can see that there so we're gonna
+> grab a conveyor belt from here put it
+> into here and then we'll have screws go
+> through great so one thing I forgot to
+> do earlier is set the recipe for the
+> assembler which is for the reinforced
+> iron plate so I'm gonna click on it this
+> time and what this will mean is that
+> when the screws get here they'll be
+> accepted as a resource so don't see it

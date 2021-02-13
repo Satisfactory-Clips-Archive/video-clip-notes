@@ -21,111 +21,111 @@ https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886
 
 ### Transcript
 
-> Men.
-> Ligenu,
-> Alle vores rør, skruer og plader
-> Bliver lavet til forstærkede jernplader,
-> Men måske vil vi ikke have at de alle sammen gør det,
-> Måske vil vi gerne gemme dem, så vi kan bruge dem senere.
-> Så vi ka tage dem ud af en container, og bygge transportbånd, eller sådan noget.
-> Vi vil nok ikke have dem alle sammen, til at blive konverteret
-> Så hvis det er sagen.
-> Lad s bygge et par containere mere.
-> Container...
-> Du kan se at der er 1 input og 1 output,
-> Den orange, hvor pilene peger ind, er selvfølgelig input
-> Og den aqua, turkis, som peger ud, er output.
->  
-> Så vi bygger en container her, jeg bygger en,
-> Er der plads her?
-> Det bliver lidt stramt.
-> Bygger en her, det her er smukt forresten.
-> Vi kan også bygge ovenpå, så lad os gøre det.
-> Så nu har vi containerne, til det som jeg gerne vil lagre
-> Lad os se om vi kan få dem derover.
-> Noget andet jeg gerne vil demonstrere, er de her...
->  
-> &quot;Conveyor Pole Multi&quot;
-> Der er egentlig bare bæltepæle, i flere lag.
-> Så hvad jeg vil gøre
-> Jeg vil gerne demonstrere dem her.
-> Jeg sætter den her, til nummer 5, i min hotbar,
-> Så laver jeg nogle fordelere, så jeg fordeler, jernrørene,
-> Og jeg opdeler pladerne
-> Og så bygger jeg en Multi Conveyor Pole
-> Her
-> Og så laver jeg en her,
->  
-> og en her,
-> Jeg ved ikke om du kan se, hvad jeg planlægger,
-> Os så sætte jeg den sidste... her måske.
-> Okay
-> Og nu kan jeg starte med at spltte den heri,
->  
-> Vi kan splitte den her, herop i,
-> Nu har vi det her, seje lille system kørende.
->  
-> Jeg tror faktisk at jeg forudser et problem her...
-> Fordi jeg er også nødt til at splitte...
-> Jeg er også nødt til at splitte her, men ikke kun det.
-> Det her bliver lidt svært, med det her transportbånd,
-> Med hensyn til at komme igennem,
-> Det ser ud til at den virker her faktisk,
-> Men en ting, der nok er mere sikkert, er hvis jeg lige piller dem her ned igen,
-> Og jeg får de plader, som der lå på dem.
-> Bare rolig
-> Istedet for de er på samme etage,
-> Tager jeg den nederste bånd, og sætter det på den mellemste.
-> Tager det miderste bånd, og sætter det til oppe i toppen,
-> Nu er det meget mere sikkert, iforhold til at kunne komme forbi hinanden,
-> Nu er der ikke nogle problemer der.
-> Nu kommer de forbi hinanden nemt.
-> Så kan jeg tage fat i skruerne,
-> og forbinde dem herind i.
-> Nu har vi alle 3 resourcer.
-> Så kan vi nok godt...
-> Bare for at demonstrere det, laver jeg bare en til...
-> ting her, så du kan se at du kan...
-> sætte alle 3 lag op,
-> og så sender jeg skruerne herind i,
-> og jeg sender mine, jeg tror nok det var plader...
-> Herned i, og mine rør, kan komme herop.
-> Nu har jeg alle 3 resourcer,
-> Der er stiger herpå, så jeg klatre herop på.
-> Nu har jeg mine 3 resourcer der bliver sendt ind i deres respektive containere
-> En ting, jeg ikke har demonstreret,
-> Er Transportbånd samlere,
-> og det gør jeg nu.
-> De her containere, kan holde mere end 1 slags ting,
-> Så måske vil vi bare gerne lagre alle 3 ting, i 1 container,
-> Det ville jeg personligt ikke gøre,
-> men uhm..
-> Men bare for at demonstrere det, kan vi godt.
-> Så hvis jeg laver en &quot;Conveyor merger&quot;
-> Og jeg håber...
-> At jeg har nok plads til det her.
-> Det finder vi ud af.
-> Jeg bygger den der,
-> Så tager vi den her rundt...
-> Den her kan komme herned,
-> og den øverste,
-> Vil du ikke nok virke, jep, den sætter vi der.
-> Så nu er alle...
-> Vi løber tør for plads
-> Nu fordre vi alle båndene ind i samleren.
-> Hvis jeg tager den, sætter den herind i.
-> Så burde alle de resourcer komme igennem,
-> Så vi har skruer, vi har plader, skruer, plader rør, skruer, rør
-> Så de kommer alle ud, og de kommer ind i den her container.
-> Som jeg sagde tidligere, jeg ville ikke gøre det her,
-> Jeg foretrækker at have dedikerede containere,
-> Fordi det her ville fylde op hurtigere nu,
-> Med mange forskellige ting, når du jo bare kan
-> have mere plads, med flere containere.
->  
-> Så det er samleren,
-> det der er &quot;Multi level poles&quot;
-> grå pæle, jeg tror vi har dækket alt nu.
-> Så lad os se hvor mange forstærkede jernplader vi har nu.
-> Vi har lavet 13, den er meget langsom.
-> jeg er sikker på at andre derude, kan få den her til at kører meget hurtigere.
+> screws and plates are being turned into
+> reinforced iron plates but maybe we
+> don't want all of them to go with that
+> maybe we want to store some of them that
+> so that we can use it later we can come
+> and take it out of storage and build
+> some conveyor belts or something we may
+> not want all of them to be converted so
+> if that's the case let's yeah let's
+> build a couple more storage containers
+> here storage container and one thing to
+> note here is you can see that there's
+> one input in one output and the orange
+> form with the arrows pointing in that's
+> obviously the input and then the aqua
+> turquoise one pointing out is the output
+> so I'm going to build a storage in here
+> I'm gonna build one ring here it's gonna
+> get a little tight though let's build
+> one somewhere else look this one here
+> this is beautiful by the way and we can
+> also build on top so let's do that so
+> now we have the storage containers for
+> what I want to store let's try and get
+> them over there so something else that I
+> want to demonstrate are these can vary a
+> poll multi like multi-level conveyor
+> poles basically so what I'm gonna do
+> yeah I want to demonstrate these so what
+> I'm gonna do is I'm gonna set this to
+> number five on my health bar and then
+> I'm gonna create some splitters so I'm
+> gonna split the iron rods and I'm gonna
+> split the plates and I'm gonna build a
+> multi canary Pole thing here and then I
+> guess I'll do one here
+> and I'll do one here hoping you can see
+> what I'm planning and then I'll put this
+> last one like here maybe okay and now I
+> can start we'll just flip that into here
+> we just whip this one into here now
+> we've got this little cool little system
+> going on and in fact I think I'm
+> foreseeing a problem here because I also
+> need to split I also need to split here
+> but not just that this is gonna be kind
+> of tricky for this conveyor belt to get
+> through I guess it does work there but
+> one thing that might even be safer is if
+> I were to dismantle these and I get the
+> plates that were on them there once
+> instead of keeping on the same level I
+> might take the bottom level put it to
+> the middle take the middle level put it
+> to the top and now it's much safer in
+> terms of clearance of getting over this
+> conveyor belt so there's no issue there
+> and yeah they clear that quite easily
+> and then I can grab the screws and I can
+> plug that into here and now we have our
+> three resources and yeah so then what we
+> could probably do just for demonstration
+> purposes I'm just gonna do another thing
+> here so you can see you can set up all
+> three of your layers and then I'm gonna
+> just send the screws into here I guess
+> and I'm gonna send my I think that with
+> plates down here and my rugs okay and so
+> now I have my three resources and
+> there's ladders on here so I'm gonna
+> climb up here now I have my three
+> different resources coming into their
+> respective storage containers now one
+> thing I haven't demonstrators are
+> conveyor belt merges which and I'll do
+> that now for example these storage
+> containers they it's not as if they can
+> only hold one type of thing so maybe we
+> want to just store all three in one
+> storage container personally I wouldn't
+> do that
+> but let the demonstration purposes we
+> can do that okay so now if I make a
+> conveyor merger and I hope I give it
+> enough space for this we're gonna find
+> out I'll do that there we take this to
+> come around like that
+> this one you come down here
+> let's help them please work yep I'm in
+> there so now all running out of space so
+> all of these are being fed into the
+> merger if I grab that stick in here and
+> all of those resources should come
+> through this we've got screws we got
+> plates screws plates rugs freeze rods so
+> they're all coming out and they're all
+> going into this storage container and
+> like I said I personally wouldn't do
+> that I'd prefer to have dedicated
+> storage containers because essentially
+> this is gonna fill up quicker now
+> with various things when you could just
+> store more across different storage
+> containers yeah so that's the merger
+> those are the multi-level poles gray
+> poles I think that's everything covered
+> so now let's see how many reports are in
+> place we got two we have 13 this is very

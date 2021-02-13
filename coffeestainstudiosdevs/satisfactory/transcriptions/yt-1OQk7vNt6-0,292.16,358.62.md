@@ -15,27 +15,37 @@ https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=292&end=359
 
 ### Transcript
 
-> Men det er desværre alt den tid vi har idag, så mange ta... &quot;Udgivelsesdato!&quot;
-> Nå ja, udgivelsesdatoen.
-> Aplhaen begynder...
-> Onsdag d. 17 oktober
-> Så det er om 2 uger.
-> Men den sædvanlige advarsel, Praktisk talt hvad som helst kan ske (Simon)
-> Som skubber det tilbage.
-> Vi tror virkelig ikke at det vil ske. Vi er ret selvsikre og låst på den dato
-> Øhhh...
-> Men forhåbeligt sker der ikke noget uforventet (Simon)
-> Som vil skubbe det tilbage. Jeg tror vi er kørende.
-> På grund af udgivelsen, kommer vi ikke...
-> Til at ligge nogle onsdags videoer ud, i næste uge.
-> Så jeg kan fokusere på at programere for at hjælpe min gruppe
-> Og vi ligger ikke nogle onsdagsvideoer ud ugen efter
-> Fordi at det vil være alphaen, og det vil være Onsdagsopdateringen.
-> Vedrørende den fulde udgivelsesdato af spillet, har vi ikke nogen ide om.
-> Det kommer virkelig an på hvad for en slags feedback vi får, og hvad vi skal gøre for at gøre spillet bedre.
-> Det er et meget stort spil, med mange bevægende dele, og
-> Og vi er et ret lille hold
-> Så til en vis grad SKAL vi arbejde med samfundet.,
-> For at gøre spillet bedre
-> Så det kommer nok til at være i den her tidlig adgang stadie, i et stykke tid,
-> Og ja, så arbejder vi med jer, for at gøre det bedre.
+> and that's all the time we have today.
+> So thank you very...
+> REALEASE DATE!!
+> Oh, yeah, the release date.
+> The Alpha will begin on
+> Wednesday the 17th of October,
+> so that's in two weeks.
+> However, of course the usual disclaimer:
+> literally anything can happen to push it back
+> We really don't think that's gonna happen. 
+> We're pretty confident and set on that date,
+> but hopefully, nothing unexpected
+>  happens to push it back,
+> but I think we're good.
+> And then because of the release,
+> we're not gonna be releasing any 
+> Wednesday content next week,
+> so that I can just focus on programming 
+> to help the team out and
+> we're not going to release any
+> Wednesday content the week after
+> because that will be the Alpha,
+> that's kind of went at Wednesday content.
+> As for the full release date of the game, 
+> we have no idea,
+> it really depends on what kind of feedback we get, and
+> what we need to make the game better.
+> It's a really big game with many moving parts
+> and we're pretty small team.
+> So I think it's, to some degree,
+> we must work with the community
+> to make the game better.
+> So it may be in some kind of like
+> early accessy kind of state for some time,

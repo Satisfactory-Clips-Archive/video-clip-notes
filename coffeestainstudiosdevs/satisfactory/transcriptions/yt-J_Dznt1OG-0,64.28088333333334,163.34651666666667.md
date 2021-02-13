@@ -33,37 +33,42 @@ https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
 
 ### Transcript
 
-> Transportbånd, lad os gøre det
-> Jeg har lavet et lille scenarie her,
-> Af  nogle bygninger, som jeg selv har bygget.
-> og hvad vi vvil prøve at gøre, er...
-> Målet i dette scenarie, er at lave,
-> Forstærkede jernplader
-> De er tilgængelige i samlemaskinen her.
-> Så for at lave forstærkede jernplader, skal vi bruge plader, og skruer.
-> Jernplader og skruer.
-> Så det er hvad vi skal lave.
-> men før vi kan lave noget som helst, skal vi bruge resourcer.
-> og det her er en miner, som sider oven på noget jernmalm
-> Hvis vi åbner for den, laver den ingenting, fordi den ikke har strøm, selvfælgelig. så...
-> lad os lave noget strøm
-> Vi går ind i strøm, tager en biomasse forbrænder.
-> Så sætter vi den her.
-> Okay. Hvis vi kigger herinde,kan vi se at den ikke har noget brændstof, så den har slevfølgelige brug for det.
-> Så nu løber jeg rundt, og samler nogle blade op.
->  
-> Det her er ikke..
-> Det enste du kan putte ind i en biomasse brænder
-> Men det er....
-> huh..
-> Men det er det jeg putter deri lige nu.
-> Det er nok også det du vil gøre i starten af spillet, bare løbe rundt og samle blade op, og putte dem ind i biomasse brænderen.
-> Lad os putte nogle heri. Jeg har brug snyd, til at få mit brændstof, til at varer forevigt.
-> Så kører vi.
->  
-> Du kan se der er et grønt lys herpå
-> Fordi den virker.
-> og den der har et rødt lys.
-> Hvis vi sætter strømledningen, ind i mineren,
-> Så kan vi se at lyset er blevet grønt, og animationen er startet.
-> Og den går igang med at grave jernmalm
+> on with it
+> conveyor belts let's do the thing I've
+> created a little scenario here of some
+> buildings that I've just kind of put
+> down for myself and what we're going to
+> try and do is the goal for this scenario
+> is to create reinforced iron plates and
+> these are available in the assembler
+> here and so what we need fill reinforced
+> iron plates are plates and screws iron
+> plates and screws so that's what we need
+> to make and so before we can make
+> anything we need resources and this is a
+> miner sitting on top of some iron ore
+> and if we open that up it's not doing
+> anything because has no power of course
+> so let's make some power go down to
+> power a biomass burner and we'll put
+> that out here like this
+> okay cool we have it we have a look in
+> here it has no fuel so of course we need
+> some fuel so I'm gonna run around and
+> just pick up some leaves this isn't the
+> only waited the only thing you can put
+> into a by mass burner but it is what huh
+> but it is what I'm gonna be putting in
+> there for now and that's probably what
+> you're gonna be doing in a bidding
+> begining of the game just grabbing
+> leaves and then putting them into the
+> biomass burner so let's put some in here
+> I'll use cheats to make my fuel lasts
+> for you know like ever so here we go
+> let's plug the and you can see that's
+> like a green light on here now because
+> it's working and that one has a red
+> light so we plug the power line into the
+> minor and we could see the light is gone
+> green and the animations have started

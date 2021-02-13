@@ -25,54 +25,63 @@ https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516
 
 ### Transcript
 
-> Okay, nu skal vi have jernplader, ind i samlemaskinen.
-> Vi skal bruge en konstrukør mere, for at gøre det.
-> og de kræver jernbarrer,
-> Hvis vi havde en resource node mere her,
-> Så kan vi bygge to miner, to smeltere, og gøre det sådan, eller...
-> Vi kan.. lad os se, hvor er den?
-> Vi kan opdele transportbåndene, vi har barrer her,
-> Så laver vi et split her,
-> Så kan vi forbinde den hertil.
-> Jeg glemte at sige, at du kan bygge en opdeler, hvor som helst, og forbinde dig til den senere.
-> Men hvis du kigger direkte på et transportbånd,
-> Låser den sig
-> Som i kan se der.
-> og så bygger den bare ovenpå. Okay cool, vi har barrer der kommer ud, at to udgange nu.
->  
-> Vi har ikke sat den her til at lave jernplader endnu, så jeg klikker bare derpå..
-> Nu acceptere den barrerne, og går igang med at lave jernplader.
->  
-> Nu skal vi have den der, dertil.
->  
->  
-> Vi kan ikke rigtig gå igennem de andre bånd
->  
-> Vi kan gå rundt om, gætter jeg på...
-> Du har nok lagt mærke til at transportbånd, kun koster jernplader,
-> Men du kan også se jernrør, og cement som en pris, i midten af skærmen der,
-> og grunden til det er...
-> Den her lille pæl du kan se,
-> Den skal du også betale for,
-> Transportbånd, skal være forbundet til enten bygninger, eller transportpæle.
-> Så hvis jeg bygger det, laver den et bånd, men også en pæl,
-> På samme måde som strøm kabel, og elmaster virkede lige før.
-> Jeg kan selvfølgelig også bare bygge en pæl selv, hvis jeg vil det.
-> og det fede ved det, er at de kan være i forskellige højder,
-> Så jeg laver en der er så høj,
-> og når jeg vil forbinde et transportbånd til den,
-> Så vil prisen opdatere, så du kun skal bruge jernplader.
-> De koster også mere,
-> jo længere du bygger dem.
-> Du kan se at numrene opdatere, når jeg rykker tætter på og længere væk.
-> De har også en maks længde,
-> Du kan se derover, men du kan ikke bygge der,
-> Du bliver nødt til at gøre det i flere stadier.
-> Så jeg bygger en mere...
-> Bæltepæl der,
-> Færdigøre forbindelsen.
-> og nu vil alle vores jernplader...
-> langsomt finde deres vej, over til samlemaskinen,
-> og vi ved allesammen, at mennesekr bevæger sig hurtigere på transportbånd, end mennesker gør.
->  
-> Det er noget vi alle kan være enige i.
+> so now we need to get iron plates into
+> the assembler so we need another
+> constructor to do that and they require
+> iron ingots and you know if we had a
+> different resource node here we could
+> build two miners two smelters and just
+> do it like that or we can just do let's
+> see where's it we could just split the
+> conveyor belt so we've got ingots here
+> we just do a split here and I can just
+> snap that on here and just the thing I
+> forgot to mention that you can you can
+> build the splitter anywhere you want and
+> then like attach to it later but if you
+> look directly out of convey about it it
+> snaps as you can see there and then it
+> just built themselves so cool we've got
+> ingots going out to different ways
+> fantastic we haven't set this one up
+> just make plates yet so I'll click on
+> that and now it's accepting the ingots
+> and creating iron plates okay now we
+> have to get this to there so we can't
+> not really go through the other belts we
+> can go around I guess and you also
+> notice that conveyor belts cost actually
+> just iron plates but you'll see iron
+> rods and cement in the middle of the
+> screen there as a cost and the reason
+> for that is this little pole thingy that
+> you can see that's the the reason
+> because you have to pay for that as well
+> conveyor belts must be connected to
+> either buildings or conveyor poles so if
+> I make that it creates the pole and the
+> conveyor belt in the same way that the
+> power line and the power pole and the
+> power lines worked before but of course
+> I can just build a pole myself if I like
+> and clipping about poles is they could
+> be different heights so I'll make one
+> that high and when I go to connect the
+> conveyor belt to it the the cost will
+> update so it just shows that you only
+> need plates
+> other thing about conveyor belts is they
+> cost more how for however however far
+> you want to build them so you can see
+> the number updating as I move closer and
+> further away and they also have a max
+> lint length so you know you can see over
+> there but you can't build there it's too
+> long you have to do it in multiple steps
+> so I'm gonna build another very pole
+> there and finish the connection like
+> that and now all about iron plates are
+> gonna slowly make their way to the
+> assembler and by the way we all know
+> that people move quicker on conveyor
+> belts than metal does okay we this is

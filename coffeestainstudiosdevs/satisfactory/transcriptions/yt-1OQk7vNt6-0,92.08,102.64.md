@@ -13,7 +13,9 @@ https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=92&end=103
 
 ### Transcript
 
-> Det kommer virkelig an på den feedback vi modtager, der styrer.
-> Hvordan alphean kommer til at kører.
-> Vi kommer til at være meget aktive.
-> Så det er ret svært at svare på spørgsmålet.
+> How long will the Alpha last?
+> It really kind of depends, the feedback
+> we get is really gonna dictate
+> how the Alpha really is gonna run.
+> We're going to be very reactive.
+> So answering this question is kind of hard.

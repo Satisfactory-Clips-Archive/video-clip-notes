@@ -15,20 +15,27 @@ https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=147&end=197
 
 ### Transcript
 
-> !Vil alphaen være singleplayer, eller multiplayer?&quot;
-> Vi sagde tidligere at der ville være multiplayer i alphen, og det vil der stadig.
-> Men i begyndelsen, fokusere vi kun på singleplayer, og den første time af spillet,
-> for at gøre det en god oplevelse.
-> Vi vil specifikt kun have feedback fra det.
-> Du kan selvfølgelig spille, udover det,
-> Så længe du vil, og det stadig er sjovt.
-> Men vi vil virkelig gerne have feedbacken, fra den første times spilletid.
-> Multiplayer introducere mange fejl, og nedbrud.
-> Og det vil nok bare distrahere os fra, den feedback vi virkelig har brug for, i starten.
-> Så vi undviger den information.
-> Men, vi vil introducere multiplayer senere
-> Vi har virkelig brug for at teste det, være sikker på at det er stabilt.
-> Være sikker på at spillet er sjovt, når du spiller med venner.
-> Så det skal nok komme, bare lidt senere.
-> Vi prøver ikke at gemme, at vi ikke har multiplayer. Det har vi.
-> Det handler bare rigtig meget, om singleplayer feedback lige nu.
+> Will the Alpha be single-player or multiplayer?
+> We did previously say that
+> there would be multiplayer in the Alpha
+> and it's still will, but in the beginning we're just
+> going to be focusing on single-player
+> and the first hour of gameplay and
+> making that a solid experience.
+> I mean, we just specifically want feedback for that.
+> Of course, you can play the game beyond that,
+> as long as you like and it's still very fun,
+> but we're really really off to that feedback of the first hour of gameplay.
+> Multi-player introduces a lot of bugs 
+> and crashes and whatnot,
+> and that will probably just
+> distract us from the feedback
+> we really really need in the beginning.
+> So that's you know, so we're cutting it out.
+> However, we will introduce multiplayer later.
+> We really do need to test it and make sure it's stable,
+> make sure the gameplay is fun
+> when you're playing with friends,
+> so that will come, just a little later.
+> And we're not trying to hide the fact that
+> we don't have multiplayer, we do,

@@ -23,41 +23,49 @@ https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275
 
 ### Transcript
 
-> Så inden Jernmalmen kommer ud, lad os...
-> tage et transportbånd, nede i bunden, jeg har en hotbar.
-> Jeg har transportbånd på &quot;3&quot; så jeg trykker bare på 3,
-> Tager den der, og placere den der.
-> Nu har vi et transportbånd, og alt jernmalmen, spytter ud.
-> Hvor spændene.
-> Okay sejt, det her er en smelter.
-> og heri skal vi smelte
-> malm til barrer, og vi skal vælge en opskrift.
-> fordi at smeltere kan lave mere end jern barrer.
-> De kan bare kun lave barrer i det her eksempel.
-> Så jeg klikker bare på den opskrift, og den viser at den vil lave jernmalm, til barrer.
-> Men der sker ikke noget,
-> Den tager faktisk slet ikke noget ind... Hvorfor?
-> Nåå på grund af strøm, den skal bruge strøm.
-> åhh den så jeg ikke komme.
-> lad os sætte den op til biomasse brænderen.
-> men jeg kan ikke lave et strømkabel
-> Det er fordi at bygninger kun har et tilslutningssted.
-> Så den der skal væk.
-> Se nu kan jeg forbinde igen.
-> du kan se den her store elmast hologram her.
-> Hvis jeg kigger på jorden, er den der også.
-> Og den vil bygge en elmast, og forbinde den med...
-> strømkablet
-> Det fede ved elmaster, er at de har op til 4 forbindelser.
-> Det har den her.
-> Så herfra, kan jeg bygge kabler op til mineren, og en anden op til smelteren.
-> Og nu virker smelteren.
-> En ting du skal tænke på, at der nu kun er 1 udtag tilbage, på den her elmast.
-> Så jeg kan godtt lide at bygge en elmast mere.
->  
-> Nu er den fyldt, men vi har 3 udtag mere.
-> Så vi kan vel lige så godt, bare tilslutte alt, lige nu.
-> Nu hvor vi har snakket om elmaster.
-> Jeg bliver nødt til at sætte en mere, herude.
-> Sætte en derpå, og jeg har en bygning herovre også.
-> Nu burde vi være godt kørende med strøm, i denne demonstration.
+> let's grab the conveyor belt down the
+> bottom I've got a hot bar and I've got
+> the conveyor belt on three so I just
+> press three I grabbed that there and I
+> place it in here and we get a conveyor
+> belt and all the iron ore just spilling
+> out Wow exciting okay cool so now this
+> is a smelter and in the smell - we need
+> to smelt or into ingots and we have to
+> choose a recipe because not always
+> smells can do more than just iron ingots
+> they can only just do that here in this
+> example so I'm just gonna click that
+> recipe and it shows that it needs iron
+> ore it'll turn it into iron ingots but
+> nothing's happening in fact it's not
+> even taking anything in why oh because
+> of power fancy that it needs power Oh
+> didn't see that coming
+> all right so let's hook it up to the
+> biomass burner well I can't seem to make
+> a power line that's because buildings I
+> only have one attachment point so we
+> have to get rid of that and see now I
+> can connect again but you can see that
+> there's like this big power pole
+> hologram here I look at the ground it's
+> there as well and what that'll do is
+> it'll build a power pole and connect it
+> with the power line and the cool thing
+> about power poles is they are up to four
+> connections this one does and so from
+> here I could just build power line
+> to the minor and then another one out to
+> the smelter and now the smelter is
+> working one thing to consider though is
+> that there's only one more output on
+> this power pole so what I like to do is
+> I like to just build out another power
+> pole so now that one's full but we have
+> three more there so we might as well
+> just hook everything up I guess for now
+> now that we've talked about power poles
+> I have to drag one more out here put one
+> on that one and I have a building over
+> here as well

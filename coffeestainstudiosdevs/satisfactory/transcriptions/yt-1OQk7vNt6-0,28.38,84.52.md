@@ -13,20 +13,30 @@ https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=28&end=85
 
 ### Transcript
 
-> &quot;Hvor mange mennesker, bliver udvalgt til alphaen?&quot;
-> I starten, acceptere vi kun 200 mennesker
-> Det er ikke særlig mange mennesker, vi ved det, vi ved det.
-> Men vi hæver det, meget meget hurtigt.
-> Grunden til at vi kun tager 200 i starten,
-> Er fordi vi bare lige vil være sikre på at alle vores systemer er på plads.
-> og for at samle feedback, alting virker som det skal.
-> Og så snart det er det, henter vi bare flere fok ind efter det.
-> Forhåbeligt tager det ikke alt for lang tid, så vi kan få flere mennesker ind, så hurtigt som muligt.
-> Og på den anden side af det, hvis alting går i vasken
-> Så kan vi enda være bødt til at stoppe alphaen, lave en masse ting om, og så genstarte den senere.
-> Vi er egtenlig bare nødt til at reagere, på det der sker. Fordi vi har ikke rigtig nogen ide, om hvad der kommer til at ske.
-> Også som nævnt tidligere, jeg tror det var en Q&amp;A.
-> Alphaen kommer til at være i stadier.
-> Og en ting om stadierne er, at når de bliver udgivet en efter en, tager vi flere mennekser ind.
-> Så, hvis du ikke fik adgang fra starten.
-> Kommer du måske ind på en af de stadier.
+> How many people will be selected for the Alpha?
+> So in the very beginning we're only gonna be accepting
+> 200 people.
+> That's not a lot of people, but we're going to be increasing that very very quickly.
+> The reason we're taking just
+> 200 people in the very beginning is
+> we just want to make sure
+> all of our systems are in place,
+> dispatching keys are in place, gathering feedback,
+> all that stuff is working fine
+> and as soon as it is
+> we're just gonna bring more people in after that, and hopefully that won't take too long
+> so we can get more people in as soon as possible,
+>  and you know,
+> on the flip side of that is
+> if everything goes to shit
+> it may even be that we have to stop the Alpha,
+> put out some fires and then restart it later.
+> We really just have to react to what's going on,
+> because we have no idea really
+> what's gonna happen,
+> and also as mentioned in a previous,
+> I think it was a Q&amp;A,
+> the Alpha will actually be in stages,
+> and one of the things about the stages is
+> as those stages progress
+> we're going to be taking more people in as well.

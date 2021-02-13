@@ -23,20 +23,20 @@ https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569
 
 ### Transcript
 
-> Okay, så hvis pladerne er der,
-> De er der næsten-
-> Så vil vi have,
-> Forstærkede jernplader, produceret.
-> 3 er alt hvad jeg skal bruge.
-> 3 okay, nu producere vi en jernplade
-> Okay, så.
-> Vi burde være stolte over vores arbejde idag,
-> Så lad os bygge et transportbånd, over til den her container.
->  
-> SOm jeg har bygget inden.
-> Så nu har vores forstærkede jernplader et sted at bo.
-> Så det her er min container, kun til forstærkede jernplader.
-> Den vil langsomt fylde sig op med plader, mens jeg går rundt på opdagelse.
-> Folk derude, som er vandt til fabriksspiil, kan allerede se,
-> Kæmpe problemer med dårlig effektivitet.
-> Men det kan i selv løse.
+> they almost are then we will have
+> reinforced iron plate being created
+> let's go let's go let's go to three
+> that's all we need three okay now we're
+> producing an iron plate so you know we
+> got to be proud of our work to here
+> today you know so let's let's build a
+> conveyor belt over to this storage
+> container which I have strategically set
+> up before to that our reinforced iron
+> plate has a home to live in
+> so this will be my storage container all
+> for reinforced iron plates as I go and
+> explore this is gonna slowly fill up
+> with reinforced iron plates people out
+> there who had used to factory games can
+> already see massive issues with

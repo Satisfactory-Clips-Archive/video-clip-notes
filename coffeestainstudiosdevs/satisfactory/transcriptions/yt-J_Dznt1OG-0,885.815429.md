@@ -13,23 +13,24 @@ https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=885
 
 ### Transcript
 
-> Er der andet, jeg tror det er det.
-> jeg håber at det har været interresant, jeg hopper herop.
-> Jeg håber at det blev mere klart, hvordan transportbåndene, kommer til at virke.
-> I Satisfactory,
-> Vælge opskrifter og bygninger,
-> Strømfordeling.
-> Vi har gennemgået en masse fede ting, og jeg håber at du syntes det var fedt.
-> Så det opligatoriske ved enden, af alle youtube videoer.
-> Følg os på vores sociale medier, smadre like knappen, klokken, subscribe, alt det der.
-> retweet, tilslut dig Discord,
-> alt det gode, der giver mig Runescape experience,
-> Det ved vi alle nu
-> Vær sød at gøre alt det,
-> Nøgler er ude på mandag!
-> Vi sender skemaer ud idag, og imorgen
-> Tjek jeres email, send dem ind, så hurtigt som muligt.
-> farvel allesammen, vi ses næste gang, farvel!
-> (Akavet grin) :D
-> Undertekster af: Jonas Dahl Jeppesen
-> (づ｡◕‿‿◕｡)づ
+> anything else I think that's it okay
+> well I hope that this was interesting
+> I'll jump up here I hope that this
+> clears up how the conveyor belts may
+> work in satisfactory selecting recipes
+> and buildings distributing power I think
+> we covered a lot of cool things and I
+> hope you really enjoyed that
+> so the obligatory stuff at the end of a
+> YouTube video follow us on all the
+> social media things smash the like
+> button the bell to subscribe all that
+> stuff retweet join discord all the good
+> stuff it gives me R inscape experiments
+> we know all this now please do all that
+> and yeah keys out on Monday gonna send
+> out surveys today and tomorrow check
+> your email send those in as soon as you
+> can okay bye everyone
+> I'll see you next time bye
+> you

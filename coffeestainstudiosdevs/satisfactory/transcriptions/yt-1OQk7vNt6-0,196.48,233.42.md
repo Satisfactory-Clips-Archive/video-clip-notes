@@ -19,17 +19,22 @@ https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234
 
 ### Transcript
 
-> &quot;Vil alle funktioner være tilgængelige i alphaen?&quot;
-> Det vil ikke være alt, der er tilgængeligt i alphaen.
-> Det kommer kun til at være tidlig og mid game funktioner
-> Vi gemmer alt udstyret og funktionerne fra slutspillet.
-> Så i kan se det lidt senere
-> Vi vil også gerne se hvordan spillet virker, i skiftet mellem tidlig og mid spil.
-> Stadierne i alphaen kommer også til at fokusere på startpunkter.
-> Det betyder ikke at banen er lukket af.
-> Men vi vil virkelig gerne starte dig i et område,
-> Hvordan spiller de der,
-> og hvordan udvikler spillet sig, i det område.
-> og så flytte dig til en anden, og flytte dig til en anden.
-> Men hvis du vil have en gåtur til den anden side af banen og starte der,
-> Det kan du bare gøre som du vil.
+> Will all the tech be available in the Alpha?
+> Not all the tech will be available,
+> it'll be the early and mid-game tech only,
+> we're hiding away the late game stuff
+> so that you can see it a little later.
+> And also we want to see, you know,
+> how the gameplay works,
+> from transition from early to mid-game.
+> The stages of the Alpha will also
+> focus on starting points,
+> that doesn't mean the map is not cut off
+> but we really want to start you in one area,
+> and see how do they play there,
+> and how does the game develop
+> in that starting area,
+> and then move you to a different one,
+> and then move you to a different one.
+> But if you want to go for a walk to
+> the other side of the map and start there,

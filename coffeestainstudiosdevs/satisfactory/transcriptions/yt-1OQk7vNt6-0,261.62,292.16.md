@@ -17,12 +17,17 @@ https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=261&end=293
 
 ### Transcript
 
-> Vil spillet bliver oversat til andre sprog?
-> Vi har planer om at bruge fællesskabsdrevet oversættelser.
-> Så i kan hjælpe os med at oversætte spillet,
-> Til andre sprog
-> Men vi kommer ikke til at have det, fra starten af.
-> Vi håber virkelig på at vi kan tilføje det til aphaen, på en af det stadier.
-> Fordi at vi ved vi har mange ikke engelsk snakkende samfunde, forskellige steder i verden.
-> Så vi vil gerne kunne tilbyde dem spillet på deres eget sprog.
-> Vi havde egtenlig planlagt at implimentere det, i alphaen fra starten af, men
+> Will the game be localized into other languages?
+> We plan on using community-driven translations
+> so that, you know,
+> you guys can just help out with any translations
+> that we want into any language.
+> But we will not have it at the very beginning,
+> We're really hoping to add it into the Alpha,
+> at one of those stages
+> because we know that we have a lot of different communities
+> in non-english speaking locations in the world,
+> so we would like to provide the game
+> in their language.
+> We actually planned to have it in the Alpha
+> from the beginning but
