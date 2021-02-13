@@ -11,6 +11,7 @@ date: Last Modified
 * Q&A: Is there a plan for automatize the base defense? https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4
 
 ## January 19th, 2021 Livestream
+* [Q&A: We know you love Tower Defense?](../../../transcriptions/yt-PGEl3bXKEnw.md) https://www.youtube.com/watch?v=PGEl3bXKEnw
 * [Snutt & Mark Talk: We will not be adding tower defense](../../../transcriptions/yt-hq02irf8xGM.md) https://www.youtube.com/watch?v=hq02irf8xGM
 
 ## December 15th, 2020 Livestream
@@ -18,6 +19,9 @@ date: Last Modified
 
 ## December 8th, 2020 Livestream
 * [Q&A: Will there be any Base Defense?](../../../transcriptions/yt-5-8ACtMU2_E.md) https://www.youtube.com/watch?v=5-8ACtMU2_E
+
+## November 17th, 2020 Livestream
+* [Q&A: Can we get Mobs that spawn near you and attack you?](../../../transcriptions/yt-oYtdJ9Dss64.md) https://www.youtube.com/watch?v=oYtdJ9Dss64
 
 ## November 10th, 2020 Livestream
 * [Q&A: Is there something you'll never add to the game that you recommend Modders add instead?](../../../transcriptions/yt-6RV2jnHyFvI.md) https://www.youtube.com/watch?v=6RV2jnHyFvI

@@ -1330,6 +1330,7 @@ date: Last Modified
 * Q&A: Is there a plan for automatize the base defense? https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4
 
 #### [January 19th, 2021 Livestream](./2021-01-19.md)
+* [Q&A: We know you love Tower Defense?](./transcriptions/yt-PGEl3bXKEnw.md) https://www.youtube.com/watch?v=PGEl3bXKEnw
 * [Snutt & Mark Talk: We will not be adding tower defense](./transcriptions/yt-hq02irf8xGM.md) https://www.youtube.com/watch?v=hq02irf8xGM
 
 #### [December 15th, 2020 Livestream](./2020-12-15.md)

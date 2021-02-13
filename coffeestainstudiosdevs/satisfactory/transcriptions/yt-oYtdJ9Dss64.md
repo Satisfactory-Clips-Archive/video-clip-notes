@@ -4,6 +4,7 @@ date: "2020-11-17"
 layout: transcript
 topics:
     - "environment/creatures"
+    - "features/unplanned-features/base-defense"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Can we get Mobs that spawn near you and attack you?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=oYtdJ9Dss64
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 
