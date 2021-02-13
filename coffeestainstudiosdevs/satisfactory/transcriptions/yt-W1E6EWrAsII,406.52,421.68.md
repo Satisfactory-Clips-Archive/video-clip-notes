@@ -15,7 +15,8 @@ https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=406&end=422
 
 ### Transcript
 
-> Yeah, possibly we've done that with all of our past games
-> so it's likely but I can't confirm or deny that.
-> Right now we just really need to get the game running smoothly and in order to do that
-> we're just gonna focus on Windows for now.
+> cross-platform support yeah possibly
+> we've done that with all of our past
+> games so it's likely but I can't confirm
+> or deny that right now we just really
+> need to get the game running smoothly

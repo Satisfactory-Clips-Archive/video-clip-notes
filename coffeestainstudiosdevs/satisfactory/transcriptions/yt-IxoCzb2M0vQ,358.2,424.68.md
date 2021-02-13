@@ -13,21 +13,29 @@ https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=358&end=425
 
 ### Transcript
 
-> And a little better as well.
-> Uh, and as you would expect, because we have this drift feature,
-> this vehicle is much nicer, when it comes to drifting.
-> As you can see.
-> We'll go down here, get some speed.
-> Yeah, you can get some nice drifts.
-> I wanted the tunings to get better.
-> The Explorer is pretty hard to tune well,
-> and make it fun and reliable, but you know, it's getting there.
-> It's gone through many iterations as well, and will continue to go through more.
-> It definitely needs some more improvements.
-> So I think the camera could use some more feedback. Obviously, there's no sound in here right now, for the Explorer.
-> It's pretty tricky to create the sound for it. But you know, we're working on it. We'll get there.
-> So I'll see if I can show off, some of the Explorer, just kind of like, grappling the terrain.
-> See, as you can see, it just kind of grabs things and climbs it.
-> It's kind of weird, but I like it, you know,
-> it helps you get to hard-to-reach places.
-> Yep, so that's the Explorer. Let's go check out the Train.
+> move on to the Explorer and a little
+> better as well
+> and as you would expect because we have
+> this drift feature this vehicle is much
+> nicer when it comes to drifting
+> as you can see
+> we go down here get some speed
+> you can get some ice drifts a lot of the
+> tuning needs to get better the Explorer
+> is pretty hard to tune well and make it
+> fun and reliable but you know it's
+> getting there it's gone through many
+> iterations as well and will continue to
+> go through more it definitely needs some
+> more improvements so I think the camera
+> could use some more feedback obviously
+> there's no sound in here right now for
+> the Explorer it's pretty tricky to
+> create the sound for it but you know
+> we're working on it we'll get that so
+> I'll see if I can show off some of the
+> Explorer just kind of like grappling the
+> terrain seeing as you can see just kind
+> of grabs things and climbs it's kind of
+> weird but but I like it you know it
+> helps you get to hard-to-reach places

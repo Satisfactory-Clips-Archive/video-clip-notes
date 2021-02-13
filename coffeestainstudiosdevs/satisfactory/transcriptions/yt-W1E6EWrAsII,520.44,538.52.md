@@ -13,9 +13,9 @@ https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=520&end=539
 
 ### Transcript
 
-> Are the delays REALLY his fault?
-> Are the things you blame him for ACTUALLY true?
-> Yeah, it actually is always his fault.  All delays have been Simon's fault
-> He even admits on his Twitter profile and also 100% of the things that I've blamed him for, is also actually true.
-> Isn't it Simon?
-> Yessssss
+> the delays really his fault are the
+> things you blame in for actually true
+> yeah it actually is always fault all
+> delays have been Simon's fault he even
+> admit somebody's Twitter profile and
+> also 100 percent of the things that I've

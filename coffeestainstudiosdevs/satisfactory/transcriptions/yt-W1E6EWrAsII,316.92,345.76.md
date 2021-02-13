@@ -17,9 +17,17 @@ https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346
 
 ### Transcript
 
-> Will there be procedurally generated resource locations?
-> There will be no procedurally generated maps or resources
-> I have no idea if that's something that's going to change in the future or not.
-> A lot of people have expressed some concerns that if there is no procedural generation
-> there will be no replayability but please understand that we have kept replayability in mind during development and we have some plans for it.
-> But of course, we're still welcome to suggestions. Especially suggestions that don't require procedural generation!
+> generated will there be procedurally
+> generated resource locations there will
+> be nor procedurally generated maps or
+> resources I have no idea if that's
+> something that's going to change in the
+> future or not a lot of people have
+> expressed some concerns that if there is
+> no procedural generation
+> there will be no replayability but
+> please understand that we have kept
+> replayability in mind during development
+> and we have some plans for it but of
+> course we're still welcome to
+> suggestions

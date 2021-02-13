@@ -17,6 +17,9 @@ https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=391&end=407
 
 ### Transcript
 
-> Yes, there will be story and an end game. As for the story
-> we've actually already revealed two characters, Katarina Parks and Steve.
-> Can find their names and hints of their personality on our website. So check it out!
+> there an end game will there be a story
+> yes there will be story and an end game
+> as for the story we've actually already
+> revealed two characters Katharina parks
+> and Steve and you can find their names
+> and hints of their personality on our

@@ -19,10 +19,17 @@ https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215
 
 ### Transcript
 
-> So as Oscar, our Game Director said in the PC Gamer interview
-> You will not have to defend your base,  and the main justification for this is again, the map is huge and
-> traversing it can take some time and you definitely don't want
-> creatures destroying your base, your perfectly optimised base while you're ages away and you're unable to come back and
-> defend it basically. So while you're exploring you're gonna be running into hostile creatures, so let's not forget about that!
-> It's kind of dangerous out there!
-> And what about turrets to defend your base ... shhhh... if you want turrets ... play Sanctum 2...
+> Director said in the PC gamer interview
+> you will not have to defend your base
+> and the main justification for this is
+> again the map is huge and traversing it
+> can take some time and you definitely
+> don't want creatures destroying your
+> base your perfectly optimized base while
+> you're ages away and you're unable to
+> come back and defend it basically so
+> while you're exploring you're gonna be
+> running into hostile creatures so let's
+> not forget about that it's kind of
+> dangerous out there
+> and what about turrets to defend your

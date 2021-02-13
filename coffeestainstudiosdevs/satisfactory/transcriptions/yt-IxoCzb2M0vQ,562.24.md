@@ -13,7 +13,8 @@ https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=562
 
 ### Transcript
 
-> Yeah, I look pretty tired again today.
-> I know that everyone in the comments are gonna be like &quot;Uuh, you so looks so tired. Uughh. Get some sleep. Uuh, shave your beard.&quot;
-> That's what you sound like.
-> Yeah
+> today I know that everyone in the
+> coments are gonna be like you so it
+> looks so tired
+> mhmmm get some sleep shave your beard
+> that's what you sound like yeah

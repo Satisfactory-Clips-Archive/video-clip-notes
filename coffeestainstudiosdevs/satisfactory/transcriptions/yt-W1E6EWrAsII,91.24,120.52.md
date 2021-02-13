@@ -13,10 +13,18 @@ https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121
 
 ### Transcript
 
-> So we had actually been planning MOD support from the very beginning and we even have the
-> foundations laid down for it
-> but what we found was it was adding so much development time to
-> Satisfactory and what we really thought we needed right now is to get the base game right get it tight, robust and running smoothly
-> So because it was adding so much development time. We kind of stopped working on it
-> so we don't have support for right now.  We can't really promise that we will have it now or in the future
-> But it's obviously a really good idea. So we're gonna see what we can do.
+> be months so we had actually been
+> planning month support from the very
+> beginning and we even have the
+> foundations laid down for it but what we
+> found was it was adding so much
+> development time to satisfactory and
+> what we really thought we needed right
+> now is to get the base game right get it
+> tight robust and running smoothly so
+> because it was adding so much
+> development time we kind of stopped
+> working on it so we don't have support
+> for right now
+> can't really promise that we will have
+> it now or in the future but it's

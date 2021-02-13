@@ -15,8 +15,13 @@ https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239
 
 ### Transcript
 
-> I really hope so.  That's a fantastic idea. In the past
-> we have actually made Goat Sim and Goat Zi ... the DLC plushies.
-> So regular goats and zombie goats
-> so I think it's likely. I mean I talked about it with other people here and people here are stoked to do it.  Whether or
-> not we'll have them not sure, but if you want them keep making some noise and I'll keep telling them that people want it
+> plushies I I really hope so that's a
+> that's a fantastic idea in the past we
+> have actually made goat sim and goat Zi
+> the DLC plushies so regular goats and
+> zombie goats so I think it's likely I
+> mean I talked about it with other people
+> here and people here are stoked to do it
+> whether or not we'll have them not sure
+> that if you want them keep making some
+> noise and I'll keep telling them that
