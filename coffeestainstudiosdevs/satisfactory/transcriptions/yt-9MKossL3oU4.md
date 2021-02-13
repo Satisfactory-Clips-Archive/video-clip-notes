@@ -159,4 +159,3 @@ https://www.youtube.com/watch?v=9MKossL3oU4
 > going to do the the resource thing and i
 >
 > didn't do it
->

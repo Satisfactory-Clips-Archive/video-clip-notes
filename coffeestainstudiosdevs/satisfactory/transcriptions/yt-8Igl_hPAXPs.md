@@ -51,4 +51,3 @@ https://www.youtube.com/watch?v=8Igl_hPAXPs
 > uh and then you have ada which is the
 >
 > computer
->

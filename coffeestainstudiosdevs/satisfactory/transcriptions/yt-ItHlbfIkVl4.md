@@ -109,4 +109,3 @@ https://www.youtube.com/watch?v=ItHlbfIkVl4
 > story than i thought there was gonna be
 >
 > yeah she presented it to me that's right
->

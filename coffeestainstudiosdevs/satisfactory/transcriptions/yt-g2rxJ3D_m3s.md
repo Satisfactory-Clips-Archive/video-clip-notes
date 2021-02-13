@@ -37,4 +37,3 @@ https://www.youtube.com/watch?v=g2rxJ3D_m3s
 > people keep asking that's fine
 >
 > people learn
->

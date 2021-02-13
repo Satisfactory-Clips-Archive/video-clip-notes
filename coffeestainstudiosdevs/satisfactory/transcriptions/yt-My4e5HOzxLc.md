@@ -71,4 +71,3 @@ https://www.youtube.com/watch?v=My4e5HOzxLc
 > like i hr is going to hear about this i
 >
 > am getting an hr strike 100.
->

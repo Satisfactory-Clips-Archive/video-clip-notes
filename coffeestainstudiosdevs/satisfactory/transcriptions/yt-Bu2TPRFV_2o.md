@@ -65,4 +65,3 @@ https://www.youtube.com/watch?v=Bu2TPRFV_2o
 > like oh what about the time stamp so i'm
 >
 > like
->

@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=66gkiXXWrhI
 > last week was a [ __ ] mess okay
 >
 > anyway
->

@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=DHWIPr3AYZo
 > can you open the map no but for uh
 >
 > you can't do it right now okay cool
->

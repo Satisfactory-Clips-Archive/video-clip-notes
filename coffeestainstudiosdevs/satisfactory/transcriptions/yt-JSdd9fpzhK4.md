@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=JSdd9fpzhK4
 > it's not impossible um but i don't know
 >
 > at this point um
->

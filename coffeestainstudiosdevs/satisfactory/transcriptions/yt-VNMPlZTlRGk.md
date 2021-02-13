@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=VNMPlZTlRGk
 > that so uh folks have looked at it for
 >
 > sure we'll see what happens there
->

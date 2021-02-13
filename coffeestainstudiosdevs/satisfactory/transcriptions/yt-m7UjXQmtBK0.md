@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=m7UjXQmtBK0
 > like 100 right they just got refunded
 >
 > but we sold them first
->

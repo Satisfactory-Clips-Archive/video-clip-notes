@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=leLtSRvC-J8
 > only resource i don't know
 >
 > i actually don't know
->

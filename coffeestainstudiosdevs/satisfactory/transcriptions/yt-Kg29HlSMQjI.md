@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=Kg29HlSMQjI
 > other people not the host yes
 >
 > yes
->

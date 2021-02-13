@@ -107,4 +107,3 @@ https://www.youtube.com/watch?v=T_Vldyf9rBI
 > implementing that and then
 >
 > yeah seeing this history
->

@@ -67,4 +67,3 @@ https://www.youtube.com/watch?v=GpglKeDQ9h8
 > love that one 12 by the way
 >
 > so good um
->

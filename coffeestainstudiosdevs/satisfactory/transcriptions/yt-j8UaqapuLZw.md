@@ -43,4 +43,3 @@ https://www.youtube.com/watch?v=j8UaqapuLZw
 > we're not gonna like monetize it or
 >
 > anything like that
->

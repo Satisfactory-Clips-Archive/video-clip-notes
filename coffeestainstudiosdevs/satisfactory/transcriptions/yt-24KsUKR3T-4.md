@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=24KsUKR3T-4
 > maybe two meetings maybe two meetings
 >
 > yeah
->

@@ -123,4 +123,3 @@ https://www.youtube.com/watch?v=9m7is-TbgQA
 > hasn't been shown yet on stream as well
 >
 > so like yeah it's it's a dookie
->

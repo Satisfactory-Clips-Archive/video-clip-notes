@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=KH-MlrotoAg
 > next week i i was wishful making
 >
 > we're recording it right now actually
->

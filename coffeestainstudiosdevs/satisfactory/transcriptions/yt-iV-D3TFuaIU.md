@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=iV-D3TFuaIU
 > all right anyway moving on so uh
 >
 > yeah so do you want to talk a little bit
->

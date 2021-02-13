@@ -55,4 +55,3 @@ https://www.youtube.com/watch?v=qQJTAvtzB-8
 > and i was genuinely like what the [ __ ]
 >
 > all right all right
->

@@ -45,4 +45,3 @@ https://www.youtube.com/watch?v=Pn5tcfKmF20
 > or did you just read that maybe so he
 >
 > took simon 171 off
->

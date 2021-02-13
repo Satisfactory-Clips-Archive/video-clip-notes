@@ -137,4 +137,3 @@ https://www.youtube.com/watch?v=QdMnTdqRxaE
 > but i think you cleaned up a lot of that
 >
 > math before hopefully
->

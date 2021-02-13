@@ -87,4 +87,3 @@ https://www.youtube.com/watch?v=VgDl00Ycn3U
 > straight up say no to not not many
 >
 > yeah but uh that was one of them
->

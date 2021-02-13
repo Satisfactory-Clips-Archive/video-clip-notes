@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=ZljpvyZWlIA
 > might not but right now we're just like
 >
 > simply not thinking about it at all
->

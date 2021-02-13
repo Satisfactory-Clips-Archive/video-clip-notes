@@ -47,4 +47,3 @@ https://www.youtube.com/watch?v=crxg2tpqQSc
 > yeah pretty much and it's like
 >
 > whatever and somehow get away with it
->

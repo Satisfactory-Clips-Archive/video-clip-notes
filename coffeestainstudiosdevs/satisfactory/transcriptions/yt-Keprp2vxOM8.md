@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=Keprp2vxOM8
 > and put it in
 >
 > yep slash pickup
->

@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=TdmIe3EM_B8
 > the uh plan right now is no
 >
 > this we will not do
->

@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=uACIFWnIlY0
 > the discussion we're having with the
 >
 > blueprint thing
->

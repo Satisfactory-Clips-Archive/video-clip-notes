@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=oYVWBcgkahY
 > kind of story to it or like
 >
 > it's more handcrafted
->

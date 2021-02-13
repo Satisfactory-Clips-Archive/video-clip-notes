@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=FlaP38G7O5U
 > remember that yeah that's topical anyway
 >
 > um
->

@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=RVdtG9yWW68
 > like just couldn't say it but i just
 >
 > genuinely don't know
->

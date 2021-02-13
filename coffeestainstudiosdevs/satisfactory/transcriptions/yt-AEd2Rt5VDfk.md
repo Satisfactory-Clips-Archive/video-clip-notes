@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=AEd2Rt5VDfk
 > did not plan on that normal planet
 >
 > easy exploit and explore yeah
->

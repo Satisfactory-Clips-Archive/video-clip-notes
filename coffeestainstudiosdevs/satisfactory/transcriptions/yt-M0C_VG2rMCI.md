@@ -77,4 +77,3 @@ https://www.youtube.com/watch?v=M0C_VG2rMCI
 > will get back to your people how people
 >
 > get back to your people exactly
->

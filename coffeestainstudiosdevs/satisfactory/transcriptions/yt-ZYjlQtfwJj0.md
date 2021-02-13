@@ -173,4 +173,3 @@ https://www.youtube.com/watch?v=ZYjlQtfwJj0
 > actually
 >
 > we hit 1.0
->

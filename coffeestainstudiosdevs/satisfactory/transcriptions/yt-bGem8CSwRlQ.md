@@ -265,4 +265,3 @@ https://www.youtube.com/watch?v=bGem8CSwRlQ
 > from that um
 >
 > yeah it's just good we'll be coming
->

@@ -369,4 +369,3 @@ https://www.youtube.com/watch?v=d_FZQ5KTWA0
 > better way than like yeah
 >
 > i've seen that a bunch of times yeah
->

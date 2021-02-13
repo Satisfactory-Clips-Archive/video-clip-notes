@@ -45,4 +45,3 @@ https://www.youtube.com/watch?v=nK8NUTMQVTM
 > kernel impression very good impression
 >
 > yeah
->

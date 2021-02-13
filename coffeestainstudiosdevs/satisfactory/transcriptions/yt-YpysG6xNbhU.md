@@ -45,4 +45,3 @@ https://www.youtube.com/watch?v=YpysG6xNbhU
 > jace is uh talking to people and i'm not
 >
 > right i'm good seven person
->

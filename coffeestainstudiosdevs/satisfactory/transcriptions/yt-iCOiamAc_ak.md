@@ -133,4 +133,3 @@ https://www.youtube.com/watch?v=iCOiamAc_ak
 > just it's just weird and it becomes
 >
 > harder to explain that
->

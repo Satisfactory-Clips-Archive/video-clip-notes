@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=lhbj5mWOmeo
 > quarter quarterly ish right
 >
 > um i don't know
->

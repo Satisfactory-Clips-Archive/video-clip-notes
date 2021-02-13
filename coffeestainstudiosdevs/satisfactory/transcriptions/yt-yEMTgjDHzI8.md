@@ -69,4 +69,3 @@ https://www.youtube.com/watch?v=yEMTgjDHzI8
 > uh are a huge part of the decision
 >
 > making process
->

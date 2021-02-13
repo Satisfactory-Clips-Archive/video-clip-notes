@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=2SqpfMeDmcw
 > like kind um by design that's the
 >
 > trade-off of using it so
->

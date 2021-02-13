@@ -81,4 +81,3 @@ https://www.youtube.com/watch?v=NsywV9ie78k
 > are and how to get
 >
 > to places and stuff yes
->

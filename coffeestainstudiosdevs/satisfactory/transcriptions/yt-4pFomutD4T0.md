@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=4pFomutD4T0
 > i don't know probably when we
 >
 > fix some of those systems up maybe yep
->

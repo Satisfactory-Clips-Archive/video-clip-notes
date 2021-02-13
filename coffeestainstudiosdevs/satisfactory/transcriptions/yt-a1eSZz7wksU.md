@@ -57,4 +57,3 @@ https://www.youtube.com/watch?v=a1eSZz7wksU
 > the only one i watch every day
 >
 > but otherwise i like to save up yeah
->

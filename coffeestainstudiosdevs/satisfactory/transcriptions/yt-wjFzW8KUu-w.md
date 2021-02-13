@@ -59,4 +59,3 @@ https://www.youtube.com/watch?v=wjFzW8KUu-w
 > like even the ui looks like it i did it
 >
 > myself it was beautiful
->

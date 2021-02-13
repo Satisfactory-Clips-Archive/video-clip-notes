@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=GvQ4T08cO74
 > no i don't think i've ever been in
 >
 > canada okay
->

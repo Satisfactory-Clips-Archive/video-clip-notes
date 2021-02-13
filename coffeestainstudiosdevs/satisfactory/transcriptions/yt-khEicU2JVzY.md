@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=khEicU2JVzY
 > yeah yeah exactly everything as it is
 >
 > now will stay the same for those
->

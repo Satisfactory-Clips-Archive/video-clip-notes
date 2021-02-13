@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=-sQgPUaxR-Y
 > like a
 >
 > like a hard no but it's a no
->

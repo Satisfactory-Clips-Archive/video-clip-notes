@@ -283,4 +283,3 @@ https://www.youtube.com/watch?v=TbSECv5M4ZM
 > video and no one got it so
 >
 > uh that's on all of us
->

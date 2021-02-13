@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=XCPztcDtneI
 > yeah that's the only thing people care
 >
 > about i think
->

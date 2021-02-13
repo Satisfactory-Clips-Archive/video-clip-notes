@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=ZOmxbDTRWmg
 > barely know what i'm doing right now
 >
 > i'm half conscious 1.0 sneak peek
->

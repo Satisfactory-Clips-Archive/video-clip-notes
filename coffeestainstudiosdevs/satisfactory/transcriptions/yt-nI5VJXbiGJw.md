@@ -193,4 +193,3 @@ https://www.youtube.com/watch?v=nI5VJXbiGJw
 > our issues stemmed from that too
 >
 > yeah yeah having that verticality
->

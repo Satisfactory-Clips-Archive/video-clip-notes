@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=NStZ-wKVHYc
 > wait is that not the right command no
 >
 > that was the recommend cool
->

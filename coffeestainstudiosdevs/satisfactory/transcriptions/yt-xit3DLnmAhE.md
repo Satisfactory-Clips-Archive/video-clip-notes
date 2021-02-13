@@ -241,4 +241,3 @@ https://www.youtube.com/watch?v=xit3DLnmAhE
 > like technical problems coming up right
 >
 > yeah for sure for sure
->

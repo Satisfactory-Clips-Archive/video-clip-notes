@@ -49,4 +49,3 @@ https://www.youtube.com/watch?v=GJMD7L7BLxE
 > before it was cool yeah
 >
 > so yeah just get that wrong
->

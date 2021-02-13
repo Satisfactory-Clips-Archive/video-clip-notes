@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=l03CiyYAX-k
 > connected to them did they not before
 >
 > yeah no they've obviously done that okay
->

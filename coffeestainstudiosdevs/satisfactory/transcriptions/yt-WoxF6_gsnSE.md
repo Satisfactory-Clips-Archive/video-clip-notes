@@ -109,4 +109,3 @@ https://www.youtube.com/watch?v=WoxF6_gsnSE
 > essentially we want to help out you guys
 >
 > as much as we can
->

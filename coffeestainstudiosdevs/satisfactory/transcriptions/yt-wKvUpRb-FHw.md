@@ -99,4 +99,3 @@ https://www.youtube.com/watch?v=wKvUpRb-FHw
 > of sense as well yeah but you know
 >
 > it's up to you guys
->

@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=lDtaZpq1K1A
 > didn't exist in a real engine when we
 >
 > started developing satisfactory yeah
->

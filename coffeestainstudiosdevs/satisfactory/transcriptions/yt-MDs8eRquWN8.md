@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=MDs8eRquWN8
 > ago
 >
 > my god it's almost yeah
->

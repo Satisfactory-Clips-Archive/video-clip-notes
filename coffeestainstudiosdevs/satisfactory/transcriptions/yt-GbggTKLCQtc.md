@@ -67,4 +67,3 @@ https://www.youtube.com/watch?v=GbggTKLCQtc
 > so hopefully soon we can talk more about
 >
 > what actually is coming
->

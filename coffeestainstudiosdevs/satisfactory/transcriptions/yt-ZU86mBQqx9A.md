@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=ZU86mBQqx9A
 > exactly clear is changing a little you
 >
 > guys good tasks will be had by all um
->

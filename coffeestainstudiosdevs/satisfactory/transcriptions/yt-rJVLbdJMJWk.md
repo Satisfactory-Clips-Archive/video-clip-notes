@@ -235,4 +235,3 @@ https://www.youtube.com/watch?v=rJVLbdJMJWk
 > um do you trust them
 >
 > i don't know um so yeah
->

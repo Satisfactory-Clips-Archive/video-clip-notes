@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=HZFZLzljSRE
 > uh do as much or as little as they want
 >
 > so uh no you don't get paid
->

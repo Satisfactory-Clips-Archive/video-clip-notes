@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=8Dkl-S-nTu8
 > can build or just your pc specs just
 >
 > your pc specs basically
->

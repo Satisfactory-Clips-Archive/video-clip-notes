@@ -71,4 +71,3 @@ https://www.youtube.com/watch?v=tv1pCGiRtkM
 > upload it on the qa site
 >
 > do it make a stance
->

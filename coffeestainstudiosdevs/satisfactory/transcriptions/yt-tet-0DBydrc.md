@@ -51,4 +51,3 @@ https://www.youtube.com/watch?v=tet-0DBydrc
 > the color picker or the
 >
 > what's it called the the pipette tool
->

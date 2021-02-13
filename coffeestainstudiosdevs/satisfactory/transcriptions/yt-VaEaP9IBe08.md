@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=VaEaP9IBe08
 >  no
 >
 > no ships
->

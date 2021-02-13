@@ -65,4 +65,3 @@ https://www.youtube.com/watch?v=jfPUvIBBJVw
 > new vacation honestly feels like it's a
 >
 > new year um
->

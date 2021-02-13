@@ -53,4 +53,3 @@ https://www.youtube.com/watch?v=dbyTU3Wdpog
 > would you buy your hair
 >
 > if we had that
->

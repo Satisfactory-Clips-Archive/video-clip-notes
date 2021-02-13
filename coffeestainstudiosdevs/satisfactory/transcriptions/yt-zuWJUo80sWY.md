@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=zuWJUo80sWY
 > pointer on the train
 >
 > pointer
->

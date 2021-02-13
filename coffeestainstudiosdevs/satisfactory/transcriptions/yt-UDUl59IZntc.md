@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=UDUl59IZntc
 > don't know what that entails exactly
 >
 > um but not impossible
->

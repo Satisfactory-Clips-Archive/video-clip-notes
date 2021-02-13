@@ -131,4 +131,3 @@ https://www.youtube.com/watch?v=9GT0y1v5VZY
 > um because that's i've run into that
 >
 > that's pretty common
->

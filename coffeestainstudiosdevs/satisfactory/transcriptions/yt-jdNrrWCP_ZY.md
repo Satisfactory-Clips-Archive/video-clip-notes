@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=jdNrrWCP_ZY
 > i wonder if satisfactory two ever makes
 >
 > sense i don't like really
->

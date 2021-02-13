@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=f0Z9VIAK5Iw
 > about that in the future when the story
 >
 > comes out
->

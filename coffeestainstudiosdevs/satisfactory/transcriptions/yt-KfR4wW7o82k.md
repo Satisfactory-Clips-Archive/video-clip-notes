@@ -83,4 +83,3 @@ https://www.youtube.com/watch?v=KfR4wW7o82k
 > um and yeah it's business as usual i
 >
 > guess that's state of dev
->

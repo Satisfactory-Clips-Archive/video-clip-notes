@@ -17,4 +17,3 @@ https://www.youtube.com/watch?v=2-MMBU1hMKM
 ### Transcript
 
 > ach da haben wir die themen data one
->

@@ -43,4 +43,3 @@ https://www.youtube.com/watch?v=NU1DLvv4zb0
 > wait for that
 >
 > it's going to be in tier 17.
->

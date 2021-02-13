@@ -99,4 +99,3 @@ do uhh in their planning.
 > Jace: Yep
 >
 > Snutt: So unless it's on the questions website they can't plan for it so to speak.
->

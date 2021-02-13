@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=FhoIzj_QLm0
 > alluded to before
 >
 > um so yeah you'll have to see
->

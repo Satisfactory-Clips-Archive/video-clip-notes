@@ -69,4 +69,3 @@ https://www.youtube.com/watch?v=RdNktCE1Pek
 > some point i think um
 >
 > it makes sense it makes sense
->

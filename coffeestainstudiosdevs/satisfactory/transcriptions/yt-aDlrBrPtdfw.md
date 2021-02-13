@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=aDlrBrPtdfw
 > the expensive part is overdraw and
 >
 > the draw calls
->

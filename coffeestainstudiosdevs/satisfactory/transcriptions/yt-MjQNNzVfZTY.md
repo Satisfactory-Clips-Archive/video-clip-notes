@@ -61,4 +61,3 @@ https://www.youtube.com/watch?v=MjQNNzVfZTY
 > yeah i don't know never get that a lot
 >
 > since day one
->

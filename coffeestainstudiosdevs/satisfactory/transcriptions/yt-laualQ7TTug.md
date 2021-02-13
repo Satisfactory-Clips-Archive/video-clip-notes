@@ -67,4 +67,3 @@ https://www.youtube.com/watch?v=laualQ7TTug
 > thoughts
 >
 > we have thoughts and feelings on that
->

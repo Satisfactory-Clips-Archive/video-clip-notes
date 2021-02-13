@@ -293,4 +293,3 @@ https://www.youtube.com/watch?v=jSEd3fDu6KE
 > work done even though they're just you
 >
 > know one or two people
->

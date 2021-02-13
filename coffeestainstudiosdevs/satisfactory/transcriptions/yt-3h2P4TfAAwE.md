@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=3h2P4TfAAwE
 > fun i don't know if we can do that
 >
 > though i think it's a good idea
->

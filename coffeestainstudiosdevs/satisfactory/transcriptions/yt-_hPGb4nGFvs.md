@@ -181,4 +181,3 @@ https://www.youtube.com/watch?v=_hPGb4nGFvs
 > fix those yeah those
 >
 > small things indeed indeed yes
->

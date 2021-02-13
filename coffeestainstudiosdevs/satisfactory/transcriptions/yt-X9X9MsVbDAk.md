@@ -157,4 +157,3 @@ https://www.youtube.com/watch?v=X9X9MsVbDAk
 > i had questions we're sponsored by
 >
 > coffee stadiums
->

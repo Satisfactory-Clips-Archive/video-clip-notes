@@ -69,4 +69,3 @@ https://www.youtube.com/watch?v=bvtKzwJA4pw
 > we also don't hate that so i don't know
 >
 > we'll see
->

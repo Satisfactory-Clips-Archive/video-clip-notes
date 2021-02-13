@@ -47,4 +47,3 @@ https://www.youtube.com/watch?v=8Pm6KLejrOQ
 > opening that at the office
 >
 > there's a lot of opinions about that
->

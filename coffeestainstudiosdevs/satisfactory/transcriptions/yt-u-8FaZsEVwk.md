@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=u-8FaZsEVwk
 > and i
 >
 > have like the what we were talking about
->

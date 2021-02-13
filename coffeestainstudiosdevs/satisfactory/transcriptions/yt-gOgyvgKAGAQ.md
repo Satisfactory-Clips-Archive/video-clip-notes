@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=gOgyvgKAGAQ
 > yeah and then we'll see you later it's
 >
 > tomorrow's problem
->

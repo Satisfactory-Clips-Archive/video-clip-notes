@@ -63,4 +63,3 @@ https://www.youtube.com/watch?v=cHAsOhYP_0c
 > as to why we remove stuff you can talk
 >
 > more about it
->

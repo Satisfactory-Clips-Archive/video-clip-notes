@@ -147,4 +147,3 @@ https://www.youtube.com/watch?v=k-7WiSX0BYM
 > game is settled and then we'll look into
 >
 > it
->

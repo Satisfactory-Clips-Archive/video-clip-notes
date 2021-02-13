@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=rmduvSAc3P4
 > so it's like should trademark work with
 >
 > that as well
->

@@ -63,4 +63,3 @@ https://www.youtube.com/watch?v=TDbNru0heoU
 > but i don't know it's uh it's hard to
 >
 > say right now
->

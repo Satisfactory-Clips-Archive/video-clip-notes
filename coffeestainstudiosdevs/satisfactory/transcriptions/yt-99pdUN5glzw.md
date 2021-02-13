@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=99pdUN5glzw
 > that is also something tied to the story
 >
 > and will become clearer in the future
->

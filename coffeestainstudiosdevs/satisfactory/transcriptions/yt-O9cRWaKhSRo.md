@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=O9cRWaKhSRo
 > can we finish this one first yeah we
 >
 > need to finish this one first okay
->

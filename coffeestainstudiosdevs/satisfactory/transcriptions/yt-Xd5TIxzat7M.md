@@ -85,4 +85,3 @@ https://www.youtube.com/watch?v=Xd5TIxzat7M
 > going to sit down and use vr
 >
 > all the time so
->

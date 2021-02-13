@@ -131,4 +131,3 @@ https://www.youtube.com/watch?v=sSLGErHJcyE
 > times and it's just too messy to do that
 >
 > too often so to speak
->

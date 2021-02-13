@@ -127,4 +127,3 @@ https://www.youtube.com/watch?v=gSeMZO30cEg
 > goals
 >
 > which is 1.0 yeah
->

@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=lSeLNlkKo1w
 > but um yeah it's like
 >
 > google google text yeah text and speech
->

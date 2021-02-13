@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=sLBqy5auRck
 > right now
 >
 > i believe as far as i know
->

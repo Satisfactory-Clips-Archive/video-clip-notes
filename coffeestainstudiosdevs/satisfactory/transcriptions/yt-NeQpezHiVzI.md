@@ -157,4 +157,3 @@ https://www.youtube.com/watch?v=NeQpezHiVzI
 > quite sure
 >
 > so we'll see um
->

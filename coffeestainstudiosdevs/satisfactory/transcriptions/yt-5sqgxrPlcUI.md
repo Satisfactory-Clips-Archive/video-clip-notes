@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=5sqgxrPlcUI
 > right shut up
 >
 > they're gonna believe it it's fine
->

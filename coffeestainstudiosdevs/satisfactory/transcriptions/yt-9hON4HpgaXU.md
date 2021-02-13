@@ -37,4 +37,3 @@ https://www.youtube.com/watch?v=9hON4HpgaXU
 > director and everyone else can see it
 >
 > um yeah see your suggestion
->

@@ -37,4 +37,3 @@ https://www.youtube.com/watch?v=K-L2cEZmj4c
 > exactly yeah so just roll with it
 >
 > um yeah teases this week
->

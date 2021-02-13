@@ -47,4 +47,3 @@ https://www.youtube.com/watch?v=DYy7NpZ7qYA
 > like
 >
 > yeah you get so much more out of it
->

@@ -37,4 +37,3 @@ https://www.youtube.com/watch?v=pNTCYMAibe8
 > um that's a good question yeah i don't
 >
 > know actually that's a good question
->

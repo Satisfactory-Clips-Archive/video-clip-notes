@@ -201,4 +201,3 @@ https://www.youtube.com/watch?v=Wy79gUb24es
 > i can't speak for others and yeah it's a
 >
 > hardshell and i just hope
->

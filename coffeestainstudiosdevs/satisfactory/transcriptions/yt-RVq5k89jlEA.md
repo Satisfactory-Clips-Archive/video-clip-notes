@@ -231,4 +231,3 @@ https://www.youtube.com/watch?v=RVq5k89jlEA
 > yeah yeah and it ain't cool
 >
 > but uh intentionally impaired indeed
->

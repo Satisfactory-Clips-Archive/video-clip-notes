@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=z5BnfkmTQfA
 > there are you trust you got to earn its
 >
 > trust where are you guys
->

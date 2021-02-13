@@ -77,4 +77,3 @@ https://www.youtube.com/watch?v=yQe_yYHAwsQ
 > but there's a lot coming so yeah it's
 >
 > going to be pretty good
->

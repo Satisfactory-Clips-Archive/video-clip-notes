@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=GaId9klI7ho
 > website it's also a pretty good idea
 >
 > uh not impossible
->

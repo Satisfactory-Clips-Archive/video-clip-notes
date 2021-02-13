@@ -33,4 +33,3 @@ https://www.youtube.com/watch?v=SYWPIjbe_4Y
 > until launch the
 >
 > 1.0 yeah but they will be used
->

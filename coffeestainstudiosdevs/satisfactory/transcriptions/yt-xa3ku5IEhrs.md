@@ -49,4 +49,3 @@ https://www.youtube.com/watch?v=xa3ku5IEhrs
 > all right i hear ya yes so we'll see
 >
 > we'll see
->

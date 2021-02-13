@@ -81,4 +81,3 @@ https://www.youtube.com/watch?v=iqGA8u7MmMM
 > do it because it wouldn't make sense for
 >
 > us yeah
->

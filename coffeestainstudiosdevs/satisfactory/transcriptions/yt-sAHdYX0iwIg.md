@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=sAHdYX0iwIg
 > i just a generic like
 >
 > um global grid in general would be sweet
->

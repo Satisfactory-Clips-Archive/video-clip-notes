@@ -45,4 +45,3 @@ https://www.youtube.com/watch?v=l0e9itmXFT8
 > too bad honestly
 >
 > yeah limits posts we can consider
->

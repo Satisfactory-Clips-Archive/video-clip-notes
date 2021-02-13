@@ -15,4 +15,3 @@ https://www.youtube.com/watch?v=v2qV7Kfbcac
 ### Transcript
 
 > si nani roma
->

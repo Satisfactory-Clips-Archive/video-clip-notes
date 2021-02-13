@@ -181,4 +181,3 @@ https://www.youtube.com/watch?v=1QDj7pJa9DQ
 > like uh duct tape uh fixes
 >
 > that's one of them
->

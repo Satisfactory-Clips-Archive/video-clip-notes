@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=bWnZ-OI-_Og
 > creature yes there is called the manta
 >
 > flying mantle
->

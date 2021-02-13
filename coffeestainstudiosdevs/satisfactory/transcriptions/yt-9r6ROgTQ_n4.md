@@ -307,4 +307,3 @@ https://www.youtube.com/watch?v=9r6ROgTQ_n4
 > so yeah that's that's the that's that's
 >
 > that's the way the cookie crumbles
->

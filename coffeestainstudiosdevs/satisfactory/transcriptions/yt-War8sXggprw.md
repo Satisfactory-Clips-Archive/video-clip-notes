@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=War8sXggprw
 > uh sure i mean yeah in state of dev
 >
 > we'll do that yeah but yeah pretty much
->

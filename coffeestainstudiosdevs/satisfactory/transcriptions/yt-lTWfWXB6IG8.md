@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=lTWfWXB6IG8
 > yes the map is not procedural there
 >
 > it is handcrafted
->

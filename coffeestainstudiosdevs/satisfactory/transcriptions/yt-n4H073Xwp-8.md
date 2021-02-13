@@ -63,4 +63,3 @@ https://www.youtube.com/watch?v=n4H073Xwp-8
 > yeah this is a legally binding public
 >
 > statement now yeah
->

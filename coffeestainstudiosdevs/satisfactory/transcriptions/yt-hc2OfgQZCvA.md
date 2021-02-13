@@ -177,4 +177,3 @@ https://www.youtube.com/watch?v=hc2OfgQZCvA
 > didn't i don't care for the xcode
 >
 > personally so
->

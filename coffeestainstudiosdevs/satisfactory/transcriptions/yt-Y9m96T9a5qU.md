@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=Y9m96T9a5qU
 > we're going to be adding more stuff in
 >
 > the future i just don't win
->

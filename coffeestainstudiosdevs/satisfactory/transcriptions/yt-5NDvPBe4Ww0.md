@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=5NDvPBe4Ww0
 > uh um i guess yeah maybe
 >
 > semantics
->

@@ -75,4 +75,3 @@ https://www.youtube.com/watch?v=8Huq89frY2k
 > right now and just
 >
 > cross that bridge when we get to it
->

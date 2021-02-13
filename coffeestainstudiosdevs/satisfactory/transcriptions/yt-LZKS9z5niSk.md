@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=LZKS9z5niSk
 > problem right but like when i've spoken
 >
 > to people no one's really against it
->

@@ -49,4 +49,3 @@ https://www.youtube.com/watch?v=0V_fsSPIEHA
 > of course there's lore but she's more of
 >
 > an observer
->

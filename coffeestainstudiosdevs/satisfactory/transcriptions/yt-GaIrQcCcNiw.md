@@ -89,4 +89,3 @@ https://www.youtube.com/watch?v=GaIrQcCcNiw
 > you know base and they can run fairly
 >
 > okay you know
->

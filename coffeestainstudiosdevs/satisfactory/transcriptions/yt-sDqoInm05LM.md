@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=sDqoInm05LM
 > and sure but i've been i've been living
 >
 > in sweden for a long time yeah
->

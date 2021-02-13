@@ -45,4 +45,3 @@ https://www.youtube.com/watch?v=A8vmAeTgBfw
 > more
 >
 > then you gotta optimize babe
->

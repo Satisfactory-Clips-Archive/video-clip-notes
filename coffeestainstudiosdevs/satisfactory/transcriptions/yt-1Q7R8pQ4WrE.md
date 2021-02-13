@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=1Q7R8pQ4WrE
 > they're getting them without
 >
 > being less than legally yes
->

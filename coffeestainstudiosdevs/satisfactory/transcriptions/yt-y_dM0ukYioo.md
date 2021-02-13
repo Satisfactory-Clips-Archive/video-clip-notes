@@ -117,4 +117,3 @@ https://www.youtube.com/watch?v=y_dM0ukYioo
 > right now
 >
 > um so yeah
->

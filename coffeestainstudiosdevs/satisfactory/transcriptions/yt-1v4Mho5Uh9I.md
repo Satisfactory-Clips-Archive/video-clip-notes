@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=1v4Mho5Uh9I
 > windows right yeah yeah
 >
 > um well reasonable mac like
->

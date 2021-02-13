@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=vV-u0AjWWvU
 > what and when i don't know or actually i
 >
 > know some of it
->

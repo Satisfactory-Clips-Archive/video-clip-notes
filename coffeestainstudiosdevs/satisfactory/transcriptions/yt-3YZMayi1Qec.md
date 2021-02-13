@@ -15,4 +15,3 @@ https://www.youtube.com/watch?v=3YZMayi1Qec
 ### Transcript
 
 > of time okay will there be goats no
->

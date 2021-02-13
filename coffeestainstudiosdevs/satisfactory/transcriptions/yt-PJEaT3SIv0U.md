@@ -195,4 +195,3 @@ https://www.youtube.com/watch?v=PJEaT3SIv0U
 > hopefully in the future yeah i think i
 >
 > think it'll be better later yeah
->

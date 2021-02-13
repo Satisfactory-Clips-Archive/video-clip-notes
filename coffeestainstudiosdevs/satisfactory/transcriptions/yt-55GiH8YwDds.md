@@ -111,4 +111,3 @@ https://www.youtube.com/watch?v=55GiH8YwDds
 > eight is a nice round number all right
 >
 > tier eight confirmed three point five
->

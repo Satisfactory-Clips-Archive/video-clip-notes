@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=eiGqL7qpc14
 > right
 >
 > that's how you get faster
->

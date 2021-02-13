@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=_bVk1N0dvDY
 > someone understands someone understands
 >
 > yeah imagine deleting them out
->

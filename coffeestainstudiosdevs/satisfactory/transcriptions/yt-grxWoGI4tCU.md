@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=grxWoGI4tCU
 > hat reveal at six million subs
 >
 > yeah let's do it
->

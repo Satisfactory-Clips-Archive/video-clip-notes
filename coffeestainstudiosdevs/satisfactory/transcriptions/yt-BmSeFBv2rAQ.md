@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=BmSeFBv2rAQ
 > so that was like that was more of a
 >
 > necessity you know
->

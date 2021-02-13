@@ -43,4 +43,3 @@ https://www.youtube.com/watch?v=2zs8wqPKwFE
 > between our fingers all the time um
 >
 > so yeah
->

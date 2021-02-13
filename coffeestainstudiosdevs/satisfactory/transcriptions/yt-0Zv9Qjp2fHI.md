@@ -69,4 +69,3 @@ https://www.youtube.com/watch?v=0Zv9Qjp2fHI
 > on proton if you're on linux
 >
 > so yeah that's something at least yep
->

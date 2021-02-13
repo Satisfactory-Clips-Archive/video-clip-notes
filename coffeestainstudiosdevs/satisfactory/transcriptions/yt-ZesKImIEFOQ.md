@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=ZesKImIEFOQ
 > just a virus
 >
 > yeah i don't get crack games
->

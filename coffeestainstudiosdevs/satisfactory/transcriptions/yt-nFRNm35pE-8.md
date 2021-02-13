@@ -77,4 +77,3 @@ https://www.youtube.com/watch?v=nFRNm35pE-8
 > yeah exactly yeah just hypnotized the
 >
 > audience it was just a youtube video
->

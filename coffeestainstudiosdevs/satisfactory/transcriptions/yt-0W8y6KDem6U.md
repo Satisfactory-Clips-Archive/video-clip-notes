@@ -99,4 +99,3 @@ https://www.youtube.com/watch?v=0W8y6KDem6U
 > development won't be this way yes
 >
 > um yeah
->

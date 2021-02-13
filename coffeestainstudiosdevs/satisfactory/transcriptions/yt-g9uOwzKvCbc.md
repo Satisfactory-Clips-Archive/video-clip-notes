@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=g9uOwzKvCbc
 > color and whatnot but we don't really
 >
 > know right now
->

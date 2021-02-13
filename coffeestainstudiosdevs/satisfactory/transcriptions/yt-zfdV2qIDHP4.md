@@ -97,4 +97,3 @@ https://www.youtube.com/watch?v=zfdV2qIDHP4
 > the discussion
 >
 > we have internally about that stuff yep
->

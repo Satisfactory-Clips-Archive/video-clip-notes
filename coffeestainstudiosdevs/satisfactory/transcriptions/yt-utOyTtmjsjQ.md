@@ -67,4 +67,3 @@ https://www.youtube.com/watch?v=utOyTtmjsjQ
 > fixing those kind of things
 >
 > so yeah period
->

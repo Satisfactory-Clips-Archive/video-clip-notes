@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=1nSztPm_B14
 > that you can do with the waste but you
 >
 > know it'd still be that trade-off
->

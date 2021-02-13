@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=wpyixQuBb_E
 > and you drag the item it will move all
 >
 > the items of the same item
->

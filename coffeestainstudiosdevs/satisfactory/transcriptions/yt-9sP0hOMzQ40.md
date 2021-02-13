@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=9sP0hOMzQ40
 > toilet yeah a toilet i was like
 >
 > i was reading way too much into that
->

@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=kGCoxYYhnBs
 > equipment
 >
 > currently
->

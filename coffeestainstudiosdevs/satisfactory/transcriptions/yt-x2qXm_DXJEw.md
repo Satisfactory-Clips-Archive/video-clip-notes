@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=x2qXm_DXJEw
 > nuclear waste and you remove it from the
 >
 > doggo and then you put somewhere
->

@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=RzAguZacRpk
 > shampoo 어이 어이 wham cosex 교사
 >
 > wh disperse ten 바브 enter esc 블루스 원탁의 줄
->

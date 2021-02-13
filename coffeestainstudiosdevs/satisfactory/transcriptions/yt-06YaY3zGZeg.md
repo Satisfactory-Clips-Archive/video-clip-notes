@@ -71,4 +71,3 @@ https://www.youtube.com/watch?v=06YaY3zGZeg
 > guess we're doing this it's fine it's
 >
 > fine
->

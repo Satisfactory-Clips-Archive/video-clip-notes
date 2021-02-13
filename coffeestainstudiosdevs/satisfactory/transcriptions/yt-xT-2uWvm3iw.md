@@ -195,4 +195,3 @@ https://www.youtube.com/watch?v=xT-2uWvm3iw
 > optimization
 >
 > it's like a lot of stuff yeah
->

@@ -93,4 +93,3 @@ https://www.youtube.com/watch?v=E666WdfoeP0
 > so you gotta you gotta spam
 >
 > your keyboard for each pedal
->

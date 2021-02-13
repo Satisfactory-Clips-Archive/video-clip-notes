@@ -197,4 +197,3 @@ https://www.youtube.com/watch?v=5v0_pFbQLF4
 > okay just
 >
 > uh that's one area yeah
->

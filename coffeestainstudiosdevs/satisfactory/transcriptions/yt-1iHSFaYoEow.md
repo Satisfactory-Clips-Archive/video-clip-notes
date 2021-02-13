@@ -33,4 +33,3 @@ https://www.youtube.com/watch?v=1iHSFaYoEow
 > same way it does right now
 >
 > i think so yeah i guess yes
->

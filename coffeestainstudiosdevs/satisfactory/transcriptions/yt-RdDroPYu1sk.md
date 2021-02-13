@@ -105,4 +105,3 @@ https://www.youtube.com/watch?v=RdDroPYu1sk
 > another way we could do
 >
 > like foundation stuff
->

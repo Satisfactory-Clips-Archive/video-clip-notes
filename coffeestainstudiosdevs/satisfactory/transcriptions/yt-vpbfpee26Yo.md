@@ -43,4 +43,3 @@ https://www.youtube.com/watch?v=vpbfpee26Yo
 > then i'm not gonna show on stream what
 >
 > you do entertainment
->

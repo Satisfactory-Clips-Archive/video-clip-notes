@@ -61,4 +61,3 @@ https://www.youtube.com/watch?v=RsI9XqjI0fk
 > doing it okay
 >
 > all right you ready
->

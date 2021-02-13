@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=3s-PKymQ9QU
 > control support before considering vr
 >
 > yeah yeah
->

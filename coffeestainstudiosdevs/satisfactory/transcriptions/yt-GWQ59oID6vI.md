@@ -91,4 +91,3 @@ https://www.youtube.com/watch?v=GWQ59oID6vI
 > deaf and it's not like we're just
 >
 > choosing not to do it
->

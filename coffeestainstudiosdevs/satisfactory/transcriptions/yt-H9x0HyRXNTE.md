@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=H9x0HyRXNTE
 > something around 30. people
 >
 > um
->

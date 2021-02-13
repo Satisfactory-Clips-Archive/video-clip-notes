@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=WCqChz4xFWg
 > control trick click works
 >
 > but yeah you can you can do that
->

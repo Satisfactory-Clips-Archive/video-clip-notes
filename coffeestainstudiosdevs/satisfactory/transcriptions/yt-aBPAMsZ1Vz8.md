@@ -85,4 +85,3 @@ https://www.youtube.com/watch?v=aBPAMsZ1Vz8
 > the vertex shader didn't go
 >
 > yep
->

@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=pY14Dudonjc
 > there's going to be a new video this
 >
 > week
->

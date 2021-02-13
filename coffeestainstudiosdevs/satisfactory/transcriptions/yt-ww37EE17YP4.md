@@ -165,4 +165,3 @@ https://www.youtube.com/watch?v=ww37EE17YP4
 > uh it's all free i get yeah that's
 >
 > pretty much
->

@@ -71,4 +71,3 @@ the EOS update we're pushing this week.
 >
 > Snutt: Uhh... but we'll keep looking into
 those types of issues in the future.
->

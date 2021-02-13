@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=-uJ6AqPZy0U
 > you know it's the minimum spec for
 >
 > coffee stain employment yeah
->

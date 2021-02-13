@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=dIQQWHWwCGA
 > i wanted to believe it was easy yeah
 >
 > it wasn't it was so much work
->

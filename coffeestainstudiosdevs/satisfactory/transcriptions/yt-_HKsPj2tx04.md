@@ -73,4 +73,3 @@ https://www.youtube.com/watch?v=_HKsPj2tx04
 > to make sure that
 >
 > we see that and we rethink our strategy
->

@@ -79,4 +79,3 @@ https://www.youtube.com/watch?v=rkQZFVgqMag
 > planning tools that exist like
 >
 > i needed that to understand
->

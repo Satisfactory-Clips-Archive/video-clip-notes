@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=oJ42bPfK4lo
 > terms of design and tech
 >
 > on that side of things
->

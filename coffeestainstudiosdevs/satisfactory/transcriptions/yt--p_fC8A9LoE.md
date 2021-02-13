@@ -99,4 +99,3 @@ https://www.youtube.com/watch?v=-p_fC8A9LoE
 > i didn't looks like [ __ ] faked fan
 >
 > oh
->

@@ -17,4 +17,3 @@ https://www.youtube.com/watch?v=2fGzXvdPYEU
 > find them will it be trading cards
 >
 > i mean eventually but not anytime soon
->

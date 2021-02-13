@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=iap-q8Jggq8
 > new content
 >
 > you gotta have new content
->

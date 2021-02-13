@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=ttGCkjfrRtY
 > bunch of times yeah am i trying to go
 >
 > super saiyan halfway there
->

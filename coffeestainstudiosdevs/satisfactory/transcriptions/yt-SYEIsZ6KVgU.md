@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=SYEIsZ6KVgU
 > satisfactorygame.com
 >
 > or suggested stuff
->

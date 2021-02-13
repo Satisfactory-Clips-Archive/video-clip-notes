@@ -59,4 +59,3 @@ https://www.youtube.com/watch?v=bPo3BFtjDLs
 > it'll be delayed yeah
 >
 > two years two years
->

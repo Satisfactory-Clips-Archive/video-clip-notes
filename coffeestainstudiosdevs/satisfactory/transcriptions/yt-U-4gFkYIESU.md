@@ -111,4 +111,3 @@ https://www.youtube.com/watch?v=U-4gFkYIESU
 > yes we finally did it we finally played
 >
 > guitar on stream we did it
->

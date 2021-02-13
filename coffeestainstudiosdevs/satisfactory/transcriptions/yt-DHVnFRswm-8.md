@@ -33,4 +33,3 @@ https://www.youtube.com/watch?v=DHVnFRswm-8
 > compensate right now i believe
 >
 > yeah actually that's true
->

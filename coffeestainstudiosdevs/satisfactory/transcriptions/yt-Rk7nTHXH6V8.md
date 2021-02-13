@@ -47,4 +47,3 @@ https://www.youtube.com/watch?v=Rk7nTHXH6V8
 > inside is a factory super cool like just
 >
 > because why not it would look good
->

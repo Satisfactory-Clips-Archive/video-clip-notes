@@ -249,4 +249,3 @@ https://www.youtube.com/watch?v=bk2ojhuil-g
 > a bunch of objects in the then
 >
 > memory pool so to speak yep
->

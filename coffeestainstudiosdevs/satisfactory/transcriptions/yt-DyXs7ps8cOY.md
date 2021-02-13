@@ -93,4 +93,3 @@ https://www.youtube.com/watch?v=DyXs7ps8cOY
 > smaller updates i don't know we
 >
 > haven't decided yet yeah
->

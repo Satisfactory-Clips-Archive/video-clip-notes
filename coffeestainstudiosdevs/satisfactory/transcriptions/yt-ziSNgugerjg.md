@@ -57,4 +57,3 @@ https://www.youtube.com/watch?v=ziSNgugerjg
 > them off
 >
 > on our checklists
->

@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=AssBQa36jAM
 > two in my opinion yes yes in your
 >
 > opinion yes yeah
->

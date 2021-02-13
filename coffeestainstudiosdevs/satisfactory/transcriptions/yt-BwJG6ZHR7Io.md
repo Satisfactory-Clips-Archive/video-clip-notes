@@ -87,4 +87,3 @@ https://www.youtube.com/watch?v=BwJG6ZHR7Io
 > yeah but you haven't heard much going on
 >
 > we don't need to bring that up
->

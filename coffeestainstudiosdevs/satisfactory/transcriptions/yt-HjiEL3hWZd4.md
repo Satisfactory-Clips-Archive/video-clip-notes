@@ -83,4 +83,3 @@ https://www.youtube.com/watch?v=HjiEL3hWZd4
 > option to get like even more resources
 >
 > in different ways
->

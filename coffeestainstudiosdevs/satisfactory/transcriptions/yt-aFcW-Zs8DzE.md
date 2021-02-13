@@ -45,4 +45,3 @@ https://www.youtube.com/watch?v=aFcW-Zs8DzE
 > talking to people
 >
 > i guess
->

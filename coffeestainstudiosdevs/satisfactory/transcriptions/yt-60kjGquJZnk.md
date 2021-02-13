@@ -139,4 +139,3 @@ https://www.youtube.com/watch?v=60kjGquJZnk
 > it's a gradual process it's gone
 >
 > um it's going it's going
->

@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=RT5R6J7dj3g
 > is hardcore yeah
 >
 > true
->

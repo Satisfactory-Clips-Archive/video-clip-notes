@@ -55,4 +55,3 @@ https://www.youtube.com/watch?v=DExdQ8KOKEA
 > that's a pretty good suggestion actually
 >
 > um so yeah
->

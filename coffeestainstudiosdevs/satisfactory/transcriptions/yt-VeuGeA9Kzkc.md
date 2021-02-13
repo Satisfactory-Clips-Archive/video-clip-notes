@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=VeuGeA9Kzkc
 > was like in a week we got
 >
 > over 150k or something like that
->

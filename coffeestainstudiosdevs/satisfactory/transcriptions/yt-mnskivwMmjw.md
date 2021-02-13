@@ -123,4 +123,3 @@ https://www.youtube.com/watch?v=mnskivwMmjw
 > construct your stuff typical dsd
 >
 > dog should get devs yeah
->

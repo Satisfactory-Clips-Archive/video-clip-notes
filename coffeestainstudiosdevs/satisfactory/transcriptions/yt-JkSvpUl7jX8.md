@@ -67,4 +67,3 @@ https://www.youtube.com/watch?v=JkSvpUl7jX8
 > you honestly think like you see oh
 >
 > foreseeable generation it makes sense
->

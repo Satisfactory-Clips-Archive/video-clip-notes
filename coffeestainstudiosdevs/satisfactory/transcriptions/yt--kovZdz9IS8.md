@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=-kovZdz9IS8
 > so uh maybe that happens i don't know
 >
 > what the status of that is
->

@@ -119,4 +119,3 @@ https://www.youtube.com/watch?v=fR8x6bekEaU
 > hassle so that's why they're
 >
 > those type of systems are there yep
->

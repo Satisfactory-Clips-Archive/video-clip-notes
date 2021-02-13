@@ -55,4 +55,3 @@ https://www.youtube.com/watch?v=VDAUhc0cFbY
 > i'll reconcile everything and find all
 >
 > my changes
->

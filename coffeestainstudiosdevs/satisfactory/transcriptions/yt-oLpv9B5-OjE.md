@@ -73,4 +73,3 @@ https://www.youtube.com/watch?v=oLpv9B5-OjE
 > i should probably look into that
 >
 > but we have we have checked it out
->

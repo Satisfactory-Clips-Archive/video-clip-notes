@@ -333,4 +333,3 @@ https://www.youtube.com/watch?v=uYPhHTSL6Ys
 > talk more about it next week as well so
 >
 > yes it's gonna be cool
->

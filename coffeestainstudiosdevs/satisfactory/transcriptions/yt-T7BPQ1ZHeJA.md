@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=T7BPQ1ZHeJA
 > so yeah that's that's the uh boring
 >
 > answer for that
->

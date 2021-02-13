@@ -229,4 +229,3 @@ https://www.youtube.com/watch?v=32SZ2UKPZiQ
 > you're getting the work that's necessary
 >
 > yeah yeah
->

@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=b7ZVKjoH7CQ
 > verse i
 >
 > 야아 암
->

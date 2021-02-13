@@ -79,4 +79,3 @@ https://www.youtube.com/watch?v=P0g4FfDfncE
 > and i can't and i can't get it so um
 >
 > it's definitely something we need to fix
->

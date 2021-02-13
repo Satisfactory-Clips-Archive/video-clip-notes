@@ -105,4 +105,3 @@ https://www.youtube.com/watch?v=RXrCk4II2NM
 > battles depending on what's important
 >
 > yeah
->

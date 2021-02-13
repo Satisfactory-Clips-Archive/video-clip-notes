@@ -45,4 +45,3 @@ https://www.youtube.com/watch?v=Abv5c_etxZQ
 > and you were like announce stuff and
 >
 > we're like all right let's do it
->

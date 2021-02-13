@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=WAnckbn-EJ8
 > 2021
 >
 > and i don't know we're doing that
->

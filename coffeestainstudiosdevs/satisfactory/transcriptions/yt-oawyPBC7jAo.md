@@ -45,4 +45,3 @@ https://www.youtube.com/watch?v=oawyPBC7jAo
 > um director mark director mark john
 >
 > yeah making decisions
->

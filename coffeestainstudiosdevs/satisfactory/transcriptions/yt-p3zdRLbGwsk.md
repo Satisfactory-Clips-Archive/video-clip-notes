@@ -93,4 +93,3 @@ https://www.youtube.com/watch?v=p3zdRLbGwsk
 > screen percentage thing
 >
 > rather than play it in 4k
->

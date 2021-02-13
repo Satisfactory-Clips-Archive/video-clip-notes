@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=qO1Zl01HfqU
 > some point actually army
 >
 > to some degree but uh yeah
->

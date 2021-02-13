@@ -33,4 +33,3 @@ https://www.youtube.com/watch?v=Q73LO7UV_l4
 > the tldr or the the one key thing to get
 >
 > away from that answer
->

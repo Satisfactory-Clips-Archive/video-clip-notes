@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=f1iY6Fj__E0
 > time we put out an update
 >
 > we break monster
->

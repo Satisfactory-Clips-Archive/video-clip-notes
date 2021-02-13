@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=AWNwYHb69nw
 > you also see it in the main menu when
 >
 > you boot the game
->

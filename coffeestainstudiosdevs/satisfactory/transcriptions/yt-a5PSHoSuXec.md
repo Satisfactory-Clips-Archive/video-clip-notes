@@ -57,4 +57,3 @@ https://www.youtube.com/watch?v=a5PSHoSuXec
 > well uh i gotta
 >
 > flex on my friendship hola
->

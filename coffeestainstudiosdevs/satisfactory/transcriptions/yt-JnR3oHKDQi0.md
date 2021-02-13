@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=JnR3oHKDQi0
 > um so she's like the only one who knows
 >
 > i guess but uh i don't think so
->

@@ -57,4 +57,3 @@ https://www.youtube.com/watch?v=C1XaJJmvg1M
 > um it's not impossible that we add
 >
 > more stuff like that
->

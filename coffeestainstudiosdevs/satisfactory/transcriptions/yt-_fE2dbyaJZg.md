@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=_fE2dbyaJZg
 > the future
 >
 > no as far as we know um
->

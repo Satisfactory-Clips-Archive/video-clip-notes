@@ -49,4 +49,3 @@ https://www.youtube.com/watch?v=B3bO7b-5jHA
 > survival elements i don't think that's
 >
 > gonna happen
->

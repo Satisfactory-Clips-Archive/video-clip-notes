@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=7LiXrAwoqPE
 > panel behind me i got it custom made
 >
 > show off
->

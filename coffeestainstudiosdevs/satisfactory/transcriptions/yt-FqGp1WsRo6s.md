@@ -83,4 +83,3 @@ https://www.youtube.com/watch?v=FqGp1WsRo6s
 > just adding one light um
 >
 > so so yeah it's it's it's tricky
->

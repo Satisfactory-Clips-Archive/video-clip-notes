@@ -89,4 +89,3 @@ https://www.youtube.com/watch?v=Gt1ATsmBu6k
 > like suddenly isn't so obvious um
 >
 > so yeah we'll see
->

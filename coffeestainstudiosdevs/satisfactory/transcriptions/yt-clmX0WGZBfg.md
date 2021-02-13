@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=clmX0WGZBfg
 > cheap no there's gonna be
 >
 > yeah becomes less cheap
->

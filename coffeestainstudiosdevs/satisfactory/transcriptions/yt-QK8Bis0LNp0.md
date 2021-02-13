@@ -173,4 +173,3 @@ https://www.youtube.com/watch?v=QK8Bis0LNp0
 > going to try to take that uh that um
 >
 > approach so yeah
->

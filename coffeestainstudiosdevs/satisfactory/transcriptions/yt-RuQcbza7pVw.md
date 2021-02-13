@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=RuQcbza7pVw
 > think we'll do that just for the troll
 >
 > for the loss you know
->

@@ -65,4 +65,3 @@ https://www.youtube.com/watch?v=xdj5fWV5VK8
 > more open about stuff
 >
 > and uh yeah that's what's happening
->

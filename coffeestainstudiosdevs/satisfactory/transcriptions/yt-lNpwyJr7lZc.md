@@ -45,4 +45,3 @@ https://www.youtube.com/watch?v=lNpwyJr7lZc
 > anyone on the bus it was jace it was 100
 >
 > what the
->

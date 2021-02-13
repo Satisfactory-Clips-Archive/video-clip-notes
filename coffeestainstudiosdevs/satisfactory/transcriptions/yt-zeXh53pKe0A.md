@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=zeXh53pKe0A
 > i like that idea
 >
 > i don't know i kind of like
->

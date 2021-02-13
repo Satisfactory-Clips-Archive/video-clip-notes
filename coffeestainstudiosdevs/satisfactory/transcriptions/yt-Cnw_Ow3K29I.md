@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=Cnw_Ow3K29I
 > server files will be headless linux
 >
 > compatible with no idea
->

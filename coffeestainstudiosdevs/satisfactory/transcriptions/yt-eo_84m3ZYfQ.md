@@ -123,4 +123,3 @@ https://www.youtube.com/watch?v=eo_84m3ZYfQ
 > when yeah
 >
 > how it was in 2017.
->

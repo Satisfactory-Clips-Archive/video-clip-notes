@@ -53,4 +53,3 @@ https://www.youtube.com/watch?v=utwPssAgiqs
 > make it in
 >
 > and it's hard to talk about it yeah
->

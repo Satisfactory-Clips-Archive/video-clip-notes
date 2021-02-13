@@ -43,4 +43,3 @@ https://www.youtube.com/watch?v=v4zf3_-seAg
 > stone up against the
 >
 > cliff before so um
->

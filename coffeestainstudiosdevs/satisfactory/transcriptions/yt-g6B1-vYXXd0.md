@@ -45,4 +45,3 @@ https://www.youtube.com/watch?v=g6B1-vYXXd0
 > anyone who actually does develop
 >
 > there's always somebody that hardcore
->

@@ -69,4 +69,3 @@ https://www.youtube.com/watch?v=ez909nY4cQI
 > but i remember it was really smart
 >
 > so yeah
->

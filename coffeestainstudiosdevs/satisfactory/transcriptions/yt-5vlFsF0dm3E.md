@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=5vlFsF0dm3E
 > nope they're all for uh like 1.0 like
 >
 > the story stuff
->

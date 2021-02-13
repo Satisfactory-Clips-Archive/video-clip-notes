@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=UhehbJ9kR2c
 > defense
 >
 > we we don't want that either
->

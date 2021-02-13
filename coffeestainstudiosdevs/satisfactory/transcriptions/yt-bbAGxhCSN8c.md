@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=bbAGxhCSN8c
 > uh i will tell you the video last week
 >
 > can't wait to get you the drones
->

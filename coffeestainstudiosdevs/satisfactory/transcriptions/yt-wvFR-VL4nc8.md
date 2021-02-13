@@ -73,4 +73,3 @@ https://www.youtube.com/watch?v=wvFR-VL4nc8
 > resources gonna be collected from that
 >
 > so yeah
->

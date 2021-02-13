@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=Y8Ib5zlOzKI
 > production therefore they will be
 >
 > affected by it
->

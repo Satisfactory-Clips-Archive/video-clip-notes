@@ -67,4 +67,3 @@ https://www.youtube.com/watch?v=dTd-M1qGkfU
 > we have talked about in the past
 >
 > internally
->

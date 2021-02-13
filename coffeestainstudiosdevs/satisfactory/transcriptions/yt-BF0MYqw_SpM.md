@@ -157,4 +157,3 @@ https://www.youtube.com/watch?v=BF0MYqw_SpM
 > yeah this is serious business there's no
 >
 > time to goof sorry i'm a professional
->

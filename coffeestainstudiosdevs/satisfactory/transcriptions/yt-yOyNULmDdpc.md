@@ -185,4 +185,3 @@ https://www.youtube.com/watch?v=yOyNULmDdpc
 > work on many things at the same time
 >
 > kind of yeah
->

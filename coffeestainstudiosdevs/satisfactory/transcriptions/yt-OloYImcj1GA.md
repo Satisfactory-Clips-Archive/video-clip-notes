@@ -51,4 +51,3 @@ https://www.youtube.com/watch?v=OloYImcj1GA
 > to apply text and then
 >
 > does nothing okay amazing it's amazing
->

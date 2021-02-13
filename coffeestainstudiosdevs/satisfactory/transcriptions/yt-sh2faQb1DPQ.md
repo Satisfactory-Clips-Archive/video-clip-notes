@@ -59,4 +59,3 @@ https://www.youtube.com/watch?v=sh2faQb1DPQ
 > twitter and say me neither
 >
 > [Applause]
->

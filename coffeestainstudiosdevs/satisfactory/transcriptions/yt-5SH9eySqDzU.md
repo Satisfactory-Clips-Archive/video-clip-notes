@@ -99,4 +99,3 @@ https://www.youtube.com/watch?v=5SH9eySqDzU
 > you know so so
 >
 > yeah that's the state of things
->

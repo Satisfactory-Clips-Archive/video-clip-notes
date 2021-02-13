@@ -85,4 +85,3 @@ https://www.youtube.com/watch?v=X6AM0uLfM6s
 > three months right listen and
 >
 > we're doing our best awesome
->

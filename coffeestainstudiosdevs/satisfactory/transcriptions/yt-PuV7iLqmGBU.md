@@ -43,4 +43,3 @@ https://www.youtube.com/watch?v=PuV7iLqmGBU
 > yeah it's a house of cards sometimes
 >
 > everything's tied together house yeah
->

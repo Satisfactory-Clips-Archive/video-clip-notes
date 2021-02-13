@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=dfHUHMQ9JQE
 > or a week and a half i guess sort of um
 >
 > so yes
->

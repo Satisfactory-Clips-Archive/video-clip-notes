@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=yLgW2QiPT70
 > processes you know yeah and it's it's
 >
 > not as simple yeah exactly
->

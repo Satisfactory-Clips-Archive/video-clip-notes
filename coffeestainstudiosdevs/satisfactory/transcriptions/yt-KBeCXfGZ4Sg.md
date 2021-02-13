@@ -47,4 +47,3 @@ https://www.youtube.com/watch?v=KBeCXfGZ4Sg
 > just uh upload it um yeah that that's
 >
 > that would be pretty good
->

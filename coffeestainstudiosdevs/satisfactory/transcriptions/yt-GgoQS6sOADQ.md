@@ -53,4 +53,3 @@ https://www.youtube.com/watch?v=GgoQS6sOADQ
 > up but like
 >
 > cpu-wise when saving it will be slower
->

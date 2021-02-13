@@ -57,4 +57,3 @@ https://www.youtube.com/watch?v=RubFX693enI
 > i think it's the uh is the core
 >
 > thinking here
->

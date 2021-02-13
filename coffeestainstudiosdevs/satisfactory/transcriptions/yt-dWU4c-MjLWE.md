@@ -57,4 +57,3 @@ https://www.youtube.com/watch?v=dWU4c-MjLWE
 > a discord call or something like that
 >
 > um yeah
->

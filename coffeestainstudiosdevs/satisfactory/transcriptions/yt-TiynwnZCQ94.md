@@ -203,4 +203,3 @@ https://www.youtube.com/watch?v=TiynwnZCQ94
 > anyway glad i'm not a 3d artist
 >
 > unsatisfactory
->

@@ -47,4 +47,3 @@ https://www.youtube.com/watch?v=AoGBlnRxGdw
 > play games
 >
 > nerd
->

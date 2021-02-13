@@ -47,4 +47,3 @@ https://www.youtube.com/watch?v=uCG8_WGh9Bk
 > today we're just doing twitch
 >
 > um we've done both
->

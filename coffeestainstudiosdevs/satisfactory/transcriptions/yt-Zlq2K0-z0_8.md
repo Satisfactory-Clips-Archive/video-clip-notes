@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=Zlq2K0-z0_8
 > like maybe at the hub you can just check
 >
 > overall stuff okay anyway moving on um
->

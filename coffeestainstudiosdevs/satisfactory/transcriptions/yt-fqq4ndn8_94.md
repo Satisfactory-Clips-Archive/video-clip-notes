@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=fqq4ndn8_94
 > all save games still be used in the
 >
 > upcoming patch yes they will work
->

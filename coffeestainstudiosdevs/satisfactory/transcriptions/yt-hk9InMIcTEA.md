@@ -73,4 +73,3 @@ https://www.youtube.com/watch?v=hk9InMIcTEA
 > we're making or what i've done uh but we
 >
 > are going to give an update on fluids
->

@@ -67,4 +67,3 @@ https://www.youtube.com/watch?v=EAOiEQn7E5A
 > mark chan was like yeah we're gonna have
 >
 > more tears than eight
->

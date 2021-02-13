@@ -49,4 +49,3 @@ https://www.youtube.com/watch?v=juRjcmcJwkg
 > going to be our 1.0 release essentially
 >
 > so yeah
->

@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=Qw4AMG6mgnY
 > i don't know how many types and i don't
 >
 > know we'll see
->

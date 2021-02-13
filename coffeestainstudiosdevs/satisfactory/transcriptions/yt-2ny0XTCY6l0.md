@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=2ny0XTCY6l0
 > holy [ __ ] 52k i wonder if we can do
 >
 > something with that
->

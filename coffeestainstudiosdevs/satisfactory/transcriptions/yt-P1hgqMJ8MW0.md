@@ -15,4 +15,3 @@ https://www.youtube.com/watch?v=P1hgqMJ8MW0
 ### Transcript
 
 > yes
->

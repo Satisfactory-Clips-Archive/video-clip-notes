@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=RIDb5diAEgE
 > uh mostly it's hype yeah a lot of it is
 >
 > probably hype i guess
->

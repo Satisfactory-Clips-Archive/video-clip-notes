@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=pLe-afyAtIo
 > says that but so maybe it will give me a
 >
 > strength
->

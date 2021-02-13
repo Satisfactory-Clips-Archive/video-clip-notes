@@ -51,4 +51,3 @@ https://www.youtube.com/watch?v=ValaMW93Q7g
 > making that command dude yeah i gotta
 >
 > make it worth
->

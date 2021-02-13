@@ -103,4 +103,3 @@ https://www.youtube.com/watch?v=CN2G6ZH6bmA
 > [Music]
 >
 > when that happens so to speak
->

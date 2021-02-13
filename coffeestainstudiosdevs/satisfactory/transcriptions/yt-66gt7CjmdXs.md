@@ -63,4 +63,3 @@ https://www.youtube.com/watch?v=66gt7CjmdXs
 > but
 >
 > i make youtube videos so like who knows
->

@@ -47,4 +47,3 @@ https://www.youtube.com/watch?v=T2MEOzplmSQ
 > about like because maybe it is that yeah
 >
 > correct
->

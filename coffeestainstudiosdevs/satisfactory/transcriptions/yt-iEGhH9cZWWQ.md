@@ -359,4 +359,3 @@ https://www.youtube.com/watch?v=iEGhH9cZWWQ
 > what we say everything is confirmed
 >
 > obviously first even yeah exactly
->

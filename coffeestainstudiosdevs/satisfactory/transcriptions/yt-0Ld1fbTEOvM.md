@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=0Ld1fbTEOvM
 > not something that we
 >
 > uh are prioritizing vr no
->

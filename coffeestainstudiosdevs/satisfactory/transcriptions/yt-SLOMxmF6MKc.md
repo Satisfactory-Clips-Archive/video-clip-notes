@@ -49,4 +49,3 @@ https://www.youtube.com/watch?v=SLOMxmF6MKc
 > sort of goal
 >
 > yeah for the most part yeah
->

@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=GdrTnF4-6ZQ
 > good um
 >
 > it's all fine size
->

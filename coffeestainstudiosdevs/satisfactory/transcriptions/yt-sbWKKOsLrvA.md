@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=sbWKKOsLrvA
 > with it mobile edition
 >
 > soon
->

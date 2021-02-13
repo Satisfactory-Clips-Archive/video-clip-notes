@@ -51,4 +51,3 @@ https://www.youtube.com/watch?v=fR7qgr7AGEo
 > we don't know is what he's trying to say
 >
 > yeah yeah kinda
->

@@ -53,4 +53,3 @@ https://www.youtube.com/watch?v=v21Dz1EfRPE
 > make a huge difference but uh that's
 >
 > just my assumption
->

@@ -63,4 +63,3 @@ https://www.youtube.com/watch?v=20nzwUoDWuA
 > rendering thread
 >
 > in the current way we've implemented it
->

@@ -89,4 +89,3 @@ https://www.youtube.com/watch?v=fufH5ltdn7E
 > that internally i think maybe we should
 >
 > try and bring it up more
->

@@ -69,4 +69,3 @@ https://www.youtube.com/watch?v=tkx-DVLp3fs
 > in this game right
 >
 > so so uh yeah working on it
->

@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=DFO9JPJP1yM
 > but um
 >
 > yeah that's all i know currently
->

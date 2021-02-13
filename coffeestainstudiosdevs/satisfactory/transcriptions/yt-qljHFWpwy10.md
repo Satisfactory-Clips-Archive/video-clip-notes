@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=qljHFWpwy10
 > thing to add at this point like in terms
 >
 > of what we plan on doing
->

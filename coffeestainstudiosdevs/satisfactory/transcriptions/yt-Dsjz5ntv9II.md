@@ -37,4 +37,3 @@ https://www.youtube.com/watch?v=Dsjz5ntv9II
 > yeah let the community managers design
 >
 > the game this is gonna be amazing
->

@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=3b1QpgsICwA
 > i also don't know the state of
 >
 > development for star citizen
->

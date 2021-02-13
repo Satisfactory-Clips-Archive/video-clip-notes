@@ -53,4 +53,3 @@ https://www.youtube.com/watch?v=LX-zsQIkB3g
 > your mind or not
 >
 > is a matter of time i guess
->

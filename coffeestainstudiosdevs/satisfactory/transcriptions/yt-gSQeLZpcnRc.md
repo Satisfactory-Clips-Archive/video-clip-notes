@@ -159,4 +159,3 @@ https://www.youtube.com/watch?v=gSQeLZpcnRc
 > job is nine percent of being on a job
 >
 > that's kind of true
->

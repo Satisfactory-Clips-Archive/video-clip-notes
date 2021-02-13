@@ -79,4 +79,3 @@ https://www.youtube.com/watch?v=CExAeq0cW5E
 > relatively quite some time
 >
 > lies you expect us to just drop it
->

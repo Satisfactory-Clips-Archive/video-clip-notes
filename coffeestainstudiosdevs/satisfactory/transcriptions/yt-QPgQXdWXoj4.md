@@ -187,4 +187,3 @@ https://www.youtube.com/watch?v=QPgQXdWXoj4
 > a bit intense yeah hey don't question
 >
 > our methods
->

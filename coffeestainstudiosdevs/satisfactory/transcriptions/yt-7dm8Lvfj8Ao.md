@@ -67,4 +67,3 @@ https://www.youtube.com/watch?v=7dm8Lvfj8Ao
 > to
 >
 > um it's just really hard to do
->

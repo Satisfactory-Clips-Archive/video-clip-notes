@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=I0al2jSp_Rk
 > uh i think so i think so i think that's
 >
 > the lore
->

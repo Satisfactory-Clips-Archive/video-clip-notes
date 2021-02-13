@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=HeezNCrsBRU
 > i think this is the same old answer as
 >
 > we always give every week
->

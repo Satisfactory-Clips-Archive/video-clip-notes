@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=5v6QGL7KBZk
 > detect these nuts
 >
 > that's actually pretty good oh aydah
->

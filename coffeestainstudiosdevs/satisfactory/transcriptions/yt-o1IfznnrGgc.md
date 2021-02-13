@@ -57,4 +57,3 @@ https://www.youtube.com/watch?v=o1IfznnrGgc
 > sort of what you were talking about i
 >
 > figured i would mention
->

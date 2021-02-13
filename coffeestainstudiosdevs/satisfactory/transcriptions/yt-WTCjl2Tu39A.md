@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=WTCjl2Tu39A
 > quickly
 >
 > um yeah there's a rifle
->

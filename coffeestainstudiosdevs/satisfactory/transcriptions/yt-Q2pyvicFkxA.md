@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=Q2pyvicFkxA
 > like maybe we don't right so i don't
 >
 > want to say we're going to be there
->

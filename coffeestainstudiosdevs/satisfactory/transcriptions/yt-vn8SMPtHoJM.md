@@ -59,4 +59,3 @@ https://www.youtube.com/watch?v=vn8SMPtHoJM
 > yep yeah exactly so i was like let's do
 >
 > something new yeah
->

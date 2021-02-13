@@ -65,4 +65,3 @@ https://www.youtube.com/watch?v=DdGctBLngpE
 > samlor for instance will be usable and
 >
 > stuff like that
->

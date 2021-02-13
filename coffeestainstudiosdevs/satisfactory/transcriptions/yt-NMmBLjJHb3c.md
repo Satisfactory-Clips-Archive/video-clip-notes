@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=NMmBLjJHb3c
 > first right yeah yeah all right [ __ ]
 >
 > god how could they
->

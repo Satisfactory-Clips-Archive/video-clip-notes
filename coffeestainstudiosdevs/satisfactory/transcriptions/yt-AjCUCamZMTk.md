@@ -63,4 +63,3 @@ https://www.youtube.com/watch?v=AjCUCamZMTk
 > yeah yeah so don't worry we're still
 >
 > working on satisfactory yep
->

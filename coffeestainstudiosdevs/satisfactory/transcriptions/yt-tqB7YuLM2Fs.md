@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=tqB7YuLM2Fs
 > possible to find something
 >
 > tot op drock pret plat
->

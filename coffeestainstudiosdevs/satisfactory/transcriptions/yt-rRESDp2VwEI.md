@@ -137,4 +137,3 @@ https://www.youtube.com/watch?v=rRESDp2VwEI
 > until then i have no idea
 >
 > and yeah um
->

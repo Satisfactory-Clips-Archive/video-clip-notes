@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=NQ8x2q2z55w
 > kind hello let's be friends
 >
 > sorry go on uh
->

@@ -51,4 +51,3 @@ https://www.youtube.com/watch?v=4RrHBOTPcs8
 > go for the 100 might miss out or
 >
 > something i don't know
->

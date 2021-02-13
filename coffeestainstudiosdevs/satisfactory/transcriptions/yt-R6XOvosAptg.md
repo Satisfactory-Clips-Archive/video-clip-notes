@@ -47,4 +47,3 @@ https://www.youtube.com/watch?v=R6XOvosAptg
 > but yeah a lot of [ __ ] here on this
 >
 > stream how
->

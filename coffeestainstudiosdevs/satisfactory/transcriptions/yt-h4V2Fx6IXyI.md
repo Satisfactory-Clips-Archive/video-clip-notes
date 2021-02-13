@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=h4V2Fx6IXyI
 > you die as a communal manager you die in
 >
 > real life
->

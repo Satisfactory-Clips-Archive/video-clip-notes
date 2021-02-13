@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=KfvXbDycjds
 > right you fired 995
 >
 > 420 yeah
->

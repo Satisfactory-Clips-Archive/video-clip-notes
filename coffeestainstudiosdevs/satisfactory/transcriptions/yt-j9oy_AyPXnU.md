@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=j9oy_AyPXnU
 > um so like if it works at all it's luck
 >
 > right now
->

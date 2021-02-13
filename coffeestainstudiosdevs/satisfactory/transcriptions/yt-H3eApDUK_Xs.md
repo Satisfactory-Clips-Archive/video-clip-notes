@@ -85,4 +85,3 @@ https://www.youtube.com/watch?v=H3eApDUK_Xs
 > don't have it it doesn't skip
 >
 > just place them anyway wow
->

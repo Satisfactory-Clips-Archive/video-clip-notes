@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=5snNwUqWAxA
 > soru soruyorum işte
 >
 > bu durum
->

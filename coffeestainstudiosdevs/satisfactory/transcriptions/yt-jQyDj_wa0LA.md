@@ -71,4 +71,3 @@ https://www.youtube.com/watch?v=jQyDj_wa0LA
 > some merch is going to be available
 >
 > fairly soon i think
->

@@ -51,4 +51,3 @@ https://www.youtube.com/watch?v=zJtAxMIxK34
 > think
 >
 > the eternal problem yeah for sure
->

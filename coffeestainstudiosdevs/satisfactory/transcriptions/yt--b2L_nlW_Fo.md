@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=-b2L_nlW_Fo
 > the one thing i know for sure
 >
 > is not gonna be the case
->

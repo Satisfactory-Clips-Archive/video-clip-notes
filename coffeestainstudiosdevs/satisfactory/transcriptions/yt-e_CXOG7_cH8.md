@@ -61,4 +61,3 @@ https://www.youtube.com/watch?v=e_CXOG7_cH8
 > yeah same kind of thing it's like a
 >
 > winning yeah a winning condition yeah
->

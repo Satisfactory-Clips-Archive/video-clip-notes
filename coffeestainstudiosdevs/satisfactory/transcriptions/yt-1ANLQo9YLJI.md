@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=1ANLQo9YLJI
 > know
 >
 > honestly they don't tell me nothing
->

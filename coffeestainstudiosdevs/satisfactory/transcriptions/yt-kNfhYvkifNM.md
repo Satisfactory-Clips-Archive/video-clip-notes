@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=kNfhYvkifNM
 > it could be my like my like the room
 >
 > isn't really well acoustic yeah
->

@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=VLvqacnnn5c
 > upload it
 >
 > um yeah that's good good ideas
->

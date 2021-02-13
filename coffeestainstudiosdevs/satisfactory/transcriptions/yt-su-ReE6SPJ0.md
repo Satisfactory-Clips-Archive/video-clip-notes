@@ -185,4 +185,3 @@ https://www.youtube.com/watch?v=su-ReE6SPJ0
 > um but yeah joe police's uh
 >
 > yeah i think that's pretty much it
->

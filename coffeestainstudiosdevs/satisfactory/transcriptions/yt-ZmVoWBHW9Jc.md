@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=ZmVoWBHW9Jc
 > just got to get good i i need to get
 >
 > good because because i'm not doing it
->

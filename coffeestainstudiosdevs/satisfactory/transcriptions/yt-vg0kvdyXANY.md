@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=vg0kvdyXANY
 > the future
 >
 > not impossible
->

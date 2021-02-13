@@ -103,4 +103,3 @@ https://www.youtube.com/watch?v=Arc8UO1Ne7M
 > they're circumventing them somehow um
 >
 > so yeah
->

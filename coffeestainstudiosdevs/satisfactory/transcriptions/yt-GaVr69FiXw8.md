@@ -73,4 +73,3 @@ https://www.youtube.com/watch?v=GaVr69FiXw8
 > mess up that schedule
 >
 > i don't know yeah
->

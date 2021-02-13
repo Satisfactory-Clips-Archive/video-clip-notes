@@ -97,4 +97,3 @@ https://www.youtube.com/watch?v=oaPsSg5iwBc
 > more so than
 >
 > to support us if anything yeah
->

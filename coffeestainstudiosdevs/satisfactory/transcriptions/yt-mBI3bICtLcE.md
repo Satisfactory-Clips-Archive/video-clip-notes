@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=mBI3bICtLcE
 > bam and on time okay so we'll we'll move
 >
 > on from that there
->

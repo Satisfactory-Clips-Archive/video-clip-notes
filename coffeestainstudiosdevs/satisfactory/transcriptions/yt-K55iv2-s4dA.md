@@ -165,4 +165,3 @@ https://www.youtube.com/watch?v=K55iv2-s4dA
 > and i am not building foundations so
 >
 > i'm stealing some of that
->

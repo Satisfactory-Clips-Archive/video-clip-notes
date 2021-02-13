@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=VjKPXr_e5yk
 > something unless we don't do anything
 >
 > with it i don't know
->

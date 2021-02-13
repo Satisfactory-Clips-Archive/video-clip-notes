@@ -73,4 +73,3 @@ https://www.youtube.com/watch?v=3Tht0Ap0S8c
 > significantly smaller if we just remove
 >
 > that but
->

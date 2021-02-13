@@ -17,4 +17,3 @@ https://www.youtube.com/watch?v=93DSnzyAqFI
 > um strict secret mode so leaked in two
 >
 > weeks exactly
->

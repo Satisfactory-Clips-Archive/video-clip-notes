@@ -33,4 +33,3 @@ https://www.youtube.com/watch?v=Wq7wvbW3fPo
 > then we just haven't had time
 >
 > to fix it or something yeah i don't know
->

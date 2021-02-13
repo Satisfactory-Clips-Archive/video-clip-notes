@@ -19,4 +19,3 @@ https://www.youtube.com/watch?v=LqhidO6272A
 > actually
 >
 > um platform building space new
->

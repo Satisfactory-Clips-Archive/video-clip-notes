@@ -139,4 +139,3 @@ https://www.youtube.com/watch?v=pj50SOLT17Q
 > i mean i see to see it work and be
 >
 > perfect
->

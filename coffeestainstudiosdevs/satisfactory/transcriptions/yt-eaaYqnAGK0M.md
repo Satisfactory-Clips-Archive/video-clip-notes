@@ -147,4 +147,3 @@ https://www.youtube.com/watch?v=eaaYqnAGK0M
 > and help each other out and we will see
 >
 > it yeah
->

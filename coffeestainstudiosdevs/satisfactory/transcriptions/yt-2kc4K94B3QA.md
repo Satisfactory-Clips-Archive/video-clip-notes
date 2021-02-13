@@ -43,4 +43,3 @@ https://www.youtube.com/watch?v=2kc4K94B3QA
 > he's like i finally fixed it
 >
 > i guess not i haven't seen
->

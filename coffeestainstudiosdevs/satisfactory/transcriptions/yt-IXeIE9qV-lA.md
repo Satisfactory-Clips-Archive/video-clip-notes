@@ -135,4 +135,3 @@ https://www.youtube.com/watch?v=IXeIE9qV-lA
 > even like the quality and it's like uh
 >
 > yeah feels bad exactly
->

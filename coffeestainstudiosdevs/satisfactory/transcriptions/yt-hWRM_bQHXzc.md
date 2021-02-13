@@ -73,4 +73,3 @@ https://www.youtube.com/watch?v=hWRM_bQHXzc
 > don't know maybe that's not like
 >
 > sure it could still be overcome yeah
->

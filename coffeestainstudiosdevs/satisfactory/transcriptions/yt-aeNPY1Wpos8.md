@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=aeNPY1Wpos8
 > whoa whoa the resentment
 >
 > so yeah
->

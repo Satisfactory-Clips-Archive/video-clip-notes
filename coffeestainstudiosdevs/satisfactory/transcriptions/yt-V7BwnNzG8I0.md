@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=V7BwnNzG8I0
 > people can help you probably quicker
 >
 > without there there
->

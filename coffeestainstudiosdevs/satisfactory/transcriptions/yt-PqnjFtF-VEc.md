@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=PqnjFtF-VEc
 > maybe you saw them earlier
 >
 > my dynamic
->

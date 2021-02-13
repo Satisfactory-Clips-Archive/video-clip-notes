@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=CznWASCszcA
 > intelligent alien right
 >
 > you're on that you're the alien yeah
->

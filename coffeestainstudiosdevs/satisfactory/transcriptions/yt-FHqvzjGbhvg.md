@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=FHqvzjGbhvg
 > i don't know no idea we didn't even know
 >
 > when 1.0 is
->

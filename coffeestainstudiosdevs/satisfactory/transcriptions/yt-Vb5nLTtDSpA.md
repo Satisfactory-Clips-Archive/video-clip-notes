@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=Vb5nLTtDSpA
 > you have to beat flappy goat oh yeah
 >
 > and then we'll release it on mobile yep
->

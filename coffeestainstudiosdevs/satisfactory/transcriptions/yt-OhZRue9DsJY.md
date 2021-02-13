@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=OhZRue9DsJY
 > this week this thursday i believe
 >
 > um
->

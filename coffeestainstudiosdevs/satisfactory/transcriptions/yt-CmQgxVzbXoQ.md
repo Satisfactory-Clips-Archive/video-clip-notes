@@ -15,4 +15,3 @@ https://www.youtube.com/watch?v=CmQgxVzbXoQ
 ### Transcript
 
 > es gibt fixe ist bergnot
->

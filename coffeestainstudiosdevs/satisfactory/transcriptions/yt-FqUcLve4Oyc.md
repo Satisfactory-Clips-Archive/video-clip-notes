@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=FqUcLve4Oyc
 > i'll i'm gonna update on the faq on the
 >
 > discord
->

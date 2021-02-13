@@ -51,4 +51,3 @@ https://www.youtube.com/watch?v=tHUqAoOXffs
 > the expectation and whatnot
 >
 > we'll talk to some people see
->

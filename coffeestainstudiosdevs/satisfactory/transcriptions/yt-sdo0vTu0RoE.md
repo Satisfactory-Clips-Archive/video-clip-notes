@@ -33,4 +33,3 @@ https://www.youtube.com/watch?v=sdo0vTu0RoE
 > anything you just need to send hit send
 >
 > on the crush reporter
->

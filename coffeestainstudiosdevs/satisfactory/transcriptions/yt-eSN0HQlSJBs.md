@@ -105,4 +105,3 @@ https://www.youtube.com/watch?v=eSN0HQlSJBs
 > i think that's a good summary of what's
 >
 > happening
->

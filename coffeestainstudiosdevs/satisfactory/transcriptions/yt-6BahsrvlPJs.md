@@ -33,4 +33,3 @@ https://www.youtube.com/watch?v=6BahsrvlPJs
 > color vehicles at some point i'm pretty
 >
 > sure
->

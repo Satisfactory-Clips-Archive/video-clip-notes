@@ -57,4 +57,3 @@ https://www.youtube.com/watch?v=caJMcQ-Z0eE
 > that later because it just
 >
 > i just had an idea an epiphany in fact
->

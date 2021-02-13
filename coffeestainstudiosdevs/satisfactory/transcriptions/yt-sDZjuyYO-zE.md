@@ -123,4 +123,3 @@ https://www.youtube.com/watch?v=sDZjuyYO-zE
 > like oh turns out i did
 >
 > i get that as well
->

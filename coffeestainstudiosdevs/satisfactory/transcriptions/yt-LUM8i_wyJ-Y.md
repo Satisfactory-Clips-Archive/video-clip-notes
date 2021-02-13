@@ -49,4 +49,3 @@ https://www.youtube.com/watch?v=LUM8i_wyJ-Y
 > the time to make it more
 >
 > serialized
->

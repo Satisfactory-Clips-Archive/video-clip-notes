@@ -65,4 +65,3 @@ https://www.youtube.com/watch?v=SJI1puC2mEw
 > yeah hey it's the q8 side but how much
 >
 > does it weigh yeah
->

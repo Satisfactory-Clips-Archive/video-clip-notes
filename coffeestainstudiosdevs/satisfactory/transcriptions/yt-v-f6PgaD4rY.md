@@ -17,4 +17,3 @@ https://www.youtube.com/watch?v=v-f6PgaD4rY
 ### Transcript
 
 > este sentido aquí
->

@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=fO_ZW22gL-g
 > first time yeah we did that was pretty
 >
 > fun pretty fun
->

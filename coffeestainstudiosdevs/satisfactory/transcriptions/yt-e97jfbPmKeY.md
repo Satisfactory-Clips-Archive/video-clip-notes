@@ -47,4 +47,3 @@ https://www.youtube.com/watch?v=e97jfbPmKeY
 > don't know whatever
 >
 > this direct tron comes up with um
->

@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=dRtDPajp9Qo
 > in the future yeah if anything it'll
 >
 > probably be a video yeah
->

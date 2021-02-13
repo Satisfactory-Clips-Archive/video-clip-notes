@@ -43,4 +43,3 @@ https://www.youtube.com/watch?v=zVnmYZemxe8
 > um and i'm not sure if
 >
 > when if who um
->

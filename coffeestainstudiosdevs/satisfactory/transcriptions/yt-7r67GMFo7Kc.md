@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=7r67GMFo7Kc
 > we do we do performance tests that are
 >
 > automated but that's pretty much it
->

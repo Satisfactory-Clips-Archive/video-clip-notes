@@ -67,4 +67,3 @@ https://www.youtube.com/watch?v=cqz8zcpP2og
 > even though i don't tweet people still
 >
 > get mad at me
->

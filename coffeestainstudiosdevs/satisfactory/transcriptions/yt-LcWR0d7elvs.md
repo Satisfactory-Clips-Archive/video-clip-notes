@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=LcWR0d7elvs
 > current
 >
 > state of it i think
->

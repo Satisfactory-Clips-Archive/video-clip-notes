@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=sTyZCrW9F_E
 > do it i love it it's like the only way
 >
 > for me to enjoy the game right now
->

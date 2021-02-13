@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=9pr79A-BvHU
 > i just got banned from our discord
 >
 > yeah
->

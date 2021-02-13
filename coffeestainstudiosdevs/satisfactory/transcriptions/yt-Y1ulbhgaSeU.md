@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=Y1ulbhgaSeU
 > yeah i would probably serve so close oh
 >
 > sorry okay go ahead i was just finishing
->

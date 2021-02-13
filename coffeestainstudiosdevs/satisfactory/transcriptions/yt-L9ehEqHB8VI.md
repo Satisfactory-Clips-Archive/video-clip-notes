@@ -61,4 +61,3 @@ https://www.youtube.com/watch?v=L9ehEqHB8VI
 > so i just like didn't know what to do
 >
 > for like an hour today or two hours
->

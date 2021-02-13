@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=ipZ1acgaODg
 > forget about it you can only have one
 >
 > thing yeah
->

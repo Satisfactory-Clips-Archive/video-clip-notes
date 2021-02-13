@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=krQI-cHEAl8
 > when's your one-hour pipe stream
 >
 > we'll announce that later yeah
->

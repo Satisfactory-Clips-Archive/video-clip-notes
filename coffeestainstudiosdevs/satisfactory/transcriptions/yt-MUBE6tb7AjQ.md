@@ -37,4 +37,3 @@ https://www.youtube.com/watch?v=MUBE6tb7AjQ
 > it is it is planned it is planned it is
 >
 > planned okay cool
->

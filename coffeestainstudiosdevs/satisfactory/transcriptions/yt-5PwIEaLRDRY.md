@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=5PwIEaLRDRY
 > to be updated for or not uh i also
 >
 > but they will come
->

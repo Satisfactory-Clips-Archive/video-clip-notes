@@ -15,4 +15,3 @@ https://www.youtube.com/watch?v=jdOQXcBiSH0
 ### Transcript
 
 > horford
->

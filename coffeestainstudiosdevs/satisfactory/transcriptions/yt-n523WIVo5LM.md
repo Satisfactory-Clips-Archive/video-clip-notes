@@ -99,4 +99,3 @@ https://www.youtube.com/watch?v=n523WIVo5LM
 > yeah so there's there's
 >
 > there's stuff to work on like
->

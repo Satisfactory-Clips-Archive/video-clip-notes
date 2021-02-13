@@ -43,4 +43,3 @@ https://www.youtube.com/watch?v=UFWTP8Nu-MI
 > prior list and that's it's gonna happen
 >
 > at some point i think
->

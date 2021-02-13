@@ -57,4 +57,3 @@ https://www.youtube.com/watch?v=Wk1osyojNQw
 > is always like oh yeah we explained that
 >
 > in a youtube video
->

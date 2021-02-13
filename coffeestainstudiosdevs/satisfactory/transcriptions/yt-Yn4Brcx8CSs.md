@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=Yn4Brcx8CSs
 > or passivist mode like being to
 >
 > potential ones
->

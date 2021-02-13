@@ -17,4 +17,3 @@ https://www.youtube.com/watch?v=3DLGyE9GUf4
 > how do you ping you press alt
 >
 > and you hold alt and press left click
->

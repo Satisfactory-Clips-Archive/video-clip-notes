@@ -69,4 +69,3 @@ https://www.youtube.com/watch?v=VUe1w6nSdko
 > pad and just blast it up
 >
 > there easy peasy easy peasy
->

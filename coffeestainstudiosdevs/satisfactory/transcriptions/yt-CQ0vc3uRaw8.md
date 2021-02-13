@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=CQ0vc3uRaw8
 > beautiful planet with nukes
 >
 > not that we're not already destroying it
->

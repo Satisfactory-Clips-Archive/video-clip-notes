@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=y51YDVf8VOI
 > our ideas are super super pickle
 >
 > right now yeah
->

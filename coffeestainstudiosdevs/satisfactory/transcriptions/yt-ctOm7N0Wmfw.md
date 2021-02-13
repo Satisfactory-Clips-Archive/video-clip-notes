@@ -43,4 +43,3 @@ https://www.youtube.com/watch?v=ctOm7N0Wmfw
 > right now we can totally look into that
 >
 > yeah
->

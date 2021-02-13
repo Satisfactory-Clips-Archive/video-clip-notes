@@ -43,4 +43,3 @@ https://www.youtube.com/watch?v=gAjKNyUTkMQ
 > yeah that is the thing that's still
 >
 > coming up
->

@@ -39,4 +39,3 @@ https://www.youtube.com/watch?v=9M0KquupIBs
 > should be hopefully trademark
 >
 > if all the planets are lying um
->

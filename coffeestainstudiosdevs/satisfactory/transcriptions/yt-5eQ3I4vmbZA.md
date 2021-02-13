@@ -27,4 +27,3 @@ https://www.youtube.com/watch?v=5eQ3I4vmbZA
 > generation like you're supposed to feel
 >
 > annoying you don't want to use them
->

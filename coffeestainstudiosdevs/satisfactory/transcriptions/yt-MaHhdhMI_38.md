@@ -69,4 +69,3 @@ https://www.youtube.com/watch?v=MaHhdhMI_38
 > as well to appropriate places in a
 >
 > progression anyway
->

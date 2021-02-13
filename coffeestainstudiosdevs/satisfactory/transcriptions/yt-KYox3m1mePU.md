@@ -21,4 +21,3 @@ https://www.youtube.com/watch?v=KYox3m1mePU
 > drones
 >
 > yeah we have
->

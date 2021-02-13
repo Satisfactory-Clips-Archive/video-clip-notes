@@ -363,4 +363,3 @@ https://www.youtube.com/watch?v=1UbLRZJ0-SE
 > ideal ways
 >
 > for sure yeah just
->

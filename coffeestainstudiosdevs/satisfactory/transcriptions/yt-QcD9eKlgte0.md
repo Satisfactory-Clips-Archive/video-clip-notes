@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=QcD9eKlgte0
 > so it's like there's no point so like
 >
 > yeah
->

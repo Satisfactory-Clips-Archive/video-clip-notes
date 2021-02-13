@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=_XfcfZ8vfj8
 > so it's uh it's a it's a marathon not a
 >
 > sprint
->

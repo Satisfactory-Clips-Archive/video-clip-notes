@@ -35,4 +35,3 @@ https://www.youtube.com/watch?v=yhi19PhUzkE
 > do much with it right now i think it's a
 >
 > great idea
->

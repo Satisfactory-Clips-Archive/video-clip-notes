@@ -49,4 +49,3 @@ https://www.youtube.com/watch?v=VyyzowIc504
 > patching around 2 469 bugs on the wall
 >
 > i mean it's true
->

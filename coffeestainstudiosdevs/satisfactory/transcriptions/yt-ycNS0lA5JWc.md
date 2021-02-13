@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=ycNS0lA5JWc
 > another way
 >
 > so we just like the rejects
->

@@ -93,4 +93,3 @@ https://www.youtube.com/watch?v=NJxOCbsJtZQ
 > should be simpler yeah this
 >
 > is the way the cookie crumbles
->

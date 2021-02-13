@@ -33,4 +33,3 @@ https://www.youtube.com/watch?v=DpT2LNED0wk
 > oh what was the video community manager
 >
 > you can't win
->

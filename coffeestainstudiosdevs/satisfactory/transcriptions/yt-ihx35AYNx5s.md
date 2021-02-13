@@ -69,4 +69,3 @@ https://www.youtube.com/watch?v=ihx35AYNx5s
 > for a programmer and an animator
 >
 > right now
->

@@ -51,4 +51,3 @@ https://www.youtube.com/watch?v=5kVXtK-Yu5g
 > the fiscal year probably 20 21 that's
 >
 > true
->

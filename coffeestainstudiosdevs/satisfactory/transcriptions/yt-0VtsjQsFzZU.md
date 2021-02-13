@@ -183,4 +183,3 @@ https://www.youtube.com/watch?v=0VtsjQsFzZU
 > same error
 >
 > okay calc slice transform
->

@@ -273,4 +273,3 @@ https://www.youtube.com/watch?v=nPt7srp4O18
 > just cut stuff and you'd get it later
 >
 > anyway yeah so
->

@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=003TYyIDfk4
 > uh piercing the veil uh
 >
 > checkup and then we can do another one
->

@@ -31,4 +31,3 @@ https://www.youtube.com/watch?v=o-rncE3S1wA
 > awesome store will stay
 >
 > mostly the same but i can't say for sure
->

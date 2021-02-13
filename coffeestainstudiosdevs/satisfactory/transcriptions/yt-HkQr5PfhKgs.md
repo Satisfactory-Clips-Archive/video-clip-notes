@@ -207,4 +207,3 @@ https://www.youtube.com/watch?v=HkQr5PfhKgs
 > i had it in the script yeah
 >
 > oh yeah
->

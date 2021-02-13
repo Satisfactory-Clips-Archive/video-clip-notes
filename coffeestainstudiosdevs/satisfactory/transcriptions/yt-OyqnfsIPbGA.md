@@ -77,4 +77,3 @@ https://www.youtube.com/watch?v=OyqnfsIPbGA
 > anything that would be dope
 >
 > um i'll send my card in folks
->

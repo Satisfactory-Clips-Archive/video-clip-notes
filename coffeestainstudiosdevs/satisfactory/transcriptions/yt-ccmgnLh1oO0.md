@@ -45,4 +45,3 @@ https://www.youtube.com/watch?v=ccmgnLh1oO0
 > that they're probably just going to be
 >
 > these random things up until that point
->

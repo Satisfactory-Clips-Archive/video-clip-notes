@@ -37,4 +37,3 @@ https://www.youtube.com/watch?v=x55_Zt2OLQ4
 > degree
 >
 > and i don't know for sure when so
->

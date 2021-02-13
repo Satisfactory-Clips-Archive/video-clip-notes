@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=Dj2hOG7UjVA
 > intentionally going to be like locking
 >
 > anything down but yeah
->

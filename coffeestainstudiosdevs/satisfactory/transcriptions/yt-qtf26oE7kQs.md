@@ -15,4 +15,3 @@ https://www.youtube.com/watch?v=qtf26oE7kQs
 ### Transcript
 
 > how many updates to 1.0 no one knows
->

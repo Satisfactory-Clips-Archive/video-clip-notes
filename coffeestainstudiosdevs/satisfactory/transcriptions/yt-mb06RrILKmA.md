@@ -41,4 +41,3 @@ https://www.youtube.com/watch?v=mb06RrILKmA
 > so yes can we train wait did you
 >
 > not do something
->

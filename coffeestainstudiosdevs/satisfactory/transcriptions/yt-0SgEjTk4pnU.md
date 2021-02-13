@@ -89,4 +89,3 @@ https://www.youtube.com/watch?v=0SgEjTk4pnU
 > connect like you will be able to play
 >
 > together
->

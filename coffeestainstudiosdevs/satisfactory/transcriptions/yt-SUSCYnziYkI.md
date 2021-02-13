@@ -67,4 +67,3 @@ https://www.youtube.com/watch?v=SUSCYnziYkI
 > we were making the same so yeah it's all
 >
 > over the place
->
