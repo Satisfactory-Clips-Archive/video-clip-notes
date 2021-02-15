@@ -3,14 +3,14 @@ title: "October 13th, 2020 Livestream Q&A: I want this to come to XBox Series X 
 date: "2020-10-13"
 layout: transcript
 topics:
-    - ""
+    - "features/possible-features/console-release"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: I want this to come to XBox Series X & Playstation 5
 https://www.youtube.com/watch?v=9NqrE4ASW9U
 
 ### Topics
-
+* [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)
 
 ### Transcript
 

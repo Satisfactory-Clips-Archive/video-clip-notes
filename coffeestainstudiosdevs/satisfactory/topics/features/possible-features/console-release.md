@@ -30,6 +30,9 @@ date: Last Modified
 * [Q&A: Is Console support coming?](../../../transcriptions/yt-tqB7YuLM2Fs.md) https://www.youtube.com/watch?v=tqB7YuLM2Fs
 * [Trolling: Console Support](../../../transcriptions/yt-OMFvjE8llfs.md) https://www.youtube.com/watch?v=OMFvjE8llfs
 
+## October 13th, 2020 Livestream
+* [Q&A: I want this to come to XBox Series X & Playstation 5](../../../transcriptions/yt-9NqrE4ASW9U.md) https://www.youtube.com/watch?v=9NqrE4ASW9U
+
 ## September 8th, 2020 Livestream
 * [Q&A: Will this game come out on Console at some point?](../../../transcriptions/yt-pfD6p4g3fQ8.md) https://www.youtube.com/watch?v=pfD6p4g3fQ8
 
