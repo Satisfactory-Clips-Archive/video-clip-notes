@@ -50,7 +50,7 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * [Q&A: Any idea about Official Modding?](../../../transcriptions/yt-D5-Y6LYR7jk.md) https://www.youtube.com/watch?v=D5-Y6LYR7jk
 * [Q&A: Are you concerned that Dedicated Servers will cause people to move through Tiers too quickly?](../../../transcriptions/yt-A2fwfnB8O4U.md) https://www.youtube.com/watch?v=A2fwfnB8O4U
-* Q&A: The Map of the Dedicted Server, currently it doesn't have enough nodes for a Competitive map https://www.youtube.com/watch?v=rtOmNkt5whw
+* Q&A: The Map of the Dedicated Server, currently it doesn't have enough nodes for a Competitive map https://www.youtube.com/watch?v=rtOmNkt5whw
 * [Q&A: Will Dedicated Servers run under Linux?](../../../transcriptions/yt-v5Niam8EYts.md) https://www.youtube.com/watch?v=v5Niam8EYts
 
 ## October 20th, 2020 Livestream

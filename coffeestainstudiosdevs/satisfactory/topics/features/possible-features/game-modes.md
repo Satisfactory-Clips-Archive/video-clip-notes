@@ -35,7 +35,7 @@ date: Last Modified
 
 ## November 3rd, 2020 Livestream
 * [Q&A: Is there going to be a Creative Mode?](../../../transcriptions/yt-Yn4Brcx8CSs.md) https://www.youtube.com/watch?v=Yn4Brcx8CSs
-* Q&A: The Map of the Dedicted Server, currently it doesn't have enough nodes for a Competitive map https://www.youtube.com/watch?v=rtOmNkt5whw
+* Q&A: The Map of the Dedicated Server, currently it doesn't have enough nodes for a Competitive map https://www.youtube.com/watch?v=rtOmNkt5whw
 
 ## September 29th, 2020 Livestream
 * [Q&A: Satisfactory Sandbox ever?](../../../transcriptions/yt-3m68c85bVUM.md) https://www.youtube.com/watch?v=3m68c85bVUM

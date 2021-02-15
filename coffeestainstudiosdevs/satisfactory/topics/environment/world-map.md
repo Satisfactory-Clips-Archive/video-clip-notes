@@ -68,7 +68,7 @@ date: Last Modified
 * [Q&A: Is it going to be possible to create randomly generated Resources on the Map?](../../transcriptions/yt-xeAXhjMWZpI.md) https://www.youtube.com/watch?v=xeAXhjMWZpI
 * [Q&A: Map is amazing, but infinite generation?](../../transcriptions/yt-2yoGAha7ju0.md) https://www.youtube.com/watch?v=2yoGAha7ju0
 * [Q&A: Shouldn't Vehicles despawn after they fall off the World?](../../transcriptions/yt-3n1NZE7lkOk.md) https://www.youtube.com/watch?v=3n1NZE7lkOk
-* Q&A: The Map of the Dedicted Server, currently it doesn't have enough nodes for a Competitive map https://www.youtube.com/watch?v=rtOmNkt5whw
+* Q&A: The Map of the Dedicated Server, currently it doesn't have enough nodes for a Competitive map https://www.youtube.com/watch?v=rtOmNkt5whw
 * [Q&A: Will the Map become bigger?](../../transcriptions/yt-1pzu9fbySq0.md) https://www.youtube.com/watch?v=1pzu9fbySq0
 
 ## October 27th, 2020 Livestream
