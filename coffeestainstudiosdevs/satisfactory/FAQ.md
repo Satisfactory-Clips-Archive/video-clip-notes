@@ -1339,6 +1339,9 @@ date: Last Modified
 #### [December 8th, 2020 Livestream](./2020-12-08.md)
 * [Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) https://www.youtube.com/watch?v=5-8ACtMU2_E
 
+#### [October 13th, 2020 Livestream](./2020-10-13.md)
+* [Q&A: If Factories can get attacked?](./transcriptions/yt-tK_m7AqM4sY.md) https://www.youtube.com/watch?v=tK_m7AqM4sY
+
 #### [September 22nd, 2020 Livestream](./2020-09-22.md)
 * [Q&A: Hoping for Base Defence?](./transcriptions/yt-RjFIQhJY824.md) https://www.youtube.com/watch?v=RjFIQhJY824
 

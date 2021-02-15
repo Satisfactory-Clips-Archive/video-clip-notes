@@ -29,6 +29,9 @@ date: Last Modified
 ## October 20th, 2020 Livestream
 * [Q&A: Are there any features you guys really want in the game but you can't/won't add?](../../../transcriptions/yt-QuCAOO3xPQQ.md) https://www.youtube.com/watch?v=QuCAOO3xPQQ
 
+## October 13th, 2020 Livestream
+* [Q&A: If Factories can get attacked?](../../../transcriptions/yt-tK_m7AqM4sY.md) https://www.youtube.com/watch?v=tK_m7AqM4sY
+
 ## October 6th, 2020 Livestream
 * [Q&A: Do you have any good stories for features that didn't get included in the game?](../../../transcriptions/yt-JkSvpUl7jX8.md) https://www.youtube.com/watch?v=JkSvpUl7jX8
 

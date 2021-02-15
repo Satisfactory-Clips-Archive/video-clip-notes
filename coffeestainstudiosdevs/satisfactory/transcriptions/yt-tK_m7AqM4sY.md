@@ -4,6 +4,7 @@ date: "2020-10-13"
 layout: transcript
 topics:
     - "environment/creatures"
+    - "features/unplanned-features/base-defense"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: If Factories can get attacked?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=tK_m7AqM4sY
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript
 
