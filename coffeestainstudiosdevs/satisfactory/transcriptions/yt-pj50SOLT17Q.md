@@ -1,5 +1,5 @@
 ---
-title: "October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 7)"
+title: "October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 9)"
 date: "2020-10-09"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "technology/unreal-engine/custom-component-instanced-spline-mesh"
 ---
 # [October 9th, 2020 Livestream](../2020-10-09.md)
-## Dylan Talk: Instanced Splines (Part 7)
+## Dylan Talk: Instanced Splines (Part 9)
 https://www.youtube.com/watch?v=pj50SOLT17Q
 
 ### Topics

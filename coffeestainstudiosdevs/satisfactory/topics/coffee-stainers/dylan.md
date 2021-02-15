@@ -11,10 +11,10 @@ date: Last Modified
 * [Dylan & Snutt Talk: Distributed compile processes](../../transcriptions/yt-SeVhrl1YXto.md) https://www.youtube.com/watch?v=SeVhrl1YXto
 * [Dylan & Snutt Talk: Visual Studio vs. Rider](../../transcriptions/yt-hc2OfgQZCvA.md) https://www.youtube.com/watch?v=hc2OfgQZCvA
 * [Dylan Talk: Instanced Splines (Part 2)](../../transcriptions/yt-NM5eNwiCX0c.md) https://www.youtube.com/watch?v=NM5eNwiCX0c
-* [Dylan Talk: Instanced Splines (Part 4)](../../transcriptions/yt-oyHCEA2k1PM.md) https://www.youtube.com/watch?v=oyHCEA2k1PM
-* [Dylan Talk: Instanced Splines (Part 5)](../../transcriptions/yt-s-Sa9DA4pDc.md) https://www.youtube.com/watch?v=s-Sa9DA4pDc
-* [Dylan Talk: Instanced Splines (Part 12)](../../transcriptions/yt-wPV9uZsHLN8.md) https://www.youtube.com/watch?v=wPV9uZsHLN8
-* [Dylan Talk: Instanced Splines (Part 13)](../../transcriptions/yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
+* [Dylan Talk: Instanced Splines (Part 6)](../../transcriptions/yt-oyHCEA2k1PM.md) https://www.youtube.com/watch?v=oyHCEA2k1PM
+* [Dylan Talk: Instanced Splines (Part 7)](../../transcriptions/yt-s-Sa9DA4pDc.md) https://www.youtube.com/watch?v=s-Sa9DA4pDc
+* [Dylan Talk: Instanced Splines (Part 14)](../../transcriptions/yt-wPV9uZsHLN8.md) https://www.youtube.com/watch?v=wPV9uZsHLN8
+* [Dylan Talk: Instanced Splines (Part 15)](../../transcriptions/yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
 * [Q&A: Are you guys Swedish?](../../transcriptions/yt-sDqoInm05LM.md) https://www.youtube.com/watch?v=sDqoInm05LM
 * [Q&A: Dev for mobile is worse, when it works on one device but not the other?](../../transcriptions/yt-HxBzhdhCqp0.md) https://www.youtube.com/watch?v=HxBzhdhCqp0
 * [Q&A: Do you use emacs or vim?](../../transcriptions/yt-g6B1-vYXXd0.md) https://www.youtube.com/watch?v=g6B1-vYXXd0
@@ -27,7 +27,7 @@ date: Last Modified
 * [Snutt & Dylan Talk: Code Editors](../../transcriptions/yt-PCQ64Q_sx90.md) https://www.youtube.com/watch?v=PCQ64Q_sx90
 * [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../../transcriptions/yt-Ri4BTkabEaE.md) https://www.youtube.com/watch?v=Ri4BTkabEaE
 * [Snutt & Dylan Talk: Graphics vs. Architectural programming](../../transcriptions/yt-LwQb17QlBbg.md) https://www.youtube.com/watch?v=LwQb17QlBbg
-* [Snutt & Dylan Talk: Instanced Splines (Part 3)](../../transcriptions/yt-gSQeLZpcnRc.md) https://www.youtube.com/watch?v=gSQeLZpcnRc
+* [Snutt & Dylan Talk: Instanced Splines (Part 5)](../../transcriptions/yt-gSQeLZpcnRc.md) https://www.youtube.com/watch?v=gSQeLZpcnRc
 * [Snutt & Dylan Talk: Swedish/American Citizenship](../../transcriptions/yt-mx2oDvq3sSo.md) https://www.youtube.com/watch?v=mx2oDvq3sSo
 * [Snutt & Dylan Talk: Updating the save system](../../transcriptions/yt-csjtm2DtURs.md) https://www.youtube.com/watch?v=csjtm2DtURs
 * [Snutt Talk: Perforce & Git](../../transcriptions/yt-3Fe1cJ3ujCE.md) https://www.youtube.com/watch?v=3Fe1cJ3ujCE

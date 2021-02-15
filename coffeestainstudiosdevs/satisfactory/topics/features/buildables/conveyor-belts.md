@@ -59,8 +59,8 @@ date: Last Modified
 * [Q&A: Will you be able to upgrade Splitters to Smart/Programmable Splitters?](../../../transcriptions/yt-7G0wdPB4X-c.md) https://www.youtube.com/watch?v=7G0wdPB4X-c
 
 ## October 9th, 2020 Livestream
-* [Dylan Talk: Instanced Splines (Part 11)](../../../transcriptions/yt-0VtsjQsFzZU.md) https://www.youtube.com/watch?v=0VtsjQsFzZU
-* [Dylan Talk: Instanced Splines (Part 13)](../../../transcriptions/yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
+* [Dylan Talk: Instanced Splines (Part 13)](../../../transcriptions/yt-0VtsjQsFzZU.md) https://www.youtube.com/watch?v=0VtsjQsFzZU
+* [Dylan Talk: Instanced Splines (Part 15)](../../../transcriptions/yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
 * [Dylan Talk: Working on the Replication Graph](../../../transcriptions/yt-0THShqltbYM.md) https://www.youtube.com/watch?v=0THShqltbYM
 * [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../../../transcriptions/yt-Ri4BTkabEaE.md) https://www.youtube.com/watch?v=Ri4BTkabEaE
 

@@ -88,10 +88,10 @@ date: Last Modified
 * [Dylan Talk: Cheat Buildings](../../transcriptions/yt-zThi_BgpiIA.md) https://www.youtube.com/watch?v=zThi_BgpiIA
 * [Dylan Talk: Instanced Splines (Part 1)](../../transcriptions/yt-c6Qy5jzXmqM.md) https://www.youtube.com/watch?v=c6Qy5jzXmqM
 * [Dylan Talk: Instanced Splines (Part 2)](../../transcriptions/yt-NM5eNwiCX0c.md) https://www.youtube.com/watch?v=NM5eNwiCX0c
-* [Dylan Talk: Instanced Splines (Part 2)](../../transcriptions/yt-cZgVZMk4zvM.md) https://www.youtube.com/watch?v=cZgVZMk4zvM
-* [Dylan Talk: Instanced Splines (Part 4)](../../transcriptions/yt-oyHCEA2k1PM.md) https://www.youtube.com/watch?v=oyHCEA2k1PM
-* [Dylan Talk: Instanced Splines (Part 7)](../../transcriptions/yt-pj50SOLT17Q.md) https://www.youtube.com/watch?v=pj50SOLT17Q
-* [Dylan Talk: Instanced Splines (Part 13)](../../transcriptions/yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
+* [Dylan Talk: Instanced Splines (Part 3)](../../transcriptions/yt-cZgVZMk4zvM.md) https://www.youtube.com/watch?v=cZgVZMk4zvM
+* [Dylan Talk: Instanced Splines (Part 6)](../../transcriptions/yt-oyHCEA2k1PM.md) https://www.youtube.com/watch?v=oyHCEA2k1PM
+* [Dylan Talk: Instanced Splines (Part 9)](../../transcriptions/yt-pj50SOLT17Q.md) https://www.youtube.com/watch?v=pj50SOLT17Q
+* [Dylan Talk: Instanced Splines (Part 15)](../../transcriptions/yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
 * [Dylan Talk: We have secrets, dirty secrets](../../transcriptions/yt-KLTPTV3T-JE.md) https://www.youtube.com/watch?v=KLTPTV3T-JE
 * [Dylan Talk: Working on the Replication Graph](../../transcriptions/yt-0THShqltbYM.md) https://www.youtube.com/watch?v=0THShqltbYM
 * [Q&A: Do you use emacs or vim?](../../transcriptions/yt-g6B1-vYXXd0.md) https://www.youtube.com/watch?v=g6B1-vYXXd0

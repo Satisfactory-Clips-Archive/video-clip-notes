@@ -18,7 +18,7 @@ date: Last Modified
 
 ## October 9th, 2020 Livestream
 * [Dylan & Snutt Talk: Distributed compile processes](../transcriptions/yt-SeVhrl1YXto.md) https://www.youtube.com/watch?v=SeVhrl1YXto
-* [Dylan Talk: Instanced Splines (Part 3)](../transcriptions/yt-JrWLEvJRhHM.md) https://www.youtube.com/watch?v=JrWLEvJRhHM
+* [Dylan Talk: Instanced Splines (Part 4)](../transcriptions/yt-JrWLEvJRhHM.md) https://www.youtube.com/watch?v=JrWLEvJRhHM
 * [Q&A: Ever heard of Rust?](../transcriptions/yt-SewkqzYFTQM.md) https://www.youtube.com/watch?v=SewkqzYFTQM
 * [Q&A: How long does it take to do a full recompile on an average desktop?](../transcriptions/yt-iNkLYa8R_eQ.md) https://www.youtube.com/watch?v=iNkLYa8R_eQ
 * [Q&A: Is the file meant to be read-only?](../transcriptions/yt-VDAUhc0cFbY.md) https://www.youtube.com/watch?v=VDAUhc0cFbY
