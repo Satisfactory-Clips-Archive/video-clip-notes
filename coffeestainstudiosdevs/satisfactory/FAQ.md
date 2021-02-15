@@ -693,9 +693,6 @@ date: Last Modified
 * [Q&A: Can we go over the Freight Train fix in a little detail?](./transcriptions/yt-7vpbefcvoYI.md) https://www.youtube.com/watch?v=7vpbefcvoYI
 * [Q&A: Will Trees respawning being worked on?](./transcriptions/yt-59eW6SBaiNk.md) https://www.youtube.com/watch?v=59eW6SBaiNk
 
-### [November 3rd, 2020 Livestream](./2020-11-03.md)
-* [Q&A: Can I play on Epic with someone on Steam?](./transcriptions/yt-zekvCEX_mv8.md) https://www.youtube.com/watch?v=zekvCEX_mv8
-
 ### [October 20th, 2020 Livestream](./2020-10-20.md)
 * [Jace Talk: Multiplayer Bugs vs. Dedicated Servers](./transcriptions/yt-cKyRBdQq7JY.md) https://www.youtube.com/watch?v=cKyRBdQq7JY
 * [Q&A: Will Dedicated Servers have Multiple Hubs?](./transcriptions/yt-GDuWS-cOFX8.md) https://www.youtube.com/watch?v=GDuWS-cOFX8
@@ -733,6 +730,9 @@ date: Last Modified
 * [Q&A: Do you want to support more than 4 people?](./transcriptions/yt-wb5HY05QX9I.md) https://www.youtube.com/watch?v=wb5HY05QX9I
 
 ### [Crossplay](./topics/features/multiplayer/crossplay.md)
+
+#### [November 3rd, 2020 Livestream](./2020-11-03.md)
+* [Q&A: Can I play on Epic with someone on Steam?](./transcriptions/yt-zekvCEX_mv8.md) https://www.youtube.com/watch?v=zekvCEX_mv8
 
 #### [June 8th, 2020 Livestream](./2020-06-08.md)
 * [Q&A: Is Crossplay available?](./transcriptions/yt-MR5331unvbQ.md) https://www.youtube.com/watch?v=MR5331unvbQ
