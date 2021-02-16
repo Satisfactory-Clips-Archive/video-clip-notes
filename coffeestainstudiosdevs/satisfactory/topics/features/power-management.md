@@ -67,7 +67,6 @@ date: Last Modified
 * [Q&A: Is it safe to set up 1000 Turbo Fuel Generators?](../../transcriptions/yt-0JyFVACOZ-E.md) https://www.youtube.com/watch?v=0JyFVACOZ-E
 
 ## September 29th, 2020 Livestream
-* [Q&A: Are there any Green Energy options in the game?](../../transcriptions/yt-9eBugtyk8U0.md) https://www.youtube.com/watch?v=9eBugtyk8U0
 * [Q&A: Control Console with a simple representation of the Remote Plants?](../../transcriptions/yt-hVDlrmNvsIY.md) https://www.youtube.com/watch?v=hVDlrmNvsIY
 * [Q&A: Giving people Solar, Wind, and Hydro means FICSIT gets more resources?](../../transcriptions/yt-F212AWqzBVI.md) https://www.youtube.com/watch?v=F212AWqzBVI
 * [Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil?](../../transcriptions/yt-DYy7NpZ7qYA.md) https://www.youtube.com/watch?v=DYy7NpZ7qYA

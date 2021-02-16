@@ -1035,7 +1035,6 @@ date: Last Modified
 * [Q&A: Will there be a way to auto-feed Biomass into the generators?](./transcriptions/yt-5eQ3I4vmbZA.md) https://www.youtube.com/watch?v=5eQ3I4vmbZA
 
 ### [September 29th, 2020 Livestream](./2020-09-29.md)
-* [Q&A: Are there any Green Energy options in the game?](./transcriptions/yt-9eBugtyk8U0.md) https://www.youtube.com/watch?v=9eBugtyk8U0
 * [Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil?](./transcriptions/yt-DYy7NpZ7qYA.md) https://www.youtube.com/watch?v=DYy7NpZ7qYA
 
 ### [July 28th, 2020 Livestream](./2020-07-28.md)
@@ -1053,6 +1052,9 @@ date: Last Modified
 
 #### [November 17th, 2020 Livestream](./2020-11-17.md)
 * [Q&A: Can we add Solar Power?](./transcriptions/yt-_Uf5e-J9TwA.md) https://www.youtube.com/watch?v=_Uf5e-J9TwA
+
+#### [September 29th, 2020 Livestream](./2020-09-29.md)
+* [Q&A: Are there any Green Energy options in the game?](./transcriptions/yt-9eBugtyk8U0.md) https://www.youtube.com/watch?v=9eBugtyk8U0
 
 ### [Nuclear Energy](./topics/features/power-management/nuclear-energy.md)
 
