@@ -33,6 +33,7 @@ date: Last Modified
 ## September 15th, 2020 Livestream
 * [Q&A: Are we ever going to see a new enemy type?](../../../transcriptions/yt-Kxq543wzKcY.md) https://www.youtube.com/watch?v=Kxq543wzKcY
 * [Q&A: Does the Giant Crab unlock stuff?](../../../transcriptions/yt-Dsjz5ntv9II.md) https://www.youtube.com/watch?v=Dsjz5ntv9II
+* [Q&A: Will you add any Monsters/Bosses in the future?](../../../transcriptions/yt-D_BVMiGNvqI.md) https://www.youtube.com/watch?v=D_BVMiGNvqI
 
 ## August 25th, 2020 Livestream
 * [Q&A: New enemies / creatures?](../../../transcriptions/yt-TDbNru0heoU.md) https://www.youtube.com/watch?v=TDbNru0heoU

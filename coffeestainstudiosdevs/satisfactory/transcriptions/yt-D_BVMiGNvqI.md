@@ -3,14 +3,14 @@ title: "September 15th, 2020 Livestream Q&A: Will you add any Monsters/Bosses in
 date: "2020-09-15"
 layout: transcript
 topics:
-    - ""
+    - "environment/creatures/crab-boss"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will you add any Monsters/Bosses in the future?
 https://www.youtube.com/watch?v=D_BVMiGNvqI
 
 ### Topics
-
+* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "September 15th, 2020 Livestream Q&A: Coming to Consoles?"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - ""
+    - "features/possible-features/console-release"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Coming to Consoles?
 https://www.youtube.com/watch?v=09PyuqxekgU
 
 ### Topics
-
+* [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)
 
 ### Transcript
 

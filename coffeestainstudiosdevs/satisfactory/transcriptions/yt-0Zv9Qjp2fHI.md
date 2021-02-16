@@ -3,14 +3,14 @@ title: "September 15th, 2020 Livestream Q&A: Are you planning on porting the gam
 date: "2020-09-15"
 layout: transcript
 topics:
-    - ""
+    - "features/possible-features/console-release"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are you planning on porting the game to PS4?
 https://www.youtube.com/watch?v=0Zv9Qjp2fHI
 
 ### Topics
-
+* [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)
 
 ### Transcript
 
