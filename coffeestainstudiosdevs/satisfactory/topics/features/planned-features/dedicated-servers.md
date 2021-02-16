@@ -27,8 +27,8 @@ date: Last Modified
 
 ## December 15th, 2020 Livestream
 * [Q&A: Dedicated Server for Windows?](../../../transcriptions/yt-znK3Ne7dLUc.md) https://www.youtube.com/watch?v=znK3Ne7dLUc
-* [Q&A: Dedicated Servers?](../../../transcriptions/yt-HeezNCrsBRU.md) https://www.youtube.com/watch?v=HeezNCrsBRU
 * [Q&A: Dedicated Servers?](../../../transcriptions/yt-03Ybo6-_eWA.md) https://www.youtube.com/watch?v=03Ybo6-_eWA
+* [Q&A: Dedicated Servers?](../../../transcriptions/yt-HeezNCrsBRU.md) https://www.youtube.com/watch?v=HeezNCrsBRU
 
 ## December 8th, 2020 Livestream
 * [Q&A: How much configuration will we be able to do with Dedicated Servers?](../../../transcriptions/yt-Dj2hOG7UjVA.md) https://www.youtube.com/watch?v=Dj2hOG7UjVA

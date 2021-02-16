@@ -730,8 +730,8 @@ date: Last Modified
 
 #### [December 15th, 2020 Livestream](./2020-12-15.md)
 * [Q&A: Dedicated Server for Windows?](./transcriptions/yt-znK3Ne7dLUc.md) https://www.youtube.com/watch?v=znK3Ne7dLUc
-* [Q&A: Dedicated Servers?](./transcriptions/yt-HeezNCrsBRU.md) https://www.youtube.com/watch?v=HeezNCrsBRU
 * [Q&A: Dedicated Servers?](./transcriptions/yt-03Ybo6-_eWA.md) https://www.youtube.com/watch?v=03Ybo6-_eWA
+* [Q&A: Dedicated Servers?](./transcriptions/yt-HeezNCrsBRU.md) https://www.youtube.com/watch?v=HeezNCrsBRU
 
 #### [December 8th, 2020 Livestream](./2020-12-08.md)
 * [Q&A: Is there a reason for a lack of Dedicated Server builds?](./transcriptions/yt-47gzhAEWkFM.md) https://www.youtube.com/watch?v=47gzhAEWkFM
