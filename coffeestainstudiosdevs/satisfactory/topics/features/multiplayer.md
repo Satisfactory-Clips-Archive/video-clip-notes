@@ -83,7 +83,6 @@ date: Last Modified
 ## September 22nd, 2020 Livestream
 * [Q&A: Does destroying trees & rocks make the game slower like making buildings?](../../transcriptions/yt-vOJIZQfzcUk.md) https://www.youtube.com/watch?v=vOJIZQfzcUk
 * [Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible?](../../transcriptions/yt-v0UZaH3mXh4.md) https://www.youtube.com/watch?v=v0UZaH3mXh4
-* [Q&A: Is there a known issue with friend's games not showing cross-platform?](../../transcriptions/yt-y5z4GmkeGhA.md) https://www.youtube.com/watch?v=y5z4GmkeGhA
 * [Jace & Snutt Talk: Zombie/Clone Players (part 1)](../../transcriptions/yt-atdEe4Bm11k.md) https://www.youtube.com/watch?v=atdEe4Bm11k
 * [Jace & Snutt Talk: Zombie/Clone Players (part 2)](../../transcriptions/yt-8Kcg4e20fMk.md) https://www.youtube.com/watch?v=8Kcg4e20fMk
 

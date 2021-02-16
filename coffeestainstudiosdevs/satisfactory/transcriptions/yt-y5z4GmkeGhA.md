@@ -3,14 +3,14 @@ title: "September 22nd, 2020 Livestream Q&A: Is there a known issue with friend'
 date: "2020-09-22"
 layout: transcript
 topics:
-    - "features/multiplayer"
+    - "features/multiplayer/crossplay"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is there a known issue with friend's games not showing cross-platform?
 https://www.youtube.com/watch?v=y5z4GmkeGhA
 
 ### Topics
-* [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Features > Multiplayer > Crossplay](../topics/features/multiplayer/crossplay.md)
 
 ### Transcript
 
