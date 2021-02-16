@@ -22,6 +22,9 @@ date: Last Modified
 ## October 20th, 2020 Livestream
 * [Q&A: When will we have Train Collision?](../../../../transcriptions/yt-TjSMwjueGc8.md) https://www.youtube.com/watch?v=TjSMwjueGc8
 
+## September 29th, 2020 Livestream
+* [Q&A: Is there an update to Train Stations, Rails, and Railway Switches in the future?](../../../../transcriptions/yt-vV-u0AjWWvU.md) https://www.youtube.com/watch?v=vV-u0AjWWvU
+
 ## September 22nd, 2020 Livestream
 * [Q&A: Any new info about Train Signals?](../../../../transcriptions/yt-bPU07wU3Mr0.md) https://www.youtube.com/watch?v=bPU07wU3Mr0
 

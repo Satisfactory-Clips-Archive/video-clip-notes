@@ -50,7 +50,7 @@ date: Last Modified
 * [Q&A: Will the Resource Transportation get an update?](../../../transcriptions/yt-hKxm2Ps1UYY.md) https://www.youtube.com/watch?v=hKxm2Ps1UYY
 
 ## September 29th, 2020 Livestream
-* [Q&A: Is there an update to Trainstations, Rails, and Railway Switches in the future?](../../../transcriptions/yt-vV-u0AjWWvU.md) https://www.youtube.com/watch?v=vV-u0AjWWvU
+* [Q&A: Is there an update to Train Stations, Rails, and Railway Switches in the future?](../../../transcriptions/yt-vV-u0AjWWvU.md) https://www.youtube.com/watch?v=vV-u0AjWWvU
 
 ## September 22nd, 2020 Livestream
 * [Q&A: Laser Turrets on Trains?](../../../transcriptions/yt-zuWJUo80sWY.md) https://www.youtube.com/watch?v=zuWJUo80sWY

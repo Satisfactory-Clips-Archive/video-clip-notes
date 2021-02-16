@@ -1,16 +1,18 @@
 ---
-title: "September 29th, 2020 Livestream Q&A: Is there an update to Trainstations, Rails, and Railway Switches in the future?"
+title: "September 29th, 2020 Livestream Q&A: Is there an update to Train Stations, Rails, and Railway Switches in the future?"
 date: "2020-09-29"
 layout: transcript
 topics:
     - "features/transportation/trains"
+    - "features/transportation/trains/train-signals"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
-## Q&A: Is there an update to Trainstations, Rails, and Railway Switches in the future?
+## Q&A: Is there an update to Train Stations, Rails, and Railway Switches in the future?
 https://www.youtube.com/watch?v=vV-u0AjWWvU
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 
 ### Transcript
 
