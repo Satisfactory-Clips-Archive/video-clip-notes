@@ -51,8 +51,8 @@ date: Last Modified
 * Q&A: Will you be able to pet the doggo? https://clips.twitch.tv/DullHyperSpindlePanicVis
 
 ## August 11th, 2020 Livestream
-* Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
 * Q&A: Doggo Toys? https://clips.twitch.tv/FlirtyScarySushiYouWHY
+* Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
 
 ## May 19th, 2020 Livestream
 * Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing https://www.youtube.com/watch?v=HU5CtNK3rds
@@ -65,12 +65,12 @@ date: Last Modified
 * [Q&A: Lizard Doggo plushies?](../../../transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
 ## March 9th, 2019 Livestream
-* [Jace Talk: Petting the Lizard Doggo](../../../transcriptions/yt-1ZxQ9RoC930.md) https://www.youtube.com/watch?v=1ZxQ9RoC930
 * [Q&A: How do you win the heart of Lizard Doggo?](../../../transcriptions/yt-z5BnfkmTQfA.md) https://www.youtube.com/watch?v=z5BnfkmTQfA
 * [Q&A: How to pet Doggo?](../../../transcriptions/yt-izvalD5vPuc.md) https://www.youtube.com/watch?v=izvalD5vPuc
 * [Q&A: Lizard Doggo plushie when?](../../../transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
-* [Q&A: Where is Lizard Doggo?](../../../transcriptions/yt-bB6SOIoAYg4.md) https://www.youtube.com/watch?v=bB6SOIoAYg4
 * [Snutt Talk: Lizard Doggo work name](../../../transcriptions/yt-BTV3_zIpImo.md) https://www.youtube.com/watch?v=BTV3_zIpImo
+* [Jace Talk: Petting the Lizard Doggo](../../../transcriptions/yt-1ZxQ9RoC930.md) https://www.youtube.com/watch?v=1ZxQ9RoC930
+* [Q&A: Where is Lizard Doggo?](../../../transcriptions/yt-bB6SOIoAYg4.md) https://www.youtube.com/watch?v=bB6SOIoAYg4
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Will there be Lizard Doggo plushies?](../../../transcriptions/yt-W1E6EWrAsII,214.36,238.12.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239

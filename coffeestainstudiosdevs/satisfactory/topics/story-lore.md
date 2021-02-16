@@ -65,8 +65,8 @@ date: Last Modified
 * [Snutt Talk: WIP (Work In Progress) Items](../transcriptions/yt-ItHlbfIkVl4.md) https://www.youtube.com/watch?v=ItHlbfIkVl4
 
 ## September 22nd, 2020 Livestream
-* [Jace & Snutt Talk: Story](../transcriptions/yt-vPWShxAn3io.md) https://www.youtube.com/watch?v=vPWShxAn3io
 * [Q&A: Are there going to be Lore teasers in the Game before launch?](../transcriptions/yt-ANDFv21tydY.md) https://www.youtube.com/watch?v=ANDFv21tydY
+* [Jace & Snutt Talk: Story](../transcriptions/yt-vPWShxAn3io.md) https://www.youtube.com/watch?v=vPWShxAn3io
 * [Q&A: Will the Story be released as a book/comic ?](../transcriptions/yt-ZET0XD704JA.md) https://www.youtube.com/watch?v=ZET0XD704JA
 * [Q&A: Will the Story play out when implemented or will we have to start a new game?](../transcriptions/yt-PPu_s5Gg8gs.md) https://www.youtube.com/watch?v=PPu_s5Gg8gs
 
@@ -120,9 +120,9 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
+* [Snutt Talk: Somersloop](../transcriptions/yt-9ALpZxsfl10.md) https://www.youtube.com/watch?v=9ALpZxsfl10
 * [Q&A: What's the final objective of the game?](../transcriptions/yt-xG0mfuXiFY8.md) https://www.youtube.com/watch?v=xG0mfuXiFY8
 * [Q&A: What gender is the character model?](../transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs
-* [Snutt Talk: Somersloop](../transcriptions/yt-9ALpZxsfl10.md) https://www.youtube.com/watch?v=9ALpZxsfl10
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Is there an end game? Will there be a story?](../transcriptions/yt-W1E6EWrAsII,391.24,406.52.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=391&end=407

@@ -55,14 +55,14 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Actual Elevators with floor-select buttons ?](../../transcriptions/yt-vZxhnaT88dc.md) https://www.youtube.com/watch?v=vZxhnaT88dc
-* [Q&A: Mk. 2 Hypertubes?](../../transcriptions/yt-SFKNdledOaA.md) https://www.youtube.com/watch?v=SFKNdledOaA
-* [Q&A: Plans for a Map Editor?](../../transcriptions/yt-vvRPYyc7sb8.md) https://www.youtube.com/watch?v=vvRPYyc7sb8
-* [Q&A: Will light be added to the game?](../../transcriptions/yt-FuUHMwoNA0s.md) https://www.youtube.com/watch?v=FuUHMwoNA0s
-* [Snutt Talk: Map Builders](../../transcriptions/yt-UjOVdR5tNSw.md) https://www.youtube.com/watch?v=UjOVdR5tNSw
-* [Snutt Talk: VR Support](../../transcriptions/yt-ZHumj5MeIcw.md) https://www.youtube.com/watch?v=ZHumj5MeIcw
 * Q&A: Can players have custom programmers ? (Part 1) https://clips.twitch.tv/BovineConsiderateSangMVGame
 * Q&A: Can players have custom programmers ? (Part 2) https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain
 * Q&A: Do you have plans for elevators usable for players? https://clips.twitch.tv/DullSmokyWaffleDoggo
+* [Snutt Talk: Map Builders](../../transcriptions/yt-UjOVdR5tNSw.md) https://www.youtube.com/watch?v=UjOVdR5tNSw
+* [Q&A: Mk. 2 Hypertubes?](../../transcriptions/yt-SFKNdledOaA.md) https://www.youtube.com/watch?v=SFKNdledOaA
+* [Q&A: Plans for a Map Editor?](../../transcriptions/yt-vvRPYyc7sb8.md) https://www.youtube.com/watch?v=vvRPYyc7sb8
+* [Snutt Talk: VR Support](../../transcriptions/yt-ZHumj5MeIcw.md) https://www.youtube.com/watch?v=ZHumj5MeIcw
+* [Q&A: Will light be added to the game?](../../transcriptions/yt-FuUHMwoNA0s.md) https://www.youtube.com/watch?v=FuUHMwoNA0s
 
 ## August 18th, 2020 Livestream
 * Mods vs. Features (Part 1) https://clips.twitch.tv/ShakingCredulousGalagoCopyThis
@@ -91,5 +91,5 @@ date: Last Modified
 * [Q&A: Will there be more competitive stuff?](../../transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
 
 ## March 9th, 2019 Livestream
-* [Jace Talk: Mod support](../../transcriptions/yt-37zFxpeGm-E.md) https://www.youtube.com/watch?v=37zFxpeGm-E
 * [Q&A: I wouldn't be surprised if Mod support enable third-party maps?](../../transcriptions/yt-LgGYmQrwAgg.md) https://www.youtube.com/watch?v=LgGYmQrwAgg
+* [Jace Talk: Mod support](../../transcriptions/yt-37zFxpeGm-E.md) https://www.youtube.com/watch?v=37zFxpeGm-E

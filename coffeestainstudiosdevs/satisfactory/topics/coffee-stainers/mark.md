@@ -8,10 +8,10 @@ date: Last Modified
 * [Q&A: Are you adding a Hard Mode?](../../transcriptions/yt-e97jfbPmKeY.md) https://www.youtube.com/watch?v=e97jfbPmKeY
 
 ## January 19th, 2021 Livestream
-* [Mark Talk: My day-to-day work as Game Director](../../transcriptions/yt-CG0ff4zpl7k.md) https://www.youtube.com/watch?v=CG0ff4zpl7k
-* [Q&A: Is Mark the mastermind behind Turbofuel?](../../transcriptions/yt-vPfI712DEns.md) https://www.youtube.com/watch?v=vPfI712DEns
-* [Q&A: Where is Mark from?](../../transcriptions/yt--nsfNFSevf4.md) https://www.youtube.com/watch?v=-nsfNFSevf4
 * [Snutt Talk: Game Director Mark](../../transcriptions/yt-G9n9eSO0l7A.md) https://www.youtube.com/watch?v=G9n9eSO0l7A
+* [Q&A: Is Mark the mastermind behind Turbofuel?](../../transcriptions/yt-vPfI712DEns.md) https://www.youtube.com/watch?v=vPfI712DEns
+* [Mark Talk: My day-to-day work as Game Director](../../transcriptions/yt-CG0ff4zpl7k.md) https://www.youtube.com/watch?v=CG0ff4zpl7k
+* [Q&A: Where is Mark from?](../../transcriptions/yt--nsfNFSevf4.md) https://www.youtube.com/watch?v=-nsfNFSevf4
 
 ## August 25th, 2020 Livestream
 * [Q&A: Are there internal discussions to significantly rework existing buildings like refineries?](../../transcriptions/yt-x07FQZjbA_c.md) https://www.youtube.com/watch?v=x07FQZjbA_c

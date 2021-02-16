@@ -11,68 +11,68 @@ date: Last Modified
 * [Q&A: How are Snutt & Jace today?](../../transcriptions/yt-L9ehEqHB8VI.md) https://www.youtube.com/watch?v=L9ehEqHB8VI
 * [Q&A: Is Snutt ever going to join Jace's Monday stream?](../../transcriptions/yt--p_fC8A9LoE.md) https://www.youtube.com/watch?v=-p_fC8A9LoE
 * [Q&A: Snutt & Jace have broken up?](../../transcriptions/yt-ax7GUkad9N0.md) https://www.youtube.com/watch?v=ax7GUkad9N0
+* [Snutt & Jace Talk: State of Dev](../../transcriptions/yt-X6AM0uLfM6s.md) https://www.youtube.com/watch?v=X6AM0uLfM6s
 * [Q&A: Why is Snutt's video feed mirrored?](../../transcriptions/yt-3RXvqV1LBkM.md) https://www.youtube.com/watch?v=3RXvqV1LBkM
 * [Q&A: Why Jace & Snutt?](../../transcriptions/yt-Wp15rkFmIS8.md) https://www.youtube.com/watch?v=Wp15rkFmIS8
 * [Q&A: Will Jace & Snutt ever swap hats?](../../transcriptions/yt-lUszjzA7Rpc.md) https://www.youtube.com/watch?v=lUszjzA7Rpc
-* [Snutt & Jace Talk: State of Dev](../../transcriptions/yt-X6AM0uLfM6s.md) https://www.youtube.com/watch?v=X6AM0uLfM6s
 
 ## February 2nd, 2021 Livestream
 * [Q&A: I am grateful that our 2 Community Managers have dev experience](../../transcriptions/yt-VeGSy0F0mVY.md) https://www.youtube.com/watch?v=VeGSy0F0mVY
+* Snutt Talk: I can't find Jace https://www.youtube.com/watch?v=EcYryv-vFUc
 * [Q&A: Snutt & Jace poster in Satisfactory when?](../../transcriptions/yt-X4heczNNOO8.md) https://www.youtube.com/watch?v=X4heczNNOO8
 * [Snutt & Jace Talk: Turning the toilet into a shrine to us](../../transcriptions/yt-JSE233L0yRA.md) https://www.youtube.com/watch?v=JSE233L0yRA
-* Snutt Talk: I can't find Jace https://www.youtube.com/watch?v=EcYryv-vFUc
 
 ## January 26th, 2021 Livestream
 * [Q&A: Do either of you have a FICSIT checkmark tatooed on your person?](../../transcriptions/yt-72yhov-YwuU.md) https://www.youtube.com/watch?v=72yhov-YwuU
 * [Q&A: Do you ever lurk on Satisfactory streams and watch vids?](../../transcriptions/yt-IQYDSa80AL0.md) https://www.youtube.com/watch?v=IQYDSa80AL0
+* [Snutt & Jace Talk: Everyone call Snutt "senpai" from now on.](../../transcriptions/yt-9pr79A-BvHU.md) https://www.youtube.com/watch?v=9pr79A-BvHU
 * [Q&A: How much do you both play Satisfactory?](../../transcriptions/yt-fIb1LHQ0TJw.md) https://www.youtube.com/watch?v=fIb1LHQ0TJw
+* [Snutt & Jace Talk: Shaving](../../transcriptions/yt-2lh_A-WR2Gw.md) https://www.youtube.com/watch?v=2lh_A-WR2Gw
 * Q&A: Some anime recommendations? https://www.youtube.com/watch?v=ryEPfOM3oME
 * [Q&A: What do you guys do outside of Community Manager responsibilities?](../../transcriptions/yt-AoGBlnRxGdw.md) https://www.youtube.com/watch?v=AoGBlnRxGdw
 * [Q&A: When did you guys first have an interest in programming?](../../transcriptions/yt-e0zlCy61u4w.md) https://www.youtube.com/watch?v=e0zlCy61u4w
-* [Snutt & Jace Talk: Everyone call Snutt "senpai" from now on.](../../transcriptions/yt-9pr79A-BvHU.md) https://www.youtube.com/watch?v=9pr79A-BvHU
-* [Snutt & Jace Talk: Shaving](../../transcriptions/yt-2lh_A-WR2Gw.md) https://www.youtube.com/watch?v=2lh_A-WR2Gw
 
 ## January 19th, 2021 Livestream
+* [Snutt's Right Hand & Snutt Talk: Commenting on earlier co-host segment.](../../transcriptions/yt-iV3-5eDjy9g.md) https://www.youtube.com/watch?v=iV3-5eDjy9g
 * [Q&A: Does Snutt even play the game?](../../transcriptions/yt-2l7uHjYr2v4.md) https://www.youtube.com/watch?v=2l7uHjYr2v4
 * [Q&A: How many languages does Snutt speak?](../../transcriptions/yt-NQS-IFhG8o8.md) https://www.youtube.com/watch?v=NQS-IFhG8o8
-* [Snutt's Right Hand & Snutt Talk: Commenting on earlier co-host segment.](../../transcriptions/yt-iV3-5eDjy9g.md) https://www.youtube.com/watch?v=iV3-5eDjy9g
 
 ## January 12th, 2021 Livestream
 * [Q&A: Is Snutt rocking two watches?](../../transcriptions/yt-MwKAp32wO_A.md) https://www.youtube.com/watch?v=MwKAp32wO_A
 
 ## December 15th, 2020 Livestream
-* [Q&A: What's the best nickname someone has ever given you?](../../transcriptions/yt-_4_umuhMFK8.md) https://www.youtube.com/watch?v=_4_umuhMFK8
 * [Snutt Talk: Guitars](../../transcriptions/yt-U-4gFkYIESU.md) https://www.youtube.com/watch?v=U-4gFkYIESU
+* [Q&A: What's the best nickname someone has ever given you?](../../transcriptions/yt-_4_umuhMFK8.md) https://www.youtube.com/watch?v=_4_umuhMFK8
 
 ## November 24th, 2020 Livestream
 * [Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?](../../transcriptions/yt-a1eSZz7wksU.md) https://www.youtube.com/watch?v=a1eSZz7wksU
 
 ## October 9th, 2020 Livestream
 * [Q&A: Are you guys Swedish?](../../transcriptions/yt-sDqoInm05LM.md) https://www.youtube.com/watch?v=sDqoInm05LM
+* [Snutt & Dylan Talk: Code Editors](../../transcriptions/yt-PCQ64Q_sx90.md) https://www.youtube.com/watch?v=PCQ64Q_sx90
+* [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../../transcriptions/yt-Ri4BTkabEaE.md) https://www.youtube.com/watch?v=Ri4BTkabEaE
 * [Q&A: Dev for mobile is worse, when it works on one device but not the other?](../../transcriptions/yt-HxBzhdhCqp0.md) https://www.youtube.com/watch?v=HxBzhdhCqp0
 * [Q&A: Does Snutt still do coding in spare time?](../../transcriptions/yt-KM5WVEA9CDs.md) https://www.youtube.com/watch?v=KM5WVEA9CDs
 * [Q&A: Ever heard of Rust?](../../transcriptions/yt-SewkqzYFTQM.md) https://www.youtube.com/watch?v=SewkqzYFTQM
+* [Snutt & Dylan Talk: Graphics vs. Architectural programming](../../transcriptions/yt-LwQb17QlBbg.md) https://www.youtube.com/watch?v=LwQb17QlBbg
 * [Q&A: How can you concentrate with that hot piece of Simon walking around the office?](../../transcriptions/yt-VkIGrj60KtI.md) https://www.youtube.com/watch?v=VkIGrj60KtI
 * [Q&A: How did Dylan get into programming?](../../transcriptions/yt-yJH2nTjQ9Tc.md) https://www.youtube.com/watch?v=yJH2nTjQ9Tc
-* [Q&A: Unit Tests FTW?](../../transcriptions/yt-8MbgpOLyXyY.md) https://www.youtube.com/watch?v=8MbgpOLyXyY
-* [Snutt & Dylan Talk: Code Editors](../../transcriptions/yt-PCQ64Q_sx90.md) https://www.youtube.com/watch?v=PCQ64Q_sx90
-* [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../../transcriptions/yt-Ri4BTkabEaE.md) https://www.youtube.com/watch?v=Ri4BTkabEaE
-* [Snutt & Dylan Talk: Graphics vs. Architectural programming](../../transcriptions/yt-LwQb17QlBbg.md) https://www.youtube.com/watch?v=LwQb17QlBbg
-* [Snutt & Dylan Talk: Vulkan, Metal, OpenGL, and DirectX](../../transcriptions/yt-l26WNbPPzzI.md) https://www.youtube.com/watch?v=l26WNbPPzzI
 * [Snutt Talk: Perforce & Git](../../transcriptions/yt-3Fe1cJ3ujCE.md) https://www.youtube.com/watch?v=3Fe1cJ3ujCE
+* [Q&A: Unit Tests FTW?](../../transcriptions/yt-8MbgpOLyXyY.md) https://www.youtube.com/watch?v=8MbgpOLyXyY
+* [Snutt & Dylan Talk: Vulkan, Metal, OpenGL, and DirectX](../../transcriptions/yt-l26WNbPPzzI.md) https://www.youtube.com/watch?v=l26WNbPPzzI
 
 ## August 25th, 2020 Livestream
-* [Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors?](../../transcriptions/yt-My4e5HOzxLc.md) https://www.youtube.com/watch?v=My4e5HOzxLc
 * [Snutt Talk: Fridge in the Hub](../../transcriptions/yt-0S3NrfwpV0c.md) https://www.youtube.com/watch?v=0S3NrfwpV0c
 * [Snutt Talk: Snutt discovers the fridge](../../transcriptions/yt-AwfR7ExmwJ0.md) https://www.youtube.com/watch?v=AwfR7ExmwJ0
+* [Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors?](../../transcriptions/yt-My4e5HOzxLc.md) https://www.youtube.com/watch?v=My4e5HOzxLc
 
 ## August 18th, 2020 Livestream
 * Q&A: Why does Snutt have many guitars? https://clips.twitch.tv/AverageRenownedAxeWholeWheat
 
 ## February 11th, 2020 Livestream
-* [Q&A: What's underneath Snutt's hat?](../../transcriptions/yt-grxWoGI4tCU.md) https://www.youtube.com/watch?v=grxWoGI4tCU
 * [Snutt Talk: People learning Swedish by setting Windows to Swedish](../../transcriptions/yt-7yNYQitR6B0.md) https://www.youtube.com/watch?v=7yNYQitR6B0
 * [Snutt Talk: Revealing Update 3 when the countdown hits zero](../../transcriptions/yt-9m7is-TbgQA.md) https://www.youtube.com/watch?v=9m7is-TbgQA
+* [Q&A: What's underneath Snutt's hat?](../../transcriptions/yt-grxWoGI4tCU.md) https://www.youtube.com/watch?v=grxWoGI4tCU
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Why two Community Managers again?](../../transcriptions/yt-vr0RPVS158o.md) https://www.youtube.com/watch?v=vr0RPVS158o

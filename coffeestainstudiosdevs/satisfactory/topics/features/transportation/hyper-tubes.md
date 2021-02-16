@@ -12,16 +12,16 @@ date: Last Modified
 * [Q&A: Will Hyper Tube cannons be patched out eventually & officially supported as a feature?](../../../transcriptions/yt-bvtKzwJA4pw.md) https://www.youtube.com/watch?v=bvtKzwJA4pw
 
 ## September 8th, 2020 Livestream
-* [Q&A: Hyper Tube Cannon future ?](../../../transcriptions/yt-X3RdhRuPf04.md) https://www.youtube.com/watch?v=X3RdhRuPf04
 * [Snutt Talk: Belts, Pipes, and Hyper Tube max lengths](../../../transcriptions/yt-IeP2Y9SFeh8.md) https://www.youtube.com/watch?v=IeP2Y9SFeh8
+* [Q&A: Hyper Tube Cannon future ?](../../../transcriptions/yt-X3RdhRuPf04.md) https://www.youtube.com/watch?v=X3RdhRuPf04
 
 ## August 25th, 2020 Livestream
 * [Q&A: Explosive Barrels of Gas we can send through the rail guns ?](../../../transcriptions/yt-e4iY6zivsbU.md) https://www.youtube.com/watch?v=e4iY6zivsbU
 * [Q&A: Generators have power switches, so do all structures in the game?](../../../transcriptions/yt-CN2G6ZH6bmA.md) https://www.youtube.com/watch?v=CN2G6ZH6bmA
+* [Snutt Talk: Hyper Tube max speed](../../../transcriptions/yt-bQ-5mKC09Fk.md) https://www.youtube.com/watch?v=bQ-5mKC09Fk
 * [Q&A: Mk. 2 Hypertubes?](../../../transcriptions/yt-SFKNdledOaA.md) https://www.youtube.com/watch?v=SFKNdledOaA
 * [Q&A: Signs for Hypertube Entrances?](../../../transcriptions/yt-y3w-vPtVjog.md) https://www.youtube.com/watch?v=y3w-vPtVjog
 * [Q&A: Why is hyperloop in first person?](../../../transcriptions/yt-BmSeFBv2rAQ.md) https://www.youtube.com/watch?v=BmSeFBv2rAQ
-* [Snutt Talk: Hyper Tube max speed](../../../transcriptions/yt-bQ-5mKC09Fk.md) https://www.youtube.com/watch?v=bQ-5mKC09Fk
 
 ## August 11th, 2020 Livestream
 * Q&A: Hypertube Cannons - Bug or Feature? https://clips.twitch.tv/OilyPatientOtterTBTacoLeft

@@ -20,17 +20,17 @@ date: Last Modified
 
 ## January 19th, 2021 Livestream
 * [Q&A: Can more people ride the same Train soon?](../../transcriptions/yt-YMWU_qSRI1E.md) https://www.youtube.com/watch?v=YMWU_qSRI1E
-* [Q&A: My friend has a green colour preset for all walls in the world, is there a way to change this?](../../transcriptions/yt-6DayBMofsHs.md) https://www.youtube.com/watch?v=6DayBMofsHs
-* [Q&A: What about Multiplayer Vehicle de-sync?](../../transcriptions/yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw
 * [Snutt Talk: Engine Upgrade & Network Latency](../../transcriptions/yt-b--gsLSysTg.md) https://www.youtube.com/watch?v=b--gsLSysTg
 * [Snutt Talk: Engine Upgrade - Network tweaks](../../transcriptions/yt-cjQzivCIdIU.md) https://www.youtube.com/watch?v=cjQzivCIdIU
+* [Q&A: My friend has a green colour preset for all walls in the world, is there a way to change this?](../../transcriptions/yt-6DayBMofsHs.md) https://www.youtube.com/watch?v=6DayBMofsHs
+* [Q&A: What about Multiplayer Vehicle de-sync?](../../transcriptions/yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw
 
 ## January 12th, 2021 Livestream
 * [Q&A: Please give us tips to decrease/avoid Multiplayer delays?](../../transcriptions/yt-NGyFncgCUyo.md) https://www.youtube.com/watch?v=NGyFncgCUyo
 
 ## December 8th, 2020 Livestream
-* [Jace Talk: Multiplayer experience vs. Dedicated Server](../../transcriptions/yt-QcD9eKlgte0.md) https://www.youtube.com/watch?v=QcD9eKlgte0
 * [Q&A: Is Multiplayer desync fixed in Update 4?](../../transcriptions/yt-OjiLxOBdkU8.md) https://www.youtube.com/watch?v=OjiLxOBdkU8
+* [Jace Talk: Multiplayer experience vs. Dedicated Server](../../transcriptions/yt-QcD9eKlgte0.md) https://www.youtube.com/watch?v=QcD9eKlgte0
 
 ## November 24th, 2020 Livestream
 * [Q&A: Multiplayer fix?](../../transcriptions/yt-LX-zsQIkB3g.md) https://www.youtube.com/watch?v=LX-zsQIkB3g
@@ -47,8 +47,8 @@ date: Last Modified
 
 ## November 10th, 2020 Livestream
 * [Q&A: Can we get a "blow kiss" emote so I can kiss my homies goodbye after a game sesh?](../../transcriptions/yt-4lESCHId0iU.md) https://www.youtube.com/watch?v=4lESCHId0iU
-* [Q&A: What does Network Quality selector in Options do?](../../transcriptions/yt-u3Y3HsXyatM.md) https://www.youtube.com/watch?v=u3Y3HsXyatM
 * [Snutt & Jace Talk: Vague Roadmap, Update 4](../../transcriptions/yt-ghROw63PzX8.md) https://www.youtube.com/watch?v=ghROw63PzX8
+* [Q&A: What does Network Quality selector in Options do?](../../transcriptions/yt-u3Y3HsXyatM.md) https://www.youtube.com/watch?v=u3Y3HsXyatM
 
 ## November 3rd, 2020 Livestream
 * [Q&A: Are you concerned that Dedicated Servers will cause people to move through Tiers too quickly?](../../transcriptions/yt-A2fwfnB8O4U.md) https://www.youtube.com/watch?v=A2fwfnB8O4U
@@ -61,18 +61,18 @@ date: Last Modified
 * [Q&A: Will we see performance improvements?](../../transcriptions/yt-TbPMkoLwW4U.md) https://www.youtube.com/watch?v=TbPMkoLwW4U
 
 ## October 20th, 2020 Livestream
-* [Jace Talk: Multiplayer Bugs vs. Dedicated Servers](../../transcriptions/yt-cKyRBdQq7JY.md) https://www.youtube.com/watch?v=cKyRBdQq7JY
 * [Q&A: Are 24/7 Servers for the game so important?](../../transcriptions/yt-hrwqrs89c4s.md) https://www.youtube.com/watch?v=hrwqrs89c4s
 * [Q&A: Can we get different spawn points not linked to the Hub?](../../transcriptions/yt-DExdQ8KOKEA.md) https://www.youtube.com/watch?v=DExdQ8KOKEA
 * [Q&A: Can we get multiple Hubs?](../../transcriptions/yt-aByFeSq5z2U.md) https://www.youtube.com/watch?v=aByFeSq5z2U
 * [Q&A: Dedicated Servers are kinda useless when you don't have friends](../../transcriptions/yt-e-Zgy9_ZuwU.md) https://www.youtube.com/watch?v=e-Zgy9_ZuwU
+* [Jace Talk: Multiplayer Bugs vs. Dedicated Servers](../../transcriptions/yt-cKyRBdQq7JY.md) https://www.youtube.com/watch?v=cKyRBdQq7JY
 * [Q&A: The Trains lag a lot on Multiplayer?](../../transcriptions/yt-AxQoNckHBhI.md) https://www.youtube.com/watch?v=AxQoNckHBhI
 * [Q&A: Will Dedicated Servers have Multiple Hubs?](../../transcriptions/yt-GDuWS-cOFX8.md) https://www.youtube.com/watch?v=GDuWS-cOFX8
 
 ## October 9th, 2020 Livestream
 * [Dylan Talk: Buffer Overflow bugs](../../transcriptions/yt-t6Gd_T5Tea4.md) https://www.youtube.com/watch?v=t6Gd_T5Tea4
-* [Dylan Talk: Working on the Replication Graph](../../transcriptions/yt-0THShqltbYM.md) https://www.youtube.com/watch?v=0THShqltbYM
 * [Snutt & Dylan Talk: Crash reporting](../../transcriptions/yt-1QDj7pJa9DQ.md) https://www.youtube.com/watch?v=1QDj7pJa9DQ
+* [Dylan Talk: Working on the Replication Graph](../../transcriptions/yt-0THShqltbYM.md) https://www.youtube.com/watch?v=0THShqltbYM
 
 ## October 6th, 2020 Livestream
 * [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](../../transcriptions/yt-RVq5k89jlEA.md) https://www.youtube.com/watch?v=RVq5k89jlEA
@@ -81,11 +81,11 @@ date: Last Modified
 * Q&A: When I play offline I get a second character? https://www.youtube.com/watch?v=6EGahbkbK18
 
 ## September 22nd, 2020 Livestream
-* [Jace & Snutt Talk: Zombie/Clone Players (part 1)](../../transcriptions/yt-atdEe4Bm11k.md) https://www.youtube.com/watch?v=atdEe4Bm11k
-* [Jace & Snutt Talk: Zombie/Clone Players (part 2)](../../transcriptions/yt-8Kcg4e20fMk.md) https://www.youtube.com/watch?v=8Kcg4e20fMk
 * [Q&A: Does destroying trees & rocks make the game slower like making buildings?](../../transcriptions/yt-vOJIZQfzcUk.md) https://www.youtube.com/watch?v=vOJIZQfzcUk
 * [Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible?](../../transcriptions/yt-v0UZaH3mXh4.md) https://www.youtube.com/watch?v=v0UZaH3mXh4
 * [Q&A: Is there a known issue with friend's games not showing cross-platform?](../../transcriptions/yt-y5z4GmkeGhA.md) https://www.youtube.com/watch?v=y5z4GmkeGhA
+* [Jace & Snutt Talk: Zombie/Clone Players (part 1)](../../transcriptions/yt-atdEe4Bm11k.md) https://www.youtube.com/watch?v=atdEe4Bm11k
+* [Jace & Snutt Talk: Zombie/Clone Players (part 2)](../../transcriptions/yt-8Kcg4e20fMk.md) https://www.youtube.com/watch?v=8Kcg4e20fMk
 
 ## September 8th, 2020 Livestream
 * [Q&A: Fix Multiplayer quick?](../../transcriptions/yt--p03ktqVUdc.md) https://www.youtube.com/watch?v=-p03ktqVUdc
@@ -111,11 +111,11 @@ date: Last Modified
 * Multiplayer desync issues (Part 1) https://clips.twitch.tv/AliveHomelySandwichGivePLZ
 * Multiplayer desync issues (Part 2) https://clips.twitch.tv/VastScrumptiousEyeballLeeroyJenkins
 * Multiplayer desync issues (Part 3) https://clips.twitch.tv/TsundereHandsomeBottleCharlietheUnicorn
+* Q&A: Session Privacy / Join Button not working? (Part 1) https://clips.twitch.tv/PolishedThirstyDinosaurOhMyDog
+* Q&A: Session Privacy / Join Button not working? (Part 2) https://clips.twitch.tv/CrackyBombasticEggUWot
 * Q&A: When will multiplayer reach 128 so we can build a tower? (Part 1) https://clips.twitch.tv/OpenIntelligentPizzaYouWHY
 * Q&A: When will multiplayer reach 128 so we can build a tower? (Part 2) https://clips.twitch.tv/TardyBitterGnatDatSheffy
 * Q&A: When will multiplayer reach 128 so we can build a tower? (Part 3) https://clips.twitch.tv/SavagePopularBatChocolateRain
-* Q&A: Session Privacy / Join Button not working? (Part 1) https://clips.twitch.tv/PolishedThirstyDinosaurOhMyDog
-* Q&A: Session Privacy / Join Button not working? (Part 2) https://clips.twitch.tv/CrackyBombasticEggUWot
 
 ## August 11th, 2020 Livestream
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
@@ -125,28 +125,28 @@ date: Last Modified
 
 ## May 19th, 2020 Livestream
 * [Q&A: Does Coffee Stain have any analytics for what players do in the game?](../../transcriptions/yt-Ggro568KcHA.md) https://www.youtube.com/watch?v=Ggro568KcHA
+* [Snutt & Gafgar Talk: Using Epic Online Services](../../transcriptions/yt-0SgEjTk4pnU.md) https://www.youtube.com/watch?v=0SgEjTk4pnU
 * [Q&A: What does Performance Budget mean?](../../transcriptions/yt-qg27gPorXB4.md) https://www.youtube.com/watch?v=qg27gPorXB4
 * [Q&A: What if Coffee Stain were to handle multiplayer authentication directly?](../../transcriptions/yt-l5GyjL5jYuA.md) https://www.youtube.com/watch?v=l5GyjL5jYuA
-* [Q&A: Would you rather buy the game on both platforms than solve these issues?](../../transcriptions/yt--ISubZfsFS4.md) https://www.youtube.com/watch?v=-ISubZfsFS4
-* [Snutt & Gafgar Talk: Using Epic Online Services](../../transcriptions/yt-0SgEjTk4pnU.md) https://www.youtube.com/watch?v=0SgEjTk4pnU
 * [Snutt & Gafgar Talk: What we had to do in order to support Multiplayer on Steam](../../transcriptions/yt-tzQZ1akwzzM.md) https://www.youtube.com/watch?v=tzQZ1akwzzM
+* [Q&A: Would you rather buy the game on both platforms than solve these issues?](../../transcriptions/yt--ISubZfsFS4.md) https://www.youtube.com/watch?v=-ISubZfsFS4
 
 ## March 24th, 2020 Livestream
 * [Q&A: How high is Multiplayer bugfixing on the priority list?](../../transcriptions/yt-mvSWBd42JYM.md) https://www.youtube.com/watch?v=mvSWBd42JYM
-* [Q&A: Will the Steam release make reliability better?](../../transcriptions/yt-fKXR3PibLLA.md) https://www.youtube.com/watch?v=fKXR3PibLLA
 * [Snutt & Jace Talk: Multiplayer issues](../../transcriptions/yt-3vVD6SKT5OQ.md) https://www.youtube.com/watch?v=3vVD6SKT5OQ
+* [Q&A: Will the Steam release make reliability better?](../../transcriptions/yt-fKXR3PibLLA.md) https://www.youtube.com/watch?v=fKXR3PibLLA
 
 ## February 11th, 2020 Livestream
-* [Q&A: Will Dedicated Servers help with the lag?](../../transcriptions/yt-NmlWN5vExT0.md) https://www.youtube.com/watch?v=NmlWN5vExT0
 * [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) https://www.youtube.com/watch?v=jFeV8JA7NXg
 * [Snutt & Markus Talk: Status of Dedicated Servers](../../transcriptions/yt-QdMnTdqRxaE.md) https://www.youtube.com/watch?v=QdMnTdqRxaE
 * [Snutt Talk: There's so many things I want to fix & do](../../transcriptions/yt-jNQ4IPihWUY.md) https://www.youtube.com/watch?v=jNQ4IPihWUY
+* [Q&A: Will Dedicated Servers help with the lag?](../../transcriptions/yt-NmlWN5vExT0.md) https://www.youtube.com/watch?v=NmlWN5vExT0
 
 ## January 22nd, 2020 Livestream
-* [Q&A: Will Dedicated Servers improve performance for everyone?](../../transcriptions/yt-_hPGb4nGFvs.md) https://www.youtube.com/watch?v=_hPGb4nGFvs
-* [Q&A: Will the Dedicated Servers have some sort of permissions system?](../../transcriptions/yt-h6mpSh0JH5o.md) https://www.youtube.com/watch?v=h6mpSh0JH5o
 * [Snutt & Jace Talk: NAT](../../transcriptions/yt-4WFbYbEegN4.md) https://www.youtube.com/watch?v=4WFbYbEegN4
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0
+* [Q&A: Will Dedicated Servers improve performance for everyone?](../../transcriptions/yt-_hPGb4nGFvs.md) https://www.youtube.com/watch?v=_hPGb4nGFvs
+* [Q&A: Will the Dedicated Servers have some sort of permissions system?](../../transcriptions/yt-h6mpSh0JH5o.md) https://www.youtube.com/watch?v=h6mpSh0JH5o
 
 ## March 9th, 2019 Livestream
 * [Q&A: Do you want to support more than 4 people?](../../transcriptions/yt-wb5HY05QX9I.md) https://www.youtube.com/watch?v=wb5HY05QX9I

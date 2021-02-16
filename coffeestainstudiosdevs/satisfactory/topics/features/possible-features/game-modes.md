@@ -25,8 +25,8 @@ date: Last Modified
 * [Q&A: Will there be any Base Defense?](../../../transcriptions/yt-5-8ACtMU2_E.md) https://www.youtube.com/watch?v=5-8ACtMU2_E
 
 ## November 17th, 2020 Livestream
-* [Q&A: When are you adding hunger & thirst?](../../../transcriptions/yt-hro__pZa1pk.md) https://www.youtube.com/watch?v=hro__pZa1pk
 * [Trolling: Hunger & Thirst](../../../transcriptions/yt-IcnvCpUbTb4.md) https://www.youtube.com/watch?v=IcnvCpUbTb4
+* [Q&A: When are you adding hunger & thirst?](../../../transcriptions/yt-hro__pZa1pk.md) https://www.youtube.com/watch?v=hro__pZa1pk
 
 ## November 10th, 2020 Livestream
 * [Q&A: Is there going to be a Creative Mode?](../../../transcriptions/yt-NNUESlRoCJ8.md) https://www.youtube.com/watch?v=NNUESlRoCJ8

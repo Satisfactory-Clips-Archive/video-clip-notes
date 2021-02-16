@@ -7,9 +7,9 @@ date: Last Modified
 
 ## February 9th, 2021 Livestream
 * [Q&A: Can you summarise the extent to which Update 4 will be released in terms of the Engine Upgrade?](../../transcriptions/yt-RCaCXVVAtb0.md) https://www.youtube.com/watch?v=RCaCXVVAtb0
+* [State of Dev: Engine Upgrade](../../transcriptions/yt-RAnag5KJQcw.md) https://www.youtube.com/watch?v=RAnag5KJQcw
 * [Q&A: How's the Engine Upgrade and Update 4 merge going to be managed on Experimental?](../../transcriptions/yt-9dX8qNTbRvo.md) https://www.youtube.com/watch?v=9dX8qNTbRvo
 * [Q&A: Update 4 contains the Engine Upgrade?](../../transcriptions/yt-WQa938_K6SY.md) https://www.youtube.com/watch?v=WQa938_K6SY
-* [State of Dev: Engine Upgrade](../../transcriptions/yt-RAnag5KJQcw.md) https://www.youtube.com/watch?v=RAnag5KJQcw
 
 ## February 2nd, 2021 Livestream
 * [Q&A: How has feedback on the Engine Upgrade been going?](../../transcriptions/yt-lBNLO9T_VVk.md) https://www.youtube.com/watch?v=lBNLO9T_VVk
@@ -24,27 +24,27 @@ date: Last Modified
 * Q&A: Will you tell here the current build limit number considering the Engine Upgrade? https://www.youtube.com/watch?v=WfU45N1EvQ0
 
 ## January 19th, 2021 Livestream
+* [State of Dev: Engine Upgrade](../../transcriptions/yt-WIK1Ko-rCTE.md) https://www.youtube.com/watch?v=WIK1Ko-rCTE
+* [Snutt Talk: Engine Upgrade & Network Latency](../../transcriptions/yt-b--gsLSysTg.md) https://www.youtube.com/watch?v=b--gsLSysTg
+* [Snut Talk: Engine Upgrade - DirectX 12](../../transcriptions/yt-2QfjxpKJVIE.md) https://www.youtube.com/watch?v=2QfjxpKJVIE
+* [Snutt Talk: Engine Upgrade - Network tweaks](../../transcriptions/yt-cjQzivCIdIU.md) https://www.youtube.com/watch?v=cjQzivCIdIU
+* [Snutt Talk: Engine Upgrade is probably going to break mods.](../../transcriptions/yt-lHKPC3m2Z2A.md) https://www.youtube.com/watch?v=lHKPC3m2Z2A
 * [Q&A: How long will you wait until the Engine Upgrade gets merged from Experimental to Early Access?](../../transcriptions/yt-MNh_mdTOijU.md) https://www.youtube.com/watch?v=MNh_mdTOijU
+* [Snutt Talk: Issues downloading the patch on Steam](../../transcriptions/yt-voxZiFRE-MU.md) https://www.youtube.com/watch?v=voxZiFRE-MU
 * [Q&A: Is there any plan to add the r.screenpercentage setting for folks on 4k or high-res screens?](../../transcriptions/yt-p3zdRLbGwsk.md) https://www.youtube.com/watch?v=p3zdRLbGwsk
+* [Snutt Talk: We're not using a linear colour space](../../transcriptions/yt-jigwsKo5YKY.md) https://www.youtube.com/watch?v=jigwsKo5YKY
 * [Q&A: What about Multiplayer Vehicle de-sync?](../../transcriptions/yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw
 * [Q&A: While Unreal Engine 4 gets upgraded, will the Object Limit get changed?](../../transcriptions/yt-BE6kB3nmSdM.md) https://www.youtube.com/watch?v=BE6kB3nmSdM
 * [Q&A: Will clearing out all the Biomes increase your garbage limit?](../../transcriptions/yt-XcfIWDujsxA.md) https://www.youtube.com/watch?v=XcfIWDujsxA
 * [Q&A: Will the Engine Upgrade affect our Windows installation?](../../transcriptions/yt-xIfzyBihoI4.md) https://www.youtube.com/watch?v=xIfzyBihoI4
 * [Q&A: Will the Engine Upgrade work on Linux?](../../transcriptions/yt-twjZc7ImIts.md) https://www.youtube.com/watch?v=twjZc7ImIts
-* [Snut Talk: Engine Upgrade - DirectX 12](../../transcriptions/yt-2QfjxpKJVIE.md) https://www.youtube.com/watch?v=2QfjxpKJVIE
-* [Snutt Talk: Engine Upgrade & Network Latency](../../transcriptions/yt-b--gsLSysTg.md) https://www.youtube.com/watch?v=b--gsLSysTg
-* [Snutt Talk: Engine Upgrade - Network tweaks](../../transcriptions/yt-cjQzivCIdIU.md) https://www.youtube.com/watch?v=cjQzivCIdIU
-* [Snutt Talk: Engine Upgrade is probably going to break mods.](../../transcriptions/yt-lHKPC3m2Z2A.md) https://www.youtube.com/watch?v=lHKPC3m2Z2A
-* [Snutt Talk: Issues downloading the patch on Steam](../../transcriptions/yt-voxZiFRE-MU.md) https://www.youtube.com/watch?v=voxZiFRE-MU
-* [Snutt Talk: We're not using a linear colour space](../../transcriptions/yt-jigwsKo5YKY.md) https://www.youtube.com/watch?v=jigwsKo5YKY
-* [State of Dev: Engine Upgrade](../../transcriptions/yt-WIK1Ko-rCTE.md) https://www.youtube.com/watch?v=WIK1Ko-rCTE
 
 ## January 12th, 2021 Livestream
 * [Q&A: CPU make multi-core?](../../transcriptions/yt-0yzIyIlPDxw.md) https://www.youtube.com/watch?v=0yzIyIlPDxw
 * [Q&A: Hope more crashes won't appear after the Engine Upgrade?](../../transcriptions/yt-IiJqms2FdS4.md) https://www.youtube.com/watch?v=IiJqms2FdS4
 * [Q&A: More performance updates with Update 4?](../../transcriptions/yt--NZqqfxHzhQ.md) https://www.youtube.com/watch?v=-NZqqfxHzhQ
-* [Q&A: Will there be any minor releases between now and Update 4?](../../transcriptions/yt-GaVr69FiXw8.md) https://www.youtube.com/watch?v=GaVr69FiXw8
 * [State of Dev - Unreal Engine Update](../../transcriptions/yt-DNmmfH4tJSA.md) https://www.youtube.com/watch?v=DNmmfH4tJSA
+* [Q&A: Will there be any minor releases between now and Update 4?](../../transcriptions/yt-GaVr69FiXw8.md) https://www.youtube.com/watch?v=GaVr69FiXw8
 
 ## December 15th, 2020 Livestream
 * [Q&A: Infinite Colours?](../../transcriptions/yt-i1-FmJGxPPg.md) https://www.youtube.com/watch?v=i1-FmJGxPPg
@@ -59,17 +59,17 @@ date: Last Modified
 * [Q&A: Are Coffee Stain looking for Unreal Engine programmers - do you hire remotely?](../../transcriptions/yt-sI7zMjVad1c.md) https://www.youtube.com/watch?v=sI7zMjVad1c
 * [Q&A: Can we can expect a dev *blog* article about the Engine changes?](../../transcriptions/yt-C9LL9rg1aOk.md) https://www.youtube.com/watch?v=C9LL9rg1aOk
 * [Q&A: DirectX 12 when?](../../transcriptions/yt-BxAAQTxvy-Y.md) https://www.youtube.com/watch?v=BxAAQTxvy-Y
-* Q&A: When is the Engine Upgrade planned now? https://www.youtube.com/watch?v=kg4OkSCHFNs
 * [Snutt Talk: Emmissive Materials](../../transcriptions/yt-nYpEI8hZEgU.md) https://www.youtube.com/watch?v=nYpEI8hZEgU
-* [Snutt Talk: Lights (not) confirmed!](../../transcriptions/yt-9VodwDOMBl0.md) https://www.youtube.com/watch?v=9VodwDOMBl0
 * [State of Dev: Engine Upgrade](../../transcriptions/yt-j2kW9a3CTXE.md) https://www.youtube.com/watch?v=j2kW9a3CTXE
+* [Snutt Talk: Lights (not) confirmed!](../../transcriptions/yt-9VodwDOMBl0.md) https://www.youtube.com/watch?v=9VodwDOMBl0
+* Q&A: When is the Engine Upgrade planned now? https://www.youtube.com/watch?v=kg4OkSCHFNs
 
 ## November 24th, 2020 Livestream
 * [Q&A: Any improvements on build limits?](../../transcriptions/yt-eReH6Sdroq8.md) https://www.youtube.com/watch?v=eReH6Sdroq8
 * [Q&A: Does the Engine update include the waterfall graphics update?](../../transcriptions/yt-M9j9Bys_r_U.md) https://www.youtube.com/watch?v=M9j9Bys_r_U
 * [Q&A: Multiplayer fix?](../../transcriptions/yt-LX-zsQIkB3g.md) https://www.youtube.com/watch?v=LX-zsQIkB3g
-* [Q&A: Will the Engine Upgrade affect performance?](../../transcriptions/yt-S0BQ6HAU2vA.md) https://www.youtube.com/watch?v=S0BQ6HAU2vA
 * [Snutt & Jace Talk: State of Dev](../../transcriptions/yt-uYPhHTSL6Ys.md) https://www.youtube.com/watch?v=uYPhHTSL6Ys
+* [Q&A: Will the Engine Upgrade affect performance?](../../transcriptions/yt-S0BQ6HAU2vA.md) https://www.youtube.com/watch?v=S0BQ6HAU2vA
 
 ## November 10th, 2020 Livestream
 * [Q&A: Can we theoretically make a Mod that reduces Constructor Object numbers?](../../transcriptions/yt-cynkLEnrC8s.md) https://www.youtube.com/watch?v=cynkLEnrC8s
@@ -83,30 +83,30 @@ date: Last Modified
 * [Q&A: Will you switch to using Unreal Engine 5?](../../transcriptions/yt-9r6ROgTQ_n4.md) https://www.youtube.com/watch?v=9r6ROgTQ_n4
 
 ## October 9th, 2020 Livestream
-* [Dylan & Snutt Talk: Visual Studio vs. Rider](../../transcriptions/yt-hc2OfgQZCvA.md) https://www.youtube.com/watch?v=hc2OfgQZCvA
 * [Dylan Talk: Buffer Overflow bugs](../../transcriptions/yt-t6Gd_T5Tea4.md) https://www.youtube.com/watch?v=t6Gd_T5Tea4
 * [Dylan Talk: Cheat Buildings](../../transcriptions/yt-zThi_BgpiIA.md) https://www.youtube.com/watch?v=zThi_BgpiIA
+* [Snutt & Dylan Talk: Crash reporting](../../transcriptions/yt-1QDj7pJa9DQ.md) https://www.youtube.com/watch?v=1QDj7pJa9DQ
+* [Snutt Talk: Customising Unreal Engine for Satisfactory](../../transcriptions/yt-lDtaZpq1K1A.md) https://www.youtube.com/watch?v=lDtaZpq1K1A
+* [Snutt & Dylan Talk: Developing Shaders](../../transcriptions/yt-m5fQMCWE1MY.md) https://www.youtube.com/watch?v=m5fQMCWE1MY
+* [Q&A: Do you use emacs or vim?](../../transcriptions/yt-g6B1-vYXXd0.md) https://www.youtube.com/watch?v=g6B1-vYXXd0
+* [Snutt & Dylan Talk: Graphics vs. Architectural programming](../../transcriptions/yt-LwQb17QlBbg.md) https://www.youtube.com/watch?v=LwQb17QlBbg
+* [Q&A: Have Coffee Stain considered contributing the instanced spline mesh back to Unreal Engine?](../../transcriptions/yt-ny4PdCAnT9Q.md) https://www.youtube.com/watch?v=ny4PdCAnT9Q
+* [Q&A: How long does it take to do a full recompile on an average desktop?](../../transcriptions/yt-iNkLYa8R_eQ.md) https://www.youtube.com/watch?v=iNkLYa8R_eQ
 * [Dylan Talk: Instanced Splines (Part 1)](../../transcriptions/yt-c6Qy5jzXmqM.md) https://www.youtube.com/watch?v=c6Qy5jzXmqM
 * [Dylan Talk: Instanced Splines (Part 2)](../../transcriptions/yt-NM5eNwiCX0c.md) https://www.youtube.com/watch?v=NM5eNwiCX0c
 * [Dylan Talk: Instanced Splines (Part 3)](../../transcriptions/yt-cZgVZMk4zvM.md) https://www.youtube.com/watch?v=cZgVZMk4zvM
 * [Dylan Talk: Instanced Splines (Part 6)](../../transcriptions/yt-oyHCEA2k1PM.md) https://www.youtube.com/watch?v=oyHCEA2k1PM
 * [Dylan Talk: Instanced Splines (Part 9)](../../transcriptions/yt-pj50SOLT17Q.md) https://www.youtube.com/watch?v=pj50SOLT17Q
 * [Dylan Talk: Instanced Splines (Part 15)](../../transcriptions/yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
+* [Snutt & Dylan Talk: Shader Compiling](../../transcriptions/yt-aBPAMsZ1Vz8.md) https://www.youtube.com/watch?v=aBPAMsZ1Vz8
+* [Snutt & Dylan Talk: Unreal vs. Unity](../../transcriptions/yt-HkVgKAkAMN8.md) https://www.youtube.com/watch?v=HkVgKAkAMN8
+* [Dylan & Snutt Talk: Visual Studio vs. Rider](../../transcriptions/yt-hc2OfgQZCvA.md) https://www.youtube.com/watch?v=hc2OfgQZCvA
 * [Dylan Talk: We have secrets, dirty secrets](../../transcriptions/yt-KLTPTV3T-JE.md) https://www.youtube.com/watch?v=KLTPTV3T-JE
-* [Dylan Talk: Working on the Replication Graph](../../transcriptions/yt-0THShqltbYM.md) https://www.youtube.com/watch?v=0THShqltbYM
-* [Q&A: Do you use emacs or vim?](../../transcriptions/yt-g6B1-vYXXd0.md) https://www.youtube.com/watch?v=g6B1-vYXXd0
-* [Q&A: Have Coffee Stain considered contributing the instanced spline mesh back to Unreal Engine?](../../transcriptions/yt-ny4PdCAnT9Q.md) https://www.youtube.com/watch?v=ny4PdCAnT9Q
-* [Q&A: How long does it take to do a full recompile on an average desktop?](../../transcriptions/yt-iNkLYa8R_eQ.md) https://www.youtube.com/watch?v=iNkLYa8R_eQ
 * [Q&A: What's the reason for updating the engine?](../../transcriptions/yt-FsiVRfgi3Gs.md) https://www.youtube.com/watch?v=FsiVRfgi3Gs
 * [Q&A: What is the limit?](../../transcriptions/yt-Njv_PJT3B2g.md) https://www.youtube.com/watch?v=Njv_PJT3B2g
 * [Q&A: What Unreal Engine version are you upgrading between?](../../transcriptions/yt-PS73jBKTEtQ.md) https://www.youtube.com/watch?v=PS73jBKTEtQ
 * [Q&A: Why can't you jump from 4.22 to 4.25?](../../transcriptions/yt-FX5UGaLcF0Y.md) https://www.youtube.com/watch?v=FX5UGaLcF0Y
-* [Snutt & Dylan Talk: Crash reporting](../../transcriptions/yt-1QDj7pJa9DQ.md) https://www.youtube.com/watch?v=1QDj7pJa9DQ
-* [Snutt & Dylan Talk: Developing Shaders](../../transcriptions/yt-m5fQMCWE1MY.md) https://www.youtube.com/watch?v=m5fQMCWE1MY
-* [Snutt & Dylan Talk: Graphics vs. Architectural programming](../../transcriptions/yt-LwQb17QlBbg.md) https://www.youtube.com/watch?v=LwQb17QlBbg
-* [Snutt & Dylan Talk: Shader Compiling](../../transcriptions/yt-aBPAMsZ1Vz8.md) https://www.youtube.com/watch?v=aBPAMsZ1Vz8
-* [Snutt & Dylan Talk: Unreal vs. Unity](../../transcriptions/yt-HkVgKAkAMN8.md) https://www.youtube.com/watch?v=HkVgKAkAMN8
-* [Snutt Talk: Customising Unreal Engine for Satisfactory](../../transcriptions/yt-lDtaZpq1K1A.md) https://www.youtube.com/watch?v=lDtaZpq1K1A
+* [Dylan Talk: Working on the Replication Graph](../../transcriptions/yt-0THShqltbYM.md) https://www.youtube.com/watch?v=0THShqltbYM
 
 ## October 6th, 2020 Livestream
 * [Q&A: What is the object limit and why is it that number?](../../transcriptions/yt-VpCuu0aYFw0.md) https://www.youtube.com/watch?v=VpCuu0aYFw0
@@ -119,9 +119,9 @@ date: Last Modified
 ## September 22nd, 2020 Livestream
 * [Q&A: Engine Update - allow more objects to be built without fps drops?](../../transcriptions/yt-sADDzCQqkmE.md) https://www.youtube.com/watch?v=sADDzCQqkmE
 * [Q&A: Is it recommended to use all cores in Steam?](../../transcriptions/yt-vOdftO3hYsI.md) https://www.youtube.com/watch?v=vOdftO3hYsI
+* [Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)](../../transcriptions/yt-oT2NLP9ZvGk.md) https://www.youtube.com/watch?v=oT2NLP9ZvGk
 * [Q&A: Unreal Engine has default Controller support without you guys remapping?](../../transcriptions/yt-ypJikGBEdvs.md) https://www.youtube.com/watch?v=ypJikGBEdvs
 * [Q&A: What is the Object Count Limit, and how can we tell in our own game?](../../transcriptions/yt-gMq-fPCqGWQ.md) https://www.youtube.com/watch?v=gMq-fPCqGWQ
-* [Snutt & Jace Talk: State of Dev (Unreal Engine & Update 3.5)](../../transcriptions/yt-oT2NLP9ZvGk.md) https://www.youtube.com/watch?v=oT2NLP9ZvGk
 
 ## September 15th, 2020 Livestream
 * [Q&A: Go to Unity?](../../transcriptions/yt-_X-i39wswWU.md) https://www.youtube.com/watch?v=_X-i39wswWU
@@ -135,12 +135,13 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Can we expect significant performance increase with Update 4?](../../transcriptions/yt-PVf-pBNYO_M.md) https://www.youtube.com/watch?v=PVf-pBNYO_M
-* [Q&A: When will the next patch even get released?](../../transcriptions/yt-I59oaCtgopI.md) https://www.youtube.com/watch?v=I59oaCtgopI
-* [Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds](../../transcriptions/yt-rr1UWnrs0d4.md) https://www.youtube.com/watch?v=rr1UWnrs0d4
 * [Snutt Talk: Hyper Tube max speed](../../transcriptions/yt-bQ-5mKC09Fk.md) https://www.youtube.com/watch?v=bQ-5mKC09Fk
 * [State of Dev: Update 4 & Update 5](../../transcriptions/yt-e-51TRYTVg8.md) https://www.youtube.com/watch?v=e-51TRYTVg8
+* [Q&A: When will the next patch even get released?](../../transcriptions/yt-I59oaCtgopI.md) https://www.youtube.com/watch?v=I59oaCtgopI
+* [Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds](../../transcriptions/yt-rr1UWnrs0d4.md) https://www.youtube.com/watch?v=rr1UWnrs0d4
 
 ## August 18th, 2020 Livestream
+* Q&A: Are you going to upgrade to UE5? https://clips.twitch.tv/GloriousTangentialSalmonPastaThat
 * Build Limit (Part 1): https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis
 * Build Limit (Part 2): https://clips.twitch.tv/UnusualExquisiteKuduDendiFace
 * Build Limit (Part 3): https://clips.twitch.tv/SullenColdbloodedDiscEagleEye
@@ -148,24 +149,23 @@ date: Last Modified
 * Build Limit (Part 5): https://clips.twitch.tv/GiantGeniusGooseCclamChamp
 * Build Limit (Part 6): https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ
 * Q&A: Custom game engine? https://clips.twitch.tv/ViscousFuriousPonyPhilosoraptor
-* Q&A: Are you going to upgrade to UE5? https://clips.twitch.tv/GloriousTangentialSalmonPastaThat
 
 ## July 28th, 2020 Livestream
 * Q&A: Unreal Engine 5 https://clips.twitch.tv/PiliableZanyGrassFreakinStinkin
 
 ## May 19th, 2020 Livestream
 * [Q&A: Any work on Occlusion Culling?](../../transcriptions/yt-SauDZG88AFI.md) https://www.youtube.com/watch?v=SauDZG88AFI
+* [Snutt & Gafgar Talk: Optimisation passes](../../transcriptions/yt-yOyNULmDdpc.md) https://www.youtube.com/watch?v=yOyNULmDdpc
 * [Q&A: What does Performance Budget mean?](../../transcriptions/yt-qg27gPorXB4.md) https://www.youtube.com/watch?v=qg27gPorXB4
 * [Q&A: Why can't you just add lights to the game?](../../transcriptions/yt-IJdIUISe5S4.md) https://www.youtube.com/watch?v=IJdIUISe5S4
 * [Q&A: Will you be using Unreal Engine 5 for Satisfactory?](../../transcriptions/yt-Wy79gUb24es.md) https://www.youtube.com/watch?v=Wy79gUb24es
-* [Snutt & Gafgar Talk: Optimisation passes](../../transcriptions/yt-yOyNULmDdpc.md) https://www.youtube.com/watch?v=yOyNULmDdpc
 
 ## February 11th, 2020 Livestream
-* [Markus Talk: What I've been working on (optimisation)](../../transcriptions/yt-LmzVhKaW_5I.md) https://www.youtube.com/watch?v=LmzVhKaW_5I
-* [Q&A: Why not C#?](../../transcriptions/yt-c7q7LckT01A.md) https://www.youtube.com/watch?v=c7q7LckT01A
 * [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) https://www.youtube.com/watch?v=jFeV8JA7NXg
 * [Snutt, Markus, & G2 Talk: The Modding Community](../../transcriptions/yt-0nF9GbpBe5I.md) https://www.youtube.com/watch?v=0nF9GbpBe5I
 * [Snutt, Markus, & G2 Talk: Unreal Engine 3 vs. Unreal Engine 4](../../transcriptions/yt-lMh52dOpyUk.md) https://www.youtube.com/watch?v=lMh52dOpyUk
+* [Markus Talk: What I've been working on (optimisation)](../../transcriptions/yt-LmzVhKaW_5I.md) https://www.youtube.com/watch?v=LmzVhKaW_5I
+* [Q&A: Why not C#?](../../transcriptions/yt-c7q7LckT01A.md) https://www.youtube.com/watch?v=c7q7LckT01A
 
 ## March 9th, 2019 Livestream
 * [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](../../transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k

@@ -57,18 +57,18 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../../transcriptions/yt-Ds9NIPna9_4.md) https://www.youtube.com/watch?v=Ds9NIPna9_4
 * [Q&A: Can we get a drink on the fridge in the base?](../../../transcriptions/yt-Lk34vKl94hI.md) https://www.youtube.com/watch?v=Lk34vKl94hI
-* [Q&A: Will you be able to play Doom on the Hub screens?](../../../transcriptions/yt-lVjzwGuhM5I.md) https://www.youtube.com/watch?v=lVjzwGuhM5I
+* Q&A: Could we order food from the Food Station, or is it like a buffet? https://clips.twitch.tv/ExuberantDeadDinosaurBatChest
 * [Snutt Talk: Fridge in the Hub](../../../transcriptions/yt-0S3NrfwpV0c.md) https://www.youtube.com/watch?v=0S3NrfwpV0c
 * [Snutt Talk: Snutt discovers the fridge](../../../transcriptions/yt-AwfR7ExmwJ0.md) https://www.youtube.com/watch?v=AwfR7ExmwJ0
-* Q&A: Could we order food from the Food Station, or is it like a buffet? https://clips.twitch.tv/ExuberantDeadDinosaurBatChest
+* [Q&A: Will you be able to play Doom on the Hub screens?](../../../transcriptions/yt-lVjzwGuhM5I.md) https://www.youtube.com/watch?v=lVjzwGuhM5I
 
 ## August 18th, 2020 Livestream
 * Q&A: Any plans to add toilet paper in the bathroom? https://clips.twitch.tv/AuspiciousPrettiestAlfalfaKAPOW
 
 ## August 11th, 2020 Livestream
+* Q&A: Anything inside the HUB where the MAM used to be? https://clips.twitch.tv/RespectfulDreamyHabaneroMrDestructoid
 * Q&A: Sleep in-game? (Part 1) https://clips.twitch.tv/DaintyYummyLemurANELE
 * Q&A: Sleep in-game? (Part 2) https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime
-* Q&A: Anything inside the HUB where the MAM used to be? https://clips.twitch.tv/RespectfulDreamyHabaneroMrDestructoid
 
 ## June 8th, 2020 Livestream
 * [Q&A: Flushable Toilet?](../../../transcriptions/yt-FlaP38G7O5U.md) https://www.youtube.com/watch?v=FlaP38G7O5U
@@ -83,7 +83,7 @@ date: Last Modified
 * [Q&A: Will there be more competitive stuff?](../../../transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
 
 ## March 9th, 2019 Livestream
-* [Q&A: Why does the rocket pod fly away for 1 - 10 minutes and then come back?](../../../transcriptions/yt-PtrLYyfhnvQ.md) https://www.youtube.com/watch?v=PtrLYyfhnvQ
 * [Snutt Talk: HUB screens](../../../transcriptions/yt-ofpDJ6kv9Iw.md) https://www.youtube.com/watch?v=ofpDJ6kv9Iw
 * [Snutt Talk: Player death without the HUB being built.](../../../transcriptions/yt-hCPIVr5mlFQ.md) https://www.youtube.com/watch?v=hCPIVr5mlFQ
 * [Snutt Talk: the most important part of the HUB](../../../transcriptions/yt-DwdNTp6z1a4.md) https://www.youtube.com/watch?v=DwdNTp6z1a4
+* [Q&A: Why does the rocket pod fly away for 1 - 10 minutes and then come back?](../../../transcriptions/yt-PtrLYyfhnvQ.md) https://www.youtube.com/watch?v=PtrLYyfhnvQ

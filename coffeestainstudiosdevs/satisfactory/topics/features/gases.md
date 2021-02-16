@@ -31,12 +31,12 @@ date: Last Modified
 * [Q&A: With the introducion of Gas, will Coal Generators be split into two buildings?](../../transcriptions/yt-vsmihiP_Tmg.md) https://www.youtube.com/watch?v=vsmihiP_Tmg
 
 ## January 15th, 2021 Livestream
+* [Headlift for Gases](../../transcriptions/yt-Jxh8kvtUuxY,100.56713333333333,136.00253333333333.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137
+
 * Intro https://www.youtube.com/watch?v=yt-Jxh8kvtUuxY%2C%2C46.3463
 * [Nitrogen](../../transcriptions/yt-Jxh8kvtUuxY,46.3463,56.38966666666667.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=46&end=57
 
 * [Resource Wells](../../transcriptions/yt-Jxh8kvtUuxY,56.38966666666667,100.56713333333333.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101
-
-* [Headlift for Gases](../../transcriptions/yt-Jxh8kvtUuxY,100.56713333333333,136.00253333333333.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137
 
 * [Q&A: What will Gases be used for?](../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188
 

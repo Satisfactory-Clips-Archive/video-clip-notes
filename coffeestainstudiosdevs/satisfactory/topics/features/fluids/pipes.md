@@ -22,8 +22,8 @@ date: Last Modified
 * [Q&A: What requires more computing power, Belts or Pipes?](../../../transcriptions/yt-NM_f7DwMhdA.md) https://www.youtube.com/watch?v=NM_f7DwMhdA
 
 ## November 17th, 2020 Livestream
-* [Q&A: Why did you change the minimum length of Pipes ?](../../../transcriptions/yt-l8e-RamsN-U.md) https://www.youtube.com/watch?v=l8e-RamsN-U
 * [Trolling: Removing Pipes](../../../transcriptions/yt-H1ulq2yh6ww.md) https://www.youtube.com/watch?v=H1ulq2yh6ww
+* [Q&A: Why did you change the minimum length of Pipes ?](../../../transcriptions/yt-l8e-RamsN-U.md) https://www.youtube.com/watch?v=l8e-RamsN-U
 
 ## November 10th, 2020 Livestream
 * [Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?](../../../transcriptions/yt-SJI1puC2mEw.md) https://www.youtube.com/watch?v=SJI1puC2mEw
@@ -38,9 +38,9 @@ date: Last Modified
 * [Q&A: Will the Pipeline Junction be stackable?](../../../transcriptions/yt-qzAbkRHSojU.md) https://www.youtube.com/watch?v=qzAbkRHSojU
 
 ## October 9th, 2020 Livestream
-* [Dylan Talk: Instanced Splines (Part 15)](../../../transcriptions/yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
-* [Q&A: How are the Fluids calculated in the Pipe?](../../../transcriptions/yt-nI5VJXbiGJw.md) https://www.youtube.com/watch?v=nI5VJXbiGJw
 * [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../../../transcriptions/yt-Ri4BTkabEaE.md) https://www.youtube.com/watch?v=Ri4BTkabEaE
+* [Q&A: How are the Fluids calculated in the Pipe?](../../../transcriptions/yt-nI5VJXbiGJw.md) https://www.youtube.com/watch?v=nI5VJXbiGJw
+* [Dylan Talk: Instanced Splines (Part 15)](../../../transcriptions/yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
 
 ## September 29th, 2020 Livestream
 * [Q&A: Add a Tape Measure or something to gauge distance between two objects?](../../../transcriptions/yt--hFvijwVlSQ.md) https://www.youtube.com/watch?v=-hFvijwVlSQ
@@ -66,10 +66,10 @@ date: Last Modified
 * [Q&A: Can you talk a little bit about balancing for Pipes?](../../../transcriptions/yt-Pzda6aAHOYQ.md) https://www.youtube.com/watch?v=Pzda6aAHOYQ
 
 ## February 11th, 2020 Livestream
-* [Jace Talk: Regretting mention Pipes on the Update 3 Launch stream](../../../transcriptions/yt-GHbZplfp7Jc.md) https://www.youtube.com/watch?v=GHbZplfp7Jc
 * [Q&A: Are there things people will be surprised by?](../../../transcriptions/yt-v-f6PgaD4rY.md) https://www.youtube.com/watch?v=v-f6PgaD4rY
 * [Q&A: Is there a reason why you hate Pipes?](../../../transcriptions/yt-OsetK7Ww2zI.md) https://www.youtube.com/watch?v=OsetK7Ww2zI
 * [Snutt & Jace Talk: People still asking for Pipes](../../../transcriptions/yt-pTg32vCi8_Y.md) https://www.youtube.com/watch?v=pTg32vCi8_Y
+* [Jace Talk: Regretting mention Pipes on the Update 3 Launch stream](../../../transcriptions/yt-GHbZplfp7Jc.md) https://www.youtube.com/watch?v=GHbZplfp7Jc
 * [Snutt & Jace Talk: We can finally talk about Update 3](../../../transcriptions/yt-sThTLaqNsts.md) https://www.youtube.com/watch?v=sThTLaqNsts
 
 ## January 22nd, 2020 Livestream

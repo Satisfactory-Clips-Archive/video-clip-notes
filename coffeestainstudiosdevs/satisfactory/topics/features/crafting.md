@@ -14,9 +14,9 @@ date: Last Modified
 * [Q&A: Will Update 4 change any existing Alt recipes? (Part 2)](../../transcriptions/yt-wN7_0V9lRfk.md) https://www.youtube.com/watch?v=wN7_0V9lRfk
 
 ## December 11th, 2020 Livestream
-* [New Parts coming in Update 4](../../transcriptions/yt-njXBs_p2l1w,95.36193333333334,124.9248.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=95&end=125
-
 * [Aluminum Casing](../../transcriptions/yt-njXBs_p2l1w,245.57866666666666,333.23290000000003.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334
+
+* [New Parts coming in Update 4](../../transcriptions/yt-njXBs_p2l1w,95.36193333333334,124.9248.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=95&end=125
 
 
 ## October 13th, 2020 Livestream
@@ -42,9 +42,9 @@ date: Last Modified
 * [Q&A: I'm not asking for a change, but why Beacons to craft Bullets?](../../transcriptions/yt-Gttu7r1NCLk.md) https://www.youtube.com/watch?v=Gttu7r1NCLk
 
 ## August 25th, 2020 Livestream
-* Q&A: Water Extractors need to snap to grid https://clips.twitch.tv/ExuberantAmorphousCarrotNononoCat
-* Q&A: Set a specific Foundation as the keystone https://clips.twitch.tv/GoodAnimatedSproutPipeHype
 * Q&A: Grid- a radius would be perfect https://clips.twitch.tv/GeniusConcernedEggDogFace
+* Q&A: Set a specific Foundation as the keystone https://clips.twitch.tv/GoodAnimatedSproutPipeHype
+* Q&A: Water Extractors need to snap to grid https://clips.twitch.tv/ExuberantAmorphousCarrotNononoCat
 
 ## December 19th, 2019 Livestream
 * [Q&A: Can we put the "Nani‽" back in?](../../transcriptions/yt-sn0yrFw_Lfw.md) https://www.youtube.com/watch?v=sn0yrFw_Lfw
@@ -53,11 +53,11 @@ date: Last Modified
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
 
+* [Reinforced Iron Plates being created](../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569
+
 * [Smelting Iron](../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275
 
 * [Using Iron Ingots to eventually make Screws](../../transcriptions/yt-J_Dznt1OG-0,274.440833,365.9656.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366
 
 * [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516
-
-* [Reinforced Iron Plates being created](../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569
 

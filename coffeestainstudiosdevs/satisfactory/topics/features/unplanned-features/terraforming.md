@@ -8,8 +8,8 @@ date: Last Modified
 * [Q&A: Is terraforming possible any time in the future?](../../../transcriptions/yt-_fE2dbyaJZg.md) https://www.youtube.com/watch?v=_fE2dbyaJZg
 
 ## September 8th, 2020 Livestream
-* [Jace & Snutt Talk: Map Modding](../../../transcriptions/yt-4nzTdrIc2hg.md) https://www.youtube.com/watch?v=4nzTdrIc2hg
 * [Q&A: Any thoughts on Terraforming, specifically tunneling ?](../../../transcriptions/yt-LIi_14XOp60.md) https://www.youtube.com/watch?v=LIi_14XOp60
+* [Jace & Snutt Talk: Map Modding](../../../transcriptions/yt-4nzTdrIc2hg.md) https://www.youtube.com/watch?v=4nzTdrIc2hg
 
 ## August 25th, 2020 Livestream
 * [Q&A: Add Train tunnels to go through mountains?](../../../transcriptions/yt-v6sWQLM4fMM.md) https://www.youtube.com/watch?v=v6sWQLM4fMM

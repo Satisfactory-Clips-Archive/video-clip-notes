@@ -27,8 +27,8 @@ date: Last Modified
 * [Q&A: When is Satisfactory coming to Switch?](../../../transcriptions/yt-tBDXG3OHt1c.md) https://www.youtube.com/watch?v=tBDXG3OHt1c
 
 ## November 17th, 2020 Livestream
-* [Q&A: Is Console support coming?](../../../transcriptions/yt-tqB7YuLM2Fs.md) https://www.youtube.com/watch?v=tqB7YuLM2Fs
 * [Trolling: Console Support](../../../transcriptions/yt-OMFvjE8llfs.md) https://www.youtube.com/watch?v=OMFvjE8llfs
+* [Q&A: Is Console support coming?](../../../transcriptions/yt-tqB7YuLM2Fs.md) https://www.youtube.com/watch?v=tqB7YuLM2Fs
 
 ## October 13th, 2020 Livestream
 * [Q&A: I want this to come to XBox Series X & Playstation 5](../../../transcriptions/yt-9NqrE4ASW9U.md) https://www.youtube.com/watch?v=9NqrE4ASW9U

@@ -50,17 +50,17 @@ date: Last Modified
 * [Q&A: Any plans for bigger foundations?](../../../transcriptions/yt-uUFy6qyZLKo.md) https://www.youtube.com/watch?v=uUFy6qyZLKo
 
 ## August 25th, 2020 Livestream
+* [Snutt Talk: Blueprints for beginners vs. end-game play](../../../transcriptions/yt-RdDroPYu1sk.md) https://www.youtube.com/watch?v=RdDroPYu1sk
 * [Q&A: Grid- a radius would be perfect?](../../../transcriptions/yt-AgdOGd32U3w.md) https://www.youtube.com/watch?v=AgdOGd32U3w
 * [Q&A: Set a specific Foundation as the keystone?](../../../transcriptions/yt-DTZz5jdnn_s.md) https://www.youtube.com/watch?v=DTZz5jdnn_s
 * [Q&A: What about holes for Foundations?](../../../transcriptions/yt-fufH5ltdn7E.md) https://www.youtube.com/watch?v=fufH5ltdn7E
-* [Snutt Talk: Blueprints for beginners vs. end-game play](../../../transcriptions/yt-RdDroPYu1sk.md) https://www.youtube.com/watch?v=RdDroPYu1sk
 
 ## August 11th, 2020 Livestream
 * Q&A: Floating Factories vs. Structural Supports https://clips.twitch.tv/GiftedSincereDillDoubleRainbow
 
 ## March 24th, 2020 Livestream
-* [Jace Talk: Use the QA Site](../../../transcriptions/yt-Bm_Yh-0jjtI.md) https://www.youtube.com/watch?v=Bm_Yh-0jjtI
 * [Q&A: Multiple Foundation creation?](../../../transcriptions/yt-zfdV2qIDHP4.md) https://www.youtube.com/watch?v=zfdV2qIDHP4
+* [Jace Talk: Use the QA Site](../../../transcriptions/yt-Bm_Yh-0jjtI.md) https://www.youtube.com/watch?v=Bm_Yh-0jjtI
 * [Q&A: What HUB Tier will have electric floors?](../../../transcriptions/yt-cH3ityZn8E4.md) https://www.youtube.com/watch?v=cH3ityZn8E4
 * Q&A: When are the Wind Turbines that Jace leaked coming? https://www.youtube.com/watch?v=nRMTYlLqiSc
 

@@ -18,18 +18,18 @@ date: Last Modified
 * [Q&A: Will you do YouTuber statues?](../transcriptions/yt-394eLDR3mFU.md) https://www.youtube.com/watch?v=394eLDR3mFU
 
 ## January 26th, 2021 Livestream
-* [Q&A: How many bugs did you fix of the ones Let's Game It Out discovered?](../transcriptions/yt-OZTQGd4ZZ_E.md) https://www.youtube.com/watch?v=OZTQGd4ZZ_E
 * [Snutt & Jace Talk: Delete the VOD](../transcriptions/yt-MhIaB4UPEP4.md) https://www.youtube.com/watch?v=MhIaB4UPEP4
+* [Q&A: How many bugs did you fix of the ones Let's Game It Out discovered?](../transcriptions/yt-OZTQGd4ZZ_E.md) https://www.youtube.com/watch?v=OZTQGd4ZZ_E
 
 ## January 19th, 2021 Livestream
-* [Mark Talk: My day-to-day work as Game Director](../transcriptions/yt-CG0ff4zpl7k.md) https://www.youtube.com/watch?v=CG0ff4zpl7k
 * [Q&A: Any news from the Content Creator program?](../transcriptions/yt-UbRjqQgji40.md) https://www.youtube.com/watch?v=UbRjqQgji40
 * [Q&A: If the community made a Snow Biome, would you add that?](../transcriptions/yt-I8rWTBGdGio.md) https://www.youtube.com/watch?v=I8rWTBGdGio
+* [Mark Talk: My day-to-day work as Game Director](../transcriptions/yt-CG0ff4zpl7k.md) https://www.youtube.com/watch?v=CG0ff4zpl7k
 
 ## January 12th, 2021 Livestream
+* [Snutt & Jace Talk: Dan Harmon plays Satisfactory](../transcriptions/yt-DnHcbBr79wI.md) https://www.youtube.com/watch?v=DnHcbBr79wI
 * [Q&A: How can I help with translation- the Spanish one looks like Google Translator?](../transcriptions/yt-qbaev-b4lbQ.md) https://www.youtube.com/watch?v=qbaev-b4lbQ
 * [Q&A: What is your favourite Mod?](../transcriptions/yt-9tdYBCwd5no.md) https://www.youtube.com/watch?v=9tdYBCwd5no
-* [Snutt & Jace Talk: Dan Harmon plays Satisfactory](../transcriptions/yt-DnHcbBr79wI.md) https://www.youtube.com/watch?v=DnHcbBr79wI
 
 ## December 15th, 2020 Livestream
 * [Q&A: Could it be released to the Modding Community to polish and release it as a Mod?](../transcriptions/yt-MQLuFiVQPYY.md) https://www.youtube.com/watch?v=MQLuFiVQPYY
@@ -52,13 +52,13 @@ date: Last Modified
 * [Q&A: Would you guys be up for doing a stream reacting to other FanForge content?](../transcriptions/yt-dRtDPajp9Qo.md) https://www.youtube.com/watch?v=dRtDPajp9Qo
 
 ## November 17th, 2020 Livestream
-* Snutt & Jace Don't Talk: Taking suggestions from Twitter https://www.youtube.com/watch?v=AAGE7-1paKw
 * [Snutt & Jace Talk: More. More. More. More. More. More. More. More. More. More. More. More. More.](../transcriptions/yt-Vo3lY0SRijI.md) https://www.youtube.com/watch?v=Vo3lY0SRijI
 * [Trolling: New Community Manager](../transcriptions/yt-awAhXucxS-Y.md) https://www.youtube.com/watch?v=awAhXucxS-Y
+* Snutt & Jace Don't Talk: Taking suggestions from Twitter https://www.youtube.com/watch?v=AAGE7-1paKw
 
 ## November 10th, 2020 Livestream
-* [Jace Talk: Q&A Site](../transcriptions/yt-zpx-sze1Sxw.md) https://www.youtube.com/watch?v=zpx-sze1Sxw
 * [Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?](../transcriptions/yt-tv1pCGiRtkM.md) https://www.youtube.com/watch?v=tv1pCGiRtkM
+* [Jace Talk: Q&A Site](../transcriptions/yt-zpx-sze1Sxw.md) https://www.youtube.com/watch?v=zpx-sze1Sxw
 
 ## November 3rd, 2020 Livestream
 * [Snutt Talk: SignpostMarv clips up all the Questions & Answers](../transcriptions/yt-BIfBmiglakE.md) https://www.youtube.com/watch?v=BIfBmiglakE
@@ -96,17 +96,17 @@ date: Last Modified
 * [Community Highlights - Chainsaw on legs](../transcriptions/yt-tX8VDBudtuI.md) https://www.youtube.com/watch?v=tX8VDBudtuI
 
 ## February 11th, 2020 Livestream
-* [Jace Talk: Regretting mention Pipes on the Update 3 Launch stream](../transcriptions/yt-GHbZplfp7Jc.md) https://www.youtube.com/watch?v=GHbZplfp7Jc
 * [Q&A: Is this the new Desert Biome?](../transcriptions/yt-ZKHgWByn3D4.md) https://www.youtube.com/watch?v=ZKHgWByn3D4
+* [Jace Talk: Regretting mention Pipes on the Update 3 Launch stream](../transcriptions/yt-GHbZplfp7Jc.md) https://www.youtube.com/watch?v=GHbZplfp7Jc
 * [Snutt & Jace Talk: Semlor (Part 1)](../transcriptions/yt-gHxHTyslv7Q.md) https://www.youtube.com/watch?v=gHxHTyslv7Q
 * Snutt & Jace Talk: Update 3 Launch Stream https://www.youtube.com/watch?v=omrl422pdJQ
 
 ## January 22nd, 2020 Livestream
-* [Jace Talk: The QA Site](../transcriptions/yt-eaaYqnAGK0M.md) https://www.youtube.com/watch?v=eaaYqnAGK0M
-* [Q&A: Do you have to wear a hat when you become CM of Coffee Stain](../transcriptions/yt-h4V2Fx6IXyI.md) https://www.youtube.com/watch?v=h4V2Fx6IXyI
-* [Q&A: Why two Community Managers again?](../transcriptions/yt-vr0RPVS158o.md) https://www.youtube.com/watch?v=vr0RPVS158o
-* [Snutt & Jace Talk: What the community would like to see in Update 3?](../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0
 * [Snutt Talk: Clip stuff, it makes our life a lot easier](../transcriptions/yt-hOrDM-9lNQo.md) https://www.youtube.com/watch?v=hOrDM-9lNQo
+* [Q&A: Do you have to wear a hat when you become CM of Coffee Stain](../transcriptions/yt-h4V2Fx6IXyI.md) https://www.youtube.com/watch?v=h4V2Fx6IXyI
+* [Jace Talk: The QA Site](../transcriptions/yt-eaaYqnAGK0M.md) https://www.youtube.com/watch?v=eaaYqnAGK0M
+* [Snutt & Jace Talk: What the community would like to see in Update 3?](../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0
+* [Q&A: Why two Community Managers again?](../transcriptions/yt-vr0RPVS158o.md) https://www.youtube.com/watch?v=vr0RPVS158o
 
 ## December 19th, 2019 Livestream
 * [Q&A: Snutt Jace's baby Community Manager?](../transcriptions/yt-mmaqnomYjFQ.md) https://www.youtube.com/watch?v=mmaqnomYjFQ

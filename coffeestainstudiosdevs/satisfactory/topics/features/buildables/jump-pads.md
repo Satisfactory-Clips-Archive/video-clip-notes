@@ -11,9 +11,9 @@ date: Last Modified
 * [Q&A: Do we get better Jump Pads in the Update?](../../../transcriptions/yt-k3WWTRfFo_s.md) https://www.youtube.com/watch?v=k3WWTRfFo_s
 
 ## October 20th, 2020 Livestream
+* [Q&A: Can you change the angle of the new jump pad after you build it?](../../../transcriptions/yt-UJJgwCUqVWs.md) https://www.youtube.com/watch?v=UJJgwCUqVWs
 * [Jace & Snutt Talk: Jump Pad Teaser (part 1)](../../../transcriptions/yt-w-f3V9PdqxI.md) https://www.youtube.com/watch?v=w-f3V9PdqxI
 * [Jace & Snutt Talk: Jump Pad Teaser (part 2)](../../../transcriptions/yt-FZLQZ17hgjQ.md) https://www.youtube.com/watch?v=FZLQZ17hgjQ
-* [Q&A: Can you change the angle of the new jump pad after you build it?](../../../transcriptions/yt-UJJgwCUqVWs.md) https://www.youtube.com/watch?v=UJJgwCUqVWs
 
 ## August 25th, 2020 Livestream
 * [Q&A: Can we get an indicator for the launch line from the Launch Pad?](../../../transcriptions/yt-YwYLlE8veKs.md) https://www.youtube.com/watch?v=YwYLlE8veKs

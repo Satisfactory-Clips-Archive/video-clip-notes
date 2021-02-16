@@ -9,8 +9,8 @@ date: Last Modified
 * [Q&A: When is Toilet update coming?](../../../transcriptions/yt-b7ZVKjoH7CQ.md) https://www.youtube.com/watch?v=b7ZVKjoH7CQ
 
 ## February 2nd, 2021 Livestream
-* [Q&A: Will the Toilet flush?](../../../transcriptions/yt-ydJvaDmoy0U.md) https://www.youtube.com/watch?v=ydJvaDmoy0U
 * [Snutt & Jace Talk: Turning the toilet into a shrine to us](../../../transcriptions/yt-JSE233L0yRA.md) https://www.youtube.com/watch?v=JSE233L0yRA
+* [Q&A: Will the Toilet flush?](../../../transcriptions/yt-ydJvaDmoy0U.md) https://www.youtube.com/watch?v=ydJvaDmoy0U
 
 ## January 26th, 2021 Livestream
 * [Q&A: Please, Toilet DLC before Official DLC?](../../../transcriptions/yt-5sqgxrPlcUI.md) https://www.youtube.com/watch?v=5sqgxrPlcUI

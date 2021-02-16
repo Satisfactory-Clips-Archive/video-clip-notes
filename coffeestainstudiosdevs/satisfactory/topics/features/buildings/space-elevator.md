@@ -12,9 +12,9 @@ date: Last Modified
 * [Q&A: Will we get more uses/shipments for the Space Elevator?](../../../transcriptions/yt-pjoG5bBsTKI.md) https://www.youtube.com/watch?v=pjoG5bBsTKI
 
 ## December 11th, 2020 Livestream
-* [Magnetic Field Generator](../../../transcriptions/yt-njXBs_p2l1w,443.557086,536.9364.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=443&end=537
-
 * [Assembly Director System](../../../transcriptions/yt-njXBs_p2l1w,536.9364,640.7067333333333.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=536&end=641
+
+* [Magnetic Field Generator](../../../transcriptions/yt-njXBs_p2l1w,443.557086,536.9364.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=443&end=537
 
 * [Thermal Propulsion Rocket](../../../transcriptions/yt-njXBs_p2l1w,640.7067333333333,713.1457666666666.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=640&end=714
 
@@ -31,8 +31,8 @@ date: Last Modified
 * [Q&A: Will there be a rocket to leave the planet?](../../../transcriptions/yt-r6XZwAA1Cvk.md) https://www.youtube.com/watch?v=r6XZwAA1Cvk
 
 ## June 8th, 2020 Livestream
-* [Q&A: How about repeatable Space Elevator shipments to make more use of it?](../../../transcriptions/yt-fbCEIVUNDe0.md) https://www.youtube.com/watch?v=fbCEIVUNDe0
 * [Snutt, Jace, & Mark Talk: Changing the behaviour of the Space Elevator inputs](../../../transcriptions/yt-HAB_W3gw4mQ.md) https://www.youtube.com/watch?v=HAB_W3gw4mQ
+* [Q&A: How about repeatable Space Elevator shipments to make more use of it?](../../../transcriptions/yt-fbCEIVUNDe0.md) https://www.youtube.com/watch?v=fbCEIVUNDe0
 
 ## March 9th, 2019 Livestream
 * [Jace Talk: Space Elevator](../../../transcriptions/yt-0P2A2UtY834.md) https://www.youtube.com/watch?v=0P2A2UtY834

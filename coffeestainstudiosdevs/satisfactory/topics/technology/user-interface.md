@@ -10,24 +10,24 @@ date: Last Modified
 * [Q&A: Do you have any plans for the Radar Towers?](../../transcriptions/yt-Jb1JBMGknBY.md) https://www.youtube.com/watch?v=Jb1JBMGknBY
 * [Q&A: For automobiles you can pick fuels?](../../transcriptions/yt-kGCoxYYhnBs.md) https://www.youtube.com/watch?v=kGCoxYYhnBs
 * [Q&A: How do Gas Extractors work with Multiplayer fart emotes to increase Gas production?](../../transcriptions/yt-Lv_BZl7rgOE.md) https://www.youtube.com/watch?v=Lv_BZl7rgOE
+* [Snutt & Jace Talk: Leak™](../../transcriptions/yt-TbSECv5M4ZM.md) https://www.youtube.com/watch?v=TbSECv5M4ZM
 * [Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?](../../transcriptions/yt-5Z5pyzNiaVY.md) https://www.youtube.com/watch?v=5Z5pyzNiaVY
 * [Q&A: Will there be another list coming in the Codex showing you which recipes need certain items?](../../transcriptions/yt-Wk1osyojNQw.md) https://www.youtube.com/watch?v=Wk1osyojNQw
 * [Q&A: Will there be less "invalid placement" issues?](../../transcriptions/yt-oawyPBC7jAo.md) https://www.youtube.com/watch?v=oawyPBC7jAo
 * Q&A: Will there be more emotes? https://www.youtube.com/watch?v=dBNJrDsc_XU
-* [Snutt & Jace Talk: Leak™](../../transcriptions/yt-TbSECv5M4ZM.md) https://www.youtube.com/watch?v=TbSECv5M4ZM
 
 ## February 5th, 2021 Livestream
-* [UI change - Open in Codex](../../transcriptions/yt-rI5kRMSwo5Q,42.273444,75.54611.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76
+* [Nitrogen Gas Resource Well](../../transcriptions/yt-rI5kRMSwo5Q,330.36336666666665,499.6992.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500
 
 * [UI Change - AWESOME Store](../../transcriptions/yt-rI5kRMSwo5Q,75.54213333333334,189.92306666666667.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=75&end=190
+
+* [UI change - Open in Codex](../../transcriptions/yt-rI5kRMSwo5Q,42.273444,75.54611.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76
+
+* [UI Change - Power Management](../../transcriptions/yt-rI5kRMSwo5Q,286.05243333333334,330.36336666666665.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=286&end=331
 
 * [UI Change - Production UI](../../transcriptions/yt-rI5kRMSwo5Q,189.92306666666667,263.8969666666667.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=189&end=264
 
 * [UI Change - Unreleased Building sneak-peek (don't tell anyone)](../../transcriptions/yt-rI5kRMSwo5Q,263.8969666666667,286.05243333333334.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=263&end=287
-
-* [UI Change - Power Management](../../transcriptions/yt-rI5kRMSwo5Q,286.05243333333334,330.36336666666665.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=286&end=331
-
-* [Nitrogen Gas Resource Well](../../transcriptions/yt-rI5kRMSwo5Q,330.36336666666665,499.6992.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500
 
 
 ## February 2nd, 2021 Livestream
@@ -147,16 +147,16 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: Controller support?](../../transcriptions/yt-XrsD3h62ils.md) https://www.youtube.com/watch?v=XrsD3h62ils
+* [Snutt & Jace Talk: Email replies work](../../transcriptions/yt-yZRoWLhKetk.md) https://www.youtube.com/watch?v=yZRoWLhKetk
 * [Q&A: How do you ping?](../../transcriptions/yt-3DLGyE9GUf4.md) https://www.youtube.com/watch?v=3DLGyE9GUf4
+* [Snutt Talk: Inpure Resource Nodes](../../transcriptions/yt--OHmfKyBPA4.md) https://www.youtube.com/watch?v=-OHmfKyBPA4
 * [Q&A: Is that the alpha build version?](../../transcriptions/yt-u9Vu9NIjiRs.md) https://www.youtube.com/watch?v=u9Vu9NIjiRs
 * [Q&A: Quick keys for tools?](../../transcriptions/yt-MUBE6tb7AjQ.md) https://www.youtube.com/watch?v=MUBE6tb7AjQ
 * [Q&A: There is no way to hotkey items?](../../transcriptions/yt-KmX7CoVGPA0.md) https://www.youtube.com/watch?v=KmX7CoVGPA0
+* [Snutt Talk: To-Do List](../../transcriptions/yt-e-no7l9HuqE.md) https://www.youtube.com/watch?v=e-no7l9HuqE
 * [Q&A: When are you guys adding back maps?](../../transcriptions/yt-DHWIPr3AYZo.md) https://www.youtube.com/watch?v=DHWIPr3AYZo
 * [Q&A: Why is flashlight default key B and not F?](../../transcriptions/yt-StrNS8tDWV4.md) https://www.youtube.com/watch?v=StrNS8tDWV4
 * [Q&A: Will we ever be able to skip the Intro?](../../transcriptions/yt-t_hHHaDdJU0.md) https://www.youtube.com/watch?v=t_hHHaDdJU0
-* [Snutt & Jace Talk: Email replies work](../../transcriptions/yt-yZRoWLhKetk.md) https://www.youtube.com/watch?v=yZRoWLhKetk
-* [Snutt Talk: Inpure Resource Nodes](../../transcriptions/yt--OHmfKyBPA4.md) https://www.youtube.com/watch?v=-OHmfKyBPA4
-* [Snutt Talk: To-Do List](../../transcriptions/yt-e-no7l9HuqE.md) https://www.youtube.com/watch?v=e-no7l9HuqE
 
 ## November 8th, 2018 Livestream
 * [Storing some items for later](../../transcriptions/yt-J_Dznt1OG-0,568.31775,885.815429.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886

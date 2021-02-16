@@ -68,18 +68,18 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Do you have a set of ideas?](../../../transcriptions/yt-eSN0HQlSJBs.md) https://www.youtube.com/watch?v=eSN0HQlSJBs
 * [Q&A: Do you want to release updates before you release full game?](../../../transcriptions/yt-xdj5fWV5VK8.md) https://www.youtube.com/watch?v=xdj5fWV5VK8
+* [Snutt Talk: Satisfactory 1.0, and beyond](../../../transcriptions/yt-gAO072mzibQ.md) https://www.youtube.com/watch?v=gAO072mzibQ
 * [Q&A: Train Signals?](../../../transcriptions/yt-WQH5cWS3s2s.md) https://www.youtube.com/watch?v=WQH5cWS3s2s
 * [Q&A: Why do big updates at all - why not just release everything in small bites?](../../../transcriptions/yt-qEiYxLhX3CM.md) https://www.youtube.com/watch?v=qEiYxLhX3CM
 * [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../../transcriptions/yt--AjFbGOOAQI.md) https://www.youtube.com/watch?v=-AjFbGOOAQI
-* [Snutt Talk: Satisfactory 1.0, and beyond](../../../transcriptions/yt-gAO072mzibQ.md) https://www.youtube.com/watch?v=gAO072mzibQ
 
 ## August 18th, 2020 Livestream
-* Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit
+* Q&A: Is 1.0 the end of the game or will it be expanded? https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace
 * Snutt Talk: Macro Plan towards 1.0 https://clips.twitch.tv/CorrectNiceStingraySpicyBoy
 * Q&A: Storyline before 1.0? https://clips.twitch.tv/SteamyFurtiveRadishStrawBeary
-* Q&A: Is 1.0 the end of the game or will it be expanded? https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace
-* Q&A: Will 1.0 require a reset of the game? https://clips.twitch.tv/SpoopyPlacidPepperoniSoonerLater
+* Q&A: Tier 8 before 1.0? https://clips.twitch.tv/AgreeableTentativeBeeCurseLit
 * Q&A: When are Somersloops and Orbs have meaning? https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride
+* Q&A: Will 1.0 require a reset of the game? https://clips.twitch.tv/SpoopyPlacidPepperoniSoonerLater
 
 ## March 24th, 2020 Livestream
 * [Q&A: Will there be a roadmap again for Updates?](../../../transcriptions/yt-EiqFP9bm7v4.md) https://www.youtube.com/watch?v=EiqFP9bm7v4

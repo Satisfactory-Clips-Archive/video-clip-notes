@@ -55,8 +55,8 @@ date: Last Modified
 * [Q&A: Will the containers save after unpackage?](../../transcriptions/yt-7i6s8l1lmJ0.md) https://www.youtube.com/watch?v=7i6s8l1lmJ0
 
 ## October 9th, 2020 Livestream
-* [Dylan Talk: Other things we've been working on](../../transcriptions/yt-WRtv2WEia3Q.md) https://www.youtube.com/watch?v=WRtv2WEia3Q
 * [Q&A: How are the Fluids calculated in the Pipe?](../../transcriptions/yt-nI5VJXbiGJw.md) https://www.youtube.com/watch?v=nI5VJXbiGJw
+* [Dylan Talk: Other things we've been working on](../../transcriptions/yt-WRtv2WEia3Q.md) https://www.youtube.com/watch?v=WRtv2WEia3Q
 
 ## October 6th, 2020 Livestream
 * [Q&A: Can we get an open end to Pipes like dumping waste water?](../../transcriptions/yt-fcr1iDu4Fvg.md) https://www.youtube.com/watch?v=fcr1iDu4Fvg

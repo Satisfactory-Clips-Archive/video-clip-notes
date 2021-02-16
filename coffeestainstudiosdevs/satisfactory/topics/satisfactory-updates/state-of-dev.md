@@ -5,10 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
 ## February 9th, 2021 Livestream
-* [Snutt & Jace Talk: State of Dev](../../transcriptions/yt-X6AM0uLfM6s.md) https://www.youtube.com/watch?v=X6AM0uLfM6s
 * [State of Dev: Content Freeze](../../transcriptions/yt-VjxGGOCwV6o.md) https://www.youtube.com/watch?v=VjxGGOCwV6o
 * [State of Dev: Engine Upgrade](../../transcriptions/yt-RAnag5KJQcw.md) https://www.youtube.com/watch?v=RAnag5KJQcw
 * [State of Dev: Modular Build](../../transcriptions/yt-pSaAt5v9asM.md) https://www.youtube.com/watch?v=pSaAt5v9asM
+* [Snutt & Jace Talk: State of Dev](../../transcriptions/yt-X6AM0uLfM6s.md) https://www.youtube.com/watch?v=X6AM0uLfM6s
 * [State of Dev: Update 4](../../transcriptions/yt-coeCw5fADaE.md) https://www.youtube.com/watch?v=coeCw5fADaE
 
 ## February 2nd, 2021 Livestream
@@ -27,21 +27,21 @@ date: Last Modified
 * [State of Dev: ETA for Update 4](../../transcriptions/yt-5kVXtK-Yu5g.md) https://www.youtube.com/watch?v=5kVXtK-Yu5g
 
 ## January 12th, 2021 Livestream
-* State of Dev - FICS⁕MAS https://www.youtube.com/watch?v=dnkH1mqdCKI
-* [State of Dev - The Blender™](../../transcriptions/yt-XBt0OWqSRPA.md) https://www.youtube.com/watch?v=XBt0OWqSRPA
-* [State of Dev - Unreal Engine Update](../../transcriptions/yt-DNmmfH4tJSA.md) https://www.youtube.com/watch?v=DNmmfH4tJSA
 * [State of Dev: Coffee Stain new office (Part 1)](../../transcriptions/yt-htoUHZbvu1A.md) https://www.youtube.com/watch?v=htoUHZbvu1A
 * [State of Dev: Coffee Stain new office (Part 2)](../../transcriptions/yt-yU3v4BNnUPU.md) https://www.youtube.com/watch?v=yU3v4BNnUPU
 * [State of Dev: Mug Merch](../../transcriptions/yt-sDMER4xm8Gc.md) https://www.youtube.com/watch?v=sDMER4xm8Gc
+* State of Dev - FICS⁕MAS https://www.youtube.com/watch?v=dnkH1mqdCKI
+* [State of Dev - The Blender™](../../transcriptions/yt-XBt0OWqSRPA.md) https://www.youtube.com/watch?v=XBt0OWqSRPA
+* [State of Dev - Unreal Engine Update](../../transcriptions/yt-DNmmfH4tJSA.md) https://www.youtube.com/watch?v=DNmmfH4tJSA
 
 ## December 15th, 2020 Livestream
 * [State of Dev](../../transcriptions/yt-bGem8CSwRlQ.md) https://www.youtube.com/watch?v=bGem8CSwRlQ
 
 ## December 8th, 2020 Livestream
-* [Q&A: Is that it for State of Dev?](../../transcriptions/yt-OI6OAux6VrM.md) https://www.youtube.com/watch?v=OI6OAux6VrM
 * [State of Dev: Blame Simon](../../transcriptions/yt-H4gyZoXsfo0.md) https://www.youtube.com/watch?v=H4gyZoXsfo0
 * [State of Dev: Engine Upgrade](../../transcriptions/yt-j2kW9a3CTXE.md) https://www.youtube.com/watch?v=j2kW9a3CTXE
 * [State of Dev: FICS⁕MAS](../../transcriptions/yt-zxaJChchCMo.md) https://www.youtube.com/watch?v=zxaJChchCMo
+* [Q&A: Is that it for State of Dev?](../../transcriptions/yt-OI6OAux6VrM.md) https://www.youtube.com/watch?v=OI6OAux6VrM
 * [State of Dev: Update 4](../../transcriptions/yt-8tiGIPGptWQ.md) https://www.youtube.com/watch?v=8tiGIPGptWQ
 
 ## December 1st, 2020 Livestream

@@ -31,10 +31,10 @@ date: Last Modified
 * [Q&A: Which one was Simon's favourite Simon Saga video?](../../transcriptions/yt-weWtkbvOxdU.md) https://www.youtube.com/watch?v=weWtkbvOxdU
 
 ## March 9th, 2019 Livestream
-* [Q&A: How bad was the indigestion after eating all the keys?](../../transcriptions/yt-t9_0R3vkYOk.md) https://www.youtube.com/watch?v=t9_0R3vkYOk
-* [Q&A: How long did it take Simon to finish the game?](../../transcriptions/yt-b8BSxuagqLI.md) https://www.youtube.com/watch?v=b8BSxuagqLI
 * [Snutt, Simon, Jace Talk: Animator, Sound Designer, Tim, and Simon Saga](../../transcriptions/yt-mTBx_JmNnsE.md) https://www.youtube.com/watch?v=mTBx_JmNnsE
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../../transcriptions/yt-3gFgrVEkOpc.md) https://www.youtube.com/watch?v=3gFgrVEkOpc
+* [Q&A: How bad was the indigestion after eating all the keys?](../../transcriptions/yt-t9_0R3vkYOk.md) https://www.youtube.com/watch?v=t9_0R3vkYOk
+* [Q&A: How long did it take Simon to finish the game?](../../transcriptions/yt-b8BSxuagqLI.md) https://www.youtube.com/watch?v=b8BSxuagqLI
 * [Snutt Talk: the most important part of the HUB](../../transcriptions/yt-DwdNTp6z1a4.md) https://www.youtube.com/watch?v=DwdNTp6z1a4
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) https://www.youtube.com/watch?v=2tTlAAZMBPw
 

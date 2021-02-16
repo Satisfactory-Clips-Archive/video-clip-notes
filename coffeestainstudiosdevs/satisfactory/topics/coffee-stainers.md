@@ -45,8 +45,8 @@ date: Last Modified
 
 
 ## October 9th, 2020 Livestream
-* [Dylan & Snutt Talk: Visual Studio vs. Rider](../transcriptions/yt-hc2OfgQZCvA.md) https://www.youtube.com/watch?v=hc2OfgQZCvA
 * [Snutt & Dylan Talk: Crash reporting](../transcriptions/yt-1QDj7pJa9DQ.md) https://www.youtube.com/watch?v=1QDj7pJa9DQ
+* [Dylan & Snutt Talk: Visual Studio vs. Rider](../transcriptions/yt-hc2OfgQZCvA.md) https://www.youtube.com/watch?v=hc2OfgQZCvA
 
 ## August 25th, 2020 Livestream
 * [Q&A: Are the Devs back from vacation?](../transcriptions/yt-dfHUHMQ9JQE.md) https://www.youtube.com/watch?v=dfHUHMQ9JQE
@@ -57,16 +57,16 @@ date: Last Modified
 * Q&A: Do you have a QA department? https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull
 
 ## March 24th, 2020 Livestream
-* [Q&A: You have several job openings right now?](../transcriptions/yt-lqRP7DsUVes.md) https://www.youtube.com/watch?v=lqRP7DsUVes
 * [Snutt & Jace Talk: We don't plan very well at all](../transcriptions/yt-uNWZuo9AxdM.md) https://www.youtube.com/watch?v=uNWZuo9AxdM
 * [State of Dev: Working from home](../transcriptions/yt-4umNqbDy7Yc.md) https://www.youtube.com/watch?v=4umNqbDy7Yc
+* [Q&A: You have several job openings right now?](../transcriptions/yt-lqRP7DsUVes.md) https://www.youtube.com/watch?v=lqRP7DsUVes
 
 ## February 11th, 2020 Livestream
-* [Jace Talk: Funny roulette story](../transcriptions/yt-8Cw56ZD9syU.md) https://www.youtube.com/watch?v=8Cw56ZD9syU
-* [Jace Talk: We're having some fun before Update 3 releases](../transcriptions/yt-Vggm0YmGP84.md) https://www.youtube.com/watch?v=Vggm0YmGP84
 * [Q&A: Did you crunch for Update 3?](../transcriptions/yt-BwJG6ZHR7Io.md) https://www.youtube.com/watch?v=BwJG6ZHR7Io
-* [Snutt & Jace Talk: What's the mood like in the Studio right now?](../transcriptions/yt-ZfUik8FwH2Y.md) https://www.youtube.com/watch?v=ZfUik8FwH2Y
+* [Jace Talk: Funny roulette story](../transcriptions/yt-8Cw56ZD9syU.md) https://www.youtube.com/watch?v=8Cw56ZD9syU
 * [Snutt Talk: Get back to school, Coffee Stain needs devs](../transcriptions/yt-Ee0IFHzpEh4.md) https://www.youtube.com/watch?v=Ee0IFHzpEh4
+* [Jace Talk: We're having some fun before Update 3 releases](../transcriptions/yt-Vggm0YmGP84.md) https://www.youtube.com/watch?v=Vggm0YmGP84
+* [Snutt & Jace Talk: What's the mood like in the Studio right now?](../transcriptions/yt-ZfUik8FwH2Y.md) https://www.youtube.com/watch?v=ZfUik8FwH2Y
 
 ## January 22nd, 2020 Livestream
 * [State of Dev: Biggest thing that's going on in the office right now.](../transcriptions/yt--HN8rUEaVwY.md) https://www.youtube.com/watch?v=-HN8rUEaVwY

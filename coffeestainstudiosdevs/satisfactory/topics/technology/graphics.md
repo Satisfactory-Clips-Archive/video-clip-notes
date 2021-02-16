@@ -22,9 +22,9 @@ date: Last Modified
 
 ## January 19th, 2021 Livestream
 * [Q&A: Any Vulkan support?](../../transcriptions/yt-9_yf4tON8MM.md) https://www.youtube.com/watch?v=9_yf4tON8MM
+* [Snut Talk: Engine Upgrade - DirectX 12](../../transcriptions/yt-2QfjxpKJVIE.md) https://www.youtube.com/watch?v=2QfjxpKJVIE
 * [Q&A: Ever add DLSS at some point?](../../transcriptions/yt-PqFAGrVd3M0.md) https://www.youtube.com/watch?v=PqFAGrVd3M0
 * [Q&A: Is there any plan to add the r.screenpercentage setting for folks on 4k or high-res screens?](../../transcriptions/yt-p3zdRLbGwsk.md) https://www.youtube.com/watch?v=p3zdRLbGwsk
-* [Snut Talk: Engine Upgrade - DirectX 12](../../transcriptions/yt-2QfjxpKJVIE.md) https://www.youtube.com/watch?v=2QfjxpKJVIE
 * [Snutt Talk: We're not using a linear colour space](../../transcriptions/yt-jigwsKo5YKY.md) https://www.youtube.com/watch?v=jigwsKo5YKY
 
 ## December 15th, 2020 Livestream
@@ -32,9 +32,9 @@ date: Last Modified
 
 ## December 8th, 2020 Livestream
 * [Q&A: DirectX 12 when?](../../transcriptions/yt-BxAAQTxvy-Y.md) https://www.youtube.com/watch?v=BxAAQTxvy-Y
+* [Snutt Talk: Emmissive Materials](../../transcriptions/yt-nYpEI8hZEgU.md) https://www.youtube.com/watch?v=nYpEI8hZEgU
 * [Q&A: Look's like the game is performing better - what went wrong?](../../transcriptions/yt-x7dc9P7vEGQ.md) https://www.youtube.com/watch?v=x7dc9P7vEGQ
 * [Snutt & Jace Talk: Water VFX](../../transcriptions/yt-rALTAvblpEM.md) https://www.youtube.com/watch?v=rALTAvblpEM
-* [Snutt Talk: Emmissive Materials](../../transcriptions/yt-nYpEI8hZEgU.md) https://www.youtube.com/watch?v=nYpEI8hZEgU
 
 ## November 24th, 2020 Livestream
 * [Q&A: Better UI scaling?](../../transcriptions/yt-Z7KYm1EEVsc.md) https://www.youtube.com/watch?v=Z7KYm1EEVsc
@@ -49,9 +49,9 @@ date: Last Modified
 * [Trolling: Ray Tracing](../../transcriptions/yt-ow_LpyvCnVo.md) https://www.youtube.com/watch?v=ow_LpyvCnVo
 
 ## November 10th, 2020 Livestream
-* [Jace Talk: Encased Conveyor Belts](../../transcriptions/yt-xT-2uWvm3iw.md) https://www.youtube.com/watch?v=xT-2uWvm3iw
 * [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](../../transcriptions/yt-IFxnvuYEVtk.md) https://www.youtube.com/watch?v=IFxnvuYEVtk
 * [Q&A: Do we have support for Ultra-wide Monitors?](../../transcriptions/yt-j5yWR-Ayb5w.md) https://www.youtube.com/watch?v=j5yWR-Ayb5w
+* [Jace Talk: Encased Conveyor Belts](../../transcriptions/yt-xT-2uWvm3iw.md) https://www.youtube.com/watch?v=xT-2uWvm3iw
 * [Q&A: Is it true that building vertically equals worse performance than building horizontally?](../../transcriptions/yt-BF0MYqw_SpM.md) https://www.youtube.com/watch?v=BF0MYqw_SpM
 
 ## November 3rd, 2020 Livestream
@@ -65,19 +65,19 @@ date: Last Modified
 ## October 27th, 2020 Livestream
 * [Q&A: Any word on merging platforms to reduce object count?](../../transcriptions/yt-JSAcfBylMmA.md) https://www.youtube.com/watch?v=JSAcfBylMmA
 * [Q&A: Can you make it so we can use closed Conveyor Belts to help with Rendering?](../../transcriptions/yt-6KdakqhC8Q4.md) https://www.youtube.com/watch?v=6KdakqhC8Q4
+* [Snutt Talk: New Refinery model](../../transcriptions/yt-Mzu2DkBfaww.md) https://www.youtube.com/watch?v=Mzu2DkBfaww
 * [Q&A: When you have 200,000 Foundations, Walls would be good too.](../../transcriptions/yt-8I6SrlovQvo.md) https://www.youtube.com/watch?v=8I6SrlovQvo
 * [Q&A: Will we see performance improvements?](../../transcriptions/yt-TbPMkoLwW4U.md) https://www.youtube.com/watch?v=TbPMkoLwW4U
-* [Snutt Talk: New Refinery model](../../transcriptions/yt-Mzu2DkBfaww.md) https://www.youtube.com/watch?v=Mzu2DkBfaww
 
 ## October 13th, 2020 Livestream
 * [Q&A: Will one of the Quality of Life Updates be turning down the fog?](../../transcriptions/yt-2AMBinmPITg.md) https://www.youtube.com/watch?v=2AMBinmPITg
 
 ## October 9th, 2020 Livestream
 * [Q&A: Could we get Ray Tracing?](../../transcriptions/yt-tsUgV4Irw9I.md) https://www.youtube.com/watch?v=tsUgV4Irw9I
-* [Q&A: Have Coffee Stain considered contributing the instanced spline mesh back to Unreal Engine?](../../transcriptions/yt-ny4PdCAnT9Q.md) https://www.youtube.com/watch?v=ny4PdCAnT9Q
-* [Q&A: What is the limit?](../../transcriptions/yt-Njv_PJT3B2g.md) https://www.youtube.com/watch?v=Njv_PJT3B2g
 * [Snutt & Dylan Talk: Developing Shaders](../../transcriptions/yt-m5fQMCWE1MY.md) https://www.youtube.com/watch?v=m5fQMCWE1MY
 * [Snutt & Dylan Talk: Development priorities](../../transcriptions/yt-iap-q8Jggq8.md) https://www.youtube.com/watch?v=iap-q8Jggq8
+* [Q&A: Have Coffee Stain considered contributing the instanced spline mesh back to Unreal Engine?](../../transcriptions/yt-ny4PdCAnT9Q.md) https://www.youtube.com/watch?v=ny4PdCAnT9Q
+* [Q&A: What is the limit?](../../transcriptions/yt-Njv_PJT3B2g.md) https://www.youtube.com/watch?v=Njv_PJT3B2g
 
 ## September 29th, 2020 Livestream
 * [Q&A: Add RTX?](../../transcriptions/yt-KXKJxFYBxos.md) https://www.youtube.com/watch?v=KXKJxFYBxos
@@ -114,8 +114,8 @@ date: Last Modified
 * [Q&A: Reducing the stupid poly counts?](../../transcriptions/yt-aDlrBrPtdfw.md) https://www.youtube.com/watch?v=aDlrBrPtdfw
 * [Q&A: Removing vegetation speeds up the game, yes or no ?](../../transcriptions/yt-GgoQS6sOADQ.md) https://www.youtube.com/watch?v=GgoQS6sOADQ
 * [Q&A: UV issues and texture tearing is a known issue?](../../transcriptions/yt-1uYhNDc8E1M.md) https://www.youtube.com/watch?v=1uYhNDc8E1M
-* [Q&A: Why is hyperloop in first person?](../../transcriptions/yt-BmSeFBv2rAQ.md) https://www.youtube.com/watch?v=BmSeFBv2rAQ
 * Snutt Talk: VR Support https://clips.twitch.tv/DullScrumptiousEagleStinkyCheese
+* [Q&A: Why is hyperloop in first person?](../../transcriptions/yt-BmSeFBv2rAQ.md) https://www.youtube.com/watch?v=BmSeFBv2rAQ
 
 ## May 19th, 2020 Livestream
 * [Q&A: Any work on Occlusion Culling?](../../transcriptions/yt-SauDZG88AFI.md) https://www.youtube.com/watch?v=SauDZG88AFI

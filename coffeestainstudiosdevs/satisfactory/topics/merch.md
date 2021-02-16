@@ -22,8 +22,8 @@ date: Last Modified
 * [Q&A: You can't find a place to make a Cup?](../transcriptions/yt-F90s1pV1WWY.md) https://www.youtube.com/watch?v=F90s1pV1WWY
 
 ## January 12th, 2021 Livestream
-* [Q&A: When will Merch shipping worldwide be possible?](../transcriptions/yt-iyFXDTn2YPM.md) https://www.youtube.com/watch?v=iyFXDTn2YPM
 * [State of Dev: Mug Merch](../transcriptions/yt-sDMER4xm8Gc.md) https://www.youtube.com/watch?v=sDMER4xm8Gc
+* [Q&A: When will Merch shipping worldwide be possible?](../transcriptions/yt-iyFXDTn2YPM.md) https://www.youtube.com/watch?v=iyFXDTn2YPM
 
 ## December 15th, 2020 Livestream
 * [Q&A: Coffee Mugs?](../transcriptions/yt-DuGUOXyGtHg.md) https://www.youtube.com/watch?v=DuGUOXyGtHg
@@ -33,17 +33,17 @@ date: Last Modified
 * Intro https://www.youtube.com/watch?v=yt-njXBs_p2l1w%2C%2C95.36193333333334
 
 ## November 24th, 2020 Livestream
+* [Snutt & Jace Talk: State of Dev](../transcriptions/yt-uYPhHTSL6Ys.md) https://www.youtube.com/watch?v=uYPhHTSL6Ys
 * [Q&A: The Cup, where can I buy it?](../transcriptions/yt-WpsGOpaoH1o.md) https://www.youtube.com/watch?v=WpsGOpaoH1o
 * [Q&A: Would you guys be up for doing a stream reacting to other FanForge content?](../transcriptions/yt-dRtDPajp9Qo.md) https://www.youtube.com/watch?v=dRtDPajp9Qo
-* [Snutt & Jace Talk: State of Dev](../transcriptions/yt-uYPhHTSL6Ys.md) https://www.youtube.com/watch?v=uYPhHTSL6Ys
 
 ## November 17th, 2020 Livestream
 * [Q&A: Do you have an update on the price of delivery fee of Merch?](../transcriptions/yt-mNtdBj-DpK0.md) https://www.youtube.com/watch?v=mNtdBj-DpK0
 * [Q&A: Mug Merch update?](../transcriptions/yt-6vHKc1HxAGc.md) https://www.youtube.com/watch?v=6vHKc1HxAGc
 
 ## November 10th, 2020 Livestream
-* [Jace Talk: Merch](../transcriptions/yt-23FUIPYyBds.md) https://www.youtube.com/watch?v=23FUIPYyBds
 * [Q&A: Coffee Cup Mk.2](../transcriptions/yt-MkmrRDX0axw.md) https://www.youtube.com/watch?v=MkmrRDX0axw
+* [Jace Talk: Merch](../transcriptions/yt-23FUIPYyBds.md) https://www.youtube.com/watch?v=23FUIPYyBds
 * [Q&A: When can we buy the FICSIT Cup?](../transcriptions/yt-8VBAsvNZAGM.md) https://www.youtube.com/watch?v=8VBAsvNZAGM
 
 ## October 20th, 2020 Livestream
@@ -63,10 +63,10 @@ date: Last Modified
 
 ## September 22nd, 2020 Livestream
 * [Q&A: Any information on Merch shipping to EU/rest of the world?](../transcriptions/yt-hAEInvMcQfk.md) https://www.youtube.com/watch?v=hAEInvMcQfk
+* [Snutt Talk: Fan Forge](../transcriptions/yt-HkQr5PfhKgs.md) https://www.youtube.com/watch?v=HkQr5PfhKgs
 * [Q&A: How's the cup going?](../transcriptions/yt-bkjnr6Ae1r0.md) https://www.youtube.com/watch?v=bkjnr6Ae1r0
 * [Q&A: What about the Mug?](../transcriptions/yt-Z4ossbr19xo.md) https://www.youtube.com/watch?v=Z4ossbr19xo
 * [Q&A: Will the Story be released as a book/comic ?](../transcriptions/yt-ZET0XD704JA.md) https://www.youtube.com/watch?v=ZET0XD704JA
-* [Snutt Talk: Fan Forge](../transcriptions/yt-HkQr5PfhKgs.md) https://www.youtube.com/watch?v=HkQr5PfhKgs
 
 ## September 15th, 2020 Livestream
 * [Q&A: Any news on EU Merch?](../transcriptions/yt-IXeIE9qV-lA.md) https://www.youtube.com/watch?v=IXeIE9qV-lA
@@ -87,19 +87,19 @@ date: Last Modified
 * Q&A: When will have Merch? https://clips.twitch.tv/FunOriginalPistachioNerfRedBlaster
 
 ## August 11th, 2020 Livestream
-* Q&A: gravity-defying FICSIT-branded coffee https://clips.twitch.tv/TalentedIntelligentGazelleFunRun
-* Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
+* Jace Talk: Additional Merch, Launch & later Merch https://clips.twitch.tv/EndearingBraveSeahorseBloodTrail
 * Q&A: Doggo Toys? https://clips.twitch.tv/FlirtyScarySushiYouWHY
 * Q&A: FICSIT employee t-shirt? https://clips.twitch.tv/SuspiciousAlluringDolphinThunBeast
+* Q&A: FICSIT Masks/Helmets https://clips.twitch.tv/ClearColdbloodedCakeVoHiYo
+* Q&A: Figurine? https://clips.twitch.tv/ShortKathishAardvarkUnSane
+* Q&A: gravity-defying FICSIT-branded coffee https://clips.twitch.tv/TalentedIntelligentGazelleFunRun
 * Q&A: How much will the Merch cost? (Part 1) https://clips.twitch.tv/SmallSullenTomatoTheThing
 * Q&A: How much will the Merch cost? (Part 2) https://clips.twitch.tv/EnticingPricklyWitchM4xHeh
-* Q&A: Figurine? https://clips.twitch.tv/ShortKathishAardvarkUnSane
-* Q&A: zip-up hoodie? https://clips.twitch.tv/SpoopyCrowdedOctopusTBTacoLeft
-* Q&A: FICSIT Masks/Helmets https://clips.twitch.tv/ClearColdbloodedCakeVoHiYo
+* Q&A: Lizard Doggo Plushies https://clips.twitch.tv/TolerantPunchyNewtJKanStyle
 * Q&A: remote-control Factory Cart https://clips.twitch.tv/MoistSmellyReubenDoubleRainbow
 * Q&A: t-shirt material? https://clips.twitch.tv/ComfortableAltruisticHerringDansGame
-* Jace Talk: Additional Merch, Launch & later Merch https://clips.twitch.tv/EndearingBraveSeahorseBloodTrail
 * Jace Merch Talk: US vs. EU Merch Warehousing https://clips.twitch.tv/ColdStormySalsifyArgieB8
+* Q&A: zip-up hoodie? https://clips.twitch.tv/SpoopyCrowdedOctopusTBTacoLeft
 
 ## July 28th, 2020 Livestream
 * Q&A: Coffee Mug? https://clips.twitch.tv/SpunkyHyperWasabi4Head

@@ -28,13 +28,13 @@ date: Last Modified
 
 
 ## December 8th, 2020 Livestream
-* [Jace Talk: FICS⁕MAS leaks are not "leaks"](../../../transcriptions/yt-TOevQ69HYNA.md) https://www.youtube.com/watch?v=TOevQ69HYNA
 * [Q&A: Do you know what caused the Lizard Doggos to be super-janky at the launch of FICS⁕MAS?](../../../transcriptions/yt-4M85D1XUDlU.md) https://www.youtube.com/watch?v=4M85D1XUDlU
+* [State of Dev: FICS⁕MAS](../../../transcriptions/yt-zxaJChchCMo.md) https://www.youtube.com/watch?v=zxaJChchCMo
+* [Jace Talk: FICS⁕MAS leaks are not "leaks"](../../../transcriptions/yt-TOevQ69HYNA.md) https://www.youtube.com/watch?v=TOevQ69HYNA
 * [Q&A: How do you get the Advent Calendar?](../../../transcriptions/yt-LPU9cyNeI7Y.md) https://www.youtube.com/watch?v=LPU9cyNeI7Y
 * [Q&A: If they refunded how could you get so many screenshots for FICS⁕MAS?](../../../transcriptions/yt-AHYlgGcYkjw.md) https://www.youtube.com/watch?v=AHYlgGcYkjw
 * [Q&A: What are we going to keep after the event?](../../../transcriptions/yt-nZjZGFce1lE.md) https://www.youtube.com/watch?v=nZjZGFce1lE
 * [Q&A: Will Gift Trees continue to produce?](../../../transcriptions/yt-FqUcLve4Oyc.md) https://www.youtube.com/watch?v=FqUcLve4Oyc
-* [State of Dev: FICS⁕MAS](../../../transcriptions/yt-zxaJChchCMo.md) https://www.youtube.com/watch?v=zxaJChchCMo
 
 ## December 1st, 2020 Livestream
 * [Snutt & Jace Talk: FICS⁕MAS](../../../transcriptions/yt-EXAZ6xoHCx0.md) https://www.youtube.com/watch?v=EXAZ6xoHCx0

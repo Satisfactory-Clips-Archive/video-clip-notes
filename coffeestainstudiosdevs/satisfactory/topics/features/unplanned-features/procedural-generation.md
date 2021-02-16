@@ -32,10 +32,10 @@ date: Last Modified
 * Q&A: Randomly Generated Maps: https://clips.twitch.tv/OilyBloodyMangoFutureMan
 
 ## March 9th, 2019 Livestream
-* [Jace Talk: The Map is not procedural](../../../transcriptions/yt-lTWfWXB6IG8.md) https://www.youtube.com/watch?v=lTWfWXB6IG8
 * [Q&A: Another game mode with a procedurally generated world?](../../../transcriptions/yt-GZlK2fIlYVk.md) https://www.youtube.com/watch?v=GZlK2fIlYVk
 * [Q&A: Procedural generation can be done good, look at Rust?](../../../transcriptions/yt-bTR3AWDpld4.md) https://www.youtube.com/watch?v=bTR3AWDpld4
 * [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](../../../transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k
+* [Jace Talk: The Map is not procedural](../../../transcriptions/yt-lTWfWXB6IG8.md) https://www.youtube.com/watch?v=lTWfWXB6IG8
 * [Q&A: The map is pre-made, not procedurally generated?](../../../transcriptions/yt-229Wl8AMQx8.md) https://www.youtube.com/watch?v=229Wl8AMQx8
 * [Snutt & Jace Talk: Verticality & top-down views, procedural generation](../../../transcriptions/yt-mvkDIjW-NDs.md) https://www.youtube.com/watch?v=mvkDIjW-NDs
 

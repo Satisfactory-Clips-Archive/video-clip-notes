@@ -8,9 +8,9 @@ date: Last Modified
 * [Nuclear Energy](../../topics/features/power-management/nuclear-energy.md)
 
 ## February 9th, 2021 Livestream
+* [Snutt & Jace Talk: Leak™](../../transcriptions/yt-TbSECv5M4ZM.md) https://www.youtube.com/watch?v=TbSECv5M4ZM
 * [Community FYI: There's a Mod called the "Smart!" mod, that makes basic building less time consuming](../../transcriptions/yt-0e_pXEulvY8.md) https://www.youtube.com/watch?v=0e_pXEulvY8
 * [Q&A: What was the Leak™?](../../transcriptions/yt-nFRNm35pE-8.md) https://www.youtube.com/watch?v=nFRNm35pE-8
-* [Snutt & Jace Talk: Leak™](../../transcriptions/yt-TbSECv5M4ZM.md) https://www.youtube.com/watch?v=TbSECv5M4ZM
 
 ## February 5th, 2021 Livestream
 * [UI Change - Power Management](../../transcriptions/yt-rI5kRMSwo5Q,286.05243333333334,330.36336666666665.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=286&end=331
@@ -57,14 +57,14 @@ date: Last Modified
 * [Q&A: Can we train Lizard Doggos to feed Biomass into Generators?](../../transcriptions/yt-CfUusHOKqcY.md) https://www.youtube.com/watch?v=CfUusHOKqcY
 * [Q&A: Ceiling Power Mounts?](../../transcriptions/yt-Zm5JwUYCe8M.md) https://www.youtube.com/watch?v=Zm5JwUYCe8M
 * [Q&A: I'd take 30mw for the Packager if I could take 3x speed than the Refineries?](../../transcriptions/yt-cYJQS0bzr1o.md) https://www.youtube.com/watch?v=cYJQS0bzr1o
+* [Snutt Talk: Power Cables](../../transcriptions/yt-1ULQ1nVoZSo.md) https://www.youtube.com/watch?v=1ULQ1nVoZSo
 * [Q&A: Solar Panels?](../../transcriptions/yt-zpNZHeAOoQE.md) https://www.youtube.com/watch?v=zpNZHeAOoQE
 * [Q&A: Will the Packing machine cost the same amount of power as the Refinery?](../../transcriptions/yt-jhq2XmKDz9M.md) https://www.youtube.com/watch?v=jhq2XmKDz9M
 * [Q&A: Will there be a way to auto-feed Biomass into the generators?](../../transcriptions/yt-5eQ3I4vmbZA.md) https://www.youtube.com/watch?v=5eQ3I4vmbZA
-* [Snutt Talk: Power Cables](../../transcriptions/yt-1ULQ1nVoZSo.md) https://www.youtube.com/watch?v=1ULQ1nVoZSo
 
 ## October 6th, 2020 Livestream
-* [Q&A: Is it safe to set up 1000 Turbo Fuel Generators?](../../transcriptions/yt-0JyFVACOZ-E.md) https://www.youtube.com/watch?v=0JyFVACOZ-E
 * [Snutt Talk: Biomass / Biofuel / Handcrafting](../../transcriptions/yt-QPgQXdWXoj4.md) https://www.youtube.com/watch?v=QPgQXdWXoj4
+* [Q&A: Is it safe to set up 1000 Turbo Fuel Generators?](../../transcriptions/yt-0JyFVACOZ-E.md) https://www.youtube.com/watch?v=0JyFVACOZ-E
 
 ## September 29th, 2020 Livestream
 * [Q&A: Are there any Green Energy options in the game?](../../transcriptions/yt-9eBugtyk8U0.md) https://www.youtube.com/watch?v=9eBugtyk8U0

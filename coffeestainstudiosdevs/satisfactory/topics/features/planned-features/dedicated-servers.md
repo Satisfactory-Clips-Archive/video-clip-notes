@@ -27,13 +27,13 @@ date: Last Modified
 
 ## December 15th, 2020 Livestream
 * [Q&A: Dedicated Server for Windows?](../../../transcriptions/yt-znK3Ne7dLUc.md) https://www.youtube.com/watch?v=znK3Ne7dLUc
-* [Q&A: Dedicated Servers?](../../../transcriptions/yt-03Ybo6-_eWA.md) https://www.youtube.com/watch?v=03Ybo6-_eWA
 * [Q&A: Dedicated Servers?](../../../transcriptions/yt-HeezNCrsBRU.md) https://www.youtube.com/watch?v=HeezNCrsBRU
+* [Q&A: Dedicated Servers?](../../../transcriptions/yt-03Ybo6-_eWA.md) https://www.youtube.com/watch?v=03Ybo6-_eWA
 
 ## December 8th, 2020 Livestream
-* [Jace Talk: Multiplayer experience vs. Dedicated Server](../../../transcriptions/yt-QcD9eKlgte0.md) https://www.youtube.com/watch?v=QcD9eKlgte0
 * [Q&A: How much configuration will we be able to do with Dedicated Servers?](../../../transcriptions/yt-Dj2hOG7UjVA.md) https://www.youtube.com/watch?v=Dj2hOG7UjVA
 * [Q&A: Is there a reason for a lack of Dedicated Server builds?](../../../transcriptions/yt-47gzhAEWkFM.md) https://www.youtube.com/watch?v=47gzhAEWkFM
+* [Jace Talk: Multiplayer experience vs. Dedicated Server](../../../transcriptions/yt-QcD9eKlgte0.md) https://www.youtube.com/watch?v=QcD9eKlgte0
 
 ## November 24th, 2020 Livestream
 * [Q&A: Are Dedicated Servers going to have Mod support?](../../../transcriptions/yt-PD79jEZuOAU.md) https://www.youtube.com/watch?v=PD79jEZuOAU
@@ -41,8 +41,8 @@ date: Last Modified
 
 ## November 17th, 2020 Livestream
 * [Q&A: Are Dedicated Servers part of Update 4?](../../../transcriptions/yt-MKjtHTOMDZk.md) https://www.youtube.com/watch?v=MKjtHTOMDZk
-* [Q&A: Updates about Dedicated Servers?](../../../transcriptions/yt-32SZ2UKPZiQ.md) https://www.youtube.com/watch?v=32SZ2UKPZiQ
 * [Trolling: Dedicated Servers](../../../transcriptions/yt-rS_9SnK_Eag.md) https://www.youtube.com/watch?v=rS_9SnK_Eag
+* [Q&A: Updates about Dedicated Servers?](../../../transcriptions/yt-32SZ2UKPZiQ.md) https://www.youtube.com/watch?v=32SZ2UKPZiQ
 
 ## November 10th, 2020 Livestream
 * [Q&A: When we talk about Dedicated Servers is the plan that those servers are hosted by Coffee Stain?](../../../transcriptions/yt-TYf5xLi8060.md) https://www.youtube.com/watch?v=TYf5xLi8060
@@ -54,11 +54,11 @@ date: Last Modified
 * [Q&A: Will Dedicated Servers run under Linux?](../../../transcriptions/yt-v5Niam8EYts.md) https://www.youtube.com/watch?v=v5Niam8EYts
 
 ## October 20th, 2020 Livestream
-* [Jace & Snutt Talk: Dedicated Servers & Workflow](../../../transcriptions/yt-GWQ59oID6vI.md) https://www.youtube.com/watch?v=GWQ59oID6vI
-* [Jace Talk: Multiplayer Bugs vs. Dedicated Servers](../../../transcriptions/yt-cKyRBdQq7JY.md) https://www.youtube.com/watch?v=cKyRBdQq7JY
 * [Q&A: Are 24/7 Servers for the game so important?](../../../transcriptions/yt-hrwqrs89c4s.md) https://www.youtube.com/watch?v=hrwqrs89c4s
+* [Jace & Snutt Talk: Dedicated Servers & Workflow](../../../transcriptions/yt-GWQ59oID6vI.md) https://www.youtube.com/watch?v=GWQ59oID6vI
 * [Q&A: Dedicated Servers are kinda useless when you don't have friends](../../../transcriptions/yt-e-Zgy9_ZuwU.md) https://www.youtube.com/watch?v=e-Zgy9_ZuwU
 * [Q&A: Dedicated Servers coming with the next Update ?](../../../transcriptions/yt-VyyzowIc504.md) https://www.youtube.com/watch?v=VyyzowIc504
+* [Jace Talk: Multiplayer Bugs vs. Dedicated Servers](../../../transcriptions/yt-cKyRBdQq7JY.md) https://www.youtube.com/watch?v=cKyRBdQq7JY
 * [Q&A: When will Dedicated Servers be coming?](../../../transcriptions/yt-TW0i2hxJ7C0.md) https://www.youtube.com/watch?v=TW0i2hxJ7C0
 * [Q&A: Will Dedicated Servers have Multiple Hubs?](../../../transcriptions/yt-GDuWS-cOFX8.md) https://www.youtube.com/watch?v=GDuWS-cOFX8
 
@@ -67,8 +67,8 @@ date: Last Modified
 * [Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?](../../../transcriptions/yt-KGmOM7dLT84.md) https://www.youtube.com/watch?v=KGmOM7dLT84
 
 ## September 29th, 2020 Livestream
-* [Jace Talk: Dedicated Servers summary](../../../transcriptions/yt-pEq7XWO3gCA.md) https://www.youtube.com/watch?v=pEq7XWO3gCA
 * [Q&A: Any update for Hosted/Dedicated Servers?](../../../transcriptions/yt-kiko6VnK6sA.md) https://www.youtube.com/watch?v=kiko6VnK6sA
+* [Jace Talk: Dedicated Servers summary](../../../transcriptions/yt-pEq7XWO3gCA.md) https://www.youtube.com/watch?v=pEq7XWO3gCA
 * [Q&A: The use-case for Dedicated Servers is specifically so you can have a centralised file (etc.)](../../../transcriptions/yt-l58eeCBeEpU.md) https://www.youtube.com/watch?v=l58eeCBeEpU
 
 ## September 22nd, 2020 Livestream
@@ -82,8 +82,8 @@ date: Last Modified
 * [Snutt Talk: Dedicated Servers](../../../transcriptions/yt-yRJNzDLMJZU.md) https://www.youtube.com/watch?v=yRJNzDLMJZU
 
 ## September 8th, 2020 Livestream
-* [Jace & Snutt Talk: Update 4 & Dedicated Servers](../../../transcriptions/yt-PEFai6HyxTs.md) https://www.youtube.com/watch?v=PEFai6HyxTs
 * [Q&A: Dedicated Servers aren't tied to an Update?](../../../transcriptions/yt-2GeQaPM1UGg.md) https://www.youtube.com/watch?v=2GeQaPM1UGg
+* [Jace & Snutt Talk: Update 4 & Dedicated Servers](../../../transcriptions/yt-PEFai6HyxTs.md) https://www.youtube.com/watch?v=PEFai6HyxTs
 * [Q&A: When are we expecting to get Dedicated Servers?](../../../transcriptions/yt-G9PuZ0WvoOM.md) https://www.youtube.com/watch?v=G9PuZ0WvoOM
 * [Q&A: Will Factories continue to run when players are logged into a Dedicated Server?](../../../transcriptions/yt-UYJHOPt6tTw.md) https://www.youtube.com/watch?v=UYJHOPt6tTw
 
@@ -103,9 +103,9 @@ date: Last Modified
 
 ## August 11th, 2020 Livestream
 * Q&A: Are Dedicated Servers coming? https://clips.twitch.tv/BigDeadPhoneKappaWealth
-* Q&A: What's the hold-up on Dedicated Servers? https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride
-* Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
 * Q&A: Dedicated Servers, start building a community around that? https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow
+* Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers https://clips.twitch.tv/RealPrettiestKoalaBloodTrail
+* Q&A: What's the hold-up on Dedicated Servers? https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride
 
 ## July 28th, 2020 Livestream
 * Q&A: Dedicated Server cost https://clips.twitch.tv/ConfidentLittleSnood4Head
@@ -116,17 +116,17 @@ date: Last Modified
 ## February 11th, 2020 Livestream
 * [Q&A: Any news on Dedicated Servers?](../../../transcriptions/yt-pUhzc1Fd8sg.md) https://www.youtube.com/watch?v=pUhzc1Fd8sg
 * [Q&A: Are Dedicated Servers part of Update 3?](../../../transcriptions/yt-4BbgGgUb1rA.md) https://www.youtube.com/watch?v=4BbgGgUb1rA
-* [Q&A: Will Dedicated Servers help with the lag?](../../../transcriptions/yt-NmlWN5vExT0.md) https://www.youtube.com/watch?v=NmlWN5vExT0
 * [Snutt & Markus Talk: Status of Dedicated Servers](../../../transcriptions/yt-QdMnTdqRxaE.md) https://www.youtube.com/watch?v=QdMnTdqRxaE
+* [Q&A: Will Dedicated Servers help with the lag?](../../../transcriptions/yt-NmlWN5vExT0.md) https://www.youtube.com/watch?v=NmlWN5vExT0
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Dedicated Servers, will they cost anything?](../../../transcriptions/yt-SdB0QlhgmGs.md) https://www.youtube.com/watch?v=SdB0QlhgmGs
 * [Q&A: Dedicated Servers?](../../../transcriptions/yt-Qy10mQQMXXI.md) https://www.youtube.com/watch?v=Qy10mQQMXXI
 * [Q&A: Linux support for Dedicated Servers?](../../../transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
+* [Snutt & Jace Talk: The state of Dedicated Servers](../../../transcriptions/yt-t9hoNpC4-Ik.md) https://www.youtube.com/watch?v=t9hoNpC4-Ik
 * [Q&A: Will Dedicated Servers improve performance for everyone?](../../../transcriptions/yt-_hPGb4nGFvs.md) https://www.youtube.com/watch?v=_hPGb4nGFvs
 * [Q&A: Will the Dedicated Servers have some sort of permissions system?](../../../transcriptions/yt-h6mpSh0JH5o.md) https://www.youtube.com/watch?v=h6mpSh0JH5o
 * [Q&A: Will we need to buy a new copy for the server?](../../../transcriptions/yt-H6FZ4VqocHw.md) https://www.youtube.com/watch?v=H6FZ4VqocHw
-* [Snutt & Jace Talk: The state of Dedicated Servers](../../../transcriptions/yt-t9hoNpC4-Ik.md) https://www.youtube.com/watch?v=t9hoNpC4-Ik
 
 ## March 9th, 2019 Livestream
 * [Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](../../../transcriptions/yt-Cnw_Ow3K29I.md) https://www.youtube.com/watch?v=Cnw_Ow3K29I

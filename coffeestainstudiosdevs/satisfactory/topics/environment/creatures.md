@@ -28,10 +28,10 @@ date: Last Modified
 * [Q&A: Can we get Mobs that spawn near you and attack you?](../../transcriptions/yt-oYtdJ9Dss64.md) https://www.youtube.com/watch?v=oYtdJ9Dss64
 
 ## November 10th, 2020 Livestream
-* [Jace Talk: Mount Prototypes](../../transcriptions/yt-33dr3t-46yQ.md) https://www.youtube.com/watch?v=33dr3t-46yQ
 * [Q&A: Any plans to add more animals to enemies or dangers?](../../transcriptions/yt-RuzL7DdAJ1o.md) https://www.youtube.com/watch?v=RuzL7DdAJ1o
 * [Q&A: How about you add the Goat so we can use her to destroy the Factory we don't need?](../../transcriptions/yt-J_a6kzow6gk.md) https://www.youtube.com/watch?v=J_a6kzow6gk
 * [Q&A: Marine life ?](../../transcriptions/yt-cZCA9NXj7Co.md) https://www.youtube.com/watch?v=cZCA9NXj7Co
+* [Jace Talk: Mount Prototypes](../../transcriptions/yt-33dr3t-46yQ.md) https://www.youtube.com/watch?v=33dr3t-46yQ
 * [Q&A: Strange Creature Mounts?](../../transcriptions/yt-EeYyKTOE5mQ.md) https://www.youtube.com/watch?v=EeYyKTOE5mQ
 
 ## November 3rd, 2020 Livestream
@@ -81,7 +81,6 @@ date: Last Modified
 * [Q&A: Will there be goats?](../../transcriptions/yt-3YZMayi1Qec.md) https://www.youtube.com/watch?v=3YZMayi1Qec
 
 ## March 9th, 2019 Livestream
-* [Jace & Simon take on a Hog that rode Snutt](../../transcriptions/yt-U8qgrw_iVLU.md) https://www.youtube.com/watch?v=U8qgrw_iVLU
 * Q&A: Are there any goats in the game? https://www.youtube.com/watch?v=jAjSoN6Z1rc
 * [Q&A: Are there going to be strawberry fishes in the game?](../../transcriptions/yt-LKcrsIMzGYY.md) https://www.youtube.com/watch?v=LKcrsIMzGYY
 * [Q&A: Can creatures in any way disrupt your factory?](../../transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
@@ -89,6 +88,7 @@ date: Last Modified
 * [Q&A: I don't like spiders but arachnophobia mode is even scarier](../../transcriptions/yt-GluAI4ipeLY.md) https://www.youtube.com/watch?v=GluAI4ipeLY
 * [Q&A: Is it possible to kill a Spitter with the standard Zapper?](../../transcriptions/yt-ZmVoWBHW9Jc.md) https://www.youtube.com/watch?v=ZmVoWBHW9Jc
 * [Q&A: Is there more than 5 enemies in?](../../transcriptions/yt-DLnUjlixpg8.md) https://www.youtube.com/watch?v=DLnUjlixpg8
+* [Jace & Simon take on a Hog that rode Snutt](../../transcriptions/yt-U8qgrw_iVLU.md) https://www.youtube.com/watch?v=U8qgrw_iVLU
 * [Q&A: Plans to make saddle for the big flying thing?](../../transcriptions/yt-gcjbJ7uX2No.md) https://www.youtube.com/watch?v=gcjbJ7uX2No
 * [Q&A: When are you going to add orcs to the game?](../../transcriptions/yt-S43FE8W6Feo.md) https://www.youtube.com/watch?v=S43FE8W6Feo
 * [Q&A: Where can I find those "cute cats"](../../transcriptions/yt-ALTf24gjRHE.md) https://www.youtube.com/watch?v=ALTf24gjRHE

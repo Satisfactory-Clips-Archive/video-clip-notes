@@ -73,9 +73,6 @@ date: Last Modified
 * [Snutt Talk: New Refinery model](../../transcriptions/yt-Mzu2DkBfaww.md) https://www.youtube.com/watch?v=Mzu2DkBfaww
 
 ## October 13th, 2020 Livestream
-* [Jace & Snutt Talk: New Feature - Packager (part 1)](../../transcriptions/yt-V9x1XLqoKeU.md) https://www.youtube.com/watch?v=V9x1XLqoKeU
-* [Jace & Snutt Talk: New Feature - Packager (part 2)](../../transcriptions/yt-iEGhH9cZWWQ.md) https://www.youtube.com/watch?v=iEGhH9cZWWQ
-* [Jace & Snutt Talk: Packager summary](../../transcriptions/yt-K55iv2-s4dA.md) https://www.youtube.com/watch?v=K55iv2-s4dA
 * [Q&A: Are Doors being planned?](../../transcriptions/yt-1ANLQo9YLJI.md) https://www.youtube.com/watch?v=1ANLQo9YLJI
 * [Q&A: As in "PAC-ITger" ?](../../transcriptions/yt-yq5TiOozKpE.md) https://www.youtube.com/watch?v=yq5TiOozKpE
 * [Q&A: Can we see your notes?](../../transcriptions/yt-nns4DPKMnZ8.md) https://www.youtube.com/watch?v=nns4DPKMnZ8
@@ -89,8 +86,11 @@ date: Last Modified
 * [Q&A: Is the building going to be built with already in-game materials or built with new materials?](../../transcriptions/yt-MY9wSTT45O4.md) https://www.youtube.com/watch?v=MY9wSTT45O4
 * [Q&A: I think it's better to stack the inputs & outputs](../../transcriptions/yt-RK0ENdeE27c.md) https://www.youtube.com/watch?v=RK0ENdeE27c
 * [Q&A: I think the price for mk. 3 & 4 belts are great, but mk. 2 I skip almost every time.](../../transcriptions/yt-d6uqZlgK7ao.md) https://www.youtube.com/watch?v=d6uqZlgK7ao
+* [Jace & Snutt Talk: New Feature - Packager (part 1)](../../transcriptions/yt-V9x1XLqoKeU.md) https://www.youtube.com/watch?v=V9x1XLqoKeU
+* [Jace & Snutt Talk: New Feature - Packager (part 2)](../../transcriptions/yt-iEGhH9cZWWQ.md) https://www.youtube.com/watch?v=iEGhH9cZWWQ
 * [Q&A: Only use it (mk. 2 belts) for Load Balancing.](../../transcriptions/yt-1xgb-jbAWt4.md) https://www.youtube.com/watch?v=1xgb-jbAWt4
 * [Q&A: Packagers out yet?](../../transcriptions/yt-1uPcFbl-bAU.md) https://www.youtube.com/watch?v=1uPcFbl-bAU
+* [Jace & Snutt Talk: Packager summary](../../transcriptions/yt-K55iv2-s4dA.md) https://www.youtube.com/watch?v=K55iv2-s4dA
 * [Q&A: So is this a Refinery that can only package/unpackage liquids & more compact?](../../transcriptions/yt-JwRM9pJ7Htc.md) https://www.youtube.com/watch?v=JwRM9pJ7Htc
 * [Q&A: What are the advantages of packaging?](../../transcriptions/yt-mnskivwMmjw.md) https://www.youtube.com/watch?v=mnskivwMmjw
 * [Q&A: What is the output per minute compared to the refinery?](../../transcriptions/yt-cNVE9XkuIMA.md) https://www.youtube.com/watch?v=cNVE9XkuIMA
@@ -108,9 +108,9 @@ date: Last Modified
 * [Q&A: Any form of Mass Storage Management?](../../transcriptions/yt-v_dacWIRc1Y.md) https://www.youtube.com/watch?v=v_dacWIRc1Y
 * [Q&A: Control Console with a simple representation of the Remote Plants?](../../transcriptions/yt-hVDlrmNvsIY.md) https://www.youtube.com/watch?v=hVDlrmNvsIY
 * [Q&A: Enclosed Belts](../../transcriptions/yt-oLpv9B5-OjE.md) https://www.youtube.com/watch?v=oLpv9B5-OjE
+* [Snutt Talk: The Pipes Indicator](../../transcriptions/yt-MhUCod36x7Y.md) https://www.youtube.com/watch?v=MhUCod36x7Y
 * [Q&A: What about Mk. 6 Belts?](../../transcriptions/yt-NiBLAUCxIEs.md) https://www.youtube.com/watch?v=NiBLAUCxIEs
 * [Q&A: When are we getting a Production Overview in the game?](../../transcriptions/yt-OnK4DcHAB4o.md) https://www.youtube.com/watch?v=OnK4DcHAB4o
-* [Snutt Talk: The Pipes Indicator](../../transcriptions/yt-MhUCod36x7Y.md) https://www.youtube.com/watch?v=MhUCod36x7Y
 
 ## September 22nd, 2020 Livestream
 * [Q&A: Are there specific parts or objects that contain a lot of objects in them ?](../../transcriptions/yt-DDHlxZV39B0.md) https://www.youtube.com/watch?v=DDHlxZV39B0
@@ -130,13 +130,13 @@ date: Last Modified
 
 ## September 8th, 2020 Livestream
 * [Q&A: A hard-reset option for the paint presets used for the painted surfaces](../../transcriptions/yt-LZvHStKqoQI.md) https://www.youtube.com/watch?v=LZvHStKqoQI
+* [Snutt Talk: Belts, Pipes, and Hyper Tube max lengths](../../transcriptions/yt-IeP2Y9SFeh8.md) https://www.youtube.com/watch?v=IeP2Y9SFeh8
 * [Q&A: Can you please add a Smart or Programmable Merger?](../../transcriptions/yt-9rXxGWPB21E.md) https://www.youtube.com/watch?v=9rXxGWPB21E
 * [Q&A: Idea - Smart & Programmable Storage Containers?](../../transcriptions/yt-DexDGVIYihI.md) https://www.youtube.com/watch?v=DexDGVIYihI
 * [Q&A: Overhaul Production output?](../../transcriptions/yt-LZKS9z5niSk.md) https://www.youtube.com/watch?v=LZKS9z5niSk
 * [Q&A: Pollution is a thing?](../../transcriptions/yt-EI4HJKvO-OU.md) https://www.youtube.com/watch?v=EI4HJKvO-OU
 * [Q&A: Secondary Hub/Spawn Point ?](../../transcriptions/yt-MjQNNzVfZTY.md) https://www.youtube.com/watch?v=MjQNNzVfZTY
 * [Q&A: Will Factories continue to run when players are logged into a Dedicated Server?](../../transcriptions/yt-UYJHOPt6tTw.md) https://www.youtube.com/watch?v=UYJHOPt6tTw
-* [Snutt Talk: Belts, Pipes, and Hyper Tube max lengths](../../transcriptions/yt-IeP2Y9SFeh8.md) https://www.youtube.com/watch?v=IeP2Y9SFeh8
 
 ## September 1st, 2020 Livestream
 * [Q&A: Are we going to be able to get the Space Elevator Food Court?](../../transcriptions/yt-YNogQuanQlc.md) https://www.youtube.com/watch?v=YNogQuanQlc
@@ -149,9 +149,9 @@ date: Last Modified
 * [Q&A: Fixing machines that break?](../../transcriptions/yt-oYFn3xvAOHs.md) https://www.youtube.com/watch?v=oYFn3xvAOHs
 * [Q&A: Generators have power switches, so do all structures in the game?](../../transcriptions/yt-CN2G6ZH6bmA.md) https://www.youtube.com/watch?v=CN2G6ZH6bmA
 * [Snutt Talk: Machines breaking & Base Defence](../../transcriptions/yt-UhehbJ9kR2c.md) https://www.youtube.com/watch?v=UhehbJ9kR2c
-* Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause
-* Q&A: Some new Machines in the next update? https://clips.twitch.tv/CourteousSmellyNewtTTours
 * Q&A: Reducing the stupid poly counts? https://clips.twitch.tv/PoliteTallLocustStoneLightning
+* Q&A: Some new Machines in the next update? https://clips.twitch.tv/CourteousSmellyNewtTTours
+* Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? https://clips.twitch.tv/RespectfulGiftedStaplePicoMause
 
 ## August 18th, 2020 Livestream
 * Q&A: How about adding machine variants during late-game so you can have less machines overall? https://clips.twitch.tv/BlatantEnjoyableTigerStoneLightning
@@ -168,8 +168,8 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Jace Talk: Space Elevator](../../transcriptions/yt-0P2A2UtY834.md) https://www.youtube.com/watch?v=0P2A2UtY834
-* [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../transcriptions/yt-Tit_bHzixmk.md) https://www.youtube.com/watch?v=Tit_bHzixmk
 * [Snutt Talk: Storage Containers](../../transcriptions/yt-oQfZtyxDIrE.md) https://www.youtube.com/watch?v=oQfZtyxDIrE
+* [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../transcriptions/yt-Tit_bHzixmk.md) https://www.youtube.com/watch?v=Tit_bHzixmk
 
 ## August 1st, 2018 Livestream
 * [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100

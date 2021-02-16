@@ -16,19 +16,19 @@ date: Last Modified
 * [Q&A: Will the Map be bigger later?](../../transcriptions/yt-gvOt4jwWA4Q.md) https://www.youtube.com/watch?v=gvOt4jwWA4Q
 
 ## January 26th, 2021 Livestream
-* [Jace Talk: There are no plans for increasing the size of the Map](../../transcriptions/yt-aCvn84FtDMI.md) https://www.youtube.com/watch?v=aCvn84FtDMI
 * [Q&A: Can add a basic non-interactive local Map from the start?](../../transcriptions/yt-9h4HwEuF2_U.md) https://www.youtube.com/watch?v=9h4HwEuF2_U
 * [Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?](../../transcriptions/yt-gqIBbkGCxdI.md) https://www.youtube.com/watch?v=gqIBbkGCxdI
 * [Q&A: Is there another area rework like the desert update happening?](../../transcriptions/yt-sV-kvBvlTXc.md) https://www.youtube.com/watch?v=sV-kvBvlTXc
+* [Jace Talk: There are no plans for increasing the size of the Map](../../transcriptions/yt-aCvn84FtDMI.md) https://www.youtube.com/watch?v=aCvn84FtDMI
 * [Q&A: What is blocking you now from releasing Update 4, Story elements, Buildings, Maps?](../../transcriptions/yt-pCwOyYQ1f6Y.md) https://www.youtube.com/watch?v=pCwOyYQ1f6Y
 
 ## January 19th, 2021 Livestream
 * [Q&A: Are you still planning Underground Biomes?](../../transcriptions/yt-zho1Gn_x76w.md) https://www.youtube.com/watch?v=zho1Gn_x76w
+* [Snutt & Mark Talk: Building a megabase over the top of a new Resource Well or new mountain.](../../transcriptions/yt-KF8AhiHW1o0.md) https://www.youtube.com/watch?v=KF8AhiHW1o0
 * [Q&A: Do we know where the new Resource Wells be placed?](../../transcriptions/yt-pMAE5-tkdGg.md) https://www.youtube.com/watch?v=pMAE5-tkdGg
 * [Q&A: Is the Map finalised, as in there will be no more additions?](../../transcriptions/yt-zVnmYZemxe8.md) https://www.youtube.com/watch?v=zVnmYZemxe8
 * [Q&A: What about an opional grid to put all Foundations all aligned around the Map?](../../transcriptions/yt-Xi9S_sVklB8.md) https://www.youtube.com/watch?v=Xi9S_sVklB8
 * [Q&A: What about the island off to the west of the Map?](../../transcriptions/yt-VjKPXr_e5yk.md) https://www.youtube.com/watch?v=VjKPXr_e5yk
-* [Snutt & Mark Talk: Building a megabase over the top of a new Resource Well or new mountain.](../../transcriptions/yt-KF8AhiHW1o0.md) https://www.youtube.com/watch?v=KF8AhiHW1o0
 
 ## January 12th, 2021 Livestream
 * [Q&A: Which Biome will be rebuilt?](../../transcriptions/yt-5v0_pFbQLF4.md) https://www.youtube.com/watch?v=5v0_pFbQLF4
@@ -52,11 +52,11 @@ date: Last Modified
 ## November 17th, 2020 Livestream
 * [Q&A: Are there any plans to add an option to disable the day/night cycle?](../../transcriptions/yt-15jG0o32Dqk.md) https://www.youtube.com/watch?v=15jG0o32Dqk
 * [Q&A: Is Snow/Ice coming?](../../transcriptions/yt-s8HISCrP7w8.md) https://www.youtube.com/watch?v=s8HISCrP7w8
+* [Trolling: Procedural Generation](../../transcriptions/yt-bvjKY6CcnLI.md) https://www.youtube.com/watch?v=bvjKY6CcnLI
 * [Q&A: Quality of Life regards the Map like floating water falls, rocks, holes in the map?](../../transcriptions/yt-zupxMlvBIog.md) https://www.youtube.com/watch?v=zupxMlvBIog
 * [Q&A: The world should react to the invasive destruction and polluting?](../../transcriptions/yt-G0vwHL092w4.md) https://www.youtube.com/watch?v=G0vwHL092w4
 * [Q&A: Who is Hannah?](../../transcriptions/yt-KwsiVfRUKNE.md) https://www.youtube.com/watch?v=KwsiVfRUKNE
 * [Q&A: Will Trees respawning being worked on?](../../transcriptions/yt-59eW6SBaiNk.md) https://www.youtube.com/watch?v=59eW6SBaiNk
-* [Trolling: Procedural Generation](../../transcriptions/yt-bvjKY6CcnLI.md) https://www.youtube.com/watch?v=bvjKY6CcnLI
 
 ## November 10th, 2020 Livestream
 * [Q&A: Any plans to add more animals to enemies or dangers?](../../transcriptions/yt-RuzL7DdAJ1o.md) https://www.youtube.com/watch?v=RuzL7DdAJ1o
@@ -97,11 +97,11 @@ date: Last Modified
 * [Q&A: Will there be a Map Editor?](../../transcriptions/yt-MYno60AbSGk.md) https://www.youtube.com/watch?v=MYno60AbSGk
 
 ## September 8th, 2020 Livestream
-* [Jace & Snutt Talk: Map Modding](../../transcriptions/yt-4nzTdrIc2hg.md) https://www.youtube.com/watch?v=4nzTdrIc2hg
 * [Q&A: Any plans for new Maps?](../../transcriptions/yt-zBv2UdKrYtI.md) https://www.youtube.com/watch?v=zBv2UdKrYtI
 * [Q&A: Any thoughts on Terraforming, specifically tunneling ?](../../transcriptions/yt-LIi_14XOp60.md) https://www.youtube.com/watch?v=LIi_14XOp60
 * [Q&A: Even more Biomes coming to play?](../../transcriptions/yt-VgDl00Ycn3U.md) https://www.youtube.com/watch?v=VgDl00Ycn3U
 * [Q&A: Extension on current Map?](../../transcriptions/yt-Ad3tjOha0JI.md) https://www.youtube.com/watch?v=Ad3tjOha0JI
+* [Jace & Snutt Talk: Map Modding](../../transcriptions/yt-4nzTdrIc2hg.md) https://www.youtube.com/watch?v=4nzTdrIc2hg
 * [Q&A: Pollution is a thing?](../../transcriptions/yt-EI4HJKvO-OU.md) https://www.youtube.com/watch?v=EI4HJKvO-OU
 * [Q&A: Should I remove all nature to improve FPS?](../../transcriptions/yt-t-FNpaJUBcE.md) https://www.youtube.com/watch?v=t-FNpaJUBcE
 * [Q&A: Time to invest in Map Modding?](../../transcriptions/yt-a5PSHoSuXec.md) https://www.youtube.com/watch?v=a5PSHoSuXec
@@ -117,24 +117,24 @@ date: Last Modified
 * [Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ?](../../transcriptions/yt-s55I90_ELrQ.md) https://www.youtube.com/watch?v=s55I90_ELrQ
 * [Q&A: How about procedural maps?](../../transcriptions/yt-oYVWBcgkahY.md) https://www.youtube.com/watch?v=oYVWBcgkahY
 * [Q&A: Like a new map for Satisfactory?](../../transcriptions/yt-gNfCEV1J-2Q.md) https://www.youtube.com/watch?v=gNfCEV1J-2Q
+* [Snutt Talk: Map Builders](../../transcriptions/yt-UjOVdR5tNSw.md) https://www.youtube.com/watch?v=UjOVdR5tNSw
 * [Q&A: Plans for a Map Editor?](../../transcriptions/yt-vvRPYyc7sb8.md) https://www.youtube.com/watch?v=vvRPYyc7sb8
+* Q&A: Terraforming? https://clips.twitch.tv/CourageousTardyLarkShazBotstix
 * [Q&A: There's a smaller pink jelly above the pillar in the sky too?](../../transcriptions/yt-wWVbIS8jgy8.md) https://www.youtube.com/watch?v=wWVbIS8jgy8
+* Q&A: Underwater biome when? https://clips.twitch.tv/HonorableCautiousDonutStoneLightning
 * [Q&A: Why can't we explode some stones in the map?](../../transcriptions/yt-Yhtu3NBv2NM.md) https://www.youtube.com/watch?v=Yhtu3NBv2NM
 * [Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode?](../../transcriptions/yt-7EM97GvjRGY.md) https://www.youtube.com/watch?v=7EM97GvjRGY
-* [Snutt Talk: Map Builders](../../transcriptions/yt-UjOVdR5tNSw.md) https://www.youtube.com/watch?v=UjOVdR5tNSw
-* Q&A: Underwater biome when? https://clips.twitch.tv/HonorableCautiousDonutStoneLightning
-* Q&A: Terraforming? https://clips.twitch.tv/CourageousTardyLarkShazBotstix
 
 ## August 18th, 2020 Livestream
-* Q&A: Will there be any underwater resources? https://clips.twitch.tv/RelievedCleanBibimbapDancingBanana
-* Q&A: Terraforming? https://clips.twitch.tv/AmericanSpineyWitchTinyFace
-* Q&A: Any ice/snow biome plans? https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl
 * Q&A: Any different maps planned? https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat
+* Q&A: Any ice/snow biome plans? https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl
+* Q&A: Terraforming? https://clips.twitch.tv/AmericanSpineyWitchTinyFace
+* Q&A: Will there be any underwater resources? https://clips.twitch.tv/RelievedCleanBibimbapDancingBanana
 * Q&A: Will you be able to create your own map? https://clips.twitch.tv/ChillyRockyWalrusUnSane
 
 ## August 11th, 2020 Livestream
-* Q&A: Randomly Generated Maps: https://clips.twitch.tv/OilyBloodyMangoFutureMan
 * Q&A: Do you plan to release a World Editor? https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank
+* Q&A: Randomly Generated Maps: https://clips.twitch.tv/OilyBloodyMangoFutureMan
 
 ## July 28th, 2020 Livestream
 * Jace Talk: Flight & map size perception https://clips.twitch.tv/ElatedBlueNightingaleMau5
@@ -146,37 +146,37 @@ date: Last Modified
 * [Q&A: Planet has floating rocks, is not bound by Earth physics?](../../transcriptions/yt-jXwIeLGuSvI.md) https://www.youtube.com/watch?v=jXwIeLGuSvI
 
 ## December 19th, 2019 Livestream
-* [Hannah Talk: Non-buoyant water](../../transcriptions/yt-lbjhdAumMKc.md) https://www.youtube.com/watch?v=lbjhdAumMKc
 * [Q&A: Are there any Easter Eggs in the landscape?](../../transcriptions/yt-06YaY3zGZeg.md) https://www.youtube.com/watch?v=06YaY3zGZeg
+* [Snutt & Hannah Talk: Hannah wants to delete the map.](../../transcriptions/yt-_bVk1N0dvDY.md) https://www.youtube.com/watch?v=_bVk1N0dvDY
 * [Q&A: Is Hannah working on a new level?](../../transcriptions/yt-gcdDfoBWaog.md) https://www.youtube.com/watch?v=gcdDfoBWaog
 * [Q&A: Is there going to be a way to destroy the fart rock?](../../transcriptions/yt-byPiSQZOAhw.md) https://www.youtube.com/watch?v=byPiSQZOAhw
+* [Hannah Talk: Non-buoyant water](../../transcriptions/yt-lbjhdAumMKc.md) https://www.youtube.com/watch?v=lbjhdAumMKc
 * [Q&A: Underwater Worlds?](../../transcriptions/yt-QXK9y3pnWGg.md) https://www.youtube.com/watch?v=QXK9y3pnWGg
 * [Q&A: What's Hannah's favourite part of level design?](../../transcriptions/yt-sDZjuyYO-zE.md) https://www.youtube.com/watch?v=sDZjuyYO-zE
 * [Q&A: What's Hannah's take on rocks that aren't on the ground?](../../transcriptions/yt-y8FchPasYvI.md) https://www.youtube.com/watch?v=y8FchPasYvI
 * [Q&A: Will there be larger underground spaces?](../../transcriptions/yt-cuGHH7KF9BI.md) https://www.youtube.com/watch?v=cuGHH7KF9BI
 * Q&A: Will we get a bigger World Map? https://www.youtube.com/watch?v=TfKysphS2S4
-* [Snutt & Hannah Talk: Hannah wants to delete the map.](../../transcriptions/yt-_bVk1N0dvDY.md) https://www.youtube.com/watch?v=_bVk1N0dvDY
 
 ## March 9th, 2019 Livestream
-* Jace Talk: fantasyish Biome https://www.youtube.com/watch?v=-2hJ5_qMAoM
-* [Jace Talk: Grass](../../transcriptions/yt-vpbfpee26Yo.md) https://www.youtube.com/watch?v=vpbfpee26Yo
-* [Jace Talk: The Map is not procedural](../../transcriptions/yt-lTWfWXB6IG8.md) https://www.youtube.com/watch?v=lTWfWXB6IG8
 * [Q&A: Another game mode with a procedurally generated world?](../../transcriptions/yt-GZlK2fIlYVk.md) https://www.youtube.com/watch?v=GZlK2fIlYVk
+* [Snutt & Jace Talk: Archway Story Time](../../transcriptions/yt-5481tMGLLys.md) https://www.youtube.com/watch?v=5481tMGLLys
 * [Q&A: Are you going to add the ability to raise/lower parts of the landscape?](../../transcriptions/yt-AEd2Rt5VDfk.md) https://www.youtube.com/watch?v=AEd2Rt5VDfk
 * [Q&A: Are you guys planning to add any terraforming or digging?](../../transcriptions/yt-DW0MT8G-wMI.md) https://www.youtube.com/watch?v=DW0MT8G-wMI
 * [Q&A: Are you supposed to be able to break the rocks that has a slug inside of it?](../../transcriptions/yt-SaJCkdeMMh0.md) https://www.youtube.com/watch?v=SaJCkdeMMh0
+* Jace Talk: fantasyish Biome https://www.youtube.com/watch?v=-2hJ5_qMAoM
 * [Q&A: Flying vehicles for overhead view of your factory?](../../transcriptions/yt-njN-07Q5-8s.md) https://www.youtube.com/watch?v=njN-07Q5-8s
+* [Jace Talk: Grass](../../transcriptions/yt-vpbfpee26Yo.md) https://www.youtube.com/watch?v=vpbfpee26Yo
 * [Q&A: How many biomes are in game?](../../transcriptions/yt-ouDTfnrZDKo.md) https://www.youtube.com/watch?v=ouDTfnrZDKo
 * [Q&A: Is the Desert Biome available in the beta?](../../transcriptions/yt-JMQotRaN9Bs.md) https://www.youtube.com/watch?v=JMQotRaN9Bs
 * [Q&A: I wouldn't be surprised if Mod support enable third-party maps?](../../transcriptions/yt-LgGYmQrwAgg.md) https://www.youtube.com/watch?v=LgGYmQrwAgg
 * [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](../../transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k
+* [Jace Talk: The Map is not procedural](../../transcriptions/yt-lTWfWXB6IG8.md) https://www.youtube.com/watch?v=lTWfWXB6IG8
 * [Q&A: The map is pre-made, not procedurally generated?](../../transcriptions/yt-229Wl8AMQx8.md) https://www.youtube.com/watch?v=229Wl8AMQx8
+* Snutt, Simon, & Jace Talk: Unfinished areas/Biomes https://www.youtube.com/watch?v=Un45veTgPk8
+* [Snutt & Jace Talk: Verticality & top-down views, procedural generation](../../transcriptions/yt-mvkDIjW-NDs.md) https://www.youtube.com/watch?v=mvkDIjW-NDs
 * [Q&A: What's the point of naming beacons?](../../transcriptions/yt-NsywV9ie78k.md) https://www.youtube.com/watch?v=NsywV9ie78k
 * [Q&A: When are you guys adding back maps?](../../transcriptions/yt-DHWIPr3AYZo.md) https://www.youtube.com/watch?v=DHWIPr3AYZo
 * [Q&A: Will the game expand into space or will it stay on the ground?](../../transcriptions/yt-Ea0f72zZshQ.md) https://www.youtube.com/watch?v=Ea0f72zZshQ
-* [Snutt & Jace Talk: Archway Story Time](../../transcriptions/yt-5481tMGLLys.md) https://www.youtube.com/watch?v=5481tMGLLys
-* [Snutt & Jace Talk: Verticality & top-down views, procedural generation](../../transcriptions/yt-mvkDIjW-NDs.md) https://www.youtube.com/watch?v=mvkDIjW-NDs
-* Snutt, Simon, & Jace Talk: Unfinished areas/Biomes https://www.youtube.com/watch?v=Un45veTgPk8
 
 ## October 3rd, 2018 Livestream
 * [Q&A: Will all the tech* be available in the alpha?](../../transcriptions/yt-1OQk7vNt6-0,196.48,233.42.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234

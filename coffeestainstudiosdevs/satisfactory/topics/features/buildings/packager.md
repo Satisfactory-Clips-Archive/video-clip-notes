@@ -29,9 +29,6 @@ date: Last Modified
 * [Q&A: Will the Packing machine cost the same amount of power as the Refinery?](../../../transcriptions/yt-jhq2XmKDz9M.md) https://www.youtube.com/watch?v=jhq2XmKDz9M
 
 ## October 13th, 2020 Livestream
-* [Jace & Snutt Talk: New Feature - Packager (part 1)](../../../transcriptions/yt-V9x1XLqoKeU.md) https://www.youtube.com/watch?v=V9x1XLqoKeU
-* [Jace & Snutt Talk: New Feature - Packager (part 2)](../../../transcriptions/yt-iEGhH9cZWWQ.md) https://www.youtube.com/watch?v=iEGhH9cZWWQ
-* [Jace & Snutt Talk: Packager summary](../../../transcriptions/yt-K55iv2-s4dA.md) https://www.youtube.com/watch?v=K55iv2-s4dA
 * [Q&A: As in "PAC-ITger" ?](../../../transcriptions/yt-yq5TiOozKpE.md) https://www.youtube.com/watch?v=yq5TiOozKpE
 * [Q&A: Can we see your notes?](../../../transcriptions/yt-nns4DPKMnZ8.md) https://www.youtube.com/watch?v=nns4DPKMnZ8
 * [Q&A: Can you give one more time on the materials costs?](../../../transcriptions/yt-RzAguZacRpk.md) https://www.youtube.com/watch?v=RzAguZacRpk
@@ -41,7 +38,10 @@ date: Last Modified
 * [Q&A: Is that not actual gameplay footage?](../../../transcriptions/yt-fRiHEwAwDpw.md) https://www.youtube.com/watch?v=fRiHEwAwDpw
 * [Q&A: Is the building going to be built with already in-game materials or built with new materials?](../../../transcriptions/yt-MY9wSTT45O4.md) https://www.youtube.com/watch?v=MY9wSTT45O4
 * [Q&A: I think it's better to stack the inputs & outputs](../../../transcriptions/yt-RK0ENdeE27c.md) https://www.youtube.com/watch?v=RK0ENdeE27c
+* [Jace & Snutt Talk: New Feature - Packager (part 1)](../../../transcriptions/yt-V9x1XLqoKeU.md) https://www.youtube.com/watch?v=V9x1XLqoKeU
+* [Jace & Snutt Talk: New Feature - Packager (part 2)](../../../transcriptions/yt-iEGhH9cZWWQ.md) https://www.youtube.com/watch?v=iEGhH9cZWWQ
 * [Q&A: Packagers out yet?](../../../transcriptions/yt-1uPcFbl-bAU.md) https://www.youtube.com/watch?v=1uPcFbl-bAU
+* [Jace & Snutt Talk: Packager summary](../../../transcriptions/yt-K55iv2-s4dA.md) https://www.youtube.com/watch?v=K55iv2-s4dA
 * [Q&A: So is this a Refinery that can only package/unpackage liquids & more compact?](../../../transcriptions/yt-JwRM9pJ7Htc.md) https://www.youtube.com/watch?v=JwRM9pJ7Htc
 * [Q&A: What are the advantages of packaging?](../../../transcriptions/yt-mnskivwMmjw.md) https://www.youtube.com/watch?v=mnskivwMmjw
 * [Q&A: What is the output per minute compared to the refinery?](../../../transcriptions/yt-cNVE9XkuIMA.md) https://www.youtube.com/watch?v=cNVE9XkuIMA

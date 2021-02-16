@@ -34,8 +34,8 @@ date: Last Modified
 * [Q&A: Paintable Vehicles when?](../../../transcriptions/yt-0DPbCQ4WQHU.md) https://www.youtube.com/watch?v=0DPbCQ4WQHU
 
 ## November 10th, 2020 Livestream
-* [Jace Talk: Mount Prototypes](../../../transcriptions/yt-33dr3t-46yQ.md) https://www.youtube.com/watch?v=33dr3t-46yQ
 * [Q&A: Any plans on having Vehicles not constantly make gear-shifting noises?](../../../transcriptions/yt-UiFUO0I8xC4.md) https://www.youtube.com/watch?v=UiFUO0I8xC4
+* [Jace Talk: Mount Prototypes](../../../transcriptions/yt-33dr3t-46yQ.md) https://www.youtube.com/watch?v=33dr3t-46yQ
 * [Q&A: Strange Creature Mounts?](../../../transcriptions/yt-EeYyKTOE5mQ.md) https://www.youtube.com/watch?v=EeYyKTOE5mQ
 
 ## November 3rd, 2020 Livestream
@@ -55,8 +55,8 @@ date: Last Modified
 * [Community FYI: Game struggles with 10 Tractors, 14 Trucks, 1 Explorer, and 83 Factory Carts](../../../transcriptions/yt-T_Vldyf9rBI.md) https://www.youtube.com/watch?v=T_Vldyf9rBI
 
 ## October 6th, 2020 Livestream
-* [Jace & Snutt Talk: Unconventional usage of Vehicles](../../../transcriptions/yt-QSxbYoiwVIQ.md) https://www.youtube.com/watch?v=QSxbYoiwVIQ
 * [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](../../../transcriptions/yt-RVq5k89jlEA.md) https://www.youtube.com/watch?v=RVq5k89jlEA
+* [Jace & Snutt Talk: Unconventional usage of Vehicles](../../../transcriptions/yt-QSxbYoiwVIQ.md) https://www.youtube.com/watch?v=QSxbYoiwVIQ
 * [Q&A: Will the Resource Transportation get an update?](../../../transcriptions/yt-hKxm2Ps1UYY.md) https://www.youtube.com/watch?v=hKxm2Ps1UYY
 
 ## September 22nd, 2020 Livestream
@@ -76,32 +76,32 @@ date: Last Modified
 * [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../../transcriptions/yt-Ds9NIPna9_4.md) https://www.youtube.com/watch?v=Ds9NIPna9_4
 * [Q&A: Any plans to dig my explorer to get it out of the hole it fell into?](../../../transcriptions/yt-aaP5_tXPthI.md) https://www.youtube.com/watch?v=aaP5_tXPthI
 * [Q&A: Can you make modular vehicles?](../../../transcriptions/yt-k6hkL7fE6OQ.md) https://www.youtube.com/watch?v=k6hkL7fE6OQ
+* Q&A: How about a drone to fly around? https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby
 * [Q&A: If you add Trucks then add Boats?](../../../transcriptions/yt-A10cQzT6TpU.md) https://www.youtube.com/watch?v=A10cQzT6TpU
+* Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother
 * [Q&A: Make the Cyber Wagon useful ?](../../../transcriptions/yt-ExsAYB92whs.md) https://www.youtube.com/watch?v=ExsAYB92whs
+* [Snutt PSA: Nuclear Waste disposal](../../../transcriptions/yt-FUMyJYJr88Y.md) https://www.youtube.com/watch?v=FUMyJYJr88Y
 * [Q&A: Please consider adding a third-person view?](../../../transcriptions/yt-HXXn10GhRWU.md) https://www.youtube.com/watch?v=HXXn10GhRWU
 * [Q&A: The time for multiplayer fix, can't use vehicles?](../../../transcriptions/yt-UOhRWdHvGzc.md) https://www.youtube.com/watch?v=UOhRWdHvGzc
 * [Q&A: We need Battleships?](../../../transcriptions/yt-VaEaP9IBe08.md) https://www.youtube.com/watch?v=VaEaP9IBe08
 * [Q&A: What can the Cyber Wagon do?](../../../transcriptions/yt-mL4yeGMg3ms.md) https://www.youtube.com/watch?v=mL4yeGMg3ms
-* [Snutt PSA: Nuclear Waste disposal](../../../transcriptions/yt-FUMyJYJr88Y.md) https://www.youtube.com/watch?v=FUMyJYJr88Y
-* Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ? https://clips.twitch.tv/TrappedFaintBulgogiBigBrother
-* Q&A: How about a drone to fly around? https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby
 
 ## August 18th, 2020 Livestream
 * Q&A: Are there some other vehicles planned? https://clips.twitch.tv/EsteemedNurturingHyenaWOOP
 * Q&A: Are vehicles going to get less sketchy or are we always getting Goat Simulator physics? https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage
 
 ## August 11th, 2020 Livestream
-* Q&A: Will Drones be added to the game for aerial travel? https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper
 * Q&A: First-person Vehicle Driving? https://clips.twitch.tv/ShinySilkyMelonGivePLZ
 * Q&A: Two-seated vehicles (Part 1) https://clips.twitch.tv/OilySourBeaverAMPEnergy
 * Q&A: Two-seated vehicles (Part 2) https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog
+* Q&A: Will Drones be added to the game for aerial travel? https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper
 
 ## February 11th, 2020 Livestream
 * [Q&A: Bikes in Satisfactory confirmed?](../../../transcriptions/yt-sh2faQb1DPQ.md) https://www.youtube.com/watch?v=sh2faQb1DPQ
 
 ## January 22nd, 2020 Livestream
-* [Q&A: Will Gas Masks be working when you sit in vehicles?](../../../transcriptions/yt-qcOfYoEbhVI.md) https://www.youtube.com/watch?v=qcOfYoEbhVI
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../../transcriptions/yt-d_FZQ5KTWA0.md) https://www.youtube.com/watch?v=d_FZQ5KTWA0
+* [Q&A: Will Gas Masks be working when you sit in vehicles?](../../../transcriptions/yt-qcOfYoEbhVI.md) https://www.youtube.com/watch?v=qcOfYoEbhVI
 
 ## December 19th, 2019 Livestream
 * [Q&A: Give us a flight vehicle?](../../../transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I
@@ -114,9 +114,9 @@ date: Last Modified
 * Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
 
 ## August 1st, 2018 Livestream
-* [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100
-
 * [Q&A: Did the Vehicle dev blog cover everything?](../../../transcriptions/yt-iFAy1NZUOGU,131.28,147.92.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=131&end=148
+
+* [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100
 
 * [Q&A: Won't the factory stop working if you're really far away?](../../../transcriptions/yt-iFAy1NZUOGU,170.36,188.8.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=170&end=189
 
