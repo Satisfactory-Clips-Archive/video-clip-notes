@@ -5,8 +5,8 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Power Management
 * [Geothermal Energy](../../topics/features/power-management/geothermal-energy.md)
 * [Green Energy](../../topics/features/power-management/green-energy.md)
-* [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Nuclear Energy](../../topics/features/power-management/nuclear-energy.md)
+* [Power Storage](../../topics/features/power-management/power-storage.md)
 
 ## February 9th, 2021 Livestream
 * [Community FYI: There's a Mod called the "Smart!" mod, that makes basic building less time consuming](../../transcriptions/yt-0e_pXEulvY8.md) https://www.youtube.com/watch?v=0e_pXEulvY8

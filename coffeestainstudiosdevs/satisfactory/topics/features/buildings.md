@@ -18,9 +18,9 @@ date: Last Modified
 * [Resource Well Extractor](../../topics/features/buildings/resource-well-extractor.md)
 * [Resource Well Pressurizer](../../topics/features/buildings/resource-well-pressurizer.md)
 * [Smelter](../../topics/features/buildings/smelter.md)
+* [Space Elevator](../../topics/features/buildings/space-elevator.md)
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
-* [Space Elevator](../../topics/features/buildings/space-elevator.md)
 
 ## February 16th, 2021 Livestream
 * [Q&A: Are you using Google Analytics for collecting data?](../../transcriptions/yt-EQHWYOsMUls.md) https://www.youtube.com/watch?v=EQHWYOsMUls

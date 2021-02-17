@@ -5,13 +5,13 @@ date: Last Modified
 # [Topics](../topics.md) > Satisfactory Updates
 * [Free Weekends](../topics/satisfactory-updates/free-weekends.md)
 * [Modular Build](../topics/satisfactory-updates/modular-build.md)
-* [Release Builds](../topics/satisfactory-updates/release-builds.md)
-* [Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
-* [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Pending](../topics/satisfactory-updates/pending.md)
+* [Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Released](../topics/satisfactory-updates/released.md)
+* [Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
 * [Seasonal Events](../topics/satisfactory-updates/seasonal-events.md)
 * [Speculative](../topics/satisfactory-updates/speculative.md)
+* [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ## August 25th, 2020 Livestream
 * Q&A: Do you want to release updates before you release full game? https://clips.twitch.tv/EmpathicExuberantWeaselAllenHuhu

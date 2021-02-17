@@ -3,13 +3,13 @@ title: "Environment"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Environment
+* [Biomes](../topics/environment/biomes.md)
+* [Creatures](../topics/environment/creatures.md)
 * [Plants](../topics/environment/plants.md)
 * [Pollution](../topics/environment/pollution.md)
 * [Resource Wells](../topics/environment/resource-wells.md)
-* [World Map](../topics/environment/world-map.md)
-* [Biomes](../topics/environment/biomes.md)
-* [Creatures](../topics/environment/creatures.md)
 * [Resources](../topics/environment/resources.md)
+* [World Map](../topics/environment/world-map.md)
 
 ## February 16th, 2021 Livestream
 * [Q&A: Can we sleep through nights?](../transcriptions/yt-uskbxtN069Q.md) https://www.youtube.com/watch?v=uskbxtN069Q
