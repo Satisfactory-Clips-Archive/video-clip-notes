@@ -3,14 +3,14 @@ title: "February 16th, 2021 Livestream Q&A: When is Satisfactory going to be on 
 date: "2021-02-16"
 layout: transcript
 topics:
-    - ""
+    - "technology/mac"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: When is Satisfactory going to be on Mac?
 https://www.youtube.com/watch?v=VTSAUKoarIw
 
 ### Topics
-
+* [Technology > Mac](../topics/technology/mac.md)
 
 ### Transcript
 

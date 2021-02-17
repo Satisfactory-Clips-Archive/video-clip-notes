@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Mac
 
+## February 16th, 2021 Livestream
+* [Q&A: When is Satisfactory going to be on Mac?](../../transcriptions/yt-VTSAUKoarIw.md) https://www.youtube.com/watch?v=VTSAUKoarIw
+
 ## February 9th, 2021 Livestream
 * [Q&A: Do you plan to release on Console one day?](../../transcriptions/yt-mS_O_qnXJp0.md) https://www.youtube.com/watch?v=mS_O_qnXJp0
 
