@@ -1,5 +1,5 @@
 ---
-title: "February 16th, 2021 Livestream Q&A: Are you epecting a more stable release of the Engine Upgrade due to increased QA for Update 4?"
+title: "February 16th, 2021 Livestream Q&A: Are you expecting a more stable release of the Engine Upgrade due to increased QA for Update 4?"
 date: "2021-02-16"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "technology/unreal-engine"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
-## Q&A: Are you epecting a more stable release of the Engine Upgrade due to increased QA for Update 4?
+## Q&A: Are you expecting a more stable release of the Engine Upgrade due to increased QA for Update 4?
 https://www.youtube.com/watch?v=mSo3tH9ZLR0
 
 ### Topics

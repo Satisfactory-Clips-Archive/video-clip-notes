@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
 ## February 16th, 2021 Livestream
-* [Q&A: Are you epecting a more stable release of the Engine Upgrade due to increased QA for Update 4?](../../transcriptions/yt-mSo3tH9ZLR0.md) https://www.youtube.com/watch?v=mSo3tH9ZLR0
+* [Q&A: Are you expecting a more stable release of the Engine Upgrade due to increased QA for Update 4?](../../transcriptions/yt-mSo3tH9ZLR0.md) https://www.youtube.com/watch?v=mSo3tH9ZLR0
 * [Q&A: Have you considered some sort of free demo for the game?](../../transcriptions/yt-Jy8mbOy0BJ0.md) https://www.youtube.com/watch?v=Jy8mbOy0BJ0
 * [Q&A: Have you fixed the gamma?](../../transcriptions/yt-2NIYN2OWrWs.md) https://www.youtube.com/watch?v=2NIYN2OWrWs
 * [Q&A: I think I missed a discussion around when it would be shifted to Early Access?](../../transcriptions/yt-eTafCP7eCB4.md) https://www.youtube.com/watch?v=eTafCP7eCB4

@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 4
 
 ## February 16th, 2021 Livestream
-* [Q&A: Are you epecting a more stable release of the Engine Upgrade due to increased QA for Update 4?](../../../transcriptions/yt-mSo3tH9ZLR0.md) https://www.youtube.com/watch?v=mSo3tH9ZLR0
+* [Q&A: Are you expecting a more stable release of the Engine Upgrade due to increased QA for Update 4?](../../../transcriptions/yt-mSo3tH9ZLR0.md) https://www.youtube.com/watch?v=mSo3tH9ZLR0
 * [Q&A: Are you still going to be fixing Engine Upgrade while in Content Freeze?](../../../transcriptions/yt-jC1yskM2KZQ.md) https://www.youtube.com/watch?v=jC1yskM2KZQ
 * [Q&A: Do you already have a date for the Update?](../../../transcriptions/yt-hI0wqMQqj68.md) https://www.youtube.com/watch?v=hI0wqMQqj68
 * [Q&A: How will Power Storage thing work?](../../../transcriptions/yt-pvevNDQU5Uw.md) https://www.youtube.com/watch?v=pvevNDQU5Uw

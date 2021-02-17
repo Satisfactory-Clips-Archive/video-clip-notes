@@ -6,7 +6,7 @@ date: Last Modified
 * [Custom Component: Instanced Spline Mesh](../../topics/technology/unreal-engine/custom-component-instanced-spline-mesh.md)
 
 ## February 16th, 2021 Livestream
-* [Q&A: Are you epecting a more stable release of the Engine Upgrade due to increased QA for Update 4?](../../transcriptions/yt-mSo3tH9ZLR0.md) https://www.youtube.com/watch?v=mSo3tH9ZLR0
+* [Q&A: Are you expecting a more stable release of the Engine Upgrade due to increased QA for Update 4?](../../transcriptions/yt-mSo3tH9ZLR0.md) https://www.youtube.com/watch?v=mSo3tH9ZLR0
 * [Q&A: Are you still going to be fixing Engine Upgrade while in Content Freeze?](../../transcriptions/yt-jC1yskM2KZQ.md) https://www.youtube.com/watch?v=jC1yskM2KZQ
 * [Q&A: Sometimes I get the crash reporter but the game is still running?](../../transcriptions/yt-MmcJSWmQA9w.md) https://www.youtube.com/watch?v=MmcJSWmQA9w
 * [Q&A: Still on track for March 9th or 16th?](../../transcriptions/yt-iyDadUPxjUs.md) https://www.youtube.com/watch?v=iyDadUPxjUs
