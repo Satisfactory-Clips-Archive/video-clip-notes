@@ -7,7 +7,7 @@ topics:
     - "environment/resource-wells"
     - "features/buildings/resource-well-extractor"
     - "features/buildings/resource-well-pressurizer"
-    - "features/power-management"
+    - "features/power-management/power-storage"
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "technology/user-interface"
 ---
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=TbSECv5M4ZM
 * [Environment > Resource Wells](../topics/environment/resource-wells.md)
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)
 * [Features > Buildings > Resource Well Pressurizer](../topics/features/buildings/resource-well-pressurizer.md)
-* [Features > Power Management](../topics/features/power-management.md)
+* [Features > Power Management > Power Storage](../topics/features/power-management/power-storage.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

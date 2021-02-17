@@ -3,6 +3,7 @@ title: "January 12th, 2021 Livestream Q&A: Will there be any minor releases betw
 date: "2021-01-12"
 layout: transcript
 topics:
+    - "satisfactory-updates/modular-build"
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "technology/unreal-engine"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=GaVr69FiXw8
 
 ### Topics
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 

@@ -4,6 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "coffee-stainers/simon"
+    - "coffee-stainers/simon/simon-saga"
     - "coffee-stainers/tim"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=mTBx_JmNnsE
 
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Coffee Stainers > Simon > Simon Saga](../topics/coffee-stainers/simon/simon-saga.md)
 * [Coffee Stainers > Tim](../topics/coffee-stainers/tim.md)
 
 ### Transcript

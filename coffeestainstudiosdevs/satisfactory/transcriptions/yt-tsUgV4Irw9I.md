@@ -3,7 +3,7 @@ title: "October 9th, 2020 Livestream Q&A: Could we get Ray Tracing?"
 date: "2020-10-09"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "technology/graphics/ray-tracing"
     - "technology/unreal-engine/custom-component-instanced-spline-mesh"
 ---
 # [October 9th, 2020 Livestream](../2020-10-09.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=tsUgV4Irw9I
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 * [Technology > Unreal Engine > Custom Component: Instanced Spline Mesh](../topics/technology/unreal-engine/custom-component-instanced-spline-mesh.md)
 
 ### Transcript

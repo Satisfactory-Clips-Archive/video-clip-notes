@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/possible-features/console-release"
     - "technology/linux"
+    - "technology/mac"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Do you plan to release on Console one day?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=mS_O_qnXJp0
 ### Topics
 * [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)
 * [Technology > Linux](../topics/technology/linux.md)
+* [Technology > Mac](../topics/technology/mac.md)
 
 ### Transcript
 

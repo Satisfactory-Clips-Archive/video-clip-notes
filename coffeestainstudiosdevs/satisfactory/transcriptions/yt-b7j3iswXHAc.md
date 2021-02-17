@@ -3,8 +3,8 @@ title: "January 26th, 2021 Livestream Q&A: Any chance on updating level-of-detai
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "features/paint"
     - "features/buildables/walls"
+    - "features/paint"
     - "technology/graphics"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=b7j3iswXHAc
 
 ### Topics
-* [Features > Paint](../topics/features/paint.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
+* [Features > Paint](../topics/features/paint.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

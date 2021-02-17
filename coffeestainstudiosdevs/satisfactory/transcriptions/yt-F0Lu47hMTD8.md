@@ -3,8 +3,8 @@ title: "June 8th, 2020 Livestream Q&A: Will there be a cosy place for the Pionee
 date: "2020-06-08"
 layout: transcript
 topics:
-    - "features/pioneer"
     - "features/buildings/the-hub"
+    - "features/pioneer"
     - "features/possible-features/decor"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=F0Lu47hMTD8
 
 ### Topics
-* [Features > Pioneer](../topics/features/pioneer.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Pioneer](../topics/features/pioneer.md)
 * [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
 
 ### Transcript

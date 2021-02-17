@@ -3,16 +3,16 @@ title: "December 8th, 2020 Livestream State of Dev: Update 4"
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/state-of-dev"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## State of Dev: Update 4
 https://www.youtube.com/watch?v=8tiGIPGptWQ
 
 ### Topics
-* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript
 

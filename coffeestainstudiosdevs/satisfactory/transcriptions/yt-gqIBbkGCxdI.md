@@ -4,8 +4,8 @@ date: "2021-01-26"
 layout: transcript
 topics:
     - "coffee-stainers/hannah"
-    - "environment/world-map"
     - "environment/biomes"
+    - "environment/world-map"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=gqIBbkGCxdI
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Environment > World Map](../topics/environment/world-map.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript
 

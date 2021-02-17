@@ -3,7 +3,7 @@ title: "September 29th, 2020 Livestream Q&A: Add RTX?"
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "technology/graphics/ray-tracing"
     - "technology/unreal-engine"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=KXKJxFYBxos
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "community"
     - "mods"
+    - "satisfactory-updates/modular-build"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Snutt Talk: Looking into Modular Builds for the Game
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=PHoou3ds24k
 ### Topics
 * [Community](../topics/community.md)
 * [Mods](../topics/mods.md)
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
 
 ### Transcript
 

@@ -3,18 +3,20 @@ title: "November 10th, 2020 Livestream Q&A: Can you summarise the upcoming build
 date: "2020-11-10"
 layout: transcript
 topics:
+    - "satisfactory-updates/modular-build"
+    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/release-builds"
     - "satisfactory-updates/state-of-dev"
-    - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can you summarise the upcoming builds for the next months?
 https://www.youtube.com/watch?v=hUYyIETHuJ4
 
 ### Topics
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript
 

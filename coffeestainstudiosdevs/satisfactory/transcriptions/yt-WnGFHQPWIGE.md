@@ -3,6 +3,7 @@ title: "November 3rd, 2020 Livestream Snutt & Jace Talk: State of Dev"
 date: "2020-11-03"
 layout: transcript
 topics:
+    - "satisfactory-updates/modular-build"
     - "satisfactory-updates/state-of-dev"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=WnGFHQPWIGE
 
 ### Topics
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

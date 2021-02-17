@@ -3,8 +3,8 @@ title: "February 2nd, 2021 Livestream Q&A: Are Gases going to work like Liquids?
 date: "2021-02-02"
 layout: transcript
 topics:
-    - "features/gases"
     - "features/fluids"
+    - "features/gases"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=zZXcL3qlr7w
 
 ### Topics
-* [Features > Gases](../topics/features/gases.md)
 * [Features > Fluids](../topics/features/fluids.md)
+* [Features > Gases](../topics/features/gases.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

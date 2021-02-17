@@ -3,14 +3,14 @@ title: "November 24th, 2020 Livestream Q&A: Is there going to be a Satisfactory 
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "satisfactory-updates/release-builds"
+    - "technology/mac"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Is there going to be a Satisfactory for Mac?
 https://www.youtube.com/watch?v=eLjNJO4pUBA
 
 ### Topics
-* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Technology > Mac](../topics/technology/mac.md)
 
 ### Transcript
 

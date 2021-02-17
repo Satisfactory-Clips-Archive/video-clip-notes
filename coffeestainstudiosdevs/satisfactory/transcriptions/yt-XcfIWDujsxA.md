@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: Will clearing out all the Biomes incr
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "environment/plants"
     - "environment/biomes"
+    - "environment/plants"
     - "technology/unreal-engine"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=XcfIWDujsxA
 
 ### Topics
-* [Environment > Plants](../topics/environment/plants.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Plants](../topics/environment/plants.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

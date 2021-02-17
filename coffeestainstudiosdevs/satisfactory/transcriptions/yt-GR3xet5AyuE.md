@@ -3,16 +3,16 @@ title: "March 9th, 2019 Livestream Q&A: Is Linux support planned in the future?"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "satisfactory-updates/release-builds"
     - "technology/linux"
+    - "technology/mac"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is Linux support planned in the future?
 https://www.youtube.com/watch?v=GR3xet5AyuE
 
 ### Topics
-* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Technology > Linux](../topics/technology/linux.md)
+* [Technology > Mac](../topics/technology/mac.md)
 
 ### Transcript
 

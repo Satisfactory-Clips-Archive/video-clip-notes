@@ -3,16 +3,16 @@ title: "March 9th, 2019 Livestream Q&A: How many biomes are in game?"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "environment/world-map"
     - "environment/biomes"
+    - "environment/world-map"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How many biomes are in game?
 https://www.youtube.com/watch?v=ouDTfnrZDKo
 
 ### Topics
-* [Environment > World Map](../topics/environment/world-map.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript
 

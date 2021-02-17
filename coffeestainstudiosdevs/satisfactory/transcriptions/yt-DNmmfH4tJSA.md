@@ -4,6 +4,8 @@ date: "2021-01-12"
 layout: transcript
 topics:
     - "satisfactory-updates/state-of-dev"
+    - "technology/graphics/dlss"
+    - "technology/graphics/ray-tracing"
     - "technology/unreal-engine"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
@@ -12,6 +14,8 @@ https://www.youtube.com/watch?v=DNmmfH4tJSA
 
 ### Topics
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Technology > Graphics > DLSS](../topics/technology/graphics/dlss.md)
+* [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

@@ -4,7 +4,7 @@ date: "2020-12-15"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-update-4"
-    - "technology/graphics"
+    - "technology/graphics/ray-tracing"
     - "technology/unreal-engine"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=RubFX693enI
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

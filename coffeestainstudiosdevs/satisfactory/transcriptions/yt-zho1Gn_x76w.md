@@ -3,16 +3,16 @@ title: "January 19th, 2021 Livestream Q&A: Are you still planning Underground Bi
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "environment/world-map"
     - "environment/biomes"
+    - "environment/world-map"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Are you still planning Underground Biomes?
 https://www.youtube.com/watch?v=zho1Gn_x76w
 
 ### Topics
-* [Environment > World Map](../topics/environment/world-map.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript
 

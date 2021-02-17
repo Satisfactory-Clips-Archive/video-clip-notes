@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: Will Gas packaging happen in the Pack
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/gases"
     - "features/buildings/packager"
+    - "features/gases"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=K2uidbt0_VE
 
 ### Topics
-* [Features > Gases](../topics/features/gases.md)
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Features > Gases](../topics/features/gases.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

@@ -4,6 +4,7 @@ date: "2020-10-27"
 layout: transcript
 topics:
     - "features/multiplayer"
+    - "satisfactory-updates/modular-build"
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=jfn3FOb5Jdw
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 

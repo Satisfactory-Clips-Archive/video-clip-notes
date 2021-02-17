@@ -3,8 +3,8 @@ title: "February 9th, 2021 Livestream Q&A: Do you have any plans for the Radar T
 date: "2021-02-09"
 layout: transcript
 topics:
-    - "environment/world-map"
     - "environment/resources"
+    - "environment/world-map"
     - "features/buildings/radar-tower"
     - "technology/user-interface"
 ---
@@ -13,8 +13,8 @@ topics:
 https://www.youtube.com/watch?v=Jb1JBMGknBY
 
 ### Topics
-* [Environment > World Map](../topics/environment/world-map.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Buildings > Radar Tower](../topics/features/buildings/radar-tower.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

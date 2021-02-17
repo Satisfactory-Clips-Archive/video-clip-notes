@@ -3,16 +3,16 @@ title: "September 8th, 2020 Livestream Q&A: A hard-reset option for the paint pr
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "features/paint"
     - "features/buildings"
+    - "features/paint"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: A hard-reset option for the paint presets used for the painted surfaces
 https://www.youtube.com/watch?v=LZvHStKqoQI
 
 ### Topics
-* [Features > Paint](../topics/features/paint.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Paint](../topics/features/paint.md)
 
 ### Transcript
 

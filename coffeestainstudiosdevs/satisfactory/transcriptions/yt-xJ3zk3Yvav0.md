@@ -3,16 +3,16 @@ title: "January 26th, 2021 Livestream Q&A: Will Update 4 be rolled out to Experi
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "satisfactory-updates/release-builds"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/release-builds"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Will Update 4 be rolled out to Experimental first?
 https://www.youtube.com/watch?v=xJ3zk3Yvav0
 
 ### Topics
-* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript
 

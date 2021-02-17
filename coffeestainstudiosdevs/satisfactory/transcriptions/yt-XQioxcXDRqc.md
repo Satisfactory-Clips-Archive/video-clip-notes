@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: Are you adding support for Mac any time 
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "satisfactory-updates/release-builds"
+    - "technology/mac"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are you adding support for Mac any time soon?
 https://www.youtube.com/watch?v=XQioxcXDRqc
 
 ### Topics
-* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Technology > Mac](../topics/technology/mac.md)
 
 ### Transcript
 

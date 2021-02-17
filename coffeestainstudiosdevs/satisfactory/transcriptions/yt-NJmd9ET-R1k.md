@@ -4,8 +4,8 @@ date: "2021-02-02"
 layout: transcript
 topics:
     - "features/equipment/zip-lines"
-    - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/state-of-dev"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## State of Dev: We leaked Zip Lines
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=NJmd9ET-R1k
 
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
-* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript
 

@@ -4,6 +4,7 @@ date: "2021-02-09"
 layout: transcript
 topics:
     - "mods"
+    - "satisfactory-updates/modular-build"
     - "satisfactory-updates/release-builds"
     - "satisfactory-updates/state-of-dev"
 ---
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=pSaAt5v9asM
 
 ### Topics
 * [Mods](../topics/mods.md)
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 

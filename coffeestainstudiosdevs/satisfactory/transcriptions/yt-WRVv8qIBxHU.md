@@ -3,6 +3,7 @@ title: "June 8th, 2020 Livestream Q&A: What about the building the game Modular?
 date: "2020-06-08"
 layout: transcript
 topics:
+    - "satisfactory-updates/modular-build"
     - "satisfactory-updates/release-builds"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=WRVv8qIBxHU
 
 ### Topics
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript

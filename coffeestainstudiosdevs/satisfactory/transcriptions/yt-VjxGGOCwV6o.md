@@ -4,8 +4,8 @@ date: "2021-02-09"
 layout: transcript
 topics:
     - "environment/biomes/unplanned-biomes/snow"
-    - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/state-of-dev"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## State of Dev: Content Freeze
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=VjxGGOCwV6o
 
 ### Topics
 * [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
-* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript
 

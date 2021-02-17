@@ -3,14 +3,14 @@ title: "January 26th, 2021 Livestream Q&A: What about modular build?"
 date: "2021-01-26"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates/modular-build"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: What about modular build?
 https://www.youtube.com/watch?v=uL_cajdKTcg
 
 ### Topics
-
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
 
 ### Transcript
 

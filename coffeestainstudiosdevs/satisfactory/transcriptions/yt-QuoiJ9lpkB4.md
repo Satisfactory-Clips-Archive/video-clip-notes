@@ -3,14 +3,16 @@ title: "September 1st, 2020 Livestream Q&A: DXR/RTX/DLSS ?"
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "technology/graphics/dlss"
+    - "technology/graphics/ray-tracing"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: DXR/RTX/DLSS ?
 https://www.youtube.com/watch?v=QuoiJ9lpkB4
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > Graphics > DLSS](../topics/technology/graphics/dlss.md)
+* [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 
 ### Transcript
 

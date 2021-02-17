@@ -3,7 +3,7 @@ title: "November 17th, 2020 Livestream Trolling: Ray Tracing"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "technology/graphics/ray-tracing"
     - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=ow_LpyvCnVo
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

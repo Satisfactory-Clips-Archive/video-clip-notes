@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
-    - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/state-of-dev"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Snutt & Jace Talk: State of Dev
@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=X6AM0uLfM6s
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2020-10-09"
 layout: transcript
 topics:
     - "features/transportation/trains"
-    - "technology/graphics"
+    - "technology/graphics/ray-tracing"
 ---
 # [October 9th, 2020 Livestream](../2020-10-09.md)
 ## Snutt & Dylan Talk: Development priorities
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=iap-q8Jggq8
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "November 3rd, 2020 Livestream Q&A: RTX support ever?"
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "technology/graphics/ray-tracing"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: RTX support ever?
 https://www.youtube.com/watch?v=PKx5vpwPGW0
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 
 ### Transcript
 

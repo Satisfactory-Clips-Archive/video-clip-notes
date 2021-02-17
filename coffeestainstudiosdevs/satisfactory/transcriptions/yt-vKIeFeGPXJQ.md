@@ -4,6 +4,7 @@ date: "2020-11-03"
 layout: transcript
 topics:
     - "mods"
+    - "satisfactory-updates/modular-build"
     - "satisfactory-updates/release-builds"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=vKIeFeGPXJQ
 
 ### Topics
 * [Mods](../topics/mods.md)
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript

@@ -3,16 +3,16 @@ title: "December 19th, 2019 Livestream Q&A: Underwater Worlds?"
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "environment/world-map"
     - "environment/biomes/unplanned-biomes/underwater"
+    - "environment/world-map"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Underwater Worlds?
 https://www.youtube.com/watch?v=QXK9y3pnWGg
 
 ### Topics
-* [Environment > World Map](../topics/environment/world-map.md)
 * [Environment > Biomes > Unplanned Biomes > Underwater](../topics/environment/biomes/unplanned-biomes/underwater.md)
+* [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript
 

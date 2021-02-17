@@ -3,14 +3,16 @@ title: "February 9th, 2021 Livestream Q&A: Do you have any plans to add Ray Trac
 date: "2021-02-09"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "technology/graphics/dlss"
+    - "technology/graphics/ray-tracing"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Do you have any plans to add Ray Tracing or DLSS?
 https://www.youtube.com/watch?v=hRzZjCBoI8s
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > Graphics > DLSS](../topics/technology/graphics/dlss.md)
+* [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 
 ### Transcript
 

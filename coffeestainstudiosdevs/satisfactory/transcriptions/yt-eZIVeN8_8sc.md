@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: How can you transport Gas over a big 
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/gases"
     - "features/fluids/pipes"
+    - "features/gases"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=eZIVeN8_8sc
 
 ### Topics
-* [Features > Gases](../topics/features/gases.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Features > Gases](../topics/features/gases.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

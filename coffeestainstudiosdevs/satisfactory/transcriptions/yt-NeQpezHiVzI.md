@@ -4,6 +4,7 @@ date: "2020-12-15"
 layout: transcript
 topics:
     - "environment/world-map"
+    - "satisfactory-updates/modular-build"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we add more to the Map?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=NeQpezHiVzI
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
 
 ### Transcript
 

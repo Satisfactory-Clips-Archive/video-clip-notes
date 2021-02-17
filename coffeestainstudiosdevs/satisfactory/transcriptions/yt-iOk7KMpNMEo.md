@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "mods"
     - "mods/official-mod-support"
+    - "satisfactory-updates/modular-build"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Plans for mod support?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=iOk7KMpNMEo
 ### Topics
 * [Mods](../topics/mods.md)
 * [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
 
 ### Transcript
 

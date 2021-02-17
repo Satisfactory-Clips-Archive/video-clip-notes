@@ -4,6 +4,7 @@ date: "2019-12-19"
 layout: transcript
 topics:
     - "coffee-stainers/simon"
+    - "coffee-stainers/simon/simon-saga"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Which one was Simon's favourite Simon Saga video?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=weWtkbvOxdU
 
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Coffee Stainers > Simon > Simon Saga](../topics/coffee-stainers/simon/simon-saga.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "February 9th, 2021 Livestream Q&A: What was the Leak™?"
 date: "2021-02-09"
 layout: transcript
 topics:
-    - "features/power-management"
+    - "features/power-management/power-storage"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=nFRNm35pE-8
 
 ### Topics
-* [Features > Power Management](../topics/features/power-management.md)
+* [Features > Power Management > Power Storage](../topics/features/power-management/power-storage.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

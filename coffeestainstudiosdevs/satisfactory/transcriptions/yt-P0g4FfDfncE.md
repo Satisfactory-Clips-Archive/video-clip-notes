@@ -3,16 +3,16 @@ title: "February 2nd, 2021 Livestream Q&A: Bug or feature, Zombie Pioneers?"
 date: "2021-02-02"
 layout: transcript
 topics:
-    - "features/pioneer"
     - "features/multiplayer"
+    - "features/pioneer"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Bug or feature, Zombie Pioneers?
 https://www.youtube.com/watch?v=P0g4FfDfncE
 
 ### Topics
-* [Features > Pioneer](../topics/features/pioneer.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Features > Pioneer](../topics/features/pioneer.md)
 
 ### Transcript
 

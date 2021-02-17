@@ -5,9 +5,9 @@ layout: transcript
 topics:
     - "environment/resources"
     - "environment/resources/oil"
-    - "features/gases"
     - "features/buildings/resource-well-extractor"
     - "features/fluids"
+    - "features/gases"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Are you able to confirm what resources can be pulled using the Resource Well Extractor?
@@ -16,9 +16,9 @@ https://www.youtube.com/watch?v=vlDuVpHyfVs
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
 * [Environment > Resources > Oil](../topics/environment/resources/oil.md)
-* [Features > Gases](../topics/features/gases.md)
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)
 * [Features > Fluids](../topics/features/fluids.md)
+* [Features > Gases](../topics/features/gases.md)
 
 ### Transcript
 

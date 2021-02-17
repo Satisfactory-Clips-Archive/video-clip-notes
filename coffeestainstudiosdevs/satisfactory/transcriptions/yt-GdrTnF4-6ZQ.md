@@ -3,16 +3,18 @@ title: "February 9th, 2021 Livestream Q&A: How girthy will the Update 4 download
 date: "2021-02-09"
 layout: transcript
 topics:
-    - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/modular-build"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/release-builds"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: How girthy will the Update 4 download be?
 https://www.youtube.com/watch?v=GdrTnF4-6ZQ
 
 ### Topics
-* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript
 

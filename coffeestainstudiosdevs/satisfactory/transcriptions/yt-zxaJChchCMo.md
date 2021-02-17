@@ -3,16 +3,16 @@ title: "December 8th, 2020 Livestream State of Dev: FICS⁕MAS"
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/seasonal-events/fics-mas"
+    - "satisfactory-updates/state-of-dev"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## State of Dev: FICS⁕MAS
 https://www.youtube.com/watch?v=zxaJChchCMo
 
 ### Topics
-* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
+* [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript
 

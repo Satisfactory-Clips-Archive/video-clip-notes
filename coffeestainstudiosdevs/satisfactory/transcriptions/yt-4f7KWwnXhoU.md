@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/planned-features/dedicated-servers"
     - "technology/linux"
+    - "technology/mac"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will Dedicated Servers be available on Linux, or Windows?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=4f7KWwnXhoU
 ### Topics
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 * [Technology > Linux](../topics/technology/linux.md)
+* [Technology > Mac](../topics/technology/mac.md)
 
 ### Transcript
 

@@ -4,6 +4,7 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "mods"
+    - "satisfactory-updates/modular-build"
     - "technology/unreal-engine"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=lHKPC3m2Z2A
 
 ### Topics
 * [Mods](../topics/mods.md)
+* [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

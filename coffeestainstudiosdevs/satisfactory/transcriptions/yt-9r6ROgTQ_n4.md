@@ -3,6 +3,7 @@ title: "October 13th, 2020 Livestream Q&A: Will you switch to using Unreal Engin
 date: "2020-10-13"
 layout: transcript
 topics:
+    - "technology/graphics/ray-tracing"
     - "technology/unreal-engine"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=9r6ROgTQ_n4
 
 ### Topics
+* [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

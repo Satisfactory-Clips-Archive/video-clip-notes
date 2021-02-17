@@ -3,16 +3,16 @@ title: "March 9th, 2019 Livestream Q&A: Is the Desert Biome available in the bet
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "environment/world-map"
     - "environment/biomes"
+    - "environment/world-map"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is the Desert Biome available in the beta?
 https://www.youtube.com/watch?v=JMQotRaN9Bs
 
 ### Topics
-* [Environment > World Map](../topics/environment/world-map.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript
 
