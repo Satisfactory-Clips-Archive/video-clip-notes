@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## February 16th, 2021 Livestream
+* [Q&A: Any plan on encourage closed-building / discourage open-building factory with game mechanics?](../../transcriptions/yt-a5IClCte1go.md) https://www.youtube.com/watch?v=a5IClCte1go
+* [Q&A: Anything interesting in the analytics?](../../transcriptions/yt-BMQs1ci2YXo.md) https://www.youtube.com/watch?v=BMQs1ci2YXo
+* [Q&A: How much content are you planning for 1.0- do you want it to be over 200 hour playthrough?](../../transcriptions/yt-R9u6_oxcsX4.md) https://www.youtube.com/watch?v=R9u6_oxcsX4
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are you adding a Hard Mode?](../../transcriptions/yt-e97jfbPmKeY.md) https://www.youtube.com/watch?v=e97jfbPmKeY
 

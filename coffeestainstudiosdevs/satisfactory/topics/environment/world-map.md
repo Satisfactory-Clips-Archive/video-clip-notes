@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## February 16th, 2021 Livestream
+* [Q&A: Are there limited Lizard Doggos on the map?](../../transcriptions/yt-v7d8Lqlq53w.md) https://www.youtube.com/watch?v=v7d8Lqlq53w
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are there going to be other planets in the game?](../../transcriptions/yt-Xg0nkRNXaIk.md) https://www.youtube.com/watch?v=Xg0nkRNXaIk
 * [Q&A: Do you have any plans for the Radar Towers?](../../transcriptions/yt-Jb1JBMGknBY.md) https://www.youtube.com/watch?v=Jb1JBMGknBY

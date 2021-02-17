@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Zip Lines
 
+## February 16th, 2021 Livestream
+* [Q&A: What length will the new Zip Lines cap at?](../../../transcriptions/yt-v3_fHKQqX24.md) https://www.youtube.com/watch?v=v3_fHKQqX24
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Are we getting a new teaser this week?](../../../transcriptions/yt-pY14Dudonjc.md) https://www.youtube.com/watch?v=pY14Dudonjc
 * [Q&A: Can you Zip Line up?](../../../transcriptions/yt-obQpGKr8mWg.md) https://www.youtube.com/watch?v=obQpGKr8mWg

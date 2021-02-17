@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## February 16th, 2021 Livestream
+* [Q&A: What about some leaks?](../transcriptions/yt-C2fArx9F9RM.md) https://www.youtube.com/watch?v=C2fArx9F9RM
+
 ## February 9th, 2021 Livestream
 * [Q&A: Does the game run on DOS?](../transcriptions/yt-S9MUZeBg2cw.md) https://www.youtube.com/watch?v=S9MUZeBg2cw
 * [Q&A: Snutt & Jace have broken up?](../transcriptions/yt-ax7GUkad9N0.md) https://www.youtube.com/watch?v=ax7GUkad9N0

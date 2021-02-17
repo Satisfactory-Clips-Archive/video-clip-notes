@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Geothermal Energy
 
+## February 16th, 2021 Livestream
+* [Q&A: Are there changes planned for Geothermal?](../../../transcriptions/yt-XCMncMB0z50.md) https://www.youtube.com/watch?v=XCMncMB0z50
+
 ## January 19th, 2021 Livestream
 * [Q&A: Will you change Geothermal Generators?](../../../transcriptions/yt-MmCfcNv8F8o.md) https://www.youtube.com/watch?v=MmCfcNv8F8o
 

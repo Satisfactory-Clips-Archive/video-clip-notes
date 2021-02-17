@@ -11,6 +11,12 @@ date: Last Modified
 * [Smerkin](../topics/community/smerkin.md)
 * [Wiki](../topics/community/wiki.md)
 
+## February 16th, 2021 Livestream
+* [Community FYI: Currently I'm a fan of all Coffee Stain Publishing games](../transcriptions/yt-CVej1itsGJI.md) https://www.youtube.com/watch?v=CVej1itsGJI
+* [Q&A: How do you stress-test the game?](../transcriptions/yt-HKh8CsYPMvw.md) https://www.youtube.com/watch?v=HKh8CsYPMvw
+* [Community FYI: Songs of Conquest is pretty pog](../transcriptions/yt-8EnjSSJGeBI.md) https://www.youtube.com/watch?v=8EnjSSJGeBI
+* [Community FYI: You forgot Midnight Ghost Hunter](../transcriptions/yt-XVKnvTPSyaw.md) https://www.youtube.com/watch?v=XVKnvTPSyaw
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are you tired of answering the same questions every day?](../transcriptions/yt-ZV4gjWn8uCg.md) https://www.youtube.com/watch?v=ZV4gjWn8uCg
 

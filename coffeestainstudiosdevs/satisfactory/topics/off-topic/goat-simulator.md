@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## February 16th, 2021 Livestream
+* [Q&A: Did Coffee Stain Studios develop Satisfactory?](../../transcriptions/yt-IPtH5E1-31k.md) https://www.youtube.com/watch?v=IPtH5E1-31k
+
 ## January 26th, 2021 Livestream
 * [Q&A: I never connected the dots between Goat Simulator and Satisfactory?](../../transcriptions/yt-HtKqSryNU88.md) https://www.youtube.com/watch?v=HtKqSryNU88
 * [Q&A: Is the game only good because you made Goat Simulator?](../../transcriptions/yt-RkTbSfY1pKc.md) https://www.youtube.com/watch?v=RkTbSfY1pKc

@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Buildables > Conveyor Belts
 
+## February 16th, 2021 Livestream
+* [Q&A: Are the Belts going to be rebalanced?](../../../transcriptions/yt-9d5aym3IkTg.md) https://www.youtube.com/watch?v=9d5aym3IkTg
+* [Q&A: Does obscuring belts actually help with performance?](../../../transcriptions/yt-JDJ5hvAkrWw.md) https://www.youtube.com/watch?v=JDJ5hvAkrWw
+* [Q&A: I saw a mod who let a belt ending in a stackable belt ending, any chance for this in vanilla?](../../../transcriptions/yt-byfgR8myflI.md) https://www.youtube.com/watch?v=byfgR8myflI
+
 ## February 9th, 2021 Livestream
 * [Q&A: Any plans for Smart Mergers yet?](../../../transcriptions/yt-KUfze04EJmA.md) https://www.youtube.com/watch?v=KUfze04EJmA
 * [Q&A: Foundation holes for belts?](../../../transcriptions/yt-A41woUB_6oI.md) https://www.youtube.com/watch?v=A41woUB_6oI

@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## February 16th, 2021 Livestream
+* [Q&A: Did you guys develop Valheim?](../../transcriptions/yt-epiPmCco2lc.md) https://www.youtube.com/watch?v=epiPmCco2lc
+* [Q&A: For Valheim?](../../transcriptions/yt-L6458tIFFho.md) https://www.youtube.com/watch?v=L6458tIFFho
+* [Community FYI: Make a Valheim stream command](../../transcriptions/yt-tX-qIP0FrJM.md) https://www.youtube.com/watch?v=tX-qIP0FrJM
+* [Q&A: Will you two handle the community / streams of Valheim too?](../../transcriptions/yt-icZwPeonyD8.md) https://www.youtube.com/watch?v=icZwPeonyD8
+
 ## February 9th, 2021 Livestream
 * [Q&A: Ask your friends in Valheim, they did it ?](../../transcriptions/yt-qjgnvEq36gA.md) https://www.youtube.com/watch?v=qjgnvEq36gA
 * [Q&A: Do you have any involvement in the development of Valheim?](../../transcriptions/yt-TP73cnwmX4g.md) https://www.youtube.com/watch?v=TP73cnwmX4g

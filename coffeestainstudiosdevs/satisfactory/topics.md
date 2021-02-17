@@ -18,9 +18,11 @@ date: Last Modified
 * [Neshkor](./topics/coffee-stainers/neshkor.md)
 * [Oscar](./topics/coffee-stainers/oscar.md)
 * [Ros](./topics/coffee-stainers/ros.md)
-* [Simon](./topics/coffee-stainers/simon.md)
 * [Snutt](./topics/coffee-stainers/snutt.md)
 * [Tim](./topics/coffee-stainers/tim.md)
+
+## [Simon](./topics/coffee-stainers/simon.md)
+* [Simon Saga](./topics/coffee-stainers/simon/simon-saga.md)
 
 # [Community](./topics/community.md)
 * [Baine](./topics/community/baine.md)
@@ -140,6 +142,7 @@ date: Last Modified
 ## [Power Management](./topics/features/power-management.md)
 * [Geothermal Energy](./topics/features/power-management/geothermal-energy.md)
 * [Green Energy](./topics/features/power-management/green-energy.md)
+* [Power Storage](./topics/features/power-management/power-storage.md)
 
 ### [Nuclear Energy](./topics/features/power-management/nuclear-energy.md)
 * [Nuclear Waste](./topics/features/power-management/nuclear-energy/nuclear-waste.md)
@@ -212,11 +215,13 @@ date: Last Modified
 * [Pizza](./topics/off-topic/pizza.md)
 * [Sanctum](./topics/off-topic/sanctum.md)
 * [Semlor](./topics/off-topic/semlor.md)
+* [Terrible Jokes](./topics/off-topic/terrible-jokes.md)
 * [The Cycle](./topics/off-topic/the-cycle.md)
 * [Valheim](./topics/off-topic/valheim.md)
 
 # [Satisfactory Updates](./topics/satisfactory-updates.md)
 * [Free Weekends](./topics/satisfactory-updates/free-weekends.md)
+* [Modular Build](./topics/satisfactory-updates/modular-build.md)
 * [Release Builds](./topics/satisfactory-updates/release-builds.md)
 * [Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
 * [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
@@ -249,10 +254,15 @@ date: Last Modified
 * [Steve](./topics/story-lore/characters/steve.md)
 
 # [Technology](./topics/technology.md)
-* [Graphics](./topics/technology/graphics.md)
+* [Analytics](./topics/technology/analytics.md)
 * [Linux](./topics/technology/linux.md)
+* [Mac](./topics/technology/mac.md)
 * [Physics](./topics/technology/physics.md)
 * [User Interface](./topics/technology/user-interface.md)
+
+## [Graphics](./topics/technology/graphics.md)
+* [DLSS](./topics/technology/graphics/dlss.md)
+* [Ray Tracing](./topics/technology/graphics/ray-tracing.md)
 
 ## [Unreal Engine](./topics/technology/unreal-engine.md)
 * [Custom Component: Instanced Spline Mesh](./topics/technology/unreal-engine/custom-component-instanced-spline-mesh.md)

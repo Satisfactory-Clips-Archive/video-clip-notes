@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 
+## February 16th, 2021 Livestream
+* [Q&A: How much content are you planning for 1.0- do you want it to be over 200 hour playthrough?](../../transcriptions/yt-R9u6_oxcsX4.md) https://www.youtube.com/watch?v=R9u6_oxcsX4
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Will more Water be added to the map?](../../transcriptions/yt-TRPP6LcTtRQ.md) https://www.youtube.com/watch?v=TRPP6LcTtRQ
 

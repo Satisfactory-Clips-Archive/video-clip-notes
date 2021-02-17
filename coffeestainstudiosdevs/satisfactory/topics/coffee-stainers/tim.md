@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Tim
 
+## February 16th, 2021 Livestream
+* [Q&A: What is the future of Nuclear Waste?](../../transcriptions/yt-Rv6FRkWjJfU.md) https://www.youtube.com/watch?v=Rv6FRkWjJfU
+
 ## February 2nd, 2021 Livestream
 * [Q&A: In the next Update will we be able to craft something with Nuclear Waste?](../../transcriptions/yt-tmuvsaAsm-c.md) https://www.youtube.com/watch?v=tmuvsaAsm-c
 

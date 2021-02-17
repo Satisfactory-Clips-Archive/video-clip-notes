@@ -3,6 +3,10 @@ title: "Simon"
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Simon
+* [Simon Saga](../../topics/coffee-stainers/simon/simon-saga.md)
+
+## February 16th, 2021 Livestream
+* [Q&A: Who's Simon?](../../transcriptions/yt-MQSdhIKAjNc.md) https://www.youtube.com/watch?v=MQSdhIKAjNc
 
 ## February 2nd, 2021 Livestream
 * [Q&A: Snutt & Jace poster in Satisfactory when?](../../transcriptions/yt-X4heczNNOO8.md) https://www.youtube.com/watch?v=X4heczNNOO8

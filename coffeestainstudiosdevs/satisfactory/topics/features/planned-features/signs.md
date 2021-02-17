@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## February 16th, 2021 Livestream
+* [Q&A: Will there be signs in future updates?](../../../transcriptions/yt--t832FeMogU.md) https://www.youtube.com/watch?v=-t832FeMogU
+
 ## January 26th, 2021 Livestream
 * [Q&A: Are we getting signs any time soon?](../../../transcriptions/yt-RAYufEKcGLk.md) https://www.youtube.com/watch?v=RAYufEKcGLk
 

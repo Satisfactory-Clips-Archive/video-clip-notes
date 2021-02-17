@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio
 
+## February 16th, 2021 Livestream
+* [Q&A: Have you considered some sort of free demo for the game?](../../transcriptions/yt-Jy8mbOy0BJ0.md) https://www.youtube.com/watch?v=Jy8mbOy0BJ0
+
 ## January 26th, 2021 Livestream
 * [Q&A: How did you come up with the idea of making Satisfactory?](../../transcriptions/yt-BG-xhTN4-0Q.md) https://www.youtube.com/watch?v=BG-xhTN4-0Q
 * [Q&A: My friend says Satisfactory is just Factorio in 3d, how do I convince them otherwise?](../../transcriptions/yt-U2LUOKgE_7M.md) https://www.youtube.com/watch?v=U2LUOKgE_7M

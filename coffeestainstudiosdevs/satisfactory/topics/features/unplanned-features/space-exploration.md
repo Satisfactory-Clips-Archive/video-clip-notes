@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Space Exploration
 
+## February 16th, 2021 Livestream
+* [Q&A: Do you guys plan on any space stations or building amongst multi planets?](../../../transcriptions/yt-OJ8LnojSUzo.md) https://www.youtube.com/watch?v=OJ8LnojSUzo
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are there going to be other planets in the game?](../../../transcriptions/yt-Xg0nkRNXaIk.md) https://www.youtube.com/watch?v=Xg0nkRNXaIk
 

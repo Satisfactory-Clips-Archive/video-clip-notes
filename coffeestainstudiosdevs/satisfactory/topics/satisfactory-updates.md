@@ -4,6 +4,7 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Satisfactory Updates
 * [Free Weekends](../topics/satisfactory-updates/free-weekends.md)
+* [Modular Build](../topics/satisfactory-updates/modular-build.md)
 * [Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)

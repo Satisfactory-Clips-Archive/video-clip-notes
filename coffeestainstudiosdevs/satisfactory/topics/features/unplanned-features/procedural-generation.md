@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Procedural Generation
 
+## February 16th, 2021 Livestream
+* [Q&A: Possible to get randomly generated maps?](../../../transcriptions/yt-FkM6JZIZrqg.md) https://www.youtube.com/watch?v=FkM6JZIZrqg
+
 ## February 9th, 2021 Livestream
 * [Q&A: Why not have self generated maps?](../../../transcriptions/yt-hKIm2mk5AhM.md) https://www.youtube.com/watch?v=hKIm2mk5AhM
 

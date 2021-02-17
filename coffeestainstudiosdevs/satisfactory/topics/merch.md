@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../topics.md) > Merch
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## February 16th, 2021 Livestream
+* [Q&A: Where's the mug?](../transcriptions/yt-lABA3NfAMXw.md) https://www.youtube.com/watch?v=lABA3NfAMXw
+
 ## February 9th, 2021 Livestream
 * [Q&A: Can we pay money for Update 4?](../transcriptions/yt-oaPsSg5iwBc.md) https://www.youtube.com/watch?v=oaPsSg5iwBc
 * [Q&A: Can you make a FICSIT remote-control factory cart?](../transcriptions/yt-_l9SmmSzE-M.md) https://www.youtube.com/watch?v=_l9SmmSzE-M

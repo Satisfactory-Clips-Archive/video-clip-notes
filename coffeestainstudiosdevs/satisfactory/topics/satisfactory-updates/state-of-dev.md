@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## February 16th, 2021 Livestream
+* Community FYI: I'd prefer to be surprised with Update 4, you don't have to say every single bit https://www.youtube.com/watch?v=OLVLh1WhlkA
+* [State of Dev: Reminder regarding Content Freeze](../../transcriptions/yt-5QkDVcakpfY.md) https://www.youtube.com/watch?v=5QkDVcakpfY
+
 ## February 9th, 2021 Livestream
 * [State of Dev: Content Freeze](../../transcriptions/yt-VjxGGOCwV6o.md) https://www.youtube.com/watch?v=VjxGGOCwV6o
 * [State of Dev: Engine Upgrade](../../transcriptions/yt-RAnag5KJQcw.md) https://www.youtube.com/watch?v=RAnag5KJQcw

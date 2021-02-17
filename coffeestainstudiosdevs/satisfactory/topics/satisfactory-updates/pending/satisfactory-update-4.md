@@ -4,6 +4,23 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 4
 
+## February 16th, 2021 Livestream
+* [Q&A: Are you epecting a more stable release of the Engine Upgrade due to increased QA for Update 4?](../../../transcriptions/yt-mSo3tH9ZLR0.md) https://www.youtube.com/watch?v=mSo3tH9ZLR0
+* [Q&A: Are you still going to be fixing Engine Upgrade while in Content Freeze?](../../../transcriptions/yt-jC1yskM2KZQ.md) https://www.youtube.com/watch?v=jC1yskM2KZQ
+* [Q&A: Do you already have a date for the Update?](../../../transcriptions/yt-hI0wqMQqj68.md) https://www.youtube.com/watch?v=hI0wqMQqj68
+* [Q&A: How will Power Storage thing work?](../../../transcriptions/yt-pvevNDQU5Uw.md) https://www.youtube.com/watch?v=pvevNDQU5Uw
+* Community FYI: I'd prefer to be surprised with Update 4, you don't have to say every single bit https://www.youtube.com/watch?v=OLVLh1WhlkA
+* Q&A: Is there a video this Friday? https://www.youtube.com/watch?v=57fezy2AX6Q
+* [Q&A: I think I missed a discussion around when it would be shifted to Early Access?](../../../transcriptions/yt-eTafCP7eCB4.md) https://www.youtube.com/watch?v=eTafCP7eCB4
+* [Community FYI: Jace is Tom Holland of leaks](../../../transcriptions/yt-6cbxDiQr9kY.md) https://www.youtube.com/watch?v=6cbxDiQr9kY
+* [Q&A: No Experimental?](../../../transcriptions/yt-2cO89rhg6sQ.md) https://www.youtube.com/watch?v=2cO89rhg6sQ
+* [State of Dev: Reminder regarding Content Freeze](../../../transcriptions/yt-5QkDVcakpfY.md) https://www.youtube.com/watch?v=5QkDVcakpfY
+* [Q&A: Size of the Update?](../../../transcriptions/yt-NMDDVWs3jZM.md) https://www.youtube.com/watch?v=NMDDVWs3jZM
+* [Q&A: Still on track for March 9th or 16th?](../../../transcriptions/yt-iyDadUPxjUs.md) https://www.youtube.com/watch?v=iyDadUPxjUs
+* [Q&A: What about some leaks?](../../../transcriptions/yt-C2fArx9F9RM.md) https://www.youtube.com/watch?v=C2fArx9F9RM
+* [Q&A: When will Update 4 come out?](../../../transcriptions/yt-spRakm5uAy0.md) https://www.youtube.com/watch?v=spRakm5uAy0
+* [Q&A: Will Update 4 be based on new Unreal Engine, or the existing one?](../../../transcriptions/yt-ZlPENv3__GU.md) https://www.youtube.com/watch?v=ZlPENv3__GU
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are Truck Stations & Freight Platforms a part of the UI Update?](../../../transcriptions/yt-ANyv9_88k0A.md) https://www.youtube.com/watch?v=ANyv9_88k0A
 * [Q&A: Are you going to break save games again?](../../../transcriptions/yt-hF6yB6Wrox0.md) https://www.youtube.com/watch?v=hF6yB6Wrox0

@@ -18,9 +18,14 @@ date: Last Modified
 * [Neshkor](../topics/coffee-stainers/neshkor.md)
 * [Oscar](../topics/coffee-stainers/oscar.md)
 * [Ros](../topics/coffee-stainers/ros.md)
-* [Simon](../topics/coffee-stainers/simon.md)
 * [Snutt](../topics/coffee-stainers/snutt.md)
 * [Tim](../topics/coffee-stainers/tim.md)
+* [Simon](../topics/coffee-stainers/simon.md)
+
+## February 16th, 2021 Livestream
+* [Q&A: Did Coffee Stain Studios develop Satisfactory?](../transcriptions/yt-IPtH5E1-31k.md) https://www.youtube.com/watch?v=IPtH5E1-31k
+* [Q&A: How big is the development team?](../transcriptions/yt--iZbaVL7D0g.md) https://www.youtube.com/watch?v=-iZbaVL7D0g
+* [Q&A: See coworkers in real life- wtf is that?](../transcriptions/yt-kZqiiOvcW6E.md) https://www.youtube.com/watch?v=kZqiiOvcW6E
 
 ## February 9th, 2021 Livestream
 * [Snutt & Jace Talk: Leak™](../transcriptions/yt-TbSECv5M4ZM.md) https://www.youtube.com/watch?v=TbSECv5M4ZM

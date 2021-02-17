@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## February 16th, 2021 Livestream
+* [Q&A: How do you stress-test the game?](../../transcriptions/yt-HKh8CsYPMvw.md) https://www.youtube.com/watch?v=HKh8CsYPMvw
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Will you give Josh a key for Valheim?](../../transcriptions/yt-LWYYLfTDnvI.md) https://www.youtube.com/watch?v=LWYYLfTDnvI
 

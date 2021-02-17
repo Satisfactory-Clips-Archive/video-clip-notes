@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Pollution
 
+## February 16th, 2021 Livestream
+* [Q&A: Can we get a CO₂ meter so we can keep track of how badly we screwed the planet?](../../transcriptions/yt-bjXv7xwwIIA.md) https://www.youtube.com/watch?v=bjXv7xwwIIA
+
 ## January 26th, 2021 Livestream
 * [Q&A: Acid rain?](../../transcriptions/yt-wKU558LFiqI.md) https://www.youtube.com/watch?v=wKU558LFiqI
 

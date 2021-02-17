@@ -4,6 +4,16 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## February 16th, 2021 Livestream
+* [Q&A: Are you epecting a more stable release of the Engine Upgrade due to increased QA for Update 4?](../../transcriptions/yt-mSo3tH9ZLR0.md) https://www.youtube.com/watch?v=mSo3tH9ZLR0
+* [Q&A: Have you considered some sort of free demo for the game?](../../transcriptions/yt-Jy8mbOy0BJ0.md) https://www.youtube.com/watch?v=Jy8mbOy0BJ0
+* [Q&A: Have you fixed the gamma?](../../transcriptions/yt-2NIYN2OWrWs.md) https://www.youtube.com/watch?v=2NIYN2OWrWs
+* [Q&A: I think I missed a discussion around when it would be shifted to Early Access?](../../transcriptions/yt-eTafCP7eCB4.md) https://www.youtube.com/watch?v=eTafCP7eCB4
+* [Q&A: No Experimental?](../../transcriptions/yt-2cO89rhg6sQ.md) https://www.youtube.com/watch?v=2cO89rhg6sQ
+* [Q&A: Still on track for March 9th or 16th?](../../transcriptions/yt-iyDadUPxjUs.md) https://www.youtube.com/watch?v=iyDadUPxjUs
+* [Q&A: Will 1.0 go to Experimental?](../../transcriptions/yt-qYBAKknb7WA.md) https://www.youtube.com/watch?v=qYBAKknb7WA
+* [Q&A: Will there be a penultimate Early Access release for the Story?](../../transcriptions/yt-R9H2Xu_20UA.md) https://www.youtube.com/watch?v=R9H2Xu_20UA
+
 ## February 9th, 2021 Livestream
 * [Q&A: Can you summarise the extent to which Update 4 will be released in terms of the Engine Upgrade?](../../transcriptions/yt-RCaCXVVAtb0.md) https://www.youtube.com/watch?v=RCaCXVVAtb0
 * [State of Dev: Engine Upgrade](../../transcriptions/yt-RAnag5KJQcw.md) https://www.youtube.com/watch?v=RAnag5KJQcw
@@ -30,15 +40,11 @@ date: Last Modified
 ## December 15th, 2020 Livestream
 * [Q&A: Will Satisfactory have native support for Linux?](../../transcriptions/yt-jGFUMhD3WGg.md) https://www.youtube.com/watch?v=jGFUMhD3WGg
 
-## November 24th, 2020 Livestream
-* [Q&A: Is there going to be a Satisfactory for Mac?](../../transcriptions/yt-eLjNJO4pUBA.md) https://www.youtube.com/watch?v=eLjNJO4pUBA
-
 ## November 10th, 2020 Livestream
 * [Q&A: After the Update do I need to switch back to Early Access?](../../transcriptions/yt-zCkk_HH5eFI.md) https://www.youtube.com/watch?v=zCkk_HH5eFI
 * [Q&A: Can I switch between Experimental & Early Access?](../../transcriptions/yt-cs8oV_l9O-k.md) https://www.youtube.com/watch?v=cs8oV_l9O-k
 * [Q&A: Can you summarise the upcoming builds for the next months?](../../transcriptions/yt-hUYyIETHuJ4.md) https://www.youtube.com/watch?v=hUYyIETHuJ4
 * [Q&A: Do you ever get the feeling the game will be put aside and never leave Early Access?](../../transcriptions/yt-LSx6aBL0q3Q.md) https://www.youtube.com/watch?v=LSx6aBL0q3Q
-* [Q&A: Mac Release / Release to other platforms?](../../transcriptions/yt-xVOvU3NVxfs.md) https://www.youtube.com/watch?v=xVOvU3NVxfs
 
 ## November 3rd, 2020 Livestream
 * [Q&A: Is there a difference in performance between the Epic version and the Steam version?](../../transcriptions/yt-CgGc8VRspUA.md) https://www.youtube.com/watch?v=CgGc8VRspUA
@@ -46,7 +52,7 @@ date: Last Modified
 * [Q&A: What's the Modular Build?](../../transcriptions/yt-vKIeFeGPXJQ.md) https://www.youtube.com/watch?v=vKIeFeGPXJQ
 
 ## August 25th, 2020 Livestream
-* [Q&A: Plans for official Linux support?](../../transcriptions/yt-vSFTo-1j-SA.md) https://www.youtube.com/watch?v=vSFTo-1j-SA
+* Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp
 * [Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds](../../transcriptions/yt-rr1UWnrs0d4.md) https://www.youtube.com/watch?v=rr1UWnrs0d4
 
 ## June 8th, 2020 Livestream
@@ -74,10 +80,8 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Jace Talk: All saves should work](../../transcriptions/yt-w9kJj1Hd-cs.md) https://www.youtube.com/watch?v=w9kJj1Hd-cs
 * Snutt Talk: Alpha Test Weekend Hard Drive M.A.M. bug https://www.youtube.com/watch?v=EyUfBo2-gjw
-* [Q&A: Are you adding support for Mac any time soon?](../../transcriptions/yt-XQioxcXDRqc.md) https://www.youtube.com/watch?v=XQioxcXDRqc
 * [Snutt, Simon, Jace Talk: Early Access Release](../../transcriptions/yt-RsI9XqjI0fk.md) https://www.youtube.com/watch?v=RsI9XqjI0fk
 * [Q&A: How often will you release updates in Early Access?](../../transcriptions/yt-PBkvqmyjADM.md) https://www.youtube.com/watch?v=PBkvqmyjADM
-* [Q&A: Is Linux support planned in the future?](../../transcriptions/yt-GR3xet5AyuE.md) https://www.youtube.com/watch?v=GR3xet5AyuE
 * [Q&A: Is the Early Access version the same version Alpha Testers have?](../../transcriptions/yt-bnUTeUn6TA4.md) https://www.youtube.com/watch?v=bnUTeUn6TA4
 * [Q&A: Will I be able to play it on my Samsung fridge?](../../transcriptions/yt-8pVI2F2Y7rs.md) https://www.youtube.com/watch?v=8pVI2F2Y7rs
 * [Q&A: You guys are planning a mobile port, right?](../../transcriptions/yt-gxWgVKBPTtM.md) https://www.youtube.com/watch?v=gxWgVKBPTtM

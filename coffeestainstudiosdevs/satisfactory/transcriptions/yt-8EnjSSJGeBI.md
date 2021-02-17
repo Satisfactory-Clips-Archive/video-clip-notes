@@ -1,0 +1,35 @@
+---
+title: "February 16th, 2021 Livestream Community FYI: Songs of Conquest is pretty pog"
+date: "2021-02-16"
+layout: transcript
+topics:
+    - "community"
+---
+# [February 16th, 2021 Livestream](../2021-02-16.md)
+## Community FYI: Songs of Conquest is pretty pog
+https://www.youtube.com/watch?v=8EnjSSJGeBI
+
+### Topics
+* [Community](../topics/community.md)
+
+### Transcript
+
+> contest is pretty pog
+>
+> i think so too yeah i'm looking forward
+>
+> to that side for that yeah yeah that's
+>
+> probably one of the ones that i'm
+>
+> looking forward to the most
+>
+> it's like uh here is of no wait here's
+>
+> magic
+>
+> yeah i think that was one yeah here's my
+>
+> manager yeah like a
+>
+> love letter to that game exactly

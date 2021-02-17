@@ -5,6 +5,12 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## February 16th, 2021 Livestream
+* [Q&A: Any NPCs in the game?](../transcriptions/yt-z-DgcRCy3so.md) https://www.youtube.com/watch?v=z-DgcRCy3so
+* [Q&A: Is the game going to have a big Story?](../transcriptions/yt-S-o-0uuZUDo.md) https://www.youtube.com/watch?v=S-o-0uuZUDo
+* [Q&A: Will there be a penultimate Early Access release for the Story?](../transcriptions/yt-R9H2Xu_20UA.md) https://www.youtube.com/watch?v=R9H2Xu_20UA
+* [Q&A: Will there be new things for us to discover in 1.0 besides the Story?](../transcriptions/yt-2HTpXh20gqY.md) https://www.youtube.com/watch?v=2HTpXh20gqY
+
 ## February 9th, 2021 Livestream
 * [Q&A: Can you give us a teaser for what the Story will be, or is there a YouTube video?](../transcriptions/yt-SLOMxmF6MKc.md) https://www.youtube.com/watch?v=SLOMxmF6MKc
 * [Q&A: How far are we in Story-wise?](../transcriptions/yt-uDdd42vEMWo.md) https://www.youtube.com/watch?v=uDdd42vEMWo

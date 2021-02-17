@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## February 16th, 2021 Livestream
+* [Q&A: Bacon or Sausage?](../../transcriptions/yt-n70T0HTcjB0.md) https://www.youtube.com/watch?v=n70T0HTcjB0
+* [Community FYI: Jace is Tom Holland of leaks](../../transcriptions/yt-6cbxDiQr9kY.md) https://www.youtube.com/watch?v=6cbxDiQr9kY
+* [Q&A: What's your favourite colour?](../../transcriptions/yt-PvDKIvSEwD8.md) https://www.youtube.com/watch?v=PvDKIvSEwD8
+* [Q&A: What's your favourite part of the game so far?](../../transcriptions/yt-wrJ7nQO9kPk.md) https://www.youtube.com/watch?v=wrJ7nQO9kPk
+* [Q&A: What about some leaks?](../../transcriptions/yt-C2fArx9F9RM.md) https://www.youtube.com/watch?v=C2fArx9F9RM
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are you tired of answering the same questions every day?](../../transcriptions/yt-ZV4gjWn8uCg.md) https://www.youtube.com/watch?v=ZV4gjWn8uCg
 * [Q&A: Have you ever travelled to Canada?](../../transcriptions/yt-GvQ4T08cO74.md) https://www.youtube.com/watch?v=GvQ4T08cO74

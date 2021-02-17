@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## February 16th, 2021 Livestream
+* [Q&A: Have you considered some sort of free demo for the game?](../../../transcriptions/yt-Jy8mbOy0BJ0.md) https://www.youtube.com/watch?v=Jy8mbOy0BJ0
+* [Q&A: How much content are you planning for 1.0- do you want it to be over 200 hour playthrough?](../../../transcriptions/yt-R9u6_oxcsX4.md) https://www.youtube.com/watch?v=R9u6_oxcsX4
+* [Q&A: What's the chance that the game will be released this year?](../../../transcriptions/yt-W2O4gfNYj9s.md) https://www.youtube.com/watch?v=W2O4gfNYj9s
+* [Q&A: When is 1.0 coming?](../../../transcriptions/yt-IPQfi2Gv4Zc.md) https://www.youtube.com/watch?v=IPQfi2Gv4Zc
+* [Q&A: Will 1.0 go to Experimental?](../../../transcriptions/yt-qYBAKknb7WA.md) https://www.youtube.com/watch?v=qYBAKknb7WA
+* [Q&A: Will there be a penultimate Early Access release for the Story?](../../../transcriptions/yt-R9H2Xu_20UA.md) https://www.youtube.com/watch?v=R9H2Xu_20UA
+* [Q&A: Will there be new things for us to discover in 1.0 besides the Story?](../../../transcriptions/yt-2HTpXh20gqY.md) https://www.youtube.com/watch?v=2HTpXh20gqY
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are there going to be other planets in the game?](../../../transcriptions/yt-Xg0nkRNXaIk.md) https://www.youtube.com/watch?v=Xg0nkRNXaIk
 

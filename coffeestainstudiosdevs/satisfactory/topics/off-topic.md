@@ -10,6 +10,7 @@ date: Last Modified
 * [Pizza](../topics/off-topic/pizza.md)
 * [Sanctum](../topics/off-topic/sanctum.md)
 * [Semlor](../topics/off-topic/semlor.md)
+* [Terrible Jokes](../topics/off-topic/terrible-jokes.md)
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 

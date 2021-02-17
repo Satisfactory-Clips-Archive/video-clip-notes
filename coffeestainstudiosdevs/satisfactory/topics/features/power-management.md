@@ -5,12 +5,11 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Power Management
 * [Geothermal Energy](../../topics/features/power-management/geothermal-energy.md)
 * [Green Energy](../../topics/features/power-management/green-energy.md)
+* [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Nuclear Energy](../../topics/features/power-management/nuclear-energy.md)
 
 ## February 9th, 2021 Livestream
-* [Snutt & Jace Talk: Leak™](../../transcriptions/yt-TbSECv5M4ZM.md) https://www.youtube.com/watch?v=TbSECv5M4ZM
 * [Community FYI: There's a Mod called the "Smart!" mod, that makes basic building less time consuming](../../transcriptions/yt-0e_pXEulvY8.md) https://www.youtube.com/watch?v=0e_pXEulvY8
-* [Q&A: What was the Leak™?](../../transcriptions/yt-nFRNm35pE-8.md) https://www.youtube.com/watch?v=nFRNm35pE-8
 
 ## February 5th, 2021 Livestream
 * [UI Change - Power Management](../../transcriptions/yt-rI5kRMSwo5Q,286.05243333333334,330.36336666666665.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=286&end=331

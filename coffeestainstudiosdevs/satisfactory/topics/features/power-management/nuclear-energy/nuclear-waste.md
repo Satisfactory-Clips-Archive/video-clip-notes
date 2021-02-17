@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## February 16th, 2021 Livestream
+* [Q&A: What is the future of Nuclear Waste?](../../../../transcriptions/yt-Rv6FRkWjJfU.md) https://www.youtube.com/watch?v=Rv6FRkWjJfU
+
 ## February 2nd, 2021 Livestream
 * [Q&A: In the next Update will we be able to craft something with Nuclear Waste?](../../../../transcriptions/yt-tmuvsaAsm-c.md) https://www.youtube.com/watch?v=tmuvsaAsm-c
 * [Q&A: Plutonium Waste looks different than regular Waste?](../../../../transcriptions/yt-ZU86mBQqx9A.md) https://www.youtube.com/watch?v=ZU86mBQqx9A

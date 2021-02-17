@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
+## February 16th, 2021 Livestream
+* [Q&A: Bacon or Sausage?](../../transcriptions/yt-n70T0HTcjB0.md) https://www.youtube.com/watch?v=n70T0HTcjB0
+* [Snutt & Jace Talk: Jace doesn't know anything about analytics, but Snutt implemented it](../../transcriptions/yt-iOvaI1_2xKo.md) https://www.youtube.com/watch?v=iOvaI1_2xKo
+* [Snutt & Jace Talk: Snutt's Save Files](../../transcriptions/yt-Rv5fCMyM2T4.md) https://www.youtube.com/watch?v=Rv5fCMyM2T4
+* [Q&A: What's your favourite colour?](../../transcriptions/yt-PvDKIvSEwD8.md) https://www.youtube.com/watch?v=PvDKIvSEwD8
+* [Q&A: What's your favourite part of the game so far?](../../transcriptions/yt-wrJ7nQO9kPk.md) https://www.youtube.com/watch?v=wrJ7nQO9kPk
+* [Q&A: What about some leaks?](../../transcriptions/yt-C2fArx9F9RM.md) https://www.youtube.com/watch?v=C2fArx9F9RM
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are you tired of answering the same questions every day?](../../transcriptions/yt-ZV4gjWn8uCg.md) https://www.youtube.com/watch?v=ZV4gjWn8uCg
 * [Q&A: Can we call you other personality Snus the Swede?](../../transcriptions/yt-cQ2U2c84q-Y.md) https://www.youtube.com/watch?v=cQ2U2c84q-Y

@@ -1,0 +1,33 @@
+---
+title: "February 16th, 2021 Livestream Q&A: Will Update 4 be based on new Unreal Engine, or the existing one?"
+date: "2021-02-16"
+layout: transcript
+topics:
+    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "technology/unreal-engine"
+---
+# [February 16th, 2021 Livestream](../2021-02-16.md)
+## Q&A: Will Update 4 be based on new Unreal Engine, or the existing one?
+https://www.youtube.com/watch?v=ZlPENv3__GU
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+
+### Transcript
+
+> um will update for we based on new
+>
+> unreal engine or the existing one we're
+>
+> still
+>
+> we're still sticking with unreal engine
+>
+> 4. yeah but there is a
+>
+> an engine update for it but it's not
+>
+> we're not using unreal engine 5 right
+>
+> now

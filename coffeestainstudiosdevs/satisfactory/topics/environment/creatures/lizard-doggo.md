@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## February 16th, 2021 Livestream
+* [Q&A: Are there limited Lizard Doggos on the map?](../../../transcriptions/yt-v7d8Lqlq53w.md) https://www.youtube.com/watch?v=v7d8Lqlq53w
+
 ## February 9th, 2021 Livestream
 * [Q&A: Can we paint Lizard Doggos in Update 4?](../../../transcriptions/yt-DQukmGvnZbE.md) https://www.youtube.com/watch?v=DQukmGvnZbE
 * [Q&A: Can you give the Doggos coffee ?](../../../transcriptions/yt-xq7HQ_tIkbY.md) https://www.youtube.com/watch?v=xq7HQ_tIkbY

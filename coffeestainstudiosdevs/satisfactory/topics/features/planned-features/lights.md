@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Lights
 
+## February 16th, 2021 Livestream
+* [Q&A: Is the lack of placeable lights due to visual errors or performance?](../../../transcriptions/yt-s7NbxyG5lTo.md) https://www.youtube.com/watch?v=s7NbxyG5lTo
+
 ## January 26th, 2021 Livestream
 * [Q&A: Ability to sleep coming any time?](../../../transcriptions/yt-kDwywg_UJoc.md) https://www.youtube.com/watch?v=kDwywg_UJoc
 * [Q&A: Lights & Lampposts please?](../../../transcriptions/yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g
