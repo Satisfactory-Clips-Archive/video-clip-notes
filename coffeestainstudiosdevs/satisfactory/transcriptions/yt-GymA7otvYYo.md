@@ -3,14 +3,14 @@ title: "September 8th, 2020 Livestream Q&A: Are you going to be able to change c
 date: "2020-09-08"
 layout: transcript
 topics:
-    - ""
+    - "features/possible-features/character-customisation"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Are you going to be able to change characters?
 https://www.youtube.com/watch?v=GymA7otvYYo
 
 ### Topics
-
+* [Features > Possible Features > Character Customisation](../topics/features/possible-features/character-customisation.md)
 
 ### Transcript
 

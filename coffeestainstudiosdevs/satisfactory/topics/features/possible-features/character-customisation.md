@@ -25,6 +25,9 @@ date: Last Modified
 ## October 20th, 2020 Livestream
 * [Q&A: Are there plans for Character Customisation?](../../../transcriptions/yt-LAR8rVCHVmw.md) https://www.youtube.com/watch?v=LAR8rVCHVmw
 
+## September 8th, 2020 Livestream
+* [Q&A: Are you going to be able to change characters?](../../../transcriptions/yt-GymA7otvYYo.md) https://www.youtube.com/watch?v=GymA7otvYYo
+
 ## August 25th, 2020 Livestream
 * [Q&A: Let me personalise my character?](../../../transcriptions/yt-QyKyNbHPaHg.md) https://www.youtube.com/watch?v=QyKyNbHPaHg
 
