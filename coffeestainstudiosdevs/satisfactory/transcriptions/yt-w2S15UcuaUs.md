@@ -1,5 +1,5 @@
 ---
-title: "March 24th, 2020 Livestream Q&A: Can we turn of ADA notifications?"
+title: "March 24th, 2020 Livestream Q&A: Can we turn off ADA notifications?"
 date: "2020-03-24"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "technology/user-interface"
 ---
 # [March 24th, 2020 Livestream](../2020-03-24.md)
-## Q&A: Can we turn of ADA notifications?
+## Q&A: Can we turn off ADA notifications?
 https://www.youtube.com/watch?v=w2S15UcuaUs
 
 ### Topics

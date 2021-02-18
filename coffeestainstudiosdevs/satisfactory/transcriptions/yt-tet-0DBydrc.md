@@ -3,14 +3,14 @@ title: "September 1st, 2020 Livestream Q&A: Adding of favourites to the Construc
 date: "2020-09-01"
 layout: transcript
 topics:
-    - ""
+    - "technology/user-interface"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Adding of favourites to the Construction Menu ?
 https://www.youtube.com/watch?v=tet-0DBydrc
 
 ### Topics
-
+* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

@@ -35,6 +35,9 @@ date: Last Modified
 * [Q&A: Does the Giant Crab unlock stuff?](../../../transcriptions/yt-Dsjz5ntv9II.md) https://www.youtube.com/watch?v=Dsjz5ntv9II
 * [Q&A: Will you add any Monsters/Bosses in the future?](../../../transcriptions/yt-D_BVMiGNvqI.md) https://www.youtube.com/watch?v=D_BVMiGNvqI
 
+## September 8th, 2020 Livestream
+* [Q&A: Will we ever see the Crab Boss?](../../../transcriptions/yt-HD54tFdoDTE.md) https://www.youtube.com/watch?v=HD54tFdoDTE
+
 ## August 25th, 2020 Livestream
 * [Q&A: New enemies / creatures?](../../../transcriptions/yt-TDbNru0heoU.md) https://www.youtube.com/watch?v=TDbNru0heoU
 * [Q&A: Please make the Walking Bean stop clipping?](../../../transcriptions/yt-wTbRzvQ8ZLY.md) https://www.youtube.com/watch?v=wTbRzvQ8ZLY

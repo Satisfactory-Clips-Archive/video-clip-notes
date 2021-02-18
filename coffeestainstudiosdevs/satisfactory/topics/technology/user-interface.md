@@ -110,6 +110,10 @@ date: Last Modified
 * [Q&A: When can I change the keybindings?](../../transcriptions/yt-M4ZlxfNJg4s.md) https://www.youtube.com/watch?v=M4ZlxfNJg4s
 * [Q&A: When will "coal" be "Coal" on the Resource Scanner?](../../transcriptions/yt-p-Zd7qm0D6E.md) https://www.youtube.com/watch?v=p-Zd7qm0D6E
 
+## September 1st, 2020 Livestream
+* [Q&A: Adding of favourites to the Construction Menu ?](../../transcriptions/yt-tet-0DBydrc.md) https://www.youtube.com/watch?v=tet-0DBydrc
+* [Q&A: Customisable Build Menu?](../../transcriptions/yt-G0L9Xz9MByo.md) https://www.youtube.com/watch?v=G0L9Xz9MByo
+
 ## August 25th, 2020 Livestream
 * [Q&A: A mark on pipes to show the meters ?](../../transcriptions/yt-lXL_N-a887E.md) https://www.youtube.com/watch?v=lXL_N-a887E
 * [Q&A: Can we get an indicator for the launch line from the Launch Pad?](../../transcriptions/yt-YwYLlE8veKs.md) https://www.youtube.com/watch?v=YwYLlE8veKs
@@ -128,7 +132,7 @@ date: Last Modified
 * [Snutt, Jace, & Mark Talk: Muting ADA](../../transcriptions/yt-H3eApDUK_Xs.md) https://www.youtube.com/watch?v=H3eApDUK_Xs
 
 ## March 24th, 2020 Livestream
-* [Q&A: Can we turn of ADA notifications?](../../transcriptions/yt-w2S15UcuaUs.md) https://www.youtube.com/watch?v=w2S15UcuaUs
+* [Q&A: Can we turn off ADA notifications?](../../transcriptions/yt-w2S15UcuaUs.md) https://www.youtube.com/watch?v=w2S15UcuaUs
 * [Q&A: Third-person Camera option?](../../transcriptions/yt-hWRM_bQHXzc.md) https://www.youtube.com/watch?v=hWRM_bQHXzc
 
 ## February 11th, 2020 Livestream

@@ -15,6 +15,9 @@ date: Last Modified
 * [Snutt Talk: If you think Autosave is annoying](../../../transcriptions/yt-21diy9LWH8g.md) https://www.youtube.com/watch?v=21diy9LWH8g
 * [Q&A: Is it possible to have the Autosave not noticeable at all ?](../../../transcriptions/yt-ap-EONXus_4.md) https://www.youtube.com/watch?v=ap-EONXus_4
 
+## August 18th, 2020 Livestream
+* Q&A: Any news about autosave freezes? https://clips.twitch.tv/CrispyCheerfulCrocodilePanicBasket
+
 ## May 19th, 2020 Livestream
 * [Q&A: Save stutter?](../../../transcriptions/yt-n523WIVo5LM.md) https://www.youtube.com/watch?v=n523WIVo5LM
 

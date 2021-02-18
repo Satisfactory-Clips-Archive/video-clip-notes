@@ -53,6 +53,9 @@ date: Last Modified
 ## September 22nd, 2020 Livestream
 * [Q&A: Will there be more creatures?](../../transcriptions/yt-Yzd466gO44M.md) https://www.youtube.com/watch?v=Yzd466gO44M
 
+## September 8th, 2020 Livestream
+* [Q&A: Flying Monsters?](../../transcriptions/yt-7xkNOp9tNtg.md) https://www.youtube.com/watch?v=7xkNOp9tNtg
+
 ## August 25th, 2020 Livestream
 * [Q&A: Found a big pink flower thing in a cave, is that just some cool scenery or is it a WIP ?](../../transcriptions/yt-s55I90_ELrQ.md) https://www.youtube.com/watch?v=s55I90_ELrQ
 * [Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?](../../transcriptions/yt-EbTEcw5zg8k.md) https://www.youtube.com/watch?v=EbTEcw5zg8k

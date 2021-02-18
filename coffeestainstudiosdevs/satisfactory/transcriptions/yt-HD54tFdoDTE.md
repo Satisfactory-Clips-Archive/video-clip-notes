@@ -3,14 +3,14 @@ title: "September 8th, 2020 Livestream Q&A: Will we ever see the Crab Boss?"
 date: "2020-09-08"
 layout: transcript
 topics:
-    - ""
+    - "environment/creatures/crab-boss"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will we ever see the Crab Boss?
 https://www.youtube.com/watch?v=HD54tFdoDTE
 
 ### Topics
-
+* [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 
 ### Transcript
 
