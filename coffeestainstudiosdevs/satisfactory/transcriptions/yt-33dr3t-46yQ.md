@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "environment/creatures"
     - "features/transportation/vehicles"
+    - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Jace Talk: Mount Prototypes
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=33dr3t-46yQ
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript
 

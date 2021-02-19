@@ -3,14 +3,14 @@ title: "September 29th, 2020 Livestream Q&A: When is Steam access updated?"
 date: "2020-09-29"
 layout: transcript
 topics:
-    - ""
+    - "retail/steam-store"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: When is Steam access updated?
 https://www.youtube.com/watch?v=y4vMStiTtT4
 
 ### Topics
-
+* [Retail > Steam Store](../topics/retail/steam-store.md)
 
 ### Transcript
 

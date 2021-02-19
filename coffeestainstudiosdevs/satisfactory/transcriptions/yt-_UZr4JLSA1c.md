@@ -3,14 +3,14 @@ title: "June 8th, 2020 Livestream Q&A: How much is it going to cost on Steam?"
 date: "2020-06-08"
 layout: transcript
 topics:
-    - ""
+    - "retail/steam-store/steam-release"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: How much is it going to cost on Steam?
 https://www.youtube.com/watch?v=_UZr4JLSA1c
 
 ### Topics
-
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

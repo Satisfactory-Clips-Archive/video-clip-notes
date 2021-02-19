@@ -3,6 +3,7 @@ title: "September 15th, 2020 Livestream Q&A: Craftable Camera? (part 1)"
 date: "2020-09-15"
 layout: transcript
 topics:
+    - "coffee-stainers/uzu"
     - "features/crafting"
     - "mods"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=__WKPcHdDcA
 
 ### Topics
+* [Coffee Stainers > Uzu](../topics/coffee-stainers/uzu.md)
 * [Features > Crafting](../topics/features/crafting.md)
 * [Mods](../topics/mods.md)
 

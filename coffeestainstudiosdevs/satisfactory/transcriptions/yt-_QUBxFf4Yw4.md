@@ -3,14 +3,14 @@ title: "January 26th, 2021 Livestream Q&A: Does refund harm devs- is there a ref
 date: "2021-01-26"
 layout: transcript
 topics:
-    - ""
+    - "retail"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Does refund harm devs- is there a refund fee ?
 https://www.youtube.com/watch?v=_QUBxFf4Yw4
 
 ### Topics
-
+* [Retail](../topics/retail.md)
 
 ### Transcript
 

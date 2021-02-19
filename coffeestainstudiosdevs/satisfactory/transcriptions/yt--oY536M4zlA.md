@@ -3,14 +3,14 @@ title: "May 19th, 2020 Livestream Snutt Talk: Steam Release"
 date: "2020-05-19"
 layout: transcript
 topics:
-    - ""
+    - "retail/steam-store/steam-release"
 ---
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Snutt Talk: Steam Release
 https://www.youtube.com/watch?v=-oY536M4zlA
 
 ### Topics
-
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

@@ -4,6 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "features/unreleased-features/unreleased-content"
+    - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How close was the prototype to what we have today?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=pcV-2pHcho8
 
 ### Topics
 * [Features > Unreleased Features > Unreleased Content](../topics/features/unreleased-features/unreleased-content.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript
 

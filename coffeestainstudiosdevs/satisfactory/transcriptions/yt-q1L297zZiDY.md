@@ -3,6 +3,7 @@ title: "February 2nd, 2021 Livestream Q&A: Have you sold 10 copies yet?"
 date: "2021-02-02"
 layout: transcript
 topics:
+    - "retail"
     - "trolling"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=q1L297zZiDY
 
 ### Topics
+* [Retail](../topics/retail.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

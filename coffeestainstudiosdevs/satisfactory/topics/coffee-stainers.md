@@ -21,6 +21,7 @@ date: Last Modified
 * [Simon](../topics/coffee-stainers/simon.md)
 * [Snutt](../topics/coffee-stainers/snutt.md)
 * [Tim](../topics/coffee-stainers/tim.md)
+* [Uzu](../topics/coffee-stainers/uzu.md)
 
 ## February 16th, 2021 Livestream
 * [Q&A: Did Coffee Stain Studios develop Satisfactory?](../transcriptions/yt-IPtH5E1-31k.md) https://www.youtube.com/watch?v=IPtH5E1-31k

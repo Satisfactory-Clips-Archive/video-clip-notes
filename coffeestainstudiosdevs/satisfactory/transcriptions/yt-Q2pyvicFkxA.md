@@ -3,14 +3,16 @@ title: "March 9th, 2019 Livestream Q&A: Is there any plans for Steam?"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - ""
+    - "retail/epic-store/epic-store-exclusivity"
+    - "retail/steam-store/steam-release"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is there any plans for Steam?
 https://www.youtube.com/watch?v=Q2pyvicFkxA
 
 ### Topics
-
+* [Retail > Epic Store > Epic Store Exclusivity](../topics/retail/epic-store/epic-store-exclusivity.md)
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

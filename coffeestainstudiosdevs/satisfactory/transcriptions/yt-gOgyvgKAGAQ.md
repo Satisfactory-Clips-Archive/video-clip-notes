@@ -3,14 +3,16 @@ title: "January 22nd, 2020 Livestream Q&A: Satisfactory on Steam?"
 date: "2020-01-22"
 layout: transcript
 topics:
-    - ""
+    - "retail/epic-store/epic-store-exclusivity"
+    - "retail/steam-store/steam-release"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Satisfactory on Steam?
 https://www.youtube.com/watch?v=gOgyvgKAGAQ
 
 ### Topics
-
+* [Retail > Epic Store > Epic Store Exclusivity](../topics/retail/epic-store/epic-store-exclusivity.md)
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

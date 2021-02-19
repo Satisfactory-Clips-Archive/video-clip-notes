@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "environment/world-map"
     - "features/buildables/foundations"
+    - "satisfactory-updates/satisfactory-prototypes"
     - "technology/physics"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
@@ -14,6 +15,7 @@ https://www.youtube.com/watch?v=a49jT6lb3ZU
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 * [Technology > Physics](../topics/technology/physics.md)
 
 ### Transcript

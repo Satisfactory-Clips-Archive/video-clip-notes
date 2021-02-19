@@ -3,9 +3,16 @@ title: "Satisfactory Alpha"
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Alpha
+* [Alpha Weekend](../../../topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
 
 ## November 24th, 2020 Livestream
 * [Q&A: Simon is dead, did he run out of Alpha Keys?](../../../transcriptions/yt-dj20zgoTvA0.md) https://www.youtube.com/watch?v=dj20zgoTvA0
+
+## November 3rd, 2020 Livestream
+* [Jace Talk: Players are still using their old save files](../../../transcriptions/yt-NPX6XOg0SKo.md) https://www.youtube.com/watch?v=NPX6XOg0SKo
+
+## October 20th, 2020 Livestream
+* [Q&A: Is there going to be more equipment coming, like Rifle Mk. 2?](../../../transcriptions/yt--fXaMAXEY5U.md) https://www.youtube.com/watch?v=-fXaMAXEY5U
 
 ## October 6th, 2020 Livestream
 * [Q&A: (re: the wiki) So the old data-mined data?](../../../transcriptions/yt-SG9tehaWHsE.md) https://www.youtube.com/watch?v=SG9tehaWHsE
@@ -15,7 +22,6 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: After the Alpha Weekend - Alpha Testers can continue streaming with the Alpha client?](../../../transcriptions/yt-jBOvSHJtna8.md) https://www.youtube.com/watch?v=jBOvSHJtna8
-* Snutt Talk: Alpha Test Weekend Hard Drive M.A.M. bug https://www.youtube.com/watch?v=EyUfBo2-gjw
 * [Snutt & Jace Talk: Archway Story Time](../../../transcriptions/yt-5481tMGLLys.md) https://www.youtube.com/watch?v=5481tMGLLys
 * [Q&A: Do I get a sticker for how many bugs I reported in alpha?](../../../transcriptions/yt-2ny0XTCY6l0.md) https://www.youtube.com/watch?v=2ny0XTCY6l0
 * [Q&A: Is that the alpha build version?](../../../transcriptions/yt-u9Vu9NIjiRs.md) https://www.youtube.com/watch?v=u9Vu9NIjiRs

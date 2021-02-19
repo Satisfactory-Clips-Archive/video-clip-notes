@@ -1,0 +1,50 @@
+---
+title: "Satisfactory Prototypes"
+date: Last Modified
+---
+# [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes
+
+## February 16th, 2021 Livestream
+* [Q&A: Does obscuring belts actually help with performance?](../../transcriptions/yt-JDJ5hvAkrWw.md) https://www.youtube.com/watch?v=JDJ5hvAkrWw
+* [Q&A: Storm or natural disasters in the game?](../../transcriptions/yt-LgYBDQkiTrk.md) https://www.youtube.com/watch?v=LgYBDQkiTrk
+
+## February 9th, 2021 Livestream
+* [Q&A: What do you think about the situation where many only build platforms in the sky?](../../transcriptions/yt-a49jT6lb3ZU.md) https://www.youtube.com/watch?v=a49jT6lb3ZU
+
+## January 19th, 2021 Livestream
+* [Q&A: Will Gases affect health or hurt you if you don't have a hazmat suit?](../../transcriptions/yt-3gHStWkd0oE.md) https://www.youtube.com/watch?v=3gHStWkd0oE
+* [Q&A: Will Gas Pipes have Headlift or Valves?](../../transcriptions/yt-Zd9lUkAlJrk.md) https://www.youtube.com/watch?v=Zd9lUkAlJrk
+
+## December 8th, 2020 Livestream
+* [Snutt & Jace Talk: Janky, Weird, and Gross](../../transcriptions/yt-GeLStDYCAcw.md) https://www.youtube.com/watch?v=GeLStDYCAcw
+* [Q&A: What do you think of the current state of the game?](../../transcriptions/yt-RtnMVVZj0E8.md) https://www.youtube.com/watch?v=RtnMVVZj0E8
+
+## November 10th, 2020 Livestream
+* [Q&A: Are there Mods that you might put into the game?](../../transcriptions/yt-DAmVYd9vGbA.md) https://www.youtube.com/watch?v=DAmVYd9vGbA
+* [Jace Talk: Mount Prototypes](../../transcriptions/yt-33dr3t-46yQ.md) https://www.youtube.com/watch?v=33dr3t-46yQ
+* [Q&A: When will we implement gravity physics to the Buildings?](../../transcriptions/yt-6JFV5EAIU8U.md) https://www.youtube.com/watch?v=6JFV5EAIU8U
+
+## November 3rd, 2020 Livestream
+* [Q&A: How code-heavy is the game and how do you keep it organised?](../../transcriptions/yt-RXrCk4II2NM.md) https://www.youtube.com/watch?v=RXrCk4II2NM
+
+## October 20th, 2020 Livestream
+* [Q&A: How does the Questions site transfer to Feature in game?](../../transcriptions/yt-djGcxAQ9Xkk.md) https://www.youtube.com/watch?v=djGcxAQ9Xkk
+* [Q&A: Is there going to be more equipment coming, like Rifle Mk. 2?](../../transcriptions/yt--fXaMAXEY5U.md) https://www.youtube.com/watch?v=-fXaMAXEY5U
+* [Q&A: What will Story Mode be like?](../../transcriptions/yt-rRESDp2VwEI.md) https://www.youtube.com/watch?v=rRESDp2VwEI
+
+## October 6th, 2020 Livestream
+* [Q&A: (re: the wiki) So the old data-mined data?](../../transcriptions/yt-SG9tehaWHsE.md) https://www.youtube.com/watch?v=SG9tehaWHsE
+* [Q&A: Will you incorporate any mods into the base game?](../../transcriptions/yt-G1NZf7SbA00.md) https://www.youtube.com/watch?v=G1NZf7SbA00
+
+## September 29th, 2020 Livestream
+* [Q&A: Enclosed Belts](../../transcriptions/yt-oLpv9B5-OjE.md) https://www.youtube.com/watch?v=oLpv9B5-OjE
+
+## September 8th, 2020 Livestream
+* [Q&A: Do we intend to add rain/storms ?](../../transcriptions/yt-3WDeVbpr30g.md) https://www.youtube.com/watch?v=3WDeVbpr30g
+
+## August 25th, 2020 Livestream
+* [Q&A: Do you have a set of ideas?](../../transcriptions/yt-eSN0HQlSJBs.md) https://www.youtube.com/watch?v=eSN0HQlSJBs
+
+## March 9th, 2019 Livestream
+* [Q&A: How close was the prototype to what we have today?](../../transcriptions/yt-pcV-2pHcho8.md) https://www.youtube.com/watch?v=pcV-2pHcho8
+* [Q&A: Who suggested to build factory game?](../../transcriptions/yt-AyPcl_Vs2D4.md) https://www.youtube.com/watch?v=AyPcl_Vs2D4

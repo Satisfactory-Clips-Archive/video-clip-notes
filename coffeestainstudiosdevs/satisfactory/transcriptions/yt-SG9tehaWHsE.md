@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "community/wiki"
     - "satisfactory-updates/released/satisfactory-alpha"
+    - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: (re: the wiki) So the old data-mined data?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=SG9tehaWHsE
 ### Topics
 * [Community > Wiki](../topics/community/wiki.md)
 * [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript
 

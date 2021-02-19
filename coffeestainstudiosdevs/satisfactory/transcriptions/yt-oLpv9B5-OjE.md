@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/buildings"
     - "mods/mods-vs-features"
+    - "satisfactory-updates/satisfactory-prototypes"
     - "technology/graphics"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
@@ -14,6 +15,7 @@ https://www.youtube.com/watch?v=oLpv9B5-OjE
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

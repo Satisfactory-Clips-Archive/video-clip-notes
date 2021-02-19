@@ -60,6 +60,9 @@ date: Last Modified
 ## November 24th, 2020 Livestream
 * [Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?](../../transcriptions/yt-a1eSZz7wksU.md) https://www.youtube.com/watch?v=a1eSZz7wksU
 
+## November 10th, 2020 Livestream
+* [Q&A: Who in Coffee Stain Studios is the best Factory Builder?](../../transcriptions/yt-ypN9OtMd7YU.md) https://www.youtube.com/watch?v=ypN9OtMd7YU
+
 ## August 25th, 2020 Livestream
 * [Q&A: Have you played Infinifactory?](../../transcriptions/yt-QC5TQ6iL8sg.md) https://www.youtube.com/watch?v=QC5TQ6iL8sg
 * Q&A: nodismantle% ? https://www.youtube.com/watch?v=IT0T0C6u97A

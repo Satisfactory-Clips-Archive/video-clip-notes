@@ -3,6 +3,7 @@ title: "March 24th, 2020 Livestream State of Dev: Update 3, Steam Release"
 date: "2020-03-24"
 layout: transcript
 topics:
+    - "retail/steam-store/steam-release"
     - "satisfactory-updates/release-builds"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=Y__cl6AcRzs
 
 ### Topics
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 

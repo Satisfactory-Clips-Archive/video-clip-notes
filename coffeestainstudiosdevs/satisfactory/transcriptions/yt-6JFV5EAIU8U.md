@@ -4,6 +4,7 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "features/buildings"
+    - "satisfactory-updates/satisfactory-prototypes"
     - "technology/physics"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=6JFV5EAIU8U
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 * [Technology > Physics](../topics/technology/physics.md)
 
 ### Transcript

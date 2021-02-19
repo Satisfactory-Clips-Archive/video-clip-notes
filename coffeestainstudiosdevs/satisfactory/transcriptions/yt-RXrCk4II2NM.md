@@ -3,14 +3,14 @@ title: "November 3rd, 2020 Livestream Q&A: How code-heavy is the game and how do
 date: "2020-11-03"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: How code-heavy is the game and how do you keep it organised?
 https://www.youtube.com/watch?v=RXrCk4II2NM
 
 ### Topics
-
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript
 

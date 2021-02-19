@@ -3,6 +3,7 @@ title: "January 19th, 2021 Livestream Snutt Talk: Issues downloading the patch o
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "retail/steam-store"
     - "technology/unreal-engine"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=voxZiFRE-MU
 
 ### Topics
+* [Retail > Steam Store](../topics/retail/steam-store.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

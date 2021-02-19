@@ -3,6 +3,7 @@ title: "June 8th, 2020 Livestream Snutt Talk: Working on Update 4 after Steam la
 date: "2020-06-08"
 layout: transcript
 topics:
+    - "retail/steam-store/steam-release"
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=YpysG6xNbhU
 
 ### Topics
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 

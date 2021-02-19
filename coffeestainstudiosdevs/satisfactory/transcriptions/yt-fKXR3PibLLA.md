@@ -4,6 +4,7 @@ date: "2020-03-24"
 layout: transcript
 topics:
     - "features/multiplayer"
+    - "retail/steam-store/steam-release"
 ---
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Will the Steam release make reliability better?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=fKXR3PibLLA
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

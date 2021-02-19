@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: Does the timer for Epic exclusivity run 
 date: "2019-03-09"
 layout: transcript
 topics:
-    - ""
+    - "retail/epic-store/epic-store-exclusivity"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Does the timer for Epic exclusivity run when the game comes out or Early Access phase?
 https://www.youtube.com/watch?v=zHYxze67E28
 
 ### Topics
-
+* [Retail > Epic Store > Epic Store Exclusivity](../topics/retail/epic-store/epic-store-exclusivity.md)
 
 ### Transcript
 

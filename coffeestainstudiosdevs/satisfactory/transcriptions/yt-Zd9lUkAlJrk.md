@@ -7,6 +7,7 @@ topics:
     - "features/fluids/valves"
     - "features/gases"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will Gas Pipes have Headlift or Valves?
@@ -17,6 +18,7 @@ https://www.youtube.com/watch?v=Zd9lUkAlJrk
 * [Features > Fluids > Valves](../topics/features/fluids/valves.md)
 * [Features > Gases](../topics/features/gases.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript
 

@@ -4,6 +4,7 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "mods/mods-vs-features"
+    - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Are there Mods that you might put into the game?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=DAmVYd9vGbA
 
 ### Topics
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript
 

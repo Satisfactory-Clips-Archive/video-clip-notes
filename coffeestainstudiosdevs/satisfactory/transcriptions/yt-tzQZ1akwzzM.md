@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/multiplayer"
     - "features/multiplayer/crossplay"
+    - "retail/steam-store/steam-release"
 ---
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Snutt & Gafgar Talk: What we had to do in order to support Multiplayer on Steam
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=tzQZ1akwzzM
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 * [Features > Multiplayer > Crossplay](../topics/features/multiplayer/crossplay.md)
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

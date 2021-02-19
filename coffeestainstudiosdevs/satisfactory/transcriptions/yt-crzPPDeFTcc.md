@@ -3,14 +3,14 @@ title: "September 1st, 2020 Livestream Q&A: Did the Steam release meet expected 
 date: "2020-09-01"
 layout: transcript
 topics:
-    - ""
+    - "retail/steam-store/steam-release"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Did the Steam release meet expected goals?
 https://www.youtube.com/watch?v=crzPPDeFTcc
 
 ### Topics
-
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

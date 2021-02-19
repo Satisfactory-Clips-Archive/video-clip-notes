@@ -3,14 +3,22 @@ title: "November 10th, 2020 Livestream Q&A: Who in Coffee Stain Studios is the b
 date: "2020-11-10"
 layout: transcript
 topics:
-    - ""
+    - "coffee-stainers/jace"
+    - "coffee-stainers/simon"
+    - "coffee-stainers/uzu"
+    - "features/fluids/pipes"
+    - "satisfactory-updates/pre-alpha"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Who in Coffee Stain Studios is the best Factory Builder?
 https://www.youtube.com/watch?v=ypN9OtMd7YU
 
 ### Topics
-
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
+* [Coffee Stainers > Uzu](../topics/coffee-stainers/uzu.md)
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)
 
 ### Transcript
 

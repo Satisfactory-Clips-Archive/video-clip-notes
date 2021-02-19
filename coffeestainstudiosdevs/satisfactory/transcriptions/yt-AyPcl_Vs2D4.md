@@ -4,6 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "coffee-stainers"
+    - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Who suggested to build factory game?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=AyPcl_Vs2D4
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript
 

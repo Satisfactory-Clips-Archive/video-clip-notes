@@ -3,14 +3,16 @@ title: "March 9th, 2019 Livestream Jace Talk: Preorder confusion"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - ""
+    - "retail"
+    - "satisfactory-updates/released/satisfactory-alpha/alpha-weekend"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Jace Talk: Preorder confusion
 https://www.youtube.com/watch?v=Fk-hgvsxXzg
 
 ### Topics
-
+* [Retail](../topics/retail.md)
+* [Satisfactory Updates > Released > Satisfactory Alpha > Alpha Weekend](../topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
 
 ### Transcript
 

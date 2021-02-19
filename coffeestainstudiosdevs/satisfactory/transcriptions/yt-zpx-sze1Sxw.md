@@ -3,6 +3,7 @@ title: "November 10th, 2020 Livestream Jace Talk: Q&A Site"
 date: "2020-11-10"
 layout: transcript
 topics:
+    - "coffee-stainers/uzu"
     - "community"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=zpx-sze1Sxw
 
 ### Topics
+* [Coffee Stainers > Uzu](../topics/coffee-stainers/uzu.md)
 * [Community](../topics/community.md)
 
 ### Transcript

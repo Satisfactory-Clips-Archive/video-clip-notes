@@ -3,14 +3,14 @@ title: "February 9th, 2021 Livestream Q&A: How was the migration to Steam overal
 date: "2021-02-09"
 layout: transcript
 topics:
-    - ""
+    - "retail/steam-store/steam-release"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: How was the migration to Steam overall, was it worth it?
 https://www.youtube.com/watch?v=dIQQWHWwCGA
 
 ### Topics
-
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

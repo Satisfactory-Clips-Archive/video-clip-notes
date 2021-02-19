@@ -5,6 +5,8 @@ layout: transcript
 topics:
     - "coffee-stainers"
     - "coffee-stainers/tim"
+    - "retail"
+    - "retail/steam-store"
 ---
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Snutt & Jace Talk: We don't plan very well at all
@@ -13,6 +15,8 @@ https://www.youtube.com/watch?v=uNWZuo9AxdM
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Coffee Stainers > Tim](../topics/coffee-stainers/tim.md)
+* [Retail](../topics/retail.md)
+* [Retail > Steam Store](../topics/retail/steam-store.md)
 
 ### Transcript
 

@@ -3,7 +3,9 @@ title: "November 3rd, 2020 Livestream Q&A: Can you use old saves after Updates ?
 date: "2020-11-03"
 layout: transcript
 topics:
+    - "features/save-system"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/pre-alpha"
     - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
@@ -11,7 +13,9 @@ topics:
 https://www.youtube.com/watch?v=2iEj514FVbs
 
 ### Topics
+* [Features > Save System](../topics/features/save-system.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript

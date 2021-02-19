@@ -20,6 +20,9 @@ date: Last Modified
 * [Q&A: Plans for official Linux support?](../../transcriptions/yt-vSFTo-1j-SA.md) https://www.youtube.com/watch?v=vSFTo-1j-SA
 * [Q&A: Will Dedicated Servers be available on Linux, or Windows?](../../transcriptions/yt-4f7KWwnXhoU.md) https://www.youtube.com/watch?v=4f7KWwnXhoU
 
+## August 18th, 2020 Livestream
+* Q&A: Is Satisfactory affected by Epic vs. Apple? https://clips.twitch.tv/FurryAwkwardStrawberryWoofer
+
 ## March 9th, 2019 Livestream
 * [Q&A: Are you adding support for Mac any time soon?](../../transcriptions/yt-XQioxcXDRqc.md) https://www.youtube.com/watch?v=XQioxcXDRqc
 * [Q&A: Is Linux support planned in the future?](../../transcriptions/yt-GR3xet5AyuE.md) https://www.youtube.com/watch?v=GR3xet5AyuE

@@ -3,6 +3,7 @@ title: "June 8th, 2020 Livestream Q&A: Will I be able to play Experimental branc
 date: "2020-06-08"
 layout: transcript
 topics:
+    - "retail/steam-store"
     - "satisfactory-updates/release-builds"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=gXCCQ_JBIUg
 
 ### Topics
+* [Retail > Steam Store](../topics/retail/steam-store.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript

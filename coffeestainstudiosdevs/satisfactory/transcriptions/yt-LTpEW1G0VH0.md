@@ -4,6 +4,7 @@ date: "2020-12-08"
 layout: transcript
 topics:
     - "environment/resources"
+    - "satisfactory-updates/pre-alpha"
     - "satisfactory-updates/satisfactory-2017"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=LTpEW1G0VH0
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
+* [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)
 * [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
 
 ### Transcript

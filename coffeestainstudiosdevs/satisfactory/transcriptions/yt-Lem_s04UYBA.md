@@ -4,6 +4,7 @@ date: "2020-06-08"
 layout: transcript
 topics:
     - "community/smerkin"
+    - "retail/steam-store/steam-release"
     - "trolling"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=Lem_s04UYBA
 
 ### Topics
 * [Community > Smerkin](../topics/community/smerkin.md)
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

@@ -3,14 +3,14 @@ title: "January 22nd, 2020 Livestream Q&A: With the end of Epic exclusivity, wil
 date: "2020-01-22"
 layout: transcript
 topics:
-    - ""
+    - "retail/epic-store/epic-store-exclusivity"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: With the end of Epic exclusivity, will there be other ways to get it ?
 https://www.youtube.com/watch?v=Kfn13oEuA0c
 
 ### Topics
-
+* [Retail > Epic Store > Epic Store Exclusivity](../topics/retail/epic-store/epic-store-exclusivity.md)
 
 ### Transcript
 

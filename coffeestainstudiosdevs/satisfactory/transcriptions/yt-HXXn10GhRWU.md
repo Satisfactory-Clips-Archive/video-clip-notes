@@ -4,6 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "features/transportation/vehicles"
+    - "satisfactory-updates/pre-alpha"
     - "technology/graphics"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=HXXn10GhRWU
 
 ### Topics
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

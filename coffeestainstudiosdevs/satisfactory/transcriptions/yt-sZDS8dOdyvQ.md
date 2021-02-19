@@ -4,6 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "coffee-stainers"
+    - "retail/steam-store/steam-release"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: But do they take your opinion (about steam) serious?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=sZDS8dOdyvQ
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

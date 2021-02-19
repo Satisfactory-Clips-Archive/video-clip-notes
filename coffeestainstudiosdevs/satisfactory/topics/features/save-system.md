@@ -18,6 +18,10 @@ date: Last Modified
 ## November 17th, 2020 Livestream
 * [Q&A: Is there any Official Mod Support planned?](../../transcriptions/yt-z4Uv-UNMETw.md) https://www.youtube.com/watch?v=z4Uv-UNMETw
 
+## November 3rd, 2020 Livestream
+* [Q&A: Can you use old saves after Updates ?](../../transcriptions/yt-2iEj514FVbs.md) https://www.youtube.com/watch?v=2iEj514FVbs
+* [Jace Talk: Players are still using their old save files](../../transcriptions/yt-NPX6XOg0SKo.md) https://www.youtube.com/watch?v=NPX6XOg0SKo
+
 ## October 9th, 2020 Livestream
 * [Snutt & Dylan Talk: Updating the save system](../../transcriptions/yt-csjtm2DtURs.md) https://www.youtube.com/watch?v=csjtm2DtURs
 

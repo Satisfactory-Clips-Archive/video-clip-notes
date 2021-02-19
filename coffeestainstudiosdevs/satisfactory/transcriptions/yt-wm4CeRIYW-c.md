@@ -3,14 +3,14 @@ title: "September 1st, 2020 Livestream Q&A: Are you happy with the progress of t
 date: "2020-09-01"
 layout: transcript
 topics:
-    - ""
+    - "retail/steam-store/steam-release"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Are you happy with the progress of the game?
 https://www.youtube.com/watch?v=wm4CeRIYW-c
 
 ### Topics
-
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

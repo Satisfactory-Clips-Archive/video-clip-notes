@@ -3,6 +3,7 @@ title: "December 8th, 2020 Livestream State of Dev: FICS⁕MAS"
 date: "2020-12-08"
 layout: transcript
 topics:
+    - "satisfactory-updates/pre-alpha"
     - "satisfactory-updates/seasonal-events/fics-mas"
     - "satisfactory-updates/state-of-dev"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=zxaJChchCMo
 
 ### Topics
+* [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 

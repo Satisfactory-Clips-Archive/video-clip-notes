@@ -47,9 +47,11 @@ date: Last Modified
 * [Q&A: Do you ever get the feeling the game will be put aside and never leave Early Access?](../../transcriptions/yt-LSx6aBL0q3Q.md) https://www.youtube.com/watch?v=LSx6aBL0q3Q
 
 ## November 3rd, 2020 Livestream
-* [Q&A: Is there a difference in performance between the Epic version and the Steam version?](../../transcriptions/yt-CgGc8VRspUA.md) https://www.youtube.com/watch?v=CgGc8VRspUA
 * [Q&A: What's the difference between Experimental and the other version?](../../transcriptions/yt-T6zmq2rGoHU.md) https://www.youtube.com/watch?v=T6zmq2rGoHU
 * [Q&A: What's the Modular Build?](../../transcriptions/yt-vKIeFeGPXJQ.md) https://www.youtube.com/watch?v=vKIeFeGPXJQ
+
+## October 6th, 2020 Livestream
+* Q&A: Is Experimental only on Epic? https://www.youtube.com/watch?v=6G16NmLIwEk
 
 ## August 25th, 2020 Livestream
 * Q&A: Plans for official Linux support? https://clips.twitch.tv/DiligentDeafMangoPogChamp

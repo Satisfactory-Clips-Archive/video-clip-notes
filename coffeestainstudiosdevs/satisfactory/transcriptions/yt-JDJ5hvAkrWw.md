@@ -4,6 +4,7 @@ date: "2021-02-16"
 layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
+    - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Does obscuring belts actually help with performance?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=JDJ5hvAkrWw
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript
 

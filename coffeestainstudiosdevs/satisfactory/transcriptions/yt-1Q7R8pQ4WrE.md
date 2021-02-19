@@ -3,14 +3,14 @@ title: "November 10th, 2020 Livestream Q&A: Do you earn money with the keys sold
 date: "2020-11-10"
 layout: transcript
 topics:
-    - ""
+    - "retail"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do you earn money with the keys sold on third-party sites?
 https://www.youtube.com/watch?v=1Q7R8pQ4WrE
 
 ### Topics
-
+* [Retail](../topics/retail.md)
 
 ### Transcript
 

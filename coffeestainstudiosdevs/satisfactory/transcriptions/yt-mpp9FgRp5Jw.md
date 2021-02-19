@@ -3,14 +3,14 @@ title: "June 8th, 2020 Livestream Q&A: Any extra content coming with the Steam l
 date: "2020-06-08"
 layout: transcript
 topics:
-    - ""
+    - "retail/steam-store/steam-release"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Any extra content coming with the Steam launch?
 https://www.youtube.com/watch?v=mpp9FgRp5Jw
 
 ### Topics
-
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

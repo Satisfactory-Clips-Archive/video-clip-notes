@@ -3,14 +3,14 @@ title: "December 8th, 2020 Livestream Q&A: How do you stream on Steam like you g
 date: "2020-12-08"
 layout: transcript
 topics:
-    - ""
+    - "retail/steam-store"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How do you stream on Steam like you guys are right now?
 https://www.youtube.com/watch?v=pmm8JzrMM78
 
 ### Topics
-
+* [Retail > Steam Store](../topics/retail/steam-store.md)
 
 ### Transcript
 

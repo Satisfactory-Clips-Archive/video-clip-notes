@@ -3,14 +3,16 @@ title: "November 3rd, 2020 Livestream Q&A: Is there a difference in performance 
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "satisfactory-updates/release-builds"
+    - "retail/epic-store"
+    - "retail/steam-store"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Is there a difference in performance between the Epic version and the Steam version?
 https://www.youtube.com/watch?v=CgGc8VRspUA
 
 ### Topics
-* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Retail > Epic Store](../topics/retail/epic-store.md)
+* [Retail > Steam Store](../topics/retail/steam-store.md)
 
 ### Transcript
 

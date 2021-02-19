@@ -20,6 +20,7 @@ date: Last Modified
 * [Ros](./topics/coffee-stainers/ros.md)
 * [Snutt](./topics/coffee-stainers/snutt.md)
 * [Tim](./topics/coffee-stainers/tim.md)
+* [Uzu](./topics/coffee-stainers/uzu.md)
 
 ## [Simon](./topics/coffee-stainers/simon.md)
 * [Simon Saga](./topics/coffee-stainers/simon/simon-saga.md)
@@ -219,11 +220,21 @@ date: Last Modified
 * [The Cycle](./topics/off-topic/the-cycle.md)
 * [Valheim](./topics/off-topic/valheim.md)
 
+# [Retail](./topics/retail.md)
+
+## [Epic Store](./topics/retail/epic-store.md)
+* [Epic Store Exclusivity](./topics/retail/epic-store/epic-store-exclusivity.md)
+
+## [Steam Store](./topics/retail/steam-store.md)
+* [Steam Release](./topics/retail/steam-store/steam-release.md)
+
 # [Satisfactory Updates](./topics/satisfactory-updates.md)
 * [Free Weekends](./topics/satisfactory-updates/free-weekends.md)
 * [Modular Build](./topics/satisfactory-updates/modular-build.md)
+* [Pre-Alpha](./topics/satisfactory-updates/pre-alpha.md)
 * [Release Builds](./topics/satisfactory-updates/release-builds.md)
 * [Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
+* [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)
 * [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
 
 ## Pending
@@ -231,7 +242,9 @@ date: Last Modified
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ## Released
-* [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)
+
+### [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)
+* [Alpha Weekend](./topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
 * [Satisfactory Update 2](./topics/satisfactory-updates/released/satisfactory-update-2.md)
 * [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Fluids Update](./topics/satisfactory-updates/released/satisfactory-fluids-update.md)

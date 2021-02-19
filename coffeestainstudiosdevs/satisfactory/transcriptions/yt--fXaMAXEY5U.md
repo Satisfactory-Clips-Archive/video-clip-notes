@@ -4,6 +4,8 @@ date: "2020-10-20"
 layout: transcript
 topics:
     - "features/equipment"
+    - "satisfactory-updates/released/satisfactory-alpha"
+    - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Is there going to be more equipment coming, like Rifle Mk. 2?
@@ -11,6 +13,8 @@ https://www.youtube.com/watch?v=-fXaMAXEY5U
 
 ### Topics
 * [Features > Equipment](../topics/features/equipment.md)
+* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript
 

@@ -3,14 +3,16 @@ title: "November 3rd, 2020 Livestream Jace Talk: Players are still using their o
 date: "2020-11-03"
 layout: transcript
 topics:
-    - ""
+    - "features/save-system"
+    - "satisfactory-updates/released/satisfactory-alpha"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Jace Talk: Players are still using their old save files
 https://www.youtube.com/watch?v=NPX6XOg0SKo
 
 ### Topics
-
+* [Features > Save System](../topics/features/save-system.md)
+* [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "June 8th, 2020 Livestream Q&A: Will you use Steam's suggested region pri
 date: "2020-06-08"
 layout: transcript
 topics:
-    - ""
+    - "retail/steam-store/steam-release"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Will you use Steam's suggested region pricing?
 https://www.youtube.com/watch?v=5kcpbR2ViOg
 
 ### Topics
-
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

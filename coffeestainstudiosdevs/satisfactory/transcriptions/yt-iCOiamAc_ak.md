@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "environment/resources"
     - "features/buildings"
+    - "satisfactory-updates/pre-alpha"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Some buildings used to auto-select recipes?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=iCOiamAc_ak
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)
 
 ### Transcript
 

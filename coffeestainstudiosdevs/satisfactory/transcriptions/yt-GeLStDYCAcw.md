@@ -4,6 +4,7 @@ date: "2020-12-08"
 layout: transcript
 topics:
     - "satisfactory-updates/satisfactory-2017"
+    - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt & Jace Talk: Janky, Weird, and Gross
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=GeLStDYCAcw
 
 ### Topics
 * [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript
 

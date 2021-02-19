@@ -4,6 +4,7 @@ date: "2020-05-19"
 layout: transcript
 topics:
     - "features/multiplayer/crossplay"
+    - "retail/steam-store/steam-release"
 ---
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Will crossplay launch with the Steam release?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=egY71egazyQ
 
 ### Topics
 * [Features > Multiplayer > Crossplay](../topics/features/multiplayer/crossplay.md)
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 

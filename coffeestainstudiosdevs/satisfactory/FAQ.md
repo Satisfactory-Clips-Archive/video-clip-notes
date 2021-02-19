@@ -28,6 +28,11 @@ date: Last Modified
 ### [February 11th, 2020 Livestream](./2020-02-11.md)
 * [Q&A: Lizard Doggo plushies?](./transcriptions/yt-SFZCi_HshCE.md) https://www.youtube.com/watch?v=SFZCi_HshCE
 
+## [Uzu](./topics/coffee-stainers/uzu.md)
+
+### [January 19th, 2021 Livestream](./2021-01-19.md)
+* [Q&A: Are you going to add more functionality to the Programmable Splitters?](./transcriptions/yt-PGyc_YN4DaM.md) https://www.youtube.com/watch?v=PGyc_YN4DaM
+
 # [Community](./topics/community.md)
 
 ## [January 19th, 2021 Livestream](./2021-01-19.md)
@@ -1102,6 +1107,9 @@ date: Last Modified
 ### [November 17th, 2020 Livestream](./2020-11-17.md)
 * [Q&A: Is there any Official Mod Support planned?](./transcriptions/yt-z4Uv-UNMETw.md) https://www.youtube.com/watch?v=z4Uv-UNMETw
 
+### [November 3rd, 2020 Livestream](./2020-11-03.md)
+* [Q&A: Can you use old saves after Updates ?](./transcriptions/yt-2iEj514FVbs.md) https://www.youtube.com/watch?v=2iEj514FVbs
+
 ### [August 25th, 2020 Livestream](./2020-08-25.md)
 * [Q&A: Removing vegetation speeds up the game, yes or no ?](./transcriptions/yt-GgoQS6sOADQ.md) https://www.youtube.com/watch?v=GgoQS6sOADQ
 
@@ -1666,6 +1674,24 @@ date: Last Modified
 ### [December 15th, 2020 Livestream](./2020-12-15.md)
 * [Q&A: Does Sanctum and Satisfactory exist in the same universe?](./transcriptions/yt-JnR3oHKDQi0.md) https://www.youtube.com/watch?v=JnR3oHKDQi0
 
+# [Retail](./topics/retail.md)
+
+## [Steam Store](./topics/retail/steam-store.md)
+
+### [December 8th, 2020 Livestream](./2020-12-08.md)
+* [Q&A: How do you stream on Steam like you guys are right now?](./transcriptions/yt-pmm8JzrMM78.md) https://www.youtube.com/watch?v=pmm8JzrMM78
+
+### [Steam Release](./topics/retail/steam-store/steam-release.md)
+
+#### [September 15th, 2020 Livestream](./2020-09-15.md)
+* [Snutt Talk: Dedicated Servers](./transcriptions/yt-yRJNzDLMJZU.md) https://www.youtube.com/watch?v=yRJNzDLMJZU
+
+#### [June 8th, 2020 Livestream](./2020-06-08.md)
+* [Q&A: Will I get a Steam key if I already bought it on Epic?](./transcriptions/yt-GWtv9JpKGS0.md) https://www.youtube.com/watch?v=GWtv9JpKGS0
+
+#### [March 24th, 2020 Livestream](./2020-03-24.md)
+* [Q&A: Will the people who bought it on Epic get free Steam keys?](./transcriptions/yt-cCWKieE8O8g.md) https://www.youtube.com/watch?v=cCWKieE8O8g
+
 # [Satisfactory Updates](./topics/satisfactory-updates.md)
 
 ## [Modular Build](./topics/satisfactory-updates/modular-build.md)
@@ -1675,6 +1701,11 @@ date: Last Modified
 
 ### [November 10th, 2020 Livestream](./2020-11-10.md)
 * [Q&A: Can you summarise the upcoming builds for the next months?](./transcriptions/yt-hUYyIETHuJ4.md) https://www.youtube.com/watch?v=hUYyIETHuJ4
+
+## [Pre-Alpha](./topics/satisfactory-updates/pre-alpha.md)
+
+### [November 3rd, 2020 Livestream](./2020-11-03.md)
+* [Q&A: Can you use old saves after Updates ?](./transcriptions/yt-2iEj514FVbs.md) https://www.youtube.com/watch?v=2iEj514FVbs
 
 ## [Release Builds](./topics/satisfactory-updates/release-builds.md)
 
@@ -1703,6 +1734,17 @@ date: Last Modified
 * [Q&A: Any downsides to playing experimental](./transcriptions/yt-PJEaT3SIv0U.md) https://www.youtube.com/watch?v=PJEaT3SIv0U
 * [Q&A: How much time between Experimental and Early Access?](./transcriptions/yt-Cjn88-M1BbE.md) https://www.youtube.com/watch?v=Cjn88-M1BbE
 * [Q&A: Linux support for Dedicated Servers?](./transcriptions/yt-5a34CUK1K3k.md) https://www.youtube.com/watch?v=5a34CUK1K3k
+
+## [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)
+
+### [February 16th, 2021 Livestream](./2021-02-16.md)
+* [Q&A: Does obscuring belts actually help with performance?](./transcriptions/yt-JDJ5hvAkrWw.md) https://www.youtube.com/watch?v=JDJ5hvAkrWw
+
+### [November 10th, 2020 Livestream](./2020-11-10.md)
+* [Q&A: Are there Mods that you might put into the game?](./transcriptions/yt-DAmVYd9vGbA.md) https://www.youtube.com/watch?v=DAmVYd9vGbA
+
+### [October 6th, 2020 Livestream](./2020-10-06.md)
+* [Q&A: Will you incorporate any mods into the base game?](./transcriptions/yt-G1NZf7SbA00.md) https://www.youtube.com/watch?v=G1NZf7SbA00
 
 ## [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
 
