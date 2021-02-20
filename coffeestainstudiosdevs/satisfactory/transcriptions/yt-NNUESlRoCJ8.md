@@ -3,14 +3,14 @@ title: "November 10th, 2020 Livestream Q&A: Is there going to be a Creative Mode
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/possible-features/game-modes/creative-mode"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Is there going to be a Creative Mode?
 https://www.youtube.com/watch?v=NNUESlRoCJ8
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
 
 ### Transcript
 

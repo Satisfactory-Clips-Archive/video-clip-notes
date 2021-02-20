@@ -3,13 +3,13 @@ title: "August 1st, 2018"
 date: "2018-08-01"
 layout: transcript
 topics: 
-    - "features/possible-features/game-modes"
+    - "features/possible-features/game-modes/creative-mode"
 ---
 # [August 1st, 2018 Q&A #3: Pipes, Research, Vehicles + more!](../2018-08-01.md)
 ## Q&A: Will there be a Creative Mode?
 https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
 
 ### Transcript
 

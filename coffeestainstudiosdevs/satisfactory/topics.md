@@ -134,8 +134,12 @@ date: Last Modified
 * [Decor](./topics/features/possible-features/decor.md)
 * [DLC](./topics/features/possible-features/dlc.md)
 * [Farming](./topics/features/possible-features/farming.md)
-* [Game Modes](./topics/features/possible-features/game-modes.md)
 * [Weather Systems](./topics/features/possible-features/weather-systems.md)
+
+### [Game Modes](./topics/features/possible-features/game-modes.md)
+* [Battle Royale](./topics/features/possible-features/game-modes/battle-royale.md)
+* [Creative Mode](./topics/features/possible-features/game-modes/creative-mode.md)
+* [Peaceful Mode](./topics/features/possible-features/game-modes/peaceful-mode.md)
 
 ### [Third-Party Service Integration](./topics/features/possible-features/third-party-service-integration.md)
 * [Achievements](./topics/features/possible-features/third-party-service-integration/achievements.md)

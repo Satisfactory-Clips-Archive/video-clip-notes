@@ -3,14 +3,14 @@ title: "March 24th, 2020 Livestream Q&A: Wouldn't you split normal & Creative Mo
 date: "2020-03-24"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/possible-features/game-modes/creative-mode"
 ---
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Wouldn't you split normal & Creative Mode then not allow switching?
 https://www.youtube.com/watch?v=7xTscBSrsY0
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
 
 ### Transcript
 

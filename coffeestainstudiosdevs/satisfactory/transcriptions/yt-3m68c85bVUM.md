@@ -3,14 +3,14 @@ title: "September 29th, 2020 Livestream Q&A: Satisfactory Sandbox ever?"
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/possible-features/game-modes/creative-mode"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Satisfactory Sandbox ever?
 https://www.youtube.com/watch?v=3m68c85bVUM
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "features/possible-features/game-modes"
+    - "features/possible-features/game-modes/battle-royale"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Is there a Battle Royale Mode planned?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=b7ZVifJXBBg
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Possible Features > Game Modes > Battle Royale](../topics/features/possible-features/game-modes/battle-royale.md)
 
 ### Transcript
 

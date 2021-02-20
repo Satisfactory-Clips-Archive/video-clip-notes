@@ -3,14 +3,14 @@ title: "December 15th, 2020 Livestream Q&A: Will we get a Battle Royale Update?"
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/possible-features/game-modes/battle-royale"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we get a Battle Royale Update?
 https://www.youtube.com/watch?v=tN8DpsYR8ro
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Possible Features > Game Modes > Battle Royale](../topics/features/possible-features/game-modes/battle-royale.md)
 
 ### Transcript
 

@@ -954,49 +954,6 @@ date: Last Modified
 #### [March 24th, 2020 Livestream](./2020-03-24.md)
 * [Q&A: Berry Farming?](./transcriptions/yt-2Cq3xmLN8sQ.md) https://www.youtube.com/watch?v=2Cq3xmLN8sQ
 
-### [Game Modes](./topics/features/possible-features/game-modes.md)
-
-#### [January 26th, 2021 Livestream](./2021-01-26.md)
-* [Q&A: Will you guys eventually add survival elements like hunger & thirst?](./transcriptions/yt-5QJJqDM03Ww.md) https://www.youtube.com/watch?v=5QJJqDM03Ww
-
-#### [December 15th, 2020 Livestream](./2020-12-15.md)
-* [Q&A: Can we get turrets and more PvE?](./transcriptions/yt-sJnuRV0OGF0.md) https://www.youtube.com/watch?v=sJnuRV0OGF0
-* [Q&A: How about Creative Mode?](./transcriptions/yt-pFc0pdgYnlU.md) https://www.youtube.com/watch?v=pFc0pdgYnlU
-
-#### [December 8th, 2020 Livestream](./2020-12-08.md)
-* Q&A: Will there be a creative-style mode in the future? https://www.youtube.com/watch?v=ba7BBZw0IsU
-* [Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) https://www.youtube.com/watch?v=5-8ACtMU2_E
-
-#### [November 17th, 2020 Livestream](./2020-11-17.md)
-* [Q&A: When are you adding hunger & thirst?](./transcriptions/yt-hro__pZa1pk.md) https://www.youtube.com/watch?v=hro__pZa1pk
-
-#### [November 10th, 2020 Livestream](./2020-11-10.md)
-* [Q&A: Randomising nodes?](./transcriptions/yt-eTALbWgKmuE.md) https://www.youtube.com/watch?v=eTALbWgKmuE
-
-#### [November 3rd, 2020 Livestream](./2020-11-03.md)
-* [Q&A: Is there going to be a Creative Mode?](./transcriptions/yt-Yn4Brcx8CSs.md) https://www.youtube.com/watch?v=Yn4Brcx8CSs
-
-#### [September 22nd, 2020 Livestream](./2020-09-22.md)
-* [Q&A: Hoping for Base Defence?](./transcriptions/yt-RjFIQhJY824.md) https://www.youtube.com/watch?v=RjFIQhJY824
-* [Q&A: Will there be a Creative Mode?](./transcriptions/yt-nz4VgYaVDDo.md) https://www.youtube.com/watch?v=nz4VgYaVDDo
-
-#### [September 15th, 2020 Livestream](./2020-09-15.md)
-* [Q&A: Will there be more polish to the Survival aspects of the game?](./transcriptions/yt-0flTS1mpH7s.md) https://www.youtube.com/watch?v=0flTS1mpH7s
-
-#### [August 18th, 2020 Livestream](./2020-08-18.md)
-* Q&A: When is Creative Mode coming? https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu
-* Q&A: Will there be a no combat/fight version? https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid
-
-#### [March 24th, 2020 Livestream](./2020-03-24.md)
-* [Q&A: Creative Mode without having to Mod?](./transcriptions/yt-ww37EE17YP4.md) https://www.youtube.com/watch?v=ww37EE17YP4
-* [Q&A: Wouldn't you split normal & Creative Mode then not allow switching?](./transcriptions/yt-7xTscBSrsY0.md) https://www.youtube.com/watch?v=7xTscBSrsY0
-
-#### [December 19th, 2019 Livestream](./2019-12-19.md)
-* [Q&A: Will there be more competitive stuff?](./transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
-
-#### [March 9th, 2019 Livestream](./2019-03-09.md)
-* [Q&A: Another game mode with a procedurally generated world?](./transcriptions/yt-GZlK2fIlYVk.md) https://www.youtube.com/watch?v=GZlK2fIlYVk
-
 ### [Weather Systems](./topics/features/possible-features/weather-systems.md)
 
 #### [January 26th, 2021 Livestream](./2021-01-26.md)
@@ -1011,6 +968,59 @@ date: Last Modified
 
 #### [September 22nd, 2020 Livestream](./2020-09-22.md)
 * [Q&A: Weather in Satisfactory?](./transcriptions/yt-Sxvg881RjeA.md) https://www.youtube.com/watch?v=Sxvg881RjeA
+
+### [Game Modes](./topics/features/possible-features/game-modes.md)
+
+#### [January 26th, 2021 Livestream](./2021-01-26.md)
+* [Q&A: Will you guys eventually add survival elements like hunger & thirst?](./transcriptions/yt-5QJJqDM03Ww.md) https://www.youtube.com/watch?v=5QJJqDM03Ww
+
+#### [December 15th, 2020 Livestream](./2020-12-15.md)
+* [Q&A: Can we get turrets and more PvE?](./transcriptions/yt-sJnuRV0OGF0.md) https://www.youtube.com/watch?v=sJnuRV0OGF0
+
+#### [December 8th, 2020 Livestream](./2020-12-08.md)
+* [Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) https://www.youtube.com/watch?v=5-8ACtMU2_E
+
+#### [November 17th, 2020 Livestream](./2020-11-17.md)
+* [Q&A: When are you adding hunger & thirst?](./transcriptions/yt-hro__pZa1pk.md) https://www.youtube.com/watch?v=hro__pZa1pk
+
+#### [November 10th, 2020 Livestream](./2020-11-10.md)
+* [Q&A: Randomising nodes?](./transcriptions/yt-eTALbWgKmuE.md) https://www.youtube.com/watch?v=eTALbWgKmuE
+
+#### [September 22nd, 2020 Livestream](./2020-09-22.md)
+* [Q&A: Hoping for Base Defence?](./transcriptions/yt-RjFIQhJY824.md) https://www.youtube.com/watch?v=RjFIQhJY824
+
+#### [September 15th, 2020 Livestream](./2020-09-15.md)
+* [Q&A: Will there be more polish to the Survival aspects of the game?](./transcriptions/yt-0flTS1mpH7s.md) https://www.youtube.com/watch?v=0flTS1mpH7s
+
+#### [August 18th, 2020 Livestream](./2020-08-18.md)
+* Q&A: Will there be a no combat/fight version? https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid
+
+#### [December 19th, 2019 Livestream](./2019-12-19.md)
+* [Q&A: Will there be more competitive stuff?](./transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
+
+#### [March 9th, 2019 Livestream](./2019-03-09.md)
+* [Q&A: Another game mode with a procedurally generated world?](./transcriptions/yt-GZlK2fIlYVk.md) https://www.youtube.com/watch?v=GZlK2fIlYVk
+
+#### [Creative Mode](./topics/features/possible-features/game-modes/creative-mode.md)
+
+##### [December 15th, 2020 Livestream](./2020-12-15.md)
+* [Q&A: How about Creative Mode?](./transcriptions/yt-pFc0pdgYnlU.md) https://www.youtube.com/watch?v=pFc0pdgYnlU
+
+##### [December 8th, 2020 Livestream](./2020-12-08.md)
+* Q&A: Will there be a creative-style mode in the future? https://www.youtube.com/watch?v=ba7BBZw0IsU
+
+##### [November 3rd, 2020 Livestream](./2020-11-03.md)
+* [Q&A: Is there going to be a Creative Mode?](./transcriptions/yt-Yn4Brcx8CSs.md) https://www.youtube.com/watch?v=Yn4Brcx8CSs
+
+##### [September 22nd, 2020 Livestream](./2020-09-22.md)
+* [Q&A: Will there be a Creative Mode?](./transcriptions/yt-nz4VgYaVDDo.md) https://www.youtube.com/watch?v=nz4VgYaVDDo
+
+##### [August 18th, 2020 Livestream](./2020-08-18.md)
+* Q&A: When is Creative Mode coming? https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu
+
+##### [March 24th, 2020 Livestream](./2020-03-24.md)
+* [Q&A: Creative Mode without having to Mod?](./transcriptions/yt-ww37EE17YP4.md) https://www.youtube.com/watch?v=ww37EE17YP4
+* [Q&A: Wouldn't you split normal & Creative Mode then not allow switching?](./transcriptions/yt-7xTscBSrsY0.md) https://www.youtube.com/watch?v=7xTscBSrsY0
 
 ### [Third-Party Service Integration](./topics/features/possible-features/third-party-service-integration.md)
 

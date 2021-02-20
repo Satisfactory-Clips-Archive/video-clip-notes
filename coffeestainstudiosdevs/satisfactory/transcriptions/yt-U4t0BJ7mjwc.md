@@ -3,7 +3,7 @@ title: "January 26th, 2021 Livestream Q&A: Battle Royale mode?"
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/possible-features/game-modes/battle-royale"
     - "trolling"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=U4t0BJ7mjwc
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Possible Features > Game Modes > Battle Royale](../topics/features/possible-features/game-modes/battle-royale.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

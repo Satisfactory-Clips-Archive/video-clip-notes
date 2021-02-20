@@ -3,14 +3,14 @@ title: "September 8th, 2020 Livestream Q&A: Will there be a Peacfull Mode with n
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/possible-features/game-modes/peaceful-mode"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will there be a Peacfull Mode with no Hostile Creatures?
 https://www.youtube.com/watch?v=yS_1rXuvxFw
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
 
 ### Transcript
 

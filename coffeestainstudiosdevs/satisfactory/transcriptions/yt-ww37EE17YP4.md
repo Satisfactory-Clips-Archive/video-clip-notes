@@ -3,7 +3,7 @@ title: "March 24th, 2020 Livestream Q&A: Creative Mode without having to Mod?"
 date: "2020-03-24"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/possible-features/game-modes/creative-mode"
     - "mods/mods-vs-features"
 ---
 # [March 24th, 2020 Livestream](../2020-03-24.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=ww37EE17YP4
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 
 ### Transcript
