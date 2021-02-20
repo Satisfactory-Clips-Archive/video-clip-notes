@@ -17,7 +17,6 @@ date: Last Modified
 ## December 11th, 2020 Livestream
 * [Plutonium Waste](../../../../transcriptions/yt-njXBs_p2l1w,333.23290000000003,443.557086.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444
 
-
 ## December 1st, 2020 Livestream
 * [Q&A: How do we get rid of toxic waste?](../../../../transcriptions/yt-sag85tf3NQQ.md) https://www.youtube.com/watch?v=sag85tf3NQQ
 

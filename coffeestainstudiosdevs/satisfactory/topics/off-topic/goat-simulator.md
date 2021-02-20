@@ -35,7 +35,5 @@ date: Last Modified
 ## June 22nd, 2018 Livestream
 * [Q&A: Plans for post-launch?](../../transcriptions/yt-W1E6EWrAsII,120.52,176.6.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177
 
-
 ## March 9th, 2018 Livestream
 * [Q&A: Are the first two letters of your next game's title really "Sa" ?](../../transcriptions/yt-Zo2ybvs7keI,344.96,382.8.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383
-

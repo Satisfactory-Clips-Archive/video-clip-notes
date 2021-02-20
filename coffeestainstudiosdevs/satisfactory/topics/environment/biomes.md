@@ -50,7 +50,5 @@ date: Last Modified
 ## October 3rd, 2018 Livestream
 * [Q&A: Will all the tech* be available in the alpha?](../../transcriptions/yt-1OQk7vNt6-0,196.48,233.42.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234
 
-
 ## September 12th, 2018 Livestream
 * [Alpha's content focus](../../transcriptions/yt-31XJ1Q_glAw,96.88,169.44.md) https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170
-

@@ -6,16 +6,11 @@ date: Last Modified
 
 ## February 19th, 2021 Livestream
 * [Geothermal Generators](../../../transcriptions/yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198
-
-* Intro https://www.youtube.com/watch?v=yt-Tmpors_r_Vw%2C%2C26.259566666666668
+* [Intro](../../../transcriptions/yt-Tmpors_r_Vw,,26.259566666666668.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27
 * [Outro Surprise](../../../transcriptions/yt-Tmpors_r_Vw,266.43283333333335,323.323.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=266&end=324
-
 * [Power Storage](../../../transcriptions/yt-Tmpors_r_Vw,78.078,138.50503333333333.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139
-
 * [Power Switch](../../../transcriptions/yt-Tmpors_r_Vw,26.259566666666668,78.078.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=26&end=79
-
 * [Self Regulation of Power Generators being removed](../../../transcriptions/yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267
-
 
 ## February 16th, 2021 Livestream
 * [Q&A: Are you expecting a more stable release of the Engine Upgrade due to increased QA for Update 4?](../../../transcriptions/yt-mSo3tH9ZLR0.md) https://www.youtube.com/watch?v=mSo3tH9ZLR0
@@ -64,17 +59,11 @@ date: Last Modified
 
 ## February 5th, 2021 Livestream
 * [Nitrogen Gas Resource Well](../../../transcriptions/yt-rI5kRMSwo5Q,330.36336666666665,499.6992.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500
-
 * [UI Change - AWESOME Store](../../../transcriptions/yt-rI5kRMSwo5Q,75.54213333333334,189.92306666666667.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=75&end=190
-
 * [UI change - Open in Codex](../../../transcriptions/yt-rI5kRMSwo5Q,42.273444,75.54611.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76
-
 * [UI Change - Power Management](../../../transcriptions/yt-rI5kRMSwo5Q,286.05243333333334,330.36336666666665.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=286&end=331
-
 * [UI Change - Production UI](../../../transcriptions/yt-rI5kRMSwo5Q,189.92306666666667,263.8969666666667.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=189&end=264
-
 * [UI Change - Unreleased Building sneak-peek (don't tell anyone)](../../../transcriptions/yt-rI5kRMSwo5Q,263.8969666666667,286.05243333333334.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=263&end=287
-
 
 ## February 2nd, 2021 Livestream
 * [Q&A: Any changes to Logistics?](../../../transcriptions/yt-KuWALlTGzq0.md) https://www.youtube.com/watch?v=KuWALlTGzq0
@@ -156,14 +145,10 @@ date: Last Modified
 
 ## January 15th, 2021 Livestream
 * [Headlift for Gases](../../../transcriptions/yt-Jxh8kvtUuxY,100.56713333333333,136.00253333333333.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137
-
-* Intro https://www.youtube.com/watch?v=yt-Jxh8kvtUuxY%2C%2C46.3463
+* [Intro](../../../transcriptions/yt-Jxh8kvtUuxY,,46.3463.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47
 * [Nitrogen](../../../transcriptions/yt-Jxh8kvtUuxY,46.3463,56.38966666666667.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=46&end=57
-
 * [Resource Wells](../../../transcriptions/yt-Jxh8kvtUuxY,56.38966666666667,100.56713333333333.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101
-
 * [Q&A: What will Gases be used for?](../../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188
-
 
 ## January 12th, 2021 Livestream
 * [Q&A: Any early release previews for the update?](../../../transcriptions/yt-o1IfznnrGgc.md) https://www.youtube.com/watch?v=o1IfznnrGgc
@@ -185,23 +170,14 @@ date: Last Modified
 
 ## December 11th, 2020 Livestream
 * [Aluminum Casing](../../../transcriptions/yt-njXBs_p2l1w,245.57866666666666,333.23290000000003.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334
-
 * [Assembly Director System](../../../transcriptions/yt-njXBs_p2l1w,536.9364,640.7067333333333.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=536&end=641
-
 * [Coffee Stain R&D Factory](../../../transcriptions/yt-njXBs_p2l1w,124.9248,154.154.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155
-
 * [Magnetic Field Generator](../../../transcriptions/yt-njXBs_p2l1w,443.557086,536.9364.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=443&end=537
-
 * [New Parts coming in Update 4](../../../transcriptions/yt-njXBs_p2l1w,95.36193333333334,124.9248.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=95&end=125
-
 * [Outro](../../../transcriptions/yt-njXBs_p2l1w,713.1457666666666,757.1897666666666.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758
-
 * [Packaged Alumina Solution & Packaged Sulphuric Acid](../../../transcriptions/yt-njXBs_p2l1w,154.154,245.57866666666666.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246
-
 * [Plutonium Waste](../../../transcriptions/yt-njXBs_p2l1w,333.23290000000003,443.557086.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444
-
 * [Thermal Propulsion Rocket](../../../transcriptions/yt-njXBs_p2l1w,640.7067333333333,713.1457666666666.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=640&end=714
-
 
 ## December 8th, 2020 Livestream
 * [Q&A: Any Update 4 teaser videos?](../../../transcriptions/yt-ww5wd63vgFo.md) https://www.youtube.com/watch?v=ww5wd63vgFo

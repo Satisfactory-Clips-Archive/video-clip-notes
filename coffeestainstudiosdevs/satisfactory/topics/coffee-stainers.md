@@ -49,7 +49,6 @@ date: Last Modified
 ## December 11th, 2020 Livestream
 * [Outro](../transcriptions/yt-njXBs_p2l1w,713.1457666666666,757.1897666666666.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758
 
-
 ## October 9th, 2020 Livestream
 * [Snutt & Dylan Talk: Crash reporting](../transcriptions/yt-1QDj7pJa9DQ.md) https://www.youtube.com/watch?v=1QDj7pJa9DQ
 * [Dylan & Snutt Talk: Visual Studio vs. Rider](../transcriptions/yt-hc2OfgQZCvA.md) https://www.youtube.com/watch?v=hc2OfgQZCvA

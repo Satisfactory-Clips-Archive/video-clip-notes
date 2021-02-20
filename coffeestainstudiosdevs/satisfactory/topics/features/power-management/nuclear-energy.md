@@ -13,7 +13,6 @@ date: Last Modified
 ## December 11th, 2020 Livestream
 * [Plutonium Waste](../../../transcriptions/yt-njXBs_p2l1w,333.23290000000003,443.557086.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444
 
-
 ## November 10th, 2020 Livestream
 * [Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?](../../../transcriptions/yt-2SqpfMeDmcw.md) https://www.youtube.com/watch?v=2SqpfMeDmcw
 * [Q&A: Nuclear removal when?](../../../transcriptions/yt-q-Z32Ff5_Pg.md) https://www.youtube.com/watch?v=q-Z32Ff5_Pg

@@ -43,7 +43,6 @@ date: Last Modified
 ## December 11th, 2020 Livestream
 * [Coffee Stain R&D Factory](../transcriptions/yt-njXBs_p2l1w,124.9248,154.154.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155
 
-
 ## December 8th, 2020 Livestream
 * [State of Dev: Blame Simon](../transcriptions/yt-H4gyZoXsfo0.md) https://www.youtube.com/watch?v=H4gyZoXsfo0
 * [Q&A: Cyberpunk cross-over when?](../transcriptions/yt-GJMD7L7BLxE.md) https://www.youtube.com/watch?v=GJMD7L7BLxE
@@ -111,22 +110,16 @@ date: Last Modified
 
 ## December 25th, 2018 Livestream
 * ["Candid" video](../transcriptions/yt-S_AKfh38880,73.8,157.12.md) https://youtube.com/embed/S_AKfh38880?autoplay=1&start=73&end=158
-
-* Intro https://www.youtube.com/watch?v=yt-S_AKfh38880%2C%2C73.8
+* [Intro](../transcriptions/yt-S_AKfh38880,,73.8.md) https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74
 * [Outro](../transcriptions/yt-S_AKfh38880,157.12,193.2.md) https://youtube.com/embed/S_AKfh38880?autoplay=1&start=157&end=194
-
 
 ## November 23rd, 2018 Livestream
 * [Q&A: Are your games going to be full of Microtransactions now?](../transcriptions/yt-1UqIDp_byFc,88.32,103.98.md) https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=88&end=104
-
 * End Tag https://www.youtube.com/watch?v=yt-1UqIDp_byFc%2C275.2
 
 ## August 1st, 2018 Livestream
 * [Q&A: But... will there be Pipes?](../transcriptions/yt-iFAy1NZUOGU,275.24,323.24.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324
-
 * [Q&A: How much will the game cost when it's released?](../transcriptions/yt-iFAy1NZUOGU,99.44,119.72.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120
-
 
 ## March 9th, 2018 Livestream
 * [Q&A: Are the first two letters of your next game's title really "Sa" ?](../transcriptions/yt-Zo2ybvs7keI,344.96,382.8.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383
-

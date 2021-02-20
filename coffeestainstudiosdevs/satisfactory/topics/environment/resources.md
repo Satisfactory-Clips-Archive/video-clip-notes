@@ -12,7 +12,6 @@ date: Last Modified
 ## February 19th, 2021 Livestream
 * [Self Regulation of Power Generators being removed](../../transcriptions/yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267
 
-
 ## February 9th, 2021 Livestream
 * [Q&A: Are you able to confirm what resources can be pulled using the Resource Well Extractor?](../../transcriptions/yt-vlDuVpHyfVs.md) https://www.youtube.com/watch?v=vlDuVpHyfVs
 * Q&A: Can we use Turbofuel for new things in Update 4? https://www.youtube.com/watch?v=KQmKBaywHHw
@@ -27,7 +26,6 @@ date: Last Modified
 
 ## December 11th, 2020 Livestream
 * [Aluminum Casing](../../transcriptions/yt-njXBs_p2l1w,245.57866666666666,333.23290000000003.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334
-
 
 ## December 8th, 2020 Livestream
 * [Q&A: Please reintroduce the Mining mini-game?](../../transcriptions/yt-LTpEW1G0VH0.md) https://www.youtube.com/watch?v=LTpEW1G0VH0
@@ -80,24 +78,15 @@ date: Last Modified
 
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
-
 * [Reinforced Iron Plates being created](../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569
-
 * [Smelting Iron](../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275
-
 * [Storing some items for later](../../transcriptions/yt-J_Dznt1OG-0,568.31775,885.815429.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886
-
 * [Using Iron Ingots to eventually make Screws](../../transcriptions/yt-J_Dznt1OG-0,274.440833,365.9656.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366
-
 * [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516
-
 
 ## August 1st, 2018 Livestream
 * [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100
-
 * [Q&A: Is there research or a tech tree in the game?](../../transcriptions/yt-iFAy1NZUOGU,147.92,170.36.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171
-
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Is the Map procedurally generated?](../../transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346
-

@@ -44,7 +44,6 @@ date: Last Modified
 ## December 11th, 2020 Livestream
 * [Outro](../transcriptions/yt-njXBs_p2l1w,713.1457666666666,757.1897666666666.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758
 
-
 ## December 8th, 2020 Livestream
 * [Q&A: How do you use the feedback from us when we play the game?](../transcriptions/yt-yEMTgjDHzI8.md) https://www.youtube.com/watch?v=yEMTgjDHzI8
 * [Q&A: What's the most outrageous suggestion you've gotten from the community?](../transcriptions/yt-8T_tAhaxVvw.md) https://www.youtube.com/watch?v=8T_tAhaxVvw

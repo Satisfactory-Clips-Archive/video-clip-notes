@@ -73,4 +73,3 @@ date: Last Modified
 
 ## August 1st, 2018 Livestream
 * [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100
-

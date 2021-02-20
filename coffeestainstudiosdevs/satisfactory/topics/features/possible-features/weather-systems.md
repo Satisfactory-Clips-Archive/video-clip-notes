@@ -40,4 +40,3 @@ date: Last Modified
 
 ## August 1st, 2018 Livestream
 * [Q&A: Is there Weather in the game?](../../../transcriptions/yt-iFAy1NZUOGU,58.6,60.36.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61
-

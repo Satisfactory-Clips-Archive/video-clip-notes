@@ -27,15 +27,10 @@ date: Last Modified
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Plans for post-launch?](../../transcriptions/yt-W1E6EWrAsII,120.52,176.6.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177
-
 * [Q&A: Will we need to defend our factory?](../../transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215
-
 
 ## March 9th, 2018 Livestream
 * [Q&A: Are the first two letters of your next game's title really "Sa" ?](../../transcriptions/yt-Zo2ybvs7keI,344.96,382.8.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383
-
 * [Q&A: Sanctum 3?](../../transcriptions/yt-Zo2ybvs7keI,502.32,614.16.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615
-
 * Q&A: What did it feel like when you made the decision to announce Sanctum 3 this friday? https://www.youtube.com/watch?v=yt-Zo2ybvs7keI%2C645.8
 * [Q&A: What is your favourite character from Sanctum?](../../transcriptions/yt-Zo2ybvs7keI,428.16,439.88.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=428&end=440
-

@@ -10,7 +10,6 @@ date: Last Modified
 ## January 15th, 2021 Livestream
 * [Q&A: What will Gases be used for?](../../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188
 
-
 ## January 12th, 2021 Livestream
 * State of Dev - FICS⁕MAS https://www.youtube.com/watch?v=dnkH1mqdCKI
 
@@ -23,9 +22,8 @@ date: Last Modified
 * [Q&A: Will the event come back next year?](../../../transcriptions/yt-6XovxrktCDA.md) https://www.youtube.com/watch?v=6XovxrktCDA
 
 ## December 11th, 2020 Livestream
-* Intro https://www.youtube.com/watch?v=yt-njXBs_p2l1w%2C%2C95.36193333333334
+* [Intro](../../../transcriptions/yt-njXBs_p2l1w,,95.36193333333334.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=0&end=96
 * [Packaged Alumina Solution & Packaged Sulphuric Acid](../../../transcriptions/yt-njXBs_p2l1w,154.154,245.57866666666666.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246
-
 
 ## December 8th, 2020 Livestream
 * [Q&A: Do you know what caused the Lizard Doggos to be super-janky at the launch of FICS⁕MAS?](../../../transcriptions/yt-4M85D1XUDlU.md) https://www.youtube.com/watch?v=4M85D1XUDlU

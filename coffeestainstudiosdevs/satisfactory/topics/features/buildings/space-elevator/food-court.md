@@ -16,4 +16,3 @@ date: Last Modified
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Is that a Space Elevator at the end of the trailer?](../../../../transcriptions/yt-W1E6EWrAsII,421.68,434.4.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=421&end=435
-

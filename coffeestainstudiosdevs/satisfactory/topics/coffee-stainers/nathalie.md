@@ -23,4 +23,3 @@ date: Last Modified
 
 ## March 9th, 2018 Livestream
 * [Q&A: Who is the better colleague, Nathalie or Hannah?](../../transcriptions/yt-Zo2ybvs7keI,300.32,310.36.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=300&end=311
-

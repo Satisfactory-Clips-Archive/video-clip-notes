@@ -33,7 +33,6 @@ date: Last Modified
 ## February 5th, 2021 Livestream
 * [UI Change - Production UI](../../transcriptions/yt-rI5kRMSwo5Q,189.92306666666667,263.8969666666667.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=189&end=264
 
-
 ## January 26th, 2021 Livestream
 * [Q&A: Any plans for deterioration or maintenance mechanics for Buildings?](../../transcriptions/yt-W8Ia5yx0n-k.md) https://www.youtube.com/watch?v=W8Ia5yx0n-k
 * [Q&A: Any thoughts on letting you have a planning tool mode?](../../transcriptions/yt-MFCmy7atLDk.md) https://www.youtube.com/watch?v=MFCmy7atLDk
@@ -176,6 +175,4 @@ date: Last Modified
 
 ## August 1st, 2018 Livestream
 * [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100
-
 * [Q&A: Is there research or a tech tree in the game?](../../transcriptions/yt-iFAy1NZUOGU,147.92,170.36.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171
-

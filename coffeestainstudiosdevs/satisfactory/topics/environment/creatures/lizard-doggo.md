@@ -77,4 +77,3 @@ date: Last Modified
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Will there be Lizard Doggo plushies?](../../../transcriptions/yt-W1E6EWrAsII,214.36,238.12.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239
-

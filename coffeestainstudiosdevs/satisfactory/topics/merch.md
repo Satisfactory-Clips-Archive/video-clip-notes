@@ -33,7 +33,7 @@ date: Last Modified
 * [Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy?](../transcriptions/yt-PYyvu8feZqA.md) https://www.youtube.com/watch?v=PYyvu8feZqA
 
 ## December 11th, 2020 Livestream
-* Intro https://www.youtube.com/watch?v=yt-njXBs_p2l1w%2C%2C95.36193333333334
+* [Intro](../transcriptions/yt-njXBs_p2l1w,,95.36193333333334.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=0&end=96
 
 ## November 24th, 2020 Livestream
 * [Snutt & Jace Talk: State of Dev](../transcriptions/yt-uYPhHTSL6Ys.md) https://www.youtube.com/watch?v=uYPhHTSL6Ys
@@ -132,4 +132,3 @@ date: Last Modified
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Will there be Lizard Doggo plushies?](../transcriptions/yt-W1E6EWrAsII,214.36,238.12.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239
-

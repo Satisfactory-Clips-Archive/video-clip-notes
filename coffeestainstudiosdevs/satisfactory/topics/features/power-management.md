@@ -10,20 +10,16 @@ date: Last Modified
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
 ## February 19th, 2021 Livestream
-* Intro https://www.youtube.com/watch?v=yt-Tmpors_r_Vw%2C%2C26.259566666666668
+* [Intro](../../transcriptions/yt-Tmpors_r_Vw,,26.259566666666668.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27
 * [Power Storage](../../transcriptions/yt-Tmpors_r_Vw,78.078,138.50503333333333.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139
-
 * [Power Switch](../../transcriptions/yt-Tmpors_r_Vw,26.259566666666668,78.078.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=26&end=79
-
 * [Self Regulation of Power Generators being removed](../../transcriptions/yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267
-
 
 ## February 9th, 2021 Livestream
 * [Community FYI: There's a Mod called the "Smart!" mod, that makes basic building less time consuming](../../transcriptions/yt-0e_pXEulvY8.md) https://www.youtube.com/watch?v=0e_pXEulvY8
 
 ## February 5th, 2021 Livestream
 * [UI Change - Power Management](../../transcriptions/yt-rI5kRMSwo5Q,286.05243333333334,330.36336666666665.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=286&end=331
-
 
 ## January 19th, 2021 Livestream
 * [Q&A: Any plans to daisy-chain Buildings together to not have Power Poles everywhere?](../../transcriptions/yt-wFyEOXvO1bA.md) https://www.youtube.com/watch?v=wFyEOXvO1bA
@@ -40,7 +36,6 @@ date: Last Modified
 
 ## January 15th, 2021 Livestream
 * [Q&A: What will Gases be used for?](../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188
-
 
 ## December 15th, 2020 Livestream
 * [Q&A: What will happen to the FICS⁕MAS power lines after the event?](../../transcriptions/yt-Gt9an2au_YU.md) https://www.youtube.com/watch?v=Gt9an2au_YU
@@ -116,6 +111,4 @@ date: Last Modified
 
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
-
 * [Smelting Iron](../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275
-

@@ -76,6 +76,4 @@ date: Last Modified
 
 ## July 19th, 2018 Livestream
 * [Tractor](../../../transcriptions/yt-IxoCzb2M0vQ,88.366511,130.550701.md) https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=88&end=131
-
 * [Train](../../../transcriptions/yt-IxoCzb2M0vQ,424.68,501.2.md) https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=424&end=502
-

@@ -27,7 +27,5 @@ date: Last Modified
 ## October 3rd, 2018 Livestream
 * [Q&A: Localisation/Translation?](../transcriptions/yt-1OQk7vNt6-0,261.62,292.16.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=261&end=293
 
-
 ## June 22nd, 2018 Livestream
 * [Q&A: Will you localise Satisfactory into x language?](../transcriptions/yt-W1E6EWrAsII,345.76,375.64.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=345&end=376
-

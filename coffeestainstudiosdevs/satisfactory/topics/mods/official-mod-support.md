@@ -42,4 +42,3 @@ date: Last Modified
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Will there be mods?](../../transcriptions/yt-W1E6EWrAsII,91.24,120.52.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121
-

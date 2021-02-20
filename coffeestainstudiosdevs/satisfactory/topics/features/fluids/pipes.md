@@ -14,7 +14,6 @@ date: Last Modified
 ## January 15th, 2021 Livestream
 * [Headlift for Gases](../../../transcriptions/yt-Jxh8kvtUuxY,100.56713333333333,136.00253333333333.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137
 
-
 ## December 15th, 2020 Livestream
 * [Q&A: Walls & Handrails, be able to place like Pipes?](../../../transcriptions/yt-LFH3YB0pV24.md) https://www.youtube.com/watch?v=LFH3YB0pV24
 
@@ -81,4 +80,3 @@ date: Last Modified
 
 ## August 1st, 2018 Livestream
 * [Q&A: But... will there be Pipes?](../../../transcriptions/yt-iFAy1NZUOGU,275.24,323.24.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324
-

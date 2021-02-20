@@ -15,9 +15,7 @@ date: Last Modified
 
 ## December 11th, 2020 Livestream
 * [Aluminum Casing](../../transcriptions/yt-njXBs_p2l1w,245.57866666666666,333.23290000000003.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334
-
 * [New Parts coming in Update 4](../../transcriptions/yt-njXBs_p2l1w,95.36193333333334,124.9248.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=95&end=125
-
 
 ## October 13th, 2020 Livestream
 * [Q&A: Is it possible to use the add to-do list without visiting the crafting bench?](../../transcriptions/yt-ValaMW93Q7g.md) https://www.youtube.com/watch?v=ValaMW93Q7g
@@ -52,12 +50,7 @@ date: Last Modified
 
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
-
 * [Reinforced Iron Plates being created](../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569
-
 * [Smelting Iron](../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275
-
 * [Using Iron Ingots to eventually make Screws](../../transcriptions/yt-J_Dznt1OG-0,274.440833,365.9656.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366
-
 * [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516
-

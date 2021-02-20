@@ -184,17 +184,12 @@ date: Last Modified
 ## October 3rd, 2018 Livestream
 * [Q&A: Will all the tech* be available in the alpha?](../../transcriptions/yt-1OQk7vNt6-0,196.48,233.42.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234
 
-
 ## September 12th, 2018 Livestream
 * [Alpha's content focus](../../transcriptions/yt-31XJ1Q_glAw,96.88,169.44.md) https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170
-
 
 ## August 1st, 2018 Livestream
 * [Q&A: Won't the factory stop working if you're really far away?](../../transcriptions/yt-iFAy1NZUOGU,170.36,188.8.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=170&end=189
 
-
 ## June 22nd, 2018 Livestream
 * [Q&A: Is the Map procedurally generated?](../../transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346
-
 * [Q&A: Is there a height limit in the game?](../../transcriptions/yt-W1E6EWrAsII,434.4,492.52.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=434&end=493
-

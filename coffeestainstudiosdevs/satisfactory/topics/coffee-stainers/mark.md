@@ -7,7 +7,6 @@ date: Last Modified
 ## February 19th, 2021 Livestream
 * [Self Regulation of Power Generators being removed](../../transcriptions/yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267
 
-
 ## February 16th, 2021 Livestream
 * [Q&A: Any plan on encourage closed-building / discourage open-building factory with game mechanics?](../../transcriptions/yt-a5IClCte1go.md) https://www.youtube.com/watch?v=a5IClCte1go
 * [Q&A: Anything interesting in the analytics?](../../transcriptions/yt-BMQs1ci2YXo.md) https://www.youtube.com/watch?v=BMQs1ci2YXo

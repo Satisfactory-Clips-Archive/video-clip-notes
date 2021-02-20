@@ -63,7 +63,7 @@ date: Last Modified
 * [Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update?](../../transcriptions/yt-6BahsrvlPJs.md) https://www.youtube.com/watch?v=6BahsrvlPJs
 
 ## December 11th, 2020 Livestream
-* Intro https://www.youtube.com/watch?v=yt-njXBs_p2l1w%2C%2C95.36193333333334
+* [Intro](../../transcriptions/yt-njXBs_p2l1w,,95.36193333333334.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=0&end=96
 
 ## December 8th, 2020 Livestream
 * [Q&A: Are Coffee Stain looking for Unreal Engine programmers - do you hire remotely?](../../transcriptions/yt-sI7zMjVad1c.md) https://www.youtube.com/watch?v=sI7zMjVad1c

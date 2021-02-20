@@ -6,9 +6,7 @@ date: Last Modified
 
 ## February 19th, 2021 Livestream
 * [Geothermal Generators](../../transcriptions/yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198
-
 * [Power Switch](../../transcriptions/yt-Tmpors_r_Vw,26.259566666666668,78.078.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=26&end=79
-
 
 ## February 9th, 2021 Livestream
 * [Q&A: Are Truck Stations & Freight Platforms a part of the UI Update?](../../transcriptions/yt-ANyv9_88k0A.md) https://www.youtube.com/watch?v=ANyv9_88k0A
@@ -24,17 +22,11 @@ date: Last Modified
 
 ## February 5th, 2021 Livestream
 * [Nitrogen Gas Resource Well](../../transcriptions/yt-rI5kRMSwo5Q,330.36336666666665,499.6992.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500
-
 * [UI Change - AWESOME Store](../../transcriptions/yt-rI5kRMSwo5Q,75.54213333333334,189.92306666666667.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=75&end=190
-
 * [UI change - Open in Codex](../../transcriptions/yt-rI5kRMSwo5Q,42.273444,75.54611.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76
-
 * [UI Change - Power Management](../../transcriptions/yt-rI5kRMSwo5Q,286.05243333333334,330.36336666666665.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=286&end=331
-
 * [UI Change - Production UI](../../transcriptions/yt-rI5kRMSwo5Q,189.92306666666667,263.8969666666667.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=189&end=264
-
 * [UI Change - Unreleased Building sneak-peek (don't tell anyone)](../../transcriptions/yt-rI5kRMSwo5Q,263.8969666666667,286.05243333333334.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=263&end=287
-
 
 ## February 2nd, 2021 Livestream
 * [Q&A: Speaking of Trains, you can't access the demolish menu?](../../transcriptions/yt-CIk2IbhBuCA.md) https://www.youtube.com/watch?v=CIk2IbhBuCA
@@ -171,10 +163,8 @@ date: Last Modified
 ## November 8th, 2018 Livestream
 * [Storing some items for later](../../transcriptions/yt-J_Dznt1OG-0,568.31775,885.815429.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886
 
-
 ## August 1st, 2018 Livestream
-* Q&A: Will there be a top-down view? https://www.youtube.com/watch?v=yt-iFAy1NZUOGU%2C29%2C58.6
+* [Q&A: Will there be a top-down view?](../../transcriptions/yt-iFAy1NZUOGU,29,58.6.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=29&end=59
 
 ## July 19th, 2018 Livestream
 * [Vehicle Autopilot](../../transcriptions/yt-IxoCzb2M0vQ,130.550701,249.6.md) https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=130&end=250
-

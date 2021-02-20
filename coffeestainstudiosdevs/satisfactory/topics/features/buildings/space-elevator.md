@@ -13,11 +13,8 @@ date: Last Modified
 
 ## December 11th, 2020 Livestream
 * [Assembly Director System](../../../transcriptions/yt-njXBs_p2l1w,536.9364,640.7067333333333.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=536&end=641
-
 * [Magnetic Field Generator](../../../transcriptions/yt-njXBs_p2l1w,443.557086,536.9364.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=443&end=537
-
 * [Thermal Propulsion Rocket](../../../transcriptions/yt-njXBs_p2l1w,640.7067333333333,713.1457666666666.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=640&end=714
-
 
 ## September 8th, 2020 Livestream
 * [Q&A: View of Satisfactory played from the top of the Space Elevator and it's an RTS?](../../../transcriptions/yt-GtVVUPWrKYk.md) https://www.youtube.com/watch?v=GtVVUPWrKYk
@@ -39,4 +36,3 @@ date: Last Modified
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Is that a Space Elevator at the end of the trailer?](../../../transcriptions/yt-W1E6EWrAsII,421.68,434.4.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=421&end=435
-

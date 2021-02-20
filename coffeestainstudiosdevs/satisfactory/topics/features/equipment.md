@@ -46,4 +46,3 @@ date: Last Modified
 
 ## August 1st, 2018 Livestream
 * [Q&A: Is there research or a tech tree in the game?](../../transcriptions/yt-iFAy1NZUOGU,147.92,170.36.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171
-

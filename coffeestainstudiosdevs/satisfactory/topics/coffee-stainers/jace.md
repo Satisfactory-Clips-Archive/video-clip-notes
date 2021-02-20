@@ -53,9 +53,7 @@ date: Last Modified
 
 ## December 11th, 2020 Livestream
 * [Coffee Stain R&D Factory](../../transcriptions/yt-njXBs_p2l1w,124.9248,154.154.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155
-
 * [Packaged Alumina Solution & Packaged Sulphuric Acid](../../transcriptions/yt-njXBs_p2l1w,154.154,245.57866666666666.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246
-
 
 ## November 24th, 2020 Livestream
 * [Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?](../../transcriptions/yt-a1eSZz7wksU.md) https://www.youtube.com/watch?v=a1eSZz7wksU
@@ -109,12 +107,11 @@ date: Last Modified
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) https://www.youtube.com/watch?v=2tTlAAZMBPw
 
 ## December 25th, 2018 Livestream
-* Intro https://www.youtube.com/watch?v=yt-S_AKfh38880%2C%2C73.8
+* [Intro](../../transcriptions/yt-S_AKfh38880,,73.8.md) https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74
 
 ## November 23rd, 2018 Livestream
-* Intro https://www.youtube.com/watch?v=yt-1UqIDp_byFc%2C%2C36.12
+* [Intro](../../transcriptions/yt-1UqIDp_byFc,,36.12.md) https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=0&end=37
 * [Jace's opinion re: THQ Nordic](../../transcriptions/yt-1UqIDp_byFc,174.32,248.62.md) https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=174&end=249
-
 
 ## July 19th, 2018 Livestream
 * End Tag https://www.youtube.com/watch?v=yt-IxoCzb2M0vQ%2C562.24
@@ -122,9 +119,6 @@ date: Last Modified
 ## March 9th, 2018 Livestream
 * [Q&A: Coffee or tea?](../../transcriptions/yt-Zo2ybvs7keI,492.44,502.32.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503
 
-
 ## November 17th, 2017 Livestream
 * [How can we be friends if you know nothing about me?](../../transcriptions/yt-6HZzPbgw3pg,72.16,127.08.md) https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=72&end=128
-
 * [Why would we need a Community Manager now?](../../transcriptions/yt-6HZzPbgw3pg,127.08,170.16.md) https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171
-

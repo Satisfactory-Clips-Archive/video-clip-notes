@@ -18,7 +18,6 @@ date: Last Modified
 ## January 15th, 2021 Livestream
 * [Q&A: What will Gases be used for?](../../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188
 
-
 ## January 12th, 2021 Livestream
 * [Q&A: Any early release previews for the update?](../../../transcriptions/yt-o1IfznnrGgc.md) https://www.youtube.com/watch?v=o1IfznnrGgc
 * [Q&A: Can we blend Lizard Doggos in the new Blender?](../../../transcriptions/yt-Keprp2vxOM8.md) https://www.youtube.com/watch?v=Keprp2vxOM8

@@ -19,7 +19,6 @@ date: Last Modified
 ## December 11th, 2020 Livestream
 * [Magnetic Field Generator](../../transcriptions/yt-njXBs_p2l1w,443.557086,536.9364.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=443&end=537
 
-
 ## November 10th, 2020 Livestream
 * [Q&A: Does the Pioneer have any lore or is she just a random worker person?](../../transcriptions/yt-0V_fsSPIEHA.md) https://www.youtube.com/watch?v=0V_fsSPIEHA
 
@@ -49,4 +48,3 @@ date: Last Modified
 
 ## November 8th, 2018 Livestream
 * [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516
-

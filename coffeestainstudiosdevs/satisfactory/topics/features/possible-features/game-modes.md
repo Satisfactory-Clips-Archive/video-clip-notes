@@ -94,4 +94,4 @@ date: Last Modified
 * [Q&A: Will there be a creative mode?](../../../transcriptions/yt-eIPuM39KDcE.md) https://www.youtube.com/watch?v=eIPuM39KDcE
 
 ## August 1st, 2018 Livestream
-* Q&A: Will there be a Creative Mode? https://www.youtube.com/watch?v=yt-iFAy1NZUOGU%2C14%2C29
+* [Q&A: Will there be a Creative Mode?](../../../transcriptions/yt-iFAy1NZUOGU,14,29.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29

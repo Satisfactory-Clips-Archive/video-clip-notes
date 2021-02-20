@@ -7,7 +7,6 @@ date: Last Modified
 ## February 19th, 2021 Livestream
 * [Geothermal Generators](../../../transcriptions/yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198
 
-
 ## February 16th, 2021 Livestream
 * [Q&A: Are there changes planned for Geothermal?](../../../transcriptions/yt-XCMncMB0z50.md) https://www.youtube.com/watch?v=XCMncMB0z50
 

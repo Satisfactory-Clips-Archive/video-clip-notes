@@ -8,7 +8,6 @@ date: Last Modified
 ## February 19th, 2021 Livestream
 * [Power Storage](../../transcriptions/yt-Tmpors_r_Vw,78.078,138.50503333333333.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139
 
-
 ## February 9th, 2021 Livestream
 * [Q&A: Are colour blind mode settings coming, like making indicator lights flashing again?](../../transcriptions/yt-4acLhZvD1PU.md) https://www.youtube.com/watch?v=4acLhZvD1PU
 

@@ -12,7 +12,6 @@ date: Last Modified
 ## December 11th, 2020 Livestream
 * [Packaged Alumina Solution & Packaged Sulphuric Acid](../../../transcriptions/yt-njXBs_p2l1w,154.154,245.57866666666666.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246
 
-
 ## November 10th, 2020 Livestream
 * [Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?](../../../transcriptions/yt-SJI1puC2mEw.md) https://www.youtube.com/watch?v=SJI1puC2mEw
 

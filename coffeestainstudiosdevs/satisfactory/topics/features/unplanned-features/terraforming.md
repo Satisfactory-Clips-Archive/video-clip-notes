@@ -27,4 +27,3 @@ date: Last Modified
 
 ## August 1st, 2018 Livestream
 * [Q&A: Will there be landscape deformation or Terraforming?](../../../transcriptions/yt-iFAy1NZUOGU,62.6,66.08.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67
-

@@ -137,4 +137,3 @@ date: Last Modified
 
 ## June 22nd, 2018 Livestream
 * [Jace Talk: General multiplayer questions](../../../transcriptions/yt-W1E6EWrAsII,256.8,316.92.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317
-

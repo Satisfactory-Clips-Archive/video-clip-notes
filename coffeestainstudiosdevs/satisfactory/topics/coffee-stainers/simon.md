@@ -47,16 +47,11 @@ date: Last Modified
 
 ## October 3rd, 2018 Livestream
 * [Q&A: Localisation/Translation?](../../transcriptions/yt-1OQk7vNt6-0,261.62,292.16.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=261&end=293
-
 * [Q&A: Release Date?](../../transcriptions/yt-1OQk7vNt6-0,292.16,358.62.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=292&end=359
-
 
 ## August 1st, 2018 Livestream
 * [Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](../../transcriptions/yt-iFAy1NZUOGU,208.96,227.8.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228
 
-
 ## June 22nd, 2018 Livestream
 * [Jace Talk: General multiplayer questions](../../transcriptions/yt-W1E6EWrAsII,256.8,316.92.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317
-
 * [Q&A: Let's talk about Simon?](../../transcriptions/yt-W1E6EWrAsII,520.44,538.52.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=520&end=539
-

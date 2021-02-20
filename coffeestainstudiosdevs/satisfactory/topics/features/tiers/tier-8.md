@@ -14,13 +14,11 @@ date: Last Modified
 ## January 15th, 2021 Livestream
 * [Q&A: What will Gases be used for?](../../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188
 
-
 ## December 15th, 2020 Livestream
 * [Q&A: Have you confirmed Superposition Oscillators and Quantum Computers to be buildable in Tier 8?](../../../transcriptions/yt-fmE3DQFeVGk.md) https://www.youtube.com/watch?v=fmE3DQFeVGk
 
 ## December 11th, 2020 Livestream
 * [Aluminum Casing](../../../transcriptions/yt-njXBs_p2l1w,245.57866666666666,333.23290000000003.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334
-
 
 ## December 8th, 2020 Livestream
 * [Q&A: Is Tier 8 last Tier for the game?](../../../transcriptions/yt-FhoIzj_QLm0.md) https://www.youtube.com/watch?v=FhoIzj_QLm0

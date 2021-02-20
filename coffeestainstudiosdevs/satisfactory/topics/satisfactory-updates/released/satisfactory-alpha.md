@@ -30,50 +30,30 @@ date: Last Modified
 
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
-
 * [Reinforced Iron Plates being created](../../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569
-
 * [Smelting Iron](../../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275
-
 * [Storing some items for later](../../../transcriptions/yt-J_Dznt1OG-0,568.31775,885.815429.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886
-
 * [Using Iron Ingots to eventually make Screws](../../../transcriptions/yt-J_Dznt1OG-0,274.440833,365.9656.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366
-
 * [Using Iron Ingots to make Iron Plates](../../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516
-
 
 ## October 3rd, 2018 Livestream
 * [Q&A: But what if I still don't get an alpha key?](../../../transcriptions/yt-1OQk7vNt6-0,84.52,92.08.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=84&end=93
-
 * [Q&A: How long will the Alpha last?](../../../transcriptions/yt-1OQk7vNt6-0,92.08,102.64.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=92&end=103
-
 * [Q&A: How many people will be selected for the Alpha?](../../../transcriptions/yt-1OQk7vNt6-0,28.38,84.52.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=28&end=85
-
 * [Q&A: Localisation/Translation?](../../../transcriptions/yt-1OQk7vNt6-0,261.62,292.16.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=261&end=293
-
 * [Q&A: Release Date?](../../../transcriptions/yt-1OQk7vNt6-0,292.16,358.62.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=292&end=359
-
 * [Q&A: What is the selection process going to be like?](../../../transcriptions/yt-1OQk7vNt6-0,102.64,147.1.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=102&end=148
-
 * [Q&A: Will all the tech* be available in the alpha?](../../../transcriptions/yt-1OQk7vNt6-0,196.48,233.42.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234
-
 * [Q&A: Will the Alpha be single-player or multiplayer?](../../../transcriptions/yt-1OQk7vNt6-0,147.1,196.48.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=147&end=197
-
 * [Q&A: Will there be an NDA?](../../../transcriptions/yt-1OQk7vNt6-0,233.42,261.62.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=233&end=262
-
 
 ## September 12th, 2018 Livestream
 * [Alpha's content focus](../../../transcriptions/yt-31XJ1Q_glAw,96.88,169.44.md) https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170
-
 * [Alpha launch date](../../../transcriptions/yt-31XJ1Q_glAw,76.44,96.88.md) https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=76&end=97
-
 * [pushing the Alpha back](../../../transcriptions/yt-31XJ1Q_glAw,33.2,76.44.md) https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=33&end=77
-
 
 ## August 1st, 2018 Livestream
 * [Q&A: Any more news on the alpha? Can we pay to get in?](../../../transcriptions/yt-iFAy1NZUOGU,68.24,72.44.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=68&end=73
 
-
 ## June 22nd, 2018 Livestream
 * [Q&A: How many Alpha Keys will there be?](../../../transcriptions/yt-W1E6EWrAsII,238.12,256.8.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=238&end=257
-

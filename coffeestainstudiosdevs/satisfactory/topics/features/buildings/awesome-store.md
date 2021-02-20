@@ -10,7 +10,6 @@ date: Last Modified
 ## February 5th, 2021 Livestream
 * [UI Change - AWESOME Store](../../../transcriptions/yt-rI5kRMSwo5Q,75.54213333333334,189.92306666666667.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=75&end=190
 
-
 ## February 2nd, 2021 Livestream
 * [Q&A: Will we be getting more Walls and other building stuff in vanilla?](../../../transcriptions/yt-Y9m96T9a5qU.md) https://www.youtube.com/watch?v=Y9m96T9a5qU
 

@@ -10,4 +10,3 @@ date: Last Modified
 
 ## July 19th, 2018 Livestream
 * [Vehicle Autopilot](../../../../transcriptions/yt-IxoCzb2M0vQ,130.550701,249.6.md) https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=130&end=250
-

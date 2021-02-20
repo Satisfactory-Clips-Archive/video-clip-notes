@@ -11,7 +11,6 @@ date: Last Modified
 ## February 5th, 2021 Livestream
 * [Nitrogen Gas Resource Well](../../transcriptions/yt-rI5kRMSwo5Q,330.36336666666665,499.6992.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500
 
-
 ## February 2nd, 2021 Livestream
 * [Q&A: Are Gases going to work like Liquids?](../../transcriptions/yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
 
@@ -32,14 +31,10 @@ date: Last Modified
 
 ## January 15th, 2021 Livestream
 * [Headlift for Gases](../../transcriptions/yt-Jxh8kvtUuxY,100.56713333333333,136.00253333333333.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137
-
-* Intro https://www.youtube.com/watch?v=yt-Jxh8kvtUuxY%2C%2C46.3463
+* [Intro](../../transcriptions/yt-Jxh8kvtUuxY,,46.3463.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47
 * [Nitrogen](../../transcriptions/yt-Jxh8kvtUuxY,46.3463,56.38966666666667.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=46&end=57
-
 * [Resource Wells](../../transcriptions/yt-Jxh8kvtUuxY,56.38966666666667,100.56713333333333.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101
-
 * [Q&A: What will Gases be used for?](../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188
-
 
 ## August 25th, 2020 Livestream
 * [Q&A: Explosive Barrels of Gas we can send through the rail guns ?](../../transcriptions/yt-e4iY6zivsbU.md) https://www.youtube.com/watch?v=e4iY6zivsbU

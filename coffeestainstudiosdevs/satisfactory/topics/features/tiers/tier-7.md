@@ -27,10 +27,8 @@ date: Last Modified
 ## January 15th, 2021 Livestream
 * [Q&A: What will Gases be used for?](../../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188
 
-
 ## December 11th, 2020 Livestream
 * [Aluminum Casing](../../../transcriptions/yt-njXBs_p2l1w,245.57866666666666,333.23290000000003.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334
-
 
 ## December 8th, 2020 Livestream
 * [Snutt Talk: Update 4 Tier 7 changes & Early Access](../../../transcriptions/yt-X9X9MsVbDAk.md) https://www.youtube.com/watch?v=X9X9MsVbDAk

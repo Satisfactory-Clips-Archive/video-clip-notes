@@ -36,6 +36,4 @@ date: Last Modified
 
 ## November 8th, 2018 Livestream
 * [Reinforced Iron Plates being created](../../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569
-
 * [Storing some items for later](../../../transcriptions/yt-J_Dznt1OG-0,568.31775,885.815429.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886
-

@@ -21,4 +21,3 @@ date: Last Modified
 
 ## August 1st, 2018 Livestream
 * [Q&A: Will there be Steam achievements?](../../../../transcriptions/yt-iFAy1NZUOGU,119.72,131.28.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132
-

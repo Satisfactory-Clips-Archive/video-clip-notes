@@ -15,7 +15,7 @@ date: Last Modified
 * [Snutt Talk: Disclaimer regarding changes in communicating Updates (Update 2 & 3 vs. Update 4)](../../../transcriptions/yt-avsSNP2oO-Y.md) https://www.youtube.com/watch?v=avsSNP2oO-Y
 
 ## January 15th, 2021 Livestream
-* Intro https://www.youtube.com/watch?v=yt-Jxh8kvtUuxY%2C%2C46.3463
+* [Intro](../../../transcriptions/yt-Jxh8kvtUuxY,,46.3463.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47
 
 ## December 8th, 2020 Livestream
 * [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../../transcriptions/yt-42AzC9Qk2yc.md) https://www.youtube.com/watch?v=42AzC9Qk2yc

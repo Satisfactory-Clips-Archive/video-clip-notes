@@ -13,7 +13,6 @@ date: Last Modified
 ## December 11th, 2020 Livestream
 * [Plutonium Waste](../../transcriptions/yt-njXBs_p2l1w,333.23290000000003,443.557086.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444
 
-
 ## March 24th, 2020 Livestream
 * [Snutt & Jace Talk: We don't plan very well at all](../../transcriptions/yt-uNWZuo9AxdM.md) https://www.youtube.com/watch?v=uNWZuo9AxdM
 

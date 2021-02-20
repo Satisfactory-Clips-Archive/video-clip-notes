@@ -15,6 +15,5 @@ date: Last Modified
 ## January 15th, 2021 Livestream
 * [Resource Wells](../../../transcriptions/yt-Jxh8kvtUuxY,56.38966666666667,100.56713333333333.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101
 
-
 ## September 29th, 2020 Livestream
 * [Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil?](../../../transcriptions/yt-DYy7NpZ7qYA.md) https://www.youtube.com/watch?v=DYy7NpZ7qYA

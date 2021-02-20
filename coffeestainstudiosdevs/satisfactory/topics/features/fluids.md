@@ -20,9 +20,8 @@ date: Last Modified
 * [Q&A: What do Resource Wells mean for existing ways for extracting Water & Oil?](../../transcriptions/yt-ezGse7K-fWI.md) https://www.youtube.com/watch?v=ezGse7K-fWI
 
 ## January 15th, 2021 Livestream
-* Intro https://www.youtube.com/watch?v=yt-Jxh8kvtUuxY%2C%2C46.3463
+* [Intro](../../transcriptions/yt-Jxh8kvtUuxY,,46.3463.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47
 * [Resource Wells](../../transcriptions/yt-Jxh8kvtUuxY,56.38966666666667,100.56713333333333.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101
-
 
 ## January 12th, 2021 Livestream
 * [Q&A: Turbofuel?](../../transcriptions/yt-5rp-Y1WsPnA.md) https://www.youtube.com/watch?v=5rp-Y1WsPnA
@@ -33,7 +32,6 @@ date: Last Modified
 
 ## December 11th, 2020 Livestream
 * [Packaged Alumina Solution & Packaged Sulphuric Acid](../../transcriptions/yt-njXBs_p2l1w,154.154,245.57866666666666.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246
-
 
 ## November 17th, 2020 Livestream
 * [Q&A: Fluid Dynamics + Water, can we get Water Wheels?](../../transcriptions/yt-isSumSw8bV4.md) https://www.youtube.com/watch?v=isSumSw8bV4

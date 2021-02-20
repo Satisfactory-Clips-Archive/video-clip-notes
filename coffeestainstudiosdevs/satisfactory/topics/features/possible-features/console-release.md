@@ -73,4 +73,3 @@ date: Last Modified
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Will there be Mac/Linux/Console cross-platform support?](../../../transcriptions/yt-W1E6EWrAsII,406.52,421.68.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=406&end=422
-
