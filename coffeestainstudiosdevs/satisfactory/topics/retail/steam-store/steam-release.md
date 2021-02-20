@@ -35,8 +35,12 @@ date: Last Modified
 * [Q&A: Will the people who bought it on Epic get free Steam keys?](../../../transcriptions/yt-cCWKieE8O8g.md) https://www.youtube.com/watch?v=cCWKieE8O8g
 * [Q&A: Will the Steam release make reliability better?](../../../transcriptions/yt-fKXR3PibLLA.md) https://www.youtube.com/watch?v=fKXR3PibLLA
 
+## February 11th, 2020 Livestream
+* [Q&A: Will you be able to preload the game?](../../../transcriptions/yt-xY1OQ_CuQhQ.md) https://www.youtube.com/watch?v=xY1OQ_CuQhQ
+
 ## January 22nd, 2020 Livestream
 * [Q&A: Satisfactory on Steam?](../../../transcriptions/yt-gOgyvgKAGAQ.md) https://www.youtube.com/watch?v=gOgyvgKAGAQ
+* [Q&A: With the end of Epic exclusivity, will there be other ways to get it ?](../../../transcriptions/yt-Kfn13oEuA0c.md) https://www.youtube.com/watch?v=Kfn13oEuA0c
 
 ## March 9th, 2019 Livestream
 * [Q&A: But do they take your opinion (about steam) serious?](../../../transcriptions/yt-sZDS8dOdyvQ.md) https://www.youtube.com/watch?v=sZDS8dOdyvQ

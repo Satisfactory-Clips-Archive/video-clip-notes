@@ -4,6 +4,7 @@ date: "2020-01-22"
 layout: transcript
 topics:
     - "retail/epic-store/epic-store-exclusivity"
+    - "retail/steam-store/steam-release"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: With the end of Epic exclusivity, will there be other ways to get it ?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=Kfn13oEuA0c
 
 ### Topics
 * [Retail > Epic Store > Epic Store Exclusivity](../topics/retail/epic-store/epic-store-exclusivity.md)
+* [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 
