@@ -992,9 +992,6 @@ date: Last Modified
 #### [September 15th, 2020 Livestream](./2020-09-15.md)
 * [Q&A: Will there be more polish to the Survival aspects of the game?](./transcriptions/yt-0flTS1mpH7s.md) https://www.youtube.com/watch?v=0flTS1mpH7s
 
-#### [August 18th, 2020 Livestream](./2020-08-18.md)
-* Q&A: Will there be a no combat/fight version? https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid
-
 #### [December 19th, 2019 Livestream](./2019-12-19.md)
 * [Q&A: Will there be more competitive stuff?](./transcriptions/yt-sMGWvbL09qA.md) https://www.youtube.com/watch?v=sMGWvbL09qA
 

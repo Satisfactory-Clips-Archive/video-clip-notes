@@ -47,9 +47,6 @@ date: Last Modified
 * [Q&A: Mad Max server where someone controls all the Iron nodes?](../../../transcriptions/yt-LcWR0d7elvs.md) https://www.youtube.com/watch?v=LcWR0d7elvs
 * [Q&A: Should I try a 5x5?](../../../transcriptions/yt-sTyZCrW9F_E.md) https://www.youtube.com/watch?v=sTyZCrW9F_E
 
-## August 18th, 2020 Livestream
-* Q&A: Will there be a no combat/fight version? https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid
-
 ## August 11th, 2020 Livestream
 * Q&A: Any plans for Difficulty Levels? https://clips.twitch.tv/GrotesqueDaintyRamenGivePLZ
 
