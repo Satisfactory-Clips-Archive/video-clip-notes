@@ -6,6 +6,7 @@ topics:
     - "features/buildings"
     - "features/power-management"
     - "features/power-management/geothermal-energy"
+    - "features/power-management/power-switch"
     - "features/transportation/hyper-tubes"
     - "technology/user-interface"
 ---
@@ -17,6 +18,7 @@ https://www.youtube.com/watch?v=CN2G6ZH6bmA
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Features > Power Management > Geothermal Energy](../topics/features/power-management/geothermal-energy.md)
+* [Features > Power Management > Power Switch](../topics/features/power-management/power-switch.md)
 * [Features > Transportation > Hyper Tubes](../topics/features/transportation/hyper-tubes.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

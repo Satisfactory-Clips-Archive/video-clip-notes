@@ -4,6 +4,19 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 4
 
+## February 19th, 2021 Livestream
+* [Geothermal Generators](../../../transcriptions/yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198
+
+* Intro https://www.youtube.com/watch?v=yt-Tmpors_r_Vw%2C%2C26.259566666666668
+* [Outro Surprise](../../../transcriptions/yt-Tmpors_r_Vw,266.43283333333335,323.323.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=266&end=324
+
+* [Power Storage](../../../transcriptions/yt-Tmpors_r_Vw,78.078,138.50503333333333.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139
+
+* [Power Switch](../../../transcriptions/yt-Tmpors_r_Vw,26.259566666666668,78.078.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=26&end=79
+
+* [Self Regulation of Power Generators being removed](../../../transcriptions/yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267
+
+
 ## February 16th, 2021 Livestream
 * [Q&A: Are you expecting a more stable release of the Engine Upgrade due to increased QA for Update 4?](../../../transcriptions/yt-mSo3tH9ZLR0.md) https://www.youtube.com/watch?v=mSo3tH9ZLR0
 * [Q&A: Are you still going to be fixing Engine Upgrade while in Content Freeze?](../../../transcriptions/yt-jC1yskM2KZQ.md) https://www.youtube.com/watch?v=jC1yskM2KZQ

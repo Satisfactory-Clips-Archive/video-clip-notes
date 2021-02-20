@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 
+## February 19th, 2021 Livestream
+* [Geothermal Generators](../../transcriptions/yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198
+
+* [Power Switch](../../transcriptions/yt-Tmpors_r_Vw,26.259566666666668,78.078.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=26&end=79
+
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are Truck Stations & Freight Platforms a part of the UI Update?](../../transcriptions/yt-ANyv9_88k0A.md) https://www.youtube.com/watch?v=ANyv9_88k0A
 * [Q&A: Can you do percentage decimals to get exact part rates?](../../transcriptions/yt-SRnmr4oaE0k.md) https://www.youtube.com/watch?v=SRnmr4oaE0k

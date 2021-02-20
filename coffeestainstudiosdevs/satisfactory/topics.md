@@ -144,6 +144,7 @@ date: Last Modified
 * [Geothermal Energy](./topics/features/power-management/geothermal-energy.md)
 * [Green Energy](./topics/features/power-management/green-energy.md)
 * [Power Storage](./topics/features/power-management/power-storage.md)
+* [Power Switch](./topics/features/power-management/power-switch.md)
 
 ### [Nuclear Energy](./topics/features/power-management/nuclear-energy.md)
 * [Nuclear Waste](./topics/features/power-management/nuclear-energy/nuclear-waste.md)

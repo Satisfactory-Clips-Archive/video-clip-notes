@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Storage
 
+## February 19th, 2021 Livestream
+* [Geothermal Generators](../../../transcriptions/yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198
+
+* Intro https://www.youtube.com/watch?v=yt-Tmpors_r_Vw%2C%2C26.259566666666668
+* [Power Storage](../../../transcriptions/yt-Tmpors_r_Vw,78.078,138.50503333333333.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139
+
+* [Self Regulation of Power Generators being removed](../../../transcriptions/yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267
+
+
 ## February 16th, 2021 Livestream
 * [Q&A: How will Power Storage thing work?](../../../transcriptions/yt-pvevNDQU5Uw.md) https://www.youtube.com/watch?v=pvevNDQU5Uw
 * Q&A: Is there a video this Friday? https://www.youtube.com/watch?v=57fezy2AX6Q

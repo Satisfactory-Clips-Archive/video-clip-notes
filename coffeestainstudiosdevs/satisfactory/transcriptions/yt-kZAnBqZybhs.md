@@ -4,6 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "features/power-management"
+    - "features/power-management/power-switch"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Any chance we can have a power switch so we can shut down power generators?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=kZAnBqZybhs
 
 ### Topics
 * [Features > Power Management](../topics/features/power-management.md)
+* [Features > Power Management > Power Switch](../topics/features/power-management/power-switch.md)
 
 ### Transcript
 

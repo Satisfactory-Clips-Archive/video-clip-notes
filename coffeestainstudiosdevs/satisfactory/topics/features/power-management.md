@@ -7,6 +7,16 @@ date: Last Modified
 * [Green Energy](../../topics/features/power-management/green-energy.md)
 * [Nuclear Energy](../../topics/features/power-management/nuclear-energy.md)
 * [Power Storage](../../topics/features/power-management/power-storage.md)
+* [Power Switch](../../topics/features/power-management/power-switch.md)
+
+## February 19th, 2021 Livestream
+* Intro https://www.youtube.com/watch?v=yt-Tmpors_r_Vw%2C%2C26.259566666666668
+* [Power Storage](../../transcriptions/yt-Tmpors_r_Vw,78.078,138.50503333333333.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139
+
+* [Power Switch](../../transcriptions/yt-Tmpors_r_Vw,26.259566666666668,78.078.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=26&end=79
+
+* [Self Regulation of Power Generators being removed](../../transcriptions/yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267
+
 
 ## February 9th, 2021 Livestream
 * [Community FYI: There's a Mod called the "Smart!" mod, that makes basic building less time consuming](../../transcriptions/yt-0e_pXEulvY8.md) https://www.youtube.com/watch?v=0e_pXEulvY8

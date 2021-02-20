@@ -9,6 +9,10 @@ date: Last Modified
 * [Somersloop](../../topics/environment/resources/somersloop.md)
 * [Steel](../../topics/environment/resources/steel.md)
 
+## February 19th, 2021 Livestream
+* [Self Regulation of Power Generators being removed](../../transcriptions/yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267
+
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are you able to confirm what resources can be pulled using the Resource Well Extractor?](../../transcriptions/yt-vlDuVpHyfVs.md) https://www.youtube.com/watch?v=vlDuVpHyfVs
 * Q&A: Can we use Turbofuel for new things in Update 4? https://www.youtube.com/watch?v=KQmKBaywHHw
