@@ -33,13 +33,13 @@ date: Last Modified
 * [Q&A: Will the anti-spider mode stay like it is now / When is Satisfactory getting Goats?](../../transcriptions/yt-Z-MpiaDB0Qs.md) https://www.youtube.com/watch?v=Z-MpiaDB0Qs
 
 ## August 18th, 2020 Livestream
+* Snutt Talk: Accessibility (part 1) https://clips.twitch.tv/CrowdedSplendidSalamanderSoonerLater
 * Snutt & Jace Talk: Accessibility (part 6) https://clips.twitch.tv/BelovedWrongCiderBCouch
-* Snutt Talk: Accessibility (part 1): https://clips.twitch.tv/CrowdedSplendidSalamanderSoonerLater
 * Jace Talk: Accessibility - Arachnophobia & Colour Blindness (part 3) https://clips.twitch.tv/DignifiedSmoggyKathyAMPEnergyCherry
 * Snutt & Jace Talk: Accessibility - Colour Blindness (part 4) https://clips.twitch.tv/FurtiveConcernedPuppySMOrc
 * Snutt & Jace Talk: Accessibility - Hard of Hearing (part 5) https://clips.twitch.tv/RealFastShieldDoubleRainbow
 * Q&A: I can definitely work around my colour deficiency - but the colour picker doesn't work https://clips.twitch.tv/CrepuscularInterestingWerewolfBCWarrior
-* Q&A: We get this awesome phobia system but people still have trouble with colour blindness modes? https://clips.twitch.tv/PrettiestBloodyBadgerDendiFace
+* Q&A: We get this awesome phobia system but people still have trouble with colour blindness modes? (part 2) https://clips.twitch.tv/PrettiestBloodyBadgerDendiFace
 
 ## December 19th, 2019 Livestream
 * [Q&A: Colour blind accessibility stuff?](../../transcriptions/yt-r4TS6nRxy9k.md) https://www.youtube.com/watch?v=r4TS6nRxy9k
