@@ -40,5 +40,8 @@ date: Last Modified
 * [Q&A: What do you think about future Mod support?](../../transcriptions/yt-6-uSzpX-zZ0.md) https://www.youtube.com/watch?v=6-uSzpX-zZ0
 * [Q&A: Will Dedicated Servers and Mods be free?](../../transcriptions/yt-WEq2xEXVVQ0.md) https://www.youtube.com/watch?v=WEq2xEXVVQ0
 
+## February 6th, 2019 Livestream
+* [Q&A: What's the possibility of Dedicated Servers?](../../transcriptions/yt-Dtm6xIj-wM4,718.308644,808.471513.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809
+
 ## June 22nd, 2018 Livestream
 * [Q&A: Will there be mods?](../../transcriptions/yt-W1E6EWrAsII,91.24,120.52.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121

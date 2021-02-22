@@ -181,6 +181,17 @@ date: Last Modified
 * [Q&A: When are you guys adding back maps?](../../transcriptions/yt-DHWIPr3AYZo.md) https://www.youtube.com/watch?v=DHWIPr3AYZo
 * [Q&A: Will the game expand into space or will it stay on the ground?](../../transcriptions/yt-Ea0f72zZshQ.md) https://www.youtube.com/watch?v=Ea0f72zZshQ
 
+## February 6th, 2019 Livestream
+* [Q&A: Are there going to be collectables/easter eggs/shrines to your previous games hidden around?](../../transcriptions/yt-Dtm6xIj-wM4,2262.3333333333335,2275.305027.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2262&end=2276
+* [Q&A: Besides the starting areas,will there be random spawns in the release?](../../transcriptions/yt-Dtm6xIj-wM4,2974.6666666666665,3016.687892.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2974&end=3017
+* [Q&A: Can I build as high as I want?](../../transcriptions/yt-Dtm6xIj-wM4,2806.989791,2816.5666666666666.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2806&end=2817
+* [Q&A: Does the game use any lock step- any concern for desync across a large map?](../../transcriptions/yt-Dtm6xIj-wM4,1669.29091,1687.97075.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1669&end=1688
+* [Q&A: Hazards in the Map?](../../transcriptions/yt-Dtm6xIj-wM4,1449.6,1458.2666666666667.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1449&end=1459
+* [Q&A: Is there a height limit?](../../transcriptions/yt-Dtm6xIj-wM4,2288.708088,2329.657223.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2288&end=2330
+* [Q&A: So if Mods are confirmed, how about Mods for creating Maps- will that happen?](../../transcriptions/yt-Dtm6xIj-wM4,1334.740485,1399.146207.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1334&end=1400
+* [Q&A: What is Hannah's favourite place on the map?](../../transcriptions/yt-Dtm6xIj-wM4,3077.540411,3122.625483.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3077&end=3123
+* [Q&A: Will there be underground/subterranean areas of the map?](../../transcriptions/yt-Dtm6xIj-wM4,1268.770686,1276.953399.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1268&end=1277
+
 ## October 3rd, 2018 Livestream
 * [Q&A: Will all the tech* be available in the alpha?](../../transcriptions/yt-1OQk7vNt6-0,196.48,233.42.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234
 

@@ -47,6 +47,9 @@ date: Last Modified
 * [Q&A: Is the Desert Biome available in the beta?](../../transcriptions/yt-JMQotRaN9Bs.md) https://www.youtube.com/watch?v=JMQotRaN9Bs
 * Snutt, Simon, & Jace Talk: Unfinished areas/Biomes https://www.youtube.com/watch?v=Un45veTgPk8
 
+## February 6th, 2019 Livestream
+* [Q&A: Will there be underground/subterranean areas of the map?](../../transcriptions/yt-Dtm6xIj-wM4,1268.770686,1276.953399.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1268&end=1277
+
 ## October 3rd, 2018 Livestream
 * [Q&A: Will all the tech* be available in the alpha?](../../transcriptions/yt-1OQk7vNt6-0,196.48,233.42.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234
 

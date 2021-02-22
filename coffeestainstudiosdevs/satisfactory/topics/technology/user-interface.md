@@ -160,6 +160,12 @@ date: Last Modified
 * [Q&A: Why is flashlight default key B and not F?](../../transcriptions/yt-StrNS8tDWV4.md) https://www.youtube.com/watch?v=StrNS8tDWV4
 * [Q&A: Will we ever be able to skip the Intro?](../../transcriptions/yt-t_hHHaDdJU0.md) https://www.youtube.com/watch?v=t_hHHaDdJU0
 
+## February 6th, 2019 Livestream
+* [Q&A: Can you see your character in third-person?](../../transcriptions/yt-Dtm6xIj-wM4,3610.872363,3623.301698.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3610&end=3624
+* [Q&A: Controller support?](../../transcriptions/yt-Dtm6xIj-wM4,4052.6,4151.820477.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152
+* [Q&A: Top-down view?](../../transcriptions/yt-Dtm6xIj-wM4,1125.56383,1155.053199.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1125&end=1156
+* [Q&A: Will there be third-person view?](../../transcriptions/yt-Dtm6xIj-wM4,1245.697874,1259.567788.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1245&end=1260
+
 ## November 8th, 2018 Livestream
 * [Storing some items for later](../../transcriptions/yt-J_Dznt1OG-0,568.31775,885.815429.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886
 

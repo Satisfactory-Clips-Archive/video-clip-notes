@@ -88,3 +88,6 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Jace Talk: Mods](../transcriptions/yt-JPafvjU7Z0k.md) https://www.youtube.com/watch?v=JPafvjU7Z0k
 * [Q&A: Will Dedicated Servers and Mods be free?](../transcriptions/yt-WEq2xEXVVQ0.md) https://www.youtube.com/watch?v=WEq2xEXVVQ0
+
+## February 6th, 2019 Livestream
+* [Q&A: So if Mods are confirmed, how about Mods for creating Maps- will that happen?](../transcriptions/yt-Dtm6xIj-wM4,1334.740485,1399.146207.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1334&end=1400

@@ -135,5 +135,8 @@ date: Last Modified
 * [Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](../../../transcriptions/yt-Cnw_Ow3K29I.md) https://www.youtube.com/watch?v=Cnw_Ow3K29I
 * [Q&A: Will Dedicated Servers and Mods be free?](../../../transcriptions/yt-WEq2xEXVVQ0.md) https://www.youtube.com/watch?v=WEq2xEXVVQ0
 
+## February 6th, 2019 Livestream
+* [Q&A: What's the possibility of Dedicated Servers?](../../../transcriptions/yt-Dtm6xIj-wM4,718.308644,808.471513.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809
+
 ## June 22nd, 2018 Livestream
 * [Jace Talk: General multiplayer questions](../../../transcriptions/yt-W1E6EWrAsII,256.8,316.92.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317

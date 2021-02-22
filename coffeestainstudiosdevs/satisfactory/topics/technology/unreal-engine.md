@@ -179,3 +179,8 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](../../transcriptions/yt-NUXUlt4c26k.md) https://www.youtube.com/watch?v=NUXUlt4c26k
+
+## February 6th, 2019 Livestream
+* [Q&A: What resources do you use to help with level design, story writing & world building?](../../transcriptions/yt-Dtm6xIj-wM4,1073.3666666666666,1125.56383.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1073&end=1126
+* [Q&A: What system do you use to save maps?](../../transcriptions/yt-Dtm6xIj-wM4,1155.537962,1245.697874.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1155&end=1246
+* [Q&A: Where have you learned your Unreal skills?](../../transcriptions/yt-Dtm6xIj-wM4,2329.453589,2391.550622.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2329&end=2392

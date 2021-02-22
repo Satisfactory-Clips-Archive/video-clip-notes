@@ -45,3 +45,7 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: But do they take your opinion (about steam) serious?](../../../transcriptions/yt-sZDS8dOdyvQ.md) https://www.youtube.com/watch?v=sZDS8dOdyvQ
 * [Q&A: Is there any plans for Steam?](../../../transcriptions/yt-Q2pyvicFkxA.md) https://www.youtube.com/watch?v=Q2pyvicFkxA
+
+## February 6th, 2019 Livestream
+* [Q&A: Available on Steam in future?](../../../transcriptions/yt-Dtm6xIj-wM4,3280.698724,3286.654122.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287
+* [Q&A: Will the move to Epic Store be timed-exclusive or permanent?](../../../transcriptions/yt-Dtm6xIj-wM4,1307.57972,1334.740485.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1307&end=1335

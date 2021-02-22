@@ -79,3 +79,14 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: But do they take your opinion (about steam) serious?](../transcriptions/yt-sZDS8dOdyvQ.md) https://www.youtube.com/watch?v=sZDS8dOdyvQ
 * [Q&A: Who suggested to build factory game?](../transcriptions/yt-AyPcl_Vs2D4.md) https://www.youtube.com/watch?v=AyPcl_Vs2D4
+
+## February 6th, 2019 Livestream
+* [Q&A: Developer diaries?](../transcriptions/yt-Dtm6xIj-wM4,1872.81796,1925.453116.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926
+* [Q&A: How did you come up with the name?](../transcriptions/yt-Dtm6xIj-wM4,2840.698964,2949.0666666666666.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950
+* [Q&A: How do you divide work on the various programmers on the team?](../transcriptions/yt-Dtm6xIj-wM4,2532.291017,2685.500647.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2532&end=2686
+* [Q&A: How much time have you invested currently in Satisfactory?](../transcriptions/yt-Dtm6xIj-wM4,3860.9666666666667,3923.903388.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3860&end=3924
+* [Q&A: What tools are you using?](../transcriptions/yt-Dtm6xIj-wM4,1276.9666666666667,1307.57972.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1276&end=1308
+* [Q&A: Where does the sense of humour/memes come from?](../transcriptions/yt-Dtm6xIj-wM4,3734.266666666667,3823.743738.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824
+* [Q&A: Where have you learned your Unreal skills?](../transcriptions/yt-Dtm6xIj-wM4,2329.453589,2391.550622.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2329&end=2392
+* [Q&A: Who is the funniest at the stand-ups?](../transcriptions/yt-Dtm6xIj-wM4,2733.4333333333334,2765.667433.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766
+* [Q&A: You are one of the rare studios to be (openly) LGBTQ-friendly, why is that so important to you?](../transcriptions/yt-Dtm6xIj-wM4,3433.002272,3481.1666666666665.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482

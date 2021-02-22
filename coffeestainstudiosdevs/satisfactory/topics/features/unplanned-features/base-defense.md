@@ -58,5 +58,8 @@ date: Last Modified
 * [Q&A: Can creatures in any way disrupt your factory?](../../../transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
 * [Q&A: Will there be turrets or something in the game?](../../../transcriptions/yt-xNBFywqCrxM.md) https://www.youtube.com/watch?v=xNBFywqCrxM
 
+## February 6th, 2019 Livestream
+* [Q&A: Why not turrets like Sanctum?](../../../transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640
+
 ## June 22nd, 2018 Livestream
 * [Q&A: Will we need to defend our factory?](../../../transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215

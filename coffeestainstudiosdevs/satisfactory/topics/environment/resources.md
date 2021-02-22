@@ -76,6 +76,10 @@ date: Last Modified
 * [Snutt Talk: Inpure Resource Nodes](../../transcriptions/yt--OHmfKyBPA4.md) https://www.youtube.com/watch?v=-OHmfKyBPA4
 * [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
 
+## February 6th, 2019 Livestream
+* [Q&A: How many items exist?](../../transcriptions/yt-Dtm6xIj-wM4,3200.183129,3219.325619.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3200&end=3220
+* [Q&A: With resource nodes are you going to have to run out of one node, and have to change nodes?](../../transcriptions/yt-Dtm6xIj-wM4,1939.6333333333334,1962.712002.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1939&end=1963
+
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
 * [Reinforced Iron Plates being created](../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569

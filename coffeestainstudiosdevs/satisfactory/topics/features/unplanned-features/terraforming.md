@@ -25,5 +25,8 @@ date: Last Modified
 * [Q&A: Are you going to add the ability to raise/lower parts of the landscape?](../../../transcriptions/yt-AEd2Rt5VDfk.md) https://www.youtube.com/watch?v=AEd2Rt5VDfk
 * [Q&A: Are you guys planning to add any terraforming or digging?](../../../transcriptions/yt-DW0MT8G-wMI.md) https://www.youtube.com/watch?v=DW0MT8G-wMI
 
+## February 6th, 2019 Livestream
+* [Q&A: Terraforming?](../../../transcriptions/yt-Dtm6xIj-wM4,979.016429,1016.088881.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=979&end=1017
+
 ## August 1st, 2018 Livestream
 * [Q&A: Will there be landscape deformation or Terraforming?](../../../transcriptions/yt-iFAy1NZUOGU,62.6,66.08.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67

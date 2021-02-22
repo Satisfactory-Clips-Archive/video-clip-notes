@@ -154,6 +154,17 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: Do you want to support more than 4 people?](../../transcriptions/yt-wb5HY05QX9I.md) https://www.youtube.com/watch?v=wb5HY05QX9I
 
+## February 6th, 2019 Livestream
+* [Q&A: Are there any difficulty adjustments when playing Multiplayer?](../../transcriptions/yt-Dtm6xIj-wM4,1786.2333333333333,1834.645233.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1786&end=1835
+* [Q&A: Does the game use any lock step- any concern for desync across a large map?](../../transcriptions/yt-Dtm6xIj-wM4,1669.29091,1687.97075.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1669&end=1688
+* [Q&A: How does the game look because I don't have an Alpha Key?](../../transcriptions/yt-Dtm6xIj-wM4,418.8666666666667,487.869521.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=418&end=488
+* [Q&A: Is 4 players the recommended number?](../../transcriptions/yt-Dtm6xIj-wM4,1733.7666666666667,1775.710975.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1733&end=1776
+* [Q&A: Is co-op style in line or are you focussed on solo?](../../transcriptions/yt-Dtm6xIj-wM4,1639.0666666666666,1652.193414.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1639&end=1653
+* [Q&A: Is it Server Multiplayer, Dedicated Servers, or Peer to Peer?](../../transcriptions/yt-Dtm6xIj-wM4,622.6333333333333,663.567847.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=622&end=664
+* [Q&A: Player limit?](../../transcriptions/yt-Dtm6xIj-wM4,1705.396807,1733.782029.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1705&end=1734
+* [Q&A: What happens to players eventually when they are run over by a friend in a vehicle?](../../transcriptions/yt-Dtm6xIj-wM4,3171.605804,3200.183129.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3171&end=3201
+* [Q&A: Will there be VR support?](../../transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535
+
 ## October 3rd, 2018 Livestream
 * [Q&A: Will the Alpha be single-player or multiplayer?](../../transcriptions/yt-1OQk7vNt6-0,147.1,196.48.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=147&end=197
 

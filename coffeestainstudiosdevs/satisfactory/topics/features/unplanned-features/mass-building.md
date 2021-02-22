@@ -94,3 +94,6 @@ date: Last Modified
 
 ## March 24th, 2020 Livestream
 * [Q&A: Multiple Foundation creation?](../../../transcriptions/yt-zfdV2qIDHP4.md) https://www.youtube.com/watch?v=zfdV2qIDHP4
+
+## February 6th, 2019 Livestream
+* [Q&A: Any plans for stuff like Blueprints?](../../../transcriptions/yt-Dtm6xIj-wM4,2816.569184,2836.733333333333.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2816&end=2837

@@ -24,6 +24,9 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Q&A: Will you fix translations?](../transcriptions/yt-NJxOCbsJtZQ.md) https://www.youtube.com/watch?v=NJxOCbsJtZQ
 
+## February 6th, 2019 Livestream
+* [Q&A: Localisation support?](../transcriptions/yt-Dtm6xIj-wM4,1398.110387,1429.840647.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1398&end=1430
+
 ## October 3rd, 2018 Livestream
 * [Q&A: Localisation/Translation?](../transcriptions/yt-1OQk7vNt6-0,261.62,292.16.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=261&end=293
 

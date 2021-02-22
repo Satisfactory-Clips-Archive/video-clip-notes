@@ -106,6 +106,19 @@ date: Last Modified
 * [Snutt, Simon, Jace Talk: Laughing in the office](../../transcriptions/yt-X5P9-9npJIQ.md) https://www.youtube.com/watch?v=X5P9-9npJIQ
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) https://www.youtube.com/watch?v=2tTlAAZMBPw
 
+## February 6th, 2019 Livestream
+* [Q&A: Developer diaries?](../../transcriptions/yt-Dtm6xIj-wM4,1872.81796,1925.453116.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926
+* [Q&A: How did you come up with the name?](../../transcriptions/yt-Dtm6xIj-wM4,2840.698964,2949.0666666666666.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950
+* [Q&A: How do you divide work on the various programmers on the team?](../../transcriptions/yt-Dtm6xIj-wM4,2532.291017,2685.500647.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2532&end=2686
+* [Q&A: How long have Jace, Hannah, and Snutt been in game dev?](../../transcriptions/yt-Dtm6xIj-wM4,3016.687892,3049.733333333333.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3016&end=3050
+* [Q&A: How often do you change your hair colour?](../../transcriptions/yt-Dtm6xIj-wM4,2275.3,2288.708088.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2275&end=2289
+* [Q&A: Jace & Hannah, do you go clothes shopping in the same place?](../../transcriptions/yt-Dtm6xIj-wM4,408.559369,418.865174.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=408&end=419
+* [Q&A: Jace - give me your socks?](../../transcriptions/yt-Dtm6xIj-wM4,2244.4666666666667,2262.349854.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2244&end=2263
+* [Q&A: Jace - make that smile from 1 month after THQ acquisition?](../../transcriptions/yt-Dtm6xIj-wM4,2388.716191,2413.575214.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2388&end=2414
+* [Q&A: What's the biggest bug you guys have seen so far?](../../transcriptions/yt-Dtm6xIj-wM4,3623.301698,3734.266666666667.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3623&end=3735
+* [Q&A: What is wrong with your face?](../../transcriptions/yt-Dtm6xIj-wM4,271.997687,278.693237.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=271&end=279
+* [Q&A: Why is Jace the PR?](../../transcriptions/yt-Dtm6xIj-wM4,371.76666666666665,378.135744.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=371&end=379
+
 ## December 25th, 2018 Livestream
 * [Intro](../../transcriptions/yt-S_AKfh38880,,73.8.md) https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74
 

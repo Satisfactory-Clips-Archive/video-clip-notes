@@ -97,6 +97,12 @@ date: Last Modified
 * [Q&A: Where can I find those "cute cats"](../../transcriptions/yt-ALTf24gjRHE.md) https://www.youtube.com/watch?v=ALTf24gjRHE
 * [Q&A: You can tame any native lifeform?](../../transcriptions/yt-EnGMyJjYDdI.md) https://www.youtube.com/watch?v=EnGMyJjYDdI
 
+## February 6th, 2019 Livestream
+* [Q&A: Hazards in the Map?](../../transcriptions/yt-Dtm6xIj-wM4,1449.6,1458.2666666666667.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1449&end=1459
+* [Q&A: Is there goats in Satisfactory?](../../transcriptions/yt-Dtm6xIj-wM4,3842.669132,3860.976436.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3842&end=3861
+* [Q&A: Will there be PvE or PvP ?](../../transcriptions/yt-Dtm6xIj-wM4,586.378155,622.648759.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623
+* [Q&A: You mentioned enemies earlier but now you say there'll be nothing to worry about?](../../transcriptions/yt-Dtm6xIj-wM4,2685.5,2726.329682.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727
+
 ## August 1st, 2018 Livestream
 * [Q&A: Are there actual spiders in the game?](../../transcriptions/yt-iFAy1NZUOGU,237.4,252.8.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=237&end=253
 

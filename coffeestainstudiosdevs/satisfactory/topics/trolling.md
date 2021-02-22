@@ -108,6 +108,9 @@ date: Last Modified
 * [Snutt Talk: the most important part of the HUB](../transcriptions/yt-DwdNTp6z1a4.md) https://www.youtube.com/watch?v=DwdNTp6z1a4
 * [Q&A: You guys are planning a mobile port, right?](../transcriptions/yt-gxWgVKBPTtM.md) https://www.youtube.com/watch?v=gxWgVKBPTtM
 
+## February 6th, 2019 Livestream
+* [Q&A: Is Simon going to be the last Boss?](../transcriptions/yt-Dtm6xIj-wM4,2009.5,2017.005329.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018
+
 ## December 25th, 2018 Livestream
 * ["Candid" video](../transcriptions/yt-S_AKfh38880,73.8,157.12.md) https://youtube.com/embed/S_AKfh38880?autoplay=1&start=73&end=158
 * [Intro](../transcriptions/yt-S_AKfh38880,,73.8.md) https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74

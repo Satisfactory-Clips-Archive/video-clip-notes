@@ -45,6 +45,14 @@ date: Last Modified
 * [Snutt Talk: the most important part of the HUB](../../transcriptions/yt-DwdNTp6z1a4.md) https://www.youtube.com/watch?v=DwdNTp6z1a4
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) https://www.youtube.com/watch?v=2tTlAAZMBPw
 
+## February 6th, 2019 Livestream
+* [Q&A: Can you do a mass-key release of 50000 if Lord Simon allows it?](../../transcriptions/yt-Dtm6xIj-wM4,3333.678121,3433.002272.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3333&end=3434
+* [Q&A: Is Simon going to be the last Boss?](../../transcriptions/yt-Dtm6xIj-wM4,2009.5,2017.005329.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018
+* [Q&A: Is there an end-game/goal?](../../transcriptions/yt-Dtm6xIj-wM4,912.113976,952.667535.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=912&end=953
+* [Q&A: Plushies when & what's the story behind #blamesimon ?](../../transcriptions/yt-Dtm6xIj-wM4,1062.151666,1073.371446.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1062&end=1074
+* [Q&A: Where is Simon?](../../transcriptions/yt-Dtm6xIj-wM4,3518.277144,3545.070455.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3518&end=3546
+* [Q&A: Who is the funniest at the stand-ups?](../../transcriptions/yt-Dtm6xIj-wM4,2733.4333333333334,2765.667433.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766
+
 ## October 3rd, 2018 Livestream
 * [Q&A: Localisation/Translation?](../../transcriptions/yt-1OQk7vNt6-0,261.62,292.16.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=261&end=293
 * [Q&A: Release Date?](../../transcriptions/yt-1OQk7vNt6-0,292.16,358.62.md) https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=292&end=359

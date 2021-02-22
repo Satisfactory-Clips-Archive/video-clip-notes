@@ -45,3 +45,7 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: Does building Walls around big factories help performance?](../../../transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4
+
+## February 6th, 2019 Livestream
+* [Q&A: Have the Alpha Testers done any art using Walls and Paint Guns?](../../../transcriptions/yt-Dtm6xIj-wM4,3984.431848,4022.49158.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023
+* [Q&A: Will there be any cosmetics available?](../../../transcriptions/yt-Dtm6xIj-wM4,3923.903388,3977.117038.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978

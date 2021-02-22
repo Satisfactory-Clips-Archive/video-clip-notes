@@ -26,3 +26,8 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Jace Talk: Preorder confusion](../transcriptions/yt-Fk-hgvsxXzg.md) https://www.youtube.com/watch?v=Fk-hgvsxXzg
+
+## February 6th, 2019 Livestream
+* [Q&A: How much will Satisfactory cost?](../transcriptions/yt-Dtm6xIj-wM4,354.60912,371.76666666666665.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=354&end=372
+* [Q&A: If I buy on Epic now and another platform later, will the save files be compatible?](../transcriptions/yt-Dtm6xIj-wM4,1494.4333333333334,1548.122373.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1494&end=1549
+* [Q&A: Will there be a Founder's pack with Alpha Access?](../transcriptions/yt-Dtm6xIj-wM4,1861.372808,1872.81796.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1861&end=1873

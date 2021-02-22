@@ -116,3 +116,8 @@ date: Last Modified
 ## December 19th, 2019 Livestream
 * [Q&A: Snutt Jace's baby Community Manager?](../transcriptions/yt-mmaqnomYjFQ.md) https://www.youtube.com/watch?v=mmaqnomYjFQ
 * [Q&A: What is the job of Community Managers?](../transcriptions/yt-zaE2VeeV2mY.md) https://www.youtube.com/watch?v=zaE2VeeV2mY
+
+## February 6th, 2019 Livestream
+* [Q&A: Can you say my name really quickly- it would make my day?](../transcriptions/yt-Dtm6xIj-wM4,3122.633333333333,3142.742535.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3122&end=3143
+* [Q&A: Have the Alpha Testers done any art using Walls and Paint Guns?](../transcriptions/yt-Dtm6xIj-wM4,3984.431848,4022.49158.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023
+* [Q&A: You are one of the rare studios to be (openly) LGBTQ-friendly, why is that so important to you?](../transcriptions/yt-Dtm6xIj-wM4,3433.002272,3481.1666666666665.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482

@@ -97,3 +97,6 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: I wouldn't be surprised if Mod support enable third-party maps?](../../transcriptions/yt-LgGYmQrwAgg.md) https://www.youtube.com/watch?v=LgGYmQrwAgg
 * [Jace Talk: Mod support](../../transcriptions/yt-37zFxpeGm-E.md) https://www.youtube.com/watch?v=37zFxpeGm-E
+
+## February 6th, 2019 Livestream
+* [Q&A: Why not turrets like Sanctum?](../../transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640

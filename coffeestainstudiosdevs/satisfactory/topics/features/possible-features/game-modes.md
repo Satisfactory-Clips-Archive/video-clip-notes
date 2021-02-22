@@ -67,3 +67,11 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: Another game mode with a procedurally generated world?](../../../transcriptions/yt-GZlK2fIlYVk.md) https://www.youtube.com/watch?v=GZlK2fIlYVk
+
+## February 6th, 2019 Livestream
+* [Q&A: Any plans for PvP?](../../../transcriptions/yt-Dtm6xIj-wM4,1573.58823,1589.649941.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1573&end=1590
+* [Q&A: Can we crush our friends with orbital drops, like Sanctum-style?](../../../transcriptions/yt-Dtm6xIj-wM4,3049.733333333333,3077.641329.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3049&end=3078
+* [Q&A: Is co-op style in line or are you focussed on solo?](../../../transcriptions/yt-Dtm6xIj-wM4,1639.0666666666666,1652.193414.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1639&end=1653
+* [Q&A: Is there going to be Survival elements to keep the player alive?](../../../transcriptions/yt-Dtm6xIj-wM4,2410.697848,2436.980614.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2410&end=2437
+* [Q&A: Will there be PvE or PvP ?](../../../transcriptions/yt-Dtm6xIj-wM4,586.378155,622.648759.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623
+* [Q&A: You mentioned enemies earlier but now you say there'll be nothing to worry about?](../../../transcriptions/yt-Dtm6xIj-wM4,2685.5,2726.329682.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727

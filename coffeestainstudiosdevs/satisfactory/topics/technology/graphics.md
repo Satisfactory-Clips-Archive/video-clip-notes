@@ -121,3 +121,6 @@ date: Last Modified
 * [Q&A: Does building Walls around big factories help performance?](../../transcriptions/yt-Cnw8Vw-BFO4.md) https://www.youtube.com/watch?v=Cnw8Vw-BFO4
 * [Q&A: Game is awesome, but late-game is super laggy sometimes.](../../transcriptions/yt-3MO6SYCZuFI.md) https://www.youtube.com/watch?v=3MO6SYCZuFI
 * [Q&A: How did you guys optimise the game so much?](../../transcriptions/yt-nRCmJo-Wh9s.md) https://www.youtube.com/watch?v=nRCmJo-Wh9s
+
+## February 6th, 2019 Livestream
+* [Q&A: How many LOD levels do you use?](../../transcriptions/yt-Dtm6xIj-wM4,3264.910326,3268.219046.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3264&end=3269

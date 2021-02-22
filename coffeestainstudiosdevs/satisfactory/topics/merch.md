@@ -130,5 +130,9 @@ date: Last Modified
 * [Q&A: Do I get a sticker for how many bugs I reported in alpha?](../transcriptions/yt-2ny0XTCY6l0.md) https://www.youtube.com/watch?v=2ny0XTCY6l0
 * [Q&A: Lizard Doggo plushie when?](../transcriptions/yt-jGiN1SdQOFk.md) https://www.youtube.com/watch?v=jGiN1SdQOFk
 
+## February 6th, 2019 Livestream
+* [Q&A: Jace - give me your socks?](../transcriptions/yt-Dtm6xIj-wM4,2244.4666666666667,2262.349854.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2244&end=2263
+* [Q&A: Plushies when & what's the story behind #blamesimon ?](../transcriptions/yt-Dtm6xIj-wM4,1062.151666,1073.371446.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1062&end=1074
+
 ## June 22nd, 2018 Livestream
 * [Q&A: Will there be Lizard Doggo plushies?](../transcriptions/yt-W1E6EWrAsII,214.36,238.12.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239

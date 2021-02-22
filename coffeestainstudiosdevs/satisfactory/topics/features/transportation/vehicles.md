@@ -113,6 +113,14 @@ date: Last Modified
 * [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
 * Q&A: Will there be lamps for night? https://www.youtube.com/watch?v=SiS0HGq7_oU
 
+## February 6th, 2019 Livestream
+* [Q&A: Any plans for bots or other means of transport other than Belts & Trains?](../../../transcriptions/yt-Dtm6xIj-wM4,1016.1,1052.477074.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1016&end=1053
+* [Q&A: Can you make custom cars/trucks?](../../../transcriptions/yt-Dtm6xIj-wM4,1489.6333333333334,1494.42192.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1489&end=1495
+* [Q&A: How do you divide work on the various programmers on the team?](../../../transcriptions/yt-Dtm6xIj-wM4,2532.291017,2685.500647.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2532&end=2686
+* [Q&A: What's the biggest bug you guys have seen so far?](../../../transcriptions/yt-Dtm6xIj-wM4,3623.301698,3734.266666666667.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3623&end=3735
+* [Q&A: What happens to players eventually when they are run over by a friend in a vehicle?](../../../transcriptions/yt-Dtm6xIj-wM4,3171.605804,3200.183129.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3171&end=3201
+* [Q&A: Will there be any cosmetics available?](../../../transcriptions/yt-Dtm6xIj-wM4,3923.903388,3977.117038.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978
+
 ## August 1st, 2018 Livestream
 * [Q&A: Did the Vehicle dev blog cover everything?](../../../transcriptions/yt-iFAy1NZUOGU,131.28,147.92.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=131&end=148
 * [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100

@@ -104,6 +104,11 @@ date: Last Modified
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../../../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
 * [Q&A: When is the official release?](../../../transcriptions/yt-H0HcDZTv_ts.md) https://www.youtube.com/watch?v=H0HcDZTv_ts
 
+## February 6th, 2019 Livestream
+* [Q&A: Any timeline on when the end game will be released?](../../../transcriptions/yt-Dtm6xIj-wM4,3487.8333333333335,3508.867162.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509
+* [Q&A: Are there going to be free updates after the game is released, or is it all going to be DLCs?](../../../transcriptions/yt-Dtm6xIj-wM4,1550.571925,1573.58823.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574
+* [Q&A: Release date?](../../../transcriptions/yt-Dtm6xIj-wM4,280.42817,354.60912.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355
+
 ## August 1st, 2018 Livestream
 * [Q&A: How much will the game cost when it's released?](../../../transcriptions/yt-iFAy1NZUOGU,99.44,119.72.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120
 

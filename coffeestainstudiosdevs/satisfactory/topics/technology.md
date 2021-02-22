@@ -36,3 +36,8 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Will we ever have proper multi-core support?](../transcriptions/yt-08PQFXaEac8.md) https://www.youtube.com/watch?v=08PQFXaEac8
+
+## February 6th, 2019 Livestream
+* [Q&A: How big can you make your factory?](../transcriptions/yt-Dtm6xIj-wM4,2023.082962,2168.340922.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2023&end=2169
+* [Q&A: What do you make your models/textures with?](../transcriptions/yt-Dtm6xIj-wM4,1687.9666666666667,1705.396807.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1687&end=1706
+* [Q&A: What tools are you using?](../transcriptions/yt-Dtm6xIj-wM4,1276.9666666666667,1307.57972.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1276&end=1308

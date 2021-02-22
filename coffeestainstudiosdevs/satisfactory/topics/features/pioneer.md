@@ -46,5 +46,9 @@ date: Last Modified
 ## May 19th, 2020 Livestream
 * [Snutt & Gafgar Talk: Zombie Pioneers](../../transcriptions/yt-90rAQ31MQPI.md) https://www.youtube.com/watch?v=90rAQ31MQPI
 
+## February 6th, 2019 Livestream
+* [Q&A: Besides the starting areas,will there be random spawns in the release?](../../transcriptions/yt-Dtm6xIj-wM4,2974.6666666666665,3016.687892.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2974&end=3017
+* [Q&A: What happens when you die?](../../transcriptions/yt-Dtm6xIj-wM4,1663.964039,1669.29091.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1663&end=1670
+
 ## November 8th, 2018 Livestream
 * [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516

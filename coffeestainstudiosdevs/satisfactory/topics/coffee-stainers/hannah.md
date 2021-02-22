@@ -48,5 +48,14 @@ date: Last Modified
 * [Q&A: What would Hannah look for in an Environment Artist's portfolio?](../../transcriptions/yt-yDZRa_7BTrU.md) https://www.youtube.com/watch?v=yDZRa_7BTrU
 * [Q&A: Why does Hannah look like Billie Eilish?](../../transcriptions/yt-vn8SMPtHoJM.md) https://www.youtube.com/watch?v=vn8SMPtHoJM
 
+## February 6th, 2019 Livestream
+* [Q&A: How can I get the key to Hannah?](../../transcriptions/yt-Dtm6xIj-wM4,3156.213884,3171.605804.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3156&end=3172
+* [Q&A: How long have Jace, Hannah, and Snutt been in game dev?](../../transcriptions/yt-Dtm6xIj-wM4,3016.687892,3049.733333333333.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3016&end=3050
+* [Q&A: Is 4 players the recommended number?](../../transcriptions/yt-Dtm6xIj-wM4,1733.7666666666667,1775.710975.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1733&end=1776
+* [Q&A: Is that an Alpha Key around your neck?](../../transcriptions/yt-Dtm6xIj-wM4,1476.4,1489.634846.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1476&end=1490
+* [Q&A: Jace & Hannah, do you go clothes shopping in the same place?](../../transcriptions/yt-Dtm6xIj-wM4,408.559369,418.865174.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=408&end=419
+* [Q&A: What is Hannah's favourite place on the map?](../../transcriptions/yt-Dtm6xIj-wM4,3077.540411,3122.625483.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3077&end=3123
+* [Q&A: What resources do you use to help with level design, story writing & world building?](../../transcriptions/yt-Dtm6xIj-wM4,1073.3666666666666,1125.56383.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1073&end=1126
+
 ## March 9th, 2018 Livestream
 * [Q&A: Who is the better colleague, Nathalie or Hannah?](../../transcriptions/yt-Zo2ybvs7keI,300.32,310.36.md) https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=300&end=311

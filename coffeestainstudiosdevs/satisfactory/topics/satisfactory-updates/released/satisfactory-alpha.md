@@ -28,6 +28,16 @@ date: Last Modified
 * [Q&A: Is the Early Access version the same version Alpha Testers have?](../../../transcriptions/yt-bnUTeUn6TA4.md) https://www.youtube.com/watch?v=bnUTeUn6TA4
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../../../transcriptions/yt-Pn5tcfKmF20.md) https://www.youtube.com/watch?v=Pn5tcfKmF20
 
+## February 6th, 2019 Livestream
+* [Jace, Hannah, & Snutt Talk: Alpha is not a scam](../../../transcriptions/yt-Dtm6xIj-wM4,1458.2666666666667,1476.412324.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1458&end=1477
+* [Q&A: Can you do a mass-key release of 50000 if Lord Simon allows it?](../../../transcriptions/yt-Dtm6xIj-wM4,3333.678121,3433.002272.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3333&end=3434
+* [Q&A: Have the Alpha Testers done any art using Walls and Paint Guns?](../../../transcriptions/yt-Dtm6xIj-wM4,3984.431848,4022.49158.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023
+* [Q&A: How does the game look because I don't have an Alpha Key?](../../../transcriptions/yt-Dtm6xIj-wM4,418.8666666666667,487.869521.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=418&end=488
+* [Q&A: How much percentage of the game is implemented?](../../../transcriptions/yt-Dtm6xIj-wM4,2168.3333333333335,2244.472657.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2168&end=2245
+* [Q&A: Is that an Alpha Key around your neck?](../../../transcriptions/yt-Dtm6xIj-wM4,1476.4,1489.634846.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1476&end=1490
+* [Q&A: Release date?](../../../transcriptions/yt-Dtm6xIj-wM4,280.42817,354.60912.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355
+* [Q&A: Will there be a Founder's pack with Alpha Access?](../../../transcriptions/yt-Dtm6xIj-wM4,1861.372808,1872.81796.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1861&end=1873
+
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
 * [Reinforced Iron Plates being created](../../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569

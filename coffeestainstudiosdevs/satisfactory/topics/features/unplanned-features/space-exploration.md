@@ -18,3 +18,6 @@ date: Last Modified
 
 ## July 28th, 2020 Livestream
 * Q&A: Signs & Planets https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo
+
+## February 6th, 2019 Livestream
+* [Q&A: Will there be outer space & galaxies?](../../../transcriptions/yt-Dtm6xIj-wM4,2836.733333333333,2840.698964.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841

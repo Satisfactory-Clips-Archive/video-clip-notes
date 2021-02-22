@@ -48,6 +48,9 @@ date: Last Modified
 * [Q&A: Can we put the "Nani‽" back in?](../../transcriptions/yt-sn0yrFw_Lfw.md) https://www.youtube.com/watch?v=sn0yrFw_Lfw
 * [Q&A: Favourite problem to solve in the UI so far?](../../transcriptions/yt-cONX37SiszU.md) https://www.youtube.com/watch?v=cONX37SiszU
 
+## February 6th, 2019 Livestream
+* [Q&A: How many items exist?](../../transcriptions/yt-Dtm6xIj-wM4,3200.183129,3219.325619.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3200&end=3220
+
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
 * [Reinforced Iron Plates being created](../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569

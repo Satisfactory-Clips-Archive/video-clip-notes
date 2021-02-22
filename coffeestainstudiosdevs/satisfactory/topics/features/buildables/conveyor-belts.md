@@ -94,6 +94,10 @@ date: Last Modified
 * [Q&A: What the heck is a Conveyor Belt Lift?](../../../transcriptions/yt-egkjxaDluQI.md) https://www.youtube.com/watch?v=egkjxaDluQI
 * [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) https://www.youtube.com/watch?v=YwhXtnyk8YE
 
+## February 6th, 2019 Livestream
+* [Q&A: Any plans for bots or other means of transport other than Belts & Trains?](../../../transcriptions/yt-Dtm6xIj-wM4,1016.1,1052.477074.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1016&end=1053
+* [Q&A: How big can you make your factory?](../../../transcriptions/yt-Dtm6xIj-wM4,2023.082962,2168.340922.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2023&end=2169
+
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164
 * [Reinforced Iron Plates being created](../../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569

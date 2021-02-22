@@ -11,3 +11,6 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: Does the timer for Epic exclusivity run when the game comes out or Early Access phase?](../../../transcriptions/yt-zHYxze67E28.md) https://www.youtube.com/watch?v=zHYxze67E28
 * [Q&A: Is there any plans for Steam?](../../../transcriptions/yt-Q2pyvicFkxA.md) https://www.youtube.com/watch?v=Q2pyvicFkxA
+
+## February 6th, 2019 Livestream
+* [Q&A: Will the move to Epic Store be timed-exclusive or permanent?](../../../transcriptions/yt-Dtm6xIj-wM4,1307.57972,1334.740485.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1307&end=1335

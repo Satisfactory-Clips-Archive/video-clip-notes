@@ -130,5 +130,10 @@ date: Last Modified
 * [Q&A: What's the final objective of the game?](../transcriptions/yt-xG0mfuXiFY8.md) https://www.youtube.com/watch?v=xG0mfuXiFY8
 * [Q&A: What gender is the character model?](../transcriptions/yt-eoMeAy8w2Fs.md) https://www.youtube.com/watch?v=eoMeAy8w2Fs
 
+## February 6th, 2019 Livestream
+* [Q&A: Are there going to be NPCs that you get quests from?](../transcriptions/yt-Dtm6xIj-wM4,2726.329682,2733.426542.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2726&end=2734
+* [Q&A: Is there an end-game/goal?](../transcriptions/yt-Dtm6xIj-wM4,912.113976,952.667535.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=912&end=953
+* [Q&A: Is there Story in the game?](../transcriptions/yt-Dtm6xIj-wM4,825.908452,912.113976.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=825&end=913
+
 ## June 22nd, 2018 Livestream
 * [Q&A: Is there an end game? Will there be a story?](../transcriptions/yt-W1E6EWrAsII,391.24,406.52.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=391&end=407

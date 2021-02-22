@@ -32,6 +32,9 @@ date: Last Modified
 * [Jace Talk: Legacy of Goat Simulator & launching Satisfactory](../../transcriptions/yt-z2fpvMakuCY.md) https://www.youtube.com/watch?v=z2fpvMakuCY
 * [Snutt, Simon, & Jace Talk: Satisfactory & Goat Simulator development](../../transcriptions/yt-xh1icX044NE.md) https://www.youtube.com/watch?v=xh1icX044NE
 
+## February 6th, 2019 Livestream
+* [Q&A: Where does the sense of humour/memes come from?](../../transcriptions/yt-Dtm6xIj-wM4,3734.266666666667,3823.743738.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824
+
 ## June 22nd, 2018 Livestream
 * [Q&A: Plans for post-launch?](../../transcriptions/yt-W1E6EWrAsII,120.52,176.6.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177
 

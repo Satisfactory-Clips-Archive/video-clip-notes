@@ -95,3 +95,11 @@ date: Last Modified
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../../transcriptions/yt-3gFgrVEkOpc.md) https://www.youtube.com/watch?v=3gFgrVEkOpc
 * [Snutt, Simon, Jace Talk: Laughing in the office](../../transcriptions/yt-X5P9-9npJIQ.md) https://www.youtube.com/watch?v=X5P9-9npJIQ
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) https://www.youtube.com/watch?v=2tTlAAZMBPw
+
+## February 6th, 2019 Livestream
+* [Q&A: Can Snutt wear a pair of glasses?](../../transcriptions/yt-Dtm6xIj-wM4,3142.404803,3156.213884.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3142&end=3157
+* [Q&A: How long have Jace, Hannah, and Snutt been in game dev?](../../transcriptions/yt-Dtm6xIj-wM4,3016.687892,3049.733333333333.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3016&end=3050
+* [Q&A: How much percentage of the game is implemented?](../../transcriptions/yt-Dtm6xIj-wM4,2168.3333333333335,2244.472657.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2168&end=2245
+* [Q&A: Is 4 players the recommended number?](../../transcriptions/yt-Dtm6xIj-wM4,1733.7666666666667,1775.710975.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1733&end=1776
+* [Jace, Hannah, & Snutt Talk: Snutt looks like Michael from VSauce](../../transcriptions/yt-Dtm6xIj-wM4,3219.325619,3265.022.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3219&end=3266
+* [Q&A: What made Snutt cut his hair?](../../transcriptions/yt-Dtm6xIj-wM4,3289.36842,3333.678121.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3289&end=3334

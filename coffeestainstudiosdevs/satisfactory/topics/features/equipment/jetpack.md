@@ -37,3 +37,6 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Q&A: What about a Jet Pack one that gives a small bonus of surviving a fall?](../../../transcriptions/yt-bDU3DaHcmKo.md) https://www.youtube.com/watch?v=bDU3DaHcmKo
+
+## February 6th, 2019 Livestream
+* [Q&A: Will there be Jetpacks in Satisfactory?](../../../transcriptions/yt-Dtm6xIj-wM4,3976.5,3984.431848.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3976&end=3985

@@ -19,3 +19,6 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Please consider adding a third-person view?](../../transcriptions/yt-HXXn10GhRWU.md) https://www.youtube.com/watch?v=HXXn10GhRWU
+
+## February 6th, 2019 Livestream
+* [Q&A: How did you come up with the name?](../../transcriptions/yt-Dtm6xIj-wM4,2840.698964,2949.0666666666666.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950

@@ -22,5 +22,8 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Snutt Talk: VR Support](../../../transcriptions/yt-ZHumj5MeIcw.md) https://www.youtube.com/watch?v=ZHumj5MeIcw
 
+## February 6th, 2019 Livestream
+* [Q&A: Will there be VR support?](../../../transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535
+
 ## August 1st, 2018 Livestream
 * [Q&A: What about VR support?](../../../transcriptions/yt-iFAy1NZUOGU,66.08,68.24.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69
