@@ -9,6 +9,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## State of Dev: Coffee Stain new office (Part 1)
 https://www.youtube.com/watch?v=htoUHZbvu1A
+<details>
+<summary>This video continues in another video</summary>
+
+* [January 12th, 2021 Livestream State of Dev: Coffee Stain new office (Part 2)](https://archive.satisfactory.video/transcriptions/yt-yU3v4BNnUPU) https://www.youtube.com/watch?v=yU3v4BNnUPU
+</details>
+
 
 ### Topics
 * [Embracer Group](../topics/embracer-group.md)

@@ -10,6 +10,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Craftable Camera? (part 1)
 https://www.youtube.com/watch?v=__WKPcHdDcA
+<details>
+<summary>This video continues in another video</summary>
+
+* [September 15th, 2020 Livestream Q&A: Craftable Camera? (part 2)](https://archive.satisfactory.video/transcriptions/yt-0vZS0gvnuqg) https://www.youtube.com/watch?v=0vZS0gvnuqg
+</details>
+
 
 ### Topics
 * [Coffee Stainers > Uzu](../topics/coffee-stainers/uzu.md)

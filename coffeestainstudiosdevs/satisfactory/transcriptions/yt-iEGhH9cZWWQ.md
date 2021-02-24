@@ -10,6 +10,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Jace & Snutt Talk: New Feature - Packager (part 2)
 https://www.youtube.com/watch?v=iEGhH9cZWWQ
+<details>
+<summary>This video is a continuation of a previous video</summary>
+
+* [October 13th, 2020 Livestream Jace & Snutt Talk: New Feature - Packager (part 1)](https://archive.satisfactory.video/transcriptions/yt-V9x1XLqoKeU) https://www.youtube.com/watch?v=V9x1XLqoKeU
+</details>
+
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

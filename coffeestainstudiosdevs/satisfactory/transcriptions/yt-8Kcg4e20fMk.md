@@ -8,6 +8,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Jace & Snutt Talk: Zombie/Clone Players (part 2)
 https://www.youtube.com/watch?v=8Kcg4e20fMk
+<details>
+<summary>This video is a continuation of a previous video</summary>
+
+* [September 22nd, 2020 Livestream Jace & Snutt Talk: Zombie/Clone Players (part 1)](https://archive.satisfactory.video/transcriptions/yt-atdEe4Bm11k) https://www.youtube.com/watch?v=atdEe4Bm11k
+</details>
+
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

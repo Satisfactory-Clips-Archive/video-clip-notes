@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are you going to add Ansel support for HD photos? (Part 2)
 https://www.youtube.com/watch?v=VQp2sry-iDQ
+<details>
+<summary>This video is a continuation of a previous video</summary>
+
+* [March 9th, 2019 Livestream Q&A: Are you going to add Ansel support for HD photos? (Part 1)](https://archive.satisfactory.video/transcriptions/yt-Gx8ilz44pJU) https://www.youtube.com/watch?v=Gx8ilz44pJU
+</details>
+
 
 ### Topics
 * [Features > Photo Mode](../topics/features/photo-mode.md)

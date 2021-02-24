@@ -9,6 +9,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Craftable Camera? (part 2)
 https://www.youtube.com/watch?v=0vZS0gvnuqg
+<details>
+<summary>This video is a continuation of a previous video</summary>
+
+* [September 15th, 2020 Livestream Q&A: Craftable Camera? (part 1)](https://archive.satisfactory.video/transcriptions/yt-__WKPcHdDcA) https://www.youtube.com/watch?v=__WKPcHdDcA
+</details>
+
 
 ### Topics
 * [Features > Crafting](../topics/features/crafting.md)

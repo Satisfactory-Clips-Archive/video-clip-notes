@@ -9,6 +9,12 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Update release schedule (part 1)
 https://www.youtube.com/watch?v=xkalDtEeoOY
+<details>
+<summary>This video continues in another video</summary>
+
+* [September 15th, 2020 Livestream Q&A: Update release schedule (part 2)](https://archive.satisfactory.video/transcriptions/yt-vfVo9rCpVtQ) https://www.youtube.com/watch?v=vfVo9rCpVtQ
+</details>
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

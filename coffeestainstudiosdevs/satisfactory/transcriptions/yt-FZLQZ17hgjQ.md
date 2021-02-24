@@ -9,6 +9,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Jace & Snutt Talk: Jump Pad Teaser (part 2)
 https://www.youtube.com/watch?v=FZLQZ17hgjQ
+<details>
+<summary>This video is a continuation of a previous video</summary>
+
+* [October 20th, 2020 Livestream Jace & Snutt Talk: Jump Pad Teaser (part 1)](https://archive.satisfactory.video/transcriptions/yt-w-f3V9PdqxI) https://www.youtube.com/watch?v=w-f3V9PdqxI
+</details>
+
 
 ### Topics
 * [Features > Buildables > Jump Pads](../topics/features/buildables/jump-pads.md)

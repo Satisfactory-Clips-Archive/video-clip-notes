@@ -10,6 +10,12 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: What's the cost of the Resource Well Extractors & Pressurisers (Part 2)
 https://www.youtube.com/watch?v=MaHhdhMI_38
+<details>
+<summary>This video is a continuation of a previous video</summary>
+
+* [January 19th, 2021 Livestream Q&A: What's the cost of the Resource Well Extractors & Pressurisers (Part 1)](https://archive.satisfactory.video/transcriptions/yt-Ik8K1G6lGyM) https://www.youtube.com/watch?v=Ik8K1G6lGyM
+</details>
+
 
 ### Topics
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)

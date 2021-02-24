@@ -10,6 +10,12 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Will Update 4 change any existing Alt recipes? (Part 2)
 https://www.youtube.com/watch?v=wN7_0V9lRfk
+<details>
+<summary>This video is a continuation of a previous video</summary>
+
+* [February 2nd, 2021 Livestream Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](https://archive.satisfactory.video/transcriptions/yt-U7q88D_G0Ac) https://www.youtube.com/watch?v=U7q88D_G0Ac
+</details>
+
 
 ### Topics
 * [Features > Crafting](../topics/features/crafting.md)
