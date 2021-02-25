@@ -9,6 +9,13 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will there be more options for aesthetics regarding things like house building?
 https://www.youtube.com/watch?v=qQJTAvtzB-8
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as June 2020.</summary>
+
+* [September 1st, 2020 Livestream Q&A: Will there be more cosmetic options for Factory Buildings?](./yt-kHRgkLN0mZI.md) https://www.youtube.com/watch?v=kHRgkLN0mZI
+* [June 8th, 2020 Livestream Q&A: Will there be a cosy place for the Pioneer to live in?](./yt-F0Lu47hMTD8.md) https://www.youtube.com/watch?v=F0Lu47hMTD8
+</details>
+
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

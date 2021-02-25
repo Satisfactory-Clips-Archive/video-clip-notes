@@ -10,6 +10,13 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: So are you packing Update 4 to the Engine Upgrade?
 https://www.youtube.com/watch?v=9QEf5938sPk
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as February 2021.</summary>
+
+* [February 16th, 2021 Livestream Q&A: Are you expecting a more stable release of the Engine Upgrade due to increased QA for Update 4?](./yt-mSo3tH9ZLR0.md) https://www.youtube.com/watch?v=mSo3tH9ZLR0
+* [February 9th, 2021 Livestream Q&A: Can you summarise the extent to which Update 4 will be released in terms of the Engine Upgrade?](./yt-RCaCXVVAtb0.md) https://www.youtube.com/watch?v=RCaCXVVAtb0
+</details>
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

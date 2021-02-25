@@ -8,6 +8,8 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will this game come out on Console at some point?
 https://www.youtube.com/watch?v=pfD6p4g3fQ8
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for bringing the game to Nintendo Switch?](./yt-rfeMtSPOadY.md) https://www.youtube.com/watch?v=rfeMtSPOadY
+
 
 ### Topics
 * [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)

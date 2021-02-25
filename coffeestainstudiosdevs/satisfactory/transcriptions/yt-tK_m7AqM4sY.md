@@ -9,6 +9,8 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: If Factories can get attacked?
 https://www.youtube.com/watch?v=tK_m7AqM4sY
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is there going to be tower defense?](./yt-9dWWC0mFitU.md) https://www.youtube.com/watch?v=9dWWC0mFitU
+
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

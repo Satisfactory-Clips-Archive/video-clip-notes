@@ -9,6 +9,8 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Ever consider making a VR version of Satisfactory?
 https://www.youtube.com/watch?v=3s-PKymQ9QU
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: VR support would be heavenly?](./yt-0Ld1fbTEOvM.md) https://www.youtube.com/watch?v=0Ld1fbTEOvM
+
 
 ### Topics
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)

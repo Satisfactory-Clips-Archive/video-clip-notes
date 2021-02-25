@@ -8,6 +8,8 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Did the Steam release meet expected goals?
 https://www.youtube.com/watch?v=crzPPDeFTcc
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: How was the migration to Steam overall, was it worth it?](./yt-dIQQWHWwCGA.md) https://www.youtube.com/watch?v=dIQQWHWwCGA
+
 
 ### Topics
 * [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)

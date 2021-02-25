@@ -8,6 +8,8 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: I have 24 (CPU) cores, can you make more use of it ?
 https://www.youtube.com/watch?v=LUM8i_wyJ-Y
+This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: CPU make multi-core?](./yt-0yzIyIlPDxw.md) https://www.youtube.com/watch?v=0yzIyIlPDxw
+
 
 ### Topics
 

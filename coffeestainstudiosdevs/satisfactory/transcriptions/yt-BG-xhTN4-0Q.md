@@ -9,6 +9,12 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: How did you come up with the idea of making Satisfactory?
 https://www.youtube.com/watch?v=BG-xhTN4-0Q
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as March 2019.</summary>
+
+* [March 9th, 2019 Livestream Q&A: Who suggested to build factory game?](./yt-AyPcl_Vs2D4.md) https://www.youtube.com/watch?v=AyPcl_Vs2D4
+</details>
+
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

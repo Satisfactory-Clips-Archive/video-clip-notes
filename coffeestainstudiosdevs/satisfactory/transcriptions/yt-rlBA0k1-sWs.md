@@ -9,6 +9,14 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Can we upload a Spider image other than a Cat?
 https://www.youtube.com/watch?v=rlBA0k1-sWs
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as March 2019 and as early as August 2018.</summary>
+
+* [March 9th, 2019 Livestream Q&A: Can we have an alternate arachnophobia mode with Simon's face?](./yt-3h2P4TfAAwE.md) https://www.youtube.com/watch?v=3h2P4TfAAwE
+* [August 1st, 2018 Livestream Q&A: Can we change the sprite ourselves?](./yt-iFAy1NZUOGU,227.8,231.6.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232
+* [August 1st, 2018 Livestream Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](./yt-iFAy1NZUOGU,208.96,227.8.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228
+</details>
+
 
 ### Topics
 * [Features > Accessibility](../topics/features/accessibility.md)

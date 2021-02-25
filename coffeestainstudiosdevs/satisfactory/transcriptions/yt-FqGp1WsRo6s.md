@@ -8,6 +8,8 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: What about lights?
 https://www.youtube.com/watch?v=FqGp1WsRo6s
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Lights & Lampposts please?](./yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g
+
 
 ### Topics
 * [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)

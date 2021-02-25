@@ -9,6 +9,8 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Any plans for randomly generated worlds / Procedurally Generated maps?
 https://www.youtube.com/watch?v=eo_84m3ZYfQ
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Possible to get randomly generated maps?](./yt-FkM6JZIZrqg.md) https://www.youtube.com/watch?v=FkM6JZIZrqg
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

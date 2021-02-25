@@ -9,6 +9,8 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will the update break saves?
 https://www.youtube.com/watch?v=4RrHBOTPcs8
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Are you going to break save games again?](./yt-hF6yB6Wrox0.md) https://www.youtube.com/watch?v=hF6yB6Wrox0
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

@@ -8,6 +8,14 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: I would be interested to see your in-house roadmap
 https://www.youtube.com/watch?v=D0LY0PxkSJM
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as September 2020 and as early as March 2020.</summary>
+
+* [September 1st, 2020 Livestream Q&A: Roadmap?](./yt-iSMAUqquuvc.md) https://www.youtube.com/watch?v=iSMAUqquuvc
+* [August 25th, 2020 Livestream Q&A: Do you have a set of ideas?](./yt-eSN0HQlSJBs.md) https://www.youtube.com/watch?v=eSN0HQlSJBs
+* [March 24th, 2020 Livestream Q&A: Will there be a roadmap again for Updates?](./yt-EiqFP9bm7v4.md) https://www.youtube.com/watch?v=EiqFP9bm7v4
+</details>
+
 
 ### Topics
 

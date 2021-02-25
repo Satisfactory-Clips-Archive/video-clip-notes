@@ -9,6 +9,12 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Can you make a FICSIT remote-control factory cart?
 https://www.youtube.com/watch?v=_l9SmmSzE-M
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
+
+* August 11th, 2020 Livestream Q&A: remote-control Factory Cart https://clips.twitch.tv/MoistSmellyReubenDoubleRainbow
+</details>
+
 
 ### Topics
 * [Features > Transportation > Vehicles > Factory Cart](../topics/features/transportation/vehicles/factory-cart.md)

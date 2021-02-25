@@ -8,6 +8,8 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: While Unreal Engine 4 gets upgraded, will the Object Limit get changed?
 https://www.youtube.com/watch?v=BE6kB3nmSdM
+This question was possibly duplicated with a more recent answer: January 26th, 2021 Livestream Q&A: Will you tell here the current build limit number considering the Engine Upgrade? https://www.youtube.com/watch?v=WfU45N1EvQ0
+
 
 ### Topics
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)

@@ -10,6 +10,8 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Fluid Sink ever going to happen?
 https://www.youtube.com/watch?v=j79cJptq5h8
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Sink that accepts Liquids or Gas?](./yt-SskXA-lxaCI.md) https://www.youtube.com/watch?v=SskXA-lxaCI
+
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

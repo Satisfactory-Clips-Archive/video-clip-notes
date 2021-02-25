@@ -9,6 +9,8 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: When will the code be optimised for the new engine?
 https://www.youtube.com/watch?v=FVT8_xB9V94
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: When does Experimental come to Early Access?](./yt-s0KzZA300xo.md) https://www.youtube.com/watch?v=s0KzZA300xo
+
 
 ### Topics
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)

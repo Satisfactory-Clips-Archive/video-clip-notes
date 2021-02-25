@@ -9,6 +9,8 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Is there going to be a way to destroy the fart rock?
 https://www.youtube.com/watch?v=byPiSQZOAhw
+This question was possibly duplicated with a more recent answer: [September 8th, 2020 Livestream Q&A: When can Poison Pillars be removed?](./yt-BRpEHi7W7u0.md) https://www.youtube.com/watch?v=BRpEHi7W7u0
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

@@ -11,6 +11,12 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Add a Tape Measure or something to gauge distance between two objects?
 https://www.youtube.com/watch?v=-hFvijwVlSQ
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
+
+* [August 25th, 2020 Livestream Q&A: A mark on pipes to show the meters ?](./yt-lXL_N-a887E.md) https://www.youtube.com/watch?v=lXL_N-a887E
+</details>
+
 
 ### Topics
 * [Features > Crafting](../topics/features/crafting.md)

@@ -8,6 +8,8 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: New skins?
 https://www.youtube.com/watch?v=-IYD97gEt4w
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: When will we be able to get different character customisations?](./yt-x55_Zt2OLQ4.md) https://www.youtube.com/watch?v=x55_Zt2OLQ4
+
 
 ### Topics
 * [Features > Possible Features > Character Customisation](../topics/features/possible-features/character-customisation.md)

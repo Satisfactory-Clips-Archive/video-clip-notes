@@ -10,6 +10,12 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: What about Multiplayer Vehicle de-sync?
 https://www.youtube.com/watch?v=JpSV5eDGEJw
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+
+* [September 1st, 2020 Livestream Q&A: Maybe it's a good idea to dynamically hand over authority a vehicle in multiplayer?](./yt-Xdrr6IazPTg.md) https://www.youtube.com/watch?v=Xdrr6IazPTg
+</details>
+
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

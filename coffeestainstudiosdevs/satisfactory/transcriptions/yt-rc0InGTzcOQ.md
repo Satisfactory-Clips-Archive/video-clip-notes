@@ -9,6 +9,8 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Is the expected date relative to Early Access or Experimental?
 https://www.youtube.com/watch?v=rc0InGTzcOQ
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Will Update 4 be rolled out to Experimental first?](./yt-xJ3zk3Yvav0.md) https://www.youtube.com/watch?v=xJ3zk3Yvav0
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

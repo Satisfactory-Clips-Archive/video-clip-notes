@@ -9,6 +9,8 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Does it mean we get Goats?
 https://www.youtube.com/watch?v=RlSL5DONzns
+This question was possibly duplicated with a more recent answer: August 11th, 2020 Livestream Q&A: Do you have Goats in Satisfactory? https://clips.twitch.tv/FurryTalentedCrowBleedPurple
+
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

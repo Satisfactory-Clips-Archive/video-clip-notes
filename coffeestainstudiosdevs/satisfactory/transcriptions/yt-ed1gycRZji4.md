@@ -8,6 +8,8 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Satisfactory on next-gen Consoles?
 https://www.youtube.com/watch?v=ed1gycRZji4
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for bringing the game to Nintendo Switch?](./yt-rfeMtSPOadY.md) https://www.youtube.com/watch?v=rfeMtSPOadY
+
 
 ### Topics
 * [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)

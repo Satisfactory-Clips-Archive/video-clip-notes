@@ -9,6 +9,14 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Will Update 4 be rolled out to Experimental first?
 https://www.youtube.com/watch?v=xJ3zk3Yvav0
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is that March date for Experimental?](./yt-sQTpG9Ws6EA.md) https://www.youtube.com/watch?v=sQTpG9Ws6EA
+
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as October 2020.</summary>
+
+* [October 6th, 2020 Livestream Q&A: Is the expected date relative to Early Access or Experimental?](./yt-rc0InGTzcOQ.md) https://www.youtube.com/watch?v=rc0InGTzcOQ
+</details>
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

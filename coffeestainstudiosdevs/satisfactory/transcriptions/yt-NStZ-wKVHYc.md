@@ -8,6 +8,8 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Any changes coming to To-Do List?
 https://www.youtube.com/watch?v=NStZ-wKVHYc
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Any plans to revisit the To-Do List for Quality-of-Life pass?](./yt-nI31KeD88V8.md) https://www.youtube.com/watch?v=nI31KeD88V8
+
 
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)

@@ -10,6 +10,8 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Will there be more competitive stuff?
 https://www.youtube.com/watch?v=sMGWvbL09qA
+This question was possibly duplicated with a more recent answer: November 3rd, 2020 Livestream Q&A: The Map of the Dedicated Server, currently it doesn't have enough nodes for a Competitive map https://www.youtube.com/watch?v=rtOmNkt5whw
+
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)

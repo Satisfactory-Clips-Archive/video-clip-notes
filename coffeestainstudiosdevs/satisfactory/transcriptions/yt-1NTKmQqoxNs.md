@@ -9,6 +9,8 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Will there still be stuff to discover when the Update 4 teasers & reveals are done?
 https://www.youtube.com/watch?v=1NTKmQqoxNs
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: How much after the things you've teased is left?](./yt-XNsN_3Kjlqs.md) https://www.youtube.com/watch?v=XNsN_3Kjlqs
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

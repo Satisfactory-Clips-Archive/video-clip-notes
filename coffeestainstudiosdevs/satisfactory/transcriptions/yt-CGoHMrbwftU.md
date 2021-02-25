@@ -9,6 +9,8 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Update 4 re: Dedicated Servers, Quality of Life, and Content?
 https://www.youtube.com/watch?v=CGoHMrbwftU
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: How possible are Dedicated Servers in Update 4?](./yt--3JqJE_94g0.md) https://www.youtube.com/watch?v=-3JqJE_94g0
+
 
 ### Topics
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)

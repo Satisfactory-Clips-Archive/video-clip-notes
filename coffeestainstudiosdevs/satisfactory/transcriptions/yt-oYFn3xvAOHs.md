@@ -8,6 +8,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Fixing machines that break?
 https://www.youtube.com/watch?v=oYFn3xvAOHs
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Any plans for deterioration or maintenance mechanics for Buildings?](./yt-W8Ia5yx0n-k.md) https://www.youtube.com/watch?v=W8Ia5yx0n-k
+
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

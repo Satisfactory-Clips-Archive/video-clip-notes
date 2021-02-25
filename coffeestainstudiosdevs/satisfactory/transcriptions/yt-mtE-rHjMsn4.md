@@ -10,6 +10,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Dedicated Servers update?
 https://www.youtube.com/watch?v=mtE-rHjMsn4
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any update on Dedicated Servers?](./yt-MeB65-maH5k.md) https://www.youtube.com/watch?v=MeB65-maH5k
+
 
 ### Topics
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)

@@ -11,6 +11,12 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: A beanie trophy?
 https://www.youtube.com/watch?v=vQlvfDhG01E
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+
+* [September 22nd, 2020 Livestream Q&A: Can we get a Jace Beanie in the game?](./yt-ES3tyCzjSDE.md) https://www.youtube.com/watch?v=ES3tyCzjSDE
+</details>
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

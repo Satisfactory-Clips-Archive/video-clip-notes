@@ -9,6 +9,12 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Will Mods come to Update 4?
 https://www.youtube.com/watch?v=IXuBCWtpEsE
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as December 2020.</summary>
+
+* [December 8th, 2020 Livestream Q&A: Will Mods break?](./yt-f1iY6Fj__E0.md) https://www.youtube.com/watch?v=f1iY6Fj__E0
+</details>
+
 
 ### Topics
 * [Mods > Official Mod Support](../topics/mods/official-mod-support.md)

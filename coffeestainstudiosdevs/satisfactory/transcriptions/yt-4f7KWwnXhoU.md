@@ -10,6 +10,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will Dedicated Servers be available on Linux, or Windows?
 https://www.youtube.com/watch?v=4f7KWwnXhoU
+This question was possibly duplicated with a more recent answer: [November 3rd, 2020 Livestream Q&A: Will Dedicated Servers run under Linux?](./yt-v5Niam8EYts.md) https://www.youtube.com/watch?v=v5Niam8EYts
+
 
 ### Topics
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)

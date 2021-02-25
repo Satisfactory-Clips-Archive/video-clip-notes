@@ -8,6 +8,8 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: What about Green Energy?
 https://www.youtube.com/watch?v=bPo3BFtjDLs
+This question was possibly duplicated with a more recent answer: [September 29th, 2020 Livestream Q&A: Are there any Green Energy options in the game?](./yt-9eBugtyk8U0.md) https://www.youtube.com/watch?v=9eBugtyk8U0
+
 
 ### Topics
 * [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)

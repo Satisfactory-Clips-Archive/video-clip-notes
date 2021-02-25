@@ -8,6 +8,12 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Are we going to increase the limit of only having 4 players per game?
 https://www.youtube.com/watch?v=9Fe7lcAQx9I
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as March 2019.</summary>
+
+* [March 9th, 2019 Livestream Q&A: Do you want to support more than 4 people?](./yt-wb5HY05QX9I.md) https://www.youtube.com/watch?v=wb5HY05QX9I
+</details>
+
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

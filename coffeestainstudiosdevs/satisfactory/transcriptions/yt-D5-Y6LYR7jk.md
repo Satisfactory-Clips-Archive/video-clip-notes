@@ -10,6 +10,8 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Any idea about Official Modding?
 https://www.youtube.com/watch?v=D5-Y6LYR7jk
+This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: Any hints you can give on the level of mod support you'll provide eventually?](./yt-o7FFLZpEf_Y.md) https://www.youtube.com/watch?v=o7FFLZpEf_Y
+
 
 ### Topics
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)

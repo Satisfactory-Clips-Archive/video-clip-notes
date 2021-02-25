@@ -8,6 +8,13 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Are there changes planned for Geothermal?
 https://www.youtube.com/watch?v=XCMncMB0z50
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as September 2020.</summary>
+
+* [January 19th, 2021 Livestream Q&A: Will you change Geothermal Generators?](./yt-MmCfcNv8F8o.md) https://www.youtube.com/watch?v=MmCfcNv8F8o
+* [September 1st, 2020 Livestream Q&A: Would geothermal generators get a buff or rework of sorts?](./yt-T7BPQ1ZHeJA.md) https://www.youtube.com/watch?v=T7BPQ1ZHeJA
+</details>
+
 
 ### Topics
 * [Features > Power Management > Geothermal Energy](../topics/features/power-management/geothermal-energy.md)

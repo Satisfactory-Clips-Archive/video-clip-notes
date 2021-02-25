@@ -8,6 +8,14 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any features you want to add to the game but you don't expect to be added to the vanilla game?
 https://www.youtube.com/watch?v=uVGH_lZnc2g
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as October 2020 and as early as March 2019.</summary>
+
+* [October 20th, 2020 Livestream Q&A: Are there any features you guys really want in the game but you can't/won't add?](./yt-QuCAOO3xPQQ.md) https://www.youtube.com/watch?v=QuCAOO3xPQQ
+* [October 6th, 2020 Livestream Q&A: Do you have any good stories for features that didn't get included in the game?](./yt-JkSvpUl7jX8.md) https://www.youtube.com/watch?v=JkSvpUl7jX8
+* [March 9th, 2019 Livestream Q&A: Are there any things you had wanted to add to the game but had to cancel?](./yt-akmmqVmHmzM.md) https://www.youtube.com/watch?v=akmmqVmHmzM
+</details>
+
 
 ### Topics
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)

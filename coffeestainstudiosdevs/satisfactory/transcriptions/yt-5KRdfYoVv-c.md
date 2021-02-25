@@ -8,6 +8,12 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Will the sleeping room have an additional function?
 https://www.youtube.com/watch?v=5KRdfYoVv-c
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
+
+* August 11th, 2020 Livestream Q&A: Anything inside the HUB where the MAM used to be? https://clips.twitch.tv/RespectfulDreamyHabaneroMrDestructoid
+</details>
+
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)

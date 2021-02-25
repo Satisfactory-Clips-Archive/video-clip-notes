@@ -10,6 +10,12 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: What do Resource Wells mean for existing ways for extracting Water & Oil?
 https://www.youtube.com/watch?v=ezGse7K-fWI
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
+
+* [January 19th, 2021 Livestream Q&A: Will Oil fields be affected by the Update 4 patch?](./yt-khEicU2JVzY.md) https://www.youtube.com/watch?v=khEicU2JVzY
+</details>
+
 
 ### Topics
 * [Environment > Resource Wells](../topics/environment/resource-wells.md)

@@ -9,6 +9,8 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Update 4 contains the Engine Upgrade?
 https://www.youtube.com/watch?v=WQa938_K6SY
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Will Update 4 be based on new Unreal Engine, or the existing one?](./yt-ZlPENv3__GU.md) https://www.youtube.com/watch?v=ZlPENv3__GU
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

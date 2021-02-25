@@ -8,6 +8,8 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: How large is the development team?
 https://www.youtube.com/watch?v=tKcRdw1BEp4
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: How many devs do you have?](./yt-Hj0nhmramiM.md) https://www.youtube.com/watch?v=Hj0nhmramiM
+
 
 ### Topics
 

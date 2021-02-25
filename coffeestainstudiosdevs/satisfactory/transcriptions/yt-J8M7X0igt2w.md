@@ -9,6 +9,8 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will Colour Gun work on Vehicles in the future?
 https://www.youtube.com/watch?v=J8M7X0igt2w
+This question was possibly duplicated with a more recent answer: February 2nd, 2021 Livestream Q&A: Vehicle Painting? https://www.youtube.com/watch?v=aIproPDd8V0
+
 
 ### Topics
 * [Features > Paint](../topics/features/paint.md)

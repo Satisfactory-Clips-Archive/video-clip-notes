@@ -9,6 +9,12 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Can we pay money for Update 4?
 https://www.youtube.com/watch?v=oaPsSg5iwBc
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
+
+* [February 9th, 2021 Livestream Q&A: How much will Update 4 be?](./yt-otcOBJLcgic.md) https://www.youtube.com/watch?v=otcOBJLcgic
+</details>
+
 
 ### Topics
 * [Merch](../topics/merch.md)

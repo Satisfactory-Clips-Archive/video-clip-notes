@@ -8,6 +8,8 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Will the people who bought it on Epic get free Steam keys?
 https://www.youtube.com/watch?v=cCWKieE8O8g
+This question was possibly duplicated with a more recent answer: [June 8th, 2020 Livestream Q&A: Will I get a Steam key if I already bought it on Epic?](./yt-GWtv9JpKGS0.md) https://www.youtube.com/watch?v=GWtv9JpKGS0
+
 
 ### Topics
 * [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)

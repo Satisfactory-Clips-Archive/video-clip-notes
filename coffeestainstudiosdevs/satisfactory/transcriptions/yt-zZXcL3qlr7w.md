@@ -10,6 +10,12 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Are Gases going to work like Liquids?
 https://www.youtube.com/watch?v=zZXcL3qlr7w
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
+
+* [January 19th, 2021 Livestream Q&A: Will Gas Pipes have Headlift or Valves?](./yt-Zd9lUkAlJrk.md) https://www.youtube.com/watch?v=Zd9lUkAlJrk
+</details>
+
 
 ### Topics
 * [Features > Fluids](../topics/features/fluids.md)

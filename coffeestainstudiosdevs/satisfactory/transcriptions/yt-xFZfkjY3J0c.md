@@ -9,6 +9,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: When will you ad UI for the Steam Geyser Power Plant?
 https://www.youtube.com/watch?v=xFZfkjY3J0c
+This question was possibly duplicated with a more recent answer: [November 17th, 2020 Livestream Q&A: When are Geothermal Generators going to get it's Info Panel?](./yt-WTfWu44SQ1k.md) https://www.youtube.com/watch?v=WTfWu44SQ1k
+
 
 ### Topics
 * [Features > Power Management > Geothermal Energy](../topics/features/power-management/geothermal-energy.md)

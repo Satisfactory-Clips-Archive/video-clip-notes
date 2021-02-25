@@ -9,6 +9,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Any plans to add a Levitate option with Jetpacks?
 https://www.youtube.com/watch?v=_9P859YpEbE
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+
+* [September 8th, 2020 Livestream Q&A: Jetpack needs a Hover Mode?](./yt-zeXh53pKe0A.md) https://www.youtube.com/watch?v=zeXh53pKe0A
+</details>
+
 
 ### Topics
 * [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)

@@ -8,6 +8,8 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: When is the Hub bed going to work like the Minecraft one?
 https://www.youtube.com/watch?v=9o02HnPy5cY
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Can we sleep through nights?](./yt-uskbxtN069Q.md) https://www.youtube.com/watch?v=uskbxtN069Q
+
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)

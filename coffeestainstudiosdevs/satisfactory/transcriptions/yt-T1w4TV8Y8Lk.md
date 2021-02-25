@@ -8,6 +8,8 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Blueprints/Mass construction - will we have it ? If not, why not?
 https://www.youtube.com/watch?v=T1w4TV8Y8Lk
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for Blueprint mode?](./yt-tJSLxVZ-sFg.md) https://www.youtube.com/watch?v=tJSLxVZ-sFg
+
 
 ### Topics
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)

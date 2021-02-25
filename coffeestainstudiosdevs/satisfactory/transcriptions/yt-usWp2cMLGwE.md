@@ -11,6 +11,8 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Is it only packaging or does it unpack as well?
 https://www.youtube.com/watch?v=usWp2cMLGwE
+This question was possibly duplicated with a more recent answer: [October 27th, 2020 Livestream Q&A: Does the Packager also do unpacking?](./yt-s1ibMeMeBT8.md) https://www.youtube.com/watch?v=s1ibMeMeBT8
+
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

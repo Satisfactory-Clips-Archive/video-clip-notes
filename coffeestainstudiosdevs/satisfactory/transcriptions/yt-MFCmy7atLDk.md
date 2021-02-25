@@ -10,6 +10,12 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Any thoughts on letting you have a planning tool mode?
 https://www.youtube.com/watch?v=MFCmy7atLDk
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as December 2020.</summary>
+
+* [December 15th, 2020 Livestream Q&A: Will planning be added?](./yt-_HKsPj2tx04.md) https://www.youtube.com/watch?v=_HKsPj2tx04
+</details>
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

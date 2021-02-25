@@ -9,6 +9,8 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are you guys planning to add any terraforming or digging?
 https://www.youtube.com/watch?v=DW0MT8G-wMI
+This question was possibly duplicated with a more recent answer: [November 24th, 2020 Livestream Q&A: Is terraforming possible any time in the future?](./yt-_fE2dbyaJZg.md) https://www.youtube.com/watch?v=_fE2dbyaJZg
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

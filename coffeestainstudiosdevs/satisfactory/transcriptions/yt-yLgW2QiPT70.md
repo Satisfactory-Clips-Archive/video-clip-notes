@@ -8,6 +8,8 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Will we be able to download & buy the amazing soundtrack?
 https://www.youtube.com/watch?v=yLgW2QiPT70
+This question was possibly duplicated with a more recent answer: [May 19th, 2020 Livestream Q&A: Will there be a Soundtrack release?](./yt-XswfSsanpDo.md) https://www.youtube.com/watch?v=XswfSsanpDo
+
 
 ### Topics
 * [Soundtrack](../topics/soundtrack.md)

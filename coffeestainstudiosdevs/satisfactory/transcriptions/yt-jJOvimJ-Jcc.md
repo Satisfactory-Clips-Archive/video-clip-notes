@@ -8,6 +8,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: What about a Tutorial System?
 https://www.youtube.com/watch?v=jJOvimJ-Jcc
+This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: Are there plans to optimise the Tutorial?](./yt-yvrH5XwPi4k.md) https://www.youtube.com/watch?v=yvrH5XwPi4k
+
 
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)

@@ -10,6 +10,8 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Are there going to be other planets in the game?
 https://www.youtube.com/watch?v=Xg0nkRNXaIk
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Planning on making any space stuff?](./yt-pYPBpZdBvP4.md) https://www.youtube.com/watch?v=pYPBpZdBvP4
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

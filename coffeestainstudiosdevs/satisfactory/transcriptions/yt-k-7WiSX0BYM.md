@@ -8,6 +8,8 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Console?
 https://www.youtube.com/watch?v=k-7WiSX0BYM
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for bringing the game to Nintendo Switch?](./yt-rfeMtSPOadY.md) https://www.youtube.com/watch?v=rfeMtSPOadY
+
 
 ### Topics
 * [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)

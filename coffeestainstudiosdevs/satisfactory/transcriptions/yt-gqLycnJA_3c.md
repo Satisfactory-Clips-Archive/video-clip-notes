@@ -9,6 +9,8 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Packager solid/liquid I/O don't allow for placement of Conveyor lifts?
 https://www.youtube.com/watch?v=gqLycnJA_3c
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Can we get a Packager with outputs not stacked?](./yt-Cmhx-wt1pBg.md) https://www.youtube.com/watch?v=Cmhx-wt1pBg
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

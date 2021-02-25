@@ -8,6 +8,8 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Deactivate Fog parameter?
 https://www.youtube.com/watch?v=2H_QouHUoBQ
+This question was possibly duplicated with a more recent answer: [October 13th, 2020 Livestream Q&A: Will one of the Quality of Life Updates be turning down the fog?](./yt-2AMBinmPITg.md) https://www.youtube.com/watch?v=2AMBinmPITg
+
 
 ### Topics
 * [Technology > Graphics](../topics/technology/graphics.md)

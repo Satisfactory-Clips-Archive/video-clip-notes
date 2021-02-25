@@ -8,6 +8,12 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: When does Experimental come to Early Access?
 https://www.youtube.com/watch?v=s0KzZA300xo
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
+
+* [January 26th, 2021 Livestream Q&A: When will the code be optimised for the new engine?](./yt-FVT8_xB9V94.md) https://www.youtube.com/watch?v=FVT8_xB9V94
+</details>
+
 
 ### Topics
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)

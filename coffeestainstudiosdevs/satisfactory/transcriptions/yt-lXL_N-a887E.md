@@ -12,6 +12,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: A mark on pipes to show the meters ?
 https://www.youtube.com/watch?v=lXL_N-a887E
+This question was possibly duplicated with a more recent answer: [September 29th, 2020 Livestream Q&A: Add a Tape Measure or something to gauge distance between two objects?](./yt--hFvijwVlSQ.md) https://www.youtube.com/watch?v=-hFvijwVlSQ
+
 
 ### Topics
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)

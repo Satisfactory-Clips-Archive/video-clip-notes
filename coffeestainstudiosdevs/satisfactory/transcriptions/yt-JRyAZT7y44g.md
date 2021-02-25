@@ -9,6 +9,8 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Where's Mod support?
 https://www.youtube.com/watch?v=JRyAZT7y44g
+This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: Any hints you can give on the level of mod support you'll provide eventually?](./yt-o7FFLZpEf_Y.md) https://www.youtube.com/watch?v=o7FFLZpEf_Y
+
 
 ### Topics
 * [Coffee Stainers > Birk](../topics/coffee-stainers/birk.md)

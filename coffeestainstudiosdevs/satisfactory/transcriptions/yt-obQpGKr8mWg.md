@@ -9,6 +9,8 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Can you Zip Line up?
 https://www.youtube.com/watch?v=obQpGKr8mWg
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Can you go up with Zip Lines?](./yt-BPBXw4Zsk7A.md) https://www.youtube.com/watch?v=BPBXw4Zsk7A
+
 
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)

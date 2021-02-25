@@ -8,6 +8,8 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy?
 https://www.youtube.com/watch?v=PYyvu8feZqA
+This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: When will Merch shipping worldwide be possible?](./yt-iyFXDTn2YPM.md) https://www.youtube.com/watch?v=iyFXDTn2YPM
+
 
 ### Topics
 * [Merch](../topics/merch.md)

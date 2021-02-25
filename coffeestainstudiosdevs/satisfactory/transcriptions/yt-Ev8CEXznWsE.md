@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Do you guys crunch or do you actually care about stuff like health?
 https://www.youtube.com/watch?v=Ev8CEXznWsE
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as February 2020.</summary>
+
+* [February 11th, 2020 Livestream Q&A: Did you crunch for Update 3?](./yt-BwJG6ZHR7Io.md) https://www.youtube.com/watch?v=BwJG6ZHR7Io
+</details>
+
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

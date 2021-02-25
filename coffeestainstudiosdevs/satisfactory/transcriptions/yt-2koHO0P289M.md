@@ -8,6 +8,12 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Is there a goal amount of Events per year?
 https://www.youtube.com/watch?v=2koHO0P289M
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as December 2020.</summary>
+
+* [December 15th, 2020 Livestream Q&A: Will there be more Seasonal Events?](./yt-TNrm3qsWdxQ.md) https://www.youtube.com/watch?v=TNrm3qsWdxQ
+</details>
+
 
 ### Topics
 * [Satisfactory Updates > Seasonal Events](../topics/satisfactory-updates/seasonal-events.md)

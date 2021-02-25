@@ -8,6 +8,8 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Broader Belts?
 https://www.youtube.com/watch?v=Y1ulbhgaSeU
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Mk.6 Belt in the next Update?](./yt-DpT2LNED0wk.md) https://www.youtube.com/watch?v=DpT2LNED0wk
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

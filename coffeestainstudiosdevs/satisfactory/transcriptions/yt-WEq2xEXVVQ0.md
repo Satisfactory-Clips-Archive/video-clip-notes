@@ -10,6 +10,8 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will Dedicated Servers and Mods be free?
 https://www.youtube.com/watch?v=WEq2xEXVVQ0
+This question was possibly duplicated with a more recent answer: July 28th, 2020 Livestream Q&A: Dedicated Server cost https://clips.twitch.tv/ConfidentLittleSnood4Head
+
 
 ### Topics
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)

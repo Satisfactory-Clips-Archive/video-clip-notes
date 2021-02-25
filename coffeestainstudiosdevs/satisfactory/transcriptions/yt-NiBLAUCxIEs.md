@@ -10,6 +10,8 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: What about Mk. 6 Belts?
 https://www.youtube.com/watch?v=NiBLAUCxIEs
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Mk.6 Belt in the next Update?](./yt-DpT2LNED0wk.md) https://www.youtube.com/watch?v=DpT2LNED0wk
+
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

@@ -8,6 +8,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will the Train always clip?
 https://www.youtube.com/watch?v=PY6wf7cvjgM
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any news on Train revamp?](./yt-_kBUD_mMahs.md) https://www.youtube.com/watch?v=_kBUD_mMahs
+
 
 ### Topics
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)

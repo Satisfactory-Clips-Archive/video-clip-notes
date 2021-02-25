@@ -10,6 +10,12 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Can we get different spawn points not linked to the Hub?
 https://www.youtube.com/watch?v=DExdQ8KOKEA
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+
+* [September 8th, 2020 Livestream Q&A: Secondary Hub/Spawn Point ?](./yt-MjQNNzVfZTY.md) https://www.youtube.com/watch?v=MjQNNzVfZTY
+</details>
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

@@ -8,6 +8,8 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: What do you think about Farming?
 https://www.youtube.com/watch?v=UijCvihSvzE
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is there a plan to let us grow food in some way?](./yt-axNVUjsuMwo.md) https://www.youtube.com/watch?v=axNVUjsuMwo
+
 
 ### Topics
 * [Features > Possible Features > Farming](../topics/features/possible-features/farming.md)

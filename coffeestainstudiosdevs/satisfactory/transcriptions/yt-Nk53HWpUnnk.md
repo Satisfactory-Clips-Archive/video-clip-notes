@@ -10,6 +10,8 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Do you intended to do planned amount of huge Updates?
 https://www.youtube.com/watch?v=Nk53HWpUnnk
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any more major updates planned before 1.0?](./yt-XLXeOMWHoAc.md) https://www.youtube.com/watch?v=XLXeOMWHoAc
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

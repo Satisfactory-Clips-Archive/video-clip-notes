@@ -8,6 +8,8 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Are you hiring new devs?
 https://www.youtube.com/watch?v=KO7cDlkMYxM
+This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?](./yt-iqGA8u7MmMM.md) https://www.youtube.com/watch?v=iqGA8u7MmMM
+
 
 ### Topics
 

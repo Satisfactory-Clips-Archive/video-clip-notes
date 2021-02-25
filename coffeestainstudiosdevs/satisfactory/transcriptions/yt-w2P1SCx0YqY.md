@@ -8,6 +8,12 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Can we have this build?
 https://www.youtube.com/watch?v=w2P1SCx0YqY
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as December 2020.</summary>
+
+* [December 8th, 2020 Livestream Q&A: Will you be making these older versions public?](./yt-B6BGtaVWcas.md) https://www.youtube.com/watch?v=B6BGtaVWcas
+</details>
+
 
 ### Topics
 * [Satisfactory Updates > Satisfactory 2017](../topics/satisfactory-updates/satisfactory-2017.md)

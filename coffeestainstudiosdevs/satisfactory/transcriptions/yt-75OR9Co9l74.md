@@ -8,6 +8,8 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Dirt Bikes?
 https://www.youtube.com/watch?v=75OR9Co9l74
+This question was possibly duplicated with a more recent answer: [February 11th, 2020 Livestream Q&A: Bikes in Satisfactory confirmed?](./yt-sh2faQb1DPQ.md) https://www.youtube.com/watch?v=sh2faQb1DPQ
+
 
 ### Topics
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)

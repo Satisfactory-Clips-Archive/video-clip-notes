@@ -8,6 +8,8 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Are Coffee Stain looking for Unreal Engine programmers - do you hire remotely?
 https://www.youtube.com/watch?v=sI7zMjVad1c
+This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?](./yt-iqGA8u7MmMM.md) https://www.youtube.com/watch?v=iqGA8u7MmMM
+
 
 ### Topics
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)

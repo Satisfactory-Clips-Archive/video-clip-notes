@@ -8,6 +8,12 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Will there be a Soundtrack release?
 https://www.youtube.com/watch?v=XswfSsanpDo
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as March 2020.</summary>
+
+* [March 24th, 2020 Livestream Q&A: Will we be able to download & buy the amazing soundtrack?](./yt-yLgW2QiPT70.md) https://www.youtube.com/watch?v=yLgW2QiPT70
+</details>
+
 
 ### Topics
 * [Soundtrack](../topics/soundtrack.md)

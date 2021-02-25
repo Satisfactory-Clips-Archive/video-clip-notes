@@ -11,6 +11,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: I want to fire Nukes at my rival Pioneers?
 https://www.youtube.com/watch?v=CQ0vc3uRaw8
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Battle Royale mode?](./yt-U4t0BJ7mjwc.md) https://www.youtube.com/watch?v=U4t0BJ7mjwc
+
 
 ### Topics
 * [Features > Equipment](../topics/features/equipment.md)

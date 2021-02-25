@@ -8,6 +8,15 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Can we make a Satisfactory Mobile Mod?
 https://www.youtube.com/watch?v=Wv_kjBAmLAY
+<details>
+<summary>This question may have been asked previously at least 4 other times, as recently as September 2020 and as early as March 2019.</summary>
+
+* [September 22nd, 2020 Livestream Q&A: Mobile Edition?](./yt-sbWKKOsLrvA.md) https://www.youtube.com/watch?v=sbWKKOsLrvA
+* [September 1st, 2020 Livestream Q&A: Satisfactory Mobile Game ?](./yt-LJ358eEelS4.md) https://www.youtube.com/watch?v=LJ358eEelS4
+* [February 11th, 2020 Livestream Q&A: Satisfactory on mobile?](./yt-Vb5nLTtDSpA.md) https://www.youtube.com/watch?v=Vb5nLTtDSpA
+* [March 9th, 2019 Livestream Q&A: You guys are planning a mobile port, right?](./yt-gxWgVKBPTtM.md) https://www.youtube.com/watch?v=gxWgVKBPTtM
+</details>
+
 
 ### Topics
 * [Mods](../topics/mods.md)

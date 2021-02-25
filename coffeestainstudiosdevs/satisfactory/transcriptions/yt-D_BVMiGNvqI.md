@@ -8,6 +8,8 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will you add any Monsters/Bosses in the future?
 https://www.youtube.com/watch?v=D_BVMiGNvqI
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any future combat or enemy updates to come?](./yt-MS3_LOEapI4.md) https://www.youtube.com/watch?v=MS3_LOEapI4
+
 
 ### Topics
 * [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)

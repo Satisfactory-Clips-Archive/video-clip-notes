@@ -8,6 +8,8 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Plush?
 https://www.youtube.com/watch?v=svSLbvLwSxQ
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Lizard Doggo plushie?](./yt-FlOFnqAw5go.md) https://www.youtube.com/watch?v=FlOFnqAw5go
+
 
 ### Topics
 * [Merch](../topics/merch.md)

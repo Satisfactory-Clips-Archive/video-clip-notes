@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=U7q88D_G0Ac
 * [February 2nd, 2021 Livestream Q&A: Will Update 4 change any existing Alt recipes? (Part 2)](./yt-wN7_0V9lRfk.md) https://www.youtube.com/watch?v=wN7_0V9lRfk
 </details>
 
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Are there going to be more recipes- not new item recipes but more recipes for old items?](./yt-oojAhgClrl0.md) https://www.youtube.com/watch?v=oojAhgClrl0
+
 
 ### Topics
 * [Features > Crafting](../topics/features/crafting.md)

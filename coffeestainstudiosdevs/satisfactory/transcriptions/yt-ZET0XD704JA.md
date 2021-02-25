@@ -9,6 +9,8 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Will the Story be released as a book/comic ?
 https://www.youtube.com/watch?v=ZET0XD704JA
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Is the game going to have a big Story?](./yt-S-o-0uuZUDo.md) https://www.youtube.com/watch?v=S-o-0uuZUDo
+
 
 ### Topics
 * [Merch](../topics/merch.md)

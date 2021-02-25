@@ -8,6 +8,8 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Do you have an update on the price of delivery fee of Merch?
 https://www.youtube.com/watch?v=mNtdBj-DpK0
+This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: When will Merch shipping worldwide be possible?](./yt-iyFXDTn2YPM.md) https://www.youtube.com/watch?v=iyFXDTn2YPM
+
 
 ### Topics
 * [Merch](../topics/merch.md)

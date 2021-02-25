@@ -9,6 +9,12 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Will Dedicated Servers help with the lag?
 https://www.youtube.com/watch?v=NmlWN5vExT0
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as January 2020.</summary>
+
+* [January 22nd, 2020 Livestream Q&A: Will Dedicated Servers improve performance for everyone?](./yt-_hPGb4nGFvs.md) https://www.youtube.com/watch?v=_hPGb4nGFvs
+</details>
+
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

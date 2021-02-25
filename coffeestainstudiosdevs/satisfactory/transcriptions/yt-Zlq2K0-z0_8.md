@@ -9,6 +9,8 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Is there going to be a central computer plant where you can check the whole production?
 https://www.youtube.com/watch?v=Zlq2K0-z0_8
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Will there be ways to see your total production per minute?](./yt-tHzH3dkTZ4s.md) https://www.youtube.com/watch?v=tHzH3dkTZ4s
+
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)

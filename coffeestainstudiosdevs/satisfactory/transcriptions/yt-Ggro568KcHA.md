@@ -9,6 +9,8 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Does Coffee Stain have any analytics for what players do in the game?
 https://www.youtube.com/watch?v=Ggro568KcHA
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Are you using Google Analytics for collecting data?](./yt-EQHWYOsMUls.md) https://www.youtube.com/watch?v=EQHWYOsMUls
+
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

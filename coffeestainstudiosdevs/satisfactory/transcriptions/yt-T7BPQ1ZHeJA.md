@@ -9,6 +9,8 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Would geothermal generators get a buff or rework of sorts?
 https://www.youtube.com/watch?v=T7BPQ1ZHeJA
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Are there changes planned for Geothermal?](./yt-XCMncMB0z50.md) https://www.youtube.com/watch?v=XCMncMB0z50
+
 
 ### Topics
 * [Features > Power Management](../topics/features/power-management.md)

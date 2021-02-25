@@ -10,6 +10,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Train Signals?
 https://www.youtube.com/watch?v=WQH5cWS3s2s
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any news on Train revamp?](./yt-_kBUD_mMahs.md) https://www.youtube.com/watch?v=_kBUD_mMahs
+
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

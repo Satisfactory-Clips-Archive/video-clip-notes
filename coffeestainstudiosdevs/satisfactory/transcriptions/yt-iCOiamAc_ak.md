@@ -10,6 +10,12 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Some buildings used to auto-select recipes?
 https://www.youtube.com/watch?v=iCOiamAc_ak
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+
+* [September 22nd, 2020 Livestream Q&A: Is there any possibility to autodetect materials on the belts to preselect recipes per input?](./yt-KB49DxFs6tw.md) https://www.youtube.com/watch?v=KB49DxFs6tw
+</details>
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

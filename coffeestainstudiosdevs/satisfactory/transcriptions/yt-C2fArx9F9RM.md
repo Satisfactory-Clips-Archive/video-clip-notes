@@ -11,6 +11,12 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: What about some leaks?
 https://www.youtube.com/watch?v=C2fArx9F9RM
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+
+* [September 1st, 2020 Livestream Q&A: Give us a sneak peak?](./yt-CExAeq0cW5E.md) https://www.youtube.com/watch?v=CExAeq0cW5E
+</details>
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

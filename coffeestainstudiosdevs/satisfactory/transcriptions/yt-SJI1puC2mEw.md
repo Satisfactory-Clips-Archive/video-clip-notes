@@ -11,6 +11,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?
 https://www.youtube.com/watch?v=SJI1puC2mEw
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as October 2020.</summary>
+
+* [October 20th, 2020 Livestream Q&A: Will the Pipeline Junction be stackable?](./yt-qzAbkRHSojU.md) https://www.youtube.com/watch?v=qzAbkRHSojU
+</details>
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

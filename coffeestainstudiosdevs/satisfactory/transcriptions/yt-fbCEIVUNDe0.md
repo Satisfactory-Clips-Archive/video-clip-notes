@@ -9,6 +9,8 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: How about repeatable Space Elevator shipments to make more use of it?
 https://www.youtube.com/watch?v=fbCEIVUNDe0
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Will we get more uses/shipments for the Space Elevator?](./yt-pjoG5bBsTKI.md) https://www.youtube.com/watch?v=pjoG5bBsTKI
+
 
 ### Topics
 * [Features > Buildings > AWESOME Sink](../topics/features/buildings/awesome-sink.md)

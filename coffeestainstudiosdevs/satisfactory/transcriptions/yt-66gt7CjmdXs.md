@@ -8,6 +8,8 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: What's the reason for not having good in-production overview?
 https://www.youtube.com/watch?v=66gt7CjmdXs
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Will there be ways to see your total production per minute?](./yt-tHzH3dkTZ4s.md) https://www.youtube.com/watch?v=tHzH3dkTZ4s
+
 
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)

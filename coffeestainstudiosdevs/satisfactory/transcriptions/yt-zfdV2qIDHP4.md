@@ -9,6 +9,8 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Multiple Foundation creation?
 https://www.youtube.com/watch?v=zfdV2qIDHP4
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Mass Foundation creation?](./yt-Z0H06UJbb4E.md) https://www.youtube.com/watch?v=Z0H06UJbb4E
+
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)

@@ -10,6 +10,8 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Did you crunch for Update 3?
 https://www.youtube.com/watch?v=BwJG6ZHR7Io
+This question was possibly duplicated with a more recent answer: [December 15th, 2020 Livestream Q&A: Do you guys crunch or do you actually care about stuff like health?](./yt-Ev8CEXznWsE.md) https://www.youtube.com/watch?v=Ev8CEXznWsE
+
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

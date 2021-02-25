@@ -10,6 +10,8 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is there an actual win condition or is it just 'til end of content?
 https://www.youtube.com/watch?v=Pn5tcfKmF20
+This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Thoughts on making end-game point or goal?](./yt-hhckg5vm5_w.md) https://www.youtube.com/watch?v=hhckg5vm5_w
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)

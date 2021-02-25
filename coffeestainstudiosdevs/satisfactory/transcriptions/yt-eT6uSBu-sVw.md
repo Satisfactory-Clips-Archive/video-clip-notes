@@ -9,6 +9,8 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any news about Trains? If so put them in Update 4?
 https://www.youtube.com/watch?v=eT6uSBu-sVw
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any news on Train revamp?](./yt-_kBUD_mMahs.md) https://www.youtube.com/watch?v=_kBUD_mMahs
+
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)

@@ -9,6 +9,8 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Will Mods break?
 https://www.youtube.com/watch?v=f1iY6Fj__E0
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Will Mods come to Update 4?](./yt-IXuBCWtpEsE.md) https://www.youtube.com/watch?v=IXuBCWtpEsE
+
 
 ### Topics
 * [Mods](../topics/mods.md)

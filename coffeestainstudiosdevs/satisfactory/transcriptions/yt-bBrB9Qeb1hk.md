@@ -9,6 +9,8 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will existing Mods work with new build?
 https://www.youtube.com/watch?v=bBrB9Qeb1hk
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: When will Mods work again?](./yt-u6HJZ1gJhRk.md) https://www.youtube.com/watch?v=u6HJZ1gJhRk
+
 
 ### Topics
 * [Mods](../topics/mods.md)

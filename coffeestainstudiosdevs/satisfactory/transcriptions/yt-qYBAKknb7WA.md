@@ -9,6 +9,8 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Will 1.0 go to Experimental?
 https://www.youtube.com/watch?v=qYBAKknb7WA
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is that March date for Experimental?](./yt-sQTpG9Ws6EA.md) https://www.youtube.com/watch?v=sQTpG9Ws6EA
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)

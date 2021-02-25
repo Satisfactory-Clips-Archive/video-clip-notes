@@ -8,6 +8,8 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Cat Companion instead of Doggo?
 https://www.youtube.com/watch?v=tUpHAgaYB4o
+This question was possibly duplicated with a more recent answer: [October 6th, 2020 Livestream Q&A: Any plans about new pets?](./yt-sLBqy5auRck.md) https://www.youtube.com/watch?v=sLBqy5auRck
+
 
 ### Topics
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)

@@ -8,6 +8,8 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When do you have Discord integration?
 https://www.youtube.com/watch?v=uI3MwJi8iAk
+This question was possibly duplicated with a more recent answer: [November 3rd, 2020 Livestream Q&A: What about Discord implementation for that Discord Rich Presence?](./yt-s4YySOL2SC0.md) https://www.youtube.com/watch?v=s4YySOL2SC0
+
 
 ### Topics
 * [Features > Possible Features > Third-Party Service Integration](../topics/features/possible-features/third-party-service-integration.md)

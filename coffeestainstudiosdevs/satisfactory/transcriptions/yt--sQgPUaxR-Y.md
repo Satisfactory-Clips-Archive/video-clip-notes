@@ -9,6 +9,8 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are there any plans for Blueprinting Buildings?
 https://www.youtube.com/watch?v=-sQgPUaxR-Y
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for Blueprint mode?](./yt-tJSLxVZ-sFg.md) https://www.youtube.com/watch?v=tJSLxVZ-sFg
+
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

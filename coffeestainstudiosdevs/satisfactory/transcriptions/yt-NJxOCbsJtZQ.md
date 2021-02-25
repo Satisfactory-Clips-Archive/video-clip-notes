@@ -9,6 +9,8 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Will you fix translations?
 https://www.youtube.com/watch?v=NJxOCbsJtZQ
+This question was possibly duplicated with a more recent answer: [February 11th, 2020 Livestream Q&A: How does one help with localisation?](./yt-uLblaRDOX4Y.md) https://www.youtube.com/watch?v=uLblaRDOX4Y
+
 
 ### Topics
 * [Localisation](../topics/localisation.md)

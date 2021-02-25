@@ -9,6 +9,8 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Are there plans to improve Vehicle performance for Update 4?
 https://www.youtube.com/watch?v=nat8VwaykqE
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Improvements on Vehicles next Update?](./yt-79CHl9qFo90.md) https://www.youtube.com/watch?v=79CHl9qFo90
+
 
 ### Topics
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)

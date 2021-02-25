@@ -10,6 +10,8 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?
 https://www.youtube.com/watch?v=RVq5k89jlEA
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: What are the plans to improve multiplayer bugs in the future?](./yt-D36NzV3LAB8.md) https://www.youtube.com/watch?v=D36NzV3LAB8
+
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

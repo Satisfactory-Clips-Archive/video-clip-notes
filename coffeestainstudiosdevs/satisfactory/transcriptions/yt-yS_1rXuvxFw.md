@@ -8,6 +8,12 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will there be a Peacfull Mode with no Hostile Creatures?
 https://www.youtube.com/watch?v=yS_1rXuvxFw
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
+
+* August 18th, 2020 Livestream Q&A: Will there be a no combat/fight version? https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid
+</details>
+
 
 ### Topics
 * [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)

@@ -9,6 +9,8 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: What about having covered Conveyors to help performance?
 https://www.youtube.com/watch?v=dbJGfDr5SLk
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Does obscuring belts actually help with performance?](./yt-JDJ5hvAkrWw.md) https://www.youtube.com/watch?v=JDJ5hvAkrWw
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

@@ -8,6 +8,8 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: drag & place?
 https://www.youtube.com/watch?v=OQwjkJmYxAs
+This question was possibly duplicated with a more recent answer: [November 24th, 2020 Livestream Q&A: Click & Drag functionality for building?](./yt-vaYxvmOkUQY.md) https://www.youtube.com/watch?v=vaYxvmOkUQY
+
 
 ### Topics
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)

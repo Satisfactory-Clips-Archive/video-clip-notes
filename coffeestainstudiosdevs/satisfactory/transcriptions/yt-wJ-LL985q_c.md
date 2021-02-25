@@ -8,6 +8,8 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Do you guys write automated tests?
 https://www.youtube.com/watch?v=wJ-LL985q_c
+This question was possibly duplicated with a more recent answer: [October 9th, 2020 Livestream Q&A: Unit Tests FTW?](./yt-8MbgpOLyXyY.md) https://www.youtube.com/watch?v=8MbgpOLyXyY
+
 
 ### Topics
 

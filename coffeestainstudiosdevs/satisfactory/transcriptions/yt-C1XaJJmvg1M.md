@@ -9,6 +9,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Why are there no Solar Panels ?
 https://www.youtube.com/watch?v=C1XaJJmvg1M
+This question was possibly duplicated with a more recent answer: [November 17th, 2020 Livestream Q&A: Can we add Solar Power?](./yt-_Uf5e-J9TwA.md) https://www.youtube.com/watch?v=_Uf5e-J9TwA
+
 
 ### Topics
 * [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)

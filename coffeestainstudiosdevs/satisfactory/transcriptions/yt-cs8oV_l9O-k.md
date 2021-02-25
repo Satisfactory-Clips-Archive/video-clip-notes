@@ -9,6 +9,12 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can I switch between Experimental & Early Access?
 https://www.youtube.com/watch?v=cs8oV_l9O-k
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as October 2020.</summary>
+
+* [October 27th, 2020 Livestream Q&A: Can I play my Early Access save on Experimental?](./yt-d9u5Na0jBfo.md) https://www.youtube.com/watch?v=d9u5Na0jBfo
+</details>
+
 
 ### Topics
 * [Features > Save System > Cloud Sync](../topics/features/save-system/cloud-sync.md)

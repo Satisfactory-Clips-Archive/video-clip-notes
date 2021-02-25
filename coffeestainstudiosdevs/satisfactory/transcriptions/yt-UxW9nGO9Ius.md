@@ -9,6 +9,8 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Any plans for better Belts for Pure nodes?
 https://www.youtube.com/watch?v=UxW9nGO9Ius
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Mk.6 Belt in the next Update?](./yt-DpT2LNED0wk.md) https://www.youtube.com/watch?v=DpT2LNED0wk
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

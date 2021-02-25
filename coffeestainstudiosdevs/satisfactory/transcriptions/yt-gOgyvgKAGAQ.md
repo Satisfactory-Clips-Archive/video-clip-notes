@@ -9,6 +9,12 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Satisfactory on Steam?
 https://www.youtube.com/watch?v=gOgyvgKAGAQ
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as February 2019.</summary>
+
+* [February 6th, 2019 Livestream Q&A: Available on Steam in future?](./yt-Dtm6xIj-wM4,3280.698724,3286.654122.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287
+</details>
+
 
 ### Topics
 * [Retail > Epic Store > Epic Store Exclusivity](../topics/retail/epic-store/epic-store-exclusivity.md)

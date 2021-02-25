@@ -8,6 +8,16 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Will Achievements ever be created?
 https://www.youtube.com/watch?v=scxr_vl9Pzk
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as November 2020 and as early as August 2018.</summary>
+
+* [November 10th, 2020 Livestream Q&A: Achievements system?](./yt-bthe_Dhs6uo.md) https://www.youtube.com/watch?v=bthe_Dhs6uo
+* [November 3rd, 2020 Livestream Q&A: Are Steam Achievements going to be added in the future?](./yt-Gi08SVnHyLU.md) https://www.youtube.com/watch?v=Gi08SVnHyLU
+* [September 29th, 2020 Livestream Q&A: Give us Steam Achievements already?](./yt-9tNel2ksYnI.md) https://www.youtube.com/watch?v=9tNel2ksYnI
+* [March 24th, 2020 Livestream Q&A: Achievements?](./yt-G8K0Bjs8mNo.md) https://www.youtube.com/watch?v=G8K0Bjs8mNo
+* [August 1st, 2018 Livestream Q&A: Will there be Steam achievements?](./yt-iFAy1NZUOGU,119.72,131.28.md) https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132
+</details>
+
 
 ### Topics
 * [Features > Possible Features > Third-Party Service Integration > Achievements](../topics/features/possible-features/third-party-service-integration/achievements.md)

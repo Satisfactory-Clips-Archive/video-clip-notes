@@ -8,6 +8,8 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: How much will Update 4 be?
 https://www.youtube.com/watch?v=otcOBJLcgic
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Can we pay money for Update 4?](./yt-oaPsSg5iwBc.md) https://www.youtube.com/watch?v=oaPsSg5iwBc
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

@@ -8,6 +8,8 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Will Gift Trees continue to produce?
 https://www.youtube.com/watch?v=FqUcLve4Oyc
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Give FICS⁕MAS back?](./yt-CmQgxVzbXoQ.md) https://www.youtube.com/watch?v=CmQgxVzbXoQ
+
 
 ### Topics
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)

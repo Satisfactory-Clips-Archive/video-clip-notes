@@ -9,6 +9,8 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Will you incorporate any mods into the base game?
 https://www.youtube.com/watch?v=G1NZf7SbA00
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: You devs ever seen a Mod and been like "Oh, we need to put that in the game" ?](./yt-UrgqXAHK4KU.md) https://www.youtube.com/watch?v=UrgqXAHK4KU
+
 
 ### Topics
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)

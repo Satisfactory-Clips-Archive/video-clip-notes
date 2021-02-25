@@ -11,6 +11,12 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Where does the Space Elevator go?
 https://www.youtube.com/watch?v=g9FlxkN5dhc
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+
+* [September 1st, 2020 Livestream Q&A: Are we going to be able to get the Space Elevator Food Court?](./yt-YNogQuanQlc.md) https://www.youtube.com/watch?v=YNogQuanQlc
+</details>
+
 
 ### Topics
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)

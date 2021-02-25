@@ -10,6 +10,8 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will RTX be added to Update 4 with the new Unreal Engine?
 https://www.youtube.com/watch?v=RubFX693enI
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Do you have any plans to add Ray Tracing or DLSS?](./yt-hRzZjCBoI8s.md) https://www.youtube.com/watch?v=hRzZjCBoI8s
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

@@ -10,6 +10,8 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Will there be a roadmap again for Updates?
 https://www.youtube.com/watch?v=EiqFP9bm7v4
+This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: I would be interested to see your in-house roadmap](./yt-D0LY0PxkSJM.md) https://www.youtube.com/watch?v=D0LY0PxkSJM
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)

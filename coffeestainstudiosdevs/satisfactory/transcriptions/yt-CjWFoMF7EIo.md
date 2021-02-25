@@ -8,6 +8,8 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Can you add ability to deselect with ctrl?
 https://www.youtube.com/watch?v=CjWFoMF7EIo
+This question was possibly duplicated with a more recent answer: [December 15th, 2020 Livestream Q&A: Can dismantle mode have an ignore function maybe?](./yt-0KLJ2_1P_uk.md) https://www.youtube.com/watch?v=0KLJ2_1P_uk
+
 
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)

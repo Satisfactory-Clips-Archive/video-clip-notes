@@ -9,6 +9,8 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Will the Steam release make reliability better?
 https://www.youtube.com/watch?v=fKXR3PibLLA
+This question was possibly duplicated with a more recent answer: [June 8th, 2020 Livestream Q&A: Will Epic & Steam get the same Updates?](./yt-t814f8sansw.md) https://www.youtube.com/watch?v=t814f8sansw
+
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

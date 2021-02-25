@@ -9,6 +9,8 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Will you switch to using Unreal Engine 5?
 https://www.youtube.com/watch?v=9r6ROgTQ_n4
+This question was possibly duplicated with a more recent answer: [October 27th, 2020 Livestream Q&A: Talking about Engine Update, was that Unreal Engine 5?](./yt-unAf5J6OtDE.md) https://www.youtube.com/watch?v=unAf5J6OtDE
+
 
 ### Topics
 * [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)

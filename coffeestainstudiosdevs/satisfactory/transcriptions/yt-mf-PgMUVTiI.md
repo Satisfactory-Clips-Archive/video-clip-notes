@@ -8,6 +8,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Are you going to improve networking for multiplayer?
 https://www.youtube.com/watch?v=mf-PgMUVTiI
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: What are the plans to improve multiplayer bugs in the future?](./yt-D36NzV3LAB8.md) https://www.youtube.com/watch?v=D36NzV3LAB8
+
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

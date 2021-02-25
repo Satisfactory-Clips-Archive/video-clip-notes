@@ -8,6 +8,12 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Biggest history of Satisfactory Updates?
 https://www.youtube.com/watch?v=LOjffz_Nj4A
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as February 2020.</summary>
+
+* [February 11th, 2020 Livestream Q&A: How big is the Update?](./yt-bzYuFehrxT0.md) https://www.youtube.com/watch?v=bzYuFehrxT0
+</details>
+
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)

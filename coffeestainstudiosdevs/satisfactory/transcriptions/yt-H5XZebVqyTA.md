@@ -9,6 +9,8 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Will physics be improved later on, i.e. Steel Beams for supports instead of floating platforms?
 https://www.youtube.com/watch?v=H5XZebVqyTA
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Will Foundations be falling down from non-supported beams?](./yt-lxpA6PIJEbo.md) https://www.youtube.com/watch?v=lxpA6PIJEbo
+
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)

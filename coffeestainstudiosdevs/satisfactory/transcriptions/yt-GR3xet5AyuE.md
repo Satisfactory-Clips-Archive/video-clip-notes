@@ -9,6 +9,8 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is Linux support planned in the future?
 https://www.youtube.com/watch?v=GR3xet5AyuE
+This question was possibly duplicated with a more recent answer: [December 15th, 2020 Livestream Q&A: Will Satisfactory have native support for Linux?](./yt-jGFUMhD3WGg.md) https://www.youtube.com/watch?v=jGFUMhD3WGg
+
 
 ### Topics
 * [Technology > Linux](../topics/technology/linux.md)

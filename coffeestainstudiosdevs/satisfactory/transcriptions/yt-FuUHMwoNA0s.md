@@ -9,6 +9,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will light be added to the game?
 https://www.youtube.com/watch?v=FuUHMwoNA0s
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Lights & Lampposts please?](./yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g
+
 
 ### Topics
 * [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)

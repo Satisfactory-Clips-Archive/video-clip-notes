@@ -8,6 +8,8 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Multiplayer, how's it going- when came better sync in Multiplayer?
 https://www.youtube.com/watch?v=bfXUQNNIPRY
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: What are the plans to improve multiplayer bugs in the future?](./yt-D36NzV3LAB8.md) https://www.youtube.com/watch?v=D36NzV3LAB8
+
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

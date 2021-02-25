@@ -9,6 +9,13 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Are there going to be more recipes- not new item recipes but more recipes for old items?
 https://www.youtube.com/watch?v=oojAhgClrl0
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as January 2021.</summary>
+
+* [February 2nd, 2021 Livestream Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](./yt-U7q88D_G0Ac.md) https://www.youtube.com/watch?v=U7q88D_G0Ac
+* [January 19th, 2021 Livestream Q&A: Will alternative recipes change with Update 4?](./yt-mwrYWPHr4jk.md) https://www.youtube.com/watch?v=mwrYWPHr4jk
+</details>
+
 
 ### Topics
 * [Features > Crafting](../topics/features/crafting.md)

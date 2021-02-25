@@ -10,6 +10,12 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Can we get more cat variety?
 https://www.youtube.com/watch?v=v_9SO9SU3B0
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
+
+* August 25th, 2020 Livestream Q&A: More cats in Arachnophobia Mode? https://www.youtube.com/watch?v=xgdgen43IzQ
+</details>
+
 
 ### Topics
 * [Features > Accessibility](../topics/features/accessibility.md)

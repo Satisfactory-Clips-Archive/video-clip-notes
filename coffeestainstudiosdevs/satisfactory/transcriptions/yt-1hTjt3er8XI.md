@@ -8,6 +8,8 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Any more info on Train Signals?
 https://www.youtube.com/watch?v=1hTjt3er8XI
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any news on Train revamp?](./yt-_kBUD_mMahs.md) https://www.youtube.com/watch?v=_kBUD_mMahs
+
 
 ### Topics
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)

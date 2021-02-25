@@ -8,6 +8,8 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Can you put in Lights, please?
 https://www.youtube.com/watch?v=7dm8Lvfj8Ao
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Lights & Lampposts please?](./yt-xXbrwFqiS5g.md) https://www.youtube.com/watch?v=xXbrwFqiS5g
+
 
 ### Topics
 * [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)

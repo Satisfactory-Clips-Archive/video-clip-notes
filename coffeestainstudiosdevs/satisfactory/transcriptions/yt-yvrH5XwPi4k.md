@@ -8,6 +8,12 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Are there plans to optimise the Tutorial?
 https://www.youtube.com/watch?v=yvrH5XwPi4k
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
+
+* [August 25th, 2020 Livestream Q&A: What about a Tutorial System?](./yt-jJOvimJ-Jcc.md) https://www.youtube.com/watch?v=jJOvimJ-Jcc
+</details>
+
 
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)

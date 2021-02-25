@@ -8,6 +8,8 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will there be a european Merch store?
 https://www.youtube.com/watch?v=GhfR61WpR6k
+This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: When will Merch shipping worldwide be possible?](./yt-iyFXDTn2YPM.md) https://www.youtube.com/watch?v=iyFXDTn2YPM
+
 
 ### Topics
 * [Merch](../topics/merch.md)

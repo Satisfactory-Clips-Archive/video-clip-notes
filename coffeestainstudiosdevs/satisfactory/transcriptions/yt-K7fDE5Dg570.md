@@ -9,6 +9,8 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will Aliens become more diverse/actually challenging?
 https://www.youtube.com/watch?v=K7fDE5Dg570
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any future combat or enemy updates to come?](./yt-MS3_LOEapI4.md) https://www.youtube.com/watch?v=MS3_LOEapI4
+
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

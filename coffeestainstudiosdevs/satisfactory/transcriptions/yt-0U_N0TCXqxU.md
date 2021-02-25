@@ -9,6 +9,8 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Are we getting Story?
 https://www.youtube.com/watch?v=0U_N0TCXqxU
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Is the game going to have a big Story?](./yt-S-o-0uuZUDo.md) https://www.youtube.com/watch?v=S-o-0uuZUDo
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)

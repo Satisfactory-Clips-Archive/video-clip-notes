@@ -8,6 +8,8 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Mac Release / Release to other platforms?
 https://www.youtube.com/watch?v=xVOvU3NVxfs
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: When is Satisfactory going to be on Mac?](./yt-VTSAUKoarIw.md) https://www.youtube.com/watch?v=VTSAUKoarIw
+
 
 ### Topics
 * [Technology > Mac](../topics/technology/mac.md)

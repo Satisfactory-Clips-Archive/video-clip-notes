@@ -8,6 +8,8 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Will there be a Creative Mode?
 https://www.youtube.com/watch?v=nz4VgYaVDDo
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Is Creative Mode coming?](./yt-aJZ3jTvUHHQ.md) https://www.youtube.com/watch?v=aJZ3jTvUHHQ
+
 
 ### Topics
 * [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)

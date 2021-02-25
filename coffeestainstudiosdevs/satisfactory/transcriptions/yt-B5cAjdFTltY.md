@@ -8,6 +8,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Terraforming?
 https://www.youtube.com/watch?v=B5cAjdFTltY
+This question was possibly duplicated with a more recent answer: [November 24th, 2020 Livestream Q&A: Is terraforming possible any time in the future?](./yt-_fE2dbyaJZg.md) https://www.youtube.com/watch?v=_fE2dbyaJZg
+
 
 ### Topics
 * [Features > Unplanned Features > Terraforming](../topics/features/unplanned-features/terraforming.md)

@@ -8,6 +8,8 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Achievements?
 https://www.youtube.com/watch?v=G8K0Bjs8mNo
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Will Achievements ever be created?](./yt-scxr_vl9Pzk.md) https://www.youtube.com/watch?v=scxr_vl9Pzk
+
 
 ### Topics
 * [Features > Possible Features > Third-Party Service Integration > Achievements](../topics/features/possible-features/third-party-service-integration/achievements.md)

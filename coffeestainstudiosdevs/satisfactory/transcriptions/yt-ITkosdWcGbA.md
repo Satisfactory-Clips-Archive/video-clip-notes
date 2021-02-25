@@ -10,6 +10,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Linux would be useful for Servers
 https://www.youtube.com/watch?v=ITkosdWcGbA
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: What Operating System will the Dedicated Servers be?](./yt-071RPMJfFJk.md) https://www.youtube.com/watch?v=071RPMJfFJk
+
 
 ### Topics
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)

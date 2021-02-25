@@ -8,6 +8,8 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Player skin customisation?
 https://www.youtube.com/watch?v=oJzUWOdpQ5o
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: When will we be able to get different character customisations?](./yt-x55_Zt2OLQ4.md) https://www.youtube.com/watch?v=x55_Zt2OLQ4
+
 
 ### Topics
 * [Features > Possible Features > Character Customisation](../topics/features/possible-features/character-customisation.md)

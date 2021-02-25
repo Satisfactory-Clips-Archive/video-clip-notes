@@ -8,6 +8,8 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Do you guys plan on any space stations or building amongst multi planets?
 https://www.youtube.com/watch?v=OJ8LnojSUzo
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Planning on making any space stuff?](./yt-pYPBpZdBvP4.md) https://www.youtube.com/watch?v=pYPBpZdBvP4
+
 
 ### Topics
 * [Features > Unplanned Features > Space Exploration](../topics/features/unplanned-features/space-exploration.md)

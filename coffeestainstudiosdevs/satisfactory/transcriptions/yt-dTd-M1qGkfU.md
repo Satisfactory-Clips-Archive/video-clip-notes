@@ -10,6 +10,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: More pollution as you progress?
 https://www.youtube.com/watch?v=dTd-M1qGkfU
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Can we get a CO₂ meter so we can keep track of how badly we screwed the planet?](./yt-bjXv7xwwIIA.md) https://www.youtube.com/watch?v=bjXv7xwwIIA
+
 
 ### Topics
 * [Environment > Plants](../topics/environment/plants.md)

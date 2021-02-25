@@ -8,6 +8,8 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will planning be added?
 https://www.youtube.com/watch?v=_HKsPj2tx04
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Any thoughts on letting you have a planning tool mode?](./yt-MFCmy7atLDk.md) https://www.youtube.com/watch?v=MFCmy7atLDk
+
 
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)

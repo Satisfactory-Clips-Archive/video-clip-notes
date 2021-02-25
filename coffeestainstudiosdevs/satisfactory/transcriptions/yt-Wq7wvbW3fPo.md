@@ -9,6 +9,8 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will we have Paintable Vehicles?
 https://www.youtube.com/watch?v=Wq7wvbW3fPo
+This question was possibly duplicated with a more recent answer: February 2nd, 2021 Livestream Q&A: Vehicle Painting? https://www.youtube.com/watch?v=aIproPDd8V0
+
 
 ### Topics
 * [Features > Paint](../topics/features/paint.md)

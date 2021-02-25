@@ -12,6 +12,8 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will Gas Pipes have Headlift or Valves?
 https://www.youtube.com/watch?v=Zd9lUkAlJrk
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Are Gases going to work like Liquids?](./yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
+
 
 ### Topics
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)

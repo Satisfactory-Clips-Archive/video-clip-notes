@@ -8,6 +8,8 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Is there going to be a Mass Construction option?
 https://www.youtube.com/watch?v=RPLvCZvTNxg
+This question was possibly duplicated with a more recent answer: [November 24th, 2020 Livestream Q&A: Click & Drag functionality for building?](./yt-vaYxvmOkUQY.md) https://www.youtube.com/watch?v=vaYxvmOkUQY
+
 
 ### Topics
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)

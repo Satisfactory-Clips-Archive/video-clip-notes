@@ -8,6 +8,13 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Are there any Green Energy options in the game?
 https://www.youtube.com/watch?v=9eBugtyk8U0
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as August 2020 and as early as June 2020.</summary>
+
+* August 11th, 2020 Livestream Q&A: Green Energy? https://clips.twitch.tv/BloodyIcyDragonflyStoneLightning
+* [June 8th, 2020 Livestream Q&A: What about Green Energy?](./yt-bPo3BFtjDLs.md) https://www.youtube.com/watch?v=bPo3BFtjDLs
+</details>
+
 
 ### Topics
 * [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)

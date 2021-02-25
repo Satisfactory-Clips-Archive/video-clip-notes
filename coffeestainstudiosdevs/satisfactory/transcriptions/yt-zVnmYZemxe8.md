@@ -8,6 +8,8 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Is the Map finalised, as in there will be no more additions?
 https://www.youtube.com/watch?v=zVnmYZemxe8
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Will the Map be bigger later?](./yt-gvOt4jwWA4Q.md) https://www.youtube.com/watch?v=gvOt4jwWA4Q
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

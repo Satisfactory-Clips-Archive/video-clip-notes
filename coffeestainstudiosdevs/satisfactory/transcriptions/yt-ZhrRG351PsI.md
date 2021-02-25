@@ -10,6 +10,8 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Are there any Dutch people in Coffee Stain?
 https://www.youtube.com/watch?v=ZhrRG351PsI
+This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: How come so many Dutch developers?](./yt-iV-D3TFuaIU.md) https://www.youtube.com/watch?v=iV-D3TFuaIU
+
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)

@@ -9,6 +9,13 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: KFConsole exclusive?
 https://www.youtube.com/watch?v=nK8NUTMQVTM
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as January 2021.</summary>
+
+* [January 26th, 2021 Livestream Q&A: How are the talks with exclusivity on KFConsole?](./yt-hEs8MwzAoig.md) https://www.youtube.com/watch?v=hEs8MwzAoig
+* [January 12th, 2021 Livestream Q&A: Can we get a Console Release for the KFConsole?](./yt-P7R2hxi19pM.md) https://www.youtube.com/watch?v=P7R2hxi19pM
+</details>
+
 
 ### Topics
 * [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)

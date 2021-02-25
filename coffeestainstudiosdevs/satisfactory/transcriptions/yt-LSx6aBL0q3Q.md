@@ -8,6 +8,8 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do you ever get the feeling the game will be put aside and never leave Early Access?
 https://www.youtube.com/watch?v=LSx6aBL0q3Q
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: What's the chance that the game will be released this year?](./yt-W2O4gfNYj9s.md) https://www.youtube.com/watch?v=W2O4gfNYj9s
+
 
 ### Topics
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)

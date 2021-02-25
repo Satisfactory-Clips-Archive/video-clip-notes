@@ -8,6 +8,8 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will you be adding more Cargo Crash Sites to add more alt recipes?
 https://www.youtube.com/watch?v=P7JCgZ-mLDE
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: More HDD Crash Sites for Update 4?](./yt-awtYncMFbBo.md) https://www.youtube.com/watch?v=awtYncMFbBo
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

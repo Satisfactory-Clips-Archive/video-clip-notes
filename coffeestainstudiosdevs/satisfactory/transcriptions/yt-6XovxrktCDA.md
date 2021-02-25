@@ -9,6 +9,8 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will the event come back next year?
 https://www.youtube.com/watch?v=6XovxrktCDA
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Give FICS⁕MAS back?](./yt-CmQgxVzbXoQ.md) https://www.youtube.com/watch?v=CmQgxVzbXoQ
+
 
 ### Topics
 * [Satisfactory Updates > Seasonal Events](../topics/satisfactory-updates/seasonal-events.md)

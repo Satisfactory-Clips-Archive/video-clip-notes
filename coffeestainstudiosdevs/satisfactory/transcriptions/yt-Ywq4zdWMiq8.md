@@ -8,6 +8,8 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will Blueprints be a thing at some point?
 https://www.youtube.com/watch?v=Ywq4zdWMiq8
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for Blueprint mode?](./yt-tJSLxVZ-sFg.md) https://www.youtube.com/watch?v=tJSLxVZ-sFg
+
 
 ### Topics
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)

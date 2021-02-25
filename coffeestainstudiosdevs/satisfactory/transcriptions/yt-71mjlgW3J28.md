@@ -8,6 +8,8 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: If you kill Lizard Doggos do they respawn?
 https://www.youtube.com/watch?v=71mjlgW3J28
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Are there limited Lizard Doggos on the map?](./yt-v7d8Lqlq53w.md) https://www.youtube.com/watch?v=v7d8Lqlq53w
+
 
 ### Topics
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)

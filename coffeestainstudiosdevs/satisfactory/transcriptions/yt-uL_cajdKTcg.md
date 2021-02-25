@@ -8,6 +8,12 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: What about modular build?
 https://www.youtube.com/watch?v=uL_cajdKTcg
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as November 2020.</summary>
+
+* [November 3rd, 2020 Livestream Q&A: What's the Modular Build?](./yt-vKIeFeGPXJQ.md) https://www.youtube.com/watch?v=vKIeFeGPXJQ
+</details>
+
 
 ### Topics
 * [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)

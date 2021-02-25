@@ -9,6 +9,8 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Flying vehicles for overhead view of your factory?
 https://www.youtube.com/watch?v=njN-07Q5-8s
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./yt-kd3UMt4pESk.md) https://www.youtube.com/watch?v=kd3UMt4pESk
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

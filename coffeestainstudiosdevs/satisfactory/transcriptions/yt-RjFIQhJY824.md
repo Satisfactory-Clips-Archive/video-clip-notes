@@ -9,6 +9,8 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Hoping for Base Defence?
 https://www.youtube.com/watch?v=RjFIQhJY824
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is there going to be tower defense?](./yt-9dWWC0mFitU.md) https://www.youtube.com/watch?v=9dWWC0mFitU
+
 
 ### Topics
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)

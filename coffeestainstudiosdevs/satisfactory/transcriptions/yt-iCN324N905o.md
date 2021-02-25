@@ -8,6 +8,13 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is the OST on Spotify?
 https://www.youtube.com/watch?v=iCN324N905o
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as January 2020.</summary>
+
+* [September 8th, 2020 Livestream Q&A: Releasing the Soundtrack on Spotify?](./yt-zoDYA4Y9jdE.md) https://www.youtube.com/watch?v=zoDYA4Y9jdE
+* [January 22nd, 2020 Livestream Q&A: Are there plans to put the OST on Spotify?](./yt-z4cypywhIks.md) https://www.youtube.com/watch?v=z4cypywhIks
+</details>
+
 
 ### Topics
 * [Soundtrack](../topics/soundtrack.md)

@@ -8,6 +8,12 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: How was the migration to Steam overall, was it worth it?
 https://www.youtube.com/watch?v=dIQQWHWwCGA
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+
+* [September 1st, 2020 Livestream Q&A: Did the Steam release meet expected goals?](./yt-crzPPDeFTcc.md) https://www.youtube.com/watch?v=crzPPDeFTcc
+</details>
+
 
 ### Topics
 * [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)

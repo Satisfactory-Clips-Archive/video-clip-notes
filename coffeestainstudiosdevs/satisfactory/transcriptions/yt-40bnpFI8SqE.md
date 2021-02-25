@@ -8,6 +8,8 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Is there any possibility you guys will be add the making of circles?
 https://www.youtube.com/watch?v=40bnpFI8SqE
+This question was possibly duplicated with a more recent answer: [November 17th, 2020 Livestream Q&A: Circular Foundations?](./yt-5snNwUqWAxA.md) https://www.youtube.com/watch?v=5snNwUqWAxA
+
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)

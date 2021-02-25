@@ -8,6 +8,20 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans for Elevators?
 https://www.youtube.com/watch?v=VUe1w6nSdko
+<details>
+<summary>This question may have been asked previously at least 9 other times, as recently as September 2020 and as early as December 2019.</summary>
+
+* [September 29th, 2020 Livestream Q&A: Any plans for an elevator or lift?](./yt-zoHTyGXCbsM.md) https://www.youtube.com/watch?v=zoHTyGXCbsM
+* [September 15th, 2020 Livestream Q&A: Are you guys going to make a Player Elevator?](./yt-KTp_pmyifGo.md) https://www.youtube.com/watch?v=KTp_pmyifGo
+* [September 8th, 2020 Livestream Q&A: Elevator for Vehicles & Players?](./yt-v_KEYdpCb-k.md) https://www.youtube.com/watch?v=v_KEYdpCb-k
+* [August 25th, 2020 Livestream Q&A: Actual Elevators with floor-select buttons ?](./yt-vZxhnaT88dc.md) https://www.youtube.com/watch?v=vZxhnaT88dc
+* [August 25th, 2020 Livestream Q&A: Do you have plans for elevators usable for players?](./yt-ZnuY8kzdKQU.md) https://www.youtube.com/watch?v=ZnuY8kzdKQU
+* August 11th, 2020 Livestream Q&A: Elevators? https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime
+* [December 19th, 2019 Livestream Q&A: How about personal elevators?](./yt-f3TtRJWOI2Q.md) https://www.youtube.com/watch?v=f3TtRJWOI2Q
+* [December 19th, 2019 Livestream Q&A: Human Elevators?](./yt-HGwoBSLqtcw.md) https://www.youtube.com/watch?v=HGwoBSLqtcw
+* December 19th, 2019 Livestream Q&A: Vehicle Lifts? https://www.youtube.com/watch?v=ayGH9w3sEBo
+</details>
+
 
 ### Topics
 * [Features > Buildables > Ladders](../topics/features/buildables/ladders.md)

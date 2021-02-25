@@ -8,6 +8,8 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: How long will the game be supported?
 https://www.youtube.com/watch?v=y_dM0ukYioo
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Does the dev team have any ideas for post-launch content?](./yt-gppSU17i2as.md) https://www.youtube.com/watch?v=gppSU17i2as
+
 
 ### Topics
 

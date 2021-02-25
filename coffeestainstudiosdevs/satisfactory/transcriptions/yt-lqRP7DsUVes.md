@@ -11,6 +11,8 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: You have several job openings right now?
 https://www.youtube.com/watch?v=lqRP7DsUVes
+This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?](./yt-iqGA8u7MmMM.md) https://www.youtube.com/watch?v=iqGA8u7MmMM
+
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

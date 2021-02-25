@@ -10,6 +10,8 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Snowy Biome confirmed?
 https://www.youtube.com/watch?v=Yend7bHTMvw
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Can we please get a Snow Biome?](./yt-QHVdhswD13w.md) https://www.youtube.com/watch?v=QHVdhswD13w
+
 
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)

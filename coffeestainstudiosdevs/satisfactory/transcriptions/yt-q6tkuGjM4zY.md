@@ -9,6 +9,8 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Procedural generation of the World?
 https://www.youtube.com/watch?v=q6tkuGjM4zY
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Possible to get randomly generated maps?](./yt-FkM6JZIZrqg.md) https://www.youtube.com/watch?v=FkM6JZIZrqg
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

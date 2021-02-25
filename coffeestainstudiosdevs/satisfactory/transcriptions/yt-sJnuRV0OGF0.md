@@ -10,6 +10,8 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can we get turrets and more PvE?
 https://www.youtube.com/watch?v=sJnuRV0OGF0
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is there going to be tower defense?](./yt-9dWWC0mFitU.md) https://www.youtube.com/watch?v=9dWWC0mFitU
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

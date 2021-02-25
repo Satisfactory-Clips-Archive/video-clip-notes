@@ -8,6 +8,12 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Is Zip Line travel limited to distances between two Power Poles?
 https://www.youtube.com/watch?v=5x5XXOoj9Xw
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
+
+* [February 16th, 2021 Livestream Q&A: What length will the new Zip Lines cap at?](./yt-v3_fHKQqX24.md) https://www.youtube.com/watch?v=v3_fHKQqX24
+</details>
+
 
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
