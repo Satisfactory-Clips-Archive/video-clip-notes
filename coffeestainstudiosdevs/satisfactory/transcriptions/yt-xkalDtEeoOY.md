@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=xkalDtEeoOY
 <details>
 <summary>This video continues in another video</summary>
 
-* [September 15th, 2020 Livestream Q&A: Update release schedule (part 2)](https://archive.satisfactory.video/transcriptions/yt-vfVo9rCpVtQ) https://www.youtube.com/watch?v=vfVo9rCpVtQ
+* [September 15th, 2020 Livestream Q&A: Update release schedule (part 2)](./yt-vfVo9rCpVtQ.md) https://www.youtube.com/watch?v=vfVo9rCpVtQ
 </details>
 
 

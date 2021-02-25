@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=atdEe4Bm11k
 <details>
 <summary>This video continues in another video</summary>
 
-* [September 22nd, 2020 Livestream Jace & Snutt Talk: Zombie/Clone Players (part 2)](https://archive.satisfactory.video/transcriptions/yt-8Kcg4e20fMk) https://www.youtube.com/watch?v=8Kcg4e20fMk
+* [September 22nd, 2020 Livestream Jace & Snutt Talk: Zombie/Clone Players (part 2)](./yt-8Kcg4e20fMk.md) https://www.youtube.com/watch?v=8Kcg4e20fMk
 </details>
 
 

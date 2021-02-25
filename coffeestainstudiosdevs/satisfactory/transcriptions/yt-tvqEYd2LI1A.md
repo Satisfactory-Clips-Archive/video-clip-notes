@@ -11,20 +11,20 @@ https://www.youtube.com/watch?v=tvqEYd2LI1A
 <details>
 <summary>This video is part of a series of 14 videos.</summary>
 
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 1)](https://archive.satisfactory.video/transcriptions/yt-c6Qy5jzXmqM) https://www.youtube.com/watch?v=c6Qy5jzXmqM
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 2)](https://archive.satisfactory.video/transcriptions/yt-NM5eNwiCX0c) https://www.youtube.com/watch?v=NM5eNwiCX0c
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 3)](https://archive.satisfactory.video/transcriptions/yt-cZgVZMk4zvM) https://www.youtube.com/watch?v=cZgVZMk4zvM
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 4)](https://archive.satisfactory.video/transcriptions/yt-JrWLEvJRhHM) https://www.youtube.com/watch?v=JrWLEvJRhHM
-* [October 9th, 2020 Livestream Snutt & Dylan Talk: Instanced Splines (Part 5)](https://archive.satisfactory.video/transcriptions/yt-gSQeLZpcnRc) https://www.youtube.com/watch?v=gSQeLZpcnRc
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 6)](https://archive.satisfactory.video/transcriptions/yt-oyHCEA2k1PM) https://www.youtube.com/watch?v=oyHCEA2k1PM
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 7)](https://archive.satisfactory.video/transcriptions/yt-s-Sa9DA4pDc) https://www.youtube.com/watch?v=s-Sa9DA4pDc
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 9)](https://archive.satisfactory.video/transcriptions/yt-pj50SOLT17Q) https://www.youtube.com/watch?v=pj50SOLT17Q
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 10)](https://archive.satisfactory.video/transcriptions/yt-kfEIpnOvAoc) https://www.youtube.com/watch?v=kfEIpnOvAoc
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 11)](https://archive.satisfactory.video/transcriptions/yt-xAdqOl7aKIE) https://www.youtube.com/watch?v=xAdqOl7aKIE
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 12)](https://archive.satisfactory.video/transcriptions/yt-cMjc0nP-yMM) https://www.youtube.com/watch?v=cMjc0nP-yMM
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 13)](https://archive.satisfactory.video/transcriptions/yt-0VtsjQsFzZU) https://www.youtube.com/watch?v=0VtsjQsFzZU
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 14)](https://archive.satisfactory.video/transcriptions/yt-wPV9uZsHLN8) https://www.youtube.com/watch?v=wPV9uZsHLN8
-* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 15)](https://archive.satisfactory.video/transcriptions/yt-fJRZSb0W8mQ) https://www.youtube.com/watch?v=fJRZSb0W8mQ
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 1)](./yt-c6Qy5jzXmqM.md) https://www.youtube.com/watch?v=c6Qy5jzXmqM
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 2)](./yt-NM5eNwiCX0c.md) https://www.youtube.com/watch?v=NM5eNwiCX0c
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 3)](./yt-cZgVZMk4zvM.md) https://www.youtube.com/watch?v=cZgVZMk4zvM
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 4)](./yt-JrWLEvJRhHM.md) https://www.youtube.com/watch?v=JrWLEvJRhHM
+* [October 9th, 2020 Livestream Snutt & Dylan Talk: Instanced Splines (Part 5)](./yt-gSQeLZpcnRc.md) https://www.youtube.com/watch?v=gSQeLZpcnRc
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 6)](./yt-oyHCEA2k1PM.md) https://www.youtube.com/watch?v=oyHCEA2k1PM
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 7)](./yt-s-Sa9DA4pDc.md) https://www.youtube.com/watch?v=s-Sa9DA4pDc
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 9)](./yt-pj50SOLT17Q.md) https://www.youtube.com/watch?v=pj50SOLT17Q
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 10)](./yt-kfEIpnOvAoc.md) https://www.youtube.com/watch?v=kfEIpnOvAoc
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 11)](./yt-xAdqOl7aKIE.md) https://www.youtube.com/watch?v=xAdqOl7aKIE
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 12)](./yt-cMjc0nP-yMM.md) https://www.youtube.com/watch?v=cMjc0nP-yMM
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 13)](./yt-0VtsjQsFzZU.md) https://www.youtube.com/watch?v=0VtsjQsFzZU
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 14)](./yt-wPV9uZsHLN8.md) https://www.youtube.com/watch?v=wPV9uZsHLN8
+* [October 9th, 2020 Livestream Dylan Talk: Instanced Splines (Part 15)](./yt-fJRZSb0W8mQ.md) https://www.youtube.com/watch?v=fJRZSb0W8mQ
 </details>
 
 
