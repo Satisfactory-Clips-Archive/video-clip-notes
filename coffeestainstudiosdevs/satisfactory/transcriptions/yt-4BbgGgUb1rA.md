@@ -9,6 +9,8 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Are Dedicated Servers part of Update 3?
 https://www.youtube.com/watch?v=4BbgGgUb1rA
+This question was possibly replaced with a more recent answer: [January 19th, 2021 Livestream Q&A: How possible are Dedicated Servers in Update 4?](./yt--3JqJE_94g0.md) https://www.youtube.com/watch?v=-3JqJE_94g0
+
 
 ### Topics
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)

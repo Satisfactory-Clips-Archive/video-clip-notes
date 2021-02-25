@@ -9,6 +9,8 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: What was the Leak™?
 https://www.youtube.com/watch?v=nFRNm35pE-8
+This question was possibly replaced with a more recent answer: [February 19th, 2021 Livestream Intro](./yt-Tmpors_r_Vw,,26.259566666666668.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27
+
 
 ### Topics
 * [Features > Power Management > Power Storage](../topics/features/power-management/power-storage.md)

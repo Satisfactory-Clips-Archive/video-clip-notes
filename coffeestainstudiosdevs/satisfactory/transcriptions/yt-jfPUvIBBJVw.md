@@ -8,6 +8,8 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: You guys planning a Content Creator Program?
 https://www.youtube.com/watch?v=jfPUvIBBJVw
+This question was possibly replaced with a more recent answer: [January 19th, 2021 Livestream Q&A: Any news from the Content Creator program?](./yt-UbRjqQgji40.md) https://www.youtube.com/watch?v=UbRjqQgji40
+
 
 ### Topics
 * [Community](../topics/community.md)

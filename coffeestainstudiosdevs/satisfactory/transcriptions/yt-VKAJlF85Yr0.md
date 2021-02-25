@@ -8,6 +8,8 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Will Satisfactory be available on GeForce NOW?
 https://www.youtube.com/watch?v=VKAJlF85Yr0
+This question was possibly replaced with a more recent answer: [January 19th, 2021 Livestream Snutt Talk: GeForce NOW](./yt-JDXZ-q-9na0.md) https://www.youtube.com/watch?v=JDXZ-q-9na0
+
 
 ### Topics
 

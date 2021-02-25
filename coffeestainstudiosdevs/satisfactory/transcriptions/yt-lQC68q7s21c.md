@@ -10,6 +10,8 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: What about Tier 8?
 https://www.youtube.com/watch?v=lQC68q7s21c
+This question was possibly replaced with a more recent answer: [February 2nd, 2021 Livestream Q&A: With new Space Elevator parts does this mean that Tier 8 will unlock separately from Tier 7?](./yt-1Xgd1ANF9gw.md) https://www.youtube.com/watch?v=1Xgd1ANF9gw
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

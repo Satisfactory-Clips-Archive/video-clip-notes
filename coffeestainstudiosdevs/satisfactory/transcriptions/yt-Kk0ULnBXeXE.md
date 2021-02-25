@@ -12,6 +12,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Some new Machines in the next update?
 https://www.youtube.com/watch?v=Kk0ULnBXeXE
+This question was possibly replaced with a more recent answer: [February 9th, 2021 Livestream Q&A: How many new machines in Update 4?](./yt-B_pY-VYMMOE.md) https://www.youtube.com/watch?v=B_pY-VYMMOE
+
 
 ### Topics
 * [Features > Buildings > Blender](../topics/features/buildings/blender.md)

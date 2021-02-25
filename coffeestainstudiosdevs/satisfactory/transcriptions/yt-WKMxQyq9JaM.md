@@ -11,6 +11,8 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Can you press shift to go down the Ladder faster?
 https://www.youtube.com/watch?v=WKMxQyq9JaM
+This question was possibly replaced with a more recent answer: February 23rd, 2021 Livestream Jace Talk: Holding shift (on a Ladder) not making a difference https://www.youtube.com/watch?v=9dQIJfmd74A
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

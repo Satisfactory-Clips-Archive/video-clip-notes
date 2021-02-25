@@ -8,6 +8,8 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: You mentioned Power isn't going to stay the way it is?
 https://www.youtube.com/watch?v=fR7qgr7AGEo
+This question was possibly replaced with a more recent answer: [February 19th, 2021 Livestream Self Regulation of Power Generators being removed](./yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267
+
 
 ### Topics
 * [Features > Power Management](../topics/features/power-management.md)

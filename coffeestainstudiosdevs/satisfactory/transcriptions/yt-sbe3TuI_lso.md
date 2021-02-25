@@ -8,6 +8,8 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Some performance improvements?
 https://www.youtube.com/watch?v=sbe3TuI_lso
+This question was possibly replaced with a more recent answer: [January 12th, 2021 Livestream Q&A: More performance updates with Update 4?](./yt--NZqqfxHzhQ.md) https://www.youtube.com/watch?v=-NZqqfxHzhQ
+
 
 ### Topics
 

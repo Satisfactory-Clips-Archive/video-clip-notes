@@ -11,6 +11,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Can we expect significant performance increase with Update 4?
 https://www.youtube.com/watch?v=PVf-pBNYO_M
+This question was possibly replaced with a more recent answer: [January 12th, 2021 Livestream Q&A: More performance updates with Update 4?](./yt--NZqqfxHzhQ.md) https://www.youtube.com/watch?v=-NZqqfxHzhQ
+
 
 ### Topics
 * [Community > Kibitz](../topics/community/kibitz.md)

@@ -9,6 +9,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will Gas be in Update 4?
 https://www.youtube.com/watch?v=ScNrW0Th3wg
+This question was possibly replaced with a more recent answer: [January 15th, 2021 Livestream Intro](./yt-Jxh8kvtUuxY,,46.3463.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47
+
 
 ### Topics
 * [Features > Gases](../topics/features/gases.md)

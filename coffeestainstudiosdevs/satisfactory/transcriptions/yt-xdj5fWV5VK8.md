@@ -9,6 +9,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Do you want to release updates before you release full game?
 https://www.youtube.com/watch?v=xdj5fWV5VK8
+This question was possibly replaced with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any more major updates planned before 1.0?](./yt-XLXeOMWHoAc.md) https://www.youtube.com/watch?v=XLXeOMWHoAc
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)

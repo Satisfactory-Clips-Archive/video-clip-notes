@@ -10,6 +10,8 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is it possible to use powerline as zip-lines?
 https://www.youtube.com/watch?v=NTeBuhOqIu0
+This question was possibly replaced with a more recent answer: [February 2nd, 2021 Livestream State of Dev: We leaked Zip Lines](./yt-NJmd9ET-R1k.md) https://www.youtube.com/watch?v=NJmd9ET-R1k
+
 
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)

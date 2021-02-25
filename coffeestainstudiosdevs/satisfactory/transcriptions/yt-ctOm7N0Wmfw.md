@@ -8,6 +8,8 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any way we can get closed captions for the stream?
 https://www.youtube.com/watch?v=ctOm7N0Wmfw
+This question was possibly replaced with a more recent answer: [January 19th, 2021 Livestream State of Dev: Closed Captions](./yt-sAS09ChPivY.md) https://www.youtube.com/watch?v=sAS09ChPivY
+
 
 ### Topics
 * [Features > Accessibility](../topics/features/accessibility.md)
