@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Space Exploration
 
+## February 23rd, 2021 Livestream
+* [Q&A: Planning on making any space stuff?](../../../transcriptions/yt-pYPBpZdBvP4.md) https://www.youtube.com/watch?v=pYPBpZdBvP4
+
 ## February 16th, 2021 Livestream
 * [Q&A: Do you guys plan on any space stations or building amongst multi planets?](../../../transcriptions/yt-OJ8LnojSUzo.md) https://www.youtube.com/watch?v=OJ8LnojSUzo
 

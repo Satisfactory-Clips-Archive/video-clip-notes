@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## February 23rd, 2021 Livestream
+* [Q&A: Can you Zip Line on the FICS⁕MAS Power Lines?](../../../transcriptions/yt-HkgkowY2uUE.md) https://www.youtube.com/watch?v=HkgkowY2uUE
+* Community FYI: I'm sad I missed FICS⁕MAS https://www.youtube.com/watch?v=RS1D0qkrZg0
+
 ## January 26th, 2021 Livestream
 * [Q&A: Give FICS⁕MAS back?](../../../transcriptions/yt-CmQgxVzbXoQ.md) https://www.youtube.com/watch?v=CmQgxVzbXoQ
 

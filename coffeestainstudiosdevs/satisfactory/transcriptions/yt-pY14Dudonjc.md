@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/equipment/zip-lines"
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Are we getting a new teaser this week?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=pY14Dudonjc
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
+## February 23rd, 2021 Livestream
+* [Q&A: Any future combat or enemy updates to come?](../../../transcriptions/yt-MS3_LOEapI4.md) https://www.youtube.com/watch?v=MS3_LOEapI4
+
 ## February 9th, 2021 Livestream
 * [Q&A: Is there going to be tower defense?](../../../transcriptions/yt-9dWWC0mFitU.md) https://www.youtube.com/watch?v=9dWWC0mFitU
 

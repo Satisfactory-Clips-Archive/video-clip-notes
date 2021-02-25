@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Buildables > Storage Containers
 
+## February 23rd, 2021 Livestream
+* [Q&A: Being able to pick up the orange Storage boxes and move them would be nice?](../../../transcriptions/yt-2r7-Vfzg2FM.md) https://www.youtube.com/watch?v=2r7-Vfzg2FM
+* [Q&A: Will there be an option to limit the capacity of Freight Cars, Vehicles, and other Storages?](../../../transcriptions/yt-pzQu_zUweOI.md) https://www.youtube.com/watch?v=pzQu_zUweOI
+
 ## December 15th, 2020 Livestream
 * [Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update?](../../../transcriptions/yt-6BahsrvlPJs.md) https://www.youtube.com/watch?v=6BahsrvlPJs
 * [Q&A: Will you let us upgrade Storage Containers to Industrial Storage Containers?](../../../transcriptions/yt-dcK5sAXkSPg.md) https://www.youtube.com/watch?v=dcK5sAXkSPg

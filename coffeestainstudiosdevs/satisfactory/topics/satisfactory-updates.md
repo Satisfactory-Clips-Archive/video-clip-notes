@@ -14,6 +14,7 @@ date: Last Modified
 * [Seasonal Events](../topics/satisfactory-updates/seasonal-events.md)
 * [Speculative](../topics/satisfactory-updates/speculative.md)
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ## August 25th, 2020 Livestream
 * Q&A: Do you want to release updates before you release full game? https://clips.twitch.tv/EmpathicExuberantWeaselAllenHuhu

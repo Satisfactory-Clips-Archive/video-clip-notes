@@ -3,20 +3,18 @@ title: "February 9th, 2021 Livestream Q&A: How do Gas Extractors work with Multi
 date: "2021-02-09"
 layout: transcript
 topics:
+    - "features/emotes"
     - "features/gases"
     - "features/multiplayer"
-    - "features/possible-features/character-customisation"
-    - "technology/user-interface"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: How do Gas Extractors work with Multiplayer fart emotes to increase Gas production?
 https://www.youtube.com/watch?v=Lv_BZl7rgOE
 
 ### Topics
+* [Features > Emotes](../topics/features/emotes.md)
 * [Features > Gases](../topics/features/gases.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Possible Features > Character Customisation](../topics/features/possible-features/character-customisation.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > Ray Tracing
 
+## February 23rd, 2021 Livestream
+* [Snutt Talk: Ray Tracing & DLSS](../../../transcriptions/yt-S7e0g_0B8GM.md) https://www.youtube.com/watch?v=S7e0g_0B8GM
+
 ## February 9th, 2021 Livestream
 * [Q&A: Do you have any plans to add Ray Tracing or DLSS?](../../../transcriptions/yt-hRzZjCBoI8s.md) https://www.youtube.com/watch?v=hRzZjCBoI8s
 

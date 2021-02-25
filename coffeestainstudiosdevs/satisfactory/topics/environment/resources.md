@@ -9,6 +9,9 @@ date: Last Modified
 * [Somersloop](../../topics/environment/resources/somersloop.md)
 * [Steel](../../topics/environment/resources/steel.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: Could you please add a Coffee machine or even a Coffee production line?](../../transcriptions/yt-XpBlPzRT3FA.md) https://www.youtube.com/watch?v=XpBlPzRT3FA
+
 ## February 19th, 2021 Livestream
 * [Self Regulation of Power Generators being removed](../../transcriptions/yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267
 

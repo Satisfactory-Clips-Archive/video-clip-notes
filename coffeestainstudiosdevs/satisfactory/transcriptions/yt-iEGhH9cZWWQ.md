@@ -6,6 +6,7 @@ topics:
     - "features/buildings"
     - "features/buildings/packager"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Jace & Snutt Talk: New Feature - Packager (part 2)
@@ -21,6 +22,7 @@ https://www.youtube.com/watch?v=iEGhH9cZWWQ
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

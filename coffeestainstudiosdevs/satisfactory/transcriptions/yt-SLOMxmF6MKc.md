@@ -3,6 +3,7 @@ title: "February 9th, 2021 Livestream Q&A: Can you give us a teaser for what the
 date: "2021-02-09"
 layout: transcript
 topics:
+    - "satisfactory-updates/teasers-trailers"
     - "story-lore"
     - "story-lore/characters/caterina-parks"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=SLOMxmF6MKc
 
 ### Topics
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 * [Story & Lore](../topics/story-lore.md)
 * [Story & Lore > Characters > Caterina Parks](../topics/story-lore/characters/caterina-parks.md)
 

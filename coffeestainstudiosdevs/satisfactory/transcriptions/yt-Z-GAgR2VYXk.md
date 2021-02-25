@@ -3,14 +3,14 @@ title: "February 9th, 2021 Livestream Q&A: When's the next Teaser Trailer?"
 date: "2021-02-09"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: When's the next Teaser Trailer?
 https://www.youtube.com/watch?v=Z-GAgR2VYXk
 
 ### Topics
-
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

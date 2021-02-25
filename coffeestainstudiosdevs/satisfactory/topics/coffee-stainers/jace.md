@@ -4,6 +4,17 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## February 23rd, 2021 Livestream
+* [Q&A: A beanie trophy?](../../transcriptions/yt-vQlvfDhG01E.md) https://www.youtube.com/watch?v=vQlvfDhG01E
+* [Q&A: Can we get a Jace trophy in the game?](../../transcriptions/yt-2Bd9mFmmRFg.md) https://www.youtube.com/watch?v=2Bd9mFmmRFg
+* [Q&A: Can you press shift to go down the Ladder faster?](../../transcriptions/yt-WKMxQyq9JaM.md) https://www.youtube.com/watch?v=WKMxQyq9JaM
+* [Q&A: Is Update 4 coming out before or after Jace beats this maze?](../../transcriptions/yt-NzTAvolZZrY.md) https://www.youtube.com/watch?v=NzTAvolZZrY
+* [Snutt & Jace Talk: Running the maze next week](../../transcriptions/yt-PrnPEpZR1o0.md) https://www.youtube.com/watch?v=PrnPEpZR1o0
+* [Snutt Talk: Snow-related continuity error](../../transcriptions/yt-H8P-fo4Ovr4.md) https://www.youtube.com/watch?v=H8P-fo4Ovr4
+* [Snutt & Jace Talk: What do your Elven eyes see?](../../transcriptions/yt--8e9UFPRbMo.md) https://www.youtube.com/watch?v=-8e9UFPRbMo
+* [Q&A: Where is Jace's beanie?](../../transcriptions/yt-5KThzhNUTLY.md) https://www.youtube.com/watch?v=5KThzhNUTLY
+* [Q&A: Would you say bringing Satisfactory to life is your raison d'être?](../../transcriptions/yt-XXV23XMUmJA.md) https://www.youtube.com/watch?v=XXV23XMUmJA
+
 ## February 16th, 2021 Livestream
 * [Q&A: Bacon or Sausage?](../../transcriptions/yt-n70T0HTcjB0.md) https://www.youtube.com/watch?v=n70T0HTcjB0
 * [Community FYI: Jace is Tom Holland of leaks](../../transcriptions/yt-6cbxDiQr9kY.md) https://www.youtube.com/watch?v=6cbxDiQr9kY

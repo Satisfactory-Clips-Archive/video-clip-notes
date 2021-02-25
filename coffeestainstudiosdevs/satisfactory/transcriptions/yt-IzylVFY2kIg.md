@@ -4,6 +4,7 @@ date: "2020-10-06"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Did we release any information on what's expected next update?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=IzylVFY2kIg
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

@@ -4,6 +4,7 @@ date: "2020-10-13"
 layout: transcript
 topics:
     - "features/buildings/packager"
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Is that not actual gameplay footage?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=fRiHEwAwDpw
 
 ### Topics
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

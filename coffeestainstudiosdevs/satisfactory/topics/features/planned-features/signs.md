@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## February 23rd, 2021 Livestream
+* [Snutt & Jace Talk: Signs are confirmed](../../../transcriptions/yt-MowmGat6MFY.md) https://www.youtube.com/watch?v=MowmGat6MFY
+
 ## February 16th, 2021 Livestream
 * [Q&A: Will there be signs in future updates?](../../../transcriptions/yt--t832FeMogU.md) https://www.youtube.com/watch?v=-t832FeMogU
 

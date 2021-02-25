@@ -8,6 +8,9 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Snutt Talk: GeForce NOW](../../../transcriptions/yt-JDXZ-q-9na0.md) https://www.youtube.com/watch?v=JDXZ-q-9na0
 
+## November 17th, 2020 Livestream
+* [Q&A: When do we get Twitch Subscribe/Emote options?](../../../transcriptions/yt-1oMDAPZ2bZ4.md) https://www.youtube.com/watch?v=1oMDAPZ2bZ4
+
 ## November 3rd, 2020 Livestream
 * [Q&A: What about Discord implementation for that Discord Rich Presence?](../../../transcriptions/yt-s4YySOL2SC0.md) https://www.youtube.com/watch?v=s4YySOL2SC0
 

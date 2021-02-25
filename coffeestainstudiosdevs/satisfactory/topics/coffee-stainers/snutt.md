@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
+## February 23rd, 2021 Livestream
+* [Q&A: A beanie trophy?](../../transcriptions/yt-vQlvfDhG01E.md) https://www.youtube.com/watch?v=vQlvfDhG01E
+* [Snutt & Jace Talk: Running the maze next week](../../transcriptions/yt-PrnPEpZR1o0.md) https://www.youtube.com/watch?v=PrnPEpZR1o0
+* [Snutt Talk: Snow-related continuity error](../../transcriptions/yt-H8P-fo4Ovr4.md) https://www.youtube.com/watch?v=H8P-fo4Ovr4
+* [Snutt & Jace Talk: What do your Elven eyes see?](../../transcriptions/yt--8e9UFPRbMo.md) https://www.youtube.com/watch?v=-8e9UFPRbMo
+* [Q&A: Would you say bringing Satisfactory to life is your raison d'être?](../../transcriptions/yt-XXV23XMUmJA.md) https://www.youtube.com/watch?v=XXV23XMUmJA
+
 ## February 16th, 2021 Livestream
 * [Q&A: Bacon or Sausage?](../../transcriptions/yt-n70T0HTcjB0.md) https://www.youtube.com/watch?v=n70T0HTcjB0
 * [Snutt & Jace Talk: Jace doesn't know anything about analytics, but Snutt implemented it](../../transcriptions/yt-iOvaI1_2xKo.md) https://www.youtube.com/watch?v=iOvaI1_2xKo

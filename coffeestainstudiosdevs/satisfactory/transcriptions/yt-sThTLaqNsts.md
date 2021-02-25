@@ -6,6 +6,7 @@ topics:
     - "features/fluids/pipes"
     - "features/transportation/vehicles/factory-cart"
     - "satisfactory-updates/released/satisfactory-update-3"
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt & Jace Talk: We can finally talk about Update 3
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=sThTLaqNsts
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Transportation > Vehicles > Factory Cart](../topics/features/transportation/vehicles/factory-cart.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

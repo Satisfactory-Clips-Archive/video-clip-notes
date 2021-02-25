@@ -3,15 +3,22 @@ title: "Equipment"
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Equipment
+* [Blade Runners](../../topics/features/equipment/blade-runners.md)
 * [Chainsaw](../../topics/features/equipment/chainsaw.md)
 * [Jetpack](../../topics/features/equipment/jetpack.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## February 23rd, 2021 Livestream
+* Q&A: Can we get an in-game notepad? https://www.youtube.com/watch?v=chc6o85O0AQ
+* [Q&A: Can you make Coffee give you 1% speed boost when building?](../../transcriptions/yt-Rb-gKC3AQ64.md) https://www.youtube.com/watch?v=Rb-gKC3AQ64
+* [Q&A: Coffee physics?](../../transcriptions/yt-LjCbSSlwrTo.md) https://www.youtube.com/watch?v=LjCbSSlwrTo
+* [Q&A: Could you please add a Coffee machine or even a Coffee production line?](../../transcriptions/yt-XpBlPzRT3FA.md) https://www.youtube.com/watch?v=XpBlPzRT3FA
+* [Q&A: Have you guys shot down the idea of a grappling hook?](../../transcriptions/yt-coZy3f5YFkw.md) https://www.youtube.com/watch?v=coZy3f5YFkw
+* [Q&A: Reload for Rifles?](../../transcriptions/yt-LGjLUSeHQ4w.md) https://www.youtube.com/watch?v=LGjLUSeHQ4w
+* [Q&A: Since you have a cup of coffee, how about a spit-take emote?](../../transcriptions/yt-Q4BRujPmgN0.md) https://www.youtube.com/watch?v=Q4BRujPmgN0
+
 ## February 9th, 2021 Livestream
 * [Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?](../../transcriptions/yt-5Z5pyzNiaVY.md) https://www.youtube.com/watch?v=5Z5pyzNiaVY
-
-## February 2nd, 2021 Livestream
-* [Q&A: Will we get two character slots for Jetpacks and Blade Runners](../../transcriptions/yt-YKIN_NCGDpo.md) https://www.youtube.com/watch?v=YKIN_NCGDpo
 
 ## January 19th, 2021 Livestream
 * [Q&A: Are we getting a new gun with the Gas update like a freeze gun ?](../../transcriptions/yt-eFgO1iuPr20.md) https://www.youtube.com/watch?v=eFgO1iuPr20

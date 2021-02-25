@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## February 23rd, 2021 Livestream
+* [Q&A: Any more major updates planned before 1.0?](../../../transcriptions/yt-XLXeOMWHoAc.md) https://www.youtube.com/watch?v=XLXeOMWHoAc
+* [Q&A: Are there any features that're being held for the 1.0 release?](../../../transcriptions/yt-ufAQLXW_yNk.md) https://www.youtube.com/watch?v=ufAQLXW_yNk
+* [Q&A: S.A.M. Ore getting a main use any time soon?](../../../transcriptions/yt-ow33F_nK6nc.md) https://www.youtube.com/watch?v=ow33F_nK6nc
+* [Snutt & Jace Talk: Signs are confirmed](../../../transcriptions/yt-MowmGat6MFY.md) https://www.youtube.com/watch?v=MowmGat6MFY
+* [Q&A: Where does the Space Elevator go?](../../../transcriptions/yt-g9FlxkN5dhc.md) https://www.youtube.com/watch?v=g9FlxkN5dhc
+* [Q&A: Will you be able to play Story on an existing save when 1.0 comes out?](../../../transcriptions/yt-fbIm1CfGGZQ.md) https://www.youtube.com/watch?v=fbIm1CfGGZQ
+
 ## February 16th, 2021 Livestream
 * [Q&A: Have you considered some sort of free demo for the game?](../../../transcriptions/yt-Jy8mbOy0BJ0.md) https://www.youtube.com/watch?v=Jy8mbOy0BJ0
 * [Q&A: How much content are you planning for 1.0- do you want it to be over 200 hour playthrough?](../../../transcriptions/yt-R9u6_oxcsX4.md) https://www.youtube.com/watch?v=R9u6_oxcsX4

@@ -3,7 +3,7 @@ title: "February 2nd, 2021 Livestream Q&A: Will we get two character slots for J
 date: "2021-02-02"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/blade-runners"
     - "features/equipment/jetpack"
     - "technology/user-interface"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=YKIN_NCGDpo
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Blade Runners](../topics/features/equipment/blade-runners.md)
 * [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

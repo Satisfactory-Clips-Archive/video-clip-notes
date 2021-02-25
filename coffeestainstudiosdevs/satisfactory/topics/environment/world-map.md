@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## February 23rd, 2021 Livestream
+* [Q&A: Any ideas on a more detailed Map?](../../transcriptions/yt-w3_T37dQba0.md) https://www.youtube.com/watch?v=w3_T37dQba0
+
 ## February 16th, 2021 Livestream
 * [Q&A: Are there limited Lizard Doggos on the map?](../../transcriptions/yt-v7d8Lqlq53w.md) https://www.youtube.com/watch?v=v7d8Lqlq53w
 

@@ -6,6 +6,11 @@ date: Last Modified
 * [DLSS](../../topics/technology/graphics/dlss.md)
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: If we're not getting Dedicated Servers any time soon, is it possible to get disabled rendering?](../../transcriptions/yt-qiF-rpSnoTI.md) https://www.youtube.com/watch?v=qiF-rpSnoTI
+* [Q&A: Is DirectX 12 fully supported now?](../../transcriptions/yt-zJ3RVfHpogY.md) https://www.youtube.com/watch?v=zJ3RVfHpogY
+* [Q&A: Third Person View?](../../transcriptions/yt-wcP5kwfOfSc.md) https://www.youtube.com/watch?v=wcP5kwfOfSc
+
 ## February 16th, 2021 Livestream
 * [Q&A: Have you fixed the gamma?](../../transcriptions/yt-2NIYN2OWrWs.md) https://www.youtube.com/watch?v=2NIYN2OWrWs
 

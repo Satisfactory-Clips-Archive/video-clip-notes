@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## February 23rd, 2021 Livestream
+* [Q&A: Any news on Train revamp?](../../../../transcriptions/yt-_kBUD_mMahs.md) https://www.youtube.com/watch?v=_kBUD_mMahs
+
 ## February 9th, 2021 Livestream
 * [Q&A: I heard that with Update 4 there will be Train Signalling & Collisions, are the rumours true?](../../../../transcriptions/yt-0Dq3fFtmhmw.md) https://www.youtube.com/watch?v=0Dq3fFtmhmw
 

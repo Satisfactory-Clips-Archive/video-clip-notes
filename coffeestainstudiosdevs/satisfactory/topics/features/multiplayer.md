@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: What are the plans to improve multiplayer bugs in the future?](../../transcriptions/yt-D36NzV3LAB8.md) https://www.youtube.com/watch?v=D36NzV3LAB8
+* [Q&A: Will there be Moderators in the game?](../../transcriptions/yt-b1imtH_pkbE.md) https://www.youtube.com/watch?v=b1imtH_pkbE
+
 ## February 16th, 2021 Livestream
 * [Q&A: Are you planning to fix the Multiplayer late-game?](../../transcriptions/yt-Fk_wKTIx5Z4.md) https://www.youtube.com/watch?v=Fk_wKTIx5Z4
 * [Q&A: How can you use a save that isn't yours?](../../transcriptions/yt-m1kxeGpWTh4.md) https://www.youtube.com/watch?v=m1kxeGpWTh4

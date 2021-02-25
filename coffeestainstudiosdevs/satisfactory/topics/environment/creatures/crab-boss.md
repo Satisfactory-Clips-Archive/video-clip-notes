@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## February 23rd, 2021 Livestream
+* [Q&A: Any future combat or enemy updates to come?](../../../transcriptions/yt-MS3_LOEapI4.md) https://www.youtube.com/watch?v=MS3_LOEapI4
+
 ## February 9th, 2021 Livestream
 * [Q&A: When will you be adding more wildlife?](../../../transcriptions/yt-gAjKNyUTkMQ.md) https://www.youtube.com/watch?v=gAjKNyUTkMQ
 

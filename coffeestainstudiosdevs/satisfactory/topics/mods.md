@@ -9,6 +9,10 @@ date: Last Modified
 * [Official Mod Support](../topics/mods/official-mod-support.md)
 * [Smart!](../topics/mods/smart.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: How about Mod safety- how do you guys assure no malware installed with the Mods we use?](../transcriptions/yt-dWHUW2vrUYE.md) https://www.youtube.com/watch?v=dWHUW2vrUYE
+* [Snutt Talk: Modular Build](../transcriptions/yt-O7uOiD7eedo.md) https://www.youtube.com/watch?v=O7uOiD7eedo
+
 ## February 9th, 2021 Livestream
 * [State of Dev: Modular Build](../transcriptions/yt-pSaAt5v9asM.md) https://www.youtube.com/watch?v=pSaAt5v9asM
 * [Q&A: Will there be possibility to include Mods in GeForce Now?](../transcriptions/yt-AM7YsTblDn0.md) https://www.youtube.com/watch?v=AM7YsTblDn0

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## February 23rd, 2021 Livestream
+* [Q&A: S.A.M. Ore getting a main use any time soon?](../../../transcriptions/yt-ow33F_nK6nc.md) https://www.youtube.com/watch?v=ow33F_nK6nc
+
 ## January 12th, 2021 Livestream
 * [Q&A: What's happening with S.A.M. Ore?](../../../transcriptions/yt-f0Z9VIAK5Iw.md) https://www.youtube.com/watch?v=f0Z9VIAK5Iw
 

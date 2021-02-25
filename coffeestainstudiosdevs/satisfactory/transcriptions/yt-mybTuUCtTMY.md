@@ -3,14 +3,14 @@ title: "September 1st, 2020 Livestream Q&A: Will we have a Content teaser?"
 date: "2020-09-01"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will we have a Content teaser?
 https://www.youtube.com/watch?v=mybTuUCtTMY
 
 ### Topics
-
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

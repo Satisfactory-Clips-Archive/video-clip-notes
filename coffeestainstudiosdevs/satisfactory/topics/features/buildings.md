@@ -22,6 +22,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: How about a button to lock a Building in place before building it?](../../transcriptions/yt-1b3hUDdPoKY.md) https://www.youtube.com/watch?v=1b3hUDdPoKY
+
 ## February 16th, 2021 Livestream
 * [Q&A: Are you using Google Analytics for collecting data?](../../transcriptions/yt-EQHWYOsMUls.md) https://www.youtube.com/watch?v=EQHWYOsMUls
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Mass Building
 
+## February 23rd, 2021 Livestream
+* [Q&A: Any plans for Blueprint mode?](../../../transcriptions/yt-tJSLxVZ-sFg.md) https://www.youtube.com/watch?v=tJSLxVZ-sFg
+
 ## February 9th, 2021 Livestream
 * [Community FYI: There's a Mod called the "Smart!" mod, that makes basic building less time consuming](../../../transcriptions/yt-0e_pXEulvY8.md) https://www.youtube.com/watch?v=0e_pXEulvY8
 

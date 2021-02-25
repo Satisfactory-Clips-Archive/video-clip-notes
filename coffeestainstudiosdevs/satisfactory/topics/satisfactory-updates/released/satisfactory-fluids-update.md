@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Fluids Update
 
+## February 23rd, 2021 Livestream
+* [Q&A: Can you press shift to go down the Ladder faster?](../../../transcriptions/yt-WKMxQyq9JaM.md) https://www.youtube.com/watch?v=WKMxQyq9JaM
+* [Q&A: I still have Packaged Fuel being produced from a Refinery, will it be the same with Aluminium?](../../../transcriptions/yt-TT3qZCTt_0o.md) https://www.youtube.com/watch?v=TT3qZCTt_0o
+
 ## January 19th, 2021 Livestream
 * [Snutt & Mark Talk: Retaining legacy recipes with new buildings](../../../transcriptions/yt-ETgrEgA1-7Q.md) https://www.youtube.com/watch?v=ETgrEgA1-7Q
 

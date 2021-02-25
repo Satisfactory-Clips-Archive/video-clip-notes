@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Localisation
 
+## February 23rd, 2021 Livestream
+* [Q&A: Are you going to add more spoken languages to the game?](../transcriptions/yt-fpfVLWArJpo.md) https://www.youtube.com/watch?v=fpfVLWArJpo
+
 ## January 12th, 2021 Livestream
 * [Q&A: How can I help with translation- the Spanish one looks like Google Translator?](../transcriptions/yt-qbaev-b4lbQ.md) https://www.youtube.com/watch?v=qbaev-b4lbQ
 

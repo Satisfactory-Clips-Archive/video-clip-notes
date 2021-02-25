@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Farming
 
+## February 23rd, 2021 Livestream
+* [Q&A: Is there a plan to let us grow food in some way?](../../../transcriptions/yt-axNVUjsuMwo.md) https://www.youtube.com/watch?v=axNVUjsuMwo
+
 ## January 26th, 2021 Livestream
 * [Q&A: Farming would be cool?](../../../transcriptions/yt-qO1Zl01HfqU.md) https://www.youtube.com/watch?v=qO1Zl01HfqU
 

@@ -3,13 +3,13 @@ title: "June 22nd, 2018"
 date: "2018-06-22"
 layout: transcript
 topics: 
-    - ""
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [June 22nd, 2018 Q&A #2: Satisfactory Multiplayer, mods, lizard doggo plushies, and more!](../2018-06-22.md)
 ## Q&A: Was the trailer a cinematic, or shot in-engine?
 https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=492&end=521
 ### Topics
-
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

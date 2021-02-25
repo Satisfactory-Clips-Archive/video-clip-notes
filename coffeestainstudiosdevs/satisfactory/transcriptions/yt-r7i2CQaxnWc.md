@@ -4,6 +4,7 @@ date: "2021-02-02"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Any more teasers?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=r7i2CQaxnWc
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Refinery
 
+## February 23rd, 2021 Livestream
+* [Q&A: I still have Packaged Fuel being produced from a Refinery, will it be the same with Aluminium?](../../../transcriptions/yt-TT3qZCTt_0o.md) https://www.youtube.com/watch?v=TT3qZCTt_0o
+
 ## January 26th, 2021 Livestream
 * [Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?](../../../transcriptions/yt-zYh_QUHwAh4.md) https://www.youtube.com/watch?v=zYh_QUHwAh4
 

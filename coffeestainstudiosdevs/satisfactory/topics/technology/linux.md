@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## February 23rd, 2021 Livestream
+* [Community FYI: It runs better for me on Linux than on Windows](../../transcriptions/yt-zPkgbgA8p1k.md) https://www.youtube.com/watch?v=zPkgbgA8p1k
+
 ## February 9th, 2021 Livestream
 * [Q&A: Do you plan to release on Console one day?](../../transcriptions/yt-mS_O_qnXJp0.md) https://www.youtube.com/watch?v=mS_O_qnXJp0
 * [Q&A: What Operating System will the Dedicated Servers be?](../../transcriptions/yt-071RPMJfFJk.md) https://www.youtube.com/watch?v=071RPMJfFJk

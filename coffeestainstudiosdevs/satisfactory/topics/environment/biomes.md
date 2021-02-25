@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Biomes
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: Will the Dune Desert get crammed or will it stay as the perfect mega-base location?](../../transcriptions/yt-95QNCSBoRYM.md) https://www.youtube.com/watch?v=95QNCSBoRYM
+
 ## January 26th, 2021 Livestream
 * [Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?](../../transcriptions/yt-gqIBbkGCxdI.md) https://www.youtube.com/watch?v=gqIBbkGCxdI
 * [Q&A: Is there another area rework like the desert update happening?](../../transcriptions/yt-sV-kvBvlTXc.md) https://www.youtube.com/watch?v=sV-kvBvlTXc

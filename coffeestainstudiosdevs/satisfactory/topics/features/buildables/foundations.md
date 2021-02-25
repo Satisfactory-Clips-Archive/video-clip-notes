@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Buildables > Foundations
 
+## February 23rd, 2021 Livestream
+* [Q&A: Will Foundations be falling down from non-supported beams?](../../../transcriptions/yt-lxpA6PIJEbo.md) https://www.youtube.com/watch?v=lxpA6PIJEbo
+* [Q&A: Will we be able to place holes in Walls and floors freely?](../../../transcriptions/yt-RrF2Nq2-vmc.md) https://www.youtube.com/watch?v=RrF2Nq2-vmc
+
 ## February 9th, 2021 Livestream
 * [Q&A: Any plans to improve the visual part of building in the game?](../../../transcriptions/yt-k-UDNJY0PWA.md) https://www.youtube.com/watch?v=k-UDNJY0PWA
 * [Q&A: Foundation holes for belts?](../../../transcriptions/yt-A41woUB_6oI.md) https://www.youtube.com/watch?v=A41woUB_6oI

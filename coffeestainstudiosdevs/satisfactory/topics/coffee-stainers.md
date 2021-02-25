@@ -23,6 +23,11 @@ date: Last Modified
 * [Tim](../topics/coffee-stainers/tim.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: How many devs do you have?](../transcriptions/yt-Hj0nhmramiM.md) https://www.youtube.com/watch?v=Hj0nhmramiM
+* [Q&A: How many of them work on Valheim?](../transcriptions/yt-15R0t95pwvc.md) https://www.youtube.com/watch?v=15R0t95pwvc
+* [State of Dev](../transcriptions/yt-ODkDsExNtl4.md) https://www.youtube.com/watch?v=ODkDsExNtl4
+
 ## February 16th, 2021 Livestream
 * [Q&A: Did Coffee Stain Studios develop Satisfactory?](../transcriptions/yt-IPtH5E1-31k.md) https://www.youtube.com/watch?v=IPtH5E1-31k
 * [Q&A: How big is the development team?](../transcriptions/yt--iZbaVL7D0g.md) https://www.youtube.com/watch?v=-iZbaVL7D0g

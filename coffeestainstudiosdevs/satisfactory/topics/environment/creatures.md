@@ -9,6 +9,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: Any future combat or enemy updates to come?](../../transcriptions/yt-MS3_LOEapI4.md) https://www.youtube.com/watch?v=MS3_LOEapI4
+
 ## February 9th, 2021 Livestream
 * [Q&A: When will you be adding more wildlife?](../../transcriptions/yt-gAjKNyUTkMQ.md) https://www.youtube.com/watch?v=gAjKNyUTkMQ
 

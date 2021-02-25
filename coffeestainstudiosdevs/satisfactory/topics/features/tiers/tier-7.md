@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 7
 
+## February 23rd, 2021 Livestream
+* [Q&A: I still have Packaged Fuel being produced from a Refinery, will it be the same with Aluminium?](../../../transcriptions/yt-TT3qZCTt_0o.md) https://www.youtube.com/watch?v=TT3qZCTt_0o
+
 ## February 16th, 2021 Livestream
 * [Q&A: Anything interesting in the analytics?](../../../transcriptions/yt-BMQs1ci2YXo.md) https://www.youtube.com/watch?v=BMQs1ci2YXo
 * [Q&A: Have you considered some sort of free demo for the game?](../../../transcriptions/yt-Jy8mbOy0BJ0.md) https://www.youtube.com/watch?v=Jy8mbOy0BJ0

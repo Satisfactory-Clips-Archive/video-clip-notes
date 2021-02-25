@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Buildings](../../../../topics/features/buildings.md) > [Space Elevator](../../../../topics/features/buildings/space-elevator.md) > Food Court
 
+## February 23rd, 2021 Livestream
+* [Q&A: Where does the Space Elevator go?](../../../../transcriptions/yt-g9FlxkN5dhc.md) https://www.youtube.com/watch?v=g9FlxkN5dhc
+
 ## December 8th, 2020 Livestream
 * [Snutt & Jace Talk: The Wiki](../../../../transcriptions/yt-JGdEGbzDFlY.md) https://www.youtube.com/watch?v=JGdEGbzDFlY
 

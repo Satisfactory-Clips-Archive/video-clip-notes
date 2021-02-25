@@ -6,6 +6,11 @@ date: Last Modified
 * [Fuel](../../topics/features/crafting/fuel.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: Are there going to be more recipes- not new item recipes but more recipes for old items?](../../transcriptions/yt-oojAhgClrl0.md) https://www.youtube.com/watch?v=oojAhgClrl0
+* [Q&A: Are you going to add any more Alternative Recipes?](../../transcriptions/yt-OtcI-GdfbRc.md) https://www.youtube.com/watch?v=OtcI-GdfbRc
+* [Q&A: Will Alternative Recipes be unlocked by a more orderly progression?](../../transcriptions/yt-KxOniqAHQI4.md) https://www.youtube.com/watch?v=KxOniqAHQI4
+
 ## February 9th, 2021 Livestream
 * [Q&A: Will there be another list coming in the Codex showing you which recipes need certain items?](../../transcriptions/yt-Wk1osyojNQw.md) https://www.youtube.com/watch?v=Wk1osyojNQw
 

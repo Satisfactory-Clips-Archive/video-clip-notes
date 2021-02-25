@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-lore.md) > Characters > ADA
 
+## February 23rd, 2021 Livestream
+* [Q&A: Are you going to add more spoken languages to the game?](../../../transcriptions/yt-fpfVLWArJpo.md) https://www.youtube.com/watch?v=fpfVLWArJpo
+
 ## October 27th, 2020 Livestream
 * [Q&A: Is ADA computer generated or a voice actress?](../../../transcriptions/yt-lSeLNlkKo1w.md) https://www.youtube.com/watch?v=lSeLNlkKo1w
 

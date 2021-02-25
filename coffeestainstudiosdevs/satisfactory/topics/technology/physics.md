@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## February 23rd, 2021 Livestream
+* [Q&A: Coffee physics?](../../transcriptions/yt-LjCbSSlwrTo.md) https://www.youtube.com/watch?v=LjCbSSlwrTo
+* [Q&A: Will Foundations be falling down from non-supported beams?](../../transcriptions/yt-lxpA6PIJEbo.md) https://www.youtube.com/watch?v=lxpA6PIJEbo
+
 ## February 9th, 2021 Livestream
 * [Q&A: What do you think about the situation where many only build platforms in the sky?](../../transcriptions/yt-a49jT6lb3ZU.md) https://www.youtube.com/watch?v=a49jT6lb3ZU
 * [Q&A: Will there be less "invalid placement" issues?](../../transcriptions/yt-oawyPBC7jAo.md) https://www.youtube.com/watch?v=oawyPBC7jAo

@@ -7,6 +7,7 @@ topics:
     - "features/buildables/walls"
     - "features/buildings/awesome-store"
     - "satisfactory-updates/released/satisfactory-update-3"
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Snutt & Jace Talk: AWESOME Shop Teaser
@@ -17,6 +18,7 @@ https://www.youtube.com/watch?v=0fiuHwwSrrI
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Modular Build
 
+## February 23rd, 2021 Livestream
+* [Q&A: Did Ben bring up the missing stuff from the Modular Build this morning?](../../transcriptions/yt-ewC4sE7k7Uw.md) https://www.youtube.com/watch?v=ewC4sE7k7Uw
+* [Snutt Talk: Modular Build](../../transcriptions/yt-O7uOiD7eedo.md) https://www.youtube.com/watch?v=O7uOiD7eedo
+
 ## February 16th, 2021 Livestream
 * [Q&A: Size of the Update?](../../transcriptions/yt-NMDDVWs3jZM.md) https://www.youtube.com/watch?v=NMDDVWs3jZM
 * [Q&A: Still on track for March 9th or 16th?](../../transcriptions/yt-iyDadUPxjUs.md) https://www.youtube.com/watch?v=iyDadUPxjUs

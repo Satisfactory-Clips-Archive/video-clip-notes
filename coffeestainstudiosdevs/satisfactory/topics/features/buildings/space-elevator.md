@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: Where does the Space Elevator go?](../../../transcriptions/yt-g9FlxkN5dhc.md) https://www.youtube.com/watch?v=g9FlxkN5dhc
+
 ## February 2nd, 2021 Livestream
 * [Q&A: With new Space Elevator parts does this mean that Tier 8 will unlock separately from Tier 7?](../../../transcriptions/yt-1Xgd1ANF9gw.md) https://www.youtube.com/watch?v=1Xgd1ANF9gw
 

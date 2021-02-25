@@ -4,6 +4,7 @@ date: "2020-10-13"
 layout: transcript
 topics:
     - "satisfactory-updates/state-of-dev"
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Jace & Snutt Talk: State of Dev
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=fLKnY0359tQ
 
 ### Topics
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

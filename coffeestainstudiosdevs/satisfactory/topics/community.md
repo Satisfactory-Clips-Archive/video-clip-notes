@@ -11,6 +11,10 @@ date: Last Modified
 * [Smerkin](../topics/community/smerkin.md)
 * [Wiki](../topics/community/wiki.md)
 
+## February 23rd, 2021 Livestream
+* [Community FYI: It runs better for me on Linux than on Windows](../transcriptions/yt-zPkgbgA8p1k.md) https://www.youtube.com/watch?v=zPkgbgA8p1k
+* [Snutt & Jace Talk: Twitch chat is wacky today](../transcriptions/yt-pjQPU0u5aM0.md) https://www.youtube.com/watch?v=pjQPU0u5aM0
+
 ## February 16th, 2021 Livestream
 * [Community FYI: Currently I'm a fan of all Coffee Stain Publishing games](../transcriptions/yt-CVej1itsGJI.md) https://www.youtube.com/watch?v=CVej1itsGJI
 * [Q&A: How do you stress-test the game?](../transcriptions/yt-HKh8CsYPMvw.md) https://www.youtube.com/watch?v=HKh8CsYPMvw

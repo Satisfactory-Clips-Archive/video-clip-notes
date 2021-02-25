@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Nuclear Energy
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: Like prioritise Coal over Nuclear?](../../../transcriptions/yt-IdKhbyR81Nw.md) https://www.youtube.com/watch?v=IdKhbyR81Nw
+
 ## January 19th, 2021 Livestream
 * [Q&A: Are we going to be able to build more or less Nuclear Power in Update 4 than currently?](../../../transcriptions/yt-RrAwAvxM5T4.md) https://www.youtube.com/watch?v=RrAwAvxM5T4
 * [Q&A: Can we still skip the Nuclear part for Energy Production?](../../../transcriptions/yt-Are7eJK9iKk.md) https://www.youtube.com/watch?v=Are7eJK9iKk

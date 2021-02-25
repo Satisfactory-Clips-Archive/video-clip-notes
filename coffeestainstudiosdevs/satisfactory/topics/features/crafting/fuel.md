@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## February 23rd, 2021 Livestream
+* [Q&A: I still have Packaged Fuel being produced from a Refinery, will it be the same with Aluminium?](../../../transcriptions/yt-TT3qZCTt_0o.md) https://www.youtube.com/watch?v=TT3qZCTt_0o
+
 ## January 19th, 2021 Livestream
 * [Q&A: Any plans to make Liquid Biofuel a viable automated means of Power Generation?](../../../transcriptions/yt-s52yTvp9nbM.md) https://www.youtube.com/watch?v=s52yTvp9nbM
 * [Q&A: Jace mentioned Nitric Acid, will Nitrous Oxide be used for Tractors or Rocket Fuel?](../../../transcriptions/yt-wEzD5wugI4Y.md) https://www.youtube.com/watch?v=wEzD5wugI4Y

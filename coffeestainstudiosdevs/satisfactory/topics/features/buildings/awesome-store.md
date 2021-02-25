@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## February 23rd, 2021 Livestream
+* [Q&A: A beanie trophy?](../../../transcriptions/yt-vQlvfDhG01E.md) https://www.youtube.com/watch?v=vQlvfDhG01E
+* [Q&A: Are we going to have new stuff in the AWESOME Shop for Update 4?](../../../transcriptions/yt-nuWfLlBMtA0.md) https://www.youtube.com/watch?v=nuWfLlBMtA0
+* [Q&A: Can we get a Jace trophy in the game?](../../../transcriptions/yt-2Bd9mFmmRFg.md) https://www.youtube.com/watch?v=2Bd9mFmmRFg
+
 ## February 9th, 2021 Livestream
 * [Q&A: Any plans to improve the visual part of building in the game?](../../../transcriptions/yt-k-UDNJY0PWA.md) https://www.youtube.com/watch?v=k-UDNJY0PWA
 

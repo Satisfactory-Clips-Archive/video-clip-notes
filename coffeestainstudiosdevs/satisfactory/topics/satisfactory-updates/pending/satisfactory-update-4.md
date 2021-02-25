@@ -4,6 +4,28 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 4
 
+## February 23rd, 2021 Livestream
+* [Q&A: Any ideas on a more detailed Map?](../../../transcriptions/yt-w3_T37dQba0.md) https://www.youtube.com/watch?v=w3_T37dQba0
+* [Q&A: Any more major updates planned before 1.0?](../../../transcriptions/yt-XLXeOMWHoAc.md) https://www.youtube.com/watch?v=XLXeOMWHoAc
+* [Q&A: Any more music tracks coming?](../../../transcriptions/yt-bzqL0DGULFM.md) https://www.youtube.com/watch?v=bzqL0DGULFM
+* [Q&A: Are there going to be more recipes- not new item recipes but more recipes for old items?](../../../transcriptions/yt-oojAhgClrl0.md) https://www.youtube.com/watch?v=oojAhgClrl0
+* [Q&A: Are we going to have new stuff in the AWESOME Shop for Update 4?](../../../transcriptions/yt-nuWfLlBMtA0.md) https://www.youtube.com/watch?v=nuWfLlBMtA0
+* [Q&A: Do not remove the self-regulation of energy, it's one of the good things about the game?](../../../transcriptions/yt-vEF2BQPxwWk.md) https://www.youtube.com/watch?v=vEF2BQPxwWk
+* [Q&A: How's the Engine Update going?](../../../transcriptions/yt-IghXjiItcwI.md) https://www.youtube.com/watch?v=IghXjiItcwI
+* [Q&A: How much after the things you've teased is left?](../../../transcriptions/yt-XNsN_3Kjlqs.md) https://www.youtube.com/watch?v=XNsN_3Kjlqs
+* [Q&A: Is that March date for Experimental?](../../../transcriptions/yt-sQTpG9Ws6EA.md) https://www.youtube.com/watch?v=sQTpG9Ws6EA
+* [Q&A: Is there already a date for Update 4?](../../../transcriptions/yt-Q9LfxD5Qa3M.md) https://www.youtube.com/watch?v=Q9LfxD5Qa3M
+* [Q&A: I still have Packaged Fuel being produced from a Refinery, will it be the same with Aluminium?](../../../transcriptions/yt-TT3qZCTt_0o.md) https://www.youtube.com/watch?v=TT3qZCTt_0o
+* [Q&A: Is Update 4 coming out before or after Jace beats this maze?](../../../transcriptions/yt-NzTAvolZZrY.md) https://www.youtube.com/watch?v=NzTAvolZZrY
+* [Snutt & Jace Talk: Signs are confirmed](../../../transcriptions/yt-MowmGat6MFY.md) https://www.youtube.com/watch?v=MowmGat6MFY
+* [Snutt Talk: Snow-related continuity error](../../../transcriptions/yt-H8P-fo4Ovr4.md) https://www.youtube.com/watch?v=H8P-fo4Ovr4
+* [Q&A: So are you packing Update 4 to the Engine Upgrade?](../../../transcriptions/yt-9QEf5938sPk.md) https://www.youtube.com/watch?v=9QEf5938sPk
+* [State of Dev](../../../transcriptions/yt-ODkDsExNtl4.md) https://www.youtube.com/watch?v=ODkDsExNtl4
+* [Snutt & Jace Talk: State of Dev getting repetitive](../../../transcriptions/yt-odeI3OhIa6Q.md) https://www.youtube.com/watch?v=odeI3OhIa6Q
+* [Q&A: Update 4 will come before Update 5?](../../../transcriptions/yt-1seCWtzI5kM.md) https://www.youtube.com/watch?v=1seCWtzI5kM
+* [Q&A: Where did the idea of making power producers produce 100% regardless of consumption come from?](../../../transcriptions/yt-Ws0Q7X1Twx0.md) https://www.youtube.com/watch?v=Ws0Q7X1Twx0
+* [Q&A: Will we have different voltage-rated Power Lines in Update 4?](../../../transcriptions/yt-9u3U07NNrHM.md) https://www.youtube.com/watch?v=9u3U07NNrHM
+
 ## February 19th, 2021 Livestream
 * [Geothermal Generators](../../../transcriptions/yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198
 * [Intro](../../../transcriptions/yt-Tmpors_r_Vw,,26.259566666666668.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27

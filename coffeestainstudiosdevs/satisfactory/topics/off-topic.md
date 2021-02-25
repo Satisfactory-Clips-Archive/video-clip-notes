@@ -14,6 +14,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## February 23rd, 2021 Livestream
+* [Snutt & Jace Talk: What do your Elven eyes see?](../transcriptions/yt--8e9UFPRbMo.md) https://www.youtube.com/watch?v=-8e9UFPRbMo
+
 ## February 9th, 2021 Livestream
 * Snutt & Jace Talk: Burger King DMCA https://www.youtube.com/watch?v=7ZNOWbWEyu0
 * [Q&A: Can we call you other personality Snus the Swede?](../transcriptions/yt-cQ2U2c84q-Y.md) https://www.youtube.com/watch?v=cQ2U2c84q-Y

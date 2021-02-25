@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 
+## February 23rd, 2021 Livestream
+* [Q&A: Can you press shift to go down the Ladder faster?](../../transcriptions/yt-WKMxQyq9JaM.md) https://www.youtube.com/watch?v=WKMxQyq9JaM
+* [Q&A: Can you toggle the Power Switch on/off without opening the GUI ?](../../transcriptions/yt-NVHH5f2Vfak.md) https://www.youtube.com/watch?v=NVHH5f2Vfak
+* Jace Talk: Holding shift (on a Ladder) not making a difference https://www.youtube.com/watch?v=9dQIJfmd74A
+* [Q&A: How about a button to lock a Building in place before building it?](../../transcriptions/yt-1b3hUDdPoKY.md) https://www.youtube.com/watch?v=1b3hUDdPoKY
+
 ## February 19th, 2021 Livestream
 * [Geothermal Generators](../../transcriptions/yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198
 * [Power Switch](../../transcriptions/yt-Tmpors_r_Vw,26.259566666666668,78.078.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=26&end=79
@@ -13,12 +19,10 @@ date: Last Modified
 * [Q&A: Can you do percentage decimals to get exact part rates?](../../transcriptions/yt-SRnmr4oaE0k.md) https://www.youtube.com/watch?v=SRnmr4oaE0k
 * [Q&A: Do you have any plans for the Radar Towers?](../../transcriptions/yt-Jb1JBMGknBY.md) https://www.youtube.com/watch?v=Jb1JBMGknBY
 * [Q&A: For automobiles you can pick fuels?](../../transcriptions/yt-kGCoxYYhnBs.md) https://www.youtube.com/watch?v=kGCoxYYhnBs
-* [Q&A: How do Gas Extractors work with Multiplayer fart emotes to increase Gas production?](../../transcriptions/yt-Lv_BZl7rgOE.md) https://www.youtube.com/watch?v=Lv_BZl7rgOE
 * [Snutt & Jace Talk: Leak™](../../transcriptions/yt-TbSECv5M4ZM.md) https://www.youtube.com/watch?v=TbSECv5M4ZM
 * [Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?](../../transcriptions/yt-5Z5pyzNiaVY.md) https://www.youtube.com/watch?v=5Z5pyzNiaVY
 * [Q&A: Will there be another list coming in the Codex showing you which recipes need certain items?](../../transcriptions/yt-Wk1osyojNQw.md) https://www.youtube.com/watch?v=Wk1osyojNQw
 * [Q&A: Will there be less "invalid placement" issues?](../../transcriptions/yt-oawyPBC7jAo.md) https://www.youtube.com/watch?v=oawyPBC7jAo
-* Q&A: Will there be more emotes? https://www.youtube.com/watch?v=dBNJrDsc_XU
 
 ## February 5th, 2021 Livestream
 * [Nitrogen Gas Resource Well](../../transcriptions/yt-rI5kRMSwo5Q,330.36336666666665,499.6992.md) https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500
@@ -57,7 +61,6 @@ date: Last Modified
 ## December 15th, 2020 Livestream
 * [Q&A: Can dismantle mode have an ignore function maybe?](../../transcriptions/yt-0KLJ2_1P_uk.md) https://www.youtube.com/watch?v=0KLJ2_1P_uk
 * [Q&A: Can you make a toolbar selection to be with just hotkeys instead of mousewheel?](../../transcriptions/yt-xwwx4N37G8M.md) https://www.youtube.com/watch?v=xwwx4N37G8M
-* [Q&A: More emotes?](../../transcriptions/yt-Ii3ahSfYOYI.md) https://www.youtube.com/watch?v=Ii3ahSfYOYI
 * [Q&A: Why can't you deselect items when you've selected them?](../../transcriptions/yt-KGLZ6f6PdRs.md) https://www.youtube.com/watch?v=KGLZ6f6PdRs
 * [Q&A: Will planning be added?](../../transcriptions/yt-_HKsPj2tx04.md) https://www.youtube.com/watch?v=_HKsPj2tx04
 * [Q&A: Will there be any changes to clear how the efficiency works?](../../transcriptions/yt-XNigRFh5_LA.md) https://www.youtube.com/watch?v=XNigRFh5_LA

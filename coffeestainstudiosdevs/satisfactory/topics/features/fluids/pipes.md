@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## February 23rd, 2021 Livestream
+* [Q&A: Where does the Space Elevator go?](../../../transcriptions/yt-g9FlxkN5dhc.md) https://www.youtube.com/watch?v=g9FlxkN5dhc
+
 ## January 19th, 2021 Livestream
 * [Q&A: Can we get a Packager with outputs not stacked?](../../../transcriptions/yt-Cmhx-wt1pBg.md) https://www.youtube.com/watch?v=Cmhx-wt1pBg
 * [Q&A: Do you have a plan on adding a Pipe-bursting feature if you over-pressurise them?](../../../transcriptions/yt-OoXaGUS3umo.md) https://www.youtube.com/watch?v=OoXaGUS3umo

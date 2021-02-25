@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Buildables > Ladders
 
+## February 23rd, 2021 Livestream
+* [Q&A: Can you press shift to go down the Ladder faster?](../../../transcriptions/yt-WKMxQyq9JaM.md) https://www.youtube.com/watch?v=WKMxQyq9JaM
+* Jace Talk: Holding shift (on a Ladder) not making a difference https://www.youtube.com/watch?v=9dQIJfmd74A
+
 ## February 9th, 2021 Livestream
 * [Q&A: Can we have automated ladders?](../../../transcriptions/yt-_6zQfzRbjgw.md) https://www.youtube.com/watch?v=_6zQfzRbjgw
 

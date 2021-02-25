@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: Are there any features that're being held for the 1.0 release?](../transcriptions/yt-ufAQLXW_yNk.md) https://www.youtube.com/watch?v=ufAQLXW_yNk
+* [Q&A: S.A.M. Ore getting a main use any time soon?](../transcriptions/yt-ow33F_nK6nc.md) https://www.youtube.com/watch?v=ow33F_nK6nc
+
 ## February 16th, 2021 Livestream
 * [Q&A: Any NPCs in the game?](../transcriptions/yt-z-DgcRCy3so.md) https://www.youtube.com/watch?v=z-DgcRCy3so
 * [Q&A: Is the game going to have a big Story?](../transcriptions/yt-S-o-0uuZUDo.md) https://www.youtube.com/watch?v=S-o-0uuZUDo

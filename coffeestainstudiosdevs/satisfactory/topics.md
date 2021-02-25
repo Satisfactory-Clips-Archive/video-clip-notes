@@ -111,6 +111,7 @@ date: Last Modified
 * [Superposition Oscillator](./topics/features/crafting/superposition-oscillator.md)
 
 ## [Equipment](./topics/features/equipment.md)
+* [Blade Runners](./topics/features/equipment/blade-runners.md)
 * [Chainsaw](./topics/features/equipment/chainsaw.md)
 * [Jetpack](./topics/features/equipment/jetpack.md)
 * [Zip Lines](./topics/features/equipment/zip-lines.md)
@@ -241,6 +242,7 @@ date: Last Modified
 * [Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
 * [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)
 * [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
+* [Teasers & Trailers](./topics/satisfactory-updates/teasers-trailers.md)
 
 ## Pending
 * [Satisfactory Update 4](./topics/satisfactory-updates/pending/satisfactory-update-4.md)

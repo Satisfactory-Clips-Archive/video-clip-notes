@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Storage
 
+## February 23rd, 2021 Livestream
+* [Q&A: Is there going to be larger Power Storage?](../../../transcriptions/yt-wGiLdFI984k.md) https://www.youtube.com/watch?v=wGiLdFI984k
+* [Q&A: Where did the idea of making power producers produce 100% regardless of consumption come from?](../../../transcriptions/yt-Ws0Q7X1Twx0.md) https://www.youtube.com/watch?v=Ws0Q7X1Twx0
+
 ## February 19th, 2021 Livestream
 * [Geothermal Generators](../../../transcriptions/yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198
 * [Intro](../../../transcriptions/yt-Tmpors_r_Vw,,26.259566666666668.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27

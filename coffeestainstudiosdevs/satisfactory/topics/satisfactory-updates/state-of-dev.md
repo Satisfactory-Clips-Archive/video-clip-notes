@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## February 23rd, 2021 Livestream
+* [State of Dev](../../transcriptions/yt-ODkDsExNtl4.md) https://www.youtube.com/watch?v=ODkDsExNtl4
+* [Snutt & Jace Talk: State of Dev getting repetitive](../../transcriptions/yt-odeI3OhIa6Q.md) https://www.youtube.com/watch?v=odeI3OhIa6Q
+
 ## February 16th, 2021 Livestream
 * Community FYI: I'd prefer to be surprised with Update 4, you don't have to say every single bit https://www.youtube.com/watch?v=OLVLh1WhlkA
 * [State of Dev: Reminder regarding Content Freeze](../../transcriptions/yt-5QkDVcakpfY.md) https://www.youtube.com/watch?v=5QkDVcakpfY

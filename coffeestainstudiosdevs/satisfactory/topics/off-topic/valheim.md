@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## February 23rd, 2021 Livestream
+* [Q&A: How many of them work on Valheim?](../../transcriptions/yt-15R0t95pwvc.md) https://www.youtube.com/watch?v=15R0t95pwvc
+
 ## February 16th, 2021 Livestream
 * [Q&A: Did you guys develop Valheim?](../../transcriptions/yt-epiPmCco2lc.md) https://www.youtube.com/watch?v=epiPmCco2lc
 * [Q&A: For Valheim?](../../transcriptions/yt-L6458tIFFho.md) https://www.youtube.com/watch?v=L6458tIFFho

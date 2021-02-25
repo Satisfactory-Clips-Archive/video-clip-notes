@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## February 23rd, 2021 Livestream
+* [Q&A: Will the sleeping room have an additional function?](../../../transcriptions/yt-5KRdfYoVv-c.md) https://www.youtube.com/watch?v=5KRdfYoVv-c
+
 ## February 16th, 2021 Livestream
 * [Q&A: Can we sleep through nights?](../../../transcriptions/yt-uskbxtN069Q.md) https://www.youtube.com/watch?v=uskbxtN069Q
 

@@ -9,6 +9,12 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## February 23rd, 2021 Livestream
+* [Q&A: Do not remove the self-regulation of energy, it's one of the good things about the game?](../../transcriptions/yt-vEF2BQPxwWk.md) https://www.youtube.com/watch?v=vEF2BQPxwWk
+* [Q&A: Like prioritise Coal over Nuclear?](../../transcriptions/yt-IdKhbyR81Nw.md) https://www.youtube.com/watch?v=IdKhbyR81Nw
+* [Q&A: Will we have different voltage-rated Power Lines in Update 4?](../../transcriptions/yt-9u3U07NNrHM.md) https://www.youtube.com/watch?v=9u3U07NNrHM
+* [Q&A: Will you be expanding on how Power works in Update 4?](../../transcriptions/yt-m8v8TVvDSeY.md) https://www.youtube.com/watch?v=m8v8TVvDSeY
+
 ## February 19th, 2021 Livestream
 * [Intro](../../transcriptions/yt-Tmpors_r_Vw,,26.259566666666668.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27
 * [Power Storage](../../transcriptions/yt-Tmpors_r_Vw,78.078,138.50503333333333.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139

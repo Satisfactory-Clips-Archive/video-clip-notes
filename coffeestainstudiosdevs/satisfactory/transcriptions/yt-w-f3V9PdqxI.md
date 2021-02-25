@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/jump-pads"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Jace & Snutt Talk: Jump Pad Teaser (part 1)
@@ -19,6 +20,7 @@ https://www.youtube.com/watch?v=w-f3V9PdqxI
 ### Topics
 * [Features > Buildables > Jump Pads](../topics/features/buildables/jump-pads.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

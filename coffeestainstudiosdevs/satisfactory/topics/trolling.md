@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## February 23rd, 2021 Livestream
+* [Q&A: Snow confirmed?](../transcriptions/yt-g3xOdnACRe4.md) https://www.youtube.com/watch?v=g3xOdnACRe4
+
 ## February 16th, 2021 Livestream
 * [Q&A: What about some leaks?](../transcriptions/yt-C2fArx9F9RM.md) https://www.youtube.com/watch?v=C2fArx9F9RM
 

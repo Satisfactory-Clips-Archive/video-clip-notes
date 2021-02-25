@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > DLSS
 
+## February 23rd, 2021 Livestream
+* [Snutt Talk: Ray Tracing & DLSS](../../../transcriptions/yt-S7e0g_0B8GM.md) https://www.youtube.com/watch?v=S7e0g_0B8GM
+
 ## February 16th, 2021 Livestream
 * [Q&A: When does Satisfactory get DLSS 2.0, since it was open to other games?](../../../transcriptions/yt-z4088brm0rg.md) https://www.youtube.com/watch?v=z4088brm0rg
 

@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/fluids/pumps"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Jace & Snutt Talk: Mk.2 Pumps
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=yaniNsFqP9A
 ### Topics
 * [Features > Fluids > Pumps](../topics/features/fluids/pumps.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

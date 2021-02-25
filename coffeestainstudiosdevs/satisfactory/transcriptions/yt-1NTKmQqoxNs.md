@@ -4,6 +4,7 @@ date: "2021-02-09"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/teasers-trailers"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Will there still be stuff to discover when the Update 4 teasers & reveals are done?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=1NTKmQqoxNs
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript
 

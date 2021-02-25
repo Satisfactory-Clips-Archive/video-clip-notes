@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Snow
 
+## February 23rd, 2021 Livestream
+* [Q&A: Snow confirmed?](../../../../transcriptions/yt-g3xOdnACRe4.md) https://www.youtube.com/watch?v=g3xOdnACRe4
+
 ## February 9th, 2021 Livestream
 * [State of Dev: Content Freeze](../../../../transcriptions/yt-VjxGGOCwV6o.md) https://www.youtube.com/watch?v=VjxGGOCwV6o
 
