@@ -8,6 +8,7 @@ date: Last Modified
 ## February 23rd, 2021 Livestream
 * [Q&A: Are there any features that're being held for the 1.0 release?](../transcriptions/yt-ufAQLXW_yNk.md) https://www.youtube.com/watch?v=ufAQLXW_yNk
 * [Q&A: S.A.M. Ore getting a main use any time soon?](../transcriptions/yt-ow33F_nK6nc.md) https://www.youtube.com/watch?v=ow33F_nK6nc
+* [Q&A: Will you be able to play Story on an existing save when 1.0 comes out?](../transcriptions/yt-fbIm1CfGGZQ.md) https://www.youtube.com/watch?v=fbIm1CfGGZQ
 
 ## February 16th, 2021 Livestream
 * [Q&A: Any NPCs in the game?](../transcriptions/yt-z-DgcRCy3so.md) https://www.youtube.com/watch?v=z-DgcRCy3so
