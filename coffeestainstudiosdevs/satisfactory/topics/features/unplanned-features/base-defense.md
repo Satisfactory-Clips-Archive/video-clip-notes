@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
+## February 26th, 2021 Instagram AMA
+* Q&A: Please add semi tower defense in this game I'm begging you! https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Any future combat or enemy updates to come?](../../../transcriptions/yt-MS3_LOEapI4.md) https://www.youtube.com/watch?v=MS3_LOEapI4
 

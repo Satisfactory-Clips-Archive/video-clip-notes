@@ -9,15 +9,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Is that March date for Experimental?
 https://www.youtube.com/watch?v=sQTpG9Ws6EA
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as February 2021 and as early as January 2021.</summary>
-
-* [February 16th, 2021 Livestream Q&A: I think I missed a discussion around when it would be shifted to Early Access?](./yt-eTafCP7eCB4.md) https://www.youtube.com/watch?v=eTafCP7eCB4
-* [February 16th, 2021 Livestream Q&A: No Experimental?](./yt-2cO89rhg6sQ.md) https://www.youtube.com/watch?v=2cO89rhg6sQ
-* [February 16th, 2021 Livestream Q&A: Will 1.0 go to Experimental?](./yt-qYBAKknb7WA.md) https://www.youtube.com/watch?v=qYBAKknb7WA
-* [February 2nd, 2021 Livestream Q&A: Will Update 4 be on Experimental or main branch?](./yt-ePwT4AogKWY.md) https://www.youtube.com/watch?v=ePwT4AogKWY
-* [January 26th, 2021 Livestream Q&A: Will Update 4 be rolled out to Experimental first?](./yt-xJ3zk3Yvav0.md) https://www.youtube.com/watch?v=xJ3zk3Yvav0
-</details>
+This question was possibly duplicated with a more recent answer: [February 26th, 2021 Instagram AMA Q&A: Why does it go to Experimental first?](./yt-F-q3vfj__M4,31.36466666666667,80.08.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81
 
 
 ### Topics

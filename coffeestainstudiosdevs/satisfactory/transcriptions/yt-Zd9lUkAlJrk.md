@@ -12,7 +12,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will Gas Pipes have Headlift or Valves?
 https://www.youtube.com/watch?v=Zd9lUkAlJrk
-This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Are Gases going to work like Liquids?](./yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
+This question was possibly duplicated with a more recent answer: February 26th, 2021 Instagram AMA Q&A: Will we need some kind of pumps to get the gases to a height?? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Will_we_need_some_kind_of_pumps_to_get_the_gases_to_a_height.mp4
 
 
 ### Topics

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## February 26th, 2021 Instagram AMA
+* Q&A: Are there any plans for removing the poison spreading plants in Satisfactory? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4
+
 ## February 9th, 2021 Livestream
 * [Q&A: Can I smoke trees?](../../transcriptions/yt-NRpK_K8wzuo.md) https://www.youtube.com/watch?v=NRpK_K8wzuo
 

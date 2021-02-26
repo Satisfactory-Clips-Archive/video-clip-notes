@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## February 26th, 2021 Instagram AMA
+* [Q&A: I'm on Early Access, how do I get in on this Experimental stuff?](../../transcriptions/yt-F-q3vfj__M4,112.71260000000001,182.71586666666667.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183
+* [Q&A: When's it going to be on Early Access?](../../transcriptions/yt-F-q3vfj__M4,80.08,112.71260000000001.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=80&end=113
+* [Q&A: Why does it go to Experimental first?](../../transcriptions/yt-F-q3vfj__M4,31.36466666666667,80.08.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Is that March date for Experimental?](../../transcriptions/yt-sQTpG9Ws6EA.md) https://www.youtube.com/watch?v=sQTpG9Ws6EA
 * [Q&A: So are you packing Update 4 to the Engine Upgrade?](../../transcriptions/yt-9QEf5938sPk.md) https://www.youtube.com/watch?v=9QEf5938sPk

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 
+## February 26th, 2021 Instagram AMA
+* Q&A: What is your favourite feature and bug in Satisfactory? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_What_is_your_favourite_feature_and_bug_in_Satisfactory.mp4
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Can you press shift to go down the Ladder faster?](../../transcriptions/yt-WKMxQyq9JaM.md) https://www.youtube.com/watch?v=WKMxQyq9JaM
 * [Q&A: Can you toggle the Power Switch on/off without opening the GUI ?](../../transcriptions/yt-NVHH5f2Vfak.md) https://www.youtube.com/watch?v=NVHH5f2Vfak

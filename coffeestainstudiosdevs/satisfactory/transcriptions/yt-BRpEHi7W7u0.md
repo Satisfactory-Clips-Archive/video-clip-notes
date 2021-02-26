@@ -8,11 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When can Poison Pillars be removed?
 https://www.youtube.com/watch?v=BRpEHi7W7u0
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as December 2019.</summary>
-
-* [December 19th, 2019 Livestream Q&A: Is there going to be a way to destroy the fart rock?](./yt-byPiSQZOAhw.md) https://www.youtube.com/watch?v=byPiSQZOAhw
-</details>
+This question was possibly duplicated with a more recent answer: February 26th, 2021 Instagram AMA Q&A: Are there any plans for removing the poison spreading plants in Satisfactory? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4
 
 
 ### Topics

@@ -9,7 +9,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Will there be any Base Defense?
 https://www.youtube.com/watch?v=5-8ACtMU2_E
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is there going to be tower defense?](./yt-9dWWC0mFitU.md) https://www.youtube.com/watch?v=9dWWC0mFitU
+This question was possibly duplicated with a more recent answer: February 26th, 2021 Instagram AMA Q&A: Please add semi tower defense in this game I'm begging you! https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4
 
 
 ### Topics

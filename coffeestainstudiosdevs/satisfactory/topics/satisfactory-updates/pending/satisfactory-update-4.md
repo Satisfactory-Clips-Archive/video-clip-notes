@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 4
 
+## February 26th, 2021 Instagram AMA
+* Q&A: How many different gases will we have in Update 4? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_different_gases_will_we_have_in_update_4.mp4
+* [Q&A: I'm on Early Access, how do I get in on this Experimental stuff?](../../../transcriptions/yt-F-q3vfj__M4,112.71260000000001,182.71586666666667.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183
+* [Update 4 Expected Release Date on Experimental](../../../transcriptions/yt-F-q3vfj__M4,11.610235,31.36466666666667.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=11&end=32
+* [Q&A: When's it going to be on Early Access?](../../../transcriptions/yt-F-q3vfj__M4,80.08,112.71260000000001.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=80&end=113
+* [Q&A: Why does it go to Experimental first?](../../../transcriptions/yt-F-q3vfj__M4,31.36466666666667,80.08.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81
+* Q&A: Will we need some kind of pumps to get the gases to a height?? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Will_we_need_some_kind_of_pumps_to_get_the_gases_to_a_height.mp4
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Any ideas on a more detailed Map?](../../../transcriptions/yt-w3_T37dQba0.md) https://www.youtube.com/watch?v=w3_T37dQba0
 * [Q&A: Any more major updates planned before 1.0?](../../../transcriptions/yt-XLXeOMWHoAc.md) https://www.youtube.com/watch?v=XLXeOMWHoAc

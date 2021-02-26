@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
+## February 26th, 2021 Instagram AMA
+* Q&A: How did Snutt get to Coffee Stain? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_did_Snutt_get_to_Coffee_Stain.mp4
+* Q&A: How many hours have you in Satis? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_hours_have_you_in_Satis.mp4
+* Q&A: What is your favourite feature and bug in Satisfactory? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_What_is_your_favourite_feature_and_bug_in_Satisfactory.mp4
+
 ## February 23rd, 2021 Livestream
 * [Q&A: A beanie trophy?](../../transcriptions/yt-vQlvfDhG01E.md) https://www.youtube.com/watch?v=vQlvfDhG01E
 * [Snutt & Jace Talk: Running the maze next week](../../transcriptions/yt-PrnPEpZR1o0.md) https://www.youtube.com/watch?v=PrnPEpZR1o0

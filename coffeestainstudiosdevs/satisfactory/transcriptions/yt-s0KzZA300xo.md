@@ -8,11 +8,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: When does Experimental come to Early Access?
 https://www.youtube.com/watch?v=s0KzZA300xo
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
-
-* [January 26th, 2021 Livestream Q&A: When will the code be optimised for the new engine?](./yt-FVT8_xB9V94.md) https://www.youtube.com/watch?v=FVT8_xB9V94
-</details>
+This question was possibly duplicated with a more recent answer: [February 26th, 2021 Instagram AMA Q&A: When's it going to be on Early Access?](./yt-F-q3vfj__M4,80.08,112.71260000000001.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=80&end=113
 
 
 ### Topics

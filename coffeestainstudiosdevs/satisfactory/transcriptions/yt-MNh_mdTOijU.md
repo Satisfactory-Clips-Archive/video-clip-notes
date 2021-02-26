@@ -9,6 +9,8 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: How long will you wait until the Engine Upgrade gets merged from Experimental to Early Access?
 https://www.youtube.com/watch?v=MNh_mdTOijU
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: When will the code be optimised for the new engine?](./yt-FVT8_xB9V94.md) https://www.youtube.com/watch?v=FVT8_xB9V94
+
 
 ### Topics
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)

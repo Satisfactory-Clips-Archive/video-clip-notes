@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## February 26th, 2021 Instagram AMA
+* [Q&A: I'm on Early Access, how do I get in on this Experimental stuff?](../../transcriptions/yt-F-q3vfj__M4,112.71260000000001,182.71586666666667.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183
+
 ## January 19th, 2021 Livestream
 * [Snutt Talk: Issues downloading the patch on Steam](../../transcriptions/yt-voxZiFRE-MU.md) https://www.youtube.com/watch?v=voxZiFRE-MU
 

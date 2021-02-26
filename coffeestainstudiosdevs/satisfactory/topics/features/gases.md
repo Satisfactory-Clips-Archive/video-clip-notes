@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Gases
 
+## February 26th, 2021 Instagram AMA
+* Q&A: How many different gases will we have in Update 4? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_different_gases_will_we_have_in_update_4.mp4
+* Q&A: Will we need some kind of pumps to get the gases to a height?? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Will_we_need_some_kind_of_pumps_to_get_the_gases_to_a_height.mp4
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are you able to confirm what resources can be pulled using the Resource Well Extractor?](../../transcriptions/yt-vlDuVpHyfVs.md) https://www.youtube.com/watch?v=vlDuVpHyfVs
 * [Q&A: How do Gas Extractors work with Multiplayer fart emotes to increase Gas production?](../../transcriptions/yt-Lv_BZl7rgOE.md) https://www.youtube.com/watch?v=Lv_BZl7rgOE

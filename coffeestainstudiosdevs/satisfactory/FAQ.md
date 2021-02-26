@@ -2,6 +2,65 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [February 26th, 2021 Instagram AMA](./2021-02-26.md)
+### Q&A: Are there any plans for removing the poison spreading plants in Satisfactory? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as December 2019.</summary>
+
+* [September 8th, 2020 Livestream Q&A: When can Poison Pillars be removed?](./transcriptions/yt-BRpEHi7W7u0.md) https://www.youtube.com/watch?v=BRpEHi7W7u0
+* [December 19th, 2019 Livestream Q&A: Is there going to be a way to destroy the fart rock?](./transcriptions/yt-byPiSQZOAhw.md) https://www.youtube.com/watch?v=byPiSQZOAhw
+</details>
+
+### [Q&A: I'm on Early Access, how do I get in on this Experimental stuff?](./transcriptions/yt-F-q3vfj__M4,112.71260000000001,182.71586666666667.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as October 2020.</summary>
+
+* [November 10th, 2020 Livestream Q&A: Can I switch between Experimental & Early Access?](./transcriptions/yt-cs8oV_l9O-k.md) https://www.youtube.com/watch?v=cs8oV_l9O-k
+* [October 27th, 2020 Livestream Q&A: Can I play my Early Access save on Experimental?](./transcriptions/yt-d9u5Na0jBfo.md) https://www.youtube.com/watch?v=d9u5Na0jBfo
+</details>
+
+### Q&A: Please add semi tower defense in this game I'm begging you! https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4
+
+<details>
+<summary>This question may have been asked previously at least 10 other times, as recently as January 2021 and as early as June 2018.</summary>
+
+* January 22nd, 2021 Instagram AMA Q&A: Is there a plan for automatize the base defense? https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4
+* [December 15th, 2020 Livestream Q&A: Can we get turrets and more PvE?](./transcriptions/yt-sJnuRV0OGF0.md) https://www.youtube.com/watch?v=sJnuRV0OGF0
+* [December 8th, 2020 Livestream Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) https://www.youtube.com/watch?v=5-8ACtMU2_E
+* [October 13th, 2020 Livestream Q&A: If Factories can get attacked?](./transcriptions/yt-tK_m7AqM4sY.md) https://www.youtube.com/watch?v=tK_m7AqM4sY
+* [September 22nd, 2020 Livestream Q&A: Hoping for Base Defence?](./transcriptions/yt-RjFIQhJY824.md) https://www.youtube.com/watch?v=RjFIQhJY824
+* August 18th, 2020 Livestream Q&A: Will there be animals that attack the base? https://clips.twitch.tv/ProtectiveTubularCatJebaited
+* [March 9th, 2019 Livestream Q&A: Can creatures in any way disrupt your factory?](./transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
+* [March 9th, 2019 Livestream Q&A: Will there be turrets or something in the game?](./transcriptions/yt-xNBFywqCrxM.md) https://www.youtube.com/watch?v=xNBFywqCrxM
+* [February 6th, 2019 Livestream Q&A: Why not turrets like Sanctum?](./transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640
+* [June 22nd, 2018 Livestream Q&A: Will we need to defend our factory?](./transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215
+</details>
+
+### [Q&A: Why does it go to Experimental first?](./transcriptions/yt-F-q3vfj__M4,31.36466666666667,80.08.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81
+
+<details>
+<summary>This question may have been asked previously at least 7 other times, as recently as February 2021 and as early as October 2020.</summary>
+
+* [February 23rd, 2021 Livestream Q&A: Is that March date for Experimental?](./transcriptions/yt-sQTpG9Ws6EA.md) https://www.youtube.com/watch?v=sQTpG9Ws6EA
+* [February 16th, 2021 Livestream Q&A: I think I missed a discussion around when it would be shifted to Early Access?](./transcriptions/yt-eTafCP7eCB4.md) https://www.youtube.com/watch?v=eTafCP7eCB4
+* [February 16th, 2021 Livestream Q&A: No Experimental?](./transcriptions/yt-2cO89rhg6sQ.md) https://www.youtube.com/watch?v=2cO89rhg6sQ
+* [February 16th, 2021 Livestream Q&A: Will 1.0 go to Experimental?](./transcriptions/yt-qYBAKknb7WA.md) https://www.youtube.com/watch?v=qYBAKknb7WA
+* [February 2nd, 2021 Livestream Q&A: Will Update 4 be on Experimental or main branch?](./transcriptions/yt-ePwT4AogKWY.md) https://www.youtube.com/watch?v=ePwT4AogKWY
+* [January 26th, 2021 Livestream Q&A: Will Update 4 be rolled out to Experimental first?](./transcriptions/yt-xJ3zk3Yvav0.md) https://www.youtube.com/watch?v=xJ3zk3Yvav0
+* [October 6th, 2020 Livestream Q&A: Is the expected date relative to Early Access or Experimental?](./transcriptions/yt-rc0InGTzcOQ.md) https://www.youtube.com/watch?v=rc0InGTzcOQ
+</details>
+
+### Q&A: Will we need some kind of pumps to get the gases to a height?? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Will_we_need_some_kind_of_pumps_to_get_the_gases_to_a_height.mp4
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as January 2021.</summary>
+
+* [February 2nd, 2021 Livestream Q&A: Are Gases going to work like Liquids?](./transcriptions/yt-zZXcL3qlr7w.md) https://www.youtube.com/watch?v=zZXcL3qlr7w
+* [January 19th, 2021 Livestream Q&A: Will Gas Pipes have Headlift or Valves?](./transcriptions/yt-Zd9lUkAlJrk.md) https://www.youtube.com/watch?v=Zd9lUkAlJrk
+</details>
+
 ## [February 23rd, 2021 Livestream](./2021-02-23.md)
 ### [Q&A: Any future combat or enemy updates to come?](./transcriptions/yt-MS3_LOEapI4.md) https://www.youtube.com/watch?v=MS3_LOEapI4
 
@@ -775,73 +834,6 @@ date: Last Modified
 
 * [December 8th, 2020 Livestream Q&A: DirectX 12 when?](./transcriptions/yt-BxAAQTxvy-Y.md) https://www.youtube.com/watch?v=BxAAQTxvy-Y
 * [November 17th, 2020 Livestream Q&A: DX12 more efficient?](./transcriptions/yt-FlEUMECDwS4.md) https://www.youtube.com/watch?v=FlEUMECDwS4
-</details>
-
-### [Q&A: Is that March date for Experimental?](./transcriptions/yt-sQTpG9Ws6EA.md) https://www.youtube.com/watch?v=sQTpG9Ws6EA
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> is that march date for experimental yes
->
-> so the march date is for experimental
->
-> and then
->
-> it will stay an experimental until we
->
-> feel like it's uh stable enough for us
->
-> to release it on early access
->
-> um and usually that's like
->
-> a month ish historically at least that's
->
-> experiment excremental oh no
->
-> don't worry about it i didn't read that
->
-> out loud um
->
-> i didn't read out loud you did
->
-> i know i did um
->
-> [ __ ] what was i talking about yes yeah
->
-> so historically we've been in
->
-> experimental for like a month or so with
->
-> the the new updates and then it comes
->
-> out to early access early access and
->
-> then
->
-> everyone can play it and then it will be
->
-> stable
->
-> and good times will be had by all by
->
-> most
->
-> by most people
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as February 2021 and as early as January 2021.</summary>
-
-* [February 16th, 2021 Livestream Q&A: I think I missed a discussion around when it would be shifted to Early Access?](./transcriptions/yt-eTafCP7eCB4.md) https://www.youtube.com/watch?v=eTafCP7eCB4
-* [February 16th, 2021 Livestream Q&A: No Experimental?](./transcriptions/yt-2cO89rhg6sQ.md) https://www.youtube.com/watch?v=2cO89rhg6sQ
-* [February 16th, 2021 Livestream Q&A: Will 1.0 go to Experimental?](./transcriptions/yt-qYBAKknb7WA.md) https://www.youtube.com/watch?v=qYBAKknb7WA
-* [February 2nd, 2021 Livestream Q&A: Will Update 4 be on Experimental or main branch?](./transcriptions/yt-ePwT4AogKWY.md) https://www.youtube.com/watch?v=ePwT4AogKWY
-* [January 26th, 2021 Livestream Q&A: Will Update 4 be rolled out to Experimental first?](./transcriptions/yt-xJ3zk3Yvav0.md) https://www.youtube.com/watch?v=xJ3zk3Yvav0
 </details>
 
 ### [Q&A: Is there already a date for Update 4?](./transcriptions/yt-Q9LfxD5Qa3M.md) https://www.youtube.com/watch?v=Q9LfxD5Qa3M
@@ -2396,34 +2388,6 @@ that.
 * [December 19th, 2019 Livestream Q&A: Give us a flight vehicle?](./transcriptions/yt-Fb6JnI4Bb4I.md) https://www.youtube.com/watch?v=Fb6JnI4Bb4I
 * [December 19th, 2019 Livestream Q&A: Have you considerd Flying Drones?](./transcriptions/yt-KYox3m1mePU.md) https://www.youtube.com/watch?v=KYox3m1mePU
 * [March 9th, 2019 Livestream Q&A: Flying vehicles for overhead view of your factory?](./transcriptions/yt-njN-07Q5-8s.md) https://www.youtube.com/watch?v=njN-07Q5-8s
-</details>
-
-### [Q&A: Is there going to be tower defense?](./transcriptions/yt-9dWWC0mFitU.md) https://www.youtube.com/watch?v=9dWWC0mFitU
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> is it gonna be tower defense uh there
->
-> won't be no um
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 10 other times, as recently as January 2021 and as early as June 2018.</summary>
-
-* January 22nd, 2021 Instagram AMA Q&A: Is there a plan for automatize the base defense? https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4
-* [December 15th, 2020 Livestream Q&A: Can we get turrets and more PvE?](./transcriptions/yt-sJnuRV0OGF0.md) https://www.youtube.com/watch?v=sJnuRV0OGF0
-* [December 8th, 2020 Livestream Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) https://www.youtube.com/watch?v=5-8ACtMU2_E
-* [October 13th, 2020 Livestream Q&A: If Factories can get attacked?](./transcriptions/yt-tK_m7AqM4sY.md) https://www.youtube.com/watch?v=tK_m7AqM4sY
-* [September 22nd, 2020 Livestream Q&A: Hoping for Base Defence?](./transcriptions/yt-RjFIQhJY824.md) https://www.youtube.com/watch?v=RjFIQhJY824
-* August 18th, 2020 Livestream Q&A: Will there be animals that attack the base? https://clips.twitch.tv/ProtectiveTubularCatJebaited
-* [March 9th, 2019 Livestream Q&A: Can creatures in any way disrupt your factory?](./transcriptions/yt-R2Fms8EjhN8.md) https://www.youtube.com/watch?v=R2Fms8EjhN8
-* [March 9th, 2019 Livestream Q&A: Will there be turrets or something in the game?](./transcriptions/yt-xNBFywqCrxM.md) https://www.youtube.com/watch?v=xNBFywqCrxM
-* [February 6th, 2019 Livestream Q&A: Why not turrets like Sanctum?](./transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640
-* [June 22nd, 2018 Livestream Q&A: Will we need to defend our factory?](./transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215
 </details>
 
 ### [Q&A: Lizard Doggo plushie?](./transcriptions/yt-FlOFnqAw5go.md) https://www.youtube.com/watch?v=FlOFnqAw5go

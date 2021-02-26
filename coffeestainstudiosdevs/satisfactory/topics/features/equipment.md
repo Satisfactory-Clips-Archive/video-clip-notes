@@ -8,6 +8,9 @@ date: Last Modified
 * [Jetpack](../../topics/features/equipment/jetpack.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## February 26th, 2021 Instagram AMA
+* Q&A: Are there any plans for adding a holster button? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_adding_a_holster_button.mp4
+
 ## February 23rd, 2021 Livestream
 * Q&A: Can we get an in-game notepad? https://www.youtube.com/watch?v=chc6o85O0AQ
 * [Q&A: Can you make Coffee give you 1% speed boost when building?](../../transcriptions/yt-Rb-gKC3AQ64.md) https://www.youtube.com/watch?v=Rb-gKC3AQ64

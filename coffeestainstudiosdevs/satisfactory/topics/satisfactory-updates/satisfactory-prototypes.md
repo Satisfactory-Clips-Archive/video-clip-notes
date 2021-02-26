@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes
 
+## February 26th, 2021 Instagram AMA
+* Q&A: Can you bring wind turbines to Satisfactory? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Can_you_bring_solar_power_and_wind_turbines_and_water_power_to_Satisfactory%3F.mp4
+
 ## February 16th, 2021 Livestream
 * [Q&A: Does obscuring belts actually help with performance?](../../transcriptions/yt-JDJ5hvAkrWw.md) https://www.youtube.com/watch?v=JDJ5hvAkrWw
 * [Q&A: Storm or natural disasters in the game?](../../transcriptions/yt-LgYBDQkiTrk.md) https://www.youtube.com/watch?v=LgYBDQkiTrk

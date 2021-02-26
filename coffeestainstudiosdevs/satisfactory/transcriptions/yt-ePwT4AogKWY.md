@@ -9,7 +9,7 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Will Update 4 be on Experimental or main branch?
 https://www.youtube.com/watch?v=ePwT4AogKWY
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is that March date for Experimental?](./yt-sQTpG9Ws6EA.md) https://www.youtube.com/watch?v=sQTpG9Ws6EA
+This question was possibly duplicated with a more recent answer: [February 26th, 2021 Instagram AMA Q&A: Why does it go to Experimental first?](./yt-F-q3vfj__M4,31.36466666666667,80.08.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81
 
 
 ### Topics

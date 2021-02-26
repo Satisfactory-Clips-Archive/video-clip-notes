@@ -8,7 +8,7 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Can I play my Early Access save on Experimental?
 https://www.youtube.com/watch?v=d9u5Na0jBfo
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Can I switch between Experimental & Early Access?](./yt-cs8oV_l9O-k.md) https://www.youtube.com/watch?v=cs8oV_l9O-k
+This question was possibly duplicated with a more recent answer: [February 26th, 2021 Instagram AMA Q&A: I'm on Early Access, how do I get in on this Experimental stuff?](./yt-F-q3vfj__M4,112.71260000000001,182.71586666666667.md) https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183
 
 
 ### Topics
