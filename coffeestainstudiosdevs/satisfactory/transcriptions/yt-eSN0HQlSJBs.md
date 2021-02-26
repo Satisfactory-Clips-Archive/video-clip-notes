@@ -12,7 +12,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Do you have a set of ideas?
 https://www.youtube.com/watch?v=eSN0HQlSJBs
-This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: I would be interested to see your in-house roadmap](./yt-D0LY0PxkSJM.md) https://www.youtube.com/watch?v=D0LY0PxkSJM
+This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: I would be interested to see your in-house roadmap](./yt-D0LY0PxkSJM.md) [https://www.youtube.com/watch?v=D0LY0PxkSJM](https://www.youtube.com/watch?v=D0LY0PxkSJM)
 
 
 ### Topics

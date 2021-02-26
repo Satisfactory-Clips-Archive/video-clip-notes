@@ -13,9 +13,9 @@ https://www.youtube.com/watch?v=79CHl9qFo90
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as December 2020 and as early as December 2019.</summary>
 
-* [December 8th, 2020 Livestream Q&A: Are there plans to improve Vehicle performance for Update 4?](./yt-nat8VwaykqE.md) https://www.youtube.com/watch?v=nat8VwaykqE
-* [August 25th, 2020 Livestream Q&A: The time for multiplayer fix, can't use vehicles?](./yt-UOhRWdHvGzc.md) https://www.youtube.com/watch?v=UOhRWdHvGzc
-* [December 19th, 2019 Livestream Q&A: Improve Vehicles in general?](./yt-pRuIjTp-u5I.md) https://www.youtube.com/watch?v=pRuIjTp-u5I
+* [December 8th, 2020 Livestream Q&A: Are there plans to improve Vehicle performance for Update 4?](./yt-nat8VwaykqE.md) [https://www.youtube.com/watch?v=nat8VwaykqE](https://www.youtube.com/watch?v=nat8VwaykqE)
+* [August 25th, 2020 Livestream Q&A: The time for multiplayer fix, can't use vehicles?](./yt-UOhRWdHvGzc.md) [https://www.youtube.com/watch?v=UOhRWdHvGzc](https://www.youtube.com/watch?v=UOhRWdHvGzc)
+* [December 19th, 2019 Livestream Q&A: Improve Vehicles in general?](./yt-pRuIjTp-u5I.md) [https://www.youtube.com/watch?v=pRuIjTp-u5I](https://www.youtube.com/watch?v=pRuIjTp-u5I)
 </details>
 
 

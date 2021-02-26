@@ -9,7 +9,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?
 https://www.youtube.com/watch?v=RyE_hc4huhA
-This question was possibly duplicated with a more recent answer: [October 9th, 2020 Livestream Q&A: What is the limit?](./yt-Njv_PJT3B2g.md) https://www.youtube.com/watch?v=Njv_PJT3B2g
+This question was possibly duplicated with a more recent answer: [October 9th, 2020 Livestream Q&A: What is the limit?](./yt-Njv_PJT3B2g.md) [https://www.youtube.com/watch?v=Njv_PJT3B2g](https://www.youtube.com/watch?v=Njv_PJT3B2g)
 
 
 ### Topics

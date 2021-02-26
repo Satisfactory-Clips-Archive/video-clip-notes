@@ -11,7 +11,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: When's Tier 8 coming?
 https://www.youtube.com/watch?v=plexfdPIaSw
-This question was possibly replaced with a more recent answer: [December 8th, 2020 Livestream Q&A: Is Tier 8 last Tier for the game?](./yt-FhoIzj_QLm0.md) https://www.youtube.com/watch?v=FhoIzj_QLm0
+This question was possibly replaced with a more recent answer: [December 8th, 2020 Livestream Q&A: Is Tier 8 last Tier for the game?](./yt-FhoIzj_QLm0.md) [https://www.youtube.com/watch?v=FhoIzj_QLm0](https://www.youtube.com/watch?v=FhoIzj_QLm0)
 
 
 ### Topics

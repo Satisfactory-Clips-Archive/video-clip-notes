@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: What is the object limit and will it be increased in the future?
 https://www.youtube.com/watch?v=9GT0y1v5VZY
-This question was possibly duplicated with a more recent answer: January 26th, 2021 Livestream Q&A: Will you tell here the current build limit number considering the Engine Upgrade? https://www.youtube.com/watch?v=WfU45N1EvQ0
+This question was possibly duplicated with a more recent answer: January 26th, 2021 Livestream Q&A: Will you tell here the current build limit number considering the Engine Upgrade? [https://www.youtube.com/watch?v=WfU45N1EvQ0](https://www.youtube.com/watch?v=WfU45N1EvQ0)
 
 
 ### Topics

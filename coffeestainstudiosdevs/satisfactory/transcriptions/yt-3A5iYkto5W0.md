@@ -10,7 +10,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will you ever add explosions on the Resource Wells when you Pressurize them?
 https://www.youtube.com/watch?v=3A5iYkto5W0
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Do you have a plan on adding a Pipe-bursting feature if you over-pressurise them?](./yt-OoXaGUS3umo.md) https://www.youtube.com/watch?v=OoXaGUS3umo
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Do you have a plan on adding a Pipe-bursting feature if you over-pressurise them?](./yt-OoXaGUS3umo.md) [https://www.youtube.com/watch?v=OoXaGUS3umo](https://www.youtube.com/watch?v=OoXaGUS3umo)
 
 
 ### Topics

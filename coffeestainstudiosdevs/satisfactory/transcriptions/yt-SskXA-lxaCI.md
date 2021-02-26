@@ -13,9 +13,9 @@ https://www.youtube.com/watch?v=SskXA-lxaCI
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as October 2020 and as early as August 2020.</summary>
 
-* [October 27th, 2020 Livestream Q&A: Fluid Sink ever going to happen?](./yt-j79cJptq5h8.md) https://www.youtube.com/watch?v=j79cJptq5h8
-* [September 1st, 2020 Livestream Q&A: Will there be something like the Resource Sink but for Fluids?](./yt-nT4pfUlmZBs.md) https://www.youtube.com/watch?v=nT4pfUlmZBs
-* [August 25th, 2020 Livestream Q&A: Is the sink going to accept liquids in the future?](./yt-k6ZS5wzlNKs.md) https://www.youtube.com/watch?v=k6ZS5wzlNKs
+* [October 27th, 2020 Livestream Q&A: Fluid Sink ever going to happen?](./yt-j79cJptq5h8.md) [https://www.youtube.com/watch?v=j79cJptq5h8](https://www.youtube.com/watch?v=j79cJptq5h8)
+* [September 1st, 2020 Livestream Q&A: Will there be something like the Resource Sink but for Fluids?](./yt-nT4pfUlmZBs.md) [https://www.youtube.com/watch?v=nT4pfUlmZBs](https://www.youtube.com/watch?v=nT4pfUlmZBs)
+* [August 25th, 2020 Livestream Q&A: Is the sink going to accept liquids in the future?](./yt-k6ZS5wzlNKs.md) [https://www.youtube.com/watch?v=k6ZS5wzlNKs](https://www.youtube.com/watch?v=k6ZS5wzlNKs)
 </details>
 
 

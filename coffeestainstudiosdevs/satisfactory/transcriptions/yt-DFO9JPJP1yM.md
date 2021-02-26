@@ -8,7 +8,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Any thoughts about reworking Foundations or adding Foundation holes?
 https://www.youtube.com/watch?v=DFO9JPJP1yM
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Will we be able to place holes in Walls and floors freely?](./yt-RrF2Nq2-vmc.md) https://www.youtube.com/watch?v=RrF2Nq2-vmc
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Will we be able to place holes in Walls and floors freely?](./yt-RrF2Nq2-vmc.md) [https://www.youtube.com/watch?v=RrF2Nq2-vmc](https://www.youtube.com/watch?v=RrF2Nq2-vmc)
 
 
 ### Topics

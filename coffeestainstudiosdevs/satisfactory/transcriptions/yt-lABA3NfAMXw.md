@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=lABA3NfAMXw
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
 
-* [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./yt-bQnAGoo8jQA.md) https://www.youtube.com/watch?v=bQnAGoo8jQA
+* [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./yt-bQnAGoo8jQA.md) [https://www.youtube.com/watch?v=bQnAGoo8jQA](https://www.youtube.com/watch?v=bQnAGoo8jQA)
 </details>
 
 

@@ -10,7 +10,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Can you summarise the extent to which Update 4 will be released in terms of the Engine Upgrade?
 https://www.youtube.com/watch?v=RCaCXVVAtb0
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: So are you packing Update 4 to the Engine Upgrade?](./yt-9QEf5938sPk.md) https://www.youtube.com/watch?v=9QEf5938sPk
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: So are you packing Update 4 to the Engine Upgrade?](./yt-9QEf5938sPk.md) [https://www.youtube.com/watch?v=9QEf5938sPk](https://www.youtube.com/watch?v=9QEf5938sPk)
 
 
 ### Topics

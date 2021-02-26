@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=5x5XXOoj9Xw
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
 
-* [February 16th, 2021 Livestream Q&A: What length will the new Zip Lines cap at?](./yt-v3_fHKQqX24.md) https://www.youtube.com/watch?v=v3_fHKQqX24
+* [February 16th, 2021 Livestream Q&A: What length will the new Zip Lines cap at?](./yt-v3_fHKQqX24.md) [https://www.youtube.com/watch?v=v3_fHKQqX24](https://www.youtube.com/watch?v=v3_fHKQqX24)
 </details>
 
 

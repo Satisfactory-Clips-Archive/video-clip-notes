@@ -9,7 +9,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: About how many Updates will there be before 1.0?
 https://www.youtube.com/watch?v=eIolvvHPWmw
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any more major updates planned before 1.0?](./yt-XLXeOMWHoAc.md) https://www.youtube.com/watch?v=XLXeOMWHoAc
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any more major updates planned before 1.0?](./yt-XLXeOMWHoAc.md) [https://www.youtube.com/watch?v=XLXeOMWHoAc](https://www.youtube.com/watch?v=XLXeOMWHoAc)
 
 
 ### Topics

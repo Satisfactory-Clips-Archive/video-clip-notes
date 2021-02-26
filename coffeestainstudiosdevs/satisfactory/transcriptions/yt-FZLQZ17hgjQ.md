@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=FZLQZ17hgjQ
 <details>
 <summary>This video is a continuation of a previous video</summary>
 
-* [October 20th, 2020 Livestream Jace & Snutt Talk: Jump Pad Teaser (part 1)](./yt-w-f3V9PdqxI.md) https://www.youtube.com/watch?v=w-f3V9PdqxI
+* [October 20th, 2020 Livestream Jace & Snutt Talk: Jump Pad Teaser (part 1)](./yt-w-f3V9PdqxI.md) [https://www.youtube.com/watch?v=w-f3V9PdqxI](https://www.youtube.com/watch?v=w-f3V9PdqxI)
 </details>
 
 

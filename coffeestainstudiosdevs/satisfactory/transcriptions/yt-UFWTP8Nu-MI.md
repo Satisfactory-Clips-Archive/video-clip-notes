@@ -11,10 +11,10 @@ https://www.youtube.com/watch?v=UFWTP8Nu-MI
 <details>
 <summary>This question may have been asked previously at least 4 other times, as recently as September 2020 and as early as May 2020.</summary>
 
-* [September 1st, 2020 Livestream Q&A: Any chance of Autosave process not creating giant frame drops ?](./yt-L6SZHtX7Jmg.md) https://www.youtube.com/watch?v=L6SZHtX7Jmg
-* [August 25th, 2020 Livestream Q&A: Better Autosave system?](./yt-EGl4PxUS0J8.md) https://www.youtube.com/watch?v=EGl4PxUS0J8
-* [August 25th, 2020 Livestream Q&A: Is it possible to have the Autosave not noticeable at all ?](./yt-ap-EONXus_4.md) https://www.youtube.com/watch?v=ap-EONXus_4
-* [May 19th, 2020 Livestream Q&A: Save stutter?](./yt-n523WIVo5LM.md) https://www.youtube.com/watch?v=n523WIVo5LM
+* [September 1st, 2020 Livestream Q&A: Any chance of Autosave process not creating giant frame drops ?](./yt-L6SZHtX7Jmg.md) [https://www.youtube.com/watch?v=L6SZHtX7Jmg](https://www.youtube.com/watch?v=L6SZHtX7Jmg)
+* [August 25th, 2020 Livestream Q&A: Better Autosave system?](./yt-EGl4PxUS0J8.md) [https://www.youtube.com/watch?v=EGl4PxUS0J8](https://www.youtube.com/watch?v=EGl4PxUS0J8)
+* [August 25th, 2020 Livestream Q&A: Is it possible to have the Autosave not noticeable at all ?](./yt-ap-EONXus_4.md) [https://www.youtube.com/watch?v=ap-EONXus_4](https://www.youtube.com/watch?v=ap-EONXus_4)
+* [May 19th, 2020 Livestream Q&A: Save stutter?](./yt-n523WIVo5LM.md) [https://www.youtube.com/watch?v=n523WIVo5LM](https://www.youtube.com/watch?v=n523WIVo5LM)
 </details>
 
 

@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=7R_kqWfRwhA
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* August 11th, 2020 Livestream Q&A: First-person Vehicle Driving? https://clips.twitch.tv/ShinySilkyMelonGivePLZ
+* August 11th, 2020 Livestream Q&A: First-person Vehicle Driving? [https://clips.twitch.tv/ShinySilkyMelonGivePLZ](https://clips.twitch.tv/ShinySilkyMelonGivePLZ)
 </details>
 
 

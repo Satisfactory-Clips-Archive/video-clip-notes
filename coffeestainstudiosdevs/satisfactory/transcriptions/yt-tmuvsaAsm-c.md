@@ -11,7 +11,7 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: In the next Update will we be able to craft something with Nuclear Waste?
 https://www.youtube.com/watch?v=tmuvsaAsm-c
-This question was possibly replaced with a more recent answer: [February 16th, 2021 Livestream Q&A: What is the future of Nuclear Waste?](./yt-Rv6FRkWjJfU.md) https://www.youtube.com/watch?v=Rv6FRkWjJfU
+This question was possibly replaced with a more recent answer: [February 16th, 2021 Livestream Q&A: What is the future of Nuclear Waste?](./yt-Rv6FRkWjJfU.md) [https://www.youtube.com/watch?v=Rv6FRkWjJfU](https://www.youtube.com/watch?v=Rv6FRkWjJfU)
 
 
 ### Topics

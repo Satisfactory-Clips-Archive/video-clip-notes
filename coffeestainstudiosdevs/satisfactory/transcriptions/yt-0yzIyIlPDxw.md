@@ -11,8 +11,8 @@ https://www.youtube.com/watch?v=0yzIyIlPDxw
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as August 2020.</summary>
 
-* [November 24th, 2020 Livestream Q&A: I have 24 (CPU) cores, can you make more use of it ?](./yt-LUM8i_wyJ-Y.md) https://www.youtube.com/watch?v=LUM8i_wyJ-Y
-* [August 25th, 2020 Livestream Q&A: Will we ever have proper multi-core support?](./yt-08PQFXaEac8.md) https://www.youtube.com/watch?v=08PQFXaEac8
+* [November 24th, 2020 Livestream Q&A: I have 24 (CPU) cores, can you make more use of it ?](./yt-LUM8i_wyJ-Y.md) [https://www.youtube.com/watch?v=LUM8i_wyJ-Y](https://www.youtube.com/watch?v=LUM8i_wyJ-Y)
+* [August 25th, 2020 Livestream Q&A: Will we ever have proper multi-core support?](./yt-08PQFXaEac8.md) [https://www.youtube.com/watch?v=08PQFXaEac8](https://www.youtube.com/watch?v=08PQFXaEac8)
 </details>
 
 

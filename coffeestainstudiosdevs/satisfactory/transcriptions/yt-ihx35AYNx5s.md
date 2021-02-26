@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: How many developers are working on Satisfactory?
 https://www.youtube.com/watch?v=ihx35AYNx5s
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: How many devs do you have?](./yt-Hj0nhmramiM.md) https://www.youtube.com/watch?v=Hj0nhmramiM
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: How many devs do you have?](./yt-Hj0nhmramiM.md) [https://www.youtube.com/watch?v=Hj0nhmramiM](https://www.youtube.com/watch?v=Hj0nhmramiM)
 
 
 ### Topics

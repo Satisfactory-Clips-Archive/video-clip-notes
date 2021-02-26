@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Are you considering adding more music to the game?
 https://www.youtube.com/watch?v=iDyPOcW0o5E
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any more music tracks coming?](./yt-bzqL0DGULFM.md) https://www.youtube.com/watch?v=bzqL0DGULFM
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any more music tracks coming?](./yt-bzqL0DGULFM.md) [https://www.youtube.com/watch?v=bzqL0DGULFM](https://www.youtube.com/watch?v=bzqL0DGULFM)
 
 
 ### Topics

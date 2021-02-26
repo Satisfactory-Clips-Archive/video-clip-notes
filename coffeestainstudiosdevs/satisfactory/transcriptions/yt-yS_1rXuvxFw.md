@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=yS_1rXuvxFw
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* August 18th, 2020 Livestream Q&A: Will there be a no combat/fight version? https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid
+* August 18th, 2020 Livestream Q&A: Will there be a no combat/fight version? [https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid](https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid)
 </details>
 
 

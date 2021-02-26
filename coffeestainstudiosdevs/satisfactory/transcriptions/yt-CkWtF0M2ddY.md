@@ -9,7 +9,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will we get Flying Vehicles?
 https://www.youtube.com/watch?v=CkWtF0M2ddY
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./yt-kd3UMt4pESk.md) https://www.youtube.com/watch?v=kd3UMt4pESk
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)
 
 
 ### Topics

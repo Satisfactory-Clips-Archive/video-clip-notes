@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Roadmap?
 https://www.youtube.com/watch?v=iSMAUqquuvc
-This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: I would be interested to see your in-house roadmap](./yt-D0LY0PxkSJM.md) https://www.youtube.com/watch?v=D0LY0PxkSJM
+This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: I would be interested to see your in-house roadmap](./yt-D0LY0PxkSJM.md) [https://www.youtube.com/watch?v=D0LY0PxkSJM](https://www.youtube.com/watch?v=D0LY0PxkSJM)
 
 
 ### Topics

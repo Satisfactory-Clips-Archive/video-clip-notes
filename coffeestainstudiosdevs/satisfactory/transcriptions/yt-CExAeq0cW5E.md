@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Give us a sneak peak?
 https://www.youtube.com/watch?v=CExAeq0cW5E
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: What about some leaks?](./yt-C2fArx9F9RM.md) https://www.youtube.com/watch?v=C2fArx9F9RM
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: What about some leaks?](./yt-C2fArx9F9RM.md) [https://www.youtube.com/watch?v=C2fArx9F9RM](https://www.youtube.com/watch?v=C2fArx9F9RM)
 
 
 ### Topics

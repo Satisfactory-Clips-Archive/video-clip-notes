@@ -9,7 +9,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Secondary Hub/Spawn Point ?
 https://www.youtube.com/watch?v=MjQNNzVfZTY
-This question was possibly duplicated with a more recent answer: [October 20th, 2020 Livestream Q&A: Can we get different spawn points not linked to the Hub?](./yt-DExdQ8KOKEA.md) https://www.youtube.com/watch?v=DExdQ8KOKEA
+This question was possibly duplicated with a more recent answer: [October 20th, 2020 Livestream Q&A: Can we get different spawn points not linked to the Hub?](./yt-DExdQ8KOKEA.md) [https://www.youtube.com/watch?v=DExdQ8KOKEA](https://www.youtube.com/watch?v=DExdQ8KOKEA)
 
 
 ### Topics

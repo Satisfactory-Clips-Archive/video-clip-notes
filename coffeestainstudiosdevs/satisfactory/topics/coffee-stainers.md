@@ -24,74 +24,74 @@ date: Last Modified
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
 ## February 23rd, 2021 Livestream
-* [Q&A: How many devs do you have?](../transcriptions/yt-Hj0nhmramiM.md) https://www.youtube.com/watch?v=Hj0nhmramiM
-* [Q&A: How many of them work on Valheim?](../transcriptions/yt-15R0t95pwvc.md) https://www.youtube.com/watch?v=15R0t95pwvc
-* [State of Dev](../transcriptions/yt-ODkDsExNtl4.md) https://www.youtube.com/watch?v=ODkDsExNtl4
+* [Q&A: How many devs do you have?](../transcriptions/yt-Hj0nhmramiM.md) [https://www.youtube.com/watch?v=Hj0nhmramiM](https://www.youtube.com/watch?v=Hj0nhmramiM)
+* [Q&A: How many of them work on Valheim?](../transcriptions/yt-15R0t95pwvc.md) [https://www.youtube.com/watch?v=15R0t95pwvc](https://www.youtube.com/watch?v=15R0t95pwvc)
+* [State of Dev](../transcriptions/yt-ODkDsExNtl4.md) [https://www.youtube.com/watch?v=ODkDsExNtl4](https://www.youtube.com/watch?v=ODkDsExNtl4)
 
 ## February 16th, 2021 Livestream
-* [Q&A: Did Coffee Stain Studios develop Satisfactory?](../transcriptions/yt-IPtH5E1-31k.md) https://www.youtube.com/watch?v=IPtH5E1-31k
-* [Q&A: How big is the development team?](../transcriptions/yt--iZbaVL7D0g.md) https://www.youtube.com/watch?v=-iZbaVL7D0g
-* [Q&A: See coworkers in real life- wtf is that?](../transcriptions/yt-kZqiiOvcW6E.md) https://www.youtube.com/watch?v=kZqiiOvcW6E
+* [Q&A: Did Coffee Stain Studios develop Satisfactory?](../transcriptions/yt-IPtH5E1-31k.md) [https://www.youtube.com/watch?v=IPtH5E1-31k](https://www.youtube.com/watch?v=IPtH5E1-31k)
+* [Q&A: How big is the development team?](../transcriptions/yt--iZbaVL7D0g.md) [https://www.youtube.com/watch?v=-iZbaVL7D0g](https://www.youtube.com/watch?v=-iZbaVL7D0g)
+* [Q&A: See coworkers in real life- wtf is that?](../transcriptions/yt-kZqiiOvcW6E.md) [https://www.youtube.com/watch?v=kZqiiOvcW6E](https://www.youtube.com/watch?v=kZqiiOvcW6E)
 
 ## February 9th, 2021 Livestream
-* [Snutt & Jace Talk: Leak™](../transcriptions/yt-TbSECv5M4ZM.md) https://www.youtube.com/watch?v=TbSECv5M4ZM
+* [Snutt & Jace Talk: Leak™](../transcriptions/yt-TbSECv5M4ZM.md) [https://www.youtube.com/watch?v=TbSECv5M4ZM](https://www.youtube.com/watch?v=TbSECv5M4ZM)
 
 ## February 2nd, 2021 Livestream
-* [Q&A: I am grateful that our 2 Community Managers have dev experience](../transcriptions/yt-VeGSy0F0mVY.md) https://www.youtube.com/watch?v=VeGSy0F0mVY
-* [Q&A: Will you guys do a new Studio tour with Sweden on lockdown?](../transcriptions/yt-9WJQIJgKgp4.md) https://www.youtube.com/watch?v=9WJQIJgKgp4
+* [Q&A: I am grateful that our 2 Community Managers have dev experience](../transcriptions/yt-VeGSy0F0mVY.md) [https://www.youtube.com/watch?v=VeGSy0F0mVY](https://www.youtube.com/watch?v=VeGSy0F0mVY)
+* [Q&A: Will you guys do a new Studio tour with Sweden on lockdown?](../transcriptions/yt-9WJQIJgKgp4.md) [https://www.youtube.com/watch?v=9WJQIJgKgp4](https://www.youtube.com/watch?v=9WJQIJgKgp4)
 
 ## January 26th, 2021 Livestream
-* [Q&A: How did you come up with the idea of making Satisfactory?](../transcriptions/yt-BG-xhTN4-0Q.md) https://www.youtube.com/watch?v=BG-xhTN4-0Q
-* [Q&A: Where is Coffee Stain HQ located?](../transcriptions/yt-1xr77MkTmdM.md) https://www.youtube.com/watch?v=1xr77MkTmdM
-* [Q&A: Whose idea was the Coffee Cup anyway?](../transcriptions/yt-JiqZXOgj8WA.md) https://www.youtube.com/watch?v=JiqZXOgj8WA
+* [Q&A: How did you come up with the idea of making Satisfactory?](../transcriptions/yt-BG-xhTN4-0Q.md) [https://www.youtube.com/watch?v=BG-xhTN4-0Q](https://www.youtube.com/watch?v=BG-xhTN4-0Q)
+* [Q&A: Where is Coffee Stain HQ located?](../transcriptions/yt-1xr77MkTmdM.md) [https://www.youtube.com/watch?v=1xr77MkTmdM](https://www.youtube.com/watch?v=1xr77MkTmdM)
+* [Q&A: Whose idea was the Coffee Cup anyway?](../transcriptions/yt-JiqZXOgj8WA.md) [https://www.youtube.com/watch?v=JiqZXOgj8WA](https://www.youtube.com/watch?v=JiqZXOgj8WA)
 
 ## January 19th, 2021 Livestream
-* [Q&A: Who in Coffee Stain plays Satisfactory the most?](../transcriptions/yt-N4JpnY4zy70.md) https://www.youtube.com/watch?v=N4JpnY4zy70
+* [Q&A: Who in Coffee Stain plays Satisfactory the most?](../transcriptions/yt-N4JpnY4zy70.md) [https://www.youtube.com/watch?v=N4JpnY4zy70](https://www.youtube.com/watch?v=N4JpnY4zy70)
 
 ## December 15th, 2020 Livestream
-* [Q&A: Do you guys crunch or do you actually care about stuff like health?](../transcriptions/yt-Ev8CEXznWsE.md) https://www.youtube.com/watch?v=Ev8CEXznWsE
+* [Q&A: Do you guys crunch or do you actually care about stuff like health?](../transcriptions/yt-Ev8CEXznWsE.md) [https://www.youtube.com/watch?v=Ev8CEXznWsE](https://www.youtube.com/watch?v=Ev8CEXznWsE)
 
 ## December 11th, 2020 Livestream
-* [Outro](../transcriptions/yt-njXBs_p2l1w,713.1457666666666,757.1897666666666.md) https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758
+* [Outro](../transcriptions/yt-njXBs_p2l1w,713.1457666666666,757.1897666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758)
 
 ## October 9th, 2020 Livestream
-* [Snutt & Dylan Talk: Crash reporting](../transcriptions/yt-1QDj7pJa9DQ.md) https://www.youtube.com/watch?v=1QDj7pJa9DQ
-* [Dylan & Snutt Talk: Visual Studio vs. Rider](../transcriptions/yt-hc2OfgQZCvA.md) https://www.youtube.com/watch?v=hc2OfgQZCvA
+* [Snutt & Dylan Talk: Crash reporting](../transcriptions/yt-1QDj7pJa9DQ.md) [https://www.youtube.com/watch?v=1QDj7pJa9DQ](https://www.youtube.com/watch?v=1QDj7pJa9DQ)
+* [Dylan & Snutt Talk: Visual Studio vs. Rider](../transcriptions/yt-hc2OfgQZCvA.md) [https://www.youtube.com/watch?v=hc2OfgQZCvA](https://www.youtube.com/watch?v=hc2OfgQZCvA)
 
 ## August 25th, 2020 Livestream
-* [Q&A: Are the Devs back from vacation?](../transcriptions/yt-dfHUHMQ9JQE.md) https://www.youtube.com/watch?v=dfHUHMQ9JQE
-* [Q&A: Train Signals?](../transcriptions/yt-WQH5cWS3s2s.md) https://www.youtube.com/watch?v=WQH5cWS3s2s
-* [Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors?](../transcriptions/yt-My4e5HOzxLc.md) https://www.youtube.com/watch?v=My4e5HOzxLc
+* [Q&A: Are the Devs back from vacation?](../transcriptions/yt-dfHUHMQ9JQE.md) [https://www.youtube.com/watch?v=dfHUHMQ9JQE](https://www.youtube.com/watch?v=dfHUHMQ9JQE)
+* [Q&A: Train Signals?](../transcriptions/yt-WQH5cWS3s2s.md) [https://www.youtube.com/watch?v=WQH5cWS3s2s](https://www.youtube.com/watch?v=WQH5cWS3s2s)
+* [Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors?](../transcriptions/yt-My4e5HOzxLc.md) [https://www.youtube.com/watch?v=My4e5HOzxLc](https://www.youtube.com/watch?v=My4e5HOzxLc)
 
 ## August 11th, 2020 Livestream
-* Q&A: Do you have a QA department? https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull
+* Q&A: Do you have a QA department? [https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull](https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull)
 
 ## March 24th, 2020 Livestream
-* [Snutt & Jace Talk: We don't plan very well at all](../transcriptions/yt-uNWZuo9AxdM.md) https://www.youtube.com/watch?v=uNWZuo9AxdM
-* [State of Dev: Working from home](../transcriptions/yt-4umNqbDy7Yc.md) https://www.youtube.com/watch?v=4umNqbDy7Yc
-* [Q&A: You have several job openings right now?](../transcriptions/yt-lqRP7DsUVes.md) https://www.youtube.com/watch?v=lqRP7DsUVes
+* [Snutt & Jace Talk: We don't plan very well at all](../transcriptions/yt-uNWZuo9AxdM.md) [https://www.youtube.com/watch?v=uNWZuo9AxdM](https://www.youtube.com/watch?v=uNWZuo9AxdM)
+* [State of Dev: Working from home](../transcriptions/yt-4umNqbDy7Yc.md) [https://www.youtube.com/watch?v=4umNqbDy7Yc](https://www.youtube.com/watch?v=4umNqbDy7Yc)
+* [Q&A: You have several job openings right now?](../transcriptions/yt-lqRP7DsUVes.md) [https://www.youtube.com/watch?v=lqRP7DsUVes](https://www.youtube.com/watch?v=lqRP7DsUVes)
 
 ## February 11th, 2020 Livestream
-* [Q&A: Did you crunch for Update 3?](../transcriptions/yt-BwJG6ZHR7Io.md) https://www.youtube.com/watch?v=BwJG6ZHR7Io
-* [Jace Talk: Funny roulette story](../transcriptions/yt-8Cw56ZD9syU.md) https://www.youtube.com/watch?v=8Cw56ZD9syU
-* [Snutt Talk: Get back to school, Coffee Stain needs devs](../transcriptions/yt-Ee0IFHzpEh4.md) https://www.youtube.com/watch?v=Ee0IFHzpEh4
-* [Jace Talk: We're having some fun before Update 3 releases](../transcriptions/yt-Vggm0YmGP84.md) https://www.youtube.com/watch?v=Vggm0YmGP84
-* [Snutt & Jace Talk: What's the mood like in the Studio right now?](../transcriptions/yt-ZfUik8FwH2Y.md) https://www.youtube.com/watch?v=ZfUik8FwH2Y
+* [Q&A: Did you crunch for Update 3?](../transcriptions/yt-BwJG6ZHR7Io.md) [https://www.youtube.com/watch?v=BwJG6ZHR7Io](https://www.youtube.com/watch?v=BwJG6ZHR7Io)
+* [Jace Talk: Funny roulette story](../transcriptions/yt-8Cw56ZD9syU.md) [https://www.youtube.com/watch?v=8Cw56ZD9syU](https://www.youtube.com/watch?v=8Cw56ZD9syU)
+* [Snutt Talk: Get back to school, Coffee Stain needs devs](../transcriptions/yt-Ee0IFHzpEh4.md) [https://www.youtube.com/watch?v=Ee0IFHzpEh4](https://www.youtube.com/watch?v=Ee0IFHzpEh4)
+* [Jace Talk: We're having some fun before Update 3 releases](../transcriptions/yt-Vggm0YmGP84.md) [https://www.youtube.com/watch?v=Vggm0YmGP84](https://www.youtube.com/watch?v=Vggm0YmGP84)
+* [Snutt & Jace Talk: What's the mood like in the Studio right now?](../transcriptions/yt-ZfUik8FwH2Y.md) [https://www.youtube.com/watch?v=ZfUik8FwH2Y](https://www.youtube.com/watch?v=ZfUik8FwH2Y)
 
 ## January 22nd, 2020 Livestream
-* [State of Dev: Biggest thing that's going on in the office right now.](../transcriptions/yt--HN8rUEaVwY.md) https://www.youtube.com/watch?v=-HN8rUEaVwY
+* [State of Dev: Biggest thing that's going on in the office right now.](../transcriptions/yt--HN8rUEaVwY.md) [https://www.youtube.com/watch?v=-HN8rUEaVwY](https://www.youtube.com/watch?v=-HN8rUEaVwY)
 
 ## March 9th, 2019 Livestream
-* [Q&A: But do they take your opinion (about steam) serious?](../transcriptions/yt-sZDS8dOdyvQ.md) https://www.youtube.com/watch?v=sZDS8dOdyvQ
-* [Q&A: Who suggested to build factory game?](../transcriptions/yt-AyPcl_Vs2D4.md) https://www.youtube.com/watch?v=AyPcl_Vs2D4
+* [Q&A: But do they take your opinion (about steam) serious?](../transcriptions/yt-sZDS8dOdyvQ.md) [https://www.youtube.com/watch?v=sZDS8dOdyvQ](https://www.youtube.com/watch?v=sZDS8dOdyvQ)
+* [Q&A: Who suggested to build factory game?](../transcriptions/yt-AyPcl_Vs2D4.md) [https://www.youtube.com/watch?v=AyPcl_Vs2D4](https://www.youtube.com/watch?v=AyPcl_Vs2D4)
 
 ## February 6th, 2019 Livestream
-* [Q&A: Developer diaries?](../transcriptions/yt-Dtm6xIj-wM4,1872.81796,1925.453116.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926
-* [Q&A: How did you come up with the name?](../transcriptions/yt-Dtm6xIj-wM4,2840.698964,2949.0666666666666.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950
-* [Q&A: How do you divide work on the various programmers on the team?](../transcriptions/yt-Dtm6xIj-wM4,2532.291017,2685.500647.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2532&end=2686
-* [Q&A: How much time have you invested currently in Satisfactory?](../transcriptions/yt-Dtm6xIj-wM4,3860.9666666666667,3923.903388.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3860&end=3924
-* [Q&A: What tools are you using?](../transcriptions/yt-Dtm6xIj-wM4,1276.9666666666667,1307.57972.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1276&end=1308
-* [Q&A: Where does the sense of humour/memes come from?](../transcriptions/yt-Dtm6xIj-wM4,3734.266666666667,3823.743738.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824
-* [Q&A: Where have you learned your Unreal skills?](../transcriptions/yt-Dtm6xIj-wM4,2329.453589,2391.550622.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2329&end=2392
-* [Q&A: Who is the funniest at the stand-ups?](../transcriptions/yt-Dtm6xIj-wM4,2733.4333333333334,2765.667433.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766
-* [Q&A: You are one of the rare studios to be (openly) LGBTQ-friendly, why is that so important to you?](../transcriptions/yt-Dtm6xIj-wM4,3433.002272,3481.1666666666665.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482
+* [Q&A: Developer diaries?](../transcriptions/yt-Dtm6xIj-wM4,1872.81796,1925.453116.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926)
+* [Q&A: How did you come up with the name?](../transcriptions/yt-Dtm6xIj-wM4,2840.698964,2949.0666666666666.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950)
+* [Q&A: How do you divide work on the various programmers on the team?](../transcriptions/yt-Dtm6xIj-wM4,2532.291017,2685.500647.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2532&end=2686](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2532&end=2686)
+* [Q&A: How much time have you invested currently in Satisfactory?](../transcriptions/yt-Dtm6xIj-wM4,3860.9666666666667,3923.903388.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3860&end=3924](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3860&end=3924)
+* [Q&A: What tools are you using?](../transcriptions/yt-Dtm6xIj-wM4,1276.9666666666667,1307.57972.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1276&end=1308](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1276&end=1308)
+* [Q&A: Where does the sense of humour/memes come from?](../transcriptions/yt-Dtm6xIj-wM4,3734.266666666667,3823.743738.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824)
+* [Q&A: Where have you learned your Unreal skills?](../transcriptions/yt-Dtm6xIj-wM4,2329.453589,2391.550622.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2329&end=2392](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2329&end=2392)
+* [Q&A: Who is the funniest at the stand-ups?](../transcriptions/yt-Dtm6xIj-wM4,2733.4333333333334,2765.667433.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766)
+* [Q&A: You are one of the rare studios to be (openly) LGBTQ-friendly, why is that so important to you?](../transcriptions/yt-Dtm6xIj-wM4,3433.002272,3481.1666666666665.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482)

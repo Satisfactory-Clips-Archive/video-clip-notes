@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=UK0P7CWe1V4
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as November 2020.</summary>
 
-* [November 24th, 2020 Livestream Q&A: When are diagonal Walls coming?](./yt-0-3ITfkBKZw.md) https://www.youtube.com/watch?v=0-3ITfkBKZw
-* [November 17th, 2020 Livestream Q&A: Can we get an update on Walls?](./yt-ZpYMIZFGegw.md) https://www.youtube.com/watch?v=ZpYMIZFGegw
+* [November 24th, 2020 Livestream Q&A: When are diagonal Walls coming?](./yt-0-3ITfkBKZw.md) [https://www.youtube.com/watch?v=0-3ITfkBKZw](https://www.youtube.com/watch?v=0-3ITfkBKZw)
+* [November 17th, 2020 Livestream Q&A: Can we get an update on Walls?](./yt-ZpYMIZFGegw.md) [https://www.youtube.com/watch?v=ZpYMIZFGegw](https://www.youtube.com/watch?v=ZpYMIZFGegw)
 </details>
 
 

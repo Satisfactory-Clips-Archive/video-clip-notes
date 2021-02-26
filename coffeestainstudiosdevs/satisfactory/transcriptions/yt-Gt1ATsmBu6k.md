@@ -9,7 +9,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Can I wear Boots, Jetpack and a Gas Mask?
 https://www.youtube.com/watch?v=Gt1ATsmBu6k
-This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Will we get two character slots for Jetpacks and Blade Runners](./yt-YKIN_NCGDpo.md) https://www.youtube.com/watch?v=YKIN_NCGDpo
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Will we get two character slots for Jetpacks and Blade Runners](./yt-YKIN_NCGDpo.md) [https://www.youtube.com/watch?v=YKIN_NCGDpo](https://www.youtube.com/watch?v=YKIN_NCGDpo)
 
 
 ### Topics

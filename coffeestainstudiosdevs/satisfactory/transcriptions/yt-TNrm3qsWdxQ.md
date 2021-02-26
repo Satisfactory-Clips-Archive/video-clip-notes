@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will there be more Seasonal Events?
 https://www.youtube.com/watch?v=TNrm3qsWdxQ
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Is there a goal amount of Events per year?](./yt-2koHO0P289M.md) https://www.youtube.com/watch?v=2koHO0P289M
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Is there a goal amount of Events per year?](./yt-2koHO0P289M.md) [https://www.youtube.com/watch?v=2koHO0P289M](https://www.youtube.com/watch?v=2koHO0P289M)
 
 
 ### Topics

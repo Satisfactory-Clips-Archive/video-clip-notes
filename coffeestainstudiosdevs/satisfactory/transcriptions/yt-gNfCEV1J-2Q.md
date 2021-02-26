@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Like a new map for Satisfactory?
 https://www.youtube.com/watch?v=gNfCEV1J-2Q
-This question was possibly duplicated with a more recent answer: [October 27th, 2020 Livestream Q&A: What about a new Map?](./yt-O9cRWaKhSRo.md) https://www.youtube.com/watch?v=O9cRWaKhSRo
+This question was possibly duplicated with a more recent answer: [October 27th, 2020 Livestream Q&A: What about a new Map?](./yt-O9cRWaKhSRo.md) [https://www.youtube.com/watch?v=O9cRWaKhSRo](https://www.youtube.com/watch?v=O9cRWaKhSRo)
 
 
 ### Topics

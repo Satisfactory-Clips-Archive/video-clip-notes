@@ -11,9 +11,9 @@ https://www.youtube.com/watch?v=lSeLNlkKo1w
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as October 2020 and as early as December 2019.</summary>
 
-* [October 6th, 2020 Livestream Q&A: Is ADA a synth voice ?](./yt-isjOJ0Aczl4.md) https://www.youtube.com/watch?v=isjOJ0Aczl4
-* [March 24th, 2020 Livestream Q&A: Who speaks ADA?](./yt-aYUTkfL-jKk.md) https://www.youtube.com/watch?v=aYUTkfL-jKk
-* [December 19th, 2019 Livestream Q&A: Who is the voice of A.D.A. ?](./yt-aOzSvX8iaYg.md) https://www.youtube.com/watch?v=aOzSvX8iaYg
+* [October 6th, 2020 Livestream Q&A: Is ADA a synth voice ?](./yt-isjOJ0Aczl4.md) [https://www.youtube.com/watch?v=isjOJ0Aczl4](https://www.youtube.com/watch?v=isjOJ0Aczl4)
+* [March 24th, 2020 Livestream Q&A: Who speaks ADA?](./yt-aYUTkfL-jKk.md) [https://www.youtube.com/watch?v=aYUTkfL-jKk](https://www.youtube.com/watch?v=aYUTkfL-jKk)
+* [December 19th, 2019 Livestream Q&A: Who is the voice of A.D.A. ?](./yt-aOzSvX8iaYg.md) [https://www.youtube.com/watch?v=aOzSvX8iaYg](https://www.youtube.com/watch?v=aOzSvX8iaYg)
 </details>
 
 

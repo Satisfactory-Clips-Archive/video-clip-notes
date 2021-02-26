@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Can we choose the gender of the player?
 https://www.youtube.com/watch?v=VRo-e6NnYpk
-This question was possibly duplicated with a more recent answer: [September 22nd, 2020 Livestream Q&A: Why are we only Female in the game and no Male options?](./yt-njr4NS88fBc.md) https://www.youtube.com/watch?v=njr4NS88fBc
+This question was possibly duplicated with a more recent answer: [September 22nd, 2020 Livestream Q&A: Why are we only Female in the game and no Male options?](./yt-njr4NS88fBc.md) [https://www.youtube.com/watch?v=njr4NS88fBc](https://www.youtube.com/watch?v=njr4NS88fBc)
 
 
 ### Topics

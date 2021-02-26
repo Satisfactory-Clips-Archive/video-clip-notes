@@ -9,7 +9,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will it be possible to use decimal places for percentages in future?
 https://www.youtube.com/watch?v=zGH69_aSwwk
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Can you do percentage decimals to get exact part rates?](./yt-SRnmr4oaE0k.md) https://www.youtube.com/watch?v=SRnmr4oaE0k
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Can you do percentage decimals to get exact part rates?](./yt-SRnmr4oaE0k.md) [https://www.youtube.com/watch?v=SRnmr4oaE0k](https://www.youtube.com/watch?v=SRnmr4oaE0k)
 
 
 ### Topics

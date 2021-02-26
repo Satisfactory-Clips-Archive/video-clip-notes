@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=SRnmr4oaE0k
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
 
-* [January 19th, 2021 Livestream Q&A: Will it be possible to use decimal places for percentages in future?](./yt-zGH69_aSwwk.md) https://www.youtube.com/watch?v=zGH69_aSwwk
+* [January 19th, 2021 Livestream Q&A: Will it be possible to use decimal places for percentages in future?](./yt-zGH69_aSwwk.md) [https://www.youtube.com/watch?v=zGH69_aSwwk](https://www.youtube.com/watch?v=zGH69_aSwwk)
 </details>
 
 

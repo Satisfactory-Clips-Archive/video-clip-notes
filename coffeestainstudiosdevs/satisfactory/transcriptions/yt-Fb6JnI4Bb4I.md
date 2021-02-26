@@ -9,7 +9,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Give us a flight vehicle?
 https://www.youtube.com/watch?v=Fb6JnI4Bb4I
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./yt-kd3UMt4pESk.md) https://www.youtube.com/watch?v=kd3UMt4pESk
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)
 
 
 ### Topics

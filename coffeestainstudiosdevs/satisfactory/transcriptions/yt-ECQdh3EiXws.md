@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Better Multiplayer support?
 https://www.youtube.com/watch?v=ECQdh3EiXws
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: What are the plans to improve multiplayer bugs in the future?](./yt-D36NzV3LAB8.md) https://www.youtube.com/watch?v=D36NzV3LAB8
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: What are the plans to improve multiplayer bugs in the future?](./yt-D36NzV3LAB8.md) [https://www.youtube.com/watch?v=D36NzV3LAB8](https://www.youtube.com/watch?v=D36NzV3LAB8)
 
 
 ### Topics

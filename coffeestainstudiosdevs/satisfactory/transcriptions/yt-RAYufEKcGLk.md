@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Are we getting signs any time soon?
 https://www.youtube.com/watch?v=RAYufEKcGLk
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Will there be signs in future updates?](./yt--t832FeMogU.md) https://www.youtube.com/watch?v=-t832FeMogU
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Will there be signs in future updates?](./yt--t832FeMogU.md) [https://www.youtube.com/watch?v=-t832FeMogU](https://www.youtube.com/watch?v=-t832FeMogU)
 
 
 ### Topics

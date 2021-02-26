@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=OhZRue9DsJY
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* [August 25th, 2020 Livestream Q&A: Quality-of-life update?](./yt-cwWUYRciIoc.md) https://www.youtube.com/watch?v=cwWUYRciIoc
+* [August 25th, 2020 Livestream Q&A: Quality-of-life update?](./yt-cwWUYRciIoc.md) [https://www.youtube.com/watch?v=cwWUYRciIoc](https://www.youtube.com/watch?v=cwWUYRciIoc)
 </details>
 
 

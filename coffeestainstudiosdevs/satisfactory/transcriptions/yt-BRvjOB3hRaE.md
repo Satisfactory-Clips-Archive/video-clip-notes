@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Dedicated Servers don't need to wait for an Update?
 https://www.youtube.com/watch?v=BRvjOB3hRaE
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: How possible are Dedicated Servers in Update 4?](./yt--3JqJE_94g0.md) https://www.youtube.com/watch?v=-3JqJE_94g0
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: How possible are Dedicated Servers in Update 4?](./yt--3JqJE_94g0.md) [https://www.youtube.com/watch?v=-3JqJE_94g0](https://www.youtube.com/watch?v=-3JqJE_94g0)
 
 
 ### Topics

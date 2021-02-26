@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any Update on Merch shipping alternatives?
 https://www.youtube.com/watch?v=kj_vdE5-CEI
-This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: When will Merch shipping worldwide be possible?](./yt-iyFXDTn2YPM.md) https://www.youtube.com/watch?v=iyFXDTn2YPM
+This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: When will Merch shipping worldwide be possible?](./yt-iyFXDTn2YPM.md) [https://www.youtube.com/watch?v=iyFXDTn2YPM](https://www.youtube.com/watch?v=iyFXDTn2YPM)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can we get Weather to change?
 https://www.youtube.com/watch?v=iq-K9FY-RT8
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Storm or natural disasters in the game?](./yt-LgYBDQkiTrk.md) https://www.youtube.com/watch?v=LgYBDQkiTrk
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Storm or natural disasters in the game?](./yt-LgYBDQkiTrk.md) [https://www.youtube.com/watch?v=LgYBDQkiTrk](https://www.youtube.com/watch?v=LgYBDQkiTrk)
 
 
 ### Topics

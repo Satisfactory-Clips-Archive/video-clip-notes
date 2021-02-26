@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=pjoG5bBsTKI
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as June 2020.</summary>
 
-* [June 8th, 2020 Livestream Q&A: How about repeatable Space Elevator shipments to make more use of it?](./yt-fbCEIVUNDe0.md) https://www.youtube.com/watch?v=fbCEIVUNDe0
+* [June 8th, 2020 Livestream Q&A: How about repeatable Space Elevator shipments to make more use of it?](./yt-fbCEIVUNDe0.md) [https://www.youtube.com/watch?v=fbCEIVUNDe0](https://www.youtube.com/watch?v=fbCEIVUNDe0)
 </details>
 
 

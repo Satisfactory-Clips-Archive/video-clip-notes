@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=KLDJ6e6RVyE
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* August 11th, 2020 Livestream Q&A: Figurine? https://clips.twitch.tv/ShortKathishAardvarkUnSane
+* August 11th, 2020 Livestream Q&A: Figurine? [https://clips.twitch.tv/ShortKathishAardvarkUnSane](https://clips.twitch.tv/ShortKathishAardvarkUnSane)
 </details>
 
 

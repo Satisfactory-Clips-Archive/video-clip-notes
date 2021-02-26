@@ -9,7 +9,7 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: What's the name of the Player Character?
 https://www.youtube.com/watch?v=pNTCYMAibe8
-This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: Is there any info/lore on the player character?](./yt-7W32eD2pZOM.md) https://www.youtube.com/watch?v=7W32eD2pZOM
+This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: Is there any info/lore on the player character?](./yt-7W32eD2pZOM.md) [https://www.youtube.com/watch?v=7W32eD2pZOM](https://www.youtube.com/watch?v=7W32eD2pZOM)
 
 
 ### Topics

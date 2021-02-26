@@ -8,7 +8,7 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Anything confirmed for Update 4?
 https://www.youtube.com/watch?v=9M0KquupIBs
-This question was possibly replaced with a more recent answer: [January 15th, 2021 Livestream Intro](./yt-Jxh8kvtUuxY,,46.3463.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47
+This question was possibly replaced with a more recent answer: [January 15th, 2021 Livestream Intro](./yt-Jxh8kvtUuxY,,46.3463.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47)
 
 
 ### Topics

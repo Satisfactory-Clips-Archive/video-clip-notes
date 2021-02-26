@@ -9,7 +9,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Do we intend to add rain/storms ?
 https://www.youtube.com/watch?v=3WDeVbpr30g
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Storm or natural disasters in the game?](./yt-LgYBDQkiTrk.md) https://www.youtube.com/watch?v=LgYBDQkiTrk
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Storm or natural disasters in the game?](./yt-LgYBDQkiTrk.md) [https://www.youtube.com/watch?v=LgYBDQkiTrk](https://www.youtube.com/watch?v=LgYBDQkiTrk)
 
 
 ### Topics

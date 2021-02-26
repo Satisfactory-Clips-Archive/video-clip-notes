@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: You can't find a place to make a Cup?
 https://www.youtube.com/watch?v=F90s1pV1WWY
-This question was possibly replaced with a more recent answer: [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./yt-bQnAGoo8jQA.md) https://www.youtube.com/watch?v=bQnAGoo8jQA
+This question was possibly replaced with a more recent answer: [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./yt-bQnAGoo8jQA.md) [https://www.youtube.com/watch?v=bQnAGoo8jQA](https://www.youtube.com/watch?v=bQnAGoo8jQA)
 
 
 ### Topics

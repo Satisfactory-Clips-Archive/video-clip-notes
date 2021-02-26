@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=t814f8sansw
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as March 2020.</summary>
 
-* [March 24th, 2020 Livestream Q&A: Will the Steam release make reliability better?](./yt-fKXR3PibLLA.md) https://www.youtube.com/watch?v=fKXR3PibLLA
+* [March 24th, 2020 Livestream Q&A: Will the Steam release make reliability better?](./yt-fKXR3PibLLA.md) [https://www.youtube.com/watch?v=fKXR3PibLLA](https://www.youtube.com/watch?v=fKXR3PibLLA)
 </details>
 
 

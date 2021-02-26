@@ -8,7 +8,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Mercer Spheres?
 https://www.youtube.com/watch?v=9VS0lGfDZ1k
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: When will all the collectables like Mercer Spheres be implemented?](./yt-1_qy-PSFKO8.md) https://www.youtube.com/watch?v=1_qy-PSFKO8
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: When will all the collectables like Mercer Spheres be implemented?](./yt-1_qy-PSFKO8.md) [https://www.youtube.com/watch?v=1_qy-PSFKO8](https://www.youtube.com/watch?v=1_qy-PSFKO8)
 
 
 ### Topics

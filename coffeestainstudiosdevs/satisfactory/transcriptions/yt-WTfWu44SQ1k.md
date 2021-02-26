@@ -10,12 +10,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: When are Geothermal Generators going to get it's Info Panel?
 https://www.youtube.com/watch?v=WTfWu44SQ1k
-This question was possibly replaced with a more recent answer: [February 19th, 2021 Livestream Geothermal Generators](./yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198
+This question was possibly replaced with a more recent answer: [February 19th, 2021 Livestream Geothermal Generators](./yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198)
 
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* [August 25th, 2020 Livestream Q&A: When will you ad UI for the Steam Geyser Power Plant?](./yt-xFZfkjY3J0c.md) https://www.youtube.com/watch?v=xFZfkjY3J0c
+* [August 25th, 2020 Livestream Q&A: When will you ad UI for the Steam Geyser Power Plant?](./yt-xFZfkjY3J0c.md) [https://www.youtube.com/watch?v=xFZfkjY3J0c](https://www.youtube.com/watch?v=xFZfkjY3J0c)
 </details>
 
 

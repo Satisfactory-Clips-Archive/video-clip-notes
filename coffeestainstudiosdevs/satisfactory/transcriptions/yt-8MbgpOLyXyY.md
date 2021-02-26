@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=8MbgpOLyXyY
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as March 2019.</summary>
 
-* [March 9th, 2019 Livestream Q&A: Do you guys write automated tests?](./yt-wJ-LL985q_c.md) https://www.youtube.com/watch?v=wJ-LL985q_c
+* [March 9th, 2019 Livestream Q&A: Do you guys write automated tests?](./yt-wJ-LL985q_c.md) [https://www.youtube.com/watch?v=wJ-LL985q_c](https://www.youtube.com/watch?v=wJ-LL985q_c)
 </details>
 
 

@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=PGyc_YN4DaM
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as December 2020 and as early as January 2020.</summary>
 
-* [December 15th, 2020 Livestream Q&A: Any thought to allow Splitters to regulate the flow of items per minute?](./yt-nSC4C_h1ONo.md) https://www.youtube.com/watch?v=nSC4C_h1ONo
-* January 22nd, 2020 Livestream Q&A: What do you think about Splitters that can split a certain percentage of the Belts? https://www.youtube.com/watch?v=GiOZBqdfrAQ
+* [December 15th, 2020 Livestream Q&A: Any thought to allow Splitters to regulate the flow of items per minute?](./yt-nSC4C_h1ONo.md) [https://www.youtube.com/watch?v=nSC4C_h1ONo](https://www.youtube.com/watch?v=nSC4C_h1ONo)
+* January 22nd, 2020 Livestream Q&A: What do you think about Splitters that can split a certain percentage of the Belts? [https://www.youtube.com/watch?v=GiOZBqdfrAQ](https://www.youtube.com/watch?v=GiOZBqdfrAQ)
 </details>
 
 

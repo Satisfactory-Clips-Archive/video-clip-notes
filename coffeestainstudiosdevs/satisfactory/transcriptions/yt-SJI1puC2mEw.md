@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=SJI1puC2mEw
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as October 2020.</summary>
 
-* [October 20th, 2020 Livestream Q&A: Will the Pipeline Junction be stackable?](./yt-qzAbkRHSojU.md) https://www.youtube.com/watch?v=qzAbkRHSojU
+* [October 20th, 2020 Livestream Q&A: Will the Pipeline Junction be stackable?](./yt-qzAbkRHSojU.md) [https://www.youtube.com/watch?v=qzAbkRHSojU](https://www.youtube.com/watch?v=qzAbkRHSojU)
 </details>
 
 

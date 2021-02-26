@@ -9,7 +9,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Do you plan on adding mass foundation placement?
 https://www.youtube.com/watch?v=8Pm6KLejrOQ
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Mass Foundation creation?](./yt-Z0H06UJbb4E.md) https://www.youtube.com/watch?v=Z0H06UJbb4E
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Mass Foundation creation?](./yt-Z0H06UJbb4E.md) [https://www.youtube.com/watch?v=Z0H06UJbb4E](https://www.youtube.com/watch?v=Z0H06UJbb4E)
 
 
 ### Topics

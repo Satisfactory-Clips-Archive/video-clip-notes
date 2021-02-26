@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: How about procedural maps?
 https://www.youtube.com/watch?v=oYVWBcgkahY
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Possible to get randomly generated maps?](./yt-FkM6JZIZrqg.md) https://www.youtube.com/watch?v=FkM6JZIZrqg
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Possible to get randomly generated maps?](./yt-FkM6JZIZrqg.md) [https://www.youtube.com/watch?v=FkM6JZIZrqg](https://www.youtube.com/watch?v=FkM6JZIZrqg)
 
 
 ### Topics

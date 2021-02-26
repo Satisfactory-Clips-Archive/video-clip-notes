@@ -9,7 +9,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Is there going to be a way to destroy the fart rock?
 https://www.youtube.com/watch?v=byPiSQZOAhw
-This question was possibly duplicated with a more recent answer: February 26th, 2021 Instagram AMA Q&A: Are there any plans for removing the poison spreading plants in Satisfactory? https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4
+This question was possibly duplicated with a more recent answer: February 26th, 2021 Instagram AMA Q&A: Are there any plans for removing the poison spreading plants in Satisfactory? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4)
 
 
 ### Topics

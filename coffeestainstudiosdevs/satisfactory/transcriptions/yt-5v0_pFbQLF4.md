@@ -9,7 +9,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Which Biome will be rebuilt?
 https://www.youtube.com/watch?v=5v0_pFbQLF4
-This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Is there another area rework like the desert update happening?](./yt-sV-kvBvlTXc.md) https://www.youtube.com/watch?v=sV-kvBvlTXc
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Is there another area rework like the desert update happening?](./yt-sV-kvBvlTXc.md) [https://www.youtube.com/watch?v=sV-kvBvlTXc](https://www.youtube.com/watch?v=sV-kvBvlTXc)
 
 
 ### Topics

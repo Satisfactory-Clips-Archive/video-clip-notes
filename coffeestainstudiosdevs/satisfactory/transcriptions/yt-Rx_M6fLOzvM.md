@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Is ray-trace in planning?
 https://www.youtube.com/watch?v=Rx_M6fLOzvM
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Do you have any plans to add Ray Tracing or DLSS?](./yt-hRzZjCBoI8s.md) https://www.youtube.com/watch?v=hRzZjCBoI8s
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Do you have any plans to add Ray Tracing or DLSS?](./yt-hRzZjCBoI8s.md) [https://www.youtube.com/watch?v=hRzZjCBoI8s](https://www.youtube.com/watch?v=hRzZjCBoI8s)
 
 
 ### Topics

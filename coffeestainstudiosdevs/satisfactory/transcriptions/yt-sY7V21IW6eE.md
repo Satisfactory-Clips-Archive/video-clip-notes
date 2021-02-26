@@ -9,7 +9,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any plans for Power Management?
 https://www.youtube.com/watch?v=sY7V21IW6eE
-This question was possibly replaced with a more recent answer: [February 19th, 2021 Livestream Intro](./yt-Tmpors_r_Vw,,26.259566666666668.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27
+This question was possibly replaced with a more recent answer: [February 19th, 2021 Livestream Intro](./yt-Tmpors_r_Vw,,26.259566666666668.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27)
 
 
 ### Topics

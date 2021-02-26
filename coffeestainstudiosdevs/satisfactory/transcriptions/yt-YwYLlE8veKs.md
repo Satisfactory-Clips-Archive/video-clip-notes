@@ -10,7 +10,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Can we get an indicator for the launch line from the Launch Pad?
 https://www.youtube.com/watch?v=YwYLlE8veKs
-This question was possibly replaced with a more recent answer: [November 10th, 2020 Livestream Q&A: Do we get better Jump Pads in the Update?](./yt-k3WWTRfFo_s.md) https://www.youtube.com/watch?v=k3WWTRfFo_s
+This question was possibly replaced with a more recent answer: [November 10th, 2020 Livestream Q&A: Do we get better Jump Pads in the Update?](./yt-k3WWTRfFo_s.md) [https://www.youtube.com/watch?v=k3WWTRfFo_s](https://www.youtube.com/watch?v=k3WWTRfFo_s)
 
 
 ### Topics

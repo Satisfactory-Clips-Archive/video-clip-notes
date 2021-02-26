@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Satisfactory / Sanctum cross-over?
 https://www.youtube.com/watch?v=1LMD6kBcsec
-This question was possibly duplicated with a more recent answer: [December 15th, 2020 Livestream Q&A: Does Sanctum and Satisfactory exist in the same universe?](./yt-JnR3oHKDQi0.md) https://www.youtube.com/watch?v=JnR3oHKDQi0
+This question was possibly duplicated with a more recent answer: [December 15th, 2020 Livestream Q&A: Does Sanctum and Satisfactory exist in the same universe?](./yt-JnR3oHKDQi0.md) [https://www.youtube.com/watch?v=JnR3oHKDQi0](https://www.youtube.com/watch?v=JnR3oHKDQi0)
 
 
 ### Topics

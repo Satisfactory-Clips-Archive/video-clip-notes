@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=fdoiF6pPF1M
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as September 2020.</summary>
 
-* [September 22nd, 2020 Livestream Q&A: Do you guys have any plans for wrangling Lizard Doggos?](./yt-UjpXjYid5ng.md) https://www.youtube.com/watch?v=UjpXjYid5ng
-* [September 1st, 2020 Livestream Q&A: Please take a look at the Doggo farm](./yt-r-Azcy0xC4c.md) https://www.youtube.com/watch?v=r-Azcy0xC4c
+* [September 22nd, 2020 Livestream Q&A: Do you guys have any plans for wrangling Lizard Doggos?](./yt-UjpXjYid5ng.md) [https://www.youtube.com/watch?v=UjpXjYid5ng](https://www.youtube.com/watch?v=UjpXjYid5ng)
+* [September 1st, 2020 Livestream Q&A: Please take a look at the Doggo farm](./yt-r-Azcy0xC4c.md) [https://www.youtube.com/watch?v=r-Azcy0xC4c](https://www.youtube.com/watch?v=r-Azcy0xC4c)
 </details>
 
 

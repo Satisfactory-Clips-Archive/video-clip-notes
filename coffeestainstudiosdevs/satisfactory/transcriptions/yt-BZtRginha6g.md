@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: What will be happening with the Train collisions/signalling?
 https://www.youtube.com/watch?v=BZtRginha6g
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any news on Train revamp?](./yt-_kBUD_mMahs.md) https://www.youtube.com/watch?v=_kBUD_mMahs
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any news on Train revamp?](./yt-_kBUD_mMahs.md) [https://www.youtube.com/watch?v=_kBUD_mMahs](https://www.youtube.com/watch?v=_kBUD_mMahs)
 
 
 ### Topics

@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=ZlPENv3__GU
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
 
-* [February 9th, 2021 Livestream Q&A: Update 4 contains the Engine Upgrade?](./yt-WQa938_K6SY.md) https://www.youtube.com/watch?v=WQa938_K6SY
+* [February 9th, 2021 Livestream Q&A: Update 4 contains the Engine Upgrade?](./yt-WQa938_K6SY.md) [https://www.youtube.com/watch?v=WQa938_K6SY](https://www.youtube.com/watch?v=WQa938_K6SY)
 </details>
 
 

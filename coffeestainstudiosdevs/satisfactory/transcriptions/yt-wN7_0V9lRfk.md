@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=wN7_0V9lRfk
 <details>
 <summary>This video is a continuation of a previous video</summary>
 
-* [February 2nd, 2021 Livestream Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](./yt-U7q88D_G0Ac.md) https://www.youtube.com/watch?v=U7q88D_G0Ac
+* [February 2nd, 2021 Livestream Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](./yt-U7q88D_G0Ac.md) [https://www.youtube.com/watch?v=U7q88D_G0Ac](https://www.youtube.com/watch?v=U7q88D_G0Ac)
 </details>
 
 

@@ -8,7 +8,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Improve Vehicles in general?
 https://www.youtube.com/watch?v=pRuIjTp-u5I
-This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Improvements on Vehicles next Update?](./yt-79CHl9qFo90.md) https://www.youtube.com/watch?v=79CHl9qFo90
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Improvements on Vehicles next Update?](./yt-79CHl9qFo90.md) [https://www.youtube.com/watch?v=79CHl9qFo90](https://www.youtube.com/watch?v=79CHl9qFo90)
 
 
 ### Topics

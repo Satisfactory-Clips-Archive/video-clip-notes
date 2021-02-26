@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=MaHhdhMI_38
 <details>
 <summary>This video is a continuation of a previous video</summary>
 
-* [January 19th, 2021 Livestream Q&A: What's the cost of the Resource Well Extractors & Pressurisers (Part 1)](./yt-Ik8K1G6lGyM.md) https://www.youtube.com/watch?v=Ik8K1G6lGyM
+* [January 19th, 2021 Livestream Q&A: What's the cost of the Resource Well Extractors & Pressurisers (Part 1)](./yt-Ik8K1G6lGyM.md) [https://www.youtube.com/watch?v=Ik8K1G6lGyM](https://www.youtube.com/watch?v=Ik8K1G6lGyM)
 </details>
 
 

@@ -9,7 +9,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Official Mod support?
 https://www.youtube.com/watch?v=0M3RKdwK5mA
-This question was possibly duplicated with a more recent answer: [November 17th, 2020 Livestream Q&A: Would Official Mod Support use Steam Workshop?](./yt-qzu-mnG_8uA.md) https://www.youtube.com/watch?v=qzu-mnG_8uA
+This question was possibly duplicated with a more recent answer: [November 17th, 2020 Livestream Q&A: Would Official Mod Support use Steam Workshop?](./yt-qzu-mnG_8uA.md) [https://www.youtube.com/watch?v=qzu-mnG_8uA](https://www.youtube.com/watch?v=qzu-mnG_8uA)
 
 
 ### Topics

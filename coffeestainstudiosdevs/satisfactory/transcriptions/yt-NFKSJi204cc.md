@@ -8,7 +8,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Can I change my character from female to male?
 https://www.youtube.com/watch?v=NFKSJi204cc
-This question was possibly duplicated with a more recent answer: [September 22nd, 2020 Livestream Q&A: Why are we only Female in the game and no Male options?](./yt-njr4NS88fBc.md) https://www.youtube.com/watch?v=njr4NS88fBc
+This question was possibly duplicated with a more recent answer: [September 22nd, 2020 Livestream Q&A: Why are we only Female in the game and no Male options?](./yt-njr4NS88fBc.md) [https://www.youtube.com/watch?v=njr4NS88fBc](https://www.youtube.com/watch?v=njr4NS88fBc)
 
 
 ### Topics

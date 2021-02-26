@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=awtYncMFbBo
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
 
-* [January 19th, 2021 Livestream Q&A: Will you be adding more Cargo Crash Sites to add more alt recipes?](./yt-P7JCgZ-mLDE.md) https://www.youtube.com/watch?v=P7JCgZ-mLDE
+* [January 19th, 2021 Livestream Q&A: Will you be adding more Cargo Crash Sites to add more alt recipes?](./yt-P7JCgZ-mLDE.md) [https://www.youtube.com/watch?v=P7JCgZ-mLDE](https://www.youtube.com/watch?v=P7JCgZ-mLDE)
 </details>
 
 

@@ -10,7 +10,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When will we implement gravity physics to the Buildings?
 https://www.youtube.com/watch?v=6JFV5EAIU8U
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Will Foundations be falling down from non-supported beams?](./yt-lxpA6PIJEbo.md) https://www.youtube.com/watch?v=lxpA6PIJEbo
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Will Foundations be falling down from non-supported beams?](./yt-lxpA6PIJEbo.md) [https://www.youtube.com/watch?v=lxpA6PIJEbo](https://www.youtube.com/watch?v=lxpA6PIJEbo)
 
 
 ### Topics

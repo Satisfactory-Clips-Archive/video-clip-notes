@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=g9FlxkN5dhc
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 
-* [September 1st, 2020 Livestream Q&A: Are we going to be able to get the Space Elevator Food Court?](./yt-YNogQuanQlc.md) https://www.youtube.com/watch?v=YNogQuanQlc
+* [September 1st, 2020 Livestream Q&A: Are we going to be able to get the Space Elevator Food Court?](./yt-YNogQuanQlc.md) [https://www.youtube.com/watch?v=YNogQuanQlc](https://www.youtube.com/watch?v=YNogQuanQlc)
 </details>
 
 

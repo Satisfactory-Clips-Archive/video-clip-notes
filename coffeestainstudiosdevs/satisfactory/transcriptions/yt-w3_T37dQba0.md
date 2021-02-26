@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=w3_T37dQba0
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
 
-* [February 9th, 2021 Livestream Q&A: Will Update 4 include Map Updates?](./yt-HoD69Qs7RTU.md) https://www.youtube.com/watch?v=HoD69Qs7RTU
+* [February 9th, 2021 Livestream Q&A: Will Update 4 include Map Updates?](./yt-HoD69Qs7RTU.md) [https://www.youtube.com/watch?v=HoD69Qs7RTU](https://www.youtube.com/watch?v=HoD69Qs7RTU)
 </details>
 
 

@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=dIQQWHWwCGA
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 
-* [September 1st, 2020 Livestream Q&A: Did the Steam release meet expected goals?](./yt-crzPPDeFTcc.md) https://www.youtube.com/watch?v=crzPPDeFTcc
+* [September 1st, 2020 Livestream Q&A: Did the Steam release meet expected goals?](./yt-crzPPDeFTcc.md) [https://www.youtube.com/watch?v=crzPPDeFTcc](https://www.youtube.com/watch?v=crzPPDeFTcc)
 </details>
 
 

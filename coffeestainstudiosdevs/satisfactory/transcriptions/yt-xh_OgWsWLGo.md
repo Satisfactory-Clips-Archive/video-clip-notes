@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=xh_OgWsWLGo
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
 
-* [February 2nd, 2021 Livestream Q&A: Any more teasers?](./yt-r7i2CQaxnWc.md) https://www.youtube.com/watch?v=r7i2CQaxnWc
+* [February 2nd, 2021 Livestream Q&A: Any more teasers?](./yt-r7i2CQaxnWc.md) [https://www.youtube.com/watch?v=r7i2CQaxnWc](https://www.youtube.com/watch?v=r7i2CQaxnWc)
 </details>
 
 

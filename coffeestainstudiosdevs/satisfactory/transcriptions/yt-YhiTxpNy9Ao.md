@@ -8,7 +8,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Merch - The Cup
 https://www.youtube.com/watch?v=YhiTxpNy9Ao
-This question was possibly replaced with a more recent answer: [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./yt-bQnAGoo8jQA.md) https://www.youtube.com/watch?v=bQnAGoo8jQA
+This question was possibly replaced with a more recent answer: [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./yt-bQnAGoo8jQA.md) [https://www.youtube.com/watch?v=bQnAGoo8jQA](https://www.youtube.com/watch?v=bQnAGoo8jQA)
 
 
 ### Topics

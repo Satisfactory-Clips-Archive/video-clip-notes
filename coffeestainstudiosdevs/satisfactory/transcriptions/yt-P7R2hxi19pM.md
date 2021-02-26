@@ -9,7 +9,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Can we get a Console Release for the KFConsole?
 https://www.youtube.com/watch?v=P7R2hxi19pM
-This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: KFConsole exclusive?](./yt-nK8NUTMQVTM.md) https://www.youtube.com/watch?v=nK8NUTMQVTM
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: KFConsole exclusive?](./yt-nK8NUTMQVTM.md) [https://www.youtube.com/watch?v=nK8NUTMQVTM](https://www.youtube.com/watch?v=nK8NUTMQVTM)
 
 
 ### Topics

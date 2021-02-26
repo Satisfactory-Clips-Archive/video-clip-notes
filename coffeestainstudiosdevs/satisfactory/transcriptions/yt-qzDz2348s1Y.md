@@ -8,12 +8,12 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are there plans to have an item filter device for Conveyor Belts?
 https://www.youtube.com/watch?v=qzDz2348s1Y
-This question was possibly replaced with a more recent answer: [January 19th, 2021 Livestream Q&A: Are you going to add more functionality to the Programmable Splitters?](./yt-PGyc_YN4DaM.md) https://www.youtube.com/watch?v=PGyc_YN4DaM
+This question was possibly replaced with a more recent answer: [January 19th, 2021 Livestream Q&A: Are you going to add more functionality to the Programmable Splitters?](./yt-PGyc_YN4DaM.md) [https://www.youtube.com/watch?v=PGyc_YN4DaM](https://www.youtube.com/watch?v=PGyc_YN4DaM)
 
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as March 2019.</summary>
 
-* [March 9th, 2019 Livestream Q&A: Are there plans to have Conveyor filters?](./yt-AtqljG_K7xA.md) https://www.youtube.com/watch?v=AtqljG_K7xA
+* [March 9th, 2019 Livestream Q&A: Are there plans to have Conveyor filters?](./yt-AtqljG_K7xA.md) [https://www.youtube.com/watch?v=AtqljG_K7xA](https://www.youtube.com/watch?v=AtqljG_K7xA)
 </details>
 
 

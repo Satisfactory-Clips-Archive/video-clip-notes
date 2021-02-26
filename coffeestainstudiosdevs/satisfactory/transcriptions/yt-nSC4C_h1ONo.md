@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Any thought to allow Splitters to regulate the flow of items per minute?
 https://www.youtube.com/watch?v=nSC4C_h1ONo
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Are you going to add more functionality to the Programmable Splitters?](./yt-PGyc_YN4DaM.md) https://www.youtube.com/watch?v=PGyc_YN4DaM
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Are you going to add more functionality to the Programmable Splitters?](./yt-PGyc_YN4DaM.md) [https://www.youtube.com/watch?v=PGyc_YN4DaM](https://www.youtube.com/watch?v=PGyc_YN4DaM)
 
 
 ### Topics

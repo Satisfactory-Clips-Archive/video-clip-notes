@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=OZTQGd4ZZ_E
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as May 2020.</summary>
 
-* [May 19th, 2020 Livestream Q&A: Any comments on Josh from Let's Game It Out?](./yt-vnHJtX7yEAw.md) https://www.youtube.com/watch?v=vnHJtX7yEAw
+* [May 19th, 2020 Livestream Q&A: Any comments on Josh from Let's Game It Out?](./yt-vnHJtX7yEAw.md) [https://www.youtube.com/watch?v=vnHJtX7yEAw](https://www.youtube.com/watch?v=vnHJtX7yEAw)
 </details>
 
 

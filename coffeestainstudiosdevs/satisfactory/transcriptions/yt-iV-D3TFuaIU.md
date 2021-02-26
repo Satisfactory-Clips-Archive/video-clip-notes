@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=iV-D3TFuaIU
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as June 2020.</summary>
 
-* [June 8th, 2020 Livestream Q&A: Are there any Dutch people in Coffee Stain?](./yt-ZhrRG351PsI.md) https://www.youtube.com/watch?v=ZhrRG351PsI
+* [June 8th, 2020 Livestream Q&A: Are there any Dutch people in Coffee Stain?](./yt-ZhrRG351PsI.md) [https://www.youtube.com/watch?v=ZhrRG351PsI](https://www.youtube.com/watch?v=ZhrRG351PsI)
 </details>
 
 

@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will the Pipeline Junction be stackable?
 https://www.youtube.com/watch?v=qzAbkRHSojU
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?](./yt-SJI1puC2mEw.md) https://www.youtube.com/watch?v=SJI1puC2mEw
+This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?](./yt-SJI1puC2mEw.md) [https://www.youtube.com/watch?v=SJI1puC2mEw](https://www.youtube.com/watch?v=SJI1puC2mEw)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: When do the Work In Progress items get a purpose?
 https://www.youtube.com/watch?v=koMqOABA6x8
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: When will all the collectables like Mercer Spheres be implemented?](./yt-1_qy-PSFKO8.md) https://www.youtube.com/watch?v=1_qy-PSFKO8
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: When will all the collectables like Mercer Spheres be implemented?](./yt-1_qy-PSFKO8.md) [https://www.youtube.com/watch?v=1_qy-PSFKO8](https://www.youtube.com/watch?v=1_qy-PSFKO8)
 
 
 ### Topics

@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=OoXaGUS3umo
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
 
-* [January 19th, 2021 Livestream Q&A: Will you ever add explosions on the Resource Wells when you Pressurize them?](./yt-3A5iYkto5W0.md) https://www.youtube.com/watch?v=3A5iYkto5W0
+* [January 19th, 2021 Livestream Q&A: Will you ever add explosions on the Resource Wells when you Pressurize them?](./yt-3A5iYkto5W0.md) [https://www.youtube.com/watch?v=3A5iYkto5W0](https://www.youtube.com/watch?v=3A5iYkto5W0)
 </details>
 
 

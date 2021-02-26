@@ -9,7 +9,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Does the Story come in 2021?
 https://www.youtube.com/watch?v=WAnckbn-EJ8
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Is the game going to have a big Story?](./yt-S-o-0uuZUDo.md) https://www.youtube.com/watch?v=S-o-0uuZUDo
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Is the game going to have a big Story?](./yt-S-o-0uuZUDo.md) [https://www.youtube.com/watch?v=S-o-0uuZUDo](https://www.youtube.com/watch?v=S-o-0uuZUDo)
 
 
 ### Topics

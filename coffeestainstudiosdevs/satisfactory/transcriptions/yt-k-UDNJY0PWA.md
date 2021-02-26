@@ -14,12 +14,12 @@ https://www.youtube.com/watch?v=k-UDNJY0PWA
 <details>
 <summary>This question may have been asked previously at least 6 other times, as recently as February 2021 and as early as September 2020.</summary>
 
-* [February 2nd, 2021 Livestream Q&A: Will we be getting more Walls and other building stuff in vanilla?](./yt-Y9m96T9a5qU.md) https://www.youtube.com/watch?v=Y9m96T9a5qU
-* [December 15th, 2020 Livestream Q&A: Can you imagine bringing something decoration foundations to factories?](./yt-wuimxgd7c_A.md) https://www.youtube.com/watch?v=wuimxgd7c_A
-* [December 15th, 2020 Livestream Q&A: We need more foundation types- triangle foundations, smaller foundations?](./yt-V8sGth96I5w.md) https://www.youtube.com/watch?v=V8sGth96I5w
-* [November 3rd, 2020 Livestream Q&A: Could you add more Build pieces every week?](./yt-p0CdgjDIsEs.md) https://www.youtube.com/watch?v=p0CdgjDIsEs
-* [September 29th, 2020 Livestream Q&A: Any chance of larger Foundations?](./yt-I5HR5ocUX9o.md) https://www.youtube.com/watch?v=I5HR5ocUX9o
-* [September 1st, 2020 Livestream Q&A: Any plans for bigger foundations?](./yt-uUFy6qyZLKo.md) https://www.youtube.com/watch?v=uUFy6qyZLKo
+* [February 2nd, 2021 Livestream Q&A: Will we be getting more Walls and other building stuff in vanilla?](./yt-Y9m96T9a5qU.md) [https://www.youtube.com/watch?v=Y9m96T9a5qU](https://www.youtube.com/watch?v=Y9m96T9a5qU)
+* [December 15th, 2020 Livestream Q&A: Can you imagine bringing something decoration foundations to factories?](./yt-wuimxgd7c_A.md) [https://www.youtube.com/watch?v=wuimxgd7c_A](https://www.youtube.com/watch?v=wuimxgd7c_A)
+* [December 15th, 2020 Livestream Q&A: We need more foundation types- triangle foundations, smaller foundations?](./yt-V8sGth96I5w.md) [https://www.youtube.com/watch?v=V8sGth96I5w](https://www.youtube.com/watch?v=V8sGth96I5w)
+* [November 3rd, 2020 Livestream Q&A: Could you add more Build pieces every week?](./yt-p0CdgjDIsEs.md) [https://www.youtube.com/watch?v=p0CdgjDIsEs](https://www.youtube.com/watch?v=p0CdgjDIsEs)
+* [September 29th, 2020 Livestream Q&A: Any chance of larger Foundations?](./yt-I5HR5ocUX9o.md) [https://www.youtube.com/watch?v=I5HR5ocUX9o](https://www.youtube.com/watch?v=I5HR5ocUX9o)
+* [September 1st, 2020 Livestream Q&A: Any plans for bigger foundations?](./yt-uUFy6qyZLKo.md) [https://www.youtube.com/watch?v=uUFy6qyZLKo](https://www.youtube.com/watch?v=uUFy6qyZLKo)
 </details>
 
 

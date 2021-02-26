@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Why can't you deselect items when you've selected them?
 https://www.youtube.com/watch?v=KGLZ6f6PdRs
-This question was possibly duplicated with a more recent answer: [December 15th, 2020 Livestream Q&A: Can dismantle mode have an ignore function maybe?](./yt-0KLJ2_1P_uk.md) https://www.youtube.com/watch?v=0KLJ2_1P_uk
+This question was possibly duplicated with a more recent answer: [December 15th, 2020 Livestream Q&A: Can dismantle mode have an ignore function maybe?](./yt-0KLJ2_1P_uk.md) [https://www.youtube.com/watch?v=0KLJ2_1P_uk](https://www.youtube.com/watch?v=0KLJ2_1P_uk)
 
 
 ### Topics

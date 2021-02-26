@@ -10,7 +10,7 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Is it possible to use the add to-do list without visiting the crafting bench?
 https://www.youtube.com/watch?v=ValaMW93Q7g
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Any plans to revisit the To-Do List for Quality-of-Life pass?](./yt-nI31KeD88V8.md) https://www.youtube.com/watch?v=nI31KeD88V8
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Any plans to revisit the To-Do List for Quality-of-Life pass?](./yt-nI31KeD88V8.md) [https://www.youtube.com/watch?v=nI31KeD88V8](https://www.youtube.com/watch?v=nI31KeD88V8)
 
 
 ### Topics

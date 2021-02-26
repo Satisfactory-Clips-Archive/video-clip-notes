@@ -9,7 +9,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can you imagine bringing something decoration foundations to factories?
 https://www.youtube.com/watch?v=wuimxgd7c_A
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Any plans to improve the visual part of building in the game?](./yt-k-UDNJY0PWA.md) https://www.youtube.com/watch?v=k-UDNJY0PWA
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Any plans to improve the visual part of building in the game?](./yt-k-UDNJY0PWA.md) [https://www.youtube.com/watch?v=k-UDNJY0PWA](https://www.youtube.com/watch?v=k-UDNJY0PWA)
 
 
 ### Topics

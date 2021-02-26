@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Flushable Toilet DLC?
 https://www.youtube.com/watch?v=Z7KaqsyT7_k
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: $1 Toilet DLC?](./yt-mBpIB3ojMC8.md) https://www.youtube.com/watch?v=mBpIB3ojMC8
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: $1 Toilet DLC?](./yt-mBpIB3ojMC8.md) [https://www.youtube.com/watch?v=mBpIB3ojMC8](https://www.youtube.com/watch?v=mBpIB3ojMC8)
 
 
 ### Topics

@@ -9,7 +9,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Can we expect aircraft any time?
 https://www.youtube.com/watch?v=XMIUlTU9xcU
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./yt-kd3UMt4pESk.md) https://www.youtube.com/watch?v=kd3UMt4pESk
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)
 
 
 ### Topics

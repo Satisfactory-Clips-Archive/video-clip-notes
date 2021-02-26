@@ -9,7 +9,7 @@ topics:
 # [October 9th, 2020 Livestream](../2020-10-09.md)
 ## Q&A: Could we get Ray Tracing?
 https://www.youtube.com/watch?v=tsUgV4Irw9I
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Do you have any plans to add Ray Tracing or DLSS?](./yt-hRzZjCBoI8s.md) https://www.youtube.com/watch?v=hRzZjCBoI8s
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Do you have any plans to add Ray Tracing or DLSS?](./yt-hRzZjCBoI8s.md) [https://www.youtube.com/watch?v=hRzZjCBoI8s](https://www.youtube.com/watch?v=hRzZjCBoI8s)
 
 
 ### Topics

@@ -11,7 +11,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Should I remove all nature to improve FPS?
 https://www.youtube.com/watch?v=t-FNpaJUBcE
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](./yt-IFxnvuYEVtk.md) https://www.youtube.com/watch?v=IFxnvuYEVtk
+This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](./yt-IFxnvuYEVtk.md) [https://www.youtube.com/watch?v=IFxnvuYEVtk](https://www.youtube.com/watch?v=IFxnvuYEVtk)
 
 
 ### Topics

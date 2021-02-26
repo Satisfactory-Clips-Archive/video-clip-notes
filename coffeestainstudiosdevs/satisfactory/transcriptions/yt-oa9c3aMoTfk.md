@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: How big will Update 4 be?
 https://www.youtube.com/watch?v=oa9c3aMoTfk
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Size of the Update?](./yt-NMDDVWs3jZM.md) https://www.youtube.com/watch?v=NMDDVWs3jZM
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Size of the Update?](./yt-NMDDVWs3jZM.md) [https://www.youtube.com/watch?v=NMDDVWs3jZM](https://www.youtube.com/watch?v=NMDDVWs3jZM)
 
 
 ### Topics

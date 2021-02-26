@@ -9,7 +9,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will Oil fields be affected by the Update 4 patch?
 https://www.youtube.com/watch?v=khEicU2JVzY
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: What do Resource Wells mean for existing ways for extracting Water & Oil?](./yt-ezGse7K-fWI.md) https://www.youtube.com/watch?v=ezGse7K-fWI
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: What do Resource Wells mean for existing ways for extracting Water & Oil?](./yt-ezGse7K-fWI.md) [https://www.youtube.com/watch?v=ezGse7K-fWI](https://www.youtube.com/watch?v=ezGse7K-fWI)
 
 
 ### Topics

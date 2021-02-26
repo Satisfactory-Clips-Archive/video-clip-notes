@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Maybe it's a good idea to dynamically hand over authority a vehicle in multiplayer?
 https://www.youtube.com/watch?v=Xdrr6IazPTg
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: What about Multiplayer Vehicle de-sync?](./yt-JpSV5eDGEJw.md) https://www.youtube.com/watch?v=JpSV5eDGEJw
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: What about Multiplayer Vehicle de-sync?](./yt-JpSV5eDGEJw.md) [https://www.youtube.com/watch?v=JpSV5eDGEJw](https://www.youtube.com/watch?v=JpSV5eDGEJw)
 
 
 ### Topics

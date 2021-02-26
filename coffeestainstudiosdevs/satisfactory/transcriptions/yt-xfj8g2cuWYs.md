@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=xfj8g2cuWYs
 <details>
 <summary>This video is a continuation of a previous video</summary>
 
-* [February 11th, 2020 Livestream Snutt & Jace Talk: Semlor (Part 1)](./yt-gHxHTyslv7Q.md) https://www.youtube.com/watch?v=gHxHTyslv7Q
+* [February 11th, 2020 Livestream Snutt & Jace Talk: Semlor (Part 1)](./yt-gHxHTyslv7Q.md) [https://www.youtube.com/watch?v=gHxHTyslv7Q](https://www.youtube.com/watch?v=gHxHTyslv7Q)
 </details>
 
 

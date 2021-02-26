@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will Update 4 be disruptive enough that players will want to start from scratch?
 https://www.youtube.com/watch?v=PuTEiefcHnU
-This question was possibly replaced with a more recent answer: [February 9th, 2021 Livestream Q&A: Are you going to break save games again?](./yt-hF6yB6Wrox0.md) https://www.youtube.com/watch?v=hF6yB6Wrox0
+This question was possibly replaced with a more recent answer: [February 9th, 2021 Livestream Q&A: Are you going to break save games again?](./yt-hF6yB6Wrox0.md) [https://www.youtube.com/watch?v=hF6yB6Wrox0](https://www.youtube.com/watch?v=hF6yB6Wrox0)
 
 
 ### Topics

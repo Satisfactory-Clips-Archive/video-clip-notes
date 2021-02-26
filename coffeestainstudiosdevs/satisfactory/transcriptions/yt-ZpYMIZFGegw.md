@@ -9,7 +9,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Can we get an update on Walls?
 https://www.youtube.com/watch?v=ZpYMIZFGegw
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Walls/barriers that follow the incline of Foundation?](./yt-UK0P7CWe1V4.md) https://www.youtube.com/watch?v=UK0P7CWe1V4
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Walls/barriers that follow the incline of Foundation?](./yt-UK0P7CWe1V4.md) [https://www.youtube.com/watch?v=UK0P7CWe1V4](https://www.youtube.com/watch?v=UK0P7CWe1V4)
 
 
 ### Topics

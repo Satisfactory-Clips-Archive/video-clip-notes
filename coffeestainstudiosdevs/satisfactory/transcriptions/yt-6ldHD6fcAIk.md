@@ -8,7 +8,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: What is your influence on Deep Rock Galactic?
 https://www.youtube.com/watch?v=6ldHD6fcAIk
-This question was possibly duplicated with a more recent answer: February 2nd, 2021 Livestream Q&A: Do you have any more plans for Deep Rock Galactic? https://www.youtube.com/watch?v=qJKYIqCKEOc
+This question was possibly duplicated with a more recent answer: February 2nd, 2021 Livestream Q&A: Do you have any more plans for Deep Rock Galactic? [https://www.youtube.com/watch?v=qJKYIqCKEOc](https://www.youtube.com/watch?v=qJKYIqCKEOc)
 
 
 ### Topics

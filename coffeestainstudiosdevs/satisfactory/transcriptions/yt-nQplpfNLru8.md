@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=nQplpfNLru8
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as July 2020.</summary>
 
-* July 21st, 2020 Livestream Q&A: How about building underwater? https://clips.twitch.tv/NiceDreamyGarbageBuddhaBar
+* July 21st, 2020 Livestream Q&A: How about building underwater? [https://clips.twitch.tv/NiceDreamyGarbageBuddhaBar](https://clips.twitch.tv/NiceDreamyGarbageBuddhaBar)
 </details>
 
 

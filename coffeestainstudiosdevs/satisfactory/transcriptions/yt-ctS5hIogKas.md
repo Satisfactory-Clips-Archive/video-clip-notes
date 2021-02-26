@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Update 4?
 https://www.youtube.com/watch?v=ctS5hIogKas
-This question was possibly replaced with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is there already a date for Update 4?](./yt-Q9LfxD5Qa3M.md) https://www.youtube.com/watch?v=Q9LfxD5Qa3M
+This question was possibly replaced with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is there already a date for Update 4?](./yt-Q9LfxD5Qa3M.md) [https://www.youtube.com/watch?v=Q9LfxD5Qa3M](https://www.youtube.com/watch?v=Q9LfxD5Qa3M)
 
 
 ### Topics

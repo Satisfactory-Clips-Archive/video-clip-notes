@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=Ev8CEXznWsE
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2020.</summary>
 
-* [February 11th, 2020 Livestream Q&A: Did you crunch for Update 3?](./yt-BwJG6ZHR7Io.md) https://www.youtube.com/watch?v=BwJG6ZHR7Io
+* [February 11th, 2020 Livestream Q&A: Did you crunch for Update 3?](./yt-BwJG6ZHR7Io.md) [https://www.youtube.com/watch?v=BwJG6ZHR7Io](https://www.youtube.com/watch?v=BwJG6ZHR7Io)
 </details>
 
 

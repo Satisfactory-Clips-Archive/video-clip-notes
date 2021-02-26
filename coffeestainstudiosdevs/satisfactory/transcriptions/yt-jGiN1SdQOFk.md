@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Lizard Doggo plushie when?
 https://www.youtube.com/watch?v=jGiN1SdQOFk
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Lizard Doggo plushie?](./yt-FlOFnqAw5go.md) https://www.youtube.com/watch?v=FlOFnqAw5go
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Lizard Doggo plushie?](./yt-FlOFnqAw5go.md) [https://www.youtube.com/watch?v=FlOFnqAw5go](https://www.youtube.com/watch?v=FlOFnqAw5go)
 
 
 ### Topics

@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=ZOmxbDTRWmg
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 
-* [September 22nd, 2020 Livestream Q&A: Tier 9, 10, 11, 12?](./yt-NU1DLvv4zb0.md) https://www.youtube.com/watch?v=NU1DLvv4zb0
+* [September 22nd, 2020 Livestream Q&A: Tier 9, 10, 11, 12?](./yt-NU1DLvv4zb0.md) [https://www.youtube.com/watch?v=NU1DLvv4zb0](https://www.youtube.com/watch?v=NU1DLvv4zb0)
 </details>
 
 

@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=aByFeSq5z2U
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as October 2020.</summary>
 
-* [October 20th, 2020 Livestream Q&A: Will Dedicated Servers have Multiple Hubs?](./yt-GDuWS-cOFX8.md) https://www.youtube.com/watch?v=GDuWS-cOFX8
+* [October 20th, 2020 Livestream Q&A: Will Dedicated Servers have Multiple Hubs?](./yt-GDuWS-cOFX8.md) [https://www.youtube.com/watch?v=GDuWS-cOFX8](https://www.youtube.com/watch?v=GDuWS-cOFX8)
 </details>
 
 

@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=CfUusHOKqcY
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as October 2020.</summary>
 
-* [October 20th, 2020 Livestream Q&A: Will there be a way to auto-feed Biomass into the generators?](./yt-5eQ3I4vmbZA.md) https://www.youtube.com/watch?v=5eQ3I4vmbZA
+* [October 20th, 2020 Livestream Q&A: Will there be a way to auto-feed Biomass into the generators?](./yt-5eQ3I4vmbZA.md) [https://www.youtube.com/watch?v=5eQ3I4vmbZA](https://www.youtube.com/watch?v=5eQ3I4vmbZA)
 </details>
 
 

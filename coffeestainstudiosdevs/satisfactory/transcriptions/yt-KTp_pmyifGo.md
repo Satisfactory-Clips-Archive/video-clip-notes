@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are you guys going to make a Player Elevator?
 https://www.youtube.com/watch?v=KTp_pmyifGo
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Any plans for Elevators?](./yt-VUe1w6nSdko.md) https://www.youtube.com/watch?v=VUe1w6nSdko
+This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Any plans for Elevators?](./yt-VUe1w6nSdko.md) [https://www.youtube.com/watch?v=VUe1w6nSdko](https://www.youtube.com/watch?v=VUe1w6nSdko)
 
 
 ### Topics

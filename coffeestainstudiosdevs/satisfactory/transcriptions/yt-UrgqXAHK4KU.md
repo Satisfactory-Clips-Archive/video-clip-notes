@@ -11,10 +11,10 @@ https://www.youtube.com/watch?v=UrgqXAHK4KU
 <details>
 <summary>This question may have been asked previously at least 4 other times, as recently as November 2020 and as early as January 2020.</summary>
 
-* [November 10th, 2020 Livestream Q&A: Are there Mods that you might put into the game?](./yt-DAmVYd9vGbA.md) https://www.youtube.com/watch?v=DAmVYd9vGbA
-* [October 6th, 2020 Livestream Q&A: Will you incorporate any mods into the base game?](./yt-G1NZf7SbA00.md) https://www.youtube.com/watch?v=G1NZf7SbA00
-* August 11th, 2020 Livestream Mods vs. Features (Part 2) https://clips.twitch.tv/NimbleFurryDumplingsBudBlast
-* [January 22nd, 2020 Livestream Q&A: Are we going to be implmenting any of the ideas from Mods?](./yt-SUSCYnziYkI.md) https://www.youtube.com/watch?v=SUSCYnziYkI
+* [November 10th, 2020 Livestream Q&A: Are there Mods that you might put into the game?](./yt-DAmVYd9vGbA.md) [https://www.youtube.com/watch?v=DAmVYd9vGbA](https://www.youtube.com/watch?v=DAmVYd9vGbA)
+* [October 6th, 2020 Livestream Q&A: Will you incorporate any mods into the base game?](./yt-G1NZf7SbA00.md) [https://www.youtube.com/watch?v=G1NZf7SbA00](https://www.youtube.com/watch?v=G1NZf7SbA00)
+* August 11th, 2020 Livestream Mods vs. Features (Part 2) [https://clips.twitch.tv/NimbleFurryDumplingsBudBlast](https://clips.twitch.tv/NimbleFurryDumplingsBudBlast)
+* [January 22nd, 2020 Livestream Q&A: Are we going to be implmenting any of the ideas from Mods?](./yt-SUSCYnziYkI.md) [https://www.youtube.com/watch?v=SUSCYnziYkI](https://www.youtube.com/watch?v=SUSCYnziYkI)
 </details>
 
 

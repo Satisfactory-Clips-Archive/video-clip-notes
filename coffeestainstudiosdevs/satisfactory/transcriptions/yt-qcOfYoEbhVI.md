@@ -9,7 +9,7 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Will Gas Masks be working when you sit in vehicles?
 https://www.youtube.com/watch?v=qcOfYoEbhVI
-This question was possibly duplicated with a more recent answer: [September 8th, 2020 Livestream Q&A: Why do you take Gas damage while wearing a Gas Mask while driving a Car?](./yt-HSuHlcSl-y8.md) https://www.youtube.com/watch?v=HSuHlcSl-y8
+This question was possibly duplicated with a more recent answer: [September 8th, 2020 Livestream Q&A: Why do you take Gas damage while wearing a Gas Mask while driving a Car?](./yt-HSuHlcSl-y8.md) [https://www.youtube.com/watch?v=HSuHlcSl-y8](https://www.youtube.com/watch?v=HSuHlcSl-y8)
 
 
 ### Topics

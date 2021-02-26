@@ -9,7 +9,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Will there be more creatures?
 https://www.youtube.com/watch?v=Yzd466gO44M
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any future combat or enemy updates to come?](./yt-MS3_LOEapI4.md) https://www.youtube.com/watch?v=MS3_LOEapI4
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any future combat or enemy updates to come?](./yt-MS3_LOEapI4.md) [https://www.youtube.com/watch?v=MS3_LOEapI4](https://www.youtube.com/watch?v=MS3_LOEapI4)
 
 
 ### Topics

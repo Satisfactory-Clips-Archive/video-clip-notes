@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Are there going to be Lore teasers in the Game before launch?
 https://www.youtube.com/watch?v=ANDFv21tydY
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Is the game going to have a big Story?](./yt-S-o-0uuZUDo.md) https://www.youtube.com/watch?v=S-o-0uuZUDo
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Is the game going to have a big Story?](./yt-S-o-0uuZUDo.md) [https://www.youtube.com/watch?v=S-o-0uuZUDo](https://www.youtube.com/watch?v=S-o-0uuZUDo)
 
 
 ### Topics

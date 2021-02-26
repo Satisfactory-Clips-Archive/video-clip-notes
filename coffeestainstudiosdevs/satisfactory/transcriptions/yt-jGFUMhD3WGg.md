@@ -12,9 +12,9 @@ https://www.youtube.com/watch?v=jGFUMhD3WGg
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as October 2020 and as early as March 2019.</summary>
 
-* [October 6th, 2020 Livestream Q&A: Any plans to bring Satisfactory to Linux?](./yt-ADBTXxQnDL4.md) https://www.youtube.com/watch?v=ADBTXxQnDL4
-* [August 25th, 2020 Livestream Q&A: Plans for official Linux support?](./yt-vSFTo-1j-SA.md) https://www.youtube.com/watch?v=vSFTo-1j-SA
-* [March 9th, 2019 Livestream Q&A: Is Linux support planned in the future?](./yt-GR3xet5AyuE.md) https://www.youtube.com/watch?v=GR3xet5AyuE
+* [October 6th, 2020 Livestream Q&A: Any plans to bring Satisfactory to Linux?](./yt-ADBTXxQnDL4.md) [https://www.youtube.com/watch?v=ADBTXxQnDL4](https://www.youtube.com/watch?v=ADBTXxQnDL4)
+* [August 25th, 2020 Livestream Q&A: Plans for official Linux support?](./yt-vSFTo-1j-SA.md) [https://www.youtube.com/watch?v=vSFTo-1j-SA](https://www.youtube.com/watch?v=vSFTo-1j-SA)
+* [March 9th, 2019 Livestream Q&A: Is Linux support planned in the future?](./yt-GR3xet5AyuE.md) [https://www.youtube.com/watch?v=GR3xet5AyuE](https://www.youtube.com/watch?v=GR3xet5AyuE)
 </details>
 
 

@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=8S1NK72uyLE
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* August 18th, 2020 Livestream Q&A: Any plans to add toilet paper in the bathroom? https://clips.twitch.tv/AuspiciousPrettiestAlfalfaKAPOW
+* August 18th, 2020 Livestream Q&A: Any plans to add toilet paper in the bathroom? [https://clips.twitch.tv/AuspiciousPrettiestAlfalfaKAPOW](https://clips.twitch.tv/AuspiciousPrettiestAlfalfaKAPOW)
 </details>
 
 

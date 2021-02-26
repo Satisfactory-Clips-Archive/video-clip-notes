@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Change for Electricity when? (substations)
 https://www.youtube.com/watch?v=rhboUWEnss4
-This question was possibly replaced with a more recent answer: [February 19th, 2021 Livestream Power Storage](./yt-Tmpors_r_Vw,78.078,138.50503333333333.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139
+This question was possibly replaced with a more recent answer: [February 19th, 2021 Livestream Power Storage](./yt-Tmpors_r_Vw,78.078,138.50503333333333.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139)
 
 
 ### Topics

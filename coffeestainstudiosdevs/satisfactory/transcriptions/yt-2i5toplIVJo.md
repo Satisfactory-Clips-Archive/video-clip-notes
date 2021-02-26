@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Farm?
 https://www.youtube.com/watch?v=2i5toplIVJo
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is there a plan to let us grow food in some way?](./yt-axNVUjsuMwo.md) https://www.youtube.com/watch?v=axNVUjsuMwo
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is there a plan to let us grow food in some way?](./yt-axNVUjsuMwo.md) [https://www.youtube.com/watch?v=axNVUjsuMwo](https://www.youtube.com/watch?v=axNVUjsuMwo)
 
 
 ### Topics

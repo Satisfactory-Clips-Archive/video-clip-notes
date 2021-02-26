@@ -11,8 +11,8 @@ https://www.youtube.com/watch?v=zJ3RVfHpogY
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as December 2020 and as early as November 2020.</summary>
 
-* [December 8th, 2020 Livestream Q&A: DirectX 12 when?](./yt-BxAAQTxvy-Y.md) https://www.youtube.com/watch?v=BxAAQTxvy-Y
-* [November 17th, 2020 Livestream Q&A: DX12 more efficient?](./yt-FlEUMECDwS4.md) https://www.youtube.com/watch?v=FlEUMECDwS4
+* [December 8th, 2020 Livestream Q&A: DirectX 12 when?](./yt-BxAAQTxvy-Y.md) [https://www.youtube.com/watch?v=BxAAQTxvy-Y](https://www.youtube.com/watch?v=BxAAQTxvy-Y)
+* [November 17th, 2020 Livestream Q&A: DX12 more efficient?](./yt-FlEUMECDwS4.md) [https://www.youtube.com/watch?v=FlEUMECDwS4](https://www.youtube.com/watch?v=FlEUMECDwS4)
 </details>
 
 

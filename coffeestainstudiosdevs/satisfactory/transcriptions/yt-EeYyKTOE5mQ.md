@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=EeYyKTOE5mQ
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* August 18th, 2020 Livestream Q&A: Are we ever going to add taming mounts? https://clips.twitch.tv/BoldAgileSquidDoggo
+* August 18th, 2020 Livestream Q&A: Are we ever going to add taming mounts? [https://clips.twitch.tv/BoldAgileSquidDoggo](https://clips.twitch.tv/BoldAgileSquidDoggo)
 </details>
 
 

@@ -9,7 +9,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Can you add Floor Holes for Pipes?
 https://www.youtube.com/watch?v=VLvqacnnn5c
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Will we be able to place holes in Walls and floors freely?](./yt-RrF2Nq2-vmc.md) https://www.youtube.com/watch?v=RrF2Nq2-vmc
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Will we be able to place holes in Walls and floors freely?](./yt-RrF2Nq2-vmc.md) [https://www.youtube.com/watch?v=RrF2Nq2-vmc](https://www.youtube.com/watch?v=RrF2Nq2-vmc)
 
 
 ### Topics

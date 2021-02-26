@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is there any possibility to autodetect materials on the belts to preselect recipes per input?
 https://www.youtube.com/watch?v=KB49DxFs6tw
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Some buildings used to auto-select recipes?](./yt-iCOiamAc_ak.md) https://www.youtube.com/watch?v=iCOiamAc_ak
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Some buildings used to auto-select recipes?](./yt-iCOiamAc_ak.md) [https://www.youtube.com/watch?v=iCOiamAc_ak](https://www.youtube.com/watch?v=iCOiamAc_ak)
 
 
 ### Topics

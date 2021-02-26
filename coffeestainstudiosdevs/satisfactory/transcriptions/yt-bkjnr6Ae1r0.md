@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: How's the cup going?
 https://www.youtube.com/watch?v=bkjnr6Ae1r0
-This question was possibly replaced with a more recent answer: [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./yt-bQnAGoo8jQA.md) https://www.youtube.com/watch?v=bQnAGoo8jQA
+This question was possibly replaced with a more recent answer: [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./yt-bQnAGoo8jQA.md) [https://www.youtube.com/watch?v=bQnAGoo8jQA](https://www.youtube.com/watch?v=bQnAGoo8jQA)
 
 
 ### Topics

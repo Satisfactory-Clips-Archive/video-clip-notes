@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=oaPsSg5iwBc
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
 
-* [February 9th, 2021 Livestream Q&A: How much will Update 4 be?](./yt-otcOBJLcgic.md) https://www.youtube.com/watch?v=otcOBJLcgic
+* [February 9th, 2021 Livestream Q&A: How much will Update 4 be?](./yt-otcOBJLcgic.md) [https://www.youtube.com/watch?v=otcOBJLcgic](https://www.youtube.com/watch?v=otcOBJLcgic)
 </details>
 
 

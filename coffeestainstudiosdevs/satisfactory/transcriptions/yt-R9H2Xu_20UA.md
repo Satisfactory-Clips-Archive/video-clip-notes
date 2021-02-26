@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=R9H2Xu_20UA
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* August 18th, 2020 Livestream Q&A: Storyline before 1.0? https://clips.twitch.tv/SteamyFurtiveRadishStrawBeary
+* August 18th, 2020 Livestream Q&A: Storyline before 1.0? [https://clips.twitch.tv/SteamyFurtiveRadishStrawBeary](https://clips.twitch.tv/SteamyFurtiveRadishStrawBeary)
 </details>
 
 

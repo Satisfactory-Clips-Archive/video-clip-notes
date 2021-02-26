@@ -11,12 +11,12 @@ https://www.youtube.com/watch?v=Oq4gGKBYHQI
 <details>
 <summary>This question may have been asked previously at least 6 other times, as recently as September 2020 and as early as February 2019.</summary>
 
-* [September 15th, 2020 Livestream Q&A: Will there be a Map Editor?](./yt-MYno60AbSGk.md) https://www.youtube.com/watch?v=MYno60AbSGk
-* [September 8th, 2020 Livestream Q&A: Time to invest in Map Modding?](./yt-a5PSHoSuXec.md) https://www.youtube.com/watch?v=a5PSHoSuXec
-* [August 25th, 2020 Livestream Q&A: Plans for a Map Editor?](./yt-vvRPYyc7sb8.md) https://www.youtube.com/watch?v=vvRPYyc7sb8
-* August 18th, 2020 Livestream Q&A: Will you be able to create your own map? https://clips.twitch.tv/ChillyRockyWalrusUnSane
-* August 11th, 2020 Livestream Q&A: Do you plan to release a World Editor? https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank
-* [February 6th, 2019 Livestream Q&A: So if Mods are confirmed, how about Mods for creating Maps- will that happen?](./yt-Dtm6xIj-wM4,1334.740485,1399.146207.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1334&end=1400
+* [September 15th, 2020 Livestream Q&A: Will there be a Map Editor?](./yt-MYno60AbSGk.md) [https://www.youtube.com/watch?v=MYno60AbSGk](https://www.youtube.com/watch?v=MYno60AbSGk)
+* [September 8th, 2020 Livestream Q&A: Time to invest in Map Modding?](./yt-a5PSHoSuXec.md) [https://www.youtube.com/watch?v=a5PSHoSuXec](https://www.youtube.com/watch?v=a5PSHoSuXec)
+* [August 25th, 2020 Livestream Q&A: Plans for a Map Editor?](./yt-vvRPYyc7sb8.md) [https://www.youtube.com/watch?v=vvRPYyc7sb8](https://www.youtube.com/watch?v=vvRPYyc7sb8)
+* August 18th, 2020 Livestream Q&A: Will you be able to create your own map? [https://clips.twitch.tv/ChillyRockyWalrusUnSane](https://clips.twitch.tv/ChillyRockyWalrusUnSane)
+* August 11th, 2020 Livestream Q&A: Do you plan to release a World Editor? [https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank](https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank)
+* [February 6th, 2019 Livestream Q&A: So if Mods are confirmed, how about Mods for creating Maps- will that happen?](./yt-Dtm6xIj-wM4,1334.740485,1399.146207.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1334&end=1400](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1334&end=1400)
 </details>
 
 

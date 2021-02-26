@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=e_CXOG7_cH8
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as June 2020.</summary>
 
-* [June 8th, 2020 Livestream Q&A: What about Story Mode?](./yt-H0Q4kZ7otEk.md) https://www.youtube.com/watch?v=H0Q4kZ7otEk
+* [June 8th, 2020 Livestream Q&A: What about Story Mode?](./yt-H0Q4kZ7otEk.md) [https://www.youtube.com/watch?v=H0Q4kZ7otEk](https://www.youtube.com/watch?v=H0Q4kZ7otEk)
 </details>
 
 

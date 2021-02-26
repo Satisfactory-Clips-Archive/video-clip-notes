@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Add Train tunnels to go through mountains?
 https://www.youtube.com/watch?v=v6sWQLM4fMM
-This question was possibly duplicated with a more recent answer: [September 8th, 2020 Livestream Q&A: Any thoughts on Terraforming, specifically tunneling ?](./yt-LIi_14XOp60.md) https://www.youtube.com/watch?v=LIi_14XOp60
+This question was possibly duplicated with a more recent answer: [September 8th, 2020 Livestream Q&A: Any thoughts on Terraforming, specifically tunneling ?](./yt-LIi_14XOp60.md) [https://www.youtube.com/watch?v=LIi_14XOp60](https://www.youtube.com/watch?v=LIi_14XOp60)
 
 
 ### Topics

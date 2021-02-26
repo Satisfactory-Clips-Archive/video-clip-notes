@@ -10,7 +10,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will Update 4 be like Update 3, will it break saves?
 https://www.youtube.com/watch?v=rJVLbdJMJWk
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Are you going to break save games again?](./yt-hF6yB6Wrox0.md) https://www.youtube.com/watch?v=hF6yB6Wrox0
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Are you going to break save games again?](./yt-hF6yB6Wrox0.md) [https://www.youtube.com/watch?v=hF6yB6Wrox0](https://www.youtube.com/watch?v=hF6yB6Wrox0)
 
 
 ### Topics

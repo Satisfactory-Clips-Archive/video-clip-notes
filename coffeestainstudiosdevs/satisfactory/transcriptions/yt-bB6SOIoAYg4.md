@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Where is Lizard Doggo?
 https://www.youtube.com/watch?v=bB6SOIoAYg4
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Are there limited Lizard Doggos on the map?](./yt-v7d8Lqlq53w.md) https://www.youtube.com/watch?v=v7d8Lqlq53w
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Are there limited Lizard Doggos on the map?](./yt-v7d8Lqlq53w.md) [https://www.youtube.com/watch?v=v7d8Lqlq53w](https://www.youtube.com/watch?v=v7d8Lqlq53w)
 
 
 ### Topics

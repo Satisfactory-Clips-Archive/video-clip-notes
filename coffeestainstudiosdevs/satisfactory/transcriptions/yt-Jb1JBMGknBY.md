@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=Jb1JBMGknBY
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as December 2020.</summary>
 
-* [December 15th, 2020 Livestream Q&A: Will Radar Towers get a Mk.2 version?](./yt--2Z0rsxuisQ.md) https://www.youtube.com/watch?v=-2Z0rsxuisQ
+* [December 15th, 2020 Livestream Q&A: Will Radar Towers get a Mk.2 version?](./yt--2Z0rsxuisQ.md) [https://www.youtube.com/watch?v=-2Z0rsxuisQ](https://www.youtube.com/watch?v=-2Z0rsxuisQ)
 </details>
 
 

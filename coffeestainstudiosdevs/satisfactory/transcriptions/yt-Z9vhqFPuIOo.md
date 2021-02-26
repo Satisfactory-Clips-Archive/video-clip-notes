@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Thumbs Up & Thumbs Down emotes in game?
 https://www.youtube.com/watch?v=Z9vhqFPuIOo
-This question was possibly duplicated with a more recent answer: February 9th, 2021 Livestream Q&A: Will there be more emotes? https://www.youtube.com/watch?v=dBNJrDsc_XU
+This question was possibly duplicated with a more recent answer: February 9th, 2021 Livestream Q&A: Will there be more emotes? [https://www.youtube.com/watch?v=dBNJrDsc_XU](https://www.youtube.com/watch?v=dBNJrDsc_XU)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Tier 9, 10, 11, 12?
 https://www.youtube.com/watch?v=NU1DLvv4zb0
-This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: Do you guys know what is going to be the last Tier in the game?](./yt-ZOmxbDTRWmg.md) https://www.youtube.com/watch?v=ZOmxbDTRWmg
+This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: Do you guys know what is going to be the last Tier in the game?](./yt-ZOmxbDTRWmg.md) [https://www.youtube.com/watch?v=ZOmxbDTRWmg](https://www.youtube.com/watch?v=ZOmxbDTRWmg)
 
 
 ### Topics

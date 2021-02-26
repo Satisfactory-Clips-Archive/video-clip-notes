@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=sDqoInm05LM
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2020.</summary>
 
-* [February 11th, 2020 Livestream Q&A: Is Jace not Swedish?](./yt-QHqLDc6L46g.md) https://www.youtube.com/watch?v=QHqLDc6L46g
+* [February 11th, 2020 Livestream Q&A: Is Jace not Swedish?](./yt-QHqLDc6L46g.md) [https://www.youtube.com/watch?v=QHqLDc6L46g](https://www.youtube.com/watch?v=QHqLDc6L46g)
 </details>
 
 

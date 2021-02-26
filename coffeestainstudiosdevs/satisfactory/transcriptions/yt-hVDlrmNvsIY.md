@@ -9,7 +9,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Control Console with a simple representation of the Remote Plants?
 https://www.youtube.com/watch?v=hVDlrmNvsIY
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Will there be ways to see your total production per minute?](./yt-tHzH3dkTZ4s.md) https://www.youtube.com/watch?v=tHzH3dkTZ4s
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Will there be ways to see your total production per minute?](./yt-tHzH3dkTZ4s.md) [https://www.youtube.com/watch?v=tHzH3dkTZ4s](https://www.youtube.com/watch?v=tHzH3dkTZ4s)
 
 
 ### Topics

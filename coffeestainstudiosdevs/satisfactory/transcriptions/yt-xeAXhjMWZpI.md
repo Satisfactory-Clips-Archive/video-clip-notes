@@ -9,7 +9,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Is it going to be possible to create randomly generated Resources on the Map?
 https://www.youtube.com/watch?v=xeAXhjMWZpI
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Randomising nodes?](./yt-eTALbWgKmuE.md) https://www.youtube.com/watch?v=eTALbWgKmuE
+This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Randomising nodes?](./yt-eTALbWgKmuE.md) [https://www.youtube.com/watch?v=eTALbWgKmuE](https://www.youtube.com/watch?v=eTALbWgKmuE)
 
 
 ### Topics

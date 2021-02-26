@@ -8,13 +8,13 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Are there changes planned for Geothermal?
 https://www.youtube.com/watch?v=XCMncMB0z50
-This question was possibly replaced with a more recent answer: [February 19th, 2021 Livestream Geothermal Generators](./yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198
+This question was possibly replaced with a more recent answer: [February 19th, 2021 Livestream Geothermal Generators](./yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198)
 
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as September 2020.</summary>
 
-* [January 19th, 2021 Livestream Q&A: Will you change Geothermal Generators?](./yt-MmCfcNv8F8o.md) https://www.youtube.com/watch?v=MmCfcNv8F8o
-* [September 1st, 2020 Livestream Q&A: Would geothermal generators get a buff or rework of sorts?](./yt-T7BPQ1ZHeJA.md) https://www.youtube.com/watch?v=T7BPQ1ZHeJA
+* [January 19th, 2021 Livestream Q&A: Will you change Geothermal Generators?](./yt-MmCfcNv8F8o.md) [https://www.youtube.com/watch?v=MmCfcNv8F8o](https://www.youtube.com/watch?v=MmCfcNv8F8o)
+* [September 1st, 2020 Livestream Q&A: Would geothermal generators get a buff or rework of sorts?](./yt-T7BPQ1ZHeJA.md) [https://www.youtube.com/watch?v=T7BPQ1ZHeJA](https://www.youtube.com/watch?v=T7BPQ1ZHeJA)
 </details>
 
 

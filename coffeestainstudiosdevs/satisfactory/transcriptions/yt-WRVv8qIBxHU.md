@@ -9,7 +9,7 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: What about the building the game Modular?
 https://www.youtube.com/watch?v=WRVv8qIBxHU
-This question was possibly replaced with a more recent answer: [January 26th, 2021 Livestream Q&A: What about modular build?](./yt-uL_cajdKTcg.md) https://www.youtube.com/watch?v=uL_cajdKTcg
+This question was possibly replaced with a more recent answer: [January 26th, 2021 Livestream Q&A: What about modular build?](./yt-uL_cajdKTcg.md) [https://www.youtube.com/watch?v=uL_cajdKTcg](https://www.youtube.com/watch?v=uL_cajdKTcg)
 
 
 ### Topics

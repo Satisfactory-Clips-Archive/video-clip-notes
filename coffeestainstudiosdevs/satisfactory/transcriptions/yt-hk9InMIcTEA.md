@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: What things are currently in Update 4?
 https://www.youtube.com/watch?v=hk9InMIcTEA
-This question was possibly replaced with a more recent answer: [January 15th, 2021 Livestream Intro](./yt-Jxh8kvtUuxY,,46.3463.md) https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47
+This question was possibly replaced with a more recent answer: [January 15th, 2021 Livestream Intro](./yt-Jxh8kvtUuxY,,46.3463.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47)
 
 
 ### Topics

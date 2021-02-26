@@ -10,7 +10,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Can you give us a teaser for what the Story will be, or is there a YouTube video?
 https://www.youtube.com/watch?v=SLOMxmF6MKc
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Is the game going to have a big Story?](./yt-S-o-0uuZUDo.md) https://www.youtube.com/watch?v=S-o-0uuZUDo
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Is the game going to have a big Story?](./yt-S-o-0uuZUDo.md) [https://www.youtube.com/watch?v=S-o-0uuZUDo](https://www.youtube.com/watch?v=S-o-0uuZUDo)
 
 
 ### Topics

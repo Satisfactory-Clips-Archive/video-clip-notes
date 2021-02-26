@@ -9,7 +9,7 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Will we be getting more Walls and other building stuff in vanilla?
 https://www.youtube.com/watch?v=Y9m96T9a5qU
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Any plans to improve the visual part of building in the game?](./yt-k-UDNJY0PWA.md) https://www.youtube.com/watch?v=k-UDNJY0PWA
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Any plans to improve the visual part of building in the game?](./yt-k-UDNJY0PWA.md) [https://www.youtube.com/watch?v=k-UDNJY0PWA](https://www.youtube.com/watch?v=k-UDNJY0PWA)
 
 
 ### Topics

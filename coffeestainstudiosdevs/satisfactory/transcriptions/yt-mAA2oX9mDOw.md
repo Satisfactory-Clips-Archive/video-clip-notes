@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ?
 https://www.youtube.com/watch?v=mAA2oX9mDOw
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./yt-kd3UMt4pESk.md) https://www.youtube.com/watch?v=kd3UMt4pESk
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)
 
 
 ### Topics

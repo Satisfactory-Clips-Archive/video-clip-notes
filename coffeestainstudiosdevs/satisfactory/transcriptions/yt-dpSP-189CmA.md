@@ -8,7 +8,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Music?
 https://www.youtube.com/watch?v=dpSP-189CmA
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any more music tracks coming?](./yt-bzqL0DGULFM.md) https://www.youtube.com/watch?v=bzqL0DGULFM
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any more music tracks coming?](./yt-bzqL0DGULFM.md) [https://www.youtube.com/watch?v=bzqL0DGULFM](https://www.youtube.com/watch?v=bzqL0DGULFM)
 
 
 ### Topics

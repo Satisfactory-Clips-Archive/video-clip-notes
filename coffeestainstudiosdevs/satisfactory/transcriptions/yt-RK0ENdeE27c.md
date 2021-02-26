@@ -10,7 +10,7 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: I think it's better to stack the inputs & outputs
 https://www.youtube.com/watch?v=RK0ENdeE27c
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Can we get a Packager with outputs not stacked?](./yt-Cmhx-wt1pBg.md) https://www.youtube.com/watch?v=Cmhx-wt1pBg
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Can we get a Packager with outputs not stacked?](./yt-Cmhx-wt1pBg.md) [https://www.youtube.com/watch?v=Cmhx-wt1pBg](https://www.youtube.com/watch?v=Cmhx-wt1pBg)
 
 
 ### Topics

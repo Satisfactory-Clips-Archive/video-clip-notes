@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=JCBQj8Ern20
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as August 2020.</summary>
 
-* [September 15th, 2020 Livestream Q&A: Any improvement for the Trucks so they can transport Fluids?](./yt-lNpwyJr7lZc.md) https://www.youtube.com/watch?v=lNpwyJr7lZc
-* [August 25th, 2020 Livestream Q&A: Tanker Trucks?](./yt-IPmVdCgi2_A.md) https://www.youtube.com/watch?v=IPmVdCgi2_A
+* [September 15th, 2020 Livestream Q&A: Any improvement for the Trucks so they can transport Fluids?](./yt-lNpwyJr7lZc.md) [https://www.youtube.com/watch?v=lNpwyJr7lZc](https://www.youtube.com/watch?v=lNpwyJr7lZc)
+* [August 25th, 2020 Livestream Q&A: Tanker Trucks?](./yt-IPmVdCgi2_A.md) [https://www.youtube.com/watch?v=IPmVdCgi2_A](https://www.youtube.com/watch?v=IPmVdCgi2_A)
 </details>
 
 

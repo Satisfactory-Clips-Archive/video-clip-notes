@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=bjXv7xwwIIA
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* [August 25th, 2020 Livestream Q&A: More pollution as you progress?](./yt-dTd-M1qGkfU.md) https://www.youtube.com/watch?v=dTd-M1qGkfU
+* [August 25th, 2020 Livestream Q&A: More pollution as you progress?](./yt-dTd-M1qGkfU.md) [https://www.youtube.com/watch?v=dTd-M1qGkfU](https://www.youtube.com/watch?v=dTd-M1qGkfU)
 </details>
 
 

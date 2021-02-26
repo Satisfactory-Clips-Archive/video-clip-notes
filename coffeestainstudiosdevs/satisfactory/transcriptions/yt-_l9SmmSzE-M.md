@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=_l9SmmSzE-M
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* August 11th, 2020 Livestream Q&A: remote-control Factory Cart https://clips.twitch.tv/MoistSmellyReubenDoubleRainbow
+* August 11th, 2020 Livestream Q&A: remote-control Factory Cart [https://clips.twitch.tv/MoistSmellyReubenDoubleRainbow](https://clips.twitch.tv/MoistSmellyReubenDoubleRainbow)
 </details>
 
 

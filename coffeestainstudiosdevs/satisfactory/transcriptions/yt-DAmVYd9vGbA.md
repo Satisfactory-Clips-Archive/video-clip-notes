@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Are there Mods that you might put into the game?
 https://www.youtube.com/watch?v=DAmVYd9vGbA
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: You devs ever seen a Mod and been like "Oh, we need to put that in the game" ?](./yt-UrgqXAHK4KU.md) https://www.youtube.com/watch?v=UrgqXAHK4KU
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: You devs ever seen a Mod and been like "Oh, we need to put that in the game" ?](./yt-UrgqXAHK4KU.md) [https://www.youtube.com/watch?v=UrgqXAHK4KU](https://www.youtube.com/watch?v=UrgqXAHK4KU)
 
 
 ### Topics

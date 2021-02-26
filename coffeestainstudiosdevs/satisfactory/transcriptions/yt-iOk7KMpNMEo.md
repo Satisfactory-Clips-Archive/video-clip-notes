@@ -10,7 +10,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Plans for mod support?
 https://www.youtube.com/watch?v=iOk7KMpNMEo
-This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: Any hints you can give on the level of mod support you'll provide eventually?](./yt-o7FFLZpEf_Y.md) https://www.youtube.com/watch?v=o7FFLZpEf_Y
+This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: Any hints you can give on the level of mod support you'll provide eventually?](./yt-o7FFLZpEf_Y.md) [https://www.youtube.com/watch?v=o7FFLZpEf_Y](https://www.youtube.com/watch?v=o7FFLZpEf_Y)
 
 
 ### Topics

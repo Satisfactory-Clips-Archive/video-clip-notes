@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=u9Vu9NIjiRs
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as March 2019.</summary>
 
-* [March 9th, 2019 Livestream Q&A: Is the Early Access version the same version Alpha Testers have?](./yt-bnUTeUn6TA4.md) https://www.youtube.com/watch?v=bnUTeUn6TA4
+* [March 9th, 2019 Livestream Q&A: Is the Early Access version the same version Alpha Testers have?](./yt-bnUTeUn6TA4.md) [https://www.youtube.com/watch?v=bnUTeUn6TA4](https://www.youtube.com/watch?v=bnUTeUn6TA4)
 </details>
 
 

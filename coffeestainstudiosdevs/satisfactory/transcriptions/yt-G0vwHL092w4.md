@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=G0vwHL092w4
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 
-* [September 8th, 2020 Livestream Q&A: Pollution is a thing?](./yt-EI4HJKvO-OU.md) https://www.youtube.com/watch?v=EI4HJKvO-OU
+* [September 8th, 2020 Livestream Q&A: Pollution is a thing?](./yt-EI4HJKvO-OU.md) [https://www.youtube.com/watch?v=EI4HJKvO-OU](https://www.youtube.com/watch?v=EI4HJKvO-OU)
 </details>
 
 

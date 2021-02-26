@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Water Extractors need to snap to grid
 https://www.youtube.com/watch?v=sAHdYX0iwIg
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Will we ever be able to snap Water Extrators to each other?](./yt-8efo7J40QAQ.md) https://www.youtube.com/watch?v=8efo7J40QAQ
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Will we ever be able to snap Water Extrators to each other?](./yt-8efo7J40QAQ.md) [https://www.youtube.com/watch?v=8efo7J40QAQ](https://www.youtube.com/watch?v=8efo7J40QAQ)
 
 
 ### Topics

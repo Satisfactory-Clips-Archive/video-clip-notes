@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Any word on farming Pale Berries / Nuts / Bacon?
 https://www.youtube.com/watch?v=L1Ur5X7gVH8
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is there a plan to let us grow food in some way?](./yt-axNVUjsuMwo.md) https://www.youtube.com/watch?v=axNVUjsuMwo
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is there a plan to let us grow food in some way?](./yt-axNVUjsuMwo.md) [https://www.youtube.com/watch?v=axNVUjsuMwo](https://www.youtube.com/watch?v=axNVUjsuMwo)
 
 
 ### Topics

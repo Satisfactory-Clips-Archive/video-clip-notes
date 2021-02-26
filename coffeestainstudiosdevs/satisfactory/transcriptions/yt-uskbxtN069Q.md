@@ -13,10 +13,10 @@ https://www.youtube.com/watch?v=uskbxtN069Q
 <details>
 <summary>This question may have been asked previously at least 4 other times, as recently as January 2021 and as early as August 2020.</summary>
 
-* [January 26th, 2021 Livestream Q&A: Ability to sleep coming any time?](./yt-kDwywg_UJoc.md) https://www.youtube.com/watch?v=kDwywg_UJoc
-* [October 6th, 2020 Livestream Q&A: When is the Hub bed going to work like the Minecraft one?](./yt-9o02HnPy5cY.md) https://www.youtube.com/watch?v=9o02HnPy5cY
-* August 11th, 2020 Livestream Q&A: Sleep in-game? (Part 1) https://clips.twitch.tv/DaintyYummyLemurANELE
-* August 11th, 2020 Livestream Q&A: Sleep in-game? (Part 2) https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime
+* [January 26th, 2021 Livestream Q&A: Ability to sleep coming any time?](./yt-kDwywg_UJoc.md) [https://www.youtube.com/watch?v=kDwywg_UJoc](https://www.youtube.com/watch?v=kDwywg_UJoc)
+* [October 6th, 2020 Livestream Q&A: When is the Hub bed going to work like the Minecraft one?](./yt-9o02HnPy5cY.md) [https://www.youtube.com/watch?v=9o02HnPy5cY](https://www.youtube.com/watch?v=9o02HnPy5cY)
+* August 11th, 2020 Livestream Q&A: Sleep in-game? (Part 1) [https://clips.twitch.tv/DaintyYummyLemurANELE](https://clips.twitch.tv/DaintyYummyLemurANELE)
+* August 11th, 2020 Livestream Q&A: Sleep in-game? (Part 2) [https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime](https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime)
 </details>
 
 

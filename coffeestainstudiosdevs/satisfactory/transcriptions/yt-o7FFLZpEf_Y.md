@@ -11,13 +11,13 @@ https://www.youtube.com/watch?v=o7FFLZpEf_Y
 <details>
 <summary>This question may have been asked previously at least 7 other times, as recently as November 2020 and as early as June 2018.</summary>
 
-* [November 17th, 2020 Livestream Q&A: Is there any Official Mod Support planned?](./yt-z4Uv-UNMETw.md) https://www.youtube.com/watch?v=z4Uv-UNMETw
-* [November 3rd, 2020 Livestream Q&A: Any idea about Official Modding?](./yt-D5-Y6LYR7jk.md) https://www.youtube.com/watch?v=D5-Y6LYR7jk
-* [October 13th, 2020 Livestream Q&A: Are there any plans for integrated mod support?](./yt-25ssduoFoiA.md) https://www.youtube.com/watch?v=25ssduoFoiA
-* [August 25th, 2020 Livestream Q&A: Plans for mod support?](./yt-iOk7KMpNMEo.md) https://www.youtube.com/watch?v=iOk7KMpNMEo
-* [February 11th, 2020 Livestream Q&A: Where's Mod support?](./yt-JRyAZT7y44g.md) https://www.youtube.com/watch?v=JRyAZT7y44g
-* [March 9th, 2019 Livestream Q&A: What do you think about future Mod support?](./yt-6-uSzpX-zZ0.md) https://www.youtube.com/watch?v=6-uSzpX-zZ0
-* [June 22nd, 2018 Livestream Q&A: Will there be mods?](./yt-W1E6EWrAsII,91.24,120.52.md) https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121
+* [November 17th, 2020 Livestream Q&A: Is there any Official Mod Support planned?](./yt-z4Uv-UNMETw.md) [https://www.youtube.com/watch?v=z4Uv-UNMETw](https://www.youtube.com/watch?v=z4Uv-UNMETw)
+* [November 3rd, 2020 Livestream Q&A: Any idea about Official Modding?](./yt-D5-Y6LYR7jk.md) [https://www.youtube.com/watch?v=D5-Y6LYR7jk](https://www.youtube.com/watch?v=D5-Y6LYR7jk)
+* [October 13th, 2020 Livestream Q&A: Are there any plans for integrated mod support?](./yt-25ssduoFoiA.md) [https://www.youtube.com/watch?v=25ssduoFoiA](https://www.youtube.com/watch?v=25ssduoFoiA)
+* [August 25th, 2020 Livestream Q&A: Plans for mod support?](./yt-iOk7KMpNMEo.md) [https://www.youtube.com/watch?v=iOk7KMpNMEo](https://www.youtube.com/watch?v=iOk7KMpNMEo)
+* [February 11th, 2020 Livestream Q&A: Where's Mod support?](./yt-JRyAZT7y44g.md) [https://www.youtube.com/watch?v=JRyAZT7y44g](https://www.youtube.com/watch?v=JRyAZT7y44g)
+* [March 9th, 2019 Livestream Q&A: What do you think about future Mod support?](./yt-6-uSzpX-zZ0.md) [https://www.youtube.com/watch?v=6-uSzpX-zZ0](https://www.youtube.com/watch?v=6-uSzpX-zZ0)
+* [June 22nd, 2018 Livestream Q&A: Will there be mods?](./yt-W1E6EWrAsII,91.24,120.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121)
 </details>
 
 

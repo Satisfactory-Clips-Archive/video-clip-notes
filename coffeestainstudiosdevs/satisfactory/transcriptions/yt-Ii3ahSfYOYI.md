@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: More emotes?
 https://www.youtube.com/watch?v=Ii3ahSfYOYI
-This question was possibly duplicated with a more recent answer: February 9th, 2021 Livestream Q&A: Will there be more emotes? https://www.youtube.com/watch?v=dBNJrDsc_XU
+This question was possibly duplicated with a more recent answer: February 9th, 2021 Livestream Q&A: Will there be more emotes? [https://www.youtube.com/watch?v=dBNJrDsc_XU](https://www.youtube.com/watch?v=dBNJrDsc_XU)
 
 
 ### Topics

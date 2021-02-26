@@ -10,7 +10,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Would implementing covered belts reduce the number of objects in the world?
 https://www.youtube.com/watch?v=2R4MfLt_oMw
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Does obscuring belts actually help with performance?](./yt-JDJ5hvAkrWw.md) https://www.youtube.com/watch?v=JDJ5hvAkrWw
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Does obscuring belts actually help with performance?](./yt-JDJ5hvAkrWw.md) [https://www.youtube.com/watch?v=JDJ5hvAkrWw](https://www.youtube.com/watch?v=JDJ5hvAkrWw)
 
 
 ### Topics

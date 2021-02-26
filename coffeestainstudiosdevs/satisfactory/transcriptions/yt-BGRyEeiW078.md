@@ -8,7 +8,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: I'd love your Coffee?
 https://www.youtube.com/watch?v=BGRyEeiW078
-This question was possibly duplicated with a more recent answer: August 11th, 2020 Livestream Q&A: gravity-defying FICSIT-branded coffee https://clips.twitch.tv/TalentedIntelligentGazelleFunRun
+This question was possibly duplicated with a more recent answer: August 11th, 2020 Livestream Q&A: gravity-defying FICSIT-branded coffee [https://clips.twitch.tv/TalentedIntelligentGazelleFunRun](https://clips.twitch.tv/TalentedIntelligentGazelleFunRun)
 
 
 ### Topics

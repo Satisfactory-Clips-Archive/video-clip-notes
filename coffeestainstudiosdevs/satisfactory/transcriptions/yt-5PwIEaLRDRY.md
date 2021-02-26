@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: When do Signs come?
 https://www.youtube.com/watch?v=5PwIEaLRDRY
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Will there be signs in future updates?](./yt--t832FeMogU.md) https://www.youtube.com/watch?v=-t832FeMogU
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Will there be signs in future updates?](./yt--t832FeMogU.md) [https://www.youtube.com/watch?v=-t832FeMogU](https://www.youtube.com/watch?v=-t832FeMogU)
 
 
 ### Topics

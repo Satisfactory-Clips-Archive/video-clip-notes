@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are you planning on porting the game to PS4?
 https://www.youtube.com/watch?v=0Zv9Qjp2fHI
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for bringing the game to Nintendo Switch?](./yt-rfeMtSPOadY.md) https://www.youtube.com/watch?v=rfeMtSPOadY
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for bringing the game to Nintendo Switch?](./yt-rfeMtSPOadY.md) [https://www.youtube.com/watch?v=rfeMtSPOadY](https://www.youtube.com/watch?v=rfeMtSPOadY)
 
 
 ### Topics

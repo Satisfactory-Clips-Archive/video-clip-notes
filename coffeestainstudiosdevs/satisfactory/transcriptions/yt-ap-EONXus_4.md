@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Is it possible to have the Autosave not noticeable at all ?
 https://www.youtube.com/watch?v=ap-EONXus_4
-This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Is there a way we can make Autosave more seamless?](./yt-UFWTP8Nu-MI.md) https://www.youtube.com/watch?v=UFWTP8Nu-MI
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Is there a way we can make Autosave more seamless?](./yt-UFWTP8Nu-MI.md) [https://www.youtube.com/watch?v=UFWTP8Nu-MI](https://www.youtube.com/watch?v=UFWTP8Nu-MI)
 
 
 ### Topics

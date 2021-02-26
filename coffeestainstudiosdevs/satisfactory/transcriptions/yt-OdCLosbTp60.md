@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Train Collision
 https://www.youtube.com/watch?v=OdCLosbTp60
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any news on Train revamp?](./yt-_kBUD_mMahs.md) https://www.youtube.com/watch?v=_kBUD_mMahs
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any news on Train revamp?](./yt-_kBUD_mMahs.md) [https://www.youtube.com/watch?v=_kBUD_mMahs](https://www.youtube.com/watch?v=_kBUD_mMahs)
 
 
 ### Topics

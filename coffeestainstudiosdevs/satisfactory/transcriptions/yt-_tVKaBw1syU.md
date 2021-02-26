@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: What is the current state of the "click & drag" creation debate?
 https://www.youtube.com/watch?v=_tVKaBw1syU
-This question was possibly duplicated with a more recent answer: [November 24th, 2020 Livestream Q&A: Click & Drag functionality for building?](./yt-vaYxvmOkUQY.md) https://www.youtube.com/watch?v=vaYxvmOkUQY
+This question was possibly duplicated with a more recent answer: [November 24th, 2020 Livestream Q&A: Click & Drag functionality for building?](./yt-vaYxvmOkUQY.md) [https://www.youtube.com/watch?v=vaYxvmOkUQY](https://www.youtube.com/watch?v=vaYxvmOkUQY)
 
 
 ### Topics

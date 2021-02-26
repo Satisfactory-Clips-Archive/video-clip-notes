@@ -12,10 +12,10 @@ https://www.youtube.com/watch?v=YMWU_qSRI1E
 <details>
 <summary>This question may have been asked previously at least 4 other times, as recently as November 2020 and as early as August 2020.</summary>
 
-* [November 17th, 2020 Livestream Q&A: Are you going to fix the Trains so it doesn't break in multiplayer for other people?](./yt-Kg29HlSMQjI.md) https://www.youtube.com/watch?v=Kg29HlSMQjI
-* [October 20th, 2020 Livestream Q&A: The Trains lag a lot on Multiplayer?](./yt-AxQoNckHBhI.md) https://www.youtube.com/watch?v=AxQoNckHBhI
-* [September 1st, 2020 Livestream Q&A: Will you guys fix the connection loss with long loading with friends?](./yt-qOV_ydeQ07E.md) https://www.youtube.com/watch?v=qOV_ydeQ07E
-* [August 25th, 2020 Livestream Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug?](./yt-btJHOT-HkO0.md) https://www.youtube.com/watch?v=btJHOT-HkO0
+* [November 17th, 2020 Livestream Q&A: Are you going to fix the Trains so it doesn't break in multiplayer for other people?](./yt-Kg29HlSMQjI.md) [https://www.youtube.com/watch?v=Kg29HlSMQjI](https://www.youtube.com/watch?v=Kg29HlSMQjI)
+* [October 20th, 2020 Livestream Q&A: The Trains lag a lot on Multiplayer?](./yt-AxQoNckHBhI.md) [https://www.youtube.com/watch?v=AxQoNckHBhI](https://www.youtube.com/watch?v=AxQoNckHBhI)
+* [September 1st, 2020 Livestream Q&A: Will you guys fix the connection loss with long loading with friends?](./yt-qOV_ydeQ07E.md) [https://www.youtube.com/watch?v=qOV_ydeQ07E](https://www.youtube.com/watch?v=qOV_ydeQ07E)
+* [August 25th, 2020 Livestream Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug?](./yt-btJHOT-HkO0.md) [https://www.youtube.com/watch?v=btJHOT-HkO0](https://www.youtube.com/watch?v=btJHOT-HkO0)
 </details>
 
 

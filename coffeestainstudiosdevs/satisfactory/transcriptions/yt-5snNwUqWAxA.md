@@ -11,8 +11,8 @@ https://www.youtube.com/watch?v=5snNwUqWAxA
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as November 2020.</summary>
 
-* [November 10th, 2020 Livestream Q&A: Is there any possibility you guys will be add the making of circles?](./yt-40bnpFI8SqE.md) https://www.youtube.com/watch?v=40bnpFI8SqE
-* [November 3rd, 2020 Livestream Q&A: Can we get Circular Foundations?](./yt-4sKy5-TJVKY.md) https://www.youtube.com/watch?v=4sKy5-TJVKY
+* [November 10th, 2020 Livestream Q&A: Is there any possibility you guys will be add the making of circles?](./yt-40bnpFI8SqE.md) [https://www.youtube.com/watch?v=40bnpFI8SqE](https://www.youtube.com/watch?v=40bnpFI8SqE)
+* [November 3rd, 2020 Livestream Q&A: Can we get Circular Foundations?](./yt-4sKy5-TJVKY.md) [https://www.youtube.com/watch?v=4sKy5-TJVKY](https://www.youtube.com/watch?v=4sKy5-TJVKY)
 </details>
 
 

@@ -8,7 +8,7 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: How much will it cost on Steam?
 https://www.youtube.com/watch?v=FILck3h3n0A
-This question was possibly duplicated with a more recent answer: [June 8th, 2020 Livestream Q&A: How much is it going to cost on Steam?](./yt-_UZr4JLSA1c.md) https://www.youtube.com/watch?v=_UZr4JLSA1c
+This question was possibly duplicated with a more recent answer: [June 8th, 2020 Livestream Q&A: How much is it going to cost on Steam?](./yt-_UZr4JLSA1c.md) [https://www.youtube.com/watch?v=_UZr4JLSA1c](https://www.youtube.com/watch?v=_UZr4JLSA1c)
 
 
 ### Topics

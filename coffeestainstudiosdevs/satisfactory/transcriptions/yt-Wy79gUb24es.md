@@ -8,7 +8,7 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Will you be using Unreal Engine 5 for Satisfactory?
 https://www.youtube.com/watch?v=Wy79gUb24es
-This question was possibly duplicated with a more recent answer: [October 27th, 2020 Livestream Q&A: Talking about Engine Update, was that Unreal Engine 5?](./yt-unAf5J6OtDE.md) https://www.youtube.com/watch?v=unAf5J6OtDE
+This question was possibly duplicated with a more recent answer: [October 27th, 2020 Livestream Q&A: Talking about Engine Update, was that Unreal Engine 5?](./yt-unAf5J6OtDE.md) [https://www.youtube.com/watch?v=unAf5J6OtDE](https://www.youtube.com/watch?v=unAf5J6OtDE)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we get a Battle Royale Update?
 https://www.youtube.com/watch?v=tN8DpsYR8ro
-This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Battle Royale mode?](./yt-U4t0BJ7mjwc.md) https://www.youtube.com/watch?v=U4t0BJ7mjwc
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Battle Royale mode?](./yt-U4t0BJ7mjwc.md) [https://www.youtube.com/watch?v=U4t0BJ7mjwc](https://www.youtube.com/watch?v=U4t0BJ7mjwc)
 
 
 ### Topics

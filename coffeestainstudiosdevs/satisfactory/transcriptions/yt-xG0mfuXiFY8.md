@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: What's the final objective of the game?
 https://www.youtube.com/watch?v=xG0mfuXiFY8
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Thoughts on making end-game point or goal?](./yt-hhckg5vm5_w.md) https://www.youtube.com/watch?v=hhckg5vm5_w
+This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Thoughts on making end-game point or goal?](./yt-hhckg5vm5_w.md) [https://www.youtube.com/watch?v=hhckg5vm5_w](https://www.youtube.com/watch?v=hhckg5vm5_w)
 
 
 ### Topics

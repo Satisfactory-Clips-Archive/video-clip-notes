@@ -11,8 +11,8 @@ https://www.youtube.com/watch?v=xwwx4N37G8M
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as March 2019.</summary>
 
-* [September 1st, 2020 Livestream Q&A: Will you be able to switch the mousewheel rotation with the hotbar?](./yt-n0CJicUwDF8.md) https://www.youtube.com/watch?v=n0CJicUwDF8
-* [March 9th, 2019 Livestream Q&A: There is no way to hotkey items?](./yt-KmX7CoVGPA0.md) https://www.youtube.com/watch?v=KmX7CoVGPA0
+* [September 1st, 2020 Livestream Q&A: Will you be able to switch the mousewheel rotation with the hotbar?](./yt-n0CJicUwDF8.md) [https://www.youtube.com/watch?v=n0CJicUwDF8](https://www.youtube.com/watch?v=n0CJicUwDF8)
+* [March 9th, 2019 Livestream Q&A: There is no way to hotkey items?](./yt-KmX7CoVGPA0.md) [https://www.youtube.com/watch?v=KmX7CoVGPA0](https://www.youtube.com/watch?v=KmX7CoVGPA0)
 </details>
 
 

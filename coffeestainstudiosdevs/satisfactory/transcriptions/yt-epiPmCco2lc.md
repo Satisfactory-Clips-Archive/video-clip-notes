@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Did you guys develop Valheim?
 https://www.youtube.com/watch?v=epiPmCco2lc
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: How many of them work on Valheim?](./yt-15R0t95pwvc.md) https://www.youtube.com/watch?v=15R0t95pwvc
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: How many of them work on Valheim?](./yt-15R0t95pwvc.md) [https://www.youtube.com/watch?v=15R0t95pwvc](https://www.youtube.com/watch?v=15R0t95pwvc)
 
 
 ### Topics

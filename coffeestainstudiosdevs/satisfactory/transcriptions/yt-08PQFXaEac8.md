@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will we ever have proper multi-core support?
 https://www.youtube.com/watch?v=08PQFXaEac8
-This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: CPU make multi-core?](./yt-0yzIyIlPDxw.md) https://www.youtube.com/watch?v=0yzIyIlPDxw
+This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: CPU make multi-core?](./yt-0yzIyIlPDxw.md) [https://www.youtube.com/watch?v=0yzIyIlPDxw](https://www.youtube.com/watch?v=0yzIyIlPDxw)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Will we need to buy a new copy for the server?
 https://www.youtube.com/watch?v=H6FZ4VqocHw
-This question was possibly duplicated with a more recent answer: July 28th, 2020 Livestream Q&A: Dedicated Server cost https://clips.twitch.tv/ConfidentLittleSnood4Head
+This question was possibly duplicated with a more recent answer: July 28th, 2020 Livestream Q&A: Dedicated Server cost [https://clips.twitch.tv/ConfidentLittleSnood4Head](https://clips.twitch.tv/ConfidentLittleSnood4Head)
 
 
 ### Topics

@@ -9,7 +9,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What is the object limit and why is it that number?
 https://www.youtube.com/watch?v=VpCuu0aYFw0
-This question was possibly duplicated with a more recent answer: [October 9th, 2020 Livestream Q&A: What is the limit?](./yt-Njv_PJT3B2g.md) https://www.youtube.com/watch?v=Njv_PJT3B2g
+This question was possibly duplicated with a more recent answer: [October 9th, 2020 Livestream Q&A: What is the limit?](./yt-Njv_PJT3B2g.md) [https://www.youtube.com/watch?v=Njv_PJT3B2g](https://www.youtube.com/watch?v=Njv_PJT3B2g)
 
 
 ### Topics

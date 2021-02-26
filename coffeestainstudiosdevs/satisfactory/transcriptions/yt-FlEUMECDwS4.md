@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: DX12 more efficient?
 https://www.youtube.com/watch?v=FlEUMECDwS4
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is DirectX 12 fully supported now?](./yt-zJ3RVfHpogY.md) https://www.youtube.com/watch?v=zJ3RVfHpogY
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is DirectX 12 fully supported now?](./yt-zJ3RVfHpogY.md) [https://www.youtube.com/watch?v=zJ3RVfHpogY](https://www.youtube.com/watch?v=zJ3RVfHpogY)
 
 
 ### Topics

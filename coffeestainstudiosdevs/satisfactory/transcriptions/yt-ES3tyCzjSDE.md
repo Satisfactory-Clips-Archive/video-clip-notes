@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Can we get a Jace Beanie in the game?
 https://www.youtube.com/watch?v=ES3tyCzjSDE
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: A beanie trophy?](./yt-vQlvfDhG01E.md) https://www.youtube.com/watch?v=vQlvfDhG01E
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: A beanie trophy?](./yt-vQlvfDhG01E.md) [https://www.youtube.com/watch?v=vQlvfDhG01E](https://www.youtube.com/watch?v=vQlvfDhG01E)
 
 
 ### Topics

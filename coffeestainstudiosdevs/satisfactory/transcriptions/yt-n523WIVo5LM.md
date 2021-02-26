@@ -8,7 +8,7 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Save stutter?
 https://www.youtube.com/watch?v=n523WIVo5LM
-This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Is there a way we can make Autosave more seamless?](./yt-UFWTP8Nu-MI.md) https://www.youtube.com/watch?v=UFWTP8Nu-MI
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Is there a way we can make Autosave more seamless?](./yt-UFWTP8Nu-MI.md) [https://www.youtube.com/watch?v=UFWTP8Nu-MI](https://www.youtube.com/watch?v=UFWTP8Nu-MI)
 
 
 ### Topics

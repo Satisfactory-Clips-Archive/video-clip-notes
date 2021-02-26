@@ -12,10 +12,10 @@ https://www.youtube.com/watch?v=RrF2Nq2-vmc
 <details>
 <summary>This question may have been asked previously at least 4 other times, as recently as February 2021 and as early as August 2020.</summary>
 
-* [February 9th, 2021 Livestream Q&A: Foundation holes for belts?](./yt-A41woUB_6oI.md) https://www.youtube.com/watch?v=A41woUB_6oI
-* [January 19th, 2021 Livestream Q&A: Any thoughts about reworking Foundations or adding Foundation holes?](./yt-DFO9JPJP1yM.md) https://www.youtube.com/watch?v=DFO9JPJP1yM
-* [September 15th, 2020 Livestream Q&A: Can you add Floor Holes for Pipes?](./yt-VLvqacnnn5c.md) https://www.youtube.com/watch?v=VLvqacnnn5c
-* [August 25th, 2020 Livestream Q&A: What about holes for Foundations?](./yt-fufH5ltdn7E.md) https://www.youtube.com/watch?v=fufH5ltdn7E
+* [February 9th, 2021 Livestream Q&A: Foundation holes for belts?](./yt-A41woUB_6oI.md) [https://www.youtube.com/watch?v=A41woUB_6oI](https://www.youtube.com/watch?v=A41woUB_6oI)
+* [January 19th, 2021 Livestream Q&A: Any thoughts about reworking Foundations or adding Foundation holes?](./yt-DFO9JPJP1yM.md) [https://www.youtube.com/watch?v=DFO9JPJP1yM](https://www.youtube.com/watch?v=DFO9JPJP1yM)
+* [September 15th, 2020 Livestream Q&A: Can you add Floor Holes for Pipes?](./yt-VLvqacnnn5c.md) [https://www.youtube.com/watch?v=VLvqacnnn5c](https://www.youtube.com/watch?v=VLvqacnnn5c)
+* [August 25th, 2020 Livestream Q&A: What about holes for Foundations?](./yt-fufH5ltdn7E.md) [https://www.youtube.com/watch?v=fufH5ltdn7E](https://www.youtube.com/watch?v=fufH5ltdn7E)
 </details>
 
 

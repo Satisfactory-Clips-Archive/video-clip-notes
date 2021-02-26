@@ -9,7 +9,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: DXR/RTX/DLSS ?
 https://www.youtube.com/watch?v=QuoiJ9lpkB4
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Do you have any plans to add Ray Tracing or DLSS?](./yt-hRzZjCBoI8s.md) https://www.youtube.com/watch?v=hRzZjCBoI8s
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Do you have any plans to add Ray Tracing or DLSS?](./yt-hRzZjCBoI8s.md) [https://www.youtube.com/watch?v=hRzZjCBoI8s](https://www.youtube.com/watch?v=hRzZjCBoI8s)
 
 
 ### Topics

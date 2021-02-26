@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How to pet Doggo?
 https://www.youtube.com/watch?v=izvalD5vPuc
-This question was possibly duplicated with a more recent answer: August 18th, 2020 Livestream Q&A: Will you be able to pet the doggo? https://clips.twitch.tv/DullHyperSpindlePanicVis
+This question was possibly duplicated with a more recent answer: August 18th, 2020 Livestream Q&A: Will you be able to pet the doggo? [https://clips.twitch.tv/DullHyperSpindlePanicVis](https://clips.twitch.tv/DullHyperSpindlePanicVis)
 
 
 ### Topics

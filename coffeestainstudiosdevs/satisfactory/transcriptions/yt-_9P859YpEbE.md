@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=_9P859YpEbE
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 
-* [September 8th, 2020 Livestream Q&A: Jetpack needs a Hover Mode?](./yt-zeXh53pKe0A.md) https://www.youtube.com/watch?v=zeXh53pKe0A
+* [September 8th, 2020 Livestream Q&A: Jetpack needs a Hover Mode?](./yt-zeXh53pKe0A.md) [https://www.youtube.com/watch?v=zeXh53pKe0A](https://www.youtube.com/watch?v=zeXh53pKe0A)
 </details>
 
 

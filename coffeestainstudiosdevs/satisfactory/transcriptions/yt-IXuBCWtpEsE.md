@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=IXuBCWtpEsE
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as December 2020.</summary>
 
-* [December 8th, 2020 Livestream Q&A: Will Mods break?](./yt-f1iY6Fj__E0.md) https://www.youtube.com/watch?v=f1iY6Fj__E0
+* [December 8th, 2020 Livestream Q&A: Will Mods break?](./yt-f1iY6Fj__E0.md) [https://www.youtube.com/watch?v=f1iY6Fj__E0](https://www.youtube.com/watch?v=f1iY6Fj__E0)
 </details>
 
 

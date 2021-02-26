@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=gOgyvgKAGAQ
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2019.</summary>
 
-* [February 6th, 2019 Livestream Q&A: Available on Steam in future?](./yt-Dtm6xIj-wM4,3280.698724,3286.654122.md) https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287
+* [February 6th, 2019 Livestream Q&A: Available on Steam in future?](./yt-Dtm6xIj-wM4,3280.698724,3286.654122.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287)
 </details>
 
 

@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Ultrawide Monitors?
 https://www.youtube.com/watch?v=j9oy_AyPXnU
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Do we have support for Ultra-wide Monitors?](./yt-j5yWR-Ayb5w.md) https://www.youtube.com/watch?v=j5yWR-Ayb5w
+This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Do we have support for Ultra-wide Monitors?](./yt-j5yWR-Ayb5w.md) [https://www.youtube.com/watch?v=j5yWR-Ayb5w](https://www.youtube.com/watch?v=j5yWR-Ayb5w)
 
 
 ### Topics

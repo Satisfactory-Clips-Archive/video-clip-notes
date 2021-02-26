@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=sV-kvBvlTXc
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
 
-* [January 12th, 2021 Livestream Q&A: Which Biome will be rebuilt?](./yt-5v0_pFbQLF4.md) https://www.youtube.com/watch?v=5v0_pFbQLF4
+* [January 12th, 2021 Livestream Q&A: Which Biome will be rebuilt?](./yt-5v0_pFbQLF4.md) [https://www.youtube.com/watch?v=5v0_pFbQLF4](https://www.youtube.com/watch?v=5v0_pFbQLF4)
 </details>
 
 

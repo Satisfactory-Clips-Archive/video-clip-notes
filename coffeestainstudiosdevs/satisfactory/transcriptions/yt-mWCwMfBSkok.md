@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Is Fog going to be turned down?
 https://www.youtube.com/watch?v=mWCwMfBSkok
-This question was possibly duplicated with a more recent answer: [October 13th, 2020 Livestream Q&A: Will one of the Quality of Life Updates be turning down the fog?](./yt-2AMBinmPITg.md) https://www.youtube.com/watch?v=2AMBinmPITg
+This question was possibly duplicated with a more recent answer: [October 13th, 2020 Livestream Q&A: Will one of the Quality of Life Updates be turning down the fog?](./yt-2AMBinmPITg.md) [https://www.youtube.com/watch?v=2AMBinmPITg](https://www.youtube.com/watch?v=2AMBinmPITg)
 
 
 ### Topics

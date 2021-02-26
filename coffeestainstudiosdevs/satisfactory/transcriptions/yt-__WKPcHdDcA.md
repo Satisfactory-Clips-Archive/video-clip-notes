@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=__WKPcHdDcA
 <details>
 <summary>This video continues in another video</summary>
 
-* [September 15th, 2020 Livestream Q&A: Craftable Camera? (part 2)](./yt-0vZS0gvnuqg.md) https://www.youtube.com/watch?v=0vZS0gvnuqg
+* [September 15th, 2020 Livestream Q&A: Craftable Camera? (part 2)](./yt-0vZS0gvnuqg.md) [https://www.youtube.com/watch?v=0vZS0gvnuqg](https://www.youtube.com/watch?v=0vZS0gvnuqg)
 </details>
 
 

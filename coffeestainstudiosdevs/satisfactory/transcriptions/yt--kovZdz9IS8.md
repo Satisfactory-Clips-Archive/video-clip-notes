@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Arachnophobia Mode is scarier than the actual spiders
 https://www.youtube.com/watch?v=-kovZdz9IS8
-This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Nighttime is only bad because of these damn cats?](./yt-YkXm2LWDAeA.md) https://www.youtube.com/watch?v=YkXm2LWDAeA
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Nighttime is only bad because of these damn cats?](./yt-YkXm2LWDAeA.md) [https://www.youtube.com/watch?v=YkXm2LWDAeA](https://www.youtube.com/watch?v=YkXm2LWDAeA)
 
 
 ### Topics

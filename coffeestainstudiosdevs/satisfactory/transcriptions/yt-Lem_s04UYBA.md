@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=Lem_s04UYBA
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as May 2020.</summary>
 
-* [May 19th, 2020 Livestream Q&A: Would you rather buy the game on both platforms than solve these issues?](./yt--ISubZfsFS4.md) https://www.youtube.com/watch?v=-ISubZfsFS4
+* [May 19th, 2020 Livestream Q&A: Would you rather buy the game on both platforms than solve these issues?](./yt--ISubZfsFS4.md) [https://www.youtube.com/watch?v=-ISubZfsFS4](https://www.youtube.com/watch?v=-ISubZfsFS4)
 </details>
 
 

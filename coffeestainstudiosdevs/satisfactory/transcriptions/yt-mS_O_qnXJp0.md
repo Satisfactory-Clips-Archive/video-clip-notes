@@ -10,7 +10,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Do you plan to release on Console one day?
 https://www.youtube.com/watch?v=mS_O_qnXJp0
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for bringing the game to Nintendo Switch?](./yt-rfeMtSPOadY.md) https://www.youtube.com/watch?v=rfeMtSPOadY
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for bringing the game to Nintendo Switch?](./yt-rfeMtSPOadY.md) [https://www.youtube.com/watch?v=rfeMtSPOadY](https://www.youtube.com/watch?v=rfeMtSPOadY)
 
 
 ### Topics

@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=XNsN_3Kjlqs
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as February 2020.</summary>
 
-* [February 9th, 2021 Livestream Q&A: Will there still be stuff to discover when the Update 4 teasers & reveals are done?](./yt-1NTKmQqoxNs.md) https://www.youtube.com/watch?v=1NTKmQqoxNs
-* [February 11th, 2020 Livestream Q&A: Are there things people will be surprised by?](./yt-v-f6PgaD4rY.md) https://www.youtube.com/watch?v=v-f6PgaD4rY
+* [February 9th, 2021 Livestream Q&A: Will there still be stuff to discover when the Update 4 teasers & reveals are done?](./yt-1NTKmQqoxNs.md) [https://www.youtube.com/watch?v=1NTKmQqoxNs](https://www.youtube.com/watch?v=1NTKmQqoxNs)
+* [February 11th, 2020 Livestream Q&A: Are there things people will be surprised by?](./yt-v-f6PgaD4rY.md) [https://www.youtube.com/watch?v=v-f6PgaD4rY](https://www.youtube.com/watch?v=v-f6PgaD4rY)
 </details>
 
 

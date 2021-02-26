@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Do you want to support more than 4 people?
 https://www.youtube.com/watch?v=wb5HY05QX9I
-This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Are we going to increase the limit of only having 4 players per game?](./yt-9Fe7lcAQx9I.md) https://www.youtube.com/watch?v=9Fe7lcAQx9I
+This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Are we going to increase the limit of only having 4 players per game?](./yt-9Fe7lcAQx9I.md) [https://www.youtube.com/watch?v=9Fe7lcAQx9I](https://www.youtube.com/watch?v=9Fe7lcAQx9I)
 
 
 ### Topics

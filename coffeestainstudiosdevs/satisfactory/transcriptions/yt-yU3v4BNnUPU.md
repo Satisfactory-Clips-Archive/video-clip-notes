@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=yU3v4BNnUPU
 <details>
 <summary>This video is a continuation of a previous video</summary>
 
-* [January 12th, 2021 Livestream State of Dev: Coffee Stain new office (Part 1)](./yt-htoUHZbvu1A.md) https://www.youtube.com/watch?v=htoUHZbvu1A
+* [January 12th, 2021 Livestream State of Dev: Coffee Stain new office (Part 1)](./yt-htoUHZbvu1A.md) [https://www.youtube.com/watch?v=htoUHZbvu1A](https://www.youtube.com/watch?v=htoUHZbvu1A)
 </details>
 
 

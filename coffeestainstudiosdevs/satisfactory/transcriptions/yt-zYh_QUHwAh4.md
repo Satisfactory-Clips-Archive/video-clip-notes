@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=zYh_QUHwAh4
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
 
-* [January 19th, 2021 Livestream Q&A: Recipes in Tier 6 and below will also change but no production lines below Tier 7?](./yt-2LczuvKevK4.md) https://www.youtube.com/watch?v=2LczuvKevK4
+* [January 19th, 2021 Livestream Q&A: Recipes in Tier 6 and below will also change but no production lines below Tier 7?](./yt-2LczuvKevK4.md) [https://www.youtube.com/watch?v=2LczuvKevK4](https://www.youtube.com/watch?v=2LczuvKevK4)
 </details>
 
 

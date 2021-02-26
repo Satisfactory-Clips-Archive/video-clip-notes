@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Refineries take up so much space?
 https://www.youtube.com/watch?v=KzQ1E8V06zA
-This question was possibly duplicated with a more recent answer: [October 13th, 2020 Livestream Q&A: Why are the Refineries so big?](./yt-lZOTwEhBFO4.md) https://www.youtube.com/watch?v=lZOTwEhBFO4
+This question was possibly duplicated with a more recent answer: [October 13th, 2020 Livestream Q&A: Why are the Refineries so big?](./yt-lZOTwEhBFO4.md) [https://www.youtube.com/watch?v=lZOTwEhBFO4](https://www.youtube.com/watch?v=lZOTwEhBFO4)
 
 
 ### Topics

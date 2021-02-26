@@ -10,7 +10,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Are you expecting a more stable release of the Engine Upgrade due to increased QA for Update 4?
 https://www.youtube.com/watch?v=mSo3tH9ZLR0
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: So are you packing Update 4 to the Engine Upgrade?](./yt-9QEf5938sPk.md) https://www.youtube.com/watch?v=9QEf5938sPk
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: So are you packing Update 4 to the Engine Upgrade?](./yt-9QEf5938sPk.md) [https://www.youtube.com/watch?v=9QEf5938sPk](https://www.youtube.com/watch?v=9QEf5938sPk)
 
 
 ### Topics

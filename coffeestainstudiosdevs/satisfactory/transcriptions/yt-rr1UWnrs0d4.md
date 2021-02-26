@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds
 https://www.youtube.com/watch?v=rr1UWnrs0d4
-This question was possibly duplicated with a more recent answer: [October 27th, 2020 Livestream Q&A: Talking about Engine Update, was that Unreal Engine 5?](./yt-unAf5J6OtDE.md) https://www.youtube.com/watch?v=unAf5J6OtDE
+This question was possibly duplicated with a more recent answer: [October 27th, 2020 Livestream Q&A: Talking about Engine Update, was that Unreal Engine 5?](./yt-unAf5J6OtDE.md) [https://www.youtube.com/watch?v=unAf5J6OtDE](https://www.youtube.com/watch?v=unAf5J6OtDE)
 
 
 ### Topics

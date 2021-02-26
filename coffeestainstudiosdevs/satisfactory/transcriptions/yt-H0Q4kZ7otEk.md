@@ -8,7 +8,7 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: What about Story Mode?
 https://www.youtube.com/watch?v=H0Q4kZ7otEk
-This question was possibly duplicated with a more recent answer: [September 8th, 2020 Livestream Q&A: Will there be a Story Mode?](./yt-e_CXOG7_cH8.md) https://www.youtube.com/watch?v=e_CXOG7_cH8
+This question was possibly duplicated with a more recent answer: [September 8th, 2020 Livestream Q&A: Will there be a Story Mode?](./yt-e_CXOG7_cH8.md) [https://www.youtube.com/watch?v=e_CXOG7_cH8](https://www.youtube.com/watch?v=e_CXOG7_cH8)
 
 
 ### Topics

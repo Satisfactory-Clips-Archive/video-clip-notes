@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Plans for a Map Editor?
 https://www.youtube.com/watch?v=vvRPYyc7sb8
-This question was possibly duplicated with a more recent answer: [October 6th, 2020 Livestream Q&A: Map Editor?](./yt-Oq4gGKBYHQI.md) https://www.youtube.com/watch?v=Oq4gGKBYHQI
+This question was possibly duplicated with a more recent answer: [October 6th, 2020 Livestream Q&A: Map Editor?](./yt-Oq4gGKBYHQI.md) [https://www.youtube.com/watch?v=Oq4gGKBYHQI](https://www.youtube.com/watch?v=Oq4gGKBYHQI)
 
 
 ### Topics

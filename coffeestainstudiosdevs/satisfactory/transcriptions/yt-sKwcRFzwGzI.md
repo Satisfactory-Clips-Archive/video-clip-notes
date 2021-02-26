@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=sKwcRFzwGzI
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
 
-* [February 9th, 2021 Livestream Q&A: Steam has a built-in Mod Workshop system, could that possibly work?](./yt-dy137Wbx24M.md) https://www.youtube.com/watch?v=dy137Wbx24M
+* [February 9th, 2021 Livestream Q&A: Steam has a built-in Mod Workshop system, could that possibly work?](./yt-dy137Wbx24M.md) [https://www.youtube.com/watch?v=dy137Wbx24M](https://www.youtube.com/watch?v=dy137Wbx24M)
 </details>
 
 

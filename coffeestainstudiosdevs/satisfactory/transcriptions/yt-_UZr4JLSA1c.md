@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=_UZr4JLSA1c
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as June 2020.</summary>
 
-* [June 8th, 2020 Livestream Q&A: How much will it cost on Steam?](./yt-FILck3h3n0A.md) https://www.youtube.com/watch?v=FILck3h3n0A
+* [June 8th, 2020 Livestream Q&A: How much will it cost on Steam?](./yt-FILck3h3n0A.md) [https://www.youtube.com/watch?v=FILck3h3n0A](https://www.youtube.com/watch?v=FILck3h3n0A)
 </details>
 
 

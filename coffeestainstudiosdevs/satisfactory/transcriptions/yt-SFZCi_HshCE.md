@@ -10,7 +10,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Lizard Doggo plushies?
 https://www.youtube.com/watch?v=SFZCi_HshCE
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Lizard Doggo plushie?](./yt-FlOFnqAw5go.md) https://www.youtube.com/watch?v=FlOFnqAw5go
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Lizard Doggo plushie?](./yt-FlOFnqAw5go.md) [https://www.youtube.com/watch?v=FlOFnqAw5go](https://www.youtube.com/watch?v=FlOFnqAw5go)
 
 
 ### Topics

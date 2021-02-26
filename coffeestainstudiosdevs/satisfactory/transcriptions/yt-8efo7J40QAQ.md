@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=8efo7J40QAQ
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* [August 25th, 2020 Livestream Q&A: Water Extractors need to snap to grid](./yt-sAHdYX0iwIg.md) https://www.youtube.com/watch?v=sAHdYX0iwIg
+* [August 25th, 2020 Livestream Q&A: Water Extractors need to snap to grid](./yt-sAHdYX0iwIg.md) [https://www.youtube.com/watch?v=sAHdYX0iwIg](https://www.youtube.com/watch?v=sAHdYX0iwIg)
 </details>
 
 

@@ -9,7 +9,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Any improvement for the Trucks so they can transport Fluids?
 https://www.youtube.com/watch?v=lNpwyJr7lZc
-This question was possibly duplicated with a more recent answer: [October 6th, 2020 Livestream Q&A: What do you think about adding some kind of Tanker Truck?](./yt-JCBQj8Ern20.md) https://www.youtube.com/watch?v=JCBQj8Ern20
+This question was possibly duplicated with a more recent answer: [October 6th, 2020 Livestream Q&A: What do you think about adding some kind of Tanker Truck?](./yt-JCBQj8Ern20.md) [https://www.youtube.com/watch?v=JCBQj8Ern20](https://www.youtube.com/watch?v=JCBQj8Ern20)
 
 
 ### Topics

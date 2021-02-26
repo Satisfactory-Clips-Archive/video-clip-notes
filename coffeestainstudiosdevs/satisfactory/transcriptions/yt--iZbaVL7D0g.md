@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: How big is the development team?
 https://www.youtube.com/watch?v=-iZbaVL7D0g
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: How many devs do you have?](./yt-Hj0nhmramiM.md) https://www.youtube.com/watch?v=Hj0nhmramiM
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: How many devs do you have?](./yt-Hj0nhmramiM.md) [https://www.youtube.com/watch?v=Hj0nhmramiM](https://www.youtube.com/watch?v=Hj0nhmramiM)
 
 
 ### Topics
