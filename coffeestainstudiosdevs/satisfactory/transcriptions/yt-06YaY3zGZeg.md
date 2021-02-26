@@ -3,6 +3,7 @@ title: "December 19th, 2019 Livestream Q&A: Are there any Easter Eggs in the lan
 date: "2019-12-19"
 layout: transcript
 topics:
+    - "easter-eggs"
     - "environment/world-map"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
@@ -12,6 +13,7 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 
 
 ### Topics
+* [Easter Eggs](../topics/easter-eggs.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript

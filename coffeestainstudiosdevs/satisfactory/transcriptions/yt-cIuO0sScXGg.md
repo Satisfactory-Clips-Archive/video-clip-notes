@@ -3,6 +3,7 @@ title: "December 15th, 2020 Livestream Q&A: Why is there a Coffee Cup in the HUB
 date: "2020-12-15"
 layout: transcript
 topics:
+    - "easter-eggs"
     - "features/buildings/the-hub"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=cIuO0sScXGg
 
 ### Topics
+* [Easter Eggs](../topics/easter-eggs.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 
 ### Transcript

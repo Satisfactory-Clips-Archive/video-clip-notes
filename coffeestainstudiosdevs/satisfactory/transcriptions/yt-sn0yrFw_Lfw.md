@@ -3,6 +3,7 @@ title: "December 19th, 2019 Livestream Q&A: Can we put the \"Nani‽\" back in?"
 date: "2019-12-19"
 layout: transcript
 topics:
+    - "easter-eggs"
     - "features/crafting"
     - "technology/user-interface"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=sn0yrFw_Lfw
 
 ### Topics
+* [Easter Eggs](../topics/easter-eggs.md)
 * [Features > Crafting](../topics/features/crafting.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

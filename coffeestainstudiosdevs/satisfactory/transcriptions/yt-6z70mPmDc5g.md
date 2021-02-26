@@ -3,7 +3,7 @@ title: "November 10th, 2020 Livestream Q&A: Any Easter Eggs nobody's found yet?"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - ""
+    - "easter-eggs"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any Easter Eggs nobody's found yet?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 
 
 ### Topics
-
+* [Easter Eggs](../topics/easter-eggs.md)
 
 ### Transcript
 

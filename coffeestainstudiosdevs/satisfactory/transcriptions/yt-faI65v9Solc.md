@@ -4,6 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "coffee-stainers/hannah"
+    - "easter-eggs"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: We need some more Easter Egg hints from Hannah?
@@ -13,6 +14,7 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
+* [Easter Eggs](../topics/easter-eggs.md)
 
 ### Transcript
 
