@@ -192,25 +192,19 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> any more music tracks coming i think
+> Jace: Any more music tracks coming? I think there's going to be more music-
 >
-> there's going to be more music wait
+> wait... I think there is new  music in the Update 4- is there?
 >
-> i think there is new music in the update
+> Snutt: Yeah, I answered that before-
 >
-> for is there yeah i answered that before
+> Jace: Yeah yeah yeah.
 >
-> yeah yeah
+> Snutt: there's new music planned but I don't know-
 >
-> there's new music planned but i don't
+> I don't think it's going to drop for Update 4...
 >
-> know i don't think it's going to drop
->
-> for update 4
->
-> pretty sure it's not going to drop for
->
-> update 4 it's going to be later
+> pretty sure it's not going to drop for Update 4 it's going to be later.
 
 
 </details>
