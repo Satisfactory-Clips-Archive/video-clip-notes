@@ -45,3 +45,8 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../../transcriptions/yt-Tit_bHzixmk.md) [https://www.youtube.com/watch?v=Tit_bHzixmk](https://www.youtube.com/watch?v=Tit_bHzixmk)
 * Q&A: Will there be lamps for night? [https://www.youtube.com/watch?v=SiS0HGq7_oU](https://www.youtube.com/watch?v=SiS0HGq7_oU)
+
+## February 20th, 2019 Livestream
+* [Q&A: Is all lighting done with a directional, or do you have other lights in the environment too?](../../../transcriptions/yt-CB9bSigNYH8,3960.579115,3991.90858.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3960&end=3992](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3960&end=3992)
+* [Hannah Talk: Level Design Stream (Part 5)](../../../transcriptions/yt-CB9bSigNYH8,2027.05571,2326.9.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2027&end=2327](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2027&end=2327)
+* [Q&A: Will the night cycle be dark so you need lights?](../../../transcriptions/yt-CB9bSigNYH8,5390.335913,5404.05357.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5390&end=5405](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5390&end=5405)

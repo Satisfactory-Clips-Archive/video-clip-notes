@@ -127,5 +127,9 @@ date: Last Modified
 * [Q&A: Game is awesome, but late-game is super laggy sometimes.](../../transcriptions/yt-3MO6SYCZuFI.md) [https://www.youtube.com/watch?v=3MO6SYCZuFI](https://www.youtube.com/watch?v=3MO6SYCZuFI)
 * [Q&A: How did you guys optimise the game so much?](../../transcriptions/yt-nRCmJo-Wh9s.md) [https://www.youtube.com/watch?v=nRCmJo-Wh9s](https://www.youtube.com/watch?v=nRCmJo-Wh9s)
 
+## February 20th, 2019 Livestream
+* [Q&A: Are graphics rendered in tiles?](../../transcriptions/yt-CB9bSigNYH8,1840.1333333333334,1854.301799.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1840&end=1855](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1840&end=1855)
+* [Q&A: It looks like a AAA game?](../../transcriptions/yt-CB9bSigNYH8,2884.266666666667,2897.082625.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2884&end=2898](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2884&end=2898)
+
 ## February 6th, 2019 Livestream
 * [Q&A: How many LOD levels do you use?](../../transcriptions/yt-Dtm6xIj-wM4,3264.910326,3268.219046.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3264&end=3269](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3264&end=3269)

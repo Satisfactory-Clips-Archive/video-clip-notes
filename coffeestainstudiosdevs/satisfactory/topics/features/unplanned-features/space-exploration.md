@@ -22,5 +22,9 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Q&A: Signs & Planets [https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo](https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo)
 
+## February 20th, 2019 Livestream
+* [Q&A: Can you travel to other planets?](../../../transcriptions/yt-CB9bSigNYH8,1305.6,1313.344125.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314)
+* [Q&A: Isn't saying no other planets a spoiler?](../../../transcriptions/yt-CB9bSigNYH8,1366.2666666666667,1376.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1366&end=1376](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1366&end=1376)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Will there be outer space & galaxies?](../../../transcriptions/yt-Dtm6xIj-wM4,2836.733333333333,2840.698964.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841)

@@ -27,6 +27,9 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Q&A: Will you fix translations?](../transcriptions/yt-NJxOCbsJtZQ.md) [https://www.youtube.com/watch?v=NJxOCbsJtZQ](https://www.youtube.com/watch?v=NJxOCbsJtZQ)
 
+## February 20th, 2019 Livestream
+* [Q&A: Will you have Nordic language support?](../transcriptions/yt-CB9bSigNYH8,4747.934062,4786.597164.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4747&end=4787](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4747&end=4787)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Localisation support?](../transcriptions/yt-Dtm6xIj-wM4,1398.110387,1429.840647.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1398&end=1430](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1398&end=1430)
 

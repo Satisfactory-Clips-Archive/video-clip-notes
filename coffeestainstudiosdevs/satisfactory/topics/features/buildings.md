@@ -176,6 +176,9 @@ date: Last Modified
 * [Snutt Talk: Storage Containers](../../transcriptions/yt-oQfZtyxDIrE.md) [https://www.youtube.com/watch?v=oQfZtyxDIrE](https://www.youtube.com/watch?v=oQfZtyxDIrE)
 * [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../transcriptions/yt-Tit_bHzixmk.md) [https://www.youtube.com/watch?v=Tit_bHzixmk](https://www.youtube.com/watch?v=Tit_bHzixmk)
 
+## February 20th, 2019 Livestream
+* [Q&A: Will the machinery still work if I'm not loading that particular tile?](../../transcriptions/yt-CB9bSigNYH8,2465.233333333333,2488.648026.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2465&end=2489](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2465&end=2489)
+
 ## February 6th, 2019 Livestream
 * [Q&A: What's the biggest bug you guys have seen so far?](../../transcriptions/yt-Dtm6xIj-wM4,3623.301698,3734.266666666667.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3623&end=3735](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3623&end=3735)
 * [Q&A: What happened to the Hadron Collider we saw in the UI video?](../../transcriptions/yt-Dtm6xIj-wM4,1259.5666666666666,1268.770686.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1259&end=1269](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1259&end=1269)

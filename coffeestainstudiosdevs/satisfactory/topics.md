@@ -63,6 +63,7 @@ date: Last Modified
 ## [Resources](./topics/environment/resources.md)
 * [Mercer Sphere](./topics/environment/resources/mercer-sphere.md)
 * [Oil](./topics/environment/resources/oil.md)
+* [Power Slug](./topics/environment/resources/power-slug.md)
 * [S.A.M. Ore](./topics/environment/resources/sam-ore.md)
 * [Somersloop](./topics/environment/resources/somersloop.md)
 * [Steel](./topics/environment/resources/steel.md)
@@ -77,7 +78,7 @@ date: Last Modified
 ## [Accessibility](./topics/features/accessibility.md)
 * [Arachnophobia Mode](./topics/features/accessibility/arachnophobia-mode.md)
 
-## Buildables
+## [Buildables](./topics/features/buildables.md)
 * [Conveyor Belts](./topics/features/buildables/conveyor-belts.md)
 * [Foundations](./topics/features/buildables/foundations.md)
 * [Jump Pads](./topics/features/buildables/jump-pads.md)
@@ -199,6 +200,7 @@ date: Last Modified
 
 ## Unreleased Features
 * [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
+* [Level Design Stream](./topics/level-design-stream.md)
 * [Localisation](./topics/localisation.md)
 
 # [Merch](./topics/merch.md)

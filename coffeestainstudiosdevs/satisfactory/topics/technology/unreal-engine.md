@@ -186,6 +186,16 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](../../transcriptions/yt-NUXUlt4c26k.md) [https://www.youtube.com/watch?v=NUXUlt4c26k](https://www.youtube.com/watch?v=NUXUlt4c26k)
 
+## February 20th, 2019 Livestream
+* [Q&A: Are graphics rendered in tiles?](../../transcriptions/yt-CB9bSigNYH8,1840.1333333333334,1854.301799.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1840&end=1855](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1840&end=1855)
+* [Q&A: Is that unlit mode?](../../transcriptions/yt-CB9bSigNYH8,4822,4845.059898.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4822&end=4846](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4822&end=4846)
+* [Q&A: Is there an undo button?](../../transcriptions/yt-CB9bSigNYH8,3786.18899,3821.273832.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3786&end=3822](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3786&end=3822)
+* [Q&A: Is your Unreal Engine pirated?](../../transcriptions/yt-CB9bSigNYH8,4803.983031,4818.284845.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4803&end=4819](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4803&end=4819)
+* [Community FYI: Unreal Engine is free-to-use?](../../transcriptions/yt-CB9bSigNYH8,4845.059898,4872.950545.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4845&end=4873](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4845&end=4873)
+* [Q&A: What Engine?](../../transcriptions/yt-CB9bSigNYH8,692.002303,698.226859.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699)
+* [Q&A: What is this?](../../transcriptions/yt-CB9bSigNYH8,359.388323,361.317611.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=359&end=362](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=359&end=362)
+* [Q&A: What kind of resolution is the landscape?](../../transcriptions/yt-CB9bSigNYH8,3852.707605,3868.383836.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3852&end=3869](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3852&end=3869)
+
 ## February 6th, 2019 Livestream
 * [Q&A: What resources do you use to help with level design, story writing & world building?](../../transcriptions/yt-Dtm6xIj-wM4,1073.3666666666666,1125.56383.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1073&end=1126](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1073&end=1126)
 * [Q&A: What system do you use to save maps?](../../transcriptions/yt-Dtm6xIj-wM4,1155.537962,1245.697874.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1155&end=1246](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1155&end=1246)

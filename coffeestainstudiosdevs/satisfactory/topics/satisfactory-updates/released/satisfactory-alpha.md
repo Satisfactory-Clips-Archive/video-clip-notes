@@ -28,6 +28,18 @@ date: Last Modified
 * [Q&A: Is the Early Access version the same version Alpha Testers have?](../../../transcriptions/yt-bnUTeUn6TA4.md) [https://www.youtube.com/watch?v=bnUTeUn6TA4](https://www.youtube.com/watch?v=bnUTeUn6TA4)
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../../../transcriptions/yt-Pn5tcfKmF20.md) [https://www.youtube.com/watch?v=Pn5tcfKmF20](https://www.youtube.com/watch?v=Pn5tcfKmF20)
 
+## February 20th, 2019 Livestream
+* [Hannah Talk: Building factories in caves](../../../transcriptions/yt-CB9bSigNYH8,1419.15309,1441.680622.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1419&end=1442](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1419&end=1442)
+* [Hannah Talk: Caves are broken in Alpha](../../../transcriptions/yt-CB9bSigNYH8,592.38942,606.403501.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=592&end=607](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=592&end=607)
+* [Q&A: How big is the Alpha?](../../../transcriptions/yt-CB9bSigNYH8,4322.982105,4329.356095.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4322&end=4330](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4322&end=4330)
+* [Q&A: How big is the game in file size?](../../../transcriptions/yt-CB9bSigNYH8,4718.242065,4747.934062.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4718&end=4748](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4718&end=4748)
+* [Q&A: How long does it usually take for sending off for the Alpha to get a response?](../../../transcriptions/yt-CB9bSigNYH8,4259.409187,4274.556616.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4259&end=4275](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4259&end=4275)
+* [Q&A: How often will the Map be updated?](../../../transcriptions/yt-CB9bSigNYH8,5336.08426,5347.37039.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5336&end=5348](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5336&end=5348)
+* [Q&A: If you don't speak german, give me an Alpha Key?](../../../transcriptions/yt-CB9bSigNYH8,3370.075643,3375.232839.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3370&end=3376](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3370&end=3376)
+* [Q&A: Is the game a scam?](../../../transcriptions/yt-CB9bSigNYH8,4587.220174,4600.881774.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4587&end=4601](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4587&end=4601)
+* [Q&A: Where are you in development?](../../../transcriptions/yt-CB9bSigNYH8,4196.251148,4208.189437.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4196&end=4209](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4196&end=4209)
+* [Q&A: Why do you not have a lot players in the Alpha?](../../../transcriptions/yt-CB9bSigNYH8,4354.483035,4399.932361.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4354&end=4400](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4354&end=4400)
+
 ## February 6th, 2019 Livestream
 * [Jace, Hannah, & Snutt Talk: Alpha is not a scam](../../../transcriptions/yt-Dtm6xIj-wM4,1458.2666666666667,1476.412324.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1458&end=1477](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1458&end=1477)
 * [Q&A: Can you do a mass-key release of 50000 if Lord Simon allows it?](../../../transcriptions/yt-Dtm6xIj-wM4,3333.678121,3433.002272.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3333&end=3434](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3333&end=3434)

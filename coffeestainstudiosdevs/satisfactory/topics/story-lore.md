@@ -135,6 +135,17 @@ date: Last Modified
 * [Q&A: What's the final objective of the game?](../transcriptions/yt-xG0mfuXiFY8.md) [https://www.youtube.com/watch?v=xG0mfuXiFY8](https://www.youtube.com/watch?v=xG0mfuXiFY8)
 * [Q&A: What gender is the character model?](../transcriptions/yt-eoMeAy8w2Fs.md) [https://www.youtube.com/watch?v=eoMeAy8w2Fs](https://www.youtube.com/watch?v=eoMeAy8w2Fs)
 
+## February 20th, 2019 Livestream
+* [Q&A: Are you going to make the Story like Subnautica?](../transcriptions/yt-CB9bSigNYH8,4456.517473,4507.773148.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4456&end=4508](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4456&end=4508)
+* [Q&A: Does Hannah work with any astronomers?](../transcriptions/yt-CB9bSigNYH8,2385.785806,2456.293546.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2385&end=2457](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2385&end=2457)
+* [Q&A: Does the cave have anything to do with Story?](../transcriptions/yt-CB9bSigNYH8,1161.976181,1173.829446.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1161&end=1174](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1161&end=1174)
+* [Q&A: Do the level names come back in game Lore?](../transcriptions/yt-CB9bSigNYH8,2353.5666666666666,2375.497716.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2353&end=2376](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2353&end=2376)
+* [Q&A: How many suns & moons/planets does this planet have?](../transcriptions/yt-CB9bSigNYH8,2326.909993,2335.545536.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2326&end=2336](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2326&end=2336)
+* [Q&A: How will the Story be told in the game- will it be audio lines or will the Story be text-based?](../transcriptions/yt-CB9bSigNYH8,4402.120638,4456.517473.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4402&end=4457](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4402&end=4457)
+* [Q&A: Isn't saying no other planets a spoiler?](../transcriptions/yt-CB9bSigNYH8,1366.2666666666667,1376.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1366&end=1376](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1366&end=1376)
+* [Q&A: Some things don't exist in real life?](../transcriptions/yt-CB9bSigNYH8,2493.737327,2509.359301.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2493&end=2510](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2493&end=2510)
+* [Q&A: What is the ending?](../transcriptions/yt-CB9bSigNYH8,4788.8,4800.84822.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4788&end=4801](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4788&end=4801)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Are there going to be NPCs that you get quests from?](../transcriptions/yt-Dtm6xIj-wM4,2726.329682,2733.426542.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2726&end=2734](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2726&end=2734)
 * [Q&A: Is there an end-game/goal?](../transcriptions/yt-Dtm6xIj-wM4,912.113976,952.667535.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=912&end=953](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=912&end=953)

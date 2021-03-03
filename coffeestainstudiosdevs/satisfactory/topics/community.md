@@ -121,6 +121,14 @@ date: Last Modified
 * [Q&A: Snutt Jace's baby Community Manager?](../transcriptions/yt-mmaqnomYjFQ.md) [https://www.youtube.com/watch?v=mmaqnomYjFQ](https://www.youtube.com/watch?v=mmaqnomYjFQ)
 * [Q&A: What is the job of Community Managers?](../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
 
+## February 20th, 2019 Livestream
+* [Q&A: Can you write down my name on this cave?](../transcriptions/yt-CB9bSigNYH8,3639.645239,3717.887234.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3639&end=3718](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3639&end=3718)
+* [Community FYI: Satisfied with the look of the factory in Satisfactory](../transcriptions/yt-CB9bSigNYH8,4987.2,4999.795958.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4987&end=5000](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4987&end=5000)
+* [Community FYI: The cake is a lie!](../transcriptions/yt-CB9bSigNYH8,4521.066755,4531.568623.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4521&end=4532](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4521&end=4532)
+* [Community FYI: Too many stalactites on the right side](../transcriptions/yt-CB9bSigNYH8,4629.576753,4641.290481.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4629&end=4642](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4629&end=4642)
+* [Community FYI: Trees overlapping with stalactites doesn't look good](../transcriptions/yt-CB9bSigNYH8,4652.390689,4668.073271.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4652&end=4669](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4652&end=4669)
+* [Community FYI: You skipped the part where some stick through "balcony" roof](../transcriptions/yt-CB9bSigNYH8,4707.4,4715.707868.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4707&end=4716](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4707&end=4716)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Can you say my name really quickly- it would make my day?](../transcriptions/yt-Dtm6xIj-wM4,3122.633333333333,3142.742535.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3122&end=3143](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3122&end=3143)
 * [Q&A: Have the Alpha Testers done any art using Walls and Paint Guns?](../transcriptions/yt-Dtm6xIj-wM4,3984.431848,4022.49158.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023)

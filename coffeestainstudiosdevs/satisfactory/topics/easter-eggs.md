@@ -20,5 +20,10 @@ date: Last Modified
 * [Q&A: Are there any Easter Eggs in the landscape?](../transcriptions/yt-06YaY3zGZeg.md) [https://www.youtube.com/watch?v=06YaY3zGZeg](https://www.youtube.com/watch?v=06YaY3zGZeg)
 * [Q&A: Can we put the "Nani‽" back in?](../transcriptions/yt-sn0yrFw_Lfw.md) [https://www.youtube.com/watch?v=sn0yrFw_Lfw](https://www.youtube.com/watch?v=sn0yrFw_Lfw)
 
+## February 20th, 2019 Livestream
+* [Q&A: Are there Easter Eggs in the game?](../transcriptions/yt-CB9bSigNYH8,524.513606,534.622601.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=524&end=535](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=524&end=535)
+* [Q&A: Are you going to make Easter Eggs?](../transcriptions/yt-CB9bSigNYH8,5128.56594,5136.281677.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5128&end=5137](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5128&end=5137)
+* [Q&A: What's the most ridiculous thing you could show us?](../transcriptions/yt-CB9bSigNYH8,1004.471031,1028.26878.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1004&end=1029](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1004&end=1029)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Are there going to be collectables/easter eggs/shrines to your previous games hidden around?](../transcriptions/yt-Dtm6xIj-wM4,2262.3333333333335,2275.305027.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2262&end=2276](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2262&end=2276)

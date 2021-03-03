@@ -85,6 +85,22 @@ date: Last Modified
 * [Q&A: But do they take your opinion (about steam) serious?](../transcriptions/yt-sZDS8dOdyvQ.md) [https://www.youtube.com/watch?v=sZDS8dOdyvQ](https://www.youtube.com/watch?v=sZDS8dOdyvQ)
 * [Q&A: Who suggested to build factory game?](../transcriptions/yt-AyPcl_Vs2D4.md) [https://www.youtube.com/watch?v=AyPcl_Vs2D4](https://www.youtube.com/watch?v=AyPcl_Vs2D4)
 
+## February 20th, 2019 Livestream
+* [Q&A: Did Hannah make the walls of the cave?](../transcriptions/yt-CB9bSigNYH8,2723.033543,2733.855787.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2723&end=2734](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2723&end=2734)
+* [Q&A: Does Coffee Stain pay you in Coffee?](../transcriptions/yt-CB9bSigNYH8,5245.97296,5251.640578.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5245&end=5252](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5245&end=5252)
+* [Q&A: Do you take interns in Game & Level Design?](../transcriptions/yt-CB9bSigNYH8,4977.019619,4987.213353.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4977&end=4988](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4977&end=4988)
+* [Q&A: How do you decide who fills caves with stuff?](../transcriptions/yt-CB9bSigNYH8,1696.76254,1745.665541.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1696&end=1746](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1696&end=1746)
+* [Q&A: How many Dutch people at Coffee Stain?](../transcriptions/yt-CB9bSigNYH8,427.46666666666664,437.20508.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438)
+* [Q&A: How many Level Designer are working on the map? Or are you the only one?](../transcriptions/yt-CB9bSigNYH8,4116.866666666667,4142.206297.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4116&end=4143](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4116&end=4143)
+* [Q&A: How many people are there in the studio?](../transcriptions/yt-CB9bSigNYH8,808.45003,837.796486.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838)
+* [Q&A: Is Coffee Stain based in Sweden?](../transcriptions/yt-CB9bSigNYH8,3186.400967,3198.158213.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3186&end=3199](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3186&end=3199)
+* [I see you're sculpting the Environment. I thought that was something Environment Artists do?](../transcriptions/yt-CB9bSigNYH8,4535.706068,4587.220174.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4535&end=4588](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4535&end=4588)
+* [Hannah Talk: Level Designer team](../transcriptions/yt-CB9bSigNYH8,1641.7666666666667,1688.029579.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1641&end=1689](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1641&end=1689)
+* [Hannah Talk: The first thing you do if you start at Coffee Stain](../transcriptions/yt-CB9bSigNYH8,3766.778554,3781.968015.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3766&end=3782](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3766&end=3782)
+* [Q&A: What does Coffee Stain make the foliage in?](../transcriptions/yt-CB9bSigNYH8,560.1333333333333,589.385044.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=560&end=590](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=560&end=590)
+* [Q&A: Where do you apply?](../transcriptions/yt-CB9bSigNYH8,3825.28082,3844.546451.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3825&end=3845](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3825&end=3845)
+* [Q&A: Who creates the decorations & assets?](../transcriptions/yt-CB9bSigNYH8,776.542803,805.185748.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=776&end=806](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=776&end=806)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Developer diaries?](../transcriptions/yt-Dtm6xIj-wM4,1872.81796,1925.453116.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926)
 * [Q&A: How did you come up with the name?](../transcriptions/yt-Dtm6xIj-wM4,2840.698964,2949.0666666666666.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950)

@@ -75,6 +75,9 @@ date: Last Modified
 * [Q&A: Microtranscation DLC?](../../../transcriptions/yt-ithVAX7EptE.md) [https://www.youtube.com/watch?v=ithVAX7EptE](https://www.youtube.com/watch?v=ithVAX7EptE)
 * [Q&A: Will there be DLC after 1.0?](../../../transcriptions/yt-FHqvzjGbhvg.md) [https://www.youtube.com/watch?v=FHqvzjGbhvg](https://www.youtube.com/watch?v=FHqvzjGbhvg)
 
+## February 20th, 2019 Livestream
+* [Q&A: What about Snow in the game's future?](../../../transcriptions/yt-CB9bSigNYH8,5186.033333333334,5200.942785.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Any DLCs planned?](../../../transcriptions/yt-Dtm6xIj-wM4,1429.8333333333333,1437.887831.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1429&end=1438](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1429&end=1438)
 * [Q&A: Are there going to be free updates after the game is released, or is it all going to be DLCs?](../../../transcriptions/yt-Dtm6xIj-wM4,1550.571925,1573.58823.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574)

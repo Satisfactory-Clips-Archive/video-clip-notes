@@ -2,7 +2,7 @@
 title: "Foundations"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Buildables > Foundations
+# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 
 ## February 23rd, 2021 Livestream
 * [Q&A: Will Foundations be falling down from non-supported beams?](../../../transcriptions/yt-lxpA6PIJEbo.md) [https://www.youtube.com/watch?v=lxpA6PIJEbo](https://www.youtube.com/watch?v=lxpA6PIJEbo)

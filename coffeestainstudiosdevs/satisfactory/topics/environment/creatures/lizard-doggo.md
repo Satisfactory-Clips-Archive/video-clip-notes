@@ -75,6 +75,9 @@ date: Last Modified
 * [Jace Talk: Petting the Lizard Doggo](../../../transcriptions/yt-1ZxQ9RoC930.md) [https://www.youtube.com/watch?v=1ZxQ9RoC930](https://www.youtube.com/watch?v=1ZxQ9RoC930)
 * [Q&A: Where is Lizard Doggo?](../../../transcriptions/yt-bB6SOIoAYg4.md) [https://www.youtube.com/watch?v=bB6SOIoAYg4](https://www.youtube.com/watch?v=bB6SOIoAYg4)
 
+## February 20th, 2019 Livestream
+* [Q&A: Can you have your own pet in the game?](../../../transcriptions/yt-CB9bSigNYH8,5050.579615,5056.929969.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5050&end=5057](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5050&end=5057)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Any plans for harnessing wildlife for your base, using Lizard Doggos as pack animals?](../../../transcriptions/yt-Dtm6xIj-wM4,3545.070455,3610.872363.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3545&end=3611](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3545&end=3611)
 * [Q&A: You mentioned enemies earlier but now you say there'll be nothing to worry about?](../../../transcriptions/yt-Dtm6xIj-wM4,2685.5,2726.329682.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727)

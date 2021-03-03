@@ -14,3 +14,6 @@ date: Last Modified
 
 ## November 10th, 2020 Livestream
 * [Q&A: You need to add some Christmas and Halloween stuff](../../transcriptions/yt-ZTHtVU1twTY.md) [https://www.youtube.com/watch?v=ZTHtVU1twTY](https://www.youtube.com/watch?v=ZTHtVU1twTY)
+
+## February 20th, 2019 Livestream
+* [Q&A: Will there be christmas/new year events or something like that when the game is finished?](../../transcriptions/yt-CB9bSigNYH8,5291.710206,5304.230151.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5291&end=5305](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5291&end=5305)

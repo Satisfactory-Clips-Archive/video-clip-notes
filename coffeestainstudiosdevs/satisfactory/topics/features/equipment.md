@@ -54,5 +54,8 @@ date: Last Modified
 * [Q&A: Quick keys for tools?](../../transcriptions/yt-MUBE6tb7AjQ.md) [https://www.youtube.com/watch?v=MUBE6tb7AjQ](https://www.youtube.com/watch?v=MUBE6tb7AjQ)
 * [Q&A: There is no way to hotkey items?](../../transcriptions/yt-KmX7CoVGPA0.md) [https://www.youtube.com/watch?v=KmX7CoVGPA0](https://www.youtube.com/watch?v=KmX7CoVGPA0)
 
+## February 20th, 2019 Livestream
+* [Q&A: Will the night cycle be dark so you need lights?](../../transcriptions/yt-CB9bSigNYH8,5390.335913,5404.05357.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5390&end=5405](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5390&end=5405)
+
 ## August 1st, 2018 Livestream
 * [Q&A: Is there research or a tech tree in the game?](../../transcriptions/yt-iFAy1NZUOGU,147.92,170.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171)

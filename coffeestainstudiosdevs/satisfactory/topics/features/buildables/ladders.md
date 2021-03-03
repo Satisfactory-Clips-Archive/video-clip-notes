@@ -2,7 +2,7 @@
 title: "Ladders"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Buildables > Ladders
+# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Ladders
 
 ## February 23rd, 2021 Livestream
 * [Q&A: Can you press shift to go down the Ladder faster?](../../../transcriptions/yt-WKMxQyq9JaM.md) [https://www.youtube.com/watch?v=WKMxQyq9JaM](https://www.youtube.com/watch?v=WKMxQyq9JaM)

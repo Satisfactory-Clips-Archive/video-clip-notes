@@ -117,6 +117,11 @@ date: Last Modified
 * [Snutt, Simon, Jace Talk: Laughing in the office](../../transcriptions/yt-X5P9-9npJIQ.md) [https://www.youtube.com/watch?v=X5P9-9npJIQ](https://www.youtube.com/watch?v=X5P9-9npJIQ)
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) [https://www.youtube.com/watch?v=2tTlAAZMBPw](https://www.youtube.com/watch?v=2tTlAAZMBPw)
 
+## February 20th, 2019 Livestream
+* [Q&A: This fountain has Jace's hair?](../../transcriptions/yt-CB9bSigNYH8,3232.115343,3238.673381.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239)
+* [Q&A: What are the red dome things?](../../transcriptions/yt-CB9bSigNYH8,5109.490199,5126.785633.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5109&end=5127](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5109&end=5127)
+* [Q&A: Will enemies have Jace's hair?](../../transcriptions/yt-CB9bSigNYH8,3208.601002,3215.171287.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Developer diaries?](../../transcriptions/yt-Dtm6xIj-wM4,1872.81796,1925.453116.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926)
 * [Q&A: How did you come up with the name?](../../transcriptions/yt-Dtm6xIj-wM4,2840.698964,2949.0666666666666.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950)

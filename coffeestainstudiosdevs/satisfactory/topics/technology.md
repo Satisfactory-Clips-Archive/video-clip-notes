@@ -37,6 +37,12 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Will we ever have proper multi-core support?](../transcriptions/yt-08PQFXaEac8.md) [https://www.youtube.com/watch?v=08PQFXaEac8](https://www.youtube.com/watch?v=08PQFXaEac8)
 
+## February 20th, 2019 Livestream
+* [Q&A: Requirements so far?](../transcriptions/yt-CB9bSigNYH8,2909.614069,2937.959243.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2909&end=2938](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2909&end=2938)
+* [Q&A: SpeedTree / ZBrush?](../transcriptions/yt-CB9bSigNYH8,608,622.612484.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=608&end=623](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=608&end=623)
+* [Q&A: Substance Painter?](../transcriptions/yt-CB9bSigNYH8,643.534867,664.534724.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=643&end=665](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=643&end=665)
+* [Q&A: What version control software does Coffee Stain use?](../transcriptions/yt-CB9bSigNYH8,5103.592539,5106.64023.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5103&end=5107](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5103&end=5107)
+
 ## February 6th, 2019 Livestream
 * [Q&A: How big can you make your factory?](../transcriptions/yt-Dtm6xIj-wM4,2023.082962,2168.340922.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2023&end=2169](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2023&end=2169)
 * [Q&A: What do you make your models/textures with?](../transcriptions/yt-Dtm6xIj-wM4,1687.9666666666667,1705.396807.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1687&end=1706](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1687&end=1706)

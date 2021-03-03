@@ -679,13 +679,14 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 5 other times, as recently as February 2021 and as early as September 2020.</summary>
+<summary>This question may have been asked previously at least 6 other times, as recently as February 2021 and as early as February 2019.</summary>
 
 * [February 16th, 2021 Livestream Q&A: How big is the development team?](./transcriptions/yt--iZbaVL7D0g.md) [https://www.youtube.com/watch?v=-iZbaVL7D0g](https://www.youtube.com/watch?v=-iZbaVL7D0g)
 * [November 17th, 2020 Livestream Q&A: How many developers are working on Satisfactory?](./transcriptions/yt-ihx35AYNx5s.md) [https://www.youtube.com/watch?v=ihx35AYNx5s](https://www.youtube.com/watch?v=ihx35AYNx5s)
 * [October 20th, 2020 Livestream Q&A: How large is the development team?](./transcriptions/yt-tKcRdw1BEp4.md) [https://www.youtube.com/watch?v=tKcRdw1BEp4](https://www.youtube.com/watch?v=tKcRdw1BEp4)
 * [September 29th, 2020 Livestream Q&A: How big is the Dev Team?](./transcriptions/yt-H9x0HyRXNTE.md) [https://www.youtube.com/watch?v=H9x0HyRXNTE](https://www.youtube.com/watch?v=H9x0HyRXNTE)
 * [September 15th, 2020 Livestream Q&A: How many Devs are working on the Game approximately?](./transcriptions/yt-cqz8zcpP2og.md) [https://www.youtube.com/watch?v=cqz8zcpP2og](https://www.youtube.com/watch?v=cqz8zcpP2og)
+* [February 20th, 2019 Livestream Q&A: How many people are there in the studio?](./transcriptions/yt-CB9bSigNYH8,808.45003,837.796486.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838)
 </details>
 
 ### [Q&A: How much after the things you've teased is left?](./transcriptions/yt-XNsN_3Kjlqs.md) [https://www.youtube.com/watch?v=XNsN_3Kjlqs](https://www.youtube.com/watch?v=XNsN_3Kjlqs)
@@ -957,13 +958,14 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 6 other times, as recently as February 2021 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 7 other times, as recently as February 2021 and as early as February 2019.</summary>
 
 * [February 16th, 2021 Livestream Q&A: Do you guys plan on any space stations or building amongst multi planets?](./transcriptions/yt-OJ8LnojSUzo.md) [https://www.youtube.com/watch?v=OJ8LnojSUzo](https://www.youtube.com/watch?v=OJ8LnojSUzo)
 * [February 9th, 2021 Livestream Q&A: Are there going to be other planets in the game?](./transcriptions/yt-Xg0nkRNXaIk.md) [https://www.youtube.com/watch?v=Xg0nkRNXaIk](https://www.youtube.com/watch?v=Xg0nkRNXaIk)
 * August 25th, 2020 Livestream Q&A: Will there be a rocket to leave the planet? [https://clips.twitch.tv/BusyPowerfulWombatSoonerLater](https://clips.twitch.tv/BusyPowerfulWombatSoonerLater)
 * [May 19th, 2020 Livestream Q&A: Planet has floating rocks, is not bound by Earth physics?](./transcriptions/yt-jXwIeLGuSvI.md) [https://www.youtube.com/watch?v=jXwIeLGuSvI](https://www.youtube.com/watch?v=jXwIeLGuSvI)
 * [March 9th, 2019 Livestream Q&A: Will the game expand into space or will it stay on the ground?](./transcriptions/yt-Ea0f72zZshQ.md) [https://www.youtube.com/watch?v=Ea0f72zZshQ](https://www.youtube.com/watch?v=Ea0f72zZshQ)
+* [February 20th, 2019 Livestream Q&A: Can you travel to other planets?](./transcriptions/yt-CB9bSigNYH8,1305.6,1313.344125.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314)
 * [February 6th, 2019 Livestream Q&A: Will there be outer space & galaxies?](./transcriptions/yt-Dtm6xIj-wM4,2836.733333333333,2840.698964.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841)
 </details>
 
@@ -1723,7 +1725,7 @@ that.
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 11 other times, as recently as February 2021 and as early as June 2018.</summary>
+<summary>This question may have been asked previously at least 12 other times, as recently as February 2021 and as early as June 2018.</summary>
 
 * [February 9th, 2021 Livestream Q&A: Why not have self generated maps?](./transcriptions/yt-hKIm2mk5AhM.md) [https://www.youtube.com/watch?v=hKIm2mk5AhM](https://www.youtube.com/watch?v=hKIm2mk5AhM)
 * [November 24th, 2020 Livestream Q&A: Procedural generation of the World?](./transcriptions/yt-q6tkuGjM4zY.md) [https://www.youtube.com/watch?v=q6tkuGjM4zY](https://www.youtube.com/watch?v=q6tkuGjM4zY)
@@ -1735,6 +1737,7 @@ that.
 * August 11th, 2020 Livestream Q&A: Randomly Generated Maps: [https://clips.twitch.tv/OilyBloodyMangoFutureMan](https://clips.twitch.tv/OilyBloodyMangoFutureMan)
 * [March 9th, 2019 Livestream Q&A: Another game mode with a procedurally generated world?](./transcriptions/yt-GZlK2fIlYVk.md) [https://www.youtube.com/watch?v=GZlK2fIlYVk](https://www.youtube.com/watch?v=GZlK2fIlYVk)
 * [March 9th, 2019 Livestream Q&A: The map is pre-made, not procedurally generated?](./transcriptions/yt-229Wl8AMQx8.md) [https://www.youtube.com/watch?v=229Wl8AMQx8](https://www.youtube.com/watch?v=229Wl8AMQx8)
+* [February 20th, 2019 Livestream Q&A: Is the World procedurally generated?](./transcriptions/yt-CB9bSigNYH8,3150.343797,3165.212187.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166)
 * [June 22nd, 2018 Livestream Q&A: Is the Map procedurally generated?](./transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
 </details>
 
@@ -1841,13 +1844,14 @@ that.
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 6 other times, as recently as November 2020 and as early as August 2018.</summary>
+<summary>This question may have been asked previously at least 7 other times, as recently as November 2020 and as early as August 2018.</summary>
 
 * [November 17th, 2020 Livestream Q&A: Any plans on Weather cycles?](./transcriptions/yt--QpGRQcZfe0.md) [https://www.youtube.com/watch?v=-QpGRQcZfe0](https://www.youtube.com/watch?v=-QpGRQcZfe0)
 * [November 10th, 2020 Livestream Q&A: Can we get Weather to change?](./transcriptions/yt-iq-K9FY-RT8.md) [https://www.youtube.com/watch?v=iq-K9FY-RT8](https://www.youtube.com/watch?v=iq-K9FY-RT8)
 * [November 10th, 2020 Livestream Q&A: Will we have Weather events?](./transcriptions/yt-MzWzCnmbkYI.md) [https://www.youtube.com/watch?v=MzWzCnmbkYI](https://www.youtube.com/watch?v=MzWzCnmbkYI)
 * [September 22nd, 2020 Livestream Q&A: Weather in Satisfactory?](./transcriptions/yt-Sxvg881RjeA.md) [https://www.youtube.com/watch?v=Sxvg881RjeA](https://www.youtube.com/watch?v=Sxvg881RjeA)
 * [September 8th, 2020 Livestream Q&A: Do we intend to add rain/storms ?](./transcriptions/yt-3WDeVbpr30g.md) [https://www.youtube.com/watch?v=3WDeVbpr30g](https://www.youtube.com/watch?v=3WDeVbpr30g)
+* [February 20th, 2019 Livestream Q&A: Weather confirmed?](./transcriptions/yt-CB9bSigNYH8,5234.485233,5238.267007.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
 * [August 1st, 2018 Livestream Q&A: Is there Weather in the game?](./transcriptions/yt-iFAy1NZUOGU,58.6,60.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
 </details>
 
@@ -1875,7 +1879,7 @@ that.
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 10 other times, as recently as February 2021 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 11 other times, as recently as February 2021 and as early as February 2019.</summary>
 
 * [February 16th, 2021 Livestream Q&A: When is 1.0 coming?](./transcriptions/yt-IPQfi2Gv4Zc.md) [https://www.youtube.com/watch?v=IPQfi2Gv4Zc](https://www.youtube.com/watch?v=IPQfi2Gv4Zc)
 * [February 2nd, 2021 Livestream Q&A: Out of Early Access?](./transcriptions/yt-y51YDVf8VOI.md) [https://www.youtube.com/watch?v=y51YDVf8VOI](https://www.youtube.com/watch?v=y51YDVf8VOI)
@@ -1885,6 +1889,7 @@ that.
 * [September 15th, 2020 Livestream Q&A: Full Release, 2021?](./transcriptions/yt-9Um_UtQI8yE.md) [https://www.youtube.com/watch?v=9Um_UtQI8yE](https://www.youtube.com/watch?v=9Um_UtQI8yE)
 * [August 25th, 2020 Livestream Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](./transcriptions/yt--AjFbGOOAQI.md) [https://www.youtube.com/watch?v=-AjFbGOOAQI](https://www.youtube.com/watch?v=-AjFbGOOAQI)
 * [March 9th, 2019 Livestream Q&A: When is the official release?](./transcriptions/yt-H0HcDZTv_ts.md) [https://www.youtube.com/watch?v=H0HcDZTv_ts](https://www.youtube.com/watch?v=H0HcDZTv_ts)
+* [February 20th, 2019 Livestream Q&A: Release date?](./transcriptions/yt-CB9bSigNYH8,4250.630211,4256.657128.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257)
 * [February 6th, 2019 Livestream Q&A: Any timeline on when the end game will be released?](./transcriptions/yt-Dtm6xIj-wM4,3487.8333333333335,3508.867162.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509)
 * [February 6th, 2019 Livestream Q&A: Release date?](./transcriptions/yt-Dtm6xIj-wM4,280.42817,354.60912.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355)
 </details>
@@ -1911,10 +1916,11 @@ that.
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 2 other times, as recently as October 2020 and as early as September 2020.</summary>
+<summary>This question may have been asked previously at least 3 other times, as recently as October 2020 and as early as February 2019.</summary>
 
 * October 9th, 2020 Livestream Q&A: What language is Satisfactory programmed in? [https://www.youtube.com/watch?v=Bczgrpei-oQ](https://www.youtube.com/watch?v=Bczgrpei-oQ)
 * [September 8th, 2020 Livestream Q&A: Are you using Blueprints or C++?](./transcriptions/yt-z7fe-_3-Al4.md) [https://www.youtube.com/watch?v=z7fe-_3-Al4](https://www.youtube.com/watch?v=z7fe-_3-Al4)
+* [February 20th, 2019 Livestream Q&A: What Engine?](./transcriptions/yt-CB9bSigNYH8,692.002303,698.226859.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699)
 </details>
 
 ### [Q&A: When is Satisfactory going to be on Mac?](./transcriptions/yt-VTSAUKoarIw.md) [https://www.youtube.com/watch?v=VTSAUKoarIw](https://www.youtube.com/watch?v=VTSAUKoarIw)
@@ -4017,10 +4023,11 @@ that.
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 2 other times, as recently as August 2020 and as early as December 2019.</summary>
+<summary>This question may have been asked previously at least 3 other times, as recently as August 2020 and as early as February 2019.</summary>
 
 * [August 25th, 2020 Livestream Q&A: Underwater biome when?](./transcriptions/yt-pKZc4ciFu6Q.md) [https://www.youtube.com/watch?v=pKZc4ciFu6Q](https://www.youtube.com/watch?v=pKZc4ciFu6Q)
 * [December 19th, 2019 Livestream Q&A: Underwater Worlds?](./transcriptions/yt-QXK9y3pnWGg.md) [https://www.youtube.com/watch?v=QXK9y3pnWGg](https://www.youtube.com/watch?v=QXK9y3pnWGg)
+* [February 20th, 2019 Livestream Q&A: Underwater gameplay?](./transcriptions/yt-CB9bSigNYH8,374.51402,385.67962.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=374&end=386](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=374&end=386)
 </details>
 
 ### [Q&A: Will there be ways to see your total production per minute?](./transcriptions/yt-tHzH3dkTZ4s.md) [https://www.youtube.com/watch?v=tHzH3dkTZ4s](https://www.youtube.com/watch?v=tHzH3dkTZ4s)
@@ -4267,11 +4274,12 @@ that.
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 4 other times, as recently as December 2020 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 5 other times, as recently as December 2020 and as early as February 2019.</summary>
 
 * [December 15th, 2020 Livestream Q&A: Are you hiring new devs?](./transcriptions/yt-KO7cDlkMYxM.md) [https://www.youtube.com/watch?v=KO7cDlkMYxM](https://www.youtube.com/watch?v=KO7cDlkMYxM)
 * [December 8th, 2020 Livestream Q&A: Are Coffee Stain looking for Unreal Engine programmers - do you hire remotely?](./transcriptions/yt-sI7zMjVad1c.md) [https://www.youtube.com/watch?v=sI7zMjVad1c](https://www.youtube.com/watch?v=sI7zMjVad1c)
 * [March 24th, 2020 Livestream Q&A: You have several job openings right now?](./transcriptions/yt-lqRP7DsUVes.md) [https://www.youtube.com/watch?v=lqRP7DsUVes](https://www.youtube.com/watch?v=lqRP7DsUVes)
+* [February 20th, 2019 Livestream Q&A: Where do you apply?](./transcriptions/yt-CB9bSigNYH8,3825.28082,3844.546451.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3825&end=3845](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3825&end=3845)
 * [February 6th, 2019 Livestream Q&A: Job Opportunities?](./transcriptions/yt-Dtm6xIj-wM4,567.312526,585.24344.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=567&end=586](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=567&end=586)
 </details>
 
@@ -4340,12 +4348,13 @@ that.
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 4 other times, as recently as November 2020 and as early as December 2019.</summary>
+<summary>This question may have been asked previously at least 5 other times, as recently as November 2020 and as early as February 2019.</summary>
 
 * [November 10th, 2020 Livestream Q&A: Any Easter Eggs nobody's found yet?](./transcriptions/yt-6z70mPmDc5g.md) [https://www.youtube.com/watch?v=6z70mPmDc5g](https://www.youtube.com/watch?v=6z70mPmDc5g)
 * [August 25th, 2020 Livestream Q&A: We need some more Easter Egg hints from Hannah?](./transcriptions/yt-faI65v9Solc.md) [https://www.youtube.com/watch?v=faI65v9Solc](https://www.youtube.com/watch?v=faI65v9Solc)
 * [August 25th, 2020 Livestream Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode?](./transcriptions/yt-7EM97GvjRGY.md) [https://www.youtube.com/watch?v=7EM97GvjRGY](https://www.youtube.com/watch?v=7EM97GvjRGY)
 * [December 19th, 2019 Livestream Q&A: Are there any Easter Eggs in the landscape?](./transcriptions/yt-06YaY3zGZeg.md) [https://www.youtube.com/watch?v=06YaY3zGZeg](https://www.youtube.com/watch?v=06YaY3zGZeg)
+* [February 20th, 2019 Livestream Q&A: Are you going to make Easter Eggs?](./transcriptions/yt-CB9bSigNYH8,5128.56594,5136.281677.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5128&end=5137](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5128&end=5137)
 </details>
 
 ### [Q&A: Can dismantle mode have an ignore function maybe?](./transcriptions/yt-0KLJ2_1P_uk.md) [https://www.youtube.com/watch?v=0KLJ2_1P_uk](https://www.youtube.com/watch?v=0KLJ2_1P_uk)
@@ -4566,7 +4575,7 @@ that.
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 7 other times, as recently as November 2020 and as early as June 2018.</summary>
+<summary>This question may have been asked previously at least 8 other times, as recently as November 2020 and as early as June 2018.</summary>
 
 * [November 17th, 2020 Livestream Q&A: Is there any Official Mod Support planned?](./transcriptions/yt-z4Uv-UNMETw.md) [https://www.youtube.com/watch?v=z4Uv-UNMETw](https://www.youtube.com/watch?v=z4Uv-UNMETw)
 * [November 3rd, 2020 Livestream Q&A: Any idea about Official Modding?](./transcriptions/yt-D5-Y6LYR7jk.md) [https://www.youtube.com/watch?v=D5-Y6LYR7jk](https://www.youtube.com/watch?v=D5-Y6LYR7jk)
@@ -4574,6 +4583,7 @@ that.
 * [August 25th, 2020 Livestream Q&A: Plans for mod support?](./transcriptions/yt-iOk7KMpNMEo.md) [https://www.youtube.com/watch?v=iOk7KMpNMEo](https://www.youtube.com/watch?v=iOk7KMpNMEo)
 * [February 11th, 2020 Livestream Q&A: Where's Mod support?](./transcriptions/yt-JRyAZT7y44g.md) [https://www.youtube.com/watch?v=JRyAZT7y44g](https://www.youtube.com/watch?v=JRyAZT7y44g)
 * [March 9th, 2019 Livestream Q&A: What do you think about future Mod support?](./transcriptions/yt-6-uSzpX-zZ0.md) [https://www.youtube.com/watch?v=6-uSzpX-zZ0](https://www.youtube.com/watch?v=6-uSzpX-zZ0)
+* [February 20th, 2019 Livestream Q&A: Mod Support?](./transcriptions/yt-CB9bSigNYH8,3390.447786,3418.942904.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3390&end=3419](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3390&end=3419)
 * [June 22nd, 2018 Livestream Q&A: Will there be mods?](./transcriptions/yt-W1E6EWrAsII,91.24,120.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121)
 </details>
 
@@ -4605,10 +4615,11 @@ that.
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 3 other times, as recently as November 2020 and as early as May 2020.</summary>
+<summary>This question may have been asked previously at least 4 other times, as recently as November 2020 and as early as May 2020.</summary>
 
 * [November 17th, 2020 Livestream Q&A: Is the Engineer human at least?](./transcriptions/yt-z7QqNzK8OMU.md) [https://www.youtube.com/watch?v=z7QqNzK8OMU](https://www.youtube.com/watch?v=z7QqNzK8OMU)
 * [November 10th, 2020 Livestream Q&A: Does the Pioneer have any lore or is she just a random worker person?](./transcriptions/yt-0V_fsSPIEHA.md) [https://www.youtube.com/watch?v=0V_fsSPIEHA](https://www.youtube.com/watch?v=0V_fsSPIEHA)
+* [October 13th, 2020 Livestream Q&A: Is the Pioneer a human?](./transcriptions/yt-I0al2jSp_Rk.md) [https://www.youtube.com/watch?v=I0al2jSp_Rk](https://www.youtube.com/watch?v=I0al2jSp_Rk)
 * [May 19th, 2020 Livestream Q&A: What's the name of the Player Character?](./transcriptions/yt-pNTCYMAibe8.md) [https://www.youtube.com/watch?v=pNTCYMAibe8](https://www.youtube.com/watch?v=pNTCYMAibe8)
 </details>
 
@@ -4727,13 +4738,14 @@ that.
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 7 other times, as recently as August 2020 and as early as August 2018.</summary>
+<summary>This question may have been asked previously at least 8 other times, as recently as August 2020 and as early as August 2018.</summary>
 
 * [August 25th, 2020 Livestream Q&A: Terraforming?](./transcriptions/yt-B5cAjdFTltY.md) [https://www.youtube.com/watch?v=B5cAjdFTltY](https://www.youtube.com/watch?v=B5cAjdFTltY)
 * August 18th, 2020 Livestream Q&A: Terraforming? [https://clips.twitch.tv/AmericanSpineyWitchTinyFace](https://clips.twitch.tv/AmericanSpineyWitchTinyFace)
 * [December 19th, 2019 Livestream Q&A: Can we deform the terrain?](./transcriptions/yt-UDguGGIxs3c.md) [https://www.youtube.com/watch?v=UDguGGIxs3c](https://www.youtube.com/watch?v=UDguGGIxs3c)
 * [March 9th, 2019 Livestream Q&A: Are you going to add the ability to raise/lower parts of the landscape?](./transcriptions/yt-AEd2Rt5VDfk.md) [https://www.youtube.com/watch?v=AEd2Rt5VDfk](https://www.youtube.com/watch?v=AEd2Rt5VDfk)
 * [March 9th, 2019 Livestream Q&A: Are you guys planning to add any terraforming or digging?](./transcriptions/yt-DW0MT8G-wMI.md) [https://www.youtube.com/watch?v=DW0MT8G-wMI](https://www.youtube.com/watch?v=DW0MT8G-wMI)
+* [February 20th, 2019 Livestream Q&A: Can we deform terrain?](./transcriptions/yt-CB9bSigNYH8,5141.221945,5152.209084.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5141&end=5153](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5141&end=5153)
 * [February 6th, 2019 Livestream Q&A: Terraforming?](./transcriptions/yt-Dtm6xIj-wM4,979.016429,1016.088881.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=979&end=1017](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=979&end=1017)
 * [August 1st, 2018 Livestream Q&A: Will there be landscape deformation or Terraforming?](./transcriptions/yt-iFAy1NZUOGU,62.6,66.08.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67)
 </details>
@@ -5228,6 +5240,48 @@ that.
 
 * [September 8th, 2020 Livestream Q&A: Should I remove all nature to improve FPS?](./transcriptions/yt-t-FNpaJUBcE.md) [https://www.youtube.com/watch?v=t-FNpaJUBcE](https://www.youtube.com/watch?v=t-FNpaJUBcE)
 * [August 25th, 2020 Livestream Q&A: Removing vegetation speeds up the game, yes or no ?](./transcriptions/yt-GgoQS6sOADQ.md) [https://www.youtube.com/watch?v=GgoQS6sOADQ](https://www.youtube.com/watch?v=GgoQS6sOADQ)
+</details>
+
+### [Q&A: How come so many Dutch developers?](./transcriptions/yt-iV-D3TFuaIU.md) [https://www.youtube.com/watch?v=iV-D3TFuaIU](https://www.youtube.com/watch?v=iV-D3TFuaIU)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> how come so many dutch developers yeah
+>
+> we have a lot of dutch people
+>
+> yeah yeah where how many are we
+>
+> like 30 or 35 or something yeah or
+>
+> something like that
+>
+> and there's like how many
+>
+> hundred people seven dutch people um
+>
+> no yeah it's like some five i thought it
+>
+> was like five or six or maybe
+>
+> i can't count yeah that's why i'm okay
+>
+> they all look the same yeah
+>
+> all right anyway moving on so uh
+>
+> yeah so do you want to talk a little bit
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as June 2020 and as early as February 2019.</summary>
+
+* [June 8th, 2020 Livestream Q&A: Are there any Dutch people in Coffee Stain?](./transcriptions/yt-ZhrRG351PsI.md) [https://www.youtube.com/watch?v=ZhrRG351PsI](https://www.youtube.com/watch?v=ZhrRG351PsI)
+* [February 20th, 2019 Livestream Q&A: How many Dutch people at Coffee Stain?](./transcriptions/yt-CB9bSigNYH8,427.46666666666664,437.20508.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438)
 </details>
 
 ### [Q&A: Thoughts on making end-game point or goal?](./transcriptions/yt-hhckg5vm5_w.md) [https://www.youtube.com/watch?v=hhckg5vm5_w](https://www.youtube.com/watch?v=hhckg5vm5_w)
@@ -5860,13 +5914,15 @@ that.
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 6 other times, as recently as September 2020 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 8 other times, as recently as September 2020 and as early as February 2019.</summary>
 
 * [September 15th, 2020 Livestream Q&A: Will there be a Map Editor?](./transcriptions/yt-MYno60AbSGk.md) [https://www.youtube.com/watch?v=MYno60AbSGk](https://www.youtube.com/watch?v=MYno60AbSGk)
 * [September 8th, 2020 Livestream Q&A: Time to invest in Map Modding?](./transcriptions/yt-a5PSHoSuXec.md) [https://www.youtube.com/watch?v=a5PSHoSuXec](https://www.youtube.com/watch?v=a5PSHoSuXec)
 * [August 25th, 2020 Livestream Q&A: Plans for a Map Editor?](./transcriptions/yt-vvRPYyc7sb8.md) [https://www.youtube.com/watch?v=vvRPYyc7sb8](https://www.youtube.com/watch?v=vvRPYyc7sb8)
 * August 18th, 2020 Livestream Q&A: Will you be able to create your own map? [https://clips.twitch.tv/ChillyRockyWalrusUnSane](https://clips.twitch.tv/ChillyRockyWalrusUnSane)
 * August 11th, 2020 Livestream Q&A: Do you plan to release a World Editor? [https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank](https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank)
+* [February 20th, 2019 Livestream Q&A: Will the players be able to make their own Maps?](./transcriptions/yt-CB9bSigNYH8,5159.481807,5167.186143.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168)
+* [February 20th, 2019 Livestream Q&A: Will you be able to use the Map Editor?](./transcriptions/yt-CB9bSigNYH8,536.959135,560.135106.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=536&end=561](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=536&end=561)
 * [February 6th, 2019 Livestream Q&A: So if Mods are confirmed, how about Mods for creating Maps- will that happen?](./transcriptions/yt-Dtm6xIj-wM4,1334.740485,1399.146207.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1334&end=1400](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1334&end=1400)
 </details>
 

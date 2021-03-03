@@ -158,6 +158,9 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: Do you want to support more than 4 people?](../../transcriptions/yt-wb5HY05QX9I.md) [https://www.youtube.com/watch?v=wb5HY05QX9I](https://www.youtube.com/watch?v=wb5HY05QX9I)
 
+## February 20th, 2019 Livestream
+* [Q&A: Will co-op be available from the start in Early Access?](../../transcriptions/yt-CB9bSigNYH8,5436.988277,5448.739181.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5436&end=5449](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5436&end=5449)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Are there any difficulty adjustments when playing Multiplayer?](../../transcriptions/yt-Dtm6xIj-wM4,1786.2333333333333,1834.645233.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1786&end=1835](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1786&end=1835)
 * [Q&A: Does the game use any lock step- any concern for desync across a large map?](../../transcriptions/yt-Dtm6xIj-wM4,1669.29091,1687.97075.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1669&end=1688](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1669&end=1688)

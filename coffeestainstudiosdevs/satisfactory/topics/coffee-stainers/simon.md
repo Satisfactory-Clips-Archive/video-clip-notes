@@ -45,6 +45,14 @@ date: Last Modified
 * [Snutt Talk: the most important part of the HUB](../../transcriptions/yt-DwdNTp6z1a4.md) [https://www.youtube.com/watch?v=DwdNTp6z1a4](https://www.youtube.com/watch?v=DwdNTp6z1a4)
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) [https://www.youtube.com/watch?v=2tTlAAZMBPw](https://www.youtube.com/watch?v=2tTlAAZMBPw)
 
+## February 20th, 2019 Livestream
+* [Simon says: Can I go to the bathroom?](../../transcriptions/yt-CB9bSigNYH8,5017.8,5049.442939.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5017&end=5050](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5017&end=5050)
+* [Q&A: Does Simon work in the basement in a cage?](../../transcriptions/yt-CB9bSigNYH8,3241.081332,3247.056294.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3241&end=3248](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3241&end=3248)
+* [Hannah Talk: Please don't reward Simon for scaring me](../../transcriptions/yt-CB9bSigNYH8,1062.901046,1071.158032.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1062&end=1072](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1062&end=1072)
+* [Hannah Talk: Try not to anger Simon too much](../../transcriptions/yt-CB9bSigNYH8,627.22452,643.534867.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=627&end=644](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=627&end=644)
+* [Q&A: What are the red dome things?](../../transcriptions/yt-CB9bSigNYH8,5109.490199,5126.785633.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5109&end=5127](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5109&end=5127)
+* [Q&A: What does Simon do?](../../transcriptions/yt-CB9bSigNYH8,1190.626477,1203.37129.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1190&end=1204](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1190&end=1204)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Can you do a mass-key release of 50000 if Lord Simon allows it?](../../transcriptions/yt-Dtm6xIj-wM4,3333.678121,3433.002272.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3333&end=3434](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3333&end=3434)
 * [Q&A: Is Simon going to be the last Boss?](../../transcriptions/yt-Dtm6xIj-wM4,2009.5,2017.005329.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018)

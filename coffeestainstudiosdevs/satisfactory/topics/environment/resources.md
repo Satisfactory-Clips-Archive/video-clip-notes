@@ -5,6 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Resources
 * [Mercer Sphere](../../topics/environment/resources/mercer-sphere.md)
 * [Oil](../../topics/environment/resources/oil.md)
+* [Power Slug](../../topics/environment/resources/power-slug.md)
 * [S.A.M. Ore](../../topics/environment/resources/sam-ore.md)
 * [Somersloop](../../topics/environment/resources/somersloop.md)
 * [Steel](../../topics/environment/resources/steel.md)
@@ -78,6 +79,9 @@ date: Last Modified
 * [Q&A: Collect Fart Gas for fuel?](../../transcriptions/yt-O5R_YmTmXUI.md) [https://www.youtube.com/watch?v=O5R_YmTmXUI](https://www.youtube.com/watch?v=O5R_YmTmXUI)
 * [Snutt Talk: Inpure Resource Nodes](../../transcriptions/yt--OHmfKyBPA4.md) [https://www.youtube.com/watch?v=-OHmfKyBPA4](https://www.youtube.com/watch?v=-OHmfKyBPA4)
 * [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../transcriptions/yt-YwhXtnyk8YE.md) [https://www.youtube.com/watch?v=YwhXtnyk8YE](https://www.youtube.com/watch?v=YwhXtnyk8YE)
+
+## February 20th, 2019 Livestream
+* [Q&A: Do different Biomes contain different Resources?](../../transcriptions/yt-CB9bSigNYH8,501.647011,524.513606.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=501&end=525](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=501&end=525)
 
 ## February 6th, 2019 Livestream
 * [Q&A: How many items exist?](../../transcriptions/yt-Dtm6xIj-wM4,3200.183129,3219.325619.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3200&end=3220](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3200&end=3220)

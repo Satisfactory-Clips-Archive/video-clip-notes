@@ -9,7 +9,7 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Is the Pioneer a human?
 https://www.youtube.com/watch?v=I0al2jSp_Rk
-This question was possibly duplicated with a more recent answer: [November 17th, 2020 Livestream Q&A: Is the Engineer human at least?](./yt-z7QqNzK8OMU.md) [https://www.youtube.com/watch?v=z7QqNzK8OMU](https://www.youtube.com/watch?v=z7QqNzK8OMU)
+This question was possibly duplicated with a more recent answer: [December 8th, 2020 Livestream Q&A: Is there any info/lore on the player character?](./yt-7W32eD2pZOM.md) [https://www.youtube.com/watch?v=7W32eD2pZOM](https://www.youtube.com/watch?v=7W32eD2pZOM)
 
 
 ### Topics

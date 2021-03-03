@@ -44,3 +44,7 @@ date: Last Modified
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Are there plans to put the OST on Spotify?](../transcriptions/yt-z4cypywhIks.md) [https://www.youtube.com/watch?v=z4cypywhIks](https://www.youtube.com/watch?v=z4cypywhIks)
+
+## February 20th, 2019 Livestream
+* [Q&A: How many music tracks are there in the game?](../transcriptions/yt-CB9bSigNYH8,3335.4333333333334,3346.242026.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3335&end=3347](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3335&end=3347)
+* [Community FYI: Yo Hannah, the map looks a m a z i n g](../transcriptions/yt-CB9bSigNYH8,2614.932671,2630.888348.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2614&end=2631](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2614&end=2631)

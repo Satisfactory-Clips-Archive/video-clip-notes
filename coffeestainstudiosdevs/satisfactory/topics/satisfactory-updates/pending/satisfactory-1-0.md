@@ -112,6 +112,10 @@ date: Last Modified
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../../../transcriptions/yt-Pn5tcfKmF20.md) [https://www.youtube.com/watch?v=Pn5tcfKmF20](https://www.youtube.com/watch?v=Pn5tcfKmF20)
 * [Q&A: When is the official release?](../../../transcriptions/yt-H0HcDZTv_ts.md) [https://www.youtube.com/watch?v=H0HcDZTv_ts](https://www.youtube.com/watch?v=H0HcDZTv_ts)
 
+## February 20th, 2019 Livestream
+* [Q&A: How long is the game going to be from start to finish?](../../../transcriptions/yt-CB9bSigNYH8,4999.8,5012.820008.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4999&end=5013](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4999&end=5013)
+* [Q&A: Release date?](../../../transcriptions/yt-CB9bSigNYH8,4250.630211,4256.657128.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Any timeline on when the end game will be released?](../../../transcriptions/yt-Dtm6xIj-wM4,3487.8333333333335,3508.867162.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509)
 * [Q&A: Are there going to be free updates after the game is released, or is it all going to be DLCs?](../../../transcriptions/yt-Dtm6xIj-wM4,1550.571925,1573.58823.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574)

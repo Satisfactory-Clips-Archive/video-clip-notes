@@ -2,7 +2,7 @@
 title: "Storage Containers"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Buildables > Storage Containers
+# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
 ## February 23rd, 2021 Livestream
 * [Q&A: Being able to pick up the orange Storage boxes and move them would be nice?](../../../transcriptions/yt-2r7-Vfzg2FM.md) [https://www.youtube.com/watch?v=2r7-Vfzg2FM](https://www.youtube.com/watch?v=2r7-Vfzg2FM)

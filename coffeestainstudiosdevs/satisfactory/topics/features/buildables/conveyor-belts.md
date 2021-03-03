@@ -2,7 +2,7 @@
 title: "Conveyor Belts"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Buildables > Conveyor Belts
+# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
 ## February 16th, 2021 Livestream
 * [Q&A: Are the Belts going to be rebalanced?](../../../transcriptions/yt-9d5aym3IkTg.md) [https://www.youtube.com/watch?v=9d5aym3IkTg](https://www.youtube.com/watch?v=9d5aym3IkTg)
@@ -93,6 +93,9 @@ date: Last Modified
 * [Snutt Talk: Storage Containers](../../../transcriptions/yt-oQfZtyxDIrE.md) [https://www.youtube.com/watch?v=oQfZtyxDIrE](https://www.youtube.com/watch?v=oQfZtyxDIrE)
 * [Q&A: What the heck is a Conveyor Belt Lift?](../../../transcriptions/yt-egkjxaDluQI.md) [https://www.youtube.com/watch?v=egkjxaDluQI](https://www.youtube.com/watch?v=egkjxaDluQI)
 * [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) [https://www.youtube.com/watch?v=YwhXtnyk8YE](https://www.youtube.com/watch?v=YwhXtnyk8YE)
+
+## February 20th, 2019 Livestream
+* [Q&A: Will water affect items on the belts?](../../../transcriptions/yt-CB9bSigNYH8,1955.775013,1966.289331.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1955&end=1967](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1955&end=1967)
 
 ## February 6th, 2019 Livestream
 * [Q&A: Any plans for bots or other means of transport other than Belts & Trains?](../../../transcriptions/yt-Dtm6xIj-wM4,1016.1,1052.477074.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1016&end=1053](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1016&end=1053)

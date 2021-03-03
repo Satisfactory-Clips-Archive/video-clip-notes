@@ -93,3 +93,6 @@ date: Last Modified
 * [Snutt Talk: Player death without the HUB being built.](../../../transcriptions/yt-hCPIVr5mlFQ.md) [https://www.youtube.com/watch?v=hCPIVr5mlFQ](https://www.youtube.com/watch?v=hCPIVr5mlFQ)
 * [Snutt Talk: the most important part of the HUB](../../../transcriptions/yt-DwdNTp6z1a4.md) [https://www.youtube.com/watch?v=DwdNTp6z1a4](https://www.youtube.com/watch?v=DwdNTp6z1a4)
 * [Q&A: Why does the rocket pod fly away for 1 - 10 minutes and then come back?](../../../transcriptions/yt-PtrLYyfhnvQ.md) [https://www.youtube.com/watch?v=PtrLYyfhnvQ](https://www.youtube.com/watch?v=PtrLYyfhnvQ)
+
+## February 20th, 2019 Livestream
+* [Q&A: What's the rocket gonna look like inside & outside?](../../../transcriptions/yt-CB9bSigNYH8,2796.809704,2806.025515.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2796&end=2807](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2796&end=2807)

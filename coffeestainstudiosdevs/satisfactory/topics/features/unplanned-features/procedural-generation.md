@@ -42,5 +42,10 @@ date: Last Modified
 * [Q&A: The map is pre-made, not procedurally generated?](../../../transcriptions/yt-229Wl8AMQx8.md) [https://www.youtube.com/watch?v=229Wl8AMQx8](https://www.youtube.com/watch?v=229Wl8AMQx8)
 * [Snutt & Jace Talk: Verticality & top-down views, procedural generation](../../../transcriptions/yt-mvkDIjW-NDs.md) [https://www.youtube.com/watch?v=mvkDIjW-NDs](https://www.youtube.com/watch?v=mvkDIjW-NDs)
 
+## February 20th, 2019 Livestream
+* [Q&A: Is the World procedurally generated?](../../../transcriptions/yt-CB9bSigNYH8,3150.343797,3165.212187.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166)
+* [Q&A: Why did you choose manual level creation instead of procedural?](../../../transcriptions/yt-CB9bSigNYH8,1613.3666666666666,1641.774875.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1613&end=1642](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1613&end=1642)
+* [Q&A: Why is the world not randomly generated?](../../../transcriptions/yt-CB9bSigNYH8,3445.663578,3480.212684.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3445&end=3481](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3445&end=3481)
+
 ## June 22nd, 2018 Livestream
 * [Q&A: Is the Map procedurally generated?](../../../transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)

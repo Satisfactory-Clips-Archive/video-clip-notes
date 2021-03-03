@@ -55,5 +55,15 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: Can chainsaw kill the Fart Flower?](../../transcriptions/yt-q07kHsvi3CU.md) [https://www.youtube.com/watch?v=q07kHsvi3CU](https://www.youtube.com/watch?v=q07kHsvi3CU)
 
+## February 20th, 2019 Livestream
+* [Q&A: Do different Biomes contain different Resources?](../../transcriptions/yt-CB9bSigNYH8,501.647011,524.513606.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=501&end=525](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=501&end=525)
+* [Q&A: Do you have orange plants to put in the cave?](../../transcriptions/yt-CB9bSigNYH8,1821.817506,1835.82202.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1821&end=1836](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1821&end=1836)
+* [Q&A: How do trees grow in caves?](../../transcriptions/yt-CB9bSigNYH8,4340.648917,4349.006868.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4340&end=4350](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4340&end=4350)
+* [Hannah Talk: Level Design Stream (Part 2)](../../transcriptions/yt-CB9bSigNYH8,439.256018,501.647011.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=439&end=502](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=439&end=502)
+* [Hannah Talk: Level Design Stream (Part 5)](../../transcriptions/yt-CB9bSigNYH8,2027.05571,2326.9.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2027&end=2327](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2027&end=2327)
+* [Hannah Talk: Level Design Stream (Part 6)](../../transcriptions/yt-CB9bSigNYH8,3090.973157,3125.355289.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3090&end=3126](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3090&end=3126)
+* [Hannah Talk: Level Design Stream (Part 7)](../../transcriptions/yt-CB9bSigNYH8,4600.866666666667,4629.566666666667.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4600&end=4630](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4600&end=4630)
+* [Q&A: Why are there roots in the desert?](../../transcriptions/yt-CB9bSigNYH8,1149.9,1160.079568.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1149&end=1161](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1149&end=1161)
+
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164)

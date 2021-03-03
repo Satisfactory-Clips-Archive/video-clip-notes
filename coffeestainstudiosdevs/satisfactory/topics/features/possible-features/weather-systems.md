@@ -38,5 +38,9 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * Q&A: When are the Wind Turbines that Jace leaked coming? [https://www.youtube.com/watch?v=nRMTYlLqiSc](https://www.youtube.com/watch?v=nRMTYlLqiSc)
 
+## February 20th, 2019 Livestream
+* [Q&A: Weather confirmed?](../../../transcriptions/yt-CB9bSigNYH8,5234.485233,5238.267007.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
+* [Q&A: Will there be seasons?](../../../transcriptions/yt-CB9bSigNYH8,5450.593416,5454.661311.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5450&end=5455](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5450&end=5455)
+
 ## August 1st, 2018 Livestream
 * [Q&A: Is there Weather in the game?](../../../transcriptions/yt-iFAy1NZUOGU,58.6,60.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
