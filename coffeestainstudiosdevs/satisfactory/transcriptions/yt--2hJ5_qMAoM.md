@@ -32,11 +32,7 @@ https://www.youtube.com/watch?v=-2hJ5_qMAoM
 >
 > Simon: Oh!
 >
-> Jace: like this feels like more kind of like fantasyish
->
-> and then the landscape even looks that way
->
-> like the- the... the pathways and stuff-
+> Jace: like this feels like more kind of like fantasyish and then the landscape even looks that way like the- the... the pathways and stuff-
 >
 > Snutt: Yeah.
 >
@@ -44,6 +40,4 @@ https://www.youtube.com/watch?v=-2hJ5_qMAoM
 >
 > Snutt: Yeah.
 >
-> Jace: it's so beautiful.
->
-> Ha- that's Hannah and Gustav's- they did that.
+> Jace: it's so beautiful. Ha- that's Hannah and Gustav's- they did that.
