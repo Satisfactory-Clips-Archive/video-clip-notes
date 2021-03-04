@@ -29,16 +29,10 @@ https://www.youtube.com/watch?v=bzqL0DGULFM
 
 ### Transcript
 
-> Jace: Any more music tracks coming? I think there's going to be more music-
->
-> wait... I think there is new  music in the Update 4- is there?
+> Jace: Any more music tracks coming? I think there's going to be more music- wait... I think there is new  music in the Update 4- is there?
 >
 > Snutt: Yeah, I answered that before-
 >
 > Jace: Yeah yeah yeah.
 >
-> Snutt: there's new music planned but I don't know-
->
-> I don't think it's going to drop for Update 4...
->
-> pretty sure it's not going to drop for Update 4 it's going to be later.
+> Snutt: there's new music planned but I don't know- I don't think it's going to drop for Update 4... pretty sure it's not going to drop for Update 4 it's going to be later.
