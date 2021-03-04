@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Do you have any plans to add Ray Tracing or DLSS?
 https://www.youtube.com/watch?v=hRzZjCBoI8s
-This question was possibly replaced with a more recent answer: [February 16th, 2021 Livestream Q&A: When does Satisfactory get DLSS 2.0, since it was open to other games?](./yt-z4088brm0rg.md) [https://www.youtube.com/watch?v=z4088brm0rg](https://www.youtube.com/watch?v=z4088brm0rg)
+This question was possibly replaced with a more recent answer: [March 2nd, 2021 Livestream Q&A: With the Nvidia DLSS plugin released for Unreal Engine 4.26, any thoughts on upgrading to that?](./yt-vRPycwAPQHI.md) [https://www.youtube.com/watch?v=vRPycwAPQHI](https://www.youtube.com/watch?v=vRPycwAPQHI)
 
 <details>
 <summary>This question may have been asked previously at least 11 other times, as recently as January 2021 and as early as September 2020.</summary>

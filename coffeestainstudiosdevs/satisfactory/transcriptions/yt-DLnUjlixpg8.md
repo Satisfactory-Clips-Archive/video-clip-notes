@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is there more than 5 enemies in?
 https://www.youtube.com/watch?v=DLnUjlixpg8
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any future combat or enemy updates to come?](./yt-MS3_LOEapI4.md) [https://www.youtube.com/watch?v=MS3_LOEapI4](https://www.youtube.com/watch?v=MS3_LOEapI4)
+This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Any new Animals?](./yt-c5EEG5MrTF0.md) [https://www.youtube.com/watch?v=c5EEG5MrTF0](https://www.youtube.com/watch?v=c5EEG5MrTF0)
 
 
 ### Topics

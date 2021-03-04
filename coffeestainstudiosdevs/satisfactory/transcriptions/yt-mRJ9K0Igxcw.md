@@ -9,6 +9,12 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Can you juggle? (Part 2)
 https://www.youtube.com/watch?v=mRJ9K0Igxcw
+<details>
+<summary>This video is a continuation of a previous video</summary>
+
+* [March 2nd, 2021 Livestream Q&A: Can you juggle? (Part 1)](./yt-DL2uQG36Mak.md) [https://www.youtube.com/watch?v=DL2uQG36Mak](https://www.youtube.com/watch?v=DL2uQG36Mak)
+</details>
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

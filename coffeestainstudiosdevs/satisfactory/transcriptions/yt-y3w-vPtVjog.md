@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Signs for Hypertube Entrances?
 https://www.youtube.com/watch?v=y3w-vPtVjog
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Will there be signs in future updates?](./yt--t832FeMogU.md) [https://www.youtube.com/watch?v=-t832FeMogU](https://www.youtube.com/watch?v=-t832FeMogU)
+This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Will there be signs in Update 4?](./yt-8BmHQuMW_L8.md) [https://www.youtube.com/watch?v=8BmHQuMW_L8](https://www.youtube.com/watch?v=8BmHQuMW_L8)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will there be more Creatures, even more dangerous ones?
 https://www.youtube.com/watch?v=T0jbE_WjQJQ
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any future combat or enemy updates to come?](./yt-MS3_LOEapI4.md) [https://www.youtube.com/watch?v=MS3_LOEapI4](https://www.youtube.com/watch?v=MS3_LOEapI4)
+This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Any new Animals?](./yt-c5EEG5MrTF0.md) [https://www.youtube.com/watch?v=c5EEG5MrTF0](https://www.youtube.com/watch?v=c5EEG5MrTF0)
 
 
 ### Topics

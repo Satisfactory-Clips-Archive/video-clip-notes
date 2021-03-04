@@ -8,6 +8,8 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Will you two handle the community / streams of Valheim too?
 https://www.youtube.com/watch?v=icZwPeonyD8
+This question was possibly duplicated with a more recent answer: March 2nd, 2021 Livestream Q&A: Are you Community Management with Valheim too? [https://www.youtube.com/watch?v=o30d8md11vo](https://www.youtube.com/watch?v=o30d8md11vo)
+
 
 ### Topics
 * [Off-Topic > Valheim](../topics/off-topic/valheim.md)

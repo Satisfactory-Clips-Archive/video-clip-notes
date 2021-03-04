@@ -9,7 +9,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will alternative recipes change with Update 4?
 https://www.youtube.com/watch?v=mwrYWPHr4jk
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Are there going to be more recipes- not new item recipes but more recipes for old items?](./yt-oojAhgClrl0.md) [https://www.youtube.com/watch?v=oojAhgClrl0](https://www.youtube.com/watch?v=oojAhgClrl0)
+This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Will the new Update affect Alternate Recipes?](./yt-AXoRnwF1P9E.md) [https://www.youtube.com/watch?v=AXoRnwF1P9E](https://www.youtube.com/watch?v=AXoRnwF1P9E)
 
 
 ### Topics

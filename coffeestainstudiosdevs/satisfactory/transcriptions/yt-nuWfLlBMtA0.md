@@ -9,6 +9,8 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Are we going to have new stuff in the AWESOME Shop for Update 4?
 https://www.youtube.com/watch?v=nuWfLlBMtA0
+This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Any updates to the AWESOME Store?](./yt-G-aFnOtVYTw.md) [https://www.youtube.com/watch?v=G-aFnOtVYTw](https://www.youtube.com/watch?v=G-aFnOtVYTw)
+
 
 ### Topics
 * [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)

@@ -9,6 +9,12 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## State of Dev: Still in Content Freeze (Part 1)
 https://www.youtube.com/watch?v=9wsiaonRlQY
+<details>
+<summary>This video continues in another video</summary>
+
+* [March 2nd, 2021 Livestream State of Dev: Still in Content Freeze (Part 2)](./yt-PuOKy_IkROw.md) [https://www.youtube.com/watch?v=PuOKy_IkROw](https://www.youtube.com/watch?v=PuOKy_IkROw)
+</details>
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)

@@ -8,6 +8,8 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Do you have any involvement in the development of Valheim?
 https://www.youtube.com/watch?v=TP73cnwmX4g
+This question was possibly duplicated with a more recent answer: March 2nd, 2021 Livestream Q&A: Are you Community Management with Valheim too? [https://www.youtube.com/watch?v=o30d8md11vo](https://www.youtube.com/watch?v=o30d8md11vo)
+
 
 ### Topics
 * [Off-Topic > Valheim](../topics/off-topic/valheim.md)

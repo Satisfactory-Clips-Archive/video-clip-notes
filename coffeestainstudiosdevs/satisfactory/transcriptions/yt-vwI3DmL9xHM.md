@@ -8,6 +8,8 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Any chance on making a tutorial on optimal graphics settings for performance?
 https://www.youtube.com/watch?v=vwI3DmL9xHM
+This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Will there be a Satisfactory benchmark you can compare settings with?](./yt-NA6C7snDkTw.md) [https://www.youtube.com/watch?v=NA6C7snDkTw](https://www.youtube.com/watch?v=NA6C7snDkTw)
+
 
 ### Topics
 * [Technology > Graphics](../topics/technology/graphics.md)

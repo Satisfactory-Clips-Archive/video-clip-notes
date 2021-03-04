@@ -12,7 +12,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: When are these Work In Progress (WIP) items going to be used?
 https://www.youtube.com/watch?v=bmRdzV3-wJI
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: When will all the collectables like Mercer Spheres be implemented?](./yt-1_qy-PSFKO8.md) [https://www.youtube.com/watch?v=1_qy-PSFKO8](https://www.youtube.com/watch?v=1_qy-PSFKO8)
+This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Will Somersloops & Mercer Spheres finally have a use?](./yt-6CNL-nsOGUw.md) [https://www.youtube.com/watch?v=6CNL-nsOGUw](https://www.youtube.com/watch?v=6CNL-nsOGUw)
 
 
 ### Topics

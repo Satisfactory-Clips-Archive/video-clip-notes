@@ -10,7 +10,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Will Mercer Spheres and Somersloops be useful soon?
 https://www.youtube.com/watch?v=SYWPIjbe_4Y
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: When will all the collectables like Mercer Spheres be implemented?](./yt-1_qy-PSFKO8.md) [https://www.youtube.com/watch?v=1_qy-PSFKO8](https://www.youtube.com/watch?v=1_qy-PSFKO8)
+This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Will Somersloops & Mercer Spheres finally have a use?](./yt-6CNL-nsOGUw.md) [https://www.youtube.com/watch?v=6CNL-nsOGUw](https://www.youtube.com/watch?v=6CNL-nsOGUw)
 
 
 ### Topics

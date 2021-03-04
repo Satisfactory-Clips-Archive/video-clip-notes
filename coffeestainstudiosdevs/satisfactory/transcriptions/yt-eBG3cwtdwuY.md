@@ -8,6 +8,13 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Coffee Mug?
 https://www.youtube.com/watch?v=eBG3cwtdwuY
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as February 2021.</summary>
+
+* [February 16th, 2021 Livestream Q&A: Where's the mug?](./yt-lABA3NfAMXw.md) [https://www.youtube.com/watch?v=lABA3NfAMXw](https://www.youtube.com/watch?v=lABA3NfAMXw)
+* [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./yt-bQnAGoo8jQA.md) [https://www.youtube.com/watch?v=bQnAGoo8jQA](https://www.youtube.com/watch?v=bQnAGoo8jQA)
+</details>
+
 
 ### Topics
 * [Merch](../topics/merch.md)

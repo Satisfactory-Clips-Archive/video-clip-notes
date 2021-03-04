@@ -10,7 +10,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Is Snow/Ice coming?
 https://www.youtube.com/watch?v=s8HISCrP7w8
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Can we please get a Snow Biome?](./yt-QHVdhswD13w.md) [https://www.youtube.com/watch?v=QHVdhswD13w](https://www.youtube.com/watch?v=QHVdhswD13w)
+This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Is there a winter zone?](./yt-QgS9flDgvZk.md) [https://www.youtube.com/watch?v=QgS9flDgvZk](https://www.youtube.com/watch?v=QgS9flDgvZk)
 
 
 ### Topics
