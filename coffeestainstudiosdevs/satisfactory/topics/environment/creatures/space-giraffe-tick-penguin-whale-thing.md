@@ -14,7 +14,7 @@ date: Last Modified
 * [Q&A: Please make the Walking Bean stop clipping?](../../../transcriptions/yt-wTbRzvQ8ZLY.md) [https://www.youtube.com/watch?v=wTbRzvQ8ZLY](https://www.youtube.com/watch?v=wTbRzvQ8ZLY)
 
 ## May 19th, 2020 Livestream
-* Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing [https://www.youtube.com/watch?v=HU5CtNK3rds](https://www.youtube.com/watch?v=HU5CtNK3rds)
+* [Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing](../../../transcriptions/yt-HU5CtNK3rds.md) [https://www.youtube.com/watch?v=HU5CtNK3rds](https://www.youtube.com/watch?v=HU5CtNK3rds)
 
 ## March 9th, 2019 Livestream
 * [Snutt, Simon, & Jace Talk: Space Potato](../../../transcriptions/yt-OAIUIEgtCxU.md) [https://www.youtube.com/watch?v=OAIUIEgtCxU](https://www.youtube.com/watch?v=OAIUIEgtCxU)

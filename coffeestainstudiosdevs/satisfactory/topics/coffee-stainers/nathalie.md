@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Nathalie
 
 ## January 26th, 2021 Livestream
-* State of Dev: User Interface changes [https://www.youtube.com/watch?v=XGNTN8I4PL0](https://www.youtube.com/watch?v=XGNTN8I4PL0)
+* [State of Dev: User Interface changes](../../transcriptions/yt-XGNTN8I4PL0.md) [https://www.youtube.com/watch?v=XGNTN8I4PL0](https://www.youtube.com/watch?v=XGNTN8I4PL0)
 
 ## December 8th, 2020 Livestream
 * [Jace Talk: Nathalie](../../transcriptions/yt-AmdGZXxyt6Y.md) [https://www.youtube.com/watch?v=AmdGZXxyt6Y](https://www.youtube.com/watch?v=AmdGZXxyt6Y)

@@ -58,7 +58,7 @@ date: Last Modified
 * Q&A: Lizard Doggo Plushies [https://clips.twitch.tv/TolerantPunchyNewtJKanStyle](https://clips.twitch.tv/TolerantPunchyNewtJKanStyle)
 
 ## May 19th, 2020 Livestream
-* Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing [https://www.youtube.com/watch?v=HU5CtNK3rds](https://www.youtube.com/watch?v=HU5CtNK3rds)
+* [Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing](../../../transcriptions/yt-HU5CtNK3rds.md) [https://www.youtube.com/watch?v=HU5CtNK3rds](https://www.youtube.com/watch?v=HU5CtNK3rds)
 
 ## March 24th, 2020 Livestream
 * [Q&A: Blizzard Doggos in winter Update?](../../../transcriptions/yt-95geu_0m8ls.md) [https://www.youtube.com/watch?v=95geu_0m8ls](https://www.youtube.com/watch?v=95geu_0m8ls)

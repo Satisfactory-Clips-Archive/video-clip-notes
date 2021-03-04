@@ -76,7 +76,7 @@ date: Last Modified
 * [Snutt & Jace Talk: We can finally talk about Update 3](../../../transcriptions/yt-sThTLaqNsts.md) [https://www.youtube.com/watch?v=sThTLaqNsts](https://www.youtube.com/watch?v=sThTLaqNsts)
 
 ## January 22nd, 2020 Livestream
-* Q&A: What's the joke with Pipes, why do people want them? [https://www.youtube.com/watch?v=LWyO9jzxduo](https://www.youtube.com/watch?v=LWyO9jzxduo)
+* [Q&A: What's the joke with Pipes, why do people want them?](../../../transcriptions/yt-LWyO9jzxduo.md) [https://www.youtube.com/watch?v=LWyO9jzxduo](https://www.youtube.com/watch?v=LWyO9jzxduo)
 
 ## December 19th, 2019 Livestream
 * [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../../transcriptions/yt-krQI-cHEAl8.md) [https://www.youtube.com/watch?v=krQI-cHEAl8](https://www.youtube.com/watch?v=krQI-cHEAl8)

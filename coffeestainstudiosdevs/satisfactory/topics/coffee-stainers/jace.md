@@ -64,7 +64,7 @@ date: Last Modified
 
 ## January 12th, 2021 Livestream
 * [Q&A: What kind of oven does Jace have?](../../transcriptions/yt-47XUYwkEE-0.md) [https://www.youtube.com/watch?v=47XUYwkEE-0](https://www.youtube.com/watch?v=47XUYwkEE-0)
-* Q&A: When will Coffee Stain get Jace a pizza oven? [https://www.youtube.com/watch?v=LRsn8Qz3fms](https://www.youtube.com/watch?v=LRsn8Qz3fms)
+* [Q&A: When will Coffee Stain get Jace a pizza oven?](../../transcriptions/yt-LRsn8Qz3fms.md) [https://www.youtube.com/watch?v=LRsn8Qz3fms](https://www.youtube.com/watch?v=LRsn8Qz3fms)
 
 ## December 15th, 2020 Livestream
 * [Snutt Talk: Jace is a dedicated boi](../../transcriptions/yt-Lx8cCt-jNJQ.md) [https://www.youtube.com/watch?v=Lx8cCt-jNJQ](https://www.youtube.com/watch?v=Lx8cCt-jNJQ)

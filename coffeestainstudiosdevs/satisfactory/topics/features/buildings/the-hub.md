@@ -81,7 +81,7 @@ date: Last Modified
 * [Q&A: Will there be a cosy place for the Pioneer to live in?](../../../transcriptions/yt-F0Lu47hMTD8.md) [https://www.youtube.com/watch?v=F0Lu47hMTD8](https://www.youtube.com/watch?v=F0Lu47hMTD8)
 
 ## May 19th, 2020 Livestream
-* Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing [https://www.youtube.com/watch?v=HU5CtNK3rds](https://www.youtube.com/watch?v=HU5CtNK3rds)
+* [Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing](../../../transcriptions/yt-HU5CtNK3rds.md) [https://www.youtube.com/watch?v=HU5CtNK3rds](https://www.youtube.com/watch?v=HU5CtNK3rds)
 
 ## December 19th, 2019 Livestream
 * [Q&A: Is there going to be a central computer plant where you can check the whole production?](../../../transcriptions/yt-Zlq2K0-z0_8.md) [https://www.youtube.com/watch?v=Zlq2K0-z0_8](https://www.youtube.com/watch?v=Zlq2K0-z0_8)

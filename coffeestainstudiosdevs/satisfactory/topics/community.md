@@ -113,7 +113,7 @@ date: Last Modified
 * [Q&A: Is this the new Desert Biome?](../transcriptions/yt-ZKHgWByn3D4.md) [https://www.youtube.com/watch?v=ZKHgWByn3D4](https://www.youtube.com/watch?v=ZKHgWByn3D4)
 * [Jace Talk: Regretting mention Pipes on the Update 3 Launch stream](../transcriptions/yt-GHbZplfp7Jc.md) [https://www.youtube.com/watch?v=GHbZplfp7Jc](https://www.youtube.com/watch?v=GHbZplfp7Jc)
 * [Snutt & Jace Talk: Semlor (Part 1)](../transcriptions/yt-gHxHTyslv7Q.md) [https://www.youtube.com/watch?v=gHxHTyslv7Q](https://www.youtube.com/watch?v=gHxHTyslv7Q)
-* Snutt & Jace Talk: Update 3 Launch Stream [https://www.youtube.com/watch?v=omrl422pdJQ](https://www.youtube.com/watch?v=omrl422pdJQ)
+* [Snutt & Jace Talk: Update 3 Launch Stream](../transcriptions/yt-omrl422pdJQ.md) [https://www.youtube.com/watch?v=omrl422pdJQ](https://www.youtube.com/watch?v=omrl422pdJQ)
 
 ## January 22nd, 2020 Livestream
 * [Snutt Talk: Clip stuff, it makes our life a lot easier](../transcriptions/yt-hOrDM-9lNQo.md) [https://www.youtube.com/watch?v=hOrDM-9lNQo](https://www.youtube.com/watch?v=hOrDM-9lNQo)

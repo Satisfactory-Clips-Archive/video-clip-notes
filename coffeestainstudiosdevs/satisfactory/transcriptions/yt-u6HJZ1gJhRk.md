@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=u6HJZ1gJhRk
 <summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as January 2020.</summary>
 
 * [November 10th, 2020 Livestream Q&A: Will existing Mods work with new build?](./yt-bBrB9Qeb1hk.md) [https://www.youtube.com/watch?v=bBrB9Qeb1hk](https://www.youtube.com/watch?v=bBrB9Qeb1hk)
-* January 22nd, 2020 Livestream Q&A: Will Mods work correctly after the Update? [https://www.youtube.com/watch?v=qf6QTYIHDaQ](https://www.youtube.com/watch?v=qf6QTYIHDaQ)
+* [January 22nd, 2020 Livestream Q&A: Will Mods work correctly after the Update?](./yt-qf6QTYIHDaQ.md) [https://www.youtube.com/watch?v=qf6QTYIHDaQ](https://www.youtube.com/watch?v=qf6QTYIHDaQ)
 </details>
 
 

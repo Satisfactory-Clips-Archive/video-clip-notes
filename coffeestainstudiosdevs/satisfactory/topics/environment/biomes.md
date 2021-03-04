@@ -49,7 +49,7 @@ date: Last Modified
 * [Q&A: Is this the new Desert Biome?](../../transcriptions/yt-ZKHgWByn3D4.md) [https://www.youtube.com/watch?v=ZKHgWByn3D4](https://www.youtube.com/watch?v=ZKHgWByn3D4)
 
 ## March 9th, 2019 Livestream
-* Jace Talk: fantasyish Biome [https://www.youtube.com/watch?v=-2hJ5_qMAoM](https://www.youtube.com/watch?v=-2hJ5_qMAoM)
+* [Jace Talk: fantasyish Biome](../../transcriptions/yt--2hJ5_qMAoM.md) [https://www.youtube.com/watch?v=-2hJ5_qMAoM](https://www.youtube.com/watch?v=-2hJ5_qMAoM)
 * [Q&A: How many biomes are in game?](../../transcriptions/yt-ouDTfnrZDKo.md) [https://www.youtube.com/watch?v=ouDTfnrZDKo](https://www.youtube.com/watch?v=ouDTfnrZDKo)
 * [Q&A: Is the Desert Biome available in the beta?](../../transcriptions/yt-JMQotRaN9Bs.md) [https://www.youtube.com/watch?v=JMQotRaN9Bs](https://www.youtube.com/watch?v=JMQotRaN9Bs)
 * Snutt, Simon, & Jace Talk: Unfinished areas/Biomes [https://www.youtube.com/watch?v=Un45veTgPk8](https://www.youtube.com/watch?v=Un45veTgPk8)

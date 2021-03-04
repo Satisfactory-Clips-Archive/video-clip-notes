@@ -146,7 +146,7 @@ date: Last Modified
 * Q&A: How many Updates do you have planned before 1.0? [https://www.youtube.com/watch?v=7t2DLBi7kl8](https://www.youtube.com/watch?v=7t2DLBi7kl8)
 * [Q&A: News for the Work In Progress collectables for anything in Update 4?](../../../transcriptions/yt-5vlFsF0dm3E.md) [https://www.youtube.com/watch?v=5vlFsF0dm3E](https://www.youtube.com/watch?v=5vlFsF0dm3E)
 * [Q&A: New teaser this thursday/friday?](../../../transcriptions/yt-yqYVuPOQIWc.md) [https://www.youtube.com/watch?v=yqYVuPOQIWc](https://www.youtube.com/watch?v=yqYVuPOQIWc)
-* Snutt & Jace Talk: Potential change to User Interface [https://www.youtube.com/watch?v=GsGsIQ1FleQ](https://www.youtube.com/watch?v=GsGsIQ1FleQ)
+* [Snutt & Jace Talk: Potential change to User Interface](../../../transcriptions/yt-GsGsIQ1FleQ.md) [https://www.youtube.com/watch?v=GsGsIQ1FleQ](https://www.youtube.com/watch?v=GsGsIQ1FleQ)
 * State of Dev: Update 4 [https://www.youtube.com/watch?v=HjMEFo3mt_s](https://www.youtube.com/watch?v=HjMEFo3mt_s)
 * [Q&A: Update 4 estimate?](../../../transcriptions/yt-R-GjcKzww6Y.md) [https://www.youtube.com/watch?v=R-GjcKzww6Y](https://www.youtube.com/watch?v=R-GjcKzww6Y)
 * [State of Dev: Update 4 release date](../../../transcriptions/yt-scIACwZmTgE.md) [https://www.youtube.com/watch?v=scIACwZmTgE](https://www.youtube.com/watch?v=scIACwZmTgE)

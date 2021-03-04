@@ -23,7 +23,7 @@ date: Last Modified
 
 ## January 26th, 2021 Livestream
 * [Q&A: Plush?](../transcriptions/yt-svSLbvLwSxQ.md) [https://www.youtube.com/watch?v=svSLbvLwSxQ](https://www.youtube.com/watch?v=svSLbvLwSxQ)
-* Q&A: When can we buy the Mug? [https://www.youtube.com/watch?v=r6-zAmp9tgo](https://www.youtube.com/watch?v=r6-zAmp9tgo)
+* [Q&A: When can we buy the Mug?](../transcriptions/yt-r6-zAmp9tgo.md) [https://www.youtube.com/watch?v=r6-zAmp9tgo](https://www.youtube.com/watch?v=r6-zAmp9tgo)
 * [Q&A: Whose idea was the Coffee Cup anyway?](../transcriptions/yt-JiqZXOgj8WA.md) [https://www.youtube.com/watch?v=JiqZXOgj8WA](https://www.youtube.com/watch?v=JiqZXOgj8WA)
 * [Q&A: You can't find a place to make a Cup?](../transcriptions/yt-F90s1pV1WWY.md) [https://www.youtube.com/watch?v=F90s1pV1WWY](https://www.youtube.com/watch?v=F90s1pV1WWY)
 

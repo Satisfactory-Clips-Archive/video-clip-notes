@@ -31,7 +31,7 @@ date: Last Modified
 ## January 26th, 2021 Livestream
 * State of Dev: Update 4 [https://www.youtube.com/watch?v=HjMEFo3mt_s](https://www.youtube.com/watch?v=HjMEFo3mt_s)
 * [State of Dev: Update 4 release date](../../transcriptions/yt-scIACwZmTgE.md) [https://www.youtube.com/watch?v=scIACwZmTgE](https://www.youtube.com/watch?v=scIACwZmTgE)
-* State of Dev: User Interface changes [https://www.youtube.com/watch?v=XGNTN8I4PL0](https://www.youtube.com/watch?v=XGNTN8I4PL0)
+* [State of Dev: User Interface changes](../../transcriptions/yt-XGNTN8I4PL0.md) [https://www.youtube.com/watch?v=XGNTN8I4PL0](https://www.youtube.com/watch?v=XGNTN8I4PL0)
 * [State of Dev: Video Release Schedule](../../transcriptions/yt-K-L2cEZmj4c.md) [https://www.youtube.com/watch?v=K-L2cEZmj4c](https://www.youtube.com/watch?v=K-L2cEZmj4c)
 
 ## January 19th, 2021 Livestream
@@ -43,7 +43,7 @@ date: Last Modified
 * [State of Dev: Coffee Stain new office (Part 1)](../../transcriptions/yt-htoUHZbvu1A.md) [https://www.youtube.com/watch?v=htoUHZbvu1A](https://www.youtube.com/watch?v=htoUHZbvu1A)
 * [State of Dev: Coffee Stain new office (Part 2)](../../transcriptions/yt-yU3v4BNnUPU.md) [https://www.youtube.com/watch?v=yU3v4BNnUPU](https://www.youtube.com/watch?v=yU3v4BNnUPU)
 * [State of Dev: Mug Merch](../../transcriptions/yt-sDMER4xm8Gc.md) [https://www.youtube.com/watch?v=sDMER4xm8Gc](https://www.youtube.com/watch?v=sDMER4xm8Gc)
-* State of Dev - FICS⁕MAS [https://www.youtube.com/watch?v=dnkH1mqdCKI](https://www.youtube.com/watch?v=dnkH1mqdCKI)
+* [State of Dev - FICS⁕MAS](../../transcriptions/yt-dnkH1mqdCKI.md) [https://www.youtube.com/watch?v=dnkH1mqdCKI](https://www.youtube.com/watch?v=dnkH1mqdCKI)
 * [State of Dev - The Blender™](../../transcriptions/yt-XBt0OWqSRPA.md) [https://www.youtube.com/watch?v=XBt0OWqSRPA](https://www.youtube.com/watch?v=XBt0OWqSRPA)
 * [State of Dev - Unreal Engine Update](../../transcriptions/yt-DNmmfH4tJSA.md) [https://www.youtube.com/watch?v=DNmmfH4tJSA](https://www.youtube.com/watch?v=DNmmfH4tJSA)
 

@@ -43,8 +43,8 @@ date: Last Modified
 * [Q&A: Any thoughts on letting you have a planning tool mode?](../../transcriptions/yt-MFCmy7atLDk.md) [https://www.youtube.com/watch?v=MFCmy7atLDk](https://www.youtube.com/watch?v=MFCmy7atLDk)
 * [Q&A: Can add a basic non-interactive local Map from the start?](../../transcriptions/yt-9h4HwEuF2_U.md) [https://www.youtube.com/watch?v=9h4HwEuF2_U](https://www.youtube.com/watch?v=9h4HwEuF2_U)
 * [Q&A: Do you ever plan on implementing to move things instead of having to demolish?](../../transcriptions/yt-cuWHom8yZ-g.md) [https://www.youtube.com/watch?v=cuWHom8yZ-g](https://www.youtube.com/watch?v=cuWHom8yZ-g)
-* Snutt & Jace Talk: Potential change to User Interface [https://www.youtube.com/watch?v=GsGsIQ1FleQ](https://www.youtube.com/watch?v=GsGsIQ1FleQ)
-* State of Dev: User Interface changes [https://www.youtube.com/watch?v=XGNTN8I4PL0](https://www.youtube.com/watch?v=XGNTN8I4PL0)
+* [Snutt & Jace Talk: Potential change to User Interface](../../transcriptions/yt-GsGsIQ1FleQ.md) [https://www.youtube.com/watch?v=GsGsIQ1FleQ](https://www.youtube.com/watch?v=GsGsIQ1FleQ)
+* [State of Dev: User Interface changes](../../transcriptions/yt-XGNTN8I4PL0.md) [https://www.youtube.com/watch?v=XGNTN8I4PL0](https://www.youtube.com/watch?v=XGNTN8I4PL0)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Any plans for alternate Conveyor Belt layout modes, like how Pipes have multiple layout modes?](../../transcriptions/yt-N8GQDbxeYkE.md) [https://www.youtube.com/watch?v=N8GQDbxeYkE](https://www.youtube.com/watch?v=N8GQDbxeYkE)

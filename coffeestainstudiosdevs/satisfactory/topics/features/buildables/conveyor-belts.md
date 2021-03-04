@@ -87,7 +87,7 @@ date: Last Modified
 * [Jace Talk: Use the QA Site](../../../transcriptions/yt-Bm_Yh-0jjtI.md) [https://www.youtube.com/watch?v=Bm_Yh-0jjtI](https://www.youtube.com/watch?v=Bm_Yh-0jjtI)
 
 ## January 22nd, 2020 Livestream
-* Q&A: What do you think about Splitters that can split a certain percentage of the Belts? [https://www.youtube.com/watch?v=GiOZBqdfrAQ](https://www.youtube.com/watch?v=GiOZBqdfrAQ)
+* [Q&A: What do you think about Splitters that can split a certain percentage of the Belts?](../../../transcriptions/yt-GiOZBqdfrAQ.md) [https://www.youtube.com/watch?v=GiOZBqdfrAQ](https://www.youtube.com/watch?v=GiOZBqdfrAQ)
 
 ## March 9th, 2019 Livestream
 * [Q&A: Are there plans to have an item filter device for Conveyor Belts?](../../../transcriptions/yt-qzDz2348s1Y.md) [https://www.youtube.com/watch?v=qzDz2348s1Y](https://www.youtube.com/watch?v=qzDz2348s1Y)

@@ -172,7 +172,7 @@ date: Last Modified
 * [Q&A: Are you going to add the ability to raise/lower parts of the landscape?](../../transcriptions/yt-AEd2Rt5VDfk.md) [https://www.youtube.com/watch?v=AEd2Rt5VDfk](https://www.youtube.com/watch?v=AEd2Rt5VDfk)
 * [Q&A: Are you guys planning to add any terraforming or digging?](../../transcriptions/yt-DW0MT8G-wMI.md) [https://www.youtube.com/watch?v=DW0MT8G-wMI](https://www.youtube.com/watch?v=DW0MT8G-wMI)
 * [Q&A: Are you supposed to be able to break the rocks that has a slug inside of it?](../../transcriptions/yt-SaJCkdeMMh0.md) [https://www.youtube.com/watch?v=SaJCkdeMMh0](https://www.youtube.com/watch?v=SaJCkdeMMh0)
-* Jace Talk: fantasyish Biome [https://www.youtube.com/watch?v=-2hJ5_qMAoM](https://www.youtube.com/watch?v=-2hJ5_qMAoM)
+* [Jace Talk: fantasyish Biome](../../transcriptions/yt--2hJ5_qMAoM.md) [https://www.youtube.com/watch?v=-2hJ5_qMAoM](https://www.youtube.com/watch?v=-2hJ5_qMAoM)
 * [Q&A: Flying vehicles for overhead view of your factory?](../../transcriptions/yt-njN-07Q5-8s.md) [https://www.youtube.com/watch?v=njN-07Q5-8s](https://www.youtube.com/watch?v=njN-07Q5-8s)
 * [Jace Talk: Grass](../../transcriptions/yt-vpbfpee26Yo.md) [https://www.youtube.com/watch?v=vpbfpee26Yo](https://www.youtube.com/watch?v=vpbfpee26Yo)
 * [Q&A: How many biomes are in game?](../../transcriptions/yt-ouDTfnrZDKo.md) [https://www.youtube.com/watch?v=ouDTfnrZDKo](https://www.youtube.com/watch?v=ouDTfnrZDKo)

@@ -87,7 +87,7 @@ date: Last Modified
 * [Snutt, Markus, & G2 Talk: The Modding Community](../transcriptions/yt-0nF9GbpBe5I.md) [https://www.youtube.com/watch?v=0nF9GbpBe5I](https://www.youtube.com/watch?v=0nF9GbpBe5I)
 
 ## January 22nd, 2020 Livestream
-* Q&A: Will Mods work correctly after the Update? [https://www.youtube.com/watch?v=qf6QTYIHDaQ](https://www.youtube.com/watch?v=qf6QTYIHDaQ)
+* [Q&A: Will Mods work correctly after the Update?](../transcriptions/yt-qf6QTYIHDaQ.md) [https://www.youtube.com/watch?v=qf6QTYIHDaQ](https://www.youtube.com/watch?v=qf6QTYIHDaQ)
 
 ## March 9th, 2019 Livestream
 * [Jace Talk: Mods](../transcriptions/yt-JPafvjU7Z0k.md) [https://www.youtube.com/watch?v=JPafvjU7Z0k](https://www.youtube.com/watch?v=JPafvjU7Z0k)

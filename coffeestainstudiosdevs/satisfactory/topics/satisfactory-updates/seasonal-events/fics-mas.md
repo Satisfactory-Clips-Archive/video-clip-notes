@@ -15,7 +15,7 @@ date: Last Modified
 * [Q&A: What will Gases be used for?](../../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188)
 
 ## January 12th, 2021 Livestream
-* State of Dev - FICS⁕MAS [https://www.youtube.com/watch?v=dnkH1mqdCKI](https://www.youtube.com/watch?v=dnkH1mqdCKI)
+* [State of Dev - FICS⁕MAS](../../../transcriptions/yt-dnkH1mqdCKI.md) [https://www.youtube.com/watch?v=dnkH1mqdCKI](https://www.youtube.com/watch?v=dnkH1mqdCKI)
 
 ## December 15th, 2020 Livestream
 * [Q&A: Could it be released to the Modding Community to polish and release it as a Mod?](../../../transcriptions/yt-MQLuFiVQPYY.md) [https://www.youtube.com/watch?v=MQLuFiVQPYY](https://www.youtube.com/watch?v=MQLuFiVQPYY)

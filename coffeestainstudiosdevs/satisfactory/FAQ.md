@@ -4006,7 +4006,7 @@ that.
 <summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as January 2020.</summary>
 
 * [November 10th, 2020 Livestream Q&A: Will existing Mods work with new build?](./transcriptions/yt-bBrB9Qeb1hk.md) [https://www.youtube.com/watch?v=bBrB9Qeb1hk](https://www.youtube.com/watch?v=bBrB9Qeb1hk)
-* January 22nd, 2020 Livestream Q&A: Will Mods work correctly after the Update? [https://www.youtube.com/watch?v=qf6QTYIHDaQ](https://www.youtube.com/watch?v=qf6QTYIHDaQ)
+* [January 22nd, 2020 Livestream Q&A: Will Mods work correctly after the Update?](./transcriptions/yt-qf6QTYIHDaQ.md) [https://www.youtube.com/watch?v=qf6QTYIHDaQ](https://www.youtube.com/watch?v=qf6QTYIHDaQ)
 </details>
 
 ### [Q&A: Will you guys eventually add survival elements like hunger & thirst?](./transcriptions/yt-5QJJqDM03Ww.md) [https://www.youtube.com/watch?v=5QJJqDM03Ww](https://www.youtube.com/watch?v=5QJJqDM03Ww)
@@ -4203,7 +4203,7 @@ that.
 <summary>This question may have been asked previously at least 2 other times, as recently as December 2020 and as early as January 2020.</summary>
 
 * [December 15th, 2020 Livestream Q&A: Any thought to allow Splitters to regulate the flow of items per minute?](./transcriptions/yt-nSC4C_h1ONo.md) [https://www.youtube.com/watch?v=nSC4C_h1ONo](https://www.youtube.com/watch?v=nSC4C_h1ONo)
-* January 22nd, 2020 Livestream Q&A: What do you think about Splitters that can split a certain percentage of the Belts? [https://www.youtube.com/watch?v=GiOZBqdfrAQ](https://www.youtube.com/watch?v=GiOZBqdfrAQ)
+* [January 22nd, 2020 Livestream Q&A: What do you think about Splitters that can split a certain percentage of the Belts?](./transcriptions/yt-GiOZBqdfrAQ.md) [https://www.youtube.com/watch?v=GiOZBqdfrAQ](https://www.youtube.com/watch?v=GiOZBqdfrAQ)
 </details>
 
 ### [Q&A: Can more people ride the same Train soon?](./transcriptions/yt-YMWU_qSRI1E.md) [https://www.youtube.com/watch?v=YMWU_qSRI1E](https://www.youtube.com/watch?v=YMWU_qSRI1E)

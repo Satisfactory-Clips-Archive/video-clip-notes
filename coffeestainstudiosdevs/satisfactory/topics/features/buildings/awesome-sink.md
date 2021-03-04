@@ -24,4 +24,4 @@ date: Last Modified
 * [Q&A: How about repeatable Space Elevator shipments to make more use of it?](../../../transcriptions/yt-fbCEIVUNDe0.md) [https://www.youtube.com/watch?v=fbCEIVUNDe0](https://www.youtube.com/watch?v=fbCEIVUNDe0)
 
 ## January 22nd, 2020 Livestream
-* Snutt & Jace Talk: Upcoming Things [https://www.youtube.com/watch?v=EiVuur226E8](https://www.youtube.com/watch?v=EiVuur226E8)
+* [Snutt & Jace Talk: Upcoming Things](../../../transcriptions/yt-EiVuur226E8.md) [https://www.youtube.com/watch?v=EiVuur226E8](https://www.youtube.com/watch?v=EiVuur226E8)

@@ -8,7 +8,7 @@ date: Last Modified
 * [Q&A: Can we have pizza in-game?](../../transcriptions/yt-SPaDSuHfhGk.md) [https://www.youtube.com/watch?v=SPaDSuHfhGk](https://www.youtube.com/watch?v=SPaDSuHfhGk)
 
 ## January 12th, 2021 Livestream
-* Q&A: When will Coffee Stain get Jace a pizza oven? [https://www.youtube.com/watch?v=LRsn8Qz3fms](https://www.youtube.com/watch?v=LRsn8Qz3fms)
+* [Q&A: When will Coffee Stain get Jace a pizza oven?](../../transcriptions/yt-LRsn8Qz3fms.md) [https://www.youtube.com/watch?v=LRsn8Qz3fms](https://www.youtube.com/watch?v=LRsn8Qz3fms)
 
 ## December 19th, 2019 Livestream
 * [Q&A: Bananas on Pizza?](../../transcriptions/yt-RbDtGuXHEH0.md) [https://www.youtube.com/watch?v=RbDtGuXHEH0](https://www.youtube.com/watch?v=RbDtGuXHEH0)
