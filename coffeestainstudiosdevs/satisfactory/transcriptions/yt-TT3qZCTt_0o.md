@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/refinery"
     - "features/crafting/fuel"
+    - "features/crafting/recipes"
     - "features/tiers/tier-7"
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
@@ -16,6 +17,7 @@ https://www.youtube.com/watch?v=TT3qZCTt_0o
 ### Topics
 * [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 4
 
+## March 2nd, 2021 Livestream
+* [Q&A: How will Update 4 change the lower-level items?](../../../transcriptions/yt-7DIFELANBQs.md) [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)
+
 ## February 16th, 2021 Livestream
 * [Q&A: Anything interesting in the analytics?](../../../transcriptions/yt-BMQs1ci2YXo.md) [https://www.youtube.com/watch?v=BMQs1ci2YXo](https://www.youtube.com/watch?v=BMQs1ci2YXo)
 

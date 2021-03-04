@@ -9,6 +9,10 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## March 2nd, 2021 Livestream
+* [Q&A: Are you going to fix the Wall Power Pole?](../../transcriptions/yt-LwR145hCQW8.md) [https://www.youtube.com/watch?v=LwR145hCQW8](https://www.youtube.com/watch?v=LwR145hCQW8)
+* [Q&A: How will Update 4 change the lower-level items?](../../transcriptions/yt-7DIFELANBQs.md) [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Do not remove the self-regulation of energy, it's one of the good things about the game?](../../transcriptions/yt-vEF2BQPxwWk.md) [https://www.youtube.com/watch?v=vEF2BQPxwWk](https://www.youtube.com/watch?v=vEF2BQPxwWk)
 * [Q&A: Like prioritise Coal over Nuclear?](../../transcriptions/yt-IdKhbyR81Nw.md) [https://www.youtube.com/watch?v=IdKhbyR81Nw](https://www.youtube.com/watch?v=IdKhbyR81Nw)

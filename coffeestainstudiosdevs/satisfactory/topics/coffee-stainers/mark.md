@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## March 2nd, 2021 Livestream
+* [Snutt Talk: Mark said we're adding new Alternate Recipes & new Crash Sites](../../transcriptions/yt-PoEuuDU4jpo.md) [https://www.youtube.com/watch?v=PoEuuDU4jpo](https://www.youtube.com/watch?v=PoEuuDU4jpo)
+* [Snutt Talk: Response from Mark regarding Alternate Recipes](../../transcriptions/yt-AlKn7_O78tU.md) [https://www.youtube.com/watch?v=AlKn7_O78tU](https://www.youtube.com/watch?v=AlKn7_O78tU)
+* [Q&A: Will the new Update affect Alternate Recipes?](../../transcriptions/yt-AXoRnwF1P9E.md) [https://www.youtube.com/watch?v=AXoRnwF1P9E](https://www.youtube.com/watch?v=AXoRnwF1P9E)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Any plans for Blueprint mode?](../../transcriptions/yt-tJSLxVZ-sFg.md) [https://www.youtube.com/watch?v=tJSLxVZ-sFg](https://www.youtube.com/watch?v=tJSLxVZ-sFg)
 * [Q&A: Where did the idea of making power producers produce 100% regardless of consumption come from?](../../transcriptions/yt-Ws0Q7X1Twx0.md) [https://www.youtube.com/watch?v=Ws0Q7X1Twx0](https://www.youtube.com/watch?v=Ws0Q7X1Twx0)

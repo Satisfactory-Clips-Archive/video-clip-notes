@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## March 2nd, 2021 Livestream
+* [State of Dev - Teaser Trailer due on Friday](../../transcriptions/yt-E5tJZ7Yk2cI.md) [https://www.youtube.com/watch?v=E5tJZ7Yk2cI](https://www.youtube.com/watch?v=E5tJZ7Yk2cI)
+* [State of Dev: Still in Content Freeze (Part 1)](../../transcriptions/yt-9wsiaonRlQY.md) [https://www.youtube.com/watch?v=9wsiaonRlQY](https://www.youtube.com/watch?v=9wsiaonRlQY)
+* [State of Dev: Still in Content Freeze (Part 2)](../../transcriptions/yt-PuOKy_IkROw.md) [https://www.youtube.com/watch?v=PuOKy_IkROw](https://www.youtube.com/watch?v=PuOKy_IkROw)
+
 ## February 23rd, 2021 Livestream
 * [State of Dev](../../transcriptions/yt-ODkDsExNtl4.md) [https://www.youtube.com/watch?v=ODkDsExNtl4](https://www.youtube.com/watch?v=ODkDsExNtl4)
 * [Snutt & Jace Talk: State of Dev getting repetitive](../../transcriptions/yt-odeI3OhIa6Q.md) [https://www.youtube.com/watch?v=odeI3OhIa6Q](https://www.youtube.com/watch?v=odeI3OhIa6Q)

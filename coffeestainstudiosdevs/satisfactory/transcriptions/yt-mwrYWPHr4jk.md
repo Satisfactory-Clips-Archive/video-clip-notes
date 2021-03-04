@@ -3,6 +3,7 @@ title: "January 19th, 2021 Livestream Q&A: Will alternative recipes change with 
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "features/crafting/recipes/alternate-recipes"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -12,6 +13,7 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 
 ### Topics
+* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## March 2nd, 2021 Livestream
+* [Comunity FYI: Multiplayer is bugged](../../transcriptions/yt-668iMY_81_k.md) [https://www.youtube.com/watch?v=668iMY_81_k](https://www.youtube.com/watch?v=668iMY_81_k)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: What are the plans to improve multiplayer bugs in the future?](../../transcriptions/yt-D36NzV3LAB8.md) [https://www.youtube.com/watch?v=D36NzV3LAB8](https://www.youtube.com/watch?v=D36NzV3LAB8)
 * [Q&A: Will there be Moderators in the game?](../../transcriptions/yt-b1imtH_pkbE.md) [https://www.youtube.com/watch?v=b1imtH_pkbE](https://www.youtube.com/watch?v=b1imtH_pkbE)

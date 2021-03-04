@@ -4,23 +4,19 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Crafting
 * [Fuel](../../topics/features/crafting/fuel.md)
+* [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
 ## February 23rd, 2021 Livestream
-* [Q&A: Are there going to be more recipes- not new item recipes but more recipes for old items?](../../transcriptions/yt-oojAhgClrl0.md) [https://www.youtube.com/watch?v=oojAhgClrl0](https://www.youtube.com/watch?v=oojAhgClrl0)
 * [Q&A: Are you going to add any more Alternative Recipes?](../../transcriptions/yt-OtcI-GdfbRc.md) [https://www.youtube.com/watch?v=OtcI-GdfbRc](https://www.youtube.com/watch?v=OtcI-GdfbRc)
 * [Q&A: Will Alternative Recipes be unlocked by a more orderly progression?](../../transcriptions/yt-KxOniqAHQI4.md) [https://www.youtube.com/watch?v=KxOniqAHQI4](https://www.youtube.com/watch?v=KxOniqAHQI4)
-
-## February 9th, 2021 Livestream
-* [Q&A: Will there be another list coming in the Codex showing you which recipes need certain items?](../../transcriptions/yt-Wk1osyojNQw.md) [https://www.youtube.com/watch?v=Wk1osyojNQw](https://www.youtube.com/watch?v=Wk1osyojNQw)
-
-## February 2nd, 2021 Livestream
-* [Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](../../transcriptions/yt-U7q88D_G0Ac.md) [https://www.youtube.com/watch?v=U7q88D_G0Ac](https://www.youtube.com/watch?v=U7q88D_G0Ac)
-* [Q&A: Will Update 4 change any existing Alt recipes? (Part 2)](../../transcriptions/yt-wN7_0V9lRfk.md) [https://www.youtube.com/watch?v=wN7_0V9lRfk](https://www.youtube.com/watch?v=wN7_0V9lRfk)
 
 ## December 11th, 2020 Livestream
 * [Aluminum Casing](../../transcriptions/yt-njXBs_p2l1w,245.57866666666666,333.23290000000003.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334)
 * [New Parts coming in Update 4](../../transcriptions/yt-njXBs_p2l1w,95.36193333333334,124.9248.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=95&end=125](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=95&end=125)
+
+## October 27th, 2020 Livestream
+* [Q&A: What material are they going to use for the new Pipes & Pumps?](../../transcriptions/yt-2BJzwTVi_Ww.md) [https://www.youtube.com/watch?v=2BJzwTVi_Ww](https://www.youtube.com/watch?v=2BJzwTVi_Ww)
 
 ## October 13th, 2020 Livestream
 * [Q&A: Is it possible to use the add to-do list without visiting the crafting bench?](../../transcriptions/yt-ValaMW93Q7g.md) [https://www.youtube.com/watch?v=ValaMW93Q7g](https://www.youtube.com/watch?v=ValaMW93Q7g)

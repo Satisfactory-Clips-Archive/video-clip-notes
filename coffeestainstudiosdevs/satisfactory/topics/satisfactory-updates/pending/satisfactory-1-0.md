@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## March 2nd, 2021 Livestream
+* [Q&A: Does Update 4 equal 1.0?](../../../transcriptions/yt-E5B4N52cWRM.md) [https://www.youtube.com/watch?v=E5B4N52cWRM](https://www.youtube.com/watch?v=E5B4N52cWRM)
+* Q&A: How many Updates are planned before 1.0? [https://www.youtube.com/watch?v=DVSYDPE6STc](https://www.youtube.com/watch?v=DVSYDPE6STc)
+* [Q&A: Is the Story completely written or is it still in progress?](../../../transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
+* [Q&A: Update 10 is 1.0?](../../../transcriptions/yt-dvCRDVGePX0.md) [https://www.youtube.com/watch?v=dvCRDVGePX0](https://www.youtube.com/watch?v=dvCRDVGePX0)
+* [Q&A: Will Somersloops & Mercer Spheres finally have a use?](../../../transcriptions/yt-6CNL-nsOGUw.md) [https://www.youtube.com/watch?v=6CNL-nsOGUw](https://www.youtube.com/watch?v=6CNL-nsOGUw)
+* [Q&A: Will Somersloops look the same when they become relevant?](../../../transcriptions/yt-35ocyvNwQL0.md) [https://www.youtube.com/watch?v=35ocyvNwQL0](https://www.youtube.com/watch?v=35ocyvNwQL0)
+* [Q&A: With the Nvidia DLSS plugin released for Unreal Engine 4.26, any thoughts on upgrading to that?](../../../transcriptions/yt-vRPycwAPQHI.md) [https://www.youtube.com/watch?v=vRPycwAPQHI](https://www.youtube.com/watch?v=vRPycwAPQHI)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Any more major updates planned before 1.0?](../../../transcriptions/yt-XLXeOMWHoAc.md) [https://www.youtube.com/watch?v=XLXeOMWHoAc](https://www.youtube.com/watch?v=XLXeOMWHoAc)
 * [Q&A: Are there any features that're being held for the 1.0 release?](../../../transcriptions/yt-ufAQLXW_yNk.md) [https://www.youtube.com/watch?v=ufAQLXW_yNk](https://www.youtube.com/watch?v=ufAQLXW_yNk)

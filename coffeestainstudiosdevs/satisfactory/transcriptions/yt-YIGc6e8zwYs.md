@@ -3,6 +3,7 @@ title: "January 19th, 2021 Livestream Snutt & Mark Talk: Tier 7 Rebalancing"
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "features/crafting/recipes"
     - "features/tiers/tier-7"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=YIGc6e8zwYs
 
 ### Topics
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 

@@ -3,6 +3,7 @@ title: "November 8th, 2018"
 date: "2018-11-08"
 layout: transcript
 topics: 
+    - "features/crafting/recipes"
     - "satisfactory-updates/released/satisfactory-alpha"
     - "features/buildables/conveyor-belts"
     - "environment/resources"
@@ -15,6 +16,7 @@ topics:
 ## Using Iron Ingots to make Iron Plates
 https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516
 ### Topics
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Environment > Resources](../topics/environment/resources.md)

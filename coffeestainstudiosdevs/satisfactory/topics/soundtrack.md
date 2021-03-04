@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## March 2nd, 2021 Livestream
+* [Q&A: Were you going to put the game music on Spotify?](../transcriptions/yt-Ba6lc4pqHFo.md) [https://www.youtube.com/watch?v=Ba6lc4pqHFo](https://www.youtube.com/watch?v=Ba6lc4pqHFo)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Any more music tracks coming?](../transcriptions/yt-bzqL0DGULFM.md) [https://www.youtube.com/watch?v=bzqL0DGULFM](https://www.youtube.com/watch?v=bzqL0DGULFM)
 * [Q&A: Music?](../transcriptions/yt-dpSP-189CmA.md) [https://www.youtube.com/watch?v=dpSP-189CmA](https://www.youtube.com/watch?v=dpSP-189CmA)

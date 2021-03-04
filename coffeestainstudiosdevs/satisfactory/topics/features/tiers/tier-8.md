@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 8
 
+## March 2nd, 2021 Livestream
+* [Q&A: Will there be Space Elevator requirements for Tier 7 & 8 to change from before Update 4?](../../../transcriptions/yt-qUnbyq-0Pu4.md) [https://www.youtube.com/watch?v=qUnbyq-0Pu4](https://www.youtube.com/watch?v=qUnbyq-0Pu4)
+
 ## February 2nd, 2021 Livestream
 * [Q&A: With new Space Elevator parts does this mean that Tier 8 will unlock separately from Tier 7?](../../../transcriptions/yt-1Xgd1ANF9gw.md) [https://www.youtube.com/watch?v=1Xgd1ANF9gw](https://www.youtube.com/watch?v=1Xgd1ANF9gw)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## March 2nd, 2021 Livestream
+* [Q&A: What kind of changes can we expect from the World Update?](../../transcriptions/yt-5qQx1URl8lY.md) [https://www.youtube.com/watch?v=5qQx1URl8lY](https://www.youtube.com/watch?v=5qQx1URl8lY)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Any ideas on a more detailed Map?](../../transcriptions/yt-w3_T37dQba0.md) [https://www.youtube.com/watch?v=w3_T37dQba0](https://www.youtube.com/watch?v=w3_T37dQba0)
 

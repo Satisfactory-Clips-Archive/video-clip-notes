@@ -4,7 +4,7 @@ date: "2020-09-29"
 layout: transcript
 topics:
     - "features/unplanned-features/mass-building"
-    - "technology/unreal-engine"
+    - "technology/unreal-engine/object-limit"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will you be able to increase the maximum amount of Objects with Unreal Engine?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: January 26th, 2
 
 ### Topics
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
-* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript
 

@@ -3,6 +3,8 @@ title: "October 27th, 2020 Livestream Q&A: What material are they going to use f
 date: "2020-10-27"
 layout: transcript
 topics:
+    - "features/crafting"
+    - "features/crafting/recipes"
     - "features/fluids/pipes"
     - "features/fluids/pumps"
     - "satisfactory-updates/released/satisfactory-fluids-update"
@@ -12,6 +14,8 @@ topics:
 https://www.youtube.com/watch?v=2BJzwTVi_Ww
 
 ### Topics
+* [Features > Crafting](../topics/features/crafting.md)
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Fluids > Pumps](../topics/features/fluids/pumps.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)

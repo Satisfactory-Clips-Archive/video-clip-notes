@@ -9,6 +9,11 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## March 2nd, 2021 Livestream
+* [Q&A: Any new Animals?](../../transcriptions/yt-c5EEG5MrTF0.md) [https://www.youtube.com/watch?v=c5EEG5MrTF0](https://www.youtube.com/watch?v=c5EEG5MrTF0)
+* [Q&A: But are we saving or killing the animals?](../../transcriptions/yt-EY5lzNz_vV0.md) [https://www.youtube.com/watch?v=EY5lzNz_vV0](https://www.youtube.com/watch?v=EY5lzNz_vV0)
+* Q&A: Is there a Goat hidden in Satisfactory? [https://www.youtube.com/watch?v=B2zcLGZLwJU](https://www.youtube.com/watch?v=B2zcLGZLwJU)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Any future combat or enemy updates to come?](../../transcriptions/yt-MS3_LOEapI4.md) [https://www.youtube.com/watch?v=MS3_LOEapI4](https://www.youtube.com/watch?v=MS3_LOEapI4)
 

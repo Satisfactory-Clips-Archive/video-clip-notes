@@ -14,6 +14,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## March 2nd, 2021 Livestream
+* [Q&A: BTTV Emotes, when?](../transcriptions/yt-3LkuTKgvEVs.md) [https://www.youtube.com/watch?v=3LkuTKgvEVs](https://www.youtube.com/watch?v=3LkuTKgvEVs)
+
 ## February 23rd, 2021 Livestream
 * [Snutt & Jace Talk: What do your Elven eyes see?](../transcriptions/yt--8e9UFPRbMo.md) [https://www.youtube.com/watch?v=-8e9UFPRbMo](https://www.youtube.com/watch?v=-8e9UFPRbMo)
 

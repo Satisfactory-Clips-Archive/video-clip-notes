@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/buildings"
     - "features/buildings/packager"
+    - "features/crafting/recipes"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/teasers-trailers"
 ---
@@ -21,6 +22,7 @@ https://www.youtube.com/watch?v=iEGhH9cZWWQ
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 

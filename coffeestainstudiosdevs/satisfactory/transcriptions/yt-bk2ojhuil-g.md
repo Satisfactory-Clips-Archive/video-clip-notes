@@ -4,7 +4,7 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "features/unplanned-features/mass-building"
-    - "technology/unreal-engine"
+    - "technology/unreal-engine/object-limit"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Snutt & Jace Talk: Unreal Engine Object Limit
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=bk2ojhuil-g
 
 ### Topics
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
-* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript
 

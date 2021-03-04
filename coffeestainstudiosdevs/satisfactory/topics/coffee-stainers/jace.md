@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## March 2nd, 2021 Livestream
+* [Q&A: Can you juggle? (Part 1)](../../transcriptions/yt-DL2uQG36Mak.md) [https://www.youtube.com/watch?v=DL2uQG36Mak](https://www.youtube.com/watch?v=DL2uQG36Mak)
+* [Q&A: Can you juggle? (Part 2)](../../transcriptions/yt-mRJ9K0Igxcw.md) [https://www.youtube.com/watch?v=mRJ9K0Igxcw](https://www.youtube.com/watch?v=mRJ9K0Igxcw)
+* [Community FYI: Just waiting for Jace to bring out his inner Steve Irwin](../../transcriptions/yt-8gln5c3gNWQ.md) [https://www.youtube.com/watch?v=8gln5c3gNWQ](https://www.youtube.com/watch?v=8gln5c3gNWQ)
+* [Q&A: Now that Jace knows what a Constructor looks like, do you feel inferior?](../../transcriptions/yt-x56_-zALi10.md) [https://www.youtube.com/watch?v=x56_-zALi10](https://www.youtube.com/watch?v=x56_-zALi10)
+* [Q&A: When's the Let's Game It Out/Let's Gay It Out collab happening?](../../transcriptions/yt-jD4WtAxzhCk.md) [https://www.youtube.com/watch?v=jD4WtAxzhCk](https://www.youtube.com/watch?v=jD4WtAxzhCk)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: A beanie trophy?](../../transcriptions/yt-vQlvfDhG01E.md) [https://www.youtube.com/watch?v=vQlvfDhG01E](https://www.youtube.com/watch?v=vQlvfDhG01E)
 * [Q&A: Can we get a Jace trophy in the game?](../../transcriptions/yt-2Bd9mFmmRFg.md) [https://www.youtube.com/watch?v=2Bd9mFmmRFg](https://www.youtube.com/watch?v=2Bd9mFmmRFg)

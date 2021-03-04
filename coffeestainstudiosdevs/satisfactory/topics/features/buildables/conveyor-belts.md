@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## March 2nd, 2021 Livestream
+* [Q&A: Are Smart Splitters changing in Update 4?](../../../transcriptions/yt-WVQ5pUtT-TQ.md) [https://www.youtube.com/watch?v=WVQ5pUtT-TQ](https://www.youtube.com/watch?v=WVQ5pUtT-TQ)
+
 ## February 16th, 2021 Livestream
 * [Q&A: Are the Belts going to be rebalanced?](../../../transcriptions/yt-9d5aym3IkTg.md) [https://www.youtube.com/watch?v=9d5aym3IkTg](https://www.youtube.com/watch?v=9d5aym3IkTg)
 * [Q&A: Does obscuring belts actually help with performance?](../../../transcriptions/yt-JDJ5hvAkrWw.md) [https://www.youtube.com/watch?v=JDJ5hvAkrWw](https://www.youtube.com/watch?v=JDJ5hvAkrWw)

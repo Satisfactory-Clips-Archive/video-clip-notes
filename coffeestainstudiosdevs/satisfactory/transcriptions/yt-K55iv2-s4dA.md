@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/buildings"
     - "features/buildings/packager"
+    - "features/crafting/recipes"
     - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
@@ -14,6 +15,7 @@ https://www.youtube.com/watch?v=K55iv2-s4dA
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > DLSS
 
+## March 2nd, 2021 Livestream
+* [Q&A: With the Nvidia DLSS plugin released for Unreal Engine 4.26, any thoughts on upgrading to that?](../../../transcriptions/yt-vRPycwAPQHI.md) [https://www.youtube.com/watch?v=vRPycwAPQHI](https://www.youtube.com/watch?v=vRPycwAPQHI)
+
 ## February 23rd, 2021 Livestream
 * [Snutt Talk: Ray Tracing & DLSS](../../../transcriptions/yt-S7e0g_0B8GM.md) [https://www.youtube.com/watch?v=S7e0g_0B8GM](https://www.youtube.com/watch?v=S7e0g_0B8GM)
 

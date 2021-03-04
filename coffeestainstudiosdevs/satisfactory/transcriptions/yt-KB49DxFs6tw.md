@@ -4,6 +4,7 @@ date: "2020-09-22"
 layout: transcript
 topics:
     - "features/buildings"
+    - "features/crafting/recipes"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is there any possibility to autodetect materials on the belts to preselect recipes per input?
@@ -13,6 +14,7 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 
 ### Transcript
 

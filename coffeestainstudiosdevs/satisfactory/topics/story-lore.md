@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## March 2nd, 2021 Livestream
+* [Q&A: Is the Story completely written or is it still in progress?](../transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
+* [Q&A: Is the Story good though?](../transcriptions/yt-q6ZTpN0GVHA.md) [https://www.youtube.com/watch?v=q6ZTpN0GVHA](https://www.youtube.com/watch?v=q6ZTpN0GVHA)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Are there any features that're being held for the 1.0 release?](../transcriptions/yt-ufAQLXW_yNk.md) [https://www.youtube.com/watch?v=ufAQLXW_yNk](https://www.youtube.com/watch?v=ufAQLXW_yNk)
 * [Q&A: S.A.M. Ore getting a main use any time soon?](../transcriptions/yt-ow33F_nK6nc.md) [https://www.youtube.com/watch?v=ow33F_nK6nc](https://www.youtube.com/watch?v=ow33F_nK6nc)

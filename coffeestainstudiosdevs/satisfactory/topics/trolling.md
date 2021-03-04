@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## March 2nd, 2021 Livestream
+* [Q&A: Is the Story good though?](../transcriptions/yt-q6ZTpN0GVHA.md) [https://www.youtube.com/watch?v=q6ZTpN0GVHA](https://www.youtube.com/watch?v=q6ZTpN0GVHA)
+* [Snutt & Jace Talk: Valheim trolling](../transcriptions/yt-eCpkFfMs_Vw.md) [https://www.youtube.com/watch?v=eCpkFfMs_Vw](https://www.youtube.com/watch?v=eCpkFfMs_Vw)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Snow confirmed?](../transcriptions/yt-g3xOdnACRe4.md) [https://www.youtube.com/watch?v=g3xOdnACRe4](https://www.youtube.com/watch?v=g3xOdnACRe4)
 

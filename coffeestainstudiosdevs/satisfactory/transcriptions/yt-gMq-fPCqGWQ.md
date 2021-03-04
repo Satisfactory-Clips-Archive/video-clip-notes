@@ -7,7 +7,7 @@ topics:
     - "features/buildings/constructor"
     - "features/unplanned-features/mass-building"
     - "technology/graphics"
-    - "technology/unreal-engine"
+    - "technology/unreal-engine/object-limit"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: What is the Object Count Limit, and how can we tell in our own game?
@@ -20,7 +20,7 @@ This question was possibly duplicated with a more recent answer: [October 9th, 2
 * [Features > Buildings > Constructor](../topics/features/buildings/constructor.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
-* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 
+## March 2nd, 2021 Livestream
+* [Q&A: You've said in the past that Foundations underneath the map has been a contributing factor?](../../../transcriptions/yt-SWLzazuKh4g.md) [https://www.youtube.com/watch?v=SWLzazuKh4g](https://www.youtube.com/watch?v=SWLzazuKh4g)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Will Foundations be falling down from non-supported beams?](../../../transcriptions/yt-lxpA6PIJEbo.md) [https://www.youtube.com/watch?v=lxpA6PIJEbo](https://www.youtube.com/watch?v=lxpA6PIJEbo)
 * [Q&A: Will we be able to place holes in Walls and floors freely?](../../../transcriptions/yt-RrF2Nq2-vmc.md) [https://www.youtube.com/watch?v=RrF2Nq2-vmc](https://www.youtube.com/watch?v=RrF2Nq2-vmc)

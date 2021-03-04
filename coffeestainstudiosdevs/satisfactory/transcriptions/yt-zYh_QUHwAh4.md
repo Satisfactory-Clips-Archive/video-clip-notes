@@ -4,6 +4,7 @@ date: "2021-01-26"
 layout: transcript
 topics:
     - "features/buildings/refinery"
+    - "features/crafting/recipes"
     - "features/tiers/tier-7"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
@@ -19,6 +20,7 @@ https://www.youtube.com/watch?v=zYh_QUHwAh4
 
 ### Topics
 * [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 

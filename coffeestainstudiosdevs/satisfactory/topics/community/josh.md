@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## March 2nd, 2021 Livestream
+* [Q&A: When's the Let's Game It Out/Let's Gay It Out collab happening?](../../transcriptions/yt-jD4WtAxzhCk.md) [https://www.youtube.com/watch?v=jD4WtAxzhCk](https://www.youtube.com/watch?v=jD4WtAxzhCk)
+
 ## February 16th, 2021 Livestream
 * [Q&A: How do you stress-test the game?](../../transcriptions/yt-HKh8CsYPMvw.md) [https://www.youtube.com/watch?v=HKh8CsYPMvw](https://www.youtube.com/watch?v=HKh8CsYPMvw)
 

@@ -4,6 +4,26 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 4
 
+## March 2nd, 2021 Livestream
+* [Q&A: Are Smart Splitters changing in Update 4?](../../../transcriptions/yt-WVQ5pUtT-TQ.md) [https://www.youtube.com/watch?v=WVQ5pUtT-TQ](https://www.youtube.com/watch?v=WVQ5pUtT-TQ)
+* [Q&A: Are there some bugs that still aren't fixed?](../../../transcriptions/yt-_3_63ujKu8Q.md) [https://www.youtube.com/watch?v=_3_63ujKu8Q](https://www.youtube.com/watch?v=_3_63ujKu8Q)
+* [Q&A: Does Update 4 equal 1.0?](../../../transcriptions/yt-E5B4N52cWRM.md) [https://www.youtube.com/watch?v=E5B4N52cWRM](https://www.youtube.com/watch?v=E5B4N52cWRM)
+* [Q&A: How's the patch notes video coming along?](../../../transcriptions/yt-JSiUvQ1K00Q.md) [https://www.youtube.com/watch?v=JSiUvQ1K00Q](https://www.youtube.com/watch?v=JSiUvQ1K00Q)
+* [Q&A: How will Update 4 change the lower-level items?](../../../transcriptions/yt-7DIFELANBQs.md) [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)
+* [Snutt Talk: Mark said we're adding new Alternate Recipes & new Crash Sites](../../../transcriptions/yt-PoEuuDU4jpo.md) [https://www.youtube.com/watch?v=PoEuuDU4jpo](https://www.youtube.com/watch?v=PoEuuDU4jpo)
+* [Q&A: Patch Notes video since Update 1?](../../../transcriptions/yt-APlNumHg7ng.md) [https://www.youtube.com/watch?v=APlNumHg7ng](https://www.youtube.com/watch?v=APlNumHg7ng)
+* [Snutt Talk: Response from Mark regarding Alternate Recipes](../../../transcriptions/yt-AlKn7_O78tU.md) [https://www.youtube.com/watch?v=AlKn7_O78tU](https://www.youtube.com/watch?v=AlKn7_O78tU)
+* [Q&A: Since we go into loading screen so much is it possible it becomes faster in Update 4?](../../../transcriptions/yt-M1UV6EJdd2c.md) [https://www.youtube.com/watch?v=M1UV6EJdd2c](https://www.youtube.com/watch?v=M1UV6EJdd2c)
+* [Q&A: So now we don't have to use Refineries to craft Aluminium Ingots?](../../../transcriptions/yt-gyxMiVe8UMA.md) [https://www.youtube.com/watch?v=gyxMiVe8UMA](https://www.youtube.com/watch?v=gyxMiVe8UMA)
+* [State of Dev: Still in Content Freeze (Part 1)](../../../transcriptions/yt-9wsiaonRlQY.md) [https://www.youtube.com/watch?v=9wsiaonRlQY](https://www.youtube.com/watch?v=9wsiaonRlQY)
+* [State of Dev: Still in Content Freeze (Part 2)](../../../transcriptions/yt-PuOKy_IkROw.md) [https://www.youtube.com/watch?v=PuOKy_IkROw](https://www.youtube.com/watch?v=PuOKy_IkROw)
+* [Q&A: Was my question about Update 4.20 the one you wouldn't read out?](../../../transcriptions/yt-jRGWJsQxvfg.md) [https://www.youtube.com/watch?v=jRGWJsQxvfg](https://www.youtube.com/watch?v=jRGWJsQxvfg)
+* [Q&A: Will there be changes to the existing Oil nodes?](../../../transcriptions/yt-I6Zgi1aOJTk.md) [https://www.youtube.com/watch?v=I6Zgi1aOJTk](https://www.youtube.com/watch?v=I6Zgi1aOJTk)
+* [Q&A: Will there be signs in Update 4?](../../../transcriptions/yt-8BmHQuMW_L8.md) [https://www.youtube.com/watch?v=8BmHQuMW_L8](https://www.youtube.com/watch?v=8BmHQuMW_L8)
+* [Q&A: Will there be Space Elevator requirements for Tier 7 & 8 to change from before Update 4?](../../../transcriptions/yt-qUnbyq-0Pu4.md) [https://www.youtube.com/watch?v=qUnbyq-0Pu4](https://www.youtube.com/watch?v=qUnbyq-0Pu4)
+* [Q&A: Will you show us something cool?](../../../transcriptions/yt-sSUUKEDQf_0.md) [https://www.youtube.com/watch?v=sSUUKEDQf_0](https://www.youtube.com/watch?v=sSUUKEDQf_0)
+* [Q&A: You mentioned in the past each game object taking less space- will that be true for Update 4?](../../../transcriptions/yt-DrGV_fYllVQ.md) [https://www.youtube.com/watch?v=DrGV_fYllVQ](https://www.youtube.com/watch?v=DrGV_fYllVQ)
+
 ## February 26th, 2021 Instagram AMA
 * Q&A: How many different gases will we have in Update 4? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_different_gases_will_we_have_in_update_4.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_different_gases_will_we_have_in_update_4.mp4)
 * [Q&A: I'm on Early Access, how do I get in on this Experimental stuff?](../../../transcriptions/yt-F-q3vfj__M4,112.71260000000001,182.71586666666667.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183)
@@ -159,6 +179,7 @@ date: Last Modified
 * [Q&A: What's the cost of the Resource Well Extractors & Pressurisers (Part 2)](../../../transcriptions/yt-MaHhdhMI_38.md) [https://www.youtube.com/watch?v=MaHhdhMI_38](https://www.youtube.com/watch?v=MaHhdhMI_38)
 * [Q&A: What are the incentives to unlock Tier 8 in terms of factory efficiency?](../../../transcriptions/yt-Ii-CZGy8-7A.md) [https://www.youtube.com/watch?v=Ii-CZGy8-7A](https://www.youtube.com/watch?v=Ii-CZGy8-7A)
 * [Q&A: When you extract nitrogen will you attract more monsters or alien creatures?](../../../transcriptions/yt-ZYjlQtfwJj0.md) [https://www.youtube.com/watch?v=ZYjlQtfwJj0](https://www.youtube.com/watch?v=ZYjlQtfwJj0)
+* [Q&A: While Unreal Engine 4 gets upgraded, will the Object Limit get changed?](../../../transcriptions/yt-BE6kB3nmSdM.md) [https://www.youtube.com/watch?v=BE6kB3nmSdM](https://www.youtube.com/watch?v=BE6kB3nmSdM)
 * [Q&A: Why not have a system like in real life where you get Nitrogen out of air?](../../../transcriptions/yt-p3AQTmE2XoQ.md) [https://www.youtube.com/watch?v=p3AQTmE2XoQ](https://www.youtube.com/watch?v=p3AQTmE2XoQ)
 * [Q&A: Will alternative recipes change with Update 4?](../../../transcriptions/yt-mwrYWPHr4jk.md) [https://www.youtube.com/watch?v=mwrYWPHr4jk](https://www.youtube.com/watch?v=mwrYWPHr4jk)
 * [Q&A: Will batteries be used alongside factory power?](../../../transcriptions/yt-UoDF7Vl1ZJQ.md) [https://www.youtube.com/watch?v=UoDF7Vl1ZJQ](https://www.youtube.com/watch?v=UoDF7Vl1ZJQ)
@@ -277,6 +298,7 @@ date: Last Modified
 
 ## September 22nd, 2020 Livestream
 * [Q&A: Been a little while without any Updates?](../../../transcriptions/yt-sSLGErHJcyE.md) [https://www.youtube.com/watch?v=sSLGErHJcyE](https://www.youtube.com/watch?v=sSLGErHJcyE)
+* [Q&A: Engine Update - allow more objects to be built without fps drops?](../../../transcriptions/yt-sADDzCQqkmE.md) [https://www.youtube.com/watch?v=sADDzCQqkmE](https://www.youtube.com/watch?v=sADDzCQqkmE)
 * [Q&A: Update 4, bigger Pipes?](../../../transcriptions/yt-sXfGrrX3E0E.md) [https://www.youtube.com/watch?v=sXfGrrX3E0E](https://www.youtube.com/watch?v=sXfGrrX3E0E)
 * [Q&A: Update 4?](../../../transcriptions/yt-ctS5hIogKas.md) [https://www.youtube.com/watch?v=ctS5hIogKas](https://www.youtube.com/watch?v=ctS5hIogKas)
 * [Snutt Talk: Update release schedule](../../../transcriptions/yt-FzyNteYDvFY.md) [https://www.youtube.com/watch?v=FzyNteYDvFY](https://www.youtube.com/watch?v=FzyNteYDvFY)

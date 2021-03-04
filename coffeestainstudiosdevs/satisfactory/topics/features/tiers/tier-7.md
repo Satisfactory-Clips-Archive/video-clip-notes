@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 7
 
+## March 2nd, 2021 Livestream
+* [Q&A: How will Update 4 change the lower-level items?](../../../transcriptions/yt-7DIFELANBQs.md) [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)
+* [Q&A: Will there be Space Elevator requirements for Tier 7 & 8 to change from before Update 4?](../../../transcriptions/yt-qUnbyq-0Pu4.md) [https://www.youtube.com/watch?v=qUnbyq-0Pu4](https://www.youtube.com/watch?v=qUnbyq-0Pu4)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: I still have Packaged Fuel being produced from a Refinery, will it be the same with Aluminium?](../../../transcriptions/yt-TT3qZCTt_0o.md) [https://www.youtube.com/watch?v=TT3qZCTt_0o](https://www.youtube.com/watch?v=TT3qZCTt_0o)
 

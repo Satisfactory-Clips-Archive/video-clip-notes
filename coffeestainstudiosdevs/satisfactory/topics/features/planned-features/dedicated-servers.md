@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## March 2nd, 2021 Livestream
+* [Q&A: Status of Dedicated Servers?](../../../transcriptions/yt-o3pQ2ZR-EoU.md) [https://www.youtube.com/watch?v=o3pQ2ZR-EoU](https://www.youtube.com/watch?v=o3pQ2ZR-EoU)
+* [Q&A: Will you shed some light on what server settings can be expected for Dedicated Servers?](../../../transcriptions/yt-Od_eIorlRO4.md) [https://www.youtube.com/watch?v=Od_eIorlRO4](https://www.youtube.com/watch?v=Od_eIorlRO4)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Any update on Dedicated Servers?](../../../transcriptions/yt-MeB65-maH5k.md) [https://www.youtube.com/watch?v=MeB65-maH5k](https://www.youtube.com/watch?v=MeB65-maH5k)
 * [Q&A: Dedicated Servers confirmed for Update 5?](../../../transcriptions/yt-XATD7Tg7YmQ.md) [https://www.youtube.com/watch?v=XATD7Tg7YmQ](https://www.youtube.com/watch?v=XATD7Tg7YmQ)

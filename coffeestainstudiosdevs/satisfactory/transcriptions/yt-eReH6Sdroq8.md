@@ -4,7 +4,7 @@ date: "2020-11-24"
 layout: transcript
 topics:
     - "features/unplanned-features/mass-building"
-    - "technology/unreal-engine"
+    - "technology/unreal-engine/object-limit"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Any improvements on build limits?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=eReH6Sdroq8
 
 ### Topics
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
-* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript
 

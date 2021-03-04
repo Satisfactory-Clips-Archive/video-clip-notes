@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Oil
 
+## March 2nd, 2021 Livestream
+* [Q&A: Will there be changes to the existing Oil nodes?](../../../transcriptions/yt-I6Zgi1aOJTk.md) [https://www.youtube.com/watch?v=I6Zgi1aOJTk](https://www.youtube.com/watch?v=I6Zgi1aOJTk)
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are you able to confirm what resources can be pulled using the Resource Well Extractor?](../../../transcriptions/yt-vlDuVpHyfVs.md) [https://www.youtube.com/watch?v=vlDuVpHyfVs](https://www.youtube.com/watch?v=vlDuVpHyfVs)
 

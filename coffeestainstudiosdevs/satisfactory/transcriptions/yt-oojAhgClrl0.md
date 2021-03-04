@@ -3,7 +3,7 @@ title: "February 23rd, 2021 Livestream Q&A: Are there going to be more recipes- 
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "features/crafting"
+    - "features/crafting/recipes/alternate-recipes"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=oojAhgClrl0
 
 
 ### Topics
-* [Features > Crafting](../topics/features/crafting.md)
+* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

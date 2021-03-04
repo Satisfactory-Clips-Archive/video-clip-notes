@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## March 2nd, 2021 Livestream
+* [Q&A: Any updates to the AWESOME Store?](../../../transcriptions/yt-G-aFnOtVYTw.md) [https://www.youtube.com/watch?v=G-aFnOtVYTw](https://www.youtube.com/watch?v=G-aFnOtVYTw)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: A beanie trophy?](../../../transcriptions/yt-vQlvfDhG01E.md) [https://www.youtube.com/watch?v=vQlvfDhG01E](https://www.youtube.com/watch?v=vQlvfDhG01E)
 * [Q&A: Are we going to have new stuff in the AWESOME Shop for Update 4?](../../../transcriptions/yt-nuWfLlBMtA0.md) [https://www.youtube.com/watch?v=nuWfLlBMtA0](https://www.youtube.com/watch?v=nuWfLlBMtA0)

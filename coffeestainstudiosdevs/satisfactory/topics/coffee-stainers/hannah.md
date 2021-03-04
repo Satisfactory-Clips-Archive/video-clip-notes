@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 
+## March 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Hannah confirms Spire Coast overhaul as "new biome"](../../transcriptions/yt-BZumPH8OW6o.md) [https://www.youtube.com/watch?v=BZumPH8OW6o](https://www.youtube.com/watch?v=BZumPH8OW6o)
+
 ## February 16th, 2021 Livestream
 * [Q&A: How much content are you planning for 1.0- do you want it to be over 200 hour playthrough?](../../transcriptions/yt-R9u6_oxcsX4.md) [https://www.youtube.com/watch?v=R9u6_oxcsX4](https://www.youtube.com/watch?v=R9u6_oxcsX4)
 

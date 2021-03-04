@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: Some buildings used to auto-select re
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "environment/resources"
     - "features/buildings"
+    - "features/crafting/recipes"
     - "satisfactory-updates/pre-alpha"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=iCOiamAc_ak
 
 
 ### Topics
-* [Environment > Resources](../topics/environment/resources.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)
 
 ### Transcript

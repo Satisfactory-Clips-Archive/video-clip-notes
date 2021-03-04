@@ -4,6 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "features/buildings"
+    - "features/crafting/recipes"
     - "technology/user-interface"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=20nzwUoDWuA
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

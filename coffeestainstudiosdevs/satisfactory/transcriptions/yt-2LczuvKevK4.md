@@ -3,6 +3,7 @@ title: "January 19th, 2021 Livestream Q&A: Recipes in Tier 6 and below will also
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "features/crafting/recipes"
     - "features/tiers/tier-0"
     - "features/tiers/tier-1"
     - "features/tiers/tier-2"
@@ -20,6 +21,7 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 
 ### Topics
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Features > Tiers > Tier 0](../topics/features/tiers/tier-0.md)
 * [Features > Tiers > Tier 1](../topics/features/tiers/tier-1.md)
 * [Features > Tiers > Tier 2](../topics/features/tiers/tier-2.md)

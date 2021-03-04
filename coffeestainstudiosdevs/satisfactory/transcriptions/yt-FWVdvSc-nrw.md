@@ -4,6 +4,7 @@ date: "2020-09-15"
 layout: transcript
 topics:
     - "features/buildings"
+    - "technology/unreal-engine/object-limit"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Is the limit on items hardcoded into the game?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=FWVdvSc-nrw
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
+* [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript
 

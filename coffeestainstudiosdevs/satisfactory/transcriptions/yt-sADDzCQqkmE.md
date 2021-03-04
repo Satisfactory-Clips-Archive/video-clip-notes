@@ -3,16 +3,18 @@ title: "September 22nd, 2020 Livestream Q&A: Engine Update - allow more objects 
 date: "2020-09-22"
 layout: transcript
 topics:
+    - "satisfactory-updates/pending/satisfactory-update-4"
     - "technology/graphics"
-    - "technology/unreal-engine"
+    - "technology/unreal-engine/object-limit"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Engine Update - allow more objects to be built without fps drops?
 https://www.youtube.com/watch?v=sADDzCQqkmE
 
 ### Topics
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
-* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript
 

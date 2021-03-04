@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
+## March 2nd, 2021 Livestream
+* [Q&A: Can you juggle? (Part 1)](../../transcriptions/yt-DL2uQG36Mak.md) [https://www.youtube.com/watch?v=DL2uQG36Mak](https://www.youtube.com/watch?v=DL2uQG36Mak)
+* [Q&A: Can you juggle? (Part 2)](../../transcriptions/yt-mRJ9K0Igxcw.md) [https://www.youtube.com/watch?v=mRJ9K0Igxcw](https://www.youtube.com/watch?v=mRJ9K0Igxcw)
+* [Q&A: Does Update 4 equal 1.0?](../../transcriptions/yt-E5B4N52cWRM.md) [https://www.youtube.com/watch?v=E5B4N52cWRM](https://www.youtube.com/watch?v=E5B4N52cWRM)
+* [Q&A: Now that Jace knows what a Constructor looks like, do you feel inferior?](../../transcriptions/yt-x56_-zALi10.md) [https://www.youtube.com/watch?v=x56_-zALi10](https://www.youtube.com/watch?v=x56_-zALi10)
+* [Q&A: Snutt has a personal project?](../../transcriptions/yt-maPp0k3TajI.md) [https://www.youtube.com/watch?v=maPp0k3TajI](https://www.youtube.com/watch?v=maPp0k3TajI)
+* [Q&A: When's the Let's Game It Out/Let's Gay It Out collab happening?](../../transcriptions/yt-jD4WtAxzhCk.md) [https://www.youtube.com/watch?v=jD4WtAxzhCk](https://www.youtube.com/watch?v=jD4WtAxzhCk)
+
 ## February 26th, 2021 Instagram AMA
 * Q&A: How did Snutt get to Coffee Stain? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_did_Snutt_get_to_Coffee_Stain.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_did_Snutt_get_to_Coffee_Stain.mp4)
 * Q&A: How many hours have you in Satis? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_hours_have_you_in_Satis.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_hours_have_you_in_Satis.mp4)

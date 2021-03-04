@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 3
 
+## March 2nd, 2021 Livestream
+* [Community FYI: Just waiting for Jace to bring out his inner Steve Irwin](../../../transcriptions/yt-8gln5c3gNWQ.md) [https://www.youtube.com/watch?v=8gln5c3gNWQ](https://www.youtube.com/watch?v=8gln5c3gNWQ)
+* [Q&A: Patch Notes video since Update 1?](../../../transcriptions/yt-APlNumHg7ng.md) [https://www.youtube.com/watch?v=APlNumHg7ng](https://www.youtube.com/watch?v=APlNumHg7ng)
+* [Snutt & Jace Talk: We talked about the patch notes video a lot](../../../transcriptions/yt-2se9JFyaCcM.md) [https://www.youtube.com/watch?v=2se9JFyaCcM](https://www.youtube.com/watch?v=2se9JFyaCcM)
+
 ## February 9th, 2021 Livestream
 * [Q&A: How big will Update 4 be?](../../../transcriptions/yt-oa9c3aMoTfk.md) [https://www.youtube.com/watch?v=oa9c3aMoTfk](https://www.youtube.com/watch?v=oa9c3aMoTfk)
 * [Q&A: Will there be a big reveal chill stream like there was with Update 3?](../../../transcriptions/yt-4RJB9d0nHOU.md) [https://www.youtube.com/watch?v=4RJB9d0nHOU](https://www.youtube.com/watch?v=4RJB9d0nHOU)

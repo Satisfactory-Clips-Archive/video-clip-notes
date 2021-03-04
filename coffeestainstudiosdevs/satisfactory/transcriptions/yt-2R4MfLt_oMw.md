@@ -6,6 +6,7 @@ topics:
     - "features/buildings"
     - "features/unplanned-features/mass-building"
     - "technology/graphics"
+    - "technology/unreal-engine/object-limit"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Would implementing covered belts reduce the number of objects in the world?
@@ -17,6 +18,7 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript
 

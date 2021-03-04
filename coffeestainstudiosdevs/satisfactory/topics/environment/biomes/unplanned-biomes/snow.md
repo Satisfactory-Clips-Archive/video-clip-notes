@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Snow
 
+## March 2nd, 2021 Livestream
+* [Q&A: Is there a winter zone?](../../../../transcriptions/yt-QgS9flDgvZk.md) [https://www.youtube.com/watch?v=QgS9flDgvZk](https://www.youtube.com/watch?v=QgS9flDgvZk)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Snow confirmed?](../../../../transcriptions/yt-g3xOdnACRe4.md) [https://www.youtube.com/watch?v=g3xOdnACRe4](https://www.youtube.com/watch?v=g3xOdnACRe4)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## March 2nd, 2021 Livestream
+* [Q&A: Will the Blade Runners actually be attached to the body at some point?](../../transcriptions/yt-W-67fl8Fg48.md) [https://www.youtube.com/watch?v=W-67fl8Fg48](https://www.youtube.com/watch?v=W-67fl8Fg48)
+
 ## February 16th, 2021 Livestream
 * [Q&A: Can we sleep through nights?](../../transcriptions/yt-uskbxtN069Q.md) [https://www.youtube.com/watch?v=uskbxtN069Q](https://www.youtube.com/watch?v=uskbxtN069Q)
 

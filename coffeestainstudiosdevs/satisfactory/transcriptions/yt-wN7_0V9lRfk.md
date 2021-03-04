@@ -3,7 +3,7 @@ title: "February 2nd, 2021 Livestream Q&A: Will Update 4 change any existing Alt
 date: "2021-02-02"
 layout: transcript
 topics:
-    - "features/crafting"
+    - "features/crafting/recipes/alternate-recipes"
     - "features/tiers/tier-7"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=wN7_0V9lRfk
 
 
 ### Topics
-* [Features > Crafting](../topics/features/crafting.md)
+* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 

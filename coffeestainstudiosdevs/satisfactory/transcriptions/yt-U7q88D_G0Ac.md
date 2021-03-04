@@ -3,7 +3,7 @@ title: "February 2nd, 2021 Livestream Q&A: Will Update 4 change any existing Alt
 date: "2021-02-02"
 layout: transcript
 topics:
-    - "features/crafting"
+    - "features/crafting/recipes/alternate-recipes"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
@@ -19,7 +19,7 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 
 ### Topics
-* [Features > Crafting](../topics/features/crafting.md)
+* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

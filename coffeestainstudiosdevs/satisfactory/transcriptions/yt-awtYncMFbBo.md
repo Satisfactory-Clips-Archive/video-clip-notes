@@ -3,6 +3,7 @@ title: "February 2nd, 2021 Livestream Q&A: More HDD Crash Sites for Update 4?"
 date: "2021-02-02"
 layout: transcript
 topics:
+    - "features/crafting/recipes/alternate-recipes"
     - "satisfactory-updates/pending/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
@@ -16,6 +17,7 @@ https://www.youtube.com/watch?v=awtYncMFbBo
 
 
 ### Topics
+* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 
 ### Transcript

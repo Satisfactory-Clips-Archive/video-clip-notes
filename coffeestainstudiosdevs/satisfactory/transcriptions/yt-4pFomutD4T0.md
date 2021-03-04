@@ -3,6 +3,7 @@ title: "November 17th, 2020 Livestream Q&A: When are we getting an Alternate Rec
 date: "2020-11-17"
 layout: transcript
 topics:
+    - "features/crafting/recipes/alternate-recipes"
     - "features/fluids"
     - "features/paint"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=4pFomutD4T0
 
 ### Topics
+* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Features > Fluids](../topics/features/fluids.md)
 * [Features > Paint](../topics/features/paint.md)
 

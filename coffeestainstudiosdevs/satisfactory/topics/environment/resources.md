@@ -10,6 +10,10 @@ date: Last Modified
 * [Somersloop](../../topics/environment/resources/somersloop.md)
 * [Steel](../../topics/environment/resources/steel.md)
 
+## March 2nd, 2021 Livestream
+* [Q&A: Are the node purity choices usually done by a balancing or a Map team?](../../transcriptions/yt-x2U3iVnWPVo.md) [https://www.youtube.com/watch?v=x2U3iVnWPVo](https://www.youtube.com/watch?v=x2U3iVnWPVo)
+* [Q&A: How will Update 4 change the lower-level items?](../../transcriptions/yt-7DIFELANBQs.md) [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Could you please add a Coffee machine or even a Coffee production line?](../../transcriptions/yt-XpBlPzRT3FA.md) [https://www.youtube.com/watch?v=XpBlPzRT3FA](https://www.youtube.com/watch?v=XpBlPzRT3FA)
 
@@ -21,9 +25,6 @@ date: Last Modified
 * Q&A: Can we use Turbofuel for new things in Update 4? [https://www.youtube.com/watch?v=KQmKBaywHHw](https://www.youtube.com/watch?v=KQmKBaywHHw)
 * [Q&A: Do you have any plans for the Radar Towers?](../../transcriptions/yt-Jb1JBMGknBY.md) [https://www.youtube.com/watch?v=Jb1JBMGknBY](https://www.youtube.com/watch?v=Jb1JBMGknBY)
 * [Q&A: Will there be another list coming in the Codex showing you which recipes need certain items?](../../transcriptions/yt-Wk1osyojNQw.md) [https://www.youtube.com/watch?v=Wk1osyojNQw](https://www.youtube.com/watch?v=Wk1osyojNQw)
-
-## January 19th, 2021 Livestream
-* [Q&A: Some buildings used to auto-select recipes?](../../transcriptions/yt-iCOiamAc_ak.md) [https://www.youtube.com/watch?v=iCOiamAc_ak](https://www.youtube.com/watch?v=iCOiamAc_ak)
 
 ## December 15th, 2020 Livestream
 * [Q&A: Will we be able to deal with Gas towers you can't kill right now?](../../transcriptions/yt-0nRCXveJemw.md) [https://www.youtube.com/watch?v=0nRCXveJemw](https://www.youtube.com/watch?v=0nRCXveJemw)

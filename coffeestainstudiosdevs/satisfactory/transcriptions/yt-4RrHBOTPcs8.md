@@ -3,6 +3,7 @@ title: "September 15th, 2020 Livestream Q&A: Will the update break saves?"
 date: "2020-09-15"
 layout: transcript
 topics:
+    - "features/crafting/recipes"
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
@@ -13,6 +14,7 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 
 ### Topics
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 

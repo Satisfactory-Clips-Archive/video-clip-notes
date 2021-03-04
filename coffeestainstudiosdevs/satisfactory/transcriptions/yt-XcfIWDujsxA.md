@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/biomes"
     - "environment/plants"
-    - "technology/unreal-engine"
+    - "technology/unreal-engine/object-limit"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will clearing out all the Biomes increase your garbage limit?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=XcfIWDujsxA
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > Plants](../topics/environment/plants.md)
-* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript
 

@@ -6,6 +6,10 @@ date: Last Modified
 * [DLSS](../../topics/technology/graphics/dlss.md)
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 
+## March 2nd, 2021 Livestream
+* [Q&A: Will the Blade Runners actually be attached to the body at some point?](../../transcriptions/yt-W-67fl8Fg48.md) [https://www.youtube.com/watch?v=W-67fl8Fg48](https://www.youtube.com/watch?v=W-67fl8Fg48)
+* [Q&A: Will there be a Satisfactory benchmark you can compare settings with?](../../transcriptions/yt-NA6C7snDkTw.md) [https://www.youtube.com/watch?v=NA6C7snDkTw](https://www.youtube.com/watch?v=NA6C7snDkTw)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: If we're not getting Dedicated Servers any time soon, is it possible to get disabled rendering?](../../transcriptions/yt-qiF-rpSnoTI.md) [https://www.youtube.com/watch?v=qiF-rpSnoTI](https://www.youtube.com/watch?v=qiF-rpSnoTI)
 * [Q&A: Is DirectX 12 fully supported now?](../../transcriptions/yt-zJ3RVfHpogY.md) [https://www.youtube.com/watch?v=zJ3RVfHpogY](https://www.youtube.com/watch?v=zJ3RVfHpogY)

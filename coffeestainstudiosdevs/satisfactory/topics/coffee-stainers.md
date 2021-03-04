@@ -23,6 +23,11 @@ date: Last Modified
 * [Tim](../topics/coffee-stainers/tim.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## March 2nd, 2021 Livestream
+* [Q&A: Are the node purity choices usually done by a balancing or a Map team?](../transcriptions/yt-x2U3iVnWPVo.md) [https://www.youtube.com/watch?v=x2U3iVnWPVo](https://www.youtube.com/watch?v=x2U3iVnWPVo)
+* [Q&A: Snutt has a personal project?](../transcriptions/yt-maPp0k3TajI.md) [https://www.youtube.com/watch?v=maPp0k3TajI](https://www.youtube.com/watch?v=maPp0k3TajI)
+* [Q&A: Who in the office will be worth the most points in the AWESOME Sink?](../transcriptions/yt-IhkY2l-QHQQ.md) [https://www.youtube.com/watch?v=IhkY2l-QHQQ](https://www.youtube.com/watch?v=IhkY2l-QHQQ)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: How many devs do you have?](../transcriptions/yt-Hj0nhmramiM.md) [https://www.youtube.com/watch?v=Hj0nhmramiM](https://www.youtube.com/watch?v=Hj0nhmramiM)
 * [Q&A: How many of them work on Valheim?](../transcriptions/yt-15R0t95pwvc.md) [https://www.youtube.com/watch?v=15R0t95pwvc](https://www.youtube.com/watch?v=15R0t95pwvc)

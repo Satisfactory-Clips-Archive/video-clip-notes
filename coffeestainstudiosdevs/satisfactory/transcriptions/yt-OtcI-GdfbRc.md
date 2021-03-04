@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/m-a-m"
     - "features/crafting"
+    - "features/crafting/recipes/alternate-recipes"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Are you going to add any more Alternative Recipes?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=OtcI-GdfbRc
 ### Topics
 * [Features > Buildings > M.A.M.](../topics/features/buildings/m-a-m.md)
 * [Features > Crafting](../topics/features/crafting.md)
+* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 
 ### Transcript
 

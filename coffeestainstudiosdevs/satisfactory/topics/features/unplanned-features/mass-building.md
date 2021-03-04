@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Mass Building
 
+## March 2nd, 2021 Livestream
+* [Q&A: You've said in the past that Foundations underneath the map has been a contributing factor?](../../../transcriptions/yt-SWLzazuKh4g.md) [https://www.youtube.com/watch?v=SWLzazuKh4g](https://www.youtube.com/watch?v=SWLzazuKh4g)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Any plans for Blueprint mode?](../../../transcriptions/yt-tJSLxVZ-sFg.md) [https://www.youtube.com/watch?v=tJSLxVZ-sFg](https://www.youtube.com/watch?v=tJSLxVZ-sFg)
 

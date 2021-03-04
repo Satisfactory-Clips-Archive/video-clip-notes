@@ -3,7 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: While Unreal Engine 4 gets upgraded, 
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "technology/unreal-engine"
+    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "technology/unreal-engine/object-limit"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: While Unreal Engine 4 gets upgraded, will the Object Limit get changed?
@@ -12,7 +13,8 @@ This question was possibly duplicated with a more recent answer: January 26th, 2
 
 
 ### Topics
-* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript
 

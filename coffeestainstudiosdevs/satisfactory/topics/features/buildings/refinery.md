@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Refinery
 
+## March 2nd, 2021 Livestream
+* [Q&A: So now we don't have to use Refineries to craft Aluminium Ingots?](../../../transcriptions/yt-gyxMiVe8UMA.md) [https://www.youtube.com/watch?v=gyxMiVe8UMA](https://www.youtube.com/watch?v=gyxMiVe8UMA)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: I still have Packaged Fuel being produced from a Refinery, will it be the same with Aluminium?](../../../transcriptions/yt-TT3qZCTt_0o.md) [https://www.youtube.com/watch?v=TT3qZCTt_0o](https://www.youtube.com/watch?v=TT3qZCTt_0o)
 

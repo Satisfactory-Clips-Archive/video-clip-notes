@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Fluids Update
 
+## March 2nd, 2021 Livestream
+* [Q&A: Patch Notes video since Update 1?](../../../transcriptions/yt-APlNumHg7ng.md) [https://www.youtube.com/watch?v=APlNumHg7ng](https://www.youtube.com/watch?v=APlNumHg7ng)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Can you press shift to go down the Ladder faster?](../../../transcriptions/yt-WKMxQyq9JaM.md) [https://www.youtube.com/watch?v=WKMxQyq9JaM](https://www.youtube.com/watch?v=WKMxQyq9JaM)
 * [Q&A: I still have Packaged Fuel being produced from a Refinery, will it be the same with Aluminium?](../../../transcriptions/yt-TT3qZCTt_0o.md) [https://www.youtube.com/watch?v=TT3qZCTt_0o](https://www.youtube.com/watch?v=TT3qZCTt_0o)

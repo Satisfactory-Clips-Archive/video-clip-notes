@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Biomes
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## March 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Hannah confirms Spire Coast overhaul as "new biome"](../../transcriptions/yt-BZumPH8OW6o.md) [https://www.youtube.com/watch?v=BZumPH8OW6o](https://www.youtube.com/watch?v=BZumPH8OW6o)
+* [Q&A: What kind of changes can we expect from the World Update?](../../transcriptions/yt-5qQx1URl8lY.md) [https://www.youtube.com/watch?v=5qQx1URl8lY](https://www.youtube.com/watch?v=5qQx1URl8lY)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Will the Dune Desert get crammed or will it stay as the perfect mega-base location?](../../transcriptions/yt-95QNCSBoRYM.md) [https://www.youtube.com/watch?v=95QNCSBoRYM](https://www.youtube.com/watch?v=95QNCSBoRYM)
 

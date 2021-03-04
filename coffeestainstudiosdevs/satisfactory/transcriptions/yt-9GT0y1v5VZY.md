@@ -3,7 +3,7 @@ title: "September 1st, 2020 Livestream Q&A: What is the object limit and will it
 date: "2020-09-01"
 layout: transcript
 topics:
-    - ""
+    - "technology/unreal-engine/object-limit"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: What is the object limit and will it be increased in the future?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: January 26th, 2
 
 
 ### Topics
-
+* [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript
 

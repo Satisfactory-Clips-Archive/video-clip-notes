@@ -4,7 +4,7 @@ date: "2021-02-09"
 layout: transcript
 topics:
     - "environment/resources"
-    - "features/crafting"
+    - "features/crafting/recipes"
     - "technology/user-interface"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=Wk1osyojNQw
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
-* [Features > Crafting](../topics/features/crafting.md)
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

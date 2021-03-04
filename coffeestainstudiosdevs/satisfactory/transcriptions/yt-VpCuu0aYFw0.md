@@ -4,7 +4,7 @@ date: "2020-10-06"
 layout: transcript
 topics:
     - "features/buildings/constructor"
-    - "technology/unreal-engine"
+    - "technology/unreal-engine/object-limit"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What is the object limit and why is it that number?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [October 9th, 2
 
 ### Topics
 * [Features > Buildings > Constructor](../topics/features/buildings/constructor.md)
-* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript
 
