@@ -2,6 +2,988 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [March 2nd, 2021 Livestream](./2021-03-02.md)
+### [Q&A: Any new Animals?](./transcriptions/yt-c5EEG5MrTF0.md) [https://www.youtube.com/watch?v=c5EEG5MrTF0](https://www.youtube.com/watch?v=c5EEG5MrTF0)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh any new animals go
+>
+> up that's that's backwards yeah
+>
+> um no new animals in update four we've
+>
+> been
+>
+> uh wanting to add the like crab boss to
+>
+> the game a long time that was teased in
+>
+> the uh
+>
+> tees no in the reveal trailer gameplay
+>
+> reveal trailer whatever
+>
+> in one of the early trailers we showed
+>
+> off like it was the e3 trailer i think
+>
+> we showed off like a crab
+>
+> enemy that we still haven't added to the
+>
+> game and the reason we haven't been able
+>
+> to do that is because
+>
+> we need to update some of the ai systems
+>
+> in the game to be able to
+>
+> uh have it in there otherwise it's gonna
+>
+> just look weird
+>
+> um you may have seen the issues with the
+>
+> aipathem
+>
+> pathing system with the uh the
+>
+> tick sometimes just like walking through
+>
+> your base and stuff like that
+>
+> um so we need to solve that first before
+>
+> we can add it and
+>
+> um i i don't exactly know when that's
+>
+> gonna happen
+>
+> but uh hopefully sooner than you think
+>
+> probably later than you hope
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 18 other times, as recently as February 2021 and as early as March 2019.</summary>
+
+* [February 23rd, 2021 Livestream Q&A: Any future combat or enemy updates to come?](./transcriptions/yt-MS3_LOEapI4.md) [https://www.youtube.com/watch?v=MS3_LOEapI4](https://www.youtube.com/watch?v=MS3_LOEapI4)
+* [February 9th, 2021 Livestream Q&A: When will you be adding more wildlife?](./transcriptions/yt-gAjKNyUTkMQ.md) [https://www.youtube.com/watch?v=gAjKNyUTkMQ](https://www.youtube.com/watch?v=gAjKNyUTkMQ)
+* [January 19th, 2021 Livestream Q&A: Will there be more Creatures, even more dangerous ones?](./transcriptions/yt-T0jbE_WjQJQ.md) [https://www.youtube.com/watch?v=T0jbE_WjQJQ](https://www.youtube.com/watch?v=T0jbE_WjQJQ)
+* [December 15th, 2020 Livestream Q&A: Will there be new enemies?](./transcriptions/yt-mwN7mAZ2dbg.md) [https://www.youtube.com/watch?v=mwN7mAZ2dbg](https://www.youtube.com/watch?v=mwN7mAZ2dbg)
+* [November 17th, 2020 Livestream Q&A: Any news on big Crab monster?](./transcriptions/yt-tTXExwaqZQM.md) [https://www.youtube.com/watch?v=tTXExwaqZQM](https://www.youtube.com/watch?v=tTXExwaqZQM)
+* [November 10th, 2020 Livestream Q&A: Any plans to add more animals to enemies or dangers?](./transcriptions/yt-RuzL7DdAJ1o.md) [https://www.youtube.com/watch?v=RuzL7DdAJ1o](https://www.youtube.com/watch?v=RuzL7DdAJ1o)
+* [November 3rd, 2020 Livestream Q&A: Are there going to be new Creatures?](./transcriptions/yt-c3jeZv_aYug.md) [https://www.youtube.com/watch?v=c3jeZv_aYug](https://www.youtube.com/watch?v=c3jeZv_aYug)
+* [October 20th, 2020 Livestream Q&A: Will Aliens become more diverse/actually challenging?](./transcriptions/yt-K7fDE5Dg570.md) [https://www.youtube.com/watch?v=K7fDE5Dg570](https://www.youtube.com/watch?v=K7fDE5Dg570)
+* [October 6th, 2020 Livestream Q&A: When do we get the Crab Boss?](./transcriptions/yt-m4PtschrKJc.md) [https://www.youtube.com/watch?v=m4PtschrKJc](https://www.youtube.com/watch?v=m4PtschrKJc)
+* [September 22nd, 2020 Livestream Q&A: Will there be more creatures?](./transcriptions/yt-Yzd466gO44M.md) [https://www.youtube.com/watch?v=Yzd466gO44M](https://www.youtube.com/watch?v=Yzd466gO44M)
+* [September 15th, 2020 Livestream Q&A: Are we ever going to see a new enemy type?](./transcriptions/yt-Kxq543wzKcY.md) [https://www.youtube.com/watch?v=Kxq543wzKcY](https://www.youtube.com/watch?v=Kxq543wzKcY)
+* [September 15th, 2020 Livestream Q&A: Will you add any Monsters/Bosses in the future?](./transcriptions/yt-D_BVMiGNvqI.md) [https://www.youtube.com/watch?v=D_BVMiGNvqI](https://www.youtube.com/watch?v=D_BVMiGNvqI)
+* [September 8th, 2020 Livestream Q&A: Will we ever see the Crab Boss?](./transcriptions/yt-HD54tFdoDTE.md) [https://www.youtube.com/watch?v=HD54tFdoDTE](https://www.youtube.com/watch?v=HD54tFdoDTE)
+* [September 1st, 2020 Livestream Q&A: When will we see the crab?](./transcriptions/yt-yHgb7ySKTMs.md) [https://www.youtube.com/watch?v=yHgb7ySKTMs](https://www.youtube.com/watch?v=yHgb7ySKTMs)
+* [August 25th, 2020 Livestream Q&A: New enemies / creatures?](./transcriptions/yt-TDbNru0heoU.md) [https://www.youtube.com/watch?v=TDbNru0heoU](https://www.youtube.com/watch?v=TDbNru0heoU)
+* [August 25th, 2020 Livestream Q&A: Will we have more monsters?](./transcriptions/yt-shEKhZakMxQ.md) [https://www.youtube.com/watch?v=shEKhZakMxQ](https://www.youtube.com/watch?v=shEKhZakMxQ)
+* July 28th, 2020 Livestream Q&A: More Wildlife? [https://clips.twitch.tv/DirtyHilariousPancakeWow](https://clips.twitch.tv/DirtyHilariousPancakeWow)
+* [March 9th, 2019 Livestream Q&A: Is there more than 5 enemies in?](./transcriptions/yt-DLnUjlixpg8.md) [https://www.youtube.com/watch?v=DLnUjlixpg8](https://www.youtube.com/watch?v=DLnUjlixpg8)
+</details>
+
+### [Q&A: Are Smart Splitters changing in Update 4?](./transcriptions/yt-WVQ5pUtT-TQ.md) [https://www.youtube.com/watch?v=WVQ5pUtT-TQ](https://www.youtube.com/watch?v=WVQ5pUtT-TQ)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> are smart splitters changing in update 4
+>
+> and no smart splitters are also staying
+>
+> the same
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as October 2020.</summary>
+
+* [November 10th, 2020 Livestream Q&A: Adding Smart/Programmable Splitters to allow us to dedicate material for each direction?](./transcriptions/yt-sUMAyPlkahk.md) [https://www.youtube.com/watch?v=sUMAyPlkahk](https://www.youtube.com/watch?v=sUMAyPlkahk)
+* [October 20th, 2020 Livestream Q&A: Will you be able to upgrade Splitters to Smart/Programmable Splitters?](./transcriptions/yt-7G0wdPB4X-c.md) [https://www.youtube.com/watch?v=7G0wdPB4X-c](https://www.youtube.com/watch?v=7G0wdPB4X-c)
+</details>
+
+### Q&A: Are you Community Management with Valheim too? [https://www.youtube.com/watch?v=o30d8md11vo](https://www.youtube.com/watch?v=o30d8md11vo)
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as February 2021.</summary>
+
+* [February 16th, 2021 Livestream Q&A: Will you two handle the community / streams of Valheim too?](./transcriptions/yt-icZwPeonyD8.md) [https://www.youtube.com/watch?v=icZwPeonyD8](https://www.youtube.com/watch?v=icZwPeonyD8)
+* [February 9th, 2021 Livestream Q&A: Do you have any involvement in the development of Valheim?](./transcriptions/yt-TP73cnwmX4g.md) [https://www.youtube.com/watch?v=TP73cnwmX4g](https://www.youtube.com/watch?v=TP73cnwmX4g)
+</details>
+
+### [Q&A: Coffee Mug?](./transcriptions/yt-eBG3cwtdwuY.md) [https://www.youtube.com/watch?v=eBG3cwtdwuY](https://www.youtube.com/watch?v=eBG3cwtdwuY)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> um coffee mug
+>
+> oh you want to give an update on that
+>
+> sure uh so
+>
+> situation with coffee mug is that we are
+>
+> going ahead
+>
+> do we do we oh my god oh my god
+>
+> did you win i think you're funny um okay
+>
+> so
+>
+> coffee mug um i don't know if we do
+>
+> how much info do we give here isn't it i
+>
+> think we just say that i think we've set
+>
+> on
+>
+> the type of mug we're making yeah it's
+>
+> okay we
+>
+> we talked to folks whether or not we're
+>
+> gonna do an enamel or a ceramic we're
+>
+> gonna be making an enamel cup you guys
+>
+> yeah and we're going ahead with the
+>
+> creation of that
+>
+> uh we're taking the next steps now with
+>
+> that so uh
+>
+> oh yeah i need my stuff that's my
+>
+> stuff
+>
+> oh well you can always get new ones when
+>
+> you start but uh you just
+>
+> whiff past it maybe you can take the the
+>
+> cannon again
+>
+> get to experience that again or do that
+>
+> i guess oh yeah i could use the camera
+>
+> though
+>
+> uh but yeah it was it was a little bit
+>
+> uncertain whether or not we could do
+>
+> an animal cup or if we wanted to do a
+>
+> ceramic one
+>
+> and uh the the the key thing here was
+>
+> that the
+>
+> ceramic cup would be more like true to
+>
+> the game
+>
+> um whereas the enamel cup would be true
+>
+> in color you know
+>
+> and yeah like an animal an action on
+>
+> that cup uh but now we've
+>
+> we've settled we've settled sounds like
+>
+> a divorce
+>
+> and we're going to go ahead and make the
+>
+> enamel cup when
+>
+> when that is available we don't know yet
+>
+> we are but we are working on that and
+>
+> we've made some progress on that front
+>
+> yep um so yeah
+>
+> we'll be able to hold pistachios in the
+>
+> cup you're gonna be able to hold
+>
+> whatever you want in that cup so long as
+>
+> it fits in the cup
+>
+> um and that's the major if
+>
+> if it can fit two christmases
+>
+> two christmas trees if you can fit a
+>
+> christmas tree in the enamel cup then
+>
+> you deserve a prize my friend
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as February 2021.</summary>
+
+* [February 16th, 2021 Livestream Q&A: Where's the mug?](./transcriptions/yt-lABA3NfAMXw.md) [https://www.youtube.com/watch?v=lABA3NfAMXw](https://www.youtube.com/watch?v=lABA3NfAMXw)
+* [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./transcriptions/yt-bQnAGoo8jQA.md) [https://www.youtube.com/watch?v=bQnAGoo8jQA](https://www.youtube.com/watch?v=bQnAGoo8jQA)
+</details>
+
+### Q&A: How many Updates are planned before 1.0? [https://www.youtube.com/watch?v=DVSYDPE6STc](https://www.youtube.com/watch?v=DVSYDPE6STc)
+
+<details>
+<summary>This question may have been asked previously at least 9 other times, as recently as February 2021 and as early as March 2019.</summary>
+
+* [February 23rd, 2021 Livestream Q&A: Any more major updates planned before 1.0?](./transcriptions/yt-XLXeOMWHoAc.md) [https://www.youtube.com/watch?v=XLXeOMWHoAc](https://www.youtube.com/watch?v=XLXeOMWHoAc)
+* [February 9th, 2021 Livestream Q&A: Is Update 4 the last update?](./transcriptions/yt-3fNjN1FjhPU.md) [https://www.youtube.com/watch?v=3fNjN1FjhPU](https://www.youtube.com/watch?v=3fNjN1FjhPU)
+* January 26th, 2021 Livestream Q&A: How many Updates do you have planned before 1.0? [https://www.youtube.com/watch?v=7t2DLBi7kl8](https://www.youtube.com/watch?v=7t2DLBi7kl8)
+* [November 3rd, 2020 Livestream Q&A: How many Updates until 1.0?](./transcriptions/yt-qtf26oE7kQs.md) [https://www.youtube.com/watch?v=qtf26oE7kQs](https://www.youtube.com/watch?v=qtf26oE7kQs)
+* [September 1st, 2020 Livestream Q&A: About how many Updates will there be before 1.0?](./transcriptions/yt-eIolvvHPWmw.md) [https://www.youtube.com/watch?v=eIolvvHPWmw](https://www.youtube.com/watch?v=eIolvvHPWmw)
+* August 18th, 2020 Livestream Q&A: How often will there be updates to the game? [https://clips.twitch.tv/CheerfulZanyWebVoteYea](https://clips.twitch.tv/CheerfulZanyWebVoteYea)
+* [May 19th, 2020 Livestream Q&A: Do you intended to do planned amount of huge Updates?](./transcriptions/yt-Nk53HWpUnnk.md) [https://www.youtube.com/watch?v=Nk53HWpUnnk](https://www.youtube.com/watch?v=Nk53HWpUnnk)
+* [March 24th, 2020 Livestream Q&A: How often will you be releasing new content?](./transcriptions/yt-1gGMZa-xf70.md) [https://www.youtube.com/watch?v=1gGMZa-xf70](https://www.youtube.com/watch?v=1gGMZa-xf70)
+* [March 9th, 2019 Livestream Q&A: How often will you release updates in Early Access?](./transcriptions/yt-PBkvqmyjADM.md) [https://www.youtube.com/watch?v=PBkvqmyjADM](https://www.youtube.com/watch?v=PBkvqmyjADM)
+</details>
+
+### [Q&A: How will Update 4 change the lower-level items?](./transcriptions/yt-7DIFELANBQs.md) [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> how will update 4 changes the lower
+>
+> level lines like motors heavy frames etc
+>
+> so the
+>
+> update 4 will not change anything below
+>
+> tier 7. um so all the previous
+>
+> stuff will be the same pretty much
+>
+> there's going to be some things that
+>
+> unlock in earlier uh tiers
+>
+> uh but we won't change anything like we
+>
+> the thing that we announced is that like
+>
+> in tier seven there's some
+>
+> production uh line changes that
+>
+> breaks your save files currently if you
+>
+> already have like production going for
+>
+> your bauxite and your
+>
+> aluminium and uh battery production i
+>
+> think are the ones
+>
+> so those will change but the previous
+>
+> ones will be unaffected as
+>
+> far as i know
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as January 2021.</summary>
+
+* [January 26th, 2021 Livestream Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?](./transcriptions/yt-zYh_QUHwAh4.md) [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
+* [January 19th, 2021 Livestream Q&A: Recipes in Tier 6 and below will also change but no production lines below Tier 7?](./transcriptions/yt-2LczuvKevK4.md) [https://www.youtube.com/watch?v=2LczuvKevK4](https://www.youtube.com/watch?v=2LczuvKevK4)
+</details>
+
+### Q&A: Is there a Goat hidden in Satisfactory? [https://www.youtube.com/watch?v=B2zcLGZLwJU](https://www.youtube.com/watch?v=B2zcLGZLwJU)
+
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as August 2020 and as early as February 2019.</summary>
+
+* August 11th, 2020 Livestream Q&A: Do you have Goats in Satisfactory? [https://clips.twitch.tv/FurryTalentedCrowBleedPurple](https://clips.twitch.tv/FurryTalentedCrowBleedPurple)
+* [December 19th, 2019 Livestream Q&A: Does it mean we get Goats?](./transcriptions/yt-RlSL5DONzns.md) [https://www.youtube.com/watch?v=RlSL5DONzns](https://www.youtube.com/watch?v=RlSL5DONzns)
+* [December 19th, 2019 Livestream Q&A: Will there be goats?](./transcriptions/yt-3YZMayi1Qec.md) [https://www.youtube.com/watch?v=3YZMayi1Qec](https://www.youtube.com/watch?v=3YZMayi1Qec)
+* March 9th, 2019 Livestream Q&A: Are there any goats in the game? [https://www.youtube.com/watch?v=jAjSoN6Z1rc](https://www.youtube.com/watch?v=jAjSoN6Z1rc)
+* [February 6th, 2019 Livestream Q&A: Is there goats in Satisfactory?](./transcriptions/yt-Dtm6xIj-wM4,3842.669132,3860.976436.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3842&end=3861](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3842&end=3861)
+</details>
+
+### [Q&A: Is there a winter zone?](./transcriptions/yt-QgS9flDgvZk.md) [https://www.youtube.com/watch?v=QgS9flDgvZk](https://www.youtube.com/watch?v=QgS9flDgvZk)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> um is there a winter zone are we adding
+>
+> one
+>
+> no we won't add a winter zone we don't
+>
+> feel like we don't feel confident enough
+>
+> to be able to do
+>
+> uh snow proper
+>
+> is that really the reason isn't that the
+>
+> reason isn't that what we've always said
+>
+> like hannah feels like if you want to do
+>
+> snow we have to do proper snow like it's
+>
+> not going to be like we don't want to do
+>
+> half-assed
+>
+> and then we don't have time to do
+>
+> everything else in the world i guess
+>
+> that's that's that's what that's what
+>
+> you've said on the previous stream that
+>
+> is
+>
+> not what i said isn't it no you
+>
+> pulled out of your ass
+>
+> what if what if you what did what did
+>
+> you usually say though because you say
+>
+> something
+>
+> i just said hannah said no okay that's
+>
+> fair enough
+>
+> hannah said no hannah said no that's it
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 7 other times, as recently as January 2021 and as early as August 2020.</summary>
+
+* [January 19th, 2021 Livestream Q&A: Can we please get a Snow Biome?](./transcriptions/yt-QHVdhswD13w.md) [https://www.youtube.com/watch?v=QHVdhswD13w](https://www.youtube.com/watch?v=QHVdhswD13w)
+* [January 19th, 2021 Livestream Q&A: If the community made a Snow Biome, would you add that?](./transcriptions/yt-I8rWTBGdGio.md) [https://www.youtube.com/watch?v=I8rWTBGdGio](https://www.youtube.com/watch?v=I8rWTBGdGio)
+* [December 15th, 2020 Livestream Q&A: Will there be a Snow Biome?](./transcriptions/yt-iyhdKRg1b0A.md) [https://www.youtube.com/watch?v=iyhdKRg1b0A](https://www.youtube.com/watch?v=iyhdKRg1b0A)
+* [November 17th, 2020 Livestream Q&A: Is Snow/Ice coming?](./transcriptions/yt-s8HISCrP7w8.md) [https://www.youtube.com/watch?v=s8HISCrP7w8](https://www.youtube.com/watch?v=s8HISCrP7w8)
+* [September 22nd, 2020 Livestream Q&A: Snowy Biome confirmed?](./transcriptions/yt-Yend7bHTMvw.md) [https://www.youtube.com/watch?v=Yend7bHTMvw](https://www.youtube.com/watch?v=Yend7bHTMvw)
+* [September 15th, 2020 Livestream Q&A: Snow Area Confirmed?](./transcriptions/yt-yUDtq7D8XU8.md) [https://www.youtube.com/watch?v=yUDtq7D8XU8](https://www.youtube.com/watch?v=yUDtq7D8XU8)
+* August 18th, 2020 Livestream Q&A: Any ice/snow biome plans? [https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl](https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl)
+</details>
+
+### Q&A: Sink Fluids? [https://www.youtube.com/watch?v=_g71DI13oac](https://www.youtube.com/watch?v=_g71DI13oac)
+
+<details>
+<summary>This question may have been asked previously at least 4 other times, as recently as January 2021 and as early as August 2020.</summary>
+
+* [January 19th, 2021 Livestream Q&A: Sink that accepts Liquids or Gas?](./transcriptions/yt-SskXA-lxaCI.md) [https://www.youtube.com/watch?v=SskXA-lxaCI](https://www.youtube.com/watch?v=SskXA-lxaCI)
+* [October 27th, 2020 Livestream Q&A: Fluid Sink ever going to happen?](./transcriptions/yt-j79cJptq5h8.md) [https://www.youtube.com/watch?v=j79cJptq5h8](https://www.youtube.com/watch?v=j79cJptq5h8)
+* [September 1st, 2020 Livestream Q&A: Will there be something like the Resource Sink but for Fluids?](./transcriptions/yt-nT4pfUlmZBs.md) [https://www.youtube.com/watch?v=nT4pfUlmZBs](https://www.youtube.com/watch?v=nT4pfUlmZBs)
+* [August 25th, 2020 Livestream Q&A: Is the sink going to accept liquids in the future?](./transcriptions/yt-k6ZS5wzlNKs.md) [https://www.youtube.com/watch?v=k6ZS5wzlNKs](https://www.youtube.com/watch?v=k6ZS5wzlNKs)
+</details>
+
+### [Q&A: Status of Dedicated Servers?](./transcriptions/yt-o3pQ2ZR-EoU.md) [https://www.youtube.com/watch?v=o3pQ2ZR-EoU](https://www.youtube.com/watch?v=o3pQ2ZR-EoU)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> the walls joining late to apologies is
+>
+> hadoop status of dedicated service
+>
+> that's nice when people
+>
+> apologize when they know uh
+>
+> for for asking multiple questions how
+>
+> can you know how can you know that
+>
+> somebody
+>
+> asked a question like half an hour ago
+>
+> in chat but i
+>
+> appreciate the consideration i i can say
+>
+> yeah i appreciate the
+>
+> the thought uh but don't worry about us
+>
+> um dedicated servers are still being
+>
+> worked on we don't
+>
+> really have any news uh uh as last week
+>
+> if you were here last week oh no
+>
+> maybe you'll survive in the water yeah
+>
+> you're not dead jayce oh my god that
+>
+> pixel of health
+>
+> um so we don't have an update we're
+>
+> still working on that
+>
+> dedicated servers um and
+>
+> the major thing with dedicated servers
+>
+> that's why it's taking so long is really
+>
+> the
+>
+> amount of multiplayer issues that we
+>
+> need to solve and there's a bunch of
+>
+> like
+>
+> optimization things multiplayer that
+>
+> doesn't make sense to release the game
+>
+> in a dedicated server
+>
+> state you think it is like you you're
+>
+> like yeah but
+>
+> just give me the game as it is right now
+>
+> and give me data good servers
+>
+> but it ain't working like you're there
+>
+> are a few issues with client-side issues
+>
+> that
+>
+> you cannot resolve them unless your
+>
+> server at the moment
+>
+> [Music]
+>
+> and those are the type of things that we
+>
+> need to solve before we can
+>
+> release the data servers still working
+>
+> on that
+>
+> but right now the update 4 is taking a
+>
+> lot of our effort but after update 4
+>
+> maybe we can
+>
+> focus a little bit more on the ol
+>
+> leo multiplayer issues so we can get get
+>
+> that over with
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 31 other times, as recently as February 2021 and as early as February 2019.</summary>
+
+* [February 23rd, 2021 Livestream Q&A: Any update on Dedicated Servers?](./transcriptions/yt-MeB65-maH5k.md) [https://www.youtube.com/watch?v=MeB65-maH5k](https://www.youtube.com/watch?v=MeB65-maH5k)
+* [February 23rd, 2021 Livestream Q&A: Dedicated Servers confirmed for Update 5?](./transcriptions/yt-XATD7Tg7YmQ.md) [https://www.youtube.com/watch?v=XATD7Tg7YmQ](https://www.youtube.com/watch?v=XATD7Tg7YmQ)
+* [February 16th, 2021 Livestream Q&A: Do you know when Dedicated Servers are coming?](./transcriptions/yt-1a6aeBB1rPs.md) [https://www.youtube.com/watch?v=1a6aeBB1rPs](https://www.youtube.com/watch?v=1a6aeBB1rPs)
+* [February 9th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-R9wpbVHJggc.md) [https://www.youtube.com/watch?v=R9wpbVHJggc](https://www.youtube.com/watch?v=R9wpbVHJggc)
+* [February 9th, 2021 Livestream Q&A: When will we see Dedicated Servers?](./transcriptions/yt-5XUn9L5xcAo.md) [https://www.youtube.com/watch?v=5XUn9L5xcAo](https://www.youtube.com/watch?v=5XUn9L5xcAo)
+* [February 2nd, 2021 Livestream Q&A: Any news on Dedicated Servers?](./transcriptions/yt--IAV3zlXLss.md) [https://www.youtube.com/watch?v=-IAV3zlXLss](https://www.youtube.com/watch?v=-IAV3zlXLss)
+* [February 2nd, 2021 Livestream Q&A: Release date for Dedicated Servers?](./transcriptions/yt-bhFmwWIY_dw.md) [https://www.youtube.com/watch?v=bhFmwWIY_dw](https://www.youtube.com/watch?v=bhFmwWIY_dw)
+* [January 26th, 2021 Livestream Q&A: Any updates on Dedicated Servers?](./transcriptions/yt-cvlz1tP61_M.md) [https://www.youtube.com/watch?v=cvlz1tP61_M](https://www.youtube.com/watch?v=cvlz1tP61_M)
+* [January 26th, 2021 Livestream Q&A: Dedicated Servers aka Multiplayer fixes when?](./transcriptions/yt-_XfcfZ8vfj8.md) [https://www.youtube.com/watch?v=_XfcfZ8vfj8](https://www.youtube.com/watch?v=_XfcfZ8vfj8)
+* [January 19th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-FIamGlpCEFk.md) [https://www.youtube.com/watch?v=FIamGlpCEFk](https://www.youtube.com/watch?v=FIamGlpCEFk)
+* [December 15th, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-03Ybo6-_eWA.md) [https://www.youtube.com/watch?v=03Ybo6-_eWA](https://www.youtube.com/watch?v=03Ybo6-_eWA)
+* [December 15th, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-HeezNCrsBRU.md) [https://www.youtube.com/watch?v=HeezNCrsBRU](https://www.youtube.com/watch?v=HeezNCrsBRU)
+* [December 8th, 2020 Livestream Q&A: Is there a reason for a lack of Dedicated Server builds?](./transcriptions/yt-47gzhAEWkFM.md) [https://www.youtube.com/watch?v=47gzhAEWkFM](https://www.youtube.com/watch?v=47gzhAEWkFM)
+* [November 17th, 2020 Livestream Q&A: Updates about Dedicated Servers?](./transcriptions/yt-32SZ2UKPZiQ.md) [https://www.youtube.com/watch?v=32SZ2UKPZiQ](https://www.youtube.com/watch?v=32SZ2UKPZiQ)
+* [October 20th, 2020 Livestream Q&A: Dedicated Servers coming with the next Update ?](./transcriptions/yt-VyyzowIc504.md) [https://www.youtube.com/watch?v=VyyzowIc504](https://www.youtube.com/watch?v=VyyzowIc504)
+* [October 20th, 2020 Livestream Q&A: When will Dedicated Servers be coming?](./transcriptions/yt-TW0i2hxJ7C0.md) [https://www.youtube.com/watch?v=TW0i2hxJ7C0](https://www.youtube.com/watch?v=TW0i2hxJ7C0)
+* [October 6th, 2020 Livestream Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?](./transcriptions/yt-KGmOM7dLT84.md) [https://www.youtube.com/watch?v=KGmOM7dLT84](https://www.youtube.com/watch?v=KGmOM7dLT84)
+* [September 29th, 2020 Livestream Q&A: Any update for Hosted/Dedicated Servers?](./transcriptions/yt-kiko6VnK6sA.md) [https://www.youtube.com/watch?v=kiko6VnK6sA](https://www.youtube.com/watch?v=kiko6VnK6sA)
+* [September 22nd, 2020 Livestream Q&A: Are there server files when I want to host my own Dedicated Server?](./transcriptions/yt-12nA53wOK6w.md) [https://www.youtube.com/watch?v=12nA53wOK6w](https://www.youtube.com/watch?v=12nA53wOK6w)
+* [September 22nd, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-tHUqAoOXffs.md) [https://www.youtube.com/watch?v=tHUqAoOXffs](https://www.youtube.com/watch?v=tHUqAoOXffs)
+* [September 8th, 2020 Livestream Q&A: When are we expecting to get Dedicated Servers?](./transcriptions/yt-G9PuZ0WvoOM.md) [https://www.youtube.com/watch?v=G9PuZ0WvoOM](https://www.youtube.com/watch?v=G9PuZ0WvoOM)
+* [September 1st, 2020 Livestream Q&A: Dedicated Servers](./transcriptions/yt-z5bf3k7JWlg.md) [https://www.youtube.com/watch?v=z5bf3k7JWlg](https://www.youtube.com/watch?v=z5bf3k7JWlg)
+* [August 25th, 2020 Livestream Q&A: Dedicated Servers update?](./transcriptions/yt-mtE-rHjMsn4.md) [https://www.youtube.com/watch?v=mtE-rHjMsn4](https://www.youtube.com/watch?v=mtE-rHjMsn4)
+* August 18th, 2020 Livestream Q&A: Did I miss the status update of Dedicated Servers? [https://clips.twitch.tv/ElatedWittyVelociraptorThunBeast](https://clips.twitch.tv/ElatedWittyVelociraptorThunBeast)
+* August 11th, 2020 Livestream Q&A: Are Dedicated Servers coming? [https://clips.twitch.tv/BigDeadPhoneKappaWealth](https://clips.twitch.tv/BigDeadPhoneKappaWealth)
+* August 11th, 2020 Livestream Q&A: Dedicated Servers, start building a community around that? [https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow](https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow)
+* August 11th, 2020 Livestream Q&A: What's the hold-up on Dedicated Servers? [https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride](https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride)
+* [June 8th, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-XuFfkTTZnoA.md) [https://www.youtube.com/watch?v=XuFfkTTZnoA](https://www.youtube.com/watch?v=XuFfkTTZnoA)
+* [February 11th, 2020 Livestream Q&A: Any news on Dedicated Servers?](./transcriptions/yt-pUhzc1Fd8sg.md) [https://www.youtube.com/watch?v=pUhzc1Fd8sg](https://www.youtube.com/watch?v=pUhzc1Fd8sg)
+* [January 22nd, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-Qy10mQQMXXI.md) [https://www.youtube.com/watch?v=Qy10mQQMXXI](https://www.youtube.com/watch?v=Qy10mQQMXXI)
+* [February 6th, 2019 Livestream Q&A: What's the possibility of Dedicated Servers?](./transcriptions/yt-Dtm6xIj-wM4,718.308644,808.471513.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809)
+</details>
+
+### [Q&A: Were you going to put the game music on Spotify?](./transcriptions/yt-Ba6lc4pqHFo.md) [https://www.youtube.com/watch?v=Ba6lc4pqHFo](https://www.youtube.com/watch?v=Ba6lc4pqHFo)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> just ask if you're gonna put the game
+>
+> music on spotify
+>
+> wait did we did we put the game on
+>
+> wait did we pretty sure we didn't have
+>
+> it hold the phone
+>
+> juggling for content
+>
+> yo somebody said that we put the
+>
+> soundtrack on spoofy did we ever do that
+>
+> i don't think we did no there's a
+>
+> ambient soundtrack that's not
+>
+> satisfactory music that's just like
+>
+> other songs
+>
+> but it's not it's not the actual
+>
+> soundtrack from the game
+>
+> let's get him anyway
+>
+> let's get him anyway how dare you use
+>
+> our name in your
+>
+> playlist in your vein yeah
+>
+> um but we we are going to do it at some
+>
+> point the soundtrack isn't done you guys
+>
+> that's
+>
+> that's one of the reasons why it's not
+>
+> there
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as September 2020 and as early as January 2020.</summary>
+
+* [September 22nd, 2020 Livestream Q&A: Is the OST on Spotify?](./transcriptions/yt-iCN324N905o.md) [https://www.youtube.com/watch?v=iCN324N905o](https://www.youtube.com/watch?v=iCN324N905o)
+* [September 8th, 2020 Livestream Q&A: Releasing the Soundtrack on Spotify?](./transcriptions/yt-zoDYA4Y9jdE.md) [https://www.youtube.com/watch?v=zoDYA4Y9jdE](https://www.youtube.com/watch?v=zoDYA4Y9jdE)
+* [January 22nd, 2020 Livestream Q&A: Are there plans to put the OST on Spotify?](./transcriptions/yt-z4cypywhIks.md) [https://www.youtube.com/watch?v=z4cypywhIks](https://www.youtube.com/watch?v=z4cypywhIks)
+</details>
+
+### [Q&A: When are we going to be able to use more than one Equipment at a time?](./transcriptions/yt-w6VfAW7WD1w.md) [https://www.youtube.com/watch?v=w6VfAW7WD1w](https://www.youtube.com/watch?v=w6VfAW7WD1w)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh when are we gonna be able to use more
+>
+> than one equipment at a time i don't
+>
+> know what the plans for that are uh
+>
+> currently
+>
+> we might be revamping how equipment
+>
+> works
+>
+> new area this is a new area yes nice
+>
+> nice
+>
+> um i don't know
+>
+> uh it the reason why we don't have more
+>
+> than one equipment slot is because it
+>
+> felt you felt like too overpowered
+>
+> when you had two so we removed one um
+>
+> and then that caused other issues where
+>
+> people
+>
+> felt like it's frustrating to not be
+>
+> able to quit more than one thing so
+>
+> we're probably gonna revamp equipment at
+>
+> some point
+>
+> uh i don't know exactly what that will
+>
+> look like or we don't have any like
+>
+> ideas
+>
+> exactly what that will be yet um
+>
+> so we'll see in the future what what
+>
+> happens there we haven't made any
+>
+> decisions yet
+>
+> all right so knowing drawing chaos
+>
+> none of these will go to where i want to
+>
+> go but i have to check them anyway
+>
+> you know yeah because at one time when
+>
+> it's yeah like i have to check that
+>
+> yeah this is the north western but you
+>
+> do have plans
+>
+> we have plans to do something but we
+>
+> don't know exactly what we'll do
+>
+> uh and those plans might also end up
+>
+> being we don't do anything because
+>
+> thanks to something you guys but we all
+>
+> might not do it yeah exactly that's
+>
+> we would never plan anything one of
+>
+> those will send me through
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as February 2021 and as early as September 2020.</summary>
+
+* [February 2nd, 2021 Livestream Q&A: Will we get two character slots for Jetpacks and Blade Runners](./transcriptions/yt-YKIN_NCGDpo.md) [https://www.youtube.com/watch?v=YKIN_NCGDpo](https://www.youtube.com/watch?v=YKIN_NCGDpo)
+* [October 6th, 2020 Livestream Q&A: What's the max amount of body slots?](./transcriptions/yt-aPWXjH-Xf1o.md) [https://www.youtube.com/watch?v=aPWXjH-Xf1o](https://www.youtube.com/watch?v=aPWXjH-Xf1o)
+* [September 15th, 2020 Livestream Q&A: Can I wear Boots, Jetpack and a Gas Mask?](./transcriptions/yt-Gt1ATsmBu6k.md) [https://www.youtube.com/watch?v=Gt1ATsmBu6k](https://www.youtube.com/watch?v=Gt1ATsmBu6k)
+</details>
+
+### [Q&A: Will Somersloops & Mercer Spheres finally have a use?](./transcriptions/yt-6CNL-nsOGUw.md) [https://www.youtube.com/watch?v=6CNL-nsOGUw](https://www.youtube.com/watch?v=6CNL-nsOGUw)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will summersloops and mrspheres finally
+>
+> have a use not an update for
+>
+> that's all tied to story so that's gonna
+>
+> be in in 1.0 so you're gonna have to
+>
+> wait a little bit longer for that
+>
+> wait a little bit longer a little bit
+>
+> longer
+>
+> british i.e
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 12 other times, as recently as February 2021 and as early as December 2019.</summary>
+
+* [February 9th, 2021 Livestream Q&A: When will all the collectables like Mercer Spheres be implemented?](./transcriptions/yt-1_qy-PSFKO8.md) [https://www.youtube.com/watch?v=1_qy-PSFKO8](https://www.youtube.com/watch?v=1_qy-PSFKO8)
+* [January 26th, 2021 Livestream Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?](./transcriptions/yt--N0atMiN9dM.md) [https://www.youtube.com/watch?v=-N0atMiN9dM](https://www.youtube.com/watch?v=-N0atMiN9dM)
+* [January 26th, 2021 Livestream Q&A: News for the Work In Progress collectables for anything in Update 4?](./transcriptions/yt-5vlFsF0dm3E.md) [https://www.youtube.com/watch?v=5vlFsF0dm3E](https://www.youtube.com/watch?v=5vlFsF0dm3E)
+* [January 12th, 2021 Livestream Q&A: Mercer Spheres and Somersloops?](./transcriptions/yt-99pdUN5glzw.md) [https://www.youtube.com/watch?v=99pdUN5glzw](https://www.youtube.com/watch?v=99pdUN5glzw)
+* [November 17th, 2020 Livestream Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](./transcriptions/yt-ccmgnLh1oO0.md) [https://www.youtube.com/watch?v=ccmgnLh1oO0](https://www.youtube.com/watch?v=ccmgnLh1oO0)
+* [October 6th, 2020 Livestream Q&A: When are these Work In Progress (WIP) items going to be used?](./transcriptions/yt-bmRdzV3-wJI.md) [https://www.youtube.com/watch?v=bmRdzV3-wJI](https://www.youtube.com/watch?v=bmRdzV3-wJI)
+* [September 15th, 2020 Livestream Q&A: Any chance Update 4 unlocks the Work In Progress items?](./transcriptions/yt-Z870GlRbfjk.md) [https://www.youtube.com/watch?v=Z870GlRbfjk](https://www.youtube.com/watch?v=Z870GlRbfjk)
+* [September 15th, 2020 Livestream Q&A: When do the Work In Progress items get a purpose?](./transcriptions/yt-koMqOABA6x8.md) [https://www.youtube.com/watch?v=koMqOABA6x8](https://www.youtube.com/watch?v=koMqOABA6x8)
+* [August 25th, 2020 Livestream Q&A: Do you have any clue on what the alien artefacts do?](./transcriptions/yt-hRe0QvJDjsg.md) [https://www.youtube.com/watch?v=hRe0QvJDjsg](https://www.youtube.com/watch?v=hRe0QvJDjsg)
+* August 18th, 2020 Livestream Q&A: When are Somersloops and Orbs have meaning? [https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride](https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride)
+* [February 11th, 2020 Livestream Q&A: Mercer Spheres?](./transcriptions/yt-9VS0lGfDZ1k.md) [https://www.youtube.com/watch?v=9VS0lGfDZ1k](https://www.youtube.com/watch?v=9VS0lGfDZ1k)
+* [December 19th, 2019 Livestream Q&A: Will Mercer Spheres and Somersloops be useful soon?](./transcriptions/yt-SYWPIjbe_4Y.md) [https://www.youtube.com/watch?v=SYWPIjbe_4Y](https://www.youtube.com/watch?v=SYWPIjbe_4Y)
+</details>
+
+### [Q&A: Will the new Update affect Alternate Recipes?](./transcriptions/yt-AXoRnwF1P9E.md) [https://www.youtube.com/watch?v=AXoRnwF1P9E](https://www.youtube.com/watch?v=AXoRnwF1P9E)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh will the new update affect alternate
+>
+> recipes
+>
+> uh they won't change i think i'm pretty
+>
+> sure
+>
+> we i i should just ask mark this at this
+>
+> point because i i
+>
+> we had mark on a few weeks ago and i
+>
+> asked this question to him and he said
+>
+> hmm and then we're like all right cool
+>
+> we got that question answered and then
+>
+> since then i
+>
+> just blanked out uh so i'm gonna ask him
+>
+> i'm gonna send a message to him right
+>
+> now just to clarify that but i'm pretty
+>
+> sure alternate recipes won't change for
+>
+> update four
+>
+> [Music]
+>
+> um
+>
+> oh yo yo yo yo yo yo yo
+>
+> i missed it i made it
+>
+> um and uh yeah we won't make any changes
+>
+> to diluted fuel either
+>
+> i'm pretty sure that i remember i
+>
+> remember specifically if we diluted fuel
+>
+> that we're not going to change that
+>
+> that's still the same
+>
+> um but i can't speak for all the
+>
+> alternative recipes but that one i'm i'm
+>
+> like
+>
+> confident all right chase just did
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as February 2021 and as early as January 2021.</summary>
+
+* [February 23rd, 2021 Livestream Q&A: Are there going to be more recipes- not new item recipes but more recipes for old items?](./transcriptions/yt-oojAhgClrl0.md) [https://www.youtube.com/watch?v=oojAhgClrl0](https://www.youtube.com/watch?v=oojAhgClrl0)
+* [February 2nd, 2021 Livestream Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](./transcriptions/yt-U7q88D_G0Ac.md) [https://www.youtube.com/watch?v=U7q88D_G0Ac](https://www.youtube.com/watch?v=U7q88D_G0Ac)
+* [January 19th, 2021 Livestream Q&A: Will alternative recipes change with Update 4?](./transcriptions/yt-mwrYWPHr4jk.md) [https://www.youtube.com/watch?v=mwrYWPHr4jk](https://www.youtube.com/watch?v=mwrYWPHr4jk)
+</details>
+
+### [Q&A: Will there be signs in Update 4?](./transcriptions/yt-8BmHQuMW_L8.md) [https://www.youtube.com/watch?v=8BmHQuMW_L8](https://www.youtube.com/watch?v=8BmHQuMW_L8)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh where'd he go will there be signs in
+>
+> update for
+>
+> no but but soon in the future we are
+>
+> going to have signs in the game at some
+>
+> point
+>
+> we just don't know exactly when
+>
+> um and there was a somebody tweeted
+>
+> about this actually about like why they
+>
+> think that we have we don't have signs
+>
+> already because
+>
+> there's a bajillion things that people
+>
+> are like why isn't this in the game
+>
+> already
+>
+> this is such an obvious thing and uh it
+>
+> was a pretty good thread
+>
+> and the the tldr is that it's uh
+>
+> when you're solving a on on the surface
+>
+> seemingly simple design issue uh
+>
+> you're gonna end up running into a lot
+>
+> of other design
+>
+> issues that just makes the thing you're
+>
+> trying to solve much more complex
+>
+> um so and that's pretty much what
+>
+> happened with science
+>
+> and also that when we started
+>
+> implementing science like the bare
+>
+> minimum of science
+>
+> we also realized that but we can do this
+>
+> cool thing with it
+>
+> and we can do this cool thing with it
+>
+> and it just turned into like a
+>
+> feature bloated monster uh for science
+>
+> and it's not
+>
+> i don't know i don't understand like
+>
+> science are gonna be like revolutionary
+>
+> and
+>
+> satisfactory anything like that but it
+>
+> just ended up being like such a bigger
+>
+> thing than we anticipated and then we
+>
+> said all right let's let's save that for
+>
+> for later because we were originally
+>
+> going to make
+>
+> just make a small sign thing but we
+>
+> realized that we want to make something
+>
+> bigger with it so let's save that for
+>
+> when we had time for that
+>
+> and then production happens that just
+>
+> like keeps
+>
+> piling on more and more things um
+>
+> so but sometime we're going to have
+>
+> signs and it's going to be amazing
+>
+> yep good good sense will be had by all
+>
+> scope creep
+>
+> never happened yeah it doesn't happen
+>
+> it's impossible
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as February 2021 and as early as June 2020.</summary>
+
+* [February 16th, 2021 Livestream Q&A: Will there be signs in future updates?](./transcriptions/yt--t832FeMogU.md) [https://www.youtube.com/watch?v=-t832FeMogU](https://www.youtube.com/watch?v=-t832FeMogU)
+* [January 26th, 2021 Livestream Q&A: Are we getting signs any time soon?](./transcriptions/yt-RAYufEKcGLk.md) [https://www.youtube.com/watch?v=RAYufEKcGLk](https://www.youtube.com/watch?v=RAYufEKcGLk)
+* [November 3rd, 2020 Livestream Q&A: When do Signs come?](./transcriptions/yt-5PwIEaLRDRY.md) [https://www.youtube.com/watch?v=5PwIEaLRDRY](https://www.youtube.com/watch?v=5PwIEaLRDRY)
+* [September 29th, 2020 Livestream Q&A: Can we get Signs in the game?](./transcriptions/yt-P1hgqMJ8MW0.md) [https://www.youtube.com/watch?v=P1hgqMJ8MW0](https://www.youtube.com/watch?v=P1hgqMJ8MW0)
+* [August 25th, 2020 Livestream Q&A: Signs for Hypertube Entrances?](./transcriptions/yt-y3w-vPtVjog.md) [https://www.youtube.com/watch?v=y3w-vPtVjog](https://www.youtube.com/watch?v=y3w-vPtVjog)
+* [June 8th, 2020 Livestream Q&A: What about Signs?](./transcriptions/yt-UGKquiGR0CY.md) [https://www.youtube.com/watch?v=UGKquiGR0CY](https://www.youtube.com/watch?v=UGKquiGR0CY)
+</details>
+
 ## [February 26th, 2021 Instagram AMA](./2021-02-26.md)
 ### Q&A: Are there any plans for removing the poison spreading plants in Satisfactory? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4)
 
@@ -62,130 +1044,6 @@ date: Last Modified
 </details>
 
 ## [February 23rd, 2021 Livestream](./2021-02-23.md)
-### [Q&A: Any future combat or enemy updates to come?](./transcriptions/yt-MS3_LOEapI4.md) [https://www.youtube.com/watch?v=MS3_LOEapI4](https://www.youtube.com/watch?v=MS3_LOEapI4)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> yeah i was looking at him any future
->
-> combat or enemy updates to come
->
-> uh the only one that i know of is the
->
-> crab big crab
->
-> yeah the big crab uh that's coming at
->
-> some point we don't know
->
-> the big crab
->
-> crab battle uh that's the only one that
->
-> i know of
->
-> but uh and we're not gonna add like any
->
-> tower defense or anything like that in
->
-> the game
->
-> anytime soon don't say anytime soon
->
-> okay yeah we'll never do that we don't
->
-> have plans for that at all
->
-> i guess it's that for our plan is to not
->
-> do it okay that's how i want to break
->
-> that's the plan
->
-> yeah that's the one yeah
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 18 other times, as recently as February 2021 and as early as March 2019.</summary>
-
-* [February 9th, 2021 Livestream Q&A: When will you be adding more wildlife?](./transcriptions/yt-gAjKNyUTkMQ.md) [https://www.youtube.com/watch?v=gAjKNyUTkMQ](https://www.youtube.com/watch?v=gAjKNyUTkMQ)
-* [January 19th, 2021 Livestream Q&A: Will there be more Creatures, even more dangerous ones?](./transcriptions/yt-T0jbE_WjQJQ.md) [https://www.youtube.com/watch?v=T0jbE_WjQJQ](https://www.youtube.com/watch?v=T0jbE_WjQJQ)
-* [December 15th, 2020 Livestream Q&A: Will there be new enemies?](./transcriptions/yt-mwN7mAZ2dbg.md) [https://www.youtube.com/watch?v=mwN7mAZ2dbg](https://www.youtube.com/watch?v=mwN7mAZ2dbg)
-* [November 17th, 2020 Livestream Q&A: Any news on big Crab monster?](./transcriptions/yt-tTXExwaqZQM.md) [https://www.youtube.com/watch?v=tTXExwaqZQM](https://www.youtube.com/watch?v=tTXExwaqZQM)
-* [November 10th, 2020 Livestream Q&A: Any plans to add more animals to enemies or dangers?](./transcriptions/yt-RuzL7DdAJ1o.md) [https://www.youtube.com/watch?v=RuzL7DdAJ1o](https://www.youtube.com/watch?v=RuzL7DdAJ1o)
-* [November 3rd, 2020 Livestream Q&A: Are there going to be new Creatures?](./transcriptions/yt-c3jeZv_aYug.md) [https://www.youtube.com/watch?v=c3jeZv_aYug](https://www.youtube.com/watch?v=c3jeZv_aYug)
-* [October 20th, 2020 Livestream Q&A: Will Aliens become more diverse/actually challenging?](./transcriptions/yt-K7fDE5Dg570.md) [https://www.youtube.com/watch?v=K7fDE5Dg570](https://www.youtube.com/watch?v=K7fDE5Dg570)
-* [October 6th, 2020 Livestream Q&A: When do we get the Crab Boss?](./transcriptions/yt-m4PtschrKJc.md) [https://www.youtube.com/watch?v=m4PtschrKJc](https://www.youtube.com/watch?v=m4PtschrKJc)
-* [September 22nd, 2020 Livestream Q&A: Will there be more creatures?](./transcriptions/yt-Yzd466gO44M.md) [https://www.youtube.com/watch?v=Yzd466gO44M](https://www.youtube.com/watch?v=Yzd466gO44M)
-* [September 15th, 2020 Livestream Q&A: Are we ever going to see a new enemy type?](./transcriptions/yt-Kxq543wzKcY.md) [https://www.youtube.com/watch?v=Kxq543wzKcY](https://www.youtube.com/watch?v=Kxq543wzKcY)
-* [September 15th, 2020 Livestream Q&A: Will you add any Monsters/Bosses in the future?](./transcriptions/yt-D_BVMiGNvqI.md) [https://www.youtube.com/watch?v=D_BVMiGNvqI](https://www.youtube.com/watch?v=D_BVMiGNvqI)
-* [September 8th, 2020 Livestream Q&A: Will we ever see the Crab Boss?](./transcriptions/yt-HD54tFdoDTE.md) [https://www.youtube.com/watch?v=HD54tFdoDTE](https://www.youtube.com/watch?v=HD54tFdoDTE)
-* [September 1st, 2020 Livestream Q&A: When will we see the crab?](./transcriptions/yt-yHgb7ySKTMs.md) [https://www.youtube.com/watch?v=yHgb7ySKTMs](https://www.youtube.com/watch?v=yHgb7ySKTMs)
-* [August 25th, 2020 Livestream Q&A: New enemies / creatures?](./transcriptions/yt-TDbNru0heoU.md) [https://www.youtube.com/watch?v=TDbNru0heoU](https://www.youtube.com/watch?v=TDbNru0heoU)
-* [August 25th, 2020 Livestream Q&A: Will we have more monsters?](./transcriptions/yt-shEKhZakMxQ.md) [https://www.youtube.com/watch?v=shEKhZakMxQ](https://www.youtube.com/watch?v=shEKhZakMxQ)
-* August 25th, 2020 Livestream Q&A: Will we have more monsters? [https://clips.twitch.tv/GrotesqueDelightfulLyrebirdPrimeMe](https://clips.twitch.tv/GrotesqueDelightfulLyrebirdPrimeMe)
-* July 28th, 2020 Livestream Q&A: More Wildlife? [https://clips.twitch.tv/DirtyHilariousPancakeWow](https://clips.twitch.tv/DirtyHilariousPancakeWow)
-* [March 9th, 2019 Livestream Q&A: Is there more than 5 enemies in?](./transcriptions/yt-DLnUjlixpg8.md) [https://www.youtube.com/watch?v=DLnUjlixpg8](https://www.youtube.com/watch?v=DLnUjlixpg8)
-</details>
-
-### [Q&A: Any more major updates planned before 1.0?](./transcriptions/yt-XLXeOMWHoAc.md) [https://www.youtube.com/watch?v=XLXeOMWHoAc](https://www.youtube.com/watch?v=XLXeOMWHoAc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> any more major updates planned before
->
-> update uh before release 1.0 uh there
->
-> are a few
->
-> um there are a few coming yep we don't
->
-> have uh
->
-> we haven't specified like a number but
->
-> we know that we're gonna make like
->
-> update four and then we're gonna make
->
-> update five
->
-> um and then after that we haven't
->
-> specified anymore
->
-> and uh we have some ideas of what we'll
->
-> do after that but it's a bit too soon to
->
-> sort of
->
-> say publicly because things can always
->
-> change you know yes
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as February 2021 and as early as March 2019.</summary>
-
-* [February 9th, 2021 Livestream Q&A: Is Update 4 the last update?](./transcriptions/yt-3fNjN1FjhPU.md) [https://www.youtube.com/watch?v=3fNjN1FjhPU](https://www.youtube.com/watch?v=3fNjN1FjhPU)
-* January 26th, 2021 Livestream Q&A: How many Updates do you have planned before 1.0? [https://www.youtube.com/watch?v=7t2DLBi7kl8](https://www.youtube.com/watch?v=7t2DLBi7kl8)
-* [November 3rd, 2020 Livestream Q&A: How many Updates until 1.0?](./transcriptions/yt-qtf26oE7kQs.md) [https://www.youtube.com/watch?v=qtf26oE7kQs](https://www.youtube.com/watch?v=qtf26oE7kQs)
-* [September 1st, 2020 Livestream Q&A: About how many Updates will there be before 1.0?](./transcriptions/yt-eIolvvHPWmw.md) [https://www.youtube.com/watch?v=eIolvvHPWmw](https://www.youtube.com/watch?v=eIolvvHPWmw)
-* August 18th, 2020 Livestream Q&A: How often will there be updates to the game? [https://clips.twitch.tv/CheerfulZanyWebVoteYea](https://clips.twitch.tv/CheerfulZanyWebVoteYea)
-* [May 19th, 2020 Livestream Q&A: Do you intended to do planned amount of huge Updates?](./transcriptions/yt-Nk53HWpUnnk.md) [https://www.youtube.com/watch?v=Nk53HWpUnnk](https://www.youtube.com/watch?v=Nk53HWpUnnk)
-* [March 24th, 2020 Livestream Q&A: How often will you be releasing new content?](./transcriptions/yt-1gGMZa-xf70.md) [https://www.youtube.com/watch?v=1gGMZa-xf70](https://www.youtube.com/watch?v=1gGMZa-xf70)
-* [March 9th, 2019 Livestream Q&A: How often will you release updates in Early Access?](./transcriptions/yt-PBkvqmyjADM.md) [https://www.youtube.com/watch?v=PBkvqmyjADM](https://www.youtube.com/watch?v=PBkvqmyjADM)
-</details>
-
 ### [Q&A: Any more music tracks coming?](./transcriptions/yt-bzqL0DGULFM.md) [https://www.youtube.com/watch?v=bzqL0DGULFM](https://www.youtube.com/watch?v=bzqL0DGULFM)
 
 <details>
@@ -497,158 +1355,6 @@ date: Last Modified
 * [December 19th, 2019 Livestream Q&A: Satisfactory on Switch?](./transcriptions/yt-QVQZ2qgtTsQ.md) [https://www.youtube.com/watch?v=QVQZ2qgtTsQ](https://www.youtube.com/watch?v=QVQZ2qgtTsQ)
 * [March 9th, 2019 Livestream Q&A: Any scope of the game being on consoles?](./transcriptions/yt-bsTq_WiSeCY.md) [https://www.youtube.com/watch?v=bsTq_WiSeCY](https://www.youtube.com/watch?v=bsTq_WiSeCY)
 * [March 9th, 2019 Livestream Q&A: Will you create Console version of Satisfactory?](./transcriptions/yt-_MGUbEI247M.md) [https://www.youtube.com/watch?v=_MGUbEI247M](https://www.youtube.com/watch?v=_MGUbEI247M)
-</details>
-
-### [Q&A: Any update on Dedicated Servers?](./transcriptions/yt-MeB65-maH5k.md) [https://www.youtube.com/watch?v=MeB65-maH5k](https://www.youtube.com/watch?v=MeB65-maH5k)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> hold me snug up they don't have
->
-> dedicated servers
->
-> uh there's there's like no real update
->
-> on like the actual dedicated servers
->
-> themselves we are working on fixing
->
-> multiplayer bugs
->
-> um that kind of like needs to be fixed
->
-> for dedicated servers to work
->
-> uh overall so we are like we're
->
-> progressing on dedicated servers but
->
-> we're not like
->
-> a hello we don't have like an eta or
->
-> like when we think that
->
-> the server solution will be available
->
-> are you ready for this snip
->
-> oh yeah do it man you have the
->
-> bladerunners on on you right oh
->
-> big jump then yeah yeah
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 30 other times, as recently as February 2021 and as early as February 2019.</summary>
-
-* [February 23rd, 2021 Livestream Q&A: Dedicated Servers confirmed for Update 5?](./transcriptions/yt-XATD7Tg7YmQ.md) [https://www.youtube.com/watch?v=XATD7Tg7YmQ](https://www.youtube.com/watch?v=XATD7Tg7YmQ)
-* [February 16th, 2021 Livestream Q&A: Do you know when Dedicated Servers are coming?](./transcriptions/yt-1a6aeBB1rPs.md) [https://www.youtube.com/watch?v=1a6aeBB1rPs](https://www.youtube.com/watch?v=1a6aeBB1rPs)
-* [February 9th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-R9wpbVHJggc.md) [https://www.youtube.com/watch?v=R9wpbVHJggc](https://www.youtube.com/watch?v=R9wpbVHJggc)
-* [February 9th, 2021 Livestream Q&A: When will we see Dedicated Servers?](./transcriptions/yt-5XUn9L5xcAo.md) [https://www.youtube.com/watch?v=5XUn9L5xcAo](https://www.youtube.com/watch?v=5XUn9L5xcAo)
-* [February 2nd, 2021 Livestream Q&A: Any news on Dedicated Servers?](./transcriptions/yt--IAV3zlXLss.md) [https://www.youtube.com/watch?v=-IAV3zlXLss](https://www.youtube.com/watch?v=-IAV3zlXLss)
-* [February 2nd, 2021 Livestream Q&A: Release date for Dedicated Servers?](./transcriptions/yt-bhFmwWIY_dw.md) [https://www.youtube.com/watch?v=bhFmwWIY_dw](https://www.youtube.com/watch?v=bhFmwWIY_dw)
-* [January 26th, 2021 Livestream Q&A: Any updates on Dedicated Servers?](./transcriptions/yt-cvlz1tP61_M.md) [https://www.youtube.com/watch?v=cvlz1tP61_M](https://www.youtube.com/watch?v=cvlz1tP61_M)
-* [January 26th, 2021 Livestream Q&A: Dedicated Servers aka Multiplayer fixes when?](./transcriptions/yt-_XfcfZ8vfj8.md) [https://www.youtube.com/watch?v=_XfcfZ8vfj8](https://www.youtube.com/watch?v=_XfcfZ8vfj8)
-* [January 19th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-FIamGlpCEFk.md) [https://www.youtube.com/watch?v=FIamGlpCEFk](https://www.youtube.com/watch?v=FIamGlpCEFk)
-* [December 15th, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-03Ybo6-_eWA.md) [https://www.youtube.com/watch?v=03Ybo6-_eWA](https://www.youtube.com/watch?v=03Ybo6-_eWA)
-* [December 15th, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-HeezNCrsBRU.md) [https://www.youtube.com/watch?v=HeezNCrsBRU](https://www.youtube.com/watch?v=HeezNCrsBRU)
-* [December 8th, 2020 Livestream Q&A: Is there a reason for a lack of Dedicated Server builds?](./transcriptions/yt-47gzhAEWkFM.md) [https://www.youtube.com/watch?v=47gzhAEWkFM](https://www.youtube.com/watch?v=47gzhAEWkFM)
-* [November 17th, 2020 Livestream Q&A: Updates about Dedicated Servers?](./transcriptions/yt-32SZ2UKPZiQ.md) [https://www.youtube.com/watch?v=32SZ2UKPZiQ](https://www.youtube.com/watch?v=32SZ2UKPZiQ)
-* [October 20th, 2020 Livestream Q&A: Dedicated Servers coming with the next Update ?](./transcriptions/yt-VyyzowIc504.md) [https://www.youtube.com/watch?v=VyyzowIc504](https://www.youtube.com/watch?v=VyyzowIc504)
-* [October 20th, 2020 Livestream Q&A: When will Dedicated Servers be coming?](./transcriptions/yt-TW0i2hxJ7C0.md) [https://www.youtube.com/watch?v=TW0i2hxJ7C0](https://www.youtube.com/watch?v=TW0i2hxJ7C0)
-* [October 6th, 2020 Livestream Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?](./transcriptions/yt-KGmOM7dLT84.md) [https://www.youtube.com/watch?v=KGmOM7dLT84](https://www.youtube.com/watch?v=KGmOM7dLT84)
-* [September 29th, 2020 Livestream Q&A: Any update for Hosted/Dedicated Servers?](./transcriptions/yt-kiko6VnK6sA.md) [https://www.youtube.com/watch?v=kiko6VnK6sA](https://www.youtube.com/watch?v=kiko6VnK6sA)
-* [September 22nd, 2020 Livestream Q&A: Are there server files when I want to host my own Dedicated Server?](./transcriptions/yt-12nA53wOK6w.md) [https://www.youtube.com/watch?v=12nA53wOK6w](https://www.youtube.com/watch?v=12nA53wOK6w)
-* [September 22nd, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-tHUqAoOXffs.md) [https://www.youtube.com/watch?v=tHUqAoOXffs](https://www.youtube.com/watch?v=tHUqAoOXffs)
-* [September 8th, 2020 Livestream Q&A: When are we expecting to get Dedicated Servers?](./transcriptions/yt-G9PuZ0WvoOM.md) [https://www.youtube.com/watch?v=G9PuZ0WvoOM](https://www.youtube.com/watch?v=G9PuZ0WvoOM)
-* [September 1st, 2020 Livestream Q&A: Dedicated Servers](./transcriptions/yt-z5bf3k7JWlg.md) [https://www.youtube.com/watch?v=z5bf3k7JWlg](https://www.youtube.com/watch?v=z5bf3k7JWlg)
-* [August 25th, 2020 Livestream Q&A: Dedicated Servers update?](./transcriptions/yt-mtE-rHjMsn4.md) [https://www.youtube.com/watch?v=mtE-rHjMsn4](https://www.youtube.com/watch?v=mtE-rHjMsn4)
-* August 18th, 2020 Livestream Q&A: Did I miss the status update of Dedicated Servers? [https://clips.twitch.tv/ElatedWittyVelociraptorThunBeast](https://clips.twitch.tv/ElatedWittyVelociraptorThunBeast)
-* August 11th, 2020 Livestream Q&A: Are Dedicated Servers coming? [https://clips.twitch.tv/BigDeadPhoneKappaWealth](https://clips.twitch.tv/BigDeadPhoneKappaWealth)
-* August 11th, 2020 Livestream Q&A: Dedicated Servers, start building a community around that? [https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow](https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow)
-* August 11th, 2020 Livestream Q&A: What's the hold-up on Dedicated Servers? [https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride](https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride)
-* [June 8th, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-XuFfkTTZnoA.md) [https://www.youtube.com/watch?v=XuFfkTTZnoA](https://www.youtube.com/watch?v=XuFfkTTZnoA)
-* [February 11th, 2020 Livestream Q&A: Any news on Dedicated Servers?](./transcriptions/yt-pUhzc1Fd8sg.md) [https://www.youtube.com/watch?v=pUhzc1Fd8sg](https://www.youtube.com/watch?v=pUhzc1Fd8sg)
-* [January 22nd, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-Qy10mQQMXXI.md) [https://www.youtube.com/watch?v=Qy10mQQMXXI](https://www.youtube.com/watch?v=Qy10mQQMXXI)
-* [February 6th, 2019 Livestream Q&A: What's the possibility of Dedicated Servers?](./transcriptions/yt-Dtm6xIj-wM4,718.308644,808.471513.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809)
-</details>
-
-### [Q&A: Are there going to be more recipes- not new item recipes but more recipes for old items?](./transcriptions/yt-oojAhgClrl0.md) [https://www.youtube.com/watch?v=oojAhgClrl0](https://www.youtube.com/watch?v=oojAhgClrl0)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> i want to set a little checkpoint are
->
-> there going to be more recipes not new
->
-> item recipes but more recipes for old
->
-> items
->
-> uh do you mean like alternative recipes
->
-> i think there's going to be a few more
->
-> alternative recipes but i don't know i
->
-> mean i guess like there's new recipes in
->
-> terms of
->
-> things changing up in terms of res like
->
-> i guess
->
-> yeah to some degree but i can't say for
->
-> sure
->
-> because i don't know specifically if
->
-> that's true or not
->
-> specifically like maybe the one for
->
-> steel pipes or steel beams i don't think
->
-> like
->
-> that was early on like very early uh
->
-> like right when we
->
-> released the game we changed how steel
->
-> was uh
->
-> set up i don't think we'll ever change
->
-> something
->
-> so like fundamental like that uh ever
->
-> like how steel works but maybe in the
->
-> later tiers there'll be some
->
-> changes
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as January 2021.</summary>
-
-* [February 2nd, 2021 Livestream Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](./transcriptions/yt-U7q88D_G0Ac.md) [https://www.youtube.com/watch?v=U7q88D_G0Ac](https://www.youtube.com/watch?v=U7q88D_G0Ac)
-* [January 19th, 2021 Livestream Q&A: Will alternative recipes change with Update 4?](./transcriptions/yt-mwrYWPHr4jk.md) [https://www.youtube.com/watch?v=mwrYWPHr4jk](https://www.youtube.com/watch?v=mwrYWPHr4jk)
 </details>
 
 ### [Q&A: How many devs do you have?](./transcriptions/yt-Hj0nhmramiM.md) [https://www.youtube.com/watch?v=Hj0nhmramiM](https://www.youtube.com/watch?v=Hj0nhmramiM)
@@ -2025,31 +2731,6 @@ that.
 * [August 1st, 2018 Livestream Q&A: Will there be Steam achievements?](./transcriptions/yt-iFAy1NZUOGU,119.72,131.28.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132)
 </details>
 
-### [Q&A: Will there be signs in future updates?](./transcriptions/yt--t832FeMogU.md) [https://www.youtube.com/watch?v=-t832FeMogU](https://www.youtube.com/watch?v=-t832FeMogU)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will be there be signs in future updates
->
-> yep there will be signs at some point
->
-> yes
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as January 2021 and as early as June 2020.</summary>
-
-* [January 26th, 2021 Livestream Q&A: Are we getting signs any time soon?](./transcriptions/yt-RAYufEKcGLk.md) [https://www.youtube.com/watch?v=RAYufEKcGLk](https://www.youtube.com/watch?v=RAYufEKcGLk)
-* [November 3rd, 2020 Livestream Q&A: When do Signs come?](./transcriptions/yt-5PwIEaLRDRY.md) [https://www.youtube.com/watch?v=5PwIEaLRDRY](https://www.youtube.com/watch?v=5PwIEaLRDRY)
-* [September 29th, 2020 Livestream Q&A: Can we get Signs in the game?](./transcriptions/yt-P1hgqMJ8MW0.md) [https://www.youtube.com/watch?v=P1hgqMJ8MW0](https://www.youtube.com/watch?v=P1hgqMJ8MW0)
-* [August 25th, 2020 Livestream Q&A: Signs for Hypertube Entrances?](./transcriptions/yt-y3w-vPtVjog.md) [https://www.youtube.com/watch?v=y3w-vPtVjog](https://www.youtube.com/watch?v=y3w-vPtVjog)
-* [June 8th, 2020 Livestream Q&A: What about Signs?](./transcriptions/yt-UGKquiGR0CY.md) [https://www.youtube.com/watch?v=UGKquiGR0CY](https://www.youtube.com/watch?v=UGKquiGR0CY)
-</details>
-
 ## [February 9th, 2021 Livestream](./2021-02-09.md)
 ### [Q&A: $1 Toilet DLC?](./transcriptions/yt-mBpIB3ojMC8.md) [https://www.youtube.com/watch?v=mBpIB3ojMC8](https://www.youtube.com/watch?v=mBpIB3ojMC8)
 
@@ -2552,45 +3233,6 @@ that.
 * [September 8th, 2020 Livestream Q&A: When will the Toilet be operative?](./transcriptions/yt-zoVojtGZw9A.md) [https://www.youtube.com/watch?v=zoVojtGZw9A](https://www.youtube.com/watch?v=zoVojtGZw9A)
 </details>
 
-### [Q&A: When will all the collectables like Mercer Spheres be implemented?](./transcriptions/yt-1_qy-PSFKO8.md) [https://www.youtube.com/watch?v=1_qy-PSFKO8](https://www.youtube.com/watch?v=1_qy-PSFKO8)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> when will all the collectibles like
->
-> mercy's fears be fully implemented
->
-> they're gonna be
->
-> they're related to the story odd knock
->
-> so
->
-> uh yeah it'll have something to do with
->
-> the story when that comes along
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 11 other times, as recently as January 2021 and as early as December 2019.</summary>
-
-* [January 26th, 2021 Livestream Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?](./transcriptions/yt--N0atMiN9dM.md) [https://www.youtube.com/watch?v=-N0atMiN9dM](https://www.youtube.com/watch?v=-N0atMiN9dM)
-* [January 26th, 2021 Livestream Q&A: News for the Work In Progress collectables for anything in Update 4?](./transcriptions/yt-5vlFsF0dm3E.md) [https://www.youtube.com/watch?v=5vlFsF0dm3E](https://www.youtube.com/watch?v=5vlFsF0dm3E)
-* [January 12th, 2021 Livestream Q&A: Mercer Spheres and Somersloops?](./transcriptions/yt-99pdUN5glzw.md) [https://www.youtube.com/watch?v=99pdUN5glzw](https://www.youtube.com/watch?v=99pdUN5glzw)
-* [November 17th, 2020 Livestream Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](./transcriptions/yt-ccmgnLh1oO0.md) [https://www.youtube.com/watch?v=ccmgnLh1oO0](https://www.youtube.com/watch?v=ccmgnLh1oO0)
-* [October 6th, 2020 Livestream Q&A: When are these Work In Progress (WIP) items going to be used?](./transcriptions/yt-bmRdzV3-wJI.md) [https://www.youtube.com/watch?v=bmRdzV3-wJI](https://www.youtube.com/watch?v=bmRdzV3-wJI)
-* [September 15th, 2020 Livestream Q&A: Any chance Update 4 unlocks the Work In Progress items?](./transcriptions/yt-Z870GlRbfjk.md) [https://www.youtube.com/watch?v=Z870GlRbfjk](https://www.youtube.com/watch?v=Z870GlRbfjk)
-* [September 15th, 2020 Livestream Q&A: When do the Work In Progress items get a purpose?](./transcriptions/yt-koMqOABA6x8.md) [https://www.youtube.com/watch?v=koMqOABA6x8](https://www.youtube.com/watch?v=koMqOABA6x8)
-* [August 25th, 2020 Livestream Q&A: Do you have any clue on what the alien artefacts do?](./transcriptions/yt-hRe0QvJDjsg.md) [https://www.youtube.com/watch?v=hRe0QvJDjsg](https://www.youtube.com/watch?v=hRe0QvJDjsg)
-* August 18th, 2020 Livestream Q&A: When are Somersloops and Orbs have meaning? [https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride](https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride)
-* [February 11th, 2020 Livestream Q&A: Mercer Spheres?](./transcriptions/yt-9VS0lGfDZ1k.md) [https://www.youtube.com/watch?v=9VS0lGfDZ1k](https://www.youtube.com/watch?v=9VS0lGfDZ1k)
-* [December 19th, 2019 Livestream Q&A: Will Mercer Spheres and Somersloops be useful soon?](./transcriptions/yt-SYWPIjbe_4Y.md) [https://www.youtube.com/watch?v=SYWPIjbe_4Y](https://www.youtube.com/watch?v=SYWPIjbe_4Y)
-</details>
-
 ### [Q&A: When will we be able to get different character customisations?](./transcriptions/yt-x55_Zt2OLQ4.md) [https://www.youtube.com/watch?v=x55_Zt2OLQ4](https://www.youtube.com/watch?v=x55_Zt2OLQ4)
 
 <details>
@@ -3042,34 +3684,6 @@ that.
 * [September 8th, 2020 Livestream Q&A: Extension on current Map?](./transcriptions/yt-Ad3tjOha0JI.md) [https://www.youtube.com/watch?v=Ad3tjOha0JI](https://www.youtube.com/watch?v=Ad3tjOha0JI)
 * [September 1st, 2020 Livestream Q&A: Map expansion ?](./transcriptions/yt-2ZHnQ9U4f9I.md) [https://www.youtube.com/watch?v=2ZHnQ9U4f9I](https://www.youtube.com/watch?v=2ZHnQ9U4f9I)
 * December 19th, 2019 Livestream Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
-</details>
-
-### [Q&A: Will we get two character slots for Jetpacks and Blade Runners](./transcriptions/yt-YKIN_NCGDpo.md) [https://www.youtube.com/watch?v=YKIN_NCGDpo](https://www.youtube.com/watch?v=YKIN_NCGDpo)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will we get two character slots for
->
-> jetpack and blade runners uh
->
-> something that's been highly requested
->
-> from people there's no uh word on
->
-> whether that is definitely gonna be a
->
-> thing or not
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as October 2020 and as early as September 2020.</summary>
-
-* [October 6th, 2020 Livestream Q&A: What's the max amount of body slots?](./transcriptions/yt-aPWXjH-Xf1o.md) [https://www.youtube.com/watch?v=aPWXjH-Xf1o](https://www.youtube.com/watch?v=aPWXjH-Xf1o)
-* [September 15th, 2020 Livestream Q&A: Can I wear Boots, Jetpack and a Gas Mask?](./transcriptions/yt-Gt1ATsmBu6k.md) [https://www.youtube.com/watch?v=Gt1ATsmBu6k](https://www.youtube.com/watch?v=Gt1ATsmBu6k)
 </details>
 
 ## [January 26th, 2021 Livestream](./2021-01-26.md)
@@ -3659,36 +4273,6 @@ that.
 * [October 13th, 2020 Livestream Q&A: I think it's better to stack the inputs & outputs](./transcriptions/yt-RK0ENdeE27c.md) [https://www.youtube.com/watch?v=RK0ENdeE27c](https://www.youtube.com/watch?v=RK0ENdeE27c)
 </details>
 
-### [Q&A: Can we please get a Snow Biome?](./transcriptions/yt-QHVdhswD13w.md) [https://www.youtube.com/watch?v=QHVdhswD13w](https://www.youtube.com/watch?v=QHVdhswD13w)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> but hopefully soon can we please get a
->
-> snow biome
->
-> uh that is a big old nope from hannah
->
-> we we don't want to do a snow biome
->
-> unfortunately
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 6 other times, as recently as January 2021 and as early as August 2020.</summary>
-
-* [January 19th, 2021 Livestream Q&A: If the community made a Snow Biome, would you add that?](./transcriptions/yt-I8rWTBGdGio.md) [https://www.youtube.com/watch?v=I8rWTBGdGio](https://www.youtube.com/watch?v=I8rWTBGdGio)
-* [December 15th, 2020 Livestream Q&A: Will there be a Snow Biome?](./transcriptions/yt-iyhdKRg1b0A.md) [https://www.youtube.com/watch?v=iyhdKRg1b0A](https://www.youtube.com/watch?v=iyhdKRg1b0A)
-* [November 17th, 2020 Livestream Q&A: Is Snow/Ice coming?](./transcriptions/yt-s8HISCrP7w8.md) [https://www.youtube.com/watch?v=s8HISCrP7w8](https://www.youtube.com/watch?v=s8HISCrP7w8)
-* [September 22nd, 2020 Livestream Q&A: Snowy Biome confirmed?](./transcriptions/yt-Yend7bHTMvw.md) [https://www.youtube.com/watch?v=Yend7bHTMvw](https://www.youtube.com/watch?v=Yend7bHTMvw)
-* [September 15th, 2020 Livestream Q&A: Snow Area Confirmed?](./transcriptions/yt-yUDtq7D8XU8.md) [https://www.youtube.com/watch?v=yUDtq7D8XU8](https://www.youtube.com/watch?v=yUDtq7D8XU8)
-* August 18th, 2020 Livestream Q&A: Any ice/snow biome plans? [https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl](https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl)
-</details>
-
 ### [Q&A: How possible are Dedicated Servers in Update 4?](./transcriptions/yt--3JqJE_94g0.md) [https://www.youtube.com/watch?v=-3JqJE_94g0](https://www.youtube.com/watch?v=-3JqJE_94g0)
 
 <details>
@@ -3952,57 +4536,6 @@ that.
 * [December 15th, 2020 Livestream Q&A: Do you plan on adding mass foundation placement?](./transcriptions/yt-8Pm6KLejrOQ.md) [https://www.youtube.com/watch?v=8Pm6KLejrOQ](https://www.youtube.com/watch?v=8Pm6KLejrOQ)
 * July 21st, 2020 Livestream Q&A: Why no mass building? [https://clips.twitch.tv/SoftBovineArmadilloNerfRedBlaster](https://clips.twitch.tv/SoftBovineArmadilloNerfRedBlaster)
 * [March 24th, 2020 Livestream Q&A: Multiple Foundation creation?](./transcriptions/yt-zfdV2qIDHP4.md) [https://www.youtube.com/watch?v=zfdV2qIDHP4](https://www.youtube.com/watch?v=zfdV2qIDHP4)
-</details>
-
-### [Q&A: Sink that accepts Liquids or Gas?](./transcriptions/yt-SskXA-lxaCI.md) [https://www.youtube.com/watch?v=SskXA-lxaCI](https://www.youtube.com/watch?v=SskXA-lxaCI)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> sink that accepts liquids or gas
->
-> so the sink will not be able to accept
->
-> like like
->
-> the liquid in its liquid form but if you
->
-> package it and if you package gas
->
-> then yes the sink will be able to accept
->
-> it
->
-> and that's i i'm assuming that's going
->
-> to work the same way with gases i
->
-> i don't know for sure but i like that's
->
-> the way it worked with
->
-> that's the way it works with liquids so
->
-> i'm assuming that's how it's going to
->
-> work with gases as well
->
-> um so no change to the sink
->
-> itself but you can still um
->
-> sync like the package by a variety of it
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as October 2020 and as early as August 2020.</summary>
-
-* [October 27th, 2020 Livestream Q&A: Fluid Sink ever going to happen?](./transcriptions/yt-j79cJptq5h8.md) [https://www.youtube.com/watch?v=j79cJptq5h8](https://www.youtube.com/watch?v=j79cJptq5h8)
-* [September 1st, 2020 Livestream Q&A: Will there be something like the Resource Sink but for Fluids?](./transcriptions/yt-nT4pfUlmZBs.md) [https://www.youtube.com/watch?v=nT4pfUlmZBs](https://www.youtube.com/watch?v=nT4pfUlmZBs)
-* [August 25th, 2020 Livestream Q&A: Is the sink going to accept liquids in the future?](./transcriptions/yt-k6ZS5wzlNKs.md) [https://www.youtube.com/watch?v=k6ZS5wzlNKs](https://www.youtube.com/watch?v=k6ZS5wzlNKs)
 </details>
 
 ### [Q&A: Underwater Biome?](./transcriptions/yt-loc82lE_XK4.md) [https://www.youtube.com/watch?v=loc82lE_XK4](https://www.youtube.com/watch?v=loc82lE_XK4)
@@ -6335,104 +6868,6 @@ that.
 * [February 6th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-Dtm6xIj-wM4,4052.6,4151.820477.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152)
 </details>
 
-### [Q&A: Is the OST on Spotify?](./transcriptions/yt-iCN324N905o.md) [https://www.youtube.com/watch?v=iCN324N905o](https://www.youtube.com/watch?v=iCN324N905o)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> does it always see on spotify
->
-> no not yet the one of the main reasons
->
-> why we haven't released the osd on
->
-> spotify is because there are still
->
-> there's still
->
-> stuff coming um there's still more music
->
-> to be
->
-> heard in the game and such um
->
-> and i guess there's been like maybe some
->
-> licensing thing as well i don't know
->
-> um but i think the main main reason is
->
-> because
->
-> uh the soundtrack isn't done so i think
->
-> we're gonna look into that fairly soon
->
-> actually
->
-> uh we were i was in a meeting
->
-> fairly recently about music uh
->
-> oh actually i need to i need to oh i
->
-> that reminds me i need to
->
-> uh to make a
->
-> follow-up meeting for that meeting
->
-> actually i just realized i forgot about
->
-> that
->
-> completely i'm gonna make a note about
->
-> that
->
-> i sure can
->
-> okay i had i had a feeling
->
-> [Music]
->
-> um
->
-> but uh yeah in the future
->
-> uh i think we're gonna add the music to
->
-> spotify or whatever streaming services
->
-> that you guys wanted on or
->
-> whatever i don't fully know who who
->
-> has rights and what not to the music
->
-> because uh it's made by yannick
->
-> um who's been i think you'd admit a
->
-> dev highlight of him a while back yeah i
->
-> did
->
-> it's like one of the first ones right
->
-> so yeah
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as January 2020.</summary>
-
-* [September 8th, 2020 Livestream Q&A: Releasing the Soundtrack on Spotify?](./transcriptions/yt-zoDYA4Y9jdE.md) [https://www.youtube.com/watch?v=zoDYA4Y9jdE](https://www.youtube.com/watch?v=zoDYA4Y9jdE)
-* [January 22nd, 2020 Livestream Q&A: Are there plans to put the OST on Spotify?](./transcriptions/yt-z4cypywhIks.md) [https://www.youtube.com/watch?v=z4cypywhIks](https://www.youtube.com/watch?v=z4cypywhIks)
-</details>
-
 ### [Q&A: Why are we only Female in the game and no Male options?](./transcriptions/yt-njr4NS88fBc.md) [https://www.youtube.com/watch?v=njr4NS88fBc](https://www.youtube.com/watch?v=njr4NS88fBc)
 
 <details>
@@ -6551,18 +6986,6 @@ that.
 * [March 9th, 2019 Livestream Q&A: Can we have an alternate arachnophobia mode with Simon's face?](./transcriptions/yt-3h2P4TfAAwE.md) [https://www.youtube.com/watch?v=3h2P4TfAAwE](https://www.youtube.com/watch?v=3h2P4TfAAwE)
 * [August 1st, 2018 Livestream Q&A: Can we change the sprite ourselves?](./transcriptions/yt-iFAy1NZUOGU,227.8,231.6.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
 * [August 1st, 2018 Livestream Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](./transcriptions/yt-iFAy1NZUOGU,208.96,227.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228)
-</details>
-
-## [August 11th, 2020 Livestream](./2020-08-11.md)
-### Q&A: Do you have Goats in Satisfactory? [https://clips.twitch.tv/FurryTalentedCrowBleedPurple](https://clips.twitch.tv/FurryTalentedCrowBleedPurple)
-
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as December 2019 and as early as February 2019.</summary>
-
-* [December 19th, 2019 Livestream Q&A: Does it mean we get Goats?](./transcriptions/yt-RlSL5DONzns.md) [https://www.youtube.com/watch?v=RlSL5DONzns](https://www.youtube.com/watch?v=RlSL5DONzns)
-* [December 19th, 2019 Livestream Q&A: Will there be goats?](./transcriptions/yt-3YZMayi1Qec.md) [https://www.youtube.com/watch?v=3YZMayi1Qec](https://www.youtube.com/watch?v=3YZMayi1Qec)
-* March 9th, 2019 Livestream Q&A: Are there any goats in the game? [https://www.youtube.com/watch?v=jAjSoN6Z1rc](https://www.youtube.com/watch?v=jAjSoN6Z1rc)
-* [February 6th, 2019 Livestream Q&A: Is there goats in Satisfactory?](./transcriptions/yt-Dtm6xIj-wM4,3842.669132,3860.976436.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3842&end=3861](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3842&end=3861)
 </details>
 
 ## [July 28th, 2020 Livestream](./2020-07-28.md)
