@@ -40,4 +40,4 @@ https://www.youtube.com/watch?v=-2hJ5_qMAoM
 >
 > Snutt: Yeah.
 >
-> Jace: it's so beautiful. Ha- that's Hannah and Gustav's- they did that.
+> Jace: it's so beautiful. Ha- that's [Hannah](../topics/coffee-stainers/hannah/) and [Gustav](../topics/coffee-stainers/g2/)'s- they did that.
