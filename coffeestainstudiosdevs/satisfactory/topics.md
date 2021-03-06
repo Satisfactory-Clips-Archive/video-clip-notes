@@ -256,13 +256,13 @@ date: Last Modified
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ## Released
-
-### [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)
-* [Alpha Weekend](./topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
 * [Satisfactory Update 1](./topics/satisfactory-updates/released/satisfactory-update-1.md)
 * [Satisfactory Update 2](./topics/satisfactory-updates/released/satisfactory-update-2.md)
 * [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Fluids Update](./topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+
+### [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)
+* [Alpha Weekend](./topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
 
 ## [Seasonal Events](./topics/satisfactory-updates/seasonal-events.md)
 * [FICS⁕MAS](./topics/satisfactory-updates/seasonal-events/fics-mas.md)
