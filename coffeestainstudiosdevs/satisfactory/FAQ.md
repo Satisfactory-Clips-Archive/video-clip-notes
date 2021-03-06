@@ -7000,23 +7000,11 @@ that.
 
 <summary>A transcript is available</summary>
 
-> go for it yeah uh will the price go up
+> Snutt: Go for it.
 >
-> after early access ends i'm actually not
+> Jace: Yeah, uhh... "Will the price go up after [early access](/topics/retail/early-access.md) ends?"
 >
-> sure
->
-> uh i think we sort of thought that maybe
->
-> as the game gets more complete it would
->
-> go up but
->
-> that was uh over a year ago that that we
->
-> thought of that and
->
-> basically don't know
+> I'm actually not sure, uhh.. I think we sort of thought that, maybe as the game gets more complete it would go up, but... that was ugh, over a year ago that- that we thought of that and- don't know basically, don- don't know.
 
 
 </details>

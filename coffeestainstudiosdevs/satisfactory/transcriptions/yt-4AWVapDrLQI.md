@@ -4,6 +4,7 @@ date: "2020-09-15"
 layout: transcript
 topics:
     - "off-topic/factorio"
+    - "retail/early-access"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Jace & Snutt Talk: Early Access Games
@@ -11,193 +12,102 @@ https://www.youtube.com/watch?v=4AWVapDrLQI
 
 ### Topics
 * [Off-Topic > Factorio](../topics/off-topic/factorio.md)
+* [Retail > Early Access](../topics/retail/early-access.md)
 
 ### Transcript
 
-> [ __ ] uh having already been successful
+> Snutt: Fuck.
 >
-> in both epic and steam early access
+> Jace: Uhh...
 >
-> launches
+> "Having already been successful in both [Epic](../topics/retail/epic-store.md) and [Steam](../topics/retail/steam-store/steam-release.md) [early access](../topics/retail/early-access.md) launches, what is- what is your incentive for making to [1.0 release](../topics/satisfactory-updates/pending/satisfactory-1-0.md)... versus taking the money you already have and running?"
 >
-> what is your incentive for making to one
+> Uhh... the incentive is that we are making a game, and we want to finish it because we care about it.
 >
-> point a release versus taking the money
+> Uhh...
 >
-> you already have and running
+> Making something good is very important to us-
 >
-> uh the incentive is that we are making a
+> Snutt: Yeah
 >
-> game
+> Jace: -the- the- the art side the creation side of making games is very important to us.
 >
-> and we want to finish it because we care
+> Uhh...
 >
-> about it
+> The fact that we made money because people liked it is great- Uhh- but we still got a job to do.
 >
-> making something good is very important
+> Not like- not just for people who like- not just for people who bought the game; First of all we- we sort of owe them- [laughing] a finished product-
 >
-> to us yeah
+> Snutt: [smiling] Yeah, yeah.
 >
-> the the the art side the creation side
+> Jace: -but- but also for us, we- we spent so much time doing this like why the hell would we just stop?
 >
-> of making games is very important to us
+> That's crazy, people- we'd riot I think everyone would just riot,
 >
-> uh the fact that we made money because
+> Snutt: Hmm.
 >
-> people liked it
+> Jace: if some reason whoever would take make that decision.
 >
-> is great uh but we still got a job to do
+> Snutt: Yeah.
 >
-> no like not just for people who like not
+> Jace: Uhm..
 >
-> just for people who bought the game
+> Snutt: But it's also like you know even the the boring like...
 >
-> first of all we sort of owe them a
+> Jace: I would riot.
 >
-> finished product
+> Snutt: aspect of- like there are a lot of people that wouldn't- -don't want to play early access games, or like waiting for [1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md) to come out before they even start diving into it,
 >
-> yeah but but also for us we we spent so
+> Jace: Hmmhm.
 >
-> much time
+> Snutt: and I- I'm one of those people like I didn't play [Factorio](../topics/off-topic/factorio.md) until it was 1.0.
 >
-> doing this like why the hell would we
+> Jace: Yeah.
 >
-> just stop that's crazy
+> Snutt: Uhm... so there's also that aspect, but yeah the- the bigger as- believe it or not like the bigger aspect is for us that we just want to finish it, like... it's...
 >
-> people we'd riot i think everyone would
+> Jace: It's important to finish it.
 >
-> just riot if
+> And I- you know like back when we started and decided to do early access, we didn't want to do [early access](../topics/retail/early-access.md)- -there was like a lot of pushback, we were like: "we don't want to be one of those games stuck in early access" and we still don't, like it's so important to not be stuck here, like I- I don't know- like I don't want to- I don't want to throw shade, but I think I'm just going to end up throwing shade, but.. uhmm- but it's just like... I feel like this for me,
 >
-> some reason whoever would take make that
+> Snutt: [Laughs]
 >
-> decision
+> Jace: and I- and I think it's a shared sentiment, we just don't want to be one of those games. That's the thing. There are a lot of early access games out there who stay early access for a long time, and they're awesome- -they're actively developing, they're engaging with the community and that's fantastic. Uhm... but there are too many that just don't. [Laughs]
 >
-> yeah um but it's also like
+> Snutt: Yeah.
 >
-> you know even the the boring like aspect
+> Jace: And we don't want to be that so-
 >
-> of like there are a lot of people that
+> Snutt: And we also- yeah we don't want to be stuck there for a long time either, like I think at some point we're gonna- -even though we have like so many ideas for Satisfactory I think at one point we're just gonna be like- "all right we got just gotta finish it at this point"
 >
-> wouldn't
+> Jace: Yeah, yeah.
 >
-> don't want to play early access games or
+> Snutt: fuck it- because I don't think uh we want us-
 >
-> like waiting for 1.0 to come out before
+> Jace: Yeah.
 >
-> they even start
+> Snutt: -because like Wube was in was in early access for eight years with [Factorio](../topics/off-topic/factorio.md), and- and when we see that we're like
 >
-> diving into it and i i'm one of those
+> "whoa that's so long we don't want to do that"
 >
-> people like i didn't play factorio until
+> Jace: [Shakes head]
 >
-> it was
+> I don't want to be in early access for 8 years.
 >
-> 1.0 um so there's also that aspect
+> Snutt: Yeah, yeah.
 >
-> but yeah the the bigger believe it or
+> Jace: I don't want to work on an early access game for eight years-
 >
-> not like the bigger aspect is for us
+> Snutt: Yeah.
 >
-> that we just want to finish it
+> Jace: -because there's no reason why we can't update it after [1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 >
-> like it's important to finish it
+> Snutt: [shrugs] Yeah.
 >
-> and you know like back when we started i
+> Jace: Like...
 >
-> decided to do early access we didn't
+> So it's like it doesn't really change much,
 >
-> want to do early access there was like a
+> Snutt: Hmm.
 >
-> lot of pushback we were like we don't
->
-> want to
->
-> be one of those games stuck in early
->
-> access and we still don't like it's so
->
-> important to not be stuck here
->
-> like i i don't know like i don't want to
->
-> i don't want to throw shade but i think
->
-> i'm just going to end up throwing shade
->
-> but
->
-> but it's just like i feel like this
->
-> for me and i and i think it's a shared
->
-> sentiment we just don't want to be one
->
-> of those games
->
-> that's the thing there are a lot of
->
-> early access games out there who
->
-> stay early access for a long time and
->
-> they're awesome
->
-> they're actively developing they're
->
-> engaging with the community and that's
->
-> fantastic
->
-> um but there are too many that just
->
-> don't
->
-> yeah and we don't want to be that so and
->
-> we also yeah we don't want to be
->
-> stuck there for a long time either like
->
-> i think at some point we're gonna
->
-> even though we have like so many ideas
->
-> for satisfactory i think at one point
->
-> we're just gonna be like all right we
->
-> got just gotta finish it at this point
->
-> yeah yeah [ __ ] it because i don't think
->
-> uh we want us
->
-> because like whoop was in was in early
->
-> access for eight years
->
-> with factorio and and when we see that
->
-> we're like
->
-> whoa that's so long we don't want to do
->
-> that i don't want to be an early
->
-> christmas
->
-> yes yeah i don't want to work on an
->
-> early access game for eight years yeah
->
-> because there's no reason why we can't
->
-> update it after 1.0
->
-> like so it's like it doesn't really
->
-> change much
->
-> but we do want to say that we've got a
->
-> finished game
+> Jace: but we do want to say that we've got a finished game.

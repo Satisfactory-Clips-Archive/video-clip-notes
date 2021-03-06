@@ -3,6 +3,7 @@ title: "December 19th, 2019 Livestream Q&A: Will price go up after Early Access 
 date: "2019-12-19"
 layout: transcript
 topics:
+    - "retail/early-access"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
@@ -18,24 +19,13 @@ https://www.youtube.com/watch?v=TFg_ppmX8OE
 
 
 ### Topics
+* [Retail > Early Access](../topics/retail/early-access.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript
 
-> go for it yeah uh will the price go up
+> Snutt: Go for it.
 >
-> after early access ends i'm actually not
+> Jace: Yeah, uhh... "Will the price go up after [early access](../topics/retail/early-access.md) ends?"
 >
-> sure
->
-> uh i think we sort of thought that maybe
->
-> as the game gets more complete it would
->
-> go up but
->
-> that was uh over a year ago that that we
->
-> thought of that and
->
-> basically don't know
+> I'm actually not sure, uhh.. I think we sort of thought that, maybe as the game gets more complete it would go up, but... that was ugh, over a year ago that- that we thought of that and- don't know basically, don- don't know.

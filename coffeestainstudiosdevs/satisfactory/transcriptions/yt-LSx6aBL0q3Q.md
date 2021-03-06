@@ -3,6 +3,7 @@ title: "November 10th, 2020 Livestream Q&A: Do you ever get the feeling the game
 date: "2020-11-10"
 layout: transcript
 topics:
+    - "retail/early-access"
     - "satisfactory-updates/release-builds"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
@@ -12,30 +13,31 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 
 ### Topics
+* [Retail > Early Access](../topics/retail/early-access.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript
 
-> maybe um
+> Jace: Maybe.
 >
-> [Music]
+> Snutt: Uhm...
 >
-> do you ever get the feeling the game
+> Jace: Umm...
 >
-> will be put aside for other projects and
+> Uhh...
 >
-> never leave early access that is i think
+> "Do you ever get the feeling the game will be put aside for other projects and never leave [early access](../topics/retail/early-access.md)?"
 >
-> there's a zero percent chance of that
+> That is I think there's a zero percent chance of that.
 >
-> yeah status factory will leave early
+> Snutt: Yeah.
 >
-> access and we're not gonna do another
+> Jace: Satisfactory will leave [early access](../topics/retail/early-access.md), and we're not gonna do another game until it does.
 >
-> game until it does
+> You can be... you can be sure that
 >
-> you can be you can be sure that i'm
+> Snutt: Yeah.
 >
-> quite sure of that i would be very
+> Jace: I'm quite sure of that I would be very surprised if that didn't happen.
 >
-> surprised if that didn't happen
+> Snutt: [Laughs]

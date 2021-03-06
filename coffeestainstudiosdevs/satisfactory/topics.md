@@ -233,6 +233,7 @@ date: Last Modified
 * [Valheim](./topics/off-topic/valheim.md)
 
 # [Retail](./topics/retail.md)
+* [Early Access](./topics/retail/early-access.md)
 
 ## [Epic Store](./topics/retail/epic-store.md)
 * [Epic Store Exclusivity](./topics/retail/epic-store/epic-store-exclusivity.md)

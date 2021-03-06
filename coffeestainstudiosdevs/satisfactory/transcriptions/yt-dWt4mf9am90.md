@@ -4,6 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "features/tiers/tier-4"
+    - "retail/early-access"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Tier 4 open now?
@@ -11,17 +12,20 @@ https://www.youtube.com/watch?v=dWt4mf9am90
 
 ### Topics
 * [Features > Tiers > Tier 4](../topics/features/tiers/tier-4.md)
+* [Retail > Early Access](../topics/retail/early-access.md)
 
 ### Transcript
 
-> tier four open now no no we're not going
+> Jace: "[Tier 4](../topics/features/tiers/tier-4.md) open [now](../topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)?"
 >
-> to open
+> No no- we're not going to open any more [tiers](../topics/features/tiers.md).
 >
-> any more tiers um well like until early
+> Uhm... well like until [early access](../topics/retail/early-access.md),
 >
-> access when you get early access it'll
+> when you get [early access](../topics/retail/early-access.md) it'll be-
 >
-> be
+> oh man... it'll be uh...
 >
-> oh man it'll be uh
+> Snutt: [Tier 6](../topics/features/tiers/tier-6.md).
+>
+> Jace, Snutt: [Tier 6](../topics/features/tiers/tier-6.md).

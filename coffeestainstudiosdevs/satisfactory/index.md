@@ -81,6 +81,7 @@ layout: index
 
 ## March
 * [March 9th](2019-03-09.md)
+* [March 7th](2019-03-07.md)
 
 ## February
 * [February 20th](2019-02-20.md)

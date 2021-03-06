@@ -3,6 +3,7 @@ title: "March 9th, 2019 Livestream Snutt, Simon, Jace Talk: Early Access Release
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "retail/early-access"
     - "satisfactory-updates/release-builds"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
@@ -10,54 +11,57 @@ topics:
 https://www.youtube.com/watch?v=RsI9XqjI0fk
 
 ### Topics
+* [Retail > Early Access](../topics/retail/early-access.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript
 
-> hmm gabe looks amazing can't wait till
+> Jace: Hmm
 >
-> the 19th
+> Simon: "Game looks amazing can't wait till [the 19th](../topics/retail/early-access.md)"
 >
-> thank you thank you very much i'm super
+> Thank you, thank you very much I'm super hyped for [the night](../topics/retail/early-access.md)
 >
-> hyped for the night
+> Snutt: me too [clears throat]
 >
-> me too yeah man it's gonna be worse i
+> Jace: yeah man it's gonna be wild
 >
-> can't wait to to lose more sleep
+> Snutt: I can't wait to to lose more sleep
 >
-> yeah it's worth it i can't wait to log
+> [Laughs]
 >
-> out of twitter and leave the country
+> Simon: yeah it's worth it
 >
-> oh yeah i love
+> Jace: I can't wait to log out of twitter and leave the country
 >
-> everyone that's the main should have a
+> Snutt: Yeah.
 >
-> smurf account
+> Oh yeah...
 >
-> the smurf account on twitter twitter
+> Simon: [Laughs]
 >
-> twitter's so easy i just got a smurf
+> Jace: I love everyone that's the main problem.
 >
-> account you know
+> Snutt: Going to Brasil!
 >
-> whatever 2k mmr smurf account yeah yeah
+> Simon: Jace should have- Should have a smurf account!
 >
-> um i know i i i love answering all the
+> Jace: [Laughing] The smurf ac-
 >
-> questions to help everyone
+> Snutt: The smurf account on twitter!
 >
-> and i respond to every single dm that's
+> Simon: Smurf accounts on twitter, yeah!
 >
-> the thing but then
+> Snutt: Pfft- Twitter's so easy I just got a smurf account you know
 >
-> when big events like this happen it just
+> Jace: Yeah whatever... 2k mmr smurf account yeah
 >
-> one person can't do it so i have to like
+> Snutt: yeah yeah
 >
-> stop videos and stuff but yeah i like
+> Jace: Um I know I, I- I love answering all the questions to help everyone and I respond to every single dm that's the thing but then when big events like this happen it just one person can't do it so I have to like stop my dms and stuff but I like doing it okay.
 >
-> doing it okay
+> Snutt: Yeah
 >
-> all right you ready
+> No. Simon?
+>
+> Jace: Alright you ready for this?

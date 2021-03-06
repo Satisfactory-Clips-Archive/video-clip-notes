@@ -3,6 +3,7 @@ title: "February 2nd, 2021 Livestream Q&A: Out of Early Access?"
 date: "2021-02-02"
 layout: transcript
 topics:
+    - "retail/early-access"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
@@ -12,20 +13,23 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 
 ### Topics
+* [Retail > Early Access](../topics/retail/early-access.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript
 
-> out of early access
+> Snutt, Jace: [laughs]
 >
-> um uh i guess you're asking when are we
+> Jace: Out of [early access](../topics/retail/early-access.md)? Uhm... Uhh.. I guess you're asking when are we gonna be out of [early access](../topics/retail/early-access.md). Uh no- no idea yet.
 >
-> gonna be out of early access
+> Snutt: Yeah.
 >
-> uh no no idea yet yeah well we have some
+> Jace: Well we have some ideas but...
 >
-> ideas but
+> Snutt: Our ideas are shit.
 >
-> our ideas are super super pickle
+> Jace: That is super super fickle right now.
 >
-> right now yeah
+> Snutt: Yeah.
+>
+> Jace: Yeah.

@@ -3,6 +3,7 @@ title: "March 9th, 2019 Livestream Q&A: Is the Early Access version the same ver
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "retail/early-access"
     - "satisfactory-updates/release-builds"
     - "satisfactory-updates/released/satisfactory-alpha"
     - "satisfactory-updates/released/satisfactory-alpha/alpha-weekend"
@@ -14,24 +15,17 @@ This question was possibly duplicated with a more recent answer: [March 9th, 201
 
 
 ### Topics
+* [Retail > Early Access](../topics/retail/early-access.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Satisfactory Updates > Released > Satisfactory Alpha > Alpha Weekend](../topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
 
 ### Transcript
 
-> is some stuff that unfortunately is the
+> Snutt: Is some stuff that unfortunately..
 >
-> early access version the same version
+> Jace: "Is the [early access](../topics/retail/early-access.md) version the same version [alpha testers](../topics/satisfactory-updates/released/satisfactory-alpha.md) have"
 >
-> alpha testers have uh if by alpha test
+> Uhh if by [alpha testers](../topics/satisfactory-updates/released/satisfactory-alpha.md)- so yeah [this weekend version](../topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)-
 >
-> is so yeah
->
-> this weekend version limited to three
->
-> exactly uh but early access is the same
->
-> as those who have the alphabet key
->
-> uh yes
+> limited to- three exactly- uhh but [early access](../topics/retail/early-access.md) is the same as those who have the alpha key, uhh.. yes

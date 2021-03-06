@@ -6,6 +6,7 @@ topics:
     - "environment/creatures"
     - "off-topic/goat-simulator"
     - "off-topic/sanctum"
+    - "retail/early-access"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
@@ -18,64 +19,41 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
+* [Retail > Early Access](../topics/retail/early-access.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript
 
-> will there ever be a 1.0 or are you guys
+> Snutt: "will there ever be a [1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md) or are you guys going to keep it [early-](../topics/retail/early-access.md)"
 >
-> going to keep it early no
+> No! Definitely [1.0!](../topics/satisfactory-updates/pending/satisfactory-1-0.md) I- I said it previous in the stream, but like we do not want to work on this game forever.
 >
-> definitely 1.0 i said it previous in the
+> Uhmm...
 >
-> stream
+> We're gonna reach a point where [Coffee Stain](../topics/coffee-stainers.md) is like: "all right let's make something new"
 >
-> but like we do not want to work on this
+> Uhmm...
 >
-> game forever um
+> Because I- I don't think... I- I think this has been in the past for [Coffee Stain](../topics/coffee-stainers.md) like that- we just don't want to stick with something forever, that was like the main reason why we didn't want to make a [Sanctum 3](../topics/off-topic/sanctum.md) you know, because we want to make something new.
 >
-> we're gonna reach a point where
+> Umm.
 >
-> coffeston is like all right let's make
+> But it's not impossible to make a [Sanctum 3](../topics/off-topic/sanctum.md) at some point in the future but, you know...
 >
-> something new
+> We... we- we like what you what we make-
 >
-> um because i i don't think
+> ["Goat Sim 2?"](../topics/off-topic/goat-simulator.md) no get out.
 >
-> i i think this has been in the past for
+> [Laughs]
 >
-> coffee scene like that
+> N- literally nobody wants that.
 >
-> we just don't want to stick with
+> "It's [1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md) when there's a goat in the game?" there's already in the go- a goat in the game, have- did you not notice?
 >
-> something forever that was like the main
+> [Gasps]
 >
-> reason why we didn't want to make a
+> oh my god.
 >
-> sanctum 3 you know
+> "Please no more [Goat Sim](../topics/off-topic/goat-simulator.md)"
 >
-> because we want to make something new
->
-> but it's not impossible to make a
->
-> sanctum three at some point in the
->
-> future but
->
-> you know we
->
-> we we like what you what we make goats
->
-> him too no get out
->
-> literally nobody wants that
->
-> it's 1.0 when there's a goat in the game
->
-> there's already in the go
->
-> a goat in the game have you not noticed
->
-> oh my god please no more guards him
->
-> exactly i told you nobody wants that
+> Exactly, I told you nobody wants that.

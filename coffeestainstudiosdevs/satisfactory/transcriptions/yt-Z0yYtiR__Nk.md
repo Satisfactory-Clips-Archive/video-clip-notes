@@ -3,6 +3,7 @@ title: "January 26th, 2021 Livestream Q&A: When will the game be released from E
 date: "2021-01-26"
 layout: transcript
 topics:
+    - "retail/early-access"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
@@ -12,12 +13,11 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 
 ### Topics
+* [Retail > Early Access](../topics/retail/early-access.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript
 
-> yeah when will the game be released from
+> Jace: Yeah.
 >
-> early access
->
-> no idea no idea still got some time left
+> When will the game be released from [early access](../topics/retail/early-access.md)? No idea. No idea, still got some time left.

@@ -3,47 +3,27 @@ title: "March 9th, 2019 Livestream Q&A: Will these streams be a regular thing du
 date: "2019-03-09"
 layout: transcript
 topics:
-    - ""
+    - "retail/early-access"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will these streams be a regular thing during Early Access phase?
 https://www.youtube.com/watch?v=uCG8_WGh9Bk
 
 ### Topics
-
+* [Retail > Early Access](../topics/retail/early-access.md)
 
 ### Transcript
 
-> will these streams be a regular thing
+> Jace: "Will these streams be a regular thing during [early access phase](../topics/retail/early-access.md) and we have planned release schedule for [early access](../topics/retail/early-access.md)?"
 >
-> during early access phase and
+> Uhh...
 >
-> we have planned police schedule for
+> We have a roadmap on our website you can find that link to it in the panel down below, umm... and as for the streams, uh- I've been trying to organize just more streams of some kind,
 >
-> early access
+> umm... recently as things are becoming a little less secret, and now not secret at all, so, uh, we've done a few. So hopefully- hopefully we'll do more.
 >
-> uh we have a roadmap on our website you
+> We try and do it here in YouTube but today we're just doing Twitch. Umm.
 >
-> can find that link to it in the panel
+> Snutt: Umm.. we've done both, like a few times.
 >
-> down below um and as for the streams
->
-> i've been trying to organize just more
->
-> streams of some kind
->
-> um recently as things are becoming a
->
-> little less
->
-> secret and now not secret at all so
->
-> we've done a few so hopefully hopefully
->
-> we'll do more
->
-> we try and do it here in youtube but
->
-> today we're just doing twitch
->
-> um we've done both
+> Jace: We've done both.

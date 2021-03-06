@@ -4,6 +4,7 @@ date: "2020-10-20"
 layout: transcript
 topics:
     - "off-topic/factorio"
+    - "retail/early-access"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Five years? What is this- an Early Access Logistics game?
@@ -11,37 +12,42 @@ https://www.youtube.com/watch?v=spm2R0VhMV8
 
 ### Topics
 * [Off-Topic > Factorio](../topics/off-topic/factorio.md)
+* [Retail > Early Access](../topics/retail/early-access.md)
 
 ### Transcript
 
-> i have some idea like five years what is
+> Jace: I have some idea like-
 >
-> this an early access logistics game oh
+> Snutt: "Five years- what is this, an early access logistics game?"
 >
-> uh factorio wasn't released early access
+> Oh shit.
 >
-> for eight years
+> Jace: [snigger]
 >
-> um we are
+> Snutt: Uh... [Factorio](../topics/off-topic/factorio.md) wasn't released early access for eight years, uhm... we are... closing in on two years?
 >
-> closing in on two years in early access
+> In early access?
 >
-> i think yeah something like that i don't
+> I think?
 >
-> remember
+> Jace: Yeah something like that I don't remember.
 >
-> time flies yeah
+> Snutt: Shit. Time-
 >
-> i don't know how long they worked on
+> Jace: Time- time flies.
 >
-> factory before they released it maybe
+> Snutt: -flies. Yeah.
 >
-> they released a pretty early on but
+> I don't know how long they worked on [Factorio](../topics/off-topic/factorio.md) before they released it maybe they released a pretty early on, but eight years in early access is a long time.
 >
-> eight years in early access a long time
+> Jace: [Laughs]
 >
-> man you're getting there just a long
+> Snutt: Man you're getting there [Jace](../topics/coffee-stainers/jace.md).
 >
-> time that's
+> Jace: Long time!
 >
-> too damn long
+> Snutt: Long time!
+>
+> Jace: That's a- too damn long.
+>
+> Snutt: [Chuckles]
