@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Refinery
 
+## March 9th, 2021 Livestream
+* [Snutt & Jace Talk: Can't remember of Turbofuel has changed](../../../transcriptions/yt-tGsaRAqAAsk.md) [https://www.youtube.com/watch?v=tGsaRAqAAsk](https://www.youtube.com/watch?v=tGsaRAqAAsk)
+* [Q&A: What's the difference between a Blender & a Refinery?](../../../transcriptions/yt-z6j7M2hcSHk.md) [https://www.youtube.com/watch?v=z6j7M2hcSHk](https://www.youtube.com/watch?v=z6j7M2hcSHk)
+* [Q&A: Will Turbofuel stop working in Refineries when recipes move?](../../../transcriptions/yt-M4OEtn68g8Y.md) [https://www.youtube.com/watch?v=M4OEtn68g8Y](https://www.youtube.com/watch?v=M4OEtn68g8Y)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: So now we don't have to use Refineries to craft Aluminium Ingots?](../../../transcriptions/yt-gyxMiVe8UMA.md) [https://www.youtube.com/watch?v=gyxMiVe8UMA](https://www.youtube.com/watch?v=gyxMiVe8UMA)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Switch
 
+## March 9th, 2021 Livestream
+* [Q&A: What about the Priority Switch?](../../../transcriptions/yt-oQUm2oWxOOE.md) [https://www.youtube.com/watch?v=oQUm2oWxOOE](https://www.youtube.com/watch?v=oQUm2oWxOOE)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Can you toggle the Power Switch on/off without opening the GUI ?](../../../transcriptions/yt-NVHH5f2Vfak.md) [https://www.youtube.com/watch?v=NVHH5f2Vfak](https://www.youtube.com/watch?v=NVHH5f2Vfak)
 * [Q&A: Like prioritise Coal over Nuclear?](../../../transcriptions/yt-IdKhbyR81Nw.md) [https://www.youtube.com/watch?v=IdKhbyR81Nw](https://www.youtube.com/watch?v=IdKhbyR81Nw)

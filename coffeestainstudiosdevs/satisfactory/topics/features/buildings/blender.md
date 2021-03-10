@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Blender
 
+## March 9th, 2021 Livestream
+* [Q&A: What's the difference between a Blender & a Refinery?](../../../transcriptions/yt-z6j7M2hcSHk.md) [https://www.youtube.com/watch?v=z6j7M2hcSHk](https://www.youtube.com/watch?v=z6j7M2hcSHk)
+* [Q&A: Will Turbofuel stop working in Refineries when recipes move?](../../../transcriptions/yt-M4OEtn68g8Y.md) [https://www.youtube.com/watch?v=M4OEtn68g8Y](https://www.youtube.com/watch?v=M4OEtn68g8Y)
+
 ## February 9th, 2021 Livestream
 * [Q&A: How many new machines in Update 4?](../../../transcriptions/yt-B_pY-VYMMOE.md) [https://www.youtube.com/watch?v=B_pY-VYMMOE](https://www.youtube.com/watch?v=B_pY-VYMMOE)
 

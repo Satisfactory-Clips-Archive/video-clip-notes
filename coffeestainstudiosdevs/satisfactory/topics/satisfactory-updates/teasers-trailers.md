@@ -4,6 +4,18 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Teasers & Trailers
 
+## March 9th, 2021 Livestream
+* [Snutt & Jace Talk: #WeWantDoors](../../transcriptions/yt-UINcRavrC5Y.md) [https://www.youtube.com/watch?v=UINcRavrC5Y](https://www.youtube.com/watch?v=UINcRavrC5Y)
+* [Snutt & Jace Talk: Community figured out the Nuclear Refinement recipes](../../transcriptions/yt-b1zq4fwxmsU.md) [https://www.youtube.com/watch?v=b1zq4fwxmsU](https://www.youtube.com/watch?v=b1zq4fwxmsU)
+* [Snutt & Jace Talk: Community spotted things in the Nuclear Refinement teaser](../../transcriptions/yt-0BtRlCxfxEc.md) [https://www.youtube.com/watch?v=0BtRlCxfxEc](https://www.youtube.com/watch?v=0BtRlCxfxEc)
+* [Snutt & Jace Talk: New Nuclear](../../transcriptions/yt-aewjS8-zD80.md) [https://www.youtube.com/watch?v=aewjS8-zD80](https://www.youtube.com/watch?v=aewjS8-zD80)
+* [Snutt & Jace Talk: Shout-out to Mark & Linus for putting the teaser together](../../transcriptions/yt-JDaOZ9BU7iI.md) [https://www.youtube.com/watch?v=JDaOZ9BU7iI](https://www.youtube.com/watch?v=JDaOZ9BU7iI)
+* [State of Dev: Update 4 Launch Stream announcement](../../transcriptions/yt-cYPJzcepPkY.md) [https://www.youtube.com/watch?v=cYPJzcepPkY](https://www.youtube.com/watch?v=cYPJzcepPkY)
+* [State of Dev: Update 4 patch notes video](../../transcriptions/yt-pfDllR9dMnY.md) [https://www.youtube.com/watch?v=pfDllR9dMnY](https://www.youtube.com/watch?v=pfDllR9dMnY)
+* [Q&A: What about the Priority Switch?](../../transcriptions/yt-oQUm2oWxOOE.md) [https://www.youtube.com/watch?v=oQUm2oWxOOE](https://www.youtube.com/watch?v=oQUm2oWxOOE)
+* [Q&A: When will be the exact time for stream on March 16th?](../../transcriptions/yt-dIlHIdHxRyM.md) [https://www.youtube.com/watch?v=dIlHIdHxRyM](https://www.youtube.com/watch?v=dIlHIdHxRyM)
+* Q&A: Will the (Update 4) Stream start at the same time? [https://www.youtube.com/watch?v=X-Gb1BIvMYw](https://www.youtube.com/watch?v=X-Gb1BIvMYw)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: How's the patch notes video coming along?](../../transcriptions/yt-JSiUvQ1K00Q.md) [https://www.youtube.com/watch?v=JSiUvQ1K00Q](https://www.youtube.com/watch?v=JSiUvQ1K00Q)
 * [Community FYI: Just waiting for Jace to bring out his inner Steve Irwin](../../transcriptions/yt-8gln5c3gNWQ.md) [https://www.youtube.com/watch?v=8gln5c3gNWQ](https://www.youtube.com/watch?v=8gln5c3gNWQ)

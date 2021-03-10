@@ -14,6 +14,11 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## March 9th, 2021 Livestream
+* [Q&A: Have you played Dyson Sphere Program?](../transcriptions/yt-e8_ddoqo6iE.md) [https://www.youtube.com/watch?v=e8_ddoqo6iE](https://www.youtube.com/watch?v=e8_ddoqo6iE)
+* [Q&A: Jace been teaching Snutt accents?](../transcriptions/yt-eLNc5DHoejU.md) [https://www.youtube.com/watch?v=eLNc5DHoejU](https://www.youtube.com/watch?v=eLNc5DHoejU)
+* [Snutt & Jace Talk: Oreos](../transcriptions/yt-2cWkWV6irT0.md) [https://www.youtube.com/watch?v=2cWkWV6irT0](https://www.youtube.com/watch?v=2cWkWV6irT0)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: BTTV Emotes, when?](../transcriptions/yt-3LkuTKgvEVs.md) [https://www.youtube.com/watch?v=3LkuTKgvEVs](https://www.youtube.com/watch?v=3LkuTKgvEVs)
 

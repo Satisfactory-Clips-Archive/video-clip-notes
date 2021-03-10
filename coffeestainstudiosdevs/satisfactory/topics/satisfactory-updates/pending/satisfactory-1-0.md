@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## March 9th, 2021 Livestream
+* [Q&A: Will the soundtrack be expanded before 1.0?](../../../transcriptions/yt-Is1WuIaWXGE.md) [https://www.youtube.com/watch?v=Is1WuIaWXGE](https://www.youtube.com/watch?v=Is1WuIaWXGE)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: Does Update 4 equal 1.0?](../../../transcriptions/yt-E5B4N52cWRM.md) [https://www.youtube.com/watch?v=E5B4N52cWRM](https://www.youtube.com/watch?v=E5B4N52cWRM)
 * Q&A: How many Updates are planned before 1.0? [https://www.youtube.com/watch?v=DVSYDPE6STc](https://www.youtube.com/watch?v=DVSYDPE6STc)

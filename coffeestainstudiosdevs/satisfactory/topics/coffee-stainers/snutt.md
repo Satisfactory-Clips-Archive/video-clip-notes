@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
+## March 9th, 2021 Livestream
+* [Q&A: Are you 100% Community Manager or do you do something else?](../../transcriptions/yt-MySQXTvVYBQ.md) [https://www.youtube.com/watch?v=MySQXTvVYBQ](https://www.youtube.com/watch?v=MySQXTvVYBQ)
+* [Q&A: Jace been teaching Snutt accents?](../../transcriptions/yt-eLNc5DHoejU.md) [https://www.youtube.com/watch?v=eLNc5DHoejU](https://www.youtube.com/watch?v=eLNc5DHoejU)
+* [Snutt & Jace Talk: Oreos](../../transcriptions/yt-2cWkWV6irT0.md) [https://www.youtube.com/watch?v=2cWkWV6irT0](https://www.youtube.com/watch?v=2cWkWV6irT0)
+* [Community FYI: To keep things coherent, both Community Managers need to be bald](../../transcriptions/yt-euH-2H4UoSs.md) [https://www.youtube.com/watch?v=euH-2H4UoSs](https://www.youtube.com/watch?v=euH-2H4UoSs)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: Can you juggle? (Part 1)](../../transcriptions/yt-DL2uQG36Mak.md) [https://www.youtube.com/watch?v=DL2uQG36Mak](https://www.youtube.com/watch?v=DL2uQG36Mak)
 * [Q&A: Can you juggle? (Part 2)](../../transcriptions/yt-mRJ9K0Igxcw.md) [https://www.youtube.com/watch?v=mRJ9K0Igxcw](https://www.youtube.com/watch?v=mRJ9K0Igxcw)

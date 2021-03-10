@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Transportation > Hyper Tubes
 
+## March 9th, 2021 Livestream
+* [Q&A: Is the canon an intended behaviour for Hyper Tubes or a bug?](../../../transcriptions/yt-9oX64bJ65Cg.md) [https://www.youtube.com/watch?v=9oX64bJ65Cg](https://www.youtube.com/watch?v=9oX64bJ65Cg)
+
 ## January 19th, 2021 Livestream
 * [Q&A: Why do we get a Gas warning when we're in a Hypertube?](../../../transcriptions/yt-b1pzjEAzXOU.md) [https://www.youtube.com/watch?v=b1pzjEAzXOU](https://www.youtube.com/watch?v=b1pzjEAzXOU)
 

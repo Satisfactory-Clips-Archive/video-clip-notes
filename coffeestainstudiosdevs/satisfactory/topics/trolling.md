@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## March 9th, 2021 Livestream
+* [Q&A: Jace been teaching Snutt accents?](../transcriptions/yt-eLNc5DHoejU.md) [https://www.youtube.com/watch?v=eLNc5DHoejU](https://www.youtube.com/watch?v=eLNc5DHoejU)
+* [State of Dev: Update 4 Release date trolling](../transcriptions/yt-9V_3E9_masw.md) [https://www.youtube.com/watch?v=9V_3E9_masw](https://www.youtube.com/watch?v=9V_3E9_masw)
+* [Q&A: What do you guys like most about working at Coffee Stain?](../transcriptions/yt-L5P4V2YcjBc.md) [https://www.youtube.com/watch?v=L5P4V2YcjBc](https://www.youtube.com/watch?v=L5P4V2YcjBc)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: Is the Story good though?](../transcriptions/yt-q6ZTpN0GVHA.md) [https://www.youtube.com/watch?v=q6ZTpN0GVHA](https://www.youtube.com/watch?v=q6ZTpN0GVHA)
 * [Snutt & Jace Talk: Valheim trolling](../transcriptions/yt-eCpkFfMs_Vw.md) [https://www.youtube.com/watch?v=eCpkFfMs_Vw](https://www.youtube.com/watch?v=eCpkFfMs_Vw)

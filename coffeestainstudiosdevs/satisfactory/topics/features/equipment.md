@@ -8,6 +8,9 @@ date: Last Modified
 * [Jetpack](../../topics/features/equipment/jetpack.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## March 9th, 2021 Livestream
+* [Q&A: Will we ever get a second body slot?](../../transcriptions/yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: When are we going to be able to use more than one Equipment at a time?](../../transcriptions/yt-w6VfAW7WD1w.md) [https://www.youtube.com/watch?v=w6VfAW7WD1w](https://www.youtube.com/watch?v=w6VfAW7WD1w)
 * [Q&A: Will we ever get a doughnut to go with the endless Coffee?](../../transcriptions/yt-8wm6buatRpY.md) [https://www.youtube.com/watch?v=8wm6buatRpY](https://www.youtube.com/watch?v=8wm6buatRpY)

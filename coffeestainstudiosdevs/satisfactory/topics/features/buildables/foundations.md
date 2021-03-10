@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 
+## March 9th, 2021 Livestream
+* [&A: Will we ever get perfect half Foundations?](../../../transcriptions/yt-ST1-4v5RMPQ.md) [https://www.youtube.com/watch?v=ST1-4v5RMPQ](https://www.youtube.com/watch?v=ST1-4v5RMPQ)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: You've said in the past that Foundations underneath the map has been a contributing factor?](../../../transcriptions/yt-SWLzazuKh4g.md) [https://www.youtube.com/watch?v=SWLzazuKh4g](https://www.youtube.com/watch?v=SWLzazuKh4g)
 

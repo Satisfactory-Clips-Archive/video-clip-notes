@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Smerkin
 
+## March 9th, 2021 Livestream
+* [Community FYI: Update 3 was a realignment of the game, whereas Update 4 is new content](../../transcriptions/yt-BoJRV1WelIM.md) [https://www.youtube.com/watch?v=BoJRV1WelIM](https://www.youtube.com/watch?v=BoJRV1WelIM)
+
 ## October 9th, 2020 Livestream
 * [Community FYI: Game struggles with 10 Tractors, 14 Trucks, 1 Explorer, and 83 Factory Carts](../../transcriptions/yt-T_Vldyf9rBI.md) [https://www.youtube.com/watch?v=T_Vldyf9rBI](https://www.youtube.com/watch?v=T_Vldyf9rBI)
 

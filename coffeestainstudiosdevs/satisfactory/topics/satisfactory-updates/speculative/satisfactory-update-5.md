@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 5
 
+## March 9th, 2021 Livestream
+* [Q&A: Is there going to be Update 5 after Update 4, or is it going to be finished?](../../../transcriptions/yt-WllD2Ql611s.md) [https://www.youtube.com/watch?v=WllD2Ql611s](https://www.youtube.com/watch?v=WllD2Ql611s)
+* [Q&A: When will Update 5 be?](../../../transcriptions/yt-D2CIkNehRNw.md) [https://www.youtube.com/watch?v=D2CIkNehRNw](https://www.youtube.com/watch?v=D2CIkNehRNw)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Any more major updates planned before 1.0?](../../../transcriptions/yt-XLXeOMWHoAc.md) [https://www.youtube.com/watch?v=XLXeOMWHoAc](https://www.youtube.com/watch?v=XLXeOMWHoAc)
 * [Q&A: Dedicated Servers confirmed for Update 5?](../../../transcriptions/yt-XATD7Tg7YmQ.md) [https://www.youtube.com/watch?v=XATD7Tg7YmQ](https://www.youtube.com/watch?v=XATD7Tg7YmQ)

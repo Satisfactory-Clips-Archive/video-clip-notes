@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Simon
 * [Simon Saga](../../topics/coffee-stainers/simon/simon-saga.md)
 
+## March 9th, 2021 Livestream
+* [Q&A: What do you guys like most about working at Coffee Stain?](../../transcriptions/yt-L5P4V2YcjBc.md) [https://www.youtube.com/watch?v=L5P4V2YcjBc](https://www.youtube.com/watch?v=L5P4V2YcjBc)
+
 ## February 16th, 2021 Livestream
 * [Q&A: Who's Simon?](../../transcriptions/yt-MQSdhIKAjNc.md) [https://www.youtube.com/watch?v=MQSdhIKAjNc](https://www.youtube.com/watch?v=MQSdhIKAjNc)
 

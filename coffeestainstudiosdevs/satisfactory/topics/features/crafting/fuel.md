@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## March 9th, 2021 Livestream
+* [Snutt & Jace Talk: Can't remember of Turbofuel has changed](../../../transcriptions/yt-tGsaRAqAAsk.md) [https://www.youtube.com/watch?v=tGsaRAqAAsk](https://www.youtube.com/watch?v=tGsaRAqAAsk)
+* [Q&A: Will Turbofuel stop working in Refineries when recipes move?](../../../transcriptions/yt-M4OEtn68g8Y.md) [https://www.youtube.com/watch?v=M4OEtn68g8Y](https://www.youtube.com/watch?v=M4OEtn68g8Y)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: I still have Packaged Fuel being produced from a Refinery, will it be the same with Aluminium?](../../../transcriptions/yt-TT3qZCTt_0o.md) [https://www.youtube.com/watch?v=TT3qZCTt_0o](https://www.youtube.com/watch?v=TT3qZCTt_0o)
 

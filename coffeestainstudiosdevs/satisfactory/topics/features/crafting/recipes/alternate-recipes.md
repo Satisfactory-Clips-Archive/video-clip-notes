@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## March 9th, 2021 Livestream
+* [Snutt & Jace Talk: Can't remember of Turbofuel has changed](../../../../transcriptions/yt-tGsaRAqAAsk.md) [https://www.youtube.com/watch?v=tGsaRAqAAsk](https://www.youtube.com/watch?v=tGsaRAqAAsk)
+
 ## March 2nd, 2021 Livestream
 * [Snutt Talk: Mark said we're adding new Alternate Recipes & new Crash Sites](../../../../transcriptions/yt-PoEuuDU4jpo.md) [https://www.youtube.com/watch?v=PoEuuDU4jpo](https://www.youtube.com/watch?v=PoEuuDU4jpo)
 * [Snutt Talk: Response from Mark regarding Alternate Recipes](../../../../transcriptions/yt-AlKn7_O78tU.md) [https://www.youtube.com/watch?v=AlKn7_O78tU](https://www.youtube.com/watch?v=AlKn7_O78tU)

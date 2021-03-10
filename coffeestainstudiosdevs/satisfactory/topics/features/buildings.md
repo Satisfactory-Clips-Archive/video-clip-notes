@@ -22,6 +22,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## March 9th, 2021 Livestream
+* [Snutt & Jace Talk: New Nuclear](../../transcriptions/yt-aewjS8-zD80.md) [https://www.youtube.com/watch?v=aewjS8-zD80](https://www.youtube.com/watch?v=aewjS8-zD80)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: How about a button to lock a Building in place before building it?](../../transcriptions/yt-1b3hUDdPoKY.md) [https://www.youtube.com/watch?v=1b3hUDdPoKY](https://www.youtube.com/watch?v=1b3hUDdPoKY)
 

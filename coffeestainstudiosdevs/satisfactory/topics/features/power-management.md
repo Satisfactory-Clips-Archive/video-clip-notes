@@ -9,6 +9,10 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## March 9th, 2021 Livestream
+* [Snutt & Jace Talk: Snutt learned a thing from Update 4](../../transcriptions/yt-qCdoBNMwLDw.md) [https://www.youtube.com/watch?v=qCdoBNMwLDw](https://www.youtube.com/watch?v=qCdoBNMwLDw)
+* [Q&A: Why was the change done to Power?](../../transcriptions/yt-F7m4PH19OIo.md) [https://www.youtube.com/watch?v=F7m4PH19OIo](https://www.youtube.com/watch?v=F7m4PH19OIo)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: Are you going to fix the Wall Power Pole?](../../transcriptions/yt-LwR145hCQW8.md) [https://www.youtube.com/watch?v=LwR145hCQW8](https://www.youtube.com/watch?v=LwR145hCQW8)
 * [Q&A: How will Update 4 change the lower-level items?](../../transcriptions/yt-7DIFELANBQs.md) [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)

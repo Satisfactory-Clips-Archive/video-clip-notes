@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## March 9th, 2021 Livestream
+* [Snutt & Jace Talk: Community figured out the Nuclear Refinement recipes](../../../transcriptions/yt-b1zq4fwxmsU.md) [https://www.youtube.com/watch?v=b1zq4fwxmsU](https://www.youtube.com/watch?v=b1zq4fwxmsU)
+* [Q&A: What's the difference between a Blender & a Refinery?](../../../transcriptions/yt-z6j7M2hcSHk.md) [https://www.youtube.com/watch?v=z6j7M2hcSHk](https://www.youtube.com/watch?v=z6j7M2hcSHk)
+* [Q&A: Will Turbofuel stop working in Refineries when recipes move?](../../../transcriptions/yt-M4OEtn68g8Y.md) [https://www.youtube.com/watch?v=M4OEtn68g8Y](https://www.youtube.com/watch?v=M4OEtn68g8Y)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: So now we don't have to use Refineries to craft Aluminium Ingots?](../../../transcriptions/yt-gyxMiVe8UMA.md) [https://www.youtube.com/watch?v=gyxMiVe8UMA](https://www.youtube.com/watch?v=gyxMiVe8UMA)
 

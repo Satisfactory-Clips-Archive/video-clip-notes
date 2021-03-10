@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## March 9th, 2021 Livestream
+* [State of Dev: Update 4 Launch Stream announcement](../../transcriptions/yt-cYPJzcepPkY.md) [https://www.youtube.com/watch?v=cYPJzcepPkY](https://www.youtube.com/watch?v=cYPJzcepPkY)
+* [State of Dev: Update 4 patch notes video](../../transcriptions/yt-pfDllR9dMnY.md) [https://www.youtube.com/watch?v=pfDllR9dMnY](https://www.youtube.com/watch?v=pfDllR9dMnY)
+* [State of Dev: Update 4 Release date trolling](../../transcriptions/yt-9V_3E9_masw.md) [https://www.youtube.com/watch?v=9V_3E9_masw](https://www.youtube.com/watch?v=9V_3E9_masw)
+
 ## March 2nd, 2021 Livestream
 * [State of Dev - Teaser Trailer due on Friday](../../transcriptions/yt-E5tJZ7Yk2cI.md) [https://www.youtube.com/watch?v=E5tJZ7Yk2cI](https://www.youtube.com/watch?v=E5tJZ7Yk2cI)
 * [State of Dev: Still in Content Freeze (Part 1)](../../transcriptions/yt-9wsiaonRlQY.md) [https://www.youtube.com/watch?v=9wsiaonRlQY](https://www.youtube.com/watch?v=9wsiaonRlQY)

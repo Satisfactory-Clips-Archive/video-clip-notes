@@ -11,6 +11,12 @@ date: Last Modified
 * [Smerkin](../topics/community/smerkin.md)
 * [Wiki](../topics/community/wiki.md)
 
+## March 9th, 2021 Livestream
+* [Snutt & Jace Talk: Can't remember of Turbofuel has changed](../transcriptions/yt-tGsaRAqAAsk.md) [https://www.youtube.com/watch?v=tGsaRAqAAsk](https://www.youtube.com/watch?v=tGsaRAqAAsk)
+* [Snutt & Jace Talk: Community figured out the Nuclear Refinement recipes](../transcriptions/yt-b1zq4fwxmsU.md) [https://www.youtube.com/watch?v=b1zq4fwxmsU](https://www.youtube.com/watch?v=b1zq4fwxmsU)
+* [Snutt & Jace Talk: Community spotted things in the Nuclear Refinement teaser](../transcriptions/yt-0BtRlCxfxEc.md) [https://www.youtube.com/watch?v=0BtRlCxfxEc](https://www.youtube.com/watch?v=0BtRlCxfxEc)
+* [Q&A: What do you guys like most about working at Coffee Stain?](../transcriptions/yt-L5P4V2YcjBc.md) [https://www.youtube.com/watch?v=L5P4V2YcjBc](https://www.youtube.com/watch?v=L5P4V2YcjBc)
+
 ## March 2nd, 2021 Livestream
 * [State of Stream: Still haven't finished DrawingXaos' Maze yet](../transcriptions/yt-7o4VbiEXXHM.md) [https://www.youtube.com/watch?v=7o4VbiEXXHM](https://www.youtube.com/watch?v=7o4VbiEXXHM)
 * [Q&A: Was my question about Update 4.20 the one you wouldn't read out?](../transcriptions/yt-jRGWJsQxvfg.md) [https://www.youtube.com/watch?v=jRGWJsQxvfg](https://www.youtube.com/watch?v=jRGWJsQxvfg)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## March 9th, 2021 Livestream
+* [Q&A: Have Valheim sales surpassed Satisfactory?](../../transcriptions/yt-LqI44274bQw.md) [https://www.youtube.com/watch?v=LqI44274bQw](https://www.youtube.com/watch?v=LqI44274bQw)
+
 ## March 2nd, 2021 Livestream
 * Q&A: Are you Community Management with Valheim too? [https://www.youtube.com/watch?v=o30d8md11vo](https://www.youtube.com/watch?v=o30d8md11vo)
 * [Snutt & Jace Talk: Coffee Stain don't develop Valheim](../../transcriptions/yt-c4qJvw2UNNA.md) [https://www.youtube.com/watch?v=c4qJvw2UNNA](https://www.youtube.com/watch?v=c4qJvw2UNNA)

@@ -37,6 +37,9 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Will we ever have proper multi-core support?](../transcriptions/yt-08PQFXaEac8.md) [https://www.youtube.com/watch?v=08PQFXaEac8](https://www.youtube.com/watch?v=08PQFXaEac8)
 
+## March 7th, 2019 Livestream
+* [Q&A: The minimum system requirements are kinda high... Why?](../transcriptions/yt-VHr4x1vNeoY,354.4,375.68.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=354&end=376](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=354&end=376)
+
 ## February 20th, 2019 Livestream
 * [Q&A: Requirements so far?](../transcriptions/yt-CB9bSigNYH8,2909.614069,2937.959243.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2909&end=2938](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2909&end=2938)
 * [Q&A: SpeedTree / ZBrush?](../transcriptions/yt-CB9bSigNYH8,608,622.612484.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=608&end=623](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=608&end=623)

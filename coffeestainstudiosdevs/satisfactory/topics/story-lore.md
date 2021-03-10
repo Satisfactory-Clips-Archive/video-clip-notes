@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## March 9th, 2021 Livestream
+* [Q&A: Is Lore & Story progressing well, not well, or not at all?](../transcriptions/yt-UHWeEsduD0Q.md) [https://www.youtube.com/watch?v=UHWeEsduD0Q](https://www.youtube.com/watch?v=UHWeEsduD0Q)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: Is the Story completely written or is it still in progress?](../transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
 * [Q&A: Is the Story good though?](../transcriptions/yt-q6ZTpN0GVHA.md) [https://www.youtube.com/watch?v=q6ZTpN0GVHA](https://www.youtube.com/watch?v=q6ZTpN0GVHA)

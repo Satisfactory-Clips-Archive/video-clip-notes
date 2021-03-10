@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 6
 
+## March 9th, 2021 Livestream
+* [Snutt & Jace Talk: Can't remember of Turbofuel has changed](../../../transcriptions/yt-tGsaRAqAAsk.md) [https://www.youtube.com/watch?v=tGsaRAqAAsk](https://www.youtube.com/watch?v=tGsaRAqAAsk)
+* [Q&A: Power Storage what Tier?](../../../transcriptions/yt-hyFz4ZawRe8.md) [https://www.youtube.com/watch?v=hyFz4ZawRe8](https://www.youtube.com/watch?v=hyFz4ZawRe8)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: How will Update 4 change the lower-level items?](../../../transcriptions/yt-7DIFELANBQs.md) [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)
 

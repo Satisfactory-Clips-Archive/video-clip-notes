@@ -3,6 +3,7 @@ title: "Retail"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Retail
+* [Early Access](../topics/retail/early-access.md)
 * [Epic Store](../topics/retail/epic-store.md)
 * [Steam Store](../topics/retail/steam-store.md)
 

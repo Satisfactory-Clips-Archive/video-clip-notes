@@ -4,6 +4,33 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 4
 
+## March 9th, 2021 Livestream
+* [Snutt & Jace Talk: #WeWantDoors](../../../transcriptions/yt-UINcRavrC5Y.md) [https://www.youtube.com/watch?v=UINcRavrC5Y](https://www.youtube.com/watch?v=UINcRavrC5Y)
+* [Snutt & Jace Talk: Can't remember of Turbofuel has changed](../../../transcriptions/yt-tGsaRAqAAsk.md) [https://www.youtube.com/watch?v=tGsaRAqAAsk](https://www.youtube.com/watch?v=tGsaRAqAAsk)
+* [Snutt & Jace Talk: Community figured out the Nuclear Refinement recipes](../../../transcriptions/yt-b1zq4fwxmsU.md) [https://www.youtube.com/watch?v=b1zq4fwxmsU](https://www.youtube.com/watch?v=b1zq4fwxmsU)
+* [Snutt & Jace Talk: Community spotted things in the Nuclear Refinement teaser](../../../transcriptions/yt-0BtRlCxfxEc.md) [https://www.youtube.com/watch?v=0BtRlCxfxEc](https://www.youtube.com/watch?v=0BtRlCxfxEc)
+* [Q&A: Date for Update 4?](../../../transcriptions/yt-wFSyxgWHquw.md) [https://www.youtube.com/watch?v=wFSyxgWHquw](https://www.youtube.com/watch?v=wFSyxgWHquw)
+* [Q&A: Has there been any progress towards Client stuff ?](../../../transcriptions/yt-Q4ZutPyeA_E.md) [https://www.youtube.com/watch?v=Q4ZutPyeA_E](https://www.youtube.com/watch?v=Q4ZutPyeA_E)
+* Q&A: How big is the Update compared to other Updates? [https://www.youtube.com/watch?v=3spifwbAEDE](https://www.youtube.com/watch?v=3spifwbAEDE)
+* [Q&A: Is there going to be Update 5 after Update 4, or is it going to be finished?](../../../transcriptions/yt-WllD2Ql611s.md) [https://www.youtube.com/watch?v=WllD2Ql611s](https://www.youtube.com/watch?v=WllD2Ql611s)
+* [Snutt & Jace Talk: New Nuclear](../../../transcriptions/yt-aewjS8-zD80.md) [https://www.youtube.com/watch?v=aewjS8-zD80](https://www.youtube.com/watch?v=aewjS8-zD80)
+* [Q&A: Reload Experimental Save into Early Access?](../../../transcriptions/yt-a66KD67ymLs.md) [https://www.youtube.com/watch?v=a66KD67ymLs](https://www.youtube.com/watch?v=a66KD67ymLs)
+* [Snutt & Jace Talk: Shout-out to Mark & Linus for putting the teaser together](../../../transcriptions/yt-JDaOZ9BU7iI.md) [https://www.youtube.com/watch?v=JDaOZ9BU7iI](https://www.youtube.com/watch?v=JDaOZ9BU7iI)
+* [Snutt & Jace Talk: Snutt learned a thing from Update 4](../../../transcriptions/yt-qCdoBNMwLDw.md) [https://www.youtube.com/watch?v=qCdoBNMwLDw](https://www.youtube.com/watch?v=qCdoBNMwLDw)
+* [Community FYI: Update 3 was a realignment of the game, whereas Update 4 is new content](../../../transcriptions/yt-BoJRV1WelIM.md) [https://www.youtube.com/watch?v=BoJRV1WelIM](https://www.youtube.com/watch?v=BoJRV1WelIM)
+* [State of Dev: Update 4 Launch Stream announcement](../../../transcriptions/yt-cYPJzcepPkY.md) [https://www.youtube.com/watch?v=cYPJzcepPkY](https://www.youtube.com/watch?v=cYPJzcepPkY)
+* [State of Dev: Update 4 patch notes video](../../../transcriptions/yt-pfDllR9dMnY.md) [https://www.youtube.com/watch?v=pfDllR9dMnY](https://www.youtube.com/watch?v=pfDllR9dMnY)
+* [State of Dev: Update 4 Release date trolling](../../../transcriptions/yt-9V_3E9_masw.md) [https://www.youtube.com/watch?v=9V_3E9_masw](https://www.youtube.com/watch?v=9V_3E9_masw)
+* [Q&A: What's the difference between a Blender & a Refinery?](../../../transcriptions/yt-z6j7M2hcSHk.md) [https://www.youtube.com/watch?v=z6j7M2hcSHk](https://www.youtube.com/watch?v=z6j7M2hcSHk)
+* [Q&A: What about the Priority Switch?](../../../transcriptions/yt-oQUm2oWxOOE.md) [https://www.youtube.com/watch?v=oQUm2oWxOOE](https://www.youtube.com/watch?v=oQUm2oWxOOE)
+* [Q&A: What do you guys like most about working at Coffee Stain?](../../../transcriptions/yt-L5P4V2YcjBc.md) [https://www.youtube.com/watch?v=L5P4V2YcjBc](https://www.youtube.com/watch?v=L5P4V2YcjBc)
+* [Q&A: What percentage of the Update do we know about?](../../../transcriptions/yt-MGL5k0e9UUY.md) [https://www.youtube.com/watch?v=MGL5k0e9UUY](https://www.youtube.com/watch?v=MGL5k0e9UUY)
+* [Q&A: When will be the exact time for stream on March 16th?](../../../transcriptions/yt-dIlHIdHxRyM.md) [https://www.youtube.com/watch?v=dIlHIdHxRyM](https://www.youtube.com/watch?v=dIlHIdHxRyM)
+* [Q&A: Will Experimental & EA be the same version so we can swap?](../../../transcriptions/yt--m_-g6ELKsY.md) [https://www.youtube.com/watch?v=-m_-g6ELKsY](https://www.youtube.com/watch?v=-m_-g6ELKsY)
+* Q&A: Will the (Update 4) Stream start at the same time? [https://www.youtube.com/watch?v=X-Gb1BIvMYw](https://www.youtube.com/watch?v=X-Gb1BIvMYw)
+* [Q&A: Will Turbofuel stop working in Refineries when recipes move?](../../../transcriptions/yt-M4OEtn68g8Y.md) [https://www.youtube.com/watch?v=M4OEtn68g8Y](https://www.youtube.com/watch?v=M4OEtn68g8Y)
+* [Q&A: Worth it to just start a fresh game?](../../../transcriptions/yt-kdFJw-r7dMA.md) [https://www.youtube.com/watch?v=kdFJw-r7dMA](https://www.youtube.com/watch?v=kdFJw-r7dMA)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: Are Smart Splitters changing in Update 4?](../../../transcriptions/yt-WVQ5pUtT-TQ.md) [https://www.youtube.com/watch?v=WVQ5pUtT-TQ](https://www.youtube.com/watch?v=WVQ5pUtT-TQ)
 * [Q&A: Are there some bugs that still aren't fixed?](../../../transcriptions/yt-_3_63ujKu8Q.md) [https://www.youtube.com/watch?v=_3_63ujKu8Q](https://www.youtube.com/watch?v=_3_63ujKu8Q)

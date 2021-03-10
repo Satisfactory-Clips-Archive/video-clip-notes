@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 3
 
+## March 9th, 2021 Livestream
+* [Community FYI: Update 3 was a realignment of the game, whereas Update 4 is new content](../../../transcriptions/yt-BoJRV1WelIM.md) [https://www.youtube.com/watch?v=BoJRV1WelIM](https://www.youtube.com/watch?v=BoJRV1WelIM)
+
 ## March 2nd, 2021 Livestream
 * [Community FYI: Just waiting for Jace to bring out his inner Steve Irwin](../../../transcriptions/yt-8gln5c3gNWQ.md) [https://www.youtube.com/watch?v=8gln5c3gNWQ](https://www.youtube.com/watch?v=8gln5c3gNWQ)
 * [Q&A: Patch Notes video since Update 1?](../../../transcriptions/yt-APlNumHg7ng.md) [https://www.youtube.com/watch?v=APlNumHg7ng](https://www.youtube.com/watch?v=APlNumHg7ng)
