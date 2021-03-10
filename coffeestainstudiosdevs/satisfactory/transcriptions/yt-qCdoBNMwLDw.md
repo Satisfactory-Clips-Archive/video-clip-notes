@@ -1,0 +1,77 @@
+---
+title: "March 9th, 2021 Livestream Snutt & Jace Talk: Snutt learned a thing from Update 4"
+date: "2021-03-09"
+layout: transcript
+topics:
+    - "features/power-management"
+    - "satisfactory-updates/pending/satisfactory-update-4"
+---
+# [March 9th, 2021 Livestream](../2021-03-09.md)
+## Snutt & Jace Talk: Snutt learned a thing from Update 4
+https://www.youtube.com/watch?v=qCdoBNMwLDw
+
+### Topics
+* [Features > Power Management](../topics/features/power-management.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+
+### Transcript
+
+> and and you were telling me that you
+>
+> learned a pretty good point from that
+>
+> video
+>
+> yeah something that i've also realized
+>
+> as i've been playing
+>
+> the new update um oh wow
+>
+> flex yeah yeah yeah so one one of the
+>
+> points in that video
+>
+> is to over like double check your power
+>
+> factories because
+>
+> there's a significant change to some
+>
+> degree in update for
+>
+> where power is no longer self regulatory
+>
+> um which means that your your coal
+>
+> generators will go like full blast
+>
+> the moment you you uh hook then hook
+>
+> them
+>
+> hook him on okay connect them to your
+>
+> power grid
+>
+> um and that's something that i noticed
+>
+> as well on some of my old
+>
+> old save files where i hadn't learned
+>
+> how
+>
+> water worked yet or where i'd get like a
+>
+> fuse blown immediately so double check
+>
+> your your power
+>
+> uh and and make sure that you can
+>
+> sustain it
+>
+> um and yeah
+>
+> something be praised simon be praised

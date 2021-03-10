@@ -157,6 +157,7 @@ date: Last Modified
 * [Power Switch](./topics/features/power-management/power-switch.md)
 
 ### [Nuclear Energy](./topics/features/power-management/nuclear-energy.md)
+* [Nuclear Refinement](./topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](./topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
 ## [Save System](./topics/features/save-system.md)
@@ -270,6 +271,7 @@ date: Last Modified
 ## Speculative
 * [Satisfactory Update 5](./topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Update 6](./topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Update 7](./topics/satisfactory-updates/speculative/satisfactory-update-7.md)
 * [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)
