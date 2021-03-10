@@ -1,12 +1,12 @@
 ---
-title: "March 9th, 2021 Livestream &A: Will we ever get perfect half Foundations?"
+title: "March 9th, 2021 Livestream Q&A: Will we ever get perfect half Foundations?"
 date: "2021-03-09"
 layout: transcript
 topics:
     - "features/buildables/foundations"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
-## &A: Will we ever get perfect half Foundations?
+## Q&A: Will we ever get perfect half Foundations?
 https://www.youtube.com/watch?v=ST1-4v5RMPQ
 
 ### Topics
