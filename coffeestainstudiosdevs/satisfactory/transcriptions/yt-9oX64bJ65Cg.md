@@ -1,12 +1,12 @@
 ---
-title: "March 9th, 2021 Livestream Q&A: Is the canon an intended behaviour for Hyper Tubes or a bug?"
+title: "March 9th, 2021 Livestream Q&A: Is the cannon an intended behaviour for Hyper Tubes or a bug?"
 date: "2021-03-09"
 layout: transcript
 topics:
     - "features/transportation/hyper-tubes"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
-## Q&A: Is the canon an intended behaviour for Hyper Tubes or a bug?
+## Q&A: Is the cannon an intended behaviour for Hyper Tubes or a bug?
 https://www.youtube.com/watch?v=9oX64bJ65Cg
 
 ### Topics
