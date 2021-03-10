@@ -10,13 +10,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Are you going to break save games again?
 https://www.youtube.com/watch?v=hF6yB6Wrox0
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as February 2021 and as early as September 2020.</summary>
-
-* [February 2nd, 2021 Livestream Q&A: Will the new Update break my save game?](./yt-Hbs0pidLv_4.md) [https://www.youtube.com/watch?v=Hbs0pidLv_4](https://www.youtube.com/watch?v=Hbs0pidLv_4)
-* [September 15th, 2020 Livestream Q&A: Will the update break saves?](./yt-4RrHBOTPcs8.md) [https://www.youtube.com/watch?v=4RrHBOTPcs8](https://www.youtube.com/watch?v=4RrHBOTPcs8)
-* [September 1st, 2020 Livestream Q&A: Will Update 4 be like Update 3, will it break saves?](./yt-rJVLbdJMJWk.md) [https://www.youtube.com/watch?v=rJVLbdJMJWk](https://www.youtube.com/watch?v=rJVLbdJMJWk)
-</details>
+This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Do you guys have plans for other save-breaking changes in the future?](./yt-mFPSgNO5cIk.md) [https://www.youtube.com/watch?v=mFPSgNO5cIk](https://www.youtube.com/watch?v=mFPSgNO5cIk)
 
 
 ### Topics

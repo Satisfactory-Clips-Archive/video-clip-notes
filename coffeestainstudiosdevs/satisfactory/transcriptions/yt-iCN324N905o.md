@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is the OST on Spotify?
 https://www.youtube.com/watch?v=iCN324N905o
-This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Were you going to put the game music on Spotify?](./yt-Ba6lc4pqHFo.md) [https://www.youtube.com/watch?v=Ba6lc4pqHFo](https://www.youtube.com/watch?v=Ba6lc4pqHFo)
+This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Any plans on bringing music tracks to Spotify & YouTube?](./yt-K-yARAF955w.md) [https://www.youtube.com/watch?v=K-yARAF955w](https://www.youtube.com/watch?v=K-yARAF955w)
 
 
 ### Topics

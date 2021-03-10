@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any update on Update 4 release date?
 https://www.youtube.com/watch?v=RfmKDYjBDUo
-This question was possibly replaced with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is there already a date for Update 4?](./yt-Q9LfxD5Qa3M.md) [https://www.youtube.com/watch?v=Q9LfxD5Qa3M](https://www.youtube.com/watch?v=Q9LfxD5Qa3M)
+This question was possibly replaced with a more recent answer: [March 9th, 2021 Livestream Q&A: Date for Update 4?](./yt-wFSyxgWHquw.md) [https://www.youtube.com/watch?v=wFSyxgWHquw](https://www.youtube.com/watch?v=wFSyxgWHquw)
 
 
 ### Topics

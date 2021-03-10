@@ -9,12 +9,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: How much after the things you've teased is left?
 https://www.youtube.com/watch?v=XNsN_3Kjlqs
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as February 2020.</summary>
-
-* [February 9th, 2021 Livestream Q&A: Will there still be stuff to discover when the Update 4 teasers & reveals are done?](./yt-1NTKmQqoxNs.md) [https://www.youtube.com/watch?v=1NTKmQqoxNs](https://www.youtube.com/watch?v=1NTKmQqoxNs)
-* [February 11th, 2020 Livestream Q&A: Are there things people will be surprised by?](./yt-v-f6PgaD4rY.md) [https://www.youtube.com/watch?v=v-f6PgaD4rY](https://www.youtube.com/watch?v=v-f6PgaD4rY)
-</details>
+This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: What percentage of the Update do we know about?](./yt-MGL5k0e9UUY.md) [https://www.youtube.com/watch?v=MGL5k0e9UUY](https://www.youtube.com/watch?v=MGL5k0e9UUY)
 
 
 ### Topics

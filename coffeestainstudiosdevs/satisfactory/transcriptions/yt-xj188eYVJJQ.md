@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will there be new music in the future?
 https://www.youtube.com/watch?v=xj188eYVJJQ
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any more music tracks coming?](./yt-bzqL0DGULFM.md) [https://www.youtube.com/watch?v=bzqL0DGULFM](https://www.youtube.com/watch?v=bzqL0DGULFM)
+This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Will the soundtrack be expanded before 1.0?](./yt-Is1WuIaWXGE.md) [https://www.youtube.com/watch?v=Is1WuIaWXGE](https://www.youtube.com/watch?v=Is1WuIaWXGE)
 
 
 ### Topics

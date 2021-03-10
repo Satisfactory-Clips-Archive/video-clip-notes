@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will we have Weather events?
 https://www.youtube.com/watch?v=MzWzCnmbkYI
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Storm or natural disasters in the game?](./yt-LgYBDQkiTrk.md) [https://www.youtube.com/watch?v=LgYBDQkiTrk](https://www.youtube.com/watch?v=LgYBDQkiTrk)
+This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Will there be Weather in the game?](./yt-m9oykKdGfUE.md) [https://www.youtube.com/watch?v=m9oykKdGfUE](https://www.youtube.com/watch?v=m9oykKdGfUE)
 
 
 ### Topics

@@ -9,6 +9,8 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Walls & Handrails, be able to place like Pipes?
 https://www.youtube.com/watch?v=LFH3YB0pV24
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Walls/barriers that follow the incline of Foundation?](./yt-UK0P7CWe1V4.md) [https://www.youtube.com/watch?v=UK0P7CWe1V4](https://www.youtube.com/watch?v=UK0P7CWe1V4)
+
 
 ### Topics
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)

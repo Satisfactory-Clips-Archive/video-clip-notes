@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: When will Update 5 be?
 https://www.youtube.com/watch?v=D2CIkNehRNw
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
+
+* [February 9th, 2021 Livestream Q&A: When is Update 5?](./yt-n4H073Xwp-8.md) [https://www.youtube.com/watch?v=n4H073Xwp-8](https://www.youtube.com/watch?v=n4H073Xwp-8)
+</details>
+
 
 ### Topics
 * [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)

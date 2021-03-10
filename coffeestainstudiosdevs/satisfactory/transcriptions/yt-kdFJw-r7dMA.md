@@ -8,6 +8,12 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Worth it to just start a fresh game?
 https://www.youtube.com/watch?v=kdFJw-r7dMA
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+
+* [September 1st, 2020 Livestream Q&A: Will Update 4 be disruptive enough that players will want to start from scratch?](./yt-PuTEiefcHnU.md) [https://www.youtube.com/watch?v=PuTEiefcHnU](https://www.youtube.com/watch?v=PuTEiefcHnU)
+</details>
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
