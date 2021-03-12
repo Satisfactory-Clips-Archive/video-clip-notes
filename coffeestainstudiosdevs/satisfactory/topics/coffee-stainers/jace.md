@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## March 12th, 2021 Livestream
+* [Jace is going on an extended break](../../transcriptions/yt-xLLyS6RvFm8,82.253109,99.371802.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Are you 100% Community Manager or do you do something else?](../../transcriptions/yt-MySQXTvVYBQ.md) [https://www.youtube.com/watch?v=MySQXTvVYBQ](https://www.youtube.com/watch?v=MySQXTvVYBQ)
 * [Q&A: Jace been teaching Snutt accents?](../../transcriptions/yt-eLNc5DHoejU.md) [https://www.youtube.com/watch?v=eLNc5DHoejU](https://www.youtube.com/watch?v=eLNc5DHoejU)

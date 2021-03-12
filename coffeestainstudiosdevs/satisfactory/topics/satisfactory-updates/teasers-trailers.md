@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Teasers & Trailers
 
+## March 12th, 2021 Livestream
+* [Join us for the Update 4 launch stream](../../transcriptions/yt-xLLyS6RvFm8,,65.43203333333334.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66)
+
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: #WeWantDoors](../../transcriptions/yt-UINcRavrC5Y.md) [https://www.youtube.com/watch?v=UINcRavrC5Y](https://www.youtube.com/watch?v=UINcRavrC5Y)
 * [Snutt & Jace Talk: Community figured out the Nuclear Refinement recipes](../../transcriptions/yt-b1zq4fwxmsU.md) [https://www.youtube.com/watch?v=b1zq4fwxmsU](https://www.youtube.com/watch?v=b1zq4fwxmsU)

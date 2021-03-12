@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 4
 
+## March 12th, 2021 Livestream
+* [All of the Update 4 related things in a playlist](../../../transcriptions/yt-xLLyS6RvFm8,65.43203333333334,82.253109.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83)
+* [Join us for the Update 4 launch stream](../../../transcriptions/yt-xLLyS6RvFm8,,65.43203333333334.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66)
+
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: #WeWantDoors](../../../transcriptions/yt-UINcRavrC5Y.md) [https://www.youtube.com/watch?v=UINcRavrC5Y](https://www.youtube.com/watch?v=UINcRavrC5Y)
 * [Snutt & Jace Talk: Can't remember of Turbofuel has changed](../../../transcriptions/yt-tGsaRAqAAsk.md) [https://www.youtube.com/watch?v=tGsaRAqAAsk](https://www.youtube.com/watch?v=tGsaRAqAAsk)
