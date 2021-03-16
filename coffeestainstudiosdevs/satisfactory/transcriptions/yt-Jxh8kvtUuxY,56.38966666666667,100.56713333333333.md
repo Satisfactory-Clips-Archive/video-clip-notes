@@ -6,7 +6,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-4"
     - "features/gases"
     - "environment/resources/oil"
-    - "features/fluids"
+    - "environment/resources/water"
     - "environment/resource-wells"
     - "features/buildings/resource-well-extractor"
     - "features/buildings/resource-well-pressurizer"
@@ -18,7 +18,7 @@ https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101
 * [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Features > Gases](../topics/features/gases.md)
 * [Environment > Resources > Oil](../topics/environment/resources/oil.md)
-* [Features > Fluids](../topics/features/fluids.md)
+* [Environment > Resources > Water](../topics/environment/resources/water.md)
 * [Environment > Resource Wells](../topics/environment/resource-wells.md)
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)
 * [Features > Buildings > Resource Well Pressurizer](../topics/features/buildings/resource-well-pressurizer.md)

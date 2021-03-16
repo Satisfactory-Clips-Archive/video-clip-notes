@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "environment/resources"
     - "environment/resources/oil"
+    - "environment/resources/water"
     - "features/buildings/resource-well-extractor"
     - "features/fluids"
     - "features/gases"
@@ -16,6 +17,7 @@ https://www.youtube.com/watch?v=vlDuVpHyfVs
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
 * [Environment > Resources > Oil](../topics/environment/resources/oil.md)
+* [Environment > Resources > Water](../topics/environment/resources/water.md)
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)
 * [Features > Fluids](../topics/features/fluids.md)
 * [Features > Gases](../topics/features/gases.md)

@@ -5,7 +5,6 @@ layout: transcript
 topics:
     - "features/equipment/zip-lines"
     - "features/power-management"
-    - "features/unplanned-features/aerial-travel"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is it possible to use powerline as zip-lines?
@@ -16,7 +15,6 @@ This question was possibly replaced with a more recent answer: [February 2nd, 20
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
 * [Features > Power Management](../topics/features/power-management.md)
-* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 
 ### Transcript
 

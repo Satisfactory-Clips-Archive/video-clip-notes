@@ -5,6 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Vehicles
 * [Autopilot](../../../topics/features/transportation/vehicles/autopilot.md)
 * [Cyber Wagon](../../../topics/features/transportation/vehicles/cyber-wagon.md)
+* [Drones](../../../topics/features/transportation/vehicles/drones.md)
 * [Explorer](../../../topics/features/transportation/vehicles/explorer.md)
 * [Factory Cart](../../../topics/features/transportation/vehicles/factory-cart.md)
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
@@ -98,7 +99,6 @@ date: Last Modified
 * Q&A: First-person Vehicle Driving? [https://clips.twitch.tv/ShinySilkyMelonGivePLZ](https://clips.twitch.tv/ShinySilkyMelonGivePLZ)
 * Q&A: Two-seated vehicles (Part 1) [https://clips.twitch.tv/OilySourBeaverAMPEnergy](https://clips.twitch.tv/OilySourBeaverAMPEnergy)
 * Q&A: Two-seated vehicles (Part 2) [https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog](https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog)
-* Q&A: Will Drones be added to the game for aerial travel? [https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper](https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper)
 
 ## February 11th, 2020 Livestream
 * [Q&A: Bikes in Satisfactory confirmed?](../../../transcriptions/yt-sh2faQb1DPQ.md) [https://www.youtube.com/watch?v=sh2faQb1DPQ](https://www.youtube.com/watch?v=sh2faQb1DPQ)
@@ -109,7 +109,6 @@ date: Last Modified
 
 ## December 19th, 2019 Livestream
 * [Q&A: Give us a flight vehicle?](../../../transcriptions/yt-Fb6JnI4Bb4I.md) [https://www.youtube.com/watch?v=Fb6JnI4Bb4I](https://www.youtube.com/watch?v=Fb6JnI4Bb4I)
-* [Q&A: Have you considerd Flying Drones?](../../../transcriptions/yt-KYox3m1mePU.md) [https://www.youtube.com/watch?v=KYox3m1mePU](https://www.youtube.com/watch?v=KYox3m1mePU)
 * [Q&A: Improve Vehicles in general?](../../../transcriptions/yt-pRuIjTp-u5I.md) [https://www.youtube.com/watch?v=pRuIjTp-u5I](https://www.youtube.com/watch?v=pRuIjTp-u5I)
 * Q&A: Vehicle Lifts? [https://www.youtube.com/watch?v=ayGH9w3sEBo](https://www.youtube.com/watch?v=ayGH9w3sEBo)
 

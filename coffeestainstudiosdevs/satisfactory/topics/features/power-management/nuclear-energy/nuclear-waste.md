@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## March 16th, 2021 Livestream
+* [Encased Uranium Cells now produced in the Blender](../../../../transcriptions/yt-Dp77ih_XmkY,195.325577,205.875.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206)
+* [Plutonium](../../../../transcriptions/yt-Dp77ih_XmkY,205.875,228.767243.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=205&end=229](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=205&end=229)
+
 ## February 16th, 2021 Livestream
 * [Q&A: What is the future of Nuclear Waste?](../../../../transcriptions/yt-Rv6FRkWjJfU.md) [https://www.youtube.com/watch?v=Rv6FRkWjJfU](https://www.youtube.com/watch?v=Rv6FRkWjJfU)
 

@@ -5,6 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Equipment
 * [Blade Runners](../../topics/features/equipment/blade-runners.md)
 * [Chainsaw](../../topics/features/equipment/chainsaw.md)
+* [Hover Pack](../../topics/features/equipment/hover-pack.md)
 * [Jetpack](../../topics/features/equipment/jetpack.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 

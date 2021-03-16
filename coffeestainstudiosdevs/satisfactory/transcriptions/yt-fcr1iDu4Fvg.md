@@ -3,6 +3,7 @@ title: "October 6th, 2020 Livestream Q&A: Can we get an open end to Pipes like d
 date: "2020-10-06"
 layout: transcript
 topics:
+    - "environment/resources/water"
     - "features/fluids"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=fcr1iDu4Fvg
 
 ### Topics
+* [Environment > Resources > Water](../topics/environment/resources/water.md)
 * [Features > Fluids](../topics/features/fluids.md)
 
 ### Transcript

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Resource Well Pressurizer
 
+## March 16th, 2021 Livestream
+* [We're also adding Nitrogen Gas](../../../transcriptions/yt-Dp77ih_XmkY,163.625,185.58333333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186)
+
 ## February 9th, 2021 Livestream
 * [Q&A: How many new machines in Update 4?](../../../transcriptions/yt-B_pY-VYMMOE.md) [https://www.youtube.com/watch?v=B_pY-VYMMOE](https://www.youtube.com/watch?v=B_pY-VYMMOE)
 * [Snutt & Jace Talk: Leak™](../../../transcriptions/yt-TbSECv5M4ZM.md) [https://www.youtube.com/watch?v=TbSECv5M4ZM](https://www.youtube.com/watch?v=TbSECv5M4ZM)

@@ -4,6 +4,7 @@ date: "2021-01-26"
 layout: transcript
 topics:
     - "features/possible-features/dlc"
+    - "features/transportation/vehicles/drones"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Please, Toilet DLC before Official DLC?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=5sqgxrPlcUI
 
 ### Topics
 * [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Transportation > Vehicles > Drones](../topics/features/transportation/vehicles/drones.md)
 
 ### Transcript
 

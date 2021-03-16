@@ -3,8 +3,7 @@ title: "December 19th, 2019 Livestream Q&A: Have you considerd Flying Drones?"
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "features/transportation/vehicles"
-    - "features/unplanned-features/aerial-travel"
+    - "features/transportation/vehicles/drones"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Have you considerd Flying Drones?
@@ -13,8 +12,7 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 
 ### Topics
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
-* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
+* [Features > Transportation > Vehicles > Drones](../topics/features/transportation/vehicles/drones.md)
 
 ### Transcript
 

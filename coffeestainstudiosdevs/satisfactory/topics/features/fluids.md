@@ -20,11 +20,9 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Do you have a plan on adding a Pipe-bursting feature if you over-pressurise them?](../../transcriptions/yt-OoXaGUS3umo.md) [https://www.youtube.com/watch?v=OoXaGUS3umo](https://www.youtube.com/watch?v=OoXaGUS3umo)
 * [Q&A: Sink that accepts Liquids or Gas?](../../transcriptions/yt-SskXA-lxaCI.md) [https://www.youtube.com/watch?v=SskXA-lxaCI](https://www.youtube.com/watch?v=SskXA-lxaCI)
-* [Q&A: What do Resource Wells mean for existing ways for extracting Water & Oil?](../../transcriptions/yt-ezGse7K-fWI.md) [https://www.youtube.com/watch?v=ezGse7K-fWI](https://www.youtube.com/watch?v=ezGse7K-fWI)
 
 ## January 15th, 2021 Livestream
 * [Intro](../../transcriptions/yt-Jxh8kvtUuxY,,46.3463.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47)
-* [Resource Wells](../../transcriptions/yt-Jxh8kvtUuxY,56.38966666666667,100.56713333333333.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101)
 
 ## January 12th, 2021 Livestream
 * [Q&A: Turbofuel?](../../transcriptions/yt-5rp-Y1WsPnA.md) [https://www.youtube.com/watch?v=5rp-Y1WsPnA](https://www.youtube.com/watch?v=5rp-Y1WsPnA)

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/resource-wells"
     - "environment/resources/oil"
-    - "features/fluids"
+    - "environment/resources/water"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: What do Resource Wells mean for existing ways for extracting Water & Oil?
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=ezGse7K-fWI
 ### Topics
 * [Environment > Resource Wells](../topics/environment/resource-wells.md)
 * [Environment > Resources > Oil](../topics/environment/resources/oil.md)
-* [Features > Fluids](../topics/features/fluids.md)
+* [Environment > Resources > Water](../topics/environment/resources/water.md)
 
 ### Transcript
 

@@ -67,6 +67,7 @@ date: Last Modified
 * [S.A.M. Ore](./topics/environment/resources/sam-ore.md)
 * [Somersloop](./topics/environment/resources/somersloop.md)
 * [Steel](./topics/environment/resources/steel.md)
+* [Water](./topics/environment/resources/water.md)
 
 # Features
 * [Emotes](./topics/features/emotes.md)
@@ -97,6 +98,7 @@ date: Last Modified
 * [Miner](./topics/features/buildings/miner.md)
 * [Oil Extractor](./topics/features/buildings/oil-extractor.md)
 * [Packager](./topics/features/buildings/packager.md)
+* [Particle Accelerator](./topics/features/buildings/particle-accelerator.md)
 * [Radar Tower](./topics/features/buildings/radar-tower.md)
 * [Refinery](./topics/features/buildings/refinery.md)
 * [Resource Well Extractor](./topics/features/buildings/resource-well-extractor.md)
@@ -118,6 +120,7 @@ date: Last Modified
 ## [Equipment](./topics/features/equipment.md)
 * [Blade Runners](./topics/features/equipment/blade-runners.md)
 * [Chainsaw](./topics/features/equipment/chainsaw.md)
+* [Hover Pack](./topics/features/equipment/hover-pack.md)
 * [Jetpack](./topics/features/equipment/jetpack.md)
 * [Zip Lines](./topics/features/equipment/zip-lines.md)
 
@@ -186,6 +189,7 @@ date: Last Modified
 ### [Vehicles](./topics/features/transportation/vehicles.md)
 * [Autopilot](./topics/features/transportation/vehicles/autopilot.md)
 * [Cyber Wagon](./topics/features/transportation/vehicles/cyber-wagon.md)
+* [Drones](./topics/features/transportation/vehicles/drones.md)
 * [Explorer](./topics/features/transportation/vehicles/explorer.md)
 * [Factory Cart](./topics/features/transportation/vehicles/factory-cart.md)
 * [Tractor](./topics/features/transportation/vehicles/tractor.md)

@@ -3,7 +3,7 @@ title: "November 17th, 2020 Livestream Q&A: Dark Matter in the game?"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "features/buildings"
+    - "features/buildings/particle-accelerator"
     - "features/power-management"
     - "features/unreleased-features/unreleased-content"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=sZ9JZYY87bY
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > Particle Accelerator](../topics/features/buildings/particle-accelerator.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Features > Unreleased Features > Unreleased Content](../topics/features/unreleased-features/unreleased-content.md)
 

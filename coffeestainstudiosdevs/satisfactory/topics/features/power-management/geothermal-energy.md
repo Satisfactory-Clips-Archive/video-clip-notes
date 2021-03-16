@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Geothermal Energy
 
+## March 16th, 2021 Livestream
+* [Geothermal is getting a change, too](../../../transcriptions/yt-Dp77ih_XmkY,307.5833333333333,319.2083333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320)
+
 ## February 19th, 2021 Livestream
 * [Geothermal Generators](../../../transcriptions/yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198)
 

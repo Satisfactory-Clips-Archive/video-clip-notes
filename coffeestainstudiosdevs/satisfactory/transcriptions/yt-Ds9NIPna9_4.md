@@ -6,6 +6,7 @@ topics:
     - "environment/resources"
     - "features/buildings/the-hub"
     - "features/transportation/vehicles"
+    - "features/transportation/vehicles/drones"
     - "features/unplanned-features/aerial-travel"
     - "technology/graphics"
 ---
@@ -19,6 +20,7 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 * [Environment > Resources](../topics/environment/resources.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Vehicles > Drones](../topics/features/transportation/vehicles/drones.md)
 * [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 

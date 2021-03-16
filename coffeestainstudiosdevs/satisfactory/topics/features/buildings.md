@@ -13,6 +13,7 @@ date: Last Modified
 * [Miner](../../topics/features/buildings/miner.md)
 * [Oil Extractor](../../topics/features/buildings/oil-extractor.md)
 * [Packager](../../topics/features/buildings/packager.md)
+* [Particle Accelerator](../../topics/features/buildings/particle-accelerator.md)
 * [Radar Tower](../../topics/features/buildings/radar-tower.md)
 * [Refinery](../../topics/features/buildings/refinery.md)
 * [Resource Well Extractor](../../topics/features/buildings/resource-well-extractor.md)
@@ -61,9 +62,6 @@ date: Last Modified
 ## November 24th, 2020 Livestream
 * [Jace Talk: More buildables](../../transcriptions/yt-oJ42bPfK4lo.md) [https://www.youtube.com/watch?v=oJ42bPfK4lo](https://www.youtube.com/watch?v=oJ42bPfK4lo)
 * [Q&A: Will there be more options for aesthetics regarding things like house building?](../../transcriptions/yt-qQJTAvtzB-8.md) [https://www.youtube.com/watch?v=qQJTAvtzB-8](https://www.youtube.com/watch?v=qQJTAvtzB-8)
-
-## November 17th, 2020 Livestream
-* [Q&A: Dark Matter in the game?](../../transcriptions/yt-sZ9JZYY87bY.md) [https://www.youtube.com/watch?v=sZ9JZYY87bY](https://www.youtube.com/watch?v=sZ9JZYY87bY)
 
 ## November 10th, 2020 Livestream
 * [Q&A: Any plans on in-game Jukebox?](../../transcriptions/yt-dbyTU3Wdpog.md) [https://www.youtube.com/watch?v=dbyTU3Wdpog](https://www.youtube.com/watch?v=dbyTU3Wdpog)

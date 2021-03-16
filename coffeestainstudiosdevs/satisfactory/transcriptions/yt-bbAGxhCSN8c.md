@@ -3,7 +3,7 @@ title: "January 26th, 2021 Livestream Q&A: Were you serious about the drones in 
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "features/unplanned-features/aerial-travel"
+    - "features/transportation/vehicles/drones"
     - "trolling"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=bbAGxhCSN8c
 
 ### Topics
-* [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
+* [Features > Transportation > Vehicles > Drones](../topics/features/transportation/vehicles/drones.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

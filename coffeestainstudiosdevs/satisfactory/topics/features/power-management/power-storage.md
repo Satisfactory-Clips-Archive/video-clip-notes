@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Storage
 
+## March 16th, 2021 Livestream
+* [Geothermal is getting a change, too](../../../transcriptions/yt-Dp77ih_XmkY,307.5833333333333,319.2083333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320)
+* [Power Storage](../../../transcriptions/yt-Dp77ih_XmkY,259.82206,283.432566.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=259&end=284](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=259&end=284)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Power Storage what Tier?](../../../transcriptions/yt-hyFz4ZawRe8.md) [https://www.youtube.com/watch?v=hyFz4ZawRe8](https://www.youtube.com/watch?v=hyFz4ZawRe8)
 
