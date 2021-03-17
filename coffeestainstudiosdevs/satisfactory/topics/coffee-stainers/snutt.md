@@ -4,6 +4,16 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
+## March 16th, 2021 Livestream
+* Community FYI: Getting a DMCA by Nintendo [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6109&end=6131](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6109&end=6131)
+* Q&A: How are you feeling Snutt? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=325&end=363](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=325&end=363)
+* Random: How y'all doin? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14014&end=14029](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14014&end=14029)
+* Snutt Talk: Instagram Christmas Throwback Calendar [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5229&end=5266](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5229&end=5266)
+* Snutt & Jace Talk: Lizard Doggo & real-life doggo pathfinding [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=1603&end=1677](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=1603&end=1677)
+* Community FYI: Not surprised- Snutt doesn't know how to get to 1st base [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=1499&end=1512](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=1499&end=1512)
+* Snutt Talk: We do these streams every week [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15421&end=15450](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15421&end=15450)
+* Snutt & Jace Talk: What do we do for the last 7 minutes? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13981&end=14015](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13981&end=14015)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Are you 100% Community Manager or do you do something else?](../../transcriptions/yt-MySQXTvVYBQ.md) [https://www.youtube.com/watch?v=MySQXTvVYBQ](https://www.youtube.com/watch?v=MySQXTvVYBQ)
 * [Q&A: Jace been teaching Snutt accents?](../../transcriptions/yt-eLNc5DHoejU.md) [https://www.youtube.com/watch?v=eLNc5DHoejU](https://www.youtube.com/watch?v=eLNc5DHoejU)

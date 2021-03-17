@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## March 16th, 2021 Livestream
+* Snutt & Jace Talk: A lot of people are asking Josh to come on [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14091&end=14122](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14091&end=14122)
+* Q&A: Call Josh? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13959&end=13982](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13959&end=13982)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: When's the Let's Game It Out/Let's Gay It Out collab happening?](../../transcriptions/yt-jD4WtAxzhCk.md) [https://www.youtube.com/watch?v=jD4WtAxzhCk](https://www.youtube.com/watch?v=jD4WtAxzhCk)
 

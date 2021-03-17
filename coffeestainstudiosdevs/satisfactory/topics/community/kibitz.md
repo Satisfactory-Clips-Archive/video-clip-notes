@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Kibitz
 
+## March 16th, 2021 Livestream
+* Jace Talk: Something unplanned - surprise special guest [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13544&end=13960](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13544&end=13960)
+
 ## November 10th, 2020 Livestream
 * [Q&A: Who's Kibitz?](../../transcriptions/yt-7fXJNHVrNCs.md) [https://www.youtube.com/watch?v=7fXJNHVrNCs](https://www.youtube.com/watch?v=7fXJNHVrNCs)
 

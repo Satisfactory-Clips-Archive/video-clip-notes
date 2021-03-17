@@ -27,12 +27,15 @@ date: Last Modified
 
 # [Community](./topics/community.md)
 * [Baine](./topics/community/baine.md)
+* [Blastroid](./topics/community/blastroid.md)
 * [Josh](./topics/community/josh.md)
 * [Joshie](./topics/community/joshie.md)
 * [Kibitz](./topics/community/kibitz.md)
 * [Panakotta](./topics/community/panakotta.md)
+* [Panakotta00](./topics/community/panakotta00.md)
 * [Smerkin](./topics/community/smerkin.md)
 * [Wiki](./topics/community/wiki.md)
+* [Dedicated SErvers](./topics/dedicated-servers.md)
 * [Easter Eggs](./topics/easter-eggs.md)
 
 # [Embracer Group](./topics/embracer-group.md)
@@ -210,6 +213,7 @@ date: Last Modified
 * [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
 * [Level Design Stream](./topics/level-design-stream.md)
 * [Localisation](./topics/localisation.md)
+* [Mercer Shpere](./topics/mercer-shpere.md)
 
 # [Merch](./topics/merch.md)
 
@@ -219,8 +223,20 @@ date: Last Modified
 # [Mods](./topics/mods.md)
 * [FicsIt-Networks](./topics/mods/ficsit-networks.md)
 * [Ficsit Farming](./topics/mods/ficsit-farming.md)
+* [Flags](./topics/mods/flags.md)
+* [Inserters](./topics/mods/inserters.md)
+* [Item Dispensers](./topics/mods/item-dispensers.md)
+* [Light It Up](./topics/mods/light-it-up.md)
 * [Mods vs. Features](./topics/mods/mods-vs-features.md)
+* [Pak Utility](./topics/mods/pak-utility.md)
+* [Power Suit](./topics/mods/power-suit.md)
+* [Refined Power](./topics/mods/refined-power.md)
+* [Signs Mod](./topics/mods/signs-mod.md)
 * [Smart!](./topics/mods/smart.md)
+* [Statue Mod](./topics/mods/statue-mod.md)
+* [Structural Solutions](./topics/mods/structural-solutions.md)
+* [Teleporters](./topics/mods/teleporters.md)
+* [Zip Strips](./topics/mods/zip-strips.md)
 
 ## [Official Mod Support](./topics/mods/official-mod-support.md)
 * [Steam Workshop](./topics/mods/official-mod-support/steam-workshop.md)
@@ -256,7 +272,7 @@ date: Last Modified
 * [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](./topics/satisfactory-updates/teasers-trailers.md)
 
-## Pending
+## [Pending](./topics/satisfactory-updates/pending.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ## Released

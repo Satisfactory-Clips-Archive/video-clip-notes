@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## March 16th, 2021 Livestream
+* Q&A: Is there anything Hannah is particularly proud of in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5166&end=5230](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5166&end=5230)
+* Q&A: Storyline? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Is Lore & Story progressing well, not well, or not at all?](../transcriptions/yt-UHWeEsduD0Q.md) [https://www.youtube.com/watch?v=UHWeEsduD0Q](https://www.youtube.com/watch?v=UHWeEsduD0Q)
 

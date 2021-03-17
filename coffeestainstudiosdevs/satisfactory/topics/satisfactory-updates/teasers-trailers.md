@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Teasers & Trailers
 
+## March 16th, 2021 Livestream
+* Q&A: How long is the patch notes video? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8837&end=8897](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8837&end=8897)
+* Snutt Talk: I hope you're going to enjoy the video & Update 4 [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14357&end=14386](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14357&end=14386)
+* Q&A: Rickroll? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=439&end=451](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=439&end=451)
+* Jace Talk: The patch notes video subtitles have been translated [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13495&end=13545](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13495&end=13545)
+
 ## March 12th, 2021 Livestream
 * [Join us for the Update 4 launch stream](../../transcriptions/yt-xLLyS6RvFm8,,65.43203333333334.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66)
 

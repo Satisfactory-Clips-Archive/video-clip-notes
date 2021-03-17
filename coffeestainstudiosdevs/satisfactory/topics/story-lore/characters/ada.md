@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-lore.md) > Characters > ADA
 
+## March 16th, 2021 Livestream
+* Q&A: Does ADA's helmet contain Oil or something- there's a knob behind the Helmet? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Are you going to add more spoken languages to the game?](../../../transcriptions/yt-fpfVLWArJpo.md) [https://www.youtube.com/watch?v=fpfVLWArJpo](https://www.youtube.com/watch?v=fpfVLWArJpo)
 

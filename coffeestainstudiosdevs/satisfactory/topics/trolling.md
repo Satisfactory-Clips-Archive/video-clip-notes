@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## March 16th, 2021 Livestream
+* Random: How y'all doin? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14014&end=14029](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14014&end=14029)
+* Q&A: Is there anything Simon is particularly proud of in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5277&end=5312](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5277&end=5312)
+* Snutt Talk: Swedish Spoilers [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5385&end=5404](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5385&end=5404)
+* Snutt & Jace Talk: What do we do for the last 7 minutes? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13981&end=14015](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13981&end=14015)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Jace been teaching Snutt accents?](../transcriptions/yt-eLNc5DHoejU.md) [https://www.youtube.com/watch?v=eLNc5DHoejU](https://www.youtube.com/watch?v=eLNc5DHoejU)
 * [State of Dev: Update 4 Release date trolling](../transcriptions/yt-9V_3E9_masw.md) [https://www.youtube.com/watch?v=9V_3E9_masw](https://www.youtube.com/watch?v=9V_3E9_masw)

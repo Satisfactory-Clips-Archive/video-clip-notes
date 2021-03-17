@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Localisation
 
+## March 16th, 2021 Livestream
+* Jace Talk: Localisation community [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13385&end=13496](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13385&end=13496)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Are you going to add more spoken languages to the game?](../transcriptions/yt-fpfVLWArJpo.md) [https://www.youtube.com/watch?v=fpfVLWArJpo](https://www.youtube.com/watch?v=fpfVLWArJpo)
 

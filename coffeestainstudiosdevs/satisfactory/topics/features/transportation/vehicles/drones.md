@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
 ## March 16th, 2021 Livestream
-* [Drones](../../../../transcriptions/yt-Dp77ih_XmkY,409.4583333333333,458.9583333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459)
+* Snutt & Jace Talk: Drone Fan Art [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Please, Toilet DLC before Official DLC?](../../../../transcriptions/yt-5sqgxrPlcUI.md) [https://www.youtube.com/watch?v=5sqgxrPlcUI](https://www.youtube.com/watch?v=5sqgxrPlcUI)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Modular Build
 
+## March 16th, 2021 Livestream
+* Mod highlight part 2: Modular build [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10123&end=10156](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10123&end=10156)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Did Ben bring up the missing stuff from the Modular Build this morning?](../../transcriptions/yt-ewC4sE7k7Uw.md) [https://www.youtube.com/watch?v=ewC4sE7k7Uw](https://www.youtube.com/watch?v=ewC4sE7k7Uw)
 * [Snutt Talk: Modular Build](../../transcriptions/yt-O7uOiD7eedo.md) [https://www.youtube.com/watch?v=O7uOiD7eedo](https://www.youtube.com/watch?v=O7uOiD7eedo)

@@ -5,10 +5,6 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
-## March 16th, 2021 Livestream
-* [The Blender](../../../transcriptions/yt-Dp77ih_XmkY,185.58333333333334,195.325577.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=185&end=196](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=185&end=196)
-* [Tier 7 is getting a makeover](../../../transcriptions/yt-Dp77ih_XmkY,117.674411,163.625.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=117&end=164](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=117&end=164)
-
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: Community figured out the Nuclear Refinement recipes](../../../transcriptions/yt-b1zq4fwxmsU.md) [https://www.youtube.com/watch?v=b1zq4fwxmsU](https://www.youtube.com/watch?v=b1zq4fwxmsU)
 * [Q&A: What's the difference between a Blender & a Refinery?](../../../transcriptions/yt-z6j7M2hcSHk.md) [https://www.youtube.com/watch?v=z6j7M2hcSHk](https://www.youtube.com/watch?v=z6j7M2hcSHk)

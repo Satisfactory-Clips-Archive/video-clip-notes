@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## March 16th, 2021 Livestream
+* Q&A: Does ADA's helmet contain Oil or something- there's a knob behind the Helmet? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Will we ever get a second body slot?](../../transcriptions/yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)
 

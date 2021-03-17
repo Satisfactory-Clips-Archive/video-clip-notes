@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 5
 
+## March 16th, 2021 Livestream
+* Q&A: Do you already have plans for Update 5? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8510&end=8559](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8510&end=8559)
+* Q&A: Will Update 5 come this year? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8653&end=8716](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8653&end=8716)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Is there going to be Update 5 after Update 4, or is it going to be finished?](../../../transcriptions/yt-WllD2Ql611s.md) [https://www.youtube.com/watch?v=WllD2Ql611s](https://www.youtube.com/watch?v=WllD2Ql611s)
 * [Q&A: When will Update 5 be?](../../../transcriptions/yt-D2CIkNehRNw.md) [https://www.youtube.com/watch?v=D2CIkNehRNw](https://www.youtube.com/watch?v=D2CIkNehRNw)

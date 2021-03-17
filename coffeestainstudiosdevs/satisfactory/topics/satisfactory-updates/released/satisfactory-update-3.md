@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 3
 
+## March 16th, 2021 Livestream
+* Q&A: How long is the patch notes video? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8837&end=8897](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8837&end=8897)
+* Q&A: Rickroll? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=439&end=451](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=439&end=451)
+* Q&A: Will Update 5 come this year? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8653&end=8716](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8653&end=8716)
+
 ## March 9th, 2021 Livestream
 * [Community FYI: Update 3 was a realignment of the game, whereas Update 4 is new content](../../../transcriptions/yt-BoJRV1WelIM.md) [https://www.youtube.com/watch?v=BoJRV1WelIM](https://www.youtube.com/watch?v=BoJRV1WelIM)
 

@@ -4,9 +4,6 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Lights
 
-## March 16th, 2021 Livestream
-* [Lights](../../../transcriptions/yt-Dp77ih_XmkY,327.0833333333333,372.0833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=327&end=373](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=327&end=373)
-
 ## February 16th, 2021 Livestream
 * [Q&A: Is the lack of placeable lights due to visual errors or performance?](../../../transcriptions/yt-s7NbxyG5lTo.md) [https://www.youtube.com/watch?v=s7NbxyG5lTo](https://www.youtube.com/watch?v=s7NbxyG5lTo)
 

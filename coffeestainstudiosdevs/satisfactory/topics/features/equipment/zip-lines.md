@@ -4,9 +4,6 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Zip Lines
 
-## March 16th, 2021 Livestream
-* [Zip Lines](../../../transcriptions/yt-Dp77ih_XmkY,565.625,573.0833333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=565&end=574](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=565&end=574)
-
 ## February 23rd, 2021 Livestream
 * [Q&A: Can you go up with Zip Lines?](../../../transcriptions/yt-BPBXw4Zsk7A.md) [https://www.youtube.com/watch?v=BPBXw4Zsk7A](https://www.youtube.com/watch?v=BPBXw4Zsk7A)
 * [Q&A: Can you Zip Line on the FICS⁕MAS Power Lines?](../../../transcriptions/yt-HkgkowY2uUE.md) [https://www.youtube.com/watch?v=HkgkowY2uUE](https://www.youtube.com/watch?v=HkgkowY2uUE)

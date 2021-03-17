@@ -4,9 +4,6 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 8
 
-## March 16th, 2021 Livestream
-* [Tier 7 is getting a makeover](../../../transcriptions/yt-Dp77ih_XmkY,117.674411,163.625.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=117&end=164](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=117&end=164)
-
 ## March 2nd, 2021 Livestream
 * [Q&A: Will there be Space Elevator requirements for Tier 7 & 8 to change from before Update 4?](../../../transcriptions/yt-qUnbyq-0Pu4.md) [https://www.youtube.com/watch?v=qUnbyq-0Pu4](https://www.youtube.com/watch?v=qUnbyq-0Pu4)
 

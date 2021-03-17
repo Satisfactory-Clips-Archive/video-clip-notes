@@ -2,7 +2,10 @@
 title: "Satisfactory 1.0"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
+
+## March 16th, 2021 Livestream
+* Q&A: Will Update 4 be 1.0? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8629&end=8639](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8629&end=8639)
 
 ## March 9th, 2021 Livestream
 * [Q&A: Will the soundtrack be expanded before 1.0?](../../../transcriptions/yt-Is1WuIaWXGE.md) [https://www.youtube.com/watch?v=Is1WuIaWXGE](https://www.youtube.com/watch?v=Is1WuIaWXGE)

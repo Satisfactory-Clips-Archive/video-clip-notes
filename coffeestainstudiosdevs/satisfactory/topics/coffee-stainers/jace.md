@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## March 16th, 2021 Livestream
+* Snutt Talk: We do these streams every week [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15421&end=15450](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15421&end=15450)
+* Snutt & Jace Talk: What do we do for the last 7 minutes? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13981&end=14015](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13981&end=14015)
+
 ## March 12th, 2021 Livestream
 * Jace is going on an extended break [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100)
 

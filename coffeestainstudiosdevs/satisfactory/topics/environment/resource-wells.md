@@ -4,9 +4,6 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Resource Wells
 
-## March 16th, 2021 Livestream
-* [We're also adding Nitrogen Gas](../../transcriptions/yt-Dp77ih_XmkY,163.625,185.58333333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186)
-
 ## February 9th, 2021 Livestream
 * [Snutt & Jace Talk: Leak™](../../transcriptions/yt-TbSECv5M4ZM.md) [https://www.youtube.com/watch?v=TbSECv5M4ZM](https://www.youtube.com/watch?v=TbSECv5M4ZM)
 * [Q&A: Will Update 4 include Map Updates?](../../transcriptions/yt-HoD69Qs7RTU.md) [https://www.youtube.com/watch?v=HoD69Qs7RTU](https://www.youtube.com/watch?v=HoD69Qs7RTU)

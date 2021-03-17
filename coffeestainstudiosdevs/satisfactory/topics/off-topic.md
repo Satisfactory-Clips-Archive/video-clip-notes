@@ -14,6 +14,10 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## March 16th, 2021 Livestream
+* Community FYI: Getting a DMCA by Nintendo [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6109&end=6131](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6109&end=6131)
+* Snutt & Jace Talk: Lizard Doggo & real-life doggo pathfinding [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=1603&end=1677](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=1603&end=1677)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Have you played Dyson Sphere Program?](../transcriptions/yt-e8_ddoqo6iE.md) [https://www.youtube.com/watch?v=e8_ddoqo6iE](https://www.youtube.com/watch?v=e8_ddoqo6iE)
 * [Q&A: Jace been teaching Snutt accents?](../transcriptions/yt-eLNc5DHoejU.md) [https://www.youtube.com/watch?v=eLNc5DHoejU](https://www.youtube.com/watch?v=eLNc5DHoejU)
