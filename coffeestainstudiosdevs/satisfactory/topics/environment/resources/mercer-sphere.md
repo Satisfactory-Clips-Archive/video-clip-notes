@@ -38,4 +38,4 @@ date: Last Modified
 * [Q&A: Will Mercer Spheres and Somersloops be useful soon?](../../../transcriptions/yt-SYWPIjbe_4Y.md) [https://www.youtube.com/watch?v=SYWPIjbe_4Y](https://www.youtube.com/watch?v=SYWPIjbe_4Y)
 
 ## February 20th, 2019 Livestream
-* [Q&A: What's the glowing ball?](../../../transcriptions/yt-CB9bSigNYH8,385.6666666666667,393.696476.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=385&end=394](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=385&end=394)
+* Q&A: What's the glowing ball? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=385&end=394](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=385&end=394)

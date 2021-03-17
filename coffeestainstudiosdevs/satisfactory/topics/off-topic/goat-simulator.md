@@ -33,7 +33,7 @@ date: Last Modified
 * [Snutt, Simon, & Jace Talk: Satisfactory & Goat Simulator development](../../transcriptions/yt-xh1icX044NE.md) [https://www.youtube.com/watch?v=xh1icX044NE](https://www.youtube.com/watch?v=xh1icX044NE)
 
 ## February 20th, 2019 Livestream
-* [Q&A: Is this for Goat Simulator?](../../transcriptions/yt-CB9bSigNYH8,4935.130471,4940.969842.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4935&end=4941](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4935&end=4941)
+* Q&A: Is this for Goat Simulator? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4935&end=4941](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4935&end=4941)
 
 ## February 6th, 2019 Livestream
 * [Q&A: Where does the sense of humour/memes come from?](../../transcriptions/yt-Dtm6xIj-wM4,3734.266666666667,3823.743738.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824)

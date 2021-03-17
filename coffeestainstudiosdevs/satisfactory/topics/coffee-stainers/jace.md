@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
 ## March 12th, 2021 Livestream
-* [Jace is going on an extended break](../../transcriptions/yt-xLLyS6RvFm8,82.253109,99.371802.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100)
+* Jace is going on an extended break [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100)
 
 ## March 9th, 2021 Livestream
 * [Q&A: Are you 100% Community Manager or do you do something else?](../../transcriptions/yt-MySQXTvVYBQ.md) [https://www.youtube.com/watch?v=MySQXTvVYBQ](https://www.youtube.com/watch?v=MySQXTvVYBQ)
@@ -134,9 +134,9 @@ date: Last Modified
 * [Snutt Talk: We're assholes.](../../transcriptions/yt-2tTlAAZMBPw.md) [https://www.youtube.com/watch?v=2tTlAAZMBPw](https://www.youtube.com/watch?v=2tTlAAZMBPw)
 
 ## February 20th, 2019 Livestream
-* [Q&A: This fountain has Jace's hair?](../../transcriptions/yt-CB9bSigNYH8,3232.115343,3238.673381.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239)
+* Q&A: This fountain has Jace's hair? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239)
 * [Q&A: What are the red dome things?](../../transcriptions/yt-CB9bSigNYH8,5109.490199,5126.785633.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5109&end=5127](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5109&end=5127)
-* [Q&A: Will enemies have Jace's hair?](../../transcriptions/yt-CB9bSigNYH8,3208.601002,3215.171287.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
+* Q&A: Will enemies have Jace's hair? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
 
 ## February 6th, 2019 Livestream
 * [Q&A: Developer diaries?](../../transcriptions/yt-Dtm6xIj-wM4,1872.81796,1925.453116.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926)
@@ -148,8 +148,8 @@ date: Last Modified
 * [Q&A: Jace - give me your socks?](../../transcriptions/yt-Dtm6xIj-wM4,2244.4666666666667,2262.349854.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2244&end=2263](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2244&end=2263)
 * [Q&A: Jace - make that smile from 1 month after THQ acquisition?](../../transcriptions/yt-Dtm6xIj-wM4,2388.716191,2413.575214.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2388&end=2414](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2388&end=2414)
 * [Q&A: What's the biggest bug you guys have seen so far?](../../transcriptions/yt-Dtm6xIj-wM4,3623.301698,3734.266666666667.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3623&end=3735](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3623&end=3735)
-* [Q&A: What is wrong with your face?](../../transcriptions/yt-Dtm6xIj-wM4,271.997687,278.693237.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=271&end=279](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=271&end=279)
-* [Q&A: Why is Jace the PR?](../../transcriptions/yt-Dtm6xIj-wM4,371.76666666666665,378.135744.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=371&end=379](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=371&end=379)
+* Q&A: What is wrong with your face? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=271&end=279](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=271&end=279)
+* Q&A: Why is Jace the PR? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=371&end=379](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=371&end=379)
 
 ## December 25th, 2018 Livestream
 * [Intro](../../transcriptions/yt-S_AKfh38880,,73.8.md) [https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74](https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74)

@@ -95,7 +95,7 @@ date: Last Modified
 
 ## February 20th, 2019 Livestream
 * [Q&A: Graphical modding, like different texture packs?](../transcriptions/yt-CB9bSigNYH8,1766.070784,1792.112783.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1766&end=1793](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1766&end=1793)
-* [Q&A: Will enemies have Jace's hair?](../transcriptions/yt-CB9bSigNYH8,3208.601002,3215.171287.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
+* Q&A: Will enemies have Jace's hair? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
 * [Q&A: Will the players be able to make their own Maps?](../transcriptions/yt-CB9bSigNYH8,5159.481807,5167.186143.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168)
 
 ## February 6th, 2019 Livestream

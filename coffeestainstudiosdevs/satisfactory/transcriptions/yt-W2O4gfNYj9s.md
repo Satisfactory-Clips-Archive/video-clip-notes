@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=W2O4gfNYj9s
 * [September 15th, 2020 Livestream Q&A: Full Release, 2021?](./yt-9Um_UtQI8yE.md) [https://www.youtube.com/watch?v=9Um_UtQI8yE](https://www.youtube.com/watch?v=9Um_UtQI8yE)
 * [August 25th, 2020 Livestream Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](./yt--AjFbGOOAQI.md) [https://www.youtube.com/watch?v=-AjFbGOOAQI](https://www.youtube.com/watch?v=-AjFbGOOAQI)
 * [March 9th, 2019 Livestream Q&A: When is the official release?](./yt-H0HcDZTv_ts.md) [https://www.youtube.com/watch?v=H0HcDZTv_ts](https://www.youtube.com/watch?v=H0HcDZTv_ts)
-* [February 20th, 2019 Livestream Q&A: Release date?](./yt-CB9bSigNYH8,4250.630211,4256.657128.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257)
+* February 20th, 2019 Livestream Q&A: Release date? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257)
 * [February 6th, 2019 Livestream Q&A: Any timeline on when the end game will be released?](./yt-Dtm6xIj-wM4,3487.8333333333335,3508.867162.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509)
 * [February 6th, 2019 Livestream Q&A: Release date?](./yt-Dtm6xIj-wM4,280.42817,354.60912.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355)
 </details>

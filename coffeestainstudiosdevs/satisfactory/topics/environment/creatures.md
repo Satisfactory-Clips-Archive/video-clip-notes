@@ -111,7 +111,7 @@ date: Last Modified
 * [Q&A: If I make alien chickens could you put them in the game?](../../transcriptions/yt-CB9bSigNYH8,4304.133333333333,4319.32143.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4304&end=4320](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4304&end=4320)
 * [Q&A: Is it possible to get chickens in the game?](../../transcriptions/yt-CB9bSigNYH8,3991.90858,4001.34046.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3991&end=4002](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3991&end=4002)
 * [Q&A: What are the splines for?](../../transcriptions/yt-CB9bSigNYH8,4226.827791,4247.935173.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4226&end=4248](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4226&end=4248)
-* [Q&A: Will enemies have Jace's hair?](../../transcriptions/yt-CB9bSigNYH8,3208.601002,3215.171287.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
+* Q&A: Will enemies have Jace's hair? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
 
 ## February 6th, 2019 Livestream
 * [Q&A: Hazards in the Map?](../../transcriptions/yt-Dtm6xIj-wM4,1449.6,1458.2666666666667.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1449&end=1459](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1449&end=1459)

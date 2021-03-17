@@ -121,7 +121,7 @@ date: Last Modified
 * [Q&A: You guys are planning a mobile port, right?](../transcriptions/yt-gxWgVKBPTtM.md) [https://www.youtube.com/watch?v=gxWgVKBPTtM](https://www.youtube.com/watch?v=gxWgVKBPTtM)
 
 ## February 20th, 2019 Livestream
-* [Q&A: Does Coffee Stain pay you in foot-long subs?](../transcriptions/yt-CB9bSigNYH8,5287.2614,5291.710206.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292)
+* Q&A: Does Coffee Stain pay you in foot-long subs? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292)
 * [Q&A: How big is the game in file size?](../transcriptions/yt-CB9bSigNYH8,4718.242065,4747.934062.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4718&end=4748](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4718&end=4748)
 * [Q&A: Is the game a scam?](../transcriptions/yt-CB9bSigNYH8,4587.220174,4600.881774.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4587&end=4601](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4587&end=4601)
 * [Q&A: Is your Unreal Engine pirated?](../transcriptions/yt-CB9bSigNYH8,4803.983031,4818.284845.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4803&end=4819](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4803&end=4819)
@@ -130,7 +130,7 @@ date: Last Modified
 * [Q&A: Will co-op be available from the start in Early Access?](../transcriptions/yt-CB9bSigNYH8,5436.988277,5448.739181.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5436&end=5449](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5436&end=5449)
 
 ## February 6th, 2019 Livestream
-* [Q&A: Is Simon going to be the last Boss?](../transcriptions/yt-Dtm6xIj-wM4,2009.5,2017.005329.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018)
+* Q&A: Is Simon going to be the last Boss? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018)
 
 ## December 25th, 2018 Livestream
 * ["Candid" video](../transcriptions/yt-S_AKfh38880,73.8,157.12.md) [https://youtube.com/embed/S_AKfh38880?autoplay=1&start=73&end=158](https://youtube.com/embed/S_AKfh38880?autoplay=1&start=73&end=158)

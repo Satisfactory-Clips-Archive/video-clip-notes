@@ -117,11 +117,11 @@ date: Last Modified
 * Q&A: Will there be lamps for night? [https://www.youtube.com/watch?v=SiS0HGq7_oU](https://www.youtube.com/watch?v=SiS0HGq7_oU)
 
 ## February 20th, 2019 Livestream
-* [Q&A: A pipe big enough to drive a car in?](../../../transcriptions/yt-CB9bSigNYH8,1115.557953,1128.620009.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1115&end=1129](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1115&end=1129)
+* Q&A: A pipe big enough to drive a car in? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1115&end=1129](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1115&end=1129)
 
 ## February 6th, 2019 Livestream
 * [Q&A: Any plans for bots or other means of transport other than Belts & Trains?](../../../transcriptions/yt-Dtm6xIj-wM4,1016.1,1052.477074.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1016&end=1053](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1016&end=1053)
-* [Q&A: Can you make custom cars/trucks?](../../../transcriptions/yt-Dtm6xIj-wM4,1489.6333333333334,1494.42192.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1489&end=1495](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1489&end=1495)
+* Q&A: Can you make custom cars/trucks? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1489&end=1495](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1489&end=1495)
 * [Q&A: How do you divide work on the various programmers on the team?](../../../transcriptions/yt-Dtm6xIj-wM4,2532.291017,2685.500647.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2532&end=2686](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2532&end=2686)
 * [Q&A: What's the biggest bug you guys have seen so far?](../../../transcriptions/yt-Dtm6xIj-wM4,3623.301698,3734.266666666667.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3623&end=3735](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3623&end=3735)
 * [Q&A: What happens to players eventually when they are run over by a friend in a vehicle?](../../../transcriptions/yt-Dtm6xIj-wM4,3171.605804,3200.183129.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3171&end=3201](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3171&end=3201)

@@ -190,7 +190,7 @@ date: Last Modified
 ## February 20th, 2019 Livestream
 * [Q&A: Are there big cliffs where you can see the entire map?](../../transcriptions/yt-CB9bSigNYH8,3487.8,3520.911406.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3487&end=3521](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3487&end=3521)
 * [Q&A: Could you show the whole World please?](../../transcriptions/yt-CB9bSigNYH8,1798.185879,1807.261767.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1798&end=1808](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1798&end=1808)
-* [Q&A: How big is the map?](../../transcriptions/yt-CB9bSigNYH8,5238.267007,5244.490972.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5238&end=5245](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5238&end=5245)
+* Q&A: How big is the map? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5238&end=5245](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5238&end=5245)
 * [Q&A: How big is the world in football fields?](../../transcriptions/yt-CB9bSigNYH8,1397.877607,1410.534501.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1397&end=1411](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1397&end=1411)
 * [Q&A: How does the Map end?](../../transcriptions/yt-CB9bSigNYH8,2510.9333333333334,2537.6.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2510&end=2538](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2510&end=2538)
 * [Q&A: How do you decide who fills caves with stuff?](../../transcriptions/yt-CB9bSigNYH8,1696.76254,1745.665541.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1696&end=1746](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1696&end=1746)

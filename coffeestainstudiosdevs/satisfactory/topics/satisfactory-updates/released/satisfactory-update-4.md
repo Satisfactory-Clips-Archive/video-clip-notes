@@ -21,7 +21,7 @@ date: Last Modified
 * [Zip Lines](../../../transcriptions/yt-Dp77ih_XmkY,565.625,573.0833333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=565&end=574](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=565&end=574)
 
 ## March 12th, 2021 Livestream
-* [All of the Update 4 related things in a playlist](../../../transcriptions/yt-xLLyS6RvFm8,65.43203333333334,82.253109.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83)
+* All of the Update 4 related things in a playlist [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83)
 * [Join us for the Update 4 launch stream](../../../transcriptions/yt-xLLyS6RvFm8,,65.43203333333334.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66)
 
 ## March 9th, 2021 Livestream

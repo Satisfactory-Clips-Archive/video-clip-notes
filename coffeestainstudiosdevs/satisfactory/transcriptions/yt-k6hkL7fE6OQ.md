@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=k6hkL7fE6OQ
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2019.</summary>
 
-* [February 6th, 2019 Livestream Q&A: Can you make custom cars/trucks?](./yt-Dtm6xIj-wM4,1489.6333333333334,1494.42192.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1489&end=1495](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1489&end=1495)
+* February 6th, 2019 Livestream Q&A: Can you make custom cars/trucks? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1489&end=1495](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1489&end=1495)
 </details>
 
 

@@ -41,7 +41,7 @@ date: Last Modified
 
 ## August 1st, 2018 Livestream
 * [Q&A: Arachnophobia mode?](../../../transcriptions/yt-iFAy1NZUOGU,188.8,208.96.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=188&end=209](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=188&end=209)
-* [Q&A: Can we change the sprite ourselves?](../../../transcriptions/yt-iFAy1NZUOGU,227.8,231.6.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
+* Q&A: Can we change the sprite ourselves? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
 * [Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](../../../transcriptions/yt-iFAy1NZUOGU,208.96,227.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228)
 * [Q&A: Why spend time adding Arachnophobia Mode?](../../../transcriptions/yt-iFAy1NZUOGU,252.8,275.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=252&end=276](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=252&end=276)
 * [Q&A: Will cat sprites affect the creature's hitboxes?](../../../transcriptions/yt-iFAy1NZUOGU,231.6,237.4.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=231&end=238](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=231&end=238)

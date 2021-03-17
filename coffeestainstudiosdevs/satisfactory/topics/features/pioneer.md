@@ -55,7 +55,7 @@ date: Last Modified
 ## February 20th, 2019 Livestream
 * [Q&A: Aren't we the aliens when get to the planet?](../../transcriptions/yt-CB9bSigNYH8,4284.443325,4301.268185.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302)
 * [Q&A: Can I swim?](../../transcriptions/yt-CB9bSigNYH8,421.013576,427.456855.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=421&end=428](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=421&end=428)
-* [Q&A: Can you climb steep terrain?](../../transcriptions/yt-CB9bSigNYH8,4509.424639,4516.550398.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4509&end=4517](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4509&end=4517)
+* Q&A: Can you climb steep terrain? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4509&end=4517](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4509&end=4517)
 * [Q&A: Can you pop down the player model?](../../transcriptions/yt-CB9bSigNYH8,1343.768866,1363.9333333333334.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1343&end=1364](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1343&end=1364)
 * [Hannah Talk: Scale of the player relative to the world](../../transcriptions/yt-CB9bSigNYH8,1376,1397.877607.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1376&end=1398](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1376&end=1398)
 

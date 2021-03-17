@@ -126,7 +126,7 @@ date: Last Modified
 
 ## February 20th, 2019 Livestream
 * [Q&A: How long is the game going to be from start to finish?](../../../transcriptions/yt-CB9bSigNYH8,4999.8,5012.820008.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4999&end=5013](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4999&end=5013)
-* [Q&A: Release date?](../../../transcriptions/yt-CB9bSigNYH8,4250.630211,4256.657128.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257)
+* Q&A: Release date? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257)
 
 ## February 6th, 2019 Livestream
 * [Q&A: Any timeline on when the end game will be released?](../../../transcriptions/yt-Dtm6xIj-wM4,3487.8333333333335,3508.867162.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509)

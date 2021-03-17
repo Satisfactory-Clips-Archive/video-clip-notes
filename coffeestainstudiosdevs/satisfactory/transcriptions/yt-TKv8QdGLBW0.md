@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=TKv8QdGLBW0
 * [November 3rd, 2020 Livestream Q&A: VR Support?](./yt-eJz8dJImPfQ.md) [https://www.youtube.com/watch?v=eJz8dJImPfQ](https://www.youtube.com/watch?v=eJz8dJImPfQ)
 * [September 8th, 2020 Livestream Q&A: Ever consider making a VR version of Satisfactory?](./yt-3s-PKymQ9QU.md) [https://www.youtube.com/watch?v=3s-PKymQ9QU](https://www.youtube.com/watch?v=3s-PKymQ9QU)
 * [February 6th, 2019 Livestream Q&A: Will there be VR support?](./yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
-* [August 1st, 2018 Livestream Q&A: What about VR support?](./yt-iFAy1NZUOGU,66.08,68.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
+* August 1st, 2018 Livestream Q&A: What about VR support? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
 </details>
 
 

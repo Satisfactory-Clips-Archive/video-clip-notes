@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=pYPBpZdBvP4
 * August 25th, 2020 Livestream Q&A: Will there be a rocket to leave the planet? [https://clips.twitch.tv/BusyPowerfulWombatSoonerLater](https://clips.twitch.tv/BusyPowerfulWombatSoonerLater)
 * [May 19th, 2020 Livestream Q&A: Planet has floating rocks, is not bound by Earth physics?](./yt-jXwIeLGuSvI.md) [https://www.youtube.com/watch?v=jXwIeLGuSvI](https://www.youtube.com/watch?v=jXwIeLGuSvI)
 * [March 9th, 2019 Livestream Q&A: Will the game expand into space or will it stay on the ground?](./yt-Ea0f72zZshQ.md) [https://www.youtube.com/watch?v=Ea0f72zZshQ](https://www.youtube.com/watch?v=Ea0f72zZshQ)
-* [February 20th, 2019 Livestream Q&A: Can you travel to other planets?](./yt-CB9bSigNYH8,1305.6,1313.344125.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314)
-* [February 6th, 2019 Livestream Q&A: Will there be outer space & galaxies?](./yt-Dtm6xIj-wM4,2836.733333333333,2840.698964.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841)
+* February 20th, 2019 Livestream Q&A: Can you travel to other planets? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314)
+* February 6th, 2019 Livestream Q&A: Will there be outer space & galaxies? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841)
 </details>
 
 
