@@ -4,8 +4,8 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "features/crafting/recipes"
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Snutt & Mark Talk: Retaining legacy recipes with new buildings
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=ETgrEgA1-7Q
 
 ### Topics
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -3,6 +3,7 @@ title: "March 16th, 2021"
 date: "2021-03-16"
 layout: transcript
 topics: 
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "environment/resource-wells"
     - "features/buildings/resource-well-extractor"
     - "features/buildings/resource-well-pressurizer"
@@ -14,6 +15,7 @@ topics:
 ## We're also adding Nitrogen Gas
 https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186
 ### Topics
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Environment > Resource Wells](../topics/environment/resource-wells.md)
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)
 * [Features > Buildings > Resource Well Pressurizer](../topics/features/buildings/resource-well-pressurizer.md)

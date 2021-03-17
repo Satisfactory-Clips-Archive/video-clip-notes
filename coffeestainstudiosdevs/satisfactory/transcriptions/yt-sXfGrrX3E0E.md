@@ -3,8 +3,8 @@ title: "September 22nd, 2020 Livestream Q&A: Update 4, bigger Pipes?"
 date: "2020-09-22"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Update 4, bigger Pipes?
@@ -13,8 +13,8 @@ This question was possibly replaced with a more recent answer: October 27th, 202
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/tiers/tier-6"
     - "features/tiers/tier-7"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Are you going to break save games again?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 ### Topics
 * [Features > Tiers > Tier 6](../topics/features/tiers/tier-6.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

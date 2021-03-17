@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/resource-wells"
     - "features/tiers/tier-8"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Mark Talk: Resource Wells are unlocked in Tier 8
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=HjiEL3hWZd4
 ### Topics
 * [Environment > Resource Wells](../topics/environment/resource-wells.md)
 * [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

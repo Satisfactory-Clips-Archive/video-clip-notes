@@ -3,16 +3,16 @@ title: "January 26th, 2021 Livestream Q&A: Does the game get another dramatic ch
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-update-3"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Does the game get another dramatic change like in Update 3 in the future?
 https://www.youtube.com/watch?v=9d3Uu7bu8q4
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

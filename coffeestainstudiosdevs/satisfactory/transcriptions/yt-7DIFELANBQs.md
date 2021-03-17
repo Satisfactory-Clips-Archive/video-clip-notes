@@ -13,7 +13,7 @@ topics:
     - "features/tiers/tier-5"
     - "features/tiers/tier-6"
     - "features/tiers/tier-7"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: How will Update 4 change the lower-level items?
@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=7DIFELANBQs
 * [Features > Tiers > Tier 5](../topics/features/tiers/tier-5.md)
 * [Features > Tiers > Tier 6](../topics/features/tiers/tier-6.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

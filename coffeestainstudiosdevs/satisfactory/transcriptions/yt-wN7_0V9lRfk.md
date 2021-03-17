@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/crafting/recipes/alternate-recipes"
     - "features/tiers/tier-7"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Will Update 4 change any existing Alt recipes? (Part 2)
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=wN7_0V9lRfk
 ### Topics
 * [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

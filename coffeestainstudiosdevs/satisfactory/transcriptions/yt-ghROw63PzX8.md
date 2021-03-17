@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
     - "features/multiplayer"
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Snutt & Jace Talk: Vague Roadmap, Update 4
@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=ghROw63PzX8
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

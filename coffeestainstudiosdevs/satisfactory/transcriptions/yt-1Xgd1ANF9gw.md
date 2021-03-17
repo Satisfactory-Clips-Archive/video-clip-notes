@@ -6,7 +6,7 @@ topics:
     - "features/buildings/space-elevator"
     - "features/tiers/tier-7"
     - "features/tiers/tier-8"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: With new Space Elevator parts does this mean that Tier 8 will unlock separately from Tier 7?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=1Xgd1ANF9gw
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

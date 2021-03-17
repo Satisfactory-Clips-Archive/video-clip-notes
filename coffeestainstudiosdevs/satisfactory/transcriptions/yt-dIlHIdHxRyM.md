@@ -3,7 +3,7 @@ title: "March 9th, 2021 Livestream Q&A: When will be the exact time for stream o
 date: "2021-03-09"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/teasers-trailers"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=dIlHIdHxRyM
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript

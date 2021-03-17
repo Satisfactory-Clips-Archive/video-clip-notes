@@ -6,7 +6,7 @@ topics:
     - "features/crafting/fuel"
     - "features/equipment/jetpack"
     - "features/transportation/vehicles/tractor"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Jace mentioned Nitric Acid, will Nitrous Oxide be used for Tractors or Rocket Fuel?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=wEzD5wugI4Y
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
 * [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
 * [Features > Transportation > Vehicles > Tractor](../topics/features/transportation/vehicles/tractor.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "September 1st, 2020 Livestream Snutt Talk: When is Update 4 due?"
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Snutt Talk: When is Update 4 due?
 https://www.youtube.com/watch?v=vd_1D58uwJ4
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

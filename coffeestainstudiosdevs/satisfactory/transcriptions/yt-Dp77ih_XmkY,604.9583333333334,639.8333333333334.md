@@ -3,12 +3,14 @@ title: "March 16th, 2021"
 date: "2021-03-16"
 layout: transcript
 topics: 
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/buildings/particle-accelerator"
 ---
 # [March 16th, 2021 Update 4: Patch Notes Treasure Hunt!](../2021-03-16.md)
 ## Particle Accelerator
 https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=604&end=640
 ### Topics
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Buildings > Particle Accelerator](../topics/features/buildings/particle-accelerator.md)
 
 ### Transcript

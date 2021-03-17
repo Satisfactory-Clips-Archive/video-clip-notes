@@ -4,7 +4,7 @@ date: "2020-02-11"
 layout: transcript
 topics:
     - "features/possible-features/game-modes/battle-royale"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "trolling"
 ---
 # [February 11th, 2020 Livestream](../2020-02-11.md)
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Topics
 * [Features > Possible Features > Game Modes > Battle Royale](../topics/features/possible-features/game-modes/battle-royale.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

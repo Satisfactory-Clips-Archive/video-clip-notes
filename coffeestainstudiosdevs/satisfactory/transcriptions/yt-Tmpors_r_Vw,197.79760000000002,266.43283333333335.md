@@ -3,7 +3,7 @@ title: "February 19th, 2021"
 date: "2021-02-19"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/power-management/power-storage"
     - "features/power-management"
     - "environment/resources"
@@ -14,7 +14,7 @@ topics:
 ## Self Regulation of Power Generators being removed
 https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Power Management > Power Storage](../topics/features/power-management/power-storage.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Environment > Resources](../topics/environment/resources.md)

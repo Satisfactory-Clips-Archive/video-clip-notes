@@ -3,7 +3,7 @@ title: "December 11th, 2020"
 date: "2020-12-11"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/power-management/nuclear-energy/nuclear-waste"
     - "coffee-stainers/tim"
     - "features/power-management/nuclear-energy"
@@ -12,7 +12,7 @@ topics:
 ## Plutonium Waste
 https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 * [Coffee Stainers > Tim](../topics/coffee-stainers/tim.md)
 * [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)

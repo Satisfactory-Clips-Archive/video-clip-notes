@@ -3,14 +3,14 @@ title: "February 26th, 2021"
 date: "2021-02-26"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/release-builds"
 ---
 # [February 26th, 2021 Update 4 Experimental Release Date Announcement](../2021-02-26.md)
 ## Q&A: When's it going to be on Early Access?
 https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=80&end=113
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript

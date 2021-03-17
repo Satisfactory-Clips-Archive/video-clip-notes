@@ -7,8 +7,8 @@ topics:
     - "features/crafting/fuel"
     - "features/crafting/recipes"
     - "features/tiers/tier-7"
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: I still have Packaged Fuel being produced from a Refinery, will it be the same with Aluminium?
@@ -19,8 +19,8 @@ https://www.youtube.com/watch?v=TT3qZCTt_0o
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "December 8th, 2020 Livestream Jace Talk: FICS⁕MAS leaks are not \"leak
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/seasonal-events/fics-mas"
     - "trolling"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=TOevQ69HYNA
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Trolling](../topics/trolling.md)
 

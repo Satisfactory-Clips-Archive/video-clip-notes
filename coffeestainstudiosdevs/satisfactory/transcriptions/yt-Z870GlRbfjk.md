@@ -3,7 +3,7 @@ title: "September 15th, 2020 Livestream Q&A: Any chance Update 4 unlocks the Wor
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Any chance Update 4 unlocks the Work In Progress items?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

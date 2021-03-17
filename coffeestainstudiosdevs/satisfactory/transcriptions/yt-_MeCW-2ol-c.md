@@ -7,7 +7,7 @@ topics:
     - "features/buildings/oil-extractor"
     - "features/buildings/resource-well-extractor"
     - "features/tiers"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will you be able to skip Oil Extractors and go straight for Resource Well Extractors?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=_MeCW-2ol-c
 * [Features > Buildings > Oil Extractor](../topics/features/buildings/oil-extractor.md)
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)
 * [Features > Tiers](../topics/features/tiers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

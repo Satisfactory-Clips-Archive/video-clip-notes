@@ -4,7 +4,7 @@ date: "2021-02-23"
 layout: transcript
 topics:
     - "coffee-stainers"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/state-of-dev"
     - "technology/unreal-engine"
 ---
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=ODkDsExNtl4
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 

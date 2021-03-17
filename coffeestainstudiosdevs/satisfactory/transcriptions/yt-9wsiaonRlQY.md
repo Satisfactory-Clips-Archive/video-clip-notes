@@ -3,7 +3,7 @@ title: "March 2nd, 2021 Livestream State of Dev: Still in Content Freeze (Part 1
 date: "2021-03-02"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/state-of-dev"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=9wsiaonRlQY
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

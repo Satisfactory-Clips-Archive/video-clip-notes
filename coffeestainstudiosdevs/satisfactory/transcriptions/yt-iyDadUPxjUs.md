@@ -4,8 +4,8 @@ date: "2021-02-16"
 layout: transcript
 topics:
     - "satisfactory-updates/modular-build"
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "technology/unreal-engine"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
@@ -16,8 +16,8 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Topics
 * [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

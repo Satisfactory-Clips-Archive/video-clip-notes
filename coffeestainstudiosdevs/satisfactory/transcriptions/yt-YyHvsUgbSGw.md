@@ -3,14 +3,14 @@ title: "December 15th, 2020 Livestream Q&A: Is there a reason to reveal so much 
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Is there a reason to reveal so much Update 4 content in the latest YouTube video?
 https://www.youtube.com/watch?v=YyHvsUgbSGw
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -257,7 +257,6 @@ date: Last Modified
 * [Teasers & Trailers](./topics/satisfactory-updates/teasers-trailers.md)
 
 ## Pending
-* [Satisfactory Update 4](./topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ## Released
@@ -265,6 +264,7 @@ date: Last Modified
 * [Satisfactory Update 2](./topics/satisfactory-updates/released/satisfactory-update-2.md)
 * [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Fluids Update](./topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Update 4](./topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Alpha Weekend](./topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)

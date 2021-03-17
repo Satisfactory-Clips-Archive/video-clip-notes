@@ -3,7 +3,7 @@ title: "February 16th, 2021 Livestream Q&A: Do you already have a date for the U
 date: "2021-02-16"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Do you already have a date for the Update?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

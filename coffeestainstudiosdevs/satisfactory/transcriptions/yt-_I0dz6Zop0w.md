@@ -3,7 +3,7 @@ title: "September 1st, 2020 Livestream Q&A: Will Story happen in Update 4?"
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "story-lore"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Story & Lore](../topics/story-lore.md)
 
 ### Transcript

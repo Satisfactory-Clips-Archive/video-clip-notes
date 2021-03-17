@@ -3,8 +3,8 @@ title: "May 19th, 2020 Livestream Q&A: Do you intended to do planned amount of h
 date: "2020-05-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/speculative/satisfactory-update-5"
 ---
 # [May 19th, 2020 Livestream](../2020-05-19.md)
@@ -14,8 +14,8 @@ This question was possibly duplicated with a more recent answer: March 2nd, 2021
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 
 ### Transcript

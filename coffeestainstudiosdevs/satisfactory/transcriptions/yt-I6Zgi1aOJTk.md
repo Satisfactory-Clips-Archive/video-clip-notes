@@ -4,7 +4,7 @@ date: "2021-03-02"
 layout: transcript
 topics:
     - "environment/resources/oil"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Will there be changes to the existing Oil nodes?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=I6Zgi1aOJTk
 
 ### Topics
 * [Environment > Resources > Oil](../topics/environment/resources/oil.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

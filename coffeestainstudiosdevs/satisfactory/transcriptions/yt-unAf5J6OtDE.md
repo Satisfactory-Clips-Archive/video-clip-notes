@@ -3,8 +3,8 @@ title: "October 27th, 2020 Livestream Q&A: Talking about Engine Update, was that
 date: "2020-10-27"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "technology/unreal-engine"
 ---
 # [October 27th, 2020 Livestream](../2020-10-27.md)
@@ -22,8 +22,8 @@ https://www.youtube.com/watch?v=unAf5J6OtDE
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

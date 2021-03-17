@@ -4,7 +4,7 @@ date: "2021-02-05"
 layout: transcript
 topics: 
     - "technology/user-interface"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/buildings/awesome-store"
 ---
 # [February 5th, 2021 Update 4 UI Changes (including the new Resource Well Pressurizers & Extractors)](../2021-02-05.md)
@@ -12,7 +12,7 @@ topics:
 https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=75&end=190
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
 
 ### Transcript

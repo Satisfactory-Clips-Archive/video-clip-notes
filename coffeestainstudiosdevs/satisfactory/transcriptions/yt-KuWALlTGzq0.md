@@ -3,14 +3,14 @@ title: "February 2nd, 2021 Livestream Q&A: Any changes to Logistics?"
 date: "2021-02-02"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Any changes to Logistics?
 https://www.youtube.com/watch?v=KuWALlTGzq0
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

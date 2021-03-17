@@ -3,16 +3,16 @@ title: "October 27th, 2020 Livestream Q&A: Is this (Fluid Updates) coming in Upd
 date: "2020-10-27"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Is this (Fluid Updates) coming in Update 4?
 https://www.youtube.com/watch?v=OSM9wYZLbjk
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

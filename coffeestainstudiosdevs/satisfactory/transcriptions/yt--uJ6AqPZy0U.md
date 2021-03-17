@@ -3,7 +3,7 @@ title: "November 24th, 2020 Livestream Q&A: Are beanies and beards part of new m
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "trolling"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=-uJ6AqPZy0U
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

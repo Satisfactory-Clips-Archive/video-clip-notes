@@ -3,7 +3,7 @@ title: "February 2nd, 2021 Livestream Q&A: When do you think the Release Date wi
 date: "2021-02-02"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: When do you think the Release Date will be solid?
@@ -12,7 +12,7 @@ This question was possibly replaced with a more recent answer: [March 9th, 2021 
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

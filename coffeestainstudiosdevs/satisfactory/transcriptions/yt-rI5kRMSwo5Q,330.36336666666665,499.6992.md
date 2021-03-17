@@ -4,7 +4,7 @@ date: "2021-02-05"
 layout: transcript
 topics: 
     - "technology/user-interface"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "environment/resource-wells"
     - "features/buildings/resource-well-pressurizer"
     - "features/buildings/resource-well-extractor"
@@ -15,7 +15,7 @@ topics:
 https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Environment > Resource Wells](../topics/environment/resource-wells.md)
 * [Features > Buildings > Resource Well Pressurizer](../topics/features/buildings/resource-well-pressurizer.md)
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)

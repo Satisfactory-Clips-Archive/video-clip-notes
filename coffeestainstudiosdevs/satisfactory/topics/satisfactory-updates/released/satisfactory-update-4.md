@@ -2,7 +2,23 @@
 title: "Satisfactory Update 4"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 4
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
+
+## March 16th, 2021 Livestream
+* [Drones](../../../transcriptions/yt-Dp77ih_XmkY,409.4583333333333,458.9583333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459)
+* [Encased Uranium Cells now produced in the Blender](../../../transcriptions/yt-Dp77ih_XmkY,195.325577,205.875.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206)
+* [Geothermal is getting a change, too](../../../transcriptions/yt-Dp77ih_XmkY,307.5833333333333,319.2083333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320)
+* [Hover Pack](../../../transcriptions/yt-Dp77ih_XmkY,468.081481,498.0833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=468&end=499](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=468&end=499)
+* [Lights](../../../transcriptions/yt-Dp77ih_XmkY,327.0833333333333,372.0833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=327&end=373](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=327&end=373)
+* [Particle Accelerator](../../../transcriptions/yt-Dp77ih_XmkY,604.9583333333334,639.8333333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=604&end=640](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=604&end=640)
+* [Plutonium](../../../transcriptions/yt-Dp77ih_XmkY,205.875,228.767243.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=205&end=229](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=205&end=229)
+* [Power Generators are no longer Self-Regulating](../../../transcriptions/yt-Dp77ih_XmkY,283.432566,307.5833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=283&end=308](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=283&end=308)
+* [Power Storage](../../../transcriptions/yt-Dp77ih_XmkY,259.82206,283.432566.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=259&end=284](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=259&end=284)
+* [Power Switches](../../../transcriptions/yt-Dp77ih_XmkY,319.2083333333333,327.0833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=319&end=328](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=319&end=328)
+* [The Blender](../../../transcriptions/yt-Dp77ih_XmkY,185.58333333333334,195.325577.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=185&end=196](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=185&end=196)
+* [Tier 7 is getting a makeover](../../../transcriptions/yt-Dp77ih_XmkY,117.674411,163.625.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=117&end=164](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=117&end=164)
+* [We're also adding Nitrogen Gas](../../../transcriptions/yt-Dp77ih_XmkY,163.625,185.58333333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186)
+* [Zip Lines](../../../transcriptions/yt-Dp77ih_XmkY,565.625,573.0833333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=565&end=574](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=565&end=574)
 
 ## March 12th, 2021 Livestream
 * [All of the Update 4 related things in a playlist](../../../transcriptions/yt-xLLyS6RvFm8,65.43203333333334,82.253109.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83)

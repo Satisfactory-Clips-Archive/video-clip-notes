@@ -3,7 +3,7 @@ title: "August 25th, 2020 Livestream Q&A: Update 4, just a quality-of-life thing
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Update 4, just a quality-of-life thing?
@@ -12,7 +12,7 @@ This question was possibly replaced with a more recent answer: [January 15th, 20
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/gases"
     - "features/power-management"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: With the introducion of Gas, will Coal Generators be split into two buildings?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=vsmihiP_Tmg
 ### Topics
 * [Features > Gases](../topics/features/gases.md)
 * [Features > Power Management](../topics/features/power-management.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-02-09"
 layout: transcript
 topics:
     - "mods/official-mod-support"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Will Mods come to Update 4?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=IXuBCWtpEsE
 
 ### Topics
 * [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

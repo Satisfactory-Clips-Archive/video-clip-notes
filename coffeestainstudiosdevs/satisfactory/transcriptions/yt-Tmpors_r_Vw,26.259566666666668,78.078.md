@@ -3,7 +3,7 @@ title: "February 19th, 2021"
 date: "2021-02-19"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/power-management/power-switch"
     - "technology/user-interface"
     - "features/power-management"
@@ -12,7 +12,7 @@ topics:
 ## Power Switch
 https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=26&end=79
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Power Management > Power Switch](../topics/features/power-management/power-switch.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 * [Features > Power Management](../topics/features/power-management.md)

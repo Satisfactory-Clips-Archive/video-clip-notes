@@ -3,8 +3,8 @@ title: "February 16th, 2021 Livestream Q&A: I think I missed a discussion around
 date: "2021-02-16"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: I think I missed a discussion around when it would be shifted to Early Access?
@@ -13,8 +13,8 @@ This question was possibly duplicated with a more recent answer: [February 26th,
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

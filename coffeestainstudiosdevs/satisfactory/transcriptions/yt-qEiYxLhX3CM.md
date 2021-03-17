@@ -6,8 +6,8 @@ topics:
     - "features/planned-features/signs"
     - "features/transportation/trains/train-signals"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-update-3"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Why do big updates at all - why not just release everything in small bites?
@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=qEiYxLhX3CM
 * [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

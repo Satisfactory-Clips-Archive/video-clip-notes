@@ -3,8 +3,8 @@ title: "February 9th, 2021 Livestream Q&A: How big will Update 4 be?"
 date: "2021-02-09"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-update-3"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: How big will Update 4 be?
@@ -13,8 +13,8 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

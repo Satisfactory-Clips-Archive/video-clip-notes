@@ -3,14 +3,14 @@ title: "December 15th, 2020 Livestream Q&A: Will there be any major changes to t
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will there be any major changes to the game with Update 4?
 https://www.youtube.com/watch?v=8ImofeADWyI
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

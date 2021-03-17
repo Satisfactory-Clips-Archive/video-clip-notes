@@ -4,7 +4,7 @@ date: "2021-02-23"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Is Update 4 coming out before or after Jace beats this maze?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=NzTAvolZZrY
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

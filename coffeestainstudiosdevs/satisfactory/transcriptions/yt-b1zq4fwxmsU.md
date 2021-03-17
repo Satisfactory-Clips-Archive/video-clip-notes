@@ -6,7 +6,7 @@ topics:
     - "community"
     - "features/crafting/recipes"
     - "features/power-management/nuclear-energy/nuclear-refinement"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/teasers-trailers"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=b1zq4fwxmsU
 * [Community](../topics/community.md)
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Refinement](../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript

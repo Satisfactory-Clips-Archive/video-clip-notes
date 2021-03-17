@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/mark"
     - "features/power-management/power-storage"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Where did the idea of making power producers produce 100% regardless of consumption come from?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=Ws0Q7X1Twx0
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
 * [Features > Power Management > Power Storage](../topics/features/power-management/power-storage.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/snutt"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Does Update 4 equal 1.0?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=E5B4N52cWRM
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

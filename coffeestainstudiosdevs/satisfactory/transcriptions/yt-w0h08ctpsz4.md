@@ -3,14 +3,14 @@ title: "January 26th, 2021 Livestream Q&A: Can we see a sneak-peek video?"
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Can we see a sneak-peek video?
 https://www.youtube.com/watch?v=w0h08ctpsz4
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

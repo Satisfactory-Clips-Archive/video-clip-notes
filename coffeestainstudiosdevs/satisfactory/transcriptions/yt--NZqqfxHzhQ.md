@@ -3,7 +3,7 @@ title: "January 12th, 2021 Livestream Q&A: More performance updates with Update 
 date: "2021-01-12"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "technology/unreal-engine"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=-NZqqfxHzhQ
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

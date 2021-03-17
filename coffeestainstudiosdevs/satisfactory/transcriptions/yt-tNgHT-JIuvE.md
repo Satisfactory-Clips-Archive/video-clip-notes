@@ -3,16 +3,16 @@ title: "August 25th, 2020 Livestream ETA for Update 4? (Mid-stream reiteration)"
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## ETA for Update 4? (Mid-stream reiteration)
 https://www.youtube.com/watch?v=tNgHT-JIuvE
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

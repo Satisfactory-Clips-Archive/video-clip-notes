@@ -3,7 +3,7 @@ title: "February 23rd, 2021 Livestream Q&A: Is there already a date for Update 4
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Is there already a date for Update 4?
@@ -12,7 +12,7 @@ This question was possibly replaced with a more recent answer: [February 26th, 2
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

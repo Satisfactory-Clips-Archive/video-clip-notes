@@ -3,11 +3,11 @@ title: "March 2nd, 2021 Livestream Q&A: Patch Notes video since Update 1?"
 date: "2021-03-02"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/released/satisfactory-update-1"
     - "satisfactory-updates/released/satisfactory-update-2"
     - "satisfactory-updates/released/satisfactory-update-3"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/teasers-trailers"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
@@ -15,11 +15,11 @@ topics:
 https://www.youtube.com/watch?v=APlNumHg7ng
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Updates > Released > Satisfactory Update 1](../topics/satisfactory-updates/released/satisfactory-update-1.md)
 * [Satisfactory Updates > Released > Satisfactory Update 2](../topics/satisfactory-updates/released/satisfactory-update-2.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript

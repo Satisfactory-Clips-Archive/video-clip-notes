@@ -4,7 +4,7 @@ date: "2021-03-02"
 layout: transcript
 topics:
     - "features/planned-features/signs"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Will there be signs in Update 4?
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=8BmHQuMW_L8
 
 ### Topics
 * [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

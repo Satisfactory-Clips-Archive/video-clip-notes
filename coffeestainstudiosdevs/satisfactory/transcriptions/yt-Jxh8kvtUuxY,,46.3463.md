@@ -3,7 +3,7 @@ title: "January 15th, 2021"
 date: "2021-01-15"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/gases"
     - "features/fluids"
     - "satisfactory-updates/released/satisfactory-update-3"
@@ -12,7 +12,7 @@ topics:
 ## Intro
 https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Gases](../topics/features/gases.md)
 * [Features > Fluids](../topics/features/fluids.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)

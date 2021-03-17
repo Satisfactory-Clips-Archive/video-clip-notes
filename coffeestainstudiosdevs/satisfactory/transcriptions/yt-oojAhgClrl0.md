@@ -4,7 +4,7 @@ date: "2021-02-23"
 layout: transcript
 topics:
     - "features/crafting/recipes/alternate-recipes"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Are there going to be more recipes- not new item recipes but more recipes for old items?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 ### Topics
 * [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

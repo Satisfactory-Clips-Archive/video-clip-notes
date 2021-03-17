@@ -3,12 +3,14 @@ title: "March 16th, 2021"
 date: "2021-03-16"
 layout: transcript
 topics: 
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/equipment/zip-lines"
 ---
 # [March 16th, 2021 Update 4: Patch Notes Treasure Hunt!](../2021-03-16.md)
 ## Zip Lines
 https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=565&end=574
 ### Topics
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
 
 ### Transcript

@@ -4,7 +4,7 @@ date: "2020-09-01"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will Update 4 include Multiplayer optimisation?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

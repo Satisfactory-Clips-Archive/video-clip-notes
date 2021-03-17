@@ -4,8 +4,8 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "satisfactory-updates/modular-build"
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/state-of-dev"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
@@ -16,8 +16,8 @@ This question was possibly replaced with a more recent answer: [February 9th, 20
 
 ### Topics
 * [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

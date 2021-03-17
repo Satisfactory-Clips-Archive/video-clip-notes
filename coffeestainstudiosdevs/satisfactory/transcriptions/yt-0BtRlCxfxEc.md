@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "community"
     - "features/power-management/nuclear-energy/nuclear-refinement"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/teasers-trailers"
     - "technology/user-interface"
 ---
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=0BtRlCxfxEc
 ### Topics
 * [Community](../topics/community.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Refinement](../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

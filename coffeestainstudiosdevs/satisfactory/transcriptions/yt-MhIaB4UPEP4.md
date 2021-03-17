@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "community"
     - "features/equipment/zip-lines"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "trolling"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=MhIaB4UPEP4
 ### Topics
 * [Community](../topics/community.md)
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

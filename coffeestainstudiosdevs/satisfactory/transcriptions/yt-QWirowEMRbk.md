@@ -4,7 +4,7 @@ date: "2020-11-24"
 layout: transcript
 topics:
     - "features/planned-features/dedicated-servers"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Dedicated Servers in Update 4?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 ### Topics
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

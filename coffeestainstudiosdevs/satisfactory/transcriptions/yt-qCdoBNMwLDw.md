@@ -4,7 +4,7 @@ date: "2021-03-09"
 layout: transcript
 topics:
     - "features/power-management"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Snutt & Jace Talk: Snutt learned a thing from Update 4
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=qCdoBNMwLDw
 
 ### Topics
 * [Features > Power Management](../topics/features/power-management.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

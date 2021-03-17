@@ -4,7 +4,7 @@ date: "2021-02-09"
 layout: transcript
 topics:
     - "features/power-management/power-storage"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: What was the Leak™?
@@ -14,7 +14,7 @@ This question was possibly replaced with a more recent answer: [February 19th, 2
 
 ### Topics
 * [Features > Power Management > Power Storage](../topics/features/power-management/power-storage.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

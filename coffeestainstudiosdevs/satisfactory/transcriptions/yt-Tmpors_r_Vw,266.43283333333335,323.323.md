@@ -3,13 +3,13 @@ title: "February 19th, 2021"
 date: "2021-02-19"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 19th, 2021 New Power Changes in Update 4](../2021-02-19.md)
 ## Outro Surprise
 https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=266&end=324
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

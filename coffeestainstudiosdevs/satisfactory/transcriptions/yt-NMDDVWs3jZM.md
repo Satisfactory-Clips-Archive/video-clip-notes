@@ -4,7 +4,7 @@ date: "2021-02-16"
 layout: transcript
 topics:
     - "satisfactory-updates/modular-build"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Size of the Update?
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=NMDDVWs3jZM
 
 ### Topics
 * [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

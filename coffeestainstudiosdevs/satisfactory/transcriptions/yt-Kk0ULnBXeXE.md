@@ -7,7 +7,7 @@ topics:
     - "features/buildings/packager"
     - "features/buildings/resource-well-extractor"
     - "features/buildings/resource-well-pressurizer"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Some new Machines in the next update?
@@ -20,7 +20,7 @@ This question was possibly replaced with a more recent answer: [February 9th, 20
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)
 * [Features > Buildings > Resource Well Pressurizer](../topics/features/buildings/resource-well-pressurizer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

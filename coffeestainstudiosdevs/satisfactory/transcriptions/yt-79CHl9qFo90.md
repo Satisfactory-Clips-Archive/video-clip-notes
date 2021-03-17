@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/multiplayer"
     - "features/transportation/vehicles"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Improvements on Vehicles next Update?
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=79CHl9qFo90
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

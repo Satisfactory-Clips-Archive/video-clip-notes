@@ -4,8 +4,8 @@ date: "2020-10-13"
 layout: transcript
 topics:
     - "features/possible-features/weather-systems"
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "technology/graphics"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
@@ -21,8 +21,8 @@ https://www.youtube.com/watch?v=2AMBinmPITg
 
 ### Topics
 * [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

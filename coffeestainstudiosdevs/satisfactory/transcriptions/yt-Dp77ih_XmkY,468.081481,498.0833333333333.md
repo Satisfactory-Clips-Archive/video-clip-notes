@@ -3,12 +3,14 @@ title: "March 16th, 2021"
 date: "2021-03-16"
 layout: transcript
 topics: 
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/equipment/hover-pack"
 ---
 # [March 16th, 2021 Update 4: Patch Notes Treasure Hunt!](../2021-03-16.md)
 ## Hover Pack
 https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=468&end=499
 ### Topics
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Equipment > Hover Pack](../topics/features/equipment/hover-pack.md)
 
 ### Transcript

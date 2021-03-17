@@ -3,7 +3,7 @@ title: "February 26th, 2021"
 date: "2021-02-26"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/release-builds"
     - "retail/steam-store"
     - "retail/epic-store"
@@ -13,7 +13,7 @@ topics:
 ## Q&A: I'm on Early Access, how do I get in on this Experimental stuff?
 https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Retail > Steam Store](../topics/retail/steam-store.md)
 * [Retail > Epic Store](../topics/retail/epic-store.md)

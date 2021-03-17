@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/tiers"
     - "features/transportation/vehicles/drones"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "trolling"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=E666WdfoeP0
 ### Topics
 * [Features > Tiers](../topics/features/tiers.md)
 * [Features > Transportation > Vehicles > Drones](../topics/features/transportation/vehicles/drones.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

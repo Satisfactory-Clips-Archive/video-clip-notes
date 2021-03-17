@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/simon"
     - "community"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "trolling"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=L5P4V2YcjBc
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
 * [Community](../topics/community.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

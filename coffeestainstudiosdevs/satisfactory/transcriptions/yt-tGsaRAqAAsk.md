@@ -8,7 +8,7 @@ topics:
     - "features/crafting/fuel"
     - "features/crafting/recipes/alternate-recipes"
     - "features/tiers/tier-6"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Snutt & Jace Talk: Can't remember of Turbofuel has changed
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=tGsaRAqAAsk
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
 * [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Features > Tiers > Tier 6](../topics/features/tiers/tier-6.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

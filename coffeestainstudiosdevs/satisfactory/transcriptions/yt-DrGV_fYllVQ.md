@@ -3,7 +3,7 @@ title: "March 2nd, 2021 Livestream Q&A: You mentioned in the past each game obje
 date: "2021-03-02"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "technology/unreal-engine/object-limit"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=DrGV_fYllVQ
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript

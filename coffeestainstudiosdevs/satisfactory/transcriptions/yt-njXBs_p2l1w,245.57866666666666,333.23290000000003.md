@@ -3,7 +3,7 @@ title: "December 11th, 2020"
 date: "2020-12-11"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/tiers/tier-7"
     - "features/tiers/tier-8"
     - "environment/resources"
@@ -13,7 +13,7 @@ topics:
 ## Aluminum Casing
 https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
 * [Environment > Resources](../topics/environment/resources.md)

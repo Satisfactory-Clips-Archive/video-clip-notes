@@ -3,6 +3,7 @@ title: "March 16th, 2021"
 date: "2021-03-16"
 layout: transcript
 topics: 
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/tiers/tier-7"
     - "features/crafting/recipes"
     - "features/buildings/refinery"
@@ -12,6 +13,7 @@ topics:
 ## Tier 7 is getting a makeover
 https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=117&end=164
 ### Topics
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)

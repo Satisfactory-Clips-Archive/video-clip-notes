@@ -3,7 +3,7 @@ title: "February 19th, 2021"
 date: "2021-02-19"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/power-management/power-storage"
     - "technology/user-interface"
     - "features/power-management/geothermal-energy"
@@ -12,7 +12,7 @@ topics:
 ## Geothermal Generators
 https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Power Management > Power Storage](../topics/features/power-management/power-storage.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 * [Features > Power Management > Geothermal Energy](../topics/features/power-management/geothermal-energy.md)

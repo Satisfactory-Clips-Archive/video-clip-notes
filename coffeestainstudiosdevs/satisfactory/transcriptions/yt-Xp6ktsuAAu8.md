@@ -3,16 +3,16 @@ title: "November 3rd, 2020 Livestream Q&A: Updates for bug fixes?"
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Updates for bug fixes?
 https://www.youtube.com/watch?v=Xp6ktsuAAu8
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

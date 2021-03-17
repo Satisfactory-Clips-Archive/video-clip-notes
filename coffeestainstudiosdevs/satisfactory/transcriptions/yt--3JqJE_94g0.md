@@ -4,7 +4,7 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "features/planned-features/dedicated-servers"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: How possible are Dedicated Servers in Update 4?
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=-3JqJE_94g0
 
 ### Topics
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

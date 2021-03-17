@@ -4,7 +4,7 @@ date: "2020-12-08"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Is Multiplayer desync fixed in Update 4?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

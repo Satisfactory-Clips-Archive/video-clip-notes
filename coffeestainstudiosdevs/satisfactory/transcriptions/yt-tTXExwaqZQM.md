@@ -4,7 +4,7 @@ date: "2020-11-17"
 layout: transcript
 topics:
     - "environment/creatures/crab-boss"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/speculative/satisfactory-update-5"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 ### Topics
 * [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 
 ### Transcript

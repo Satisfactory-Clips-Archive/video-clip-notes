@@ -3,7 +3,7 @@ title: "January 19th, 2021 Livestream Q&A: Will you be adding more Cargo Crash S
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will you be adding more Cargo Crash Sites to add more alt recipes?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [February 2nd, 
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

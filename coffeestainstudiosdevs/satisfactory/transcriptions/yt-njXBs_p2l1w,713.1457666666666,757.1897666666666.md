@@ -3,7 +3,7 @@ title: "December 11th, 2020"
 date: "2020-12-11"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "coffee-stainers"
     - "community"
 ---
@@ -11,7 +11,7 @@ topics:
 ## Outro
 https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Community](../topics/community.md)
 

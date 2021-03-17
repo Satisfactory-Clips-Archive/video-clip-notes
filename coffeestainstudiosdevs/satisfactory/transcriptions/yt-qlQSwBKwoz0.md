@@ -4,8 +4,8 @@ date: "2020-06-08"
 layout: transcript
 topics:
     - "coffee-stainers/mark"
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: What can you tell us about priorities over the next few months?
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=qlQSwBKwoz0
 
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

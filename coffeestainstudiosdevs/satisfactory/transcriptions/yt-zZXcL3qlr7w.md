@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/fluids"
     - "features/gases"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Are Gases going to work like Liquids?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: February 26th, 
 ### Topics
 * [Features > Fluids](../topics/features/fluids.md)
 * [Features > Gases](../topics/features/gases.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/mark"
     - "features/crafting/recipes/alternate-recipes"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Snutt Talk: Mark said we're adding new Alternate Recipes & new Crash Sites
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=PoEuuDU4jpo
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
 * [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

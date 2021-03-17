@@ -3,7 +3,7 @@ title: "December 11th, 2020"
 date: "2020-12-11"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/buildings/packager"
     - "features/fluids"
     - "coffee-stainers/jace"
@@ -13,7 +13,7 @@ topics:
 ## Packaged Alumina Solution & Packaged Sulphuric Acid
 https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
 * [Features > Fluids](../topics/features/fluids.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

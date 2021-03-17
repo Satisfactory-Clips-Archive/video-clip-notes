@@ -3,14 +3,14 @@ title: "March 2nd, 2021 Livestream Q&A: Are there some bugs that still aren't fi
 date: "2021-03-02"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Are there some bugs that still aren't fixed?
 https://www.youtube.com/watch?v=_3_63ujKu8Q
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

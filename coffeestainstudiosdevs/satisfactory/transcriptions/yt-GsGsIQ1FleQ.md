@@ -3,7 +3,7 @@ title: "January 26th, 2021 Livestream Snutt & Jace Talk: Potential change to Use
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "technology/user-interface"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=GsGsIQ1FleQ
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

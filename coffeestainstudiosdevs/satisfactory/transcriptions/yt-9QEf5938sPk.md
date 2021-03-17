@@ -3,8 +3,8 @@ title: "February 23rd, 2021 Livestream Q&A: So are you packing Update 4 to the E
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "technology/unreal-engine"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
@@ -19,8 +19,8 @@ https://www.youtube.com/watch?v=9QEf5938sPk
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

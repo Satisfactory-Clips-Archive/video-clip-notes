@@ -3,16 +3,16 @@ title: "January 19th, 2021 Livestream Snutt Talk: Disclaimer regarding changes i
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-update-3"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Snutt Talk: Disclaimer regarding changes in communicating Updates (Update 2 & 3 vs. Update 4)
 https://www.youtube.com/watch?v=avsSNP2oO-Y
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

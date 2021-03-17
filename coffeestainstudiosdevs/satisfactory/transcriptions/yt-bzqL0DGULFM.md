@@ -3,7 +3,7 @@ title: "February 23rd, 2021 Livestream Q&A: Any more music tracks coming?"
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "soundtrack"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Soundtrack](../topics/soundtrack.md)
 
 ### Transcript

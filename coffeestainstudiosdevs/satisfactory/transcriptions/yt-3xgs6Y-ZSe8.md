@@ -7,8 +7,8 @@ topics:
     - "features/fluids/pipes"
     - "features/planned-features/dedicated-servers"
     - "features/tiers/tier-8"
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: ETA for Update 4
@@ -21,8 +21,8 @@ This question was possibly replaced with a more recent answer: [March 9th, 2021 
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 * [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

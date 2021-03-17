@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/packager"
     - "features/gases"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will Gas packaging happen in the Packager?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=K2uidbt0_VE
 ### Topics
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
 * [Features > Gases](../topics/features/gases.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

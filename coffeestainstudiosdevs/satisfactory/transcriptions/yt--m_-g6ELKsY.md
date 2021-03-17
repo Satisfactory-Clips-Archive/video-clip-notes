@@ -4,8 +4,8 @@ date: "2021-03-09"
 layout: transcript
 topics:
     - "features/save-system"
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Will Experimental & EA be the same version so we can swap?
@@ -15,8 +15,8 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Topics
 * [Features > Save System](../topics/features/save-system.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

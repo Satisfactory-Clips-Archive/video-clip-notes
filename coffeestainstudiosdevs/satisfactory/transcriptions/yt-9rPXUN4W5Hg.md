@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/blender"
     - "features/crafting/fuel"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will we use the Blender for Diluted Fuel?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=9rPXUN4W5Hg
 ### Topics
 * [Features > Buildings > Blender](../topics/features/buildings/blender.md)
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

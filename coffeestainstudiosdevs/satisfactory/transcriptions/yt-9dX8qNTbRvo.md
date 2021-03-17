@@ -3,8 +3,8 @@ title: "February 9th, 2021 Livestream Q&A: How's the Engine Upgrade and Update 4
 date: "2021-02-09"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "technology/unreal-engine"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=9dX8qNTbRvo
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

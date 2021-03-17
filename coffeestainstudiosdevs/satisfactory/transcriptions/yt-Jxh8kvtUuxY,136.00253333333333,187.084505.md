@@ -3,7 +3,7 @@ title: "January 15th, 2021"
 date: "2021-01-15"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/gases"
     - "environment/resource-wells"
     - "features/buildings/resource-well-extractor"
@@ -18,7 +18,7 @@ topics:
 ## Q&A: What will Gases be used for?
 https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Gases](../topics/features/gases.md)
 * [Environment > Resource Wells](../topics/environment/resource-wells.md)
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)

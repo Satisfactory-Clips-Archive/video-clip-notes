@@ -3,7 +3,7 @@ title: "January 15th, 2021"
 date: "2021-01-15"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "features/gases"
     - "environment/resources/oil"
     - "environment/resources/water"
@@ -15,7 +15,7 @@ topics:
 ## Resource Wells
 https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Features > Gases](../topics/features/gases.md)
 * [Environment > Resources > Oil](../topics/environment/resources/oil.md)
 * [Environment > Resources > Water](../topics/environment/resources/water.md)

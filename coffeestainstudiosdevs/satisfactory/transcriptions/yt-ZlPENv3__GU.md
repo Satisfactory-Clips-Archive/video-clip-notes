@@ -3,7 +3,7 @@ title: "February 16th, 2021 Livestream Q&A: Will Update 4 be based on new Unreal
 date: "2021-02-16"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "technology/unreal-engine"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=ZlPENv3__GU
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

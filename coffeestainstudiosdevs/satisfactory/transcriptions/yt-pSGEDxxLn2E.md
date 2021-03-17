@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/equipment/jetpack"
     - "features/fluids"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 ### Topics
 * [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
 * [Features > Fluids](../topics/features/fluids.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

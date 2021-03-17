@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/resources/mercer-sphere"
     - "environment/resources/somersloop"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "story-lore"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
@@ -17,7 +17,7 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 ### Topics
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Story & Lore](../topics/story-lore.md)
 
 ### Transcript

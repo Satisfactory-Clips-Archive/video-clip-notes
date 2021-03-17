@@ -4,7 +4,7 @@ date: "2021-02-02"
 layout: transcript
 topics:
     - "features/equipment/zip-lines"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Do Zip Lines need to be powered?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=r_mQ7Xqk6Yo
 
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "December 11th, 2020"
 date: "2020-12-11"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "coffee-stainers/jace"
     - "trolling"
     - "features/transportation/vehicles/factory-cart"
@@ -12,7 +12,7 @@ topics:
 ## Coffee Stain R&D Factory
 https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Trolling](../topics/trolling.md)
 * [Features > Transportation > Vehicles > Factory Cart](../topics/features/transportation/vehicles/factory-cart.md)

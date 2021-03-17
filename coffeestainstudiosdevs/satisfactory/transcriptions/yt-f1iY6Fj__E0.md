@@ -4,7 +4,7 @@ date: "2020-12-08"
 layout: transcript
 topics:
     - "mods"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Will Mods break?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Topics
 * [Mods](../topics/mods.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

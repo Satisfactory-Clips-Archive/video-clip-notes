@@ -6,7 +6,7 @@ topics:
     - "features/buildings/refinery"
     - "features/crafting/recipes"
     - "features/tiers/tier-7"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?
@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 * [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

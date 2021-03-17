@@ -4,7 +4,7 @@ date: "2020-09-01"
 layout: transcript
 topics:
     - "retail/steam-store/steam-release"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Snutt Talk: Update 4 Release Window
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=u1R1x49XwQE
 
 ### Topics
 * [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

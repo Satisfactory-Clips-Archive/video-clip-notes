@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/equipment"
     - "features/gases"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=3gHStWkd0oE
 ### Topics
 * [Features > Equipment](../topics/features/equipment.md)
 * [Features > Gases](../topics/features/gases.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript

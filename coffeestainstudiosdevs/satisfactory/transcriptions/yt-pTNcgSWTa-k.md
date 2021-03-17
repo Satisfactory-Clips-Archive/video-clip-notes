@@ -3,7 +3,7 @@ title: "February 2nd, 2021 Livestream State of Dev: Update 4 release date"
 date: "2021-02-02"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/state-of-dev"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=pTNcgSWTa-k
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

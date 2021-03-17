@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/world-map"
     - "features/buildings"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "story-lore"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=pCwOyYQ1f6Y
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Buildings](../topics/features/buildings.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Story & Lore](../topics/story-lore.md)
 
 ### Transcript

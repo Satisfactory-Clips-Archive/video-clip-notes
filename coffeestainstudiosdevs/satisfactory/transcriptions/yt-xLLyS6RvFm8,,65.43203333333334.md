@@ -3,14 +3,14 @@ title: "March 12th, 2021"
 date: "2021-03-12"
 layout: transcript
 topics: 
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/teasers-trailers"
 ---
 # [March 12th, 2021 Join us for the Update 4 launch stream](../2021-03-12.md)
 ## Join us for the Update 4 launch stream
 https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
 ### Transcript

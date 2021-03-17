@@ -3,7 +3,7 @@ title: "September 1st, 2020 Livestream Q&A: Will Update 4 be disruptive enough t
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will Update 4 be disruptive enough that players will want to start from scratch?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

@@ -3,8 +3,8 @@ title: "March 24th, 2020 Livestream Snutt & Jace Talk: Future Updates"
 date: "2020-03-24"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-fluids-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "trolling"
 ---
 # [March 24th, 2020 Livestream](../2020-03-24.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=yMTaDzjlfH0
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

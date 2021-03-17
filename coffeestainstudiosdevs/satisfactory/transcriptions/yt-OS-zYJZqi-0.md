@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/power-management"
     - "mods/mods-vs-features"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: What is your take on new Energy sources?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=OS-zYJZqi-0
 ### Topics
 * [Features > Power Management](../topics/features/power-management.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

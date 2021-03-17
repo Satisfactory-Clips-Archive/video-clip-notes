@@ -3,7 +3,7 @@ title: "March 9th, 2021 Livestream State of Dev: Update 4 Release date trolling"
 date: "2021-03-09"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/state-of-dev"
     - "trolling"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=9V_3E9_masw
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Trolling](../topics/trolling.md)
 

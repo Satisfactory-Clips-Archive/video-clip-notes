@@ -3,7 +3,7 @@ title: "September 1st, 2020 Livestream Q&A: When will we see the crab?"
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/speculative/satisfactory-update-5"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 
 ### Transcript

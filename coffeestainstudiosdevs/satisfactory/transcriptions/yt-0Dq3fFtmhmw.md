@@ -4,7 +4,7 @@ date: "2021-02-09"
 layout: transcript
 topics:
     - "features/transportation/trains/train-signals"
-    - "satisfactory-updates/pending/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: I heard that with Update 4 there will be Train Signalling & Collisions, are the rumours true?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=0Dq3fFtmhmw
 
 ### Topics
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 4](../topics/satisfactory-updates/pending/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 
