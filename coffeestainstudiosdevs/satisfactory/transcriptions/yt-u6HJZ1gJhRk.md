@@ -9,12 +9,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: When will Mods work again?
 https://www.youtube.com/watch?v=u6HJZ1gJhRk
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as January 2020.</summary>
-
-* [November 10th, 2020 Livestream Q&A: Will existing Mods work with new build?](./yt-bBrB9Qeb1hk.md) [https://www.youtube.com/watch?v=bBrB9Qeb1hk](https://www.youtube.com/watch?v=bBrB9Qeb1hk)
-* [January 22nd, 2020 Livestream Q&A: Will Mods work correctly after the Update?](./yt-qf6QTYIHDaQ.md) [https://www.youtube.com/watch?v=qf6QTYIHDaQ](https://www.youtube.com/watch?v=qf6QTYIHDaQ)
-</details>
+This question was possibly duplicated with a more recent answer: March 16th, 2021 Livestream Mod highlight part 2 Q&A: We broke mods with Update 4, how does the community make them work again? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560)
 
 
 ### Topics

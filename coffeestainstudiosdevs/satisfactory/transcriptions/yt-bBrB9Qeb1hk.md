@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will existing Mods work with new build?
 https://www.youtube.com/watch?v=bBrB9Qeb1hk
-This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: When will Mods work again?](./yt-u6HJZ1gJhRk.md) [https://www.youtube.com/watch?v=u6HJZ1gJhRk](https://www.youtube.com/watch?v=u6HJZ1gJhRk)
+This question was possibly duplicated with a more recent answer: March 16th, 2021 Livestream Mod highlight part 2 Q&A: We broke mods with Update 4, how does the community make them work again? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560)
 
 
 ### Topics

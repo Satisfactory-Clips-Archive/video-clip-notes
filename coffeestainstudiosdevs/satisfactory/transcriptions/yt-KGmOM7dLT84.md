@@ -9,7 +9,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?
 https://www.youtube.com/watch?v=KGmOM7dLT84
-This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Latest issue with Dedicated Server development?](./yt-6dEOLvlMvjI.md) [https://www.youtube.com/watch?v=6dEOLvlMvjI](https://www.youtube.com/watch?v=6dEOLvlMvjI)
+This question was possibly duplicated with a more recent answer: March 16th, 2021 Livestream Q&A: Any news on Dedicated Servers? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5885&end=5905](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5885&end=5905)
 
 
 ### Topics

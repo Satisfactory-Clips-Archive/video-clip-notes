@@ -9,13 +9,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Size of the Update?
 https://www.youtube.com/watch?v=NMDDVWs3jZM
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as February 2021 and as early as December 2020.</summary>
-
-* [February 9th, 2021 Livestream Q&A: How big will Update 4 be?](./yt-oa9c3aMoTfk.md) [https://www.youtube.com/watch?v=oa9c3aMoTfk](https://www.youtube.com/watch?v=oa9c3aMoTfk)
-* [February 9th, 2021 Livestream Q&A: How girthy will the Update 4 download be?](./yt-GdrTnF4-6ZQ.md) [https://www.youtube.com/watch?v=GdrTnF4-6ZQ](https://www.youtube.com/watch?v=GdrTnF4-6ZQ)
-* [December 15th, 2020 Livestream Q&A: How big will the update for Update 4 be in gigabytes?](./yt-_i9f2NI9JNc.md) [https://www.youtube.com/watch?v=_i9f2NI9JNc](https://www.youtube.com/watch?v=_i9f2NI9JNc)
-</details>
+This question was possibly replaced with a more recent answer: March 16th, 2021 Livestream Q&A: How big is the download? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8746&end=8838](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8746&end=8838)
 
 
 ### Topics

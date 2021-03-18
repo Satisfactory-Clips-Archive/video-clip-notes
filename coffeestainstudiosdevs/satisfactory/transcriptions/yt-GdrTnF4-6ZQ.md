@@ -10,7 +10,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: How girthy will the Update 4 download be?
 https://www.youtube.com/watch?v=GdrTnF4-6ZQ
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Size of the Update?](./yt-NMDDVWs3jZM.md) [https://www.youtube.com/watch?v=NMDDVWs3jZM](https://www.youtube.com/watch?v=NMDDVWs3jZM)
+This question was possibly replaced with a more recent answer: March 16th, 2021 Livestream Q&A: How big is the download? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8746&end=8838](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8746&end=8838)
 
 
 ### Topics

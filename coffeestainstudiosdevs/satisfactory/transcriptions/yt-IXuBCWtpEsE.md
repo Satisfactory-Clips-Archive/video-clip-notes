@@ -9,6 +9,8 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Will Mods come to Update 4?
 https://www.youtube.com/watch?v=IXuBCWtpEsE
+This question was possibly duplicated with a more recent answer: March 16th, 2021 Livestream Mod highlight part 2 Q&A: We broke mods with Update 4, how does the community make them work again? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560)
+
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as December 2020.</summary>
 

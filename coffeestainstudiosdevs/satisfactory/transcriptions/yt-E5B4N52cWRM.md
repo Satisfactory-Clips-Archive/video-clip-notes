@@ -10,6 +10,8 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Does Update 4 equal 1.0?
 https://www.youtube.com/watch?v=E5B4N52cWRM
+This question was possibly duplicated with a more recent answer: March 16th, 2021 Livestream Q&A: Will Update 4 be 1.0? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8629&end=8639](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8629&end=8639)
+
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)

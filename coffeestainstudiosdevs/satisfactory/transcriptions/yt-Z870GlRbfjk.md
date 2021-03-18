@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Any chance Update 4 unlocks the Work In Progress items?
 https://www.youtube.com/watch?v=Z870GlRbfjk
-This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Will Somersloops & Mercer Spheres finally have a use?](./yt-6CNL-nsOGUw.md) [https://www.youtube.com/watch?v=6CNL-nsOGUw](https://www.youtube.com/watch?v=6CNL-nsOGUw)
+This question was possibly duplicated with a more recent answer: March 16th, 2021 Livestream Q&A: What about Alien Artefact things? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8718&end=8723](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8718&end=8723)
 
 
 ### Topics
