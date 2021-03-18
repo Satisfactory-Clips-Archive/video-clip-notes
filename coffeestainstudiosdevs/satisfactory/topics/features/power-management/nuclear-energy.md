@@ -6,6 +6,10 @@ date: Last Modified
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## March 16th, 2021 Livestream
+* [Encased Uranium Cells now produced in the Blender](../../../transcriptions/yt-Dp77ih_XmkY,195.325577,205.875.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206)
+* [Plutonium](../../../transcriptions/yt-Dp77ih_XmkY,205.875,228.767243.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=205&end=229](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=205&end=229)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Like prioritise Coal over Nuclear?](../../../transcriptions/yt-IdKhbyR81Nw.md) [https://www.youtube.com/watch?v=IdKhbyR81Nw](https://www.youtube.com/watch?v=IdKhbyR81Nw)
 

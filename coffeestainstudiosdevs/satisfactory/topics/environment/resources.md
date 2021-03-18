@@ -11,6 +11,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## March 16th, 2021 Livestream
+* [We're also adding Nitrogen Gas](../../transcriptions/yt-Dp77ih_XmkY,163.625,185.58333333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: Are the node purity choices usually done by a balancing or a Map team?](../../transcriptions/yt-x2U3iVnWPVo.md) [https://www.youtube.com/watch?v=x2U3iVnWPVo](https://www.youtube.com/watch?v=x2U3iVnWPVo)
 * [Q&A: How will Update 4 change the lower-level items?](../../transcriptions/yt-7DIFELANBQs.md) [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)

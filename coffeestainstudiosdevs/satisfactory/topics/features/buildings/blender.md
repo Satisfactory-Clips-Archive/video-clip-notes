@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Blender
 
+## March 16th, 2021 Livestream
+* [The Blender](../../../transcriptions/yt-Dp77ih_XmkY,185.58333333333334,195.325577.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=185&end=196](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=185&end=196)
+
 ## March 9th, 2021 Livestream
 * [Q&A: What's the difference between a Blender & a Refinery?](../../../transcriptions/yt-z6j7M2hcSHk.md) [https://www.youtube.com/watch?v=z6j7M2hcSHk](https://www.youtube.com/watch?v=z6j7M2hcSHk)
 * [Q&A: Will Turbofuel stop working in Refineries when recipes move?](../../../transcriptions/yt-M4OEtn68g8Y.md) [https://www.youtube.com/watch?v=M4OEtn68g8Y](https://www.youtube.com/watch?v=M4OEtn68g8Y)

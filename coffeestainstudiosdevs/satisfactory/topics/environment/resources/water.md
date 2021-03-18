@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Water
 
+## March 16th, 2021 Livestream
+* [We're also adding Nitrogen Gas](../../../transcriptions/yt-Dp77ih_XmkY,163.625,185.58333333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186)
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are you able to confirm what resources can be pulled using the Resource Well Extractor?](../../../transcriptions/yt-vlDuVpHyfVs.md) [https://www.youtube.com/watch?v=vlDuVpHyfVs](https://www.youtube.com/watch?v=vlDuVpHyfVs)
 

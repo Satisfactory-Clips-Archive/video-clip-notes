@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Switch
 
+## March 16th, 2021 Livestream
+* [Power Switches](../../../transcriptions/yt-Dp77ih_XmkY,319.2083333333333,327.0833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=319&end=328](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=319&end=328)
+
 ## March 9th, 2021 Livestream
 * [Q&A: What about the Priority Switch?](../../../transcriptions/yt-oQUm2oWxOOE.md) [https://www.youtube.com/watch?v=oQUm2oWxOOE](https://www.youtube.com/watch?v=oQUm2oWxOOE)
 
