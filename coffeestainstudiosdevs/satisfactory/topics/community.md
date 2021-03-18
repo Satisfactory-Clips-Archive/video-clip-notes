@@ -9,7 +9,6 @@ date: Last Modified
 * [Joshie](../topics/community/joshie.md)
 * [Kibitz](../topics/community/kibitz.md)
 * [Panakotta](../topics/community/panakotta.md)
-* [Panakotta00](../topics/community/panakotta00.md)
 * [Smerkin](../topics/community/smerkin.md)
 * [Wiki](../topics/community/wiki.md)
 
