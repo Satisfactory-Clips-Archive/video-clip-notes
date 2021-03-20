@@ -14,6 +14,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## March 17th, 2021 Livestream
+* Q&A: Would you consider YouTube a valuable resource for learning Premiere [https://www.youtube.com/watch?v=ts-952893339%2C4310.800262693479%2C4318.996324](https://www.youtube.com/watch?v=ts-952893339%2C4310.800262693479%2C4318.996324)
+
 ## March 16th, 2021 Livestream
 * Community FYI: Getting a DMCA by Nintendo [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6109&end=6131](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6109&end=6131)
 * Snutt & Jace Talk: Lizard Doggo & real-life doggo pathfinding [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=1603&end=1677](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=1603&end=1677)

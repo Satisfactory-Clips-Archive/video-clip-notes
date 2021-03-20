@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Kibitz
 
+## March 17th, 2021 Livestream
+* Snutt & Jace Talk: Supah Computah [https://www.youtube.com/watch?v=ts-952893339%2C3317.070226%2C3495.285387](https://www.youtube.com/watch?v=ts-952893339%2C3317.070226%2C3495.285387)
+
 ## March 16th, 2021 Livestream
 * Jace Talk: Something unplanned - surprise special guest [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13544&end=13960](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13544&end=13960)
 

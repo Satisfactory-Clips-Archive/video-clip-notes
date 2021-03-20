@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Switch
 
+## March 17th, 2021 Livestream
+* Snutt & Jace Talk: Excitement about Signs [https://www.youtube.com/watch?v=ts-952893339%2C4402.033601586431%2C4459.303503](https://www.youtube.com/watch?v=ts-952893339%2C4402.033601586431%2C4459.303503)
+
 ## March 16th, 2021 Livestream
 * [Power Switches](../../../transcriptions/yt-Dp77ih_XmkY,319.2083333333333,327.0833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=319&end=328](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=319&end=328)
 

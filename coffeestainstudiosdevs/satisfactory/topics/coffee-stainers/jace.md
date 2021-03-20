@@ -4,6 +4,35 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## March 17th, 2021 Livestream
+* Community FYI: "we've all done it" you never play!!! [https://www.youtube.com/watch?v=ts-952893339%2C4173.400254320536%2C4183.919472](https://www.youtube.com/watch?v=ts-952893339%2C4173.400254320536%2C4183.919472)
+* Q&A: Anything about dream vacation? [https://www.youtube.com/watch?v=ts-952893339%2C1015.132323%2C1029.693311](https://www.youtube.com/watch?v=ts-952893339%2C1015.132323%2C1029.693311)
+* Snutt & Jace Talk: Couch reaction shots (Part 1) [https://www.youtube.com/watch?v=ts-952893339%2C2919.153406%2C2950.339449](https://www.youtube.com/watch?v=ts-952893339%2C2919.153406%2C2950.339449)
+* Snutt & Jace Talk: Couch reaction shots (Part 2) [https://www.youtube.com/watch?v=ts-952893339%2C3010.200183436929%2C3031.189078](https://www.youtube.com/watch?v=ts-952893339%2C3010.200183436929%2C3031.189078)
+* Q&A: Didn't you say you were on vacation? [https://www.youtube.com/watch?v=ts-952893339%2C840.447705%2C887.491221](https://www.youtube.com/watch?v=ts-952893339%2C840.447705%2C887.491221)
+* Snutt & Jace Talk: Going full Dora [https://www.youtube.com/watch?v=ts-952893339%2C2650.4334948466385%2C2686.66672](https://www.youtube.com/watch?v=ts-952893339%2C2650.4334948466385%2C2686.66672)
+* Q&A: How's the hangover? [https://www.youtube.com/watch?v=ts-952893339%2C2960.106896%2C2971.231533](https://www.youtube.com/watch?v=ts-952893339%2C2960.106896%2C2971.231533)
+* Q&A: How long has Jace been working at Coffee Stain? [https://www.youtube.com/watch?v=ts-952893339%2C820.572844%2C823.999173](https://www.youtube.com/watch?v=ts-952893339%2C820.572844%2C823.999173)
+* Community FYI: I feel like Jace did not have to try hard to channel that inner Dora the Explorer [https://www.youtube.com/watch?v=ts-952893339%2C3602.032046%2C3606.518134](https://www.youtube.com/watch?v=ts-952893339%2C3602.032046%2C3606.518134)
+* Snutt & Jace Talk: Información [https://www.youtube.com/watch?v=ts-952893339%2C3798.304294%2C3850.333567966687](https://www.youtube.com/watch?v=ts-952893339%2C3798.304294%2C3850.333567966687)
+* Snutt & Jace Talk: It's like I'm in France [https://www.youtube.com/watch?v=ts-952893339%2C5054.715935%2C5068.412122](https://www.youtube.com/watch?v=ts-952893339%2C5054.715935%2C5068.412122)
+* Community FYI: Jace's accents were on point [https://www.youtube.com/watch?v=ts-952893339%2C1528.555384%2C1535.187503](https://www.youtube.com/watch?v=ts-952893339%2C1528.555384%2C1535.187503)
+* Snutt & Jace Talk: Jace's PS5 [https://www.youtube.com/watch?v=ts-952893339%2C2787.212673%2C2919.153406](https://www.youtube.com/watch?v=ts-952893339%2C2787.212673%2C2919.153406)
+* Snutt & Jace Talk: Jace doesn't remember helping write the script [https://www.youtube.com/watch?v=ts-952893339%2C1425.320862%2C1460.347463](https://www.youtube.com/watch?v=ts-952893339%2C1425.320862%2C1460.347463)
+* Snutt & Jace Talk: Leaping over the couch [https://www.youtube.com/watch?v=ts-952893339%2C3850.333078%2C3930.697601](https://www.youtube.com/watch?v=ts-952893339%2C3850.333078%2C3930.697601)
+* Snutt & Jace Talk: Let's watch my dismount [https://www.youtube.com/watch?v=ts-952893339%2C2727.357289%2C2763.595591](https://www.youtube.com/watch?v=ts-952893339%2C2727.357289%2C2763.595591)
+* Snutt & Jace Talk: Recording the Voice Overs seperately [https://www.youtube.com/watch?v=ts-952893339%2C3216.466862673167%2C3317.843942](https://www.youtube.com/watch?v=ts-952893339%2C3216.466862673167%2C3317.843942)
+* Q&A: So big fan of Dora, I assume? [https://www.youtube.com/watch?v=ts-952893339%2C989.301134%2C1015.132323](https://www.youtube.com/watch?v=ts-952893339%2C989.301134%2C1015.132323)
+* Snutt & Jace Talk: Telepathic [https://www.youtube.com/watch?v=ts-952893339%2C3189.46638%2C3216.456936](https://www.youtube.com/watch?v=ts-952893339%2C3189.46638%2C3216.456936)
+* Snutt & Jace Talk: The mic died on the basement shot (Part 1) [https://www.youtube.com/watch?v=ts-952893339%2C3930.697601%2C4115.038125](https://www.youtube.com/watch?v=ts-952893339%2C3930.697601%2C4115.038125)
+* Snutt & Jace Talk: The mic died on the basement shot (Part 2) [https://www.youtube.com/watch?v=ts-952893339%2C5033.081647%2C5054.715935](https://www.youtube.com/watch?v=ts-952893339%2C5033.081647%2C5054.715935)
+* Snutt & Jace Talk: This shot was filmed before the reshoot [https://www.youtube.com/watch?v=ts-952893339%2C4183.919472%2C4208.962283](https://www.youtube.com/watch?v=ts-952893339%2C4183.919472%2C4208.962283)
+* Q&A: Was the Dora sketch before Human Fall Flat (which also had a Dora bit) [https://www.youtube.com/watch?v=ts-952893339%2C1034.675627%2C1046.335425](https://www.youtube.com/watch?v=ts-952893339%2C1034.675627%2C1046.335425)
+* Community FYI: When you threw the tape at your ps5 it truly hurt. Physically. [https://www.youtube.com/watch?v=ts-952893339%2C825.538591%2C834.665785](https://www.youtube.com/watch?v=ts-952893339%2C825.538591%2C834.665785)
+* Community FYI: You look a lot like Dora, so that worked out [https://www.youtube.com/watch?v=ts-952893339%2C1710.0334375401178%2C1715.760224](https://www.youtube.com/watch?v=ts-952893339%2C1710.0334375401178%2C1715.760224)
+* Community FYI: Your PS5 is now Internet Famous [https://www.youtube.com/watch?v=ts-952893339%2C2950.33351312208%2C2953.002308](https://www.youtube.com/watch?v=ts-952893339%2C2950.33351312208%2C2953.002308)
+* Snutt & Jace Talk: ¡Eres un tonto! [https://www.youtube.com/watch?v=ts-952893339%2C5116.700311803778%2C5179.48788](https://www.youtube.com/watch?v=ts-952893339%2C5116.700311803778%2C5179.48788)
+
 ## March 16th, 2021 Livestream
 * Snutt Talk: We do these streams every week [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15421&end=15450](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15421&end=15450)
 * Snutt & Jace Talk: What do we do for the last 7 minutes? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13981&end=14015](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13981&end=14015)

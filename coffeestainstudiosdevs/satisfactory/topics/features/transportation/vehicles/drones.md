@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## March 17th, 2021 Livestream
+* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 1) [https://www.youtube.com/watch?v=ts-952893339%2C5405.468767](https://www.youtube.com/watch?v=ts-952893339%2C5405.468767)
+* Snutt & Jace Talk: Drones previs [https://www.youtube.com/watch?v=ts-952893339%2C5279.555337%2C5405.468767](https://www.youtube.com/watch?v=ts-952893339%2C5279.555337%2C5405.468767)
+* Snutt & Jace Talk: Drones reveal [https://www.youtube.com/watch?v=ts-952893339%2C5179.500315630713%2C5279.555337](https://www.youtube.com/watch?v=ts-952893339%2C5179.500315630713%2C5279.555337)
+* Snutt Talk: The VFX shot [https://www.youtube.com/watch?v=ts-952893339%2C1719.427611%2C1858.877691](https://www.youtube.com/watch?v=ts-952893339%2C1719.427611%2C1858.877691)
+
 ## March 16th, 2021 Livestream
 * Snutt & Jace Talk: Drone Fan Art [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313)
 * [Drones](../../../../transcriptions/yt-Dp77ih_XmkY,409.4583333333333,458.9583333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459)

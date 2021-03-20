@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+## March 17th, 2021 Livestream
+* Q&A: Does this mean that Console is confirmed? [https://www.youtube.com/watch?v=ts-952893339%2C2991.306945%2C3010.193065](https://www.youtube.com/watch?v=ts-952893339%2C2991.306945%2C3010.193065)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Any plans for bringing the game to Nintendo Switch?](../../../transcriptions/yt-rfeMtSPOadY.md) [https://www.youtube.com/watch?v=rfeMtSPOadY](https://www.youtube.com/watch?v=rfeMtSPOadY)
 * [Q&A: Any plans on bringing to Samsung Fridges?](../../../transcriptions/yt-94nTbUy9pEc.md) [https://www.youtube.com/watch?v=94nTbUy9pEc](https://www.youtube.com/watch?v=94nTbUy9pEc)

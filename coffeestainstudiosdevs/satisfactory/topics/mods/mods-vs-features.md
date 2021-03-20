@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## March 17th, 2021 Livestream
+* Community FYI: CSS has now just descended to copying mods I see. [https://www.youtube.com/watch?v=ts-952893339%2C666.7667072983953%2C689.912154](https://www.youtube.com/watch?v=ts-952893339%2C666.7667072983953%2C689.912154)
+* Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://www.youtube.com/watch?v=ts-952893339%2C748.356245%2C772.32785](https://www.youtube.com/watch?v=ts-952893339%2C748.356245%2C772.32785)
+* Community FYI: What do you mean "has now" - they've been doing it for years. [https://www.youtube.com/watch?v=ts-952893339%2C698.487301%2C717.498298](https://www.youtube.com/watch?v=ts-952893339%2C698.487301%2C717.498298)
+
 ## February 16th, 2021 Livestream
 * [Q&A: I saw a mod who let a belt ending in a stackable belt ending, any chance for this in vanilla?](../../transcriptions/yt-byfgR8myflI.md) [https://www.youtube.com/watch?v=byfgR8myflI](https://www.youtube.com/watch?v=byfgR8myflI)
 * [Q&A: Why can modders make so much content in a shorter time than the studio?](../../transcriptions/yt-DPozJjq6Qks.md) [https://www.youtube.com/watch?v=DPozJjq6Qks](https://www.youtube.com/watch?v=DPozJjq6Qks)

@@ -6,6 +6,9 @@ date: Last Modified
 * [DLSS](../../topics/technology/graphics/dlss.md)
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 
+## March 17th, 2021 Livestream
+* Snutt & Jace Talk: I hate this shot [https://www.youtube.com/watch?v=ts-952893339%2C4127.909474%2C4173.41148](https://www.youtube.com/watch?v=ts-952893339%2C4127.909474%2C4173.41148)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: Will the Blade Runners actually be attached to the body at some point?](../../transcriptions/yt-W-67fl8Fg48.md) [https://www.youtube.com/watch?v=W-67fl8Fg48](https://www.youtube.com/watch?v=W-67fl8Fg48)
 * [Q&A: Will there be a Satisfactory benchmark you can compare settings with?](../../transcriptions/yt-NA6C7snDkTw.md) [https://www.youtube.com/watch?v=NA6C7snDkTw](https://www.youtube.com/watch?v=NA6C7snDkTw)

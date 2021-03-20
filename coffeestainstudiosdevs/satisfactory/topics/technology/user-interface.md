@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 
+## March 17th, 2021 Livestream
+* Snutt & Jace Talk: Compositing the Lights Control Panel shot [https://www.youtube.com/watch?v=ts-952893339%2C4906.666965671338%2C4956.002485](https://www.youtube.com/watch?v=ts-952893339%2C4906.666965671338%2C4956.002485)
+* Community FYI: I like the new bigger stacks for some items [https://www.youtube.com/watch?v=ts-952893339%2C906.7000552528946%2C911.087849](https://www.youtube.com/watch?v=ts-952893339%2C906.7000552528946%2C911.087849)
+
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: Community spotted things in the Nuclear Refinement teaser](../../transcriptions/yt-0BtRlCxfxEc.md) [https://www.youtube.com/watch?v=0BtRlCxfxEc](https://www.youtube.com/watch?v=0BtRlCxfxEc)
 * [Q&A: Will we ever get a second body slot?](../../transcriptions/yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)

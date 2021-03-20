@@ -3,6 +3,7 @@ title: "Browse Topics"
 date: Last Modified
 ---
 # [Coffee Stainers](./topics/coffee-stainers.md)
+* [Alex](./topics/coffee-stainers/alex.md)
 * [Ben](./topics/coffee-stainers/ben.md)
 * [Birk](./topics/coffee-stainers/birk.md)
 * [Dylan](./topics/coffee-stainers/dylan.md)
@@ -32,6 +33,7 @@ date: Last Modified
 * [Joshie](./topics/community/joshie.md)
 * [Kibitz](./topics/community/kibitz.md)
 * [Panakotta](./topics/community/panakotta.md)
+* [Satisfactory News](./topics/community/satisfactory-news.md)
 * [Smerkin](./topics/community/smerkin.md)
 * [Wiki](./topics/community/wiki.md)
 * [Easter Eggs](./topics/easter-eggs.md)
@@ -268,7 +270,6 @@ date: Last Modified
 * [Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
 * [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)
 * [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
-* [Teasers & Trailers](./topics/satisfactory-updates/teasers-trailers.md)
 
 ## [Pending](./topics/satisfactory-updates/pending.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
@@ -291,6 +292,13 @@ date: Last Modified
 * [Satisfactory Update 6](./topics/satisfactory-updates/speculative/satisfactory-update-6.md)
 * [Satisfactory Update 7](./topics/satisfactory-updates/speculative/satisfactory-update-7.md)
 * [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
+
+## [Teasers & Trailers](./topics/satisfactory-updates/teasers-trailers.md)
+* [Update 3 Reveal Trailer](./topics/satisfactory-updates/teasers-trailers/update-3-reveal-trailer.md)
+* [Update 3 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-3-patch-notes-video.md)
+* [Update 4 Teasers](./topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
+* [Update 4 Launch Stream](./topics/satisfactory-updates/teasers-trailers/update-4-launch-stream.md)
+* [Update 4 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)
 

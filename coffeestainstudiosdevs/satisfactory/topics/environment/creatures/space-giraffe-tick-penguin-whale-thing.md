@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
+## March 17th, 2021 Livestream
+* Snutt & Jace Talk: Linus made a test render (Part 1) [https://www.youtube.com/watch?v=ts-952893339%2C4870.63404%2C4899.066685](https://www.youtube.com/watch?v=ts-952893339%2C4870.63404%2C4899.066685)
+* Snutt & Jace Talk: Linus made a test render (Part 2) [https://www.youtube.com/watch?v=ts-952893339%2C5068.412122%2C5116.711997](https://www.youtube.com/watch?v=ts-952893339%2C5068.412122%2C5116.711997)
+
 ## November 24th, 2020 Livestream
 * [Q&A: Alien creature launcher - evict the giant Tick?](../../../transcriptions/yt-mASNXinF0mA.md) [https://www.youtube.com/watch?v=mASNXinF0mA](https://www.youtube.com/watch?v=mASNXinF0mA)
 

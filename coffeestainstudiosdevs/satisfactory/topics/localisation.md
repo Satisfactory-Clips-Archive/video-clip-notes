@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Localisation
 
+## March 17th, 2021 Livestream
+* Q&A: How did the jokes work with the localization? [https://www.youtube.com/watch?v=ts-952893339%2C2522.900153741621%2C2540.251094](https://www.youtube.com/watch?v=ts-952893339%2C2522.900153741621%2C2540.251094)
+* Jace Talk: Patch Notes Closed Captions [https://www.youtube.com/watch?v=ts-952893339%2C1978.73345391428%2C2036.789734](https://www.youtube.com/watch?v=ts-952893339%2C1978.73345391428%2C2036.789734)
+
 ## March 16th, 2021 Livestream
 * Jace Talk: Localisation community [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13385&end=13496](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13385&end=13496)
 

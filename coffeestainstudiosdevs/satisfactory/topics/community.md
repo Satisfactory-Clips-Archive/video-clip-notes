@@ -9,8 +9,12 @@ date: Last Modified
 * [Joshie](../topics/community/joshie.md)
 * [Kibitz](../topics/community/kibitz.md)
 * [Panakotta](../topics/community/panakotta.md)
+* [Satisfactory News](../topics/community/satisfactory-news.md)
 * [Smerkin](../topics/community/smerkin.md)
 * [Wiki](../topics/community/wiki.md)
+
+## March 17th, 2021 Livestream
+* Snutt & Jace Talk: Lights reveal [https://www.youtube.com/watch?v=ts-952893339%2C4531.470572%2C4862.147916](https://www.youtube.com/watch?v=ts-952893339%2C4531.470572%2C4862.147916)
 
 ## March 16th, 2021 Livestream
 * Mod highlight part 2 Q&A: Anything you want to say before we start the modding demo? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986)

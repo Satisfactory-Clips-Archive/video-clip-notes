@@ -3,6 +3,11 @@ title: "Teasers & Trailers"
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Teasers & Trailers
+* [Update 3 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-3-patch-notes-video.md)
+* [Update 3 Reveal Trailer](../../topics/satisfactory-updates/teasers-trailers/update-3-reveal-trailer.md)
+* [Update 4 Launch Stream](../../topics/satisfactory-updates/teasers-trailers/update-4-launch-stream.md)
+* [Update 4 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Update 4 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
 
 ## March 16th, 2021 Livestream
 * Q&A: How long is the patch notes video? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8837&end=8897](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8837&end=8897)

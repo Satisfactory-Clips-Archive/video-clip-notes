@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Simon
 * [Simon Saga](../../topics/coffee-stainers/simon/simon-saga.md)
 
+## March 17th, 2021 Livestream
+* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 1) [https://www.youtube.com/watch?v=ts-952893339%2C5405.468767](https://www.youtube.com/watch?v=ts-952893339%2C5405.468767)
+* Snutt & Jace Talk: Drones previs [https://www.youtube.com/watch?v=ts-952893339%2C5279.555337%2C5405.468767](https://www.youtube.com/watch?v=ts-952893339%2C5279.555337%2C5405.468767)
+* Snutt Talk: The VFX shot [https://www.youtube.com/watch?v=ts-952893339%2C1719.427611%2C1858.877691](https://www.youtube.com/watch?v=ts-952893339%2C1719.427611%2C1858.877691)
+
 ## March 16th, 2021 Livestream
 * Q&A: Is there anything Simon is particularly proud of in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5277&end=5312](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5277&end=5312)
 * Coffee Stainer Talk: Simon wins all the things [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6229&end=6288](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6229&end=6288)

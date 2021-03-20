@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## March 17th, 2021 Livestream
+* Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://www.youtube.com/watch?v=ts-952893339%2C748.356245%2C772.32785](https://www.youtube.com/watch?v=ts-952893339%2C748.356245%2C772.32785)
+
 ## March 16th, 2021 Livestream
 * Random: How y'all doin? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14014&end=14029](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14014&end=14029)
 * Q&A: Is there anything Simon is particularly proud of in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5277&end=5312](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5277&end=5312)

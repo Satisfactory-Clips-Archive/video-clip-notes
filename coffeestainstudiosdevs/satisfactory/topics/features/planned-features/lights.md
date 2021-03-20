@@ -4,6 +4,16 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Lights
 
+## March 17th, 2021 Livestream
+* Snutt & Jace Talk: Compositing the Lights Control Panel shot [https://www.youtube.com/watch?v=ts-952893339%2C4906.666965671338%2C4956.002485](https://www.youtube.com/watch?v=ts-952893339%2C4906.666965671338%2C4956.002485)
+* Q&A: Do we have lights though? really? [https://www.youtube.com/watch?v=ts-952893339%2C836.219711%2C838.7263](https://www.youtube.com/watch?v=ts-952893339%2C836.219711%2C838.7263)
+* Snutt & Jace Talk: Lights reveal [https://www.youtube.com/watch?v=ts-952893339%2C4531.470572%2C4862.147916](https://www.youtube.com/watch?v=ts-952893339%2C4531.470572%2C4862.147916)
+* Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://www.youtube.com/watch?v=ts-952893339%2C748.356245%2C772.32785](https://www.youtube.com/watch?v=ts-952893339%2C748.356245%2C772.32785)
+* Community FYI: The train part looks amazing [https://www.youtube.com/watch?v=ts-952893339%2C4898.239745%2C4906.666965671338](https://www.youtube.com/watch?v=ts-952893339%2C4898.239745%2C4906.666965671338)
+* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://www.youtube.com/watch?v=ts-952893339%2C913.940124%2C950.272706](https://www.youtube.com/watch?v=ts-952893339%2C913.940124%2C950.272706)
+* Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago [https://www.youtube.com/watch?v=ts-952893339%2C4956.002485%2C5033.081647](https://www.youtube.com/watch?v=ts-952893339%2C4956.002485%2C5033.081647)
+* Community FYI: When Panakotta was demoing the lights and both of you trying not to say anything... [https://www.youtube.com/watch?v=ts-952893339%2C774.507447%2C794.0333817204956](https://www.youtube.com/watch?v=ts-952893339%2C774.507447%2C794.0333817204956)
+
 ## March 16th, 2021 Livestream
 * [Lights](../../../transcriptions/yt-Dp77ih_XmkY,327.0833333333333,372.0833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=327&end=373](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=327&end=373)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## March 17th, 2021 Livestream
+* Snutt & Jace Talk: That shot of the dead Pioneer [https://www.youtube.com/watch?v=ts-952893339%2C3626.216334%2C3634.786431](https://www.youtube.com/watch?v=ts-952893339%2C3626.216334%2C3634.786431)
+
 ## March 16th, 2021 Livestream
 * Q&A: Does ADA's helmet contain Oil or something- there's a knob behind the Helmet? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868)
 
