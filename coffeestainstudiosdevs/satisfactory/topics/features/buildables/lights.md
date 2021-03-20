@@ -2,7 +2,7 @@
 title: "Lights"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Planned Features > Lights
+# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: Compositing the Lights Control Panel shot [https://twitch.tv/videos/952893339?t=01h21m46s](https://twitch.tv/videos/952893339?t=01h21m46s)

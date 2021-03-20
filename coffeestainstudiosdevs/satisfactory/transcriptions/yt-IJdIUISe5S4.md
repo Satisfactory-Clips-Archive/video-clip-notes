@@ -3,7 +3,7 @@ title: "May 19th, 2020 Livestream Q&A: Why can't you just add lights to the game
 date: "2020-05-19"
 layout: transcript
 topics:
-    - "features/planned-features/lights"
+    - "features/buildables/lights"
     - "technology/unreal-engine"
 ---
 # [May 19th, 2020 Livestream](../2020-05-19.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 
 ### Topics
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

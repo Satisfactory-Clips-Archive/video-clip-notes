@@ -3,7 +3,7 @@ title: "February 20th, 2019"
 date: "2019-02-20"
 layout: transcript
 topics: 
-    - "features/planned-features/lights"
+    - "features/buildables/lights"
     - "environment"
     - "features/equipment"
 ---
@@ -11,7 +11,7 @@ topics:
 ## Q&A: Will the night cycle be dark so you need lights?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5390&end=5405
 ### Topics
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Environment](../topics/environment.md)
 * [Features > Equipment](../topics/features/equipment.md)
 

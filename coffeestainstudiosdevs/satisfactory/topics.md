@@ -94,6 +94,7 @@ date: Last Modified
 * [Foundations](./topics/features/buildables/foundations.md)
 * [Jump Pads](./topics/features/buildables/jump-pads.md)
 * [Ladders](./topics/features/buildables/ladders.md)
+* [Lights](./topics/features/buildables/lights.md)
 * [Storage Containers](./topics/features/buildables/storage-containers.md)
 * [Walls](./topics/features/buildables/walls.md)
 ---
@@ -150,7 +151,6 @@ date: Last Modified
 
 ## Planned Features
 * [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
-* [Lights](./topics/features/planned-features/lights.md)
 * [Signs](./topics/features/planned-features/signs.md)
 ---
 

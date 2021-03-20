@@ -3,8 +3,8 @@ title: "May 19th, 2020 Livestream Q&A: What does Performance Budget mean?"
 date: "2020-05-19"
 layout: transcript
 topics:
+    - "features/buildables/lights"
     - "features/multiplayer"
-    - "features/planned-features/lights"
     - "technology/graphics"
     - "technology/unreal-engine"
 ---
@@ -13,8 +13,8 @@ topics:
 https://www.youtube.com/watch?v=qg27gPorXB4
 
 ### Topics
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 

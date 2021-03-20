@@ -3,16 +3,16 @@ title: "December 8th, 2020 Livestream Snutt Talk: Lights on Buildings"
 date: "2020-12-08"
 layout: transcript
 topics:
+    - "features/buildables/lights"
     - "features/buildings"
-    - "features/planned-features/lights"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Snutt Talk: Lights on Buildings
 https://www.youtube.com/watch?v=fsP_b5C7y0M
 
 ### Topics
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Features > Buildings](../topics/features/buildings.md)
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
 
 ### Transcript
 

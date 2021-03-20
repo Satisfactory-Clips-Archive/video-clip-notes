@@ -3,7 +3,7 @@ title: "December 8th, 2020 Livestream Snutt Talk: Lights (not) confirmed!"
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "features/planned-features/lights"
+    - "features/buildables/lights"
     - "technology/unreal-engine"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=9VodwDOMBl0
 
 ### Topics
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

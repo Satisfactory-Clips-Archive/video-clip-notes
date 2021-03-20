@@ -3,7 +3,7 @@ title: "January 12th, 2021 Livestream Q&A: Are there any plans to add Lights ins
 date: "2021-01-12"
 layout: transcript
 topics:
-    - "features/planned-features/lights"
+    - "features/buildables/lights"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Are there any plans to add Lights inside the factory?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 
 ### Topics
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 
 ### Transcript
 

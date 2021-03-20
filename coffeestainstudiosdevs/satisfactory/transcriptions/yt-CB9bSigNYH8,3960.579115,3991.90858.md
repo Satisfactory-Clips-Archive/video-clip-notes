@@ -3,14 +3,14 @@ title: "February 20th, 2019"
 date: "2019-02-20"
 layout: transcript
 topics: 
-    - "features/planned-features/lights"
+    - "features/buildables/lights"
     - "environment"
 ---
 # [February 20th, 2019 Satisfactory Level Design Stream](../2019-02-20.md)
 ## Q&A: Is all lighting done with a directional, or do you have other lights in the environment too?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3960&end=3992
 ### Topics
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Environment](../topics/environment.md)
 
 ### Transcript

@@ -5,7 +5,7 @@ layout: transcript
 topics: 
     - "level-design-stream"
     - "environment"
-    - "features/planned-features/lights"
+    - "features/buildables/lights"
     - "environment/plants"
 ---
 # [February 20th, 2019 Satisfactory Level Design Stream](../2019-02-20.md)
@@ -14,7 +14,7 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2027&end=2327
 ### Topics
 * [Level Design Stream](../topics/level-design-stream.md)
 * [Environment](../topics/environment.md)
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Environment > Plants](../topics/environment/plants.md)
 
 ### Transcript

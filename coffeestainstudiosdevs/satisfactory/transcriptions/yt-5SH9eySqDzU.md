@@ -3,7 +3,7 @@ title: "August 25th, 2020 Livestream Q&A: State of things = 🤷?"
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "features/planned-features/lights"
+    - "features/buildables/lights"
     - "features/unplanned-features/aerial-travel"
     - "features/unplanned-features/procedural-generation"
     - "satisfactory-updates/released/satisfactory-update-4"
@@ -14,7 +14,7 @@ topics:
 https://www.youtube.com/watch?v=5SH9eySqDzU
 
 ### Topics
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Features > Unplanned Features > Aerial Travel](../topics/features/unplanned-features/aerial-travel.md)
 * [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)

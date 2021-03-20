@@ -7,6 +7,7 @@ date: Last Modified
 * [Foundations](../../topics/features/buildables/foundations.md)
 * [Jump Pads](../../topics/features/buildables/jump-pads.md)
 * [Ladders](../../topics/features/buildables/ladders.md)
+* [Lights](../../topics/features/buildables/lights.md)
 * [Storage Containers](../../topics/features/buildables/storage-containers.md)
 * [Walls](../../topics/features/buildables/walls.md)
 

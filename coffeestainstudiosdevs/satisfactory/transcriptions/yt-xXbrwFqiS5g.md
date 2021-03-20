@@ -3,7 +3,7 @@ title: "January 26th, 2021 Livestream Q&A: Lights & Lampposts please?"
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "features/planned-features/lights"
+    - "features/buildables/lights"
     - "technology/graphics"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=xXbrwFqiS5g
 
 
 ### Topics
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

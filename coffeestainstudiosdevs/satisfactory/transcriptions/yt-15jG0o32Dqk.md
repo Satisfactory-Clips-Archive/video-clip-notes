@@ -4,7 +4,7 @@ date: "2020-11-17"
 layout: transcript
 topics:
     - "environment/world-map"
-    - "features/planned-features/lights"
+    - "features/buildables/lights"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Are there any plans to add an option to disable the day/night cycle?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=15jG0o32Dqk
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "September 1st, 2020 Livestream Q&A: What about lights?"
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "features/planned-features/lights"
+    - "features/buildables/lights"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: What about lights?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 
 ### Topics
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 
 ### Transcript
 

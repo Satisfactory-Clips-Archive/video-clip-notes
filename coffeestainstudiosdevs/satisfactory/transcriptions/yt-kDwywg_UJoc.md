@@ -3,8 +3,8 @@ title: "January 26th, 2021 Livestream Q&A: Ability to sleep coming any time?"
 date: "2021-01-26"
 layout: transcript
 topics:
+    - "features/buildables/lights"
     - "features/buildings/the-hub"
-    - "features/planned-features/lights"
     - "technology/graphics"
     - "technology/unreal-engine"
 ---
@@ -15,8 +15,8 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 
 ### Topics
+* [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
-* [Features > Planned Features > Lights](../topics/features/planned-features/lights.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
