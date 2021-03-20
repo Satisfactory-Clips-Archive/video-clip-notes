@@ -7,6 +7,8 @@ date: Last Modified
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: Compositing the Lights Control Panel shot [https://twitch.tv/videos/952893339?t=01h21m46s](https://twitch.tv/videos/952893339?t=01h21m46s)
 * Community FYI: I like the new bigger stacks for some items [https://twitch.tv/videos/952893339?t=00h15m06s](https://twitch.tv/videos/952893339?t=00h15m06s)
+* Snutt & Jace Talk: Particle Accelerator power usage [https://twitch.tv/videos/953014105?t=01h16m26s](https://twitch.tv/videos/953014105?t=01h16m26s)
+* Snutt & Jace Talk: The end plate [https://twitch.tv/videos/953014105?t=01h32m09s](https://twitch.tv/videos/953014105?t=01h32m09s)
 
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: Community spotted things in the Nuclear Refinement teaser](../../transcriptions/yt-0BtRlCxfxEc.md) [https://www.youtube.com/watch?v=0BtRlCxfxEc](https://www.youtube.com/watch?v=0BtRlCxfxEc)

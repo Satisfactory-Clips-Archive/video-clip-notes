@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Resource Wells
 
+## March 17th, 2021 Livestream
+* Snutt & Jace Talk: Setting up the in-game Drone shots [https://twitch.tv/videos/953014105?t=00h08m30s](https://twitch.tv/videos/953014105?t=00h08m30s)
+
 ## March 16th, 2021 Livestream
 * [We're also adding Nitrogen Gas](../../transcriptions/yt-Dp77ih_XmkY,163.625,185.58333333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186)
 

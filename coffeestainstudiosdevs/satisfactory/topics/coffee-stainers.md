@@ -18,6 +18,7 @@ date: Last Modified
 * [Nathalie](../topics/coffee-stainers/nathalie.md)
 * [Neshkor](../topics/coffee-stainers/neshkor.md)
 * [Oscar](../topics/coffee-stainers/oscar.md)
+* [Pontus](../topics/coffee-stainers/pontus.md)
 * [Ros](../topics/coffee-stainers/ros.md)
 * [Simon](../topics/coffee-stainers/simon.md)
 * [Snutt](../topics/coffee-stainers/snutt.md)
@@ -25,6 +26,7 @@ date: Last Modified
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
 ## March 17th, 2021 Livestream
+* Q&A: Are you still involved in development, y'all seem way too cool to be engineers? [https://twitch.tv/videos/953014105?t=00h40m12s](https://twitch.tv/videos/953014105?t=00h40m12s)
 * Jace Talk: Showing the trailer off early [https://twitch.tv/videos/952893339?t=00h27m00s](https://twitch.tv/videos/952893339?t=00h27m00s)
 
 ## March 16th, 2021 Livestream

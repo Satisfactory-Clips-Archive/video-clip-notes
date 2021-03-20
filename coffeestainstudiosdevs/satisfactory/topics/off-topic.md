@@ -10,11 +10,24 @@ date: Last Modified
 * [Pizza](../topics/off-topic/pizza.md)
 * [Sanctum](../topics/off-topic/sanctum.md)
 * [Semlor](../topics/off-topic/semlor.md)
+* [Sweden](../topics/off-topic/sweden.md)
 * [Terrible Jokes](../topics/off-topic/terrible-jokes.md)
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
 ## March 17th, 2021 Livestream
+* Community FYI: Cryin in the club WHAT GOOD BOYS [https://twitch.tv/videos/953014105?t=01h50m45s](https://twitch.tv/videos/953014105?t=01h50m45s)
+* Snutt & Jace Talk: Differences in corporate culture [https://twitch.tv/videos/953014105?t=01h44m39s](https://twitch.tv/videos/953014105?t=01h44m39s)
+* Snutt & Jace Talk: Drinking together on steam? [https://twitch.tv/videos/953014105?t=01h40m33s](https://twitch.tv/videos/953014105?t=01h40m33s)
+* Snutt & Jace Talk: I have to pee [https://twitch.tv/videos/953014105?t=01h56m37s](https://twitch.tv/videos/953014105?t=01h56m37s)
+* Q&A: Jace are you going to start rock climbing? [https://twitch.tv/videos/953014105?t=01h54m05s](https://twitch.tv/videos/953014105?t=01h54m05s)
+* Snutt Talk: Memes on Josh's channel [https://twitch.tv/videos/953014105?t=01h50m57s](https://twitch.tv/videos/953014105?t=01h50m57s)
+* Snutt & Jace Talk: My beanie hit my eye and I got a shoey with a shoelace in this one [https://twitch.tv/videos/953014105?t=01h39m39s](https://twitch.tv/videos/953014105?t=01h39m39s)
+* Snutt & Jace Talk: Neckbeard Viking [https://twitch.tv/videos/953014105?t=01h59m03s](https://twitch.tv/videos/953014105?t=01h59m03s)
+* Snutt & Jace Talk: Rock climbing [https://twitch.tv/videos/953014105?t=01h51m22s](https://twitch.tv/videos/953014105?t=01h51m22s)
+* Community FYI: Teach him Sara [https://twitch.tv/videos/953014105?t=01h54m50s](https://twitch.tv/videos/953014105?t=01h54m50s)
+* Jace Talk: Twitch doesn't count Raid views as channel views [https://twitch.tv/videos/953014105?t=01h08m59s](https://twitch.tv/videos/953014105?t=01h08m59s)
+* Snutt & Jace Talk: What's a shoey? [https://twitch.tv/videos/953014105?t=01h05m39s](https://twitch.tv/videos/953014105?t=01h05m39s)
 * Q&A: Would you consider YouTube a valuable resource for learning Premiere [https://twitch.tv/videos/952893339?t=01h11m50s](https://twitch.tv/videos/952893339?t=01h11m50s)
 
 ## March 16th, 2021 Livestream

@@ -6,6 +6,8 @@ date: Last Modified
 
 ## March 17th, 2021 Livestream
 * Community FYI: CSS has now just descended to copying mods I see. [https://twitch.tv/videos/952893339?t=00h11m06s](https://twitch.tv/videos/952893339?t=00h11m06s)
+* Q&A: Do we have purpose for drones? [https://twitch.tv/videos/953014105?t=00h02m48s](https://twitch.tv/videos/953014105?t=00h02m48s)
+* Community FYI: I honestly liked this vid over the actual trailers before it.. [https://twitch.tv/videos/953014105?t=00h10m26s](https://twitch.tv/videos/953014105?t=00h10m26s)
 * Community FYI: I like the new bigger stacks for some items [https://twitch.tv/videos/952893339?t=00h15m06s](https://twitch.tv/videos/952893339?t=00h15m06s)
 * Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://twitch.tv/videos/952893339?t=00h12m28s](https://twitch.tv/videos/952893339?t=00h12m28s)
 * Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://twitch.tv/videos/952893339?t=00h15m13s](https://twitch.tv/videos/952893339?t=00h15m13s)
@@ -13,6 +15,7 @@ date: Last Modified
 * Community FYI: Update is legit. Love it. Thank you to you and everyone else on the team. [https://twitch.tv/videos/952893339?t=00h12m09s](https://twitch.tv/videos/952893339?t=00h12m09s)
 * Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago [https://twitch.tv/videos/952893339?t=01h22m36s](https://twitch.tv/videos/952893339?t=01h22m36s)
 * Community FYI: What do you mean "has now" - they've been doing it for years. [https://twitch.tv/videos/952893339?t=00h11m38s](https://twitch.tv/videos/952893339?t=00h11m38s)
+* Q&A: Will the Drone fly through a mountain?? [https://twitch.tv/videos/953014105?t=00h09m48s](https://twitch.tv/videos/953014105?t=00h09m48s)
 
 ## March 16th, 2021 Livestream
 * Q&A: Can we pre-download it? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=523&end=540](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=523&end=540)

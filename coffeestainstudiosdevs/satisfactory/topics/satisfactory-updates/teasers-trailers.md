@@ -9,6 +9,10 @@ date: Last Modified
 * [Update 4 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
 * [Update 4 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
 
+## March 17th, 2021 Livestream
+* Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video? [https://twitch.tv/videos/953014105?t=01h55m43s](https://twitch.tv/videos/953014105?t=01h55m43s)
+* Community FYI: Well now you have plenty of time to fix it for the Early Access trailer [https://twitch.tv/videos/953014105?t=01h30m02s](https://twitch.tv/videos/953014105?t=01h30m02s)
+
 ## March 16th, 2021 Livestream
 * Q&A: How long is the patch notes video? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8837&end=8897](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8837&end=8897)
 * Snutt Talk: I hope you're going to enjoy the video & Update 4 [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14357&end=14386](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14357&end=14386)

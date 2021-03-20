@@ -5,6 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 3
 
 ## March 17th, 2021 Livestream
+* Community FYI: I honestly liked this vid over the actual trailers before it.. [https://twitch.tv/videos/953014105?t=00h10m26s](https://twitch.tv/videos/953014105?t=00h10m26s)
 * Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://twitch.tv/videos/952893339?t=00h15m13s](https://twitch.tv/videos/952893339?t=00h15m13s)
 
 ## March 16th, 2021 Livestream

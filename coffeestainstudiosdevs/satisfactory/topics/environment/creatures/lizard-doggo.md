@@ -5,7 +5,13 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
 ## March 17th, 2021 Livestream
+* Snutt & Jace Talk: Compositing the real-life Lizard Doggo [https://twitch.tv/videos/953014105?t=00h26m35s](https://twitch.tv/videos/953014105?t=00h26m35s)
+* Snutt & Jace Talk: Finally getting the key [https://twitch.tv/videos/953014105?t=00h46m02s](https://twitch.tv/videos/953014105?t=00h46m02s)
+* Snutt & Jace Talk: mid-stream summary & Lizard Doggo compositing reiteration [https://twitch.tv/videos/953014105?t=00h41m42s](https://twitch.tv/videos/953014105?t=00h41m42s)
+* Snutt & Jace Talk: The real-life Lizard Doggo [https://twitch.tv/videos/953014105?t=00h17m58s](https://twitch.tv/videos/953014105?t=00h17m58s)
+* Snutt & Jace Talk: The real-life Lizard Doggo was killed with DrawingXaos' poster tube [https://twitch.tv/videos/953014105?t=00h49m07s](https://twitch.tv/videos/953014105?t=00h49m07s)
 * Snutt Talk: The VFX shot [https://twitch.tv/videos/952893339?t=00h28m39s](https://twitch.tv/videos/952893339?t=00h28m39s)
+* Q&A: Why did you guys have to hit the Doggo btw? [https://twitch.tv/videos/953014105?t=00h40m41s](https://twitch.tv/videos/953014105?t=00h40m41s)
 
 ## February 16th, 2021 Livestream
 * [Q&A: Are there limited Lizard Doggos on the map?](../../../transcriptions/yt-v7d8Lqlq53w.md) [https://www.youtube.com/watch?v=v7d8Lqlq53w](https://www.youtube.com/watch?v=v7d8Lqlq53w)

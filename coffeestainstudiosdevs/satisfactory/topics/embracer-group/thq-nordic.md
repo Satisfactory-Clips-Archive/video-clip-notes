@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Embracer Group](../../topics/embracer-group.md) > THQ Nordic
 * [Lars](../../topics/embracer-group/thq-nordic/lars.md)
 
+## March 17th, 2021 Livestream
+* Q&A: Lars telling you to smile = lol- whose idea was that? [https://twitch.tv/videos/953014105?t=01h53m37s](https://twitch.tv/videos/953014105?t=01h53m37s)
+* Community FYI: One of the problems with companies when the money start talking louder... [https://twitch.tv/videos/953014105?t=01h52m17s](https://twitch.tv/videos/953014105?t=01h52m17s)
+
 ## February 6th, 2019 Livestream
 * [Q&A: How has THQ Nordic been to you guys on the project?](../../transcriptions/yt-Dtm6xIj-wM4,2436.980614,2442.260274.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2436&end=2443](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2436&end=2443)
 * [Q&A: Jace - make that smile from 1 month after THQ acquisition?](../../transcriptions/yt-Dtm6xIj-wM4,2388.716191,2413.575214.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2388&end=2414](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2388&end=2414)

@@ -4,6 +4,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Resources
 * [Mercer Sphere](../../topics/environment/resources/mercer-sphere.md)
+* [Nuclear Pasta](../../topics/environment/resources/nuclear-pasta.md)
 * [Oil](../../topics/environment/resources/oil.md)
 * [Power Slug](../../topics/environment/resources/power-slug.md)
 * [S.A.M. Ore](../../topics/environment/resources/sam-ore.md)

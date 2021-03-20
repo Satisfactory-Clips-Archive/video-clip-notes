@@ -5,6 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Storage
 
 ## March 17th, 2021 Livestream
+* Jace Talk: Opinion- Power Storage justification & the Particle Accelerator [https://twitch.tv/videos/953014105?t=01h22m08s](https://twitch.tv/videos/953014105?t=01h22m08s)
 * Snutt & Jace Talk: Opinion on Power Storage [https://twitch.tv/videos/952893339?t=01h11m59s](https://twitch.tv/videos/952893339?t=01h11m59s)
 
 ## March 16th, 2021 Livestream

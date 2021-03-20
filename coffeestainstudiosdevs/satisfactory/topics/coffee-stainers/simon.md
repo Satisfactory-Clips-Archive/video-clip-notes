@@ -7,7 +7,11 @@ date: Last Modified
 
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 1) [https://twitch.tv/videos/952893339%2C5405.468767](https://twitch.tv/videos/952893339%2C5405.468767)
+* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 2) [https://twitch.tv/videos/953014105?t=00h00m22s](https://twitch.tv/videos/953014105?t=00h00m22s)
+* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 3) [https://twitch.tv/videos/953014105?t=00h02m59s](https://twitch.tv/videos/953014105?t=00h02m59s)
+* Snutt & Jace Talk: Compositing the real-life Lizard Doggo [https://twitch.tv/videos/953014105?t=00h26m35s](https://twitch.tv/videos/953014105?t=00h26m35s)
 * Snutt & Jace Talk: Drones previs [https://twitch.tv/videos/952893339?t=01h27m59s](https://twitch.tv/videos/952893339?t=01h27m59s)
+* Snutt & Jace Talk: mid-stream summary & Lizard Doggo compositing reiteration [https://twitch.tv/videos/953014105?t=00h41m42s](https://twitch.tv/videos/953014105?t=00h41m42s)
 * Snutt Talk: The VFX shot [https://twitch.tv/videos/952893339?t=00h28m39s](https://twitch.tv/videos/952893339?t=00h28m39s)
 
 ## March 16th, 2021 Livestream

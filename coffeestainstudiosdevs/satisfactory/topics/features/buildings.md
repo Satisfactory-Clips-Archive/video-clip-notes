@@ -23,6 +23,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## March 17th, 2021 Livestream
+* Snutt & Jace Talk: The end plate [https://twitch.tv/videos/953014105?t=01h32m09s](https://twitch.tv/videos/953014105?t=01h32m09s)
+
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: New Nuclear](../../transcriptions/yt-aewjS8-zD80.md) [https://www.youtube.com/watch?v=aewjS8-zD80](https://www.youtube.com/watch?v=aewjS8-zD80)
 

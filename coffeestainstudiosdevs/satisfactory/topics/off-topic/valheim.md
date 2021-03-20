@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## March 17th, 2021 Livestream
+* Jace Talk: That's a nice-looking office- that Valheim money! [https://twitch.tv/videos/953014105?t=00h15m48s](https://twitch.tv/videos/953014105?t=00h15m48s)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Have Valheim sales surpassed Satisfactory?](../../transcriptions/yt-LqI44274bQw.md) [https://www.youtube.com/watch?v=LqI44274bQw](https://www.youtube.com/watch?v=LqI44274bQw)
 

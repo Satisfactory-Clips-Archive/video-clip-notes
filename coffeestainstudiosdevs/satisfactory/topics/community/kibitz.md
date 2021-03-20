@@ -5,6 +5,8 @@ date: Last Modified
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Kibitz
 
 ## March 17th, 2021 Livestream
+* Kibitz raid [https://twitch.tv/videos/953014105?t=00h30m17s](https://twitch.tv/videos/953014105?t=00h30m17s)
+* Snutt & Jace Talk: Outro shoutouts [https://twitch.tv/videos/953014105?t=01h31m06s](https://twitch.tv/videos/953014105?t=01h31m06s)
 * Snutt & Jace Talk: Supah Computah [https://twitch.tv/videos/952893339?t=00h55m17s](https://twitch.tv/videos/952893339?t=00h55m17s)
 
 ## March 16th, 2021 Livestream
