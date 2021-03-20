@@ -25,6 +25,7 @@ date: Last Modified
 
 ## [Simon](./topics/coffee-stainers/simon.md)
 * [Simon Saga](./topics/coffee-stainers/simon/simon-saga.md)
+---
 
 # [Community](./topics/community.md)
 * [Baine](./topics/community/baine.md)
@@ -36,6 +37,7 @@ date: Last Modified
 * [Satisfactory News](./topics/community/satisfactory-news.md)
 * [Smerkin](./topics/community/smerkin.md)
 * [Wiki](./topics/community/wiki.md)
+---
 * [Easter Eggs](./topics/easter-eggs.md)
 
 # [Embracer Group](./topics/embracer-group.md)
@@ -43,6 +45,7 @@ date: Last Modified
 
 ## [THQ Nordic](./topics/embracer-group/thq-nordic.md)
 * [Lars](./topics/embracer-group/thq-nordic/lars.md)
+---
 
 # [Environment](./topics/environment.md)
 * [Plants](./topics/environment/plants.md)
@@ -55,6 +58,7 @@ date: Last Modified
 ### Unplanned Biomes
 * [Snow](./topics/environment/biomes/unplanned-biomes/snow.md)
 * [Underwater](./topics/environment/biomes/unplanned-biomes/underwater.md)
+---
 
 ## [Creatures](./topics/environment/creatures.md)
 * [Crab Boss](./topics/environment/creatures/crab-boss.md)
@@ -62,6 +66,7 @@ date: Last Modified
 * [Lizard Doggo](./topics/environment/creatures/lizard-doggo.md)
 * [Non Flying Bird](./topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](./topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
+---
 
 ## [Resources](./topics/environment/resources.md)
 * [Mercer Sphere](./topics/environment/resources/mercer-sphere.md)
@@ -71,6 +76,7 @@ date: Last Modified
 * [Somersloop](./topics/environment/resources/somersloop.md)
 * [Steel](./topics/environment/resources/steel.md)
 * [Water](./topics/environment/resources/water.md)
+---
 
 # Features
 * [Emotes](./topics/features/emotes.md)
@@ -81,6 +87,7 @@ date: Last Modified
 
 ## [Accessibility](./topics/features/accessibility.md)
 * [Arachnophobia Mode](./topics/features/accessibility/arachnophobia-mode.md)
+---
 
 ## [Buildables](./topics/features/buildables.md)
 * [Conveyor Belts](./topics/features/buildables/conveyor-belts.md)
@@ -89,6 +96,7 @@ date: Last Modified
 * [Ladders](./topics/features/buildables/ladders.md)
 * [Storage Containers](./topics/features/buildables/storage-containers.md)
 * [Walls](./topics/features/buildables/walls.md)
+---
 
 ## [Buildings](./topics/features/buildings.md)
 * [Assembler](./topics/features/buildings/assembler.md)
@@ -112,6 +120,7 @@ date: Last Modified
 
 ### [Space Elevator](./topics/features/buildings/space-elevator.md)
 * [Food Court](./topics/features/buildings/space-elevator/food-court.md)
+---
 
 ## [Crafting](./topics/features/crafting.md)
 * [Fuel](./topics/features/crafting/fuel.md)
@@ -119,6 +128,7 @@ date: Last Modified
 
 ### [Recipes](./topics/features/crafting/recipes.md)
 * [Alternate Recipes](./topics/features/crafting/recipes/alternate-recipes.md)
+---
 
 ## [Equipment](./topics/features/equipment.md)
 * [Blade Runners](./topics/features/equipment/blade-runners.md)
@@ -126,19 +136,23 @@ date: Last Modified
 * [Hover Pack](./topics/features/equipment/hover-pack.md)
 * [Jetpack](./topics/features/equipment/jetpack.md)
 * [Zip Lines](./topics/features/equipment/zip-lines.md)
+---
 
 ## [Fluids](./topics/features/fluids.md)
 * [Pipes](./topics/features/fluids/pipes.md)
 * [Pumps](./topics/features/fluids/pumps.md)
 * [Valves](./topics/features/fluids/valves.md)
+---
 
 ## [Multiplayer](./topics/features/multiplayer.md)
 * [Crossplay](./topics/features/multiplayer/crossplay.md)
+---
 
 ## Planned Features
 * [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
 * [Lights](./topics/features/planned-features/lights.md)
 * [Signs](./topics/features/planned-features/signs.md)
+---
 
 ## Possible Features
 * [Character Customisation](./topics/features/possible-features/character-customisation.md)
@@ -152,9 +166,11 @@ date: Last Modified
 * [Battle Royale](./topics/features/possible-features/game-modes/battle-royale.md)
 * [Creative Mode](./topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](./topics/features/possible-features/game-modes/peaceful-mode.md)
+---
 
 ### [Third-Party Service Integration](./topics/features/possible-features/third-party-service-integration.md)
 * [Achievements](./topics/features/possible-features/third-party-service-integration/achievements.md)
+---
 
 ## [Power Management](./topics/features/power-management.md)
 * [Geothermal Energy](./topics/features/power-management/geothermal-energy.md)
@@ -165,10 +181,12 @@ date: Last Modified
 ### [Nuclear Energy](./topics/features/power-management/nuclear-energy.md)
 * [Nuclear Refinement](./topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](./topics/features/power-management/nuclear-energy/nuclear-waste.md)
+---
 
 ## [Save System](./topics/features/save-system.md)
 * [Autosave](./topics/features/save-system/autosave.md)
 * [Cloud Sync](./topics/features/save-system/cloud-sync.md)
+---
 
 ## [Tiers](./topics/features/tiers.md)
 * [Tier 0](./topics/features/tiers/tier-0.md)
@@ -182,12 +200,14 @@ date: Last Modified
 * [Tier 8](./topics/features/tiers/tier-8.md)
 * [Tier 9](./topics/features/tiers/tier-9.md)
 * [Tier 10](./topics/features/tiers/tier-10.md)
+---
 
 ## Transportation
 * [Hyper Tubes](./topics/features/transportation/hyper-tubes.md)
 
 ### [Trains](./topics/features/transportation/trains.md)
 * [Train Signals](./topics/features/transportation/trains/train-signals.md)
+---
 
 ### [Vehicles](./topics/features/transportation/vehicles.md)
 * [Autopilot](./topics/features/transportation/vehicles/autopilot.md)
@@ -197,6 +217,7 @@ date: Last Modified
 * [Factory Cart](./topics/features/transportation/vehicles/factory-cart.md)
 * [Tractor](./topics/features/transportation/vehicles/tractor.md)
 * [Truck](./topics/features/transportation/vehicles/truck.md)
+---
 
 ## Unplanned Features
 * [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)
@@ -208,9 +229,11 @@ date: Last Modified
 * [Space Exploration](./topics/features/unplanned-features/space-exploration.md)
 * [Terraforming](./topics/features/unplanned-features/terraforming.md)
 * [VR](./topics/features/unplanned-features/vr.md)
+---
 
 ## Unreleased Features
 * [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
+---
 * [Level Design Stream](./topics/level-design-stream.md)
 * [Localisation](./topics/localisation.md)
 * [Mercer Shpere](./topics/mercer-shpere.md)
@@ -219,6 +242,7 @@ date: Last Modified
 
 ## [Merch Prototypes](./topics/merch/merch-prototypes.md)
 * [FICSIT Cup Prototypes](./topics/merch/merch-prototypes/ficsit-cup-prototypes.md)
+---
 
 # [Mods](./topics/mods.md)
 * [FicsIt-Networks](./topics/mods/ficsit-networks.md)
@@ -240,6 +264,7 @@ date: Last Modified
 
 ## [Official Mod Support](./topics/mods/official-mod-support.md)
 * [Steam Workshop](./topics/mods/official-mod-support/steam-workshop.md)
+---
 
 # [Off-Topic](./topics/off-topic.md)
 * [Deep Rock Galactic](./topics/off-topic/deep-rock-galactic.md)
@@ -252,15 +277,18 @@ date: Last Modified
 * [Terrible Jokes](./topics/off-topic/terrible-jokes.md)
 * [The Cycle](./topics/off-topic/the-cycle.md)
 * [Valheim](./topics/off-topic/valheim.md)
+---
 
 # [Retail](./topics/retail.md)
 * [Early Access](./topics/retail/early-access.md)
 
 ## [Epic Store](./topics/retail/epic-store.md)
 * [Epic Store Exclusivity](./topics/retail/epic-store/epic-store-exclusivity.md)
+---
 
 ## [Steam Store](./topics/retail/steam-store.md)
 * [Steam Release](./topics/retail/steam-store/steam-release.md)
+---
 
 # [Satisfactory Updates](./topics/satisfactory-updates.md)
 * [Free Weekends](./topics/satisfactory-updates/free-weekends.md)
@@ -273,6 +301,7 @@ date: Last Modified
 
 ## [Pending](./topics/satisfactory-updates/pending.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
+---
 
 ## Released
 * [Satisfactory Update 1](./topics/satisfactory-updates/released/satisfactory-update-1.md)
@@ -283,15 +312,18 @@ date: Last Modified
 
 ### [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Alpha Weekend](./topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
+---
 
 ## [Seasonal Events](./topics/satisfactory-updates/seasonal-events.md)
 * [FICS⁕MAS](./topics/satisfactory-updates/seasonal-events/fics-mas.md)
+---
 
 ## Speculative
 * [Satisfactory Update 5](./topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Update 6](./topics/satisfactory-updates/speculative/satisfactory-update-6.md)
 * [Satisfactory Update 7](./topics/satisfactory-updates/speculative/satisfactory-update-7.md)
 * [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
+---
 
 ## [Teasers & Trailers](./topics/satisfactory-updates/teasers-trailers.md)
 * [Update 3 Reveal Trailer](./topics/satisfactory-updates/teasers-trailers/update-3-reveal-trailer.md)
@@ -299,6 +331,7 @@ date: Last Modified
 * [Update 4 Teasers](./topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
 * [Update 4 Launch Stream](./topics/satisfactory-updates/teasers-trailers/update-4-launch-stream.md)
 * [Update 4 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+---
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)
 
@@ -308,6 +341,7 @@ date: Last Modified
 * [ADA](./topics/story-lore/characters/ada.md)
 * [Caterina Parks](./topics/story-lore/characters/caterina-parks.md)
 * [Steve](./topics/story-lore/characters/steve.md)
+---
 
 # [Technology](./topics/technology.md)
 * [Analytics](./topics/technology/analytics.md)
@@ -319,8 +353,10 @@ date: Last Modified
 ## [Graphics](./topics/technology/graphics.md)
 * [DLSS](./topics/technology/graphics/dlss.md)
 * [Ray Tracing](./topics/technology/graphics/ray-tracing.md)
+---
 
 ## [Unreal Engine](./topics/technology/unreal-engine.md)
 * [Custom Component: Instanced Spline Mesh](./topics/technology/unreal-engine/custom-component-instanced-spline-mesh.md)
 * [Object Limit](./topics/technology/unreal-engine/object-limit.md)
+---
 * [Trolling](./topics/trolling.md)
