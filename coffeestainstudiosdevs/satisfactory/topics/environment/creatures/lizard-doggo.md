@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
 ## March 17th, 2021 Livestream
-* Snutt Talk: The VFX shot [https://www.youtube.com/watch?v=ts-952893339%2C1719.427611%2C1858.877691](https://www.youtube.com/watch?v=ts-952893339%2C1719.427611%2C1858.877691)
+* Snutt Talk: The VFX shot [https://twitch.tv/videos/952893339?t=00h28m39s](https://twitch.tv/videos/952893339?t=00h28m39s)
 
 ## February 16th, 2021 Livestream
 * [Q&A: Are there limited Lizard Doggos on the map?](../../../transcriptions/yt-v7d8Lqlq53w.md) [https://www.youtube.com/watch?v=v7d8Lqlq53w](https://www.youtube.com/watch?v=v7d8Lqlq53w)

@@ -15,7 +15,7 @@ date: Last Modified
 * [Valheim](../topics/off-topic/valheim.md)
 
 ## March 17th, 2021 Livestream
-* Q&A: Would you consider YouTube a valuable resource for learning Premiere [https://www.youtube.com/watch?v=ts-952893339%2C4310.800262693479%2C4318.996324](https://www.youtube.com/watch?v=ts-952893339%2C4310.800262693479%2C4318.996324)
+* Q&A: Would you consider YouTube a valuable resource for learning Premiere [https://twitch.tv/videos/952893339?t=01h11m50s](https://twitch.tv/videos/952893339?t=01h11m50s)
 
 ## March 16th, 2021 Livestream
 * Community FYI: Getting a DMCA by Nintendo [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6109&end=6131](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6109&end=6131)

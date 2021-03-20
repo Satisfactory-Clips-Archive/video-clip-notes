@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Geothermal Energy
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Opinion on Power Storage [https://www.youtube.com/watch?v=ts-952893339%2C4319.605724%2C4394.66682](https://www.youtube.com/watch?v=ts-952893339%2C4319.605724%2C4394.66682)
+* Snutt & Jace Talk: Opinion on Power Storage [https://twitch.tv/videos/952893339?t=01h11m59s](https://twitch.tv/videos/952893339?t=01h11m59s)
 
 ## March 16th, 2021 Livestream
 * [Geothermal is getting a change, too](../../../transcriptions/yt-Dp77ih_XmkY,307.5833333333333,319.2083333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320)

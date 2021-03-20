@@ -5,14 +5,14 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
 ## March 17th, 2021 Livestream
-* Community FYI: CSS has now just descended to copying mods I see. [https://www.youtube.com/watch?v=ts-952893339%2C666.7667072983953%2C689.912154](https://www.youtube.com/watch?v=ts-952893339%2C666.7667072983953%2C689.912154)
-* Community FYI: I like the new bigger stacks for some items [https://www.youtube.com/watch?v=ts-952893339%2C906.7000552528946%2C911.087849](https://www.youtube.com/watch?v=ts-952893339%2C906.7000552528946%2C911.087849)
-* Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://www.youtube.com/watch?v=ts-952893339%2C748.356245%2C772.32785](https://www.youtube.com/watch?v=ts-952893339%2C748.356245%2C772.32785)
-* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://www.youtube.com/watch?v=ts-952893339%2C913.940124%2C950.272706](https://www.youtube.com/watch?v=ts-952893339%2C913.940124%2C950.272706)
-* Q&A: Update 4 is the last one? [https://www.youtube.com/watch?v=ts-952893339%2C2221.3334686979483%2C2226.108828](https://www.youtube.com/watch?v=ts-952893339%2C2221.3334686979483%2C2226.108828)
-* Community FYI: Update is legit. Love it. Thank you to you and everyone else on the team. [https://www.youtube.com/watch?v=ts-952893339%2C729.209865%2C744.948918](https://www.youtube.com/watch?v=ts-952893339%2C729.209865%2C744.948918)
-* Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago [https://www.youtube.com/watch?v=ts-952893339%2C4956.002485%2C5033.081647](https://www.youtube.com/watch?v=ts-952893339%2C4956.002485%2C5033.081647)
-* Community FYI: What do you mean "has now" - they've been doing it for years. [https://www.youtube.com/watch?v=ts-952893339%2C698.487301%2C717.498298](https://www.youtube.com/watch?v=ts-952893339%2C698.487301%2C717.498298)
+* Community FYI: CSS has now just descended to copying mods I see. [https://twitch.tv/videos/952893339?t=00h11m06s](https://twitch.tv/videos/952893339?t=00h11m06s)
+* Community FYI: I like the new bigger stacks for some items [https://twitch.tv/videos/952893339?t=00h15m06s](https://twitch.tv/videos/952893339?t=00h15m06s)
+* Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://twitch.tv/videos/952893339?t=00h12m28s](https://twitch.tv/videos/952893339?t=00h12m28s)
+* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://twitch.tv/videos/952893339?t=00h15m13s](https://twitch.tv/videos/952893339?t=00h15m13s)
+* Q&A: Update 4 is the last one? [https://twitch.tv/videos/952893339?t=00h37m01s](https://twitch.tv/videos/952893339?t=00h37m01s)
+* Community FYI: Update is legit. Love it. Thank you to you and everyone else on the team. [https://twitch.tv/videos/952893339?t=00h12m09s](https://twitch.tv/videos/952893339?t=00h12m09s)
+* Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago [https://twitch.tv/videos/952893339?t=01h22m36s](https://twitch.tv/videos/952893339?t=01h22m36s)
+* Community FYI: What do you mean "has now" - they've been doing it for years. [https://twitch.tv/videos/952893339?t=00h11m38s](https://twitch.tv/videos/952893339?t=00h11m38s)
 
 ## March 16th, 2021 Livestream
 * Q&A: Can we pre-download it? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=523&end=540](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=523&end=540)

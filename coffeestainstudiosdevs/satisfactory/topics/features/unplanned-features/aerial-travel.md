@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel
 
 ## March 17th, 2021 Livestream
-* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://www.youtube.com/watch?v=ts-952893339%2C913.940124%2C950.272706](https://www.youtube.com/watch?v=ts-952893339%2C913.940124%2C950.272706)
+* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://twitch.tv/videos/952893339?t=00h15m13s](https://twitch.tv/videos/952893339?t=00h15m13s)
 
 ## February 9th, 2021 Livestream
 * [Q&A: Is flyable transport an option?](../../../transcriptions/yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)

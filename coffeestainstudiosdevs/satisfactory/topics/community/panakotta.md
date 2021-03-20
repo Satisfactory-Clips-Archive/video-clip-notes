@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Panakotta
 
 ## March 17th, 2021 Livestream
-* Community FYI: When Panakotta was demoing the lights and both of you trying not to say anything... [https://www.youtube.com/watch?v=ts-952893339%2C774.507447%2C794.0333817204956](https://www.youtube.com/watch?v=ts-952893339%2C774.507447%2C794.0333817204956)
+* Community FYI: When Panakotta was demoing the lights and both of you trying not to say anything... [https://twitch.tv/videos/952893339?t=00h12m54s](https://twitch.tv/videos/952893339?t=00h12m54s)
 
 ## March 16th, 2021 Livestream
 * Mod highlight part 2: Introductions [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=12204&end=12237](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=12204&end=12237)

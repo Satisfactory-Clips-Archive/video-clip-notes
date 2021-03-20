@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
 ## March 17th, 2021 Livestream
-* Community FYI: The editor in me is so rock hard by these continuity details [https://www.youtube.com/watch?v=ts-952893339%2C4208.962283%2C4225.153124](https://www.youtube.com/watch?v=ts-952893339%2C4208.962283%2C4225.153124)
+* Community FYI: The editor in me is so rock hard by these continuity details [https://twitch.tv/videos/952893339?t=01h10m08s](https://twitch.tv/videos/952893339?t=01h10m08s)
 
 ## March 16th, 2021 Livestream
 * Snutt & Jace Talk: A lot of people are asking Josh to come on [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14091&end=14122](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14091&end=14122)

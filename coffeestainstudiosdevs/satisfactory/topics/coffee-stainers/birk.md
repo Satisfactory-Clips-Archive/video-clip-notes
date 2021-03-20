@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Birk
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Excitement about Signs [https://www.youtube.com/watch?v=ts-952893339%2C4402.033601586431%2C4459.303503](https://www.youtube.com/watch?v=ts-952893339%2C4402.033601586431%2C4459.303503)
+* Snutt & Jace Talk: Excitement about Signs [https://twitch.tv/videos/952893339?t=01h13m22s](https://twitch.tv/videos/952893339?t=01h13m22s)
 
 ## October 9th, 2020 Livestream
 * [Snutt Talk: The future of Satisfactory?](../../transcriptions/yt-BMIKnDVoS9Q.md) [https://www.youtube.com/watch?v=BMIKnDVoS9Q](https://www.youtube.com/watch?v=BMIKnDVoS9Q)

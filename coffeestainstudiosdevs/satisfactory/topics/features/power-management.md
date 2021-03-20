@@ -10,7 +10,7 @@ date: Last Modified
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: I hate this shot [https://www.youtube.com/watch?v=ts-952893339%2C4127.909474%2C4173.41148](https://www.youtube.com/watch?v=ts-952893339%2C4127.909474%2C4173.41148)
+* Snutt & Jace Talk: I hate this shot [https://twitch.tv/videos/952893339?t=01h08m47s](https://twitch.tv/videos/952893339?t=01h08m47s)
 
 ## March 16th, 2021 Livestream
 * [Power Generators are no longer Self-Regulating](../../transcriptions/yt-Dp77ih_XmkY,283.432566,307.5833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=283&end=308](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=283&end=308)

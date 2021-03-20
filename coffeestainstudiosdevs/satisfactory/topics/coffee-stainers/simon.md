@@ -6,9 +6,9 @@ date: Last Modified
 * [Simon Saga](../../topics/coffee-stainers/simon/simon-saga.md)
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 1) [https://www.youtube.com/watch?v=ts-952893339%2C5405.468767](https://www.youtube.com/watch?v=ts-952893339%2C5405.468767)
-* Snutt & Jace Talk: Drones previs [https://www.youtube.com/watch?v=ts-952893339%2C5279.555337%2C5405.468767](https://www.youtube.com/watch?v=ts-952893339%2C5279.555337%2C5405.468767)
-* Snutt Talk: The VFX shot [https://www.youtube.com/watch?v=ts-952893339%2C1719.427611%2C1858.877691](https://www.youtube.com/watch?v=ts-952893339%2C1719.427611%2C1858.877691)
+* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 1) [https://twitch.tv/videos/952893339%2C5405.468767](https://twitch.tv/videos/952893339%2C5405.468767)
+* Snutt & Jace Talk: Drones previs [https://twitch.tv/videos/952893339?t=01h27m59s](https://twitch.tv/videos/952893339?t=01h27m59s)
+* Snutt Talk: The VFX shot [https://twitch.tv/videos/952893339?t=00h28m39s](https://twitch.tv/videos/952893339?t=00h28m39s)
 
 ## March 16th, 2021 Livestream
 * Q&A: Is there anything Simon is particularly proud of in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5277&end=5312](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5277&end=5312)

@@ -5,17 +5,17 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Couch reaction shots (Part 1) [https://www.youtube.com/watch?v=ts-952893339%2C2919.153406%2C2950.339449](https://www.youtube.com/watch?v=ts-952893339%2C2919.153406%2C2950.339449)
-* Snutt & Jace Talk: Couch reaction shots (Part 2) [https://www.youtube.com/watch?v=ts-952893339%2C3010.200183436929%2C3031.189078](https://www.youtube.com/watch?v=ts-952893339%2C3010.200183436929%2C3031.189078)
-* Snutt & Jace Talk: It's like I'm in France [https://www.youtube.com/watch?v=ts-952893339%2C5054.715935%2C5068.412122](https://www.youtube.com/watch?v=ts-952893339%2C5054.715935%2C5068.412122)
-* Snutt & Jace Talk: Now I know everyone loves complexity [https://www.youtube.com/watch?v=ts-952893339%2C3105.674196%2C3181.615056](https://www.youtube.com/watch?v=ts-952893339%2C3105.674196%2C3181.615056)
-* Snutt & Jace Talk: Recording the Voice Overs seperately [https://www.youtube.com/watch?v=ts-952893339%2C3216.466862673167%2C3317.843942](https://www.youtube.com/watch?v=ts-952893339%2C3216.466862673167%2C3317.843942)
-* Community FYI: Snutt should've been Diego? [https://www.youtube.com/watch?v=ts-952893339%2C1074.351782%2C1087.516255](https://www.youtube.com/watch?v=ts-952893339%2C1074.351782%2C1087.516255)
-* Snutt & Jace Talk: Telepathic [https://www.youtube.com/watch?v=ts-952893339%2C3189.46638%2C3216.456936](https://www.youtube.com/watch?v=ts-952893339%2C3189.46638%2C3216.456936)
-* Snutt & Jace Talk: The mic died on the basement shot (Part 1) [https://www.youtube.com/watch?v=ts-952893339%2C3930.697601%2C4115.038125](https://www.youtube.com/watch?v=ts-952893339%2C3930.697601%2C4115.038125)
-* Snutt & Jace Talk: This part was not in the script [https://www.youtube.com/watch?v=ts-952893339%2C3634.800221499086%2C3798.304294](https://www.youtube.com/watch?v=ts-952893339%2C3634.800221499086%2C3798.304294)
-* Snutt & Jace Talk: This shot was filmed before the reshoot [https://www.youtube.com/watch?v=ts-952893339%2C4183.919472%2C4208.962283](https://www.youtube.com/watch?v=ts-952893339%2C4183.919472%2C4208.962283)
-* Snutt & Jace Talk: What are you doing? [https://www.youtube.com/watch?v=ts-952893339%2C2686.66672%2C2727.357289](https://www.youtube.com/watch?v=ts-952893339%2C2686.66672%2C2727.357289)
+* Snutt & Jace Talk: Couch reaction shots (Part 1) [https://twitch.tv/videos/952893339?t=00h48m39s](https://twitch.tv/videos/952893339?t=00h48m39s)
+* Snutt & Jace Talk: Couch reaction shots (Part 2) [https://twitch.tv/videos/952893339?t=00h50m10s](https://twitch.tv/videos/952893339?t=00h50m10s)
+* Snutt & Jace Talk: It's like I'm in France [https://twitch.tv/videos/952893339?t=01h24m14s](https://twitch.tv/videos/952893339?t=01h24m14s)
+* Snutt & Jace Talk: Now I know everyone loves complexity [https://twitch.tv/videos/952893339?t=00h51m45s](https://twitch.tv/videos/952893339?t=00h51m45s)
+* Snutt & Jace Talk: Recording the Voice Overs seperately [https://twitch.tv/videos/952893339?t=00h53m36s](https://twitch.tv/videos/952893339?t=00h53m36s)
+* Community FYI: Snutt should've been Diego? [https://twitch.tv/videos/952893339?t=00h17m54s](https://twitch.tv/videos/952893339?t=00h17m54s)
+* Snutt & Jace Talk: Telepathic [https://twitch.tv/videos/952893339?t=00h53m09s](https://twitch.tv/videos/952893339?t=00h53m09s)
+* Snutt & Jace Talk: The mic died on the basement shot (Part 1) [https://twitch.tv/videos/952893339?t=01h05m30s](https://twitch.tv/videos/952893339?t=01h05m30s)
+* Snutt & Jace Talk: This part was not in the script [https://twitch.tv/videos/952893339?t=01h00m34s](https://twitch.tv/videos/952893339?t=01h00m34s)
+* Snutt & Jace Talk: This shot was filmed before the reshoot [https://twitch.tv/videos/952893339?t=01h09m43s](https://twitch.tv/videos/952893339?t=01h09m43s)
+* Snutt & Jace Talk: What are you doing? [https://twitch.tv/videos/952893339?t=00h44m46s](https://twitch.tv/videos/952893339?t=00h44m46s)
 
 ## March 16th, 2021 Livestream
 * Community FYI: Getting a DMCA by Nintendo [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6109&end=6131](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6109&end=6131)

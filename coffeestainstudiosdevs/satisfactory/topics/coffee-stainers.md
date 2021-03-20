@@ -25,7 +25,7 @@ date: Last Modified
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
 ## March 17th, 2021 Livestream
-* Jace Talk: Showing the trailer off early [https://www.youtube.com/watch?v=ts-952893339%2C1620.331392%2C1664.580323](https://www.youtube.com/watch?v=ts-952893339%2C1620.331392%2C1664.580323)
+* Jace Talk: Showing the trailer off early [https://twitch.tv/videos/952893339?t=00h27m00s](https://twitch.tv/videos/952893339?t=00h27m00s)
 
 ## March 16th, 2021 Livestream
 * Mod highlight part 2: Coffee Stain helped a lot in develping unofficial mod support [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10008&end=10124](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10008&end=10124)

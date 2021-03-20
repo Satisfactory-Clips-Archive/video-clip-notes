@@ -5,9 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Uzu
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Información [https://www.youtube.com/watch?v=ts-952893339%2C3798.304294%2C3850.333567966687](https://www.youtube.com/watch?v=ts-952893339%2C3798.304294%2C3850.333567966687)
-* Snutt Talk: We consulted with Uzu [https://www.youtube.com/watch?v=ts-952893339%2C2272.7001384948203%2C2368.201944](https://www.youtube.com/watch?v=ts-952893339%2C2272.7001384948203%2C2368.201944)
-* Snutt & Jace Talk: ¡Eres un tonto! [https://www.youtube.com/watch?v=ts-952893339%2C5116.700311803778%2C5179.48788](https://www.youtube.com/watch?v=ts-952893339%2C5116.700311803778%2C5179.48788)
+* Snutt & Jace Talk: Información [https://twitch.tv/videos/952893339?t=01h03m18s](https://twitch.tv/videos/952893339?t=01h03m18s)
+* Snutt Talk: We consulted with Uzu [https://twitch.tv/videos/952893339?t=00h37m52s](https://twitch.tv/videos/952893339?t=00h37m52s)
+* Snutt & Jace Talk: ¡Eres un tonto! [https://twitch.tv/videos/952893339?t=01h25m16s](https://twitch.tv/videos/952893339?t=01h25m16s)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Are you going to add more functionality to the Programmable Splitters?](../../transcriptions/yt-PGyc_YN4DaM.md) [https://www.youtube.com/watch?v=PGyc_YN4DaM](https://www.youtube.com/watch?v=PGyc_YN4DaM)
