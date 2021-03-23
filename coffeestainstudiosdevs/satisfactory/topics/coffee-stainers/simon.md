@@ -7,12 +7,12 @@ date: Last Modified
 
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 1) [https://twitch.tv/videos/952893339%2C5405.468767](https://twitch.tv/videos/952893339%2C5405.468767)
-* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 2) [https://twitch.tv/videos/953014105?t=00h00m22s](https://twitch.tv/videos/953014105?t=00h00m22s)
-* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 3) [https://twitch.tv/videos/953014105?t=00h02m59s](https://twitch.tv/videos/953014105?t=00h02m59s)
-* Snutt & Jace Talk: Compositing the real-life Lizard Doggo [https://twitch.tv/videos/953014105?t=00h26m35s](https://twitch.tv/videos/953014105?t=00h26m35s)
-* Snutt & Jace Talk: Drones previs [https://twitch.tv/videos/952893339?t=01h27m59s](https://twitch.tv/videos/952893339?t=01h27m59s)
-* Snutt & Jace Talk: mid-stream summary & Lizard Doggo compositing reiteration [https://twitch.tv/videos/953014105?t=00h41m42s](https://twitch.tv/videos/953014105?t=00h41m42s)
-* Snutt Talk: The VFX shot [https://twitch.tv/videos/952893339?t=00h28m39s](https://twitch.tv/videos/952893339?t=00h28m39s)
+* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 2) [https://play.satisfactory.video/ts-953014105,22.402188,168.109489/](https://play.satisfactory.video/ts-953014105,22.402188,168.109489/)
+* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 3) [https://play.satisfactory.video/ts-953014105,179.86667474693,357.06284/](https://play.satisfactory.video/ts-953014105,179.86667474693,357.06284/)
+* Snutt & Jace Talk: Compositing the real-life Lizard Doggo [https://play.satisfactory.video/ts-953014105,1595.686759,1818.647536/](https://play.satisfactory.video/ts-953014105,1595.686759,1818.647536/)
+* Snutt & Jace Talk: Drones previs [https://play.satisfactory.video/ts-952893339,5279.555337,5405.468767/](https://play.satisfactory.video/ts-952893339,5279.555337,5405.468767/)
+* Snutt & Jace Talk: mid-stream summary & Lizard Doggo compositing reiteration [https://play.satisfactory.video/ts-953014105,2502.1334457382,2761.988009/](https://play.satisfactory.video/ts-953014105,2502.1334457382,2761.988009/)
+* Snutt Talk: The VFX shot [https://play.satisfactory.video/ts-952893339,1719.427611,1858.877691/](https://play.satisfactory.video/ts-952893339,1719.427611,1858.877691/)
 
 ## March 16th, 2021 Livestream
 * Q&A: Is there anything Simon is particularly proud of in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5277&end=5312](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5277&end=5312)

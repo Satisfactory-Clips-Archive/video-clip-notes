@@ -5,9 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Kibitz
 
 ## March 17th, 2021 Livestream
-* Kibitz raid [https://twitch.tv/videos/953014105?t=00h30m17s](https://twitch.tv/videos/953014105?t=00h30m17s)
-* Snutt & Jace Talk: Outro shoutouts [https://twitch.tv/videos/953014105?t=01h31m06s](https://twitch.tv/videos/953014105?t=01h31m06s)
-* Snutt & Jace Talk: Supah Computah [https://twitch.tv/videos/952893339?t=00h55m17s](https://twitch.tv/videos/952893339?t=00h55m17s)
+* Kibitz raid [https://play.satisfactory.video/ts-953014105,1817.6667483229,2087.520463/](https://play.satisfactory.video/ts-953014105,1817.6667483229,2087.520463/)
+* Snutt & Jace Talk: Outro shoutouts [https://play.satisfactory.video/ts-953014105,5466.035973,5529.879459/](https://play.satisfactory.video/ts-953014105,5466.035973,5529.879459/)
+* Snutt & Jace Talk: Supah Computah [https://play.satisfactory.video/ts-952893339,3317.070226,3495.285387/](https://play.satisfactory.video/ts-952893339,3317.070226,3495.285387/)
 
 ## March 16th, 2021 Livestream
 * Jace Talk: Something unplanned - surprise special guest [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13544&end=13960](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13544&end=13960)

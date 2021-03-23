@@ -6,7 +6,7 @@ date: Last Modified
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
 ## March 17th, 2021 Livestream
-* Community FYI: The train part looks amazing [https://twitch.tv/videos/952893339?t=01h21m38s](https://twitch.tv/videos/952893339?t=01h21m38s)
+* Community FYI: The train part looks amazing [https://play.satisfactory.video/ts-952893339,4898.239745,4906.666965671338/](https://play.satisfactory.video/ts-952893339,4898.239745,4906.666965671338/)
 
 ## March 16th, 2021 Livestream
 * Mod highlight part 2: FicsIt-Networks - Train Network integration [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13144&end=13194](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13144&end=13194)

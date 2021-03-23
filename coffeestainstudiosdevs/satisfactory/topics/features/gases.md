@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Gases
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Setting up the in-game Drone shots [https://twitch.tv/videos/953014105?t=00h08m30s](https://twitch.tv/videos/953014105?t=00h08m30s)
+* Snutt & Jace Talk: Setting up the in-game Drone shots [https://play.satisfactory.video/ts-953014105,510.33335625936,585.268556/](https://play.satisfactory.video/ts-953014105,510.33335625936,585.268556/)
 
 ## February 26th, 2021 Instagram AMA
 * Q&A: How many different gases will we have in Update 4? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_different_gases_will_we_have_in_update_4.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_different_gases_will_we_have_in_update_4.mp4)

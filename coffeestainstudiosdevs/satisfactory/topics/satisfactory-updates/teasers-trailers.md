@@ -10,8 +10,8 @@ date: Last Modified
 * [Update 4 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
 
 ## March 17th, 2021 Livestream
-* Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video? [https://twitch.tv/videos/953014105?t=01h55m43s](https://twitch.tv/videos/953014105?t=01h55m43s)
-* Community FYI: Well now you have plenty of time to fix it for the Early Access trailer [https://twitch.tv/videos/953014105?t=01h30m02s](https://twitch.tv/videos/953014105?t=01h30m02s)
+* Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video? [https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/](https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/)
+* Community FYI: Well now you have plenty of time to fix it for the Early Access trailer [https://play.satisfactory.video/ts-953014105,5402.568957,5457.613404/](https://play.satisfactory.video/ts-953014105,5402.568957,5457.613404/)
 
 ## March 16th, 2021 Livestream
 * Q&A: How long is the patch notes video? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8837&end=8897](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8837&end=8897)

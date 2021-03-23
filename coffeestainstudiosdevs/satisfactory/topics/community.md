@@ -15,12 +15,12 @@ date: Last Modified
 * [Wiki](../topics/community/wiki.md)
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Community responses to the Patch Notes video [https://twitch.tv/videos/953014105?t=01h35m33s](https://twitch.tv/videos/953014105?t=01h35m33s)
-* Community FYI: Cryin in the club WHAT GOOD BOYS [https://twitch.tv/videos/953014105?t=01h50m45s](https://twitch.tv/videos/953014105?t=01h50m45s)
-* Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 1) [https://twitch.tv/videos/953014105?t=01h18m10s](https://twitch.tv/videos/953014105?t=01h18m10s)
-* Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 2) [https://twitch.tv/videos/953014105?t=01h41m18s](https://twitch.tv/videos/953014105?t=01h41m18s)
-* Snutt & Jace Talk: Lights reveal [https://twitch.tv/videos/952893339?t=01h15m31s](https://twitch.tv/videos/952893339?t=01h15m31s)
-* Community FYI: Teach him Sara [https://twitch.tv/videos/953014105?t=01h54m50s](https://twitch.tv/videos/953014105?t=01h54m50s)
+* Snutt & Jace Talk: Community responses to the Patch Notes video [https://play.satisfactory.video/ts-953014105,5733.011294,5754.674264/](https://play.satisfactory.video/ts-953014105,5733.011294,5754.674264/)
+* Community FYI: Cryin in the club WHAT GOOD BOYS [https://play.satisfactory.video/ts-953014105,6645.480554,6682.100549/](https://play.satisfactory.video/ts-953014105,6645.480554,6682.100549/)
+* Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 1) [https://play.satisfactory.video/ts-953014105,4690.936146,4928.57605/](https://play.satisfactory.video/ts-953014105,4690.936146,4928.57605/)
+* Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 2) [https://play.satisfactory.video/ts-953014105,6078.692041,6279.594824/](https://play.satisfactory.video/ts-953014105,6078.692041,6279.594824/)
+* Snutt & Jace Talk: Lights reveal [https://play.satisfactory.video/ts-952893339,4531.470572,4862.147916/](https://play.satisfactory.video/ts-952893339,4531.470572,4862.147916/)
+* Community FYI: Teach him Sara [https://play.satisfactory.video/ts-953014105,6890.2336428676,6943.688572/](https://play.satisfactory.video/ts-953014105,6890.2336428676,6943.688572/)
 
 ## March 16th, 2021 Livestream
 * Mod highlight part 2 Q&A: Anything you want to say before we start the modding demo? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986)

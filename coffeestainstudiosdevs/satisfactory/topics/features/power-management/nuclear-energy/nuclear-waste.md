@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: That shot of the dead Pioneer [https://twitch.tv/videos/952893339?t=01h00m26s](https://twitch.tv/videos/952893339?t=01h00m26s)
+* Snutt & Jace Talk: That shot of the dead Pioneer [https://play.satisfactory.video/ts-952893339,3626.216334,3634.786431/](https://play.satisfactory.video/ts-952893339,3626.216334,3634.786431/)
 
 ## March 16th, 2021 Livestream
 * [Encased Uranium Cells now produced in the Blender](../../../../transcriptions/yt-Dp77ih_XmkY,195.325577,205.875.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206)

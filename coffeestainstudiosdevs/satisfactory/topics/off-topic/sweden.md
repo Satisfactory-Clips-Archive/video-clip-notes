@@ -5,6 +5,6 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
 ## March 17th, 2021 Livestream
-* Q&A: Is it cold inside? [https://twitch.tv/videos/953014105?t=00h58m03s](https://twitch.tv/videos/953014105?t=00h58m03s)
-* Community FYI: Snutt has no clean shoes, so he can't get drunk. Swedes are weird [https://twitch.tv/videos/953014105?t=01h51m52s](https://twitch.tv/videos/953014105?t=01h51m52s)
-* Snutt & Jace Talk: The stairs scenes & Swedish shoe habits [https://twitch.tv/videos/953014105?t=00h55m25s](https://twitch.tv/videos/953014105?t=00h55m25s)
+* Q&A: Is it cold inside? [https://play.satisfactory.video/ts-953014105,3483.382965,3510.503001/](https://play.satisfactory.video/ts-953014105,3483.382965,3510.503001/)
+* Community FYI: Snutt has no clean shoes, so he can't get drunk. Swedes are weird [https://play.satisfactory.video/ts-953014105,6712.9669682375,6737.386089/](https://play.satisfactory.video/ts-953014105,6712.9669682375,6737.386089/)
+* Snutt & Jace Talk: The stairs scenes & Swedish shoe habits [https://play.satisfactory.video/ts-953014105,3325.0668160407,3479.720153/](https://play.satisfactory.video/ts-953014105,3325.0668160407,3479.720153/)

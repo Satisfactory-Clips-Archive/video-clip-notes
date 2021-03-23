@@ -7,7 +7,7 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: I hate this shot [https://twitch.tv/videos/952893339?t=01h08m47s](https://twitch.tv/videos/952893339?t=01h08m47s)
+* Snutt & Jace Talk: I hate this shot [https://play.satisfactory.video/ts-952893339,4127.909474,4173.41148/](https://play.satisfactory.video/ts-952893339,4127.909474,4173.41148/)
 
 ## March 2nd, 2021 Livestream
 * [Q&A: Will the Blade Runners actually be attached to the body at some point?](../../transcriptions/yt-W-67fl8Fg48.md) [https://www.youtube.com/watch?v=W-67fl8Fg48](https://www.youtube.com/watch?v=W-67fl8Fg48)

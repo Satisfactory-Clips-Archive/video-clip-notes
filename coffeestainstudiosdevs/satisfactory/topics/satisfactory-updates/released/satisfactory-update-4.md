@@ -5,17 +5,17 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
 ## March 17th, 2021 Livestream
-* Community FYI: CSS has now just descended to copying mods I see. [https://twitch.tv/videos/952893339?t=00h11m06s](https://twitch.tv/videos/952893339?t=00h11m06s)
-* Q&A: Do we have purpose for drones? [https://twitch.tv/videos/953014105?t=00h02m48s](https://twitch.tv/videos/953014105?t=00h02m48s)
-* Community FYI: I honestly liked this vid over the actual trailers before it.. [https://twitch.tv/videos/953014105?t=00h10m26s](https://twitch.tv/videos/953014105?t=00h10m26s)
-* Community FYI: I like the new bigger stacks for some items [https://twitch.tv/videos/952893339?t=00h15m06s](https://twitch.tv/videos/952893339?t=00h15m06s)
-* Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://twitch.tv/videos/952893339?t=00h12m28s](https://twitch.tv/videos/952893339?t=00h12m28s)
-* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://twitch.tv/videos/952893339?t=00h15m13s](https://twitch.tv/videos/952893339?t=00h15m13s)
-* Q&A: Update 4 is the last one? [https://twitch.tv/videos/952893339?t=00h37m01s](https://twitch.tv/videos/952893339?t=00h37m01s)
-* Community FYI: Update is legit. Love it. Thank you to you and everyone else on the team. [https://twitch.tv/videos/952893339?t=00h12m09s](https://twitch.tv/videos/952893339?t=00h12m09s)
-* Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago [https://twitch.tv/videos/952893339?t=01h22m36s](https://twitch.tv/videos/952893339?t=01h22m36s)
-* Community FYI: What do you mean "has now" - they've been doing it for years. [https://twitch.tv/videos/952893339?t=00h11m38s](https://twitch.tv/videos/952893339?t=00h11m38s)
-* Q&A: Will the Drone fly through a mountain?? [https://twitch.tv/videos/953014105?t=00h09m48s](https://twitch.tv/videos/953014105?t=00h09m48s)
+* Community FYI: CSS has now just descended to copying mods I see. [https://play.satisfactory.video/ts-952893339,666.7667072984,689.912154/](https://play.satisfactory.video/ts-952893339,666.7667072984,689.912154/)
+* Q&A: Do we have purpose for drones? [https://play.satisfactory.video/ts-953014105,168.109489,179.880873/](https://play.satisfactory.video/ts-953014105,168.109489,179.880873/)
+* Community FYI: I honestly liked this vid over the actual trailers before it.. [https://play.satisfactory.video/ts-953014105,626.626275,734.624647/](https://play.satisfactory.video/ts-953014105,626.626275,734.624647/)
+* Community FYI: I like the new bigger stacks for some items [https://play.satisfactory.video/ts-952893339,906.70005525289,911.087849/](https://play.satisfactory.video/ts-952893339,906.70005525289,911.087849/)
+* Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://play.satisfactory.video/ts-952893339,748.356245,772.32785/](https://play.satisfactory.video/ts-952893339,748.356245,772.32785/)
+* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://play.satisfactory.video/ts-952893339,913.940124,950.272706/](https://play.satisfactory.video/ts-952893339,913.940124,950.272706/)
+* Q&A: Update 4 is the last one? [https://play.satisfactory.video/ts-952893339,2221.3334686979,2226.108828/](https://play.satisfactory.video/ts-952893339,2221.3334686979,2226.108828/)
+* Community FYI: Update is legit. Love it. Thank you to you and everyone else on the team. [https://play.satisfactory.video/ts-952893339,729.209865,744.948918/](https://play.satisfactory.video/ts-952893339,729.209865,744.948918/)
+* Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago [https://play.satisfactory.video/ts-952893339,4956.002485,5033.081647/](https://play.satisfactory.video/ts-952893339,4956.002485,5033.081647/)
+* Community FYI: What do you mean "has now" - they've been doing it for years. [https://play.satisfactory.video/ts-952893339,698.487301,717.498298/](https://play.satisfactory.video/ts-952893339,698.487301,717.498298/)
+* Q&A: Will the Drone fly through a mountain?? [https://play.satisfactory.video/ts-953014105,588.658222,618.601428/](https://play.satisfactory.video/ts-953014105,588.658222,618.601428/)
 
 ## March 16th, 2021 Livestream
 * Q&A: Can we pre-download it? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=523&end=540](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=523&end=540)

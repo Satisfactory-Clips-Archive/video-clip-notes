@@ -5,9 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Uzu
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Información [https://twitch.tv/videos/952893339?t=01h03m18s](https://twitch.tv/videos/952893339?t=01h03m18s)
-* Snutt Talk: We consulted with Uzu [https://twitch.tv/videos/952893339?t=00h37m52s](https://twitch.tv/videos/952893339?t=00h37m52s)
-* Snutt & Jace Talk: ¡Eres un tonto! [https://twitch.tv/videos/952893339?t=01h25m16s](https://twitch.tv/videos/952893339?t=01h25m16s)
+* Snutt & Jace Talk: Información [https://play.satisfactory.video/ts-952893339,3798.304294,3850.333567966687/](https://play.satisfactory.video/ts-952893339,3798.304294,3850.333567966687/)
+* Snutt Talk: We consulted with Uzu [https://play.satisfactory.video/ts-952893339,2272.7001384948,2368.201944/](https://play.satisfactory.video/ts-952893339,2272.7001384948,2368.201944/)
+* Snutt & Jace Talk: ¡Eres un tonto! [https://play.satisfactory.video/ts-952893339,5116.7003118038,5179.48788/](https://play.satisfactory.video/ts-952893339,5116.7003118038,5179.48788/)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Are you going to add more functionality to the Programmable Splitters?](../../transcriptions/yt-PGyc_YN4DaM.md) [https://www.youtube.com/watch?v=PGyc_YN4DaM](https://www.youtube.com/watch?v=PGyc_YN4DaM)

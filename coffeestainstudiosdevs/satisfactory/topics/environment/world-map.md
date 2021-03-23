@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
 ## March 17th, 2021 Livestream
-* Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video? [https://twitch.tv/videos/953014105?t=01h55m43s](https://twitch.tv/videos/953014105?t=01h55m43s)
+* Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video? [https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/](https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/)
 
 ## March 16th, 2021 Livestream
 * Mod highlight part 2: Custom Maps [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9832&end=9970](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9832&end=9970)

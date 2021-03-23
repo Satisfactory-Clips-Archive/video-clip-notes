@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Zip Lines
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Issues with the Zip Lines teaser & Update 4 Multiplayer improvements [https://twitch.tv/videos/953014105?t=00h58m50s](https://twitch.tv/videos/953014105?t=00h58m50s)
+* Snutt & Jace Talk: Issues with the Zip Lines teaser & Update 4 Multiplayer improvements [https://play.satisfactory.video/ts-953014105,3530.792889,3614.902872/](https://play.satisfactory.video/ts-953014105,3530.792889,3614.902872/)
 
 ## March 16th, 2021 Livestream
 * [Zip Lines](../../../transcriptions/yt-Dp77ih_XmkY,565.625,573.0833333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=565&end=574](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=565&end=574)

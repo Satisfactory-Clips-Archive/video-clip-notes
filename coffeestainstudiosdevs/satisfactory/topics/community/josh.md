@@ -5,9 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
 ## March 17th, 2021 Livestream
-* Snutt Talk: Memes on Josh's channel [https://twitch.tv/videos/953014105?t=01h50m57s](https://twitch.tv/videos/953014105?t=01h50m57s)
-* Snutt & Jace Talk: Outro shoutouts [https://twitch.tv/videos/953014105?t=01h31m06s](https://twitch.tv/videos/953014105?t=01h31m06s)
-* Community FYI: The editor in me is so rock hard by these continuity details [https://twitch.tv/videos/952893339?t=01h10m08s](https://twitch.tv/videos/952893339?t=01h10m08s)
+* Snutt Talk: Memes on Josh's channel [https://play.satisfactory.video/ts-953014105,6657.5336324139,6673.903617/](https://play.satisfactory.video/ts-953014105,6657.5336324139,6673.903617/)
+* Snutt & Jace Talk: Outro shoutouts [https://play.satisfactory.video/ts-953014105,5466.035973,5529.879459/](https://play.satisfactory.video/ts-953014105,5466.035973,5529.879459/)
+* Community FYI: The editor in me is so rock hard by these continuity details [https://play.satisfactory.video/ts-952893339,4208.962283,4225.153124/](https://play.satisfactory.video/ts-952893339,4208.962283,4225.153124/)
 
 ## March 16th, 2021 Livestream
 * Snutt & Jace Talk: A lot of people are asking Josh to come on [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14091&end=14122](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14091&end=14122)

@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Ben
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago [https://twitch.tv/videos/952893339?t=01h22m36s](https://twitch.tv/videos/952893339?t=01h22m36s)
+* Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago [https://play.satisfactory.video/ts-952893339,4956.002485,5033.081647/](https://play.satisfactory.video/ts-952893339,4956.002485,5033.081647/)
 
 ## February 23rd, 2021 Livestream
 * [Q&A: Did Ben bring up the missing stuff from the Modular Build this morning?](../../transcriptions/yt-ewC4sE7k7Uw.md) [https://www.youtube.com/watch?v=ewC4sE7k7Uw](https://www.youtube.com/watch?v=ewC4sE7k7Uw)

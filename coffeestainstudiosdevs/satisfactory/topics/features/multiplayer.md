@@ -6,7 +6,7 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Issues with the Zip Lines teaser & Update 4 Multiplayer improvements [https://twitch.tv/videos/953014105?t=00h58m50s](https://twitch.tv/videos/953014105?t=00h58m50s)
+* Snutt & Jace Talk: Issues with the Zip Lines teaser & Update 4 Multiplayer improvements [https://play.satisfactory.video/ts-953014105,3530.792889,3614.902872/](https://play.satisfactory.video/ts-953014105,3530.792889,3614.902872/)
 
 ## March 16th, 2021 Livestream
 * Mod highlight part 2 Q&A: Do mods work in Multiplayer? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11960&end=11980](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11960&end=11980)

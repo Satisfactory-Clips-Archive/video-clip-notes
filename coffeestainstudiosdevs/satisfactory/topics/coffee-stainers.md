@@ -26,8 +26,8 @@ date: Last Modified
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
 ## March 17th, 2021 Livestream
-* Q&A: Are you still involved in development, y'all seem way too cool to be engineers? [https://twitch.tv/videos/953014105?t=00h40m12s](https://twitch.tv/videos/953014105?t=00h40m12s)
-* Jace Talk: Showing the trailer off early [https://twitch.tv/videos/952893339?t=00h27m00s](https://twitch.tv/videos/952893339?t=00h27m00s)
+* Q&A: Are you still involved in development, y'all seem way too cool to be engineers? [https://play.satisfactory.video/ts-953014105,2412.850789,2441.496464/](https://play.satisfactory.video/ts-953014105,2412.850789,2441.496464/)
+* Jace Talk: Showing the trailer off early [https://play.satisfactory.video/ts-952893339,1620.331392,1664.580323/](https://play.satisfactory.video/ts-952893339,1620.331392,1664.580323/)
 
 ## March 16th, 2021 Livestream
 * Mod highlight part 2: Coffee Stain helped a lot in develping unofficial mod support [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10008&end=10124](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10008&end=10124)

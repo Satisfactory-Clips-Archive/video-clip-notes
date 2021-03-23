@@ -6,14 +6,14 @@ date: Last Modified
 
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 1) [https://twitch.tv/videos/952893339%2C5405.468767](https://twitch.tv/videos/952893339%2C5405.468767)
-* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 2) [https://twitch.tv/videos/953014105?t=00h00m22s](https://twitch.tv/videos/953014105?t=00h00m22s)
-* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 3) [https://twitch.tv/videos/953014105?t=00h02m59s](https://twitch.tv/videos/953014105?t=00h02m59s)
-* Q&A: Do we have purpose for drones? [https://twitch.tv/videos/953014105?t=00h02m48s](https://twitch.tv/videos/953014105?t=00h02m48s)
-* Snutt & Jace Talk: Drones previs [https://twitch.tv/videos/952893339?t=01h27m59s](https://twitch.tv/videos/952893339?t=01h27m59s)
-* Snutt & Jace Talk: Drones reveal [https://twitch.tv/videos/952893339?t=01h26m19s](https://twitch.tv/videos/952893339?t=01h26m19s)
-* Snutt & Jace Talk: Setting up the in-game Drone shots [https://twitch.tv/videos/953014105?t=00h08m30s](https://twitch.tv/videos/953014105?t=00h08m30s)
-* Snutt Talk: The VFX shot [https://twitch.tv/videos/952893339?t=00h28m39s](https://twitch.tv/videos/952893339?t=00h28m39s)
-* Q&A: Will the Drone fly through a mountain?? [https://twitch.tv/videos/953014105?t=00h09m48s](https://twitch.tv/videos/953014105?t=00h09m48s)
+* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 2) [https://play.satisfactory.video/ts-953014105,22.402188,168.109489/](https://play.satisfactory.video/ts-953014105,22.402188,168.109489/)
+* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 3) [https://play.satisfactory.video/ts-953014105,179.86667474693,357.06284/](https://play.satisfactory.video/ts-953014105,179.86667474693,357.06284/)
+* Q&A: Do we have purpose for drones? [https://play.satisfactory.video/ts-953014105,168.109489,179.880873/](https://play.satisfactory.video/ts-953014105,168.109489,179.880873/)
+* Snutt & Jace Talk: Drones previs [https://play.satisfactory.video/ts-952893339,5279.555337,5405.468767/](https://play.satisfactory.video/ts-952893339,5279.555337,5405.468767/)
+* Snutt & Jace Talk: Drones reveal [https://play.satisfactory.video/ts-952893339,5179.5003156307,5279.555337/](https://play.satisfactory.video/ts-952893339,5179.5003156307,5279.555337/)
+* Snutt & Jace Talk: Setting up the in-game Drone shots [https://play.satisfactory.video/ts-953014105,510.33335625936,585.268556/](https://play.satisfactory.video/ts-953014105,510.33335625936,585.268556/)
+* Snutt Talk: The VFX shot [https://play.satisfactory.video/ts-952893339,1719.427611,1858.877691/](https://play.satisfactory.video/ts-952893339,1719.427611,1858.877691/)
+* Q&A: Will the Drone fly through a mountain?? [https://play.satisfactory.video/ts-953014105,588.658222,618.601428/](https://play.satisfactory.video/ts-953014105,588.658222,618.601428/)
 
 ## March 16th, 2021 Livestream
 * Snutt & Jace Talk: Drone Fan Art [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313)

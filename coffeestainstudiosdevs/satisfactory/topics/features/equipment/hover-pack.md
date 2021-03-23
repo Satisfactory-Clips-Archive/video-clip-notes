@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: This segue is amazing [https://twitch.tv/videos/953014105?t=00h16m34s](https://twitch.tv/videos/953014105?t=00h16m34s)
+* Snutt & Jace Talk: This segue is amazing [https://play.satisfactory.video/ts-953014105,994.040447,1072.113841/](https://play.satisfactory.video/ts-953014105,994.040447,1072.113841/)
 
 ## March 16th, 2021 Livestream
 * [Hover Pack](../../../transcriptions/yt-Dp77ih_XmkY,468.081481,498.0833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=468&end=499](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=468&end=499)

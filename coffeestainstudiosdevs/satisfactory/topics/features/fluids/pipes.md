@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
 ## March 17th, 2021 Livestream
-* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://twitch.tv/videos/952893339?t=00h15m13s](https://twitch.tv/videos/952893339?t=00h15m13s)
+* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://play.satisfactory.video/ts-952893339,913.940124,950.272706/](https://play.satisfactory.video/ts-952893339,913.940124,950.272706/)
 
 ## February 23rd, 2021 Livestream
 * [Q&A: Where does the Space Elevator go?](../../../transcriptions/yt-g9FlxkN5dhc.md) [https://www.youtube.com/watch?v=g9FlxkN5dhc](https://www.youtube.com/watch?v=g9FlxkN5dhc)

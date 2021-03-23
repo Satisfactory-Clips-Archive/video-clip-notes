@@ -5,10 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Compositing the Lights Control Panel shot [https://twitch.tv/videos/952893339?t=01h21m46s](https://twitch.tv/videos/952893339?t=01h21m46s)
-* Community FYI: I like the new bigger stacks for some items [https://twitch.tv/videos/952893339?t=00h15m06s](https://twitch.tv/videos/952893339?t=00h15m06s)
-* Snutt & Jace Talk: Particle Accelerator power usage [https://twitch.tv/videos/953014105?t=01h16m26s](https://twitch.tv/videos/953014105?t=01h16m26s)
-* Snutt & Jace Talk: The end plate [https://twitch.tv/videos/953014105?t=01h32m09s](https://twitch.tv/videos/953014105?t=01h32m09s)
+* Snutt & Jace Talk: Compositing the Lights Control Panel shot [https://play.satisfactory.video/ts-952893339,4906.6669656713,4956.002485/](https://play.satisfactory.video/ts-952893339,4906.6669656713,4956.002485/)
+* Community FYI: I like the new bigger stacks for some items [https://play.satisfactory.video/ts-952893339,906.70005525289,911.087849/](https://play.satisfactory.video/ts-952893339,906.70005525289,911.087849/)
+* Snutt & Jace Talk: Particle Accelerator power usage [https://play.satisfactory.video/ts-953014105,4586.872127,4691.261352/](https://play.satisfactory.video/ts-953014105,4586.872127,4691.261352/)
+* Snutt & Jace Talk: The end plate [https://play.satisfactory.video/ts-953014105,5529.8669150883,5666.95273/](https://play.satisfactory.video/ts-953014105,5529.8669150883,5666.95273/)
 
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: Community spotted things in the Nuclear Refinement teaser](../../transcriptions/yt-0BtRlCxfxEc.md) [https://www.youtube.com/watch?v=0BtRlCxfxEc](https://www.youtube.com/watch?v=0BtRlCxfxEc)

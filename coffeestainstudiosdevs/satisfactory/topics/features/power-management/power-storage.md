@@ -5,8 +5,8 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Storage
 
 ## March 17th, 2021 Livestream
-* Jace Talk: Opinion- Power Storage justification & the Particle Accelerator [https://twitch.tv/videos/953014105?t=01h22m08s](https://twitch.tv/videos/953014105?t=01h22m08s)
-* Snutt & Jace Talk: Opinion on Power Storage [https://twitch.tv/videos/952893339?t=01h11m59s](https://twitch.tv/videos/952893339?t=01h11m59s)
+* Jace Talk: Opinion- Power Storage justification & the Particle Accelerator [https://play.satisfactory.video/ts-953014105,4928.57605,5009.502008/](https://play.satisfactory.video/ts-953014105,4928.57605,5009.502008/)
+* Snutt & Jace Talk: Opinion on Power Storage [https://play.satisfactory.video/ts-952893339,4319.605724,4394.66682/](https://play.satisfactory.video/ts-952893339,4319.605724,4394.66682/)
 
 ## March 16th, 2021 Livestream
 * [Geothermal is getting a change, too](../../../transcriptions/yt-Dp77ih_XmkY,307.5833333333333,319.2083333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320)
