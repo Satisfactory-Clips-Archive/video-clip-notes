@@ -23,8 +23,14 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Any plans on adding copy/pasting to the builder?](../../transcriptions/yt-oEjEowDbetQ.md) [https://www.youtube.com/watch?v=oEjEowDbetQ](https://www.youtube.com/watch?v=oEjEowDbetQ)
+* [Q&A: Can you make overclocking numbers more precise?](../../transcriptions/yt-D-aOy0Uia6Q.md) [https://www.youtube.com/watch?v=D-aOy0Uia6Q](https://www.youtube.com/watch?v=D-aOy0Uia6Q)
+* [Q&A: Will we ever see Mk.2 versions of the Constructor, Assembler, Refinery etc.?](../../transcriptions/yt-b9z-MopRxic.md) [https://www.youtube.com/watch?v=b9z-MopRxic](https://www.youtube.com/watch?v=b9z-MopRxic)
+* [Q&A: Will you fix Building's hitboxes, like the Space Elevator?](../../transcriptions/yt-3xNaIkGbGTM.md) [https://www.youtube.com/watch?v=3xNaIkGbGTM](https://www.youtube.com/watch?v=3xNaIkGbGTM)
+
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: The end plate [https://play.satisfactory.video/ts-953014105,5529.8669150883,5666.95273/](https://play.satisfactory.video/ts-953014105,5529.8669150883,5666.95273/)
+* Snutt & Jace Talk: The end plate [https://play.satisfactory.video/ts-953014105,5529.86691508835,5666.95273/](https://play.satisfactory.video/ts-953014105,5529.86691508835,5666.95273/)
 
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: New Nuclear](../../transcriptions/yt-aewjS8-zD80.md) [https://www.youtube.com/watch?v=aewjS8-zD80](https://www.youtube.com/watch?v=aewjS8-zD80)
@@ -178,7 +184,6 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Jace Talk: Space Elevator](../../transcriptions/yt-0P2A2UtY834.md) [https://www.youtube.com/watch?v=0P2A2UtY834](https://www.youtube.com/watch?v=0P2A2UtY834)
 * [Snutt Talk: Storage Containers](../../transcriptions/yt-oQfZtyxDIrE.md) [https://www.youtube.com/watch?v=oQfZtyxDIrE](https://www.youtube.com/watch?v=oQfZtyxDIrE)
-* [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../transcriptions/yt-Tit_bHzixmk.md) [https://www.youtube.com/watch?v=Tit_bHzixmk](https://www.youtube.com/watch?v=Tit_bHzixmk)
 
 ## February 20th, 2019 Livestream
 * [Q&A: Will the machinery still work if I'm not loading that particular tile?](../../transcriptions/yt-CB9bSigNYH8,2465.233333333333,2488.648026.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2465&end=2489](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2465&end=2489)

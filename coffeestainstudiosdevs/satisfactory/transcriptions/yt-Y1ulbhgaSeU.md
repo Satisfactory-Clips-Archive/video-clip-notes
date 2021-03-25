@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Broader Belts?
 https://www.youtube.com/watch?v=Y1ulbhgaSeU
-This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Mk.6 Belt in the next Update?](./yt-DpT2LNED0wk.md) [https://www.youtube.com/watch?v=DpT2LNED0wk](https://www.youtube.com/watch?v=DpT2LNED0wk)
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any chance of faster belts in the future?](./yt-Rv5-4k_ZzWU.md) [https://www.youtube.com/watch?v=Rv5-4k_ZzWU](https://www.youtube.com/watch?v=Rv5-4k_ZzWU)
 
 
 ### Topics

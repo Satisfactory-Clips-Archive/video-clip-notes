@@ -15,20 +15,24 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## March 23rd, 2021 Livestream
+* [Snutt Talk: Don't spam in chat](../transcriptions/yt-3rq5NDcvAHc.md) [https://www.youtube.com/watch?v=3rq5NDcvAHc](https://www.youtube.com/watch?v=3rq5NDcvAHc)
+* [Q&A: What is Love?](../transcriptions/yt-ZSFnn5PWzpU.md) [https://www.youtube.com/watch?v=ZSFnn5PWzpU](https://www.youtube.com/watch?v=ZSFnn5PWzpU)
+
 ## March 17th, 2021 Livestream
 * Community FYI: Cryin in the club WHAT GOOD BOYS [https://play.satisfactory.video/ts-953014105,6645.480554,6682.100549/](https://play.satisfactory.video/ts-953014105,6645.480554,6682.100549/)
 * Snutt & Jace Talk: Differences in corporate culture [https://play.satisfactory.video/ts-953014105,6279.594824,6629.446852/](https://play.satisfactory.video/ts-953014105,6279.594824,6629.446852/)
 * Snutt & Jace Talk: Drinking together on steam? [https://play.satisfactory.video/ts-953014105,6033.503958,6066.419816/](https://play.satisfactory.video/ts-953014105,6033.503958,6066.419816/)
-* Snutt & Jace Talk: I have to pee [https://play.satisfactory.video/ts-953014105,6997.2669810093,7143.139722/](https://play.satisfactory.video/ts-953014105,6997.2669810093,7143.139722/)
+* Snutt & Jace Talk: I have to pee [https://play.satisfactory.video/ts-953014105,6997.266981009285,7143.139722/](https://play.satisfactory.video/ts-953014105,6997.266981009285,7143.139722/)
 * Q&A: Jace are you going to start rock climbing? [https://play.satisfactory.video/ts-953014105,6845.267405,6893.148984/](https://play.satisfactory.video/ts-953014105,6845.267405,6893.148984/)
-* Snutt Talk: Memes on Josh's channel [https://play.satisfactory.video/ts-953014105,6657.5336324139,6673.903617/](https://play.satisfactory.video/ts-953014105,6657.5336324139,6673.903617/)
-* Snutt & Jace Talk: My beanie hit my eye and I got a shoey with a shoelace in this one [https://play.satisfactory.video/ts-953014105,5979.266935277,6033.503958/](https://play.satisfactory.video/ts-953014105,5979.266935277,6033.503958/)
+* Snutt Talk: Memes on Josh's channel [https://play.satisfactory.video/ts-953014105,6657.533632413896,6673.903617/](https://play.satisfactory.video/ts-953014105,6657.533632413896,6673.903617/)
+* Snutt & Jace Talk: My beanie hit my eye and I got a shoey with a shoelace in this one [https://play.satisfactory.video/ts-953014105,5979.266935277029,6033.503958/](https://play.satisfactory.video/ts-953014105,5979.266935277029,6033.503958/)
 * Snutt & Jace Talk: Neckbeard Viking [https://play.satisfactory.video/ts-953014105,7143.139722,7213.679317/](https://play.satisfactory.video/ts-953014105,7143.139722,7213.679317/)
 * Snutt & Jace Talk: Rock climbing [https://play.satisfactory.video/ts-953014105,6682.100549,6688.3802/](https://play.satisfactory.video/ts-953014105,6682.100549,6688.3802/)
-* Community FYI: Teach him Sara [https://play.satisfactory.video/ts-953014105,6890.2336428676,6943.688572/](https://play.satisfactory.video/ts-953014105,6890.2336428676,6943.688572/)
-* Jace Talk: Twitch doesn't count Raid views as channel views [https://play.satisfactory.video/ts-953014105,4139.8668526445,4223.71612/](https://play.satisfactory.video/ts-953014105,4139.8668526445,4223.71612/)
+* Community FYI: Teach him Sara [https://play.satisfactory.video/ts-953014105,6890.233642867625,6943.688572/](https://play.satisfactory.video/ts-953014105,6890.233642867625,6943.688572/)
+* Jace Talk: Twitch doesn't count Raid views as channel views [https://play.satisfactory.video/ts-953014105,4139.866852644504,4223.71612/](https://play.satisfactory.video/ts-953014105,4139.866852644504,4223.71612/)
 * Snutt & Jace Talk: What's a shoey? [https://play.satisfactory.video/ts-953014105,3939.917796,4032.820784/](https://play.satisfactory.video/ts-953014105,3939.917796,4032.820784/)
-* Q&A: Would you consider YouTube a valuable resource for learning Premiere [https://play.satisfactory.video/ts-952893339,4310.8002626935,4318.996324/](https://play.satisfactory.video/ts-952893339,4310.8002626935,4318.996324/)
+* Q&A: Would you consider YouTube a valuable resource for learning Premiere [https://play.satisfactory.video/ts-952893339,4310.800262693479,4318.996324/](https://play.satisfactory.video/ts-952893339,4310.800262693479,4318.996324/)
 
 ## March 16th, 2021 Livestream
 * Community FYI: Getting a DMCA by Nintendo [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6109&end=6131](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=6109&end=6131)

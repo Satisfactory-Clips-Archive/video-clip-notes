@@ -5,6 +5,7 @@ date: Last Modified
 # [Topics](../topics.md) > Retail
 * [Early Access](../topics/retail/early-access.md)
 * [Epic Store](../topics/retail/epic-store.md)
+* [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
 ## February 2nd, 2021 Livestream

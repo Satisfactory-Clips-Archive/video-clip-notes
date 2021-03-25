@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/uzu"
     - "community"
+    - "qa-site"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Jace Talk: Q&A Site
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=zpx-sze1Sxw
 ### Topics
 * [Coffee Stainers > Uzu](../topics/coffee-stainers/uzu.md)
 * [Community](../topics/community.md)
+* [QA Site](../topics/qa-site.md)
 
 ### Transcript
 

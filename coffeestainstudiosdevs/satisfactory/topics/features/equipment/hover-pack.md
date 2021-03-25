@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
+## March 23rd, 2021 Livestream
+* [Snutt Talk: Hover Pack](../../../transcriptions/yt-FA1JT6n44X4.md) [https://www.youtube.com/watch?v=FA1JT6n44X4](https://www.youtube.com/watch?v=FA1JT6n44X4)
+* [Q&A: Swap Drones with Hover Pack?](../../../transcriptions/yt-E_t6aUIA5Zk.md) [https://www.youtube.com/watch?v=E_t6aUIA5Zk](https://www.youtube.com/watch?v=E_t6aUIA5Zk)
+
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: This segue is amazing [https://play.satisfactory.video/ts-953014105,994.040447,1072.113841/](https://play.satisfactory.video/ts-953014105,994.040447,1072.113841/)
 

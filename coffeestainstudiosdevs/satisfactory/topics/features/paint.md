@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Paint
 
+## March 23rd, 2021 Livestream
+* [Q&A: In the video about the Engine Upgrade, Jace talked about the improvement of building painting?](../../transcriptions/yt-sc_p8BAXGEU.md) [https://www.youtube.com/watch?v=sc_p8BAXGEU](https://www.youtube.com/watch?v=sc_p8BAXGEU)
+* [Q&A: Will the Trains ever be paintable?](../../transcriptions/yt-L2-j0MZepbI.md) [https://www.youtube.com/watch?v=L2-j0MZepbI](https://www.youtube.com/watch?v=L2-j0MZepbI)
+
 ## February 9th, 2021 Livestream
 * [Q&A: Can we paint Lizard Doggos in Update 4?](../../transcriptions/yt-DQukmGvnZbE.md) [https://www.youtube.com/watch?v=DQukmGvnZbE](https://www.youtube.com/watch?v=DQukmGvnZbE)
 

@@ -5,6 +5,12 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## March 23rd, 2021 Livestream
+* Community FYI: I've noticed that vehicles drive a lot better as the not-host [https://www.youtube.com/watch?v=VwU9RL_CvLg](https://www.youtube.com/watch?v=VwU9RL_CvLg)
+* [Q&A: No hard drives for clients though?](../../transcriptions/yt-h9PeqJoWnIQ.md) [https://www.youtube.com/watch?v=h9PeqJoWnIQ](https://www.youtube.com/watch?v=h9PeqJoWnIQ)
+* [Q&A: Pause keybind when?](../../transcriptions/yt-2dCCPHV_fSk.md) [https://www.youtube.com/watch?v=2dCCPHV_fSk](https://www.youtube.com/watch?v=2dCCPHV_fSk)
+* [Q&A: There's a pause?](../../transcriptions/yt-VLSmQSlinEU.md) [https://www.youtube.com/watch?v=VLSmQSlinEU](https://www.youtube.com/watch?v=VLSmQSlinEU)
+
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: Issues with the Zip Lines teaser & Update 4 Multiplayer improvements [https://play.satisfactory.video/ts-953014105,3530.792889,3614.902872/](https://play.satisfactory.video/ts-953014105,3530.792889,3614.902872/)
 

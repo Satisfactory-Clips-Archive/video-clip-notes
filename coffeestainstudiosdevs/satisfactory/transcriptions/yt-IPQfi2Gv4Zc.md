@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: When is 1.0 coming?
 https://www.youtube.com/watch?v=IPQfi2Gv4Zc
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: What's the chance that the game will be released this year?](./yt-W2O4gfNYj9s.md) [https://www.youtube.com/watch?v=W2O4gfNYj9s](https://www.youtube.com/watch?v=W2O4gfNYj9s)
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any ETA on Launch?](./yt-aP6v6JbuHTk.md) [https://www.youtube.com/watch?v=aP6v6JbuHTk](https://www.youtube.com/watch?v=aP6v6JbuHTk)
 
 
 ### Topics

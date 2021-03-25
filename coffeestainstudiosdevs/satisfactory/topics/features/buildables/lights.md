@@ -4,8 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## March 23rd, 2021 Livestream
+* [Community FYI: 200fps Lighting bug is fixed](../../../transcriptions/yt-oUEubST5cWM.md) [https://www.youtube.com/watch?v=oUEubST5cWM](https://www.youtube.com/watch?v=oUEubST5cWM)
+* [Q&A: Do Lights actually cost Power?](../../../transcriptions/yt-DYVLJV-KblM.md) [https://www.youtube.com/watch?v=DYVLJV-KblM](https://www.youtube.com/watch?v=DYVLJV-KblM)
+
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Compositing the Lights Control Panel shot [https://play.satisfactory.video/ts-952893339,4906.6669656713,4956.002485/](https://play.satisfactory.video/ts-952893339,4906.6669656713,4956.002485/)
+* Snutt & Jace Talk: Compositing the Lights Control Panel shot [https://play.satisfactory.video/ts-952893339,4906.666965671338,4956.002485/](https://play.satisfactory.video/ts-952893339,4906.666965671338,4956.002485/)
 * Q&A: Do we have lights though? really? [https://play.satisfactory.video/ts-952893339,836.219711,838.7263/](https://play.satisfactory.video/ts-952893339,836.219711,838.7263/)
 * Snutt & Jace Talk: Lights reveal [https://play.satisfactory.video/ts-952893339,4531.470572,4862.147916/](https://play.satisfactory.video/ts-952893339,4531.470572,4862.147916/)
 * Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://play.satisfactory.video/ts-952893339,748.356245,772.32785/](https://play.satisfactory.video/ts-952893339,748.356245,772.32785/)

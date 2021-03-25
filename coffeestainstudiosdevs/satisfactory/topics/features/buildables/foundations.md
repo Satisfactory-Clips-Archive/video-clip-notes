@@ -4,6 +4,18 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 
+## March 23rd, 2021 Livestream
+* [Q&A: Any news on Walls that would fit on ramps?](../../../transcriptions/yt-96m9d5aWQtY.md) [https://www.youtube.com/watch?v=96m9d5aWQtY](https://www.youtube.com/watch?v=96m9d5aWQtY)
+* [Q&A: Any plans on adding fences for ramps?](../../../transcriptions/yt-cXFXfI1lRDs.md) [https://www.youtube.com/watch?v=cXFXfI1lRDs](https://www.youtube.com/watch?v=cXFXfI1lRDs)
+* [Q&A: Are you still working on Glass optimisations?](../../../transcriptions/yt-jE0Fm11bEZk.md) [https://www.youtube.com/watch?v=jE0Fm11bEZk](https://www.youtube.com/watch?v=jE0Fm11bEZk)
+* [Q&A: Can we get Foundations for sharper angles?](../../../transcriptions/yt-jqjy4GtYijk.md) [https://www.youtube.com/watch?v=jqjy4GtYijk](https://www.youtube.com/watch?v=jqjy4GtYijk)
+* [Q&A: Can you cover the guy who placed 178 thousand foundations?](../../../transcriptions/yt-zT2Lz_L4zQY.md) [https://www.youtube.com/watch?v=zT2Lz_L4zQY](https://www.youtube.com/watch?v=zT2Lz_L4zQY)
+* [Snutt Talk: Cheatcrete](../../../transcriptions/yt-N9snkz6pLMQ.md) [https://www.youtube.com/watch?v=N9snkz6pLMQ](https://www.youtube.com/watch?v=N9snkz6pLMQ)
+* [Q&A: Multiple Foundation placing instead of one-by-one?](../../../transcriptions/yt-YJLWX_-_trA.md) [https://www.youtube.com/watch?v=YJLWX_-_trA](https://www.youtube.com/watch?v=YJLWX_-_trA)
+* [Q&A: What was the accidental bug fix?](../../../transcriptions/yt-p9mxgfXyQaM.md) [https://www.youtube.com/watch?v=p9mxgfXyQaM](https://www.youtube.com/watch?v=p9mxgfXyQaM)
+* [Q&A: Will there be more Foundation variation?](../../../transcriptions/yt-shfD1zV9iZs.md) [https://www.youtube.com/watch?v=shfD1zV9iZs](https://www.youtube.com/watch?v=shfD1zV9iZs)
+* [Q&A: Will there ever be a limitation to floating foundations in the air?](../../../transcriptions/yt-ryFai7jtoKY.md) [https://www.youtube.com/watch?v=ryFai7jtoKY](https://www.youtube.com/watch?v=ryFai7jtoKY)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Will we ever get perfect half Foundations?](../../../transcriptions/yt-ST1-4v5RMPQ.md) [https://www.youtube.com/watch?v=ST1-4v5RMPQ](https://www.youtube.com/watch?v=ST1-4v5RMPQ)
 

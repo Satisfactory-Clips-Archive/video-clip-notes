@@ -8,7 +8,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Do we have an idea of the full release?
 https://www.youtube.com/watch?v=WoWR5Xsuav8
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: What's the chance that the game will be released this year?](./yt-W2O4gfNYj9s.md) [https://www.youtube.com/watch?v=W2O4gfNYj9s](https://www.youtube.com/watch?v=W2O4gfNYj9s)
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any ETA on Launch?](./yt-aP6v6JbuHTk.md) [https://www.youtube.com/watch?v=aP6v6JbuHTk](https://www.youtube.com/watch?v=aP6v6JbuHTk)
 
 
 ### Topics

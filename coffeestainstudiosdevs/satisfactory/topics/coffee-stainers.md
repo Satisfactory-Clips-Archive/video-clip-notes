@@ -25,6 +25,9 @@ date: Last Modified
 * [Tim](../topics/coffee-stainers/tim.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Have you guys considered writing/vlogging more about the technical sides of development?](../transcriptions/yt-gKZmQ7vZZbU.md) [https://www.youtube.com/watch?v=gKZmQ7vZZbU](https://www.youtube.com/watch?v=gKZmQ7vZZbU)
+
 ## March 17th, 2021 Livestream
 * Q&A: Are you still involved in development, y'all seem way too cool to be engineers? [https://play.satisfactory.video/ts-953014105,2412.850789,2441.496464/](https://play.satisfactory.video/ts-953014105,2412.850789,2441.496464/)
 * Jace Talk: Showing the trailer off early [https://play.satisfactory.video/ts-952893339,1620.331392,1664.580323/](https://play.satisfactory.video/ts-952893339,1620.331392,1664.580323/)

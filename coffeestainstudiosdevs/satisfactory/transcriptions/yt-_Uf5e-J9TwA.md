@@ -9,12 +9,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Can we add Solar Power?
 https://www.youtube.com/watch?v=_Uf5e-J9TwA
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as October 2020 and as early as August 2020.</summary>
-
-* [October 20th, 2020 Livestream Q&A: Solar Panels?](./yt-zpNZHeAOoQE.md) [https://www.youtube.com/watch?v=zpNZHeAOoQE](https://www.youtube.com/watch?v=zpNZHeAOoQE)
-* [August 25th, 2020 Livestream Q&A: Why are there no Solar Panels ?](./yt-C1XaJJmvg1M.md) [https://www.youtube.com/watch?v=C1XaJJmvg1M](https://www.youtube.com/watch?v=C1XaJJmvg1M)
-</details>
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Solar panel? [https://www.youtube.com/watch?v=pnqysWUuGhM](https://www.youtube.com/watch?v=pnqysWUuGhM)
 
 
 ### Topics

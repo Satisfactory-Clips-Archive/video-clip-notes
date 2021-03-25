@@ -9,7 +9,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Berry Farming?
 https://www.youtube.com/watch?v=2Cq3xmLN8sQ
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is there a plan to let us grow food in some way?](./yt-axNVUjsuMwo.md) [https://www.youtube.com/watch?v=axNVUjsuMwo](https://www.youtube.com/watch?v=axNVUjsuMwo)
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will there ever be Farming in the game?](./yt-o2GDy5QKSfQ.md) [https://www.youtube.com/watch?v=o2GDy5QKSfQ](https://www.youtube.com/watch?v=o2GDy5QKSfQ)
 
 
 ### Topics

@@ -3,14 +3,14 @@ title: "October 20th, 2020 Livestream Snutt Talk: Q&A Site Bug"
 date: "2020-10-20"
 layout: transcript
 topics:
-    - ""
+    - "qa-site"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Snutt Talk: Q&A Site Bug
 https://www.youtube.com/watch?v=OwboP_m9LLg
 
 ### Topics
-
+* [QA Site](../topics/qa-site.md)
 
 ### Transcript
 

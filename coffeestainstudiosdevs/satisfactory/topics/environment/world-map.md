@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## March 23rd, 2021 Livestream
+* [Q&A: Any plans to release a Map Editor?](../../transcriptions/yt-5qoXAwqaGWA.md) [https://www.youtube.com/watch?v=5qoXAwqaGWA](https://www.youtube.com/watch?v=5qoXAwqaGWA)
+* [Q&A: Can we destroy or remove drop pods after Hard Drive collection?](../../transcriptions/yt-9_BZvuAoyUI.md) [https://www.youtube.com/watch?v=9_BZvuAoyUI](https://www.youtube.com/watch?v=9_BZvuAoyUI)
+* Q&A: Why does the Map look like Spain? [https://www.youtube.com/watch?v=DvhDthCbCtU](https://www.youtube.com/watch?v=DvhDthCbCtU)
+
 ## March 17th, 2021 Livestream
 * Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video? [https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/](https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/)
 

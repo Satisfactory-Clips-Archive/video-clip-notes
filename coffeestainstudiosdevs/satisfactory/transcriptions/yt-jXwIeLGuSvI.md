@@ -9,7 +9,7 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Planet has floating rocks, is not bound by Earth physics?
 https://www.youtube.com/watch?v=jXwIeLGuSvI
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Planning on making any space stuff?](./yt-pYPBpZdBvP4.md) [https://www.youtube.com/watch?v=pYPBpZdBvP4](https://www.youtube.com/watch?v=pYPBpZdBvP4)
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: When can we go to space?](./yt-eL7PT4_wRmY.md) [https://www.youtube.com/watch?v=eL7PT4_wRmY](https://www.youtube.com/watch?v=eL7PT4_wRmY)
 
 
 ### Topics

@@ -7,6 +7,9 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Hard Mode?](../../../transcriptions/yt-dUS1wSorYGA.md) [https://www.youtube.com/watch?v=dUS1wSorYGA](https://www.youtube.com/watch?v=dUS1wSorYGA)
+
 ## February 9th, 2021 Livestream
 * [Q&A: Are you adding a Hard Mode?](../../../transcriptions/yt-e97jfbPmKeY.md) [https://www.youtube.com/watch?v=e97jfbPmKeY](https://www.youtube.com/watch?v=e97jfbPmKeY)
 * [Q&A: Hard Mode where Machines break down?](../../../transcriptions/yt-n6Wck4EawK0.md) [https://www.youtube.com/watch?v=n6Wck4EawK0](https://www.youtube.com/watch?v=n6Wck4EawK0)

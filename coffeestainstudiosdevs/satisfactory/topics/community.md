@@ -14,13 +14,19 @@ date: Last Modified
 * [Smerkin](../topics/community/smerkin.md)
 * [Wiki](../topics/community/wiki.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Can you cover the guy who placed 178 thousand foundations?](../transcriptions/yt-zT2Lz_L4zQY.md) [https://www.youtube.com/watch?v=zT2Lz_L4zQY](https://www.youtube.com/watch?v=zT2Lz_L4zQY)
+* Community FYI: I've noticed that vehicles drive a lot better as the not-host [https://www.youtube.com/watch?v=VwU9RL_CvLg](https://www.youtube.com/watch?v=VwU9RL_CvLg)
+* [Community FYI: The game is good, I have nothing to ask](../transcriptions/yt-dO6aZKbhGpo.md) [https://www.youtube.com/watch?v=dO6aZKbhGpo](https://www.youtube.com/watch?v=dO6aZKbhGpo)
+* Community FYI: You will not read this [https://www.youtube.com/watch?v=XjhrmxAkuLE](https://www.youtube.com/watch?v=XjhrmxAkuLE)
+
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: Community responses to the Patch Notes video [https://play.satisfactory.video/ts-953014105,5733.011294,5754.674264/](https://play.satisfactory.video/ts-953014105,5733.011294,5754.674264/)
 * Community FYI: Cryin in the club WHAT GOOD BOYS [https://play.satisfactory.video/ts-953014105,6645.480554,6682.100549/](https://play.satisfactory.video/ts-953014105,6645.480554,6682.100549/)
 * Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 1) [https://play.satisfactory.video/ts-953014105,4690.936146,4928.57605/](https://play.satisfactory.video/ts-953014105,4690.936146,4928.57605/)
 * Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 2) [https://play.satisfactory.video/ts-953014105,6078.692041,6279.594824/](https://play.satisfactory.video/ts-953014105,6078.692041,6279.594824/)
 * Snutt & Jace Talk: Lights reveal [https://play.satisfactory.video/ts-952893339,4531.470572,4862.147916/](https://play.satisfactory.video/ts-952893339,4531.470572,4862.147916/)
-* Community FYI: Teach him Sara [https://play.satisfactory.video/ts-953014105,6890.2336428676,6943.688572/](https://play.satisfactory.video/ts-953014105,6890.2336428676,6943.688572/)
+* Community FYI: Teach him Sara [https://play.satisfactory.video/ts-953014105,6890.233642867625,6943.688572/](https://play.satisfactory.video/ts-953014105,6890.233642867625,6943.688572/)
 
 ## March 16th, 2021 Livestream
 * Mod highlight part 2 Q&A: Anything you want to say before we start the modding demo? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986)

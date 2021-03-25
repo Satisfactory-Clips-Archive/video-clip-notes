@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
 
+## March 23rd, 2021 Livestream
+* [Q&A: Is Plutonium Fuel Rods intended to be sunk?](../../../../transcriptions/yt-VDLkcw7O-UU.md) [https://www.youtube.com/watch?v=VDLkcw7O-UU](https://www.youtube.com/watch?v=VDLkcw7O-UU)
+* [Community FYI: No discussion, keep it](../../../../transcriptions/yt-_zExL0I3IjE.md) [https://www.youtube.com/watch?v=_zExL0I3IjE](https://www.youtube.com/watch?v=_zExL0I3IjE)
+* [Q&A: Plutonium Fuel Rods sinkable, bug or not?](../../../../transcriptions/yt-GIu2nOpQUCQ.md) [https://www.youtube.com/watch?v=GIu2nOpQUCQ](https://www.youtube.com/watch?v=GIu2nOpQUCQ)
+* [Snutt Talk: Update 4 Plutonium Rebalancing](../../../../transcriptions/yt-kUZOFrRXmzw.md) [https://www.youtube.com/watch?v=kUZOFrRXmzw](https://www.youtube.com/watch?v=kUZOFrRXmzw)
+
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: #WeWantDoors](../../../../transcriptions/yt-UINcRavrC5Y.md) [https://www.youtube.com/watch?v=UINcRavrC5Y](https://www.youtube.com/watch?v=UINcRavrC5Y)
 * [Snutt & Jace Talk: Community figured out the Nuclear Refinement recipes](../../../../transcriptions/yt-b1zq4fwxmsU.md) [https://www.youtube.com/watch?v=b1zq4fwxmsU](https://www.youtube.com/watch?v=b1zq4fwxmsU)

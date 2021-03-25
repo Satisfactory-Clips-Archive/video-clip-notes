@@ -4,14 +4,23 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## March 23rd, 2021 Livestream
+* [Community FYI: Can't wait for Drones and Water Extractors in EA, this is a great Update](../../../../transcriptions/yt-UnQrLUVfwuI.md) [https://www.youtube.com/watch?v=UnQrLUVfwuI](https://www.youtube.com/watch?v=UnQrLUVfwuI)
+* [Q&A: Swap Drones with Hover Pack?](../../../../transcriptions/yt-E_t6aUIA5Zk.md) [https://www.youtube.com/watch?v=E_t6aUIA5Zk](https://www.youtube.com/watch?v=E_t6aUIA5Zk)
+* [Q&A: When are Mk.2 Drones coming out?](../../../../transcriptions/yt-ykbt3XMUIus.md) [https://www.youtube.com/watch?v=ykbt3XMUIus](https://www.youtube.com/watch?v=ykbt3XMUIus)
+* [Q&A: Why to Drones have jet thrusters when they only consume Batteries?](../../../../transcriptions/yt-ALrzPviod04.md) [https://www.youtube.com/watch?v=ALrzPviod04](https://www.youtube.com/watch?v=ALrzPviod04)
+* [Q&A: Will there be any improvements for Drone Ports?](../../../../transcriptions/yt-IMkdm7T3SDo.md) [https://www.youtube.com/watch?v=IMkdm7T3SDo](https://www.youtube.com/watch?v=IMkdm7T3SDo)
+* [Community FYI: Yes you did](../../../../transcriptions/yt-08O7dRyOYy0.md) [https://www.youtube.com/watch?v=08O7dRyOYy0](https://www.youtube.com/watch?v=08O7dRyOYy0)
+* [Q&A: You said "Never" for Pipes, Drones, and many other things too.](../../../../transcriptions/yt-Xeg3Ljqen7M.md) [https://www.youtube.com/watch?v=Xeg3Ljqen7M](https://www.youtube.com/watch?v=Xeg3Ljqen7M)
+
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 1) [https://twitch.tv/videos/952893339%2C5405.468767](https://twitch.tv/videos/952893339%2C5405.468767)
 * Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 2) [https://play.satisfactory.video/ts-953014105,22.402188,168.109489/](https://play.satisfactory.video/ts-953014105,22.402188,168.109489/)
-* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 3) [https://play.satisfactory.video/ts-953014105,179.86667474693,357.06284/](https://play.satisfactory.video/ts-953014105,179.86667474693,357.06284/)
+* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 3) [https://play.satisfactory.video/ts-953014105,179.86667474693022,357.06284/](https://play.satisfactory.video/ts-953014105,179.86667474693022,357.06284/)
 * Q&A: Do we have purpose for drones? [https://play.satisfactory.video/ts-953014105,168.109489,179.880873/](https://play.satisfactory.video/ts-953014105,168.109489,179.880873/)
 * Snutt & Jace Talk: Drones previs [https://play.satisfactory.video/ts-952893339,5279.555337,5405.468767/](https://play.satisfactory.video/ts-952893339,5279.555337,5405.468767/)
-* Snutt & Jace Talk: Drones reveal [https://play.satisfactory.video/ts-952893339,5179.5003156307,5279.555337/](https://play.satisfactory.video/ts-952893339,5179.5003156307,5279.555337/)
-* Snutt & Jace Talk: Setting up the in-game Drone shots [https://play.satisfactory.video/ts-953014105,510.33335625936,585.268556/](https://play.satisfactory.video/ts-953014105,510.33335625936,585.268556/)
+* Snutt & Jace Talk: Drones reveal [https://play.satisfactory.video/ts-952893339,5179.500315630713,5279.555337/](https://play.satisfactory.video/ts-952893339,5179.500315630713,5279.555337/)
+* Snutt & Jace Talk: Setting up the in-game Drone shots [https://play.satisfactory.video/ts-953014105,510.3333562593591,585.268556/](https://play.satisfactory.video/ts-953014105,510.3333562593591,585.268556/)
 * Snutt Talk: The VFX shot [https://play.satisfactory.video/ts-952893339,1719.427611,1858.877691/](https://play.satisfactory.video/ts-952893339,1719.427611,1858.877691/)
 * Q&A: Will the Drone fly through a mountain?? [https://play.satisfactory.video/ts-953014105,588.658222,618.601428/](https://play.satisfactory.video/ts-953014105,588.658222,618.601428/)
 

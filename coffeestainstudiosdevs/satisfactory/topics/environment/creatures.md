@@ -9,6 +9,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Can we get a way for farming Spiders?](../../transcriptions/yt-0G4J7VdldKI.md) [https://www.youtube.com/watch?v=0G4J7VdldKI](https://www.youtube.com/watch?v=0G4J7VdldKI)
+* Community FYI: The spider noises still make my skin crawl [https://www.youtube.com/watch?v=Cj0CNIler5s](https://www.youtube.com/watch?v=Cj0CNIler5s)
+
 ## March 16th, 2021 Livestream
 * Snutt & Jace Talk: Lizard Doggo & real-life doggo pathfinding [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=1603&end=1677](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=1603&end=1677)
 

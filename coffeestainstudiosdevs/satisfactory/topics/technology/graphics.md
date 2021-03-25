@@ -6,6 +6,12 @@ date: Last Modified
 * [DLSS](../../topics/technology/graphics/dlss.md)
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Are you still working on Glass optimisations?](../../transcriptions/yt-jE0Fm11bEZk.md) [https://www.youtube.com/watch?v=jE0Fm11bEZk](https://www.youtube.com/watch?v=jE0Fm11bEZk)
+* [Q&A: Items on belts labelled "Albedo" are going to have fancy reflections?](../../transcriptions/yt-euC11282Qo0.md) [https://www.youtube.com/watch?v=euC11282Qo0](https://www.youtube.com/watch?v=euC11282Qo0)
+* [Q&A: Rendering bug from Conveyor Belts?](../../transcriptions/yt-jxIS1yv7flM.md) [https://www.youtube.com/watch?v=jxIS1yv7flM](https://www.youtube.com/watch?v=jxIS1yv7flM)
+* [Q&A: What does "Albedo" mean?](../../transcriptions/yt-oNObAw-Kryw.md) [https://www.youtube.com/watch?v=oNObAw-Kryw](https://www.youtube.com/watch?v=oNObAw-Kryw)
+
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: I hate this shot [https://play.satisfactory.video/ts-952893339,4127.909474,4173.41148/](https://play.satisfactory.video/ts-952893339,4127.909474,4173.41148/)
 

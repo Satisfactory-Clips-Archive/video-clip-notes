@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Mass Building
 
+## March 23rd, 2021 Livestream
+* [Q&A: Multiple Foundation placing instead of one-by-one?](../../../transcriptions/yt-YJLWX_-_trA.md) [https://www.youtube.com/watch?v=YJLWX_-_trA](https://www.youtube.com/watch?v=YJLWX_-_trA)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: You've said in the past that Foundations underneath the map has been a contributing factor?](../../../transcriptions/yt-SWLzazuKh4g.md) [https://www.youtube.com/watch?v=SWLzazuKh4g](https://www.youtube.com/watch?v=SWLzazuKh4g)
 

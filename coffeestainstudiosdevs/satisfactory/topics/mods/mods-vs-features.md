@@ -4,8 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## March 23rd, 2021 Livestream
+* [Q&A: Any mods you want to add to vanilla at some stage?](../../transcriptions/yt-mH06GfDfnQc.md) [https://www.youtube.com/watch?v=mH06GfDfnQc](https://www.youtube.com/watch?v=mH06GfDfnQc)
+* [Q&A: I like the MK+ mod, any plan to make it in vanilla?](../../transcriptions/yt-EcuPtUGKdBc.md) [https://www.youtube.com/watch?v=EcuPtUGKdBc](https://www.youtube.com/watch?v=EcuPtUGKdBc)
+* [Q&A: Modular equipment, maybe?](../../transcriptions/yt-ocs3_2F-sNs.md) [https://www.youtube.com/watch?v=ocs3_2F-sNs](https://www.youtube.com/watch?v=ocs3_2F-sNs)
+
 ## March 17th, 2021 Livestream
-* Community FYI: CSS has now just descended to copying mods I see. [https://play.satisfactory.video/ts-952893339,666.7667072984,689.912154/](https://play.satisfactory.video/ts-952893339,666.7667072984,689.912154/)
+* Community FYI: CSS has now just descended to copying mods I see. [https://play.satisfactory.video/ts-952893339,666.7667072983953,689.912154/](https://play.satisfactory.video/ts-952893339,666.7667072983953,689.912154/)
 * Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://play.satisfactory.video/ts-952893339,748.356245,772.32785/](https://play.satisfactory.video/ts-952893339,748.356245,772.32785/)
 * Community FYI: What do you mean "has now" - they've been doing it for years. [https://play.satisfactory.video/ts-952893339,698.487301,717.498298/](https://play.satisfactory.video/ts-952893339,698.487301,717.498298/)
 

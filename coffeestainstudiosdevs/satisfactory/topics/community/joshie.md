@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Joshie
 
+## March 23rd, 2021 Livestream
+* [Q&A: Why are puns bannable?](../../transcriptions/yt--lK9z79JdlQ.md) [https://www.youtube.com/watch?v=-lK9z79JdlQ](https://www.youtube.com/watch?v=-lK9z79JdlQ)
+
 ## February 16th, 2021 Livestream
 * [Jace Talk: The terrible jokes just keep coming](../../transcriptions/yt-BweIovquOjg.md) [https://www.youtube.com/watch?v=BweIovquOjg](https://www.youtube.com/watch?v=BweIovquOjg)
 

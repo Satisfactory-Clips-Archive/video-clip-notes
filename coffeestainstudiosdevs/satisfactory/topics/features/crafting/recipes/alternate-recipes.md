@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## March 23rd, 2021 Livestream
+* [Snutt Talk: Possible Recipe and Alt Recipe Rebalances](../../../../transcriptions/yt-PYxjvW8wkJ4.md) [https://www.youtube.com/watch?v=PYxjvW8wkJ4](https://www.youtube.com/watch?v=PYxjvW8wkJ4)
+
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: Can't remember of Turbofuel has changed](../../../../transcriptions/yt-tGsaRAqAAsk.md) [https://www.youtube.com/watch?v=tGsaRAqAAsk](https://www.youtube.com/watch?v=tGsaRAqAAsk)
 

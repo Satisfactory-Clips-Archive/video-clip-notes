@@ -9,13 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Walls/barriers that follow the incline of Foundation?
 https://www.youtube.com/watch?v=UK0P7CWe1V4
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as December 2020 and as early as November 2020.</summary>
-
-* [December 15th, 2020 Livestream Q&A: Walls & Handrails, be able to place like Pipes?](./yt-LFH3YB0pV24.md) [https://www.youtube.com/watch?v=LFH3YB0pV24](https://www.youtube.com/watch?v=LFH3YB0pV24)
-* [November 24th, 2020 Livestream Q&A: When are diagonal Walls coming?](./yt-0-3ITfkBKZw.md) [https://www.youtube.com/watch?v=0-3ITfkBKZw](https://www.youtube.com/watch?v=0-3ITfkBKZw)
-* [November 17th, 2020 Livestream Q&A: Can we get an update on Walls?](./yt-ZpYMIZFGegw.md) [https://www.youtube.com/watch?v=ZpYMIZFGegw](https://www.youtube.com/watch?v=ZpYMIZFGegw)
-</details>
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any plans on adding fences for ramps?](./yt-cXFXfI1lRDs.md) [https://www.youtube.com/watch?v=cXFXfI1lRDs](https://www.youtube.com/watch?v=cXFXfI1lRDs)
 
 
 ### Topics

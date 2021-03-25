@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## March 23rd, 2021 Livestream
+* [Q&A: What was the accidental bug fix?](../../transcriptions/yt-p9mxgfXyQaM.md) [https://www.youtube.com/watch?v=p9mxgfXyQaM](https://www.youtube.com/watch?v=p9mxgfXyQaM)
+* [Q&A: Will there ever be a limitation to floating foundations in the air?](../../transcriptions/yt-ryFai7jtoKY.md) [https://www.youtube.com/watch?v=ryFai7jtoKY](https://www.youtube.com/watch?v=ryFai7jtoKY)
+* [Q&A: Will you fix Building's hitboxes, like the Space Elevator?](../../transcriptions/yt-3xNaIkGbGTM.md) [https://www.youtube.com/watch?v=3xNaIkGbGTM](https://www.youtube.com/watch?v=3xNaIkGbGTM)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Coffee physics?](../../transcriptions/yt-LjCbSSlwrTo.md) [https://www.youtube.com/watch?v=LjCbSSlwrTo](https://www.youtube.com/watch?v=LjCbSSlwrTo)
 * [Q&A: Will Foundations be falling down from non-supported beams?](../../transcriptions/yt-lxpA6PIJEbo.md) [https://www.youtube.com/watch?v=lxpA6PIJEbo](https://www.youtube.com/watch?v=lxpA6PIJEbo)

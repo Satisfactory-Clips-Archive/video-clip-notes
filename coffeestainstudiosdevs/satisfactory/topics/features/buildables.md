@@ -9,6 +9,7 @@ date: Last Modified
 * [Ladders](../../topics/features/buildables/ladders.md)
 * [Lights](../../topics/features/buildables/lights.md)
 * [Storage Containers](../../topics/features/buildables/storage-containers.md)
+* [Walkways](../../topics/features/buildables/walkways.md)
 * [Walls](../../topics/features/buildables/walls.md)
 
 ## February 20th, 2019 Livestream

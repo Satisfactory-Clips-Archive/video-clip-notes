@@ -4,8 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## March 23rd, 2021 Livestream
+* [Q&A: How scared of you of the next Let's Game It Out video?](../../transcriptions/yt-8sbjtuLdwbA.md) [https://www.youtube.com/watch?v=8sbjtuLdwbA](https://www.youtube.com/watch?v=8sbjtuLdwbA)
+
 ## March 17th, 2021 Livestream
-* Snutt Talk: Memes on Josh's channel [https://play.satisfactory.video/ts-953014105,6657.5336324139,6673.903617/](https://play.satisfactory.video/ts-953014105,6657.5336324139,6673.903617/)
+* Snutt Talk: Memes on Josh's channel [https://play.satisfactory.video/ts-953014105,6657.533632413896,6673.903617/](https://play.satisfactory.video/ts-953014105,6657.533632413896,6673.903617/)
 * Snutt & Jace Talk: Outro shoutouts [https://play.satisfactory.video/ts-953014105,5466.035973,5529.879459/](https://play.satisfactory.video/ts-953014105,5466.035973,5529.879459/)
 * Community FYI: The editor in me is so rock hard by these continuity details [https://play.satisfactory.video/ts-952893339,4208.962283,4225.153124/](https://play.satisfactory.video/ts-952893339,4208.962283,4225.153124/)
 

@@ -10,7 +10,7 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Will we get two character slots for Jetpacks and Blade Runners
 https://www.youtube.com/watch?v=YKIN_NCGDpo
-This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Will we ever get a second body slot?](./yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Do you ever think you'll give us more than one Body Slot?](./yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
 
 
 ### Topics

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Tractor
 
+## March 23rd, 2021 Livestream
+* [Q&A: Will we get a Truck & Tractor ghosting fix soon?](../../../../transcriptions/yt-SU1kBDjZGhM.md) [https://www.youtube.com/watch?v=SU1kBDjZGhM](https://www.youtube.com/watch?v=SU1kBDjZGhM)
+
 ## January 19th, 2021 Livestream
 * [Q&A: Jace mentioned Nitric Acid, will Nitrous Oxide be used for Tractors or Rocket Fuel?](../../../../transcriptions/yt-wEzD5wugI4Y.md) [https://www.youtube.com/watch?v=wEzD5wugI4Y](https://www.youtube.com/watch?v=wEzD5wugI4Y)
 

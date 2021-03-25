@@ -3,14 +3,14 @@ title: "November 3rd, 2020 Livestream Jace Talk: Questions & Suggestions"
 date: "2020-11-03"
 layout: transcript
 topics:
-    - ""
+    - "qa-site"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Jace Talk: Questions & Suggestions
 https://www.youtube.com/watch?v=uGdC1rBQyv0
 
 ### Topics
-
+* [QA Site](../topics/qa-site.md)
 
 ### Transcript
 

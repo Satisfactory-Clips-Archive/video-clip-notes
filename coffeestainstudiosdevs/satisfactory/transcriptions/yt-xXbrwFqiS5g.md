@@ -9,6 +9,8 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Lights & Lampposts please?
 https://www.youtube.com/watch?v=xXbrwFqiS5g
+This question was possibly replaced with a more recent answer: [March 16th, 2021 Livestream Lights](./yt-Dp77ih_XmkY,327.0833333333333,372.0833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=327&end=373](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=327&end=373)
+
 <details>
 <summary>This question may have been asked previously at least 7 other times, as recently as January 2021 and as early as March 2019.</summary>
 

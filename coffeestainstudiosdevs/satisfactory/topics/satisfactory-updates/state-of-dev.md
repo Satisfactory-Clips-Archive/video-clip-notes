@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## March 23rd, 2021 Livestream
+* [State of Dev Recap](../../transcriptions/yt-sWVxkv8p6Ls.md) [https://www.youtube.com/watch?v=sWVxkv8p6Ls](https://www.youtube.com/watch?v=sWVxkv8p6Ls)
+* [State of Dev: The QA Site](../../transcriptions/yt-QFAS4-KKkEk.md) [https://www.youtube.com/watch?v=QFAS4-KKkEk](https://www.youtube.com/watch?v=QFAS4-KKkEk)
+* [State of Dev: Update 4](../../transcriptions/yt-FB5UxMmb8W0.md) [https://www.youtube.com/watch?v=FB5UxMmb8W0](https://www.youtube.com/watch?v=FB5UxMmb8W0)
+
 ## March 16th, 2021 Livestream
 * State of Dev [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=222&end=247](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=222&end=247)
 

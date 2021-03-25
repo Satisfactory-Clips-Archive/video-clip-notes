@@ -7,6 +7,10 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## March 23rd, 2021 Livestream
+* [PSA: AFK Crafting](../../transcriptions/yt-JHjGj7cJjk8.md) [https://www.youtube.com/watch?v=JHjGj7cJjk8](https://www.youtube.com/watch?v=JHjGj7cJjk8)
+* [Q&A: Should I start to dismantle my Turbo Motor automation, 40 hours down the drain?](../../transcriptions/yt-1i0dU7zYdqs.md) [https://www.youtube.com/watch?v=1i0dU7zYdqs](https://www.youtube.com/watch?v=1i0dU7zYdqs)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Are you going to add any more Alternative Recipes?](../../transcriptions/yt-OtcI-GdfbRc.md) [https://www.youtube.com/watch?v=OtcI-GdfbRc](https://www.youtube.com/watch?v=OtcI-GdfbRc)
 * [Q&A: Will Alternative Recipes be unlocked by a more orderly progression?](../../transcriptions/yt-KxOniqAHQI4.md) [https://www.youtube.com/watch?v=KxOniqAHQI4](https://www.youtube.com/watch?v=KxOniqAHQI4)

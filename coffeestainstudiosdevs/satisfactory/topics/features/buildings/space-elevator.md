@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Space Elevator says that Tier 8 is the final Tier of Early Access, what does this mean?](../../../transcriptions/yt-pUhUMOrlae4.md) [https://www.youtube.com/watch?v=pUhUMOrlae4](https://www.youtube.com/watch?v=pUhUMOrlae4)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: Will there be Space Elevator requirements for Tier 7 & 8 to change from before Update 4?](../../../transcriptions/yt-qUnbyq-0Pu4.md) [https://www.youtube.com/watch?v=qUnbyq-0Pu4](https://www.youtube.com/watch?v=qUnbyq-0Pu4)
 

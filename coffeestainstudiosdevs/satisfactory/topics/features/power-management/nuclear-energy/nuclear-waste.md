@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## March 23rd, 2021 Livestream
+* [Community FYI: No discussion, keep it](../../../../transcriptions/yt-_zExL0I3IjE.md) [https://www.youtube.com/watch?v=_zExL0I3IjE](https://www.youtube.com/watch?v=_zExL0I3IjE)
+* [Snutt Talk: Update 4 Plutonium Rebalancing](../../../../transcriptions/yt-kUZOFrRXmzw.md) [https://www.youtube.com/watch?v=kUZOFrRXmzw](https://www.youtube.com/watch?v=kUZOFrRXmzw)
+
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: That shot of the dead Pioneer [https://play.satisfactory.video/ts-952893339,3626.216334,3634.786431/](https://play.satisfactory.video/ts-952893339,3626.216334,3634.786431/)
 

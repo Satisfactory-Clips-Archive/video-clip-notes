@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## March 23rd, 2021 Livestream
+* [Q&A: I did not hear new music?](../transcriptions/yt-OcxqY72VPfI.md) [https://www.youtube.com/watch?v=OcxqY72VPfI](https://www.youtube.com/watch?v=OcxqY72VPfI)
+* [Q&A: Will the game Soundtrack come to Spotify soon?](../transcriptions/yt-bBS_pCVpXwY.md) [https://www.youtube.com/watch?v=bBS_pCVpXwY](https://www.youtube.com/watch?v=bBS_pCVpXwY)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Any plans on bringing music tracks to Spotify & YouTube?](../transcriptions/yt-K-yARAF955w.md) [https://www.youtube.com/watch?v=K-yARAF955w](https://www.youtube.com/watch?v=K-yARAF955w)
 * [Q&A: Will the soundtrack be expanded before 1.0?](../transcriptions/yt-Is1WuIaWXGE.md) [https://www.youtube.com/watch?v=Is1WuIaWXGE](https://www.youtube.com/watch?v=Is1WuIaWXGE)

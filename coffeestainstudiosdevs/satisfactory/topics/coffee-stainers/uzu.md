@@ -6,8 +6,8 @@ date: Last Modified
 
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: Información [https://play.satisfactory.video/ts-952893339,3798.304294,3850.333567966687/](https://play.satisfactory.video/ts-952893339,3798.304294,3850.333567966687/)
-* Snutt Talk: We consulted with Uzu [https://play.satisfactory.video/ts-952893339,2272.7001384948,2368.201944/](https://play.satisfactory.video/ts-952893339,2272.7001384948,2368.201944/)
-* Snutt & Jace Talk: ¡Eres un tonto! [https://play.satisfactory.video/ts-952893339,5116.7003118038,5179.48788/](https://play.satisfactory.video/ts-952893339,5116.7003118038,5179.48788/)
+* Snutt Talk: We consulted with Uzu [https://play.satisfactory.video/ts-952893339,2272.7001384948203,2368.201944/](https://play.satisfactory.video/ts-952893339,2272.7001384948203,2368.201944/)
+* Snutt & Jace Talk: ¡Eres un tonto! [https://play.satisfactory.video/ts-952893339,5116.700311803778,5179.48788/](https://play.satisfactory.video/ts-952893339,5116.700311803778,5179.48788/)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Are you going to add more functionality to the Programmable Splitters?](../../transcriptions/yt-PGyc_YN4DaM.md) [https://www.youtube.com/watch?v=PGyc_YN4DaM](https://www.youtube.com/watch?v=PGyc_YN4DaM)

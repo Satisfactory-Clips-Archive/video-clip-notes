@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Any Story hints?](../transcriptions/yt-83bWsjYlMrM.md) [https://www.youtube.com/watch?v=83bWsjYlMrM](https://www.youtube.com/watch?v=83bWsjYlMrM)
+* [Q&A: If the WIP items are for Story would you advise not collecting them yet?](../transcriptions/yt-OhElJ-ySLD4.md) [https://www.youtube.com/watch?v=OhElJ-ySLD4](https://www.youtube.com/watch?v=OhElJ-ySLD4)
+
 ## March 16th, 2021 Livestream
 * Q&A: Is there anything Hannah is particularly proud of in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5166&end=5230](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5166&end=5230)
 * Q&A: Storyline? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747)

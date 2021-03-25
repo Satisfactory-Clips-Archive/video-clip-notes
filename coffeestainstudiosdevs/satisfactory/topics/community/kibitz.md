@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Kibitz
 
 ## March 17th, 2021 Livestream
-* Kibitz raid [https://play.satisfactory.video/ts-953014105,1817.6667483229,2087.520463/](https://play.satisfactory.video/ts-953014105,1817.6667483229,2087.520463/)
+* Kibitz raid [https://play.satisfactory.video/ts-953014105,1817.6667483228512,2087.520463/](https://play.satisfactory.video/ts-953014105,1817.6667483228512,2087.520463/)
 * Snutt & Jace Talk: Outro shoutouts [https://play.satisfactory.video/ts-953014105,5466.035973,5529.879459/](https://play.satisfactory.video/ts-953014105,5466.035973,5529.879459/)
 * Snutt & Jace Talk: Supah Computah [https://play.satisfactory.video/ts-952893339,3317.070226,3495.285387/](https://play.satisfactory.video/ts-952893339,3317.070226,3495.285387/)
 

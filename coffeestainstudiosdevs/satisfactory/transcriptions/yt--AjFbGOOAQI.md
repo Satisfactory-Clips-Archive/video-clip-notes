@@ -12,7 +12,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?
 https://www.youtube.com/watch?v=-AjFbGOOAQI
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: What's the chance that the game will be released this year?](./yt-W2O4gfNYj9s.md) [https://www.youtube.com/watch?v=W2O4gfNYj9s](https://www.youtube.com/watch?v=W2O4gfNYj9s)
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any ETA on Launch?](./yt-aP6v6JbuHTk.md) [https://www.youtube.com/watch?v=aP6v6JbuHTk](https://www.youtube.com/watch?v=aP6v6JbuHTk)
 
 
 ### Topics

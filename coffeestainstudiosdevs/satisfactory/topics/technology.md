@@ -11,6 +11,9 @@ date: Last Modified
 * [Unreal Engine](../topics/technology/unreal-engine.md)
 * [User Interface](../topics/technology/user-interface.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Have you guys considered writing/vlogging more about the technical sides of development?](../transcriptions/yt-gKZmQ7vZZbU.md) [https://www.youtube.com/watch?v=gKZmQ7vZZbU](https://www.youtube.com/watch?v=gKZmQ7vZZbU)
+
 ## February 9th, 2021 Livestream
 * [Q&A: Do you have any YouTube videos about the more technical side of Satisfactory?](../transcriptions/yt-dWU4c-MjLWE.md) [https://www.youtube.com/watch?v=dWU4c-MjLWE](https://www.youtube.com/watch?v=dWU4c-MjLWE)
 * [Q&A: Do you use fuzzing to test your game?](../transcriptions/yt-7r67GMFo7Kc.md) [https://www.youtube.com/watch?v=7r67GMFo7Kc](https://www.youtube.com/watch?v=7r67GMFo7Kc)

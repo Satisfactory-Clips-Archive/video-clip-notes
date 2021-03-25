@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## March 23rd, 2021 Livestream
+* [Community FYI: Coffee Stain needs a Smart Splitter to prioritise issues](../transcriptions/yt-zz7cFlKFO5A.md) [https://www.youtube.com/watch?v=zz7cFlKFO5A](https://www.youtube.com/watch?v=zz7cFlKFO5A)
+* Community FYI: You will not read this [https://www.youtube.com/watch?v=XjhrmxAkuLE](https://www.youtube.com/watch?v=XjhrmxAkuLE)
+
 ## March 17th, 2021 Livestream
 * Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://play.satisfactory.video/ts-952893339,748.356245,772.32785/](https://play.satisfactory.video/ts-952893339,748.356245,772.32785/)
 

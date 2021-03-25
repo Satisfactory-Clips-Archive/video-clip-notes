@@ -9,7 +9,11 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Any chance of larger Foundations?
 https://www.youtube.com/watch?v=I5HR5ocUX9o
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Any plans to improve the visual part of building in the game?](./yt-k-UDNJY0PWA.md) [https://www.youtube.com/watch?v=k-UDNJY0PWA](https://www.youtube.com/watch?v=k-UDNJY0PWA)
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+
+* [September 1st, 2020 Livestream Q&A: Any plans for bigger foundations?](./yt-uUFy6qyZLKo.md) [https://www.youtube.com/watch?v=uUFy6qyZLKo](https://www.youtube.com/watch?v=uUFy6qyZLKo)
+</details>
 
 
 ### Topics

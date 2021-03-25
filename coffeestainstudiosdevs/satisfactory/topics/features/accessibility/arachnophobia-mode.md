@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## March 23rd, 2021 Livestream
+* [Snutt Talk: If you have both Arachnophobia and felinophobia, I feel sorry for you](../../../transcriptions/yt-3llMN85Ghyw.md) [https://www.youtube.com/watch?v=3llMN85Ghyw](https://www.youtube.com/watch?v=3llMN85Ghyw)
+* [Q&A: Will you add an Arachnophobia Mode that isn't actually scarier than spiders?](../../../transcriptions/yt-tudG4BUUsnM.md) [https://www.youtube.com/watch?v=tudG4BUUsnM](https://www.youtube.com/watch?v=tudG4BUUsnM)
+
 ## January 26th, 2021 Livestream
 * [Q&A: Nighttime is only bad because of these damn cats?](../../../transcriptions/yt-YkXm2LWDAeA.md) [https://www.youtube.com/watch?v=YkXm2LWDAeA](https://www.youtube.com/watch?v=YkXm2LWDAeA)
 

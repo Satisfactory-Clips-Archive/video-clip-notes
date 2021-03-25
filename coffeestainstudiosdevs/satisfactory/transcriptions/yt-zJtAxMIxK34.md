@@ -3,14 +3,14 @@ title: "September 1st, 2020 Livestream Q&A: Does anyone actually moderate the qu
 date: "2020-09-01"
 layout: transcript
 topics:
-    - ""
+    - "qa-site"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Does anyone actually moderate the questions site?
 https://www.youtube.com/watch?v=zJtAxMIxK34
 
 ### Topics
-
+* [QA Site](../topics/qa-site.md)
 
 ### Transcript
 

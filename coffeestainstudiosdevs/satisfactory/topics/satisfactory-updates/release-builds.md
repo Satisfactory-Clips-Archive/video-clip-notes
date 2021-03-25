@@ -4,6 +4,20 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## March 23rd, 2021 Livestream
+* Snutt Talk: Back up your saves [https://www.youtube.com/watch?v=j3n60T9aA10](https://www.youtube.com/watch?v=j3n60T9aA10)
+* [Community FYI: Can't wait for Drones and Water Extractors in EA, this is a great Update](../../transcriptions/yt-UnQrLUVfwuI.md) [https://www.youtube.com/watch?v=UnQrLUVfwuI](https://www.youtube.com/watch?v=UnQrLUVfwuI)
+* [Q&A: Did I miss the part about release to Early Access?](../../transcriptions/yt-McJNs01E4O8.md) [https://www.youtube.com/watch?v=McJNs01E4O8](https://www.youtube.com/watch?v=McJNs01E4O8)
+* [Q&A: Do you plan to put Update 4 out earlier than April 13th?](../../transcriptions/yt-aclI7pbRT3I.md) [https://www.youtube.com/watch?v=aclI7pbRT3I](https://www.youtube.com/watch?v=aclI7pbRT3I)
+* [Q&A: How to enroll for Experimental (in Steam) ?](../../transcriptions/yt-DXRhlc6E1lg.md) [https://www.youtube.com/watch?v=DXRhlc6E1lg](https://www.youtube.com/watch?v=DXRhlc6E1lg)
+* [Q&A: I played on Experimental, now I can't load my save on previous version, do I have to wait?](../../transcriptions/yt-EBoS-s9O_oU.md) [https://www.youtube.com/watch?v=EBoS-s9O_oU](https://www.youtube.com/watch?v=EBoS-s9O_oU)
+* [Q&A: Is Geforce Now going to get Experimental?](../../transcriptions/yt-ZgaAp-f2AI4.md) [https://www.youtube.com/watch?v=ZgaAp-f2AI4](https://www.youtube.com/watch?v=ZgaAp-f2AI4)
+* [Community FYI: Switching branches on Geforce Now](../../transcriptions/yt-FXI1g8RMERE.md) [https://www.youtube.com/watch?v=FXI1g8RMERE](https://www.youtube.com/watch?v=FXI1g8RMERE)
+* [Snutt Talk: Update 4 on Early Access](../../transcriptions/yt-wy9BZZFyE4Y.md) [https://www.youtube.com/watch?v=wy9BZZFyE4Y](https://www.youtube.com/watch?v=wy9BZZFyE4Y)
+* [Q&A: When you push World Updates, will those come to EA & Experimental at the same time or separate?](../../transcriptions/yt-4mnVlMXrfyw.md) [https://www.youtube.com/watch?v=4mnVlMXrfyw](https://www.youtube.com/watch?v=4mnVlMXrfyw)
+* [Q&A: Why don't the saves from Experimental work on normal?](../../transcriptions/yt-wRc1dgpRDrM.md) [https://www.youtube.com/watch?v=wRc1dgpRDrM](https://www.youtube.com/watch?v=wRc1dgpRDrM)
+* [Q&A: Will the Engine Upgrade or Update 4 be first on Early Access?](../../transcriptions/yt-v71dHxMtPzg.md) [https://www.youtube.com/watch?v=v71dHxMtPzg](https://www.youtube.com/watch?v=v71dHxMtPzg)
+
 ## March 16th, 2021 Livestream
 * Q&A: Can we pre-download it? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=523&end=540](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=523&end=540)
 * Snutt Talk: How to access Update 4 on Steam & Epic [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=7169&end=7286](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=7169&end=7286)

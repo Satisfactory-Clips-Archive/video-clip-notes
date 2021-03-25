@@ -4,8 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## March 23rd, 2021 Livestream
+* [Q&A: Signs when?](../../../transcriptions/yt-F3BYeHIbZzU.md) [https://www.youtube.com/watch?v=F3BYeHIbZzU](https://www.youtube.com/watch?v=F3BYeHIbZzU)
+
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Excitement about Signs [https://play.satisfactory.video/ts-952893339,4402.0336015864,4459.303503/](https://play.satisfactory.video/ts-952893339,4402.0336015864,4459.303503/)
+* Snutt & Jace Talk: Excitement about Signs [https://play.satisfactory.video/ts-952893339,4402.033601586431,4459.303503/](https://play.satisfactory.video/ts-952893339,4402.033601586431,4459.303503/)
 
 ## March 2nd, 2021 Livestream
 * [Q&A: Will there be signs in Update 4?](../../../transcriptions/yt-8BmHQuMW_L8.md) [https://www.youtube.com/watch?v=8BmHQuMW_L8](https://www.youtube.com/watch?v=8BmHQuMW_L8)

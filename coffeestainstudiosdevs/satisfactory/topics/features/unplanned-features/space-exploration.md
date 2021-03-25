@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Space Exploration
 
+## March 23rd, 2021 Livestream
+* [Q&A: When can we go to space?](../../../transcriptions/yt-eL7PT4_wRmY.md) [https://www.youtube.com/watch?v=eL7PT4_wRmY](https://www.youtube.com/watch?v=eL7PT4_wRmY)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Planning on making any space stuff?](../../../transcriptions/yt-pYPBpZdBvP4.md) [https://www.youtube.com/watch?v=pYPBpZdBvP4](https://www.youtube.com/watch?v=pYPBpZdBvP4)
 

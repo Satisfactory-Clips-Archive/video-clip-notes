@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Be able to attach walkways to the Train Station platforms?](../../../transcriptions/yt-WJ6GNToob14.md) [https://www.youtube.com/watch?v=WJ6GNToob14](https://www.youtube.com/watch?v=WJ6GNToob14)
+* [Q&A: How about Train Elevators?](../../../transcriptions/yt-OsGX9e5N9wk.md) [https://www.youtube.com/watch?v=OsGX9e5N9wk](https://www.youtube.com/watch?v=OsGX9e5N9wk)
+* [Q&A: Will the Trains ever be paintable?](../../../transcriptions/yt-L2-j0MZepbI.md) [https://www.youtube.com/watch?v=L2-j0MZepbI](https://www.youtube.com/watch?v=L2-j0MZepbI)
+
 ## March 17th, 2021 Livestream
 * Community FYI: The train part looks amazing [https://play.satisfactory.video/ts-952893339,4898.239745,4906.666965671338/](https://play.satisfactory.video/ts-952893339,4898.239745,4906.666965671338/)
 

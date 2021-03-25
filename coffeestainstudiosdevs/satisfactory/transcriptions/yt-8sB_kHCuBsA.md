@@ -3,14 +3,14 @@ title: "November 10th, 2020 Livestream Q&A: What are the points on the Q&A Site?
 date: "2020-11-10"
 layout: transcript
 topics:
-    - ""
+    - "qa-site"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: What are the points on the Q&A Site?
 https://www.youtube.com/watch?v=8sB_kHCuBsA
 
 ### Topics
-
+* [QA Site](../topics/qa-site.md)
 
 ### Transcript
 

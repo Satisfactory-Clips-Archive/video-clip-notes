@@ -1,0 +1,40 @@
+---
+title: "QA Site"
+date: Last Modified
+---
+# [Topics](../topics.md) > QA Site
+
+## March 23rd, 2021 Livestream
+* [Community FYI: Coffee Stain needs a Smart Splitter to prioritise issues](../transcriptions/yt-zz7cFlKFO5A.md) [https://www.youtube.com/watch?v=zz7cFlKFO5A](https://www.youtube.com/watch?v=zz7cFlKFO5A)
+* [Q&A: Is it better to create a new thread or necro issues?](../transcriptions/yt-yxR7CVf2CNA.md) [https://www.youtube.com/watch?v=yxR7CVf2CNA](https://www.youtube.com/watch?v=yxR7CVf2CNA)
+* [State of Dev: The QA Site](../transcriptions/yt-QFAS4-KKkEk.md) [https://www.youtube.com/watch?v=QFAS4-KKkEk](https://www.youtube.com/watch?v=QFAS4-KKkEk)
+* [Community FYI: Vertical Splitters have 300+ upvotes, though.](../transcriptions/yt-yJEbuLvz-20.md) [https://www.youtube.com/watch?v=yJEbuLvz-20](https://www.youtube.com/watch?v=yJEbuLvz-20)
+
+## January 19th, 2021 Livestream
+* [Q&A: Can we ban Jace from the QA site?](../transcriptions/yt-X-dk6cTGO_g.md) [https://www.youtube.com/watch?v=X-dk6cTGO_g](https://www.youtube.com/watch?v=X-dk6cTGO_g)
+
+## November 10th, 2020 Livestream
+* [Q&A: Is the Q&A Site linked in-game?](../transcriptions/yt-AWNwYHb69nw.md) [https://www.youtube.com/watch?v=AWNwYHb69nw](https://www.youtube.com/watch?v=AWNwYHb69nw)
+* [Jace Talk: Q&A Site](../transcriptions/yt-zpx-sze1Sxw.md) [https://www.youtube.com/watch?v=zpx-sze1Sxw](https://www.youtube.com/watch?v=zpx-sze1Sxw)
+* [Q&A: What are the points on the Q&A Site?](../transcriptions/yt-8sB_kHCuBsA.md) [https://www.youtube.com/watch?v=8sB_kHCuBsA](https://www.youtube.com/watch?v=8sB_kHCuBsA)
+
+## November 3rd, 2020 Livestream
+* [Jace Talk: Questions & Suggestions](../transcriptions/yt-uGdC1rBQyv0.md) [https://www.youtube.com/watch?v=uGdC1rBQyv0](https://www.youtube.com/watch?v=uGdC1rBQyv0)
+
+## October 20th, 2020 Livestream
+* [Q&A: How does the Questions site transfer to Feature in game?](../transcriptions/yt-djGcxAQ9Xkk.md) [https://www.youtube.com/watch?v=djGcxAQ9Xkk](https://www.youtube.com/watch?v=djGcxAQ9Xkk)
+* [Snutt Talk: Q&A Site Bug](../transcriptions/yt-OwboP_m9LLg.md) [https://www.youtube.com/watch?v=OwboP_m9LLg](https://www.youtube.com/watch?v=OwboP_m9LLg)
+
+## September 1st, 2020 Livestream
+* [Q&A: Does anyone actually moderate the questions site?](../transcriptions/yt-zJtAxMIxK34.md) [https://www.youtube.com/watch?v=zJtAxMIxK34](https://www.youtube.com/watch?v=zJtAxMIxK34)
+
+## August 11th, 2020 Livestream
+* Jace Talk: The Q&A Site (Part 1): [https://clips.twitch.tv/BoxyZanyPancakeKeepo](https://clips.twitch.tv/BoxyZanyPancakeKeepo)
+* Jace Talk: The Q&A Site (Part 2): [https://clips.twitch.tv/RenownedQuaintBeaverAMPTropPunch](https://clips.twitch.tv/RenownedQuaintBeaverAMPTropPunch)
+* Jace Talk: The Q&A Site (Part 3): [https://clips.twitch.tv/ZealousNastyCiderPeteZarollTie](https://clips.twitch.tv/ZealousNastyCiderPeteZarollTie)
+
+## March 24th, 2020 Livestream
+* [Jace Talk: Use the QA Site](../transcriptions/yt-Bm_Yh-0jjtI.md) [https://www.youtube.com/watch?v=Bm_Yh-0jjtI](https://www.youtube.com/watch?v=Bm_Yh-0jjtI)
+
+## January 22nd, 2020 Livestream
+* [Jace Talk: The QA Site](../transcriptions/yt-eaaYqnAGK0M.md) [https://www.youtube.com/watch?v=eaaYqnAGK0M](https://www.youtube.com/watch?v=eaaYqnAGK0M)

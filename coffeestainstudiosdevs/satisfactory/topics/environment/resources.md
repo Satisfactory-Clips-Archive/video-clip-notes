@@ -12,6 +12,14 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Can we destroy or remove drop pods after Hard Drive collection?](../../transcriptions/yt-9_BZvuAoyUI.md) [https://www.youtube.com/watch?v=9_BZvuAoyUI](https://www.youtube.com/watch?v=9_BZvuAoyUI)
+* [Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?](../../transcriptions/yt-5BOnK8wVCro.md) [https://www.youtube.com/watch?v=5BOnK8wVCro](https://www.youtube.com/watch?v=5BOnK8wVCro)
+* [Q&A: No hard drives for clients though?](../../transcriptions/yt-h9PeqJoWnIQ.md) [https://www.youtube.com/watch?v=h9PeqJoWnIQ](https://www.youtube.com/watch?v=h9PeqJoWnIQ)
+* [Q&A: Should I start to dismantle my Turbo Motor automation, 40 hours down the drain?](../../transcriptions/yt-1i0dU7zYdqs.md) [https://www.youtube.com/watch?v=1i0dU7zYdqs](https://www.youtube.com/watch?v=1i0dU7zYdqs)
+* [Q&A: Why to Drones have jet thrusters when they only consume Batteries?](../../transcriptions/yt-ALrzPviod04.md) [https://www.youtube.com/watch?v=ALrzPviod04](https://www.youtube.com/watch?v=ALrzPviod04)
+* [Q&A: Will we ever be able to blow up Ore rocks with Nobelisks?](../../transcriptions/yt-IL2sv7_6NxU.md) [https://www.youtube.com/watch?v=IL2sv7_6NxU](https://www.youtube.com/watch?v=IL2sv7_6NxU)
+
 ## March 16th, 2021 Livestream
 * [We're also adding Nitrogen Gas](../../transcriptions/yt-Dp77ih_XmkY,163.625,185.58333333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186)
 

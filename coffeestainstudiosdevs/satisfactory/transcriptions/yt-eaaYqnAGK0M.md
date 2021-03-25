@@ -4,6 +4,7 @@ date: "2020-01-22"
 layout: transcript
 topics:
     - "community"
+    - "qa-site"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Jace Talk: The QA Site
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=eaaYqnAGK0M
 
 ### Topics
 * [Community](../topics/community.md)
+* [QA Site](../topics/qa-site.md)
 
 ### Transcript
 

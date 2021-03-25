@@ -9,11 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Are you adding a Hard Mode?
 https://www.youtube.com/watch?v=e97jfbPmKeY
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
-
-* August 11th, 2020 Livestream Q&A: Any plans for Difficulty Levels? [https://clips.twitch.tv/GrotesqueDaintyRamenGivePLZ](https://clips.twitch.tv/GrotesqueDaintyRamenGivePLZ)
-</details>
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Hard Mode?](./yt-dUS1wSorYGA.md) [https://www.youtube.com/watch?v=dUS1wSorYGA](https://www.youtube.com/watch?v=dUS1wSorYGA)
 
 
 ### Topics

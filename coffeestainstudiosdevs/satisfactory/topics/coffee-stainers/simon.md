@@ -8,10 +8,10 @@ date: Last Modified
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 1) [https://twitch.tv/videos/952893339%2C5405.468767](https://twitch.tv/videos/952893339%2C5405.468767)
 * Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 2) [https://play.satisfactory.video/ts-953014105,22.402188,168.109489/](https://play.satisfactory.video/ts-953014105,22.402188,168.109489/)
-* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 3) [https://play.satisfactory.video/ts-953014105,179.86667474693,357.06284/](https://play.satisfactory.video/ts-953014105,179.86667474693,357.06284/)
+* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 3) [https://play.satisfactory.video/ts-953014105,179.86667474693022,357.06284/](https://play.satisfactory.video/ts-953014105,179.86667474693022,357.06284/)
 * Snutt & Jace Talk: Compositing the real-life Lizard Doggo [https://play.satisfactory.video/ts-953014105,1595.686759,1818.647536/](https://play.satisfactory.video/ts-953014105,1595.686759,1818.647536/)
 * Snutt & Jace Talk: Drones previs [https://play.satisfactory.video/ts-952893339,5279.555337,5405.468767/](https://play.satisfactory.video/ts-952893339,5279.555337,5405.468767/)
-* Snutt & Jace Talk: mid-stream summary & Lizard Doggo compositing reiteration [https://play.satisfactory.video/ts-953014105,2502.1334457382,2761.988009/](https://play.satisfactory.video/ts-953014105,2502.1334457382,2761.988009/)
+* Snutt & Jace Talk: mid-stream summary & Lizard Doggo compositing reiteration [https://play.satisfactory.video/ts-953014105,2502.133445738245,2761.988009/](https://play.satisfactory.video/ts-953014105,2502.133445738245,2761.988009/)
 * Snutt Talk: The VFX shot [https://play.satisfactory.video/ts-952893339,1719.427611,1858.877691/](https://play.satisfactory.video/ts-952893339,1719.427611,1858.877691/)
 
 ## March 16th, 2021 Livestream

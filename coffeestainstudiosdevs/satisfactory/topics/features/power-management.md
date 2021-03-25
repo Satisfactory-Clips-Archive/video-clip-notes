@@ -9,6 +9,10 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Do Lights actually cost Power?](../../transcriptions/yt-DYVLJV-KblM.md) [https://www.youtube.com/watch?v=DYVLJV-KblM](https://www.youtube.com/watch?v=DYVLJV-KblM)
+* Q&A: Is it possible to have energy flow in one direction, like a Valve for energy? [https://www.youtube.com/watch?v=Ym19caliyN0](https://www.youtube.com/watch?v=Ym19caliyN0)
+
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: I hate this shot [https://play.satisfactory.video/ts-952893339,4127.909474,4173.41148/](https://play.satisfactory.video/ts-952893339,4127.909474,4173.41148/)
 * Snutt & Jace Talk: Particle Accelerator power usage [https://play.satisfactory.video/ts-953014105,4586.872127,4691.261352/](https://play.satisfactory.video/ts-953014105,4586.872127,4691.261352/)

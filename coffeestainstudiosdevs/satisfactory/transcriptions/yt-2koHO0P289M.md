@@ -8,11 +8,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Is there a goal amount of Events per year?
 https://www.youtube.com/watch?v=2koHO0P289M
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as December 2020.</summary>
-
-* [December 15th, 2020 Livestream Q&A: Will there be more Seasonal Events?](./yt-TNrm3qsWdxQ.md) [https://www.youtube.com/watch?v=TNrm3qsWdxQ](https://www.youtube.com/watch?v=TNrm3qsWdxQ)
-</details>
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Do you have any Holiday Theme plans in the future?](./yt-EIGGdc4b7vc.md) [https://www.youtube.com/watch?v=EIGGdc4b7vc](https://www.youtube.com/watch?v=EIGGdc4b7vc)
 
 
 ### Topics

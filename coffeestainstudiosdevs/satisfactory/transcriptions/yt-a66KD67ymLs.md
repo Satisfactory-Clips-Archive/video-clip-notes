@@ -10,12 +10,7 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Reload Experimental Save into Early Access?
 https://www.youtube.com/watch?v=a66KD67ymLs
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as March 2021 and as early as January 2021.</summary>
-
-* [March 9th, 2021 Livestream Q&A: Will Experimental & EA be the same version so we can swap?](./yt--m_-g6ELKsY.md) [https://www.youtube.com/watch?v=-m_-g6ELKsY](https://www.youtube.com/watch?v=-m_-g6ELKsY)
-* [January 26th, 2021 Livestream Q&A: Had a save game from Early Access, spent time in Experimental, now back on EA it doesn't work?](./yt-b586YMEHeRk.md) [https://www.youtube.com/watch?v=b586YMEHeRk](https://www.youtube.com/watch?v=b586YMEHeRk)
-</details>
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: I played on Experimental, now I can't load my save on previous version, do I have to wait?](./yt-EBoS-s9O_oU.md) [https://www.youtube.com/watch?v=EBoS-s9O_oU](https://www.youtube.com/watch?v=EBoS-s9O_oU)
 
 
 ### Topics

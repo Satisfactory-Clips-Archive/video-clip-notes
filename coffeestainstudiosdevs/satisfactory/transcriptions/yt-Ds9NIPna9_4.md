@@ -13,6 +13,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Add Planes as Vehicles and we can automate it to carry our resources?
 https://www.youtube.com/watch?v=Ds9NIPna9_4
+This question was possibly replaced with a more recent answer: [March 16th, 2021 Livestream Drones](./yt-Dp77ih_XmkY,409.4583333333333,458.9583333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459)
+
 This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)
 
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## March 23rd, 2021 Livestream
+* [Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?](../../../transcriptions/yt-5BOnK8wVCro.md) [https://www.youtube.com/watch?v=5BOnK8wVCro](https://www.youtube.com/watch?v=5BOnK8wVCro)
+
 ## November 10th, 2020 Livestream
 * [Q&A: Can we get Miner Mk.4?](../../../transcriptions/yt-SDbdzYItJZE.md) [https://www.youtube.com/watch?v=SDbdzYItJZE](https://www.youtube.com/watch?v=SDbdzYItJZE)
 

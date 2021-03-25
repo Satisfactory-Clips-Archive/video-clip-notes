@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## March 23rd, 2021 Livestream
+* [Snutt Talk: Possible Recipe and Alt Recipe Rebalances](../../../transcriptions/yt-PYxjvW8wkJ4.md) [https://www.youtube.com/watch?v=PYxjvW8wkJ4](https://www.youtube.com/watch?v=PYxjvW8wkJ4)
+
 ## March 16th, 2021 Livestream
 * [The Blender](../../../transcriptions/yt-Dp77ih_XmkY,185.58333333333334,195.325577.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=185&end=196](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=185&end=196)
 * [Tier 7 is getting a makeover](../../../transcriptions/yt-Dp77ih_XmkY,117.674411,163.625.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=117&end=164](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=117&end=164)

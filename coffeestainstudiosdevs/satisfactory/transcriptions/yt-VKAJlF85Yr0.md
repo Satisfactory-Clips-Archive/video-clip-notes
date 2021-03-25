@@ -3,7 +3,7 @@ title: "June 8th, 2020 Livestream Q&A: Will Satisfactory be available on GeForce
 date: "2020-06-08"
 layout: transcript
 topics:
-    - ""
+    - "retail/geforce-now"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Will Satisfactory be available on GeForce NOW?
@@ -12,7 +12,7 @@ This question was possibly replaced with a more recent answer: [January 19th, 20
 
 
 ### Topics
-
+* [Retail > GeForce Now](../topics/retail/geforce-now.md)
 
 ### Transcript
 

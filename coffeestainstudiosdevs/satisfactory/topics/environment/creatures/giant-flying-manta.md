@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Giant Flying Manta
 
+## March 23rd, 2021 Livestream
+* [Q&A: Can you add an option to turn the Manta off?](../../../transcriptions/yt-rV2iNBm3S-k.md) [https://www.youtube.com/watch?v=rV2iNBm3S-k](https://www.youtube.com/watch?v=rV2iNBm3S-k)
+
 ## February 9th, 2021 Livestream
 * [Q&A: Is flyable transport an option?](../../../transcriptions/yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)
 

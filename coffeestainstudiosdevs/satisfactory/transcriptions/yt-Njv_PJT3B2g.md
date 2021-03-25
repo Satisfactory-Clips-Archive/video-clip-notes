@@ -12,10 +12,9 @@ topics:
 ## Q&A: What is the limit?
 https://www.youtube.com/watch?v=Njv_PJT3B2g
 <details>
-<summary>This question may have been asked previously at least 9 other times, as recently as October 2020 and as early as August 2020.</summary>
+<summary>This question may have been asked previously at least 8 other times, as recently as October 2020 and as early as August 2020.</summary>
 
 * [October 6th, 2020 Livestream Q&A: What is the object limit and why is it that number?](./yt-VpCuu0aYFw0.md) [https://www.youtube.com/watch?v=VpCuu0aYFw0](https://www.youtube.com/watch?v=VpCuu0aYFw0)
-* [September 22nd, 2020 Livestream Q&A: What is the Object Count Limit, and how can we tell in our own game?](./yt-gMq-fPCqGWQ.md) [https://www.youtube.com/watch?v=gMq-fPCqGWQ](https://www.youtube.com/watch?v=gMq-fPCqGWQ)
 * [September 1st, 2020 Livestream Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?](./yt-RyE_hc4huhA.md) [https://www.youtube.com/watch?v=RyE_hc4huhA](https://www.youtube.com/watch?v=RyE_hc4huhA)
 * August 18th, 2020 Livestream Build Limit (Part 1): [https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis](https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis)
 * August 18th, 2020 Livestream Build Limit (Part 2): [https://clips.twitch.tv/UnusualExquisiteKuduDendiFace](https://clips.twitch.tv/UnusualExquisiteKuduDendiFace)

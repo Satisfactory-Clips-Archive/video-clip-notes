@@ -9,6 +9,10 @@ date: Last Modified
 * [Update 4 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
 * [Update 4 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: If you could add a feature yourself right now, what would that be ?](../../transcriptions/yt-EbERjXIk_x4.md) [https://www.youtube.com/watch?v=EbERjXIk_x4](https://www.youtube.com/watch?v=EbERjXIk_x4)
+* [Snutt Talk: Update 4 Rebalances & Changes Summary (video on Friday)](../../transcriptions/yt-MxwLmhSXPYU.md) [https://www.youtube.com/watch?v=MxwLmhSXPYU](https://www.youtube.com/watch?v=MxwLmhSXPYU)
+
 ## March 17th, 2021 Livestream
 * Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video? [https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/](https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/)
 * Community FYI: Well now you have plenty of time to fix it for the Early Access trailer [https://play.satisfactory.video/ts-953014105,5402.568957,5457.613404/](https://play.satisfactory.video/ts-953014105,5402.568957,5457.613404/)

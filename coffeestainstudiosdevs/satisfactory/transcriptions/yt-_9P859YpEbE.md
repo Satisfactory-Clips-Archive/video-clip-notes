@@ -9,6 +9,8 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Any plans to add a Levitate option with Jetpacks?
 https://www.youtube.com/watch?v=_9P859YpEbE
+This question was possibly replaced with a more recent answer: [March 23rd, 2021 Livestream Q&A: Swap Drones with Hover Pack?](./yt-E_t6aUIA5Zk.md) [https://www.youtube.com/watch?v=E_t6aUIA5Zk](https://www.youtube.com/watch?v=E_t6aUIA5Zk)
+
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 

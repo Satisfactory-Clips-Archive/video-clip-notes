@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: How to enroll for Experimental (in Steam) ?](../../transcriptions/yt-DXRhlc6E1lg.md) [https://www.youtube.com/watch?v=DXRhlc6E1lg](https://www.youtube.com/watch?v=DXRhlc6E1lg)
+
 ## March 16th, 2021 Livestream
 * Snutt Talk: How to access Update 4 on Steam & Epic [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=7169&end=7286](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=7169&end=7286)
 

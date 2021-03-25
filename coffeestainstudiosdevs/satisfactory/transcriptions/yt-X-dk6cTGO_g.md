@@ -4,6 +4,7 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "qa-site"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Can we ban Jace from the QA site?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=X-dk6cTGO_g
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [QA Site](../topics/qa-site.md)
 
 ### Transcript
 

@@ -4,11 +4,20 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 
+## March 23rd, 2021 Livestream
+* [PSA: AFK Crafting](../../transcriptions/yt-JHjGj7cJjk8.md) [https://www.youtube.com/watch?v=JHjGj7cJjk8](https://www.youtube.com/watch?v=JHjGj7cJjk8)
+* [Q&A: Any plans on adding copy/pasting to the builder?](../../transcriptions/yt-oEjEowDbetQ.md) [https://www.youtube.com/watch?v=oEjEowDbetQ](https://www.youtube.com/watch?v=oEjEowDbetQ)
+* [Q&A: Can you make overclocking numbers more precise?](../../transcriptions/yt-D-aOy0Uia6Q.md) [https://www.youtube.com/watch?v=D-aOy0Uia6Q](https://www.youtube.com/watch?v=D-aOy0Uia6Q)
+* [Q&A: Do you ever think you'll give us more than one Body Slot?](../../transcriptions/yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
+* [Q&A: If you could add a feature yourself right now, what would that be ?](../../transcriptions/yt-EbERjXIk_x4.md) [https://www.youtube.com/watch?v=EbERjXIk_x4](https://www.youtube.com/watch?v=EbERjXIk_x4)
+* [Q&A: Pause keybind when?](../../transcriptions/yt-2dCCPHV_fSk.md) [https://www.youtube.com/watch?v=2dCCPHV_fSk](https://www.youtube.com/watch?v=2dCCPHV_fSk)
+* [Q&A: There's a pause?](../../transcriptions/yt-VLSmQSlinEU.md) [https://www.youtube.com/watch?v=VLSmQSlinEU](https://www.youtube.com/watch?v=VLSmQSlinEU)
+
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Compositing the Lights Control Panel shot [https://play.satisfactory.video/ts-952893339,4906.6669656713,4956.002485/](https://play.satisfactory.video/ts-952893339,4906.6669656713,4956.002485/)
-* Community FYI: I like the new bigger stacks for some items [https://play.satisfactory.video/ts-952893339,906.70005525289,911.087849/](https://play.satisfactory.video/ts-952893339,906.70005525289,911.087849/)
+* Snutt & Jace Talk: Compositing the Lights Control Panel shot [https://play.satisfactory.video/ts-952893339,4906.666965671338,4956.002485/](https://play.satisfactory.video/ts-952893339,4906.666965671338,4956.002485/)
+* Community FYI: I like the new bigger stacks for some items [https://play.satisfactory.video/ts-952893339,906.7000552528946,911.087849/](https://play.satisfactory.video/ts-952893339,906.7000552528946,911.087849/)
 * Snutt & Jace Talk: Particle Accelerator power usage [https://play.satisfactory.video/ts-953014105,4586.872127,4691.261352/](https://play.satisfactory.video/ts-953014105,4586.872127,4691.261352/)
-* Snutt & Jace Talk: The end plate [https://play.satisfactory.video/ts-953014105,5529.8669150883,5666.95273/](https://play.satisfactory.video/ts-953014105,5529.8669150883,5666.95273/)
+* Snutt & Jace Talk: The end plate [https://play.satisfactory.video/ts-953014105,5529.86691508835,5666.95273/](https://play.satisfactory.video/ts-953014105,5529.86691508835,5666.95273/)
 
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: Community spotted things in the Nuclear Refinement teaser](../../transcriptions/yt-0BtRlCxfxEc.md) [https://www.youtube.com/watch?v=0BtRlCxfxEc](https://www.youtube.com/watch?v=0BtRlCxfxEc)

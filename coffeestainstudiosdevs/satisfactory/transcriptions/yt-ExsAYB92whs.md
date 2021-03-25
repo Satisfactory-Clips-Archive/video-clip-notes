@@ -3,14 +3,14 @@ title: "August 25th, 2020 Livestream Q&A: Make the Cyber Wagon useful ?"
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "features/transportation/vehicles"
+    - "features/transportation/vehicles/cyber-wagon"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Make the Cyber Wagon useful ?
 https://www.youtube.com/watch?v=ExsAYB92whs
 
 ### Topics
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Vehicles > Cyber Wagon](../topics/features/transportation/vehicles/cyber-wagon.md)
 
 ### Transcript
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Object Limit
 
+## March 23rd, 2021 Livestream
+* [Q&A: Object Limit, any chance to display how much is left somehow?](../../../transcriptions/yt-SNPdVSInCCQ.md) [https://www.youtube.com/watch?v=SNPdVSInCCQ](https://www.youtube.com/watch?v=SNPdVSInCCQ)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: Less object usage as the Engine has an object limit?](../../../transcriptions/yt-eF8wxj8uAXE.md) [https://www.youtube.com/watch?v=eF8wxj8uAXE](https://www.youtube.com/watch?v=eF8wxj8uAXE)
 * [Q&A: You've said in the past that Foundations underneath the map has been a contributing factor?](../../../transcriptions/yt-SWLzazuKh4g.md) [https://www.youtube.com/watch?v=SWLzazuKh4g](https://www.youtube.com/watch?v=SWLzazuKh4g)

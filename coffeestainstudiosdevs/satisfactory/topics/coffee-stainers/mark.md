@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
 ## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Excitement about Signs [https://play.satisfactory.video/ts-952893339,4402.0336015864,4459.303503/](https://play.satisfactory.video/ts-952893339,4402.0336015864,4459.303503/)
+* Snutt & Jace Talk: Excitement about Signs [https://play.satisfactory.video/ts-952893339,4402.033601586431,4459.303503/](https://play.satisfactory.video/ts-952893339,4402.033601586431,4459.303503/)
 
 ## March 16th, 2021 Livestream
 * Q&A: Is there anything Mark is particularly proud of in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5311&end=5386](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5311&end=5386)

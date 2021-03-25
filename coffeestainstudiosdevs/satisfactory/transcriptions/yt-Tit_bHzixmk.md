@@ -4,7 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "features/buildables/lights"
-    - "features/buildings"
+    - "features/buildables/walkways"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Why did you take our industrial lights away from walkways, I miss those?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=Tit_bHzixmk
 
 ### Topics
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
-* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildables > Walkways](../topics/features/buildables/walkways.md)
 
 ### Transcript
 

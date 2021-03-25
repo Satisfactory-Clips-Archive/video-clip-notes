@@ -3,6 +3,7 @@ title: "October 20th, 2020 Livestream Q&A: How does the Questions site transfer 
 date: "2020-10-20"
 layout: transcript
 topics:
+    - "qa-site"
     - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=djGcxAQ9Xkk
 
 ### Topics
+* [QA Site](../topics/qa-site.md)
 * [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript

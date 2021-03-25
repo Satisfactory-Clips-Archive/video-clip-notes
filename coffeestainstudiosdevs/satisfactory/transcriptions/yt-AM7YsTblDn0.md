@@ -4,6 +4,7 @@ date: "2021-02-09"
 layout: transcript
 topics:
     - "mods"
+    - "retail/geforce-now"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Will there be possibility to include Mods in GeForce Now?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=AM7YsTblDn0
 
 ### Topics
 * [Mods](../topics/mods.md)
+* [Retail > GeForce Now](../topics/retail/geforce-now.md)
 
 ### Transcript
 

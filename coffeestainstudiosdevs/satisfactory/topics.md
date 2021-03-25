@@ -99,6 +99,7 @@ date: Last Modified
 * [Ladders](./topics/features/buildables/ladders.md)
 * [Lights](./topics/features/buildables/lights.md)
 * [Storage Containers](./topics/features/buildables/storage-containers.md)
+* [Walkways](./topics/features/buildables/walkways.md)
 * [Walls](./topics/features/buildables/walls.md)
 ---
 
@@ -282,9 +283,11 @@ date: Last Modified
 * [The Cycle](./topics/off-topic/the-cycle.md)
 * [Valheim](./topics/off-topic/valheim.md)
 ---
+* [QA Site](./topics/qa-site.md)
 
 # [Retail](./topics/retail.md)
 * [Early Access](./topics/retail/early-access.md)
+* [GeForce Now](./topics/retail/geforce-now.md)
 
 ## [Epic Store](./topics/retail/epic-store.md)
 * [Epic Store Exclusivity](./topics/retail/epic-store/epic-store-exclusivity.md)

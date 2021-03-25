@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Biomes
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Heard Dune Desert getting a second rework, is this true?](../../transcriptions/yt-x3fI_4o0WPw.md) [https://www.youtube.com/watch?v=x3fI_4o0WPw](https://www.youtube.com/watch?v=x3fI_4o0WPw)
+* [Q&A: When you push World Updates, will those come to EA & Experimental at the same time or separate?](../../transcriptions/yt-4mnVlMXrfyw.md) [https://www.youtube.com/watch?v=4mnVlMXrfyw](https://www.youtube.com/watch?v=4mnVlMXrfyw)
+
 ## March 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Hannah confirms Spire Coast overhaul as "new biome"](../../transcriptions/yt-BZumPH8OW6o.md) [https://www.youtube.com/watch?v=BZumPH8OW6o](https://www.youtube.com/watch?v=BZumPH8OW6o)
 * [Q&A: What kind of changes can we expect from the World Update?](../../transcriptions/yt-5qQx1URl8lY.md) [https://www.youtube.com/watch?v=5qQx1URl8lY](https://www.youtube.com/watch?v=5qQx1URl8lY)

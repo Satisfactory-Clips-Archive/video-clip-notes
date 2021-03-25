@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## March 23rd, 2021 Livestream
+* [Q&A: Any ETA on Launch?](../../../transcriptions/yt-aP6v6JbuHTk.md) [https://www.youtube.com/watch?v=aP6v6JbuHTk](https://www.youtube.com/watch?v=aP6v6JbuHTk)
+* [Q&A: How many more big Updates are planned before 1.0?](../../../transcriptions/yt-RAyToKIKD2I.md) [https://www.youtube.com/watch?v=RAyToKIKD2I](https://www.youtube.com/watch?v=RAyToKIKD2I)
+* [Q&A: Will this be the last Update before 1.0?](../../../transcriptions/yt-DOFC8O2yXNw.md) [https://www.youtube.com/watch?v=DOFC8O2yXNw](https://www.youtube.com/watch?v=DOFC8O2yXNw)
+
 ## March 16th, 2021 Livestream
 * Q&A: Will Update 4 be 1.0? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8629&end=8639](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8629&end=8639)
 
