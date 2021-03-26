@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
 
+## March 26th, 2021 Livestream
+* [Snutt Talk: Sinking Plutonium Fuel Rods](../../../../transcriptions/yt-jmrABq4cCzY,123.75,206.375.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=123&end=207](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=123&end=207)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Is Plutonium Fuel Rods intended to be sunk?](../../../../transcriptions/yt-VDLkcw7O-UU.md) [https://www.youtube.com/watch?v=VDLkcw7O-UU](https://www.youtube.com/watch?v=VDLkcw7O-UU)
 * [Community FYI: No discussion, keep it](../../../../transcriptions/yt-_zExL0I3IjE.md) [https://www.youtube.com/watch?v=_zExL0I3IjE](https://www.youtube.com/watch?v=_zExL0I3IjE)

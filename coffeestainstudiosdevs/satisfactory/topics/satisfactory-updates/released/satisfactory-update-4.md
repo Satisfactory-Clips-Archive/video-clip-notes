@@ -4,6 +4,17 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## March 26th, 2021 Livestream
+* [Snutt Talk: Accessing the Experimental Branch](../../../transcriptions/yt-jmrABq4cCzY,67.75,92.66666666666667.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93)
+* [Snutt Talk: Changes coming to Update 4 on Experimental](../../../transcriptions/yt-jmrABq4cCzY,109.25,123.75.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=109&end=124](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=109&end=124)
+* [Snutt Talk: Cheatcrete](../../../transcriptions/yt-jmrABq4cCzY,305.2916666666667,386.0833333333333.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=305&end=387](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=305&end=387)
+* [Snutt Talk: Expected date for Update 4 on Early Access](../../../transcriptions/yt-jmrABq4cCzY,92.66666666666667,109.25.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=92&end=110](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=92&end=110)
+* [Snutt Talk: If you have bugs or feedback, use the QA Site](../../../transcriptions/yt-jmrABq4cCzY,46.916666666666664,67.75.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=46&end=68](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=46&end=68)
+* [Snutt Talk: If you have thoughts or feedback about Recipe balancing, use the QA Site](../../../transcriptions/yt-jmrABq4cCzY,279.75,305.2916666666667.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306)
+* [Snutt Talk: Sinking Plutonium Fuel Rods](../../../transcriptions/yt-jmrABq4cCzY,123.75,206.375.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=123&end=207](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=123&end=207)
+* [Snutt Talk: Tweaking Update 4 Alt Recipes](../../../transcriptions/yt-jmrABq4cCzY,252.91666666666666,279.75.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=252&end=280](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=252&end=280)
+* [Snutt Talk: Tweaking Update 4 Bauxite & other Recipe numbers](../../../transcriptions/yt-jmrABq4cCzY,206.375,252.91666666666666.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=206&end=253](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=206&end=253)
+
 ## March 23rd, 2021 Livestream
 * [Community FYI: 200fps Lighting bug is fixed](../../../transcriptions/yt-oUEubST5cWM.md) [https://www.youtube.com/watch?v=oUEubST5cWM](https://www.youtube.com/watch?v=oUEubST5cWM)
 * [PSA: AFK Crafting](../../../transcriptions/yt-JHjGj7cJjk8.md) [https://www.youtube.com/watch?v=JHjGj7cJjk8](https://www.youtube.com/watch?v=JHjGj7cJjk8)

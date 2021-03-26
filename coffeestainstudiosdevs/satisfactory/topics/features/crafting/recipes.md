@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## March 26th, 2021 Livestream
+* [Snutt Talk: If you have thoughts or feedback about Recipe balancing, use the QA Site](../../../transcriptions/yt-jmrABq4cCzY,279.75,305.2916666666667.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306)
+* [Snutt Talk: Tweaking Update 4 Alt Recipes](../../../transcriptions/yt-jmrABq4cCzY,252.91666666666666,279.75.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=252&end=280](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=252&end=280)
+* [Snutt Talk: Tweaking Update 4 Bauxite & other Recipe numbers](../../../transcriptions/yt-jmrABq4cCzY,206.375,252.91666666666666.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=206&end=253](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=206&end=253)
+
 ## March 23rd, 2021 Livestream
 * [Snutt Talk: Possible Recipe and Alt Recipe Rebalances](../../../transcriptions/yt-PYxjvW8wkJ4.md) [https://www.youtube.com/watch?v=PYxjvW8wkJ4](https://www.youtube.com/watch?v=PYxjvW8wkJ4)
 

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## March 26th, 2021 Livestream
+* [Snutt Talk: If you have bugs or feedback, use the QA Site](../transcriptions/yt-jmrABq4cCzY,46.916666666666664,67.75.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=46&end=68](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=46&end=68)
+* [Snutt Talk: If you have thoughts or feedback about Recipe balancing, use the QA Site](../transcriptions/yt-jmrABq4cCzY,279.75,305.2916666666667.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306)
+
 ## March 23rd, 2021 Livestream
 * [Community FYI: Coffee Stain needs a Smart Splitter to prioritise issues](../transcriptions/yt-zz7cFlKFO5A.md) [https://www.youtube.com/watch?v=zz7cFlKFO5A](https://www.youtube.com/watch?v=zz7cFlKFO5A)
 * [Q&A: Is it better to create a new thread or necro issues?](../transcriptions/yt-yxR7CVf2CNA.md) [https://www.youtube.com/watch?v=yxR7CVf2CNA](https://www.youtube.com/watch?v=yxR7CVf2CNA)

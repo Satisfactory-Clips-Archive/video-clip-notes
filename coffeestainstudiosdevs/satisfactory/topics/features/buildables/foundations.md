@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 
+## March 26th, 2021 Livestream
+* [Snutt Talk: Cheatcrete](../../../transcriptions/yt-jmrABq4cCzY,305.2916666666667,386.0833333333333.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=305&end=387](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=305&end=387)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Any news on Walls that would fit on ramps?](../../../transcriptions/yt-96m9d5aWQtY.md) [https://www.youtube.com/watch?v=96m9d5aWQtY](https://www.youtube.com/watch?v=96m9d5aWQtY)
 * [Q&A: Any plans on adding fences for ramps?](../../../transcriptions/yt-cXFXfI1lRDs.md) [https://www.youtube.com/watch?v=cXFXfI1lRDs](https://www.youtube.com/watch?v=cXFXfI1lRDs)
