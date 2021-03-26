@@ -6635,31 +6635,67 @@ real
 
 <summary>A transcript is available</summary>
 
-> how come so many dutch developers yeah
+> Snutt: "How come so many Dutch developers?"
 >
-> we have a lot of dutch people
+> Yeah we have a lot of Dutch people at Coffee Stain
 >
-> yeah yeah where how many are we
+> Jace: I don't know why there are so many Dutch...
 >
-> like 30 or 35 or something yeah or
+> Snutt: it...
 >
-> something like that
+> Jace: Yeah.
 >
-> and there's like how many
+> Snutt: Yeah.
 >
-> hundred people seven dutch people um
+> [Laughs]
 >
-> no yeah it's like some five i thought it
+> Dutch apparently have...
 >
-> was like five or six or maybe
+> Jace: We're- how many are we? Like 30 or 35 or something?
 >
-> i can't count yeah that's why i'm okay
+> I'm not sure, something like that.
 >
-> they all look the same yeah
+> Snutt: Yeah.
 >
-> all right anyway moving on so uh
+> And there's like how many? Seven Dutch people?
 >
-> yeah so do you want to talk a little bit
+> Jace: Seven Dutch people? Umm...
+>
+> Snutt: Yeah?
+>
+> No?
+>
+> Jace: Yeah it's like someth- Five? I thought it
+>
+> was like five or six or something.
+>
+> Snutt: Wait wait wait, I can't count.
+>
+> Jace: Yeah.
+>
+> Snutt: That's why I'm a programmer.
+>
+> Jace: They all look the same.
+>
+> Snutt: Yeah.
+>
+> [Laughing]
+>
+> What‽
+>
+> Jace: [Laughing]
+>
+> [Shakes head]
+>
+> Uh...
+>
+> Snutt: all right anyway moving on so uh
+>
+> [Laughs]
+>
+> Jace: yeah.
+>
+> Snutt: So do you want to talk a little bit-
 
 
 </details>
