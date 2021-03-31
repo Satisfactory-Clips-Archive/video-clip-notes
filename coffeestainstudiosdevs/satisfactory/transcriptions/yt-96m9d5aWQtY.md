@@ -9,7 +9,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Any news on Walls that would fit on ramps?
 https://www.youtube.com/watch?v=96m9d5aWQtY
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any plans on adding fences for ramps?](./yt-cXFXfI1lRDs.md) [https://www.youtube.com/watch?v=cXFXfI1lRDs](https://www.youtube.com/watch?v=cXFXfI1lRDs)
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Tilted fences? [https://www.youtube.com/watch?v=JVp03wXCxWY](https://www.youtube.com/watch?v=JVp03wXCxWY)
 
 
 ### Topics

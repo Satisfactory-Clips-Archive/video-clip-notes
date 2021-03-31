@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 3
 
+## March 30th, 2021 Livestream
+* [Community FYI: My Update 4 playthrough is running really well compared to Update 3](../../../transcriptions/yt-uO646ew3dfo.md) [https://www.youtube.com/watch?v=uO646ew3dfo](https://www.youtube.com/watch?v=uO646ew3dfo)
+
 ## March 17th, 2021 Livestream
 * Community FYI: I honestly liked this vid over the actual trailers before it.. [https://play.satisfactory.video/ts-953014105,626.626275,734.624647/](https://play.satisfactory.video/ts-953014105,626.626275,734.624647/)
 * Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://play.satisfactory.video/ts-952893339,913.940124,950.272706/](https://play.satisfactory.video/ts-952893339,913.940124,950.272706/)

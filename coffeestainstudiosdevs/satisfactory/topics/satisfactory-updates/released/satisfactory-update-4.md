@@ -4,6 +4,22 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## March 30th, 2021 Livestream
+* [Q&A: Can you fix the wheels when selecting walls?](../../../transcriptions/yt-9qpSJT7gl9o.md) [https://www.youtube.com/watch?v=9qpSJT7gl9o](https://www.youtube.com/watch?v=9qpSJT7gl9o)
+* [State of Dev: Cheatcrete](../../../transcriptions/yt-JBNdcw4gTiw.md) [https://www.youtube.com/watch?v=JBNdcw4gTiw](https://www.youtube.com/watch?v=JBNdcw4gTiw)
+* [Q&A: Game full release on Thursday?](../../../transcriptions/yt-FbYuuY2Qrlg.md) [https://www.youtube.com/watch?v=FbYuuY2Qrlg](https://www.youtube.com/watch?v=FbYuuY2Qrlg)
+* [Q&A: Is the release date for Update 4 on EA?](../../../transcriptions/yt-uK4PYV5aWqU.md) [https://www.youtube.com/watch?v=uK4PYV5aWqU](https://www.youtube.com/watch?v=uK4PYV5aWqU)
+* [Community FYI: I want to thank you for this great Update](../../../transcriptions/yt-PEExck6tNoc.md) [https://www.youtube.com/watch?v=PEExck6tNoc](https://www.youtube.com/watch?v=PEExck6tNoc)
+* [State of Dev: Modding situation for Update 4](../../../transcriptions/yt-l3C9cCJJ30s.md) [https://www.youtube.com/watch?v=l3C9cCJJ30s](https://www.youtube.com/watch?v=l3C9cCJJ30s)
+* [Q&A: Multiplayer Train lag fixes?](../../../transcriptions/yt-l80tNALjEak.md) [https://www.youtube.com/watch?v=l80tNALjEak](https://www.youtube.com/watch?v=l80tNALjEak)
+* [Community FYI: My Update 4 playthrough is running really well compared to Update 3](../../../transcriptions/yt-uO646ew3dfo.md) [https://www.youtube.com/watch?v=uO646ew3dfo](https://www.youtube.com/watch?v=uO646ew3dfo)
+* [State of Dev: Update 4 Launch & Rebalancing changes](../../../transcriptions/yt-9RYf2b20JcQ.md) [https://www.youtube.com/watch?v=9RYf2b20JcQ](https://www.youtube.com/watch?v=9RYf2b20JcQ)
+* [State of Dev: Update 4 on Experimental](../../../transcriptions/yt-kL9Cpd23mH0.md) [https://www.youtube.com/watch?v=kL9Cpd23mH0](https://www.youtube.com/watch?v=kL9Cpd23mH0)
+* [Q&A: What's Snutt's favourite thing in Update 4?](../../../transcriptions/yt-oJ4uMpaCnw8.md) [https://www.youtube.com/watch?v=oJ4uMpaCnw8](https://www.youtube.com/watch?v=oJ4uMpaCnw8)
+* [Q&A: When will the Update come to the stable client?](../../../transcriptions/yt-qPw6GNV42QI.md) [https://www.youtube.com/watch?v=qPw6GNV42QI](https://www.youtube.com/watch?v=qPw6GNV42QI)
+* [Q&A: Where are all the new music tracks so I can listen to them?](../../../transcriptions/yt-YdNaQY5PFe8.md) [https://www.youtube.com/watch?v=YdNaQY5PFe8](https://www.youtube.com/watch?v=YdNaQY5PFe8)
+* [Q&A: Will there be any more Dora and Diego?](../../../transcriptions/yt-9R0ldFVasJw.md) [https://www.youtube.com/watch?v=9R0ldFVasJw](https://www.youtube.com/watch?v=9R0ldFVasJw)
+
 ## March 26th, 2021 Livestream
 * [Snutt Talk: Accessing the Experimental Branch](../../../transcriptions/yt-jmrABq4cCzY,67.75,92.66666666666667.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93)
 * [Snutt Talk: Changes coming to Update 4 on Experimental](../../../transcriptions/yt-jmrABq4cCzY,109.25,123.75.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=109&end=124](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=109&end=124)
@@ -498,6 +514,11 @@ date: Last Modified
 
 ## August 11th, 2020 Livestream
 * Q&A: Next Update? [https://clips.twitch.tv/CrunchyMistyAsparagus4Head](https://clips.twitch.tv/CrunchyMistyAsparagus4Head)
+
+## July 30th, 2020 Livestream
+* Q&A: What's going to be in Update 4? [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=70&end=74](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=70&end=74)
+* Q&A: When is Update 4 going to come out? [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=66&end=71](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=66&end=71)
+* [Q&A: Will Dedicated Servers be part of Update 4?](../../../transcriptions/yt-1dUNmBBbExs,88.2,101.20356.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=88&end=102](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=88&end=102)
 
 ## July 28th, 2020 Livestream
 * Q&A: update 4 will rethink power situation? [https://clips.twitch.tv/ProudRockyInternTooSpicy](https://clips.twitch.tv/ProudRockyInternTooSpicy)

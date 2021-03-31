@@ -9,7 +9,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Can we get an update on Walls?
 https://www.youtube.com/watch?v=ZpYMIZFGegw
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any plans on adding fences for ramps?](./yt-cXFXfI1lRDs.md) [https://www.youtube.com/watch?v=cXFXfI1lRDs](https://www.youtube.com/watch?v=cXFXfI1lRDs)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Tilted fences?](./yt-JVp03wXCxWY.md) [https://www.youtube.com/watch?v=JVp03wXCxWY](https://www.youtube.com/watch?v=JVp03wXCxWY)
 
 
 ### Topics

@@ -9,7 +9,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: DirectX 12 when?
 https://www.youtube.com/watch?v=BxAAQTxvy-Y
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Is DirectX 12 fully supported now?](./yt-zJ3RVfHpogY.md) [https://www.youtube.com/watch?v=zJ3RVfHpogY](https://www.youtube.com/watch?v=zJ3RVfHpogY)
+This question was possibly duplicated with a more recent answer: February 23rd, 2021 Livestream Q&A: Is DirectX 12 fully supported now? [https://www.youtube.com/watch?v=zJ3RVfHpogY](https://www.youtube.com/watch?v=zJ3RVfHpogY)
 
 
 ### Topics

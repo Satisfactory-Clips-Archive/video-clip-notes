@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Any plans to get rid of Nuclear Waste?
 https://www.youtube.com/watch?v=cxWdU5_ai-0
-This question was possibly replaced with a more recent answer: [February 16th, 2021 Livestream Q&A: What is the future of Nuclear Waste?](./yt-Rv6FRkWjJfU.md) [https://www.youtube.com/watch?v=Rv6FRkWjJfU](https://www.youtube.com/watch?v=Rv6FRkWjJfU)
+This question was possibly replaced with a more recent answer: February 16th, 2021 Livestream Q&A: What is the future of Nuclear Waste? [https://www.youtube.com/watch?v=Rv6FRkWjJfU](https://www.youtube.com/watch?v=Rv6FRkWjJfU)
 
 
 ### Topics

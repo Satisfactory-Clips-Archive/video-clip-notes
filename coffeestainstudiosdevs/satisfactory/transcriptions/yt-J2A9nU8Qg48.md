@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will Update 4 wipe existing saves?
 https://www.youtube.com/watch?v=J2A9nU8Qg48
-This question was possibly replaced with a more recent answer: [March 9th, 2021 Livestream Q&A: Do you guys have plans for other save-breaking changes in the future?](./yt-mFPSgNO5cIk.md) [https://www.youtube.com/watch?v=mFPSgNO5cIk](https://www.youtube.com/watch?v=mFPSgNO5cIk)
+This question was possibly replaced with a more recent answer: March 9th, 2021 Livestream Q&A: Do you guys have plans for other save-breaking changes in the future? [https://www.youtube.com/watch?v=mFPSgNO5cIk](https://www.youtube.com/watch?v=mFPSgNO5cIk)
 
 
 ### Topics

@@ -11,8 +11,8 @@ https://www.youtube.com/watch?v=nI31KeD88V8
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as October 2020.</summary>
 
-* [January 12th, 2021 Livestream Q&A: Any changes coming to To-Do List?](./yt-NStZ-wKVHYc.md) [https://www.youtube.com/watch?v=NStZ-wKVHYc](https://www.youtube.com/watch?v=NStZ-wKVHYc)
-* [October 13th, 2020 Livestream Q&A: Is it possible to use the add to-do list without visiting the crafting bench?](./yt-ValaMW93Q7g.md) [https://www.youtube.com/watch?v=ValaMW93Q7g](https://www.youtube.com/watch?v=ValaMW93Q7g)
+* January 12th, 2021 Livestream Q&A: Any changes coming to To-Do List? [https://www.youtube.com/watch?v=NStZ-wKVHYc](https://www.youtube.com/watch?v=NStZ-wKVHYc)
+* October 13th, 2020 Livestream Q&A: Is it possible to use the add to-do list without visiting the crafting bench? [https://www.youtube.com/watch?v=ValaMW93Q7g](https://www.youtube.com/watch?v=ValaMW93Q7g)
 </details>
 
 

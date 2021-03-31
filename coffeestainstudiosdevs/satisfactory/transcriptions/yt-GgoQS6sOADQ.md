@@ -10,7 +10,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Removing vegetation speeds up the game, yes or no ?
 https://www.youtube.com/watch?v=GgoQS6sOADQ
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](./yt-IFxnvuYEVtk.md) [https://www.youtube.com/watch?v=IFxnvuYEVtk](https://www.youtube.com/watch?v=IFxnvuYEVtk)
+This question was possibly duplicated with a more recent answer: November 10th, 2020 Livestream Q&A: Does destroying all the foliage in the game biomes increase or decrease performance? [https://www.youtube.com/watch?v=IFxnvuYEVtk](https://www.youtube.com/watch?v=IFxnvuYEVtk)
 
 
 ### Topics

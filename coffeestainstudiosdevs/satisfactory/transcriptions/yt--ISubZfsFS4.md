@@ -8,7 +8,7 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Would you rather buy the game on both platforms than solve these issues?
 https://www.youtube.com/watch?v=-ISubZfsFS4
-This question was possibly duplicated with a more recent answer: [June 8th, 2020 Livestream Q&A: Will Jace and Snutt still be friends with me if I buy it on Steam?](./yt-Lem_s04UYBA.md) [https://www.youtube.com/watch?v=Lem_s04UYBA](https://www.youtube.com/watch?v=Lem_s04UYBA)
+This question was possibly duplicated with a more recent answer: June 8th, 2020 Livestream Q&A: Will Jace and Snutt still be friends with me if I buy it on Steam? [https://www.youtube.com/watch?v=Lem_s04UYBA](https://www.youtube.com/watch?v=Lem_s04UYBA)
 
 
 ### Topics

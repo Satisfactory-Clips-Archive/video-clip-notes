@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## March 30th, 2021 Livestream
+* [Q&A: Dedicated Servers?](../../../transcriptions/yt-dC-JRa2E6G0.md) [https://www.youtube.com/watch?v=dC-JRa2E6G0](https://www.youtube.com/watch?v=dC-JRa2E6G0)
+* [Community FYI: Dedicated Servers would fix everything?](../../../transcriptions/yt-TyEl05Zmt4w.md) [https://www.youtube.com/watch?v=TyEl05Zmt4w](https://www.youtube.com/watch?v=TyEl05Zmt4w)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Any updates on Dedicated Servers?](../../../transcriptions/yt-nmftIN5mJV0.md) [https://www.youtube.com/watch?v=nmftIN5mJV0](https://www.youtube.com/watch?v=nmftIN5mJV0)
 * [Q&A: Are Dedicated Servers coming?](../../../transcriptions/yt-l4-4Py1TgKM.md) [https://www.youtube.com/watch?v=l4-4Py1TgKM](https://www.youtube.com/watch?v=l4-4Py1TgKM)
@@ -132,6 +136,10 @@ date: Last Modified
 * Q&A: Dedicated Servers, start building a community around that? [https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow](https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow)
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers [https://clips.twitch.tv/RealPrettiestKoalaBloodTrail](https://clips.twitch.tv/RealPrettiestKoalaBloodTrail)
 * Q&A: What's the hold-up on Dedicated Servers? [https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride](https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride)
+
+## July 30th, 2020 Livestream
+* [Q&A: Dedicated Servers when?](../../../transcriptions/yt-1dUNmBBbExs,73.73333333333333,88.2.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89)
+* [Q&A: Will Dedicated Servers be part of Update 4?](../../../transcriptions/yt-1dUNmBBbExs,88.2,101.20356.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=88&end=102](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=88&end=102)
 
 ## July 28th, 2020 Livestream
 * Q&A: Dedicated Server cost [https://clips.twitch.tv/ConfidentLittleSnood4Head](https://clips.twitch.tv/ConfidentLittleSnood4Head)

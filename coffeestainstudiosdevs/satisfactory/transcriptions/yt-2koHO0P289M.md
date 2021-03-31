@@ -8,7 +8,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Is there a goal amount of Events per year?
 https://www.youtube.com/watch?v=2koHO0P289M
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Do you have any Holiday Theme plans in the future?](./yt-EIGGdc4b7vc.md) [https://www.youtube.com/watch?v=EIGGdc4b7vc](https://www.youtube.com/watch?v=EIGGdc4b7vc)
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Do you have any Holiday Theme plans in the future? [https://www.youtube.com/watch?v=EIGGdc4b7vc](https://www.youtube.com/watch?v=EIGGdc4b7vc)
 
 
 ### Topics

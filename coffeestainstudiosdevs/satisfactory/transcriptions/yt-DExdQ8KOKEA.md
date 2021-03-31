@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=DExdQ8KOKEA
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 
-* [September 8th, 2020 Livestream Q&A: Secondary Hub/Spawn Point ?](./yt-MjQNNzVfZTY.md) [https://www.youtube.com/watch?v=MjQNNzVfZTY](https://www.youtube.com/watch?v=MjQNNzVfZTY)
+* September 8th, 2020 Livestream Q&A: Secondary Hub/Spawn Point ? [https://www.youtube.com/watch?v=MjQNNzVfZTY](https://www.youtube.com/watch?v=MjQNNzVfZTY)
 </details>
 
 

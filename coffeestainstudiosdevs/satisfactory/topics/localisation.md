@@ -45,3 +45,6 @@ date: Last Modified
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Will you localise Satisfactory into x language?](../transcriptions/yt-W1E6EWrAsII,345.76,375.64.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=345&end=376](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=345&end=376)
+
+## August 1st, 2017 Livestream
+* [Jace Talk: Changing Localisation via the Swedish menus](../transcriptions/yt-ZW0OOikcWN0,25.186806,57.8.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=25&end=58](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=25&end=58)

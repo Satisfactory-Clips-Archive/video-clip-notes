@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## March 30th, 2021 Livestream
+* [Q&A: Will there be Story to the game?](../transcriptions/yt-C23SCWtnv2U.md) [https://www.youtube.com/watch?v=C23SCWtnv2U](https://www.youtube.com/watch?v=C23SCWtnv2U)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Any Story hints?](../transcriptions/yt-83bWsjYlMrM.md) [https://www.youtube.com/watch?v=83bWsjYlMrM](https://www.youtube.com/watch?v=83bWsjYlMrM)
 * [Q&A: If the WIP items are for Story would you advise not collecting them yet?](../transcriptions/yt-OhElJ-ySLD4.md) [https://www.youtube.com/watch?v=OhElJ-ySLD4](https://www.youtube.com/watch?v=OhElJ-ySLD4)

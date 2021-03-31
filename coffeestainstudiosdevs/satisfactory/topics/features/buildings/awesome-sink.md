@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
+## March 30th, 2021 Livestream
+* [Q&A: AWESOME Sink for fluids?](../../../transcriptions/yt-NzhKGg8zSAU.md) [https://www.youtube.com/watch?v=NzhKGg8zSAU](https://www.youtube.com/watch?v=NzhKGg8zSAU)
+* [Q&A: Space Elevator as a resource Sink for six specific items after all the stages?](../../../transcriptions/yt-4Dgn9kWGN48.md) [https://www.youtube.com/watch?v=4Dgn9kWGN48](https://www.youtube.com/watch?v=4Dgn9kWGN48)
+
 ## March 2nd, 2021 Livestream
 * Q&A: Sink Fluids? [https://www.youtube.com/watch?v=_g71DI13oac](https://www.youtube.com/watch?v=_g71DI13oac)
 * [Q&A: Who in the office will be worth the most points in the AWESOME Sink?](../../../transcriptions/yt-IhkY2l-QHQQ.md) [https://www.youtube.com/watch?v=IhkY2l-QHQQ](https://www.youtube.com/watch?v=IhkY2l-QHQQ)

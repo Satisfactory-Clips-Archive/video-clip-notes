@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Modular Build
 
+## March 30th, 2021 Livestream
+* [Q&A: Modular Build will come out when?](../../transcriptions/yt-cPFaiUJc9LE.md) [https://www.youtube.com/watch?v=cPFaiUJc9LE](https://www.youtube.com/watch?v=cPFaiUJc9LE)
+
 ## March 16th, 2021 Livestream
 * Mod highlight part 2: Modular build [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10123&end=10156](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10123&end=10156)
 

@@ -10,7 +10,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Battle Royale?
 https://www.youtube.com/watch?v=fO_ZW22gL-g
-This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Battle Royale mode?](./yt-U4t0BJ7mjwc.md) [https://www.youtube.com/watch?v=U4t0BJ7mjwc](https://www.youtube.com/watch?v=U4t0BJ7mjwc)
+This question was possibly duplicated with a more recent answer: January 26th, 2021 Livestream Q&A: Battle Royale mode? [https://www.youtube.com/watch?v=U4t0BJ7mjwc](https://www.youtube.com/watch?v=U4t0BJ7mjwc)
 
 
 ### Topics

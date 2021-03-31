@@ -9,6 +9,8 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: In the video about the Engine Upgrade, Jace talked about the improvement of building painting?
 https://www.youtube.com/watch?v=sc_p8BAXGEU
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Any news on reworking colour selection?](./yt-OTsxz-Twmys.md) [https://www.youtube.com/watch?v=OTsxz-Twmys](https://www.youtube.com/watch?v=OTsxz-Twmys)
+
 
 ### Topics
 * [Features > Paint](../topics/features/paint.md)

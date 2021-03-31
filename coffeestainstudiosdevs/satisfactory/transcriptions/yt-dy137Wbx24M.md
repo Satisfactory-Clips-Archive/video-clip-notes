@@ -8,7 +8,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Steam has a built-in Mod Workshop system, could that possibly work?
 https://www.youtube.com/watch?v=dy137Wbx24M
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Is it possible to have Steam Workshop in the game?](./yt-U2Dufcqf9G8.md) [https://www.youtube.com/watch?v=U2Dufcqf9G8](https://www.youtube.com/watch?v=U2Dufcqf9G8)
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Is it possible to have Steam Workshop in the game? [https://www.youtube.com/watch?v=U2Dufcqf9G8](https://www.youtube.com/watch?v=U2Dufcqf9G8)
 
 
 ### Topics

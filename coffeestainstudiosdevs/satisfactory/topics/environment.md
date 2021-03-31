@@ -11,6 +11,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## March 30th, 2021 Livestream
+* [Community FYI: Doesn't feel like it](../transcriptions/yt-dgWl_-ze7S8.md) [https://www.youtube.com/watch?v=dgWl_-ze7S8](https://www.youtube.com/watch?v=dgWl_-ze7S8)
+
 ## February 26th, 2021 Instagram AMA
 * Q&A: Are there any plans for removing the poison spreading plants in Satisfactory? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4)
 
@@ -20,6 +23,10 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: ETA for Update 4](../transcriptions/yt-3xgs6Y-ZSe8.md) [https://www.youtube.com/watch?v=3xgs6Y-ZSe8](https://www.youtube.com/watch?v=3xgs6Y-ZSe8)
 * [Q&A: Put in Solar & Wind Power to make it ultra limited?](../transcriptions/yt-_IJsp-Fy1zw.md) [https://www.youtube.com/watch?v=_IJsp-Fy1zw](https://www.youtube.com/watch?v=_IJsp-Fy1zw)
+
+## April 30th, 2020 Livestream
+* [Simon & Jace Talk: Different ambient effects for different Biomes](../transcriptions/yt-mci92Mhr7MM,608.793576,697.5301666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698)
+* [Simon & Jace Talk: VFX for ambient effects](../transcriptions/yt-mci92Mhr7MM,425.240567,608.793576.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=425&end=609](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=425&end=609)
 
 ## February 20th, 2019 Livestream
 * [Q&A: Are caves a hazard or will they just be there to explore?](../transcriptions/yt-CB9bSigNYH8,673.676351,691.064019.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=673&end=692](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=673&end=692)

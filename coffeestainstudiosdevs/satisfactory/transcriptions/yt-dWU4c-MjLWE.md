@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Do you have any YouTube videos about the more technical side of Satisfactory?
 https://www.youtube.com/watch?v=dWU4c-MjLWE
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Have you guys considered writing/vlogging more about the technical sides of development?](./yt-gKZmQ7vZZbU.md) [https://www.youtube.com/watch?v=gKZmQ7vZZbU](https://www.youtube.com/watch?v=gKZmQ7vZZbU)
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Have you guys considered writing/vlogging more about the technical sides of development? [https://www.youtube.com/watch?v=gKZmQ7vZZbU](https://www.youtube.com/watch?v=gKZmQ7vZZbU)
 
 
 ### Topics

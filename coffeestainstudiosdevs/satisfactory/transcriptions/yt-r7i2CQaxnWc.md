@@ -9,9 +9,9 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Any more teasers?
 https://www.youtube.com/watch?v=r7i2CQaxnWc
-This question was possibly replaced with a more recent answer: [February 9th, 2021 Livestream Q&A: When's the next Teaser Trailer?](./yt-Z-GAgR2VYXk.md) [https://www.youtube.com/watch?v=Z-GAgR2VYXk](https://www.youtube.com/watch?v=Z-GAgR2VYXk)
+This question was possibly replaced with a more recent answer: February 9th, 2021 Livestream Q&A: When's the next Teaser Trailer? [https://www.youtube.com/watch?v=Z-GAgR2VYXk](https://www.youtube.com/watch?v=Z-GAgR2VYXk)
 
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: How many more teasers have you planned?](./yt-xh_OgWsWLGo.md) [https://www.youtube.com/watch?v=xh_OgWsWLGo](https://www.youtube.com/watch?v=xh_OgWsWLGo)
+This question was possibly duplicated with a more recent answer: February 23rd, 2021 Livestream Q&A: How many more teasers have you planned? [https://www.youtube.com/watch?v=xh_OgWsWLGo](https://www.youtube.com/watch?v=xh_OgWsWLGo)
 
 
 ### Topics

@@ -10,7 +10,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Mercer Spheres and Somersloops?
 https://www.youtube.com/watch?v=99pdUN5glzw
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Do you have plans for the WIP items?](./yt-GPP6rcB8ROw.md) [https://www.youtube.com/watch?v=GPP6rcB8ROw](https://www.youtube.com/watch?v=GPP6rcB8ROw)
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Do you have plans for the WIP items? [https://www.youtube.com/watch?v=GPP6rcB8ROw](https://www.youtube.com/watch?v=GPP6rcB8ROw)
 
 
 ### Topics

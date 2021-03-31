@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## March 30th, 2021 Livestream
+* [Q&A: Is that the same as "No Drones" and "No Pipes" ?](../../../transcriptions/yt-YvY8_P-bxqY.md) [https://www.youtube.com/watch?v=YvY8_P-bxqY](https://www.youtube.com/watch?v=YvY8_P-bxqY)
+* [Q&A: Loss of efficiency over long distances?](../../../transcriptions/yt-G3mcXzVjUZQ.md) [https://www.youtube.com/watch?v=G3mcXzVjUZQ](https://www.youtube.com/watch?v=G3mcXzVjUZQ)
+* [Q&A: Satisfactory Roadmap?](../../../transcriptions/yt-HZ4vKssj208.md) [https://www.youtube.com/watch?v=HZ4vKssj208](https://www.youtube.com/watch?v=HZ4vKssj208)
+
 ## March 23rd, 2021 Livestream
 * [Community FYI: Yes you did](../../../transcriptions/yt-08O7dRyOYy0.md) [https://www.youtube.com/watch?v=08O7dRyOYy0](https://www.youtube.com/watch?v=08O7dRyOYy0)
 * [Q&A: You said "Never" for Pipes, Drones, and many other things too.](../../../transcriptions/yt-Xeg3Ljqen7M.md) [https://www.youtube.com/watch?v=Xeg3Ljqen7M](https://www.youtube.com/watch?v=Xeg3Ljqen7M)

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## March 30th, 2021 Livestream
+* [Community FYI: We need special weapons for Doggos](../../../transcriptions/yt-pXjkxnkhSG8.md) [https://www.youtube.com/watch?v=pXjkxnkhSG8](https://www.youtube.com/watch?v=pXjkxnkhSG8)
+* [Q&A: When my only Doggo brings me Uranium Waste is there a way to put it back where it found it?](../../../transcriptions/yt-Nbe7G5GCosE.md) [https://www.youtube.com/watch?v=Nbe7G5GCosE](https://www.youtube.com/watch?v=Nbe7G5GCosE)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Do you have any regret for killing that Lizard Doggo](../../../transcriptions/yt-q-OAmV3HA_s.md) [https://www.youtube.com/watch?v=q-OAmV3HA_s](https://www.youtube.com/watch?v=q-OAmV3HA_s)
 

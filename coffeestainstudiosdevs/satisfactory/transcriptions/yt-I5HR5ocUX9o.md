@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=I5HR5ocUX9o
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 
-* [September 1st, 2020 Livestream Q&A: Any plans for bigger foundations?](./yt-uUFy6qyZLKo.md) [https://www.youtube.com/watch?v=uUFy6qyZLKo](https://www.youtube.com/watch?v=uUFy6qyZLKo)
+* September 1st, 2020 Livestream Q&A: Any plans for bigger foundations? [https://www.youtube.com/watch?v=uUFy6qyZLKo](https://www.youtube.com/watch?v=uUFy6qyZLKo)
 </details>
 
 

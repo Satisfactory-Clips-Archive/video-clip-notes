@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## March 30th, 2021 Livestream
+* [Q&A: Why does the Chainsaw not consume Fuel?](../../../transcriptions/yt-_MMqKE-jYTk.md) [https://www.youtube.com/watch?v=_MMqKE-jYTk](https://www.youtube.com/watch?v=_MMqKE-jYTk)
+
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: Can't remember of Turbofuel has changed](../../../transcriptions/yt-tGsaRAqAAsk.md) [https://www.youtube.com/watch?v=tGsaRAqAAsk](https://www.youtube.com/watch?v=tGsaRAqAAsk)
 * [Q&A: Will Turbofuel stop working in Refineries when recipes move?](../../../transcriptions/yt-M4OEtn68g8Y.md) [https://www.youtube.com/watch?v=M4OEtn68g8Y](https://www.youtube.com/watch?v=M4OEtn68g8Y)

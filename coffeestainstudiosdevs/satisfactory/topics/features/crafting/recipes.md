@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## March 30th, 2021 Livestream
+* [State of Dev: Update 4 Launch & Rebalancing changes](../../../transcriptions/yt-9RYf2b20JcQ.md) [https://www.youtube.com/watch?v=9RYf2b20JcQ](https://www.youtube.com/watch?v=9RYf2b20JcQ)
+* [Q&A: Why is the Blender and Diluted Fuel recipe in Tier 7?](../../../transcriptions/yt-Y1V0UB_9GJA.md) [https://www.youtube.com/watch?v=Y1V0UB_9GJA](https://www.youtube.com/watch?v=Y1V0UB_9GJA)
+
 ## March 26th, 2021 Livestream
 * [Snutt Talk: If you have thoughts or feedback about Recipe balancing, use the QA Site](../../../transcriptions/yt-jmrABq4cCzY,279.75,305.2916666666667.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306)
 * [Snutt Talk: Tweaking Update 4 Alt Recipes](../../../transcriptions/yt-jmrABq4cCzY,252.91666666666666,279.75.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=252&end=280](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=252&end=280)

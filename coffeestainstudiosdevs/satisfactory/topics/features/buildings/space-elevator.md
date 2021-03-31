@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## March 30th, 2021 Livestream
+* [Q&A: Space Elevator as a resource Sink for six specific items after all the stages?](../../../transcriptions/yt-4Dgn9kWGN48.md) [https://www.youtube.com/watch?v=4Dgn9kWGN48](https://www.youtube.com/watch?v=4Dgn9kWGN48)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Space Elevator says that Tier 8 is the final Tier of Early Access, what does this mean?](../../../transcriptions/yt-pUhUMOrlae4.md) [https://www.youtube.com/watch?v=pUhUMOrlae4](https://www.youtube.com/watch?v=pUhUMOrlae4)
 

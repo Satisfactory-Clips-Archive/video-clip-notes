@@ -10,6 +10,8 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Have there been any changes on Train collision stuff?
 https://www.youtube.com/watch?v=KvIFKOokxYE
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will Trains get collision in the future?](./yt-e8ctn7TDrq0.md) [https://www.youtube.com/watch?v=e8ctn7TDrq0](https://www.youtube.com/watch?v=e8ctn7TDrq0)
+
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)

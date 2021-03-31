@@ -8,12 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Will there be a no-mob option ?
 https://www.youtube.com/watch?v=KFT0l0kO5qg
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as August 2020.</summary>
-
-* [September 8th, 2020 Livestream Q&A: Will there be a Peacfull Mode with no Hostile Creatures?](./yt-yS_1rXuvxFw.md) [https://www.youtube.com/watch?v=yS_1rXuvxFw](https://www.youtube.com/watch?v=yS_1rXuvxFw)
-* August 18th, 2020 Livestream Q&A: Will there be a no combat/fight version? [https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid](https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid)
-</details>
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Will there be a Peaceful Mode like in Subnautica? [https://www.youtube.com/watch?v=NQcQeykbc1E](https://www.youtube.com/watch?v=NQcQeykbc1E)
 
 
 ### Topics

@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans to add more animals to enemies or dangers?
 https://www.youtube.com/watch?v=RuzL7DdAJ1o
-This question was possibly duplicated with a more recent answer: March 16th, 2021 Livestream Q&A: Giant Crab? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=779&end=790](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=779&end=790)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be more creatures ever?](./yt-hKlILzyla-Y.md) [https://www.youtube.com/watch?v=hKlILzyla-Y](https://www.youtube.com/watch?v=hKlILzyla-Y)
 
 
 ### Topics

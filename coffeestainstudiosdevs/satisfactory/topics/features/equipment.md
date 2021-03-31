@@ -9,6 +9,13 @@ date: Last Modified
 * [Jetpack](../../topics/features/equipment/jetpack.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## March 30th, 2021 Livestream
+* [Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?](../../transcriptions/yt-XkDGnJwkY18.md) [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
+* [Community FYI: I need a flame thrower](../../transcriptions/yt-B9yz1kZojec.md) [https://www.youtube.com/watch?v=B9yz1kZojec](https://www.youtube.com/watch?v=B9yz1kZojec)
+* [Community FYI: Not being able to wear a mask is annoying](../../transcriptions/yt-r12CKyyTTJk.md) [https://www.youtube.com/watch?v=r12CKyyTTJk](https://www.youtube.com/watch?v=r12CKyyTTJk)
+* [Community FYI: We need special weapons for Doggos](../../transcriptions/yt-pXjkxnkhSG8.md) [https://www.youtube.com/watch?v=pXjkxnkhSG8](https://www.youtube.com/watch?v=pXjkxnkhSG8)
+* Q&A: Will the colour gun be fixed? [https://www.youtube.com/watch?v=Vc-zgbseTCc](https://www.youtube.com/watch?v=Vc-zgbseTCc)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Do you ever think you'll give us more than one Body Slot?](../../transcriptions/yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
 * [Q&A: If you could add a feature yourself right now, what would that be ?](../../transcriptions/yt-EbERjXIk_x4.md) [https://www.youtube.com/watch?v=EbERjXIk_x4](https://www.youtube.com/watch?v=EbERjXIk_x4)
@@ -58,6 +65,12 @@ date: Last Modified
 * [Q&A: Explosive Barrels of Gas we can send through the rail guns ?](../../transcriptions/yt-e4iY6zivsbU.md) [https://www.youtube.com/watch?v=e4iY6zivsbU](https://www.youtube.com/watch?v=e4iY6zivsbU)
 * [Q&A: I want to fire Nukes at my rival Pioneers?](../../transcriptions/yt-CQ0vc3uRaw8.md) [https://www.youtube.com/watch?v=CQ0vc3uRaw8](https://www.youtube.com/watch?v=CQ0vc3uRaw8)
 * [Q&A: Why can't we explode some stones in the map?](../../transcriptions/yt-Yhtu3NBv2NM.md) [https://www.youtube.com/watch?v=Yhtu3NBv2NM](https://www.youtube.com/watch?v=Yhtu3NBv2NM)
+
+## July 8th, 2020 Livestream
+* [Q&A: Does anyone know if there's a mod to holster weapon?](../../transcriptions/yt-1dUNmBBbExs,1833.468476,1843.905544.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1833&end=1844](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1833&end=1844)
+
+## April 30th, 2020 Livestream
+* [Simon & Jace Talk: VFX for Nobelisk explosion](../../transcriptions/yt-mci92Mhr7MM,235.96906666666666,425.240567.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426)
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Will Gas Masks be working when you sit in vehicles?](../../transcriptions/yt-qcOfYoEbhVI.md) [https://www.youtube.com/watch?v=qcOfYoEbhVI](https://www.youtube.com/watch?v=qcOfYoEbhVI)

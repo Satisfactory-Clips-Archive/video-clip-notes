@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
+## March 30th, 2021 Livestream
+* [Q&A: Energy Storage and Day/Night cycle would make Solar power extremely interesting to set up?](../../../transcriptions/yt-S9ROGuBkzZo.md) [https://www.youtube.com/watch?v=S9ROGuBkzZo](https://www.youtube.com/watch?v=S9ROGuBkzZo)
+
 ## March 23rd, 2021 Livestream
 * Q&A: Solar panel? [https://www.youtube.com/watch?v=pnqysWUuGhM](https://www.youtube.com/watch?v=pnqysWUuGhM)
 

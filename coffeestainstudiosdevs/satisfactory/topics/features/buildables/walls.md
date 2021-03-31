@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## March 30th, 2021 Livestream
+* [Q&A: Can you fix the wheels when selecting walls?](../../../transcriptions/yt-9qpSJT7gl9o.md) [https://www.youtube.com/watch?v=9qpSJT7gl9o](https://www.youtube.com/watch?v=9qpSJT7gl9o)
+* [Q&A: Curved Walls, Windows, and Foundations?](../../../transcriptions/yt-gBErG8jzRtI.md) [https://www.youtube.com/watch?v=gBErG8jzRtI](https://www.youtube.com/watch?v=gBErG8jzRtI)
+* [Community FYI: Definitely need more Railing types](../../../transcriptions/yt-n-OQJu_fwJk.md) [https://www.youtube.com/watch?v=n-OQJu_fwJk](https://www.youtube.com/watch?v=n-OQJu_fwJk)
+* [Q&A: Plan on adding Steel Wall/Windows?](../../../transcriptions/yt-3K-aGFIg5uU.md) [https://www.youtube.com/watch?v=3K-aGFIg5uU](https://www.youtube.com/watch?v=3K-aGFIg5uU)
+* [Q&A: Tilted fences?](../../../transcriptions/yt-JVp03wXCxWY.md) [https://www.youtube.com/watch?v=JVp03wXCxWY](https://www.youtube.com/watch?v=JVp03wXCxWY)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Any news on Walls that would fit on ramps?](../../../transcriptions/yt-96m9d5aWQtY.md) [https://www.youtube.com/watch?v=96m9d5aWQtY](https://www.youtube.com/watch?v=96m9d5aWQtY)
 * [Q&A: Any plans on adding fences for ramps?](../../../transcriptions/yt-cXFXfI1lRDs.md) [https://www.youtube.com/watch?v=cXFXfI1lRDs](https://www.youtube.com/watch?v=cXFXfI1lRDs)

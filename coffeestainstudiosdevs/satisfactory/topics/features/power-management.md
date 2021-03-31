@@ -9,6 +9,10 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## March 30th, 2021 Livestream
+* [Q&A: Is the buildings related to power going to be daisy-chained?](../../transcriptions/yt-83vj59cC5wU.md) [https://www.youtube.com/watch?v=83vj59cC5wU](https://www.youtube.com/watch?v=83vj59cC5wU)
+* [Q&A: Loss of efficiency over long distances?](../../transcriptions/yt-G3mcXzVjUZQ.md) [https://www.youtube.com/watch?v=G3mcXzVjUZQ](https://www.youtube.com/watch?v=G3mcXzVjUZQ)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Do Lights actually cost Power?](../../transcriptions/yt-DYVLJV-KblM.md) [https://www.youtube.com/watch?v=DYVLJV-KblM](https://www.youtube.com/watch?v=DYVLJV-KblM)
 * Q&A: Is it possible to have energy flow in one direction, like a Valve for energy? [https://www.youtube.com/watch?v=Ym19caliyN0](https://www.youtube.com/watch?v=Ym19caliyN0)
@@ -141,3 +145,7 @@ date: Last Modified
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164)
 * [Smelting Iron](../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275)
+
+## August 1st, 2017 Livestream
+* [Jace Talk: Expanding a Power Grid](../../transcriptions/yt-ZW0OOikcWN0,866,968.818506.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=866&end=969](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=866&end=969)
+* [Jace Talk: Supplying Power](../../transcriptions/yt-ZW0OOikcWN0,651.16,747.08.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=651&end=748](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=651&end=748)

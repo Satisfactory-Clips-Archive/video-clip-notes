@@ -8,6 +8,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## March 30th, 2021 Livestream
+* [Q&A: Would you recommend Satisfactory? because I want it but I don't know if it would suit me](../transcriptions/yt-lzxtnMt89Ig.md) [https://www.youtube.com/watch?v=lzxtnMt89Ig](https://www.youtube.com/watch?v=lzxtnMt89Ig)
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Have you sold 10 copies yet?](../transcriptions/yt-q1L297zZiDY.md) [https://www.youtube.com/watch?v=q1L297zZiDY](https://www.youtube.com/watch?v=q1L297zZiDY)
 

@@ -4,6 +4,21 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
+## March 30th, 2021 Livestream
+* [Q&A: Are you ever organised?](../../transcriptions/yt-q2LO7TE8KXk.md) [https://www.youtube.com/watch?v=q2LO7TE8KXk](https://www.youtube.com/watch?v=q2LO7TE8KXk)
+* [Snutt Talk: Community Highlights entry reminds Snutt of early trailer](../../transcriptions/yt-_F411Nlu46Q.md) [https://www.youtube.com/watch?v=_F411Nlu46Q](https://www.youtube.com/watch?v=_F411Nlu46Q)
+* [Q&A: Do you even Satisfactory?](../../transcriptions/yt-e3R3jwBTaIM.md) [https://www.youtube.com/watch?v=e3R3jwBTaIM](https://www.youtube.com/watch?v=e3R3jwBTaIM)
+* [Q&A: Do you have enough guitars?](../../transcriptions/yt-rkt-OLWCJ8k.md) [https://www.youtube.com/watch?v=rkt-OLWCJ8k](https://www.youtube.com/watch?v=rkt-OLWCJ8k)
+* Q&A: How's BMO holding up over there? [https://www.youtube.com/watch?v=nNqWwuJXgCc](https://www.youtube.com/watch?v=nNqWwuJXgCc)
+* [Snutt Talk: Losing track of questions](../../transcriptions/yt-oj2oVWMnp9I.md) [https://www.youtube.com/watch?v=oj2oVWMnp9I](https://www.youtube.com/watch?v=oj2oVWMnp9I)
+* [Community FYI: Love the beard!](../../transcriptions/yt-lfTUbv2rTJM.md) [https://www.youtube.com/watch?v=lfTUbv2rTJM](https://www.youtube.com/watch?v=lfTUbv2rTJM)
+* [Q&A: Play Wonderwall?](../../transcriptions/yt-OqF1WnAJ31A.md) [https://www.youtube.com/watch?v=OqF1WnAJ31A](https://www.youtube.com/watch?v=OqF1WnAJ31A)
+* [Community FYI: Snutt has G.A.S.](../../transcriptions/yt-hYv3Hb64TLE.md) [https://www.youtube.com/watch?v=hYv3Hb64TLE](https://www.youtube.com/watch?v=hYv3Hb64TLE)
+* [Q&A: What's Snutt's favourite thing in Update 4?](../../transcriptions/yt-oJ4uMpaCnw8.md) [https://www.youtube.com/watch?v=oJ4uMpaCnw8](https://www.youtube.com/watch?v=oJ4uMpaCnw8)
+* [Q&A: What's Snutt's favourite type of sandwich?](../../transcriptions/yt-x36oDrjaQ2o.md) [https://www.youtube.com/watch?v=x36oDrjaQ2o](https://www.youtube.com/watch?v=x36oDrjaQ2o)
+* [Q&A: What's the feature you want to add?](../../transcriptions/yt-VJgvG8RvkLw.md) [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
+* [Community FYI: You should really try not to say "umm"](../../transcriptions/yt-6FEEq5JjARw.md) [https://www.youtube.com/watch?v=6FEEq5JjARw](https://www.youtube.com/watch?v=6FEEq5JjARw)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Do you drink Coffee?](../../transcriptions/yt-7ICCduhRHfw.md) [https://www.youtube.com/watch?v=7ICCduhRHfw](https://www.youtube.com/watch?v=7ICCduhRHfw)
 * [Q&A: Do you have any regret for killing that Lizard Doggo](../../transcriptions/yt-q-OAmV3HA_s.md) [https://www.youtube.com/watch?v=q-OAmV3HA_s](https://www.youtube.com/watch?v=q-OAmV3HA_s)
@@ -151,6 +166,10 @@ date: Last Modified
 
 ## August 18th, 2020 Livestream
 * Q&A: Why does Snutt have many guitars? [https://clips.twitch.tv/AverageRenownedAxeWholeWheat](https://clips.twitch.tv/AverageRenownedAxeWholeWheat)
+
+## July 8th, 2020 Livestream
+* [Mod highlight part 1: Item Dispenser](../../transcriptions/yt-1dUNmBBbExs,3450.885972,3514.648884.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3450&end=3515](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3450&end=3515)
+* [Mod highlight part 1: Satisfactory Calculator (SCIM) Production Planner & Interactive Map](../../transcriptions/yt-1dUNmBBbExs,3283.3333333333335,3395.015298.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3283&end=3396](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3283&end=3396)
 
 ## February 11th, 2020 Livestream
 * [Snutt Talk: People learning Swedish by setting Windows to Swedish](../../transcriptions/yt-7yNYQitR6B0.md) [https://www.youtube.com/watch?v=7yNYQitR6B0](https://www.youtube.com/watch?v=7yNYQitR6B0)

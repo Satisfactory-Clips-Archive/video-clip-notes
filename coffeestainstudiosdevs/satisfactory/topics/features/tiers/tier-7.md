@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 7
 
+## March 30th, 2021 Livestream
+* [Q&A: Why is the Blender and Diluted Fuel recipe in Tier 7?](../../../transcriptions/yt-Y1V0UB_9GJA.md) [https://www.youtube.com/watch?v=Y1V0UB_9GJA](https://www.youtube.com/watch?v=Y1V0UB_9GJA)
+
 ## March 16th, 2021 Livestream
 * [Tier 7 is getting a makeover](../../../transcriptions/yt-Dp77ih_XmkY,117.674411,163.625.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=117&end=164](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=117&end=164)
 

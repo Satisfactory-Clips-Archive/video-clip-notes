@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What's the max amount of body slots?
 https://www.youtube.com/watch?v=aPWXjH-Xf1o
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Do you ever think you'll give us more than one Body Slot?](./yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time? [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
 
 
 ### Topics

@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=s4YySOL2SC0
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 
-* [September 8th, 2020 Livestream Q&A: When do you have Discord integration?](./yt-uI3MwJi8iAk.md) [https://www.youtube.com/watch?v=uI3MwJi8iAk](https://www.youtube.com/watch?v=uI3MwJi8iAk)
+* September 8th, 2020 Livestream Q&A: When do you have Discord integration? [https://www.youtube.com/watch?v=uI3MwJi8iAk](https://www.youtube.com/watch?v=uI3MwJi8iAk)
 </details>
 
 

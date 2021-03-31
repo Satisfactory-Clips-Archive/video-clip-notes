@@ -8,12 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Can we destroy those Gas pillars?
 https://www.youtube.com/watch?v=PcJHdVtZSp0
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as December 2019.</summary>
-
-* [September 8th, 2020 Livestream Q&A: When can Poison Pillars be removed?](./yt-BRpEHi7W7u0.md) [https://www.youtube.com/watch?v=BRpEHi7W7u0](https://www.youtube.com/watch?v=BRpEHi7W7u0)
-* [December 19th, 2019 Livestream Q&A: Is there going to be a way to destroy the fart rock?](./yt-byPiSQZOAhw.md) [https://www.youtube.com/watch?v=byPiSQZOAhw](https://www.youtube.com/watch?v=byPiSQZOAhw)
-</details>
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Will it be possible to remove the toxic pillars? [https://www.youtube.com/watch?v=QM6AXdaNYN4](https://www.youtube.com/watch?v=QM6AXdaNYN4)
 
 
 ### Topics

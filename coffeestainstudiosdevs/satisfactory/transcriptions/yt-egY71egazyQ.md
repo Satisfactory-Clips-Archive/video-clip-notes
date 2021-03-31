@@ -9,7 +9,7 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Will crossplay launch with the Steam release?
 https://www.youtube.com/watch?v=egY71egazyQ
-This question was possibly replaced with a more recent answer: [November 3rd, 2020 Livestream Q&A: Can I play on Epic with someone on Steam?](./yt-zekvCEX_mv8.md) [https://www.youtube.com/watch?v=zekvCEX_mv8](https://www.youtube.com/watch?v=zekvCEX_mv8)
+This question was possibly replaced with a more recent answer: November 3rd, 2020 Livestream Q&A: Can I play on Epic with someone on Steam? [https://www.youtube.com/watch?v=zekvCEX_mv8](https://www.youtube.com/watch?v=zekvCEX_mv8)
 
 
 ### Topics

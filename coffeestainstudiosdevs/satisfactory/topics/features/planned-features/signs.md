@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## March 30th, 2021 Livestream
+* Q&A: Can we get a sign in the game that says "Upvote that on the QA Site" [https://www.youtube.com/watch?v=UyuKRjvhgJw](https://www.youtube.com/watch?v=UyuKRjvhgJw)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Signs when?](../../../transcriptions/yt-F3BYeHIbZzU.md) [https://www.youtube.com/watch?v=F3BYeHIbZzU](https://www.youtube.com/watch?v=F3BYeHIbZzU)
 
@@ -37,6 +40,9 @@ date: Last Modified
 
 ## July 28th, 2020 Livestream
 * Q&A: Signs & Planets [https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo](https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo)
+
+## July 8th, 2020 Livestream
+* [Q&A: When are we getting Signs?](../../../transcriptions/yt-1dUNmBBbExs,1744.09797,1753.629628.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754)
 
 ## June 8th, 2020 Livestream
 * [Q&A: What about Signs?](../../../transcriptions/yt-UGKquiGR0CY.md) [https://www.youtube.com/watch?v=UGKquiGR0CY](https://www.youtube.com/watch?v=UGKquiGR0CY)

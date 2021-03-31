@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum
 
+## March 30th, 2021 Livestream
+* [Q&A: Could some Sanctum gameplay, maybe the Tower Defense part come to Satisfactory?](../../transcriptions/yt-1UTiDPGMgRI.md) [https://www.youtube.com/watch?v=1UTiDPGMgRI](https://www.youtube.com/watch?v=1UTiDPGMgRI)
+* [Q&A: Sanctum 3, when?](../../transcriptions/yt-Ud7cgUEuVlE.md) [https://www.youtube.com/watch?v=Ud7cgUEuVlE](https://www.youtube.com/watch?v=Ud7cgUEuVlE)
+
 ## February 16th, 2021 Livestream
 * [Q&A: Did Coffee Stain Studios develop Satisfactory?](../../transcriptions/yt-IPtH5E1-31k.md) [https://www.youtube.com/watch?v=IPtH5E1-31k](https://www.youtube.com/watch?v=IPtH5E1-31k)
 

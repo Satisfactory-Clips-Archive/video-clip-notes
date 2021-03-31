@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Geothermal Energy
 
+## March 30th, 2021 Livestream
+* [Q&A: Are all the Geysers in sync with the output?](../../../transcriptions/yt-b8EIuZb6-d8.md) [https://www.youtube.com/watch?v=b8EIuZb6-d8](https://www.youtube.com/watch?v=b8EIuZb6-d8)
+* [Community FYI: Geothermal needs Super Computers? (Part 1)](../../../transcriptions/yt-lWYVhh9tMHg.md) [https://www.youtube.com/watch?v=lWYVhh9tMHg](https://www.youtube.com/watch?v=lWYVhh9tMHg)
+* [Community FYI: Geothermal needs Super Computers? (Part 2)](../../../transcriptions/yt-m79SbaPCbtk.md) [https://www.youtube.com/watch?v=m79SbaPCbtk](https://www.youtube.com/watch?v=m79SbaPCbtk)
+* [Community FYI: I tried really hard to get Geothermal early-game but I saw no way to do it](../../../transcriptions/yt-T7qoKMgGwwI.md) [https://www.youtube.com/watch?v=T7qoKMgGwwI](https://www.youtube.com/watch?v=T7qoKMgGwwI)
+* [Q&A: What motivated the change for the Geyser node?](../../../transcriptions/yt-QZ4LfHmSXOc.md) [https://www.youtube.com/watch?v=QZ4LfHmSXOc](https://www.youtube.com/watch?v=QZ4LfHmSXOc)
+
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: Opinion on Power Storage [https://play.satisfactory.video/ts-952893339,4319.605724,4394.66682/](https://play.satisfactory.video/ts-952893339,4319.605724,4394.66682/)
 

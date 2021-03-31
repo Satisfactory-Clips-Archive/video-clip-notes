@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Do you guys plan on any space stations or building amongst multi planets?
 https://www.youtube.com/watch?v=OJ8LnojSUzo
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: When can we go to space?](./yt-eL7PT4_wRmY.md) [https://www.youtube.com/watch?v=eL7PT4_wRmY](https://www.youtube.com/watch?v=eL7PT4_wRmY)
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: More space-based stuff coming? [https://www.youtube.com/watch?v=pTyR9FXrU_E](https://www.youtube.com/watch?v=pTyR9FXrU_E)
 
 
 ### Topics

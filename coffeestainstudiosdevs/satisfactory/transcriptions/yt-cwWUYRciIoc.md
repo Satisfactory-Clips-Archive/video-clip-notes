@@ -11,7 +11,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Quality-of-life update?
 https://www.youtube.com/watch?v=cwWUYRciIoc
-This question was possibly duplicated with a more recent answer: [October 13th, 2020 Livestream Q&A: What quality-of-life Updates can we hope for the next Update?](./yt-OhZRue9DsJY.md) [https://www.youtube.com/watch?v=OhZRue9DsJY](https://www.youtube.com/watch?v=OhZRue9DsJY)
+This question was possibly duplicated with a more recent answer: October 13th, 2020 Livestream Q&A: What quality-of-life Updates can we hope for the next Update? [https://www.youtube.com/watch?v=OhZRue9DsJY](https://www.youtube.com/watch?v=OhZRue9DsJY)
 
 
 ### Topics

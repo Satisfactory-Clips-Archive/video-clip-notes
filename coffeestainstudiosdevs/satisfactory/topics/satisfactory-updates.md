@@ -16,6 +16,9 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## March 30th, 2021 Livestream
+* [Q&A: Is the World Update part of Update 4 or will that come later?](../transcriptions/yt-ANIKlhFcjkk.md) [https://www.youtube.com/watch?v=ANIKlhFcjkk](https://www.youtube.com/watch?v=ANIKlhFcjkk)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Heard Dune Desert getting a second rework, is this true?](../transcriptions/yt-x3fI_4o0WPw.md) [https://www.youtube.com/watch?v=x3fI_4o0WPw](https://www.youtube.com/watch?v=x3fI_4o0WPw)
 * [Q&A: Please can I have the future Roadmap back, I need it in my life](../transcriptions/yt-AlerpJ2AaXQ.md) [https://www.youtube.com/watch?v=AlerpJ2AaXQ](https://www.youtube.com/watch?v=AlerpJ2AaXQ)
@@ -33,3 +36,6 @@ date: Last Modified
 * Q&A: Why do big updates at all - why not just release everything in small bites? (Part 4) [https://clips.twitch.tv/EnjoyableCrazyVanillaStinkyCheese](https://clips.twitch.tv/EnjoyableCrazyVanillaStinkyCheese)
 * Q&A: Why do big updates at all - why not just release everything in small bites? (Part 5) [https://clips.twitch.tv/CharmingObservantLardSMOrc](https://clips.twitch.tv/CharmingObservantLardSMOrc)
 * Q&A: Why do big updates at all - why not just release everything in small bites? (Part 6) [https://clips.twitch.tv/LachrymoseCourteousDoveDxAbomb](https://clips.twitch.tv/LachrymoseCourteousDoveDxAbomb)
+
+## July 30th, 2020 Livestream
+* Q&A: Why no Updates? Is the game dead? [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=63&end=67](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=63&end=67)

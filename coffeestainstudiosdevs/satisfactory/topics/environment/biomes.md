@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Biomes
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## March 30th, 2021 Livestream
+* [Q&A: Asking very nicely even if it's a no; Oil node in Green Hills?](../../transcriptions/yt-RI8F-a7oO1s.md) [https://www.youtube.com/watch?v=RI8F-a7oO1s](https://www.youtube.com/watch?v=RI8F-a7oO1s)
+* [Q&A: Is the World Update part of Update 4 or will that come later?](../../transcriptions/yt-ANIKlhFcjkk.md) [https://www.youtube.com/watch?v=ANIKlhFcjkk](https://www.youtube.com/watch?v=ANIKlhFcjkk)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Heard Dune Desert getting a second rework, is this true?](../../transcriptions/yt-x3fI_4o0WPw.md) [https://www.youtube.com/watch?v=x3fI_4o0WPw](https://www.youtube.com/watch?v=x3fI_4o0WPw)
 * [Q&A: When you push World Updates, will those come to EA & Experimental at the same time or separate?](../../transcriptions/yt-4mnVlMXrfyw.md) [https://www.youtube.com/watch?v=4mnVlMXrfyw](https://www.youtube.com/watch?v=4mnVlMXrfyw)
@@ -48,6 +52,9 @@ date: Last Modified
 
 ## September 8th, 2020 Livestream
 * [Q&A: Even more Biomes coming to play?](../../transcriptions/yt-VgDl00Ycn3U.md) [https://www.youtube.com/watch?v=VgDl00Ycn3U](https://www.youtube.com/watch?v=VgDl00Ycn3U)
+
+## April 30th, 2020 Livestream
+* [Simon & Jace Talk: Different ambient effects for different Biomes](../../transcriptions/yt-mci92Mhr7MM,608.793576,697.5301666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698)
 
 ## February 11th, 2020 Livestream
 * [Q&A: Is this the new Desert Biome?](../../transcriptions/yt-ZKHgWByn3D4.md) [https://www.youtube.com/watch?v=ZKHgWByn3D4](https://www.youtube.com/watch?v=ZKHgWByn3D4)

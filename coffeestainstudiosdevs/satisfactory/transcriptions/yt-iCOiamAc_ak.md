@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=iCOiamAc_ak
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 
-* [September 22nd, 2020 Livestream Q&A: Is there any possibility to autodetect materials on the belts to preselect recipes per input?](./yt-KB49DxFs6tw.md) [https://www.youtube.com/watch?v=KB49DxFs6tw](https://www.youtube.com/watch?v=KB49DxFs6tw)
+* September 22nd, 2020 Livestream Q&A: Is there any possibility to autodetect materials on the belts to preselect recipes per input? [https://www.youtube.com/watch?v=KB49DxFs6tw](https://www.youtube.com/watch?v=KB49DxFs6tw)
 </details>
 
 

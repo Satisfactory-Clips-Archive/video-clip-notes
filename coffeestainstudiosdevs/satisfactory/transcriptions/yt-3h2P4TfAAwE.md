@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Can we have an alternate arachnophobia mode with Simon's face?
 https://www.youtube.com/watch?v=3h2P4TfAAwE
-This question was possibly duplicated with a more recent answer: [September 8th, 2020 Livestream Q&A: Can we upload a Spider image other than a Cat?](./yt-rlBA0k1-sWs.md) [https://www.youtube.com/watch?v=rlBA0k1-sWs](https://www.youtube.com/watch?v=rlBA0k1-sWs)
+This question was possibly duplicated with a more recent answer: September 8th, 2020 Livestream Q&A: Can we upload a Spider image other than a Cat? [https://www.youtube.com/watch?v=rlBA0k1-sWs](https://www.youtube.com/watch?v=rlBA0k1-sWs)
 
 
 ### Topics

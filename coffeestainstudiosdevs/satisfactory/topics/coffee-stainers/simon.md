@@ -40,6 +40,18 @@ date: Last Modified
 ## October 9th, 2020 Livestream
 * [Q&A: How can you concentrate with that hot piece of Simon walking around the office?](../../transcriptions/yt-VkIGrj60KtI.md) [https://www.youtube.com/watch?v=VkIGrj60KtI](https://www.youtube.com/watch?v=VkIGrj60KtI)
 
+## April 30th, 2020 Livestream
+* [Simon & Jace Talk: Different ambient effects for different Biomes](../../transcriptions/yt-mci92Mhr7MM,608.793576,697.5301666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698)
+* [Simon & Jace Talk: Introducing Simon](../../transcriptions/yt-mci92Mhr7MM,164.289825,235.960259.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236)
+* [Simon & Jace Talk: Modifying VFX](../../transcriptions/yt-mci92Mhr7MM,947.2796666666667,1092.0910000000001.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=947&end=1093](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=947&end=1093)
+* [Simon & Jace Talk: Simon being a meme](../../transcriptions/yt-mci92Mhr7MM,96.964745,164.289825.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=96&end=165](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=96&end=165)
+* [Simon & Jace Talk: VFX for ambient effects](../../transcriptions/yt-mci92Mhr7MM,425.240567,608.793576.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=425&end=609](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=425&end=609)
+* [Simon & Jace Talk: VFX for Buildings (Part 1)](../../transcriptions/yt-mci92Mhr7MM,812.6118,893.1589333333334.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=812&end=894](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=812&end=894)
+* [Simon & Jace Talk: VFX for Buildings (Part 2)](../../transcriptions/yt-mci92Mhr7MM,928.6944333333333,947.2796666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948)
+* [Simon & Jace Talk: VFX for collectable items](../../transcriptions/yt-mci92Mhr7MM,697.5301666666667,812.6118.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=697&end=813](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=697&end=813)
+* [Simon & Jace Talk: VFX for Nobelisk explosion](../../transcriptions/yt-mci92Mhr7MM,235.96906666666666,425.240567.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426)
+* [VFX with Simon](../../transcriptions/yt-mci92Mhr7MM,235.960259,1092.0910000000001.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=1093](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=1093)
+
 ## March 24th, 2020 Livestream
 * Q&A: When are the Wind Turbines that Jace leaked coming? [https://www.youtube.com/watch?v=nRMTYlLqiSc](https://www.youtube.com/watch?v=nRMTYlLqiSc)
 

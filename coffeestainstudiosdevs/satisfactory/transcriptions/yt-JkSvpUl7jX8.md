@@ -9,7 +9,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Do you have any good stories for features that didn't get included in the game?
 https://www.youtube.com/watch?v=JkSvpUl7jX8
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: If you could add a feature yourself right now, what would that be ?](./yt-EbERjXIk_x4.md) [https://www.youtube.com/watch?v=EbERjXIk_x4](https://www.youtube.com/watch?v=EbERjXIk_x4)
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: What's the feature you want to add? [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
 
 
 ### Topics

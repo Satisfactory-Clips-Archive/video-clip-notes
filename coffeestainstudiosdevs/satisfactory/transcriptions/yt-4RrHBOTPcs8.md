@@ -10,7 +10,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will the update break saves?
 https://www.youtube.com/watch?v=4RrHBOTPcs8
-This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Do you guys have plans for other save-breaking changes in the future?](./yt-mFPSgNO5cIk.md) [https://www.youtube.com/watch?v=mFPSgNO5cIk](https://www.youtube.com/watch?v=mFPSgNO5cIk)
+This question was possibly duplicated with a more recent answer: March 9th, 2021 Livestream Q&A: Do you guys have plans for other save-breaking changes in the future? [https://www.youtube.com/watch?v=mFPSgNO5cIk](https://www.youtube.com/watch?v=mFPSgNO5cIk)
 
 
 ### Topics

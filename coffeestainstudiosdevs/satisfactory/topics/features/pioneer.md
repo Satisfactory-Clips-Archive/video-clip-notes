@@ -4,6 +4,16 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## March 30th, 2021 Livestream
+* [Q&A: Can we finally sleep in the HUB?](../../transcriptions/yt-vB8Drt_Ybhw.md) [https://www.youtube.com/watch?v=vB8Drt_Ybhw](https://www.youtube.com/watch?v=vB8Drt_Ybhw)
+* [Q&A: Could you make a setting to disable the feet dragging sound?](../../transcriptions/yt-KfKtG1DjjFI.md) [https://www.youtube.com/watch?v=KfKtG1DjjFI](https://www.youtube.com/watch?v=KfKtG1DjjFI)
+* [Snutt Talk: Death crates (Part 1)](../../transcriptions/yt-zepXMTSrvTA.md) [https://www.youtube.com/watch?v=zepXMTSrvTA](https://www.youtube.com/watch?v=zepXMTSrvTA)
+* [Snutt Talk: Death crates (Part 2)](../../transcriptions/yt-Rk7SGMcEm5M.md) [https://www.youtube.com/watch?v=Rk7SGMcEm5M](https://www.youtube.com/watch?v=Rk7SGMcEm5M)
+* Q&A: How do I remove disconnected players?, they just sit there and block builds. [https://www.youtube.com/watch?v=CDZ1Hu5vKzQ](https://www.youtube.com/watch?v=CDZ1Hu5vKzQ)
+* [Q&A: Is it possible that the Pioneer spawns in the Toilet after death?](../../transcriptions/yt-b8Fg3LOjcBo.md) [https://www.youtube.com/watch?v=b8Fg3LOjcBo](https://www.youtube.com/watch?v=b8Fg3LOjcBo)
+* [Q&A: Regain health?](../../transcriptions/yt-8SVPBlq4ORQ.md) [https://www.youtube.com/watch?v=8SVPBlq4ORQ](https://www.youtube.com/watch?v=8SVPBlq4ORQ)
+* [Q&A: What about the HyperTube launcher that doesn't spawn a crate when you die?](../../transcriptions/yt-y7qT_KwDsI8.md) [https://www.youtube.com/watch?v=y7qT_KwDsI8](https://www.youtube.com/watch?v=y7qT_KwDsI8)
+
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: That shot of the dead Pioneer [https://play.satisfactory.video/ts-952893339,3626.216334,3634.786431/](https://play.satisfactory.video/ts-952893339,3626.216334,3634.786431/)
 

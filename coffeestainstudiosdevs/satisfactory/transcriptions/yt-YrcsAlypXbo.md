@@ -9,7 +9,7 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Is the Story completely written or is it still in progress?
 https://www.youtube.com/watch?v=YrcsAlypXbo
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any Story hints?](./yt-83bWsjYlMrM.md) [https://www.youtube.com/watch?v=83bWsjYlMrM](https://www.youtube.com/watch?v=83bWsjYlMrM)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be Story to the game?](./yt-C23SCWtnv2U.md) [https://www.youtube.com/watch?v=C23SCWtnv2U](https://www.youtube.com/watch?v=C23SCWtnv2U)
 
 
 ### Topics

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Early Access
 
+## March 30th, 2021 Livestream
+* [Snutt Talk: Community Highlights entry illustrates pre-conveyor lift Satisfactory](../../transcriptions/yt-jokJfL5ds8U.md) [https://www.youtube.com/watch?v=jokJfL5ds8U](https://www.youtube.com/watch?v=jokJfL5ds8U)
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Out of Early Access?](../../transcriptions/yt-y51YDVf8VOI.md) [https://www.youtube.com/watch?v=y51YDVf8VOI](https://www.youtube.com/watch?v=y51YDVf8VOI)
 

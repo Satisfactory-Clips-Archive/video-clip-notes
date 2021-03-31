@@ -8,7 +8,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Who is the voice of A.D.A. ?
 https://www.youtube.com/watch?v=aOzSvX8iaYg
-This question was possibly duplicated with a more recent answer: [October 27th, 2020 Livestream Q&A: Is ADA computer generated or a voice actress?](./yt-lSeLNlkKo1w.md) [https://www.youtube.com/watch?v=lSeLNlkKo1w](https://www.youtube.com/watch?v=lSeLNlkKo1w)
+This question was possibly duplicated with a more recent answer: October 27th, 2020 Livestream Q&A: Is ADA computer generated or a voice actress? [https://www.youtube.com/watch?v=lSeLNlkKo1w](https://www.youtube.com/watch?v=lSeLNlkKo1w)
 
 
 ### Topics

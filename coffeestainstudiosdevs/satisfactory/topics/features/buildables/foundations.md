@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 
+## March 30th, 2021 Livestream
+* [Q&A: Any plans on a global grid?](../../../transcriptions/yt-QxJ8e_0r9uE.md) [https://www.youtube.com/watch?v=QxJ8e_0r9uE](https://www.youtube.com/watch?v=QxJ8e_0r9uE)
+* [State of Dev: Cheatcrete](../../../transcriptions/yt-JBNdcw4gTiw.md) [https://www.youtube.com/watch?v=JBNdcw4gTiw](https://www.youtube.com/watch?v=JBNdcw4gTiw)
+* [Q&A: Curved Walls, Windows, and Foundations?](../../../transcriptions/yt-gBErG8jzRtI.md) [https://www.youtube.com/watch?v=gBErG8jzRtI](https://www.youtube.com/watch?v=gBErG8jzRtI)
+* [Q&A: Have you considered something like the Smart! mod for foundations?](../../../transcriptions/yt-kZtseQMvMvo.md) [https://www.youtube.com/watch?v=kZtseQMvMvo](https://www.youtube.com/watch?v=kZtseQMvMvo)
+* [Q&A: Why not just replace Foundation groups with a single object?](../../../transcriptions/yt-wNLWTAG6j5o.md) [https://www.youtube.com/watch?v=wNLWTAG6j5o](https://www.youtube.com/watch?v=wNLWTAG6j5o)
+
 ## March 26th, 2021 Livestream
 * [Snutt Talk: Cheatcrete](../../../transcriptions/yt-jmrABq4cCzY,305.2916666666667,386.0833333333333.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=305&end=387](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=305&end=387)
 
@@ -98,3 +105,6 @@ date: Last Modified
 
 ## August 1st, 2018 Livestream
 * [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100)
+
+## August 1st, 2017 Livestream
+* [Jace Talk: Factory Organization](../../../transcriptions/yt-ZW0OOikcWN0,1088.48,1187.12.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1088&end=1188](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1088&end=1188)

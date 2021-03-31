@@ -10,7 +10,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Will Update 4 include Map Updates?
 https://www.youtube.com/watch?v=HoD69Qs7RTU
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any ideas on a more detailed Map?](./yt-w3_T37dQba0.md) [https://www.youtube.com/watch?v=w3_T37dQba0](https://www.youtube.com/watch?v=w3_T37dQba0)
+This question was possibly duplicated with a more recent answer: February 23rd, 2021 Livestream Q&A: Any ideas on a more detailed Map? [https://www.youtube.com/watch?v=w3_T37dQba0](https://www.youtube.com/watch?v=w3_T37dQba0)
 
 
 ### Topics

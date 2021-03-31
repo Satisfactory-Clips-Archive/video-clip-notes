@@ -10,7 +10,7 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Will Experimental & EA be the same version so we can swap?
 https://www.youtube.com/watch?v=-m_-g6ELKsY
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: I played on Experimental, now I can't load my save on previous version, do I have to wait?](./yt-EBoS-s9O_oU.md) [https://www.youtube.com/watch?v=EBoS-s9O_oU](https://www.youtube.com/watch?v=EBoS-s9O_oU)
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: I played on Experimental, now I can't load my save on previous version, do I have to wait? [https://www.youtube.com/watch?v=EBoS-s9O_oU](https://www.youtube.com/watch?v=EBoS-s9O_oU)
 
 
 ### Topics

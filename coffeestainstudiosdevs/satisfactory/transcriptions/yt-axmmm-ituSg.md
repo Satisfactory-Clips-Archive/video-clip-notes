@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: When are you going to expand the map?
 https://www.youtube.com/watch?v=axmmm-ituSg
-This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: Will the Map be bigger later?](./yt-gvOt4jwWA4Q.md) [https://www.youtube.com/watch?v=gvOt4jwWA4Q](https://www.youtube.com/watch?v=gvOt4jwWA4Q)
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Is a bigger world a possibility? [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
 
 
 ### Topics

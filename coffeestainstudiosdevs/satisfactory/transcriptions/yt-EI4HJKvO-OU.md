@@ -11,7 +11,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Pollution is a thing?
 https://www.youtube.com/watch?v=EI4HJKvO-OU
-This question was possibly duplicated with a more recent answer: [November 17th, 2020 Livestream Q&A: The world should react to the invasive destruction and polluting?](./yt-G0vwHL092w4.md) [https://www.youtube.com/watch?v=G0vwHL092w4](https://www.youtube.com/watch?v=G0vwHL092w4)
+This question was possibly duplicated with a more recent answer: November 17th, 2020 Livestream Q&A: The world should react to the invasive destruction and polluting? [https://www.youtube.com/watch?v=G0vwHL092w4](https://www.youtube.com/watch?v=G0vwHL092w4)
 
 
 ### Topics

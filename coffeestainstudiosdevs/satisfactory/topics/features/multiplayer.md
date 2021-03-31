@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## March 30th, 2021 Livestream
+* Q&A: How do I remove disconnected players?, they just sit there and block builds. [https://www.youtube.com/watch?v=CDZ1Hu5vKzQ](https://www.youtube.com/watch?v=CDZ1Hu5vKzQ)
+* [Q&A: Is the Multiplayer bad? a review said so.](../../transcriptions/yt-_KWqhS0ycrM.md) [https://www.youtube.com/watch?v=_KWqhS0ycrM](https://www.youtube.com/watch?v=_KWqhS0ycrM)
+* [Q&A: Multiplayer Train lag fixes?](../../transcriptions/yt-l80tNALjEak.md) [https://www.youtube.com/watch?v=l80tNALjEak](https://www.youtube.com/watch?v=l80tNALjEak)
+
 ## March 23rd, 2021 Livestream
 * Community FYI: I've noticed that vehicles drive a lot better as the not-host [https://www.youtube.com/watch?v=VwU9RL_CvLg](https://www.youtube.com/watch?v=VwU9RL_CvLg)
 * [Q&A: No hard drives for clients though?](../../transcriptions/yt-h9PeqJoWnIQ.md) [https://www.youtube.com/watch?v=h9PeqJoWnIQ](https://www.youtube.com/watch?v=h9PeqJoWnIQ)
@@ -196,3 +201,7 @@ date: Last Modified
 
 ## June 22nd, 2018 Livestream
 * [Jace Talk: General multiplayer questions](../../transcriptions/yt-W1E6EWrAsII,256.8,316.92.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317)
+
+## August 1st, 2017 Livestream
+* [Jace Talk: Multiplayer Crafting](../../transcriptions/yt-ZW0OOikcWN0,444.2,459.28.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460)
+* [Jace Talk: Multiplayer Ping & Text Chat](../../transcriptions/yt-ZW0OOikcWN0,100.230344,155.16.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=100&end=156](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=100&end=156)

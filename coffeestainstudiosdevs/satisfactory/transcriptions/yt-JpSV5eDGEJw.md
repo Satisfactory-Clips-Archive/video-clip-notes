@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=JpSV5eDGEJw
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 
-* [September 1st, 2020 Livestream Q&A: Maybe it's a good idea to dynamically hand over authority a vehicle in multiplayer?](./yt-Xdrr6IazPTg.md) [https://www.youtube.com/watch?v=Xdrr6IazPTg](https://www.youtube.com/watch?v=Xdrr6IazPTg)
+* September 1st, 2020 Livestream Q&A: Maybe it's a good idea to dynamically hand over authority a vehicle in multiplayer? [https://www.youtube.com/watch?v=Xdrr6IazPTg](https://www.youtube.com/watch?v=Xdrr6IazPTg)
 </details>
 
 

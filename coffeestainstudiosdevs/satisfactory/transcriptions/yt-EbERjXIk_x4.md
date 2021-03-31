@@ -13,14 +13,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: If you could add a feature yourself right now, what would that be ?
 https://www.youtube.com/watch?v=EbERjXIk_x4
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as November 2020 and as early as March 2019.</summary>
-
-* [November 10th, 2020 Livestream Q&A: Any features you want to add to the game but you don't expect to be added to the vanilla game?](./yt-uVGH_lZnc2g.md) [https://www.youtube.com/watch?v=uVGH_lZnc2g](https://www.youtube.com/watch?v=uVGH_lZnc2g)
-* [October 20th, 2020 Livestream Q&A: Are there any features you guys really want in the game but you can't/won't add?](./yt-QuCAOO3xPQQ.md) [https://www.youtube.com/watch?v=QuCAOO3xPQQ](https://www.youtube.com/watch?v=QuCAOO3xPQQ)
-* [October 6th, 2020 Livestream Q&A: Do you have any good stories for features that didn't get included in the game?](./yt-JkSvpUl7jX8.md) [https://www.youtube.com/watch?v=JkSvpUl7jX8](https://www.youtube.com/watch?v=JkSvpUl7jX8)
-* [March 9th, 2019 Livestream Q&A: Are there any things you had wanted to add to the game but had to cancel?](./yt-akmmqVmHmzM.md) [https://www.youtube.com/watch?v=akmmqVmHmzM](https://www.youtube.com/watch?v=akmmqVmHmzM)
-</details>
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: What's the feature you want to add? [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
 
 
 ### Topics

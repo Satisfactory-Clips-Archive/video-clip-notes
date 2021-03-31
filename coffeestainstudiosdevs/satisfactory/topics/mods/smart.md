@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Smart!
 
+## March 30th, 2021 Livestream
+* [Q&A: Have you considered something like the Smart! mod for foundations?](../../transcriptions/yt-kZtseQMvMvo.md) [https://www.youtube.com/watch?v=kZtseQMvMvo](https://www.youtube.com/watch?v=kZtseQMvMvo)
+* [Q&A: Mass building like the Smart! Mod?](../../transcriptions/yt-ewd0MlE-zzA.md) [https://www.youtube.com/watch?v=ewd0MlE-zzA](https://www.youtube.com/watch?v=ewd0MlE-zzA)
+
 ## March 16th, 2021 Livestream
 * Mod highlight part 2: Smart! [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=12049&end=12091](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=12049&end=12091)
 

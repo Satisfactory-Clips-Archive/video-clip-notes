@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Chainsaw
 
+## March 30th, 2021 Livestream
+* [Community FYI: AOE allows you to cheat in some places](../../../transcriptions/yt-leRGxj9rDsI.md) [https://www.youtube.com/watch?v=leRGxj9rDsI](https://www.youtube.com/watch?v=leRGxj9rDsI)
+* [Q&A: Why does the Chainsaw not consume Fuel?](../../../transcriptions/yt-_MMqKE-jYTk.md) [https://www.youtube.com/watch?v=_MMqKE-jYTk](https://www.youtube.com/watch?v=_MMqKE-jYTk)
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Will you reduce the Chainsaw sound?](../../../transcriptions/yt-xa3ku5IEhrs.md) [https://www.youtube.com/watch?v=xa3ku5IEhrs](https://www.youtube.com/watch?v=xa3ku5IEhrs)
 

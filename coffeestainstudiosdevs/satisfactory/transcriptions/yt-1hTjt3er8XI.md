@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Any more info on Train Signals?
 https://www.youtube.com/watch?v=1hTjt3er8XI
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will Trains get collision in the future?](./yt-e8ctn7TDrq0.md) [https://www.youtube.com/watch?v=e8ctn7TDrq0](https://www.youtube.com/watch?v=e8ctn7TDrq0)
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Will Trains get collision in the future? [https://www.youtube.com/watch?v=e8ctn7TDrq0](https://www.youtube.com/watch?v=e8ctn7TDrq0)
 
 
 ### Topics

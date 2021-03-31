@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: New music theme coming?
 https://www.youtube.com/watch?v=3Xf0xozi8zc
-This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Will the soundtrack be expanded before 1.0?](./yt-Is1WuIaWXGE.md) [https://www.youtube.com/watch?v=Is1WuIaWXGE](https://www.youtube.com/watch?v=Is1WuIaWXGE)
+This question was possibly duplicated with a more recent answer: March 9th, 2021 Livestream Q&A: Will the soundtrack be expanded before 1.0? [https://www.youtube.com/watch?v=Is1WuIaWXGE](https://www.youtube.com/watch?v=Is1WuIaWXGE)
 
 
 ### Topics

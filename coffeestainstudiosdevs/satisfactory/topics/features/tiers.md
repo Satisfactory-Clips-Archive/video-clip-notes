@@ -15,6 +15,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## March 30th, 2021 Livestream
+* [Q&A: Space Elevator as a resource Sink for six specific items after all the stages?](../../transcriptions/yt-4Dgn9kWGN48.md) [https://www.youtube.com/watch?v=4Dgn9kWGN48](https://www.youtube.com/watch?v=4Dgn9kWGN48)
+
 ## March 23rd, 2021 Livestream
 * [Snutt Talk: Hover Pack](../../transcriptions/yt-FA1JT6n44X4.md) [https://www.youtube.com/watch?v=FA1JT6n44X4](https://www.youtube.com/watch?v=FA1JT6n44X4)
 * [Q&A: Swap Drones with Hover Pack?](../../transcriptions/yt-E_t6aUIA5Zk.md) [https://www.youtube.com/watch?v=E_t6aUIA5Zk](https://www.youtube.com/watch?v=E_t6aUIA5Zk)

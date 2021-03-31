@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## March 30th, 2021 Livestream
+* [Snutt Talk: Double output for Mk.3 Miner](../../../transcriptions/yt-uj2-PF2xHY8.md) [https://www.youtube.com/watch?v=uj2-PF2xHY8](https://www.youtube.com/watch?v=uj2-PF2xHY8)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?](../../../transcriptions/yt-5BOnK8wVCro.md) [https://www.youtube.com/watch?v=5BOnK8wVCro](https://www.youtube.com/watch?v=5BOnK8wVCro)
 
@@ -18,3 +21,6 @@ date: Last Modified
 
 ## November 8th, 2018 Livestream
 * [Powering up a Miner](../../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164)
+
+## August 1st, 2017 Livestream
+* [Jace Talk: Automating Resource gathering](../../../transcriptions/yt-ZW0OOikcWN0,459.28,651.16.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=459&end=652](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=459&end=652)

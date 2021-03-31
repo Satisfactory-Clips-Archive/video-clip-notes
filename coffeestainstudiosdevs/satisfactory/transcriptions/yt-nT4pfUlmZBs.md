@@ -9,7 +9,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will there be something like the Resource Sink but for Fluids?
 https://www.youtube.com/watch?v=nT4pfUlmZBs
-This question was possibly duplicated with a more recent answer: March 2nd, 2021 Livestream Q&A: Sink Fluids? [https://www.youtube.com/watch?v=_g71DI13oac](https://www.youtube.com/watch?v=_g71DI13oac)
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: AWESOME Sink for fluids? [https://www.youtube.com/watch?v=NzhKGg8zSAU](https://www.youtube.com/watch?v=NzhKGg8zSAU)
 
 
 ### Topics

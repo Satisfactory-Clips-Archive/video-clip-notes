@@ -12,7 +12,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?
 https://www.youtube.com/watch?v=ccmgnLh1oO0
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Do you have plans for the WIP items?](./yt-GPP6rcB8ROw.md) [https://www.youtube.com/watch?v=GPP6rcB8ROw](https://www.youtube.com/watch?v=GPP6rcB8ROw)
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Do you have plans for the WIP items? [https://www.youtube.com/watch?v=GPP6rcB8ROw](https://www.youtube.com/watch?v=GPP6rcB8ROw)
 
 
 ### Topics

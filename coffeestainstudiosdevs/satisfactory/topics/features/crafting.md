@@ -62,3 +62,8 @@ date: Last Modified
 * [Smelting Iron](../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275)
 * [Using Iron Ingots to eventually make Screws](../../transcriptions/yt-J_Dznt1OG-0,274.440833,365.9656.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366)
 * [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516)
+
+## August 1st, 2017 Livestream
+* [Jace Talk: Automating Crafting (Part 1)](../../transcriptions/yt-ZW0OOikcWN0,747.08,866.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=747&end=866](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=747&end=866)
+* [Jace Talk: Automating Crafting (Part 2)](../../transcriptions/yt-ZW0OOikcWN0,968.818506,1014.32.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=968&end=1015](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=968&end=1015)
+* [Jace Talk: Multiplayer Crafting](../../transcriptions/yt-ZW0OOikcWN0,444.2,459.28.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460)

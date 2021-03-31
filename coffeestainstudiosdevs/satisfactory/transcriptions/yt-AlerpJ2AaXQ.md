@@ -8,14 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Please can I have the future Roadmap back, I need it in my life
 https://www.youtube.com/watch?v=AlerpJ2AaXQ
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as December 2020 and as early as March 2020.</summary>
-
-* [December 8th, 2020 Livestream Q&A: I would be interested to see your in-house roadmap](./yt-D0LY0PxkSJM.md) [https://www.youtube.com/watch?v=D0LY0PxkSJM](https://www.youtube.com/watch?v=D0LY0PxkSJM)
-* [September 1st, 2020 Livestream Q&A: Roadmap?](./yt-iSMAUqquuvc.md) [https://www.youtube.com/watch?v=iSMAUqquuvc](https://www.youtube.com/watch?v=iSMAUqquuvc)
-* [August 25th, 2020 Livestream Q&A: Do you have a set of ideas?](./yt-eSN0HQlSJBs.md) [https://www.youtube.com/watch?v=eSN0HQlSJBs](https://www.youtube.com/watch?v=eSN0HQlSJBs)
-* [March 24th, 2020 Livestream Q&A: Will there be a roadmap again for Updates?](./yt-EiqFP9bm7v4.md) [https://www.youtube.com/watch?v=EiqFP9bm7v4](https://www.youtube.com/watch?v=EiqFP9bm7v4)
-</details>
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Satisfactory Roadmap? [https://www.youtube.com/watch?v=HZ4vKssj208](https://www.youtube.com/watch?v=HZ4vKssj208)
 
 
 ### Topics

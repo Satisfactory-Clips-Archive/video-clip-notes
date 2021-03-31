@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Mass Building
 
+## March 30th, 2021 Livestream
+* [Community FYI: Drag building is one of the best features](../../../transcriptions/yt-vWPblgJ1eeQ.md) [https://www.youtube.com/watch?v=vWPblgJ1eeQ](https://www.youtube.com/watch?v=vWPblgJ1eeQ)
+* [Q&A: Have you considered something like the Smart! mod for foundations?](../../../transcriptions/yt-kZtseQMvMvo.md) [https://www.youtube.com/watch?v=kZtseQMvMvo](https://www.youtube.com/watch?v=kZtseQMvMvo)
+* [Q&A: Mass building like the Smart! Mod?](../../../transcriptions/yt-ewd0MlE-zzA.md) [https://www.youtube.com/watch?v=ewd0MlE-zzA](https://www.youtube.com/watch?v=ewd0MlE-zzA)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Multiple Foundation placing instead of one-by-one?](../../../transcriptions/yt-YJLWX_-_trA.md) [https://www.youtube.com/watch?v=YJLWX_-_trA](https://www.youtube.com/watch?v=YJLWX_-_trA)
 

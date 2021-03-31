@@ -177,6 +177,10 @@ date: Last Modified
 ## July 21st, 2020 Livestream
 * Q&A: What do you think about a game mode with weather effects doing damage or slowing machines? [https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime](https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime)
 
+## April 30th, 2020 Livestream
+* [Simon & Jace Talk: VFX for Buildings (Part 1)](../../transcriptions/yt-mci92Mhr7MM,812.6118,893.1589333333334.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=812&end=894](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=812&end=894)
+* [Simon & Jace Talk: VFX for Buildings (Part 2)](../../transcriptions/yt-mci92Mhr7MM,928.6944333333333,947.2796666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948)
+
 ## December 19th, 2019 Livestream
 * [Q&A: How about personal elevators?](../../transcriptions/yt-f3TtRJWOI2Q.md) [https://www.youtube.com/watch?v=f3TtRJWOI2Q](https://www.youtube.com/watch?v=f3TtRJWOI2Q)
 * [Q&A: Human Elevators?](../../transcriptions/yt-HGwoBSLqtcw.md) [https://www.youtube.com/watch?v=HGwoBSLqtcw](https://www.youtube.com/watch?v=HGwoBSLqtcw)

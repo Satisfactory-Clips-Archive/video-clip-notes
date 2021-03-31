@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: The game needs small Flying Vehicles to travel long distance?
 https://www.youtube.com/watch?v=i0_bbpQ_91I
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be planes and helicopters?](./yt-E-c_NfjMqUM.md) [https://www.youtube.com/watch?v=E-c_NfjMqUM](https://www.youtube.com/watch?v=E-c_NfjMqUM)
 
 
 ### Topics

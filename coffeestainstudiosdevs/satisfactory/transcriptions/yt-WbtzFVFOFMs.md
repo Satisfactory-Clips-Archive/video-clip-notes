@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Are Conveyor Belt Mk. 6 going to be a thing?
 https://www.youtube.com/watch?v=WbtzFVFOFMs
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any chance of faster belts in the future?](./yt-Rv5-4k_ZzWU.md) [https://www.youtube.com/watch?v=Rv5-4k_ZzWU](https://www.youtube.com/watch?v=Rv5-4k_ZzWU)
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Will there be a Mk.6 belt? [https://www.youtube.com/watch?v=x2MeE6UR3o8](https://www.youtube.com/watch?v=x2MeE6UR3o8)
 
 
 ### Topics

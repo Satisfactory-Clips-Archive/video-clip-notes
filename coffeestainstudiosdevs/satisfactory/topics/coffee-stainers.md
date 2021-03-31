@@ -25,6 +25,10 @@ date: Last Modified
 * [Tim](../topics/coffee-stainers/tim.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## March 30th, 2021 Livestream
+* [Q&A: Satisfactory Roadmap?](../transcriptions/yt-HZ4vKssj208.md) [https://www.youtube.com/watch?v=HZ4vKssj208](https://www.youtube.com/watch?v=HZ4vKssj208)
+* [Snutt Talk: We see everything posted on the QA Site](../transcriptions/yt-apW-3vXw6Nw.md) [https://www.youtube.com/watch?v=apW-3vXw6Nw](https://www.youtube.com/watch?v=apW-3vXw6Nw)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Have you guys considered writing/vlogging more about the technical sides of development?](../transcriptions/yt-gKZmQ7vZZbU.md) [https://www.youtube.com/watch?v=gKZmQ7vZZbU](https://www.youtube.com/watch?v=gKZmQ7vZZbU)
 
@@ -83,6 +87,9 @@ date: Last Modified
 
 ## August 11th, 2020 Livestream
 * Q&A: Do you have a QA department? [https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull](https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull)
+
+## July 8th, 2020 Livestream
+* [Mod highlight part 1: Area Actions (Part 2)](../transcriptions/yt-1dUNmBBbExs,2452.744435,2489.595532.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2452&end=2490](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2452&end=2490)
 
 ## March 24th, 2020 Livestream
 * [Snutt & Jace Talk: We don't plan very well at all](../transcriptions/yt-uNWZuo9AxdM.md) [https://www.youtube.com/watch?v=uNWZuo9AxdM](https://www.youtube.com/watch?v=uNWZuo9AxdM)

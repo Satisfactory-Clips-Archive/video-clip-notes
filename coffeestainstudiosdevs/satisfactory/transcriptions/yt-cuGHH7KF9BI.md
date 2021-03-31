@@ -8,7 +8,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Will there be larger underground spaces?
 https://www.youtube.com/watch?v=cuGHH7KF9BI
-This question was possibly replaced with a more recent answer: [January 19th, 2021 Livestream Q&A: Are you still planning Underground Biomes?](./yt-zho1Gn_x76w.md) [https://www.youtube.com/watch?v=zho1Gn_x76w](https://www.youtube.com/watch?v=zho1Gn_x76w)
+This question was possibly replaced with a more recent answer: January 19th, 2021 Livestream Q&A: Are you still planning Underground Biomes? [https://www.youtube.com/watch?v=zho1Gn_x76w](https://www.youtube.com/watch?v=zho1Gn_x76w)
 
 
 ### Topics

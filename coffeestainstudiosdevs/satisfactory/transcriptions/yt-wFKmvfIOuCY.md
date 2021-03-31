@@ -9,7 +9,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Cosmetics for the Pioneer or even Lizard Doggo?
 https://www.youtube.com/watch?v=wFKmvfIOuCY
-This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Will there be at some point Character Customisation?](./yt-fy4_awSdvk0.md) [https://www.youtube.com/watch?v=fy4_awSdvk0](https://www.youtube.com/watch?v=fy4_awSdvk0)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: New Suit Skins?](./yt-1ekgStY-lEc.md) [https://www.youtube.com/watch?v=1ekgStY-lEc](https://www.youtube.com/watch?v=1ekgStY-lEc)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will there be more polish to the Survival aspects of the game?
 https://www.youtube.com/watch?v=0flTS1mpH7s
-This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Will you guys eventually add survival elements like hunger & thirst?](./yt-5QJJqDM03Ww.md) [https://www.youtube.com/watch?v=5QJJqDM03Ww](https://www.youtube.com/watch?v=5QJJqDM03Ww)
+This question was possibly duplicated with a more recent answer: January 26th, 2021 Livestream Q&A: Will you guys eventually add survival elements like hunger & thirst? [https://www.youtube.com/watch?v=5QJJqDM03Ww](https://www.youtube.com/watch?v=5QJJqDM03Ww)
 
 
 ### Topics

@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=XswfSsanpDo
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as March 2020.</summary>
 
-* [March 24th, 2020 Livestream Q&A: Will we be able to download & buy the amazing soundtrack?](./yt-yLgW2QiPT70.md) [https://www.youtube.com/watch?v=yLgW2QiPT70](https://www.youtube.com/watch?v=yLgW2QiPT70)
+* March 24th, 2020 Livestream Q&A: Will we be able to download & buy the amazing soundtrack? [https://www.youtube.com/watch?v=yLgW2QiPT70](https://www.youtube.com/watch?v=yLgW2QiPT70)
 </details>
 
 

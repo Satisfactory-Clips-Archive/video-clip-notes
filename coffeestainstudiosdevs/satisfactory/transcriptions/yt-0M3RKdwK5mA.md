@@ -9,7 +9,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Official Mod support?
 https://www.youtube.com/watch?v=0M3RKdwK5mA
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Is it possible to have Steam Workshop in the game?](./yt-U2Dufcqf9G8.md) [https://www.youtube.com/watch?v=U2Dufcqf9G8](https://www.youtube.com/watch?v=U2Dufcqf9G8)
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Is it possible to have Steam Workshop in the game? [https://www.youtube.com/watch?v=U2Dufcqf9G8](https://www.youtube.com/watch?v=U2Dufcqf9G8)
 
 
 ### Topics

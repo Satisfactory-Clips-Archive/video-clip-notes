@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Paint
 
+## March 30th, 2021 Livestream
+* [Q&A: Any news on reworking colour selection?](../../transcriptions/yt-OTsxz-Twmys.md) [https://www.youtube.com/watch?v=OTsxz-Twmys](https://www.youtube.com/watch?v=OTsxz-Twmys)
+* Q&A: Will the colour gun be fixed? [https://www.youtube.com/watch?v=Vc-zgbseTCc](https://www.youtube.com/watch?v=Vc-zgbseTCc)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: In the video about the Engine Upgrade, Jace talked about the improvement of building painting?](../../transcriptions/yt-sc_p8BAXGEU.md) [https://www.youtube.com/watch?v=sc_p8BAXGEU](https://www.youtube.com/watch?v=sc_p8BAXGEU)
 * [Q&A: Will the Trains ever be paintable?](../../transcriptions/yt-L2-j0MZepbI.md) [https://www.youtube.com/watch?v=L2-j0MZepbI](https://www.youtube.com/watch?v=L2-j0MZepbI)

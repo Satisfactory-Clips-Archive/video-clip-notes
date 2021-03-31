@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=fbIm1CfGGZQ
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as September 2020.</summary>
 
-* [November 10th, 2020 Livestream Q&A: Will Story need a new Save File?](./yt-zrHzxTVBc3w.md) [https://www.youtube.com/watch?v=zrHzxTVBc3w](https://www.youtube.com/watch?v=zrHzxTVBc3w)
-* [September 22nd, 2020 Livestream Q&A: Will the Story play out when implemented or will we have to start a new game?](./yt-PPu_s5Gg8gs.md) [https://www.youtube.com/watch?v=PPu_s5Gg8gs](https://www.youtube.com/watch?v=PPu_s5Gg8gs)
+* November 10th, 2020 Livestream Q&A: Will Story need a new Save File? [https://www.youtube.com/watch?v=zrHzxTVBc3w](https://www.youtube.com/watch?v=zrHzxTVBc3w)
+* September 22nd, 2020 Livestream Q&A: Will the Story play out when implemented or will we have to start a new game? [https://www.youtube.com/watch?v=PPu_s5Gg8gs](https://www.youtube.com/watch?v=PPu_s5Gg8gs)
 </details>
 
 

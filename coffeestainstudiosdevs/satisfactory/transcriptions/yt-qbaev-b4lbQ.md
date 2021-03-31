@@ -9,7 +9,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: How can I help with translation- the Spanish one looks like Google Translator?
 https://www.youtube.com/watch?v=qbaev-b4lbQ
-This question was possibly duplicated with a more recent answer: [February 11th, 2020 Livestream Q&A: How does one help with localisation?](./yt-uLblaRDOX4Y.md) [https://www.youtube.com/watch?v=uLblaRDOX4Y](https://www.youtube.com/watch?v=uLblaRDOX4Y)
+This question was possibly duplicated with a more recent answer: February 11th, 2020 Livestream Q&A: How does one help with localisation? [https://www.youtube.com/watch?v=uLblaRDOX4Y](https://www.youtube.com/watch?v=uLblaRDOX4Y)
 
 
 ### Topics

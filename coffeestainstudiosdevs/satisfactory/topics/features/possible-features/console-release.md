@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+## March 30th, 2021 Livestream
+* [Q&A: Will we ever make a Console version?](../../../transcriptions/yt-LWvp_I866M0.md) [https://www.youtube.com/watch?v=LWvp_I866M0](https://www.youtube.com/watch?v=LWvp_I866M0)
+
 ## March 17th, 2021 Livestream
 * Q&A: Does this mean that Console is confirmed? [https://play.satisfactory.video/ts-952893339,2991.306945,3010.193065/](https://play.satisfactory.video/ts-952893339,2991.306945,3010.193065/)
 

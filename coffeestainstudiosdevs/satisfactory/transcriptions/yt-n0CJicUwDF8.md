@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will you be able to switch the mousewheel rotation with the hotbar?
 https://www.youtube.com/watch?v=n0CJicUwDF8
-This question was possibly duplicated with a more recent answer: [December 15th, 2020 Livestream Q&A: Can you make a toolbar selection to be with just hotkeys instead of mousewheel?](./yt-xwwx4N37G8M.md) [https://www.youtube.com/watch?v=xwwx4N37G8M](https://www.youtube.com/watch?v=xwwx4N37G8M)
+This question was possibly duplicated with a more recent answer: December 15th, 2020 Livestream Q&A: Can you make a toolbar selection to be with just hotkeys instead of mousewheel? [https://www.youtube.com/watch?v=xwwx4N37G8M](https://www.youtube.com/watch?v=xwwx4N37G8M)
 
 
 ### Topics

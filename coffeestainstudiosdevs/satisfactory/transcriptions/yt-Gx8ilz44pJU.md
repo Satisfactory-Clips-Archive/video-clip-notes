@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=Gx8ilz44pJU
 <details>
 <summary>This video continues in another video</summary>
 
-* [March 9th, 2019 Livestream Q&A: Are you going to add Ansel support for HD photos? (Part 2)](./yt-VQp2sry-iDQ.md) [https://www.youtube.com/watch?v=VQp2sry-iDQ](https://www.youtube.com/watch?v=VQp2sry-iDQ)
+* March 9th, 2019 Livestream Q&A: Are you going to add Ansel support for HD photos? (Part 2) [https://www.youtube.com/watch?v=VQp2sry-iDQ](https://www.youtube.com/watch?v=VQp2sry-iDQ)
 </details>
 
 

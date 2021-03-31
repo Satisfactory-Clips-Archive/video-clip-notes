@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## March 30th, 2021 Livestream
+* [State of Dev: Cheatcrete](../../transcriptions/yt-JBNdcw4gTiw.md) [https://www.youtube.com/watch?v=JBNdcw4gTiw](https://www.youtube.com/watch?v=JBNdcw4gTiw)
+* [State of Dev: Sinking Plutonium Fuel Rods](../../transcriptions/yt-W6AUplMo7J4.md) [https://www.youtube.com/watch?v=W6AUplMo7J4](https://www.youtube.com/watch?v=W6AUplMo7J4)
+* [State of Dev: Update 4 Launch & Rebalancing changes](../../transcriptions/yt-9RYf2b20JcQ.md) [https://www.youtube.com/watch?v=9RYf2b20JcQ](https://www.youtube.com/watch?v=9RYf2b20JcQ)
+* [State of Dev: Update 4 on Experimental](../../transcriptions/yt-kL9Cpd23mH0.md) [https://www.youtube.com/watch?v=kL9Cpd23mH0](https://www.youtube.com/watch?v=kL9Cpd23mH0)
+
 ## March 23rd, 2021 Livestream
 * [State of Dev Recap](../../transcriptions/yt-sWVxkv8p6Ls.md) [https://www.youtube.com/watch?v=sWVxkv8p6Ls](https://www.youtube.com/watch?v=sWVxkv8p6Ls)
 * [State of Dev: The QA Site](../../transcriptions/yt-QFAS4-KKkEk.md) [https://www.youtube.com/watch?v=QFAS4-KKkEk](https://www.youtube.com/watch?v=QFAS4-KKkEk)

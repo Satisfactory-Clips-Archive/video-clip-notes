@@ -9,12 +9,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Can you make overclocking numbers more precise?
 https://www.youtube.com/watch?v=D-aOy0Uia6Q
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as January 2021.</summary>
-
-* [February 9th, 2021 Livestream Q&A: Can you do percentage decimals to get exact part rates?](./yt-SRnmr4oaE0k.md) [https://www.youtube.com/watch?v=SRnmr4oaE0k](https://www.youtube.com/watch?v=SRnmr4oaE0k)
-* [January 19th, 2021 Livestream Q&A: Will it be possible to use decimal places for percentages in future?](./yt-zGH69_aSwwk.md) [https://www.youtube.com/watch?v=zGH69_aSwwk](https://www.youtube.com/watch?v=zGH69_aSwwk)
-</details>
+This question was possibly replaced with a more recent answer: March 30th, 2021 Livestream Q&A: Percentage with decimals in overclock menu? [https://www.youtube.com/watch?v=t-BYjRnBkAs](https://www.youtube.com/watch?v=t-BYjRnBkAs)
 
 
 ### Topics

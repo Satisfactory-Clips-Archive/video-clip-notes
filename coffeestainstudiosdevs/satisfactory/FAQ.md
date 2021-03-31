@@ -2,251 +2,7633 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
-## [March 23rd, 2021 Livestream](./2021-03-23.md)
-### [Q&A: Any chance of faster belts in the future?](./transcriptions/yt-Rv5-4k_ZzWU.md) [https://www.youtube.com/watch?v=Rv5-4k_ZzWU](https://www.youtube.com/watch?v=Rv5-4k_ZzWU)
+## [March 30th, 2021 Livestream](./2021-03-30.md)
+### [Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?](./transcriptions/yt-XkDGnJwkY18.md) [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> any chance or faster belts in the future
+> be its own thing, so we don't
+like step on their toes so to
+speak add
 >
-> i don't know
+> be its own thing, so we don't
+like step on their toes so to
+speak Adam
+>
+> be its own thing, so we don't
+like step on their toes so to
+speak add more
+>
+> be its own thing, so we don't
+like step on their toes so to
+speak add more by
+>
+> be its own thing, so we don't
+like step on their toes so to
+speak add more Bass
+>
+> be its own thing, so we don't
+like step on their toes so to
+speak add more Bots
+>
+> be its own thing, so we don't
+like step on their toes so to
+speak add more body
+>
+> be its own thing, so we don't
+like step on their toes so to
+speak add more
+>
+> be its own thing, so we don't
+like step on their toes so to
+speak add more body
+>
+> be its own thing, so we don't
+like step on their toes so to
+speak add more body cloths
+>
+> like step on their toes so to
+speak add more body cloths to
+lose
+>
+> be its own thing, so we don't
+like step on their toes so to
+speak add more body cloths to
+>
+> like step on their toes so to
+speak add more body cloths to
+lose
+>
+> like step on their toes so to
+speak add more body cloths to
+lose by Dres Blazers and jackets
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time we
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time we we
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time we will
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time we we do
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time we we don't
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time we we don't lie
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time we we don't like
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time we
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time we we
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time we we don't
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time we we don't like
+>
+> speak add more body slots to use
+butter as Blazers and jackets
+same time we we don't like that
+>
+> butter as Blazers and jackets
+same time we we don't like that
+solution
+>
+> butter as Blazers and jackets
+same time we we don't like that
+solution because
+>
+> butter as Blazers and jackets
+same time we we don't like that
+solution because if
+>
+> butter as Blazers and jackets
+same time we we don't like that
+solution because if you feel
+>
+> same time we we don't like that
+solution because if you feel
+like
+>
+> same time we we don't like that
+solution because if you feel
+like you got
+>
+> same time we we don't like that
+solution because if you feel
+like you got way
+>
+> same time we we don't like that
+solution because if you feel
+like you got way overpowered
+>
+> same time we we don't like that
+solution because if you feel
+like you got way overpowered but
+>
+> solution because if you feel
+like you got way overpowered but
+the
+>
+> we we don't like that solution
+because if you feel like you got
+way overpowered but the problem
+>
+> because if you feel like you got
+way overpowered but the problem
+with
+>
+> because if you feel like you got
+way overpowered but the problem
+with the
+>
+> because if you feel like you got
+way overpowered but the problem
+with the way
+>
+> because if you feel like you got
+way overpowered but the problem
+with the way it
+>
+> because if you feel like you got
+way overpowered but the problem
+with the way it is
+>
+> because if you feel like you got
+way overpowered but the problem
+with the way it is right
+>
+> because if you feel like you got
+way overpowered but the problem
+with the way it is right now
+>
+> because if you feel like you got
+way overpowered but the problem
+with the way it is right now is
+>
+> way overpowered but the problem
+with the way it is right now is
+I like
+>
+> way overpowered but the problem
+with the way it is right now is
+I like I'm going to
+>
+> way overpowered but the problem
+with the way it is right now is
+I like
+>
+> way overpowered but the problem
+with the way it is right now is
+I'll let
+>
+> way overpowered but the problem
+with the way it is right now is
+let's
+>
+> way overpowered but the problem
+with the way it is right now is
+I'll let you
+>
+> way overpowered but the problem
+with the way it is right now is
+I'll let you go
+>
+> way overpowered but the problem
+with the way it is right now is
+I'll let you guys
+>
+> way overpowered but the problem
+with the way it is right now is
+I'll let you guys in
+>
+> way overpowered but the problem
+with the way it is right now is
+I'll let you guys in a
+>
+> way overpowered but the problem
+with the way it is right now is
+I'll let you guys in on
+>
+> way overpowered but the problem
+with the way it is right now is
+I'll let you
+>
+> way overpowered but the problem
+with the way it is right now is
+I'll let you guys
+>
+> way overpowered but the problem
+with the way it is right now is
+I'll let you guys in
+>
+> way overpowered but the problem
+with the way it is right now is
+I'll let you guys in a little
+>
+> with the way it is right now is
+I'll let you guys in a little
+secret
+>
+> with the way it is right now is
+I'll let you guys in a little
+secret here
+>
+> with the way it is right now is
+I'll let you guys in a little
+secret here okay
+>
+> with the way it is right now is
+I'll let you guys in a little
+secret here okay from
+>
+> with the way it is right now is
+I'll let you guys in a little
+secret here okay from the
+>
+> I'll let you guys in a little
+secret here okay from the
+beginning
+>
+> I'll let you guys in a little
+secret here okay from the
+beginning the
+>
+> I'll let you guys in a little
+secret here okay from the
+beginning the game
+>
+> I'll let you guys in a little
+secret here okay from the
+beginning the game was
+>
+> I'll let you guys in a little
+secret here okay from the
+beginning the game was the
+>
+> secret here okay from the
+beginning the game was the
+equipment
+>
+> secret here okay from the
+beginning the game was the
+equipment was
+>
+> secret here okay from the
+beginning the game was the
+equipment was desiigner
+>
+> beginning the game was the
+equipment was desiigner in the
+fact
+>
+> beginning the game was the
+equipment was desiigner in the
+fact that
+>
+> beginning the game was the
+equipment was desiigner in the
+fact that you
+>
+> beginning the game was the
+equipment was desiigner in the
+fact that you had
+>
+> beginning the game was the
+equipment was desiigner in the
+fact that you had a
+>
+> beginning the game was the
+equipment was desiigner in the
+fact that you had a body
+>
+> equipment was desiigner in the
+fact that you had a body slot
+for
+>
+> equipment was desiigner in the
+fact that you had a body slot
+for each
+>
+> equipment was desiigner in the
+fact that you had a body slot
+for each like segment
+>
+> equipment was desiigner in the
+fact that you had a body slot
+for each like segment of
+>
+> equipment was desiigner in the
+fact that you had a body slot
+for each like segment of your
+>
+> fact that you had a body slot
+for each like segment of your
+body
+>
+> fact that you had a body slot
+for each like segment of your
+body so
+>
+> fact that you had a body slot
+for each like segment of your
+body so you had one
+>
+> fact that you had a body slot
+for each like segment of your
+body so you had one body
+>
+> for each like segment of your
+body so you had one body swap
+your
+>
+> for each like segment of your
+body so you had one body swap
+your had one
+>
+> for each like segment of your
+body so you had one body swap
+your had one for
+>
+> for each like segment of your
+body so you had one body swap
+your had one for your
+>
+> for each like segment of your
+body so you had one body swap
+your had one for your chest
+>
+> for each like segment of your
+body so you had one body swap
+your had one for your chest back
+>
+> body so you had one body swap
+your had one for your chest back
+I think it back
+>
+> body so you had one body swap
+your had one for your chest back
+I think it back your hands
+>
+> your had one for your chest back
+I think it back your hands your
+feet
+>
+> body so you had one body swap
+your had one for your chest back
+I think it back your hands
+>
+> your had one for your chest back
+I think it back your hands your
+feet like
+>
+> your had one for your chest back
+I think it back your hands your
+feet like we
+>
+> your had one for your chest back
+I think it back your hands your
+feet like we had
+>
+> your had one for your chest back
+I think it back your hands your
+feet like we had bought
+>
+> I think it back your hands your
+feet like we had bought two
+slots
+>
+> I think it back your hands your
+feet like we had bought two
+slots for
+>
+> I think it back your hands your
+feet like we had bought two
+slots for 4
+>
+> I think it back your hands your
+feet like we had bought two
+slots for
+>
+> your had one for your chest back
+I think it back your hands your
+feet like we had bought
+>
+> I think it back your hands your
+feet like we had bought two
+slots for 4
+>
+> your had one for your chest back
+I think it back your hands your
+feet like we had bought
+>
+> I think it back your hands your
+feet like we had bought his lust
+for her for your
+>
+> I think it back your hands your
+feet like we had bought his lust
+for her for your your body
+>
+> I think it back your hands your
+feet like we had bought his lust
+for her for your your body parts
+>
+> feet like we had bought his lust
+for her for your your body parts
+and the equipment
+>
+> feet like we had bought his lust
+for her for your your body parts
+and the equipment was
+>
+> feet like we had bought his lust
+for her for your your body parts
+and
+>
+> feet like we had bought his lust
+for her for your your body parts
+and the equipment
+>
+> feet like we had bought his lust
+for her for your your body parts
+and the equipment was
+>
+> feet like we had bought his lust
+for her for your your body parts
+and the equipment was kind
+>
+> feet like we had bought his lust
+for her for your your body parts
+and the equipment was kind of
+>
+> for her for your your body parts
+and the equipment was kind of
+came
+>
+> for her for your your body parts
+and the equipment was kind of
+came from
+>
+> for her for your your body parts
+and the equipment was kind of
+came from that
+>
+> for her for your your body parts
+and the equipment was kind of
+came from that design
+>
+> for her for your your body parts
+and the equipment was kind of
+came from that design but the
+>
+> for her for your your body parts
+and the equipment was kind of
+came from that design the pro
+>
+> for her for your your body parts
+and the equipment was kind of
+came from that design the price
+>
+> and the equipment was kind of
+came from that design but the
+problem
+>
+> and the equipment was kind of
+came from that design but the
+problem with
+>
+> and the equipment was kind of
+came from that design but the
+problem when
+>
+> and the equipment was kind of
+came from that design but the
+problem when you
+>
+> and the equipment was kind of
+came from that design but the
+problem when you have
+>
+> and the equipment was kind of
+came from that design but the
+problem
+>
+> and the equipment was kind of
+came from that design but the
+problem when
+>
+> and the equipment was kind of
+came from that design but the
+problem when you
+>
+> and the equipment was kind of
+came from that design but the
+problem when you have
+>
+> and the equipment was kind of
+came from that design but the
+problem when you have everything
+>
+> came from that design but the
+problem when you have everything
+but when you have
+>
+> came from that design but the
+problem when you have everything
+but when you have all
+>
+> came from that design but the
+problem when you have everything
+but when you have all the
+>
+> came from that design but the
+problem when you have everything
+but when you have all the things
+>
+> problem when you have everything
+but when you have all the things
+equipped
+>
+> problem when you have everything
+but when you have all the things
+equipped at the same
+>
+> everything but when you have all
+the things equipped at the same
+time
+>
+> everything but when you have all
+the things equipped at the same
+time we
+>
+> everything but when you have all
+the things equipped at the same
+time we felt like
+>
+> everything but when you have all
+the things equipped at the same
+time we felt like you
+>
+> everything but when you have all
+the things equipped at the same
+time we felt like you got
+>
+> everything but when you have all
+the things equipped at the same
+time we felt like you got a
+>
+> the things equipped at the same
+time we felt like you got a
+little
+>
+> the things equipped at the same
+time we felt like you got a
+little bit
+>
+> the things equipped at the same
+time we felt like you got a
+little bit to
+>
+> the things equipped at the same
+time we felt like you got a
+little bit to o p
+>
+> the things equipped at the same
+time we felt like you got a
+little bit to
+>
+> the things equipped at the same
+time we felt like you got a
+little bit to Opie and it felt
+>
+> time we felt like you got a
+little bit to Opie and it felt
+like
+>
+> time we felt like you got a
+little bit to Opie and it felt
+like you're breezing
+>
+> little bit to Opie and it felt
+like you're breezing through
+exploration
+>
+> little bit to Opie and it felt
+like you're breezing through
+exploration too much
+>
+> little bit to Opie and it felt
+like you're breezing through
+exploration too much so we
+>
+> like you're breezing through
+exploration too much so we
+didn't
+>
+> like you're breezing through
+exploration too much so we
+didn't like
+>
+> like you're breezing through
+exploration too much so we
+didn't like that
+>
+> like you're breezing through
+exploration too much so we
+didn't like that so
+>
+> like you're breezing through
+exploration too much so we
+didn't like that so we
+>
+> like you're breezing through
+exploration too much so we
+didn't like that so we limited
+>
+> exploration too much so we
+didn't like that so we limited
+the amount
+>
+> exploration too much so we
+didn't like that so we limited
+the amount of
+>
+> exploration too much so we
+didn't like that so we limited
+the amount of body slots
+>
+> exploration too much so we
+didn't like that so we limited
+the amount of body slots to
+>
+> exploration too much so we
+didn't like that so we limited
+the amount of body slots to two
+>
+> didn't like that so we limited
+the amount of body slots to two
+but
+>
+> didn't like that so we limited
+the amount of body slots to two
+but the
+>
+> didn't like that so we limited
+the amount of body slots to two
+but that
+>
+> didn't like that so we limited
+the amount of body slots to two
+but
+>
+> didn't like that so we limited
+the amount of body slots to two
+but that
+>
+> didn't like that so we limited
+the amount of body slots to two
+but that creates
+>
+> didn't like that so we limited
+the amount of body slots to two
+but that creates other
+>
+> didn't like that so we limited
+the amount of body slots to two
+but that creates other problems
+>
+> the amount of body slots to two
+but that creates other problems
+given
+>
+> the amount of body slots to two
+but that creates other problems
+given the fact
+>
+> the amount of body slots to two
+but that creates other problems
+given the fact that
+>
+> but that creates other problems
+given the fact that our
+equipment
+>
+> but that creates other problems
+given the fact that our
+equipment is
+>
+> but that creates other problems
+given the fact that our
+equipment is is
+>
+> but that creates other problems
+given the fact that our
+equipment is is made
+>
+> but that creates other problems
+given the fact that our
+equipment is is made for
+>
+> but that creates other problems
+given the fact that our
+equipment is is made for that
+>
+> given the fact that our
+equipment is is made for that
+old
+>
+> given the fact that our
+equipment is is made for that
+old weigh
+>
+> given the fact that our
+equipment is is made for that
+old way
+>
+> given the fact that our
+equipment is is made for that
+old way so
+>
+> given the fact that our
+equipment is is made for that
+old way so what
+>
+> given the fact that our
+equipment is is made for that
+old way so what we
+>
+> given the fact that our
+equipment is is made for that
+old way so what we are
+>
+> given the fact that our
+equipment is is made for that
+old way so what
+>
+> equipment is is made for that
+old way so what we're going to
+probably
+>
+> equipment is is made for that
+old way so what we're going to
+probably do
+>
+> equipment is is made for that
+old way so what we're going to
+probably do at some point
+>
+> old way so what we're going to
+probably do at some point is
+we're
+>
+> old way so what we're going to
+probably do at some point is
+we're going to
+>
+> old way so what we're going to
+probably do at some point is
+we're going to like
+>
+> old way so what we're going to
+probably do at some point is
+we're going to like look
+>
+> old way so what we're going to
+probably do at some point is
+we're going to like look over
+>
+> probably do at some point is
+we're going to like look over
+the
+>
+> so what we're going to probably
+do at some point is we're going
+to like look over the equipment
+>
+> do at some point is we're going
+to like look over the equipment
+system
+>
+> do at some point is we're going
+to like look over the equipment
+system overall
+>
+> do at some point is we're going
+to like look over the equipment
+system overall and
+>
+> do at some point is we're going
+to like look over the equipment
+system overall and change
+>
+> do at some point is we're going
+to like look over the equipment
+system overall and change it
+>
+> do at some point is we're going
+to like look over the equipment
+system overall and change it to
+>
+> to like look over the equipment
+system overall and change it to
+fit
+>
+> to like look over the equipment
+system overall and change it to
+fit that
+>
+> to like look over the equipment
+system overall and change it to
+fit that likes
+>
+> to like look over the equipment
+system overall and change it to
+fit that likes to
+>
+> to like look over the equipment
+system overall and change it to
+fit that likes to fix
+>
+> to like look over the equipment
+system overall and change it to
+fit that likes to fix a
+>
+> to like look over the equipment
+system overall and change it to
+fit that likes to fix a problem
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think so
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think so the
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think so they
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think so that
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think so that you
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think so that you were
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think so that you will
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think so
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think so that
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think so that you
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think so that you won't
+>
+> system overall and change it to
+fit that likes to fix a problem
+I think so that you won't run
+>
+> fit that likes to fix a problem
+I think so that you won't run
+into
+>
+> fit that likes to fix a problem
+I think so that you won't run
+into this
+>
+> fit that likes to fix a problem
+I think so that you won't run
+into this issue
+>
+> fit that likes to fix a problem
+I think so that you won't run
+into this issue but
+>
+> fit that likes to fix a problem
+I think so that you won't run
+into this issue but maybe
+>
+> fit that likes to fix a problem
+I think so that you won't run
+into this issue but maybe we
+>
+> I think so that you won't run
+into this issue but maybe we
+won't
+>
+> I think so that you won't run
+into this issue but maybe we
+won't have
+>
+> I think so that you won't run
+into this issue but maybe we
+won't have like
+>
+> I think so that you won't run
+into this issue but maybe we
+won't have like body slots like
+>
+> into this issue but maybe we
+won't have like body slots like
+that
+>
+> into this issue but maybe we
+won't have like body slots like
+that maybe
+>
+> issue but maybe we won't have
+like body slots like that maybe
+we'll do
+>
+> issue but maybe we won't have
+like body slots like that maybe
+we'll do something
+>
+> issue but maybe we won't have
+like body slots like that maybe
+we'll do something else
+>
+> issue but maybe we won't have
+like body slots like that maybe
+we'll do something else with
+>
+> issue but maybe we won't have
+like body slots like that maybe
+we'll do something else with it
+>
+> like body slots like that maybe
+we'll do something else with it
+I'm not quite sure
+>
+> like body slots like that maybe
+we'll do something else with it
+I'm not quite sure exactly
+>
+> like body slots like that maybe
+we'll do something else with it
+I'm not quite sure exactly what
+>
+> we'll do something else with it
+I'm not quite sure exactly what
+they look like I mean
+>
+> we'll do something else with it
+I'm not quite sure exactly what
+they look like I mean none of
+>
+> we'll do something else with it
+I'm not quite sure exactly what
+they look like I mean none of us
+>
+> I'm not quite sure exactly what
+they look like I mean none of us
+are
+>
+> I'm not quite sure exactly what
+they look like I mean none of us
+are currently
+>
+> I'm not quite sure exactly what
+they look like I mean none of us
+are currently because
+>
+> I'm not quite sure exactly what
+they look like I mean none of us
+are currently because we
+>
+> I'm not quite sure exactly what
+they look like I mean none of us
+are currently because we need
+>
+> I'm not quite sure exactly what
+they look like I mean none of us
+are currently because we need to
+>
+> they look like I mean none of us
+are currently because we need to
+revamp
+>
+> they look like I mean none of us
+are currently because we need to
+revamp it
+>
+> they look like I mean none of us
+are currently because we need to
+revamp it I didn't look
+>
+> they look like I mean none of us
+are currently because we need to
+revamp it I didn't look at
+>
+> they look like I mean none of us
+are currently because we need to
+revamp it I didn't look at the
+>
+> are currently because we need to
+revamp it I didn't look at the
+difference
+>
+> are currently because we need to
+revamp it I didn't look at the
+difference of butter
+>
+> are currently because we need to
+revamp it I didn't look at the
+difference
 
 
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 6 other times, as recently as February 2021 and as early as September 2020.</summary>
+<summary>This question may have been asked previously at least 6 other times, as recently as March 2021 and as early as September 2020.</summary>
 
-* [February 2nd, 2021 Livestream Q&A: Mk.6 Belt in the next Update?](./transcriptions/yt-DpT2LNED0wk.md) [https://www.youtube.com/watch?v=DpT2LNED0wk](https://www.youtube.com/watch?v=DpT2LNED0wk)
-* [November 24th, 2020 Livestream Q&A: Mk.6 Belts coming?](./transcriptions/yt-H2WwaLFOI9Q.md) [https://www.youtube.com/watch?v=H2WwaLFOI9Q](https://www.youtube.com/watch?v=H2WwaLFOI9Q)
-* [November 10th, 2020 Livestream Q&A: Are Conveyor Belt Mk. 6 going to be a thing?](./transcriptions/yt-WbtzFVFOFMs.md) [https://www.youtube.com/watch?v=WbtzFVFOFMs](https://www.youtube.com/watch?v=WbtzFVFOFMs)
-* [November 3rd, 2020 Livestream Q&A: Any plans for better Belts for Pure nodes?](./transcriptions/yt-UxW9nGO9Ius.md) [https://www.youtube.com/watch?v=UxW9nGO9Ius](https://www.youtube.com/watch?v=UxW9nGO9Ius)
-* [November 3rd, 2020 Livestream Q&A: Broader Belts?](./transcriptions/yt-Y1ulbhgaSeU.md) [https://www.youtube.com/watch?v=Y1ulbhgaSeU](https://www.youtube.com/watch?v=Y1ulbhgaSeU)
-* [September 29th, 2020 Livestream Q&A: What about Mk. 6 Belts?](./transcriptions/yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)
+* [March 23rd, 2021 Livestream Q&A: Do you ever think you'll give us more than one Body Slot?](./transcriptions/yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
+* [March 9th, 2021 Livestream Q&A: Will we ever get a second body slot?](./transcriptions/yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)
+* [March 2nd, 2021 Livestream Q&A: When are we going to be able to use more than one Equipment at a time?](./transcriptions/yt-w6VfAW7WD1w.md) [https://www.youtube.com/watch?v=w6VfAW7WD1w](https://www.youtube.com/watch?v=w6VfAW7WD1w)
+* [February 2nd, 2021 Livestream Q&A: Will we get two character slots for Jetpacks and Blade Runners](./transcriptions/yt-YKIN_NCGDpo.md) [https://www.youtube.com/watch?v=YKIN_NCGDpo](https://www.youtube.com/watch?v=YKIN_NCGDpo)
+* [October 6th, 2020 Livestream Q&A: What's the max amount of body slots?](./transcriptions/yt-aPWXjH-Xf1o.md) [https://www.youtube.com/watch?v=aPWXjH-Xf1o](https://www.youtube.com/watch?v=aPWXjH-Xf1o)
+* [September 15th, 2020 Livestream Q&A: Can I wear Boots, Jetpack and a Gas Mask?](./transcriptions/yt-Gt1ATsmBu6k.md) [https://www.youtube.com/watch?v=Gt1ATsmBu6k](https://www.youtube.com/watch?v=Gt1ATsmBu6k)
 </details>
 
-### [Q&A: Any ETA on Launch?](./transcriptions/yt-aP6v6JbuHTk.md) [https://www.youtube.com/watch?v=aP6v6JbuHTk](https://www.youtube.com/watch?v=aP6v6JbuHTk)
+### [Q&A: AWESOME Sink for fluids?](./transcriptions/yt-NzhKGg8zSAU.md) [https://www.youtube.com/watch?v=NzhKGg8zSAU](https://www.youtube.com/watch?v=NzhKGg8zSAU)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> for the building to just feel so
-much better but I don't work on
-the game and
+> awesome thing for fluids you can already
 >
-> for the building to just feel so
-much better but I don't work on
-the game any
+> sink fluids in the awesome sink you just
 >
-> for the building to just feel so
-much better but I don't work on
-the game I need
+> need to package it
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as March 2021 and as early as August 2020.</summary>
+
+* March 2nd, 2021 Livestream Q&A: Sink Fluids? [https://www.youtube.com/watch?v=_g71DI13oac](https://www.youtube.com/watch?v=_g71DI13oac)
+* [January 19th, 2021 Livestream Q&A: Sink that accepts Liquids or Gas?](./transcriptions/yt-SskXA-lxaCI.md) [https://www.youtube.com/watch?v=SskXA-lxaCI](https://www.youtube.com/watch?v=SskXA-lxaCI)
+* [October 27th, 2020 Livestream Q&A: Fluid Sink ever going to happen?](./transcriptions/yt-j79cJptq5h8.md) [https://www.youtube.com/watch?v=j79cJptq5h8](https://www.youtube.com/watch?v=j79cJptq5h8)
+* [September 1st, 2020 Livestream Q&A: Will there be something like the Resource Sink but for Fluids?](./transcriptions/yt-nT4pfUlmZBs.md) [https://www.youtube.com/watch?v=nT4pfUlmZBs](https://www.youtube.com/watch?v=nT4pfUlmZBs)
+* [August 25th, 2020 Livestream Q&A: Is the sink going to accept liquids in the future?](./transcriptions/yt-k6ZS5wzlNKs.md) [https://www.youtube.com/watch?v=k6ZS5wzlNKs](https://www.youtube.com/watch?v=k6ZS5wzlNKs)
+</details>
+
+### [Q&A: Can we finally sleep in the HUB?](./transcriptions/yt-vB8Drt_Ybhw.md) [https://www.youtube.com/watch?v=vB8Drt_Ybhw](https://www.youtube.com/watch?v=vB8Drt_Ybhw)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh can we just finally sleep in the hub
 >
-> for the building to just feel so
-much better but I don't work on
-the game I need to
+> i don't think we're ever gonna add that
 >
-> for the building to just feel so
-much better but I don't work on
-the game any tail
+> to be honest maybe we'll do like you can
 >
-> for the building to just feel so
-much better but I don't work on
-the game any Taylor
+> lay down in the hub or something but
 >
-> for the building to just feel so
-much better but I don't work on
-the game I need to download
+> the the biggest gripe we have with
 >
-> for the building to just feel so
-much better but I don't work on
-the game any tail lawn
+> sleeping in the hub
 >
-> for the building to just feel so
-much better but I don't work on
-the game any tail launch
+> is the fact that all the stuff inside a
 >
-> for the building to just feel so
-much better but I don't work on
-the game any tail launched
+> factory is like
 >
-> for the building to just feel so
-much better but I don't work on
-the game any tail launch the
+> depending on time
 >
-> for the building to just feel so
-much better but I don't work on
-the game any tail launched in
+> all right i don't know if you guys heard
 >
-> for the building to just feel so
-much better but I don't work on
-the game any tail launch Team
+> that my neighbor is screwing around
 >
-> for the building to just feel so
-much better but I don't work on
-the game any tail launch Timmy
+> um we don't want we can't really add
 >
-> much better but I don't work on
-the game any tail launch do you
-mean
+> like fast forwarding stuff like that to
 >
-> much better but I don't work on
-the game any tail launch Day
-meal
+> the game
 >
-> much better but I don't work on
-the game any tail launch do you
-mean
+> because of a few reasons the main one
 >
-> much better but I don't work on
-the game any tail launch to me
+> being that you would speed up your
+>
+> factories
+>
+> and that would we don't like that for
+>
+> two reasons
+>
+> one is because you would be able to like
+>
+> quote unquote cheat
+>
+> you know speed up your time and be able
+>
+> to get around that
+>
+> uh it also messes with
+>
+> the like it kind of optimizes away the
+>
+> fun of automation in a sense because
+>
+> it can lead to a lot of cases where
+>
+> people
+>
+> don't auto like don't learn automation
+>
+> just because they can sleep
+>
+> uh throughout time and just like make
+>
+> small things and don't expand their
+>
+> builds and stuff like that
+>
+> we already have that problem a little
+>
+> bit with the workbench in early game
+>
+> where
+>
+> if you don't realize that you should
+>
+> automate you can just go back to the
+>
+> workbench over and over and keep
+>
+> uh manually grafting and that's that's
+>
+> an issue we've had since day one it's an
+>
+> issue we don't really have a solution
+>
+> for and we don't want to introduce
+>
+> something else that adds on top of that
+>
+> uh the second thing is that um
+>
+> we it's a technical thing as well with
+>
+> speeding up the game because if we do we
+>
+> can't like
+>
+> it's it's it's a really tr tough problem
+>
+> to solve
+>
+> if we were to say like all right it's
+>
+> now 1 pm
+>
+> i wanna i want to load the game at 6 pm
+>
+> because we need to simulate everything
+>
+> that goes on
+>
+> in between that time and
+>
+> depending on your base that can be very
+>
+> very
+>
+> very expensive so what can happen is
+>
+> you go to bed and then the game crash
+>
+> like
+>
+> it seems like the game is crashing
+>
+> because it needs to simulate
+>
+> and that's a problem we just like don't
+>
+> want to focus on right now so we we're
+>
+> probably not going to introduce sleeping
+>
+> in the hub
+>
+> i know that it's frustrating that we do
+>
+> have like the mattresses there
+>
+> but maybe we'll we'll do something else
+>
+> with those in the future or something
+>
+> just so they make sense or maybe we'll
+>
+> just remove them
+>
+> but i don't think we're going to do that
+>
+> i think we're going to do something else
+>
+> with them that's a little bit more fun
+>
+> um yeah just just do like a sleeping
+>
+> animation but you don't actually go to
+>
+> bed or something like that
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as February 2021 and as early as August 2020.</summary>
+
+* [February 16th, 2021 Livestream Q&A: Can we sleep through nights?](./transcriptions/yt-uskbxtN069Q.md) [https://www.youtube.com/watch?v=uskbxtN069Q](https://www.youtube.com/watch?v=uskbxtN069Q)
+* [January 26th, 2021 Livestream Q&A: Ability to sleep coming any time?](./transcriptions/yt-kDwywg_UJoc.md) [https://www.youtube.com/watch?v=kDwywg_UJoc](https://www.youtube.com/watch?v=kDwywg_UJoc)
+* [October 6th, 2020 Livestream Q&A: When is the Hub bed going to work like the Minecraft one?](./transcriptions/yt-9o02HnPy5cY.md) [https://www.youtube.com/watch?v=9o02HnPy5cY](https://www.youtube.com/watch?v=9o02HnPy5cY)
+* August 11th, 2020 Livestream Q&A: Sleep in-game? (Part 1) [https://clips.twitch.tv/DaintyYummyLemurANELE](https://clips.twitch.tv/DaintyYummyLemurANELE)
+* August 11th, 2020 Livestream Q&A: Sleep in-game? (Part 2) [https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime](https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime)
+</details>
+
+### [Q&A: Could some Sanctum gameplay, maybe the Tower Defense part come to Satisfactory?](./transcriptions/yt-1UTiDPGMgRI.md) [https://www.youtube.com/watch?v=1UTiDPGMgRI](https://www.youtube.com/watch?v=1UTiDPGMgRI)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> could some sanctum game play maybe the
+>
+> tower defense game
+>
+> part comes to satisfactory here's here's
+>
+> reference number
+>
+> whatever number are we on is that
+>
+> anybody from the wiki here what's the
+>
+> current reference
+>
+> we're not going to add tower defense to
+>
+> the game reference number
+>
+> 40 whatever 29 so this is your 30th one
+>
+> we're not gonna have tower defense of
+>
+> the game
+>
+> 42. i trust marv marv is the one has
+>
+>  keeps track of that so this
+>
+> is your 30th one
+>
+> unless this was a 29 it's not coming
+>
+> star defense confirmed god damn it
+>
+> that's not how that works
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 11 other times, as recently as February 2021 and as early as June 2018.</summary>
+
+* February 26th, 2021 Instagram AMA Q&A: Please add semi tower defense in this game I'm begging you! [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4)
+* January 22nd, 2021 Instagram AMA Q&A: Is there a plan for automatize the base defense? [https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4](https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4)
+* [December 15th, 2020 Livestream Q&A: Can we get turrets and more PvE?](./transcriptions/yt-sJnuRV0OGF0.md) [https://www.youtube.com/watch?v=sJnuRV0OGF0](https://www.youtube.com/watch?v=sJnuRV0OGF0)
+* [December 8th, 2020 Livestream Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) [https://www.youtube.com/watch?v=5-8ACtMU2_E](https://www.youtube.com/watch?v=5-8ACtMU2_E)
+* [October 13th, 2020 Livestream Q&A: If Factories can get attacked?](./transcriptions/yt-tK_m7AqM4sY.md) [https://www.youtube.com/watch?v=tK_m7AqM4sY](https://www.youtube.com/watch?v=tK_m7AqM4sY)
+* [September 22nd, 2020 Livestream Q&A: Hoping for Base Defence?](./transcriptions/yt-RjFIQhJY824.md) [https://www.youtube.com/watch?v=RjFIQhJY824](https://www.youtube.com/watch?v=RjFIQhJY824)
+* August 18th, 2020 Livestream Q&A: Will there be animals that attack the base? [https://clips.twitch.tv/ProtectiveTubularCatJebaited](https://clips.twitch.tv/ProtectiveTubularCatJebaited)
+* [March 9th, 2019 Livestream Q&A: Can creatures in any way disrupt your factory?](./transcriptions/yt-R2Fms8EjhN8.md) [https://www.youtube.com/watch?v=R2Fms8EjhN8](https://www.youtube.com/watch?v=R2Fms8EjhN8)
+* [March 9th, 2019 Livestream Q&A: Will there be turrets or something in the game?](./transcriptions/yt-xNBFywqCrxM.md) [https://www.youtube.com/watch?v=xNBFywqCrxM](https://www.youtube.com/watch?v=xNBFywqCrxM)
+* [February 6th, 2019 Livestream Q&A: Why not turrets like Sanctum?](./transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640)
+* [June 22nd, 2018 Livestream Q&A: Will we need to defend our factory?](./transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
+</details>
+
+### [Q&A: Curved Walls, Windows, and Foundations?](./transcriptions/yt-gBErG8jzRtI.md) [https://www.youtube.com/watch?v=gBErG8jzRtI](https://www.youtube.com/watch?v=gBErG8jzRtI)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> someone needs to put their foot
+down and that person is Mark
+turn
+>
+> someone needs to put their foot
+down and that person is Mark
+curb
+>
+> someone needs to put their foot
+down and that person is Mark
+curved
+>
+> someone needs to put their foot
+down and that person is Mark
+curved wall
+>
+> someone needs to put their foot
+down and that person is Mark
+curved walls
+>
+> someone needs to put their foot
+down and that person is Mark
+curved
+>
+> someone needs to put their foot
+down and that person is Mark
+curved walls
+>
+> someone needs to put their foot
+down and that person is Mark
+curved walls windows and
+>
+> down and that person is Mark
+curved walls windows and
+Foundations
+>
+> down and that person is Mark
+curved walls windows and
+Foundations I think
+>
+> curved walls windows and
+Foundations I think those are
+the things
+>
+> curved walls windows and
+Foundations I think those are
+the things to
+>
+> curved walls windows and
+Foundations I think those are
+the things to take
+>
+> curved walls windows and
+Foundations I think those are
+the things to take it
+>
+> curved walls windows and
+Foundations I think those are
+the things to take it to
+>
+> Foundations I think those are
+the things to take it to the
+kids
+>
+> Foundations I think those are
+the things to take it to the
+kids or consideration
+>
+> Foundations I think those are
+the things to take it to the
+kids or consideration when
+>
+> Foundations I think those are
+the things to take it to the
+kids or consideration when we
+>
+> the things to take it to the
+kids or consideration when we
+look
+>
+> the things to take it to the
+kids or consideration when we
+look into
+>
+> the things to take it to the
+kids or consideration when we
+look into better
+>
+> the things to take it to the
+kids or consideration when we
+look into Better
+>
+> the things to take it to the
+kids or consideration when we
+look into better
+>
+> the things to take it to the
+kids or consideration when we
+look into better build
+>
+> the things to take it to the
+kids or consideration when we
+look into better build options
+>
+> kids or consideration when we
+look into better build options
+in the
+>
+> kids or consideration when we
+look into better build options
+in the game
+>
+> kids or consideration when we
+look into better build options
+in the game so please
+>
+> look into better build options
+in the game so please I'll put
+that in a
+>
+> look into better build options
+in the game so please I'll put
+that in a huge
+>
+> look into better build options
+in the game so please I'll put
+that in a huge side
+>
+> look into better build options
+in the game so please I'll put
+that in a huge side I'm
+>
+> look into better build options
+in the game so please I'll put
+that in a huge side I'm pretty
+>
+> in the game so please I'll put
+that in a huge side I'm pretty
+sure
+>
+> in the game so please I'll put
+that in a huge side I'm pretty
+sure there are
+>
+> in the game so please I'll put
+that in a huge side I'm pretty
+sure there are tickets
+>
+> in the game so please I'll put
+that in a huge side I'm pretty
+sure there are tickets for
+>
+> in the game so please I'll put
+that in a huge side I'm pretty
+sure there are tickets for this
+>
+> that in a huge side I'm pretty
+sure there are tickets for this
+but
+>
+> that in a huge side I'm pretty
+sure there are tickets for this
+but if
+>
+> that in a huge side I'm pretty
+sure there are tickets for this
+but if if
+>
+> that in a huge side I'm pretty
+sure there are tickets for this
+but if if if
+>
+> that in a huge side I'm pretty
+sure there are tickets for this
+but if if if you make sure
+>
+> that in a huge side I'm pretty
+sure there are tickets for this
+but if if if you make sure to
+>
+> sure there are tickets for this
+but if if if you make sure to
+upload
+>
+> sure there are tickets for this
+but if if if you make sure to
+upload those
+>
+> sure there are tickets for this
+but if if if you make sure to
+upload those those
+>
+> sure there are tickets for this
+but if if if you make sure to
+upload those those things
+>
+> sure there are tickets for this
+but if if if you make sure to
+upload those those
+>
+> sure there are tickets for this
+but if if if you make sure to
+upload those those things. Signs
+>
+> but if if if you make sure to
+upload those those things. Signs
+signs
+>
+> but if if if you make sure to
+upload those those things. Signs
+signs like
+>
+> but if if if you make sure to
+upload those those things. Signs
+signs like one
+>
+> but if if if you make sure to
+upload those those things. Signs
+signs like one of
+>
+> but if if if you make sure to
+upload those those things. Signs
+signs like one of our most
+>
+> upload those those things. Signs
+signs like one of our most
+upvoted
+>
+> but if if if you make sure to
+upload those those things. Signs
+signs like one of our most
+>
+> upload those those things. Signs
+signs like one of our most
+upvoted
+>
+> upload those those things. Signs
+signs like one of our most
+upvoted tickets I believe
+>
+> signs like one of our most
+upvoted tickets I believe them.
+Make sure to
+>
+> signs like one of our most
+upvoted tickets I believe them.
+Make sure to hit
+>
+> signs like one of our most
+upvoted tickets I believe them.
+Make sure to hit that
+>
+> signs like one of our most
+upvoted tickets I believe them.
+Make sure to hit that up
+>
+> upvoted tickets I believe them.
+Make sure to hit that up with
+button
+>
+> upvoted tickets I believe them.
+Make sure to hit that up with
+Button
+>
+> upvoted tickets I believe them.
+Make sure to hit that up with
+button
+>
+> upvoted tickets I believe them.
+Make sure to hit that up with
+Button
+>
+> upvoted tickets I believe them.
+Make sure to hit that up with
+Button Mash.
+>
+> upvoted tickets I believe them.
+Make sure to hit that up with
+Button Mash. Up
+>
+> upvoted tickets I believe them.
+Make sure to hit that up with
+Button Mash. Up open
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as November 2020 and as early as November 2020.</summary>
+
+* [November 17th, 2020 Livestream Q&A: Circular Foundations?](./transcriptions/yt-5snNwUqWAxA.md) [https://www.youtube.com/watch?v=5snNwUqWAxA](https://www.youtube.com/watch?v=5snNwUqWAxA)
+* [November 10th, 2020 Livestream Q&A: Is there any possibility you guys will be add the making of circles?](./transcriptions/yt-40bnpFI8SqE.md) [https://www.youtube.com/watch?v=40bnpFI8SqE](https://www.youtube.com/watch?v=40bnpFI8SqE)
+* [November 3rd, 2020 Livestream Q&A: Can we get Circular Foundations?](./transcriptions/yt-4sKy5-TJVKY.md) [https://www.youtube.com/watch?v=4sKy5-TJVKY](https://www.youtube.com/watch?v=4sKy5-TJVKY)
+</details>
+
+### [Q&A: Dedicated Servers?](./transcriptions/yt-dC-JRa2E6G0.md) [https://www.youtube.com/watch?v=dC-JRa2E6G0](https://www.youtube.com/watch?v=dC-JRa2E6G0)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> I don't know exactly when that's
+going to happen and I wouldn't
+work etc etc etc say
+>
+> I don't know exactly when that's
+going to happen and I wouldn't
+work etc etc etc say a
+>
+> I don't know exactly when that's
+going to happen and I wouldn't
+work etc etc etc say I
+>
+> I don't know exactly when that's
+going to happen and I wouldn't
+work etc etc etc say yeah
+>
+> I don't know exactly when that's
+going to happen and I wouldn't
+work etc etc etc say
+>
+> going to happen and I wouldn't
+work etc etc etc say I dedicated
+servers
+>
+> going to happen and I wouldn't
+work etc etc etc say I dedicated
+servers let's let's
+>
+> going to happen and I wouldn't
+work etc etc etc say I dedicated
+servers let's let's I'm going to
+>
+> work etc etc etc say I dedicated
+servers let's let's I'm going to
+repeat
+>
+> and I wouldn't work etc etc etc
+say I dedicated servers let's
+let's I'm going to repeat myself
+>
+> say I dedicated servers let's
+let's I'm going to repeat myself
+on
+>
+> say I dedicated servers let's
+let's I'm going to repeat myself
+on this
+>
+> say I dedicated servers let's
+let's I'm going to repeat myself
+on this throughout
+>
+> say I dedicated servers let's
+let's I'm going to repeat myself
+on this throughout the
+>
+> say I dedicated servers let's
+let's I'm going to repeat myself
+on this throughout the stream
+>
+> let's I'm going to repeat myself
+on this throughout the stream
+just
+>
+> let's I'm going to repeat myself
+on this throughout the stream
+just a writer for
+>
+> let's I'm going to repeat myself
+on this throughout the stream
+just a writer for that
+>
+> let's I'm going to repeat myself
+on this throughout the stream
+just a writer for that but
+>
+> on this throughout the stream
+just a writer for that but we're
+still
+>
+> on this throughout the stream
+just a writer for that but we're
+still working
+>
+> on this throughout the stream
+just a writer for that but we're
+still working at
+>
+> on this throughout the stream
+just a writer for that but we're
+still working at it again
+>
+> just a writer for that but we're
+still working at it again
+servers
+>
+> just a writer for that but we're
+still working at it again
+servers there's
+>
+> just a writer for that but we're
+still working at it again
+servers there's a
+>
+> just a writer for that but we're
+still working at it again
+servers there's a few
+>
+> just a writer for that but we're
+still working at it again
+servers there's a few issues
+>
+> still working at it again
+servers there's a few issues
+with
+>
+> still working at it again
+servers there's a few issues
+with multiplayer
+>
+> still working at it again
+servers there's a few issues
+with multiplayer as
+>
+> still working at it again
+servers there's a few issues
+with multiplayer as you may
+>
+> still working at it again
+servers there's a few issues
+with multiplayer as you may have
+>
+> servers there's a few issues
+with multiplayer as you may have
+noticed
+>
+> servers there's a few issues
+with multiplayer as you may have
+noticed if
+>
+> servers there's a few issues
+with multiplayer as you may have
+noticed if you play
+>
+> servers there's a few issues
+with multiplayer as you may have
+noticed if you play multiplayer
+>
+> with multiplayer as you may have
+noticed if you play multiplayer
+those
+>
+> with multiplayer as you may have
+noticed if you play multiplayer
+those things
+>
+> with multiplayer as you may have
+noticed if you play multiplayer
+those things will
+>
+> with multiplayer as you may have
+noticed if you play multiplayer
+those things will not
+>
+> with multiplayer as you may have
+noticed if you play multiplayer
+those things will not get
+>
+> with multiplayer as you may have
+noticed if you play multiplayer
+those things will not get fixed
+>
+> noticed if you play multiplayer
+those things will not get fixed
+just
+>
+> noticed if you play multiplayer
+those things will not get fixed
+just by adding
+>
+> noticed if you play multiplayer
+those things will not get fixed
+just by adding dedicated
+>
+> noticed if you play multiplayer
+those things will not get fixed
+just by adding dedicated servers
+>
+> those things will not get fixed
+just by adding dedicated servers
+you'll
+>
+> those things will not get fixed
+just by adding dedicated servers
+you'll get
+>
+> those things will not get fixed
+just by adding dedicated servers
+you'll get the
+>
+> those things will not get fixed
+just by adding dedicated servers
+you'll get the feature
+>
+> those things will not get fixed
+just by adding dedicated servers
+you'll get the feature of
+>
+> those things will not get fixed
+just by adding dedicated servers
+you'll get the feature of having
+>
+> just by adding dedicated servers
+you'll get the feature of having
+a
+>
+> just by adding dedicated servers
+you'll get the feature of having
+a server
+>
+> just by adding dedicated servers
+you'll get the feature of having
+a server running
+>
+> just by adding dedicated servers
+you'll get the feature of having
+a server running but
+>
+> just by adding dedicated servers
+you'll get the feature of having
+a server running but you
+>
+> just by adding dedicated servers
+you'll get the feature of having
+a server running but you also
+>
+> you'll get the feature of having
+a server running but you also
+have
+>
+> you'll get the feature of having
+a server running but you also
+have a
+>
+> you'll get the feature of having
+a server running but you also
+have a bunch
+>
+> you'll get the feature of having
+a server running but you also
+have a bunch of
+>
+> you'll get the feature of having
+a server running but you also
+have a bunch of Klein side
+>
+> a server running but you also
+have a bunch of Klein side
+issues
+>
+> a server running but you also
+have a bunch of Klein side
+issues that
+>
+> a server running but you also
+have a bunch of Klein side
+issues that will
+>
+> a server running but you also
+have a bunch of Klein side
+issues that will not
+>
+> a server running but you also
+have a bunch of Klein side
+issues that will not get
+>
+> have a bunch of Klein side
+issues that will not get
+resolved
+>
+> have a bunch of Klein side
+issues that will not get
+resolved by
+>
+> have a bunch of Klein side
+issues that will not get
+resolved by anyone
+>
+> have a bunch of Klein side
+issues that will not get
+resolved by anyone because
+>
+> issues that will not get
+resolved by anyone because
+there's
+>
+> issues that will not get
+resolved by anyone because
+there's no
+>
+> issues that will not get
+resolved by anyone because
+there's no Hostess to resolve
+>
+> issues that will not get
+resolved by anyone because
+there's no Hostess to
+>
+> issues that will not get
+resolved by anyone because
+there's no
+>
+> issues that will not get
+resolved by anyone because
+there's no Hostess to
+>
+> resolved by anyone because
+there's no Hostess to resolving
+the current results of
+>
+> resolved by anyone because
+there's no Hostess to resolving
+the current results of you
+>
+> there's no Hostess to resolving
+the current results of you has a
+bunch
+>
+> there's no Hostess to resolving
+the current results of you has a
+bunch of
+>
+> there's no Hostess to resolving
+the current results of you has a
+bunch of games
+>
+> there's no Hostess to resolving
+the current results of you has a
+bunch of games stalling
+>
+> there's no Hostess to resolving
+the current results of you has a
+bunch of games stalling issues
+>
+> the current results of you has a
+bunch of games stalling issues
+we're
+>
+> the current results of you has a
+bunch of games stalling issues
+we're only
+>
+> the current results of you has a
+bunch of games stalling issues
+we're only the
+>
+> bunch of games stalling issues
+we're only the hose Kendra's all
+those issues
+>
+> bunch of games stalling issues
+we're only the hose Kendra's all
+those issues and
+>
+> bunch of games stalling issues
+we're only the hose Kendra's all
+those issues and we need
+>
+> bunch of games stalling issues
+we're only the hose Kendra's all
+those issues and we need to
+>
+> bunch of games stalling issues
+we're only the hose Kendra's all
+those issues and we need to fix
+>
+> we're only the hose Kendra's all
+those issues and we need to fix
+those
+>
+> we're only the hose Kendra's all
+those issues and we need to fix
+those things
+>
+> stalling issues we're only the
+host can resolve those issues
+and we need to fix those things
+>
+> host can resolve those issues
+and we need to fix those things
+beef
+>
+> host can resolve those issues
+and we need to fix those things
+Buffet
+>
+> host can resolve those issues
+and we need to fix those things
+before
+>
+> host can resolve those issues
+and we need to fix those things
+before we
+>
+> host can resolve those issues
+and we need to fix those things
+before we do
+>
+> host can resolve those issues
+and we need to fix those things
+before we do I
+>
+> host can resolve those issues
+and we need to fix those things
+before we do at
+>
+> host can resolve those issues
+and we need to fix those things
+before we do any
+>
+> host can resolve those issues
+and we need to fix those things
+before we do anything
+>
+> host can resolve those issues
+and we need to fix those things
+before
+>
+> host can resolve those issues
+and we need to fix those things
+before we
+>
+> host can resolve those issues
+and we need to fix those things
+before we do
+>
+> host can resolve those issues
+and we need to fix those things
+before we do anything
+>
+> host can resolve those issues
+and we need to fix those things
+before we do anything so
+>
+> host can resolve those issues
+and we need to fix those things
+before we do anything so I got
+>
+> and we need to fix those things
+before we do anything so I got
+to
+>
+> and we need to fix those things
+before we do anything so I got
+to fix
+>
+> and we need to fix those things
+before we do anything so I got
+to fix that
+>
+> and we need to fix those things
+before we do anything so I got
+to fix that before
+>
+> and we need to fix those things
+before we do anything so I got
+to fix that before we
+>
+> and we need to fix those things
+before we do anything so I got
+to fix that before we can
+>
+> and we need to fix those things
+before we do anything so I got
+to fix that before we can have
+>
+> before we do anything so I got
+to fix that before we can have
+that
+>
+> before we do anything so I got
+to fix that before we can have
+that again
+>
+> before we do anything so I got
+to fix that before we can have
+that again service
+>
+> before we do anything so I got
+to fix that before we can have
+that again service and
+>
+> to fix that before we can have
+that again service and we're
+working
+>
+> to fix that before we can have
+that again service and we're
+working on
+>
+> to fix that before we can have
+that again service and we're
+working on those
+>
+> to fix that before we can have
+that again service and we're
+working on those things
+>
+> to fix that before we can have
+that again service and we're
+working on those things and
+>
+> to fix that before we can have
+that again service and we're
+working on those things and yeah
+>
+> that again service and we're
+working on those things and yeah
+how
+>
+> that again service and we're
+working on those things and yeah
+hope
+>
+> that again service and we're
+working on those things and yeah
+how far
+>
+> that again service and we're
+working on those things and yeah
+hopeful
+>
+> that again service and we're
+working on those things and yeah
+hopefully
+>
+> that again service and we're
+working on those things and yeah
+hopefully we
+>
+> that again service and we're
+working on those things and yeah
+hopefully we'll
+>
+> that again service and we're
+working on those things and yeah
+hopefully will a
+>
+> that again service and we're
+working on those things and yeah
+hopefully we'll have
+>
+> that again service and we're
+working on those things and yeah
+hopefully we'll have to
+>
+> that again service and we're
+working on those things and yeah
+hopefully
+>
+> that again service and we're
+working on those things and yeah
+hopefully we'll have
+>
+> that again service and we're
+working on those things and yeah
+hopefully we'll have dedicated
+>
+> working on those things and yeah
+hopefully we'll have dedicated
+servers
+>
+> working on those things and yeah
+hopefully we'll have dedicated
+servers out
+>
+> working on those things and yeah
+hopefully we'll have dedicated
+servers out sooner
+>
+> working on those things and yeah
+hopefully we'll have dedicated
+servers out sooner rather
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 39 other times, as recently as March 2021 and as early as February 2019.</summary>
+
+* [March 23rd, 2021 Livestream Q&A: Any updates on Dedicated Servers?](./transcriptions/yt-nmftIN5mJV0.md) [https://www.youtube.com/watch?v=nmftIN5mJV0](https://www.youtube.com/watch?v=nmftIN5mJV0)
+* [March 23rd, 2021 Livestream Q&A: Are Dedicated Servers coming?](./transcriptions/yt-l4-4Py1TgKM.md) [https://www.youtube.com/watch?v=l4-4Py1TgKM](https://www.youtube.com/watch?v=l4-4Py1TgKM)
+* [March 23rd, 2021 Livestream Q&A: How's the status of Dedicated Servers?](./transcriptions/yt-BPgHpDjoIwc.md) [https://www.youtube.com/watch?v=BPgHpDjoIwc](https://www.youtube.com/watch?v=BPgHpDjoIwc)
+* March 16th, 2021 Livestream Q&A: Any news on Dedicated Servers? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5885&end=5905](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5885&end=5905)
+* March 16th, 2021 Livestream Q&A: How far are you with Dedicated Servers? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8558&end=8630](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8558&end=8630)
+* [March 9th, 2021 Livestream Q&A: Latest issue with Dedicated Server development?](./transcriptions/yt-6dEOLvlMvjI.md) [https://www.youtube.com/watch?v=6dEOLvlMvjI](https://www.youtube.com/watch?v=6dEOLvlMvjI)
+* [March 2nd, 2021 Livestream Q&A: Status of Dedicated Servers?](./transcriptions/yt-o3pQ2ZR-EoU.md) [https://www.youtube.com/watch?v=o3pQ2ZR-EoU](https://www.youtube.com/watch?v=o3pQ2ZR-EoU)
+* [February 23rd, 2021 Livestream Q&A: Any update on Dedicated Servers?](./transcriptions/yt-MeB65-maH5k.md) [https://www.youtube.com/watch?v=MeB65-maH5k](https://www.youtube.com/watch?v=MeB65-maH5k)
+* [February 23rd, 2021 Livestream Q&A: Dedicated Servers confirmed for Update 5?](./transcriptions/yt-XATD7Tg7YmQ.md) [https://www.youtube.com/watch?v=XATD7Tg7YmQ](https://www.youtube.com/watch?v=XATD7Tg7YmQ)
+* [February 16th, 2021 Livestream Q&A: Do you know when Dedicated Servers are coming?](./transcriptions/yt-1a6aeBB1rPs.md) [https://www.youtube.com/watch?v=1a6aeBB1rPs](https://www.youtube.com/watch?v=1a6aeBB1rPs)
+* [February 9th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-R9wpbVHJggc.md) [https://www.youtube.com/watch?v=R9wpbVHJggc](https://www.youtube.com/watch?v=R9wpbVHJggc)
+* [February 9th, 2021 Livestream Q&A: When will we see Dedicated Servers?](./transcriptions/yt-5XUn9L5xcAo.md) [https://www.youtube.com/watch?v=5XUn9L5xcAo](https://www.youtube.com/watch?v=5XUn9L5xcAo)
+* [February 2nd, 2021 Livestream Q&A: Any news on Dedicated Servers?](./transcriptions/yt--IAV3zlXLss.md) [https://www.youtube.com/watch?v=-IAV3zlXLss](https://www.youtube.com/watch?v=-IAV3zlXLss)
+* [February 2nd, 2021 Livestream Q&A: Release date for Dedicated Servers?](./transcriptions/yt-bhFmwWIY_dw.md) [https://www.youtube.com/watch?v=bhFmwWIY_dw](https://www.youtube.com/watch?v=bhFmwWIY_dw)
+* [January 26th, 2021 Livestream Q&A: Any updates on Dedicated Servers?](./transcriptions/yt-cvlz1tP61_M.md) [https://www.youtube.com/watch?v=cvlz1tP61_M](https://www.youtube.com/watch?v=cvlz1tP61_M)
+* [January 26th, 2021 Livestream Q&A: Dedicated Servers aka Multiplayer fixes when?](./transcriptions/yt-_XfcfZ8vfj8.md) [https://www.youtube.com/watch?v=_XfcfZ8vfj8](https://www.youtube.com/watch?v=_XfcfZ8vfj8)
+* [January 19th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-FIamGlpCEFk.md) [https://www.youtube.com/watch?v=FIamGlpCEFk](https://www.youtube.com/watch?v=FIamGlpCEFk)
+* [December 15th, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-03Ybo6-_eWA.md) [https://www.youtube.com/watch?v=03Ybo6-_eWA](https://www.youtube.com/watch?v=03Ybo6-_eWA)
+* [December 15th, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-HeezNCrsBRU.md) [https://www.youtube.com/watch?v=HeezNCrsBRU](https://www.youtube.com/watch?v=HeezNCrsBRU)
+* [December 8th, 2020 Livestream Q&A: Is there a reason for a lack of Dedicated Server builds?](./transcriptions/yt-47gzhAEWkFM.md) [https://www.youtube.com/watch?v=47gzhAEWkFM](https://www.youtube.com/watch?v=47gzhAEWkFM)
+* [November 17th, 2020 Livestream Q&A: Updates about Dedicated Servers?](./transcriptions/yt-32SZ2UKPZiQ.md) [https://www.youtube.com/watch?v=32SZ2UKPZiQ](https://www.youtube.com/watch?v=32SZ2UKPZiQ)
+* [October 20th, 2020 Livestream Q&A: Dedicated Servers coming with the next Update ?](./transcriptions/yt-VyyzowIc504.md) [https://www.youtube.com/watch?v=VyyzowIc504](https://www.youtube.com/watch?v=VyyzowIc504)
+* [October 20th, 2020 Livestream Q&A: When will Dedicated Servers be coming?](./transcriptions/yt-TW0i2hxJ7C0.md) [https://www.youtube.com/watch?v=TW0i2hxJ7C0](https://www.youtube.com/watch?v=TW0i2hxJ7C0)
+* [October 6th, 2020 Livestream Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?](./transcriptions/yt-KGmOM7dLT84.md) [https://www.youtube.com/watch?v=KGmOM7dLT84](https://www.youtube.com/watch?v=KGmOM7dLT84)
+* [September 29th, 2020 Livestream Q&A: Any update for Hosted/Dedicated Servers?](./transcriptions/yt-kiko6VnK6sA.md) [https://www.youtube.com/watch?v=kiko6VnK6sA](https://www.youtube.com/watch?v=kiko6VnK6sA)
+* [September 22nd, 2020 Livestream Q&A: Are there server files when I want to host my own Dedicated Server?](./transcriptions/yt-12nA53wOK6w.md) [https://www.youtube.com/watch?v=12nA53wOK6w](https://www.youtube.com/watch?v=12nA53wOK6w)
+* [September 22nd, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-tHUqAoOXffs.md) [https://www.youtube.com/watch?v=tHUqAoOXffs](https://www.youtube.com/watch?v=tHUqAoOXffs)
+* [September 8th, 2020 Livestream Q&A: When are we expecting to get Dedicated Servers?](./transcriptions/yt-G9PuZ0WvoOM.md) [https://www.youtube.com/watch?v=G9PuZ0WvoOM](https://www.youtube.com/watch?v=G9PuZ0WvoOM)
+* [September 1st, 2020 Livestream Q&A: Dedicated Servers](./transcriptions/yt-z5bf3k7JWlg.md) [https://www.youtube.com/watch?v=z5bf3k7JWlg](https://www.youtube.com/watch?v=z5bf3k7JWlg)
+* [August 25th, 2020 Livestream Q&A: Dedicated Servers update?](./transcriptions/yt-mtE-rHjMsn4.md) [https://www.youtube.com/watch?v=mtE-rHjMsn4](https://www.youtube.com/watch?v=mtE-rHjMsn4)
+* August 18th, 2020 Livestream Q&A: Did I miss the status update of Dedicated Servers? [https://clips.twitch.tv/ElatedWittyVelociraptorThunBeast](https://clips.twitch.tv/ElatedWittyVelociraptorThunBeast)
+* August 11th, 2020 Livestream Q&A: Are Dedicated Servers coming? [https://clips.twitch.tv/BigDeadPhoneKappaWealth](https://clips.twitch.tv/BigDeadPhoneKappaWealth)
+* August 11th, 2020 Livestream Q&A: Dedicated Servers, start building a community around that? [https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow](https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow)
+* August 11th, 2020 Livestream Q&A: What's the hold-up on Dedicated Servers? [https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride](https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride)
+* [July 30th, 2020 Livestream Q&A: Dedicated Servers when?](./transcriptions/yt-1dUNmBBbExs,73.73333333333333,88.2.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89)
+* [June 8th, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-XuFfkTTZnoA.md) [https://www.youtube.com/watch?v=XuFfkTTZnoA](https://www.youtube.com/watch?v=XuFfkTTZnoA)
+* [February 11th, 2020 Livestream Q&A: Any news on Dedicated Servers?](./transcriptions/yt-pUhzc1Fd8sg.md) [https://www.youtube.com/watch?v=pUhzc1Fd8sg](https://www.youtube.com/watch?v=pUhzc1Fd8sg)
+* [January 22nd, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-Qy10mQQMXXI.md) [https://www.youtube.com/watch?v=Qy10mQQMXXI](https://www.youtube.com/watch?v=Qy10mQQMXXI)
+* [February 6th, 2019 Livestream Q&A: What's the possibility of Dedicated Servers?](./transcriptions/yt-Dtm6xIj-wM4,718.308644,808.471513.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809)
+</details>
+
+### [Q&A: Faster autosaves?](./transcriptions/yt-V1HcV3g7ELg.md) [https://www.youtube.com/watch?v=V1HcV3g7ELg](https://www.youtube.com/watch?v=V1HcV3g7ELg)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> you mean Pioneer actually
+sponsored the toilet after death
+interesting interesting observe
+>
+> sponsored the toilet after death
+interesting interesting I'll
+serve
+>
+> sponsored the toilet after death
+interesting interesting call
+survey
+>
+> sponsored the toilet after death
+interesting interesting
+observation
+>
+> sponsored the toilet after death
+interesting interesting
+observation the
+>
+> sponsored the toilet after death
+interesting interesting
+observation deck
+>
+> sponsored the toilet after death
+interesting interesting
+observation there
+>
+> sponsored the toilet after death
+interesting interesting
+observation
+>
+> sponsored the toilet after death
+interesting interesting
+observation there
+>
+> sponsored the toilet after death
+interesting interesting
+observation
+>
+> sponsored the toilet after death
+interesting interesting
+observation their interests
+>
+> sponsored the toilet after death
+interesting interesting
+observation
+>
+> interesting interesting
+observation are interesting and
+I think
+>
+> interesting interesting
+observation are interesting and
+I think so
+>
+> interesting interesting
+observation are interesting and
+I think so I hope
+>
+> interesting interesting
+observation are interesting and
+I think so I hope so
+>
+> interesting interesting
+observation are interesting and
+I think so I hope so I mean
+>
+> interesting interesting
+observation are interesting and
+I think so I hope so I mean we
+>
+> observation are interesting and
+I think so I hope so I mean we
+want
+>
+> observation are interesting and
+I think so I hope so I mean we
+want to
+>
+> observation are interesting and
+I think so I hope so I mean we
+want to like
+>
+> observation are interesting and
+I think so I hope so I mean we
+want to like obviously
+>
+> I think so I hope so I mean we
+want to like obviously we're
+working we
+>
+> I think so I hope so I mean we
+want to like obviously we're
+working we working
+>
+> I think so I hope so I mean we
+want to like obviously we're
+working we working on
+>
+> I think so I hope so I mean we
+want to like obviously we're
+working we working on systems
+>
+> want to like obviously we're
+working we working on systems
+that
+>
+> want to like obviously we're
+working we working on systems
+that will
+>
+> want to like obviously we're
+working we working on systems
+that will make
+>
+> want to like obviously we're
+working we working on systems
+that will make it
+>
+> want to like obviously we're
+working we working on systems
+that will make it so that we can
+>
+> working we working on systems
+that will make it so that we can
+do
+>
+> working we working on systems
+that will make it so that we can
+do better
+>
+> working we working on systems
+that will make it so that we can
+do better auto-saving
+>
+> working we working on systems
+that will make it so that we can
+do better auto-saving or
+>
+> that will make it so that we can
+do better auto-saving or
+password
+>
+> that will make it so that we can
+do better auto-saving or
+password saving
+>
+> that will make it so that we can
+do better auto-saving or
+password saving in
+>
+> that will make it so that we can
+do better auto-saving or
+password saving in general
+>
+> do better auto-saving or
+password saving in general
+there's
+>
+> do better auto-saving or
+password saving in general
+there's a
+>
+> do better auto-saving or
+password saving in general
+there's a few
+>
+> do better auto-saving or
+password saving in general
+there's a few systems
+>
+> do better auto-saving or
+password saving in general
+there's a few systems that
+>
+> do better auto-saving or
+password saving in general
+there's a few systems that are
+>
+> password saving in general
+there's a few systems that are
 like
 >
-> for the building to just feel so
-much better but I don't work on
-the game any tail
+> password saving in general
+there's a few systems that are
+like we
 >
-> for the building to just feel so
-much better but I don't work on
-the game any tail launch
+> password saving in general
+there's a few systems that are
+like we have a little
 >
-> much better but I don't work on
-the game any tail launch to me
-like
+> password saving in general
+there's a few systems that are
+like we have a little bit
 >
-> much better but I don't work on
-the game any tail launch to me
-like one point oh no
+> password saving in general
+there's a few systems that are
+like we have a little bit of
 >
-> but I don't work on the game any
-tail launch to me like one point
-oh no idea
+> there's a few systems that are
+like we have a little bit of
+technical
 >
-> but I don't work on the game any
-tail launch to me like one point
-oh no idea 2022 maybe
+> there's a few systems that are
+like we have a little bit of
+technical debt
 >
-> but I don't work on the game any
-tail launch to me like one point
-oh no idea 2022 maybe 20 23 like
+> there's a few systems that are
+like we have a little bit of
+technical debt that
 >
-> tail launch to me like one point
-oh no idea 2022 maybe 20 23 like
-where
+> there's a few systems that are
+like we have a little bit of
+technical debt that stopping
 >
-> tail launch to me like one point
-oh no idea 2022 maybe 20 23 like
-where we're shooting
+> there's a few systems that are
+like we have a little bit of
+technical debt that stopping us
 >
-> tail launch to me like one point
-oh no idea 2022 maybe 20 23 like
-where we're shooting for
+> like we have a little bit of
+technical debt that stopping us
+from
 >
-> point oh no idea 2022 maybe 20
-23 like where we're shooting for
-22
+> like we have a little bit of
+technical debt that stopping us
+from working
 >
-> point oh no idea 2022 maybe 20
-23 like where we're shooting for
-22 I think
+> like we have a little bit of
+technical debt that stopping us
+from working on
 >
-> point oh no idea 2022 maybe 20
-23 like where we're shooting for
-22 I think but
+> like we have a little bit of
+technical debt that stopping us
+from working on that
 >
-> point oh no idea 2022 maybe 20
-23 like where we're shooting for
-22 I think but I
+> like we have a little bit of
+technical debt that stopping us
+from working on that particular
 >
-> point oh no idea 2022 maybe 20
-23 like where we're shooting for
-22 I think but I honestly
+> technical debt that stopping us
+from working on that particular
+issue
 >
-> point oh no idea 2022 maybe 20
-23 like where we're shooting for
-22 I think but I honestly don't
+> technical debt that stopping us
+from working on that particular
+issue right
 >
-> 23 like where we're shooting for
-22 I think but I honestly don't
-know
+> technical debt that stopping us
+from working on that particular
+issue right now
 >
-> 23 like where we're shooting for
-22 I think but I honestly don't
-know it feels like
+> technical debt that stopping us
+from working on that particular
+issue right now but
 >
-> 23 like where we're shooting for
-22 I think but I honestly don't
-know it feels like there's still
+> from working on that particular
+issue right now but we're
+working on
 >
-> 22 I think but I honestly don't
-know it feels like there's still
-so much
+> from working on that particular
+issue right now but we're
+working on those systems
 >
-> 22 I think but I honestly don't
-know it feels like there's still
-so much work
+> from working on that particular
+issue right now but we're
+working on those systems some
 >
-> 22 I think but I honestly don't
-know it feels like there's still
-so much work left
+> from working on that particular
+issue right now but we're
+working on those systems some of
 >
-> 22 I think but I honestly don't
-know it feels like there's still
-so much
+> issue right now but we're
+working on those systems some of
+the
 >
-> know it feels like there's still
-so much work left so it's still
-so much
+> issue right now but we're
+working on those systems some of
+the systems
 >
-> know it feels like there's still
-so much work left so it's still
-so much shit
+> issue right now but we're
+working on those systems some of
+the systems are
 >
-> know it feels like there's still
-so much work left so it's still
-so much shit we can
+> issue right now but we're
+working on those systems some of
+the systems are starting
 >
-> know it feels like there's still
-so much work left so it's still
-so much shit we can put
+> issue right now but we're
+working on those systems some of
+the systems are starting to
 >
-> know it feels like there's still
-so much work left so it's still
-so much shit we can put in
+> issue right now but we're
+working on those systems some of
+the systems are starting to take
 >
-> know it feels like there's still
-so much work left so it's still
-so much shit we can put in the
+> working on those systems some of
+the systems are starting to take
+effect
 >
-> know it feels like there's still
-so much more class still so much
-shit we can put in the game
+> working on those systems some of
+the systems are starting to take
+effect in
 >
-> know it feels like there's still
-so much more class still so much
-shit we can put in the game play
+> working on those systems some of
+the systems are starting to take
+effect in up
 >
-> so much more class still so much
-shit we can put in the game play
+> working on those systems some of
+the systems are starting to take
+effect in up by 3 I'll take
+>
+> working on those systems some of
+the systems are starting to take
+effect in up by 3 I'll take four
+>
+> working on those systems some of
+the systems are starting to take
+effect in up by 3 I'll take
+>
+> the systems are starting to take
+effect in up by 3 I'll take for
+so
+>
+> working on those systems some of
+the systems are starting to take
+effect in up
+>
+> working on those systems some of
+the systems are starting to take
+effect in up a 3.84 so yeah
+>
+> the systems are starting to take
+effect in up a 3.84 so yeah
+we're
+>
+> the systems are starting to take
+effect in up a 3.84 so yeah
+we're on
+>
+> the systems are starting to take
+effect in up a 3.84 so yeah
+we're on the
+>
+> the systems are starting to take
+effect in up a 3.84 so yeah
+we're on the path
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as February 2021 and as early as May 2020.</summary>
+
+* [February 2nd, 2021 Livestream Q&A: Is there a way we can make Autosave more seamless?](./transcriptions/yt-UFWTP8Nu-MI.md) [https://www.youtube.com/watch?v=UFWTP8Nu-MI](https://www.youtube.com/watch?v=UFWTP8Nu-MI)
+* [September 1st, 2020 Livestream Q&A: Any chance of Autosave process not creating giant frame drops ?](./transcriptions/yt-L6SZHtX7Jmg.md) [https://www.youtube.com/watch?v=L6SZHtX7Jmg](https://www.youtube.com/watch?v=L6SZHtX7Jmg)
+* [August 25th, 2020 Livestream Q&A: Better Autosave system?](./transcriptions/yt-EGl4PxUS0J8.md) [https://www.youtube.com/watch?v=EGl4PxUS0J8](https://www.youtube.com/watch?v=EGl4PxUS0J8)
+* [August 25th, 2020 Livestream Q&A: Is it possible to have the Autosave not noticeable at all ?](./transcriptions/yt-ap-EONXus_4.md) [https://www.youtube.com/watch?v=ap-EONXus_4](https://www.youtube.com/watch?v=ap-EONXus_4)
+* [May 19th, 2020 Livestream Q&A: Save stutter?](./transcriptions/yt-n523WIVo5LM.md) [https://www.youtube.com/watch?v=n523WIVo5LM](https://www.youtube.com/watch?v=n523WIVo5LM)
+</details>
+
+### [Q&A: Game full release on Thursday?](./transcriptions/yt-FbYuuY2Qrlg.md) [https://www.youtube.com/watch?v=FbYuuY2Qrlg](https://www.youtube.com/watch?v=FbYuuY2Qrlg)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> for game full release on thursday
+>
+> no wait what happens on thursday oh
+>
+> interesting
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as March 2021 and as early as February 2021.</summary>
+
+* [March 30th, 2021 Livestream Q&A: Is the release date for Update 4 on EA?](./transcriptions/yt-uK4PYV5aWqU.md) [https://www.youtube.com/watch?v=uK4PYV5aWqU](https://www.youtube.com/watch?v=uK4PYV5aWqU)
+* [March 30th, 2021 Livestream Q&A: When will the Update come to the stable client?](./transcriptions/yt-qPw6GNV42QI.md) [https://www.youtube.com/watch?v=qPw6GNV42QI](https://www.youtube.com/watch?v=qPw6GNV42QI)
+* [March 23rd, 2021 Livestream Q&A: Did I miss the part about release to Early Access?](./transcriptions/yt-McJNs01E4O8.md) [https://www.youtube.com/watch?v=McJNs01E4O8](https://www.youtube.com/watch?v=McJNs01E4O8)
+* March 16th, 2021 Livestream Q&A: When is it going to be on Early Access? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15312&end=15344](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15312&end=15344)
+* [February 26th, 2021 Instagram AMA Q&A: When's it going to be on Early Access?](./transcriptions/yt-F-q3vfj__M4,80.08,112.71260000000001.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=80&end=113](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=80&end=113)
+* [February 9th, 2021 Livestream Q&A: When does Experimental come to Early Access?](./transcriptions/yt-s0KzZA300xo.md) [https://www.youtube.com/watch?v=s0KzZA300xo](https://www.youtube.com/watch?v=s0KzZA300xo)
+</details>
+
+### [Q&A: Is a bigger world a possibility?](./transcriptions/yt-dlL942ooTho.md) [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> is a bigger world a possibility
+>
+> uh hannah is the person to answer that
+>
+> question
+>
+> we're i don't think it will be bigger
+>
+> but we will be more detailed
+>
+> there might be like i think hannah tease
+>
+> that there's like maybe one biome that's
+>
+> like
+>
+> kind of empty right now that we're gonna
+>
+> add stuff to
+>
+> but it's gonna be the same size of the
+>
+> map so don't expect like
+>
+> the map size to increase the map is
+>
+> already huge
+>
+> we barely can manage the size of the map
+>
+> currently
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 12 other times, as recently as February 2021 and as early as December 2019.</summary>
+
+* [February 2nd, 2021 Livestream Q&A: Will the Map be bigger later?](./transcriptions/yt-gvOt4jwWA4Q.md) [https://www.youtube.com/watch?v=gvOt4jwWA4Q](https://www.youtube.com/watch?v=gvOt4jwWA4Q)
+* [January 19th, 2021 Livestream Q&A: Is the Map finalised, as in there will be no more additions?](./transcriptions/yt-zVnmYZemxe8.md) [https://www.youtube.com/watch?v=zVnmYZemxe8](https://www.youtube.com/watch?v=zVnmYZemxe8)
+* [December 15th, 2020 Livestream Q&A: When are you going to expand the map?](./transcriptions/yt-axmmm-ituSg.md) [https://www.youtube.com/watch?v=axmmm-ituSg](https://www.youtube.com/watch?v=axmmm-ituSg)
+* [December 15th, 2020 Livestream Q&A: Will we add more to the Map?](./transcriptions/yt-NeQpezHiVzI.md) [https://www.youtube.com/watch?v=NeQpezHiVzI](https://www.youtube.com/watch?v=NeQpezHiVzI)
+* November 10th, 2020 Livestream Q&A: Any plans to expand the Map / add new Biomes? [https://www.youtube.com/watch?v=oZhfgq9vdKg](https://www.youtube.com/watch?v=oZhfgq9vdKg)
+* [November 3rd, 2020 Livestream Q&A: Will the Map become bigger?](./transcriptions/yt-1pzu9fbySq0.md) [https://www.youtube.com/watch?v=1pzu9fbySq0](https://www.youtube.com/watch?v=1pzu9fbySq0)
+* [September 29th, 2020 Livestream Q&A: Will the Map change for 1.0?](./transcriptions/yt-5AsSss96Idw.md) [https://www.youtube.com/watch?v=5AsSss96Idw](https://www.youtube.com/watch?v=5AsSss96Idw)
+* [September 15th, 2020 Livestream Q&A: Will the Map be bigger?](./transcriptions/yt-b49tcUeMO3E.md) [https://www.youtube.com/watch?v=b49tcUeMO3E](https://www.youtube.com/watch?v=b49tcUeMO3E)
+* [September 8th, 2020 Livestream Q&A: Even more Biomes coming to play?](./transcriptions/yt-VgDl00Ycn3U.md) [https://www.youtube.com/watch?v=VgDl00Ycn3U](https://www.youtube.com/watch?v=VgDl00Ycn3U)
+* [September 8th, 2020 Livestream Q&A: Extension on current Map?](./transcriptions/yt-Ad3tjOha0JI.md) [https://www.youtube.com/watch?v=Ad3tjOha0JI](https://www.youtube.com/watch?v=Ad3tjOha0JI)
+* [September 1st, 2020 Livestream Q&A: Map expansion ?](./transcriptions/yt-2ZHnQ9U4f9I.md) [https://www.youtube.com/watch?v=2ZHnQ9U4f9I](https://www.youtube.com/watch?v=2ZHnQ9U4f9I)
+* December 19th, 2019 Livestream Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
+</details>
+
+### [Q&A: Is Creative Mode coming?](./transcriptions/yt-l4yloW6vhr8.md) [https://www.youtube.com/watch?v=l4yloW6vhr8](https://www.youtube.com/watch?v=l4yloW6vhr8)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> let's do it is creative mode coming it's
+>
+> uh it's coming at some point maybe i
+>
+> think
+>
+> i don't know i don't know i remember if
+>
+> we promised creative mode i think we
+>
+> talked about it before that we want to
+>
+> do it uh but the thing with prayer mode
+>
+> is that
+>
+> the thing we're kind of dreading if we
+>
+> add creative mode is that people will
+>
+> hit the
+>
+> memory limit in the game uh faster
+>
+> and uh we're kind of scared of that so
+>
+> we kind of want to
+>
+> optimize for that a bit before that we
+>
+> also need to
+>
+> kind of like get feedback on balancing
+>
+> and stuff like that and we feel like
+>
+> if we add creative mode it kind of ruins
+>
+> you know that feedback loop that we
+>
+> we're having right now with everyone on
+>
+> ea
+>
+> um so we kinda
+>
+> like probably at some point but nope
+>
+> i don't know exactly when that's gonna
+>
+> happen and
+>
+> how it would work etc etc etc
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 15 other times, as recently as March 2021 and as early as August 2018.</summary>
+
+* March 16th, 2021 Livestream Q&A: Will there be a Creative Mode? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8639&end=8654](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8639&end=8654)
+* [February 2nd, 2021 Livestream Q&A: Is Creative Mode coming?](./transcriptions/yt-aJZ3jTvUHHQ.md) [https://www.youtube.com/watch?v=aJZ3jTvUHHQ](https://www.youtube.com/watch?v=aJZ3jTvUHHQ)
+* [December 15th, 2020 Livestream Q&A: How about Creative Mode?](./transcriptions/yt-pFc0pdgYnlU.md) [https://www.youtube.com/watch?v=pFc0pdgYnlU](https://www.youtube.com/watch?v=pFc0pdgYnlU)
+* December 8th, 2020 Livestream Q&A: Will there be a creative-style mode in the future? [https://www.youtube.com/watch?v=ba7BBZw0IsU](https://www.youtube.com/watch?v=ba7BBZw0IsU)
+* [November 10th, 2020 Livestream Q&A: Is there going to be a Creative Mode?](./transcriptions/yt-NNUESlRoCJ8.md) [https://www.youtube.com/watch?v=NNUESlRoCJ8](https://www.youtube.com/watch?v=NNUESlRoCJ8)
+* [November 3rd, 2020 Livestream Q&A: Is there going to be a Creative Mode?](./transcriptions/yt-Yn4Brcx8CSs.md) [https://www.youtube.com/watch?v=Yn4Brcx8CSs](https://www.youtube.com/watch?v=Yn4Brcx8CSs)
+* [September 29th, 2020 Livestream Q&A: Satisfactory Sandbox ever?](./transcriptions/yt-3m68c85bVUM.md) [https://www.youtube.com/watch?v=3m68c85bVUM](https://www.youtube.com/watch?v=3m68c85bVUM)
+* [September 22nd, 2020 Livestream Q&A: Will there be a Creative Mode?](./transcriptions/yt-nz4VgYaVDDo.md) [https://www.youtube.com/watch?v=nz4VgYaVDDo](https://www.youtube.com/watch?v=nz4VgYaVDDo)
+* [September 1st, 2020 Livestream Q&A: Is there going to be creative mode?](./transcriptions/yt-zZILz6cMKbw.md) [https://www.youtube.com/watch?v=zZILz6cMKbw](https://www.youtube.com/watch?v=zZILz6cMKbw)
+* August 18th, 2020 Livestream Q&A: When is Creative Mode coming? [https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu](https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu)
+* [March 24th, 2020 Livestream Q&A: Creative Mode without having to Mod?](./transcriptions/yt-ww37EE17YP4.md) [https://www.youtube.com/watch?v=ww37EE17YP4](https://www.youtube.com/watch?v=ww37EE17YP4)
+* [March 24th, 2020 Livestream Q&A: Wouldn't you split normal & Creative Mode then not allow switching?](./transcriptions/yt-7xTscBSrsY0.md) [https://www.youtube.com/watch?v=7xTscBSrsY0](https://www.youtube.com/watch?v=7xTscBSrsY0)
+* [March 9th, 2019 Livestream Q&A: Will there be a creative mode?](./transcriptions/yt-eIPuM39KDcE.md) [https://www.youtube.com/watch?v=eIPuM39KDcE](https://www.youtube.com/watch?v=eIPuM39KDcE)
+* [February 6th, 2019 Livestream Q&A: Sandbox mode available?](./transcriptions/yt-Dtm6xIj-wM4,1962.712002,2009.493406.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010)
+* [August 1st, 2018 Livestream Q&A: Will there be a Creative Mode?](./transcriptions/yt-iFAy1NZUOGU,14,29.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29)
+</details>
+
+### Q&A: More space-based stuff coming? [https://www.youtube.com/watch?v=pTyR9FXrU_E](https://www.youtube.com/watch?v=pTyR9FXrU_E)
+
+<details>
+<summary>This question may have been asked previously at least 8 other times, as recently as February 2021 and as early as February 2019.</summary>
+
+* [February 23rd, 2021 Livestream Q&A: Planning on making any space stuff?](./transcriptions/yt-pYPBpZdBvP4.md) [https://www.youtube.com/watch?v=pYPBpZdBvP4](https://www.youtube.com/watch?v=pYPBpZdBvP4)
+* [February 16th, 2021 Livestream Q&A: Do you guys plan on any space stations or building amongst multi planets?](./transcriptions/yt-OJ8LnojSUzo.md) [https://www.youtube.com/watch?v=OJ8LnojSUzo](https://www.youtube.com/watch?v=OJ8LnojSUzo)
+* [February 9th, 2021 Livestream Q&A: Are there going to be other planets in the game?](./transcriptions/yt-Xg0nkRNXaIk.md) [https://www.youtube.com/watch?v=Xg0nkRNXaIk](https://www.youtube.com/watch?v=Xg0nkRNXaIk)
+* August 25th, 2020 Livestream Q&A: Will there be a rocket to leave the planet? [https://clips.twitch.tv/BusyPowerfulWombatSoonerLater](https://clips.twitch.tv/BusyPowerfulWombatSoonerLater)
+* [May 19th, 2020 Livestream Q&A: Planet has floating rocks, is not bound by Earth physics?](./transcriptions/yt-jXwIeLGuSvI.md) [https://www.youtube.com/watch?v=jXwIeLGuSvI](https://www.youtube.com/watch?v=jXwIeLGuSvI)
+* [March 9th, 2019 Livestream Q&A: Will the game expand into space or will it stay on the ground?](./transcriptions/yt-Ea0f72zZshQ.md) [https://www.youtube.com/watch?v=Ea0f72zZshQ](https://www.youtube.com/watch?v=Ea0f72zZshQ)
+* February 20th, 2019 Livestream Q&A: Can you travel to other planets? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314)
+* February 6th, 2019 Livestream Q&A: Will there be outer space & galaxies? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841)
+</details>
+
+### [Q&A: New Suit Skins?](./transcriptions/yt-1ekgStY-lEc.md) [https://www.youtube.com/watch?v=1ekgStY-lEc](https://www.youtube.com/watch?v=1ekgStY-lEc)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> optimistic but we don't we won't
+know until we try it out say yes
+fucking oh yeah yeah new
+>
+> optimistic but we don't we won't
+know until we try it out say yes
+fucking oh yeah yeah Miss
+>
+> optimistic but we don't we won't
+know until we try it out say yes
+fucking oh yeah yeah Missy
+>
+> optimistic but we don't we won't
+know until we try it out say yes
+fucking oh yeah yeah mr.
+>
+> optimistic but we don't we won't
+know until we try it out say yes
+fucking oh yeah yeah this is
+>
+> optimistic but we don't we won't
+know until we try it out say yes
+fucking oh yeah yeah mrs. k
+>
+> optimistic but we don't we won't
+know until we try it out say yes
+fucking oh yeah yeah mrs. King
+>
+> optimistic but we don't we won't
+know until we try it out say yes
+fucking oh yeah yeah new skins
+>
+> know until we try it out say yes
+fucking oh yeah yeah new suit
+skins
+>
+> optimistic but we don't we won't
+know until we try it out say yes
+fucking oh yeah yeah new
+>
+> know until we try it out say yes
+fucking oh yeah yeah new suit
+skins
+>
+> know until we try it out say yes
+fucking oh yeah yeah mrs. Kings
+sok us
+>
+> know until we try it out say yes
+fucking oh yeah yeah new suit
+skins so cussed
+>
+> know until we try it out say yes
+fucking oh yeah yeah new suit
+skins so custom
+>
+> know until we try it out say yes
+fucking oh yeah yeah new suit
+skins so customer
+>
+> know until we try it out say yes
+fucking oh yeah yeah new suit
+skins so customers
+>
+> know until we try it out say yes
+fucking oh yeah yeah new suit
+skins so customers say
+>
+> know until we try it out say yes
+fucking oh yeah yeah new suit
+skins so customer service
+>
+> know until we try it out say yes
+fucking oh yeah yeah mrs.
+Green's Auto customization
+>
+> know until we try it out say yes
+fucking oh yeah yeah mrs.
+Green's Auto customization for
+>
+> say yes fucking oh yeah yeah
+mrs. Green's Auto customization
+>
+> say yes fucking oh yeah yeah
+mrs. Green's Auto customization
+for
+>
+> say yes fucking oh yeah yeah
+mrs. Green's Auto customization
+>
+> say yes fucking oh yeah yeah
+mrs. Green's Auto customization
+for player customization
+>
+> Green's Auto customization for
+player customization is
+something that
+>
+> Green's Auto customization for
+player customization is
+something that I
+>
+> Green's Auto customization for
+player customization is
+something that I think
+>
+> Green's Auto customization for
+player customization is
+something that I think we talked
+>
+> player customization is
+something that I think we talked
+a
+>
+> for player customization is
+something that I think we talked
+a lot
+>
+> for player customization is
+something that I think we talked
+a lot about
+>
+> for player customization is
+something that I think we talked
+a lot about it I think it's
+>
+> for player customization is
+something that I think we talked
+a lot about it I think it's cool
+>
+> something that I think we talked
+a lot about it I think it's
+Kool-Aid
+>
+> something that I think we talked
+a lot about it I think it's cool
+I do
+>
+> something that I think we talked
+a lot about it I think it's cool
+I don't
+>
+> something that I think we talked
+a lot about it I think it's cool
+I don't know
+>
+> something that I think we talked
+a lot about it I think it's cool
 I
 >
-> so much more class still so much
-shit we can put in the game play
-I'm
+> something that I think we talked
+a lot about it I think it's cool
+I don't
 >
-> so much more class still so much
-shit we can put in the game play
-I Am
+> something that I think we talked
+a lot about it I think it's cool
+I don't know
+>
+> something that I think we talked
+a lot about it I think it's cool
+I don't know when
+>
+> something that I think we talked
+a lot about it I think it's cool
+I don't know when or
+>
+> something that I think we talked
+a lot about it I think it's cool
+I don't know when or if
+>
+> something that I think we talked
+a lot about it I think it's cool
+I don't know when or if it will
+>
+> a lot about it I think it's cool
+I don't know when or if it will
+happen
+>
+> a lot about it I think it's cool
+I don't know when or if it will
+happen but
+>
+> a lot about it I think it's cool
+I don't know when or if it will
+happen but I think
+>
+> a lot about it I think it's cool
+I don't know when or if it will
+happen but I think I think
+>
+> a lot about it I think it's cool
+I don't know when or if it will
+happen but I think I think it's
+>
+> I don't know when or if it will
+happen but I think I think it's
+possible
+>
+> I don't know when or if it will
+happen but I think I think it's
+possible but
+>
+> I don't know when or if it will
+happen but I think I think it's
+possible but I
+>
+> I don't know when or if it will
+happen but I think I think it's
+possible but I don't
+>
+> I don't know when or if it will
+happen but I think I think it's
+possible but I don't know
+>
+> cool I don't know when or if it
+will happen but I think I think
+it's possible but I don't know I
+>
+> will happen but I think I think
+it's possible but I don't know I
+can't
+>
+> will happen but I think I think
+it's possible but I don't know I
+can't confirm
+>
+> will happen but I think I think
+it's possible but I don't know I
+can't confirm anything
+>
+> will happen but I think I think
+it's possible but I don't know I
+can't confirm anything right
+>
+> will happen but I think I think
+it's possible but I don't know I
+can't confirm anything right now
+>
+> it's possible but I don't know I
+can't confirm anything right now
+just
+>
+> it's possible but I don't know I
+can't confirm anything right now
+just a
+>
+> it's possible but I don't know I
+can't confirm anything right now
+Justice
+>
+> it's possible but I don't know I
+can't confirm anything right now
+just cuz I
+>
+> it's possible but I don't know I
+can't confirm anything right now
+Justice
+>
+> it's possible but I don't know I
+can't confirm anything right now
+just cuz it's
+>
+> it's possible but I don't know I
+can't confirm anything right now
+just cuz it's so
+>
+> it's possible but I don't know I
+can't confirm anything right now
+just cuz there's some
+>
+> it's possible but I don't know I
+can't confirm anything right now
+Justice is summer
+>
+> it's possible but I don't know I
+can't confirm anything right now
+just cuz there's so much
+>
+> it's possible but I don't know I
+can't confirm anything right now
+just cuz it's so much a
+>
+> it's possible but I don't know I
+can't confirm anything right now
+just cuz there's so much else
+>
+> it's possible but I don't know I
+can't confirm anything right now
+just cuz there's so much else we
+>
+> can't confirm anything right now
+just cuz there's so much else we
+were
+>
+> it's possible but I don't know I
+can't confirm anything right now
+just cuz
+>
+> it's possible but I don't know I
+can't confirm anything right now
+just cuz there's so much else
 
 
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 13 other times, as recently as March 2021 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 12 other times, as recently as March 2021 and as early as February 2019.</summary>
 
+* [March 9th, 2021 Livestream Q&A: Will there be at some point Character Customisation?](./transcriptions/yt-fy4_awSdvk0.md) [https://www.youtube.com/watch?v=fy4_awSdvk0](https://www.youtube.com/watch?v=fy4_awSdvk0)
+* [February 9th, 2021 Livestream Q&A: When will we be able to get different character customisations?](./transcriptions/yt-x55_Zt2OLQ4.md) [https://www.youtube.com/watch?v=x55_Zt2OLQ4](https://www.youtube.com/watch?v=x55_Zt2OLQ4)
+* [January 12th, 2021 Livestream Q&A: New skins?](./transcriptions/yt--IYD97gEt4w.md) [https://www.youtube.com/watch?v=-IYD97gEt4w](https://www.youtube.com/watch?v=-IYD97gEt4w)
+* December 15th, 2020 Livestream Q&A: Are we adding new skins? [https://www.youtube.com/watch?v=w2zJd6F1Udw](https://www.youtube.com/watch?v=w2zJd6F1Udw)
+* [October 20th, 2020 Livestream Q&A: Are there plans for Character Customisation?](./transcriptions/yt-LAR8rVCHVmw.md) [https://www.youtube.com/watch?v=LAR8rVCHVmw](https://www.youtube.com/watch?v=LAR8rVCHVmw)
+* [September 8th, 2020 Livestream Q&A: Are you going to be able to change characters?](./transcriptions/yt-GymA7otvYYo.md) [https://www.youtube.com/watch?v=GymA7otvYYo](https://www.youtube.com/watch?v=GymA7otvYYo)
+* [September 8th, 2020 Livestream Q&A: Cosmetics for the Pioneer or even Lizard Doggo?](./transcriptions/yt-wFKmvfIOuCY.md) [https://www.youtube.com/watch?v=wFKmvfIOuCY](https://www.youtube.com/watch?v=wFKmvfIOuCY)
+* [August 25th, 2020 Livestream Q&A: Let me personalise my character?](./transcriptions/yt-QyKyNbHPaHg.md) [https://www.youtube.com/watch?v=QyKyNbHPaHg](https://www.youtube.com/watch?v=QyKyNbHPaHg)
+* August 25th, 2020 Livestream Q&A: Let me personalise my character? [https://clips.twitch.tv/CharmingRespectfulFlyFUNgineer](https://clips.twitch.tv/CharmingRespectfulFlyFUNgineer)
+* August 18th, 2020 Livestream Q&A: Additional Suit Variations in the Coupon Shop ? [https://clips.twitch.tv/CourteousMotionlessWrenMcaT](https://clips.twitch.tv/CourteousMotionlessWrenMcaT)
+* [June 8th, 2020 Livestream Q&A: Player skin customisation?](./transcriptions/yt-oJzUWOdpQ5o.md) [https://www.youtube.com/watch?v=oJzUWOdpQ5o](https://www.youtube.com/watch?v=oJzUWOdpQ5o)
+* [February 6th, 2019 Livestream Q&A: Will there be any cosmetics available?](./transcriptions/yt-Dtm6xIj-wM4,3923.903388,3977.117038.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978)
+</details>
+
+### [Q&A: Procedural Map?](./transcriptions/yt-ee53aGXd5wg.md) [https://www.youtube.com/watch?v=ee53aGXd5wg](https://www.youtube.com/watch?v=ee53aGXd5wg)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> are you ends probably you're in
+>
+> procedural map we've already uh
+>
+> debunked the procedural map we're not
+>
+> gonna do procedural stuff uh or
+>
+> sorry let me let me rephrase this we're
+>
+> not gonna do procedural generation in
+>
+> terms of like terraforming and stuff
+>
+> like that
+>
+> we've we've already went down that route
+>
+> and we didn't like it we we prefer doing
+>
+> it this way
+>
+> we're doing right now we also can't like
+>
+> really back down now because you can
+>
+> you have to kind of commit to either or
+>
+> um
+>
+> we felt like handcrafting is it gives
+>
+> you a much more detailed
+>
+> experience terror forming um
+>
+> and we actually tried a little bit of
+>
+> like procedural
+>
+> like generation of the environment and
+>
+> we just didn't like it
+>
+> that much it's also really difficult to
+>
+> make it good you know
+>
+> and not like it it gets very repetitive
+>
+> after a while so
+>
+> we'd rather make like one very detailed
+>
+> map
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 13 other times, as recently as February 2021 and as early as June 2018.</summary>
+
+* [February 16th, 2021 Livestream Q&A: Possible to get randomly generated maps?](./transcriptions/yt-FkM6JZIZrqg.md) [https://www.youtube.com/watch?v=FkM6JZIZrqg](https://www.youtube.com/watch?v=FkM6JZIZrqg)
+* [February 9th, 2021 Livestream Q&A: Why not have self generated maps?](./transcriptions/yt-hKIm2mk5AhM.md) [https://www.youtube.com/watch?v=hKIm2mk5AhM](https://www.youtube.com/watch?v=hKIm2mk5AhM)
+* [November 24th, 2020 Livestream Q&A: Procedural generation of the World?](./transcriptions/yt-q6tkuGjM4zY.md) [https://www.youtube.com/watch?v=q6tkuGjM4zY](https://www.youtube.com/watch?v=q6tkuGjM4zY)
+* [November 3rd, 2020 Livestream Q&A: Map is amazing, but infinite generation?](./transcriptions/yt-2yoGAha7ju0.md) [https://www.youtube.com/watch?v=2yoGAha7ju0](https://www.youtube.com/watch?v=2yoGAha7ju0)
+* [September 15th, 2020 Livestream Q&A: Any plans for randomly generated worlds / Procedurally Generated maps?](./transcriptions/yt-eo_84m3ZYfQ.md) [https://www.youtube.com/watch?v=eo_84m3ZYfQ](https://www.youtube.com/watch?v=eo_84m3ZYfQ)
+* [September 8th, 2020 Livestream Q&A: Procedural Generation?](./transcriptions/yt-lcZJKlvLZuo.md) [https://www.youtube.com/watch?v=lcZJKlvLZuo](https://www.youtube.com/watch?v=lcZJKlvLZuo)
+* [August 25th, 2020 Livestream Q&A: How about procedural maps?](./transcriptions/yt-oYVWBcgkahY.md) [https://www.youtube.com/watch?v=oYVWBcgkahY](https://www.youtube.com/watch?v=oYVWBcgkahY)
+* August 25th, 2020 Livestream Q&A: How about procedural maps? [https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea](https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea)
+* August 11th, 2020 Livestream Q&A: Randomly Generated Maps: [https://clips.twitch.tv/OilyBloodyMangoFutureMan](https://clips.twitch.tv/OilyBloodyMangoFutureMan)
+* [March 9th, 2019 Livestream Q&A: Another game mode with a procedurally generated world?](./transcriptions/yt-GZlK2fIlYVk.md) [https://www.youtube.com/watch?v=GZlK2fIlYVk](https://www.youtube.com/watch?v=GZlK2fIlYVk)
+* [March 9th, 2019 Livestream Q&A: The map is pre-made, not procedurally generated?](./transcriptions/yt-229Wl8AMQx8.md) [https://www.youtube.com/watch?v=229Wl8AMQx8](https://www.youtube.com/watch?v=229Wl8AMQx8)
+* [February 20th, 2019 Livestream Q&A: Is the World procedurally generated?](./transcriptions/yt-CB9bSigNYH8,3150.343797,3165.212187.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166)
+* [June 22nd, 2018 Livestream Q&A: Is the Map procedurally generated?](./transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
+</details>
+
+### [Q&A: Satisfactory Roadmap?](./transcriptions/yt-HZ4vKssj208.md) [https://www.youtube.com/watch?v=HZ4vKssj208](https://www.youtube.com/watch?v=HZ4vKssj208)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> think so yes yes maybe not
+enough for but I think in the
+future very soon
+>
+> think so yes yes maybe not
+enough for but I think in the
+future very soon set
+>
+> think so yes yes maybe not
+enough for but I think in the
+future very soon SSI
+>
+> think so yes yes maybe not
+enough for but I think in the
+future very soon says I can
+>
+> think so yes yes maybe not
+enough for but I think in the
+future very soon says I can go
+>
+> think so yes yes maybe not
+enough for but I think in the
+future very soon says I can draw
+>
+> think so yes yes maybe not
+enough for but I think in the
+future very soon says I can roll
+>
+> enough for but I think in the
+future very soon says I can Road
+by
+>
+> enough for but I think in the
+future very soon says I can roll
+back
+>
+> think so yes yes maybe not
+enough for but I think in the
+future very soon says I can
+>
+> think so yes yes maybe not
+enough for but I think in the
+future very soon says I can road
+>
+> enough for but I think in the
+future very soon says I can road
+that we
+>
+> enough for but I think in the
+future very soon says I can road
+that we don't
+>
+> enough for but I think in the
+future very soon says I can road
+that we don't really
+>
+> in the future very soon says I
+can road that we don't really
+have
+>
+> in the future very soon says I
+can road that we don't really
+have a
+>
+> in the future very soon says I
+can road that we don't really
+have a road
+>
+> in the future very soon says I
+can road that we don't really
+have a road map
+>
+> in the future very soon says I
+can road that we don't really
+have a road map because
+>
+> in the future very soon says I
+can road that we don't really
+have a road map because it's
+>
+> in the future very soon says I
+can road that we don't really
+have a roadmap because it's
+>
+> in the future very soon says I
+can road that we don't really
+have a roadmap because it's we
+>
+> can road that we don't really
+have a roadmap because it's we
+have
+>
+> can road that we don't really
+have a roadmap because it's we
+had
+>
+> can road that we don't really
+have a roadmap because it's we
+had a
+>
+> can road that we don't really
+have a roadmap because it's we
+had a real
+>
+> can road that we don't really
+have a roadmap because it's we
+had our own
+>
+> in the future very soon says I
+can road that we don't really
+have a roadmap because it's we
+>
+> can road that we don't really
+have a roadmap because it's we
+had
+>
+> can road that we don't really
+have a roadmap because it's we
+had a road map
+>
+> can road that we don't really
+have a roadmap because it's we
+had a road map and
+>
+> really have a roadmap because
+it's we had a road map and we
+did
+>
+> really have a roadmap because
+it's we had a road map and we
+didn't
+>
+> really have a roadmap because
+it's we had a road map and we
+didn't like
+>
+> really have a roadmap because
+it's we had a road map and we
+didn't like it
+>
+> can road that we don't really
+have a roadmap because it's we
+had a road map and we
+>
+> really have a roadmap because
+it's we had a road map and we
+didn't
+>
+> really have a roadmap because
+it's we had a road map and we
+didn't like
+>
+> really have a roadmap because
+it's we had a road map and we
+didn't like it
+>
+> really have a roadmap because
+it's we had a road map and we
+didn't like it we
+>
+> really have a roadmap because
+it's we had a road map and we
+didn't like it we we
+>
+> really have a roadmap because
+it's we had a road map and we
+didn't like it
+>
+> really have a roadmap because
+it's we had a road map and we
+didn't like it that we brought
+>
+> it's we had a road map and we
+didn't like it that we brought
+map
+>
+> it's we had a road map and we
+didn't like it that we brought
+map this is a huge
+>
+> it's we had a road map and we
+didn't like it that we brought
+map this is a huge topic
+>
+> it's we had a road map and we
+didn't like it that we brought
+map this is a huge topic on
+>
+> we had a road map and we didn't
+like it that we brought map this
+is a huge topic on romance but
+>
+> like it that we brought map this
+is a huge topic on romance but
+the
+>
+> like it that we brought map this
+is a huge topic on romance but
+the problem
+>
+> like it that we brought map this
+is a huge topic on romance but
+the problem with
+>
+> brought map this is a huge topic
+on romance but the problem with
+romance for
+>
+> brought map this is a huge topic
+on romance but the problem with
+romance for us
+>
+> brought map this is a huge topic
+on romance but the problem with
+romance for us is
+>
+> brought map this is a huge topic
+on romance but the problem with
+romance for us is that
+>
+> brought map this is a huge topic
+on romance but the problem with
+romance for us is that we
+>
+> brought map this is a huge topic
+on romance but the problem with
+romance for us is that we we
+>
+> on romance but the problem with
+romance for us is that we we can
+like
+>
+> on romance but the problem with
+romance for us is that we we can
+Like
+>
+> on romance but the problem with
+romance for us is that we we can
+like
+>
+> on romance but the problem with
+romance for us is that we we can
+like obviously
+>
+> on romance but the problem with
+romance for us is that we we can
+like obviously we're committed
+>
+> romance for us is that we we can
+like obviously we're committed
+with
+>
+> romance for us is that we we can
+like obviously we're committed
+with working
+>
+> romance for us is that we we can
+like obviously we're committed
+with working on
+>
+> romance for us is that we we can
+like obviously we're committed
+with working on the
+>
+> romance for us is that we we can
+like obviously we're committed
+with working on the game
+>
+> romance for us is that we we can
+like obviously we're committed
+with working on the game but we
+>
+> like obviously we're committed
+with working on the game but we
+can't
+>
+> like obviously we're committed
+with working on the game but we
+can't commit
+>
+> like obviously we're committed
+with working on the game but we
+can't commit to
+>
+> like obviously we're committed
+with working on the game but we
+can't commit to roll back to
+>
+> like obviously we're committed
+with working on the game but we
+can't commit to roll back to the
+>
+> with working on the game but we
+can't commit to roll back to the
+extent
+>
+> with working on the game but we
+can't commit to roll back to the
+extent that
+>
+> with working on the game but we
+can't commit to roll back to the
+extent that we
+>
+> with working on the game but we
+can't commit to roll back to the
+extent that we need
+>
+> with working on the game but we
+can't commit to roll back to the
+extent that we need like
+>
+> with working on the game but we
+can't commit to roll back to the
+extent that we need like if
+>
+> with working on the game but we
+can't commit to roll back to the
+extent that we need like if we
+>
+> can't commit to roll back to the
+extent that we need like if we
+need
+>
+> can't commit to roll back to the
+extent that we need like if we
+need to
+>
+> can't commit to roll back to the
+extent that we need like if we
+need to Crunch
+>
+> can't commit to roll back to the
+extent that we need like if we
+need to Crunch at
+>
+> can't commit to roll back to the
+extent that we need like if we
+need to Crunch at some
+>
+> can't commit to roll back to the
+extent that we need like if we
+need to Crunch at some point
+>
+> extent that we need like if we
+need to Crunch at some point to
+meet deadlines
+>
+> extent that we need like if we
+need to Crunch at some point to
+meet deadlines We're Not
+>
+> extent that we need like if we
+need to Crunch at some point to
+meet deadlines We're Not Gonna
+>
+> need to Crunch at some point to
+meet deadlines We're Not Gonna
+we need
+>
+> need to Crunch at some point to
+meet deadlines We're Not Gonna
+we need to
+>
+> need to Crunch at some point to
+meet deadlines We're Not Gonna
+we need to delay
+>
+> need to Crunch at some point to
+meet deadlines We're Not Gonna
+we need to delay and
+>
+> need to Crunch at some point to
+meet deadlines We're Not Gonna
+we need to delay and I
+>
+> need to Crunch at some point to
+meet deadlines We're Not Gonna
+we need to delay and I think
+>
+> meet deadlines We're Not Gonna
+we need to delay and I think
+it's
+>
+> meet deadlines We're Not Gonna
+we need to delay and I think
+it's a little bit frustrating
+>
+> we need to delay and I think
+it's a little bit frustrating
+for
+>
+> we need to delay and I think
+it's a little bit frustrating
+for everyone
+>
+> we need to delay and I think
+it's a little bit frustrating
+for everyone when
+>
+> we need to delay and I think
+it's a little bit frustrating
+for everyone when we are
+>
+> it's a little bit frustrating
+for everyone when we are
+constantly
+>
+> it's a little bit frustrating
+for everyone when we are
+constantly delaying
+>
+> it's a little bit frustrating
+for everyone when we are
+constantly delaying stuff
+>
+> for everyone when we are
+constantly delaying stuff I
+think
+>
+> for everyone when we are
+constantly delaying stuff I
+think this
+>
+> for everyone when we are
+constantly delaying stuff I
+think this debb
+>
+> for everyone when we are
+constantly delaying stuff I
+think this debb cycle
+>
+> for everyone when we are
+constantly delaying stuff I
+think this debb cycle that
+>
+> for everyone when we are
+constantly delaying stuff I
+think this debb cycle that we've
+>
+> constantly delaying stuff I
+think this debb cycle that we've
+had
+>
+> constantly delaying stuff I
+think this debb cycle that we've
+had last year
+>
+> constantly delaying stuff I
+think this debb cycle that we've
+had last year has
+>
+> constantly delaying stuff I
+think this debb cycle that we've
+had last year has been
+>
+> constantly delaying stuff I
+think this debb cycle that we've
+had last year has been really
+>
+> think this debb cycle that we've
+had last year has been really
+good
+>
+> think this debb cycle that we've
+had last year has been really
+good for
+>
+> think this debb cycle that we've
+had last year has been really
+good for for both
+>
+> think this debb cycle that we've
+had last year has been really
+good for for both of
+>
+> think this debb cycle that we've
+had last year has been really
+good for for both of us
+>
+> think this debb cycle that we've
+had last year has been really
+good for for both of us both
+>
+> think this debb cycle that we've
+had last year has been really
+good for for both of us both for
+>
+> had last year has been really
+good for for both of us both for
+you
+>
+> had last year has been really
+good for for both of us both for
+you guys
+>
+> good for for both of us both for
+you guys both for you guys and
+for us
+>
+> good for for both of us both for
+you guys both for you guys and
+for us just
+>
+> good for for both of us both for
+you guys both for you guys and
+for us just because
+>
+> good for for both of us both for
+you guys both for you guys and
+for us just because like
+>
+> good for for both of us both for
+you guys both for you guys and
+for us just because like we've
+>
+> you guys both for you guys and
+for us just because like we've
+had
+>
+> you guys both for you guys and
+for us just because like we've
+had time
+>
+> you guys both for you guys and
+for us just because like we've
+had time to
+>
+> you guys both for you guys and
+for us just because like we've
+had time to do
+>
+> you guys both for you guys and
+for us just because like we've
+had time to do the
+>
+> you guys both for you guys and
+for us just because like we've
+had time to do the things
+>
+> you guys both for you guys and
+for us just because like we've
+had time to do the things we
+>
+> for us just because like we've
+had time to do the things we
+want to do
+>
+> for us just because like we've
+had time to do the things we
+want to do we
+>
+> just because like we've had time
+to do the things we want to do
+we haven't
+>
+> just because like we've had time
+to do the things we want to do
+we haven't been
+>
+> just because like we've had time
+to do the things we want to do
+we haven't been stressing
+>
+> just because like we've had time
+to do the things we want to do
+we haven't been stressing about
+>
+> to do the things we want to do
+we haven't been stressing about
+like
+>
+> to do the things we want to do
+we haven't been stressing about
+like we do
+>
+> to do the things we want to do
+we haven't been stressing about
+like we do this
+>
+> we haven't been stressing about
+like we do this we need to this
+week
+>
+> to do the things we want to do
+we haven't been stressing about
+like we do this we need to
+>
+> we haven't been stressing about
+like we do this we need to do
+this we need to get this
+>
+> we haven't been stressing about
+like we do this we need to do
+this we need to get this out
+>
+> we haven't been stressing about
+like we do this we need to do
+this we need to get this out and
+>
+> like we do this we need to do
+this we need to get this out and
+like
+>
+> like we do this we need to do
+this we need to get this out and
+like our
+>
+> like we do this we need to do
+this we need to get this out and
+like our decisions
+>
+> like we do this we need to do
+this we need to get this out and
+like our decisions are
+>
+> like we do this we need to do
+this we need to get this out and
+like our decisions are based
+>
+> like we do this we need to do
+this we need to get this out and
+like our decisions are based on
+>
+> this we need to get this out and
+like our decisions are based on
+you know
+>
+> this we need to get this out and
+like our decisions are based on
+you know what's
+>
+> this we need to get this out and
+like our decisions are based on
+you know what's best
+>
+> this we need to get this out and
+like our decisions are based on
+you know what's best for
+>
+> this we need to get this out and
+like our decisions are based on
+you know what's best for the
+>
+> like our decisions are based on
+you know what's best for the
+game
+>
+> like our decisions are based on
+you know what's best for the
+game rather than
+>
+> like our decisions are based on
+you know what's best for the
+game rather than when
+>
+> like our decisions are based on
+you know what's best for the
+game rather than when is
+>
+> like our decisions are based on
+you know what's best for the
+game rather than when is this
+>
+> you know what's best for the
+game rather than when is this
+coming
+>
+> you know what's best for the
+game rather than when is this
+coming out
+>
+> you know what's best for the
+game rather than when is this
+coming out and
+>
+> you know what's best for the
+game rather than when is this
+coming out and that's
+>
+> game rather than when is this
+coming out and that's why we
+want
+>
+> game rather than when is this
+coming out and that's why we
+want to
+>
+> game rather than when is this
+coming out and that's why we
+want to keep
+>
+> game rather than when is this
+coming out and that's why we
+want to keep doing
+>
+> game rather than when is this
+coming out and that's why we
+want to keep doing that
+>
+> game rather than when is this
+coming out and that's why we
+want to keep doing that that's
+>
+> coming out and that's why we
+want to keep doing that that's
+one
+>
+> coming out and that's why we
+want to keep doing that that's
+one reason
+>
+> coming out and that's why we
+want to keep doing that that's
+one reason the other
+>
+> coming out and that's why we
+want to keep doing that that's
+one reason the other reason
+>
+> coming out and that's why we
+want to keep doing that that's
+one reason the other reason is
+>
+> want to keep doing that that's
+one reason the other reason is
+that
+>
+> want to keep doing that that's
+one reason the other reason is
+that we're
+>
+> want to keep doing that that's
+one reason the other reason is
+that we're constantly changing
+>
+> one reason the other reason is
+that we're constantly changing
+our minds
+>
+> one reason the other reason is
+that we're constantly changing
+our minds based
+>
+> one reason the other reason is
+that we're constantly changing
+our minds based on
+>
+> one reason the other reason is
+that we're constantly changing
+our minds based on you
+>
+> one reason the other reason is
+that we're constantly changing
+our minds based on you know
+>
+> that we're constantly changing
+our minds based on you know one
+reporter typing
+>
+> that we're constantly changing
+our minds based on you know one
+reporter typing stuff
+>
+> that we're constantly changing
+our minds based on you know one
+reporter typing stuff and
+>
+> our minds based on you know one
+reporter typing stuff and
+realize this
+>
+> our minds based on you know one
+reporter typing stuff and
+realize this isn't a good
+>
+> our minds based on you know one
+reporter typing stuff and
+realize this isn't a good idea
+>
+> reporter typing stuff and
+realize this isn't a good idea
+or
+>
+> reporter typing stuff and
+realize this isn't a good idea
+or when
+>
+> reporter typing stuff and
+realize this isn't a good idea
+or when we
+>
+> reporter typing stuff and
+realize this isn't a good idea
+or when we purchase
+>
+> realize this isn't a good idea
+or when we purchase is up and
+realize
+>
+> realize this isn't a good idea
+or when we purchase is up and
+realize what
+>
+> realize this isn't a good idea
+or when we purchase is up and
+realize what if
+>
+> realize this isn't a good idea
+or when we purchase is up and
+realize what if we
+>
+> realize this isn't a good idea
+or when we purchase is up and
+realize what if we didn't
+>
+> realize this isn't a good idea
+or when we purchase is up and
+realize what if we didn't this
+>
+> or when we purchase is up and
+realize what if we didn't this
+way
+>
+> or when we purchase is up and
+realize what if we didn't this
+way instead
+>
+> or when we purchase is up and
+realize what if we didn't this
+way instead and
+>
+> or when we purchase is up and
+realize what if we didn't this
+way instead and change
+>
+> or when we purchase is up and
+realize what if we didn't this
+way instead and change our
+>
+> or when we purchase is up and
+realize what if we didn't this
+way instead and change our minds
+>
+> realize what if we didn't this
+way instead and change our minds
+and
+>
+> realize what if we didn't this
+way instead and change our minds
+and some things
+>
+> realize what if we didn't this
+way instead and change our minds
+and some things we
+>
+> realize what if we didn't this
+way instead and change our minds
+and some things we want to
+>
+> way instead and change our minds
+and some things we want to be
+able
+>
+> way instead and change our minds
+and some things we want to be
+able to
+>
+> way instead and change our minds
+and some things we want to be
+able to do
+>
+> way instead and change our minds
+and some things we want to be
+able to do that
+>
+> way instead and change our minds
+and some things we want to be
+able to do that still
+>
+> way instead and change our minds
+and some things we want to be
+able to do that still and
+>
+> way instead and change our minds
+and some things we want to be
+able to do that still and it's
+>
+> and some things we want to be
+able to do that still and it's
+also
+>
+> and some things we want to be
+able to do that still and it's
+also so
+>
+> and some things we want to be
+able to do that still and it's
+also so that
+>
+> and some things we want to be
+able to do that still and it's
+also so that we
+>
+> and some things we want to be
+able to do that still and it's
+also so that we can
+>
+> and some things we want to be
+able to do that still and it's
+also so that we can kind of
+>
+> able to do that still and it's
+also so that we can kind of
+react
+>
+> able to do that still and it's
+also so that we can kind of
+react what you
+>
+> able to do that still and it's
+also so that we can kind of
+react what you guys
+>
+> able to do that still and it's
+also so that we can kind of
+react what you guys are
+>
+> able to do that still and it's
+also so that we can kind of
+react what you guys are doing
+>
+> also so that we can kind of
+react what you guys are doing
+saying
+>
+> also so that we can kind of
+react what you guys are doing
+saying to
+>
+> also so that we can kind of
+react what you guys are doing
+saying to us
+>
+> also so that we can kind of
+react what you guys are doing
+saying to us so
+>
+> react what you guys are doing
+saying to us so friends and
+pipes
+>
+> react what you guys are doing
+saying to us so friends and
+pipes would
+>
+> react what you guys are doing
+saying to us so friends and
+pipes would not
+>
+> react what you guys are doing
+saying to us so friends and
+pipes would not have
+>
+> react what you guys are doing
+saying to us so friends and
+pipes would not have been
+>
+> saying to us so friends and
+pipes would not have been
+possible
+>
+> saying to us so friends and
+pipes would not have been
+possible if
+>
+> saying to us so friends and
+pipes would not have been
+possible if we
+>
+> saying to us so friends and
+pipes would not have been
+possible if we would have
+>
+> saying to us so friends and
+pipes would not have been
+possible if we would have kept
+>
+> pipes would not have been
+possible if we would have kept a
+road map
+>
+> pipes would not have been
+possible if we would have kept a
+road map going
+>
+> pipes would not have been
+possible if we would have kept a
+road map going pipes
+>
+> pipes would not have been
+possible if we would have kept a
+road map going pipes would not
+>
+> possible if we would have kept a
+road map going pipes would not
+have happened
+>
+> possible if we would have kept a
+road map going pipes would not
+have happened at
+>
+> possible if we would have kept a
+road map going pipes would not
+have happened at that
+>
+> possible if we would have kept a
+road map going pipes would not
+have happened at that point
+>
+> possible if we would have kept a
+road map going pipes would not
+have happened at that point so
+>
+> road map going pipes would not
+have happened at that point so
+yeah
+>
+> road map going pipes would not
+have happened at that point so
+yeah we really want to keep that
+>
+> have happened at that point so
+yeah we really want to keep that
+a child development
+>
+> have happened at that point so
+yeah we really want to keep that
+a child development going
+>
+> have happened at that point so
+yeah we really want to keep that
+a child development going in
+>
+> have happened at that point so
+yeah we really want to keep that
+a child development going in and
+>
+> yeah we really want to keep that
+a child development going in and
+not
+>
+> yeah we really want to keep that
+a child development going in and
+not get
+>
+> yeah we really want to keep that
+a child development going in and
+not get stuck
+>
+> yeah we really want to keep that
+a child development going in and
+not get stuck in
+>
+> yeah we really want to keep that
+a child development going in and
+not get stuck in Lake
+>
+> yeah we really want to keep that
+a child development going in and
+not get stuck in Lake be
+>
+> yeah we really want to keep that
+a child development going in and
+not get stuck in Lake beaver
+>
+> yeah we really want to keep that
+a child development going in and
+not get stuck in Lake be there
+>
+> yeah we really want to keep that
+a child development going in and
+not get stuck in Lake be the
+>
+> yeah we really want to keep that
+a child development going in and
+not get stuck in Lake be the the
+>
+> yeah we really want to keep that
+a child development going in and
+not get stuck in Lake be
+>
+> yeah we really want to keep that
+a child development going in and
+not get stuck in Lake be the
+>
+> yeah we really want to keep that
+a child development going in and
+not get stuck in Lake be the the
+>
+> a child development going in and
+not get stuck in Lake be the the
+book
+>
+> a child development going in and
+not get stuck in Lake be the the
+book map
+>
+> a child development going in and
+not get stuck in Lake be the the
+book map kind of
+>
+> a child development going in and
+not get stuck in Lake be the the
+book map kind of thinking
+>
+> not get stuck in Lake be the the
+book map kind of thinking
+another
+>
+> not get stuck in Lake be the the
+book map kind of thinking
+another is really frustrating
+>
+> not get stuck in Lake be the the
+book map kind of thinking
+another is really frustrating to
+>
+> book map kind of thinking
+another is really frustrating to
+hear
+>
+> book map kind of thinking
+another is really frustrating to
+hear cuz
+>
+> book map kind of thinking
+another is really frustrating to
+hear cuz obviously
+>
+> book map kind of thinking
+another is really frustrating to
+hear cuz obviously you
+>
+> thinking another is really
+frustrating to hear cuz
+obviously you want
+>
+> thinking another is really
+frustrating to hear cuz
+obviously you want to
+>
+> thinking another is really
+frustrating to hear cuz
+obviously you want to know
+>
+> thinking another is really
+frustrating to hear cuz
+obviously you want to know like
+>
+> frustrating to hear cuz
+obviously you want to know like
+what's
+>
+> frustrating to hear cuz
+obviously you want to know like
+what's coming
+>
+> frustrating to hear cuz
+obviously you want to know like
+what's coming and
+>
+> frustrating to hear cuz
+obviously you want to know like
+what's coming and what
+>
+> frustrating to hear cuz
+obviously you want to know like
+what's coming and what to
+>
+> frustrating to hear cuz
+obviously you want to know like
+what's coming and what to look
+>
+> obviously you want to know like
+what's coming and what to look
+forward
+>
+> obviously you want to know like
+what's coming and what to look
+forward to
+>
+> obviously you want to know like
+what's coming and what to look
+forward to and
+>
+> obviously you want to know like
+what's coming and what to look
+forward to and then
+>
+> what's coming and what to look
+forward to and then do you know
+if
+>
+> what's coming and what to look
+forward to and then do you know
+if you
+>
+> what's coming and what to look
+forward to and then do you know
+if you know
+>
+> what's coming and what to look
+forward to and then do you know
+if you know that
+>
+> what's coming and what to look
+forward to and then do you know
+if you know that like
+>
+> forward to and then do you know
+if you know that like I'm really
+looking
+>
+> forward to and then do you know
+if you know that like I'm really
+looking forward
+>
+> forward to and then do you know
+if you know that like I'm really
+looking forward to
+>
+> forward to and then do you know
+if you know that like I'm really
+looking forward to this
+>
+> forward to and then do you know
+if you know that like I'm really
+looking forward to this thing
+>
+> if you know that like I'm really
+looking forward to this thing
+that's going to come
+>
+> if you know that like I'm really
+looking forward to this thing
+that's going to come in
+>
+> if you know that like I'm really
+looking forward to this thing
+that's going to come in in
+>
+> if you know that like I'm really
+looking forward to this thing
+that's going to come in in this
+>
+> looking forward to this thing
+that's going to come in in this
+part of
+>
+> looking forward to this thing
+that's going to come in in this
+part of the air like
+>
+> looking forward to this thing
+that's going to come in in this
+part of the air like we're going
+>
+> that's going to come in in this
+part of the air like we're going
+to
+>
+> that's going to come in in this
+part of the air like we're going
+to try
+>
+> that's going to come in in this
+part of the air like we're going
+to try and
+>
+> that's going to come in in this
+part of the air like we're going
+to try and like
+>
+> that's going to come in in this
+part of the air like we're going
+to try and like BS open
+>
+> that's going to come in in this
+part of the air like we're going
+to try and like BS open about
+>
+> part of the air like we're going
+to try and like BS open about
+developments we can
+>
+> part of the air like we're going
+to try and like BS open about
+developments we can we've been
+>
+> to try and like BS open about
+developments we can we've been
+fairly
+>
+> to try and like BS open about
+developments we can we've been
+fairly open
+>
+> to try and like BS open about
+developments we can we've been
+fairly open in
+>
+> to try and like BS open about
+developments we can we've been
+fairly open in 4 update
+>
+> to try and like BS open about
+developments we can we've been
+fairly open in 4 update for
+>
+> developments we can we've been
+fairly open in 4 update for
+saying
+>
+> developments we can we've been
+fairly open in 4 update for
+saying what's
+>
+> developments we can we've been
+fairly open in 4 update for
+saying what's going
+>
+> developments we can we've been
+fairly open in 4 update for
+saying what's going to
+>
+> developments we can we've been
+fairly open in 4 update for
+saying what's going to come
+>
+> fairly open in 4 update for
+saying what's going to come I'm
+going to
+>
+> fairly open in 4 update for
+saying what's going to come I'm
+going to try
+>
+> fairly open in 4 update for
+saying what's going to come I'm
+going to try and
+>
+> fairly open in 4 update for
+saying what's going to come I'm
+going to try and be even
+>
+> fairly open in 4 update for
+saying what's going to come I'm
+going to try and be even more
+>
+> saying what's going to come I'm
+going to try and be even more
+open
+>
+> saying what's going to come I'm
+going to try and be even more
+open and
+>
+> saying what's going to come I'm
+going to try and be even more
+open and let you guys know
+>
+> going to try and be even more
+open and let you guys know
+what's coming in the pipeline
+>
+> open and let you guys know
+what's coming in the pipeline
+what my change
+>
+> open and let you guys know
+what's coming in the pipeline
+what my change keep you in
+>
+> open and let you guys know
+what's coming in the pipeline
+what my change keep you in the
+>
+> what's coming in the pipeline
+what my change keep you in the
+loop
+>
+> what's coming in the pipeline
+what my change keep you in the
+loop at
+>
+> what's coming in the pipeline
+what my change keep you in the
+loop at such as
+>
+> what's coming in the pipeline
+what my change keep you in the
+loop at such as much as men
+>
+> what's coming in the pipeline
+what my change keep you in the
+loop at such
+>
+> what my change keep you in the
+loop at such a touch with me to
+figure things out
+>
+> what my change keep you in the
+loop at such a touch with me to
+figure things out that way
+>
+> loop at such a touch with me to
+figure things out that way
+instead
+>
+> loop at such a touch with me to
+figure things out that way
+instead of
+>
+> loop at such a touch with me to
+figure things out that way
+instead of having a static
+>
+> figure things out that way
+instead of having a static world
+map
+>
+> figure things out that way
+instead of having a static world
+map on
+>
+> figure things out that way
+instead of having a static world
+map on them
+>
+> figure things out that way
+instead of having a static world
+map on them on
+>
+> figure things out that way
+instead of having a static world
+map on them on the
+>
+> figure things out that way
+instead of having a static world
+map on them on
+>
+> figure things out that way
+instead of having a static world
+map on them on the
+>
+> figure things out that way
+instead of having a static world
+map on them on the on the
+>
+> instead of having a static world
+map on them on the on the
+website
+>
+> instead of having a static world
+map on them on the on the
+website or something like that
+>
+> map on them on the on the
+website or something like that
+cuz
+>
+> map on them on the on the
+website or something like that
+cuz you feel
+>
+> map on them on the on the
+website or something like that
+cuz you feel like
+>
+> map on them on the on the
+website or something like that
+cuz you feel like also
+>
+> map on them on the on the
+website or something like that
+cuz you feel like also doing
+>
+> website or something like that
+cuz you feel like also doing
+that
+>
+> website or something like that
+cuz you feel like also doing
+that way
+>
+> website or something like that
+cuz you feel like also doing
+that way this
+>
+> something like that cuz you feel
+like also doing that way this
+kind of
+>
+> something like that cuz you feel
+like also doing that way this
+kind of communication
+>
+> something like that cuz you feel
+like also doing that way this
+kind of communication or we
+>
+> something like that cuz you feel
+like also doing that way this
+kind of communication or we have
+>
+> like also doing that way this
+kind of communication or we have
+our strains have a YouTube
+>
+> kind of communication or we have
+our strains have a YouTube
+channel
+>
+> kind of communication or we have
+our strains have a YouTube
+channel we
+>
+> kind of communication or we have
+our strains have a YouTube
+channel we have
+>
+> kind of communication or we have
+our strains have a YouTube
+channel we have you know
+>
+> our strains have a YouTube
+channel we have you know are
+Twitter and
+>
+> our strains have a YouTube
+channel we have you know are
+Twitter and stuff like
+>
+> our strains have a YouTube
+channel we have you know are
+Twitter and stuff like that
+>
+> our strains have a YouTube
+channel we have you know are
+Twitter and stuff like that it
+>
+> channel we have you know are
+Twitter and stuff like that it
+gives
+>
+> channel we have you know are
+Twitter and stuff like that it
+gives us
+>
+> channel we have you know are
+Twitter and stuff like that it
+gives us a
+>
+> channel we have you know are
+Twitter and stuff like that it
+gives us a better
+>
+> channel we have you know are
+Twitter and stuff like that it
+gives us a better way to like
+>
+> Twitter and stuff like that it
+gives us a better way to like
+kitchen
+>
+> Twitter and stuff like that it
+gives us a better way to like
+kitchen key
+>
+> Twitter and stuff like that it
+gives us a better way to like
+kitchen keep
+>
+> Twitter and stuff like that it
+gives us a better way to like
+kitchen keep in
+>
+> Twitter and stuff like that it
+gives us a better way to like
+kitchen keep and gay
+>
+> Twitter and stuff like that it
+gives us a better way to like
+kitchen keep
+>
+> Twitter and stuff like that it
+gives us a better way to like
+kitchen keep engage with
+>
+> Twitter and stuff like that it
+gives us a better way to like
+kitchen keep engage with you
+>
+> gives us a better way to like
+kitchen keep engage with you
+guys
+>
+> gives us a better way to like
+kitchen keep engage with you
+guys as
+>
+> gives us a better way to like
+kitchen keep engage with you
+guys as well
+>
+> gives us a better way to like
+kitchen keep engage with you
+guys as well so
+>
+> gives us a better way to like
+kitchen keep engage with you
+guys as well so that
+>
+> gives us a better way to like
+kitchen keep engage with you
+guys as well so that we
+>
+> gives us a better way to like
+kitchen keep engage with you
+guys as well so that we don't
+>
+> kitchen keep engage with you
+guys as well so that we don't
+become
+>
+> kitchen keep engage with you
+guys as well so that we don't
+become you
+>
+> kitchen keep engage with you
+guys as well so that we don't
+become you know
+>
+> kitchen keep engage with you
+guys as well so that we don't
+become you know Boomer
+>
+> kitchen keep engage with you
+guys as well so that we don't
+become you know Boomer game
+>
+> guys as well so that we don't
+become you know Boomer game
+developers
+>
+> guys as well so that we don't
+become you know Boomer game
+developers that
+>
+> well so that we don't become you
+know Boomer game developers that
+just
+>
+> well so that we don't become you
+know Boomer game developers that
+just like
+>
+> well so that we don't become you
+know Boomer game developers that
+just like we do this
+>
+> well so that we don't become you
+know Boomer game developers that
+just like we do this thing
+>
+> well so that we don't become you
+know Boomer game developers that
+just like we do this thing to do
+>
+> well so that we don't become you
+know Boomer game developers that
+just like we do this thing
+>
+> know Boomer game developers that
+just like we do this thing I'm
+going to do what
+>
+> know Boomer game developers that
+just like we do this thing I'm
+going to do what makes
+>
+> know Boomer game developers that
+just like we do this thing I'm
+going to do what makes sense
+>
+> know Boomer game developers that
+just like we do this thing I'm
+going to do what makes sense for
+>
+> just like we do this thing I'm
+going to do what makes sense for
+the
+>
+> just like we do this thing I'm
+going to do what makes sense for
+the game and
+>
+> just like we do this thing I'm
+going to do what makes sense for
+the game and what
+>
+> just like we do this thing I'm
+going to do what makes sense for
+the game and what makes
+>
+> just like we do this thing I'm
+going to do what makes sense for
+the game and what makes the
+>
+> just like we do this thing I'm
+going to do what makes sense for
+the game and what makes the game
+>
+> going to do what makes sense for
+the game and what makes the game
+better
+>
+> going to do what makes sense for
+the game and what makes the game
+better and
+>
+> going to do what makes sense for
+the game and what makes the game
+better and we
+>
+> going to do what makes sense for
+the game and what makes the game
+better and we feel
+>
+> going to do what makes sense for
+the game and what makes the game
+better and we feel like
+>
+> going to do what makes sense for
+the game and what makes the game
+better and we feel like a
+>
+> going to do what makes sense for
+the game and what makes the game
+better and we feel like a road
+>
+> the game and what makes the game
+better and we feel like a road
+map
+>
+> the game and what makes the game
+better and we feel like a road
+map is
+>
+> the game and what makes the game
+better and we feel like a road
+map is little
+>
+> the game and what makes the game
+better and we feel like a road
+map is little bit
+>
+> the game and what makes the game
+better and we feel like a road
+map is little bit hindering us
+>
+> the game and what makes the game
+better and we feel like a road
+map is little bit hindering Us
+>
+> the game and what makes the game
+better and we feel like a road
+map is little bit hindering us
+>
+> the game and what makes the game
+better and we feel like a road
+map is little bit hindering Us
+>
+> better and we feel like a road
+map is little bit hindering Us
+in that sense
+>
+> better and we feel like a road
+map is little bit hindering Us
+in that sense Rose
+>
+> better and we feel like a road
+map is little bit hindering Us
+in that sense Rosa
+>
+> better and we feel like a road
+map is little bit hindering Us
+in that sense what was the
+>
+> better and we feel like a road
+map is little bit hindering Us
+in that sense Roseanne
+>
+> better and we feel like a road
+map is little bit hindering Us
+in that sense what was a joke
+>
+> better and we feel like a road
+map is little bit hindering Us
+in that sense I wasn't joking
+>
+> better and we feel like a road
+map is little bit hindering Us
+in that sense what was a joke
+>
+> map is little bit hindering Us
+in that sense I wasn't joking
+and
+>
+> map is little bit hindering Us
+in that sense what was a joke in
+Inver
+>
+> map is little bit hindering Us
+in that sense I wasn't joking
+and burn
+>
+> map is little bit hindering Us
+in that sense I wasn't joking
+and burns
+>
+> map is little bit hindering Us
+in that sense what was a joke in
+Inverness
+>
+> map is little bit hindering Us
+in that sense I wasn't joking
+and burns
+>
+> map is little bit hindering Us
+in that sense I wasn't joking in
+Burnsville
+>
+> map is little bit hindering Us
+in that sense I wasn't joking in
+Burnsville.
+>
+> map is little bit hindering Us
+in that sense I wasn't joking in
+Burnsville Deb's
+>
+> better and we feel like a road
+map is little bit hindering Us
+in that sense I wasn't joking
+>
+> map is little bit hindering Us
+in that sense I wasn't joking in
+Burnsville
+>
+> map is little bit hindering Us
+in that sense I wasn't joking in
+Burnsville Deb's yeah
+>
+> map is little bit hindering Us
+in that sense I wasn't joking in
+Burnsville Deb's yeah I can
+>
+> map is little bit hindering Us
+in that sense I wasn't joking in
+Burnsville Deb's yeah I can do
+>
+> in that sense I wasn't joking in
+Burnsville Deb's yeah I can do
+that
+>
+> in that sense I wasn't joking in
+Burnsville Deb's yeah I can do
+that it
+>
+> in that sense I wasn't joking in
+Burnsville Deb's yeah I can do
+that it is to do to
+>
+> in that sense I wasn't joking in
+Burnsville Deb's yeah I can do
+that it is to do to have
+>
+> Deb's yeah I can do that it is
+to do to have Road match that
+kind of
+>
+> Deb's yeah I can do that it is
+to do to have Road match that
+kind of work
+>
+> Deb's yeah I can do that it is
+to do to have Road match that
+kind of work and
+>
+> Deb's yeah I can do that it is
+to do to have Road match that
+kind of work and we
+>
+> Deb's yeah I can do that it is
+to do to have Road match that
+kind of work and we also talked
+>
+> to do to have Road match that
+kind of work and we also talked
+a lot
+>
+> to do to have Road match that
+kind of work and we also talked
+a lot about
+>
+> to do to have Road match that
+kind of work and we also talked
+a lot about having
+>
+> to do to have Road match that
+kind of work and we also talked
+a lot about having like
+>
+> to do to have Road match that
+kind of work and we also talked
+a lot about having like some
+>
+> kind of work and we also talked
+a lot about having like some
+Middle
+>
+> kind of work and we also talked
+a lot about having like some
+middle
+>
+> kind of work and we also talked
+a lot about having like some
+middle ground
+>
+> kind of work and we also talked
+a lot about having like some
+middle ground or
+>
+> kind of work and we also talked
+a lot about having like some
+middle ground or maybe
+>
+> kind of work and we also talked
+a lot about having like some
+middle ground or maybe we'll
+>
+> kind of work and we also talked
+a lot about having like some
+middle ground or maybe we'll do
+>
+> a lot about having like some
+middle ground or maybe we'll do
+like
+>
+> a lot about having like some
+middle ground or maybe we'll do
+like a
+>
+> a lot about having like some
+middle ground or maybe we'll do
+like a whiteboard or
+>
+> a lot about having like some
+middle ground or maybe we'll do
+like a whiteboard or something
+>
+> middle ground or maybe we'll do
+like a whiteboard or something
+like
+>
+> middle ground or maybe we'll do
+like a whiteboard or something
+like that
+>
+> middle ground or maybe we'll do
+like a whiteboard or something
+like that show me like this
+>
+> middle ground or maybe we'll do
+like a whiteboard or something
+like that show me like this is
+>
+> like a whiteboard or something
+like that show me like this is
+what
+>
+> like a whiteboard or something
+like that show me like this is
+what we're looking to
+>
+> like a whiteboard or something
+like that show me like this is
+what we're looking to implement
+>
+> like that show me like this is
+what we're looking to implement
+at some
+>
+> like that show me like this is
+what we're looking to implement
+at some point
+>
+> like that show me like this is
+what we're looking to implement
+at some point we
+>
+> like that show me like this is
+what we're looking to implement
+at some point we don't
+>
+> like that show me like this is
+what we're looking to implement
+at some point we don't know
+>
+> like that show me like this is
+what we're looking to implement
+at some point we don't know when
+>
+> what we're looking to implement
+at some point we don't know when
+it may be like
+>
+> what we're looking to implement
+at some point we don't know when
+it may be like that
+>
+> what we're looking to implement
+at some point we don't know when
+it may be like that will also
+>
+> what we're looking to implement
+at some point we don't know when
+it may be like that will also be
+>
+> at some point we don't know when
+it may be like that will also be
+easier
+>
+> at some point we don't know when
+it may be like that will also be
+easier to like confirm
+>
+> at some point we don't know when
+it may be like that will also be
+easier to like confirm like
+>
+> it may be like that will also be
+easier to like confirm like
+these
+>
+> it may be like that will also be
+easier to like confirm like
+these are the things
+>
+> it may be like that will also be
+easier to like confirm like
+these are the things that
+>
+> it may be like that will also be
+easier to like confirm like
+these are the things that we
+>
+> easier to like confirm like
+these are the things that we
+confirm
+>
+> easier to like confirm like
+these are the things that we
+confirm want to
+>
+> easier to like confirm like
+these are the things that we
+confirm want to have
+>
+> easier to like confirm like
+these are the things that we
+confirm want to have inside
+>
+> these are the things that we
+confirm want to have inside the
+factory
+>
+> these are the things that we
+confirm want to have inside the
+factory but even
+>
+> these are the things that we
+confirm want to have inside the
+factory but even those things
+>
+> confirm want to have inside the
+factory but even those things
+can
+>
+> confirm want to have inside the
+factory but even those things
+can change
+>
+> confirm want to have inside the
+factory but even those things
+can change like
+>
+> confirm want to have inside the
+factory but even those things
+can change like there might
+>
+> confirm want to have inside the
+factory but even those things
+can change like there might be
+>
+> factory but even those things
+can change like there might be
+things
+>
+> factory but even those things
+can change like there might be
+things that
+>
+> factory but even those things
+can change like there might be
+things that we
+>
+> factory but even those things
+can change like there might be
+things that we we
+>
+> factory but even those things
+can change like there might be
+things that we we feel
+>
+> factory but even those things
+can change like there might be
+things that we we feel like
+>
+> factory but even those things
+can change like there might be
+things that we we feel like this
+>
+> can change like there might be
+things that we we feel like this
+needs
+>
+> can change like there might be
+things that we we feel like this
+needs to
+>
+> can change like there might be
+things that we we feel like this
+needs to be
+>
+> can change like there might be
+things that we we feel like this
+needs to be in
+>
+> can change like there might be
+things that we we feel like this
+needs to be in the
+>
+> can change like there might be
+things that we we feel like this
+needs to be in the game
+>
+> can change like there might be
+things that we we feel like this
+needs to be in the game but
+>
+> can change like there might be
+things that we we feel like this
+needs to be in the game but then
+>
+> things that we we feel like this
+needs to be in the game but then
+maybe
+>
+> things that we we feel like this
+needs to be in the game but then
+maybe we
+>
+> things that we we feel like this
+needs to be in the game but then
+maybe we aren't
+>
+> things that we we feel like this
+needs to be in the game but then
+maybe we aren't able
+>
+> things that we we feel like this
+needs to be in the game but then
+maybe we aren't able to
+>
+> needs to be in the game but then
+maybe we aren't able to
+implement it so
+>
+> things that we we feel like this
+needs to be in the game but then
+maybe we aren't able to
+>
+> needs to be in the game but then
+maybe we aren't able to
+implemented
+>
+> needs to be in the game but then
+maybe we aren't able to
+implemented Sew and Vac
+>
+> maybe we aren't able to
+implemented Sew and Vac ml to be
+pretty frustrating
+>
+> maybe we aren't able to
+implemented Sew and Vac ml to be
+pretty frustrating so
+>
+> maybe we aren't able to
+implemented Sew and Vac ml to be
+pretty frustrating So
+>
+> maybe we aren't able to
+implemented Sew and Vac ml to be
+pretty frustrating so
+>
+> maybe we aren't able to
+implemented Sew and Vac ml to be
+pretty frustrating So
+>
+> maybe we aren't able to
+implemented Sew and Vac ml to be
+pretty frustrating so it's
+>
+> implemented Sew and Vac ml to be
+pretty frustrating so it's a
+tricky it's a
+>
+> implemented Sew and Vac ml to be
+pretty frustrating so it's a
+tricky it's a tricky situation
+>
+> pretty frustrating so it's a
+tricky it's a tricky situation
+we're
+>
+> pretty frustrating so it's a
+tricky it's a tricky situation
+we're trying
+>
+> pretty frustrating so it's a
+tricky it's a tricky situation
+we're trying our best
+>
+> pretty frustrating so it's a
+tricky it's a tricky situation
+we're trying our best to
+>
+> pretty frustrating so it's a
+tricky it's a tricky situation
+we're trying our best to two
+>
+> pretty frustrating so it's a
+tricky it's a tricky situation
+we're trying our best to
+>
+> pretty frustrating so it's a
+tricky it's a tricky situation
+we're trying our best to to
+>
+> tricky it's a tricky situation
+we're trying our best to to
+figure
+>
+> tricky it's a tricky situation
+we're trying our best to to
+figure out
+>
+> tricky it's a tricky situation
+we're trying our best to to
+figure out what to
+>
+> tricky it's a tricky situation
+we're trying our best to to
+figure out what to do
+>
+> tricky it's a tricky situation
+we're trying our best to to
+figure out what to do about
+>
+> tricky it's a tricky situation
+we're trying our best to to
+figure out what to do about that
+>
+> we're trying our best to to
+figure out what to do about that
+Oswego
+>
+> tricky it's a tricky situation
+we're trying our best to to
+figure out what to do about that
+>
+> we're trying our best to to
+figure out what to do about that
+as we go but
+>
+> we're trying our best to to
+figure out what to do about that
+as we go but working
+>
+> we're trying our best to to
+figure out what to do about that
+as we go but working on
+>
+> we're trying our best to to
+figure out what to do about that
+as we go but working on the
+>
+> we're trying our best to to
+figure out what to do about that
+as we go but working on the game
+>
+> figure out what to do about that
+as we go but working on the game
+making
+>
+> figure out what to do about that
+as we go but working on the game
+making it
+>
+> figure out what to do about that
+as we go but working on the game
+making it the game
+>
+> figure out what to do about that
+as we go but working on the game
+making it the game as best as
+>
+> as we go but working on the game
+making it the game as best as it
+can be
+>
+> figure out what to do about that
+as we go but working on the game
+making it the game as best as
+>
+> as we go but working on the game
+making it the game as best as it
+can be
+>
+> as we go but working on the game
+making it the game as best as it
+can be a
+>
+> as we go but working on the game
+making it the game as best as it
+can be a priority
+>
+> as we go but working on the game
+making it the game as best as it
+can be a priority for
+>
+> as we go but working on the game
+making it the game as best as it
+can be a priority for us
+>
+> as we go but working on the game
+making it the game as best as it
+can be a priority for us so
+>
+> making it the game as best as it
+can be a priority for us so
+really
+>
+> making it the game as best as it
+can be a priority for us so
+really sorry
+>
+> making it the game as best as it
+can be a priority for us so
+really sorry that
+>
+> making the game as best as it
+can be a priority for us so
+really sorry that that
+>
+> making the game as best as it
+can be a priority for us so
+really sorry that that and
+>
+> making the game as best as it
+can be a priority for us so
+really sorry that that answer
+>
+> making the game as best as it
+can be a priority for us so
+really sorry that that answered
+>
+> making the game as best as it
+can be a priority for us so
+really sorry that that answer.
+>
+> can be a priority for us so
+really sorry that that answer
+God's
+>
+> can be a priority for us so
+really sorry that that answer.
+So
+>
+> can be a priority for us so
+really sorry that that answer
+got soul
+>
+> can be a priority for us so
+really sorry that that answer.
+So long
+>
+> can be a priority for us so
+really sorry that that answer.
+So long but
+>
+> can be a priority for us so
+really sorry that that answer.
+So long but we
+>
+> can be a priority for us so
+really sorry that that answer.
+So long but we really
+>
+> can be a priority for us so
+really sorry that that answer.
+So long but we really want
+>
+> can be a priority for us so
+really sorry that that answer.
+So long but we really want to
+>
+> really sorry that that answer.
+So long but we really want to
+make
+>
+> really sorry that that answer.
+So long but we really want to
+make the
+>
+> really sorry that that answer.
+So long but we really want to
+make the game
+>
+> really sorry that that answer.
+So long but we really want to
+make the game the
+>
+> really sorry that that answer.
+So long but we really want to
+make the game the best
+>
+> really sorry that that answer.
+So long but we really want to
+make the game the best I can
+>
+> really sorry that that answer.
+So long but we really want to
+make the game the best I can be
+>
+> really sorry that that answer.
+So long but we really want to
+make the game the best
+>
+> really sorry that that answer.
+So long but we really want to
+make the game the best it can be
+>
+> So long but we really want to
+make the game the best it can be
+and
+>
+> So long but we really want to
+make the game the best it can be
+and sometimes
+>
+> So long but we really want to
+make the game the best it can be
+and sometimes we
+>
+> So long but we really want to
+make the game the best it can be
+and sometimes we need
+>
+> want to make the game the best
+it can be and sometimes we need
+to take
+>
+> want to make the game the best
+it can be and sometimes we need
+to take decisions.
+>
+> want to make the game the best
+it can be and sometimes we need
+to take decisions
+>
+> want to make the game the best
+it can be and sometimes we need
+to take decisions that
+>
+> want to make the game the best
+it can be and sometimes we need
+to take decisions that suck for
+>
+> it can be and sometimes we need
+to take decisions that suck for
+you
+>
+> it can be and sometimes we need
+to take decisions that suck for
+you guys
+>
+> it can be and sometimes we need
+to take decisions that suck for
+you guys but
+>
+> it can be and sometimes we need
+to take decisions that suck for
+you guys but in
+>
+> it can be and sometimes we need
+to take decisions that suck for
+you guys but in the
+>
+> it can be and sometimes we need
+to take decisions that suck for
+you guys but in the long
+>
+> it can be and sometimes we need
+to take decisions that suck for
+you guys but in the long haul
+>
+> it can be and sometimes we need
+to take decisions that suck for
+you guys but in the long haul I
+>
+> to take decisions that suck for
+you guys but in the long haul I
+think
+>
+> to take decisions that suck for
+you guys but in the long haul I
+think will be better
+>
+> to take decisions that suck for
+you guys but in the long haul I
+think will be better for
+>
+> to take decisions that suck for
+you guys but in the long haul I
+think will be better for you
+>
+> you guys but in the long haul I
+think will be better for you
+guys
+>
+> you guys but in the long haul I
+think will be better for you
+guys in that sense
+>
+> you guys but in the long haul I
+think will be better for you
+guys in that sense so
+>
+> you guys but in the long haul I
+think will be better for you
+guys in that sense so all right
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as March 2021 and as early as March 2020.</summary>
+
+* [March 23rd, 2021 Livestream Q&A: Please can I have the future Roadmap back, I need it in my life](./transcriptions/yt-AlerpJ2AaXQ.md) [https://www.youtube.com/watch?v=AlerpJ2AaXQ](https://www.youtube.com/watch?v=AlerpJ2AaXQ)
+* [December 8th, 2020 Livestream Q&A: I would be interested to see your in-house roadmap](./transcriptions/yt-D0LY0PxkSJM.md) [https://www.youtube.com/watch?v=D0LY0PxkSJM](https://www.youtube.com/watch?v=D0LY0PxkSJM)
+* [September 1st, 2020 Livestream Q&A: Roadmap?](./transcriptions/yt-iSMAUqquuvc.md) [https://www.youtube.com/watch?v=iSMAUqquuvc](https://www.youtube.com/watch?v=iSMAUqquuvc)
+* [August 25th, 2020 Livestream Q&A: Do you have a set of ideas?](./transcriptions/yt-eSN0HQlSJBs.md) [https://www.youtube.com/watch?v=eSN0HQlSJBs](https://www.youtube.com/watch?v=eSN0HQlSJBs)
+* [March 24th, 2020 Livestream Q&A: Will there be a roadmap again for Updates?](./transcriptions/yt-EiqFP9bm7v4.md) [https://www.youtube.com/watch?v=EiqFP9bm7v4](https://www.youtube.com/watch?v=EiqFP9bm7v4)
+</details>
+
+### [Q&A: Space Elevator as a resource Sink for six specific items after all the stages?](./transcriptions/yt-4Dgn9kWGN48.md) [https://www.youtube.com/watch?v=4Dgn9kWGN48](https://www.youtube.com/watch?v=4Dgn9kWGN48)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> space elevator has a resourcing for six
+>
+> specific items after all the stages
+>
+> i don't know what the plan is for that
+>
+> currently
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as June 2020.</summary>
+
+* [January 19th, 2021 Livestream Q&A: Will we get more uses/shipments for the Space Elevator?](./transcriptions/yt-pjoG5bBsTKI.md) [https://www.youtube.com/watch?v=pjoG5bBsTKI](https://www.youtube.com/watch?v=pjoG5bBsTKI)
+* [June 8th, 2020 Livestream Q&A: How about repeatable Space Elevator shipments to make more use of it?](./transcriptions/yt-fbCEIVUNDe0.md) [https://www.youtube.com/watch?v=fbCEIVUNDe0](https://www.youtube.com/watch?v=fbCEIVUNDe0)
+</details>
+
+### [Q&A: Tilted fences?](./transcriptions/yt-JVp03wXCxWY.md) [https://www.youtube.com/watch?v=JVp03wXCxWY](https://www.youtube.com/watch?v=JVp03wXCxWY)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> um tilted fences we already i think i
+>
+> already answered this but that's
+>
+> something that i think we want to add at
+>
+> some point but i know
+>
+> the state of that
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as March 2021 and as early as November 2020.</summary>
+
+* [March 23rd, 2021 Livestream Q&A: Any news on Walls that would fit on ramps?](./transcriptions/yt-96m9d5aWQtY.md) [https://www.youtube.com/watch?v=96m9d5aWQtY](https://www.youtube.com/watch?v=96m9d5aWQtY)
+* [March 23rd, 2021 Livestream Q&A: Any plans on adding fences for ramps?](./transcriptions/yt-cXFXfI1lRDs.md) [https://www.youtube.com/watch?v=cXFXfI1lRDs](https://www.youtube.com/watch?v=cXFXfI1lRDs)
+* [February 9th, 2021 Livestream Q&A: Walls/barriers that follow the incline of Foundation?](./transcriptions/yt-UK0P7CWe1V4.md) [https://www.youtube.com/watch?v=UK0P7CWe1V4](https://www.youtube.com/watch?v=UK0P7CWe1V4)
+* [December 15th, 2020 Livestream Q&A: Walls & Handrails, be able to place like Pipes?](./transcriptions/yt-LFH3YB0pV24.md) [https://www.youtube.com/watch?v=LFH3YB0pV24](https://www.youtube.com/watch?v=LFH3YB0pV24)
+* [November 24th, 2020 Livestream Q&A: When are diagonal Walls coming?](./transcriptions/yt-0-3ITfkBKZw.md) [https://www.youtube.com/watch?v=0-3ITfkBKZw](https://www.youtube.com/watch?v=0-3ITfkBKZw)
+* [November 17th, 2020 Livestream Q&A: Can we get an update on Walls?](./transcriptions/yt-ZpYMIZFGegw.md) [https://www.youtube.com/watch?v=ZpYMIZFGegw](https://www.youtube.com/watch?v=ZpYMIZFGegw)
+</details>
+
+### [Q&A: What's the feature you want to add?](./transcriptions/yt-VJgvG8RvkLw.md) [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> what's the feature you wanna add to this
+>
+> so i personally really wanna improve the
+>
+> build modes
+>
+> uh i there are there are a lot i think
+>
+> we talked about this last week as well
+>
+> there are a few
+>
+> um there are a few things that really
+>
+> annoy me when you're building
+>
+> and i think there are somewhat easy to
+>
+> fix
+>
+> and they will improve building immensely
+>
+> so i would love to to improve some of
+>
+> those things
+>
+> first and foremost and maybe like a
+>
+> global grid
+>
+> situation but also like how you place
+>
+> you know
+>
+> um mergers and splitters i think that's
+>
+> one of the like
+>
+> places mergers and splitters uh not the
+>
+> fact that they don't clip
+>
+> on foundations when you're dragging them
+>
+> i'm already placed
+>
+> um conveyor belts and stuff like that i
+>
+> think that's really annoying
+>
+> uh stuff like you know the
+>
+> what are they called the the pipe
+>
+> connector thingies
+>
+> i can't remember what they're called
+>
+> that they rotate too i think they rotate
+>
+> too freely i want them to be able to
+>
+> clip
+>
+> snap it a bit better the snapping system
+>
+> we have for
+>
+> the guidelines thing when the green
+>
+> lines show up when you hold control
+>
+> that's a prototype that's not done at
+>
+> all
+>
+> um that's a prototype i made and then
+>
+> we're like alright i just put in the
+>
+> game whatever
+>
+> it works pipe junction thank you uh
+>
+> i want i want better clipping and like
+>
+> snapping with that
+>
+> so if you're if you're one of those
+>
+> people that like
+>
+> builds very methodically it just makes
+>
+> it
+>
+> so much easier to build because i think
+>
+> the addition of the
+>
+> the hover pack makes things so much
+>
+> better in the game i think the hover
+>
+> pack is like one of the best items in
+>
+> the game right now
+>
+> um so improving the the build modes
+>
+> would make the game
+>
+> a ton better imo
+>
+> god i love the hover pack i know it's so
+>
+> good right
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as March 2021 and as early as March 2019.</summary>
+
+* [March 23rd, 2021 Livestream Q&A: If you could add a feature yourself right now, what would that be ?](./transcriptions/yt-EbERjXIk_x4.md) [https://www.youtube.com/watch?v=EbERjXIk_x4](https://www.youtube.com/watch?v=EbERjXIk_x4)
+* [November 10th, 2020 Livestream Q&A: Any features you want to add to the game but you don't expect to be added to the vanilla game?](./transcriptions/yt-uVGH_lZnc2g.md) [https://www.youtube.com/watch?v=uVGH_lZnc2g](https://www.youtube.com/watch?v=uVGH_lZnc2g)
+* [October 20th, 2020 Livestream Q&A: Are there any features you guys really want in the game but you can't/won't add?](./transcriptions/yt-QuCAOO3xPQQ.md) [https://www.youtube.com/watch?v=QuCAOO3xPQQ](https://www.youtube.com/watch?v=QuCAOO3xPQQ)
+* [October 6th, 2020 Livestream Q&A: Do you have any good stories for features that didn't get included in the game?](./transcriptions/yt-JkSvpUl7jX8.md) [https://www.youtube.com/watch?v=JkSvpUl7jX8](https://www.youtube.com/watch?v=JkSvpUl7jX8)
+* [March 9th, 2019 Livestream Q&A: Are there any things you had wanted to add to the game but had to cancel?](./transcriptions/yt-akmmqVmHmzM.md) [https://www.youtube.com/watch?v=akmmqVmHmzM](https://www.youtube.com/watch?v=akmmqVmHmzM)
+</details>
+
+### [Q&A: What's the Object Limit?](./transcriptions/yt-KjV7JMFQ3Is.md) [https://www.youtube.com/watch?v=KjV7JMFQ3Is](https://www.youtube.com/watch?v=KjV7JMFQ3Is)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> what's the object so
+>
+> i again i i say this every time and i
+>
+> know i'm not going to be able to
+>
+> to um educate enough people so that this
+>
+> this will change but it's it's not an
+>
+> object limit you guys it's a memory
+>
+> limit
+>
+> it's a memory limit of how many objects
+>
+> the engine can keep track of at a time
+>
+> and it's not an
+>
+> object in terms of like physical objects
+>
+> in the world
+>
+> it's memory allocated memory
+>
+> like spaces and those are referred to as
+>
+> memory objects
+>
+> because of programming paradigms
+>
+> it's it's it's memory objects not game
+>
+> objects
+>
+> a game object can have many memory
+>
+> objects and
+>
+> a game object can have n number of
+>
+> memory objects so it's not one to one
+>
+> either
+>
+> so but the limit is like something two
+>
+> million
+>
+> u objects that's why i always like
+>
+> i want to point out that it's you object
+>
+> not object
+>
+> limits um and i've explained this a
+>
+> billion times and it's it's it really
+>
+> isn't
+>
+> if you're not a programmer this doesn't
+>
+> make sense
+>
+> because of the way we it's a linguistic
+>
+> thing the way we describe it
+>
+> um the fact that we we need programming
+>
+> we kind of need to like create physical
+>
+> things to talk about we need to
+>
+> anthropomorphize some things
+>
+> because it makes makes it easier to talk
+>
+> about things and that's kind of like
+>
+> kind of up when we talk about this
+>
+> thing
+>
+> yeah i'm a programmer it makes a perfect
+>
+> sense yeah but the people that aren't
+>
+> programmers it doesn't make sense so
+>
+> people think oh object limit that must
+>
+> be game objects
+>
+> but that's not the case so that's why
+>
+> it's kind of confusing
+>
+> um because we can't change the the u
+>
+> object limit
+>
+> we can't optimize for it so potentially
+>
+> you could if you build like
+>
+> x amount of objects and it crashes the
+>
+> game and hit that limit
+>
+> we could optimize it so that you could
+>
+> potentially load that game again without
+>
+> changing the limit
+>
+> yeah it's an engine limit and another
+>
+> thing to point out as well
+>
+> it's an engine limit but you can
+>
+> technically increase it if you go to the
+>
+> config files but we don't recommend that
+>
+> because we don't know what happens if
+>
+> you do
+>
+> you can get very weird memory issues
+>
+> uh when you play the game and it can be
+>
+> as bad as it corrupts your save file and
+>
+> it in fact
+>
+> has happened for people so we know it
+>
+> can happen um
+>
+> that's why we don't recommend it if you
+>
+> do want if you have built
+>
+> a base that's so big that you hit that
+>
+> limit then what you can do is
+>
+> back up your save file then go into the
+>
+> config files and change it
+>
+> but be aware that that may cause issues
+>
+> down the line
+>
+> and if we do optimize the game
+>
+> further down the line where the limit is
+>
+> better
+>
+> the config files will not get overridden
+>
+> so your manual change of the config
+>
+> files will still persist
+>
+> and you could potentially be playing a
+>
+> version of the game where we've fixed
+>
+> most of those issues
+>
+> and you get a corrupt save file and that
+>
+> sucks
+>
+> so that's why we're really clear about
+>
+> the fact that
+>
+> there is a way for you but we don't
+>
+> recommend it because it could cause
+>
+> issues
+>
+> uh so you're you're 100 on your own if
+>
+> you if you do that
+>
+> but we we are not stopping you you're
+>
+> free to do whatever you want there
+>
+> but just know that this is a complicated
+>
+> problem
+>
+> so re like really read up on it um
+>
+> before doing anything and read up on it
+>
+> means
+>
+> listen to us don't listen to community
+>
+> community because this is like
+>
+> super construed what people think the
+>
+> problem is and what the solution is and
+>
+> the idea
+>
+> of how it works like there are
+>
+> i think we've put out some video about
+>
+> it somewhere around where
+>
+> you can quote that or maybe we should
+>
+> make a video about it or something i
+>
+> don't know it's kind of
+>
+> scary also because we don't want you
+>
+> guys to like build
+>
+> in a certain way that like is optimized
+>
+> because that's not
+>
+> fun it's uh it's on us to make the game
+>
+> fit your play needs you know
+>
+> it shouldn't be the other way around
+>
+> maybe it's it's the other way around for
+>
+> now because we're still optimizing the
+>
+> game and the game isn't done
+>
+> and if you want to like keep playing
+>
+> maybe you need to
+>
+> but it shouldn't be on you guys it
+>
+> should be on us to fix those kind of
+>
+> things
+>
+> all right i
+>
+> always get so flushed when i
+>
+> talk about this but it's just like
+>
+> it's it's a it's a it's a little bit
+>
+> frustrating for me because
+>
+> it's so misconstrued in community people
+>
+> talk about it in one way but it doesn't
+>
+> work that way
+>
+> um and it's just really hard to get that
+>
+> information out
+>
+> because it's a complicated subject and
+>
+> there's no like easy
+>
+> easy way to explain it i think
+>
+> um so i can only keep trying
+>
+> but i'm also okay with it the fact that
+>
+> like this is the way
+>
+> you get as a community manager like you
+>
+> never reach everyone there's always
+>
+> going to be misconceptions about
+>
+> everything
+>
+> so uh but yeah i'll i'll keep explaining
+>
+> it as many times
+>
+> as i as i need to uh for as long as that
+>
+> problem exists i don't mind it
+>
+> um we just gotta keep doing our best you
+>
+> know
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 9 other times, as recently as October 2020 and as early as August 2020.</summary>
+
+* [October 9th, 2020 Livestream Q&A: What is the limit?](./transcriptions/yt-Njv_PJT3B2g.md) [https://www.youtube.com/watch?v=Njv_PJT3B2g](https://www.youtube.com/watch?v=Njv_PJT3B2g)
+* [October 6th, 2020 Livestream Q&A: What is the object limit and why is it that number?](./transcriptions/yt-VpCuu0aYFw0.md) [https://www.youtube.com/watch?v=VpCuu0aYFw0](https://www.youtube.com/watch?v=VpCuu0aYFw0)
+* [September 1st, 2020 Livestream Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?](./transcriptions/yt-RyE_hc4huhA.md) [https://www.youtube.com/watch?v=RyE_hc4huhA](https://www.youtube.com/watch?v=RyE_hc4huhA)
+* August 18th, 2020 Livestream Build Limit (Part 1): [https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis](https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis)
+* August 18th, 2020 Livestream Build Limit (Part 2): [https://clips.twitch.tv/UnusualExquisiteKuduDendiFace](https://clips.twitch.tv/UnusualExquisiteKuduDendiFace)
+* August 18th, 2020 Livestream Build Limit (Part 3): [https://clips.twitch.tv/SullenColdbloodedDiscEagleEye](https://clips.twitch.tv/SullenColdbloodedDiscEagleEye)
+* August 18th, 2020 Livestream Build Limit (Part 4): [https://clips.twitch.tv/BlitheEnergeticEelPRChase](https://clips.twitch.tv/BlitheEnergeticEelPRChase)
+* August 18th, 2020 Livestream Build Limit (Part 5): [https://clips.twitch.tv/GiantGeniusGooseCclamChamp](https://clips.twitch.tv/GiantGeniusGooseCclamChamp)
+* August 18th, 2020 Livestream Build Limit (Part 6): [https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ](https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ)
+</details>
+
+### [Q&A: What's the plan for Mod support?](./transcriptions/yt-IlACElBWukM.md) [https://www.youtube.com/watch?v=IlACElBWukM](https://www.youtube.com/watch?v=IlACElBWukM)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> launcher that doesn't spawn a
+crate when you die it's kind of
+your fault what
+>
+> launcher that doesn't spawn a
+crate when you die it's kind of
+your fault what's
+>
+> launcher that doesn't spawn a
+crate when you die it's kind of
+your fault what's the
+>
+> launcher that doesn't spawn a
+crate when you die it's kind of
+your fault what's the play
+>
+> launcher that doesn't spawn a
+crate when you die it's kind of
+your fault what's the plan
+>
+> launcher that doesn't spawn a
+crate when you die it's kind of
+your fault what's the plan for
+>
+> launcher that doesn't spawn a
+crate when you die it's kind of
+your fault what's the plan from
+>
+> crate when you die it's kind of
+your fault what's the plan for
+my
+>
+> crate when you die it's kind of
+your fault what's the plan for
+more
+>
+> launcher that doesn't spawn a
+crate when you die it's kind of
+your fault what's
+>
+> launcher that doesn't spawn a
+crate when you die it's kind of
+your fault what's the
+>
+> launcher that doesn't spawn a
+crate when you die it's kind of
+your fault what's the plan
+>
+> crate when you die it's kind of
+your fault what's the plan for
+mod support
+>
+> crate when you die it's kind of
+your fault what's the plan for
+mod support we
+>
+> crate when you die it's kind of
+your fault what's the plan for
+mod support we are
+>
+> crate when you die it's kind of
+your fault what's the plan for
+mod support we are going
+>
+> crate when you die it's kind of
+your fault what's the plan for
+mod support we are going to
+>
+> crate when you die it's kind of
+your fault what's the plan for
+mod support we are going to have
+>
+> your fault what's the plan for
+mod support we are going to have
+official
+>
+> your fault what's the plan for
+mod support we are going to have
+official mod
+>
+> your fault what's the plan for
+mod support we are going to have
+official mod support
+>
+> your fault what's the plan for
+mod support we are going to have
+official mod support at
+>
+> your fault what's the plan for
+mod support we are going to have
+official mod support at some
+>
+> mod support we are going to have
+official mod support at some
+point
+>
+> mod support we are going to have
+official mod support at some
+point we
+>
+> we are going to have official
+mod support at some point we
+have
+>
+> we are going to have official
+mod support at some point we
+have unofficial
+>
+> we are going to have official
+mod support at some point we
+have unofficial months
+>
+> we are going to have official
+mod support at some point we
+have unofficial months of
+>
+> mod support at some point we
+have unofficial months of work
+early
+>
+> mod support at some point we
+have unofficial months of work
+early on
+>
+> mod support at some point we
+have unofficial months of work
+early on EA
+>
+> mod support at some point we
+have unofficial months of work
+early on EA and
+>
+> mod support at some point we
+have unofficial months of work
+early on EA and they're working
+>
+> have unofficial months of work
+early on EA and they're working
+really
+>
+> have unofficial months of work
+early on EA and they're working
+really hard
+>
+> have unofficial months of work
+early on EA and they're working
+really hard to
+>
+> have unofficial months of work
+early on EA and they're working
+really hard to get an
+>
+> currently on EA and they're
+working really hard to get an
+experimental
+>
+> currently on EA and they're
+working really hard to get an
+experimental the
+>
+> currently on EA and they're
+working really hard to get an
+experimental the mall
+>
+> currently on EA and they're
+working really hard to get an
+experimental the modern
+>
+> currently on EA and they're
+working really hard to get an
+experimental the motors have
+>
+> currently on EA and they're
+working really hard to get an
+experimental the motors have per
+>
+> currently on EA and they're
+working really hard to get an
+experimental the
+>
+> currently on EA and they're
+working really hard to get an
+experimental the motors have
+>
+> working really hard to get an
+experimental the motors have
+promised
+>
+> working really hard to get an
+experimental the motors have
+promised to
+>
+> working really hard to get an
+experimental the motors have
+promised to me
+>
+> working really hard to get an
+experimental the motors have
+promised to me 100%
+>
+> working really hard to get an
+experimental the motors have
+promised to me
+>
+> experimental the motors have
+promised to me one hundred
+percent is not us
+>
+> experimental the motors have
+promised to me one hundred
+percent is not us from
+>
+> promised to me one hundred
+percent is not us from hitting
+this
+>
+> one hundred percent is not us
+from hitting this in the modest
+prom with me
+>
+> promised to me one hundred
+percent is not us from hitting
+this
+>
+> promised to me one hundred
+percent is not us from hitting
+this is the modern
+>
+> one hundred percent is not us
+from hitting this is the modern
+promising 100%
+>
+> promised to me one hundred
+percent is not us from hitting
+this
+>
+> from hitting this in the modest
+prom with me one hundred percent
+know like
+>
+> from hitting this in the modest
+prom with me one hundred percent
+know like guaranteed
+>
+> from hitting this in the modest
+prom with me one hundred percent
+know like guaranteed money
+>
+> from hitting this in the modest
+prom with me one hundred percent
+know like guaranteed money back
+>
+> prom with me one hundred percent
+know like guaranteed money back
+that
+>
+> prom with me one hundred percent
+know like guaranteed money back
+that that
+>
+> prom with me one hundred percent
+know like guaranteed money back
+that that mods are going
+>
+> prom with me one hundred percent
+know like guaranteed money back
+that that mods are going to
+>
+> prom with me one hundred percent
+know like guaranteed money back
+that that mods are going to work
+>
+> know like guaranteed money back
+that that mods are going to work
+for
+>
+> know like guaranteed money back
+that that mods are going to work
+for update for
+>
+> know like guaranteed money back
+that that mods are going to work
+for update for when
+>
+> know like guaranteed money back
+that that mods are going to work
+for update for when it
+>
+> guaranteed money back that that
+mods are going to work for
+update for when it hit CA
+>
+> guaranteed money back that that
+mods are going to work for
+update for when it hit CA Gary
+>
+> guaranteed money back that that
+mods are going to work for
+update for when it hit CA Darren
+>
+> mods are going to work for
+update for when it hit CA
+guarantee
+>
+> mods are going to work for
+update for when it hit CA
+guaranteed
+>
+> mods are going to work for
+update for when it hit CA
+guaranteed quote me on that
+>
+> mods are going to work for
+update for when it hit CA
+guaranteed quote me on that cuz
+>
+> update for when it hit CA
+guaranteed quote me on that cuz
+I'm
+>
+> update for when it hit CA
+guaranteed quote me on that cuz
+I'm quoting
+>
+> update for when it hit CA
+guaranteed quote me on that cuz
+I'm quoting someone
+>
+> update for when it hit CA
+guaranteed quote me on that cuz
+I'm quoting someone else
+>
+> update for when it hit CA
+guaranteed quote me on that cuz
+I'm quoting someone else ice
+>
+> guaranteed quote me on that cuz
+I'm quoting someone else how do
+you say
+>
+> guaranteed quote me on that cuz
+I'm quoting someone else
+actually
+>
+> update for when it hit CA
+guaranteed quote me on that cuz
+I'm quoting someone else I sleep
+>
+> guaranteed quote me on that cuz
+I'm quoting someone else
+actually met
+>
+> guaranteed quote me on that cuz
+I'm quoting someone else
+actually made
+>
+> guaranteed quote me on that cuz
+I'm quoting someone else
+actually maybe
+>
+> guaranteed quote me on that cuz
+I'm quoting someone else
+actually maybe do
+>
+> guaranteed quote me on that cuz
+I'm quoting someone else
+actually maybe don't
+>
+> guaranteed quote me on that cuz
+I'm quoting someone else
+actually
+>
+> guaranteed quote me on that cuz
+I'm quoting someone else
+actually maybe
+>
+> guaranteed quote me on that cuz
+I'm quoting someone else
+actually maybe don't
+>
+> guaranteed quote me on that cuz
+I'm quoting someone else
+actually maybe don't actually
+>
+> I'm quoting someone else
+actually maybe don't actually
+don't
+>
+> I'm quoting someone else
+actually maybe don't actually
+don't know
+>
+> I'm quoting someone else
+actually maybe don't actually
+don't know if you
+>
+> I'm quoting someone else
+actually maybe don't actually
+don't know if you want
+>
+> I'm quoting someone else
+actually maybe don't actually
+don't know if you want to
+>
+> I'm quoting someone else
+actually maybe don't actually
+don't know if you want to get
+>
+> actually maybe don't actually
+don't know if you want to get
+news
+>
+> actually maybe don't actually
+don't know if you want to get
+news on
+>
+> actually maybe don't actually
+don't know if you want to get
+news on on
+>
+> actually maybe don't actually
+don't know if you want to get
+news on on mounting stuff
+>
+> actually maybe don't actually
+don't know if you want to get
+news on on mounting stuff cuz
+>
+> actually maybe don't actually
+don't know if you want to get
+news on on mounting stuff cuz we
+>
+> don't know if you want to get
+news on on mounting stuff cuz we
+we
+>
+> don't know if you want to get
+news on on mounting stuff cuz we
+we don't
+>
+> don't know if you want to get
+news on on mounting stuff cuz we
+we don't officially
+>
+> don't know if you want to get
+news on on mounting stuff cuz we
+we don't officially support
+>
+> don't know if you want to get
+news on on mounting stuff cuz we
+we don't officially support mods
+>
+> news on on mounting stuff cuz we
+we don't officially support mods
+is something
+>
+> news on on mounting stuff cuz we
+we don't officially support mods
+is something that
+>
+> news on on mounting stuff cuz we
+we don't officially support mods
+is something that yeah
+>
+> news on on mounting stuff cuz we
+we don't officially support mods
+is something that yeah one
+>
+> news on on mounting stuff cuz we
+we don't officially support mods
+is something that yeah One
+>
+> news on on mounting stuff cuz we
+we don't officially support mods
+is something that yeah One ATM
+>
+> we don't officially support mods
+is something that yeah One ATM
+Motors
+>
+> we don't officially support mods
+is something that yeah One ATM
+Motors told
+>
+> we don't officially support mods
+is something that yeah One ATM
+Motors told me
+>
+> we don't officially support mods
+is something that yeah One ATM
+Motors told me Not
+>
+> we don't officially support mods
+is something that yeah One ATM
+Motors told me now they
+>
+> we don't officially support mods
+is something that yeah One ATM
+Motors told me nothing
+>
+> we don't officially support mods
+is something that yeah One ATM
+Motors told me now they can
+>
+> we don't officially support mods
+is something that yeah One ATM
+Motors told me now they can't
+>
+> we don't officially support mods
+is something that yeah One ATM
+Motors told me now that gets
+>
+> we don't officially support mods
+is something that yeah One ATM
+Motors told me now they get to
+>
+> is something that yeah One ATM
+Motors told me now they get to
+pay
+>
+> is something that yeah One ATM
+Motors told me now they get to
+play
+>
+> we don't officially support mods
+is something that yeah One ATM
+Motors told me navigate to Park
+>
+> is something that yeah One ATM
+Motors told me now they get to
+pack a
+>
+> is something that yeah One ATM
+Motors told me navigate to
+parking
+>
+> is something that yeah One ATM
+Motors told me navigate to
+parking lot
+>
+> is something that yeah One ATM
+Motors told me now they get to
+fucking live
+>
+> is something that yeah One ATM
+Motors told me navigate to
+parking Levi's
+>
+> is something that yeah One ATM
+Motors told me now they get to
+fucking live up
+>
+> is something that yeah One ATM
+Motors told me now they get to
+fucking live up to
+>
+> is something that yeah One ATM
+Motors told me now they get to
+fucking live up to the
+>
+> is something that yeah One ATM
+Motors told me now they get to
+fucking live up to the thing
+>
+> is something that yeah One ATM
+Motors told me now they get to
+fucking live up to the thing we
+>
+> Motors told me now they get to
+fucking live up to the thing
+when
+>
+> is something that yeah One ATM
+Motors told me now they get to
+fucking live up
+>
+> is something that yeah One ATM
+Motors told me now they get to
+fucking live up to
+>
+> is something that yeah One ATM
+Motors told me now they get to
+fucking live up to the
+>
+> is something that yeah One ATM
+Motors told me now they get to
+fucking live up to the thing
+>
+> Motors told me now they get to
+fucking live up to the thing
+where you say
+>
+> Motors told me now they get to
+fucking live up to the thing
+where you say she
+>
+> fucking live up to the thing
+where you say she look like a
+publicly
+>
+> fucking live up to the thing
+where you say she look like a
+publicly the
+>
+> fucking live up to the thing
+where you say she look like a
+publicly they
+>
+> fucking live up to the thing
+where you say she look like a
+publicly thank
+>
+> fucking live up to the thing
+where you say she look like a
+publicly take a
+>
+> fucking live up to the thing
+where you say she look like a
+publicly they get
+>
+> fucking live up to the thing
+where you say she look like a
+publicly they kept
+>
+> to the thing where you say she
+look like a publicly they get
+the
+>
+> fucking live up to the thing
+where you say she look like a
+publicly negative
+>
+> now they get to fucking live up
+to the thing where you say she
+look like a publicly decapitate
+>
+> to the thing where you say she
+look like a publicly they get
+the taste
+>
+> to the thing where you say she
+look like a publicly they get
+the taste of
+>
+> to the thing where you say she
+look like a publicly they get
+the taste of a
+>
+> to the thing where you say she
+look like a publicly they get
+the taste of raw
+>
+> to the thing where you say she
+look like a publicly they get
+the taste of run
+>
+> to the thing where you say she
+look like a publicly they get
+the taste of her own
+>
+> to the thing where you say she
+look like a publicly they get
+the taste of run
+>
+> to the thing where you say she
+look like a publicly they get
+the taste of her own medicine
+>
+> to the thing where you say she
+look like a publicly they get
+the taste
+>
+> to the thing where you say she
+look like a publicly they get
+the taste of
+>
+> to the thing where you say she
+look like a publicly they get
+the taste of her own medicine
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 9 other times, as recently as December 2020 and as early as June 2018.</summary>
+
+* [December 8th, 2020 Livestream Q&A: Any hints you can give on the level of mod support you'll provide eventually?](./transcriptions/yt-o7FFLZpEf_Y.md) [https://www.youtube.com/watch?v=o7FFLZpEf_Y](https://www.youtube.com/watch?v=o7FFLZpEf_Y)
+* [November 17th, 2020 Livestream Q&A: Is there any Official Mod Support planned?](./transcriptions/yt-z4Uv-UNMETw.md) [https://www.youtube.com/watch?v=z4Uv-UNMETw](https://www.youtube.com/watch?v=z4Uv-UNMETw)
+* [November 3rd, 2020 Livestream Q&A: Any idea about Official Modding?](./transcriptions/yt-D5-Y6LYR7jk.md) [https://www.youtube.com/watch?v=D5-Y6LYR7jk](https://www.youtube.com/watch?v=D5-Y6LYR7jk)
+* [October 13th, 2020 Livestream Q&A: Are there any plans for integrated mod support?](./transcriptions/yt-25ssduoFoiA.md) [https://www.youtube.com/watch?v=25ssduoFoiA](https://www.youtube.com/watch?v=25ssduoFoiA)
+* [August 25th, 2020 Livestream Q&A: Plans for mod support?](./transcriptions/yt-iOk7KMpNMEo.md) [https://www.youtube.com/watch?v=iOk7KMpNMEo](https://www.youtube.com/watch?v=iOk7KMpNMEo)
+* [February 11th, 2020 Livestream Q&A: Where's Mod support?](./transcriptions/yt-JRyAZT7y44g.md) [https://www.youtube.com/watch?v=JRyAZT7y44g](https://www.youtube.com/watch?v=JRyAZT7y44g)
+* [March 9th, 2019 Livestream Q&A: What do you think about future Mod support?](./transcriptions/yt-6-uSzpX-zZ0.md) [https://www.youtube.com/watch?v=6-uSzpX-zZ0](https://www.youtube.com/watch?v=6-uSzpX-zZ0)
+* [February 20th, 2019 Livestream Q&A: Mod Support?](./transcriptions/yt-CB9bSigNYH8,3390.447786,3418.942904.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3390&end=3419](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3390&end=3419)
+* [June 22nd, 2018 Livestream Q&A: Will there be mods?](./transcriptions/yt-W1E6EWrAsII,91.24,120.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121)
+</details>
+
+### [Q&A: What about the Toilet?](./transcriptions/yt-oa5g8FKujqk.md) [https://www.youtube.com/watch?v=oa5g8FKujqk](https://www.youtube.com/watch?v=oa5g8FKujqk)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> dedicated servers will fix
+everything out last Friday you
+dream
+>
+> dedicated servers will fix
+everything out last Friday you
+dream of
+>
+> dedicated servers will fix
+everything out last Friday you
+dream on
+>
+> dedicated servers will fix
+everything out last Friday you
+dream
+>
+> dedicated servers will fix
+everything out last Friday you
+dream on
+>
+> dedicated servers will fix
+everything out last Friday you
+dream on what
+>
+> dedicated servers will fix
+everything out last Friday you
+dream on what about the
+>
+> dedicated servers will fix
+everything out last Friday you
+dream on what about the toilet
+>
+> dedicated servers will fix
+everything Outlast review dream
+on what about the toilet
+>
+> dedicated servers will fix
+everything Outlast review dream
+on what about the toilet what
+>
+> dedicated servers will fix
+everything Outlast review dream
+on what about the toilet one
+>
+> dedicated servers will fix
+everything Outlast review dream
+on what about the toilet Wonder
+>
+> dedicated servers will fix
+everything Outlast review dream
+on what about the toilet one.
+>
+> dedicated servers will fix
+everything Outlast review dream
+on what about the toilet $1
+>
+> dedicated servers will fix
+everything Outlast review dream
+on what about the toilet $1 to
+>
+> dedicated servers will fix
+everything Outlast review dream
+on what about the toilet $1.
+>
+> dedicated servers will fix
+everything Outlast review dream
+on what about the toilet $1 deal
+>
+> everything Outlast review dream
+on what about the toilet $1
+deals
+>
+> dedicated servers will fix
+everything Outlast review dream
+on what about the toilet $1 DLC
+>
+> dedicated servers will fix
+everything Outlast review dream
+on what about the toilet $1
+>
+> dedicated servers will fix
+everything Outlast review dream
+on what about the toilet $1 DLC
+>
+> everything Outlast review dream
+on what about the toilet $1 DLC
+Russian DLC
+>
+> everything Outlast review dream
+on what about the toilet $1 DLC
+Russian DLC I love
+>
+> everything Outlast review dream
+on what about the toilet $1 DLC
+Russian DLC I love it
+>
+> everything Outlast review dream
+on what about the toilet $1 DLC
+Russian DLC I love
+>
+> everything Outlast review dream
+on what about the toilet $1 DLC
+Russian DLC I love it
+>
+> on what about the toilet $1 DLC
+Russian DLC I love it it's
+coming
+>
+> about the toilet $1 DLC Russian
+DLC I love it it's coming I
+promise
+>
+> about the toilet $1 DLC Russian
+DLC I love it it's coming I
+promise before
+>
+> about the toilet $1 DLC Russian
+DLC I love it it's coming I
+promise he'll be fun
+>
+> about the toilet $1 DLC Russian
+DLC I love it it's coming I
+promise hippie funny
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 4 other times, as recently as February 2021 and as early as January 2020.</summary>
+
+* [February 9th, 2021 Livestream Q&A: $1 Toilet DLC?](./transcriptions/yt-mBpIB3ojMC8.md) [https://www.youtube.com/watch?v=mBpIB3ojMC8](https://www.youtube.com/watch?v=mBpIB3ojMC8)
+* [September 1st, 2020 Livestream Q&A: Flushable Toilet DLC?](./transcriptions/yt-Z7KaqsyT7_k.md) [https://www.youtube.com/watch?v=Z7KaqsyT7_k](https://www.youtube.com/watch?v=Z7KaqsyT7_k)
+* [June 8th, 2020 Livestream Q&A: Flushable Toilet?](./transcriptions/yt-FlaP38G7O5U.md) [https://www.youtube.com/watch?v=FlaP38G7O5U](https://www.youtube.com/watch?v=FlaP38G7O5U)
+* [January 22nd, 2020 Livestream Q&A: Microtranscation DLC?](./transcriptions/yt-ithVAX7EptE.md) [https://www.youtube.com/watch?v=ithVAX7EptE](https://www.youtube.com/watch?v=ithVAX7EptE)
+</details>
+
+### [Q&A: When are my Blade Runners going to stay on my character while in Hyper Tubes?](./transcriptions/yt-gXm3WrzRrUU.md) [https://www.youtube.com/watch?v=gXm3WrzRrUU](https://www.youtube.com/watch?v=gXm3WrzRrUU)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> it and if you don't please
+report that in the butt make you
+a side when
+>
+> it and if you don't please
+report that in the butt make you
+a side when are
+>
+> it and if you don't please
+report that in the butt make you
+a side when are my
+>
+> it and if you don't please
+report that in the butt make you
+a side when are my boy
+>
+> it and if you don't please
+report that in the butt make you
+a side when are my blue
+>
+> it and if you don't please
+report that in the butt make you
+a side when are my blade
+>
+> it and if you don't please
+report that in the butt make you
+a side when
+>
+> it and if you don't please
+report that in the butt make you
+a side when are
+>
+> it and if you don't please
+report that in the butt make you
+a side when are my
+>
+> it and if you don't please
+report that in the butt make you
+a side when are my blade
+>
+> it and if you don't please
+report that in the butt make you
+a side when are my blade length
+>
+> it and if you don't please
+report that in the butt make you
+a side when are my blade
+>
+> it and if you don't please
+report that in the butt make you
+a side when are my
+>
+> it and if you don't please
+report that in the butt make you
+a side when are my blade
+>
+> report that in the butt make you
+a side when are my blade on
+blade on
+>
+> report that in the butt make you
+a side when are my blade on
+blade on his
+>
+> report that in the butt make you
+a side when are my blade on
+blade on his going to stay
+>
+> report that in the butt make you
+a side when are my blade on
+blade on his going to stay on
+>
+> report that in the butt make you
+a side when are my blade on
+blade on his going to stay on my
+>
+> a side when are my blade on
+blade on his going to stay on my
+character
+>
+> a side when are my blade on
+blade on his going to stay on my
+character willing hyper tubes
+>
+> blade on his going to stay on my
+character willing hyper tubes
+that's
+>
+> blade on his going to stay on my
+character willing hyper tubes
+that's a
+>
+> his going to stay on my
+character willing hyper tubes
+that's a good
+>
+> his going to stay on my
+character willing hyper tubes
+that's a good question
+>
+> his going to stay on my
+character willing hyper tubes
+that's a good question it's one
+>
+> character willing hyper tubes
+that's a good question it's one
+of
+>
+> character willing hyper tubes
+that's a good question it's one
+of those
+>
+> character willing hyper tubes
+that's a good question it's one
+of those bugs that
+>
+> character willing hyper tubes
+that's a good question it's one
+of those bugs that like
+>
+> character willing hyper tubes
+that's a good question it's one
+of those bugs that like it's
+>
+> character willing hyper tubes
+that's a good question it's one
+of those bugs that like it's not
+>
+> that's a good question it's one
+of those bugs that like it's not
+really
+>
+> that's a good question it's one
+of those bugs that like it's not
+really hype
+>
+> that's a good question it's one
+of those bugs that like it's not
+really hype Rio because
+>
+> that's a good question it's one
+of those bugs that like it's not
+really hype Rio because like
+>
+> of those bugs that like it's not
+really hype Rio because like the
+right
+>
+> of those bugs that like it's not
+really hype Rio because like the
+right The
+>
+> of those bugs that like it's not
+really hype Rio because like the
+right The Gamers like
+>
+> of those bugs that like it's not
+really hype Rio because like the
+right The Gamers like that
+>
+> really hype Rio because like the
+right The Gamers like that
+breaks
+>
+> really hype Rio because like the
+right The Gamers like that
+breaks emotional
+>
+> really hype Rio because like the
+right The Gamers like that
+breaks emotional whatever
+>
+> really hype Rio because like the
+right The Gamers like that
+breaks
+>
+> really hype Rio because like the
+right The Gamers like that
+breaks in mershon or whatever so
+>
+> right The Gamers like that
+breaks in mershon or whatever so
+it's
+>
+> right The Gamers like that
+breaks in mershon or whatever so
+it's been
+>
+> right The Gamers like that
+breaks in mershon or whatever so
+it's been play
+>
+> right The Gamers like that
+breaks in mershon or whatever so
+it's been like
+>
+> right The Gamers like that
+breaks in mershon or whatever so
+it's been like now
+>
+> right The Gamers like that
+breaks in mershon or whatever so
+it's been like not
+>
+> right The Gamers like that
+breaks in mershon or whatever so
+it's been like nausea
+>
+> right The Gamers like that
+breaks in mershon or whatever so
+it's been like not been
+>
+> right The Gamers like that
+breaks in mershon or whatever so
+it's been like
+>
+> right The Gamers like that
+breaks in mershon or whatever so
+it's been like not been
+>
+> breaks in mershon or whatever so
+it's been like not been
+prioritised
+>
+> breaks in mershon or whatever so
+it's been like not been
+prioritised but
+>
+> breaks in mershon or whatever so
+it's been like not been
+prioritised but I
+>
+> breaks in mershon or whatever so
+it's been like not been
+prioritised but I think
+>
+> it's been like not been
+prioritised but I think we're
+going
+>
+> it's been like not been
+prioritised but I think we're
+going to
+>
+> it's been like not been
+prioritised but I think we're
+going to fix
+>
+> it's been like not been
+prioritised but I think we're
+going to fix that
+>
+> it's been like not been
+prioritised but I think we're
+going to fix that at some point
+>
+> prioritised but I think we're
+going to fix that at some point
+I mean we are
+>
+> like not been prioritised but I
+think we're going to fix that at
+some point I mean we are going
+>
+> think we're going to fix that at
+some point I mean we are going
+to
+>
+> think we're going to fix that at
+some point I mean we are going
+to fix
+>
+> think we're going to fix that at
+some point I mean we are going
+to fix that
+>
+> think we're going to fix that at
+some point I mean we are going
+to fix that at some point
+>
+> think we're going to fix that at
+some point I mean we are going
+to fix that at some point it's a
+>
+> some point I mean we are going
+to fix that at some point it's a
+really
+>
+> some point I mean we are going
+to fix that at some point it's a
+really it's
+>
+> some point I mean we are going
+to fix that at some point it's a
+really it's a
+>
+> some point I mean we are going
+to fix that at some point it's a
+really it's a really
+>
+> some point I mean we are going
+to fix that at some point it's a
+really it's a really annoying
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as March 2021 and as early as February 2021.</summary>
+
+* [March 2nd, 2021 Livestream Q&A: Will the Blade Runners actually be attached to the body at some point?](./transcriptions/yt-W-67fl8Fg48.md) [https://www.youtube.com/watch?v=W-67fl8Fg48](https://www.youtube.com/watch?v=W-67fl8Fg48)
+* [February 23rd, 2021 Livestream Q&A: Is the Blade Runner glitch going to be fixed?](./transcriptions/yt-JElqxFIki6w.md) [https://www.youtube.com/watch?v=JElqxFIki6w](https://www.youtube.com/watch?v=JElqxFIki6w)
+</details>
+
+### [Q&A: When can we order our Coffee Mug?](./transcriptions/yt-UGnFRDOjd-M.md) [https://www.youtube.com/watch?v=UGnFRDOjd-M](https://www.youtube.com/watch?v=UGnFRDOjd-M)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> when can we order a coffee mug
+>
+> yo so jace is the one who's like
+>
+> keeping track of that uh most of the
+>
+> time
+>
+> so i'm not 100 sure
+>
+> what the state of things are right now
+>
+> but we've made a lot like we've made
+>
+> some good progress on the cups you guys
+>
+> um so i think i said that the last
+>
+> stream as well but we've made
+>
+> good progress in the cups i don't know
+>
+> what that means but we're doing pretty
+>
+> well
+>
+> just call jason ask him i'm not gonna
+>
+> call jace on his vacation
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 4 other times, as recently as March 2021 and as early as February 2021.</summary>
+
+* [March 23rd, 2021 Livestream Q&A: Update on the Mug?](./transcriptions/yt-9pG00Koq8zY.md) [https://www.youtube.com/watch?v=9pG00Koq8zY](https://www.youtube.com/watch?v=9pG00Koq8zY)
+* [March 2nd, 2021 Livestream Q&A: Coffee Mug?](./transcriptions/yt-eBG3cwtdwuY.md) [https://www.youtube.com/watch?v=eBG3cwtdwuY](https://www.youtube.com/watch?v=eBG3cwtdwuY)
+* [February 16th, 2021 Livestream Q&A: Where's the mug?](./transcriptions/yt-lABA3NfAMXw.md) [https://www.youtube.com/watch?v=lABA3NfAMXw](https://www.youtube.com/watch?v=lABA3NfAMXw)
+* [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./transcriptions/yt-bQnAGoo8jQA.md) [https://www.youtube.com/watch?v=bQnAGoo8jQA](https://www.youtube.com/watch?v=bQnAGoo8jQA)
+</details>
+
+### [Q&A: When will the game actually release?](./transcriptions/yt-KvCsUb7f0KY.md) [https://www.youtube.com/watch?v=KvCsUb7f0KY](https://www.youtube.com/watch?v=KvCsUb7f0KY)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> console do you know what the game will
+>
+> actually be released
+>
+> 1.0 you mean no um
+>
+> we have some theories we have like a
+>
+> loosely based
+>
+> like timesheet right now but that's
+>
+> gonna change 100
+>
+> i think it's also a little bit
+>
+> optimistic but we don't we won't know
+>
+> until we we implement it and try it out
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 14 other times, as recently as March 2021 and as early as February 2019.</summary>
+
+* [March 23rd, 2021 Livestream Q&A: Any ETA on Launch?](./transcriptions/yt-aP6v6JbuHTk.md) [https://www.youtube.com/watch?v=aP6v6JbuHTk](https://www.youtube.com/watch?v=aP6v6JbuHTk)
 * [March 23rd, 2021 Livestream Q&A: Do you plan to put Update 4 out earlier than April 13th?](./transcriptions/yt-aclI7pbRT3I.md) [https://www.youtube.com/watch?v=aclI7pbRT3I](https://www.youtube.com/watch?v=aclI7pbRT3I)
 * [February 16th, 2021 Livestream Q&A: What's the chance that the game will be released this year?](./transcriptions/yt-W2O4gfNYj9s.md) [https://www.youtube.com/watch?v=W2O4gfNYj9s](https://www.youtube.com/watch?v=W2O4gfNYj9s)
 * [February 16th, 2021 Livestream Q&A: When is 1.0 coming?](./transcriptions/yt-IPQfi2Gv4Zc.md) [https://www.youtube.com/watch?v=IPQfi2Gv4Zc](https://www.youtube.com/watch?v=IPQfi2Gv4Zc)
@@ -262,6 +7644,838 @@ I Am
 * [February 6th, 2019 Livestream Q&A: Release date?](./transcriptions/yt-Dtm6xIj-wM4,280.42817,354.60912.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355)
 </details>
 
+### [Q&A: Will it be possible to remove the toxic pillars?](./transcriptions/yt-QM6AXdaNYN4.md) [https://www.youtube.com/watch?v=QM6AXdaNYN4](https://www.youtube.com/watch?v=QM6AXdaNYN4)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will it be possible to remove the toxic
+>
+> pillars
+>
+> uh it would be possible to do something
+>
+> with the toxic gas
+>
+> in the future
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as March 2021 and as early as December 2019.</summary>
+
+* [March 23rd, 2021 Livestream Q&A: Can we destroy those Gas pillars?](./transcriptions/yt-PcJHdVtZSp0.md) [https://www.youtube.com/watch?v=PcJHdVtZSp0](https://www.youtube.com/watch?v=PcJHdVtZSp0)
+* [September 8th, 2020 Livestream Q&A: When can Poison Pillars be removed?](./transcriptions/yt-BRpEHi7W7u0.md) [https://www.youtube.com/watch?v=BRpEHi7W7u0](https://www.youtube.com/watch?v=BRpEHi7W7u0)
+* [December 19th, 2019 Livestream Q&A: Is there going to be a way to destroy the fart rock?](./transcriptions/yt-byPiSQZOAhw.md) [https://www.youtube.com/watch?v=byPiSQZOAhw](https://www.youtube.com/watch?v=byPiSQZOAhw)
+</details>
+
+### [Q&A: Will there be a Mk.6 belt?](./transcriptions/yt-x2MeE6UR3o8.md) [https://www.youtube.com/watch?v=x2MeE6UR3o8](https://www.youtube.com/watch?v=x2MeE6UR3o8)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> like that necessarily but it's
+going to be a solution to that
+problem
+>
+> like that necessarily but it's
+going to be a solution to that
+problem will
+>
+> like that necessarily but it's
+going to be a solution to that
+problem will the
+>
+> like that necessarily but it's
+going to be a solution to that
+problem will it be
+>
+> like that necessarily but it's
+going to be a solution to that
+problem will it be a
+>
+> like that necessarily but it's
+going to be a solution to that
+problem will it be in
+>
+> like that necessarily but it's
+going to be a solution to that
+problem will it be a member
+>
+> like that necessarily but it's
+going to be a solution to that
+problem will
+>
+> like that necessarily but it's
+going to be a solution to that
+problem will it be
+>
+> like that necessarily but it's
+going to be a solution to that
+problem will it be in Barton
+>
+> like that necessarily but it's
+going to be a solution to that
+problem will it be in
+>
+> going to be a solution to that
+problem will it be in Barton
+Mark 6 belt
+>
+> going to be a solution to that
+problem will it be in Barton
+Mark 6 belt I don't
+>
+> going to be a solution to that
+problem will it be in Barton
+Mark 6 belt I don't know
+>
+> going to be a solution to that
+problem will it be in Barton
+Mark 6 belt I don't know that
+>
+> problem will it be in Barton
+Mark 6 belt I don't know that
+it's
+>
+> problem will it be in Barton
+Mark 6 belt I don't know that
+it's kind
+>
+> problem will it be in Barton
+Mark 6 belt I don't know that
+it's kind of
+>
+> going to be a solution to that
+problem will it be in Barton
+Mark 6 belt I don't know that
+>
+> problem will it be in Barton
+Mark 6 belt I don't know that
+that's kind of where can
+>
+> problem will it be in Barton
+Mark 6 belt I don't know that
+that's kind of where can I
+>
+> going to be a solution to that
+problem will it be in Barton
+Mark 6 belt I don't know that
+>
+> Mark 6 belt I don't know that
+that's kind of where can I buy
+limited by
+>
+> I don't know that that's kind of
+where can I buy limited by
+technical technical
+>
+> I don't know that that's kind of
+where can I buy limited by
+technical technical Precision
+>
+> where can I buy limited by
+technical technical Precision
+right
+>
+> I don't know that it's kind of a
+weird kind of limited by Technic
+technical Precision right now
+>
+> I don't know that it's kind of a
+weird kind of limited by Technic
+technical Precision right now so
+>
+> weird kind of limited by Technic
+technical Precision right now so
+I
+>
+> weird kind of limited by Technic
+technical Precision right now so
+I do
+>
+> weird kind of limited by Technic
+technical Precision right now so
+I don't
+>
+> weird kind of limited by Technic
+technical Precision right now so
+I don't know
+>
+> weird kind of limited by Technic
+technical Precision right now so
+I don't know if
+>
+> I don't know that it's kind of a
+weird kind of limited by Technic
+technical Precision right now so
+>
+> weird kind of limited by Technic
+technical Precision right now so
+I
+>
+> weird kind of limited by Technic
+technical Precision right now so
+I don't
+>
+> weird kind of limited by Technic
+technical Precision right now so
+I don't know
+>
+> weird kind of limited by Technic
+technical Precision right now so
+I don't know if
+>
+> weird kind of limited by Technic
+technical Precision right now so
+I don't know if we're going
+>
+> weird kind of limited by Technic
+technical Precision right now so
+I don't know if we're going to
+>
+> technical Precision right now so
+I don't know if we're going to
+be
+>
+> technical Precision right now so
+I don't know if we're going to
+be able
+>
+> technical Precision right now so
+I don't know if we're going to
+be able to
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 8 other times, as recently as March 2021 and as early as September 2020.</summary>
+
+* [March 30th, 2021 Livestream Q&A: Will there be Belt Mk.6?](./transcriptions/yt--fmlo0D_LXM.md) [https://www.youtube.com/watch?v=-fmlo0D_LXM](https://www.youtube.com/watch?v=-fmlo0D_LXM)
+* [March 23rd, 2021 Livestream Q&A: Any chance of faster belts in the future?](./transcriptions/yt-Rv5-4k_ZzWU.md) [https://www.youtube.com/watch?v=Rv5-4k_ZzWU](https://www.youtube.com/watch?v=Rv5-4k_ZzWU)
+* [February 2nd, 2021 Livestream Q&A: Mk.6 Belt in the next Update?](./transcriptions/yt-DpT2LNED0wk.md) [https://www.youtube.com/watch?v=DpT2LNED0wk](https://www.youtube.com/watch?v=DpT2LNED0wk)
+* [November 24th, 2020 Livestream Q&A: Mk.6 Belts coming?](./transcriptions/yt-H2WwaLFOI9Q.md) [https://www.youtube.com/watch?v=H2WwaLFOI9Q](https://www.youtube.com/watch?v=H2WwaLFOI9Q)
+* [November 10th, 2020 Livestream Q&A: Are Conveyor Belt Mk. 6 going to be a thing?](./transcriptions/yt-WbtzFVFOFMs.md) [https://www.youtube.com/watch?v=WbtzFVFOFMs](https://www.youtube.com/watch?v=WbtzFVFOFMs)
+* [November 3rd, 2020 Livestream Q&A: Any plans for better Belts for Pure nodes?](./transcriptions/yt-UxW9nGO9Ius.md) [https://www.youtube.com/watch?v=UxW9nGO9Ius](https://www.youtube.com/watch?v=UxW9nGO9Ius)
+* [November 3rd, 2020 Livestream Q&A: Broader Belts?](./transcriptions/yt-Y1ulbhgaSeU.md) [https://www.youtube.com/watch?v=Y1ulbhgaSeU](https://www.youtube.com/watch?v=Y1ulbhgaSeU)
+* [September 29th, 2020 Livestream Q&A: What about Mk. 6 Belts?](./transcriptions/yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)
+</details>
+
+### [Q&A: Will there be a Peaceful Mode like in Subnautica?](./transcriptions/yt-NQcQeykbc1E.md) [https://www.youtube.com/watch?v=NQcQeykbc1E](https://www.youtube.com/watch?v=NQcQeykbc1E)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will it be a piecemeal mode like in
+>
+> subnautica yes
+>
+> unlike the creative mode i can 100 say
+>
+> that we're going to add a peaceful mode
+>
+> at some point to the game
+>
+> we confirmed it's already confirmed but
+>
+> i'm confirming it again
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as March 2021 and as early as August 2020.</summary>
+
+* [March 23rd, 2021 Livestream Q&A: Will there be a no-mob option ?](./transcriptions/yt-KFT0l0kO5qg.md) [https://www.youtube.com/watch?v=KFT0l0kO5qg](https://www.youtube.com/watch?v=KFT0l0kO5qg)
+* [September 8th, 2020 Livestream Q&A: Will there be a Peacfull Mode with no Hostile Creatures?](./transcriptions/yt-yS_1rXuvxFw.md) [https://www.youtube.com/watch?v=yS_1rXuvxFw](https://www.youtube.com/watch?v=yS_1rXuvxFw)
+* August 18th, 2020 Livestream Q&A: Will there be a no combat/fight version? [https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid](https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid)
+</details>
+
+### [Q&A: Will there be more creatures ever?](./transcriptions/yt-hKlILzyla-Y.md) [https://www.youtube.com/watch?v=hKlILzyla-Y](https://www.youtube.com/watch?v=hKlILzyla-Y)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> but maybe in the future well there'll be
+>
+> more creatures ever the only creature
+>
+> we've confirmed so far is the
+>
+> big like crab boss that we've shown in
+>
+> the e3 trailer
+>
+> um that's the only thing that's like
+>
+> confirmed that's gonna come to the game
+>
+> that we haven't been able to add because
+>
+> of the ai pathfinding system doesn't
+>
+> support it fully yet
+>
+> but in the future yes it's coming we
+>
+> were kind of hoping it would come out in
+>
+> update three
+>
+> um but it didn't make it unfortunately
+>
+> and then
+>
+> we were kind of hoping it would come out
+>
+> of day four crap the crap boss is like
+>
+> a dedicated server for us we're like
+>
+> yeah we're going to implement this soon
+>
+> it's done
+>
+> whatever and then just keeps pushing it
+>
+> so yeah
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 20 other times, as recently as March 2021 and as early as March 2019.</summary>
+
+* March 16th, 2021 Livestream Q&A: Giant Crab? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=779&end=790](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=779&end=790)
+* [March 2nd, 2021 Livestream Q&A: Any new Animals?](./transcriptions/yt-c5EEG5MrTF0.md) [https://www.youtube.com/watch?v=c5EEG5MrTF0](https://www.youtube.com/watch?v=c5EEG5MrTF0)
+* [February 23rd, 2021 Livestream Q&A: Any future combat or enemy updates to come?](./transcriptions/yt-MS3_LOEapI4.md) [https://www.youtube.com/watch?v=MS3_LOEapI4](https://www.youtube.com/watch?v=MS3_LOEapI4)
+* [February 9th, 2021 Livestream Q&A: When will you be adding more wildlife?](./transcriptions/yt-gAjKNyUTkMQ.md) [https://www.youtube.com/watch?v=gAjKNyUTkMQ](https://www.youtube.com/watch?v=gAjKNyUTkMQ)
+* [January 19th, 2021 Livestream Q&A: Will there be more Creatures, even more dangerous ones?](./transcriptions/yt-T0jbE_WjQJQ.md) [https://www.youtube.com/watch?v=T0jbE_WjQJQ](https://www.youtube.com/watch?v=T0jbE_WjQJQ)
+* [December 15th, 2020 Livestream Q&A: Will there be new enemies?](./transcriptions/yt-mwN7mAZ2dbg.md) [https://www.youtube.com/watch?v=mwN7mAZ2dbg](https://www.youtube.com/watch?v=mwN7mAZ2dbg)
+* [November 17th, 2020 Livestream Q&A: Any news on big Crab monster?](./transcriptions/yt-tTXExwaqZQM.md) [https://www.youtube.com/watch?v=tTXExwaqZQM](https://www.youtube.com/watch?v=tTXExwaqZQM)
+* [November 10th, 2020 Livestream Q&A: Any plans to add more animals to enemies or dangers?](./transcriptions/yt-RuzL7DdAJ1o.md) [https://www.youtube.com/watch?v=RuzL7DdAJ1o](https://www.youtube.com/watch?v=RuzL7DdAJ1o)
+* [November 3rd, 2020 Livestream Q&A: Are there going to be new Creatures?](./transcriptions/yt-c3jeZv_aYug.md) [https://www.youtube.com/watch?v=c3jeZv_aYug](https://www.youtube.com/watch?v=c3jeZv_aYug)
+* [October 20th, 2020 Livestream Q&A: Will Aliens become more diverse/actually challenging?](./transcriptions/yt-K7fDE5Dg570.md) [https://www.youtube.com/watch?v=K7fDE5Dg570](https://www.youtube.com/watch?v=K7fDE5Dg570)
+* [October 6th, 2020 Livestream Q&A: When do we get the Crab Boss?](./transcriptions/yt-m4PtschrKJc.md) [https://www.youtube.com/watch?v=m4PtschrKJc](https://www.youtube.com/watch?v=m4PtschrKJc)
+* [September 22nd, 2020 Livestream Q&A: Will there be more creatures?](./transcriptions/yt-Yzd466gO44M.md) [https://www.youtube.com/watch?v=Yzd466gO44M](https://www.youtube.com/watch?v=Yzd466gO44M)
+* [September 15th, 2020 Livestream Q&A: Are we ever going to see a new enemy type?](./transcriptions/yt-Kxq543wzKcY.md) [https://www.youtube.com/watch?v=Kxq543wzKcY](https://www.youtube.com/watch?v=Kxq543wzKcY)
+* [September 15th, 2020 Livestream Q&A: Will you add any Monsters/Bosses in the future?](./transcriptions/yt-D_BVMiGNvqI.md) [https://www.youtube.com/watch?v=D_BVMiGNvqI](https://www.youtube.com/watch?v=D_BVMiGNvqI)
+* [September 8th, 2020 Livestream Q&A: Will we ever see the Crab Boss?](./transcriptions/yt-HD54tFdoDTE.md) [https://www.youtube.com/watch?v=HD54tFdoDTE](https://www.youtube.com/watch?v=HD54tFdoDTE)
+* [September 1st, 2020 Livestream Q&A: When will we see the crab?](./transcriptions/yt-yHgb7ySKTMs.md) [https://www.youtube.com/watch?v=yHgb7ySKTMs](https://www.youtube.com/watch?v=yHgb7ySKTMs)
+* [August 25th, 2020 Livestream Q&A: New enemies / creatures?](./transcriptions/yt-TDbNru0heoU.md) [https://www.youtube.com/watch?v=TDbNru0heoU](https://www.youtube.com/watch?v=TDbNru0heoU)
+* [August 25th, 2020 Livestream Q&A: Will we have more monsters?](./transcriptions/yt-shEKhZakMxQ.md) [https://www.youtube.com/watch?v=shEKhZakMxQ](https://www.youtube.com/watch?v=shEKhZakMxQ)
+* July 28th, 2020 Livestream Q&A: More Wildlife? [https://clips.twitch.tv/DirtyHilariousPancakeWow](https://clips.twitch.tv/DirtyHilariousPancakeWow)
+* [March 9th, 2019 Livestream Q&A: Is there more than 5 enemies in?](./transcriptions/yt-DLnUjlixpg8.md) [https://www.youtube.com/watch?v=DLnUjlixpg8](https://www.youtube.com/watch?v=DLnUjlixpg8)
+</details>
+
+### [Q&A: Will there be planes and helicopters?](./transcriptions/yt-E-c_NfjMqUM.md) [https://www.youtube.com/watch?v=E-c_NfjMqUM](https://www.youtube.com/watch?v=E-c_NfjMqUM)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will there be planes and helicopters
+>
+> there will be no flying vehicles in the
+>
+> game
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 13 other times, as recently as February 2021 and as early as March 2019.</summary>
+
+* [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./transcriptions/yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)
+* [January 26th, 2021 Livestream Q&A: Can we expect aircraft any time?](./transcriptions/yt-XMIUlTU9xcU.md) [https://www.youtube.com/watch?v=XMIUlTU9xcU](https://www.youtube.com/watch?v=XMIUlTU9xcU)
+* [November 10th, 2020 Livestream Q&A: Any plans for a helicopter so we don't have to turn into spaghetti to get across the map?](./transcriptions/yt-l-k7qpxgpRQ.md) [https://www.youtube.com/watch?v=l-k7qpxgpRQ](https://www.youtube.com/watch?v=l-k7qpxgpRQ)
+* [November 3rd, 2020 Livestream Q&A: Will we get Flying Vehicles?](./transcriptions/yt-CkWtF0M2ddY.md) [https://www.youtube.com/watch?v=CkWtF0M2ddY](https://www.youtube.com/watch?v=CkWtF0M2ddY)
+* [September 29th, 2020 Livestream Q&A: Will we see air vehicles some time in the future?](./transcriptions/yt-qJ56jBYTtAc.md) [https://www.youtube.com/watch?v=qJ56jBYTtAc](https://www.youtube.com/watch?v=qJ56jBYTtAc)
+* [September 8th, 2020 Livestream Q&A: The game needs small Flying Vehicles to travel long distance?](./transcriptions/yt-i0_bbpQ_91I.md) [https://www.youtube.com/watch?v=i0_bbpQ_91I](https://www.youtube.com/watch?v=i0_bbpQ_91I)
+* [September 8th, 2020 Livestream Q&A: What're your guys thoughts on transport beyond Jetpacks ?](./transcriptions/yt--sa8wjg4lYk.md) [https://www.youtube.com/watch?v=-sa8wjg4lYk](https://www.youtube.com/watch?v=-sa8wjg4lYk)
+* [August 25th, 2020 Livestream Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](./transcriptions/yt-Ds9NIPna9_4.md) [https://www.youtube.com/watch?v=Ds9NIPna9_4](https://www.youtube.com/watch?v=Ds9NIPna9_4)
+* August 25th, 2020 Livestream Q&A: How about a drone to fly around? [https://www.youtube.com/watch?v=1msTsQksmbI](https://www.youtube.com/watch?v=1msTsQksmbI)
+* [August 25th, 2020 Livestream Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ?](./transcriptions/yt-mAA2oX9mDOw.md) [https://www.youtube.com/watch?v=mAA2oX9mDOw](https://www.youtube.com/watch?v=mAA2oX9mDOw)
+* [December 19th, 2019 Livestream Q&A: Give us a flight vehicle?](./transcriptions/yt-Fb6JnI4Bb4I.md) [https://www.youtube.com/watch?v=Fb6JnI4Bb4I](https://www.youtube.com/watch?v=Fb6JnI4Bb4I)
+* [December 19th, 2019 Livestream Q&A: Have you considerd Flying Drones?](./transcriptions/yt-KYox3m1mePU.md) [https://www.youtube.com/watch?v=KYox3m1mePU](https://www.youtube.com/watch?v=KYox3m1mePU)
+* [March 9th, 2019 Livestream Q&A: Flying vehicles for overhead view of your factory?](./transcriptions/yt-njN-07Q5-8s.md) [https://www.youtube.com/watch?v=njN-07Q5-8s](https://www.youtube.com/watch?v=njN-07Q5-8s)
+</details>
+
+### [Q&A: Will there be Story to the game?](./transcriptions/yt-C23SCWtnv2U.md) [https://www.youtube.com/watch?v=C23SCWtnv2U](https://www.youtube.com/watch?v=C23SCWtnv2U)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will there be stories of the game yes
+>
+> there will be stories of the game in in
+>
+> 1.0 we're going to
+>
+> unveil the entire story i've i've talked
+>
+> about this many times but
+>
+> i'll i'll do a revamp here so the way
+>
+> the the way our story is going to be
+>
+> implemented is
+>
+> um we're not going to go down the route
+>
+> that like subnautica did with like
+>
+> introducing story segments one one by a
+>
+> time like one
+>
+> one by one and in early access we'd
+>
+> rather do
+>
+> the entire story so you can like play
+>
+> throughout the entire story
+>
+> in one go and you know enjoy that
+>
+> story is always going to be kind of like
+>
+> not maybe not optional but it's going to
+>
+> be something that you don't like you can
+>
+> play the game totally without playing
+>
+> the story essentially
+>
+> so you're not like missing anything by
+>
+> playing the game in early access
+>
+> right now story-wise so it's gonna make
+>
+> sense anyways to to implement it late
+>
+> and the story's gonna be really late
+>
+> it's gonna be the last thing we add to
+>
+> the game
+>
+> when we launch it 1.0 um
+>
+> but you can still yeah it's not i don't
+>
+> think it's going to maybe we'll change
+>
+> our minds later down the line but
+>
+> currently it's not going to be like a
+>
+> mandatory thing that like takes up your
+>
+> focus
+>
+> to play throughout the game you're going
+>
+> to be able to play the game regardless
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 4 other times, as recently as March 2021 and as early as March 2021.</summary>
+
+* [March 23rd, 2021 Livestream Q&A: Any Story hints?](./transcriptions/yt-83bWsjYlMrM.md) [https://www.youtube.com/watch?v=83bWsjYlMrM](https://www.youtube.com/watch?v=83bWsjYlMrM)
+* March 16th, 2021 Livestream Q&A: Storyline? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747)
+* [March 9th, 2021 Livestream Q&A: Is Lore & Story progressing well, not well, or not at all?](./transcriptions/yt-UHWeEsduD0Q.md) [https://www.youtube.com/watch?v=UHWeEsduD0Q](https://www.youtube.com/watch?v=UHWeEsduD0Q)
+* [March 2nd, 2021 Livestream Q&A: Is the Story completely written or is it still in progress?](./transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
+</details>
+
+### [Q&A: Will there be Trucks that can transport fluids?](./transcriptions/yt-sO7qhlAKq3U.md) [https://www.youtube.com/watch?v=sO7qhlAKq3U](https://www.youtube.com/watch?v=sO7qhlAKq3U)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will there be trucks that can transport
+>
+> fluids
+>
+> uh if you package the fluids yes
+>
+> but we don't have any plans for that
+>
+> currently but maybe in the future
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as October 2020 and as early as August 2020.</summary>
+
+* [October 6th, 2020 Livestream Q&A: What do you think about adding some kind of Tanker Truck?](./transcriptions/yt-JCBQj8Ern20.md) [https://www.youtube.com/watch?v=JCBQj8Ern20](https://www.youtube.com/watch?v=JCBQj8Ern20)
+* [September 15th, 2020 Livestream Q&A: Any improvement for the Trucks so they can transport Fluids?](./transcriptions/yt-lNpwyJr7lZc.md) [https://www.youtube.com/watch?v=lNpwyJr7lZc](https://www.youtube.com/watch?v=lNpwyJr7lZc)
+* [August 25th, 2020 Livestream Q&A: Tanker Trucks?](./transcriptions/yt-IPmVdCgi2_A.md) [https://www.youtube.com/watch?v=IPmVdCgi2_A](https://www.youtube.com/watch?v=IPmVdCgi2_A)
+</details>
+
+### [Q&A: Will we ever make a Console version?](./transcriptions/yt-LWvp_I866M0.md) [https://www.youtube.com/watch?v=LWvp_I866M0](https://www.youtube.com/watch?v=LWvp_I866M0)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will
+>
+> will the
+>
+> will the air
+>
+> will we ever
+>
+> will we ever met
+>
+> will they ever make
+>
+> will
+>
+> will they ever make
+>
+> will they ever make a
+>
+> will they ever make a console
+version
+>
+> will they ever make a console
+version that's a good question
+>
+> will they ever make a console
+version that's a good question
+we have
+>
+> will they ever make a console
+version that's a good question
+we have no
+>
+> will they ever make a console
+version that's a good question
+we have no plans
+>
+> will they ever make a console
+version that's a good question
+we have no plans for
+>
+> will they ever make a console
+version that's a good question
+we have no plans for right
+>
+> will they ever make a console
+version that's a good question
+we have no plans for right now
+>
+> version that's a good question
+we have no plans for right now
+cuz
+>
+> version that's a good question
+we have no plans for right now
+cuz we
+>
+> version that's a good question
+we have no plans for right now
+cuz we need
+>
+> version that's a good question
+we have no plans for right now
+cuz we need to
+>
+> version that's a good question
+we have no plans for right now
+cuz we need to focus
+>
+> version that's a good question
+we have no plans for right now
+cuz we need to focus on
+>
+> version that's a good question
+we have no plans for right now
+cuz we need to focus on PC so
+>
+> version that's a good question
+we have no plans for right now
+cuz we need to focus on PC so I
+>
+> we have no plans for right now
+cuz we need to focus on PC so I
+don't
+>
+> we have no plans for right now
+cuz we need to focus on PC so I
+don't like
+>
+> we have no plans for right now
+cuz we need to focus on PC so I
+don't like console version
+>
+> cuz we need to focus on PC so I
+don't like console version will
+not
+>
+> cuz we need to focus on PC so I
+don't like console version will
+not happen
+>
+> cuz we need to focus on PC so I
+don't like console version will
+not happen until
+>
+> cuz we need to focus on PC so I
+don't like console version will
+not happen until 1
+>
+> cuz we need to focus on PC so I
+don't like console version will
+not happen until 1 if
+>
+> cuz we need to focus on PC so I
+don't like console version will
+not happen until 1 if it
+>
+> cuz we need to focus on PC so I
+don't like console version will
+not happen until 1 if it happens
+>
+> don't like console version will
+not happen until 1 if it happens
+but
+>
+> don't like console version will
+not happen until 1 if it happens
+but after
+>
+> don't like console version will
+not happen until 1 if it happens
+but after that
+>
+> don't like console version will
+not happen until 1 if it happens
+but after that we'll
+>
+> don't like console version will
+not happen until 1 if it happens
+but after that we'll see
+>
+> don't like console version will
+not happen until 1 if it happens
+but after that we'll see but
+>
+> don't like console version will
+not happen until 1 if it happens
+but after that we'll see but no
+>
+> not happen until 1 if it happens
+but after that we'll see but no
+plans
+>
+> not happen until 1 if it happens
+but after that we'll see but no
+plans right
+>
+> not happen until 1 if it happens
+but after that we'll see but no
+plans right now
+>
+> not happen until 1 if it happens
+but after that we'll see but no
+plans right now back
+>
+> not happen until 1 if it happens
+but after that we'll see but no
+plans right now back in
+>
+> not happen until 1 if it happens
+but after that we'll see but no
+plans right now back at you
+>
+> not happen until 1 if it happens
+but after that we'll see but no
+plans right now back of your
+>
+> but after that we'll see but no
+plans right now back of your
+cell
+>
+> but after that we'll see but no
+plans right now back of your
+seat
+>
+> but after that we'll see but no
+plans right now back of your
+save
+>
+> not happen until 1 if it happens
+but after that we'll see but no
+plans right now back
+>
+> not happen until 1 if it happens
+but after that we'll see but no
+plans right now back of your
+>
+> but after that we'll see but no
+plans right now back of your
+saves exactly
+>
+> but after that we'll see but no
+plans right now back of your
+saves exactly all right
+>
+> plans right now back of your
+saves exactly all right when you
+jump
+>
+> plans right now back of your
+saves exactly all right when you
+come back down again
+>
+> but after that we'll see but no
+plans right now back of your
+saves exactly KFC
+>
+> but after that we'll see but no
+plans right now back of your
+saves exactly KFC,
+>
+> but after that we'll see but no
+plans right now back of your
+saves exactly KFC coupons
+>
+> but after that we'll see but no
+plans right now back of your
+saves exactly KFC console
+>
+> but after that we'll see but no
+plans right now back of your
+saves exactly KFC
+>
+> but after that we'll see but no
+plans right now back of your
+saves exactly KFC console
+>
+> plans right now back of your
+saves exactly KFC console what
+were
+>
+> plans right now back of your
+saves exactly KFC console what
+will
+>
+> plans right now back of your
+saves exactly KFC console what
+was
+>
+> plans right now back of your
+saves exactly KFC console what
+what
+>
+> but after that we'll see but no
+plans right now back of your
+saves exactly KFC console what
+>
+> plans right now back of your
+saves exactly KFC console what
+what
+>
+> plans right now back of your
+saves exactly KFC console what
+what oh yeah
+>
+> plans right now back of your
+saves exactly KFC console what
+what oh yeah and
+>
+> plans right now back of your
+saves exactly KFC console what
+what oh yeah
+>
+> plans right now back of your
+saves exactly KFC console what
+what oh yeah and
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 26 other times, as recently as March 2021 and as early as March 2019.</summary>
+
+* March 17th, 2021 Livestream Q&A: Does this mean that Console is confirmed? [https://play.satisfactory.video/ts-952893339,2991.306945,3010.193065/](https://play.satisfactory.video/ts-952893339,2991.306945,3010.193065/)
+* [February 23rd, 2021 Livestream Q&A: Any plans for bringing the game to Nintendo Switch?](./transcriptions/yt-rfeMtSPOadY.md) [https://www.youtube.com/watch?v=rfeMtSPOadY](https://www.youtube.com/watch?v=rfeMtSPOadY)
+* [February 9th, 2021 Livestream Q&A: Do you plan to release on Console one day?](./transcriptions/yt-mS_O_qnXJp0.md) [https://www.youtube.com/watch?v=mS_O_qnXJp0](https://www.youtube.com/watch?v=mS_O_qnXJp0)
+* [February 2nd, 2021 Livestream Q&A: Will Satisfactory be coming to Console?](./transcriptions/yt-ZljpvyZWlIA.md) [https://www.youtube.com/watch?v=ZljpvyZWlIA](https://www.youtube.com/watch?v=ZljpvyZWlIA)
+* [February 2nd, 2021 Livestream Q&A: Will the game ever be on Console?](./transcriptions/yt-G_pmJbKEhX4.md) [https://www.youtube.com/watch?v=G_pmJbKEhX4](https://www.youtube.com/watch?v=G_pmJbKEhX4)
+* [January 26th, 2021 Livestream Q&A: Release date on PS4?](./transcriptions/yt-xUdlPZfMgDw.md) [https://www.youtube.com/watch?v=xUdlPZfMgDw](https://www.youtube.com/watch?v=xUdlPZfMgDw)
+* [January 19th, 2021 Livestream Q&A: Could we expect the game on Consoles some day?](./transcriptions/yt-OVn94IC65fw.md) [https://www.youtube.com/watch?v=OVn94IC65fw](https://www.youtube.com/watch?v=OVn94IC65fw)
+* [November 24th, 2020 Livestream Q&A: Is Console confirmed for Satisfactory?](./transcriptions/yt-KEJYlYO511Q.md) [https://www.youtube.com/watch?v=KEJYlYO511Q](https://www.youtube.com/watch?v=KEJYlYO511Q)
+* [November 24th, 2020 Livestream Q&A: When is Satisfactory coming to N-Gage?](./transcriptions/yt-qL6dp9eUB58.md) [https://www.youtube.com/watch?v=qL6dp9eUB58](https://www.youtube.com/watch?v=qL6dp9eUB58)
+* [November 24th, 2020 Livestream Q&A: When is Satisfactory coming to Switch?](./transcriptions/yt-tBDXG3OHt1c.md) [https://www.youtube.com/watch?v=tBDXG3OHt1c](https://www.youtube.com/watch?v=tBDXG3OHt1c)
+* [November 17th, 2020 Livestream Q&A: Is Console support coming?](./transcriptions/yt-tqB7YuLM2Fs.md) [https://www.youtube.com/watch?v=tqB7YuLM2Fs](https://www.youtube.com/watch?v=tqB7YuLM2Fs)
+* [October 13th, 2020 Livestream Q&A: I want this to come to XBox Series X & Playstation 5](./transcriptions/yt-9NqrE4ASW9U.md) [https://www.youtube.com/watch?v=9NqrE4ASW9U](https://www.youtube.com/watch?v=9NqrE4ASW9U)
+* [September 15th, 2020 Livestream Q&A: Are you planning on porting the game to PS4?](./transcriptions/yt-0Zv9Qjp2fHI.md) [https://www.youtube.com/watch?v=0Zv9Qjp2fHI](https://www.youtube.com/watch?v=0Zv9Qjp2fHI)
+* [September 15th, 2020 Livestream Q&A: Coming to Consoles?](./transcriptions/yt-09PyuqxekgU.md) [https://www.youtube.com/watch?v=09PyuqxekgU](https://www.youtube.com/watch?v=09PyuqxekgU)
+* [September 8th, 2020 Livestream Q&A: Will this game come out on Console at some point?](./transcriptions/yt-pfD6p4g3fQ8.md) [https://www.youtube.com/watch?v=pfD6p4g3fQ8](https://www.youtube.com/watch?v=pfD6p4g3fQ8)
+* [September 1st, 2020 Livestream Q&A: Satisfactory on next-gen Consoles?](./transcriptions/yt-ed1gycRZji4.md) [https://www.youtube.com/watch?v=ed1gycRZji4](https://www.youtube.com/watch?v=ed1gycRZji4)
+* [August 25th, 2020 Livestream Q&A: Any chance to play Satisfactory on N64?](./transcriptions/yt-Ov7_XZoduDQ.md) [https://www.youtube.com/watch?v=Ov7_XZoduDQ](https://www.youtube.com/watch?v=Ov7_XZoduDQ)
+* August 18th, 2020 Livestream Q&A: Are there any plans to port the game to console? [https://clips.twitch.tv/CogentRichJackalHeyGirl](https://clips.twitch.tv/CogentRichJackalHeyGirl)
+* July 28th, 2020 Livestream Q&A: Satisfactory Console Release [https://clips.twitch.tv/FragileNimbleEggnogDatSheffy](https://clips.twitch.tv/FragileNimbleEggnogDatSheffy)
+* [June 8th, 2020 Livestream Q&A: Will there be Console versions of the game?](./transcriptions/yt-9fvWGq0_Cv0.md) [https://www.youtube.com/watch?v=9fvWGq0_Cv0](https://www.youtube.com/watch?v=9fvWGq0_Cv0)
+* [March 24th, 2020 Livestream Q&A: Satisfactory on the next Console generation?](./transcriptions/yt-9bez-QIVKLA.md) [https://www.youtube.com/watch?v=9bez-QIVKLA](https://www.youtube.com/watch?v=9bez-QIVKLA)
+* [February 11th, 2020 Livestream Q&A: Is Satisfactory going to be on PS5/PS6?](./transcriptions/yt-1v4Mho5Uh9I.md) [https://www.youtube.com/watch?v=1v4Mho5Uh9I](https://www.youtube.com/watch?v=1v4Mho5Uh9I)
+* [January 22nd, 2020 Livestream Q&A: Console?](./transcriptions/yt-k-7WiSX0BYM.md) [https://www.youtube.com/watch?v=k-7WiSX0BYM](https://www.youtube.com/watch?v=k-7WiSX0BYM)
+* [December 19th, 2019 Livestream Q&A: Satisfactory on Switch?](./transcriptions/yt-QVQZ2qgtTsQ.md) [https://www.youtube.com/watch?v=QVQZ2qgtTsQ](https://www.youtube.com/watch?v=QVQZ2qgtTsQ)
+* [March 9th, 2019 Livestream Q&A: Any scope of the game being on consoles?](./transcriptions/yt-bsTq_WiSeCY.md) [https://www.youtube.com/watch?v=bsTq_WiSeCY](https://www.youtube.com/watch?v=bsTq_WiSeCY)
+* [March 9th, 2019 Livestream Q&A: Will you create Console version of Satisfactory?](./transcriptions/yt-_MGUbEI247M.md) [https://www.youtube.com/watch?v=_MGUbEI247M](https://www.youtube.com/watch?v=_MGUbEI247M)
+</details>
+
+### [Q&A: Will we ever use S.A.M. Ore?](./transcriptions/yt-SqyfGfz3APc.md) [https://www.youtube.com/watch?v=SqyfGfz3APc](https://www.youtube.com/watch?v=SqyfGfz3APc)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> and crash button will we ever use sam or
+>
+> yeah samoa is tied to the story stuff
+>
+> so samore won't be usable until 1.0
+>
+> unfortunately
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 9 other times, as recently as February 2021 and as early as March 2019.</summary>
+
+* [February 23rd, 2021 Livestream Q&A: S.A.M. Ore getting a main use any time soon?](./transcriptions/yt-ow33F_nK6nc.md) [https://www.youtube.com/watch?v=ow33F_nK6nc](https://www.youtube.com/watch?v=ow33F_nK6nc)
+* [January 12th, 2021 Livestream Q&A: What's happening with S.A.M. Ore?](./transcriptions/yt-f0Z9VIAK5Iw.md) [https://www.youtube.com/watch?v=f0Z9VIAK5Iw](https://www.youtube.com/watch?v=f0Z9VIAK5Iw)
+* [October 20th, 2020 Livestream Q&A: What's the secret behind S.A.M. Ore?](./transcriptions/yt-tXqk1eu0-BQ.md) [https://www.youtube.com/watch?v=tXqk1eu0-BQ](https://www.youtube.com/watch?v=tXqk1eu0-BQ)
+* [September 29th, 2020 Livestream Q&A: How much S.A.M. Ore should we stock up on?](./transcriptions/yt-vBGfC7j2AyI.md) [https://www.youtube.com/watch?v=vBGfC7j2AyI](https://www.youtube.com/watch?v=vBGfC7j2AyI)
+* [August 25th, 2020 Livestream Q&A: Please tell me Update 4 will use S.A.M. Ore](./transcriptions/yt--b2L_nlW_Fo.md) [https://www.youtube.com/watch?v=-b2L_nlW_Fo](https://www.youtube.com/watch?v=-b2L_nlW_Fo)
+* August 18th, 2020 Livestream Q&A: S.A.M. Ore uses? [https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis](https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis)
+* [February 11th, 2020 Livestream Q&A: S.A.M. Ore?](./transcriptions/yt-6r-s6Hk7QwY.md) [https://www.youtube.com/watch?v=6r-s6Hk7QwY](https://www.youtube.com/watch?v=6r-s6Hk7QwY)
+* [December 19th, 2019 Livestream Q&A: S.A.M. Ore?](./transcriptions/yt-irJw2itG4wM.md) [https://www.youtube.com/watch?v=irJw2itG4wM](https://www.youtube.com/watch?v=irJw2itG4wM)
+* [March 9th, 2019 Livestream Q&A: What do you use S.A.M. Ore for?](./transcriptions/yt-jdOQXcBiSH0.md) [https://www.youtube.com/watch?v=jdOQXcBiSH0](https://www.youtube.com/watch?v=jdOQXcBiSH0)
+</details>
+
+## [March 23rd, 2021 Livestream](./2021-03-23.md)
 ### [Q&A: Any mods you want to add to vanilla at some stage?](./transcriptions/yt-mH06GfDfnQc.md) [https://www.youtube.com/watch?v=mH06GfDfnQc](https://www.youtube.com/watch?v=mH06GfDfnQc)
 
 <details>
@@ -420,179 +8634,6 @@ I Am
 * [February 6th, 2019 Livestream Q&A: So if Mods are confirmed, how about Mods for creating Maps- will that happen?](./transcriptions/yt-Dtm6xIj-wM4,1334.740485,1399.146207.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1334&end=1400](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1334&end=1400)
 </details>
 
-### [Q&A: Any Story hints?](./transcriptions/yt-83bWsjYlMrM.md) [https://www.youtube.com/watch?v=83bWsjYlMrM](https://www.youtube.com/watch?v=83bWsjYlMrM)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> know any story hints
->
-> no i don't know i don't know any other
->
-> story
->
-> i'm lying i know everything about the
->
-> story but i'm not telling you
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as March 2021 and as early as March 2021.</summary>
-
-* March 16th, 2021 Livestream Q&A: Storyline? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747)
-* [March 9th, 2021 Livestream Q&A: Is Lore & Story progressing well, not well, or not at all?](./transcriptions/yt-UHWeEsduD0Q.md) [https://www.youtube.com/watch?v=UHWeEsduD0Q](https://www.youtube.com/watch?v=UHWeEsduD0Q)
-* [March 2nd, 2021 Livestream Q&A: Is the Story completely written or is it still in progress?](./transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
-</details>
-
-### [Q&A: Can we destroy those Gas pillars?](./transcriptions/yt-PcJHdVtZSp0.md) [https://www.youtube.com/watch?v=PcJHdVtZSp0](https://www.youtube.com/watch?v=PcJHdVtZSp0)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> can we destroy those gas pillars
->
-> eventually you're going to be able to do
->
-> something with them or handle them in
->
-> some way
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as December 2019.</summary>
-
-* [September 8th, 2020 Livestream Q&A: When can Poison Pillars be removed?](./transcriptions/yt-BRpEHi7W7u0.md) [https://www.youtube.com/watch?v=BRpEHi7W7u0](https://www.youtube.com/watch?v=BRpEHi7W7u0)
-* [December 19th, 2019 Livestream Q&A: Is there going to be a way to destroy the fart rock?](./transcriptions/yt-byPiSQZOAhw.md) [https://www.youtube.com/watch?v=byPiSQZOAhw](https://www.youtube.com/watch?v=byPiSQZOAhw)
-</details>
-
-### [Q&A: Can you make overclocking numbers more precise?](./transcriptions/yt-D-aOy0Uia6Q.md) [https://www.youtube.com/watch?v=D-aOy0Uia6Q](https://www.youtube.com/watch?v=D-aOy0Uia6Q)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> i have a cold power plant
->
-> fully overclocked generates an output
->
-> that is unprecise due to the scale would
->
-> you make the overclocking numbers more
->
-> precise easier matter
->
-> uh i don't i don't know but i don't
->
-> think so
->
-> um
->
-> it's kind of the manner of the the
->
-> overclocking itself that kind of makes
->
-> it like that
->
-> um but i'm not quite sure
->
-> maybe maybe not uh make sure to upload
->
-> that on the q website if this is
->
-> something that
->
-> you feel strongly about
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as January 2021.</summary>
-
-* [February 9th, 2021 Livestream Q&A: Can you do percentage decimals to get exact part rates?](./transcriptions/yt-SRnmr4oaE0k.md) [https://www.youtube.com/watch?v=SRnmr4oaE0k](https://www.youtube.com/watch?v=SRnmr4oaE0k)
-* [January 19th, 2021 Livestream Q&A: Will it be possible to use decimal places for percentages in future?](./transcriptions/yt-zGH69_aSwwk.md) [https://www.youtube.com/watch?v=zGH69_aSwwk](https://www.youtube.com/watch?v=zGH69_aSwwk)
-</details>
-
-### [Q&A: Did I miss the part about release to Early Access?](./transcriptions/yt-McJNs01E4O8.md) [https://www.youtube.com/watch?v=McJNs01E4O8](https://www.youtube.com/watch?v=McJNs01E4O8)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> did i miss the part about it released
->
-> early access
->
-> uh you did but i can say it right now we
->
-> plan for releasing update 4 to early
->
-> access on
->
-> april 13th
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as March 2021 and as early as February 2021.</summary>
-
-* March 16th, 2021 Livestream Q&A: When is it going to be on Early Access? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15312&end=15344](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15312&end=15344)
-* [February 26th, 2021 Instagram AMA Q&A: When's it going to be on Early Access?](./transcriptions/yt-F-q3vfj__M4,80.08,112.71260000000001.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=80&end=113](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=80&end=113)
-* [February 9th, 2021 Livestream Q&A: When does Experimental come to Early Access?](./transcriptions/yt-s0KzZA300xo.md) [https://www.youtube.com/watch?v=s0KzZA300xo](https://www.youtube.com/watch?v=s0KzZA300xo)
-</details>
-
-### [Q&A: Do you ever think you'll give us more than one Body Slot?](./transcriptions/yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> um
->
-> do you ever think you'll give us more
->
-> than one body slot
->
-> uh i don't know i think we're gonna like
->
-> remake a little bit how that
->
-> equipment system works um rather than
->
-> just give you another body slot because
->
-> if we feel like
->
-> giving you another body slot it's 2op um
->
-> we'd rather change how equipment works
->
-> instead uh and
->
-> yeah remake it so that you do make
->
-> interesting decisions with that
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as March 2021 and as early as September 2020.</summary>
-
-* [March 9th, 2021 Livestream Q&A: Will we ever get a second body slot?](./transcriptions/yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)
-* [March 2nd, 2021 Livestream Q&A: When are we going to be able to use more than one Equipment at a time?](./transcriptions/yt-w6VfAW7WD1w.md) [https://www.youtube.com/watch?v=w6VfAW7WD1w](https://www.youtube.com/watch?v=w6VfAW7WD1w)
-* [February 2nd, 2021 Livestream Q&A: Will we get two character slots for Jetpacks and Blade Runners](./transcriptions/yt-YKIN_NCGDpo.md) [https://www.youtube.com/watch?v=YKIN_NCGDpo](https://www.youtube.com/watch?v=YKIN_NCGDpo)
-* [October 6th, 2020 Livestream Q&A: What's the max amount of body slots?](./transcriptions/yt-aPWXjH-Xf1o.md) [https://www.youtube.com/watch?v=aPWXjH-Xf1o](https://www.youtube.com/watch?v=aPWXjH-Xf1o)
-* [September 15th, 2020 Livestream Q&A: Can I wear Boots, Jetpack and a Gas Mask?](./transcriptions/yt-Gt1ATsmBu6k.md) [https://www.youtube.com/watch?v=Gt1ATsmBu6k](https://www.youtube.com/watch?v=Gt1ATsmBu6k)
-</details>
-
 ### [Q&A: Do you have any Holiday Theme plans in the future?](./transcriptions/yt-EIGGdc4b7vc.md) [https://www.youtube.com/watch?v=EIGGdc4b7vc](https://www.youtube.com/watch?v=EIGGdc4b7vc)
 
 <details>
@@ -697,7 +8738,7 @@ I Am
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 14 other times, as recently as March 2021 and as early as December 2019.</summary>
+<summary>This question may have been asked previously at least 15 other times, as recently as March 2021 and as early as December 2019.</summary>
 
 * March 16th, 2021 Livestream Q&A: What about Alien Artefact things? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8718&end=8723](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8718&end=8723)
 * [March 2nd, 2021 Livestream Q&A: Will Somersloops & Mercer Spheres finally have a use?](./transcriptions/yt-6CNL-nsOGUw.md) [https://www.youtube.com/watch?v=6CNL-nsOGUw](https://www.youtube.com/watch?v=6CNL-nsOGUw)
@@ -711,162 +8752,9 @@ I Am
 * [September 15th, 2020 Livestream Q&A: When do the Work In Progress items get a purpose?](./transcriptions/yt-koMqOABA6x8.md) [https://www.youtube.com/watch?v=koMqOABA6x8](https://www.youtube.com/watch?v=koMqOABA6x8)
 * [August 25th, 2020 Livestream Q&A: Do you have any clue on what the alien artefacts do?](./transcriptions/yt-hRe0QvJDjsg.md) [https://www.youtube.com/watch?v=hRe0QvJDjsg](https://www.youtube.com/watch?v=hRe0QvJDjsg)
 * August 18th, 2020 Livestream Q&A: When are Somersloops and Orbs have meaning? [https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride](https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride)
+* [April 30th, 2020 Livestream Q&A: What does the Somersloop do?](./transcriptions/yt-mci92Mhr7MM,711.0436666666667,726.1587666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=711&end=727](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=711&end=727)
 * [February 11th, 2020 Livestream Q&A: Mercer Spheres?](./transcriptions/yt-9VS0lGfDZ1k.md) [https://www.youtube.com/watch?v=9VS0lGfDZ1k](https://www.youtube.com/watch?v=9VS0lGfDZ1k)
 * [December 19th, 2019 Livestream Q&A: Will Mercer Spheres and Somersloops be useful soon?](./transcriptions/yt-SYWPIjbe_4Y.md) [https://www.youtube.com/watch?v=SYWPIjbe_4Y](https://www.youtube.com/watch?v=SYWPIjbe_4Y)
-</details>
-
-### [Q&A: If you could add a feature yourself right now, what would that be ?](./transcriptions/yt-EbERjXIk_x4.md) [https://www.youtube.com/watch?v=EbERjXIk_x4](https://www.youtube.com/watch?v=EbERjXIk_x4)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> soon if you could add a feature
->
-> yourself right now what would that be um
->
-> being able to
->
-> uh holster equipment
->
-> is one thing uh being able to unselect
->
-> uh when you're mass dismantling being
->
-> able to unselect
->
-> individual things if you accidentally
->
-> select something
->
-> that's another thing i would like to fix
->
-> there's a ton of building things
->
-> that i that i are super annoyed by when
->
-> i'm playing
->
-> uh especially when i was making the
->
-> trailer stuff um
->
-> where like when you're placing stuff you
->
-> have to like sometimes you have to place
->
-> things in a very particular order for it
->
-> to work
->
-> which is kind of weird like if you place
->
-> like a splitter if you place a wall and
->
-> then place like a splitter next to the
->
-> wall
->
-> and you remove the wall you can't re you
->
-> can't add the wall back again for some
->
-> reason
->
-> uh kind of weird um there
->
-> are cases where when you're dragging
->
-> conveyor belts it'd be nice if they
->
-> snapped to
->
-> when you're using the snapping tool to
->
-> have them snap to the input and output
->
-> um that will be fixed in the future i'm
->
-> pretty sure
->
-> because the the like guideline tool and
->
-> the snapping tool is in the
->
-> it's a prototype that's reached
->
-> implementation
->
-> like the the guideline tool that you're
->
-> playing with right now is implemented by
->
-> me
->
-> and that is a prototype that was not
->
-> supposed to make it into the game
->
-> uh but it was a prototype that like
->
-> worked enough i guess
->
-> so we just decided to put it in the game
->
-> uh
->
-> but that's a permanent solution um
->
-> and that's gonna change uh at some point
->
-> i think
->
-> that whole system is going to be
->
-> completely rewritten
->
-> to to function better um
->
-> prototypes always ends up in production
->
-> you hate to you hate it when it happens
->
-> nothing's as permanent as a temporary
->
-> fix yeah so so those like
->
-> i think there are a bunch of general
->
-> like building situations that i would
->
-> like to improve on
->
-> um to just make it more streamlined
->
-> because
->
-> um i don't i don't think there's
->
-> there needs to be many changes for the
->
-> building to just feel so much better
->
-> but i don't work on the game anymore so
->
-> it's not up to me
->
-> um
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as November 2020 and as early as March 2019.</summary>
-
-* [November 10th, 2020 Livestream Q&A: Any features you want to add to the game but you don't expect to be added to the vanilla game?](./transcriptions/yt-uVGH_lZnc2g.md) [https://www.youtube.com/watch?v=uVGH_lZnc2g](https://www.youtube.com/watch?v=uVGH_lZnc2g)
-* [October 20th, 2020 Livestream Q&A: Are there any features you guys really want in the game but you can't/won't add?](./transcriptions/yt-QuCAOO3xPQQ.md) [https://www.youtube.com/watch?v=QuCAOO3xPQQ](https://www.youtube.com/watch?v=QuCAOO3xPQQ)
-* [October 6th, 2020 Livestream Q&A: Do you have any good stories for features that didn't get included in the game?](./transcriptions/yt-JkSvpUl7jX8.md) [https://www.youtube.com/watch?v=JkSvpUl7jX8](https://www.youtube.com/watch?v=JkSvpUl7jX8)
-* [March 9th, 2019 Livestream Q&A: Are there any things you had wanted to add to the game but had to cancel?](./transcriptions/yt-akmmqVmHmzM.md) [https://www.youtube.com/watch?v=akmmqVmHmzM](https://www.youtube.com/watch?v=akmmqVmHmzM)
 </details>
 
 ### [Q&A: I played on Experimental, now I can't load my save on previous version, do I have to wait?](./transcriptions/yt-EBoS-s9O_oU.md) [https://www.youtube.com/watch?v=EBoS-s9O_oU](https://www.youtube.com/watch?v=EBoS-s9O_oU)
@@ -2251,103 +10139,6 @@ real
 * [May 19th, 2020 Livestream Q&A: Will we be seeing support for Steam Workshop?](./transcriptions/yt-n4fagQ4eivI.md) [https://www.youtube.com/watch?v=n4fagQ4eivI](https://www.youtube.com/watch?v=n4fagQ4eivI)
 </details>
 
-### [Q&A: Please can I have the future Roadmap back, I need it in my life](./transcriptions/yt-AlerpJ2AaXQ.md) [https://www.youtube.com/watch?v=AlerpJ2AaXQ](https://www.youtube.com/watch?v=AlerpJ2AaXQ)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> please can i have the future roadmap
->
-> back i need in my life
->
-> a lot of people actually when i brought
->
-> this up a while ago
->
-> a lot of people didn't want a roadmap
->
-> for satisfactory because we we're not
->
-> going to have a roadmap
->
-> again that's like you know in may we're
->
-> going to release this when april will
->
-> release that
->
-> because we we we can't keep that
->
-> we don't like if we need to delay we
->
-> have we want to delay like we want to
->
-> make it better
->
-> uh we don't want to rush things and
->
-> having a roadmap makes it
->
-> kind of that we need to commit to a
->
-> certain degree
->
-> and we're not fans of that
->
-> so no plans for road maps
->
-> currently
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as December 2020 and as early as March 2020.</summary>
-
-* [December 8th, 2020 Livestream Q&A: I would be interested to see your in-house roadmap](./transcriptions/yt-D0LY0PxkSJM.md) [https://www.youtube.com/watch?v=D0LY0PxkSJM](https://www.youtube.com/watch?v=D0LY0PxkSJM)
-* [September 1st, 2020 Livestream Q&A: Roadmap?](./transcriptions/yt-iSMAUqquuvc.md) [https://www.youtube.com/watch?v=iSMAUqquuvc](https://www.youtube.com/watch?v=iSMAUqquuvc)
-* [August 25th, 2020 Livestream Q&A: Do you have a set of ideas?](./transcriptions/yt-eSN0HQlSJBs.md) [https://www.youtube.com/watch?v=eSN0HQlSJBs](https://www.youtube.com/watch?v=eSN0HQlSJBs)
-* [March 24th, 2020 Livestream Q&A: Will there be a roadmap again for Updates?](./transcriptions/yt-EiqFP9bm7v4.md) [https://www.youtube.com/watch?v=EiqFP9bm7v4](https://www.youtube.com/watch?v=EiqFP9bm7v4)
-</details>
-
-### [Q&A: Signs when?](./transcriptions/yt-F3BYeHIbZzU.md) [https://www.youtube.com/watch?v=F3BYeHIbZzU](https://www.youtube.com/watch?v=F3BYeHIbZzU)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> signs when don't know
->
-> tomorrow no i'm just kidding we're not
->
-> making signs tomorrow you guys i'm
->
-> kidding
->
-> i realized that i can't say that
->
->  anymore because
->
-> uh we'll have signs at some point in the
->
-> game but i don't know when
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 7 other times, as recently as March 2021 and as early as June 2020.</summary>
-
-* [March 2nd, 2021 Livestream Q&A: Will there be signs in Update 4?](./transcriptions/yt-8BmHQuMW_L8.md) [https://www.youtube.com/watch?v=8BmHQuMW_L8](https://www.youtube.com/watch?v=8BmHQuMW_L8)
-* [February 16th, 2021 Livestream Q&A: Will there be signs in future updates?](./transcriptions/yt--t832FeMogU.md) [https://www.youtube.com/watch?v=-t832FeMogU](https://www.youtube.com/watch?v=-t832FeMogU)
-* [January 26th, 2021 Livestream Q&A: Are we getting signs any time soon?](./transcriptions/yt-RAYufEKcGLk.md) [https://www.youtube.com/watch?v=RAYufEKcGLk](https://www.youtube.com/watch?v=RAYufEKcGLk)
-* [November 3rd, 2020 Livestream Q&A: When do Signs come?](./transcriptions/yt-5PwIEaLRDRY.md) [https://www.youtube.com/watch?v=5PwIEaLRDRY](https://www.youtube.com/watch?v=5PwIEaLRDRY)
-* [September 29th, 2020 Livestream Q&A: Can we get Signs in the game?](./transcriptions/yt-P1hgqMJ8MW0.md) [https://www.youtube.com/watch?v=P1hgqMJ8MW0](https://www.youtube.com/watch?v=P1hgqMJ8MW0)
-* [August 25th, 2020 Livestream Q&A: Signs for Hypertube Entrances?](./transcriptions/yt-y3w-vPtVjog.md) [https://www.youtube.com/watch?v=y3w-vPtVjog](https://www.youtube.com/watch?v=y3w-vPtVjog)
-* [June 8th, 2020 Livestream Q&A: What about Signs?](./transcriptions/yt-UGKquiGR0CY.md) [https://www.youtube.com/watch?v=UGKquiGR0CY](https://www.youtube.com/watch?v=UGKquiGR0CY)
-</details>
-
 ### Q&A: Solar panel? [https://www.youtube.com/watch?v=pnqysWUuGhM](https://www.youtube.com/watch?v=pnqysWUuGhM)
 
 <details>
@@ -2356,87 +10147,6 @@ real
 * [November 17th, 2020 Livestream Q&A: Can we add Solar Power?](./transcriptions/yt-_Uf5e-J9TwA.md) [https://www.youtube.com/watch?v=_Uf5e-J9TwA](https://www.youtube.com/watch?v=_Uf5e-J9TwA)
 * [October 20th, 2020 Livestream Q&A: Solar Panels?](./transcriptions/yt-zpNZHeAOoQE.md) [https://www.youtube.com/watch?v=zpNZHeAOoQE](https://www.youtube.com/watch?v=zpNZHeAOoQE)
 * [August 25th, 2020 Livestream Q&A: Why are there no Solar Panels ?](./transcriptions/yt-C1XaJJmvg1M.md) [https://www.youtube.com/watch?v=C1XaJJmvg1M](https://www.youtube.com/watch?v=C1XaJJmvg1M)
-</details>
-
-### [Q&A: Update on the Mug?](./transcriptions/yt-9pG00Koq8zY.md) [https://www.youtube.com/watch?v=9pG00Koq8zY](https://www.youtube.com/watch?v=9pG00Koq8zY)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> update on the mug um
->
-> i don't know but i know that we are
->
-> working on that and we are
->
-> uh we made a lot of progress
->
-> uh recently
->
-> i didn't know i had to tell you guys i
->
-> did not know how much work
->
-> it was setting up merch uh geez
->
-> that's a lot of work um it takes so long
->
-> to do it and uh
->
-> a lot of people are involved um so
->
-> i used to be on you guys the side we're
->
-> like why isn't this done yet why isn't
->
-> this out you should be out where is
->
-> merch now that i've been on the other
->
-> side the receiving side
->
-> i'm like oh how how do games get merged
->
-> so quickly out
->
-> insane
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as March 2021 and as early as February 2021.</summary>
-
-* [March 2nd, 2021 Livestream Q&A: Coffee Mug?](./transcriptions/yt-eBG3cwtdwuY.md) [https://www.youtube.com/watch?v=eBG3cwtdwuY](https://www.youtube.com/watch?v=eBG3cwtdwuY)
-* [February 16th, 2021 Livestream Q&A: Where's the mug?](./transcriptions/yt-lABA3NfAMXw.md) [https://www.youtube.com/watch?v=lABA3NfAMXw](https://www.youtube.com/watch?v=lABA3NfAMXw)
-* [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./transcriptions/yt-bQnAGoo8jQA.md) [https://www.youtube.com/watch?v=bQnAGoo8jQA](https://www.youtube.com/watch?v=bQnAGoo8jQA)
-</details>
-
-### [Q&A: When can we go to space?](./transcriptions/yt-eL7PT4_wRmY.md) [https://www.youtube.com/watch?v=eL7PT4_wRmY](https://www.youtube.com/watch?v=eL7PT4_wRmY)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> when can we go to space uh never not in
->
-> our game at least
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as February 2021 and as early as February 2019.</summary>
-
-* [February 23rd, 2021 Livestream Q&A: Planning on making any space stuff?](./transcriptions/yt-pYPBpZdBvP4.md) [https://www.youtube.com/watch?v=pYPBpZdBvP4](https://www.youtube.com/watch?v=pYPBpZdBvP4)
-* [February 16th, 2021 Livestream Q&A: Do you guys plan on any space stations or building amongst multi planets?](./transcriptions/yt-OJ8LnojSUzo.md) [https://www.youtube.com/watch?v=OJ8LnojSUzo](https://www.youtube.com/watch?v=OJ8LnojSUzo)
-* [February 9th, 2021 Livestream Q&A: Are there going to be other planets in the game?](./transcriptions/yt-Xg0nkRNXaIk.md) [https://www.youtube.com/watch?v=Xg0nkRNXaIk](https://www.youtube.com/watch?v=Xg0nkRNXaIk)
-* August 25th, 2020 Livestream Q&A: Will there be a rocket to leave the planet? [https://clips.twitch.tv/BusyPowerfulWombatSoonerLater](https://clips.twitch.tv/BusyPowerfulWombatSoonerLater)
-* [May 19th, 2020 Livestream Q&A: Planet has floating rocks, is not bound by Earth physics?](./transcriptions/yt-jXwIeLGuSvI.md) [https://www.youtube.com/watch?v=jXwIeLGuSvI](https://www.youtube.com/watch?v=jXwIeLGuSvI)
-* [March 9th, 2019 Livestream Q&A: Will the game expand into space or will it stay on the ground?](./transcriptions/yt-Ea0f72zZshQ.md) [https://www.youtube.com/watch?v=Ea0f72zZshQ](https://www.youtube.com/watch?v=Ea0f72zZshQ)
-* February 20th, 2019 Livestream Q&A: Can you travel to other planets? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314)
-* February 6th, 2019 Livestream Q&A: Will there be outer space & galaxies? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841)
 </details>
 
 ### [Q&A: Will the game Soundtrack come to Spotify soon?](./transcriptions/yt-bBS_pCVpXwY.md) [https://www.youtube.com/watch?v=bBS_pCVpXwY](https://www.youtube.com/watch?v=bBS_pCVpXwY)
@@ -2496,72 +10206,6 @@ real
 
 * [February 9th, 2021 Livestream Q&A: Do you have any plans for the Radar Towers?](./transcriptions/yt-Jb1JBMGknBY.md) [https://www.youtube.com/watch?v=Jb1JBMGknBY](https://www.youtube.com/watch?v=Jb1JBMGknBY)
 * [December 15th, 2020 Livestream Q&A: Will Radar Towers get a Mk.2 version?](./transcriptions/yt--2Z0rsxuisQ.md) [https://www.youtube.com/watch?v=-2Z0rsxuisQ](https://www.youtube.com/watch?v=-2Z0rsxuisQ)
-</details>
-
-### [Q&A: Will there be a no-mob option ?](./transcriptions/yt-KFT0l0kO5qg.md) [https://www.youtube.com/watch?v=KFT0l0kO5qg](https://www.youtube.com/watch?v=KFT0l0kO5qg)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will it be a no mob option yes in the
->
-> future we're
->
-> going to have like a pacifist mode uh to
->
-> the game
->
-> or and uh probably a creative mode too
->
-> at some point
->
-> uh we just want to get like this is it's
->
-> kind of important for us to not have
->
-> that
->
-> right now because we need to like get
->
-> feedback on
->
-> how the game plays and like be able to
->
-> see you guys play it in the way that
->
-> uh the game is in its current state
->
-> because we know that
->
-> you know once we have you know creative
->
-> mode or whatever then people are gonna
->
-> play it like that and
->
-> we if we have past smith mode then we
->
-> know what that game will look like we
->
-> kind of need to know
->
-> what it looks like right now so we can
->
-> balance the game for it that's why we've
->
-> been
->
-> holding off and putting that in the game
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as August 2020.</summary>
-
-* [September 8th, 2020 Livestream Q&A: Will there be a Peacfull Mode with no Hostile Creatures?](./transcriptions/yt-yS_1rXuvxFw.md) [https://www.youtube.com/watch?v=yS_1rXuvxFw](https://www.youtube.com/watch?v=yS_1rXuvxFw)
-* August 18th, 2020 Livestream Q&A: Will there be a no combat/fight version? [https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid](https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid)
 </details>
 
 ### [Q&A: Will there ever be a limitation to floating foundations in the air?](./transcriptions/yt-ryFai7jtoKY.md) [https://www.youtube.com/watch?v=ryFai7jtoKY](https://www.youtube.com/watch?v=ryFai7jtoKY)
@@ -2652,12 +10296,13 @@ real
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 18 other times, as recently as March 2021 and as early as June 2020.</summary>
+<summary>This question may have been asked previously at least 19 other times, as recently as March 2021 and as early as June 2020.</summary>
 
 * March 23rd, 2021 Livestream Q&A: Will Trains have some sort of signalling in the future? [https://www.youtube.com/watch?v=Ir3GVM1fDU0](https://www.youtube.com/watch?v=Ir3GVM1fDU0)
 * March 16th, 2021 Livestream Q&A: Train Collision in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5878&end=5885](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5878&end=5885)
 * [February 23rd, 2021 Livestream Q&A: Any news on Train revamp?](./transcriptions/yt-_kBUD_mMahs.md) [https://www.youtube.com/watch?v=_kBUD_mMahs](https://www.youtube.com/watch?v=_kBUD_mMahs)
 * [February 2nd, 2021 Livestream Q&A: Train Collisions?](./transcriptions/yt-rCOD5becD6M.md) [https://www.youtube.com/watch?v=rCOD5becD6M](https://www.youtube.com/watch?v=rCOD5becD6M)
+* [January 26th, 2021 Livestream Q&A: Have there been any changes on Train collision stuff?](./transcriptions/yt-KvIFKOokxYE.md) [https://www.youtube.com/watch?v=KvIFKOokxYE](https://www.youtube.com/watch?v=KvIFKOokxYE)
 * [January 12th, 2021 Livestream Q&A: Any new information regarding Signal system for Trains?](./transcriptions/yt-Bu2TPRFV_2o.md) [https://www.youtube.com/watch?v=Bu2TPRFV_2o](https://www.youtube.com/watch?v=Bu2TPRFV_2o)
 * [December 15th, 2020 Livestream Q&A: Train Update?](./transcriptions/yt-ts7TQnRykB0.md) [https://www.youtube.com/watch?v=ts7TQnRykB0](https://www.youtube.com/watch?v=ts7TQnRykB0)
 * [December 8th, 2020 Livestream Q&A: Any news on Train Signals?](./transcriptions/yt-V-OVvjoUAmg.md) [https://www.youtube.com/watch?v=V-OVvjoUAmg](https://www.youtube.com/watch?v=V-OVvjoUAmg)
@@ -2739,66 +10384,7 @@ real
 * [March 9th, 2019 Livestream Q&A: I don't like spiders but arachnophobia mode is even scarier](./transcriptions/yt-GluAI4ipeLY.md) [https://www.youtube.com/watch?v=GluAI4ipeLY](https://www.youtube.com/watch?v=GluAI4ipeLY)
 </details>
 
-## [March 17th, 2021 Livestream](./2021-03-17.md)
-### Q&A: Does this mean that Console is confirmed? [https://play.satisfactory.video/ts-952893339,2991.306945,3010.193065/](https://play.satisfactory.video/ts-952893339,2991.306945,3010.193065/)
-
-<details>
-<summary>This question may have been asked previously at least 25 other times, as recently as February 2021 and as early as March 2019.</summary>
-
-* [February 23rd, 2021 Livestream Q&A: Any plans for bringing the game to Nintendo Switch?](./transcriptions/yt-rfeMtSPOadY.md) [https://www.youtube.com/watch?v=rfeMtSPOadY](https://www.youtube.com/watch?v=rfeMtSPOadY)
-* [February 9th, 2021 Livestream Q&A: Do you plan to release on Console one day?](./transcriptions/yt-mS_O_qnXJp0.md) [https://www.youtube.com/watch?v=mS_O_qnXJp0](https://www.youtube.com/watch?v=mS_O_qnXJp0)
-* [February 2nd, 2021 Livestream Q&A: Will Satisfactory be coming to Console?](./transcriptions/yt-ZljpvyZWlIA.md) [https://www.youtube.com/watch?v=ZljpvyZWlIA](https://www.youtube.com/watch?v=ZljpvyZWlIA)
-* [February 2nd, 2021 Livestream Q&A: Will the game ever be on Console?](./transcriptions/yt-G_pmJbKEhX4.md) [https://www.youtube.com/watch?v=G_pmJbKEhX4](https://www.youtube.com/watch?v=G_pmJbKEhX4)
-* [January 26th, 2021 Livestream Q&A: Release date on PS4?](./transcriptions/yt-xUdlPZfMgDw.md) [https://www.youtube.com/watch?v=xUdlPZfMgDw](https://www.youtube.com/watch?v=xUdlPZfMgDw)
-* [January 19th, 2021 Livestream Q&A: Could we expect the game on Consoles some day?](./transcriptions/yt-OVn94IC65fw.md) [https://www.youtube.com/watch?v=OVn94IC65fw](https://www.youtube.com/watch?v=OVn94IC65fw)
-* [November 24th, 2020 Livestream Q&A: Is Console confirmed for Satisfactory?](./transcriptions/yt-KEJYlYO511Q.md) [https://www.youtube.com/watch?v=KEJYlYO511Q](https://www.youtube.com/watch?v=KEJYlYO511Q)
-* [November 24th, 2020 Livestream Q&A: When is Satisfactory coming to N-Gage?](./transcriptions/yt-qL6dp9eUB58.md) [https://www.youtube.com/watch?v=qL6dp9eUB58](https://www.youtube.com/watch?v=qL6dp9eUB58)
-* [November 24th, 2020 Livestream Q&A: When is Satisfactory coming to Switch?](./transcriptions/yt-tBDXG3OHt1c.md) [https://www.youtube.com/watch?v=tBDXG3OHt1c](https://www.youtube.com/watch?v=tBDXG3OHt1c)
-* [November 17th, 2020 Livestream Q&A: Is Console support coming?](./transcriptions/yt-tqB7YuLM2Fs.md) [https://www.youtube.com/watch?v=tqB7YuLM2Fs](https://www.youtube.com/watch?v=tqB7YuLM2Fs)
-* [October 13th, 2020 Livestream Q&A: I want this to come to XBox Series X & Playstation 5](./transcriptions/yt-9NqrE4ASW9U.md) [https://www.youtube.com/watch?v=9NqrE4ASW9U](https://www.youtube.com/watch?v=9NqrE4ASW9U)
-* [September 15th, 2020 Livestream Q&A: Are you planning on porting the game to PS4?](./transcriptions/yt-0Zv9Qjp2fHI.md) [https://www.youtube.com/watch?v=0Zv9Qjp2fHI](https://www.youtube.com/watch?v=0Zv9Qjp2fHI)
-* [September 15th, 2020 Livestream Q&A: Coming to Consoles?](./transcriptions/yt-09PyuqxekgU.md) [https://www.youtube.com/watch?v=09PyuqxekgU](https://www.youtube.com/watch?v=09PyuqxekgU)
-* [September 8th, 2020 Livestream Q&A: Will this game come out on Console at some point?](./transcriptions/yt-pfD6p4g3fQ8.md) [https://www.youtube.com/watch?v=pfD6p4g3fQ8](https://www.youtube.com/watch?v=pfD6p4g3fQ8)
-* [September 1st, 2020 Livestream Q&A: Satisfactory on next-gen Consoles?](./transcriptions/yt-ed1gycRZji4.md) [https://www.youtube.com/watch?v=ed1gycRZji4](https://www.youtube.com/watch?v=ed1gycRZji4)
-* [August 25th, 2020 Livestream Q&A: Any chance to play Satisfactory on N64?](./transcriptions/yt-Ov7_XZoduDQ.md) [https://www.youtube.com/watch?v=Ov7_XZoduDQ](https://www.youtube.com/watch?v=Ov7_XZoduDQ)
-* August 18th, 2020 Livestream Q&A: Are there any plans to port the game to console? [https://clips.twitch.tv/CogentRichJackalHeyGirl](https://clips.twitch.tv/CogentRichJackalHeyGirl)
-* July 28th, 2020 Livestream Q&A: Satisfactory Console Release [https://clips.twitch.tv/FragileNimbleEggnogDatSheffy](https://clips.twitch.tv/FragileNimbleEggnogDatSheffy)
-* [June 8th, 2020 Livestream Q&A: Will there be Console versions of the game?](./transcriptions/yt-9fvWGq0_Cv0.md) [https://www.youtube.com/watch?v=9fvWGq0_Cv0](https://www.youtube.com/watch?v=9fvWGq0_Cv0)
-* [March 24th, 2020 Livestream Q&A: Satisfactory on the next Console generation?](./transcriptions/yt-9bez-QIVKLA.md) [https://www.youtube.com/watch?v=9bez-QIVKLA](https://www.youtube.com/watch?v=9bez-QIVKLA)
-* [February 11th, 2020 Livestream Q&A: Is Satisfactory going to be on PS5/PS6?](./transcriptions/yt-1v4Mho5Uh9I.md) [https://www.youtube.com/watch?v=1v4Mho5Uh9I](https://www.youtube.com/watch?v=1v4Mho5Uh9I)
-* [January 22nd, 2020 Livestream Q&A: Console?](./transcriptions/yt-k-7WiSX0BYM.md) [https://www.youtube.com/watch?v=k-7WiSX0BYM](https://www.youtube.com/watch?v=k-7WiSX0BYM)
-* [December 19th, 2019 Livestream Q&A: Satisfactory on Switch?](./transcriptions/yt-QVQZ2qgtTsQ.md) [https://www.youtube.com/watch?v=QVQZ2qgtTsQ](https://www.youtube.com/watch?v=QVQZ2qgtTsQ)
-* [March 9th, 2019 Livestream Q&A: Any scope of the game being on consoles?](./transcriptions/yt-bsTq_WiSeCY.md) [https://www.youtube.com/watch?v=bsTq_WiSeCY](https://www.youtube.com/watch?v=bsTq_WiSeCY)
-* [March 9th, 2019 Livestream Q&A: Will you create Console version of Satisfactory?](./transcriptions/yt-_MGUbEI247M.md) [https://www.youtube.com/watch?v=_MGUbEI247M](https://www.youtube.com/watch?v=_MGUbEI247M)
-</details>
-
 ## [March 16th, 2021 Livestream](./2021-03-16.md)
-### Q&A: Giant Crab? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=779&end=790](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=779&end=790)
-
-<details>
-<summary>This question may have been asked previously at least 19 other times, as recently as March 2021 and as early as March 2019.</summary>
-
-* [March 2nd, 2021 Livestream Q&A: Any new Animals?](./transcriptions/yt-c5EEG5MrTF0.md) [https://www.youtube.com/watch?v=c5EEG5MrTF0](https://www.youtube.com/watch?v=c5EEG5MrTF0)
-* [February 23rd, 2021 Livestream Q&A: Any future combat or enemy updates to come?](./transcriptions/yt-MS3_LOEapI4.md) [https://www.youtube.com/watch?v=MS3_LOEapI4](https://www.youtube.com/watch?v=MS3_LOEapI4)
-* [February 9th, 2021 Livestream Q&A: When will you be adding more wildlife?](./transcriptions/yt-gAjKNyUTkMQ.md) [https://www.youtube.com/watch?v=gAjKNyUTkMQ](https://www.youtube.com/watch?v=gAjKNyUTkMQ)
-* [January 19th, 2021 Livestream Q&A: Will there be more Creatures, even more dangerous ones?](./transcriptions/yt-T0jbE_WjQJQ.md) [https://www.youtube.com/watch?v=T0jbE_WjQJQ](https://www.youtube.com/watch?v=T0jbE_WjQJQ)
-* [December 15th, 2020 Livestream Q&A: Will there be new enemies?](./transcriptions/yt-mwN7mAZ2dbg.md) [https://www.youtube.com/watch?v=mwN7mAZ2dbg](https://www.youtube.com/watch?v=mwN7mAZ2dbg)
-* [November 17th, 2020 Livestream Q&A: Any news on big Crab monster?](./transcriptions/yt-tTXExwaqZQM.md) [https://www.youtube.com/watch?v=tTXExwaqZQM](https://www.youtube.com/watch?v=tTXExwaqZQM)
-* [November 10th, 2020 Livestream Q&A: Any plans to add more animals to enemies or dangers?](./transcriptions/yt-RuzL7DdAJ1o.md) [https://www.youtube.com/watch?v=RuzL7DdAJ1o](https://www.youtube.com/watch?v=RuzL7DdAJ1o)
-* [November 3rd, 2020 Livestream Q&A: Are there going to be new Creatures?](./transcriptions/yt-c3jeZv_aYug.md) [https://www.youtube.com/watch?v=c3jeZv_aYug](https://www.youtube.com/watch?v=c3jeZv_aYug)
-* [October 20th, 2020 Livestream Q&A: Will Aliens become more diverse/actually challenging?](./transcriptions/yt-K7fDE5Dg570.md) [https://www.youtube.com/watch?v=K7fDE5Dg570](https://www.youtube.com/watch?v=K7fDE5Dg570)
-* [October 6th, 2020 Livestream Q&A: When do we get the Crab Boss?](./transcriptions/yt-m4PtschrKJc.md) [https://www.youtube.com/watch?v=m4PtschrKJc](https://www.youtube.com/watch?v=m4PtschrKJc)
-* [September 22nd, 2020 Livestream Q&A: Will there be more creatures?](./transcriptions/yt-Yzd466gO44M.md) [https://www.youtube.com/watch?v=Yzd466gO44M](https://www.youtube.com/watch?v=Yzd466gO44M)
-* [September 15th, 2020 Livestream Q&A: Are we ever going to see a new enemy type?](./transcriptions/yt-Kxq543wzKcY.md) [https://www.youtube.com/watch?v=Kxq543wzKcY](https://www.youtube.com/watch?v=Kxq543wzKcY)
-* [September 15th, 2020 Livestream Q&A: Will you add any Monsters/Bosses in the future?](./transcriptions/yt-D_BVMiGNvqI.md) [https://www.youtube.com/watch?v=D_BVMiGNvqI](https://www.youtube.com/watch?v=D_BVMiGNvqI)
-* [September 8th, 2020 Livestream Q&A: Will we ever see the Crab Boss?](./transcriptions/yt-HD54tFdoDTE.md) [https://www.youtube.com/watch?v=HD54tFdoDTE](https://www.youtube.com/watch?v=HD54tFdoDTE)
-* [September 1st, 2020 Livestream Q&A: When will we see the crab?](./transcriptions/yt-yHgb7ySKTMs.md) [https://www.youtube.com/watch?v=yHgb7ySKTMs](https://www.youtube.com/watch?v=yHgb7ySKTMs)
-* [August 25th, 2020 Livestream Q&A: New enemies / creatures?](./transcriptions/yt-TDbNru0heoU.md) [https://www.youtube.com/watch?v=TDbNru0heoU](https://www.youtube.com/watch?v=TDbNru0heoU)
-* [August 25th, 2020 Livestream Q&A: Will we have more monsters?](./transcriptions/yt-shEKhZakMxQ.md) [https://www.youtube.com/watch?v=shEKhZakMxQ](https://www.youtube.com/watch?v=shEKhZakMxQ)
-* July 28th, 2020 Livestream Q&A: More Wildlife? [https://clips.twitch.tv/DirtyHilariousPancakeWow](https://clips.twitch.tv/DirtyHilariousPancakeWow)
-* [March 9th, 2019 Livestream Q&A: Is there more than 5 enemies in?](./transcriptions/yt-DLnUjlixpg8.md) [https://www.youtube.com/watch?v=DLnUjlixpg8](https://www.youtube.com/watch?v=DLnUjlixpg8)
-</details>
-
 ### Mod highlight part 2 Q&A: We broke mods with Update 4, how does the community make them work again? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560)
 
 <details>
@@ -2817,27 +10403,6 @@ real
 
 * [January 26th, 2021 Livestream Q&A: Are we going to increase the limit of only having 4 players per game?](./transcriptions/yt-9Fe7lcAQx9I.md) [https://www.youtube.com/watch?v=9Fe7lcAQx9I](https://www.youtube.com/watch?v=9Fe7lcAQx9I)
 * [March 9th, 2019 Livestream Q&A: Do you want to support more than 4 people?](./transcriptions/yt-wb5HY05QX9I.md) [https://www.youtube.com/watch?v=wb5HY05QX9I](https://www.youtube.com/watch?v=wb5HY05QX9I)
-</details>
-
-### Q&A: Will there be a Creative Mode? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8639&end=8654](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8639&end=8654)
-
-<details>
-<summary>This question may have been asked previously at least 14 other times, as recently as February 2021 and as early as August 2018.</summary>
-
-* [February 2nd, 2021 Livestream Q&A: Is Creative Mode coming?](./transcriptions/yt-aJZ3jTvUHHQ.md) [https://www.youtube.com/watch?v=aJZ3jTvUHHQ](https://www.youtube.com/watch?v=aJZ3jTvUHHQ)
-* [December 15th, 2020 Livestream Q&A: How about Creative Mode?](./transcriptions/yt-pFc0pdgYnlU.md) [https://www.youtube.com/watch?v=pFc0pdgYnlU](https://www.youtube.com/watch?v=pFc0pdgYnlU)
-* December 8th, 2020 Livestream Q&A: Will there be a creative-style mode in the future? [https://www.youtube.com/watch?v=ba7BBZw0IsU](https://www.youtube.com/watch?v=ba7BBZw0IsU)
-* [November 10th, 2020 Livestream Q&A: Is there going to be a Creative Mode?](./transcriptions/yt-NNUESlRoCJ8.md) [https://www.youtube.com/watch?v=NNUESlRoCJ8](https://www.youtube.com/watch?v=NNUESlRoCJ8)
-* [November 3rd, 2020 Livestream Q&A: Is there going to be a Creative Mode?](./transcriptions/yt-Yn4Brcx8CSs.md) [https://www.youtube.com/watch?v=Yn4Brcx8CSs](https://www.youtube.com/watch?v=Yn4Brcx8CSs)
-* [September 29th, 2020 Livestream Q&A: Satisfactory Sandbox ever?](./transcriptions/yt-3m68c85bVUM.md) [https://www.youtube.com/watch?v=3m68c85bVUM](https://www.youtube.com/watch?v=3m68c85bVUM)
-* [September 22nd, 2020 Livestream Q&A: Will there be a Creative Mode?](./transcriptions/yt-nz4VgYaVDDo.md) [https://www.youtube.com/watch?v=nz4VgYaVDDo](https://www.youtube.com/watch?v=nz4VgYaVDDo)
-* [September 1st, 2020 Livestream Q&A: Is there going to be creative mode?](./transcriptions/yt-zZILz6cMKbw.md) [https://www.youtube.com/watch?v=zZILz6cMKbw](https://www.youtube.com/watch?v=zZILz6cMKbw)
-* August 18th, 2020 Livestream Q&A: When is Creative Mode coming? [https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu](https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu)
-* [March 24th, 2020 Livestream Q&A: Creative Mode without having to Mod?](./transcriptions/yt-ww37EE17YP4.md) [https://www.youtube.com/watch?v=ww37EE17YP4](https://www.youtube.com/watch?v=ww37EE17YP4)
-* [March 24th, 2020 Livestream Q&A: Wouldn't you split normal & Creative Mode then not allow switching?](./transcriptions/yt-7xTscBSrsY0.md) [https://www.youtube.com/watch?v=7xTscBSrsY0](https://www.youtube.com/watch?v=7xTscBSrsY0)
-* [March 9th, 2019 Livestream Q&A: Will there be a creative mode?](./transcriptions/yt-eIPuM39KDcE.md) [https://www.youtube.com/watch?v=eIPuM39KDcE](https://www.youtube.com/watch?v=eIPuM39KDcE)
-* [February 6th, 2019 Livestream Q&A: Sandbox mode available?](./transcriptions/yt-Dtm6xIj-wM4,1962.712002,2009.493406.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010)
-* [August 1st, 2018 Livestream Q&A: Will there be a Creative Mode?](./transcriptions/yt-iFAy1NZUOGU,14,29.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29)
 </details>
 
 ### Q&A: Will Update 5 come this year? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8653&end=8716](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8653&end=8716)
@@ -3102,39 +10667,6 @@ real
 * [February 11th, 2020 Livestream Q&A: Are there things people will be surprised by?](./transcriptions/yt-v-f6PgaD4rY.md) [https://www.youtube.com/watch?v=v-f6PgaD4rY](https://www.youtube.com/watch?v=v-f6PgaD4rY)
 </details>
 
-### [Q&A: Will there be at some point Character Customisation?](./transcriptions/yt-fy4_awSdvk0.md) [https://www.youtube.com/watch?v=fy4_awSdvk0](https://www.youtube.com/watch?v=fy4_awSdvk0)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh would it be at some point character
->
-> customization most likely
->
-> i don't know what to what degree but
->
-> yeah
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 11 other times, as recently as February 2021 and as early as February 2019.</summary>
-
-* [February 9th, 2021 Livestream Q&A: When will we be able to get different character customisations?](./transcriptions/yt-x55_Zt2OLQ4.md) [https://www.youtube.com/watch?v=x55_Zt2OLQ4](https://www.youtube.com/watch?v=x55_Zt2OLQ4)
-* [January 12th, 2021 Livestream Q&A: New skins?](./transcriptions/yt--IYD97gEt4w.md) [https://www.youtube.com/watch?v=-IYD97gEt4w](https://www.youtube.com/watch?v=-IYD97gEt4w)
-* December 15th, 2020 Livestream Q&A: Are we adding new skins? [https://www.youtube.com/watch?v=w2zJd6F1Udw](https://www.youtube.com/watch?v=w2zJd6F1Udw)
-* [October 20th, 2020 Livestream Q&A: Are there plans for Character Customisation?](./transcriptions/yt-LAR8rVCHVmw.md) [https://www.youtube.com/watch?v=LAR8rVCHVmw](https://www.youtube.com/watch?v=LAR8rVCHVmw)
-* [September 8th, 2020 Livestream Q&A: Are you going to be able to change characters?](./transcriptions/yt-GymA7otvYYo.md) [https://www.youtube.com/watch?v=GymA7otvYYo](https://www.youtube.com/watch?v=GymA7otvYYo)
-* [September 8th, 2020 Livestream Q&A: Cosmetics for the Pioneer or even Lizard Doggo?](./transcriptions/yt-wFKmvfIOuCY.md) [https://www.youtube.com/watch?v=wFKmvfIOuCY](https://www.youtube.com/watch?v=wFKmvfIOuCY)
-* [August 25th, 2020 Livestream Q&A: Let me personalise my character?](./transcriptions/yt-QyKyNbHPaHg.md) [https://www.youtube.com/watch?v=QyKyNbHPaHg](https://www.youtube.com/watch?v=QyKyNbHPaHg)
-* August 25th, 2020 Livestream Q&A: Let me personalise my character? [https://clips.twitch.tv/CharmingRespectfulFlyFUNgineer](https://clips.twitch.tv/CharmingRespectfulFlyFUNgineer)
-* August 18th, 2020 Livestream Q&A: Additional Suit Variations in the Coupon Shop ? [https://clips.twitch.tv/CourteousMotionlessWrenMcaT](https://clips.twitch.tv/CourteousMotionlessWrenMcaT)
-* [June 8th, 2020 Livestream Q&A: Player skin customisation?](./transcriptions/yt-oJzUWOdpQ5o.md) [https://www.youtube.com/watch?v=oJzUWOdpQ5o](https://www.youtube.com/watch?v=oJzUWOdpQ5o)
-* [February 6th, 2019 Livestream Q&A: Will there be any cosmetics available?](./transcriptions/yt-Dtm6xIj-wM4,3923.903388,3977.117038.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978)
-</details>
-
 ### [Q&A: Will there be Weather in the game?](./transcriptions/yt-m9oykKdGfUE.md) [https://www.youtube.com/watch?v=m9oykKdGfUE](https://www.youtube.com/watch?v=m9oykKdGfUE)
 
 <details>
@@ -3381,17 +10913,6 @@ real
 * August 18th, 2020 Livestream Q&A: Any ice/snow biome plans? [https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl](https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl)
 </details>
 
-### Q&A: Sink Fluids? [https://www.youtube.com/watch?v=_g71DI13oac](https://www.youtube.com/watch?v=_g71DI13oac)
-
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as January 2021 and as early as August 2020.</summary>
-
-* [January 19th, 2021 Livestream Q&A: Sink that accepts Liquids or Gas?](./transcriptions/yt-SskXA-lxaCI.md) [https://www.youtube.com/watch?v=SskXA-lxaCI](https://www.youtube.com/watch?v=SskXA-lxaCI)
-* [October 27th, 2020 Livestream Q&A: Fluid Sink ever going to happen?](./transcriptions/yt-j79cJptq5h8.md) [https://www.youtube.com/watch?v=j79cJptq5h8](https://www.youtube.com/watch?v=j79cJptq5h8)
-* [September 1st, 2020 Livestream Q&A: Will there be something like the Resource Sink but for Fluids?](./transcriptions/yt-nT4pfUlmZBs.md) [https://www.youtube.com/watch?v=nT4pfUlmZBs](https://www.youtube.com/watch?v=nT4pfUlmZBs)
-* [August 25th, 2020 Livestream Q&A: Is the sink going to accept liquids in the future?](./transcriptions/yt-k6ZS5wzlNKs.md) [https://www.youtube.com/watch?v=k6ZS5wzlNKs](https://www.youtube.com/watch?v=k6ZS5wzlNKs)
-</details>
-
 ### [Q&A: Will the new Update affect Alternate Recipes?](./transcriptions/yt-AXoRnwF1P9E.md) [https://www.youtube.com/watch?v=AXoRnwF1P9E](https://www.youtube.com/watch?v=AXoRnwF1P9E)
 
 <details>
@@ -3477,23 +10998,6 @@ real
 
 * [November 10th, 2020 Livestream Q&A: Can I switch between Experimental & Early Access?](./transcriptions/yt-cs8oV_l9O-k.md) [https://www.youtube.com/watch?v=cs8oV_l9O-k](https://www.youtube.com/watch?v=cs8oV_l9O-k)
 * [October 27th, 2020 Livestream Q&A: Can I play my Early Access save on Experimental?](./transcriptions/yt-d9u5Na0jBfo.md) [https://www.youtube.com/watch?v=d9u5Na0jBfo](https://www.youtube.com/watch?v=d9u5Na0jBfo)
-</details>
-
-### Q&A: Please add semi tower defense in this game I'm begging you! [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4)
-
-<details>
-<summary>This question may have been asked previously at least 10 other times, as recently as January 2021 and as early as June 2018.</summary>
-
-* January 22nd, 2021 Instagram AMA Q&A: Is there a plan for automatize the base defense? [https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4](https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4)
-* [December 15th, 2020 Livestream Q&A: Can we get turrets and more PvE?](./transcriptions/yt-sJnuRV0OGF0.md) [https://www.youtube.com/watch?v=sJnuRV0OGF0](https://www.youtube.com/watch?v=sJnuRV0OGF0)
-* [December 8th, 2020 Livestream Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) [https://www.youtube.com/watch?v=5-8ACtMU2_E](https://www.youtube.com/watch?v=5-8ACtMU2_E)
-* [October 13th, 2020 Livestream Q&A: If Factories can get attacked?](./transcriptions/yt-tK_m7AqM4sY.md) [https://www.youtube.com/watch?v=tK_m7AqM4sY](https://www.youtube.com/watch?v=tK_m7AqM4sY)
-* [September 22nd, 2020 Livestream Q&A: Hoping for Base Defence?](./transcriptions/yt-RjFIQhJY824.md) [https://www.youtube.com/watch?v=RjFIQhJY824](https://www.youtube.com/watch?v=RjFIQhJY824)
-* August 18th, 2020 Livestream Q&A: Will there be animals that attack the base? [https://clips.twitch.tv/ProtectiveTubularCatJebaited](https://clips.twitch.tv/ProtectiveTubularCatJebaited)
-* [March 9th, 2019 Livestream Q&A: Can creatures in any way disrupt your factory?](./transcriptions/yt-R2Fms8EjhN8.md) [https://www.youtube.com/watch?v=R2Fms8EjhN8](https://www.youtube.com/watch?v=R2Fms8EjhN8)
-* [March 9th, 2019 Livestream Q&A: Will there be turrets or something in the game?](./transcriptions/yt-xNBFywqCrxM.md) [https://www.youtube.com/watch?v=xNBFywqCrxM](https://www.youtube.com/watch?v=xNBFywqCrxM)
-* [February 6th, 2019 Livestream Q&A: Why not turrets like Sanctum?](./transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640)
-* [June 22nd, 2018 Livestream Q&A: Will we need to defend our factory?](./transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
 </details>
 
 ### [Q&A: Why does it go to Experimental first?](./transcriptions/yt-F-q3vfj__M4,31.36466666666667,80.08.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81)
@@ -3694,50 +11198,6 @@ real
 
 * [December 8th, 2020 Livestream Q&A: DirectX 12 when?](./transcriptions/yt-BxAAQTxvy-Y.md) [https://www.youtube.com/watch?v=BxAAQTxvy-Y](https://www.youtube.com/watch?v=BxAAQTxvy-Y)
 * [November 17th, 2020 Livestream Q&A: DX12 more efficient?](./transcriptions/yt-FlEUMECDwS4.md) [https://www.youtube.com/watch?v=FlEUMECDwS4](https://www.youtube.com/watch?v=FlEUMECDwS4)
-</details>
-
-### [Q&A: S.A.M. Ore getting a main use any time soon?](./transcriptions/yt-ow33F_nK6nc.md) [https://www.youtube.com/watch?v=ow33F_nK6nc](https://www.youtube.com/watch?v=ow33F_nK6nc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> um samurai getting a main use
->
-> anytime soon i wouldn't say anytime soon
->
-> because we're planning to use
->
-> um sam or for uh the story part
->
-> of the game um and the story part is
->
-> slated for update
->
-> the the 1.0 release that's when it's
->
-> going to be used so i don't think
->
-> there's going to be any use for it up
->
-> until that point
->
-> um at least to the best of my knowledge
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as January 2021 and as early as March 2019.</summary>
-
-* [January 12th, 2021 Livestream Q&A: What's happening with S.A.M. Ore?](./transcriptions/yt-f0Z9VIAK5Iw.md) [https://www.youtube.com/watch?v=f0Z9VIAK5Iw](https://www.youtube.com/watch?v=f0Z9VIAK5Iw)
-* [October 20th, 2020 Livestream Q&A: What's the secret behind S.A.M. Ore?](./transcriptions/yt-tXqk1eu0-BQ.md) [https://www.youtube.com/watch?v=tXqk1eu0-BQ](https://www.youtube.com/watch?v=tXqk1eu0-BQ)
-* [September 29th, 2020 Livestream Q&A: How much S.A.M. Ore should we stock up on?](./transcriptions/yt-vBGfC7j2AyI.md) [https://www.youtube.com/watch?v=vBGfC7j2AyI](https://www.youtube.com/watch?v=vBGfC7j2AyI)
-* [August 25th, 2020 Livestream Q&A: Please tell me Update 4 will use S.A.M. Ore](./transcriptions/yt--b2L_nlW_Fo.md) [https://www.youtube.com/watch?v=-b2L_nlW_Fo](https://www.youtube.com/watch?v=-b2L_nlW_Fo)
-* August 18th, 2020 Livestream Q&A: S.A.M. Ore uses? [https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis](https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis)
-* [February 11th, 2020 Livestream Q&A: S.A.M. Ore?](./transcriptions/yt-6r-s6Hk7QwY.md) [https://www.youtube.com/watch?v=6r-s6Hk7QwY](https://www.youtube.com/watch?v=6r-s6Hk7QwY)
-* [December 19th, 2019 Livestream Q&A: S.A.M. Ore?](./transcriptions/yt-irJw2itG4wM.md) [https://www.youtube.com/watch?v=irJw2itG4wM](https://www.youtube.com/watch?v=irJw2itG4wM)
-* [March 9th, 2019 Livestream Q&A: What do you use S.A.M. Ore for?](./transcriptions/yt-jdOQXcBiSH0.md) [https://www.youtube.com/watch?v=jdOQXcBiSH0](https://www.youtube.com/watch?v=jdOQXcBiSH0)
 </details>
 
 ### [Q&A: So are you packing Update 4 to the Engine Upgrade?](./transcriptions/yt-9QEf5938sPk.md) [https://www.youtube.com/watch?v=9QEf5938sPk](https://www.youtube.com/watch?v=9QEf5938sPk)
@@ -4255,30 +11715,6 @@ real
 * [March 9th, 2019 Livestream Q&A: Where is Lizard Doggo?](./transcriptions/yt-bB6SOIoAYg4.md) [https://www.youtube.com/watch?v=bB6SOIoAYg4](https://www.youtube.com/watch?v=bB6SOIoAYg4)
 </details>
 
-### [Q&A: Can we sleep through nights?](./transcriptions/yt-uskbxtN069Q.md) [https://www.youtube.com/watch?v=uskbxtN069Q](https://www.youtube.com/watch?v=uskbxtN069Q)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> can we sleep through nights no you can't
->
-> um in real in rely for a game
->
-> in my case it doesn't matter
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as January 2021 and as early as August 2020.</summary>
-
-* [January 26th, 2021 Livestream Q&A: Ability to sleep coming any time?](./transcriptions/yt-kDwywg_UJoc.md) [https://www.youtube.com/watch?v=kDwywg_UJoc](https://www.youtube.com/watch?v=kDwywg_UJoc)
-* [October 6th, 2020 Livestream Q&A: When is the Hub bed going to work like the Minecraft one?](./transcriptions/yt-9o02HnPy5cY.md) [https://www.youtube.com/watch?v=9o02HnPy5cY](https://www.youtube.com/watch?v=9o02HnPy5cY)
-* August 11th, 2020 Livestream Q&A: Sleep in-game? (Part 1) [https://clips.twitch.tv/DaintyYummyLemurANELE](https://clips.twitch.tv/DaintyYummyLemurANELE)
-* August 11th, 2020 Livestream Q&A: Sleep in-game? (Part 2) [https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime](https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime)
-</details>
-
 ### [Q&A: Does obscuring belts actually help with performance?](./transcriptions/yt-JDJ5hvAkrWw.md) [https://www.youtube.com/watch?v=JDJ5hvAkrWw](https://www.youtube.com/watch?v=JDJ5hvAkrWw)
 
 <details>
@@ -4407,38 +11843,6 @@ real
 * [January 22nd, 2020 Livestream Q&A: Are we getting Story?](./transcriptions/yt-0U_N0TCXqxU.md) [https://www.youtube.com/watch?v=0U_N0TCXqxU](https://www.youtube.com/watch?v=0U_N0TCXqxU)
 * [December 19th, 2019 Livestream Q&A: Is there going to be a storyline?](./transcriptions/yt-mFxik_NlE0w.md) [https://www.youtube.com/watch?v=mFxik_NlE0w](https://www.youtube.com/watch?v=mFxik_NlE0w)
 * [February 6th, 2019 Livestream Q&A: Is there Story in the game?](./transcriptions/yt-Dtm6xIj-wM4,825.908452,912.113976.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=825&end=913](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=825&end=913)
-</details>
-
-### [Q&A: Possible to get randomly generated maps?](./transcriptions/yt-FkM6JZIZrqg.md) [https://www.youtube.com/watch?v=FkM6JZIZrqg](https://www.youtube.com/watch?v=FkM6JZIZrqg)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> yep also get random generated maps uh
->
-> probably not gonna happen no probably
->
-> not gonna happen
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 12 other times, as recently as February 2021 and as early as June 2018.</summary>
-
-* [February 9th, 2021 Livestream Q&A: Why not have self generated maps?](./transcriptions/yt-hKIm2mk5AhM.md) [https://www.youtube.com/watch?v=hKIm2mk5AhM](https://www.youtube.com/watch?v=hKIm2mk5AhM)
-* [November 24th, 2020 Livestream Q&A: Procedural generation of the World?](./transcriptions/yt-q6tkuGjM4zY.md) [https://www.youtube.com/watch?v=q6tkuGjM4zY](https://www.youtube.com/watch?v=q6tkuGjM4zY)
-* [November 3rd, 2020 Livestream Q&A: Map is amazing, but infinite generation?](./transcriptions/yt-2yoGAha7ju0.md) [https://www.youtube.com/watch?v=2yoGAha7ju0](https://www.youtube.com/watch?v=2yoGAha7ju0)
-* [September 15th, 2020 Livestream Q&A: Any plans for randomly generated worlds / Procedurally Generated maps?](./transcriptions/yt-eo_84m3ZYfQ.md) [https://www.youtube.com/watch?v=eo_84m3ZYfQ](https://www.youtube.com/watch?v=eo_84m3ZYfQ)
-* [September 8th, 2020 Livestream Q&A: Procedural Generation?](./transcriptions/yt-lcZJKlvLZuo.md) [https://www.youtube.com/watch?v=lcZJKlvLZuo](https://www.youtube.com/watch?v=lcZJKlvLZuo)
-* [August 25th, 2020 Livestream Q&A: How about procedural maps?](./transcriptions/yt-oYVWBcgkahY.md) [https://www.youtube.com/watch?v=oYVWBcgkahY](https://www.youtube.com/watch?v=oYVWBcgkahY)
-* August 25th, 2020 Livestream Q&A: How about procedural maps? [https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea](https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea)
-* August 11th, 2020 Livestream Q&A: Randomly Generated Maps: [https://clips.twitch.tv/OilyBloodyMangoFutureMan](https://clips.twitch.tv/OilyBloodyMangoFutureMan)
-* [March 9th, 2019 Livestream Q&A: Another game mode with a procedurally generated world?](./transcriptions/yt-GZlK2fIlYVk.md) [https://www.youtube.com/watch?v=GZlK2fIlYVk](https://www.youtube.com/watch?v=GZlK2fIlYVk)
-* [March 9th, 2019 Livestream Q&A: The map is pre-made, not procedurally generated?](./transcriptions/yt-229Wl8AMQx8.md) [https://www.youtube.com/watch?v=229Wl8AMQx8](https://www.youtube.com/watch?v=229Wl8AMQx8)
-* [February 20th, 2019 Livestream Q&A: Is the World procedurally generated?](./transcriptions/yt-CB9bSigNYH8,3150.343797,3165.212187.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166)
-* [June 22nd, 2018 Livestream Q&A: Is the Map procedurally generated?](./transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
 </details>
 
 ### [Q&A: What engine do you use & what programming language?](./transcriptions/yt-L-HM1a7oSK8.md) [https://www.youtube.com/watch?v=L-HM1a7oSK8](https://www.youtube.com/watch?v=L-HM1a7oSK8)
@@ -4573,27 +11977,6 @@ real
 </details>
 
 ## [February 9th, 2021 Livestream](./2021-02-09.md)
-### [Q&A: $1 Toilet DLC?](./transcriptions/yt-mBpIB3ojMC8.md) [https://www.youtube.com/watch?v=mBpIB3ojMC8](https://www.youtube.com/watch?v=mBpIB3ojMC8)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh one dollar toilet dlc it's coming you
->
-> guys
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as September 2020 and as early as January 2020.</summary>
-
-* [September 1st, 2020 Livestream Q&A: Flushable Toilet DLC?](./transcriptions/yt-Z7KaqsyT7_k.md) [https://www.youtube.com/watch?v=Z7KaqsyT7_k](https://www.youtube.com/watch?v=Z7KaqsyT7_k)
-* [June 8th, 2020 Livestream Q&A: Flushable Toilet?](./transcriptions/yt-FlaP38G7O5U.md) [https://www.youtube.com/watch?v=FlaP38G7O5U](https://www.youtube.com/watch?v=FlaP38G7O5U)
-* [January 22nd, 2020 Livestream Q&A: Microtranscation DLC?](./transcriptions/yt-ithVAX7EptE.md) [https://www.youtube.com/watch?v=ithVAX7EptE](https://www.youtube.com/watch?v=ithVAX7EptE)
-</details>
-
 ### [Q&A: Any plans for Smart Mergers yet?](./transcriptions/yt-KUfze04EJmA.md) [https://www.youtube.com/watch?v=KUfze04EJmA](https://www.youtube.com/watch?v=KUfze04EJmA)
 
 <details>
@@ -4739,42 +12122,6 @@ real
 * [September 1st, 2020 Livestream Q&A: DXR/RTX/DLSS ?](./transcriptions/yt-QuoiJ9lpkB4.md) [https://www.youtube.com/watch?v=QuoiJ9lpkB4](https://www.youtube.com/watch?v=QuoiJ9lpkB4)
 </details>
 
-### [Q&A: Is flyable transport an option?](./transcriptions/yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> it's all fine size is flyable transport
->
-> an option like a chopper there's the
->
-> big manta in the sky you can fly at him
->
-> yeah that's unfortunately only
->
-> yeah that's all you're gonna get
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 12 other times, as recently as January 2021 and as early as March 2019.</summary>
-
-* [January 26th, 2021 Livestream Q&A: Can we expect aircraft any time?](./transcriptions/yt-XMIUlTU9xcU.md) [https://www.youtube.com/watch?v=XMIUlTU9xcU](https://www.youtube.com/watch?v=XMIUlTU9xcU)
-* [November 10th, 2020 Livestream Q&A: Any plans for a helicopter so we don't have to turn into spaghetti to get across the map?](./transcriptions/yt-l-k7qpxgpRQ.md) [https://www.youtube.com/watch?v=l-k7qpxgpRQ](https://www.youtube.com/watch?v=l-k7qpxgpRQ)
-* [November 3rd, 2020 Livestream Q&A: Will we get Flying Vehicles?](./transcriptions/yt-CkWtF0M2ddY.md) [https://www.youtube.com/watch?v=CkWtF0M2ddY](https://www.youtube.com/watch?v=CkWtF0M2ddY)
-* [September 29th, 2020 Livestream Q&A: Will we see air vehicles some time in the future?](./transcriptions/yt-qJ56jBYTtAc.md) [https://www.youtube.com/watch?v=qJ56jBYTtAc](https://www.youtube.com/watch?v=qJ56jBYTtAc)
-* [September 8th, 2020 Livestream Q&A: The game needs small Flying Vehicles to travel long distance?](./transcriptions/yt-i0_bbpQ_91I.md) [https://www.youtube.com/watch?v=i0_bbpQ_91I](https://www.youtube.com/watch?v=i0_bbpQ_91I)
-* [September 8th, 2020 Livestream Q&A: What're your guys thoughts on transport beyond Jetpacks ?](./transcriptions/yt--sa8wjg4lYk.md) [https://www.youtube.com/watch?v=-sa8wjg4lYk](https://www.youtube.com/watch?v=-sa8wjg4lYk)
-* [August 25th, 2020 Livestream Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](./transcriptions/yt-Ds9NIPna9_4.md) [https://www.youtube.com/watch?v=Ds9NIPna9_4](https://www.youtube.com/watch?v=Ds9NIPna9_4)
-* August 25th, 2020 Livestream Q&A: How about a drone to fly around? [https://www.youtube.com/watch?v=1msTsQksmbI](https://www.youtube.com/watch?v=1msTsQksmbI)
-* [August 25th, 2020 Livestream Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ?](./transcriptions/yt-mAA2oX9mDOw.md) [https://www.youtube.com/watch?v=mAA2oX9mDOw](https://www.youtube.com/watch?v=mAA2oX9mDOw)
-* [December 19th, 2019 Livestream Q&A: Give us a flight vehicle?](./transcriptions/yt-Fb6JnI4Bb4I.md) [https://www.youtube.com/watch?v=Fb6JnI4Bb4I](https://www.youtube.com/watch?v=Fb6JnI4Bb4I)
-* [December 19th, 2019 Livestream Q&A: Have you considerd Flying Drones?](./transcriptions/yt-KYox3m1mePU.md) [https://www.youtube.com/watch?v=KYox3m1mePU](https://www.youtube.com/watch?v=KYox3m1mePU)
-* [March 9th, 2019 Livestream Q&A: Flying vehicles for overhead view of your factory?](./transcriptions/yt-njN-07Q5-8s.md) [https://www.youtube.com/watch?v=njN-07Q5-8s](https://www.youtube.com/watch?v=njN-07Q5-8s)
-</details>
-
 ### [Q&A: Lizard Doggo plushie?](./transcriptions/yt-FlOFnqAw5go.md) [https://www.youtube.com/watch?v=FlOFnqAw5go](https://www.youtube.com/watch?v=FlOFnqAw5go)
 
 <details>
@@ -4910,54 +12257,6 @@ real
 * [December 19th, 2019 Livestream Q&A: Improve Vehicles in general?](./transcriptions/yt-pRuIjTp-u5I.md) [https://www.youtube.com/watch?v=pRuIjTp-u5I](https://www.youtube.com/watch?v=pRuIjTp-u5I)
 </details>
 
-### [Q&A: Is there a way we can make Autosave more seamless?](./transcriptions/yt-UFWTP8Nu-MI.md) [https://www.youtube.com/watch?v=UFWTP8Nu-MI](https://www.youtube.com/watch?v=UFWTP8Nu-MI)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh there's a way we can make autosave
->
-> more seamless
->
-> um not really that's kind of we are
->
-> working on that
->
-> yeah that's on us yeah we work on it we
->
-> are taking the first step in order to be
->
-> able to get that better
->
-> but it's it's taki it's a big system
->
-> like it's a huge system so
->
-> it's it's taking it's also relies on
->
-> like other systems that's why it's
->
-> taking so long but it's it's totally on
->
-> our
->
-> prior list and that's it's gonna happen
->
-> at some point i think
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as September 2020 and as early as May 2020.</summary>
-
-* [September 1st, 2020 Livestream Q&A: Any chance of Autosave process not creating giant frame drops ?](./transcriptions/yt-L6SZHtX7Jmg.md) [https://www.youtube.com/watch?v=L6SZHtX7Jmg](https://www.youtube.com/watch?v=L6SZHtX7Jmg)
-* [August 25th, 2020 Livestream Q&A: Better Autosave system?](./transcriptions/yt-EGl4PxUS0J8.md) [https://www.youtube.com/watch?v=EGl4PxUS0J8](https://www.youtube.com/watch?v=EGl4PxUS0J8)
-* [August 25th, 2020 Livestream Q&A: Is it possible to have the Autosave not noticeable at all ?](./transcriptions/yt-ap-EONXus_4.md) [https://www.youtube.com/watch?v=ap-EONXus_4](https://www.youtube.com/watch?v=ap-EONXus_4)
-* [May 19th, 2020 Livestream Q&A: Save stutter?](./transcriptions/yt-n523WIVo5LM.md) [https://www.youtube.com/watch?v=n523WIVo5LM](https://www.youtube.com/watch?v=n523WIVo5LM)
-</details>
-
 ### [Q&A: KFConsole exclusive?](./transcriptions/yt-nK8NUTMQVTM.md) [https://www.youtube.com/watch?v=nK8NUTMQVTM](https://www.youtube.com/watch?v=nK8NUTMQVTM)
 
 <details>
@@ -5013,47 +12312,6 @@ real
 * [November 3rd, 2020 Livestream Q&A: Will we have Paintable Vehicles?](./transcriptions/yt-Wq7wvbW3fPo.md) [https://www.youtube.com/watch?v=Wq7wvbW3fPo](https://www.youtube.com/watch?v=Wq7wvbW3fPo)
 * [October 20th, 2020 Livestream Q&A: Will Colour Gun work on Vehicles in the future?](./transcriptions/yt-J8M7X0igt2w.md) [https://www.youtube.com/watch?v=J8M7X0igt2w](https://www.youtube.com/watch?v=J8M7X0igt2w)
 * August 18th, 2020 Livestream Q&A: When will we be able to paint our trains? [https://clips.twitch.tv/BelovedBloodyStapleGingerPower](https://clips.twitch.tv/BelovedBloodyStapleGingerPower)
-</details>
-
-### [Q&A: Will the Map be bigger later?](./transcriptions/yt-gvOt4jwWA4Q.md) [https://www.youtube.com/watch?v=gvOt4jwWA4Q](https://www.youtube.com/watch?v=gvOt4jwWA4Q)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will the map be bigger later we're not
->
-> gonna
->
-> there's no plan to increase the size of
->
-> the map but uh we're working on what's
->
-> happening in the map so that there might
->
-> be more things to do on the map but
->
-> uh we don't want to increase the size
->
-> that's the current plan
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 11 other times, as recently as January 2021 and as early as December 2019.</summary>
-
-* [January 19th, 2021 Livestream Q&A: Is the Map finalised, as in there will be no more additions?](./transcriptions/yt-zVnmYZemxe8.md) [https://www.youtube.com/watch?v=zVnmYZemxe8](https://www.youtube.com/watch?v=zVnmYZemxe8)
-* [December 15th, 2020 Livestream Q&A: When are you going to expand the map?](./transcriptions/yt-axmmm-ituSg.md) [https://www.youtube.com/watch?v=axmmm-ituSg](https://www.youtube.com/watch?v=axmmm-ituSg)
-* [December 15th, 2020 Livestream Q&A: Will we add more to the Map?](./transcriptions/yt-NeQpezHiVzI.md) [https://www.youtube.com/watch?v=NeQpezHiVzI](https://www.youtube.com/watch?v=NeQpezHiVzI)
-* November 10th, 2020 Livestream Q&A: Any plans to expand the Map / add new Biomes? [https://www.youtube.com/watch?v=oZhfgq9vdKg](https://www.youtube.com/watch?v=oZhfgq9vdKg)
-* [November 3rd, 2020 Livestream Q&A: Will the Map become bigger?](./transcriptions/yt-1pzu9fbySq0.md) [https://www.youtube.com/watch?v=1pzu9fbySq0](https://www.youtube.com/watch?v=1pzu9fbySq0)
-* [September 29th, 2020 Livestream Q&A: Will the Map change for 1.0?](./transcriptions/yt-5AsSss96Idw.md) [https://www.youtube.com/watch?v=5AsSss96Idw](https://www.youtube.com/watch?v=5AsSss96Idw)
-* [September 15th, 2020 Livestream Q&A: Will the Map be bigger?](./transcriptions/yt-b49tcUeMO3E.md) [https://www.youtube.com/watch?v=b49tcUeMO3E](https://www.youtube.com/watch?v=b49tcUeMO3E)
-* [September 8th, 2020 Livestream Q&A: Even more Biomes coming to play?](./transcriptions/yt-VgDl00Ycn3U.md) [https://www.youtube.com/watch?v=VgDl00Ycn3U](https://www.youtube.com/watch?v=VgDl00Ycn3U)
-* [September 8th, 2020 Livestream Q&A: Extension on current Map?](./transcriptions/yt-Ad3tjOha0JI.md) [https://www.youtube.com/watch?v=Ad3tjOha0JI](https://www.youtube.com/watch?v=Ad3tjOha0JI)
-* [September 1st, 2020 Livestream Q&A: Map expansion ?](./transcriptions/yt-2ZHnQ9U4f9I.md) [https://www.youtube.com/watch?v=2ZHnQ9U4f9I](https://www.youtube.com/watch?v=2ZHnQ9U4f9I)
-* December 19th, 2019 Livestream Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
 </details>
 
 ## [January 26th, 2021 Livestream](./2021-01-26.md)
@@ -6228,6 +13486,36 @@ real
 * [March 9th, 2019 Livestream Q&A: There is no way to hotkey items?](./transcriptions/yt-KmX7CoVGPA0.md) [https://www.youtube.com/watch?v=KmX7CoVGPA0](https://www.youtube.com/watch?v=KmX7CoVGPA0)
 </details>
 
+### [Q&A: Does Sanctum and Satisfactory exist in the same universe?](./transcriptions/yt-JnR3oHKDQi0.md) [https://www.youtube.com/watch?v=JnR3oHKDQi0](https://www.youtube.com/watch?v=JnR3oHKDQi0)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> does sanctum and satisfactory exist in
+>
+> the same universe
+>
+> i don't know actually i don't think so
+>
+> but i'm not the one writing the story
+>
+> that's hannah
+>
+> um so she's like the only one who knows
+>
+> i guess but uh i don't think so
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as September 2020.</summary>
+
+* [September 15th, 2020 Livestream Q&A: Satisfactory / Sanctum cross-over?](./transcriptions/yt-1LMD6kBcsec.md) [https://www.youtube.com/watch?v=1LMD6kBcsec](https://www.youtube.com/watch?v=1LMD6kBcsec)
+* [September 8th, 2020 Livestream Q&A: Are Sanctum and Satisfactory in the same Universe?](./transcriptions/yt-V4ZG9Ech4Es.md) [https://www.youtube.com/watch?v=V4ZG9Ech4Es](https://www.youtube.com/watch?v=V4ZG9Ech4Es)
+</details>
+
 ### [Q&A: Will Satisfactory have native support for Linux?](./transcriptions/yt-jGFUMhD3WGg.md) [https://www.youtube.com/watch?v=jGFUMhD3WGg](https://www.youtube.com/watch?v=jGFUMhD3WGg)
 
 <details>
@@ -6262,72 +13550,6 @@ real
 </details>
 
 ## [December 8th, 2020 Livestream](./2020-12-08.md)
-### [Q&A: Any hints you can give on the level of mod support you'll provide eventually?](./transcriptions/yt-o7FFLZpEf_Y.md) [https://www.youtube.com/watch?v=o7FFLZpEf_Y](https://www.youtube.com/watch?v=o7FFLZpEf_Y)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> we go and then i need to build any info
->
-> you can give on the level of mod support
->
-> you provide eventually
->
-> um modding api or something uh
->
-> no i i can't give you any information we
->
-> don't really know
->
-> because we haven't really worked on that
->
-> yet the idea is to make
->
-> modding like better than they are
->
-> currently
->
-> um and it will also be i think monica
->
-> mod creation will be a little bit better
->
-> once we introduce modeler builds
->
-> as well which is later down the line
->
-> probably next year
->
-> um i think that will
->
-> benefit the current modding community
->
-> but in the future i think we want to
->
-> figure out ways to make it even more
->
-> better for everyone even getting mods
->
-> should be easier unless we have proper
->
-> support
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as November 2020 and as early as June 2018.</summary>
-
-* [November 17th, 2020 Livestream Q&A: Is there any Official Mod Support planned?](./transcriptions/yt-z4Uv-UNMETw.md) [https://www.youtube.com/watch?v=z4Uv-UNMETw](https://www.youtube.com/watch?v=z4Uv-UNMETw)
-* [November 3rd, 2020 Livestream Q&A: Any idea about Official Modding?](./transcriptions/yt-D5-Y6LYR7jk.md) [https://www.youtube.com/watch?v=D5-Y6LYR7jk](https://www.youtube.com/watch?v=D5-Y6LYR7jk)
-* [October 13th, 2020 Livestream Q&A: Are there any plans for integrated mod support?](./transcriptions/yt-25ssduoFoiA.md) [https://www.youtube.com/watch?v=25ssduoFoiA](https://www.youtube.com/watch?v=25ssduoFoiA)
-* [August 25th, 2020 Livestream Q&A: Plans for mod support?](./transcriptions/yt-iOk7KMpNMEo.md) [https://www.youtube.com/watch?v=iOk7KMpNMEo](https://www.youtube.com/watch?v=iOk7KMpNMEo)
-* [February 11th, 2020 Livestream Q&A: Where's Mod support?](./transcriptions/yt-JRyAZT7y44g.md) [https://www.youtube.com/watch?v=JRyAZT7y44g](https://www.youtube.com/watch?v=JRyAZT7y44g)
-* [March 9th, 2019 Livestream Q&A: What do you think about future Mod support?](./transcriptions/yt-6-uSzpX-zZ0.md) [https://www.youtube.com/watch?v=6-uSzpX-zZ0](https://www.youtube.com/watch?v=6-uSzpX-zZ0)
-* [February 20th, 2019 Livestream Q&A: Mod Support?](./transcriptions/yt-CB9bSigNYH8,3390.447786,3418.942904.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3390&end=3419](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3390&end=3419)
-* [June 22nd, 2018 Livestream Q&A: Will there be mods?](./transcriptions/yt-W1E6EWrAsII,91.24,120.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121)
-</details>
-
 ### [Q&A: Is there any info/lore on the player character?](./transcriptions/yt-7W32eD2pZOM.md) [https://www.youtube.com/watch?v=7W32eD2pZOM](https://www.youtube.com/watch?v=7W32eD2pZOM)
 
 <details>
@@ -6472,29 +13694,6 @@ real
 
 * [September 1st, 2020 Livestream Q&A: Will there be more cosmetic options for Factory Buildings?](./transcriptions/yt-kHRgkLN0mZI.md) [https://www.youtube.com/watch?v=kHRgkLN0mZI](https://www.youtube.com/watch?v=kHRgkLN0mZI)
 * [June 8th, 2020 Livestream Q&A: Will there be a cosy place for the Pioneer to live in?](./transcriptions/yt-F0Lu47hMTD8.md) [https://www.youtube.com/watch?v=F0Lu47hMTD8](https://www.youtube.com/watch?v=F0Lu47hMTD8)
-</details>
-
-## [November 17th, 2020 Livestream](./2020-11-17.md)
-### [Q&A: Circular Foundations?](./transcriptions/yt-5snNwUqWAxA.md) [https://www.youtube.com/watch?v=5snNwUqWAxA](https://www.youtube.com/watch?v=5snNwUqWAxA)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> ne sıklıkta Kardeşiniz mi o sizin Yavuz
->
-> soru soruyorum işte
->
-> bu durum
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as November 2020.</summary>
-
-* [November 10th, 2020 Livestream Q&A: Is there any possibility you guys will be add the making of circles?](./transcriptions/yt-40bnpFI8SqE.md) [https://www.youtube.com/watch?v=40bnpFI8SqE](https://www.youtube.com/watch?v=40bnpFI8SqE)
-* [November 3rd, 2020 Livestream Q&A: Can we get Circular Foundations?](./transcriptions/yt-4sKy5-TJVKY.md) [https://www.youtube.com/watch?v=4sKy5-TJVKY](https://www.youtube.com/watch?v=4sKy5-TJVKY)
 </details>
 
 ## [November 10th, 2020 Livestream](./2020-11-10.md)
@@ -7070,131 +14269,6 @@ real
 * [May 19th, 2020 Livestream Q&A: Deactivate Fog parameter?](./transcriptions/yt-2H_QouHUoBQ.md) [https://www.youtube.com/watch?v=2H_QouHUoBQ](https://www.youtube.com/watch?v=2H_QouHUoBQ)
 </details>
 
-## [October 9th, 2020 Livestream](./2020-10-09.md)
-### [Q&A: What is the limit?](./transcriptions/yt-Njv_PJT3B2g.md) [https://www.youtube.com/watch?v=Njv_PJT3B2g](https://www.youtube.com/watch?v=Njv_PJT3B2g)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> what is the limit it's kind of hard to
->
-> say what the limit is because
->
-> uh a lot of people confuse the limit
->
-> with like object limits like
->
-> in-game object limits which is not what
->
-> is it what
->
-> that is it's tied into the data
->
-> objects data objects which isn't like
->
-> one constructor are more data objects
->
-> than a foundation for instance
->
-> yes and no that's it's the primitive
->
-> stuff too
->
-> so we're trying to so it's pretty much
->
-> i mean it's technically possible to say
->
-> exactly what the limit is
->
-> but it it really depends how you build
->
-> because i've loaded
->
-> save files that have that are
->
-> less complex than all than say false
->
-> that have hit the limit so to speak
->
-> uh and it's mostly things that we are
->
-> need to optimize for
->
-> um because there are cases sometimes
->
-> where like we just didn't think of like
->
-> oh this is using a lot of stuff
->
-> yeah we i think with the train update we
->
-> had one issue where there's
->
-> it was a simple thing of uh particle
->
-> systems weren't being destroyed
->
-> yeah so every time it took a turn it was
->
-> scraping and that was just a miss
->
-> like and i think it was just in
->
-> blueprint even so it wasn't even yeah so
->
-> yeah you find those things out too late
->
-> after people with like big saves
->
-> have trains running everywhere and then
->
-> you're like why are they hitting the
->
-> limit they shouldn't be hitting the
->
-> limit
->
-> then you could even see it as like
->
-> people were playing it the game would
->
-> slow down oh
->
-> the fps was like chugging you're like
->
-> why is this happening yeah take like 20
->
-> minutes then the game was at a
->
-> standstill
->
-> there's also cases where uh if you like
->
-> looked at a lot of or if you open a lot
->
-> of storage containers you would also hit
->
-> that limit sooner
->
-> stuff like that yeah
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as October 2020 and as early as August 2020.</summary>
-
-* [October 6th, 2020 Livestream Q&A: What is the object limit and why is it that number?](./transcriptions/yt-VpCuu0aYFw0.md) [https://www.youtube.com/watch?v=VpCuu0aYFw0](https://www.youtube.com/watch?v=VpCuu0aYFw0)
-* [September 1st, 2020 Livestream Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?](./transcriptions/yt-RyE_hc4huhA.md) [https://www.youtube.com/watch?v=RyE_hc4huhA](https://www.youtube.com/watch?v=RyE_hc4huhA)
-* August 18th, 2020 Livestream Build Limit (Part 1): [https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis](https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis)
-* August 18th, 2020 Livestream Build Limit (Part 2): [https://clips.twitch.tv/UnusualExquisiteKuduDendiFace](https://clips.twitch.tv/UnusualExquisiteKuduDendiFace)
-* August 18th, 2020 Livestream Build Limit (Part 3): [https://clips.twitch.tv/SullenColdbloodedDiscEagleEye](https://clips.twitch.tv/SullenColdbloodedDiscEagleEye)
-* August 18th, 2020 Livestream Build Limit (Part 4): [https://clips.twitch.tv/BlitheEnergeticEelPRChase](https://clips.twitch.tv/BlitheEnergeticEelPRChase)
-* August 18th, 2020 Livestream Build Limit (Part 5): [https://clips.twitch.tv/GiantGeniusGooseCclamChamp](https://clips.twitch.tv/GiantGeniusGooseCclamChamp)
-* August 18th, 2020 Livestream Build Limit (Part 6): [https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ](https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ)
-</details>
-
 ## [October 6th, 2020 Livestream](./2020-10-06.md)
 ### [Q&A: Any plans about new pets?](./transcriptions/yt-sLBqy5auRck.md) [https://www.youtube.com/watch?v=sLBqy5auRck](https://www.youtube.com/watch?v=sLBqy5auRck)
 
@@ -7216,116 +14290,6 @@ real
 
 * [September 8th, 2020 Livestream Q&A: Cat Companion instead of Doggo?](./transcriptions/yt-tUpHAgaYB4o.md) [https://www.youtube.com/watch?v=tUpHAgaYB4o](https://www.youtube.com/watch?v=tUpHAgaYB4o)
 * [March 9th, 2019 Livestream Q&A: You can tame any native lifeform?](./transcriptions/yt-EnGMyJjYDdI.md) [https://www.youtube.com/watch?v=EnGMyJjYDdI](https://www.youtube.com/watch?v=EnGMyJjYDdI)
-</details>
-
-### [Q&A: What do you think about adding some kind of Tanker Truck?](./transcriptions/yt-JCBQj8Ern20.md) [https://www.youtube.com/watch?v=JCBQj8Ern20](https://www.youtube.com/watch?v=JCBQj8Ern20)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> what do you think about adding some kind
->
-> of tanker truck
->
-> uh i think i think we're good
->
-> hey jace want to add another vehicle
->
-> everyone in the community says no
->
-> um the we're kind of like we don't want
->
-> to
->
-> do more work on the vehicle system right
->
-> now because
->
-> like we need to kind of redo a lot of
->
-> stuff or like
->
-> fix the issues we have with it right now
->
-> um
->
-> so we don't want to pile up more work on
->
-> top of it i guess
->
-> i think the factory cart was a little
->
-> bit of an exception because the factory
->
-> car was
->
-> omega-lol yeah it was
->
-> i mean but even then we were like
->
-> because like the there's a ton of stuff
->
-> that relies on
->
-> the vehicle system that's not optimized
->
-> right now
->
-> um and and like every time we're like
->
-> optimized for it it breaks something
->
-> uh or vice versa if we add new features
->
-> then suddenly yeah it becomes
->
-> unoptimized again or even more so
->
-> so it's it's like a bit of a house of
->
-> cards that we just
->
-> don't want to add like more stuff until
->
-> we feel like we have a
->
-> better like uh
->
-> foundation for it so to speak
->
-> with any more handheld weapons planned
->
-> for 1.0 i don't know
->
-> uh i have no idea actually
->
-> so good good answer do you know jace
->
-> uh i don't it's anything planned at all
->
-> thanks jason
->
-> what's the weather like jace good thanks
->
-> chase back up to you bob
->
-> back over to you bob so i guess my
->
-> i guess the answer is i don't know maybe
->
-> maybe not
->
-> i don't think so
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as August 2020.</summary>
-
-* [September 15th, 2020 Livestream Q&A: Any improvement for the Trucks so they can transport Fluids?](./transcriptions/yt-lNpwyJr7lZc.md) [https://www.youtube.com/watch?v=lNpwyJr7lZc](https://www.youtube.com/watch?v=lNpwyJr7lZc)
-* [August 25th, 2020 Livestream Q&A: Tanker Trucks?](./transcriptions/yt-IPmVdCgi2_A.md) [https://www.youtube.com/watch?v=IPmVdCgi2_A](https://www.youtube.com/watch?v=IPmVdCgi2_A)
 </details>
 
 ## [September 29th, 2020 Livestream](./2020-09-29.md)

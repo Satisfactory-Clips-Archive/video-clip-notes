@@ -8,7 +8,7 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Will we have other maps?
 https://www.youtube.com/watch?v=1-A4zqHdNKA
-This question was possibly duplicated with a more recent answer: [October 27th, 2020 Livestream Q&A: What about a new Map?](./yt-O9cRWaKhSRo.md) [https://www.youtube.com/watch?v=O9cRWaKhSRo](https://www.youtube.com/watch?v=O9cRWaKhSRo)
+This question was possibly duplicated with a more recent answer: October 27th, 2020 Livestream Q&A: What about a new Map? [https://www.youtube.com/watch?v=O9cRWaKhSRo](https://www.youtube.com/watch?v=O9cRWaKhSRo)
 
 
 ### Topics

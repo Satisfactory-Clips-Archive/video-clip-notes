@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## March 30th, 2021 Livestream
+* [Q&A: Are you going to fix the places where you instantly die?](../../transcriptions/yt-ZWjntHKKxxE.md) [https://www.youtube.com/watch?v=ZWjntHKKxxE](https://www.youtube.com/watch?v=ZWjntHKKxxE)
+* [Q&A: Is a bigger world a possibility?](../../transcriptions/yt-dlL942ooTho.md) [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
+* [Q&A: Is the World Update part of Update 4 or will that come later?](../../transcriptions/yt-ANIKlhFcjkk.md) [https://www.youtube.com/watch?v=ANIKlhFcjkk](https://www.youtube.com/watch?v=ANIKlhFcjkk)
+* [Community FYI: Joke's on you, I glitched under the map with a Train; immersion ruined.](../../transcriptions/yt-eVumrhkcdn4.md) [https://www.youtube.com/watch?v=eVumrhkcdn4](https://www.youtube.com/watch?v=eVumrhkcdn4)
+* [Q&A: Why are there obvious cave entrances that lead under the map?](../../transcriptions/yt-sh3gPpdUAik.md) [https://www.youtube.com/watch?v=sh3gPpdUAik](https://www.youtube.com/watch?v=sh3gPpdUAik)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Any plans to release a Map Editor?](../../transcriptions/yt-5qoXAwqaGWA.md) [https://www.youtube.com/watch?v=5qoXAwqaGWA](https://www.youtube.com/watch?v=5qoXAwqaGWA)
 * [Q&A: Can we destroy or remove drop pods after Hard Drive collection?](../../transcriptions/yt-9_BZvuAoyUI.md) [https://www.youtube.com/watch?v=9_BZvuAoyUI](https://www.youtube.com/watch?v=9_BZvuAoyUI)
@@ -244,3 +251,6 @@ date: Last Modified
 ## June 22nd, 2018 Livestream
 * [Q&A: Is the Map procedurally generated?](../../transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
 * [Q&A: Is there a height limit in the game?](../../transcriptions/yt-W1E6EWrAsII,434.4,492.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=434&end=493](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=434&end=493)
+
+## August 1st, 2017 Livestream
+* [Jace Talk: Exploration](../../transcriptions/yt-ZW0OOikcWN0,1217.6,1294.516063.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1217&end=1295](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1217&end=1295)

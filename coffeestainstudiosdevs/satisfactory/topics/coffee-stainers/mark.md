@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## March 30th, 2021 Livestream
+* [Q&A: Loss of efficiency over long distances?](../../transcriptions/yt-G3mcXzVjUZQ.md) [https://www.youtube.com/watch?v=G3mcXzVjUZQ](https://www.youtube.com/watch?v=G3mcXzVjUZQ)
+
 ## March 17th, 2021 Livestream
 * Snutt & Jace Talk: Excitement about Signs [https://play.satisfactory.video/ts-952893339,4402.033601586431,4459.303503/](https://play.satisfactory.video/ts-952893339,4402.033601586431,4459.303503/)
 

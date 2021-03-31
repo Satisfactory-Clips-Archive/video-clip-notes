@@ -10,7 +10,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can we get turrets and more PvE?
 https://www.youtube.com/watch?v=sJnuRV0OGF0
-This question was possibly duplicated with a more recent answer: February 26th, 2021 Instagram AMA Q&A: Please add semi tower defense in this game I'm begging you! [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Could some Sanctum gameplay, maybe the Tower Defense part come to Satisfactory?](./yt-1UTiDPGMgRI.md) [https://www.youtube.com/watch?v=1UTiDPGMgRI](https://www.youtube.com/watch?v=1UTiDPGMgRI)
 
 
 ### Topics

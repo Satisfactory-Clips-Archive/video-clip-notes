@@ -9,7 +9,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: News for the Work In Progress collectables for anything in Update 4?
 https://www.youtube.com/watch?v=5vlFsF0dm3E
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Do you have plans for the WIP items?](./yt-GPP6rcB8ROw.md) [https://www.youtube.com/watch?v=GPP6rcB8ROw](https://www.youtube.com/watch?v=GPP6rcB8ROw)
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Do you have plans for the WIP items? [https://www.youtube.com/watch?v=GPP6rcB8ROw](https://www.youtube.com/watch?v=GPP6rcB8ROw)
 
 
 ### Topics

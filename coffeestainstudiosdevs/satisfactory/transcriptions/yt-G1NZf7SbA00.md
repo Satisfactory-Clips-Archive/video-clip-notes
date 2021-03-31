@@ -9,7 +9,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Will you incorporate any mods into the base game?
 https://www.youtube.com/watch?v=G1NZf7SbA00
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any mods you want to add to vanilla at some stage?](./yt-mH06GfDfnQc.md) [https://www.youtube.com/watch?v=mH06GfDfnQc](https://www.youtube.com/watch?v=mH06GfDfnQc)
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Any mods you want to add to vanilla at some stage? [https://www.youtube.com/watch?v=mH06GfDfnQc](https://www.youtube.com/watch?v=mH06GfDfnQc)
 
 
 ### Topics

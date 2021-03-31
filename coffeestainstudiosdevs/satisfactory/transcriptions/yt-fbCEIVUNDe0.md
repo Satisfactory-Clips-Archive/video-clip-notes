@@ -9,7 +9,7 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: How about repeatable Space Elevator shipments to make more use of it?
 https://www.youtube.com/watch?v=fbCEIVUNDe0
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Will we get more uses/shipments for the Space Elevator?](./yt-pjoG5bBsTKI.md) [https://www.youtube.com/watch?v=pjoG5bBsTKI](https://www.youtube.com/watch?v=pjoG5bBsTKI)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Space Elevator as a resource Sink for six specific items after all the stages?](./yt-4Dgn9kWGN48.md) [https://www.youtube.com/watch?v=4Dgn9kWGN48](https://www.youtube.com/watch?v=4Dgn9kWGN48)
 
 
 ### Topics

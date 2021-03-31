@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Is there a date targeted?
 https://www.youtube.com/watch?v=czUkb31M3co
-This question was possibly replaced with a more recent answer: [March 9th, 2021 Livestream Q&A: Date for Update 4?](./yt-wFSyxgWHquw.md) [https://www.youtube.com/watch?v=wFSyxgWHquw](https://www.youtube.com/watch?v=wFSyxgWHquw)
+This question was possibly replaced with a more recent answer: March 9th, 2021 Livestream Q&A: Date for Update 4? [https://www.youtube.com/watch?v=wFSyxgWHquw](https://www.youtube.com/watch?v=wFSyxgWHquw)
 
 
 ### Topics

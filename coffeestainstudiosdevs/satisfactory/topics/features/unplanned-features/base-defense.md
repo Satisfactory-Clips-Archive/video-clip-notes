@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
+## March 30th, 2021 Livestream
+* [Q&A: Could some Sanctum gameplay, maybe the Tower Defense part come to Satisfactory?](../../../transcriptions/yt-1UTiDPGMgRI.md) [https://www.youtube.com/watch?v=1UTiDPGMgRI](https://www.youtube.com/watch?v=1UTiDPGMgRI)
+* Snutt Talk: There's no Tower Defense Mod [https://www.youtube.com/watch?v=m-sFxUpXEGk](https://www.youtube.com/watch?v=m-sFxUpXEGk)
+
 ## February 26th, 2021 Instagram AMA
 * Q&A: Please add semi tower defense in this game I'm begging you! [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4)
 

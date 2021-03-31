@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=G-aFnOtVYTw
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
 
-* [February 23rd, 2021 Livestream Q&A: Are we going to have new stuff in the AWESOME Shop for Update 4?](./yt-nuWfLlBMtA0.md) [https://www.youtube.com/watch?v=nuWfLlBMtA0](https://www.youtube.com/watch?v=nuWfLlBMtA0)
+* February 23rd, 2021 Livestream Q&A: Are we going to have new stuff in the AWESOME Shop for Update 4? [https://www.youtube.com/watch?v=nuWfLlBMtA0](https://www.youtube.com/watch?v=nuWfLlBMtA0)
 </details>
 
 

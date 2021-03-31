@@ -5,6 +5,7 @@ layout: index
 ---
 # 2021
 ## March
+* [March 30th](2021-03-30.md)
 * [March 26th](2021-03-26.md)
 * [March 23rd](2021-03-23.md)
 * [March 17th](2021-03-17.md)
@@ -62,6 +63,7 @@ layout: index
 * [August 11th](2020-08-11.md)
 
 ## July
+* [July 30th](2020-07-30.md)
 * [July 28th](2020-07-28.md)
 * [July 21st](2020-07-21.md)
 * [July 8th](2020-07-08.md)
@@ -71,6 +73,9 @@ layout: index
 
 ## May
 * [May 19th](2020-05-19.md)
+
+## April
+* [April 30th](2020-04-30.md)
 
 ## March
 * [March 24th](2020-03-24.md)
@@ -122,3 +127,6 @@ layout: index
 # 2017
 ## November
 * [November 17th](2017-11-17.md)
+
+## August
+* [August 1st](2017-08-01.md)

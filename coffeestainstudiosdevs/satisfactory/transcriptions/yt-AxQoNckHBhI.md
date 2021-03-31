@@ -9,7 +9,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: The Trains lag a lot on Multiplayer?
 https://www.youtube.com/watch?v=AxQoNckHBhI
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Can more people ride the same Train soon?](./yt-YMWU_qSRI1E.md) [https://www.youtube.com/watch?v=YMWU_qSRI1E](https://www.youtube.com/watch?v=YMWU_qSRI1E)
+This question was possibly duplicated with a more recent answer: January 19th, 2021 Livestream Q&A: Can more people ride the same Train soon? [https://www.youtube.com/watch?v=YMWU_qSRI1E](https://www.youtube.com/watch?v=YMWU_qSRI1E)
 
 
 ### Topics

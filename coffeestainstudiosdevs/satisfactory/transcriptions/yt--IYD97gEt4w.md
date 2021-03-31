@@ -8,7 +8,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: New skins?
 https://www.youtube.com/watch?v=-IYD97gEt4w
-This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Will there be at some point Character Customisation?](./yt-fy4_awSdvk0.md) [https://www.youtube.com/watch?v=fy4_awSdvk0](https://www.youtube.com/watch?v=fy4_awSdvk0)
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: New Suit Skins? [https://www.youtube.com/watch?v=1ekgStY-lEc](https://www.youtube.com/watch?v=1ekgStY-lEc)
 
 
 ### Topics

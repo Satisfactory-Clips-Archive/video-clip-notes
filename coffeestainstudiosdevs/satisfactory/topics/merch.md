@@ -5,6 +5,12 @@ date: Last Modified
 # [Topics](../topics.md) > Merch
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## March 30th, 2021 Livestream
+* [Q&A: Satisfactory computer mouse?](../transcriptions/yt-y10fqyMDNXM.md) [https://www.youtube.com/watch?v=y10fqyMDNXM](https://www.youtube.com/watch?v=y10fqyMDNXM)
+* [Community FYI: We want a "Days since last injury" sign?](../transcriptions/yt-gStfUrdtsBw.md) [https://www.youtube.com/watch?v=gStfUrdtsBw](https://www.youtube.com/watch?v=gStfUrdtsBw)
+* [Q&A: When can we order our Coffee Mug?](../transcriptions/yt-UGnFRDOjd-M.md) [https://www.youtube.com/watch?v=UGnFRDOjd-M](https://www.youtube.com/watch?v=UGnFRDOjd-M)
+* [Community FYI: Would love a Satisfactory notepad](../transcriptions/yt-THubk-3-nlk.md) [https://www.youtube.com/watch?v=THubk-3-nlk](https://www.youtube.com/watch?v=THubk-3-nlk)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Update on the Mug?](../transcriptions/yt-9pG00Koq8zY.md) [https://www.youtube.com/watch?v=9pG00Koq8zY](https://www.youtube.com/watch?v=9pG00Koq8zY)
 
@@ -109,6 +115,9 @@ date: Last Modified
 * Q&A: t-shirt material? [https://clips.twitch.tv/ComfortableAltruisticHerringDansGame](https://clips.twitch.tv/ComfortableAltruisticHerringDansGame)
 * Jace Merch Talk: US vs. EU Merch Warehousing [https://clips.twitch.tv/ColdStormySalsifyArgieB8](https://clips.twitch.tv/ColdStormySalsifyArgieB8)
 * Q&A: zip-up hoodie? [https://clips.twitch.tv/SpoopyCrowdedOctopusTBTacoLeft](https://clips.twitch.tv/SpoopyCrowdedOctopusTBTacoLeft)
+
+## July 30th, 2020 Livestream
+* [Q&A: Merch?](../transcriptions/yt-1dUNmBBbExs,101.20356,116.33333333333333.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=101&end=117](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=101&end=117)
 
 ## July 28th, 2020 Livestream
 * Q&A: Coffee Mug? [https://clips.twitch.tv/SpunkyHyperWasabi4Head](https://clips.twitch.tv/SpunkyHyperWasabi4Head)

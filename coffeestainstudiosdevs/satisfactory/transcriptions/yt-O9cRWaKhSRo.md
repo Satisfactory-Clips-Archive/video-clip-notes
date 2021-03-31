@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=O9cRWaKhSRo
 <summary>This question may have been asked previously at least 5 other times, as recently as September 2020 and as early as June 2020.</summary>
 
 * [September 22nd, 2020 Livestream Q&A: Any chance of a new Map?](./yt-GcWk8f29OBM.md) [https://www.youtube.com/watch?v=GcWk8f29OBM](https://www.youtube.com/watch?v=GcWk8f29OBM)
-* [September 8th, 2020 Livestream Q&A: Any plans for new Maps?](./yt-zBv2UdKrYtI.md) [https://www.youtube.com/watch?v=zBv2UdKrYtI](https://www.youtube.com/watch?v=zBv2UdKrYtI)
+* September 8th, 2020 Livestream Q&A: Any plans for new Maps? [https://www.youtube.com/watch?v=zBv2UdKrYtI](https://www.youtube.com/watch?v=zBv2UdKrYtI)
 * [August 25th, 2020 Livestream Q&A: Like a new map for Satisfactory?](./yt-gNfCEV1J-2Q.md) [https://www.youtube.com/watch?v=gNfCEV1J-2Q](https://www.youtube.com/watch?v=gNfCEV1J-2Q)
 * August 18th, 2020 Livestream Q&A: Any different maps planned? [https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat](https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat)
 * [June 8th, 2020 Livestream Q&A: Will we have other maps?](./yt-1-A4zqHdNKA.md) [https://www.youtube.com/watch?v=1-A4zqHdNKA](https://www.youtube.com/watch?v=1-A4zqHdNKA)

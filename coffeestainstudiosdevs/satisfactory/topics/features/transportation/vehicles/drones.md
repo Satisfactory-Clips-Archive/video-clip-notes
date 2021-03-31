@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## March 30th, 2021 Livestream
+* [Q&A: Is that the same as "No Drones" and "No Pipes" ?](../../../../transcriptions/yt-YvY8_P-bxqY.md) [https://www.youtube.com/watch?v=YvY8_P-bxqY](https://www.youtube.com/watch?v=YvY8_P-bxqY)
+
 ## March 23rd, 2021 Livestream
 * [Community FYI: Can't wait for Drones and Water Extractors in EA, this is a great Update](../../../../transcriptions/yt-UnQrLUVfwuI.md) [https://www.youtube.com/watch?v=UnQrLUVfwuI](https://www.youtube.com/watch?v=UnQrLUVfwuI)
 * [Q&A: Swap Drones with Hover Pack?](../../../../transcriptions/yt-E_t6aUIA5Zk.md) [https://www.youtube.com/watch?v=E_t6aUIA5Zk](https://www.youtube.com/watch?v=E_t6aUIA5Zk)

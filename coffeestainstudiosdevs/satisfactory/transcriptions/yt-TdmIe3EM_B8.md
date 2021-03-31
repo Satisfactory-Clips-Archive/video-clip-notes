@@ -9,7 +9,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Possibility of placing more than one foundation at once?
 https://www.youtube.com/watch?v=TdmIe3EM_B8
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Mass Foundation creation?](./yt-Z0H06UJbb4E.md) [https://www.youtube.com/watch?v=Z0H06UJbb4E](https://www.youtube.com/watch?v=Z0H06UJbb4E)
+This question was possibly duplicated with a more recent answer: January 19th, 2021 Livestream Q&A: Mass Foundation creation? [https://www.youtube.com/watch?v=Z0H06UJbb4E](https://www.youtube.com/watch?v=Z0H06UJbb4E)
 
 
 ### Topics

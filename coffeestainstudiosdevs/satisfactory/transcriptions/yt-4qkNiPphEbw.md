@@ -8,7 +8,7 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: When will Stardew Valley spouses be introduced?
 https://www.youtube.com/watch?v=4qkNiPphEbw
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Any NPCs in the game?](./yt-z-DgcRCy3so.md) [https://www.youtube.com/watch?v=z-DgcRCy3so](https://www.youtube.com/watch?v=z-DgcRCy3so)
+This question was possibly duplicated with a more recent answer: February 16th, 2021 Livestream Q&A: Any NPCs in the game? [https://www.youtube.com/watch?v=z-DgcRCy3so](https://www.youtube.com/watch?v=z-DgcRCy3so)
 
 
 ### Topics

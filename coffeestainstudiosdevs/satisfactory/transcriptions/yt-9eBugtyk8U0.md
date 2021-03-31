@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=9eBugtyk8U0
 <summary>This question may have been asked previously at least 2 other times, as recently as August 2020 and as early as June 2020.</summary>
 
 * August 11th, 2020 Livestream Q&A: Green Energy? [https://clips.twitch.tv/BloodyIcyDragonflyStoneLightning](https://clips.twitch.tv/BloodyIcyDragonflyStoneLightning)
-* [June 8th, 2020 Livestream Q&A: What about Green Energy?](./yt-bPo3BFtjDLs.md) [https://www.youtube.com/watch?v=bPo3BFtjDLs](https://www.youtube.com/watch?v=bPo3BFtjDLs)
+* June 8th, 2020 Livestream Q&A: What about Green Energy? [https://www.youtube.com/watch?v=bPo3BFtjDLs](https://www.youtube.com/watch?v=bPo3BFtjDLs)
 </details>
 
 

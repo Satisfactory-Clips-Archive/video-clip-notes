@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Gases
 
+## March 30th, 2021 Livestream
+* [Q&A: Will it be possible to remove the toxic pillars?](../../transcriptions/yt-QM6AXdaNYN4.md) [https://www.youtube.com/watch?v=QM6AXdaNYN4](https://www.youtube.com/watch?v=QM6AXdaNYN4)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Can we destroy those Gas pillars?](../../transcriptions/yt-PcJHdVtZSp0.md) [https://www.youtube.com/watch?v=PcJHdVtZSp0](https://www.youtube.com/watch?v=PcJHdVtZSp0)
 

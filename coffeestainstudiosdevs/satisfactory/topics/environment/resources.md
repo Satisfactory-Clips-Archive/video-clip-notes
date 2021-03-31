@@ -12,6 +12,11 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## March 30th, 2021 Livestream
+* [Q&A: Asking very nicely even if it's a no; Oil node in Green Hills?](../../transcriptions/yt-RI8F-a7oO1s.md) [https://www.youtube.com/watch?v=RI8F-a7oO1s](https://www.youtube.com/watch?v=RI8F-a7oO1s)
+* [Q&A: Is Coffee Stain okay with the placement of Caterium right now?](../../transcriptions/yt-mAi1ag7Wk40.md) [https://www.youtube.com/watch?v=mAi1ag7Wk40](https://www.youtube.com/watch?v=mAi1ag7Wk40)
+* [Community FYI: We need more Bauxite nodes on the map](../../transcriptions/yt-GjUO7rzPvVo.md) [https://www.youtube.com/watch?v=GjUO7rzPvVo](https://www.youtube.com/watch?v=GjUO7rzPvVo)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Can we destroy or remove drop pods after Hard Drive collection?](../../transcriptions/yt-9_BZvuAoyUI.md) [https://www.youtube.com/watch?v=9_BZvuAoyUI](https://www.youtube.com/watch?v=9_BZvuAoyUI)
 * [Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?](../../transcriptions/yt-5BOnK8wVCro.md) [https://www.youtube.com/watch?v=5BOnK8wVCro](https://www.youtube.com/watch?v=5BOnK8wVCro)
@@ -115,3 +120,10 @@ date: Last Modified
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Is the Map procedurally generated?](../../transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
+
+## August 1st, 2017 Livestream
+* [Jace Talk: Automating Resource gathering](../../transcriptions/yt-ZW0OOikcWN0,459.28,651.16.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=459&end=652](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=459&end=652)
+* [Jace Talk: Exploring for different Resources](../../transcriptions/yt-ZW0OOikcWN0,1407.56,1426.24.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1407&end=1427](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1407&end=1427)
+* [Jace Talk: Finding Resources](../../transcriptions/yt-ZW0OOikcWN0,155.16,243.88.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=155&end=244](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=155&end=244)
+* [Jace Talk: Gathering Resources](../../transcriptions/yt-ZW0OOikcWN0,243.88,303.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=243&end=303](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=243&end=303)
+* [Jace Talk: Using Resources](../../transcriptions/yt-ZW0OOikcWN0,303,444.2.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=303&end=445](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=303&end=445)

@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 
+## March 30th, 2021 Livestream
+* [Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?](../../transcriptions/yt-XkDGnJwkY18.md) [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
+* [Q&A: Any plans on a global grid?](../../transcriptions/yt-QxJ8e_0r9uE.md) [https://www.youtube.com/watch?v=QxJ8e_0r9uE](https://www.youtube.com/watch?v=QxJ8e_0r9uE)
+* [Q&A: Can you fix the wheels when selecting walls?](../../transcriptions/yt-9qpSJT7gl9o.md) [https://www.youtube.com/watch?v=9qpSJT7gl9o](https://www.youtube.com/watch?v=9qpSJT7gl9o)
+* [Community FYI: Not being able to wear a mask is annoying](../../transcriptions/yt-r12CKyyTTJk.md) [https://www.youtube.com/watch?v=r12CKyyTTJk](https://www.youtube.com/watch?v=r12CKyyTTJk)
+* [Q&A: Percentage with decimals in overclock menu?](../../transcriptions/yt-t-BYjRnBkAs.md) [https://www.youtube.com/watch?v=t-BYjRnBkAs](https://www.youtube.com/watch?v=t-BYjRnBkAs)
+* [Q&A: What's the feature you want to add?](../../transcriptions/yt-VJgvG8RvkLw.md) [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
+* [Q&A: Why does the Chainsaw not consume Fuel?](../../transcriptions/yt-_MMqKE-jYTk.md) [https://www.youtube.com/watch?v=_MMqKE-jYTk](https://www.youtube.com/watch?v=_MMqKE-jYTk)
+
 ## March 23rd, 2021 Livestream
 * [PSA: AFK Crafting](../../transcriptions/yt-JHjGj7cJjk8.md) [https://www.youtube.com/watch?v=JHjGj7cJjk8](https://www.youtube.com/watch?v=JHjGj7cJjk8)
 * [Q&A: Any plans on adding copy/pasting to the builder?](../../transcriptions/yt-oEjEowDbetQ.md) [https://www.youtube.com/watch?v=oEjEowDbetQ](https://www.youtube.com/watch?v=oEjEowDbetQ)
@@ -151,6 +160,9 @@ date: Last Modified
 * [Q&A: What about holes for Foundations?](../../transcriptions/yt-fufH5ltdn7E.md) [https://www.youtube.com/watch?v=fufH5ltdn7E](https://www.youtube.com/watch?v=fufH5ltdn7E)
 * [Q&A: When will you ad UI for the Steam Geyser Power Plant?](../../transcriptions/yt-xFZfkjY3J0c.md) [https://www.youtube.com/watch?v=xFZfkjY3J0c](https://www.youtube.com/watch?v=xFZfkjY3J0c)
 
+## July 8th, 2020 Livestream
+* [Community FYI: Uses standard popup with custom disconnect message](../../transcriptions/yt-1dUNmBBbExs,655.75986,667.119423.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668)
+
 ## June 8th, 2020 Livestream
 * [Snutt, Jace, & Mark Talk: Muting ADA](../../transcriptions/yt-H3eApDUK_Xs.md) [https://www.youtube.com/watch?v=H3eApDUK_Xs](https://www.youtube.com/watch?v=H3eApDUK_Xs)
 
@@ -199,3 +211,6 @@ date: Last Modified
 
 ## July 19th, 2018 Livestream
 * [Vehicle Autopilot](../../transcriptions/yt-IxoCzb2M0vQ,130.550701,249.6.md) [https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=130&end=250](https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=130&end=250)
+
+## August 1st, 2017 Livestream
+* [Jace Talk: Basic Movement & Controls](../../transcriptions/yt-ZW0OOikcWN0,73.32,100.230344.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=73&end=101](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=73&end=101)

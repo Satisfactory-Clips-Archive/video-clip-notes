@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## March 30th, 2021 Livestream
+* [Q&A: Will there be Trucks that can transport fluids?](../../../../transcriptions/yt-sO7qhlAKq3U.md) [https://www.youtube.com/watch?v=sO7qhlAKq3U](https://www.youtube.com/watch?v=sO7qhlAKq3U)
+
 ## March 23rd, 2021 Livestream
 * [Do you plan to integrate an automatic path travel for Trucks?](../../../../transcriptions/yt-i1cimOkbLHs.md) [https://www.youtube.com/watch?v=i1cimOkbLHs](https://www.youtube.com/watch?v=i1cimOkbLHs)
 * [Q&A: Will we get a Truck & Tractor ghosting fix soon?](../../../../transcriptions/yt-SU1kBDjZGhM.md) [https://www.youtube.com/watch?v=SU1kBDjZGhM](https://www.youtube.com/watch?v=SU1kBDjZGhM)

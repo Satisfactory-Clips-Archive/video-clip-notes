@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Will there still be stuff to discover when the Update 4 teasers & reveals are done?
 https://www.youtube.com/watch?v=1NTKmQqoxNs
-This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: What percentage of the Update do we know about?](./yt-MGL5k0e9UUY.md) [https://www.youtube.com/watch?v=MGL5k0e9UUY](https://www.youtube.com/watch?v=MGL5k0e9UUY)
+This question was possibly duplicated with a more recent answer: March 9th, 2021 Livestream Q&A: What percentage of the Update do we know about? [https://www.youtube.com/watch?v=MGL5k0e9UUY](https://www.youtube.com/watch?v=MGL5k0e9UUY)
 
 
 ### Topics

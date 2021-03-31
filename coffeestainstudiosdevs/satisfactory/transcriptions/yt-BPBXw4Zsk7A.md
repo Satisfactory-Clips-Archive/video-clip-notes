@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=BPBXw4Zsk7A
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
 
-* [February 2nd, 2021 Livestream Q&A: Can you Zip Line up?](./yt-obQpGKr8mWg.md) [https://www.youtube.com/watch?v=obQpGKr8mWg](https://www.youtube.com/watch?v=obQpGKr8mWg)
+* February 2nd, 2021 Livestream Q&A: Can you Zip Line up? [https://www.youtube.com/watch?v=obQpGKr8mWg](https://www.youtube.com/watch?v=obQpGKr8mWg)
 </details>
 
 

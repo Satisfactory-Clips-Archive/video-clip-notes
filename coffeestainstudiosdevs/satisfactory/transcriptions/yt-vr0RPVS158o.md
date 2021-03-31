@@ -10,7 +10,7 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Why two Community Managers again?
 https://www.youtube.com/watch?v=vr0RPVS158o
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Why Jace & Snutt?](./yt-Wp15rkFmIS8.md) [https://www.youtube.com/watch?v=Wp15rkFmIS8](https://www.youtube.com/watch?v=Wp15rkFmIS8)
+This question was possibly duplicated with a more recent answer: February 9th, 2021 Livestream Q&A: Why Jace & Snutt? [https://www.youtube.com/watch?v=Wp15rkFmIS8](https://www.youtube.com/watch?v=Wp15rkFmIS8)
 
 
 ### Topics

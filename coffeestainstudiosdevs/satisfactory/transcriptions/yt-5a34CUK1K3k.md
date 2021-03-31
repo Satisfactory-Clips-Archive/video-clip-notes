@@ -10,7 +10,7 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Linux support for Dedicated Servers?
 https://www.youtube.com/watch?v=5a34CUK1K3k
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: What Operating System will the Dedicated Servers be?](./yt-071RPMJfFJk.md) [https://www.youtube.com/watch?v=071RPMJfFJk](https://www.youtube.com/watch?v=071RPMJfFJk)
+This question was possibly duplicated with a more recent answer: February 9th, 2021 Livestream Q&A: What Operating System will the Dedicated Servers be? [https://www.youtube.com/watch?v=071RPMJfFJk](https://www.youtube.com/watch?v=071RPMJfFJk)
 
 
 ### Topics

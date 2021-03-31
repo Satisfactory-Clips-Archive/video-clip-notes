@@ -9,7 +9,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Plutonium Fuel Rods sinkable, bug or not?
 https://www.youtube.com/watch?v=GIu2nOpQUCQ
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Is Plutonium Fuel Rods intended to be sunk?](./yt-VDLkcw7O-UU.md) [https://www.youtube.com/watch?v=VDLkcw7O-UU](https://www.youtube.com/watch?v=VDLkcw7O-UU)
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Is Plutonium Fuel Rods intended to be sunk? [https://www.youtube.com/watch?v=VDLkcw7O-UU](https://www.youtube.com/watch?v=VDLkcw7O-UU)
 
 
 ### Topics

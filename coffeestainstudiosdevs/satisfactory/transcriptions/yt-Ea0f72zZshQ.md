@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will the game expand into space or will it stay on the ground?
 https://www.youtube.com/watch?v=Ea0f72zZshQ
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: When can we go to space?](./yt-eL7PT4_wRmY.md) [https://www.youtube.com/watch?v=eL7PT4_wRmY](https://www.youtube.com/watch?v=eL7PT4_wRmY)
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: More space-based stuff coming? [https://www.youtube.com/watch?v=pTyR9FXrU_E](https://www.youtube.com/watch?v=pTyR9FXrU_E)
 
 
 ### Topics

@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=j5yWR-Ayb5w
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 
-* [September 22nd, 2020 Livestream Q&A: Ultrawide Monitors?](./yt-j9oy_AyPXnU.md) [https://www.youtube.com/watch?v=j9oy_AyPXnU](https://www.youtube.com/watch?v=j9oy_AyPXnU)
+* September 22nd, 2020 Livestream Q&A: Ultrawide Monitors? [https://www.youtube.com/watch?v=j9oy_AyPXnU](https://www.youtube.com/watch?v=j9oy_AyPXnU)
 </details>
 
 

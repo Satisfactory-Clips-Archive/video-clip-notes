@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel
 
+## March 30th, 2021 Livestream
+* [Q&A: Will there be planes and helicopters?](../../../transcriptions/yt-E-c_NfjMqUM.md) [https://www.youtube.com/watch?v=E-c_NfjMqUM](https://www.youtube.com/watch?v=E-c_NfjMqUM)
+
 ## March 23rd, 2021 Livestream
 * Q&A: Will there be planes? [https://www.youtube.com/watch?v=DWx3XAQft60](https://www.youtube.com/watch?v=DWx3XAQft60)
 * [Community FYI: Yes you did](../../../transcriptions/yt-08O7dRyOYy0.md) [https://www.youtube.com/watch?v=08O7dRyOYy0](https://www.youtube.com/watch?v=08O7dRyOYy0)

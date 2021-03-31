@@ -8,7 +8,7 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: When are we going to be able to use more than one Equipment at a time?
 https://www.youtube.com/watch?v=w6VfAW7WD1w
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Do you ever think you'll give us more than one Body Slot?](./yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time? [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
 
 
 ### Topics

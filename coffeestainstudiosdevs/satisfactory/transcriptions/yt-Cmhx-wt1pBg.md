@@ -13,9 +13,9 @@ https://www.youtube.com/watch?v=Cmhx-wt1pBg
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as November 2020 and as early as October 2020.</summary>
 
-* [November 3rd, 2020 Livestream Q&A: Packager solid/liquid I/O don't allow for placement of Conveyor lifts?](./yt-gqLycnJA_3c.md) [https://www.youtube.com/watch?v=gqLycnJA_3c](https://www.youtube.com/watch?v=gqLycnJA_3c)
-* [November 3rd, 2020 Livestream Q&A: Will the Packager input/output orientation be changed before it goes to Early Access?](./yt-Pjj0oalwYj0.md) [https://www.youtube.com/watch?v=Pjj0oalwYj0](https://www.youtube.com/watch?v=Pjj0oalwYj0)
-* [October 13th, 2020 Livestream Q&A: I think it's better to stack the inputs & outputs](./yt-RK0ENdeE27c.md) [https://www.youtube.com/watch?v=RK0ENdeE27c](https://www.youtube.com/watch?v=RK0ENdeE27c)
+* November 3rd, 2020 Livestream Q&A: Packager solid/liquid I/O don't allow for placement of Conveyor lifts? [https://www.youtube.com/watch?v=gqLycnJA_3c](https://www.youtube.com/watch?v=gqLycnJA_3c)
+* November 3rd, 2020 Livestream Q&A: Will the Packager input/output orientation be changed before it goes to Early Access? [https://www.youtube.com/watch?v=Pjj0oalwYj0](https://www.youtube.com/watch?v=Pjj0oalwYj0)
+* October 13th, 2020 Livestream Q&A: I think it's better to stack the inputs & outputs [https://www.youtube.com/watch?v=RK0ENdeE27c](https://www.youtube.com/watch?v=RK0ENdeE27c)
 </details>
 
 

@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Can we get Circular Foundations?
 https://www.youtube.com/watch?v=4sKy5-TJVKY
-This question was possibly duplicated with a more recent answer: [November 17th, 2020 Livestream Q&A: Circular Foundations?](./yt-5snNwUqWAxA.md) [https://www.youtube.com/watch?v=5snNwUqWAxA](https://www.youtube.com/watch?v=5snNwUqWAxA)
+This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Curved Walls, Windows, and Foundations? [https://www.youtube.com/watch?v=gBErG8jzRtI](https://www.youtube.com/watch?v=gBErG8jzRtI)
 
 
 ### Topics

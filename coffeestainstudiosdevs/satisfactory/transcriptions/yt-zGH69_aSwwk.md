@@ -9,7 +9,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will it be possible to use decimal places for percentages in future?
 https://www.youtube.com/watch?v=zGH69_aSwwk
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Can you make overclocking numbers more precise?](./yt-D-aOy0Uia6Q.md) [https://www.youtube.com/watch?v=D-aOy0Uia6Q](https://www.youtube.com/watch?v=D-aOy0Uia6Q)
+This question was possibly replaced with a more recent answer: [March 30th, 2021 Livestream Q&A: Percentage with decimals in overclock menu?](./yt-t-BYjRnBkAs.md) [https://www.youtube.com/watch?v=t-BYjRnBkAs](https://www.youtube.com/watch?v=t-BYjRnBkAs)
 
 
 ### Topics

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Transportation > Hyper Tubes
 
+## March 30th, 2021 Livestream
+* [Q&A: What about the HyperTube launcher that doesn't spawn a crate when you die?](../../../transcriptions/yt-y7qT_KwDsI8.md) [https://www.youtube.com/watch?v=y7qT_KwDsI8](https://www.youtube.com/watch?v=y7qT_KwDsI8)
+* [Q&A: When are my Blade Runners going to stay on my character while in Hyper Tubes?](../../../transcriptions/yt-gXm3WrzRrUU.md) [https://www.youtube.com/watch?v=gXm3WrzRrUU](https://www.youtube.com/watch?v=gXm3WrzRrUU)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Is the cannon an intended behaviour for Hyper Tubes or a bug?](../../../transcriptions/yt-9oX64bJ65Cg.md) [https://www.youtube.com/watch?v=9oX64bJ65Cg](https://www.youtube.com/watch?v=9oX64bJ65Cg)
 

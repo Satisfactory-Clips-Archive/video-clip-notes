@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## March 30th, 2021 Livestream
+* [Snutt Talk: Losing track of questions](../../transcriptions/yt-oj2oVWMnp9I.md) [https://www.youtube.com/watch?v=oj2oVWMnp9I](https://www.youtube.com/watch?v=oj2oVWMnp9I)
+
 ## March 23rd, 2021 Livestream
 * [Community FYI: Jace isn't watching](../../transcriptions/yt-FfPq5eyb6JY.md) [https://www.youtube.com/watch?v=FfPq5eyb6JY](https://www.youtube.com/watch?v=FfPq5eyb6JY)
 * [Q&A: True or False, is Snutt jealous of Jace being on vacation?](../../transcriptions/yt-Z1EYZ9vmlBI.md) [https://www.youtube.com/watch?v=Z1EYZ9vmlBI](https://www.youtube.com/watch?v=Z1EYZ9vmlBI)
@@ -160,6 +163,9 @@ date: Last Modified
 
 ## August 11th, 2020 Livestream
 * Q&A: New Apartment? [https://clips.twitch.tv/CorrectAdorableDinosaurWoofer](https://clips.twitch.tv/CorrectAdorableDinosaurWoofer)
+
+## July 8th, 2020 Livestream
+* [Mod highlight part 1: Satisfactory Calculator (SCIM) Production Planner & Interactive Map](../../transcriptions/yt-1dUNmBBbExs,3283.3333333333335,3395.015298.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3283&end=3396](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3283&end=3396)
 
 ## June 8th, 2020 Livestream
 * [Q&A: Where is Jace and why has he been replaced with a large child?](../../transcriptions/yt-ftJxvHWUROQ.md) [https://www.youtube.com/watch?v=ftJxvHWUROQ](https://www.youtube.com/watch?v=ftJxvHWUROQ)

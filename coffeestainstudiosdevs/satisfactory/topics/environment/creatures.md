@@ -9,6 +9,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## March 30th, 2021 Livestream
+* [Q&A: Will there be more creatures ever?](../../transcriptions/yt-hKlILzyla-Y.md) [https://www.youtube.com/watch?v=hKlILzyla-Y](https://www.youtube.com/watch?v=hKlILzyla-Y)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Can we get a way for farming Spiders?](../../transcriptions/yt-0G4J7VdldKI.md) [https://www.youtube.com/watch?v=0G4J7VdldKI](https://www.youtube.com/watch?v=0G4J7VdldKI)
 * Community FYI: The spider noises still make my skin crawl [https://www.youtube.com/watch?v=Cj0CNIler5s](https://www.youtube.com/watch?v=Cj0CNIler5s)
@@ -131,3 +134,6 @@ date: Last Modified
 
 ## June 22nd, 2018 Livestream
 * [Q&A: Will we need to defend our factory?](../../transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
+
+## August 1st, 2017 Livestream
+* [Jace Talk: Combat](../../transcriptions/yt-ZW0OOikcWN0,1294.516063,1407.56.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1294&end=1408](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1294&end=1408)

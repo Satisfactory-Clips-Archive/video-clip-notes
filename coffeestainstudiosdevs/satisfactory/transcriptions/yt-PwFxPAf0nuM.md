@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will we have Steam Workshop on Steam?
 https://www.youtube.com/watch?v=PwFxPAf0nuM
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Is it possible to have Steam Workshop in the game?](./yt-U2Dufcqf9G8.md) [https://www.youtube.com/watch?v=U2Dufcqf9G8](https://www.youtube.com/watch?v=U2Dufcqf9G8)
+This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Is it possible to have Steam Workshop in the game? [https://www.youtube.com/watch?v=U2Dufcqf9G8](https://www.youtube.com/watch?v=U2Dufcqf9G8)
 
 
 ### Topics

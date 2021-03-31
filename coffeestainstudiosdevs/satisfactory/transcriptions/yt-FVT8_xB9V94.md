@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=FVT8_xB9V94
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
 
-* [January 19th, 2021 Livestream Q&A: How long will you wait until the Engine Upgrade gets merged from Experimental to Early Access?](./yt-MNh_mdTOijU.md) [https://www.youtube.com/watch?v=MNh_mdTOijU](https://www.youtube.com/watch?v=MNh_mdTOijU)
+* January 19th, 2021 Livestream Q&A: How long will you wait until the Engine Upgrade gets merged from Experimental to Early Access? [https://www.youtube.com/watch?v=MNh_mdTOijU](https://www.youtube.com/watch?v=MNh_mdTOijU)
 </details>
 
 

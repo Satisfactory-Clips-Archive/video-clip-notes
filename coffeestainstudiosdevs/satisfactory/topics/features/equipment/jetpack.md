@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## March 30th, 2021 Livestream
+* [Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?](../../../transcriptions/yt-XkDGnJwkY18.md) [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
+* [Q&A: Would you swap Hover and Jet packs?](../../../transcriptions/yt-wPguHi5TsY4.md) [https://www.youtube.com/watch?v=wPguHi5TsY4](https://www.youtube.com/watch?v=wPguHi5TsY4)
+
 ## February 9th, 2021 Livestream
 * [Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?](../../../transcriptions/yt-5Z5pyzNiaVY.md) [https://www.youtube.com/watch?v=5Z5pyzNiaVY](https://www.youtube.com/watch?v=5Z5pyzNiaVY)
 

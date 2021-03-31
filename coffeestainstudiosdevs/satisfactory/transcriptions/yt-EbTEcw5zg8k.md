@@ -10,7 +10,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?
 https://www.youtube.com/watch?v=EbTEcw5zg8k
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for Blueprint mode?](./yt-tJSLxVZ-sFg.md) [https://www.youtube.com/watch?v=tJSLxVZ-sFg](https://www.youtube.com/watch?v=tJSLxVZ-sFg)
+This question was possibly duplicated with a more recent answer: February 23rd, 2021 Livestream Q&A: Any plans for Blueprint mode? [https://www.youtube.com/watch?v=tJSLxVZ-sFg](https://www.youtube.com/watch?v=tJSLxVZ-sFg)
 
 
 ### Topics
