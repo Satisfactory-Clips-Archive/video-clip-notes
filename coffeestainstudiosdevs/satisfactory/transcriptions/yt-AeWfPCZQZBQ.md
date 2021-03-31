@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: When will we get the toilet DLC?
 https://www.youtube.com/watch?v=AeWfPCZQZBQ
-This question was possibly duplicated with a more recent answer: February 9th, 2021 Livestream Q&A: When is Toilet update coming? [https://www.youtube.com/watch?v=b7ZVKjoH7CQ](https://www.youtube.com/watch?v=b7ZVKjoH7CQ)
+This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: When is Toilet update coming?](./yt-b7ZVKjoH7CQ.md) [https://www.youtube.com/watch?v=b7ZVKjoH7CQ](https://www.youtube.com/watch?v=b7ZVKjoH7CQ)
 
 
 ### Topics

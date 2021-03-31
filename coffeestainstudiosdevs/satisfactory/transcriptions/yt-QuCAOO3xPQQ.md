@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Are there any features you guys really want in the game but you can't/won't add?
 https://www.youtube.com/watch?v=QuCAOO3xPQQ
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: What's the feature you want to add? [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: What's the feature you want to add?](./yt-VJgvG8RvkLw.md) [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
 
 
 ### Topics

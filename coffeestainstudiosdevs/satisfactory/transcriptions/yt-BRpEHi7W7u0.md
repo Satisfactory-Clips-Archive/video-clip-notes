@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When can Poison Pillars be removed?
 https://www.youtube.com/watch?v=BRpEHi7W7u0
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Will it be possible to remove the toxic pillars? [https://www.youtube.com/watch?v=QM6AXdaNYN4](https://www.youtube.com/watch?v=QM6AXdaNYN4)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will it be possible to remove the toxic pillars?](./yt-QM6AXdaNYN4.md) [https://www.youtube.com/watch?v=QM6AXdaNYN4](https://www.youtube.com/watch?v=QM6AXdaNYN4)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Will there be Belt Mk.6?
 https://www.youtube.com/watch?v=-fmlo0D_LXM
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Will there be a Mk.6 belt? [https://www.youtube.com/watch?v=x2MeE6UR3o8](https://www.youtube.com/watch?v=x2MeE6UR3o8)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be a Mk.6 belt?](./yt-x2MeE6UR3o8.md) [https://www.youtube.com/watch?v=x2MeE6UR3o8](https://www.youtube.com/watch?v=x2MeE6UR3o8)
 
 
 ### Topics

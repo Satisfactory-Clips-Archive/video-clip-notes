@@ -11,8 +11,8 @@ https://www.youtube.com/watch?v=loc82lE_XK4
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as August 2020 and as early as February 2019.</summary>
 
-* August 25th, 2020 Livestream Q&A: Underwater biome when? [https://www.youtube.com/watch?v=pKZc4ciFu6Q](https://www.youtube.com/watch?v=pKZc4ciFu6Q)
-* December 19th, 2019 Livestream Q&A: Underwater Worlds? [https://www.youtube.com/watch?v=QXK9y3pnWGg](https://www.youtube.com/watch?v=QXK9y3pnWGg)
+* [August 25th, 2020 Livestream Q&A: Underwater biome when?](./yt-pKZc4ciFu6Q.md) [https://www.youtube.com/watch?v=pKZc4ciFu6Q](https://www.youtube.com/watch?v=pKZc4ciFu6Q)
+* [December 19th, 2019 Livestream Q&A: Underwater Worlds?](./yt-QXK9y3pnWGg.md) [https://www.youtube.com/watch?v=QXK9y3pnWGg](https://www.youtube.com/watch?v=QXK9y3pnWGg)
 * [February 20th, 2019 Livestream Q&A: Underwater gameplay?](./yt-CB9bSigNYH8,374.51402,385.67962.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=374&end=386](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=374&end=386)
 </details>
 

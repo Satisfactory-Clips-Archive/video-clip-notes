@@ -8,7 +8,7 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Will there be Console versions of the game?
 https://www.youtube.com/watch?v=9fvWGq0_Cv0
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Will we ever make a Console version? [https://www.youtube.com/watch?v=LWvp_I866M0](https://www.youtube.com/watch?v=LWvp_I866M0)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will we ever make a Console version?](./yt-LWvp_I866M0.md) [https://www.youtube.com/watch?v=LWvp_I866M0](https://www.youtube.com/watch?v=LWvp_I866M0)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: I would be interested to see your in-house roadmap
 https://www.youtube.com/watch?v=D0LY0PxkSJM
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Satisfactory Roadmap? [https://www.youtube.com/watch?v=HZ4vKssj208](https://www.youtube.com/watch?v=HZ4vKssj208)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Satisfactory Roadmap?](./yt-HZ4vKssj208.md) [https://www.youtube.com/watch?v=HZ4vKssj208](https://www.youtube.com/watch?v=HZ4vKssj208)
 
 
 ### Topics

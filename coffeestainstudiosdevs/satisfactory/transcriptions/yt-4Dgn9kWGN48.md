@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=4Dgn9kWGN48
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as June 2020.</summary>
 
-* January 19th, 2021 Livestream Q&A: Will we get more uses/shipments for the Space Elevator? [https://www.youtube.com/watch?v=pjoG5bBsTKI](https://www.youtube.com/watch?v=pjoG5bBsTKI)
-* June 8th, 2020 Livestream Q&A: How about repeatable Space Elevator shipments to make more use of it? [https://www.youtube.com/watch?v=fbCEIVUNDe0](https://www.youtube.com/watch?v=fbCEIVUNDe0)
+* [January 19th, 2021 Livestream Q&A: Will we get more uses/shipments for the Space Elevator?](./yt-pjoG5bBsTKI.md) [https://www.youtube.com/watch?v=pjoG5bBsTKI](https://www.youtube.com/watch?v=pjoG5bBsTKI)
+* [June 8th, 2020 Livestream Q&A: How about repeatable Space Elevator shipments to make more use of it?](./yt-fbCEIVUNDe0.md) [https://www.youtube.com/watch?v=fbCEIVUNDe0](https://www.youtube.com/watch?v=fbCEIVUNDe0)
 </details>
 
 

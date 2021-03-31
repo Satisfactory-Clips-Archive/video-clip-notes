@@ -9,7 +9,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Can you make overclocking numbers more precise?
 https://www.youtube.com/watch?v=D-aOy0Uia6Q
-This question was possibly replaced with a more recent answer: March 30th, 2021 Livestream Q&A: Percentage with decimals in overclock menu? [https://www.youtube.com/watch?v=t-BYjRnBkAs](https://www.youtube.com/watch?v=t-BYjRnBkAs)
+This question was possibly replaced with a more recent answer: [March 30th, 2021 Livestream Q&A: Percentage with decimals in overclock menu?](./yt-t-BYjRnBkAs.md) [https://www.youtube.com/watch?v=t-BYjRnBkAs](https://www.youtube.com/watch?v=t-BYjRnBkAs)
 
 
 ### Topics

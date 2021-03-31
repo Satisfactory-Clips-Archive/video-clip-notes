@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=OTsxz-Twmys
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as March 2021.</summary>
 
-* March 23rd, 2021 Livestream Q&A: In the video about the Engine Upgrade, Jace talked about the improvement of building painting? [https://www.youtube.com/watch?v=sc_p8BAXGEU](https://www.youtube.com/watch?v=sc_p8BAXGEU)
+* [March 23rd, 2021 Livestream Q&A: In the video about the Engine Upgrade, Jace talked about the improvement of building painting?](./yt-sc_p8BAXGEU.md) [https://www.youtube.com/watch?v=sc_p8BAXGEU](https://www.youtube.com/watch?v=sc_p8BAXGEU)
 </details>
 
 

@@ -8,6 +8,12 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Snutt Talk: Death crates (Part 1)
 https://www.youtube.com/watch?v=zepXMTSrvTA
+<details>
+<summary>This video continues in another video</summary>
+
+* [March 30th, 2021 Livestream Snutt Talk: Death crates (Part 2)](./yt-Rk7SGMcEm5M.md) [https://www.youtube.com/watch?v=Rk7SGMcEm5M](https://www.youtube.com/watch?v=Rk7SGMcEm5M)
+</details>
+
 
 ### Topics
 * [Features > Pioneer](../topics/features/pioneer.md)

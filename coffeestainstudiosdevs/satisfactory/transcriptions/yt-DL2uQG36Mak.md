@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=DL2uQG36Mak
 <details>
 <summary>This video continues in another video</summary>
 
-* March 2nd, 2021 Livestream Q&A: Can you juggle? (Part 2) [https://www.youtube.com/watch?v=mRJ9K0Igxcw](https://www.youtube.com/watch?v=mRJ9K0Igxcw)
+* [March 2nd, 2021 Livestream Q&A: Can you juggle? (Part 2)](./yt-mRJ9K0Igxcw.md) [https://www.youtube.com/watch?v=mRJ9K0Igxcw](https://www.youtube.com/watch?v=mRJ9K0Igxcw)
 </details>
 
 

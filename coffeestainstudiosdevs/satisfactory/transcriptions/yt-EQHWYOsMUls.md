@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=EQHWYOsMUls
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as May 2020.</summary>
 
-* May 19th, 2020 Livestream Q&A: Does Coffee Stain have any analytics for what players do in the game? [https://www.youtube.com/watch?v=Ggro568KcHA](https://www.youtube.com/watch?v=Ggro568KcHA)
+* [May 19th, 2020 Livestream Q&A: Does Coffee Stain have any analytics for what players do in the game?](./yt-Ggro568KcHA.md) [https://www.youtube.com/watch?v=Ggro568KcHA](https://www.youtube.com/watch?v=Ggro568KcHA)
 </details>
 
 

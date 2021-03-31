@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=15R0t95pwvc
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
 
-* February 16th, 2021 Livestream Q&A: Did you guys develop Valheim? [https://www.youtube.com/watch?v=epiPmCco2lc](https://www.youtube.com/watch?v=epiPmCco2lc)
+* [February 16th, 2021 Livestream Q&A: Did you guys develop Valheim?](./yt-epiPmCco2lc.md) [https://www.youtube.com/watch?v=epiPmCco2lc](https://www.youtube.com/watch?v=epiPmCco2lc)
 </details>
 
 

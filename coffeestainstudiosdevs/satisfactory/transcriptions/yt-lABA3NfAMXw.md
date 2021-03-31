@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Where's the mug?
 https://www.youtube.com/watch?v=lABA3NfAMXw
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: When can we order our Coffee Mug? [https://www.youtube.com/watch?v=UGnFRDOjd-M](https://www.youtube.com/watch?v=UGnFRDOjd-M)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: When can we order our Coffee Mug?](./yt-UGnFRDOjd-M.md) [https://www.youtube.com/watch?v=UGnFRDOjd-M](https://www.youtube.com/watch?v=UGnFRDOjd-M)
 
 
 ### Topics

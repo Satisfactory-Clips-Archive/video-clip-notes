@@ -8,7 +8,7 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: What do you think about Splitters that can split a certain percentage of the Belts?
 https://www.youtube.com/watch?v=GiOZBqdfrAQ
-This question was possibly duplicated with a more recent answer: January 19th, 2021 Livestream Q&A: Are you going to add more functionality to the Programmable Splitters? [https://www.youtube.com/watch?v=PGyc_YN4DaM](https://www.youtube.com/watch?v=PGyc_YN4DaM)
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Are you going to add more functionality to the Programmable Splitters?](./yt-PGyc_YN4DaM.md) [https://www.youtube.com/watch?v=PGyc_YN4DaM](https://www.youtube.com/watch?v=PGyc_YN4DaM)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Would Official Mod Support use Steam Workshop?
 https://www.youtube.com/watch?v=qzu-mnG_8uA
-This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Is it possible to have Steam Workshop in the game? [https://www.youtube.com/watch?v=U2Dufcqf9G8](https://www.youtube.com/watch?v=U2Dufcqf9G8)
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Is it possible to have Steam Workshop in the game?](./yt-U2Dufcqf9G8.md) [https://www.youtube.com/watch?v=U2Dufcqf9G8](https://www.youtube.com/watch?v=U2Dufcqf9G8)
 
 
 ### Topics

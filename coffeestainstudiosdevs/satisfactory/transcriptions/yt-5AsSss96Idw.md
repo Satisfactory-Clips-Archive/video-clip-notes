@@ -9,7 +9,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will the Map change for 1.0?
 https://www.youtube.com/watch?v=5AsSss96Idw
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Is a bigger world a possibility? [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Is a bigger world a possibility?](./yt-dlL942ooTho.md) [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
 
 
 ### Topics

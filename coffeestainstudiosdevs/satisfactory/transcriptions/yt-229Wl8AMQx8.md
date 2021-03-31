@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: The map is pre-made, not procedurally generated?
 https://www.youtube.com/watch?v=229Wl8AMQx8
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Procedural Map? [https://www.youtube.com/watch?v=ee53aGXd5wg](https://www.youtube.com/watch?v=ee53aGXd5wg)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Procedural Map?](./yt-ee53aGXd5wg.md) [https://www.youtube.com/watch?v=ee53aGXd5wg](https://www.youtube.com/watch?v=ee53aGXd5wg)
 
 
 ### Topics

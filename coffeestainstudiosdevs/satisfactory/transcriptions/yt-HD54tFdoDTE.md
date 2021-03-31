@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will we ever see the Crab Boss?
 https://www.youtube.com/watch?v=HD54tFdoDTE
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Will there be more creatures ever? [https://www.youtube.com/watch?v=hKlILzyla-Y](https://www.youtube.com/watch?v=hKlILzyla-Y)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be more creatures ever?](./yt-hKlILzyla-Y.md) [https://www.youtube.com/watch?v=hKlILzyla-Y](https://www.youtube.com/watch?v=hKlILzyla-Y)
 
 
 ### Topics

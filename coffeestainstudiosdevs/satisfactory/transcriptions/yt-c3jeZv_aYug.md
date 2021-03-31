@@ -9,7 +9,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Are there going to be new Creatures?
 https://www.youtube.com/watch?v=c3jeZv_aYug
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Will there be more creatures ever? [https://www.youtube.com/watch?v=hKlILzyla-Y](https://www.youtube.com/watch?v=hKlILzyla-Y)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be more creatures ever?](./yt-hKlILzyla-Y.md) [https://www.youtube.com/watch?v=hKlILzyla-Y](https://www.youtube.com/watch?v=hKlILzyla-Y)
 
 
 ### Topics

@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=7DIFELANBQs
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as January 2021.</summary>
 
-* January 26th, 2021 Livestream Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7? [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
+* [January 26th, 2021 Livestream Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?](./yt-zYh_QUHwAh4.md) [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
 * [January 19th, 2021 Livestream Q&A: Recipes in Tier 6 and below will also change but no production lines below Tier 7?](./yt-2LczuvKevK4.md) [https://www.youtube.com/watch?v=2LczuvKevK4](https://www.youtube.com/watch?v=2LczuvKevK4)
 </details>
 

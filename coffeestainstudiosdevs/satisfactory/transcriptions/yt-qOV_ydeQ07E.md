@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will you guys fix the connection loss with long loading with friends?
 https://www.youtube.com/watch?v=qOV_ydeQ07E
-This question was possibly duplicated with a more recent answer: January 19th, 2021 Livestream Q&A: Can more people ride the same Train soon? [https://www.youtube.com/watch?v=YMWU_qSRI1E](https://www.youtube.com/watch?v=YMWU_qSRI1E)
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Can more people ride the same Train soon?](./yt-YMWU_qSRI1E.md) [https://www.youtube.com/watch?v=YMWU_qSRI1E](https://www.youtube.com/watch?v=YMWU_qSRI1E)
 
 
 ### Topics

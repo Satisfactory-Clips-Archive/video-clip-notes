@@ -8,7 +8,7 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Is there a way we can make Autosave more seamless?
 https://www.youtube.com/watch?v=UFWTP8Nu-MI
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Faster autosaves? [https://www.youtube.com/watch?v=V1HcV3g7ELg](https://www.youtube.com/watch?v=V1HcV3g7ELg)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Faster autosaves?](./yt-V1HcV3g7ELg.md) [https://www.youtube.com/watch?v=V1HcV3g7ELg](https://www.youtube.com/watch?v=V1HcV3g7ELg)
 
 
 ### Topics

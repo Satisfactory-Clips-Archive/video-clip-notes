@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Can you do percentage decimals to get exact part rates?
 https://www.youtube.com/watch?v=SRnmr4oaE0k
-This question was possibly replaced with a more recent answer: March 30th, 2021 Livestream Q&A: Percentage with decimals in overclock menu? [https://www.youtube.com/watch?v=t-BYjRnBkAs](https://www.youtube.com/watch?v=t-BYjRnBkAs)
+This question was possibly replaced with a more recent answer: [March 30th, 2021 Livestream Q&A: Percentage with decimals in overclock menu?](./yt-t-BYjRnBkAs.md) [https://www.youtube.com/watch?v=t-BYjRnBkAs](https://www.youtube.com/watch?v=t-BYjRnBkAs)
 
 
 ### Topics

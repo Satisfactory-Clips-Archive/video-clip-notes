@@ -9,7 +9,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Are there any Easter Eggs in the landscape?
 https://www.youtube.com/watch?v=06YaY3zGZeg
-This question was possibly duplicated with a more recent answer: December 15th, 2020 Livestream Q&A: Are there hidden secrets and cameos in the game? [https://www.youtube.com/watch?v=57Cc22ZK5aw](https://www.youtube.com/watch?v=57Cc22ZK5aw)
+This question was possibly duplicated with a more recent answer: [December 15th, 2020 Livestream Q&A: Are there hidden secrets and cameos in the game?](./yt-57Cc22ZK5aw.md) [https://www.youtube.com/watch?v=57Cc22ZK5aw](https://www.youtube.com/watch?v=57Cc22ZK5aw)
 
 
 ### Topics

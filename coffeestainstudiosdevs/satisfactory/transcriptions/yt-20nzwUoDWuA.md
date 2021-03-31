@@ -10,7 +10,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Copy & Paste settings from Machine to Machine?
 https://www.youtube.com/watch?v=20nzwUoDWuA
-This question was possibly replaced with a more recent answer: March 23rd, 2021 Livestream Q&A: Any plans on adding copy/pasting to the builder? [https://www.youtube.com/watch?v=oEjEowDbetQ](https://www.youtube.com/watch?v=oEjEowDbetQ)
+This question was possibly replaced with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any plans on adding copy/pasting to the builder?](./yt-oEjEowDbetQ.md) [https://www.youtube.com/watch?v=oEjEowDbetQ](https://www.youtube.com/watch?v=oEjEowDbetQ)
 
 
 ### Topics

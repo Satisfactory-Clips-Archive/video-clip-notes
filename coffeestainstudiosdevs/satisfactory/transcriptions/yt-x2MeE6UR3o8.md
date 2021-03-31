@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=x2MeE6UR3o8
 * [November 24th, 2020 Livestream Q&A: Mk.6 Belts coming?](./yt-H2WwaLFOI9Q.md) [https://www.youtube.com/watch?v=H2WwaLFOI9Q](https://www.youtube.com/watch?v=H2WwaLFOI9Q)
 * [November 10th, 2020 Livestream Q&A: Are Conveyor Belt Mk. 6 going to be a thing?](./yt-WbtzFVFOFMs.md) [https://www.youtube.com/watch?v=WbtzFVFOFMs](https://www.youtube.com/watch?v=WbtzFVFOFMs)
 * [November 3rd, 2020 Livestream Q&A: Any plans for better Belts for Pure nodes?](./yt-UxW9nGO9Ius.md) [https://www.youtube.com/watch?v=UxW9nGO9Ius](https://www.youtube.com/watch?v=UxW9nGO9Ius)
-* November 3rd, 2020 Livestream Q&A: Broader Belts? [https://www.youtube.com/watch?v=Y1ulbhgaSeU](https://www.youtube.com/watch?v=Y1ulbhgaSeU)
+* [November 3rd, 2020 Livestream Q&A: Broader Belts?](./yt-Y1ulbhgaSeU.md) [https://www.youtube.com/watch?v=Y1ulbhgaSeU](https://www.youtube.com/watch?v=Y1ulbhgaSeU)
 * [September 29th, 2020 Livestream Q&A: What about Mk. 6 Belts?](./yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)
 </details>
 

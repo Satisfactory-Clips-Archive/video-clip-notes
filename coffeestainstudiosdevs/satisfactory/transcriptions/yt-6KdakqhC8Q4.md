@@ -9,7 +9,7 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Can you make it so we can use closed Conveyor Belts to help with Rendering?
 https://www.youtube.com/watch?v=6KdakqhC8Q4
-This question was possibly duplicated with a more recent answer: February 16th, 2021 Livestream Q&A: Does obscuring belts actually help with performance? [https://www.youtube.com/watch?v=JDJ5hvAkrWw](https://www.youtube.com/watch?v=JDJ5hvAkrWw)
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Does obscuring belts actually help with performance?](./yt-JDJ5hvAkrWw.md) [https://www.youtube.com/watch?v=JDJ5hvAkrWw](https://www.youtube.com/watch?v=JDJ5hvAkrWw)
 
 
 ### Topics

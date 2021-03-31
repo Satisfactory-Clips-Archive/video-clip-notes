@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=k-UDNJY0PWA
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as December 2020 and as early as November 2020.</summary>
 
-* December 15th, 2020 Livestream Q&A: Can you imagine bringing something decoration foundations to factories? [https://www.youtube.com/watch?v=wuimxgd7c_A](https://www.youtube.com/watch?v=wuimxgd7c_A)
-* November 3rd, 2020 Livestream Q&A: Could you add more Build pieces every week? [https://www.youtube.com/watch?v=p0CdgjDIsEs](https://www.youtube.com/watch?v=p0CdgjDIsEs)
+* [December 15th, 2020 Livestream Q&A: Can you imagine bringing something decoration foundations to factories?](./yt-wuimxgd7c_A.md) [https://www.youtube.com/watch?v=wuimxgd7c_A](https://www.youtube.com/watch?v=wuimxgd7c_A)
+* [November 3rd, 2020 Livestream Q&A: Could you add more Build pieces every week?](./yt-p0CdgjDIsEs.md) [https://www.youtube.com/watch?v=p0CdgjDIsEs](https://www.youtube.com/watch?v=p0CdgjDIsEs)
 </details>
 
 

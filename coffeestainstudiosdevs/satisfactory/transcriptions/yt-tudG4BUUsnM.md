@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=tudG4BUUsnM
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as January 2021 and as early as March 2019.</summary>
 
-* January 26th, 2021 Livestream Q&A: Nighttime is only bad because of these damn cats? [https://www.youtube.com/watch?v=YkXm2LWDAeA](https://www.youtube.com/watch?v=YkXm2LWDAeA)
+* [January 26th, 2021 Livestream Q&A: Nighttime is only bad because of these damn cats?](./yt-YkXm2LWDAeA.md) [https://www.youtube.com/watch?v=YkXm2LWDAeA](https://www.youtube.com/watch?v=YkXm2LWDAeA)
 * [August 25th, 2020 Livestream Q&A: Arachnophobia Mode is scarier than the actual spiders](./yt--kovZdz9IS8.md) [https://www.youtube.com/watch?v=-kovZdz9IS8](https://www.youtube.com/watch?v=-kovZdz9IS8)
 * [March 9th, 2019 Livestream Q&A: I don't like spiders but arachnophobia mode is even scarier](./yt-GluAI4ipeLY.md) [https://www.youtube.com/watch?v=GluAI4ipeLY](https://www.youtube.com/watch?v=GluAI4ipeLY)
 </details>

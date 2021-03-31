@@ -12,7 +12,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: What is the Object Count Limit, and how can we tell in our own game?
 https://www.youtube.com/watch?v=gMq-fPCqGWQ
-This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Object Limit, any chance to display how much is left somehow? [https://www.youtube.com/watch?v=SNPdVSInCCQ](https://www.youtube.com/watch?v=SNPdVSInCCQ)
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Object Limit, any chance to display how much is left somehow?](./yt-SNPdVSInCCQ.md) [https://www.youtube.com/watch?v=SNPdVSInCCQ](https://www.youtube.com/watch?v=SNPdVSInCCQ)
 
 
 ### Topics

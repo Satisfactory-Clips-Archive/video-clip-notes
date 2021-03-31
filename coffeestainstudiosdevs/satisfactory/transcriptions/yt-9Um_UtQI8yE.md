@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Full Release, 2021?
 https://www.youtube.com/watch?v=9Um_UtQI8yE
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: When will the game actually release? [https://www.youtube.com/watch?v=KvCsUb7f0KY](https://www.youtube.com/watch?v=KvCsUb7f0KY)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: When will the game actually release?](./yt-KvCsUb7f0KY.md) [https://www.youtube.com/watch?v=KvCsUb7f0KY](https://www.youtube.com/watch?v=KvCsUb7f0KY)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are there any things you had wanted to add to the game but had to cancel?
 https://www.youtube.com/watch?v=akmmqVmHmzM
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: What's the feature you want to add? [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: What's the feature you want to add?](./yt-VJgvG8RvkLw.md) [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
 
 
 ### Topics

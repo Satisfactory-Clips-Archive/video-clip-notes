@@ -8,7 +8,7 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Any way to recycle Nuclear Waste?
 https://www.youtube.com/watch?v=2ZbRpgGteaI
-This question was possibly replaced with a more recent answer: February 16th, 2021 Livestream Q&A: What is the future of Nuclear Waste? [https://www.youtube.com/watch?v=Rv6FRkWjJfU](https://www.youtube.com/watch?v=Rv6FRkWjJfU)
+This question was possibly replaced with a more recent answer: [February 16th, 2021 Livestream Q&A: What is the future of Nuclear Waste?](./yt-Rv6FRkWjJfU.md) [https://www.youtube.com/watch?v=Rv6FRkWjJfU](https://www.youtube.com/watch?v=Rv6FRkWjJfU)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: $1 Toilet DLC?
 https://www.youtube.com/watch?v=mBpIB3ojMC8
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: What about the Toilet? [https://www.youtube.com/watch?v=oa5g8FKujqk](https://www.youtube.com/watch?v=oa5g8FKujqk)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: What about the Toilet?](./yt-oa5g8FKujqk.md) [https://www.youtube.com/watch?v=oa5g8FKujqk](https://www.youtube.com/watch?v=oa5g8FKujqk)
 
 
 ### Topics

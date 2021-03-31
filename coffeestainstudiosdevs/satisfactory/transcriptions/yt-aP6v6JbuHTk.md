@@ -8,7 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Any ETA on Launch?
 https://www.youtube.com/watch?v=aP6v6JbuHTk
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: When will the game actually release? [https://www.youtube.com/watch?v=KvCsUb7f0KY](https://www.youtube.com/watch?v=KvCsUb7f0KY)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: When will the game actually release?](./yt-KvCsUb7f0KY.md) [https://www.youtube.com/watch?v=KvCsUb7f0KY](https://www.youtube.com/watch?v=KvCsUb7f0KY)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: How are the talks with exclusivity on KFConsole?
 https://www.youtube.com/watch?v=hEs8MwzAoig
-This question was possibly duplicated with a more recent answer: February 2nd, 2021 Livestream Q&A: KFConsole exclusive? [https://www.youtube.com/watch?v=nK8NUTMQVTM](https://www.youtube.com/watch?v=nK8NUTMQVTM)
+This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: KFConsole exclusive?](./yt-nK8NUTMQVTM.md) [https://www.youtube.com/watch?v=nK8NUTMQVTM](https://www.youtube.com/watch?v=nK8NUTMQVTM)
 
 
 ### Topics

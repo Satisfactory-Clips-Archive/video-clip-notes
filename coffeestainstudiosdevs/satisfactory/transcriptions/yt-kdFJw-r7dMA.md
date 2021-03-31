@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=kdFJw-r7dMA
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
 
-* September 1st, 2020 Livestream Q&A: Will Update 4 be disruptive enough that players will want to start from scratch? [https://www.youtube.com/watch?v=PuTEiefcHnU](https://www.youtube.com/watch?v=PuTEiefcHnU)
+* [September 1st, 2020 Livestream Q&A: Will Update 4 be disruptive enough that players will want to start from scratch?](./yt-PuTEiefcHnU.md) [https://www.youtube.com/watch?v=PuTEiefcHnU](https://www.youtube.com/watch?v=PuTEiefcHnU)
 </details>
 
 

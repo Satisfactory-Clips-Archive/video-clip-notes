@@ -8,7 +8,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Any new information regarding Signal system for Trains?
 https://www.youtube.com/watch?v=Bu2TPRFV_2o
-This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Will Trains get collision in the future? [https://www.youtube.com/watch?v=e8ctn7TDrq0](https://www.youtube.com/watch?v=e8ctn7TDrq0)
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will Trains get collision in the future?](./yt-e8ctn7TDrq0.md) [https://www.youtube.com/watch?v=e8ctn7TDrq0](https://www.youtube.com/watch?v=e8ctn7TDrq0)
 
 
 ### Topics

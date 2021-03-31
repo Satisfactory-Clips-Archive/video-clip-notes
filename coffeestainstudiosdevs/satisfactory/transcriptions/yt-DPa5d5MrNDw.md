@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When is Satisfactory 2 coming out?
 https://www.youtube.com/watch?v=DPa5d5MrNDw
-This question was possibly duplicated with a more recent answer: October 20th, 2020 Livestream Q&A: Will we launch Satisfactory 2? [https://www.youtube.com/watch?v=jdNrrWCP_ZY](https://www.youtube.com/watch?v=jdNrrWCP_ZY)
+This question was possibly duplicated with a more recent answer: [October 20th, 2020 Livestream Q&A: Will we launch Satisfactory 2?](./yt-jdNrrWCP_ZY.md) [https://www.youtube.com/watch?v=jdNrrWCP_ZY](https://www.youtube.com/watch?v=jdNrrWCP_ZY)
 
 
 ### Topics

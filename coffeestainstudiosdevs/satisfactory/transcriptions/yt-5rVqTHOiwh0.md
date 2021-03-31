@@ -9,7 +9,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any chance to use the HUB Computer to display the statistics and production of the factory?
 https://www.youtube.com/watch?v=5rVqTHOiwh0
-This question was possibly duplicated with a more recent answer: January 19th, 2021 Livestream Q&A: Will there be ways to see your total production per minute? [https://www.youtube.com/watch?v=tHzH3dkTZ4s](https://www.youtube.com/watch?v=tHzH3dkTZ4s)
+This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Will there be ways to see your total production per minute?](./yt-tHzH3dkTZ4s.md) [https://www.youtube.com/watch?v=tHzH3dkTZ4s](https://www.youtube.com/watch?v=tHzH3dkTZ4s)
 
 
 ### Topics

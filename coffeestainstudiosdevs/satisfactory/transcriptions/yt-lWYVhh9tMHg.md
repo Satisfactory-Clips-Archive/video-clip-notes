@@ -8,6 +8,12 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Community FYI: Geothermal needs Super Computers? (Part 1)
 https://www.youtube.com/watch?v=lWYVhh9tMHg
+<details>
+<summary>This video continues in another video</summary>
+
+* [March 30th, 2021 Livestream Community FYI: Geothermal needs Super Computers? (Part 2)](./yt-m79SbaPCbtk.md) [https://www.youtube.com/watch?v=m79SbaPCbtk](https://www.youtube.com/watch?v=m79SbaPCbtk)
+</details>
+
 
 ### Topics
 * [Features > Power Management > Geothermal Energy](../topics/features/power-management/geothermal-energy.md)

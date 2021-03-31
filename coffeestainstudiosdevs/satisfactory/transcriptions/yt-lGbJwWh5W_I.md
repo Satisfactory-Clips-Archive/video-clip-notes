@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: What additions to Tier 7 might be coming & when ?
 https://www.youtube.com/watch?v=lGbJwWh5W_I
-This question was possibly replaced with a more recent answer: January 26th, 2021 Livestream Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7? [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
+This question was possibly replaced with a more recent answer: [January 26th, 2021 Livestream Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?](./yt-zYh_QUHwAh4.md) [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
 
 
 ### Topics

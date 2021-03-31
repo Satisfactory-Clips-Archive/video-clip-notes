@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Map is amazing, but infinite generation?
 https://www.youtube.com/watch?v=2yoGAha7ju0
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Procedural Map? [https://www.youtube.com/watch?v=ee53aGXd5wg](https://www.youtube.com/watch?v=ee53aGXd5wg)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Procedural Map?](./yt-ee53aGXd5wg.md) [https://www.youtube.com/watch?v=ee53aGXd5wg](https://www.youtube.com/watch?v=ee53aGXd5wg)
 
 
 ### Topics

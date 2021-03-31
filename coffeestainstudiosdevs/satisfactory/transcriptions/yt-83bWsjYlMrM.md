@@ -8,7 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Any Story hints?
 https://www.youtube.com/watch?v=83bWsjYlMrM
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Will there be Story to the game? [https://www.youtube.com/watch?v=C23SCWtnv2U](https://www.youtube.com/watch?v=C23SCWtnv2U)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be Story to the game?](./yt-C23SCWtnv2U.md) [https://www.youtube.com/watch?v=C23SCWtnv2U](https://www.youtube.com/watch?v=C23SCWtnv2U)
 
 
 ### Topics

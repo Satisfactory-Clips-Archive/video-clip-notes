@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=XkDGnJwkY18
 * [March 23rd, 2021 Livestream Q&A: Do you ever think you'll give us more than one Body Slot?](./yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
 * [March 9th, 2021 Livestream Q&A: Will we ever get a second body slot?](./yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)
 * [March 2nd, 2021 Livestream Q&A: When are we going to be able to use more than one Equipment at a time?](./yt-w6VfAW7WD1w.md) [https://www.youtube.com/watch?v=w6VfAW7WD1w](https://www.youtube.com/watch?v=w6VfAW7WD1w)
-* February 2nd, 2021 Livestream Q&A: Will we get two character slots for Jetpacks and Blade Runners [https://www.youtube.com/watch?v=YKIN_NCGDpo](https://www.youtube.com/watch?v=YKIN_NCGDpo)
+* [February 2nd, 2021 Livestream Q&A: Will we get two character slots for Jetpacks and Blade Runners](./yt-YKIN_NCGDpo.md) [https://www.youtube.com/watch?v=YKIN_NCGDpo](https://www.youtube.com/watch?v=YKIN_NCGDpo)
 * [October 6th, 2020 Livestream Q&A: What's the max amount of body slots?](./yt-aPWXjH-Xf1o.md) [https://www.youtube.com/watch?v=aPWXjH-Xf1o](https://www.youtube.com/watch?v=aPWXjH-Xf1o)
 * [September 15th, 2020 Livestream Q&A: Can I wear Boots, Jetpack and a Gas Mask?](./yt-Gt1ATsmBu6k.md) [https://www.youtube.com/watch?v=Gt1ATsmBu6k](https://www.youtube.com/watch?v=Gt1ATsmBu6k)
 </details>

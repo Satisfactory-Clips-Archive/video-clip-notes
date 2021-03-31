@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Satisfactory Mobile Game ?
 https://www.youtube.com/watch?v=LJ358eEelS4
-This question was possibly duplicated with a more recent answer: September 22nd, 2020 Livestream Q&A: Can we make a Satisfactory Mobile Mod? [https://www.youtube.com/watch?v=Wv_kjBAmLAY](https://www.youtube.com/watch?v=Wv_kjBAmLAY)
+This question was possibly duplicated with a more recent answer: [September 22nd, 2020 Livestream Q&A: Can we make a Satisfactory Mobile Mod?](./yt-Wv_kjBAmLAY.md) [https://www.youtube.com/watch?v=Wv_kjBAmLAY](https://www.youtube.com/watch?v=Wv_kjBAmLAY)
 
 
 ### Topics

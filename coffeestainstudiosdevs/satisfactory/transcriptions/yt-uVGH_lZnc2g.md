@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any features you want to add to the game but you don't expect to be added to the vanilla game?
 https://www.youtube.com/watch?v=uVGH_lZnc2g
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: What's the feature you want to add? [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: What's the feature you want to add?](./yt-VJgvG8RvkLw.md) [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
 
 
 ### Topics

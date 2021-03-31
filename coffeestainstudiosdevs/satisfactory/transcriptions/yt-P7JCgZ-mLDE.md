@@ -8,7 +8,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will you be adding more Cargo Crash Sites to add more alt recipes?
 https://www.youtube.com/watch?v=P7JCgZ-mLDE
-This question was possibly replaced with a more recent answer: March 2nd, 2021 Livestream Snutt Talk: Mark said we're adding new Alternate Recipes & new Crash Sites [https://www.youtube.com/watch?v=PoEuuDU4jpo](https://www.youtube.com/watch?v=PoEuuDU4jpo)
+This question was possibly replaced with a more recent answer: [March 2nd, 2021 Livestream Snutt Talk: Mark said we're adding new Alternate Recipes & new Crash Sites](./yt-PoEuuDU4jpo.md) [https://www.youtube.com/watch?v=PoEuuDU4jpo](https://www.youtube.com/watch?v=PoEuuDU4jpo)
 
 This question was possibly duplicated with a more recent answer: [February 2nd, 2021 Livestream Q&A: More HDD Crash Sites for Update 4?](./yt-awtYncMFbBo.md) [https://www.youtube.com/watch?v=awtYncMFbBo](https://www.youtube.com/watch?v=awtYncMFbBo)
 

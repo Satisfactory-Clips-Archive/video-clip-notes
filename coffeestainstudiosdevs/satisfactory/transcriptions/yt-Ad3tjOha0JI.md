@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Extension on current Map?
 https://www.youtube.com/watch?v=Ad3tjOha0JI
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Is a bigger world a possibility? [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Is a bigger world a possibility?](./yt-dlL942ooTho.md) [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
 
 
 ### Topics

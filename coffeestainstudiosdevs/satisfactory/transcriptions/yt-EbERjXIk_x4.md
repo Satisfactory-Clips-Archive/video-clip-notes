@@ -13,7 +13,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: If you could add a feature yourself right now, what would that be ?
 https://www.youtube.com/watch?v=EbERjXIk_x4
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: What's the feature you want to add? [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: What's the feature you want to add?](./yt-VJgvG8RvkLw.md) [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
 
 
 ### Topics

@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=EIGGdc4b7vc
 <summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as December 2020.</summary>
 
 * [January 19th, 2021 Livestream Q&A: Is there a goal amount of Events per year?](./yt-2koHO0P289M.md) [https://www.youtube.com/watch?v=2koHO0P289M](https://www.youtube.com/watch?v=2koHO0P289M)
-* December 15th, 2020 Livestream Q&A: Will there be more Seasonal Events? [https://www.youtube.com/watch?v=TNrm3qsWdxQ](https://www.youtube.com/watch?v=TNrm3qsWdxQ)
+* [December 15th, 2020 Livestream Q&A: Will there be more Seasonal Events?](./yt-TNrm3qsWdxQ.md) [https://www.youtube.com/watch?v=TNrm3qsWdxQ](https://www.youtube.com/watch?v=TNrm3qsWdxQ)
 </details>
 
 

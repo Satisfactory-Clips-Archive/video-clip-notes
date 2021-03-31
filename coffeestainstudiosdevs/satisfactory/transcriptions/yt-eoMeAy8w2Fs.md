@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: What gender is the character model?
 https://www.youtube.com/watch?v=eoMeAy8w2Fs
-This question was possibly duplicated with a more recent answer: September 22nd, 2020 Livestream Q&A: Why are we only Female in the game and no Male options? [https://www.youtube.com/watch?v=njr4NS88fBc](https://www.youtube.com/watch?v=njr4NS88fBc)
+This question was possibly duplicated with a more recent answer: [September 22nd, 2020 Livestream Q&A: Why are we only Female in the game and no Male options?](./yt-njr4NS88fBc.md) [https://www.youtube.com/watch?v=njr4NS88fBc](https://www.youtube.com/watch?v=njr4NS88fBc)
 
 
 ### Topics

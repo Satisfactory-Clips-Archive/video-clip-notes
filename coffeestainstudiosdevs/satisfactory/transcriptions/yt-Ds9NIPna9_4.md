@@ -15,7 +15,7 @@ topics:
 https://www.youtube.com/watch?v=Ds9NIPna9_4
 This question was possibly replaced with a more recent answer: [March 16th, 2021 Livestream Drones](./yt-Dp77ih_XmkY,409.4583333333333,458.9583333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459)
 
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Will there be planes and helicopters? [https://www.youtube.com/watch?v=E-c_NfjMqUM](https://www.youtube.com/watch?v=E-c_NfjMqUM)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be planes and helicopters?](./yt-E-c_NfjMqUM.md) [https://www.youtube.com/watch?v=E-c_NfjMqUM](https://www.youtube.com/watch?v=E-c_NfjMqUM)
 
 
 ### Topics

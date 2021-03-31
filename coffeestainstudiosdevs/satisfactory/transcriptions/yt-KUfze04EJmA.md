@@ -12,9 +12,9 @@ https://www.youtube.com/watch?v=KUfze04EJmA
 <summary>This question may have been asked previously at least 4 other times, as recently as January 2021 and as early as September 2020.</summary>
 
 * [January 19th, 2021 Livestream Q&A: Smart Mergers?](./yt-iwID_cZx20g.md) [https://www.youtube.com/watch?v=iwID_cZx20g](https://www.youtube.com/watch?v=iwID_cZx20g)
-* October 20th, 2020 Livestream Q&A: Will there be Priority Mergers for this Update? [https://www.youtube.com/watch?v=sMidcvjGGOM](https://www.youtube.com/watch?v=sMidcvjGGOM)
+* [October 20th, 2020 Livestream Q&A: Will there be Priority Mergers for this Update?](./yt-sMidcvjGGOM.md) [https://www.youtube.com/watch?v=sMidcvjGGOM](https://www.youtube.com/watch?v=sMidcvjGGOM)
 * [September 8th, 2020 Livestream Q&A: Can you please add a Smart or Programmable Merger?](./yt-9rXxGWPB21E.md) [https://www.youtube.com/watch?v=9rXxGWPB21E](https://www.youtube.com/watch?v=9rXxGWPB21E)
-* September 1st, 2020 Livestream Q&A: Thoughts on using a Priority Merger similar to Smart Splitter using overflow? [https://www.youtube.com/watch?v=T5UqkbsAbXg](https://www.youtube.com/watch?v=T5UqkbsAbXg)
+* [September 1st, 2020 Livestream Q&A: Thoughts on using a Priority Merger similar to Smart Splitter using overflow?](./yt-T5UqkbsAbXg.md) [https://www.youtube.com/watch?v=T5UqkbsAbXg](https://www.youtube.com/watch?v=T5UqkbsAbXg)
 </details>
 
 

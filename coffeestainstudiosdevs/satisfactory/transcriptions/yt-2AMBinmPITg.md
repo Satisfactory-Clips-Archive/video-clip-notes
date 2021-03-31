@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=2AMBinmPITg
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as May 2020.</summary>
 
-* September 1st, 2020 Livestream Q&A: Is Fog going to be turned down? [https://www.youtube.com/watch?v=mWCwMfBSkok](https://www.youtube.com/watch?v=mWCwMfBSkok)
-* May 19th, 2020 Livestream Q&A: Deactivate Fog parameter? [https://www.youtube.com/watch?v=2H_QouHUoBQ](https://www.youtube.com/watch?v=2H_QouHUoBQ)
+* [September 1st, 2020 Livestream Q&A: Is Fog going to be turned down?](./yt-mWCwMfBSkok.md) [https://www.youtube.com/watch?v=mWCwMfBSkok](https://www.youtube.com/watch?v=mWCwMfBSkok)
+* [May 19th, 2020 Livestream Q&A: Deactivate Fog parameter?](./yt-2H_QouHUoBQ.md) [https://www.youtube.com/watch?v=2H_QouHUoBQ](https://www.youtube.com/watch?v=2H_QouHUoBQ)
 </details>
 
 

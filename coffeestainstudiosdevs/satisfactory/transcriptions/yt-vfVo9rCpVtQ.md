@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=vfVo9rCpVtQ
 <details>
 <summary>This video is a continuation of a previous video</summary>
 
-* September 15th, 2020 Livestream Q&A: Update release schedule (part 1) [https://www.youtube.com/watch?v=xkalDtEeoOY](https://www.youtube.com/watch?v=xkalDtEeoOY)
+* [September 15th, 2020 Livestream Q&A: Update release schedule (part 1)](./yt-xkalDtEeoOY.md) [https://www.youtube.com/watch?v=xkalDtEeoOY](https://www.youtube.com/watch?v=xkalDtEeoOY)
 </details>
 
 

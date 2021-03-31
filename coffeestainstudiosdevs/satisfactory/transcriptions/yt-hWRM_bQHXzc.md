@@ -9,7 +9,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Third-person Camera option?
 https://www.youtube.com/watch?v=hWRM_bQHXzc
-This question was possibly duplicated with a more recent answer: February 23rd, 2021 Livestream Q&A: Third Person View? [https://www.youtube.com/watch?v=wcP5kwfOfSc](https://www.youtube.com/watch?v=wcP5kwfOfSc)
+This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Third Person View?](./yt-wcP5kwfOfSc.md) [https://www.youtube.com/watch?v=wcP5kwfOfSc](https://www.youtube.com/watch?v=wcP5kwfOfSc)
 
 
 ### Topics

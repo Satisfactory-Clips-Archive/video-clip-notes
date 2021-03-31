@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Any chance of Autosave process not creating giant frame drops ?
 https://www.youtube.com/watch?v=L6SZHtX7Jmg
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: Faster autosaves? [https://www.youtube.com/watch?v=V1HcV3g7ELg](https://www.youtube.com/watch?v=V1HcV3g7ELg)
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Faster autosaves?](./yt-V1HcV3g7ELg.md) [https://www.youtube.com/watch?v=V1HcV3g7ELg](https://www.youtube.com/watch?v=V1HcV3g7ELg)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Do you guys plan on adding filters to Truck Stations?
 https://www.youtube.com/watch?v=HzaMvf15Ty8
-This question was possibly duplicated with a more recent answer: August 25th, 2020 Livestream Q&A: Smart Truck Stations? [https://www.youtube.com/watch?v=xYwIsp94W7c](https://www.youtube.com/watch?v=xYwIsp94W7c)
+This question was possibly duplicated with a more recent answer: [August 25th, 2020 Livestream Q&A: Smart Truck Stations?](./yt-xYwIsp94W7c.md) [https://www.youtube.com/watch?v=xYwIsp94W7c](https://www.youtube.com/watch?v=xYwIsp94W7c)
 
 
 ### Topics

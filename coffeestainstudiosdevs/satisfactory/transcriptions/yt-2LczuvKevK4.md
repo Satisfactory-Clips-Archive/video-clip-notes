@@ -17,7 +17,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Recipes in Tier 6 and below will also change but no production lines below Tier 7?
 https://www.youtube.com/watch?v=2LczuvKevK4
-This question was possibly duplicated with a more recent answer: March 2nd, 2021 Livestream Q&A: How will Update 4 change the lower-level items? [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)
+This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: How will Update 4 change the lower-level items?](./yt-7DIFELANBQs.md) [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)
 
 
 ### Topics

@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=ExNgX8506uQ
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as December 2020.</summary>
 
-* December 8th, 2020 Livestream Q&A: Why is the install folder still called FactoryGame? [https://www.youtube.com/watch?v=O_J3pNOPvWw](https://www.youtube.com/watch?v=O_J3pNOPvWw)
+* [December 8th, 2020 Livestream Q&A: Why is the install folder still called FactoryGame?](./yt-O_J3pNOPvWw.md) [https://www.youtube.com/watch?v=O_J3pNOPvWw](https://www.youtube.com/watch?v=O_J3pNOPvWw)
 </details>
 
 

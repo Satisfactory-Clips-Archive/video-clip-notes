@@ -11,7 +11,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is the Early Access version the same version Alpha Testers have?
 https://www.youtube.com/watch?v=bnUTeUn6TA4
-This question was possibly duplicated with a more recent answer: March 9th, 2019 Livestream Q&A: Is that the alpha build version? [https://www.youtube.com/watch?v=u9Vu9NIjiRs](https://www.youtube.com/watch?v=u9Vu9NIjiRs)
+This question was possibly duplicated with a more recent answer: [March 9th, 2019 Livestream Q&A: Is that the alpha build version?](./yt-u9Vu9NIjiRs.md) [https://www.youtube.com/watch?v=u9Vu9NIjiRs](https://www.youtube.com/watch?v=u9Vu9NIjiRs)
 
 
 ### Topics

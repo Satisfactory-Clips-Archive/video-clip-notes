@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Arachnophobia Mode is scarier than the actual spiders
 https://www.youtube.com/watch?v=-kovZdz9IS8
-This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Will you add an Arachnophobia Mode that isn't actually scarier than spiders? [https://www.youtube.com/watch?v=tudG4BUUsnM](https://www.youtube.com/watch?v=tudG4BUUsnM)
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will you add an Arachnophobia Mode that isn't actually scarier than spiders?](./yt-tudG4BUUsnM.md) [https://www.youtube.com/watch?v=tudG4BUUsnM](https://www.youtube.com/watch?v=tudG4BUUsnM)
 
 
 ### Topics

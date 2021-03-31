@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=eTALbWgKmuE
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as November 2020.</summary>
 
-* November 3rd, 2020 Livestream Q&A: Is it going to be possible to create randomly generated Resources on the Map? [https://www.youtube.com/watch?v=xeAXhjMWZpI](https://www.youtube.com/watch?v=xeAXhjMWZpI)
+* [November 3rd, 2020 Livestream Q&A: Is it going to be possible to create randomly generated Resources on the Map?](./yt-xeAXhjMWZpI.md) [https://www.youtube.com/watch?v=xeAXhjMWZpI](https://www.youtube.com/watch?v=xeAXhjMWZpI)
 </details>
 
 

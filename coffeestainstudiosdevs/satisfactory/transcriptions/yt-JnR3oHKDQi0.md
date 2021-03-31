@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=JnR3oHKDQi0
 <summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as September 2020.</summary>
 
 * [September 15th, 2020 Livestream Q&A: Satisfactory / Sanctum cross-over?](./yt-1LMD6kBcsec.md) [https://www.youtube.com/watch?v=1LMD6kBcsec](https://www.youtube.com/watch?v=1LMD6kBcsec)
-* September 8th, 2020 Livestream Q&A: Are Sanctum and Satisfactory in the same Universe? [https://www.youtube.com/watch?v=V4ZG9Ech4Es](https://www.youtube.com/watch?v=V4ZG9Ech4Es)
+* [September 8th, 2020 Livestream Q&A: Are Sanctum and Satisfactory in the same Universe?](./yt-V4ZG9Ech4Es.md) [https://www.youtube.com/watch?v=V4ZG9Ech4Es](https://www.youtube.com/watch?v=V4ZG9Ech4Es)
 </details>
 
 
