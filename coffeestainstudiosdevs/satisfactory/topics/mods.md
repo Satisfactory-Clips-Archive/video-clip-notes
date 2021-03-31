@@ -13,7 +13,6 @@ date: Last Modified
 * [Ghost Construction](../topics/mods/ghost-construction.md)
 * [Inserters](../topics/mods/inserters.md)
 * [Item Dispenser](../topics/mods/item-dispenser.md)
-* [Item Dispensers](../topics/mods/item-dispensers.md)
 * [Light It Up](../topics/mods/light-it-up.md)
 * [Micro Manage](../topics/mods/micro-manage.md)
 * [Mk++](../topics/mods/mk-plus-plus.md)
