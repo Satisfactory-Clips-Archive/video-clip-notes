@@ -3,13 +3,13 @@ title: "July 8th, 2020"
 date: "2020-07-08"
 layout: transcript
 topics: 
-    - "mods"
+    - "mods/ficsit-networks"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Mod highlight part 1: FicsIt-Networks
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2527&end=3008
 ### Topics
-* [Mods](../topics/mods.md)
+* [Mods > FicsIt-Networks](../topics/mods/ficsit-networks.md)
 
 ### Transcript
 

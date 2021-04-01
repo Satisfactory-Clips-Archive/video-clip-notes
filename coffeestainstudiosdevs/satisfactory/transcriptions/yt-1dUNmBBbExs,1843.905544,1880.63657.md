@@ -3,13 +3,13 @@ title: "July 8th, 2020"
 date: "2020-07-08"
 layout: transcript
 topics: 
-    - ""
+    - "mods/teleporter"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Mod highlight part 1: Teleporter (Part 1)
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1843&end=1881
 ### Topics
-
+* [Mods > Teleporter](../topics/mods/teleporter.md)
 
 ### Transcript
 

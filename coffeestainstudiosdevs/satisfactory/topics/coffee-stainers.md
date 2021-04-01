@@ -89,7 +89,7 @@ date: Last Modified
 * Q&A: Do you have a QA department? [https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull](https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull)
 
 ## July 8th, 2020 Livestream
-* [Mod highlight part 1: Area Actions (Part 2)](../transcriptions/yt-1dUNmBBbExs,2452.744435,2489.595532.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2452&end=2490](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2452&end=2490)
+* [Community FYI: You guys helped us a lot in making mods](../transcriptions/yt-1dUNmBBbExs,2393.307296,2438.703271.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439)
 
 ## March 24th, 2020 Livestream
 * [Snutt & Jace Talk: We don't plan very well at all](../transcriptions/yt-uNWZuo9AxdM.md) [https://www.youtube.com/watch?v=uNWZuo9AxdM](https://www.youtube.com/watch?v=uNWZuo9AxdM)

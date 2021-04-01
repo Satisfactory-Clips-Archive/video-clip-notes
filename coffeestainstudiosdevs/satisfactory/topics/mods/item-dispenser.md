@@ -8,4 +8,4 @@ date: Last Modified
 * Mod highlight part 2: Power Suit, Item Dispenser, Signs [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11387&end=11580](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11387&end=11580)
 
 ## July 8th, 2020 Livestream
-* Outro [https://www.youtube.com/watch?v=yt-1dUNmBBbExs%2C3514.648884](https://www.youtube.com/watch?v=yt-1dUNmBBbExs%2C3514.648884)
+* [Mod highlight part 1: Item Dispenser](../../transcriptions/yt-1dUNmBBbExs,3450.885972,3514.648884.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3450&end=3515](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3450&end=3515)

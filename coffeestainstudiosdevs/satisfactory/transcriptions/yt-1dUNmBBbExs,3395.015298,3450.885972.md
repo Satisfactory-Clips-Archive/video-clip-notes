@@ -3,13 +3,13 @@ title: "July 8th, 2020"
 date: "2020-07-08"
 layout: transcript
 topics: 
-    - "community/satisfactory-calculator"
+    - "coffee-stainers/snutt"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Q&A: What's in the box?
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3395&end=3451
 ### Topics
-* [Community > Satisfactory Calculator](../topics/community/satisfactory-calculator.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 
 ### Transcript
 

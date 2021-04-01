@@ -3,13 +3,13 @@ title: "July 8th, 2020"
 date: "2020-07-08"
 layout: transcript
 topics: 
-    - "mods/teleporter"
+    - "mods/micro-manage"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Mod highlight part 1: Micro Manage
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1975&end=2131
 ### Topics
-* [Mods > Teleporter](../topics/mods/teleporter.md)
+* [Mods > Micro Manage](../topics/mods/micro-manage.md)
 
 ### Transcript
 

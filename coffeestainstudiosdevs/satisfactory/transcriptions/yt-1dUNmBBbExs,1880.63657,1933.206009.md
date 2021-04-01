@@ -3,13 +3,13 @@ title: "July 8th, 2020"
 date: "2020-07-08"
 layout: transcript
 topics: 
-    - "mods/teleporter"
+    - "mods/moar-factory"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Mod highlight part 1: Moar Factory (Part 2)
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1880&end=1934
 ### Topics
-* [Mods > Teleporter](../topics/mods/teleporter.md)
+* [Mods > Moar Factory](../topics/mods/moar-factory.md)
 
 ### Transcript
 

@@ -3,13 +3,15 @@ title: "July 8th, 2020"
 date: "2020-07-08"
 layout: transcript
 topics: 
-    - "mods/area-actions"
+    - "mods"
+    - "coffee-stainers"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Community FYI: You guys helped us a lot in making mods
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439
 ### Topics
-* [Mods > Area Actions](../topics/mods/area-actions.md)
+* [Mods](../topics/mods.md)
+* [Coffee Stainers](../topics/coffee-stainers.md)
 
 ### Transcript
 

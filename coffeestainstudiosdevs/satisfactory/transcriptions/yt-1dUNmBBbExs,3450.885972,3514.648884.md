@@ -3,13 +3,13 @@ title: "July 8th, 2020"
 date: "2020-07-08"
 layout: transcript
 topics: 
-    - "coffee-stainers/snutt"
+    - "mods/item-dispenser"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Mod highlight part 1: Item Dispenser
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3450&end=3515
 ### Topics
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Mods > Item Dispenser](../topics/mods/item-dispenser.md)
 
 ### Transcript
 

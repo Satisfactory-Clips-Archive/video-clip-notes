@@ -3,17 +3,13 @@ title: "July 8th, 2020"
 date: "2020-07-08"
 layout: transcript
 topics: 
-    - "mods"
-    - "coffee-stainers/snutt"
-    - "coffee-stainers/jace"
+    - "community/satisfactory-calculator"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Mod highlight part 1: Satisfactory Calculator (SCIM) Production Planner & Interactive Map
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3283&end=3396
 ### Topics
-* [Mods](../topics/mods.md)
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Community > Satisfactory Calculator](../topics/community/satisfactory-calculator.md)
 
 ### Transcript
 

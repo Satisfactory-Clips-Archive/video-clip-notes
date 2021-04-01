@@ -132,13 +132,13 @@ date: Last Modified
 * Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? [https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc](https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc)
 
 ## July 8th, 2020 Livestream
-* [Mod highlight part 1: Area Actions (Part 2)](../transcriptions/yt-1dUNmBBbExs,2452.744435,2489.595532.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2452&end=2490](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2452&end=2490)
-* [Mod highlight part 1: FicsIt-Networks](../transcriptions/yt-1dUNmBBbExs,2527.913164,3007.548921.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2527&end=3008](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2527&end=3008)
+* [Snutt & Jace Talk: Gameplay impact of mods](../transcriptions/yt-1dUNmBBbExs,2489.595532,2527.913164.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2489&end=2528](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2489&end=2528)
 * [Snutt Talk: How unofficial mods work (Part 1)](../transcriptions/yt-1dUNmBBbExs,158.1,644.481447.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=158&end=645](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=158&end=645)
-* [Mod highlight part 1: Satisfactory Calculator (SCIM) Production Planner & Interactive Map](../transcriptions/yt-1dUNmBBbExs,3283.3333333333335,3395.015298.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3283&end=3396](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3283&end=3396)
+* [Snutt Talk: How unofficial mods work (Part 2)](../transcriptions/yt-1dUNmBBbExs,3101.8333333333335,3224.978273.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3101&end=3225](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3101&end=3225)
 * [Community FYI: Uses standard popup with custom disconnect message](../transcriptions/yt-1dUNmBBbExs,655.75986,667.119423.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668)
 * [Q&A: What is your favourite Mod?](../transcriptions/yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
 * [Q&A: Where's the Tony Hawk Pro Skater mod so you can grind that sick rail](../transcriptions/yt-1dUNmBBbExs,1086.385008,1097.2333333333333.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1086&end=1098](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1086&end=1098)
+* [Community FYI: You guys helped us a lot in making mods](../transcriptions/yt-1dUNmBBbExs,2393.307296,2438.703271.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439)
 
 ## February 11th, 2020 Livestream
 * [Snutt, Markus, & G2 Talk: The Modding Community](../transcriptions/yt-0nF9GbpBe5I.md) [https://www.youtube.com/watch?v=0nF9GbpBe5I](https://www.youtube.com/watch?v=0nF9GbpBe5I)

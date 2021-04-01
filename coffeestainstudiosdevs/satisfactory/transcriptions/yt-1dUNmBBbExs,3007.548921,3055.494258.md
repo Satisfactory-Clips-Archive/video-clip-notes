@@ -3,13 +3,13 @@ title: "July 8th, 2020"
 date: "2020-07-08"
 layout: transcript
 topics: 
-    - "mods/ficsit-networks"
+    - "mods/light-it-up"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Mod highlight part 1: Light It Up (Part 1)
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3007&end=3056
 ### Topics
-* [Mods > FicsIt-Networks](../topics/mods/ficsit-networks.md)
+* [Mods > Light It Up](../topics/mods/light-it-up.md)
 
 ### Transcript
 

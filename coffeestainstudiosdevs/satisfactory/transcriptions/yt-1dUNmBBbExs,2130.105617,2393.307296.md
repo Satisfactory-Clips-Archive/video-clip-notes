@@ -3,13 +3,13 @@ title: "July 8th, 2020"
 date: "2020-07-08"
 layout: transcript
 topics: 
-    - "mods/micro-manage"
+    - "mods/area-actions"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Mod highlight part 1: Area Actions (Part 1)
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2130&end=2394
 ### Topics
-* [Mods > Micro Manage](../topics/mods/micro-manage.md)
+* [Mods > Area Actions](../topics/mods/area-actions.md)
 
 ### Transcript
 

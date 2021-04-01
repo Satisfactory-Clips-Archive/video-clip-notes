@@ -3,13 +3,13 @@ title: "July 8th, 2020"
 date: "2020-07-08"
 layout: transcript
 topics: 
-    - "mods/area-actions"
+    - "mods"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Snutt & Jace Talk: Gameplay impact of mods
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2489&end=2528
 ### Topics
-* [Mods > Area Actions](../topics/mods/area-actions.md)
+* [Mods](../topics/mods.md)
 
 ### Transcript
 

@@ -4,12 +4,16 @@ date: "2020-07-08"
 layout: transcript
 topics: 
     - "mods"
+    - "coffee-stainers/snutt"
+    - "coffee-stainers/jace"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Q&A: What is your favourite Mod?
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284
 ### Topics
 * [Mods](../topics/mods.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 
 ### Transcript
 

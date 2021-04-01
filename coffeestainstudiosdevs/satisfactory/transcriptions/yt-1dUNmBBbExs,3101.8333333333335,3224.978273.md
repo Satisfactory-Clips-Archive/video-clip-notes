@@ -3,13 +3,13 @@ title: "July 8th, 2020"
 date: "2020-07-08"
 layout: transcript
 topics: 
-    - "mods/light-it-up"
+    - "mods"
 ---
 # [July 8th, 2020 *Unofficial* Community Mods Showcase](../2020-07-08.md)
 ## Snutt Talk: How unofficial mods work (Part 2)
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3101&end=3225
 ### Topics
-* [Mods > Light It Up](../topics/mods/light-it-up.md)
+* [Mods](../topics/mods.md)
 
 ### Transcript
 
