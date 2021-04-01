@@ -16,142 +16,18 @@ https://www.youtube.com/watch?v=h9PeqJoWnIQ
 
 ### Transcript
 
-> fix them all but a small
-incremental improvements over
-time
+> um no hard drives for clients though
 >
-> fix them all but a small
-incremental improvements over
-time no
+> yeah that's a that's a
 >
-> fix them all but a small
-incremental improvements over
-time know how
+> really weird bug because we haven't
 >
-> fix them all but a small
-incremental improvements over
-time no hot
+> changed anything with how those work
 >
-> fix them all but a small
-incremental improvements over
-time no heart
+> um maybe that's something that's
 >
-> fix them all but a small
-incremental improvements over
-time no hard drive
+> sneaking in with the engine upgrade but
 >
-> fix them all but a small
-incremental improvements over
-time no hard drive for
+> uh we're we are we know about that stuff
 >
-> fix them all but a small
-incremental improvements over
-time no
->
-> fix them all but a small
-incremental improvements over
-time no hard drive
->
-> fix them all but a small
-incremental improvements over
-time no hard drive for
->
-> incremental improvements over
-time no hard drive for clients.
-Yeah
->
-> incremental improvements over
-time no hard drive for clients.
-Yeah that's
->
-> incremental improvements over
-time no hard drive for clients.
-Yeah that's that's
->
-> incremental improvements over
-time no hard drive for clients.
-Yeah that's that's really
->
-> incremental improvements over
-time no hard drive for clients.
-Yeah that's that's really weird
->
-> time no hard drive for clients.
-Yeah that's that's really weird
-bug is going to change
->
-> time no hard drive for clients.
-Yeah that's that's really weird
-bug is going to change anything
->
-> no hard drive for clients. Yeah
-that's that's really weird bug
-is going to change anything with
->
-> that's that's really weird bug
-is going to change anything with
-how
->
-> that's that's really weird bug
-is going to change anything with
-how those
->
-> that's that's really weird bug
-is going to change anything with
-how those work
->
-> is going to change anything with
-how those work maybe that's
-something
->
-> is going to change anything with
-how those work maybe that's
-something that sneaking
->
-> is going to change anything with
-how those work maybe that's
-something that sneaking with
->
-> is going to change anything with
-how those work maybe that's
-something that sneaking with the
->
-> how those work maybe that's
-something that sneaking with the
-engine
->
-> how those work maybe that's
-something that sneaking with the
-engine upgrade
->
-> how those work maybe that's
-something that sneaking with the
-engine upgrade but
->
-> something that sneaking with the
-engine upgrade but where we are
-at we know
->
-> something that sneaking with the
-engine upgrade but where we are
-at we know about
->
-> something that sneaking with the
-engine upgrade but where we are
-at we know about that
->
-> something that sneaking with the
-engine upgrade but where we are
-at we know about that stuff
->
-> something that sneaking with the
-engine upgrade but where we are
-at we know about that stuff and
->
-> engine upgrade but where we are
-at we know about that stuff and
-we
->
-> engine upgrade but where we are
-at we know about that stuff and
-we are
+> and we are looking into it

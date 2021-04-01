@@ -20,54 +20,10 @@ https://www.youtube.com/watch?v=e3R3jwBTaIM
 
 ### Transcript
 
-> nothing but what a waste you
-don't like looking at that big
-boat and it's only
+> i thought that was pretty funny do you
 >
-> nothing but what a waste you
-don't like looking at that big
-boat and it's only shipping
+> even satisfactory i do
 >
-> nothing but what a waste you
-don't like looking at that big
-boat and it's only shipping that
+> it's just i get very easily distracted
 >
-> don't like looking at that big
-boat and it's only shipping that
-I thought
->
-> don't like looking at that big
-boat and it's only shipping that
-I thought that was
->
-> don't like looking at that big
-boat and it's only shipping that
-I thought that was pretty
->
-> don't like looking at that big
-boat and it's only shipping that
-I thought that was pretty funny
->
-> boat and it's only shipping that
-I thought that was pretty funny
-I do
->
-> boat and it's only shipping that
-I thought that was pretty funny
-I do is just
->
-> boat and it's only shipping that
-I thought that was pretty funny
-I do is just I get
->
-> boat and it's only shipping that
-I thought that was pretty funny
-I do is just I get very
->
-> boat and it's only shipping that
-I thought that was pretty funny
-I do is just I get very easily
->
-> I thought that was pretty funny
-I do is just I get very easily
-distracted
+> and i forget things

@@ -18,930 +18,102 @@ https://www.youtube.com/watch?v=JHjGj7cJjk8
 
 ### Transcript
 
-> you can look at all the pretty
-pretty colors all over the place
-so really nice
+> uh all right next up is kind of like a
 >
-> you can look at all the pretty
-pretty colors all over the place
-so really nice all right
+> psa announcement psa announcement public
 >
-> you can look at all the pretty
-pretty colors all over the place
-so really nice right next
+> service announcement announcement
 >
-> you can look at all the pretty
-pretty colors all over the place
-so really nice right next to
+> whatever
 >
-> you can look at all the pretty
-pretty colors all over the place
-so really nice right next up
+> um so
 >
-> you can look at all the pretty
-pretty colors all over the place
-so really nice right next up is
+> this is a this is a very recurring thing
 >
-> pretty colors all over the place
-so really nice right next up is
-cuz
+> on our reddit the people
 >
-> you can look at all the pretty
-pretty colors all over the place
-so really nice right next
+> that start out playing satisfactory they
 >
-> you can look at all the pretty
-pretty colors all over the place
-so really nice right next up
+> post like this kind of picture where
 >
-> you can look at all the pretty
-pretty colors all over the place
-so really nice right next up is
+> like they're they're placing something
 >
-> pretty colors all over the place
-so really nice right next up is
-kind
+> on the space bar
 >
-> pretty colors all over the place
-so really nice right next up is
-kind of
+> no longer needed also dirty keyboard
 >
-> pretty colors all over the place
-so really nice right next up is
-kind of like
+> yeah
 >
-> pretty colors all over the place
-so really nice right next up is
-kind of like a
+> this is this is no longer needed new
 >
-> pretty colors all over the place
-so really nice right next up is
-kind of like a PSA
+> feature with update4
 >
-> pretty colors all over the place
-so really nice right next up is
-kind of like a PSA announcement
+> if you press spacebar tap it it will
 >
-> pretty colors all over the place
-so really nice right next up is
-kind of like a PSA
+> auto
 >
-> pretty colors all over the place
-so really nice right next up is
-kind of like a PSA announcement
+> craft uh just hit just hit it
 >
-> so really nice right next up is
-kind of like a PSA announcement
-PSA
+> just tap it once and uh
 >
-> so really nice right next up is
-kind of like a PSA announcement
-PSA announcement
+> you should be good but yeah like mazda's
 >
-> so really nice right next up is
-kind of like a PSA announcement
-PSA announcement public
+> point or not though you should be
 >
-> so really nice right next up is
-kind of like a PSA announcement
-PSA announcement public service
+> automating
 >
-> so really nice right next up is
-kind of like a PSA announcement
-PSA announcement Public Service
+> um but maybe for those early stages
 >
-> so really nice right next up is
-kind of like a PSA announcement
-PSA announcement public service
+> where you don't want to sit around well
 >
-> so really nice right next up is
-kind of like a PSA announcement
-PSA announcement Public Service
+> i mean you are gonna have to if you do
 >
-> kind of like a PSA announcement
-PSA announcement Public Service
-Announcement
+> it like this but
 >
-> PSA announcement PSA
-announcement Public Service
-Announcement announcement
+> i recommend automating but uh this is no
 >
-> announcement Public Service
-Announcement announcement
-whatever
+> longer needed needed
 >
-> announcement Public Service
-Announcement announcement
-whatever so
+> so and and they found out in the reddit
 >
-> announcement Public Service
-Announcement announcement
-whatever so this
+> post
 >
-> announcement Public Service
-Announcement announcement
-whatever so this is
->
-> announcement Public Service
-Announcement announcement
-whatever so this is a
->
-> announcement Public Service
-Announcement announcement
-whatever so this is at
->
-> announcement Public Service
-Announcement announcement
-whatever so this is that
->
-> announcement Public Service
-Announcement announcement
-whatever so this is at the
->
-> announcement Public Service
-Announcement announcement
-whatever so this
->
-> announcement Public Service
-Announcement announcement
-whatever so this is
->
-> announcement Public Service
-Announcement announcement
-whatever so this is that this is
->
-> Announcement announcement
-whatever so this is that this is
-a
->
-> Announcement announcement
-whatever so this is that this is
-a very
->
-> Announcement announcement
-whatever so this is that this is
-a very recurring
->
-> Announcement announcement
-whatever so this is that this is
-a very recurring thing
->
-> Announcement announcement
-whatever so this is that this is
-a very recurring thing on
->
-> whatever so this is that this is
-a very recurring thing on our
-Reddit
->
-> whatever so this is that this is
-a very recurring thing on our
-Reddit the
->
-> whatever so this is that this is
-a very recurring thing on our
-Reddit the people
->
-> whatever so this is that this is
-a very recurring thing on our
-Reddit the people that
->
-> whatever so this is that this is
-a very recurring thing on our
-Reddit the people that started
->
-> a very recurring thing on our
-Reddit the people that started
-playing
->
-> recurring thing on our Reddit
-the people that started playing
-satisfactory
->
-> recurring thing on our Reddit
-the people that started playing
-satisfactory they
->
-> recurring thing on our Reddit
-the people that started playing
-satisfactory they post like this
->
-> the people that started playing
-satisfactory they post like this
-kind
->
-> the people that started playing
-satisfactory they post like this
-kind of
->
-> the people that started playing
-satisfactory they post like this
-kind of picture
->
-> the people that started playing
-satisfactory they post like this
-kind of picture where
->
-> the people that started playing
-satisfactory they post like this
-kind of picture where like
->
-> satisfactory they post like this
-kind of picture where like
-they're
->
-> satisfactory they post like this
-kind of picture where like
-they're they're placing
->
-> kind of picture where like
-they're they're placing
-something
->
-> kind of picture where like
-they're they're placing
-something on
->
-> kind of picture where like
-they're they're placing
-something on the
->
-> kind of picture where like
-they're they're placing
-something on the space
->
-> kind of picture where like
-they're they're placing
-something on the space bar
->
-> kind of picture where like
-they're they're placing
-something on the
->
-> kind of picture where like
-they're they're placing
-something on the spacebar no
->
-> they're they're placing
-something on the spacebar no
-longer
->
-> they're they're placing
-something on the spacebar no
-longer needed
->
-> they're they're placing
-something on the spacebar no
-longer needed also
->
-> they're they're placing
-something on the spacebar no
-longer needed also dirty
->
-> something on the spacebar no
-longer needed also dirty
-keyboard
->
-> something on the spacebar no
-longer needed also dirty
-keyboard yeah
->
-> something on the spacebar no
-longer needed also dirty
-keyboard yeah this is no longer
->
-> longer needed also dirty
-keyboard yeah this is no longer
-needed
->
-> longer needed also dirty
-keyboard yeah this is no longer
-needed new
->
-> longer needed also dirty
-keyboard yeah this is no longer
-needed new feature
->
-> longer needed also dirty
-keyboard yeah this is no longer
-needed new feature with that
->
-> keyboard yeah this is no longer
-needed new feature with that pay
-for
->
-> longer needed also dirty
-keyboard yeah this is no longer
-needed new feature
->
-> keyboard yeah this is no longer
-needed new feature without pay
-for
->
-> keyboard yeah this is no longer
-needed new feature without pay
-for if you play
->
-> keyboard yeah this is no longer
-needed new feature without pay
-for if you play Space
->
-> keyboard yeah this is no longer
-needed new feature without pay
-for if you play Space Bar
->
-> keyboard yeah this is no longer
-needed new feature without pay
-for if you play space bar
->
-> keyboard yeah this is no longer
-needed new feature without pay
-for if you play Space Bar
->
-> keyboard yeah this is no longer
-needed new feature without pay
-for if you play Space Bar tap
->
-> keyboard yeah this is no longer
-needed new feature without pay
-for if you play Space Bar tap it
->
-> needed new feature without pay
-for if you play Space Bar tap it
-it will
->
-> needed new feature without pay
-for if you play Space Bar tap it
-it will auto
->
-> needed new feature without pay
-for if you play Space Bar tap it
-it will auto craft
->
-> needed new feature without pay
-for if you play Space Bar tap it
-it will auto craft just
->
-> needed new feature without pay
-for if you play Space Bar tap it
-it will auto craft just hit
->
-> needed new feature without pay
-for if you play Space Bar tap it
-it will auto craft just hit just
->
-> for if you play Space Bar tap it
-it will auto craft just hit just
-had to just tap it
->
-> for if you play Space Bar tap it
-it will auto craft just hit just
-had to just tap it once
->
-> for if you play Space Bar tap it
-it will auto craft just hit just
-had to just tap it once and
->
-> for if you play Space Bar tap it
-it will auto craft just hit just
-had to just tap it once and you
->
-> it will auto craft just hit just
-had to just tap it once and you
-should
->
-> it will auto craft just hit just
-had to just tap it once and you
-should be
->
-> it will auto craft just hit just
-had to just tap it once and you
-should be good
->
-> it will auto craft just hit just
-had to just tap it once and you
-should be good but
->
-> it will auto craft just hit just
-had to just tap it once and you
-should be good but like
->
-> had to just tap it once and you
-should be good but like that
-though
->
-> had to just tap it once and you
-should be good but like that
-though you
->
-> had to just tap it once and you
-should be good but like that
-though you should
->
-> had to just tap it once and you
-should be good but like that
-though you should be
->
-> had to just tap it once and you
-should be good but like that
-though you should be automating
->
-> should be good but like that
-though you should be automating
-but maybe
->
-> should be good but like that
-though you should be automating
-but maybe for
->
-> should be good but like that
-though you should be automating
-but maybe for those
->
-> should be good but like that
-though you should be automating
-but maybe for those early
->
-> should be good but like that
-though you should be automating
-but maybe for those early stages
->
-> though you should be automating
-but maybe for those early stages
-where
->
-> though you should be automating
-but maybe for those early stages
-where you
->
-> though you should be automating
-but maybe for those early stages
-where you don't
->
-> though you should be automating
-but maybe for those early stages
-where you don't want
->
-> though you should be automating
-but maybe for those early stages
-where you don't want to
->
-> though you should be automating
-but maybe for those early stages
-where you don't want to sit
->
-> but maybe for those early stages
-where you don't want to sit
-around
->
-> but maybe for those early stages
-where you don't want to sit
-around or
->
-> but maybe for those early stages
-where you don't want to sit
-around or I mean
->
-> but maybe for those early stages
-where you don't want to sit
-around or I mean you
->
-> but maybe for those early stages
-where you don't want to sit
-around or I mean you are
->
-> but maybe for those early stages
-where you don't want to sit
-around or I mean you are going
->
-> where you don't want to sit
-around or I mean you are going
-to
->
-> where you don't want to sit
-around or I mean you are going
-to have
->
-> where you don't want to sit
-around or I mean you are going
-to have to
->
-> where you don't want to sit
-around or I mean you are going
-to have to if
->
-> where you don't want to sit
-around or I mean you are going
-to have to if you do
->
-> around or I mean you are going
-to have to if you do it like
-this
->
-> around or I mean you are going
-to have to if you do it like
-this but
->
-> around or I mean you are going
-to have to if you do it like
-this but I
->
-> around or I mean you are going
-to have to if you do it like
-this but I recommend
->
-> around or I mean you are going
-to have to if you do it like
-this but I recommend automating
->
-> to have to if you do it like
-this but I recommend automating
-but
->
-> to have to if you do it like
-this but I recommend automating
-but this
->
-> to have to if you do it like
-this but I recommend automating
-but this is
->
-> to have to if you do it like
-this but I recommend automating
-but this is no
->
-> to have to if you do it like
-this but I recommend automating
-but this is no longer
->
-> to have to if you do it like
-this but I recommend automating
-but this is no longer need it so
->
-> this but I recommend automating
-but this is no longer need it so
-and
->
-> this but I recommend automating
-but this is no longer need it so
-and and they
->
-> this but I recommend automating
-but this is no longer need it so
-and and they found
->
-> this but I recommend automating
-but this is no longer need it so
-and and they found out
->
-> this but I recommend automating
-but this is no longer need it so
-and and they found out in
->
-> this but I recommend automating
-but this is no longer need it so
-and and they found out in the
->
-> but this is no longer need it so
-and and they found out in the
-Reddit
->
-> but this is no longer need it so
-and and they found out in the
-Reddit post
->
-> but this is no longer need it so
-and and they found out in the
-Reddit post that they
->
-> but this is no longer need it so
-and and they found out in the
-Reddit post that they know
->
-> but this is no longer need it so
-and and they found out in the
-Reddit post that they know we
->
-> and and they found out in the
-Reddit post that they know we
-don't
->
-> and and they found out in the
-Reddit post that they know we
-don't need
->
-> and and they found out in the
-Reddit post that they know we
-don't need to
->
-> and and they found out in the
-Reddit post that they know we
-don't need to tell
->
-> need it so and and they found
-out in the Reddit post that they
-know we don't need to tell them
->
-> out in the Reddit post that they
-know we don't need to tell them
-they
->
-> out in the Reddit post that they
-know we don't need to tell them
-they've
->
-> out in the Reddit post that they
-know we don't need to tell them
-they blew
->
-> out in the Reddit post that they
-know we don't need to tell them
-they blur
->
-> out in the Reddit post that they
-know we don't need to tell them
-they've learn
->
-> out in the Reddit post that they
-know we don't need to tell them
-they've learned
->
-> out in the Reddit post that they
-know we don't need to tell them
-they've learned the
->
-> out in the Reddit post that they
-know we don't need to tell them
-they've learned the hard
->
-> out in the Reddit post that they
-know we don't need to tell them
-they've learned the hard way
->
-> out in the Reddit post that they
-know we don't need to tell them
-they've
->
-> out in the Reddit post that they
-know we don't need to tell them
-they've learned
->
-> out in the Reddit post that they
-know we don't need to tell them
-they've learned the
->
-> out in the Reddit post that they
-know we don't need to tell them
-they've learned the hard
->
-> out in the Reddit post that they
-know we don't need to tell them
-they've learned the hard way
->
-> know we don't need to tell them
-they've learned the hard way
-that
->
-> know we don't need to tell them
-they've learned the hard way
-that this
->
-> know we don't need to tell them
-they've learned the hard way
-that this is
->
-> know we don't need to tell them
-they've learned the hard way
-that this is now
->
-> know we don't need to tell them
-they've learned the hard way
-that this is now possible
->
-> know we don't need to tell them
-they've learned the hard way
-that this is now possible and
+> they know we don't need to tell them
 >
 > they've learned the hard way
-that this is now possible and
-I'm now
 >
-> they've learned the hard way
-that this is now possible and
-I'm now putting
+> that this is now possible um and i'm
 >
-> they've learned the hard way
-that this is now possible and
-I'm now putting it
+> now putting it out as a psa just so
 >
-> they've learned the hard way
-that this is now possible and
-I'm now putting it out
+> everybody knows that
 >
-> they've learned the hard way
-that this is now possible and
-I'm now putting it out as a
+> we've added this as a feature because
 >
-> they've learned the hard way
-that this is now possible and
-I'm now putting it out as a PSA
+> not a lot of people know about it
 >
-> that this is now possible and
-I'm now putting it out as a PSA
-just
+> and it's kind of like a hidden gem i'd
 >
-> that this is now possible and
-I'm now putting it out as a PSA
-just everybody
+> say and
 >
-> that this is now possible and
-I'm now putting it out as a PSA
-just everybody knows
+> people really dig it you can all tab out
 >
-> that this is now possible and
-I'm now putting it out as a PSA
-just everybody knows that
+> you don't need it to anymore you don't
 >
-> that this is now possible and
-I'm now putting it out as a PSA
-just everybody knows that we've
+> need to
 >
-> I'm now putting it out as a PSA
-just everybody knows that we've
-added this is
+> oh yeah you can totally do that without
 >
-> I'm now putting it out as a PSA
-just everybody knows that we've
-added this is feature
+> like yeah yeah yeah you can all tap
 >
-> I'm now putting it out as a PSA
-just everybody knows that we've
-added this is feature because
+> out from the game now because that used
 >
-> just everybody knows that we've
-added this is feature because
-not
+> to be a thing where you had to have the
 >
-> just everybody knows that we've
-added this is feature because
-not a lot
+> window in focus for this to work now
 >
-> added this is feature because
-not a lot of people know about
-it
+> no longer the case so pat ourselves in
 >
-> added this is feature because
-not a lot of people know about
-it and it's kind of like
+> the back
 >
-> added this is feature because
-not a lot of people know about
-it and it's kind of like a
->
-> not a lot of people know about
-it and it's kind of like a
-Hidden
->
-> not a lot of people know about
-it and it's kind of like a
-Hidden Gem
->
-> not a lot of people know about
-it and it's kind of like a
-Hidden Gem I'd say
->
-> not a lot of people know about
-it and it's kind of like a
-Hidden Gem I'd say and
->
-> not a lot of people know about
-it and it's kind of like a
-Hidden Gem I'd say and people
->
-> it and it's kind of like a
-Hidden Gem I'd say and people
-really
->
-> it and it's kind of like a
-Hidden Gem I'd say and people
-really take it you can
->
-> it and it's kind of like a
-Hidden Gem I'd say and people
-really take it you can all
->
-> Hidden Gem I'd say and people
-really take it you can all
-Tapout you don't need
->
-> Hidden Gem I'd say and people
-really take it you can all
-Tapout you don't need it
->
-> Hidden Gem I'd say and people
-really take it you can all
-Tapout you don't need it anymore
->
-> really take it you can all
-Tapout you don't need it anymore
-you can
->
-> really take it you can all
-Tapout you don't need it anymore
-you can all
->
-> really take it you can all
-Tapout you don't need it anymore
-you can all tap out from
->
-> really take it you can all
-Tapout you don't need it anymore
-you can all tap out from game
->
-> Tapout you don't need it anymore
-you can all tap out from game
-knows because
->
-> Tapout you don't need it anymore
-you can all tap out from game
-knows because that
->
-> Tapout you don't need it anymore
-you can all tap out from game
-knows because that used
->
-> Tapout you don't need it anymore
-you can all tap out from game
-knows because that used to
->
-> Tapout you don't need it anymore
-you can all tap out from game
-knows because that used to be
->
-> Tapout you don't need it anymore
-you can all tap out from game
-knows because that used to be a
->
-> you can all tap out from game
-knows because that used to be a
-thing
->
-> you can all tap out from game
-knows because that used to be a
-thing we
->
-> you can all tap out from game
-knows because that used to be a
-thing we have
->
-> you can all tap out from game
-knows because that used to be a
-thing we have to have the
->
-> you can all tap out from game
-knows because that used to be a
-thing we have to have the window
->
-> knows because that used to be a
-thing we have to have the window
-and
->
-> knows because that used to be a
-thing we have to have the window
-and focus for
->
-> knows because that used to be a
-thing we have to have the window
-and focus for this
->
-> knows because that used to be a
-thing we have to have the window
-and focus for this to
->
-> knows because that used to be a
-thing we have to have the window
-and focus for this to work
->
-> knows because that used to be a
-thing we have to have the window
-and focus for this to work now
->
-> knows because that used to be a
-thing we have to have the window
-and focus for this to work
->
-> thing we have to have the window
-and focus for this to work no no
-longer
->
-> thing we have to have the window
-and focus for this to work no no
-longer the case
->
-> thing we have to have the window
-and focus for this to work no no
-longer the case so
->
-> and focus for this to work no no
-longer the case so pat yourself
-on the back
+> good job

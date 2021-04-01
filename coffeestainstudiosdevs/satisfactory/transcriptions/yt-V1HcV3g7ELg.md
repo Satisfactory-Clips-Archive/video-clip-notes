@@ -24,350 +24,38 @@ https://www.youtube.com/watch?v=V1HcV3g7ELg
 
 ### Transcript
 
-> you mean Pioneer actually
-sponsored the toilet after death
-interesting interesting observe
->
-> sponsored the toilet after death
-interesting interesting I'll
-serve
->
-> sponsored the toilet after death
-interesting interesting call
-survey
->
-> sponsored the toilet after death
-interesting interesting
-observation
->
-> sponsored the toilet after death
-interesting interesting
-observation the
->
-> sponsored the toilet after death
-interesting interesting
-observation deck
->
-> sponsored the toilet after death
-interesting interesting
-observation there
->
-> sponsored the toilet after death
-interesting interesting
-observation
->
-> sponsored the toilet after death
-interesting interesting
-observation there
->
-> sponsored the toilet after death
-interesting interesting
-observation
->
-> sponsored the toilet after death
-interesting interesting
-observation their interests
->
-> sponsored the toilet after death
-interesting interesting
-observation
->
-> interesting interesting
-observation are interesting and
-I think
->
-> interesting interesting
-observation are interesting and
-I think so
->
-> interesting interesting
-observation are interesting and
-I think so I hope
->
-> interesting interesting
-observation are interesting and
-I think so I hope so
->
-> interesting interesting
-observation are interesting and
-I think so I hope so I mean
->
-> interesting interesting
-observation are interesting and
-I think so I hope so I mean we
->
-> observation are interesting and
-I think so I hope so I mean we
-want
->
-> observation are interesting and
-I think so I hope so I mean we
-want to
->
-> observation are interesting and
-I think so I hope so I mean we
-want to like
->
-> observation are interesting and
-I think so I hope so I mean we
-want to like obviously
->
-> I think so I hope so I mean we
-want to like obviously we're
-working we
->
-> I think so I hope so I mean we
-want to like obviously we're
-working we working
->
-> I think so I hope so I mean we
-want to like obviously we're
-working we working on
->
-> I think so I hope so I mean we
-want to like obviously we're
-working we working on systems
->
-> want to like obviously we're
-working we working on systems
-that
->
-> want to like obviously we're
-working we working on systems
-that will
->
-> want to like obviously we're
-working we working on systems
-that will make
->
-> want to like obviously we're
-working we working on systems
-that will make it
->
-> want to like obviously we're
-working we working on systems
-that will make it so that we can
->
-> working we working on systems
-that will make it so that we can
-do
->
-> working we working on systems
-that will make it so that we can
-do better
->
-> working we working on systems
-that will make it so that we can
-do better auto-saving
->
-> working we working on systems
-that will make it so that we can
-do better auto-saving or
->
-> that will make it so that we can
-do better auto-saving or
-password
->
-> that will make it so that we can
-do better auto-saving or
-password saving
->
-> that will make it so that we can
-do better auto-saving or
-password saving in
->
-> that will make it so that we can
-do better auto-saving or
-password saving in general
->
-> do better auto-saving or
-password saving in general
-there's
->
-> do better auto-saving or
-password saving in general
-there's a
->
-> do better auto-saving or
-password saving in general
-there's a few
->
-> do better auto-saving or
-password saving in general
-there's a few systems
->
-> do better auto-saving or
-password saving in general
-there's a few systems that
->
-> do better auto-saving or
-password saving in general
-there's a few systems that are
->
-> password saving in general
-there's a few systems that are
-like
->
-> password saving in general
-there's a few systems that are
-like we
->
-> password saving in general
-there's a few systems that are
-like we have a little
->
-> password saving in general
-there's a few systems that are
-like we have a little bit
->
-> password saving in general
-there's a few systems that are
-like we have a little bit of
->
-> there's a few systems that are
-like we have a little bit of
-technical
->
-> there's a few systems that are
-like we have a little bit of
-technical debt
->
-> there's a few systems that are
-like we have a little bit of
-technical debt that
->
-> there's a few systems that are
-like we have a little bit of
-technical debt that stopping
->
-> there's a few systems that are
-like we have a little bit of
-technical debt that stopping us
->
-> like we have a little bit of
-technical debt that stopping us
-from
->
-> like we have a little bit of
-technical debt that stopping us
-from working
->
-> like we have a little bit of
-technical debt that stopping us
-from working on
->
-> like we have a little bit of
-technical debt that stopping us
-from working on that
->
-> like we have a little bit of
-technical debt that stopping us
-from working on that particular
->
-> technical debt that stopping us
-from working on that particular
-issue
->
-> technical debt that stopping us
-from working on that particular
-issue right
->
-> technical debt that stopping us
-from working on that particular
-issue right now
->
-> technical debt that stopping us
-from working on that particular
-issue right now but
->
-> from working on that particular
-issue right now but we're
-working on
->
-> from working on that particular
-issue right now but we're
-working on those systems
->
-> from working on that particular
-issue right now but we're
-working on those systems some
->
-> from working on that particular
-issue right now but we're
-working on those systems some of
->
-> issue right now but we're
-working on those systems some of
-the
->
-> issue right now but we're
-working on those systems some of
-the systems
->
-> issue right now but we're
-working on those systems some of
-the systems are
->
-> issue right now but we're
-working on those systems some of
-the systems are starting
->
-> issue right now but we're
-working on those systems some of
-the systems are starting to
->
-> issue right now but we're
-working on those systems some of
-the systems are starting to take
->
-> working on those systems some of
-the systems are starting to take
-effect
->
-> working on those systems some of
-the systems are starting to take
-effect in
->
-> working on those systems some of
-the systems are starting to take
-effect in up
->
-> working on those systems some of
-the systems are starting to take
-effect in up by 3 I'll take
->
-> working on those systems some of
-the systems are starting to take
-effect in up by 3 I'll take four
->
-> working on those systems some of
-the systems are starting to take
-effect in up by 3 I'll take
->
-> the systems are starting to take
-effect in up by 3 I'll take for
-so
->
-> working on those systems some of
-the systems are starting to take
-effect in up
->
-> working on those systems some of
-the systems are starting to take
-effect in up a 3.84 so yeah
->
-> the systems are starting to take
-effect in up a 3.84 so yeah
-we're
->
-> the systems are starting to take
-effect in up a 3.84 so yeah
-we're on
->
-> the systems are starting to take
-effect in up a 3.84 so yeah
-we're on the
->
-> the systems are starting to take
-effect in up a 3.84 so yeah
-we're on the path
+> creation there interesting interesting
+>
+> faster autosaves
+>
+> i think so i hope so i mean we want to
+>
+> like obviously
+>
+> uh we are working we're working on
+>
+> systems that will make it so that we can
+>
+> do
+>
+> better auto saving or faster saving in
+>
+> general there's a few systems that are
+>
+> like we have a little bit of technical
+>
+> depth that's stopping us from working on
+>
+> that particular issue
+>
+> right now but we're working on those
+>
+> systems some of the systems are
+>
+> starting to take effect in update three
+>
+> update four
+>
+> um so yeah we're on the path
+>
+> on the path

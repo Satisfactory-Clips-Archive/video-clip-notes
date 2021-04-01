@@ -14,42 +14,8 @@ https://www.youtube.com/watch?v=q2LO7TE8KXk
 
 ### Transcript
 
-> highlights this is a portion of
-the screen where we look at some
-of the stuff
+> community community has built are you
 >
-> highlights this is a portion of
-the screen where we look at some
-of the stuff that
+> ever organized
 >
-> highlights this is a portion of
-the screen where we look at some
-of the stuff that can you date
->
-> the screen where we look at some
-of the stuff that can you date
-Community
->
-> the screen where we look at some
-of the stuff that can you date
-Community has
->
-> the screen where we look at some
-of the stuff that can you date
-Community has built
->
-> the screen where we look at some
-of the stuff that can you date
-Community has built are you
->
-> the screen where we look at some
-of the stuff that can you date
-Community has built are you ever
->
-> of the stuff that can you date
-Community has built are you ever
-organized
->
-> the stuff that can you date
-Community has built are you ever
-organized
+> i'm not gonna answer that question

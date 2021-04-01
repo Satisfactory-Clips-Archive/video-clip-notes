@@ -16,126 +16,16 @@ https://www.youtube.com/watch?v=Xeg3Ljqen7M
 
 ### Transcript
 
-> Equipment Works instead yeah we
-make it so that you do make
-interesting decisions with that
+> you never you said never for pipes
 >
-> make it so that you do make
-interesting decisions with that
-you
+> drones and many other things too
 >
-> make it so that you do make
-interesting decisions with that
-you know
+> i don't for drones we never said never
 >
-> make it so that you do make
-interesting decisions with that
-you never
+> there there's a recording of
 >
-> make it so that you do make
-interesting decisions with that
-you never did
+> jay saying we've well maybe i don't know
 >
-> make it so that you do make
-interesting decisions with that
-you never just
+> don't worry about it
 >
-> make it so that you do make
-interesting decisions with that
-you
->
-> make it so that you do make
-interesting decisions with that
-you never
->
-> make it so that you do make
-interesting decisions with that
-you never just
->
-> make it so that you do make
-interesting decisions with that
-you never just said
->
-> make it so that you do make
-interesting decisions with that
-you never just said never
->
-> make interesting decisions with
-that you never just said never
-for
->
-> make interesting decisions with
-that you never just said never
-for pipes
->
-> make interesting decisions with
-that you never just said never
-for pipes drums and
->
-> make interesting decisions with
-that you never just said never
-for pipes drums and many
->
-> make interesting decisions with
-that you never just said never
-for pipes drums and many other
->
-> that you never just said never
-for pipes drums and many other
-things
->
-> that you never just said never
-for pipes drums and many other
-things to
->
-> that you never just said never
-for pipes drums and many other
-things to do for
->
-> that you never just said never
-for pipes drums and many other
-things to do for drones
->
-> that you never just said never
-for pipes drums and many other
-things to do for drones we
->
-> that you never just said never
-for pipes drums and many other
-things to do for drones we never
->
-> for pipes drums and many other
-things to do for drones we never
-said
->
-> pipes drums and many other
-things to do for drones we never
-said never
->
-> pipes drums and many other
-things to do for drones we never
-said never there
->
-> pipes drums and many other
-things to do for drones we never
-said never there there's a
->
-> things to do for drones we never
-said never there there's a
-recording
->
-> things to do for drones we never
-said never there there's a
-recording of
->
-> things to do for drones we never
-said never there there's a
-recording of Jay saying
->
-> things to do for drones we never
-said never there there's a
-recording of Jay saying we've
->
-> things to do for drones we never
-said never there there's a
-recording of Jay saying
+> we have trust issues okay

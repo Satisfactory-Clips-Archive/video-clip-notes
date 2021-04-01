@@ -18,106 +18,16 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> recipes that are related to
-bauxite refinement and update
-for dope
+> uh it's our release for update 4 on ea
 >
-> recipes that are related to
-bauxite refinement and update
-for dope it's already
+> yes
 >
-> recipes that are related to
-bauxite refinement and update
-for dope it's already set
+> on april 13th so in two weeks from from
 >
-> recipes that are related to
-bauxite refinement and update
-for dope it's already set out
+> today
 >
-> bauxite refinement and update
-for dope it's already set out
-front
+> uh we're going to be releasing ea
 >
-> bauxite refinement and update
-for dope it's already set out
-front before
+> we're going to release update 42 ea
 >
-> bauxite refinement and update
-for dope it's already set out
-front before on E8 yes
->
-> bauxite refinement and update
-for dope it's already set out
-front before on E8 yes on
->
-> bauxite refinement and update
-for dope it's already set out
-front before on E8 yes on April
->
-> for dope it's already set out
-front before on E8 yes on April
-13th
->
-> for dope it's already set out
-front before on E8 yes on April
-13th so
->
-> for dope it's already set out
-front before on E8 yes on April
-13th so in two weeks
->
-> for dope it's already set out
-front before on E8 yes on April
-13th so in two weeks from
->
-> for dope it's already set out
-front before on E8 yes on April
-13th so in two weeks from from
->
-> front before on E8 yes on April
-13th so in two weeks from from
-today
->
-> before on E8 yes on April 13th
-so in two weeks from from today
-we're going
->
-> before on E8 yes on April 13th
-so in two weeks from from today
-we're going to
->
-> before on E8 yes on April 13th
-so in two weeks from from today
-we're going to be
->
-> before on E8 yes on April 13th
-so in two weeks from from today
-we're going to be releasing
->
-> before on E8 yes on April 13th
-so in two weeks from from today
-we're going to be releasing EA
->
-> so in two weeks from from today
-we're going to be releasing EA
-we're going
->
-> so in two weeks from from today
-we're going to be releasing EA
-we're going to
->
-> so in two weeks from from today
-we're going to be releasing EA
-we're going to really
->
-> we're going to be releasing EA
-we're going to really thought
-they
->
-> we're going to be releasing EA
-we're going to really thought
-they for
->
-> we're going to be releasing EA
-we're going to really thought
-they
+> essentially

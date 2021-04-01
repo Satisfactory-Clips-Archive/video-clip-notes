@@ -14,106 +14,14 @@ https://www.youtube.com/watch?v=KfKtG1DjjFI
 
 ### Transcript
 
-> computers and stuff so I can
-build a geothermal so you can
-get it early game can
+> could you make a setting to disable the
 >
-> computers and stuff so I can
-build a geothermal so you can
-get it early game can you
+> feet dragging sound is there is there a
 >
-> computers and stuff so I can
-build a geothermal so you can
-get it early game did you may
+> different do you mean like disable
 >
-> computers and stuff so I can
-build a geothermal so you can
-get it early game can you make
+> sounds in general
 >
-> computers and stuff so I can
-build a geothermal so you can
-get it early game can you make a
+> or is there a specific sound that's
 >
-> computers and stuff so I can
-build a geothermal so you can
-get it early game can you make
->
-> build a geothermal so you can
-get it early game can you make
-acai
->
-> build a geothermal so you can
-get it early game can you make
-set
->
-> computers and stuff so I can
-build a geothermal so you can
-get it early game can you make
->
-> build a geothermal so you can
-get it early game can you make a
-setting to disable
->
-> build a geothermal so you can
-get it early game can you make a
-setting to disable defeat dragon
->
-> get it early game can you make a
-setting to disable defeat dragon
-sound
->
-> you make a setting to disable
-defeat dragon sound is there a
-is there
->
-> you make a setting to disable
-defeat dragon sound is there a
-is there a
->
-> you make a setting to disable
-defeat dragon sound is there a
-is there a different
->
-> you make a setting to disable
-defeat dragon sound is there a
-is there a different demon
->
-> disable defeat dragon sound is
-there a is there a different
-demon light
->
-> disable defeat dragon sound is
-there a is there a different
-demon light disable
->
-> disable defeat dragon sound is
-there a is there a different
-demon light disable sounds
->
-> there a is there a different
-demon light disable sounds in
-general
->
-> there a is there a different
-demon light disable sounds in
-general or
->
-> there a is there a different
-demon light disable sounds in
-general or is
->
-> there a is there a different
-demon light disable sounds in
-general or is there
->
-> there a is there a different
-demon light disable sounds in
-general or is there a specific
->
-> demon light disable sounds in
-general or is there a specific
-sound
->
-> demon light disable sounds in
-general or is there a specific
-sound it's weird
+> weird

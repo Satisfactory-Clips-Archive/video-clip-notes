@@ -16,158 +16,18 @@ https://www.youtube.com/watch?v=Z1EYZ9vmlBI
 
 ### Transcript
 
-> you don't know the answer that
-question and tread lightly we
-make
+> make the rules okay don't worry about it
 >
-> you don't know the answer that
-question and tread lightly we
-make the
+> um
 >
-> you don't know the answer that
-question and tread lightly we
-make the room
+> true or false is not jealous of jace
 >
-> you don't know the answer that
-question and tread lightly we
-make the rules
+> being on vacation
 >
-> are puns bannable if if if you
-don't know the answer that
-question and tread lightly we
+> true um
 >
-> you don't know the answer that
-question and tread lightly we
-make
+> but i'll be going on vacation soon
 >
-> you don't know the answer that
-question and tread lightly we
-make the
+> enough um
 >
-> you don't know the answer that
-question and tread lightly we
-make the rules
->
-> you don't know the answer that
-question and tread lightly we
-make the rules okay
->
-> answer that question and tread
-lightly we make the rules okay
-don't worry
->
-> answer that question and tread
-lightly we make the rules okay
-don't worry about
->
-> answer that question and tread
-lightly we make the rules okay
-don't worry about it
->
-> answer that question and tread
-lightly we make the rules okay
-don't worry about it true
->
-> answer that question and tread
-lightly we make the rules okay
-don't worry about it true or
->
-> lightly we make the rules okay
-don't worry about it true or
-false
->
-> lightly we make the rules okay
-don't worry about it true or
-false is
->
-> lightly we make the rules okay
-don't worry about it true or
-false is snow
->
-> lightly we make the rules okay
-don't worry about it true or
-false is snow jealous
->
-> lightly we make the rules okay
-don't worry about it true or
-false is snow jealous of
->
-> worry about it true or false is
-snow jealous of Jace being on
-vacation
->
-> worry about it true or false is
-snow jealous of Jace being on
-vacation true
->
-> worry about it true or false is
-snow jealous of Jace being on
-vacation true but
->
-> worry about it true or false is
-snow jealous of Jace being on
-vacation true but I
->
-> worry about it true or false is
-snow jealous of Jace being on
-vacation true but I'll
->
-> worry about it true or false is
-snow jealous of Jace being on
-vacation true but I'll be
->
-> worry about it true or false is
-snow jealous of Jace being on
-vacation true but I'll be gone
->
-> worry about it true or false is
-snow jealous of Jace being on
-vacation true but I'll be going
->
-> snow jealous of Jace being on
-vacation true but I'll be going
-on
->
-> worry about it true or false is
-snow jealous of Jace being on
-vacation true but
->
-> worry about it true or false is
-snow jealous of Jace being on
-vacation true but I'll
->
-> worry about it true or false is
-snow jealous of Jace being on
-vacation true but I'll be
->
-> worry about it true or false is
-snow jealous of Jace being on
-vacation true but I'll be going
->
-> snow jealous of Jace being on
-vacation true but I'll be going
-on
->
-> snow jealous of Jace being on
-vacation true but I'll be going
-on vacation
->
-> snow jealous of Jace being on
-vacation true but I'll be going
-on vacation soon
->
-> snow jealous of Jace being on
-vacation true but I'll be going
-on vacation soon enough
->
-> vacation true but I'll be going
-on vacation soon enough so that
-would
->
-> vacation true but I'll be going
-on vacation soon enough so that
-would be
->
-> vacation true but I'll be going
-on vacation soon enough so that
-would be fine
+> so that'll be fine

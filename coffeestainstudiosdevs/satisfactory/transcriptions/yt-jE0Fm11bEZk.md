@@ -18,130 +18,16 @@ https://www.youtube.com/watch?v=jE0Fm11bEZk
 
 ### Transcript
 
-> they forced me up as a pause no
-not right now maybe in the
-future
+> we're still working on glass
 >
-> the earliest April 13th is when
-they forced me up as a pause no
-not right now maybe
+> optimizations no we haven't worked on
 >
-> they forced me up as a pause no
-not right now maybe in the
-future
+> glass optimizations for a while the
 >
-> they forced me up as a pause no
-not right now maybe in the
-future what's the
+> glass is fairly optimized
 >
-> they forced me up as a pause no
-not right now maybe in the
-future I still
+> currently uh the conveyor belts are
 >
-> they forced me up as a pause no
-not right now maybe in the
-future I still work
+> the real hog
 >
-> they forced me up as a pause no
-not right now maybe in the
-future I still working
->
-> they forced me up as a pause no
-not right now maybe in the
-future I still working on
->
-> they forced me up as a pause no
-not right now maybe in the
-future I still workout
->
-> they forced me up as a pause no
-not right now maybe in the
-future I still work on glass
->
-> they forced me up as a pause no
-not right now maybe in the
-future I still
->
-> they forced me up as a pause no
-not right now maybe in the
-future I still work
->
-> they forced me up as a pause no
-not right now maybe in the
-future I still work on glass
->
-> not right now maybe in the
-future I still work on glass
-optimization
->
-> future I still work on glass
-optimization know we haven't
-worked on
->
-> future I still work on glass
-optimization know we haven't
-worked on glass
->
-> future I still work on glass
-optimization know we haven't
-worked on glass up
->
-> on glass optimization know we
-haven't worked on glass up
-messages for a while
->
-> on glass optimization know we
-haven't worked on glass up
-messages for a while the
->
-> optimization know we haven't
-worked on glass up messages for
-a while the glass is fairly
->
-> worked on glass up messages for
-a while the glass is fairly
-Optimus
->
-> optimization know we haven't
-worked on glass up messages for
-a while the glass is fairly
->
-> worked on glass up messages for
-a while the glass is fairly up
-to my
->
-> worked on glass up messages for
-a while the glass is fairly up
-to my currently
->
-> worked on glass up messages for
-a while the glass is fairly up
-to my currently the
->
-> worked on glass up messages for
-a while the glass is fairly up
-to my currently the conveyor
->
-> a while the glass is fairly up
-to my currently the conveyor
-belts
->
-> a while the glass is fairly up
-to my currently the conveyor
-belts are
->
-> a while the glass is fairly up
-to my currently the conveyor
-belts are the
->
-> a while the glass is fairly up
-to my currently the conveyor
-belts are the real
->
-> a while the glass is fairly up
-to my currently the conveyor
-belts are the real hog
->
-> to my currently the conveyor
-belts are the real hog affect
-performance
+> of performance still

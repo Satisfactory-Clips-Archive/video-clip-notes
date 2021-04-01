@@ -24,286 +24,32 @@ https://www.youtube.com/watch?v=gBErG8jzRtI
 
 ### Transcript
 
-> someone needs to put their foot
-down and that person is Mark
-turn
+> curved walls
 >
-> someone needs to put their foot
-down and that person is Mark
-curb
+> windows and foundations i think uh those
 >
-> someone needs to put their foot
-down and that person is Mark
-curved
+> are the things to take into
 >
-> someone needs to put their foot
-down and that person is Mark
-curved wall
+> consideration when we look into
 >
-> someone needs to put their foot
-down and that person is Mark
-curved walls
+> better build options in the game so
 >
-> someone needs to put their foot
-down and that person is Mark
-curved
+> please upload that on the kiwi site
 >
-> someone needs to put their foot
-down and that person is Mark
-curved walls
+> i'm pretty sure there are tickets for
 >
-> someone needs to put their foot
-down and that person is Mark
-curved walls windows and
+> this but if if uh
 >
-> down and that person is Mark
-curved walls windows and
-Foundations
+> if yeah make sure to upload those those
 >
-> down and that person is Mark
-curved walls windows and
-Foundations I think
+> uh
 >
-> curved walls windows and
-Foundations I think those are
-the things
+> things same with that signs science is
 >
-> curved walls windows and
-Foundations I think those are
-the things to
+> like one of our most uploaded
 >
-> curved walls windows and
-Foundations I think those are
-the things to take
+> tickets i believe on the keyword site
 >
-> curved walls windows and
-Foundations I think those are
-the things to take it
+> make sure to hit that upload button
 >
-> curved walls windows and
-Foundations I think those are
-the things to take it to
->
-> Foundations I think those are
-the things to take it to the
-kids
->
-> Foundations I think those are
-the things to take it to the
-kids or consideration
->
-> Foundations I think those are
-the things to take it to the
-kids or consideration when
->
-> Foundations I think those are
-the things to take it to the
-kids or consideration when we
->
-> the things to take it to the
-kids or consideration when we
-look
->
-> the things to take it to the
-kids or consideration when we
-look into
->
-> the things to take it to the
-kids or consideration when we
-look into better
->
-> the things to take it to the
-kids or consideration when we
-look into Better
->
-> the things to take it to the
-kids or consideration when we
-look into better
->
-> the things to take it to the
-kids or consideration when we
-look into better build
->
-> the things to take it to the
-kids or consideration when we
-look into better build options
->
-> kids or consideration when we
-look into better build options
-in the
->
-> kids or consideration when we
-look into better build options
-in the game
->
-> kids or consideration when we
-look into better build options
-in the game so please
->
-> look into better build options
-in the game so please I'll put
-that in a
->
-> look into better build options
-in the game so please I'll put
-that in a huge
->
-> look into better build options
-in the game so please I'll put
-that in a huge side
->
-> look into better build options
-in the game so please I'll put
-that in a huge side I'm
->
-> look into better build options
-in the game so please I'll put
-that in a huge side I'm pretty
->
-> in the game so please I'll put
-that in a huge side I'm pretty
-sure
->
-> in the game so please I'll put
-that in a huge side I'm pretty
-sure there are
->
-> in the game so please I'll put
-that in a huge side I'm pretty
-sure there are tickets
->
-> in the game so please I'll put
-that in a huge side I'm pretty
-sure there are tickets for
->
-> in the game so please I'll put
-that in a huge side I'm pretty
-sure there are tickets for this
->
-> that in a huge side I'm pretty
-sure there are tickets for this
-but
->
-> that in a huge side I'm pretty
-sure there are tickets for this
-but if
->
-> that in a huge side I'm pretty
-sure there are tickets for this
-but if if
->
-> that in a huge side I'm pretty
-sure there are tickets for this
-but if if if
->
-> that in a huge side I'm pretty
-sure there are tickets for this
-but if if if you make sure
->
-> that in a huge side I'm pretty
-sure there are tickets for this
-but if if if you make sure to
->
-> sure there are tickets for this
-but if if if you make sure to
-upload
->
-> sure there are tickets for this
-but if if if you make sure to
-upload those
->
-> sure there are tickets for this
-but if if if you make sure to
-upload those those
->
-> sure there are tickets for this
-but if if if you make sure to
-upload those those things
->
-> sure there are tickets for this
-but if if if you make sure to
-upload those those
->
-> sure there are tickets for this
-but if if if you make sure to
-upload those those things. Signs
->
-> but if if if you make sure to
-upload those those things. Signs
-signs
->
-> but if if if you make sure to
-upload those those things. Signs
-signs like
->
-> but if if if you make sure to
-upload those those things. Signs
-signs like one
->
-> but if if if you make sure to
-upload those those things. Signs
-signs like one of
->
-> but if if if you make sure to
-upload those those things. Signs
-signs like one of our most
->
-> upload those those things. Signs
-signs like one of our most
-upvoted
->
-> but if if if you make sure to
-upload those those things. Signs
-signs like one of our most
->
-> upload those those things. Signs
-signs like one of our most
-upvoted
->
-> upload those those things. Signs
-signs like one of our most
-upvoted tickets I believe
->
-> signs like one of our most
-upvoted tickets I believe them.
-Make sure to
->
-> signs like one of our most
-upvoted tickets I believe them.
-Make sure to hit
->
-> signs like one of our most
-upvoted tickets I believe them.
-Make sure to hit that
->
-> signs like one of our most
-upvoted tickets I believe them.
-Make sure to hit that up
->
-> upvoted tickets I believe them.
-Make sure to hit that up with
-button
->
-> upvoted tickets I believe them.
-Make sure to hit that up with
-Button
->
-> upvoted tickets I believe them.
-Make sure to hit that up with
-button
->
-> upvoted tickets I believe them.
-Make sure to hit that up with
-Button
->
-> upvoted tickets I believe them.
-Make sure to hit that up with
-Button Mash.
->
-> upvoted tickets I believe them.
-Make sure to hit that up with
-Button Mash. Up
->
-> upvoted tickets I believe them.
-Make sure to hit that up with
-Button Mash. Up open
+> smash that up vote button
