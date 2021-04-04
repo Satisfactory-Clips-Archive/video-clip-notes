@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "environment/biomes"
     - "environment/world-map"
+    - "satisfactory-updates/pending/world-update"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: What kind of changes can we expect from the World Update?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=5qQx1URl8lY
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-01-12"
 layout: transcript
 topics:
     - "environment/biomes"
-    - "environment/world-map"
+    - "satisfactory-updates/pending/world-update"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Which Biome will be rebuilt?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
-* [Environment > World Map](../topics/environment/world-map.md)
+* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 
 ### Transcript
 

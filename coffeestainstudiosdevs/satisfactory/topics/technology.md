@@ -21,6 +21,9 @@ date: Last Modified
 ## February 2nd, 2021 Livestream
 * [Q&A: Is it worth upgrading RAM from 16gb to 32gb for Satisfactory?](../transcriptions/yt-v21Dz1EfRPE.md) [https://www.youtube.com/watch?v=v21Dz1EfRPE](https://www.youtube.com/watch?v=v21Dz1EfRPE)
 
+## November 5th, 2020 Livestream
+* Q&A: If you were to decide what area of the game to optimise, how do you decide what to do? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1384&end=1501](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1384&end=1501)
+
 ## October 9th, 2020 Livestream
 * [Snutt & Dylan Talk: Code Editors](../transcriptions/yt-PCQ64Q_sx90.md) [https://www.youtube.com/watch?v=PCQ64Q_sx90](https://www.youtube.com/watch?v=PCQ64Q_sx90)
 * [Snutt & Dylan Talk: Debugging code is like being a detective](../transcriptions/yt-ivlDLoIrRwY.md) [https://www.youtube.com/watch?v=ivlDLoIrRwY](https://www.youtube.com/watch?v=ivlDLoIrRwY)

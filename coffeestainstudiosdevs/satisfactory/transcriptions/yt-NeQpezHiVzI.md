@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "environment/world-map"
     - "satisfactory-updates/modular-build"
+    - "satisfactory-updates/pending/world-update"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we add more to the Map?
@@ -15,6 +16,7 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Satisfactory Updates > Modular Build](../topics/satisfactory-updates/modular-build.md)
+* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 
 ### Transcript
 

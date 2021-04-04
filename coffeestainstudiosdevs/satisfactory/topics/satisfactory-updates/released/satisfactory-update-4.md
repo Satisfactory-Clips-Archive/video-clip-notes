@@ -9,6 +9,7 @@ date: Last Modified
 * [State of Dev: Cheatcrete](../../../transcriptions/yt-JBNdcw4gTiw.md) [https://www.youtube.com/watch?v=JBNdcw4gTiw](https://www.youtube.com/watch?v=JBNdcw4gTiw)
 * [Q&A: Game full release on Thursday?](../../../transcriptions/yt-FbYuuY2Qrlg.md) [https://www.youtube.com/watch?v=FbYuuY2Qrlg](https://www.youtube.com/watch?v=FbYuuY2Qrlg)
 * [Q&A: Is the release date for Update 4 on EA?](../../../transcriptions/yt-uK4PYV5aWqU.md) [https://www.youtube.com/watch?v=uK4PYV5aWqU](https://www.youtube.com/watch?v=uK4PYV5aWqU)
+* [Q&A: Is the World Update part of Update 4 or will that come later?](../../../transcriptions/yt-ANIKlhFcjkk.md) [https://www.youtube.com/watch?v=ANIKlhFcjkk](https://www.youtube.com/watch?v=ANIKlhFcjkk)
 * [Community FYI: I want to thank you for this great Update](../../../transcriptions/yt-PEExck6tNoc.md) [https://www.youtube.com/watch?v=PEExck6tNoc](https://www.youtube.com/watch?v=PEExck6tNoc)
 * [State of Dev: Modding situation for Update 4](../../../transcriptions/yt-l3C9cCJJ30s.md) [https://www.youtube.com/watch?v=l3C9cCJJ30s](https://www.youtube.com/watch?v=l3C9cCJJ30s)
 * [Q&A: Multiplayer Train lag fixes?](../../../transcriptions/yt-l80tNALjEak.md) [https://www.youtube.com/watch?v=l80tNALjEak](https://www.youtube.com/watch?v=l80tNALjEak)
@@ -404,6 +405,10 @@ date: Last Modified
 * [Q&A: Can you summarise the upcoming builds for the next months?](../../../transcriptions/yt-hUYyIETHuJ4.md) [https://www.youtube.com/watch?v=hUYyIETHuJ4](https://www.youtube.com/watch?v=hUYyIETHuJ4)
 * [Q&A: Doesn't Jace already have a video/youtube on Dev Timelime stuff?](../../../transcriptions/yt-2-MMBU1hMKM.md) [https://www.youtube.com/watch?v=2-MMBU1hMKM](https://www.youtube.com/watch?v=2-MMBU1hMKM)
 * [Snutt & Jace Talk: Vague Roadmap, Update 4](../../../transcriptions/yt-ghROw63PzX8.md) [https://www.youtube.com/watch?v=ghROw63PzX8](https://www.youtube.com/watch?v=ghROw63PzX8)
+
+## November 5th, 2020 Livestream
+* Ben & Jace Talk: Factory Render Distance [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1137&end=1172](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1137&end=1172)
+* Ben & Jace Talk: Mesh Imposters / LODing (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=974&end=1138](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=974&end=1138)
 
 ## November 3rd, 2020 Livestream
 * [Q&A: Can you use old saves after Updates ?](../../../transcriptions/yt-2iEj514FVbs.md) [https://www.youtube.com/watch?v=2iEj514FVbs](https://www.youtube.com/watch?v=2iEj514FVbs)

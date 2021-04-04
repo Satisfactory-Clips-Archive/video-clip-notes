@@ -7,7 +7,6 @@ date: Last Modified
 ## March 30th, 2021 Livestream
 * [Q&A: Are you going to fix the places where you instantly die?](../../transcriptions/yt-ZWjntHKKxxE.md) [https://www.youtube.com/watch?v=ZWjntHKKxxE](https://www.youtube.com/watch?v=ZWjntHKKxxE)
 * [Q&A: Is a bigger world a possibility?](../../transcriptions/yt-dlL942ooTho.md) [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
-* [Q&A: Is the World Update part of Update 4 or will that come later?](../../transcriptions/yt-ANIKlhFcjkk.md) [https://www.youtube.com/watch?v=ANIKlhFcjkk](https://www.youtube.com/watch?v=ANIKlhFcjkk)
 * [Community FYI: Joke's on you, I glitched under the map with a Train; immersion ruined.](../../transcriptions/yt-eVumrhkcdn4.md) [https://www.youtube.com/watch?v=eVumrhkcdn4](https://www.youtube.com/watch?v=eVumrhkcdn4)
 * [Q&A: Why are there obvious cave entrances that lead under the map?](../../transcriptions/yt-sh3gPpdUAik.md) [https://www.youtube.com/watch?v=sh3gPpdUAik](https://www.youtube.com/watch?v=sh3gPpdUAik)
 
@@ -16,14 +15,10 @@ date: Last Modified
 * [Q&A: Can we destroy or remove drop pods after Hard Drive collection?](../../transcriptions/yt-9_BZvuAoyUI.md) [https://www.youtube.com/watch?v=9_BZvuAoyUI](https://www.youtube.com/watch?v=9_BZvuAoyUI)
 * Q&A: Why does the Map look like Spain? [https://www.youtube.com/watch?v=DvhDthCbCtU](https://www.youtube.com/watch?v=DvhDthCbCtU)
 
-## March 17th, 2021 Livestream
-* Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video? [https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/](https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/)
-
 ## March 16th, 2021 Livestream
 * Mod highlight part 2: Custom Maps [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9832&end=9970](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9832&end=9970)
 * Snutt Talk: Instagram Christmas Throwback Calendar [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5229&end=5266](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5229&end=5266)
 * Q&A: Is there anything Hannah is particularly proud of in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5166&end=5230](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5166&end=5230)
-* Jace & Hannah Talk: World Update pending [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5265&end=5278](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5265&end=5278)
 
 ## March 2nd, 2021 Livestream
 * [Q&A: What kind of changes can we expect from the World Update?](../../transcriptions/yt-5qQx1URl8lY.md) [https://www.youtube.com/watch?v=5qQx1URl8lY](https://www.youtube.com/watch?v=5qQx1URl8lY)
@@ -48,7 +43,6 @@ date: Last Modified
 ## January 26th, 2021 Livestream
 * [Q&A: Can add a basic non-interactive local Map from the start?](../../transcriptions/yt-9h4HwEuF2_U.md) [https://www.youtube.com/watch?v=9h4HwEuF2_U](https://www.youtube.com/watch?v=9h4HwEuF2_U)
 * [Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?](../../transcriptions/yt-gqIBbkGCxdI.md) [https://www.youtube.com/watch?v=gqIBbkGCxdI](https://www.youtube.com/watch?v=gqIBbkGCxdI)
-* [Q&A: Is there another area rework like the desert update happening?](../../transcriptions/yt-sV-kvBvlTXc.md) [https://www.youtube.com/watch?v=sV-kvBvlTXc](https://www.youtube.com/watch?v=sV-kvBvlTXc)
 * [Jace Talk: There are no plans for increasing the size of the Map](../../transcriptions/yt-aCvn84FtDMI.md) [https://www.youtube.com/watch?v=aCvn84FtDMI](https://www.youtube.com/watch?v=aCvn84FtDMI)
 * [Q&A: What is blocking you now from releasing Update 4, Story elements, Buildings, Maps?](../../transcriptions/yt-pCwOyYQ1f6Y.md) [https://www.youtube.com/watch?v=pCwOyYQ1f6Y](https://www.youtube.com/watch?v=pCwOyYQ1f6Y)
 
@@ -59,9 +53,6 @@ date: Last Modified
 * [Q&A: Is the Map finalised, as in there will be no more additions?](../../transcriptions/yt-zVnmYZemxe8.md) [https://www.youtube.com/watch?v=zVnmYZemxe8](https://www.youtube.com/watch?v=zVnmYZemxe8)
 * [Q&A: What about an opional grid to put all Foundations all aligned around the Map?](../../transcriptions/yt-Xi9S_sVklB8.md) [https://www.youtube.com/watch?v=Xi9S_sVklB8](https://www.youtube.com/watch?v=Xi9S_sVklB8)
 * [Q&A: What about the island off to the west of the Map?](../../transcriptions/yt-VjKPXr_e5yk.md) [https://www.youtube.com/watch?v=VjKPXr_e5yk](https://www.youtube.com/watch?v=VjKPXr_e5yk)
-
-## January 12th, 2021 Livestream
-* [Q&A: Which Biome will be rebuilt?](../../transcriptions/yt-5v0_pFbQLF4.md) [https://www.youtube.com/watch?v=5v0_pFbQLF4](https://www.youtube.com/watch?v=5v0_pFbQLF4)
 
 ## December 15th, 2020 Livestream
 * [Q&A: Are there hidden secrets and cameos in the game?](../../transcriptions/yt-57Cc22ZK5aw.md) [https://www.youtube.com/watch?v=57Cc22ZK5aw](https://www.youtube.com/watch?v=57Cc22ZK5aw)
@@ -93,6 +84,9 @@ date: Last Modified
 * Q&A: Any plans to expand the Map / add new Biomes? [https://www.youtube.com/watch?v=oZhfgq9vdKg](https://www.youtube.com/watch?v=oZhfgq9vdKg)
 * [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](../../transcriptions/yt-IFxnvuYEVtk.md) [https://www.youtube.com/watch?v=IFxnvuYEVtk](https://www.youtube.com/watch?v=IFxnvuYEVtk)
 * [Q&A: Will the dark areas of the Map open up soon?](../../transcriptions/yt-MTkj1xIXfhw.md) [https://www.youtube.com/watch?v=MTkj1xIXfhw](https://www.youtube.com/watch?v=MTkj1xIXfhw)
+
+## November 5th, 2020 Livestream
+* Ben & Jace Talk: Level Streaming [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1212&end=1385](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1212&end=1385)
 
 ## November 3rd, 2020 Livestream
 * [Q&A: Is it going to be possible to create randomly generated Resources on the Map?](../../transcriptions/yt-xeAXhjMWZpI.md) [https://www.youtube.com/watch?v=xeAXhjMWZpI](https://www.youtube.com/watch?v=xeAXhjMWZpI)

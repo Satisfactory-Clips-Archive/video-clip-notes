@@ -40,6 +40,10 @@ date: Last Modified
 ## December 8th, 2020 Livestream
 * [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../../transcriptions/yt-42AzC9Qk2yc.md) [https://www.youtube.com/watch?v=42AzC9Qk2yc](https://www.youtube.com/watch?v=42AzC9Qk2yc)
 
+## November 5th, 2020 Livestream
+* Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=400&end=640](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=400&end=640)
+* Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 4) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=881&end=975](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=881&end=975)
+
 ## August 25th, 2020 Livestream
 * [Q&A: Dedicated Servers update?](../../../transcriptions/yt-mtE-rHjMsn4.md) [https://www.youtube.com/watch?v=mtE-rHjMsn4](https://www.youtube.com/watch?v=mtE-rHjMsn4)
 * [Q&A: Do you have a set of ideas?](../../../transcriptions/yt-eSN0HQlSJBs.md) [https://www.youtube.com/watch?v=eSN0HQlSJBs](https://www.youtube.com/watch?v=eSN0HQlSJBs)

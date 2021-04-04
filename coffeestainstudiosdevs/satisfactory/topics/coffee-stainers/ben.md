@@ -19,6 +19,10 @@ date: Last Modified
 ## November 10th, 2020 Livestream
 * [Jace Talk: Ben is awesome](../../transcriptions/yt-jSEd3fDu6KE.md) [https://www.youtube.com/watch?v=jSEd3fDu6KE](https://www.youtube.com/watch?v=jSEd3fDu6KE)
 
+## November 5th, 2020 Livestream
+* Q&A: If you were to decide what area of the game to optimise, how do you decide what to do? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1384&end=1501](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1384&end=1501)
+* Q&A: So what is a "Technical Artist"? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=26&end=88](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=26&end=88)
+
 ## October 9th, 2020 Livestream
 * [Q&A: Have Coffee Stain considered contributing the instanced spline mesh back to Unreal Engine?](../../transcriptions/yt-ny4PdCAnT9Q.md) [https://www.youtube.com/watch?v=ny4PdCAnT9Q](https://www.youtube.com/watch?v=ny4PdCAnT9Q)
 * [Q&A: Unit Tests FTW?](../../transcriptions/yt-8MbgpOLyXyY.md) [https://www.youtube.com/watch?v=8MbgpOLyXyY](https://www.youtube.com/watch?v=8MbgpOLyXyY)

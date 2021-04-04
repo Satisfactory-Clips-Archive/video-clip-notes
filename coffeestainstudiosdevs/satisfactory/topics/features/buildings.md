@@ -79,6 +79,12 @@ date: Last Modified
 * [Q&A: When will we implement gravity physics to the Buildings?](../../transcriptions/yt-6JFV5EAIU8U.md) [https://www.youtube.com/watch?v=6JFV5EAIU8U](https://www.youtube.com/watch?v=6JFV5EAIU8U)
 * [Q&A: Will there be faster Smelter/Manufacturers?](../../transcriptions/yt-eiGqL7qpc14.md) [https://www.youtube.com/watch?v=eiGqL7qpc14](https://www.youtube.com/watch?v=eiGqL7qpc14)
 
+## November 5th, 2020 Livestream
+* Ben & Jace Talk: Mesh Imposters / LODing (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=974&end=1138](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=974&end=1138)
+* Ben & Jace Talk: Mesh Imposters / LODing (Part 2) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1171&end=1213](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1171&end=1213)
+* Q&A: What are Baked Materials? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1557&end=1612](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1557&end=1612)
+* Q&A: What Buildings should we stay away from to minimise the chances of hitting the Object Limit [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1670&end=1753](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1670&end=1753)
+
 ## November 3rd, 2020 Livestream
 * [Q&A: Any chance splitters/mergers can be placed in production buildings?](../../transcriptions/yt-Ypi07NY-1rg.md) [https://www.youtube.com/watch?v=Ypi07NY-1rg](https://www.youtube.com/watch?v=Ypi07NY-1rg)
 * [Q&A: Does the kitchen come into the HUB, I want to cook a Lizard Doggo](../../transcriptions/yt-NQ8x2q2z55w.md) [https://www.youtube.com/watch?v=NQ8x2q2z55w](https://www.youtube.com/watch?v=NQ8x2q2z55w)

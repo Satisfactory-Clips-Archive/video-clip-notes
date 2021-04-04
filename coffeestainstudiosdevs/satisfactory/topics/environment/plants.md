@@ -30,6 +30,9 @@ date: Last Modified
 ## November 10th, 2020 Livestream
 * [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](../../transcriptions/yt-IFxnvuYEVtk.md) [https://www.youtube.com/watch?v=IFxnvuYEVtk](https://www.youtube.com/watch?v=IFxnvuYEVtk)
 
+## November 5th, 2020 Livestream
+* Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 4) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=881&end=975](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=881&end=975)
+
 ## October 6th, 2020 Livestream
 * [Q&A: If you have a full inventory you can remove just a single tree but you don't get the resources?](../../transcriptions/yt-bwEOd9tqyuQ.md) [https://www.youtube.com/watch?v=bwEOd9tqyuQ](https://www.youtube.com/watch?v=bwEOd9tqyuQ)
 

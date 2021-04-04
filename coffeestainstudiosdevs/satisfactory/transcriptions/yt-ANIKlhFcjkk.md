@@ -4,8 +4,8 @@ date: "2021-03-30"
 layout: transcript
 topics:
     - "environment/biomes"
-    - "environment/world-map"
-    - "satisfactory-updates"
+    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Is the World Update part of Update 4 or will that come later?
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=ANIKlhFcjkk
 
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
-* [Environment > World Map](../topics/environment/world-map.md)
-* [Satisfactory Updates](../topics/satisfactory-updates.md)
+* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

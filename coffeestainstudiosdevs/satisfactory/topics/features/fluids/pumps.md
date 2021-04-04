@@ -7,6 +7,9 @@ date: Last Modified
 ## January 15th, 2021 Livestream
 * [Headlift for Gases](../../../transcriptions/yt-Jxh8kvtUuxY,100.56713333333333,136.00253333333333.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137)
 
+## November 5th, 2020 Livestream
+* Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=400&end=640](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=400&end=640)
+
 ## October 27th, 2020 Livestream
 * Q&A: Can Mk.1 Pump push 600upm through Mk.2 Pipes? [https://www.youtube.com/watch?v=WUyc9WI1DBc](https://www.youtube.com/watch?v=WUyc9WI1DBc)
 * [Jace & Snutt Talk: Mk.1 Pumps](../../../transcriptions/yt-MoAb27XIZWA.md) [https://www.youtube.com/watch?v=MoAb27XIZWA](https://www.youtube.com/watch?v=MoAb27XIZWA)

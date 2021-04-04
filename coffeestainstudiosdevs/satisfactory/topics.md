@@ -319,7 +319,8 @@ date: Last Modified
 * [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)
 * [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
 
-## [Pending](./topics/satisfactory-updates/pending.md)
+## Pending
+* [World Update](./topics/satisfactory-updates/pending/world-update.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 ---
 

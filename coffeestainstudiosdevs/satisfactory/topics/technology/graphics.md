@@ -69,6 +69,22 @@ date: Last Modified
 * [Jace Talk: Encased Conveyor Belts](../../transcriptions/yt-xT-2uWvm3iw.md) [https://www.youtube.com/watch?v=xT-2uWvm3iw](https://www.youtube.com/watch?v=xT-2uWvm3iw)
 * [Q&A: Is it true that building vertically equals worse performance than building horizontally?](../../transcriptions/yt-BF0MYqw_SpM.md) [https://www.youtube.com/watch?v=BF0MYqw_SpM](https://www.youtube.com/watch?v=BF0MYqw_SpM)
 
+## November 5th, 2020 Livestream
+* Ben & Jace Talk: Factory Render Distance [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1137&end=1172](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1137&end=1172)
+* Ben & Jace Talk: Fancy Caustics [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=312&end=340](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=312&end=340)
+* Q&A: If you were to decide what area of the game to optimise, how do you decide what to do? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1384&end=1501](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1384&end=1501)
+* Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=400&end=640](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=400&end=640)
+* Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 2) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=639&end=739](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=639&end=739)
+* Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 3) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=738&end=882](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=738&end=882)
+* Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 4) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=881&end=975](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=881&end=975)
+* Ben & Jace Talk: Mesh Imposters / LODing (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=974&end=1138](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=974&end=1138)
+* Ben & Jace Talk: Mesh Imposters / LODing (Part 2) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1171&end=1213](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1171&end=1213)
+* Ben & Jace Talk: Optimisation review - Refinery (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1500&end=1558](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1500&end=1558)
+* Ben & Jace Talk: Optimisation review - Refinery (Part 2) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1611&end=1671](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1611&end=1671)
+* Ben & Jace Talk: Screen-space Reflections [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=263&end=313](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=263&end=313)
+* Q&A: What are Baked Materials? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1557&end=1612](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1557&end=1612)
+* Q&A: What Buildings should we stay away from to minimise the chances of hitting the Object Limit [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1670&end=1753](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1670&end=1753)
+
 ## November 3rd, 2020 Livestream
 * [Q&A: Do you plan on some cutscenes for the Story?](../../transcriptions/yt-t6WEYv_TLDI.md) [https://www.youtube.com/watch?v=t6WEYv_TLDI](https://www.youtube.com/watch?v=t6WEYv_TLDI)
 * [Q&A: What about having covered Conveyors to help performance?](../../transcriptions/yt-dbJGfDr5SLk.md) [https://www.youtube.com/watch?v=dbJGfDr5SLk](https://www.youtube.com/watch?v=dbJGfDr5SLk)

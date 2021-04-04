@@ -3,14 +3,18 @@ title: "October 6th, 2020 Livestream Q&A: How is the World Building going?"
 date: "2020-10-06"
 layout: transcript
 topics:
+    - "coffee-stainers/hannah"
     - "environment/world-map"
+    - "satisfactory-updates/pending/world-update"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: How is the World Building going?
 https://www.youtube.com/watch?v=nFJUho2El3Y
 
 ### Topics
+* [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-03-23"
 layout: transcript
 topics:
     - "environment/biomes"
-    - "satisfactory-updates"
+    - "satisfactory-updates/pending/world-update"
     - "satisfactory-updates/release-builds"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=4mnVlMXrfyw
 
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
-* [Satisfactory Updates](../topics/satisfactory-updates.md)
+* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript

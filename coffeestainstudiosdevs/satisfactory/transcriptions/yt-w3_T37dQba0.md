@@ -4,6 +4,7 @@ date: "2021-02-23"
 layout: transcript
 topics:
     - "environment/world-map"
+    - "satisfactory-updates/pending/world-update"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
@@ -18,6 +19,7 @@ https://www.youtube.com/watch?v=w3_T37dQba0
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript

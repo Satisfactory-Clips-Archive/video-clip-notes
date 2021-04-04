@@ -43,6 +43,9 @@ date: Last Modified
 * [Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?](../../../transcriptions/yt-SJI1puC2mEw.md) [https://www.youtube.com/watch?v=SJI1puC2mEw](https://www.youtube.com/watch?v=SJI1puC2mEw)
 * [Q&A: Who in Coffee Stain Studios is the best Factory Builder?](../../../transcriptions/yt-ypN9OtMd7YU.md) [https://www.youtube.com/watch?v=ypN9OtMd7YU](https://www.youtube.com/watch?v=ypN9OtMd7YU)
 
+## November 5th, 2020 Livestream
+* Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 3) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=738&end=882](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=738&end=882)
+
 ## October 27th, 2020 Livestream
 * Q&A: Can Mk.1 Pump push 600upm through Mk.2 Pipes? [https://www.youtube.com/watch?v=WUyc9WI1DBc](https://www.youtube.com/watch?v=WUyc9WI1DBc)
 * [Q&A: The pipes thing- is that a reskin?](../../../transcriptions/yt-q23PowF0dXM.md) [https://www.youtube.com/watch?v=q23PowF0dXM](https://www.youtube.com/watch?v=q23PowF0dXM)

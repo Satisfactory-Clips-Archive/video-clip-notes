@@ -18,6 +18,9 @@ date: Last Modified
 * [Q&A: Will Hyper Tube cannons be broken by the Engine Upgrade?](../../../transcriptions/yt-TYZBVCcqLzg.md) [https://www.youtube.com/watch?v=TYZBVCcqLzg](https://www.youtube.com/watch?v=TYZBVCcqLzg)
 * [Q&A: Will Hyper Tube cannons be patched out eventually & officially supported as a feature?](../../../transcriptions/yt-bvtKzwJA4pw.md) [https://www.youtube.com/watch?v=bvtKzwJA4pw](https://www.youtube.com/watch?v=bvtKzwJA4pw)
 
+## November 5th, 2020 Livestream
+* Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 2) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=639&end=739](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=639&end=739)
+
 ## September 8th, 2020 Livestream
 * [Snutt Talk: Belts, Pipes, and Hyper Tube max lengths](../../../transcriptions/yt-IeP2Y9SFeh8.md) [https://www.youtube.com/watch?v=IeP2Y9SFeh8](https://www.youtube.com/watch?v=IeP2Y9SFeh8)
 * [Q&A: Hyper Tube Cannon future ?](../../../transcriptions/yt-X3RdhRuPf04.md) [https://www.youtube.com/watch?v=X3RdhRuPf04](https://www.youtube.com/watch?v=X3RdhRuPf04)

@@ -76,6 +76,9 @@ date: Last Modified
 ## December 11th, 2020 Livestream
 * [Outro](../transcriptions/yt-njXBs_p2l1w,713.1457666666666,757.1897666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758)
 
+## November 5th, 2020 Livestream
+* Q&A: So what is a "Technical Artist"? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=26&end=88](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=26&end=88)
+
 ## October 9th, 2020 Livestream
 * [Snutt & Dylan Talk: Crash reporting](../transcriptions/yt-1QDj7pJa9DQ.md) [https://www.youtube.com/watch?v=1QDj7pJa9DQ](https://www.youtube.com/watch?v=1QDj7pJa9DQ)
 * [Dylan & Snutt Talk: Visual Studio vs. Rider](../transcriptions/yt-hc2OfgQZCvA.md) [https://www.youtube.com/watch?v=hc2OfgQZCvA](https://www.youtube.com/watch?v=hc2OfgQZCvA)

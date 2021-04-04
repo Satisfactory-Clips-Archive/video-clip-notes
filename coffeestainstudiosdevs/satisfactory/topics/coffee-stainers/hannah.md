@@ -24,6 +24,9 @@ date: Last Modified
 * [Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"](../../transcriptions/yt-hCcT5uhzwso.md) [https://www.youtube.com/watch?v=hCcT5uhzwso](https://www.youtube.com/watch?v=hCcT5uhzwso)
 * [Q&A: Who is Hannah?](../../transcriptions/yt-KwsiVfRUKNE.md) [https://www.youtube.com/watch?v=KwsiVfRUKNE](https://www.youtube.com/watch?v=KwsiVfRUKNE)
 
+## October 6th, 2020 Livestream
+* [Q&A: How is the World Building going?](../../transcriptions/yt-nFJUho2El3Y.md) [https://www.youtube.com/watch?v=nFJUho2El3Y](https://www.youtube.com/watch?v=nFJUho2El3Y)
+
 ## September 29th, 2020 Livestream
 * [Q&A: Will there be a stream or something with Hannah?](../../transcriptions/yt-YM0ojMjT1mU.md) [https://www.youtube.com/watch?v=YM0ojMjT1mU](https://www.youtube.com/watch?v=YM0ojMjT1mU)
 
