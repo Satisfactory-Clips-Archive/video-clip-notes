@@ -4,8 +4,8 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Switch
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Excitement about Signs [https://play.satisfactory.video/ts-952893339,4402.033601586431,4459.303503/](https://play.satisfactory.video/ts-952893339,4402.033601586431,4459.303503/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: Excitement about Signs](../../../transcriptions/yt-n0be66gsOAM.md) [https://www.youtube.com/watch?v=n0be66gsOAM](https://www.youtube.com/watch?v=n0be66gsOAM)
 
 ## March 16th, 2021 Livestream
 * [Power Switches](../../../transcriptions/yt-Dp77ih_XmkY,319.2083333333333,327.0833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=319&end=328](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=319&end=328)

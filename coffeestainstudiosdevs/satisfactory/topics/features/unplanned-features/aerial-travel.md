@@ -11,8 +11,8 @@ date: Last Modified
 * Q&A: Will there be planes? [https://www.youtube.com/watch?v=DWx3XAQft60](https://www.youtube.com/watch?v=DWx3XAQft60)
 * [Community FYI: Yes you did](../../../transcriptions/yt-08O7dRyOYy0.md) [https://www.youtube.com/watch?v=08O7dRyOYy0](https://www.youtube.com/watch?v=08O7dRyOYy0)
 
-## March 17th, 2021 Livestream
-* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://play.satisfactory.video/ts-952893339,913.940124,950.272706/](https://play.satisfactory.video/ts-952893339,913.940124,950.272706/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Community FYI: This is the 2nd update where you added a feature that you said "we're not adding"](../../../transcriptions/yt-dQtPBrWlx6c.md) [https://www.youtube.com/watch?v=dQtPBrWlx6c](https://www.youtube.com/watch?v=dQtPBrWlx6c)
 
 ## February 9th, 2021 Livestream
 * [Q&A: Is flyable transport an option?](../../../transcriptions/yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)

@@ -22,11 +22,11 @@ date: Last Modified
 * [Q&A: Pause keybind when?](../../transcriptions/yt-2dCCPHV_fSk.md) [https://www.youtube.com/watch?v=2dCCPHV_fSk](https://www.youtube.com/watch?v=2dCCPHV_fSk)
 * [Q&A: There's a pause?](../../transcriptions/yt-VLSmQSlinEU.md) [https://www.youtube.com/watch?v=VLSmQSlinEU](https://www.youtube.com/watch?v=VLSmQSlinEU)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Compositing the Lights Control Panel shot [https://play.satisfactory.video/ts-952893339,4906.666965671338,4956.002485/](https://play.satisfactory.video/ts-952893339,4906.666965671338,4956.002485/)
-* Community FYI: I like the new bigger stacks for some items [https://play.satisfactory.video/ts-952893339,906.7000552528946,911.087849/](https://play.satisfactory.video/ts-952893339,906.7000552528946,911.087849/)
-* Snutt & Jace Talk: Particle Accelerator power usage [https://play.satisfactory.video/ts-953014105,4586.872127,4691.261352/](https://play.satisfactory.video/ts-953014105,4586.872127,4691.261352/)
-* Snutt & Jace Talk: The end plate [https://play.satisfactory.video/ts-953014105,5529.86691508835,5666.95273/](https://play.satisfactory.video/ts-953014105,5529.86691508835,5666.95273/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: Compositing the Lights Control Panel shot](../../transcriptions/yt-3-NMnDsiQyA.md) [https://www.youtube.com/watch?v=3-NMnDsiQyA](https://www.youtube.com/watch?v=3-NMnDsiQyA)
+* [Community FYI: I like the new bigger stacks for some items](../../transcriptions/yt-u67YUrQ4csE.md) [https://www.youtube.com/watch?v=u67YUrQ4csE](https://www.youtube.com/watch?v=u67YUrQ4csE)
+* [Snutt & Jace Talk: Particle Accelerator power usage](../../transcriptions/yt-Ejl1r4KQpMY.md) [https://www.youtube.com/watch?v=Ejl1r4KQpMY](https://www.youtube.com/watch?v=Ejl1r4KQpMY)
+* [Snutt & Jace Talk: The end plate](../../transcriptions/yt-1guClsLrbJI.md) [https://www.youtube.com/watch?v=1guClsLrbJI](https://www.youtube.com/watch?v=1guClsLrbJI)
 
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: Community spotted things in the Nuclear Refinement teaser](../../transcriptions/yt-0BtRlCxfxEc.md) [https://www.youtube.com/watch?v=0BtRlCxfxEc](https://www.youtube.com/watch?v=0BtRlCxfxEc)

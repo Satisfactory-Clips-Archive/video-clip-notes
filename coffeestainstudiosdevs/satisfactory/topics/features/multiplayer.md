@@ -16,8 +16,8 @@ date: Last Modified
 * [Q&A: Pause keybind when?](../../transcriptions/yt-2dCCPHV_fSk.md) [https://www.youtube.com/watch?v=2dCCPHV_fSk](https://www.youtube.com/watch?v=2dCCPHV_fSk)
 * [Q&A: There's a pause?](../../transcriptions/yt-VLSmQSlinEU.md) [https://www.youtube.com/watch?v=VLSmQSlinEU](https://www.youtube.com/watch?v=VLSmQSlinEU)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Issues with the Zip Lines teaser & Update 4 Multiplayer improvements [https://play.satisfactory.video/ts-953014105,3530.792889,3614.902872/](https://play.satisfactory.video/ts-953014105,3530.792889,3614.902872/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: Issues with the Zip Lines teaser & Update 4 Multiplayer improvement](../../transcriptions/yt-AJxPTC20qAE.md) [https://www.youtube.com/watch?v=AJxPTC20qAE](https://www.youtube.com/watch?v=AJxPTC20qAE)
 
 ## March 16th, 2021 Livestream
 * Mod highlight part 2 Q&A: Do mods work in Multiplayer? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11960&end=11980](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11960&end=11980)

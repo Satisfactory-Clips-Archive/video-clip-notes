@@ -7,8 +7,8 @@ date: Last Modified
 ## March 30th, 2021 Livestream
 * [Q&A: Loss of efficiency over long distances?](../../transcriptions/yt-G3mcXzVjUZQ.md) [https://www.youtube.com/watch?v=G3mcXzVjUZQ](https://www.youtube.com/watch?v=G3mcXzVjUZQ)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Excitement about Signs [https://play.satisfactory.video/ts-952893339,4402.033601586431,4459.303503/](https://play.satisfactory.video/ts-952893339,4402.033601586431,4459.303503/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: Excitement about Signs](../../transcriptions/yt-n0be66gsOAM.md) [https://www.youtube.com/watch?v=n0be66gsOAM](https://www.youtube.com/watch?v=n0be66gsOAM)
 
 ## March 16th, 2021 Livestream
 * Q&A: Is there anything Mark is particularly proud of in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5311&end=5386](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5311&end=5386)

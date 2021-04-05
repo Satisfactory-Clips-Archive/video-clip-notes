@@ -4,10 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Uzu
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Información [https://play.satisfactory.video/ts-952893339,3798.304294,3850.333567966687/](https://play.satisfactory.video/ts-952893339,3798.304294,3850.333567966687/)
-* Snutt Talk: We consulted with Uzu [https://play.satisfactory.video/ts-952893339,2272.7001384948203,2368.201944/](https://play.satisfactory.video/ts-952893339,2272.7001384948203,2368.201944/)
-* Snutt & Jace Talk: ¡Eres un tonto! [https://play.satisfactory.video/ts-952893339,5116.700311803778,5179.48788/](https://play.satisfactory.video/ts-952893339,5116.700311803778,5179.48788/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: Información](../../transcriptions/yt-jIP3nccgQsY.md) [https://www.youtube.com/watch?v=jIP3nccgQsY](https://www.youtube.com/watch?v=jIP3nccgQsY)
+* [Snutt Talk: We consulted with Uzu](../../transcriptions/yt-erOQnQoq0R8.md) [https://www.youtube.com/watch?v=erOQnQoq0R8](https://www.youtube.com/watch?v=erOQnQoq0R8)
+* Snutt & Jace Talk: ¡Eres un tonto! [https://www.youtube.com/watch?v=7lJLn9AbGeY](https://www.youtube.com/watch?v=7lJLn9AbGeY)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Are you going to add more functionality to the Programmable Splitters?](../../transcriptions/yt-PGyc_YN4DaM.md) [https://www.youtube.com/watch?v=PGyc_YN4DaM](https://www.youtube.com/watch?v=PGyc_YN4DaM)

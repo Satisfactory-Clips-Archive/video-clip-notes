@@ -11,8 +11,8 @@ date: Last Modified
 * [Do you plan to integrate an automatic path travel for Trucks?](../../../../transcriptions/yt-i1cimOkbLHs.md) [https://www.youtube.com/watch?v=i1cimOkbLHs](https://www.youtube.com/watch?v=i1cimOkbLHs)
 * [Q&A: Will we get a Truck & Tractor ghosting fix soon?](../../../../transcriptions/yt-SU1kBDjZGhM.md) [https://www.youtube.com/watch?v=SU1kBDjZGhM](https://www.youtube.com/watch?v=SU1kBDjZGhM)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: The Truck kept flipping & falling [https://play.satisfactory.video/ts-953014105,737.6000331356694,774.168136/](https://play.satisfactory.video/ts-953014105,737.6000331356694,774.168136/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: The Truck kept flipping & falling](../../../../transcriptions/yt-AP6XsLP_KUo.md) [https://www.youtube.com/watch?v=AP6XsLP_KUo](https://www.youtube.com/watch?v=AP6XsLP_KUo)
 
 ## February 9th, 2021 Livestream
 * [Q&A: Are Truck Stations & Freight Platforms a part of the UI Update?](../../../../transcriptions/yt-ANyv9_88k0A.md) [https://www.youtube.com/watch?v=ANyv9_88k0A](https://www.youtube.com/watch?v=ANyv9_88k0A)

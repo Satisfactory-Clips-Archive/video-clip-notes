@@ -14,8 +14,8 @@ date: Last Modified
 * [Q&A: How about Train Elevators?](../../../transcriptions/yt-OsGX9e5N9wk.md) [https://www.youtube.com/watch?v=OsGX9e5N9wk](https://www.youtube.com/watch?v=OsGX9e5N9wk)
 * [Q&A: Will the Trains ever be paintable?](../../../transcriptions/yt-L2-j0MZepbI.md) [https://www.youtube.com/watch?v=L2-j0MZepbI](https://www.youtube.com/watch?v=L2-j0MZepbI)
 
-## March 17th, 2021 Livestream
-* Community FYI: The train part looks amazing [https://play.satisfactory.video/ts-952893339,4898.239745,4906.666965671338/](https://play.satisfactory.video/ts-952893339,4898.239745,4906.666965671338/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Community FYI: The train part looks amazing](../../../transcriptions/yt-oqjLxMUfZJo.md) [https://www.youtube.com/watch?v=oqjLxMUfZJo](https://www.youtube.com/watch?v=oqjLxMUfZJo)
 
 ## March 16th, 2021 Livestream
 * Mod highlight part 2: FicsIt-Networks - Train Network integration [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13144&end=13194](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13144&end=13194)

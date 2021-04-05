@@ -7,8 +7,8 @@ date: Last Modified
 ## March 30th, 2021 Livestream
 * [Q&A: Will we ever make a Console version?](../../../transcriptions/yt-LWvp_I866M0.md) [https://www.youtube.com/watch?v=LWvp_I866M0](https://www.youtube.com/watch?v=LWvp_I866M0)
 
-## March 17th, 2021 Livestream
-* Q&A: Does this mean that Console is confirmed? [https://play.satisfactory.video/ts-952893339,2991.306945,3010.193065/](https://play.satisfactory.video/ts-952893339,2991.306945,3010.193065/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Q&A: Does this mean that Console is confirmed?](../../../transcriptions/yt-19QNZuFNN3Y.md) [https://www.youtube.com/watch?v=19QNZuFNN3Y](https://www.youtube.com/watch?v=19QNZuFNN3Y)
 
 ## February 23rd, 2021 Livestream
 * [Q&A: Any plans for bringing the game to Nintendo Switch?](../../../transcriptions/yt-rfeMtSPOadY.md) [https://www.youtube.com/watch?v=rfeMtSPOadY](https://www.youtube.com/watch?v=rfeMtSPOadY)

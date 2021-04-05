@@ -8,9 +8,9 @@ date: Last Modified
 * [Q&A: Energy Storage and Day/Night cycle would make Solar power extremely interesting to set up?](../../../transcriptions/yt-S9ROGuBkzZo.md) [https://www.youtube.com/watch?v=S9ROGuBkzZo](https://www.youtube.com/watch?v=S9ROGuBkzZo)
 * [Q&A: Will there be a larger Power Storage?](../../../transcriptions/yt-8AGzN_pepYE.md) [https://www.youtube.com/watch?v=8AGzN_pepYE](https://www.youtube.com/watch?v=8AGzN_pepYE)
 
-## March 17th, 2021 Livestream
-* Jace Talk: Opinion- Power Storage justification & the Particle Accelerator [https://play.satisfactory.video/ts-953014105,4928.57605,5009.502008/](https://play.satisfactory.video/ts-953014105,4928.57605,5009.502008/)
-* Snutt & Jace Talk: Opinion on Power Storage [https://play.satisfactory.video/ts-952893339,4319.605724,4394.66682/](https://play.satisfactory.video/ts-952893339,4319.605724,4394.66682/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Jace Talk: Opinion- Power Storage justification & the Particle Accelerator](../../../transcriptions/yt-CawHwKkbJpc.md) [https://www.youtube.com/watch?v=CawHwKkbJpc](https://www.youtube.com/watch?v=CawHwKkbJpc)
+* [Snutt & Jace Talk: Opinion on Power Storage](../../../transcriptions/yt-LwRUCB096Qw.md) [https://www.youtube.com/watch?v=LwRUCB096Qw](https://www.youtube.com/watch?v=LwRUCB096Qw)
 
 ## March 16th, 2021 Livestream
 * [Geothermal is getting a change, too](../../../transcriptions/yt-Dp77ih_XmkY,307.5833333333333,319.2083333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320)

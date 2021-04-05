@@ -29,8 +29,8 @@ date: Last Modified
 * [Q&A: Will we ever see Mk.2 versions of the Constructor, Assembler, Refinery etc.?](../../transcriptions/yt-b9z-MopRxic.md) [https://www.youtube.com/watch?v=b9z-MopRxic](https://www.youtube.com/watch?v=b9z-MopRxic)
 * [Q&A: Will you fix Building's hitboxes, like the Space Elevator?](../../transcriptions/yt-3xNaIkGbGTM.md) [https://www.youtube.com/watch?v=3xNaIkGbGTM](https://www.youtube.com/watch?v=3xNaIkGbGTM)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: The end plate [https://play.satisfactory.video/ts-953014105,5529.86691508835,5666.95273/](https://play.satisfactory.video/ts-953014105,5529.86691508835,5666.95273/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: The end plate](../../transcriptions/yt-1guClsLrbJI.md) [https://www.youtube.com/watch?v=1guClsLrbJI](https://www.youtube.com/watch?v=1guClsLrbJI)
 
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: New Nuclear](../../transcriptions/yt-aewjS8-zD80.md) [https://www.youtube.com/watch?v=aewjS8-zD80](https://www.youtube.com/watch?v=aewjS8-zD80)

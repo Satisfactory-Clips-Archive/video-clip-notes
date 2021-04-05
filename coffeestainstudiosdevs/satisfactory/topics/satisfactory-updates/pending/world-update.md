@@ -10,8 +10,8 @@ date: Last Modified
 ## March 23rd, 2021 Livestream
 * [Q&A: When you push World Updates, will those come to EA & Experimental at the same time or separate?](../../../transcriptions/yt-4mnVlMXrfyw.md) [https://www.youtube.com/watch?v=4mnVlMXrfyw](https://www.youtube.com/watch?v=4mnVlMXrfyw)
 
-## March 17th, 2021 Livestream
-* Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video? [https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/](https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video?](../../../transcriptions/yt-1HNEIzjJm0w.md) [https://www.youtube.com/watch?v=1HNEIzjJm0w](https://www.youtube.com/watch?v=1HNEIzjJm0w)
 
 ## March 16th, 2021 Livestream
 * Jace & Hannah Talk: World Update pending [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5265&end=5278](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5265&end=5278)

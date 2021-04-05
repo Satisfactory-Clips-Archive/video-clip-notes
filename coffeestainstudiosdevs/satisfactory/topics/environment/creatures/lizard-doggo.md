@@ -11,14 +11,14 @@ date: Last Modified
 ## March 23rd, 2021 Livestream
 * [Q&A: Do you have any regret for killing that Lizard Doggo](../../../transcriptions/yt-q-OAmV3HA_s.md) [https://www.youtube.com/watch?v=q-OAmV3HA_s](https://www.youtube.com/watch?v=q-OAmV3HA_s)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Compositing the real-life Lizard Doggo [https://play.satisfactory.video/ts-953014105,1595.686759,1818.647536/](https://play.satisfactory.video/ts-953014105,1595.686759,1818.647536/)
-* Snutt & Jace Talk: Finally getting the key [https://play.satisfactory.video/ts-953014105,2762.0001240790657,2947.732481/](https://play.satisfactory.video/ts-953014105,2762.0001240790657,2947.732481/)
-* Snutt & Jace Talk: mid-stream summary & Lizard Doggo compositing reiteration [https://play.satisfactory.video/ts-953014105,2502.133445738245,2761.988009/](https://play.satisfactory.video/ts-953014105,2502.133445738245,2761.988009/)
-* Snutt & Jace Talk: The real-life Lizard Doggo [https://play.satisfactory.video/ts-953014105,1078.919751,1334.247095/](https://play.satisfactory.video/ts-953014105,1078.919751,1334.247095/)
-* Snutt & Jace Talk: The real-life Lizard Doggo was killed with DrawingXaos' poster tube [https://play.satisfactory.video/ts-953014105,2947.732481,3032.181727/](https://play.satisfactory.video/ts-953014105,2947.732481,3032.181727/)
-* Snutt Talk: The VFX shot [https://play.satisfactory.video/ts-952893339,1719.427611,1858.877691/](https://play.satisfactory.video/ts-952893339,1719.427611,1858.877691/)
-* Q&A: Why did you guys have to hit the Doggo btw? [https://play.satisfactory.video/ts-953014105,2441.5001096810424,2444.840617/](https://play.satisfactory.video/ts-953014105,2441.5001096810424,2444.840617/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: Compositing the real-life Lizard Doggo](../../../transcriptions/yt-axU3LUij9RU.md) [https://www.youtube.com/watch?v=axU3LUij9RU](https://www.youtube.com/watch?v=axU3LUij9RU)
+* [Snutt & Jace Talk: Finally getting the key](../../../transcriptions/yt-b1b-sE5Y4Zk.md) [https://www.youtube.com/watch?v=b1b-sE5Y4Zk](https://www.youtube.com/watch?v=b1b-sE5Y4Zk)
+* [Snutt & Jace Talk: mid-stream summary & Lizard Doggo compositing reiteration](../../../transcriptions/yt-MJ-IihwSiVA.md) [https://www.youtube.com/watch?v=MJ-IihwSiVA](https://www.youtube.com/watch?v=MJ-IihwSiVA)
+* [Snutt & Jace Talk: The real-life Lizard Doggo](../../../transcriptions/yt-84HMzuPZ59w.md) [https://www.youtube.com/watch?v=84HMzuPZ59w](https://www.youtube.com/watch?v=84HMzuPZ59w)
+* [Snutt & Jace Talk: The real-life Lizard Doggo was killed with DrawingXaos' poster tube](../../../transcriptions/yt-5sdMwNgZ1MA.md) [https://www.youtube.com/watch?v=5sdMwNgZ1MA](https://www.youtube.com/watch?v=5sdMwNgZ1MA)
+* [Snutt Talk: The VFX shot](../../../transcriptions/yt-MTrCZR2Jsgo.md) [https://www.youtube.com/watch?v=MTrCZR2Jsgo](https://www.youtube.com/watch?v=MTrCZR2Jsgo)
+* [Q&A: Why did you guys have to hit the Doggo btw?](../../../transcriptions/yt-zweSj25goYs.md) [https://www.youtube.com/watch?v=zweSj25goYs](https://www.youtube.com/watch?v=zweSj25goYs)
 
 ## February 16th, 2021 Livestream
 * [Q&A: Are there limited Lizard Doggos on the map?](../../../transcriptions/yt-v7d8Lqlq53w.md) [https://www.youtube.com/watch?v=v7d8Lqlq53w](https://www.youtube.com/watch?v=v7d8Lqlq53w)

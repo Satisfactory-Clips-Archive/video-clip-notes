@@ -66,18 +66,18 @@ date: Last Modified
 * [Q&A: Will the Engine Upgrade or Update 4 be first on Early Access?](../../../transcriptions/yt-v71dHxMtPzg.md) [https://www.youtube.com/watch?v=v71dHxMtPzg](https://www.youtube.com/watch?v=v71dHxMtPzg)
 * [Q&A: Will this be the last Update before 1.0?](../../../transcriptions/yt-DOFC8O2yXNw.md) [https://www.youtube.com/watch?v=DOFC8O2yXNw](https://www.youtube.com/watch?v=DOFC8O2yXNw)
 
-## March 17th, 2021 Livestream
-* Community FYI: CSS has now just descended to copying mods I see. [https://play.satisfactory.video/ts-952893339,666.7667072983953,689.912154/](https://play.satisfactory.video/ts-952893339,666.7667072983953,689.912154/)
-* Q&A: Do we have purpose for drones? [https://play.satisfactory.video/ts-953014105,168.109489,179.880873/](https://play.satisfactory.video/ts-953014105,168.109489,179.880873/)
-* Community FYI: I honestly liked this vid over the actual trailers before it.. [https://play.satisfactory.video/ts-953014105,626.626275,734.624647/](https://play.satisfactory.video/ts-953014105,626.626275,734.624647/)
-* Community FYI: I like the new bigger stacks for some items [https://play.satisfactory.video/ts-952893339,906.7000552528946,911.087849/](https://play.satisfactory.video/ts-952893339,906.7000552528946,911.087849/)
-* Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://play.satisfactory.video/ts-952893339,748.356245,772.32785/](https://play.satisfactory.video/ts-952893339,748.356245,772.32785/)
-* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://play.satisfactory.video/ts-952893339,913.940124,950.272706/](https://play.satisfactory.video/ts-952893339,913.940124,950.272706/)
-* Q&A: Update 4 is the last one? [https://play.satisfactory.video/ts-952893339,2221.3334686979483,2226.108828/](https://play.satisfactory.video/ts-952893339,2221.3334686979483,2226.108828/)
-* Community FYI: Update is legit. Love it. Thank you to you and everyone else on the team. [https://play.satisfactory.video/ts-952893339,729.209865,744.948918/](https://play.satisfactory.video/ts-952893339,729.209865,744.948918/)
-* Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago [https://play.satisfactory.video/ts-952893339,4956.002485,5033.081647/](https://play.satisfactory.video/ts-952893339,4956.002485,5033.081647/)
-* Community FYI: What do you mean "has now" - they've been doing it for years. [https://play.satisfactory.video/ts-952893339,698.487301,717.498298/](https://play.satisfactory.video/ts-952893339,698.487301,717.498298/)
-* Q&A: Will the Drone fly through a mountain?? [https://play.satisfactory.video/ts-953014105,588.658222,618.601428/](https://play.satisfactory.video/ts-953014105,588.658222,618.601428/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Community FYI: CSS has now just descended to copying mods I see.](../../../transcriptions/yt-QLsy0cZkBfg.md) [https://www.youtube.com/watch?v=QLsy0cZkBfg](https://www.youtube.com/watch?v=QLsy0cZkBfg)
+* [Q&A: Do we have purpose for drones?](../../../transcriptions/yt-8osAjUGF1QM.md) [https://www.youtube.com/watch?v=8osAjUGF1QM](https://www.youtube.com/watch?v=8osAjUGF1QM)
+* [Community FYI: I honestly liked this vid over the actual trailers before it..](../../../transcriptions/yt-CwhxCnZUAfY.md) [https://www.youtube.com/watch?v=CwhxCnZUAfY](https://www.youtube.com/watch?v=CwhxCnZUAfY)
+* [Community FYI: I like the new bigger stacks for some items](../../../transcriptions/yt-u67YUrQ4csE.md) [https://www.youtube.com/watch?v=u67YUrQ4csE](https://www.youtube.com/watch?v=u67YUrQ4csE)
+* [Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah](../../../transcriptions/yt-KbB64-eojGA.md) [https://www.youtube.com/watch?v=KbB64-eojGA](https://www.youtube.com/watch?v=KbB64-eojGA)
+* [Community FYI: This is the 2nd update where you added a feature that you said "we're not adding"](../../../transcriptions/yt-dQtPBrWlx6c.md) [https://www.youtube.com/watch?v=dQtPBrWlx6c](https://www.youtube.com/watch?v=dQtPBrWlx6c)
+* Q&A: Update 4 is the last one? [https://www.youtube.com/watch?v=YiacwbKpDzY](https://www.youtube.com/watch?v=YiacwbKpDzY)
+* [Community FYI: Update is legit. Love it. Thank you to you and everyone else on the team.](../../../transcriptions/yt-NFRKi7lMg1g.md) [https://www.youtube.com/watch?v=NFRKi7lMg1g](https://www.youtube.com/watch?v=NFRKi7lMg1g)
+* [Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago](../../../transcriptions/yt-GMj_2tY7LFI.md) [https://www.youtube.com/watch?v=GMj_2tY7LFI](https://www.youtube.com/watch?v=GMj_2tY7LFI)
+* [Community FYI: What do you mean "has now" - they've been doing it for years.](../../../transcriptions/yt-2Jy6NZ6Mkzw.md) [https://www.youtube.com/watch?v=2Jy6NZ6Mkzw](https://www.youtube.com/watch?v=2Jy6NZ6Mkzw)
+* [Q&A: Will the Drone fly through a mountain??](../../../transcriptions/yt-WLe1_rdbPqM.md) [https://www.youtube.com/watch?v=WLe1_rdbPqM](https://www.youtube.com/watch?v=WLe1_rdbPqM)
 
 ## March 16th, 2021 Livestream
 * Q&A: Can we pre-download it? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=523&end=540](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=523&end=540)

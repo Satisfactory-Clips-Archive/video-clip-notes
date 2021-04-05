@@ -9,10 +9,10 @@ date: Last Modified
 * [Q&A: I like the MK+ mod, any plan to make it in vanilla?](../../transcriptions/yt-EcuPtUGKdBc.md) [https://www.youtube.com/watch?v=EcuPtUGKdBc](https://www.youtube.com/watch?v=EcuPtUGKdBc)
 * [Q&A: Modular equipment, maybe?](../../transcriptions/yt-ocs3_2F-sNs.md) [https://www.youtube.com/watch?v=ocs3_2F-sNs](https://www.youtube.com/watch?v=ocs3_2F-sNs)
 
-## March 17th, 2021 Livestream
-* Community FYI: CSS has now just descended to copying mods I see. [https://play.satisfactory.video/ts-952893339,666.7667072983953,689.912154/](https://play.satisfactory.video/ts-952893339,666.7667072983953,689.912154/)
-* Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://play.satisfactory.video/ts-952893339,748.356245,772.32785/](https://play.satisfactory.video/ts-952893339,748.356245,772.32785/)
-* Community FYI: What do you mean "has now" - they've been doing it for years. [https://play.satisfactory.video/ts-952893339,698.487301,717.498298/](https://play.satisfactory.video/ts-952893339,698.487301,717.498298/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Community FYI: CSS has now just descended to copying mods I see.](../../transcriptions/yt-QLsy0cZkBfg.md) [https://www.youtube.com/watch?v=QLsy0cZkBfg](https://www.youtube.com/watch?v=QLsy0cZkBfg)
+* [Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah](../../transcriptions/yt-KbB64-eojGA.md) [https://www.youtube.com/watch?v=KbB64-eojGA](https://www.youtube.com/watch?v=KbB64-eojGA)
+* [Community FYI: What do you mean "has now" - they've been doing it for years.](../../transcriptions/yt-2Jy6NZ6Mkzw.md) [https://www.youtube.com/watch?v=2Jy6NZ6Mkzw](https://www.youtube.com/watch?v=2Jy6NZ6Mkzw)
 
 ## February 16th, 2021 Livestream
 * [Q&A: I saw a mod who let a belt ending in a stackable belt ending, any chance for this in vanilla?](../../transcriptions/yt-byfgR8myflI.md) [https://www.youtube.com/watch?v=byfgR8myflI](https://www.youtube.com/watch?v=byfgR8myflI)

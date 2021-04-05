@@ -17,9 +17,9 @@ date: Last Modified
 * [Q&A: If you could add a feature yourself right now, what would that be ?](../../transcriptions/yt-EbERjXIk_x4.md) [https://www.youtube.com/watch?v=EbERjXIk_x4](https://www.youtube.com/watch?v=EbERjXIk_x4)
 * [Snutt Talk: Update 4 Rebalances & Changes Summary (video on Friday)](../../transcriptions/yt-MxwLmhSXPYU.md) [https://www.youtube.com/watch?v=MxwLmhSXPYU](https://www.youtube.com/watch?v=MxwLmhSXPYU)
 
-## March 17th, 2021 Livestream
-* Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video? [https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/](https://play.satisfactory.video/ts-953014105,6943.688572,6997.264766/)
-* Community FYI: Well now you have plenty of time to fix it for the Early Access trailer [https://play.satisfactory.video/ts-953014105,5402.568957,5457.613404/](https://play.satisfactory.video/ts-953014105,5402.568957,5457.613404/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video?](../../transcriptions/yt-1HNEIzjJm0w.md) [https://www.youtube.com/watch?v=1HNEIzjJm0w](https://www.youtube.com/watch?v=1HNEIzjJm0w)
+* [Community FYI: Well now you have plenty of time to fix it for the Early Access trailer](../../transcriptions/yt-m76OwvXPa14.md) [https://www.youtube.com/watch?v=m76OwvXPa14](https://www.youtube.com/watch?v=m76OwvXPa14)
 
 ## March 16th, 2021 Livestream
 * Q&A: How long is the patch notes video? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8837&end=8897](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8837&end=8897)

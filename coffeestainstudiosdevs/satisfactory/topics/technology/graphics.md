@@ -12,8 +12,8 @@ date: Last Modified
 * [Q&A: Rendering bug from Conveyor Belts?](../../transcriptions/yt-jxIS1yv7flM.md) [https://www.youtube.com/watch?v=jxIS1yv7flM](https://www.youtube.com/watch?v=jxIS1yv7flM)
 * [Q&A: What does "Albedo" mean?](../../transcriptions/yt-oNObAw-Kryw.md) [https://www.youtube.com/watch?v=oNObAw-Kryw](https://www.youtube.com/watch?v=oNObAw-Kryw)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: I hate this shot [https://play.satisfactory.video/ts-952893339,4127.909474,4173.41148/](https://play.satisfactory.video/ts-952893339,4127.909474,4173.41148/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: I hate this shot](../../transcriptions/yt-dOLA__A5VnM.md) [https://www.youtube.com/watch?v=dOLA__A5VnM](https://www.youtube.com/watch?v=dOLA__A5VnM)
 
 ## March 2nd, 2021 Livestream
 * [Q&A: Will the Blade Runners actually be attached to the body at some point?](../../transcriptions/yt-W-67fl8Fg48.md) [https://www.youtube.com/watch?v=W-67fl8Fg48](https://www.youtube.com/watch?v=W-67fl8Fg48)

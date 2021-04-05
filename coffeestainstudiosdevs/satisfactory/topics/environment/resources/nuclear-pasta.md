@@ -4,7 +4,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Nuclear Pasta
 
-## March 17th, 2021 Livestream
-* Community FYI: Current version is better [https://play.satisfactory.video/ts-953014105,5457.613404,5466.035973/](https://play.satisfactory.video/ts-953014105,5457.613404,5466.035973/)
-* Snutt & Jace Talk: Nuclear Pasta issues [https://play.satisfactory.video/ts-953014105,5009.500225044923,5402.568957/](https://play.satisfactory.video/ts-953014105,5009.500225044923,5402.568957/)
-* Community FYI: Well now you have plenty of time to fix it for the Early Access trailer [https://play.satisfactory.video/ts-953014105,5402.568957,5457.613404/](https://play.satisfactory.video/ts-953014105,5402.568957,5457.613404/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Community FYI: Current version is better](../../../transcriptions/yt-DNBJxG8Mntg.md) [https://www.youtube.com/watch?v=DNBJxG8Mntg](https://www.youtube.com/watch?v=DNBJxG8Mntg)
+* [Snutt & Jace Talk: Nuclear Pasta issues](../../../transcriptions/yt-FzWW3mEJRM8.md) [https://www.youtube.com/watch?v=FzWW3mEJRM8](https://www.youtube.com/watch?v=FzWW3mEJRM8)
+* [Community FYI: Well now you have plenty of time to fix it for the Early Access trailer](../../../transcriptions/yt-m76OwvXPa14.md) [https://www.youtube.com/watch?v=m76OwvXPa14](https://www.youtube.com/watch?v=m76OwvXPa14)

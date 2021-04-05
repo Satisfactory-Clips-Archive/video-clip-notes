@@ -13,8 +13,8 @@ date: Last Modified
 * [Community FYI: Yes you did](../../../transcriptions/yt-08O7dRyOYy0.md) [https://www.youtube.com/watch?v=08O7dRyOYy0](https://www.youtube.com/watch?v=08O7dRyOYy0)
 * [Q&A: You said "Never" for Pipes, Drones, and many other things too.](../../../transcriptions/yt-Xeg3Ljqen7M.md) [https://www.youtube.com/watch?v=Xeg3Ljqen7M](https://www.youtube.com/watch?v=Xeg3Ljqen7M)
 
-## March 17th, 2021 Livestream
-* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://play.satisfactory.video/ts-952893339,913.940124,950.272706/](https://play.satisfactory.video/ts-952893339,913.940124,950.272706/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Community FYI: This is the 2nd update where you added a feature that you said "we're not adding"](../../../transcriptions/yt-dQtPBrWlx6c.md) [https://www.youtube.com/watch?v=dQtPBrWlx6c](https://www.youtube.com/watch?v=dQtPBrWlx6c)
 
 ## February 23rd, 2021 Livestream
 * [Q&A: Where does the Space Elevator go?](../../../transcriptions/yt-g9FlxkN5dhc.md) [https://www.youtube.com/watch?v=g9FlxkN5dhc](https://www.youtube.com/watch?v=g9FlxkN5dhc)

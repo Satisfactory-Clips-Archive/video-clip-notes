@@ -5,9 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Embracer Group](../../topics/embracer-group.md) > THQ Nordic
 * [Lars](../../topics/embracer-group/thq-nordic/lars.md)
 
-## March 17th, 2021 Livestream
-* Q&A: Lars telling you to smile = lol- whose idea was that? [https://play.satisfactory.video/ts-953014105,6817.089719,6845.639039/](https://play.satisfactory.video/ts-953014105,6817.089719,6845.639039/)
-* Community FYI: One of the problems with companies when the money start talking louder... [https://play.satisfactory.video/ts-953014105,6737.386089,6817.089719/](https://play.satisfactory.video/ts-953014105,6737.386089,6817.089719/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Q&A: Lars telling you to smile = lol- whose idea was that?](../../transcriptions/yt-NmBjitrYGZk.md) [https://www.youtube.com/watch?v=NmBjitrYGZk](https://www.youtube.com/watch?v=NmBjitrYGZk)
+* [Community FYI: One of the problems with companies when the money start talking louder...](../../transcriptions/yt-H0FU1xJjzi8.md) [https://www.youtube.com/watch?v=H0FU1xJjzi8](https://www.youtube.com/watch?v=H0FU1xJjzi8)
 
 ## February 6th, 2019 Livestream
 * [Q&A: How has THQ Nordic been to you guys on the project?](../../transcriptions/yt-Dtm6xIj-wM4,2436.980614,2442.260274.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2436&end=2443](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2436&end=2443)

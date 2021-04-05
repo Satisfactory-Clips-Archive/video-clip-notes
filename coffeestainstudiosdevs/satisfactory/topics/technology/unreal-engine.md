@@ -10,8 +10,8 @@ date: Last Modified
 * [Q&A: In the video about the Engine Upgrade, Jace talked about the improvement of building painting?](../../transcriptions/yt-sc_p8BAXGEU.md) [https://www.youtube.com/watch?v=sc_p8BAXGEU](https://www.youtube.com/watch?v=sc_p8BAXGEU)
 * [Q&A: Will the Engine Upgrade or Update 4 be first on Early Access?](../../transcriptions/yt-v71dHxMtPzg.md) [https://www.youtube.com/watch?v=v71dHxMtPzg](https://www.youtube.com/watch?v=v71dHxMtPzg)
 
-## March 17th, 2021 Livestream
-* Q&A: Was it Nuke compositing, or in-engine stuff? [https://play.satisfactory.video/ts-952893339,2368.201944,2427.512522/](https://play.satisfactory.video/ts-952893339,2368.201944,2427.512522/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Q&A: Was it Nuke compositing, or in-engine stuff?](../../transcriptions/yt-zT9MucdefB4.md) [https://www.youtube.com/watch?v=zT9MucdefB4](https://www.youtube.com/watch?v=zT9MucdefB4)
 
 ## March 9th, 2021 Livestream
 * [Q&A: Has there been any progress towards Client stuff ?](../../transcriptions/yt-Q4ZutPyeA_E.md) [https://www.youtube.com/watch?v=Q4ZutPyeA_E](https://www.youtube.com/watch?v=Q4ZutPyeA_E)

@@ -7,10 +7,10 @@ date: Last Modified
 ## March 23rd, 2021 Livestream
 * [Q&A: How scared of you of the next Let's Game It Out video?](../../transcriptions/yt-8sbjtuLdwbA.md) [https://www.youtube.com/watch?v=8sbjtuLdwbA](https://www.youtube.com/watch?v=8sbjtuLdwbA)
 
-## March 17th, 2021 Livestream
-* Snutt Talk: Memes on Josh's channel [https://play.satisfactory.video/ts-953014105,6657.533632413896,6673.903617/](https://play.satisfactory.video/ts-953014105,6657.533632413896,6673.903617/)
-* Snutt & Jace Talk: Outro shoutouts [https://play.satisfactory.video/ts-953014105,5466.035973,5529.879459/](https://play.satisfactory.video/ts-953014105,5466.035973,5529.879459/)
-* Community FYI: The editor in me is so rock hard by these continuity details [https://play.satisfactory.video/ts-952893339,4208.962283,4225.153124/](https://play.satisfactory.video/ts-952893339,4208.962283,4225.153124/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt Talk: Memes on Josh's channel](../../transcriptions/yt-sGxVtGYAjkQ.md) [https://www.youtube.com/watch?v=sGxVtGYAjkQ](https://www.youtube.com/watch?v=sGxVtGYAjkQ)
+* [Snutt & Jace Talk: Outro shoutouts](../../transcriptions/yt-TxyJKaXchnc.md) [https://www.youtube.com/watch?v=TxyJKaXchnc](https://www.youtube.com/watch?v=TxyJKaXchnc)
+* [Community FYI: The editor in me is so rock hard by these continuity details](../../transcriptions/yt-CiUdIN4aPww.md) [https://www.youtube.com/watch?v=CiUdIN4aPww](https://www.youtube.com/watch?v=CiUdIN4aPww)
 
 ## March 16th, 2021 Livestream
 * Snutt & Jace Talk: A lot of people are asking Josh to come on [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14091&end=14122](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14091&end=14122)

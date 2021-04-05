@@ -14,8 +14,8 @@ date: Last Modified
 * [Q&A: Regain health?](../../transcriptions/yt-8SVPBlq4ORQ.md) [https://www.youtube.com/watch?v=8SVPBlq4ORQ](https://www.youtube.com/watch?v=8SVPBlq4ORQ)
 * [Q&A: What about the HyperTube launcher that doesn't spawn a crate when you die?](../../transcriptions/yt-y7qT_KwDsI8.md) [https://www.youtube.com/watch?v=y7qT_KwDsI8](https://www.youtube.com/watch?v=y7qT_KwDsI8)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: That shot of the dead Pioneer [https://play.satisfactory.video/ts-952893339,3626.216334,3634.786431/](https://play.satisfactory.video/ts-952893339,3626.216334,3634.786431/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: That shot of the dead Pioneer](../../transcriptions/yt-dbVGMO1Wm-g.md) [https://www.youtube.com/watch?v=dbVGMO1Wm-g](https://www.youtube.com/watch?v=dbVGMO1Wm-g)
 
 ## March 16th, 2021 Livestream
 * Q&A: Does ADA's helmet contain Oil or something- there's a knob behind the Helmet? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868)

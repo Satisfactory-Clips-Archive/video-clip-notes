@@ -4,9 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Localisation
 
-## March 17th, 2021 Livestream
-* Q&A: How did the jokes work with the localization? [https://play.satisfactory.video/ts-952893339,2522.900153741621,2540.251094/](https://play.satisfactory.video/ts-952893339,2522.900153741621,2540.251094/)
-* Jace Talk: Patch Notes Closed Captions [https://play.satisfactory.video/ts-952893339,1978.73345391428,2036.789734/](https://play.satisfactory.video/ts-952893339,1978.73345391428,2036.789734/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Q&A: How did the jokes work with the localization?](../transcriptions/yt-C0ANmAcz5Fc.md) [https://www.youtube.com/watch?v=C0ANmAcz5Fc](https://www.youtube.com/watch?v=C0ANmAcz5Fc)
+* Jace Talk: Patch Notes Closed Captions [https://www.youtube.com/watch?v=W-x2oenkmvw](https://www.youtube.com/watch?v=W-x2oenkmvw)
 
 ## March 16th, 2021 Livestream
 * Jace Talk: Localisation community [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13385&end=13496](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13385&end=13496)

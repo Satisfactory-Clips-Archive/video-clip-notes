@@ -23,13 +23,13 @@ date: Last Modified
 * [Community FYI: The game is good, I have nothing to ask](../transcriptions/yt-dO6aZKbhGpo.md) [https://www.youtube.com/watch?v=dO6aZKbhGpo](https://www.youtube.com/watch?v=dO6aZKbhGpo)
 * Community FYI: You will not read this [https://www.youtube.com/watch?v=XjhrmxAkuLE](https://www.youtube.com/watch?v=XjhrmxAkuLE)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Community responses to the Patch Notes video [https://play.satisfactory.video/ts-953014105,5733.011294,5754.674264/](https://play.satisfactory.video/ts-953014105,5733.011294,5754.674264/)
-* Community FYI: Cryin in the club WHAT GOOD BOYS [https://play.satisfactory.video/ts-953014105,6645.480554,6682.100549/](https://play.satisfactory.video/ts-953014105,6645.480554,6682.100549/)
-* Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 1) [https://play.satisfactory.video/ts-953014105,4690.936146,4928.57605/](https://play.satisfactory.video/ts-953014105,4690.936146,4928.57605/)
-* Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 2) [https://play.satisfactory.video/ts-953014105,6078.692041,6279.594824/](https://play.satisfactory.video/ts-953014105,6078.692041,6279.594824/)
-* Snutt & Jace Talk: Lights reveal [https://play.satisfactory.video/ts-952893339,4531.470572,4862.147916/](https://play.satisfactory.video/ts-952893339,4531.470572,4862.147916/)
-* Community FYI: Teach him Sara [https://play.satisfactory.video/ts-953014105,6890.233642867625,6943.688572/](https://play.satisfactory.video/ts-953014105,6890.233642867625,6943.688572/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: Community responses to the Patch Notes video](../transcriptions/yt-EoftAI2xFVg.md) [https://www.youtube.com/watch?v=EoftAI2xFVg](https://www.youtube.com/watch?v=EoftAI2xFVg)
+* [Community FYI: Cryin in the club WHAT GOOD BOYS](../transcriptions/yt-y6IBtn49nFk.md) [https://www.youtube.com/watch?v=y6IBtn49nFk](https://www.youtube.com/watch?v=y6IBtn49nFk)
+* [Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 1)](../transcriptions/yt-n2lEPQH_oIs.md) [https://www.youtube.com/watch?v=n2lEPQH_oIs](https://www.youtube.com/watch?v=n2lEPQH_oIs)
+* [Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 2)](../transcriptions/yt-Agt4D0zAe50.md) [https://www.youtube.com/watch?v=Agt4D0zAe50](https://www.youtube.com/watch?v=Agt4D0zAe50)
+* [Snutt & Jace Talk: Lights reveal](../transcriptions/yt-NvQQ8tnbqbA.md) [https://www.youtube.com/watch?v=NvQQ8tnbqbA](https://www.youtube.com/watch?v=NvQQ8tnbqbA)
+* [Community FYI: Teach him Sara](../transcriptions/yt-i7yjKJB-czI.md) [https://www.youtube.com/watch?v=i7yjKJB-czI](https://www.youtube.com/watch?v=i7yjKJB-czI)
 
 ## March 16th, 2021 Livestream
 * Mod highlight part 2 Q&A: Anything you want to say before we start the modding demo? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986)

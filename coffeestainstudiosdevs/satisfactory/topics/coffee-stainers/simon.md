@@ -5,14 +5,14 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Simon
 * [Simon Saga](../../topics/coffee-stainers/simon/simon-saga.md)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 1) [https://twitch.tv/videos/952893339%2C5405.468767](https://twitch.tv/videos/952893339%2C5405.468767)
-* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 2) [https://play.satisfactory.video/ts-953014105,22.402188,168.109489/](https://play.satisfactory.video/ts-953014105,22.402188,168.109489/)
-* Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 3) [https://play.satisfactory.video/ts-953014105,179.86667474693022,357.06284/](https://play.satisfactory.video/ts-953014105,179.86667474693022,357.06284/)
-* Snutt & Jace Talk: Compositing the real-life Lizard Doggo [https://play.satisfactory.video/ts-953014105,1595.686759,1818.647536/](https://play.satisfactory.video/ts-953014105,1595.686759,1818.647536/)
-* Snutt & Jace Talk: Drones previs [https://play.satisfactory.video/ts-952893339,5279.555337,5405.468767/](https://play.satisfactory.video/ts-952893339,5279.555337,5405.468767/)
-* Snutt & Jace Talk: mid-stream summary & Lizard Doggo compositing reiteration [https://play.satisfactory.video/ts-953014105,2502.133445738245,2761.988009/](https://play.satisfactory.video/ts-953014105,2502.133445738245,2761.988009/)
-* Snutt Talk: The VFX shot [https://play.satisfactory.video/ts-952893339,1719.427611,1858.877691/](https://play.satisfactory.video/ts-952893339,1719.427611,1858.877691/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 1)](../../transcriptions/yt-jNkrjHq_1Fw.md) [https://www.youtube.com/watch?v=jNkrjHq_1Fw](https://www.youtube.com/watch?v=jNkrjHq_1Fw)
+* [Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 2)](../../transcriptions/yt-zFI20UQsJAc.md) [https://www.youtube.com/watch?v=zFI20UQsJAc](https://www.youtube.com/watch?v=zFI20UQsJAc)
+* [Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 3)](../../transcriptions/yt-yKBOBV5pNFs.md) [https://www.youtube.com/watch?v=yKBOBV5pNFs](https://www.youtube.com/watch?v=yKBOBV5pNFs)
+* [Snutt & Jace Talk: Compositing the real-life Lizard Doggo](../../transcriptions/yt-axU3LUij9RU.md) [https://www.youtube.com/watch?v=axU3LUij9RU](https://www.youtube.com/watch?v=axU3LUij9RU)
+* [Snutt & Jace Talk: Drones previs](../../transcriptions/yt-RXBVh7B5kxk.md) [https://www.youtube.com/watch?v=RXBVh7B5kxk](https://www.youtube.com/watch?v=RXBVh7B5kxk)
+* [Snutt & Jace Talk: mid-stream summary & Lizard Doggo compositing reiteration](../../transcriptions/yt-MJ-IihwSiVA.md) [https://www.youtube.com/watch?v=MJ-IihwSiVA](https://www.youtube.com/watch?v=MJ-IihwSiVA)
+* [Snutt Talk: The VFX shot](../../transcriptions/yt-MTrCZR2Jsgo.md) [https://www.youtube.com/watch?v=MTrCZR2Jsgo](https://www.youtube.com/watch?v=MTrCZR2Jsgo)
 
 ## March 16th, 2021 Livestream
 * Q&A: Is there anything Simon is particularly proud of in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5277&end=5312](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5277&end=5312)

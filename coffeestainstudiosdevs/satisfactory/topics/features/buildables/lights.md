@@ -8,15 +8,14 @@ date: Last Modified
 * [Community FYI: 200fps Lighting bug is fixed](../../../transcriptions/yt-oUEubST5cWM.md) [https://www.youtube.com/watch?v=oUEubST5cWM](https://www.youtube.com/watch?v=oUEubST5cWM)
 * [Q&A: Do Lights actually cost Power?](../../../transcriptions/yt-DYVLJV-KblM.md) [https://www.youtube.com/watch?v=DYVLJV-KblM](https://www.youtube.com/watch?v=DYVLJV-KblM)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Compositing the Lights Control Panel shot [https://play.satisfactory.video/ts-952893339,4906.666965671338,4956.002485/](https://play.satisfactory.video/ts-952893339,4906.666965671338,4956.002485/)
-* Q&A: Do we have lights though? really? [https://play.satisfactory.video/ts-952893339,836.219711,838.7263/](https://play.satisfactory.video/ts-952893339,836.219711,838.7263/)
-* Snutt & Jace Talk: Lights reveal [https://play.satisfactory.video/ts-952893339,4531.470572,4862.147916/](https://play.satisfactory.video/ts-952893339,4531.470572,4862.147916/)
-* Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://play.satisfactory.video/ts-952893339,748.356245,772.32785/](https://play.satisfactory.video/ts-952893339,748.356245,772.32785/)
-* Community FYI: The train part looks amazing [https://play.satisfactory.video/ts-952893339,4898.239745,4906.666965671338/](https://play.satisfactory.video/ts-952893339,4898.239745,4906.666965671338/)
-* Community FYI: This is the 2nd update where you added a feature that you said "we're not adding" [https://play.satisfactory.video/ts-952893339,913.940124,950.272706/](https://play.satisfactory.video/ts-952893339,913.940124,950.272706/)
-* Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago [https://play.satisfactory.video/ts-952893339,4956.002485,5033.081647/](https://play.satisfactory.video/ts-952893339,4956.002485,5033.081647/)
-* Community FYI: When Panakotta was demoing the lights and both of you trying not to say anything... [https://play.satisfactory.video/ts-952893339,774.507447,794.0333817204956/](https://play.satisfactory.video/ts-952893339,774.507447,794.0333817204956/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: Compositing the Lights Control Panel shot](../../../transcriptions/yt-3-NMnDsiQyA.md) [https://www.youtube.com/watch?v=3-NMnDsiQyA](https://www.youtube.com/watch?v=3-NMnDsiQyA)
+* [Q&A: Do we have lights though? really?](../../../transcriptions/yt-oUS42DdCFuU.md) [https://www.youtube.com/watch?v=oUS42DdCFuU](https://www.youtube.com/watch?v=oUS42DdCFuU)
+* [Snutt & Jace Talk: Lights reveal](../../../transcriptions/yt-NvQQ8tnbqbA.md) [https://www.youtube.com/watch?v=NvQQ8tnbqbA](https://www.youtube.com/watch?v=NvQQ8tnbqbA)
+* [Community FYI: The train part looks amazing](../../../transcriptions/yt-oqjLxMUfZJo.md) [https://www.youtube.com/watch?v=oqjLxMUfZJo](https://www.youtube.com/watch?v=oqjLxMUfZJo)
+* [Community FYI: This is the 2nd update where you added a feature that you said "we're not adding"](../../../transcriptions/yt-dQtPBrWlx6c.md) [https://www.youtube.com/watch?v=dQtPBrWlx6c](https://www.youtube.com/watch?v=dQtPBrWlx6c)
+* [Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago](../../../transcriptions/yt-GMj_2tY7LFI.md) [https://www.youtube.com/watch?v=GMj_2tY7LFI](https://www.youtube.com/watch?v=GMj_2tY7LFI)
+* [Community FYI: When Panakotta was demoing the lights and both of you trying not to say anything...](../../../transcriptions/yt-LNc80s6SPJo.md) [https://www.youtube.com/watch?v=LNc80s6SPJo](https://www.youtube.com/watch?v=LNc80s6SPJo)
 
 ## March 16th, 2021 Livestream
 * [Lights](../../../transcriptions/yt-Dp77ih_XmkY,327.0833333333333,372.0833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=327&end=373](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=327&end=373)

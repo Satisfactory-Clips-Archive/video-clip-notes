@@ -4,8 +4,8 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
-## March 17th, 2021 Livestream
-* Jace Talk: That's a nice-looking office- that Valheim money! [https://play.satisfactory.video/ts-953014105,948.858765,991.946486/](https://play.satisfactory.video/ts-953014105,948.858765,991.946486/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Jace Talk: That's a nice-looking office- that Valheim money!](../../transcriptions/yt-2mI93RGSjZ8.md) [https://www.youtube.com/watch?v=2mI93RGSjZ8](https://www.youtube.com/watch?v=2mI93RGSjZ8)
 
 ## March 9th, 2021 Livestream
 * [Q&A: Have Valheim sales surpassed Satisfactory?](../../transcriptions/yt-LqI44274bQw.md) [https://www.youtube.com/watch?v=LqI44274bQw](https://www.youtube.com/watch?v=LqI44274bQw)

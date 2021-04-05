@@ -11,8 +11,8 @@ date: Last Modified
 * [Community FYI: I tried really hard to get Geothermal early-game but I saw no way to do it](../../../transcriptions/yt-T7qoKMgGwwI.md) [https://www.youtube.com/watch?v=T7qoKMgGwwI](https://www.youtube.com/watch?v=T7qoKMgGwwI)
 * [Q&A: What motivated the change for the Geyser node?](../../../transcriptions/yt-QZ4LfHmSXOc.md) [https://www.youtube.com/watch?v=QZ4LfHmSXOc](https://www.youtube.com/watch?v=QZ4LfHmSXOc)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Opinion on Power Storage [https://play.satisfactory.video/ts-952893339,4319.605724,4394.66682/](https://play.satisfactory.video/ts-952893339,4319.605724,4394.66682/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: Opinion on Power Storage](../../../transcriptions/yt-LwRUCB096Qw.md) [https://www.youtube.com/watch?v=LwRUCB096Qw](https://www.youtube.com/watch?v=LwRUCB096Qw)
 
 ## March 16th, 2021 Livestream
 * [Geothermal is getting a change, too](../../../transcriptions/yt-Dp77ih_XmkY,307.5833333333333,319.2083333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320)

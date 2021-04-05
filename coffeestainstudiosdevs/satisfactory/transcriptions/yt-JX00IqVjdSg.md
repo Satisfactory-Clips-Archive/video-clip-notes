@@ -1,0 +1,337 @@
+---
+title: "March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary Snutt & Jace Talk: Differences in corporate culture"
+date: "2021-03-17"
+layout: transcript
+topics:
+    - "coffee-stainers/jace"
+    - "off-topic"
+---
+# [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
+## Snutt & Jace Talk: Differences in corporate culture
+https://www.youtube.com/watch?v=JX00IqVjdSg
+
+### Topics
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Off-Topic](../topics/off-topic.md)
+
+### Transcript
+
+> to one to six as well because you know
+>
+> like
+>
+> the fact of the matter is like it's
+>
+> really easy to [ __ ] on companies in
+>
+> general for like oh
+>
+> their their suits just wanna like
+>
+> just make money they don't give a [ __ ]
+>
+> about anything like yeah
+>
+> our suits i swear to [ __ ] god guys
+>
+> like i swear
+>
+> to god they care they actually care
+>
+> they they care so much they're gamers
+>
+> too
+>
+> they care so [ __ ] much and
+>
+> i mean like if they didn't just
+>
+> genuinely care which they do
+>
+> but if they didn't they would get
+>
+> so much [ __ ] from me like i am the kind
+>
+> of per i'm very unfiltered
+>
+> i will [ __ ] on anyone at coffee stain
+>
+> and if they're like
+>
+> we just want to do this [ __ ] just so we
+>
+> can get views or what like whatever
+>
+> like i was [ __ ] on them hard all right
+>
+> like like i'm i'm i'm serious
+>
+> like but i don't need to because the
+>
+> folks at coffee stain
+>
+> are gamers and game developers and they
+>
+> care about what happens
+>
+> with games so like
+>
+> publishers in my opinion get a really
+>
+> bad rap
+>
+> and maybe that's fair maybe that's
+>
+> rightly
+>
+> so but i can say in my opinion
+>
+> coffee stain publishers
+>
+> like genuinely care about what they're
+>
+> doing yeah
+>
+> if i if i were to publish a game i would
+>
+> definitely want to go to coffee stain
+>
+> publishing publishing yeah and i mean i
+>
+> mean that sounds like the most [ __ ]
+>
+> canned [ __ ] response in
+>
+> in the universe it is but it's but it's
+>
+> actually true it's so hard in our
+>
+> position to
+>
+> like be like we are always genuine like
+>
+> we've never lied or
+>
+> like try to like over exaggerate stuff
+>
+> just so like it sounds like oh
+>
+> look how well like things are doing like
+>
+> and [ __ ] watching people
+>
+> spin [ __ ] we say and like be like oh no
+>
+> like it's it's so weird this is also
+>
+> another thing it's so weird being on
+>
+> this side of
+>
+> um of uh what's the
+>
+> like conspiracy theory thing where like
+>
+> you actually know
+>
+> what's true and you know it's [ __ ]
+>
+> when
+>
+> when people spin [ __ ] out of like
+>
+> proportion or like say thing like
+>
+> just make [ __ ] up like i see so many
+>
+> things where people say like uh it's
+>
+> because of this and it just
+>
+> makes [ __ ] up it's so weird being on
+>
+> this side of it
+>
+> uh because there's nothing you can do
+>
+> and apart from just trying to like say
+>
+> like
+>
+> but this is this is what it's like like
+>
+> um
+>
+> and yeah it sounds it sounds super like
+>
+> whatever suck up or whatever but it's
+>
+> true like yeah yeah right
+>
+> it is a weird thing where we we can say
+>
+> these
+>
+> these really kind words about coffee
+>
+> stain
+>
+> and like if we were paid to say this
+>
+> which we are
+>
+> that's what we would say but if we
+>
+> weren't paid to say this
+>
+> we would like we would say that we would
+>
+> still say the same things like
+>
+> yeah like like i'm
+>
+> i wouldn't work for coffee i wouldn't
+>
+> worry for coffee stain
+>
+> i wouldn't work for them i wouldn't work
+>
+> for them anymore if they were making me
+>
+> say nice things about them that weren't
+>
+> true
+>
+> that like i like really
+>
+> really i wouldn't do that because i like
+>
+> i would die inside i actually would
+>
+> coffee stain actually genuinely cares
+>
+> so much about the people that they're
+>
+> working with
+>
+> they act like it's [ __ ] stupid like i
+>
+> hate that publishers have created the
+>
+> name for themselves that they have
+>
+> and and coffee stain are are pushing
+>
+> against that like
+>
+> yeah like i i don't know i don't like
+>
+> and i don't blame
+>
+> the community for not believing us
+>
+> if we say hey this is great and it's not
+>
+> like i
+>
+> i don't blame community for that because
+>
+> like why would i blame them
+>
+> because they're only human and
+>
+> there's only so much [ __ ] you can take
+>
+> from publishers before you can start
+>
+> you know thinking what you think so
+>
+> but coffee snail cares they like like
+>
+> that like they act
+>
+> like they actually do i swear to god i
+>
+> [ __ ] wouldn't say this if i didn't
+>
+> mean it
+>
+> i i really wouldn't say this especially
+>
+> not on off time
+>
+> right that's that's how you know it's
+>
+> true oh god jason's getting drunk i
+>
+> swear i would say this sober i swear to
+>
+> [ __ ] god i would say
+>
+> like i would like i'm [ __ ] sober i'm
+>
+> saying it what the [ __ ] guys
+>
+> yeah it's true though
+>
+> i am confirming but it's also like the
+>
+> the
+>
+> how companies want to be companies
+>
+> like they want to look like this is a
+>
+> professional company
+>
+> make an efficient statement yeah
+>
+> it doesn't i don't know it's it's weird
+>
+> because it's like not working
+>
+> like it's why aren't people working away
+>
+> from this i've heard you say it's so
+>
+> british like i i mean
+>
+> i i yeah yeah maybe i should just shut
+>
+> the [ __ ] up because like i'm
+>
+> like i am drunk and i guess to many
+>
+> people that doesn't matter anymore
+>
+> what i say but i i've said this not
+>
+> drunk before like i like
+>
+> it actually i i am such an idealistic
+>
+> person
+>
+> that if this wasn't the reality
+>
+> i wouldn't be working obviously
+>
+> it'd be like it is be true why am i not
+>
+> drunk
+>
+> that's such a good [ __ ] question
+>
+> because you're saving me from being
+>
+> drunk
+>
+> i have to save at this moment no but
+>
+> seriously i'm all
+>
+> like you're on vacation but i also
+>
+> actually am taking a few days off
+>
+> yeah so i don't know

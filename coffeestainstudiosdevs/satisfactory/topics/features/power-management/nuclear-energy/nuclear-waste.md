@@ -11,8 +11,8 @@ date: Last Modified
 * [Community FYI: No discussion, keep it](../../../../transcriptions/yt-_zExL0I3IjE.md) [https://www.youtube.com/watch?v=_zExL0I3IjE](https://www.youtube.com/watch?v=_zExL0I3IjE)
 * [Snutt Talk: Update 4 Plutonium Rebalancing](../../../../transcriptions/yt-kUZOFrRXmzw.md) [https://www.youtube.com/watch?v=kUZOFrRXmzw](https://www.youtube.com/watch?v=kUZOFrRXmzw)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: That shot of the dead Pioneer [https://play.satisfactory.video/ts-952893339,3626.216334,3634.786431/](https://play.satisfactory.video/ts-952893339,3626.216334,3634.786431/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: That shot of the dead Pioneer](../../../../transcriptions/yt-dbVGMO1Wm-g.md) [https://www.youtube.com/watch?v=dbVGMO1Wm-g](https://www.youtube.com/watch?v=dbVGMO1Wm-g)
 
 ## March 16th, 2021 Livestream
 * [Encased Uranium Cells now produced in the Blender](../../../../transcriptions/yt-Dp77ih_XmkY,195.325577,205.875.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206)

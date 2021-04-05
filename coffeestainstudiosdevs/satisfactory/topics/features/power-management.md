@@ -17,9 +17,9 @@ date: Last Modified
 * [Q&A: Do Lights actually cost Power?](../../transcriptions/yt-DYVLJV-KblM.md) [https://www.youtube.com/watch?v=DYVLJV-KblM](https://www.youtube.com/watch?v=DYVLJV-KblM)
 * Q&A: Is it possible to have energy flow in one direction, like a Valve for energy? [https://www.youtube.com/watch?v=Ym19caliyN0](https://www.youtube.com/watch?v=Ym19caliyN0)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: I hate this shot [https://play.satisfactory.video/ts-952893339,4127.909474,4173.41148/](https://play.satisfactory.video/ts-952893339,4127.909474,4173.41148/)
-* Snutt & Jace Talk: Particle Accelerator power usage [https://play.satisfactory.video/ts-953014105,4586.872127,4691.261352/](https://play.satisfactory.video/ts-953014105,4586.872127,4691.261352/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: I hate this shot](../../transcriptions/yt-dOLA__A5VnM.md) [https://www.youtube.com/watch?v=dOLA__A5VnM](https://www.youtube.com/watch?v=dOLA__A5VnM)
+* [Snutt & Jace Talk: Particle Accelerator power usage](../../transcriptions/yt-Ejl1r4KQpMY.md) [https://www.youtube.com/watch?v=Ejl1r4KQpMY](https://www.youtube.com/watch?v=Ejl1r4KQpMY)
 
 ## March 16th, 2021 Livestream
 * [Power Generators are no longer Self-Regulating](../../transcriptions/yt-Dp77ih_XmkY,283.432566,307.5833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=283&end=308](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=283&end=308)

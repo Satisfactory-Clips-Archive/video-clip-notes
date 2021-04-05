@@ -4,8 +4,8 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Birk
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: Excitement about Signs [https://play.satisfactory.video/ts-952893339,4402.033601586431,4459.303503/](https://play.satisfactory.video/ts-952893339,4402.033601586431,4459.303503/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: Excitement about Signs](../../transcriptions/yt-n0be66gsOAM.md) [https://www.youtube.com/watch?v=n0be66gsOAM](https://www.youtube.com/watch?v=n0be66gsOAM)
 
 ## October 9th, 2020 Livestream
 * [Snutt Talk: The future of Satisfactory?](../../transcriptions/yt-BMIKnDVoS9Q.md) [https://www.youtube.com/watch?v=BMIKnDVoS9Q](https://www.youtube.com/watch?v=BMIKnDVoS9Q)

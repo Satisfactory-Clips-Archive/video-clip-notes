@@ -11,8 +11,8 @@ date: Last Modified
 * [Community FYI: Coffee Stain needs a Smart Splitter to prioritise issues](../transcriptions/yt-zz7cFlKFO5A.md) [https://www.youtube.com/watch?v=zz7cFlKFO5A](https://www.youtube.com/watch?v=zz7cFlKFO5A)
 * Community FYI: You will not read this [https://www.youtube.com/watch?v=XjhrmxAkuLE](https://www.youtube.com/watch?v=XjhrmxAkuLE)
 
-## March 17th, 2021 Livestream
-* Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah [https://play.satisfactory.video/ts-952893339,748.356245,772.32785/](https://play.satisfactory.video/ts-952893339,748.356245,772.32785/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Community FYI: Never trust Jace again. never lights, never flying shit, bla bla blah](../transcriptions/yt-KbB64-eojGA.md) [https://www.youtube.com/watch?v=KbB64-eojGA](https://www.youtube.com/watch?v=KbB64-eojGA)
 
 ## March 16th, 2021 Livestream
 * Random: How y'all doin? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14014&end=14029](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14014&end=14029)

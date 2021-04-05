@@ -4,8 +4,8 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Smelter
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: I hate this shot [https://play.satisfactory.video/ts-952893339,4127.909474,4173.41148/](https://play.satisfactory.video/ts-952893339,4127.909474,4173.41148/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: I hate this shot](../../../transcriptions/yt-dOLA__A5VnM.md) [https://www.youtube.com/watch?v=dOLA__A5VnM](https://www.youtube.com/watch?v=dOLA__A5VnM)
 
 ## November 10th, 2020 Livestream
 * [Q&A: Will there be faster Smelter/Manufacturers?](../../../transcriptions/yt-eiGqL7qpc14.md) [https://www.youtube.com/watch?v=eiGqL7qpc14](https://www.youtube.com/watch?v=eiGqL7qpc14)

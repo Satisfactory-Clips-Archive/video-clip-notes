@@ -12,8 +12,8 @@ date: Last Modified
 * [Snutt Talk: Hover Pack](../../../transcriptions/yt-FA1JT6n44X4.md) [https://www.youtube.com/watch?v=FA1JT6n44X4](https://www.youtube.com/watch?v=FA1JT6n44X4)
 * [Q&A: Swap Drones with Hover Pack?](../../../transcriptions/yt-E_t6aUIA5Zk.md) [https://www.youtube.com/watch?v=E_t6aUIA5Zk](https://www.youtube.com/watch?v=E_t6aUIA5Zk)
 
-## March 17th, 2021 Livestream
-* Snutt & Jace Talk: This segue is amazing [https://play.satisfactory.video/ts-953014105,994.040447,1072.113841/](https://play.satisfactory.video/ts-953014105,994.040447,1072.113841/)
+## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
+* [Snutt & Jace Talk: This segue is amazing](../../../transcriptions/yt-wC_JRXP0z5k.md) [https://www.youtube.com/watch?v=wC_JRXP0z5k](https://www.youtube.com/watch?v=wC_JRXP0z5k)
 
 ## March 16th, 2021 Livestream
 * [Hover Pack](../../../transcriptions/yt-Dp77ih_XmkY,468.081481,498.0833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=468&end=499](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=468&end=499)
