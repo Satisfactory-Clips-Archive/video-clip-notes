@@ -16,8 +16,4 @@ https://www.youtube.com/watch?v=N3vSwuoV94Q
 
 ### Transcript
 
-> will update 4 remove the need for head
->
-> lift
->
-> no no
+> will update 4 remove the need for head lift no no

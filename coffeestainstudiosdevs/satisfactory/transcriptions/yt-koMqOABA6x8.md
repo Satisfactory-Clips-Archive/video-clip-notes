@@ -16,16 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> yeah when do the work and progress items
->
-> in the game get a purpose they're going
->
-> to be tied to the story of the game and
->
-> the story won't be out
->
-> until 1.0 the goal is to release the
->
-> story
->
-> with 1.0 and so then
+> yeah when do the work and progress items in the game get a purpose they're going to be tied to the story of the game and the story won't be out until 1.0 the goal is to release the story with 1.0 and so then

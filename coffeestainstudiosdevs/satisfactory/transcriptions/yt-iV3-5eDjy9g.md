@@ -14,22 +14,4 @@ https://www.youtube.com/watch?v=iV3-5eDjy9g
 
 ### Transcript
 
-> uh there you go there you go
->
-> no i'm not gonna listen to you you just
->
-> you up the whole thing before
->
-> where i didn't
->
-> like do the thing i was gonna do because
->
-> i got like
->
-> way too into this bit
->
-> oh you think i can do it better now
->
-> really
->
-> no go away go away
+> uh there you go there you go no i'm not gonna listen to you you just you up the whole thing before where i didn't like do the thing i was gonna do because i got like way too into this bit oh you think i can do it better now really no go away go away

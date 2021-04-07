@@ -18,12 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> years old okay more questions so what's
->
-> happening with sam moore that's gonna
->
-> it's tied to the story you'll learn more
->
-> about that in the future when the story
->
-> comes out
+> years old okay more questions so what's happening with sam moore that's gonna it's tied to the story you'll learn more about that in the future when the story comes out

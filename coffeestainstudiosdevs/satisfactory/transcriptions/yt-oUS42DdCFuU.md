@@ -16,6 +16,4 @@ https://www.youtube.com/watch?v=oUS42DdCFuU
 
 ### Transcript
 
-> um do we have lights there really yeah
->
-> you do
+> um do we have lights there really yeah you do

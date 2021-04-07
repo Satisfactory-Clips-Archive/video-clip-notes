@@ -16,8 +16,4 @@ https://www.youtube.com/watch?v=AgdOGd32U3w
 
 ### Transcript
 
-> pero regreso perfecto
->
-> y ya
->
-> ubis sweet
+> pero regreso perfecto y ya ubis sweet

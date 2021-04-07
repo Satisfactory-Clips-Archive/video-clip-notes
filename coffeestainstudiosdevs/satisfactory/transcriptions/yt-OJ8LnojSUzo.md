@@ -16,14 +16,4 @@ This question was possibly duplicated with a more recent answer: March 30th, 202
 
 ### Transcript
 
-> uh do you guys plan on any space
->
-> stations or building among
->
-> multiple planets we haven't finished the
->
-> one world that you're in
->
-> so uh we are not we are not really
->
-> uh looking to make multiple levels yet
+> uh do you guys plan on any space stations or building among multiple planets we haven't finished the one world that you're in so uh we are not we are not really uh looking to make multiple levels yet

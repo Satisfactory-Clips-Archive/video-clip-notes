@@ -18,46 +18,4 @@ https://www.youtube.com/watch?v=YwhXtnyk8YE
 
 ### Transcript
 
-> open weekend now at least why is
->
-> coleslaw rare it's almost impossible to
->
-> find a good call spot
->
-> they're generally really far away and
->
-> that's where you take the vehicles and
->
-> you automate them
->
-> you get tractors in this right yes yeah
->
-> like in this weekend test yep yeah so
->
-> you take your
->
-> uh tractor you go to truck stations and
->
-> then you automate you
->
-> you like record the path to the um
->
-> coal and then they just like and then
->
-> you can
->
-> complete the puff back and then they
->
-> just kind of do that for you
->
-> um that's how you deal with
->
-> uh certain resources being really far
->
-> away or massive convertible
->
-> but the downside with that is that is
->
-> way more expensive
->
-> for you than one tractor
+> open weekend now at least why is coleslaw rare it's almost impossible to find a good call spot they're generally really far away and that's where you take the vehicles and you automate them you get tractors in this right yes yeah like in this weekend test yep yeah so you take your uh tractor you go to truck stations and then you automate you you like record the path to the um coal and then they just like and then you can complete the puff back and then they just kind of do that for you um that's how you deal with uh certain resources being really far away or massive convertible but the downside with that is that is way more expensive for you than one tractor

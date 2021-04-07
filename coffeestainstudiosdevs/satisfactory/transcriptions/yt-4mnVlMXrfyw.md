@@ -18,18 +18,4 @@ https://www.youtube.com/watch?v=4mnVlMXrfyw
 
 ### Transcript
 
-> when you push world updates will those
->
-> come to ea
->
-> and experimental at the same time or
->
-> separate uh separate probably
->
-> it depends how how risky we feel like
->
-> they are because some some updates we
->
-> feel pretty confident pushing
->
-> um but some we don't feel as much
+> when you push world updates will those come to ea and experimental at the same time or separate uh separate probably it depends how how risky we feel like they are because some some updates we feel pretty confident pushing um but some we don't feel as much

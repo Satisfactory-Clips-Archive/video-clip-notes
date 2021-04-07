@@ -23,8 +23,4 @@ https://www.youtube.com/watch?v=KUfze04EJmA
 
 ### Transcript
 
-> um any plans for smart mergers yet
->
-> i don't know i don't know i don't think
->
-> so at all
+> um any plans for smart mergers yet i don't know i don't know i don't think so at all

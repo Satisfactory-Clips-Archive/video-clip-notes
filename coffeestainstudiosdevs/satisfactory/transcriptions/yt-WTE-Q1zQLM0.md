@@ -18,8 +18,4 @@ https://www.youtube.com/watch?v=WTE-Q1zQLM0
 
 ### Transcript
 
-> um are you changing pure ingot
->
-> recipes i don't think we are not not
->
-> right now
+> um are you changing pure ingot recipes i don't think we are not not right now

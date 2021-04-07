@@ -16,14 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> um do we have uh long shot but do we
->
-> have an idea of the full release not
->
-> really
->
-> not really like the dates they're asking
->
-> but no not not really
->
-> short answers very ducking deep story
+> um do we have uh long shot but do we have an idea of the full release not really not really like the dates they're asking but no not not really short answers very ducking deep story

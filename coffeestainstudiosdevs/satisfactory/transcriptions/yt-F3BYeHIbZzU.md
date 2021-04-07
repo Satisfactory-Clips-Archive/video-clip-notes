@@ -16,18 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> signs when don't know
->
-> tomorrow no i'm just kidding we're not
->
-> making signs tomorrow you guys i'm
->
-> kidding
->
-> i realized that i can't say that
->
-> anymore because
->
-> uh we'll have signs at some point in the
->
-> game but i don't know when
+> signs when don't know tomorrow no i'm just kidding we're not making signs tomorrow you guys i'm kidding i realized that i can't say that anymore because uh we'll have signs at some point in the game but i don't know when

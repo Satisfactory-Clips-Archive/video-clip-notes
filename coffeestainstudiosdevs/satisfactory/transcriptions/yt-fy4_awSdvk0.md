@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> uh would it be at some point character
->
-> customization most likely
->
-> i don't know what to what degree but
->
-> yeah
+> uh would it be at some point character customization most likely i don't know what to what degree but yeah

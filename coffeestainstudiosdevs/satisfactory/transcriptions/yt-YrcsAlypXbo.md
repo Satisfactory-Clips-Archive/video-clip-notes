@@ -18,26 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> official is the story completely written
->
-> or is it still in progress the story is
->
-> completely written
->
-> like it is it's been done for quite some
->
-> time
->
-> um we all right we're gonna start the
->
-> timer i've got a timer on the screen now
->
-> okay we won't be uh
->
-> adding the story until 1.0 but the story
->
-> is
->
-> finished internally but you guys won't
->
-> see it for a long time
+> official is the story completely written or is it still in progress the story is completely written like it is it's been done for quite some time um we all right we're gonna start the timer i've got a timer on the screen now okay we won't be uh adding the story until 1.0 but the story is finished internally but you guys won't see it for a long time

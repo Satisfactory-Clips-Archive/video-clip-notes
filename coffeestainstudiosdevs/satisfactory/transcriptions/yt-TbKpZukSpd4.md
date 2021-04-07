@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=TbKpZukSpd4
 
 ### Transcript
 
-> know i remember i barely will the mug be
->
-> dishwasher safe
->
-> uh good question hope so let's look into
->
-> it
+> know i remember i barely will the mug be dishwasher safe uh good question hope so let's look into it

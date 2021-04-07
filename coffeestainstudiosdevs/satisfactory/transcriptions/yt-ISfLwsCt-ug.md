@@ -14,28 +14,4 @@ https://www.youtube.com/watch?v=ISfLwsCt-ug
 
 ### Transcript
 
-> um need more bacon
->
-> by the way if you guys didn't know this
->
-> that bacon plant is based on a real
->
-> plant
->
-> uh we we didn't have a single
->
-> original thought
->
-> in this game and if you go to the
->
-> wiki page for that plant or that
->
-> mushroom uh it actually lists
->
-> satisfactory as like uh
->
-> this plant is used in satisfactory i
->
-> thought that was pretty cool
->
-> um so yeah
+> um need more bacon by the way if you guys didn't know this that bacon plant is based on a real plant uh we we didn't have a single original thought in this game and if you go to the wiki page for that plant or that mushroom uh it actually lists satisfactory as like uh this plant is used in satisfactory i thought that was pretty cool um so yeah

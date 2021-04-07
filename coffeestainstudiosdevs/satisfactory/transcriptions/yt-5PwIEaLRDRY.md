@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> no one knows um when do signs come
->
-> not sure i don't know if they're going
->
-> to be updated for or not uh i also
->
-> but they will come
+> no one knows um when do signs come not sure i don't know if they're going to be updated for or not uh i also but they will come

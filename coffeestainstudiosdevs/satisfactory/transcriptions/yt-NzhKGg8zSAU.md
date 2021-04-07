@@ -18,8 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> awesome thing for fluids you can already
->
-> sink fluids in the awesome sink you just
->
-> need to package it
+> awesome thing for fluids you can already sink fluids in the awesome sink you just need to package it

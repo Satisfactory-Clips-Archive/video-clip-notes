@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=6GcH3WaDcHg
 
 ### Transcript
 
-> let's uh let's let's go bane is hung
->
-> over and needs us to talk
->
-> talk quieter snook i'm sorry bane did we
->
-> rain you're more sorry i'm so sorry
->
-> i'm really sorry really sorry anyway
+> let's uh let's let's go bane is hung over and needs us to talk talk quieter snook i'm sorry bane did we rain you're more sorry i'm so sorry i'm really sorry really sorry anyway

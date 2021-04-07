@@ -16,42 +16,4 @@ https://www.youtube.com/watch?v=fpfVLWArJpo
 
 ### Transcript
 
-> you can add more spoken languages to the
->
-> game so the game is currently being uh
->
-> community driven so if there's a
->
-> language that you feel is missing that
->
-> is your language
->
-> um are they saying spoken though spoken
->
-> well spoken
->
-> no don't think that's happening anytime
->
-> soon no did i
->
-> do this that's a different story
->
-> but for people who didn't know it's
->
-> community driven and if you want to help
->
-> out then you can
->
-> uh go to our crowding page
->
-> or our discord i made this easier to
->
-> find the link through discord
->
-> um
->
-> one hole at a time jace you can do it i
->
-> believe
->
-> i stand i believe i can fly
+> you can add more spoken languages to the game so the game is currently being uh community driven so if there's a language that you feel is missing that is your language um are they saying spoken though spoken well spoken no don't think that's happening anytime soon no did i do this that's a different story but for people who didn't know it's community driven and if you want to help out then you can uh go to our crowding page or our discord i made this easier to find the link through discord um one hole at a time jace you can do it i believe i stand i believe i can fly

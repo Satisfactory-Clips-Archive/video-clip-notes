@@ -22,34 +22,4 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 ### Transcript
 
-> will there be more narrative hell yeah
->
-> there's gonna be like a story mode in
->
-> the game
->
-> we have characters that like are not in
->
-> the game yet
->
-> um that's gonna talk to you and stuff i
->
-> think
->
-> i actually don't i know so little about
->
-> the story but i also kind of like that
->
-> because then i can't spoil anything
->
-> but like we have talked a bunch about
->
-> the lore for the game
->
-> and like katarina parks and uh steven or
->
-> whatever his name is
->
-> uh and then you have ada which is the
->
-> computer
+> will there be more narrative hell yeah there's gonna be like a story mode in the game we have characters that like are not in the game yet um that's gonna talk to you and stuff i think i actually don't i know so little about the story but i also kind of like that because then i can't spoil anything but like we have talked a bunch about the lore for the game and like katarina parks and uh steven or whatever his name is uh and then you have ada which is the computer

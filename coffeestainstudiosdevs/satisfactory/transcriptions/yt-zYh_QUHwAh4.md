@@ -22,34 +22,4 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 ### Transcript
 
-> the refinery recipes outside of tier
->
-> seven
->
-> uh i don't think outside of tier seven
->
-> no i don't think so uh i remember the
->
-> week when
->
-> was it last week or was it the week
->
-> where before where mark was on stream
->
-> yeah last week i think yeah i remember
->
-> uh
->
-> there's some confusion about what was it
->
-> diluted fuel or something like that
->
-> but it's still going to be in the
->
-> refinery i'm pretty sure let me just
->
-> double check that real quick
->
-> so i'm pretty sure outside of tier 7 no
->
-> there won't be any changes
+> the refinery recipes outside of tier seven uh i don't think outside of tier seven no i don't think so uh i remember the week when was it last week or was it the week where before where mark was on stream yeah last week i think yeah i remember uh there's some confusion about what was it diluted fuel or something like that but it's still going to be in the refinery i'm pretty sure let me just double check that real quick so i'm pretty sure outside of tier 7 no there won't be any changes

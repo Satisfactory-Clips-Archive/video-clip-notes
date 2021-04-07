@@ -20,18 +20,4 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 ### Transcript
 
-> snowy biome confirmed has been confirmed
->
-> that there won't be one
->
-> but we can wishful think i like that i
->
-> love just like
->
-> deluding myself into what's gonna happen
->
-> i'm not even kidding it's pretty fun
->
-> sometimes
->
-> wishful thinking
+> snowy biome confirmed has been confirmed that there won't be one but we can wishful think i like that i love just like deluding myself into what's gonna happen i'm not even kidding it's pretty fun sometimes wishful thinking

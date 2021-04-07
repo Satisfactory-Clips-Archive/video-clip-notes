@@ -22,18 +22,4 @@ https://www.youtube.com/watch?v=9oX64bJ65Cg
 
 ### Transcript
 
-> um it was the man cannon an intended
->
-> behavior for hypotubes or a bug i think
->
-> it was a bug but i think we're okay with
->
-> it
->
-> what was the oh you mean the the cannons
->
-> like they just
->
-> launched yourself like that that was not
->
-> intentional
+> um it was the man cannon an intended behavior for hypotubes or a bug i think it was a bug but i think we're okay with it what was the oh you mean the the cannons like they just launched yourself like that that was not intentional

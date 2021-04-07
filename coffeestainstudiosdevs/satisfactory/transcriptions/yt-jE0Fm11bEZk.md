@@ -18,16 +18,4 @@ https://www.youtube.com/watch?v=jE0Fm11bEZk
 
 ### Transcript
 
-> we're still working on glass
->
-> optimizations no we haven't worked on
->
-> glass optimizations for a while the
->
-> glass is fairly optimized
->
-> currently uh the conveyor belts are
->
-> the real hog
->
-> of performance still
+> we're still working on glass optimizations no we haven't worked on glass optimizations for a while the glass is fairly optimized currently uh the conveyor belts are the real hog of performance still

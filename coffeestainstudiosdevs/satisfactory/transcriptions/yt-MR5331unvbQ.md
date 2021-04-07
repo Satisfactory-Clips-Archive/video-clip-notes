@@ -16,16 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 3rd, 
 
 ### Transcript
 
-> um is cross play available yes they will
->
-> be between steam and epic games
->
-> it is a bit of a weird system but it's
->
-> it's doable and we
->
-> we'll see yeah it should be fine i think
->
-> people will figure it out
->
-> um
+> um is cross play available yes they will be between steam and epic games it is a bit of a weird system but it's it's doable and we we'll see yeah it should be fine i think people will figure it out um

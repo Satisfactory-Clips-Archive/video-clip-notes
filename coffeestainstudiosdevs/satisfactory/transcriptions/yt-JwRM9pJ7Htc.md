@@ -20,12 +20,4 @@ https://www.youtube.com/watch?v=JwRM9pJ7Htc
 
 ### Transcript
 
-> q a and it is although there's one more
->
-> question uh so is the refinery uh it's
->
-> just a refinery that can only package
->
-> unpackaged liquids and more compact yeah
->
-> yes pretty much
+> q a and it is although there's one more question uh so is the refinery uh it's just a refinery that can only package unpackaged liquids and more compact yeah yes pretty much

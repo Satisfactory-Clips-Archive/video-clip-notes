@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> any chance or faster belts in the future
->
-> i don't know
+> any chance or faster belts in the future i don't know

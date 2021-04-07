@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> circles like three two one is 1.0 coming
->
-> not anytime soon yeah
+> circles like three two one is 1.0 coming not anytime soon yeah

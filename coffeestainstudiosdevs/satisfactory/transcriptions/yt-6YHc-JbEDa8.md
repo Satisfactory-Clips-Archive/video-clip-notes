@@ -14,16 +14,4 @@ https://www.youtube.com/watch?v=6YHc-JbEDa8
 
 ### Transcript
 
-> million times surely how to ask
->
-> questions in the q a link
->
-> um you create an account and then
->
-> you uh then after you sign in there's
->
-> going to be a thing that says like
->
-> uh post you post or whatever
->
-> cool
+> million times surely how to ask questions in the q a link um you create an account and then you uh then after you sign in there's going to be a thing that says like uh post you post or whatever cool

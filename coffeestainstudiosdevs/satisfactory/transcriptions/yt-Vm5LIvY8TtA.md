@@ -16,24 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> um
->
-> blueprints uh yeah this comes up every
->
-> few streams no we're not gonna have
->
-> blueprints
->
-> um it's an ongoing discussion which you
->
-> know of course that can change but so
->
-> far
->
-> every time we think about it or talk
->
-> about it the answer is the decision is
->
-> no
->
-> blueprints
+> um blueprints uh yeah this comes up every few streams no we're not gonna have blueprints um it's an ongoing discussion which you know of course that can change but so far every time we think about it or talk about it the answer is the decision is no blueprints

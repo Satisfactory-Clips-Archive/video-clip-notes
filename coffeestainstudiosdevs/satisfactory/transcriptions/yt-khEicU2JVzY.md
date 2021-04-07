@@ -18,18 +18,4 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 ### Transcript
 
-> so so that means that the oil fields for
->
-> instance
->
-> and those there those won't be affected
->
-> by
->
-> this like the the update for patch so to
->
-> say
->
-> yeah yeah exactly everything as it is
->
-> now will stay the same for those
+> so so that means that the oil fields for instance and those there those won't be affected by this like the the update for patch so to say yeah yeah exactly everything as it is now will stay the same for those

@@ -22,14 +22,4 @@ https://www.youtube.com/watch?v=VTSAUKoarIw
 
 ### Transcript
 
-> what is the soundtrack going to be on
->
-> mac no idea no idea uh hopefully one day
->
-> we can get to
->
-> other um os's and uh you know and maybe
->
-> even console one day but right now we
->
-> don't have a plan for that
+> what is the soundtrack going to be on mac no idea no idea uh hopefully one day we can get to other um os's and uh you know and maybe even console one day but right now we don't have a plan for that

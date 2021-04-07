@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=r5daZccdDvM
 
 ### Transcript
 
-> we're like all right let's do it let's
->
-> announce so what should we announce
->
-> what do you wanna announce coffee
->
-> uh there's gonna be coffee in the game
+> we're like all right let's do it let's announce so what should we announce what do you wanna announce coffee uh there's gonna be coffee in the game

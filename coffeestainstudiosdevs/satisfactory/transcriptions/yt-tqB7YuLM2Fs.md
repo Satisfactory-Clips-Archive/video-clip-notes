@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> is er ons als de park comment or no it's
->
-> possible to find something
->
-> tot op drock pret plat
+> is er ons als de park comment or no it's possible to find something tot op drock pret plat

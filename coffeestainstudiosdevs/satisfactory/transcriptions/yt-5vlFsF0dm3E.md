@@ -18,10 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> um you can use working progress
->
-> collectibles for anything in update for
->
-> nope they're all for uh like 1.0 like
->
-> the story stuff
+> um you can use working progress collectibles for anything in update for nope they're all for uh like 1.0 like the story stuff

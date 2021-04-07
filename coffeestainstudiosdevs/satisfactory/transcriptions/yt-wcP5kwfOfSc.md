@@ -26,10 +26,4 @@ https://www.youtube.com/watch?v=wcP5kwfOfSc
 
 > [Music]
 >
-> third person view um
->
-> i don't know we're going to do with that
->
-> good answer chase that's what i think
->
-> about third person view
+> third person view um i don't know we're going to do with that good answer chase that's what i think about third person view

@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Transcript
 
-> well i'll be able to play it on my
->
-> samsung fridge
->
-> try it and let me know
+> well i'll be able to play it on my samsung fridge try it and let me know

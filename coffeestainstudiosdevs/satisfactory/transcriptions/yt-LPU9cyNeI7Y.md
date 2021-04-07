@@ -14,26 +14,4 @@ https://www.youtube.com/watch?v=LPU9cyNeI7Y
 
 ### Transcript
 
-> uh rick how do you get the advent
->
-> calendar it's already in the game it's
->
-> on your hub
->
-> it's on the wall on uh next to your uh
->
-> it's where
->
-> what's the the milestone research thing
->
-> next to that there's a calendar on the
->
-> wall but you have to make sure that your
->
-> christmas thing is enabled which it
->
-> should be by default but
->
-> if it's not enabled just check the
->
-> gameplay options
+> uh rick how do you get the advent calendar it's already in the game it's on your hub it's on the wall on uh next to your uh it's where what's the the milestone research thing next to that there's a calendar on the wall but you have to make sure that your christmas thing is enabled which it should be by default but if it's not enabled just check the gameplay options

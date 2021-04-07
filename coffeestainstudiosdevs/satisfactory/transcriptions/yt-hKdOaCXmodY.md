@@ -14,8 +14,4 @@ https://www.youtube.com/watch?v=hKdOaCXmodY
 
 ### Transcript
 
-> uh we have an overflow valve it's called
->
-> gravity
->
-> nailed it
+> uh we have an overflow valve it's called gravity nailed it

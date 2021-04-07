@@ -20,8 +20,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> better to do mercy's fears and sloops
->
-> that is also something tied to the story
->
-> and will become clearer in the future
+> better to do mercy's fears and sloops that is also something tied to the story and will become clearer in the future

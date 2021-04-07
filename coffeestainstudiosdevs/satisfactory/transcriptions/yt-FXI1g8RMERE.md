@@ -16,20 +16,4 @@ https://www.youtube.com/watch?v=FXI1g8RMERE
 
 ### Transcript
 
-> get through that before just start
->
-> another game starting geforce now and
->
-> quit the game you can open steam then
->
-> and switch branches
->
-> wait really oh interesting
->
-> wow interesting i didn't know that all
->
-> right that seems like a kind of hacky
->
-> way to do it but i guess it's better
->
-> than nothing
+> get through that before just start another game starting geforce now and quit the game you can open steam then and switch branches wait really oh interesting wow interesting i didn't know that all right that seems like a kind of hacky way to do it but i guess it's better than nothing

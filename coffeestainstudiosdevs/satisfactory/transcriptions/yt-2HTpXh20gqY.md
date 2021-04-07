@@ -16,40 +16,4 @@ https://www.youtube.com/watch?v=2HTpXh20gqY
 
 ### Transcript
 
-> right uh will there be still be new
->
-> things for us to discover in one point
->
-> besides the story yes this
->
-> uh 1.0 is not going to only be story
->
-> there's going to be
->
-> a lot of things coming with the game uh
->
-> at 1.0
->
-> um yeah i have a feeling
->
-> yeah this is probably going to be a lot
->
-> of stuff but i feel like the most things
->
-> will be like you know
->
-> the stuff that we've been putting off
->
-> like you know controller support
->
-> and like um
->
-> bug fixes and and and whatnot
->
-> but a lot of content as well yeah
->
-> what a content yeah the story if
->
-> anything there's going to be a lot of
->
-> content in the store itself i think
+> right uh will there be still be new things for us to discover in one point besides the story yes this uh 1.0 is not going to only be story there's going to be a lot of things coming with the game uh at 1.0 um yeah i have a feeling yeah this is probably going to be a lot of stuff but i feel like the most things will be like you know the stuff that we've been putting off like you know controller support and like um bug fixes and and and whatnot but a lot of content as well yeah what a content yeah the story if anything there's going to be a lot of content in the store itself i think

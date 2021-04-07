@@ -18,16 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> there oh interesting can we expect
->
-> aircraft anytime
->
-> oh we uh
->
-> all right i gotta i gotta start i gotta
->
-> stop with it what do we stop with it
->
-> they're gonna think it's real you have
->
-> to drive it to the ground dude
+> there oh interesting can we expect aircraft anytime oh we uh all right i gotta i gotta start i gotta stop with it what do we stop with it they're gonna think it's real you have to drive it to the ground dude

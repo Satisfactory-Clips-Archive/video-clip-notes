@@ -14,18 +14,4 @@ https://www.youtube.com/watch?v=SoejWWEwmcI
 
 ### Transcript
 
-> will the crab boss be flying or will be
->
-> ground bound i have no idea i've never
->
-> seen that in pretty sure it's ground
->
-> yeah i've never seen that in in in the
->
-> game
->
-> actually no i've never seen it in the
->
-> game either
->
-> only like in animations yeah
+> will the crab boss be flying or will be ground bound i have no idea i've never seen that in pretty sure it's ground yeah i've never seen that in in in the game actually no i've never seen it in the game either only like in animations yeah

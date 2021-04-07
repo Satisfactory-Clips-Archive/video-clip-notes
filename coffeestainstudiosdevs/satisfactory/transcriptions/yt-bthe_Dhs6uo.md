@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 ### Transcript
 
-> achievement system yeah probably at some
->
-> point
+> achievement system yeah probably at some point

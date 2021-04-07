@@ -20,40 +20,4 @@ https://www.youtube.com/watch?v=qUnbyq-0Pu4
 
 ### Transcript
 
-> will there be space elevator requirement
->
-> for ties seven and eight to change from
->
-> for update four
->
-> uh there will be a requirement between
->
-> seven and eight
->
-> i think uh i'm not
->
-> quite 100 sure on that but i think
->
-> there's because there's
->
-> going to be new space elevator parts and
->
-> i'm pretty sure you make those into
->
-> seven so they're for you to be able to
->
-> progress through it i think
->
-> we also changed tier 7 so it wouldn't
->
-> make sense really to
->
-> if you just wanted to jump immediately
->
-> deteriorate because there's some changes
->
-> that was having
->
-> and i need to tackle first
->
-> so i guess that's my answer
+> will there be space elevator requirement for ties seven and eight to change from for update four uh there will be a requirement between seven and eight i think uh i'm not quite 100 sure on that but i think there's because there's going to be new space elevator parts and i'm pretty sure you make those into seven so they're for you to be able to progress through it i think we also changed tier 7 so it wouldn't make sense really to if you just wanted to jump immediately deteriorate because there's some changes that was having and i need to tackle first so i guess that's my answer

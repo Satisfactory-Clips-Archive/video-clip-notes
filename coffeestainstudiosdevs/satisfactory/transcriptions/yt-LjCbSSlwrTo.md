@@ -18,14 +18,4 @@ https://www.youtube.com/watch?v=LjCbSSlwrTo
 
 > [Music]
 >
-> all right cool we'll wrap this coffee
->
-> physics
->
-> never it's a nonsense like it's a
->
-> it's a non-spill mug yup that's how it
->
-> works
->
-> future technology
+> all right cool we'll wrap this coffee physics never it's a nonsense like it's a it's a non-spill mug yup that's how it works future technology

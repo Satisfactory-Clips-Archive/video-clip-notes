@@ -14,14 +14,4 @@ https://www.youtube.com/watch?v=XIUEobISojU
 
 ### Transcript
 
-> um but i got another joke oh no
->
-> my new thesaurus is terrible not only
->
-> that but it's also terrible
->
-> that was kind of good though i kind of
->
-> like that one
->
-> oh it's good
+> um but i got another joke oh no my new thesaurus is terrible not only that but it's also terrible that was kind of good though i kind of like that one oh it's good

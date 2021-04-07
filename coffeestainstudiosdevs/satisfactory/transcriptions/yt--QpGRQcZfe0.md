@@ -16,18 +16,8 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Transcript
 
-> oh my god it's good any plans on weather
->
-> cycles
->
-> uh there was always a plan for that but
->
-> uh i don't
->
-> think that's uh
+> oh my god it's good any plans on weather cycles uh there was always a plan for that but uh i don't think that's uh
 >
 > [Music]
 >
-> we haven't done it and i don't think
->
-> we're thinking of it right now
+> we haven't done it and i don't think we're thinking of it right now

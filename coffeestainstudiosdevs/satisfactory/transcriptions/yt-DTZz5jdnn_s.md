@@ -16,6 +16,4 @@ https://www.youtube.com/watch?v=DTZz5jdnn_s
 
 ### Transcript
 
-> set a specific foundation as a keystone
->
-> yeah that'd be cool
+> set a specific foundation as a keystone yeah that'd be cool

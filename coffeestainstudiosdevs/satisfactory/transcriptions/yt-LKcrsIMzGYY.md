@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=LKcrsIMzGYY
 
 ### Transcript
 
-> jejeje
->
-> yo he visto
+> jejeje yo he visto

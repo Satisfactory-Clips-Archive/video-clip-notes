@@ -14,18 +14,4 @@ https://www.youtube.com/watch?v=eGa9_fxtJyo
 
 ### Transcript
 
-> yeah yeah yeah we did improvise a lot of
->
-> things like the ps5 was kind of
->
-> improvised actually
->
-> oh yeah the ps5 is amazing yeah but we
->
-> can we can because
->
-> yeah yeah we can get to it as we move
->
-> through the video so that we don't miss
->
-> anything
+> yeah yeah yeah we did improvise a lot of things like the ps5 was kind of improvised actually oh yeah the ps5 is amazing yeah but we can we can because yeah yeah we can get to it as we move through the video so that we don't miss anything

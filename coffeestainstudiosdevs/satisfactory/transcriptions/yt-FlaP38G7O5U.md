@@ -18,18 +18,8 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> by the way guys flushable toilet
->
-> 1 dlc i i decided
->
-> what about the toilet paper though one
->
-> yellow square
->
-> you can only buy one packet at a time
+> by the way guys flushable toilet 1 dlc i i decided what about the toilet paper though one yellow square you can only buy one packet at a time
 >
 > [Music]
 >
-> remember that yeah that's topical anyway
->
-> um
+> remember that yeah that's topical anyway um

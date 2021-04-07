@@ -22,8 +22,4 @@ https://www.youtube.com/watch?v=s1ibMeMeBT8
 
 ### Transcript
 
-> happens does the package also do
->
-> unpacking yes it does
->
-> yes
+> happens does the package also do unpacking yes it does yes

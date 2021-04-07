@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=2ny0XTCY6l0
 
 ### Transcript
 
-> i don't know is the answer we got a
->
-> sticker for how many bugs are reported
->
-> in the alpha
->
-> holy [ __ ] 52k i wonder if we can do
->
-> something with that
+> i don't know is the answer we got a sticker for how many bugs are reported in the alpha holy [ __ ] 52k i wonder if we can do something with that

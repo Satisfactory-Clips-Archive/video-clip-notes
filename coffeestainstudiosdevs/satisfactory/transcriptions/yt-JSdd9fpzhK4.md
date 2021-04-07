@@ -18,10 +18,4 @@ https://www.youtube.com/watch?v=JSdd9fpzhK4
 
 ### Transcript
 
-> um will there be new items coming to the
->
-> awesome shop between now and update four
->
-> it's not impossible um but i don't know
->
-> at this point um
+> um will there be new items coming to the awesome shop between now and update four it's not impossible um but i don't know at this point um

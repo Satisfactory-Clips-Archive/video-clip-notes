@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> will be there be signs in future updates
->
-> yep there will be signs at some point
->
-> yes
+> will be there be signs in future updates yep there will be signs at some point yes

@@ -18,14 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> let's see here hoping for a base defense
->
-> uh there will be
->
-> no base defense in the game at all so
->
-> you don't need to worry about that being
->
-> an update for
->
-> it won't come
+> let's see here hoping for a base defense uh there will be no base defense in the game at all so you don't need to worry about that being an update for it won't come

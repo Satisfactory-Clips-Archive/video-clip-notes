@@ -14,16 +14,4 @@ https://www.youtube.com/watch?v=CFKUv9FCVms
 
 ### Transcript
 
-> um give details about the fluids uh we
->
-> don't know
->
-> basically we literally do not know other
->
-> people know but
->
-> and i don't know yeah the cape doesn't
->
-> get dark for some reason
->
-> keep this in the basement
+> um give details about the fluids uh we don't know basically we literally do not know other people know but and i don't know yeah the cape doesn't get dark for some reason keep this in the basement

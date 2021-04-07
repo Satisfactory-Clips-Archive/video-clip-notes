@@ -22,30 +22,4 @@ https://www.youtube.com/watch?v=7R_kqWfRwhA
 
 ### Transcript
 
-> can there be a first person view for
->
-> driving cars
->
-> um i don't think we've ever thought
->
-> we've always been like
->
-> talking about like what if you could be
->
-> third person when you're outside of the
->
-> car
->
-> never the other way around i don't think
->
-> i've ever seen that before yeah uh
->
-> i i i personally i could never do that
->
-> in cyberpunk when i played it
->
-> it was impossible either it was so hard
->
-> to play yeah
->
-> yeah for sure um
+> can there be a first person view for driving cars um i don't think we've ever thought we've always been like talking about like what if you could be third person when you're outside of the car never the other way around i don't think i've ever seen that before yeah uh i i i personally i could never do that in cyberpunk when i played it it was impossible either it was so hard to play yeah yeah for sure um

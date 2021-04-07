@@ -22,42 +22,4 @@ https://www.youtube.com/watch?v=WfNATPsxKV0
 
 ### Transcript
 
-> okay okay
->
-> all right so so snoot exhausted oh my
->
-> god my neck is actually tired from
->
-> holding this beanies up
->
-> it's not exhausted me i'm uh actually
->
-> more exhausted than snook realistically
->
-> but
->
-> i'm acting so whatever now i wonder
->
-> where that door could be
->
-> kill me there it is
->
-> all right i just want to say i'm really
->
-> proud of my acting i'm not saying i'm
->
-> great or anything like that
->
-> but uh i really think i nailed what i
->
-> needed to nail
->
-> and i'm very very proud of myself and
->
-> i'm glad i'm
->
-> i really love acting you guys i love it
->
-> so much and so i'm
->
-> very happy with my performance in this
+> okay okay all right so so snoot exhausted oh my god my neck is actually tired from holding this beanies up it's not exhausted me i'm uh actually more exhausted than snook realistically but i'm acting so whatever now i wonder where that door could be kill me there it is all right i just want to say i'm really proud of my acting i'm not saying i'm great or anything like that but uh i really think i nailed what i needed to nail and i'm very very proud of myself and i'm glad i'm i really love acting you guys i love it so much and so i'm very happy with my performance in this

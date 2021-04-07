@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> when is satisfactory coming to switch
->
-> funny you ask that we get that question
->
-> every day
->
-> um probably never
+> when is satisfactory coming to switch funny you ask that we get that question every day um probably never

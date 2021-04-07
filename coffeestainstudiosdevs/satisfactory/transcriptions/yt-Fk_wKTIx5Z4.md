@@ -16,40 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Transcript
 
-> you're planning to fix the multiplayer
->
-> late game uh
->
-> yeah we plan on like it's uh i like
->
-> jace's quote here
->
-> like all the multiplayer bugs and issues
->
-> like it's a marathon
->
-> where we can't fix like everything at
->
-> once
->
-> it's it's uh we we do it one step at a
->
-> time
->
-> yeah and it's hard to see the the
->
-> improvements
->
-> uh be it multiplayer would be just
->
-> optimization in general
->
-> yeah um it's hard to see it day to day
->
-> but if you uh were able to go back in
->
-> time and play
->
-> the game from six months ago you'd see
->
-> the difference yeah
+> you're planning to fix the multiplayer late game uh yeah we plan on like it's uh i like jace's quote here like all the multiplayer bugs and issues like it's a marathon where we can't fix like everything at once it's it's uh we we do it one step at a time yeah and it's hard to see the the improvements uh be it multiplayer would be just optimization in general yeah um it's hard to see it day to day but if you uh were able to go back in time and play the game from six months ago you'd see the difference yeah

@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=0UiAKsfipIc
 
 ### Transcript
 
-> um would you consider youtube a valuable
->
-> resource for learning premiere
->
-> i mean anything is yes hell yeah yeah
->
-> it's pretty good
->
-> yeah alrighty
+> um would you consider youtube a valuable resource for learning premiere i mean anything is yes hell yeah yeah it's pretty good yeah alrighty

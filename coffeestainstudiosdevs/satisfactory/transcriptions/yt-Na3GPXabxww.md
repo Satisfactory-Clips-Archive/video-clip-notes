@@ -16,8 +16,4 @@ https://www.youtube.com/watch?v=Na3GPXabxww
 
 ### Transcript
 
-> don't have to try hard to channel that
->
-> in adore the explorer
->
-> look you don't know me all right
+> don't have to try hard to channel that in adore the explorer look you don't know me all right

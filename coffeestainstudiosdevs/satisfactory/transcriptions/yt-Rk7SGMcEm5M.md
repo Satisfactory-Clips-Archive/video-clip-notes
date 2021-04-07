@@ -20,24 +20,4 @@ https://www.youtube.com/watch?v=Rk7SGMcEm5M
 
 ### Transcript
 
-> if
->
-> you guys if the crate would spawn back
->
-> and hub it wouldn't make any sense
->
-> because why
->
-> why would you lose like it just creates
->
-> an extra step of you losing your
->
-> inventory and picking it back up again
->
-> it doesn't make any sense we want that
->
-> exploration bit to be there where
->
-> if you lose your crate the punishment is
->
-> you losing your inventory
+> if you guys if the crate would spawn back and hub it wouldn't make any sense because why why would you lose like it just creates an extra step of you losing your inventory and picking it back up again it doesn't make any sense we want that exploration bit to be there where if you lose your crate the punishment is you losing your inventory

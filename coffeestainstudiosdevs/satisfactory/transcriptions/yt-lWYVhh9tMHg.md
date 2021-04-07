@@ -20,18 +20,4 @@ https://www.youtube.com/watch?v=lWYVhh9tMHg
 
 ### Transcript
 
-> geothermal needs supercomputers does it
->
-> does it didn't we change that i thought
->
-> we changed that
->
-> whatever when i say it's not coming late
->
-> i mean like you can
->
-> because you can buy geothermal with a
->
-> sink
->
-> you
+> geothermal needs supercomputers does it does it didn't we change that i thought we changed that whatever when i say it's not coming late i mean like you can because you can buy geothermal with a sink you

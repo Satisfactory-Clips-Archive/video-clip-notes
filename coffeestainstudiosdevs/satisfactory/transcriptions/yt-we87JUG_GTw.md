@@ -20,30 +20,4 @@ https://www.youtube.com/watch?v=we87JUG_GTw
 
 ### Transcript
 
-> uh have you considered logic networks
->
-> so i assume like similar system has to
->
-> like in factorial where like you have
->
-> you can set up logic boards and stuff
->
-> with uh
->
-> the connectors yeah
->
-> that's been an ongoing uh thing and we
->
-> actually have some concepts
->
-> on the table and we might be looking
->
-> into it
->
-> a bit more seriously
->
-> so now how much things we can actually
->
-> say on everything i guess we'll find out
->
-> at some point then you guys
+> uh have you considered logic networks so i assume like similar system has to like in factorial where like you have you can set up logic boards and stuff with uh the connectors yeah that's been an ongoing uh thing and we actually have some concepts on the table and we might be looking into it a bit more seriously so now how much things we can actually say on everything i guess we'll find out at some point then you guys

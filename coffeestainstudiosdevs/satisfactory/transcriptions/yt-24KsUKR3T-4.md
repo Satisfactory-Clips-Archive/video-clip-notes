@@ -18,18 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> could you are we getting toilet flex dlc
->
-> i'm not sure i'll have to follow up on
->
-> that
->
-> yeah yeah we need to follow up on that
->
-> let's have a let's
->
-> let's have a meeting about that chase
->
-> maybe two meetings maybe two meetings
->
-> yeah
+> could you are we getting toilet flex dlc i'm not sure i'll have to follow up on that yeah yeah we need to follow up on that let's have a let's let's have a meeting about that chase maybe two meetings maybe two meetings yeah

@@ -18,16 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 
 ### Transcript
 
-> we need some more easter hag hints from
->
-> hannah
->
-> maybe a weekly thing for each stream
->
-> that's not a bad idea actually
->
-> if there's enough but if we can't tease
->
-> aaron like we can
->
-> he's everything
+> we need some more easter hag hints from hannah maybe a weekly thing for each stream that's not a bad idea actually if there's enough but if we can't tease aaron like we can he's everything

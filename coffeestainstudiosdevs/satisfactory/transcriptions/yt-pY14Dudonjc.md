@@ -18,10 +18,4 @@ https://www.youtube.com/watch?v=pY14Dudonjc
 
 ### Transcript
 
-> getting it yeah are we getting new
->
-> teaser this week it's not a teaser but
->
-> there's going to be a new video this
->
-> week
+> getting it yeah are we getting new teaser this week it's not a teaser but there's going to be a new video this week

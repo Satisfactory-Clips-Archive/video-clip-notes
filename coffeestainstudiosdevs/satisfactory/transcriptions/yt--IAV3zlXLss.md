@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> uh any news not dedicated servers no no
->
-> news
+> uh any news not dedicated servers no no news

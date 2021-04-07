@@ -16,14 +16,4 @@ https://www.youtube.com/watch?v=YJLWX_-_trA
 
 ### Transcript
 
-> um multiple foundation placing instead
->
-> of one by one uh maybe in the future
->
-> we haven't uh looked into that yet
->
-> or maybe mark hasn't just hadn't made a
->
-> decision yet but we haven't implemented
->
-> anything yet
+> um multiple foundation placing instead of one by one uh maybe in the future we haven't uh looked into that yet or maybe mark hasn't just hadn't made a decision yet but we haven't implemented anything yet

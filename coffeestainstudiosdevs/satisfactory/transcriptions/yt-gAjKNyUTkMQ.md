@@ -18,30 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> um what would you guys be adding more
->
-> wildlife
->
-> unnecessarily hostile you know just life
->
-> forms i'm actually not sure
->
-> uh i'm actually not sure we got the crab
->
-> creature oh yeah big crab right yeah big
->
-> crab that's the
->
-> that's the only thing i know boss that
->
-> you know was in our reveal trailer two
->
-> years ago
->
-> uh we haven't got around to putting them
->
-> in yet but uh
->
-> yeah that is the thing that's still
->
-> coming up
+> um what would you guys be adding more wildlife unnecessarily hostile you know just life forms i'm actually not sure uh i'm actually not sure we got the crab creature oh yeah big crab right yeah big crab that's the that's the only thing i know boss that you know was in our reveal trailer two years ago uh we haven't got around to putting them in yet but uh yeah that is the thing that's still coming up

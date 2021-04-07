@@ -20,36 +20,4 @@ https://www.youtube.com/watch?v=e8_ddoqo6iE
 
 ### Transcript
 
-> uh have i played dyson super program i
->
-> haven't played it yet have you played
->
-> it's not
->
-> uh no i haven't looks good it looks cool
->
-> the feedback on it have you seen like
->
-> when you when i watch people playing
->
-> they put things down
->
-> it's all so tasty with the little
->
-> animations and yeah the feedback is
->
-> super good
->
-> it's also very fluent like it looks like
->
-> i guess most those types of games like
->
-> compared to satisfactory we're like
->
-> you want to get from eight from point a
->
-> to point b it can be like a huge
->
-> thing whereas in zysosphere you're just
->
-> like just blast off yeah
+> uh have i played dyson super program i haven't played it yet have you played it's not uh no i haven't looks good it looks cool the feedback on it have you seen like when you when i watch people playing they put things down it's all so tasty with the little animations and yeah the feedback is super good it's also very fluent like it looks like i guess most those types of games like compared to satisfactory we're like you want to get from eight from point a to point b it can be like a huge thing whereas in zysosphere you're just like just blast off yeah

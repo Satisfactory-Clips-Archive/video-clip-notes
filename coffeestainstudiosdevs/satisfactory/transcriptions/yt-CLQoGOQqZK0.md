@@ -16,18 +16,4 @@ https://www.youtube.com/watch?v=CLQoGOQqZK0
 
 ### Transcript
 
-> way together who sent me the largest
->
-> save file so far
->
-> i don't remember um i've gotten so many
->
-> save health
->
-> uh it's they all blur together
->
-> there are a few save files that i
->
-> haven't been able to load i think maybe
->
-> those are the largest ones
+> way together who sent me the largest save file so far i don't remember um i've gotten so many save health uh it's they all blur together there are a few save files that i haven't been able to load i think maybe those are the largest ones

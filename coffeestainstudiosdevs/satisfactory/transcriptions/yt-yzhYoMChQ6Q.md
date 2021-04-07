@@ -14,32 +14,4 @@ https://www.youtube.com/watch?v=yzhYoMChQ6Q
 
 ### Transcript
 
-> and early access starts activate the
->
-> autopilot
->
-> but it doesn't run and i assume you
->
-> already
->
-> you need to go the stream is not for
->
-> this but
->
-> you need to record it first did you
->
-> already record it because if you record
->
-> it
->
-> you enable autopilot you record it stop
->
-> or stop recording
->
-> enable autopilot ensure it has fuel and
->
-> then it goes
->
-> it takes a few seconds wait five ten
->
-> seconds
+> and early access starts activate the autopilot but it doesn't run and i assume you already you need to go the stream is not for this but you need to record it first did you already record it because if you record it you enable autopilot you record it stop or stop recording enable autopilot ensure it has fuel and then it goes it takes a few seconds wait five ten seconds

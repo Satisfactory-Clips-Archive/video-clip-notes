@@ -16,14 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> and the same goes for like a release
->
-> date for dedicated servers like we don't
->
-> know
->
-> we don't really have an estimate either
->
-> yeah
->
-> when it sort of works
+> and the same goes for like a release date for dedicated servers like we don't know we don't really have an estimate either yeah when it sort of works

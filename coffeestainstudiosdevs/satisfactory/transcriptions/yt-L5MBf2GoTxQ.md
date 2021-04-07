@@ -14,8 +14,4 @@ https://www.youtube.com/watch?v=L5MBf2GoTxQ
 
 ### Transcript
 
-> much can i smile for you
->
-> there oh you want that smile
->
-> there it is
+> much can i smile for you there oh you want that smile there it is

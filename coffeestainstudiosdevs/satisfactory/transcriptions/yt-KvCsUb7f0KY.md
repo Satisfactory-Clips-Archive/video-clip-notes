@@ -33,22 +33,4 @@ https://www.youtube.com/watch?v=KvCsUb7f0KY
 
 ### Transcript
 
-> console do you know what the game will
->
-> actually be released
->
-> 1.0 you mean no um
->
-> we have some theories we have like a
->
-> loosely based
->
-> like timesheet right now but that's
->
-> gonna change 100
->
-> i think it's also a little bit
->
-> optimistic but we don't we won't know
->
-> until we we implement it and try it out
+> console do you know what the game will actually be released 1.0 you mean no um we have some theories we have like a loosely based like timesheet right now but that's gonna change 100 i think it's also a little bit optimistic but we don't we won't know until we we implement it and try it out

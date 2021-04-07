@@ -22,10 +22,4 @@ https://www.youtube.com/watch?v=15R0t95pwvc
 
 ### Transcript
 
-> this and uh like no one there how many
->
-> of them are working on
->
-> valheim zero zero of them are working in
->
-> valhalla yeah we don't make
+> this and uh like no one there how many of them are working on valheim zero zero of them are working in valhalla yeah we don't make

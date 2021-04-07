@@ -16,24 +16,4 @@ This question was possibly duplicated with a more recent answer: March 2nd, 2021
 
 ### Transcript
 
-> that's all you're going to get uh do you
->
-> have any involvement in the
->
-> developments of valham no we don't we're
->
-> not the studio so iron gate studios are
->
-> the ones
->
-> or you can talk to the publishers which
->
-> is coffee stain publishing which is not
->
-> us
->
-> we are coffee stain studios a
->
-> development studio
->
-> we aren't the publishers
+> that's all you're going to get uh do you have any involvement in the developments of valham no we don't we're not the studio so iron gate studios are the ones or you can talk to the publishers which is coffee stain publishing which is not us we are coffee stain studios a development studio we aren't the publishers

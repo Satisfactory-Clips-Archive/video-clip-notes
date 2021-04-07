@@ -18,48 +18,8 @@ https://www.youtube.com/watch?v=YvY8_P-bxqY
 
 ### Transcript
 
-> is that the same like no drones and no
->
-> pipes no this is actually like it's not
->
-> coming
->
-> you guys have to believe me like we say
->
-> things like it's not coming
->
-> but something to say no it's not coming
->
-> like can you can you can you tell the
->
-> difference
->
-> this is no it's not coming and then
->
-> there's no it's not coming
->
-> can you can you differentiate like
->
-> there's there's a
->
-> there's a difference here
+> is that the same like no drones and no pipes no this is actually like it's not coming you guys have to believe me like we say things like it's not coming but something to say no it's not coming like can you can you can you tell the difference this is no it's not coming and then there's no it's not coming can you can you differentiate like there's there's a there's a difference here
 >
 > [Music]
 >
-> we've got trust issues i don't blame you
->
-> okay like
->
-> so it's coming no you misunder you
->
-> misunderstood
->
-> that's the same picture exactly yeah
->
-> yeah
->
-> i mean you can you can miss true
->
-> misconstrue everything i say anyways but
->
-> space stuff is not coming you guys
+> we've got trust issues i don't blame you okay like so it's coming no you misunder you misunderstood that's the same picture exactly yeah yeah i mean you can you can miss true misconstrue everything i say anyways but space stuff is not coming you guys

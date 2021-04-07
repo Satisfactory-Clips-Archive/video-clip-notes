@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=y7qT_KwDsI8
 
 ### Transcript
 
-> what about the hyper tube launcher that
->
-> doesn't spawn a crate when you die
->
-> that it's kind of your fault in that
->
-> case
+> what about the hyper tube launcher that doesn't spawn a crate when you die that it's kind of your fault in that case

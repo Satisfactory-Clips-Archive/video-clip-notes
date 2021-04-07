@@ -16,20 +16,4 @@ https://www.youtube.com/watch?v=q6ZTpN0GVHA
 
 ### Transcript
 
-> am answering right at the moment is the
->
-> story good though no it's
->
-> yeah yeah we figured we'd put out a
->
-> really terrible story
->
-> but you know what it's it's the story is
->
-> gonna be uh
->
-> uh optional so you won't even need to to
->
-> see it all to play the game no but it's
->
-> actually good all the way through
+> am answering right at the moment is the story good though no it's yeah yeah we figured we'd put out a really terrible story but you know what it's it's the story is gonna be uh uh optional so you won't even need to to see it all to play the game no but it's actually good all the way through

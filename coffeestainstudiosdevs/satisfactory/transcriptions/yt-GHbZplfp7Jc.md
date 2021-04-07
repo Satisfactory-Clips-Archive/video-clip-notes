@@ -18,13 +18,7 @@ https://www.youtube.com/watch?v=GHbZplfp7Jc
 
 ### Transcript
 
-> what is this
->
-> i shouldn't have said pipes why not
->
-> there's another chat it's insane
->
-> [ __ ] poops poops vatican's confirmed
+> what is this i shouldn't have said pipes why not there's another chat it's insane [ __ ] poops poops vatican's confirmed
 >
 > [Laughter]
 >

@@ -18,10 +18,4 @@ https://www.youtube.com/watch?v=00F3FYkTJpQ
 
 ### Transcript
 
-> did i tell you that i used to do that a
->
-> lot and then my balls hurt too much i
->
-> had to stop
->
-> [ __ ] wait what the [ __ ]
+> did i tell you that i used to do that a lot and then my balls hurt too much i had to stop [ __ ] wait what the [ __ ]

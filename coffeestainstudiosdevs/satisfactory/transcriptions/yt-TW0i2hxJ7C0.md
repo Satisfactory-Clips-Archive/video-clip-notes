@@ -16,22 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> a little dedicated service be coming uh
->
-> so check the uh what's the it's a daddy
->
-> service
->
-> dedicated service dedicated steady
->
-> there's command uh and that will
->
-> tell you that dedicated servers are
->
-> still being developed alongside
->
-> multiplayer bug fixes no release date so
->
-> that's the latest
->
-> news and dedicated service
+> a little dedicated service be coming uh so check the uh what's the it's a daddy service dedicated service dedicated steady there's command uh and that will tell you that dedicated servers are still being developed alongside multiplayer bug fixes no release date so that's the latest news and dedicated service

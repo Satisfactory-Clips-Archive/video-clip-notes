@@ -22,10 +22,4 @@ https://www.youtube.com/watch?v=r6XZwAA1Cvk
 
 > [Music]
 >
-> will it be a rocket to leave the planet
->
-> i don't know
->
-> why would you want to leave it's so
->
-> beautiful down there
+> will it be a rocket to leave the planet i don't know why would you want to leave it's so beautiful down there

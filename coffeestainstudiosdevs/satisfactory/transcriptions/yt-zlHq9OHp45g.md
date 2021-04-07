@@ -14,20 +14,4 @@ https://www.youtube.com/watch?v=zlHq9OHp45g
 
 ### Transcript
 
-> do plants like trees grow back
->
-> uh so if anything grows back it's a bug
->
-> currently apart from the the nuts and
->
-> berries
->
-> and possibly the bacon mushrooms
->
-> but i'm not quite sure about that but i
->
-> think it's the the bushes the berry
->
-> bushes
->
-> they grow back
+> do plants like trees grow back uh so if anything grows back it's a bug currently apart from the the nuts and berries and possibly the bacon mushrooms but i'm not quite sure about that but i think it's the the bushes the berry bushes they grow back

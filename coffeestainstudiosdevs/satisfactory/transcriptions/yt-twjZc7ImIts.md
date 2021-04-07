@@ -18,16 +18,4 @@ https://www.youtube.com/watch?v=twjZc7ImIts
 
 ### Transcript
 
-> um will the engine upgrade work on
->
-> linux we don't officially support linux
->
-> yet um
->
-> but if you have the game running on
->
-> linux right now
->
-> uh hopefully it will work
->
-> uh i don't know
+> um will the engine upgrade work on linux we don't officially support linux yet um but if you have the game running on linux right now uh hopefully it will work uh i don't know

@@ -20,6 +20,4 @@ https://www.youtube.com/watch?v=BPBXw4Zsk7A
 
 ### Transcript
 
-> can you go up with zip lines you can
->
-> we've confirmed that before
+> can you go up with zip lines you can we've confirmed that before

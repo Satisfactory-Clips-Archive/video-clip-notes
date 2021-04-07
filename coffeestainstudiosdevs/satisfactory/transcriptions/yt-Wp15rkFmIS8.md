@@ -22,14 +22,4 @@ https://www.youtube.com/watch?v=Wp15rkFmIS8
 
 ### Transcript
 
-> now why jason's not because there's no
->
-> one better
->
-> there's there's no one currently better
->
-> available
->
-> because we desperately need a job
->
-> it's like
+> now why jason's not because there's no one better there's there's no one currently better available because we desperately need a job it's like

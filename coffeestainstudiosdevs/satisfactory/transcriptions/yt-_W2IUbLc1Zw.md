@@ -16,38 +16,4 @@ https://www.youtube.com/watch?v=_W2IUbLc1Zw
 
 ### Transcript
 
-> surprised the other day by the news of
->
-> embracing acquiring gearbox me too man
->
-> it was news to me as well
->
-> yes well very exciting they don't tell
->
-> us anything because it would be
->
-> considered insider training i think or
->
-> something like that i think so it's
->
-> probably like illegal
->
-> or something like we didn't even know
->
-> when when embracer bought coffee stain
->
-> like we didn't even know
->
-> that that happened yeah because like
->
-> yeah again because it
->
-> could be inside retreat yeah who who
->
-> knows who knows
->
-> we shouldn't listen to us on this
->
-> because we don't know how the this
->
-> works all right
+> surprised the other day by the news of embracing acquiring gearbox me too man it was news to me as well yes well very exciting they don't tell us anything because it would be considered insider training i think or something like that i think so it's probably like illegal or something like we didn't even know when when embracer bought coffee stain like we didn't even know that that happened yeah because like yeah again because it could be inside retreat yeah who who knows who knows we shouldn't listen to us on this because we don't know how the this works all right

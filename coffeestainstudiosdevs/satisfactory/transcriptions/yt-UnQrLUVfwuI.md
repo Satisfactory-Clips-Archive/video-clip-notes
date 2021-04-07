@@ -18,8 +18,4 @@ https://www.youtube.com/watch?v=UnQrLUVfwuI
 
 ### Transcript
 
-> um can't wait for drones and water
->
-> extractors in ea this is a great update
->
-> thank you so much for that
+> um can't wait for drones and water extractors in ea this is a great update thank you so much for that

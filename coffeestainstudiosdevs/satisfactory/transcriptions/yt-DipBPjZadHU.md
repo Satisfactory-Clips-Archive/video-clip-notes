@@ -14,22 +14,4 @@ https://www.youtube.com/watch?v=DipBPjZadHU
 
 ### Transcript
 
-> i have movement replication issues when
->
-> playing with a friend are you aware of
->
-> the issue
->
-> hell yeah we were yeah we know um there
->
-> are a few things
->
-> in update four that might make this
->
-> better
->
-> um hopefully fingers crossed uh but we
->
-> are aware of that and we're looking into
->
-> solutions to that
+> i have movement replication issues when playing with a friend are you aware of the issue hell yeah we were yeah we know um there are a few things in update four that might make this better um hopefully fingers crossed uh but we are aware of that and we're looking into solutions to that

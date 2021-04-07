@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=E0t1mNf6FUQ
 
 ### Transcript
 
-> uh how long have you been working
->
-> coffeestain uh over six years now
+> uh how long have you been working coffeestain uh over six years now

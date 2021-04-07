@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=tX-qIP0FrJM
 
 ### Transcript
 
-> make a valentine command that makes
->
-> sense
->
-> it's going to be weird to make valentine
->
-> what's that we make satisfactory number
->
-> line
+> make a valentine command that makes sense it's going to be weird to make valentine what's that we make satisfactory number line

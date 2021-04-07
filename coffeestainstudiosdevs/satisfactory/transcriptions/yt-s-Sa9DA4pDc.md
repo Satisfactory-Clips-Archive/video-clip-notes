@@ -35,34 +35,4 @@ https://www.youtube.com/watch?v=s-Sa9DA4pDc
 
 ### Transcript
 
-> nice so
->
-> now that i've added and removed all
->
-> those
->
-> layouts actually done i don't think i
->
-> removed them completely
->
-> today am i still binding them
->
-> yes
->
-> so i wanted to remove these bindings
->
-> and replace them
->
-> rams i think
->
-> well i know what i can do i can take a
->
-> look at see how they i'm done
->
-> so get element shader bindings
->
-> this is the set of it's
->
-> in the cpp he thinks
->
-> yep
+> nice so now that i've added and removed all those layouts actually done i don't think i removed them completely today am i still binding them yes so i wanted to remove these bindings and replace them rams i think well i know what i can do i can take a look at see how they i'm done so get element shader bindings this is the set of it's in the cpp he thinks yep

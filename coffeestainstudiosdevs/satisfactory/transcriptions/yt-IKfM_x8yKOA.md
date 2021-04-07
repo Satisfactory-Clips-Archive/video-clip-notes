@@ -14,8 +14,4 @@ https://www.youtube.com/watch?v=IKfM_x8yKOA
 
 ### Transcript
 
-> will mods be easy to use in the future
->
-> uh i don't know that's that's a question
->
-> for the modding community
+> will mods be easy to use in the future uh i don't know that's that's a question for the modding community

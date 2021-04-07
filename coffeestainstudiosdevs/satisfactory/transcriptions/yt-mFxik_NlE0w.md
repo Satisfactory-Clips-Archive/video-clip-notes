@@ -16,28 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 ### Transcript
 
-> it's fine it's fine and one more super
->
-> quick thing someone asked if there's
->
-> going to be storyline
->
-> uh yeah there is going to be uh not for
->
-> any time soon though because we
->
-> want that to be one of our last things
->
-> to do because we don't want to add it
->
-> that slowly and spoil your kind of thing
->
-> so
->
-> and also focus on actually making the
->
-> the play of the game so uh there will be
->
-> story and hannah will be writing all of
->
-> it yeah
+> it's fine it's fine and one more super quick thing someone asked if there's going to be storyline uh yeah there is going to be uh not for any time soon though because we want that to be one of our last things to do because we don't want to add it that slowly and spoil your kind of thing so and also focus on actually making the the play of the game so uh there will be story and hannah will be writing all of it yeah

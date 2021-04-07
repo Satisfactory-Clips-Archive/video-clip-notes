@@ -16,8 +16,4 @@ https://www.youtube.com/watch?v=pXjkxnkhSG8
 
 ### Transcript
 
-> we need special weapons for doggos yo we
->
-> need to be able to add
->
-> lasers to the doggo
+> we need special weapons for doggos yo we need to be able to add lasers to the doggo

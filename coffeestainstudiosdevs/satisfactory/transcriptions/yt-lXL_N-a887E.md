@@ -24,28 +24,4 @@ This question was possibly duplicated with a more recent answer: [September 29th
 
 ### Transcript
 
-> uh a mark on pipes to show the meters
->
-> that's not a bad idea actually please
->
-> hit that up on the questions website
->
-> that's a really good suggestion
->
-> um some kind of indicator to see like
->
-> where like you probably want to place
->
-> pumps or if there's like some way to
->
-> measuring game i don't know
->
-> um
->
-> use that walls or four meters to make
->
-> measurements 20 meter okay so it's a
->
-> centimeter yeah that's also a pretty
->
-> good device
+> uh a mark on pipes to show the meters that's not a bad idea actually please hit that up on the questions website that's a really good suggestion um some kind of indicator to see like where like you probably want to place pumps or if there's like some way to measuring game i don't know um use that walls or four meters to make measurements 20 meter okay so it's a centimeter yeah that's also a pretty good device

@@ -16,32 +16,4 @@ https://www.youtube.com/watch?v=JSiUvQ1K00Q
 
 ### Transcript
 
-> how's the patch notes video coming along
->
-> oh my god the patch notes video is
->
-> is becoming bigger and bigger like
->
-> it was pretty like i didn't think we did
->
-> an ambitious passion video but it's it's
->
-> it's a lot of work going into this i'm
->
-> uh stressing out about the amount of
->
-> b-roll i need to make
->
-> uh in-game b-roll but it's pretty good
->
-> like the video itself is pretty much
->
-> like cut
->
-> uh we just need to add like a bunch of
->
-> vo and a bunch of b-roll
->
-> and uh yeah it's gonna be juicy
->
-> i'm looking forward to it
+> how's the patch notes video coming along oh my god the patch notes video is is becoming bigger and bigger like it was pretty like i didn't think we did an ambitious passion video but it's it's it's a lot of work going into this i'm uh stressing out about the amount of b-roll i need to make uh in-game b-roll but it's pretty good like the video itself is pretty much like cut uh we just need to add like a bunch of vo and a bunch of b-roll and uh yeah it's gonna be juicy i'm looking forward to it

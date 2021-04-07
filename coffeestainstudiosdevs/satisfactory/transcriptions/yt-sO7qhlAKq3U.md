@@ -18,12 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> will there be trucks that can transport
->
-> fluids
->
-> uh if you package the fluids yes
->
-> but we don't have any plans for that
->
-> currently but maybe in the future
+> will there be trucks that can transport fluids uh if you package the fluids yes but we don't have any plans for that currently but maybe in the future

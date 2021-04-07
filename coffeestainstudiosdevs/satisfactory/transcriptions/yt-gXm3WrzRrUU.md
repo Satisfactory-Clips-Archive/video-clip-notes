@@ -23,30 +23,4 @@ https://www.youtube.com/watch?v=gXm3WrzRrUU
 
 ### Transcript
 
-> when are my blade dancer
->
-> blade runners gonna stay on my character
->
-> while in hypertubes that's a good
->
-> question
->
-> it's one of those bugs that like it's
->
-> not really high prior because like
->
-> it doesn't break the game or anything
->
-> like that just breaks immersion or
->
-> whatever um
->
-> so it's been like not been prioritized
->
-> but i think we're gonna fix that at some
->
-> point i mean we are gonna fix that at
->
-> some point it's a really
->
-> it's a really annoying bug
+> when are my blade dancer blade runners gonna stay on my character while in hypertubes that's a good question it's one of those bugs that like it's not really high prior because like it doesn't break the game or anything like that just breaks immersion or whatever um so it's been like not been prioritized but i think we're gonna fix that at some point i mean we are gonna fix that at some point it's a really it's a really annoying bug

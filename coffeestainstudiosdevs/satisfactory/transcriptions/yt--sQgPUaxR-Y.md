@@ -18,22 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> are there any plans for blueprinting
->
-> buildings and systems there are no plans
->
-> for that as far as i know we don't want
->
-> that
->
-> but that's something that i don't know
->
-> every time i talk about it it always
->
-> seems like it's a thing that could maybe
->
-> it's a hot potato yeah it doesn't sound
->
-> like a
->
-> like a hard no but it's a no
+> are there any plans for blueprinting buildings and systems there are no plans for that as far as i know we don't want that but that's something that i don't know every time i talk about it it always seems like it's a thing that could maybe it's a hot potato yeah it doesn't sound like a like a hard no but it's a no

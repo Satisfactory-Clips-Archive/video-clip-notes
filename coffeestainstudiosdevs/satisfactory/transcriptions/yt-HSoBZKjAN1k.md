@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=HSoBZKjAN1k
 
 ### Transcript
 
-> uh any air and see
->
-> vehicles in update four uh no i don't
->
-> know
->
-> do you think so no
+> uh any air and see vehicles in update four uh no i don't know do you think so no

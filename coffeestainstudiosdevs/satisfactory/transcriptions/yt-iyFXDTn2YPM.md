@@ -27,20 +27,4 @@ https://www.youtube.com/watch?v=iyFXDTn2YPM
 
 ### Transcript
 
-> slash pickup when will
->
-> not shipping worldwide be possible it's
->
-> already possible except you kind of get
->
-> scammed with the shipping if you're
->
-> outside of the uh north america
->
-> uh and we're working on finding a way to
->
-> get another store for the rest of the
->
-> world
->
-> too for eu etc we're working on it
+> slash pickup when will not shipping worldwide be possible it's already possible except you kind of get scammed with the shipping if you're outside of the uh north america uh and we're working on finding a way to get another store for the rest of the world too for eu etc we're working on it

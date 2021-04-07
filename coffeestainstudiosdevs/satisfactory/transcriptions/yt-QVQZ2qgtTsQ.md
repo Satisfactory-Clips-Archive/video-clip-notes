@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> all right let's see satisfactory on
->
-> switch but you know what get out
+> all right let's see satisfactory on switch but you know what get out

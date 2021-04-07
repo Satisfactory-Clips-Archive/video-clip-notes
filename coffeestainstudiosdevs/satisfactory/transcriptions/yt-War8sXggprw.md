@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=War8sXggprw
 
 ### Transcript
 
-> update three
->
-> still schedule it is we'll talk about it
->
-> a little more uh no we won't
->
-> uh sure i mean yeah in state of dev
->
-> we'll do that yeah but yeah pretty much
+> update three still schedule it is we'll talk about it a little more uh no we won't uh sure i mean yeah in state of dev we'll do that yeah but yeah pretty much

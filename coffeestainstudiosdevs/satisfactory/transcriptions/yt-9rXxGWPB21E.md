@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> can you please add a smarter
->
-> programmable merger don't we have that
->
-> or is that the splitter
+> can you please add a smarter programmable merger don't we have that or is that the splitter

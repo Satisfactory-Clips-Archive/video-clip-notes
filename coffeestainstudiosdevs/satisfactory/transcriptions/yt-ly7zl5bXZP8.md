@@ -14,44 +14,4 @@ https://www.youtube.com/watch?v=ly7zl5bXZP8
 
 ### Transcript
 
-> for update 4. all right people asking
->
-> about the priority switch which is
->
-> something that was leaked in a video but
->
-> we didn't
->
-> talk about the last thing the reason we
->
-> didn't talk about it was because we
->
-> didn't want to release information about
->
-> it
->
-> it was an accident that it was leaked so
->
-> uh no information
->
-> nothing to say about the priority switch
->
-> uh the only reason you know about it was
->
-> because of uh
->
-> was because of a little boo-boo because
->
-> of oopsie so uh we're not really gonna
->
-> change our uh
->
-> intention on what we were gonna do or
->
-> say about the priority switch
->
-> just because it was leaked so no
->
-> commento
->
-> yep exclamation oops indeed
+> for update 4. all right people asking about the priority switch which is something that was leaked in a video but we didn't talk about the last thing the reason we didn't talk about it was because we didn't want to release information about it it was an accident that it was leaked so uh no information nothing to say about the priority switch uh the only reason you know about it was because of uh was because of a little boo-boo because of oopsie so uh we're not really gonna change our uh intention on what we were gonna do or say about the priority switch just because it was leaked so no commento yep exclamation oops indeed

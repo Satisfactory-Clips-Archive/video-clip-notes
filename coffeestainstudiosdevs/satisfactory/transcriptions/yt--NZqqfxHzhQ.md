@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=-NZqqfxHzhQ
 
 ### Transcript
 
-> checked i assume so more performance
->
-> updates with update 4
->
-> yes and with the engine update that
->
-> might come out next next
->
-> week
+> checked i assume so more performance updates with update 4 yes and with the engine update that might come out next next week

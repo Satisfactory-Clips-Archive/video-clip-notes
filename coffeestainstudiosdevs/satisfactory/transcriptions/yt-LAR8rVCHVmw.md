@@ -16,20 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> are there plans for character
->
-> customization different colors or
->
-> clothes
->
-> there has always been talk of it
->
-> actually i think that was always like
->
-> someone in the plans
->
-> i think it's gonna happen personally i'm
->
-> pretty sure it will it's just a matter
->
-> of when
+> are there plans for character customization different colors or clothes there has always been talk of it actually i think that was always like someone in the plans i think it's gonna happen personally i'm pretty sure it will it's just a matter of when

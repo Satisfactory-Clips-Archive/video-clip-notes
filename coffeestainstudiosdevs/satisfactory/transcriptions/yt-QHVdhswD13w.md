@@ -18,12 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 ### Transcript
 
-> but hopefully soon can we please get a
->
-> snow biome
->
-> uh that is a big old nope from hannah
->
-> we we don't want to do a snow biome
->
-> unfortunately
+> but hopefully soon can we please get a snow biome uh that is a big old nope from hannah we we don't want to do a snow biome unfortunately

@@ -18,12 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> don't know berry farming we've talked
->
-> about farming
->
-> uh and we love the idea and it also
->
-> makes sense for the game
->
-> so maybe
+> don't know berry farming we've talked about farming uh and we love the idea and it also makes sense for the game so maybe

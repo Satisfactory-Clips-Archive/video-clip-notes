@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> we want to do will you create console
->
-> version satisfactory answered that one
->
-> before
->
-> don't know is the answer
+> we want to do will you create console version satisfactory answered that one before don't know is the answer

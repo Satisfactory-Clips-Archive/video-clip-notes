@@ -16,32 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> i'm just kidding plan to let us grow
->
-> food in some way
->
-> you can already kind of grow food the
->
-> berries regrow
->
-> and the nuts and uh you could just
->
-> believe that that was all you're doing
->
-> yeah yeah exactly and just pretend that
->
-> you did that just pretend that you did
->
-> what the [ __ ] that's what they pay me
->
-> for
->
-> no but like farming i don't know if uh
->
-> yeah i don't know
->
-> maybe in the future what was that i'll
->
-> put that on the keyway site
->
-> that's that's a cool idea
+> i'm just kidding plan to let us grow food in some way you can already kind of grow food the berries regrow and the nuts and uh you could just believe that that was all you're doing yeah yeah exactly and just pretend that you did that just pretend that you did what the [ __ ] that's what they pay me for no but like farming i don't know if uh yeah i don't know maybe in the future what was that i'll put that on the keyway site that's that's a cool idea

@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> a dedicated service coming
->
-> uh coming yes when next question
+> a dedicated service coming uh coming yes when next question

@@ -16,24 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 8th,
 
 ### Transcript
 
-> light of course so let's see here um can
->
-> we have an ultra retrofitting room with
->
-> simon's face
->
-> i don't like killing these uh we're
->
-> gonna go and add
->
-> like a bunch of different modes but one
->
-> thing i was thinking is if there was
->
-> like a low chance that it instead of a
->
-> cat it was simon's face that could be
->
-> fun i don't know if we can do that
->
-> though i think it's a good idea
+> light of course so let's see here um can we have an ultra retrofitting room with simon's face i don't like killing these uh we're gonna go and add like a bunch of different modes but one thing i was thinking is if there was like a low chance that it instead of a cat it was simon's face that could be fun i don't know if we can do that though i think it's a good idea

@@ -14,14 +14,4 @@ https://www.youtube.com/watch?v=KfKtG1DjjFI
 
 ### Transcript
 
-> could you make a setting to disable the
->
-> feet dragging sound is there is there a
->
-> different do you mean like disable
->
-> sounds in general
->
-> or is there a specific sound that's
->
-> weird
+> could you make a setting to disable the feet dragging sound is there is there a different do you mean like disable sounds in general or is there a specific sound that's weird

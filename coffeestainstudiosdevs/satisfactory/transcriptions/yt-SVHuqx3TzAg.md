@@ -14,20 +14,4 @@ https://www.youtube.com/watch?v=SVHuqx3TzAg
 
 ### Transcript
 
-> will you be able to add modifications to
->
-> cars to make them faster
->
-> shoot things i don't know uh
->
-> we have been thinking of adding
->
-> modifications to cars to vehicles yeah
->
-> um yeah so yeah maybe
->
-> something maybe yeah maybe well you'll
->
-> never know what it is
->
-> i think we have
+> will you be able to add modifications to cars to make them faster shoot things i don't know uh we have been thinking of adding modifications to cars to vehicles yeah um yeah so yeah maybe something maybe yeah maybe well you'll never know what it is i think we have

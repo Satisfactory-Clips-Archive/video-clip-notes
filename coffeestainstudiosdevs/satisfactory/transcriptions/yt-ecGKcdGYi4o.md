@@ -16,18 +16,4 @@ https://www.youtube.com/watch?v=ecGKcdGYi4o
 
 ### Transcript
 
-> you like to watch the morning community
->
-> suffer don't you i like to watch
->
-> everyone suffer
->
-> yes yeah everyone 100
->
-> uh the people that talk to me uh
->
-> regularly from the modern community
->
-> knows that i attested this
->
-> why do you hate them they're okay
+> you like to watch the morning community suffer don't you i like to watch everyone suffer yes yeah everyone 100 uh the people that talk to me uh regularly from the modern community knows that i attested this why do you hate them they're okay

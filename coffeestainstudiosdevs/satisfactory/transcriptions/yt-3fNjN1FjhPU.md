@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> uh someone asked before if update 4 is
->
-> the last update that's that's not it's
->
-> not the last update there'll be more
+> uh someone asked before if update 4 is the last update that's that's not it's not the last update there'll be more

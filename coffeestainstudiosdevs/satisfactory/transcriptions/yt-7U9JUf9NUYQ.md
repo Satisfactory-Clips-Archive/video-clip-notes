@@ -18,20 +18,4 @@ https://www.youtube.com/watch?v=7U9JUf9NUYQ
 
 ### Transcript
 
-> a question got people in escort asking
->
-> for confirmation as to whether diluted
->
-> packaged fuel will be retained or
->
-> discarded if diluted
->
-> liquid fuel gets added to the blender
->
-> and mark just responded with it will be
->
-> retained
->
-> so it will be retained okay
->
-> don't worry
+> a question got people in escort asking for confirmation as to whether diluted packaged fuel will be retained or discarded if diluted liquid fuel gets added to the blender and mark just responded with it will be retained so it will be retained okay don't worry

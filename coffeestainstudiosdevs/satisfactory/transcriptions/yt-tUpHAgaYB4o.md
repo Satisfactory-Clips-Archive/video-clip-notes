@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 6th, 2
 
 ### Transcript
 
-> like hmm cat companion instead of doggo
->
-> no get out bend you're working on thin
->
-> eyes
->
-> oh yeah yeah i love you i've had it up
->
-> to here with you and your shrinkages
+> like hmm cat companion instead of doggo no get out bend you're working on thin eyes oh yeah yeah i love you i've had it up to here with you and your shrinkages

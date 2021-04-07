@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> will we ever see mark ii versions of the
->
-> constructor assembler
->
-> refinery etc uh no
->
-> you will not
+> will we ever see mark ii versions of the constructor assembler refinery etc uh no you will not

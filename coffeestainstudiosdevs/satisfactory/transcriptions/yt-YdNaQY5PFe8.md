@@ -16,28 +16,4 @@ https://www.youtube.com/watch?v=YdNaQY5PFe8
 
 ### Transcript
 
-> we're all the new music tracks so i can
->
-> listen to them
->
-> good question we we haven't put the
->
-> music out yet because
->
-> the music like the soundtrack isn't done
->
-> there's still
->
-> a lot of work left to the soundtrack
->
-> so that's why you haven't found it on
->
-> like spotify and stuff like that
->
-> i'm pretty sure we're gonna do it at
->
-> some point but uh
->
-> we wanna finish the soundtrack before we
->
-> do that
+> we're all the new music tracks so i can listen to them good question we we haven't put the music out yet because the music like the soundtrack isn't done there's still a lot of work left to the soundtrack so that's why you haven't found it on like spotify and stuff like that i'm pretty sure we're gonna do it at some point but uh we wanna finish the soundtrack before we do that

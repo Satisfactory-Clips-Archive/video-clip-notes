@@ -20,8 +20,4 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 ### Transcript
 
-> doing it yep jet pack needs a hover mode
->
-> i like that idea
->
-> i don't know i kind of like
+> doing it yep jet pack needs a hover mode i like that idea i don't know i kind of like

@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Transcript
 
-> in the butt yeah are there any plans to
->
-> add lights inside the factories there's
->
-> plans to do that someday yeah
+> in the butt yeah are there any plans to add lights inside the factories there's plans to do that someday yeah

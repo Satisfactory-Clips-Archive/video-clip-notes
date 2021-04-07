@@ -20,10 +20,4 @@ This question was possibly duplicated with a more recent answer: [November 24th,
 
 > [Music]
 >
-> are you going to add the ability to
->
-> raise lower parts of the landscape we
->
-> did not plan on that normal planet
->
-> easy exploit and explore yeah
+> are you going to add the ability to raise lower parts of the landscape we did not plan on that normal planet easy exploit and explore yeah

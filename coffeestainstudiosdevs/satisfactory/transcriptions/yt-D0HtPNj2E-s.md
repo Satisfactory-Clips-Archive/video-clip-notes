@@ -16,20 +16,4 @@ https://www.youtube.com/watch?v=D0HtPNj2E-s
 
 ### Transcript
 
-> one of which is a new building called
->
-> the power storage
->
-> power storage oh yeah reuse shots i wish
->
-> we could have reused more shots
->
-> but there weren't that many we could
->
-> have used we've all done it we've all
->
-> been there
->
-> we've all hooked up a freshly built
->
-> section of our factories
+> one of which is a new building called the power storage power storage oh yeah reuse shots i wish we could have reused more shots but there weren't that many we could have used we've all done it we've all been there we've all hooked up a freshly built section of our factories

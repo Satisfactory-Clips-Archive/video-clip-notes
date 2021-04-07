@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Transcript
 
-> will we get a better royal update
->
-> no i don't think so unless that's a
->
-> seasonal thing
->
-> it could be fun if people like it at the
->
-> studio
+> will we get a better royal update no i don't think so unless that's a seasonal thing it could be fun if people like it at the studio

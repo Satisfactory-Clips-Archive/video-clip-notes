@@ -14,14 +14,4 @@ https://www.youtube.com/watch?v=WjVP7rOR38M
 
 ### Transcript
 
-> trailer for the trucks i don't think
->
-> that will happen
->
-> whatsoever like the trucks is such a
->
-> mess right now the
->
-> like vehicles in games in general is so
->
-> much more like it's so much work
+> trailer for the trucks i don't think that will happen whatsoever like the trucks is such a mess right now the like vehicles in games in general is so much more like it's so much work

@@ -16,8 +16,4 @@ https://www.youtube.com/watch?v=8SVPBlq4ORQ
 
 ### Transcript
 
-> let's see regain health that's it
->
-> i like that idea actually it's a pretty
->
-> pretty good idea
+> let's see regain health that's it i like that idea actually it's a pretty pretty good idea

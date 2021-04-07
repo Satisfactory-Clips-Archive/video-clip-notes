@@ -16,24 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Transcript
 
-> was your question music we have music in
->
-> the game
->
-> if your question was uh if there's gonna
->
-> be more music then the answer is
->
-> uh yes there's gonna be more music
->
-> there's also one of the reasons why
->
-> we don't have the music on like spotify
->
-> anything like that is because the the
->
-> soundtrack isn't done
->
-> um i guess those are the most common
->
-> questions i get
+> was your question music we have music in the game if your question was uh if there's gonna be more music then the answer is uh yes there's gonna be more music there's also one of the reasons why we don't have the music on like spotify anything like that is because the the soundtrack isn't done um i guess those are the most common questions i get

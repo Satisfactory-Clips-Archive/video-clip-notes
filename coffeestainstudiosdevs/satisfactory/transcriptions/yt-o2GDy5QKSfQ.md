@@ -16,26 +16,8 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> will ever be farming in the game
->
-> uh i don't know maybe
+> will ever be farming in the game uh i don't know maybe
 >
 > [Music]
 >
-> we've certainly thought about that does
->
-> that mean that it's gonna come
->
-> i don't know
->
-> i shouldn't have said it like that
->
-> i can't say anything on the stream
->
-> no matter what i do you people are just
->
-> gonna upload it every other q is
->
-> that yeah
->
-> confirmed
+> we've certainly thought about that does that mean that it's gonna come i don't know i shouldn't have said it like that i can't say anything on the stream  no matter what i do you people are just gonna upload it every other q is that yeah confirmed

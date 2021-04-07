@@ -18,28 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> uh is there an update to train station
->
-> and rails railway switches in the near
->
-> future
->
-> i don't know there's gonna be an
->
-> overhaul of the train
->
-> how trains work in the future but we
->
-> don't know when that will happen
->
-> yeah yeah trains are not done yeah and
->
-> as we've said before
->
-> pipes are not done uh there will be work
->
-> to them as for
->
-> what and when i don't know or actually i
->
-> know some of it
+> uh is there an update to train station and rails railway switches in the near future i don't know there's gonna be an overhaul of the train how trains work in the future but we don't know when that will happen yeah yeah trains are not done yeah and as we've said before pipes are not done uh there will be work to them as for what and when i don't know or actually i know some of it

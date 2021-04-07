@@ -18,10 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 24th,
 
 ### Transcript
 
-> stuff is like we need to enable you guys
->
-> are you guys planning to add any
->
-> terraforming or digging
->
-> we don't have that plan no
+> stuff is like we need to enable you guys are you guys planning to add any terraforming or digging we don't have that plan no

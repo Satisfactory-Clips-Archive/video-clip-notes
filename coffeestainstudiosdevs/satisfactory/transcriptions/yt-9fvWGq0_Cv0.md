@@ -16,14 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> are common and they're quick will there
->
-> be console versions of the game
->
-> no plans for that yet i mean probably
->
-> likely i mean
->
-> it would be good but we don't know we
->
-> don't know yet at all
+> are common and they're quick will there be console versions of the game no plans for that yet i mean probably likely i mean it would be good but we don't know we don't know yet at all

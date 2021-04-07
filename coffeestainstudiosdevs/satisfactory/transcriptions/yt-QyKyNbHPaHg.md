@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> let me personalize my character
->
-> that is something that we have talked
->
-> about that internally
->
-> um that's something that might happen
->
-> or i think it's gonna happen
+> let me personalize my character that is something that we have talked about that internally um that's something that might happen or i think it's gonna happen

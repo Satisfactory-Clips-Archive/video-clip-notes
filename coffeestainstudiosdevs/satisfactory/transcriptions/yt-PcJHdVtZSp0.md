@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> can we destroy those gas pillars
->
-> eventually you're going to be able to do
->
-> something with them or handle them in
->
-> some way
+> can we destroy those gas pillars eventually you're going to be able to do something with them or handle them in some way

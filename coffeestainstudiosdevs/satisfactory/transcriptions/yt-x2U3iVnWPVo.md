@@ -16,16 +16,4 @@ https://www.youtube.com/watch?v=x2U3iVnWPVo
 
 ### Transcript
 
-> are the node purity choices which notes
->
-> are in pure normal pure
->
-> usually done by a balanced team or a mac
->
-> team that's done by the
->
-> game designer team i'd say uh or maybe
->
-> it's both it's maybe it's uh
->
-> why am i
+> are the node purity choices which notes are in pure normal pure usually done by a balanced team or a mac team that's done by the game designer team i'd say uh or maybe it's both it's maybe it's uh why am i

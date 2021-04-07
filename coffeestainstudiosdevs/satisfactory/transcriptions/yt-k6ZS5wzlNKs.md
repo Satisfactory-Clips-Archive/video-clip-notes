@@ -18,8 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> is the sink going to accept liquids in
->
-> the future
->
-> good question i don't know maybe
+> is the sink going to accept liquids in the future good question i don't know maybe

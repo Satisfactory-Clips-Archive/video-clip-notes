@@ -18,6 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> pretty funny the map is pre-made not
->
-> procedurally generated that's correct
+> pretty funny the map is pre-made not procedurally generated that's correct

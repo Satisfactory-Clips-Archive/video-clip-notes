@@ -22,14 +22,4 @@ https://www.youtube.com/watch?v=wFSyxgWHquw
 
 ### Transcript
 
-> date for update 4 is march 16th
->
-> so next week tuesday it's exactly a week
->
-> from now
->
-> and it should come out at 5 00 pm gmt is
->
-> the goal
->
-> plan
+> date for update 4 is march 16th so next week tuesday it's exactly a week from now and it should come out at 5 00 pm gmt is the goal plan

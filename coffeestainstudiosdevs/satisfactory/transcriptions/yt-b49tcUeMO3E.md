@@ -16,24 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> very much crits that's kind will the map
->
-> be bigger
->
-> no but there will be more areas where
->
-> you can do more things
->
-> there's a lot of areas on the map that
->
-> aren't done and when they're done
->
-> in a way the map has expanded in terms
->
-> of playable area
->
-> yeah things like that but the map won't
->
-> be expanded
->
-> probably never
+> very much crits that's kind will the map be bigger no but there will be more areas where you can do more things there's a lot of areas on the map that aren't done and when they're done in a way the map has expanded in terms of playable area yeah things like that but the map won't be expanded probably never

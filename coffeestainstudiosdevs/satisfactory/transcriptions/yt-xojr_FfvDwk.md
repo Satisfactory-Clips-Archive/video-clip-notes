@@ -16,20 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> uh any chance for a logic system in the
->
-> game uh i don't
->
-> know maybe like
->
-> we were certainly impressed by the mod
->
-> for the the logic system that mod is
->
-> insane
->
-> uh we won't make anything as ambitious
->
-> as that i think
->
-> but that's a really cool mod
+> uh any chance for a logic system in the game uh i don't know maybe like we were certainly impressed by the mod for the the logic system that mod is insane uh we won't make anything as ambitious as that i think but that's a really cool mod

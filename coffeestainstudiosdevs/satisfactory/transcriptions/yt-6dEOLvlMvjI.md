@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> latest issue with dedicated server
->
-> development
->
-> it's just the bugs in multiplayer that
->
-> we're working on still working on that
+> latest issue with dedicated server development it's just the bugs in multiplayer that we're working on still working on that

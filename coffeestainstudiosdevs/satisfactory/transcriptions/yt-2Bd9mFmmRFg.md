@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=2Bd9mFmmRFg
 
 ### Transcript
 
-> can we get a jace trophy in the game why
->
-> would you want that
->
-> yeah it's all about the friends we made
->
-> in life not the
->
-> not the community managers yeah exactly
+> can we get a jace trophy in the game why would you want that yeah it's all about the friends we made in life not the not the community managers yeah exactly

@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> happen no have we considered flying
->
-> drones
->
-> yeah we have
+> happen no have we considered flying drones yeah we have

@@ -28,56 +28,8 @@ https://www.youtube.com/watch?v=IlACElBWukM
 
 ### Transcript
 
-> um what's the plan for mod support
->
-> we are going to have official mod
->
-> support at some point we have unofficial
->
-> mod support currently
->
-> on ea and they're working really hard
->
-> together on experimental
+> um what's the plan for mod support we are going to have official mod support at some point we have unofficial mod support currently on ea and they're working really hard together on experimental
 >
 > [Music]
 >
-> the modders have promised to me 100 this
->
-> is not us promising this is the modders
->
-> promising
->
-> 100 no like guaranteed
->
-> money back that that mods are going to
->
-> work
->
-> for update 4 when it hits ea
->
-> guaranteed quote me on that because i'm
->
-> quoting someone else
->
-> actually maybe don't i actually don't
->
-> know check out the modding discord if
->
-> you want to
->
-> get news on on modding stuff because we
->
-> we don't officially support mods it's
->
-> something that
->
-> yeah 100 guaranteed tm modders told me
->
-> now they get to live up to the
->
-> thing when you say like
->
-> publicly they get to taste their own
->
-> medicine
+> the modders have promised to me 100 this is not us promising this is the modders promising 100 no like guaranteed money back that that mods are going to work for update 4 when it hits ea guaranteed quote me on that because i'm quoting someone else actually maybe don't i actually don't know check out the modding discord if you want to get news on on modding stuff because we we don't officially support mods it's something that yeah 100 guaranteed tm modders told me now they get to live up to the thing when you say like publicly they get to taste their own medicine

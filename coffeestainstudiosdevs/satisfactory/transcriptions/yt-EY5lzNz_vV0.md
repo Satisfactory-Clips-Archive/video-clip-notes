@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=EY5lzNz_vV0
 
 ### Transcript
 
-> but are we saving or killing the animals
->
-> that's a good question you have to
->
-> donate yeah
->
-> hit our donate button that we don't have
->
-> uh and then we'll consider it
+> but are we saving or killing the animals that's a good question you have to donate yeah hit our donate button that we don't have uh and then we'll consider it

@@ -14,8 +14,4 @@ https://www.youtube.com/watch?v=dO0LLPFQ20s
 
 ### Transcript
 
-> yeah derailment derailment's not a thing
->
-> that we're planning at the moment
->
-> no
+> yeah derailment derailment's not a thing that we're planning at the moment no

@@ -27,20 +27,14 @@ Snutt: Ahh
 > Jace: yeah?
 >
 > Snutt: We- I mean we have, but I thought you could-
-I thought we added that in a patch a while back,
->
-> Snutt:  but maybe we didn't because that's not
+I thought we added that in a patch a while back, Snutt:  but maybe we didn't because that's not
 the first time I've gotten that question in recently.
 >
 > Jace: Okay.
 >
 > Jace: Can anyone else confirm? - if you can rebind
-your key?
->
-> Snutt: Well specifically Ctrl and Shifts and
-Left Shifts.
->
-> Snutt: Maybe you can't right now, but I think
+your key? Snutt: Well specifically Ctrl and Shifts and
+Left Shifts. Snutt: Maybe you can't right now, but I think
 we have plans for that.
 >
 > Jace: Oh.

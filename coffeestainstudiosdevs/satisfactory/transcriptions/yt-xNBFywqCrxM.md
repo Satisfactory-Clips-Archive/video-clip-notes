@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> yeah well there'd be turrets or
->
-> something in the game there will not
+> yeah well there'd be turrets or something in the game there will not

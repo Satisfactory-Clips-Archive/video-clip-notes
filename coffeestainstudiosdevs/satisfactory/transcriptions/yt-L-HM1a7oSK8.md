@@ -22,14 +22,4 @@ https://www.youtube.com/watch?v=L-HM1a7oSK8
 
 ### Transcript
 
-> what engine do you use if not engine one
->
-> programming languages we use our unreal
->
-> engine
->
-> and in it we use uh c plus and also the
->
-> blueprints
->
-> the blueprints
+> what engine do you use if not engine one programming languages we use our unreal engine and in it we use uh c plus and also the blueprints the blueprints

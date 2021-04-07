@@ -16,16 +16,4 @@ https://www.youtube.com/watch?v=i1cimOkbLHs
 
 ### Transcript
 
-> do you plan to integrate an automatic
->
-> path travel for truck
->
-> uh this is already in the game unless
->
-> you mean something else
->
-> you can already set the you can already
->
-> automatic automate
->
-> the vehicles
+> do you plan to integrate an automatic path travel for truck uh this is already in the game unless you mean something else you can already set the you can already automatic automate the vehicles

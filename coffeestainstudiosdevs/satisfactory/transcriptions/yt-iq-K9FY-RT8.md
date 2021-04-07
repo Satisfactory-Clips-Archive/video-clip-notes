@@ -16,14 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Transcript
 
-> oh that's so good can we get weather
->
-> change um
->
-> yeah maybe one day i think that's that's
->
-> not a hard no that one but i don't know
->
-> if it's gonna come
->
-> it's always sunny in massage to abv baby
+> oh that's so good can we get weather change um yeah maybe one day i think that's that's not a hard no that one but i don't know if it's gonna come it's always sunny in massage to abv baby

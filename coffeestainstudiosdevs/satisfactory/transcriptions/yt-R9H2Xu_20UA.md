@@ -24,24 +24,4 @@ https://www.youtube.com/watch?v=R9H2Xu_20UA
 
 ### Transcript
 
-> yeah okay will it be a penultimate
->
-> access release with the story or will
->
-> the story only be available on the
->
-> released version
->
-> it'll what the hell's going on don't
->
-> worry about it all right
->
-> um the story will be released
->
-> with the a scene change scene change
->
-> apparently
->
-> i already did okay um
->
-> it will be released with one point
+> yeah okay will it be a penultimate access release with the story or will the story only be available on the released version it'll what the hell's going on don't worry about it all right um the story will be released with the a scene change scene change apparently i already did okay um it will be released with one point

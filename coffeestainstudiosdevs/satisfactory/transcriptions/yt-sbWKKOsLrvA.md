@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 ### Transcript
 
-> there's a lot we still plan on doing
->
-> with it mobile edition
->
-> soon
+> there's a lot we still plan on doing with it mobile edition soon

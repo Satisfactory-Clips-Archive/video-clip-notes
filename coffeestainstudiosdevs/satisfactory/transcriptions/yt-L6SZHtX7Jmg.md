@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> any chance of auto save process not
->
-> creating giant frame drops
->
-> uh yes there's a there's a chance for
->
-> that not on update four i believe
->
-> uh but in the future
+> any chance of auto save process not creating giant frame drops uh yes there's a there's a chance for that not on update four i believe uh but in the future

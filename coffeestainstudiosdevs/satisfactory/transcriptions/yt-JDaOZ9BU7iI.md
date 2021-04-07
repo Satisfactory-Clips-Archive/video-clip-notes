@@ -22,62 +22,8 @@ https://www.youtube.com/watch?v=JDaOZ9BU7iI
 
 ### Transcript
 
-> packed yeah yeah so big shout out to
->
-> uh mark and lenas who put that together
->
-> mark is our director he spent a lot of
->
-> time
->
-> uh crafting that making that level so
->
-> that it would be in a way that we could
->
-> uh
->
-> showcase so that you could you know
->
-> break down what's happening in the video
->
-> you know he went and made that in uh
->
-> with this whole purpose to showcase uh
->
-> and to leak how the new nuclear stuff is
->
-> gonna work
->
-> uh and then a big shout out salinas who
->
-> uh i believe he did all the capture
->
-> right it's neutral did you help out with
->
-> that as well or
->
-> no elina said all the capture and then
->
-> mark our game director
->
-> put together that factory uh that's why
->
-> there are no foundations because mark
->
-> doesn't like foundations apparently yeah
->
-> just hates them just like that right
->
-> yeah so i don't know
->
-> we're lucky we even have foundations to
->
-> be honest yeah um
->
-> i'm blessed hashtag blessed
+> packed yeah yeah so big shout out to uh mark and lenas who put that together mark is our director he spent a lot of time uh crafting that making that level so that it would be in a way that we could uh showcase so that you could you know break down what's happening in the video you know he went and made that in uh with this whole purpose to showcase uh and to leak how the new nuclear stuff is gonna work uh and then a big shout out salinas who uh i believe he did all the capture right it's neutral did you help out with that as well or no elina said all the capture and then mark our game director put together that factory uh that's why there are no foundations because mark doesn't like foundations apparently yeah just hates them just like that right yeah so i don't know we're lucky we even have foundations to be honest yeah um i'm blessed hashtag blessed
 >
 > [Laughter]
 >
-> all right okay
->
-> cool so that's that
+> all right okay cool so that's that

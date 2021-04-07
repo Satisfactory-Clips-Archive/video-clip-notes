@@ -16,26 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 12th, 
 
 ### Transcript
 
-> will we ever have proper multi-core
->
-> support i mean
->
-> you do net right now and probably not in
->
-> the sense that you're asking right now
->
-> uh because we do have
->
-> multi-core support right now uh but you
->
-> can only go so far with it
->
-> i there are things we can improve
->
-> for for multi-core but like yeah
->
-> we can improve on it but like it will
->
-> never be you know
->
-> amazing for everyone
+> will we ever have proper multi-core support i mean you do net right now and probably not in the sense that you're asking right now uh because we do have multi-core support right now uh but you can only go so far with it i there are things we can improve for for multi-core but like yeah we can improve on it but like it will never be you know amazing for everyone

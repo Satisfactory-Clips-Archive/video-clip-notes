@@ -14,46 +14,4 @@ https://www.youtube.com/watch?v=1Hq_prj_82o
 
 ### Transcript
 
-> anything about satisfactory two year
->
-> anniversary last week yo
->
-> we forgot um
->
-> maybe maybe most like we didn't
->
-> here's the thing guys the update 4 was a
->
-> lot of work and uh
->
-> it took up all our time so the whole
->
-> anniversary thing
->
-> just like blew out of our blue
->
-> over our heads
->
-> um we just forgot
->
-> at least that's my impression because i
->
-> didn't see anything about that
->
-> in our in our team's channels
->
-> um but happy birthday to satisfactory we
->
-> turned two years old
->
-> since early access
->
-> and it just happened to coincide kind of
->
-> with the stress of making update for so
->
-> i guess that's why we missed it or
->
-> something
->
-> um so yeah happy birthday
+> anything about satisfactory two year anniversary last week yo we forgot um maybe maybe most like we didn't here's the thing guys the update 4 was a lot of work and uh it took up all our time so the whole anniversary thing just like blew out of our blue over our heads um we just forgot at least that's my impression because i didn't see anything about that in our in our team's channels um but happy birthday to satisfactory we turned two years old since early access and it just happened to coincide kind of with the stress of making update for so i guess that's why we missed it or something um so yeah happy birthday

@@ -18,12 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> yeah where's my support yeah
->
-> i have a new clue i've i'm usually
->
-> poking burke and uh team like so
->
-> when let's skip the dedicated just jump
->
-> now yeah yeah
+> yeah where's my support yeah i have a new clue i've i'm usually poking burke and uh team like so when let's skip the dedicated just jump now yeah yeah

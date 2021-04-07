@@ -22,16 +22,4 @@ https://www.youtube.com/watch?v=NQcQeykbc1E
 
 ### Transcript
 
-> will it be a piecemeal mode like in
->
-> subnautica yes
->
-> unlike the creative mode i can 100 say
->
-> that we're going to add a peaceful mode
->
-> at some point to the game
->
-> we confirmed it's already confirmed but
->
-> i'm confirming it again
+> will it be a piecemeal mode like in subnautica yes unlike the creative mode i can 100 say that we're going to add a peaceful mode at some point to the game we confirmed it's already confirmed but i'm confirming it again

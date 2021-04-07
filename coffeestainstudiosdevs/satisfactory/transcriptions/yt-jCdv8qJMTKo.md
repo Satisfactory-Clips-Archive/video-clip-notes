@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 20th, 
 
 ### Transcript
 
-> know when 1.0 is when is satisfactory
->
-> two coming out
->
-> you just gave me a heart attack jeez
+> know when 1.0 is when is satisfactory two coming out you just gave me a heart attack jeez

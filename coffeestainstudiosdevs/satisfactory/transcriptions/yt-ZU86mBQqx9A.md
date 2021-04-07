@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=ZU86mBQqx9A
 
 ### Transcript
 
-> uh plutonium waste looks different than
->
-> regular waste exactly
->
-> exactly clear is changing a little you
->
-> guys good tasks will be had by all um
+> uh plutonium waste looks different than regular waste exactly exactly clear is changing a little you guys good tasks will be had by all um

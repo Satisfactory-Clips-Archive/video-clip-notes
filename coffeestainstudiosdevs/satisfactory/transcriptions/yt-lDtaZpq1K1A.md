@@ -14,30 +14,4 @@ https://www.youtube.com/watch?v=lDtaZpq1K1A
 
 ### Transcript
 
-> i'm looking at something so yeah anyone
->
-> join just joining dylan is working on
->
-> engine upgrading or upgrading the engine
->
-> dylan is doing engine upgrade from 422
->
-> to 423.
->
-> we've done quite a few alterations to
->
-> unreal engine which
->
-> the game is based on or built in to be
->
-> able to
->
-> make satisfactory because there's a few
->
-> things that
->
-> doesn't exist in the real engine or
->
-> didn't exist in a real engine when we
->
-> started developing satisfactory yeah
+> i'm looking at something so yeah anyone join just joining dylan is working on engine upgrading or upgrading the engine dylan is doing engine upgrade from 422 to 423. we've done quite a few alterations to unreal engine which the game is based on or built in to be able to make satisfactory because there's a few things that doesn't exist in the real engine or didn't exist in a real engine when we started developing satisfactory yeah

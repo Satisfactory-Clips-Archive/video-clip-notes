@@ -16,30 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> hmm what's the max amount of body slots
->
-> uh i don't know that check the wiki
->
-> uh i remember the days when people would
->
-> ask me questions about the game and i
->
-> would just be like looking it up on the
->
-> wiki and just copy page
->
-> oh those are the best it's simple if
->
-> barry's
->
-> true then b it's a little bit more
->
-> complicated than that
->
-> but i appreciate the the the code
->
-> my work here is done what is this no new
->
-> line
->
-> get out of here
+> hmm what's the max amount of body slots uh i don't know that check the wiki uh i remember the days when people would ask me questions about the game and i would just be like looking it up on the wiki and just copy page oh those are the best it's simple if barry's true then b it's a little bit more complicated than that but i appreciate the the the code my work here is done what is this no new line get out of here

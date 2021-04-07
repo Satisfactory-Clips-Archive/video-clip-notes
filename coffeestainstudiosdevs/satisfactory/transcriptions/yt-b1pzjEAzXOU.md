@@ -18,12 +18,4 @@ https://www.youtube.com/watch?v=b1pzjEAzXOU
 
 ### Transcript
 
-> why do we get a gas warning when we're
->
-> on a hyper tube well the gas
->
-> infiltrates the hyper tube so you're
->
-> still getting
->
-> fart gas in your in your helmet
+> why do we get a gas warning when we're on a hyper tube well the gas infiltrates the hyper tube so you're still getting fart gas in your in your helmet

@@ -21,26 +21,4 @@ https://www.youtube.com/watch?v=nI31KeD88V8
 
 ### Transcript
 
-> any plans to revisit the to-do list for
->
-> quality of life pass
->
-> um i would say if there's anything
->
-> specifically that you think we should
->
-> change with that make sure to post it on
->
-> our questions site
->
-> at questions.satisfactory.com um
->
-> and i think that's the best way to
->
-> answer that question really is if
->
-> there's something specific that you want
->
-> to change i don't know of any
->
-> specific plans um so yeah
+> any plans to revisit the to-do list for quality of life pass um i would say if there's anything specifically that you think we should change with that make sure to post it on our questions site at questions.satisfactory.com um and i think that's the best way to answer that question really is if there's something specific that you want to change i don't know of any specific plans um so yeah

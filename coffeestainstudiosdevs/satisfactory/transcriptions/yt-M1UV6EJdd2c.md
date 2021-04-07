@@ -16,42 +16,12 @@ https://www.youtube.com/watch?v=M1UV6EJdd2c
 
 ### Transcript
 
-> since we're going to load screen so much
->
-> is it possible it becomes faster in
->
-> update four
->
-> uh potentially an update for but
->
-> the bigger update to that will probably
->
-> happen
->
-> in the future updates because we're
->
-> working on
+> since we're going to load screen so much is it possible it becomes faster in update four uh potentially an update for but the bigger update to that will probably happen in the future updates because we're working on
 >
 > [Music]
 >
-> a lot of like making smaller chunks of
->
-> the level and stuff like that
+> a lot of like making smaller chunks of the level and stuff like that
 >
 > [Music]
 >
-> so we'll see we haven't worked that much
->
-> on the safe loading currently we worked
->
-> a bit on the saving system to make it
->
-> more
->
-> secure and not corrupt
->
-> and stuff like that but we haven't
->
-> touched much of the speed stuff yet
->
-> but we will in the future
+> so we'll see we haven't worked that much on the safe loading currently we worked a bit on the saving system to make it more secure and not corrupt and stuff like that but we haven't touched much of the speed stuff yet but we will in the future

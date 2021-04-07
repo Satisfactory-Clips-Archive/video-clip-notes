@@ -20,14 +20,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> will we get two character slots for
->
-> jetpack and blade runners uh
->
-> something that's been highly requested
->
-> from people there's no uh word on
->
-> whether that is definitely gonna be a
->
-> thing or not
+> will we get two character slots for jetpack and blade runners uh something that's been highly requested from people there's no uh word on whether that is definitely gonna be a thing or not

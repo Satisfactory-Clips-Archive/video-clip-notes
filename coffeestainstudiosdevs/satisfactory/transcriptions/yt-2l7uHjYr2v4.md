@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> miracle thing does not even play the
->
-> game i do sometimes
+> miracle thing does not even play the game i do sometimes

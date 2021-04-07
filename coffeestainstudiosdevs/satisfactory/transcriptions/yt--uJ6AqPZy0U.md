@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=-uJ6AqPZy0U
 
 ### Transcript
 
-> uh are beanies and beards part of new
->
-> minimum spec for satisfactory or update
->
-> for content
->
-> you know it's the minimum spec for
->
-> coffee stain employment yeah
+> uh are beanies and beards part of new minimum spec for satisfactory or update for content you know it's the minimum spec for coffee stain employment yeah

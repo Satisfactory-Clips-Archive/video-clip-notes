@@ -16,22 +16,4 @@ https://www.youtube.com/watch?v=x7dc9P7vEGQ
 
 ### Transcript
 
-> looks like the game is performing better
->
-> what went wrong
->
-> it actually isn't performing way better
->
-> uh i've actually done a bit of
->
-> benchmarking
->
-> um and uh it also
->
-> saves way slower uh like right now the
->
-> game is empty right
->
-> so of course it looks like it's
->
-> performing better but
+> looks like the game is performing better what went wrong it actually isn't performing way better uh i've actually done a bit of benchmarking um and uh it also saves way slower uh like right now the game is empty right so of course it looks like it's performing better but

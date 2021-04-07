@@ -18,6 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 9th, 2
 
 > [Music]
 >
-> so jason am i not swedish i am not i'm
->
-> australian how did you know
+> so jason am i not swedish i am not i'm australian how did you know

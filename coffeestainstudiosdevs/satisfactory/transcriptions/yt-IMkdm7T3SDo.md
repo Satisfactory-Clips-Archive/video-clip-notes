@@ -14,14 +14,4 @@ https://www.youtube.com/watch?v=IMkdm7T3SDo
 
 ### Transcript
 
-> forehead by all will be a improvement
->
-> for drone ports like setting
->
-> which allows you to stop the drone while
->
-> still delivering the materials
->
-> um i don't know
->
-> honestly
+> forehead by all will be a improvement for drone ports like setting which allows you to stop the drone while still delivering the materials um i don't know honestly

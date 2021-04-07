@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> how many more big updates are planned
->
-> before 1.0
->
-> uh no idea
+> how many more big updates are planned before 1.0 uh no idea

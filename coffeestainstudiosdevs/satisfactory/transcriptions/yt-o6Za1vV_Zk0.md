@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 ### Transcript
 
-> won't be for a while uh how to change
->
-> your character from male to female the
->
-> character is female so you did it
->
-> great job um got it um
+> won't be for a while uh how to change your character from male to female the character is female so you did it great job um got it um

@@ -23,6 +23,4 @@ https://www.youtube.com/watch?v=z-DgcRCy3so
 
 ### Transcript
 
-> and any npcs in the game
->
-> i don't think that white wilson says
+> and any npcs in the game i don't think that white wilson says

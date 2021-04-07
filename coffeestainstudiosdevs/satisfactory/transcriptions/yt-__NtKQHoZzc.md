@@ -20,8 +20,4 @@ https://www.youtube.com/watch?v=__NtKQHoZzc
 
 ### Transcript
 
-> and a q and a when maybe we'll have
->
-> announced soon soon soon
->
-> you will never you never i'll never tell
+> and a q and a when maybe we'll have announced soon soon soon you will never you never i'll never tell

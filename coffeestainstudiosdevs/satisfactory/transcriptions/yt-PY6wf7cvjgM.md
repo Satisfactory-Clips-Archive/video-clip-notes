@@ -16,20 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> will the train always clip i don't think
->
-> so uh no
->
-> we will in the future implement like
->
-> some kind of train signaling system
->
-> um i don't know if if like collision is
->
-> ever going to be
->
-> feasible but i think it is um
->
-> but if not then we'll probably work
->
-> something out
+> will the train always clip i don't think so uh no we will in the future implement like some kind of train signaling system um i don't know if if like collision is ever going to be feasible but i think it is um but if not then we'll probably work something out

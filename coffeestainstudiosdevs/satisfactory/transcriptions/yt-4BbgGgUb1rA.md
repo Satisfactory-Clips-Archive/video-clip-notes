@@ -18,6 +18,4 @@ This question was possibly replaced with a more recent answer: [January 19th, 20
 
 ### Transcript
 
-> dedicated service part of update three
->
-> no
+> dedicated service part of update three no

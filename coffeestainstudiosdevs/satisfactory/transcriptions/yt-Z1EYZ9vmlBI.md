@@ -16,18 +16,4 @@ https://www.youtube.com/watch?v=Z1EYZ9vmlBI
 
 ### Transcript
 
-> make the rules okay don't worry about it
->
-> um
->
-> true or false is not jealous of jace
->
-> being on vacation
->
-> true um
->
-> but i'll be going on vacation soon
->
-> enough um
->
-> so that'll be fine
+> make the rules okay don't worry about it um true or false is not jealous of jace being on vacation true um but i'll be going on vacation soon enough um so that'll be fine

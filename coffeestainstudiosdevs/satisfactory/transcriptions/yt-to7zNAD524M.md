@@ -14,18 +14,4 @@ https://www.youtube.com/watch?v=to7zNAD524M
 
 ### Transcript
 
-> this future are you using dark theme on
->
-> windows
->
-> yes have i stopped using that is that
->
-> why it looks different
->
-> it might be oh that explains it
->
-> i was like why is dylan's desktop look
->
-> so
->
-> different i can't put my finger
+> this future are you using dark theme on windows yes have i stopped using that is that why it looks different it might be oh that explains it i was like why is dylan's desktop look so different i can't put my finger

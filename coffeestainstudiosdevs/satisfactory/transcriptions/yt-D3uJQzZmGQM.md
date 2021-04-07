@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 12th, 
 
 ### Transcript
 
-> the recipe and stuff info on eu shopping
->
-> for merch
->
-> we're still looking into solutions but
->
-> we don't have anything
->
-> yet
+> the recipe and stuff info on eu shopping for merch we're still looking into solutions but we don't have anything yet

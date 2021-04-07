@@ -18,10 +18,4 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 ### Transcript
 
-> oh there yep are you gonna fix the train
->
-> so it doesn't break in multiplayer for
->
-> other people not the host yes
->
-> yes
+> oh there yep are you gonna fix the train so it doesn't break in multiplayer for other people not the host yes yes

@@ -9,291 +9,11 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh blueprints when
->
-> maybe it is
->
-> uh i think it's actually super important
->
-> i know that we've had a lot of
->
-> discussion
->
-> and i i don't think everyone maybe
->
-> agrees with me within the studio
->
-> but recently i had a talk with one of
->
-> our ui ux designers and he had
->
-> another concept for it which i think is
->
-> very promising
->
-> how we could do it because it's always
->
-> been an issue as well of like how do we
->
-> technically approach it
->
-> and what is the design id behind it do
->
-> we just allow copy pasting of everything
->
-> that way can you make your own
->
-> building setups and save them do we have
->
-> slots for it that are specific sizes
->
-> it's all these different kind of
->
-> questions and then comes the issue that
->
-> we've always discussed
->
-> like doesn't it just kind of defeat the
->
-> point because then you're just
->
-> constantly copying pasting everything
->
-> um i'm not too worried about the whole
->
-> copy-pasting thing i think it's a great
->
-> addition because this game
->
-> requires a lot of repetition and we
->
-> already know that people just
->
-> they're going to build big anyway we're
->
-> not really going to stop them that way
->
-> and it's yeah i don't know i just think
->
-> it's a must
->
-> and it's on our internal uh road map
->
-> wow at least look into it so we have
->
-> planned for it it's just the question of
->
-> how we're going to do it and
->
-> i mean i guess it's still the question
->
-> if we're going to do it but i'm pretty
->
-> sold on it
->
-> oh wow oh wow what a turning point
->
-> so yeah we'll see what happens you guys
->
-> i'm i'm still like scared because the
->
-> fact that people are going to hit the
->
-> object limit and stuff like that
->
-> is always looming but there are
->
-> certainly to make that better
->
-> yeah sure
->
-> there's all but there's always like
->
-> there are certain aspects
->
-> where it's just really frustrating to
->
-> build in certain cases where you need to
->
-> repeat
->
-> like specifically like if you make a big
->
-> um
->
-> what's the term like if you have a
->
-> factory layout that you
->
-> you have a lot of repetitions in the
->
-> build of it
->
-> it's like it takes a lot of time to just
->
-> like place the splitter
->
-> hook it up with the conveyor belts and
->
-> then you're like oh i need put the
->
-> wrong
->
-> order and you remove the very belts and
->
-> they hook it back up again and then you
->
-> find like
->
-> i used the wrong conveyor belt for
->
-> this one and i can't because it's so
->
-> tight i can't remove it i have to remove
->
-> the splitter and
->
-> that is connected with a bunch of papers
->
-> as well so like there
->
-> there are cases where i definitely can
->
-> see that that is very useful and
->
-> you don't build like that very often
->
-> where you need to like um
->
-> when you have like those very complex
->
-> setups of
->
-> factory buildings that are connected in
->
-> a certain way um
->
-> so i can definitely see a use case there
->
-> but i'm the one i'm
->
-> most scared about as a programmer is
->
-> probably the one where if you have a lot
->
-> of foundations
->
-> and you can just like build at infinite
+> uh blueprints when maybe it is uh i think it's actually super important i know that we've had a lot of discussion and i i don't think everyone maybe agrees with me within the studio but recently i had a talk with one of our ui ux designers and he had another concept for it which i think is very promising how we could do it because it's always been an issue as well of like how do we technically approach it and what is the design id behind it do we just allow copy pasting of everything that way can you make your own building setups and save them do we have slots for it that are specific sizes it's all these different kind of questions and then comes the issue that we've always discussed like doesn't it just kind of defeat the point because then you're just constantly copying pasting everything um i'm not too worried about the whole copy-pasting thing i think it's a great addition because this game requires a lot of repetition and we already know that people just they're going to build big anyway we're not really going to stop them that way and it's yeah i don't know i just think it's a must and it's on our internal uh road map wow at least look into it so we have planned for it it's just the question of how we're going to do it and i mean i guess it's still the question if we're going to do it but i'm pretty sold on it oh wow oh wow what a turning point so yeah we'll see what happens you guys i'm i'm still like scared because the fact that people are going to hit the object limit and stuff like that is always looming but there are certainly to make that better yeah sure there's all but there's always like there are certain aspects where it's just really frustrating to build in certain cases where you need to repeat like specifically like if you make a big um what's the term like if you have a factory layout that you you have a lot of repetitions in the build of it it's like it takes a lot of time to just like place the splitter hook it up with the conveyor belts and then you're like oh i need put the wrong order and you remove the very belts and they hook it back up again and then you find like i used the wrong conveyor belt for this one and i can't because it's so tight i can't remove it i have to remove the splitter and that is connected with a bunch of papers as well so like there there are cases where i definitely can see that that is very useful and you don't build like that very often where you need to like um when you have like those very complex setups of factory buildings that are connected in a certain way um so i can definitely see a use case there but i'm the one i'm most scared about as a programmer is probably the one where if you have a lot of foundations and you can just like build at infinite
 >
 > [Music]
 >
-> but yeah cool yeah definition bennis
->
-> actually told me that the foundation
->
-> thing is really not the biggest problem
->
-> when it comes to object count
->
-> yeah and i don't know building a lot of
->
-> foundations i think shouldn't really be
->
-> the
->
-> the hard part of building a factory it's
->
-> always going to be and the fun part as
->
-> well as building the buildings right the
->
-> building the foundations is just the
->
-> starting point yeah
->
-> so i i personally don't really agree
->
-> with the
->
-> argument that we should limit that
->
-> because it's
->
-> i don't know like it's not meaningful to
->
-> build a lot of foundations unless you
->
-> try to make something really pretty out
->
-> of it
->
-> but then i would rather have people
->
-> build specific uh
->
-> cosmetic things to make the factory
->
-> pretty yeah i don't even buy one
->
-> i don't know if ben has seen the factors
->
-> where people literally fill the entire
->
-> world with foundations
->
-> uh yeah
->
-> but that's more of like an outside tool
->
-> issue as well right with like if you
->
-> build the round foundations using the
->
-> online tool
->
-> uh a lot of them end up underneath the
->
-> map
->
-> i think was an issue right
->
-> that kind of stuff but apparently the
->
-> biggest issue is actually the buildings
->
-> themselves because they have so many
->
-> components to them so one
->
-> one constructor is not actually just one
->
-> building it has a lot of different
->
-> objects inside of it
->
-> uh that count towards subject limit as
->
-> well
->
-> and he has actually been doing really
->
-> good work reducing that so we
->
-> we are reaching higher levels of maximum
->
-> and allowed objects
->
-> effectively because we're reducing the
->
-> amount of objects in every single
->
-> building
->
-> so the future is bright you guys my god
->
-> 2021 is gonna be the year
->
-> at least it's brighter
+> but yeah cool yeah definition bennis actually told me that the foundation thing is really not the biggest problem when it comes to object count yeah and i don't know building a lot of foundations i think shouldn't really be the the hard part of building a factory it's always going to be and the fun part as well as building the buildings right the building the foundations is just the starting point yeah so i i personally don't really agree with the argument that we should limit that because it's i don't know like it's not meaningful to build a lot of foundations unless you try to make something really pretty out of it but then i would rather have people build specific uh cosmetic things to make the factory pretty yeah i don't even buy one i don't know if ben has seen the factors where people literally fill the entire world with foundations uh yeah but that's more of like an outside tool issue as well right with like if you build the round foundations using the online tool uh a lot of them end up underneath the map i think was an issue right that kind of stuff but apparently the biggest issue is actually the buildings themselves because they have so many components to them so one one constructor is not actually just one building it has a lot of different objects inside of it uh that count towards subject limit as well and he has actually been doing really good work reducing that so we we are reaching higher levels of maximum and allowed objects effectively because we're reducing the amount of objects in every single building so the future is bright you guys my god 2021 is gonna be the year at least it's brighter
 
 
 </details>
@@ -320,47 +40,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> we'll see uh console port we don't have
->
-> plans for console at the moment
->
-> and the reason for that is because we're
->
-> focusing on pc
->
-> after 1.0 maybe we'll we'll look into it
->
-> but then we have so many like
->
-> uh ux issues that we need to solve to
->
-> work with the controller because we
->
-> don't have
->
-> full control of support currently
->
-> and that would be something we would
->
-> have to have and that
->
-> i don't know how we would solve that
->
-> currently so that's a huge task
->
-> undertaking
->
-> um so yeah
->
-> the ps5 was a plug was a joke uh a lot
->
-> of people really wanted on console
->
-> though
->
-> so i totally understand why people ask
->
-> that question
+> we'll see uh console port we don't have plans for console at the moment and the reason for that is because we're focusing on pc after 1.0 maybe we'll we'll look into it but then we have so many like uh ux issues that we need to solve to work with the controller because we don't have full control of support currently and that would be something we would have to have and that i don't know how we would solve that currently so that's a huge task undertaking um so yeah the ps5 was a plug was a joke uh a lot of people really wanted on console though so i totally understand why people ask that question
 
 
 </details>
@@ -403,15 +83,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> like once dedicated servers mark isn't
->
-> necessarily
->
-> involved in that that much um
->
-> we don't have an update on dedicated
->
-> service by the way still working on that
+> like once dedicated servers mark isn't necessarily involved in that that much um we don't have an update on dedicated service by the way still working on that
 
 
 </details>
@@ -467,51 +139,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> and like stuff like dlss
->
-> which we we don't we don't have it on
->
-> the
->
-> current correct engine version right now
->
-> so we can't upgrade to 426
->
-> we are kind of debating right now
->
-> whether we
->
-> want to upgrade to 426 i think we're
->
-> gonna do it um
->
-> but it's the update to 425 was
->
-> really like took a lot of effort and it
->
-> introduced a bunch of issues that uh
->
-> didn't exist in the previous version
->
-> that we still haven't solved yet
->
-> so it's a it's a very big commitment to
->
-> upgrade the engine version
->
-> because we don't know what happens um so
->
-> i'm not sure
->
-> what's going to happen there but we'll
->
-> find it in the future
->
-> but there are a few things that are like
->
-> really good in 426 that i think we want
->
-> so i don't know we'll see
+> and like stuff like dlss which we we don't we don't have it on the current correct engine version right now so we can't upgrade to 426 we are kind of debating right now whether we want to upgrade to 426 i think we're gonna do it um but it's the update to 425 was really like took a lot of effort and it introduced a bunch of issues that uh didn't exist in the previous version that we still haven't solved yet so it's a it's a very big commitment to upgrade the engine version because we don't know what happens um so i'm not sure what's going to happen there but we'll find it in the future but there are a few things that are like really good in 426 that i think we want so i don't know we'll see
 
 
 </details>
@@ -529,169 +157,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> um do you think we'll rework radar
->
-> towers
->
-> in what sense like are we happy because
->
-> that's a pretty good point too are we
->
-> happy with the the way
->
-> the map works in the game with like the
->
-> exploration aspects of it
->
-> i think we could do a lot more with it
->
-> uh also the radar tower if you think
->
-> from a purely
->
-> gameplay perspective then i think there
->
-> could be more benefits to having it
->
-> uh and the map has always been the
->
-> suspension point of like we kind of
->
-> wanted in the mam but
->
-> then you also as a new player you don't
->
-> even know that it's there
->
-> uh how do you know where to get the map
->
-> maybe it's just something that we should
->
-> give by default or it should be way
->
-> clearer that you can get it in that
->
-> quartz research somehow
->
-> uh there's different things there but
->
-> yeah i want to do more with the map in
->
-> general as well
->
-> wait do you not get the map from from
->
-> the map right now
->
-> yeah you do yeah okay i was like oh yeah
->
-> yeah yeah you get in the quartz research
->
-> pretty pretty easily but
->
-> the problem is that generally you don't
->
-> know that it's there you have to know
->
-> yeah i've seen a bunch of people are
->
-> like hey why do i not have the map yet
->
-> and it's like because you haven't
->
-> researched it
->
-> that's true yeah maybe that's one of
->
-> those things you don't want to put
->
-> behind a progression wall like that
->
-> where yeah
->
-> uh raider towers have no use uh
->
-> i guess they help you like what do they
->
-> actually do
->
-> i've never used onex they reveal parts
->
-> of the map yeah that's it right
->
-> yeah because we have to think they could
->
-> do more yeah we have talked about like
->
-> maybe
->
-> being able to like scout on the map
->
-> stuff
->
-> because you have the like an upgrade to
->
-> your uh
->
-> object scanner
->
-> because right now the obvious scanner is
->
-> just like it just looks so the closest
->
-> one in proximity whereas the radar tower
->
-> could be more like
->
-> in this area you can find
->
-> that's pretty cool though like you get
->
-> an area of effect on the map
->
-> where an object is i was also thinking
->
-> it could just constantly show you what
->
-> resources are within its radius so you
->
-> don't have to constantly scan for them
->
-> to see them
->
-> that kind of becomes an issue of course
->
-> with the compass but i think we can
->
-> figure something out for that
->
-> yeah that would already make it more
->
-> practical another suggestion i think
->
-> that burke gave me a while back was that
->
-> if we do the logic system or the circuit
->
-> system however you want to call it
->
-> that could be a really cool use as well
->
-> for the raider tower to potentially send
->
-> data from those kind of systems over
->
-> longer distances to other parts of the
->
-> factory
->
-> right so there is some more potential
->
-> for them i think both with the map
->
-> and other features that we might want to
->
-> add
+> um do you think we'll rework radar towers in what sense like are we happy because that's a pretty good point too are we happy with the the way the map works in the game with like the exploration aspects of it i think we could do a lot more with it uh also the radar tower if you think from a purely gameplay perspective then i think there could be more benefits to having it uh and the map has always been the suspension point of like we kind of wanted in the mam but then you also as a new player you don't even know that it's there uh how do you know where to get the map maybe it's just something that we should give by default or it should be way clearer that you can get it in that quartz research somehow uh there's different things there but yeah i want to do more with the map in general as well wait do you not get the map from from the map right now yeah you do yeah okay i was like oh yeah yeah yeah you get in the quartz research pretty pretty easily but the problem is that generally you don't know that it's there you have to know yeah i've seen a bunch of people are like hey why do i not have the map yet and it's like because you haven't researched it that's true yeah maybe that's one of those things you don't want to put behind a progression wall like that where yeah uh raider towers have no use uh i guess they help you like what do they actually do i've never used onex they reveal parts of the map yeah that's it right yeah because we have to think they could do more yeah we have talked about like maybe being able to like scout on the map stuff because you have the like an upgrade to your uh object scanner because right now the obvious scanner is just like it just looks so the closest one in proximity whereas the radar tower could be more like in this area you can find that's pretty cool though like you get an area of effect on the map where an object is i was also thinking it could just constantly show you what resources are within its radius so you don't have to constantly scan for them to see them that kind of becomes an issue of course with the compass but i think we can figure something out for that yeah that would already make it more practical another suggestion i think that burke gave me a while back was that if we do the logic system or the circuit system however you want to call it that could be a really cool use as well for the raider tower to potentially send data from those kind of systems over longer distances to other parts of the factory right so there is some more potential for them i think both with the map and other features that we might want to add
 
 
 </details>
@@ -710,91 +176,11 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> at some point farming system mark
->
-> can i not hear you anymore oh wait did i
->
-> go away for you hello mark
->
-> yeah hey charge your batteries farming
+> at some point farming system mark can i not hear you anymore oh wait did i go away for you hello mark yeah hey charge your batteries farming
 >
 > [Music]
 >
-> that was um
->
-> yeah it was a big topic on the the
->
-> content list that i initially
->
-> had it's actually one of the things that
->
-> we have pushed back
->
-> because of the sheer size of it because
->
-> if we're gonna do it i would want to do
->
-> it
->
-> like properly like big farming
->
-> uh there's a lot of potential i
->
-> think the main problem that i see but
->
-> it's either to be a complete side show
->
-> where you you don't really need to do it
->
-> which
->
-> just as well maybe but then it's not as
->
-> high priority or we make it part of the
->
-> main progression like this alternate
->
-> path to getting certain
->
-> uh recipes going right um
->
-> if we do it the way that i want to do it
->
-> it becomes a huge
->
-> huge thing huge consideration and if we
->
-> don't do it that way i'm not
->
-> too interested in it i think with the
->
-> mall already being there
->
-> even though i think that it's not fully
->
-> going anymore
->
-> from understood from ben which is kind
->
-> of sad but
->
-> um it's currently not one of our
->
-> priorities to have that for 1.0
->
-> so of course the question is always will
->
-> it be there for
->
-> after 1.0 uh that might be the case it
->
-> really depends on what we want to do at
->
-> that point but yeah
->
-> 1.0 don't expect it it's not going to be
->
-> there pretty sure
+> that was um yeah it was a big topic on the the content list that i initially had it's actually one of the things that we have pushed back because of the sheer size of it because if we're gonna do it i would want to do it like properly like big farming uh there's a lot of potential i think the main problem that i see but it's either to be a complete side show where you you don't really need to do it which just as well maybe but then it's not as high priority or we make it part of the main progression like this alternate path to getting certain uh recipes going right um if we do it the way that i want to do it it becomes a huge huge thing huge consideration and if we don't do it that way i'm not too interested in it i think with the mall already being there even though i think that it's not fully going anymore from understood from ben which is kind of sad but um it's currently not one of our priorities to have that for 1.0 so of course the question is always will it be there for after 1.0 uh that might be the case it really depends on what we want to do at that point but yeah 1.0 don't expect it it's not going to be there pretty sure
 
 
 </details>
@@ -820,57 +206,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> don't get oh actually one
->
-> question that i haven't seen today but
->
-> i've seen it a lot of time before is
->
-> is adding a
->
-> truck that can transfer fluids we have
->
-> it for trains but we don't have it with
->
-> trucks
->
-> what's the thought there uh that was a
->
-> conscious decision and i don't remember
->
-> why i mean what's the big limitation
->
-> when we did update three of course was
->
-> that it's a shitload of work
->
-> to make all those new assets for like a
->
-> truck with a fluid container yeah
->
-> so we went the whole packaging way where
->
-> you could do that by packaging stuff
->
-> right that's also where we made
->
-> packaging more spacious space efficient
->
-> uh but also we kind of wanted to see if
->
-> people would just make long pipelines
->
-> would that be super annoying we never
->
-> really followed up on that properly
->
-> uh which is something that we should do
->
-> yeah it would be fun uh just work and
->
-> i'm not sure if it's actually
->
-> necessary cool
+> don't get oh actually one question that i haven't seen today but i've seen it a lot of time before is is adding a truck that can transfer fluids we have it for trains but we don't have it with trucks what's the thought there uh that was a conscious decision and i don't remember why i mean what's the big limitation when we did update three of course was that it's a shitload of work to make all those new assets for like a truck with a fluid container yeah so we went the whole packaging way where you could do that by packaging stuff right that's also where we made packaging more spacious space efficient uh but also we kind of wanted to see if people would just make long pipelines would that be super annoying we never really followed up on that properly uh which is something that we should do yeah it would be fun uh just work and i'm not sure if it's actually necessary cool
 
 
 </details>
@@ -890,25 +226,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> um and yes april 13th is still the uh
->
-> the date for when we expect
->
-> uh update four to hit early access
->
-> next week this time oh my god
->
-> actually six right that is the time i
->
-> think it's six hour time
->
-> yeah i always forget but it's six it's
->
-> always the same time ever
->
-> every time and i always forget anyways 5
->
-> p.m gmt
+> um and yes april 13th is still the uh the date for when we expect uh update four to hit early access next week this time oh my god actually six right that is the time i think it's six hour time yeah i always forget but it's six it's always the same time ever every time and i always forget anyways 5 p.m gmt
 
 
 </details>
@@ -931,175 +249,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> too fast i can't read like this so so
->
-> one question i've gotten actually a lot
->
-> is mark six
->
-> belts what's the
->
-> what's the state with that oh that was
->
-> actually a talking point that i had when
->
-> it came to the balancing
->
-> because a bunch of issues that we
->
-> currently have and that we're dealing
->
-> with
->
-> uh i think i mentioned that we're like
->
-> kind of looking towards that future
->
-> balance
->
-> so that certain things might feel
->
-> currently out of place because they're
->
-> actually
->
-> made with like future implementation of
->
-> certain things in mind
->
-> like the fact that we have might have
->
-> more nitrogen the mk6 build is actually
->
-> part of that because it will greatly
->
-> improve the amount of uh raw resources
->
-> that you can get per minute because
->
-> you're currently you're limited
->
-> uh when extracting from pure nodes with
->
-> mk3 miners fully overclocked you cannot
->
-> get
->
-> the max amount of resources exactly uh
->
-> uh yeah i mean from my perspective this
->
-> is still planning
->
-> and i think we have solutions for the
->
-> main problem that i've always heard was
->
-> that
->
-> it's just too fast yeah because isn't
->
-> there like there's i think there's a
->
-> technical thing as well where precision
->
-> is kind of lost on the faster belts as
->
-> well
->
-> right now so we need to fix that system
->
-> if we're going to support
->
-> faster belts yeah and i think
->
-> but i i think i was told that it's it's
->
-> also just uh
->
-> showing them visually or something or
->
-> being able to
->
-> i don't remember because there was a
->
-> solution where if we just made the belts
->
-> basically a pipe so you can't actually
->
-> see the items it would
->
-> it would be fine so you do like a little
->
-> thing over it like a protective
->
-> casing uh and you say like yeah they're
->
-> in there
->
-> there's so many items underneath that
->
-> casing but they wouldn't be there but
->
-> that would allow for the speed
->
-> apparently because i've also asked like
->
-> can we just have two outputs down on the
->
-> miner
->
-> but apparently that's actually more
->
-> expensive than just having one belt
->
-> really with it at least if i remember
->
-> correctly that's what i was told when i
->
-> yeah i know asking for that oh i didn't
->
-> think of that yeah that's true actually
->
-> it up you probably know more about
->
-> that than i do
->
-> the complications yeah there's like uh
->
-> there's
->
-> it's twofold because it also it has one
->
-> to do with threading
->
-> we won't be able to thread the same like
->
-> it's already an issue kind of on the the
->
-> boxes storage containers um because they
->
-> also have two
->
-> input outputs um yeah we don't need to
->
-> talk too much about that but yeah that's
->
-> a good point
->
-> we could have just story say that like
->
-> it's it's a vacuum tube
->
-> and it's shooting items in the vacuum or
->
-> something like that and that's why it's
->
-> like a quantum conveyor yeah exactly um
->
-> except to start at the end at the same
->
-> time
+> too fast i can't read like this so so one question i've gotten actually a lot is mark six belts what's the what's the state with that oh that was actually a talking point that i had when it came to the balancing because a bunch of issues that we currently have and that we're dealing with uh i think i mentioned that we're like kind of looking towards that future balance so that certain things might feel currently out of place because they're actually made with like future implementation of certain things in mind like the fact that we have might have more nitrogen the mk6 build is actually part of that because it will greatly improve the amount of uh raw resources that you can get per minute because you're currently you're limited uh when extracting from pure nodes with mk3 miners fully overclocked you cannot get the max amount of resources exactly uh uh yeah i mean from my perspective this is still planning and i think we have solutions for the main problem that i've always heard was that it's just too fast yeah because isn't there like there's i think there's a technical thing as well where precision is kind of lost on the faster belts as well right now so we need to fix that system if we're going to support faster belts yeah and i think but i i think i was told that it's it's also just uh showing them visually or something or being able to i don't remember because there was a solution where if we just made the belts basically a pipe so you can't actually see the items it would it would be fine so you do like a little thing over it like a protective casing uh and you say like yeah they're in there there's so many items underneath that casing but they wouldn't be there but that would allow for the speed apparently because i've also asked like can we just have two outputs down on the miner but apparently that's actually more expensive than just having one belt really with it at least if i remember correctly that's what i was told when i yeah i know asking for that oh i didn't think of that yeah that's true actually it up you probably know more about that than i do the complications yeah there's like uh there's it's twofold because it also it has one to do with threading we won't be able to thread the same like it's already an issue kind of on the the boxes storage containers um because they also have two input outputs um yeah we don't need to talk too much about that but yeah that's a good point we could have just story say that like it's it's a vacuum tube and it's shooting items in the vacuum or something like that and that's why it's like a quantum conveyor yeah exactly um except to start at the end at the same time
 
 
 </details>
@@ -1124,151 +274,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> power um multiple body slots when
->
-> yes maybe maybe
->
-> uh yeah we've talked about a lot of
->
-> different solutions and you've talked
->
-> about this a bunch
->
-> on here as well generally we do want to
->
-> support it it's just uh
->
-> the problem before for me has always
->
-> been that we don't have enough different
->
-> types of equipments
->
-> which kind of makes a lot of challenges
->
-> that we can apply with exploration
->
-> super redundant because we don't have
->
-> the tools to then challenge the player
->
-> anymore
->
-> right when they have a jet pack and a
->
-> gas mask and the blade runners but i
->
-> don't think the general idea of having
->
-> those things on at the same time is an
->
-> issue
->
-> so i think we want to support it if that
->
-> is from multiple body slots or maybe
->
-> combining equipment together at certain
->
-> points in the game so we can
->
-> maybe control it a bit better that way
->
-> as well i don't really know yet
->
-> we have been talking about it a lot
->
-> there's a lot of different ways on how
->
-> to do this
->
-> but it kind of comes down for me at
->
-> least to the idea that we need more
->
-> types of equipments
->
-> so that you can actually have different
->
-> things in your head slot if you could
->
-> only have the gas mask there it would be
->
-> a bit meh
->
-> so i want more different types of
->
-> equipments to really make this
->
-> a proper thing and then of course more
->
-> things that actually require you to have
->
-> those equipments and want to use them
->
-> and swap around sometimes not constantly
->
-> run around with the same stuff on your
->
-> body
->
-> gotcha one other thing that you pointed
->
-> out before as well that was pretty
->
-> interesting i haven't thought about it
->
-> was that the world is kind of designed
->
-> around the fact that you have
->
-> one body slot that you use at the same
->
-> time so like when you're in gas
->
-> you won't need the jump uh the jet pack
->
-> to be able to like
->
-> get around the the world puzzles that we
->
-> have in those locations and i guess the
->
-> world
->
-> does will need some redesign
->
-> if we're gonna have more than one body
->
-> slot for those cases
->
-> yeah that's a big problem like you said
->
-> like you could have a jump also that has
->
-> gas on it specifically to stop you from
->
-> using the jet jetpack to get onto it
->
-> or make you think in a more creative way
->
-> of how you can
->
-> either build your way up or get to get
->
-> there with the jetpack from like a
->
-> different point
->
-> but that would kind of be ruined of
->
-> course if you can have them both at the
->
-> same time than the whole gym person just
->
-> gets
->
-> completely destroyed right
+> power um multiple body slots when yes maybe maybe uh yeah we've talked about a lot of different solutions and you've talked about this a bunch on here as well generally we do want to support it it's just uh the problem before for me has always been that we don't have enough different types of equipments which kind of makes a lot of challenges that we can apply with exploration super redundant because we don't have the tools to then challenge the player anymore right when they have a jet pack and a gas mask and the blade runners but i don't think the general idea of having those things on at the same time is an issue so i think we want to support it if that is from multiple body slots or maybe combining equipment together at certain points in the game so we can maybe control it a bit better that way as well i don't really know yet we have been talking about it a lot there's a lot of different ways on how to do this but it kind of comes down for me at least to the idea that we need more types of equipments so that you can actually have different things in your head slot if you could only have the gas mask there it would be a bit meh so i want more different types of equipments to really make this a proper thing and then of course more things that actually require you to have those equipments and want to use them and swap around sometimes not constantly run around with the same stuff on your body gotcha one other thing that you pointed out before as well that was pretty interesting i haven't thought about it was that the world is kind of designed around the fact that you have one body slot that you use at the same time so like when you're in gas you won't need the jump uh the jet pack to be able to like get around the the world puzzles that we have in those locations and i guess the world does will need some redesign if we're gonna have more than one body slot for those cases yeah that's a big problem like you said like you could have a jump also that has gas on it specifically to stop you from using the jet jetpack to get onto it or make you think in a more creative way of how you can either build your way up or get to get there with the jetpack from like a different point but that would kind of be ruined of course if you can have them both at the same time than the whole gym person just gets completely destroyed right
 
 
 </details>
@@ -1301,29 +307,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> here now uh people asking about science
->
-> we're going to have science at some
->
-> point you guys
->
-> uh just don't know at some point at some
->
-> point
->
-> it's in the backlog of things that
->
-> actually are gonna make it in before 1.0
->
-> remember what
->
-> producer burke said i can't see a 1.0
->
-> release of satisfactory without science
->
-> in them
->
-> so you know what happens
+> here now uh people asking about science we're going to have science at some point you guys uh just don't know at some point at some point it's in the backlog of things that actually are gonna make it in before 1.0 remember what producer burke said i can't see a 1.0 release of satisfactory without science in them so you know what happens
 
 
 </details>
@@ -1348,11 +332,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> all right fine whatever um
->
-> translation will be coming yes we we
->
-> have plans for that
+> all right fine whatever um translation will be coming yes we we have plans for that
 
 
 </details>
@@ -1388,137 +368,11 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> so wind power mark when
->
-> no
+> so wind power mark when no
 >
 > [Laughter]
 >
-> um what is the what is the reasoning why
->
-> we don't want to add wind
->
-> wind power or solar power or stuff like
->
-> that uh
->
-> i think both of those have the problem
->
-> where that you can effectively even if
->
-> you make a system around it that kind of
->
-> checks for
->
-> uh certain restrictions that you can
->
-> just build them everywhere of course
->
-> they would still effectively be
->
-> limitless in
->
-> in this game i think uh and we don't
->
-> really want that for power
->
-> like you could just build a giant
->
-> solar panel field and not have to worry
->
-> about
->
-> the power at all which kind of defeats
->
-> the point
->
-> of the power system where it's supposed
->
-> to be a pain in your butt every now and
->
-> then
->
-> and you're supposed to want to fix it
->
-> and make it all run smoothly and i feel
->
-> that that
->
-> those kind of power supplies would take
->
-> away from it because they don't have
->
-> enough limitations
->
-> that we can effectively uh contain
->
-> the balancing off gotcha
->
-> remember we we also brought up like
->
-> water turbines
->
-> yeah i think those will be more in the
->
-> realm of what the the geysers now do
->
-> yeah and right now the guys
->
-> have the issue where some people
->
-> actually brought this up where they feel
->
-> kind of
->
-> what kind of they're super weak for
->
-> when you get them the amount of power
->
-> that you get from them
->
-> uh so we might change it as well but for
->
-> the
->
-> yeah water turbines i would be more
->
-> interested in them because you would
->
-> have to place them potentially on
->
-> fast flowing rivers or waterfalls which
->
-> are a limited
->
-> resource so to say in the world which is
->
-> more interesting in my opinion
->
-> because it kind of gets you around like
->
-> you can't just pop them down anywhere
->
-> you actually have to
->
-> find a waterfall we get up a cliff to
->
-> get to the waterfall
->
-> place them there connecting to your
->
-> factory
->
-> i think it's a more interesting way to
->
-> approach power with a bit of a challenge
->
-> like that than just to
->
-> give a building that just produces it
->
-> out of thin air gotcha
->
-> free power when do we get free power
+> um what is the what is the reasoning why we don't want to add wind wind power or solar power or stuff like that uh i think both of those have the problem where that you can effectively even if you make a system around it that kind of checks for uh certain restrictions that you can just build them everywhere of course they would still effectively be limitless in in this game i think uh and we don't really want that for power like you could just build a giant solar panel field and not have to worry about the power at all which kind of defeats the point of the power system where it's supposed to be a pain in your butt every now and then and you're supposed to want to fix it and make it all run smoothly and i feel that that those kind of power supplies would take away from it because they don't have enough limitations that we can effectively uh contain the balancing off gotcha remember we we also brought up like water turbines yeah i think those will be more in the realm of what the the geysers now do yeah and right now the guys have the issue where some people actually brought this up where they feel kind of what kind of they're super weak for when you get them the amount of power that you get from them uh so we might change it as well but for the yeah water turbines i would be more interested in them because you would have to place them potentially on fast flowing rivers or waterfalls which are a limited resource so to say in the world which is more interesting in my opinion because it kind of gets you around like you can't just pop them down anywhere you actually have to find a waterfall we get up a cliff to get to the waterfall place them there connecting to your factory i think it's a more interesting way to approach power with a bit of a challenge like that than just to give a building that just produces it out of thin air gotcha free power when do we get free power
 
 
 </details>
@@ -1537,163 +391,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh can we just finally sleep in the hub
->
-> i don't think we're ever gonna add that
->
-> to be honest maybe we'll do like you can
->
-> lay down in the hub or something but
->
-> the the biggest gripe we have with
->
-> sleeping in the hub
->
-> is the fact that all the stuff inside a
->
-> factory is like
->
-> depending on time
->
-> all right i don't know if you guys heard
->
-> that my neighbor is screwing around
->
-> um we don't want we can't really add
->
-> like fast forwarding stuff like that to
->
-> the game
->
-> because of a few reasons the main one
->
-> being that you would speed up your
->
-> factories
->
-> and that would we don't like that for
->
-> two reasons
->
-> one is because you would be able to like
->
-> quote unquote cheat
->
-> you know speed up your time and be able
->
-> to get around that
->
-> uh it also messes with
->
-> the like it kind of optimizes away the
->
-> fun of automation in a sense because
->
-> it can lead to a lot of cases where
->
-> people
->
-> don't auto like don't learn automation
->
-> just because they can sleep
->
-> uh throughout time and just like make
->
-> small things and don't expand their
->
-> builds and stuff like that
->
-> we already have that problem a little
->
-> bit with the workbench in early game
->
-> where
->
-> if you don't realize that you should
->
-> automate you can just go back to the
->
-> workbench over and over and keep
->
-> uh manually grafting and that's that's
->
-> an issue we've had since day one it's an
->
-> issue we don't really have a solution
->
-> for and we don't want to introduce
->
-> something else that adds on top of that
->
-> uh the second thing is that um
->
-> we it's a technical thing as well with
->
-> speeding up the game because if we do we
->
-> can't like
->
-> it's it's it's a really tr tough problem
->
-> to solve
->
-> if we were to say like all right it's
->
-> now 1 pm
->
-> i wanna i want to load the game at 6 pm
->
-> because we need to simulate everything
->
-> that goes on
->
-> in between that time and
->
-> depending on your base that can be very
->
-> very
->
-> very expensive so what can happen is
->
-> you go to bed and then the game crash
->
-> like
->
-> it seems like the game is crashing
->
-> because it needs to simulate
->
-> and that's a problem we just like don't
->
-> want to focus on right now so we we're
->
-> probably not going to introduce sleeping
->
-> in the hub
->
-> i know that it's frustrating that we do
->
-> have like the mattresses there
->
-> but maybe we'll we'll do something else
->
-> with those in the future or something
->
-> just so they make sense or maybe we'll
->
-> just remove them
->
-> but i don't think we're going to do that
->
-> i think we're going to do something else
->
-> with them that's a little bit more fun
->
-> um yeah just just do like a sleeping
->
-> animation but you don't actually go to
->
-> bed or something like that
+> uh can we just finally sleep in the hub i don't think we're ever gonna add that to be honest maybe we'll do like you can lay down in the hub or something but the the biggest gripe we have with sleeping in the hub is the fact that all the stuff inside a factory is like depending on time all right i don't know if you guys heard that my neighbor is screwing around um we don't want we can't really add like fast forwarding stuff like that to the game because of a few reasons the main one being that you would speed up your factories and that would we don't like that for two reasons one is because you would be able to like quote unquote cheat you know speed up your time and be able to get around that uh it also messes with the like it kind of optimizes away the fun of automation in a sense because it can lead to a lot of cases where people don't auto like don't learn automation just because they can sleep uh throughout time and just like make small things and don't expand their builds and stuff like that we already have that problem a little bit with the workbench in early game where if you don't realize that you should automate you can just go back to the workbench over and over and keep uh manually grafting and that's that's an issue we've had since day one it's an issue we don't really have a solution for and we don't want to introduce something else that adds on top of that uh the second thing is that um we it's a technical thing as well with speeding up the game because if we do we can't like it's it's it's a really tr tough problem to solve if we were to say like all right it's now 1 pm i wanna i want to load the game at 6 pm because we need to simulate everything that goes on in between that time and depending on your base that can be very very very expensive so what can happen is you go to bed and then the game crash like it seems like the game is crashing because it needs to simulate and that's a problem we just like don't want to focus on right now so we we're probably not going to introduce sleeping in the hub i know that it's frustrating that we do have like the mattresses there but maybe we'll we'll do something else with those in the future or something just so they make sense or maybe we'll just remove them but i don't think we're going to do that i think we're going to do something else with them that's a little bit more fun um yeah just just do like a sleeping animation but you don't actually go to bed or something like that
 
 
 </details>
@@ -1714,41 +412,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> could some sanctum game play maybe the
->
-> tower defense game
->
-> part comes to satisfactory here's here's
->
-> reference number
->
-> whatever number are we on is that
->
-> anybody from the wiki here what's the
->
-> current reference
->
-> we're not going to add tower defense to
->
-> the game reference number
->
-> 40 whatever 29 so this is your 30th one
->
-> we're not gonna have tower defense of
->
-> the game
->
-> 42. i trust marv marv is the one has
->
-> keeps track of that so this
->
-> is your 30th one
->
-> unless this was a 29 it's not coming
->
-> star defense confirmed god damn it
->
-> that's not how that works
+> could some sanctum game play maybe the tower defense game part comes to satisfactory here's here's reference number whatever number are we on is that anybody from the wiki here what's the current reference we're not going to add tower defense to the game reference number 40 whatever 29 so this is your 30th one we're not gonna have tower defense of the game 42. i trust marv marv is the one has keeps track of that so this is your 30th one unless this was a 29 it's not coming star defense confirmed god damn it that's not how that works
 
 
 </details>
@@ -1775,35 +439,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> curved walls
->
-> windows and foundations i think uh those
->
-> are the things to take into
->
-> consideration when we look into
->
-> better build options in the game so
->
-> please upload that on the kiwi site
->
-> i'm pretty sure there are tickets for
->
-> this but if if uh
->
-> if yeah make sure to upload those those
->
-> uh
->
-> things same with that signs science is
->
-> like one of our most uploaded
->
-> tickets i believe on the keyword site
->
-> make sure to hit that upload button
->
-> smash that up vote button
+> curved walls windows and foundations i think uh those are the things to take into consideration when we look into better build options in the game so please upload that on the kiwi site i'm pretty sure there are tickets for this but if if uh if yeah make sure to upload those those uh things same with that signs science is like one of our most uploaded tickets i believe on the keyword site make sure to hit that upload button smash that up vote button
 
 
 </details>
@@ -1822,41 +458,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> creation there interesting interesting
->
-> faster autosaves
->
-> i think so i hope so i mean we want to
->
-> like obviously
->
-> uh we are working we're working on
->
-> systems that will make it so that we can
->
-> do
->
-> better auto saving or faster saving in
->
-> general there's a few systems that are
->
-> like we have a little bit of technical
->
-> depth that's stopping us from working on
->
-> that particular issue
->
-> right now but we're working on those
->
-> systems some of the systems are
->
-> starting to take effect in update three
->
-> update four
->
-> um so yeah we're on the path
->
-> on the path
+> creation there interesting interesting faster autosaves i think so i hope so i mean we want to like obviously uh we are working we're working on systems that will make it so that we can do better auto saving or faster saving in general there's a few systems that are like we have a little bit of technical depth that's stopping us from working on that particular issue right now but we're working on those systems some of the systems are starting to take effect in update three update four um so yeah we're on the path on the path
 
 
 </details>
@@ -1877,37 +479,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> is a bigger world a possibility
->
-> uh hannah is the person to answer that
->
-> question
->
-> we're i don't think it will be bigger
->
-> but we will be more detailed
->
-> there might be like i think hannah tease
->
-> that there's like maybe one biome that's
->
-> like
->
-> kind of empty right now that we're gonna
->
-> add stuff to
->
-> but it's gonna be the same size of the
->
-> map so don't expect like
->
-> the map size to increase the map is
->
-> already huge
->
-> we barely can manage the size of the map
->
-> currently
+> is a bigger world a possibility uh hannah is the person to answer that question we're i don't think it will be bigger but we will be more detailed there might be like i think hannah tease that there's like maybe one biome that's like kind of empty right now that we're gonna add stuff to but it's gonna be the same size of the map so don't expect like the map size to increase the map is already huge we barely can manage the size of the map currently
 
 
 </details>
@@ -1935,59 +507,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> let's do it is creative mode coming it's
->
-> uh it's coming at some point maybe i
->
-> think
->
-> i don't know i don't know i remember if
->
-> we promised creative mode i think we
->
-> talked about it before that we want to
->
-> do it uh but the thing with prayer mode
->
-> is that
->
-> the thing we're kind of dreading if we
->
-> add creative mode is that people will
->
-> hit the
->
-> memory limit in the game uh faster
->
-> and uh we're kind of scared of that so
->
-> we kind of want to
->
-> optimize for that a bit before that we
->
-> also need to
->
-> kind of like get feedback on balancing
->
-> and stuff like that and we feel like
->
-> if we add creative mode it kind of ruins
->
-> you know that feedback loop that we
->
-> we're having right now with everyone on
->
-> ea
->
-> um so we kinda
->
-> like probably at some point but nope
->
-> i don't know exactly when that's gonna
->
-> happen and
->
-> how it would work etc etc etc
+> let's do it is creative mode coming it's uh it's coming at some point maybe i think i don't know i don't know i remember if we promised creative mode i think we talked about it before that we want to do it uh but the thing with prayer mode is that the thing we're kind of dreading if we add creative mode is that people will hit the memory limit in the game uh faster and uh we're kind of scared of that so we kind of want to optimize for that a bit before that we also need to kind of like get feedback on balancing and stuff like that and we feel like if we add creative mode it kind of ruins you know that feedback loop that we we're having right now with everyone on ea um so we kinda like probably at some point but nope i don't know exactly when that's gonna happen and how it would work etc etc etc
 
 
 </details>
@@ -2033,27 +553,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> new suit skins um
->
-> so customization for player
->
-> customization
->
-> um is something that i think we've
->
-> talked a lot about we think it's cool
->
-> i don't know when or if it will happen
->
-> but i think
->
-> i think it's possible but i don't know i
->
-> can't confirm anything right now
->
-> just because there's so much else we
->
-> want to do
+> new suit skins um so customization for player customization um is something that i think we've talked a lot about we think it's cool i don't know when or if it will happen but i think i think it's possible but i don't know i can't confirm anything right now just because there's so much else we want to do
 
 
 </details>
@@ -2081,61 +581,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> are you ends probably you're in
->
-> procedural map we've already uh
->
-> debunked the procedural map we're not
->
-> gonna do procedural stuff uh or
->
-> sorry let me let me rephrase this we're
->
-> not gonna do procedural generation in
->
-> terms of like terraforming and stuff
->
-> like that
->
-> we've we've already went down that route
->
-> and we didn't like it we we prefer doing
->
-> it this way
->
-> we're doing right now we also can't like
->
-> really back down now because you can
->
-> you have to kind of commit to either or
->
-> um
->
-> we felt like handcrafting is it gives
->
-> you a much more detailed
->
-> experience terror forming um
->
-> and we actually tried a little bit of
->
-> like procedural
->
-> like generation of the environment and
->
-> we just didn't like it
->
-> that much it's also really difficult to
->
-> make it good you know
->
-> and not like it it gets very repetitive
->
-> after a while so
->
-> we'd rather make like one very detailed
->
-> map
+> are you ends probably you're in procedural map we've already uh debunked the procedural map we're not gonna do procedural stuff uh or sorry let me let me rephrase this we're not gonna do procedural generation in terms of like terraforming and stuff like that we've we've already went down that route and we didn't like it we we prefer doing it this way we're doing right now we also can't like really back down now because you can you have to kind of commit to either or um we felt like handcrafting is it gives you a much more detailed experience terror forming um and we actually tried a little bit of like procedural like generation of the environment and we just didn't like it that much it's also really difficult to make it good you know and not like it it gets very repetitive after a while so we'd rather make like one very detailed map
 
 
 </details>
@@ -2164,261 +610,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> satisfactory roadmap we don't really
->
-> have a roadmap because
->
-> it's we had a roadmap and uh
->
-> we didn't like it we we
->
-> roadmap this is a huge topic on roadmaps
->
-> but the problem with road maps for us is
->
-> that
->
-> we we can't like obviously we're
->
-> committed with working on the game but
->
-> we can't commit to a roadmap to the
->
-> extent that we need
->
-> like if we need to crunch at some point
->
-> to meet deadlines we're not gonna
->
-> we need to delay and i think it's a
->
-> little bit frustrating for everyone when
->
-> we're
->
-> constantly delaying stuff um i think
->
-> this
->
-> dev cycle that we've had last year has
->
-> been
->
-> really good for for both of us uh both
->
-> for you guys and for us
->
-> just because like we've had time to do
->
-> the things we want to do
->
-> we haven't been stressing about like we
->
-> need to do this we need to do this we
->
-> need to get this out and like our
->
-> decisions are based on you know
->
-> what's best for the game rather than
->
-> when is this coming out
->
-> um and that's we want to keep doing that
->
-> that's one reason
->
-> the other reason is that we're
->
-> constantly changing our minds based on
->
-> you know when we're prototyping stuff
->
-> and realize this isn't a good idea or
->
-> when we produce yourself and realize ooh
->
-> what if we did it this way instead and
->
-> change our minds on certain things
->
-> we want to be able to do that still and
->
-> it's also so that we can kind of react
->
-> to what you guys are doing
->
-> saying to us so for instance pipes would
->
-> not have been possible
->
-> if we would have kept our roadmap going
->
-> pipes would not have happened
->
-> at that point so yeah we really want to
->
-> keep that agile development going and
->
-> not get stuck in like
->
-> the the world map kind of thinking i
->
-> know that's really frustrating to hear
->
-> because obviously you want to know like
->
-> what's coming and what to look forward
->
-> to
->
-> and you know if you know that like oh
->
-> i'm really looking forward to this thing
->
-> that's going to come in
->
-> this part of the year like we're going
->
-> to try and like be as open about
->
-> development as we can we've been fairly
->
-> open
->
-> in for update four saying what's going
->
-> to come
->
-> but we're going to try and be even more
->
-> open and let you guys know what's kind
->
-> of in the pipeline what might change
->
-> keep you in the loop et cetera et cetera
->
-> we're going to figure sing things out
->
-> that way instead of
->
-> you know having a static road map on the
->
-> on the
->
-> on the uh on the website or something
->
-> like that because you feel like also
->
-> doing that way
->
-> this kind of communication where we have
->
-> our streams we have a youtube channel we
->
-> have
->
-> you know our twitter and stuff like that
->
-> um it gives us a better
->
-> way to like keep keep
->
-> engaged with you guys as well so that we
->
-> don't become you know
->
-> boomer game developers that just like
->
-> we're just gonna do this thing and we're
->
-> so set on it we want to like be able to
->
-> do
->
-> what makes sense for the game and what
->
-> makes the game better um
->
-> and we feel like a road map is a little
->
-> bit hindering us
->
-> in that sense roman is a joke and
->
-> burns all devs yeah it can't it can do
->
-> that
->
-> there are way i think there are ways to
->
-> do to have road maps that kind of work
->
-> and we've also talked a lot about having
->
-> like some middle ground where maybe
->
-> we'll do like a
->
-> white board or something like that
->
-> showing like this is what we're looking
->
-> to implement at some point but we don't
->
-> know when
->
-> um and maybe like that will also be
->
-> easier to like confirm like these are
->
-> the things that we confirm
->
-> want to have in satisfactory but even
->
-> those things can change like there might
->
-> be things that we
->
-> feel like this needs to be in the game
->
-> but then maybe we
->
-> aren't able to implement it so and that
->
-> can also be very frustrating so
->
-> it's a tricky it's a tricky situation
->
-> we're trying our best to
->
-> to figure out what to do about that
->
-> as we go but working on the game making
->
-> the game as best as it can be is the
->
-> priority for us
->
-> so really sorry that that answer got so
->
-> long
->
-> but we really want to make the game the
->
-> best it can be
->
-> and sometimes we need to take decisions
->
-> that
->
-> suck for you guys but in the long haul i
->
-> think will be better for you guys
->
-> uh in that sense so all right
->
-> got that out of the way
+> satisfactory roadmap we don't really have a roadmap because it's we had a roadmap and uh we didn't like it we we roadmap this is a huge topic on roadmaps but the problem with road maps for us is that we we can't like obviously we're committed with working on the game but we can't commit to a roadmap to the extent that we need like if we need to crunch at some point to meet deadlines we're not gonna we need to delay and i think it's a little bit frustrating for everyone when we're constantly delaying stuff um i think this dev cycle that we've had last year has been really good for for both of us uh both for you guys and for us just because like we've had time to do the things we want to do we haven't been stressing about like we need to do this we need to do this we need to get this out and like our decisions are based on you know what's best for the game rather than when is this coming out um and that's we want to keep doing that that's one reason the other reason is that we're constantly changing our minds based on you know when we're prototyping stuff and realize this isn't a good idea or when we produce yourself and realize ooh what if we did it this way instead and change our minds on certain things we want to be able to do that still and it's also so that we can kind of react to what you guys are doing saying to us so for instance pipes would not have been possible if we would have kept our roadmap going pipes would not have happened at that point so yeah we really want to keep that agile development going and not get stuck in like the the world map kind of thinking i know that's really frustrating to hear because obviously you want to know like what's coming and what to look forward to and you know if you know that like oh i'm really looking forward to this thing that's going to come in this part of the year like we're going to try and like be as open about development as we can we've been fairly open in for update four saying what's going to come but we're going to try and be even more open and let you guys know what's kind of in the pipeline what might change keep you in the loop et cetera et cetera we're going to figure sing things out that way instead of you know having a static road map on the on the on the uh on the website or something like that because you feel like also doing that way this kind of communication where we have our streams we have a youtube channel we have you know our twitter and stuff like that um it gives us a better way to like keep keep engaged with you guys as well so that we don't become you know boomer game developers that just like we're just gonna do this thing and we're so set on it we want to like be able to do what makes sense for the game and what makes the game better um and we feel like a road map is a little bit hindering us in that sense roman is a joke and burns all devs yeah it can't it can do that there are way i think there are ways to do to have road maps that kind of work and we've also talked a lot about having like some middle ground where maybe we'll do like a white board or something like that showing like this is what we're looking to implement at some point but we don't know when um and maybe like that will also be easier to like confirm like these are the things that we confirm want to have in satisfactory but even those things can change like there might be things that we feel like this needs to be in the game but then maybe we aren't able to implement it so and that can also be very frustrating so it's a tricky it's a tricky situation we're trying our best to to figure out what to do about that as we go but working on the game making the game as best as it can be is the priority for us so really sorry that that answer got so long but we really want to make the game the best it can be and sometimes we need to take decisions that suck for you guys but in the long haul i think will be better for you guys uh in that sense so all right got that out of the way
 
 
 </details>
@@ -2439,13 +631,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> space elevator has a resourcing for six
->
-> specific items after all the stages
->
-> i don't know what the plan is for that
->
-> currently
+> space elevator has a resourcing for six specific items after all the stages i don't know what the plan is for that currently
 
 
 </details>
@@ -2463,15 +649,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> um tilted fences we already i think i
->
-> already answered this but that's
->
-> something that i think we want to add at
->
-> some point but i know
->
-> the state of that
+> um tilted fences we already i think i already answered this but that's something that i think we want to add at some point but i know the state of that
 
 
 </details>
@@ -2493,123 +671,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> what's the feature you wanna add to this
->
-> so i personally really wanna improve the
->
-> build modes
->
-> uh i there are there are a lot i think
->
-> we talked about this last week as well
->
-> there are a few
->
-> um there are a few things that really
->
-> annoy me when you're building
->
-> and i think there are somewhat easy to
->
-> fix
->
-> and they will improve building immensely
->
-> so i would love to to improve some of
->
-> those things
->
-> first and foremost and maybe like a
->
-> global grid
->
-> situation but also like how you place
->
-> you know
->
-> um mergers and splitters i think that's
->
-> one of the like
->
-> places mergers and splitters uh not the
->
-> fact that they don't clip
->
-> on foundations when you're dragging them
->
-> i'm already placed
->
-> um conveyor belts and stuff like that i
->
-> think that's really annoying
->
-> uh stuff like you know the
->
-> what are they called the the pipe
->
-> connector thingies
->
-> i can't remember what they're called
->
-> that they rotate too i think they rotate
->
-> too freely i want them to be able to
->
-> clip
->
-> snap it a bit better the snapping system
->
-> we have for
->
-> the guidelines thing when the green
->
-> lines show up when you hold control
->
-> that's a prototype that's not done at
->
-> all
->
-> um that's a prototype i made and then
->
-> we're like alright i just put in the
->
-> game whatever
->
-> it works pipe junction thank you uh
->
-> i want i want better clipping and like
->
-> snapping with that
->
-> so if you're if you're one of those
->
-> people that like
->
-> builds very methodically it just makes
->
-> it
->
-> so much easier to build because i think
->
-> the addition of the
->
-> the hover pack makes things so much
->
-> better in the game i think the hover
->
-> pack is like one of the best items in
->
-> the game right now
->
-> um so improving the the build modes
->
-> would make the game
->
-> a ton better imo
->
-> god i love the hover pack i know it's so
->
-> good right
+> what's the feature you wanna add to this so i personally really wanna improve the build modes uh i there are there are a lot i think we talked about this last week as well there are a few um there are a few things that really annoy me when you're building and i think there are somewhat easy to fix and they will improve building immensely so i would love to to improve some of those things first and foremost and maybe like a global grid situation but also like how you place you know um mergers and splitters i think that's one of the like places mergers and splitters uh not the fact that they don't clip on foundations when you're dragging them i'm already placed um conveyor belts and stuff like that i think that's really annoying uh stuff like you know the what are they called the the pipe connector thingies i can't remember what they're called that they rotate too i think they rotate too freely i want them to be able to clip snap it a bit better the snapping system we have for the guidelines thing when the green lines show up when you hold control that's a prototype that's not done at all um that's a prototype i made and then we're like alright i just put in the game whatever it works pipe junction thank you uh i want i want better clipping and like snapping with that so if you're if you're one of those people that like builds very methodically it just makes it so much easier to build because i think the addition of the the hover pack makes things so much better in the game i think the hover pack is like one of the best items in the game right now um so improving the the build modes would make the game a ton better imo god i love the hover pack i know it's so good right
 
 
 </details>
@@ -2630,319 +692,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> what's the object so
->
-> i again i i say this every time and i
->
-> know i'm not going to be able to
->
-> to um educate enough people so that this
->
-> this will change but it's it's not an
->
-> object limit you guys it's a memory
->
-> limit
->
-> it's a memory limit of how many objects
->
-> the engine can keep track of at a time
->
-> and it's not an
->
-> object in terms of like physical objects
->
-> in the world
->
-> it's memory allocated memory
->
-> like spaces and those are referred to as
->
-> memory objects
->
-> because of programming paradigms
->
-> it's it's it's memory objects not game
->
-> objects
->
-> a game object can have many memory
->
-> objects and
->
-> a game object can have n number of
->
-> memory objects so it's not one to one
->
-> either
->
-> so but the limit is like something two
->
-> million
->
-> u objects that's why i always like
->
-> i want to point out that it's you object
->
-> not object
->
-> limits um and i've explained this a
->
-> billion times and it's it's it really
->
-> isn't
->
-> if you're not a programmer this doesn't
->
-> make sense
->
-> because of the way we it's a linguistic
->
-> thing the way we describe it
->
-> um the fact that we we need programming
->
-> we kind of need to like create physical
->
-> things to talk about we need to
->
-> anthropomorphize some things
->
-> because it makes makes it easier to talk
->
-> about things and that's kind of like
->
-> kind of up when we talk about this
->
-> thing
->
-> yeah i'm a programmer it makes a perfect
->
-> sense yeah but the people that aren't
->
-> programmers it doesn't make sense so
->
-> people think oh object limit that must
->
-> be game objects
->
-> but that's not the case so that's why
->
-> it's kind of confusing
->
-> um because we can't change the the u
->
-> object limit
->
-> we can't optimize for it so potentially
->
-> you could if you build like
->
-> x amount of objects and it crashes the
->
-> game and hit that limit
->
-> we could optimize it so that you could
->
-> potentially load that game again without
->
-> changing the limit
->
-> yeah it's an engine limit and another
->
-> thing to point out as well
->
-> it's an engine limit but you can
->
-> technically increase it if you go to the
->
-> config files but we don't recommend that
->
-> because we don't know what happens if
->
-> you do
->
-> you can get very weird memory issues
->
-> uh when you play the game and it can be
->
-> as bad as it corrupts your save file and
->
-> it in fact
->
-> has happened for people so we know it
->
-> can happen um
->
-> that's why we don't recommend it if you
->
-> do want if you have built
->
-> a base that's so big that you hit that
->
-> limit then what you can do is
->
-> back up your save file then go into the
->
-> config files and change it
->
-> but be aware that that may cause issues
->
-> down the line
->
-> and if we do optimize the game
->
-> further down the line where the limit is
->
-> better
->
-> the config files will not get overridden
->
-> so your manual change of the config
->
-> files will still persist
->
-> and you could potentially be playing a
->
-> version of the game where we've fixed
->
-> most of those issues
->
-> and you get a corrupt save file and that
->
-> sucks
->
-> so that's why we're really clear about
->
-> the fact that
->
-> there is a way for you but we don't
->
-> recommend it because it could cause
->
-> issues
->
-> uh so you're you're 100 on your own if
->
-> you if you do that
->
-> but we we are not stopping you you're
->
-> free to do whatever you want there
->
-> but just know that this is a complicated
->
-> problem
->
-> so re like really read up on it um
->
-> before doing anything and read up on it
->
-> means
->
-> listen to us don't listen to community
->
-> community because this is like
->
-> super construed what people think the
->
-> problem is and what the solution is and
->
-> the idea
->
-> of how it works like there are
->
-> i think we've put out some video about
->
-> it somewhere around where
->
-> you can quote that or maybe we should
->
-> make a video about it or something i
->
-> don't know it's kind of
->
-> scary also because we don't want you
->
-> guys to like build
->
-> in a certain way that like is optimized
->
-> because that's not
->
-> fun it's uh it's on us to make the game
->
-> fit your play needs you know
->
-> it shouldn't be the other way around
->
-> maybe it's it's the other way around for
->
-> now because we're still optimizing the
->
-> game and the game isn't done
->
-> and if you want to like keep playing
->
-> maybe you need to
->
-> but it shouldn't be on you guys it
->
-> should be on us to fix those kind of
->
-> things
->
-> all right i
->
-> always get so flushed when i
->
-> talk about this but it's just like
->
-> it's it's a it's a it's a little bit
->
-> frustrating for me because
->
-> it's so misconstrued in community people
->
-> talk about it in one way but it doesn't
->
-> work that way
->
-> um and it's just really hard to get that
->
-> information out
->
-> because it's a complicated subject and
->
-> there's no like easy
->
-> easy way to explain it i think
->
-> um so i can only keep trying
->
-> but i'm also okay with it the fact that
->
-> like this is the way
->
-> you get as a community manager like you
->
-> never reach everyone there's always
->
-> going to be misconceptions about
->
-> everything
->
-> so uh but yeah i'll i'll keep explaining
->
-> it as many times
->
-> as i as i need to uh for as long as that
->
-> problem exists i don't mind it
->
-> um we just gotta keep doing our best you
->
-> know
+> what's the object so i again i i say this every time and i know i'm not going to be able to to um educate enough people so that this this will change but it's it's not an object limit you guys it's a memory limit it's a memory limit of how many objects the engine can keep track of at a time and it's not an object in terms of like physical objects in the world it's memory allocated memory like spaces and those are referred to as memory objects because of programming paradigms it's it's it's memory objects not game objects a game object can have many memory objects and a game object can have n number of memory objects so it's not one to one either so but the limit is like something two million u objects that's why i always like i want to point out that it's you object not object limits um and i've explained this a billion times and it's it's it really isn't if you're not a programmer this doesn't make sense because of the way we it's a linguistic thing the way we describe it um the fact that we we need programming we kind of need to like create physical things to talk about we need to anthropomorphize some things because it makes makes it easier to talk about things and that's kind of like kind of up when we talk about this thing yeah i'm a programmer it makes a perfect sense yeah but the people that aren't programmers it doesn't make sense so people think oh object limit that must be game objects but that's not the case so that's why it's kind of confusing um because we can't change the the u object limit we can't optimize for it so potentially you could if you build like x amount of objects and it crashes the game and hit that limit we could optimize it so that you could potentially load that game again without changing the limit yeah it's an engine limit and another thing to point out as well it's an engine limit but you can technically increase it if you go to the config files but we don't recommend that because we don't know what happens if you do you can get very weird memory issues uh when you play the game and it can be as bad as it corrupts your save file and it in fact has happened for people so we know it can happen um that's why we don't recommend it if you do want if you have built a base that's so big that you hit that limit then what you can do is back up your save file then go into the config files and change it but be aware that that may cause issues down the line and if we do optimize the game further down the line where the limit is better the config files will not get overridden so your manual change of the config files will still persist and you could potentially be playing a version of the game where we've fixed most of those issues and you get a corrupt save file and that sucks so that's why we're really clear about the fact that there is a way for you but we don't recommend it because it could cause issues uh so you're you're 100 on your own if you if you do that but we we are not stopping you you're free to do whatever you want there but just know that this is a complicated problem so re like really read up on it um before doing anything and read up on it means listen to us don't listen to community community because this is like super construed what people think the problem is and what the solution is and the idea of how it works like there are i think we've put out some video about it somewhere around where you can quote that or maybe we should make a video about it or something i don't know it's kind of scary also because we don't want you guys to like build in a certain way that like is optimized because that's not fun it's uh it's on us to make the game fit your play needs you know it shouldn't be the other way around maybe it's it's the other way around for now because we're still optimizing the game and the game isn't done and if you want to like keep playing maybe you need to but it shouldn't be on you guys it should be on us to fix those kind of things all right i always get so flushed when i talk about this but it's just like it's it's a it's a it's a little bit frustrating for me because it's so misconstrued in community people talk about it in one way but it doesn't work that way um and it's just really hard to get that information out because it's a complicated subject and there's no like easy easy way to explain it i think um so i can only keep trying but i'm also okay with it the fact that like this is the way you get as a community manager like you never reach everyone there's always going to be misconceptions about everything so uh but yeah i'll i'll keep explaining it as many times as i as i need to uh for as long as that problem exists i don't mind it um we just gotta keep doing our best you know
 
 
 </details>
@@ -2967,59 +717,11 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> um what's the plan for mod support
->
-> we are going to have official mod
->
-> support at some point we have unofficial
->
-> mod support currently
->
-> on ea and they're working really hard
->
-> together on experimental
+> um what's the plan for mod support we are going to have official mod support at some point we have unofficial mod support currently on ea and they're working really hard together on experimental
 >
 > [Music]
 >
-> the modders have promised to me 100 this
->
-> is not us promising this is the modders
->
-> promising
->
-> 100 no like guaranteed
->
-> money back that that mods are going to
->
-> work
->
-> for update 4 when it hits ea
->
-> guaranteed quote me on that because i'm
->
-> quoting someone else
->
-> actually maybe don't i actually don't
->
-> know check out the modding discord if
->
-> you want to
->
-> get news on on modding stuff because we
->
-> we don't officially support mods it's
->
-> something that
->
-> yeah 100 guaranteed tm modders told me
->
-> now they get to live up to the
->
-> thing when you say like
->
-> publicly they get to taste their own
->
-> medicine
+> the modders have promised to me 100 this is not us promising this is the modders promising 100 no like guaranteed money back that that mods are going to work for update 4 when it hits ea guaranteed quote me on that because i'm quoting someone else actually maybe don't i actually don't know check out the modding discord if you want to get news on on modding stuff because we we don't officially support mods it's something that yeah 100 guaranteed tm modders told me now they get to live up to the thing when you say like publicly they get to taste their own medicine
 
 
 </details>
@@ -3044,15 +746,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> dream on what about the toilet yeah what
->
-> about the toilet
->
-> one dollar dlc flushing dlc i love it
->
-> it's coming i promise
->
-> it'd be funny
+> dream on what about the toilet yeah what about the toilet one dollar dlc flushing dlc i love it it's coming i promise it'd be funny
 
 
 </details>
@@ -3072,33 +766,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> when are my blade dancer
->
-> blade runners gonna stay on my character
->
-> while in hypertubes that's a good
->
-> question
->
-> it's one of those bugs that like it's
->
-> not really high prior because like
->
-> it doesn't break the game or anything
->
-> like that just breaks immersion or
->
-> whatever um
->
-> so it's been like not been prioritized
->
-> but i think we're gonna fix that at some
->
-> point i mean we are gonna fix that at
->
-> some point it's a really
->
-> it's a really annoying bug
+> when are my blade dancer blade runners gonna stay on my character while in hypertubes that's a good question it's one of those bugs that like it's not really high prior because like it doesn't break the game or anything like that just breaks immersion or whatever um so it's been like not been prioritized but i think we're gonna fix that at some point i mean we are gonna fix that at some point it's a really it's a really annoying bug
 
 
 </details>
@@ -3116,35 +784,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> when can we order a coffee mug
->
-> yo so jace is the one who's like
->
-> keeping track of that uh most of the
->
-> time
->
-> so i'm not 100 sure
->
-> what the state of things are right now
->
-> but we've made a lot like we've made
->
-> some good progress on the cups you guys
->
-> um so i think i said that the last
->
-> stream as well but we've made
->
-> good progress in the cups i don't know
->
-> what that means but we're doing pretty
->
-> well
->
-> just call jason ask him i'm not gonna
->
-> call jace on his vacation
+> when can we order a coffee mug yo so jace is the one who's like keeping track of that uh most of the time so i'm not 100 sure what the state of things are right now but we've made a lot like we've made some good progress on the cups you guys um so i think i said that the last stream as well but we've made good progress in the cups i don't know what that means but we're doing pretty well just call jason ask him i'm not gonna call jace on his vacation
 
 
 </details>
@@ -3164,25 +804,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> console do you know what the game will
->
-> actually be released
->
-> 1.0 you mean no um
->
-> we have some theories we have like a
->
-> loosely based
->
-> like timesheet right now but that's
->
-> gonna change 100
->
-> i think it's also a little bit
->
-> optimistic but we don't we won't know
->
-> until we we implement it and try it out
+> console do you know what the game will actually be released 1.0 you mean no um we have some theories we have like a loosely based like timesheet right now but that's gonna change 100 i think it's also a little bit optimistic but we don't we won't know until we we implement it and try it out
 
 
 </details>
@@ -3212,15 +834,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> will it be possible to remove the toxic
->
-> pillars
->
-> uh it would be possible to do something
->
-> with the toxic gas
->
-> in the future
+> will it be possible to remove the toxic pillars uh it would be possible to do something with the toxic gas in the future
 
 
 </details>
@@ -3239,19 +853,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> will it be a piecemeal mode like in
->
-> subnautica yes
->
-> unlike the creative mode i can 100 say
->
-> that we're going to add a peaceful mode
->
-> at some point to the game
->
-> we confirmed it's already confirmed but
->
-> i'm confirming it again
+> will it be a piecemeal mode like in subnautica yes unlike the creative mode i can 100 say that we're going to add a peaceful mode at some point to the game we confirmed it's already confirmed but i'm confirming it again
 
 
 </details>
@@ -3270,49 +872,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> but maybe in the future well there'll be
->
-> more creatures ever the only creature
->
-> we've confirmed so far is the
->
-> big like crab boss that we've shown in
->
-> the e3 trailer
->
-> um that's the only thing that's like
->
-> confirmed that's gonna come to the game
->
-> that we haven't been able to add because
->
-> of the ai pathfinding system doesn't
->
-> support it fully yet
->
-> but in the future yes it's coming we
->
-> were kind of hoping it would come out in
->
-> update three
->
-> um but it didn't make it unfortunately
->
-> and then
->
-> we were kind of hoping it would come out
->
-> of day four crap the crap boss is like
->
-> a dedicated server for us we're like
->
-> yeah we're going to implement this soon
->
-> it's done
->
-> whatever and then just keeps pushing it
->
-> so yeah
+> but maybe in the future well there'll be more creatures ever the only creature we've confirmed so far is the big like crab boss that we've shown in the e3 trailer um that's the only thing that's like confirmed that's gonna come to the game that we haven't been able to add because of the ai pathfinding system doesn't support it fully yet but in the future yes it's coming we were kind of hoping it would come out in update three um but it didn't make it unfortunately and then we were kind of hoping it would come out of day four crap the crap boss is like a dedicated server for us we're like yeah we're going to implement this soon it's done whatever and then just keeps pushing it so yeah
 
 
 </details>
@@ -3348,11 +908,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> will there be planes and helicopters
->
-> there will be no flying vehicles in the
->
-> game
+> will there be planes and helicopters there will be no flying vehicles in the game
 
 
 </details>
@@ -3381,81 +937,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> will there be stories of the game yes
->
-> there will be stories of the game in in
->
-> 1.0 we're going to
->
-> unveil the entire story i've i've talked
->
-> about this many times but
->
-> i'll i'll do a revamp here so the way
->
-> the the way our story is going to be
->
-> implemented is
->
-> um we're not going to go down the route
->
-> that like subnautica did with like
->
-> introducing story segments one one by a
->
-> time like one
->
-> one by one and in early access we'd
->
-> rather do
->
-> the entire story so you can like play
->
-> throughout the entire story
->
-> in one go and you know enjoy that
->
-> story is always going to be kind of like
->
-> not maybe not optional but it's going to
->
-> be something that you don't like you can
->
-> play the game totally without playing
->
-> the story essentially
->
-> so you're not like missing anything by
->
-> playing the game in early access
->
-> right now story-wise so it's gonna make
->
-> sense anyways to to implement it late
->
-> and the story's gonna be really late
->
-> it's gonna be the last thing we add to
->
-> the game
->
-> when we launch it 1.0 um
->
-> but you can still yeah it's not i don't
->
-> think it's going to maybe we'll change
->
-> our minds later down the line but
->
-> currently it's not going to be like a
->
-> mandatory thing that like takes up your
->
-> focus
->
-> to play throughout the game you're going
->
-> to be able to play the game regardless
+> will there be stories of the game yes there will be stories of the game in in 1.0 we're going to unveil the entire story i've i've talked about this many times but i'll i'll do a revamp here so the way the the way our story is going to be implemented is um we're not going to go down the route that like subnautica did with like introducing story segments one one by a time like one one by one and in early access we'd rather do the entire story so you can like play throughout the entire story in one go and you know enjoy that story is always going to be kind of like not maybe not optional but it's going to be something that you don't like you can play the game totally without playing the story essentially so you're not like missing anything by playing the game in early access right now story-wise so it's gonna make sense anyways to to implement it late and the story's gonna be really late it's gonna be the last thing we add to the game when we launch it 1.0 um but you can still yeah it's not i don't think it's going to maybe we'll change our minds later down the line but currently it's not going to be like a mandatory thing that like takes up your focus to play throughout the game you're going to be able to play the game regardless
 
 
 </details>
@@ -3475,13 +957,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> and crash button will we ever use sam or
->
-> yeah samoa is tied to the story stuff
->
-> so samore won't be usable until 1.0
->
-> unfortunately
+> and crash button will we ever use sam or yeah samoa is tied to the story stuff so samore won't be usable until 1.0 unfortunately
 
 
 </details>
@@ -3507,111 +983,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> um any mods you want to add to vanilla
->
-> at some stage i'm sure there are mods
->
-> that
->
-> i'm sure there are things that we
->
-> already thought about that there's a mod
->
-> for currently
->
-> um and um look guys like
->
-> we worked in this game for a long time
->
-> and uh we've had
->
-> the opportunity to think about this game
->
-> a lot so drones for instance was
->
-> something that we've
->
-> like thought about before we we released
->
-> this game okay
->
-> uh and it's been our like backlog since
->
-> then um
->
-> and and and obviously when when there's
->
-> a mod for something that we've like
->
-> thought about but not like released
->
-> that's a good sign that like this is
->
-> probably good feature to implement
->
-> um so
->
-> uh so yeah that be like it do
->
-> lights is another thing lights was
->
-> actually implemented in the game
->
-> uh before it was it was out if you
->
-> remember the stream me and jace did
->
-> where we played the old version of the
->
-> game
->
-> that had lights that version had lights
->
-> so it's been in the game since then and
->
-> and at that point
->
-> lights weren't that good for the game
->
-> they didn't
->
-> run that well um and that's why we
->
-> didn't release the game with lights
->
-> uh but now we're at the point where we
->
-> feel confident with our solution for
->
-> lights there's still
->
-> i think a little bit tweaking left to do
->
-> with the lights but we
->
-> as far as i know i it looks pretty good
->
-> and they work pretty well
->
-> um
->
-> also saw the street lights and the alpha
->
-> screenshots yeah
->
-> and i think i think people also data
->
-> mined
->
-> like the uh the lights out of the game
->
-> uh so you know this was coming okay
->
-> and we knew it was coming and it's it's
->
-> here now
->
-> so good times were had by all
+> um any mods you want to add to vanilla at some stage i'm sure there are mods that i'm sure there are things that we already thought about that there's a mod for currently um and um look guys like we worked in this game for a long time and uh we've had the opportunity to think about this game a lot so drones for instance was something that we've like thought about before we we released this game okay uh and it's been our like backlog since then um and and and obviously when when there's a mod for something that we've like thought about but not like released that's a good sign that like this is probably good feature to implement um so uh so yeah that be like it do lights is another thing lights was actually implemented in the game uh before it was it was out if you remember the stream me and jace did where we played the old version of the game that had lights that version had lights so it's been in the game since then and and at that point lights weren't that good for the game they didn't run that well um and that's why we didn't release the game with lights uh but now we're at the point where we feel confident with our solution for lights there's still i think a little bit tweaking left to do with the lights but we as far as i know i it looks pretty good and they work pretty well um also saw the street lights and the alpha screenshots yeah and i think i think people also data mined like the uh the lights out of the game uh so you know this was coming okay and we knew it was coming and it's it's here now so good times were had by all
 
 
 </details>
@@ -3632,15 +1004,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh any plans to release a map editor
->
-> uh no plans
->
-> that would be cool unfortunately the
->
-> whole map is like baked
->
-> so it's kind of hard to do it
+> uh any plans to release a map editor uh no plans that would be cool unfortunately the whole map is like baked so it's kind of hard to do it
 
 
 </details>
@@ -3665,71 +1029,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> do we have any holiday themed plans in
->
-> the future uh
->
-> no not right now um
->
-> i know we want to do at some point but i
->
-> don't know what we
->
-> this it takes a lot of planning to do it
->
-> so we need to at least like three months
->
-> before we do it we need to know that
->
-> we're doing it
->
-> um so no idea maybe we'll do like uh
->
-> in my head this is my reasoning here you
->
-> guys this isn't
->
-> our this isn't confident reasoning but
->
-> in my head it would make sense
->
-> if we did like a halloween thing this
->
-> year and like do one event every year
->
-> until we're like 1.0 because then you
->
-> get like and then restart the events
->
-> every year
->
-> so you'd get like all the events i mean
->
-> it would be
->
-> for new players there would be a lot of
->
-> new events if they play but for you guys
->
-> it would be the same event essentially
->
-> but
->
-> you'd always get like at least one new
->
-> thing every year uh i think that would
->
-> be cool
->
-> but that's that's my guessing i don't
->
-> think that's actually what we're
->
-> planning for but
->
-> i think i personally i think that would
->
-> be cool we'll see what happens
+> do we have any holiday themed plans in the future uh no not right now um i know we want to do at some point but i don't know what we this it takes a lot of planning to do it so we need to at least like three months before we do it we need to know that we're doing it um so no idea maybe we'll do like uh in my head this is my reasoning here you guys this isn't our this isn't confident reasoning but in my head it would make sense if we did like a halloween thing this year and like do one event every year until we're like 1.0 because then you get like and then restart the events every year so you'd get like all the events i mean it would be for new players there would be a lot of new events if they play but for you guys it would be the same event essentially but you'd always get like at least one new thing every year uh i think that would be cool but that's that's my guessing i don't think that's actually what we're planning for but i think i personally i think that would be cool we'll see what happens
 
 
 </details>
@@ -3747,17 +1047,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> do you have plans for the vip items we
->
-> do uh
->
-> for 1.0 we're gonna add them they're
->
-> they're integrated to the storyline
->
-> um so you'll know what they do once we
->
-> hit 1.0 essentially
+> do you have plans for the vip items we do uh for 1.0 we're gonna add them they're they're integrated to the storyline um so you'll know what they do once we hit 1.0 essentially
 
 
 </details>
@@ -3788,37 +1078,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> i've played an experimental for a while
->
-> and now i can't load my save on previous
->
-> version
->
-> do you have to wait for update for it to
->
-> play it on stable version
->
-> yes this is this is why i'm i i always
->
-> like emphasize on the fact that you have
->
-> to back up your saves because you can't
->
-> go back to a previous version of the
->
-> game
->
-> uh when you when you play you can only
->
-> load save files in a newer version or
->
-> the same version as uh the one you
->
-> played so
->
-> you you you're gonna have to wait until
->
-> it hits early access
+> i've played an experimental for a while and now i can't load my save on previous version do you have to wait for update for it to play it on stable version yes this is this is why i'm i i always like emphasize on the fact that you have to back up your saves because you can't go back to a previous version of the game uh when you when you play you can only load save files in a newer version or the same version as uh the one you played so you you you're gonna have to wait until it hits early access
 
 
 </details>
@@ -3838,129 +1098,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> is it possible to have steam workshop in
->
-> the game uh it's possible but i don't
->
-> know if we're gonna go that down that
->
-> route honestly because
->
-> we have modding that's like on both epic
->
-> and on steam we've had mod modding and
->
-> epic for a long time
->
-> and then we'll be released on steam the
->
-> modders had to like make it so that it
->
-> works on steam as well
->
-> and it's a kind of generic system right
->
-> now with the mod loader
->
-> and if we were to implement you know
->
-> steam workshop or
->
-> stuff like that then we want to support
->
-> that just equally as much on the
->
-> epic side of things and
->
-> if i don't know how that's going to
->
-> affect the ecosystem of mods
->
-> currently um and we feel the way we feel
->
-> is that we love our modding community we
->
-> think they're great uh
->
-> we are constantly amazed by by the work
->
-> that's put in there
->
-> and we don't want to that up we
->
-> don't want to make mods harder
->
-> to make for the modding community and we
->
-> don't want to
->
-> add like extra work to them because
->
-> they're already putting so much work
->
-> into it we wanted to make it seamless
->
-> for the mod creators as well
->
-> so we're in this together you guys um so
->
-> we need to figure out a solution
->
-> that works for everyone uh does that
->
-> mean that we'll use
->
-> mod workshop or epic's version of mod
->
-> whatever it's called i can't remember
->
-> that they released
->
-> um or if we make like an in-game version
->
-> i don't know but we'll certainly we
->
-> certainly care about the monarch
->
-> community currently
->
-> um and we certainly don't want to make
->
-> it harder for them
->
-> uh if anything we want to make it easier
->
-> for them to make mods
->
-> um so that's kind of why
->
-> um why be like that
->
-> with that being said mods no i'm
->
-> just kidding
->
-> cheaters oh we made the game in
->
-> a certain way you just want to
->
-> cheat it out of the way what the
->
-> i can't believe you guys shame shame
->
-> ugh all mods are cheap yeah
->
-> oh we love you guys we love that we are
->
-> we're constantly amazed by the
->
-> the modding community and uh the people
->
-> working on the tools
->
-> that support the modding community
->
-> you guys are the real mep
+> is it possible to have steam workshop in the game uh it's possible but i don't know if we're gonna go that down that route honestly because we have modding that's like on both epic and on steam we've had mod modding and epic for a long time and then we'll be released on steam the modders had to like make it so that it works on steam as well and it's a kind of generic system right now with the mod loader and if we were to implement you know steam workshop or stuff like that then we want to support that just equally as much on the epic side of things and if i don't know how that's going to affect the ecosystem of mods currently um and we feel the way we feel is that we love our modding community we think they're great uh we are constantly amazed by by the work that's put in there and we don't want to that up we don't want to make mods harder to make for the modding community and we don't want to add like extra work to them because they're already putting so much work into it we wanted to make it seamless for the mod creators as well so we're in this together you guys um so we need to figure out a solution that works for everyone uh does that mean that we'll use mod workshop or epic's version of mod whatever it's called i can't remember that they released um or if we make like an in-game version i don't know but we'll certainly we certainly care about the monarch community currently um and we certainly don't want to make it harder for them uh if anything we want to make it easier for them to make mods um so that's kind of why um why be like that with that being said mods no i'm just kidding cheaters oh we made the game in a certain way you just want to cheat it out of the way what the i can't believe you guys shame shame ugh all mods are cheap yeah oh we love you guys we love that we are we're constantly amazed by the the modding community and uh the people working on the tools that support the modding community you guys are the real mep
 
 
 </details>
@@ -3995,25 +1133,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> will the gamespot soundtrack come to
->
-> spotify anytime soon
->
-> uh i don't know anytime soon the reason
->
-> why it hasn't come out yet is because we
->
-> want to finish it
->
-> uh this is there's a bunch of new music
->
-> by the way in the game right now
->
-> uh if you guys didn't know there's like
->
-> an hour of new music music
->
-> so yeah still working on that
+> will the gamespot soundtrack come to spotify anytime soon uh i don't know anytime soon the reason why it hasn't come out yet is because we want to finish it uh this is there's a bunch of new music by the way in the game right now uh if you guys didn't know there's like an hour of new music music so yeah still working on that
 
 
 </details>
@@ -4034,11 +1154,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> will there ever be a limitation to
->
-> floating foundations in the air
->
-> no
+> will there ever be a limitation to floating foundations in the air no
 
 
 </details>
@@ -4057,53 +1173,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> well you had arachnophobia mode that
->
-> isn't actually scarier than spiders
->
-> um no the cats aren't that scary you
->
-> guys
->
-> the spiders are the arachnophobia mode
->
-> is in the game because there's a person
->
-> at coffee stain or used to or whatever
->
-> uh that had arachnophobia
->
-> uh that's something to say yeah however
->
-> uh so they couldn't work on the game
->
-> um that's why we added it there's
->
-> there's a difference between
->
-> irrational fear of something and
->
-> something being scary
->
-> or scarier than something else that's
->
-> why
->
-> rectophobia mode is the way it is
->
-> we don't want to remove the the scary
->
-> factor from spiders we still want them
->
-> to be
->
-> a scary part of the game but when you
->
-> have an irrational fear of something
->
-> that's a different thing
->
-> cataphobia
+> well you had arachnophobia mode that isn't actually scarier than spiders um no the cats aren't that scary you guys the spiders are the arachnophobia mode is in the game because there's a person at coffee stain or used to or whatever uh that had arachnophobia uh that's something to say yeah however uh so they couldn't work on the game um that's why we added it there's there's a difference between irrational fear of something and something being scary or scarier than something else that's why rectophobia mode is the way it is we don't want to remove the the scary factor from spiders we still want them to be a scary part of the game but when you have an irrational fear of something that's a different thing cataphobia
 
 
 </details>
@@ -4153,17 +1223,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> date for update 4 is march 16th
->
-> so next week tuesday it's exactly a week
->
-> from now
->
-> and it should come out at 5 00 pm gmt is
->
-> the goal
->
-> plan
+> date for update 4 is march 16th so next week tuesday it's exactly a week from now and it should come out at 5 00 pm gmt is the goal plan
 
 
 </details>
@@ -4182,39 +1242,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> do you uh guys have plans for any other
->
-> save breaking systems in the future
->
-> i mean it's it's hard to sort of say if
->
-> we have plans to i mean i i don't know
->
-> if we
->
-> plan to but if we need to then we will
->
-> yeah um we try to avoid two but yeah i
->
-> mean like i
->
-> i asked mark this like many months ago
->
-> and from memory he was like
->
-> we don't have any more any plans to do
->
-> it but
->
-> like maybe it'll happen yeah you know
->
-> we are on the quest to get to uh 1.0
->
-> after all you know but you want to
->
-> finish the game
->
-> so
+> do you uh guys have plans for any other save breaking systems in the future i mean it's it's hard to sort of say if we have plans to i mean i i don't know if we plan to but if we need to then we will yeah um we try to avoid two but yeah i mean like i i asked mark this like many months ago and from memory he was like we don't have any more any plans to do it but like maybe it'll happen yeah you know we are on the quest to get to uh 1.0 after all you know but you want to finish the game so
 
 
 </details>
@@ -4234,21 +1262,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> um it was the man cannon an intended
->
-> behavior for hypotubes or a bug i think
->
-> it was a bug but i think we're okay with
->
-> it
->
-> what was the oh you mean the the cannons
->
-> like they just
->
-> launched yourself like that that was not
->
-> intentional
+> um it was the man cannon an intended behavior for hypotubes or a bug i think it was a bug but i think we're okay with it what was the oh you mean the the cannons like they just launched yourself like that that was not intentional
 
 
 </details>
@@ -4267,31 +1281,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh vr support at any time it's not
->
-> really a focus i don't think that's
->
-> gonna happen anytime soon wow i missed a
->
-> lot of comments
->
-> no and yeah i don't think we're gonna
->
-> make it if anything
->
-> uh and i don't think yeah i don't know
->
-> would be cool though it has potential
->
-> but it's like so many
->
-> interaction issues we'd have to solve
->
-> and we don't even have controller
->
-> support
->
-> like a regular controller
+> uh vr support at any time it's not really a focus i don't think that's gonna happen anytime soon wow i missed a lot of comments no and yeah i don't think we're gonna make it if anything uh and i don't think yeah i don't know would be cool though it has potential but it's like so many interaction issues we'd have to solve and we don't even have controller support like a regular controller
 
 
 </details>
@@ -4312,81 +1302,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh how much uh like what percentage of
->
-> the
->
-> update do we know about um what do you
->
-> reckon
->
-> i'm thinking like maybe like 70 or
->
-> something yeah
->
-> they're still like maybe not because
->
-> there's like a lot of
->
-> things i think 70 is a pretty good
->
-> number though because the stuff that we
->
-> haven't
->
-> shown yet isn't like
->
-> there's some pretty amazing things that
->
-> we have yeah they're pretty major but
->
-> they won't like
->
-> you know i guess i'm like still thinking
->
-> about pipes because like pipes
->
-> was a small thing that affected a lot of
->
-> stuff yeah
->
-> where these are like you know more
->
-> things that
->
-> may affect your save file like or your
->
-> factories a lot
->
-> but also maybe not you know what i mean
->
-> but then they add they add a lot of like
->
-> yeah they add a lot of stuff but then
->
-> there's also like a lot of smaller
->
-> things that are coming
->
-> that don't work like a video or
->
-> something you know what i mean yeah
->
-> there's there's there's like oh i don't
->
-> know if i i can say it but there's one
->
-> thing that i discovered when i was
->
-> uh play test and i was like my god why
->
-> hasn't this been in the game until now
->
-> and i'm so happy yeah
->
-> and it's a very tiny thing but it makes
->
-> such a huge difference
+> uh how much uh like what percentage of the update do we know about um what do you reckon i'm thinking like maybe like 70 or something yeah they're still like maybe not because there's like a lot of things i think 70 is a pretty good number though because the stuff that we haven't shown yet isn't like there's some pretty amazing things that we have yeah they're pretty major but they won't like you know i guess i'm like still thinking about pipes because like pipes was a small thing that affected a lot of stuff yeah where these are like you know more things that may affect your save file like or your factories a lot but also maybe not you know what i mean but then they add they add a lot of like yeah they add a lot of stuff but then there's also like a lot of smaller things that are coming that don't work like a video or something you know what i mean yeah there's there's there's like oh i don't know if i i can say it but there's one thing that i discovered when i was uh play test and i was like my god why hasn't this been in the game until now and i'm so happy yeah and it's a very tiny thing but it makes such a huge difference
 
 
 </details>
@@ -4405,17 +1321,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> well there'd be weather in the game like
->
-> rain i don't
->
-> know we we experimented with whether a
->
-> long long time ago and then
->
-> it's been cut i'm not sure if we're
->
-> gonna bring it back or not but
+> well there'd be weather in the game like rain i don't know we we experimented with whether a long long time ago and then it's been cut i'm not sure if we're gonna bring it back or not but
 
 
 </details>
@@ -4439,23 +1345,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> they say yes will the soundtrack be
->
-> expanded before 1.0 i'm pretty sure
->
-> there's still more music that we're
->
-> adding and i think there's
->
-> there's more music in update four wait
->
-> is there
->
-> no i don't remember there's gonna be
->
-> more music for sure in the game but i
->
-> don't remember if it's in update 4.
+> they say yes will the soundtrack be expanded before 1.0 i'm pretty sure there's still more music that we're adding and i think there's there's more music in update four wait is there no i don't remember there's gonna be more music for sure in the game but i don't remember if it's in update 4.
 
 
 </details>
@@ -4481,11 +1371,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> are smart splitters changing in update 4
->
-> and no smart splitters are also staying
->
-> the same
+> are smart splitters changing in update 4 and no smart splitters are also staying the same
 
 
 </details>
@@ -4512,45 +1398,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> how will update 4 changes the lower
->
-> level lines like motors heavy frames etc
->
-> so the
->
-> update 4 will not change anything below
->
-> tier 7. um so all the previous
->
-> stuff will be the same pretty much
->
-> there's going to be some things that
->
-> unlock in earlier uh tiers
->
-> uh but we won't change anything like we
->
-> the thing that we announced is that like
->
-> in tier seven there's some
->
-> production uh line changes that
->
-> breaks your save files currently if you
->
-> already have like production going for
->
-> your bauxite and your
->
-> aluminium and uh battery production i
->
-> think are the ones
->
-> so those will change but the previous
->
-> ones will be unaffected as
->
-> far as i know
+> how will update 4 changes the lower level lines like motors heavy frames etc so the update 4 will not change anything below tier 7. um so all the previous stuff will be the same pretty much there's going to be some things that unlock in earlier uh tiers uh but we won't change anything like we the thing that we announced is that like in tier seven there's some production uh line changes that breaks your save files currently if you already have like production going for your bauxite and your aluminium and uh battery production i think are the ones so those will change but the previous ones will be unaffected as far as i know
 
 
 </details>
@@ -4580,55 +1428,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> um is there a winter zone are we adding
->
-> one
->
-> no we won't add a winter zone we don't
->
-> feel like we don't feel confident enough
->
-> to be able to do
->
-> uh snow proper
->
-> is that really the reason isn't that the
->
-> reason isn't that what we've always said
->
-> like hannah feels like if you want to do
->
-> snow we have to do proper snow like it's
->
-> not going to be like we don't want to do
->
-> half-assed
->
-> and then we don't have time to do
->
-> everything else in the world i guess
->
-> that's that's that's what that's what
->
-> you've said on the previous stream that
->
-> is
->
-> not what i said isn't it no you
->
-> pulled out of your ass
->
-> what if what if you what did what did
->
-> you usually say though because you say
->
-> something
->
-> i just said hannah said no okay that's
->
-> fair enough
->
-> hannah said no hannah said no that's it
+> um is there a winter zone are we adding one no we won't add a winter zone we don't feel like we don't feel confident enough to be able to do uh snow proper is that really the reason isn't that the reason isn't that what we've always said like hannah feels like if you want to do snow we have to do proper snow like it's not going to be like we don't want to do half-assed and then we don't have time to do everything else in the world i guess that's that's that's what that's what you've said on the previous stream that is not what i said isn't it no you pulled out of your ass what if what if you what did what did you usually say though because you say something i just said hannah said no okay that's fair enough hannah said no hannah said no that's it
 
 
 </details>
@@ -4651,65 +1451,11 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh will the new update affect alternate
->
-> recipes
->
-> uh they won't change i think i'm pretty
->
-> sure
->
-> we i i should just ask mark this at this
->
-> point because i i
->
-> we had mark on a few weeks ago and i
->
-> asked this question to him and he said
->
-> hmm and then we're like all right cool
->
-> we got that question answered and then
->
-> since then i
->
-> just blanked out uh so i'm gonna ask him
->
-> i'm gonna send a message to him right
->
-> now just to clarify that but i'm pretty
->
-> sure alternate recipes won't change for
->
-> update four
+> uh will the new update affect alternate recipes uh they won't change i think i'm pretty sure we i i should just ask mark this at this point because i i we had mark on a few weeks ago and i asked this question to him and he said hmm and then we're like all right cool we got that question answered and then since then i just blanked out uh so i'm gonna ask him i'm gonna send a message to him right now just to clarify that but i'm pretty sure alternate recipes won't change for update four
 >
 > [Music]
 >
-> um
->
-> oh yo yo yo yo yo yo yo
->
-> i missed it i made it
->
-> um and uh yeah we won't make any changes
->
-> to diluted fuel either
->
-> i'm pretty sure that i remember i
->
-> remember specifically if we diluted fuel
->
-> that we're not going to change that
->
-> that's still the same
->
-> um but i can't speak for all the
->
-> alternative recipes but that one i'm i'm
->
-> like
->
-> confident all right chase just did
+> um oh yo yo yo yo yo yo yo i missed it i made it um and uh yeah we won't make any changes to diluted fuel either i'm pretty sure that i remember i remember specifically if we diluted fuel that we're not going to change that that's still the same um but i can't speak for all the alternative recipes but that one i'm i'm like confident all right chase just did
 
 
 </details>
@@ -4762,23 +1508,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> yeah yeah how many devs do we have
->
-> somewhere like 30 to 40 or something
->
-> yeah something like that we're we're uh
->
-> still working from home everyone so we
->
-> me and jace we filmed in the office
->
-> last week and there's like three people
->
-> yeah there it's super empty it's a
->
-> really big office
->
-> and like no one there
+> yeah yeah how many devs do we have somewhere like 30 to 40 or something yeah something like that we're we're uh still working from home everyone so we me and jace we filmed in the office last week and there's like three people yeah there it's super empty it's a really big office and like no one there
 
 
 </details>
@@ -4800,43 +1530,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> is your xx12 fully supported now
->
-> hell no
->
-> i'm so sorry i didn't mean to sound so
->
-> derogatory uh
->
-> no the directx 12 thing that we put in
->
-> the experimental build that was just as
->
-> like a test to see how bad it is
->
-> and it was worse than we thought kind of
->
-> um
->
-> i don't know if we will we will ever uh
->
-> support it honestly
->
-> because uh it just didn't work that well
->
-> at all like
->
-> that was kind of why we tested it just
->
-> to see like the potential of it
->
-> and it's not looking great with the
->
-> current way we've made the game
->
-> um so there's a lot of work we need to
->
-> put in to support directx 12.
+> is your xx12 fully supported now hell no i'm so sorry i didn't mean to sound so derogatory uh no the directx 12 thing that we put in the experimental build that was just as like a test to see how bad it is and it was worse than we thought kind of um i don't know if we will we will ever uh support it honestly because uh it just didn't work that well at all like that was kind of why we tested it just to see like the potential of it and it's not looking great with the current way we've made the game um so there's a lot of work we need to put in to support directx 12.
 
 
 </details>
@@ -4854,63 +1548,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> um so are you pack
->
-> packing the update 4 to an engine
->
-> upgrade
->
-> um so yeah
->
-> um the engine upgrade won't go to early
->
-> access before update 4 comes to early
->
-> access
->
-> so we will keep the engine upgrade on
->
-> experimental branch as
->
-> update 4 drops and then we're going to
->
-> keep working on that until we feel that
->
-> they both work and the
->
-> main reason for that is because we there
->
-> were a few like things that got way
->
-> better
->
-> for some people with the engine upgrade
->
-> but some
->
-> larger factory lines and stuff like that
->
-> didn't get better
->
-> um they got worse um so and that's
->
-> annoying we don't want to like push
->
-> the upgrade that can result in some
->
-> people playing in early access getting a
->
-> worse experience we would rather fix
->
-> those issues
->
-> before we do that and we don't have time
->
-> to do that before update 4
->
-> launches so that's why we're doing it
->
-> this way
+> um so are you pack packing the update 4 to an engine upgrade um so yeah um the engine upgrade won't go to early access before update 4 comes to early access so we will keep the engine upgrade on experimental branch as update 4 drops and then we're going to keep working on that until we feel that they both work and the main reason for that is because we there were a few like things that got way better for some people with the engine upgrade but some larger factory lines and stuff like that didn't get better um they got worse um so and that's annoying we don't want to like push the upgrade that can result in some people playing in early access getting a worse experience we would rather fix those issues before we do that and we don't have time to do that before update 4 launches so that's why we're doing it this way
 
 
 </details>
@@ -4930,13 +1568,7 @@ date: Last Modified
 
 > [Music]
 >
-> third person view um
->
-> i don't know we're going to do with that
->
-> good answer chase that's what i think
->
-> about third person view
+> third person view um i don't know we're going to do with that good answer chase that's what i think about third person view
 
 
 </details>
@@ -4957,67 +1589,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> what are the plans to improve
->
-> multiplayer bugs in the future the plans
->
-> are to improve uh
->
-> fix them as they come we are currently
->
-> working on them actually
->
-> this week we've been spending most of
->
-> our time fixing
->
-> client-side issues um that are
->
-> some of them are a product of like a
->
-> result from
->
-> uh the engine upgrade that like should
->
-> work but they don't now for some reason
->
-> uh and some of it does like stuff that's
->
-> been in the game for a while that we're
->
-> finally getting around to fixing
->
-> i can't say exactly what is because i
->
-> i half listen into the programming today
->
-> uh but we are working on multiplayer
->
-> bugs in general right now
->
-> uh maybe not well actually literally
->
-> right now because some people do work
->
-> pretty late what do you post questions
->
-> so you go to our questions website
->
-> which is questions.satisfactorygame.com
->
-> and i just posted a link in chat so you
->
-> can check that out
->
-> linky winky linky winky
->
-> and we are working on train bugs uh
->
-> specifically too
->
-> so hopefully that will be better in
->
-> update for
+> what are the plans to improve multiplayer bugs in the future the plans are to improve uh fix them as they come we are currently working on them actually this week we've been spending most of our time fixing client-side issues um that are some of them are a product of like a result from uh the engine upgrade that like should work but they don't now for some reason uh and some of it does like stuff that's been in the game for a while that we're finally getting around to fixing i can't say exactly what is because i i half listen into the programming today uh but we are working on multiplayer bugs in general right now uh maybe not well actually literally right now because some people do work pretty late what do you post questions so you go to our questions website which is questions.satisfactorygame.com and i just posted a link in chat so you can check that out linky winky linky winky and we are working on train bugs uh specifically too so hopefully that will be better in update for
 
 
 </details>
@@ -5046,33 +1618,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh we'll be able to place holes in walls
->
-> and floors freely
->
-> uh i think that would be cool um i don't
->
-> know what we've
->
-> planned for that yet um i think we want
->
-> to like revamp
->
-> the foundations themselves that's good
->
-> but it would be cool i'll put that on
->
-> the quest inside because i know there's
->
-> there's
->
-> like it's one of the most uploaded ones
->
-> currently uh to be able to pull
->
-> uh elevators through foundations like
->
-> that so make sure to upload it
+> uh we'll be able to place holes in walls and floors freely uh i think that would be cool um i don't know what we've planned for that yet um i think we want to like revamp the foundations themselves that's good but it would be cool i'll put that on the quest inside because i know there's there's like it's one of the most uploaded ones currently uh to be able to pull uh elevators through foundations like that so make sure to upload it
 
 
 </details>
@@ -5092,87 +1638,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> they each have 13 kids uh all right
->
-> let's get back to some q a will you be
->
-> able to play the story on existence save
->
-> when 1.0 comes out uh
->
-> yes to like we always want you to be
->
-> able to load your save files now there
->
-> might be cases where
->
-> we've made game changes that affect your
->
-> factory lines which is going to happen
->
-> in update four for instance in tier
->
-> seven
->
-> with uh some of the what is it the
->
-> bauxite line and the
->
-> uh bauxite aluminum
->
-> there's two more i can't remember
->
-> nuclear something whatever there's some
->
-> changes to the the production lines
->
-> there and um
->
-> your safe i will load and you'll be able
->
-> to like run around in your factory but
->
-> maybe your factory will break because
->
-> like the
->
-> the the lines don't produce the amount
->
-> of or the recipes that change and stuff
->
-> like that
->
-> so we're pretty confident that you'll
->
-> always be able to load your save files
->
-> to some degree but
->
-> you might need to refactor some of it
->
-> and i guess that kind of goes
->
-> with the story as well like at this
->
-> point we don't know for sure i think
->
-> um to what degree this how
->
-> the story will be intact you know if you
->
-> play
->
-> if you load an old save yeah it's a
->
-> little too soon for us to to know
->
-> and to issue some kind of warning or
->
-> you know pro tips or whatever like give
->
-> you suggestions mark's 10 tips just like
->
-> last time
+> they each have 13 kids uh all right let's get back to some q a will you be able to play the story on existence save when 1.0 comes out uh yes to like we always want you to be able to load your save files now there might be cases where we've made game changes that affect your factory lines which is going to happen in update four for instance in tier seven with uh some of the what is it the bauxite line and the uh bauxite aluminum there's two more i can't remember nuclear something whatever there's some changes to the the production lines there and um your safe i will load and you'll be able to like run around in your factory but maybe your factory will break because like the the the lines don't produce the amount of or the recipes that change and stuff like that so we're pretty confident that you'll always be able to load your save files to some degree but you might need to refactor some of it and i guess that kind of goes with the story as well like at this point we don't know for sure i think um to what degree this how the story will be intact you know if you play if you load an old save yeah it's a little too soon for us to to know and to issue some kind of warning or you know pro tips or whatever like give you suggestions mark's 10 tips just like last time
 
 
 </details>
@@ -5191,9 +1657,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> and any npcs in the game
->
-> i don't think that white wilson says
+> and any npcs in the game i don't think that white wilson says
 
 
 </details>
@@ -5213,55 +1677,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> are there changes planned for geothermal
->
-> they seem relatively undervalued
->
-> yeah they sort of are um they might they
->
-> might get a change in the future
->
-> obviously you have to wait and see it's
->
-> hard to sort of answer questions about
->
-> like that because
->
-> you know like
->
-> i it depends what constitutes a plan you
->
-> know because we have many plans
->
-> many things in the backlog and it's like
->
-> i don't know if that's like
->
-> i don't i don't even answer the
->
-> questions like that
->
-> we have many plans but we also don't
->
-> like necessarily know what plants we're
->
-> gonna execute on yeah
->
-> yeah exactly exactly that's what i'm
->
-> trying to say here yeah
->
-> this is a lot of cool there's a lot of
->
-> ideas that would be cool
->
-> but like are we gonna actually do it
->
-> though like
->
-> that's it's hard to know whoa this got
->
-> really trippy
+> are there changes planned for geothermal they seem relatively undervalued yeah they sort of are um they might they might get a change in the future obviously you have to wait and see it's hard to sort of answer questions about like that because you know like i it depends what constitutes a plan you know because we have many plans many things in the backlog and it's like i don't know if that's like i don't i don't even answer the questions like that we have many plans but we also don't like necessarily know what plants we're gonna execute on yeah yeah exactly exactly that's what i'm trying to say here yeah this is a lot of cool there's a lot of ideas that would be cool but like are we gonna actually do it though like that's it's hard to know whoa this got really trippy
 
 
 </details>
@@ -5279,79 +1695,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> are there limited lizard doggers on the
->
-> map i don't know are there limited ones
->
-> um the way they work is like they have a
->
-> spawn
->
-> thingamajig and it's like random how
->
-> many can spawn
->
-> at each spawn point or something uh and
->
-> i don't know if this is how it works but
->
-> i think it's like if you spawn one
->
-> lizard doggo then it won't spawn another
->
-> one until that one dies or something
->
-> like that so
->
-> if there's a spawn point where there
->
-> potentially could spawn two lizard
->
-> doggos the other one won't spawn until
->
-> one of them dies or something like that
->
-> so technically they're gonna start
->
-> murdering
->
-> the doggers to get it more favorable no
->
-> no i am i'm down for that i am
->
-> i i can
->
-> i can get send their corpses to me yeah
->
-> yeah i'll i'll pile on them
->
-> uh so technically i guess there's a
->
-> limited amount of this
->
-> list of doggos i think if i understood
->
-> the system correctly the way it was
->
-> described to me
->
-> um
->
-> i found a spot there was like five
->
-> lizard dragons there's a there's a
->
-> secret cave
->
-> with a bunch of lizard doggos that's
->
-> called the lizard doggo cave
->
-> um so if you find that
->
-> happy times let the slaughtering
->
-> commence
+> are there limited lizard doggers on the map i don't know are there limited ones um the way they work is like they have a spawn thingamajig and it's like random how many can spawn at each spawn point or something uh and i don't know if this is how it works but i think it's like if you spawn one lizard doggo then it won't spawn another one until that one dies or something like that so if there's a spawn point where there potentially could spawn two lizard doggos the other one won't spawn until one of them dies or something like that so technically they're gonna start murdering the doggers to get it more favorable no no i am i'm down for that i am i i can i can get send their corpses to me yeah yeah i'll i'll pile on them uh so technically i guess there's a limited amount of this list of doggos i think if i understood the system correctly the way it was described to me um i found a spot there was like five lizard dragons there's a there's a secret cave with a bunch of lizard doggos that's called the lizard doggo cave um so if you find that happy times let the slaughtering commence
 
 
 </details>
@@ -5369,55 +1713,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> does obscuring belts actually help with
->
-> performance
->
-> uh it kind of depends um
->
-> we have tested it and you do get a
->
-> little bit of gain
->
-> i think um the thing you sacrifice
->
-> when you obscure the items is like
->
-> clarence uh sorry not clearance um
->
-> clarence clarence like uh what's the
->
-> word like the
->
-> it becomes less clear what's going on
->
-> like uh it's harder to play the game
->
-> so while you gain a little bit of
->
-> performance it makes the game a little
->
-> bit harder to play
->
-> so we've thought of like adding
->
-> something for people that need it or
->
-> want it or something like that where you
->
-> can like optionally do it
->
-> i don't know if that's when that's gonna
->
-> happen or if it's gonna happen or if
->
-> it's just like a prototyping thing we
->
-> did and just feel like nah
->
-> it wasn't good but we have tried that at
->
-> least
+> does obscuring belts actually help with performance uh it kind of depends um we have tested it and you do get a little bit of gain i think um the thing you sacrifice when you obscure the items is like clarence uh sorry not clearance um clarence clarence like uh what's the word like the it becomes less clear what's going on like uh it's harder to play the game so while you gain a little bit of performance it makes the game a little bit harder to play so we've thought of like adding something for people that need it or want it or something like that where you can like optionally do it i don't know if that's when that's gonna happen or if it's gonna happen or if it's just like a prototyping thing we did and just feel like nah it wasn't good but we have tried that at least
 
 
 </details>
@@ -5437,39 +1733,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> oh oops uh is the game going to have a
->
-> big story it's going to have a story
->
-> and you can finish the game um but like
->
-> i mean what what's a big story i don't
->
-> know it depends on what you think but
->
-> uh the story will will always be sort of
->
-> like supplemental to the game right
->
-> because the the main point of the game
->
-> is to build factory and stuff so
->
-> if you don't really want to do the story
->
-> stuff the way we're going to make it is
->
-> that um
->
-> you know you don't really have to if you
->
-> don't want to but but there'll be a
->
-> story for those who want to
->
-> chase it and follow the narrative and
->
-> finish the game
+> oh oops uh is the game going to have a big story it's going to have a story and you can finish the game um but like i mean what what's a big story i don't know it depends on what you think but uh the story will will always be sort of like supplemental to the game right because the the main point of the game is to build factory and stuff so if you don't really want to do the story stuff the way we're going to make it is that um you know you don't really have to if you don't want to but but there'll be a story for those who want to chase it and follow the narrative and finish the game
 
 
 </details>
@@ -5499,17 +1763,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> what engine do you use if not engine one
->
-> programming languages we use our unreal
->
-> engine
->
-> and in it we use uh c plus and also the
->
-> blueprints
->
-> the blueprints
+> what engine do you use if not engine one programming languages we use our unreal engine and in it we use uh c plus and also the blueprints the blueprints
 
 
 </details>
@@ -5528,17 +1782,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> what is the soundtrack going to be on
->
-> mac no idea no idea uh hopefully one day
->
-> we can get to
->
-> other um os's and uh you know and maybe
->
-> even console one day but right now we
->
-> don't have a plan for that
+> what is the soundtrack going to be on mac no idea no idea uh hopefully one day we can get to other um os's and uh you know and maybe even console one day but right now we don't have a plan for that
 
 
 </details>
@@ -5557,59 +1801,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> vernaculon will achievements ever be
->
-> created they will be
->
-> they will be uh there will be
->
-> achievements for the game but we don't
->
-> want to do them too soon we're probably
->
-> going to do them with 1.0 or something
->
-> like that
->
-> we don't want to do them too soon
->
-> because we wanted to
->
-> you know we didn't want to we didn't
->
-> want to like when thinking about
->
-> how we want to rebalance the game or
->
-> something like that we don't want to
->
-> think about oh but we don't want to
->
-> break the achievements that we have or
->
-> the achievements we already have need to
->
-> continue to exist and be balanced
->
-> correctly and have that affect the
->
-> game's design and direction that doesn't
->
-> make much sense
->
-> so we're we're kind of just waiting
->
-> until uh uh the game is
->
-> you know in in a place where it makes
->
-> sense to uh create the g
->
-> uh achievements like good achievements
->
-> that will um okay so it makes sense
->
-> forever
+> vernaculon will achievements ever be created they will be they will be uh there will be achievements for the game but we don't want to do them too soon we're probably going to do them with 1.0 or something like that we don't want to do them too soon because we wanted to you know we didn't want to we didn't want to like when thinking about how we want to rebalance the game or something like that we don't want to think about oh but we don't want to break the achievements that we have or the achievements we already have need to continue to exist and be balanced correctly and have that affect the game's design and direction that doesn't make much sense so we're we're kind of just waiting until uh uh the game is you know in in a place where it makes sense to uh create the g uh achievements like good achievements that will um okay so it makes sense forever
 
 
 </details>
@@ -5631,11 +1823,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> um any plans for smart mergers yet
->
-> i don't know i don't know i don't think
->
-> so at all
+> um any plans for smart mergers yet i don't know i don't know i don't think so at all
 
 
 </details>
@@ -5655,33 +1843,11 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> any plans to improve the visual part of
->
-> building in the game like more walls
->
-> different foundation designs
->
-> uh yeah there's there's a few things
->
-> like in terms of cosmetics there are a
->
-> bunch of ideas that we want to do
->
-> um
+> any plans to improve the visual part of building in the game like more walls different foundation designs uh yeah there's there's a few things like in terms of cosmetics there are a bunch of ideas that we want to do um
 >
 > [Music]
 >
-> i know that some of the artists are have
->
-> like a bunch of ideas of cosmetics and
->
-> like
->
-> stuff to put on the walls and stuff like
->
-> that that they want to do um
->
-> but don't know when that will come
+> i know that some of the artists are have like a bunch of ideas of cosmetics and like stuff to put on the walls and stuff like that that they want to do um but don't know when that will come
 
 
 </details>
@@ -5699,57 +1865,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> yeah uh do you have any plans to add ray
->
-> tracing or dlss we don't really have
->
-> plans for retracing at the moment
->
-> um there's yeah i guess the the team
->
-> doesn't find it to be
->
-> as important as other things um right
->
-> now so
->
-> there's no plan you know it could be a
->
-> thing but right now there's like more
->
-> important things especially when it
->
-> comes to uh
->
-> optimization yeah it doesn't really add
->
-> anything new to the game so to speak
->
-> it just yeah it just helps out some
->
-> people who have the hardware
->
-> yeah uh apparently we don't support
->
-> everyone else and currently we don't
->
-> support directx 12 which we have to
->
-> to be able to use the lss right and
->
-> there is an experimental
->
-> directx 12 on the experimental brand
->
-> yeah right now but that doesn't we're
->
-> trying it
->
-> you're testing it and it doesn't mean a
->
-> promise yeah
->
-> yeah so
+> yeah uh do you have any plans to add ray tracing or dlss we don't really have plans for retracing at the moment um there's yeah i guess the the team doesn't find it to be as important as other things um right now so there's no plan you know it could be a thing but right now there's like more important things especially when it comes to uh optimization yeah it doesn't really add anything new to the game so to speak it just yeah it just helps out some people who have the hardware yeah uh apparently we don't support everyone else and currently we don't support directx 12 which we have to to be able to use the lss right and there is an experimental directx 12 on the experimental brand yeah right now but that doesn't we're trying it you're testing it and it doesn't mean a promise yeah yeah so
 
 
 </details>
@@ -5776,23 +1892,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> this is dog a plushie that's something
->
-> that
->
-> i just formed nothing yeah what about
->
-> the lucifer though
->
-> um yeah so this is actually the
->
-> discussion that's
->
-> going on with with behind the scenes and
->
-> what we're trying to figure out they'll
->
-> be dog
+> this is dog a plushie that's something that i just formed nothing yeah what about the lucifer though um yeah so this is actually the discussion that's going on with with behind the scenes and what we're trying to figure out they'll be dog
 
 
 </details>
@@ -5813,15 +1913,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> what operating system will dedicated
->
-> service be i i actually don't really
->
-> know i mean i guess it's going to be
->
-> windows and i think it's possibly going
->
-> to be on linux i'm not sure
+> what operating system will dedicated service be i i actually don't really know i mean i guess it's going to be windows and i think it's possibly going to be on linux i'm not sure
 
 
 </details>
@@ -5839,9 +1931,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> verse i
->
-> 야아 암
+> verse i 야아 암
 
 
 </details>
@@ -5874,25 +1964,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> improvements in vehicles next update i
->
-> don't know maybe a little bit in
->
-> multiplayer in terms of lag
->
-> for update 4 not an experimental uh
->
-> right now but
->
-> maybe i'm not quite sure exactly like
->
-> because we haven't fully tested it
->
-> fully fully so yeah we don't know how
->
-> much of an improvement it actually was
->
-> but we have done something i think
+> improvements in vehicles next update i don't know maybe a little bit in multiplayer in terms of lag for update 4 not an experimental uh right now but maybe i'm not quite sure exactly like because we haven't fully tested it fully fully so yeah we don't know how much of an improvement it actually was but we have done something i think
 
 
 </details>
@@ -5911,35 +1983,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> kfc console exclusive well
->
-> we're not assuming yeah we'll see we'll
->
-> see we're in talks all right we legally
->
-> can't speak too much we're talking to
->
-> the colonel yeah
->
-> we we're like walking to the border but
->
-> he's sitting at the end of the table of
->
-> like this just like yeah
->
-> yeah i see boys i say i do say i say
->
-> boss
->
-> i do a lot i don't like that uh fashion
->
-> factory game would put that on a console
->
-> that's my best
->
-> kernel impression very good impression
->
-> yeah
+> kfc console exclusive well we're not assuming yeah we'll see we'll see we're in talks all right we legally can't speak too much we're talking to the colonel yeah we we're like walking to the border but he's sitting at the end of the table of like this just like yeah yeah i see boys i say i do say i say boss i do a lot i don't like that uh fashion factory game would put that on a console that's my best kernel impression very good impression yeah
 
 
 </details>
@@ -5969,55 +2013,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> any plans for deterioration or
->
-> maintenance mechanics for buildings i i
->
-> don't think so i don't think that uh no
->
-> there is no plans but i don't think
->
-> there will be plans for that either
->
-> like um i
->
-> don't think we want people who have
->
-> spent
->
-> you know some factories are so big can
->
-> you imagine having to run around and
->
-> like
->
-> make sure they're at a hundred percent
->
-> like
->
-> i think that's probably gonna take away
->
-> from the game a little bit too much be a
->
-> little too distracting
->
-> i don't think so but i don't know you
->
-> know i'm just the community manager
->
-> director man you can always make
->
-> suggestions though
->
-> you can make suggestions on our qa site
->
-> questions satisfactorygame.com
->
-> and other people in the company will
->
-> read it so you can you can definitely do
->
-> that
+> any plans for deterioration or maintenance mechanics for buildings i i don't think so i don't think that uh no there is no plans but i don't think there will be plans for that either like um i don't think we want people who have spent you know some factories are so big can you imagine having to run around and like make sure they're at a hundred percent like i think that's probably gonna take away from the game a little bit too much be a little too distracting i don't think so but i don't know you know i'm just the community manager director man you can always make suggestions though you can make suggestions on our qa site questions satisfactorygame.com and other people in the company will read it so you can you can definitely do that
 
 
 </details>
@@ -6036,19 +2032,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> battle royale mode soon soon
->
-> it's like survival aspects no that's not
->
-> the kind of game we're trying to make
->
-> battle royale
->
-> hold yep okay coming soon update four
->
-> battle royale for sure for sure hold my
->
-> phone
+> battle royale mode soon soon it's like survival aspects no that's not the kind of game we're trying to make battle royale hold yep okay coming soon update four battle royale for sure for sure hold my phone
 
 
 </details>
@@ -6069,53 +2053,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> that yeah does the dev team have
->
-> any ideas for post uh launch content we
->
-> have a lot of ideas
->
-> uh for content that will come either
->
-> before launch or after launch whatever
->
-> uh but we just haven't planned yet when
->
-> it's gonna be
->
-> um but there is definitely some stuff
->
-> that we think that we
->
-> want that the game needs but doesn't
->
-> need for 1.0 so then it could come after
->
-> 1.0
->
-> so i think there's a um i'm pretty sure
->
-> i can't say for sure that we will be
->
-> adding post launch content
->
-> but i i personally my guess my money is
->
-> on we will
->
-> i'm pretty sure we will and uh and we
->
-> have some ideas of what that would be
->
-> but i can't tell you for sure we're
->
-> gonna do it because like i don't know
->
-> what if we don't do it then i just like
->
-> lied to you
->
-> but i i'm pretty sure it's gonna happen
+> that yeah does the dev team have any ideas for post uh launch content we have a lot of ideas uh for content that will come either before launch or after launch whatever uh but we just haven't planned yet when it's gonna be um but there is definitely some stuff that we think that we want that the game needs but doesn't need for 1.0 so then it could come after 1.0 so i think there's a um i'm pretty sure i can't say for sure that we will be adding post launch content but i i personally my guess my money is on we will i'm pretty sure we will and uh and we have some ideas of what that would be but i can't tell you for sure we're gonna do it because like i don't know what if we don't do it then i just like lied to you but i i'm pretty sure it's gonna happen
 
 
 </details>
@@ -6158,27 +2096,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> ế quá trình Android free Have you ever
->
-> tried to Vietnamese companies in the
->
-> Vietnamese
->
-> I thought the method has made for you
->
-> will make all Together the fish in your
->
-> performance in brother and your
->
-> performance to city of what a lovely
->
-> Heart ramires implemented to hurt me
->
-> warm in the way of doing things must use
->
-> International or replace live preview
->
-> wtw avent Natural face when you
+> ế quá trình Android free Have you ever tried to Vietnamese companies in the Vietnamese I thought the method has made for you will make all Together the fish in your performance in brother and your performance to city of what a lovely Heart ramires implemented to hurt me warm in the way of doing things must use International or replace live preview wtw avent Natural face when you
 
 
 </details>
@@ -6201,27 +2119,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> okay let's move on uh will you guys
->
-> eventually add survival elements like
->
-> hunger and thirst no i don't think so i
->
-> don't think that's gonna come to the
->
-> game
->
-> it's not part of uh the kind of game we
->
-> want to make um so
->
-> you know it can you know that could
->
-> change but i don't think so it seems
->
-> like
->
-> we're pretty set on that
+> okay let's move on uh will you guys eventually add survival elements like hunger and thirst no i don't think so i don't think that's gonna come to the game it's not part of uh the kind of game we want to make um so you know it can you know that could change but i don't think so it seems like we're pretty set on that
 
 
 </details>
@@ -6252,29 +2150,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> any plans to revisit the to-do list for
->
-> quality of life pass
->
-> um i would say if there's anything
->
-> specifically that you think we should
->
-> change with that make sure to post it on
->
-> our questions site
->
-> at questions.satisfactory.com um
->
-> and i think that's the best way to
->
-> answer that question really is if
->
-> there's something specific that you want
->
-> to change i don't know of any
->
-> specific plans um so yeah
+> any plans to revisit the to-do list for quality of life pass um i would say if there's anything specifically that you think we should change with that make sure to post it on our questions site at questions.satisfactory.com um and i think that's the best way to answer that question really is if there's something specific that you want to change i don't know of any specific plans um so yeah
 
 
 </details>
@@ -6292,21 +2168,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh can more people ride the same train
->
-> soon um good question we don't have
->
-> plans for that right now but maybe
->
-> if you chuck it on the question site
->
-> maybe we will take that into
->
-> consideration you can't even write two
->
-> people in the same
->
-> vehicle at all anywhere so
+> uh can more people ride the same train soon um good question we don't have plans for that right now but maybe if you chuck it on the question site maybe we will take that into consideration you can't even write two people in the same vehicle at all anywhere so
 
 
 </details>
@@ -6326,21 +2188,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh can we get a packager that has
->
-> outputs
->
-> not stacked oh that's a good that's an
->
-> interesting question
->
-> uh drop a comment on that on the
->
-> questions site
->
-> uh
->
-> questions outside of factory.com
+> uh can we get a packager that has outputs not stacked oh that's a good that's an interesting question uh drop a comment on that on the questions site uh questions outside of factory.com
 
 
 </details>
@@ -6359,23 +2207,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> um how are possible are dedicated
->
-> service in the next updates like
->
-> um i don't know but it's possible that
->
-> the lag that you're experiencing right
->
-> now that might
->
-> significantly improve with this engine
->
-> upgrade um
->
-> i guess we'll have to find out if you
->
-> know what i mean
+> um how are possible are dedicated service in the next updates like um i don't know but it's possible that the lag that you're experiencing right now that might significantly improve with this engine upgrade um i guess we'll have to find out if you know what i mean
 
 
 </details>
@@ -6396,215 +2228,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> mass foundation creation um
->
-> mark talked about this a while ago like
->
-> before holiday vacation
->
-> um where we
->
-> oh maybe this was a video that jace put
->
-> out but we talked about
->
-> essentially that we are kind of
->
-> considering you know doing some kind of
->
-> um not blueprints but like
->
-> some kind of similar system or or
->
-> something that makes sense in our game
->
-> we don't think that blueprints
->
-> by like the way the blueprints are like
->
-> implemented in other games like factorio
->
-> we don't think that makes sense in our
->
-> game but we are looking into
->
-> you know some kind of similar system to
->
-> that
->
-> to make late game building more
->
-> enjoyable
->
-> as you as you may know we're still done
->
-> not done with the game there's still a
->
-> lot of stuff to do with it and a lot of
->
-> people
->
-> you know think it's tedious when you
->
-> reach the end game to not be able to
->
-> like
->
-> you know mass build and stuff like that
->
-> and we we take that into
->
-> consideration uh part of the game part
->
-> of what makes this game fun too
->
-> is like there's two problems math mass
->
-> building
->
-> uh there's one where the object
->
-> constraint limit with the engine
->
-> that makes if if we enable more people
->
-> to build bigger things then they're
->
-> gonna run into
->
-> that wall much quicker that's one
->
-> problem the other problem is that
->
-> um a lot of aspects as to what makes the
->
-> game fun
->
-> is the fact that you are you know this
->
-> pioneer
->
-> and you're hand selecting stuff and
->
-> building stuff
->
-> building up this everything by yourself
->
-> and like these huge
->
-> huge bases are really achievements from
->
-> our players
->
-> doing all that stuff and uh it's it's
->
-> scary to remove
->
-> that aspect of the game because that can
->
-> really like optimize out the fun another
->
-> game
->
-> but we know that it's pretty tedious for
->
-> a lot of people to do that stuff so we
->
-> are
->
-> looking into ways to improve it but i
->
-> don't know
->
-> right now what our intentions are um
->
-> but when we hear you like it's it's not
->
-> a it's not like a
->
-> yeah we hear you guys
->
-> uh and i can't mention i can mention
->
-> somebody mentioned like the
->
-> the mods that exist we have looked at
->
-> the mods and we don't really like the
->
-> solution
->
-> um that mods have made
->
-> um because we feel like like i said
->
-> before it really optimized like the mods
->
-> the way they are built right now they
->
-> optimize out the fun out of the game for
->
-> us
->
-> um the way we perceive it and also like
->
-> i know a lot of people gonna be like no
->
-> but a lot of people download the mods
->
-> but
->
-> our core game player base do not
->
-> download those mods um
->
-> so it's it's a it's a shitty answer but
->
-> uh
->
-> yeah it's it's like there's always that
->
-> case when you know we have our opinions
->
-> of what we don't want to do with the
->
-> game and what we think are best for the
->
-> game
->
-> and then you know you guys definitely
->
-> have good suggestions too it's not that
->
-> we're saying like
->
-> our no our mega brains are we're much
->
-> since like our mega brains have the
->
-> right answers
->
-> and like this is how a game is supposed
->
-> to be uh
->
-> every design decision affects a lot of
->
-> the game
->
-> and uh it's it's um
->
-> it's really tricky it's really tricky so
->
-> that's why we're a bit hesitant to just
->
-> like throw in
->
-> you know multi build modes and stuff
->
-> like that
->
-> so yeah
+> mass foundation creation um mark talked about this a while ago like before holiday vacation um where we oh maybe this was a video that jace put out but we talked about essentially that we are kind of considering you know doing some kind of um not blueprints but like some kind of similar system or or something that makes sense in our game we don't think that blueprints by like the way the blueprints are like implemented in other games like factorio we don't think that makes sense in our game but we are looking into you know some kind of similar system to that to make late game building more enjoyable as you as you may know we're still done not done with the game there's still a lot of stuff to do with it and a lot of people you know think it's tedious when you reach the end game to not be able to like you know mass build and stuff like that and we we take that into consideration uh part of the game part of what makes this game fun too is like there's two problems math mass building uh there's one where the object constraint limit with the engine that makes if if we enable more people to build bigger things then they're gonna run into that wall much quicker that's one problem the other problem is that um a lot of aspects as to what makes the game fun is the fact that you are you know this pioneer and you're hand selecting stuff and building stuff building up this everything by yourself and like these huge huge bases are really achievements from our players doing all that stuff and uh it's it's scary to remove that aspect of the game because that can really like optimize out the fun another game but we know that it's pretty tedious for a lot of people to do that stuff so we are looking into ways to improve it but i don't know right now what our intentions are um but when we hear you like it's it's not a it's not like a yeah we hear you guys uh and i can't mention i can mention somebody mentioned like the the mods that exist we have looked at the mods and we don't really like the solution um that mods have made um because we feel like like i said before it really optimized like the mods the way they are built right now they optimize out the fun out of the game for us um the way we perceive it and also like i know a lot of people gonna be like no but a lot of people download the mods but our core game player base do not download those mods um so it's it's a it's a shitty answer but uh yeah it's it's like there's always that case when you know we have our opinions of what we don't want to do with the game and what we think are best for the game and then you know you guys definitely have good suggestions too it's not that we're saying like our no our mega brains are we're much since like our mega brains have the right answers and like this is how a game is supposed to be uh every design decision affects a lot of the game and uh it's it's um it's really tricky it's really tricky so that's why we're a bit hesitant to just like throw in you know multi build modes and stuff like that so yeah
 
 
 </details>
@@ -6624,13 +2248,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> underwater biomes same thing we're not
->
-> going to add any new biomes
->
-> we're going to improve the biomes we
->
-> have because the biomes aren't done
+> underwater biomes same thing we're not going to add any new biomes we're going to improve the biomes we have because the biomes aren't done
 
 
 </details>
@@ -6649,69 +2267,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> let's see will there be ways to see your
->
-> total production
->
-> um per minute blah blah blah or maybe
->
-> achievements we're getting certain
->
-> production rates
->
-> that's something what we've i'm pretty
->
-> sure we've said that that's going to
->
-> happen
->
-> i'm not i'm not i'm sure we've said that
->
-> but i'm not sure if we said that you
->
-> know what i mean
->
-> uh there we want some way to be able to
->
-> manage
->
-> to to view that i don't know exactly how
->
-> we would do that but there is some
->
-> intention
->
-> from our part to like make it possible
->
-> for you to be able to see how
->
-> performant your factory is essentially
->
-> but i don't know exactly how that will
->
-> work
->
-> and we've seen like the mods that are
->
-> where
->
-> like you have you're using like the
->
-> object scanner to like look at the
->
-> the belts and stuff like that um
->
-> we've seen that and and we're gonna like
->
-> yeah we have some ideas i don't know
->
-> exactly what we've
->
-> uh committed to but eventually i don't
->
-> think it's gonna be up for
->
-> four but maybe in the future
+> let's see will there be ways to see your total production um per minute blah blah blah or maybe achievements we're getting certain production rates that's something what we've i'm pretty sure we've said that that's going to happen i'm not i'm not i'm sure we've said that but i'm not sure if we said that you know what i mean uh there we want some way to be able to manage to to view that i don't know exactly how we would do that but there is some intention from our part to like make it possible for you to be able to see how performant your factory is essentially but i don't know exactly how that will work and we've seen like the mods that are where like you have you're using like the object scanner to like look at the the belts and stuff like that um we've seen that and and we're gonna like yeah we have some ideas i don't know exactly what we've uh committed to but eventually i don't think it's gonna be up for four but maybe in the future
 
 
 </details>
@@ -6733,71 +2289,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> here oh boy cpu multicore the game is
->
-> already multicore
->
-> um we can probably improve it a little
->
-> bit
->
-> but to my knowledge that there's a the
->
-> way the game is made
->
-> it makes it really difficult to like
->
-> make it more multi-threaded than it
->
-> already is
->
-> yeah i think there are some changes
->
-> coming in the if i remember correctly
->
-> based on the engine upgrade video which
->
-> i'll share
->
-> one more time i think i think there's
->
-> going to be
->
-> something that will improve it a bit um
->
-> but isn't there the instancing can be
->
-> yeah i think that will actually improve
->
-> some yeah
->
-> but that's for that will make rendering
->
-> better or is that
->
-> i think it was cpu because i think it
->
-> had something to do with the conveyor
->
-> uh oh it might be the driver
->
-> or something or multi i don't remember
->
-> no something else okay
->
-> so check that video out yeah here's the
->
-> engine upgrade video i think there was
->
-> something about that
->
-> in here oh no i put the time stamped one
->
-> just don't
->
-> go oh no don't look at it in 14 seconds
->
-> embarrassing
+> here oh boy cpu multicore the game is already multicore um we can probably improve it a little bit but to my knowledge that there's a the way the game is made it makes it really difficult to like make it more multi-threaded than it already is yeah i think there are some changes coming in the if i remember correctly based on the engine upgrade video which i'll share one more time i think i think there's going to be something that will improve it a bit um but isn't there the instancing can be yeah i think that will actually improve some yeah but that's for that will make rendering better or is that i think it was cpu because i think it had something to do with the conveyor uh oh it might be the driver or something or multi i don't remember no something else okay so check that video out yeah here's the engine upgrade video i think there was something about that in here oh no i put the time stamped one just don't go oh no don't look at it in 14 seconds embarrassing
 
 
 </details>
@@ -6815,73 +2307,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> right here
->
-> uh now that you guys have a big boy
->
-> obviously are you planning on hiring
->
-> uh a lot more people to fill it out
->
-> actually i think we just stopped hiring
->
-> yeah um and so we got some extra people
->
-> i i
->
-> the plan is not to fill it out um if you
->
-> grow it like growing a dev studio
->
-> the bigger it gets the harder it is to
->
-> do anything so you kind of want to get
->
-> you need to find a really good balance
->
-> between the number of people you have
->
-> and what you're outputting and so so
->
-> like just filling it out because we have
->
-> the space
->
-> and i suppose we probably may i don't
->
-> know mate let's just say hypothetically
->
-> we had the money for it as well
->
-> is not automatically a good thing to do
->
-> so um
->
-> yeah but at this at this point point i
->
-> don't really know what the plan is but
->
-> from what i understand we're kind of
->
-> done hiring for a little while yeah as
->
-> far as i know too
->
-> i think we uh the feeling i'll this is
->
-> my take on it but it feels like coffee
->
-> also has like more like a long-term
->
-> thinking so we don't
->
-> even if we could have like 60 people
->
-> right now we wouldn't
->
-> do it because it wouldn't make sense for
->
-> us yeah
+> right here uh now that you guys have a big boy obviously are you planning on hiring uh a lot more people to fill it out actually i think we just stopped hiring yeah um and so we got some extra people i i the plan is not to fill it out um if you grow it like growing a dev studio the bigger it gets the harder it is to do anything so you kind of want to get you need to find a really good balance between the number of people you have and what you're outputting and so so like just filling it out because we have the space and i suppose we probably may i don't know mate let's just say hypothetically we had the money for it as well is not automatically a good thing to do so um yeah but at this at this point point i don't really know what the plan is but from what i understand we're kind of done hiring for a little while yeah as far as i know too i think we uh the feeling i'll this is my take on it but it feels like coffee also has like more like a long-term thinking so we don't even if we could have like 60 people right now we wouldn't do it because it wouldn't make sense for us yeah
 
 
 </details>
@@ -6902,23 +2328,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> slash pickup when will
->
-> not shipping worldwide be possible it's
->
-> already possible except you kind of get
->
-> scammed with the shipping if you're
->
-> outside of the uh north america
->
-> uh and we're working on finding a way to
->
-> get another store for the rest of the
->
-> world
->
-> too for eu etc we're working on it
+> slash pickup when will not shipping worldwide be possible it's already possible except you kind of get scammed with the shipping if you're outside of the uh north america uh and we're working on finding a way to get another store for the rest of the world too for eu etc we're working on it
 
 
 </details>
@@ -6943,19 +2353,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> how this works are there hitting secrets
->
-> and cameos in the game yeah there's a
->
-> few
->
-> uh and i'm sure there are things that
->
-> people haven't found yet and i'm sure
->
-> there's going to be more stuff coming
->
-> once stories and even
+> how this works are there hitting secrets and cameos in the game yeah there's a few uh and i'm sure there are things that people haven't found yet and i'm sure there's going to be more stuff coming once stories and even
 
 
 </details>
@@ -6976,19 +2374,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> could this mental mode have an ignore
->
-> function maybe
->
-> uh maybe we've talked about that too i
->
-> think
->
-> the thing that makes the most sense too
->
-> intuitively is the deselecting
->
-> in some way
+> could this mental mode have an ignore function maybe uh maybe we've talked about that too i think the thing that makes the most sense too intuitively is the deselecting in some way
 
 
 </details>
@@ -7006,17 +2392,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> can you make a toolbar selection to be
->
-> with just hotkey like shift number or
->
-> something instead of mouse wheel
->
-> uh you probably make sure to hit that up
->
-> on the question site
->
-> i would recommend that
+> can you make a toolbar selection to be with just hotkey like shift number or something instead of mouse wheel uh you probably make sure to hit that up on the question site i would recommend that
 
 
 </details>
@@ -7034,19 +2410,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> does sanctum and satisfactory exist in
->
-> the same universe
->
-> i don't know actually i don't think so
->
-> but i'm not the one writing the story
->
-> that's hannah
->
-> um so she's like the only one who knows
->
-> i guess but uh i don't think so
+> does sanctum and satisfactory exist in the same universe i don't know actually i don't think so but i'm not the one writing the story that's hannah um so she's like the only one who knows i guess but uh i don't think so
 
 
 </details>
@@ -7064,21 +2428,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> it will not uh will satisfactory have
->
-> native support for linux
->
-> don't know uh we don't have plans for
->
-> that right now and you know anything can
->
-> happen
->
-> but we don't have plans for that right
->
-> now so
->
-> no one can tell
+> it will not uh will satisfactory have native support for linux don't know uh we don't have plans for that right now and you know anything can happen but we don't have plans for that right now so no one can tell
 
 
 </details>
@@ -7098,23 +2448,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> so let's build a constructor is there
->
-> any info slash lore on the player
->
-> character there is
->
-> a story in the game uh with yep so
->
-> there's lore and everything like that
->
-> um but it's not in the game at the
->
-> moment so you
->
-> don't know what it is i know what it is
->
-> i also know
+> so let's build a constructor is there any info slash lore on the player character there is a story in the game uh with yep so there's lore and everything like that um but it's not in the game at the moment so you don't know what it is i know what it is i also know
 
 
 </details>
@@ -7135,11 +2469,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> click and drag functionality for
->
-> building is not a thing that we
->
-> want currently
+> click and drag functionality for building is not a thing that we want currently
 
 
 </details>
@@ -7160,11 +2490,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh is terraforming possible anytime in
->
-> the future
->
-> no as far as we know um
+> uh is terraforming possible anytime in the future no as far as we know um
 
 
 </details>
@@ -7188,45 +2514,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh will there be more options for
->
-> aesthetics regarding things like house
->
-> uh
->
-> like house buildings well i think um
->
-> like the the buildings are gonna
->
-> constantly evolve like i don't think
->
-> you know people want things like round
->
-> shapes and stuff and i think that's
->
-> probably gonna happen at some point
->
-> and then things like decor i think is
->
-> something that is going to happen at
->
-> some point i don't know when or in what
->
-> shape or form but i
->
-> i think that's going to happen
->
-> what what why are you reacting all weird
->
-> because
->
-> don't worry about it i can't say it on
->
-> stream i thought you said something else
->
-> and i was genuinely like what the [ __ ]
->
-> all right all right
+> uh will there be more options for aesthetics regarding things like house uh like house buildings well i think um like the the buildings are gonna constantly evolve like i don't think you know people want things like round shapes and stuff and i think that's probably gonna happen at some point and then things like decor i think is something that is going to happen at some point i don't know when or in what shape or form but i i think that's going to happen what what why are you reacting all weird because don't worry about it i can't say it on stream i thought you said something else and i was genuinely like what the [ __ ] all right all right
 
 
 </details>
@@ -7245,61 +2533,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh any plans for elevators we just added
->
-> ladders you're basically asking me
->
-> ladders mark ii the meme
->
-> continues realistically though i mean
->
-> first of all elevators would look really
->
-> cool
->
-> i think ladders would function better
->
-> than elevators um
->
-> unless you're trying to lift up vehicles
->
-> but elevators are tricky
->
-> and but ladders are quick as well like
->
-> in video games you climb very quickly
->
-> and you move very quickly in video games
->
-> so you would climb quicker than an
->
-> elevator honestly
->
-> that's what i think unless the problem
->
-> like i guess like vehicle
->
-> lifts or something also that i've seen
->
-> that's kind of missing because there's
->
-> no way
->
-> we just need to add so that vehicles can
->
-> climb ladders i think that will solve
->
-> most problems yeah no what the you
->
-> used to jump pads for that now
->
-> yep there you are just to chunk
->
-> put that chunky vehicle boy on a jump
->
-> pad and just blast it up
->
-> there easy peasy easy peasy
+> uh any plans for elevators we just added ladders you're basically asking me ladders mark ii the meme continues realistically though i mean first of all elevators would look really cool i think ladders would function better than elevators um unless you're trying to lift up vehicles but elevators are tricky and but ladders are quick as well like in video games you climb very quickly and you move very quickly in video games so you would climb quicker than an elevator honestly that's what i think unless the problem like i guess like vehicle lifts or something also that i've seen that's kind of missing because there's no way we just need to add so that vehicles can climb ladders i think that will solve most problems yeah no what the you used to jump pads for that now yep there you are just to chunk put that chunky vehicle boy on a jump pad and just blast it up there easy peasy easy peasy
 
 
 </details>
@@ -7324,41 +2558,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> that's how it starts destroy all the
->
-> followers in the game biomes increase
->
-> performance or decrease because the game
->
-> is the track what you destroyed
->
-> i think it does nothing yeah it just
->
-> disappears
->
-> yeah because we're tracking that they're
->
-> either there or not
->
-> i don't think the way it works is that
->
-> it's assumed there unless
->
-> it checks it list that keeps growing
->
-> when you remove things yeah i'm pretty
->
-> sure that's how it is
->
-> so i think it does nothing i don't know
->
-> i could be wrong
->
-> yeah i actually don't know i don't
->
-> remember i'm uncertain
->
-> right now
+> that's how it starts destroy all the followers in the game biomes increase performance or decrease because the game is the track what you destroyed i think it does nothing yeah it just disappears yeah because we're tracking that they're either there or not i don't think the way it works is that it's assumed there unless it checks it list that keeps growing when you remove things yeah i'm pretty sure that's how it is so i think it does nothing i don't know i could be wrong yeah i actually don't know i don't remember i'm uncertain right now
 
 
 </details>
@@ -7454,17 +2654,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> any q a yet really um thoughts about
->
-> making end game
->
-> point or goal yep there's gonna be a
->
-> story so the game is is completable you
->
-> will you will be able to finish the game
->
-> um beginning middle and end
+> any q a yet really um thoughts about making end game point or goal yep there's gonna be a story so the game is is completable you will you will be able to finish the game um beginning middle and end
 
 
 </details>
@@ -7486,25 +2676,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> like emote yes please we'll be able to
->
-> breed the doggers that's disgusting and
->
-> shameless
->
-> oh you mean for gameplay um yeah there
->
-> might be like we've always talked about
->
-> something like farming and if there's
->
-> farming i think the
->
-> fauna would pay uh play a role in that
->
-> as well
->
-> so you know maybe
+> like emote yes please we'll be able to breed the doggers that's disgusting and shameless oh you mean for gameplay um yeah there might be like we've always talked about something like farming and if there's farming i think the fauna would pay uh play a role in that as well so you know maybe
 
 
 </details>
@@ -7523,11 +2695,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> hey can i play an epic with someone on
->
-> steam yes you can
->
-> yes
+> hey can i play an epic with someone on steam yes you can yes
 
 
 </details>
@@ -7545,15 +2713,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> um well dedicated server run under linux
->
-> i don't know yet yeah people have been
->
-> asking about dedicated servers will
->
-> there be them yes
->
-> when dunno
+> um well dedicated server run under linux i don't know yet yeah people have been asking about dedicated servers will there be them yes when dunno
 
 
 </details>
@@ -7595,15 +2755,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> do not uh is ada cg or a voice actress
->
-> she's text to speech with a couple
->
-> effects on her
->
-> but um yeah it's like
->
-> google google text yeah text and speech
+> do not uh is ada cg or a voice actress she's text to speech with a couple effects on her but um yeah it's like google google text yeah text and speech
 
 
 </details>
@@ -7622,35 +2774,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> it's fine look it's fine i did it for
->
-> content
->
-> talked about engine upgrade was that
->
-> unreal engine five no unreal engine five
->
-> isn't even out like we don't know when
->
-> 1005 will happen
->
-> uh i'm referring to uh we're updating
->
-> from unreal engine 422 which is the
->
-> worst
->
-> which is the current version of the game
->
-> to unreal engine 4.25
->
-> and i think twin 4.26 is coming out soon
->
-> so we'll be like
->
-> i'm gonna miss that eight minutes all
->
-> right
+> it's fine look it's fine i did it for content talked about engine upgrade was that unreal engine five no unreal engine five isn't even out like we don't know when 1005 will happen uh i'm referring to uh we're updating from unreal engine 422 which is the worst which is the current version of the game to unreal engine 4.25 and i think twin 4.26 is coming out soon so we'll be like i'm gonna miss that eight minutes all right
 
 
 </details>
@@ -7675,13 +2799,7 @@ date: Last Modified
 >
 > [Music]
 >
-> that either will not happen or not
->
-> happen for an incredibly long time
->
-> can we finish this one first yeah we
->
-> need to finish this one first okay
+> that either will not happen or not happen for an incredibly long time can we finish this one first yeah we need to finish this one first okay
 
 
 </details>
@@ -7703,19 +2821,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> see we launched satisfactory two i mean
->
-> i don't even know where long status
->
-> actually won
->
-> he's so tired of satisfactory we'll
->
-> never make another sex factor ever again
->
-> i wonder if satisfactory two ever makes
->
-> sense i don't like really
+> see we launched satisfactory two i mean i don't even know where long status actually won he's so tired of satisfactory we'll never make another sex factor ever again i wonder if satisfactory two ever makes sense i don't like really
 
 
 </details>
@@ -7735,71 +2841,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> will one of the quality of quality of
->
-> life uh stuff be turning down the fog so
->
-> first of all there will be uh and
->
-> someone else's are they're gonna be
->
-> quality of life updates
->
-> uh there will be in 3.5 um i don't know
->
-> if they're
->
-> the fog is included there or what we're
->
-> doing
->
-> uh because the fog is tight yeah the fog
->
-> is tied into level
->
-> like the level design so to speak um
->
-> i don't know what this currently that's
->
-> like on uh
->
-> like in limbo because we're we're not
->
-> sure whether or not
->
-> the merging of the world stuff will make
->
-> it into
->
-> this update because there are a few
->
-> dependencies
->
-> dependencies in the world right now that
->
-> are tied to
->
-> the 425 update which is coming
->
-> a bit after the fluid update a bit
->
-> confusing
->
-> uh so i don't think the fog will be
->
-> updated in this fluid update but it may
->
-> be updated
->
-> in the coming update after that
->
-> uh if that answers the question it's
->
-> really confusing
->
-> but we're aware and i think something's
->
-> gonna happen so
+> will one of the quality of quality of life uh stuff be turning down the fog so first of all there will be uh and someone else's are they're gonna be quality of life updates uh there will be in 3.5 um i don't know if they're the fog is included there or what we're doing uh because the fog is tight yeah the fog is tied into level like the level design so to speak um i don't know what this currently that's like on uh like in limbo because we're we're not sure whether or not the merging of the world stuff will make it into this update because there are a few dependencies dependencies in the world right now that are tied to the 425 update which is coming a bit after the fluid update a bit confusing uh so i don't think the fog will be updated in this fluid update but it may be updated in the coming update after that uh if that answers the question it's really confusing but we're aware and i think something's gonna happen so
 
 
 </details>
@@ -7818,11 +2860,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> any plans about new pets uh no plans
->
-> right now
->
-> i believe as far as i know
+> any plans about new pets uh no plans right now i believe as far as i know
 
 
 </details>
@@ -7841,95 +2879,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> you want to make a thing so you can do
->
-> it um are there any green
->
-> energy options in the game relative uh
->
-> news of the game but cold feels bad
->
-> uh so the thing with green energy is
->
-> something we've thought about and
->
-> something that we sort of toss up and oh
->
-> i'm not sure what we want to do but i
->
-> think we lean to not doing it but the
->
-> option is still there
->
-> and the reason the reason for doing it
->
-> is because it i don't know it's kind of
->
-> fun
->
-> right but the reason to not do it is the
->
-> point of the game
->
-> is you work for a company that doesn't
->
-> give a about the planet
->
-> and your whole goal is to just exploit
->
-> the planet
->
-> at any cost spew carbon up into the air
->
-> don't care destroy everything cut down
->
-> every tree
->
-> kill every creature mine up all the
->
-> resources
->
-> yeah um so that is the point of the game
->
-> that is the story and lore so in order
->
-> you know if you're gonna invest in green
->
-> energy it
->
-> lore wise it doesn't make much sense but
->
-> if you balance that with
->
-> fun then maybe it does make sense or
->
-> maybe
->
-> it will be a mod like i mean
->
-> you know video games is escapism right
->
-> like
->
-> we we give you this option like you can
->
-> go and and be as dirty as you want you
->
-> can
->
-> roll around in the mud and use coal as
->
-> much as you go nuclear
->
-> like do whatever you want and you guys
->
-> are like no i want to be clean
->
-> like which is honorable just don't build
->
-> a factory and don't cut down trees
->
-> yeah exactly yeah
+> you want to make a thing so you can do it um are there any green energy options in the game relative uh news of the game but cold feels bad uh so the thing with green energy is something we've thought about and something that we sort of toss up and oh i'm not sure what we want to do but i think we lean to not doing it but the option is still there and the reason the reason for doing it is because it i don't know it's kind of fun right but the reason to not do it is the point of the game is you work for a company that doesn't give a about the planet and your whole goal is to just exploit the planet at any cost spew carbon up into the air don't care destroy everything cut down every tree kill every creature mine up all the resources yeah um so that is the point of the game that is the story and lore so in order you know if you're gonna invest in green energy it lore wise it doesn't make much sense but if you balance that with fun then maybe it does make sense or maybe it will be a mod like i mean you know video games is escapism right like we we give you this option like you can go and and be as dirty as you want you can roll around in the mud and use coal as much as you go nuclear like do whatever you want and you guys are like no i want to be clean like which is honorable just don't build a factory and don't cut down trees yeah exactly yeah
 
 
 </details>
@@ -7970,19 +2920,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> mmos that i played quite a while can we
->
-> make satisfactory mobile mode
->
-> we're not going to do it holy maybe
->
-> someone else can try
->
-> i doubt that's going to work uh your
->
-> creeps can be a lizard dog guys that's
->
-> pretty funny
+> mmos that i played quite a while can we make satisfactory mobile mode we're not going to do it holy maybe someone else can try i doubt that's going to work uh your creeps can be a lizard dog guys that's pretty funny
 
 
 </details>
@@ -8002,121 +2940,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> um stuff like that
->
-> um confused on the use of controllers
->
-> you said that they're not supported but
->
-> i've been using one since they
->
-> uh since early access launch should i
->
-> expect my use of controller to change
->
-> uh so it's really weird that that's the
->
-> case because we've um pretty sure we
->
-> spent
->
-> literally no time on making that work
->
-> uh we well we did way back when and then
->
-> just stop supporting it completely
->
-> the fact that it works i think is a mere
->
-> coincidence as for whether it will
->
-> change in the future i think mappings
->
-> and things like that might change
->
-> who knows since it seems to be working
->
-> by magic anyway uh but
->
-> um yeah unless i don't think we're gonna
->
-> remove it like i don't think we're gonna
->
-> be like
->
-> delete the support um you know actively
->
-> go and do that
->
-> so hopefully it will just keep working
->
-> for you hopefully
->
-> we did talk a while back with steam
->
-> controllers
->
-> that they were like we had our initial
->
-> like controller
->
-> setup that we've we kind of like quite
->
-> quite abandoned
->
-> when we were working on because it was
->
-> so hard to maintain it um
->
-> but there has been control support like
->
-> at some point during development
->
-> and then yep it was too much yeah like
->
-> you just said uh
->
-> and then when we were launched on steam
->
-> there was some issue with like steam
->
-> controllers
->
-> not like you could because you can like
->
-> remap
->
-> uh on steam in some manner i'm not quite
->
-> sure how it works
->
-> yeah yeah you can um and i remember
->
-> there was some discussion that like if
->
-> we remove
->
-> the current controller support then it
->
-> would be easier to do that remapping or
->
-> something but maybe we didn't need to
->
-> or something i don't quite remember but
->
-> if it works then cool uh
->
-> yeah i don't know i don't know how it
->
-> works i don't know why yeah i also don't
->
-> like because like some things i don't
->
-> know if you can do on controller
->
-> like you can't do mass dismantle i think
->
-> a controller and stuff like that so
+> um stuff like that um confused on the use of controllers you said that they're not supported but i've been using one since they uh since early access launch should i expect my use of controller to change uh so it's really weird that that's the case because we've um pretty sure we spent literally no time on making that work uh we well we did way back when and then just stop supporting it completely the fact that it works i think is a mere coincidence as for whether it will change in the future i think mappings and things like that might change who knows since it seems to be working by magic anyway uh but um yeah unless i don't think we're gonna remove it like i don't think we're gonna be like delete the support um you know actively go and do that so hopefully it will just keep working for you hopefully we did talk a while back with steam controllers that they were like we had our initial like controller setup that we've we kind of like quite quite abandoned when we were working on because it was so hard to maintain it um but there has been control support like at some point during development and then yep it was too much yeah like you just said uh and then when we were launched on steam there was some issue with like steam controllers not like you could because you can like remap uh on steam in some manner i'm not quite sure how it works yeah yeah you can um and i remember there was some discussion that like if we remove the current controller support then it would be easier to do that remapping or something but maybe we didn't need to or something i don't quite remember but if it works then cool uh yeah i don't know i don't know how it works i don't know why yeah i also don't like because like some things i don't know if you can do on controller like you can't do mass dismantle i think a controller and stuff like that so
 >
 > [Music]
 >
@@ -8139,17 +2963,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> yep why are we only females in the game
->
-> and not male options because that's just
->
-> the way we made the game in most other
->
-> games there are only male in the game
->
-> without female options so i think it's
->
-> fine
+> yep why are we only females in the game and not male options because that's just the way we made the game in most other games there are only male in the game without female options so i think it's fine
 
 
 </details>
@@ -8174,69 +2988,11 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> uh
->
-> can we upload our spider image other
->
-> than a cat
+> uh can we upload our spider image other than a cat
 >
 > [Music]
 >
-> i mean i think i feel like that's
->
-> something that could probably be done
->
-> the the other thing with it is but we
->
-> have like effects on our
->
-> cat things but i don't know if that
->
-> could just automatically be applied to
->
-> everything
->
-> but then the other thing is um is just
->
-> the amount of work in general
->
-> this is what i feel the amount of work
->
-> in general for the arachnophobia mode
->
-> uh we've always wanted to keep it low
->
-> because
->
-> wait so the comment is can we upload our
->
-> own spider image
->
-> of instead of the cat like you want to
->
-> replace arachnophobia mode with spiders
->
-> no no no no oh i don't think that's what
->
-> they mean
->
-> maybe not but that's how i read it i
->
-> thought that was funny yeah
->
-> so i don't know like i feel like that's
->
-> going to take an amount of work that
->
-> maybe isn't necessary but maybe i'm
->
-> wrong
->
-> a spider-man is neon cat nice
->
-> it's like you're walking like in the
->
-> forest and you're like
+> i mean i think i feel like that's something that could probably be done the the other thing with it is but we have like effects on our cat things but i don't know if that could just automatically be applied to everything but then the other thing is um is just the amount of work in general this is what i feel the amount of work in general for the arachnophobia mode uh we've always wanted to keep it low because wait so the comment is can we upload our own spider image of instead of the cat like you want to replace arachnophobia mode with spiders no no no no oh i don't think that's what they mean maybe not but that's how i read it i thought that was funny yeah so i don't know like i feel like that's going to take an amount of work that maybe isn't necessary but maybe i'm wrong a spider-man is neon cat nice it's like you're walking like in the forest and you're like
 >
 > [Music]
 >

@@ -16,40 +16,4 @@ This question was possibly replaced with a more recent answer: [February 19th, 2
 
 ### Transcript
 
-> uh you guys mentioned that power isn't
->
-> going to stay the way it currently is
->
-> that's right
->
-> do you intend to have prior system for
->
-> different generator types i you will
->
-> learn more about power
->
-> when we tell you uh about it
->
-> um i i don't know like
->
-> that's a very specific question like
->
-> doesn't have a priority system for
->
-> different generator types um
->
-> when we change the power there's gonna
->
-> be a lot of changes so like it doesn't
->
-> make
->
-> i don't know how to answer the question
->
-> directly but there'll be a lot of
->
-> changes it'll function a bit different
->
-> we don't know is what he's trying to say
->
-> yeah yeah kinda
+> uh you guys mentioned that power isn't going to stay the way it currently is that's right do you intend to have prior system for different generator types i you will learn more about power when we tell you uh about it um i i don't know like that's a very specific question like doesn't have a priority system for different generator types um when we change the power there's gonna be a lot of changes so like it doesn't make i don't know how to answer the question directly but there'll be a lot of changes it'll function a bit different we don't know is what he's trying to say yeah yeah kinda

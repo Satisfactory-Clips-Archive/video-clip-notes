@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: March 30th, 202
 
 ### Transcript
 
-> it's pretty crazy yeah will the game
->
-> expand into space so will it stay on the
->
-> ground it'll stay on the ground you
->
-> don't go to space
->
-> don't go to space
+> it's pretty crazy yeah will the game expand into space so will it stay on the ground it'll stay on the ground you don't go to space don't go to space

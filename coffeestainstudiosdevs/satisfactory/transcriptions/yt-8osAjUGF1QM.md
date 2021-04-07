@@ -16,14 +16,4 @@ https://www.youtube.com/watch?v=8osAjUGF1QM
 
 ### Transcript
 
-> purpose for the drones they they travel
->
-> with equipment or they move stacks of
->
-> equipment stuff
->
-> power parts whatever quickly like
->
-> travels it's easy to set up you set up
->
-> the ports and you're done
+> purpose for the drones they they travel with equipment or they move stacks of equipment stuff power parts whatever quickly like travels it's easy to set up you set up the ports and you're done

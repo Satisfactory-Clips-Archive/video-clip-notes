@@ -18,18 +18,4 @@ https://www.youtube.com/watch?v=gyxMiVe8UMA
 
 ### Transcript
 
-> so now that we don't so now we don't
->
-> have to use refiners to craft aluminium
->
-> ingots
->
-> uh
->
-> i'm going to refer that question to next
->
-> week
->
-> because i'm not sure if i how much we've
->
-> talked about that
+> so now that we don't so now we don't have to use refiners to craft aluminium ingots uh i'm going to refer that question to next week because i'm not sure if i how much we've talked about that

@@ -18,46 +18,4 @@ https://www.youtube.com/watch?v=AlKn7_O78tU
 
 ### Transcript
 
-> let's see here mark replied to me
->
-> yeah so yeah this is a good pretty good
->
-> point by mark so yeah no alternative
->
-> recipes won't change that much
->
-> uh there are a few alternate recipes
->
-> that like touch on
->
-> the recipes that you that we've changed
->
-> for tier seven
->
-> specifically for those parts that have
->
-> changed in tier seven
->
-> uh because there are some new parts in
->
-> tier seven and there are
->
-> a part i believe that's not in the game
->
-> anymore or check
->
-> so uh the alternative recipes that
->
-> affect that
->
-> will be changed but they won't be
->
-> removed or anything like that uh
->
-> so so same thing there they will be
->
-> rebalanced but they won't remove be
->
-> removed
->
-> so yes
+> let's see here mark replied to me yeah so yeah this is a good pretty good point by mark so yeah no alternative recipes won't change that much uh there are a few alternate recipes that like touch on the recipes that you that we've changed for tier seven specifically for those parts that have changed in tier seven uh because there are some new parts in tier seven and there are a part i believe that's not in the game anymore or check so uh the alternative recipes that affect that will be changed but they won't be removed or anything like that uh so so same thing there they will be rebalanced but they won't remove be removed so yes

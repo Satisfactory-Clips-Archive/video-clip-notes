@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> um probably answer this question before
->
-> train collisions train collisions is
->
-> something that we
->
-> i believe we will be adding at some
->
-> point in the future
+> um probably answer this question before train collisions train collisions is something that we i believe we will be adding at some point in the future

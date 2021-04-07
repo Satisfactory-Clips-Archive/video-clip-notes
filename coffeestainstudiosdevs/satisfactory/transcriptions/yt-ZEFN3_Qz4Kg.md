@@ -20,6 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 11th,
 >
 > [Música]
 >
-> y ahora
->
-> robert bike
+> y ahora robert bike

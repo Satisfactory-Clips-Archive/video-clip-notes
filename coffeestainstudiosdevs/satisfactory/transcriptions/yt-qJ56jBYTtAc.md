@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> uh will we see vehicles air vehicles
->
-> sometime in the future
->
-> i mean there's already one in there
->
-> it delivers your stuff
+> uh will we see vehicles air vehicles sometime in the future i mean there's already one in there it delivers your stuff

@@ -18,10 +18,4 @@ This question was possibly replaced with a more recent answer: [February 19th, 2
 
 ### Transcript
 
-> yeah yeah uh how would power storage
->
-> thing work uh
->
-> there's gonna be a video this week about
->
-> power stuff so uh you'll find out later
+> yeah yeah uh how would power storage thing work uh there's gonna be a video this week about power stuff so uh you'll find out later

@@ -14,26 +14,4 @@ https://www.youtube.com/watch?v=_ka5-9hNUGQ
 
 ### Transcript
 
-> oh silly are you guys going to leave the
->
-> player movement speed on the conveyors i
->
-> think we are
->
-> um because some of our conveyor belts
->
-> are incredibly fast
->
-> and one of the key things uh i don't
->
-> want to go into this actually but i
->
-> think
->
-> yes i think i think we will unless the
->
-> director decides to make any changes but
->
-> i get the fear
->
-> he will not
+> oh silly are you guys going to leave the player movement speed on the conveyors i think we are um because some of our conveyor belts are incredibly fast and one of the key things uh i don't want to go into this actually but i think yes i think i think we will unless the director decides to make any changes but i get the fear he will not

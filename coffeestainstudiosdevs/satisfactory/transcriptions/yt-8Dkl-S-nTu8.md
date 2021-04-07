@@ -20,8 +20,4 @@ https://www.youtube.com/watch?v=8Dkl-S-nTu8
 
 ### Transcript
 
-> yeah is there any limit to how much you
->
-> can build or just your pc specs just
->
-> your pc specs basically
+> yeah is there any limit to how much you can build or just your pc specs just your pc specs basically

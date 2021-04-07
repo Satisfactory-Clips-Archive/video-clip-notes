@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=eiGqL7qpc14
 
 ### Transcript
 
-> will there be faster smelter
->
-> manufacturers does like
->
-> i don't know you you overclock them
->
-> right
->
-> that's how you get faster
+> will there be faster smelter manufacturers does like i don't know you you overclock them right that's how you get faster

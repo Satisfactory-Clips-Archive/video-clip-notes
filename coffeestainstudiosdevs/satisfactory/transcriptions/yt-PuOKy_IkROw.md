@@ -22,22 +22,4 @@ https://www.youtube.com/watch?v=PuOKy_IkROw
 
 ### Transcript
 
-> anyway um so yeah there's
->
-> not much much else to add to that really
->
-> um
->
-> we're really looking forward to getting
->
-> it out and uh
->
-> it's a pretty big commitment to to
->
-> release it on the 16 but we're going to
->
-> do it
->
-> we believe flushing isn't all it knows
->
-> he has to pay dlc to flush his nose
+> anyway um so yeah there's not much much else to add to that really um we're really looking forward to getting it out and uh it's a pretty big commitment to to release it on the 16 but we're going to do it we believe flushing isn't all it knows he has to pay dlc to flush his nose

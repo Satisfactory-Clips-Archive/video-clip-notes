@@ -18,12 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> dedicated service aka multiplayer fix
->
-> when multiplayer fixes come out with
->
-> every single update pretty much
->
-> so it's uh it's a it's a marathon not a
->
-> sprint
+> dedicated service aka multiplayer fix when multiplayer fixes come out with every single update pretty much so it's uh it's a it's a marathon not a sprint

@@ -16,8 +16,4 @@ https://www.youtube.com/watch?v=AssBQa36jAM
 
 ### Transcript
 
-> yeah is update three bigger than update
->
-> two in my opinion yes yes in your
->
-> opinion yes yeah
+> yeah is update three bigger than update two in my opinion yes yes in your opinion yes yeah

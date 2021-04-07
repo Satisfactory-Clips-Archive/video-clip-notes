@@ -29,14 +29,4 @@ https://www.youtube.com/watch?v=m9oykKdGfUE
 
 ### Transcript
 
-> well there'd be weather in the game like
->
-> rain i don't
->
-> know we we experimented with whether a
->
-> long long time ago and then
->
-> it's been cut i'm not sure if we're
->
-> gonna bring it back or not but
+> well there'd be weather in the game like rain i don't know we we experimented with whether a long long time ago and then it's been cut i'm not sure if we're gonna bring it back or not but

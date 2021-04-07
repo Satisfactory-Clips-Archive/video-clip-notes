@@ -20,6 +20,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> we're going to be adding a procedural
->
-> generated world at all ever
+> we're going to be adding a procedural generated world at all ever

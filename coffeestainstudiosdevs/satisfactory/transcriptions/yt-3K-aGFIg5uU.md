@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=3K-aGFIg5uU
 
 ### Transcript
 
-> plan on adding steel wall windows that's
->
-> pretty cool
->
-> post that on the key side so we know
->
-> about it
+> plan on adding steel wall windows that's pretty cool post that on the key side so we know about it

@@ -18,18 +18,4 @@ https://www.youtube.com/watch?v=ax7GUkad9N0
 
 ### Transcript
 
-> broken up
->
-> exactly where me we just put on a face
->
-> for the kids for the kids we're together
->
-> we do these streams for you guys we do
->
-> it for you and then we park
->
-> and then we're trying to join yes
->
-> exactly yeah
->
-> sometimes
+> broken up exactly where me we just put on a face for the kids for the kids we're together we do these streams for you guys we do it for you and then we park and then we're trying to join yes exactly yeah sometimes

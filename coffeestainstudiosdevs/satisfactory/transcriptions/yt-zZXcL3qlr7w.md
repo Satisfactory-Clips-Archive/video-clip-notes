@@ -20,22 +20,4 @@ This question was possibly duplicated with a more recent answer: February 26th, 
 
 ### Transcript
 
-> our guess is going to work like liquids
->
-> do you guys plan on keeping this or
->
-> changing the future
->
-> um i know that we said in the video that
->
-> the main like the only difference would
->
-> be that like head lift would be a bit
->
-> different otherwise they would be
->
-> functioning pretty much the same way
->
-> i think that's still the latest info we
->
-> have on that
+> our guess is going to work like liquids do you guys plan on keeping this or changing the future um i know that we said in the video that the main like the only difference would be that like head lift would be a bit different otherwise they would be functioning pretty much the same way i think that's still the latest info we have on that

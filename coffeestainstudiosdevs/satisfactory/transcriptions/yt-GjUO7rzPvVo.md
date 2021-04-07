@@ -14,20 +14,4 @@ https://www.youtube.com/watch?v=GjUO7rzPvVo
 
 ### Transcript
 
-> going to be more box side notes on the
->
-> map no
->
-> there's not going to be more backside
->
-> mode but there's not going to be major
->
-> changes to that
->
-> um it's still going to be easy to to
->
-> make aluminium and stuff like that
->
-> it's it's not a major change it's just
->
-> some ratios
+> going to be more box side notes on the map no there's not going to be more backside mode but there's not going to be major changes to that um it's still going to be easy to to make aluminium and stuff like that it's it's not a major change it's just some ratios

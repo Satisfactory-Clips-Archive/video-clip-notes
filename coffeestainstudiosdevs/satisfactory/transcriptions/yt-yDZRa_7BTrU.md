@@ -14,32 +14,4 @@ https://www.youtube.com/watch?v=yDZRa_7BTrU
 
 ### Transcript
 
-> no what would you look for in an
->
-> environment artist's portfolio
->
-> if someone's trying to apply um probably
->
-> whether they could be
->
-> whether they're able to combine several
->
-> different assets that they've made in an
->
-> interesting way
->
-> and also that they can like match them
->
-> in a specific environment so it's not
->
-> just
->
-> single loose assets but they can make
->
-> like sets that match each other
->
-> uh would be very important to me because
->
-> that's what i work with most
->
-> so makes sense
+> no what would you look for in an environment artist's portfolio if someone's trying to apply um probably whether they could be whether they're able to combine several different assets that they've made in an interesting way and also that they can like match them in a specific environment so it's not just single loose assets but they can make like sets that match each other uh would be very important to me because that's what i work with most so makes sense

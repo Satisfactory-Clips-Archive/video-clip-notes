@@ -18,14 +18,4 @@ https://www.youtube.com/watch?v=ZmVoWBHW9Jc
 
 > [Music]
 >
-> is it possible to kill a spit the
->
-> spitter
->
-> with the standard zapper yes it yes it
->
-> is
->
-> just got to get good i i need to get
->
-> good because because i'm not doing it
+> is it possible to kill a spit the spitter with the standard zapper yes it yes it is just got to get good i i need to get good because because i'm not doing it

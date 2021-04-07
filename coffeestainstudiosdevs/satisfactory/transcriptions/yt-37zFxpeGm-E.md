@@ -16,22 +16,4 @@ https://www.youtube.com/watch?v=37zFxpeGm-E
 
 ### Transcript
 
-> okay cool and we'll do it for you
->
-> yeah that's why we need mod support
->
-> there's so much that can be done with
->
-> the game that
->
-> like we couldn't just do it ourselves
->
-> and we have such a big community that's
->
-> already like
->
-> super talented and capable of making
->
-> cool stuff it's like we need to enable
->
-> you guys
+> okay cool and we'll do it for you yeah that's why we need mod support there's so much that can be done with the game that like we couldn't just do it ourselves and we have such a big community that's already like super talented and capable of making cool stuff it's like we need to enable you guys

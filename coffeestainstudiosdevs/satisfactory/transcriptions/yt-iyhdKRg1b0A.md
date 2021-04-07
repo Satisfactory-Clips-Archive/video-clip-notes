@@ -20,6 +20,4 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 ### Transcript
 
-> be worth it will there be a snow biome
->
-> no
+> be worth it will there be a snow biome no

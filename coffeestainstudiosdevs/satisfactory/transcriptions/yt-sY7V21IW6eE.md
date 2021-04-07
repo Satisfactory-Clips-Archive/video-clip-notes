@@ -18,14 +18,4 @@ This question was possibly replaced with a more recent answer: [February 19th, 2
 
 ### Transcript
 
-> any plans for power management
->
-> uh setting up factories just have power
->
-> while others shut down
->
-> uh it's a cool idea make sure to drop it
->
-> on the qa site
->
-> um and we'll see what happens
+> any plans for power management uh setting up factories just have power while others shut down uh it's a cool idea make sure to drop it on the qa site um and we'll see what happens

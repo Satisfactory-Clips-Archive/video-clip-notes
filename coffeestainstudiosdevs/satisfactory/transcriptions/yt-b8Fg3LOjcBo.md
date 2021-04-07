@@ -16,16 +16,4 @@ https://www.youtube.com/watch?v=b8Fg3LOjcBo
 
 ### Transcript
 
-> is it possible that the engineer
->
-> you mean pioneer actually spawns from
->
-> the toilet after death that's an
->
-> interesting
->
-> interesting uh
->
-> observation there interesting
->
-> interesting
+> is it possible that the engineer you mean pioneer actually spawns from the toilet after death that's an interesting interesting uh observation there interesting interesting

@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> will the toilet flush soon soon one
->
-> dollar dlc
->
-> soon soon
+> will the toilet flush soon soon one dollar dlc soon soon

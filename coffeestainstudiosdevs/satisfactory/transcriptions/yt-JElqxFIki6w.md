@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> got the beard right is the blade runner
->
-> glitch going to be fixed
->
-> i think it is i don't know why it hasn't
->
-> been fixed yet
+> got the beard right is the blade runner glitch going to be fixed i think it is i don't know why it hasn't been fixed yet

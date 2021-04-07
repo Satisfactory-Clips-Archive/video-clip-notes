@@ -16,24 +16,4 @@ https://www.youtube.com/watch?v=uO646ew3dfo
 
 ### Transcript
 
-> my
->
-> on uh update four play through is
->
-> running really well compared to update
->
-> three you mean multiplayer or like in
->
-> general because there is a lot of
->
-> optimization stuff in
->
-> update four compared to update three
->
-> update three is like
->
-> really old at this point it's like two
->
-> three months or something
->
-> since the last time we updated that
+> my on uh update four play through is running really well compared to update three you mean multiplayer or like in general because there is a lot of optimization stuff in update four compared to update three update three is like really old at this point it's like two three months or something since the last time we updated that

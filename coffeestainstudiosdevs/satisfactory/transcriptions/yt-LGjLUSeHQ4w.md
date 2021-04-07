@@ -14,22 +14,4 @@ https://www.youtube.com/watch?v=LGjLUSeHQ4w
 
 ### Transcript
 
-> um somebody asked something about the
->
-> reload for
->
-> rifles do you mean the thing the auto
->
-> reload yeah
->
-> uh upload that on the qa site did
->
-> somebody make a ticket for that
->
-> i remember we talked about it a lot last
->
-> uh
->
-> on a stream um
->
-> make sure to upload that jam
+> um somebody asked something about the reload for rifles do you mean the thing the auto reload yeah uh upload that on the qa site did somebody make a ticket for that i remember we talked about it a lot last uh on a stream um make sure to upload that jam

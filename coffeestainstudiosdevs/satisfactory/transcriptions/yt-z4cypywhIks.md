@@ -18,42 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 > [Music]
 >
-> i plan to put the ost on spotify
->
-> uh i don't really know about that a lot
->
-> of people ask about the ost
->
-> soundtrack and uh i think maybe we
->
-> should look into doing something cool
->
-> with that i'll talk to
->
-> tim about it a little later um but yeah
->
-> depends however if you want to uh check
->
-> out
->
-> the composer for our music his name is
->
-> sleepersdelight
->
-> you can find him on soundcloud he's on
->
-> twitter and stuff so
->
-> i think he's on amazon yeah
->
-> on spotify i think as well he doesn't
->
-> have the game stuff i think he's like
->
-> one
->
-> song from the game i put up the
->
-> trailer music i think it's on soundcloud
->
-> i'm pretty sure only soundcloud
+> i plan to put the ost on spotify uh i don't really know about that a lot of people ask about the ost soundtrack and uh i think maybe we should look into doing something cool with that i'll talk to tim about it a little later um but yeah depends however if you want to uh check out the composer for our music his name is sleepersdelight you can find him on soundcloud he's on twitter and stuff so i think he's on amazon yeah on spotify i think as well he doesn't have the game stuff i think he's like one song from the game i put up the trailer music i think it's on soundcloud i'm pretty sure only soundcloud

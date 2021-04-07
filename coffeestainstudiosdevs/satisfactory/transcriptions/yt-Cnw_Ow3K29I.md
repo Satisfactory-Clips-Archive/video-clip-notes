@@ -18,8 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 3rd, 
 
 ### Transcript
 
-> any idea if the plan for dedicated
->
-> server files will be headless linux
->
-> compatible with no idea
+> any idea if the plan for dedicated server files will be headless linux compatible with no idea

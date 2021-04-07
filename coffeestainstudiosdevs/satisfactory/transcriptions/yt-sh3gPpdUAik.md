@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=sh3gPpdUAik
 
 ### Transcript
 
-> why are there obvious cave entrances
->
-> that lead under the map
->
-> well maybe because there's gonna be some
->
-> things coming
+> why are there obvious cave entrances that lead under the map well maybe because there's gonna be some things coming

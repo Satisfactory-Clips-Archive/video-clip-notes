@@ -28,10 +28,4 @@ https://www.youtube.com/watch?v=SqyfGfz3APc
 
 ### Transcript
 
-> and crash button will we ever use sam or
->
-> yeah samoa is tied to the story stuff
->
-> so samore won't be usable until 1.0
->
-> unfortunately
+> and crash button will we ever use sam or yeah samoa is tied to the story stuff so samore won't be usable until 1.0 unfortunately

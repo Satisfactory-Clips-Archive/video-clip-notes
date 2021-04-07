@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> just go for it um low first person
->
-> setting that there's more than five
->
-> enemies in
->
-> uh yeah i think so i think there is
+> just go for it um low first person setting that there's more than five enemies in uh yeah i think so i think there is

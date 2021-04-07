@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=mm30Eu1FwTI
 
 ### Transcript
 
-> why can't we dive underwater
->
-> because it's gross why would you do that
+> why can't we dive underwater because it's gross why would you do that

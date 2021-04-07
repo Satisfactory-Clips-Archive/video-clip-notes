@@ -18,12 +18,4 @@ https://www.youtube.com/watch?v=DwdNTp6z1a4
 
 ### Transcript
 
-> in here this is the most important part
->
-> of the hub right here
->
-> right here this is where i contemplate
->
-> stuff oh my god sleeps yeah
->
-> oh
+> in here this is the most important part of the hub right here right here this is where i contemplate stuff oh my god sleeps yeah oh

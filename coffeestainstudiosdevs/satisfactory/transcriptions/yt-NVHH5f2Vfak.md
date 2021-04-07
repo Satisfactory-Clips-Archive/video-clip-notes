@@ -16,14 +16,4 @@ https://www.youtube.com/watch?v=NVHH5f2Vfak
 
 ### Transcript
 
-> can you toggle the power switch on off
->
-> without opening the the
->
-> the gui i don't know that actually i've
->
-> never used the power switch
->
-> do you know that jace no i don't know
->
-> okay you'll never know
+> can you toggle the power switch on off without opening the the the gui i don't know that actually i've never used the power switch do you know that jace no i don't know okay you'll never know

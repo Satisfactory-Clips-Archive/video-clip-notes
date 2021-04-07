@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 12th, 
 
 ### Transcript
 
-> okay yeah and when will the merch be
->
-> sold in eu we're still looking into that
->
-> as well and yeah
->
-> sorry there's no solution at this stage
+> okay yeah and when will the merch be sold in eu we're still looking into that as well and yeah sorry there's no solution at this stage

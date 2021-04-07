@@ -20,28 +20,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> um will experimental and ea be the same
->
-> version so we can swap no
->
-> so uh the next week when update four
->
-> drops it's gonna drop on experimental
->
-> only not
->
-> um not early access so um
->
-> maybe maybe it'll be like a month after
->
-> or something like that we'll uh
->
-> we'll bring it to uh early access if uh
->
-> everything goes well you know
->
-> yes it's not broken if it's good enough
->
-> so that we feel like confident about
->
-> putting it on ea
+> um will experimental and ea be the same version so we can swap no so uh the next week when update four drops it's gonna drop on experimental only not um not early access so um maybe maybe it'll be like a month after or something like that we'll uh we'll bring it to uh early access if uh everything goes well you know yes it's not broken if it's good enough so that we feel like confident about putting it on ea

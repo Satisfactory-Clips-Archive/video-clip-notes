@@ -18,8 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Transcript
 
-> direct text 10 12 when i don't think
->
-> that will happen
->
-> for a long time
+> direct text 10 12 when i don't think that will happen for a long time

@@ -14,20 +14,4 @@ https://www.youtube.com/watch?v=R2NhOHsOEO8
 
 ### Transcript
 
-> don't default to uh workshop because
->
-> that really screws us up i i don't think
->
-> we're defaulting to workshop
->
-> no i don't i i personally i mean
->
-> i could be wrong but i i personally
->
-> don't see
->
-> us supporting like mods officially only
->
-> on workshop i don't see that happening
->
-> i'd be pretty surprised if that happens
+> don't default to uh workshop because that really screws us up i i don't think we're defaulting to workshop no i don't i i personally i mean i could be wrong but i i personally don't see us supporting like mods officially only on workshop i don't see that happening i'd be pretty surprised if that happens

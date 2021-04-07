@@ -16,13 +16,7 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 
 ### Transcript
 
-> any halloween event no but we're talking
->
-> about a christmas thing so hopefully
->
-> we'll have time to do something small
->
-> for christmas
+> any halloween event no but we're talking about a christmas thing so hopefully we'll have time to do something small for christmas
 >
 > [Music]
 >

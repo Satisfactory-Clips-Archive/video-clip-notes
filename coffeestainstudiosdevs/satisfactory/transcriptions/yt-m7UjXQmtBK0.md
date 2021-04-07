@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=m7UjXQmtBK0
 
 ### Transcript
 
-> have we sold more than 10 copies yet
->
-> we've sold like
->
-> like 100 right they just got refunded
->
-> but we sold them first
+> have we sold more than 10 copies yet we've sold like like 100 right they just got refunded but we sold them first

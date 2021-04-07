@@ -18,34 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> in the video about the engine update js
->
-> talked about the possible
->
-> improvement and buildings coloration not
->
-> being not being tied to presets was
->
-> there any talk about this since
->
-> uh the the thing jace mentioned is the
->
-> possibility to have like pretty much
->
-> any amount of uh colored presets
->
-> in the game we're still gonna have
->
-> presets but you can have a lot more
->
-> um and this is something that's possible
->
-> but not something that we've like
->
-> you know decided to implement yet it
->
-> might happen in the future
->
-> but we'll see because it do be a little
->
-> bit work
+> in the video about the engine update js talked about the possible improvement and buildings coloration not being not being tied to presets was there any talk about this since uh the the thing jace mentioned is the possibility to have like pretty much any amount of uh colored presets in the game we're still gonna have presets but you can have a lot more um and this is something that's possible but not something that we've like you know decided to implement yet it might happen in the future but we'll see because it do be a little bit work

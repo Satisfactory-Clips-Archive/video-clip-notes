@@ -16,18 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> one thing at a time uh released it on
->
-> ps4
->
-> we don't know uh oh ps4 probably never
->
-> probably yeah ps4 probably never maybe
->
-> ps5 but uh we don't have any plans for
->
-> console
->
-> right now but it might happen in the
->
-> future we don't know yeah
+> one thing at a time uh released it on ps4 we don't know uh oh ps4 probably never probably yeah ps4 probably never maybe ps5 but uh we don't have any plans for console right now but it might happen in the future we don't know yeah

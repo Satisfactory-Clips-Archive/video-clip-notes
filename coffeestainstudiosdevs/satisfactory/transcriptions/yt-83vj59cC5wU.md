@@ -14,16 +14,4 @@ https://www.youtube.com/watch?v=83vj59cC5wU
 
 ### Transcript
 
-> uh is the old buildings related to power
->
-> biomass burner coal power etc are gonna
->
-> be daisy chained uh no the only thing
->
-> you can daisy chain are
->
-> lights and power storages
->
-> and we don't have any plans of adding
->
-> any more
+> uh is the old buildings related to power biomass burner coal power etc are gonna be daisy chained uh no the only thing you can daisy chain are lights and power storages and we don't have any plans of adding any more

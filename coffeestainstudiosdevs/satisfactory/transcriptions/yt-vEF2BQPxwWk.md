@@ -16,14 +16,4 @@ https://www.youtube.com/watch?v=vEF2BQPxwWk
 
 ### Transcript
 
-> do not remove the self-regulation of
->
-> energy
->
-> one of the good things about the game
->
-> well all right well uh give it a try
->
-> when it happens and
->
-> let us know what you think
+> do not remove the self-regulation of energy one of the good things about the game well all right well uh give it a try when it happens and let us know what you think

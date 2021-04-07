@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Transcript
 
-> in den comics und george w
->
-> maxwell davies
+> in den comics und george w maxwell davies

@@ -18,10 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> okay uh any plans on adding fences for
->
-> ramps
->
-> uh i wish plans yes
->
-> when i don't know
+> okay uh any plans on adding fences for ramps uh i wish plans yes when i don't know

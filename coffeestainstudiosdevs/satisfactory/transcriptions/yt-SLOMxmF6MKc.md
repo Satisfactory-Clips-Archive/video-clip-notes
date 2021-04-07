@@ -20,36 +20,8 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 ### Transcript
 
-> can you give us a teaser what the story
->
-> will be is our youtube video uh no we've
->
-> not received released
->
-> any information about the story apart
->
-> from some characters like um
->
-> katarina parks is the ceo of fix-it
->
-> things like that
->
-> uh but we've not really teased a story
->
-> that's something that we're gonna be
->
-> pretty tight-lipped about until we
->
-> release it
+> can you give us a teaser what the story will be is our youtube video uh no we've not received released any information about the story apart from some characters like um katarina parks is the ceo of fix-it things like that uh but we've not really teased a story that's something that we're gonna be pretty tight-lipped about until we release it
 >
 > [Music]
 >
-> that is a strict secret mode
->
-> because we we we kind of want people to
->
-> be able to just experience it in one
->
-> sort of goal
->
-> yeah for the most part yeah
+> that is a strict secret mode because we we we kind of want people to be able to just experience it in one sort of goal yeah for the most part yeah

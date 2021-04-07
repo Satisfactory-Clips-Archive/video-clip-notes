@@ -18,48 +18,4 @@ https://www.youtube.com/watch?v=1i0dU7zYdqs
 
 ### Transcript
 
-> uh should i start to dismantle my
->
-> turbometer automation
->
-> 40 hours down the drain uh all for
->
-> big storage of turbomotors uh no if
->
-> you're if you're on
->
-> update three um
->
-> then maybe yes because turbo motors did
->
-> have a slight change in the recipe i
->
-> think we believe
->
-> i believe we changed help me chat
->
-> there's one
->
-> there's one part that's changed in the
->
-> recipe for turbo motors if i remember
->
-> correctly in update four compared to up
->
-> to three
->
-> um so you only need to change that uh
->
-> and there may be some ratio change or
->
-> whatever but
->
-> uh cooling is there cooling instead of
->
-> instead of aluminium scraps or what is
->
-> it i can't remember
->
-> cooling system instead of heat sink
->
-> that's what it is
+> uh should i start to dismantle my turbometer automation 40 hours down the drain uh all for big storage of turbomotors uh no if you're if you're on update three um then maybe yes because turbo motors did have a slight change in the recipe i think we believe i believe we changed help me chat there's one there's one part that's changed in the recipe for turbo motors if i remember correctly in update four compared to up to three um so you only need to change that uh and there may be some ratio change or whatever but uh cooling is there cooling instead of instead of aluminium scraps or what is it i can't remember cooling system instead of heat sink that's what it is

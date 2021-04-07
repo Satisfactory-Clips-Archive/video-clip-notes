@@ -24,8 +24,4 @@ https://www.youtube.com/watch?v=ryFai7jtoKY
 
 ### Transcript
 
-> will there ever be a limitation to
->
-> floating foundations in the air
->
-> no
+> will there ever be a limitation to floating foundations in the air no

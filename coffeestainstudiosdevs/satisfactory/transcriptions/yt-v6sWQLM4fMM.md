@@ -18,14 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 8th,
 
 ### Transcript
 
-> add train tunnels to go through
->
-> mountains
->
-> uh no because then we'd need to do some
->
-> for more terraforming so it wouldn't
->
-> really work
->
-> unfortunately
+> add train tunnels to go through mountains uh no because then we'd need to do some for more terraforming so it wouldn't really work unfortunately

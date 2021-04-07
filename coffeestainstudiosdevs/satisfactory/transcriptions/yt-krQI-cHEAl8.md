@@ -18,10 +18,4 @@ https://www.youtube.com/watch?v=krQI-cHEAl8
 
 ### Transcript
 
-> it's a reference so will you carry on
->
-> jason's legacy thinking about pipes yeah
->
-> when's your one-hour pipe stream
->
-> we'll announce that later yeah
+> it's a reference so will you carry on jason's legacy thinking about pipes yeah when's your one-hour pipe stream we'll announce that later yeah

@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 11th,
 
 ### Transcript
 
-> but some people got them how big is the
->
-> update apparently six gigabytes is that
->
-> you moving the mouse or does that mean
+> but some people got them how big is the update apparently six gigabytes is that you moving the mouse or does that mean

@@ -16,6 +16,4 @@ https://www.youtube.com/watch?v=yJEbuLvz-20
 
 ### Transcript
 
-> vertical splitters have 300 plus upvotes
->
-> though
+> vertical splitters have 300 plus upvotes though

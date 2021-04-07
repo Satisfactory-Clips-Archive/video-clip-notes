@@ -20,18 +20,8 @@ https://www.youtube.com/watch?v=L5P4V2YcjBc
 
 ### Transcript
 
-> what do you guys like most about working
->
-> at coffee stain
->
-> simon update four
+> what do you guys like most about working at coffee stain simon update four
 >
 > [Laughter]
 >
-> uh i don't know uh most are working
->
-> enough coffee thing
->
-> nothing probably simon you guys you guys
->
-> oh it's a community satisfaction yeah
+> uh i don't know uh most are working enough coffee thing nothing probably simon you guys you guys oh it's a community satisfaction yeah

@@ -26,10 +26,4 @@ This question was possibly replaced with a more recent answer: [February 19th, 2
 
 ### Transcript
 
-> when our geothermal generator is going
->
-> to get its info panel oh that's that's
->
-> the million dollar question i actually
->
-> no idea someday
+> when our geothermal generator is going to get its info panel oh that's that's the million dollar question i actually no idea someday

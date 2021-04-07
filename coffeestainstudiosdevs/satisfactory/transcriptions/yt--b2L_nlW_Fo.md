@@ -18,12 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> please tell me update4 will use vip or
->
-> you mean samore no
->
-> update4 will not use samwar that's like
->
-> the one thing i know for sure
->
-> is not gonna be the case
+> please tell me update4 will use vip or you mean samore no update4 will not use samwar that's like the one thing i know for sure is not gonna be the case

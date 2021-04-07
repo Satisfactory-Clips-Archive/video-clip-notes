@@ -22,24 +22,4 @@ https://www.youtube.com/watch?v=_l9SmmSzE-M
 
 ### Transcript
 
-> can can you can you make a fix it uh rc
->
-> fix it factory cart um
->
-> i don't think we're gonna do that no
->
-> that sounds really fun though like
->
-> maybe if we ever do like uh like just
->
-> some dumb update like where we put
->
-> like a lot of like dumb stuff like just
->
-> to have fun
->
-> it doesn't really advance the factory or
->
-> something maybe it would be really good
->
-> do that
+> can can you can you make a fix it uh rc fix it factory cart um i don't think we're gonna do that no that sounds really fun though like maybe if we ever do like uh like just some dumb update like where we put like a lot of like dumb stuff like just to have fun it doesn't really advance the factory or something maybe it would be really good do that

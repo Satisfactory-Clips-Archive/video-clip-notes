@@ -20,10 +20,4 @@ https://www.youtube.com/watch?v=Ud7cgUEuVlE
 
 ### Transcript
 
-> sanctum 3 when all right let's just
->
-> it we'll just drop satisfactory and just
->
-> start making
->
-> sanctum 3 instead screw it
+> sanctum 3 when all right let's just it we'll just drop satisfactory and just start making sanctum 3 instead screw it

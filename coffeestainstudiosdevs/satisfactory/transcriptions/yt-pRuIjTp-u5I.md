@@ -16,34 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 2nd, 
 
 ### Transcript
 
-> uh improved vehicles in general
->
-> maybe yes there is there's a few issues
->
-> with uh
->
-> especially on client the way that like
->
-> right now vehicles aren't predicting
->
-> properly
->
-> so they're they're expecting a lot of
->
-> like server calls all the time to like
->
-> where am i you're here okay but the way
->
-> they sh
->
-> like are going to be in the future
->
-> hopefully if you tend to do it
->
-> is that they'll do more prediction
->
-> client side prediction so they'll behave
->
-> a little bit better
->
-> very nice yes
+> uh improved vehicles in general maybe yes there is there's a few issues with uh especially on client the way that like right now vehicles aren't predicting properly so they're they're expecting a lot of like server calls all the time to like where am i you're here okay but the way they sh like are going to be in the future hopefully if you tend to do it is that they'll do more prediction client side prediction so they'll behave a little bit better very nice yes

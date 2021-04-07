@@ -26,12 +26,8 @@ Jace: will Update 4 wipe your existing saves?
 > Snutt: Yes.
 >
 > Snutt: With 90% certainty I can say that it
-will not wipe existing saves.
->
-> Jace: And if he's right he gets a raise and
-if not he's fired.
->
-> Snutt: You just negate all those &quot;Snutt should
+will not wipe existing saves. Jace: And if he's right he gets a raise and
+if not he's fired. Snutt: You just negate all those &quot;Snutt should
 get a raise&quot; comments.
 >
 > Jace: Yeah, exactly.

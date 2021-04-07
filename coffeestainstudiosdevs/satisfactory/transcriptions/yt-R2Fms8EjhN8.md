@@ -18,10 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> though but there's a little story yep
->
-> can the
->
-> creatures in a way describe disrupt your
->
-> factory no they cannot
+> though but there's a little story yep can the creatures in a way describe disrupt your factory no they cannot

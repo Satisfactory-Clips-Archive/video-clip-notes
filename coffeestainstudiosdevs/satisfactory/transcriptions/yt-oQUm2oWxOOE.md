@@ -18,12 +18,4 @@ https://www.youtube.com/watch?v=oQUm2oWxOOE
 
 ### Transcript
 
-> uh what about priority switch prior
->
-> switch was accidentally leaked so
->
-> there's no information about it
->
-> we didn't mean to share it so we're not
->
-> going to share more
+> uh what about priority switch prior switch was accidentally leaked so there's no information about it we didn't mean to share it so we're not going to share more

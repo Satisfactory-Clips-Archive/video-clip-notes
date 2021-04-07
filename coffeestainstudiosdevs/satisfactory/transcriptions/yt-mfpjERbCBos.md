@@ -14,34 +14,4 @@ https://www.youtube.com/watch?v=mfpjERbCBos
 
 ### Transcript
 
-> i have my work cut out yeah mason i saw
->
-> the uh satisfactory tips video that you
->
-> did
->
-> it was really good actually if you guys
->
-> haven't seen satisfactory no tip
->
-> satisfactory
->
-> no tips satisfactory news you guys my
->
-> bad
->
-> um if you haven't seen the satisfactory
->
-> news youtube channel check it out lots
->
-> of good content there
->
-> and uh they do a really good job mason
->
-> here is one of the editors there
->
-> uh do a really good job at summing
->
-> summing up uh the information so check
->
-> it out
+> i have my work cut out yeah mason i saw the uh satisfactory tips video that you did it was really good actually if you guys haven't seen satisfactory no tip satisfactory no tips satisfactory news you guys my bad um if you haven't seen the satisfactory news youtube channel check it out lots of good content there and uh they do a really good job mason here is one of the editors there uh do a really good job at summing summing up uh the information so check it out

@@ -18,12 +18,4 @@ https://www.youtube.com/watch?v=2XCUfSyo5aI
 
 ### Transcript
 
-> the power in the basement we can go look
->
-> for the key vamanos
->
-> i found it by the way is so good it's
->
-> like i'm in france
->
-> laughing it's like i'm in france
+> the power in the basement we can go look for the key vamanos i found it by the way is so good it's like i'm in france laughing it's like i'm in france

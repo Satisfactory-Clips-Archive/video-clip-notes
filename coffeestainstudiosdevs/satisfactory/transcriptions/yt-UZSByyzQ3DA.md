@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=UZSByyzQ3DA
 
 ### Transcript
 
-> i play it with the peaceful mode
->
-> mod how's that for feedback i mean
->
-> that's that is that is feedback that
->
-> people want to play with that
+> i play it with the peaceful mode mod how's that for feedback i mean that's that is that is feedback that people want to play with that

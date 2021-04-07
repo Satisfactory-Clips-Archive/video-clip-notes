@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=eL7PT4_wRmY
 
 ### Transcript
 
-> when can we go to space uh never not in
->
-> our game at least
+> when can we go to space uh never not in our game at least

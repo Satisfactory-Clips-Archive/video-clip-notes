@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=XyFQ4uK7zzo
 
 ### Transcript
 
-> really weird one really weird thing with
->
-> that key is you could you could remove
->
-> the top part of it
->
-> for some reason
+> really weird one really weird thing with that key is you could you could remove the top part of it for some reason

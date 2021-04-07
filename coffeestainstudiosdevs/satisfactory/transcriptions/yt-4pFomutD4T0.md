@@ -18,12 +18,4 @@ https://www.youtube.com/watch?v=4pFomutD4T0
 
 ### Transcript
 
-> eminem when are we getting an alternate
->
-> recipe for paint so we can automate it i
->
-> don't know when we're going to get that
->
-> i don't know probably when we
->
-> fix some of those systems up maybe yep
+> eminem when are we getting an alternate recipe for paint so we can automate it i don't know when we're going to get that i don't know probably when we fix some of those systems up maybe yep

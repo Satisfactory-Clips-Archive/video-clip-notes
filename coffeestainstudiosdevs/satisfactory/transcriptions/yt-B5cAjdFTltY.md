@@ -16,15 +16,7 @@ This question was possibly duplicated with a more recent answer: [November 24th,
 
 ### Transcript
 
-> think that's unlikely and while we're on
->
-> the topic of the map i also saw a
->
-> question about
->
-> terraforming which is also something
->
-> that definitely is not happening
+> think that's unlikely and while we're on the topic of the map i also saw a question about terraforming which is also something that definitely is not happening
 >
 > [Music]
 >

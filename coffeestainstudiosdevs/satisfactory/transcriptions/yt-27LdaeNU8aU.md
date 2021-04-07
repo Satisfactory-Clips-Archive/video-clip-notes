@@ -14,30 +14,4 @@ https://www.youtube.com/watch?v=27LdaeNU8aU
 
 ### Transcript
 
-> um but if you
->
-> want to avoid having to like do a bunch
->
-> of redo for work
->
-> uh then hold off from alternative
->
-> recipes for now
->
-> um and and i'm
->
-> emphasis on all recipes
->
-> because those are the ones that are the
->
-> most prone for change
->
-> currently um so
->
-> or vice versa enjoy the old recipes for
->
-> now
->
-> uh and and like stack up on
->
-> so yeah
+> um but if you want to avoid having to like do a bunch of redo for work uh then hold off from alternative recipes for now um and and i'm emphasis on all recipes because those are the ones that are the most prone for change currently um so or vice versa enjoy the old recipes for now uh and and like stack up on so yeah

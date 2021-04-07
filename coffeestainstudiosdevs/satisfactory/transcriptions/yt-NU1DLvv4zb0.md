@@ -16,32 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 8th, 
 
 ### Transcript
 
-> yes tier 9 10 11
->
-> 12 tier 9 has been confirmed has it
->
-> cool it already has i checked the wiki
->
-> earlier today
->
-> so either someone just bamboozled me by
->
-> just putting it in there yeah
->
-> no it's confirmed we should put stuff in
->
-> there
->
-> yeah we should put stuff in the wiki
->
-> just to with people
->
-> like oh they're going to have uh
->
-> mollusks in the game
->
-> mollusks can't wait for malice i can't
->
-> wait for that
->
-> it's going to be in tier 17.
+> yes tier 9 10 11 12 tier 9 has been confirmed has it cool it already has i checked the wiki earlier today so either someone just bamboozled me by just putting it in there yeah no it's confirmed we should put stuff in there yeah we should put stuff in the wiki just to with people like oh they're going to have uh mollusks in the game mollusks can't wait for malice i can't wait for that it's going to be in tier 17.

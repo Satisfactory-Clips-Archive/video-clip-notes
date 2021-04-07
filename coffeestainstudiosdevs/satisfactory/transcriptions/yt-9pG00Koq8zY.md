@@ -16,40 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> update on the mug um
->
-> i don't know but i know that we are
->
-> working on that and we are
->
-> uh we made a lot of progress
->
-> uh recently
->
-> i didn't know i had to tell you guys i
->
-> did not know how much work
->
-> it was setting up merch uh geez
->
-> that's a lot of work um it takes so long
->
-> to do it and uh
->
-> a lot of people are involved um so
->
-> i used to be on you guys the side we're
->
-> like why isn't this done yet why isn't
->
-> this out you should be out where is
->
-> merch now that i've been on the other
->
-> side the receiving side
->
-> i'm like oh how how do games get merged
->
-> so quickly out
->
-> insane
+> update on the mug um i don't know but i know that we are working on that and we are uh we made a lot of progress uh recently i didn't know i had to tell you guys i did not know how much work it was setting up merch uh geez that's a lot of work um it takes so long to do it and uh a lot of people are involved um so i used to be on you guys the side we're like why isn't this done yet why isn't this out you should be out where is merch now that i've been on the other side the receiving side i'm like oh how how do games get merged so quickly out insane

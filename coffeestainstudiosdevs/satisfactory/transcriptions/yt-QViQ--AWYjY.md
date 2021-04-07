@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: January 22nd, 2
 
 ### Transcript
 
-> thing does the game get a deeper story
->
-> yes it's gonna have like a full story
->
-> and you can finish the games that's
->
-> gonna
->
-> that's gonna happen at some point
+> thing does the game get a deeper story yes it's gonna have like a full story and you can finish the games that's gonna that's gonna happen at some point

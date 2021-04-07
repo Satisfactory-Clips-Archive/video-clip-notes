@@ -16,34 +16,4 @@ https://www.youtube.com/watch?v=T2MEOzplmSQ
 
 ### Transcript
 
-> will be useful for something and green
->
-> energy
->
-> uh i don't know about green and i think
->
-> we've talked about green energy i think
->
-> it's maybe likely
->
-> uh but i don't know when as for nuclear
->
-> waste the plan is for it to not be
->
-> useful for anything that's the point uh
->
-> it's a challenge for you to get rid of
->
-> it
->
-> yeah basically but it might also be a
->
-> lore thing why
->
-> we don't have green energy yeah exactly
->
-> that's kind of what i was like
->
-> about like because maybe it is that yeah
->
-> correct
+> will be useful for something and green energy uh i don't know about green and i think we've talked about green energy i think it's maybe likely uh but i don't know when as for nuclear waste the plan is for it to not be useful for anything that's the point uh it's a challenge for you to get rid of it yeah basically but it might also be a lore thing why we don't have green energy yeah exactly that's kind of what i was like about like because maybe it is that yeah correct

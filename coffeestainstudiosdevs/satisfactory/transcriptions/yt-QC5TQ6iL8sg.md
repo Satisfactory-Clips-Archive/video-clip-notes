@@ -18,16 +18,4 @@ https://www.youtube.com/watch?v=QC5TQ6iL8sg
 
 ### Transcript
 
-> you played infinite in infinity factory
->
-> uh you think of the footprint metric of
->
-> construction i haven't played it but
->
-> jace has played it
->
-> i believe some people have played it um
->
-> so yes
->
-> we have played it
+> you played infinite in infinity factory uh you think of the footprint metric of construction i haven't played it but jace has played it i believe some people have played it um so yes we have played it

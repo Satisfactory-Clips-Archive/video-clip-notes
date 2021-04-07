@@ -16,16 +16,4 @@ https://www.youtube.com/watch?v=Xeg3Ljqen7M
 
 ### Transcript
 
-> you never you said never for pipes
->
-> drones and many other things too
->
-> i don't for drones we never said never
->
-> there there's a recording of
->
-> jay saying we've well maybe i don't know
->
-> don't worry about it
->
-> we have trust issues okay
+> you never you said never for pipes drones and many other things too i don't for drones we never said never there there's a recording of jay saying we've well maybe i don't know don't worry about it we have trust issues okay

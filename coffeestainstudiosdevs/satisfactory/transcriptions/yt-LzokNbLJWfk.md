@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 ### Transcript
 
-> why is there any female option and no
->
-> dogger option we're on the case don't
->
-> worry we're going to be
->
-> the priority here
->
-> holy [ __ ]
+> why is there any female option and no dogger option we're on the case don't worry we're going to be the priority here holy [ __ ]

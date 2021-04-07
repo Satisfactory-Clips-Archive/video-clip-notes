@@ -16,6 +16,4 @@ https://www.youtube.com/watch?v=VLSmQSlinEU
 
 ### Transcript
 
-> there's a pause no not right now
->
-> maybe in the future
+> there's a pause no not right now maybe in the future

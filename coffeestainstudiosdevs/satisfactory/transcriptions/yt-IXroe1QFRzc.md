@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> dlss one day like we have
->
-> no plans for that either at the moment
+> dlss one day like we have no plans for that either at the moment

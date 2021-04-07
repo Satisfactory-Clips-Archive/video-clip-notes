@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> ne sıklıkta Kardeşiniz mi o sizin Yavuz
->
-> soru soruyorum işte
->
-> bu durum
+> ne sıklıkta Kardeşiniz mi o sizin Yavuz soru soruyorum işte bu durum

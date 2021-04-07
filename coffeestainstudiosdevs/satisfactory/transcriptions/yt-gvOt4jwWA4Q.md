@@ -16,18 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> will the map be bigger later we're not
->
-> gonna
->
-> there's no plan to increase the size of
->
-> the map but uh we're working on what's
->
-> happening in the map so that there might
->
-> be more things to do on the map but
->
-> uh we don't want to increase the size
->
-> that's the current plan
+> will the map be bigger later we're not gonna there's no plan to increase the size of the map but uh we're working on what's happening in the map so that there might be more things to do on the map but uh we don't want to increase the size that's the current plan

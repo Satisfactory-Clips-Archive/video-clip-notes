@@ -16,16 +16,4 @@ https://www.youtube.com/watch?v=LcWR0d7elvs
 
 ### Transcript
 
-> mad max server where someone controls
->
-> all the iron nodes
->
-> that's really cool actually it's a cool
->
-> concept but i don't
->
-> it wouldn't work in satisfactory at the
->
-> current
->
-> state of it i think
+> mad max server where someone controls all the iron nodes that's really cool actually it's a cool concept but i don't it wouldn't work in satisfactory at the current state of it i think

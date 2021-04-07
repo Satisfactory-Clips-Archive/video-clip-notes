@@ -25,12 +25,4 @@ https://www.youtube.com/watch?v=oa5g8FKujqk
 
 ### Transcript
 
-> dream on what about the toilet yeah what
->
-> about the toilet
->
-> one dollar dlc flushing dlc i love it
->
-> it's coming i promise
->
-> it'd be funny
+> dream on what about the toilet yeah what about the toilet one dollar dlc flushing dlc i love it it's coming i promise it'd be funny

@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=-WX0_-KKIIo
 
 ### Transcript
 
-> it's a punishable offense
->
-> you misspelt punishable
+> it's a punishable offense you misspelt punishable

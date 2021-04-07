@@ -18,46 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 26th,
 
 ### Transcript
 
-> me uh will update four be rolled out to
->
-> experimental first yeah all of our
->
-> updates will go to experimental first
->
-> because
->
-> there's no amount of like internal
->
-> testing that we can do
->
-> that will rival uh how useful it is to
->
-> get it out to you guys so you know we do
->
-> a lot of testing first to make sure it
->
-> runs
->
-> to the best of our ability make sure
->
-> things run
->
-> um and then but then when we give it to
->
-> you guys we get so much more feedback on
->
-> not just bugs but other other feedback
->
-> and suggestions as well
->
-> which is just so valuable so it's um
->
-> it's much better for us to put it on an
->
-> experimental first
->
-> uh and then stabilize it then give it to
->
-> the early access folks
->
-> give it to the brave people first yep
+> me uh will update four be rolled out to experimental first yeah all of our updates will go to experimental first because there's no amount of like internal testing that we can do that will rival uh how useful it is to get it out to you guys so you know we do a lot of testing first to make sure it runs to the best of our ability make sure things run um and then but then when we give it to you guys we get so much more feedback on not just bugs but other other feedback and suggestions as well which is just so valuable so it's um it's much better for us to put it on an experimental first uh and then stabilize it then give it to the early access folks give it to the brave people first yep

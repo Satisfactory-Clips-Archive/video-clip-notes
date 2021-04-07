@@ -20,12 +20,4 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Transcript
 
-> well there you go battle royale
->
-> soon update four but we did a very
->
-> battle royale when we streamed for the
->
-> first time yeah we did that was pretty
->
-> fun pretty fun
+> well there you go battle royale soon update four but we did a very battle royale when we streamed for the first time yeah we did that was pretty fun pretty fun

@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=9dWWC0mFitU
 
 ### Transcript
 
-> is it gonna be tower defense uh there
->
-> won't be no um
+> is it gonna be tower defense uh there won't be no um

@@ -20,30 +20,4 @@ https://www.youtube.com/watch?v=TRPP6LcTtRQ
 
 ### Transcript
 
-> uh well more water be added to the map
->
-> not to my knowledge
->
-> um but it's entirely possible when the
->
-> world designers
->
-> sort of go over different sections of
->
-> the map like there are still some big
->
-> areas that they need to really work on
->
-> it's always entirely possible that they
->
-> find the need to add water there so that
->
-> whatever if anything we're going to add
->
-> water to the places where water is
->
-> missing right now
->
-> like there are a few holes here and
->
-> there so expect those
+> uh well more water be added to the map not to my knowledge um but it's entirely possible when the world designers sort of go over different sections of the map like there are still some big areas that they need to really work on it's always entirely possible that they find the need to add water there so that whatever if anything we're going to add water to the places where water is missing right now like there are a few holes here and there so expect those

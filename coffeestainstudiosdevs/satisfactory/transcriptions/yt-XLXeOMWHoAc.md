@@ -20,34 +20,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> any more major updates planned before
->
-> update uh before release 1.0 uh there
->
-> are a few
->
-> um there are a few coming yep we don't
->
-> have uh
->
-> we haven't specified like a number but
->
-> we know that we're gonna make like
->
-> update four and then we're gonna make
->
-> update five
->
-> um and then after that we haven't
->
-> specified anymore
->
-> and uh we have some ideas of what we'll
->
-> do after that but it's a bit too soon to
->
-> sort of
->
-> say publicly because things can always
->
-> change you know yes
+> any more major updates planned before update uh before release 1.0 uh there are a few um there are a few coming yep we don't have uh we haven't specified like a number but we know that we're gonna make like update four and then we're gonna make update five um and then after that we haven't specified anymore and uh we have some ideas of what we'll do after that but it's a bit too soon to sort of say publicly because things can always change you know yes

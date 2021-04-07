@@ -20,8 +20,4 @@ https://www.youtube.com/watch?v=IdKhbyR81Nw
 
 > [Music]
 >
-> like prioritize coal over nuclear i
->
-> don't
->
-> think so i don't know
+> like prioritize coal over nuclear i don't think so i don't know

@@ -18,20 +18,4 @@ https://www.youtube.com/watch?v=BoJRV1WelIM
 
 ### Transcript
 
-> yes mercury made it per update 3 was a
->
-> realignment versus update for his new
->
-> content yeah that's pretty good
->
-> tldr man people are so much better at
->
-> like organizing
->
-> someone said that update 3 was a
->
-> realignment of the game whereas update 4
->
-> is new content
->
-> yeah yeah yeah
+> yes mercury made it per update 3 was a realignment versus update for his new content yeah that's pretty good tldr man people are so much better at like organizing someone said that update 3 was a realignment of the game whereas update 4 is new content yeah yeah yeah

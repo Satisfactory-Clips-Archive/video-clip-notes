@@ -28,12 +28,4 @@ https://www.youtube.com/watch?v=5qoXAwqaGWA
 
 ### Transcript
 
-> uh any plans to release a map editor
->
-> uh no plans
->
-> that would be cool unfortunately the
->
-> whole map is like baked
->
-> so it's kind of hard to do it
+> uh any plans to release a map editor uh no plans that would be cool unfortunately the whole map is like baked so it's kind of hard to do it

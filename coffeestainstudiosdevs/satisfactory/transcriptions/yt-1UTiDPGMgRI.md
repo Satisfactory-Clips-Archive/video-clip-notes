@@ -32,38 +32,4 @@ https://www.youtube.com/watch?v=1UTiDPGMgRI
 
 ### Transcript
 
-> could some sanctum game play maybe the
->
-> tower defense game
->
-> part comes to satisfactory here's here's
->
-> reference number
->
-> whatever number are we on is that
->
-> anybody from the wiki here what's the
->
-> current reference
->
-> we're not going to add tower defense to
->
-> the game reference number
->
-> 40 whatever 29 so this is your 30th one
->
-> we're not gonna have tower defense of
->
-> the game
->
-> 42. i trust marv marv is the one has
->
-> keeps track of that so this
->
-> is your 30th one
->
-> unless this was a 29 it's not coming
->
-> star defense confirmed god damn it
->
-> that's not how that works
+> could some sanctum game play maybe the tower defense game part comes to satisfactory here's here's reference number whatever number are we on is that anybody from the wiki here what's the current reference we're not going to add tower defense to the game reference number 40 whatever 29 so this is your 30th one we're not gonna have tower defense of the game 42. i trust marv marv is the one has keeps track of that so this is your 30th one unless this was a 29 it's not coming star defense confirmed god damn it that's not how that works

@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Transcript
 
-> smoother now than they used to so
->
-> there's that new music theme there's no
->
-> music
->
-> theme coming but there is new music
->
-> coming
+> smoother now than they used to so there's that new music theme there's no music theme coming but there is new music coming

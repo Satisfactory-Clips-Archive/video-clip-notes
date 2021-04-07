@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=XpBlPzRT3FA
 
 ### Transcript
 
-> um can you please add a coffee machine
->
-> or even a coffee production line
->
-> i don't know maybe maybe not
->
-> uh we'll see
+> um can you please add a coffee machine or even a coffee production line i don't know maybe maybe not uh we'll see

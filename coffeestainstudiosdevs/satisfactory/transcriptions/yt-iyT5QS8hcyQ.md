@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=iyT5QS8hcyQ
 
 ### Transcript
 
-> it so one other thing uh
->
-> to mention here is just notice the snow
->
-> so that's yeah yeah just just just make
->
-> a mental note of the snow here
+> it so one other thing uh to mention here is just notice the snow so that's yeah yeah just just just make a mental note of the snow here

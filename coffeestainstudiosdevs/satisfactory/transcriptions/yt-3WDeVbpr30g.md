@@ -18,14 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Transcript
 
-> do we enter uh intend to add rain
->
-> electrical storms
->
-> uh we did prototype certain weather
->
-> things before i don't know if we're
->
-> gonna add it again if if so it's not
->
-> gonna be anytime soon
+> do we enter uh intend to add rain electrical storms uh we did prototype certain weather things before i don't know if we're gonna add it again if if so it's not gonna be anytime soon

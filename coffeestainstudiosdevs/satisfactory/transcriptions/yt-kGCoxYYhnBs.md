@@ -16,18 +16,4 @@ https://www.youtube.com/watch?v=kGCoxYYhnBs
 
 ### Transcript
 
-> for autumn beers you can pick fuels yes
->
-> but it's not the same
->
-> interaction as you have with equipment
->
-> because you can actually walk around and
->
-> like interact with
->
-> the automobile you can't do that with
->
-> equipment
->
-> currently
+> for autumn beers you can pick fuels yes but it's not the same interaction as you have with equipment because you can actually walk around and like interact with the automobile you can't do that with equipment currently

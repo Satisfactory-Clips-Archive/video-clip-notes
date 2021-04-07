@@ -16,16 +16,4 @@ This question was possibly duplicated with a more recent answer: February 2nd, 2
 
 ### Transcript
 
-> then she'll never know what is your
->
-> influence in deep rock galactic
->
-> none at all yeah we don't uh work on
->
-> that a difference today does it yeah
->
-> our producer has some influence i
->
-> believe
->
-> yeah but i don't know how much
+> then she'll never know what is your influence in deep rock galactic none at all yeah we don't uh work on that a difference today does it yeah our producer has some influence i believe yeah but i don't know how much

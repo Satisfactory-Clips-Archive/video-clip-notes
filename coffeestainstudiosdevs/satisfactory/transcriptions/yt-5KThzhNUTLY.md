@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=5KThzhNUTLY
 
 ### Transcript
 
-> um where's jason's beanie i'm wearing it
->
-> right now look it's a different beanie
->
-> it's a new one you guys
->
-> yeah yeah
->
-> yep
+> um where's jason's beanie i'm wearing it right now look it's a different beanie it's a new one you guys yeah yeah yep

@@ -16,26 +16,4 @@ https://www.youtube.com/watch?v=Nbe7G5GCosE
 
 ### Transcript
 
-> she got it when my only doggo brings me
->
-> a uranium waste in the early nation
->
-> there better wait
->
-> uh make it put it back where you found
->
-> it no he just wants to share with you
->
-> like this one your dog will just want to
->
-> share the love and it's like oh i found
->
-> this
->
-> love me you're a monster just telling it
->
-> oh take it away take it back
->
-> i don't want it bring it back to the
->
-> kitchen
+> she got it when my only doggo brings me a uranium waste in the early nation there better wait uh make it put it back where you found it no he just wants to share with you like this one your dog will just want to share the love and it's like oh i found this love me you're a monster just telling it oh take it away take it back i don't want it bring it back to the kitchen

@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=35ocyvNwQL0
 
 ### Transcript
 
-> term where someone's loops look the same
->
-> when they become relevant
->
-> i think so i don't see a reason why we
->
-> changed that
+> term where someone's loops look the same when they become relevant i think so i don't see a reason why we changed that

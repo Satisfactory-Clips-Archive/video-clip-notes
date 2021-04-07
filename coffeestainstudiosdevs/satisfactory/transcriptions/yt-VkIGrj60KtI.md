@@ -18,30 +18,4 @@ https://www.youtube.com/watch?v=VkIGrj60KtI
 
 ### Transcript
 
-> how can you concentrate with this hot
->
-> piece of simon walking around the office
->
-> we're working remotely unfortunately i
->
-> don't get to see the hot piece
->
-> yeah dylan also also lives in gothenburg
->
-> with me
->
-> like we're literally a room it's next to
->
-> each other
->
-> yeah a lot of people thought we were
->
-> roommates for a while
->
-> wait are we not but we we both commute
->
-> to
->
-> so we don't actually live in the same
->
-> city as as
+> how can you concentrate with this hot piece of simon walking around the office we're working remotely unfortunately i don't get to see the hot piece yeah dylan also also lives in gothenburg with me like we're literally a room it's next to each other yeah a lot of people thought we were roommates for a while wait are we not but we we both commute to so we don't actually live in the same city as as

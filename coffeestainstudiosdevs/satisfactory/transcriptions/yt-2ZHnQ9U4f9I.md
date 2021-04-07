@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> map expansion yeah maybe we'll do
->
-> something like that i don't know or
->
-> maybe like a new map
->
-> or you know i have no idea like
->
-> so much stuff that could happen
+> map expansion yeah maybe we'll do something like that i don't know or maybe like a new map or you know i have no idea like so much stuff that could happen

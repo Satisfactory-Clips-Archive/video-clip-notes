@@ -18,10 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> any plans to add more animals enemies
->
-> are dangerous yep the big crab as
->
-> i call us i kill acegaming said
->
-> uh
+> any plans to add more animals enemies are dangerous yep the big crab as i call us i kill acegaming said uh

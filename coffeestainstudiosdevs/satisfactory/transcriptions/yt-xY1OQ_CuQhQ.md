@@ -18,14 +18,4 @@ https://www.youtube.com/watch?v=xY1OQ_CuQhQ
 
 ### Transcript
 
-> a question mark okay let's just go here
->
-> will you be able to
->
-> pre-load the game no no you will be able
->
-> to load the game
->
-> when it's available yeah you can't
->
-> pre-load it unfortunately
+> a question mark okay let's just go here will you be able to pre-load the game no no you will be able to load the game when it's available yeah you can't pre-load it unfortunately

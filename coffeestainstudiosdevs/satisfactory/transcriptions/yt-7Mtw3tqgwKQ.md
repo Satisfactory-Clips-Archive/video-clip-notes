@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=7Mtw3tqgwKQ
 
 ### Transcript
 
-> um so yeah when we will release update
->
-> six
->
-> after update five before update seven
->
-> possibly be
->
-> after update nine um
+> um so yeah when we will release update six after update five before update seven possibly be after update nine um

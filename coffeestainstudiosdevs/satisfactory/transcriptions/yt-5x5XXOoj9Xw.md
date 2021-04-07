@@ -20,34 +20,8 @@ https://www.youtube.com/watch?v=5x5XXOoj9Xw
 
 ### Transcript
 
-> yeah will this question be missed is
->
-> zipline travel limited to distances
->
-> between two power poles
->
-> easy um
->
-> what was that question about the
->
-> ziplines
+> yeah will this question be missed is zipline travel limited to distances between two power poles easy um what was that question about the ziplines
 >
 > [Music]
 >
-> limited to distances between two poles
->
-> you zip line on
->
-> the power lines power lines put your
->
-> zipline on
->
-> yeah that's that's all the information
->
-> we can give yeah if you got a power line
->
-> you can sit blind
->
-> you're gonna find ziplines power plant
->
-> these these sections here are suspicious
+> limited to distances between two poles you zip line on the power lines power lines put your zipline on yeah that's that's all the information we can give yeah if you got a power line you can sit blind you're gonna find ziplines power plant these these sections here are suspicious

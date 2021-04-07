@@ -18,6 +18,4 @@ This question was possibly replaced with a more recent answer: October 27th, 202
 
 ### Transcript
 
-> battle for the game bernard rey
->
-> piqué
+> battle for the game bernard rey piqué

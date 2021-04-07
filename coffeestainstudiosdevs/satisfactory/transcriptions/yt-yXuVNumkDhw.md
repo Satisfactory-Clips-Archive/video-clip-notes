@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=yXuVNumkDhw
 
 ### Transcript
 
-> yeah when you with the early cm it was
->
-> pretty bad i'm sorry now let's
->
-> hear it it was pretty bad now that is
->
-> here it's somewhere even worse
+> yeah when you with the early cm it was pretty bad i'm sorry now let's hear it it was pretty bad now that is here it's somewhere even worse

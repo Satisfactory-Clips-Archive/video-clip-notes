@@ -18,22 +18,4 @@ This question was possibly duplicated with a more recent answer: March 30th, 202
 
 ### Transcript
 
-> planning on making any space stuff
->
-> no yeah we don't have any plans to let
->
-> they can like visit any of the planets
->
-> or
->
-> go out in space or something like all
->
-> space stuff no space stuff
->
-> and no aquatic yeah
->
-> that's that's the tagline for every
->
-> update no space stuff and no aquatic
->
-> update for no aquatic yeah
+> planning on making any space stuff no yeah we don't have any plans to let they can like visit any of the planets or go out in space or something like all space stuff no space stuff and no aquatic yeah that's that's the tagline for every update no space stuff and no aquatic  update for no aquatic yeah

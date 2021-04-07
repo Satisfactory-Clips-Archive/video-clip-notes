@@ -20,20 +20,4 @@ https://www.youtube.com/watch?v=dIQQWHWwCGA
 
 ### Transcript
 
-> it's like it was the migration to steam
->
-> overall was it worth it
->
-> yeah it was good uh it was good it was
->
-> good
->
-> it was a lot of work uh it was way more
->
-> work than people
->
-> want to believe it was even internally
->
-> i wanted to believe it was easy yeah
->
-> it wasn't it was so much work
+> it's like it was the migration to steam overall was it worth it yeah it was good uh it was good it was good it was a lot of work uh it was way more work than people want to believe it was even internally i wanted to believe it was easy yeah it wasn't it was so much work

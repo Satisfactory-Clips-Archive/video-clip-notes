@@ -14,16 +14,4 @@ https://www.youtube.com/watch?v=hYv3Hb64TLE
 
 ### Transcript
 
-> yeah no it's gear acquisition syndrome
->
-> but yeah it's kind of true i do have a
->
-> little bit gas
->
-> not not not that type of gas gear you're
->
-> whatever
->
-> we're just look it up it's a
->
-> thing
+> yeah no it's gear acquisition syndrome but yeah it's kind of true i do have a little bit gas not not not that type of gas gear you're whatever we're just look it up it's a thing

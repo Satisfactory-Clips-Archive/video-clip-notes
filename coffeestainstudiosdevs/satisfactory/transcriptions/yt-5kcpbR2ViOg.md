@@ -14,18 +14,4 @@ https://www.youtube.com/watch?v=5kcpbR2ViOg
 
 ### Transcript
 
-> will you steam suggested regional
->
-> pricing i believe we will i believe
->
-> yes yes we will use regional pricing and
->
-> and we'll also
->
-> as to the best of our ability match the
->
-> regional pricing between the two
->
-> different
->
-> platforms as well
+> will you steam suggested regional pricing i believe we will i believe yes yes we will use regional pricing and and we'll also as to the best of our ability match the regional pricing between the two different platforms as well

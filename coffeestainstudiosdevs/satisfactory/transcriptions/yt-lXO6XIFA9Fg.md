@@ -14,18 +14,4 @@ https://www.youtube.com/watch?v=lXO6XIFA9Fg
 
 ### Transcript
 
-> do what we got do you guys plan to open
->
-> uh publicly open some designer positions
->
-> at some point keep an eye on our
->
-> coffeestain
->
-> website copysteinstudios.com
->
-> jobs i think is where our jobs are i
->
-> think that's um
->
-> what you're asking
+> do what we got do you guys plan to open uh publicly open some designer positions at some point keep an eye on our coffeestain website copysteinstudios.com jobs i think is where our jobs are i think that's um what you're asking

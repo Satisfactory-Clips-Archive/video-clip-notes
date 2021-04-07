@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=gStfUrdtsBw
 
 ### Transcript
 
-> want a day since last injury sign yo
->
-> we love that idea i wish we could uh
->
-> yeah i love that idea i'll put that on
->
-> the qa site do it you guys do it do it
->
-> now
+> want a day since last injury sign yo we love that idea i wish we could uh yeah i love that idea i'll put that on the qa site do it you guys do it do it now

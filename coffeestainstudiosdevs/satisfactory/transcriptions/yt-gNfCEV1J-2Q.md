@@ -18,12 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 27th, 
 
 ### Transcript
 
-> like a new map for satisfactory oh
->
-> uh let's finish the fir this one we have
->
-> first uh maybe it's dlc
->
-> you know it might do something with that
->
-> but
+> like a new map for satisfactory oh uh let's finish the fir this one we have first uh maybe it's dlc you know it might do something with that but

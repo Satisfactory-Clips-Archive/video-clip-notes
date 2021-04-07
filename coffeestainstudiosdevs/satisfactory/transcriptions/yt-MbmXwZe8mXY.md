@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=MbmXwZe8mXY
 
 ### Transcript
 
-> yeah can we sometimes drink chai instead
->
-> of coffee
->
-> no no randomly
->
-> yes it's like juice sometimes yeah
+> yeah can we sometimes drink chai instead of coffee no no randomly yes it's like juice sometimes yeah

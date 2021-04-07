@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=HkgkowY2uUE
 
 ### Transcript
 
-> can you zipline on the fixedness power
->
-> lines i assume so because they're all
->
-> power
->
-> they're also paralyzed
+> can you zipline on the fixedness power lines i assume so because they're all power they're also paralyzed

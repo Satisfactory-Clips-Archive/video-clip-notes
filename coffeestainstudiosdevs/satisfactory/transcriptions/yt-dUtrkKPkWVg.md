@@ -14,22 +14,4 @@ https://www.youtube.com/watch?v=dUtrkKPkWVg
 
 ### Transcript
 
-> loving the soundtrack
->
-> thank you very much soundtrack is also
->
-> still being worked on by the way you
->
-> guys there's still
->
-> a lot of music that's not in the game
->
-> right now that's coming
->
-> so look forward to that i've also by the
->
-> way updated the the background music for
->
-> the stream so if the music is too loud
->
-> at point some point let me know
+> loving the soundtrack thank you very much soundtrack is also still being worked on by the way you guys there's still a lot of music that's not in the game right now that's coming so look forward to that i've also by the way updated the the background music for the stream so if the music is too loud at point some point let me know

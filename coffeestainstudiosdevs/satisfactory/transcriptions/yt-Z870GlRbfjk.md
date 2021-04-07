@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> how long any chance update 4 unlocks the
->
-> work in progress items
->
-> uh there is no there is no chance um
->
-> no it won't be
+> how long any chance update 4 unlocks the work in progress items uh there is no there is no chance um no it won't be

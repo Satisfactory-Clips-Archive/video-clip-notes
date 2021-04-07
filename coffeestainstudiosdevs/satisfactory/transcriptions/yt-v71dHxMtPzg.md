@@ -18,16 +18,4 @@ https://www.youtube.com/watch?v=v71dHxMtPzg
 
 ### Transcript
 
-> will the engine upgrade or update four
->
-> be first in early access
->
-> uh they'll come at the same time because
->
-> the engine upgrade is currently update
->
-> four
->
-> update four is built on the engine
->
-> upgrade
+> will the engine upgrade or update four be first in early access uh they'll come at the same time because the engine upgrade is currently update four update four is built on the engine upgrade

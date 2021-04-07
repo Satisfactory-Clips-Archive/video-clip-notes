@@ -14,16 +14,4 @@ https://www.youtube.com/watch?v=xq7HQ_tIkbY
 
 ### Transcript
 
-> can you give the doggos coffee no they
->
-> they die
->
-> if you do that so you should do that oh
->
-> and chocolate you can't give them
->
-> chocolate no yeah i said chocolate you
->
-> can't give it too much chocolate
->
-> yeah yeah
+> can you give the doggos coffee no they they die if you do that so you should do that oh and chocolate you can't give them chocolate no yeah i said chocolate you can't give it too much chocolate yeah yeah

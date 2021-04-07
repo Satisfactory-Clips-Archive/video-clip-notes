@@ -20,22 +20,4 @@ https://www.youtube.com/watch?v=MowmGat6MFY
 
 ### Transcript
 
-> that's true folks folks saying oh my god
->
-> signs confirmed we have confirmed that
->
-> we will do signs at some point
->
-> oh yeah whether that's update four
->
-> whether that's something beyond update
->
-> four
->
-> we'll never know um we will i sure don't
->
-> at some point one day yeah you all will
->
-> right
->
-> okay
+> that's true folks folks saying oh my god signs confirmed we have confirmed that we will do signs at some point oh yeah whether that's update four whether that's something beyond update four we'll never know um we will i sure don't at some point one day yeah you all will right okay

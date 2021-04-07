@@ -16,26 +16,4 @@ https://www.youtube.com/watch?v=QLsy0cZkBfg
 
 ### Transcript
 
-> x so csus has now descended to copying
->
-> mods i see
->
-> pana is democratic corner now that his
->
-> lights mob is obsolete same for all
->
-> flight
->
-> yeah so uh a lot of people doing that
->
-> whole like uh
->
-> they're just adding what mods do and
->
-> it's like
->
-> peop it's not like we didn't come up
->
-> with the idea before
->
-> it was just made in mods first
+> x so csus has now descended to copying mods i see pana is democratic corner now that his lights mob is obsolete same for all flight yeah so uh a lot of people doing that whole like uh they're just adding what mods do and it's like peop it's not like we didn't come up with the idea before it was just made in mods first

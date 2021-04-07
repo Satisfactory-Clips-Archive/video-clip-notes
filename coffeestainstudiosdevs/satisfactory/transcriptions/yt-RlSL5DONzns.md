@@ -18,14 +18,4 @@ This question was possibly duplicated with a more recent answer: March 2nd, 2021
 
 ### Transcript
 
-> there it is um
->
-> doesn't mean we get goats wrong studio
->
-> you should buy the coffee stain north
->
-> about the goats
->
-> they handle like goat the old goat
->
-> simulator stuff now so
+> there it is um doesn't mean we get goats wrong studio you should buy the coffee stain north about the goats they handle like goat the old goat simulator stuff now so

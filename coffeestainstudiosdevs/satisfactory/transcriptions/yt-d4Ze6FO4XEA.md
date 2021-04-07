@@ -14,14 +14,4 @@ https://www.youtube.com/watch?v=d4Ze6FO4XEA
 
 ### Transcript
 
-> english subtitles for english stream uh
->
-> no they're called closed captions my
->
-> friend for folks who uh
->
-> if you cannot hear right then you can
->
-> read
->
-> that's why you have them
+> english subtitles for english stream uh no they're called closed captions my friend for folks who uh if you cannot hear right then you can read that's why you have them

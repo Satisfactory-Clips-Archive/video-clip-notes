@@ -16,28 +16,4 @@ https://www.youtube.com/watch?v=QcD9eKlgte0
 
 ### Transcript
 
-> the the covers n ellen exactly the multi
->
-> experience would be like using multiple
->
-> client now
->
-> can't use trains etc it's exactly and in
->
-> multiplayer now you at least have
->
-> someone who is a server who can interact
->
-> with those things
->
-> but on a dedicated server the dedicated
->
-> server is the server that means no one
->
-> can interact with those things at all
->
-> ever
->
-> so it's like there's no point so like
->
-> yeah
+> the the covers n ellen exactly the multi experience would be like using multiple client now can't use trains etc it's exactly and in multiplayer now you at least have someone who is a server who can interact with those things but on a dedicated server the dedicated server is the server that means no one can interact with those things at all ever so it's like there's no point so like yeah

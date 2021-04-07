@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=kNfhYvkifNM
 
 ### Transcript
 
-> is jace using
->
-> an old soup can for a mic shouldn't be
->
-> it could be my like my like the room
->
-> isn't really well acoustic yeah
+> is jace using an old soup can for a mic shouldn't be it could be my like my like the room isn't really well acoustic yeah

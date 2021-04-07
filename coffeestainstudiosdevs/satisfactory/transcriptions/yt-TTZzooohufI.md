@@ -14,30 +14,4 @@ https://www.youtube.com/watch?v=TTZzooohufI
 
 ### Transcript
 
-> don't really know right now any way to
->
-> disable motion blur
->
-> did we do we don't have that you put the
->
-> post process on low
->
-> yeah i think so but the game will look
->
-> worse i blurry
->
-> want that myself yeah we should not put
->
-> an option right
->
-> and i guess there are going to be a lot
->
-> of like tick boxes
->
-> yeah we have we have talked about this
->
-> it's going to happen yeah so if you turn
->
-> up this process down to low it should be
->
-> gone
+> don't really know right now any way to disable motion blur did we do we don't have that you put the post process on low yeah i think so but the game will look worse i blurry want that myself yeah we should not put an option right and i guess there are going to be a lot of like tick boxes yeah we have we have talked about this it's going to happen yeah so if you turn up this process down to low it should be gone

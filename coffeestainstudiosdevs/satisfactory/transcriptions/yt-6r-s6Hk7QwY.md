@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> so people asking about sam or top secret
->
-> you can stop asking about some more now
+> so people asking about sam or top secret you can stop asking about some more now

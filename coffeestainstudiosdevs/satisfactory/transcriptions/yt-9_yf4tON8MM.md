@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=9_yf4tON8MM
 
 ### Transcript
 
-> um any vulcan support no
->
-> not currently
+> um any vulcan support no not currently

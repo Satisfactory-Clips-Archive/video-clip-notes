@@ -14,8 +14,4 @@ https://www.youtube.com/watch?v=ZSFnn5PWzpU
 
 ### Transcript
 
-> what is love um
->
-> if i ever find out i'll tell you but i
->
-> don't know
+> what is love um if i ever find out i'll tell you but i don't know

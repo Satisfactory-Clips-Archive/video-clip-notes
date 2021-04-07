@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=0G4J7VdldKI
 
 ### Transcript
 
-> can we get away from farming spiders
->
-> what's wrong with you
->
-> ciendio what do you mean
->
-> why would you want to do that
+> can we get away from farming spiders what's wrong with you ciendio what do you mean why would you want to do that

@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=rgIApn5PfMM
 
 ### Transcript
 
-> whatever you want
->
-> mommy
+> whatever you want mommy

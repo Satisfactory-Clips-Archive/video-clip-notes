@@ -18,14 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 ### Transcript
 
-> satisfactory on mobile yeah soon
->
-> that's that's actually the reveal today
->
-> you have to be you guys got mobile
->
-> phones
->
-> you have to beat flappy goat oh yeah
->
-> and then we'll release it on mobile yep
+> satisfactory on mobile yeah soon that's that's actually the reveal today you have to be you guys got mobile phones you have to beat flappy goat oh yeah and then we'll release it on mobile yep

@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=MkmrRDX0axw
 
 ### Transcript
 
-> planned for next halloween coffee cup
->
-> mark ii
->
-> soon that would be good if we made a
->
-> mark to a coffee cup it was just bigger
->
-> oh add that on the q a site yeah yeah
+> planned for next halloween coffee cup mark ii soon that would be good if we made a mark to a coffee cup it was just bigger oh add that on the q a site yeah yeah

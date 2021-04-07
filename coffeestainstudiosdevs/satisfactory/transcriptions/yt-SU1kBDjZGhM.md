@@ -16,32 +16,4 @@ https://www.youtube.com/watch?v=SU1kBDjZGhM
 
 ### Transcript
 
-> yeah um
->
-> will we get a truck and tractor ghosting
->
-> fix soon
->
-> uh depends depends what you mean with
->
-> ghosting like is it not taking your
->
-> calls
->
-> your maccas is it just like not talking
->
-> to you
->
-> uh vehicles will will probably get a
->
-> proper fix in the future
->
-> uh i don't know when that will happen
->
-> though we've done some tweaks to the
->
-> vehicles right now to make them a little
->
-> bit better on client but uh
->
-> there's still more work to do with it
+> yeah um will we get a truck and tractor ghosting fix soon uh depends depends what you mean with ghosting like is it not taking your calls your maccas is it just like not talking to you uh vehicles will will probably get a proper fix in the future uh i don't know when that will happen though we've done some tweaks to the vehicles right now to make them a little bit better on client but uh there's still more work to do with it

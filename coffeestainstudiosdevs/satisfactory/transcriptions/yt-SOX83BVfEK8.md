@@ -16,36 +16,8 @@ https://www.youtube.com/watch?v=SOX83BVfEK8
 
 ### Transcript
 
-> the difference are there physics
->
-> safeties in place on vehicles i've been
->
-> doing issues uh having issues with
->
-> multiple loopy loops
->
-> um there was a thing that i had put on
->
-> them once
->
-> but then and it worked but then it
->
-> didn't work with something else that was
->
-> happening i think for optimizations
->
-> purposes and we have to turn it off
->
-> um which is just
->
-> uh a response that really says nothing
->
-> at all actually
+> the difference are there physics safeties in place on vehicles i've been doing issues uh having issues with multiple loopy loops um there was a thing that i had put on them once but then and it worked but then it didn't work with something else that was happening i think for optimizations purposes and we have to turn it off um which is just uh a response that really says nothing at all actually
 >
 > [Laughter]
 >
-> don't say it's just like it's just like
->
-> oh it could be better but it isn't
->
-> completely pointless comment there
+> don't say it's just like it's just like oh it could be better but it isn't completely pointless comment there

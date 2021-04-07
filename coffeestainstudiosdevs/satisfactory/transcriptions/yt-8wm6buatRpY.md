@@ -14,20 +14,4 @@ https://www.youtube.com/watch?v=8wm6buatRpY
 
 ### Transcript
 
-> will we ever get a donut to go with the
->
-> endless coffee that's a good question
->
-> upload that on the kiwi site and it has
->
-> to play
->
-> it has to play the minecraft eating
->
-> sound every time you take a bite
->
-> yeah yeah dude we're gonna get dm saved
->
-> for that
->
-> oh what again
+> will we ever get a donut to go with the endless coffee that's a good question upload that on the kiwi site and it has to play it has to play the minecraft eating sound every time you take a bite yeah yeah dude we're gonna get dm saved for that oh what again

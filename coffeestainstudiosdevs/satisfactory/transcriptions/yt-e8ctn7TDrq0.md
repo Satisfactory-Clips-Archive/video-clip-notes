@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> will trains get collision in the future
->
-> yes at some point we we want to work on
->
-> that
->
-> don't know when but we hope so
+> will trains get collision in the future yes at some point we we want to work on that don't know when but we hope so

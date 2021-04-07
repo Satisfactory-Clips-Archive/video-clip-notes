@@ -20,30 +20,4 @@ https://www.youtube.com/watch?v=HM6YmlpivPo
 >
 > [Music]
 >
-> that's the worst spanish line no it
->
-> wasn't chimera secreta it was
->
-> well intrata entrada secretary a crater
->
-> or something but it was all
->
-> intentionally bad by the way
->
-> no no i mean not that i can do a great
->
-> spanish accent
->
-> but it was it wasn't intentionally bad
->
-> and try to secreta vamanos correcto
->
-> ariston tonto
->
-> why did i think of that yeah that kind
->
-> of stupid [ __ ] it's amazing
->
-> it's like we're in france exactly it's
->
-> like
+> that's the worst spanish line no it wasn't chimera secreta it was well intrata entrada secretary a crater or something but it was all intentionally bad by the way no no i mean not that i can do a great spanish accent but it was it wasn't intentionally bad and try to secreta vamanos correcto ariston tonto why did i think of that yeah that kind of stupid [ __ ] it's amazing it's like we're in france exactly it's like

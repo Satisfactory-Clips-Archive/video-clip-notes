@@ -18,16 +18,4 @@ https://www.youtube.com/watch?v=Lv_BZl7rgOE
 
 ### Transcript
 
-> how do gas extractors work with multiple
->
-> fart emotes uh to increase gas
->
-> production we're gonna put farty modes
->
-> in for
->
-> increased gas production but it was op
->
-> so we removed it
->
-> sorry yeah our bad
+> how do gas extractors work with multiple fart emotes uh to increase gas production we're gonna put farty modes in for increased gas production but it was op so we removed it sorry yeah our bad

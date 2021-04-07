@@ -18,30 +18,4 @@ https://www.youtube.com/watch?v=pEltfFMdTcc
 
 ### Transcript
 
-> challenge you with more complex ones
->
-> complex changes include battery
->
-> production being reworked
->
-> box out refinement and aluminium
->
-> production has been rebalanced to reduce
->
-> complexity and scale
->
-> and the amount of refineries that's
->
-> right giant we've also
->
-> i love that it looks like we're saying
->
-> it in our heads when we look at each
->
-> other
->
-> exactly just pretend that we're
->
-> telepathically talking guys once again
->
-> and the amount of refineries right
+> challenge you with more complex ones complex changes include battery production being reworked box out refinement and aluminium production has been rebalanced to reduce complexity and scale and the amount of refineries that's right giant we've also i love that it looks like we're saying it in our heads when we look at each other exactly just pretend that we're telepathically talking guys once again and the amount of refineries right

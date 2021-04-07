@@ -14,8 +14,4 @@ https://www.youtube.com/watch?v=PtrLYyfhnvQ
 
 ### Transcript
 
-> you why does rocket pod fly away for
->
-> 1-10 minutes and then come back
->
-> it's delivering stuff
+> you why does rocket pod fly away for 1-10 minutes and then come back it's delivering stuff

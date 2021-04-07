@@ -16,16 +16,4 @@ This question was possibly replaced with a more recent answer: [March 9th, 2021 
 
 ### Transcript
 
-> a potential of Medicine and become the
->
-> first in the unaware of pixels
->
-> a possible to the night more interest in
->
-> the market is working Days for Little
->
-> girls mayy Optimus it again maintains
->
-> Mày voices the right now think that
->
-> person should they want
+> a potential of Medicine and become the first in the unaware of pixels a possible to the night more interest in the market is working Days for Little girls mayy Optimus it again maintains Mày voices the right now think that person should they want

@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=pTg32vCi8_Y
 
 ### Transcript
 
-> is people still asking for pipes
->
-> it's like there's a whole update about
->
-> to drop
->
-> the meme will never die dude
+> is people still asking for pipes it's like there's a whole update about to drop the meme will never die dude

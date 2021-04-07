@@ -16,26 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 
 ### Transcript
 
-> can you add ability to deselect with
->
-> control
->
-> not impossible it might be one of those
->
-> like quality of life features that we
->
-> fix that would be nice yeah we've i
->
-> because i'm the one who implemented that
->
-> and i just didn't
->
-> get to get around to implementing that
->
-> um so it's not impo like i don't think
->
-> it's impossible that that happens in the
->
-> future
->
-> if somebody gets around to doing it
+> can you add ability to deselect with control not impossible it might be one of those like quality of life features that we fix that would be nice yeah we've i because i'm the one who implemented that and i just didn't get to get around to implementing that um so it's not impo like i don't think it's impossible that that happens in the future if somebody gets around to doing it

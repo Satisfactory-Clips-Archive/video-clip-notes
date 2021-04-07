@@ -16,34 +16,4 @@ https://www.youtube.com/watch?v=AoGBlnRxGdw
 
 ### Transcript
 
-> i'm sunday chillin uh what do you guys
->
-> do outside of community management
->
-> responsibilities
->
-> right now i think that's all i do i just
->
-> decided you mean like when i'm not
->
-> working or
->
-> oh yeah maybe outside of when i'm not
->
-> working or
->
-> i mean we just do community management
->
-> conferencing like realism yeah yeah yeah
->
-> that's all we do yeah but outside of
->
-> work you know we just do our own thing
->
-> play games
->
-> chill that's what i do pretty much only
->
-> play games
->
-> nerd
+> i'm sunday chillin uh what do you guys do outside of community management responsibilities right now i think that's all i do i just decided you mean like when i'm not working or oh yeah maybe outside of when i'm not working or i mean we just do community management conferencing like realism yeah yeah yeah that's all we do yeah but outside of work you know we just do our own thing play games chill that's what i do pretty much only play games nerd

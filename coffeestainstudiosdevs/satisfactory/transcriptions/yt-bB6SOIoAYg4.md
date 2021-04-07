@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 ### Transcript
 
-> that's some pro stretch right there
->
-> where is liza doggo there are various
->
-> places on the map they can be a little
->
-> hard to find sometimes you find them
->
-> here
+> that's some pro stretch right there where is liza doggo there are various places on the map they can be a little hard to find sometimes you find them here

@@ -16,20 +16,4 @@ https://www.youtube.com/watch?v=Vggm0YmGP84
 
 ### Transcript
 
-> what's happening is we're getting close
->
-> to the update reveal and launch but
->
-> we're going insane
->
-> so this is this is the final store for
->
-> developers before
->
-> release yeah so we're just having some
->
-> fun it's it's out in like just over an
->
-> hour
->
-> are we thought
+> what's happening is we're getting close to the update reveal and launch but we're going insane so this is this is the final store for developers before release yeah so we're just having some fun it's it's out in like just over an hour are we thought

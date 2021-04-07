@@ -18,12 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 27th, 
 
 > [Music]
 >
-> any plans for new maps no plans
->
-> no we're going to finish the one we have
->
-> first
->
-> and then who knows if we need another
->
-> planet
+> any plans for new maps no plans no we're going to finish the one we have first and then who knows if we need another planet

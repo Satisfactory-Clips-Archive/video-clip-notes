@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=L6458tIFFho
 
 ### Transcript
 
-> yeah uh for valheim we don't do valheim
->
-> yeah no valenheim is made by iron gate
->
-> studios
->
-> i don't know how big the team is there
->
-> are four people i think
+> yeah uh for valheim we don't do valheim yeah no valenheim is made by iron gate studios i don't know how big the team is there are four people i think

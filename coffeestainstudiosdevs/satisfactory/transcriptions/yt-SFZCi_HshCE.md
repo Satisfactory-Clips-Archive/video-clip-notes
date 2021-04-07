@@ -20,30 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> get served as part of update three no
->
-> lizard dog or plushies they will be a
->
-> thing
->
-> including body pillows by the way
->
-> yeah that's official yeah we are i'm
->
-> making sure wait is it yeah
->
-> holy i thought you were still down
->
-> yeah no i'm i am
->
-> like beyond that yeah i think i think i
->
-> think simon's done a little bit yeah
->
-> yeah
->
-> yeah let us know who else like obviously
->
-> you want a full body pillow
->
-> get whatever it's called
+> get served as part of update three no lizard dog or plushies they will be a thing including body pillows by the way yeah that's official yeah we are i'm making sure wait is it yeah holy i thought you were still down yeah no i'm i am like beyond that yeah i think i think i think simon's done a little bit yeah yeah yeah let us know who else like obviously you want a full body pillow get whatever it's called

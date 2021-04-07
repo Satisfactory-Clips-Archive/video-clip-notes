@@ -16,28 +16,4 @@ https://www.youtube.com/watch?v=-ePXx9kO3uQ
 
 ### Transcript
 
-> is it cold inside uh
->
-> sweden has amazing uh insulation
->
-> also heating so no it's not cold it's
->
-> never cold inside
->
-> like like like in my apartment here i
->
-> like i wear a lot of like
->
-> like hoodies and [ __ ] like that and
->
-> beanies and whatever but i don't
->
-> actually need to i can i can wear shirt
->
-> and shorts
->
-> like with the heating that comes with
->
-> the the building and that's fine so
->
-> yeah okay let's go
+> is it cold inside uh sweden has amazing uh insulation also heating so no it's not cold it's never cold inside like like like in my apartment here i like i wear a lot of like like hoodies and [ __ ] like that and beanies and whatever but i don't actually need to i can i can wear shirt and shorts like with the heating that comes with the the building and that's fine so yeah okay let's go

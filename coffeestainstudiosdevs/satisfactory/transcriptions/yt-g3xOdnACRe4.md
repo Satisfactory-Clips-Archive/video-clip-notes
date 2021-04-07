@@ -16,6 +16,4 @@ https://www.youtube.com/watch?v=g3xOdnACRe4
 
 ### Transcript
 
-> Is snow confirmed?
->
-> Yeah.
+> Is snow confirmed? Yeah.

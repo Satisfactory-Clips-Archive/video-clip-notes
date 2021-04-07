@@ -18,6 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 ### Transcript
 
-> do this yeah what gender is the
->
-> character model it is female yes
+> do this yeah what gender is the character model it is female yes

@@ -16,8 +16,4 @@ https://www.youtube.com/watch?v=6cbxDiQr9kY
 
 ### Transcript
 
-> jace's tom holland of leaks what
->
-> i am not he's he's way better looking
->
-> yeah he's like a little
+> jace's tom holland of leaks what i am not he's he's way better looking yeah he's like a little

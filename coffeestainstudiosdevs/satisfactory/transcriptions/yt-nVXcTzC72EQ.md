@@ -18,8 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Transcript
 
-> the press third person when not anytime
->
-> soon
->
-> if at all
+> the press third person when not anytime soon if at all

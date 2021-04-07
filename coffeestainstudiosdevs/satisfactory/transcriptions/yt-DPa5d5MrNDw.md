@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 20th, 
 
 ### Transcript
 
-> yet.
->
-> when is Satisfactory 2 coming out?
->
-> Soon, soon.
->
-> Uhh,
->
-> Update 4 will come up after Satisfactory 2.
+> yet. when is Satisfactory 2 coming out? Soon, soon. Uhh, Update 4 will come up after Satisfactory 2.

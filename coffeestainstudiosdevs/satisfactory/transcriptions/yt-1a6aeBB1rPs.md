@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> um do you know when uh dedicated servers
->
-> are coming nope i don't know
+> um do you know when uh dedicated servers are coming nope i don't know

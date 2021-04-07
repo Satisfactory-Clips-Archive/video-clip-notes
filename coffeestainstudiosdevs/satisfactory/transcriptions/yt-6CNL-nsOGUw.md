@@ -20,18 +20,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> will summersloops and mrspheres finally
->
-> have a use not an update for
->
-> that's all tied to story so that's gonna
->
-> be in in 1.0 so you're gonna have to
->
-> wait a little bit longer for that
->
-> wait a little bit longer a little bit
->
-> longer
->
-> british i.e
+> will summersloops and mrspheres finally have a use not an update for that's all tied to story so that's gonna be in in 1.0 so you're gonna have to wait a little bit longer for that wait a little bit longer a little bit longer british i.e

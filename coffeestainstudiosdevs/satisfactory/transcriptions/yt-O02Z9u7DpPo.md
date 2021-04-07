@@ -18,16 +18,4 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Transcript
 
-> question from steam because i missed
->
-> that well the game fee in the future had
->
-> some cataclysms or breakdowns
->
-> i don't know i don't think so but i
->
-> don't know it would be
->
-> cool though it would be cool
->
-> um so yeah
+> question from steam because i missed that well the game fee in the future had some cataclysms or breakdowns i don't know i don't think so but i don't know it would be cool though it would be cool um so yeah

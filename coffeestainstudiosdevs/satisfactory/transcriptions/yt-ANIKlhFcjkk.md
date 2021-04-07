@@ -20,12 +20,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> is the world update part of update 4
->
-> will that come later it will come later
->
-> the world update will be part of a one
->
-> of the updates we don't know exactly
->
-> which one
+> is the world update part of update 4 will that come later it will come later the world update will be part of a one of the updates we don't know exactly which one

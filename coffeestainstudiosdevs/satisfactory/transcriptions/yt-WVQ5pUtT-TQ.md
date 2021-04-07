@@ -23,8 +23,4 @@ https://www.youtube.com/watch?v=WVQ5pUtT-TQ
 
 ### Transcript
 
-> are smart splitters changing in update 4
->
-> and no smart splitters are also staying
->
-> the same
+> are smart splitters changing in update 4 and no smart splitters are also staying the same

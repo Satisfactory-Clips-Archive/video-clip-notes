@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=VNMPlZTlRGk
 
 ### Transcript
 
-> uh let's see are we looking at
->
-> improving the maneuverability of
->
-> jetpacks a lot of people have asked for
->
-> that so uh folks have looked at it for
->
-> sure we'll see what happens there
+> uh let's see are we looking at improving the maneuverability of jetpacks a lot of people have asked for that so uh folks have looked at it for sure we'll see what happens there

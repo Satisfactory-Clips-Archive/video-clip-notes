@@ -16,24 +16,4 @@ https://www.youtube.com/watch?v=EoftAI2xFVg
 
 ### Transcript
 
-> personal stream okay so uh
->
-> it was it was crazy to see the response
->
-> that we got
->
-> yeah uh blows my mind i mean
->
-> super stoked when when i if you guys
->
-> haven't seen update three
->
-> patch notes video please check it out
->
-> because it was pretty insane
->
-> and i cannot believe in my opinion we
->
-> topped it in my opinion we topped it
->
-> with update 4.
+> personal stream okay so uh it was it was crazy to see the response that we got yeah uh blows my mind i mean super stoked when when i if you guys haven't seen update three patch notes video please check it out because it was pretty insane and i cannot believe in my opinion we topped it in my opinion we topped it with update 4.

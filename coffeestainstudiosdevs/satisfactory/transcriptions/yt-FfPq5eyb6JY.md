@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=FfPq5eyb6JY
 
 ### Transcript
 
-> jace isn't watching good i hope not
->
-> if he is i'm gonna fire him
+> jace isn't watching good i hope not if he is i'm gonna fire him

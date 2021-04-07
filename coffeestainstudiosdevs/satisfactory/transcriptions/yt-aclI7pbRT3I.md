@@ -18,10 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> do you plan to move early earlier than
->
-> third of april no
->
-> at the earliest april 13th is
->
-> when update 4 is coming up
+> do you plan to move early earlier than third of april no at the earliest april 13th is when update 4 is coming up

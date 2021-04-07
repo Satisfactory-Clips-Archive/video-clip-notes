@@ -23,32 +23,4 @@ https://www.youtube.com/watch?v=UGnFRDOjd-M
 
 ### Transcript
 
-> when can we order a coffee mug
->
-> yo so jace is the one who's like
->
-> keeping track of that uh most of the
->
-> time
->
-> so i'm not 100 sure
->
-> what the state of things are right now
->
-> but we've made a lot like we've made
->
-> some good progress on the cups you guys
->
-> um so i think i said that the last
->
-> stream as well but we've made
->
-> good progress in the cups i don't know
->
-> what that means but we're doing pretty
->
-> well
->
-> just call jason ask him i'm not gonna
->
-> call jace on his vacation
+> when can we order a coffee mug yo so jace is the one who's like keeping track of that uh most of the time so i'm not 100 sure what the state of things are right now but we've made a lot like we've made some good progress on the cups you guys um so i think i said that the last stream as well but we've made good progress in the cups i don't know what that means but we're doing pretty well just call jason ask him i'm not gonna call jace on his vacation

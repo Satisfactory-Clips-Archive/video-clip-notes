@@ -16,22 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 ### Transcript
 
-> can they underwater biome when
->
-> i don't think we'll ever have that there
->
-> is like one part of the map where you
->
-> can like
->
-> dive down and like build underneath the
->
-> water
->
-> um
->
-> but yeah that's that's probably the
->
-> closest we're gonna get some
->
-> uh to some underwater stuff
+> can they underwater biome when i don't think we'll ever have that there is like one part of the map where you can like dive down and like build underneath the water um but yeah that's that's probably the closest we're gonna get some uh to some underwater stuff

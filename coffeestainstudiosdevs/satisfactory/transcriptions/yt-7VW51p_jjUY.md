@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=7VW51p_jjUY
 
 ### Transcript
 
-> snoot looks so fed up perfect that's
->
-> exactly what we're going for
->
-> yeah at this point he was like just
->
-> [ __ ] say it all right
->
-> yeah perfect
+> snoot looks so fed up perfect that's exactly what we're going for yeah at this point he was like just [ __ ] say it all right yeah perfect

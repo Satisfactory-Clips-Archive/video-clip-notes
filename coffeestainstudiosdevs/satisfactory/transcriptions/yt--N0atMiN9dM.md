@@ -22,8 +22,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> update for it no they don't still uh
->
-> work in progress they're gonna come with
->
-> the story
+> update for it no they don't still uh work in progress they're gonna come with the story

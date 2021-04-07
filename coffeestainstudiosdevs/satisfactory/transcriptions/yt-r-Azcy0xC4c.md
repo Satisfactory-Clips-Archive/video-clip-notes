@@ -18,16 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 
 ### Transcript
 
-> please take a look at the doggo farm
->
-> that would be so cool in base game wait
->
-> doggo farm
->
-> have i missed something really cool what
->
-> is this
->
-> doggo farming is that a mod for like
->
-> raising puppers or
+> please take a look at the doggo farm that would be so cool in base game wait doggo farm have i missed something really cool what is this doggo farming is that a mod for like raising puppers or

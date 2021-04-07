@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> good way what was satisfactory get ray
->
-> tracing over my dead body
->
-> rather die
+> good way what was satisfactory get ray tracing over my dead body rather die

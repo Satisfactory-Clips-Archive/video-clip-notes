@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=Tit_bHzixmk
 
 ### Transcript
 
-> glad you enjoy it why do you guys take
->
-> our industrial lights away from walkways
->
-> i miss those
->
-> oh i didn't do it probably
->
-> drivable lamps pogchamps
+> glad you enjoy it why do you guys take our industrial lights away from walkways i miss those oh i didn't do it probably drivable lamps pogchamps

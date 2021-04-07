@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=leLtSRvC-J8
 
 ### Transcript
 
-> thanks for hanging out on the stream
->
-> does the crab have a crab
->
-> only resource i don't know
->
-> i actually don't know
+> thanks for hanging out on the stream does the crab have a crab only resource i don't know i actually don't know

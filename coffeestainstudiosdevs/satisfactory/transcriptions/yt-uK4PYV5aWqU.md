@@ -18,16 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> uh it's our release for update 4 on ea
->
-> yes
->
-> on april 13th so in two weeks from from
->
-> today
->
-> uh we're going to be releasing ea
->
-> we're going to release update 42 ea
->
-> essentially
+> uh it's our release for update 4 on ea yes on april 13th so in two weeks from from today uh we're going to be releasing ea we're going to release update 42 ea essentially

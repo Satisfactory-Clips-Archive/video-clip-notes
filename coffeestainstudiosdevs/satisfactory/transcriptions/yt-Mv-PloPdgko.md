@@ -14,8 +14,4 @@ https://www.youtube.com/watch?v=Mv-PloPdgko
 
 ### Transcript
 
-> on how that works are those statistics
->
-> public they're
->
-> not as far as i know
+> on how that works are those statistics public they're not as far as i know

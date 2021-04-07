@@ -59,12 +59,4 @@ https://www.youtube.com/watch?v=nUtF3e6i_lU
 
 ### Transcript
 
-> like once dedicated servers mark isn't
->
-> necessarily
->
-> involved in that that much um
->
-> we don't have an update on dedicated
->
-> service by the way still working on that
+> like once dedicated servers mark isn't necessarily involved in that that much um we don't have an update on dedicated service by the way still working on that

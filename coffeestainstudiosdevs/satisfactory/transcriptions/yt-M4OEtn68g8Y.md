@@ -24,18 +24,4 @@ https://www.youtube.com/watch?v=M4OEtn68g8Y
 
 > [Music]
 >
-> will turbo fuel start working in
->
-> refineries when the recipe is moved
->
-> uh
->
-> i think so because yeah the recipe has
->
-> changed
->
-> so it wouldn't even work in the refinery
->
-> if it was still there
->
-> what do you think of those apples
+> will turbo fuel start working in refineries when the recipe is moved uh i think so because yeah the recipe has changed so it wouldn't even work in the refinery if it was still there what do you think of those apples

@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=RuQcbza7pVw
 
 ### Transcript
 
-> real-time reflections for the helmet
->
-> yo we're at that point now where i don't
->
-> think we'll do that just for the troll
->
-> for the loss you know
+> real-time reflections for the helmet yo we're at that point now where i don't think we'll do that just for the troll for the loss you know

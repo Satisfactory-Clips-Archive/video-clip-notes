@@ -18,14 +18,4 @@ https://www.youtube.com/watch?v=MmiaI_vhyI0
 
 ### Transcript
 
-> can we send the nuke waste to fix it up
->
-> there
->
-> what do you mean to the to the food
->
-> court you can't you can't mix
->
-> nuclear waste with food what's wrong
->
-> with you it's crazy
+> can we send the nuke waste to fix it up there what do you mean to the to the food court you can't you can't mix nuclear waste with food what's wrong with you it's crazy

@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Transcript
 
-> weather and satisfactory
->
-> maybe trying to think uh
->
-> i don't think
->
-> no i don't think i've heard anything
->
-> about weather
+> weather and satisfactory maybe trying to think uh i don't think no i don't think i've heard anything about weather

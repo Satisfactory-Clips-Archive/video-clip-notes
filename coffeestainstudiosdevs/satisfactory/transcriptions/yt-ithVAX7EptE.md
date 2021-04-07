@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> micro transaction dlc
->
-> you know what
+> micro transaction dlc you know what

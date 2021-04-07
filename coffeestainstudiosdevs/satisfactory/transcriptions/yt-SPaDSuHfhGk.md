@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=SPaDSuHfhGk
 
 ### Transcript
 
-> i push one or the other no can i have
->
-> pizza in-game yo that would be cool
+> i push one or the other no can i have pizza in-game yo that would be cool

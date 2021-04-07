@@ -14,18 +14,4 @@ https://www.youtube.com/watch?v=5ANUhKoS4uQ
 
 ### Transcript
 
-> uh can you make constructors more
->
-> efficient because
->
-> in a big early setup you need a lot of
->
-> them and it causes lag and everything
->
-> uh i don't know
->
-> i'll put that on the q a site if you
->
-> feel like it's it's they're not good
->
-> enough
+> uh can you make constructors more efficient because in a big early setup you need a lot of them and it causes lag and everything uh i don't know i'll put that on the q a site if you feel like it's it's they're not good enough

@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=zz7cFlKFO5A
 
 ### Transcript
 
-> confusing needs a small smart splitter
->
-> to prioritize issues
->
-> that's true that's true the keyword site
->
-> is pog yes
->
-> true story
+> confusing needs a small smart splitter to prioritize issues that's true that's true the keyword site is pog yes true story

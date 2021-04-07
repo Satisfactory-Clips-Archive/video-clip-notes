@@ -14,16 +14,4 @@ https://www.youtube.com/watch?v=-lK9z79JdlQ
 
 ### Transcript
 
-> why are puns bannable
->
-> if if you don't know the answer to that
->
-> question
->
-> then tread lightly
->
-> um
->
-> we make the rules okay don't worry about
->
-> it
+> why are puns bannable if if you don't know the answer to that question then tread lightly um we make the rules okay don't worry about it

@@ -24,24 +24,4 @@ https://www.youtube.com/watch?v=8RThakzdQlw
 
 ### Transcript
 
-> uh okay yeah so they can see your your
->
-> screen now yeah so like these are all
->
-> like the
->
-> different takes we're just filming like
->
-> a long segment of like
->
-> let's react and do weird
->
-> and the pog thing at the end i think
->
-> here
->
-> and then we did yeah this this so this
->
-> was all like we're just making up
->
-> as we're filming this yeah
+> uh okay yeah so they can see your your screen now yeah so like these are all like the different takes we're just filming like a long segment of like let's react and do weird and the pog thing at the end i think here and then we did yeah this this so this was all like we're just making up as we're filming this yeah

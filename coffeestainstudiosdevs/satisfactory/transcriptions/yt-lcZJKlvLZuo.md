@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> procedural generation?
->
-> most likely not.
+> procedural generation? most likely not.

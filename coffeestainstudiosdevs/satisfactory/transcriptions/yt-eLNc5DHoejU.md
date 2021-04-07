@@ -20,16 +20,4 @@ https://www.youtube.com/watch?v=eLNc5DHoejU
 
 ### Transcript
 
-> regular controllers before jc teaching
->
-> snoot accents
->
-> yeah that's it great job oh yeah before
->
-> what do you think of my italian accent
->
-> jake very good wow it's like i'm in
->
-> italy again that time that i spent
->
-> summer in florence wow hell yeah
+> regular controllers before jc teaching snoot accents yeah that's it great job oh yeah before what do you think of my italian accent jake very good wow it's like i'm in italy again that time that i spent summer in florence wow hell yeah

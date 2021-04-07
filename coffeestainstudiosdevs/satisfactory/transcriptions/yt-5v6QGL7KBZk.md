@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=5v6QGL7KBZk
 
 ### Transcript
 
-> i want to balance it you are now able to
->
-> just
->
-> you are now able to set your scanner to
->
-> detect these nuts
->
-> that's actually pretty good oh aydah
+> i want to balance it you are now able to just you are now able to set your scanner to detect these nuts that's actually pretty good oh aydah

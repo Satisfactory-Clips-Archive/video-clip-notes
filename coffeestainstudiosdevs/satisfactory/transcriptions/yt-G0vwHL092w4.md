@@ -22,26 +22,4 @@ https://www.youtube.com/watch?v=G0vwHL092w4
 
 ### Transcript
 
-> um
->
-> the world should react uh to the
->
-> invasive constructions and polluting
->
-> uh that's something that we wanted to
->
-> have in the game since the very
->
-> beginning and i think it's still an
->
-> option
->
-> um pollution um but yeah that was in the
->
-> original
->
-> concept for the game but we will see
->
-> what will happen there
->
-> don't know
+> um the world should react uh to the invasive constructions and polluting uh that's something that we wanted to have in the game since the very beginning and i think it's still an option um pollution um but yeah that was in the original concept for the game but we will see what will happen there don't know

@@ -18,6 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> ah will we get flying vehicles i'm not
->
-> sure
+> ah will we get flying vehicles i'm not sure

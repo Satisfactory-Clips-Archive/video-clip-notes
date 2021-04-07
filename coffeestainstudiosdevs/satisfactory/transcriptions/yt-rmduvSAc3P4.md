@@ -14,14 +14,4 @@ https://www.youtube.com/watch?v=rmduvSAc3P4
 
 ### Transcript
 
-> we'll see want to run on linux with
->
-> wine yeah so people have had success
->
-> running the game on linux with like
->
-> proton and wine
->
-> so it's like should trademark work with
->
-> that as well
+> we'll see want to run on linux with wine yeah so people have had success running the game on linux with like proton and wine so it's like should trademark work with that as well

@@ -18,20 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> dedicated servers confirmed for update
->
-> five no
->
-> dedicated servers will come out when
->
-> when we can
->
-> put them out they're not tied to any
->
-> update like when
->
-> when we feel like we can release the
->
-> dedicated server we're gonna do it on
->
-> the day sort of
+> dedicated servers confirmed for update five no dedicated servers will come out when when we can put them out they're not tied to any update like when when we feel like we can release the dedicated server we're gonna do it on the day sort of

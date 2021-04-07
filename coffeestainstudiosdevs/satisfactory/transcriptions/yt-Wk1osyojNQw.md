@@ -18,42 +18,4 @@ https://www.youtube.com/watch?v=Wk1osyojNQw
 
 ### Transcript
 
-> will there be another list coming in the
->
-> codex showing which recipes you need
->
-> certain items
->
-> um wasn't there something about that in
->
-> the ui changes video jace
->
-> uh what was it uh will there be
->
-> another list coming in the codex showing
->
-> which recipes you need for certain items
->
-> i think there were some changes there
->
-> right now the change the changes that we
->
-> had was that you could right click on
->
-> things in the uh build menu
->
-> to uh go to their entry in the codex
->
-> okay i never i never use the codex page
->
-> so i'm not sure what it looks like
->
-> there's a youtube video that's like
->
-> there's an app for that right now like
->
-> everything
->
-> is always like oh yeah we explained that
->
-> in a youtube video
+> will there be another list coming in the codex showing which recipes you need certain items um wasn't there something about that in the ui changes video jace uh what was it uh will there be another list coming in the codex showing which recipes you need for certain items i think there were some changes there right now the change the changes that we had was that you could right click on things in the uh build menu to uh go to their entry in the codex okay i never i never use the codex page so i'm not sure what it looks like there's a youtube video that's like there's an app for that right now like everything is always like oh yeah we explained that in a youtube video

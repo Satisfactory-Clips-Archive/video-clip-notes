@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> yep also get random generated maps uh
->
-> probably not gonna happen no probably
->
-> not gonna happen
+> yep also get random generated maps uh probably not gonna happen no probably not gonna happen

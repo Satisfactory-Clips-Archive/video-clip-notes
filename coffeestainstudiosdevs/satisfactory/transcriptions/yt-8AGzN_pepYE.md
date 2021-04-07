@@ -20,10 +20,4 @@ https://www.youtube.com/watch?v=8AGzN_pepYE
 
 ### Transcript
 
-> uh will there be a larger storage power
->
-> storage i don't
->
-> know i don't think so
->
-> um so yeah
+> uh will there be a larger storage power storage i don't know i don't think so um so yeah

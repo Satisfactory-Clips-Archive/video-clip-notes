@@ -18,22 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> of it i think uh signs for hypertube
->
-> entrances so yeah we're gonna have
->
-> science at some point
->
-> um hopefully sooner rather than later
->
-> but
->
-> i don't know what's gonna happen
->
-> and i think we we would make like a
->
-> generic sign implementation rather than
->
-> like something just for
->
-> hypertubes
+> of it i think uh signs for hypertube entrances so yeah we're gonna have science at some point um hopefully sooner rather than later but i don't know what's gonna happen and i think we we would make like a generic sign implementation rather than like something just for hypertubes

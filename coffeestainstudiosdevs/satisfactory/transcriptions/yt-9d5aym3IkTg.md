@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=9d5aym3IkTg
 
 ### Transcript
 
-> that's why uh are the belts going to be
->
-> rebalanced
->
-> a few things are going to be changed
->
-> don't think belts are being changed
->
-> no
+> that's why uh are the belts going to be rebalanced a few things are going to be changed don't think belts are being changed no

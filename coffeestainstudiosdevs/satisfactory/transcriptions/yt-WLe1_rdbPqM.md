@@ -16,40 +16,4 @@ https://www.youtube.com/watch?v=WLe1_rdbPqM
 
 ### Transcript
 
-> hello will the drones fly through
->
-> mountain or they fly they fly over right
->
-> i'm pretty sure they fly over
->
-> yeah how they work yeah yeah they
->
-> calculate
->
-> based on how you build too like they're
->
-> we when i when i was setting some of
->
-> these shot up i can you can see the
->
-> debugging of it
->
-> and it like recalculates like how far i
->
-> should go and stuff like that
->
-> if you build it inside a building i
->
-> think it will go through the building
->
-> because then it's like impossible for it
->
-> to like i don't know what to do
->
-> but yeah it will it will reach it will
->
-> change its past
->
-> path based on how you place buildings
->
-> and whatnot
+> hello will the drones fly through mountain or they fly they fly over right i'm pretty sure they fly over yeah how they work yeah yeah they calculate based on how you build too like they're we when i when i was setting some of these shot up i can you can see the debugging of it and it like recalculates like how far i should go and stuff like that if you build it inside a building i think it will go through the building because then it's like impossible for it to like i don't know what to do but yeah it will it will reach it will change its past path based on how you place buildings and whatnot

@@ -18,20 +18,4 @@ https://www.youtube.com/watch?v=euC11282Qo0
 
 ### Transcript
 
-> items on belts label albedo are gonna
->
-> have fancy reflections
->
-> no
->
-> they're gonna have a proper shader
->
-> that's what that means
->
-> it means that that shader isn't working
->
-> essentially
->
-> and it's supposed to be using an albedo
->
-> shader but it's not
+> items on belts label albedo are gonna have fancy reflections no they're gonna have a proper shader that's what that means it means that that shader isn't working essentially and it's supposed to be using an albedo shader but it's not

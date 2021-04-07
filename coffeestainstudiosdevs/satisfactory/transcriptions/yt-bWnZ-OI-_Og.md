@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=bWnZ-OI-_Og
 
 ### Transcript
 
-> hey bailey how's it going man
->
-> is there a name for the giant flying
->
-> creature yes there is called the manta
->
-> flying mantle
+> hey bailey how's it going man is there a name for the giant flying creature yes there is called the manta flying mantle

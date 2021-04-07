@@ -14,24 +14,4 @@ https://www.youtube.com/watch?v=gMje8Pv4tJY
 
 ### Transcript
 
-> all right
->
-> someone says jace tell us a joke do i
->
-> have a joke for you
->
-> are you ready for this i don't know why
->
-> you call a k
->
-> what do you call a can opener that
->
-> doesn't work
->
-> i can't opener yeah
->
-> all right thanks for jace for joining us
->
-> on today's stream we're gonna do it
->
-> solar from this point on
+> all right someone says jace tell us a joke do i have a joke for you are you ready for this i don't know why you call a k what do you call a can opener that doesn't work i can't opener yeah all right thanks for jace for joining us on today's stream we're gonna do it solar from this point on

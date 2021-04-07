@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Transcript
 
-> will there be any music soundtracks in
->
-> the future
->
-> not impossible
+> will there be any music soundtracks in the future not impossible

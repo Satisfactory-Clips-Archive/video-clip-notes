@@ -16,14 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 27th, 
 
 ### Transcript
 
-> at some point who speaks aydah the voice
->
-> actress for ada
->
-> is good text speech yeah peter is text
->
-> to speech there is no human being there
->
-> who did that
->
-> no one can be that soulless no no
+> at some point who speaks aydah the voice actress for ada is good text speech yeah peter is text to speech there is no human being there who did that no one can be that soulless no no

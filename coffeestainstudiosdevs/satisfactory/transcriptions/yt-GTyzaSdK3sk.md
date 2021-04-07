@@ -18,36 +18,4 @@ https://www.youtube.com/watch?v=GTyzaSdK3sk
 
 ### Transcript
 
-> times on stream yeah this will help buy
->
-> you time in these cases
->
-> but there are other changes that'll make
->
-> use of the power storage as well right
->
-> snoot
->
-> no oh just kidding we've actually still
->
-> [ __ ] mad
->
-> yeah this shot was before filmed before
->
-> this was before this was before this was
->
-> before the rage moment so here we're
->
-> actually kind of
->
-> not in a good mood i'd say because this
->
-> is the last few shows still pretty tired
->
-> but we were riding the highway we
->
-> weren't mad when we [ __ ] filmed this
->
-> part
->
-> yeah yeah exactly
+> times on stream yeah this will help buy you time in these cases but there are other changes that'll make use of the power storage as well right snoot no oh just kidding we've actually still [ __ ] mad yeah this shot was before filmed before this was before this was before this was before the rage moment so here we're actually kind of not in a good mood i'd say because this is the last few shows still pretty tired but we were riding the highway we weren't mad when we [ __ ] filmed this part yeah yeah exactly

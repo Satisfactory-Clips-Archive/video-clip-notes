@@ -14,8 +14,4 @@ https://www.youtube.com/watch?v=Kx_0tBWze0k
 
 ### Transcript
 
-> super straightforward thing to make yeah
->
-> so you need to play the game yes
->
-> yes
+> super straightforward thing to make yeah so you need to play the game yes yes

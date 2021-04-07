@@ -16,8 +16,4 @@ This question was possibly replaced with a more recent answer: [February 9th, 20
 
 ### Transcript
 
-> um where could by the fixit cup yeah
->
-> we're working on that don't have a date
->
-> yet um
+> um where could by the fixit cup yeah we're working on that don't have a date yet um

@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=u6AHmfTIoiI
 
 ### Transcript
 
-> where do we get valheim content man
->
-> screw you valheim is that cool
->
-> www.valheimcontent.com.com
->
-> valheimcontent.org dot edu dot
->
-> a u yeah
+> where do we get valheim content man screw you valheim is that cool www.valheimcontent.com.com valheimcontent.org dot edu dot a u yeah

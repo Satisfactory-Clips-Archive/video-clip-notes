@@ -16,38 +16,4 @@ https://www.youtube.com/watch?v=QiuvF18wDYw
 
 ### Transcript
 
-> okay so uh yeah here we are this is
->
-> where we begin the whole dora thingy
->
-> this is where i
->
-> i go full dora and snitz goes full what
->
-> the hell is jace doing
->
-> i i'm the monkey and we really i was the
->
-> monkey
->
-> no no i i was supposed because dora has
->
-> like a monkey oh yeah
->
-> right yeah and i was supposed to be
->
-> eating bananas uh at some point
->
-> to like very like signify that i am the
->
-> monkey right right
->
-> um i even were like blue gray like the
->
-> the to like mimic that but
->
-> right yeah yeah boots the monkey yeah
->
-> boosts the monkey exactly
->
-> all right so let's go here
+> okay so uh yeah here we are this is where we begin the whole dora thingy this is where i i go full dora and snitz goes full what the hell is jace doing i i'm the monkey and we really i was the monkey no no i i was supposed because dora has like a monkey oh yeah right yeah and i was supposed to be eating bananas uh at some point to like very like signify that i am the monkey right right um i even were like blue gray like the the to like mimic that but right yeah yeah boots the monkey yeah boosts the monkey exactly all right so let's go here

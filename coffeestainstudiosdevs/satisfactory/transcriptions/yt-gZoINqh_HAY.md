@@ -16,20 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 ### Transcript
 
-> uh i was about to read someone square oh
->
-> yeah can you give us a hint about the
->
-> story in the game
->
-> uh i cannot you are in a company and
->
-> you're in the planet
->
-> and you gotta get things for a reason
->
-> there's the hint
->
-> uh in the game right now
->
-> maybe you are
+> uh i was about to read someone square oh yeah can you give us a hint about the story in the game uh i cannot you are in a company and you're in the planet and you gotta get things for a reason there's the hint uh in the game right now maybe you are

@@ -16,14 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> is creative mode coming we
->
-> we i think we're going to be adding um
->
-> uh alternative game modes in the future
->
-> but and creative mode would then be one
->
-> of them
->
-> um but yeah not just yet
+> is creative mode coming we we i think we're going to be adding um uh alternative game modes in the future but and creative mode would then be one of them um but yeah not just yet

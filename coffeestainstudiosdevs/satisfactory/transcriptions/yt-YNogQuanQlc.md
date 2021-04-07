@@ -20,12 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Transcript
 
-> are we going to be able to get the space
->
-> elevated food court
->
-> not in update four um i think i think
->
-> that's later
->
-> later down the line
+> are we going to be able to get the space elevated food court not in update four um i think i think that's later later down the line

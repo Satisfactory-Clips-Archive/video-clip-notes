@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> use those solitaire lovers are there any
->
-> plans for integrated mod support there
->
-> is
+> use those solitaire lovers are there any plans for integrated mod support there is

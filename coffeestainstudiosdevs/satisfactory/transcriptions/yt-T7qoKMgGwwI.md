@@ -14,16 +14,4 @@ https://www.youtube.com/watch?v=T7qoKMgGwwI
 
 ### Transcript
 
-> i tried really hard to get geothermal
->
-> early game i
->
-> i saw no way to do it i just described
->
-> how to do it you get the awesome sync
->
-> you get you use the awesome thing to buy
->
-> it in there
->
-> that's what i did i have proof
+> i tried really hard to get geothermal early game i i saw no way to do it i just described how to do it you get the awesome sync you get you use the awesome thing to buy it in there that's what i did i have proof

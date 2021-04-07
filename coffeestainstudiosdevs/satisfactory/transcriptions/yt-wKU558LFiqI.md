@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=wKU558LFiqI
 
 ### Transcript
 
-> wait acid rain we have talked about
->
-> potential like
->
-> environments like uh affecting the game
->
-> and maybe that could be something but uh
->
-> no plan for that just yet
+> wait acid rain we have talked about potential like environments like uh affecting the game and maybe that could be something but uh no plan for that just yet

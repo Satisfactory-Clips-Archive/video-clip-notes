@@ -16,14 +16,4 @@ This question was possibly replaced with a more recent answer: [February 9th, 20
 
 ### Transcript
 
-> on twitter and uh just quickly jesus
->
-> literally jesus
->
-> asked what about the mug uh the mug the
->
-> fix-it mug is still coming uh and there
->
-> has been more
->
-> movement on that so it's plotting along
+> on twitter and uh just quickly jesus literally jesus asked what about the mug uh the mug the fix-it mug is still coming uh and there has been more movement on that so it's plotting along

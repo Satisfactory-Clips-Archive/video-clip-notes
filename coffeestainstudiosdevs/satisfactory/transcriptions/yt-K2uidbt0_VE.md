@@ -18,16 +18,4 @@ https://www.youtube.com/watch?v=K2uidbt0_VE
 
 ### Transcript
 
-> lumina and maybe you said this before
->
-> but they
->
-> will the packaging happen in the package
->
-> as well with gases too
->
-> or will you be a separate okay cool no
->
-> that will still be there
->
-> it's dope
+> lumina and maybe you said this before but they will the packaging happen in the package as well with gases too or will you be a separate okay cool no that will still be there it's dope

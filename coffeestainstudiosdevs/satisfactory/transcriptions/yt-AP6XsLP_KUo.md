@@ -16,44 +16,4 @@ https://www.youtube.com/watch?v=AP6XsLP_KUo
 
 ### Transcript
 
-> delivery distances increase simply put
->
-> down a drone port at two seconds oh this
->
-> is also funny this shot the
->
-> uh uh truck in the background it just
->
-> flipped the out every time
->
-> it went around oh really
->
-> it always worked but every time it went
->
-> up a hill then it fell down i don't know
->
-> anyone back up again
->
-> it was so funny vehicles uh
->
-> no it wasn't like the vehicles itself it
->
-> was just the f i had set up the
->
-> the pathing that way for some dumb
->
-> reason it drove up a cliff
->
-> and then it just fell down off
->
-> the cliff and then
->
-> we entered like it just worked every
->
-> single time
->
-> it's weird how it can work like had that
->
-> that worked so well
->
-> good
+> delivery distances increase simply put down a drone port at two seconds oh this is also funny this shot the uh uh truck in the background it just flipped the out every time it went around oh really it always worked but every time it went up a hill then it fell down i don't know anyone back up again it was so funny vehicles uh no it wasn't like the vehicles itself it was just the f i had set up the the pathing that way for some dumb reason it drove up a cliff and then it just fell down off the cliff and then we entered like it just worked every single time it's weird how it can work like had that that worked so well good

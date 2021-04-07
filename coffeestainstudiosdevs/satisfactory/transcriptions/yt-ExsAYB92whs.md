@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=ExsAYB92whs
 
 ### Transcript
 
-> uh
->
-> make the cyber wagon useful what do you
->
-> me what are you talking about
->
-> it is useful what do you mean it is
->
-> useful
+> uh make the cyber wagon useful what do you me what are you talking about it is useful what do you mean it is useful

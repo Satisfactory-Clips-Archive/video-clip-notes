@@ -18,46 +18,4 @@ https://www.youtube.com/watch?v=PoEuuDU4jpo
 
 ### Transcript
 
-> yeah we're also adding new alternative
->
-> recipes also mark thought that was
->
-> important to add uh so
->
-> look forward to that we still have more
->
-> hard drives in the world and we're gonna
->
-> have alternative recipes but uh yeah
->
-> oh no we are adding a few crash sites
->
-> too interesting oh
->
-> all the juicy details were supposed to
->
-> just read this out straight onto the
->
-> stream though you know
->
-> oh i just did i mean
->
-> is that how we've before is that what
->
-> we're doing yeah yeah yeah yeah
->
-> okay yeah um
->
-> yeah [ __ ] it just just tell you
->
-> everything why not
->
-> yeah yeah oh mark just told me that uh
->
-> i'm fired
->
-> it's kind of weird to say on on stream
->
-> oh wait i just did
->
-> oh wait
+> yeah we're also adding new alternative recipes also mark thought that was important to add uh so look forward to that we still have more hard drives in the world and we're gonna have alternative recipes but uh yeah oh no we are adding a few crash sites too interesting oh all the juicy details were supposed to just read this out straight onto the stream though you know oh i just did i mean is that how we've before is that what we're doing yeah yeah yeah yeah okay yeah um yeah [ __ ] it just just tell you everything why not yeah yeah oh mark just told me that uh i'm fired it's kind of weird to say on on stream oh wait i just did oh wait

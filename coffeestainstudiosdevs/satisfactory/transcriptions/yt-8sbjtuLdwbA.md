@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=8sbjtuLdwbA
 
 ### Transcript
 
-> i guess it's better than nothing uh how
->
-> scared of you or the next let's game at
->
-> app video oh i'm not scared
->
-> at all josh doesn't scare me at all
->
-> um i welcome it
+> i guess it's better than nothing uh how scared of you or the next let's game at app video oh i'm not scared at all josh doesn't scare me at all um i welcome it

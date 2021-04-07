@@ -18,10 +18,4 @@ This question was possibly replaced with a more recent answer: [February 2nd, 20
 
 ### Transcript
 
-> would be pretty fun yeah
->
-> uh one of the next stages in the hub um
->
-> soon
->
-> i can't tell you actually
+> would be pretty fun yeah uh one of the next stages in the hub um soon i can't tell you actually

@@ -18,12 +18,4 @@ https://www.youtube.com/watch?v=UIR3ibksgYA
 
 ### Transcript
 
-> does the unpackaged animation go in
->
-> reverse that's a really good question i
->
-> don't know i think it's just the same
->
-> animation to be honest
->
-> um
+> does the unpackaged animation go in reverse that's a really good question i don't know i think it's just the same animation to be honest um

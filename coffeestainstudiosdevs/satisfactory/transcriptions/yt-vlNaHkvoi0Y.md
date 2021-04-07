@@ -22,6 +22,4 @@ https://www.youtube.com/watch?v=vlNaHkvoi0Y
 
 ### Transcript
 
-> why you put catfaces in arachnophobia
->
-> mode because cats are cute
+> why you put catfaces in arachnophobia mode because cats are cute

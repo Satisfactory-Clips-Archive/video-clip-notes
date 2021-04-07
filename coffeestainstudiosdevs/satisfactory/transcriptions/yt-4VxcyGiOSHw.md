@@ -16,14 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 3rd, 
 
 ### Transcript
 
-> we did i wasn't there i i don't know so
->
-> will we add dlc
->
-> uh i'm not sure that that's a there's
->
-> that's a you know there's a chance of
->
-> that i think
->
-> um
+> we did i wasn't there i i don't know so will we add dlc uh i'm not sure that that's a there's that's a you know there's a chance of that i think um

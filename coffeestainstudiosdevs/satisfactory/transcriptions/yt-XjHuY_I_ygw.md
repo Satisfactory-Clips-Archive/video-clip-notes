@@ -16,8 +16,4 @@ https://www.youtube.com/watch?v=XjHuY_I_ygw
 
 ### Transcript
 
-> um mason's saying jace's accents were on
->
-> point really felt like i was in mexico
->
-> germany japan
+> um mason's saying jace's accents were on point really felt like i was in mexico germany japan

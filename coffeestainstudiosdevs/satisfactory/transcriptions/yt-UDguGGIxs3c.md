@@ -16,20 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 24th,
 
 ### Transcript
 
-> so two questions can we
->
-> deform the train the form the wife
->
-> deformed
->
-> oh terraforming oh the terrain i thought
->
-> i did i heard a train
->
-> i was like yeah like wow
->
-> i didn't mean drink different no we
->
-> can't take that
->
-> not happening uh
+> so two questions can we deform the train the form the wife deformed oh terraforming oh the terrain i thought i did i heard a train i was like yeah like wow i didn't mean drink different no we can't take that not happening uh

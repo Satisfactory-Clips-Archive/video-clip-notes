@@ -16,40 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 12th, 
 
 ### Transcript
 
-> do you have an update on the price of
->
-> delivery for your uh
->
-> merch uh i guess you're assuming uh
->
-> referring to eu
->
-> um we have um
->
-> i mean the short answer is no but we are
->
-> the
->
-> that ball is picked up again like
->
-> and we're we're working on that and we
->
-> are approaching
->
-> some solutions and seeing if they're
->
-> gonna work so
->
-> we are actively doing things there but
->
-> essentially not
->
-> uh mesa please contact uh for fans by
->
-> fans
->
-> and see uh what's up oh that's weird
->
-> that's really weird yeah yeah it's weird
->
-> oh god
+> do you have an update on the price of delivery for your uh merch uh i guess you're assuming uh referring to eu um we have um i mean the short answer is no but we are the that ball is picked up again like and we're we're working on that and we are approaching some solutions and seeing if they're gonna work so we are actively doing things there but essentially not uh mesa please contact uh for fans by fans and see uh what's up oh that's weird that's really weird yeah yeah it's weird oh god

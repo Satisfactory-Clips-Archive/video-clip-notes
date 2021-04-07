@@ -16,44 +16,4 @@ https://www.youtube.com/watch?v=Yf-LT5pHJTU
 
 ### Transcript
 
-> what happens um so so another question
->
-> i've gotten actually on lights
->
-> is whether or not they actually affect
->
-> gameplay or if they're just pure
->
-> cosmetic
->
-> and i think the answer is how would they
->
-> affect gameplay if
->
-> like animals avoid the light and stuff
->
-> like that
->
-> no and there's no plans for that right
->
-> either i think no
->
-> so they're cosmetic you guys yes
->
-> i mean they're kind of gameplay related
->
-> because it makes it easier to build
->
-> stuff when you can actually see stuff
->
-> i guess you could argue that
->
-> uh what's wrong with the flashlight you
->
-> guys what's wrong with that
->
-> it works just as well it's just right
->
-> it's right there at the fingertip
->
-> anyway
+> what happens um so so another question i've gotten actually on lights is whether or not they actually affect gameplay or if they're just pure cosmetic and i think the answer is how would they affect gameplay if like animals avoid the light and stuff like that no and there's no plans for that right either i think no so they're cosmetic you guys yes i mean they're kind of gameplay related because it makes it easier to build stuff when you can actually see stuff i guess you could argue that uh what's wrong with the flashlight you guys what's wrong with that it works just as well it's just right it's right there at the fingertip anyway

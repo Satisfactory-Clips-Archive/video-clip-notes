@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> yeah where's the toilet dlc i'm pushing
->
-> for it
->
-> we're all waiting for that sweet flush
->
-> bro it's getting stinking here
+> yeah where's the toilet dlc i'm pushing for it we're all waiting for that sweet flush bro it's getting stinking here

@@ -14,20 +14,4 @@ https://www.youtube.com/watch?v=shfD1zV9iZs
 
 ### Transcript
 
-> uh will there be more foundation
->
-> variation
->
-> i think so but i don't know
->
-> soon is is a hardware tune dm floor
->
-> holes would be really cool
->
-> um maybe in the future i don't know we
->
-> haven't uh made a decision about that
->
-> either make sure to upload that on the
->
-> qa site
+> uh will there be more foundation variation i think so but i don't know soon is is a hardware tune dm floor holes would be really cool um maybe in the future i don't know we haven't uh made a decision about that either make sure to upload that on the qa site

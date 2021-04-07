@@ -17,23 +17,9 @@ https://www.youtube.com/watch?v=O7uOiD7eedo
 ### Transcript
 
 > ...and speaking of which, we recently released
-the Modular Build version of our game.
->
-> Now the Modular Build version is only really,
-like, interesting- I guess- to the people
->
-> making Mods for the game.
->
-> Uh... for everyone else it just looks like
-we made a huge patch with nothing in it, which
->
-> is kinda true because the only thing that
-changes is how we package the build.
->
-> Uhm.. so we won't necessarily see, like, the
-big improvements, like, this week, you know-
->
-> in terms of how they would change the Mods-
-but in the future hopefully the Mods will
->
-> be better because of it.
+the Modular Build version of our game. Now the Modular Build version is only really,
+like, interesting- I guess- to the people making Mods for the game. Uh... for everyone else it just looks like
+we made a huge patch with nothing in it, which is kinda true because the only thing that
+changes is how we package the build. Uhm.. so we won't necessarily see, like, the
+big improvements, like, this week, you know- in terms of how they would change the Mods-
+but in the future hopefully the Mods will be better because of it.

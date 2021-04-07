@@ -16,26 +16,4 @@ https://www.youtube.com/watch?v=9pr79A-BvHU
 
 ### Transcript
 
-> longer oh yeah snit senpai
->
-> good times all right everyone we can
->
-> call snoot senpai from now on okay
->
-> no let's uh let's keep it to the
->
-> mustache thing okay that's bad enough as
->
-> it is
->
-> mustache snit mustache your question
->
-> this is the quit this is the stream
->
-> where you must ask me a question
->
-> sarah refuses you you can't refuse sarah
->
-> i just got banned from our discord
->
-> yeah
+> longer oh yeah snit senpai good times all right everyone we can call snoot senpai from now on okay no let's uh let's keep it to the mustache thing okay that's bad enough as it is mustache snit mustache your question this is the quit this is the stream where you must ask me a question sarah refuses you you can't refuse sarah i just got banned from our discord yeah

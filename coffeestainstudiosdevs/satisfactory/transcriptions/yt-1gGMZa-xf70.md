@@ -16,18 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> and we don't know how often we'll be
->
-> releasing
->
-> uh new content uh seeing as
->
-> like we don't even know what we're
->
-> releasing yet maybe we have some plan
->
-> that we haven't
->
-> haven't told us yet uh
->
-> um so yeah
+> and we don't know how often we'll be releasing uh new content uh seeing as like we don't even know what we're releasing yet maybe we have some plan that we haven't haven't told us yet uh um so yeah

@@ -18,64 +18,8 @@ This question was possibly duplicated with a more recent answer: [February 26th,
 
 ### Transcript
 
-> i think i missed the discussion around
->
-> wanted to be shifted to early access
->
-> it's been a fairly large delay with the
->
-> big experimental changes yeah so
->
-> uh you didn't miss it so it's not talked
->
-> about this before but
->
-> um basically we're not gonna move
->
-> uh experimental over to early access
->
-> until update 4 moves to early access
->
-> so there's not going to be a move from
->
-> experimental to early access for quite
->
-> some time
->
-> and that's just because of
+> i think i missed the discussion around wanted to be shifted to early access it's been a fairly large delay with the big experimental changes yeah so uh you didn't miss it so it's not talked about this before but um basically we're not gonna move uh experimental over to early access until update 4 moves to early access so there's not going to be a move from experimental to early access for quite some time and that's just because of
 >
 > [Music]
 >
-> it's not where we want it to be right
->
-> now
->
-> uh so that we could say that it's you
->
-> know worthy of being on the early access
->
-> branch that it's stable enough or
->
-> more performant or whatever uh and then
->
-> the the next best time to do it would be
->
-> after update 4 is already out and
->
-> stabilized so we'll wait until then
->
-> it's like it's performant for the
->
-> majority of players
->
-> but we still don't it doesn't feel good
->
-> to to not have like everyone see the
->
-> performance gains
->
-> uh with the engine upgrade so that's
->
-> yeah that's the main reason why it's not
->
-> there yet
+> it's not where we want it to be right now uh so that we could say that it's you know worthy of being on the early access branch that it's stable enough or more performant or whatever uh and then the the next best time to do it would be after update 4 is already out and stabilized so we'll wait until then it's like it's performant for the majority of players but we still don't it doesn't feel good to to not have like everyone see the performance gains uh with the engine upgrade so that's yeah that's the main reason why it's not there yet

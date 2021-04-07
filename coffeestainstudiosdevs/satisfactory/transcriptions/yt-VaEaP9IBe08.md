@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 ### Transcript
 
-> you need battleships
->
-> no
->
-> no ships
+> you need battleships no no ships

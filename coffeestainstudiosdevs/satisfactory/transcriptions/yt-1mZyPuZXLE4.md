@@ -18,8 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 ### Transcript
 
-> the anxiety anything narrative
->
-> that's not going to come until way way
->
-> way later
+> the anxiety anything narrative that's not going to come until way way way later

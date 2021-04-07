@@ -20,8 +20,4 @@ https://www.youtube.com/watch?v=ldiVaemLNss
 
 ### Transcript
 
-> that we don't know when world update is
->
-> coming
->
-> at some point
+> that we don't know when world update is coming at some point

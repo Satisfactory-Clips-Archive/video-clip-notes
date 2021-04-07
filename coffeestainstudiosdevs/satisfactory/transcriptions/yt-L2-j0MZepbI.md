@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=L2-j0MZepbI
 
 ### Transcript
 
-> will the trains ever be paintable
->
-> uh i hope so i don't know same thing
->
-> with priority there but
->
-> um it would be cool
+> will the trains ever be paintable uh i hope so i don't know same thing with priority there but um it would be cool

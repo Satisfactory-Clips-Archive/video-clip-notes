@@ -16,22 +16,4 @@ https://www.youtube.com/watch?v=sGxVtGYAjkQ
 
 ### Transcript
 
-> mark sarah i actually don't [ __ ] i i
->
-> i have to say this i think it's super
->
-> funny because
->
-> josh does this thing on his channel and
->
-> it's like a meme where people just
->
-> write type like exclamation marks sarah
->
-> i do this in every chat now
->
-> i like no matter what chat i just write
->
-> exclamation point sarah
->
-> like as for shits and giggles
+> mark sarah i actually don't [ __ ] i i i have to say this i think it's super funny because josh does this thing on his channel and it's like a meme where people just write type like exclamation marks sarah i do this in every chat now i like no matter what chat i just write exclamation point sarah like as for shits and giggles

@@ -20,10 +20,4 @@ https://www.youtube.com/watch?v=OTsxz-Twmys
 
 ### Transcript
 
-> any news on reworking color selection
->
-> uh no not right now
->
-> i don't have anything new to talk about
->
-> there
+> any news on reworking color selection uh no not right now i don't have anything new to talk about there

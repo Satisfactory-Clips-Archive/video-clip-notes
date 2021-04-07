@@ -14,22 +14,4 @@ https://www.youtube.com/watch?v=8EnjSSJGeBI
 
 ### Transcript
 
-> contest is pretty pog
->
-> i think so too yeah i'm looking forward
->
-> to that side for that yeah yeah that's
->
-> probably one of the ones that i'm
->
-> looking forward to the most
->
-> it's like uh here is of no wait here's
->
-> magic
->
-> yeah i think that was one yeah here's my
->
-> manager yeah like a
->
-> love letter to that game exactly
+> contest is pretty pog i think so too yeah i'm looking forward to that side for that yeah yeah that's probably one of the ones that i'm looking forward to the most it's like uh here is of no wait here's magic yeah i think that was one yeah here's my manager yeah like a love letter to that game exactly

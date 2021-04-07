@@ -16,16 +16,4 @@ https://www.youtube.com/watch?v=KQBuwREtAko
 
 ### Transcript
 
-> how's the hangover i i wasn't drinking
->
-> last night i just chilled out at home
->
-> well i mean everyone was at home but i
->
-> mean like i just chilled out i didn't
->
-> well there was some people at the office
->
-> yeah i didn't celebrate or anything
->
-> though
+> how's the hangover i i wasn't drinking last night i just chilled out at home well i mean everyone was at home but i mean like i just chilled out i didn't well there was some people at the office yeah i didn't celebrate or anything though

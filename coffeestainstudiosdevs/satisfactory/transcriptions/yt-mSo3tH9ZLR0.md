@@ -20,24 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Transcript
 
-> um two calling the release on
->
-> experimental the release
->
-> are you expecting a slightly more stable
->
-> release due to the increased qa for
->
-> update four uh there hasn't been
->
-> increased qa for update for
->
-> this is the way we we do pretty much
->
-> everything all right here we go
->
-> um so we'll see it's going to be as
->
-> you did it it's going to be as stable as
->
-> we can make it
+> um two calling the release on experimental the release are you expecting a slightly more stable release due to the increased qa for update four uh there hasn't been increased qa for update for this is the way we we do pretty much everything all right here we go um so we'll see it's going to be as you did it it's going to be as stable as we can make it

@@ -16,26 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> um let's see anything else
->
-> mk16 variables coming i don't know
->
-> probably not i know that there is a
->
-> technical limitation on the speed of
->
-> conveyor belts
->
-> um so at some point
->
-> technically it's going to be very hard
->
-> if not impossible to solve
->
-> but then functionally it's there's a
->
-> question of does it actually matter that
->
-> much
->
-> yeah so
+> um let's see anything else mk16 variables coming i don't know probably not i know that there is a technical limitation on the speed of conveyor belts um so at some point technically it's going to be very hard if not impossible to solve but then functionally it's there's a question of does it actually matter that much yeah so

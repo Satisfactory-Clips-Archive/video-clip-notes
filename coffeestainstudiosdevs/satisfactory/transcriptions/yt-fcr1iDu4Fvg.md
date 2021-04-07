@@ -16,20 +16,4 @@ https://www.youtube.com/watch?v=fcr1iDu4Fvg
 
 ### Transcript
 
-> can we get an open end to pipes like
->
-> dump waste water uh
->
-> it's no it's too much too much effort
->
-> for that i believe we don't want to do
->
-> any physics essentially with any
->
-> production stuff
->
-> uh if we can that's also why like stuff
->
-> hover when you delete stuff which is too
->
-> much work
+> can we get an open end to pipes like dump waste water uh it's no it's too much too much effort for that i believe we don't want to do any physics essentially with any production stuff uh if we can that's also why like stuff hover when you delete stuff which is too much work

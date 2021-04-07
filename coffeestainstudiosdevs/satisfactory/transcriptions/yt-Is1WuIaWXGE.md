@@ -30,20 +30,4 @@ https://www.youtube.com/watch?v=Is1WuIaWXGE
 
 ### Transcript
 
-> they say yes will the soundtrack be
->
-> expanded before 1.0 i'm pretty sure
->
-> there's still more music that we're
->
-> adding and i think there's
->
-> there's more music in update four wait
->
-> is there
->
-> no i don't remember there's gonna be
->
-> more music for sure in the game but i
->
-> don't remember if it's in update 4.
+> they say yes will the soundtrack be expanded before 1.0 i'm pretty sure there's still more music that we're adding and i think there's there's more music in update four wait is there no i don't remember there's gonna be more music for sure in the game but i don't remember if it's in update 4.

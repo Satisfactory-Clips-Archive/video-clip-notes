@@ -16,14 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 12th, 
 
 ### Transcript
 
-> um any update on merge shipping
->
-> alternatives
->
-> uh no no update
->
-> still same we're looking into it but i
->
-> don't know
->
-> how far we're into that process honestly
+> um any update on merge shipping alternatives uh no no update still same we're looking into it but i don't know how far we're into that process honestly

@@ -16,24 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 ### Transcript
 
-> um quarter of life fixes to the to-do
->
-> list i don't know if there are any
->
-> changes coming to to-do list but if you
->
-> have any specific things like
->
-> if you ever have any specific feedback
->
-> or suggestions definitely
->
-> go to the qa site for that leave them
->
-> there see if someone else has already
->
-> done it
->
-> wait is that not the right command no
->
-> that was the recommend cool
+> um quarter of life fixes to the to-do list i don't know if there are any changes coming to to-do list but if you have any specific things like if you ever have any specific feedback or suggestions definitely go to the qa site for that leave them there see if someone else has already done it wait is that not the right command no that was the recommend cool

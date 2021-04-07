@@ -16,36 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 ### Transcript
 
-> yeah good times yeah so morris that's
->
-> exactly right
->
-> the uh the uh the dedicated servers is
->
-> is not tied to a specific update it's
->
-> just
->
-> once it's ready although as you say we
->
-> said that last year
->
-> yeah yes but it's the same concept it's
->
-> just
->
-> bitter year and it's not out yet it's
->
-> never going to be added
->
-> it's dedicated services new pipes yeah
->
-> except it's the opposite so we don't say
->
-> we're going to release pipes we say
->
-> we're going to release that against
->
-> theirs
->
-> it's complicated this
+> yeah good times yeah so morris that's exactly right the uh the uh the dedicated servers is is not tied to a specific update it's just once it's ready although as you say we said that last year yeah yes but it's the same concept it's just bitter year and it's not out yet it's never going to be added it's dedicated services new pipes yeah except it's the opposite so we don't say we're going to release pipes we say we're going to release that against theirs it's complicated this

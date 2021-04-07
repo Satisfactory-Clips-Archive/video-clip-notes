@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> fix it toilet soon soon one dollar dlc
->
-> flush yeah
+> fix it toilet soon soon one dollar dlc flush yeah

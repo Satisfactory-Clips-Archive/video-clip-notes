@@ -14,16 +14,4 @@ https://www.youtube.com/watch?v=9Nq7_2Y2LGE
 
 ### Transcript
 
-> okay thank you twitch yeah so if you're
->
-> watching this on uh
->
-> on steam we're also streaming this on
->
-> twitch twitch
->
-> twitch um we're also streaming on twitch
->
-> um so you can also hang out with us
->
-> there
+> okay thank you twitch yeah so if you're watching this on uh on steam we're also streaming this on twitch twitch twitch um we're also streaming on twitch um so you can also hang out with us there

@@ -16,12 +16,4 @@ https://www.youtube.com/watch?v=qiF-rpSnoTI
 
 ### Transcript
 
-> if we're not getting dedicated servers
->
-> anytime soon is it possible to get some
->
-> kind of disabled
->
-> rendering that is literally what a
->
-> dedicated server is so no
+> if we're not getting dedicated servers anytime soon is it possible to get some kind of disabled rendering that is literally what a dedicated server is so no

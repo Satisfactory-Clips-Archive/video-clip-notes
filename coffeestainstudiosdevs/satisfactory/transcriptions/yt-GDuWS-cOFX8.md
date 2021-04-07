@@ -20,10 +20,4 @@ This question was possibly duplicated with a more recent answer: [October 20th, 
 
 ### Transcript
 
-> um
->
-> dedicated searches have multiple hubs no
->
-> it's just it's gonna be the same just
->
-> exactly the same game same game
+> um dedicated searches have multiple hubs no it's just it's gonna be the same just exactly the same game same game

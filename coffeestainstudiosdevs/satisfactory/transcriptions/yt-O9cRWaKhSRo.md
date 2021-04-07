@@ -28,10 +28,4 @@ https://www.youtube.com/watch?v=O9cRWaKhSRo
 >
 > [Music]
 >
-> that either will not happen or not
->
-> happen for an incredibly long time
->
-> can we finish this one first yeah we
->
-> need to finish this one first okay
+> that either will not happen or not happen for an incredibly long time can we finish this one first yeah we need to finish this one first okay

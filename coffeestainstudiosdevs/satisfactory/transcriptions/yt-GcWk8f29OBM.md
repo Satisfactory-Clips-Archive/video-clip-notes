@@ -16,14 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 27th, 
 
 ### Transcript
 
-> any chance of a new map no no chance
->
-> current current change uh change of the
->
-> current map the current map is
->
-> constantly being changed and updated
->
-> and there's a lot we still plan on doing
->
-> with it
+> any chance of a new map no no chance current current change uh change of the current map the current map is constantly being changed and updated and there's a lot we still plan on doing with it

@@ -16,16 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> will it be a
->
-> mark six belt i don't know the it's kind
->
-> of
->
-> we're kind of limited by technic
->
-> technical precision right now
->
-> so i don't know if we're gonna be able
->
-> to to fix that
+> will it be a mark six belt i don't know the it's kind of we're kind of limited by technic technical precision right now so i don't know if we're gonna be able to to fix that

@@ -20,38 +20,4 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 ### Transcript
 
-> uh will you ever add explosions on the
->
-> nose when you pressurize them
->
-> or they can explode like as a
->
-> something going wrong or i don't know
->
-> there might be some some cool some cool
->
-> activation sequences that we're working
->
-> on
->
-> when you start the whole extraction
->
-> process and that's
->
-> i actually was looking at it today with
->
-> the with our sound guy and it looks
->
-> really dope but if you if you're talking
->
-> about something actually going wrong
->
-> when you over pressurize the note or
->
-> something we haven't
->
-> those kind of things generally aren't on
->
-> our on our feature lists
->
-> yeah it look dope you guys
+> uh will you ever add explosions on the nose when you pressurize them or they can explode like as a something going wrong or i don't know there might be some some cool some cool activation sequences that we're working on when you start the whole extraction process and that's i actually was looking at it today with the with our sound guy and it looks really dope but if you if you're talking about something actually going wrong when you over pressurize the note or something we haven't those kind of things generally aren't on our on our feature lists yeah it look dope you guys

@@ -16,14 +16,4 @@ https://www.youtube.com/watch?v=NzTAvolZZrY
 
 ### Transcript
 
-> is that day four coming out before or
->
-> after jace beats this mace
->
-> i i i'm confident in in the fact that
->
-> update four is going to come out after
->
-> jsp this means i believe
->
-> wow i'll take that yeah
+> is that day four coming out before or after jace beats this mace i i i'm confident in in the fact that update four is going to come out after jsp this means i believe wow i'll take that yeah

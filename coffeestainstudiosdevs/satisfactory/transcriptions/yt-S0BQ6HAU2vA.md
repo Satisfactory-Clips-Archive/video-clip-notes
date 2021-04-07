@@ -16,12 +16,4 @@ This question was possibly replaced with a more recent answer: [January 12th, 20
 
 ### Transcript
 
-> so with the engine upgrade effect
->
-> performance it should
->
-> there's going to be a video out this
->
-> week on the engine upgrade
->
-> all right
+> so with the engine upgrade effect performance it should there's going to be a video out this week on the engine upgrade all right

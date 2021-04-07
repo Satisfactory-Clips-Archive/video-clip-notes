@@ -20,38 +20,4 @@ https://www.youtube.com/watch?v=XswfSsanpDo
 
 ### Transcript
 
-> will be a soundtrack release
->
-> uh i don't this is i'm not
->
-> super in the loop on this um
->
-> i don't know i think i think because
->
-> like the yannick who who made the
->
-> soundtrack
->
-> um uh
->
-> he has put up the
->
-> one of the like trailer songs or
->
-> something
->
-> in um on
->
-> on his soundcloud so you can check that
->
-> out i think that's the first reveal
->
-> trailer we did
->
-> that song is on cl soundcloud um but i
->
-> don't know
->
-> plans for other songs in the game so we
->
-> will see we'll see
+> will be a soundtrack release uh i don't this is i'm not super in the loop on this um i don't know i think i think because like the yannick who who made the soundtrack um uh he has put up the one of the like trailer songs or something in um on on his soundcloud so you can check that out i think that's the first reveal trailer we did that song is on cl soundcloud um but i don't know plans for other songs in the game so we will see we'll see

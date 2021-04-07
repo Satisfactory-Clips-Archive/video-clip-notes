@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> uh full release 2021 dunno
->
-> that would be nice
+> uh full release 2021 dunno that would be nice

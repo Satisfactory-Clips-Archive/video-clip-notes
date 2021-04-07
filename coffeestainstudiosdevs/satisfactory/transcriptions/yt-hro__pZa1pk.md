@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Transcript
 
-> plants
->
-> when are you adding hunger and thirst
->
-> never just supposes that we will do it
->
-> when tomorrow we're doing adding
->
-> tomorrow
+> plants when are you adding hunger and thirst never just supposes that we will do it when tomorrow we're doing adding tomorrow

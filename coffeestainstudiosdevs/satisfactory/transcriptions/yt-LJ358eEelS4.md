@@ -16,18 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 ### Transcript
 
-> um
->
-> satisfactory mobile game that will
->
-> happen though that's that will for sure
->
-> happen
->
-> oh will it
->
-> i'm just kidding where am i yeah
->
-> we'll never know will we
->
-> anyway um unless
+> um satisfactory mobile game that will happen though that's that will for sure happen oh will it i'm just kidding where am i yeah we'll never know will we anyway um unless

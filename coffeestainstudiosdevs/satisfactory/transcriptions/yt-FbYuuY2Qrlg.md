@@ -18,8 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> for game full release on thursday
->
-> no wait what happens on thursday oh
->
-> interesting
+> for game full release on thursday no wait what happens on thursday oh interesting

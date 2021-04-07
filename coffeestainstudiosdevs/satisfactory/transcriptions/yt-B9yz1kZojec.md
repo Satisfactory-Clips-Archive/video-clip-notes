@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=B9yz1kZojec
 
 ### Transcript
 
-> i need a flamethrower you mean in the
->
-> game or in real life because
->
-> i hope you mean in the game because
->
-> nobody nobody should really need the
->
-> need to have a flamethrower i feel like
+> i need a flamethrower you mean in the game or in real life because i hope you mean in the game because nobody nobody should really need the need to have a flamethrower i feel like

@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Transcript
 
-> the end so
->
-> will there be new music in the future
->
-> yes
+> the end so will there be new music in the future yes

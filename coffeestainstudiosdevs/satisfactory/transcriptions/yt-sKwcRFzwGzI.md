@@ -16,28 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> uh we need steam workshop for this kind
->
-> of thing not necessarily
->
-> um but some kind of uh mod hub makes
->
-> sense the steam workshop doesn't make
->
-> sense because if we have the game for
->
-> sale in other stores like we do like
->
-> epic and
->
-> maybe in the future we have other stores
->
-> beyond that uh steam workshop's not
->
-> gonna be very useful for all of those
->
-> people so steam workshop is not
->
-> necessarily
->
-> something we need to do
+> uh we need steam workshop for this kind of thing not necessarily um but some kind of uh mod hub makes sense the steam workshop doesn't make sense because if we have the game for sale in other stores like we do like epic and maybe in the future we have other stores beyond that uh steam workshop's not gonna be very useful for all of those people so steam workshop is not necessarily something we need to do

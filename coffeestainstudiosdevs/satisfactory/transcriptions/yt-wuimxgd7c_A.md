@@ -18,20 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> can you imagine bringing something like
->
-> decoration foundations etc
->
-> to factories oh man i lost the question
->
-> uh but uh the short answ
->
-> to decorations we want to
->
-> it's uh it's a question of time
->
-> but we have ideas and there are we want
->
-> to
->
-> we just haven't been able to do it yet
+> can you imagine bringing something like decoration foundations etc to factories oh man i lost the question uh but uh the short answ to decorations we want to it's uh it's a question of time but we have ideas and there are we want to we just haven't been able to do it yet

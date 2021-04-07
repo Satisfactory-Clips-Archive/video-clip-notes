@@ -22,17 +22,7 @@ This question was possibly duplicated with a more recent answer: [October 27th, 
 
 ### Transcript
 
-> uh is it only packaging or does it
->
-> unpack as well
->
-> it unpacks as well so we only show the
->
-> packaging part on the in the teaser but
->
-> you can unpack it as well
->
-> yeah update four you get an unpackager
+> uh is it only packaging or does it unpack as well it unpacks as well so we only show the packaging part on the in the teaser but you can unpack it as well yeah update four you get an unpackager
 >
 > [Laughter]
 >

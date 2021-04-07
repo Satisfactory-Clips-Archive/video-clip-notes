@@ -18,10 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 26th,
 
 ### Transcript
 
-> and see how it goes see how it goes yes
->
-> or no experimental it's going to come
->
-> out on experimental first
->
-> yes
+> and see how it goes see how it goes yes or no experimental it's going to come out on experimental first yes

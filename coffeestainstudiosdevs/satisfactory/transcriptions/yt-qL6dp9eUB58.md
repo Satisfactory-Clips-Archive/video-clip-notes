@@ -18,6 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> coming i don't know when is satisfactory
->
-> coming to engage next week
+> coming i don't know when is satisfactory coming to engage next week

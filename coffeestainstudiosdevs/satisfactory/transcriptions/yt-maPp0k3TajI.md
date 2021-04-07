@@ -16,42 +16,8 @@ https://www.youtube.com/watch?v=maPp0k3TajI
 
 ### Transcript
 
-> lies to the community snood has a
->
-> personal project
->
-> everyone does like i don't know anyone
->
-> yeah mine's shower every day
+> lies to the community snood has a personal project everyone does like i don't know anyone yeah mine's shower every day
 >
 > [Laughter]
 >
-> like i'm pretty sure like even like at
->
-> the office we also get the opportunity
->
-> to do some creative
->
-> work where we can do uh don't have to
->
-> work on the game necessarily
->
-> um and then there people also work on on
->
-> smaller things
->
-> checkpoint just to learn things and
->
-> stuff it's pretty great
->
-> um but everyone's got a like a personal
->
-> like
->
-> it's like a it's like a meme for game
->
-> developers where
->
-> we have so many like personal products
->
-> to just leave hanging um
+> like i'm pretty sure like even like at the office we also get the opportunity to do some creative work where we can do uh don't have to work on the game necessarily um and then there people also work on on smaller things checkpoint just to learn things and stuff it's pretty great um but everyone's got a like a personal like it's like a it's like a meme for game developers where we have so many like personal products to just leave hanging um

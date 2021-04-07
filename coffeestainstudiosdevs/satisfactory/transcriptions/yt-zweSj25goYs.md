@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=zweSj25goYs
 
 ### Transcript
 
-> higher team but yeah also programmers
->
-> why did you guys have to hit the doggo
->
-> by the way because how else would we get
->
-> the key
+> higher team but yeah also programmers why did you guys have to hit the doggo by the way because how else would we get the key

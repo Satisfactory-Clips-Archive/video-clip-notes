@@ -18,26 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 
 ### Transcript
 
-> plans for official linux support
->
-> not at the moment it's not impossible
->
-> that that happens in the future but not
->
-> at the moment
->
-> it would be nice to have native linux
->
-> yeah
->
-> it would be nice to have a mac as well
->
-> but it's just a time
->
-> time that would rather spend on
->
-> developing the game then supporting
->
-> another
->
-> like another platform
+> plans for official linux support not at the moment it's not impossible that that happens in the future but not at the moment it would be nice to have native linux yeah it would be nice to have a mac as well but it's just a time time that would rather spend on developing the game then supporting another like another platform

@@ -18,14 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> to jump back a little bit when will the
->
-> update come to the stable client so uh
->
-> update
->
-> update 4 will hit early access april
->
-> 13th
->
-> so in two weeks
+> to jump back a little bit when will the update come to the stable client so uh update update 4 will hit early access april 13th so in two weeks

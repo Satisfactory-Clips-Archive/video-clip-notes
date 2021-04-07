@@ -18,18 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 
 > [Music]
 >
-> oh ultra wide monitors yeah maybe
->
-> ultrawide is is like not fully fully
->
-> supported
->
-> at all like it works probably but there
->
-> are a lot of things that aren't made for
->
-> it
->
-> um so like if it works at all it's luck
->
-> right now
+> oh ultra wide monitors yeah maybe ultrawide is is like not fully fully supported at all like it works probably but there are a lot of things that aren't made for it um so like if it works at all it's luck right now

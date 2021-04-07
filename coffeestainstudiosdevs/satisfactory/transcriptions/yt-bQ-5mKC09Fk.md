@@ -16,18 +16,4 @@ https://www.youtube.com/watch?v=bQ-5mKC09Fk
 
 ### Transcript
 
-> you can reach max speed by just six
->
-> hyper tube entrances i don't believe
->
-> there is a max speed
->
-> that's the thing now maybe we added that
->
-> now
->
-> because you could make the game crash uh
->
-> by putting too many
->
-> entrances so yeah
+> you can reach max speed by just six hyper tube entrances i don't believe there is a max speed that's the thing now maybe we added that now because you could make the game crash uh by putting too many entrances so yeah

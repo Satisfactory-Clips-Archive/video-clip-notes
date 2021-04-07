@@ -16,42 +16,4 @@ https://www.youtube.com/watch?v=CgGc8VRspUA
 
 ### Transcript
 
-> no one older now someone asked if
->
-> there's a difference between
->
-> performance between the epic version and
->
-> the steam version nope they're literally
->
-> the same version
->
-> like it's literally the same build uh
->
-> even
->
-> we're just out at the same time at the
->
-> same game you can play them
->
-> across with each other the the only
->
-> difference between
->
-> like the only thing that happens in that
->
-> build is that it checks when you're
->
-> booting it up like
->
-> are you accessing it from epic or from
->
-> steam and then it will give you
->
-> different overlay depending on which
->
-> version or like signing you into
->
-> whatever api so it's actually literally
->
-> the same build
+> no one older now someone asked if there's a difference between performance between the epic version and the steam version nope they're literally the same version like it's literally the same build uh even we're just out at the same time at the same game you can play them across with each other the the only difference between like the only thing that happens in that build is that it checks when you're booting it up like are you accessing it from epic or from steam and then it will give you different overlay depending on which version or like signing you into whatever api so it's actually literally the same build

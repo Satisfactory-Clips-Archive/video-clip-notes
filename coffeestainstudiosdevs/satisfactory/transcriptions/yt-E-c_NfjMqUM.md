@@ -32,8 +32,4 @@ https://www.youtube.com/watch?v=E-c_NfjMqUM
 
 ### Transcript
 
-> will there be planes and helicopters
->
-> there will be no flying vehicles in the
->
-> game
+> will there be planes and helicopters there will be no flying vehicles in the game

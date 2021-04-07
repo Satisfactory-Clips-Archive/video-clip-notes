@@ -16,32 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 3rd, 
 
 ### Transcript
 
-> uh when do you have discord integration
->
-> that's a good question yeah well any
->
-> kind of
->
-> community thing so it could be discord
->
-> twitch
->
-> i've pushed for twitch pushed for twitch
->
-> uh before
->
-> keep perfect dude have you seen the like
->
-> the integration mod that darko so
->
-> like worked on or or like you can like
->
-> spawn
->
-> stuff in the game oh that's what from
->
-> like
->
-> twitch yeah yeah yeah i think i have
->
-> yeah it's pretty cool
+> uh when do you have discord integration that's a good question yeah well any kind of community thing so it could be discord twitch i've pushed for twitch pushed for twitch uh before keep perfect dude have you seen the like the integration mod that darko so like worked on or or like you can like spawn stuff in the game oh that's what from like twitch yeah yeah yeah i think i have yeah it's pretty cool

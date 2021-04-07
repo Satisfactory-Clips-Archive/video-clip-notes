@@ -16,12 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> progress they're gonna come with the
->
-> story um plush
->
-> we will be making a doggo plush but
->
-> we're solving the uh
->
-> cup first one thing at a time
+> progress they're gonna come with the story um plush we will be making a doggo plush but we're solving the uh cup first one thing at a time

@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> maybe that'll be good is ray chasing
->
-> planning it's not in the plans no
->
-> no
+> maybe that'll be good is ray chasing planning it's not in the plans no no

@@ -18,28 +18,4 @@ https://www.youtube.com/watch?v=BMIKnDVoS9Q
 
 ### Transcript
 
-> uh we're gonna make a video about
->
-> that in the future about the future of
->
-> satisfactory that kind of explains all
->
-> this stuff
->
-> uh why because we're working on like
->
-> different branches and it's really
->
-> difficult to get everything into one
->
-> branch so we're doing we're shooting
->
-> more long term now for satisfactory
->
-> rather than short term
->
-> and we're gonna explain more of that
->
-> later and
->
-> yeah that's the videos are coming
+> uh we're gonna make a video about that in the future about the future of satisfactory that kind of explains all this stuff uh why because we're working on like different branches and it's really difficult to get everything into one branch so we're doing we're shooting more long term now for satisfactory rather than short term and we're gonna explain more of that later and yeah that's the videos are coming

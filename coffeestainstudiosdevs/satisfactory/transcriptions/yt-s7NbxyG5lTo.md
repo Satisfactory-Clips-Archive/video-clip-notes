@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=s7NbxyG5lTo
 
 ### Transcript
 
-> is the lack of placeable lights due to
->
-> visual errors or performance
->
-> performance is the biggest challenge
->
-> when it comes to lights
+> is the lack of placeable lights due to visual errors or performance performance is the biggest challenge when it comes to lights

@@ -39,8 +39,4 @@ https://www.youtube.com/watch?v=ECH-dzoj7ro
 
 ### Transcript
 
-> all right fine whatever um
->
-> translation will be coming yes we we
->
-> have plans for that
+> all right fine whatever um translation will be coming yes we we have plans for that

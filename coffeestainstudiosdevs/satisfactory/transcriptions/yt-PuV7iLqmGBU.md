@@ -14,32 +14,4 @@ https://www.youtube.com/watch?v=PuV7iLqmGBU
 
 ### Transcript
 
-> yep i saw a question specifically about
->
-> the
->
-> train route or the timetable thing for
->
-> trains that's been fixed in the past it
->
-> has worked for clients
->
-> we're going to fix it again that was
->
-> when i talked about before how like
->
-> sometimes bugs come back that's one of
->
-> those
->
-> things used to work now it doesn't for
->
-> some reason
->
-> like yeah every time you touch something
->
-> everything else breaks
->
-> yeah it's a house of cards sometimes
->
-> everything's tied together house yeah
+> yep i saw a question specifically about the train route or the timetable thing for trains that's been fixed in the past it has worked for clients we're going to fix it again that was when i talked about before how like sometimes bugs come back that's one of those things used to work now it doesn't for some reason like yeah every time you touch something everything else breaks yeah it's a house of cards sometimes everything's tied together house yeah

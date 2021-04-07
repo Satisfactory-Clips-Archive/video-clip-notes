@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=F1iBqgstFUo
 
 ### Transcript
 
-> 34 hype train yeah we're going to get
->
-> some info for about
->
-> update 4 soon yeah maybe we'll see if we
->
-> can stop talking about
->
-> jace's man cave
+> 34 hype train yeah we're going to get some info for about update 4 soon yeah maybe we'll see if we can stop talking about jace's man cave

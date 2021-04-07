@@ -14,42 +14,4 @@ https://www.youtube.com/watch?v=LwR145hCQW8
 
 ### Transcript
 
-> are you going to fix the wall power
->
-> what's wrong with the wall power pole
->
-> i used it today it was pretty good if
->
-> there are any bugs in the game
->
-> or any issues you can go to our
->
-> questions site uh
->
-> questions.satisfactorygame.com and uh
->
-> you can post your bug issues report them
->
-> there and then you can also upload other
->
-> issues if there's something you feel
->
-> like
->
-> why why haven't they done this yet or
->
-> like upload dedicated servers or
->
-> anything like that you feel like this
->
-> should be prioritized and then we'll
->
-> look at that side and be like ah maybe
->
-> no we do actually look at that side a
->
-> lot
->
-> to figure out what's going on with the
->
-> game
+> are you going to fix the wall power what's wrong with the wall power pole i used it today it was pretty good if there are any bugs in the game or any issues you can go to our questions site uh questions.satisfactorygame.com and uh you can post your bug issues report them there and then you can also upload other issues if there's something you feel like why why haven't they done this yet or like upload dedicated servers or anything like that you feel like this should be prioritized and then we'll look at that side and be like ah maybe no we do actually look at that side a lot to figure out what's going on with the game

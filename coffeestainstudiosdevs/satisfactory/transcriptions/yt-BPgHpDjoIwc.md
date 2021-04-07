@@ -16,32 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> college how's the status of dedicated
->
-> servers
->
-> um they are still working on that
->
-> we're working on specifically the
->
-> multiplayer issues um
->
-> that kind of block you from being able
->
-> to play dedicated servers um there are a
->
-> few things
->
-> still with the multiplayer that is like
->
-> unplayable for client
->
-> and it will like if there's no server
->
-> then you won't be able to like
->
-> resolve those specific issues um
->
-> so we just need to get get through that
->
-> before
+> college how's the status of dedicated servers um they are still working on that we're working on specifically the multiplayer issues um that kind of block you from being able to play dedicated servers um there are a few things still with the multiplayer that is like unplayable for client and it will like if there's no server then you won't be able to like resolve those specific issues um so we just need to get get through that before

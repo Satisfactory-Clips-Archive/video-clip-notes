@@ -22,36 +22,4 @@ https://www.youtube.com/watch?v=FVT8_xB9V94
 
 ### Transcript
 
-> when will the code be optimized for the
->
-> new engine
->
-> we're not using any engine we're using
->
-> the same engine and uh we optimize it
->
-> all the time
->
-> every update some optimization at least
->
-> we try to
->
-> you try to pretty much it's pretty much
->
-> every update yeah yeah there's at least
->
-> at least something but with the uh the
->
-> exp
->
-> the current experimental version there's
->
-> quite a few optimization updates there
->
-> assuming it works for you that's
->
-> assuming it doesn't crash
->
-> yeah uh that's why it's on experimental
->
-> yeah
+> when will the code be optimized for the new engine we're not using any engine we're using the same engine and uh we optimize it all the time every update some optimization at least we try to you try to pretty much it's pretty much every update yeah yeah there's at least at least something but with the uh the exp the current experimental version there's quite a few optimization updates there assuming it works for you that's assuming it doesn't crash yeah uh that's why it's on experimental yeah

@@ -22,8 +22,4 @@ https://www.youtube.com/watch?v=lZOTwEhBFO4
 
 ### Transcript
 
-> um why are there fines so big because
->
-> it's a big
->
-> feature um
+> um why are there fines so big because it's a big feature um

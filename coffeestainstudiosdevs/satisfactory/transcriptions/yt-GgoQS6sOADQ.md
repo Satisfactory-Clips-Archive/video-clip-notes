@@ -20,38 +20,4 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 
 ### Transcript
 
-> removing vegetation speeds up the game
->
-> yes or no
->
-> it speeds up the game in the sense that
->
-> it's not rendering as many things
->
-> so there's less overdraw especially in
->
-> the in the
->
-> like the areas where there are a lot of
->
-> trees and stuff
->
-> um because then you're reducing overall
->
-> a lot i would
->
-> i would say yes it does speed up the
->
-> game a bit
->
-> um it does slow down saving though
->
-> because you need to save all the
->
-> instances you remove
->
-> so like rendering wise it will speed it
->
-> up but like
->
-> cpu-wise when saving it will be slower
+> removing vegetation speeds up the game yes or no it speeds up the game in the sense that it's not rendering as many things so there's less overdraw especially in the in the like the areas where there are a lot of trees and stuff um because then you're reducing overall a lot i would i would say yes it does speed up the game a bit um it does slow down saving though because you need to save all the instances you remove so like rendering wise it will speed it up but like cpu-wise when saving it will be slower

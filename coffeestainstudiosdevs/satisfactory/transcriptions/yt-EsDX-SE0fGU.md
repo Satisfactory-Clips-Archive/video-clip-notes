@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=EsDX-SE0fGU
 
 ### Transcript
 
-> at least so why do the chainsaws not do
->
-> damage
->
-> no chainsaws don't do damage but we're
->
-> not gonna jameson was a joke
->
-> from my part
+> at least so why do the chainsaws not do damage no chainsaws don't do damage but we're not gonna jameson was a joke from my part

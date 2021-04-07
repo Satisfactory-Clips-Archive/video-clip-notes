@@ -24,48 +24,4 @@ https://www.youtube.com/watch?v=18InqGOAWcc
 
 ### Transcript
 
-> okay you found it are you streaming it
->
-> right now
->
-> yeah yeah yeah okay i'm gonna move
->
-> i'm gonna put it on right now okay here
->
-> we go it's on
->
-> yeah so so when so linus did like a
->
-> bunch of
->
-> test takes and and here's the original
->
-> train take he did with the [ __ ] being
->
-> here in the background
->
-> look at this [ __ ] [ __ ] just get
->
-> out of the shot
->
-> ruins everything dude it's also funny
->
-> because
->
-> for there's some weird rendering issue
->
-> this plan renders in front of the train
->
-> for like a hot second here like oh yeah
->
-> weird yeah so it looks like the train's
->
-> going through it
->
-> but yeah well i thought that was funny
->
-> it's just yeah i got a photo [ __ ]
->
-> photo bomb yeah
->
-> photo beamed uh yeah okay
+> okay you found it are you streaming it right now yeah yeah yeah okay i'm gonna move i'm gonna put it on right now okay here we go it's on yeah so so when so linus did like a bunch of test takes and and here's the original train take he did with the [ __ ] being here in the background look at this [ __ ] [ __ ] just get out of the shot ruins everything dude it's also funny because for there's some weird rendering issue this plan renders in front of the train for like a hot second here like oh yeah weird yeah so it looks like the train's going through it but yeah well i thought that was funny it's just yeah i got a photo [ __ ] photo bomb yeah photo beamed uh yeah okay

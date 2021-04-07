@@ -16,10 +16,4 @@ https://www.youtube.com/watch?v=zPkgbgA8p1k
 
 ### Transcript
 
-> uh runs better for me on linux than on
->
-> windows that's interesting
->
-> that's really interesting
->
-> wow oh that's stupid from there to there
+> uh runs better for me on linux than on windows that's interesting that's really interesting wow oh that's stupid from there to there

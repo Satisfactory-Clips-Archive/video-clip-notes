@@ -18,12 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> to me will mods break most likely okay
->
-> yes
->
-> mods will always break essentially every
->
-> time we put out an update
->
-> we break monster
+> to me will mods break most likely okay yes mods will always break essentially every time we put out an update we break monster

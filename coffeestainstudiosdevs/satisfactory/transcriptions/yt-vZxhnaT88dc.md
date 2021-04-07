@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 
 ### Transcript
 
-> actual elevators with floor select
->
-> buttons
->
-> you're crazy there's a cool mod for that
->
-> though
+> actual elevators with floor select buttons you're crazy there's a cool mod for that though

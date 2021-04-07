@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=G0L9Xz9MByo
 
 ### Transcript
 
-> customizable build menu oh that's pretty
->
-> that would be cool
+> customizable build menu oh that's pretty that would be cool

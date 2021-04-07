@@ -18,14 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> um any plans for
->
-> better belts for pure nodes i don't know
->
-> what the plans are
->
-> you mean like faster belts yeah i don't
->
-> know
->
-> like
+> um any plans for better belts for pure nodes i don't know what the plans are you mean like faster belts yeah i don't know like

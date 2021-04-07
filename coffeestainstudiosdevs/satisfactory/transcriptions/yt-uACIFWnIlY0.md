@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 24th,
 
 ### Transcript
 
-> drag to build mode that's that's a
->
-> similar it's tied in with uh
->
-> the discussion we're having with the
->
-> blueprint thing
+> drag to build mode that's that's a similar it's tied in with uh the discussion we're having with the blueprint thing

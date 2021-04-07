@@ -14,8 +14,4 @@ https://www.youtube.com/watch?v=q2LO7TE8KXk
 
 ### Transcript
 
-> community community has built are you
->
-> ever organized
->
-> i'm not gonna answer that question
+> community community has built are you ever organized i'm not gonna answer that question

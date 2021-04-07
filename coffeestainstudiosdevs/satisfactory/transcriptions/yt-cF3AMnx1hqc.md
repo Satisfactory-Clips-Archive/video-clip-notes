@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=cF3AMnx1hqc
 
 ### Transcript
 
-> uh hey what do you give to a sick lemon
->
-> sick lemon lemonade
->
-> oh my god all right jace is banned from
->
-> the discord
+> uh hey what do you give to a sick lemon sick lemon lemonade oh my god all right jace is banned from the discord

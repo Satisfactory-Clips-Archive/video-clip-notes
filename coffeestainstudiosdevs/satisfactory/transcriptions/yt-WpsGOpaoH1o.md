@@ -16,18 +16,4 @@ This question was possibly replaced with a more recent answer: [February 9th, 20
 
 ### Transcript
 
-> whatever uh the cup where can i buy it
->
-> uh it's not released yet
->
-> where maybe march
->
-> maybe april is the current guess
->
-> uh and then you can buy it from the uh
->
-> for fans by fan store
->
-> and who knows if we'll have another
->
-> store in eu store by then
+> whatever uh the cup where can i buy it uh it's not released yet where maybe march maybe april is the current guess uh and then you can buy it from the uh for fans by fan store and who knows if we'll have another store in eu store by then

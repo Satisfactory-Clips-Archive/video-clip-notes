@@ -16,14 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> better auto save system
->
-> um you can't set how long
->
-> in between the auto save happen
->
-> um i think
->
-> we should add a quick save button
->
-> i think that will help a lot
+> better auto save system um you can't set how long in between the auto save happen um i think we should add a quick save button i think that will help a lot

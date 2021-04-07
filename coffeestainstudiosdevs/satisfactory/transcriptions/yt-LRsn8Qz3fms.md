@@ -16,24 +16,4 @@ https://www.youtube.com/watch?v=LRsn8Qz3fms
 
 ### Transcript
 
-> uh when will copperstein get jace a
->
-> pizza oven
->
-> i've got a good oven my oven's good my
->
-> hair is good
->
-> your oven is like super hot yeah i know
->
-> i don't know why
->
-> i could get mine up to 300 yeah can i
->
-> get can i get your oven's number or
->
-> something like what
->
-> it's a pretty hot oven you know it's my
->
-> oven
+> uh when will copperstein get jace a pizza oven i've got a good oven my oven's good my hair is good your oven is like super hot yeah i know i don't know why i could get mine up to 300 yeah can i get can i get your oven's number or something like what it's a pretty hot oven you know it's my oven

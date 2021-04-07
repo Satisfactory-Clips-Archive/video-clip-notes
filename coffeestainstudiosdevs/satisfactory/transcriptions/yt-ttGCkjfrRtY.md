@@ -16,6 +16,4 @@ https://www.youtube.com/watch?v=ttGCkjfrRtY
 
 ### Transcript
 
-> bunch of times yeah am i trying to go
->
-> super saiyan halfway there
+> bunch of times yeah am i trying to go super saiyan halfway there

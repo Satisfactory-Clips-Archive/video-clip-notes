@@ -16,14 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 ### Transcript
 
-> um what about the story will more of it
->
-> come
->
-> yeah there's a whole story and it will
->
-> not come incrementally it will come in
->
-> one go
->
-> at some point
+> um what about the story will more of it come yeah there's a whole story and it will not come incrementally it will come in one go at some point

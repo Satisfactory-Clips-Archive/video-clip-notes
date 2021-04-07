@@ -16,26 +16,4 @@ This question was possibly duplicated with a more recent answer: August 18th, 20
 
 ### Transcript
 
-> whatever you want mommy
->
-> how to pet doggo you press e to pet this
->
-> doggo but uh
->
-> who knows what you want you know maybe
->
-> he is afraid of you though you know
->
-> like if you went up to a bird or a cat
->
-> like a while like not
->
-> a wild cat a cat that's out in the
->
-> street somewhere and you just ran out to
->
-> the cat you prepped e
->
-> like i don't know what like i don't know
->
-> what's gonna happen right
+> whatever you want mommy how to pet doggo you press e to pet this doggo but uh who knows what you want you know maybe he is afraid of you though you know like if you went up to a bird or a cat like a while like not a wild cat a cat that's out in the street somewhere and you just ran out to the cat you prepped e like i don't know what like i don't know what's gonna happen right

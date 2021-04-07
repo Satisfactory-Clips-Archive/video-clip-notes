@@ -25,12 +25,4 @@ https://www.youtube.com/watch?v=JVp03wXCxWY
 
 ### Transcript
 
-> um tilted fences we already i think i
->
-> already answered this but that's
->
-> something that i think we want to add at
->
-> some point but i know
->
-> the state of that
+> um tilted fences we already i think i already answered this but that's something that i think we want to add at some point but i know the state of that

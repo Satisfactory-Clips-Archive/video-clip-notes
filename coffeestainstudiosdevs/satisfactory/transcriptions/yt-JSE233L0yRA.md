@@ -20,20 +20,4 @@ https://www.youtube.com/watch?v=JSE233L0yRA
 
 ### Transcript
 
-> which is the picture what about a shrine
->
-> there's
->
-> the shrine's already there we're gonna
->
-> turn the toilet into a shrine
->
-> with pictures of you and me in there oh
->
-> dude like
->
-> randomly when you flush the toilet
->
-> you're here like our laughter
->
-> oh god
+> which is the picture what about a shrine there's the shrine's already there we're gonna turn the toilet into a shrine with pictures of you and me in there oh dude like randomly when you flush the toilet you're here like our laughter oh god

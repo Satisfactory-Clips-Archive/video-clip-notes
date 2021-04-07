@@ -16,36 +16,4 @@ https://www.youtube.com/watch?v=GJMD7L7BLxE
 
 ### Transcript
 
-> this year cyberpunk crossover when
->
-> they've been we've been crossing over
->
-> for ages
->
-> with our delays yeah they they came to
->
-> us first they said hey can we have your
->
-> permission
->
-> we really know what you're doing we love
->
-> what you're doing with your delays
->
-> satisfactory yeah
->
-> you said sure we delayed before it was
->
-> cool okay we did now people are coming
->
-> to us be like oh you're gonna delay just
->
-> like cyberpunk like we did
->
-> it first
->
-> okay and we had arachnophobia mode
->
-> before it was cool yeah
->
-> so yeah just get that wrong
+> this year cyberpunk crossover when they've been we've been crossing over for ages with our delays yeah they they came to us first they said hey can we have your permission we really know what you're doing we love what you're doing with your delays satisfactory yeah you said sure we delayed before it was cool okay we did now people are coming to us be like oh you're gonna delay just like cyberpunk like we did it first okay and we had arachnophobia mode before it was cool yeah so yeah just get that wrong

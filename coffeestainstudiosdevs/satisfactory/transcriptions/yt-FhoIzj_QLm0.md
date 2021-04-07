@@ -14,14 +14,4 @@ https://www.youtube.com/watch?v=FhoIzj_QLm0
 
 ### Transcript
 
-> just get that rolling is tier eight last
->
-> tier planned for the game
->
-> i think officially yes i think the
->
-> existence of a tier nine has been
->
-> alluded to before
->
-> um so yeah you'll have to see
+> just get that rolling is tier eight last tier planned for the game i think officially yes i think the existence of a tier nine has been alluded to before um so yeah you'll have to see

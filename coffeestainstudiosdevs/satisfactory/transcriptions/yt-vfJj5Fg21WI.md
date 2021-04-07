@@ -16,6 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> will be additional use for radar towers
->
-> i don't know maybe maybe not
+> will be additional use for radar towers i don't know maybe maybe not

@@ -16,24 +16,4 @@ https://www.youtube.com/watch?v=jBOvSHJtna8
 
 ### Transcript
 
-> but just a question to be absolutely on
->
-> the safe side after that off the weekend
->
-> alpha testers can continue streaming
->
-> with the alpha client
->
-> uh or did i get that wrong
->
-> uh such a hard thing to answer we
->
-> we kind of we would hope no one would
->
-> stream it but i just don't think that
->
-> that's manageable
->
-> just follow your heart just follow my
->
-> hard day
+> but just a question to be absolutely on the safe side after that off the weekend alpha testers can continue streaming with the alpha client uh or did i get that wrong uh such a hard thing to answer we we kind of we would hope no one would stream it but i just don't think that that's manageable just follow your heart just follow my hard day

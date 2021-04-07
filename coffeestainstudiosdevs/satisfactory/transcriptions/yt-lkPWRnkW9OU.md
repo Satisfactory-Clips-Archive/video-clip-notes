@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=lkPWRnkW9OU
 
 ### Transcript
 
-> are we gonna get googly eyes maybe
->
-> that'll be good
+> are we gonna get googly eyes maybe that'll be good

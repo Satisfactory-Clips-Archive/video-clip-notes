@@ -22,20 +22,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> so i'm glad you like the game you have
->
-> any plans for the radar towers um
->
-> for example for resources and displayed
->
-> on that permanent
->
-> i don't know yeah i don't think so at
->
-> the moment but it's not impossible in
->
-> the future
->
-> and definitely something to chuck on the
->
-> qa site listens to satisfactorygame.com
+> so i'm glad you like the game you have any plans for the radar towers um for example for resources and displayed on that permanent i don't know yeah i don't think so at the moment but it's not impossible in the future and definitely something to chuck on the qa site listens to satisfactorygame.com

@@ -18,14 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 ### Transcript
 
-> uh will the story be released as a book
->
-> slash merch that could be interesting
->
-> maybe it's like a
->
-> or like a comic book spin-off like uh
->
-> portal did
->
-> that would be really cool actually
+> uh will the story be released as a book slash merch that could be interesting maybe it's like a or like a comic book spin-off like uh portal did that would be really cool actually

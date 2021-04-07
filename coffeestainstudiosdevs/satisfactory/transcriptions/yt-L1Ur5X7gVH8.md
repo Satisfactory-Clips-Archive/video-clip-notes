@@ -16,22 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> christians any word i'm farming pale
->
-> berries
->
-> burial not bacon uh not really
->
-> i hope we can fix that uh that glitch
->
-> where
->
-> they don't render when they regrow
->
-> because like now i don't think you can
->
-> see
->
-> and then we grow so hopefully that will
->
-> fix too soon
+> christians any word i'm farming pale berries burial not bacon uh not really i hope we can fix that uh that glitch where they don't render when they regrow because like now i don't think you can see and then we grow so hopefully that will fix too soon

@@ -26,20 +26,4 @@ https://www.youtube.com/watch?v=FlOFnqAw5go
 
 ### Transcript
 
-> this is dog a plushie that's something
->
-> that
->
-> i just formed nothing yeah what about
->
-> the lucifer though
->
-> um yeah so this is actually the
->
-> discussion that's
->
-> going on with with behind the scenes and
->
-> what we're trying to figure out they'll
->
-> be dog
+> this is dog a plushie that's something that i just formed nothing yeah what about the lucifer though um yeah so this is actually the discussion that's going on with with behind the scenes and what we're trying to figure out they'll be dog

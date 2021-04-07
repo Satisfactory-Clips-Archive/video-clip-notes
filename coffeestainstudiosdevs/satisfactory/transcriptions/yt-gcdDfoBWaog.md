@@ -16,20 +16,4 @@ https://www.youtube.com/watch?v=gcdDfoBWaog
 
 ### Transcript
 
-> okay so i was like let's do something
->
-> new yeah are you working
->
-> are you working on a new level i'm
->
-> working on new stuff yeah so i'm excited
->
-> a new level now you're making
->
-> a whole new world a whole new world yes
->
-> totally totally that would be so much
->
-> fun
->
-> yes yeah she'd say with disdain
+> okay so i was like let's do something new yeah are you working are you working on a new level i'm working on new stuff yeah so i'm excited a new level now you're making a whole new world a whole new world yes totally totally that would be so much fun yes yeah she'd say with disdain

@@ -22,18 +22,4 @@ https://www.youtube.com/watch?v=ZlPENv3__GU
 
 ### Transcript
 
-> um will update for we based on new
->
-> unreal engine or the existing one we're
->
-> still
->
-> we're still sticking with unreal engine
->
-> 4. yeah but there is a
->
-> an engine update for it but it's not
->
-> we're not using unreal engine 5 right
->
-> now
+> um will update for we based on new unreal engine or the existing one we're still we're still sticking with unreal engine 4. yeah but there is a an engine update for it but it's not we're not using unreal engine 5 right now

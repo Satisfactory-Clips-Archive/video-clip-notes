@@ -16,32 +16,4 @@ https://www.youtube.com/watch?v=SiKHL4mgM40
 
 ### Transcript
 
-> um someone asked uh
->
-> how long will it be on experimental uh
->
-> the question the answer is
->
-> not really sure it because it depends
->
-> how long it takes to stabilize
->
-> the game uh if by some miracle it's
->
-> stable
->
-> then we can just uh you know like like
->
-> right away we can just put it on early
->
-> access we don't need to wait
->
-> you know but but if it needs more love
->
-> if it has a lot of bugs and needs fixing
->
-> then we're not gonna we're not gonna
->
-> take it over to um
->
-> early access yeah
+> um someone asked uh how long will it be on experimental uh the question the answer is not really sure it because it depends how long it takes to stabilize the game uh if by some miracle it's stable then we can just uh you know like like right away we can just put it on early access we don't need to wait you know but but if it needs more love if it has a lot of bugs and needs fixing then we're not gonna we're not gonna take it over to um early access yeah

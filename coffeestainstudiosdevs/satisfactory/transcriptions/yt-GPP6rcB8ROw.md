@@ -36,14 +36,4 @@ https://www.youtube.com/watch?v=GPP6rcB8ROw
 
 ### Transcript
 
-> do you have plans for the vip items we
->
-> do uh
->
-> for 1.0 we're gonna add them they're
->
-> they're integrated to the storyline
->
-> um so you'll know what they do once we
->
-> hit 1.0 essentially
+> do you have plans for the vip items we do uh for 1.0 we're gonna add them they're they're integrated to the storyline um so you'll know what they do once we hit 1.0 essentially

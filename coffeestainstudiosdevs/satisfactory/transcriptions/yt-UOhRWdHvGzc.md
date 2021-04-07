@@ -18,42 +18,8 @@ This question was possibly duplicated with a more recent answer: [February 2nd, 
 
 ### Transcript
 
-> the time for multiplayer fix uh can't
->
-> use vehicles sega
->
-> yeah i've said this a lot of times since
->
-> the stream already but i'll i'll say it
->
-> again
->
-> uh we are constantly working on updates
->
-> for mic for multiplayer
->
-> there's no like one solution fixes all
->
-> problems on multiplayer that goes for
->
-> the dsync
->
-> issues as well there are a lot of there
->
-> are a lot of reasons why
->
-> it desyncs but we are working on
->
-> improving that and we're working on that
+> the time for multiplayer fix uh can't use vehicles sega yeah i've said this a lot of times since the stream already but i'll i'll say it again uh we are constantly working on updates for mic for multiplayer there's no like one solution fixes all problems on multiplayer that goes for the dsync issues as well there are a lot of there are a lot of reasons why it desyncs but we are working on improving that and we're working on that
 >
 > [Music]
 >
-> and i think it's gonna roll out like
->
-> those type of improvements are gonna
->
-> roll out
->
-> as we go along um
->
-> yes
+> and i think it's gonna roll out like those type of improvements are gonna roll out as we go along um yes

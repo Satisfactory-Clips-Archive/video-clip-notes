@@ -14,16 +14,8 @@ https://www.youtube.com/watch?v=6FEEq5JjARw
 
 ### Transcript
 
-> i talked about you should really try not
->
-> to say um
->
-> i'm gonna say um even more now um
->
-> um so um right what was i talking about
+> i talked about you should really try not to say um i'm gonna say um even more now um um so um right what was i talking about
 >
 > [Music]
 >
-> my brain just blue screen
->
-> right so um
+> my brain just blue screen right so um

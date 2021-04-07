@@ -20,32 +20,4 @@ https://www.youtube.com/watch?v=Y1V0UB_9GJA
 
 ### Transcript
 
-> why is the blender and diluted fuel
->
-> recipe in tier seven
->
-> uh i wish i knew that because i'm not
->
-> the game designer
->
-> the reasoning there is but the diluted
->
-> fuel is a isn't that an alternate recipe
->
-> he thinks i don't know the reason why
->
-> the blender is in tier 7 is because tier
->
-> 7 is supposed to like introduce
->
-> complex recipes for you and we don't
->
-> want to introduce that
->
-> sooner because it might get really
->
-> overwhelming when you're at that point
->
-> tier 7 is like the only place where it
->
-> makes sense to have it
+> why is the blender and diluted fuel recipe in tier seven uh i wish i knew that because i'm not the game designer the reasoning there is but the diluted fuel is a isn't that an alternate recipe he thinks i don't know the reason why the blender is in tier 7 is because tier 7 is supposed to like introduce complex recipes for you and we don't want to introduce that sooner because it might get really overwhelming when you're at that point tier 7 is like the only place where it makes sense to have it

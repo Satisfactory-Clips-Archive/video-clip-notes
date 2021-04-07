@@ -16,14 +16,4 @@ https://www.youtube.com/watch?v=oUEubST5cWM
 
 ### Transcript
 
-> 200 fps lighting bug is fun it's fixed
->
-> no longer in the game
->
-> it's still an update three so enjoy it
->
-> while you can
->
-> no how many how often do you guys get
->
-> that
+> 200 fps lighting bug is fun it's fixed no longer in the game it's still an update three so enjoy it while you can no how many how often do you guys get that

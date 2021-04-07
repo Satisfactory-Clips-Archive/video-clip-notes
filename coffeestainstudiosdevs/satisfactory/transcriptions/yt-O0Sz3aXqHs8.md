@@ -16,22 +16,4 @@ https://www.youtube.com/watch?v=O0Sz3aXqHs8
 
 ### Transcript
 
-> yeah exactly hold up wilson's saying way
->
-> more planned out
->
-> we literally went to the large hat on
->
-> collider you have no idea
->
-> how much of a show that that
->
-> adventure was yeah
->
-> and how like we just pulled that out of
->
-> our ass as we went this was more planned
->
-> out oh yeah than
->
-> than the larger hadron collider
+> yeah exactly hold up wilson's saying way more planned out we literally went to the large hat on collider you have no idea how much of a show that that adventure was yeah and how like we just pulled that out of our ass as we went this was more planned out oh yeah than than the larger hadron collider

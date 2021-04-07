@@ -16,6 +16,4 @@ https://www.youtube.com/watch?v=zWBHfH_MVDw
 
 ### Transcript
 
-> you look a little like dora so that
->
-> worked out thanks dirt
+> you look a little like dora so that worked out thanks dirt

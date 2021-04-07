@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=THubk-3-nlk
 
 ### Transcript
 
-> would love a satisfactory notepad
->
-> yeah what about a satisfactory
->
-> calculator that would be pretty dope can
->
-> we can we get a sponsorship with the
->
-> with the casio ti or
+> would love a satisfactory notepad yeah what about a satisfactory calculator that would be pretty dope can we can we get a sponsorship with the with the casio ti or

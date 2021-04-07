@@ -18,10 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> exactly uh progressive generation i
->
-> guess i mean procedural generation of
->
-> the world
->
-> we aren't planning on doing that
+> exactly uh progressive generation i guess i mean procedural generation of the world we aren't planning on doing that

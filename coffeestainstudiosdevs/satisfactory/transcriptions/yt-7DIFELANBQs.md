@@ -41,42 +41,4 @@ https://www.youtube.com/watch?v=7DIFELANBQs
 
 ### Transcript
 
-> how will update 4 changes the lower
->
-> level lines like motors heavy frames etc
->
-> so the
->
-> update 4 will not change anything below
->
-> tier 7. um so all the previous
->
-> stuff will be the same pretty much
->
-> there's going to be some things that
->
-> unlock in earlier uh tiers
->
-> uh but we won't change anything like we
->
-> the thing that we announced is that like
->
-> in tier seven there's some
->
-> production uh line changes that
->
-> breaks your save files currently if you
->
-> already have like production going for
->
-> your bauxite and your
->
-> aluminium and uh battery production i
->
-> think are the ones
->
-> so those will change but the previous
->
-> ones will be unaffected as
->
-> far as i know
+> how will update 4 changes the lower level lines like motors heavy frames etc so the update 4 will not change anything below tier 7. um so all the previous stuff will be the same pretty much there's going to be some things that unlock in earlier uh tiers uh but we won't change anything like we the thing that we announced is that like in tier seven there's some production uh line changes that breaks your save files currently if you already have like production going for your bauxite and your aluminium and uh battery production i think are the ones so those will change but the previous ones will be unaffected as far as i know

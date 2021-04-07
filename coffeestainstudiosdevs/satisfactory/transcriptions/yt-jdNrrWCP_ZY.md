@@ -22,16 +22,4 @@ https://www.youtube.com/watch?v=jdNrrWCP_ZY
 
 ### Transcript
 
-> see we launched satisfactory two i mean
->
-> i don't even know where long status
->
-> actually won
->
-> he's so tired of satisfactory we'll
->
-> never make another sex factor ever again
->
-> i wonder if satisfactory two ever makes
->
-> sense i don't like really
+> see we launched satisfactory two i mean i don't even know where long status actually won he's so tired of satisfactory we'll never make another sex factor ever again i wonder if satisfactory two ever makes sense i don't like really

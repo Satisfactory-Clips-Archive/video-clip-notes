@@ -14,12 +14,4 @@ https://www.youtube.com/watch?v=ZesKImIEFOQ
 
 ### Transcript
 
-> i'm placing a few like random storage
->
-> boxes
->
-> version of the game on opera but it's
->
-> just a virus
->
-> yeah i don't get crack games
+> i'm placing a few like random storage boxes version of the game on opera but it's just a virus yeah i don't get crack games

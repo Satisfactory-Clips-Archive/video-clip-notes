@@ -18,14 +18,4 @@ https://www.youtube.com/watch?v=9qpSJT7gl9o
 
 ### Transcript
 
-> uh i'm gonna fix the wheels when
->
-> selecting walls is there an issue with
->
-> the walls right now
->
-> same thing if there is an issue with uh
->
-> so the selection wheel please
->
-> hit us up on the keyway side
+> uh i'm gonna fix the wheels when selecting walls is there an issue with the walls right now same thing if there is an issue with uh so the selection wheel please hit us up on the keyway side

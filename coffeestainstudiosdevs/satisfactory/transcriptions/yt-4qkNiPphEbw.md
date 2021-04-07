@@ -16,22 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 ### Transcript
 
-> weer die groep en wil stardew valley
->
-> spuiten team geduwd
->
-> interessetest schedel is gewoon bijna de
->
-> wegen
->
-> we doen mijn erin boos ik was op de vlag
->
-> van wales touwtjes beetje je draai ik
->
-> heb er is een lijkt kruis
->
-> 3 geschoolde mary vooral de berging en
->
-> arrestanten grijs en extravert player te
->
-> zijn waar ik mijn thee
+> weer die groep en wil stardew valley spuiten team geduwd interessetest schedel is gewoon bijna de wegen we doen mijn erin boos ik was op de vlag van wales touwtjes beetje je draai ik heb er is een lijkt kruis 3 geschoolde mary vooral de berging en arrestanten grijs en extravert player te zijn waar ik mijn thee

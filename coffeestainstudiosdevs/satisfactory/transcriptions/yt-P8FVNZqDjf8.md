@@ -14,16 +14,4 @@ https://www.youtube.com/watch?v=P8FVNZqDjf8
 
 ### Transcript
 
-> well when we'll see a deep deep rock
->
-> galactic crossover maybe when both the
->
-> games are done
->
-> well deep rock is done deep rock is 1.0
->
-> is it actually done yeah well
->
-> our game is not done yet though so maybe
->
-> win that soon
+> well when we'll see a deep deep rock galactic crossover maybe when both the games are done well deep rock is done deep rock is 1.0 is it actually done yeah well our game is not done yet though so maybe win that soon

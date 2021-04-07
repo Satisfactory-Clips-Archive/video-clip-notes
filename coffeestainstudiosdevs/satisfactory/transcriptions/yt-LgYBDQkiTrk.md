@@ -18,18 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Transcript
 
-> uh storm or natural disaster included in
->
-> the game
->
-> we actually thought about natural
->
-> disasters in the beginning we even
->
-> prototyped some but uh they're not in
->
-> the game now
->
-> i don't know if they're gonna continue
->
-> to be in the game or not
+> uh storm or natural disaster included in the game we actually thought about natural disasters in the beginning we even prototyped some but uh they're not in the game now i don't know if they're gonna continue to be in the game or not

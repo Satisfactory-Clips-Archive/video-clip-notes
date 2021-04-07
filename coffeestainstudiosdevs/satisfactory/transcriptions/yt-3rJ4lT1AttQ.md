@@ -14,6 +14,4 @@ https://www.youtube.com/watch?v=3rJ4lT1AttQ
 
 ### Transcript
 
-> let's go yeah and somebody asked yes
->
-> this is mirrored
+> let's go yeah and somebody asked yes this is mirrored

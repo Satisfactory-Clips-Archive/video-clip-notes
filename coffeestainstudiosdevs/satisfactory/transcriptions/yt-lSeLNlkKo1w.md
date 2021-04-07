@@ -22,12 +22,4 @@ https://www.youtube.com/watch?v=lSeLNlkKo1w
 
 ### Transcript
 
-> do not uh is ada cg or a voice actress
->
-> she's text to speech with a couple
->
-> effects on her
->
-> but um yeah it's like
->
-> google google text yeah text and speech
+> do not uh is ada cg or a voice actress she's text to speech with a couple effects on her but um yeah it's like google google text yeah text and speech

@@ -14,24 +14,4 @@ https://www.youtube.com/watch?v=dvCRDVGePX0
 
 ### Transcript
 
-> i'm in a new area update 10 is 1.0 we
->
-> don't have
->
-> any plans for updates 10 at the moment
->
-> no time for 10. straightforward straight
->
-> for 11.
->
-> yeah straight for 11. i i always said we
->
-> should have skipped update 3 and go
->
-> straight for four
->
-> yeah that'd be so funny it's about up to
->
-> four
->
-> yeah exactly
+> i'm in a new area update 10 is 1.0 we don't have any plans for updates 10 at the moment no time for 10. straightforward straight for 11. yeah straight for 11. i i always said we should have skipped update 3 and go straight for four yeah that'd be so funny it's about up to four yeah exactly

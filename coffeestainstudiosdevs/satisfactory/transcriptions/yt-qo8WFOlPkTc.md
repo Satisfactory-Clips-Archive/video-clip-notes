@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Transcript
 
-> inevitable battle royale
->
-> mode coming soon maybe when we get uh
->
-> mods i don't know if that's going to be
->
-> a thing that's possible
+> inevitable battle royale mode coming soon maybe when we get uh mods i don't know if that's going to be a thing that's possible

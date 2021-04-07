@@ -22,12 +22,4 @@ https://www.youtube.com/watch?v=QM6AXdaNYN4
 
 ### Transcript
 
-> will it be possible to remove the toxic
->
-> pillars
->
-> uh it would be possible to do something
->
-> with the toxic gas
->
-> in the future
+> will it be possible to remove the toxic pillars uh it would be possible to do something with the toxic gas in the future

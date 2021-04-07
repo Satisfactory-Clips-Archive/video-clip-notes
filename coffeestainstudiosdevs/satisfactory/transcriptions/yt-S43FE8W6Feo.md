@@ -14,10 +14,4 @@ https://www.youtube.com/watch?v=S43FE8W6Feo
 
 ### Transcript
 
-> [ __ ] ton is there but when you're gonna
->
-> add
->
-> orcs to the game
->
-> my dude it's the last boss
+> [ __ ] ton is there but when you're gonna add orcs to the game my dude it's the last boss

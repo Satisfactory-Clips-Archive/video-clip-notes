@@ -20,18 +20,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> will we ever get a second body slot i
->
-> think probably maybe in the future
->
-> um i remember correctly that's not
->
-> something that
->
-> uh i think we might be not sure
->
-> either that or we'll like redo how
->
-> equipment work
->
-> yeah equipment isn't final i guess
+> will we ever get a second body slot i think probably maybe in the future um i remember correctly that's not something that uh i think we might be not sure either that or we'll like redo how equipment work yeah equipment isn't final i guess

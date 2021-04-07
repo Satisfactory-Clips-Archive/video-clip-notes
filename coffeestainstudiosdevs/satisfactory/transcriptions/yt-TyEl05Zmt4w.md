@@ -18,6 +18,4 @@ https://www.youtube.com/watch?v=TyEl05Zmt4w
 
 ### Transcript
 
-> dedicated desserts will fix everything
->
-> oh blast ride you dream on
+> dedicated desserts will fix everything oh blast ride you dream on

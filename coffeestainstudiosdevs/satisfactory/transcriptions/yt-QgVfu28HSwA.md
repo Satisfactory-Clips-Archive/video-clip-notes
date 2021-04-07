@@ -16,6 +16,4 @@ https://www.youtube.com/watch?v=QgVfu28HSwA
 
 ### Transcript
 
-> it all right see any more announcements
->
-> rockets expansion
+> it all right see any more announcements rockets expansion

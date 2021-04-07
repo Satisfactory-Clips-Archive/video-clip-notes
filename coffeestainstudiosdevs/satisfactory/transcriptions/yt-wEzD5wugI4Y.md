@@ -20,18 +20,4 @@ https://www.youtube.com/watch?v=wEzD5wugI4Y
 
 ### Transcript
 
-> james mentioned nitric acid will be used
->
-> for fuel is
->
-> nitroxide coming for tractors or rocket
->
-> fuel
->
-> later down the line uh i haven't looked
->
-> into that but i will make a note
->
-> nice and we can see if that's a
->
-> possibility siek
+> james mentioned nitric acid will be used for fuel is nitroxide coming for tractors or rocket fuel later down the line uh i haven't looked into that but i will make a note nice and we can see if that's a possibility siek

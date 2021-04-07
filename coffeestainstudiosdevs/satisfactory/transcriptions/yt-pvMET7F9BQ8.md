@@ -16,8 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> planning on doing that plans for ray
->
-> tracing there are no plans
->
-> right now
+> planning on doing that plans for ray tracing there are no plans right now

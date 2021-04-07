@@ -16,10 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 ### Transcript
 
-> is going to be updates can i change my
->
-> character from female to male you cannot
->
-> and i don't think that's going to happen
->
-> actually
+> is going to be updates can i change my character from female to male you cannot and i don't think that's going to happen actually

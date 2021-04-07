@@ -14,18 +14,4 @@ https://www.youtube.com/watch?v=wqKR8fWgjdQ
 
 ### Transcript
 
-> inspiration from that anything about
->
-> jurification no like
->
-> my entire brain energy was dedicated to
->
-> yesterday and zero plans or thoughts
->
-> beyond yesterday
->
-> so it's like i'm starting a whole new
->
-> life i've been born again i have no
->
-> plans for anything
+> inspiration from that anything about jurification no like my entire brain energy was dedicated to yesterday and zero plans or thoughts beyond yesterday so it's like i'm starting a whole new life i've been born again i have no plans for anything

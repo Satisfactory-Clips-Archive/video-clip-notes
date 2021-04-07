@@ -16,8 +16,4 @@ https://www.youtube.com/watch?v=ocs3_2F-sNs
 
 ### Transcript
 
-> we have trust issues okay modular
->
-> equipment maybe yeah that might be a
->
-> thing that happens at some point
+> we have trust issues okay modular equipment maybe yeah that might be a thing that happens at some point
