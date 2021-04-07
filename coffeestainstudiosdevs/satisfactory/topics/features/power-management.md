@@ -9,6 +9,10 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## April 6th, 2021 Livestream
+* [Q&A: Rechargeable Batteries?](../../transcriptions/yt-8wU1YvsAytE.md) [https://www.youtube.com/watch?v=8wU1YvsAytE](https://www.youtube.com/watch?v=8wU1YvsAytE)
+* [Snutt & Mark Talk: Update 4](../../transcriptions/yt-K4LIalIYgGk.md) [https://www.youtube.com/watch?v=K4LIalIYgGk](https://www.youtube.com/watch?v=K4LIalIYgGk)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Is the buildings related to power going to be daisy-chained?](../../transcriptions/yt-83vj59cC5wU.md) [https://www.youtube.com/watch?v=83vj59cC5wU](https://www.youtube.com/watch?v=83vj59cC5wU)
 * [Q&A: Loss of efficiency over long distances?](../../transcriptions/yt-G3mcXzVjUZQ.md) [https://www.youtube.com/watch?v=G3mcXzVjUZQ](https://www.youtube.com/watch?v=G3mcXzVjUZQ)

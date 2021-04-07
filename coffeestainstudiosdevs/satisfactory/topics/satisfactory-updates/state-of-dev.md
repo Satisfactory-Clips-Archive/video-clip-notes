@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## April 6th, 2021 Livestream
+* [State of Dev: April Fools 2021](../../transcriptions/yt-eMPr_Y9bstc.md) [https://www.youtube.com/watch?v=eMPr_Y9bstc](https://www.youtube.com/watch?v=eMPr_Y9bstc)
+* [State of Dev: Cloud Sync on Experimental branch for Epic Store disabled](../../transcriptions/yt-eAmIT8FuZdM.md) [https://www.youtube.com/watch?v=eAmIT8FuZdM](https://www.youtube.com/watch?v=eAmIT8FuZdM)
+* [State of Dev: Epic Online Services instability](../../transcriptions/yt-6f2D59WPWZA.md) [https://www.youtube.com/watch?v=6f2D59WPWZA](https://www.youtube.com/watch?v=6f2D59WPWZA)
+* [State of Dev: Preparing for Update 4 Early Access Launch](../../transcriptions/yt-BmuP1OXfs80.md) [https://www.youtube.com/watch?v=BmuP1OXfs80](https://www.youtube.com/watch?v=BmuP1OXfs80)
+
 ## March 30th, 2021 Livestream
 * [State of Dev: Cheatcrete](../../transcriptions/yt-JBNdcw4gTiw.md) [https://www.youtube.com/watch?v=JBNdcw4gTiw](https://www.youtube.com/watch?v=JBNdcw4gTiw)
 * [State of Dev: Sinking Plutonium Fuel Rods](../../transcriptions/yt-W6AUplMo7J4.md) [https://www.youtube.com/watch?v=W6AUplMo7J4](https://www.youtube.com/watch?v=W6AUplMo7J4)

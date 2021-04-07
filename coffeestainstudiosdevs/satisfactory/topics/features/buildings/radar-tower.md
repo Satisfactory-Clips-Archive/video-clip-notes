@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Radar Tower
 
+## April 6th, 2021 Livestream
+* [Q&A: Do you think we'll rework Radar Towers?](../../../transcriptions/yt-hoLnbnTC5vE.md) [https://www.youtube.com/watch?v=hoLnbnTC5vE](https://www.youtube.com/watch?v=hoLnbnTC5vE)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Will there be additional use for Radar Towers?](../../../transcriptions/yt-vfJj5Fg21WI.md) [https://www.youtube.com/watch?v=vfJj5Fg21WI](https://www.youtube.com/watch?v=vfJj5Fg21WI)
 

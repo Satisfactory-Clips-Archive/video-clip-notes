@@ -11,7 +11,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Do you have any plans for the Radar Towers?
 https://www.youtube.com/watch?v=Jb1JBMGknBY
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will there be additional use for Radar Towers?](./yt-vfJj5Fg21WI.md) [https://www.youtube.com/watch?v=vfJj5Fg21WI](https://www.youtube.com/watch?v=vfJj5Fg21WI)
+This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Do you think we'll rework Radar Towers?](./yt-hoLnbnTC5vE.md) [https://www.youtube.com/watch?v=hoLnbnTC5vE](https://www.youtube.com/watch?v=hoLnbnTC5vE)
 
 
 ### Topics

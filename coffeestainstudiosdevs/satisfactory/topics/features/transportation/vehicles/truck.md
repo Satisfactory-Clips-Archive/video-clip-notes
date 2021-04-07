@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## April 6th, 2021 Livestream
+* [Q&A: Fluid Trucks?](../../../../transcriptions/yt-lDJH-Q4E5Xk.md) [https://www.youtube.com/watch?v=lDJH-Q4E5Xk](https://www.youtube.com/watch?v=lDJH-Q4E5Xk)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Will there be Trucks that can transport fluids?](../../../../transcriptions/yt-sO7qhlAKq3U.md) [https://www.youtube.com/watch?v=sO7qhlAKq3U](https://www.youtube.com/watch?v=sO7qhlAKq3U)
 

@@ -12,6 +12,13 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Design/Balancing process for adding a new part](../../transcriptions/yt-8KvcijfWfcA.md) [https://www.youtube.com/watch?v=8KvcijfWfcA](https://www.youtube.com/watch?v=8KvcijfWfcA)
+* [Q&A: Do you think we'll rework Radar Towers?](../../transcriptions/yt-hoLnbnTC5vE.md) [https://www.youtube.com/watch?v=hoLnbnTC5vE](https://www.youtube.com/watch?v=hoLnbnTC5vE)
+* [Snutt & Mark Talk: Endgame Balancing](../../transcriptions/yt-LieMqMVIOgg.md) [https://www.youtube.com/watch?v=LieMqMVIOgg](https://www.youtube.com/watch?v=LieMqMVIOgg)
+* [Q&A: Rechargeable Batteries?](../../transcriptions/yt-8wU1YvsAytE.md) [https://www.youtube.com/watch?v=8wU1YvsAytE](https://www.youtube.com/watch?v=8wU1YvsAytE)
+* [Q&A: Would you ever add a way to produce Power Shards?](../../transcriptions/yt-57oPRYp61-s.md) [https://www.youtube.com/watch?v=57oPRYp61-s](https://www.youtube.com/watch?v=57oPRYp61-s)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Asking very nicely even if it's a no; Oil node in Green Hills?](../../transcriptions/yt-RI8F-a7oO1s.md) [https://www.youtube.com/watch?v=RI8F-a7oO1s](https://www.youtube.com/watch?v=RI8F-a7oO1s)
 * [Q&A: Is Coffee Stain okay with the placement of Caterium right now?](../../transcriptions/yt-mAi1ag7Wk40.md) [https://www.youtube.com/watch?v=mAi1ag7Wk40](https://www.youtube.com/watch?v=mAi1ag7Wk40)

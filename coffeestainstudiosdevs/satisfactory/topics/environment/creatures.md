@@ -9,6 +9,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Day/Night cycle changes](../../transcriptions/yt-nDsZJUKHOUI.md) [https://www.youtube.com/watch?v=nDsZJUKHOUI](https://www.youtube.com/watch?v=nDsZJUKHOUI)
+* [Q&A: Do Lights affect gameplay?](../../transcriptions/yt-Yf-LT5pHJTU.md) [https://www.youtube.com/watch?v=Yf-LT5pHJTU](https://www.youtube.com/watch?v=Yf-LT5pHJTU)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Will there be more creatures ever?](../../transcriptions/yt-hKlILzyla-Y.md) [https://www.youtube.com/watch?v=hKlILzyla-Y](https://www.youtube.com/watch?v=hKlILzyla-Y)
 

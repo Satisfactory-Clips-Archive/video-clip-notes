@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## April 6th, 2021 Livestream
+* [Q&A: How will Story affect Balancing?](../transcriptions/yt-4Ovv5IdbafQ.md) [https://www.youtube.com/watch?v=4Ovv5IdbafQ](https://www.youtube.com/watch?v=4Ovv5IdbafQ)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Will there be Story to the game?](../transcriptions/yt-C23SCWtnv2U.md) [https://www.youtube.com/watch?v=C23SCWtnv2U](https://www.youtube.com/watch?v=C23SCWtnv2U)
 

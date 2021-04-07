@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Cheatcrete, Build Modes, and clipping](../../../transcriptions/yt-RtBNa7oGJiI.md) [https://www.youtube.com/watch?v=RtBNa7oGJiI](https://www.youtube.com/watch?v=RtBNa7oGJiI)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Can you fix the wheels when selecting walls?](../../../transcriptions/yt-9qpSJT7gl9o.md) [https://www.youtube.com/watch?v=9qpSJT7gl9o](https://www.youtube.com/watch?v=9qpSJT7gl9o)
 * [Q&A: Curved Walls, Windows, and Foundations?](../../../transcriptions/yt-gBErG8jzRtI.md) [https://www.youtube.com/watch?v=gBErG8jzRtI](https://www.youtube.com/watch?v=gBErG8jzRtI)

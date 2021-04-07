@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## April 6th, 2021 Livestream
+* [Q&A: Depleted Uranium ammo?](../../../../transcriptions/yt-lNsmanCf4jk.md) [https://www.youtube.com/watch?v=lNsmanCf4jk](https://www.youtube.com/watch?v=lNsmanCf4jk)
+
 ## March 30th, 2021 Livestream
 * [Q&A: When my only Doggo brings me Uranium Waste is there a way to put it back where it found it?](../../../../transcriptions/yt-Nbe7G5GCosE.md) [https://www.youtube.com/watch?v=Nbe7G5GCosE](https://www.youtube.com/watch?v=Nbe7G5GCosE)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Cheatcrete, Build Modes, and clipping](../../../transcriptions/yt-RtBNa7oGJiI.md) [https://www.youtube.com/watch?v=RtBNa7oGJiI](https://www.youtube.com/watch?v=RtBNa7oGJiI)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Any plans on a global grid?](../../../transcriptions/yt-QxJ8e_0r9uE.md) [https://www.youtube.com/watch?v=QxJ8e_0r9uE](https://www.youtube.com/watch?v=QxJ8e_0r9uE)
 * [State of Dev: Cheatcrete](../../../transcriptions/yt-JBNdcw4gTiw.md) [https://www.youtube.com/watch?v=JBNdcw4gTiw](https://www.youtube.com/watch?v=JBNdcw4gTiw)

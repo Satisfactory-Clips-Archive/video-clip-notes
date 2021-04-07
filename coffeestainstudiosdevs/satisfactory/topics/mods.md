@@ -31,6 +31,10 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## April 6th, 2021 Livestream
+* [Community FYI: Frontier doesn't want Modders releasing animals they can sell instead](../transcriptions/yt-0mL9htqj-DY.md) [https://www.youtube.com/watch?v=0mL9htqj-DY](https://www.youtube.com/watch?v=0mL9htqj-DY)
+* [Snutt Talk: Mods](../transcriptions/yt-xMfYff9i-Cs.md) [https://www.youtube.com/watch?v=xMfYff9i-Cs](https://www.youtube.com/watch?v=xMfYff9i-Cs)
+
 ## March 30th, 2021 Livestream
 * [State of Dev: Modding situation for Update 4](../transcriptions/yt-l3C9cCJJ30s.md) [https://www.youtube.com/watch?v=l3C9cCJJ30s](https://www.youtube.com/watch?v=l3C9cCJJ30s)
 

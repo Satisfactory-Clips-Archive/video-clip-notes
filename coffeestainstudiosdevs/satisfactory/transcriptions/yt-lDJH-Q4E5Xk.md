@@ -1,0 +1,78 @@
+---
+title: "April 6th, 2021 Livestream Q&A: Fluid Trucks?"
+date: "2021-04-06"
+layout: transcript
+topics:
+    - "features/fluids"
+    - "features/transportation/vehicles/truck"
+---
+# [April 6th, 2021 Livestream](../2021-04-06.md)
+## Q&A: Fluid Trucks?
+https://www.youtube.com/watch?v=lDJH-Q4E5Xk
+<details>
+<summary>This question may have been asked previously at least 4 other times, as recently as March 2021 and as early as August 2020.</summary>
+
+* [March 30th, 2021 Livestream Q&A: Will there be Trucks that can transport fluids?](./yt-sO7qhlAKq3U.md) [https://www.youtube.com/watch?v=sO7qhlAKq3U](https://www.youtube.com/watch?v=sO7qhlAKq3U)
+* [October 6th, 2020 Livestream Q&A: What do you think about adding some kind of Tanker Truck?](./yt-JCBQj8Ern20.md) [https://www.youtube.com/watch?v=JCBQj8Ern20](https://www.youtube.com/watch?v=JCBQj8Ern20)
+* [September 15th, 2020 Livestream Q&A: Any improvement for the Trucks so they can transport Fluids?](./yt-lNpwyJr7lZc.md) [https://www.youtube.com/watch?v=lNpwyJr7lZc](https://www.youtube.com/watch?v=lNpwyJr7lZc)
+* [August 25th, 2020 Livestream Q&A: Tanker Trucks?](./yt-IPmVdCgi2_A.md) [https://www.youtube.com/watch?v=IPmVdCgi2_A](https://www.youtube.com/watch?v=IPmVdCgi2_A)
+</details>
+
+
+### Topics
+* [Features > Fluids](../topics/features/fluids.md)
+* [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
+
+### Transcript
+
+> don't get oh actually one
+>
+> question that i haven't seen today but
+>
+> i've seen it a lot of time before is
+>
+> is adding a
+>
+> truck that can transfer fluids we have
+>
+> it for trains but we don't have it with
+>
+> trucks
+>
+> what's the thought there uh that was a
+>
+> conscious decision and i don't remember
+>
+> why i mean what's the big limitation
+>
+> when we did update three of course was
+>
+> that it's a shitload of work
+>
+> to make all those new assets for like a
+>
+> truck with a fluid container yeah
+>
+> so we went the whole packaging way where
+>
+> you could do that by packaging stuff
+>
+> right that's also where we made
+>
+> packaging more spacious space efficient
+>
+> uh but also we kind of wanted to see if
+>
+> people would just make long pipelines
+>
+> would that be super annoying we never
+>
+> really followed up on that properly
+>
+> uh which is something that we should do
+>
+> yeah it would be fun uh just work and
+>
+> i'm not sure if it's actually
+>
+> necessary cool

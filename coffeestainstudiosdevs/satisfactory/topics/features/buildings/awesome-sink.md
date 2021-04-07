@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
+## April 6th, 2021 Livestream
+* [Q&A: Fluids Sinks?](../../../transcriptions/yt-GippjFCCUPw.md) [https://www.youtube.com/watch?v=GippjFCCUPw](https://www.youtube.com/watch?v=GippjFCCUPw)
+* [Snutt & Mark Talk: Sinkable Plutonium Fuel Rods](../../../transcriptions/yt-ZWF_pdblQxY.md) [https://www.youtube.com/watch?v=ZWF_pdblQxY](https://www.youtube.com/watch?v=ZWF_pdblQxY)
+* [Q&A: Sinking Fluids?](../../../transcriptions/yt-aXJMTzXDwrI.md) [https://www.youtube.com/watch?v=aXJMTzXDwrI](https://www.youtube.com/watch?v=aXJMTzXDwrI)
+
 ## March 30th, 2021 Livestream
 * [Q&A: AWESOME Sink for fluids?](../../../transcriptions/yt-NzhKGg8zSAU.md) [https://www.youtube.com/watch?v=NzhKGg8zSAU](https://www.youtube.com/watch?v=NzhKGg8zSAU)
 * [Q&A: Space Elevator as a resource Sink for six specific items after all the stages?](../../../transcriptions/yt-4Dgn9kWGN48.md) [https://www.youtube.com/watch?v=4Dgn9kWGN48](https://www.youtube.com/watch?v=4Dgn9kWGN48)

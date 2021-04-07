@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Fluids Update
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Update 4](../../../transcriptions/yt-K4LIalIYgGk.md) [https://www.youtube.com/watch?v=K4LIalIYgGk](https://www.youtube.com/watch?v=K4LIalIYgGk)
+
 ## March 16th, 2021 Livestream
 * Snutt Talk: Changes between the Fluids Update and now [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14028&end=14092](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=14028&end=14092)
 * Q&A: Will Update 5 come this year? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8653&end=8716](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8653&end=8716)

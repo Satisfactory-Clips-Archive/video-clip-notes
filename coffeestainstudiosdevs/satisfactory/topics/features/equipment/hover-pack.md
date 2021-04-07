@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Hover Pack rebalance](../../../transcriptions/yt-0sIdZWKvt5w.md) [https://www.youtube.com/watch?v=0sIdZWKvt5w](https://www.youtube.com/watch?v=0sIdZWKvt5w)
+* [Snutt & Mark Talk: Hover Pack vs. Jetpack](../../../transcriptions/yt-_6MSvhb6COU.md) [https://www.youtube.com/watch?v=_6MSvhb6COU](https://www.youtube.com/watch?v=_6MSvhb6COU)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Mk.2 & Mk.3 Power Poles gives us more Hover Pack range?](../../../transcriptions/yt-HE5CIGke424.md) [https://www.youtube.com/watch?v=HE5CIGke424](https://www.youtube.com/watch?v=HE5CIGke424)
 * [Q&A: Would you swap Hover and Jet packs?](../../../transcriptions/yt-wPguHi5TsY4.md) [https://www.youtube.com/watch?v=wPguHi5TsY4](https://www.youtube.com/watch?v=wPguHi5TsY4)

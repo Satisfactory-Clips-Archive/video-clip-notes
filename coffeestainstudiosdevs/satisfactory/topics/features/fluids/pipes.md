@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## April 6th, 2021 Livestream
+* [Q&A: Are you aware of the Pipe issue in Update 4?](../../../transcriptions/yt-XN5oNoh2hqY.md) [https://www.youtube.com/watch?v=XN5oNoh2hqY](https://www.youtube.com/watch?v=XN5oNoh2hqY)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Is that the same as "No Drones" and "No Pipes" ?](../../../transcriptions/yt-YvY8_P-bxqY.md) [https://www.youtube.com/watch?v=YvY8_P-bxqY](https://www.youtube.com/watch?v=YvY8_P-bxqY)
 * [Q&A: Loss of efficiency over long distances?](../../../transcriptions/yt-G3mcXzVjUZQ.md) [https://www.youtube.com/watch?v=G3mcXzVjUZQ](https://www.youtube.com/watch?v=G3mcXzVjUZQ)

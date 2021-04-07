@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Any scope of the game being on consoles?
 https://www.youtube.com/watch?v=bsTq_WiSeCY
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will we ever make a Console version?](./yt-LWvp_I866M0.md) [https://www.youtube.com/watch?v=LWvp_I866M0](https://www.youtube.com/watch?v=LWvp_I866M0)
+This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Console port?](./yt-j1eVP7KViyA.md) [https://www.youtube.com/watch?v=j1eVP7KViyA](https://www.youtube.com/watch?v=j1eVP7KViyA)
 
 
 ### Topics

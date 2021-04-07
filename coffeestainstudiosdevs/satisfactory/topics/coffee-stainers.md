@@ -25,6 +25,9 @@ date: Last Modified
 * [Tim](../topics/coffee-stainers/tim.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Game design process](../transcriptions/yt-ZrYTLy8dcTA.md) [https://www.youtube.com/watch?v=ZrYTLy8dcTA](https://www.youtube.com/watch?v=ZrYTLy8dcTA)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Satisfactory Roadmap?](../transcriptions/yt-HZ4vKssj208.md) [https://www.youtube.com/watch?v=HZ4vKssj208](https://www.youtube.com/watch?v=HZ4vKssj208)
 * [Snutt Talk: We see everything posted on the QA Site](../transcriptions/yt-apW-3vXw6Nw.md) [https://www.youtube.com/watch?v=apW-3vXw6Nw](https://www.youtube.com/watch?v=apW-3vXw6Nw)

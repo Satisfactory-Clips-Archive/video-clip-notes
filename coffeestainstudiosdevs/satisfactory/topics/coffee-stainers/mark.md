@@ -4,6 +4,16 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Design/Balancing process for adding a new part](../../transcriptions/yt-8KvcijfWfcA.md) [https://www.youtube.com/watch?v=8KvcijfWfcA](https://www.youtube.com/watch?v=8KvcijfWfcA)
+* [Snutt & Mark Talk: Game design process](../../transcriptions/yt-ZrYTLy8dcTA.md) [https://www.youtube.com/watch?v=ZrYTLy8dcTA](https://www.youtube.com/watch?v=ZrYTLy8dcTA)
+* [Snutt Talk: Game Director Mark will be on later](../../transcriptions/yt-4a6K3mz85kk.md) [https://www.youtube.com/watch?v=4a6K3mz85kk](https://www.youtube.com/watch?v=4a6K3mz85kk)
+* [Snutt & Mark Talk: How do you make decisions on Balancing?](../../transcriptions/yt-F-XJA1J40wo.md) [https://www.youtube.com/watch?v=F-XJA1J40wo](https://www.youtube.com/watch?v=F-XJA1J40wo)
+* [Snutt & Mark Talk: Mark's Balancing spreadsheets](../../transcriptions/yt-IdduSapLs3Q.md) [https://www.youtube.com/watch?v=IdduSapLs3Q](https://www.youtube.com/watch?v=IdduSapLs3Q)
+* [Snutt & Mark Talk: Measuring Complexity](../../transcriptions/yt-sDUy-9Ay1mk.md) [https://www.youtube.com/watch?v=sDUy-9Ay1mk](https://www.youtube.com/watch?v=sDUy-9Ay1mk)
+* [Q&A: What kind of things do you learn from the gameplay stats that you gather?](../../transcriptions/yt-Xp4cDuSRMMs.md) [https://www.youtube.com/watch?v=Xp4cDuSRMMs](https://www.youtube.com/watch?v=Xp4cDuSRMMs)
+* [Snutt & Mark Talk: Who is Mark?](../../transcriptions/yt-hXrd7gygeMI.md) [https://www.youtube.com/watch?v=hXrd7gygeMI](https://www.youtube.com/watch?v=hXrd7gygeMI)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Loss of efficiency over long distances?](../../transcriptions/yt-G3mcXzVjUZQ.md) [https://www.youtube.com/watch?v=G3mcXzVjUZQ](https://www.youtube.com/watch?v=G3mcXzVjUZQ)
 

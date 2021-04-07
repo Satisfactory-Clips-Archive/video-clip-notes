@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## April 6th, 2021 Livestream
+* [Q&A: Signs?](../../../transcriptions/yt-B6BEy7mals4.md) [https://www.youtube.com/watch?v=B6BEy7mals4](https://www.youtube.com/watch?v=B6BEy7mals4)
+
 ## March 30th, 2021 Livestream
 * Q&A: Can we get a sign in the game that says "Upvote that on the QA Site" [https://www.youtube.com/watch?v=UyuKRjvhgJw](https://www.youtube.com/watch?v=UyuKRjvhgJw)
 

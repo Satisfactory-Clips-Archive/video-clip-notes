@@ -8,7 +8,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: When does Experimental come to Early Access?
 https://www.youtube.com/watch?v=s0KzZA300xo
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Game full release on Thursday?](./yt-FbYuuY2Qrlg.md) [https://www.youtube.com/watch?v=FbYuuY2Qrlg](https://www.youtube.com/watch?v=FbYuuY2Qrlg)
+This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Is April 13th still the date for Update 4 on Early Access?](./yt-Md41t3AMEX0.md) [https://www.youtube.com/watch?v=Md41t3AMEX0](https://www.youtube.com/watch?v=Md41t3AMEX0)
 
 
 ### Topics

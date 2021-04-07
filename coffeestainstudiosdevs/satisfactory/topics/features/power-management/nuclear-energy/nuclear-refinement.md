@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Endgame Balancing](../../../../transcriptions/yt-LieMqMVIOgg.md) [https://www.youtube.com/watch?v=LieMqMVIOgg](https://www.youtube.com/watch?v=LieMqMVIOgg)
+* [Snutt & Mark Talk: Sinkable Plutonium Fuel Rods](../../../../transcriptions/yt-ZWF_pdblQxY.md) [https://www.youtube.com/watch?v=ZWF_pdblQxY](https://www.youtube.com/watch?v=ZWF_pdblQxY)
+
 ## March 30th, 2021 Livestream
 * [State of Dev: Sinking Plutonium Fuel Rods](../../../../transcriptions/yt-W6AUplMo7J4.md) [https://www.youtube.com/watch?v=W6AUplMo7J4](https://www.youtube.com/watch?v=W6AUplMo7J4)
 

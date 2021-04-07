@@ -11,6 +11,9 @@ date: Last Modified
 * [Unreal Engine](../topics/technology/unreal-engine.md)
 * [User Interface](../topics/technology/user-interface.md)
 
+## April 6th, 2021 Livestream
+* [State of Dev: Epic Online Services instability](../transcriptions/yt-6f2D59WPWZA.md) [https://www.youtube.com/watch?v=6f2D59WPWZA](https://www.youtube.com/watch?v=6f2D59WPWZA)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Have you guys considered writing/vlogging more about the technical sides of development?](../transcriptions/yt-gKZmQ7vZZbU.md) [https://www.youtube.com/watch?v=gKZmQ7vZZbU](https://www.youtube.com/watch?v=gKZmQ7vZZbU)
 

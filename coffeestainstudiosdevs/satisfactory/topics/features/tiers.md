@@ -15,6 +15,10 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Feedback from hardcore players vs. casual players](../../transcriptions/yt-7I4_CIh-ajM.md) [https://www.youtube.com/watch?v=7I4_CIh-ajM](https://www.youtube.com/watch?v=7I4_CIh-ajM)
+* [Snutt & Mark Talk: Measuring Complexity](../../transcriptions/yt-sDUy-9Ay1mk.md) [https://www.youtube.com/watch?v=sDUy-9Ay1mk](https://www.youtube.com/watch?v=sDUy-9Ay1mk)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Space Elevator as a resource Sink for six specific items after all the stages?](../../transcriptions/yt-4Dgn9kWGN48.md) [https://www.youtube.com/watch?v=4Dgn9kWGN48](https://www.youtube.com/watch?v=4Dgn9kWGN48)
 

@@ -7,6 +7,9 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Design/Balancing process for adding a new part](../../transcriptions/yt-8KvcijfWfcA.md) [https://www.youtube.com/watch?v=8KvcijfWfcA](https://www.youtube.com/watch?v=8KvcijfWfcA)
+
 ## March 23rd, 2021 Livestream
 * [PSA: AFK Crafting](../../transcriptions/yt-JHjGj7cJjk8.md) [https://www.youtube.com/watch?v=JHjGj7cJjk8](https://www.youtube.com/watch?v=JHjGj7cJjk8)
 * [Q&A: Should I start to dismantle my Turbo Motor automation, 40 hours down the drain?](../../transcriptions/yt-1i0dU7zYdqs.md) [https://www.youtube.com/watch?v=1i0dU7zYdqs](https://www.youtube.com/watch?v=1i0dU7zYdqs)

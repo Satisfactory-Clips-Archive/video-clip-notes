@@ -11,6 +11,10 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Day/Night cycle changes](../transcriptions/yt-nDsZJUKHOUI.md) [https://www.youtube.com/watch?v=nDsZJUKHOUI](https://www.youtube.com/watch?v=nDsZJUKHOUI)
+* [Q&A: Multiple Body slots, when?](../transcriptions/yt-Xa03UsMWsjo.md) [https://www.youtube.com/watch?v=Xa03UsMWsjo](https://www.youtube.com/watch?v=Xa03UsMWsjo)
+
 ## March 30th, 2021 Livestream
 * [Community FYI: Doesn't feel like it](../transcriptions/yt-dgWl_-ze7S8.md) [https://www.youtube.com/watch?v=dgWl_-ze7S8](https://www.youtube.com/watch?v=dgWl_-ze7S8)
 

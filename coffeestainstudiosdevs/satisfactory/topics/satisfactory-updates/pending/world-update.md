@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > World Update
 
+## April 6th, 2021 Livestream
+* [Q&A: World Update, when?](../../../transcriptions/yt-ldiVaemLNss.md) [https://www.youtube.com/watch?v=ldiVaemLNss](https://www.youtube.com/watch?v=ldiVaemLNss)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Is the World Update part of Update 4 or will that come later?](../../../transcriptions/yt-ANIKlhFcjkk.md) [https://www.youtube.com/watch?v=ANIKlhFcjkk](https://www.youtube.com/watch?v=ANIKlhFcjkk)
 

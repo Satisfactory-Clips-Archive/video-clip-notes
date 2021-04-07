@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Any plans for farming (for biomass production) ?
 https://www.youtube.com/watch?v=unMHGjOsGAc
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will there ever be Farming in the game?](./yt-o2GDy5QKSfQ.md) [https://www.youtube.com/watch?v=o2GDy5QKSfQ](https://www.youtube.com/watch?v=o2GDy5QKSfQ)
+This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Farming system?](./yt-1HxhGdiIGwk.md) [https://www.youtube.com/watch?v=1HxhGdiIGwk](https://www.youtube.com/watch?v=1HxhGdiIGwk)
 
 
 ### Topics

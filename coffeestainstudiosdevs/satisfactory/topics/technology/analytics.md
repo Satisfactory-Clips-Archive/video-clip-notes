@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Analytics
 
+## April 6th, 2021 Livestream
+* [Q&A: What kind of things do you learn from the gameplay stats that you gather?](../../transcriptions/yt-Xp4cDuSRMMs.md) [https://www.youtube.com/watch?v=Xp4cDuSRMMs](https://www.youtube.com/watch?v=Xp4cDuSRMMs)
+
 ## February 16th, 2021 Livestream
 * [Q&A: Anything interesting in the analytics?](../../transcriptions/yt-BMQs1ci2YXo.md) [https://www.youtube.com/watch?v=BMQs1ci2YXo](https://www.youtube.com/watch?v=BMQs1ci2YXo)
 * [Q&A: Are those statistics public?](../../transcriptions/yt-Mv-PloPdgko.md) [https://www.youtube.com/watch?v=Mv-PloPdgko](https://www.youtube.com/watch?v=Mv-PloPdgko)

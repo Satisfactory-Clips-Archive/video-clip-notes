@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## April 6th, 2021 Livestream
+* [Q&A: Train Collision?](../../../../transcriptions/yt-ECH-dzoj7ro.md) [https://www.youtube.com/watch?v=ECH-dzoj7ro](https://www.youtube.com/watch?v=ECH-dzoj7ro)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Will Trains get collision in the future?](../../../../transcriptions/yt-e8ctn7TDrq0.md) [https://www.youtube.com/watch?v=e8ctn7TDrq0](https://www.youtube.com/watch?v=e8ctn7TDrq0)
 * Q&A: Will Trains have some sort of signalling in the future? [https://www.youtube.com/watch?v=Ir3GVM1fDU0](https://www.youtube.com/watch?v=Ir3GVM1fDU0)

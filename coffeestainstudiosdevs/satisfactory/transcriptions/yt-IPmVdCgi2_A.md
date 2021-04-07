@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Tanker Trucks?
 https://www.youtube.com/watch?v=IPmVdCgi2_A
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be Trucks that can transport fluids?](./yt-sO7qhlAKq3U.md) [https://www.youtube.com/watch?v=sO7qhlAKq3U](https://www.youtube.com/watch?v=sO7qhlAKq3U)
+This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Fluid Trucks?](./yt-lDJH-Q4E5Xk.md) [https://www.youtube.com/watch?v=lDJH-Q4E5Xk](https://www.youtube.com/watch?v=lDJH-Q4E5Xk)
 
 
 ### Topics

@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## April 6th, 2021 Livestream
+* [State of Dev: April Fools 2021](../../../transcriptions/yt-eMPr_Y9bstc.md) [https://www.youtube.com/watch?v=eMPr_Y9bstc](https://www.youtube.com/watch?v=eMPr_Y9bstc)
+* [Q&A: Are you aware of the Pipe issue in Update 4?](../../../transcriptions/yt-XN5oNoh2hqY.md) [https://www.youtube.com/watch?v=XN5oNoh2hqY](https://www.youtube.com/watch?v=XN5oNoh2hqY)
+* [Snutt & Mark Talk: How do you make decisions on Balancing?](../../../transcriptions/yt-F-XJA1J40wo.md) [https://www.youtube.com/watch?v=F-XJA1J40wo](https://www.youtube.com/watch?v=F-XJA1J40wo)
+* [Q&A: Is April 13th still the date for Update 4 on Early Access?](../../../transcriptions/yt-Md41t3AMEX0.md) [https://www.youtube.com/watch?v=Md41t3AMEX0](https://www.youtube.com/watch?v=Md41t3AMEX0)
+* [State of Dev: Preparing for Update 4 Early Access Launch](../../../transcriptions/yt-BmuP1OXfs80.md) [https://www.youtube.com/watch?v=BmuP1OXfs80](https://www.youtube.com/watch?v=BmuP1OXfs80)
+* [Snutt & Mark Talk: Update 4](../../../transcriptions/yt-K4LIalIYgGk.md) [https://www.youtube.com/watch?v=K4LIalIYgGk](https://www.youtube.com/watch?v=K4LIalIYgGk)
+* [Snutt Talk: Update 4 Early Access Launch](../../../transcriptions/yt-nVQBgfpVy68.md) [https://www.youtube.com/watch?v=nVQBgfpVy68](https://www.youtube.com/watch?v=nVQBgfpVy68)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Can you fix the wheels when selecting walls?](../../../transcriptions/yt-9qpSJT7gl9o.md) [https://www.youtube.com/watch?v=9qpSJT7gl9o](https://www.youtube.com/watch?v=9qpSJT7gl9o)
 * [State of Dev: Cheatcrete](../../../transcriptions/yt-JBNdcw4gTiw.md) [https://www.youtube.com/watch?v=JBNdcw4gTiw](https://www.youtube.com/watch?v=JBNdcw4gTiw)

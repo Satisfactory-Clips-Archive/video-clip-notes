@@ -9,6 +9,11 @@ date: Last Modified
 * [Jetpack](../../topics/features/equipment/jetpack.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## April 6th, 2021 Livestream
+* [Q&A: Are you going to buff the Rifle damage?](../../transcriptions/yt-LRXvhb0zjFs.md) [https://www.youtube.com/watch?v=LRXvhb0zjFs](https://www.youtube.com/watch?v=LRXvhb0zjFs)
+* [Q&A: Depleted Uranium ammo?](../../transcriptions/yt-lNsmanCf4jk.md) [https://www.youtube.com/watch?v=lNsmanCf4jk](https://www.youtube.com/watch?v=lNsmanCf4jk)
+* [Q&A: Multiple Body slots, when?](../../transcriptions/yt-Xa03UsMWsjo.md) [https://www.youtube.com/watch?v=Xa03UsMWsjo](https://www.youtube.com/watch?v=Xa03UsMWsjo)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?](../../transcriptions/yt-XkDGnJwkY18.md) [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
 * [Community FYI: I need a flame thrower](../../transcriptions/yt-B9yz1kZojec.md) [https://www.youtube.com/watch?v=B9yz1kZojec](https://www.youtube.com/watch?v=B9yz1kZojec)

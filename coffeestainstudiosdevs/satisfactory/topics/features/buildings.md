@@ -23,6 +23,10 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## April 6th, 2021 Livestream
+* [Q&A: Mk.2 Factory Buildings?](../../transcriptions/yt-Qni_FzPcx9g.md) [https://www.youtube.com/watch?v=Qni_FzPcx9g](https://www.youtube.com/watch?v=Qni_FzPcx9g)
+* [Q&A: Would you ever add a way to produce Power Shards?](../../transcriptions/yt-57oPRYp61-s.md) [https://www.youtube.com/watch?v=57oPRYp61-s](https://www.youtube.com/watch?v=57oPRYp61-s)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Any plans on adding copy/pasting to the builder?](../../transcriptions/yt-oEjEowDbetQ.md) [https://www.youtube.com/watch?v=oEjEowDbetQ](https://www.youtube.com/watch?v=oEjEowDbetQ)
 * [Q&A: Can you make overclocking numbers more precise?](../../transcriptions/yt-D-aOy0Uia6Q.md) [https://www.youtube.com/watch?v=D-aOy0Uia6Q](https://www.youtube.com/watch?v=D-aOy0Uia6Q)

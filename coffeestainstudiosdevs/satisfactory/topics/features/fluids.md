@@ -7,6 +7,11 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## April 6th, 2021 Livestream
+* [Q&A: Fluids Sinks?](../../transcriptions/yt-GippjFCCUPw.md) [https://www.youtube.com/watch?v=GippjFCCUPw](https://www.youtube.com/watch?v=GippjFCCUPw)
+* [Q&A: Fluid Trucks?](../../transcriptions/yt-lDJH-Q4E5Xk.md) [https://www.youtube.com/watch?v=lDJH-Q4E5Xk](https://www.youtube.com/watch?v=lDJH-Q4E5Xk)
+* [Q&A: Sinking Fluids?](../../transcriptions/yt-aXJMTzXDwrI.md) [https://www.youtube.com/watch?v=aXJMTzXDwrI](https://www.youtube.com/watch?v=aXJMTzXDwrI)
+
 ## March 30th, 2021 Livestream
 * [Q&A: AWESOME Sink for fluids?](../../transcriptions/yt-NzhKGg8zSAU.md) [https://www.youtube.com/watch?v=NzhKGg8zSAU](https://www.youtube.com/watch?v=NzhKGg8zSAU)
 * [Q&A: Will there be Trucks that can transport fluids?](../../transcriptions/yt-sO7qhlAKq3U.md) [https://www.youtube.com/watch?v=sO7qhlAKq3U](https://www.youtube.com/watch?v=sO7qhlAKq3U)

@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Cheatcrete, Build Modes, and clipping](../../../transcriptions/yt-RtBNa7oGJiI.md) [https://www.youtube.com/watch?v=RtBNa7oGJiI](https://www.youtube.com/watch?v=RtBNa7oGJiI)
+* [Q&A: Mk.6 Belts?](../../../transcriptions/yt-sUed4aFcYLs.md) [https://www.youtube.com/watch?v=sUed4aFcYLs](https://www.youtube.com/watch?v=sUed4aFcYLs)
+* Community FYI: Mk.7 Belts would just be Warp Gates [https://www.youtube.com/watch?v=jROnUMiDlo8](https://www.youtube.com/watch?v=jROnUMiDlo8)
+* Q&A: Ratio Splitters? [https://www.youtube.com/watch?v=A26wW5I25T8](https://www.youtube.com/watch?v=A26wW5I25T8)
+
 ## March 30th, 2021 Livestream
 * [Snutt Talk: Double output for Mk.3 Miner](../../../transcriptions/yt-uj2-PF2xHY8.md) [https://www.youtube.com/watch?v=uj2-PF2xHY8](https://www.youtube.com/watch?v=uj2-PF2xHY8)
 * [Snutt Talk: Vertical Mergers & Splitters, Splitting Ratios](../../../transcriptions/yt-Ndgz4W40dZg.md) [https://www.youtube.com/watch?v=Ndgz4W40dZg](https://www.youtube.com/watch?v=Ndgz4W40dZg)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## April 6th, 2021 Livestream
+* [Q&A: Do you think we'll rework Radar Towers?](../../transcriptions/yt-hoLnbnTC5vE.md) [https://www.youtube.com/watch?v=hoLnbnTC5vE](https://www.youtube.com/watch?v=hoLnbnTC5vE)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Are you going to fix the places where you instantly die?](../../transcriptions/yt-ZWjntHKKxxE.md) [https://www.youtube.com/watch?v=ZWjntHKKxxE](https://www.youtube.com/watch?v=ZWjntHKKxxE)
 * [Q&A: Is a bigger world a possibility?](../../transcriptions/yt-dlL942ooTho.md) [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)

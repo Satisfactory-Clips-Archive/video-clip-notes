@@ -8,7 +8,7 @@ topics:
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Q&A: Does this mean that Console is confirmed?
 https://www.youtube.com/watch?v=19QNZuFNN3Y
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will we ever make a Console version?](./yt-LWvp_I866M0.md) [https://www.youtube.com/watch?v=LWvp_I866M0](https://www.youtube.com/watch?v=LWvp_I866M0)
+This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Console port?](./yt-j1eVP7KViyA.md) [https://www.youtube.com/watch?v=j1eVP7KViyA](https://www.youtube.com/watch?v=j1eVP7KViyA)
 
 
 ### Topics

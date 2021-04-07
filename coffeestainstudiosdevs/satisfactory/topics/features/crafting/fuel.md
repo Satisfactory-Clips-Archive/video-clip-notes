@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## April 6th, 2021 Livestream
+* [Q&A: Gas Station?](../../../transcriptions/yt-OwP-izM--nE.md) [https://www.youtube.com/watch?v=OwP-izM--nE](https://www.youtube.com/watch?v=OwP-izM--nE)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Why does the Chainsaw not consume Fuel?](../../../transcriptions/yt-_MMqKE-jYTk.md) [https://www.youtube.com/watch?v=_MMqKE-jYTk](https://www.youtube.com/watch?v=_MMqKE-jYTk)
 

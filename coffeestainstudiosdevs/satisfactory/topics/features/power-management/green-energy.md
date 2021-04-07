@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
+## April 6th, 2021 Livestream
+* [Q&A: Wind Power, when?](../../../transcriptions/yt-jxB9EKkm9i0.md) [https://www.youtube.com/watch?v=jxB9EKkm9i0](https://www.youtube.com/watch?v=jxB9EKkm9i0)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Energy Storage and Day/Night cycle would make Solar power extremely interesting to set up?](../../../transcriptions/yt-S9ROGuBkzZo.md) [https://www.youtube.com/watch?v=S9ROGuBkzZo](https://www.youtube.com/watch?v=S9ROGuBkzZo)
 

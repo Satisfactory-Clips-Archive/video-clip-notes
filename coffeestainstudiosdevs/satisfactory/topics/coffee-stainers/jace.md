@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## April 6th, 2021 Livestream
+* [Snutt Talk: Jace is on vacation](../../transcriptions/yt-PiKrDNVtz3U.md) [https://www.youtube.com/watch?v=PiKrDNVtz3U](https://www.youtube.com/watch?v=PiKrDNVtz3U)
+* Community FYI: Still waiting on Jace [https://www.youtube.com/watch?v=a1_yR3_Z0Co](https://www.youtube.com/watch?v=a1_yR3_Z0Co)
+* Q&A: Where's Jace? [https://www.youtube.com/watch?v=8Q6ExWDRkdU](https://www.youtube.com/watch?v=8Q6ExWDRkdU)
+
 ## March 30th, 2021 Livestream
 * [Snutt Talk: Losing track of questions](../../transcriptions/yt-oj2oVWMnp9I.md) [https://www.youtube.com/watch?v=oj2oVWMnp9I](https://www.youtube.com/watch?v=oj2oVWMnp9I)
 

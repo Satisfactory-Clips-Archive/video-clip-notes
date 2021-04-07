@@ -9,7 +9,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Is the release date for Update 4 on EA?
 https://www.youtube.com/watch?v=uK4PYV5aWqU
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Game full release on Thursday?](./yt-FbYuuY2Qrlg.md) [https://www.youtube.com/watch?v=FbYuuY2Qrlg](https://www.youtube.com/watch?v=FbYuuY2Qrlg)
+This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Is April 13th still the date for Update 4 on Early Access?](./yt-Md41t3AMEX0.md) [https://www.youtube.com/watch?v=Md41t3AMEX0](https://www.youtube.com/watch?v=Md41t3AMEX0)
 
 
 ### Topics

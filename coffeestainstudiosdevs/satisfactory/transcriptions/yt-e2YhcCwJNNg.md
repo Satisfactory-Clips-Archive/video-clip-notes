@@ -3,16 +3,16 @@ title: "August 25th, 2020 Livestream Q&A: Blueprints would be awesome for end-ga
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "features/unplanned-features/mass-building"
+    - "features/possible-features/blueprints"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Blueprints would be awesome for end-game
 https://www.youtube.com/watch?v=e2YhcCwJNNg
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for Blueprint mode?](./yt-tJSLxVZ-sFg.md) [https://www.youtube.com/watch?v=tJSLxVZ-sFg](https://www.youtube.com/watch?v=tJSLxVZ-sFg)
+This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Blueprints, when?](./yt-9Yqc4z9NPI8.md) [https://www.youtube.com/watch?v=9Yqc4z9NPI8](https://www.youtube.com/watch?v=9Yqc4z9NPI8)
 
 
 ### Topics
-* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+* [Features > Possible Features > Blueprints](../topics/features/possible-features/blueprints.md)
 
 ### Transcript
 

@@ -9,7 +9,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Any plans for better Belts for Pure nodes?
 https://www.youtube.com/watch?v=UxW9nGO9Ius
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be a Mk.6 belt?](./yt-x2MeE6UR3o8.md) [https://www.youtube.com/watch?v=x2MeE6UR3o8](https://www.youtube.com/watch?v=x2MeE6UR3o8)
+This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Mk.6 Belts?](./yt-sUed4aFcYLs.md) [https://www.youtube.com/watch?v=sUed4aFcYLs](https://www.youtube.com/watch?v=sUed4aFcYLs)
 
 
 ### Topics

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Day/Night cycle changes](../../../transcriptions/yt-nDsZJUKHOUI.md) [https://www.youtube.com/watch?v=nDsZJUKHOUI](https://www.youtube.com/watch?v=nDsZJUKHOUI)
+* [Q&A: Do Lights affect gameplay?](../../../transcriptions/yt-Yf-LT5pHJTU.md) [https://www.youtube.com/watch?v=Yf-LT5pHJTU](https://www.youtube.com/watch?v=Yf-LT5pHJTU)
+
 ## March 23rd, 2021 Livestream
 * [Community FYI: 200fps Lighting bug is fixed](../../../transcriptions/yt-oUEubST5cWM.md) [https://www.youtube.com/watch?v=oUEubST5cWM](https://www.youtube.com/watch?v=oUEubST5cWM)
 * [Q&A: Do Lights actually cost Power?](../../../transcriptions/yt-DYVLJV-KblM.md) [https://www.youtube.com/watch?v=DYVLJV-KblM](https://www.youtube.com/watch?v=DYVLJV-KblM)

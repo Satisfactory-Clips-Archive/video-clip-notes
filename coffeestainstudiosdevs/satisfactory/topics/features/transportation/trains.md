@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## April 6th, 2021 Livestream
+* [Q&A: Will the Drones get a buff, because they're a little too expensive against the Trains?](../../../transcriptions/yt-yZHoy5xKB1c.md) [https://www.youtube.com/watch?v=yZHoy5xKB1c](https://www.youtube.com/watch?v=yZHoy5xKB1c)
+
 ## March 30th, 2021 Livestream
 * [Community FYI: Joke's on you, I glitched under the map with a Train; immersion ruined.](../../../transcriptions/yt-eVumrhkcdn4.md) [https://www.youtube.com/watch?v=eVumrhkcdn4](https://www.youtube.com/watch?v=eVumrhkcdn4)
 * [Q&A: Multiplayer Train lag fixes?](../../../transcriptions/yt-l80tNALjEak.md) [https://www.youtube.com/watch?v=l80tNALjEak](https://www.youtube.com/watch?v=l80tNALjEak)

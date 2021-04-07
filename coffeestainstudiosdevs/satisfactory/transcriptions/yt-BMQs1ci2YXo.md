@@ -12,6 +12,8 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Anything interesting in the analytics?
 https://www.youtube.com/watch?v=BMQs1ci2YXo
+This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: What kind of things do you learn from the gameplay stats that you gather?](./yt-Xp4cDuSRMMs.md) [https://www.youtube.com/watch?v=Xp4cDuSRMMs](https://www.youtube.com/watch?v=Xp4cDuSRMMs)
+
 
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)

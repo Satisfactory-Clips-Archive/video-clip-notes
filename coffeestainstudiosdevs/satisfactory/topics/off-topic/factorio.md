@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio
 
+## April 6th, 2021 Livestream
+* [Q&A: Have you considered logic networks?](../../transcriptions/yt-we87JUG_GTw.md) [https://www.youtube.com/watch?v=we87JUG_GTw](https://www.youtube.com/watch?v=we87JUG_GTw)
+
 ## February 16th, 2021 Livestream
 * [Q&A: Have you considered some sort of free demo for the game?](../../transcriptions/yt-Jy8mbOy0BJ0.md) [https://www.youtube.com/watch?v=Jy8mbOy0BJ0](https://www.youtube.com/watch?v=Jy8mbOy0BJ0)
 

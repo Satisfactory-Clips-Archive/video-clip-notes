@@ -4,7 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "features/buildables/foundations"
-    - "features/unplanned-features/mass-building"
+    - "features/possible-features/blueprints"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Snutt Talk: Blueprints for beginners vs. end-game play
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=RdDroPYu1sk
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
+* [Features > Possible Features > Blueprints](../topics/features/possible-features/blueprints.md)
 
 ### Transcript
 

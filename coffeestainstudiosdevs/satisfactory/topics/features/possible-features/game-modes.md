@@ -7,6 +7,9 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Feedback from hardcore players vs. casual players](../../../transcriptions/yt-7I4_CIh-ajM.md) [https://www.youtube.com/watch?v=7I4_CIh-ajM](https://www.youtube.com/watch?v=7I4_CIh-ajM)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Hard Mode?](../../../transcriptions/yt-dUS1wSorYGA.md) [https://www.youtube.com/watch?v=dUS1wSorYGA](https://www.youtube.com/watch?v=dUS1wSorYGA)
 

@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../topics.md) > Merch
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## April 6th, 2021 Livestream
+* [Community FYI: We need Mugs](../transcriptions/yt-_X-j0Zkt_Fs.md) [https://www.youtube.com/watch?v=_X-j0Zkt_Fs](https://www.youtube.com/watch?v=_X-j0Zkt_Fs)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Satisfactory computer mouse?](../transcriptions/yt-y10fqyMDNXM.md) [https://www.youtube.com/watch?v=y10fqyMDNXM](https://www.youtube.com/watch?v=y10fqyMDNXM)
 * [Community FYI: We want a "Days since last injury" sign?](../transcriptions/yt-gStfUrdtsBw.md) [https://www.youtube.com/watch?v=gStfUrdtsBw](https://www.youtube.com/watch?v=gStfUrdtsBw)

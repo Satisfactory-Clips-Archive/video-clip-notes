@@ -4,19 +4,19 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "environment/creatures"
+    - "features/possible-features/blueprints"
     - "features/unplanned-features/base-defense"
-    - "features/unplanned-features/mass-building"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?
 https://www.youtube.com/watch?v=EbTEcw5zg8k
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Any plans for Blueprint mode?](./yt-tJSLxVZ-sFg.md) [https://www.youtube.com/watch?v=tJSLxVZ-sFg](https://www.youtube.com/watch?v=tJSLxVZ-sFg)
+This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Blueprints, when?](./yt-9Yqc4z9NPI8.md) [https://www.youtube.com/watch?v=9Yqc4z9NPI8](https://www.youtube.com/watch?v=9Yqc4z9NPI8)
 
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
+* [Features > Possible Features > Blueprints](../topics/features/possible-features/blueprints.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
-* [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 
 ### Transcript
 

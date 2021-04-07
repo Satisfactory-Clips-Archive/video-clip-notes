@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
+## April 6th, 2021 Livestream
+* [Q&A: What kind of things do you learn from the gameplay stats that you gather?](../../transcriptions/yt-Xp4cDuSRMMs.md) [https://www.youtube.com/watch?v=Xp4cDuSRMMs](https://www.youtube.com/watch?v=Xp4cDuSRMMs)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Are you ever organised?](../../transcriptions/yt-q2LO7TE8KXk.md) [https://www.youtube.com/watch?v=q2LO7TE8KXk](https://www.youtube.com/watch?v=q2LO7TE8KXk)
 * [Snutt Talk: Community Highlights entry reminds Snutt of early trailer](../../transcriptions/yt-_F411Nlu46Q.md) [https://www.youtube.com/watch?v=_F411Nlu46Q](https://www.youtube.com/watch?v=_F411Nlu46Q)

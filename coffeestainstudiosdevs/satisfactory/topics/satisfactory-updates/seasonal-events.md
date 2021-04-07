@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events
 * [FICS⁕MAS](../../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
+## April 6th, 2021 Livestream
+* [State of Dev: April Fools 2021](../../transcriptions/yt-eMPr_Y9bstc.md) [https://www.youtube.com/watch?v=eMPr_Y9bstc](https://www.youtube.com/watch?v=eMPr_Y9bstc)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Do you have any Holiday Theme plans in the future?](../../transcriptions/yt-EIGGdc4b7vc.md) [https://www.youtube.com/watch?v=EIGGdc4b7vc](https://www.youtube.com/watch?v=EIGGdc4b7vc)
 

@@ -17,6 +17,11 @@ date: Last Modified
 * [Smerkin](../topics/community/smerkin.md)
 * [Wiki](../topics/community/wiki.md)
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Design challenges for Satisfactory](../transcriptions/yt-Z4sORbKADjs.md) [https://www.youtube.com/watch?v=Z4sORbKADjs](https://www.youtube.com/watch?v=Z4sORbKADjs)
+* [Snutt & Mark Talk: Endgame Balancing](../transcriptions/yt-LieMqMVIOgg.md) [https://www.youtube.com/watch?v=LieMqMVIOgg](https://www.youtube.com/watch?v=LieMqMVIOgg)
+* [Snutt & Mark Talk: Feedback from hardcore players vs. casual players](../transcriptions/yt-7I4_CIh-ajM.md) [https://www.youtube.com/watch?v=7I4_CIh-ajM](https://www.youtube.com/watch?v=7I4_CIh-ajM)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Can you cover the guy who placed 178 thousand foundations?](../transcriptions/yt-zT2Lz_L4zQY.md) [https://www.youtube.com/watch?v=zT2Lz_L4zQY](https://www.youtube.com/watch?v=zT2Lz_L4zQY)
 * Community FYI: I've noticed that vehicles drive a lot better as the not-host [https://www.youtube.com/watch?v=VwU9RL_CvLg](https://www.youtube.com/watch?v=VwU9RL_CvLg)

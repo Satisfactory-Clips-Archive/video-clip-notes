@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: When will Dedicated Servers be coming?
 https://www.youtube.com/watch?v=TW0i2hxJ7C0
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Dedicated Servers?](./yt-dC-JRa2E6G0.md) [https://www.youtube.com/watch?v=dC-JRa2E6G0](https://www.youtube.com/watch?v=dC-JRa2E6G0)
+This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Dedicated Servers?](./yt-nUtF3e6i_lU.md) [https://www.youtube.com/watch?v=nUtF3e6i_lU](https://www.youtube.com/watch?v=nUtF3e6i_lU)
 
 
 ### Topics

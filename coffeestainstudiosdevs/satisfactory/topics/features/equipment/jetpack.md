@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Hover Pack vs. Jetpack](../../../transcriptions/yt-_6MSvhb6COU.md) [https://www.youtube.com/watch?v=_6MSvhb6COU](https://www.youtube.com/watch?v=_6MSvhb6COU)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?](../../../transcriptions/yt-XkDGnJwkY18.md) [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
 * [Q&A: Would you swap Hover and Jet packs?](../../../transcriptions/yt-wPguHi5TsY4.md) [https://www.youtube.com/watch?v=wPguHi5TsY4](https://www.youtube.com/watch?v=wPguHi5TsY4)

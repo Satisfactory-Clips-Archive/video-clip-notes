@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Bauxite Refinement](../../../transcriptions/yt-ZFGGM5rJ0YQ.md) [https://www.youtube.com/watch?v=ZFGGM5rJ0YQ](https://www.youtube.com/watch?v=ZFGGM5rJ0YQ)
+* [Snutt & Mark Talk: How do you make decisions on Balancing?](../../../transcriptions/yt-F-XJA1J40wo.md) [https://www.youtube.com/watch?v=F-XJA1J40wo](https://www.youtube.com/watch?v=F-XJA1J40wo)
+* [Snutt & Mark Talk: Measuring Complexity](../../../transcriptions/yt-sDUy-9Ay1mk.md) [https://www.youtube.com/watch?v=sDUy-9Ay1mk](https://www.youtube.com/watch?v=sDUy-9Ay1mk)
+
 ## March 30th, 2021 Livestream
 * [State of Dev: Update 4 Launch & Rebalancing changes](../../../transcriptions/yt-9RYf2b20JcQ.md) [https://www.youtube.com/watch?v=9RYf2b20JcQ](https://www.youtube.com/watch?v=9RYf2b20JcQ)
 * [Q&A: Why is the Blender and Diluted Fuel recipe in Tier 7?](../../../transcriptions/yt-Y1V0UB_9GJA.md) [https://www.youtube.com/watch?v=Y1V0UB_9GJA](https://www.youtube.com/watch?v=Y1V0UB_9GJA)

@@ -162,6 +162,7 @@ date: Last Modified
 ---
 
 ## Possible Features
+* [Blueprints](./topics/features/possible-features/blueprints.md)
 * [Character Customisation](./topics/features/possible-features/character-customisation.md)
 * [Console Release](./topics/features/possible-features/console-release.md)
 * [Decor](./topics/features/possible-features/decor.md)

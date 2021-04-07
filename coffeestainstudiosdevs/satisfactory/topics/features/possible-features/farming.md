@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Farming
 
+## April 6th, 2021 Livestream
+* [Q&A: Farming system?](../../../transcriptions/yt-1HxhGdiIGwk.md) [https://www.youtube.com/watch?v=1HxhGdiIGwk](https://www.youtube.com/watch?v=1HxhGdiIGwk)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Will there ever be Farming in the game?](../../../transcriptions/yt-o2GDy5QKSfQ.md) [https://www.youtube.com/watch?v=o2GDy5QKSfQ](https://www.youtube.com/watch?v=o2GDy5QKSfQ)
 
