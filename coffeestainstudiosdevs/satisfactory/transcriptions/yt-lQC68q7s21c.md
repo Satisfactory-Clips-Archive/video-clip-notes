@@ -24,7 +24,7 @@ This question was possibly replaced with a more recent answer: [February 2nd, 20
 >
 > viii okay
 >
->  this is something i want to talk
+> this is something i want to talk
 >
 > about me and jace have been
 >
@@ -126,4 +126,4 @@ This question was possibly replaced with a more recent answer: [February 2nd, 20
 >
 > we gave you pipes even though we said
 >
->  it i'm not gonna give you pipes
+> it i'm not gonna give you pipes

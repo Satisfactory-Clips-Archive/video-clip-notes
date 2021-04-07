@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=EAOiEQn7E5A
 >
 > oh
 >
->  man
+> man
 >
 > this is never stream never
 >

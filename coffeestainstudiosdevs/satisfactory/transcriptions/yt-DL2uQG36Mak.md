@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=DL2uQG36Mak
 
 > and then i can i can juggle watch this
 >
->  chat yep
+> chat yep
 >
 > yo can you actually juggle i don't know
 >

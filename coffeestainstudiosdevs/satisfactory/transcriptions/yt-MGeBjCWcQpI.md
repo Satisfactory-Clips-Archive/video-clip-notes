@@ -134,6 +134,6 @@ https://www.youtube.com/watch?v=MGeBjCWcQpI
 >
 > um and they're huge and heavy and
 >
->  yeah yeah yeah
+> yeah yeah yeah
 >
 > all right cool

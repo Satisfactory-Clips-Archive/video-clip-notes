@@ -83,7 +83,7 @@ https://www.youtube.com/watch?v=jNkrjHq_1Fw
 >
 > sound popping really guys is the sound
 >
->  up you guys
+> up you guys
 >
 > oh really uh okay i have to restart
 >

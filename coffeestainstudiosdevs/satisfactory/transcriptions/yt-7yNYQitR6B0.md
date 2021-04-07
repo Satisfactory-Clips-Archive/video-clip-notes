@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=7yNYQitR6B0
 >
 > that they were just confused all the
 >
->  time whenever they needed to
+> time whenever they needed to
 >
 > troubleshoot something and then you just
 >
@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=7yNYQitR6B0
 >
 > windows in swedish well first of all i
 >
->  hate swedish
+> hate swedish
 >
 > it's dumb ass language
 >

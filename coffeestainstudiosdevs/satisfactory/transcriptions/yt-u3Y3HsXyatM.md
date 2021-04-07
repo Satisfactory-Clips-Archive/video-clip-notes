@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=u3Y3HsXyatM
 >
 > no no i know i'm just kidding there's an
 >
->  i don't want to work
+> i don't want to work
 >
 > can i just go home yeah just go i'll
 >

@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=RbDtGuXHEH0
 >
 > was like
 >
->  it's actually kind of good okay get
+> it's actually kind of good okay get
 >
 > out of here next person yes
 >

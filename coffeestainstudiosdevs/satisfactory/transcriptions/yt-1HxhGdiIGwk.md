@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=1HxhGdiIGwk
 >
 > like properly like big farming
 >
->  uh there's a lot of potential i
+> uh there's a lot of potential i
 >
 > think the main problem that i see but
 >

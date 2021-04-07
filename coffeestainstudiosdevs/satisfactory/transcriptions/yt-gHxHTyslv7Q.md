@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=gHxHTyslv7Q
 >
 > holy thank you spy yeah um
 >
->  i can't see chat but this was given
+> i can't see chat but this was given
 >
 > to us by a community member
 >

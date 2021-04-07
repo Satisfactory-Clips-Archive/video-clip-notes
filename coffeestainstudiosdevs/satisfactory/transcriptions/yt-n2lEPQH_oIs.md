@@ -70,7 +70,7 @@ https://www.youtube.com/watch?v=n2lEPQH_oIs
 >
 > and having random strangers on the
 >
->  internet
+> internet
 >
 > who have no need to be this kind to us
 >

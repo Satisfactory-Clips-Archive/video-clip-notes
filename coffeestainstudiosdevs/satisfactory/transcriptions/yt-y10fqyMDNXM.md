@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=y10fqyMDNXM
 >
 > involved in the merch process merch is
 >
->  hard
+> hard
 >
 > like getting that organized holy
 >

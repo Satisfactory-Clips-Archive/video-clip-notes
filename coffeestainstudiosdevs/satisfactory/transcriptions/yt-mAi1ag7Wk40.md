@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=mAi1ag7Wk40
 >
 > or s around too much because it will
 >
->  up factories but we've never as far
+> up factories but we've never as far
 >
 > as i know correct me if i'm wrong chad
 >

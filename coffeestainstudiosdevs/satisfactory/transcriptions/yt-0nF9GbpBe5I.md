@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=0nF9GbpBe5I
 >
 > makes
 >
->  amazing we do i noticed that we
+> amazing we do i noticed that we
 >
 > have like some like small file in the
 >

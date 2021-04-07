@@ -16,9 +16,9 @@ https://www.youtube.com/watch?v=kxQNltod8kw
 
 > will we model amsterdam in the game
 >
->  did you see that they modeled
+> did you see that they modeled
 >
->  gothenburg in in overwatch yeah
+> gothenburg in in overwatch yeah
 >
 > yeah yeah
 >

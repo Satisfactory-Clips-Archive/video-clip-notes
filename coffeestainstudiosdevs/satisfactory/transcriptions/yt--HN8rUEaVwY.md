@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=-HN8rUEaVwY
 >
 > everybody like raise their hands and
 >
->  and he's like
+> and he's like
 >
 > wow it's not conclusive like let's run a
 >

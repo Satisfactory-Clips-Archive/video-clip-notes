@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=6tPg6AAcSoQ
 >
 > a lot recently because my shoulder is so
 >
->  up because every time i hold a
+> up because every time i hold a
 >
 > controller
 >

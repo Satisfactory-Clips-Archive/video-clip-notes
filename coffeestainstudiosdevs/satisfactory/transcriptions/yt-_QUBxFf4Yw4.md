@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=_QUBxFf4Yw4
 >
 > guys don't use me right now as the
 >
->  authority on this right
+> authority on this right
 >
 > you know um but but it is
 >

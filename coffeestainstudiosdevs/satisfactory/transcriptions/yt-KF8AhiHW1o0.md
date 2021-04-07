@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=KF8AhiHW1o0
 >
 > and then we update the game and like ah
 >
->  we added like a mountain or
+> we added like a mountain or
 >
 > something like that
 >

@@ -145,7 +145,7 @@ date: Last Modified
 >
 > find like
 >
->  i used the wrong conveyor belt for
+> i used the wrong conveyor belt for
 >
 > this one and i can't because it's so
 >
@@ -738,7 +738,7 @@ date: Last Modified
 >
 > like properly like big farming
 >
->  uh there's a lot of potential i
+> uh there's a lot of potential i
 >
 > think the main problem that i see but
 >
@@ -1740,7 +1740,7 @@ date: Last Modified
 >
 > 42. i trust marv marv is the one has
 >
->  keeps track of that so this
+> keeps track of that so this
 >
 > is your 30th one
 >

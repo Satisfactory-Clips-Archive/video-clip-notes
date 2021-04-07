@@ -28,7 +28,7 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 >
 > because i'm the one who implemented that
 >
->  and i just didn't
+> and i just didn't
 >
 > get to get around to implementing that
 >

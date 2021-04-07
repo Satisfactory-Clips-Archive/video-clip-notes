@@ -44,11 +44,9 @@ or whatever
 >
 > Jace: and uhm
 >
->  
-Jace: B) that it stays there that we can refer back to it later
+> Jace: B) that it stays there that we can refer back to it later
 >
->  
-Jace: but in this format here asking suggestions
+> Jace: but in this format here asking suggestions
 >
 > Jace: generally doesn't really give too much.
 >

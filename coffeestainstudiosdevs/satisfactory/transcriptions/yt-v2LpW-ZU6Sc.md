@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=v2LpW-ZU6Sc
 >
 > optimized pc you know
 >
->  rtx 390 please
+> rtx 390 please
 >
 > um but uh
 >

@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=vn8SMPtHoJM
 >
 > and i was thinking swedish winter is
 >
->  depressing so let's go
+> depressing so let's go
 >
 > yellow that's true i have a little bit
 >

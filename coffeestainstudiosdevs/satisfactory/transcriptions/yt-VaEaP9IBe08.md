@@ -18,6 +18,6 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 > you need battleships
 >
->  no
+> no
 >
 > no ships

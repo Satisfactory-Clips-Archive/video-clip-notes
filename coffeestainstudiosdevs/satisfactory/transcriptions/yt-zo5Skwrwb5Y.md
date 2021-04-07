@@ -124,7 +124,7 @@ https://www.youtube.com/watch?v=zo5Skwrwb5Y
 >
 > some people have i'm looking at you
 >
->  you know who i'm talking about
+> you know who i'm talking about
 >
 > like there were 80 like factory cars
 >

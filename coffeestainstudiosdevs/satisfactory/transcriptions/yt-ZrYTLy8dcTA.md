@@ -164,7 +164,7 @@ https://www.youtube.com/watch?v=ZrYTLy8dcTA
 >
 > right okay you don't remember
 >
->  watch the stream
+> watch the stream
 >
 > but that was super high level and it
 >

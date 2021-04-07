@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Transcript
 
->  chase can we get a beanie um get my
+> chase can we get a beanie um get my
 >
 > beanie as a hat and satisfactory
 >

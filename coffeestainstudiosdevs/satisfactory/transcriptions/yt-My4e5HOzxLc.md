@@ -38,13 +38,13 @@ https://www.youtube.com/watch?v=My4e5HOzxLc
 >
 > is that what you mean because that's
 >
->  frustrating okay i just got to
+> frustrating okay i just got to
 >
 > say
 >
 > i have in my playthrough this annoys the
 >
->  out of me okay
+> out of me okay
 >
 > uh yeah that no i will i will walk to
 >

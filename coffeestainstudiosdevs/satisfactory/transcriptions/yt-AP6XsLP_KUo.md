@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=AP6XsLP_KUo
 >
 > uh uh truck in the background it just
 >
->  flipped the out every time
+> flipped the out every time
 >
 > it went around oh really
 >

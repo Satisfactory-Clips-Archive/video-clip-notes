@@ -26,11 +26,11 @@ https://www.youtube.com/watch?v=2WRhQ9QNyfI
 >
 > what's that studio called uh
 >
->  it's not vulgar because volta's guy
+> it's not vulgar because volta's guy
 >
 > is the midnight ghost hunt it's uh
 >
->  how do i keep
+> how do i keep
 >
 > like forgetting the names of these
 >

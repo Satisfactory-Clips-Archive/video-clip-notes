@@ -70,6 +70,6 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 >
 > branch is for people who don't want
 >
->  to break left right and center all
+> to break left right and center all
 >
 > the time so

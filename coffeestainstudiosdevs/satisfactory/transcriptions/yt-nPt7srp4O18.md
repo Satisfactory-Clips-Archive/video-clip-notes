@@ -146,7 +146,7 @@ https://www.youtube.com/watch?v=nPt7srp4O18
 >
 > right it's gonna be we can't put
 >
->  out all right
+> out all right
 >
 > so like we tried we don't want to delay
 >
@@ -190,7 +190,7 @@ https://www.youtube.com/watch?v=nPt7srp4O18
 >
 > that's some on your face we got
 >
->  on my face there you are
+> on my face there you are
 >
 > oh no okay yeah but what are you saying
 >
@@ -240,7 +240,7 @@ https://www.youtube.com/watch?v=nPt7srp4O18
 >
 > occasionally you have to and it's
 >
->  stressful
+> stressful
 >
 > and that's where the crunch comes from
 >

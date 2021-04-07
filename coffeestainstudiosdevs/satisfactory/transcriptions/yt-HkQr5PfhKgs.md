@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=HkQr5PfhKgs
 >
 > designs for merch if you think that we
 >
->  up
+> up
 >
 > when we designed merch or if you oh
 >

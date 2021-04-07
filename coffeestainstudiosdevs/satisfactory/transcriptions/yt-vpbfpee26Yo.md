@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=vpbfpee26Yo
 
 ### Transcript
 
->  yeah all right now i'm not
+> yeah all right now i'm not
 >
 > completely useless
 >

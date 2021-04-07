@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=1oMDAPZ2bZ4
 >
 > uh that's like you know like cat jam and
 >
->  i'm pretty sure cat gems
+> i'm pretty sure cat gems
 >
 > works i'm pretty sure that works in chat
 >
@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=1oMDAPZ2bZ4
 >
 > um
 >
->  where was i okay uh we're not going
+> where was i okay uh we're not going
 >
 > with affiliate and subs subscribe
 >

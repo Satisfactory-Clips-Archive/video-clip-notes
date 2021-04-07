@@ -120,7 +120,7 @@ https://www.youtube.com/watch?v=aXJMTzXDwrI
 >
 > have time so stop
 >
->  asking about it you guys
+> asking about it you guys
 >
 > no i'm just kidding is it such a common
 >

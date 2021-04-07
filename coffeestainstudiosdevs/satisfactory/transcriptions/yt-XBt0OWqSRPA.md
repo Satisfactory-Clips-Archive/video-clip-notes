@@ -370,7 +370,7 @@ https://www.youtube.com/watch?v=XBt0OWqSRPA
 >
 > then you can check out that link make a
 >
->  and
+> and
 >
 > you guys are too much too much too much
 >

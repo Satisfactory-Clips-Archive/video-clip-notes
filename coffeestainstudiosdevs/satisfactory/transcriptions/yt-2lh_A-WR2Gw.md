@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=2lh_A-WR2Gw
 
 > so good uh oh i should have shaved a
 >
->  mustache why didn't i do that
+> mustache why didn't i do that
 >
 > for the stream
 >
@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=2lh_A-WR2Gw
 >
 > to like trim my mustache but then i
 >
->  up so i was like okay i guess i
+> up so i was like okay i guess i
 >
 > was shaving all of it
 >

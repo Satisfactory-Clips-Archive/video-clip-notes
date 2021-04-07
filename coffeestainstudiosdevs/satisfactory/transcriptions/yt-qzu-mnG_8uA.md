@@ -122,7 +122,7 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 >
 > because we want to we don't want to like
 >
->  on the modern community and be like
+> on the modern community and be like
 >
 > yeah they spend so much time working on
 >

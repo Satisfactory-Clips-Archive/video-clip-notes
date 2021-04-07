@@ -62,7 +62,7 @@ This question was possibly replaced with a more recent answer: [February 9th, 20
 >
 > stream
 >
->  dedicated servers nobody wants that
+> dedicated servers nobody wants that
 >
 > we all want the coffee mug
 >

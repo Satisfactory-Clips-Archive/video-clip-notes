@@ -92,7 +92,7 @@ https://www.youtube.com/watch?v=AJxPTC20qAE
 >
 > uh update they worked especially that
 >
->  zipline thing
+> zipline thing
 >
 > like players moving fast
 >

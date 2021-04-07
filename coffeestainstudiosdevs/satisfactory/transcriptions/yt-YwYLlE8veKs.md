@@ -20,7 +20,7 @@ This question was possibly replaced with a more recent answer: [November 10th, 2
 
 ### Transcript
 
->  can we get an indicator for the
+> can we get an indicator for the
 >
 > launch line from the launch pad
 >

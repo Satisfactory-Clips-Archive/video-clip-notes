@@ -66,7 +66,7 @@ https://www.youtube.com/watch?v=tGsaRAqAAsk
 >
 > to blender
 >
->  if i know i don't know anything i
+> if i know i don't know anything i
 >
 > don't work here do you work here jace do
 >

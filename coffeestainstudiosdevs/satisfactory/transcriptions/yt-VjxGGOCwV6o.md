@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=VjxGGOCwV6o
 
 ### Transcript
 
->  this works all right anyway moving
+> this works all right anyway moving
 >
 > on to what we do know right now so let's
 >

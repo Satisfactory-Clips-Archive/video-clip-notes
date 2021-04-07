@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=DnHcbBr79wI
 >
 > and i was like i wanted to comment like
 >
->  you didn't have it now i love him
+> you didn't have it now i love him
 >
 > does he does he have uh like a twitter
 >

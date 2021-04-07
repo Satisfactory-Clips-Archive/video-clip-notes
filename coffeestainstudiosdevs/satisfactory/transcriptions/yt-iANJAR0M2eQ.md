@@ -72,7 +72,7 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 >
 > huge menu with like so many options and
 >
->  like
+> like
 >
 > that is just like the first rule for me
 >
@@ -92,7 +92,7 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 >
 > i'm like
 >
->  wrong okay you you can see
+> wrong okay you you can see
 >
 > you can see snook and reddit and the
 >

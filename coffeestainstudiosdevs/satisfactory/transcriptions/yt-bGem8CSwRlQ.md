@@ -216,7 +216,7 @@ https://www.youtube.com/watch?v=bGem8CSwRlQ
 >
 > during the stream if you don't give a
 >
->  before you do
+> before you do
 >
 > uh where jace goes like in to depth
 >
