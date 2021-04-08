@@ -4,6 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "environment/world-map"
+    - "features/unplanned-features/space-exploration"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will the game expand into space or will it stay on the ground?
@@ -13,6 +14,7 @@ This question was possibly duplicated with a more recent answer: March 30th, 202
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Unplanned Features > Space Exploration](../topics/features/unplanned-features/space-exploration.md)
 
 ### Transcript
 
