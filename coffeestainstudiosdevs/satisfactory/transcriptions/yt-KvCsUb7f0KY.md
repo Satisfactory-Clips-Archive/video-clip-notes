@@ -9,7 +9,7 @@ topics:
 ## Q&A: When will the game actually release?
 https://www.youtube.com/watch?v=KvCsUb7f0KY
 <details>
-<summary>This question may have been asked previously at least 14 other times, as recently as March 2021 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 13 other times, as recently as March 2021 and as early as February 2019.</summary>
 
 * [March 23rd, 2021 Livestream Q&A: Any ETA on Launch?](./yt-aP6v6JbuHTk.md) [https://www.youtube.com/watch?v=aP6v6JbuHTk](https://www.youtube.com/watch?v=aP6v6JbuHTk)
 * [March 23rd, 2021 Livestream Q&A: Do you plan to put Update 4 out earlier than April 13th?](./yt-aclI7pbRT3I.md) [https://www.youtube.com/watch?v=aclI7pbRT3I](https://www.youtube.com/watch?v=aclI7pbRT3I)
@@ -24,7 +24,6 @@ https://www.youtube.com/watch?v=KvCsUb7f0KY
 * [March 9th, 2019 Livestream Q&A: When is the official release?](./yt-H0HcDZTv_ts.md) [https://www.youtube.com/watch?v=H0HcDZTv_ts](https://www.youtube.com/watch?v=H0HcDZTv_ts)
 * February 20th, 2019 Livestream Q&A: Release date? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257)
 * [February 6th, 2019 Livestream Q&A: Any timeline on when the end game will be released?](./yt-Dtm6xIj-wM4,3487.8333333333335,3508.867162.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509)
-* [February 6th, 2019 Livestream Q&A: Release date?](./yt-Dtm6xIj-wM4,280.42817,354.60912.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355)
 </details>
 
 
