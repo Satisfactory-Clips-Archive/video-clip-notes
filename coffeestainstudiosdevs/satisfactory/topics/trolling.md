@@ -131,6 +131,9 @@ date: Last Modified
 * [Q&A: What's Hannah's take on rocks that aren't on the ground?](../transcriptions/yt-y8FchPasYvI.md) [https://www.youtube.com/watch?v=y8FchPasYvI](https://www.youtube.com/watch?v=y8FchPasYvI)
 * [Q&A: What happened to the keys?](../transcriptions/yt-Xv-yl9jnC4s.md) [https://www.youtube.com/watch?v=Xv-yl9jnC4s](https://www.youtube.com/watch?v=Xv-yl9jnC4s)
 
+## April 17th, 2019 Livestream
+* [Dancing coffee stainer](../transcriptions/yt-s9JIUKS0p2Q,96.64,112.md) [https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=96&end=112](https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=96&end=112)
+
 ## March 9th, 2019 Livestream
 * [Jace Talk: ADA and "deez nuts"](../transcriptions/yt-5v6QGL7KBZk.md) [https://www.youtube.com/watch?v=5v6QGL7KBZk](https://www.youtube.com/watch?v=5v6QGL7KBZk)
 * [Snutt Talk: the most important part of the HUB](../transcriptions/yt-DwdNTp6z1a4.md) [https://www.youtube.com/watch?v=DwdNTp6z1a4](https://www.youtube.com/watch?v=DwdNTp6z1a4)

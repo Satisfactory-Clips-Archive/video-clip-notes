@@ -17,3 +17,6 @@ date: Last Modified
 * [Q&A: Can Birk slap Jace?](../../transcriptions/yt-BEOwkK8suFc.md) [https://www.youtube.com/watch?v=BEOwkK8suFc](https://www.youtube.com/watch?v=BEOwkK8suFc)
 * [Q&A: What was Birk doing before coming to Coffee Stain?](../../transcriptions/yt-ZyYaL3ubiHY.md) [https://www.youtube.com/watch?v=ZyYaL3ubiHY](https://www.youtube.com/watch?v=ZyYaL3ubiHY)
 * [Q&A: Will Birk take Snutt's hat & put it on?](../../transcriptions/yt-QGR8OUtf08c.md) [https://www.youtube.com/watch?v=QGR8OUtf08c](https://www.youtube.com/watch?v=QGR8OUtf08c)
+
+## April 17th, 2019 Livestream
+* [Dancing coffee stainer](../../transcriptions/yt-s9JIUKS0p2Q,96.64,112.md) [https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=96&end=112](https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=96&end=112)
