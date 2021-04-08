@@ -29,6 +29,9 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../transcriptions/yt--AjFbGOOAQI.md) [https://www.youtube.com/watch?v=-AjFbGOOAQI](https://www.youtube.com/watch?v=-AjFbGOOAQI)
 
+## March 15th, 2019 Livestream
+* [Q&A: Sanctum 3 when?](../../transcriptions/yt-R0S19_caQuw,426.78,428.86.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Can we crush our friends with orbital drops, like Sanctum-style?](../../transcriptions/yt-Dtm6xIj-wM4,3049.733333333333,3077.641329.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3049&end=3078](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3049&end=3078)
 * [Q&A: Where does the sense of humour/memes come from?](../../transcriptions/yt-Dtm6xIj-wM4,3734.266666666667,3823.743738.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824)

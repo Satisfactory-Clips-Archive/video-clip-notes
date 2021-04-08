@@ -35,3 +35,6 @@ date: Last Modified
 
 ## July 30th, 2020 Livestream
 * Q&A: Why no Updates? Is the game dead? [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=63&end=67](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=63&end=67)
+
+## March 15th, 2019 Livestream
+* [Q&A: How will you fix rebalancing?](../transcriptions/yt-R0S19_caQuw,144.32,209.08.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=144&end=210](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=144&end=210)

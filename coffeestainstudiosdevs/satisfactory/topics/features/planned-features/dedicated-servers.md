@@ -165,6 +165,10 @@ date: Last Modified
 * [Q&A: Will the Dedicated Servers have some sort of permissions system?](../../../transcriptions/yt-h6mpSh0JH5o.md) [https://www.youtube.com/watch?v=h6mpSh0JH5o](https://www.youtube.com/watch?v=h6mpSh0JH5o)
 * [Q&A: Will we need to buy a new copy for the server?](../../../transcriptions/yt-H6FZ4VqocHw.md) [https://www.youtube.com/watch?v=H6FZ4VqocHw](https://www.youtube.com/watch?v=H6FZ4VqocHw)
 
+## March 15th, 2019 Livestream
+* [Q&A: Any ETA on Dedicated Servers?](../../../transcriptions/yt-R0S19_caQuw,433.1,447.14.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448)
+* [Q&A: Please, please, please make a Linux based dedicated server that can run headless.](../../../transcriptions/yt-R0S19_caQuw,403.32,412.34.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](../../../transcriptions/yt-Cnw_Ow3K29I.md) [https://www.youtube.com/watch?v=Cnw_Ow3K29I](https://www.youtube.com/watch?v=Cnw_Ow3K29I)
 * [Q&A: Will Dedicated Servers and Mods be free?](../../../transcriptions/yt-WEq2xEXVVQ0.md) [https://www.youtube.com/watch?v=WEq2xEXVVQ0](https://www.youtube.com/watch?v=WEq2xEXVVQ0)

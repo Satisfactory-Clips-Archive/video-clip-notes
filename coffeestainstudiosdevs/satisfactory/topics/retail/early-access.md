@@ -28,6 +28,9 @@ date: Last Modified
 ## December 19th, 2019 Livestream
 * [Q&A: Will price go up after Early Access ends?](../../transcriptions/yt-TFg_ppmX8OE.md) [https://www.youtube.com/watch?v=TFg_ppmX8OE](https://www.youtube.com/watch?v=TFg_ppmX8OE)
 
+## March 15th, 2019 Livestream
+* [Q&A: When exactly will Early Access launch?](../../transcriptions/yt-R0S19_caQuw,46.2,55.16.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=46&end=56](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=46&end=56)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Does the timer for Epic exclusivity run when the game comes out or Early Access phase?](../../transcriptions/yt-zHYxze67E28.md) [https://www.youtube.com/watch?v=zHYxze67E28](https://www.youtube.com/watch?v=zHYxze67E28)
 * [Snutt, Simon, Jace Talk: Early Access Release](../../transcriptions/yt-RsI9XqjI0fk.md) [https://www.youtube.com/watch?v=RsI9XqjI0fk](https://www.youtube.com/watch?v=RsI9XqjI0fk)

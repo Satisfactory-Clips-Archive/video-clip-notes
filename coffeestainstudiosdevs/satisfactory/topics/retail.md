@@ -29,6 +29,12 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * [Snutt & Jace Talk: We don't plan very well at all](../transcriptions/yt-uNWZuo9AxdM.md) [https://www.youtube.com/watch?v=uNWZuo9AxdM](https://www.youtube.com/watch?v=uNWZuo9AxdM)
 
+## March 15th, 2019 Livestream
+* [Q&A: Are there perks for pre-purchase?](../transcriptions/yt-R0S19_caQuw,69.96,74.2.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=69&end=75](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=69&end=75)
+* [Q&A: Can I pre-download the game?](../transcriptions/yt-R0S19_caQuw,67.94,69.96.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=67&end=70](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=67&end=70)
+* [Community FYI: Satisfactory isn't appearing in my library even thought I pre-purchased it](../transcriptions/yt-R0S19_caQuw,55.16,67.94.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=55&end=68](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=55&end=68)
+* [Q&A: Why would I pre-purchase?](../transcriptions/yt-R0S19_caQuw,74.2,86.32.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=74&end=87](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=74&end=87)
+
 ## March 9th, 2019 Livestream
 * [Jace Talk: Preorder confusion](../transcriptions/yt-Fk-hgvsxXzg.md) [https://www.youtube.com/watch?v=Fk-hgvsxXzg](https://www.youtube.com/watch?v=Fk-hgvsxXzg)
 

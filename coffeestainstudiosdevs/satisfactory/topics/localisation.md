@@ -34,6 +34,9 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Q&A: Will you fix translations?](../transcriptions/yt-NJxOCbsJtZQ.md) [https://www.youtube.com/watch?v=NJxOCbsJtZQ](https://www.youtube.com/watch?v=NJxOCbsJtZQ)
 
+## March 15th, 2019 Livestream
+* [Q&A: Will the game be localised into any other languages before Early Access?](../transcriptions/yt-R0S19_caQuw,209.08,264.36.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=209&end=265](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=209&end=265)
+
 ## February 20th, 2019 Livestream
 * [Q&A: Will you have Nordic language support?](../transcriptions/yt-CB9bSigNYH8,4747.934062,4786.597164.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4747&end=4787](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4747&end=4787)
 

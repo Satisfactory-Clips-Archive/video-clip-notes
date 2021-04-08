@@ -89,7 +89,7 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 40 other times, as recently as March 2021 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 41 other times, as recently as March 2021 and as early as February 2019.</summary>
 
 * [March 30th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-dC-JRa2E6G0.md) [https://www.youtube.com/watch?v=dC-JRa2E6G0](https://www.youtube.com/watch?v=dC-JRa2E6G0)
 * [March 23rd, 2021 Livestream Q&A: Any updates on Dedicated Servers?](./transcriptions/yt-nmftIN5mJV0.md) [https://www.youtube.com/watch?v=nmftIN5mJV0](https://www.youtube.com/watch?v=nmftIN5mJV0)
@@ -130,6 +130,7 @@ date: Last Modified
 * [June 8th, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-XuFfkTTZnoA.md) [https://www.youtube.com/watch?v=XuFfkTTZnoA](https://www.youtube.com/watch?v=XuFfkTTZnoA)
 * [February 11th, 2020 Livestream Q&A: Any news on Dedicated Servers?](./transcriptions/yt-pUhzc1Fd8sg.md) [https://www.youtube.com/watch?v=pUhzc1Fd8sg](https://www.youtube.com/watch?v=pUhzc1Fd8sg)
 * [January 22nd, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-Qy10mQQMXXI.md) [https://www.youtube.com/watch?v=Qy10mQQMXXI](https://www.youtube.com/watch?v=Qy10mQQMXXI)
+* [March 15th, 2019 Livestream Q&A: Any ETA on Dedicated Servers?](./transcriptions/yt-R0S19_caQuw,433.1,447.14.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448)
 * [February 6th, 2019 Livestream Q&A: What's the possibility of Dedicated Servers?](./transcriptions/yt-Dtm6xIj-wM4,718.308644,808.471513.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809)
 </details>
 
@@ -604,6 +605,24 @@ date: Last Modified
 * [June 22nd, 2018 Livestream Q&A: Is the Map procedurally generated?](./transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
 </details>
 
+### [Q&A: Sanctum 3, when?](./transcriptions/yt-Ud7cgUEuVlE.md) [https://www.youtube.com/watch?v=Ud7cgUEuVlE](https://www.youtube.com/watch?v=Ud7cgUEuVlE)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> sanctum 3 when all right let's just it we'll just drop satisfactory and just start making sanctum 3 instead screw it
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as March 2019 and as early as March 2018.</summary>
+
+* [March 15th, 2019 Livestream Q&A: Sanctum 3 when?](./transcriptions/yt-R0S19_caQuw,426.78,428.86.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429)
+* [March 9th, 2018 Livestream Q&A: Sanctum 3?](./transcriptions/yt-Zo2ybvs7keI,502.32,614.16.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615)
+</details>
+
 ### [Q&A: Satisfactory Roadmap?](./transcriptions/yt-HZ4vKssj208.md) [https://www.youtube.com/watch?v=HZ4vKssj208](https://www.youtube.com/watch?v=HZ4vKssj208)
 
 <details>
@@ -810,7 +829,7 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 14 other times, as recently as March 2021 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 13 other times, as recently as March 2021 and as early as February 2019.</summary>
 
 * [March 23rd, 2021 Livestream Q&A: Any ETA on Launch?](./transcriptions/yt-aP6v6JbuHTk.md) [https://www.youtube.com/watch?v=aP6v6JbuHTk](https://www.youtube.com/watch?v=aP6v6JbuHTk)
 * [March 23rd, 2021 Livestream Q&A: Do you plan to put Update 4 out earlier than April 13th?](./transcriptions/yt-aclI7pbRT3I.md) [https://www.youtube.com/watch?v=aclI7pbRT3I](https://www.youtube.com/watch?v=aclI7pbRT3I)
@@ -825,7 +844,6 @@ date: Last Modified
 * [March 9th, 2019 Livestream Q&A: When is the official release?](./transcriptions/yt-H0HcDZTv_ts.md) [https://www.youtube.com/watch?v=H0HcDZTv_ts](https://www.youtube.com/watch?v=H0HcDZTv_ts)
 * February 20th, 2019 Livestream Q&A: Release date? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257)
 * [February 6th, 2019 Livestream Q&A: Any timeline on when the end game will be released?](./transcriptions/yt-Dtm6xIj-wM4,3487.8333333333335,3508.867162.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509)
-* [February 6th, 2019 Livestream Q&A: Release date?](./transcriptions/yt-Dtm6xIj-wM4,280.42817,354.60912.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355)
 </details>
 
 ### [Q&A: Will it be possible to remove the toxic pillars?](./transcriptions/yt-QM6AXdaNYN4.md) [https://www.youtube.com/watch?v=QM6AXdaNYN4](https://www.youtube.com/watch?v=QM6AXdaNYN4)
@@ -2719,10 +2737,11 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 3 other times, as recently as September 2020 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 4 other times, as recently as September 2020 and as early as March 2019.</summary>
 
 * [September 22nd, 2020 Livestream Q&A: Will Dedicated Servers run on Linux?](./transcriptions/yt-299eeYGePHM.md) [https://www.youtube.com/watch?v=299eeYGePHM](https://www.youtube.com/watch?v=299eeYGePHM)
 * [August 25th, 2020 Livestream Q&A: Will Dedicated Servers be available on Linux, or Windows?](./transcriptions/yt-4f7KWwnXhoU.md) [https://www.youtube.com/watch?v=4f7KWwnXhoU](https://www.youtube.com/watch?v=4f7KWwnXhoU)
+* [March 15th, 2019 Livestream Q&A: Please, please, please make a Linux based dedicated server that can run headless.](./transcriptions/yt-R0S19_caQuw,403.32,412.34.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413)
 * [March 9th, 2019 Livestream Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](./transcriptions/yt-Cnw_Ow3K29I.md) [https://www.youtube.com/watch?v=Cnw_Ow3K29I](https://www.youtube.com/watch?v=Cnw_Ow3K29I)
 </details>
 
@@ -3018,6 +3037,25 @@ date: Last Modified
 * [January 22nd, 2020 Livestream Q&A: Dedicated Servers, will they cost anything?](./transcriptions/yt-SdB0QlhgmGs.md) [https://www.youtube.com/watch?v=SdB0QlhgmGs](https://www.youtube.com/watch?v=SdB0QlhgmGs)
 * [January 22nd, 2020 Livestream Q&A: Will we need to buy a new copy for the server?](./transcriptions/yt-H6FZ4VqocHw.md) [https://www.youtube.com/watch?v=H6FZ4VqocHw](https://www.youtube.com/watch?v=H6FZ4VqocHw)
 * [March 9th, 2019 Livestream Q&A: Will Dedicated Servers and Mods be free?](./transcriptions/yt-WEq2xEXVVQ0.md) [https://www.youtube.com/watch?v=WEq2xEXVVQ0](https://www.youtube.com/watch?v=WEq2xEXVVQ0)
+</details>
+
+## [June 8th, 2020 Livestream](./2020-06-08.md)
+### [Q&A: Will I get a Steam key if I already bought it on Epic?](./transcriptions/yt-GWtv9JpKGS0.md) [https://www.youtube.com/watch?v=GWtv9JpKGS0](https://www.youtube.com/watch?v=GWtv9JpKGS0)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> crop play or any online actually uh okay so will i get a steam key if you've already bought it on epic games you will not um
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as March 2020 and as early as March 2019.</summary>
+
+* [March 24th, 2020 Livestream Q&A: Will the people who bought it on Epic get free Steam keys?](./transcriptions/yt-cCWKieE8O8g.md) [https://www.youtube.com/watch?v=cCWKieE8O8g](https://www.youtube.com/watch?v=cCWKieE8O8g)
+* [March 15th, 2019 Livestream Q&A: If I buy the game on Epic now, can I have it moved to my Steam account later?](./transcriptions/yt-R0S19_caQuw,384.72,393.2.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394)
 </details>
 
 ## [December 19th, 2019 Livestream](./2019-12-19.md)

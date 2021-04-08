@@ -20,6 +20,10 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: Alpha Keys, when ?](../../../transcriptions/yt-Kuj7AhSysV8.md) [https://www.youtube.com/watch?v=Kuj7AhSysV8](https://www.youtube.com/watch?v=Kuj7AhSysV8)
 
+## March 15th, 2019 Livestream
+* [Q&A: Why don't I have a beta key?](../../../transcriptions/yt-R0S19_caQuw,378.46,384.72.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=378&end=385](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=378&end=385)
+* [Q&A: You guys fixed the M.A.M. hard drive crash yet?](../../../transcriptions/yt-R0S19_caQuw,412.34,415.66.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=412&end=416](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=412&end=416)
+
 ## March 9th, 2019 Livestream
 * [Q&A: After the Alpha Weekend - Alpha Testers can continue streaming with the Alpha client?](../../../transcriptions/yt-jBOvSHJtna8.md) [https://www.youtube.com/watch?v=jBOvSHJtna8](https://www.youtube.com/watch?v=jBOvSHJtna8)
 * [Snutt & Jace Talk: Archway Story Time](../../../transcriptions/yt-5481tMGLLys.md) [https://www.youtube.com/watch?v=5481tMGLLys](https://www.youtube.com/watch?v=5481tMGLLys)

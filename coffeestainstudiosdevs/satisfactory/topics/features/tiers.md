@@ -76,6 +76,9 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * [Q&A: What HUB Tier will have electric floors?](../../transcriptions/yt-cH3ityZn8E4.md) [https://www.youtube.com/watch?v=cH3ityZn8E4](https://www.youtube.com/watch?v=cH3ityZn8E4)
 
+## March 15th, 2019 Livestream
+* [Q&A: Are there plans to have more than 7 tiers?](../../transcriptions/yt-R0S19_caQuw,415.66,426.78.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=415&end=427](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=415&end=427)
+
 ## March 9th, 2019 Livestream
 * [Q&A: I think the milestones are too cheap](../../transcriptions/yt-clmX0WGZBfg.md) [https://www.youtube.com/watch?v=clmX0WGZBfg](https://www.youtube.com/watch?v=clmX0WGZBfg)
 
