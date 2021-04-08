@@ -83,6 +83,12 @@ date: Last Modified
 ## December 19th, 2019 Livestream
 * [Jace, Snutt, & Birk Talk: Testing weapons & animations](../../transcriptions/yt-BWn3_s89tYE.md) [https://www.youtube.com/watch?v=BWn3_s89tYE](https://www.youtube.com/watch?v=BWn3_s89tYE)
 
+## May 14th, 2019 Livestream
+* [Jace Talk: Hand slot is now a toolbelt](../../transcriptions/yt-aceacdNX9WA,131.402374,142.269831.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143)
+* [Jace Talk: Rifle Mk.2](../../transcriptions/yt-aceacdNX9WA,162.126431,170.318853.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=162&end=171](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=162&end=171)
+* [Jace Talk: We've added a Rifle](../../transcriptions/yt-aceacdNX9WA,152.279617,162.126431.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=152&end=163](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=152&end=163)
+* [Jace Talk: We've added a thing called the "Nobelisk Detonator"](../../transcriptions/yt-aceacdNX9WA,142.269831,152.279617.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=142&end=153](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=142&end=153)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Is it possible to kill a Spitter with the standard Zapper?](../../transcriptions/yt-ZmVoWBHW9Jc.md) [https://www.youtube.com/watch?v=ZmVoWBHW9Jc](https://www.youtube.com/watch?v=ZmVoWBHW9Jc)
 * [Q&A: Quick keys for tools?](../../transcriptions/yt-MUBE6tb7AjQ.md) [https://www.youtube.com/watch?v=MUBE6tb7AjQ](https://www.youtube.com/watch?v=MUBE6tb7AjQ)

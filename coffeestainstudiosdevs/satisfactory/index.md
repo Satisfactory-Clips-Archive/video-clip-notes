@@ -94,6 +94,9 @@ layout: index
 ## December
 * [December 19th](2019-12-19.md)
 
+## May
+* [May 14th](2019-05-14.md)
+
 ## April
 * [April 26th](2019-04-26.md)
 * [April 17th](2019-04-17.md)

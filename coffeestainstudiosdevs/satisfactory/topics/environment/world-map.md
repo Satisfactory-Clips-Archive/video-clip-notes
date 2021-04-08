@@ -184,6 +184,9 @@ date: Last Modified
 * [Q&A: Will there be larger underground spaces?](../../transcriptions/yt-cuGHH7KF9BI.md) [https://www.youtube.com/watch?v=cuGHH7KF9BI](https://www.youtube.com/watch?v=cuGHH7KF9BI)
 * Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
 
+## May 14th, 2019 Livestream
+* [Jace Talk: We've added a Map & Radar Towers](../../transcriptions/yt-aceacdNX9WA,96.095281,109.183564.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Another game mode with a procedurally generated world?](../../transcriptions/yt-GZlK2fIlYVk.md) [https://www.youtube.com/watch?v=GZlK2fIlYVk](https://www.youtube.com/watch?v=GZlK2fIlYVk)
 * [Snutt & Jace Talk: Archway Story Time](../../transcriptions/yt-5481tMGLLys.md) [https://www.youtube.com/watch?v=5481tMGLLys](https://www.youtube.com/watch?v=5481tMGLLys)

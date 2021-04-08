@@ -36,6 +36,9 @@ date: Last Modified
 ## July 30th, 2020 Livestream
 * Q&A: Why no Updates? Is the game dead? [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=63&end=67](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=63&end=67)
 
+## May 14th, 2019 Livestream
+* [Jace Talk: Opening up Localisation & changing Roadmap](../transcriptions/yt-aceacdNX9WA,31.712972,55.112001.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=31&end=56](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=31&end=56)
+
 ## April 26th, 2019 Livestream
 * [Jace Talk: Milo tutorial delays Update](../transcriptions/yt--eBlSsTmUSE,167.8,226.24.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=167&end=227](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=167&end=227)
 

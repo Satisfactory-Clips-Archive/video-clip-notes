@@ -15,3 +15,6 @@ date: Last Modified
 
 ## December 15th, 2020 Livestream
 * [Q&A: Will Radar Towers get a Mk.2 version?](../../../transcriptions/yt--2Z0rsxuisQ.md) [https://www.youtube.com/watch?v=-2Z0rsxuisQ](https://www.youtube.com/watch?v=-2Z0rsxuisQ)
+
+## May 14th, 2019 Livestream
+* [Jace Talk: We've added a Map & Radar Towers](../../../transcriptions/yt-aceacdNX9WA,96.095281,109.183564.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110)

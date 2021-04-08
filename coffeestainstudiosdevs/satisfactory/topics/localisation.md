@@ -34,6 +34,9 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Q&A: Will you fix translations?](../transcriptions/yt-NJxOCbsJtZQ.md) [https://www.youtube.com/watch?v=NJxOCbsJtZQ](https://www.youtube.com/watch?v=NJxOCbsJtZQ)
 
+## May 14th, 2019 Livestream
+* [Jace Talk: Opening up Localisation & changing Roadmap](../transcriptions/yt-aceacdNX9WA,31.712972,55.112001.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=31&end=56](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=31&end=56)
+
 ## March 15th, 2019 Livestream
 * [Q&A: Will the game be localised into any other languages before Early Access?](../transcriptions/yt-R0S19_caQuw,209.08,264.36.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=209&end=265](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=209&end=265)
 

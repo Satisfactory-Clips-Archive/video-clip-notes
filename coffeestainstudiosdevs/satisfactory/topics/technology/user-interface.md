@@ -189,6 +189,10 @@ date: Last Modified
 * [Q&A: Hotbars?](../../transcriptions/yt-pkYEJmwJWrg.md) [https://www.youtube.com/watch?v=pkYEJmwJWrg](https://www.youtube.com/watch?v=pkYEJmwJWrg)
 * [Q&A: Is there going to be a central computer plant where you can check the whole production?](../../transcriptions/yt-Zlq2K0-z0_8.md) [https://www.youtube.com/watch?v=Zlq2K0-z0_8](https://www.youtube.com/watch?v=Zlq2K0-z0_8)
 
+## May 14th, 2019 Livestream
+* [Jace Talk: Hand slot is now a toolbelt](../../transcriptions/yt-aceacdNX9WA,131.402374,142.269831.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143)
+* [Jace Talk: We've added a Map & Radar Towers](../../transcriptions/yt-aceacdNX9WA,96.095281,109.183564.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Controller support?](../../transcriptions/yt-XrsD3h62ils.md) [https://www.youtube.com/watch?v=XrsD3h62ils](https://www.youtube.com/watch?v=XrsD3h62ils)
 * [Snutt & Jace Talk: Email replies work](../../transcriptions/yt-yZRoWLhKetk.md) [https://www.youtube.com/watch?v=yZRoWLhKetk](https://www.youtube.com/watch?v=yZRoWLhKetk)

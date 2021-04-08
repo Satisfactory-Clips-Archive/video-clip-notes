@@ -100,6 +100,9 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: Smerkin is hardcore](../../transcriptions/yt-RT5R6J7dj3g.md) [https://www.youtube.com/watch?v=RT5R6J7dj3g](https://www.youtube.com/watch?v=RT5R6J7dj3g)
 
+## May 14th, 2019 Livestream
+* [Jace Talk: New resources, Quartz & Sulfur](../../transcriptions/yt-aceacdNX9WA,85.946572,96.095281.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=85&end=97](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=85&end=97)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](../../transcriptions/yt-v4zf3_-seAg.md) [https://www.youtube.com/watch?v=v4zf3_-seAg](https://www.youtube.com/watch?v=v4zf3_-seAg)
 * [Q&A: Collect Fart Gas for fuel?](../../transcriptions/yt-O5R_YmTmXUI.md) [https://www.youtube.com/watch?v=O5R_YmTmXUI](https://www.youtube.com/watch?v=O5R_YmTmXUI)
