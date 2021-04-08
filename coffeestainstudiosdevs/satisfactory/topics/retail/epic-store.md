@@ -21,5 +21,8 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * [Q&A: Is there a difference in performance between the Epic version and the Steam version?](../../transcriptions/yt-CgGc8VRspUA.md) [https://www.youtube.com/watch?v=CgGc8VRspUA](https://www.youtube.com/watch?v=CgGc8VRspUA)
 
+## April 26th, 2019 Livestream
+* [Jace Talk: Milo tutorial delays Update](../../transcriptions/yt--eBlSsTmUSE,167.8,226.24.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=167&end=227](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=167&end=227)
+
 ## March 7th, 2019 Livestream
 * [Q&A: Regional Pricing?](../../transcriptions/yt-VHr4x1vNeoY,69.16,117.14.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118)

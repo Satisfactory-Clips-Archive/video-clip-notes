@@ -36,6 +36,9 @@ date: Last Modified
 ## July 30th, 2020 Livestream
 * Q&A: Why no Updates? Is the game dead? [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=63&end=67](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=63&end=67)
 
+## April 26th, 2019 Livestream
+* [Jace Talk: Milo tutorial delays Update](../transcriptions/yt--eBlSsTmUSE,167.8,226.24.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=167&end=227](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=167&end=227)
+
 ## April 17th, 2019 Livestream
 * [Jace Talk: Patch procedure](../transcriptions/yt-s9JIUKS0p2Q,21.62,189.116781.md) [https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=21&end=190](https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=21&end=190)
 

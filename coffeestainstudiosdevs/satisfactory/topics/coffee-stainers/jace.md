@@ -202,6 +202,9 @@ date: Last Modified
 * [Q&A: What is the job of Community Managers?](../../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
 * [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../transcriptions/yt-krQI-cHEAl8.md) [https://www.youtube.com/watch?v=krQI-cHEAl8](https://www.youtube.com/watch?v=krQI-cHEAl8)
 
+## April 26th, 2019 Livestream
+* [Jace Talk: Milo tutorial](../../transcriptions/yt--eBlSsTmUSE,23.92,167.8.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168)
+
 ## March 9th, 2019 Livestream
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../../transcriptions/yt-3gFgrVEkOpc.md) [https://www.youtube.com/watch?v=3gFgrVEkOpc](https://www.youtube.com/watch?v=3gFgrVEkOpc)
 * [Jace Talk: Early Tutorial](../../transcriptions/yt-FYLxMnDCuNw.md) [https://www.youtube.com/watch?v=FYLxMnDCuNw](https://www.youtube.com/watch?v=FYLxMnDCuNw)
