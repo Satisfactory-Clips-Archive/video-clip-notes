@@ -37,3 +37,6 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: End game is all about building refineries?](../../../transcriptions/yt-mZ4l1leFAWY.md) [https://www.youtube.com/watch?v=mZ4l1leFAWY](https://www.youtube.com/watch?v=mZ4l1leFAWY)
 * [Q&A: If we can't delete the radioactive, then please add radioactive-safe containers to store them?](../../../transcriptions/yt-535Zu17HOlQ.md) [https://www.youtube.com/watch?v=535Zu17HOlQ](https://www.youtube.com/watch?v=535Zu17HOlQ)
+
+## July 2nd, 2019 Patch Notes
+* [Jace Talk: We've added Nuclear Power](../../../transcriptions/yt-mtVwiCQ5sZI,276.85991666666666,312.72908333333334.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=276&end=313](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=276&end=313)

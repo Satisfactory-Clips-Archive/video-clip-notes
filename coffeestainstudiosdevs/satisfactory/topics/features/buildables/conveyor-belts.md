@@ -114,6 +114,9 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Q&A: What do you think about Splitters that can split a certain percentage of the Belts?](../../../transcriptions/yt-GiOZBqdfrAQ.md) [https://www.youtube.com/watch?v=GiOZBqdfrAQ](https://www.youtube.com/watch?v=GiOZBqdfrAQ)
 
+## July 2nd, 2019 Patch Notes
+* [Jace Talk: Upgraded buildings available](../../../transcriptions/yt-mtVwiCQ5sZI,208.79191666666665,222.76420833333333.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223)
+
 ## May 14th, 2019 Video
 * [Jace Talk: Conveyor Lifts](../../../transcriptions/yt-aceacdNX9WA,69.676137,85.946572.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=69&end=86](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=69&end=86)
 

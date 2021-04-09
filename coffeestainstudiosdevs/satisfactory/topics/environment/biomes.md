@@ -59,6 +59,9 @@ date: Last Modified
 ## February 11th, 2020 Livestream
 * [Q&A: Is this the new Desert Biome?](../../transcriptions/yt-ZKHgWByn3D4.md) [https://www.youtube.com/watch?v=ZKHgWByn3D4](https://www.youtube.com/watch?v=ZKHgWByn3D4)
 
+## July 2nd, 2019 Patch Notes
+* [Jace Talk: We've revampled the end-game areas](../../transcriptions/yt-mtVwiCQ5sZI,194.15229166666666,201.326125.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=194&end=202](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=194&end=202)
+
 ## March 9th, 2019 Livestream
 * [Jace Talk: fantasyish Biome](../../transcriptions/yt--2hJ5_qMAoM.md) [https://www.youtube.com/watch?v=-2hJ5_qMAoM](https://www.youtube.com/watch?v=-2hJ5_qMAoM)
 * [Q&A: How many biomes are in game?](../../transcriptions/yt-ouDTfnrZDKo.md) [https://www.youtube.com/watch?v=ouDTfnrZDKo](https://www.youtube.com/watch?v=ouDTfnrZDKo)

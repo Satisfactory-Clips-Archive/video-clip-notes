@@ -187,6 +187,9 @@ date: Last Modified
 * [Q&A: Will Birk take Snutt's hat & put it on?](../../transcriptions/yt-QGR8OUtf08c.md) [https://www.youtube.com/watch?v=QGR8OUtf08c](https://www.youtube.com/watch?v=QGR8OUtf08c)
 * [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../transcriptions/yt-krQI-cHEAl8.md) [https://www.youtube.com/watch?v=krQI-cHEAl8](https://www.youtube.com/watch?v=krQI-cHEAl8)
 
+## July 2nd, 2019 Patch Notes
+* [Jace Talk: Snutt's little baby](../../transcriptions/yt-mtVwiCQ5sZI,244.7445,261.97004166666665.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=244&end=262](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=244&end=262)
+
 ## March 9th, 2019 Livestream
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../../transcriptions/yt-3gFgrVEkOpc.md) [https://www.youtube.com/watch?v=3gFgrVEkOpc](https://www.youtube.com/watch?v=3gFgrVEkOpc)
 * [Snutt, Simon, Jace Talk: Laughing in the office](../../transcriptions/yt-X5P9-9npJIQ.md) [https://www.youtube.com/watch?v=X5P9-9npJIQ](https://www.youtube.com/watch?v=X5P9-9npJIQ)

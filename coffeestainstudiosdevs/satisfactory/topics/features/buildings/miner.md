@@ -16,6 +16,9 @@ date: Last Modified
 ## September 15th, 2020 Livestream
 * [Q&A: Adjustable Scanner so when you scan for nodes it doesn't show ones that have a Miner on them.](../../../transcriptions/yt-goLJr05seZs.md) [https://www.youtube.com/watch?v=goLJr05seZs](https://www.youtube.com/watch?v=goLJr05seZs)
 
+## July 2nd, 2019 Patch Notes
+* [Jace Talk: Upgraded buildings available](../../../transcriptions/yt-mtVwiCQ5sZI,208.79191666666665,222.76420833333333.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](../../../transcriptions/yt-v4zf3_-seAg.md) [https://www.youtube.com/watch?v=v4zf3_-seAg](https://www.youtube.com/watch?v=v4zf3_-seAg)
 

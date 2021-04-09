@@ -14,6 +14,9 @@ date: Last Modified
 * [Q&A: Bananas on Pizza?](../../transcriptions/yt-RbDtGuXHEH0.md) [https://www.youtube.com/watch?v=RbDtGuXHEH0](https://www.youtube.com/watch?v=RbDtGuXHEH0)
 * [Q&A: Has Simon tried key pizza?](../../transcriptions/yt-qFYvqvrAFf8.md) [https://www.youtube.com/watch?v=qFYvqvrAFf8](https://www.youtube.com/watch?v=qFYvqvrAFf8)
 
+## July 2nd, 2019 Patch Notes
+* Pizza [https://www.youtube.com/watch?v=yt-mtVwiCQ5sZI%2C344.7610833333333](https://www.youtube.com/watch?v=yt-mtVwiCQ5sZI%2C344.7610833333333)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Pizza with seafood?](../../transcriptions/yt-cWHt7D471vI.md) [https://www.youtube.com/watch?v=cWHt7D471vI](https://www.youtube.com/watch?v=cWHt7D471vI)
 

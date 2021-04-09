@@ -92,6 +92,9 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../../transcriptions/yt-d_FZQ5KTWA0.md) [https://www.youtube.com/watch?v=d_FZQ5KTWA0](https://www.youtube.com/watch?v=d_FZQ5KTWA0)
 
+## July 2nd, 2019 Patch Notes
+* [Jace Talk: We've added Trains](../../../transcriptions/yt-mtVwiCQ5sZI,62.437374999999996,180.63879166666666.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=62&end=181](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=62&end=181)
+
 ## February 6th, 2019 Livestream
 * [Q&A: Any plans for bots or other means of transport other than Belts & Trains?](../../../transcriptions/yt-Dtm6xIj-wM4,1016.1,1052.477074.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1016&end=1053](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1016&end=1053)
 * Q&A: Long-range transport? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4023&end=4028](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4023&end=4028)

@@ -61,3 +61,6 @@ date: Last Modified
 
 ## March 24th, 2020 Livestream
 * [Q&A: Green Energy & Nuclear Waste?](../../../../transcriptions/yt-T2MEOzplmSQ.md) [https://www.youtube.com/watch?v=T2MEOzplmSQ](https://www.youtube.com/watch?v=T2MEOzplmSQ)
+
+## July 2nd, 2019 Patch Notes
+* [Jace Talk: We've added Nuclear Power](../../../../transcriptions/yt-mtVwiCQ5sZI,276.85991666666666,312.72908333333334.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=276&end=313](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=276&end=313)
