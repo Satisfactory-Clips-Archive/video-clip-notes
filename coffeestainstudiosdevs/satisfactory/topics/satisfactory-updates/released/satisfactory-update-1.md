@@ -7,7 +7,7 @@ date: Last Modified
 ## March 2nd, 2021 Livestream
 * [Q&A: Patch Notes video since Update 1?](../../../transcriptions/yt-APlNumHg7ng.md) [https://www.youtube.com/watch?v=APlNumHg7ng](https://www.youtube.com/watch?v=APlNumHg7ng)
 
-## May 14th, 2019 Video
+## May 14th, 2019 Patch Notes
 * [Jace Talk: Conveyor Lifts](../../../transcriptions/yt-aceacdNX9WA,69.676137,85.946572.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=69&end=86](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=69&end=86)
 * [Jace Talk: Hand slot is now a toolbelt](../../../transcriptions/yt-aceacdNX9WA,131.402374,142.269831.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143)
 * [Jace Talk: New resources, Quartz & Sulfur](../../../transcriptions/yt-aceacdNX9WA,85.946572,96.095281.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=85&end=97](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=85&end=97)

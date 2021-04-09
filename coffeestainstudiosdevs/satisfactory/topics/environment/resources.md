@@ -103,7 +103,7 @@ date: Last Modified
 ## July 2nd, 2019 Patch Notes
 * [Jace Talk: Bauxite](../../transcriptions/yt-mtVwiCQ5sZI,227.68579166666666,244.7445.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=227&end=245](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=227&end=245)
 
-## May 14th, 2019 Video
+## May 14th, 2019 Patch Notes
 * [Jace Talk: New resources, Quartz & Sulfur](../../transcriptions/yt-aceacdNX9WA,85.946572,96.095281.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=85&end=97](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=85&end=97)
 
 ## March 9th, 2019 Livestream

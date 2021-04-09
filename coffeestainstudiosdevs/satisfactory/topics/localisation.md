@@ -34,7 +34,7 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Q&A: Will you fix translations?](../transcriptions/yt-NJxOCbsJtZQ.md) [https://www.youtube.com/watch?v=NJxOCbsJtZQ](https://www.youtube.com/watch?v=NJxOCbsJtZQ)
 
-## May 14th, 2019 Video
+## May 14th, 2019 Patch Notes
 * [Jace Talk: Opening up Localisation & changing Roadmap](../transcriptions/yt-aceacdNX9WA,31.712972,55.112001.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=31&end=56](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=31&end=56)
 
 ## March 15th, 2019 Q&A

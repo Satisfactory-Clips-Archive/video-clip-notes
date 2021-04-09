@@ -184,7 +184,7 @@ date: Last Modified
 * [Q&A: Will there be larger underground spaces?](../../transcriptions/yt-cuGHH7KF9BI.md) [https://www.youtube.com/watch?v=cuGHH7KF9BI](https://www.youtube.com/watch?v=cuGHH7KF9BI)
 * Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
 
-## May 14th, 2019 Video
+## May 14th, 2019 Patch Notes
 * [Jace Talk: We've added a Map & Radar Towers](../../transcriptions/yt-aceacdNX9WA,96.095281,109.183564.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110)
 
 ## March 9th, 2019 Livestream

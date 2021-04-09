@@ -10,7 +10,7 @@ date: Last Modified
 ## October 9th, 2020 Livestream
 * [Community FYI: Game struggles with 10 Tractors, 14 Trucks, 1 Explorer, and 83 Factory Carts](../../../../transcriptions/yt-T_Vldyf9rBI.md) [https://www.youtube.com/watch?v=T_Vldyf9rBI](https://www.youtube.com/watch?v=T_Vldyf9rBI)
 
-## May 14th, 2019 Video
+## May 14th, 2019 Patch Notes
 * [Jace Talk: New Vehicle](../../../../transcriptions/yt-aceacdNX9WA,109.18,131.402374.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=109&end=132](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=109&end=132)
 
 ## July 19th, 2018 Dev Blog
