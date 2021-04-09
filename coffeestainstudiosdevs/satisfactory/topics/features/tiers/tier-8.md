@@ -44,3 +44,6 @@ date: Last Modified
 
 ## May 19th, 2020 Livestream
 * [Q&A: What about Tier 8?](../../../transcriptions/yt-lQC68q7s21c.md) [https://www.youtube.com/watch?v=lQC68q7s21c](https://www.youtube.com/watch?v=lQC68q7s21c)
+
+## November 5th, 2019 Q&A
+* [Q&A: Tier 8?](../../../transcriptions/yt-Fsod_UF5eus,287,321.48.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=287&end=322](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=287&end=322)

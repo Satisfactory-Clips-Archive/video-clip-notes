@@ -189,8 +189,8 @@ date: Last Modified
 * [Q&A: Hotbars?](../../transcriptions/yt-pkYEJmwJWrg.md) [https://www.youtube.com/watch?v=pkYEJmwJWrg](https://www.youtube.com/watch?v=pkYEJmwJWrg)
 * [Q&A: Is there going to be a central computer plant where you can check the whole production?](../../transcriptions/yt-Zlq2K0-z0_8.md) [https://www.youtube.com/watch?v=Zlq2K0-z0_8](https://www.youtube.com/watch?v=Zlq2K0-z0_8)
 
-## November 5th, 2019 Patch Notes
-* [Snutt Talk: Mass Dismantle](../../transcriptions/yt-Fsod_UF5eus,84.28,100.36.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=84&end=101](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=84&end=101)
+## September 25th, 2019 Patch Notes
+* [Snutt Talk: Mass Dismantle](../../transcriptions/yt-t1LfyNfuMVQ,84.28,100.36.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=84&end=101](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=84&end=101)
 
 ## September 13th, 2019 Video
 * [Jace Talk: Mass dismantle](../../transcriptions/yt-s3m74qGSYK4,145.56,164.32.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=145&end=165](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=145&end=165)

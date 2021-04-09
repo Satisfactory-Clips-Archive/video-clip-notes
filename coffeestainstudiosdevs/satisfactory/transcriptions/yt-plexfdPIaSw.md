@@ -13,6 +13,12 @@ topics:
 https://www.youtube.com/watch?v=plexfdPIaSw
 This question was possibly replaced with a more recent answer: [December 8th, 2020 Livestream Q&A: Is Tier 8 last Tier for the game?](./yt-FhoIzj_QLm0.md) [https://www.youtube.com/watch?v=FhoIzj_QLm0](https://www.youtube.com/watch?v=FhoIzj_QLm0)
 
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as November 2019.</summary>
+
+* [November 5th, 2019 Q&A: Tier 8?](./yt-Fsod_UF5eus,287,321.48.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=287&end=322](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=287&end=322)
+</details>
+
 
 ### Topics
 * [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)

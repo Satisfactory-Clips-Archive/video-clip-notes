@@ -62,12 +62,15 @@ date: Last Modified
 ## May 19th, 2020 Livestream
 * [Snutt & Gafgar Talk: Zombie Pioneers](../../transcriptions/yt-90rAQ31MQPI.md) [https://www.youtube.com/watch?v=90rAQ31MQPI](https://www.youtube.com/watch?v=90rAQ31MQPI)
 
-## November 5th, 2019 Patch Notes
-* [Q&A: Are the new save files supported in an older version of the game?](../../transcriptions/yt-Fsod_UF5eus,186.48,218.32.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=186&end=219](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=186&end=219)
-* [Snutt Talk: Backup your saves](../../transcriptions/yt-Fsod_UF5eus,30.72,52.88.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=30&end=53](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=30&end=53)
-* [Community FYI: I don't see some of my save files in game](../../transcriptions/yt-Fsod_UF5eus,250,272.56.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=250&end=273](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=250&end=273)
-* [Snut Talk: Save Files & Cloud Saves](../../transcriptions/yt-Fsod_UF5eus,100.36,186.48.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=100&end=187](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=100&end=187)
-* [Q&A: Why am I seeing duplicates of my save files?](../../transcriptions/yt-Fsod_UF5eus,272.56,307.28.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=272&end=308](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=272&end=308)
+## November 5th, 2019 Q&A
+* [Jace Talk: Workaround for broken save games](../../transcriptions/yt-Fsod_UF5eus,156.08,287.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=156&end=287](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=156&end=287)
+
+## September 25th, 2019 Patch Notes
+* [Q&A: Are the new save files supported in an older version of the game?](../../transcriptions/yt-t1LfyNfuMVQ,186.48,218.32.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=186&end=219](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=186&end=219)
+* [Snutt Talk: Backup your saves](../../transcriptions/yt-t1LfyNfuMVQ,30.72,52.88.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=30&end=53](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=30&end=53)
+* [Community FYI: I don't see some of my save files in game](../../transcriptions/yt-t1LfyNfuMVQ,250,272.56.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=250&end=273](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=250&end=273)
+* [Snut Talk: Save Files & Cloud Saves](../../transcriptions/yt-t1LfyNfuMVQ,100.36,186.48.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=100&end=187](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=100&end=187)
+* [Q&A: Why am I seeing duplicates of my save files?](../../transcriptions/yt-t1LfyNfuMVQ,272.56,307.28.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=272&end=308](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=272&end=308)
 
 ## March 15th, 2019 Q&A
 * [Q&A: Will our Alpha Test save files still work?](../../transcriptions/yt-R0S19_caQuw,86.32,144.32.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=86&end=145](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=86&end=145)

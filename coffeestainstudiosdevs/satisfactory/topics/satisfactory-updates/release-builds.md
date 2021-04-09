@@ -131,6 +131,9 @@ date: Last Modified
 * [Q&A: How much time between Experimental and Early Access?](../../transcriptions/yt-Cjn88-M1BbE.md) [https://www.youtube.com/watch?v=Cjn88-M1BbE](https://www.youtube.com/watch?v=Cjn88-M1BbE)
 * [Q&A: Linux support for Dedicated Servers?](../../transcriptions/yt-5a34CUK1K3k.md) [https://www.youtube.com/watch?v=5a34CUK1K3k](https://www.youtube.com/watch?v=5a34CUK1K3k)
 
+## December 2nd, 2019 Patch Notes
+* [Jace Talk: We do see the bug reports and crash reports on the Experimental version of the game](../../transcriptions/yt-JahYj98r0dQ,18.0051,72.8.md) [https://youtube.com/embed/JahYj98r0dQ?autoplay=1&start=18&end=73](https://youtube.com/embed/JahYj98r0dQ?autoplay=1&start=18&end=73)
+
 ## March 9th, 2019 Livestream
 * [Jace Talk: All saves should work](../../transcriptions/yt-w9kJj1Hd-cs.md) [https://www.youtube.com/watch?v=w9kJj1Hd-cs](https://www.youtube.com/watch?v=w9kJj1Hd-cs)
 * Snutt Talk: Alpha Test Weekend Hard Drive M.A.M. bug [https://www.youtube.com/watch?v=EyUfBo2-gjw](https://www.youtube.com/watch?v=EyUfBo2-gjw)

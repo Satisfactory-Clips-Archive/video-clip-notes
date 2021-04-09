@@ -61,6 +61,9 @@ date: Last Modified
 * [Q&A: What would Hannah look for in an Environment Artist's portfolio?](../../transcriptions/yt-yDZRa_7BTrU.md) [https://www.youtube.com/watch?v=yDZRa_7BTrU](https://www.youtube.com/watch?v=yDZRa_7BTrU)
 * [Q&A: Why does Hannah look like Billie Eilish?](../../transcriptions/yt-vn8SMPtHoJM.md) [https://www.youtube.com/watch?v=vn8SMPtHoJM](https://www.youtube.com/watch?v=vn8SMPtHoJM)
 
+## November 5th, 2019 Q&A
+* [Jace Talk: Hannah's Dev Highlight video](../../transcriptions/yt-Fsod_UF5eus,20.779934,37.720185.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=20&end=38](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=20&end=38)
+
 ## September 13th, 2019 Video
 * [Jace Talk: Dev Highlights editing stream](../../transcriptions/yt-s3m74qGSYK4,15.320043,39.543556.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=15&end=40](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=15&end=40)
 

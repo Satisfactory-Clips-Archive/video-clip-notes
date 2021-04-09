@@ -36,6 +36,10 @@ date: Last Modified
 ## July 30th, 2020 Q&A
 * Q&A: Why no Updates? Is the game dead? [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=63&end=67](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=63&end=67)
 
+## November 5th, 2019 Q&A
+* [Q&A: Is this the last update?](../transcriptions/yt-Fsod_UF5eus,138.04,156.08.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=138&end=157](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=138&end=157)
+* [Q&A: What about smaller updates? Bug fixes etc.?](../transcriptions/yt-Fsod_UF5eus,321.48,367.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=321&end=367](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=321&end=367)
+
 ## July 6th, 2019 Video
 * [Jace Talk: No major updates while we're on break](../transcriptions/yt-OXblIR1BnIM,19.33124,42.166271.md) [https://youtube.com/embed/OXblIR1BnIM?autoplay=1&start=19&end=43](https://youtube.com/embed/OXblIR1BnIM?autoplay=1&start=19&end=43)
 

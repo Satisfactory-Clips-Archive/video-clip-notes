@@ -92,8 +92,8 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../../transcriptions/yt-d_FZQ5KTWA0.md) [https://www.youtube.com/watch?v=d_FZQ5KTWA0](https://www.youtube.com/watch?v=d_FZQ5KTWA0)
 
-## November 5th, 2019 Patch Notes
-* [Snutt Talk: Train bug fixes](../../../transcriptions/yt-Fsod_UF5eus,52.88,84.28.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=52&end=85](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=52&end=85)
+## September 25th, 2019 Patch Notes
+* [Snutt Talk: Train bug fixes](../../../transcriptions/yt-t1LfyNfuMVQ,52.88,84.28.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=52&end=85](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=52&end=85)
 
 ## September 13th, 2019 Video
 * [Jace Talk: Train fixes](../../../transcriptions/yt-s3m74qGSYK4,101.62,145.56.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=101&end=146](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=101&end=146)

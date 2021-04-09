@@ -15,4 +15,4 @@ date: Last Modified
 
 ## October 6th, 2020 Livestream
 * [Q&A: (re: the wiki) So the old data-mined data?](../../transcriptions/yt-SG9tehaWHsE.md) [https://www.youtube.com/watch?v=SG9tehaWHsE](https://www.youtube.com/watch?v=SG9tehaWHsE)
-* [Q&A: Is the Wiki Official?](../../transcriptions/yt-io0J9vpBHPg.md) [https://www.youtube.com/watch?v=io0J9vpBHPg](https://www.youtube.com/watch?v=io0J9vpBHPg)
+* Q&A: Is the Wiki Official? [https://www.youtube.com/watch?v=io0J9vpBHPg](https://www.youtube.com/watch?v=io0J9vpBHPg)

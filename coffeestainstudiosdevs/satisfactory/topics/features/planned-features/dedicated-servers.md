@@ -165,6 +165,9 @@ date: Last Modified
 * [Q&A: Will the Dedicated Servers have some sort of permissions system?](../../../transcriptions/yt-h6mpSh0JH5o.md) [https://www.youtube.com/watch?v=h6mpSh0JH5o](https://www.youtube.com/watch?v=h6mpSh0JH5o)
 * [Q&A: Will we need to buy a new copy for the server?](../../../transcriptions/yt-H6FZ4VqocHw.md) [https://www.youtube.com/watch?v=H6FZ4VqocHw](https://www.youtube.com/watch?v=H6FZ4VqocHw)
 
+## November 5th, 2019 Q&A
+* [Q&A: Dedicated Servers?](../../../transcriptions/yt-Fsod_UF5eus,367,403.76.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=367&end=404](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=367&end=404)
+
 ## September 13th, 2019 Video
 * [Jace Talk: Community priotisation of Dedicated Servers vs. Mod Support](../../../transcriptions/yt-s3m74qGSYK4,56.82,101.62.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102)
 
