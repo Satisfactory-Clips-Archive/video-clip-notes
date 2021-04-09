@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=GWtv9JpKGS0
 <summary>This question may have been asked previously at least 2 other times, as recently as March 2020 and as early as March 2019.</summary>
 
 * [March 24th, 2020 Livestream Q&A: Will the people who bought it on Epic get free Steam keys?](./yt-cCWKieE8O8g.md) [https://www.youtube.com/watch?v=cCWKieE8O8g](https://www.youtube.com/watch?v=cCWKieE8O8g)
-* [March 15th, 2019 Livestream Q&A: If I buy the game on Epic now, can I have it moved to my Steam account later?](./yt-R0S19_caQuw,384.72,393.2.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394)
+* [March 15th, 2019 Q&A: If I buy the game on Epic now, can I have it moved to my Steam account later?](./yt-R0S19_caQuw,384.72,393.2.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394)
 </details>
 
 

@@ -28,7 +28,7 @@ date: Last Modified
 ## December 19th, 2019 Livestream
 * [Q&A: Will price go up after Early Access ends?](../../transcriptions/yt-TFg_ppmX8OE.md) [https://www.youtube.com/watch?v=TFg_ppmX8OE](https://www.youtube.com/watch?v=TFg_ppmX8OE)
 
-## March 15th, 2019 Livestream
+## March 15th, 2019 Q&A
 * [Q&A: When exactly will Early Access launch?](../../transcriptions/yt-R0S19_caQuw,46.2,55.16.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=46&end=56](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=46&end=56)
 
 ## March 9th, 2019 Livestream
@@ -40,7 +40,7 @@ date: Last Modified
 * [Q&A: When is the official release?](../../transcriptions/yt-H0HcDZTv_ts.md) [https://www.youtube.com/watch?v=H0HcDZTv_ts](https://www.youtube.com/watch?v=H0HcDZTv_ts)
 * [Q&A: Will these streams be a regular thing during Early Access phase?](../../transcriptions/yt-uCG8_WGh9Bk.md) [https://www.youtube.com/watch?v=uCG8_WGh9Bk](https://www.youtube.com/watch?v=uCG8_WGh9Bk)
 
-## March 7th, 2019 Livestream
+## March 7th, 2019 Q&A
 * [Q&A: Can you tell us more about Early Access?](../../transcriptions/yt-VHr4x1vNeoY,195.46,244.9.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=195&end=245](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=195&end=245)
 * [Q&A: How much will it cost?](../../transcriptions/yt-VHr4x1vNeoY,47.56,69.16.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=47&end=70](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=47&end=70)
 * [Q&A: Regional Pricing?](../../transcriptions/yt-VHr4x1vNeoY,69.16,117.14.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118)

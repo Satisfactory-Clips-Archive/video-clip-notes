@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=B6BEy7mals4
 * [November 3rd, 2020 Livestream Q&A: When do Signs come?](./yt-5PwIEaLRDRY.md) [https://www.youtube.com/watch?v=5PwIEaLRDRY](https://www.youtube.com/watch?v=5PwIEaLRDRY)
 * [September 29th, 2020 Livestream Q&A: Can we get Signs in the game?](./yt-P1hgqMJ8MW0.md) [https://www.youtube.com/watch?v=P1hgqMJ8MW0](https://www.youtube.com/watch?v=P1hgqMJ8MW0)
 * [August 25th, 2020 Livestream Q&A: Signs for Hypertube Entrances?](./yt-y3w-vPtVjog.md) [https://www.youtube.com/watch?v=y3w-vPtVjog](https://www.youtube.com/watch?v=y3w-vPtVjog)
-* [July 8th, 2020 Livestream Q&A: When are we getting Signs?](./yt-1dUNmBBbExs,1744.09797,1753.629628.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754)
+* [July 8th, 2020 Mod Highlight Q&A: When are we getting Signs?](./yt-1dUNmBBbExs,1744.09797,1753.629628.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754)
 * [June 8th, 2020 Livestream Q&A: What about Signs?](./yt-UGKquiGR0CY.md) [https://www.youtube.com/watch?v=UGKquiGR0CY](https://www.youtube.com/watch?v=UGKquiGR0CY)
 </details>
 

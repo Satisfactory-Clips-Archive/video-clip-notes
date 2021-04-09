@@ -8,7 +8,7 @@ date: Last Modified
 * [Q&A: Satisfactory on Steam?](../../../transcriptions/yt-gOgyvgKAGAQ.md) [https://www.youtube.com/watch?v=gOgyvgKAGAQ](https://www.youtube.com/watch?v=gOgyvgKAGAQ)
 * [Q&A: With the end of Epic exclusivity, will there be other ways to get it ?](../../../transcriptions/yt-Kfn13oEuA0c.md) [https://www.youtube.com/watch?v=Kfn13oEuA0c](https://www.youtube.com/watch?v=Kfn13oEuA0c)
 
-## March 15th, 2019 Livestream
+## March 15th, 2019 Q&A
 * [Q&A: Is the 1 Year Epic Store exclusivity from EA launch, or one year from full launch?](../../../transcriptions/yt-R0S19_caQuw,393.2,403.32.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=393&end=404](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=393&end=404)
 
 ## March 9th, 2019 Livestream

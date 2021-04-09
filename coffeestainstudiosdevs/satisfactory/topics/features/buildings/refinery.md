@@ -24,7 +24,7 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Are you changing Pure Ingot recipes?](../../../transcriptions/yt-WTE-Q1zQLM0.md) [https://www.youtube.com/watch?v=WTE-Q1zQLM0](https://www.youtube.com/watch?v=WTE-Q1zQLM0)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Ben & Jace Talk: Optimisation review - Refinery (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1500&end=1558](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1500&end=1558)
 * Ben & Jace Talk: Optimisation review - Refinery (Part 2) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1611&end=1671](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1611&end=1671)
 

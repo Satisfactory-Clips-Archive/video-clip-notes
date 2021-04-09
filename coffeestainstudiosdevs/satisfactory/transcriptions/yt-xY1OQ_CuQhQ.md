@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=xY1OQ_CuQhQ
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as March 2019.</summary>
 
-* [March 15th, 2019 Livestream Q&A: How will you fix rebalancing?](./yt-R0S19_caQuw,144.32,209.08.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=144&end=210](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=144&end=210)
+* [March 15th, 2019 Q&A: How will you fix rebalancing?](./yt-R0S19_caQuw,144.32,209.08.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=144&end=210](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=144&end=210)
 </details>
 
 

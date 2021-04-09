@@ -42,7 +42,7 @@ date: Last Modified
 ## February 23rd, 2021 Livestream
 * [Q&A: Could you please add a Coffee machine or even a Coffee production line?](../../transcriptions/yt-XpBlPzRT3FA.md) [https://www.youtube.com/watch?v=XpBlPzRT3FA](https://www.youtube.com/watch?v=XpBlPzRT3FA)
 
-## February 19th, 2021 Livestream
+## February 19th, 2021 Video
 * [Self Regulation of Power Generators being removed](../../transcriptions/yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267)
 
 ## February 9th, 2021 Livestream
@@ -54,7 +54,7 @@ date: Last Modified
 ## December 15th, 2020 Livestream
 * [Q&A: Will we be able to deal with Gas towers you can't kill right now?](../../transcriptions/yt-0nRCXveJemw.md) [https://www.youtube.com/watch?v=0nRCXveJemw](https://www.youtube.com/watch?v=0nRCXveJemw)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Aluminum Casing](../../transcriptions/yt-njXBs_p2l1w,245.57866666666666,333.23290000000003.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334)
 
 ## December 8th, 2020 Livestream
@@ -100,7 +100,7 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: Smerkin is hardcore](../../transcriptions/yt-RT5R6J7dj3g.md) [https://www.youtube.com/watch?v=RT5R6J7dj3g](https://www.youtube.com/watch?v=RT5R6J7dj3g)
 
-## May 14th, 2019 Livestream
+## May 14th, 2019 Video
 * [Jace Talk: New resources, Quartz & Sulfur](../../transcriptions/yt-aceacdNX9WA,85.946572,96.095281.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=85&end=97](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=85&end=97)
 
 ## March 9th, 2019 Livestream
@@ -116,7 +116,7 @@ date: Last Modified
 * [Q&A: How many items exist?](../../transcriptions/yt-Dtm6xIj-wM4,3200.183129,3219.325619.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3200&end=3220](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3200&end=3220)
 * [Q&A: With resource nodes are you going to have to run out of one node, and have to change nodes?](../../transcriptions/yt-Dtm6xIj-wM4,1939.6333333333334,1962.712002.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1939&end=1963](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1939&end=1963)
 
-## November 8th, 2018 Livestream
+## November 8th, 2018 Dev Blog
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164)
 * [Reinforced Iron Plates being created](../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569)
 * [Smelting Iron](../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275)
@@ -124,14 +124,14 @@ date: Last Modified
 * [Using Iron Ingots to eventually make Screws](../../transcriptions/yt-J_Dznt1OG-0,274.440833,365.9656.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366)
 * [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100)
 * [Q&A: Is there research or a tech tree in the game?](../../transcriptions/yt-iFAy1NZUOGU,147.92,170.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Is the Map procedurally generated?](../../transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
 
-## August 1st, 2017 Livestream
+## August 1st, 2017 Tutorial
 * [Jace Talk: Automating Resource gathering](../../transcriptions/yt-ZW0OOikcWN0,459.28,651.16.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=459&end=652](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=459&end=652)
 * [Jace Talk: Exploring for different Resources](../../transcriptions/yt-ZW0OOikcWN0,1407.56,1426.24.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1407&end=1427](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1407&end=1427)
 * [Jace Talk: Finding Resources](../../transcriptions/yt-ZW0OOikcWN0,155.16,243.88.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=155&end=244](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=155&end=244)

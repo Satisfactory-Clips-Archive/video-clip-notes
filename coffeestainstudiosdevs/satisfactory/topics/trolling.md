@@ -68,7 +68,7 @@ date: Last Modified
 ## December 15th, 2020 Livestream
 * [Q&A: How big will the update for Update 4 be in gigabytes?](../transcriptions/yt-_i9f2NI9JNc.md) [https://www.youtube.com/watch?v=_i9f2NI9JNc](https://www.youtube.com/watch?v=_i9f2NI9JNc)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Coffee Stain R&D Factory](../transcriptions/yt-njXBs_p2l1w,124.9248,154.154.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155)
 
 ## December 8th, 2020 Livestream
@@ -131,10 +131,10 @@ date: Last Modified
 * [Q&A: What's Hannah's take on rocks that aren't on the ground?](../transcriptions/yt-y8FchPasYvI.md) [https://www.youtube.com/watch?v=y8FchPasYvI](https://www.youtube.com/watch?v=y8FchPasYvI)
 * [Q&A: What happened to the keys?](../transcriptions/yt-Xv-yl9jnC4s.md) [https://www.youtube.com/watch?v=Xv-yl9jnC4s](https://www.youtube.com/watch?v=Xv-yl9jnC4s)
 
-## April 26th, 2019 Livestream
+## April 26th, 2019 Milo Tutorial
 * [Jace Talk: Milo tutorial](../transcriptions/yt--eBlSsTmUSE,23.92,167.8.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168)
 
-## April 17th, 2019 Livestream
+## April 17th, 2019 Video
 * [Dancing coffee stainer](../transcriptions/yt-s9JIUKS0p2Q,96.64,112.md) [https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=96&end=112](https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=96&end=112)
 
 ## March 9th, 2019 Livestream
@@ -154,18 +154,18 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * Q&A: Is Simon going to be the last Boss? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018)
 
-## December 25th, 2018 Livestream
+## December 25th, 2018 Video
 * ["Candid" video](../transcriptions/yt-S_AKfh38880,73.8,157.12.md) [https://youtube.com/embed/S_AKfh38880?autoplay=1&start=73&end=158](https://youtube.com/embed/S_AKfh38880?autoplay=1&start=73&end=158)
 * [Intro](../transcriptions/yt-S_AKfh38880,,73.8.md) [https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74](https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74)
 * [Outro](../transcriptions/yt-S_AKfh38880,157.12,193.2.md) [https://youtube.com/embed/S_AKfh38880?autoplay=1&start=157&end=194](https://youtube.com/embed/S_AKfh38880?autoplay=1&start=157&end=194)
 
-## November 23rd, 2018 Livestream
+## November 23rd, 2018 Dev Blog
 * [Q&A: Are your games going to be full of Microtransactions now?](../transcriptions/yt-1UqIDp_byFc,88.32,103.98.md) [https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=88&end=104](https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=88&end=104)
 * End Tag [https://www.youtube.com/watch?v=yt-1UqIDp_byFc%2C275.2](https://www.youtube.com/watch?v=yt-1UqIDp_byFc%2C275.2)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: But... will there be Pipes?](../transcriptions/yt-iFAy1NZUOGU,275.24,323.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324)
 * [Q&A: How much will the game cost when it's released?](../transcriptions/yt-iFAy1NZUOGU,99.44,119.72.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120)
 
-## March 9th, 2018 Livestream
+## March 9th, 2018 Q&A
 * [Q&A: Are the first two letters of your next game's title really "Sa" ?](../transcriptions/yt-Zo2ybvs7keI,344.96,382.8.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383)

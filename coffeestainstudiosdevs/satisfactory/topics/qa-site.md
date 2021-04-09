@@ -8,7 +8,7 @@ date: Last Modified
 * [Snutt Talk: The QA Site](../transcriptions/yt-whzzgnN5izE.md) [https://www.youtube.com/watch?v=whzzgnN5izE](https://www.youtube.com/watch?v=whzzgnN5izE)
 * [Snutt Talk: We see everything posted on the QA Site](../transcriptions/yt-apW-3vXw6Nw.md) [https://www.youtube.com/watch?v=apW-3vXw6Nw](https://www.youtube.com/watch?v=apW-3vXw6Nw)
 
-## March 26th, 2021 Livestream
+## March 26th, 2021 Video
 * [Snutt Talk: If you have bugs or feedback, use the QA Site](../transcriptions/yt-jmrABq4cCzY,46.916666666666664,67.75.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=46&end=68](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=46&end=68)
 * [Snutt Talk: If you have thoughts or feedback about Recipe balancing, use the QA Site](../transcriptions/yt-jmrABq4cCzY,279.75,305.2916666666667.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306)
 
@@ -41,7 +41,7 @@ date: Last Modified
 * Jace Talk: The Q&A Site (Part 2): [https://clips.twitch.tv/RenownedQuaintBeaverAMPTropPunch](https://clips.twitch.tv/RenownedQuaintBeaverAMPTropPunch)
 * Jace Talk: The Q&A Site (Part 3): [https://clips.twitch.tv/ZealousNastyCiderPeteZarollTie](https://clips.twitch.tv/ZealousNastyCiderPeteZarollTie)
 
-## July 30th, 2020 Livestream
+## July 30th, 2020 Q&A
 * [Jace Talk: The QA Site](../transcriptions/yt-1dUNmBBbExs,116.33333333333333,156.424212.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=116&end=157](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=116&end=157)
 
 ## March 24th, 2020 Livestream

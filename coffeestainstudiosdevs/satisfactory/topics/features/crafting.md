@@ -18,7 +18,7 @@ date: Last Modified
 * [Q&A: Are you going to add any more Alternative Recipes?](../../transcriptions/yt-OtcI-GdfbRc.md) [https://www.youtube.com/watch?v=OtcI-GdfbRc](https://www.youtube.com/watch?v=OtcI-GdfbRc)
 * [Q&A: Will Alternative Recipes be unlocked by a more orderly progression?](../../transcriptions/yt-KxOniqAHQI4.md) [https://www.youtube.com/watch?v=KxOniqAHQI4](https://www.youtube.com/watch?v=KxOniqAHQI4)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Aluminum Casing](../../transcriptions/yt-njXBs_p2l1w,245.57866666666666,333.23290000000003.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334)
 * [New Parts coming in Update 4](../../transcriptions/yt-njXBs_p2l1w,95.36193333333334,124.9248.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=95&end=125](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=95&end=125)
 
@@ -59,14 +59,14 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * [Q&A: How many items exist?](../../transcriptions/yt-Dtm6xIj-wM4,3200.183129,3219.325619.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3200&end=3220](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3200&end=3220)
 
-## November 8th, 2018 Livestream
+## November 8th, 2018 Dev Blog
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164)
 * [Reinforced Iron Plates being created](../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569)
 * [Smelting Iron](../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275)
 * [Using Iron Ingots to eventually make Screws](../../transcriptions/yt-J_Dznt1OG-0,274.440833,365.9656.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366)
 * [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516)
 
-## August 1st, 2017 Livestream
+## August 1st, 2017 Tutorial
 * [Jace Talk: Automating Crafting (Part 1)](../../transcriptions/yt-ZW0OOikcWN0,747.08,866.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=747&end=866](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=747&end=866)
 * [Jace Talk: Automating Crafting (Part 2)](../../transcriptions/yt-ZW0OOikcWN0,968.818506,1014.32.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=968&end=1015](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=968&end=1015)
 * [Jace Talk: Multiplayer Crafting](../../transcriptions/yt-ZW0OOikcWN0,444.2,459.28.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460)

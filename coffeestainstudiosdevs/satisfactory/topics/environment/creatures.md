@@ -133,11 +133,11 @@ date: Last Modified
 * [Q&A: Will there be PvE or PvP ?](../../transcriptions/yt-Dtm6xIj-wM4,586.378155,622.648759.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623)
 * [Q&A: You mentioned enemies earlier but now you say there'll be nothing to worry about?](../../transcriptions/yt-Dtm6xIj-wM4,2685.5,2726.329682.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: Are there actual spiders in the game?](../../transcriptions/yt-iFAy1NZUOGU,237.4,252.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=237&end=253](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=237&end=253)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Will we need to defend our factory?](../../transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
 
-## August 1st, 2017 Livestream
+## August 1st, 2017 Tutorial
 * [Jace Talk: Combat](../../transcriptions/yt-ZW0OOikcWN0,1294.516063,1407.56.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1294&end=1408](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1294&end=1408)

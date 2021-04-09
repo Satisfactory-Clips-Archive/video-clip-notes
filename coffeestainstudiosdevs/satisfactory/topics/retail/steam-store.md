@@ -8,7 +8,7 @@ date: Last Modified
 ## April 6th, 2021 Livestream
 * Q&A: How to reset the Steam/EOS Link? [https://www.youtube.com/watch?v=7H6bpfUJH84](https://www.youtube.com/watch?v=7H6bpfUJH84)
 
-## March 26th, 2021 Livestream
+## March 26th, 2021 Video
 * [Snutt Talk: Accessing the Experimental Branch](../../transcriptions/yt-jmrABq4cCzY,67.75,92.66666666666667.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93)
 
 ## March 23rd, 2021 Livestream

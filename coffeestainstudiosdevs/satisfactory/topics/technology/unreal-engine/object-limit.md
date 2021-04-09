@@ -25,7 +25,7 @@ date: Last Modified
 ## November 10th, 2020 Livestream
 * [Snutt & Jace Talk: Unreal Engine Object Limit](../../../transcriptions/yt-bk2ojhuil-g.md) [https://www.youtube.com/watch?v=bk2ojhuil-g](https://www.youtube.com/watch?v=bk2ojhuil-g)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Ben & Jace Talk: Coffee Stain didn't set the Object Limit [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1752&end=1818](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1752&end=1818)
 * Q&A: What Buildings should we stay away from to minimise the chances of hitting the Object Limit [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1670&end=1753](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1670&end=1753)
 

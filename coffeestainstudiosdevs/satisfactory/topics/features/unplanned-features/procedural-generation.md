@@ -50,5 +50,5 @@ date: Last Modified
 * [Q&A: Why did you choose manual level creation instead of procedural?](../../../transcriptions/yt-CB9bSigNYH8,1613.3666666666666,1641.774875.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1613&end=1642](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1613&end=1642)
 * [Q&A: Why is the world not randomly generated?](../../../transcriptions/yt-CB9bSigNYH8,3445.663578,3480.212684.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3445&end=3481](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3445&end=3481)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Is the Map procedurally generated?](../../../transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)

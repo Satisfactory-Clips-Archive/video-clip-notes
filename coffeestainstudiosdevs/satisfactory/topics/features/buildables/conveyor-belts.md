@@ -114,7 +114,7 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Q&A: What do you think about Splitters that can split a certain percentage of the Belts?](../../../transcriptions/yt-GiOZBqdfrAQ.md) [https://www.youtube.com/watch?v=GiOZBqdfrAQ](https://www.youtube.com/watch?v=GiOZBqdfrAQ)
 
-## May 14th, 2019 Livestream
+## May 14th, 2019 Video
 * [Jace Talk: Conveyor Lifts](../../../transcriptions/yt-aceacdNX9WA,69.676137,85.946572.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=69&end=86](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=69&end=86)
 
 ## March 9th, 2019 Livestream
@@ -132,7 +132,7 @@ date: Last Modified
 * [Q&A: Any plans for bots or other means of transport other than Belts & Trains?](../../../transcriptions/yt-Dtm6xIj-wM4,1016.1,1052.477074.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1016&end=1053](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1016&end=1053)
 * [Q&A: How big can you make your factory?](../../../transcriptions/yt-Dtm6xIj-wM4,2023.082962,2168.340922.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2023&end=2169](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2023&end=2169)
 
-## November 8th, 2018 Livestream
+## November 8th, 2018 Dev Blog
 * [Powering up a Miner](../../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164)
 * [Reinforced Iron Plates being created](../../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569)
 * [Smelting Iron](../../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275)
@@ -140,5 +140,5 @@ date: Last Modified
 * [Using Iron Ingots to eventually make Screws](../../../transcriptions/yt-J_Dznt1OG-0,274.440833,365.9656.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366)
 * [Using Iron Ingots to make Iron Plates](../../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516)
 
-## August 1st, 2017 Livestream
+## August 1st, 2017 Tutorial
 * [Jace Talk: Conveyor Belts](../../../transcriptions/yt-ZW0OOikcWN0,1014.32,1088.48.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1014&end=1089](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1014&end=1089)

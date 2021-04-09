@@ -140,7 +140,7 @@ date: Last Modified
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers [https://clips.twitch.tv/RealPrettiestKoalaBloodTrail](https://clips.twitch.tv/RealPrettiestKoalaBloodTrail)
 * Q&A: What's the hold-up on Dedicated Servers? [https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride](https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride)
 
-## July 30th, 2020 Livestream
+## July 30th, 2020 Q&A
 * [Q&A: Dedicated Servers when?](../../../transcriptions/yt-1dUNmBBbExs,73.73333333333333,88.2.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89)
 * [Q&A: Will Dedicated Servers be part of Update 4?](../../../transcriptions/yt-1dUNmBBbExs,88.2,101.20356.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=88&end=102](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=88&end=102)
 
@@ -165,7 +165,7 @@ date: Last Modified
 * [Q&A: Will the Dedicated Servers have some sort of permissions system?](../../../transcriptions/yt-h6mpSh0JH5o.md) [https://www.youtube.com/watch?v=h6mpSh0JH5o](https://www.youtube.com/watch?v=h6mpSh0JH5o)
 * [Q&A: Will we need to buy a new copy for the server?](../../../transcriptions/yt-H6FZ4VqocHw.md) [https://www.youtube.com/watch?v=H6FZ4VqocHw](https://www.youtube.com/watch?v=H6FZ4VqocHw)
 
-## March 15th, 2019 Livestream
+## March 15th, 2019 Q&A
 * [Q&A: Any ETA on Dedicated Servers?](../../../transcriptions/yt-R0S19_caQuw,433.1,447.14.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448)
 * [Q&A: Please, please, please make a Linux based dedicated server that can run headless.](../../../transcriptions/yt-R0S19_caQuw,403.32,412.34.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413)
 
@@ -176,5 +176,5 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * [Q&A: What's the possibility of Dedicated Servers?](../../../transcriptions/yt-Dtm6xIj-wM4,718.308644,808.471513.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Jace Talk: General multiplayer questions](../../../transcriptions/yt-W1E6EWrAsII,256.8,316.92.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317)

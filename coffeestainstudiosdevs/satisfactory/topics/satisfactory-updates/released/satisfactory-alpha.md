@@ -20,7 +20,7 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: Alpha Keys, when ?](../../../transcriptions/yt-Kuj7AhSysV8.md) [https://www.youtube.com/watch?v=Kuj7AhSysV8](https://www.youtube.com/watch?v=Kuj7AhSysV8)
 
-## March 15th, 2019 Livestream
+## March 15th, 2019 Q&A
 * [Q&A: Why don't I have a beta key?](../../../transcriptions/yt-R0S19_caQuw,378.46,384.72.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=378&end=385](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=378&end=385)
 * [Q&A: You guys fixed the M.A.M. hard drive crash yet?](../../../transcriptions/yt-R0S19_caQuw,412.34,415.66.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=412&end=416](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=412&end=416)
 
@@ -32,7 +32,7 @@ date: Last Modified
 * [Q&A: Is the Early Access version the same version Alpha Testers have?](../../../transcriptions/yt-bnUTeUn6TA4.md) [https://www.youtube.com/watch?v=bnUTeUn6TA4](https://www.youtube.com/watch?v=bnUTeUn6TA4)
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../../../transcriptions/yt-Pn5tcfKmF20.md) [https://www.youtube.com/watch?v=Pn5tcfKmF20](https://www.youtube.com/watch?v=Pn5tcfKmF20)
 
-## March 7th, 2019 Livestream
+## March 7th, 2019 Q&A
 * [Q&A: Alpha test weekend?](../../../transcriptions/yt-VHr4x1vNeoY,117.14,195.46.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=117&end=196](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=117&end=196)
 * [Q&A: How many people signed up for the Alpha?](../../../transcriptions/yt-VHr4x1vNeoY,244.9,302.5.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=244&end=303](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=244&end=303)
 
@@ -58,7 +58,7 @@ date: Last Modified
 * [Q&A: Release date?](../../../transcriptions/yt-Dtm6xIj-wM4,280.42817,354.60912.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355)
 * [Q&A: Will there be a Founder's pack with Alpha Access?](../../../transcriptions/yt-Dtm6xIj-wM4,1861.372808,1872.81796.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1861&end=1873](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1861&end=1873)
 
-## November 8th, 2018 Livestream
+## November 8th, 2018 Dev Blog
 * [Powering up a Miner](../../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164)
 * [Reinforced Iron Plates being created](../../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569)
 * [Smelting Iron](../../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275)
@@ -66,7 +66,7 @@ date: Last Modified
 * [Using Iron Ingots to eventually make Screws](../../../transcriptions/yt-J_Dznt1OG-0,274.440833,365.9656.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366)
 * [Using Iron Ingots to make Iron Plates](../../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516)
 
-## October 3rd, 2018 Livestream
+## October 3rd, 2018 Alpha Info
 * [Q&A: But what if I still don't get an alpha key?](../../../transcriptions/yt-1OQk7vNt6-0,84.52,92.08.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=84&end=93](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=84&end=93)
 * [Q&A: How long will the Alpha last?](../../../transcriptions/yt-1OQk7vNt6-0,92.08,102.64.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=92&end=103](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=92&end=103)
 * [Q&A: How many people will be selected for the Alpha?](../../../transcriptions/yt-1OQk7vNt6-0,28.38,84.52.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=28&end=85](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=28&end=85)
@@ -77,13 +77,13 @@ date: Last Modified
 * [Q&A: Will the Alpha be single-player or multiplayer?](../../../transcriptions/yt-1OQk7vNt6-0,147.1,196.48.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=147&end=197](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=147&end=197)
 * [Q&A: Will there be an NDA?](../../../transcriptions/yt-1OQk7vNt6-0,233.42,261.62.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=233&end=262](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=233&end=262)
 
-## September 12th, 2018 Livestream
+## September 12th, 2018 Alpha Info
 * [Alpha's content focus](../../../transcriptions/yt-31XJ1Q_glAw,96.88,169.44.md) [https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170](https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170)
 * [Alpha launch date](../../../transcriptions/yt-31XJ1Q_glAw,76.44,96.88.md) [https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=76&end=97](https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=76&end=97)
 * [pushing the Alpha back](../../../transcriptions/yt-31XJ1Q_glAw,33.2,76.44.md) [https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=33&end=77](https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=33&end=77)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * Q&A: Any more news on the alpha? Can we pay to get in? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=68&end=73](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=68&end=73)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: How many Alpha Keys will there be?](../../../transcriptions/yt-W1E6EWrAsII,238.12,256.8.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=238&end=257](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=238&end=257)

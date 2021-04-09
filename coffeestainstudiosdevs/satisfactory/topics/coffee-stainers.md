@@ -76,10 +76,10 @@ date: Last Modified
 ## December 15th, 2020 Livestream
 * [Q&A: Do you guys crunch or do you actually care about stuff like health?](../transcriptions/yt-Ev8CEXznWsE.md) [https://www.youtube.com/watch?v=Ev8CEXznWsE](https://www.youtube.com/watch?v=Ev8CEXznWsE)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Outro](../transcriptions/yt-njXBs_p2l1w,713.1457666666666,757.1897666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Q&A: So what is a "Technical Artist"? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=26&end=88](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=26&end=88)
 
 ## October 9th, 2020 Livestream
@@ -94,7 +94,7 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Q&A: Do you have a QA department? [https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull](https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull)
 
-## July 8th, 2020 Livestream
+## July 8th, 2020 Mod Highlight
 * [Community FYI: You guys helped us a lot in making mods](../transcriptions/yt-1dUNmBBbExs,2393.307296,2438.703271.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439)
 
 ## March 24th, 2020 Livestream
@@ -112,7 +112,7 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [State of Dev: Biggest thing that's going on in the office right now.](../transcriptions/yt--HN8rUEaVwY.md) [https://www.youtube.com/watch?v=-HN8rUEaVwY](https://www.youtube.com/watch?v=-HN8rUEaVwY)
 
-## June 7th, 2019 Livestream
+## June 7th, 2019 Video
 * [Jace Talk: Coffee Stain's trepidation over Satisfactory launch](../transcriptions/yt-RvKmQs6m_iY,120.22,229.36.md) [https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=120&end=230](https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=120&end=230)
 
 ## March 9th, 2019 Livestream

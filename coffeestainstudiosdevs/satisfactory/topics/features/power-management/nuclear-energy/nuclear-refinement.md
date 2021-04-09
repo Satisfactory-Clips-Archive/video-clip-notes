@@ -11,7 +11,7 @@ date: Last Modified
 ## March 30th, 2021 Livestream
 * [State of Dev: Sinking Plutonium Fuel Rods](../../../../transcriptions/yt-W6AUplMo7J4.md) [https://www.youtube.com/watch?v=W6AUplMo7J4](https://www.youtube.com/watch?v=W6AUplMo7J4)
 
-## March 26th, 2021 Livestream
+## March 26th, 2021 Video
 * [Snutt Talk: Sinking Plutonium Fuel Rods](../../../../transcriptions/yt-jmrABq4cCzY,123.75,206.375.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=123&end=207](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=123&end=207)
 
 ## March 23rd, 2021 Livestream

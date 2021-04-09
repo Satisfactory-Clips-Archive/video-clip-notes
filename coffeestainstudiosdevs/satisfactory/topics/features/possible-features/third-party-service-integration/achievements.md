@@ -19,5 +19,5 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * [Q&A: Achievements?](../../../../transcriptions/yt-G8K0Bjs8mNo.md) [https://www.youtube.com/watch?v=G8K0Bjs8mNo](https://www.youtube.com/watch?v=G8K0Bjs8mNo)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: Will there be Steam achievements?](../../../../transcriptions/yt-iFAy1NZUOGU,119.72,131.28.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132)

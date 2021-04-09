@@ -35,7 +35,7 @@ date: Last Modified
 * [Q&A: Any plans for Blueprint mode?](../../transcriptions/yt-tJSLxVZ-sFg.md) [https://www.youtube.com/watch?v=tJSLxVZ-sFg](https://www.youtube.com/watch?v=tJSLxVZ-sFg)
 * [Q&A: Where did the idea of making power producers produce 100% regardless of consumption come from?](../../transcriptions/yt-Ws0Q7X1Twx0.md) [https://www.youtube.com/watch?v=Ws0Q7X1Twx0](https://www.youtube.com/watch?v=Ws0Q7X1Twx0)
 
-## February 19th, 2021 Livestream
+## February 19th, 2021 Video
 * [Self Regulation of Power Generators being removed](../../transcriptions/yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267)
 
 ## February 16th, 2021 Livestream

@@ -21,7 +21,7 @@ date: Last Modified
 * [Q&A: Can we still skip the Nuclear part for Energy Production?](../../../transcriptions/yt-Are7eJK9iKk.md) [https://www.youtube.com/watch?v=Are7eJK9iKk](https://www.youtube.com/watch?v=Are7eJK9iKk)
 * [Q&A: Do we have to worry about Nuclear Power Plants too in Update 4?](../../../transcriptions/yt-Y8Ib5zlOzKI.md) [https://www.youtube.com/watch?v=Y8Ib5zlOzKI](https://www.youtube.com/watch?v=Y8Ib5zlOzKI)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Plutonium Waste](../../../transcriptions/yt-njXBs_p2l1w,333.23290000000003,443.557086.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444)
 
 ## November 10th, 2020 Livestream

@@ -34,13 +34,13 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Snutt Talk: Disclaimer regarding changes in communicating Updates (Update 2 & 3 vs. Update 4)](../../../transcriptions/yt-avsSNP2oO-Y.md) [https://www.youtube.com/watch?v=avsSNP2oO-Y](https://www.youtube.com/watch?v=avsSNP2oO-Y)
 
-## January 15th, 2021 Livestream
+## January 15th, 2021 Video
 * [Intro](../../../transcriptions/yt-Jxh8kvtUuxY,,46.3463.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47)
 
 ## December 8th, 2020 Livestream
 * [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../../transcriptions/yt-42AzC9Qk2yc.md) [https://www.youtube.com/watch?v=42AzC9Qk2yc](https://www.youtube.com/watch?v=42AzC9Qk2yc)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=400&end=640](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=400&end=640)
 * Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 4) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=881&end=975](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=881&end=975)
 

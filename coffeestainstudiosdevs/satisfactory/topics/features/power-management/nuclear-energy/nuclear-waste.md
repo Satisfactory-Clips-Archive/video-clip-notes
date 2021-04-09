@@ -31,7 +31,7 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Can we remove Nuclear Waste from the Doggo loot list?](../../../../transcriptions/yt-x2qXm_DXJEw.md) [https://www.youtube.com/watch?v=x2qXm_DXJEw](https://www.youtube.com/watch?v=x2qXm_DXJEw)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Plutonium Waste](../../../../transcriptions/yt-njXBs_p2l1w,333.23290000000003,443.557086.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444)
 
 ## December 1st, 2020 Livestream

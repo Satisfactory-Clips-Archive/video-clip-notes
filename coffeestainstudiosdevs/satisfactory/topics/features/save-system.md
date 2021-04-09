@@ -40,7 +40,7 @@ date: Last Modified
 ## November 17th, 2020 Livestream
 * [Q&A: Is there any Official Mod Support planned?](../../transcriptions/yt-z4Uv-UNMETw.md) [https://www.youtube.com/watch?v=z4Uv-UNMETw](https://www.youtube.com/watch?v=z4Uv-UNMETw)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Ben & Jace Talk: Level Streaming [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1212&end=1385](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1212&end=1385)
 
 ## November 3rd, 2020 Livestream
@@ -62,7 +62,7 @@ date: Last Modified
 ## May 19th, 2020 Livestream
 * [Snutt & Gafgar Talk: Zombie Pioneers](../../transcriptions/yt-90rAQ31MQPI.md) [https://www.youtube.com/watch?v=90rAQ31MQPI](https://www.youtube.com/watch?v=90rAQ31MQPI)
 
-## March 15th, 2019 Livestream
+## March 15th, 2019 Q&A
 * [Q&A: Will our Alpha Test save files still work?](../../transcriptions/yt-R0S19_caQuw,86.32,144.32.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=86&end=145](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=86&end=145)
 
 ## February 6th, 2019 Livestream

@@ -77,7 +77,7 @@ date: Last Modified
 * Snutt Talk: We do these streams every week [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15421&end=15450](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15421&end=15450)
 * Snutt & Jace Talk: What do we do for the last 7 minutes? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13981&end=14015](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13981&end=14015)
 
-## March 12th, 2021 Livestream
+## March 12th, 2021 Video
 * Jace is going on an extended break [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100)
 
 ## March 9th, 2021 Livestream
@@ -151,7 +151,7 @@ date: Last Modified
 ## December 15th, 2020 Livestream
 * [Snutt Talk: Jace is a dedicated boi](../../transcriptions/yt-Lx8cCt-jNJQ.md) [https://www.youtube.com/watch?v=Lx8cCt-jNJQ](https://www.youtube.com/watch?v=Lx8cCt-jNJQ)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Coffee Stain R&D Factory](../../transcriptions/yt-njXBs_p2l1w,124.9248,154.154.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155)
 * [Packaged Alumina Solution & Packaged Sulphuric Acid](../../transcriptions/yt-njXBs_p2l1w,154.154,245.57866666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246)
 
@@ -169,7 +169,7 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Q&A: New Apartment? [https://clips.twitch.tv/CorrectAdorableDinosaurWoofer](https://clips.twitch.tv/CorrectAdorableDinosaurWoofer)
 
-## July 8th, 2020 Livestream
+## July 8th, 2020 Mod Highlight
 * [Q&A: What is your favourite Mod?](../../transcriptions/yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
 
 ## June 8th, 2020 Livestream
@@ -202,7 +202,7 @@ date: Last Modified
 * [Q&A: What is the job of Community Managers?](../../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
 * [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../transcriptions/yt-krQI-cHEAl8.md) [https://www.youtube.com/watch?v=krQI-cHEAl8](https://www.youtube.com/watch?v=krQI-cHEAl8)
 
-## April 26th, 2019 Livestream
+## April 26th, 2019 Milo Tutorial
 * [Jace Talk: Milo tutorial](../../transcriptions/yt--eBlSsTmUSE,23.92,167.8.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168)
 
 ## March 9th, 2019 Livestream
@@ -230,19 +230,19 @@ date: Last Modified
 * Q&A: What is wrong with your face? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=271&end=279](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=271&end=279)
 * Q&A: Why is Jace the PR? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=371&end=379](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=371&end=379)
 
-## December 25th, 2018 Livestream
+## December 25th, 2018 Video
 * [Intro](../../transcriptions/yt-S_AKfh38880,,73.8.md) [https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74](https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74)
 
-## November 23rd, 2018 Livestream
+## November 23rd, 2018 Dev Blog
 * [Intro](../../transcriptions/yt-1UqIDp_byFc,,36.12.md) [https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=0&end=37](https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=0&end=37)
 * [Jace's opinion re: THQ Nordic](../../transcriptions/yt-1UqIDp_byFc,174.32,248.62.md) [https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=174&end=249](https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=174&end=249)
 
-## July 19th, 2018 Livestream
+## July 19th, 2018 Dev Blog
 * End Tag [https://www.youtube.com/watch?v=yt-IxoCzb2M0vQ%2C562.24](https://www.youtube.com/watch?v=yt-IxoCzb2M0vQ%2C562.24)
 
-## March 9th, 2018 Livestream
+## March 9th, 2018 Q&A
 * [Q&A: Coffee or tea?](../../transcriptions/yt-Zo2ybvs7keI,492.44,502.32.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503)
 
-## November 17th, 2017 Livestream
+## November 17th, 2017 Introduction
 * [How can we be friends if you know nothing about me?](../../transcriptions/yt-6HZzPbgw3pg,72.16,127.08.md) [https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=72&end=128](https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=72&end=128)
 * [Why would we need a Community Manager now?](../../transcriptions/yt-6HZzPbgw3pg,127.08,170.16.md) [https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171](https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171)

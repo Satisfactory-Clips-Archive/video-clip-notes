@@ -88,7 +88,7 @@ date: Last Modified
 * [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](../../transcriptions/yt-IFxnvuYEVtk.md) [https://www.youtube.com/watch?v=IFxnvuYEVtk](https://www.youtube.com/watch?v=IFxnvuYEVtk)
 * [Q&A: Will the dark areas of the Map open up soon?](../../transcriptions/yt-MTkj1xIXfhw.md) [https://www.youtube.com/watch?v=MTkj1xIXfhw](https://www.youtube.com/watch?v=MTkj1xIXfhw)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Ben & Jace Talk: Level Streaming [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1212&end=1385](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1212&end=1385)
 
 ## November 3rd, 2020 Livestream
@@ -184,7 +184,7 @@ date: Last Modified
 * [Q&A: Will there be larger underground spaces?](../../transcriptions/yt-cuGHH7KF9BI.md) [https://www.youtube.com/watch?v=cuGHH7KF9BI](https://www.youtube.com/watch?v=cuGHH7KF9BI)
 * Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
 
-## May 14th, 2019 Livestream
+## May 14th, 2019 Video
 * [Jace Talk: We've added a Map & Radar Towers](../../transcriptions/yt-aceacdNX9WA,96.095281,109.183564.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110)
 
 ## March 9th, 2019 Livestream
@@ -239,18 +239,18 @@ date: Last Modified
 * [Q&A: What is Hannah's favourite place on the map?](../../transcriptions/yt-Dtm6xIj-wM4,3077.540411,3122.625483.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3077&end=3123](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3077&end=3123)
 * [Q&A: Will there be underground/subterranean areas of the map?](../../transcriptions/yt-Dtm6xIj-wM4,1268.770686,1276.953399.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1268&end=1277](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1268&end=1277)
 
-## October 3rd, 2018 Livestream
+## October 3rd, 2018 Alpha Info
 * [Q&A: Will all the tech* be available in the alpha?](../../transcriptions/yt-1OQk7vNt6-0,196.48,233.42.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234)
 
-## September 12th, 2018 Livestream
+## September 12th, 2018 Alpha Info
 * [Alpha's content focus](../../transcriptions/yt-31XJ1Q_glAw,96.88,169.44.md) [https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170](https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: Won't the factory stop working if you're really far away?](../../transcriptions/yt-iFAy1NZUOGU,170.36,188.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=170&end=189](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=170&end=189)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Is the Map procedurally generated?](../../transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
 * [Q&A: Is there a height limit in the game?](../../transcriptions/yt-W1E6EWrAsII,434.4,492.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=434&end=493](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=434&end=493)
 
-## August 1st, 2017 Livestream
+## August 1st, 2017 Tutorial
 * [Jace Talk: Exploration](../../transcriptions/yt-ZW0OOikcWN0,1217.6,1294.516063.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1217&end=1295](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1217&end=1295)

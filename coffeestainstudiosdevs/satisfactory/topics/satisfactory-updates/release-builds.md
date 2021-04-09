@@ -17,7 +17,7 @@ date: Last Modified
 * [State of Dev: Update 4 on Experimental](../../transcriptions/yt-kL9Cpd23mH0.md) [https://www.youtube.com/watch?v=kL9Cpd23mH0](https://www.youtube.com/watch?v=kL9Cpd23mH0)
 * [Q&A: When will the Update come to the stable client?](../../transcriptions/yt-qPw6GNV42QI.md) [https://www.youtube.com/watch?v=qPw6GNV42QI](https://www.youtube.com/watch?v=qPw6GNV42QI)
 
-## March 26th, 2021 Livestream
+## March 26th, 2021 Video
 * [Snutt Talk: Accessing the Experimental Branch](../../transcriptions/yt-jmrABq4cCzY,67.75,92.66666666666667.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93)
 
 ## March 23rd, 2021 Livestream

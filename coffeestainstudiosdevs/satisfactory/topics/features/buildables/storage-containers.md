@@ -38,6 +38,6 @@ date: Last Modified
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../../../transcriptions/yt-3gFgrVEkOpc.md) [https://www.youtube.com/watch?v=3gFgrVEkOpc](https://www.youtube.com/watch?v=3gFgrVEkOpc)
 * [Snutt Talk: Storage Containers](../../../transcriptions/yt-oQfZtyxDIrE.md) [https://www.youtube.com/watch?v=oQfZtyxDIrE](https://www.youtube.com/watch?v=oQfZtyxDIrE)
 
-## November 8th, 2018 Livestream
+## November 8th, 2018 Dev Blog
 * [Reinforced Iron Plates being created](../../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569)
 * [Storing some items for later](../../../transcriptions/yt-J_Dznt1OG-0,568.31775,885.815429.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886)

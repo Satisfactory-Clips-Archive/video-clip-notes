@@ -43,7 +43,7 @@ date: Last Modified
 * [Q&A: Will we have different voltage-rated Power Lines in Update 4?](../../transcriptions/yt-9u3U07NNrHM.md) [https://www.youtube.com/watch?v=9u3U07NNrHM](https://www.youtube.com/watch?v=9u3U07NNrHM)
 * [Q&A: Will you be expanding on how Power works in Update 4?](../../transcriptions/yt-m8v8TVvDSeY.md) [https://www.youtube.com/watch?v=m8v8TVvDSeY](https://www.youtube.com/watch?v=m8v8TVvDSeY)
 
-## February 19th, 2021 Livestream
+## February 19th, 2021 Video
 * [Intro](../../transcriptions/yt-Tmpors_r_Vw,,26.259566666666668.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27)
 * [Power Storage](../../transcriptions/yt-Tmpors_r_Vw,78.078,138.50503333333333.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139)
 * [Power Switch](../../transcriptions/yt-Tmpors_r_Vw,26.259566666666668,78.078.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=26&end=79](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=26&end=79)
@@ -52,7 +52,7 @@ date: Last Modified
 ## February 9th, 2021 Livestream
 * [Community FYI: There's a Mod called the "Smart!" mod, that makes basic building less time consuming](../../transcriptions/yt-0e_pXEulvY8.md) [https://www.youtube.com/watch?v=0e_pXEulvY8](https://www.youtube.com/watch?v=0e_pXEulvY8)
 
-## February 5th, 2021 Livestream
+## February 5th, 2021 Video
 * [UI Change - Power Management](../../transcriptions/yt-rI5kRMSwo5Q,286.05243333333334,330.36336666666665.md) [https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=286&end=331](https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=286&end=331)
 
 ## January 19th, 2021 Livestream
@@ -68,7 +68,7 @@ date: Last Modified
 * [Q&A: Will you change Geothermal Generators?](../../transcriptions/yt-MmCfcNv8F8o.md) [https://www.youtube.com/watch?v=MmCfcNv8F8o](https://www.youtube.com/watch?v=MmCfcNv8F8o)
 * [Q&A: With the introducion of Gas, will Coal Generators be split into two buildings?](../../transcriptions/yt-vsmihiP_Tmg.md) [https://www.youtube.com/watch?v=vsmihiP_Tmg](https://www.youtube.com/watch?v=vsmihiP_Tmg)
 
-## January 15th, 2021 Livestream
+## January 15th, 2021 Video
 * [Q&A: What will Gases be used for?](../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188)
 
 ## December 15th, 2020 Livestream
@@ -146,10 +146,10 @@ date: Last Modified
 ## February 20th, 2019 Livestream
 * [Q&A: Will the machinery still work if I'm not loading that particular tile?](../../transcriptions/yt-CB9bSigNYH8,2465.233333333333,2488.648026.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2465&end=2489](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2465&end=2489)
 
-## November 8th, 2018 Livestream
+## November 8th, 2018 Dev Blog
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164)
 * [Smelting Iron](../../transcriptions/yt-J_Dznt1OG-0,163.34651666666667,274.440833.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=163&end=275)
 
-## August 1st, 2017 Livestream
+## August 1st, 2017 Tutorial
 * [Jace Talk: Expanding a Power Grid](../../transcriptions/yt-ZW0OOikcWN0,866,968.818506.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=866&end=969](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=866&end=969)
 * [Jace Talk: Supplying Power](../../transcriptions/yt-ZW0OOikcWN0,651.16,747.08.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=651&end=748](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=651&end=748)

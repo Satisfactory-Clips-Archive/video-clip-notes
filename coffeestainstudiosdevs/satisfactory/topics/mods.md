@@ -135,7 +135,7 @@ date: Last Modified
 * [Q&A: Plans for mod support?](../transcriptions/yt-iOk7KMpNMEo.md) [https://www.youtube.com/watch?v=iOk7KMpNMEo](https://www.youtube.com/watch?v=iOk7KMpNMEo)
 * Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? [https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc](https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc)
 
-## July 8th, 2020 Livestream
+## July 8th, 2020 Mod Highlight
 * [Snutt & Jace Talk: Gameplay impact of mods](../transcriptions/yt-1dUNmBBbExs,2489.595532,2527.913164.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2489&end=2528](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2489&end=2528)
 * [Snutt Talk: How unofficial mods work (Part 1)](../transcriptions/yt-1dUNmBBbExs,158.1,644.481447.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=158&end=645](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=158&end=645)
 * [Snutt Talk: How unofficial mods work (Part 2)](../transcriptions/yt-1dUNmBBbExs,3101.8333333333335,3224.978273.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3101&end=3225](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3101&end=3225)

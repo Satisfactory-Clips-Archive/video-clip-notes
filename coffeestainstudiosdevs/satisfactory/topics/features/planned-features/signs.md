@@ -44,7 +44,7 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Q&A: Signs & Planets [https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo](https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo)
 
-## July 8th, 2020 Livestream
+## July 8th, 2020 Mod Highlight
 * [Q&A: When are we getting Signs?](../../../transcriptions/yt-1dUNmBBbExs,1744.09797,1753.629628.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754)
 
 ## June 8th, 2020 Livestream

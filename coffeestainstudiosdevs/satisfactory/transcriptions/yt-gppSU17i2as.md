@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=gppSU17i2as
 * August 18th, 2020 Livestream Q&A: Is 1.0 the end of the game or will it be expanded? [https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace](https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace)
 * [January 22nd, 2020 Livestream Q&A: Will there be DLC after 1.0?](./yt-FHqvzjGbhvg.md) [https://www.youtube.com/watch?v=FHqvzjGbhvg](https://www.youtube.com/watch?v=FHqvzjGbhvg)
 * [February 6th, 2019 Livestream Q&A: Are there going to be free updates after the game is released, or is it all going to be DLCs?](./yt-Dtm6xIj-wM4,1550.571925,1573.58823.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574)
-* [June 22nd, 2018 Livestream Q&A: Plans for post-launch?](./yt-W1E6EWrAsII,120.52,176.6.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177)
+* [June 22nd, 2018 Q&A: Plans for post-launch?](./yt-W1E6EWrAsII,120.52,176.6.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177)
 </details>
 
 

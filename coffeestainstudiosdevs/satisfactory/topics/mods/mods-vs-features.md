@@ -88,7 +88,7 @@ date: Last Modified
 * Mods vs. Features (Part 1) [https://clips.twitch.tv/ElegantKindPrariedogGrammarKing](https://clips.twitch.tv/ElegantKindPrariedogGrammarKing)
 * Mods vs. Features (Part 2) [https://clips.twitch.tv/NimbleFurryDumplingsBudBlast](https://clips.twitch.tv/NimbleFurryDumplingsBudBlast)
 
-## July 8th, 2020 Livestream
+## July 8th, 2020 Mod Highlight
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game [https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis](https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis)
 
 ## June 8th, 2020 Livestream

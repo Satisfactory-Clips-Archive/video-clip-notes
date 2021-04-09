@@ -93,7 +93,7 @@ date: Last Modified
 ## July 21st, 2020 Livestream
 * Q&A: Why no mass building? [https://clips.twitch.tv/SoftBovineArmadilloNerfRedBlaster](https://clips.twitch.tv/SoftBovineArmadilloNerfRedBlaster)
 
-## July 8th, 2020 Livestream
+## July 8th, 2020 Mod Highlight
 * Snutt & Jace Talk: not adding mass building tools into the vanilla game [https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis](https://clips.twitch.tv/NimbleAgitatedPeanutNotLikeThis)
 
 ## June 8th, 2020 Livestream

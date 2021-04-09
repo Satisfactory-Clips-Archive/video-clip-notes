@@ -38,8 +38,8 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * [Q&A: Where does the sense of humour/memes come from?](../../transcriptions/yt-Dtm6xIj-wM4,3734.266666666667,3823.743738.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Plans for post-launch?](../../transcriptions/yt-W1E6EWrAsII,120.52,176.6.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177)
 
-## March 9th, 2018 Livestream
+## March 9th, 2018 Q&A
 * [Q&A: Are the first two letters of your next game's title really "Sa" ?](../../transcriptions/yt-Zo2ybvs7keI,344.96,382.8.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383)

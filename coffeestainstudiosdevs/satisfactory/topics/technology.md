@@ -24,7 +24,7 @@ date: Last Modified
 ## February 2nd, 2021 Livestream
 * [Q&A: Is it worth upgrading RAM from 16gb to 32gb for Satisfactory?](../transcriptions/yt-v21Dz1EfRPE.md) [https://www.youtube.com/watch?v=v21Dz1EfRPE](https://www.youtube.com/watch?v=v21Dz1EfRPE)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Q&A: If you were to decide what area of the game to optimise, how do you decide what to do? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1384&end=1501](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1384&end=1501)
 
 ## October 9th, 2020 Livestream
@@ -46,7 +46,7 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Will we ever have proper multi-core support?](../transcriptions/yt-08PQFXaEac8.md) [https://www.youtube.com/watch?v=08PQFXaEac8](https://www.youtube.com/watch?v=08PQFXaEac8)
 
-## March 7th, 2019 Livestream
+## March 7th, 2019 Q&A
 * [Q&A: The minimum system requirements are kinda high... Why?](../transcriptions/yt-VHr4x1vNeoY,354.4,375.68.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=354&end=376](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=354&end=376)
 
 ## February 20th, 2019 Livestream

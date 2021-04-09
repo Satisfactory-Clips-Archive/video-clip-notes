@@ -11,7 +11,7 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Will it package Sulfuric Acid or Aluminum Solution?
 https://www.youtube.com/watch?v=dflSu8N23a8
-This question was possibly replaced with a more recent answer: [December 11th, 2020 Livestream Packaged Alumina Solution & Packaged Sulphuric Acid](./yt-njXBs_p2l1w,154.154,245.57866666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246)
+This question was possibly replaced with a more recent answer: [December 11th, 2020 Teasers Packaged Alumina Solution & Packaged Sulphuric Acid](./yt-njXBs_p2l1w,154.154,245.57866666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246)
 
 
 ### Topics

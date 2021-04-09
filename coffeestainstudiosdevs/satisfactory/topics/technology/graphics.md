@@ -69,7 +69,7 @@ date: Last Modified
 * [Jace Talk: Encased Conveyor Belts](../../transcriptions/yt-xT-2uWvm3iw.md) [https://www.youtube.com/watch?v=xT-2uWvm3iw](https://www.youtube.com/watch?v=xT-2uWvm3iw)
 * [Q&A: Is it true that building vertically equals worse performance than building horizontally?](../../transcriptions/yt-BF0MYqw_SpM.md) [https://www.youtube.com/watch?v=BF0MYqw_SpM](https://www.youtube.com/watch?v=BF0MYqw_SpM)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Ben & Jace Talk: Factory Render Distance [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1137&end=1172](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1137&end=1172)
 * Ben & Jace Talk: Fancy Caustics [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=312&end=340](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=312&end=340)
 * Q&A: If you were to decide what area of the game to optimise, how do you decide what to do? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1384&end=1501](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1384&end=1501)
@@ -144,7 +144,7 @@ date: Last Modified
 * [Q&A: Deactivate Fog parameter?](../../transcriptions/yt-2H_QouHUoBQ.md) [https://www.youtube.com/watch?v=2H_QouHUoBQ](https://www.youtube.com/watch?v=2H_QouHUoBQ)
 * [Q&A: What does Performance Budget mean?](../../transcriptions/yt-qg27gPorXB4.md) [https://www.youtube.com/watch?v=qg27gPorXB4](https://www.youtube.com/watch?v=qg27gPorXB4)
 
-## April 30th, 2020 Livestream
+## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: Different ambient effects for different Biomes](../../transcriptions/yt-mci92Mhr7MM,608.793576,697.5301666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698)
 * [Simon & Jace Talk: Modifying VFX](../../transcriptions/yt-mci92Mhr7MM,947.2796666666667,1092.0910000000001.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=947&end=1093](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=947&end=1093)
 * [Simon & Jace Talk: VFX for ambient effects](../../transcriptions/yt-mci92Mhr7MM,425.240567,608.793576.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=425&end=609](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=425&end=609)

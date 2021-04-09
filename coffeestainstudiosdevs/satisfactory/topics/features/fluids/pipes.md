@@ -29,7 +29,7 @@ date: Last Modified
 * [Q&A: Is this modded because the foundations are glitching into the Power Plant?](../../../transcriptions/yt-03J8nqdJCtY.md) [https://www.youtube.com/watch?v=03J8nqdJCtY](https://www.youtube.com/watch?v=03J8nqdJCtY)
 * [Q&A: Will Gas Pipes have Headlift or Valves?](../../../transcriptions/yt-Zd9lUkAlJrk.md) [https://www.youtube.com/watch?v=Zd9lUkAlJrk](https://www.youtube.com/watch?v=Zd9lUkAlJrk)
 
-## January 15th, 2021 Livestream
+## January 15th, 2021 Video
 * [Headlift for Gases](../../../transcriptions/yt-Jxh8kvtUuxY,100.56713333333333,136.00253333333333.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137)
 
 ## December 15th, 2020 Livestream
@@ -46,7 +46,7 @@ date: Last Modified
 * [Q&A: Do you plan on letting us put Pipe Splitters on top of Belt Splitters & Mergers?](../../../transcriptions/yt-SJI1puC2mEw.md) [https://www.youtube.com/watch?v=SJI1puC2mEw](https://www.youtube.com/watch?v=SJI1puC2mEw)
 * [Q&A: Who in Coffee Stain Studios is the best Factory Builder?](../../../transcriptions/yt-ypN9OtMd7YU.md) [https://www.youtube.com/watch?v=ypN9OtMd7YU](https://www.youtube.com/watch?v=ypN9OtMd7YU)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 3) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=738&end=882](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=738&end=882)
 
 ## October 27th, 2020 Livestream
@@ -107,5 +107,5 @@ date: Last Modified
 * Q&A: Pipes? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=278&end=281](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=278&end=281)
 * Q&A: Pipes? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: But... will there be Pipes?](../../../transcriptions/yt-iFAy1NZUOGU,275.24,323.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324)

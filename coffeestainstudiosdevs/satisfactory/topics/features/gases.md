@@ -21,7 +21,7 @@ date: Last Modified
 * [Q&A: Are you able to confirm what resources can be pulled using the Resource Well Extractor?](../../transcriptions/yt-vlDuVpHyfVs.md) [https://www.youtube.com/watch?v=vlDuVpHyfVs](https://www.youtube.com/watch?v=vlDuVpHyfVs)
 * [Q&A: How do Gas Extractors work with Multiplayer fart emotes to increase Gas production?](../../transcriptions/yt-Lv_BZl7rgOE.md) [https://www.youtube.com/watch?v=Lv_BZl7rgOE](https://www.youtube.com/watch?v=Lv_BZl7rgOE)
 
-## February 5th, 2021 Livestream
+## February 5th, 2021 Video
 * [Nitrogen Gas Resource Well](../../transcriptions/yt-rI5kRMSwo5Q,330.36336666666665,499.6992.md) [https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500](https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500)
 
 ## February 2nd, 2021 Livestream
@@ -42,7 +42,7 @@ date: Last Modified
 * [Q&A: Will you have specialised Gas Buffers?](../../transcriptions/yt-IumWTbZtoWo.md) [https://www.youtube.com/watch?v=IumWTbZtoWo](https://www.youtube.com/watch?v=IumWTbZtoWo)
 * [Q&A: With the introducion of Gas, will Coal Generators be split into two buildings?](../../transcriptions/yt-vsmihiP_Tmg.md) [https://www.youtube.com/watch?v=vsmihiP_Tmg](https://www.youtube.com/watch?v=vsmihiP_Tmg)
 
-## January 15th, 2021 Livestream
+## January 15th, 2021 Video
 * [Headlift for Gases](../../transcriptions/yt-Jxh8kvtUuxY,100.56713333333333,136.00253333333333.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137)
 * [Intro](../../transcriptions/yt-Jxh8kvtUuxY,,46.3463.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47)
 * [Nitrogen](../../transcriptions/yt-Jxh8kvtUuxY,46.3463,56.38966666666667.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=46&end=57](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=46&end=57)

@@ -14,7 +14,7 @@ date: Last Modified
 * [State of Dev: Update 4 Launch & Rebalancing changes](../../../transcriptions/yt-9RYf2b20JcQ.md) [https://www.youtube.com/watch?v=9RYf2b20JcQ](https://www.youtube.com/watch?v=9RYf2b20JcQ)
 * [Q&A: Why is the Blender and Diluted Fuel recipe in Tier 7?](../../../transcriptions/yt-Y1V0UB_9GJA.md) [https://www.youtube.com/watch?v=Y1V0UB_9GJA](https://www.youtube.com/watch?v=Y1V0UB_9GJA)
 
-## March 26th, 2021 Livestream
+## March 26th, 2021 Video
 * [Snutt Talk: If you have thoughts or feedback about Recipe balancing, use the QA Site](../../../transcriptions/yt-jmrABq4cCzY,279.75,305.2916666666667.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306)
 * [Snutt Talk: Tweaking Update 4 Alt Recipes](../../../transcriptions/yt-jmrABq4cCzY,252.91666666666666,279.75.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=252&end=280](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=252&end=280)
 * [Snutt Talk: Tweaking Update 4 Bauxite & other Recipe numbers](../../../transcriptions/yt-jmrABq4cCzY,206.375,252.91666666666666.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=206&end=253](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=206&end=253)
@@ -40,7 +40,7 @@ date: Last Modified
 ## February 9th, 2021 Livestream
 * [Q&A: Will there be another list coming in the Codex showing you which recipes need certain items?](../../../transcriptions/yt-Wk1osyojNQw.md) [https://www.youtube.com/watch?v=Wk1osyojNQw](https://www.youtube.com/watch?v=Wk1osyojNQw)
 
-## February 5th, 2021 Livestream
+## February 5th, 2021 Video
 * [UI change - Open in Codex](../../../transcriptions/yt-rI5kRMSwo5Q,42.273444,75.54611.md) [https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76](https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76)
 
 ## January 26th, 2021 Livestream
@@ -70,7 +70,7 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Copy & Paste settings from Machine to Machine?](../../../transcriptions/yt-20nzwUoDWuA.md) [https://www.youtube.com/watch?v=20nzwUoDWuA](https://www.youtube.com/watch?v=20nzwUoDWuA)
 
-## November 8th, 2018 Livestream
+## November 8th, 2018 Dev Blog
 * [Reinforced Iron Plates being created](../../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569)
 * [Using Iron Ingots to eventually make Screws](../../../transcriptions/yt-J_Dznt1OG-0,274.440833,365.9656.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=274&end=366)
 * [Using Iron Ingots to make Iron Plates](../../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516)

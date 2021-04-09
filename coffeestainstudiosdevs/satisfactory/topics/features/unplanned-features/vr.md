@@ -28,5 +28,5 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * [Q&A: Will there be VR support?](../../../transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * Q&A: What about VR support? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)

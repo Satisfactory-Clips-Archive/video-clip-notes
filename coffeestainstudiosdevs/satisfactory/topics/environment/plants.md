@@ -30,7 +30,7 @@ date: Last Modified
 ## November 10th, 2020 Livestream
 * [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](../../transcriptions/yt-IFxnvuYEVtk.md) [https://www.youtube.com/watch?v=IFxnvuYEVtk](https://www.youtube.com/watch?v=IFxnvuYEVtk)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 4) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=881&end=975](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=881&end=975)
 
 ## October 6th, 2020 Livestream
@@ -73,5 +73,5 @@ date: Last Modified
 * [Hannah Talk: Level Design Stream (Part 7)](../../transcriptions/yt-CB9bSigNYH8,4600.866666666667,4629.566666666667.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4600&end=4630](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4600&end=4630)
 * [Q&A: Why are there roots in the desert?](../../transcriptions/yt-CB9bSigNYH8,1149.9,1160.079568.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1149&end=1161](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1149&end=1161)
 
-## November 8th, 2018 Livestream
+## November 8th, 2018 Dev Blog
 * [Powering up a Miner](../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164)

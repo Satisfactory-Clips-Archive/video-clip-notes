@@ -105,7 +105,7 @@ date: Last Modified
 * [Q&A: Could it be released to the Modding Community to polish and release it as a Mod?](../transcriptions/yt-MQLuFiVQPYY.md) [https://www.youtube.com/watch?v=MQLuFiVQPYY](https://www.youtube.com/watch?v=MQLuFiVQPYY)
 * [Q&A: What's the best nickname someone has ever given you?](../transcriptions/yt-_4_umuhMFK8.md) [https://www.youtube.com/watch?v=_4_umuhMFK8](https://www.youtube.com/watch?v=_4_umuhMFK8)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Outro](../transcriptions/yt-njXBs_p2l1w,713.1457666666666,757.1897666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758)
 
 ## December 8th, 2020 Livestream
@@ -181,10 +181,10 @@ date: Last Modified
 * [Q&A: Snutt Jace's baby Community Manager?](../transcriptions/yt-mmaqnomYjFQ.md) [https://www.youtube.com/watch?v=mmaqnomYjFQ](https://www.youtube.com/watch?v=mmaqnomYjFQ)
 * [Q&A: What is the job of Community Managers?](../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
 
-## June 7th, 2019 Livestream
+## June 7th, 2019 Video
 * [Jace Talk: Thank you to our Community](../transcriptions/yt-RvKmQs6m_iY,65.3,120.22.md) [https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=65&end=121](https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=65&end=121)
 
-## March 15th, 2019 Livestream
+## March 15th, 2019 Q&A
 * [Jace Talk: Request for Q&As on twitter](../transcriptions/yt-R0S19_caQuw,363.28,378.46.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=363&end=379](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=363&end=379)
 * [Q&A: What's the plan with Content Creators?](../transcriptions/yt-R0S19_caQuw,264.36,363.28.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=264&end=364](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=264&end=364)
 

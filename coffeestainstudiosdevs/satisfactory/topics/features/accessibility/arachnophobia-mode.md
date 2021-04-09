@@ -43,7 +43,7 @@ date: Last Modified
 * [Snutt, Simon, Jace Talk: Turning on Arachnophobia Mode](../../../transcriptions/yt-oG9dxXFCAPg.md) [https://www.youtube.com/watch?v=oG9dxXFCAPg](https://www.youtube.com/watch?v=oG9dxXFCAPg)
 * [Q&A: Where can I find those "cute cats"](../../../transcriptions/yt-ALTf24gjRHE.md) [https://www.youtube.com/watch?v=ALTf24gjRHE](https://www.youtube.com/watch?v=ALTf24gjRHE)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: Arachnophobia mode?](../../../transcriptions/yt-iFAy1NZUOGU,188.8,208.96.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=188&end=209](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=188&end=209)
 * Q&A: Can we change the sprite ourselves? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
 * [Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](../../../transcriptions/yt-iFAy1NZUOGU,208.96,227.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228)

@@ -37,7 +37,7 @@ date: Last Modified
 ## December 15th, 2020 Livestream
 * [Q&A: Will we add more to the Map?](../../../transcriptions/yt-NeQpezHiVzI.md) [https://www.youtube.com/watch?v=NeQpezHiVzI](https://www.youtube.com/watch?v=NeQpezHiVzI)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Ben & Jace Talk: Chunky Waterfall [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=355&end=401](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=355&end=401)
 * Ben & Jace Talk: Fancy Caustics [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=312&end=340](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=312&end=340)
 * Ben & Jace Talk: Screen-space Reflections [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=263&end=313](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=263&end=313)

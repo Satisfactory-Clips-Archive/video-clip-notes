@@ -33,17 +33,17 @@ date: Last Modified
 * Q&A: Why do big updates at all - why not just release everything in small bites? (Part 5) [https://clips.twitch.tv/CharmingObservantLardSMOrc](https://clips.twitch.tv/CharmingObservantLardSMOrc)
 * Q&A: Why do big updates at all - why not just release everything in small bites? (Part 6) [https://clips.twitch.tv/LachrymoseCourteousDoveDxAbomb](https://clips.twitch.tv/LachrymoseCourteousDoveDxAbomb)
 
-## July 30th, 2020 Livestream
+## July 30th, 2020 Q&A
 * Q&A: Why no Updates? Is the game dead? [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=63&end=67](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=63&end=67)
 
-## May 14th, 2019 Livestream
+## May 14th, 2019 Video
 * [Jace Talk: Opening up Localisation & changing Roadmap](../transcriptions/yt-aceacdNX9WA,31.712972,55.112001.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=31&end=56](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=31&end=56)
 
-## April 26th, 2019 Livestream
+## April 26th, 2019 Milo Tutorial
 * [Jace Talk: Milo tutorial delays Update](../transcriptions/yt--eBlSsTmUSE,167.8,226.24.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=167&end=227](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=167&end=227)
 
-## April 17th, 2019 Livestream
+## April 17th, 2019 Video
 * [Jace Talk: Patch procedure](../transcriptions/yt-s9JIUKS0p2Q,21.62,189.116781.md) [https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=21&end=190](https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=21&end=190)
 
-## March 15th, 2019 Livestream
+## March 15th, 2019 Q&A
 * [Q&A: How will you fix rebalancing?](../transcriptions/yt-R0S19_caQuw,144.32,209.08.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=144&end=210](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=144&end=210)

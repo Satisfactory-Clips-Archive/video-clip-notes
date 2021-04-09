@@ -23,7 +23,7 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * [Q&A: How did you come up with the name?](../../transcriptions/yt-Dtm6xIj-wM4,2840.698964,2949.0666666666666.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950)
 
-## August 1st, 2017 Livestream
+## August 1st, 2017 Tutorial
 * [Jace Talk: Automating Crafting (Part 1)](../../transcriptions/yt-ZW0OOikcWN0,747.08,866.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=747&end=866](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=747&end=866)
 * [Jace Talk: Automating Crafting (Part 2)](../../transcriptions/yt-ZW0OOikcWN0,968.818506,1014.32.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=968&end=1015](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=968&end=1015)
 * [Jace Talk: Automating Resource gathering](../../transcriptions/yt-ZW0OOikcWN0,459.28,651.16.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=459&end=652](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=459&end=652)

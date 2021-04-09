@@ -40,7 +40,7 @@ date: Last Modified
 ## October 9th, 2020 Livestream
 * [Q&A: How can you concentrate with that hot piece of Simon walking around the office?](../../transcriptions/yt-VkIGrj60KtI.md) [https://www.youtube.com/watch?v=VkIGrj60KtI](https://www.youtube.com/watch?v=VkIGrj60KtI)
 
-## April 30th, 2020 Livestream
+## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: Different ambient effects for different Biomes](../../transcriptions/yt-mci92Mhr7MM,608.793576,697.5301666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698)
 * [Simon & Jace Talk: Introducing Simon](../../transcriptions/yt-mci92Mhr7MM,164.289825,235.960259.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236)
 * [Simon & Jace Talk: Modifying VFX](../../transcriptions/yt-mci92Mhr7MM,947.2796666666667,1092.0910000000001.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=947&end=1093](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=947&end=1093)
@@ -89,13 +89,13 @@ date: Last Modified
 * [Q&A: Where is Simon?](../../transcriptions/yt-Dtm6xIj-wM4,3518.277144,3545.070455.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3518&end=3546](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3518&end=3546)
 * [Q&A: Who is the funniest at the stand-ups?](../../transcriptions/yt-Dtm6xIj-wM4,2733.4333333333334,2765.667433.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766)
 
-## October 3rd, 2018 Livestream
+## October 3rd, 2018 Alpha Info
 * [Q&A: Localisation/Translation?](../../transcriptions/yt-1OQk7vNt6-0,261.62,292.16.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=261&end=293](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=261&end=293)
 * [Q&A: Release Date?](../../transcriptions/yt-1OQk7vNt6-0,292.16,358.62.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=292&end=359](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=292&end=359)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](../../transcriptions/yt-iFAy1NZUOGU,208.96,227.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Jace Talk: General multiplayer questions](../../transcriptions/yt-W1E6EWrAsII,256.8,316.92.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317)
 * [Q&A: Let's talk about Simon?](../../transcriptions/yt-W1E6EWrAsII,520.44,538.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=520&end=539](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=520&end=539)

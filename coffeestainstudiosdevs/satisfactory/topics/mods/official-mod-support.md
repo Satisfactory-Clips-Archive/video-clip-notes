@@ -56,5 +56,5 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * [Q&A: What's the possibility of Dedicated Servers?](../../transcriptions/yt-Dtm6xIj-wM4,718.308644,808.471513.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Will there be mods?](../../transcriptions/yt-W1E6EWrAsII,91.24,120.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121)

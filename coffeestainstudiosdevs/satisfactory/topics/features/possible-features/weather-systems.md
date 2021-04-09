@@ -45,5 +45,5 @@ date: Last Modified
 * Q&A: Weather confirmed? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
 * Q&A: Will there be seasons? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5450&end=5455](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5450&end=5455)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * Q&A: Is there Weather in the game? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)

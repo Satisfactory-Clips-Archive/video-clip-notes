@@ -18,5 +18,5 @@ date: Last Modified
 * [Q&A: Tractor, but "Sugar Cube" is mentioned in the description?](../../../../transcriptions/yt-qvzPjISX75Y.md) [https://www.youtube.com/watch?v=qvzPjISX75Y](https://www.youtube.com/watch?v=qvzPjISX75Y)
 * [Q&A: Weirdest bug you guys fixed](../../../../transcriptions/yt-ybgZUbANGrM.md) [https://www.youtube.com/watch?v=ybgZUbANGrM](https://www.youtube.com/watch?v=ybgZUbANGrM)
 
-## July 19th, 2018 Livestream
+## July 19th, 2018 Dev Blog
 * [Tractor](../../../../transcriptions/yt-IxoCzb2M0vQ,88.366511,130.550701.md) [https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=88&end=131](https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=88&end=131)

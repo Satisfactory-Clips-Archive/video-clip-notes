@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Accessibility
 * [Arachnophobia Mode](../../topics/features/accessibility/arachnophobia-mode.md)
 
-## February 19th, 2021 Livestream
+## February 19th, 2021 Video
 * [Power Storage](../../transcriptions/yt-Tmpors_r_Vw,78.078,138.50503333333333.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=78&end=139)
 
 ## February 9th, 2021 Livestream

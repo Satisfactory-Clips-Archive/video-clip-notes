@@ -47,7 +47,7 @@ date: Last Modified
 * [Q&A: Coffee Mugs?](../transcriptions/yt-DuGUOXyGtHg.md) [https://www.youtube.com/watch?v=DuGUOXyGtHg](https://www.youtube.com/watch?v=DuGUOXyGtHg)
 * [Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy?](../transcriptions/yt-PYyvu8feZqA.md) [https://www.youtube.com/watch?v=PYyvu8feZqA](https://www.youtube.com/watch?v=PYyvu8feZqA)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Intro](../transcriptions/yt-njXBs_p2l1w,,95.36193333333334.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=0&end=96](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=0&end=96)
 
 ## November 24th, 2020 Livestream
@@ -119,7 +119,7 @@ date: Last Modified
 * Jace Merch Talk: US vs. EU Merch Warehousing [https://clips.twitch.tv/ColdStormySalsifyArgieB8](https://clips.twitch.tv/ColdStormySalsifyArgieB8)
 * Q&A: zip-up hoodie? [https://clips.twitch.tv/SpoopyCrowdedOctopusTBTacoLeft](https://clips.twitch.tv/SpoopyCrowdedOctopusTBTacoLeft)
 
-## July 30th, 2020 Livestream
+## July 30th, 2020 Q&A
 * [Q&A: Merch?](../transcriptions/yt-1dUNmBBbExs,101.20356,116.33333333333333.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=101&end=117](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=101&end=117)
 
 ## July 28th, 2020 Livestream
@@ -152,5 +152,5 @@ date: Last Modified
 * [Q&A: Jace - give me your socks?](../transcriptions/yt-Dtm6xIj-wM4,2244.4666666666667,2262.349854.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2244&end=2263](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2244&end=2263)
 * [Q&A: Plushies when & what's the story behind #blamesimon ?](../transcriptions/yt-Dtm6xIj-wM4,1062.151666,1073.371446.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1062&end=1074](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1062&end=1074)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Will there be Lizard Doggo plushies?](../transcriptions/yt-W1E6EWrAsII,214.36,238.12.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239)

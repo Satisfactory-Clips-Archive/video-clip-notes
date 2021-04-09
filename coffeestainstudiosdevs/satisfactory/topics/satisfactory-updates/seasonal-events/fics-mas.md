@@ -14,7 +14,7 @@ date: Last Modified
 ## January 26th, 2021 Livestream
 * [Q&A: Give FICS⁕MAS back?](../../../transcriptions/yt-CmQgxVzbXoQ.md) [https://www.youtube.com/watch?v=CmQgxVzbXoQ](https://www.youtube.com/watch?v=CmQgxVzbXoQ)
 
-## January 15th, 2021 Livestream
+## January 15th, 2021 Video
 * [Q&A: What will Gases be used for?](../../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188)
 
 ## January 12th, 2021 Livestream
@@ -28,7 +28,7 @@ date: Last Modified
 * [Q&A: Will FICS⁕MAS Buildings and items still be in the World after the event is over?](../../../transcriptions/yt-ospbB7hdDdI.md) [https://www.youtube.com/watch?v=ospbB7hdDdI](https://www.youtube.com/watch?v=ospbB7hdDdI)
 * [Q&A: Will the event come back next year?](../../../transcriptions/yt-6XovxrktCDA.md) [https://www.youtube.com/watch?v=6XovxrktCDA](https://www.youtube.com/watch?v=6XovxrktCDA)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Intro](../../../transcriptions/yt-njXBs_p2l1w,,95.36193333333334.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=0&end=96](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=0&end=96)
 * [Packaged Alumina Solution & Packaged Sulphuric Acid](../../../transcriptions/yt-njXBs_p2l1w,154.154,245.57866666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246)
 

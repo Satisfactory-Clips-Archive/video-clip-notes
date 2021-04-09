@@ -126,11 +126,11 @@ date: Last Modified
 * August 11th, 2020 Livestream Q&A: Are Dedicated Servers coming? [https://clips.twitch.tv/BigDeadPhoneKappaWealth](https://clips.twitch.tv/BigDeadPhoneKappaWealth)
 * August 11th, 2020 Livestream Q&A: Dedicated Servers, start building a community around that? [https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow](https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow)
 * August 11th, 2020 Livestream Q&A: What's the hold-up on Dedicated Servers? [https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride](https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride)
-* [July 30th, 2020 Livestream Q&A: Dedicated Servers when?](./transcriptions/yt-1dUNmBBbExs,73.73333333333333,88.2.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89)
+* [July 30th, 2020 Q&A: Dedicated Servers when?](./transcriptions/yt-1dUNmBBbExs,73.73333333333333,88.2.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89)
 * [June 8th, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-XuFfkTTZnoA.md) [https://www.youtube.com/watch?v=XuFfkTTZnoA](https://www.youtube.com/watch?v=XuFfkTTZnoA)
 * [February 11th, 2020 Livestream Q&A: Any news on Dedicated Servers?](./transcriptions/yt-pUhzc1Fd8sg.md) [https://www.youtube.com/watch?v=pUhzc1Fd8sg](https://www.youtube.com/watch?v=pUhzc1Fd8sg)
 * [January 22nd, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-Qy10mQQMXXI.md) [https://www.youtube.com/watch?v=Qy10mQQMXXI](https://www.youtube.com/watch?v=Qy10mQQMXXI)
-* [March 15th, 2019 Livestream Q&A: Any ETA on Dedicated Servers?](./transcriptions/yt-R0S19_caQuw,433.1,447.14.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448)
+* [March 15th, 2019 Q&A: Any ETA on Dedicated Servers?](./transcriptions/yt-R0S19_caQuw,433.1,447.14.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448)
 * [February 6th, 2019 Livestream Q&A: What's the possibility of Dedicated Servers?](./transcriptions/yt-Dtm6xIj-wM4,718.308644,808.471513.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809)
 </details>
 
@@ -323,7 +323,7 @@ date: Last Modified
 * [November 3rd, 2020 Livestream Q&A: When do Signs come?](./transcriptions/yt-5PwIEaLRDRY.md) [https://www.youtube.com/watch?v=5PwIEaLRDRY](https://www.youtube.com/watch?v=5PwIEaLRDRY)
 * [September 29th, 2020 Livestream Q&A: Can we get Signs in the game?](./transcriptions/yt-P1hgqMJ8MW0.md) [https://www.youtube.com/watch?v=P1hgqMJ8MW0](https://www.youtube.com/watch?v=P1hgqMJ8MW0)
 * [August 25th, 2020 Livestream Q&A: Signs for Hypertube Entrances?](./transcriptions/yt-y3w-vPtVjog.md) [https://www.youtube.com/watch?v=y3w-vPtVjog](https://www.youtube.com/watch?v=y3w-vPtVjog)
-* [July 8th, 2020 Livestream Q&A: When are we getting Signs?](./transcriptions/yt-1dUNmBBbExs,1744.09797,1753.629628.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754)
+* [July 8th, 2020 Mod Highlight Q&A: When are we getting Signs?](./transcriptions/yt-1dUNmBBbExs,1744.09797,1753.629628.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754)
 * [June 8th, 2020 Livestream Q&A: What about Signs?](./transcriptions/yt-UGKquiGR0CY.md) [https://www.youtube.com/watch?v=UGKquiGR0CY](https://www.youtube.com/watch?v=UGKquiGR0CY)
 </details>
 
@@ -431,7 +431,7 @@ date: Last Modified
 * [March 9th, 2019 Livestream Q&A: Can creatures in any way disrupt your factory?](./transcriptions/yt-R2Fms8EjhN8.md) [https://www.youtube.com/watch?v=R2Fms8EjhN8](https://www.youtube.com/watch?v=R2Fms8EjhN8)
 * [March 9th, 2019 Livestream Q&A: Will there be turrets or something in the game?](./transcriptions/yt-xNBFywqCrxM.md) [https://www.youtube.com/watch?v=xNBFywqCrxM](https://www.youtube.com/watch?v=xNBFywqCrxM)
 * [February 6th, 2019 Livestream Q&A: Why not turrets like Sanctum?](./transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640)
-* [June 22nd, 2018 Livestream Q&A: Will we need to defend our factory?](./transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
+* [June 22nd, 2018 Q&A: Will we need to defend our factory?](./transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
 </details>
 
 ### [Q&A: Curved Walls, Windows, and Foundations?](./transcriptions/yt-gBErG8jzRtI.md) [https://www.youtube.com/watch?v=gBErG8jzRtI](https://www.youtube.com/watch?v=gBErG8jzRtI)
@@ -530,7 +530,7 @@ date: Last Modified
 * [March 24th, 2020 Livestream Q&A: Wouldn't you split normal & Creative Mode then not allow switching?](./transcriptions/yt-7xTscBSrsY0.md) [https://www.youtube.com/watch?v=7xTscBSrsY0](https://www.youtube.com/watch?v=7xTscBSrsY0)
 * [March 9th, 2019 Livestream Q&A: Will there be a creative mode?](./transcriptions/yt-eIPuM39KDcE.md) [https://www.youtube.com/watch?v=eIPuM39KDcE](https://www.youtube.com/watch?v=eIPuM39KDcE)
 * [February 6th, 2019 Livestream Q&A: Sandbox mode available?](./transcriptions/yt-Dtm6xIj-wM4,1962.712002,2009.493406.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010)
-* [August 1st, 2018 Livestream Q&A: Will there be a Creative Mode?](./transcriptions/yt-iFAy1NZUOGU,14,29.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29)
+* [August 1st, 2018 Q&A: Will there be a Creative Mode?](./transcriptions/yt-iFAy1NZUOGU,14,29.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29)
 </details>
 
 ### Q&A: More space-based stuff coming? [https://www.youtube.com/watch?v=pTyR9FXrU_E](https://www.youtube.com/watch?v=pTyR9FXrU_E)
@@ -602,7 +602,7 @@ date: Last Modified
 * [March 9th, 2019 Livestream Q&A: Another game mode with a procedurally generated world?](./transcriptions/yt-GZlK2fIlYVk.md) [https://www.youtube.com/watch?v=GZlK2fIlYVk](https://www.youtube.com/watch?v=GZlK2fIlYVk)
 * [March 9th, 2019 Livestream Q&A: The map is pre-made, not procedurally generated?](./transcriptions/yt-229Wl8AMQx8.md) [https://www.youtube.com/watch?v=229Wl8AMQx8](https://www.youtube.com/watch?v=229Wl8AMQx8)
 * [February 20th, 2019 Livestream Q&A: Is the World procedurally generated?](./transcriptions/yt-CB9bSigNYH8,3150.343797,3165.212187.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166)
-* [June 22nd, 2018 Livestream Q&A: Is the Map procedurally generated?](./transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
+* [June 22nd, 2018 Q&A: Is the Map procedurally generated?](./transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
 </details>
 
 ### [Q&A: Sanctum 3, when?](./transcriptions/yt-Ud7cgUEuVlE.md) [https://www.youtube.com/watch?v=Ud7cgUEuVlE](https://www.youtube.com/watch?v=Ud7cgUEuVlE)
@@ -619,8 +619,8 @@ date: Last Modified
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as March 2019 and as early as March 2018.</summary>
 
-* [March 15th, 2019 Livestream Q&A: Sanctum 3 when?](./transcriptions/yt-R0S19_caQuw,426.78,428.86.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429)
-* [March 9th, 2018 Livestream Q&A: Sanctum 3?](./transcriptions/yt-Zo2ybvs7keI,502.32,614.16.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615)
+* [March 15th, 2019 Q&A: Sanctum 3 when?](./transcriptions/yt-R0S19_caQuw,426.78,428.86.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429)
+* [March 9th, 2018 Q&A: Sanctum 3?](./transcriptions/yt-Zo2ybvs7keI,502.32,614.16.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615)
 </details>
 
 ### [Q&A: Satisfactory Roadmap?](./transcriptions/yt-HZ4vKssj208.md) [https://www.youtube.com/watch?v=HZ4vKssj208](https://www.youtube.com/watch?v=HZ4vKssj208)
@@ -756,7 +756,7 @@ date: Last Modified
 * [February 11th, 2020 Livestream Q&A: Where's Mod support?](./transcriptions/yt-JRyAZT7y44g.md) [https://www.youtube.com/watch?v=JRyAZT7y44g](https://www.youtube.com/watch?v=JRyAZT7y44g)
 * [March 9th, 2019 Livestream Q&A: What do you think about future Mod support?](./transcriptions/yt-6-uSzpX-zZ0.md) [https://www.youtube.com/watch?v=6-uSzpX-zZ0](https://www.youtube.com/watch?v=6-uSzpX-zZ0)
 * [February 20th, 2019 Livestream Q&A: Mod Support?](./transcriptions/yt-CB9bSigNYH8,3390.447786,3418.942904.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3390&end=3419](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3390&end=3419)
-* [June 22nd, 2018 Livestream Q&A: Will there be mods?](./transcriptions/yt-W1E6EWrAsII,91.24,120.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121)
+* [June 22nd, 2018 Q&A: Will there be mods?](./transcriptions/yt-W1E6EWrAsII,91.24,120.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121)
 </details>
 
 ### [Q&A: What about the Toilet?](./transcriptions/yt-oa5g8FKujqk.md) [https://www.youtube.com/watch?v=oa5g8FKujqk](https://www.youtube.com/watch?v=oa5g8FKujqk)
@@ -1085,7 +1085,7 @@ date: Last Modified
 * [September 15th, 2020 Livestream Q&A: When do the Work In Progress items get a purpose?](./transcriptions/yt-koMqOABA6x8.md) [https://www.youtube.com/watch?v=koMqOABA6x8](https://www.youtube.com/watch?v=koMqOABA6x8)
 * [August 25th, 2020 Livestream Q&A: Do you have any clue on what the alien artefacts do?](./transcriptions/yt-hRe0QvJDjsg.md) [https://www.youtube.com/watch?v=hRe0QvJDjsg](https://www.youtube.com/watch?v=hRe0QvJDjsg)
 * August 18th, 2020 Livestream Q&A: When are Somersloops and Orbs have meaning? [https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride](https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride)
-* [April 30th, 2020 Livestream Q&A: What does the Somersloop do?](./transcriptions/yt-mci92Mhr7MM,711.0436666666667,726.1587666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=711&end=727](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=711&end=727)
+* [April 30th, 2020 Dev Vlog Q&A: What does the Somersloop do?](./transcriptions/yt-mci92Mhr7MM,711.0436666666667,726.1587666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=711&end=727](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=711&end=727)
 * [February 11th, 2020 Livestream Q&A: Mercer Spheres?](./transcriptions/yt-9VS0lGfDZ1k.md) [https://www.youtube.com/watch?v=9VS0lGfDZ1k](https://www.youtube.com/watch?v=9VS0lGfDZ1k)
 * [December 19th, 2019 Livestream Q&A: Will Mercer Spheres and Somersloops be useful soon?](./transcriptions/yt-SYWPIjbe_4Y.md) [https://www.youtube.com/watch?v=SYWPIjbe_4Y](https://www.youtube.com/watch?v=SYWPIjbe_4Y)
 </details>
@@ -1311,7 +1311,7 @@ date: Last Modified
 * [November 3rd, 2020 Livestream Q&A: VR Support?](./transcriptions/yt-eJz8dJImPfQ.md) [https://www.youtube.com/watch?v=eJz8dJImPfQ](https://www.youtube.com/watch?v=eJz8dJImPfQ)
 * [September 8th, 2020 Livestream Q&A: Ever consider making a VR version of Satisfactory?](./transcriptions/yt-3s-PKymQ9QU.md) [https://www.youtube.com/watch?v=3s-PKymQ9QU](https://www.youtube.com/watch?v=3s-PKymQ9QU)
 * [February 6th, 2019 Livestream Q&A: Will there be VR support?](./transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
-* August 1st, 2018 Livestream Q&A: What about VR support? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
+* August 1st, 2018 Q&A: What about VR support? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
 </details>
 
 ### [Q&A: What percentage of the Update do we know about?](./transcriptions/yt-MGL5k0e9UUY.md) [https://www.youtube.com/watch?v=MGL5k0e9UUY](https://www.youtube.com/watch?v=MGL5k0e9UUY)
@@ -1354,7 +1354,7 @@ date: Last Modified
 * [September 22nd, 2020 Livestream Q&A: Weather in Satisfactory?](./transcriptions/yt-Sxvg881RjeA.md) [https://www.youtube.com/watch?v=Sxvg881RjeA](https://www.youtube.com/watch?v=Sxvg881RjeA)
 * [September 8th, 2020 Livestream Q&A: Do we intend to add rain/storms ?](./transcriptions/yt-3WDeVbpr30g.md) [https://www.youtube.com/watch?v=3WDeVbpr30g](https://www.youtube.com/watch?v=3WDeVbpr30g)
 * February 20th, 2019 Livestream Q&A: Weather confirmed? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
-* August 1st, 2018 Livestream Q&A: Is there Weather in the game? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
+* August 1st, 2018 Q&A: Is there Weather in the game? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
 </details>
 
 ### [Q&A: Will the soundtrack be expanded before 1.0?](./transcriptions/yt-Is1WuIaWXGE.md) [https://www.youtube.com/watch?v=Is1WuIaWXGE](https://www.youtube.com/watch?v=Is1WuIaWXGE)
@@ -1831,7 +1831,7 @@ date: Last Modified
 * [November 3rd, 2020 Livestream Q&A: Are Steam Achievements going to be added in the future?](./transcriptions/yt-Gi08SVnHyLU.md) [https://www.youtube.com/watch?v=Gi08SVnHyLU](https://www.youtube.com/watch?v=Gi08SVnHyLU)
 * [September 29th, 2020 Livestream Q&A: Give us Steam Achievements already?](./transcriptions/yt-9tNel2ksYnI.md) [https://www.youtube.com/watch?v=9tNel2ksYnI](https://www.youtube.com/watch?v=9tNel2ksYnI)
 * [March 24th, 2020 Livestream Q&A: Achievements?](./transcriptions/yt-G8K0Bjs8mNo.md) [https://www.youtube.com/watch?v=G8K0Bjs8mNo](https://www.youtube.com/watch?v=G8K0Bjs8mNo)
-* [August 1st, 2018 Livestream Q&A: Will there be Steam achievements?](./transcriptions/yt-iFAy1NZUOGU,119.72,131.28.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132)
+* [August 1st, 2018 Q&A: Will there be Steam achievements?](./transcriptions/yt-iFAy1NZUOGU,119.72,131.28.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132)
 </details>
 
 ## [February 9th, 2021 Livestream](./2021-02-09.md)
@@ -1922,7 +1922,7 @@ date: Last Modified
 * August 11th, 2020 Livestream Q&A: Lizard Doggo Plushies [https://clips.twitch.tv/TolerantPunchyNewtJKanStyle](https://clips.twitch.tv/TolerantPunchyNewtJKanStyle)
 * [February 11th, 2020 Livestream Q&A: Lizard Doggo plushies?](./transcriptions/yt-SFZCi_HshCE.md) [https://www.youtube.com/watch?v=SFZCi_HshCE](https://www.youtube.com/watch?v=SFZCi_HshCE)
 * [March 9th, 2019 Livestream Q&A: Lizard Doggo plushie when?](./transcriptions/yt-jGiN1SdQOFk.md) [https://www.youtube.com/watch?v=jGiN1SdQOFk](https://www.youtube.com/watch?v=jGiN1SdQOFk)
-* [June 22nd, 2018 Livestream Q&A: Will there be Lizard Doggo plushies?](./transcriptions/yt-W1E6EWrAsII,214.36,238.12.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239)
+* [June 22nd, 2018 Q&A: Will there be Lizard Doggo plushies?](./transcriptions/yt-W1E6EWrAsII,214.36,238.12.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239)
 </details>
 
 ### [Q&A: What Operating System will the Dedicated Servers be?](./transcriptions/yt-071RPMJfFJk.md) [https://www.youtube.com/watch?v=071RPMJfFJk](https://www.youtube.com/watch?v=071RPMJfFJk)
@@ -2084,7 +2084,7 @@ date: Last Modified
 * August 18th, 2020 Livestream Q&A: Is 1.0 the end of the game or will it be expanded? [https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace](https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace)
 * [January 22nd, 2020 Livestream Q&A: Will there be DLC after 1.0?](./transcriptions/yt-FHqvzjGbhvg.md) [https://www.youtube.com/watch?v=FHqvzjGbhvg](https://www.youtube.com/watch?v=FHqvzjGbhvg)
 * [February 6th, 2019 Livestream Q&A: Are there going to be free updates after the game is released, or is it all going to be DLCs?](./transcriptions/yt-Dtm6xIj-wM4,1550.571925,1573.58823.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574)
-* [June 22nd, 2018 Livestream Q&A: Plans for post-launch?](./transcriptions/yt-W1E6EWrAsII,120.52,176.6.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177)
+* [June 22nd, 2018 Q&A: Plans for post-launch?](./transcriptions/yt-W1E6EWrAsII,120.52,176.6.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177)
 </details>
 
 ### [Q&A: Give FICS⁕MAS back?](./transcriptions/yt-CmQgxVzbXoQ.md) [https://www.youtube.com/watch?v=CmQgxVzbXoQ](https://www.youtube.com/watch?v=CmQgxVzbXoQ)
@@ -2523,7 +2523,7 @@ date: Last Modified
 * [March 9th, 2019 Livestream Q&A: Are you guys planning to add any terraforming or digging?](./transcriptions/yt-DW0MT8G-wMI.md) [https://www.youtube.com/watch?v=DW0MT8G-wMI](https://www.youtube.com/watch?v=DW0MT8G-wMI)
 * [February 20th, 2019 Livestream Q&A: Can we deform terrain?](./transcriptions/yt-CB9bSigNYH8,5141.221945,5152.209084.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5141&end=5153](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5141&end=5153)
 * [February 6th, 2019 Livestream Q&A: Terraforming?](./transcriptions/yt-Dtm6xIj-wM4,979.016429,1016.088881.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=979&end=1017](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=979&end=1017)
-* August 1st, 2018 Livestream Q&A: Will there be landscape deformation or Terraforming? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67)
+* August 1st, 2018 Q&A: Will there be landscape deformation or Terraforming? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67)
 </details>
 
 ### [Q&A: Will there be more options for aesthetics regarding things like house building?](./transcriptions/yt-qQJTAvtzB-8.md) [https://www.youtube.com/watch?v=qQJTAvtzB-8](https://www.youtube.com/watch?v=qQJTAvtzB-8)
@@ -2685,7 +2685,7 @@ date: Last Modified
 * [March 9th, 2019 Livestream Q&A: Is there an actual win condition or is it just 'til end of content?](./transcriptions/yt-Pn5tcfKmF20.md) [https://www.youtube.com/watch?v=Pn5tcfKmF20](https://www.youtube.com/watch?v=Pn5tcfKmF20)
 * [March 9th, 2019 Livestream Q&A: What's the final objective of the game?](./transcriptions/yt-xG0mfuXiFY8.md) [https://www.youtube.com/watch?v=xG0mfuXiFY8](https://www.youtube.com/watch?v=xG0mfuXiFY8)
 * [February 6th, 2019 Livestream Q&A: Is there an end-game/goal?](./transcriptions/yt-Dtm6xIj-wM4,912.113976,952.667535.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=912&end=953](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=912&end=953)
-* [June 22nd, 2018 Livestream Q&A: Is there an end game? Will there be a story?](./transcriptions/yt-W1E6EWrAsII,391.24,406.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=391&end=407](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=391&end=407)
+* [June 22nd, 2018 Q&A: Is there an end game? Will there be a story?](./transcriptions/yt-W1E6EWrAsII,391.24,406.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=391&end=407](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=391&end=407)
 </details>
 
 ### [Q&A: Will we be able to breed the Doggos?](./transcriptions/yt-fdoiF6pPF1M.md) [https://www.youtube.com/watch?v=fdoiF6pPF1M](https://www.youtube.com/watch?v=fdoiF6pPF1M)
@@ -2741,7 +2741,7 @@ date: Last Modified
 
 * [September 22nd, 2020 Livestream Q&A: Will Dedicated Servers run on Linux?](./transcriptions/yt-299eeYGePHM.md) [https://www.youtube.com/watch?v=299eeYGePHM](https://www.youtube.com/watch?v=299eeYGePHM)
 * [August 25th, 2020 Livestream Q&A: Will Dedicated Servers be available on Linux, or Windows?](./transcriptions/yt-4f7KWwnXhoU.md) [https://www.youtube.com/watch?v=4f7KWwnXhoU](https://www.youtube.com/watch?v=4f7KWwnXhoU)
-* [March 15th, 2019 Livestream Q&A: Please, please, please make a Linux based dedicated server that can run headless.](./transcriptions/yt-R0S19_caQuw,403.32,412.34.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413)
+* [March 15th, 2019 Q&A: Please, please, please make a Linux based dedicated server that can run headless.](./transcriptions/yt-R0S19_caQuw,403.32,412.34.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413)
 * [March 9th, 2019 Livestream Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](./transcriptions/yt-Cnw_Ow3K29I.md) [https://www.youtube.com/watch?v=Cnw_Ow3K29I](https://www.youtube.com/watch?v=Cnw_Ow3K29I)
 </details>
 
@@ -3024,8 +3024,8 @@ date: Last Modified
 <summary>This question may have been asked previously at least 3 other times, as recently as March 2019 and as early as August 2018.</summary>
 
 * [March 9th, 2019 Livestream Q&A: Can we have an alternate arachnophobia mode with Simon's face?](./transcriptions/yt-3h2P4TfAAwE.md) [https://www.youtube.com/watch?v=3h2P4TfAAwE](https://www.youtube.com/watch?v=3h2P4TfAAwE)
-* August 1st, 2018 Livestream Q&A: Can we change the sprite ourselves? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
-* [August 1st, 2018 Livestream Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](./transcriptions/yt-iFAy1NZUOGU,208.96,227.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228)
+* August 1st, 2018 Q&A: Can we change the sprite ourselves? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
+* [August 1st, 2018 Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](./transcriptions/yt-iFAy1NZUOGU,208.96,227.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228)
 </details>
 
 ## [July 28th, 2020 Livestream](./2020-07-28.md)
@@ -3055,7 +3055,7 @@ date: Last Modified
 <summary>This question may have been asked previously at least 2 other times, as recently as March 2020 and as early as March 2019.</summary>
 
 * [March 24th, 2020 Livestream Q&A: Will the people who bought it on Epic get free Steam keys?](./transcriptions/yt-cCWKieE8O8g.md) [https://www.youtube.com/watch?v=cCWKieE8O8g](https://www.youtube.com/watch?v=cCWKieE8O8g)
-* [March 15th, 2019 Livestream Q&A: If I buy the game on Epic now, can I have it moved to my Steam account later?](./transcriptions/yt-R0S19_caQuw,384.72,393.2.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394)
+* [March 15th, 2019 Q&A: If I buy the game on Epic now, can I have it moved to my Steam account later?](./transcriptions/yt-R0S19_caQuw,384.72,393.2.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394)
 </details>
 
 ## [December 19th, 2019 Livestream](./2019-12-19.md)
@@ -3079,7 +3079,7 @@ date: Last Modified
 
 * [March 9th, 2019 Livestream Q&A: Will the price stay at $30, or will it drop/increase as time goes on?](./transcriptions/yt-RVdtG9yWW68.md) [https://www.youtube.com/watch?v=RVdtG9yWW68](https://www.youtube.com/watch?v=RVdtG9yWW68)
 * [February 6th, 2019 Livestream Q&A: How much will Satisfactory cost?](./transcriptions/yt-Dtm6xIj-wM4,354.60912,371.76666666666665.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=354&end=372](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=354&end=372)
-* [August 1st, 2018 Livestream Q&A: How much will the game cost when it's released?](./transcriptions/yt-iFAy1NZUOGU,99.44,119.72.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120)
+* [August 1st, 2018 Q&A: How much will the game cost when it's released?](./transcriptions/yt-iFAy1NZUOGU,99.44,119.72.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120)
 </details>
 
 ## [February 6th, 2019 Livestream](./2019-02-06.md)
@@ -3089,6 +3089,6 @@ date: Last Modified
 <summary>This question may have been asked previously at least 2 other times, as recently as February 2019 and as early as August 2018.</summary>
 
 * February 6th, 2019 Livestream Q&A: Pipes? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051)
-* [August 1st, 2018 Livestream Q&A: But... will there be Pipes?](./transcriptions/yt-iFAy1NZUOGU,275.24,323.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324)
+* [August 1st, 2018 Q&A: But... will there be Pipes?](./transcriptions/yt-iFAy1NZUOGU,275.24,323.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324)
 </details>
 

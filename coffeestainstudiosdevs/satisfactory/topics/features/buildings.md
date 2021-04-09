@@ -50,7 +50,7 @@ date: Last Modified
 * [Q&A: Hard Mode where Machines break down?](../../transcriptions/yt-n6Wck4EawK0.md) [https://www.youtube.com/watch?v=n6Wck4EawK0](https://www.youtube.com/watch?v=n6Wck4EawK0)
 * [Q&A: Will there be less "invalid placement" issues?](../../transcriptions/yt-oawyPBC7jAo.md) [https://www.youtube.com/watch?v=oawyPBC7jAo](https://www.youtube.com/watch?v=oawyPBC7jAo)
 
-## February 5th, 2021 Livestream
+## February 5th, 2021 Video
 * [UI Change - Production UI](../../transcriptions/yt-rI5kRMSwo5Q,189.92306666666667,263.8969666666667.md) [https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=189&end=264](https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=189&end=264)
 
 ## January 26th, 2021 Livestream
@@ -83,7 +83,7 @@ date: Last Modified
 * [Q&A: When will we implement gravity physics to the Buildings?](../../transcriptions/yt-6JFV5EAIU8U.md) [https://www.youtube.com/watch?v=6JFV5EAIU8U](https://www.youtube.com/watch?v=6JFV5EAIU8U)
 * [Q&A: Will there be faster Smelter/Manufacturers?](../../transcriptions/yt-eiGqL7qpc14.md) [https://www.youtube.com/watch?v=eiGqL7qpc14](https://www.youtube.com/watch?v=eiGqL7qpc14)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Ben & Jace Talk: Mesh Imposters / LODing (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=974&end=1138](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=974&end=1138)
 * Ben & Jace Talk: Mesh Imposters / LODing (Part 2) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1171&end=1213](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1171&end=1213)
 * Q&A: What are Baked Materials? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1557&end=1612](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1557&end=1612)
@@ -187,7 +187,7 @@ date: Last Modified
 ## July 21st, 2020 Livestream
 * Q&A: What do you think about a game mode with weather effects doing damage or slowing machines? [https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime](https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime)
 
-## April 30th, 2020 Livestream
+## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: VFX for Buildings (Part 1)](../../transcriptions/yt-mci92Mhr7MM,812.6118,893.1589333333334.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=812&end=894](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=812&end=894)
 * [Simon & Jace Talk: VFX for Buildings (Part 2)](../../transcriptions/yt-mci92Mhr7MM,928.6944333333333,947.2796666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948)
 
@@ -207,6 +207,6 @@ date: Last Modified
 * [Q&A: What happened to the Hadron Collider we saw in the UI video?](../../transcriptions/yt-Dtm6xIj-wM4,1259.5666666666666,1268.770686.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1259&end=1269](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1259&end=1269)
 * [Q&A: Will there be breakdowns of machines and we have to fix & repair?](../../transcriptions/yt-Dtm6xIj-wM4,3823.733333333333,3836.94547.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3823&end=3837](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3823&end=3837)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100)
 * [Q&A: Is there research or a tech tree in the game?](../../transcriptions/yt-iFAy1NZUOGU,147.92,170.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171)

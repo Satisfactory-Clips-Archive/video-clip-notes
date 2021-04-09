@@ -19,8 +19,8 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](../../../transcriptions/yt-v4zf3_-seAg.md) [https://www.youtube.com/watch?v=v4zf3_-seAg](https://www.youtube.com/watch?v=v4zf3_-seAg)
 
-## November 8th, 2018 Livestream
+## November 8th, 2018 Dev Blog
 * [Powering up a Miner](../../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164)
 
-## August 1st, 2017 Livestream
+## August 1st, 2017 Tutorial
 * [Jace Talk: Automating Resource gathering](../../../transcriptions/yt-ZW0OOikcWN0,459.28,651.16.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=459&end=652](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=459&end=652)

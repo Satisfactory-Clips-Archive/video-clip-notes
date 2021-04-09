@@ -29,7 +29,7 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../transcriptions/yt--AjFbGOOAQI.md) [https://www.youtube.com/watch?v=-AjFbGOOAQI](https://www.youtube.com/watch?v=-AjFbGOOAQI)
 
-## March 15th, 2019 Livestream
+## March 15th, 2019 Q&A
 * [Q&A: Sanctum 3 when?](../../transcriptions/yt-R0S19_caQuw,426.78,428.86.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429)
 
 ## February 6th, 2019 Livestream
@@ -37,11 +37,11 @@ date: Last Modified
 * [Q&A: Where does the sense of humour/memes come from?](../../transcriptions/yt-Dtm6xIj-wM4,3734.266666666667,3823.743738.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3734&end=3824)
 * [Q&A: Why not turrets like Sanctum?](../../transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Plans for post-launch?](../../transcriptions/yt-W1E6EWrAsII,120.52,176.6.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177)
 * [Q&A: Will we need to defend our factory?](../../transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
 
-## March 9th, 2018 Livestream
+## March 9th, 2018 Q&A
 * [Q&A: Are the first two letters of your next game's title really "Sa" ?](../../transcriptions/yt-Zo2ybvs7keI,344.96,382.8.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383)
 * [Q&A: Sanctum 3?](../../transcriptions/yt-Zo2ybvs7keI,502.32,614.16.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615)
 * Q&A: What did it feel like when you made the decision to announce Sanctum 3 this friday? [https://www.youtube.com/watch?v=yt-Zo2ybvs7keI%2C645.8](https://www.youtube.com/watch?v=yt-Zo2ybvs7keI%2C645.8)

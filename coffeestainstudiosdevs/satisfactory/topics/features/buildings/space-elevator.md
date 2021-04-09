@@ -23,7 +23,7 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Will we get more uses/shipments for the Space Elevator?](../../../transcriptions/yt-pjoG5bBsTKI.md) [https://www.youtube.com/watch?v=pjoG5bBsTKI](https://www.youtube.com/watch?v=pjoG5bBsTKI)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Assembly Director System](../../../transcriptions/yt-njXBs_p2l1w,536.9364,640.7067333333333.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=536&end=641](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=536&end=641)
 * [Magnetic Field Generator](../../../transcriptions/yt-njXBs_p2l1w,443.557086,536.9364.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=443&end=537](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=443&end=537)
 * [Thermal Propulsion Rocket](../../../transcriptions/yt-njXBs_p2l1w,640.7067333333333,713.1457666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=640&end=714](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=640&end=714)
@@ -46,5 +46,5 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Jace Talk: Space Elevator](../../../transcriptions/yt-0P2A2UtY834.md) [https://www.youtube.com/watch?v=0P2A2UtY834](https://www.youtube.com/watch?v=0P2A2UtY834)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Is that a Space Elevator at the end of the trailer?](../../../transcriptions/yt-W1E6EWrAsII,421.68,434.4.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=421&end=435](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=421&end=435)

@@ -9,7 +9,7 @@ date: Last Modified
 * [State of Dev: Cloud Sync on Experimental branch for Epic Store disabled](../../transcriptions/yt-eAmIT8FuZdM.md) [https://www.youtube.com/watch?v=eAmIT8FuZdM](https://www.youtube.com/watch?v=eAmIT8FuZdM)
 * Q&A: How to reset the Steam/EOS Link? [https://www.youtube.com/watch?v=7H6bpfUJH84](https://www.youtube.com/watch?v=7H6bpfUJH84)
 
-## March 26th, 2021 Livestream
+## March 26th, 2021 Video
 * [Snutt Talk: Accessing the Experimental Branch](../../transcriptions/yt-jmrABq4cCzY,67.75,92.66666666666667.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93)
 
 ## March 16th, 2021 Livestream
@@ -21,8 +21,8 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * [Q&A: Is there a difference in performance between the Epic version and the Steam version?](../../transcriptions/yt-CgGc8VRspUA.md) [https://www.youtube.com/watch?v=CgGc8VRspUA](https://www.youtube.com/watch?v=CgGc8VRspUA)
 
-## April 26th, 2019 Livestream
+## April 26th, 2019 Milo Tutorial
 * [Jace Talk: Milo tutorial delays Update](../../transcriptions/yt--eBlSsTmUSE,167.8,226.24.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=167&end=227](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=167&end=227)
 
-## March 7th, 2019 Livestream
+## March 7th, 2019 Q&A
 * [Q&A: Regional Pricing?](../../transcriptions/yt-VHr4x1vNeoY,69.16,117.14.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118)

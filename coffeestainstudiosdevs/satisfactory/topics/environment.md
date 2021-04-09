@@ -28,7 +28,7 @@ date: Last Modified
 * [Q&A: ETA for Update 4](../transcriptions/yt-3xgs6Y-ZSe8.md) [https://www.youtube.com/watch?v=3xgs6Y-ZSe8](https://www.youtube.com/watch?v=3xgs6Y-ZSe8)
 * [Q&A: Put in Solar & Wind Power to make it ultra limited?](../transcriptions/yt-_IJsp-Fy1zw.md) [https://www.youtube.com/watch?v=_IJsp-Fy1zw](https://www.youtube.com/watch?v=_IJsp-Fy1zw)
 
-## April 30th, 2020 Livestream
+## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: Different ambient effects for different Biomes](../transcriptions/yt-mci92Mhr7MM,608.793576,697.5301666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698)
 * [Simon & Jace Talk: VFX for ambient effects](../transcriptions/yt-mci92Mhr7MM,425.240567,608.793576.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=425&end=609](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=425&end=609)
 

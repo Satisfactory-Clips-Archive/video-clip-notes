@@ -47,5 +47,5 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * [Q&A: Sandbox mode available?](../../../../transcriptions/yt-Dtm6xIj-wM4,1962.712002,2009.493406.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: Will there be a Creative Mode?](../../../../transcriptions/yt-iFAy1NZUOGU,14,29.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29)

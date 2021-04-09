@@ -30,7 +30,7 @@ date: Last Modified
 * [Q&A: Where are all the new music tracks so I can listen to them?](../../../transcriptions/yt-YdNaQY5PFe8.md) [https://www.youtube.com/watch?v=YdNaQY5PFe8](https://www.youtube.com/watch?v=YdNaQY5PFe8)
 * [Q&A: Will there be any more Dora and Diego?](../../../transcriptions/yt-9R0ldFVasJw.md) [https://www.youtube.com/watch?v=9R0ldFVasJw](https://www.youtube.com/watch?v=9R0ldFVasJw)
 
-## March 26th, 2021 Livestream
+## March 26th, 2021 Video
 * [Snutt Talk: Accessing the Experimental Branch](../../../transcriptions/yt-jmrABq4cCzY,67.75,92.66666666666667.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93)
 * [Snutt Talk: Changes coming to Update 4 on Experimental](../../../transcriptions/yt-jmrABq4cCzY,109.25,123.75.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=109&end=124](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=109&end=124)
 * [Snutt Talk: Cheatcrete](../../../transcriptions/yt-jmrABq4cCzY,305.2916666666667,386.0833333333333.md) [https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=305&end=387](https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=305&end=387)
@@ -128,7 +128,7 @@ date: Last Modified
 * Q&A: Would you say this Update is bigger than previous Updates? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8900&end=8977](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8900&end=8977)
 * [Zip Lines](../../../transcriptions/yt-Dp77ih_XmkY,565.625,573.0833333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=565&end=574](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=565&end=574)
 
-## March 12th, 2021 Livestream
+## March 12th, 2021 Video
 * All of the Update 4 related things in a playlist [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83)
 * [Join us for the Update 4 launch stream](../../../transcriptions/yt-xLLyS6RvFm8,,65.43203333333334.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66)
 
@@ -209,7 +209,7 @@ date: Last Modified
 * [Q&A: Where did the idea of making power producers produce 100% regardless of consumption come from?](../../../transcriptions/yt-Ws0Q7X1Twx0.md) [https://www.youtube.com/watch?v=Ws0Q7X1Twx0](https://www.youtube.com/watch?v=Ws0Q7X1Twx0)
 * [Q&A: Will we have different voltage-rated Power Lines in Update 4?](../../../transcriptions/yt-9u3U07NNrHM.md) [https://www.youtube.com/watch?v=9u3U07NNrHM](https://www.youtube.com/watch?v=9u3U07NNrHM)
 
-## February 19th, 2021 Livestream
+## February 19th, 2021 Video
 * [Geothermal Generators](../../../transcriptions/yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198)
 * [Intro](../../../transcriptions/yt-Tmpors_r_Vw,,26.259566666666668.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27)
 * [Outro Surprise](../../../transcriptions/yt-Tmpors_r_Vw,266.43283333333335,323.323.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=266&end=324](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=266&end=324)
@@ -262,7 +262,7 @@ date: Last Modified
 * [Q&A: Will Update 4 include Map Updates?](../../../transcriptions/yt-HoD69Qs7RTU.md) [https://www.youtube.com/watch?v=HoD69Qs7RTU](https://www.youtube.com/watch?v=HoD69Qs7RTU)
 * [Q&A: Will Update 4 remove the need for headlift?](../../../transcriptions/yt-N3vSwuoV94Q.md) [https://www.youtube.com/watch?v=N3vSwuoV94Q](https://www.youtube.com/watch?v=N3vSwuoV94Q)
 
-## February 5th, 2021 Livestream
+## February 5th, 2021 Video
 * [Nitrogen Gas Resource Well](../../../transcriptions/yt-rI5kRMSwo5Q,330.36336666666665,499.6992.md) [https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500](https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500)
 * [UI Change - AWESOME Store](../../../transcriptions/yt-rI5kRMSwo5Q,75.54213333333334,189.92306666666667.md) [https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=75&end=190](https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=75&end=190)
 * [UI change - Open in Codex](../../../transcriptions/yt-rI5kRMSwo5Q,42.273444,75.54611.md) [https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76](https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76)
@@ -349,7 +349,7 @@ date: Last Modified
 * [Q&A: Will you have specialised Gas Buffers?](../../../transcriptions/yt-IumWTbZtoWo.md) [https://www.youtube.com/watch?v=IumWTbZtoWo](https://www.youtube.com/watch?v=IumWTbZtoWo)
 * [Q&A: With the introducion of Gas, will Coal Generators be split into two buildings?](../../../transcriptions/yt-vsmihiP_Tmg.md) [https://www.youtube.com/watch?v=vsmihiP_Tmg](https://www.youtube.com/watch?v=vsmihiP_Tmg)
 
-## January 15th, 2021 Livestream
+## January 15th, 2021 Video
 * [Headlift for Gases](../../../transcriptions/yt-Jxh8kvtUuxY,100.56713333333333,136.00253333333333.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=100&end=137)
 * [Intro](../../../transcriptions/yt-Jxh8kvtUuxY,,46.3463.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47)
 * [Nitrogen](../../../transcriptions/yt-Jxh8kvtUuxY,46.3463,56.38966666666667.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=46&end=57](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=46&end=57)
@@ -374,7 +374,7 @@ date: Last Modified
 * [Q&A: Will there be any major changes to the game with Update 4?](../../../transcriptions/yt-8ImofeADWyI.md) [https://www.youtube.com/watch?v=8ImofeADWyI](https://www.youtube.com/watch?v=8ImofeADWyI)
 * [Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?](../../../transcriptions/yt-pSGEDxxLn2E.md) [https://www.youtube.com/watch?v=pSGEDxxLn2E](https://www.youtube.com/watch?v=pSGEDxxLn2E)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Aluminum Casing](../../../transcriptions/yt-njXBs_p2l1w,245.57866666666666,333.23290000000003.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334)
 * [Assembly Director System](../../../transcriptions/yt-njXBs_p2l1w,536.9364,640.7067333333333.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=536&end=641](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=536&end=641)
 * [Coffee Stain R&D Factory](../../../transcriptions/yt-njXBs_p2l1w,124.9248,154.154.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155)
@@ -415,7 +415,7 @@ date: Last Modified
 * [Q&A: Doesn't Jace already have a video/youtube on Dev Timelime stuff?](../../../transcriptions/yt-2-MMBU1hMKM.md) [https://www.youtube.com/watch?v=2-MMBU1hMKM](https://www.youtube.com/watch?v=2-MMBU1hMKM)
 * [Snutt & Jace Talk: Vague Roadmap, Update 4](../../../transcriptions/yt-ghROw63PzX8.md) [https://www.youtube.com/watch?v=ghROw63PzX8](https://www.youtube.com/watch?v=ghROw63PzX8)
 
-## November 5th, 2020 Livestream
+## November 5th, 2020 Dev Vlog
 * Ben & Jace Talk: Factory Render Distance [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1137&end=1172](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1137&end=1172)
 * Ben & Jace Talk: Mesh Imposters / LODing (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=974&end=1138](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=974&end=1138)
 
@@ -529,7 +529,7 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Q&A: Next Update? [https://clips.twitch.tv/CrunchyMistyAsparagus4Head](https://clips.twitch.tv/CrunchyMistyAsparagus4Head)
 
-## July 30th, 2020 Livestream
+## July 30th, 2020 Q&A
 * Q&A: What's going to be in Update 4? [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=70&end=74](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=70&end=74)
 * Q&A: When is Update 4 going to come out? [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=66&end=71](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=66&end=71)
 * [Q&A: Will Dedicated Servers be part of Update 4?](../../../transcriptions/yt-1dUNmBBbExs,88.2,101.20356.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=88&end=102](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=88&end=102)

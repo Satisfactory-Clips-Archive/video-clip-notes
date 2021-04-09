@@ -34,5 +34,5 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * [Q&A: Terraforming?](../../../transcriptions/yt-Dtm6xIj-wM4,979.016429,1016.088881.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=979&end=1017](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=979&end=1017)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * Q&A: Will there be landscape deformation or Terraforming? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67)

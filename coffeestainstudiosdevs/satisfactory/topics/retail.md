@@ -29,11 +29,11 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * [Snutt & Jace Talk: We don't plan very well at all](../transcriptions/yt-uNWZuo9AxdM.md) [https://www.youtube.com/watch?v=uNWZuo9AxdM](https://www.youtube.com/watch?v=uNWZuo9AxdM)
 
-## June 7th, 2019 Livestream
+## June 7th, 2019 Video
 * [Jace Talk: Coffee Stain's trepidation over Satisfactory launch](../transcriptions/yt-RvKmQs6m_iY,120.22,229.36.md) [https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=120&end=230](https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=120&end=230)
 * [Jace Talk: Satisfactory sales figures](../transcriptions/yt-RvKmQs6m_iY,17.36,65.3.md) [https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=17&end=66](https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=17&end=66)
 
-## March 15th, 2019 Livestream
+## March 15th, 2019 Q&A
 * [Q&A: Are there perks for pre-purchase?](../transcriptions/yt-R0S19_caQuw,69.96,74.2.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=69&end=75](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=69&end=75)
 * [Q&A: Can I pre-download the game?](../transcriptions/yt-R0S19_caQuw,67.94,69.96.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=67&end=70](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=67&end=70)
 * [Community FYI: Satisfactory isn't appearing in my library even thought I pre-purchased it](../transcriptions/yt-R0S19_caQuw,55.16,67.94.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=55&end=68](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=55&end=68)

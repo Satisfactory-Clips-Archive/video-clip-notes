@@ -30,7 +30,7 @@ date: Last Modified
 * [Q&A: Do you have a plan on adding a Pipe-bursting feature if you over-pressurise them?](../../transcriptions/yt-OoXaGUS3umo.md) [https://www.youtube.com/watch?v=OoXaGUS3umo](https://www.youtube.com/watch?v=OoXaGUS3umo)
 * [Q&A: Sink that accepts Liquids or Gas?](../../transcriptions/yt-SskXA-lxaCI.md) [https://www.youtube.com/watch?v=SskXA-lxaCI](https://www.youtube.com/watch?v=SskXA-lxaCI)
 
-## January 15th, 2021 Livestream
+## January 15th, 2021 Video
 * [Intro](../../transcriptions/yt-Jxh8kvtUuxY,,46.3463.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=0&end=47)
 
 ## January 12th, 2021 Livestream
@@ -40,7 +40,7 @@ date: Last Modified
 ## December 15th, 2020 Livestream
 * [Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?](../../transcriptions/yt-pSGEDxxLn2E.md) [https://www.youtube.com/watch?v=pSGEDxxLn2E](https://www.youtube.com/watch?v=pSGEDxxLn2E)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Packaged Alumina Solution & Packaged Sulphuric Acid](../../transcriptions/yt-njXBs_p2l1w,154.154,245.57866666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246)
 
 ## November 17th, 2020 Livestream

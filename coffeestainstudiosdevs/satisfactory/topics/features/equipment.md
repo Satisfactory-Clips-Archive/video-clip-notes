@@ -71,10 +71,10 @@ date: Last Modified
 * [Q&A: I want to fire Nukes at my rival Pioneers?](../../transcriptions/yt-CQ0vc3uRaw8.md) [https://www.youtube.com/watch?v=CQ0vc3uRaw8](https://www.youtube.com/watch?v=CQ0vc3uRaw8)
 * [Q&A: Why can't we explode some stones in the map?](../../transcriptions/yt-Yhtu3NBv2NM.md) [https://www.youtube.com/watch?v=Yhtu3NBv2NM](https://www.youtube.com/watch?v=Yhtu3NBv2NM)
 
-## July 8th, 2020 Livestream
+## July 8th, 2020 Mod Highlight
 * [Q&A: Does anyone know if there's a mod to holster weapon?](../../transcriptions/yt-1dUNmBBbExs,1833.468476,1843.905544.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1833&end=1844](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1833&end=1844)
 
-## April 30th, 2020 Livestream
+## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: VFX for Nobelisk explosion](../../transcriptions/yt-mci92Mhr7MM,235.96906666666666,425.240567.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426)
 
 ## January 22nd, 2020 Livestream
@@ -83,7 +83,7 @@ date: Last Modified
 ## December 19th, 2019 Livestream
 * [Jace, Snutt, & Birk Talk: Testing weapons & animations](../../transcriptions/yt-BWn3_s89tYE.md) [https://www.youtube.com/watch?v=BWn3_s89tYE](https://www.youtube.com/watch?v=BWn3_s89tYE)
 
-## May 14th, 2019 Livestream
+## May 14th, 2019 Video
 * [Jace Talk: Hand slot is now a toolbelt](../../transcriptions/yt-aceacdNX9WA,131.402374,142.269831.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143)
 * [Jace Talk: Rifle Mk.2](../../transcriptions/yt-aceacdNX9WA,162.126431,170.318853.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=162&end=171](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=162&end=171)
 * [Jace Talk: We've added a Rifle](../../transcriptions/yt-aceacdNX9WA,152.279617,162.126431.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=152&end=163](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=152&end=163)
@@ -97,5 +97,5 @@ date: Last Modified
 ## February 20th, 2019 Livestream
 * [Q&A: Will the night cycle be dark so you need lights?](../../transcriptions/yt-CB9bSigNYH8,5390.335913,5404.05357.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5390&end=5405](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5390&end=5405)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: Is there research or a tech tree in the game?](../../transcriptions/yt-iFAy1NZUOGU,147.92,170.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171)

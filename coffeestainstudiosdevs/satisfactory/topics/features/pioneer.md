@@ -38,7 +38,7 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Why doesn't the Pioneer Helmet integrate a Gas Mask if the atmosphere is unbreathable?](../../transcriptions/yt-2zz08zzXTCU.md) [https://www.youtube.com/watch?v=2zz08zzXTCU](https://www.youtube.com/watch?v=2zz08zzXTCU)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Magnetic Field Generator](../../transcriptions/yt-njXBs_p2l1w,443.557086,536.9364.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=443&end=537](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=443&end=537)
 
 ## November 10th, 2020 Livestream
@@ -79,5 +79,5 @@ date: Last Modified
 * [Q&A: Besides the starting areas,will there be random spawns in the release?](../../transcriptions/yt-Dtm6xIj-wM4,2974.6666666666665,3016.687892.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2974&end=3017](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2974&end=3017)
 * [Q&A: What happens when you die?](../../transcriptions/yt-Dtm6xIj-wM4,1663.964039,1669.29091.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1663&end=1670](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1663&end=1670)
 
-## November 8th, 2018 Livestream
+## November 8th, 2018 Dev Blog
 * [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516)

@@ -10,7 +10,7 @@ date: Last Modified
 ## February 2nd, 2021 Livestream
 * [Q&A: In the next Update will we be able to craft something with Nuclear Waste?](../../transcriptions/yt-tmuvsaAsm-c.md) [https://www.youtube.com/watch?v=tmuvsaAsm-c](https://www.youtube.com/watch?v=tmuvsaAsm-c)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Plutonium Waste](../../transcriptions/yt-njXBs_p2l1w,333.23290000000003,443.557086.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444)
 
 ## March 24th, 2020 Livestream

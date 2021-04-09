@@ -135,10 +135,10 @@ date: Last Modified
 * [Q&A: What happens to players eventually when they are run over by a friend in a vehicle?](../../../transcriptions/yt-Dtm6xIj-wM4,3171.605804,3200.183129.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3171&end=3201](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3171&end=3201)
 * [Q&A: Will there be any cosmetics available?](../../../transcriptions/yt-Dtm6xIj-wM4,3923.903388,3977.117038.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: Did the Vehicle dev blog cover everything?](../../../transcriptions/yt-iFAy1NZUOGU,131.28,147.92.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=131&end=148](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=131&end=148)
 * [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100)
 * [Q&A: Won't the factory stop working if you're really far away?](../../../transcriptions/yt-iFAy1NZUOGU,170.36,188.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=170&end=189](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=170&end=189)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Will there be autonomous/driveable/water vehicles?](../../../transcriptions/yt-W1E6EWrAsII,375.64,391.24.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=375&end=392](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=375&end=392)

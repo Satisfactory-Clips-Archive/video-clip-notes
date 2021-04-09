@@ -46,7 +46,7 @@ date: Last Modified
 * Jace Talk: Holding shift (on a Ladder) not making a difference [https://www.youtube.com/watch?v=9dQIJfmd74A](https://www.youtube.com/watch?v=9dQIJfmd74A)
 * [Q&A: How about a button to lock a Building in place before building it?](../../transcriptions/yt-1b3hUDdPoKY.md) [https://www.youtube.com/watch?v=1b3hUDdPoKY](https://www.youtube.com/watch?v=1b3hUDdPoKY)
 
-## February 19th, 2021 Livestream
+## February 19th, 2021 Video
 * [Geothermal Generators](../../transcriptions/yt-Tmpors_r_Vw,138.50503333333333,197.79760000000002.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=138&end=198)
 * [Power Switch](../../transcriptions/yt-Tmpors_r_Vw,26.259566666666668,78.078.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=26&end=79](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=26&end=79)
 
@@ -60,7 +60,7 @@ date: Last Modified
 * [Q&A: Will there be another list coming in the Codex showing you which recipes need certain items?](../../transcriptions/yt-Wk1osyojNQw.md) [https://www.youtube.com/watch?v=Wk1osyojNQw](https://www.youtube.com/watch?v=Wk1osyojNQw)
 * [Q&A: Will there be less "invalid placement" issues?](../../transcriptions/yt-oawyPBC7jAo.md) [https://www.youtube.com/watch?v=oawyPBC7jAo](https://www.youtube.com/watch?v=oawyPBC7jAo)
 
-## February 5th, 2021 Livestream
+## February 5th, 2021 Video
 * [Nitrogen Gas Resource Well](../../transcriptions/yt-rI5kRMSwo5Q,330.36336666666665,499.6992.md) [https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500](https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500)
 * [UI Change - AWESOME Store](../../transcriptions/yt-rI5kRMSwo5Q,75.54213333333334,189.92306666666667.md) [https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=75&end=190](https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=75&end=190)
 * [UI change - Open in Codex](../../transcriptions/yt-rI5kRMSwo5Q,42.273444,75.54611.md) [https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76](https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76)
@@ -165,7 +165,7 @@ date: Last Modified
 * [Q&A: What about holes for Foundations?](../../transcriptions/yt-fufH5ltdn7E.md) [https://www.youtube.com/watch?v=fufH5ltdn7E](https://www.youtube.com/watch?v=fufH5ltdn7E)
 * [Q&A: When will you ad UI for the Steam Geyser Power Plant?](../../transcriptions/yt-xFZfkjY3J0c.md) [https://www.youtube.com/watch?v=xFZfkjY3J0c](https://www.youtube.com/watch?v=xFZfkjY3J0c)
 
-## July 8th, 2020 Livestream
+## July 8th, 2020 Mod Highlight
 * [Community FYI: Uses standard popup with custom disconnect message](../../transcriptions/yt-1dUNmBBbExs,655.75986,667.119423.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668)
 
 ## June 8th, 2020 Livestream
@@ -189,7 +189,7 @@ date: Last Modified
 * [Q&A: Hotbars?](../../transcriptions/yt-pkYEJmwJWrg.md) [https://www.youtube.com/watch?v=pkYEJmwJWrg](https://www.youtube.com/watch?v=pkYEJmwJWrg)
 * [Q&A: Is there going to be a central computer plant where you can check the whole production?](../../transcriptions/yt-Zlq2K0-z0_8.md) [https://www.youtube.com/watch?v=Zlq2K0-z0_8](https://www.youtube.com/watch?v=Zlq2K0-z0_8)
 
-## May 14th, 2019 Livestream
+## May 14th, 2019 Video
 * [Jace Talk: Hand slot is now a toolbelt](../../transcriptions/yt-aceacdNX9WA,131.402374,142.269831.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143)
 * [Jace Talk: We've added a Map & Radar Towers](../../transcriptions/yt-aceacdNX9WA,96.095281,109.183564.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110)
 
@@ -212,14 +212,14 @@ date: Last Modified
 * [Q&A: Top-down view?](../../transcriptions/yt-Dtm6xIj-wM4,1125.56383,1155.053199.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1125&end=1156](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1125&end=1156)
 * [Q&A: Will there be third-person view?](../../transcriptions/yt-Dtm6xIj-wM4,1245.697874,1259.567788.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1245&end=1260](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1245&end=1260)
 
-## November 8th, 2018 Livestream
+## November 8th, 2018 Dev Blog
 * [Storing some items for later](../../transcriptions/yt-J_Dznt1OG-0,568.31775,885.815429.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: Will there be a top-down view?](../../transcriptions/yt-iFAy1NZUOGU,29,58.6.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=29&end=59](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=29&end=59)
 
-## July 19th, 2018 Livestream
+## July 19th, 2018 Dev Blog
 * [Vehicle Autopilot](../../transcriptions/yt-IxoCzb2M0vQ,130.550701,249.6.md) [https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=130&end=250](https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=130&end=250)
 
-## August 1st, 2017 Livestream
+## August 1st, 2017 Tutorial
 * [Jace Talk: Basic Movement & Controls](../../transcriptions/yt-ZW0OOikcWN0,73.32,100.230344.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=73&end=101](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=73&end=101)

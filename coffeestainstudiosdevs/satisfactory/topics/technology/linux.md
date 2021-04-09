@@ -49,5 +49,5 @@ date: Last Modified
 * [Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](../../transcriptions/yt-Cnw_Ow3K29I.md) [https://www.youtube.com/watch?v=Cnw_Ow3K29I](https://www.youtube.com/watch?v=Cnw_Ow3K29I)
 * [Q&A: Is Linux support planned in the future?](../../transcriptions/yt-GR3xet5AyuE.md) [https://www.youtube.com/watch?v=GR3xet5AyuE](https://www.youtube.com/watch?v=GR3xet5AyuE)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Will there be Mac/Linux/Console cross-platform support?](../../transcriptions/yt-W1E6EWrAsII,406.52,421.68.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=406&end=422](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=406&end=422)

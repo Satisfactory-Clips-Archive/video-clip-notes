@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=9tdYBCwd5no
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as July 2020.</summary>
 
-* [July 8th, 2020 Livestream Q&A: What is your favourite Mod?](./yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
+* [July 8th, 2020 Mod Highlight Q&A: What is your favourite Mod?](./yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
 </details>
 
 

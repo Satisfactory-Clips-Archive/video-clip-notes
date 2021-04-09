@@ -37,10 +37,10 @@ date: Last Modified
 * [Snutt & Mark Talk: Tier 7 Rebalancing](../../../transcriptions/yt-YIGc6e8zwYs.md) [https://www.youtube.com/watch?v=YIGc6e8zwYs](https://www.youtube.com/watch?v=YIGc6e8zwYs)
 * [Q&A: When will Jace get to Tier 7?](../../../transcriptions/yt-xmZ--a6nkQU.md) [https://www.youtube.com/watch?v=xmZ--a6nkQU](https://www.youtube.com/watch?v=xmZ--a6nkQU)
 
-## January 15th, 2021 Livestream
+## January 15th, 2021 Video
 * [Q&A: What will Gases be used for?](../../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Aluminum Casing](../../../transcriptions/yt-njXBs_p2l1w,245.57866666666666,333.23290000000003.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=245&end=334)
 
 ## December 8th, 2020 Livestream

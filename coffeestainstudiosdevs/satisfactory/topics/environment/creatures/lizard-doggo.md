@@ -98,5 +98,5 @@ date: Last Modified
 * [Q&A: Any plans for harnessing wildlife for your base, using Lizard Doggos as pack animals?](../../../transcriptions/yt-Dtm6xIj-wM4,3545.070455,3610.872363.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3545&end=3611](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3545&end=3611)
 * [Q&A: You mentioned enemies earlier but now you say there'll be nothing to worry about?](../../../transcriptions/yt-Dtm6xIj-wM4,2685.5,2726.329682.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Will there be Lizard Doggo plushies?](../../../transcriptions/yt-W1E6EWrAsII,214.36,238.12.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=214&end=239)

@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Potential to get better management for power grids?
 https://www.youtube.com/watch?v=_H3wk4VfjIY
-This question was possibly replaced with a more recent answer: [February 19th, 2021 Livestream Intro](./yt-Tmpors_r_Vw,,26.259566666666668.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27)
+This question was possibly replaced with a more recent answer: [February 19th, 2021 Video Intro](./yt-Tmpors_r_Vw,,26.259566666666668.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27)
 
 
 ### Topics

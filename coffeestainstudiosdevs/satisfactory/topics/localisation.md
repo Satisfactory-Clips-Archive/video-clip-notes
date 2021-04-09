@@ -34,10 +34,10 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Q&A: Will you fix translations?](../transcriptions/yt-NJxOCbsJtZQ.md) [https://www.youtube.com/watch?v=NJxOCbsJtZQ](https://www.youtube.com/watch?v=NJxOCbsJtZQ)
 
-## May 14th, 2019 Livestream
+## May 14th, 2019 Video
 * [Jace Talk: Opening up Localisation & changing Roadmap](../transcriptions/yt-aceacdNX9WA,31.712972,55.112001.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=31&end=56](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=31&end=56)
 
-## March 15th, 2019 Livestream
+## March 15th, 2019 Q&A
 * [Q&A: Will the game be localised into any other languages before Early Access?](../transcriptions/yt-R0S19_caQuw,209.08,264.36.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=209&end=265](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=209&end=265)
 
 ## February 20th, 2019 Livestream
@@ -46,11 +46,11 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * [Q&A: Localisation support?](../transcriptions/yt-Dtm6xIj-wM4,1398.110387,1429.840647.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1398&end=1430](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1398&end=1430)
 
-## October 3rd, 2018 Livestream
+## October 3rd, 2018 Alpha Info
 * [Q&A: Localisation/Translation?](../transcriptions/yt-1OQk7vNt6-0,261.62,292.16.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=261&end=293](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=261&end=293)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Will you localise Satisfactory into x language?](../transcriptions/yt-W1E6EWrAsII,345.76,375.64.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=345&end=376](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=345&end=376)
 
-## August 1st, 2017 Livestream
+## August 1st, 2017 Tutorial
 * [Jace Talk: Changing Localisation via the Swedish menus](../transcriptions/yt-ZW0OOikcWN0,25.186806,57.8.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=25&end=58](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=25&end=58)

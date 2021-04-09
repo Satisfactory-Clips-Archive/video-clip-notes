@@ -196,12 +196,12 @@ date: Last Modified
 * [Q&A: What happens to players eventually when they are run over by a friend in a vehicle?](../../transcriptions/yt-Dtm6xIj-wM4,3171.605804,3200.183129.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3171&end=3201](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3171&end=3201)
 * [Q&A: Will there be VR support?](../../transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
 
-## October 3rd, 2018 Livestream
+## October 3rd, 2018 Alpha Info
 * [Q&A: Will the Alpha be single-player or multiplayer?](../../transcriptions/yt-1OQk7vNt6-0,147.1,196.48.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=147&end=197](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=147&end=197)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Jace Talk: General multiplayer questions](../../transcriptions/yt-W1E6EWrAsII,256.8,316.92.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317)
 
-## August 1st, 2017 Livestream
+## August 1st, 2017 Tutorial
 * [Jace Talk: Multiplayer Crafting](../../transcriptions/yt-ZW0OOikcWN0,444.2,459.28.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460)
 * [Jace Talk: Multiplayer Ping & Text Chat](../../transcriptions/yt-ZW0OOikcWN0,100.230344,155.16.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=100&end=156](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=100&end=156)

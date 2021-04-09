@@ -13,7 +13,7 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: What do Resource Wells mean for existing ways for extracting Water & Oil?](../../../transcriptions/yt-ezGse7K-fWI.md) [https://www.youtube.com/watch?v=ezGse7K-fWI](https://www.youtube.com/watch?v=ezGse7K-fWI)
 
-## January 15th, 2021 Livestream
+## January 15th, 2021 Video
 * [Resource Wells](../../../transcriptions/yt-Jxh8kvtUuxY,56.38966666666667,100.56713333333333.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101)
 
 ## October 6th, 2020 Livestream

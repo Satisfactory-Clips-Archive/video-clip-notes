@@ -27,7 +27,7 @@ date: Last Modified
 * Q&A: Rickroll? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=439&end=451](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=439&end=451)
 * Jace Talk: The patch notes video subtitles have been translated [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13495&end=13545](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13495&end=13545)
 
-## March 12th, 2021 Livestream
+## March 12th, 2021 Video
 * [Join us for the Update 4 launch stream](../../transcriptions/yt-xLLyS6RvFm8,,65.43203333333334.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66)
 
 ## March 9th, 2021 Livestream
@@ -54,7 +54,7 @@ date: Last Modified
 * [Q&A: How much after the things you've teased is left?](../../transcriptions/yt-XNsN_3Kjlqs.md) [https://www.youtube.com/watch?v=XNsN_3Kjlqs](https://www.youtube.com/watch?v=XNsN_3Kjlqs)
 * [Q&A: Please tease us about the Friday teaser?](../../transcriptions/yt-xrbSRH35qY8.md) [https://www.youtube.com/watch?v=xrbSRH35qY8](https://www.youtube.com/watch?v=xrbSRH35qY8)
 
-## February 19th, 2021 Livestream
+## February 19th, 2021 Video
 * [Intro](../../transcriptions/yt-Tmpors_r_Vw,,26.259566666666668.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27)
 
 ## February 9th, 2021 Livestream
@@ -105,6 +105,6 @@ date: Last Modified
 * [Snutt & Jace Talk: AWESOME Shop Teaser](../../transcriptions/yt-0fiuHwwSrrI.md) [https://www.youtube.com/watch?v=0fiuHwwSrrI](https://www.youtube.com/watch?v=0fiuHwwSrrI)
 * [Snutt & Jace Talk: AWESOME Shop Teaser (no microtransactions)](../../transcriptions/yt-1UbLRZJ0-SE.md) [https://www.youtube.com/watch?v=1UbLRZJ0-SE](https://www.youtube.com/watch?v=1UbLRZJ0-SE)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Is that a Space Elevator at the end of the trailer?](../../transcriptions/yt-W1E6EWrAsII,421.68,434.4.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=421&end=435](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=421&end=435)
 * [Q&A: Was the trailer a cinematic, or shot in-engine?](../../transcriptions/yt-W1E6EWrAsII,492.52,520.44.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=492&end=521](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=492&end=521)

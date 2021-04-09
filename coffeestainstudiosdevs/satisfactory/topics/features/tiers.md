@@ -76,17 +76,17 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * [Q&A: What HUB Tier will have electric floors?](../../transcriptions/yt-cH3ityZn8E4.md) [https://www.youtube.com/watch?v=cH3ityZn8E4](https://www.youtube.com/watch?v=cH3ityZn8E4)
 
-## March 15th, 2019 Livestream
+## March 15th, 2019 Q&A
 * [Q&A: Are there plans to have more than 7 tiers?](../../transcriptions/yt-R0S19_caQuw,415.66,426.78.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=415&end=427](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=415&end=427)
 
 ## March 9th, 2019 Livestream
 * [Q&A: I think the milestones are too cheap](../../transcriptions/yt-clmX0WGZBfg.md) [https://www.youtube.com/watch?v=clmX0WGZBfg](https://www.youtube.com/watch?v=clmX0WGZBfg)
 
-## October 3rd, 2018 Livestream
+## October 3rd, 2018 Alpha Info
 * [Q&A: Will all the tech* be available in the alpha?](../../transcriptions/yt-1OQk7vNt6-0,196.48,233.42.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234)
 
-## September 12th, 2018 Livestream
+## September 12th, 2018 Alpha Info
 * [Alpha's content focus](../../transcriptions/yt-31XJ1Q_glAw,96.88,169.44.md) [https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170](https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * [Q&A: Is there research or a tech tree in the game?](../../transcriptions/yt-iFAy1NZUOGU,147.92,170.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171)

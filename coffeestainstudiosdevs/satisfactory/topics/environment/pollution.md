@@ -25,5 +25,5 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * [Q&A: Will there be CO₂ emissions and will it effect the ecosystem?](../../transcriptions/yt-Dtm6xIj-wM4,1834.645233,1861.372808.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1834&end=1862](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1834&end=1862)
 
-## August 1st, 2018 Livestream
+## August 1st, 2018 Q&A
 * Q&A: Will there be Pollution in the game? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=60&end=63](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=60&end=63)

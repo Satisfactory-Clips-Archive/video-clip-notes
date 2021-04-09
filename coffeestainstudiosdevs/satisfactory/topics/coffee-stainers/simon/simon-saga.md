@@ -7,7 +7,7 @@ date: Last Modified
 ## February 16th, 2021 Livestream
 * [Q&A: Who's Simon?](../../../transcriptions/yt-MQSdhIKAjNc.md) [https://www.youtube.com/watch?v=MQSdhIKAjNc](https://www.youtube.com/watch?v=MQSdhIKAjNc)
 
-## April 30th, 2020 Livestream
+## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: Introducing Simon](../../../transcriptions/yt-mci92Mhr7MM,164.289825,235.960259.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236)
 
 ## December 19th, 2019 Livestream

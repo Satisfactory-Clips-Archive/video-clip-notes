@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=_fE2dbyaJZg
 * [March 9th, 2019 Livestream Q&A: Are you guys planning to add any terraforming or digging?](./yt-DW0MT8G-wMI.md) [https://www.youtube.com/watch?v=DW0MT8G-wMI](https://www.youtube.com/watch?v=DW0MT8G-wMI)
 * [February 20th, 2019 Livestream Q&A: Can we deform terrain?](./yt-CB9bSigNYH8,5141.221945,5152.209084.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5141&end=5153](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5141&end=5153)
 * [February 6th, 2019 Livestream Q&A: Terraforming?](./yt-Dtm6xIj-wM4,979.016429,1016.088881.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=979&end=1017](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=979&end=1017)
-* August 1st, 2018 Livestream Q&A: Will there be landscape deformation or Terraforming? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67)
+* August 1st, 2018 Q&A: Will there be landscape deformation or Terraforming? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67)
 </details>
 
 

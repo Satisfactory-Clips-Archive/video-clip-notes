@@ -53,7 +53,7 @@ date: Last Modified
 ## September 8th, 2020 Livestream
 * [Q&A: Even more Biomes coming to play?](../../transcriptions/yt-VgDl00Ycn3U.md) [https://www.youtube.com/watch?v=VgDl00Ycn3U](https://www.youtube.com/watch?v=VgDl00Ycn3U)
 
-## April 30th, 2020 Livestream
+## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: Different ambient effects for different Biomes](../../transcriptions/yt-mci92Mhr7MM,608.793576,697.5301666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698)
 
 ## February 11th, 2020 Livestream
@@ -74,8 +74,8 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * [Q&A: Will there be underground/subterranean areas of the map?](../../transcriptions/yt-Dtm6xIj-wM4,1268.770686,1276.953399.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1268&end=1277](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1268&end=1277)
 
-## October 3rd, 2018 Livestream
+## October 3rd, 2018 Alpha Info
 * [Q&A: Will all the tech* be available in the alpha?](../../transcriptions/yt-1OQk7vNt6-0,196.48,233.42.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=196&end=234)
 
-## September 12th, 2018 Livestream
+## September 12th, 2018 Alpha Info
 * [Alpha's content focus](../../transcriptions/yt-31XJ1Q_glAw,96.88,169.44.md) [https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170](https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170)

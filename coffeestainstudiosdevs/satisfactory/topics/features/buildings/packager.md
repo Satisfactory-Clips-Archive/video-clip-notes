@@ -9,7 +9,7 @@ date: Last Modified
 * [Q&A: Will Diluted Packaged Fuel be retained if Diluted Liquid Fuel gets added to the Blender?](../../../transcriptions/yt-7U9JUf9NUYQ.md) [https://www.youtube.com/watch?v=7U9JUf9NUYQ](https://www.youtube.com/watch?v=7U9JUf9NUYQ)
 * [Q&A: Will Gas packaging happen in the Packager?](../../../transcriptions/yt-K2uidbt0_VE.md) [https://www.youtube.com/watch?v=K2uidbt0_VE](https://www.youtube.com/watch?v=K2uidbt0_VE)
 
-## December 11th, 2020 Livestream
+## December 11th, 2020 Teasers
 * [Packaged Alumina Solution & Packaged Sulphuric Acid](../../../transcriptions/yt-njXBs_p2l1w,154.154,245.57866666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246)
 
 ## November 10th, 2020 Livestream

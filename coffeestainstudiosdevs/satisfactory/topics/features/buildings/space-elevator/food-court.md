@@ -20,5 +20,5 @@ date: Last Modified
 ## February 20th, 2019 Livestream
 * [Community FYI: The cake is a lie!](../../../../transcriptions/yt-CB9bSigNYH8,4521.066755,4531.568623.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4521&end=4532](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4521&end=4532)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Is that a Space Elevator at the end of the trailer?](../../../../transcriptions/yt-W1E6EWrAsII,421.68,434.4.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=421&end=435](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=421&end=435)

@@ -85,5 +85,5 @@ date: Last Modified
 * [Q&A: Any DLCs planned?](../../../transcriptions/yt-Dtm6xIj-wM4,1429.8333333333333,1437.887831.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1429&end=1438](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1429&end=1438)
 * [Q&A: Are there going to be free updates after the game is released, or is it all going to be DLCs?](../../../transcriptions/yt-Dtm6xIj-wM4,1550.571925,1573.58823.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574)
 
-## June 22nd, 2018 Livestream
+## June 22nd, 2018 Q&A
 * [Q&A: Plans for post-launch?](../../../transcriptions/yt-W1E6EWrAsII,120.52,176.6.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177)

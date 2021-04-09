@@ -25,7 +25,7 @@ date: Last Modified
 * [Q&A: Will Diluted Packaged Fuel be retained if Diluted Liquid Fuel gets added to the Blender?](../../../transcriptions/yt-7U9JUf9NUYQ.md) [https://www.youtube.com/watch?v=7U9JUf9NUYQ](https://www.youtube.com/watch?v=7U9JUf9NUYQ)
 * [Q&A: Will we use the Blender for Diluted Fuel?](../../../transcriptions/yt-9rPXUN4W5Hg.md) [https://www.youtube.com/watch?v=9rPXUN4W5Hg](https://www.youtube.com/watch?v=9rPXUN4W5Hg)
 
-## January 15th, 2021 Livestream
+## January 15th, 2021 Video
 * [Q&A: What will Gases be used for?](../../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188)
 
 ## January 12th, 2021 Livestream
