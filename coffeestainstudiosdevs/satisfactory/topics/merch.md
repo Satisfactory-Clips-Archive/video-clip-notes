@@ -144,6 +144,9 @@ date: Last Modified
 * [Q&A: Are there any plans on releasing these arts?](../transcriptions/yt-caJMcQ-Z0eE.md) [https://www.youtube.com/watch?v=caJMcQ-Z0eE](https://www.youtube.com/watch?v=caJMcQ-Z0eE)
 * [Q&A: We want a Simon body pillow?](../transcriptions/yt-gHZsodBmCms.md) [https://www.youtube.com/watch?v=gHZsodBmCms](https://www.youtube.com/watch?v=gHZsodBmCms)
 
+## August 30th, 2019 Video
+* [Jace Talk: I went to Gamescom](../transcriptions/yt-urT0gI_cP04,14.757437,76.md) [https://youtube.com/embed/urT0gI_cP04?autoplay=1&start=14&end=76](https://youtube.com/embed/urT0gI_cP04?autoplay=1&start=14&end=76)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Do I get a sticker for how many bugs I reported in alpha?](../transcriptions/yt-2ny0XTCY6l0.md) [https://www.youtube.com/watch?v=2ny0XTCY6l0](https://www.youtube.com/watch?v=2ny0XTCY6l0)
 * [Q&A: Lizard Doggo plushie when?](../transcriptions/yt-jGiN1SdQOFk.md) [https://www.youtube.com/watch?v=jGiN1SdQOFk](https://www.youtube.com/watch?v=jGiN1SdQOFk)

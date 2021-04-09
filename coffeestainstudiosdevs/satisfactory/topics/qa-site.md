@@ -49,3 +49,6 @@ date: Last Modified
 
 ## January 22nd, 2020 Livestream
 * [Jace Talk: The QA Site](../transcriptions/yt-eaaYqnAGK0M.md) [https://www.youtube.com/watch?v=eaaYqnAGK0M](https://www.youtube.com/watch?v=eaaYqnAGK0M)
+
+## August 30th, 2019 Video
+* [Jace Talk: The QA Site](../transcriptions/yt-urT0gI_cP04,76,157.56.md) [https://youtube.com/embed/urT0gI_cP04?autoplay=1&start=76&end=158](https://youtube.com/embed/urT0gI_cP04?autoplay=1&start=76&end=158)

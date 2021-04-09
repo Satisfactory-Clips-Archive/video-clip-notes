@@ -181,6 +181,9 @@ date: Last Modified
 * [Q&A: Snutt Jace's baby Community Manager?](../transcriptions/yt-mmaqnomYjFQ.md) [https://www.youtube.com/watch?v=mmaqnomYjFQ](https://www.youtube.com/watch?v=mmaqnomYjFQ)
 * [Q&A: What is the job of Community Managers?](../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
 
+## August 30th, 2019 Video
+* [Jace Talk: I went to Gamescom](../transcriptions/yt-urT0gI_cP04,14.757437,76.md) [https://youtube.com/embed/urT0gI_cP04?autoplay=1&start=14&end=76](https://youtube.com/embed/urT0gI_cP04?autoplay=1&start=14&end=76)
+
 ## June 7th, 2019 Video
 * [Jace Talk: Thank you to our Community](../transcriptions/yt-RvKmQs6m_iY,65.3,120.22.md) [https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=65&end=121](https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=65&end=121)
 
