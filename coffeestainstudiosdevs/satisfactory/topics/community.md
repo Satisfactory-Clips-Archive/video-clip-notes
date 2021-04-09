@@ -181,6 +181,9 @@ date: Last Modified
 * [Q&A: Snutt Jace's baby Community Manager?](../transcriptions/yt-mmaqnomYjFQ.md) [https://www.youtube.com/watch?v=mmaqnomYjFQ](https://www.youtube.com/watch?v=mmaqnomYjFQ)
 * [Q&A: What is the job of Community Managers?](../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
 
+## December 13th, 2019 Video
+* [Snutt Talk: Improving Community Engagement](../transcriptions/yt-N1o3tK1h8cM,61.72,72.68.md) [https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=61&end=73](https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=61&end=73)
+
 ## September 13th, 2019 Video
 * [Jace Talk: Community priotisation of Dedicated Servers vs. Mod Support](../transcriptions/yt-s3m74qGSYK4,56.82,101.62.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102)
 

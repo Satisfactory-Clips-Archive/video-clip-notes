@@ -93,6 +93,7 @@ layout: index
 # 2019
 ## December
 * [December 19th](2019-12-19.md)
+* [December 13th](2019-12-13.md)
 * [December 2nd](2019-12-02.md)
 
 ## November
