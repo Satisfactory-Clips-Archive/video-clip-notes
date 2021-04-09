@@ -112,6 +112,9 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [State of Dev: Biggest thing that's going on in the office right now.](../transcriptions/yt--HN8rUEaVwY.md) [https://www.youtube.com/watch?v=-HN8rUEaVwY](https://www.youtube.com/watch?v=-HN8rUEaVwY)
 
+## July 6th, 2019 Video
+* [Jace Talk: Coffee Stain Summer break](../transcriptions/yt-OXblIR1BnIM,9.070002,19.33124.md) [https://youtube.com/embed/OXblIR1BnIM?autoplay=1&start=9&end=20](https://youtube.com/embed/OXblIR1BnIM?autoplay=1&start=9&end=20)
+
 ## June 7th, 2019 Video
 * [Jace Talk: Coffee Stain's trepidation over Satisfactory launch](../transcriptions/yt-RvKmQs6m_iY,120.22,229.36.md) [https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=120&end=230](https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=120&end=230)
 

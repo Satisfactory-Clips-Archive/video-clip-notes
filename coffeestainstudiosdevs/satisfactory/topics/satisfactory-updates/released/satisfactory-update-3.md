@@ -100,3 +100,6 @@ date: Last Modified
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../../transcriptions/yt-d_FZQ5KTWA0.md) [https://www.youtube.com/watch?v=d_FZQ5KTWA0](https://www.youtube.com/watch?v=d_FZQ5KTWA0)
 * [Q&A: Will Mods work correctly after the Update?](../../../transcriptions/yt-qf6QTYIHDaQ.md) [https://www.youtube.com/watch?v=qf6QTYIHDaQ](https://www.youtube.com/watch?v=qf6QTYIHDaQ)
 * [Q&A: Will you fix translations?](../../../transcriptions/yt-NJxOCbsJtZQ.md) [https://www.youtube.com/watch?v=NJxOCbsJtZQ](https://www.youtube.com/watch?v=NJxOCbsJtZQ)
+
+## July 6th, 2019 Video
+* [Jace Talk: Update 3 scheduled for planning after the Summer break](../../../transcriptions/yt-OXblIR1BnIM,42.166271,60.158046.md) [https://youtube.com/embed/OXblIR1BnIM?autoplay=1&start=42&end=61](https://youtube.com/embed/OXblIR1BnIM?autoplay=1&start=42&end=61)

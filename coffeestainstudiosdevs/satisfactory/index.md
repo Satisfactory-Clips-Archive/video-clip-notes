@@ -95,6 +95,7 @@ layout: index
 * [December 19th](2019-12-19.md)
 
 ## July
+* [July 6th](2019-07-06.md)
 * [July 2nd](2019-07-02.md)
 
 ## June
