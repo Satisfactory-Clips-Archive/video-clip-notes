@@ -165,6 +165,9 @@ date: Last Modified
 * [Q&A: Will the Dedicated Servers have some sort of permissions system?](../../../transcriptions/yt-h6mpSh0JH5o.md) [https://www.youtube.com/watch?v=h6mpSh0JH5o](https://www.youtube.com/watch?v=h6mpSh0JH5o)
 * [Q&A: Will we need to buy a new copy for the server?](../../../transcriptions/yt-H6FZ4VqocHw.md) [https://www.youtube.com/watch?v=H6FZ4VqocHw](https://www.youtube.com/watch?v=H6FZ4VqocHw)
 
+## September 13th, 2019 Video
+* [Jace Talk: Community priotisation of Dedicated Servers vs. Mod Support](../../../transcriptions/yt-s3m74qGSYK4,56.82,101.62.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102)
+
 ## March 15th, 2019 Q&A
 * [Q&A: Any ETA on Dedicated Servers?](../../../transcriptions/yt-R0S19_caQuw,433.1,447.14.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448)
 * [Q&A: Please, please, please make a Linux based dedicated server that can run headless.](../../../transcriptions/yt-R0S19_caQuw,403.32,412.34.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413)

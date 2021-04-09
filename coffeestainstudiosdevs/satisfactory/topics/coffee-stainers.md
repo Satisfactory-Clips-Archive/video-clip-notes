@@ -112,6 +112,9 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [State of Dev: Biggest thing that's going on in the office right now.](../transcriptions/yt--HN8rUEaVwY.md) [https://www.youtube.com/watch?v=-HN8rUEaVwY](https://www.youtube.com/watch?v=-HN8rUEaVwY)
 
+## September 13th, 2019 Video
+* [Jace Talk: We want to do more dev/programming streams](../transcriptions/yt-s3m74qGSYK4,39.543556,56.82.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=39&end=57](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=39&end=57)
+
 ## July 6th, 2019 Video
 * [Jace Talk: Coffee Stain Summer break](../transcriptions/yt-OXblIR1BnIM,9.070002,19.33124.md) [https://youtube.com/embed/OXblIR1BnIM?autoplay=1&start=9&end=20](https://youtube.com/embed/OXblIR1BnIM?autoplay=1&start=9&end=20)
 

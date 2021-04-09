@@ -16,3 +16,6 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: Cloud Sync issues](../../../transcriptions/yt-a2v9EWPj79Q.md) [https://www.youtube.com/watch?v=a2v9EWPj79Q](https://www.youtube.com/watch?v=a2v9EWPj79Q)
 * [Snutt & Jace Talk: Save Files & Cloud Sync](../../../transcriptions/yt-gGnQV2Rs5oc.md) [https://www.youtube.com/watch?v=gGnQV2Rs5oc](https://www.youtube.com/watch?v=gGnQV2Rs5oc)
+
+## September 13th, 2019 Video
+* [Jace Talk: Cloud saves](../../../transcriptions/yt-s3m74qGSYK4,164.32,202.64.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=164&end=203](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=164&end=203)

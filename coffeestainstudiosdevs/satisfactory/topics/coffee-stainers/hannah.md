@@ -61,6 +61,9 @@ date: Last Modified
 * [Q&A: What would Hannah look for in an Environment Artist's portfolio?](../../transcriptions/yt-yDZRa_7BTrU.md) [https://www.youtube.com/watch?v=yDZRa_7BTrU](https://www.youtube.com/watch?v=yDZRa_7BTrU)
 * [Q&A: Why does Hannah look like Billie Eilish?](../../transcriptions/yt-vn8SMPtHoJM.md) [https://www.youtube.com/watch?v=vn8SMPtHoJM](https://www.youtube.com/watch?v=vn8SMPtHoJM)
 
+## September 13th, 2019 Video
+* [Jace Talk: Dev Highlights editing stream](../../transcriptions/yt-s3m74qGSYK4,15.320043,39.543556.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=15&end=40](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=15&end=40)
+
 ## February 20th, 2019 Livestream
 * Q&A: Can Hannah do a little gameplay? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5073&end=5082](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5073&end=5082)
 * Q&A: Can Hannah speak Dutch? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4092&end=4104](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4092&end=4104)

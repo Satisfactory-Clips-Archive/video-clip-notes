@@ -92,6 +92,9 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../../transcriptions/yt-d_FZQ5KTWA0.md) [https://www.youtube.com/watch?v=d_FZQ5KTWA0](https://www.youtube.com/watch?v=d_FZQ5KTWA0)
 
+## September 13th, 2019 Video
+* [Jace Talk: Train fixes](../../../transcriptions/yt-s3m74qGSYK4,101.62,145.56.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=101&end=146](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=101&end=146)
+
 ## July 2nd, 2019 Patch Notes
 * [Jace Talk: We've added Trains](../../../transcriptions/yt-mtVwiCQ5sZI,62.437374999999996,180.63879166666666.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=62&end=181](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=62&end=181)
 

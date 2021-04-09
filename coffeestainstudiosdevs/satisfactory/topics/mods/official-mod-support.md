@@ -43,6 +43,9 @@ date: Last Modified
 ## February 11th, 2020 Livestream
 * [Q&A: Where's Mod support?](../../transcriptions/yt-JRyAZT7y44g.md) [https://www.youtube.com/watch?v=JRyAZT7y44g](https://www.youtube.com/watch?v=JRyAZT7y44g)
 
+## September 13th, 2019 Video
+* [Jace Talk: Community priotisation of Dedicated Servers vs. Mod Support](../../transcriptions/yt-s3m74qGSYK4,56.82,101.62.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102)
+
 ## March 9th, 2019 Livestream
 * [Jace Talk: Mods](../../transcriptions/yt-JPafvjU7Z0k.md) [https://www.youtube.com/watch?v=JPafvjU7Z0k](https://www.youtube.com/watch?v=JPafvjU7Z0k)
 * [Jace Talk: Mod support](../../transcriptions/yt-37zFxpeGm-E.md) [https://www.youtube.com/watch?v=37zFxpeGm-E](https://www.youtube.com/watch?v=37zFxpeGm-E)
