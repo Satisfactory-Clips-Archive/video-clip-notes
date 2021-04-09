@@ -112,6 +112,9 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [State of Dev: Biggest thing that's going on in the office right now.](../transcriptions/yt--HN8rUEaVwY.md) [https://www.youtube.com/watch?v=-HN8rUEaVwY](https://www.youtube.com/watch?v=-HN8rUEaVwY)
 
+## June 7th, 2019 Livestream
+* [Jace Talk: Coffee Stain's trepidation over Satisfactory launch](../transcriptions/yt-RvKmQs6m_iY,120.22,229.36.md) [https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=120&end=230](https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=120&end=230)
+
 ## March 9th, 2019 Livestream
 * [Q&A: But do they take your opinion (about steam) serious?](../transcriptions/yt-sZDS8dOdyvQ.md) [https://www.youtube.com/watch?v=sZDS8dOdyvQ](https://www.youtube.com/watch?v=sZDS8dOdyvQ)
 * [Q&A: Who suggested to build factory game?](../transcriptions/yt-AyPcl_Vs2D4.md) [https://www.youtube.com/watch?v=AyPcl_Vs2D4](https://www.youtube.com/watch?v=AyPcl_Vs2D4)
