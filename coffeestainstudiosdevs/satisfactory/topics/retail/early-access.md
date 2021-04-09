@@ -45,3 +45,6 @@ date: Last Modified
 * [Q&A: How much will it cost?](../../transcriptions/yt-VHr4x1vNeoY,47.56,69.16.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=47&end=70](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=47&end=70)
 * [Q&A: Regional Pricing?](../../transcriptions/yt-VHr4x1vNeoY,69.16,117.14.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118)
 * [Q&A: Why Early Access?](../../transcriptions/yt-VHr4x1vNeoY,35.34,47.56.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=35&end=48](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=35&end=48)
+
+## December 12th, 2018 Q&A
+* Q&A: Is there an Early Access feature on the Epic Store? [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=270&end=274](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=270&end=274)

@@ -202,6 +202,33 @@ date: Last Modified
 * [Q&A: What is the job of Community Managers?](../../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
 * [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../transcriptions/yt-krQI-cHEAl8.md) [https://www.youtube.com/watch?v=krQI-cHEAl8](https://www.youtube.com/watch?v=krQI-cHEAl8)
 
+## December 19th, 2019 Video
+* Alpha Keys! - Simon Saga Ep. 11 [BTS] (January 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76)
+* Alpha Keys - Simon Saga Ep. 12 (February 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93)
+* Alpha Release Date, Selection Process + more (October 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=134&end=140](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=134&end=140)
+* April Update Info + Milo tutorial (April 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25)
+* Bonus Experimental Bugfix patch (December 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=127&end=129](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=127&end=129)
+* Coffee Stain are hiring a Community Manager! [BTS] (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=25&end=35](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=25&end=35)
+* Dev Blog #2: Conveyor Belts/Basic Production Gameplay + Alpha Key info! (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=216&end=221](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=216&end=221)
+* [Developer Highlights - Helping Jace with programming](../../transcriptions/yt-52nYaN8imgo,152.94,169.54.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170)
+* Developer Highlights - Who's your favourite person in the office? [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195)
+* Q&A: Early Access info, localisation, save files + more (March 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=24&end=26](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=24&end=26)
+* [End of April™ Update (May 2019)](../../transcriptions/yt-52nYaN8imgo,48.86,58.54.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=48&end=59](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=48&end=59)
+* EPIC amount of Alpha Keys - Simon Saga Ep. 7 (December 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49)
+* Even MORE keys! - Simon Saga Ep. 4 (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=106&end=110](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=106&end=110)
+* Jace thinking about pipes for 1 hour [livestream] [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=245&end=251](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=245&end=251)
+* On the first day of Jacemas... [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=232&end=238](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=232&end=238)
+* [Q&A: Satisfactory exclusive to Epic Games Store (December 2018)](../../transcriptions/yt-52nYaN8imgo,201.34,216.1.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=201&end=217](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=201&end=217)
+* Q&A: Satisfactory exclusive to Epic Games Store (December 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=284&end=288](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=284&end=288)
+* Simon Saga Finale (March 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127)
+* [Simon Saga Finale [BTS] (May 2019)](../../transcriptions/yt-52nYaN8imgo,250.1,284.4.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=250&end=285](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=250&end=285)
+* Snutt's Little Baby [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202)
+* [Studio Tour of Coffee Stain Studios (June 2019)](../../transcriptions/yt-52nYaN8imgo,128.34,134.06.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=128&end=135](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=128&end=135)
+* Studio Tour of Coffee Stain Studios (June 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=237&end=241](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=237&end=241)
+* Studio Tour of Coffee Stain Studios [BTS] (June 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=240&end=246](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=240&end=246)
+* Studio Tour of Coffee Stain Studios [BTS] (June 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=359&end=366](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=359&end=366)
+* [Update #2: Trains & Nuclear (July 2019)](../../transcriptions/yt-52nYaN8imgo,173.56,190.88.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=173&end=191](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=173&end=191)
+
 ## December 13th, 2019 Video
 * [Snutt Talk: I'm not replacing Jace](../../transcriptions/yt-N1o3tK1h8cM,27.8,61.72.md) [https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=27&end=62](https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=27&end=62)
 
@@ -235,6 +262,9 @@ date: Last Modified
 
 ## December 25th, 2018 Video
 * [Intro](../../transcriptions/yt-S_AKfh38880,,73.8.md) [https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74](https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74)
+
+## December 12th, 2018 Q&A
+* [Community FYI: Your Community Manager is unprofessional, you should be ashamed](../../transcriptions/yt-7V4UPiBOshY,643.72,660.88.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=643&end=661](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=643&end=661)
 
 ## November 23rd, 2018 Dev Blog
 * [Intro](../../transcriptions/yt-1UqIDp_byFc,,36.12.md) [https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=0&end=37](https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=0&end=37)

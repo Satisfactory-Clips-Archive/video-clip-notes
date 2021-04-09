@@ -10,6 +10,8 @@ date: Last Modified
 * [G2](./topics/coffee-stainers/g2.md)
 * [Hannah](./topics/coffee-stainers/hannah.md)
 * [Jace](./topics/coffee-stainers/jace.md)
+* [Jannik](./topics/coffee-stainers/jannik.md)
+* [Joel](./topics/coffee-stainers/joel.md)
 * [Kristoffer](./topics/coffee-stainers/kristoffer.md)
 * [Linus](./topics/coffee-stainers/linus.md)
 * [Marie](./topics/coffee-stainers/marie.md)
@@ -21,6 +23,7 @@ date: Last Modified
 * [Pontus](./topics/coffee-stainers/pontus.md)
 * [Ros](./topics/coffee-stainers/ros.md)
 * [Snutt](./topics/coffee-stainers/snutt.md)
+* [Sofi](./topics/coffee-stainers/sofi.md)
 * [Tim](./topics/coffee-stainers/tim.md)
 * [Uzu](./topics/coffee-stainers/uzu.md)
 
@@ -41,6 +44,7 @@ date: Last Modified
 * [Satisfactory Calculator](./topics/community/satisfactory-calculator.md)
 * [Satisfactory News](./topics/community/satisfactory-news.md)
 * [Smerkin](./topics/community/smerkin.md)
+* [Tom](./topics/community/tom.md)
 * [Wiki](./topics/community/wiki.md)
 ---
 * [Easter Eggs](./topics/easter-eggs.md)

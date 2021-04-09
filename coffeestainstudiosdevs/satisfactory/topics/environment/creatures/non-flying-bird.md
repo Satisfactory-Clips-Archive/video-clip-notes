@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Non Flying Bird
 
+## December 19th, 2019 Video
+* Dev Blog #2: Conveyor Belts/Basic Production Gameplay + Alpha Key info! (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=216&end=221](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=216&end=221)
+
 ## February 6th, 2019 Livestream
 * [Q&A: You mentioned enemies earlier but now you say there'll be nothing to worry about?](../../../transcriptions/yt-Dtm6xIj-wM4,2685.5,2726.329682.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727)
 

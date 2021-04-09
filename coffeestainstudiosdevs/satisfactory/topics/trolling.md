@@ -131,6 +131,11 @@ date: Last Modified
 * [Q&A: What's Hannah's take on rocks that aren't on the ground?](../transcriptions/yt-y8FchPasYvI.md) [https://www.youtube.com/watch?v=y8FchPasYvI](https://www.youtube.com/watch?v=y8FchPasYvI)
 * [Q&A: What happened to the keys?](../transcriptions/yt-Xv-yl9jnC4s.md) [https://www.youtube.com/watch?v=Xv-yl9jnC4s](https://www.youtube.com/watch?v=Xv-yl9jnC4s)
 
+## December 19th, 2019 Video
+* April Update Info + Milo tutorial (April 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25)
+* [Developer Highlight - Music/ Developer Highlight - Sound Design [BTS] (September 2018)](../transcriptions/yt-52nYaN8imgo,220.56,232.76.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=220&end=233](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=220&end=233)
+* Developer Highlights - What kind of hardware do you use? [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149)
+
 ## April 26th, 2019 Milo Tutorial
 * [Jace Talk: Milo tutorial](../transcriptions/yt--eBlSsTmUSE,23.92,167.8.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168)
 

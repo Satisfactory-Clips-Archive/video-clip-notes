@@ -15,6 +15,7 @@ date: Last Modified
 * [Satisfactory Calculator](../topics/community/satisfactory-calculator.md)
 * [Satisfactory News](../topics/community/satisfactory-news.md)
 * [Smerkin](../topics/community/smerkin.md)
+* [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
 ## April 6th, 2021 Livestream
@@ -209,3 +210,6 @@ date: Last Modified
 * [Q&A: Can you say my name really quickly- it would make my day?](../transcriptions/yt-Dtm6xIj-wM4,3122.633333333333,3142.742535.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3122&end=3143](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3122&end=3143)
 * [Q&A: Have the Alpha Testers done any art using Walls and Paint Guns?](../transcriptions/yt-Dtm6xIj-wM4,3984.431848,4022.49158.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023)
 * [Q&A: You are one of the rare studios to be (openly) LGBTQ-friendly, why is that so important to you?](../transcriptions/yt-Dtm6xIj-wM4,3433.002272,3481.1666666666665.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482)
+
+## December 12th, 2018 Q&A
+* [Jace Talk: Thanking the people who supported us](../transcriptions/yt-7V4UPiBOshY,660.88,727.28.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=660&end=728](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=660&end=728)

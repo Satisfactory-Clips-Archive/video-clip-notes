@@ -93,6 +93,7 @@ layout: index
 # 2019
 ## December
 * [December 19th](2019-12-19.md)
+* [December 19th](2019-12-19.md)
 * [December 13th](2019-12-13.md)
 * [December 2nd](2019-12-02.md)
 
@@ -132,6 +133,7 @@ layout: index
 # 2018
 ## December
 * [December 25th](2018-12-25.md)
+* [December 12th](2018-12-12.md)
 
 ## November
 * [November 23rd](2018-11-23.md)

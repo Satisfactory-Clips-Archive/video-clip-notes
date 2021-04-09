@@ -10,3 +10,7 @@ date: Last Modified
 ## December 19th, 2019 Livestream
 * [Jace, Snutt, & Birk Talk: Kristoffer](../../transcriptions/yt-tDRTj2KHrCc.md) [https://www.youtube.com/watch?v=tDRTj2KHrCc](https://www.youtube.com/watch?v=tDRTj2KHrCc)
 * [Simon Talk: Kristoffer](../../transcriptions/yt-qlGFIWyq6Js.md) [https://www.youtube.com/watch?v=qlGFIWyq6Js](https://www.youtube.com/watch?v=qlGFIWyq6Js)
+
+## December 19th, 2019 Video
+* [Developer Highlights - Helping Jace with programming](../../transcriptions/yt-52nYaN8imgo,152.94,169.54.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170)
+* Developer Highlights - What kind of hardware do you use? [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149)

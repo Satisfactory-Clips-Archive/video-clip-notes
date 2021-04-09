@@ -65,6 +65,19 @@ date: Last Modified
 * [Q&A: What happened to the keys?](../../transcriptions/yt-Xv-yl9jnC4s.md) [https://www.youtube.com/watch?v=Xv-yl9jnC4s](https://www.youtube.com/watch?v=Xv-yl9jnC4s)
 * [Q&A: Which one was Simon's favourite Simon Saga video?](../../transcriptions/yt-weWtkbvOxdU.md) [https://www.youtube.com/watch?v=weWtkbvOxdU](https://www.youtube.com/watch?v=weWtkbvOxdU)
 
+## December 19th, 2019 Video
+* [500 Alpha Keys Sent Out! - Simon Saga Ep. 2 [BTS] (October 2018)](../../transcriptions/yt-52nYaN8imgo,80.4,88.42.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=80&end=89](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=80&end=89)
+* Alpha Keys! - Simon Saga Ep. 11 [BTS] (January 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76)
+* Alpha keys - Simon Saga Ep. 8 [BTS] (December 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=287&end=293](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=287&end=293)
+* Alpha Keys - Simon Saga Ep. 12 (February 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93)
+* [Developer Highlight - Music/ Developer Highlight - Sound Design [BTS] (September 2018)](../../transcriptions/yt-52nYaN8imgo,220.56,232.76.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=220&end=233](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=220&end=233)
+* EPIC amount of Alpha Keys - Simon Saga Ep. 7 (December 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49)
+* Even MORE keys! - Simon Saga Ep. 4 [BTS] (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=126&end=128](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=126&end=128)
+* More Alpha Keys - Simon Saga Ep. 3 [BTS] (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=66&end=69](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=66&end=69)
+* Simon Saga Finale (March 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127)
+* [Simon Saga Finale [BTS] (May 2019)](../../transcriptions/yt-52nYaN8imgo,250.1,284.4.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=250&end=285](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=250&end=285)
+* [Simon Saga Finale [BTS] (May 2019)](../../transcriptions/yt-52nYaN8imgo,332.44,343.44.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=332&end=344](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=332&end=344)
+
 ## March 9th, 2019 Livestream
 * [Snutt, Simon, Jace Talk: Animator, Sound Designer, Tim, and Simon Saga](../../transcriptions/yt-mTBx_JmNnsE.md) [https://www.youtube.com/watch?v=mTBx_JmNnsE](https://www.youtube.com/watch?v=mTBx_JmNnsE)
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../../transcriptions/yt-3gFgrVEkOpc.md) [https://www.youtube.com/watch?v=3gFgrVEkOpc](https://www.youtube.com/watch?v=3gFgrVEkOpc)

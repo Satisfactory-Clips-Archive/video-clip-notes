@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Satisfactory Updates](../../../../topics/satisfactory-updates.md) > Released > [Satisfactory Alpha](../../../../topics/satisfactory-updates/released/satisfactory-alpha.md) > Alpha Weekend
 
+## March 15th, 2019 Q&A
+* [Intro](../../../../transcriptions/yt-R0S19_caQuw,,46.2.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=0&end=47](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=0&end=47)
+
 ## March 9th, 2019 Livestream
 * [Q&A: After the Alpha Weekend - Alpha Testers can continue streaming with the Alpha client?](../../../../transcriptions/yt-jBOvSHJtna8.md) [https://www.youtube.com/watch?v=jBOvSHJtna8](https://www.youtube.com/watch?v=jBOvSHJtna8)
 * Snutt Talk: Alpha Test Weekend Hard Drive M.A.M. bug [https://www.youtube.com/watch?v=EyUfBo2-gjw](https://www.youtube.com/watch?v=EyUfBo2-gjw)

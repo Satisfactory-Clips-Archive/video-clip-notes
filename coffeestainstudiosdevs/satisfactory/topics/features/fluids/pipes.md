@@ -99,6 +99,9 @@ date: Last Modified
 ## December 19th, 2019 Livestream
 * [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../../transcriptions/yt-krQI-cHEAl8.md) [https://www.youtube.com/watch?v=krQI-cHEAl8](https://www.youtube.com/watch?v=krQI-cHEAl8)
 
+## December 19th, 2019 Video
+* Jace thinking about pipes for 1 hour [livestream] [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=245&end=251](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=245&end=251)
+
 ## February 20th, 2019 Livestream
 * Q&A: A pipe big enough to drive a car in? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1115&end=1129](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1115&end=1129)
 * [Q&A: What's the most ridiculous thing you could show us?](../../../transcriptions/yt-CB9bSigNYH8,1004.471031,1028.26878.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1004&end=1029](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1004&end=1029)

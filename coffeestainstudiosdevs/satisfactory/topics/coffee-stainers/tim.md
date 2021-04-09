@@ -21,3 +21,6 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Snutt, Simon, Jace Talk: Animator, Sound Designer, Tim, and Simon Saga](../../transcriptions/yt-mTBx_JmNnsE.md) [https://www.youtube.com/watch?v=mTBx_JmNnsE](https://www.youtube.com/watch?v=mTBx_JmNnsE)
+
+## December 12th, 2018 Q&A
+* [Q&A: But do your evil corporate decision makers play video games‽](../../transcriptions/yt-7V4UPiBOshY,317.8,337.32.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=317&end=338](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=317&end=338)

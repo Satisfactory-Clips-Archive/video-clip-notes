@@ -68,3 +68,6 @@ date: Last Modified
 
 ## March 24th, 2020 Livestream
 * [Q&A: You have several job openings right now?](../../transcriptions/yt-lqRP7DsUVes.md) [https://www.youtube.com/watch?v=lqRP7DsUVes](https://www.youtube.com/watch?v=lqRP7DsUVes)
+
+## December 19th, 2019 Video
+* Alpha Keys - Simon Saga Ep. 13 [BTS] (February 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=109&end=111](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=109&end=111)

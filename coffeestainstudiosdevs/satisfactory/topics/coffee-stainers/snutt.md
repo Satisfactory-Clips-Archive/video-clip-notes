@@ -187,6 +187,16 @@ date: Last Modified
 * [Q&A: Will Birk take Snutt's hat & put it on?](../../transcriptions/yt-QGR8OUtf08c.md) [https://www.youtube.com/watch?v=QGR8OUtf08c](https://www.youtube.com/watch?v=QGR8OUtf08c)
 * [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../transcriptions/yt-krQI-cHEAl8.md) [https://www.youtube.com/watch?v=krQI-cHEAl8](https://www.youtube.com/watch?v=krQI-cHEAl8)
 
+## December 19th, 2019 Video
+* [500 Alpha Keys Sent Out! - Simon Saga Ep. 2 [BTS] (October 2018)](../../transcriptions/yt-52nYaN8imgo,80.4,88.42.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=80&end=89](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=80&end=89)
+* Alpha Keys! - Simon Saga Ep. 11 [BTS] (January 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76)
+* Alpha keys - Simon Saga Ep. 8 [BTS] (December 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=287&end=293](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=287&end=293)
+* Alpha Keys - Simon Saga Ep. 13 [BTS] (February 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46)
+* New Community Manager - REVEALED (Deccember 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=343&end=346](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=343&end=346)
+* [New Community Manager - REVEALED (December 2019)](../../transcriptions/yt-52nYaN8imgo,92.16,105.12.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=92&end=106](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=92&end=106)
+* New Community Manager - REVEALED [BTS] (December 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=105&end=107](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=105&end=107)
+* Snutt's Little Baby [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202)
+
 ## December 13th, 2019 Video
 * [Snutt Talk: I'm not replacing Jace](../../transcriptions/yt-N1o3tK1h8cM,27.8,61.72.md) [https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=27&end=62](https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=27&end=62)
 * [Q&A: Who is Snutt?](../../transcriptions/yt-N1o3tK1h8cM,72.68,192.138596.md) [https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=72&end=193](https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=72&end=193)

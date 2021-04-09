@@ -10,6 +10,8 @@ date: Last Modified
 * [G2](../topics/coffee-stainers/g2.md)
 * [Hannah](../topics/coffee-stainers/hannah.md)
 * [Jace](../topics/coffee-stainers/jace.md)
+* [Jannik](../topics/coffee-stainers/jannik.md)
+* [Joel](../topics/coffee-stainers/joel.md)
 * [Kristoffer](../topics/coffee-stainers/kristoffer.md)
 * [Linus](../topics/coffee-stainers/linus.md)
 * [Marie](../topics/coffee-stainers/marie.md)
@@ -22,6 +24,7 @@ date: Last Modified
 * [Ros](../topics/coffee-stainers/ros.md)
 * [Simon](../topics/coffee-stainers/simon.md)
 * [Snutt](../topics/coffee-stainers/snutt.md)
+* [Sofi](../topics/coffee-stainers/sofi.md)
 * [Tim](../topics/coffee-stainers/tim.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
@@ -112,6 +115,9 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [State of Dev: Biggest thing that's going on in the office right now.](../transcriptions/yt--HN8rUEaVwY.md) [https://www.youtube.com/watch?v=-HN8rUEaVwY](https://www.youtube.com/watch?v=-HN8rUEaVwY)
 
+## December 19th, 2019 Video
+* Coffee Stain are hiring a Community Manager! [BTS] (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=148&end=153](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=148&end=153)
+
 ## September 13th, 2019 Video
 * [Jace Talk: We want to do more dev/programming streams](../transcriptions/yt-s3m74qGSYK4,39.543556,56.82.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=39&end=57](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=39&end=57)
 
@@ -151,3 +157,6 @@ date: Last Modified
 * [Q&A: Where have you learned your Unreal skills?](../transcriptions/yt-Dtm6xIj-wM4,2329.453589,2391.550622.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2329&end=2392](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2329&end=2392)
 * [Q&A: Who is the funniest at the stand-ups?](../transcriptions/yt-Dtm6xIj-wM4,2733.4333333333334,2765.667433.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766)
 * [Q&A: You are one of the rare studios to be (openly) LGBTQ-friendly, why is that so important to you?](../transcriptions/yt-Dtm6xIj-wM4,3433.002272,3481.1666666666665.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482)
+
+## December 12th, 2018 Q&A
+* [Q&A: Do you even use the Epic Launcher as gamers‽](../transcriptions/yt-7V4UPiBOshY,292.18,317.8.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=292&end=318](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=292&end=318)

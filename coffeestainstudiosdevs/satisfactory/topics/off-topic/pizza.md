@@ -14,6 +14,9 @@ date: Last Modified
 * [Q&A: Bananas on Pizza?](../../transcriptions/yt-RbDtGuXHEH0.md) [https://www.youtube.com/watch?v=RbDtGuXHEH0](https://www.youtube.com/watch?v=RbDtGuXHEH0)
 * [Q&A: Has Simon tried key pizza?](../../transcriptions/yt-qFYvqvrAFf8.md) [https://www.youtube.com/watch?v=qFYvqvrAFf8](https://www.youtube.com/watch?v=qFYvqvrAFf8)
 
+## December 19th, 2019 Video
+* Update #2: Trains & Nuclear (July 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=345&end=360](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=345&end=360)
+
 ## July 2nd, 2019 Patch Notes
 * Pizza [https://www.youtube.com/watch?v=yt-mtVwiCQ5sZI%2C344.7610833333333](https://www.youtube.com/watch?v=yt-mtVwiCQ5sZI%2C344.7610833333333)
 

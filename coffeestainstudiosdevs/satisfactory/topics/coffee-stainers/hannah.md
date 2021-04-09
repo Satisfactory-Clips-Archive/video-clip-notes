@@ -61,6 +61,14 @@ date: Last Modified
 * [Q&A: What would Hannah look for in an Environment Artist's portfolio?](../../transcriptions/yt-yDZRa_7BTrU.md) [https://www.youtube.com/watch?v=yDZRa_7BTrU](https://www.youtube.com/watch?v=yDZRa_7BTrU)
 * [Q&A: Why does Hannah look like Billie Eilish?](../../transcriptions/yt-vn8SMPtHoJM.md) [https://www.youtube.com/watch?v=vn8SMPtHoJM](https://www.youtube.com/watch?v=vn8SMPtHoJM)
 
+## December 19th, 2019 Video
+* Alpha Keys - Simon Saga Ep. 13 [BTS] (February 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46)
+* [Developer Highlight - Level Design [BTS] (October 2019)](../../transcriptions/yt-52nYaN8imgo,292.66,305.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=292&end=305](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=292&end=305)
+* Developer Highlight - Level Design [BTS] (October 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=318&end=333](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=318&end=333)
+* [Developer Highlights - Helping Jace with programming](../../transcriptions/yt-52nYaN8imgo,152.94,169.54.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170)
+* Developer Highlights - Who's your favourite person in the office? [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195)
+* Developre Highlight - Level Design [BTS] (October 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81)
+
 ## November 5th, 2019 Q&A
 * [Jace Talk: Hannah's Dev Highlight video](../../transcriptions/yt-Fsod_UF5eus,20.779934,37.720185.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=20&end=38](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=20&end=38)
 

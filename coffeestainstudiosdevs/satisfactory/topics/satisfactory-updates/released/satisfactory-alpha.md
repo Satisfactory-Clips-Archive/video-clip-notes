@@ -20,6 +20,9 @@ date: Last Modified
 ## September 1st, 2020 Livestream
 * [Q&A: Alpha Keys, when ?](../../../transcriptions/yt-Kuj7AhSysV8.md) [https://www.youtube.com/watch?v=Kuj7AhSysV8](https://www.youtube.com/watch?v=Kuj7AhSysV8)
 
+## December 19th, 2019 Video
+* Alpha Key Counts [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=110&end=117](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=110&end=117)
+
 ## March 15th, 2019 Q&A
 * [Q&A: Why don't I have a beta key?](../../../transcriptions/yt-R0S19_caQuw,378.46,384.72.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=378&end=385](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=378&end=385)
 * [Q&A: You guys fixed the M.A.M. hard drive crash yet?](../../../transcriptions/yt-R0S19_caQuw,412.34,415.66.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=412&end=416](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=412&end=416)
@@ -57,6 +60,11 @@ date: Last Modified
 * [Q&A: Is that an Alpha Key around your neck?](../../../transcriptions/yt-Dtm6xIj-wM4,1476.4,1489.634846.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1476&end=1490](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1476&end=1490)
 * [Q&A: Release date?](../../../transcriptions/yt-Dtm6xIj-wM4,280.42817,354.60912.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=280&end=355)
 * [Q&A: Will there be a Founder's pack with Alpha Access?](../../../transcriptions/yt-Dtm6xIj-wM4,1861.372808,1872.81796.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1861&end=1873](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1861&end=1873)
+
+## December 12th, 2018 Q&A
+* [Q&A: Did you ever give out Steam keys?](../../../transcriptions/yt-7V4UPiBOshY,460.08,486.04.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=460&end=487](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=460&end=487)
+* Q&A: Is the Alpha being done via Epic? [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415)
+* [Q&A: Was the Alpha always on Epic?](../../../transcriptions/yt-7V4UPiBOshY,452,460.08.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=452&end=461](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=452&end=461)
 
 ## November 8th, 2018 Dev Blog
 * [Powering up a Miner](../../../transcriptions/yt-J_Dznt1OG-0,64.28088333333334,163.34651666666667.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=64&end=164)

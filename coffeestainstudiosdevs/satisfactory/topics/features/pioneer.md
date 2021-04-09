@@ -68,6 +68,9 @@ date: Last Modified
 ## May 19th, 2020 Livestream
 * [Snutt & Gafgar Talk: Zombie Pioneers](../../transcriptions/yt-90rAQ31MQPI.md) [https://www.youtube.com/watch?v=90rAQ31MQPI](https://www.youtube.com/watch?v=90rAQ31MQPI)
 
+## December 19th, 2019 Video
+* Developer Highlight - Concept Art (August 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=169&end=174](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=169&end=174)
+
 ## February 20th, 2019 Livestream
 * [Q&A: Aren't we the aliens when get to the planet?](../../transcriptions/yt-CB9bSigNYH8,4284.443325,4301.268185.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302)
 * [Q&A: Can I swim?](../../transcriptions/yt-CB9bSigNYH8,421.013576,427.456855.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=421&end=428](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=421&end=428)

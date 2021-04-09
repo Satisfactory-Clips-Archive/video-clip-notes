@@ -36,6 +36,9 @@ date: Last Modified
 * Snutt & Jace Talk: Arachnophobia Mode (part 3) [https://clips.twitch.tv/ModernExquisiteJayFeelsBadMan](https://clips.twitch.tv/ModernExquisiteJayFeelsBadMan)
 * Snutt & Jace Talk: Arachnophobia Mode (part 4) [https://clips.twitch.tv/NurturingPlayfulSwanTBTacoLeft](https://clips.twitch.tv/NurturingPlayfulSwanTBTacoLeft)
 
+## December 19th, 2019 Video
+* The REAL meaning of fear... [not clickbait] (July 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=34&end=38](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=34&end=38)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Can we have an alternate arachnophobia mode with Simon's face?](../../../transcriptions/yt-3h2P4TfAAwE.md) [https://www.youtube.com/watch?v=3h2P4TfAAwE](https://www.youtube.com/watch?v=3h2P4TfAAwE)
 * [Q&A: How many types of scary spiders / cute cats are in game?](../../../transcriptions/yt-Qw4AMG6mgnY.md) [https://www.youtube.com/watch?v=Qw4AMG6mgnY](https://www.youtube.com/watch?v=Qw4AMG6mgnY)
