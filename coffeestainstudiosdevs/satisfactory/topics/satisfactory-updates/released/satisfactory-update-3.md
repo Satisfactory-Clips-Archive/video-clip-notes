@@ -86,6 +86,9 @@ date: Last Modified
 * [Q&A: Will there be any more major rebalances in the future?](../../../transcriptions/yt-y6PVnuMZu8w.md) [https://www.youtube.com/watch?v=y6PVnuMZu8w](https://www.youtube.com/watch?v=y6PVnuMZu8w)
 * [Q&A: Will you be able to preload the game?](../../../transcriptions/yt-xY1OQ_CuQhQ.md) [https://www.youtube.com/watch?v=xY1OQ_CuQhQ](https://www.youtube.com/watch?v=xY1OQ_CuQhQ)
 
+## January 24th, 2020 Video
+* [Jace Talk: Update 3 Release Date](../../../transcriptions/yt-Wg-e_6eF4hI,31.36,114.28.md) [https://youtube.com/embed/Wg-e_6eF4hI?autoplay=1&start=31&end=115](https://youtube.com/embed/Wg-e_6eF4hI?autoplay=1&start=31&end=115)
+
 ## January 22nd, 2020 Livestream
 * [Q&A: Any downsides to playing experimental](../../../transcriptions/yt-PJEaT3SIv0U.md) [https://www.youtube.com/watch?v=PJEaT3SIv0U](https://www.youtube.com/watch?v=PJEaT3SIv0U)
 * [Snutt & Jace Talk: AWESOME Shop Teaser](../../../transcriptions/yt-0fiuHwwSrrI.md) [https://www.youtube.com/watch?v=0fiuHwwSrrI](https://www.youtube.com/watch?v=0fiuHwwSrrI)
