@@ -86,6 +86,7 @@ layout: index
 * [March 24th](2020-03-24.md)
 
 ## February
+* [February 20th](2020-02-20.md)
 * [February 11th](2020-02-11.md)
 
 ## January

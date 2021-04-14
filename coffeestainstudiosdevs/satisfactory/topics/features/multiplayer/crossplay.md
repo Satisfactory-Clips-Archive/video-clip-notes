@@ -22,3 +22,6 @@ date: Last Modified
 
 ## March 24th, 2020 Livestream
 * [Q&A: How will we crossplay?](../../../transcriptions/yt--kVvrassZVw.md) [https://www.youtube.com/watch?v=-kVvrassZVw](https://www.youtube.com/watch?v=-kVvrassZVw)
+
+## February 20th, 2020 Video
+* [Q&A: Will I be able to play with people from Epic on the Steam version?](../../../transcriptions/yt-QBE1Xl94s9o,145.92,158.64.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=145&end=159](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=145&end=159)

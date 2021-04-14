@@ -59,6 +59,10 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * [State of Dev: Update 3, Steam Release](../../../transcriptions/yt-Y__cl6AcRzs.md) [https://www.youtube.com/watch?v=Y__cl6AcRzs](https://www.youtube.com/watch?v=Y__cl6AcRzs)
 
+## February 20th, 2020 Video
+* [Snutt Talk: Eventually moving Update 3 to the Early Access branch](../../../transcriptions/yt-QBE1Xl94s9o,37.64,70.04.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=37&end=71](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=37&end=71)
+* [Snutt Talk: We revealed Update 3 last week](../../../transcriptions/yt-QBE1Xl94s9o,15.56,37.64.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=15&end=38](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=15&end=38)
+
 ## February 11th, 2020 Livestream
 * [Q&A: Anything narrative?](../../../transcriptions/yt-1mZyPuZXLE4.md) [https://www.youtube.com/watch?v=1mZyPuZXLE4](https://www.youtube.com/watch?v=1mZyPuZXLE4)
 * [Q&A: Are Dedicated Servers part of Update 3?](../../../transcriptions/yt-4BbgGgUb1rA.md) [https://www.youtube.com/watch?v=4BbgGgUb1rA](https://www.youtube.com/watch?v=4BbgGgUb1rA)

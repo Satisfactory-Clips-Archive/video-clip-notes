@@ -2966,13 +2966,24 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 2 other times, as recently as March 2020 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 3 other times, as recently as March 2020 and as early as March 2019.</summary>
 
 * [March 24th, 2020 Livestream Q&A: Will the people who bought it on Epic get free Steam keys?](./transcriptions/yt-cCWKieE8O8g.md) [https://www.youtube.com/watch?v=cCWKieE8O8g](https://www.youtube.com/watch?v=cCWKieE8O8g)
+* [February 20th, 2020 Video Q&A: Can I get a copy on Steam if I own it on Epic?](./transcriptions/yt-QBE1Xl94s9o,137.04,145.92.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=137&end=146](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=137&end=146)
 * [March 15th, 2019 Q&A: If I buy the game on Epic now, can I have it moved to my Steam account later?](./transcriptions/yt-R0S19_caQuw,384.72,393.2.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394)
 </details>
 
-## [December 19th, 2019 Video](./2019-12-19.md)
+## [February 20th, 2020 Video](./2020-02-20.md)
+### [Q&A: When will the game be released on Steam?](./transcriptions/yt-QBE1Xl94s9o,100.04,137.04.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=100&end=138](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=100&end=138)
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as January 2020 and as early as February 2019.</summary>
+
+* [January 22nd, 2020 Livestream Q&A: Satisfactory on Steam?](./transcriptions/yt-gOgyvgKAGAQ.md) [https://www.youtube.com/watch?v=gOgyvgKAGAQ](https://www.youtube.com/watch?v=gOgyvgKAGAQ)
+* [February 6th, 2019 Livestream Q&A: Available on Steam in future?](./transcriptions/yt-Dtm6xIj-wM4,3280.698724,3286.654122.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287)
+</details>
+
+## [December 19th, 2019 Livestream](./2019-12-19.md)
 ### [Q&A: Will price go up after Early Access ends?](./transcriptions/yt-TFg_ppmX8OE.md) [https://www.youtube.com/watch?v=TFg_ppmX8OE](https://www.youtube.com/watch?v=TFg_ppmX8OE)
 
 <details>
