@@ -178,6 +178,9 @@ date: Last Modified
 * [Q&A: What's in the box?](../../transcriptions/yt-1dUNmBBbExs,3395.015298,3450.885972.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3395&end=3451](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3395&end=3451)
 * [Q&A: What is your favourite Mod?](../../transcriptions/yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
 
+## April 2nd, 2020 Q&A
+* [Jace Talk: Let's Gay It Out](../../transcriptions/yt-BmKMv6SZJ5M,254.96,319.04.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320)
+
 ## March 12th, 2020 Patch Notes
 * [Jace Talk: Dedicated Servers](../../transcriptions/yt-DsbHR1Nc8fw,348.88025,385.25987499999997.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=348&end=386](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=348&end=386)
 * [Jace Talk: We're sleeping in a plane, but we won't be adding planes](../../transcriptions/yt-DsbHR1Nc8fw,123.28983333333332,155.44695833333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156)

@@ -20,6 +20,9 @@ date: Last Modified
 * [Q&A: Will crossplay launch with the Steam release?](../../../transcriptions/yt-egY71egazyQ.md) [https://www.youtube.com/watch?v=egY71egazyQ](https://www.youtube.com/watch?v=egY71egazyQ)
 * Q&A: Will there be a lag difference between crossplay Multiplayer? [https://www.youtube.com/watch?v=kgQjKxY0oGQ](https://www.youtube.com/watch?v=kgQjKxY0oGQ)
 
+## April 2nd, 2020 Q&A
+* [Q&A: Will there be cross-platform support between Steam and Epic?](../../../transcriptions/yt-BmKMv6SZJ5M,206.74,237.3.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=206&end=238](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=206&end=238)
+
 ## March 24th, 2020 Livestream
 * [Q&A: How will we crossplay?](../../../transcriptions/yt--kVvrassZVw.md) [https://www.youtube.com/watch?v=-kVvrassZVw](https://www.youtube.com/watch?v=-kVvrassZVw)
 

@@ -9,7 +9,7 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Satisfactory on Steam?
 https://www.youtube.com/watch?v=gOgyvgKAGAQ
-This question was possibly duplicated with a more recent answer: [February 20th, 2020 Video Q&A: When will the game be released on Steam?](./yt-QBE1Xl94s9o,100.04,137.04.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=100&end=138](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=100&end=138)
+This question was possibly duplicated with a more recent answer: [April 2nd, 2020 Q&A: When is the Steam release going to come?](./yt-BmKMv6SZJ5M,122.12,145.62.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=122&end=146](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=122&end=146)
 
 
 ### Topics

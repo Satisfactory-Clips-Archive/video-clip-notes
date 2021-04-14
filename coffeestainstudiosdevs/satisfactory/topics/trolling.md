@@ -113,6 +113,9 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Q&A: Will Jace and Snutt still be friends with me if I buy it on Steam?](../transcriptions/yt-Lem_s04UYBA.md) [https://www.youtube.com/watch?v=Lem_s04UYBA](https://www.youtube.com/watch?v=Lem_s04UYBA)
 
+## April 2nd, 2020 Q&A
+* [Jace Talk: Let's Gay It Out](../transcriptions/yt-BmKMv6SZJ5M,254.96,319.04.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320)
+
 ## March 24th, 2020 Livestream
 * Q&A: Could sell Dev Bath Water? [https://www.youtube.com/watch?v=-Lqo5URgAfM](https://www.youtube.com/watch?v=-Lqo5URgAfM)
 * [Q&A: Did we miss any announcements?](../transcriptions/yt-Ws7_PXlK14g.md) [https://www.youtube.com/watch?v=Ws7_PXlK14g](https://www.youtube.com/watch?v=Ws7_PXlK14g)

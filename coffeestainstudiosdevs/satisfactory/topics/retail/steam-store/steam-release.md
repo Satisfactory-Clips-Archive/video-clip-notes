@@ -33,6 +33,15 @@ date: Last Modified
 * [Snutt & Gafgar Talk: What we had to do in order to support Multiplayer on Steam](../../../transcriptions/yt-tzQZ1akwzzM.md) [https://www.youtube.com/watch?v=tzQZ1akwzzM](https://www.youtube.com/watch?v=tzQZ1akwzzM)
 * [Q&A: Will crossplay launch with the Steam release?](../../../transcriptions/yt-egY71egazyQ.md) [https://www.youtube.com/watch?v=egY71egazyQ](https://www.youtube.com/watch?v=egY71egazyQ)
 
+## April 2nd, 2020 Q&A
+* [Q&A: Can I transfer my Epic version to Steam?](../../../transcriptions/yt-BmKMv6SZJ5M,187.22,206.74.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207)
+* [Q&A: Do Epic save files work on Steam?](../../../transcriptions/yt-BmKMv6SZJ5M,168.98,187.22.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=168&end=188](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=168&end=188)
+* [Jace Talk: More information on Steam release and next Update coming soon](../../../transcriptions/yt-BmKMv6SZJ5M,237.3,254.96.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=237&end=255](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=237&end=255)
+* [Jace Talk: Steam Release](../../../transcriptions/yt-BmKMv6SZJ5M,79.06,122.12.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=79&end=123](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=79&end=123)
+* [Q&A: What will the price be on Steam?](../../../transcriptions/yt-BmKMv6SZJ5M,145.62,168.98.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=145&end=169](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=145&end=169)
+* [Q&A: When is the Steam release going to come?](../../../transcriptions/yt-BmKMv6SZJ5M,122.12,145.62.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=122&end=146](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=122&end=146)
+* [Q&A: Will there be cross-platform support between Steam and Epic?](../../../transcriptions/yt-BmKMv6SZJ5M,206.74,237.3.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=206&end=238](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=206&end=238)
+
 ## March 24th, 2020 Livestream
 * [State of Dev: Update 3, Steam Release](../../../transcriptions/yt-Y__cl6AcRzs.md) [https://www.youtube.com/watch?v=Y__cl6AcRzs](https://www.youtube.com/watch?v=Y__cl6AcRzs)
 * [Q&A: Will the people who bought it on Epic get free Steam keys?](../../../transcriptions/yt-cCWKieE8O8g.md) [https://www.youtube.com/watch?v=cCWKieE8O8g](https://www.youtube.com/watch?v=cCWKieE8O8g)

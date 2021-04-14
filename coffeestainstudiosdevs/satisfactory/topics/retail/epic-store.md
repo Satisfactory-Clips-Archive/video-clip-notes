@@ -25,6 +25,9 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * [Q&A: Is there a difference in performance between the Epic version and the Steam version?](../../transcriptions/yt-CgGc8VRspUA.md) [https://www.youtube.com/watch?v=CgGc8VRspUA](https://www.youtube.com/watch?v=CgGc8VRspUA)
 
+## April 2nd, 2020 Q&A
+* [Q&A: Can I transfer my Epic version to Steam?](../../transcriptions/yt-BmKMv6SZJ5M,187.22,206.74.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207)
+
 ## February 20th, 2020 Video
 * [Q&A: Will my save file work in either version?](../../transcriptions/yt-QBE1Xl94s9o,158.64,193.36.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=158&end=194](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=158&end=194)
 

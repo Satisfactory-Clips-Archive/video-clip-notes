@@ -2954,6 +2954,24 @@ date: Last Modified
 </details>
 
 ## [June 8th, 2020 Livestream](./2020-06-08.md)
+### [Q&A: How much is it going to cost on Steam?](./transcriptions/yt-_UZr4JLSA1c.md) [https://www.youtube.com/watch?v=_UZr4JLSA1c](https://www.youtube.com/watch?v=_UZr4JLSA1c)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> yeah yeah how much is it gonna cost in steam it's the same price we have to we have to keep the same price essentially on both uh platforms so they're always gonna be the same price yeah it's part of the distribution agreement with both epic and steam that you can't like make special deals for your game on different platforms so if you have like a discount on for the game on one platform you have to have it on the other one as well maybe i don't think you have to do it at the same time but you have to have it in like a set amount of like time span or something so you don't feel like one is better than the other yeah
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as June 2020 and as early as April 2020.</summary>
+
+* [June 8th, 2020 Livestream Q&A: How much will it cost on Steam?](./transcriptions/yt-FILck3h3n0A.md) [https://www.youtube.com/watch?v=FILck3h3n0A](https://www.youtube.com/watch?v=FILck3h3n0A)
+* [April 2nd, 2020 Q&A: What will the price be on Steam?](./transcriptions/yt-BmKMv6SZJ5M,145.62,168.98.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=145&end=169](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=145&end=169)
+</details>
+
 ### [Q&A: Will I get a Steam key if I already bought it on Epic?](./transcriptions/yt-GWtv9JpKGS0.md) [https://www.youtube.com/watch?v=GWtv9JpKGS0](https://www.youtube.com/watch?v=GWtv9JpKGS0)
 
 <details>
@@ -2966,19 +2984,21 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 3 other times, as recently as March 2020 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 4 other times, as recently as April 2020 and as early as March 2019.</summary>
 
+* [April 2nd, 2020 Q&A: Can I transfer my Epic version to Steam?](./transcriptions/yt-BmKMv6SZJ5M,187.22,206.74.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207)
 * [March 24th, 2020 Livestream Q&A: Will the people who bought it on Epic get free Steam keys?](./transcriptions/yt-cCWKieE8O8g.md) [https://www.youtube.com/watch?v=cCWKieE8O8g](https://www.youtube.com/watch?v=cCWKieE8O8g)
 * [February 20th, 2020 Video Q&A: Can I get a copy on Steam if I own it on Epic?](./transcriptions/yt-QBE1Xl94s9o,137.04,145.92.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=137&end=146](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=137&end=146)
 * [March 15th, 2019 Q&A: If I buy the game on Epic now, can I have it moved to my Steam account later?](./transcriptions/yt-R0S19_caQuw,384.72,393.2.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394)
 </details>
 
-## [February 20th, 2020 Video](./2020-02-20.md)
-### [Q&A: When will the game be released on Steam?](./transcriptions/yt-QBE1Xl94s9o,100.04,137.04.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=100&end=138](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=100&end=138)
+## [April 2nd, 2020 Q&A](./2020-04-02.md)
+### [Q&A: When is the Steam release going to come?](./transcriptions/yt-BmKMv6SZJ5M,122.12,145.62.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=122&end=146](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=122&end=146)
 
 <details>
-<summary>This question may have been asked previously at least 2 other times, as recently as January 2020 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 3 other times, as recently as February 2020 and as early as February 2019.</summary>
 
+* [February 20th, 2020 Video Q&A: When will the game be released on Steam?](./transcriptions/yt-QBE1Xl94s9o,100.04,137.04.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=100&end=138](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=100&end=138)
 * [January 22nd, 2020 Livestream Q&A: Satisfactory on Steam?](./transcriptions/yt-gOgyvgKAGAQ.md) [https://www.youtube.com/watch?v=gOgyvgKAGAQ](https://www.youtube.com/watch?v=gOgyvgKAGAQ)
 * [February 6th, 2019 Livestream Q&A: Available on Steam in future?](./transcriptions/yt-Dtm6xIj-wM4,3280.698724,3286.654122.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287)
 </details>

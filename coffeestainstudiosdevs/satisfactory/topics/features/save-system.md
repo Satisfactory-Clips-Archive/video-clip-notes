@@ -65,6 +65,9 @@ date: Last Modified
 ## May 19th, 2020 Livestream
 * [Snutt & Gafgar Talk: Zombie Pioneers](../../transcriptions/yt-90rAQ31MQPI.md) [https://www.youtube.com/watch?v=90rAQ31MQPI](https://www.youtube.com/watch?v=90rAQ31MQPI)
 
+## April 2nd, 2020 Q&A
+* [Q&A: Do Epic save files work on Steam?](../../transcriptions/yt-BmKMv6SZJ5M,168.98,187.22.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=168&end=188](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=168&end=188)
+
 ## March 12th, 2020 Patch Notes
 * [Jace Talk: Save files after Update 3](../../transcriptions/yt-DsbHR1Nc8fw,406.11404166666665,438.14604166666663.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=406&end=439](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=406&end=439)
 

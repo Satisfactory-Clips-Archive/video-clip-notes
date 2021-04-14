@@ -103,6 +103,9 @@ date: Last Modified
 ## July 8th, 2020 Mod Highlight
 * [Community FYI: You guys helped us a lot in making mods](../transcriptions/yt-1dUNmBBbExs,2393.307296,2438.703271.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439)
 
+## April 2nd, 2020 Q&A
+* [Jace Talk: Impact of global pandemic](../transcriptions/yt-BmKMv6SZJ5M,24.68,79.06.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=24&end=80](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=24&end=80)
+
 ## March 24th, 2020 Livestream
 * [Snutt & Jace Talk: We don't plan very well at all](../transcriptions/yt-uNWZuo9AxdM.md) [https://www.youtube.com/watch?v=uNWZuo9AxdM](https://www.youtube.com/watch?v=uNWZuo9AxdM)
 * [State of Dev: Working from home](../transcriptions/yt-4umNqbDy7Yc.md) [https://www.youtube.com/watch?v=4umNqbDy7Yc](https://www.youtube.com/watch?v=4umNqbDy7Yc)

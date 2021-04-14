@@ -166,6 +166,9 @@ date: Last Modified
 ## May 19th, 2020 Livestream
 * [Q&A: Do you intended to do planned amount of huge Updates?](../../../transcriptions/yt-Nk53HWpUnnk.md) [https://www.youtube.com/watch?v=Nk53HWpUnnk](https://www.youtube.com/watch?v=Nk53HWpUnnk)
 
+## April 2nd, 2020 Q&A
+* [Jace Talk: More information on Steam release and next Update coming soon](../../../transcriptions/yt-BmKMv6SZJ5M,237.3,254.96.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=237&end=255](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=237&end=255)
+
 ## March 24th, 2020 Livestream
 * [Snutt & Jace Talk: Future Updates](../../../transcriptions/yt-yMTaDzjlfH0.md) [https://www.youtube.com/watch?v=yMTaDzjlfH0](https://www.youtube.com/watch?v=yMTaDzjlfH0)
 * [Q&A: Will there be a roadmap again for Updates?](../../../transcriptions/yt-EiqFP9bm7v4.md) [https://www.youtube.com/watch?v=EiqFP9bm7v4](https://www.youtube.com/watch?v=EiqFP9bm7v4)

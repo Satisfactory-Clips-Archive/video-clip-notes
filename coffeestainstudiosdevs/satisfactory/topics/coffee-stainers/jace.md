@@ -181,6 +181,9 @@ date: Last Modified
 ## May 19th, 2020 Livestream
 * [Q&A: What about Tier 8?](../../transcriptions/yt-lQC68q7s21c.md) [https://www.youtube.com/watch?v=lQC68q7s21c](https://www.youtube.com/watch?v=lQC68q7s21c)
 
+## April 2nd, 2020 Q&A
+* [Jace Talk: Let's Gay It Out](../../transcriptions/yt-BmKMv6SZJ5M,254.96,319.04.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320)
+
 ## March 24th, 2020 Livestream
 * [Snutt & Jace Talk: Jace is now a Swedish citizen](../../transcriptions/yt-JE2ZLGxPShE.md) [https://www.youtube.com/watch?v=JE2ZLGxPShE](https://www.youtube.com/watch?v=JE2ZLGxPShE)
 * Q&A: When are the Wind Turbines that Jace leaked coming? [https://www.youtube.com/watch?v=nRMTYlLqiSc](https://www.youtube.com/watch?v=nRMTYlLqiSc)
