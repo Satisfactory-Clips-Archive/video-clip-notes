@@ -178,7 +178,7 @@ date: Last Modified
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../transcriptions/yt-d_FZQ5KTWA0.md) [https://www.youtube.com/watch?v=d_FZQ5KTWA0](https://www.youtube.com/watch?v=d_FZQ5KTWA0)
 * [Q&A: Why two Community Managers again?](../transcriptions/yt-vr0RPVS158o.md) [https://www.youtube.com/watch?v=vr0RPVS158o](https://www.youtube.com/watch?v=vr0RPVS158o)
 
-## January 20th, 2020 Livestream
+## January 20th, 2020 Video
 * [Most Annoying Bugs?](../transcriptions/yt-pTKDTJSsAm4,300.9006,359.09206666666665.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=300&end=360](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=300&end=360)
 
 ## December 19th, 2019 Livestream

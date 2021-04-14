@@ -40,6 +40,6 @@ date: Last Modified
 * [Snutt & Jace Talk: AWESOME Shop Teaser (no microtransactions)](../../../transcriptions/yt-1UbLRZJ0-SE.md) [https://www.youtube.com/watch?v=1UbLRZJ0-SE](https://www.youtube.com/watch?v=1UbLRZJ0-SE)
 * [Snutt & Jace Talk: Tongue-twisters](../../../transcriptions/yt-GpglKeDQ9h8.md) [https://www.youtube.com/watch?v=GpglKeDQ9h8](https://www.youtube.com/watch?v=GpglKeDQ9h8)
 
-## January 20th, 2020 Livestream
+## January 20th, 2020 Video
 * [Jace Talk: Microtransactions](../../../transcriptions/yt-pTKDTJSsAm4,89.267366,136.60313333333335.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=89&end=137](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=89&end=137)
 * [Jace Talk: Shop Teaser](../../../transcriptions/yt-pTKDTJSsAm4,38.30493333333333,89.267366.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=38&end=90](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=38&end=90)

@@ -186,7 +186,7 @@ date: Last Modified
 ## January 22nd, 2020 Livestream
 * [Q&A: Why two Community Managers again?](../../transcriptions/yt-vr0RPVS158o.md) [https://www.youtube.com/watch?v=vr0RPVS158o](https://www.youtube.com/watch?v=vr0RPVS158o)
 
-## January 20th, 2020 Livestream
+## January 20th, 2020 Video
 * [Jace Talk: Upcoming Livestream](../../transcriptions/yt-pTKDTJSsAm4,214.5143,247.8476.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=214&end=248](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=214&end=248)
 
 ## December 19th, 2019 Livestream
