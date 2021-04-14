@@ -101,6 +101,10 @@ date: Last Modified
 * [Q&A: Will Mods work correctly after the Update?](../../../transcriptions/yt-qf6QTYIHDaQ.md) [https://www.youtube.com/watch?v=qf6QTYIHDaQ](https://www.youtube.com/watch?v=qf6QTYIHDaQ)
 * [Q&A: Will you fix translations?](../../../transcriptions/yt-NJxOCbsJtZQ.md) [https://www.youtube.com/watch?v=NJxOCbsJtZQ](https://www.youtube.com/watch?v=NJxOCbsJtZQ)
 
+## January 20th, 2020 Livestream
+* [Save Files in Update 3](../../../transcriptions/yt-pTKDTJSsAm4,247.8476,300.9006.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=247&end=301](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=247&end=301)
+* [Jace Talk: Update on Release Date](../../../transcriptions/yt-pTKDTJSsAm4,157.8577,214.5143.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=157&end=215](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=157&end=215)
+
 ## November 5th, 2019 Q&A
 * [Q&A: Update 3 release date?](../../../transcriptions/yt-Fsod_UF5eus,40.28,74.36.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=40&end=75](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=40&end=75)
 * [Q&A: What's in Update 3?](../../../transcriptions/yt-Fsod_UF5eus,74.36,138.04.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=74&end=139](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=74&end=139)

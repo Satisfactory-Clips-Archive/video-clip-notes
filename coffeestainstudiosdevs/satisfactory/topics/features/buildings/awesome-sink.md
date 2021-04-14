@@ -34,3 +34,6 @@ date: Last Modified
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: Upcoming Things](../../../transcriptions/yt-EiVuur226E8.md) [https://www.youtube.com/watch?v=EiVuur226E8](https://www.youtube.com/watch?v=EiVuur226E8)
+
+## January 20th, 2020 Livestream
+* [Jace Talk: Another Teaser Trailer](../../../transcriptions/yt-pTKDTJSsAm4,136.60313333333335,157.8577.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=136&end=158](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=136&end=158)

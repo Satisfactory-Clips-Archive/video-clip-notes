@@ -65,6 +65,9 @@ date: Last Modified
 ## May 19th, 2020 Livestream
 * [Snutt & Gafgar Talk: Zombie Pioneers](../../transcriptions/yt-90rAQ31MQPI.md) [https://www.youtube.com/watch?v=90rAQ31MQPI](https://www.youtube.com/watch?v=90rAQ31MQPI)
 
+## January 20th, 2020 Livestream
+* [Save Files in Update 3](../../transcriptions/yt-pTKDTJSsAm4,247.8476,300.9006.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=247&end=301](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=247&end=301)
+
 ## November 5th, 2019 Q&A
 * [Jace Talk: Workaround for broken save games](../../transcriptions/yt-Fsod_UF5eus,156.08,287.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=156&end=287](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=156&end=287)
 

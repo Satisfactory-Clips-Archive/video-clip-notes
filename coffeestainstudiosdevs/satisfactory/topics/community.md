@@ -178,6 +178,9 @@ date: Last Modified
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../transcriptions/yt-d_FZQ5KTWA0.md) [https://www.youtube.com/watch?v=d_FZQ5KTWA0](https://www.youtube.com/watch?v=d_FZQ5KTWA0)
 * [Q&A: Why two Community Managers again?](../transcriptions/yt-vr0RPVS158o.md) [https://www.youtube.com/watch?v=vr0RPVS158o](https://www.youtube.com/watch?v=vr0RPVS158o)
 
+## January 20th, 2020 Livestream
+* [Most Annoying Bugs?](../transcriptions/yt-pTKDTJSsAm4,300.9006,359.09206666666665.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=300&end=360](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=300&end=360)
+
 ## December 19th, 2019 Livestream
 * [Q&A: Snutt Jace's baby Community Manager?](../transcriptions/yt-mmaqnomYjFQ.md) [https://www.youtube.com/watch?v=mmaqnomYjFQ](https://www.youtube.com/watch?v=mmaqnomYjFQ)
 * [Q&A: What is the job of Community Managers?](../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
