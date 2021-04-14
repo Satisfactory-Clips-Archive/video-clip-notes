@@ -32,6 +32,9 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Q&A: How about repeatable Space Elevator shipments to make more use of it?](../../../transcriptions/yt-fbCEIVUNDe0.md) [https://www.youtube.com/watch?v=fbCEIVUNDe0](https://www.youtube.com/watch?v=fbCEIVUNDe0)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: The AWESOME Sink](../../../transcriptions/yt-DsbHR1Nc8fw,282.61566666666664,321.02904166666667.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=282&end=322](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=282&end=322)
+
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: Upcoming Things](../../../transcriptions/yt-EiVuur226E8.md) [https://www.youtube.com/watch?v=EiVuur226E8](https://www.youtube.com/watch?v=EiVuur226E8)
 

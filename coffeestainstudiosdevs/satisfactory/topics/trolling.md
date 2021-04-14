@@ -118,6 +118,11 @@ date: Last Modified
 * [Q&A: Did we miss any announcements?](../transcriptions/yt-Ws7_PXlK14g.md) [https://www.youtube.com/watch?v=Ws7_PXlK14g](https://www.youtube.com/watch?v=Ws7_PXlK14g)
 * [Snutt & Jace Talk: Future Updates](../transcriptions/yt-yMTaDzjlfH0.md) [https://www.youtube.com/watch?v=yMTaDzjlfH0](https://www.youtube.com/watch?v=yMTaDzjlfH0)
 
+## March 12th, 2020 Patch Notes
+* Snutt & Jace Talk: Jace climbs into an airplane engine [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=118&end=124](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=118&end=124)
+* [Jace Talk: On the Tram to CERN](../transcriptions/yt-DsbHR1Nc8fw,326.15916666666664,348.88025.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=326&end=349](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=326&end=349)
+* [Jace Talk: Searching for pipes in Geneva](../transcriptions/yt-DsbHR1Nc8fw,254.54595833333332,274.02375.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275)
+
 ## February 11th, 2020 Livestream
 * [Q&A: Battle Royale?](../transcriptions/yt-fO_ZW22gL-g.md) [https://www.youtube.com/watch?v=fO_ZW22gL-g](https://www.youtube.com/watch?v=fO_ZW22gL-g)
 * [Q&A: Bikes in Satisfactory confirmed?](../transcriptions/yt-sh2faQb1DPQ.md) [https://www.youtube.com/watch?v=sh2faQb1DPQ](https://www.youtube.com/watch?v=sh2faQb1DPQ)

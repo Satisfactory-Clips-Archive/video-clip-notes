@@ -102,6 +102,9 @@ date: Last Modified
 * [Q&A: What HUB Tier will have electric floors?](../../../transcriptions/yt-cH3ityZn8E4.md) [https://www.youtube.com/watch?v=cH3ityZn8E4](https://www.youtube.com/watch?v=cH3ityZn8E4)
 * Q&A: When are the Wind Turbines that Jace leaked coming? [https://www.youtube.com/watch?v=nRMTYlLqiSc](https://www.youtube.com/watch?v=nRMTYlLqiSc)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: The AWESOME Sink](../../../transcriptions/yt-DsbHR1Nc8fw,282.61566666666664,321.02904166666667.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=282&end=322](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=282&end=322)
+
 ## January 22nd, 2020 Livestream
 * [Q&A: Alignment issues?](../../../transcriptions/yt-Wqkx9p4mbn0.md) [https://www.youtube.com/watch?v=Wqkx9p4mbn0](https://www.youtube.com/watch?v=Wqkx9p4mbn0)
 * [Snutt & Jace Talk: AWESOME Shop Teaser](../../../transcriptions/yt-0fiuHwwSrrI.md) [https://www.youtube.com/watch?v=0fiuHwwSrrI](https://www.youtube.com/watch?v=0fiuHwwSrrI)

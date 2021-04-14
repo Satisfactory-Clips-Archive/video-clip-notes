@@ -154,6 +154,9 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Q&A: Dedicated Servers?](../../../transcriptions/yt-XuFfkTTZnoA.md) [https://www.youtube.com/watch?v=XuFfkTTZnoA](https://www.youtube.com/watch?v=XuFfkTTZnoA)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: Dedicated Servers](../../../transcriptions/yt-DsbHR1Nc8fw,348.88025,385.25987499999997.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=348&end=386](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=348&end=386)
+
 ## February 20th, 2020 Video
 * [Snutt Talk: Dedicated Servers](../../../transcriptions/yt-QBE1Xl94s9o,193.36,268.88.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=193&end=269](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=193&end=269)
 

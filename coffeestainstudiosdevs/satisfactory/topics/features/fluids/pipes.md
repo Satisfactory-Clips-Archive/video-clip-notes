@@ -86,6 +86,12 @@ date: Last Modified
 * [Q&A: Are there any plans for Pipes in general?](../../../transcriptions/yt-1LQhTjYMptc.md) [https://www.youtube.com/watch?v=1LQhTjYMptc](https://www.youtube.com/watch?v=1LQhTjYMptc)
 * [Q&A: Can you talk a little bit about balancing for Pipes?](../../../transcriptions/yt-Pzda6aAHOYQ.md) [https://www.youtube.com/watch?v=Pzda6aAHOYQ](https://www.youtube.com/watch?v=Pzda6aAHOYQ)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: Biiiiig Pipe](../../../transcriptions/yt-DsbHR1Nc8fw,513.8466666666666,523.138287.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524)
+* [Jace Talk: Finding the most amazing pipes](../../../transcriptions/yt-DsbHR1Nc8fw,67.81774999999999,97.51408333333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98)
+* [Jace Talk: Searching for pipes in Geneva](../../../transcriptions/yt-DsbHR1Nc8fw,254.54595833333332,274.02375.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275)
+* [Jace Talk: We're in an airport](../../../transcriptions/yt-DsbHR1Nc8fw,184.759462,221.864578.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=184&end=222](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=184&end=222)
+
 ## February 11th, 2020 Livestream
 * [Q&A: Are there things people will be surprised by?](../../../transcriptions/yt-v-f6PgaD4rY.md) [https://www.youtube.com/watch?v=v-f6PgaD4rY](https://www.youtube.com/watch?v=v-f6PgaD4rY)
 * [Q&A: Is there a reason why you hate Pipes?](../../../transcriptions/yt-OsetK7Ww2zI.md) [https://www.youtube.com/watch?v=OsetK7Ww2zI](https://www.youtube.com/watch?v=OsetK7Ww2zI)

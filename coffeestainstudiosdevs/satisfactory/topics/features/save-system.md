@@ -65,6 +65,9 @@ date: Last Modified
 ## May 19th, 2020 Livestream
 * [Snutt & Gafgar Talk: Zombie Pioneers](../../transcriptions/yt-90rAQ31MQPI.md) [https://www.youtube.com/watch?v=90rAQ31MQPI](https://www.youtube.com/watch?v=90rAQ31MQPI)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: Save files after Update 3](../../transcriptions/yt-DsbHR1Nc8fw,406.11404166666665,438.14604166666663.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=406&end=439](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=406&end=439)
+
 ## February 20th, 2020 Video
 * [Q&A: Will my save file work in either version?](../../transcriptions/yt-QBE1Xl94s9o,158.64,193.36.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=158&end=194](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=158&end=194)
 

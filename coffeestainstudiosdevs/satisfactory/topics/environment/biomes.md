@@ -56,6 +56,9 @@ date: Last Modified
 ## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: Different ambient effects for different Biomes](../../transcriptions/yt-mci92Mhr7MM,608.793576,697.5301666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: Update to the Dune Desert](../../transcriptions/yt-DsbHR1Nc8fw,221.864578,254.54595833333332.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255)
+
 ## February 11th, 2020 Livestream
 * [Q&A: Is this the new Desert Biome?](../../transcriptions/yt-ZKHgWByn3D4.md) [https://www.youtube.com/watch?v=ZKHgWByn3D4](https://www.youtube.com/watch?v=ZKHgWByn3D4)
 

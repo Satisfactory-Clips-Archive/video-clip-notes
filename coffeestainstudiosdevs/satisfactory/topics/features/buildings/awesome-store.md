@@ -30,6 +30,9 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Q&A: Why the stairs and stuff not available earlier in the game?](../../../transcriptions/yt-8c389_Pw_Ic.md) [https://www.youtube.com/watch?v=8c389_Pw_Ic](https://www.youtube.com/watch?v=8c389_Pw_Ic)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: The AWESOME Sink](../../../transcriptions/yt-DsbHR1Nc8fw,282.61566666666664,321.02904166666667.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=282&end=322](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=282&end=322)
+
 ## February 11th, 2020 Livestream
 * [Q&A: Are we going to be able to use items from the shop in different saves?](../../../transcriptions/yt-SCcS2Wdqfs4.md) [https://www.youtube.com/watch?v=SCcS2Wdqfs4](https://www.youtube.com/watch?v=SCcS2Wdqfs4)
 * [Q&A: Is this the thing you can buy with Coupons?](../../../transcriptions/yt-nj-hjbu8RLA.md) [https://www.youtube.com/watch?v=nj-hjbu8RLA](https://www.youtube.com/watch?v=nj-hjbu8RLA)

@@ -59,6 +59,15 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * [State of Dev: Update 3, Steam Release](../../../transcriptions/yt-Y__cl6AcRzs.md) [https://www.youtube.com/watch?v=Y__cl6AcRzs](https://www.youtube.com/watch?v=Y__cl6AcRzs)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: Biiiiig Pipe](../../../transcriptions/yt-DsbHR1Nc8fw,513.8466666666666,523.138287.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524)
+* [Jace Talk: Finding the most amazing pipes](../../../transcriptions/yt-DsbHR1Nc8fw,67.81774999999999,97.51408333333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98)
+* [Jace Talk: Hyper Tubes](../../../transcriptions/yt-DsbHR1Nc8fw,453.4947083333333,469.5107083333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=453&end=470](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=453&end=470)
+* [Jace Talk: Save files after Update 3](../../../transcriptions/yt-DsbHR1Nc8fw,406.11404166666665,438.14604166666663.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=406&end=439](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=406&end=439)
+* [Jace Talk: The AWESOME Sink](../../../transcriptions/yt-DsbHR1Nc8fw,282.61566666666664,321.02904166666667.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=282&end=322](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=282&end=322)
+* [Jace Talk: Update to the Dune Desert](../../../transcriptions/yt-DsbHR1Nc8fw,221.864578,254.54595833333332.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255)
+* [Jace Talk: We're sleeping in a plane, but we won't be adding planes](../../../transcriptions/yt-DsbHR1Nc8fw,123.28983333333332,155.44695833333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156)
+
 ## February 20th, 2020 Video
 * [Snutt Talk: Eventually moving Update 3 to the Early Access branch](../../../transcriptions/yt-QBE1Xl94s9o,37.64,70.04.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=37&end=71](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=37&end=71)
 * [Snutt Talk: We revealed Update 3 last week](../../../transcriptions/yt-QBE1Xl94s9o,15.56,37.64.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=15&end=38](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=15&end=38)

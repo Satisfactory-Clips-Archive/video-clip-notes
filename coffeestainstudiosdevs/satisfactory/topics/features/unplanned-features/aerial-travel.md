@@ -49,6 +49,9 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Jace Talk: Flight & map size perception [https://clips.twitch.tv/ElatedBlueNightingaleMau5](https://clips.twitch.tv/ElatedBlueNightingaleMau5)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: We're sleeping in a plane, but we won't be adding planes](../../../transcriptions/yt-DsbHR1Nc8fw,123.28983333333332,155.44695833333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156)
+
 ## December 19th, 2019 Livestream
 * [Q&A: Give us a flight vehicle?](../../../transcriptions/yt-Fb6JnI4Bb4I.md) [https://www.youtube.com/watch?v=Fb6JnI4Bb4I](https://www.youtube.com/watch?v=Fb6JnI4Bb4I)
 

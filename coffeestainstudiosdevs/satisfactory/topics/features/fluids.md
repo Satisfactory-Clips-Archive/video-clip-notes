@@ -77,5 +77,8 @@ date: Last Modified
 * [Q&A: Tanker Trucks?](../../transcriptions/yt-IPmVdCgi2_A.md) [https://www.youtube.com/watch?v=IPmVdCgi2_A](https://www.youtube.com/watch?v=IPmVdCgi2_A)
 * [Q&A: Will you be adding more variety of resources?](../../transcriptions/yt-wvFR-VL4nc8.md) [https://www.youtube.com/watch?v=wvFR-VL4nc8](https://www.youtube.com/watch?v=wvFR-VL4nc8)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: Biiiiig Pipe](../../transcriptions/yt-DsbHR1Nc8fw,513.8466666666666,523.138287.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524)
+
 ## December 19th, 2019 Livestream
 * [Q&A: When is Coffee going to be introduced to the game?](../../transcriptions/yt-o3Nr13tH7dY.md) [https://www.youtube.com/watch?v=o3Nr13tH7dY](https://www.youtube.com/watch?v=o3Nr13tH7dY)

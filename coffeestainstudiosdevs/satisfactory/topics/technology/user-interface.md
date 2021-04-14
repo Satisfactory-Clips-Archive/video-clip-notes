@@ -175,6 +175,9 @@ date: Last Modified
 * [Q&A: Can we turn off ADA notifications?](../../transcriptions/yt-w2S15UcuaUs.md) [https://www.youtube.com/watch?v=w2S15UcuaUs](https://www.youtube.com/watch?v=w2S15UcuaUs)
 * [Q&A: Third-person Camera option?](../../transcriptions/yt-hWRM_bQHXzc.md) [https://www.youtube.com/watch?v=hWRM_bQHXzc](https://www.youtube.com/watch?v=hWRM_bQHXzc)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: We're sleeping in a plane, but we won't be adding planes](../../transcriptions/yt-DsbHR1Nc8fw,123.28983333333332,155.44695833333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156)
+
 ## February 11th, 2020 Livestream
 * [Snutt & Markus Talk: Status of Dedicated Servers](../../transcriptions/yt-QdMnTdqRxaE.md) [https://www.youtube.com/watch?v=QdMnTdqRxaE](https://www.youtube.com/watch?v=QdMnTdqRxaE)
 

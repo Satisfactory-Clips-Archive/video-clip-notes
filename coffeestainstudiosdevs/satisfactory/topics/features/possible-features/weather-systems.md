@@ -41,6 +41,9 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * Q&A: When are the Wind Turbines that Jace leaked coming? [https://www.youtube.com/watch?v=nRMTYlLqiSc](https://www.youtube.com/watch?v=nRMTYlLqiSc)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: Update to the Dune Desert](../../../transcriptions/yt-DsbHR1Nc8fw,221.864578,254.54595833333332.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255)
+
 ## February 20th, 2019 Livestream
 * Q&A: Weather confirmed? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
 * Q&A: Will there be seasons? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5450&end=5455](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5450&end=5455)

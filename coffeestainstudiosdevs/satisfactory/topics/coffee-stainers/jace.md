@@ -185,6 +185,12 @@ date: Last Modified
 * [Snutt & Jace Talk: Jace is now a Swedish citizen](../../transcriptions/yt-JE2ZLGxPShE.md) [https://www.youtube.com/watch?v=JE2ZLGxPShE](https://www.youtube.com/watch?v=JE2ZLGxPShE)
 * Q&A: When are the Wind Turbines that Jace leaked coming? [https://www.youtube.com/watch?v=nRMTYlLqiSc](https://www.youtube.com/watch?v=nRMTYlLqiSc)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: Dedicated Servers](../../transcriptions/yt-DsbHR1Nc8fw,348.88025,385.25987499999997.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=348&end=386](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=348&end=386)
+* Snutt & Jace Talk: Jace climbs into an airplane engine [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=118&end=124](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=118&end=124)
+* [Jace Talk: Searching for pipes in Geneva](../../transcriptions/yt-DsbHR1Nc8fw,254.54595833333332,274.02375.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275)
+* [Jace Talk: We're sleeping in a plane, but we won't be adding planes](../../transcriptions/yt-DsbHR1Nc8fw,123.28983333333332,155.44695833333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156)
+
 ## February 11th, 2020 Livestream
 * [Snutt & Jace Talk: Comparing foodstuffs to Burgers](../../transcriptions/yt-QI6fPFYrMbE.md) [https://www.youtube.com/watch?v=QI6fPFYrMbE](https://www.youtube.com/watch?v=QI6fPFYrMbE)
 * [Jace Talk: Funny roulette story](../../transcriptions/yt-8Cw56ZD9syU.md) [https://www.youtube.com/watch?v=8Cw56ZD9syU](https://www.youtube.com/watch?v=8Cw56ZD9syU)

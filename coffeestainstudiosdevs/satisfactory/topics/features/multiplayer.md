@@ -167,6 +167,9 @@ date: Last Modified
 * [Snutt & Jace Talk: Multiplayer issues](../../transcriptions/yt-3vVD6SKT5OQ.md) [https://www.youtube.com/watch?v=3vVD6SKT5OQ](https://www.youtube.com/watch?v=3vVD6SKT5OQ)
 * [Q&A: Will the Steam release make reliability better?](../../transcriptions/yt-fKXR3PibLLA.md) [https://www.youtube.com/watch?v=fKXR3PibLLA](https://www.youtube.com/watch?v=fKXR3PibLLA)
 
+## March 12th, 2020 Patch Notes
+* [Jace Talk: We're sleeping in a plane, but we won't be adding planes](../../transcriptions/yt-DsbHR1Nc8fw,123.28983333333332,155.44695833333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156)
+
 ## February 11th, 2020 Livestream
 * [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) [https://www.youtube.com/watch?v=jFeV8JA7NXg](https://www.youtube.com/watch?v=jFeV8JA7NXg)
 * [Snutt & Markus Talk: Status of Dedicated Servers](../../transcriptions/yt-QdMnTdqRxaE.md) [https://www.youtube.com/watch?v=QdMnTdqRxaE](https://www.youtube.com/watch?v=QdMnTdqRxaE)

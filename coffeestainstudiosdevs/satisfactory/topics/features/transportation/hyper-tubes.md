@@ -35,3 +35,6 @@ date: Last Modified
 
 ## August 11th, 2020 Livestream
 * Q&A: Hypertube Cannons - Bug or Feature? [https://clips.twitch.tv/OilyPatientOtterTBTacoLeft](https://clips.twitch.tv/OilyPatientOtterTBTacoLeft)
+
+## March 12th, 2020 Patch Notes
+* [Jace Talk: Hyper Tubes](../../../transcriptions/yt-DsbHR1Nc8fw,453.4947083333333,469.5107083333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=453&end=470](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=453&end=470)
