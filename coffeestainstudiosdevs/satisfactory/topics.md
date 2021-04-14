@@ -7,6 +7,7 @@ date: Last Modified
 * [Ben](./topics/coffee-stainers/ben.md)
 * [Birk](./topics/coffee-stainers/birk.md)
 * [Dylan](./topics/coffee-stainers/dylan.md)
+* [Etienne](./topics/coffee-stainers/etienne.md)
 * [G2](./topics/coffee-stainers/g2.md)
 * [Hannah](./topics/coffee-stainers/hannah.md)
 * [Jace](./topics/coffee-stainers/jace.md)
@@ -17,6 +18,7 @@ date: Last Modified
 * [Marie](./topics/coffee-stainers/marie.md)
 * [Mark](./topics/coffee-stainers/mark.md)
 * [Markus](./topics/coffee-stainers/markus.md)
+* [Michiel](./topics/coffee-stainers/michiel.md)
 * [Nathalie](./topics/coffee-stainers/nathalie.md)
 * [Neshkor](./topics/coffee-stainers/neshkor.md)
 * [Oscar](./topics/coffee-stainers/oscar.md)
@@ -25,6 +27,8 @@ date: Last Modified
 * [Snutt](./topics/coffee-stainers/snutt.md)
 * [Sofi](./topics/coffee-stainers/sofi.md)
 * [Tim](./topics/coffee-stainers/tim.md)
+* [Tobias](./topics/coffee-stainers/tobias.md)
+* [Torsten](./topics/coffee-stainers/torsten.md)
 * [Uzu](./topics/coffee-stainers/uzu.md)
 
 ## [Simon](./topics/coffee-stainers/simon.md)
@@ -357,6 +361,7 @@ date: Last Modified
 * [Update 4 Teasers](./topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
 * [Update 4 Launch Stream](./topics/satisfactory-updates/teasers-trailers/update-4-launch-stream.md)
 * [Update 4 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Update 4 Launch Trailer](./topics/satisfactory-updates/teasers-trailers/update-4-launch-trailer.md)
 ---
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)

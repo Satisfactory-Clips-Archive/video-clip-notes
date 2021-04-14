@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## April 13th, 2021 Livestream
+* State of Dev: Jace is still on vacation [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=358&end=410](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=358&end=410)
+
 ## April 6th, 2021 Livestream
 * [Snutt Talk: Jace is on vacation](../../transcriptions/yt-PiKrDNVtz3U.md) [https://www.youtube.com/watch?v=PiKrDNVtz3U](https://www.youtube.com/watch?v=PiKrDNVtz3U)
 * Community FYI: Still waiting on Jace [https://www.youtube.com/watch?v=a1_yR3_Z0Co](https://www.youtube.com/watch?v=a1_yR3_Z0Co)

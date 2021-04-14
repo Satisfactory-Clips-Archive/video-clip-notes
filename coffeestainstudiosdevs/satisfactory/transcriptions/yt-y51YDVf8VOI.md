@@ -9,7 +9,7 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Out of Early Access?
 https://www.youtube.com/watch?v=y51YDVf8VOI
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: When will the game actually release?](./yt-KvCsUb7f0KY.md) [https://www.youtube.com/watch?v=KvCsUb7f0KY](https://www.youtube.com/watch?v=KvCsUb7f0KY)
+This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: What about 1.0? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6332&end=6358](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6332&end=6358)
 
 
 ### Topics

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## April 13th, 2021 Livestream
+* Snutt Talk: Verify your game files before checking the QA site [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1108&end=1167](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1108&end=1167)
+
 ## March 30th, 2021 Livestream
 * [Snutt Talk: The QA Site](../transcriptions/yt-whzzgnN5izE.md) [https://www.youtube.com/watch?v=whzzgnN5izE](https://www.youtube.com/watch?v=whzzgnN5izE)
 * [Snutt Talk: We see everything posted on the QA Site](../transcriptions/yt-apW-3vXw6Nw.md) [https://www.youtube.com/watch?v=apW-3vXw6Nw](https://www.youtube.com/watch?v=apW-3vXw6Nw)

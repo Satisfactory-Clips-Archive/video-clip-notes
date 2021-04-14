@@ -31,6 +31,11 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## April 13th, 2021 Livestream
+* Q&A: Mods? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4273&end=4286](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4273&end=4286)
+* State of Dev: Unofficial Mod Support & Update 4 [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=893&end=998](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=893&end=998)
+* Q&A: Will Update 4 on Early Access break Mods? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4186&end=4242](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4186&end=4242)
+
 ## April 6th, 2021 Livestream
 * [Community FYI: Frontier doesn't want Modders releasing animals they can sell instead](../transcriptions/yt-0mL9htqj-DY.md) [https://www.youtube.com/watch?v=0mL9htqj-DY](https://www.youtube.com/watch?v=0mL9htqj-DY)
 * [Snutt Talk: Mods](../transcriptions/yt-xMfYff9i-Cs.md) [https://www.youtube.com/watch?v=xMfYff9i-Cs](https://www.youtube.com/watch?v=xMfYff9i-Cs)

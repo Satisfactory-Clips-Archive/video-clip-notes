@@ -9,15 +9,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: I played on Experimental, now I can't load my save on previous version, do I have to wait?
 https://www.youtube.com/watch?v=EBoS-s9O_oU
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as March 2021 and as early as September 2019.</summary>
-
-* [March 23rd, 2021 Livestream Q&A: Why don't the saves from Experimental work on normal?](./yt-wRc1dgpRDrM.md) [https://www.youtube.com/watch?v=wRc1dgpRDrM](https://www.youtube.com/watch?v=wRc1dgpRDrM)
-* [March 9th, 2021 Livestream Q&A: Reload Experimental Save into Early Access?](./yt-a66KD67ymLs.md) [https://www.youtube.com/watch?v=a66KD67ymLs](https://www.youtube.com/watch?v=a66KD67ymLs)
-* [March 9th, 2021 Livestream Q&A: Will Experimental & EA be the same version so we can swap?](./yt--m_-g6ELKsY.md) [https://www.youtube.com/watch?v=-m_-g6ELKsY](https://www.youtube.com/watch?v=-m_-g6ELKsY)
-* [January 26th, 2021 Livestream Q&A: Had a save game from Early Access, spent time in Experimental, now back on EA it doesn't work?](./yt-b586YMEHeRk.md) [https://www.youtube.com/watch?v=b586YMEHeRk](https://www.youtube.com/watch?v=b586YMEHeRk)
-* [September 25th, 2019 Patch Notes Q&A: Are the new save files supported in an older version of the game?](./yt-t1LfyNfuMVQ,186.48,218.32.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=186&end=219](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=186&end=219)
-</details>
+This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: If I play it on Experimental, will I still be able to load it if I switch to Early Access? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1025&end=1109](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1025&end=1109)
 
 
 ### Topics

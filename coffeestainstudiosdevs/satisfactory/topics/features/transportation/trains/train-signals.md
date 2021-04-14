@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## April 13th, 2021 Livestream
+* Q&A: Train Collision? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6403&end=6421](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6403&end=6421)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Train Collision?](../../../../transcriptions/yt-ECH-dzoj7ro.md) [https://www.youtube.com/watch?v=ECH-dzoj7ro](https://www.youtube.com/watch?v=ECH-dzoj7ro)
 

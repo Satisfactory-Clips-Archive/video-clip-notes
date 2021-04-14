@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## April 13th, 2021 Livestream
+* Snutt Talk: Epic Store Support-a-creator revenue share [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4074&end=4144](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4074&end=4144)
+* Snutt Talk: Schedule Reitereation & Store Discounts [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=3958&end=4075](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=3958&end=4075)
+
 ## April 6th, 2021 Livestream
 * [State of Dev: Cloud Sync on Experimental branch for Epic Store disabled](../../transcriptions/yt-eAmIT8FuZdM.md) [https://www.youtube.com/watch?v=eAmIT8FuZdM](https://www.youtube.com/watch?v=eAmIT8FuZdM)
 * Q&A: How to reset the Steam/EOS Link? [https://www.youtube.com/watch?v=7H6bpfUJH84](https://www.youtube.com/watch?v=7H6bpfUJH84)

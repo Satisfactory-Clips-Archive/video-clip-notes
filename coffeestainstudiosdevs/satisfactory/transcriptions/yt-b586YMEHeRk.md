@@ -9,7 +9,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Had a save game from Early Access, spent time in Experimental, now back on EA it doesn't work?
 https://www.youtube.com/watch?v=b586YMEHeRk
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: I played on Experimental, now I can't load my save on previous version, do I have to wait?](./yt-EBoS-s9O_oU.md) [https://www.youtube.com/watch?v=EBoS-s9O_oU](https://www.youtube.com/watch?v=EBoS-s9O_oU)
+This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: If I play it on Experimental, will I still be able to load it if I switch to Early Access? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1025&end=1109](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1025&end=1109)
 
 
 ### Topics

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 
+## April 13th, 2021 Livestream
+* Hannah Talk: Floating rocks [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1827&end=1879](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1827&end=1879)
+* Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1555&end=1767](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1555&end=1767)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Hannah Q&A, when?](../../transcriptions/yt-__NtKQHoZzc.md) [https://www.youtube.com/watch?v=__NtKQHoZzc](https://www.youtube.com/watch?v=__NtKQHoZzc)
 

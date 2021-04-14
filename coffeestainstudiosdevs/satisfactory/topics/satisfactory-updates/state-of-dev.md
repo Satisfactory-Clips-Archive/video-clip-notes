@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## April 13th, 2021 Livestream
+* State of Dev: Early Access branch and the Experimental branch [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=549&end=797](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=549&end=797)
+* State of Dev: Releasing Update 4 on Early Access today [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=328&end=344](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=328&end=344)
+* State of Dev: The Modular Build [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=796&end=845](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=796&end=845)
+* State of Dev: Unofficial Mod Support & Update 4 [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=893&end=998](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=893&end=998)
+* State of Dev: Update 4 bug fixing [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=844&end=894](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=844&end=894)
+
 ## April 6th, 2021 Livestream
 * [State of Dev: April Fools 2021](../../transcriptions/yt-eMPr_Y9bstc.md) [https://www.youtube.com/watch?v=eMPr_Y9bstc](https://www.youtube.com/watch?v=eMPr_Y9bstc)
 * [State of Dev: Cloud Sync on Experimental branch for Epic Store disabled](../../transcriptions/yt-eAmIT8FuZdM.md) [https://www.youtube.com/watch?v=eAmIT8FuZdM](https://www.youtube.com/watch?v=eAmIT8FuZdM)

@@ -6,6 +6,9 @@ date: Last Modified
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## April 13th, 2021 Livestream
+* Snutt Talk: Are you excited for your Nuclear stuff to break? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=5936&end=6008](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=5936&end=6008)
+
 ## March 23rd, 2021 Livestream
 * [Snutt Talk: Update 4 Plutonium Rebalancing](../../../transcriptions/yt-kUZOFrRXmzw.md) [https://www.youtube.com/watch?v=kUZOFrRXmzw](https://www.youtube.com/watch?v=kUZOFrRXmzw)
 

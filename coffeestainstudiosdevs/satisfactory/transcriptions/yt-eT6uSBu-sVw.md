@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any news about Trains? If so put them in Update 4?
 https://www.youtube.com/watch?v=eT6uSBu-sVw
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Train Collision?](./yt-ECH-dzoj7ro.md) [https://www.youtube.com/watch?v=ECH-dzoj7ro](https://www.youtube.com/watch?v=ECH-dzoj7ro)
+This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: Train Collision? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6403&end=6421](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6403&end=6421)
 
 
 ### Topics

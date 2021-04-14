@@ -8,7 +8,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Is there a reason for a lack of Dedicated Server builds?
 https://www.youtube.com/watch?v=47gzhAEWkFM
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Dedicated Servers?](./yt-nUtF3e6i_lU.md) [https://www.youtube.com/watch?v=nUtF3e6i_lU](https://www.youtube.com/watch?v=nUtF3e6i_lU)
+This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: Dedicated Servers? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1280&end=1430](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1280&end=1430)
 
 
 ### Topics

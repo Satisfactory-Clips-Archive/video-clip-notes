@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## April 13th, 2021 Livestream
+* State of Dev: Early Access branch and the Experimental branch [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=549&end=797](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=549&end=797)
+* Q&A: If I play it on Experimental, will I still be able to load it if I switch to Early Access? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1025&end=1109](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1025&end=1109)
+* Q&A: Mods? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4273&end=4286](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4273&end=4286)
+* Snutt Talk: No surprise content in the Early Access release of Update 4 [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4822&end=4855](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4822&end=4855)
+* State of Dev: Releasing Update 4 on Early Access today [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=328&end=344](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=328&end=344)
+* Snutt Talk: Update 4 being released on Early Access [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4143&end=4187](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4143&end=4187)
+* Q&A: Will Update 4 on Early Access break Mods? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4186&end=4242](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4186&end=4242)
+
 ## April 6th, 2021 Livestream
 * [State of Dev: April Fools 2021](../../transcriptions/yt-eMPr_Y9bstc.md) [https://www.youtube.com/watch?v=eMPr_Y9bstc](https://www.youtube.com/watch?v=eMPr_Y9bstc)
 * [State of Dev: Cloud Sync on Experimental branch for Epic Store disabled](../../transcriptions/yt-eAmIT8FuZdM.md) [https://www.youtube.com/watch?v=eAmIT8FuZdM](https://www.youtube.com/watch?v=eAmIT8FuZdM)

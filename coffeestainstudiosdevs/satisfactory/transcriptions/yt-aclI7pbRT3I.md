@@ -9,7 +9,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Do you plan to put Update 4 out earlier than April 13th?
 https://www.youtube.com/watch?v=aclI7pbRT3I
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: When will the game actually release?](./yt-KvCsUb7f0KY.md) [https://www.youtube.com/watch?v=KvCsUb7f0KY](https://www.youtube.com/watch?v=KvCsUb7f0KY)
+This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: What about 1.0? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6332&end=6358](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6332&end=6358)
 
 
 ### Topics

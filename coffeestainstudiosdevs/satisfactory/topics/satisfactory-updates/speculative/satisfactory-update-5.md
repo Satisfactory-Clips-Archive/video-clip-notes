@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 5
 
+## April 13th, 2021 Livestream
+* Snutt Talk: The future of Satisfactory [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6049&end=6182](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6049&end=6182)
+* Snutt Talk: Update 5 is probably going to be smaller than Update 4 [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6281&end=6310](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6281&end=6310)
+* Q&A: When is Update 5? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6309&end=6333](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6309&end=6333)
+
 ## March 16th, 2021 Livestream
 * Q&A: Do you already have plans for Update 5? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8510&end=8559](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8510&end=8559)
 * Q&A: Will Update 5 come this year? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8653&end=8716](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8653&end=8716)

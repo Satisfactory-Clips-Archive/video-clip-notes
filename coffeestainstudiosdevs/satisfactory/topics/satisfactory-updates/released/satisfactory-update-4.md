@@ -4,6 +4,25 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## April 13th, 2021 Livestream
+* Snutt Talk: Are you excited for your Nuclear stuff to break? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=5936&end=6008](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=5936&end=6008)
+* Snutt Talk: Cheatcrete [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6181&end=6282](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6181&end=6282)
+* State of Dev: Early Access branch and the Experimental branch [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=549&end=797](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=549&end=797)
+* Q&A: How many gigabytes is Update 4? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6547&end=6602](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6547&end=6602)
+* Q&A: If I play it on Experimental, will I still be able to load it if I switch to Early Access? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1025&end=1109](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1025&end=1109)
+* Q&A: Is the Engine Upgrade still on Experimental? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6712&end=6771](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6712&end=6771)
+* Q&A: Mods? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4273&end=4286](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4273&end=4286)
+* Snutt Talk: No surprise content in the Early Access release of Update 4 [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4822&end=4855](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4822&end=4855)
+* State of Dev: Releasing Update 4 on Early Access today [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=328&end=344](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=328&end=344)
+* State of Dev: Unofficial Mod Support & Update 4 [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=893&end=998](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=893&end=998)
+* Snutt Talk: Update 4 being released on Early Access [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4143&end=4187](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4143&end=4187)
+* State of Dev: Update 4 bug fixing [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=844&end=894](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=844&end=894)
+* Snutt Talk: Update 4 is out [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=7042&end=7070](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=7042&end=7070)
+* Snutt Talk: Update 5 is probably going to be smaller than Update 4 [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6281&end=6310](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6281&end=6310)
+* Snutt Talk: Verify your game files before checking the QA site [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1108&end=1167](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1108&end=1167)
+* Snutt Talk: We'll post the patch notes and everything when the Update drops [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1177&end=1228](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1177&end=1228)
+* Q&A: Will Update 4 on Early Access break Mods? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4186&end=4242](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4186&end=4242)
+
 ## April 6th, 2021 Livestream
 * [State of Dev: April Fools 2021](../../../transcriptions/yt-eMPr_Y9bstc.md) [https://www.youtube.com/watch?v=eMPr_Y9bstc](https://www.youtube.com/watch?v=eMPr_Y9bstc)
 * [Q&A: Are you aware of the Pipe issue in Update 4?](../../../transcriptions/yt-XN5oNoh2hqY.md) [https://www.youtube.com/watch?v=XN5oNoh2hqY](https://www.youtube.com/watch?v=XN5oNoh2hqY)
