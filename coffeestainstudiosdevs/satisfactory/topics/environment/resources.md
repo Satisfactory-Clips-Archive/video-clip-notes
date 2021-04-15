@@ -60,6 +60,13 @@ date: Last Modified
 ## December 8th, 2020 Livestream
 * [Q&A: Please reintroduce the Mining mini-game?](../../transcriptions/yt-LTpEW1G0VH0.md) [https://www.youtube.com/watch?v=LTpEW1G0VH0](https://www.youtube.com/watch?v=LTpEW1G0VH0)
 
+## December 4th, 2020 Video
+* [Battery production rework](../../transcriptions/yt-KH5SkE4nzhg,202.06853333333333,215.7155.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=202&end=216](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=202&end=216)
+* [Jace Talk: Bauxite refinement overhaul](../../transcriptions/yt-KH5SkE4nzhg,88.75533333333334,138.8387.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=88&end=139](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=88&end=139)
+* [Jace Talk: Changes in Production Lines](../../transcriptions/yt-KH5SkE4nzhg,77.938843,215.7155.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=77&end=216](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=77&end=216)
+* [Jace Talk: Supercomputers & Radio Control Unit changes](../../transcriptions/yt-KH5SkE4nzhg,162.02853333333334,175.34183333333334.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=162&end=176](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=162&end=176)
+* [Jace Talk: Turbo motors are moving up](../../transcriptions/yt-KH5SkE4nzhg,138.8387,162.02853333333334.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=138&end=163](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=138&end=163)
+
 ## November 17th, 2020 Livestream
 * [Q&A: Is Lead being added?](../../transcriptions/yt-t6T-Wazh9o4.md) [https://www.youtube.com/watch?v=t6T-Wazh9o4](https://www.youtube.com/watch?v=t6T-Wazh9o4)
 

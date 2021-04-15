@@ -39,6 +39,7 @@ layout: index
 * [December 15th](2020-12-15.md)
 * [December 11th](2020-12-11.md)
 * [December 8th](2020-12-08.md)
+* [December 4th](2020-12-04.md)
 * [December 1st](2020-12-01.md)
 
 ## November

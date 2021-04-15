@@ -32,6 +32,11 @@ date: Last Modified
 ## December 8th, 2020 Livestream
 * [Q&A: Is Tier 8 last Tier for the game?](../../../transcriptions/yt-FhoIzj_QLm0.md) [https://www.youtube.com/watch?v=FhoIzj_QLm0](https://www.youtube.com/watch?v=FhoIzj_QLm0)
 
+## December 4th, 2020 Video
+* [Intro](../../../transcriptions/yt-KH5SkE4nzhg,,18.952266666666667.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=0&end=19](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=0&end=19)
+* [Jace Talk: Tier 8 & the change in vision for Tier 7](../../../transcriptions/yt-KH5SkE4nzhg,45.237345,77.938843.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=45&end=78](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=45&end=78)
+* [Jace Talk: When Update 4 will come out](../../../transcriptions/yt-KH5SkE4nzhg,37.2372,45.237345.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=37&end=46](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=37&end=46)
+
 ## August 25th, 2020 Livestream
 * [Q&A: ETA for Update 4](../../../transcriptions/yt-3xgs6Y-ZSe8.md) [https://www.youtube.com/watch?v=3xgs6Y-ZSe8](https://www.youtube.com/watch?v=3xgs6Y-ZSe8)
 * [Q&A: What is expected for Tier 9?](../../../transcriptions/yt-EAOiEQn7E5A.md) [https://www.youtube.com/watch?v=EAOiEQn7E5A](https://www.youtube.com/watch?v=EAOiEQn7E5A)

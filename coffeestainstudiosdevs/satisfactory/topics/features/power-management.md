@@ -74,6 +74,9 @@ date: Last Modified
 ## December 15th, 2020 Livestream
 * [Q&A: What will happen to the FICS⁕MAS power lines after the event?](../../transcriptions/yt-Gt9an2au_YU.md) [https://www.youtube.com/watch?v=Gt9an2au_YU](https://www.youtube.com/watch?v=Gt9an2au_YU)
 
+## December 4th, 2020 Video
+* [Jace Talk: Miscellaneous / Other things](../../transcriptions/yt-KH5SkE4nzhg,215.7155,237.3371.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=215&end=238](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=215&end=238)
+
 ## November 17th, 2020 Livestream
 * [Q&A: Any plans for Power Management?](../../transcriptions/yt-sY7V21IW6eE.md) [https://www.youtube.com/watch?v=sY7V21IW6eE](https://www.youtube.com/watch?v=sY7V21IW6eE)
 * [Q&A: Can we add Solar Power?](../../transcriptions/yt-_Uf5e-J9TwA.md) [https://www.youtube.com/watch?v=_Uf5e-J9TwA](https://www.youtube.com/watch?v=_Uf5e-J9TwA)

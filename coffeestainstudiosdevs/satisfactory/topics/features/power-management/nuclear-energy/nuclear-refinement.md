@@ -26,3 +26,6 @@ date: Last Modified
 * [Snutt & Jace Talk: Community spotted things in the Nuclear Refinement teaser](../../../../transcriptions/yt-0BtRlCxfxEc.md) [https://www.youtube.com/watch?v=0BtRlCxfxEc](https://www.youtube.com/watch?v=0BtRlCxfxEc)
 * [Snutt & Jace Talk: New Nuclear](../../../../transcriptions/yt-aewjS8-zD80.md) [https://www.youtube.com/watch?v=aewjS8-zD80](https://www.youtube.com/watch?v=aewjS8-zD80)
 * [Snutt & Jace Talk: Shout-out to Mark & Linus for putting the teaser together](../../../../transcriptions/yt-JDaOZ9BU7iI.md) [https://www.youtube.com/watch?v=JDaOZ9BU7iI](https://www.youtube.com/watch?v=JDaOZ9BU7iI)
+
+## December 4th, 2020 Video
+* [Jace Talk: Nuclear Fuel Rod Production Line rework](../../../../transcriptions/yt-KH5SkE4nzhg,175.34183333333334,202.06853333333333.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=175&end=203](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=175&end=203)

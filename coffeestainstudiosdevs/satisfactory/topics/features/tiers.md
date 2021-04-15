@@ -42,6 +42,9 @@ date: Last Modified
 * [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../transcriptions/yt-42AzC9Qk2yc.md) [https://www.youtube.com/watch?v=42AzC9Qk2yc](https://www.youtube.com/watch?v=42AzC9Qk2yc)
 * [Snutt & Jace Talk: The Wiki](../../transcriptions/yt-JGdEGbzDFlY.md) [https://www.youtube.com/watch?v=JGdEGbzDFlY](https://www.youtube.com/watch?v=JGdEGbzDFlY)
 
+## December 4th, 2020 Video
+* [Jace Talk: Lost Progress / Broken saves?](../../transcriptions/yt-KH5SkE4nzhg,237.3371,261.1942666666667.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=237&end=262](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=237&end=262)
+
 ## November 17th, 2020 Livestream
 * [Trolling: Flying Vehicles in Update 4](../../transcriptions/yt-E666WdfoeP0.md) [https://www.youtube.com/watch?v=E666WdfoeP0](https://www.youtube.com/watch?v=E666WdfoeP0)
 

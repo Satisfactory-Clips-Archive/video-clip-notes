@@ -40,6 +40,9 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [Q&A: Update to the save system?](../../transcriptions/yt-LF2QjQpoAqk.md) [https://www.youtube.com/watch?v=LF2QjQpoAqk](https://www.youtube.com/watch?v=LF2QjQpoAqk)
 
+## December 4th, 2020 Video
+* [Jace Talk: Lost Progress / Broken saves?](../../transcriptions/yt-KH5SkE4nzhg,237.3371,261.1942666666667.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=237&end=262](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=237&end=262)
+
 ## November 27th, 2020 Video
 * [Jace Talk: Improved I/O Speeds](../../transcriptions/yt-0kmDHBWf640,269.13553333333334,296.0958.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=269&end=297](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=269&end=297)
 

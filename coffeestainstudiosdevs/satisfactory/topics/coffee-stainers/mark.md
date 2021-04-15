@@ -55,6 +55,9 @@ date: Last Modified
 * [Mark Talk: My day-to-day work as Game Director](../../transcriptions/yt-CG0ff4zpl7k.md) [https://www.youtube.com/watch?v=CG0ff4zpl7k](https://www.youtube.com/watch?v=CG0ff4zpl7k)
 * [Q&A: Where is Mark from?](../../transcriptions/yt--nsfNFSevf4.md) [https://www.youtube.com/watch?v=-nsfNFSevf4](https://www.youtube.com/watch?v=-nsfNFSevf4)
 
+## December 4th, 2020 Video
+* [Jace Talk: Director Mark's Top 10 Tips on how to prepare for Update 4](../../transcriptions/yt-KH5SkE4nzhg,261.1942666666667,306.2726333333333.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=261&end=307](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=261&end=307)
+
 ## August 25th, 2020 Livestream
 * [Q&A: Are there internal discussions to significantly rework existing buildings like refineries?](../../transcriptions/yt-x07FQZjbA_c.md) [https://www.youtube.com/watch?v=x07FQZjbA_c](https://www.youtube.com/watch?v=x07FQZjbA_c)
 * [Q&A: What about wind turbines?](../../transcriptions/yt-bvMAe2VTC5A.md) [https://www.youtube.com/watch?v=bvMAe2VTC5A](https://www.youtube.com/watch?v=bvMAe2VTC5A)

@@ -46,6 +46,9 @@ date: Last Modified
 ## December 8th, 2020 Livestream
 * [Snutt Talk: Update 4 Tier 7 changes & Early Access](../../../transcriptions/yt-X9X9MsVbDAk.md) [https://www.youtube.com/watch?v=X9X9MsVbDAk](https://www.youtube.com/watch?v=X9X9MsVbDAk)
 
+## December 4th, 2020 Video
+* [Jace Talk: Tier 8 & the change in vision for Tier 7](../../../transcriptions/yt-KH5SkE4nzhg,45.237345,77.938843.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=45&end=78](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=45&end=78)
+
 ## September 8th, 2020 Livestream
 * [Q&A: What additions to Tier 7 might be coming & when ?](../../../transcriptions/yt-lGbJwWh5W_I.md) [https://www.youtube.com/watch?v=lGbJwWh5W_I](https://www.youtube.com/watch?v=lGbJwWh5W_I)
 

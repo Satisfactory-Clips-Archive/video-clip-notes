@@ -416,6 +416,21 @@ date: Last Modified
 * [Snutt Talk: Update 4 Tier 7 changes & Early Access](../../../transcriptions/yt-X9X9MsVbDAk.md) [https://www.youtube.com/watch?v=X9X9MsVbDAk](https://www.youtube.com/watch?v=X9X9MsVbDAk)
 * [Q&A: Will Mods break?](../../../transcriptions/yt-f1iY6Fj__E0.md) [https://www.youtube.com/watch?v=f1iY6Fj__E0](https://www.youtube.com/watch?v=f1iY6Fj__E0)
 
+## December 4th, 2020 Video
+* [Battery production rework](../../../transcriptions/yt-KH5SkE4nzhg,202.06853333333333,215.7155.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=202&end=216](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=202&end=216)
+* [Jace Talk: Bauxite refinement overhaul](../../../transcriptions/yt-KH5SkE4nzhg,88.75533333333334,138.8387.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=88&end=139](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=88&end=139)
+* [Jace Talk: Changes in Production Lines](../../../transcriptions/yt-KH5SkE4nzhg,77.938843,215.7155.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=77&end=216](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=77&end=216)
+* [Jace Talk: Director Mark's Top 10 Tips on how to prepare for Update 4](../../../transcriptions/yt-KH5SkE4nzhg,261.1942666666667,306.2726333333333.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=261&end=307](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=261&end=307)
+* [Intro](../../../transcriptions/yt-KH5SkE4nzhg,,18.952266666666667.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=0&end=19](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=0&end=19)
+* [Jace Talk: Lost Progress / Broken saves?](../../../transcriptions/yt-KH5SkE4nzhg,237.3371,261.1942666666667.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=237&end=262](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=237&end=262)
+* [Jace Talk: Miscellaneous / Other things](../../../transcriptions/yt-KH5SkE4nzhg,215.7155,237.3371.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=215&end=238](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=215&end=238)
+* [Jace Talk: Nuclear Fuel Rod Production Line rework](../../../transcriptions/yt-KH5SkE4nzhg,175.34183333333334,202.06853333333333.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=175&end=203](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=175&end=203)
+* [Jace Talk: Supercomputers & Radio Control Unit changes](../../../transcriptions/yt-KH5SkE4nzhg,162.02853333333334,175.34183333333334.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=162&end=176](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=162&end=176)
+* [Jace Talk: Tier 8 & the change in vision for Tier 7](../../../transcriptions/yt-KH5SkE4nzhg,45.237345,77.938843.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=45&end=78](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=45&end=78)
+* [Jace Talk: Tier 8 in Update 4](../../../transcriptions/yt-KH5SkE4nzhg,18.952266666666667,37.2372.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=18&end=38](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=18&end=38)
+* [Jace Talk: Turbo motors are moving up](../../../transcriptions/yt-KH5SkE4nzhg,138.8387,162.02853333333334.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=138&end=163](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=138&end=163)
+* [Jace Talk: When Update 4 will come out](../../../transcriptions/yt-KH5SkE4nzhg,37.2372,45.237345.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=37&end=46](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=37&end=46)
+
 ## November 24th, 2020 Livestream
 * [Q&A: Any air & sea Vehicles in Update 4?](../../../transcriptions/yt-HSoBZKjAN1k.md) [https://www.youtube.com/watch?v=HSoBZKjAN1k](https://www.youtube.com/watch?v=HSoBZKjAN1k)
 * [Q&A: Are beanies and beards part of new minimum spec for Satisfactory or Update 4 content?](../../../transcriptions/yt--uJ6AqPZy0U.md) [https://www.youtube.com/watch?v=-uJ6AqPZy0U](https://www.youtube.com/watch?v=-uJ6AqPZy0U)
