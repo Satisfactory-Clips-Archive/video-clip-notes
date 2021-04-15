@@ -37,6 +37,9 @@ date: Last Modified
 * [Q&A: Will some of the AWESOME Store items be integrated into Tiers of the M.A.M.?](../../transcriptions/yt-o-rncE3S1wA.md) [https://www.youtube.com/watch?v=o-rncE3S1wA](https://www.youtube.com/watch?v=o-rncE3S1wA)
 * [Q&A: Will you be able to skip Oil Extractors and go straight for Resource Well Extractors?](../../transcriptions/yt-_MeCW-2ol-c.md) [https://www.youtube.com/watch?v=_MeCW-2ol-c](https://www.youtube.com/watch?v=_MeCW-2ol-c)
 
+## December 17th, 2020 Q&A
+* [Q&A: How are you planning to balance optimisation vs. new tiers/features in the future?](../../transcriptions/yt--JXPsTlJIiI,464.29716666666667,484.58410000000003.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=464&end=485](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=464&end=485)
+
 ## December 8th, 2020 Livestream
 * [Q&A: Do you guys know what is going to be the last Tier in the game?](../../transcriptions/yt-ZOmxbDTRWmg.md) [https://www.youtube.com/watch?v=ZOmxbDTRWmg](https://www.youtube.com/watch?v=ZOmxbDTRWmg)
 * [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../transcriptions/yt-42AzC9Qk2yc.md) [https://www.youtube.com/watch?v=42AzC9Qk2yc](https://www.youtube.com/watch?v=42AzC9Qk2yc)

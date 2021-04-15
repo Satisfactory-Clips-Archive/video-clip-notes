@@ -20,6 +20,10 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [State of Dev - FICS⁕MAS](../../../transcriptions/yt-dnkH1mqdCKI.md) [https://www.youtube.com/watch?v=dnkH1mqdCKI](https://www.youtube.com/watch?v=dnkH1mqdCKI)
 
+## December 17th, 2020 Q&A
+* [Q&A: Will FICS⁕MAS and seasonal events in general be a regular thing?](../../../transcriptions/yt--JXPsTlJIiI,148.11463333333333,192.3922.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193)
+* [Q&A: Will we keep our FICS⁕MAS stuff after the event ends?](../../../transcriptions/yt--JXPsTlJIiI,325.4251,379.5124666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=325&end=380](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=325&end=380)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Could it be released to the Modding Community to polish and release it as a Mod?](../../../transcriptions/yt-MQLuFiVQPYY.md) [https://www.youtube.com/watch?v=MQLuFiVQPYY](https://www.youtube.com/watch?v=MQLuFiVQPYY)
 * [Q&A: If I backup current version, will FICS⁕MAS still work after the 18th?](../../../transcriptions/yt-01DJ6EPqTk4.md) [https://www.youtube.com/watch?v=01DJ6EPqTk4](https://www.youtube.com/watch?v=01DJ6EPqTk4)

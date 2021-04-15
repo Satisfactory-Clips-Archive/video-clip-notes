@@ -94,6 +94,11 @@ date: Last Modified
 * [Q&A: Are there plans to optimise the Tutorial?](../../transcriptions/yt-yvrH5XwPi4k.md) [https://www.youtube.com/watch?v=yvrH5XwPi4k](https://www.youtube.com/watch?v=yvrH5XwPi4k)
 * [Snutt Talk: Turbofuel in Jetpacks](../../transcriptions/yt-xY2wDhyE7ZE.md) [https://www.youtube.com/watch?v=xY2wDhyE7ZE](https://www.youtube.com/watch?v=xY2wDhyE7ZE)
 
+## December 17th, 2020 Q&A
+* [Q&A: Can we replace walls without having to delete them?](../../transcriptions/yt--JXPsTlJIiI,564.9644,585.4515333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=564&end=586](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=564&end=586)
+* [Q&A: Why don't my computer screens in my hub show me power consumption or total production?](../../transcriptions/yt--JXPsTlJIiI,808.0739333333333,844.2767666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845)
+* [Q&A: Will there ever be 3rd person?](../../transcriptions/yt--JXPsTlJIiI,875.7081666666667,911.9110000000001.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=875&end=912](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=875&end=912)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Can dismantle mode have an ignore function maybe?](../../transcriptions/yt-0KLJ2_1P_uk.md) [https://www.youtube.com/watch?v=0KLJ2_1P_uk](https://www.youtube.com/watch?v=0KLJ2_1P_uk)
 * [Q&A: Can you make a toolbar selection to be with just hotkeys instead of mousewheel?](../../transcriptions/yt-xwwx4N37G8M.md) [https://www.youtube.com/watch?v=xwwx4N37G8M](https://www.youtube.com/watch?v=xwwx4N37G8M)

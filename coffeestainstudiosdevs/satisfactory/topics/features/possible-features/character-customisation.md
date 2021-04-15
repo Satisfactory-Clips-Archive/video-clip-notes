@@ -23,6 +23,9 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [Q&A: New skins?](../../../transcriptions/yt--IYD97gEt4w.md) [https://www.youtube.com/watch?v=-IYD97gEt4w](https://www.youtube.com/watch?v=-IYD97gEt4w)
 
+## December 17th, 2020 Q&A
+* [Q&A: Character customization?](../../../transcriptions/yt--JXPsTlJIiI,911.9110000000001,928.7611666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=911&end=929](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=911&end=929)
+
 ## December 15th, 2020 Livestream
 * Q&A: Are we adding new skins? [https://www.youtube.com/watch?v=w2zJd6F1Udw](https://www.youtube.com/watch?v=w2zJd6F1Udw)
 

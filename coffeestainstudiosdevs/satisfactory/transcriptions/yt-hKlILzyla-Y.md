@@ -10,13 +10,15 @@ topics:
 ## Q&A: Will there be more creatures ever?
 https://www.youtube.com/watch?v=hKlILzyla-Y
 <details>
-<summary>This question may have been asked previously at least 22 other times, as recently as March 2021 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 24 other times, as recently as March 2021 and as early as March 2019.</summary>
 
 * March 16th, 2021 Livestream Q&A: Giant Crab? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=779&end=790](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=779&end=790)
 * [March 2nd, 2021 Livestream Q&A: Any new Animals?](./yt-c5EEG5MrTF0.md) [https://www.youtube.com/watch?v=c5EEG5MrTF0](https://www.youtube.com/watch?v=c5EEG5MrTF0)
 * [February 23rd, 2021 Livestream Q&A: Any future combat or enemy updates to come?](./yt-MS3_LOEapI4.md) [https://www.youtube.com/watch?v=MS3_LOEapI4](https://www.youtube.com/watch?v=MS3_LOEapI4)
 * [February 9th, 2021 Livestream Q&A: When will you be adding more wildlife?](./yt-gAjKNyUTkMQ.md) [https://www.youtube.com/watch?v=gAjKNyUTkMQ](https://www.youtube.com/watch?v=gAjKNyUTkMQ)
 * [January 19th, 2021 Livestream Q&A: Will there be more Creatures, even more dangerous ones?](./yt-T0jbE_WjQJQ.md) [https://www.youtube.com/watch?v=T0jbE_WjQJQ](https://www.youtube.com/watch?v=T0jbE_WjQJQ)
+* [December 17th, 2020 Q&A: Any plans on giant boss enemies and giant mech suits to fight them in?](./yt--JXPsTlJIiI,664.8642,675.5415333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=664&end=676](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=664&end=676)
+* [December 17th, 2020 Q&A: Will combat be expanded upon? More enemies?](./yt--JXPsTlJIiI,675.5415333333333,706.3389666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=675&end=707](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=675&end=707)
 * [December 15th, 2020 Livestream Q&A: Will there be new enemies?](./yt-mwN7mAZ2dbg.md) [https://www.youtube.com/watch?v=mwN7mAZ2dbg](https://www.youtube.com/watch?v=mwN7mAZ2dbg)
 * [November 17th, 2020 Livestream Q&A: Any news on big Crab monster?](./yt-tTXExwaqZQM.md) [https://www.youtube.com/watch?v=tTXExwaqZQM](https://www.youtube.com/watch?v=tTXExwaqZQM)
 * [November 10th, 2020 Livestream Q&A: Any plans to add more animals to enemies or dangers?](./yt-RuzL7DdAJ1o.md) [https://www.youtube.com/watch?v=RuzL7DdAJ1o](https://www.youtube.com/watch?v=RuzL7DdAJ1o)

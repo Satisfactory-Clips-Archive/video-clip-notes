@@ -37,6 +37,9 @@ date: Last Modified
 ## February 2nd, 2021 Livestream
 * [Q&A: Increase the spawn radius for animals?](../../transcriptions/yt-6_JS0HRIPp8.md) [https://www.youtube.com/watch?v=6_JS0HRIPp8](https://www.youtube.com/watch?v=6_JS0HRIPp8)
 
+## December 17th, 2020 Q&A
+* [Q&A: Will combat be expanded upon? More enemies?](../../transcriptions/yt--JXPsTlJIiI,675.5415333333333,706.3389666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=675&end=707](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=675&end=707)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Will there be new enemies?](../../transcriptions/yt-mwN7mAZ2dbg.md) [https://www.youtube.com/watch?v=mwN7mAZ2dbg](https://www.youtube.com/watch?v=mwN7mAZ2dbg)
 

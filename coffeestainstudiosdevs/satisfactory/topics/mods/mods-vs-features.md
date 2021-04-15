@@ -26,6 +26,9 @@ date: Last Modified
 * [Q&A: If the community made a Snow Biome, would you add that?](../../transcriptions/yt-I8rWTBGdGio.md) [https://www.youtube.com/watch?v=I8rWTBGdGio](https://www.youtube.com/watch?v=I8rWTBGdGio)
 * [Q&A: Mass Foundation creation?](../../transcriptions/yt-Z0H06UJbb4E.md) [https://www.youtube.com/watch?v=Z0H06UJbb4E](https://www.youtube.com/watch?v=Z0H06UJbb4E)
 
+## December 17th, 2020 Q&A
+* [Q&A: Do you look at the mods and think there are features you'd like to include in the full game?](../../transcriptions/yt--JXPsTlJIiI,1094.8270666666667,1151.6505.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1094&end=1152](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1094&end=1152)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Could it be released to the Modding Community to polish and release it as a Mod?](../../transcriptions/yt-MQLuFiVQPYY.md) [https://www.youtube.com/watch?v=MQLuFiVQPYY](https://www.youtube.com/watch?v=MQLuFiVQPYY)
 * [Q&A: Is automated food production planned?](../../transcriptions/yt--9WFYJETif4.md) [https://www.youtube.com/watch?v=-9WFYJETif4](https://www.youtube.com/watch?v=-9WFYJETif4)

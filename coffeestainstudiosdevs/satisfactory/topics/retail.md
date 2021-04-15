@@ -20,6 +20,9 @@ date: Last Modified
 ## January 26th, 2021 Livestream
 * [Q&A: Does refund harm devs- is there a refund fee ?](../transcriptions/yt-_QUBxFf4Yw4.md) [https://www.youtube.com/watch?v=_QUBxFf4Yw4](https://www.youtube.com/watch?v=_QUBxFf4Yw4)
 
+## December 17th, 2020 Q&A
+* [Q&A: Has the decision to press on to 1.0 recently been prompted - at least in part - by financials?](../transcriptions/yt--JXPsTlJIiI,1266.3651,1375.9412333333335.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1266&end=1376](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1266&end=1376)
+
 ## December 8th, 2020 Livestream
 * [Q&A: Have you sold more than 10 copies yet?](../transcriptions/yt-m7UjXQmtBK0.md) [https://www.youtube.com/watch?v=m7UjXQmtBK0](https://www.youtube.com/watch?v=m7UjXQmtBK0)
 

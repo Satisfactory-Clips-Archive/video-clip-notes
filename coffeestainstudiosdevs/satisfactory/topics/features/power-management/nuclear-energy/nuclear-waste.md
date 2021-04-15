@@ -31,6 +31,9 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Can we remove Nuclear Waste from the Doggo loot list?](../../../../transcriptions/yt-x2qXm_DXJEw.md) [https://www.youtube.com/watch?v=x2qXm_DXJEw](https://www.youtube.com/watch?v=x2qXm_DXJEw)
 
+## December 17th, 2020 Q&A
+* [Q&A: Is there a plan for Nuclear Waste? Besides being used as Lizard Doggo treats.](../../../../transcriptions/yt--JXPsTlJIiI,585.4515333333334,615.0477666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=585&end=616](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=585&end=616)
+
 ## December 11th, 2020 Teasers
 * [Plutonium Waste](../../../../transcriptions/yt-njXBs_p2l1w,333.23290000000003,443.557086.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=333&end=444)
 

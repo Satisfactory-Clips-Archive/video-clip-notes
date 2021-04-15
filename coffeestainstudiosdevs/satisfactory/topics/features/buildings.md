@@ -66,6 +66,9 @@ date: Last Modified
 * [Q&A: Some buildings used to auto-select recipes?](../../transcriptions/yt-iCOiamAc_ak.md) [https://www.youtube.com/watch?v=iCOiamAc_ak](https://www.youtube.com/watch?v=iCOiamAc_ak)
 * [Q&A: Will it be possible to use decimal places for percentages in future?](../../transcriptions/yt-zGH69_aSwwk.md) [https://www.youtube.com/watch?v=zGH69_aSwwk](https://www.youtube.com/watch?v=zGH69_aSwwk)
 
+## December 17th, 2020 Q&A
+* [Q&A: If you were a Satisfactory building, what building would you be?](../../transcriptions/yt--JXPsTlJIiI,764.764,791.4573333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=764&end=792](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=764&end=792)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Will FICS⁕MAS Buildings and items still be in the World after the event is over?](../../transcriptions/yt-ospbB7hdDdI.md) [https://www.youtube.com/watch?v=ospbB7hdDdI](https://www.youtube.com/watch?v=ospbB7hdDdI)
 

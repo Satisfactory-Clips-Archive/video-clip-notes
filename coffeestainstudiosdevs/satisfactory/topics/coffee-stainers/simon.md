@@ -27,6 +27,9 @@ date: Last Modified
 ## February 2nd, 2021 Livestream
 * [Q&A: Snutt & Jace poster in Satisfactory when?](../../transcriptions/yt-X4heczNNOO8.md) [https://www.youtube.com/watch?v=X4heczNNOO8](https://www.youtube.com/watch?v=X4heczNNOO8)
 
+## December 17th, 2020 Q&A
+* [Q&A: Is Simon okay?](../../transcriptions/yt--JXPsTlJIiI,791.4573333333334,808.0739333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=791&end=809](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=791&end=809)
+
 ## December 8th, 2020 Livestream
 * [State of Dev: Blame Simon](../../transcriptions/yt-H4gyZoXsfo0.md) [https://www.youtube.com/watch?v=H4gyZoXsfo0](https://www.youtube.com/watch?v=H4gyZoXsfo0)
 

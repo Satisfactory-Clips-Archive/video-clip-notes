@@ -19,6 +19,9 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Will there be more Creatures, even more dangerous ones?](../../../transcriptions/yt-T0jbE_WjQJQ.md) [https://www.youtube.com/watch?v=T0jbE_WjQJQ](https://www.youtube.com/watch?v=T0jbE_WjQJQ)
 
+## December 17th, 2020 Q&A
+* [Q&A: Any plans on giant boss enemies and giant mech suits to fight them in?](../../../transcriptions/yt--JXPsTlJIiI,664.8642,675.5415333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=664&end=676](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=664&end=676)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Will there be new enemies?](../../../transcriptions/yt-mwN7mAZ2dbg.md) [https://www.youtube.com/watch?v=mwN7mAZ2dbg](https://www.youtube.com/watch?v=mwN7mAZ2dbg)
 

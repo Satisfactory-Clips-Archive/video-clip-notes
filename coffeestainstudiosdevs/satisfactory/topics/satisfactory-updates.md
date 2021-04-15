@@ -24,6 +24,9 @@ date: Last Modified
 * [Q&A: Do you guys have plans for other save-breaking changes in the future?](../transcriptions/yt-mFPSgNO5cIk.md) [https://www.youtube.com/watch?v=mFPSgNO5cIk](https://www.youtube.com/watch?v=mFPSgNO5cIk)
 * Q&A: How big is the Update compared to other Updates? [https://www.youtube.com/watch?v=3spifwbAEDE](https://www.youtube.com/watch?v=3spifwbAEDE)
 
+## December 17th, 2020 Q&A
+* [Q&A: How are you planning to balance optimisation vs. new tiers/features in the future?](../transcriptions/yt--JXPsTlJIiI,464.29716666666667,484.58410000000003.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=464&end=485](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=464&end=485)
+
 ## November 12th, 2020 Video
 * [Birk Talk: Changes left in 2020](../transcriptions/yt-VYyFA7-yRKc,277.08,427.68.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=277&end=428](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=277&end=428)
 * [Birk Talk: Ongoing content](../transcriptions/yt-VYyFA7-yRKc,132.32,151.88.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=132&end=152](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=132&end=152)

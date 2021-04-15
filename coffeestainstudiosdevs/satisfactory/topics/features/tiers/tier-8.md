@@ -23,6 +23,9 @@ date: Last Modified
 ## January 15th, 2021 Video
 * [Q&A: What will Gases be used for?](../../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188)
 
+## December 17th, 2020 Q&A
+* [Q&A: Are Tiers 8-10 anywhere near accurate on the Satisfactory Wiki?](../../../transcriptions/yt--JXPsTlJIiI,83.81706666666666,148.11463333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=83&end=149](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=83&end=149)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Have you confirmed Superposition Oscillators and Quantum Computers to be buildable in Tier 8?](../../../transcriptions/yt-fmE3DQFeVGk.md) [https://www.youtube.com/watch?v=fmE3DQFeVGk](https://www.youtube.com/watch?v=fmE3DQFeVGk)
 

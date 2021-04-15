@@ -9,6 +9,8 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Will Jeff Goldblum narrate 1.0?
 https://www.youtube.com/watch?v=ojWHhAieF2w
+This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Any NPCs in the game?](./yt-z-DgcRCy3so.md) [https://www.youtube.com/watch?v=z-DgcRCy3so](https://www.youtube.com/watch?v=z-DgcRCy3so)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)

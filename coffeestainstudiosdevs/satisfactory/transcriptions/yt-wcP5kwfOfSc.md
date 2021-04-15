@@ -9,8 +9,9 @@ topics:
 ## Q&A: Third Person View?
 https://www.youtube.com/watch?v=wcP5kwfOfSc
 <details>
-<summary>This question may have been asked previously at least 6 other times, as recently as September 2020 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 7 other times, as recently as December 2020 and as early as February 2019.</summary>
 
+* [December 17th, 2020 Q&A: Will there ever be 3rd person?](./yt--JXPsTlJIiI,875.7081666666667,911.9110000000001.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=875&end=912](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=875&end=912)
 * [September 8th, 2020 Livestream Q&A: Third-Person When?](./yt-nVXcTzC72EQ.md) [https://www.youtube.com/watch?v=nVXcTzC72EQ](https://www.youtube.com/watch?v=nVXcTzC72EQ)
 * [August 25th, 2020 Livestream Q&A: Please consider adding a third-person view?](./yt-HXXn10GhRWU.md) [https://www.youtube.com/watch?v=HXXn10GhRWU](https://www.youtube.com/watch?v=HXXn10GhRWU)
 * [May 15th, 2020 Q&A: Any 3rd person toggle planned?](./yt-NlIVwoRqjVk,957.1562,987.6199666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=957&end=988](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=957&end=988)

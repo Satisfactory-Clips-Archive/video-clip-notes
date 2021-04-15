@@ -9,10 +9,11 @@ topics:
 ## Q&A: Will we ever use S.A.M. Ore?
 https://www.youtube.com/watch?v=SqyfGfz3APc
 <details>
-<summary>This question may have been asked previously at least 10 other times, as recently as February 2021 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 11 other times, as recently as February 2021 and as early as March 2019.</summary>
 
 * [February 23rd, 2021 Livestream Q&A: S.A.M. Ore getting a main use any time soon?](./yt-ow33F_nK6nc.md) [https://www.youtube.com/watch?v=ow33F_nK6nc](https://www.youtube.com/watch?v=ow33F_nK6nc)
 * [January 12th, 2021 Livestream Q&A: What's happening with S.A.M. Ore?](./yt-f0Z9VIAK5Iw.md) [https://www.youtube.com/watch?v=f0Z9VIAK5Iw](https://www.youtube.com/watch?v=f0Z9VIAK5Iw)
+* December 17th, 2020 Q&A: Will S.A.M. Ore ever be useful? [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079)
 * [October 20th, 2020 Livestream Q&A: What's the secret behind S.A.M. Ore?](./yt-tXqk1eu0-BQ.md) [https://www.youtube.com/watch?v=tXqk1eu0-BQ](https://www.youtube.com/watch?v=tXqk1eu0-BQ)
 * [September 29th, 2020 Livestream Q&A: How much S.A.M. Ore should we stock up on?](./yt-vBGfC7j2AyI.md) [https://www.youtube.com/watch?v=vBGfC7j2AyI](https://www.youtube.com/watch?v=vBGfC7j2AyI)
 * [August 25th, 2020 Livestream Q&A: Please tell me Update 4 will use S.A.M. Ore](./yt--b2L_nlW_Fo.md) [https://www.youtube.com/watch?v=-b2L_nlW_Fo](https://www.youtube.com/watch?v=-b2L_nlW_Fo)

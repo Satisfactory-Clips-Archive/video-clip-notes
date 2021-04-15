@@ -80,6 +80,10 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Who in Coffee Stain plays Satisfactory the most?](../transcriptions/yt-N4JpnY4zy70.md) [https://www.youtube.com/watch?v=N4JpnY4zy70](https://www.youtube.com/watch?v=N4JpnY4zy70)
 
+## December 17th, 2020 Q&A
+* [Q&A: How proud are you of the code you wrote and systems you helped make in Satisfactory?](../transcriptions/yt--JXPsTlJIiI,379.5124666666667,450.7169333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=379&end=451](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=379&end=451)
+* [Q&A: Where did the idea of Satisfactory come from?](../transcriptions/yt--JXPsTlJIiI,534.1002333333333,564.9644.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=534&end=565](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=534&end=565)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Do you guys crunch or do you actually care about stuff like health?](../transcriptions/yt-Ev8CEXznWsE.md) [https://www.youtube.com/watch?v=Ev8CEXznWsE](https://www.youtube.com/watch?v=Ev8CEXznWsE)
 

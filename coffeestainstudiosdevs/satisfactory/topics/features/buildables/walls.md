@@ -39,6 +39,9 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: My friend has a green colour preset for all walls in the world, is there a way to change this?](../../../transcriptions/yt-6DayBMofsHs.md) [https://www.youtube.com/watch?v=6DayBMofsHs](https://www.youtube.com/watch?v=6DayBMofsHs)
 
+## December 17th, 2020 Q&A
+* [Q&A: Can we replace walls without having to delete them?](../../../transcriptions/yt--JXPsTlJIiI,564.9644,585.4515333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=564&end=586](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=564&end=586)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Walls & Handrails, be able to place like Pipes?](../../../transcriptions/yt-LFH3YB0pV24.md) [https://www.youtube.com/watch?v=LFH3YB0pV24](https://www.youtube.com/watch?v=LFH3YB0pV24)
 

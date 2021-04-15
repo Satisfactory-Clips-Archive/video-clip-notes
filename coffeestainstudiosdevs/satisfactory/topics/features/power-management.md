@@ -71,6 +71,9 @@ date: Last Modified
 ## January 15th, 2021 Video
 * [Q&A: What will Gases be used for?](../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188)
 
+## December 17th, 2020 Q&A
+* [Q&A: Why don't my computer screens in my hub show me power consumption or total production?](../../transcriptions/yt--JXPsTlJIiI,808.0739333333333,844.2767666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845)
+
 ## December 15th, 2020 Livestream
 * [Q&A: What will happen to the FICS⁕MAS power lines after the event?](../../transcriptions/yt-Gt9an2au_YU.md) [https://www.youtube.com/watch?v=Gt9an2au_YU](https://www.youtube.com/watch?v=Gt9an2au_YU)
 

@@ -64,6 +64,10 @@ date: Last Modified
 * [Q&A: The game is not done until I can flush the toilet?](../../../transcriptions/yt-64xmTN-rhbs.md) [https://www.youtube.com/watch?v=64xmTN-rhbs](https://www.youtube.com/watch?v=64xmTN-rhbs)
 * [Q&A: What's happening with S.A.M. Ore?](../../../transcriptions/yt-f0Z9VIAK5Iw.md) [https://www.youtube.com/watch?v=f0Z9VIAK5Iw](https://www.youtube.com/watch?v=f0Z9VIAK5Iw)
 
+## December 17th, 2020 Q&A
+* [Q&A: Has the decision to press on to 1.0 recently been prompted - at least in part - by financials?](../../../transcriptions/yt--JXPsTlJIiI,1266.3651,1375.9412333333335.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1266&end=1376](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1266&end=1376)
+* [Q&A: How does the current trajectory to the game compare to everyone's original concept?](../../../transcriptions/yt--JXPsTlJIiI,254.92133333333334,325.4251.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=254&end=326](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=254&end=326)
+
 ## December 15th, 2020 Livestream
 * [Q&A: What is priority currently?](../../../transcriptions/yt-GOg5NVFpjSU.md) [https://www.youtube.com/watch?v=GOg5NVFpjSU](https://www.youtube.com/watch?v=GOg5NVFpjSU)
 

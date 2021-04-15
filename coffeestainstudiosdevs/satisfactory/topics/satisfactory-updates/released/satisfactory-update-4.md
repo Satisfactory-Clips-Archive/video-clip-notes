@@ -383,6 +383,10 @@ date: Last Modified
 * [Q&A: Update 4 Release Date](../../../transcriptions/yt-8-vsYNedzEw.md) [https://www.youtube.com/watch?v=8-vsYNedzEw](https://www.youtube.com/watch?v=8-vsYNedzEw)
 * [Q&A: Will there be any minor releases between now and Update 4?](../../../transcriptions/yt-GaVr69FiXw8.md) [https://www.youtube.com/watch?v=GaVr69FiXw8](https://www.youtube.com/watch?v=GaVr69FiXw8)
 
+## December 17th, 2020 Q&A
+* [Q&A: How likely will it be that our saves break in updates after Update 4?](../../../transcriptions/yt--JXPsTlJIiI,16.583233333333332,83.81706666666666.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=16&end=84](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=16&end=84)
+* [Q&A: Is there a reason why we cannot package Sulfuric Acid?](../../../transcriptions/yt--JXPsTlJIiI,735.8351,756.4890666666666.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=735&end=757](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=735&end=757)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Have you confirmed Superposition Oscillators and Quantum Computers to be buildable in Tier 8?](../../../transcriptions/yt-fmE3DQFeVGk.md) [https://www.youtube.com/watch?v=fmE3DQFeVGk](https://www.youtube.com/watch?v=fmE3DQFeVGk)
 * [Q&A: How big will the update for Update 4 be in gigabytes?](../../../transcriptions/yt-_i9f2NI9JNc.md) [https://www.youtube.com/watch?v=_i9f2NI9JNc](https://www.youtube.com/watch?v=_i9f2NI9JNc)

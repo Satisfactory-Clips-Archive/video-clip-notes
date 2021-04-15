@@ -102,6 +102,9 @@ date: Last Modified
 * [Q&A: How can I help with translation- the Spanish one looks like Google Translator?](../transcriptions/yt-qbaev-b4lbQ.md) [https://www.youtube.com/watch?v=qbaev-b4lbQ](https://www.youtube.com/watch?v=qbaev-b4lbQ)
 * [Q&A: What is your favourite Mod?](../transcriptions/yt-9tdYBCwd5no.md) [https://www.youtube.com/watch?v=9tdYBCwd5no](https://www.youtube.com/watch?v=9tdYBCwd5no)
 
+## December 17th, 2020 Q&A
+* [Q&A: Is player fatigue a concern for you? Do you see people drop off at certain points in the game?](../transcriptions/yt--JXPsTlJIiI,492.75893333333335,527.1933333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=492&end=528](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=492&end=528)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Could it be released to the Modding Community to polish and release it as a Mod?](../transcriptions/yt-MQLuFiVQPYY.md) [https://www.youtube.com/watch?v=MQLuFiVQPYY](https://www.youtube.com/watch?v=MQLuFiVQPYY)
 * [Q&A: What's the best nickname someone has ever given you?](../transcriptions/yt-_4_umuhMFK8.md) [https://www.youtube.com/watch?v=_4_umuhMFK8](https://www.youtube.com/watch?v=_4_umuhMFK8)

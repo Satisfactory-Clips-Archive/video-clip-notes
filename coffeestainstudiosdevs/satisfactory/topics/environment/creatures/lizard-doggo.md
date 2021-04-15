@@ -34,6 +34,9 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [Q&A: Can we blend Lizard Doggos in the new Blender?](../../../transcriptions/yt-Keprp2vxOM8.md) [https://www.youtube.com/watch?v=Keprp2vxOM8](https://www.youtube.com/watch?v=Keprp2vxOM8)
 
+## December 17th, 2020 Q&A
+* [Q&A: Is there a plan for Nuclear Waste? Besides being used as Lizard Doggo treats.](../../../transcriptions/yt--JXPsTlJIiI,585.4515333333334,615.0477666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=585&end=616](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=585&end=616)
+
 ## December 8th, 2020 Livestream
 * [Q&A: Do you know what caused the Lizard Doggos to be super-janky at the launch of FICS⁕MAS?](../../../transcriptions/yt-4M85D1XUDlU.md) [https://www.youtube.com/watch?v=4M85D1XUDlU](https://www.youtube.com/watch?v=4M85D1XUDlU)
 

@@ -31,6 +31,9 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Will there be ways to see your total production per minute?](../../../transcriptions/yt-tHzH3dkTZ4s.md) [https://www.youtube.com/watch?v=tHzH3dkTZ4s](https://www.youtube.com/watch?v=tHzH3dkTZ4s)
 
+## December 17th, 2020 Q&A
+* [Q&A: Why don't my computer screens in my hub show me power consumption or total production?](../../../transcriptions/yt--JXPsTlJIiI,808.0739333333333,844.2767666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Are you going to add more functionality to the HUB?](../../../transcriptions/yt-lacIs2by7tk.md) [https://www.youtube.com/watch?v=lacIs2by7tk](https://www.youtube.com/watch?v=lacIs2by7tk)
 * [Q&A: Why can't we flush the toilet?](../../../transcriptions/yt-En8viTUiojc.md) [https://www.youtube.com/watch?v=En8viTUiojc](https://www.youtube.com/watch?v=En8viTUiojc)

@@ -31,6 +31,9 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Is there a plan to add Screens to the game?](../../../transcriptions/yt-sjfADGMwclM.md) [https://www.youtube.com/watch?v=sjfADGMwclM](https://www.youtube.com/watch?v=sjfADGMwclM)
 
+## December 17th, 2020 Q&A
+* [Q&A: Will we get signs any time soon?](../../../transcriptions/yt--JXPsTlJIiI,192.3922,201.23436666666666.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=192&end=202](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=192&end=202)
+
 ## November 3rd, 2020 Livestream
 * [Q&A: When do Signs come?](../../../transcriptions/yt-5PwIEaLRDRY.md) [https://www.youtube.com/watch?v=5PwIEaLRDRY](https://www.youtube.com/watch?v=5PwIEaLRDRY)
 

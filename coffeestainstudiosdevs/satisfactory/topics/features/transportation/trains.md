@@ -39,6 +39,9 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Can more people ride the same Train soon?](../../../transcriptions/yt-YMWU_qSRI1E.md) [https://www.youtube.com/watch?v=YMWU_qSRI1E](https://www.youtube.com/watch?v=YMWU_qSRI1E)
 
+## December 17th, 2020 Q&A
+* [Q&A: Will Trains be getting any updates? Signals? Collision?](../../../transcriptions/yt--JXPsTlJIiI,229.86296666666667,254.92133333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=229&end=255](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=229&end=255)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Train Update?](../../../transcriptions/yt-ts7TQnRykB0.md) [https://www.youtube.com/watch?v=ts7TQnRykB0](https://www.youtube.com/watch?v=ts7TQnRykB0)
 

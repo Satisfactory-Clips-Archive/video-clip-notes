@@ -34,6 +34,9 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [Q&A: Are there any plans to add Lights inside the factory?](../../../transcriptions/yt-QvTjwyhFvGQ.md) [https://www.youtube.com/watch?v=QvTjwyhFvGQ](https://www.youtube.com/watch?v=QvTjwyhFvGQ)
 
+## December 17th, 2020 Q&A
+* [Q&A: Jace will there be lights‽](../../../transcriptions/yt--JXPsTlJIiI,756.4890666666666,764.764.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=756&end=765](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=756&end=765)
+
 ## December 8th, 2020 Livestream
 * [Snutt Talk: Lights (not) confirmed!](../../../transcriptions/yt-9VodwDOMBl0.md) [https://www.youtube.com/watch?v=9VodwDOMBl0](https://www.youtube.com/watch?v=9VodwDOMBl0)
 * [Snutt Talk: Lights on Buildings](../../../transcriptions/yt-fsP_b5C7y0M.md) [https://www.youtube.com/watch?v=fsP_b5C7y0M](https://www.youtube.com/watch?v=fsP_b5C7y0M)

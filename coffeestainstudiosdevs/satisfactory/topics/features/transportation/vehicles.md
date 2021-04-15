@@ -36,6 +36,11 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: What about Multiplayer Vehicle de-sync?](../../../transcriptions/yt-JpSV5eDGEJw.md) [https://www.youtube.com/watch?v=JpSV5eDGEJw](https://www.youtube.com/watch?v=JpSV5eDGEJw)
 
+## December 17th, 2020 Q&A
+* [Q&A: Any plans on giant boss enemies and giant mech suits to fight them in?](../../../transcriptions/yt--JXPsTlJIiI,664.8642,675.5415333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=664&end=676](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=664&end=676)
+* [Q&A: Are there any other plans for vehicles? Amphibious, air?](../../../transcriptions/yt--JXPsTlJIiI,615.0477666666667,664.8642.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=615&end=665](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=615&end=665)
+* [Q&A: Can we paint vehicles?](../../../transcriptions/yt--JXPsTlJIiI,527.1933333333334,534.1002333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=527&end=535](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=527&end=535)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update?](../../../transcriptions/yt-6BahsrvlPJs.md) [https://www.youtube.com/watch?v=6BahsrvlPJs](https://www.youtube.com/watch?v=6BahsrvlPJs)
 

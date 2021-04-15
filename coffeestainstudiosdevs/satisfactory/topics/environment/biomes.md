@@ -34,6 +34,9 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [Q&A: Which Biome will be rebuilt?](../../transcriptions/yt-5v0_pFbQLF4.md) [https://www.youtube.com/watch?v=5v0_pFbQLF4](https://www.youtube.com/watch?v=5v0_pFbQLF4)
 
+## December 17th, 2020 Q&A
+* [Q&A: New biomes?](../../transcriptions/yt--JXPsTlJIiI,1026.3920333333333,1036.5688666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Will there be a Snow Biome?](../../transcriptions/yt-iyhdKRg1b0A.md) [https://www.youtube.com/watch?v=iyhdKRg1b0A](https://www.youtube.com/watch?v=iyhdKRg1b0A)
 

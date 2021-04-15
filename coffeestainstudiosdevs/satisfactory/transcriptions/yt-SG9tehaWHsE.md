@@ -10,6 +10,8 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: (re: the wiki) So the old data-mined data?
 https://www.youtube.com/watch?v=SG9tehaWHsE
+This question was possibly duplicated with a more recent answer: [December 17th, 2020 Q&A: Are Tiers 8-10 anywhere near accurate on the Satisfactory Wiki?](./yt--JXPsTlJIiI,83.81706666666666,148.11463333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=83&end=149](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=83&end=149)
+
 
 ### Topics
 * [Community > Wiki](../topics/community/wiki.md)

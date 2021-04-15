@@ -9,10 +9,11 @@ topics:
 ## Q&A: Is a bigger world a possibility?
 https://www.youtube.com/watch?v=dlL942ooTho
 <details>
-<summary>This question may have been asked previously at least 12 other times, as recently as February 2021 and as early as December 2019.</summary>
+<summary>This question may have been asked previously at least 13 other times, as recently as February 2021 and as early as December 2019.</summary>
 
 * [February 2nd, 2021 Livestream Q&A: Will the Map be bigger later?](./yt-gvOt4jwWA4Q.md) [https://www.youtube.com/watch?v=gvOt4jwWA4Q](https://www.youtube.com/watch?v=gvOt4jwWA4Q)
 * [January 19th, 2021 Livestream Q&A: Is the Map finalised, as in there will be no more additions?](./yt-zVnmYZemxe8.md) [https://www.youtube.com/watch?v=zVnmYZemxe8](https://www.youtube.com/watch?v=zVnmYZemxe8)
+* [December 17th, 2020 Q&A: New biomes?](./yt--JXPsTlJIiI,1026.3920333333333,1036.5688666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037)
 * [December 15th, 2020 Livestream Q&A: When are you going to expand the map?](./yt-axmmm-ituSg.md) [https://www.youtube.com/watch?v=axmmm-ituSg](https://www.youtube.com/watch?v=axmmm-ituSg)
 * [December 15th, 2020 Livestream Q&A: Will we add more to the Map?](./yt-NeQpezHiVzI.md) [https://www.youtube.com/watch?v=NeQpezHiVzI](https://www.youtube.com/watch?v=NeQpezHiVzI)
 * November 10th, 2020 Livestream Q&A: Any plans to expand the Map / add new Biomes? [https://www.youtube.com/watch?v=oZhfgq9vdKg](https://www.youtube.com/watch?v=oZhfgq9vdKg)

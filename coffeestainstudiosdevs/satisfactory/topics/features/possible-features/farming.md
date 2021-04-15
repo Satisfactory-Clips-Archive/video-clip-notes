@@ -19,6 +19,9 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Any plans to make Liquid Biofuel a viable automated means of Power Generation?](../../../transcriptions/yt-s52yTvp9nbM.md) [https://www.youtube.com/watch?v=s52yTvp9nbM](https://www.youtube.com/watch?v=s52yTvp9nbM)
 
+## December 17th, 2020 Q&A
+* [Q&A: Are farms going to be a thing?](../../../transcriptions/yt--JXPsTlJIiI,844.2767666666667,875.7081666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=844&end=876](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=844&end=876)
+
 ## November 10th, 2020 Livestream
 * [Q&A: Will we be able to breed the Doggos?](../../../transcriptions/yt-fdoiF6pPF1M.md) [https://www.youtube.com/watch?v=fdoiF6pPF1M](https://www.youtube.com/watch?v=fdoiF6pPF1M)
 

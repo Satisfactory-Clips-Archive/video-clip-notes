@@ -151,6 +151,16 @@ date: Last Modified
 * [Q&A: What kind of oven does Jace have?](../../transcriptions/yt-47XUYwkEE-0.md) [https://www.youtube.com/watch?v=47XUYwkEE-0](https://www.youtube.com/watch?v=47XUYwkEE-0)
 * [Q&A: When will Coffee Stain get Jace a pizza oven?](../../transcriptions/yt-LRsn8Qz3fms.md) [https://www.youtube.com/watch?v=LRsn8Qz3fms](https://www.youtube.com/watch?v=LRsn8Qz3fms)
 
+## December 17th, 2020 Q&A
+* Q&A: Are you a woman trapped in a man's body? [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=728&end=736](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=728&end=736)
+* [Q&A: Do you enjoying working from home or are you looking forward to getting back in the office?](../../transcriptions/yt--JXPsTlJIiI,1036.5688666666667,1076.5421333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1036&end=1077](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1036&end=1077)
+* [Q&A: Do you miss Australia](../../transcriptions/yt--JXPsTlJIiI,1005.5712333333333,1026.3920333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1005&end=1027](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1005&end=1027)
+* Q&A: How are you? [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=201&end=204](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=201&end=204)
+* [Q&A: How do you have your coffee and/or tea?](../../transcriptions/yt--JXPsTlJIiI,1078.9779,1094.8270666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1078&end=1095](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1078&end=1095)
+* [Q&A: How proud are you of the code you wrote and systems you helped make in Satisfactory?](../../transcriptions/yt--JXPsTlJIiI,379.5124666666667,450.7169333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=379&end=451](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=379&end=451)
+* [Q&A: If you were a Satisfactory building, what building would you be?](../../transcriptions/yt--JXPsTlJIiI,764.764,791.4573333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=764&end=792](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=764&end=792)
+* [Q&A: What does a day in the life of a community manager Jace look like?](../../transcriptions/yt--JXPsTlJIiI,450.7169333333333,464.29716666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=450&end=465](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=450&end=465)
+
 ## December 15th, 2020 Livestream
 * [Snutt Talk: Jace is a dedicated boi](../../transcriptions/yt-Lx8cCt-jNJQ.md) [https://www.youtube.com/watch?v=Lx8cCt-jNJQ](https://www.youtube.com/watch?v=Lx8cCt-jNJQ)
 

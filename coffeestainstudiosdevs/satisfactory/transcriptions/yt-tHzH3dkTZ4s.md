@@ -10,8 +10,9 @@ topics:
 ## Q&A: Will there be ways to see your total production per minute?
 https://www.youtube.com/watch?v=tHzH3dkTZ4s
 <details>
-<summary>This question may have been asked previously at least 5 other times, as recently as November 2020 and as early as December 2019.</summary>
+<summary>This question may have been asked previously at least 6 other times, as recently as December 2020 and as early as December 2019.</summary>
 
+* [December 17th, 2020 Q&A: Why don't my computer screens in my hub show me power consumption or total production?](./yt--JXPsTlJIiI,808.0739333333333,844.2767666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845)
 * [November 17th, 2020 Livestream Q&A: Any chance to use the HUB Computer to display the statistics and production of the factory?](./yt-5rVqTHOiwh0.md) [https://www.youtube.com/watch?v=5rVqTHOiwh0](https://www.youtube.com/watch?v=5rVqTHOiwh0)
 * [November 17th, 2020 Livestream Q&A: What's the reason for not having good in-production overview?](./yt-66gt7CjmdXs.md) [https://www.youtube.com/watch?v=66gt7CjmdXs](https://www.youtube.com/watch?v=66gt7CjmdXs)
 * [September 29th, 2020 Livestream Q&A: Control Console with a simple representation of the Remote Plants?](./yt-hVDlrmNvsIY.md) [https://www.youtube.com/watch?v=hVDlrmNvsIY](https://www.youtube.com/watch?v=hVDlrmNvsIY)

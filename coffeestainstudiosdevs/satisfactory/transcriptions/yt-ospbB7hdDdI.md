@@ -9,6 +9,8 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will FICS⁕MAS Buildings and items still be in the World after the event is over?
 https://www.youtube.com/watch?v=ospbB7hdDdI
+This question was possibly duplicated with a more recent answer: [December 17th, 2020 Q&A: Will we keep our FICS⁕MAS stuff after the event ends?](./yt--JXPsTlJIiI,325.4251,379.5124666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=325&end=380](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=325&end=380)
+
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

@@ -9,12 +9,13 @@ topics:
 ## Q&A: Signs?
 https://www.youtube.com/watch?v=B6BEy7mals4
 <details>
-<summary>This question may have been asked previously at least 9 other times, as recently as March 2021 and as early as June 2020.</summary>
+<summary>This question may have been asked previously at least 10 other times, as recently as March 2021 and as early as June 2020.</summary>
 
 * [March 23rd, 2021 Livestream Q&A: Signs when?](./yt-F3BYeHIbZzU.md) [https://www.youtube.com/watch?v=F3BYeHIbZzU](https://www.youtube.com/watch?v=F3BYeHIbZzU)
 * [March 2nd, 2021 Livestream Q&A: Will there be signs in Update 4?](./yt-8BmHQuMW_L8.md) [https://www.youtube.com/watch?v=8BmHQuMW_L8](https://www.youtube.com/watch?v=8BmHQuMW_L8)
 * [February 16th, 2021 Livestream Q&A: Will there be signs in future updates?](./yt--t832FeMogU.md) [https://www.youtube.com/watch?v=-t832FeMogU](https://www.youtube.com/watch?v=-t832FeMogU)
 * [January 26th, 2021 Livestream Q&A: Are we getting signs any time soon?](./yt-RAYufEKcGLk.md) [https://www.youtube.com/watch?v=RAYufEKcGLk](https://www.youtube.com/watch?v=RAYufEKcGLk)
+* [December 17th, 2020 Q&A: Will we get signs any time soon?](./yt--JXPsTlJIiI,192.3922,201.23436666666666.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=192&end=202](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=192&end=202)
 * [November 3rd, 2020 Livestream Q&A: When do Signs come?](./yt-5PwIEaLRDRY.md) [https://www.youtube.com/watch?v=5PwIEaLRDRY](https://www.youtube.com/watch?v=5PwIEaLRDRY)
 * [September 29th, 2020 Livestream Q&A: Can we get Signs in the game?](./yt-P1hgqMJ8MW0.md) [https://www.youtube.com/watch?v=P1hgqMJ8MW0](https://www.youtube.com/watch?v=P1hgqMJ8MW0)
 * [August 25th, 2020 Livestream Q&A: Signs for Hypertube Entrances?](./yt-y3w-vPtVjog.md) [https://www.youtube.com/watch?v=y3w-vPtVjog](https://www.youtube.com/watch?v=y3w-vPtVjog)

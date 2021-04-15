@@ -29,6 +29,9 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [Q&A: Any new information regarding Signal system for Trains?](../../../../transcriptions/yt-Bu2TPRFV_2o.md) [https://www.youtube.com/watch?v=Bu2TPRFV_2o](https://www.youtube.com/watch?v=Bu2TPRFV_2o)
 
+## December 17th, 2020 Q&A
+* [Q&A: Will Trains be getting any updates? Signals? Collision?](../../../../transcriptions/yt--JXPsTlJIiI,229.86296666666667,254.92133333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=229&end=255](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=229&end=255)
+
 ## December 8th, 2020 Livestream
 * [Q&A: Any news on Train Signals?](../../../../transcriptions/yt-V-OVvjoUAmg.md) [https://www.youtube.com/watch?v=V-OVvjoUAmg](https://www.youtube.com/watch?v=V-OVvjoUAmg)
 

@@ -24,6 +24,9 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [Q&A: Possibility of placing more than one foundation at once?](../../../transcriptions/yt-TdmIe3EM_B8.md) [https://www.youtube.com/watch?v=TdmIe3EM_B8](https://www.youtube.com/watch?v=TdmIe3EM_B8)
 
+## December 17th, 2020 Q&A
+* [Q&A: Are there plans for mass building foundation and walls?](../../../transcriptions/yt--JXPsTlJIiI,706.3389666666667,728.4610666666666.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=706&end=729](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=706&end=729)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Do you plan on adding mass foundation placement?](../../../transcriptions/yt-8Pm6KLejrOQ.md) [https://www.youtube.com/watch?v=8Pm6KLejrOQ](https://www.youtube.com/watch?v=8Pm6KLejrOQ)
 

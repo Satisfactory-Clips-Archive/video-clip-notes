@@ -145,6 +145,9 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [Q&A: Is Snutt rocking two watches?](../../transcriptions/yt-MwKAp32wO_A.md) [https://www.youtube.com/watch?v=MwKAp32wO_A](https://www.youtube.com/watch?v=MwKAp32wO_A)
 
+## December 17th, 2020 Q&A
+* [Q&A: If you were a Satisfactory building, what building would you be?](../../transcriptions/yt--JXPsTlJIiI,764.764,791.4573333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=764&end=792](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=764&end=792)
+
 ## December 15th, 2020 Livestream
 * [Snutt Talk: Guitars](../../transcriptions/yt-U-4gFkYIESU.md) [https://www.youtube.com/watch?v=U-4gFkYIESU](https://www.youtube.com/watch?v=U-4gFkYIESU)
 * [Q&A: What's the best nickname someone has ever given you?](../../transcriptions/yt-_4_umuhMFK8.md) [https://www.youtube.com/watch?v=_4_umuhMFK8](https://www.youtube.com/watch?v=_4_umuhMFK8)

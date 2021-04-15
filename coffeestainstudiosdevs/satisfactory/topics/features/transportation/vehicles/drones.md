@@ -40,6 +40,9 @@ date: Last Modified
 * [Q&A: Were you serious about the drones in the last YouTube video?](../../../../transcriptions/yt-bbAGxhCSN8c.md) [https://www.youtube.com/watch?v=bbAGxhCSN8c](https://www.youtube.com/watch?v=bbAGxhCSN8c)
 * [Q&A: Will you add drones to Satisfactory?](../../../../transcriptions/yt-pdppJAPp4yA.md) [https://www.youtube.com/watch?v=pdppJAPp4yA](https://www.youtube.com/watch?v=pdppJAPp4yA)
 
+## December 17th, 2020 Q&A
+* [Q&A: Any thoughts on adding drones to the game?](../../../../transcriptions/yt--JXPsTlJIiI,979.7454333333334,1005.5712333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=979&end=1006](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=979&end=1006)
+
 ## November 17th, 2020 Livestream
 * [Trolling: Flying Vehicles in Update 4](../../../../transcriptions/yt-E666WdfoeP0.md) [https://www.youtube.com/watch?v=E666WdfoeP0](https://www.youtube.com/watch?v=E666WdfoeP0)
 

@@ -60,6 +60,9 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [Q&A: Possibility of placing more than one foundation at once?](../../../transcriptions/yt-TdmIe3EM_B8.md) [https://www.youtube.com/watch?v=TdmIe3EM_B8](https://www.youtube.com/watch?v=TdmIe3EM_B8)
 
+## December 17th, 2020 Q&A
+* [Q&A: Are there going to be more types of foundation shapes?](../../../transcriptions/yt--JXPsTlJIiI,203.1029,229.86296666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=203&end=230](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=203&end=230)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Can you add Road Foundations?](../../../transcriptions/yt-ay4pgtU2Q8g.md) [https://www.youtube.com/watch?v=ay4pgtU2Q8g](https://www.youtube.com/watch?v=ay4pgtU2Q8g)
 * [Q&A: Can you imagine bringing something decoration foundations to factories?](../../../transcriptions/yt-wuimxgd7c_A.md) [https://www.youtube.com/watch?v=wuimxgd7c_A](https://www.youtube.com/watch?v=wuimxgd7c_A)

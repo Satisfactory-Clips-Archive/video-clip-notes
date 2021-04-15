@@ -9,9 +9,10 @@ topics:
 ## Q&A: Do you have any Holiday Theme plans in the future?
 https://www.youtube.com/watch?v=EIGGdc4b7vc
 <details>
-<summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as December 2020.</summary>
+<summary>This question may have been asked previously at least 3 other times, as recently as January 2021 and as early as December 2020.</summary>
 
 * [January 19th, 2021 Livestream Q&A: Is there a goal amount of Events per year?](./yt-2koHO0P289M.md) [https://www.youtube.com/watch?v=2koHO0P289M](https://www.youtube.com/watch?v=2koHO0P289M)
+* [December 17th, 2020 Q&A: Will FICS⁕MAS and seasonal events in general be a regular thing?](./yt--JXPsTlJIiI,148.11463333333333,192.3922.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193)
 * [December 15th, 2020 Livestream Q&A: Will there be more Seasonal Events?](./yt-TNrm3qsWdxQ.md) [https://www.youtube.com/watch?v=TNrm3qsWdxQ](https://www.youtube.com/watch?v=TNrm3qsWdxQ)
 </details>
 

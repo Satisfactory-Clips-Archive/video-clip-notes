@@ -20,6 +20,9 @@ date: Last Modified
 ## January 26th, 2021 Livestream
 * [Q&A: Can we expect aircraft any time?](../../../transcriptions/yt-XMIUlTU9xcU.md) [https://www.youtube.com/watch?v=XMIUlTU9xcU](https://www.youtube.com/watch?v=XMIUlTU9xcU)
 
+## December 17th, 2020 Q&A
+* [Q&A: Are there any other plans for vehicles? Amphibious, air?](../../../transcriptions/yt--JXPsTlJIiI,615.0477666666667,664.8642.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=615&end=665](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=615&end=665)
+
 ## November 10th, 2020 Livestream
 * [Q&A: Any plans for a helicopter so we don't have to turn into spaghetti to get across the map?](../../../transcriptions/yt-l-k7qpxgpRQ.md) [https://www.youtube.com/watch?v=l-k7qpxgpRQ](https://www.youtube.com/watch?v=l-k7qpxgpRQ)
 

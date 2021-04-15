@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Photo Mode
 
+## December 17th, 2020 Q&A
+* [Q&A: Names in photo mode, when?](../../transcriptions/yt--JXPsTlJIiI,928.7611666666667,979.7454333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=928&end=980](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=928&end=980)
+
 ## November 10th, 2020 Livestream
 * [Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?](../../transcriptions/yt-tv1pCGiRtkM.md) [https://www.youtube.com/watch?v=tv1pCGiRtkM](https://www.youtube.com/watch?v=tv1pCGiRtkM)
 * [Snutt & Jace Talk: Taking screenshots](../../transcriptions/yt-L24vwtoTNIc.md) [https://www.youtube.com/watch?v=L24vwtoTNIc](https://www.youtube.com/watch?v=L24vwtoTNIc)

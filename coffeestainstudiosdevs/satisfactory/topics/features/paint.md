@@ -25,6 +25,9 @@ date: Last Modified
 * [Q&A: My friend has a green colour preset for all walls in the world, is there a way to change this?](../../transcriptions/yt-6DayBMofsHs.md) [https://www.youtube.com/watch?v=6DayBMofsHs](https://www.youtube.com/watch?v=6DayBMofsHs)
 * [Snutt Talk: We're not using a linear colour space](../../transcriptions/yt-jigwsKo5YKY.md) [https://www.youtube.com/watch?v=jigwsKo5YKY](https://www.youtube.com/watch?v=jigwsKo5YKY)
 
+## December 17th, 2020 Q&A
+* [Q&A: Can we paint vehicles?](../../transcriptions/yt--JXPsTlJIiI,527.1933333333334,534.1002333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=527&end=535](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=527&end=535)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Infinite Colours?](../../transcriptions/yt-i1-FmJGxPPg.md) [https://www.youtube.com/watch?v=i1-FmJGxPPg](https://www.youtube.com/watch?v=i1-FmJGxPPg)
 * [Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update?](../../transcriptions/yt-6BahsrvlPJs.md) [https://www.youtube.com/watch?v=6BahsrvlPJs](https://www.youtube.com/watch?v=6BahsrvlPJs)

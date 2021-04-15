@@ -10,6 +10,9 @@ date: Last Modified
 ## February 23rd, 2021 Livestream
 * [Q&A: Any plans for Blueprint mode?](../../../transcriptions/yt-tJSLxVZ-sFg.md) [https://www.youtube.com/watch?v=tJSLxVZ-sFg](https://www.youtube.com/watch?v=tJSLxVZ-sFg)
 
+## December 17th, 2020 Q&A
+* [Q&A: Do you plan to add copy & paste functionality / blueprints?](../../../transcriptions/yt--JXPsTlJIiI,1208.0401666666667,1266.3651.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1208&end=1267](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1208&end=1267)
+
 ## November 17th, 2020 Livestream
 * Q&A: Can we have your opinion on Blueprints? [https://www.youtube.com/watch?v=0HoRmIFZq4Y](https://www.youtube.com/watch?v=0HoRmIFZq4Y)
 

@@ -62,6 +62,9 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [Snutt & Jace Talk: Dedicated Servers](../../../transcriptions/yt-Z3VztvcNSI8.md) [https://www.youtube.com/watch?v=Z3VztvcNSI8](https://www.youtube.com/watch?v=Z3VztvcNSI8)
 
+## December 17th, 2020 Q&A
+* [Q&A: Dedicated Server status report!](../../../transcriptions/yt--JXPsTlJIiI,1151.6505,1208.0401666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1151&end=1209](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1151&end=1209)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Dedicated Server for Windows?](../../../transcriptions/yt-znK3Ne7dLUc.md) [https://www.youtube.com/watch?v=znK3Ne7dLUc](https://www.youtube.com/watch?v=znK3Ne7dLUc)
 * [Q&A: Dedicated Servers?](../../../transcriptions/yt-03Ybo6-_eWA.md) [https://www.youtube.com/watch?v=03Ybo6-_eWA](https://www.youtube.com/watch?v=03Ybo6-_eWA)
