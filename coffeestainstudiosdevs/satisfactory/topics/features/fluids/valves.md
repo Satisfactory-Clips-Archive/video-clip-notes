@@ -16,5 +16,8 @@ date: Last Modified
 ## October 27th, 2020 Livestream
 * [Jace & Snutt Talk: Valves](../../../transcriptions/yt-3GXsZcsWBzc.md) [https://www.youtube.com/watch?v=3GXsZcsWBzc](https://www.youtube.com/watch?v=3GXsZcsWBzc)
 
+## October 27th, 2020 Patch Notes
+* [Snutt Talk: Valves](../../../transcriptions/yt-iahxEfLCFWU,224.15726666666666,245.06148333333334.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=224&end=246](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=224&end=246)
+
 ## July 28th, 2020 Livestream
 * Q&A: Has Pipe Overflow been discussed? [https://clips.twitch.tv/VainArtsyLeopardUncleNox](https://clips.twitch.tv/VainArtsyLeopardUncleNox)

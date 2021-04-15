@@ -17,6 +17,9 @@ date: Last Modified
 * Snutt Talk: Pump Headlift Indicator [https://www.youtube.com/watch?v=eKAWhpZySP4](https://www.youtube.com/watch?v=eKAWhpZySP4)
 * [Q&A: What material are they going to use for the new Pipes & Pumps?](../../../transcriptions/yt-2BJzwTVi_Ww.md) [https://www.youtube.com/watch?v=2BJzwTVi_Ww](https://www.youtube.com/watch?v=2BJzwTVi_Ww)
 
+## October 27th, 2020 Patch Notes
+* [Snutt Talk: Pump Mk.2](../../../transcriptions/yt-iahxEfLCFWU,186.2861,224.15726666666666.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=186&end=225](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=186&end=225)
+
 ## September 29th, 2020 Livestream
 * [Q&A: Add a Tape Measure or something to gauge distance between two objects?](../../../transcriptions/yt--hFvijwVlSQ.md) [https://www.youtube.com/watch?v=-hFvijwVlSQ](https://www.youtube.com/watch?v=-hFvijwVlSQ)
 

@@ -19,6 +19,9 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * [Q&A: Will the drag technology of Ladders be used elsewhere?](../../../transcriptions/yt-g8ljtppxPL4.md) [https://www.youtube.com/watch?v=g8ljtppxPL4](https://www.youtube.com/watch?v=g8ljtppxPL4)
 
+## October 27th, 2020 Patch Notes
+* [Snutt Talk: Ladders](../../../transcriptions/yt-iahxEfLCFWU,298.3981,309.309.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=298&end=310](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=298&end=310)
+
 ## October 20th, 2020 Livestream
 * [Q&A: Any plans on adding Ladders?](../../../transcriptions/yt-Grn5Pthp7uM.md) [https://www.youtube.com/watch?v=Grn5Pthp7uM](https://www.youtube.com/watch?v=Grn5Pthp7uM)
 

@@ -23,6 +23,9 @@ date: Last Modified
 * [Q&A: Does the Packager also do unpacking?](../../../transcriptions/yt-s1ibMeMeBT8.md) [https://www.youtube.com/watch?v=s1ibMeMeBT8](https://www.youtube.com/watch?v=s1ibMeMeBT8)
 * [Q&A: What was the Mystery Machine?](../../../transcriptions/yt-dh0tcSlSjNE.md) [https://www.youtube.com/watch?v=dh0tcSlSjNE](https://www.youtube.com/watch?v=dh0tcSlSjNE)
 
+## October 27th, 2020 Patch Notes
+* [Snutt Talk: Packager](../../../transcriptions/yt-iahxEfLCFWU,101.66823333333333,162.12863333333334.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=101&end=163](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=101&end=163)
+
 ## October 20th, 2020 Livestream
 * [Q&A: I'd take 30mw for the Packager if I could take 3x speed than the Refineries?](../../../transcriptions/yt-cYJQS0bzr1o.md) [https://www.youtube.com/watch?v=cYJQS0bzr1o](https://www.youtube.com/watch?v=cYJQS0bzr1o)
 * [Q&A: Will the Packing machine cost the same amount of power as the Refinery?](../../../transcriptions/yt-jhq2XmKDz9M.md) [https://www.youtube.com/watch?v=jhq2XmKDz9M](https://www.youtube.com/watch?v=jhq2XmKDz9M)

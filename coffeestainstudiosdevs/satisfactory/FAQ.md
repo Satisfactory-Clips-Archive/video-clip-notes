@@ -2804,7 +2804,7 @@ date: Last Modified
 * [February 6th, 2019 Livestream Q&A: Any DLCs planned?](./transcriptions/yt-Dtm6xIj-wM4,1429.8333333333333,1437.887831.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1429&end=1438](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1429&end=1438)
 </details>
 
-## [October 27th, 2020 Livestream](./2020-10-27.md)
+## [October 27th, 2020 Patch Notes](./2020-10-27.md)
 ### [Q&A: Is ADA computer generated or a voice actress?](./transcriptions/yt-lSeLNlkKo1w.md) [https://www.youtube.com/watch?v=lSeLNlkKo1w](https://www.youtube.com/watch?v=lSeLNlkKo1w)
 
 <details>
@@ -3151,7 +3151,7 @@ date: Last Modified
 * [February 6th, 2019 Livestream Q&A: Available on Steam in future?](./transcriptions/yt-Dtm6xIj-wM4,3280.698724,3286.654122.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287)
 </details>
 
-## [December 19th, 2019 Video](./2019-12-19.md)
+## [December 19th, 2019 Livestream](./2019-12-19.md)
 ### [Q&A: Will price go up after Early Access ends?](./transcriptions/yt-TFg_ppmX8OE.md) [https://www.youtube.com/watch?v=TFg_ppmX8OE](https://www.youtube.com/watch?v=TFg_ppmX8OE)
 
 <details>

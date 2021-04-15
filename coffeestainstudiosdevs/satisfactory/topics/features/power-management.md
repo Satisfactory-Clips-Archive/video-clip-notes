@@ -91,6 +91,9 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * [Q&A: Do the Wall Power Connectors tell how many connections are connected to them?](../../transcriptions/yt-l03CiyYAX-k.md) [https://www.youtube.com/watch?v=l03CiyYAX-k](https://www.youtube.com/watch?v=l03CiyYAX-k)
 
+## October 27th, 2020 Patch Notes
+* [Snutt Talk: Wall & Ceiling-mounted Power Connections](../../transcriptions/yt-iahxEfLCFWU,283.90028333333333,298.3981.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=283&end=299](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=283&end=299)
+
 ## October 20th, 2020 Livestream
 * [Q&A: Can we train Lizard Doggos to feed Biomass into Generators?](../../transcriptions/yt-CfUusHOKqcY.md) [https://www.youtube.com/watch?v=CfUusHOKqcY](https://www.youtube.com/watch?v=CfUusHOKqcY)
 * [Q&A: Ceiling Power Mounts?](../../transcriptions/yt-Zm5JwUYCe8M.md) [https://www.youtube.com/watch?v=Zm5JwUYCe8M](https://www.youtube.com/watch?v=Zm5JwUYCe8M)

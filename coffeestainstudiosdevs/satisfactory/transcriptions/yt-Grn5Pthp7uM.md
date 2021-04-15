@@ -8,6 +8,8 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Any plans on adding Ladders?
 https://www.youtube.com/watch?v=Grn5Pthp7uM
+This question was possibly replaced with a more recent answer: [October 27th, 2020 Patch Notes Snutt Talk: Ladders](./yt-iahxEfLCFWU,298.3981,309.309.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=298&end=310](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=298&end=310)
+
 
 ### Topics
 * [Features > Buildables > Ladders](../topics/features/buildables/ladders.md)

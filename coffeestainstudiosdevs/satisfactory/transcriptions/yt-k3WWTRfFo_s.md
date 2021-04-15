@@ -9,6 +9,8 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do we get better Jump Pads in the Update?
 https://www.youtube.com/watch?v=k3WWTRfFo_s
+This question was possibly replaced with a more recent answer: [October 27th, 2020 Patch Notes Snutt Talk: Jump Pads](./yt-iahxEfLCFWU,245.06148333333334,283.897086.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=245&end=284](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=245&end=284)
+
 
 ### Topics
 * [Features > Buildables > Jump Pads](../topics/features/buildables/jump-pads.md)

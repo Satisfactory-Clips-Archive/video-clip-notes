@@ -55,6 +55,9 @@ date: Last Modified
 * [Q&A: What are the technical reasons (behind 600upm limit on pipes)?](../../../transcriptions/yt-UGymBt3-jxU.md) [https://www.youtube.com/watch?v=UGymBt3-jxU](https://www.youtube.com/watch?v=UGymBt3-jxU)
 * [Q&A: What material are they going to use for the new Pipes & Pumps?](../../../transcriptions/yt-2BJzwTVi_Ww.md) [https://www.youtube.com/watch?v=2BJzwTVi_Ww](https://www.youtube.com/watch?v=2BJzwTVi_Ww)
 
+## October 27th, 2020 Patch Notes
+* [Snutt Talk: Pipes Mk.2](../../../transcriptions/yt-iahxEfLCFWU,162.12863333333334,186.2861.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=162&end=187](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=162&end=187)
+
 ## October 20th, 2020 Livestream
 * [Q&A: Will the Pipeline Junction be stackable?](../../../transcriptions/yt-qzAbkRHSojU.md) [https://www.youtube.com/watch?v=qzAbkRHSojU](https://www.youtube.com/watch?v=qzAbkRHSojU)
 

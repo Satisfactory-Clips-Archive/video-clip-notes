@@ -50,6 +50,7 @@ layout: index
 
 ## October
 * [October 27th](2020-10-27.md)
+* [October 27th](2020-10-27.md)
 * [October 20th](2020-10-20.md)
 * [October 13th](2020-10-13.md)
 * [October 9th](2020-10-09.md)

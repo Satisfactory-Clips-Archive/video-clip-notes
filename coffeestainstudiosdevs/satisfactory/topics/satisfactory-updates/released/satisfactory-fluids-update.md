@@ -67,6 +67,16 @@ date: Last Modified
 * Q&A: Will there be Modular Build introduced in this Update? [https://www.youtube.com/watch?v=jtLq06ZLwEY](https://www.youtube.com/watch?v=jtLq06ZLwEY)
 * [Q&A: Will we see performance improvements?](../../../transcriptions/yt-TbPMkoLwW4U.md) [https://www.youtube.com/watch?v=TbPMkoLwW4U](https://www.youtube.com/watch?v=TbPMkoLwW4U)
 
+## October 27th, 2020 Patch Notes
+* [Snutt Talk: Fluids Update being released on the Experimental Branch](../../../transcriptions/yt-iahxEfLCFWU,17.967950000000002,101.66823333333333.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=17&end=102](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=17&end=102)
+* [Snutt Talk: Jump Pads](../../../transcriptions/yt-iahxEfLCFWU,245.06148333333334,283.897086.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=245&end=284](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=245&end=284)
+* [Snutt Talk: Ladders](../../../transcriptions/yt-iahxEfLCFWU,298.3981,309.309.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=298&end=310](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=298&end=310)
+* [Snutt Talk: Packager](../../../transcriptions/yt-iahxEfLCFWU,101.66823333333333,162.12863333333334.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=101&end=163](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=101&end=163)
+* [Snutt Talk: Pipes Mk.2](../../../transcriptions/yt-iahxEfLCFWU,162.12863333333334,186.2861.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=162&end=187](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=162&end=187)
+* [Snutt Talk: Pump Mk.2](../../../transcriptions/yt-iahxEfLCFWU,186.2861,224.15726666666666.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=186&end=225](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=186&end=225)
+* [Snutt Talk: Valves](../../../transcriptions/yt-iahxEfLCFWU,224.15726666666666,245.06148333333334.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=224&end=246](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=224&end=246)
+* [Snutt Talk: Wall & Ceiling-mounted Power Connections](../../../transcriptions/yt-iahxEfLCFWU,283.90028333333333,298.3981.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=283&end=299](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=283&end=299)
+
 ## October 20th, 2020 Livestream
 * [Q&A: Are the teasers for Update 4?](../../../transcriptions/yt-sHRjG63JNuQ.md) [https://www.youtube.com/watch?v=sHRjG63JNuQ](https://www.youtube.com/watch?v=sHRjG63JNuQ)
 * [Q&A: Ceiling Power Mounts?](../../../transcriptions/yt-Zm5JwUYCe8M.md) [https://www.youtube.com/watch?v=Zm5JwUYCe8M](https://www.youtube.com/watch?v=Zm5JwUYCe8M)

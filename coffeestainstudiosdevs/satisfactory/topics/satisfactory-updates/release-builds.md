@@ -111,6 +111,9 @@ date: Last Modified
 * [Q&A: What's the difference between Experimental and the other version?](../../transcriptions/yt-T6zmq2rGoHU.md) [https://www.youtube.com/watch?v=T6zmq2rGoHU](https://www.youtube.com/watch?v=T6zmq2rGoHU)
 * [Q&A: What's the Modular Build?](../../transcriptions/yt-vKIeFeGPXJQ.md) [https://www.youtube.com/watch?v=vKIeFeGPXJQ](https://www.youtube.com/watch?v=vKIeFeGPXJQ)
 
+## October 27th, 2020 Patch Notes
+* [Snutt Talk: Fluids Update being released on the Experimental Branch](../../transcriptions/yt-iahxEfLCFWU,17.967950000000002,101.66823333333333.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=17&end=102](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=17&end=102)
+
 ## October 6th, 2020 Livestream
 * Q&A: Is Experimental only on Epic? [https://www.youtube.com/watch?v=6G16NmLIwEk](https://www.youtube.com/watch?v=6G16NmLIwEk)
 

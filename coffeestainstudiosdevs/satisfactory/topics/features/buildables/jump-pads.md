@@ -13,6 +13,9 @@ date: Last Modified
 ## November 10th, 2020 Livestream
 * [Q&A: Do we get better Jump Pads in the Update?](../../../transcriptions/yt-k3WWTRfFo_s.md) [https://www.youtube.com/watch?v=k3WWTRfFo_s](https://www.youtube.com/watch?v=k3WWTRfFo_s)
 
+## October 27th, 2020 Patch Notes
+* [Snutt Talk: Jump Pads](../../../transcriptions/yt-iahxEfLCFWU,245.06148333333334,283.897086.md) [https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=245&end=284](https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=245&end=284)
+
 ## October 20th, 2020 Livestream
 * [Q&A: Can you change the angle of the new jump pad after you build it?](../../../transcriptions/yt-UJJgwCUqVWs.md) [https://www.youtube.com/watch?v=UJJgwCUqVWs](https://www.youtube.com/watch?v=UJJgwCUqVWs)
 * [Jace & Snutt Talk: Jump Pad Teaser (part 1)](../../../transcriptions/yt-w-f3V9PdqxI.md) [https://www.youtube.com/watch?v=w-f3V9PdqxI](https://www.youtube.com/watch?v=w-f3V9PdqxI)
