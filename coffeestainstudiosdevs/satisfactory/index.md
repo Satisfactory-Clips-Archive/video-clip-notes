@@ -81,6 +81,7 @@ layout: index
 
 ## April
 * [April 30th](2020-04-30.md)
+* [April 10th](2020-04-10.md)
 * [April 2nd](2020-04-02.md)
 
 ## March

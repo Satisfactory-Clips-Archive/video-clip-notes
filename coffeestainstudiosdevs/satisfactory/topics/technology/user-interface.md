@@ -171,6 +171,9 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Snutt, Jace, & Mark Talk: Muting ADA](../../transcriptions/yt-H3eApDUK_Xs.md) [https://www.youtube.com/watch?v=H3eApDUK_Xs](https://www.youtube.com/watch?v=H3eApDUK_Xs)
 
+## April 10th, 2020 Video
+* [Jace Talk: Multiple hotbars](../../transcriptions/yt-CG-63B4g11U,37.333333333333336,94.737738.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=37&end=95](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=37&end=95)
+
 ## March 24th, 2020 Livestream
 * [Q&A: Can we turn off ADA notifications?](../../transcriptions/yt-w2S15UcuaUs.md) [https://www.youtube.com/watch?v=w2S15UcuaUs](https://www.youtube.com/watch?v=w2S15UcuaUs)
 * [Q&A: Third-person Camera option?](../../transcriptions/yt-hWRM_bQHXzc.md) [https://www.youtube.com/watch?v=hWRM_bQHXzc](https://www.youtube.com/watch?v=hWRM_bQHXzc)

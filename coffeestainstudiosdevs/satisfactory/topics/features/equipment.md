@@ -77,6 +77,9 @@ date: Last Modified
 ## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: VFX for Nobelisk explosion](../../transcriptions/yt-mci92Mhr7MM,235.96906666666666,425.240567.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426)
 
+## April 10th, 2020 Video
+* [Torsten & Jace Talk: FICSIT Equipment polish](../../transcriptions/yt-CG-63B4g11U,611.642462,724.268522.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=611&end=725](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=611&end=725)
+
 ## January 22nd, 2020 Livestream
 * [Q&A: Will Gas Masks be working when you sit in vehicles?](../../transcriptions/yt-qcOfYoEbhVI.md) [https://www.youtube.com/watch?v=qcOfYoEbhVI](https://www.youtube.com/watch?v=qcOfYoEbhVI)
 

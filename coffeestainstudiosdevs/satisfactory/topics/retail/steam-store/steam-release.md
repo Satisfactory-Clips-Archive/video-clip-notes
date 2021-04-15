@@ -33,6 +33,9 @@ date: Last Modified
 * [Snutt & Gafgar Talk: What we had to do in order to support Multiplayer on Steam](../../../transcriptions/yt-tzQZ1akwzzM.md) [https://www.youtube.com/watch?v=tzQZ1akwzzM](https://www.youtube.com/watch?v=tzQZ1akwzzM)
 * [Q&A: Will crossplay launch with the Steam release?](../../../transcriptions/yt-egY71egazyQ.md) [https://www.youtube.com/watch?v=egY71egazyQ](https://www.youtube.com/watch?v=egY71egazyQ)
 
+## April 10th, 2020 Video
+* [Q&A: Will the Train Station redesign be in the Steam Release?](../../../transcriptions/yt-CG-63B4g11U,391.581169,426.157201.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=391&end=427](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=391&end=427)
+
 ## April 2nd, 2020 Q&A
 * [Q&A: Can I transfer my Epic version to Steam?](../../../transcriptions/yt-BmKMv6SZJ5M,187.22,206.74.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207)
 * [Q&A: Do Epic save files work on Steam?](../../../transcriptions/yt-BmKMv6SZJ5M,168.98,187.22.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=168&end=188](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=168&end=188)
