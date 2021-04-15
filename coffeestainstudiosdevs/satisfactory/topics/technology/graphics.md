@@ -53,6 +53,11 @@ date: Last Modified
 * [Q&A: Look's like the game is performing better - what went wrong?](../../transcriptions/yt-x7dc9P7vEGQ.md) [https://www.youtube.com/watch?v=x7dc9P7vEGQ](https://www.youtube.com/watch?v=x7dc9P7vEGQ)
 * [Snutt & Jace Talk: Water VFX](../../transcriptions/yt-rALTAvblpEM.md) [https://www.youtube.com/watch?v=rALTAvblpEM](https://www.youtube.com/watch?v=rALTAvblpEM)
 
+## November 27th, 2020 Video
+* [Jace Talk: Improvements to Glass Shaders](../../transcriptions/yt-0kmDHBWf640,584.3170666666667,607.2066.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=584&end=608](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=584&end=608)
+* [Jace Talk: Screen Space Global Illumination](../../transcriptions/yt-0kmDHBWf640,607.2066,644.796035.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=607&end=645](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=607&end=645)
+* [Jace Talk: Sky and Atmosphere System](../../transcriptions/yt-0kmDHBWf640,644.796035,691.9245666666667.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=644&end=692](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=644&end=692)
+
 ## November 24th, 2020 Livestream
 * [Q&A: Better UI scaling?](../../transcriptions/yt-Z7KYm1EEVsc.md) [https://www.youtube.com/watch?v=Z7KYm1EEVsc](https://www.youtube.com/watch?v=Z7KYm1EEVsc)
 * [Q&A: Does the Engine update include the waterfall graphics update?](../../transcriptions/yt-M9j9Bys_r_U.md) [https://www.youtube.com/watch?v=M9j9Bys_r_U](https://www.youtube.com/watch?v=M9j9Bys_r_U)

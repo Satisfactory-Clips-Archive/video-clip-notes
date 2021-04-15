@@ -96,6 +96,18 @@ date: Last Modified
 * [Snutt Talk: Lights (not) confirmed!](../../transcriptions/yt-9VodwDOMBl0.md) [https://www.youtube.com/watch?v=9VodwDOMBl0](https://www.youtube.com/watch?v=9VodwDOMBl0)
 * Q&A: When is the Engine Upgrade planned now? [https://www.youtube.com/watch?v=kg4OkSCHFNs](https://www.youtube.com/watch?v=kg4OkSCHFNs)
 
+## November 27th, 2020 Video
+* [Q&A: Does this mean we will lose the color palette / preset functionality?](../../transcriptions/yt-0kmDHBWf640,551.0838666666667,584.3170666666667.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=551&end=585](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=551&end=585)
+* [Jace Talk: Improved I/O Speeds](../../transcriptions/yt-0kmDHBWf640,269.13553333333334,296.0958.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=269&end=297](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=269&end=297)
+* [Jace Talk: Improvements to Glass Shaders](../../transcriptions/yt-0kmDHBWf640,584.3170666666667,607.2066.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=584&end=608](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=584&end=608)
+* [Jace Talk: Packet Reordering](../../transcriptions/yt-0kmDHBWf640,217.75086666666667,269.13553333333334.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=217&end=270](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=217&end=270)
+* [Jace Talk: Per-instance Custom Data](../../transcriptions/yt-0kmDHBWf640,364.09706666666665,551.0838666666667.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=364&end=552](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=364&end=552)
+* [Jace Talk: Screen Space Global Illumination](../../transcriptions/yt-0kmDHBWf640,607.2066,644.796035.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=607&end=645](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=607&end=645)
+* [Jace Talk: Sky and Atmosphere System](../../transcriptions/yt-0kmDHBWf640,644.796035,691.9245666666667.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=644&end=692](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=644&end=692)
+* [Jace Talk: UProperty refactored to be FProperty](../../transcriptions/yt-0kmDHBWf640,296.0958,364.09706666666665.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=296&end=365](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=296&end=365)
+* [Jace Talk: When there's a new feature in an engine doesn't mean you can use it](../../transcriptions/yt-0kmDHBWf640,154.401842,217.75086666666667.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=154&end=218](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=154&end=218)
+* [Q&A: Why do we upgrade the engine?](../../transcriptions/yt-0kmDHBWf640,65.79906666666666,154.401842.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=65&end=155](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=65&end=155)
+
 ## November 24th, 2020 Livestream
 * [Q&A: Does the Engine update include the waterfall graphics update?](../../transcriptions/yt-M9j9Bys_r_U.md) [https://www.youtube.com/watch?v=M9j9Bys_r_U](https://www.youtube.com/watch?v=M9j9Bys_r_U)
 * [Q&A: Multiplayer fix?](../../transcriptions/yt-LX-zsQIkB3g.md) [https://www.youtube.com/watch?v=LX-zsQIkB3g](https://www.youtube.com/watch?v=LX-zsQIkB3g)

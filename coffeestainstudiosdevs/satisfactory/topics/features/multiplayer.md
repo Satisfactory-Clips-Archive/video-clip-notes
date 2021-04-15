@@ -64,6 +64,9 @@ date: Last Modified
 * [Q&A: Is Multiplayer desync fixed in Update 4?](../../transcriptions/yt-OjiLxOBdkU8.md) [https://www.youtube.com/watch?v=OjiLxOBdkU8](https://www.youtube.com/watch?v=OjiLxOBdkU8)
 * [Jace Talk: Multiplayer experience vs. Dedicated Server](../../transcriptions/yt-QcD9eKlgte0.md) [https://www.youtube.com/watch?v=QcD9eKlgte0](https://www.youtube.com/watch?v=QcD9eKlgte0)
 
+## November 27th, 2020 Video
+* [Jace Talk: Packet Reordering](../../transcriptions/yt-0kmDHBWf640,217.75086666666667,269.13553333333334.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=217&end=270](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=217&end=270)
+
 ## November 24th, 2020 Livestream
 * [Q&A: Multiplayer fix?](../../transcriptions/yt-LX-zsQIkB3g.md) [https://www.youtube.com/watch?v=LX-zsQIkB3g](https://www.youtube.com/watch?v=LX-zsQIkB3g)
 * [Q&A: Split-screen for Satisfactory?](../../transcriptions/yt-nA6JASYXPMM.md) [https://www.youtube.com/watch?v=nA6JASYXPMM](https://www.youtube.com/watch?v=nA6JASYXPMM)

@@ -40,6 +40,9 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [Q&A: Update to the save system?](../../transcriptions/yt-LF2QjQpoAqk.md) [https://www.youtube.com/watch?v=LF2QjQpoAqk](https://www.youtube.com/watch?v=LF2QjQpoAqk)
 
+## November 27th, 2020 Video
+* [Jace Talk: Improved I/O Speeds](../../transcriptions/yt-0kmDHBWf640,269.13553333333334,296.0958.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=269&end=297](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=269&end=297)
+
 ## November 17th, 2020 Livestream
 * [Q&A: Is there any Official Mod Support planned?](../../transcriptions/yt-z4Uv-UNMETw.md) [https://www.youtube.com/watch?v=z4Uv-UNMETw](https://www.youtube.com/watch?v=z4Uv-UNMETw)
 

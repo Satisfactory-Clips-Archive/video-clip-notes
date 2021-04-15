@@ -19,6 +19,9 @@ date: Last Modified
 * [Q&A: While Unreal Engine 4 gets upgraded, will the Object Limit get changed?](../../../transcriptions/yt-BE6kB3nmSdM.md) [https://www.youtube.com/watch?v=BE6kB3nmSdM](https://www.youtube.com/watch?v=BE6kB3nmSdM)
 * [Q&A: Will clearing out all the Biomes increase your garbage limit?](../../../transcriptions/yt-XcfIWDujsxA.md) [https://www.youtube.com/watch?v=XcfIWDujsxA](https://www.youtube.com/watch?v=XcfIWDujsxA)
 
+## November 27th, 2020 Video
+* [Jace Talk: UProperty refactored to be FProperty](../../../transcriptions/yt-0kmDHBWf640,296.0958,364.09706666666665.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=296&end=365](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=296&end=365)
+
 ## November 24th, 2020 Livestream
 * [Q&A: Any improvements on build limits?](../../../transcriptions/yt-eReH6Sdroq8.md) [https://www.youtube.com/watch?v=eReH6Sdroq8](https://www.youtube.com/watch?v=eReH6Sdroq8)
 
