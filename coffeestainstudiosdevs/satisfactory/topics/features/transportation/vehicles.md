@@ -108,6 +108,10 @@ date: Last Modified
 * Q&A: Two-seated vehicles (Part 1) [https://clips.twitch.tv/OilySourBeaverAMPEnergy](https://clips.twitch.tv/OilySourBeaverAMPEnergy)
 * Q&A: Two-seated vehicles (Part 2) [https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog](https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog)
 
+## July 23rd, 2020 Video
+* [Jace Art: Packing up the base](../../../transcriptions/yt-JOBcS413hwY,441.40763333333337,489.3221666666667.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=441&end=490](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=441&end=490)
+* [Jace Art: You guys want boats? I'll give you boats.](../../../transcriptions/yt-JOBcS413hwY,60.427033333333334,94.46103333333333.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=60&end=95](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=60&end=95)
+
 ## May 15th, 2020 Q&A
 * [Q&A: Do you plan on introducing more ways of transportation?](../../../transcriptions/yt-NlIVwoRqjVk,849.9491,867.3998666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=849&end=868](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=849&end=868)
 

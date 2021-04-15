@@ -70,6 +70,7 @@ layout: index
 ## July
 * [July 30th](2020-07-30.md)
 * [July 28th](2020-07-28.md)
+* [July 23rd](2020-07-23.md)
 * [July 21st](2020-07-21.md)
 * [July 8th](2020-07-08.md)
 * [July 3rd](2020-07-03.md)

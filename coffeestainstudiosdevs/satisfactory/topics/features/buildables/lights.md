@@ -58,6 +58,9 @@ date: Last Modified
 * [Q&A: State of things = 🤷?](../../../transcriptions/yt-5SH9eySqDzU.md) [https://www.youtube.com/watch?v=5SH9eySqDzU](https://www.youtube.com/watch?v=5SH9eySqDzU)
 * [Q&A: Will light be added to the game?](../../../transcriptions/yt-FuUHMwoNA0s.md) [https://www.youtube.com/watch?v=FuUHMwoNA0s](https://www.youtube.com/watch?v=FuUHMwoNA0s)
 
+## July 23rd, 2020 Video
+* [Jace Art: Lamps, Lights, and Floodlights](../../../transcriptions/yt-JOBcS413hwY,392.5922,441.40763333333337.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=392&end=442](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=392&end=442)
+
 ## May 19th, 2020 Livestream
 * [Q&A: What does Performance Budget mean?](../../../transcriptions/yt-qg27gPorXB4.md) [https://www.youtube.com/watch?v=qg27gPorXB4](https://www.youtube.com/watch?v=qg27gPorXB4)
 * [Q&A: Why can't you just add lights to the game?](../../../transcriptions/yt-IJdIUISe5S4.md) [https://www.youtube.com/watch?v=IJdIUISe5S4](https://www.youtube.com/watch?v=IJdIUISe5S4)

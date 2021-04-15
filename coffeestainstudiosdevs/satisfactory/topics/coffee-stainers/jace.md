@@ -172,6 +172,19 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Q&A: New Apartment? [https://clips.twitch.tv/CorrectAdorableDinosaurWoofer](https://clips.twitch.tv/CorrectAdorableDinosaurWoofer)
 
+## July 23rd, 2020 Video
+* [Jace Talk: #looking-for-group](../../transcriptions/yt-JOBcS413hwY,94.46103333333333,120.3202.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=94&end=121](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=94&end=121)
+* [Jace Art: Coffee Machine](../../transcriptions/yt-JOBcS413hwY,120.3202,194.3942.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=120&end=195](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=120&end=195)
+* [Jace Art: Elevators, Dedicated doggo pen](../../transcriptions/yt-JOBcS413hwY,353.2529,392.5922.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=353&end=393](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=353&end=393)
+* [Jace Art: Jace & Snutt Statues](../../transcriptions/yt-JOBcS413hwY,194.3942,252.71913333333333.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=194&end=253](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=194&end=253)
+* [Jace Talk: JaceArt](../../transcriptions/yt-JOBcS413hwY,27.660966666666667,60.427033333333334.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=27&end=61](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=27&end=61)
+* [Jace Art: Lamps, Lights, and Floodlights](../../transcriptions/yt-JOBcS413hwY,392.5922,441.40763333333337.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=392&end=442](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=392&end=442)
+* [Jace Art: Packing up the base](../../transcriptions/yt-JOBcS413hwY,441.40763333333337,489.3221666666667.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=441&end=490](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=441&end=490)
+* [Jace Art: Programmable Automation Robot](../../transcriptions/yt-JOBcS413hwY,489.3221666666667,533.2660666666667.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=489&end=534](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=489&end=534)
+* [Jace Art: TP in the loo](../../transcriptions/yt-JOBcS413hwY,252.71913333333333,292.02506666666665.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=252&end=293](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=252&end=293)
+* [Jace Art: Usernames in photomode](../../transcriptions/yt-JOBcS413hwY,292.02506666666665,353.2529.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=292&end=354](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=292&end=354)
+* [Jace Art: You guys want boats? I'll give you boats.](../../transcriptions/yt-JOBcS413hwY,60.427033333333334,94.46103333333333.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=60&end=95](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=60&end=95)
+
 ## July 8th, 2020 Mod Highlight
 * [Q&A: What is your favourite Mod?](../../transcriptions/yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
 

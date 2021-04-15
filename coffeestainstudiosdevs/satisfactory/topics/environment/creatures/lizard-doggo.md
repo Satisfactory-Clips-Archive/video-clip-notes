@@ -73,6 +73,9 @@ date: Last Modified
 * Q&A: Doggo Toys? [https://clips.twitch.tv/FlirtyScarySushiYouWHY](https://clips.twitch.tv/FlirtyScarySushiYouWHY)
 * Q&A: Lizard Doggo Plushies [https://clips.twitch.tv/TolerantPunchyNewtJKanStyle](https://clips.twitch.tv/TolerantPunchyNewtJKanStyle)
 
+## July 23rd, 2020 Video
+* [Jace Art: Elevators, Dedicated doggo pen](../../../transcriptions/yt-JOBcS413hwY,353.2529,392.5922.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=353&end=393](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=353&end=393)
+
 ## May 19th, 2020 Livestream
 * [Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing](../../../transcriptions/yt-HU5CtNK3rds.md) [https://www.youtube.com/watch?v=HU5CtNK3rds](https://www.youtube.com/watch?v=HU5CtNK3rds)
 

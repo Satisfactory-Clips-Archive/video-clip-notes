@@ -151,6 +151,9 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers [https://clips.twitch.tv/RealPrettiestKoalaBloodTrail](https://clips.twitch.tv/RealPrettiestKoalaBloodTrail)
 
+## July 23rd, 2020 Video
+* [Jace Talk: #looking-for-group](../../transcriptions/yt-JOBcS413hwY,94.46103333333333,120.3202.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=94&end=121](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=94&end=121)
+
 ## June 8th, 2020 Livestream
 * [Q&A: Please fix Multiplayer bugs?](../../transcriptions/yt-X6OALg4vc7w.md) [https://www.youtube.com/watch?v=X6OALg4vc7w](https://www.youtube.com/watch?v=X6OALg4vc7w)
 

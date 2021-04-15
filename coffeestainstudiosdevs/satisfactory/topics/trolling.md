@@ -110,6 +110,19 @@ date: Last Modified
 * [Trolling: There's going to be Coffee](../transcriptions/yt-r5daZccdDvM.md) [https://www.youtube.com/watch?v=r5daZccdDvM](https://www.youtube.com/watch?v=r5daZccdDvM)
 * [Trolling: This is an honest stream](../transcriptions/yt-L5L3kXz810E.md) [https://www.youtube.com/watch?v=L5L3kXz810E](https://www.youtube.com/watch?v=L5L3kXz810E)
 
+## July 23rd, 2020 Video
+* [Jace Talk: #looking-for-group](../transcriptions/yt-JOBcS413hwY,94.46103333333333,120.3202.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=94&end=121](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=94&end=121)
+* [Jace Art: Coffee Machine](../transcriptions/yt-JOBcS413hwY,120.3202,194.3942.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=120&end=195](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=120&end=195)
+* [Jace Art: Elevators, Dedicated doggo pen](../transcriptions/yt-JOBcS413hwY,353.2529,392.5922.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=353&end=393](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=353&end=393)
+* [Jace Art: Jace & Snutt Statues](../transcriptions/yt-JOBcS413hwY,194.3942,252.71913333333333.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=194&end=253](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=194&end=253)
+* [Jace Talk: JaceArt](../transcriptions/yt-JOBcS413hwY,27.660966666666667,60.427033333333334.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=27&end=61](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=27&end=61)
+* [Jace Art: Lamps, Lights, and Floodlights](../transcriptions/yt-JOBcS413hwY,392.5922,441.40763333333337.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=392&end=442](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=392&end=442)
+* [Jace Art: Packing up the base](../transcriptions/yt-JOBcS413hwY,441.40763333333337,489.3221666666667.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=441&end=490](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=441&end=490)
+* [Jace Art: Programmable Automation Robot](../transcriptions/yt-JOBcS413hwY,489.3221666666667,533.2660666666667.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=489&end=534](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=489&end=534)
+* [Jace Art: TP in the loo](../transcriptions/yt-JOBcS413hwY,252.71913333333333,292.02506666666665.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=252&end=293](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=252&end=293)
+* [Jace Art: Usernames in photomode](../transcriptions/yt-JOBcS413hwY,292.02506666666665,353.2529.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=292&end=354](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=292&end=354)
+* [Jace Art: You guys want boats? I'll give you boats.](../transcriptions/yt-JOBcS413hwY,60.427033333333334,94.46103333333333.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=60&end=95](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=60&end=95)
+
 ## June 8th, 2020 Livestream
 * [Q&A: Will Jace and Snutt still be friends with me if I buy it on Steam?](../transcriptions/yt-Lem_s04UYBA.md) [https://www.youtube.com/watch?v=Lem_s04UYBA](https://www.youtube.com/watch?v=Lem_s04UYBA)
 

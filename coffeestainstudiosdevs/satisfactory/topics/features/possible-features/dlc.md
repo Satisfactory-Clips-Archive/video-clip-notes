@@ -65,6 +65,9 @@ date: Last Modified
 ## August 18th, 2020 Livestream
 * Q&A: Is 1.0 the end of the game or will it be expanded? [https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace](https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace)
 
+## July 23rd, 2020 Video
+* [Jace Art: TP in the loo](../../../transcriptions/yt-JOBcS413hwY,252.71913333333333,292.02506666666665.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=252&end=293](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=252&end=293)
+
 ## June 8th, 2020 Livestream
 * [Q&A: Flushable Toilet?](../../../transcriptions/yt-FlaP38G7O5U.md) [https://www.youtube.com/watch?v=FlaP38G7O5U](https://www.youtube.com/watch?v=FlaP38G7O5U)
 

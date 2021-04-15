@@ -174,6 +174,9 @@ date: Last Modified
 ## August 18th, 2020 Livestream
 * Q&A: Why does Snutt have many guitars? [https://clips.twitch.tv/AverageRenownedAxeWholeWheat](https://clips.twitch.tv/AverageRenownedAxeWholeWheat)
 
+## July 23rd, 2020 Video
+* [Jace Art: Jace & Snutt Statues](../../transcriptions/yt-JOBcS413hwY,194.3942,252.71913333333333.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=194&end=253](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=194&end=253)
+
 ## July 8th, 2020 Mod Highlight
 * [Q&A: What's in the box?](../../transcriptions/yt-1dUNmBBbExs,3395.015298,3450.885972.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3395&end=3451](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3395&end=3451)
 * [Q&A: What is your favourite Mod?](../../transcriptions/yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
