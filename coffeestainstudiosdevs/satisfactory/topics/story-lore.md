@@ -69,6 +69,9 @@ date: Last Modified
 * [Q&A: Is the Engineer human at least?](../transcriptions/yt-z7QqNzK8OMU.md) [https://www.youtube.com/watch?v=z7QqNzK8OMU](https://www.youtube.com/watch?v=z7QqNzK8OMU)
 * [Q&A: Who is Hannah?](../transcriptions/yt-KwsiVfRUKNE.md) [https://www.youtube.com/watch?v=KwsiVfRUKNE](https://www.youtube.com/watch?v=KwsiVfRUKNE)
 
+## November 12th, 2020 Video
+* [Birk Talk: Story](../transcriptions/yt-VYyFA7-yRKc,151.88,170.96.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=151&end=171](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=151&end=171)
+
 ## November 10th, 2020 Livestream
 * [Q&A: Does the Pioneer have any lore or is she just a random worker person?](../transcriptions/yt-0V_fsSPIEHA.md) [https://www.youtube.com/watch?v=0V_fsSPIEHA](https://www.youtube.com/watch?v=0V_fsSPIEHA)
 * [Q&A: Finish like a Credits scene in-game and game end?](../transcriptions/yt-HMrZKuuXUEs.md) [https://www.youtube.com/watch?v=HMrZKuuXUEs](https://www.youtube.com/watch?v=HMrZKuuXUEs)

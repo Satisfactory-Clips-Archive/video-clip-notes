@@ -44,6 +44,7 @@ layout: index
 ## November
 * [November 24th](2020-11-24.md)
 * [November 17th](2020-11-17.md)
+* [November 12th](2020-11-12.md)
 * [November 10th](2020-11-10.md)
 * [November 5th](2020-11-05.md)
 * [November 3rd](2020-11-03.md)

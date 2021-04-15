@@ -102,6 +102,9 @@ date: Last Modified
 * [Snutt & Jace Talk: State of Dev](../../transcriptions/yt-uYPhHTSL6Ys.md) [https://www.youtube.com/watch?v=uYPhHTSL6Ys](https://www.youtube.com/watch?v=uYPhHTSL6Ys)
 * [Q&A: Will the Engine Upgrade affect performance?](../../transcriptions/yt-S0BQ6HAU2vA.md) [https://www.youtube.com/watch?v=S0BQ6HAU2vA](https://www.youtube.com/watch?v=S0BQ6HAU2vA)
 
+## November 12th, 2020 Video
+* [Birk Talk: Engine Upgrade](../../transcriptions/yt-VYyFA7-yRKc,355.282823,425.36.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=355&end=426](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=355&end=426)
+
 ## November 10th, 2020 Livestream
 * [Q&A: Can we theoretically make a Mod that reduces Constructor Object numbers?](../../transcriptions/yt-cynkLEnrC8s.md) [https://www.youtube.com/watch?v=cynkLEnrC8s](https://www.youtube.com/watch?v=cynkLEnrC8s)
 * [Q&A: Is there a debug command to see how many Objects you are using?](../../transcriptions/yt-3Tht0Ap0S8c.md) [https://www.youtube.com/watch?v=3Tht0Ap0S8c](https://www.youtube.com/watch?v=3Tht0Ap0S8c)

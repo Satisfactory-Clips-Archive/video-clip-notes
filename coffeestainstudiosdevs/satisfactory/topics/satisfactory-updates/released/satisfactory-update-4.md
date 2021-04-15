@@ -428,6 +428,10 @@ date: Last Modified
 * [Trolling: Flying Vehicles in Update 4](../../../transcriptions/yt-E666WdfoeP0.md) [https://www.youtube.com/watch?v=E666WdfoeP0](https://www.youtube.com/watch?v=E666WdfoeP0)
 * [Q&A: Update 4 progress?](../../../transcriptions/yt-QK8Bis0LNp0.md) [https://www.youtube.com/watch?v=QK8Bis0LNp0](https://www.youtube.com/watch?v=QK8Bis0LNp0)
 
+## November 12th, 2020 Video
+* [Birk Talk: Core content updates](../../../transcriptions/yt-VYyFA7-yRKc,118,132.32.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=118&end=133](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=118&end=133)
+* [Birk Talk: Update 4](../../../transcriptions/yt-VYyFA7-yRKc,210.48,250.84.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=210&end=251](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=210&end=251)
+
 ## November 10th, 2020 Livestream
 * [Q&A: Any news about Trains? If so put them in Update 4?](../../../transcriptions/yt-eT6uSBu-sVw.md) [https://www.youtube.com/watch?v=eT6uSBu-sVw](https://www.youtube.com/watch?v=eT6uSBu-sVw)
 * [Q&A: Can you summarise the upcoming builds for the next months?](../../../transcriptions/yt-hUYyIETHuJ4.md) [https://www.youtube.com/watch?v=hUYyIETHuJ4](https://www.youtube.com/watch?v=hUYyIETHuJ4)

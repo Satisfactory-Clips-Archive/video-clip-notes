@@ -66,6 +66,9 @@ date: Last Modified
 * [Snutt & Jace Talk: State of Dev](../../../transcriptions/yt-uYPhHTSL6Ys.md) [https://www.youtube.com/watch?v=uYPhHTSL6Ys](https://www.youtube.com/watch?v=uYPhHTSL6Ys)
 * [Q&A: What requires more computing power, Belts or Pipes?](../../../transcriptions/yt-NM_f7DwMhdA.md) [https://www.youtube.com/watch?v=NM_f7DwMhdA](https://www.youtube.com/watch?v=NM_f7DwMhdA)
 
+## November 12th, 2020 Video
+* [Birk Talk: Rework of Conveyor networking](../../../transcriptions/yt-VYyFA7-yRKc,293.044904,355.282823.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=293&end=356](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=293&end=356)
+
 ## November 10th, 2020 Livestream
 * [Q&A: Adding Smart/Programmable Splitters to allow us to dedicate material for each direction?](../../../transcriptions/yt-sUMAyPlkahk.md) [https://www.youtube.com/watch?v=sUMAyPlkahk](https://www.youtube.com/watch?v=sUMAyPlkahk)
 * [Q&A: Are Conveyor Belt Mk. 6 going to be a thing?](../../../transcriptions/yt-WbtzFVFOFMs.md) [https://www.youtube.com/watch?v=WbtzFVFOFMs](https://www.youtube.com/watch?v=WbtzFVFOFMs)

@@ -7,6 +7,9 @@ date: Last Modified
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: Excitement about Signs](../../transcriptions/yt-n0be66gsOAM.md) [https://www.youtube.com/watch?v=n0be66gsOAM](https://www.youtube.com/watch?v=n0be66gsOAM)
 
+## November 12th, 2020 Video
+* [Q&A: Who is Birk?](../../transcriptions/yt-VYyFA7-yRKc,12.72,57.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=12&end=57](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=12&end=57)
+
 ## October 9th, 2020 Livestream
 * [Snutt Talk: The future of Satisfactory?](../../transcriptions/yt-BMIKnDVoS9Q.md) [https://www.youtube.com/watch?v=BMIKnDVoS9Q](https://www.youtube.com/watch?v=BMIKnDVoS9Q)
 

@@ -73,6 +73,9 @@ date: Last Modified
 ## November 17th, 2020 Livestream
 * [Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](../../../transcriptions/yt-ccmgnLh1oO0.md) [https://www.youtube.com/watch?v=ccmgnLh1oO0](https://www.youtube.com/watch?v=ccmgnLh1oO0)
 
+## November 12th, 2020 Video
+* [Birk Talk: Changes in development focus](../../../transcriptions/yt-VYyFA7-yRKc,57,118.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=57&end=118](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=57&end=118)
+
 ## November 10th, 2020 Livestream
 * [Q&A: Finish like a Credits scene in-game and game end?](../../../transcriptions/yt-HMrZKuuXUEs.md) [https://www.youtube.com/watch?v=HMrZKuuXUEs](https://www.youtube.com/watch?v=HMrZKuuXUEs)
 * [Q&A: Thoughts on making end-game point or goal?](../../../transcriptions/yt-hhckg5vm5_w.md) [https://www.youtube.com/watch?v=hhckg5vm5_w](https://www.youtube.com/watch?v=hhckg5vm5_w)

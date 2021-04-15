@@ -24,6 +24,12 @@ date: Last Modified
 * [Q&A: Do you guys have plans for other save-breaking changes in the future?](../transcriptions/yt-mFPSgNO5cIk.md) [https://www.youtube.com/watch?v=mFPSgNO5cIk](https://www.youtube.com/watch?v=mFPSgNO5cIk)
 * Q&A: How big is the Update compared to other Updates? [https://www.youtube.com/watch?v=3spifwbAEDE](https://www.youtube.com/watch?v=3spifwbAEDE)
 
+## November 12th, 2020 Video
+* [Birk Talk: Changes left in 2020](../transcriptions/yt-VYyFA7-yRKc,277.08,427.68.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=277&end=428](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=277&end=428)
+* [Birk Talk: Ongoing content](../transcriptions/yt-VYyFA7-yRKc,132.32,151.88.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=132&end=152](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=132&end=152)
+* [Birk Talk: Technical Content](../transcriptions/yt-VYyFA7-yRKc,170.96,210.48.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=170&end=211](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=170&end=211)
+* [Birk Talk: Updates after Update 4 and before 1.0](../transcriptions/yt-VYyFA7-yRKc,250.84,277.08.md) [https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=250&end=278](https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=250&end=278)
+
 ## August 25th, 2020 Livestream
 * Q&A: Do you want to release updates before you release full game? [https://clips.twitch.tv/EmpathicExuberantWeaselAllenHuhu](https://clips.twitch.tv/EmpathicExuberantWeaselAllenHuhu)
 * Q&A: Why do big updates at all - why not just release everything in small bites? (Part 1) [https://clips.twitch.tv/FrozenLuckyRamenDxCat](https://clips.twitch.tv/FrozenLuckyRamenDxCat)
