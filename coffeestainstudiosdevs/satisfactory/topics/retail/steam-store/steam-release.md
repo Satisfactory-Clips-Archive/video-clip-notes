@@ -18,6 +18,10 @@ date: Last Modified
 * [Q&A: Did the Steam release meet expected goals?](../../../transcriptions/yt-crzPPDeFTcc.md) [https://www.youtube.com/watch?v=crzPPDeFTcc](https://www.youtube.com/watch?v=crzPPDeFTcc)
 * [Snutt Talk: Update 4 Release Window](../../../transcriptions/yt-u1R1x49XwQE.md) [https://www.youtube.com/watch?v=u1R1x49XwQE](https://www.youtube.com/watch?v=u1R1x49XwQE)
 
+## June 12th, 2020 Video
+* Jace Talk: The "Delay" video [https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=68&end=127](https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=68&end=127)
+* Jace Talk: We released the game on Steam [https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=10&end=43](https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=10&end=43)
+
 ## June 8th, 2020 Livestream
 * [Q&A: Any extra content coming with the Steam launch?](../../../transcriptions/yt-mpp9FgRp5Jw.md) [https://www.youtube.com/watch?v=mpp9FgRp5Jw](https://www.youtube.com/watch?v=mpp9FgRp5Jw)
 * [Q&A: How much is it going to cost on Steam?](../../../transcriptions/yt-_UZr4JLSA1c.md) [https://www.youtube.com/watch?v=_UZr4JLSA1c](https://www.youtube.com/watch?v=_UZr4JLSA1c)

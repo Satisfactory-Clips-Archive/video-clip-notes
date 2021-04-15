@@ -128,6 +128,9 @@ date: Last Modified
 ## July 21st, 2020 Livestream
 * Q&A: How's the Merch Store coming along? [https://clips.twitch.tv/OilySillySproutNotLikeThis](https://clips.twitch.tv/OilySillySproutNotLikeThis)
 
+## June 12th, 2020 Video
+* Jace Talk: Merch [https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=126&end=220](https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=126&end=220)
+
 ## March 24th, 2020 Livestream
 * Q&A: Could sell Dev Bath Water? [https://www.youtube.com/watch?v=-Lqo5URgAfM](https://www.youtube.com/watch?v=-Lqo5URgAfM)
 * [Q&A: Merch?](../transcriptions/yt-PIlduefx6Vk.md) [https://www.youtube.com/watch?v=PIlduefx6Vk](https://www.youtube.com/watch?v=PIlduefx6Vk)
