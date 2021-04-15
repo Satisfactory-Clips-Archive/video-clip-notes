@@ -36,6 +36,9 @@ date: Last Modified
 ## September 29th, 2020 Livestream
 * [Q&A: When is Steam access updated?](../../transcriptions/yt-y4vMStiTtT4.md) [https://www.youtube.com/watch?v=y4vMStiTtT4](https://www.youtube.com/watch?v=y4vMStiTtT4)
 
+## July 3rd, 2020 Video
+* [Jace Talk: Sales breakdown, Steam vs. Epic](../../transcriptions/yt-8ZxNtTPmiJU,148.2481,271.6714.md) [https://youtube.com/embed/8ZxNtTPmiJU?autoplay=1&start=148&end=272](https://youtube.com/embed/8ZxNtTPmiJU?autoplay=1&start=148&end=272)
+
 ## June 12th, 2020 Video
 * Jace Talk: Sales figures [https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=42&end=69](https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=42&end=69)
 

@@ -25,6 +25,9 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * [Q&A: Is there a difference in performance between the Epic version and the Steam version?](../../transcriptions/yt-CgGc8VRspUA.md) [https://www.youtube.com/watch?v=CgGc8VRspUA](https://www.youtube.com/watch?v=CgGc8VRspUA)
 
+## July 3rd, 2020 Video
+* [Jace Talk: Sales breakdown, Steam vs. Epic](../../transcriptions/yt-8ZxNtTPmiJU,148.2481,271.6714.md) [https://youtube.com/embed/8ZxNtTPmiJU?autoplay=1&start=148&end=272](https://youtube.com/embed/8ZxNtTPmiJU?autoplay=1&start=148&end=272)
+
 ## June 12th, 2020 Video
 * Jace Talk: Sales figures [https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=42&end=69](https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=42&end=69)
 
