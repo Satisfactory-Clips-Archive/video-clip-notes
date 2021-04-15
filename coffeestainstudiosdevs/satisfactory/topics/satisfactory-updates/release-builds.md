@@ -123,6 +123,10 @@ date: Last Modified
 * [Q&A: Will Epic & Steam get the same Updates?](../../transcriptions/yt-t814f8sansw.md) [https://www.youtube.com/watch?v=t814f8sansw](https://www.youtube.com/watch?v=t814f8sansw)
 * [Q&A: Will I be able to play Experimental branches on Steam?](../../transcriptions/yt-gXCCQ_JBIUg.md) [https://www.youtube.com/watch?v=gXCCQ_JBIUg](https://www.youtube.com/watch?v=gXCCQ_JBIUg)
 
+## May 29th, 2020 Video
+* Jace Talk: Release date for bringing Experimental Branch to Early Access [https://youtube.com/embed/loADR1sAjJ8?autoplay=1&start=18&end=39](https://youtube.com/embed/loADR1sAjJ8?autoplay=1&start=18&end=39)
+* Jace Talk: Why we delay releases [https://youtube.com/embed/loADR1sAjJ8?autoplay=1&start=47&end=424](https://youtube.com/embed/loADR1sAjJ8?autoplay=1&start=47&end=424)
+
 ## March 24th, 2020 Livestream
 * [State of Dev: Update 3, Steam Release](../../transcriptions/yt-Y__cl6AcRzs.md) [https://www.youtube.com/watch?v=Y__cl6AcRzs](https://www.youtube.com/watch?v=Y__cl6AcRzs)
 

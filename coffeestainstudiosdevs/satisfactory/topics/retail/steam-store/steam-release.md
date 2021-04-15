@@ -28,6 +28,9 @@ date: Last Modified
 * [Q&A: Will you use Steam's suggested region pricing?](../../../transcriptions/yt-5kcpbR2ViOg.md) [https://www.youtube.com/watch?v=5kcpbR2ViOg](https://www.youtube.com/watch?v=5kcpbR2ViOg)
 * [Snutt Talk: Working on Update 4 after Steam launch](../../../transcriptions/yt-YpysG6xNbhU.md) [https://www.youtube.com/watch?v=YpysG6xNbhU](https://www.youtube.com/watch?v=YpysG6xNbhU)
 
+## May 29th, 2020 Video
+* Jace Talk: Release date for Steam Release [https://youtube.com/embed/loADR1sAjJ8?autoplay=1&start=38&end=48](https://youtube.com/embed/loADR1sAjJ8?autoplay=1&start=38&end=48)
+
 ## May 22nd, 2020 Video
 * [Snutt Talk: Steam Release possibly delayed](../../../transcriptions/yt-rWYDGGVSw_o,24.458333333333332,114.79166666666667.md) [https://youtube.com/embed/rWYDGGVSw_o?autoplay=1&start=24&end=115](https://youtube.com/embed/rWYDGGVSw_o?autoplay=1&start=24&end=115)
 
