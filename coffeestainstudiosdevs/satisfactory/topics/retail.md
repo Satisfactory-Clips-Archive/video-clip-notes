@@ -11,6 +11,9 @@ date: Last Modified
 ## March 30th, 2021 Livestream
 * [Q&A: Would you recommend Satisfactory? because I want it but I don't know if it would suit me](../transcriptions/yt-lzxtnMt89Ig.md) [https://www.youtube.com/watch?v=lzxtnMt89Ig](https://www.youtube.com/watch?v=lzxtnMt89Ig)
 
+## February 9th, 2021 Livestream
+* [Q&A: Is there going to be a sale on the game soon?](../transcriptions/yt-SQiMJaFS6C0.md) [https://www.youtube.com/watch?v=SQiMJaFS6C0](https://www.youtube.com/watch?v=SQiMJaFS6C0)
+
 ## February 2nd, 2021 Livestream
 * [Q&A: Have you sold 10 copies yet?](../transcriptions/yt-q1L297zZiDY.md) [https://www.youtube.com/watch?v=q1L297zZiDY](https://www.youtube.com/watch?v=q1L297zZiDY)
 

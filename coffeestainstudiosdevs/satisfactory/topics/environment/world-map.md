@@ -172,6 +172,9 @@ date: Last Modified
 ## May 19th, 2020 Livestream
 * [Q&A: Planet has floating rocks, is not bound by Earth physics?](../../transcriptions/yt-jXwIeLGuSvI.md) [https://www.youtube.com/watch?v=jXwIeLGuSvI](https://www.youtube.com/watch?v=jXwIeLGuSvI)
 
+## May 15th, 2020 Q&A
+* [Q&A: In a far and glorious future will we have other maps?](../../transcriptions/yt-NlIVwoRqjVk,1213.6124,1227.0591666666667.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1213&end=1228](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1213&end=1228)
+
 ## December 19th, 2019 Livestream
 * [Q&A: Are there any Easter Eggs in the landscape?](../../transcriptions/yt-06YaY3zGZeg.md) [https://www.youtube.com/watch?v=06YaY3zGZeg](https://www.youtube.com/watch?v=06YaY3zGZeg)
 * [Snutt & Hannah Talk: Hannah wants to delete the map.](../../transcriptions/yt-_bVk1N0dvDY.md) [https://www.youtube.com/watch?v=_bVk1N0dvDY](https://www.youtube.com/watch?v=_bVk1N0dvDY)

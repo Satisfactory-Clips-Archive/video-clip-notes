@@ -23,6 +23,9 @@ date: Last Modified
 ## August 18th, 2020 Livestream
 * Q&A: Is Satisfactory affected by Epic vs. Apple? [https://clips.twitch.tv/FurryAwkwardStrawberryWoofer](https://clips.twitch.tv/FurryAwkwardStrawberryWoofer)
 
+## May 15th, 2020 Q&A
+* [Q&A: Are you planning to release a Linux/Mac version?](../../transcriptions/yt-NlIVwoRqjVk,142.50903333333335,211.4112.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=142&end=212](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=142&end=212)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Are you adding support for Mac any time soon?](../../transcriptions/yt-XQioxcXDRqc.md) [https://www.youtube.com/watch?v=XQioxcXDRqc](https://www.youtube.com/watch?v=XQioxcXDRqc)
 * [Q&A: Is Linux support planned in the future?](../../transcriptions/yt-GR3xet5AyuE.md) [https://www.youtube.com/watch?v=GR3xet5AyuE](https://www.youtube.com/watch?v=GR3xet5AyuE)

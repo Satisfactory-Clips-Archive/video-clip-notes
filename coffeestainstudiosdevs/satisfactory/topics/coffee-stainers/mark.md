@@ -69,6 +69,9 @@ date: Last Modified
 ## May 19th, 2020 Livestream
 * [Q&A: What about Tier 8?](../../transcriptions/yt-lQC68q7s21c.md) [https://www.youtube.com/watch?v=lQC68q7s21c](https://www.youtube.com/watch?v=lQC68q7s21c)
 
+## May 15th, 2020 Q&A
+* [Q&A: What are your thoughts regarding replayability?](../../transcriptions/yt-NlIVwoRqjVk,1176.7088666666666,1213.6124.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1176&end=1214](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1176&end=1214)
+
 ## March 24th, 2020 Livestream
 * [Q&A: You have several job openings right now?](../../transcriptions/yt-lqRP7DsUVes.md) [https://www.youtube.com/watch?v=lqRP7DsUVes](https://www.youtube.com/watch?v=lqRP7DsUVes)
 

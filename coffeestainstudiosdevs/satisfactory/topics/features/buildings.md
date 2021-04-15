@@ -187,6 +187,9 @@ date: Last Modified
 ## July 21st, 2020 Livestream
 * Q&A: What do you think about a game mode with weather effects doing damage or slowing machines? [https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime](https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime)
 
+## May 15th, 2020 Q&A
+* [Q&A: Will new buildings be added into the game?](../../transcriptions/yt-NlIVwoRqjVk,917.1162,957.1562.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=917&end=958](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=917&end=958)
+
 ## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: VFX for Buildings (Part 1)](../../transcriptions/yt-mci92Mhr7MM,812.6118,893.1589333333334.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=812&end=894](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=812&end=894)
 * [Simon & Jace Talk: VFX for Buildings (Part 2)](../../transcriptions/yt-mci92Mhr7MM,928.6944333333333,947.2796666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948)

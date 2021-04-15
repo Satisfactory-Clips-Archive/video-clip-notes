@@ -39,6 +39,9 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Q&A: Will I be able to play Experimental branches on Steam?](../../transcriptions/yt-gXCCQ_JBIUg.md) [https://www.youtube.com/watch?v=gXCCQ_JBIUg](https://www.youtube.com/watch?v=gXCCQ_JBIUg)
 
+## May 15th, 2020 Q&A
+* [Q&A: Will there be a sale when it first releases on Steam?](../../transcriptions/yt-NlIVwoRqjVk,368.9352333333333,374.5742.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=368&end=375](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=368&end=375)
+
 ## April 2nd, 2020 Q&A
 * [Q&A: Can I transfer my Epic version to Steam?](../../transcriptions/yt-BmKMv6SZJ5M,187.22,206.74.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207)
 

@@ -44,6 +44,9 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Q&A: Player skin customisation?](../../../transcriptions/yt-oJzUWOdpQ5o.md) [https://www.youtube.com/watch?v=oJzUWOdpQ5o](https://www.youtube.com/watch?v=oJzUWOdpQ5o)
 
+## May 15th, 2020 Q&A
+* [Q&A: Customisation of our characters?](../../../transcriptions/yt-NlIVwoRqjVk,987.6199666666666,994.1932.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=987&end=995](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=987&end=995)
+
 ## March 24th, 2020 Livestream
 * [Q&A: Can I change my character from female to male?](../../../transcriptions/yt-NFKSJi204cc.md) [https://www.youtube.com/watch?v=NFKSJi204cc](https://www.youtube.com/watch?v=NFKSJi204cc)
 * [Q&A: How to change your character from male to female?](../../../transcriptions/yt-o6Za1vV_Zk0.md) [https://www.youtube.com/watch?v=o6Za1vV_Zk0](https://www.youtube.com/watch?v=o6Za1vV_Zk0)

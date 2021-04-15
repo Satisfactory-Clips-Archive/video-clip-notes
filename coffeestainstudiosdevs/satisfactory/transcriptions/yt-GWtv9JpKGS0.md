@@ -9,8 +9,9 @@ topics:
 ## Q&A: Will I get a Steam key if I already bought it on Epic?
 https://www.youtube.com/watch?v=GWtv9JpKGS0
 <details>
-<summary>This question may have been asked previously at least 4 other times, as recently as April 2020 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 5 other times, as recently as May 2020 and as early as March 2019.</summary>
 
+* [May 15th, 2020 Q&A: If I bought the game on Epic will I get a Steam key when it releases?](./yt-NlIVwoRqjVk,397.43036666666666,406.77303333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=397&end=407](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=397&end=407)
 * [April 2nd, 2020 Q&A: Can I transfer my Epic version to Steam?](./yt-BmKMv6SZJ5M,187.22,206.74.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207)
 * [March 24th, 2020 Livestream Q&A: Will the people who bought it on Epic get free Steam keys?](./yt-cCWKieE8O8g.md) [https://www.youtube.com/watch?v=cCWKieE8O8g](https://www.youtube.com/watch?v=cCWKieE8O8g)
 * [February 20th, 2020 Video Q&A: Can I get a copy on Steam if I own it on Epic?](./yt-QBE1Xl94s9o,137.04,145.92.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=137&end=146](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=137&end=146)

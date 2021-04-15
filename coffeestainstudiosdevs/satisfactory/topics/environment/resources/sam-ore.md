@@ -35,6 +35,9 @@ date: Last Modified
 * Q&A: Do you plan to make other resources beyond S.A.M. Ore? [https://clips.twitch.tv/InventiveBillowingEggPMSTwin](https://clips.twitch.tv/InventiveBillowingEggPMSTwin)
 * Q&A: S.A.M. Ore uses? [https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis](https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis)
 
+## May 15th, 2020 Q&A
+* [Q&A: When is the S.A.M. Ore becoming useful in-game?](../../../transcriptions/yt-NlIVwoRqjVk,807.1730333333334,849.9491.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850)
+
 ## February 11th, 2020 Livestream
 * [Q&A: S.A.M. Ore?](../../../transcriptions/yt-6r-s6Hk7QwY.md) [https://www.youtube.com/watch?v=6r-s6Hk7QwY](https://www.youtube.com/watch?v=6r-s6Hk7QwY)
 

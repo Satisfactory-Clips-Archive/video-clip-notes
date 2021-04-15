@@ -9,10 +9,11 @@ topics:
 ## Q&A: Are there any Green Energy options in the game?
 https://www.youtube.com/watch?v=9eBugtyk8U0
 <details>
-<summary>This question may have been asked previously at least 2 other times, as recently as August 2020 and as early as June 2020.</summary>
+<summary>This question may have been asked previously at least 3 other times, as recently as August 2020 and as early as May 2020.</summary>
 
 * August 11th, 2020 Livestream Q&A: Green Energy? [https://clips.twitch.tv/BloodyIcyDragonflyStoneLightning](https://clips.twitch.tv/BloodyIcyDragonflyStoneLightning)
 * [June 8th, 2020 Livestream Q&A: What about Green Energy?](./yt-bPo3BFtjDLs.md) [https://www.youtube.com/watch?v=bPo3BFtjDLs](https://www.youtube.com/watch?v=bPo3BFtjDLs)
+* [May 15th, 2020 Q&A: Any plans to introduce a less... destructive power generation before coal?](./yt-NlIVwoRqjVk,1092.6582333333333,1129.8620666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1092&end=1130](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1092&end=1130)
 </details>
 
 

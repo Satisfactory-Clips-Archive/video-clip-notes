@@ -38,6 +38,9 @@ date: Last Modified
 ## July 21st, 2020 Livestream
 * Q&A: What do you think about a game mode with weather effects doing damage or slowing machines? [https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime](https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime)
 
+## May 15th, 2020 Q&A
+* [Q&A: Will there be weather changes?](../../../transcriptions/yt-NlIVwoRqjVk,374.5742,397.43036666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398)
+
 ## March 24th, 2020 Livestream
 * Q&A: When are the Wind Turbines that Jace leaked coming? [https://www.youtube.com/watch?v=nRMTYlLqiSc](https://www.youtube.com/watch?v=nRMTYlLqiSc)
 

@@ -165,6 +165,9 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Community Highlights - Chainsaw on legs](../transcriptions/yt-tX8VDBudtuI.md) [https://www.youtube.com/watch?v=tX8VDBudtuI](https://www.youtube.com/watch?v=tX8VDBudtuI)
 
+## May 15th, 2020 Q&A
+* [Community FYI: I love u](../transcriptions/yt-NlIVwoRqjVk,1129.8620666666666,1134.9004333333335.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1129&end=1135](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1129&end=1135)
+
 ## February 11th, 2020 Livestream
 * [Q&A: Is this the new Desert Biome?](../transcriptions/yt-ZKHgWByn3D4.md) [https://www.youtube.com/watch?v=ZKHgWByn3D4](https://www.youtube.com/watch?v=ZKHgWByn3D4)
 * [Jace Talk: Regretting mention Pipes on the Update 3 Launch stream](../transcriptions/yt-GHbZplfp7Jc.md) [https://www.youtube.com/watch?v=GHbZplfp7Jc](https://www.youtube.com/watch?v=GHbZplfp7Jc)

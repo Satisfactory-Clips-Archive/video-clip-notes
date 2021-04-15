@@ -40,6 +40,9 @@ date: Last Modified
 ## October 9th, 2020 Livestream
 * [Q&A: How can you concentrate with that hot piece of Simon walking around the office?](../../transcriptions/yt-VkIGrj60KtI.md) [https://www.youtube.com/watch?v=VkIGrj60KtI](https://www.youtube.com/watch?v=VkIGrj60KtI)
 
+## May 15th, 2020 Q&A
+* [Q&A: What did Simon really say about the sloops???](../../transcriptions/yt-NlIVwoRqjVk,1134.9004333333335,1164.4633000000001.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1134&end=1165](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1134&end=1165)
+
 ## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: Different ambient effects for different Biomes](../../transcriptions/yt-mci92Mhr7MM,608.793576,697.5301666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698)
 * [Simon & Jace Talk: Introducing Simon](../../transcriptions/yt-mci92Mhr7MM,164.289825,235.960259.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236)

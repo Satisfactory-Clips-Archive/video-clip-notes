@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Retail](../../../topics/retail.md) > [Epic Store](../../../topics/retail/epic-store.md) > Epic Store Exclusivity
 
+## May 15th, 2020 Q&A
+* [Q&A: Why did you sign an exclusivity deal with Epic?](../../../transcriptions/yt-NlIVwoRqjVk,461.22743333333335,677.4434333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=461&end=678](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=461&end=678)
+
 ## January 22nd, 2020 Livestream
 * [Q&A: Satisfactory on Steam?](../../../transcriptions/yt-gOgyvgKAGAQ.md) [https://www.youtube.com/watch?v=gOgyvgKAGAQ](https://www.youtube.com/watch?v=gOgyvgKAGAQ)
 * [Q&A: With the end of Epic exclusivity, will there be other ways to get it ?](../../../transcriptions/yt-Kfn13oEuA0c.md) [https://www.youtube.com/watch?v=Kfn13oEuA0c](https://www.youtube.com/watch?v=Kfn13oEuA0c)

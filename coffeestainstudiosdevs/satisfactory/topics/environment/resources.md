@@ -94,6 +94,9 @@ date: Last Modified
 ## August 18th, 2020 Livestream
 * Q&A: Do you plan to make other resources beyond S.A.M. Ore? [https://clips.twitch.tv/InventiveBillowingEggPMSTwin](https://clips.twitch.tv/InventiveBillowingEggPMSTwin)
 
+## May 15th, 2020 Q&A
+* [Q&A: What are your thoughts regarding replayability?](../../transcriptions/yt-NlIVwoRqjVk,1176.7088666666666,1213.6124.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1176&end=1214](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1176&end=1214)
+
 ## March 24th, 2020 Livestream
 * [Q&A: Creatures and Resources in deep ocean?](../../transcriptions/yt-bz7PJ3VF6FE.md) [https://www.youtube.com/watch?v=bz7PJ3VF6FE](https://www.youtube.com/watch?v=bz7PJ3VF6FE)
 

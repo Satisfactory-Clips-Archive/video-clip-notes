@@ -64,6 +64,9 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Community Highlights - Chainsaw on legs](../../../transcriptions/yt-tX8VDBudtuI.md) [https://www.youtube.com/watch?v=tX8VDBudtuI](https://www.youtube.com/watch?v=tX8VDBudtuI)
 
+## May 15th, 2020 Q&A
+* [Q&A: What is one item or equipment that some of the staff have wanted, but got canned for balancing?](../../../transcriptions/yt-NlIVwoRqjVk,1034.8338,1062.2612.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Can creatures in any way disrupt your factory?](../../../transcriptions/yt-R2Fms8EjhN8.md) [https://www.youtube.com/watch?v=R2Fms8EjhN8](https://www.youtube.com/watch?v=R2Fms8EjhN8)
 * [Q&A: Will there be turrets or something in the game?](../../../transcriptions/yt-xNBFywqCrxM.md) [https://www.youtube.com/watch?v=xNBFywqCrxM](https://www.youtube.com/watch?v=xNBFywqCrxM)

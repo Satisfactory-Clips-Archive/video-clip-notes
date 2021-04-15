@@ -154,6 +154,9 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Q&A: Dedicated Servers?](../../../transcriptions/yt-XuFfkTTZnoA.md) [https://www.youtube.com/watch?v=XuFfkTTZnoA](https://www.youtube.com/watch?v=XuFfkTTZnoA)
 
+## May 15th, 2020 Q&A
+* [Q&A: Would Dedicated Servers break the game?](../../../transcriptions/yt-NlIVwoRqjVk,70.83743333333334,142.50903333333335.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=70&end=143](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=70&end=143)
+
 ## March 12th, 2020 Patch Notes
 * [Jace Talk: Dedicated Servers](../../../transcriptions/yt-DsbHR1Nc8fw,348.88025,385.25987499999997.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=348&end=386](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=348&end=386)
 

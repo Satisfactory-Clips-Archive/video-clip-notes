@@ -181,6 +181,9 @@ date: Last Modified
 ## May 19th, 2020 Livestream
 * [Q&A: What about Tier 8?](../../transcriptions/yt-lQC68q7s21c.md) [https://www.youtube.com/watch?v=lQC68q7s21c](https://www.youtube.com/watch?v=lQC68q7s21c)
 
+## May 15th, 2020 Q&A
+* Q&A: Didn't you quit? [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=994&end=996](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=994&end=996)
+
 ## April 2nd, 2020 Q&A
 * [Jace Talk: Let's Gay It Out](../../transcriptions/yt-BmKMv6SZJ5M,254.96,319.04.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320)
 

@@ -74,6 +74,11 @@ date: Last Modified
 ## July 8th, 2020 Mod Highlight
 * [Q&A: Does anyone know if there's a mod to holster weapon?](../../transcriptions/yt-1dUNmBBbExs,1833.468476,1843.905544.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1833&end=1844](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1833&end=1844)
 
+## May 15th, 2020 Q&A
+* [Q&A: Any chance of a holster keybind so we can lower our hand slot when not in use?](../../transcriptions/yt-NlIVwoRqjVk,1019.9856333333333,1034.8338.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1019&end=1035](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1019&end=1035)
+* [Q&A: What is one item or equipment that some of the staff have wanted, but got canned for balancing?](../../transcriptions/yt-NlIVwoRqjVk,1034.8338,1062.2612.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063)
+* [Q&A: Will we get more than one body slot?](../../transcriptions/yt-NlIVwoRqjVk,733.1324,779.1784.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780)
+
 ## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: VFX for Nobelisk explosion](../../transcriptions/yt-mci92Mhr7MM,235.96906666666666,425.240567.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426)
 

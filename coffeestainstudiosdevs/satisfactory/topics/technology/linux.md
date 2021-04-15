@@ -42,6 +42,10 @@ date: Last Modified
 * [Q&A: Plans for official Linux support?](../../transcriptions/yt-vSFTo-1j-SA.md) [https://www.youtube.com/watch?v=vSFTo-1j-SA](https://www.youtube.com/watch?v=vSFTo-1j-SA)
 * [Q&A: Will Dedicated Servers be available on Linux, or Windows?](../../transcriptions/yt-4f7KWwnXhoU.md) [https://www.youtube.com/watch?v=4f7KWwnXhoU](https://www.youtube.com/watch?v=4f7KWwnXhoU)
 
+## May 15th, 2020 Q&A
+* [Q&A: Are you planning to release a Linux/Mac version?](../../transcriptions/yt-NlIVwoRqjVk,142.50903333333335,211.4112.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=142&end=212](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=142&end=212)
+* [Q&A: Will the Steam version of the game run on Linux? Either native or with Proton?](../../transcriptions/yt-NlIVwoRqjVk,211.4112,226.3261.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=211&end=227](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=211&end=227)
+
 ## January 22nd, 2020 Livestream
 * [Q&A: Linux support for Dedicated Servers?](../../transcriptions/yt-5a34CUK1K3k.md) [https://www.youtube.com/watch?v=5a34CUK1K3k](https://www.youtube.com/watch?v=5a34CUK1K3k)
 

@@ -63,3 +63,6 @@ date: Last Modified
 
 ## June 8th, 2020 Livestream
 * [Q&A: What are plans for Trains?](../../../../transcriptions/yt-9MVglCjtlwY.md) [https://www.youtube.com/watch?v=9MVglCjtlwY](https://www.youtube.com/watch?v=9MVglCjtlwY)
+
+## May 15th, 2020 Q&A
+* [Q&A: Is proper rail signalling in the works for the future?](../../../../transcriptions/yt-NlIVwoRqjVk,1227.0591666666667,1235.4342.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1227&end=1236](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1227&end=1236)

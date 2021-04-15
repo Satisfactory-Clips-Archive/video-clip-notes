@@ -136,6 +136,9 @@ date: Last Modified
 * [Q&A: Planet has floating rocks, is not bound by Earth physics?](../transcriptions/yt-jXwIeLGuSvI.md) [https://www.youtube.com/watch?v=jXwIeLGuSvI](https://www.youtube.com/watch?v=jXwIeLGuSvI)
 * [Q&A: What's the name of the Player Character?](../transcriptions/yt-pNTCYMAibe8.md) [https://www.youtube.com/watch?v=pNTCYMAibe8](https://www.youtube.com/watch?v=pNTCYMAibe8)
 
+## May 15th, 2020 Q&A
+* [Q&A: In the finished game, will the Story of the game impact how you play?](../transcriptions/yt-NlIVwoRqjVk,779.1784,807.1730333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=779&end=808](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=779&end=808)
+
 ## March 24th, 2020 Livestream
 * [Q&A: What about Story, will more of it come?](../transcriptions/yt-V8r96lmiV9k.md) [https://www.youtube.com/watch?v=V8r96lmiV9k](https://www.youtube.com/watch?v=V8r96lmiV9k)
 

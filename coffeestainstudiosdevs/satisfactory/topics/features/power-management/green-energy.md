@@ -37,5 +37,8 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Q&A: What about Green Energy?](../../../transcriptions/yt-bPo3BFtjDLs.md) [https://www.youtube.com/watch?v=bPo3BFtjDLs](https://www.youtube.com/watch?v=bPo3BFtjDLs)
 
+## May 15th, 2020 Q&A
+* [Q&A: Any plans to introduce a less... destructive power generation before coal?](../../../transcriptions/yt-NlIVwoRqjVk,1092.6582333333333,1129.8620666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1092&end=1130](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1092&end=1130)
+
 ## March 24th, 2020 Livestream
 * [Q&A: Green Energy & Nuclear Waste?](../../../transcriptions/yt-T2MEOzplmSQ.md) [https://www.youtube.com/watch?v=T2MEOzplmSQ](https://www.youtube.com/watch?v=T2MEOzplmSQ)

@@ -62,6 +62,10 @@ date: Last Modified
 * [Q&A: What does Performance Budget mean?](../../../transcriptions/yt-qg27gPorXB4.md) [https://www.youtube.com/watch?v=qg27gPorXB4](https://www.youtube.com/watch?v=qg27gPorXB4)
 * [Q&A: Why can't you just add lights to the game?](../../../transcriptions/yt-IJdIUISe5S4.md) [https://www.youtube.com/watch?v=IJdIUISe5S4](https://www.youtube.com/watch?v=IJdIUISe5S4)
 
+## May 15th, 2020 Q&A
+* [Q&A: Lights when?](../../../transcriptions/yt-NlIVwoRqjVk,1235.4342,1298.170291.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1235&end=1299](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1235&end=1299)
+* [Q&A: While lights are not currently in the game, would it be an option for it to always be daytime?](../../../transcriptions/yt-NlIVwoRqjVk,867.3998666666666,917.1162.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=867&end=918](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=867&end=918)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Why did you take our industrial lights away from walkways, I miss those?](../../../transcriptions/yt-Tit_bHzixmk.md) [https://www.youtube.com/watch?v=Tit_bHzixmk](https://www.youtube.com/watch?v=Tit_bHzixmk)
 * Q&A: Will there be lamps for night? [https://www.youtube.com/watch?v=SiS0HGq7_oU](https://www.youtube.com/watch?v=SiS0HGq7_oU)

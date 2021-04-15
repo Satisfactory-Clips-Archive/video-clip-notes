@@ -39,6 +39,9 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Do you have any clue on what the alien artefacts do?](../../../transcriptions/yt-hRe0QvJDjsg.md) [https://www.youtube.com/watch?v=hRe0QvJDjsg](https://www.youtube.com/watch?v=hRe0QvJDjsg)
 
+## May 15th, 2020 Q&A
+* [Q&A: What did Simon really say about the sloops???](../../../transcriptions/yt-NlIVwoRqjVk,1134.9004333333335,1164.4633000000001.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1134&end=1165](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1134&end=1165)
+
 ## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: VFX for collectable items](../../../transcriptions/yt-mci92Mhr7MM,697.5301666666667,812.6118.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=697&end=813](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=697&end=813)
 * [Q&A: What does the Somersloop do?](../../../transcriptions/yt-mci92Mhr7MM,711.0436666666667,726.1587666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=711&end=727](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=711&end=727)

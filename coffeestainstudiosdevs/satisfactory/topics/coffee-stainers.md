@@ -103,6 +103,9 @@ date: Last Modified
 ## July 8th, 2020 Mod Highlight
 * [Community FYI: You guys helped us a lot in making mods](../transcriptions/yt-1dUNmBBbExs,2393.307296,2438.703271.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439)
 
+## May 15th, 2020 Q&A
+* [Q&A: Please tell us a story about your biggest night out together?](../transcriptions/yt-NlIVwoRqjVk,677.4434333333334,733.1324.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=677&end=734](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=677&end=734)
+
 ## April 10th, 2020 Video
 * [Torsten & Jace Talk: Showing off concept art](../transcriptions/yt-CG-63B4g11U,339.523337,391.581169.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=339&end=392](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=339&end=392)
 * [Jace Talk: The Art Team is not the bottleneck for new features](../transcriptions/yt-CG-63B4g11U,310.635063,339.523337.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=310&end=340](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=310&end=340)

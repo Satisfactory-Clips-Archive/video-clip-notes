@@ -8,6 +8,12 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: How will Story affect Balancing?
 https://www.youtube.com/watch?v=4Ovv5IdbafQ
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as May 2020.</summary>
+
+* [May 15th, 2020 Q&A: In the finished game, will the Story of the game impact how you play?](./yt-NlIVwoRqjVk,779.1784,807.1730333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=779&end=808](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=779&end=808)
+</details>
+
 
 ### Topics
 * [Story & Lore](../topics/story-lore.md)

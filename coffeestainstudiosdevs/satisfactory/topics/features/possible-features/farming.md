@@ -34,6 +34,9 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Q&A: What do you think about Farming?](../../../transcriptions/yt-UijCvihSvzE.md) [https://www.youtube.com/watch?v=UijCvihSvzE](https://www.youtube.com/watch?v=UijCvihSvzE)
 
+## May 15th, 2020 Q&A
+* [Q&A: Will there be a farming system with seeds and stuff so we can plant our own fruits?](../../../transcriptions/yt-NlIVwoRqjVk,1164.4633000000001,1176.7088666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1164&end=1177](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1164&end=1177)
+
 ## March 24th, 2020 Livestream
 * [Q&A: Berry Farming?](../../../transcriptions/yt-2Cq3xmLN8sQ.md) [https://www.youtube.com/watch?v=2Cq3xmLN8sQ](https://www.youtube.com/watch?v=2Cq3xmLN8sQ)
 

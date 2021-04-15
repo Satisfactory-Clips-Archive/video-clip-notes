@@ -30,6 +30,9 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Q&A: Signs & Planets [https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo](https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo)
 
+## May 15th, 2020 Q&A
+* [Q&A: Will we ever be able to leave this planet?](../../../transcriptions/yt-NlIVwoRqjVk,1008.3073,1019.9856333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1008&end=1020](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1008&end=1020)
+
 ## March 9th, 2019 Livestream
 * [Q&A: Will the game expand into space or will it stay on the ground?](../../../transcriptions/yt-Ea0f72zZshQ.md) [https://www.youtube.com/watch?v=Ea0f72zZshQ](https://www.youtube.com/watch?v=Ea0f72zZshQ)
 

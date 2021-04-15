@@ -49,6 +49,9 @@ date: Last Modified
 ## July 28th, 2020 Livestream
 * Jace Talk: Flight & map size perception [https://clips.twitch.tv/ElatedBlueNightingaleMau5](https://clips.twitch.tv/ElatedBlueNightingaleMau5)
 
+## May 15th, 2020 Q&A
+* [Q&A: Is there any plans for any sort of flying vehicle?](../../../transcriptions/yt-NlIVwoRqjVk,26.760066666666667,70.83743333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=26&end=71](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=26&end=71)
+
 ## March 12th, 2020 Patch Notes
 * [Jace Talk: We're sleeping in a plane, but we won't be adding planes](../../../transcriptions/yt-DsbHR1Nc8fw,123.28983333333332,155.44695833333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156)
 

@@ -124,6 +124,10 @@ date: Last Modified
 * Q&A: When are Somersloops and Orbs have meaning? [https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride](https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride)
 * Q&A: Will 1.0 require a reset of the game? [https://clips.twitch.tv/SpoopyPlacidPepperoniSoonerLater](https://clips.twitch.tv/SpoopyPlacidPepperoniSoonerLater)
 
+## May 15th, 2020 Q&A
+* [Q&A: Do you have a general idea of how, the team as a whole, want the game to be for 1.0?](../../../transcriptions/yt-NlIVwoRqjVk,226.3261,288.288.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=226&end=289](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=226&end=289)
+* [Q&A: Do you have any rough expectation of when the full release of the game will be?](../../../transcriptions/yt-NlIVwoRqjVk,995.8949,1008.3073.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=995&end=1009](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=995&end=1009)
+
 ## March 24th, 2020 Livestream
 * [Q&A: Will there be a roadmap again for Updates?](../../../transcriptions/yt-EiqFP9bm7v4.md) [https://www.youtube.com/watch?v=EiqFP9bm7v4](https://www.youtube.com/watch?v=EiqFP9bm7v4)
 

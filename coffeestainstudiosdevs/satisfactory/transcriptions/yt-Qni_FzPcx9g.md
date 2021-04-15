@@ -9,9 +9,10 @@ topics:
 ## Q&A: Mk.2 Factory Buildings?
 https://www.youtube.com/watch?v=Qni_FzPcx9g
 <details>
-<summary>This question may have been asked previously at least 1 other time, as recently as March 2021.</summary>
+<summary>This question may have been asked previously at least 2 other times, as recently as March 2021 and as early as November 2020.</summary>
 
 * [March 23rd, 2021 Livestream Q&A: Will we ever see Mk.2 versions of the Constructor, Assembler, Refinery etc.?](./yt-b9z-MopRxic.md) [https://www.youtube.com/watch?v=b9z-MopRxic](https://www.youtube.com/watch?v=b9z-MopRxic)
+* [November 10th, 2020 Livestream Q&A: Will there be faster Smelter/Manufacturers?](./yt-eiGqL7qpc14.md) [https://www.youtube.com/watch?v=eiGqL7qpc14](https://www.youtube.com/watch?v=eiGqL7qpc14)
 </details>
 
 

@@ -33,6 +33,11 @@ date: Last Modified
 * [Snutt & Gafgar Talk: What we had to do in order to support Multiplayer on Steam](../../../transcriptions/yt-tzQZ1akwzzM.md) [https://www.youtube.com/watch?v=tzQZ1akwzzM](https://www.youtube.com/watch?v=tzQZ1akwzzM)
 * [Q&A: Will crossplay launch with the Steam release?](../../../transcriptions/yt-egY71egazyQ.md) [https://www.youtube.com/watch?v=egY71egazyQ](https://www.youtube.com/watch?v=egY71egazyQ)
 
+## May 15th, 2020 Q&A
+* [Q&A: If I bought the game on Epic will I get a Steam key when it releases?](../../../transcriptions/yt-NlIVwoRqjVk,397.43036666666666,406.77303333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=397&end=407](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=397&end=407)
+* [Q&A: Will there be Steam Cards and Achievements? Also do you intend to use Steam Workshop?](../../../transcriptions/yt-NlIVwoRqjVk,301.33436666666665,346.41273333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347)
+* [Q&A: Will the Steam version of the game run on Linux? Either native or with Proton?](../../../transcriptions/yt-NlIVwoRqjVk,211.4112,226.3261.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=211&end=227](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=211&end=227)
+
 ## April 10th, 2020 Video
 * [Q&A: Will the Train Station redesign be in the Steam Release?](../../../transcriptions/yt-CG-63B4g11U,391.581169,426.157201.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=391&end=427](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=391&end=427)
 

@@ -162,6 +162,9 @@ date: Last Modified
 * [Snutt & Gafgar Talk: What we had to do in order to support Multiplayer on Steam](../../transcriptions/yt-tzQZ1akwzzM.md) [https://www.youtube.com/watch?v=tzQZ1akwzzM](https://www.youtube.com/watch?v=tzQZ1akwzzM)
 * [Q&A: Would you rather buy the game on both platforms than solve these issues?](../../transcriptions/yt--ISubZfsFS4.md) [https://www.youtube.com/watch?v=-ISubZfsFS4](https://www.youtube.com/watch?v=-ISubZfsFS4)
 
+## May 15th, 2020 Q&A
+* [Q&A: Multiplayer has quality-of-life issues, are you going to fix them?](../../transcriptions/yt-NlIVwoRqjVk,406.77303333333333,461.22743333333335.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=406&end=462](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=406&end=462)
+
 ## March 24th, 2020 Livestream
 * [Q&A: How high is Multiplayer bugfixing on the priority list?](../../transcriptions/yt-mvSWBd42JYM.md) [https://www.youtube.com/watch?v=mvSWBd42JYM](https://www.youtube.com/watch?v=mvSWBd42JYM)
 * [Snutt & Jace Talk: Multiplayer issues](../../transcriptions/yt-3vVD6SKT5OQ.md) [https://www.youtube.com/watch?v=3vVD6SKT5OQ](https://www.youtube.com/watch?v=3vVD6SKT5OQ)

@@ -34,3 +34,6 @@ date: Last Modified
 
 ## May 19th, 2020 Livestream
 * [Q&A: Will we be seeing support for Steam Workshop?](../../../transcriptions/yt-n4fagQ4eivI.md) [https://www.youtube.com/watch?v=n4fagQ4eivI](https://www.youtube.com/watch?v=n4fagQ4eivI)
+
+## May 15th, 2020 Q&A
+* [Q&A: Do you intend to use Steam Workshop in any way?](../../../transcriptions/yt-NlIVwoRqjVk,346.41273333333334,368.9352333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=346&end=369](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=346&end=369)

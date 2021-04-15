@@ -171,6 +171,11 @@ date: Last Modified
 ## June 8th, 2020 Livestream
 * [Snutt, Jace, & Mark Talk: Muting ADA](../../transcriptions/yt-H3eApDUK_Xs.md) [https://www.youtube.com/watch?v=H3eApDUK_Xs](https://www.youtube.com/watch?v=H3eApDUK_Xs)
 
+## May 15th, 2020 Q&A
+* [Q&A: Any 3rd person toggle planned?](../../transcriptions/yt-NlIVwoRqjVk,957.1562,987.6199666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=957&end=988](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=957&end=988)
+* [Q&A: Any chance of a holster keybind so we can lower our hand slot when not in use?](../../transcriptions/yt-NlIVwoRqjVk,1019.9856333333333,1034.8338.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1019&end=1035](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1019&end=1035)
+* [Q&A: Will we get more than one body slot?](../../transcriptions/yt-NlIVwoRqjVk,733.1324,779.1784.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780)
+
 ## April 10th, 2020 Video
 * [Jace Talk: Multiple hotbars](../../transcriptions/yt-CG-63B4g11U,37.333333333333336,94.737738.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=37&end=95](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=37&end=95)
 
