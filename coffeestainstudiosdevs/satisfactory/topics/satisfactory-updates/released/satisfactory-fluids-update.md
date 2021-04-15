@@ -142,6 +142,9 @@ date: Last Modified
 * [Q&A: Update release schedule (part 2)](../../../transcriptions/yt-vfVo9rCpVtQ.md) [https://www.youtube.com/watch?v=vfVo9rCpVtQ](https://www.youtube.com/watch?v=vfVo9rCpVtQ)
 * [Q&A: Will the update break saves?](../../../transcriptions/yt-4RrHBOTPcs8.md) [https://www.youtube.com/watch?v=4RrHBOTPcs8](https://www.youtube.com/watch?v=4RrHBOTPcs8)
 
+## September 9th, 2020 Video
+* [Snutt Talk: Fluids Update](../../../transcriptions/yt-dSnqRq1hLZY,72.3,102.46666666666667.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=72&end=103](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=72&end=103)
+
 ## September 8th, 2020 Livestream
 * [Q&A: Any more tiers in 3.5?](../../../transcriptions/yt-55GiH8YwDds.md) [https://www.youtube.com/watch?v=55GiH8YwDds](https://www.youtube.com/watch?v=55GiH8YwDds)
 

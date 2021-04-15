@@ -9,9 +9,10 @@ topics:
 ## Q&A: What about the Merch?
 https://www.youtube.com/watch?v=jQyDj_wa0LA
 <details>
-<summary>This question may have been asked previously at least 1 other time, as recently as July 2020.</summary>
+<summary>This question may have been asked previously at least 2 other times, as recently as July 2020 and as early as March 2020.</summary>
 
 * [July 30th, 2020 Q&A: Merch?](./yt-1dUNmBBbExs,101.20356,116.33333333333333.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=101&end=117](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=101&end=117)
+* [March 24th, 2020 Livestream Q&A: Merch?](./yt-PIlduefx6Vk.md) [https://www.youtube.com/watch?v=PIlduefx6Vk](https://www.youtube.com/watch?v=PIlduefx6Vk)
 </details>
 
 

@@ -91,6 +91,14 @@ date: Last Modified
 * [Q&A: FICSIT Coin?](../transcriptions/yt-QNG_fe9s3W8.md) [https://www.youtube.com/watch?v=QNG_fe9s3W8](https://www.youtube.com/watch?v=QNG_fe9s3W8)
 * [Q&A: The Mug?](../transcriptions/yt-mg0CAgdI5S8.md) [https://www.youtube.com/watch?v=mg0CAgdI5S8](https://www.youtube.com/watch?v=mg0CAgdI5S8)
 
+## September 9th, 2020 Video
+* [Q&A: Are there any more designs coming?](../transcriptions/yt-dSnqRq1hLZY,162.96666666666667,249.6.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=162&end=250](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=162&end=250)
+* Q&A: Did Coffee Stain become sellouts? [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=159&end=163](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=159&end=163)
+* [Snutt Talk: Merch](../transcriptions/yt-dSnqRq1hLZY,127.36666666666666,249.6.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=127&end=250](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=127&end=250)
+* [Snutt Talk: Merch launch on For Fans By Fans](../transcriptions/yt-dSnqRq1hLZY,14.199802,26.81167.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=14&end=27](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=14&end=27)
+* [Q&A: Where's the mug?](../transcriptions/yt-dSnqRq1hLZY,136.4,145.46666666666667.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=136&end=146](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=136&end=146)
+* [Q&A: Why is shipping so expensive (outside of the US)?](../transcriptions/yt-dSnqRq1hLZY,145.46666666666667,159.96666666666667.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=145&end=160](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=145&end=160)
+
 ## September 8th, 2020 Livestream
 * [Q&A: Releasing a Vinyl on the Merch Store ?](../transcriptions/yt-DeEK7w3qPyg.md) [https://www.youtube.com/watch?v=DeEK7w3qPyg](https://www.youtube.com/watch?v=DeEK7w3qPyg)
 * [Q&A: Will there be a european Merch store?](../transcriptions/yt-GhfR61WpR6k.md) [https://www.youtube.com/watch?v=GhfR61WpR6k](https://www.youtube.com/watch?v=GhfR61WpR6k)

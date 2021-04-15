@@ -59,6 +59,7 @@ layout: index
 * [September 29th](2020-09-29.md)
 * [September 22nd](2020-09-22.md)
 * [September 15th](2020-09-15.md)
+* [September 9th](2020-09-09.md)
 * [September 8th](2020-09-08.md)
 * [September 1st](2020-09-01.md)
 

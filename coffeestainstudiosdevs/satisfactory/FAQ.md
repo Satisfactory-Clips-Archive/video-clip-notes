@@ -2302,7 +2302,7 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 8 other times, as recently as December 2020 and as early as September 2020.</summary>
+<summary>This question may have been asked previously at least 9 other times, as recently as December 2020 and as early as September 2020.</summary>
 
 * [December 15th, 2020 Livestream Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy?](./transcriptions/yt-PYyvu8feZqA.md) [https://www.youtube.com/watch?v=PYyvu8feZqA](https://www.youtube.com/watch?v=PYyvu8feZqA)
 * [November 17th, 2020 Livestream Q&A: Do you have an update on the price of delivery fee of Merch?](./transcriptions/yt-mNtdBj-DpK0.md) [https://www.youtube.com/watch?v=mNtdBj-DpK0](https://www.youtube.com/watch?v=mNtdBj-DpK0)
@@ -2311,6 +2311,7 @@ date: Last Modified
 * [October 6th, 2020 Livestream Q&A: Any Update on Merch shipping alternatives?](./transcriptions/yt-kj_vdE5-CEI.md) [https://www.youtube.com/watch?v=kj_vdE5-CEI](https://www.youtube.com/watch?v=kj_vdE5-CEI)
 * [September 22nd, 2020 Livestream Q&A: Any information on Merch shipping to EU/rest of the world?](./transcriptions/yt-hAEInvMcQfk.md) [https://www.youtube.com/watch?v=hAEInvMcQfk](https://www.youtube.com/watch?v=hAEInvMcQfk)
 * [September 15th, 2020 Livestream Q&A: Any news on EU Merch?](./transcriptions/yt-IXeIE9qV-lA.md) [https://www.youtube.com/watch?v=IXeIE9qV-lA](https://www.youtube.com/watch?v=IXeIE9qV-lA)
+* [September 9th, 2020 Video Q&A: Why is shipping so expensive (outside of the US)?](./transcriptions/yt-dSnqRq1hLZY,145.46666666666667,159.96666666666667.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=145&end=160](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=145&end=160)
 * [September 8th, 2020 Livestream Q&A: Will there be a european Merch store?](./transcriptions/yt-GhfR61WpR6k.md) [https://www.youtube.com/watch?v=GhfR61WpR6k](https://www.youtube.com/watch?v=GhfR61WpR6k)
 </details>
 
@@ -2996,6 +2997,27 @@ date: Last Modified
 * [March 9th, 2019 Livestream Q&A: Can we have an alternate arachnophobia mode with Simon's face?](./transcriptions/yt-3h2P4TfAAwE.md) [https://www.youtube.com/watch?v=3h2P4TfAAwE](https://www.youtube.com/watch?v=3h2P4TfAAwE)
 * August 1st, 2018 Q&A: Can we change the sprite ourselves? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
 * [August 1st, 2018 Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](./transcriptions/yt-iFAy1NZUOGU,208.96,227.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228)
+</details>
+
+## [September 1st, 2020 Livestream](./2020-09-01.md)
+### [Q&A: What about the Merch?](./transcriptions/yt-jQyDj_wa0LA.md) [https://www.youtube.com/watch?v=jQyDj_wa0LA](https://www.youtube.com/watch?v=jQyDj_wa0LA)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> [Music]
+>
+> oh here's a good question what about the merch very soon very soon um we're like finalizing i feel like we've said this for like two months or something we are finalizing uh merch the unfortunate thing about merch right now is that the coffee cup is going to be delayed uh i can say that right now it's going to be delayed a bit we're going to launch merch before we launch we were planning to launch like our merch store with a bunch of goodies and coffee cup good things but stuff just keeps getting delayed um and we're at that point now we feel like at some we need to release something right we need to get something out there so we're going to do it in like um we're going to roll out merch um throughout the months so like when cups do become available we'll add it to the store uh but yeah merchant some merch is going to be available fairly soon i think
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as July 2020 and as early as March 2020.</summary>
+
+* [July 30th, 2020 Q&A: Merch?](./transcriptions/yt-1dUNmBBbExs,101.20356,116.33333333333333.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=101&end=117](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=101&end=117)
+* [March 24th, 2020 Livestream Q&A: Merch?](./transcriptions/yt-PIlduefx6Vk.md) [https://www.youtube.com/watch?v=PIlduefx6Vk](https://www.youtube.com/watch?v=PIlduefx6Vk)
 </details>
 
 ## [July 28th, 2020 Livestream](./2020-07-28.md)

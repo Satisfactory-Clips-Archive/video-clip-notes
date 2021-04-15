@@ -118,6 +118,10 @@ date: Last Modified
 ## September 15th, 2020 Livestream
 * [Snutt Talk: Dedicated Servers](../../../transcriptions/yt-yRJNzDLMJZU.md) [https://www.youtube.com/watch?v=yRJNzDLMJZU](https://www.youtube.com/watch?v=yRJNzDLMJZU)
 
+## September 9th, 2020 Video
+* [Snutt Talk: Dedicated Servers](../../../transcriptions/yt-dSnqRq1hLZY,102.46666666666667,127.36666666666666.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=102&end=128](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=102&end=128)
+* [Snutt Talk: Update 4 & Dedicated Servers](../../../transcriptions/yt-dSnqRq1hLZY,26.81167,127.36666666666666.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=26&end=128](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=26&end=128)
+
 ## September 8th, 2020 Livestream
 * [Q&A: Dedicated Servers aren't tied to an Update?](../../../transcriptions/yt-2GeQaPM1UGg.md) [https://www.youtube.com/watch?v=2GeQaPM1UGg](https://www.youtube.com/watch?v=2GeQaPM1UGg)
 * [Jace & Snutt Talk: Update 4 & Dedicated Servers](../../../transcriptions/yt-PEFai6HyxTs.md) [https://www.youtube.com/watch?v=PEFai6HyxTs](https://www.youtube.com/watch?v=PEFai6HyxTs)

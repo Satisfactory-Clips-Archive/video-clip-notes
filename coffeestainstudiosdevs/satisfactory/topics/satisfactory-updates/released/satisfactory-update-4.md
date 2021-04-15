@@ -487,6 +487,10 @@ date: Last Modified
 * [Q&A: Update release schedule (part 2)](../../../transcriptions/yt-vfVo9rCpVtQ.md) [https://www.youtube.com/watch?v=vfVo9rCpVtQ](https://www.youtube.com/watch?v=vfVo9rCpVtQ)
 * [Q&A: Will the update break saves?](../../../transcriptions/yt-4RrHBOTPcs8.md) [https://www.youtube.com/watch?v=4RrHBOTPcs8](https://www.youtube.com/watch?v=4RrHBOTPcs8)
 
+## September 9th, 2020 Video
+* [Snutt Talk: Update 4 & Dedicated Servers](../../../transcriptions/yt-dSnqRq1hLZY,26.81167,127.36666666666666.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=26&end=128](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=26&end=128)
+* [Q&A: When will Update 4 be coming out?](../../../transcriptions/yt-dSnqRq1hLZY,38.2,72.3.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=38&end=73](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=38&end=73)
+
 ## September 8th, 2020 Livestream
 * [Q&A: This secretism is not good](../../../transcriptions/yt-nZnTSGGqVYo.md) [https://www.youtube.com/watch?v=nZnTSGGqVYo](https://www.youtube.com/watch?v=nZnTSGGqVYo)
 * [Jace & Snutt Talk: Update 4 & Dedicated Servers](../../../transcriptions/yt-PEFai6HyxTs.md) [https://www.youtube.com/watch?v=PEFai6HyxTs](https://www.youtube.com/watch?v=PEFai6HyxTs)
