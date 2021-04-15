@@ -89,7 +89,7 @@ date: Last Modified
 * [Q&A: Snutt has a personal project?](../../transcriptions/yt-maPp0k3TajI.md) [https://www.youtube.com/watch?v=maPp0k3TajI](https://www.youtube.com/watch?v=maPp0k3TajI)
 * [Q&A: When's the Let's Game It Out/Let's Gay It Out collab happening?](../../transcriptions/yt-jD4WtAxzhCk.md) [https://www.youtube.com/watch?v=jD4WtAxzhCk](https://www.youtube.com/watch?v=jD4WtAxzhCk)
 
-## February 26th, 2021 Instagram AMA
+## February 26th, 2021 Videos
 * Q&A: How did Snutt get to Coffee Stain? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_did_Snutt_get_to_Coffee_Stain.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_did_Snutt_get_to_Coffee_Stain.mp4)
 * Q&A: How many hours have you in Satis? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_hours_have_you_in_Satis.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_hours_have_you_in_Satis.mp4)
 * Q&A: What is your favourite feature and bug in Satisfactory? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_What_is_your_favourite_feature_and_bug_in_Satisfactory.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_What_is_your_favourite_feature_and_bug_in_Satisfactory.mp4)

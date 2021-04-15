@@ -21,7 +21,7 @@ date: Last Modified
 ## March 16th, 2021 Livestream
 * Snutt Talk: How to access Update 4 on Steam & Epic [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=7169&end=7286](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=7169&end=7286)
 
-## February 26th, 2021 Instagram AMA
+## February 26th, 2021 Videos
 * [Q&A: I'm on Early Access, how do I get in on this Experimental stuff?](../../transcriptions/yt-F-q3vfj__M4,112.71260000000001,182.71586666666667.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183)
 
 ## January 19th, 2021 Livestream

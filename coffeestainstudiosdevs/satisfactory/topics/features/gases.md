@@ -13,7 +13,7 @@ date: Last Modified
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: Setting up the in-game Drone shots](../../transcriptions/yt-uiFxBhKJuv4.md) [https://www.youtube.com/watch?v=uiFxBhKJuv4](https://www.youtube.com/watch?v=uiFxBhKJuv4)
 
-## February 26th, 2021 Instagram AMA
+## February 26th, 2021 Videos
 * Q&A: How many different gases will we have in Update 4? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_different_gases_will_we_have_in_update_4.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_How_many_different_gases_will_we_have_in_update_4.mp4)
 * Q&A: Will we need some kind of pumps to get the gases to a height?? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Will_we_need_some_kind_of_pumps_to_get_the_gases_to_a_height.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Will_we_need_some_kind_of_pumps_to_get_the_gases_to_a_height.mp4)
 

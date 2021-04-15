@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=jxB9EKkm9i0
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as August 2020.</summary>
 
-* February 26th, 2021 Instagram AMA Q&A: Can you bring wind turbines to Satisfactory? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Can_you_bring_solar_power_and_wind_turbines_and_water_power_to_Satisfactory%3F.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Can_you_bring_solar_power_and_wind_turbines_and_water_power_to_Satisfactory%3F.mp4)
+* February 26th, 2021 Videos Q&A: Can you bring wind turbines to Satisfactory? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Can_you_bring_solar_power_and_wind_turbines_and_water_power_to_Satisfactory%3F.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Can_you_bring_solar_power_and_wind_turbines_and_water_power_to_Satisfactory%3F.mp4)
 * [August 25th, 2020 Livestream Q&A: What about wind turbines?](./yt-bvMAe2VTC5A.md) [https://www.youtube.com/watch?v=bvMAe2VTC5A](https://www.youtube.com/watch?v=bvMAe2VTC5A)
 </details>
 

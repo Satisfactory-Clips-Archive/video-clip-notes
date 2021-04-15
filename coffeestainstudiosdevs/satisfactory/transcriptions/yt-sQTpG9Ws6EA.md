@@ -9,7 +9,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Is that March date for Experimental?
 https://www.youtube.com/watch?v=sQTpG9Ws6EA
-This question was possibly duplicated with a more recent answer: [February 26th, 2021 Instagram AMA Q&A: Why does it go to Experimental first?](./yt-F-q3vfj__M4,31.36466666666667,80.08.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81)
+This question was possibly duplicated with a more recent answer: [February 26th, 2021 Videos Q&A: Why does it go to Experimental first?](./yt-F-q3vfj__M4,31.36466666666667,80.08.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81)
 
 
 ### Topics

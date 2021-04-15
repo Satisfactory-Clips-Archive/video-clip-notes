@@ -21,7 +21,7 @@ date: Last Modified
 ## March 30th, 2021 Livestream
 * [Community FYI: Doesn't feel like it](../transcriptions/yt-dgWl_-ze7S8.md) [https://www.youtube.com/watch?v=dgWl_-ze7S8](https://www.youtube.com/watch?v=dgWl_-ze7S8)
 
-## February 26th, 2021 Instagram AMA
+## February 26th, 2021 Videos
 * Q&A: Are there any plans for removing the poison spreading plants in Satisfactory? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4)
 
 ## February 16th, 2021 Livestream

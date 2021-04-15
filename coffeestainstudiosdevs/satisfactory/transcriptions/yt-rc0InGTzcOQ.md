@@ -9,7 +9,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Is the expected date relative to Early Access or Experimental?
 https://www.youtube.com/watch?v=rc0InGTzcOQ
-This question was possibly duplicated with a more recent answer: [February 26th, 2021 Instagram AMA Q&A: Why does it go to Experimental first?](./yt-F-q3vfj__M4,31.36466666666667,80.08.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81)
+This question was possibly duplicated with a more recent answer: [February 26th, 2021 Videos Q&A: Why does it go to Experimental first?](./yt-F-q3vfj__M4,31.36466666666667,80.08.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81)
 
 
 ### Topics

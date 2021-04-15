@@ -9,7 +9,7 @@ date: Last Modified
 * [Community FYI: Need more bacon](../../transcriptions/yt-ISfLwsCt-ug.md) [https://www.youtube.com/watch?v=ISfLwsCt-ug](https://www.youtube.com/watch?v=ISfLwsCt-ug)
 * [Q&A: So the Trees growing back is a bug?](../../transcriptions/yt-Snicf2PrIa4.md) [https://www.youtube.com/watch?v=Snicf2PrIa4](https://www.youtube.com/watch?v=Snicf2PrIa4)
 
-## February 26th, 2021 Instagram AMA
+## February 26th, 2021 Videos
 * Q&A: Are there any plans for removing the poison spreading plants in Satisfactory? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4)
 
 ## February 9th, 2021 Livestream

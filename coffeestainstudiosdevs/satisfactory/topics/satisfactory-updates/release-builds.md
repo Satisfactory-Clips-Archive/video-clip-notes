@@ -56,7 +56,7 @@ date: Last Modified
 ## March 2nd, 2021 Livestream
 * [Q&A: Is playing on Experimental dangerous?](../../transcriptions/yt-Ic1QshktIT4.md) [https://www.youtube.com/watch?v=Ic1QshktIT4](https://www.youtube.com/watch?v=Ic1QshktIT4)
 
-## February 26th, 2021 Instagram AMA
+## February 26th, 2021 Videos
 * [Q&A: I'm on Early Access, how do I get in on this Experimental stuff?](../../transcriptions/yt-F-q3vfj__M4,112.71260000000001,182.71586666666667.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183)
 * [Q&A: When's it going to be on Early Access?](../../transcriptions/yt-F-q3vfj__M4,80.08,112.71260000000001.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=80&end=113](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=80&end=113)
 * [Q&A: Why does it go to Experimental first?](../../transcriptions/yt-F-q3vfj__M4,31.36466666666667,80.08.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81)
