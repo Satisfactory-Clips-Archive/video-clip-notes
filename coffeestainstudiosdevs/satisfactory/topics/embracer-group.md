@@ -15,3 +15,6 @@ date: Last Modified
 
 ## November 17th, 2020 Livestream
 * [Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"](../transcriptions/yt-hCcT5uhzwso.md) [https://www.youtube.com/watch?v=hCcT5uhzwso](https://www.youtube.com/watch?v=hCcT5uhzwso)
+
+## November 16th, 2020 Embracer Group Video
+* [Intro](../transcriptions/yt-UT9iNA3WGT4,,54.28756666666667.md) [https://youtube.com/embed/UT9iNA3WGT4?autoplay=1&start=0&end=55](https://youtube.com/embed/UT9iNA3WGT4?autoplay=1&start=0&end=55)

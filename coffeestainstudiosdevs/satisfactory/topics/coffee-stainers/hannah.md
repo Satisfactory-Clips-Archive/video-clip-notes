@@ -31,6 +31,10 @@ date: Last Modified
 * [Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"](../../transcriptions/yt-hCcT5uhzwso.md) [https://www.youtube.com/watch?v=hCcT5uhzwso](https://www.youtube.com/watch?v=hCcT5uhzwso)
 * [Q&A: Who is Hannah?](../../transcriptions/yt-KwsiVfRUKNE.md) [https://www.youtube.com/watch?v=KwsiVfRUKNE](https://www.youtube.com/watch?v=KwsiVfRUKNE)
 
+## November 16th, 2020 Embracer Group Video
+* [Hannah Talk: How Hannah got into Game Development](../../transcriptions/yt-UT9iNA3WGT4,150.78396666666666,247.358898.md) [https://youtube.com/embed/UT9iNA3WGT4?autoplay=1&start=150&end=248](https://youtube.com/embed/UT9iNA3WGT4?autoplay=1&start=150&end=248)
+* [Hannah Talk: How Hannah joined Coffee Stain](../../transcriptions/yt-UT9iNA3WGT4,343.0760666666667,366.07956.md) [https://youtube.com/embed/UT9iNA3WGT4?autoplay=1&start=343&end=367](https://youtube.com/embed/UT9iNA3WGT4?autoplay=1&start=343&end=367)
+
 ## October 6th, 2020 Livestream
 * [Q&A: How is the World Building going?](../../transcriptions/yt-nFJUho2El3Y.md) [https://www.youtube.com/watch?v=nFJUho2El3Y](https://www.youtube.com/watch?v=nFJUho2El3Y)
 

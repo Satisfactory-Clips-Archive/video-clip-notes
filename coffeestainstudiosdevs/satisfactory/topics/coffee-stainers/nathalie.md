@@ -13,6 +13,10 @@ date: Last Modified
 ## November 17th, 2020 Livestream
 * [Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"](../../transcriptions/yt-hCcT5uhzwso.md) [https://www.youtube.com/watch?v=hCcT5uhzwso](https://www.youtube.com/watch?v=hCcT5uhzwso)
 
+## November 16th, 2020 Embracer Group Video
+* [Nathalie Talk: How Nathalie got into Game Development](../../transcriptions/yt-UT9iNA3WGT4,60.39366666666667,150.78396666666666.md) [https://youtube.com/embed/UT9iNA3WGT4?autoplay=1&start=60&end=151](https://youtube.com/embed/UT9iNA3WGT4?autoplay=1&start=60&end=151)
+* [Nathalie Talk: How Nathalie joined Coffee Stain](../../transcriptions/yt-UT9iNA3WGT4,311.51120000000003,343.0760666666667.md) [https://youtube.com/embed/UT9iNA3WGT4?autoplay=1&start=311&end=344](https://youtube.com/embed/UT9iNA3WGT4?autoplay=1&start=311&end=344)
+
 ## June 8th, 2020 Livestream
 * [Q&A: Are there any Dutch people in Coffee Stain?](../../transcriptions/yt-ZhrRG351PsI.md) [https://www.youtube.com/watch?v=ZhrRG351PsI](https://www.youtube.com/watch?v=ZhrRG351PsI)
 

@@ -4,6 +4,7 @@ date: Last Modified
 ---
 # [Coffee Stainers](./topics/coffee-stainers.md)
 * [Alex](./topics/coffee-stainers/alex.md)
+* [Anna](./topics/coffee-stainers/anna.md)
 * [Ben](./topics/coffee-stainers/ben.md)
 * [Birk](./topics/coffee-stainers/birk.md)
 * [Dylan](./topics/coffee-stainers/dylan.md)
