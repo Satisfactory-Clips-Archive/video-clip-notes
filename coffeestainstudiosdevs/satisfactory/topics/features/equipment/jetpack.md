@@ -29,6 +29,9 @@ date: Last Modified
 ## December 15th, 2020 Livestream
 * [Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?](../../../transcriptions/yt-pSGEDxxLn2E.md) [https://www.youtube.com/watch?v=pSGEDxxLn2E](https://www.youtube.com/watch?v=pSGEDxxLn2E)
 
+## October 1st, 2020 Q&A
+* [Q&A: Can we use Turbofuel in Jetpacks?](../../../transcriptions/yt-rATcozDE25c,476.04223333333334,527.5603666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528)
+
 ## September 22nd, 2020 Livestream
 * [Q&A: Any plans to add a Levitate option with Jetpacks?](../../../transcriptions/yt-_9P859YpEbE.md) [https://www.youtube.com/watch?v=_9P859YpEbE](https://www.youtube.com/watch?v=_9P859YpEbE)
 

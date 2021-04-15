@@ -95,6 +95,9 @@ date: Last Modified
 ## October 6th, 2020 Livestream
 * [Q&A: When are these Work In Progress (WIP) items going to be used?](../../../transcriptions/yt-bmRdzV3-wJI.md) [https://www.youtube.com/watch?v=bmRdzV3-wJI](https://www.youtube.com/watch?v=bmRdzV3-wJI)
 
+## October 1st, 2020 Q&A
+* [Q&A: Are there any plans beyond 1.0?](../../../transcriptions/yt-rATcozDE25c,86.3863,134.26746666666668.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=86&end=135](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=86&end=135)
+
 ## September 29th, 2020 Livestream
 * [Q&A: Does the Story come in 2021?](../../../transcriptions/yt-WAnckbn-EJ8.md) [https://www.youtube.com/watch?v=WAnckbn-EJ8](https://www.youtube.com/watch?v=WAnckbn-EJ8)
 * [Q&A: How much S.A.M. Ore should we stock up on?](../../../transcriptions/yt-vBGfC7j2AyI.md) [https://www.youtube.com/watch?v=vBGfC7j2AyI](https://www.youtube.com/watch?v=vBGfC7j2AyI)

@@ -11,9 +11,10 @@ topics:
 ## Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?
 https://www.youtube.com/watch?v=5Z5pyzNiaVY
 <details>
-<summary>This question may have been asked previously at least 1 other time, as recently as December 2020.</summary>
+<summary>This question may have been asked previously at least 2 other times, as recently as December 2020 and as early as October 2020.</summary>
 
 * [December 15th, 2020 Livestream Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?](./yt-pSGEDxxLn2E.md) [https://www.youtube.com/watch?v=pSGEDxxLn2E](https://www.youtube.com/watch?v=pSGEDxxLn2E)
+* [October 1st, 2020 Q&A: Can we use Turbofuel in Jetpacks?](./yt-rATcozDE25c,476.04223333333334,527.5603666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528)
 </details>
 
 

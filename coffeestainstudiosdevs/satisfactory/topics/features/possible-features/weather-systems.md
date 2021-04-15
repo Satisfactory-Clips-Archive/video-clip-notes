@@ -23,6 +23,9 @@ date: Last Modified
 ## October 13th, 2020 Livestream
 * [Q&A: Will one of the Quality of Life Updates be turning down the fog?](../../../transcriptions/yt-2AMBinmPITg.md) [https://www.youtube.com/watch?v=2AMBinmPITg](https://www.youtube.com/watch?v=2AMBinmPITg)
 
+## October 1st, 2020 Q&A
+* [Q&A: Will there be any environmental influences later on, like climate change or heatwave storms?](../../../transcriptions/yt-rATcozDE25c,390.9238666666667,429.5291.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=390&end=430](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=390&end=430)
+
 ## September 22nd, 2020 Livestream
 * [Q&A: Weather in Satisfactory?](../../../transcriptions/yt-Sxvg881RjeA.md) [https://www.youtube.com/watch?v=Sxvg881RjeA](https://www.youtube.com/watch?v=Sxvg881RjeA)
 

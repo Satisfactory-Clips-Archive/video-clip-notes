@@ -110,6 +110,10 @@ date: Last Modified
 * [Q&A: Is procedural hard to get balanced?](../../transcriptions/yt-aeBAgps_tnM.md) [https://www.youtube.com/watch?v=aeBAgps_tnM](https://www.youtube.com/watch?v=aeBAgps_tnM)
 * [Q&A: Map Editor?](../../transcriptions/yt-Oq4gGKBYHQI.md) [https://www.youtube.com/watch?v=Oq4gGKBYHQI](https://www.youtube.com/watch?v=Oq4gGKBYHQI)
 
+## October 1st, 2020 Q&A
+* [Q&A: Any new maps coming?](../../transcriptions/yt-rATcozDE25c,763.0623,781.3472333333333.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=763&end=782](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=763&end=782)
+* [Q&A: Are there any hidden parts of the map you think people haven't found?](../../transcriptions/yt-rATcozDE25c,261.52793333333335,305.83886666666666.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=261&end=306](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=261&end=306)
+
 ## September 29th, 2020 Livestream
 * [Q&A: Will the Map change for 1.0?](../../transcriptions/yt-5AsSss96Idw.md) [https://www.youtube.com/watch?v=5AsSss96Idw](https://www.youtube.com/watch?v=5AsSss96Idw)
 

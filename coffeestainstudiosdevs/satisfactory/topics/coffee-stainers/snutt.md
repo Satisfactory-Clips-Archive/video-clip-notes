@@ -166,6 +166,9 @@ date: Last Modified
 * [Q&A: Unit Tests FTW?](../../transcriptions/yt-8MbgpOLyXyY.md) [https://www.youtube.com/watch?v=8MbgpOLyXyY](https://www.youtube.com/watch?v=8MbgpOLyXyY)
 * [Snutt & Dylan Talk: Vulkan, Metal, OpenGL, and DirectX](../../transcriptions/yt-l26WNbPPzzI.md) [https://www.youtube.com/watch?v=l26WNbPPzzI](https://www.youtube.com/watch?v=l26WNbPPzzI)
 
+## October 1st, 2020 Q&A
+* [Q&A: What are the community managers' favourite dinosaurs?](../../transcriptions/yt-rATcozDE25c,823.1223,839.8723666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=823&end=840](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=823&end=840)
+
 ## August 25th, 2020 Livestream
 * [Snutt Talk: Fridge in the Hub](../../transcriptions/yt-0S3NrfwpV0c.md) [https://www.youtube.com/watch?v=0S3NrfwpV0c](https://www.youtube.com/watch?v=0S3NrfwpV0c)
 * [Snutt Talk: Snutt discovers the fridge](../../transcriptions/yt-AwfR7ExmwJ0.md) [https://www.youtube.com/watch?v=AwfR7ExmwJ0](https://www.youtube.com/watch?v=AwfR7ExmwJ0)

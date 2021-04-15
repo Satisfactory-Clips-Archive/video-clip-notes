@@ -13,6 +13,9 @@ date: Last Modified
 ## November 10th, 2020 Livestream
 * [Q&A: Any Easter Eggs nobody's found yet?](../transcriptions/yt-6z70mPmDc5g.md) [https://www.youtube.com/watch?v=6z70mPmDc5g](https://www.youtube.com/watch?v=6z70mPmDc5g)
 
+## October 1st, 2020 Q&A
+* [Q&A: Are there any hidden parts of the map you think people haven't found?](../transcriptions/yt-rATcozDE25c,261.52793333333335,305.83886666666666.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=261&end=306](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=261&end=306)
+
 ## August 25th, 2020 Livestream
 * [Q&A: We need some more Easter Egg hints from Hannah?](../transcriptions/yt-faI65v9Solc.md) [https://www.youtube.com/watch?v=faI65v9Solc](https://www.youtube.com/watch?v=faI65v9Solc)
 

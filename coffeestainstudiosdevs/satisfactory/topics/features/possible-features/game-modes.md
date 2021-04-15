@@ -37,6 +37,10 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * Q&A: The Map of the Dedicated Server, currently it doesn't have enough nodes for a Competitive map [https://www.youtube.com/watch?v=rtOmNkt5whw](https://www.youtube.com/watch?v=rtOmNkt5whw)
 
+## October 1st, 2020 Q&A
+* [Q&A: Can we get survival features added in a mode for those of us who want more of a challenge?](../../../transcriptions/yt-rATcozDE25c,309.87623333333335,354.5542.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=309&end=355](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=309&end=355)
+* [Q&A: Will there be a feature to allow multiple bases for competitive multiplayer?](../../../transcriptions/yt-rATcozDE25c,52.48576666666667,86.3863.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=52&end=87](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=52&end=87)
+
 ## September 22nd, 2020 Livestream
 * [Q&A: Hoping for Base Defence?](../../../transcriptions/yt-RjFIQhJY824.md) [https://www.youtube.com/watch?v=RjFIQhJY824](https://www.youtube.com/watch?v=RjFIQhJY824)
 

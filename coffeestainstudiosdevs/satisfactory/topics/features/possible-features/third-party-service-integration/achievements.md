@@ -16,6 +16,9 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * [Q&A: Are Steam Achievements going to be added in the future?](../../../../transcriptions/yt-Gi08SVnHyLU.md) [https://www.youtube.com/watch?v=Gi08SVnHyLU](https://www.youtube.com/watch?v=Gi08SVnHyLU)
 
+## October 1st, 2020 Q&A
+* [Q&A: Will there be achievements?](../../../../transcriptions/yt-rATcozDE25c,435.5351,476.04223333333334.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=435&end=477](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=435&end=477)
+
 ## September 29th, 2020 Livestream
 * [Q&A: Give us Steam Achievements already?](../../../../transcriptions/yt-9tNel2ksYnI.md) [https://www.youtube.com/watch?v=9tNel2ksYnI](https://www.youtube.com/watch?v=9tNel2ksYnI)
 

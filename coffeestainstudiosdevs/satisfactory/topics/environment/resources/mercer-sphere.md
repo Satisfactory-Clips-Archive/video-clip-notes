@@ -26,6 +26,9 @@ date: Last Modified
 ## October 6th, 2020 Livestream
 * [Q&A: When are these Work In Progress (WIP) items going to be used?](../../../transcriptions/yt-bmRdzV3-wJI.md) [https://www.youtube.com/watch?v=bmRdzV3-wJI](https://www.youtube.com/watch?v=bmRdzV3-wJI)
 
+## October 1st, 2020 Q&A
+* Q&A: What is the story with the Mercer Sphere? [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436)
+
 ## September 29th, 2020 Livestream
 * [Snutt Talk: WIP (Work In Progress) Items](../../../transcriptions/yt-ItHlbfIkVl4.md) [https://www.youtube.com/watch?v=ItHlbfIkVl4](https://www.youtube.com/watch?v=ItHlbfIkVl4)
 

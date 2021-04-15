@@ -50,6 +50,9 @@ date: Last Modified
 ## October 20th, 2020 Livestream
 * [Q&A: Can we train Lizard Doggos to feed Biomass into Generators?](../../../transcriptions/yt-CfUusHOKqcY.md) [https://www.youtube.com/watch?v=CfUusHOKqcY](https://www.youtube.com/watch?v=CfUusHOKqcY)
 
+## October 1st, 2020 Q&A
+* [Q&A: Will there be a 1:1 Lizard Doggo plushie?](../../../transcriptions/yt-rATcozDE25c,371.83813333333336,390.9238666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=371&end=391](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=371&end=391)
+
 ## September 22nd, 2020 Livestream
 * [Q&A: Do you guys have any plans for wrangling Lizard Doggos?](../../../transcriptions/yt-UjpXjYid5ng.md) [https://www.youtube.com/watch?v=UjpXjYid5ng](https://www.youtube.com/watch?v=UjpXjYid5ng)
 * [Q&A: Flying Lizard Doggos, when?](../../../transcriptions/yt-p-f_kfmUdR0.md) [https://www.youtube.com/watch?v=p-f_kfmUdR0](https://www.youtube.com/watch?v=p-f_kfmUdR0)

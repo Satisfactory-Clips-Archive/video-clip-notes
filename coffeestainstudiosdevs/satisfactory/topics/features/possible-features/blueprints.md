@@ -16,6 +16,9 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * [Q&A: Blueprints?](../../../transcriptions/yt-Vm5LIvY8TtA.md) [https://www.youtube.com/watch?v=Vm5LIvY8TtA](https://www.youtube.com/watch?v=Vm5LIvY8TtA)
 
+## October 1st, 2020 Q&A
+* [Q&A: Are there any plans to put a blueprint system in the game?](../../../transcriptions/yt-rATcozDE25c,538.5713666666667,591.3240666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=538&end=592](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=538&end=592)
+
 ## September 29th, 2020 Livestream
 * [Q&A: Will Blueprints be a thing at some point?](../../../transcriptions/yt-Ywq4zdWMiq8.md) [https://www.youtube.com/watch?v=Ywq4zdWMiq8](https://www.youtube.com/watch?v=Ywq4zdWMiq8)
 

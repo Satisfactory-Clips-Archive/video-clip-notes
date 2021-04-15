@@ -44,6 +44,10 @@ date: Last Modified
 * Q&A: Any plans to expand the Map / add new Biomes? [https://www.youtube.com/watch?v=oZhfgq9vdKg](https://www.youtube.com/watch?v=oZhfgq9vdKg)
 * [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](../../transcriptions/yt-IFxnvuYEVtk.md) [https://www.youtube.com/watch?v=IFxnvuYEVtk](https://www.youtube.com/watch?v=IFxnvuYEVtk)
 
+## October 1st, 2020 Q&A
+* [Q&A: Any plans to make more randomness like resources, start locations, other random world elements?](../../transcriptions/yt-rATcozDE25c,632.7321000000001,695.2278666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=632&end=696](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=632&end=696)
+* [Q&A: How do you guys feel about an underground biome?](../../transcriptions/yt-rATcozDE25c,1166.9324333333334,1212.1442666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=1166&end=1213](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=1166&end=1213)
+
 ## September 22nd, 2020 Livestream
 * [Q&A: Snowy Biome confirmed?](../../transcriptions/yt-Yend7bHTMvw.md) [https://www.youtube.com/watch?v=Yend7bHTMvw](https://www.youtube.com/watch?v=Yend7bHTMvw)
 

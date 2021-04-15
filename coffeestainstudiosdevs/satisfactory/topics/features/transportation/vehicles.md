@@ -74,6 +74,10 @@ date: Last Modified
 * [Jace & Snutt Talk: Unconventional usage of Vehicles](../../../transcriptions/yt-QSxbYoiwVIQ.md) [https://www.youtube.com/watch?v=QSxbYoiwVIQ](https://www.youtube.com/watch?v=QSxbYoiwVIQ)
 * [Q&A: Will the Resource Transportation get an update?](../../../transcriptions/yt-hKxm2Ps1UYY.md) [https://www.youtube.com/watch?v=hKxm2Ps1UYY](https://www.youtube.com/watch?v=hKxm2Ps1UYY)
 
+## October 1st, 2020 Q&A
+* [Q&A: Do you plan on adding something like roads, placeable similarly to rails but wider?](../../../transcriptions/yt-rATcozDE25c,936.7691666666667,972.8051666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=936&end=973](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=936&end=973)
+* [Q&A: Will there be vehicle optimization for co-op?](../../../transcriptions/yt-rATcozDE25c,600.6,632.7321000000001.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=600&end=633](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=600&end=633)
+
 ## September 22nd, 2020 Livestream
 * [Q&A: Boats will come?](../../../transcriptions/yt-33wha_duTqs.md) [https://www.youtube.com/watch?v=33wha_duTqs](https://www.youtube.com/watch?v=33wha_duTqs)
 

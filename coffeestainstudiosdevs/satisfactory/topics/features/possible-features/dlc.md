@@ -45,6 +45,9 @@ date: Last Modified
 ## October 20th, 2020 Livestream
 * [Q&A: Will we add DLC?](../../../transcriptions/yt-4VxcyGiOSHw.md) [https://www.youtube.com/watch?v=4VxcyGiOSHw](https://www.youtube.com/watch?v=4VxcyGiOSHw)
 
+## October 1st, 2020 Q&A
+* [Q&A: Are there any plans beyond 1.0?](../../../transcriptions/yt-rATcozDE25c,86.3863,134.26746666666668.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=86&end=135](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=86&end=135)
+
 ## September 22nd, 2020 Livestream
 * [Q&A: Where is the Toilet DLC?](../../../transcriptions/yt-unZciwmFlwA.md) [https://www.youtube.com/watch?v=unZciwmFlwA](https://www.youtube.com/watch?v=unZciwmFlwA)
 

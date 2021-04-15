@@ -46,6 +46,9 @@ date: Last Modified
 ## October 13th, 2020 Livestream
 * [Q&A: I want this to come to XBox Series X & Playstation 5](../../../transcriptions/yt-9NqrE4ASW9U.md) [https://www.youtube.com/watch?v=9NqrE4ASW9U](https://www.youtube.com/watch?v=9NqrE4ASW9U)
 
+## October 1st, 2020 Q&A
+* [Q&A: Is there any possibility it might come to PS4 and Xbox?](../../../transcriptions/yt-rATcozDE25c,163.83033333333333,261.52793333333335.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=163&end=262](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=163&end=262)
+
 ## September 15th, 2020 Livestream
 * [Q&A: Are you planning on porting the game to PS4?](../../../transcriptions/yt-0Zv9Qjp2fHI.md) [https://www.youtube.com/watch?v=0Zv9Qjp2fHI](https://www.youtube.com/watch?v=0Zv9Qjp2fHI)
 * [Q&A: Coming to Consoles?](../../../transcriptions/yt-09PyuqxekgU.md) [https://www.youtube.com/watch?v=09PyuqxekgU](https://www.youtube.com/watch?v=09PyuqxekgU)

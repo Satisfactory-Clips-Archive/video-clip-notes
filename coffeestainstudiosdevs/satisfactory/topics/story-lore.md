@@ -91,6 +91,9 @@ date: Last Modified
 * [Q&A: What is the Goal of this game?](../transcriptions/yt-fKNLebIdNpY.md) [https://www.youtube.com/watch?v=fKNLebIdNpY](https://www.youtube.com/watch?v=fKNLebIdNpY)
 * [Q&A: When are these Work In Progress (WIP) items going to be used?](../transcriptions/yt-bmRdzV3-wJI.md) [https://www.youtube.com/watch?v=bmRdzV3-wJI](https://www.youtube.com/watch?v=bmRdzV3-wJI)
 
+## October 1st, 2020 Q&A
+* [Q&A: Do you have a timeline on when you want to start implementing lore? Is it on the near horizon?](../transcriptions/yt-rATcozDE25c,137.0369,163.83033333333333.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=137&end=164](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=137&end=164)
+
 ## September 29th, 2020 Livestream
 * [Q&A: Does the Story come in 2021?](../transcriptions/yt-WAnckbn-EJ8.md) [https://www.youtube.com/watch?v=WAnckbn-EJ8](https://www.youtube.com/watch?v=WAnckbn-EJ8)
 * [Q&A: Giving people Solar, Wind, and Hydro means FICSIT gets more resources?](../transcriptions/yt-F212AWqzBVI.md) [https://www.youtube.com/watch?v=F212AWqzBVI](https://www.youtube.com/watch?v=F212AWqzBVI)

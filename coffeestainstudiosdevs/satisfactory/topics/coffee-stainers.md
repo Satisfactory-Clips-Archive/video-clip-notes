@@ -92,6 +92,9 @@ date: Last Modified
 * [Snutt & Dylan Talk: Crash reporting](../transcriptions/yt-1QDj7pJa9DQ.md) [https://www.youtube.com/watch?v=1QDj7pJa9DQ](https://www.youtube.com/watch?v=1QDj7pJa9DQ)
 * [Dylan & Snutt Talk: Visual Studio vs. Rider](../transcriptions/yt-hc2OfgQZCvA.md) [https://www.youtube.com/watch?v=hc2OfgQZCvA](https://www.youtube.com/watch?v=hc2OfgQZCvA)
 
+## October 1st, 2020 Q&A
+* [Q&A: What was your inspiration of making Satisfactory?](../transcriptions/yt-rATcozDE25c,354.5542,371.83813333333336.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=354&end=372](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=354&end=372)
+
 ## August 25th, 2020 Livestream
 * [Q&A: Are the Devs back from vacation?](../transcriptions/yt-dfHUHMQ9JQE.md) [https://www.youtube.com/watch?v=dfHUHMQ9JQE](https://www.youtube.com/watch?v=dfHUHMQ9JQE)
 * [Q&A: Train Signals?](../transcriptions/yt-WQH5cWS3s2s.md) [https://www.youtube.com/watch?v=WQH5cWS3s2s](https://www.youtube.com/watch?v=WQH5cWS3s2s)

@@ -112,6 +112,10 @@ date: Last Modified
 * [Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?](../../transcriptions/yt-KGmOM7dLT84.md) [https://www.youtube.com/watch?v=KGmOM7dLT84](https://www.youtube.com/watch?v=KGmOM7dLT84)
 * Q&A: When I play offline I get a second character? [https://www.youtube.com/watch?v=6EGahbkbK18](https://www.youtube.com/watch?v=6EGahbkbK18)
 
+## October 1st, 2020 Q&A
+* [Q&A: Will there be a feature to allow multiple bases for competitive multiplayer?](../../transcriptions/yt-rATcozDE25c,52.48576666666667,86.3863.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=52&end=87](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=52&end=87)
+* [Q&A: Will there be vehicle optimization for co-op?](../../transcriptions/yt-rATcozDE25c,600.6,632.7321000000001.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=600&end=633](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=600&end=633)
+
 ## September 22nd, 2020 Livestream
 * [Q&A: Does destroying trees & rocks make the game slower like making buildings?](../../transcriptions/yt-vOJIZQfzcUk.md) [https://www.youtube.com/watch?v=vOJIZQfzcUk](https://www.youtube.com/watch?v=vOJIZQfzcUk)
 * [Q&A: Is it better during a Multiplayer session to not destroy as many plants as possible?](../../transcriptions/yt-v0UZaH3mXh4.md) [https://www.youtube.com/watch?v=v0UZaH3mXh4](https://www.youtube.com/watch?v=v0UZaH3mXh4)

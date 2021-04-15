@@ -49,6 +49,9 @@ date: Last Modified
 * [Resource Wells](../../transcriptions/yt-Jxh8kvtUuxY,56.38966666666667,100.56713333333333.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101)
 * [Q&A: What will Gases be used for?](../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188)
 
+## October 1st, 2020 Q&A
+* [Q&A: Is the poisonous gas going to be hallucinogenic?](../../transcriptions/yt-rATcozDE25c,839.8723666666667,848.1473.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=839&end=849](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=839&end=849)
+
 ## August 25th, 2020 Livestream
 * [Q&A: Explosive Barrels of Gas we can send through the rail guns ?](../../transcriptions/yt-e4iY6zivsbU.md) [https://www.youtube.com/watch?v=e4iY6zivsbU](https://www.youtube.com/watch?v=e4iY6zivsbU)
 * [Q&A: Will Gas be in Update 4?](../../transcriptions/yt-ScNrW0Th3wg.md) [https://www.youtube.com/watch?v=ScNrW0Th3wg](https://www.youtube.com/watch?v=ScNrW0Th3wg)

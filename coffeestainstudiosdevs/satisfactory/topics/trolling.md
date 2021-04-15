@@ -110,6 +110,9 @@ date: Last Modified
 * [Trolling: There's going to be Coffee](../transcriptions/yt-r5daZccdDvM.md) [https://www.youtube.com/watch?v=r5daZccdDvM](https://www.youtube.com/watch?v=r5daZccdDvM)
 * [Trolling: This is an honest stream](../transcriptions/yt-L5L3kXz810E.md) [https://www.youtube.com/watch?v=L5L3kXz810E](https://www.youtube.com/watch?v=L5L3kXz810E)
 
+## October 1st, 2020 Q&A
+* Q&A: How many likes on this YouTube video for Jace to get fired? [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310)
+
 ## July 23rd, 2020 Video
 * [Jace Talk: #looking-for-group](../transcriptions/yt-JOBcS413hwY,94.46103333333333,120.3202.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=94&end=121](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=94&end=121)
 * [Jace Art: Coffee Machine](../transcriptions/yt-JOBcS413hwY,120.3202,194.3942.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=120&end=195](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=120&end=195)

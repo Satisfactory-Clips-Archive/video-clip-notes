@@ -25,6 +25,9 @@ date: Last Modified
 ## October 20th, 2020 Livestream
 * [Q&A: Any word on farming Pale Berries / Nuts / Bacon?](../../../transcriptions/yt-L1Ur5X7gVH8.md) [https://www.youtube.com/watch?v=L1Ur5X7gVH8](https://www.youtube.com/watch?v=L1Ur5X7gVH8)
 
+## October 1st, 2020 Q&A
+* [Q&A: Will you add cheese?](../../../transcriptions/yt-rATcozDE25c,905.4712333333333,936.7691666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=905&end=937](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=905&end=937)
+
 ## September 29th, 2020 Livestream
 * [Q&A: Would it be great to farm resources and trade with other planets?](../../../transcriptions/yt-qljHFWpwy10.md) [https://www.youtube.com/watch?v=qljHFWpwy10](https://www.youtube.com/watch?v=qljHFWpwy10)
 

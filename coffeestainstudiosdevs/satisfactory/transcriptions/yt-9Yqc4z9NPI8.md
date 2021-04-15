@@ -9,12 +9,13 @@ topics:
 ## Q&A: Blueprints, when?
 https://www.youtube.com/watch?v=9Yqc4z9NPI8
 <details>
-<summary>This question may have been asked previously at least 11 other times, as recently as February 2021 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 12 other times, as recently as February 2021 and as early as February 2019.</summary>
 
 * [February 23rd, 2021 Livestream Q&A: Any plans for Blueprint mode?](./yt-tJSLxVZ-sFg.md) [https://www.youtube.com/watch?v=tJSLxVZ-sFg](https://www.youtube.com/watch?v=tJSLxVZ-sFg)
 * November 17th, 2020 Livestream Q&A: Are you going to add any Template/Blueprint system? [https://www.youtube.com/watch?v=tkwKMTaTpV8](https://www.youtube.com/watch?v=tkwKMTaTpV8)
 * November 17th, 2020 Livestream Q&A: Can we have your opinion on Blueprints? [https://www.youtube.com/watch?v=0HoRmIFZq4Y](https://www.youtube.com/watch?v=0HoRmIFZq4Y)
 * [November 3rd, 2020 Livestream Q&A: Blueprints?](./yt-Vm5LIvY8TtA.md) [https://www.youtube.com/watch?v=Vm5LIvY8TtA](https://www.youtube.com/watch?v=Vm5LIvY8TtA)
+* [October 1st, 2020 Q&A: Are there any plans to put a blueprint system in the game?](./yt-rATcozDE25c,538.5713666666667,591.3240666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=538&end=592](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=538&end=592)
 * [September 29th, 2020 Livestream Q&A: Will Blueprints be a thing at some point?](./yt-Ywq4zdWMiq8.md) [https://www.youtube.com/watch?v=Ywq4zdWMiq8](https://www.youtube.com/watch?v=Ywq4zdWMiq8)
 * [September 15th, 2020 Livestream Q&A: Are there any plans for Blueprinting Buildings?](./yt--sQgPUaxR-Y.md) [https://www.youtube.com/watch?v=-sQgPUaxR-Y](https://www.youtube.com/watch?v=-sQgPUaxR-Y)
 * [September 1st, 2020 Livestream Q&A: Blueprints?](./yt-hpl23B1A0Qk.md) [https://www.youtube.com/watch?v=hpl23B1A0Qk](https://www.youtube.com/watch?v=hpl23B1A0Qk)

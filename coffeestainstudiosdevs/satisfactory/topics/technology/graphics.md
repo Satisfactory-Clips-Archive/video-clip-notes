@@ -106,6 +106,9 @@ date: Last Modified
 * [Q&A: Have Coffee Stain considered contributing the instanced spline mesh back to Unreal Engine?](../../transcriptions/yt-ny4PdCAnT9Q.md) [https://www.youtube.com/watch?v=ny4PdCAnT9Q](https://www.youtube.com/watch?v=ny4PdCAnT9Q)
 * [Q&A: What is the limit?](../../transcriptions/yt-Njv_PJT3B2g.md) [https://www.youtube.com/watch?v=Njv_PJT3B2g](https://www.youtube.com/watch?v=Njv_PJT3B2g)
 
+## October 1st, 2020 Q&A
+* [Q&A: Will there be more optimisation for our low end PCs, both GPU and CPU side?](../../transcriptions/yt-rATcozDE25c,854.7539,905.4712333333333.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=854&end=906](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=854&end=906)
+
 ## September 29th, 2020 Livestream
 * [Q&A: Enclosed Belts](../../transcriptions/yt-oLpv9B5-OjE.md) [https://www.youtube.com/watch?v=oLpv9B5-OjE](https://www.youtube.com/watch?v=oLpv9B5-OjE)
 * [Q&A: What about Mk. 6 Belts?](../../transcriptions/yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)

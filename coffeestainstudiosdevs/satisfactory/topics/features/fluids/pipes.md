@@ -63,6 +63,9 @@ date: Last Modified
 * [Q&A: How are the Fluids calculated in the Pipe?](../../../transcriptions/yt-nI5VJXbiGJw.md) [https://www.youtube.com/watch?v=nI5VJXbiGJw](https://www.youtube.com/watch?v=nI5VJXbiGJw)
 * [Dylan Talk: Instanced Splines (Part 15)](../../../transcriptions/yt-fJRZSb0W8mQ.md) [https://www.youtube.com/watch?v=fJRZSb0W8mQ](https://www.youtube.com/watch?v=fJRZSb0W8mQ)
 
+## October 1st, 2020 Q&A
+* [Q&A: Will you add Pipes?](../../../transcriptions/yt-rATcozDE25c,527.5603666666667,538.5713666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=527&end=539](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=527&end=539)
+
 ## September 29th, 2020 Livestream
 * [Q&A: Add a Tape Measure or something to gauge distance between two objects?](../../../transcriptions/yt--hFvijwVlSQ.md) [https://www.youtube.com/watch?v=-hFvijwVlSQ](https://www.youtube.com/watch?v=-hFvijwVlSQ)
 

@@ -10,7 +10,7 @@ topics:
 ## Q&A: Will there be more creatures ever?
 https://www.youtube.com/watch?v=hKlILzyla-Y
 <details>
-<summary>This question may have been asked previously at least 21 other times, as recently as March 2021 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 22 other times, as recently as March 2021 and as early as March 2019.</summary>
 
 * March 16th, 2021 Livestream Q&A: Giant Crab? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=779&end=790](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=779&end=790)
 * [March 2nd, 2021 Livestream Q&A: Any new Animals?](./yt-c5EEG5MrTF0.md) [https://www.youtube.com/watch?v=c5EEG5MrTF0](https://www.youtube.com/watch?v=c5EEG5MrTF0)
@@ -23,6 +23,7 @@ https://www.youtube.com/watch?v=hKlILzyla-Y
 * [November 3rd, 2020 Livestream Q&A: Are there going to be new Creatures?](./yt-c3jeZv_aYug.md) [https://www.youtube.com/watch?v=c3jeZv_aYug](https://www.youtube.com/watch?v=c3jeZv_aYug)
 * [October 20th, 2020 Livestream Q&A: Will Aliens become more diverse/actually challenging?](./yt-K7fDE5Dg570.md) [https://www.youtube.com/watch?v=K7fDE5Dg570](https://www.youtube.com/watch?v=K7fDE5Dg570)
 * [October 6th, 2020 Livestream Q&A: When do we get the Crab Boss?](./yt-m4PtschrKJc.md) [https://www.youtube.com/watch?v=m4PtschrKJc](https://www.youtube.com/watch?v=m4PtschrKJc)
+* [October 1st, 2020 Q&A: What about the giant crab in the trailer, can we get that?](./yt-rATcozDE25c,591.3240666666667,600.6.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=591&end=601](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=591&end=601)
 * [September 22nd, 2020 Livestream Q&A: Will there be more creatures?](./yt-Yzd466gO44M.md) [https://www.youtube.com/watch?v=Yzd466gO44M](https://www.youtube.com/watch?v=Yzd466gO44M)
 * [September 15th, 2020 Livestream Q&A: Are we ever going to see a new enemy type?](./yt-Kxq543wzKcY.md) [https://www.youtube.com/watch?v=Kxq543wzKcY](https://www.youtube.com/watch?v=Kxq543wzKcY)
 * [September 15th, 2020 Livestream Q&A: Will you add any Monsters/Bosses in the future?](./yt-D_BVMiGNvqI.md) [https://www.youtube.com/watch?v=D_BVMiGNvqI](https://www.youtube.com/watch?v=D_BVMiGNvqI)

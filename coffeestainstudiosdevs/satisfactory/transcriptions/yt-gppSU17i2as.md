@@ -9,9 +9,10 @@ topics:
 ## Q&A: Does the dev team have any ideas for post-launch content?
 https://www.youtube.com/watch?v=gppSU17i2as
 <details>
-<summary>This question may have been asked previously at least 6 other times, as recently as November 2020 and as early as June 2018.</summary>
+<summary>This question may have been asked previously at least 7 other times, as recently as November 2020 and as early as June 2018.</summary>
 
 * [November 3rd, 2020 Livestream Q&A: Will there be DLCs?](./yt--f-E47s74Uw.md) [https://www.youtube.com/watch?v=-f-E47s74Uw](https://www.youtube.com/watch?v=-f-E47s74Uw)
+* [October 1st, 2020 Q&A: Are there any plans beyond 1.0?](./yt-rATcozDE25c,86.3863,134.26746666666668.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=86&end=135](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=86&end=135)
 * [September 1st, 2020 Livestream Q&A: How long will the game be supported?](./yt-y_dM0ukYioo.md) [https://www.youtube.com/watch?v=y_dM0ukYioo](https://www.youtube.com/watch?v=y_dM0ukYioo)
 * August 18th, 2020 Livestream Q&A: Is 1.0 the end of the game or will it be expanded? [https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace](https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace)
 * [January 22nd, 2020 Livestream Q&A: Will there be DLC after 1.0?](./yt-FHqvzjGbhvg.md) [https://www.youtube.com/watch?v=FHqvzjGbhvg](https://www.youtube.com/watch?v=FHqvzjGbhvg)

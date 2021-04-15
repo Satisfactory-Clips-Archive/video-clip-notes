@@ -164,6 +164,13 @@ date: Last Modified
 ## November 10th, 2020 Livestream
 * [Q&A: Who in Coffee Stain Studios is the best Factory Builder?](../../transcriptions/yt-ypN9OtMd7YU.md) [https://www.youtube.com/watch?v=ypN9OtMd7YU](https://www.youtube.com/watch?v=ypN9OtMd7YU)
 
+## October 1st, 2020 Q&A
+* Q&A: How's life? [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=695&end=697](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=695&end=697)
+* Q&A: How are you? [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=134&end=138](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=134&end=138)
+* Q&A: How many likes on this YouTube video for Jace to get fired? [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310)
+* [Q&A: What are the community managers' favourite dinosaurs?](../../transcriptions/yt-rATcozDE25c,823.1223,839.8723666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=823&end=840](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=823&end=840)
+* [Q&A: Will there be a Jace poster?](../../transcriptions/yt-rATcozDE25c,1119.4850333333334,1132.131.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=1119&end=1133](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=1119&end=1133)
+
 ## August 25th, 2020 Livestream
 * [Q&A: Have you played Infinifactory?](../../transcriptions/yt-QC5TQ6iL8sg.md) [https://www.youtube.com/watch?v=QC5TQ6iL8sg](https://www.youtube.com/watch?v=QC5TQ6iL8sg)
 * Q&A: nodismantle% ? [https://www.youtube.com/watch?v=IT0T0C6u97A](https://www.youtube.com/watch?v=IT0T0C6u97A)

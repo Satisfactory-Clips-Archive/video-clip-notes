@@ -76,6 +76,10 @@ date: Last Modified
 ## October 6th, 2020 Livestream
 * [Q&A: Any Update on Merch shipping alternatives?](../transcriptions/yt-kj_vdE5-CEI.md) [https://www.youtube.com/watch?v=kj_vdE5-CEI](https://www.youtube.com/watch?v=kj_vdE5-CEI)
 
+## October 1st, 2020 Q&A
+* [Q&A: Will there be a 1:1 Lizard Doggo plushie?](../transcriptions/yt-rATcozDE25c,371.83813333333336,390.9238666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=371&end=391](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=371&end=391)
+* [Q&A: Will there be a Jace poster?](../transcriptions/yt-rATcozDE25c,1119.4850333333334,1132.131.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=1119&end=1133](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=1119&end=1133)
+
 ## September 29th, 2020 Livestream
 * [Q&A: Merch - The Cup](../transcriptions/yt-YhiTxpNy9Ao.md) [https://www.youtube.com/watch?v=YhiTxpNy9Ao](https://www.youtube.com/watch?v=YhiTxpNy9Ao)
 

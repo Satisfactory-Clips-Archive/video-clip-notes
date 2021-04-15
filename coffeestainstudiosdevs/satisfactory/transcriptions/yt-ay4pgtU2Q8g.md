@@ -8,6 +8,12 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can you add Road Foundations?
 https://www.youtube.com/watch?v=ay4pgtU2Q8g
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as October 2020.</summary>
+
+* [October 1st, 2020 Q&A: Do you plan on adding something like roads, placeable similarly to rails but wider?](./yt-rATcozDE25c,936.7691666666667,972.8051666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=936&end=973](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=936&end=973)
+</details>
+
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)

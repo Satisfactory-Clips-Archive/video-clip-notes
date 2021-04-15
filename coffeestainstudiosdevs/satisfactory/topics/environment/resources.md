@@ -81,6 +81,9 @@ date: Last Modified
 ## October 6th, 2020 Livestream
 * [Q&A: Will the Resource Transportation get an update?](../../transcriptions/yt-hKxm2Ps1UYY.md) [https://www.youtube.com/watch?v=hKxm2Ps1UYY](https://www.youtube.com/watch?v=hKxm2Ps1UYY)
 
+## October 1st, 2020 Q&A
+* [Q&A: Any plans to make more randomness like resources, start locations, other random world elements?](../../transcriptions/yt-rATcozDE25c,632.7321000000001,695.2278666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=632&end=696](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=632&end=696)
+
 ## September 15th, 2020 Livestream
 * [Q&A: Adjustable Scanner so when you scan for nodes it doesn't show ones that have a Miner on them.](../../transcriptions/yt-goLJr05seZs.md) [https://www.youtube.com/watch?v=goLJr05seZs](https://www.youtube.com/watch?v=goLJr05seZs)
 

@@ -11,8 +11,9 @@ topics:
 ## Q&A: What about Multiplayer Vehicle de-sync?
 https://www.youtube.com/watch?v=JpSV5eDGEJw
 <details>
-<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+<summary>This question may have been asked previously at least 2 other times, as recently as October 2020 and as early as September 2020.</summary>
 
+* [October 1st, 2020 Q&A: Will there be vehicle optimization for co-op?](./yt-rATcozDE25c,600.6,632.7321000000001.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=600&end=633](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=600&end=633)
 * [September 1st, 2020 Livestream Q&A: Maybe it's a good idea to dynamically hand over authority a vehicle in multiplayer?](./yt-Xdrr6IazPTg.md) [https://www.youtube.com/watch?v=Xdrr6IazPTg](https://www.youtube.com/watch?v=Xdrr6IazPTg)
 </details>
 

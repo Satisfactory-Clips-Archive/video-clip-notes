@@ -9,10 +9,11 @@ topics:
 ## Q&A: Is the game going to have a big Story?
 https://www.youtube.com/watch?v=S-o-0uuZUDo
 <details>
-<summary>This question may have been asked previously at least 14 other times, as recently as February 2021 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 15 other times, as recently as February 2021 and as early as February 2019.</summary>
 
 * [February 9th, 2021 Livestream Q&A: Can you give us a teaser for what the Story will be, or is there a YouTube video?](./yt-SLOMxmF6MKc.md) [https://www.youtube.com/watch?v=SLOMxmF6MKc](https://www.youtube.com/watch?v=SLOMxmF6MKc)
 * [November 3rd, 2020 Livestream Q&A: Can you give us a hint about the Story of the game?](./yt-gZoINqh_HAY.md) [https://www.youtube.com/watch?v=gZoINqh_HAY](https://www.youtube.com/watch?v=gZoINqh_HAY)
+* [October 1st, 2020 Q&A: Do you have a timeline on when you want to start implementing lore? Is it on the near horizon?](./yt-rATcozDE25c,137.0369,163.83033333333333.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=137&end=164](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=137&end=164)
 * [September 29th, 2020 Livestream Q&A: Does the Story come in 2021?](./yt-WAnckbn-EJ8.md) [https://www.youtube.com/watch?v=WAnckbn-EJ8](https://www.youtube.com/watch?v=WAnckbn-EJ8)
 * [September 22nd, 2020 Livestream Q&A: Are there going to be Lore teasers in the Game before launch?](./yt-ANDFv21tydY.md) [https://www.youtube.com/watch?v=ANDFv21tydY](https://www.youtube.com/watch?v=ANDFv21tydY)
 * [September 22nd, 2020 Livestream Q&A: Will the Story be released as a book/comic ?](./yt-ZET0XD704JA.md) [https://www.youtube.com/watch?v=ZET0XD704JA](https://www.youtube.com/watch?v=ZET0XD704JA)

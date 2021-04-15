@@ -63,6 +63,9 @@ date: Last Modified
 * [Q&A: Plans for small Hub storage container?](../../../transcriptions/yt-05RIKX2c9o0.md) [https://www.youtube.com/watch?v=05RIKX2c9o0](https://www.youtube.com/watch?v=05RIKX2c9o0)
 * [Q&A: When is the Hub bed going to work like the Minecraft one?](../../../transcriptions/yt-9o02HnPy5cY.md) [https://www.youtube.com/watch?v=9o02HnPy5cY](https://www.youtube.com/watch?v=9o02HnPy5cY)
 
+## October 1st, 2020 Q&A
+* [Q&A: Will there be a feature to allow multiple bases for competitive multiplayer?](../../../transcriptions/yt-rATcozDE25c,52.48576666666667,86.3863.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=52&end=87](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=52&end=87)
+
 ## September 15th, 2020 Livestream
 * [Q&A: Can we have a natural healing area in the Hub?](../../../transcriptions/yt-yhi19PhUzkE.md) [https://www.youtube.com/watch?v=yhi19PhUzkE](https://www.youtube.com/watch?v=yhi19PhUzkE)
 

@@ -121,6 +121,9 @@ date: Last Modified
 * [Q&A: Will the Update work with old worlds?](../../../transcriptions/yt-bsn3QpMW06Q.md) [https://www.youtube.com/watch?v=bsn3QpMW06Q](https://www.youtube.com/watch?v=bsn3QpMW06Q)
 * [Q&A: Will we have to redo Pipe systems with the new Update?](../../../transcriptions/yt-7r2YUHrQyB8.md) [https://www.youtube.com/watch?v=7r2YUHrQyB8](https://www.youtube.com/watch?v=7r2YUHrQyB8)
 
+## October 1st, 2020 Q&A
+* [Q&A: What will the next update have?](../../../transcriptions/yt-rATcozDE25c,1062.4280333333334,1119.4850333333334.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=1062&end=1120](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=1062&end=1120)
+
 ## September 29th, 2020 Livestream
 * [Jace & Snutt Talk: State of Dev](../../../transcriptions/yt-Hmjj9ZzqVhQ.md) [https://www.youtube.com/watch?v=Hmjj9ZzqVhQ](https://www.youtube.com/watch?v=Hmjj9ZzqVhQ)
 

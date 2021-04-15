@@ -36,6 +36,9 @@ date: Last Modified
 * [Q&A: When do we get the Crab Boss?](../../../transcriptions/yt-m4PtschrKJc.md) [https://www.youtube.com/watch?v=m4PtschrKJc](https://www.youtube.com/watch?v=m4PtschrKJc)
 * [Q&A: Will the Crab Boss be flying or ground-bound?](../../../transcriptions/yt-SoejWWEwmcI.md) [https://www.youtube.com/watch?v=SoejWWEwmcI](https://www.youtube.com/watch?v=SoejWWEwmcI)
 
+## October 1st, 2020 Q&A
+* [Q&A: What about the giant crab in the trailer, can we get that?](../../../transcriptions/yt-rATcozDE25c,591.3240666666667,600.6.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=591&end=601](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=591&end=601)
+
 ## September 22nd, 2020 Livestream
 * [Q&A: Will there be more creatures?](../../../transcriptions/yt-Yzd466gO44M.md) [https://www.youtube.com/watch?v=Yzd466gO44M](https://www.youtube.com/watch?v=Yzd466gO44M)
 

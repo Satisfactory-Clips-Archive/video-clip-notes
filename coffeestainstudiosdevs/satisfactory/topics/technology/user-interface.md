@@ -133,6 +133,9 @@ date: Last Modified
 * [Q&A: Is there a way to deposit all of the same material?](../../transcriptions/yt-WCqChz4xFWg.md) [https://www.youtube.com/watch?v=WCqChz4xFWg](https://www.youtube.com/watch?v=WCqChz4xFWg)
 * [Q&A: What's the max amount of body slots?](../../transcriptions/yt-aPWXjH-Xf1o.md) [https://www.youtube.com/watch?v=aPWXjH-Xf1o](https://www.youtube.com/watch?v=aPWXjH-Xf1o)
 
+## October 1st, 2020 Q&A
+* [Q&A: Can we use Turbofuel in Jetpacks?](../../transcriptions/yt-rATcozDE25c,476.04223333333334,527.5603666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528)
+
 ## September 29th, 2020 Livestream
 * [Q&A: Add a Tape Measure or something to gauge distance between two objects?](../../transcriptions/yt--hFvijwVlSQ.md) [https://www.youtube.com/watch?v=-hFvijwVlSQ](https://www.youtube.com/watch?v=-hFvijwVlSQ)
 

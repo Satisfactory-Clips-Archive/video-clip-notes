@@ -47,6 +47,9 @@ date: Last Modified
 ## October 13th, 2020 Livestream
 * [Q&A: Is the Pioneer a human?](../../transcriptions/yt-I0al2jSp_Rk.md) [https://www.youtube.com/watch?v=I0al2jSp_Rk](https://www.youtube.com/watch?v=I0al2jSp_Rk)
 
+## October 1st, 2020 Q&A
+* [Q&A: What was the thought process behind the design of the engineer, will we see character creation?](../../transcriptions/yt-rATcozDE25c,781.3472333333333,823.1223.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=781&end=824](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=781&end=824)
+
 ## September 8th, 2020 Livestream
 * [Q&A: Cosmetics for the Pioneer or even Lizard Doggo?](../../transcriptions/yt-wFKmvfIOuCY.md) [https://www.youtube.com/watch?v=wFKmvfIOuCY](https://www.youtube.com/watch?v=wFKmvfIOuCY)
 

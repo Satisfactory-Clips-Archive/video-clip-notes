@@ -10,9 +10,10 @@ topics:
 ## Q&A: Lizard Doggo plushie?
 https://www.youtube.com/watch?v=FlOFnqAw5go
 <details>
-<summary>This question may have been asked previously at least 5 other times, as recently as January 2021 and as early as June 2018.</summary>
+<summary>This question may have been asked previously at least 6 other times, as recently as January 2021 and as early as June 2018.</summary>
 
 * [January 26th, 2021 Livestream Q&A: Plush?](./yt-svSLbvLwSxQ.md) [https://www.youtube.com/watch?v=svSLbvLwSxQ](https://www.youtube.com/watch?v=svSLbvLwSxQ)
+* [October 1st, 2020 Q&A: Will there be a 1:1 Lizard Doggo plushie?](./yt-rATcozDE25c,371.83813333333336,390.9238666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=371&end=391](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=371&end=391)
 * August 11th, 2020 Livestream Q&A: Lizard Doggo Plushies [https://clips.twitch.tv/TolerantPunchyNewtJKanStyle](https://clips.twitch.tv/TolerantPunchyNewtJKanStyle)
 * [February 11th, 2020 Livestream Q&A: Lizard Doggo plushies?](./yt-SFZCi_HshCE.md) [https://www.youtube.com/watch?v=SFZCi_HshCE](https://www.youtube.com/watch?v=SFZCi_HshCE)
 * [March 9th, 2019 Livestream Q&A: Lizard Doggo plushie when?](./yt-jGiN1SdQOFk.md) [https://www.youtube.com/watch?v=jGiN1SdQOFk](https://www.youtube.com/watch?v=jGiN1SdQOFk)

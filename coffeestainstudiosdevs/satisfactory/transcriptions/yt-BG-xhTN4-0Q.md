@@ -10,8 +10,9 @@ topics:
 ## Q&A: How did you come up with the idea of making Satisfactory?
 https://www.youtube.com/watch?v=BG-xhTN4-0Q
 <details>
-<summary>This question may have been asked previously at least 1 other time, as recently as March 2019.</summary>
+<summary>This question may have been asked previously at least 2 other times, as recently as October 2020 and as early as March 2019.</summary>
 
+* [October 1st, 2020 Q&A: What was your inspiration of making Satisfactory?](./yt-rATcozDE25c,354.5542,371.83813333333336.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=354&end=372](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=354&end=372)
 * [March 9th, 2019 Livestream Q&A: Who suggested to build factory game?](./yt-AyPcl_Vs2D4.md) [https://www.youtube.com/watch?v=AyPcl_Vs2D4](https://www.youtube.com/watch?v=AyPcl_Vs2D4)
 </details>
 

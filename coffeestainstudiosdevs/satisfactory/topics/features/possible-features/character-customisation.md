@@ -32,6 +32,9 @@ date: Last Modified
 ## October 20th, 2020 Livestream
 * [Q&A: Are there plans for Character Customisation?](../../../transcriptions/yt-LAR8rVCHVmw.md) [https://www.youtube.com/watch?v=LAR8rVCHVmw](https://www.youtube.com/watch?v=LAR8rVCHVmw)
 
+## October 1st, 2020 Q&A
+* [Q&A: What was the thought process behind the design of the engineer, will we see character creation?](../../../transcriptions/yt-rATcozDE25c,781.3472333333333,823.1223.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=781&end=824](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=781&end=824)
+
 ## September 8th, 2020 Livestream
 * [Q&A: Are you going to be able to change characters?](../../../transcriptions/yt-GymA7otvYYo.md) [https://www.youtube.com/watch?v=GymA7otvYYo](https://www.youtube.com/watch?v=GymA7otvYYo)
 

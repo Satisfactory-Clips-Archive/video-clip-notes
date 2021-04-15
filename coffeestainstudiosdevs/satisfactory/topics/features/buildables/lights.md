@@ -45,6 +45,9 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * [Q&A: Can you put in Lights, please?](../../../transcriptions/yt-7dm8Lvfj8Ao.md) [https://www.youtube.com/watch?v=7dm8Lvfj8Ao](https://www.youtube.com/watch?v=7dm8Lvfj8Ao)
 
+## October 1st, 2020 Q&A
+* [Q&A: What about lights or sleeping through the night?](../../../transcriptions/yt-rATcozDE25c,972.8051666666667,1062.4280333333334.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=972&end=1063](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=972&end=1063)
+
 ## September 22nd, 2020 Livestream
 * [Q&A: How about lighting?](../../../transcriptions/yt-WDfN-WpIJXY.md) [https://www.youtube.com/watch?v=WDfN-WpIJXY](https://www.youtube.com/watch?v=WDfN-WpIJXY)
 

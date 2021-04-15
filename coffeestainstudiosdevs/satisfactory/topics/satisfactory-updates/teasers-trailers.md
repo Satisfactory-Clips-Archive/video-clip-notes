@@ -95,6 +95,9 @@ date: Last Modified
 ## October 6th, 2020 Livestream
 * [Q&A: Did we release any information on what's expected next update?](../../transcriptions/yt-IzylVFY2kIg.md) [https://www.youtube.com/watch?v=IzylVFY2kIg](https://www.youtube.com/watch?v=IzylVFY2kIg)
 
+## October 1st, 2020 Q&A
+* [Q&A: What about the giant crab in the trailer, can we get that?](../../transcriptions/yt-rATcozDE25c,591.3240666666667,600.6.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=591&end=601](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=591&end=601)
+
 ## September 1st, 2020 Livestream
 * [Q&A: Will we have a Content teaser?](../../transcriptions/yt-mybTuUCtTMY.md) [https://www.youtube.com/watch?v=mybTuUCtTMY](https://www.youtube.com/watch?v=mybTuUCtTMY)
 
