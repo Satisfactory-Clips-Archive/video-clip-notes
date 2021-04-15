@@ -77,6 +77,7 @@ layout: index
 * [June 8th](2020-06-08.md)
 
 ## May
+* [May 22nd](2020-05-22.md)
 * [May 19th](2020-05-19.md)
 * [May 15th](2020-05-15.md)
 
