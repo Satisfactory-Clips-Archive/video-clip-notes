@@ -5,9 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Snutt's Beard & Beanie [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=497&end=550](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=497&end=550)
-* Snutt Talk: Snutt hasn't had time for lunch [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1227&end=1281](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1227&end=1281)
-* Q&A: What're your plans for dinner? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1461&end=1530](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1461&end=1530)
+* Snutt Talk: Snutt's Beard & Beanie [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=775&end=828](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=775&end=828)
+* Snutt Talk: Snutt hasn't had time for lunch [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1505&end=1559](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1505&end=1559)
+* Q&A: What're your plans for dinner? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1739&end=1808](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1739&end=1808)
 
 ## April 6th, 2021 Livestream
 * [Q&A: What kind of things do you learn from the gameplay stats that you gather?](../../transcriptions/yt-Xp4cDuSRMMs.md) [https://www.youtube.com/watch?v=Xp4cDuSRMMs](https://www.youtube.com/watch?v=Xp4cDuSRMMs)

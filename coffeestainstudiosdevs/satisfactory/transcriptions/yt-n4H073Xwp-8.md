@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: When is Update 5?
 https://www.youtube.com/watch?v=n4H073Xwp-8
-This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: When is Update 5? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6309&end=6333](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6309&end=6333)
+This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: When is Update 5? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6587&end=6611](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6587&end=6611)
 
 
 ### Topics

@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1555&end=1767](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1555&end=1767)
+* Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045)
 
 ## April 6th, 2021 Livestream
 * [Snutt Talk: No Community Highlights this week](../../transcriptions/yt-1JS5FcXY1xU.md) [https://www.youtube.com/watch?v=1JS5FcXY1xU](https://www.youtube.com/watch?v=1JS5FcXY1xU)

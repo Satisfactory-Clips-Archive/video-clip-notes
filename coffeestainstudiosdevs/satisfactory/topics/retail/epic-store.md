@@ -6,8 +6,8 @@ date: Last Modified
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Epic Store Support-a-creator revenue share [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4074&end=4144](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4074&end=4144)
-* Snutt Talk: Schedule Reitereation & Store Discounts [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=3958&end=4075](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=3958&end=4075)
+* Snutt Talk: Epic Store Support-a-creator revenue share [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4352&end=4422](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4352&end=4422)
+* Snutt Talk: Schedule Reitereation & Store Discounts [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4236&end=4353](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4236&end=4353)
 
 ## April 6th, 2021 Livestream
 * [State of Dev: Cloud Sync on Experimental branch for Epic Store disabled](../../transcriptions/yt-eAmIT8FuZdM.md) [https://www.youtube.com/watch?v=eAmIT8FuZdM](https://www.youtube.com/watch?v=eAmIT8FuZdM)

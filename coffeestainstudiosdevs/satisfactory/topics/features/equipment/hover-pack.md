@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
 ## April 13th, 2021 Livestream
-* Q&A: Hover Pack, why not Tier 6? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6678&end=6690](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6678&end=6690)
+* Q&A: Hover Pack, why not Tier 6? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968)
 
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Hover Pack rebalance](../../../transcriptions/yt-0sIdZWKvt5w.md) [https://www.youtube.com/watch?v=0sIdZWKvt5w](https://www.youtube.com/watch?v=0sIdZWKvt5w)

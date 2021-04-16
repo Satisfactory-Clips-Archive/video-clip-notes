@@ -5,7 +5,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Cheatcrete [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6181&end=6282](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6181&end=6282)
+* Snutt Talk: Cheatcrete [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6459&end=6560](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6459&end=6560)
 
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Cheatcrete, Build Modes, and clipping](../../../transcriptions/yt-RtBNa7oGJiI.md) [https://www.youtube.com/watch?v=RtBNa7oGJiI](https://www.youtube.com/watch?v=RtBNa7oGJiI)

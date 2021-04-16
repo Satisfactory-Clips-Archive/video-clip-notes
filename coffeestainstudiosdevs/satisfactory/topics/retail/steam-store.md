@@ -6,8 +6,8 @@ date: Last Modified
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Schedule Reitereation & Store Discounts [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=3958&end=4075](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=3958&end=4075)
-* Snutt Talk: Verify your game files before checking the QA site [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1108&end=1167](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1108&end=1167)
+* Snutt Talk: Schedule Reitereation & Store Discounts [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4236&end=4353](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4236&end=4353)
+* Snutt Talk: Verify your game files before checking the QA site [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1386&end=1445](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1386&end=1445)
 
 ## April 6th, 2021 Livestream
 * Q&A: How to reset the Steam/EOS Link? [https://www.youtube.com/watch?v=7H6bpfUJH84](https://www.youtube.com/watch?v=7H6bpfUJH84)
