@@ -87,3 +87,8 @@ date: Last Modified
 
 ## November 8th, 2018 Dev Blog
 * [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516)
+
+## August 15th, 2018 Video
+* Sofi Talk: Character Concept Art [https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C155.08%2C183.72](https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C155.08%2C183.72)
+* Sofi Talk: Pioneer Concept Art (Part 1) [https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C55.48%2C114.64](https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C55.48%2C114.64)
+* Sofi Talk: Pioneer Concept Art (Part 2) [https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C205.52%2C300.84](https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C205.52%2C300.84)

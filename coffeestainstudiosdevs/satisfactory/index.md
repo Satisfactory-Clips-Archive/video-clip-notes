@@ -167,6 +167,7 @@ layout: index
 * [September 12th](2018-09-12.md)
 
 ## August
+* [August 15th](2018-08-15.md)
 * [August 1st](2018-08-01.md)
 
 ## July
