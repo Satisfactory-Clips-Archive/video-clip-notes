@@ -148,6 +148,10 @@ date: Last Modified
 ## June 7th, 2019 Video
 * [Jace Talk: Coffee Stain's trepidation over Satisfactory launch](../transcriptions/yt-RvKmQs6m_iY,120.22,229.36.md) [https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=120&end=230](https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=120&end=230)
 
+## May 24th, 2019 Video
+* [Kristoffer Talk: Amount of animation in Satisfactory](../transcriptions/yt-fI7gnbG4Omk,35,73.6.md) [https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=35&end=74](https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=35&end=74)
+* [Kristoffer Talk: Collaborating with other Coffee Stainers](../transcriptions/yt-fI7gnbG4Omk,172.62,243.56.md) [https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=172&end=244](https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=172&end=244)
+
 ## March 9th, 2019 Livestream
 * [Q&A: But do they take your opinion (about steam) serious?](../transcriptions/yt-sZDS8dOdyvQ.md) [https://www.youtube.com/watch?v=sZDS8dOdyvQ](https://www.youtube.com/watch?v=sZDS8dOdyvQ)
 * [Q&A: Who suggested to build factory game?](../transcriptions/yt-AyPcl_Vs2D4.md) [https://www.youtube.com/watch?v=AyPcl_Vs2D4](https://www.youtube.com/watch?v=AyPcl_Vs2D4)

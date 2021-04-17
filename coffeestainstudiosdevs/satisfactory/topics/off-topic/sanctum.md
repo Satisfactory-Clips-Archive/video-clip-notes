@@ -29,6 +29,9 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../transcriptions/yt--AjFbGOOAQI.md) [https://www.youtube.com/watch?v=-AjFbGOOAQI](https://www.youtube.com/watch?v=-AjFbGOOAQI)
 
+## May 24th, 2019 Video
+* [Kristoffer Talk: History at Coffee Stain](../../transcriptions/yt-fI7gnbG4Omk,6.28,35.md) [https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=6&end=35](https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=6&end=35)
+
 ## March 15th, 2019 Q&A
 * [Q&A: Sanctum 3 when?](../../transcriptions/yt-R0S19_caQuw,426.78,428.86.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429)
 

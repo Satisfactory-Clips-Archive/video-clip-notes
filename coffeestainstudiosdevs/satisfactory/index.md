@@ -136,6 +136,7 @@ layout: index
 * [June 7th](2019-06-07.md)
 
 ## May
+* [May 24th](2019-05-24.md)
 * [May 14th](2019-05-14.md)
 
 ## April

@@ -203,6 +203,9 @@ date: Last Modified
 ## June 7th, 2019 Video
 * [Jace Talk: Thank you to our Community](../transcriptions/yt-RvKmQs6m_iY,65.3,120.22.md) [https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=65&end=121](https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=65&end=121)
 
+## May 24th, 2019 Video
+* [Kristoffer Talk: Easter Eggs & Community Feedback](../transcriptions/yt-fI7gnbG4Omk,258.52,304.52.md) [https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=258&end=305](https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=258&end=305)
+
 ## March 15th, 2019 Q&A
 * [Jace Talk: Request for Q&As on twitter](../transcriptions/yt-R0S19_caQuw,363.28,378.46.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=363&end=379](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=363&end=379)
 * [Q&A: What's the plan with Content Creators?](../transcriptions/yt-R0S19_caQuw,264.36,363.28.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=264&end=364](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=264&end=364)

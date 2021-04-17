@@ -23,6 +23,9 @@ date: Last Modified
 * [Q&A: Are there any Easter Eggs in the landscape?](../transcriptions/yt-06YaY3zGZeg.md) [https://www.youtube.com/watch?v=06YaY3zGZeg](https://www.youtube.com/watch?v=06YaY3zGZeg)
 * [Q&A: Can we put the "Nani‽" back in?](../transcriptions/yt-sn0yrFw_Lfw.md) [https://www.youtube.com/watch?v=sn0yrFw_Lfw](https://www.youtube.com/watch?v=sn0yrFw_Lfw)
 
+## May 24th, 2019 Video
+* [Kristoffer Talk: Easter Eggs & Community Feedback](../transcriptions/yt-fI7gnbG4Omk,258.52,304.52.md) [https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=258&end=305](https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=258&end=305)
+
 ## February 20th, 2019 Livestream
 * [Q&A: Are there Easter Eggs in the game?](../transcriptions/yt-CB9bSigNYH8,524.513606,534.622601.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=524&end=535](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=524&end=535)
 * [Q&A: Are you going to make Easter Eggs?](../transcriptions/yt-CB9bSigNYH8,5128.56594,5136.281677.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5128&end=5137](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5128&end=5137)

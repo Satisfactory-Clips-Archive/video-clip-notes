@@ -64,5 +64,8 @@ date: Last Modified
 ## May 15th, 2020 Q&A
 * [Q&A: Might we see more megafauna? The Dune Desert is missing something.](../../../transcriptions/yt-NlIVwoRqjVk,1062.2612,1092.6582333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1062&end=1093](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1062&end=1093)
 
+## May 24th, 2019 Video
+* Crab Boss animation - Release Babies [https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=164&end=169](https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=164&end=169)
+
 ## March 9th, 2019 Livestream
 * [Q&A: How many bosses in Satisfactory?](../../../transcriptions/yt-OHrWEP9zmy8.md) [https://www.youtube.com/watch?v=OHrWEP9zmy8](https://www.youtube.com/watch?v=OHrWEP9zmy8)
