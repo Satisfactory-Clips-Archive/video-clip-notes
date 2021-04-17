@@ -43,3 +43,6 @@ date: Last Modified
 
 ## December 19th, 2019 Livestream
 * [Q&A: Colour blind accessibility stuff?](../../transcriptions/yt-r4TS6nRxy9k.md) [https://www.youtube.com/watch?v=r4TS6nRxy9k](https://www.youtube.com/watch?v=r4TS6nRxy9k)
+
+## January 19th, 2019 Video
+* [Nathalie Talk: Accessibility](../../transcriptions/yt-SslJr_Fv6qw,190.04,242.681846.md) [https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=190&end=243](https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=190&end=243)

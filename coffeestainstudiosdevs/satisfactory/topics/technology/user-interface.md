@@ -237,6 +237,11 @@ date: Last Modified
 * [Q&A: Top-down view?](../../transcriptions/yt-Dtm6xIj-wM4,1125.56383,1155.053199.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1125&end=1156](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1125&end=1156)
 * [Q&A: Will there be third-person view?](../../transcriptions/yt-Dtm6xIj-wM4,1245.697874,1259.567788.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1245&end=1260](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1245&end=1260)
 
+## January 19th, 2019 Video
+* [Nathalie Talk: Different approaches depending on different stages of development](../../transcriptions/yt-SslJr_Fv6qw,96.68,140.088159.md) [https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=96&end=141](https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=96&end=141)
+* [Nathalie Talk: Making the UI fun](../../transcriptions/yt-SslJr_Fv6qw,60.7,96.68.md) [https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=60&end=97](https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=60&end=97)
+* [Nathalie Talk: Satisfactory's previous UI/UX](../../transcriptions/yt-SslJr_Fv6qw,6.38,30.74.md) [https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=6&end=31](https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=6&end=31)
+
 ## November 8th, 2018 Dev Blog
 * [Storing some items for later](../../transcriptions/yt-J_Dznt1OG-0,568.31775,885.815429.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=568&end=886)
 

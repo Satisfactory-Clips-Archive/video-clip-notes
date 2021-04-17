@@ -151,6 +151,9 @@ layout: index
 * [February 20th](2019-02-20.md)
 * [February 6th](2019-02-06.md)
 
+## January
+* [January 19th](2019-01-19.md)
+
 # 2018
 ## December
 * [December 25th](2018-12-25.md)

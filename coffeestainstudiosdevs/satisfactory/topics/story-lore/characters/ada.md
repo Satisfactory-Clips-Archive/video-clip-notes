@@ -31,3 +31,6 @@ date: Last Modified
 
 ## March 9th, 2019 Livestream
 * [Jace Talk: ADA and "deez nuts"](../../../transcriptions/yt-5v6QGL7KBZk.md) [https://www.youtube.com/watch?v=5v6QGL7KBZk](https://www.youtube.com/watch?v=5v6QGL7KBZk)
+
+## January 19th, 2019 Video
+* [Nathalie Talk: Making the UI fun](../../../transcriptions/yt-SslJr_Fv6qw,60.7,96.68.md) [https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=60&end=97](https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=60&end=97)

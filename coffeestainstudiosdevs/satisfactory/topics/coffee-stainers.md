@@ -179,6 +179,9 @@ date: Last Modified
 * [Q&A: Who is the funniest at the stand-ups?](../transcriptions/yt-Dtm6xIj-wM4,2733.4333333333334,2765.667433.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766)
 * [Q&A: You are one of the rare studios to be (openly) LGBTQ-friendly, why is that so important to you?](../transcriptions/yt-Dtm6xIj-wM4,3433.002272,3481.1666666666665.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482)
 
+## January 19th, 2019 Video
+* [Nathalie Talk: Cross-discipline work](../transcriptions/yt-SslJr_Fv6qw,242.68,261.74.md) [https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=242&end=262](https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=242&end=262)
+
 ## December 12th, 2018 Q&A
 * [Q&A: Do you even use the Epic Launcher as gamers‽](../transcriptions/yt-7V4UPiBOshY,292.18,317.8.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=292&end=318](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=292&end=318)
 
