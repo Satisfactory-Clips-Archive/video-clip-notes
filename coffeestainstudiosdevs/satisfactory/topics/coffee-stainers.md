@@ -182,6 +182,9 @@ date: Last Modified
 ## December 12th, 2018 Q&A
 * [Q&A: Do you even use the Epic Launcher as gamers‽](../transcriptions/yt-7V4UPiBOshY,292.18,317.8.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=292&end=318](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=292&end=318)
 
+## September 26th, 2018 Video
+* [Jannik Talk: Satisfactory composition process](../transcriptions/yt-Y7G72e0LLBg,114.46,194.44.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=114&end=195](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=114&end=195)
+
 ## September 19th, 2018 Video
 * [Joel Talk: Building Sound Design](../transcriptions/yt-LDbnPHbnba0,113.16,141.24.md) [https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=113&end=142](https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=113&end=142)
 

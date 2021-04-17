@@ -10,6 +10,9 @@ date: Last Modified
 * [Developer Highlights - Helping Jace with programming](../../transcriptions/yt-52nYaN8imgo,152.94,169.54.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170)
 * Developer Highlights - What kind of hardware do you use? [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149)
 
+## September 26th, 2018 Video
+* [Intro](../../transcriptions/yt-Y7G72e0LLBg,,7.94.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=0&end=8](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=0&end=8)
+
 ## September 19th, 2018 Video
 * [Joel Talk: Hardware](../../transcriptions/yt-LDbnPHbnba0,205.2,218.16.md) [https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=205&end=219](https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=205&end=219)
 * [Joel Talk: Working with other Coffee Stainers](../../transcriptions/yt-LDbnPHbnba0,141.24,205.2.md) [https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=141&end=206](https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=141&end=206)

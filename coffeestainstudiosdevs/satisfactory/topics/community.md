@@ -223,6 +223,9 @@ date: Last Modified
 ## December 12th, 2018 Q&A
 * [Jace Talk: Thanking the people who supported us](../transcriptions/yt-7V4UPiBOshY,660.88,727.28.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=660&end=728](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=660&end=728)
 
+## September 26th, 2018 Video
+* [Jannik Talk: Community Feedback](../transcriptions/yt-Y7G72e0LLBg,280.26,303.68.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=280&end=304](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=280&end=304)
+
 ## July 4th, 2018 Video
 * [Oscar Talk: Getting feedback on Satisfactory](../transcriptions/yt-vUW3pockA5Y,300.2,353.16.md) [https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=300&end=354](https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=300&end=354)
 * [Oscar Talk: Players can find things that developers wouldn't](../transcriptions/yt-vUW3pockA5Y,188.92,209.88.md) [https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=188&end=210](https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=188&end=210)

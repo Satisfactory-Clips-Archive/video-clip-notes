@@ -66,3 +66,7 @@ date: Last Modified
 ## February 20th, 2019 Livestream
 * [Q&A: How many music tracks are there in the game?](../transcriptions/yt-CB9bSigNYH8,3335.4333333333334,3346.242026.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3335&end=3347](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3335&end=3347)
 * [Community FYI: Yo Hannah, the map looks a m a z i n g](../transcriptions/yt-CB9bSigNYH8,2614.932671,2630.888348.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2614&end=2631](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2614&end=2631)
+
+## September 26th, 2018 Video
+* [Jannik Talk: Four different types of Satisfactory music](../transcriptions/yt-Y7G72e0LLBg,71.42,114.46.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=71&end=115](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=71&end=115)
+* [Jannik Talk: The vision for the Satisfactory music](../transcriptions/yt-Y7G72e0LLBg,29.52,71.42.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=29&end=72](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=29&end=72)
