@@ -194,6 +194,9 @@ date: Last Modified
 ## December 13th, 2019 Video
 * [Snutt Talk: Improving Community Engagement](../transcriptions/yt-N1o3tK1h8cM,61.72,72.68.md) [https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=61&end=73](https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=61&end=73)
 
+## October 24th, 2019 Video
+* [Hannah Talk: Community feedback on level bugs](../transcriptions/yt-8WYNwGDLYNE,132.8,150.36.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=132&end=151](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=132&end=151)
+
 ## September 13th, 2019 Video
 * [Jace Talk: Community priotisation of Dedicated Servers vs. Mod Support](../transcriptions/yt-s3m74qGSYK4,56.82,101.62.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102)
 

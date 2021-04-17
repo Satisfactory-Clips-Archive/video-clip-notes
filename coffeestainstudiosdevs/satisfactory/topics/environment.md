@@ -35,6 +35,10 @@ date: Last Modified
 * [Simon & Jace Talk: Different ambient effects for different Biomes](../transcriptions/yt-mci92Mhr7MM,608.793576,697.5301666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698)
 * [Simon & Jace Talk: VFX for ambient effects](../transcriptions/yt-mci92Mhr7MM,425.240567,608.793576.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=425&end=609](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=425&end=609)
 
+## October 24th, 2019 Video
+* [Hannah Talk: Level Design vs. World Design](../transcriptions/yt-8WYNwGDLYNE,89.4,132.8.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=89&end=133](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=89&end=133)
+* [Hannah Talk: Making a world feel interesting with limited assets](../transcriptions/yt-8WYNwGDLYNE,150.36,189.52.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=150&end=190](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=150&end=190)
+
 ## February 20th, 2019 Livestream
 * [Q&A: Are caves a hazard or will they just be there to explore?](../transcriptions/yt-CB9bSigNYH8,673.676351,691.064019.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=673&end=692](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=673&end=692)
 * [Q&A: Are there big cliffs where you can see the entire map?](../transcriptions/yt-CB9bSigNYH8,3487.8,3520.911406.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3487&end=3521](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3487&end=3521)

@@ -277,6 +277,9 @@ date: Last Modified
 ## December 13th, 2019 Video
 * [Snutt Talk: I'm not replacing Jace](../../transcriptions/yt-N1o3tK1h8cM,27.8,61.72.md) [https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=27&end=62](https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=27&end=62)
 
+## October 24th, 2019 Video
+* [Hannah Talk: Jace and VFX](../../transcriptions/yt-8WYNwGDLYNE,341.84,362.38.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=341&end=363](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=341&end=363)
+
 ## April 26th, 2019 Milo Tutorial
 * [Jace Talk: Milo tutorial](../../transcriptions/yt--eBlSsTmUSE,23.92,167.8.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168)
 

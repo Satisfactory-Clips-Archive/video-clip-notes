@@ -83,6 +83,16 @@ date: Last Modified
 ## November 5th, 2019 Q&A
 * [Jace Talk: Hannah's Dev Highlight video](../../transcriptions/yt-Fsod_UF5eus,20.779934,37.720185.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=20&end=38](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=20&end=38)
 
+## October 24th, 2019 Video
+* [Hannah Talk: Becoming the Level Designer at Coffee Stain](../../transcriptions/yt-8WYNwGDLYNE,11.34,45.84.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=11&end=46](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=11&end=46)
+* [Hannah Talk: First job in the industry](../../transcriptions/yt-8WYNwGDLYNE,417.64,439.88.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=417&end=440](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=417&end=440)
+* [Hannah Talk: Jace and VFX](../../transcriptions/yt-8WYNwGDLYNE,341.84,362.38.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=341&end=363](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=341&end=363)
+* [Hannah Talk: Level Design vs. World Design](../../transcriptions/yt-8WYNwGDLYNE,89.4,132.8.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=89&end=133](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=89&end=133)
+* [Hannah Talk: Making a world feel interesting with limited assets](../../transcriptions/yt-8WYNwGDLYNE,150.36,189.52.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=150&end=190](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=150&end=190)
+* [Hannah Talk: Satisfactory work process](../../transcriptions/yt-8WYNwGDLYNE,189.52,302.56.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=189&end=303](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=189&end=303)
+* [Hannah Talk: Software](../../transcriptions/yt-8WYNwGDLYNE,302.56,341.84.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=302&end=342](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=302&end=342)
+* [Hannah Talk: Starting out in Level Design](../../transcriptions/yt-8WYNwGDLYNE,45.84,89.4.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=45&end=90](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=45&end=90)
+
 ## September 13th, 2019 Video
 * [Jace Talk: Dev Highlights editing stream](../../transcriptions/yt-s3m74qGSYK4,15.320043,39.543556.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=15&end=40](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=15&end=40)
 

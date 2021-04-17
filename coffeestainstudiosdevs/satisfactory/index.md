@@ -121,6 +121,9 @@ layout: index
 ## November
 * [November 5th](2019-11-05.md)
 
+## October
+* [October 24th](2019-10-24.md)
+
 ## September
 * [September 25th](2019-09-25.md)
 * [September 13th](2019-09-13.md)

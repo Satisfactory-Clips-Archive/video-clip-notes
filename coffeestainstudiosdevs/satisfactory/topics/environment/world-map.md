@@ -191,6 +191,9 @@ date: Last Modified
 * [Q&A: Will there be larger underground spaces?](../../transcriptions/yt-cuGHH7KF9BI.md) [https://www.youtube.com/watch?v=cuGHH7KF9BI](https://www.youtube.com/watch?v=cuGHH7KF9BI)
 * Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
 
+## October 24th, 2019 Video
+* [Hannah Talk: Community feedback on level bugs](../../transcriptions/yt-8WYNwGDLYNE,132.8,150.36.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=132&end=151](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=132&end=151)
+
 ## May 14th, 2019 Patch Notes
 * [Jace Talk: We've added a Map & Radar Towers](../../transcriptions/yt-aceacdNX9WA,96.095281,109.183564.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110)
 

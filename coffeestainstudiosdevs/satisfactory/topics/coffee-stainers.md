@@ -139,6 +139,9 @@ date: Last Modified
 ## December 19th, 2019 Video
 * Coffee Stain are hiring a Community Manager! [BTS] (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=148&end=153](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=148&end=153)
 
+## October 24th, 2019 Video
+* [Hannah Talk: Satisfactory work process](../transcriptions/yt-8WYNwGDLYNE,189.52,302.56.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=189&end=303](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=189&end=303)
+
 ## September 13th, 2019 Video
 * [Jace Talk: We want to do more dev/programming streams](../transcriptions/yt-s3m74qGSYK4,39.543556,56.82.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=39&end=57](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=39&end=57)
 

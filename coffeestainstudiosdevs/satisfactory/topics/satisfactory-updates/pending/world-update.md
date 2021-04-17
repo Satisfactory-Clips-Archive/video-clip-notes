@@ -47,3 +47,6 @@ date: Last Modified
 
 ## October 6th, 2020 Livestream
 * [Q&A: How is the World Building going?](../../../transcriptions/yt-nFJUho2El3Y.md) [https://www.youtube.com/watch?v=nFJUho2El3Y](https://www.youtube.com/watch?v=nFJUho2El3Y)
+
+## October 24th, 2019 Video
+* [Hannah Talk: World Updates interfering with factories](../../../transcriptions/yt-8WYNwGDLYNE,362.38,417.64.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=362&end=418](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=362&end=418)
