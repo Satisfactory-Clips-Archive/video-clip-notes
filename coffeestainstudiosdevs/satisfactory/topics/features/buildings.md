@@ -216,3 +216,6 @@ date: Last Modified
 ## August 1st, 2018 Q&A
 * [Q&A: How many Buildings will there be? What kind of complexity can we expect?](../../transcriptions/yt-iFAy1NZUOGU,72.44,99.44.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100)
 * [Q&A: Is there research or a tech tree in the game?](../../transcriptions/yt-iFAy1NZUOGU,147.92,170.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=147&end=171)
+
+## July 4th, 2018 Video
+* [Oscar Talk: The scope of gameplay and automation](../../transcriptions/yt-vUW3pockA5Y,117.8,173.04.md) [https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=117&end=174](https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=117&end=174)

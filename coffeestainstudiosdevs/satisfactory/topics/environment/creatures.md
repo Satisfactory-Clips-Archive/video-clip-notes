@@ -139,6 +139,9 @@ date: Last Modified
 ## August 1st, 2018 Q&A
 * [Q&A: Are there actual spiders in the game?](../../transcriptions/yt-iFAy1NZUOGU,237.4,252.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=237&end=253](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=237&end=253)
 
+## July 4th, 2018 Video
+* [Oscar Talk: Combat is a part of the game but not a super big part](../../transcriptions/yt-vUW3pockA5Y,90.92,117.8.md) [https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=90&end=118](https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=90&end=118)
+
 ## June 22nd, 2018 Q&A
 * [Q&A: Will we need to defend our factory?](../../transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
 

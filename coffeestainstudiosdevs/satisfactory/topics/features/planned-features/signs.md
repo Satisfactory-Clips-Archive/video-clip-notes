@@ -52,3 +52,6 @@ date: Last Modified
 
 ## June 8th, 2020 Livestream
 * [Q&A: What about Signs?](../../../transcriptions/yt-UGKquiGR0CY.md) [https://www.youtube.com/watch?v=UGKquiGR0CY](https://www.youtube.com/watch?v=UGKquiGR0CY)
+
+## July 4th, 2018 Video
+* [Oscar Talk: We have signs planned](../../../transcriptions/yt-vUW3pockA5Y,173.04,188.92.md) [https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=173&end=189](https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=173&end=189)

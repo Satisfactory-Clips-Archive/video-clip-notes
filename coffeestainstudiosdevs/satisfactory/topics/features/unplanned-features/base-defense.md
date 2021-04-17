@@ -74,5 +74,8 @@ date: Last Modified
 ## February 6th, 2019 Livestream
 * [Q&A: Why not turrets like Sanctum?](../../../transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640)
 
+## July 4th, 2018 Video
+* [Oscar Talk: Combat is a part of the game but not a super big part](../../../transcriptions/yt-vUW3pockA5Y,90.92,117.8.md) [https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=90&end=118](https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=90&end=118)
+
 ## June 22nd, 2018 Q&A
 * [Q&A: Will we need to defend our factory?](../../../transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)

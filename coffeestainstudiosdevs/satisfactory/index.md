@@ -171,6 +171,7 @@ layout: index
 
 ## July
 * [July 19th](2018-07-19.md)
+* [July 4th](2018-07-04.md)
 
 ## June
 * [June 22nd](2018-06-22.md)
