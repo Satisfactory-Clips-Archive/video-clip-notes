@@ -182,6 +182,9 @@ date: Last Modified
 ## December 12th, 2018 Q&A
 * [Q&A: Do you even use the Epic Launcher as gamers‽](../transcriptions/yt-7V4UPiBOshY,292.18,317.8.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=292&end=318](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=292&end=318)
 
+## September 19th, 2018 Video
+* [Joel Talk: Building Sound Design](../transcriptions/yt-LDbnPHbnba0,113.16,141.24.md) [https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=113&end=142](https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=113&end=142)
+
 ## July 4th, 2018 Video
 * [Oscar Talk: Game Director vs. Game Designer](../transcriptions/yt-vUW3pockA5Y,209.88,280.289085.md) [https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=209&end=281](https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=209&end=281)
 * [That infamous moment with the coffee](../transcriptions/yt-vUW3pockA5Y,280.289085,302.64.md) [https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=280&end=303](https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=280&end=303)

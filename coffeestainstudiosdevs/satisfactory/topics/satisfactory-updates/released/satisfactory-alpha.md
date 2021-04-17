@@ -85,6 +85,9 @@ date: Last Modified
 * [Q&A: Will the Alpha be single-player or multiplayer?](../../../transcriptions/yt-1OQk7vNt6-0,147.1,196.48.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=147&end=197](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=147&end=197)
 * [Q&A: Will there be an NDA?](../../../transcriptions/yt-1OQk7vNt6-0,233.42,261.62.md) [https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=233&end=262](https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=233&end=262)
 
+## September 19th, 2018 Video
+* [Joel Talk: Joel's favourite sound effect](../../../transcriptions/yt-LDbnPHbnba0,218.16,246.62.md) [https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=218&end=247](https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=218&end=247)
+
 ## September 12th, 2018 Alpha Info
 * [Alpha's content focus](../../../transcriptions/yt-31XJ1Q_glAw,96.88,169.44.md) [https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170](https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170)
 * [Alpha launch date](../../../transcriptions/yt-31XJ1Q_glAw,76.44,96.88.md) [https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=76&end=97](https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=76&end=97)

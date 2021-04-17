@@ -82,3 +82,6 @@ date: Last Modified
 * Q&A: Why not make a maze out of the caves? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1792&end=1799](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1792&end=1799)
 * [Q&A: Will the night cycle be dark so you need lights?](../transcriptions/yt-CB9bSigNYH8,5390.335913,5404.05357.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5390&end=5405](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5390&end=5405)
 * [Community FYI: You skipped the part where some stick through "balcony" roof](../transcriptions/yt-CB9bSigNYH8,4707.4,4715.707868.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4707&end=4716](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4707&end=4716)
+
+## September 19th, 2018 Video
+* [Joel Talk: Sound Design](../transcriptions/yt-LDbnPHbnba0,5.12,56.94.md) [https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=5&end=57](https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=5&end=57)

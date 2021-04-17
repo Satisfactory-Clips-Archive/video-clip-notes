@@ -164,6 +164,7 @@ layout: index
 * [October 3rd](2018-10-03.md)
 
 ## September
+* [September 19th](2018-09-19.md)
 * [September 12th](2018-09-12.md)
 
 ## August
