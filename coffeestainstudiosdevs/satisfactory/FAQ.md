@@ -2822,7 +2822,7 @@ date: Last Modified
 * [February 6th, 2019 Livestream Q&A: Any DLCs planned?](./transcriptions/yt-Dtm6xIj-wM4,1429.8333333333333,1437.887831.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1429&end=1438](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1429&end=1438)
 </details>
 
-## [October 27th, 2020 Livestream](./2020-10-27.md)
+## [October 27th, 2020 Patch Notes](./2020-10-27.md)
 ### [Q&A: Is ADA computer generated or a voice actress?](./transcriptions/yt-lSeLNlkKo1w.md) [https://www.youtube.com/watch?v=lSeLNlkKo1w](https://www.youtube.com/watch?v=lSeLNlkKo1w)
 
 <details>
