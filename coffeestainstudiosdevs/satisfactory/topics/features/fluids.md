@@ -7,6 +7,10 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: Fluid loading fix when?](../../transcriptions/yt-F7fyf_Dupu4.md) [https://www.youtube.com/watch?v=F7fyf_Dupu4](https://www.youtube.com/watch?v=F7fyf_Dupu4)
+* [Q&A: Is it possible to have a Sink also do Fluids?](../../transcriptions/yt-FQqUQHMw4QA.md) [https://www.youtube.com/watch?v=FQqUQHMw4QA](https://www.youtube.com/watch?v=FQqUQHMw4QA)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Fluids Sinks?](../../transcriptions/yt-GippjFCCUPw.md) [https://www.youtube.com/watch?v=GippjFCCUPw](https://www.youtube.com/watch?v=GippjFCCUPw)
 * [Q&A: Fluid Trucks?](../../transcriptions/yt-lDJH-Q4E5Xk.md) [https://www.youtube.com/watch?v=lDJH-Q4E5Xk](https://www.youtube.com/watch?v=lDJH-Q4E5Xk)

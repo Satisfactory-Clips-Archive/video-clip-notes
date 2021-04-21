@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## April 20th, 2021 Livestream
+* [Q&A: How about diagonal walls?](../../../transcriptions/yt-Nf6bTwsv-_w.md) [https://www.youtube.com/watch?v=Nf6bTwsv-_w](https://www.youtube.com/watch?v=Nf6bTwsv-_w)
+* [Q&A: Will you add structual integrity?](../../../transcriptions/yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)
+
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Cheatcrete, Build Modes, and clipping](../../../transcriptions/yt-RtBNa7oGJiI.md) [https://www.youtube.com/watch?v=RtBNa7oGJiI](https://www.youtube.com/watch?v=RtBNa7oGJiI)
 

@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: When do Signs come?
 https://www.youtube.com/watch?v=5PwIEaLRDRY
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Signs?](./yt-B6BEy7mals4.md) [https://www.youtube.com/watch?v=B6BEy7mals4](https://www.youtube.com/watch?v=B6BEy7mals4)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Signs?](./yt-O0qKftrufFM.md) [https://www.youtube.com/watch?v=O0qKftrufFM](https://www.youtube.com/watch?v=O0qKftrufFM)
 
 
 ### Topics

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Creative Mode
 
+## April 20th, 2021 Livestream
+* [Q&A: Will there be Creative Mode?](../../../../transcriptions/yt-AE7doTpLQOU.md) [https://www.youtube.com/watch?v=AE7doTpLQOU](https://www.youtube.com/watch?v=AE7doTpLQOU)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Is Creative Mode coming?](../../../../transcriptions/yt-l4yloW6vhr8.md) [https://www.youtube.com/watch?v=l4yloW6vhr8](https://www.youtube.com/watch?v=l4yloW6vhr8)
 

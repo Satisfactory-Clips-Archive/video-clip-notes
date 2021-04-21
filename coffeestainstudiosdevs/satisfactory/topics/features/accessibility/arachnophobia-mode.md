@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## April 20th, 2021 Livestream
+* [Q&A: Why did the anti-spider mode went off?](../../../transcriptions/yt-kd-VVREKHLE.md) [https://www.youtube.com/watch?v=kd-VVREKHLE](https://www.youtube.com/watch?v=kd-VVREKHLE)
+
 ## March 23rd, 2021 Livestream
 * [Snutt Talk: If you have both Arachnophobia and felinophobia, I feel sorry for you](../../../transcriptions/yt-3llMN85Ghyw.md) [https://www.youtube.com/watch?v=3llMN85Ghyw](https://www.youtube.com/watch?v=3llMN85Ghyw)
 * [Q&A: Will you add an Arachnophobia Mode that isn't actually scarier than spiders?](../../../transcriptions/yt-tudG4BUUsnM.md) [https://www.youtube.com/watch?v=tudG4BUUsnM](https://www.youtube.com/watch?v=tudG4BUUsnM)

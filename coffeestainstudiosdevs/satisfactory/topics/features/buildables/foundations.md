@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 
+## April 20th, 2021 Livestream
+* [Q&A: Cheatcrete?](../../../transcriptions/yt-6y1VtRXTYXY.md) [https://www.youtube.com/watch?v=6y1VtRXTYXY](https://www.youtube.com/watch?v=6y1VtRXTYXY)
+* [Q&A: Will you add structual integrity?](../../../transcriptions/yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)
+
 ## April 13th, 2021 Livestream
 * Snutt Talk: Cheatcrete [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6459&end=6560](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6459&end=6560)
 

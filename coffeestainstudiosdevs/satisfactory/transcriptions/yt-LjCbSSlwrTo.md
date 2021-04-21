@@ -3,7 +3,7 @@ title: "February 23rd, 2021 Livestream Q&A: Coffee physics?"
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/cup"
     - "technology/physics"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=LjCbSSlwrTo
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Cup](../topics/features/equipment/cup.md)
 * [Technology > Physics](../topics/technology/physics.md)
 
 ### Transcript

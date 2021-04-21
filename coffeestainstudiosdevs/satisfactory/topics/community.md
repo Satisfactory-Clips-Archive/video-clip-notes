@@ -18,6 +18,11 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: Are you doing any marketing to drive in new players?](../transcriptions/yt-4PMdlE1TIfY.md) [https://www.youtube.com/watch?v=4PMdlE1TIfY](https://www.youtube.com/watch?v=4PMdlE1TIfY)
+* [Snutt Talk: Getting a good flow of questions today](../transcriptions/yt-Ep_4itVvlBM.md) [https://www.youtube.com/watch?v=Ep_4itVvlBM](https://www.youtube.com/watch?v=Ep_4itVvlBM)
+* [State of Dev: Update 4 Launch broke our concurrent player records](../transcriptions/yt-HdPnhgBykko.md) [https://www.youtube.com/watch?v=HdPnhgBykko](https://www.youtube.com/watch?v=HdPnhgBykko)
+
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Design challenges for Satisfactory](../transcriptions/yt-Z4sORbKADjs.md) [https://www.youtube.com/watch?v=Z4sORbKADjs](https://www.youtube.com/watch?v=Z4sORbKADjs)
 * [Snutt & Mark Talk: Endgame Balancing](../transcriptions/yt-LieMqMVIOgg.md) [https://www.youtube.com/watch?v=LieMqMVIOgg](https://www.youtube.com/watch?v=LieMqMVIOgg)

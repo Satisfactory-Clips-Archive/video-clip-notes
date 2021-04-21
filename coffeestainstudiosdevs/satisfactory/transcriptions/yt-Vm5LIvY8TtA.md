@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Blueprints?
 https://www.youtube.com/watch?v=Vm5LIvY8TtA
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Blueprints, when?](./yt-9Yqc4z9NPI8.md) [https://www.youtube.com/watch?v=9Yqc4z9NPI8](https://www.youtube.com/watch?v=9Yqc4z9NPI8)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Blueprints?](./yt-x0N2HGv49Eg.md) [https://www.youtube.com/watch?v=x0N2HGv49Eg](https://www.youtube.com/watch?v=x0N2HGv49Eg)
 
 
 ### Topics

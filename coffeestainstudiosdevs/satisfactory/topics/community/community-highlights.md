@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## April 20th, 2021 Livestream
+* [Community Highlights: Jace gets featured in Community Highlights](../../transcriptions/yt-LMj4zqWimc4.md) [https://www.youtube.com/watch?v=LMj4zqWimc4](https://www.youtube.com/watch?v=LMj4zqWimc4)
+
 ## April 13th, 2021 Livestream
 * Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045)
 

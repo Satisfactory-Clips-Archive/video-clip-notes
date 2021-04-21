@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
+## April 20th, 2021 Livestream
+* [Q&A: Range upgrade for Hover Pack?](../../../transcriptions/yt-tdatHpgolVQ.md) [https://www.youtube.com/watch?v=tdatHpgolVQ](https://www.youtube.com/watch?v=tdatHpgolVQ)
+* [Q&A: Use for batteries in the Hover Pack?](../../../transcriptions/yt-1HWvUD350gk.md) [https://www.youtube.com/watch?v=1HWvUD350gk](https://www.youtube.com/watch?v=1HWvUD350gk)
+
 ## April 13th, 2021 Livestream
 * Q&A: Hover Pack, why not Tier 6? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968)
 

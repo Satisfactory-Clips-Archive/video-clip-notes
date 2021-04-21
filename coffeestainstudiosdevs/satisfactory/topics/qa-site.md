@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## April 20th, 2021 Livestream
+* [Q&A: Do you guys have stuff that you wanna add but not sure about putting it on the QA site?](../transcriptions/yt-1YwuzwU17kI.md) [https://www.youtube.com/watch?v=1YwuzwU17kI](https://www.youtube.com/watch?v=1YwuzwU17kI)
+* [Snutt Talk: Use the QA site](../transcriptions/yt-21WCyV94q2M.md) [https://www.youtube.com/watch?v=21WCyV94q2M](https://www.youtube.com/watch?v=21WCyV94q2M)
+* [Snutt Talk: Use the QA Site](../transcriptions/yt-51CdxccDUWU.md) [https://www.youtube.com/watch?v=51CdxccDUWU](https://www.youtube.com/watch?v=51CdxccDUWU)
+
 ## April 13th, 2021 Livestream
 * Snutt Talk: Verify your game files before checking the QA site [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1386&end=1445](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1386&end=1445)
 

@@ -9,7 +9,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Walls & Handrails, be able to place like Pipes?
 https://www.youtube.com/watch?v=LFH3YB0pV24
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Tilted fences?](./yt-JVp03wXCxWY.md) [https://www.youtube.com/watch?v=JVp03wXCxWY](https://www.youtube.com/watch?v=JVp03wXCxWY)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: How about diagonal walls?](./yt-Nf6bTwsv-_w.md) [https://www.youtube.com/watch?v=Nf6bTwsv-_w](https://www.youtube.com/watch?v=Nf6bTwsv-_w)
 
 
 ### Topics

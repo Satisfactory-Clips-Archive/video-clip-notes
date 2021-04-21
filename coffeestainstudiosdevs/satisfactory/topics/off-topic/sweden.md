@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## April 20th, 2021 Livestream
+* [Q&A: When are you guys gonna relocate to Stockholm?](../../transcriptions/yt-7AEDyBWasBQ.md) [https://www.youtube.com/watch?v=7AEDyBWasBQ](https://www.youtube.com/watch?v=7AEDyBWasBQ)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Q&A: Is it cold inside?](../../transcriptions/yt--ePXx9kO3uQ.md) [https://www.youtube.com/watch?v=-ePXx9kO3uQ](https://www.youtube.com/watch?v=-ePXx9kO3uQ)
 * [Community FYI: Snutt has no clean shoes, so he can't get drunk. Swedes are weird](../../transcriptions/yt-ZBpgMm7_Mt0.md) [https://www.youtube.com/watch?v=ZBpgMm7_Mt0](https://www.youtube.com/watch?v=ZBpgMm7_Mt0)

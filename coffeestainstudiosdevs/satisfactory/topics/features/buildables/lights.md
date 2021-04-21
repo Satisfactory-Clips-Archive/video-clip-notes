@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## April 20th, 2021 Livestream
+* [Q&A: How bad will the lights hit performance?](../../../transcriptions/yt-VRrnYhXicK4.md) [https://www.youtube.com/watch?v=VRrnYhXicK4](https://www.youtube.com/watch?v=VRrnYhXicK4)
+* [Q&A: If I spam lights will my factory die?](../../../transcriptions/yt-qn4e8a4Up7g.md) [https://www.youtube.com/watch?v=qn4e8a4Up7g](https://www.youtube.com/watch?v=qn4e8a4Up7g)
+* [Community Highlights: Jace gets featured in Community Highlights](../../../transcriptions/yt-LMj4zqWimc4.md) [https://www.youtube.com/watch?v=LMj4zqWimc4](https://www.youtube.com/watch?v=LMj4zqWimc4)
+* [Q&A: Lights snapping when?](../../../transcriptions/yt-eyAyXUzXQns.md) [https://www.youtube.com/watch?v=eyAyXUzXQns](https://www.youtube.com/watch?v=eyAyXUzXQns)
+
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Day/Night cycle changes](../../../transcriptions/yt-nDsZJUKHOUI.md) [https://www.youtube.com/watch?v=nDsZJUKHOUI](https://www.youtube.com/watch?v=nDsZJUKHOUI)
 * [Q&A: Do Lights affect gameplay?](../../../transcriptions/yt-Yf-LT5pHJTU.md) [https://www.youtube.com/watch?v=Yf-LT5pHJTU](https://www.youtube.com/watch?v=Yf-LT5pHJTU)

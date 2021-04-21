@@ -9,7 +9,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Is there an update to Train Stations, Rails, and Railway Switches in the future?
 https://www.youtube.com/watch?v=vV-u0AjWWvU
-This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: Train Collision? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Train remake?](./yt-4iPV87r2O7A.md) [https://www.youtube.com/watch?v=4iPV87r2O7A](https://www.youtube.com/watch?v=4iPV87r2O7A)
 
 
 ### Topics

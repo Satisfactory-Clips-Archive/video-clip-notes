@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
+## April 20th, 2021 Livestream
+* [Q&A: How's the burger?](../../transcriptions/yt-5VNbStRGin8.md) [https://www.youtube.com/watch?v=5VNbStRGin8](https://www.youtube.com/watch?v=5VNbStRGin8)
+* [Snutt Talk: I did trim my beard](../../transcriptions/yt-mLeFpMjkIBw.md) [https://www.youtube.com/watch?v=mLeFpMjkIBw](https://www.youtube.com/watch?v=mLeFpMjkIBw)
+
 ## April 13th, 2021 Livestream
 * Snutt Talk: Snutt's Beard & Beanie [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=775&end=828](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=775&end=828)
 * Snutt Talk: Snutt hasn't had time for lunch [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1505&end=1559](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1505&end=1559)

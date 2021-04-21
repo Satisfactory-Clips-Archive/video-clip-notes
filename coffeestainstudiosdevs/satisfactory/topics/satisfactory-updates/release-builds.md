@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## April 20th, 2021 Livestream
+* [Q&A: Why did the anti-spider mode went off?](../../transcriptions/yt-kd-VVREKHLE.md) [https://www.youtube.com/watch?v=kd-VVREKHLE](https://www.youtube.com/watch?v=kd-VVREKHLE)
+
 ## April 13th, 2021 Livestream
 * State of Dev: Early Access branch and the Experimental branch [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=827&end=1075](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=827&end=1075)
 * Q&A: If I play it on Experimental, will I still be able to load it if I switch to Early Access? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387)

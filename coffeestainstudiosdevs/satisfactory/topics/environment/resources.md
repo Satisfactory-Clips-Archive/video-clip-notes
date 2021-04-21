@@ -12,6 +12,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: Is there any talk about new resource locations?](../../transcriptions/yt--1_zC92heaI.md) [https://www.youtube.com/watch?v=-1_zC92heaI](https://www.youtube.com/watch?v=-1_zC92heaI)
+
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Design/Balancing process for adding a new part](../../transcriptions/yt-8KvcijfWfcA.md) [https://www.youtube.com/watch?v=8KvcijfWfcA](https://www.youtube.com/watch?v=8KvcijfWfcA)
 * [Q&A: Do you think we'll rework Radar Towers?](../../transcriptions/yt-hoLnbnTC5vE.md) [https://www.youtube.com/watch?v=hoLnbnTC5vE](https://www.youtube.com/watch?v=hoLnbnTC5vE)

@@ -8,7 +8,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Any news on Dedicated Servers?
 https://www.youtube.com/watch?v=pUhzc1Fd8sg
-This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: Dedicated Servers? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Dedicated Servers?](./yt--y2km1ZuOs4.md) [https://www.youtube.com/watch?v=-y2km1ZuOs4](https://www.youtube.com/watch?v=-y2km1ZuOs4)
 
 
 ### Topics

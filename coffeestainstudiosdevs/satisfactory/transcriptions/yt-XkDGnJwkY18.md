@@ -3,22 +3,20 @@ title: "March 30th, 2021 Livestream Q&A: Add body slots so we can use Blade Runn
 date: "2021-03-30"
 layout: transcript
 topics:
-    - "features/equipment"
     - "features/equipment/blade-runners"
     - "features/equipment/jetpack"
-    - "technology/user-interface"
+    - "features/requested-features/multiple-body-slots"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?
 https://www.youtube.com/watch?v=XkDGnJwkY18
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Multiple Body slots, when?](./yt-Xa03UsMWsjo.md) [https://www.youtube.com/watch?v=Xa03UsMWsjo](https://www.youtube.com/watch?v=Xa03UsMWsjo)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Body Slots?](./yt-G6TdxrJuIaA.md) [https://www.youtube.com/watch?v=G6TdxrJuIaA](https://www.youtube.com/watch?v=G6TdxrJuIaA)
 
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
 * [Features > Equipment > Blade Runners](../topics/features/equipment/blade-runners.md)
 * [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
 
 ### Transcript
 

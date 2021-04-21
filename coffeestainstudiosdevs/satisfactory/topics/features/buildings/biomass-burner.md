@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Biomass Burner
 
+## April 20th, 2021 Livestream
+* [Q&A: What is the foliage going to be used for?](../../../transcriptions/yt-hO-2nTGpqXM.md) [https://www.youtube.com/watch?v=hO-2nTGpqXM](https://www.youtube.com/watch?v=hO-2nTGpqXM)
+
 ## February 19th, 2021 Video
 * [Self Regulation of Power Generators being removed](../../../transcriptions/yt-Tmpors_r_Vw,197.79760000000002,266.43283333333335.md) [https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267](https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=197&end=267)
 

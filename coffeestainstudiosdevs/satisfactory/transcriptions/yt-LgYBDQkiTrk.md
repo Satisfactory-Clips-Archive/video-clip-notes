@@ -9,7 +9,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Storm or natural disasters in the game?
 https://www.youtube.com/watch?v=LgYBDQkiTrk
-This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Will there be Weather in the game?](./yt-m9oykKdGfUE.md) [https://www.youtube.com/watch?v=m9oykKdGfUE](https://www.youtube.com/watch?v=m9oykKdGfUE)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Gonna be weather changes, like rain, snow, and sand storms?](./yt-wUZr64_l6R4.md) [https://www.youtube.com/watch?v=wUZr64_l6R4](https://www.youtube.com/watch?v=wUZr64_l6R4)
 
 
 ### Topics

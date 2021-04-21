@@ -4,6 +4,16 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## April 20th, 2021 Livestream
+* [Q&A: Did you get more reports of graphical glitches when Update 4 started?](../../../transcriptions/yt-Ec8iy7j7RxM.md) [https://www.youtube.com/watch?v=Ec8iy7j7RxM](https://www.youtube.com/watch?v=Ec8iy7j7RxM)
+* [State of Dev: Hologram change](../../../transcriptions/yt-k_ma-Eg_4og.md) [https://www.youtube.com/watch?v=k_ma-Eg_4og](https://www.youtube.com/watch?v=k_ma-Eg_4og)
+* [Snutt Talk: I did trim my beard](../../../transcriptions/yt-mLeFpMjkIBw.md) [https://www.youtube.com/watch?v=mLeFpMjkIBw](https://www.youtube.com/watch?v=mLeFpMjkIBw)
+* [Q&A: Please pass on our thanks to the rest of the team, loved the Update?](../../../transcriptions/yt-Z-EWZL18Di0.md) [https://www.youtube.com/watch?v=Z-EWZL18Di0](https://www.youtube.com/watch?v=Z-EWZL18Di0)
+* [State of Dev: Removal of power self-regulation & issues with pipes](../../../transcriptions/yt-g90f175Jk_w.md) [https://www.youtube.com/watch?v=g90f175Jk_w](https://www.youtube.com/watch?v=g90f175Jk_w)
+* [State of Dev: Still working on Update 4](../../../transcriptions/yt-G9A97SPeRXc.md) [https://www.youtube.com/watch?v=G9A97SPeRXc](https://www.youtube.com/watch?v=G9A97SPeRXc)
+* [State of Dev: Update 4 Launch broke our concurrent player records](../../../transcriptions/yt-HdPnhgBykko.md) [https://www.youtube.com/watch?v=HdPnhgBykko](https://www.youtube.com/watch?v=HdPnhgBykko)
+* [State of Dev: Update 4 Multiplayer connectivity](../../../transcriptions/yt-6gJrIGeKjYA.md) [https://www.youtube.com/watch?v=6gJrIGeKjYA](https://www.youtube.com/watch?v=6gJrIGeKjYA)
+
 ## April 13th, 2021 Livestream
 * Snutt Talk: Are you excited for your Nuclear stuff to break? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6214&end=6286](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6214&end=6286)
 * Snutt Talk: Cheatcrete [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6459&end=6560](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6459&end=6560)

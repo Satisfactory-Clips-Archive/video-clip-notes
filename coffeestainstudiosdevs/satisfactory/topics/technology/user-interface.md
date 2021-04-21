@@ -3,14 +3,17 @@ title: "User Interface"
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
+* [Holograms](../../topics/technology/user-interface/holograms.md)
+
+## April 20th, 2021 Livestream
+* [Q&A: Fix the in-game calculator please, it processes the operations in the wrong direction](../../transcriptions/yt-rc0nFP-LkhI.md) [https://www.youtube.com/watch?v=rc0nFP-LkhI](https://www.youtube.com/watch?v=rc0nFP-LkhI)
+* [Q&A: Why can't we access the inventory when we're in vehicles?](../../transcriptions/yt-RtaiQPBJVqQ.md) [https://www.youtube.com/watch?v=RtaiQPBJVqQ](https://www.youtube.com/watch?v=RtaiQPBJVqQ)
 
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Day/Night cycle changes](../../transcriptions/yt-nDsZJUKHOUI.md) [https://www.youtube.com/watch?v=nDsZJUKHOUI](https://www.youtube.com/watch?v=nDsZJUKHOUI)
-* [Q&A: Multiple Body slots, when?](../../transcriptions/yt-Xa03UsMWsjo.md) [https://www.youtube.com/watch?v=Xa03UsMWsjo](https://www.youtube.com/watch?v=Xa03UsMWsjo)
 * Q&A: What are your thoughts on an in-game project planner, similar to Satisfactory Calculator? [https://www.youtube.com/watch?v=MVijm9JAoaw](https://www.youtube.com/watch?v=MVijm9JAoaw)
 
 ## March 30th, 2021 Livestream
-* [Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?](../../transcriptions/yt-XkDGnJwkY18.md) [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
 * [Q&A: Any plans on a global grid?](../../transcriptions/yt-QxJ8e_0r9uE.md) [https://www.youtube.com/watch?v=QxJ8e_0r9uE](https://www.youtube.com/watch?v=QxJ8e_0r9uE)
 * [Q&A: Can you fix the wheels when selecting walls?](../../transcriptions/yt-9qpSJT7gl9o.md) [https://www.youtube.com/watch?v=9qpSJT7gl9o](https://www.youtube.com/watch?v=9qpSJT7gl9o)
 * [Community FYI: Not being able to wear a mask is annoying](../../transcriptions/yt-r12CKyyTTJk.md) [https://www.youtube.com/watch?v=r12CKyyTTJk](https://www.youtube.com/watch?v=r12CKyyTTJk)
@@ -22,7 +25,6 @@ date: Last Modified
 * [PSA: AFK Crafting](../../transcriptions/yt-JHjGj7cJjk8.md) [https://www.youtube.com/watch?v=JHjGj7cJjk8](https://www.youtube.com/watch?v=JHjGj7cJjk8)
 * [Q&A: Any plans on adding copy/pasting to the builder?](../../transcriptions/yt-oEjEowDbetQ.md) [https://www.youtube.com/watch?v=oEjEowDbetQ](https://www.youtube.com/watch?v=oEjEowDbetQ)
 * [Q&A: Can you make overclocking numbers more precise?](../../transcriptions/yt-D-aOy0Uia6Q.md) [https://www.youtube.com/watch?v=D-aOy0Uia6Q](https://www.youtube.com/watch?v=D-aOy0Uia6Q)
-* [Q&A: Do you ever think you'll give us more than one Body Slot?](../../transcriptions/yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
 * [Q&A: If you could add a feature yourself right now, what would that be ?](../../transcriptions/yt-EbERjXIk_x4.md) [https://www.youtube.com/watch?v=EbERjXIk_x4](https://www.youtube.com/watch?v=EbERjXIk_x4)
 * [Q&A: Pause keybind when?](../../transcriptions/yt-2dCCPHV_fSk.md) [https://www.youtube.com/watch?v=2dCCPHV_fSk](https://www.youtube.com/watch?v=2dCCPHV_fSk)
 * [Q&A: There's a pause?](../../transcriptions/yt-VLSmQSlinEU.md) [https://www.youtube.com/watch?v=VLSmQSlinEU](https://www.youtube.com/watch?v=VLSmQSlinEU)
@@ -35,7 +37,6 @@ date: Last Modified
 
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: Community spotted things in the Nuclear Refinement teaser](../../transcriptions/yt-0BtRlCxfxEc.md) [https://www.youtube.com/watch?v=0BtRlCxfxEc](https://www.youtube.com/watch?v=0BtRlCxfxEc)
-* [Q&A: Will we ever get a second body slot?](../../transcriptions/yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)
 
 ## February 26th, 2021 Videos
 * Q&A: What is your favourite feature and bug in Satisfactory? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_What_is_your_favourite_feature_and_bug_in_Satisfactory.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_What_is_your_favourite_feature_and_bug_in_Satisfactory.mp4)

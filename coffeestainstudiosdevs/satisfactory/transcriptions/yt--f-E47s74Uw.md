@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will there be DLCs?
 https://www.youtube.com/watch?v=-f-E47s74Uw
-This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Does the dev team have any ideas for post-launch content?](./yt-gppSU17i2as.md) [https://www.youtube.com/watch?v=gppSU17i2as](https://www.youtube.com/watch?v=gppSU17i2as)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Will there be any updates after 1.0?](./yt-at2Y5iISicY.md) [https://www.youtube.com/watch?v=at2Y5iISicY](https://www.youtube.com/watch?v=at2Y5iISicY)
 
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as October 2020 and as early as February 2019.</summary>

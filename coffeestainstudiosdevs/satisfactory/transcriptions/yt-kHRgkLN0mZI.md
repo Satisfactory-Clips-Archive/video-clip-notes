@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will there be more cosmetic options for Factory Buildings?
 https://www.youtube.com/watch?v=kHRgkLN0mZI
-This question was possibly duplicated with a more recent answer: [November 24th, 2020 Livestream Q&A: Will there be more options for aesthetics regarding things like house building?](./yt-qQJTAvtzB-8.md) [https://www.youtube.com/watch?v=qQJTAvtzB-8](https://www.youtube.com/watch?v=qQJTAvtzB-8)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Can you guys add a lifestyle update with furniture in?](./yt-JlAmGDLcCfo.md) [https://www.youtube.com/watch?v=JlAmGDLcCfo](https://www.youtube.com/watch?v=JlAmGDLcCfo)
 
 
 ### Topics

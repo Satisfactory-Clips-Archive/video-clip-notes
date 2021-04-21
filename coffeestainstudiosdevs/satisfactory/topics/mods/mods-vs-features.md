@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## April 20th, 2021 Livestream
+* [Q&A: How much of future assets do you plan to delegate to modders?](../../transcriptions/yt-ZFZtORSMblg.md) [https://www.youtube.com/watch?v=ZFZtORSMblg](https://www.youtube.com/watch?v=ZFZtORSMblg)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Any mods you want to add to vanilla at some stage?](../../transcriptions/yt-mH06GfDfnQc.md) [https://www.youtube.com/watch?v=mH06GfDfnQc](https://www.youtube.com/watch?v=mH06GfDfnQc)
 * [Q&A: I like the MK+ mod, any plan to make it in vanilla?](../../transcriptions/yt-EcuPtUGKdBc.md) [https://www.youtube.com/watch?v=EcuPtUGKdBc](https://www.youtube.com/watch?v=EcuPtUGKdBc)

@@ -3,14 +3,14 @@ title: "January 19th, 2021 Livestream Q&A: Drinking Coffee with a Helmet on?"
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/cup"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Drinking Coffee with a Helmet on?
 https://www.youtube.com/watch?v=RRo4HMCuIxc
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Cup](../topics/features/equipment/cup.md)
 
 ### Transcript
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## April 20th, 2021 Livestream
+* [Community FYI: Mk.3 Miners need a few more output belts](../../../transcriptions/yt-OgsFVqnBaR8.md) [https://www.youtube.com/watch?v=OgsFVqnBaR8](https://www.youtube.com/watch?v=OgsFVqnBaR8)
+
 ## March 30th, 2021 Livestream
 * [Snutt Talk: Double output for Mk.3 Miner](../../../transcriptions/yt-uj2-PF2xHY8.md) [https://www.youtube.com/watch?v=uj2-PF2xHY8](https://www.youtube.com/watch?v=uj2-PF2xHY8)
 

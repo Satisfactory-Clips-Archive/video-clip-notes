@@ -16,6 +16,16 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: Do you guys have stuff that you wanna add but not sure about putting it on the QA site?](../transcriptions/yt-1YwuzwU17kI.md) [https://www.youtube.com/watch?v=1YwuzwU17kI](https://www.youtube.com/watch?v=1YwuzwU17kI)
+* Q&A: How many Updates before full release? [https://www.youtube.com/watch?v=7XSZ-08BaXc](https://www.youtube.com/watch?v=7XSZ-08BaXc)
+* [Q&A: Is there a roadmap publicly?](../transcriptions/yt-mZLhUSArwhM.md) [https://www.youtube.com/watch?v=mZLhUSArwhM](https://www.youtube.com/watch?v=mZLhUSArwhM)
+* [Snutt Talk: Might be a good habit to verify game files after every update](../transcriptions/yt-11kugJNY9ug.md) [https://www.youtube.com/watch?v=11kugJNY9ug](https://www.youtube.com/watch?v=11kugJNY9ug)
+* [Snutt Talk: Steam & Epic patch download failures causing graphical issues](../transcriptions/yt-uNYU4_DIxtI.md) [https://www.youtube.com/watch?v=uNYU4_DIxtI](https://www.youtube.com/watch?v=uNYU4_DIxtI)
+* [State of Dev: Try verifying files if you're experiencing graphical glitches](../transcriptions/yt-5NkjFaKNJmI.md) [https://www.youtube.com/watch?v=5NkjFaKNJmI](https://www.youtube.com/watch?v=5NkjFaKNJmI)
+* [Q&A: Where can I find the latest roadmap?](../transcriptions/yt-oTow--NnLz8.md) [https://www.youtube.com/watch?v=oTow--NnLz8](https://www.youtube.com/watch?v=oTow--NnLz8)
+* [Q&A: Will there be an Update 4.5?](../transcriptions/yt-rczQrecqq6w.md) [https://www.youtube.com/watch?v=rczQrecqq6w](https://www.youtube.com/watch?v=rczQrecqq6w)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Heard Dune Desert getting a second rework, is this true?](../transcriptions/yt-x3fI_4o0WPw.md) [https://www.youtube.com/watch?v=x3fI_4o0WPw](https://www.youtube.com/watch?v=x3fI_4o0WPw)
 * [Q&A: Please can I have the future Roadmap back, I need it in my life](../transcriptions/yt-AlerpJ2AaXQ.md) [https://www.youtube.com/watch?v=AlerpJ2AaXQ](https://www.youtube.com/watch?v=AlerpJ2AaXQ)

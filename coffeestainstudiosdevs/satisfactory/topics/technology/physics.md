@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## April 20th, 2021 Livestream
+* [Q&A: Will you add structual integrity?](../../transcriptions/yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Will Conveyors ever get collision against each other or can I continue my chaos?](../../transcriptions/yt-AwICAUMlVaI.md) [https://www.youtube.com/watch?v=AwICAUMlVaI](https://www.youtube.com/watch?v=AwICAUMlVaI)
 

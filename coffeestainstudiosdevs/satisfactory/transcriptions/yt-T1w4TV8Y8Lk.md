@@ -9,7 +9,7 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Blueprints/Mass construction - will we have it ? If not, why not?
 https://www.youtube.com/watch?v=T1w4TV8Y8Lk
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Blueprints, when?](./yt-9Yqc4z9NPI8.md) [https://www.youtube.com/watch?v=9Yqc4z9NPI8](https://www.youtube.com/watch?v=9Yqc4z9NPI8)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Blueprints?](./yt-x0N2HGv49Eg.md) [https://www.youtube.com/watch?v=x0N2HGv49Eg](https://www.youtube.com/watch?v=x0N2HGv49Eg)
 
 
 ### Topics

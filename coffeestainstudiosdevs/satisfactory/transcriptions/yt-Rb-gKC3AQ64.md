@@ -3,14 +3,14 @@ title: "February 23rd, 2021 Livestream Q&A: Can you make Coffee give you 1% spee
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/cup"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Can you make Coffee give you 1% speed boost when building?
 https://www.youtube.com/watch?v=Rb-gKC3AQ64
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Cup](../topics/features/equipment/cup.md)
 
 ### Transcript
 

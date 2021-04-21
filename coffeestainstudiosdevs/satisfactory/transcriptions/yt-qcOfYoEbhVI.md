@@ -3,17 +3,17 @@ title: "January 22nd, 2020 Livestream Q&A: Will Gas Masks be working when you si
 date: "2020-01-22"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/gas-mask"
     - "features/transportation/vehicles"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Will Gas Masks be working when you sit in vehicles?
 https://www.youtube.com/watch?v=qcOfYoEbhVI
-This question was possibly duplicated with a more recent answer: [September 8th, 2020 Livestream Q&A: Why do you take Gas damage while wearing a Gas Mask while driving a Car?](./yt-HSuHlcSl-y8.md) [https://www.youtube.com/watch?v=HSuHlcSl-y8](https://www.youtube.com/watch?v=HSuHlcSl-y8)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: What's with the bug with the Gas Mask with the Truck?](./yt-GDthMsvmWaw.md) [https://www.youtube.com/watch?v=GDthMsvmWaw](https://www.youtube.com/watch?v=GDthMsvmWaw)
 
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Gas Mask](../topics/features/equipment/gas-mask.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 
 ### Transcript

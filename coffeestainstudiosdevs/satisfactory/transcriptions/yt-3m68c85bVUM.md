@@ -8,7 +8,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Satisfactory Sandbox ever?
 https://www.youtube.com/watch?v=3m68c85bVUM
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Is Creative Mode coming?](./yt-l4yloW6vhr8.md) [https://www.youtube.com/watch?v=l4yloW6vhr8](https://www.youtube.com/watch?v=l4yloW6vhr8)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Will there be Creative Mode?](./yt-AE7doTpLQOU.md) [https://www.youtube.com/watch?v=AE7doTpLQOU](https://www.youtube.com/watch?v=AE7doTpLQOU)
 
 
 ### Topics

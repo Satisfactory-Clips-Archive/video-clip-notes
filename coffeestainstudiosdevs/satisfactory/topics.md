@@ -149,8 +149,12 @@ date: Last Modified
 ## [Equipment](./topics/features/equipment.md)
 * [Blade Runners](./topics/features/equipment/blade-runners.md)
 * [Chainsaw](./topics/features/equipment/chainsaw.md)
+* [Color Gun](./topics/features/equipment/color-gun.md)
+* [Cup](./topics/features/equipment/cup.md)
+* [Gas Mask](./topics/features/equipment/gas-mask.md)
 * [Hover Pack](./topics/features/equipment/hover-pack.md)
 * [Jetpack](./topics/features/equipment/jetpack.md)
+* [Rifle](./topics/features/equipment/rifle.md)
 * [Zip Lines](./topics/features/equipment/zip-lines.md)
 ---
 
@@ -197,6 +201,11 @@ date: Last Modified
 ### [Nuclear Energy](./topics/features/power-management/nuclear-energy.md)
 * [Nuclear Refinement](./topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](./topics/features/power-management/nuclear-energy/nuclear-waste.md)
+---
+
+## Requested Features
+* [Holstering Equipment](./topics/features/requested-features/holstering-equipment.md)
+* [Multiple Body Slots](./topics/features/requested-features/multiple-body-slots.md)
 ---
 
 ## [Save System](./topics/features/save-system.md)
@@ -379,7 +388,6 @@ date: Last Modified
 * [Linux](./topics/technology/linux.md)
 * [Mac](./topics/technology/mac.md)
 * [Physics](./topics/technology/physics.md)
-* [User Interface](./topics/technology/user-interface.md)
 
 ## [Graphics](./topics/technology/graphics.md)
 * [DLSS](./topics/technology/graphics/dlss.md)
@@ -389,5 +397,9 @@ date: Last Modified
 ## [Unreal Engine](./topics/technology/unreal-engine.md)
 * [Custom Component: Instanced Spline Mesh](./topics/technology/unreal-engine/custom-component-instanced-spline-mesh.md)
 * [Object Limit](./topics/technology/unreal-engine/object-limit.md)
+---
+
+## [User Interface](./topics/technology/user-interface.md)
+* [Holograms](./topics/technology/user-interface/holograms.md)
 ---
 * [Trolling](./topics/trolling.md)

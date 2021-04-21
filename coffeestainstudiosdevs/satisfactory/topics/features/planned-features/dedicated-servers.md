@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## April 20th, 2021 Livestream
+* [Q&A: Dedicated Servers?](../../../transcriptions/yt--y2km1ZuOs4.md) [https://www.youtube.com/watch?v=-y2km1ZuOs4](https://www.youtube.com/watch?v=-y2km1ZuOs4)
+* [Q&A: When Dedicated Servers are available, will we be able to load existing saves?](../../../transcriptions/yt-_IXLS7G2Ef0.md) [https://www.youtube.com/watch?v=_IXLS7G2Ef0](https://www.youtube.com/watch?v=_IXLS7G2Ef0)
+
 ## April 13th, 2021 Livestream
 * Q&A: Any info on Dedicated Servers? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951)
 * Q&A: Dedicated Servers? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708)

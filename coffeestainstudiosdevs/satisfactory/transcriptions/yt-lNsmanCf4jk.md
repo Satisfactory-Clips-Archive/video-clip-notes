@@ -3,7 +3,7 @@ title: "April 6th, 2021 Livestream Q&A: Depleted Uranium ammo?"
 date: "2021-04-06"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/rifle"
     - "features/power-management/nuclear-energy/nuclear-waste"
 ---
 # [April 6th, 2021 Livestream](../2021-04-06.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=lNsmanCf4jk
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
 ### Transcript

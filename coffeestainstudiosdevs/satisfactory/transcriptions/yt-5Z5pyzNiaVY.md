@@ -3,23 +3,16 @@ title: "February 9th, 2021 Livestream Q&A: Turbofuel in Jetpacks would make a bu
 date: "2021-02-09"
 layout: transcript
 topics:
-    - "features/equipment"
     - "features/equipment/jetpack"
     - "technology/user-interface"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?
 https://www.youtube.com/watch?v=5Z5pyzNiaVY
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as December 2020 and as early as October 2020.</summary>
-
-* [December 15th, 2020 Livestream Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?](./yt-pSGEDxxLn2E.md) [https://www.youtube.com/watch?v=pSGEDxxLn2E](https://www.youtube.com/watch?v=pSGEDxxLn2E)
-* [October 1st, 2020 Q&A: Can we use Turbofuel in Jetpacks?](./yt-rATcozDE25c,476.04223333333334,527.5603666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528)
-</details>
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Will we ever be able to use Turbofuel in Jetpacks?](./yt-FqtXvF6LhVM.md) [https://www.youtube.com/watch?v=FqtXvF6LhVM](https://www.youtube.com/watch?v=FqtXvF6LhVM)
 
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
 * [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

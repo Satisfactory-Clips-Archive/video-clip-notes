@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## April 20th, 2021 Livestream
+* [Snutt Talk: Might be a good habit to verify game files after every update](../../transcriptions/yt-11kugJNY9ug.md) [https://www.youtube.com/watch?v=11kugJNY9ug](https://www.youtube.com/watch?v=11kugJNY9ug)
+* [Snutt Talk: Steam & Epic patch download failures causing graphical issues](../../transcriptions/yt-uNYU4_DIxtI.md) [https://www.youtube.com/watch?v=uNYU4_DIxtI](https://www.youtube.com/watch?v=uNYU4_DIxtI)
+* [State of Dev: Try verifying files if you're experiencing graphical glitches](../../transcriptions/yt-5NkjFaKNJmI.md) [https://www.youtube.com/watch?v=5NkjFaKNJmI](https://www.youtube.com/watch?v=5NkjFaKNJmI)
+
 ## April 13th, 2021 Livestream
 * Snutt Talk: Schedule Reitereation & Store Discounts [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4236&end=4353](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4236&end=4353)
 * Snutt Talk: Verify your game files before checking the QA site [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1386&end=1445](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1386&end=1445)

@@ -8,6 +8,8 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Why not just replace Foundation groups with a single object?
 https://www.youtube.com/watch?v=wNLWTAG6j5o
+This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Mass building like the Smart! Mod?](./yt-ewd0MlE-zzA.md) [https://www.youtube.com/watch?v=ewd0MlE-zzA](https://www.youtube.com/watch?v=ewd0MlE-zzA)
+
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)

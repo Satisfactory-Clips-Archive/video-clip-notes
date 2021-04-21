@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What's the max amount of body slots?
 https://www.youtube.com/watch?v=aPWXjH-Xf1o
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Multiple Body slots, when?](./yt-Xa03UsMWsjo.md) [https://www.youtube.com/watch?v=Xa03UsMWsjo](https://www.youtube.com/watch?v=Xa03UsMWsjo)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Body Slots?](./yt-G6TdxrJuIaA.md) [https://www.youtube.com/watch?v=G6TdxrJuIaA](https://www.youtube.com/watch?v=G6TdxrJuIaA)
 
 
 ### Topics

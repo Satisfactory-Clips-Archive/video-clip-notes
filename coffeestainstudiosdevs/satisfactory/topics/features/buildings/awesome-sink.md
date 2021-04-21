@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
+## April 20th, 2021 Livestream
+* [Q&A: Is it possible to have a Sink also do Fluids?](../../../transcriptions/yt-FQqUQHMw4QA.md) [https://www.youtube.com/watch?v=FQqUQHMw4QA](https://www.youtube.com/watch?v=FQqUQHMw4QA)
+* [Q&A: What about letting people use Space Elevator to send up Fuel Rods instead of sinking them?](../../../transcriptions/yt-R83_D7zSZYo.md) [https://www.youtube.com/watch?v=R83_D7zSZYo](https://www.youtube.com/watch?v=R83_D7zSZYo)
+* [Q&A: Will Plutonium Waste be sinkable later?](../../../transcriptions/yt-G0mmpee5yxE.md) [https://www.youtube.com/watch?v=G0mmpee5yxE](https://www.youtube.com/watch?v=G0mmpee5yxE)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Fluids Sinks?](../../../transcriptions/yt-GippjFCCUPw.md) [https://www.youtube.com/watch?v=GippjFCCUPw](https://www.youtube.com/watch?v=GippjFCCUPw)
 * [Snutt & Mark Talk: Sinkable Plutonium Fuel Rods](../../../transcriptions/yt-ZWF_pdblQxY.md) [https://www.youtube.com/watch?v=ZWF_pdblQxY](https://www.youtube.com/watch?v=ZWF_pdblQxY)

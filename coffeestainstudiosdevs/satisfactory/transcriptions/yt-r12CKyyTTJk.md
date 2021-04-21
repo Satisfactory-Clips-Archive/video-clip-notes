@@ -3,7 +3,7 @@ title: "March 30th, 2021 Livestream Community FYI: Not being able to wear a mask
 date: "2021-03-30"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/gas-mask"
     - "technology/user-interface"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=r12CKyyTTJk
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Gas Mask](../topics/features/equipment/gas-mask.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

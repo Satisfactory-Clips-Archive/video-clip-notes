@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Thoughts on using a Priority Merger similar to Smart Splitter using overflow?
 https://www.youtube.com/watch?v=T5UqkbsAbXg
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Any plans for Smart Mergers yet?](./yt-KUfze04EJmA.md) [https://www.youtube.com/watch?v=KUfze04EJmA](https://www.youtube.com/watch?v=KUfze04EJmA)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Priority Merger?](./yt-KLCWJo13ln0.md) [https://www.youtube.com/watch?v=KLCWJo13ln0](https://www.youtube.com/watch?v=KLCWJo13ln0)
 
 
 ### Topics

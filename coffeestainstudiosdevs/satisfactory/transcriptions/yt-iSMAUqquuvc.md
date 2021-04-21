@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Roadmap?
 https://www.youtube.com/watch?v=iSMAUqquuvc
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Satisfactory Roadmap?](./yt-HZ4vKssj208.md) [https://www.youtube.com/watch?v=HZ4vKssj208](https://www.youtube.com/watch?v=HZ4vKssj208)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Is there a roadmap publicly?](./yt-mZLhUSArwhM.md) [https://www.youtube.com/watch?v=mZLhUSArwhM](https://www.youtube.com/watch?v=mZLhUSArwhM)
 
 
 ### Topics

@@ -10,7 +10,7 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Do you intended to do planned amount of huge Updates?
 https://www.youtube.com/watch?v=Nk53HWpUnnk
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will this be the last Update before 1.0?](./yt-DOFC8O2yXNw.md) [https://www.youtube.com/watch?v=DOFC8O2yXNw](https://www.youtube.com/watch?v=DOFC8O2yXNw)
+This question was possibly duplicated with a more recent answer: April 20th, 2021 Livestream Q&A: How many Updates before full release? [https://www.youtube.com/watch?v=7XSZ-08BaXc](https://www.youtube.com/watch?v=7XSZ-08BaXc)
 
 
 ### Topics

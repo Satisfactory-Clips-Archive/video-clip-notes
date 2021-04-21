@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 5
 
+## April 20th, 2021 Livestream
+* [Q&A: Any timeframe for Update 5?](../../../transcriptions/yt-3vGN4jCBhdY.md) [https://www.youtube.com/watch?v=3vGN4jCBhdY](https://www.youtube.com/watch?v=3vGN4jCBhdY)
+* [Q&A: Doing something with S.A.M. Ore next update?](../../../transcriptions/yt-tSUBtq9ny4g.md) [https://www.youtube.com/watch?v=tSUBtq9ny4g](https://www.youtube.com/watch?v=tSUBtq9ny4g)
+* [State of Dev: Update 5](../../../transcriptions/yt-M3Q2LG6RaI8.md) [https://www.youtube.com/watch?v=M3Q2LG6RaI8](https://www.youtube.com/watch?v=M3Q2LG6RaI8)
+* [Q&A: Will there be an Update 4.5?](../../../transcriptions/yt-rczQrecqq6w.md) [https://www.youtube.com/watch?v=rczQrecqq6w](https://www.youtube.com/watch?v=rczQrecqq6w)
+
 ## April 13th, 2021 Livestream
 * Snutt Talk: The future of Satisfactory [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6327&end=6460](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6327&end=6460)
 * Snutt Talk: Update 5 is probably going to be smaller than Update 4 [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6559&end=6588](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6559&end=6588)

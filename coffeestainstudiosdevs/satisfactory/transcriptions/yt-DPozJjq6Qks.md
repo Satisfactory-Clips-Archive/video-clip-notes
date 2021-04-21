@@ -8,6 +8,8 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Why can modders make so much content in a shorter time than the studio?
 https://www.youtube.com/watch?v=DPozJjq6Qks
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: How much of future assets do you plan to delegate to modders?](./yt-ZFZtORSMblg.md) [https://www.youtube.com/watch?v=ZFZtORSMblg](https://www.youtube.com/watch?v=ZFZtORSMblg)
+
 
 ### Topics
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)

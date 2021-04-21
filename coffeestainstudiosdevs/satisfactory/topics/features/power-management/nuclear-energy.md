@@ -6,6 +6,9 @@ date: Last Modified
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: What about letting people use Space Elevator to send up Fuel Rods instead of sinking them?](../../../transcriptions/yt-R83_D7zSZYo.md) [https://www.youtube.com/watch?v=R83_D7zSZYo](https://www.youtube.com/watch?v=R83_D7zSZYo)
+
 ## April 13th, 2021 Livestream
 * Snutt Talk: Are you excited for your Nuclear stuff to break? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6214&end=6286](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6214&end=6286)
 

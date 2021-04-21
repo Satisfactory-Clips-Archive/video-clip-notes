@@ -3,14 +3,14 @@ title: "February 23rd, 2021 Livestream Q&A: Reload for Rifles?"
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/rifle"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Reload for Rifles?
 https://www.youtube.com/watch?v=LGjLUSeHQ4w
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
 
 ### Transcript
 

@@ -10,7 +10,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Sink that accepts Liquids or Gas?
 https://www.youtube.com/watch?v=SskXA-lxaCI
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Sinking Fluids?](./yt-aXJMTzXDwrI.md) [https://www.youtube.com/watch?v=aXJMTzXDwrI](https://www.youtube.com/watch?v=aXJMTzXDwrI)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Is it possible to have a Sink also do Fluids?](./yt-FQqUQHMw4QA.md) [https://www.youtube.com/watch?v=FQqUQHMw4QA](https://www.youtube.com/watch?v=FQqUQHMw4QA)
 
 
 ### Topics

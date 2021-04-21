@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## April 20th, 2021 Livestream
+* [Q&A: Particle Accelerator has an unused Pipe entrance right now, are there plans for new Recipes?](../../../transcriptions/yt-hf_B-RfDt5A.md) [https://www.youtube.com/watch?v=hf_B-RfDt5A](https://www.youtube.com/watch?v=hf_B-RfDt5A)
+* [Snutt Talk: Pipe issues](../../../transcriptions/yt-lkA51YbdE6E.md) [https://www.youtube.com/watch?v=lkA51YbdE6E](https://www.youtube.com/watch?v=lkA51YbdE6E)
+* [State of Dev: Removal of power self-regulation & issues with pipes](../../../transcriptions/yt-g90f175Jk_w.md) [https://www.youtube.com/watch?v=g90f175Jk_w](https://www.youtube.com/watch?v=g90f175Jk_w)
+* [Q&A: What's up with Pipe manifolds?](../../../transcriptions/yt-Bz3mLp3HmeQ.md) [https://www.youtube.com/watch?v=Bz3mLp3HmeQ](https://www.youtube.com/watch?v=Bz3mLp3HmeQ)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Are you aware of the Pipe issue in Update 4?](../../../transcriptions/yt-XN5oNoh2hqY.md) [https://www.youtube.com/watch?v=XN5oNoh2hqY](https://www.youtube.com/watch?v=XN5oNoh2hqY)
 

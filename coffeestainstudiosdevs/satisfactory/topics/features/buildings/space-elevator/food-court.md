@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Buildings](../../../../topics/features/buildings.md) > [Space Elevator](../../../../topics/features/buildings/space-elevator.md) > Food Court
 
+## April 20th, 2021 Livestream
+* [Q&A: How many tiers will you need to reveal what Project Assembly is?](../../../../transcriptions/yt-YN-v2W9zwFE.md) [https://www.youtube.com/watch?v=YN-v2W9zwFE](https://www.youtube.com/watch?v=YN-v2W9zwFE)
+* [Community FYI: Need the Nitrogen Gas for fizzy drinks](../../../../transcriptions/yt-RoKvL8KuXFk.md) [https://www.youtube.com/watch?v=RoKvL8KuXFk](https://www.youtube.com/watch?v=RoKvL8KuXFk)
+* [Community FYI: Slug Soda as an energy drink](../../../../transcriptions/yt-b0aXcoi6JUA.md) [https://www.youtube.com/watch?v=b0aXcoi6JUA](https://www.youtube.com/watch?v=b0aXcoi6JUA)
+* [Q&A: What are we building in space?](../../../../transcriptions/yt-nFWXgB1jUhk.md) [https://www.youtube.com/watch?v=nFWXgB1jUhk](https://www.youtube.com/watch?v=nFWXgB1jUhk)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Where does the Space Elevator go?](../../../../transcriptions/yt-g9FlxkN5dhc.md) [https://www.youtube.com/watch?v=g9FlxkN5dhc](https://www.youtube.com/watch?v=g9FlxkN5dhc)
 

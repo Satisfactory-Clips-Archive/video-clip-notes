@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: How many Updates until 1.0?
 https://www.youtube.com/watch?v=qtf26oE7kQs
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will this be the last Update before 1.0?](./yt-DOFC8O2yXNw.md) [https://www.youtube.com/watch?v=DOFC8O2yXNw](https://www.youtube.com/watch?v=DOFC8O2yXNw)
+This question was possibly duplicated with a more recent answer: April 20th, 2021 Livestream Q&A: How many Updates before full release? [https://www.youtube.com/watch?v=7XSZ-08BaXc](https://www.youtube.com/watch?v=7XSZ-08BaXc)
 
 
 ### Topics

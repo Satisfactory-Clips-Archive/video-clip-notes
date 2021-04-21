@@ -3,14 +3,14 @@ title: "April 6th, 2021 Livestream Q&A: Are you going to buff the Rifle damage?"
 date: "2021-04-06"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/rifle"
 ---
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Are you going to buff the Rifle damage?
 https://www.youtube.com/watch?v=LRXvhb0zjFs
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
 
 ### Transcript
 

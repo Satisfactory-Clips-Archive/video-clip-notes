@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## April 20th, 2021 Livestream
+* [Q&A: Are you going to fix the issues with Drones?](../../../../transcriptions/yt-_Gfr5kJzcro.md) [https://www.youtube.com/watch?v=_Gfr5kJzcro](https://www.youtube.com/watch?v=_Gfr5kJzcro)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Rechargeable Batteries?](../../../../transcriptions/yt-8wU1YvsAytE.md) [https://www.youtube.com/watch?v=8wU1YvsAytE](https://www.youtube.com/watch?v=8wU1YvsAytE)
 * [Q&A: Will the Drones get a buff, because they're a little too expensive against the Trains?](../../../../transcriptions/yt-yZHoy5xKB1c.md) [https://www.youtube.com/watch?v=yZHoy5xKB1c](https://www.youtube.com/watch?v=yZHoy5xKB1c)

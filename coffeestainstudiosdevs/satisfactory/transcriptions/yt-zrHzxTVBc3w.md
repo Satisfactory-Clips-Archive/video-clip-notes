@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will Story need a new Save File?
 https://www.youtube.com/watch?v=zrHzxTVBc3w
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Will you be able to play Story on an existing save when 1.0 comes out?](./yt-fbIm1CfGGZQ.md) [https://www.youtube.com/watch?v=fbIm1CfGGZQ](https://www.youtube.com/watch?v=fbIm1CfGGZQ)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Will you be able to experience the Story regardless of where you're at in the game?](./yt-XWaSY4K9P0U.md) [https://www.youtube.com/watch?v=XWaSY4K9P0U](https://www.youtube.com/watch?v=XWaSY4K9P0U)
 
 
 ### Topics

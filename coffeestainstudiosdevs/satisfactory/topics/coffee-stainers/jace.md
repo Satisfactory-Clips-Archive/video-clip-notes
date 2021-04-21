@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## April 20th, 2021 Livestream
+* [Community Highlights: Jace gets featured in Community Highlights](../../transcriptions/yt-LMj4zqWimc4.md) [https://www.youtube.com/watch?v=LMj4zqWimc4](https://www.youtube.com/watch?v=LMj4zqWimc4)
+
 ## April 13th, 2021 Livestream
 * State of Dev: Jace is still on vacation [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=636&end=688](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=636&end=688)
 

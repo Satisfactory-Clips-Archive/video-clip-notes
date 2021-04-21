@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## April 20th, 2021 Livestream
+* [Q&A: I have a texture bug where certain items on the belts use grey and rainbow placeholder textures](../../../transcriptions/yt-VjL5GczlMSE.md) [https://www.youtube.com/watch?v=VjL5GczlMSE](https://www.youtube.com/watch?v=VjL5GczlMSE)
+* [Community FYI: Mk.3 Miners need a few more output belts](../../../transcriptions/yt-OgsFVqnBaR8.md) [https://www.youtube.com/watch?v=OgsFVqnBaR8](https://www.youtube.com/watch?v=OgsFVqnBaR8)
+* [Q&A: Priority Merger?](../../../transcriptions/yt-KLCWJo13ln0.md) [https://www.youtube.com/watch?v=KLCWJo13ln0](https://www.youtube.com/watch?v=KLCWJo13ln0)
+* [Q&A: The Ratio Splitter?](../../../transcriptions/yt-cBwAofHv-6o.md) [https://www.youtube.com/watch?v=cBwAofHv-6o](https://www.youtube.com/watch?v=cBwAofHv-6o)
+
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Cheatcrete, Build Modes, and clipping](../../../transcriptions/yt-RtBNa7oGJiI.md) [https://www.youtube.com/watch?v=RtBNa7oGJiI](https://www.youtube.com/watch?v=RtBNa7oGJiI)
 * [Q&A: Mk.6 Belts?](../../../transcriptions/yt-sUed4aFcYLs.md) [https://www.youtube.com/watch?v=sUed4aFcYLs](https://www.youtube.com/watch?v=sUed4aFcYLs)

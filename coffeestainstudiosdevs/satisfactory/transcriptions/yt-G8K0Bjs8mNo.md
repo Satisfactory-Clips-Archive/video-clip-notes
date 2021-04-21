@@ -8,7 +8,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Achievements?
 https://www.youtube.com/watch?v=G8K0Bjs8mNo
-This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: Anything about achievements? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Will achievements be added?](./yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
 
 
 ### Topics

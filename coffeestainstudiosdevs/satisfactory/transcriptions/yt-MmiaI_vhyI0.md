@@ -10,6 +10,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Can we send the nuke waste to FICSIT?
 https://www.youtube.com/watch?v=MmiaI_vhyI0
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: What about letting people use Space Elevator to send up Fuel Rods instead of sinking them?](./yt-R83_D7zSZYo.md) [https://www.youtube.com/watch?v=R83_D7zSZYo](https://www.youtube.com/watch?v=R83_D7zSZYo)
+
 
 ### Topics
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)

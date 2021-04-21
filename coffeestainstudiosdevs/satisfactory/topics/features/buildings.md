@@ -23,6 +23,12 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: Daisy-chaining machines when?](../../transcriptions/yt-1ouv6GGsyY0.md) [https://www.youtube.com/watch?v=1ouv6GGsyY0](https://www.youtube.com/watch?v=1ouv6GGsyY0)
+* [Q&A: Vertical elevators for character and transport?](../../transcriptions/yt-uLe9eMpCxRg.md) [https://www.youtube.com/watch?v=uLe9eMpCxRg](https://www.youtube.com/watch?v=uLe9eMpCxRg)
+* [Q&A: What's the reason behind no daisy-chaining, it looks cleaner?](../../transcriptions/yt-tqnmQ6HMij4.md) [https://www.youtube.com/watch?v=tqnmQ6HMij4](https://www.youtube.com/watch?v=tqnmQ6HMij4)
+* [Q&A: Will you add structual integrity?](../../transcriptions/yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Mk.2 Factory Buildings?](../../transcriptions/yt-Qni_FzPcx9g.md) [https://www.youtube.com/watch?v=Qni_FzPcx9g](https://www.youtube.com/watch?v=Qni_FzPcx9g)
 * [Q&A: Would you ever add a way to produce Power Shards?](../../transcriptions/yt-57oPRYp61-s.md) [https://www.youtube.com/watch?v=57oPRYp61-s](https://www.youtube.com/watch?v=57oPRYp61-s)

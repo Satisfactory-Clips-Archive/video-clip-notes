@@ -16,3 +16,6 @@ date: Last Modified
 
 ## February 2nd, 2021 Livestream
 * [Q&A: Will we get two character slots for Jetpacks and Blade Runners](../../../transcriptions/yt-YKIN_NCGDpo.md) [https://www.youtube.com/watch?v=YKIN_NCGDpo](https://www.youtube.com/watch?v=YKIN_NCGDpo)
+
+## September 15th, 2020 Livestream
+* [Q&A: Can I wear Boots, Jetpack and a Gas Mask?](../../../transcriptions/yt-Gt1ATsmBu6k.md) [https://www.youtube.com/watch?v=Gt1ATsmBu6k](https://www.youtube.com/watch?v=Gt1ATsmBu6k)

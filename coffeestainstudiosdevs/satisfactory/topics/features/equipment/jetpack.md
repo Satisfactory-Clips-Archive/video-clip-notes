@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## April 20th, 2021 Livestream
+* [Q&A: Will we ever be able to use Turbofuel in Jetpacks?](../../../transcriptions/yt-FqtXvF6LhVM.md) [https://www.youtube.com/watch?v=FqtXvF6LhVM](https://www.youtube.com/watch?v=FqtXvF6LhVM)
+
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Hover Pack vs. Jetpack](../../../transcriptions/yt-_6MSvhb6COU.md) [https://www.youtube.com/watch?v=_6MSvhb6COU](https://www.youtube.com/watch?v=_6MSvhb6COU)
 

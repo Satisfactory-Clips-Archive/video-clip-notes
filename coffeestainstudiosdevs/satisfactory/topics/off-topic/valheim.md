@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## April 20th, 2021 Livestream
+* [Q&A: Any ETA on Valheim Earth & Home Update?](../../transcriptions/yt-tS_CE6H7Oc4.md) [https://www.youtube.com/watch?v=tS_CE6H7Oc4](https://www.youtube.com/watch?v=tS_CE6H7Oc4)
+* [Q&A: Please don't burn the sympathetic Valheim Community Manager](../../transcriptions/yt-I1q8M9cnCQg.md) [https://www.youtube.com/watch?v=I1q8M9cnCQg](https://www.youtube.com/watch?v=I1q8M9cnCQg)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Jace Talk: That's a nice-looking office- that Valheim money!](../../transcriptions/yt-2mI93RGSjZ8.md) [https://www.youtube.com/watch?v=2mI93RGSjZ8](https://www.youtube.com/watch?v=2mI93RGSjZ8)
 

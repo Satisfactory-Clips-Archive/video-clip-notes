@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum
 
+## April 20th, 2021 Livestream
+* [Q&A: You've said no defense turrets before, how about tesla towers?](../../transcriptions/yt-NoM9FK-dx6s.md) [https://www.youtube.com/watch?v=NoM9FK-dx6s](https://www.youtube.com/watch?v=NoM9FK-dx6s)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Could some Sanctum gameplay, maybe the Tower Defense part come to Satisfactory?](../../transcriptions/yt-1UTiDPGMgRI.md) [https://www.youtube.com/watch?v=1UTiDPGMgRI](https://www.youtube.com/watch?v=1UTiDPGMgRI)
 * [Q&A: Sanctum 3, when?](../../transcriptions/yt-Ud7cgUEuVlE.md) [https://www.youtube.com/watch?v=Ud7cgUEuVlE](https://www.youtube.com/watch?v=Ud7cgUEuVlE)

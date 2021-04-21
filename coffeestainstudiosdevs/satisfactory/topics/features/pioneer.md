@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## April 20th, 2021 Livestream
+* [Q&A: Is your character the Engineer or the Pioneer?](../../transcriptions/yt-KUqrPtD8LF8.md) [https://www.youtube.com/watch?v=KUqrPtD8LF8](https://www.youtube.com/watch?v=KUqrPtD8LF8)
+* [Q&A: My corpse is in the dead zone, how do I retrieve it?](../../transcriptions/yt-7ZhQQ90M2eU.md) [https://www.youtube.com/watch?v=7ZhQQ90M2eU](https://www.youtube.com/watch?v=7ZhQQ90M2eU)
+* [Q&A: Vertical elevators for character and transport?](../../transcriptions/yt-uLe9eMpCxRg.md) [https://www.youtube.com/watch?v=uLe9eMpCxRg](https://www.youtube.com/watch?v=uLe9eMpCxRg)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Can we finally sleep in the HUB?](../../transcriptions/yt-vB8Drt_Ybhw.md) [https://www.youtube.com/watch?v=vB8Drt_Ybhw](https://www.youtube.com/watch?v=vB8Drt_Ybhw)
 * [Q&A: Could you make a setting to disable the feet dragging sound?](../../transcriptions/yt-KfKtG1DjjFI.md) [https://www.youtube.com/watch?v=KfKtG1DjjFI](https://www.youtube.com/watch?v=KfKtG1DjjFI)
@@ -19,9 +24,6 @@ date: Last Modified
 
 ## March 16th, 2021 Livestream
 * Q&A: Does ADA's helmet contain Oil or something- there's a knob behind the Helmet? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868)
-
-## March 9th, 2021 Livestream
-* [Q&A: Will we ever get a second body slot?](../../transcriptions/yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)
 
 ## March 2nd, 2021 Livestream
 * [Q&A: Will the Blade Runners actually be attached to the body at some point?](../../transcriptions/yt-W-67fl8Fg48.md) [https://www.youtube.com/watch?v=W-67fl8Fg48](https://www.youtube.com/watch?v=W-67fl8Fg48)

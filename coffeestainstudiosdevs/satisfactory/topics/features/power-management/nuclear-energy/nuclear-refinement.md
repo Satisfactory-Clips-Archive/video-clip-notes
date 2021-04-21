@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
 
+## April 20th, 2021 Livestream
+* [Q&A: What about letting people use Space Elevator to send up Fuel Rods instead of sinking them?](../../../../transcriptions/yt-R83_D7zSZYo.md) [https://www.youtube.com/watch?v=R83_D7zSZYo](https://www.youtube.com/watch?v=R83_D7zSZYo)
+* [Q&A: Will Plutonium Waste be sinkable later?](../../../../transcriptions/yt-G0mmpee5yxE.md) [https://www.youtube.com/watch?v=G0mmpee5yxE](https://www.youtube.com/watch?v=G0mmpee5yxE)
+
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Endgame Balancing](../../../../transcriptions/yt-LieMqMVIOgg.md) [https://www.youtube.com/watch?v=LieMqMVIOgg](https://www.youtube.com/watch?v=LieMqMVIOgg)
 * [Snutt & Mark Talk: Sinkable Plutonium Fuel Rods](../../../../transcriptions/yt-ZWF_pdblQxY.md) [https://www.youtube.com/watch?v=ZWF_pdblQxY](https://www.youtube.com/watch?v=ZWF_pdblQxY)

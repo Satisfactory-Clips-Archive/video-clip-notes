@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Any thought to allow Splitters to regulate the flow of items per minute?
 https://www.youtube.com/watch?v=nSC4C_h1ONo
-This question was possibly duplicated with a more recent answer: April 6th, 2021 Livestream Q&A: Ratio Splitters? [https://www.youtube.com/watch?v=A26wW5I25T8](https://www.youtube.com/watch?v=A26wW5I25T8)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: The Ratio Splitter?](./yt-cBwAofHv-6o.md) [https://www.youtube.com/watch?v=cBwAofHv-6o](https://www.youtube.com/watch?v=cBwAofHv-6o)
 
 
 ### Topics

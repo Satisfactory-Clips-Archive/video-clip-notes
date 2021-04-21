@@ -9,7 +9,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Anything narrative?
 https://www.youtube.com/watch?v=1mZyPuZXLE4
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Is the game going to have a big Story?](./yt-S-o-0uuZUDo.md) [https://www.youtube.com/watch?v=S-o-0uuZUDo](https://www.youtube.com/watch?v=S-o-0uuZUDo)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: When are you adding Story?](./yt-U1s8L1JR36Q.md) [https://www.youtube.com/watch?v=U1s8L1JR36Q](https://www.youtube.com/watch?v=U1s8L1JR36Q)
 
 
 ### Topics

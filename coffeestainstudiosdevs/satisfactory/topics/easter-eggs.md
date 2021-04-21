@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## April 20th, 2021 Livestream
+* [Q&A: Are there hidden puzzles in the game?](../transcriptions/yt-m7zB1crQc00.md) [https://www.youtube.com/watch?v=m7zB1crQc00](https://www.youtube.com/watch?v=m7zB1crQc00)
+
 ## February 26th, 2021 Videos
 * Q&A: Make an Among Us Easter Egg please? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Make_a_among_us_Easter_egg_please.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Make_a_among_us_Easter_egg_please.mp4)
 

@@ -10,7 +10,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When will we implement gravity physics to the Buildings?
 https://www.youtube.com/watch?v=6JFV5EAIU8U
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will there ever be a limitation to floating foundations in the air?](./yt-ryFai7jtoKY.md) [https://www.youtube.com/watch?v=ryFai7jtoKY](https://www.youtube.com/watch?v=ryFai7jtoKY)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Will you add structual integrity?](./yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)
 
 
 ### Topics

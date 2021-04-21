@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## April 20th, 2021 Livestream
+* [Q&A: Nut farm?](../../transcriptions/yt-2--yx9IFs7U.md) [https://www.youtube.com/watch?v=2--yx9IFs7U](https://www.youtube.com/watch?v=2--yx9IFs7U)
+* [Q&A: What is the foliage going to be used for?](../../transcriptions/yt-hO-2nTGpqXM.md) [https://www.youtube.com/watch?v=hO-2nTGpqXM](https://www.youtube.com/watch?v=hO-2nTGpqXM)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Do Plants like Trees grow back?](../../transcriptions/yt-zlHq9OHp45g.md) [https://www.youtube.com/watch?v=zlHq9OHp45g](https://www.youtube.com/watch?v=zlHq9OHp45g)
 * [Community FYI: Need more bacon](../../transcriptions/yt-ISfLwsCt-ug.md) [https://www.youtube.com/watch?v=ISfLwsCt-ug](https://www.youtube.com/watch?v=ISfLwsCt-ug)

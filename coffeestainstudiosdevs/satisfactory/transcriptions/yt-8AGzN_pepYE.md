@@ -8,11 +8,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Will there be a larger Power Storage?
 https://www.youtube.com/watch?v=8AGzN_pepYE
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
-
-* [February 23rd, 2021 Livestream Q&A: Is there going to be larger Power Storage?](./yt-wGiLdFI984k.md) [https://www.youtube.com/watch?v=wGiLdFI984k](https://www.youtube.com/watch?v=wGiLdFI984k)
-</details>
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Will we get Mk.2 Power Storage in the future?](./yt-jsp79Vz8tA0.md) [https://www.youtube.com/watch?v=jsp79Vz8tA0](https://www.youtube.com/watch?v=jsp79Vz8tA0)
 
 
 ### Topics

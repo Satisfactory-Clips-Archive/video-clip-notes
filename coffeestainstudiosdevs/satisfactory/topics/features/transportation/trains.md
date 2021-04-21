@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: Any plans for power update to remove power flow through Train tracks?](../../../transcriptions/yt-UkQvGhbLm9k.md) [https://www.youtube.com/watch?v=UkQvGhbLm9k](https://www.youtube.com/watch?v=UkQvGhbLm9k)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Will the Drones get a buff, because they're a little too expensive against the Trains?](../../../transcriptions/yt-yZHoy5xKB1c.md) [https://www.youtube.com/watch?v=yZHoy5xKB1c](https://www.youtube.com/watch?v=yZHoy5xKB1c)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Third-Party Service Integration](../../../../topics/features/possible-features/third-party-service-integration.md) > Achievements
 
+## April 20th, 2021 Livestream
+* [Q&A: Will achievements be added?](../../../../transcriptions/yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
+
 ## April 13th, 2021 Livestream
 * Q&A: Anything about achievements? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680)
 

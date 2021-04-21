@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## April 20th, 2021 Livestream
+* [Q&A: Can you guys add a lifestyle update with furniture in?](../../../transcriptions/yt-JlAmGDLcCfo.md) [https://www.youtube.com/watch?v=JlAmGDLcCfo](https://www.youtube.com/watch?v=JlAmGDLcCfo)
+* Community FYI: Game needs a guitar [https://www.youtube.com/watch?v=Hpz2T2wOtu8](https://www.youtube.com/watch?v=Hpz2T2wOtu8)
+* [Q&A: More decoration options planned?](../../../transcriptions/yt-TI92AJYh3eI.md) [https://www.youtube.com/watch?v=TI92AJYh3eI](https://www.youtube.com/watch?v=TI92AJYh3eI)
+* [Q&A: When can we have Doggo houses?](../../../transcriptions/yt-3Dvfr0Nx0Ww.md) [https://www.youtube.com/watch?v=3Dvfr0Nx0Ww](https://www.youtube.com/watch?v=3Dvfr0Nx0Ww)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: What about a picture to put on the wall of the Coffee Stain logo?](../../../transcriptions/yt-COs088Ocju8.md) [https://www.youtube.com/watch?v=COs088Ocju8](https://www.youtube.com/watch?v=COs088Ocju8)
 

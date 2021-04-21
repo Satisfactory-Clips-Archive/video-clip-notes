@@ -3,14 +3,14 @@ title: "May 15th, 2020"
 date: "2020-05-15"
 layout: transcript
 topics: 
-    - "features/equipment"
+    - "features/requested-features/multiple-body-slots"
     - "technology/user-interface"
 ---
 # [May 15th, 2020 MASSIVE Q&A // Mod support, S.A.M ore, Train signals, New Buildings and Vehicles + more](../2020-05-15.md)
 ## Q&A: Will we get more than one body slot?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

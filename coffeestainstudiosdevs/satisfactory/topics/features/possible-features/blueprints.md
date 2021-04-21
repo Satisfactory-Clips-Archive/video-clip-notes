@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Blueprints
 
+## April 20th, 2021 Livestream
+* [Q&A: Blueprints?](../../../transcriptions/yt-x0N2HGv49Eg.md) [https://www.youtube.com/watch?v=x0N2HGv49Eg](https://www.youtube.com/watch?v=x0N2HGv49Eg)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Blueprints, when?](../../../transcriptions/yt-9Yqc4z9NPI8.md) [https://www.youtube.com/watch?v=9Yqc4z9NPI8](https://www.youtube.com/watch?v=9Yqc4z9NPI8)
 

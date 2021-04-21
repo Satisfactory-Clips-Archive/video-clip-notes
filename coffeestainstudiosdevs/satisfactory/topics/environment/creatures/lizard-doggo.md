@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## April 20th, 2021 Livestream
+* [Q&A: When can we have Doggo houses?](../../../transcriptions/yt-3Dvfr0Nx0Ww.md) [https://www.youtube.com/watch?v=3Dvfr0Nx0Ww](https://www.youtube.com/watch?v=3Dvfr0Nx0Ww)
+
 ## March 30th, 2021 Livestream
 * [Community FYI: We need special weapons for Doggos](../../../transcriptions/yt-pXjkxnkhSG8.md) [https://www.youtube.com/watch?v=pXjkxnkhSG8](https://www.youtube.com/watch?v=pXjkxnkhSG8)
 * [Q&A: When my only Doggo brings me Uranium Waste is there a way to put it back where it found it?](../../../transcriptions/yt-Nbe7G5GCosE.md) [https://www.youtube.com/watch?v=Nbe7G5GCosE](https://www.youtube.com/watch?v=Nbe7G5GCosE)

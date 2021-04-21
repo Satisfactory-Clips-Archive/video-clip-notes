@@ -11,6 +11,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: Vertical elevators for character and transport?](../../../transcriptions/yt-uLe9eMpCxRg.md) [https://www.youtube.com/watch?v=uLe9eMpCxRg](https://www.youtube.com/watch?v=uLe9eMpCxRg)
+* [Q&A: Why can't we access the inventory when we're in vehicles?](../../../transcriptions/yt-RtaiQPBJVqQ.md) [https://www.youtube.com/watch?v=RtaiQPBJVqQ](https://www.youtube.com/watch?v=RtaiQPBJVqQ)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Gas Station?](../../../transcriptions/yt-OwP-izM--nE.md) [https://www.youtube.com/watch?v=OwP-izM--nE](https://www.youtube.com/watch?v=OwP-izM--nE)
 

@@ -10,9 +10,10 @@ topics:
 ## Q&A: Could some Sanctum gameplay, maybe the Tower Defense part come to Satisfactory?
 https://www.youtube.com/watch?v=1UTiDPGMgRI
 <details>
-<summary>This question may have been asked previously at least 12 other times, as recently as February 2021 and as early as June 2018.</summary>
+<summary>This question may have been asked previously at least 13 other times, as recently as February 2021 and as early as June 2018.</summary>
 
 * February 26th, 2021 Videos Q&A: Please add semi tower defense in this game I'm begging you! [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4)
+* [February 9th, 2021 Livestream Q&A: Is there going to be tower defense?](./yt-9dWWC0mFitU.md) [https://www.youtube.com/watch?v=9dWWC0mFitU](https://www.youtube.com/watch?v=9dWWC0mFitU)
 * January 22nd, 2021 Instagram AMA Q&A: Is there a plan for automatize the base defense? [https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4](https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4)
 * [December 15th, 2020 Livestream Q&A: Can we get turrets and more PvE?](./yt-sJnuRV0OGF0.md) [https://www.youtube.com/watch?v=sJnuRV0OGF0](https://www.youtube.com/watch?v=sJnuRV0OGF0)
 * [December 8th, 2020 Livestream Q&A: Will there be any Base Defense?](./yt-5-8ACtMU2_E.md) [https://www.youtube.com/watch?v=5-8ACtMU2_E](https://www.youtube.com/watch?v=5-8ACtMU2_E)

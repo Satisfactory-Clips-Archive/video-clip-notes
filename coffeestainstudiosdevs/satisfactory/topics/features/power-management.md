@@ -9,6 +9,11 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: Any plans for power update to remove power flow through Train tracks?](../../transcriptions/yt-UkQvGhbLm9k.md) [https://www.youtube.com/watch?v=UkQvGhbLm9k](https://www.youtube.com/watch?v=UkQvGhbLm9k)
+* [State of Dev: Removal of power self-regulation & issues with pipes](../../transcriptions/yt-g90f175Jk_w.md) [https://www.youtube.com/watch?v=g90f175Jk_w](https://www.youtube.com/watch?v=g90f175Jk_w)
+* [Q&A: What's the reason behind no daisy-chaining, it looks cleaner?](../../transcriptions/yt-tqnmQ6HMij4.md) [https://www.youtube.com/watch?v=tqnmQ6HMij4](https://www.youtube.com/watch?v=tqnmQ6HMij4)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Rechargeable Batteries?](../../transcriptions/yt-8wU1YvsAytE.md) [https://www.youtube.com/watch?v=8wU1YvsAytE](https://www.youtube.com/watch?v=8wU1YvsAytE)
 * [Snutt & Mark Talk: Update 4](../../transcriptions/yt-K4LIalIYgGk.md) [https://www.youtube.com/watch?v=K4LIalIYgGk](https://www.youtube.com/watch?v=K4LIalIYgGk)

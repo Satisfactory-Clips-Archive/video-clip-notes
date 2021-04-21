@@ -8,7 +8,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Wouldn't you split normal & Creative Mode then not allow switching?
 https://www.youtube.com/watch?v=7xTscBSrsY0
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Is Creative Mode coming?](./yt-l4yloW6vhr8.md) [https://www.youtube.com/watch?v=l4yloW6vhr8](https://www.youtube.com/watch?v=l4yloW6vhr8)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Will there be Creative Mode?](./yt-AE7doTpLQOU.md) [https://www.youtube.com/watch?v=AE7doTpLQOU](https://www.youtube.com/watch?v=AE7doTpLQOU)
 
 
 ### Topics

@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## April 20th, 2021 Livestream
+* [State of Dev: Removal of power self-regulation & issues with pipes](../../transcriptions/yt-g90f175Jk_w.md) [https://www.youtube.com/watch?v=g90f175Jk_w](https://www.youtube.com/watch?v=g90f175Jk_w)
+* [State of Dev: Still working on Update 4](../../transcriptions/yt-G9A97SPeRXc.md) [https://www.youtube.com/watch?v=G9A97SPeRXc](https://www.youtube.com/watch?v=G9A97SPeRXc)
+* [State of Dev: Update 4 Launch broke our concurrent player records](../../transcriptions/yt-HdPnhgBykko.md) [https://www.youtube.com/watch?v=HdPnhgBykko](https://www.youtube.com/watch?v=HdPnhgBykko)
+* [State of Dev: Update 4 Multiplayer connectivity](../../transcriptions/yt-6gJrIGeKjYA.md) [https://www.youtube.com/watch?v=6gJrIGeKjYA](https://www.youtube.com/watch?v=6gJrIGeKjYA)
+* [State of Dev: Update 5](../../transcriptions/yt-M3Q2LG6RaI8.md) [https://www.youtube.com/watch?v=M3Q2LG6RaI8](https://www.youtube.com/watch?v=M3Q2LG6RaI8)
+
 ## April 13th, 2021 Livestream
 * State of Dev: Early Access branch and the Experimental branch [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=827&end=1075](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=827&end=1075)
 * State of Dev: Releasing Update 4 on Early Access today [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=606&end=622](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=606&end=622)

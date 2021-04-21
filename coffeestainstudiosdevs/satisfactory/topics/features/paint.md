@@ -4,9 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Paint
 
+## April 20th, 2021 Livestream
+* [Q&A: Any changes to the colouring system?](../../transcriptions/yt-3b7amkQ5Cv0.md) [https://www.youtube.com/watch?v=3b7amkQ5Cv0](https://www.youtube.com/watch?v=3b7amkQ5Cv0)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Any news on reworking colour selection?](../../transcriptions/yt-OTsxz-Twmys.md) [https://www.youtube.com/watch?v=OTsxz-Twmys](https://www.youtube.com/watch?v=OTsxz-Twmys)
-* Q&A: Will the colour gun be fixed? [https://www.youtube.com/watch?v=Vc-zgbseTCc](https://www.youtube.com/watch?v=Vc-zgbseTCc)
+* Q&A: Will the Color Gun be fixed? [https://www.youtube.com/watch?v=Vc-zgbseTCc](https://www.youtube.com/watch?v=Vc-zgbseTCc)
 
 ## March 23rd, 2021 Livestream
 * [Q&A: In the video about the Engine Upgrade, Jace talked about the improvement of building painting?](../../transcriptions/yt-sc_p8BAXGEU.md) [https://www.youtube.com/watch?v=sc_p8BAXGEU](https://www.youtube.com/watch?v=sc_p8BAXGEU)

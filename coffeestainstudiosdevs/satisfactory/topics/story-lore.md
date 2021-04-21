@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: When are you adding Story?](../transcriptions/yt-U1s8L1JR36Q.md) [https://www.youtube.com/watch?v=U1s8L1JR36Q](https://www.youtube.com/watch?v=U1s8L1JR36Q)
+* [Q&A: Will you be able to experience the Story regardless of where you're at in the game?](../transcriptions/yt-XWaSY4K9P0U.md) [https://www.youtube.com/watch?v=XWaSY4K9P0U](https://www.youtube.com/watch?v=XWaSY4K9P0U)
+
 ## April 6th, 2021 Livestream
 * [Q&A: How will Story affect Balancing?](../transcriptions/yt-4Ovv5IdbafQ.md) [https://www.youtube.com/watch?v=4Ovv5IdbafQ](https://www.youtube.com/watch?v=4Ovv5IdbafQ)
 

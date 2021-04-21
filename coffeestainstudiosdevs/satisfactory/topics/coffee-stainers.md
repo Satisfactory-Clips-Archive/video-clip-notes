@@ -32,6 +32,10 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: How tiring is it to work on a huge game like this?](../transcriptions/yt-PhJmHwM_g0k.md) [https://www.youtube.com/watch?v=PhJmHwM_g0k](https://www.youtube.com/watch?v=PhJmHwM_g0k)
+* [Q&A: Please pass on our thanks to the rest of the team, loved the Update?](../transcriptions/yt-Z-EWZL18Di0.md) [https://www.youtube.com/watch?v=Z-EWZL18Di0](https://www.youtube.com/watch?v=Z-EWZL18Di0)
+
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Game design process](../transcriptions/yt-ZrYTLy8dcTA.md) [https://www.youtube.com/watch?v=ZrYTLy8dcTA](https://www.youtube.com/watch?v=ZrYTLy8dcTA)
 

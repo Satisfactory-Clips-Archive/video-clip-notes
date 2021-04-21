@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## April 20th, 2021 Livestream
+* [Community Highlights: Jace gets featured in Community Highlights](../../../transcriptions/yt-LMj4zqWimc4.md) [https://www.youtube.com/watch?v=LMj4zqWimc4](https://www.youtube.com/watch?v=LMj4zqWimc4)
+* [Q&A: Signs?](../../../transcriptions/yt-O0qKftrufFM.md) [https://www.youtube.com/watch?v=O0qKftrufFM](https://www.youtube.com/watch?v=O0qKftrufFM)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Signs?](../../../transcriptions/yt-B6BEy7mals4.md) [https://www.youtube.com/watch?v=B6BEy7mals4](https://www.youtube.com/watch?v=B6BEy7mals4)
 

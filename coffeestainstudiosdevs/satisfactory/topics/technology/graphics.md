@@ -6,6 +6,13 @@ date: Last Modified
 * [DLSS](../../topics/technology/graphics/dlss.md)
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: Can you improve Ladder rendering distance?](../../transcriptions/yt-pyBH9slmZjY.md) [https://www.youtube.com/watch?v=pyBH9slmZjY](https://www.youtube.com/watch?v=pyBH9slmZjY)
+* [Q&A: Did you get more reports of graphical glitches when Update 4 started?](../../transcriptions/yt-Ec8iy7j7RxM.md) [https://www.youtube.com/watch?v=Ec8iy7j7RxM](https://www.youtube.com/watch?v=Ec8iy7j7RxM)
+* [Q&A: I have a texture bug where certain items on the belts use grey and rainbow placeholder textures](../../transcriptions/yt-VjL5GczlMSE.md) [https://www.youtube.com/watch?v=VjL5GczlMSE](https://www.youtube.com/watch?v=VjL5GczlMSE)
+* [Snutt Talk: Steam & Epic patch download failures causing graphical issues](../../transcriptions/yt-uNYU4_DIxtI.md) [https://www.youtube.com/watch?v=uNYU4_DIxtI](https://www.youtube.com/watch?v=uNYU4_DIxtI)
+* [State of Dev: Try verifying files if you're experiencing graphical glitches](../../transcriptions/yt-5NkjFaKNJmI.md) [https://www.youtube.com/watch?v=5NkjFaKNJmI](https://www.youtube.com/watch?v=5NkjFaKNJmI)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Are you still working on Glass optimisations?](../../transcriptions/yt-jE0Fm11bEZk.md) [https://www.youtube.com/watch?v=jE0Fm11bEZk](https://www.youtube.com/watch?v=jE0Fm11bEZk)
 * [Q&A: Items on belts labelled "Albedo" are going to have fancy reflections?](../../transcriptions/yt-euC11282Qo0.md) [https://www.youtube.com/watch?v=euC11282Qo0](https://www.youtube.com/watch?v=euC11282Qo0)

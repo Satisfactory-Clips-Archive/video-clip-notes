@@ -3,7 +3,7 @@ title: "January 19th, 2021 Livestream Q&A: Why doesn't the Pioneer Helmet integr
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/gas-mask"
     - "features/gases"
     - "features/pioneer"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=2zz08zzXTCU
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Gas Mask](../topics/features/equipment/gas-mask.md)
 * [Features > Gases](../topics/features/gases.md)
 * [Features > Pioneer](../topics/features/pioneer.md)
 

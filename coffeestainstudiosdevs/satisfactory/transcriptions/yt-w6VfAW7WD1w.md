@@ -3,16 +3,16 @@ title: "March 2nd, 2021 Livestream Q&A: When are we going to be able to use more
 date: "2021-03-02"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/requested-features/multiple-body-slots"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: When are we going to be able to use more than one Equipment at a time?
 https://www.youtube.com/watch?v=w6VfAW7WD1w
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Multiple Body slots, when?](./yt-Xa03UsMWsjo.md) [https://www.youtube.com/watch?v=Xa03UsMWsjo](https://www.youtube.com/watch?v=Xa03UsMWsjo)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Body Slots?](./yt-G6TdxrJuIaA.md) [https://www.youtube.com/watch?v=G6TdxrJuIaA](https://www.youtube.com/watch?v=G6TdxrJuIaA)
 
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
 
 ### Transcript
 

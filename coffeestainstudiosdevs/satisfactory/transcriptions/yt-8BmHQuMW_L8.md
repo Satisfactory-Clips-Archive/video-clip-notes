@@ -9,7 +9,7 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Will there be signs in Update 4?
 https://www.youtube.com/watch?v=8BmHQuMW_L8
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Signs?](./yt-B6BEy7mals4.md) [https://www.youtube.com/watch?v=B6BEy7mals4](https://www.youtube.com/watch?v=B6BEy7mals4)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Signs?](./yt-O0qKftrufFM.md) [https://www.youtube.com/watch?v=O0qKftrufFM](https://www.youtube.com/watch?v=O0qKftrufFM)
 
 
 ### Topics

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Ladders
 
+## April 20th, 2021 Livestream
+* [Q&A: Can you improve Ladder rendering distance?](../../../transcriptions/yt-pyBH9slmZjY.md) [https://www.youtube.com/watch?v=pyBH9slmZjY](https://www.youtube.com/watch?v=pyBH9slmZjY)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Can you press shift to go down the Ladder faster?](../../../transcriptions/yt-WKMxQyq9JaM.md) [https://www.youtube.com/watch?v=WKMxQyq9JaM](https://www.youtube.com/watch?v=WKMxQyq9JaM)
 * Jace Talk: Holding shift (on a Ladder) not making a difference [https://www.youtube.com/watch?v=9dQIJfmd74A](https://www.youtube.com/watch?v=9dQIJfmd74A)

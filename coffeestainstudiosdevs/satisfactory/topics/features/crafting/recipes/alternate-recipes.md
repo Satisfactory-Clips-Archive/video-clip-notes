@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## April 20th, 2021 Livestream
+* [Community FYI: beacons work fine for tagging raided crash sites](../../../../transcriptions/yt-caCdUs9XJ9A.md) [https://www.youtube.com/watch?v=caCdUs9XJ9A](https://www.youtube.com/watch?v=caCdUs9XJ9A)
+* [Q&A: How about making Crash Sites deconstructable after looting?](../../../../transcriptions/yt-8NEorsLWk6k.md) [https://www.youtube.com/watch?v=8NEorsLWk6k](https://www.youtube.com/watch?v=8NEorsLWk6k)
+* [Q&A: If we get the hard drive make the crash site disappear?](../../../../transcriptions/yt-O3fr1FIrFno.md) [https://www.youtube.com/watch?v=O3fr1FIrFno](https://www.youtube.com/watch?v=O3fr1FIrFno)
+
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Alternate Recipes](../../../../transcriptions/yt-aOSH1vc054E.md) [https://www.youtube.com/watch?v=aOSH1vc054E](https://www.youtube.com/watch?v=aOSH1vc054E)
 * [Snutt & Mark Talk: Bauxite Refinement](../../../../transcriptions/yt-ZFGGM5rJ0YQ.md) [https://www.youtube.com/watch?v=ZFGGM5rJ0YQ](https://www.youtube.com/watch?v=ZFGGM5rJ0YQ)

@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Train Collision
 https://www.youtube.com/watch?v=OdCLosbTp60
-This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: Train Collision? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Train remake?](./yt-4iPV87r2O7A.md) [https://www.youtube.com/watch?v=4iPV87r2O7A](https://www.youtube.com/watch?v=4iPV87r2O7A)
 
 
 ### Topics

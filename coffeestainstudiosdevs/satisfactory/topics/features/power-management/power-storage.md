@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Storage
 
+## April 20th, 2021 Livestream
+* [Q&A: Will we get Mk.2 Power Storage in the future?](../../../transcriptions/yt-jsp79Vz8tA0.md) [https://www.youtube.com/watch?v=jsp79Vz8tA0](https://www.youtube.com/watch?v=jsp79Vz8tA0)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Energy Storage and Day/Night cycle would make Solar power extremely interesting to set up?](../../../transcriptions/yt-S9ROGuBkzZo.md) [https://www.youtube.com/watch?v=S9ROGuBkzZo](https://www.youtube.com/watch?v=S9ROGuBkzZo)
 * [Q&A: Will there be a larger Power Storage?](../../../transcriptions/yt-8AGzN_pepYE.md) [https://www.youtube.com/watch?v=8AGzN_pepYE](https://www.youtube.com/watch?v=8AGzN_pepYE)

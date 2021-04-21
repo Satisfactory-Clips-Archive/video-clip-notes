@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## April 20th, 2021 Livestream
+* [Q&A: What's with the bug with the Gas Mask with the Truck?](../../../../transcriptions/yt-GDthMsvmWaw.md) [https://www.youtube.com/watch?v=GDthMsvmWaw](https://www.youtube.com/watch?v=GDthMsvmWaw)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Fluid Trucks?](../../../../transcriptions/yt-lDJH-Q4E5Xk.md) [https://www.youtube.com/watch?v=lDJH-Q4E5Xk](https://www.youtube.com/watch?v=lDJH-Q4E5Xk)
 

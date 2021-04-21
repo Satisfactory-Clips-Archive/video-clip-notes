@@ -10,7 +10,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Why not have self generated maps?
 https://www.youtube.com/watch?v=hKIm2mk5AhM
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Procedural Map?](./yt-ee53aGXd5wg.md) [https://www.youtube.com/watch?v=ee53aGXd5wg](https://www.youtube.com/watch?v=ee53aGXd5wg)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Any plans for a procedurally generated map?](./yt-7LUcnDsDjnU.md) [https://www.youtube.com/watch?v=7LUcnDsDjnU](https://www.youtube.com/watch?v=7LUcnDsDjnU)
 
 
 ### Topics

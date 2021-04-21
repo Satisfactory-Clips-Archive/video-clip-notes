@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## April 20th, 2021 Livestream
+* Q&A: HUB healing? [https://www.youtube.com/watch?v=KcuUinkvc8M](https://www.youtube.com/watch?v=KcuUinkvc8M)
+* [Q&A: What about the flushing toilet?](../../../transcriptions/yt-sve9kjgML2E.md) [https://www.youtube.com/watch?v=sve9kjgML2E](https://www.youtube.com/watch?v=sve9kjgML2E)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Can we finally sleep in the HUB?](../../../transcriptions/yt-vB8Drt_Ybhw.md) [https://www.youtube.com/watch?v=vB8Drt_Ybhw](https://www.youtube.com/watch?v=vB8Drt_Ybhw)
 * Q&A: Can we get a sign in the game that says "Upvote that on the QA Site" [https://www.youtube.com/watch?v=UyuKRjvhgJw](https://www.youtube.com/watch?v=UyuKRjvhgJw)

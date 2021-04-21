@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events
 * [FICS⁕MAS](../../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
+## April 20th, 2021 Livestream
+* [Q&A: Is there a cheaty way to enable FICS⁕MAS and April Fools?](../../transcriptions/yt-O_cRHUcRZ3Q.md) [https://www.youtube.com/watch?v=O_cRHUcRZ3Q](https://www.youtube.com/watch?v=O_cRHUcRZ3Q)
+
 ## April 6th, 2021 Livestream
 * [State of Dev: April Fools 2021](../../transcriptions/yt-eMPr_Y9bstc.md) [https://www.youtube.com/watch?v=eMPr_Y9bstc](https://www.youtube.com/watch?v=eMPr_Y9bstc)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel
 
+## April 20th, 2021 Livestream
+* [Q&A: When are we finally gonna get our own VTOL?](../../../transcriptions/yt-nty-h2xgybU.md) [https://www.youtube.com/watch?v=nty-h2xgybU](https://www.youtube.com/watch?v=nty-h2xgybU)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Will there be planes and helicopters?](../../../transcriptions/yt-E-c_NfjMqUM.md) [https://www.youtube.com/watch?v=E-c_NfjMqUM](https://www.youtube.com/watch?v=E-c_NfjMqUM)
 

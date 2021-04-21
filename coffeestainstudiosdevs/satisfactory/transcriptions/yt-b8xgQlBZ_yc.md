@@ -3,18 +3,16 @@ title: "March 23rd, 2021 Livestream Q&A: Do you ever think you'll give us more t
 date: "2021-03-23"
 layout: transcript
 topics:
-    - "features/equipment"
-    - "technology/user-interface"
+    - "features/requested-features/multiple-body-slots"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Do you ever think you'll give us more than one Body Slot?
 https://www.youtube.com/watch?v=b8xgQlBZ_yc
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Multiple Body slots, when?](./yt-Xa03UsMWsjo.md) [https://www.youtube.com/watch?v=Xa03UsMWsjo](https://www.youtube.com/watch?v=Xa03UsMWsjo)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Body Slots?](./yt-G6TdxrJuIaA.md) [https://www.youtube.com/watch?v=G6TdxrJuIaA](https://www.youtube.com/watch?v=G6TdxrJuIaA)
 
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
 
 ### Transcript
 

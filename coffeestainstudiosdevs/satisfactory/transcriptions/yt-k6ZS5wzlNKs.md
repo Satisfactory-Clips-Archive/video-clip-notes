@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Is the sink going to accept liquids in the future?
 https://www.youtube.com/watch?v=k6ZS5wzlNKs
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Sinking Fluids?](./yt-aXJMTzXDwrI.md) [https://www.youtube.com/watch?v=aXJMTzXDwrI](https://www.youtube.com/watch?v=aXJMTzXDwrI)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Is it possible to have a Sink also do Fluids?](./yt-FQqUQHMw4QA.md) [https://www.youtube.com/watch?v=FQqUQHMw4QA](https://www.youtube.com/watch?v=FQqUQHMw4QA)
 
 
 ### Topics

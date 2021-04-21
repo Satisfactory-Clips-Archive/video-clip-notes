@@ -8,7 +8,7 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Can you talk about Story/Lore?
 https://www.youtube.com/watch?v=juRjcmcJwkg
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Is the game going to have a big Story?](./yt-S-o-0uuZUDo.md) [https://www.youtube.com/watch?v=S-o-0uuZUDo](https://www.youtube.com/watch?v=S-o-0uuZUDo)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: When are you adding Story?](./yt-U1s8L1JR36Q.md) [https://www.youtube.com/watch?v=U1s8L1JR36Q](https://www.youtube.com/watch?v=U1s8L1JR36Q)
 
 
 ### Topics

@@ -9,7 +9,7 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Procedural generation of the World?
 https://www.youtube.com/watch?v=q6tkuGjM4zY
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Procedural Map?](./yt-ee53aGXd5wg.md) [https://www.youtube.com/watch?v=ee53aGXd5wg](https://www.youtube.com/watch?v=ee53aGXd5wg)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Any plans for a procedurally generated map?](./yt-7LUcnDsDjnU.md) [https://www.youtube.com/watch?v=7LUcnDsDjnU](https://www.youtube.com/watch?v=7LUcnDsDjnU)
 
 
 ### Topics

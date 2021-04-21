@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: What's the storyline on Satisfactory? Is it after Deep Rock Galactic?
 https://www.youtube.com/watch?v=wySR9ID62zU
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Is the game going to have a big Story?](./yt-S-o-0uuZUDo.md) [https://www.youtube.com/watch?v=S-o-0uuZUDo](https://www.youtube.com/watch?v=S-o-0uuZUDo)
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: When are you adding Story?](./yt-U1s8L1JR36Q.md) [https://www.youtube.com/watch?v=U1s8L1JR36Q](https://www.youtube.com/watch?v=U1s8L1JR36Q)
 
 
 ### Topics

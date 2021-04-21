@@ -9,6 +9,8 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Any plans to daisy-chain Buildings together to not have Power Poles everywhere?
 https://www.youtube.com/watch?v=wFyEOXvO1bA
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Daisy-chaining machines when?](./yt-1ouv6GGsyY0.md) [https://www.youtube.com/watch?v=1ouv6GGsyY0](https://www.youtube.com/watch?v=1ouv6GGsyY0)
+
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

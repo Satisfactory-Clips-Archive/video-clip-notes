@@ -8,6 +8,8 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Any chance for decorative stuff?
 https://www.youtube.com/watch?v=2JUtqNFl5_8
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: More decoration options planned?](./yt-TI92AJYh3eI.md) [https://www.youtube.com/watch?v=TI92AJYh3eI](https://www.youtube.com/watch?v=TI92AJYh3eI)
+
 
 ### Topics
 * [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)

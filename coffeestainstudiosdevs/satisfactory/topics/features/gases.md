@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Gases
 
+## April 20th, 2021 Livestream
+* [Q&A: Are we going to have more gases in the game?](../../transcriptions/yt-4sc_Wnshsos.md) [https://www.youtube.com/watch?v=4sc_Wnshsos](https://www.youtube.com/watch?v=4sc_Wnshsos)
+* [Community FYI: Need the Nitrogen Gas for fizzy drinks](../../transcriptions/yt-RoKvL8KuXFk.md) [https://www.youtube.com/watch?v=RoKvL8KuXFk](https://www.youtube.com/watch?v=RoKvL8KuXFk)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Will it be possible to remove the toxic pillars?](../../transcriptions/yt-QM6AXdaNYN4.md) [https://www.youtube.com/watch?v=QM6AXdaNYN4](https://www.youtube.com/watch?v=QM6AXdaNYN4)
 
