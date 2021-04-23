@@ -9,6 +9,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## April 23rd, 2021 Video
+* [Snutt Talk: Power Changes Info (and fluid dynamics concerns)](../../transcriptions/yt-vuDlUdTeEMI,130.20833333333334,279.2083333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=130&end=280](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=130&end=280)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Any plans for power update to remove power flow through Train tracks?](../../transcriptions/yt-UkQvGhbLm9k.md) [https://www.youtube.com/watch?v=UkQvGhbLm9k](https://www.youtube.com/watch?v=UkQvGhbLm9k)
 * [State of Dev: Removal of power self-regulation & issues with pipes](../../transcriptions/yt-g90f175Jk_w.md) [https://www.youtube.com/watch?v=g90f175Jk_w](https://www.youtube.com/watch?v=g90f175Jk_w)

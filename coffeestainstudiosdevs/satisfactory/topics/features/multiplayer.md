@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## April 23rd, 2021 Video
+* [Snutt Talk: Connectivity Issues and work arounds](../../transcriptions/yt-vuDlUdTeEMI,279.2083333333333,322.7083333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=279&end=323](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=279&end=323)
+
 ## April 20th, 2021 Livestream
 * [Community FYI: Net code development is such a complex project](../../transcriptions/yt-gVvSyYNVAm8.md) [https://www.youtube.com/watch?v=gVvSyYNVAm8](https://www.youtube.com/watch?v=gVvSyYNVAm8)
 * [State of Dev: Update 4 Multiplayer connectivity](../../transcriptions/yt-6gJrIGeKjYA.md) [https://www.youtube.com/watch?v=6gJrIGeKjYA](https://www.youtube.com/watch?v=6gJrIGeKjYA)

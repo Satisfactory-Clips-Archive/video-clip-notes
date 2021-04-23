@@ -18,6 +18,9 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## April 23rd, 2021 Video
+* [Snutt Talk: Last week we launched Update 4 on Early Access](../transcriptions/yt-vuDlUdTeEMI,11.458333333333334,36.208333333333336.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=11&end=37](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=11&end=37)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Are you doing any marketing to drive in new players?](../transcriptions/yt-4PMdlE1TIfY.md) [https://www.youtube.com/watch?v=4PMdlE1TIfY](https://www.youtube.com/watch?v=4PMdlE1TIfY)
 * [Snutt Talk: Getting a good flow of questions today](../transcriptions/yt-Ep_4itVvlBM.md) [https://www.youtube.com/watch?v=Ep_4itVvlBM](https://www.youtube.com/watch?v=Ep_4itVvlBM)

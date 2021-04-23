@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## April 23rd, 2021 Video
+* [Snutt Talk: Power Changes Info (and fluid dynamics concerns)](../../../transcriptions/yt-vuDlUdTeEMI,130.20833333333334,279.2083333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=130&end=280](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=130&end=280)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Particle Accelerator has an unused Pipe entrance right now, are there plans for new Recipes?](../../../transcriptions/yt-hf_B-RfDt5A.md) [https://www.youtube.com/watch?v=hf_B-RfDt5A](https://www.youtube.com/watch?v=hf_B-RfDt5A)
 * [Snutt Talk: Pipe issues](../../../transcriptions/yt-lkA51YbdE6E.md) [https://www.youtube.com/watch?v=lkA51YbdE6E](https://www.youtube.com/watch?v=lkA51YbdE6E)

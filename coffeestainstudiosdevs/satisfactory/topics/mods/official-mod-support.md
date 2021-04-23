@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Official Mod Support
 * [Steam Workshop](../../topics/mods/official-mod-support/steam-workshop.md)
 
+## April 23rd, 2021 Video
+* [Snutt Talk: Mods aren't officially supported (yet)](../../transcriptions/yt-vuDlUdTeEMI,421.3333333333333,461.7083333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=421&end=462](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=421&end=462)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Any chance for Mod Support?](../../transcriptions/yt-uRoRq878QHw.md) [https://www.youtube.com/watch?v=uRoRq878QHw](https://www.youtube.com/watch?v=uRoRq878QHw)
 

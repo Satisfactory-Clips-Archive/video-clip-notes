@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > GeForce Now
 
+## April 23rd, 2021 Video
+* [Snutt Talk: Name and Icon for game is wrong](../../transcriptions/yt-vuDlUdTeEMI,358.8333333333333,421.3333333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=358&end=422](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=358&end=422)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Is Geforce Now going to get Experimental?](../../transcriptions/yt-ZgaAp-f2AI4.md) [https://www.youtube.com/watch?v=ZgaAp-f2AI4](https://www.youtube.com/watch?v=ZgaAp-f2AI4)
 * [Community FYI: Switching branches on Geforce Now](../../transcriptions/yt-FXI1g8RMERE.md) [https://www.youtube.com/watch?v=FXI1g8RMERE](https://www.youtube.com/watch?v=FXI1g8RMERE)

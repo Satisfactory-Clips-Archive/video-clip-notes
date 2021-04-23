@@ -31,6 +31,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## April 23rd, 2021 Video
+* [Snutt Talk: Mods aren't officially supported (yet)](../transcriptions/yt-vuDlUdTeEMI,421.3333333333333,461.7083333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=421&end=462](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=421&end=462)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Do you have a favourite Mod?](../transcriptions/yt-URunN9abrss.md) [https://www.youtube.com/watch?v=URunN9abrss](https://www.youtube.com/watch?v=URunN9abrss)
 

@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Possible Features > Third-Party Service Integration
 * [Achievements](../../../topics/features/possible-features/third-party-service-integration/achievements.md)
 
+## April 23rd, 2021 Video
+* [Snutt Talk: Name and Icon for game is wrong](../../../transcriptions/yt-vuDlUdTeEMI,358.8333333333333,421.3333333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=358&end=422](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=358&end=422)
+
 ## January 19th, 2021 Livestream
 * [Snutt Talk: GeForce NOW](../../../transcriptions/yt-JDXZ-q-9na0.md) [https://www.youtube.com/watch?v=JDXZ-q-9na0](https://www.youtube.com/watch?v=JDXZ-q-9na0)
 

@@ -16,6 +16,9 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## April 23rd, 2021 Video
+* [Snutt Talk: Verify game files if you have issues](../transcriptions/yt-vuDlUdTeEMI,36.208333333333336,130.20833333333334.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=36&end=131](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=36&end=131)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Do you guys have stuff that you wanna add but not sure about putting it on the QA site?](../transcriptions/yt-1YwuzwU17kI.md) [https://www.youtube.com/watch?v=1YwuzwU17kI](https://www.youtube.com/watch?v=1YwuzwU17kI)
 * Q&A: How many Updates before full release? [https://www.youtube.com/watch?v=7XSZ-08BaXc](https://www.youtube.com/watch?v=7XSZ-08BaXc)

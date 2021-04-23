@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## April 23rd, 2021 Video
+* [Snutt Talk: Last week we launched Update 4 on Early Access](../../../transcriptions/yt-vuDlUdTeEMI,11.458333333333334,36.208333333333336.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=11&end=37](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=11&end=37)
+* [Snutt Talk: Name and Icon for game is wrong](../../../transcriptions/yt-vuDlUdTeEMI,358.8333333333333,421.3333333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=358&end=422](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=358&end=422)
+* [Snutt Talk: The future for Satisfactory](../../../transcriptions/yt-vuDlUdTeEMI,461.7083333333333,522.5833333333334.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=461&end=523](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=461&end=523)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Did you get more reports of graphical glitches when Update 4 started?](../../../transcriptions/yt-Ec8iy7j7RxM.md) [https://www.youtube.com/watch?v=Ec8iy7j7RxM](https://www.youtube.com/watch?v=Ec8iy7j7RxM)
 * [State of Dev: Hologram change](../../../transcriptions/yt-k_ma-Eg_4og.md) [https://www.youtube.com/watch?v=k_ma-Eg_4og](https://www.youtube.com/watch?v=k_ma-Eg_4og)

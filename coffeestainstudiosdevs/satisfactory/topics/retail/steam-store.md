@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## April 23rd, 2021 Video
+* [Snutt Talk: Verify game files if you have issues](../../transcriptions/yt-vuDlUdTeEMI,36.208333333333336,130.20833333333334.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=36&end=131](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=36&end=131)
+
 ## April 20th, 2021 Livestream
 * [Snutt Talk: Might be a good habit to verify game files after every update](../../transcriptions/yt-11kugJNY9ug.md) [https://www.youtube.com/watch?v=11kugJNY9ug](https://www.youtube.com/watch?v=11kugJNY9ug)
 * [Snutt Talk: Steam & Epic patch download failures causing graphical issues](../../transcriptions/yt-uNYU4_DIxtI.md) [https://www.youtube.com/watch?v=uNYU4_DIxtI](https://www.youtube.com/watch?v=uNYU4_DIxtI)
