@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Storage
 
+## April 27th, 2021 Livestream
+* [Q&A: Daisy-chain all building power?](../../../transcriptions/yt-y86EDzn4-bY.md) [https://www.youtube.com/watch?v=y86EDzn4-bY](https://www.youtube.com/watch?v=y86EDzn4-bY)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Will we get Mk.2 Power Storage in the future?](../../../transcriptions/yt-jsp79Vz8tA0.md) [https://www.youtube.com/watch?v=jsp79Vz8tA0](https://www.youtube.com/watch?v=jsp79Vz8tA0)
 

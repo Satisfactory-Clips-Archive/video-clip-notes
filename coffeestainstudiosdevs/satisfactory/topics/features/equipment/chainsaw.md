@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Chainsaw
 
+## April 27th, 2021 Livestream
+* [Q&A: Can Chainsaw use liquid (fuel) in the future?](../../../transcriptions/yt-pxBuKCXaE6Y.md) [https://www.youtube.com/watch?v=pxBuKCXaE6Y](https://www.youtube.com/watch?v=pxBuKCXaE6Y)
+* [Q&A: Is the giant chainsaw a bug?](../../../transcriptions/yt-n1zvt3i66uE.md) [https://www.youtube.com/watch?v=n1zvt3i66uE](https://www.youtube.com/watch?v=n1zvt3i66uE)
+
 ## March 30th, 2021 Livestream
 * [Community FYI: AOE allows you to cheat in some places](../../../transcriptions/yt-leRGxj9rDsI.md) [https://www.youtube.com/watch?v=leRGxj9rDsI](https://www.youtube.com/watch?v=leRGxj9rDsI)
 * [Q&A: Why does the Chainsaw not consume Fuel?](../../../transcriptions/yt-_MMqKE-jYTk.md) [https://www.youtube.com/watch?v=_MMqKE-jYTk](https://www.youtube.com/watch?v=_MMqKE-jYTk)

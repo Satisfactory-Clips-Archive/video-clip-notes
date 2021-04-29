@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Analytics
 
+## April 27th, 2021 Livestream
+* [Q&A: What gameplay stats/information do you wish you had more visibility on?](../../transcriptions/yt-LNtVgVEpOaw.md) [https://www.youtube.com/watch?v=LNtVgVEpOaw](https://www.youtube.com/watch?v=LNtVgVEpOaw)
+
 ## April 6th, 2021 Livestream
 * [Q&A: What kind of things do you learn from the gameplay stats that you gather?](../../transcriptions/yt-Xp4cDuSRMMs.md) [https://www.youtube.com/watch?v=Xp4cDuSRMMs](https://www.youtube.com/watch?v=Xp4cDuSRMMs)
 

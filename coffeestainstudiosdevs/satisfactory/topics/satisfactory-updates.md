@@ -16,6 +16,11 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## April 27th, 2021 Livestream
+* [Snutt Talk: Pros & Cons of having Satisfactory in Early Access](../transcriptions/yt-KrDyv_wspsU.md) [https://www.youtube.com/watch?v=KrDyv_wspsU](https://www.youtube.com/watch?v=KrDyv_wspsU)
+* [State of Dev: Update 5](../transcriptions/yt-6HuXkOLqZN8.md) [https://www.youtube.com/watch?v=6HuXkOLqZN8](https://www.youtube.com/watch?v=6HuXkOLqZN8)
+* [Q&A: Why does my game crash when I update Satisfactory?](../transcriptions/yt-m5cNknxrsMY.md) [https://www.youtube.com/watch?v=m5cNknxrsMY](https://www.youtube.com/watch?v=m5cNknxrsMY)
+
 ## April 23rd, 2021 Video
 * [Snutt Talk: Verify game files if you have issues](../transcriptions/yt-vuDlUdTeEMI,36.208333333333336,130.20833333333334.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=36&end=131](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=36&end=131)
 

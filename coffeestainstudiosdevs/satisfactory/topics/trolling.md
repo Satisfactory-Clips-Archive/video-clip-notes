@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## April 27th, 2021 Livestream
+* [Snutt Talk: Livestream chat tropes](../transcriptions/yt-AYTOGDyRHLA.md) [https://www.youtube.com/watch?v=AYTOGDyRHLA](https://www.youtube.com/watch?v=AYTOGDyRHLA)
+* [Snutt Talk: Walking off-camera](../transcriptions/yt-iSC5ytokwzw.md) [https://www.youtube.com/watch?v=iSC5ytokwzw](https://www.youtube.com/watch?v=iSC5ytokwzw)
+
 ## April 13th, 2021 Livestream
 * Hannah Talk: Floating rocks [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157)
 

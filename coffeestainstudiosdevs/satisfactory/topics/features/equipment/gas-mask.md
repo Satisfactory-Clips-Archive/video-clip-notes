@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Gas Mask
 
+## April 27th, 2021 Livestream
+* [Q&A: Can you make Gas Mask Filters last longer than 3 seconds each?](../../../transcriptions/yt-3I2JyLgHY_E.md) [https://www.youtube.com/watch?v=3I2JyLgHY_E](https://www.youtube.com/watch?v=3I2JyLgHY_E)
+
 ## April 20th, 2021 Livestream
 * [Q&A: What's with the bug with the Gas Mask with the Truck?](../../../transcriptions/yt-GDthMsvmWaw.md) [https://www.youtube.com/watch?v=GDthMsvmWaw](https://www.youtube.com/watch?v=GDthMsvmWaw)
 

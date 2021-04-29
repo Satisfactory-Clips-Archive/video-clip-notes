@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## April 27th, 2021 Livestream
+* [Q&A: Daisy-chain all building power?](../../../transcriptions/yt-y86EDzn4-bY.md) [https://www.youtube.com/watch?v=y86EDzn4-bY](https://www.youtube.com/watch?v=y86EDzn4-bY)
+* [Q&A: Do you know why the new lights don't go through glass?](../../../transcriptions/yt-IVz3eNdOyfI.md) [https://www.youtube.com/watch?v=IVz3eNdOyfI](https://www.youtube.com/watch?v=IVz3eNdOyfI)
+* [Q&A: Is the Vehicle lag in Multiplayer a challenge?](../../../transcriptions/yt-K58fUTWGpzU.md) [https://www.youtube.com/watch?v=K58fUTWGpzU](https://www.youtube.com/watch?v=K58fUTWGpzU)
+
 ## April 20th, 2021 Livestream
 * [Q&A: How bad will the lights hit performance?](../../../transcriptions/yt-VRrnYhXicK4.md) [https://www.youtube.com/watch?v=VRrnYhXicK4](https://www.youtube.com/watch?v=VRrnYhXicK4)
 * [Q&A: If I spam lights will my factory die?](../../../transcriptions/yt-qn4e8a4Up7g.md) [https://www.youtube.com/watch?v=qn4e8a4Up7g](https://www.youtube.com/watch?v=qn4e8a4Up7g)

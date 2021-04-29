@@ -18,6 +18,10 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## April 27th, 2021 Livestream
+* [State of Dev: Community-sourced Workarounds](../transcriptions/yt-EE50vUZbtBM.md) [https://www.youtube.com/watch?v=EE50vUZbtBM](https://www.youtube.com/watch?v=EE50vUZbtBM)
+* [Q&A: Steam Mods?](../transcriptions/yt-GC8pyFLf1Rw.md) [https://www.youtube.com/watch?v=GC8pyFLf1Rw](https://www.youtube.com/watch?v=GC8pyFLf1Rw)
+
 ## April 23rd, 2021 Video
 * [Snutt Talk: Last week we launched Update 4 on Early Access](../transcriptions/yt-vuDlUdTeEMI,11.458333333333334,36.208333333333336.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=11&end=37](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=11&end=37)
 

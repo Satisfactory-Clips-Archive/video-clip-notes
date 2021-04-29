@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## April 27th, 2021 Livestream
+* [Q&A: Any news on ramp fences?](../../../transcriptions/yt-F4RJIokIzlY.md) [https://www.youtube.com/watch?v=F4RJIokIzlY](https://www.youtube.com/watch?v=F4RJIokIzlY)
+* [Q&A: Do you know why the new lights don't go through glass?](../../../transcriptions/yt-IVz3eNdOyfI.md) [https://www.youtube.com/watch?v=IVz3eNdOyfI](https://www.youtube.com/watch?v=IVz3eNdOyfI)
+* [Q&A: How the hell are we going to put a Conveyor window in a curved Wall?](../../../transcriptions/yt-egj__9iKpzc.md) [https://www.youtube.com/watch?v=egj__9iKpzc](https://www.youtube.com/watch?v=egj__9iKpzc)
+* [Snutt Talk: Replacing pre-holed walls with placeable wall holes](../../../transcriptions/yt-TGil-LEiwIk.md) [https://www.youtube.com/watch?v=TGil-LEiwIk](https://www.youtube.com/watch?v=TGil-LEiwIk)
+* [Q&A: Why do the radial menus for Walls not distinguish between regular walls and corrugated walls?](../../../transcriptions/yt-6La5K6gxORE.md) [https://www.youtube.com/watch?v=6La5K6gxORE](https://www.youtube.com/watch?v=6La5K6gxORE)
+
 ## April 20th, 2021 Livestream
 * [Q&A: How about diagonal walls?](../../../transcriptions/yt-Nf6bTwsv-_w.md) [https://www.youtube.com/watch?v=Nf6bTwsv-_w](https://www.youtube.com/watch?v=Nf6bTwsv-_w)
 * [Q&A: Will you add structual integrity?](../../../transcriptions/yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)

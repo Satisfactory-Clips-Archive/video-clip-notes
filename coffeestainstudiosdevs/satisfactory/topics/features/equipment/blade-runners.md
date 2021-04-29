@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Blade Runners
 
+## April 27th, 2021 Livestream
+* [Q&A: Are the blade runners going to fit our feet properly soon?](../../../transcriptions/yt-48-kXDDW3-0.md) [https://www.youtube.com/watch?v=48-kXDDW3-0](https://www.youtube.com/watch?v=48-kXDDW3-0)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?](../../../transcriptions/yt-XkDGnJwkY18.md) [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
 * [Q&A: When are my Blade Runners going to stay on my character while in Hyper Tubes?](../../../transcriptions/yt-gXm3WrzRrUU.md) [https://www.youtube.com/watch?v=gXm3WrzRrUU](https://www.youtube.com/watch?v=gXm3WrzRrUU)

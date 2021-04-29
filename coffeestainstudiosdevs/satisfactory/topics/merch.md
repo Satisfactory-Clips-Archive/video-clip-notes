@@ -5,6 +5,12 @@ date: Last Modified
 # [Topics](../topics.md) > Merch
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## April 27th, 2021 Livestream
+* [Snutt Talk: EU Merch](../transcriptions/yt-oCPV5Nt2gpc.md) [https://www.youtube.com/watch?v=oCPV5Nt2gpc](https://www.youtube.com/watch?v=oCPV5Nt2gpc)
+* [Q&A: Is that the Keanu Reeves MSPaint shirt?](../transcriptions/yt-xBFNJxkeLmM.md) [https://www.youtube.com/watch?v=xBFNJxkeLmM](https://www.youtube.com/watch?v=xBFNJxkeLmM)
+* [Q&A: Is the shirt official Merch?](../transcriptions/yt-st4oh2S3XHk.md) [https://www.youtube.com/watch?v=st4oh2S3XHk](https://www.youtube.com/watch?v=st4oh2S3XHk)
+* [State of Dev: Merch](../transcriptions/yt-m8P1TtWkSpM.md) [https://www.youtube.com/watch?v=m8P1TtWkSpM](https://www.youtube.com/watch?v=m8P1TtWkSpM)
+
 ## April 6th, 2021 Livestream
 * [Community FYI: We need Mugs](../transcriptions/yt-_X-j0Zkt_Fs.md) [https://www.youtube.com/watch?v=_X-j0Zkt_Fs](https://www.youtube.com/watch?v=_X-j0Zkt_Fs)
 

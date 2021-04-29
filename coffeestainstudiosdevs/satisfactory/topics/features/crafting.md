@@ -7,6 +7,9 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## April 27th, 2021 Livestream
+* [Q&A: Why is space bar twice not used for autocraft?](../../transcriptions/yt-BL3v75vPC10.md) [https://www.youtube.com/watch?v=BL3v75vPC10](https://www.youtube.com/watch?v=BL3v75vPC10)
+
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Design/Balancing process for adding a new part](../../transcriptions/yt-8KvcijfWfcA.md) [https://www.youtube.com/watch?v=8KvcijfWfcA](https://www.youtube.com/watch?v=8KvcijfWfcA)
 

@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 5
 
+## April 27th, 2021 Livestream
+* [State of Dev: If you have ideas for Update 5, use the QA Site](../../../transcriptions/yt-VaVktWVoFds.md) [https://www.youtube.com/watch?v=VaVktWVoFds](https://www.youtube.com/watch?v=VaVktWVoFds)
+* [State of Dev: Update 5](../../../transcriptions/yt-6HuXkOLqZN8.md) [https://www.youtube.com/watch?v=6HuXkOLqZN8](https://www.youtube.com/watch?v=6HuXkOLqZN8)
+* [State of Dev: Update 5 reiteration](../../../transcriptions/yt-l0Mr1fHQZpc.md) [https://www.youtube.com/watch?v=l0Mr1fHQZpc](https://www.youtube.com/watch?v=l0Mr1fHQZpc)
+
 ## April 23rd, 2021 Video
 * [Snutt Talk: The future for Satisfactory](../../../transcriptions/yt-vuDlUdTeEMI,461.7083333333333,522.5833333333334.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=461&end=523](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=461&end=523)
 

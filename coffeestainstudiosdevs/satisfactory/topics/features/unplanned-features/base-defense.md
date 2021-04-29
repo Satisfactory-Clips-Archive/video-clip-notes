@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
+## April 27th, 2021 Livestream
+* [Q&A: Is there combat & Base Defense required in the game?](../../../transcriptions/yt-A9GtewxqeLo.md) [https://www.youtube.com/watch?v=A9GtewxqeLo](https://www.youtube.com/watch?v=A9GtewxqeLo)
+
 ## April 20th, 2021 Livestream
 * [Q&A: You've said no defense turrets before, how about tesla towers?](../../../transcriptions/yt-NoM9FK-dx6s.md) [https://www.youtube.com/watch?v=NoM9FK-dx6s](https://www.youtube.com/watch?v=NoM9FK-dx6s)
 

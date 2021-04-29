@@ -12,6 +12,10 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## April 27th, 2021 Livestream
+* [Q&A: What about rare resources like silver & gold?](../../transcriptions/yt-lYgVTM0bibw.md) [https://www.youtube.com/watch?v=lYgVTM0bibw](https://www.youtube.com/watch?v=lYgVTM0bibw)
+* [Q&A: Will we get Quantum Computers & Superposition Oscillators before 1.0?](../../transcriptions/yt-jeOzZsWfYFo.md) [https://www.youtube.com/watch?v=jeOzZsWfYFo](https://www.youtube.com/watch?v=jeOzZsWfYFo)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Is there any talk about new resource locations?](../../transcriptions/yt--1_zC92heaI.md) [https://www.youtube.com/watch?v=-1_zC92heaI](https://www.youtube.com/watch?v=-1_zC92heaI)
 

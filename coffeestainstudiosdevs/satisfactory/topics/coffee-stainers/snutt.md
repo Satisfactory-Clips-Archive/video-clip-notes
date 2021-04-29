@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 
+## April 27th, 2021 Livestream
+* [Snutt Talk: I got a new chair](../../transcriptions/yt-5xIxp29klx4.md) [https://www.youtube.com/watch?v=5xIxp29klx4](https://www.youtube.com/watch?v=5xIxp29klx4)
+* [Snutt Talk: PSA "Things I Wish I Had Learned Before I Turned 30"](../../transcriptions/yt-qLSKN_Fp6ps.md) [https://www.youtube.com/watch?v=qLSKN_Fp6ps](https://www.youtube.com/watch?v=qLSKN_Fp6ps)
+* [Q&A: Snutt is going to have Doggo Burgers tonight?](../../transcriptions/yt-TqSWRAch-Yg.md) [https://www.youtube.com/watch?v=TqSWRAch-Yg](https://www.youtube.com/watch?v=TqSWRAch-Yg)
+* [Snutt Talk: Walking off-camera](../../transcriptions/yt-iSC5ytokwzw.md) [https://www.youtube.com/watch?v=iSC5ytokwzw](https://www.youtube.com/watch?v=iSC5ytokwzw)
+* [Q&A: Why don't you try to make a Mod?](../../transcriptions/yt-fWjnJ3MU1rw.md) [https://www.youtube.com/watch?v=fWjnJ3MU1rw](https://www.youtube.com/watch?v=fWjnJ3MU1rw)
+* [Q&A: Will you stream your gameplay?](../../transcriptions/yt-Fu1oJLSiJo0.md) [https://www.youtube.com/watch?v=Fu1oJLSiJo0](https://www.youtube.com/watch?v=Fu1oJLSiJo0)
+
 ## April 20th, 2021 Livestream
 * [Q&A: How's the burger?](../../transcriptions/yt-5VNbStRGin8.md) [https://www.youtube.com/watch?v=5VNbStRGin8](https://www.youtube.com/watch?v=5VNbStRGin8)
 * [Snutt Talk: I did trim my beard](../../transcriptions/yt-mLeFpMjkIBw.md) [https://www.youtube.com/watch?v=mLeFpMjkIBw](https://www.youtube.com/watch?v=mLeFpMjkIBw)

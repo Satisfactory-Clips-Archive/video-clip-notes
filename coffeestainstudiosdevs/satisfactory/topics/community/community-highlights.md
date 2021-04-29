@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## April 27th, 2021 Livestream
+* [Community Highlights: 3pm Swedish Fika](../../transcriptions/yt-vBXqwkho_ck.md) [https://www.youtube.com/watch?v=vBXqwkho_ck](https://www.youtube.com/watch?v=vBXqwkho_ck)
+
 ## April 20th, 2021 Livestream
 * [Community Highlights: Jace gets featured in Community Highlights](../../transcriptions/yt-LMj4zqWimc4.md) [https://www.youtube.com/watch?v=LMj4zqWimc4](https://www.youtube.com/watch?v=LMj4zqWimc4)
 

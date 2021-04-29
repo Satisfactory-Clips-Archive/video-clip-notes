@@ -13,6 +13,9 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## April 27th, 2021 Livestream
+* [Q&A: Can I add a glider for jumping down stuff?](../../transcriptions/yt-i8j5U47-pcw.md) [https://www.youtube.com/watch?v=i8j5U47-pcw](https://www.youtube.com/watch?v=i8j5U47-pcw)
+
 ## April 20th, 2021 Livestream
 * Community FYI: Game needs a guitar [https://www.youtube.com/watch?v=Hpz2T2wOtu8](https://www.youtube.com/watch?v=Hpz2T2wOtu8)
 

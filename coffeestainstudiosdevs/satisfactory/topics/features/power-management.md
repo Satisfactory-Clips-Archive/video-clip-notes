@@ -9,6 +9,10 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## April 27th, 2021 Livestream
+* [Q&A: Can you tell us what Power change content were taken out of Update 4?](../../transcriptions/yt-8HYOz7X16FU.md) [https://www.youtube.com/watch?v=8HYOz7X16FU](https://www.youtube.com/watch?v=8HYOz7X16FU)
+* [Q&A: Tesla coil for short-range wireless power?](../../transcriptions/yt-jbpsoJMv5SU.md) [https://www.youtube.com/watch?v=jbpsoJMv5SU](https://www.youtube.com/watch?v=jbpsoJMv5SU)
+
 ## April 23rd, 2021 Video
 * [Snutt Talk: Power Changes Info (and fluid dynamics concerns)](../../transcriptions/yt-vuDlUdTeEMI,130.20833333333334,279.2083333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=130&end=280](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=130&end=280)
 

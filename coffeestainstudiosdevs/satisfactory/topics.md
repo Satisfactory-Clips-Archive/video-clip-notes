@@ -10,6 +10,7 @@ date: Last Modified
 * [Dylan](./topics/coffee-stainers/dylan.md)
 * [Etienne](./topics/coffee-stainers/etienne.md)
 * [G2](./topics/coffee-stainers/g2.md)
+* [Gnutt](./topics/coffee-stainers/gnutt.md)
 * [Hannah](./topics/coffee-stainers/hannah.md)
 * [Jace](./topics/coffee-stainers/jace.md)
 * [Jannik](./topics/coffee-stainers/jannik.md)
@@ -204,6 +205,7 @@ date: Last Modified
 ---
 
 ## Requested Features
+* [Golf](./topics/features/requested-features/golf.md)
 * [Holstering Equipment](./topics/features/requested-features/holstering-equipment.md)
 * [Multiple Body Slots](./topics/features/requested-features/multiple-body-slots.md)
 ---

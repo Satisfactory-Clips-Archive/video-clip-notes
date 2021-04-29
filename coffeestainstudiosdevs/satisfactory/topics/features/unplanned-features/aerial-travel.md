@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel
 
+## April 27th, 2021 Livestream
+* [Q&A: Can I add a glider for jumping down stuff?](../../../transcriptions/yt-i8j5U47-pcw.md) [https://www.youtube.com/watch?v=i8j5U47-pcw](https://www.youtube.com/watch?v=i8j5U47-pcw)
+* Q&A: Helicopters when? [https://www.youtube.com/watch?v=3MKZhjpTAhg](https://www.youtube.com/watch?v=3MKZhjpTAhg)
+* [Q&A: Planes & Ships?](../../../transcriptions/yt-ZZ4xIUGehNU.md) [https://www.youtube.com/watch?v=ZZ4xIUGehNU](https://www.youtube.com/watch?v=ZZ4xIUGehNU)
+
 ## April 20th, 2021 Livestream
 * [Q&A: When are we finally gonna get our own VTOL?](../../../transcriptions/yt-nty-h2xgybU.md) [https://www.youtube.com/watch?v=nty-h2xgybU](https://www.youtube.com/watch?v=nty-h2xgybU)
 

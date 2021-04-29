@@ -23,6 +23,12 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## April 27th, 2021 Livestream
+* [Q&A: Any thoughts to expand copy & paste functionality to work without opening the structure?](../../transcriptions/yt-kAGPc6PKVKM.md) [https://www.youtube.com/watch?v=kAGPc6PKVKM](https://www.youtube.com/watch?v=kAGPc6PKVKM)
+* [Q&A: Daisy-chain all building power?](../../transcriptions/yt-y86EDzn4-bY.md) [https://www.youtube.com/watch?v=y86EDzn4-bY](https://www.youtube.com/watch?v=y86EDzn4-bY)
+* [Q&A: Mk.2 Buildings?](../../transcriptions/yt-1mj3Rql5vGQ.md) [https://www.youtube.com/watch?v=1mj3Rql5vGQ](https://www.youtube.com/watch?v=1mj3Rql5vGQ)
+* [Snutt Talk: We don't want any type of maintenance in the game](../../transcriptions/yt-Cms8R0fV8s4.md) [https://www.youtube.com/watch?v=Cms8R0fV8s4](https://www.youtube.com/watch?v=Cms8R0fV8s4)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Daisy-chaining machines when?](../../transcriptions/yt-1ouv6GGsyY0.md) [https://www.youtube.com/watch?v=1ouv6GGsyY0](https://www.youtube.com/watch?v=1ouv6GGsyY0)
 * [Q&A: Vertical elevators for character and transport?](../../transcriptions/yt-uLe9eMpCxRg.md) [https://www.youtube.com/watch?v=uLe9eMpCxRg](https://www.youtube.com/watch?v=uLe9eMpCxRg)

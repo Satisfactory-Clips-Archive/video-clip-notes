@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## April 27th, 2021 Livestream
+* [Q&A: Does looking into pathfinding apply to Truck & Tractor pathfinding?](../../../../transcriptions/yt-wANkw8R1tKQ.md) [https://www.youtube.com/watch?v=wANkw8R1tKQ](https://www.youtube.com/watch?v=wANkw8R1tKQ)
+
 ## April 20th, 2021 Livestream
 * [Q&A: What's with the bug with the Gas Mask with the Truck?](../../../../transcriptions/yt-GDthMsvmWaw.md) [https://www.youtube.com/watch?v=GDthMsvmWaw](https://www.youtube.com/watch?v=GDthMsvmWaw)
 

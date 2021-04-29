@@ -11,6 +11,16 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## April 27th, 2021 Livestream
+* [Q&A: Are Vehicle Modules still being considered?](../../../transcriptions/yt-5K3tV4ufnxY.md) [https://www.youtube.com/watch?v=5K3tV4ufnxY](https://www.youtube.com/watch?v=5K3tV4ufnxY)
+* [Q&A: Does looking into pathfinding apply to Truck & Tractor pathfinding?](../../../transcriptions/yt-wANkw8R1tKQ.md) [https://www.youtube.com/watch?v=wANkw8R1tKQ](https://www.youtube.com/watch?v=wANkw8R1tKQ)
+* [Q&A: Is the Vehicle lag in Multiplayer a challenge?](../../../transcriptions/yt-K58fUTWGpzU.md) [https://www.youtube.com/watch?v=K58fUTWGpzU](https://www.youtube.com/watch?v=K58fUTWGpzU)
+* [Q&A: Planes & Ships?](../../../transcriptions/yt-ZZ4xIUGehNU.md) [https://www.youtube.com/watch?v=ZZ4xIUGehNU](https://www.youtube.com/watch?v=ZZ4xIUGehNU)
+* [Q&A: Please fix first-person vehicles?](../../../transcriptions/yt-Vfo9KYbuM6Q.md) [https://www.youtube.com/watch?v=Vfo9KYbuM6Q](https://www.youtube.com/watch?v=Vfo9KYbuM6Q)
+* [Q&A: Two-person buggy?](../../../transcriptions/yt-IUQeH1sTCv0.md) [https://www.youtube.com/watch?v=IUQeH1sTCv0](https://www.youtube.com/watch?v=IUQeH1sTCv0)
+* [Q&A: What about an over-sized lawn mower?](../../../transcriptions/yt-4X4Ft5Cpat0.md) [https://www.youtube.com/watch?v=4X4Ft5Cpat0](https://www.youtube.com/watch?v=4X4Ft5Cpat0)
+* [Q&A: Will Satisfactory ever have boats?](../../../transcriptions/yt-LVpl0f5g6ow.md) [https://www.youtube.com/watch?v=LVpl0f5g6ow](https://www.youtube.com/watch?v=LVpl0f5g6ow)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Vertical elevators for character and transport?](../../../transcriptions/yt-uLe9eMpCxRg.md) [https://www.youtube.com/watch?v=uLe9eMpCxRg](https://www.youtube.com/watch?v=uLe9eMpCxRg)
 * [Q&A: Why can't we access the inventory when we're in vehicles?](../../../transcriptions/yt-RtaiQPBJVqQ.md) [https://www.youtube.com/watch?v=RtaiQPBJVqQ](https://www.youtube.com/watch?v=RtaiQPBJVqQ)

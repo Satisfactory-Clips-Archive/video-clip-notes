@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## April 27th, 2021 Livestream
+* [Q&A: Any new aliens coming?](../../../transcriptions/yt-d5A3AQG5YoE.md) [https://www.youtube.com/watch?v=d5A3AQG5YoE](https://www.youtube.com/watch?v=d5A3AQG5YoE)
+* [Q&A: Does looking into pathfinding apply to Truck & Tractor pathfinding?](../../../transcriptions/yt-wANkw8R1tKQ.md) [https://www.youtube.com/watch?v=wANkw8R1tKQ](https://www.youtube.com/watch?v=wANkw8R1tKQ)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Will there be more creatures ever?](../../../transcriptions/yt-hKlILzyla-Y.md) [https://www.youtube.com/watch?v=hKlILzyla-Y](https://www.youtube.com/watch?v=hKlILzyla-Y)
 

@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 
+## April 27th, 2021 Livestream
+* [Q&A: Any new aliens coming?](../../transcriptions/yt-d5A3AQG5YoE.md) [https://www.youtube.com/watch?v=d5A3AQG5YoE](https://www.youtube.com/watch?v=d5A3AQG5YoE)
+* [Q&A: Will there be another map?](../../transcriptions/yt-yR31iCrXx4w.md) [https://www.youtube.com/watch?v=yR31iCrXx4w](https://www.youtube.com/watch?v=yR31iCrXx4w)
+* [Q&A: Will you guys make a bigger map some day?](../../transcriptions/yt-YDk5S3_5Wdg.md) [https://www.youtube.com/watch?v=YDk5S3_5Wdg](https://www.youtube.com/watch?v=YDk5S3_5Wdg)
+
 ## April 13th, 2021 Livestream
 * Hannah Talk: Floating rocks [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157)
 * Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045)

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## April 27th, 2021 Livestream
+* [Community Highlights: 3pm Swedish Fika](../../transcriptions/yt-vBXqwkho_ck.md) [https://www.youtube.com/watch?v=vBXqwkho_ck](https://www.youtube.com/watch?v=vBXqwkho_ck)
+* [Snutt Talk: Swedish vacations](../../transcriptions/yt-kovWhVSuVhg.md) [https://www.youtube.com/watch?v=kovWhVSuVhg](https://www.youtube.com/watch?v=kovWhVSuVhg)
+
 ## April 20th, 2021 Livestream
 * [Q&A: When are you guys gonna relocate to Stockholm?](../../transcriptions/yt-7AEDyBWasBQ.md) [https://www.youtube.com/watch?v=7AEDyBWasBQ](https://www.youtube.com/watch?v=7AEDyBWasBQ)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Mods](../../../topics/mods.md) > [Official Mod Support](../../../topics/mods/official-mod-support.md) > Steam Workshop
 
+## April 27th, 2021 Livestream
+* [Q&A: Steam Mods?](../../../transcriptions/yt-GC8pyFLf1Rw.md) [https://www.youtube.com/watch?v=GC8pyFLf1Rw](https://www.youtube.com/watch?v=GC8pyFLf1Rw)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Is it possible to have Steam Workshop in the game?](../../../transcriptions/yt-U2Dufcqf9G8.md) [https://www.youtube.com/watch?v=U2Dufcqf9G8](https://www.youtube.com/watch?v=U2Dufcqf9G8)
 

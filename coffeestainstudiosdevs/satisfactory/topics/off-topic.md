@@ -15,6 +15,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## April 27th, 2021 Livestream
+* [Q&A: Is Satisfactory going to be in Smash any time soon?](../transcriptions/yt-tXsoac1sPx8.md) [https://www.youtube.com/watch?v=tXsoac1sPx8](https://www.youtube.com/watch?v=tXsoac1sPx8)
+
 ## March 23rd, 2021 Livestream
 * [Snutt Talk: Don't spam in chat](../transcriptions/yt-3rq5NDcvAHc.md) [https://www.youtube.com/watch?v=3rq5NDcvAHc](https://www.youtube.com/watch?v=3rq5NDcvAHc)
 * [Q&A: What is Love?](../transcriptions/yt-ZSFnn5PWzpU.md) [https://www.youtube.com/watch?v=ZSFnn5PWzpU](https://www.youtube.com/watch?v=ZSFnn5PWzpU)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Procedural Generation
 
+## April 27th, 2021 Livestream
+* [Q&A: Is the map generation going to be randomised in the future?](../../../transcriptions/yt-XMhLiJd6N2U.md) [https://www.youtube.com/watch?v=XMhLiJd6N2U](https://www.youtube.com/watch?v=XMhLiJd6N2U)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Any plans for a procedurally generated map?](../../../transcriptions/yt-7LUcnDsDjnU.md) [https://www.youtube.com/watch?v=7LUcnDsDjnU](https://www.youtube.com/watch?v=7LUcnDsDjnU)
 

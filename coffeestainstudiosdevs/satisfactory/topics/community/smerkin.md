@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Smerkin
 
+## April 27th, 2021 Livestream
+* [Q&A: Can you make Gas Mask Filters last longer than 3 seconds each?](../../transcriptions/yt-3I2JyLgHY_E.md) [https://www.youtube.com/watch?v=3I2JyLgHY_E](https://www.youtube.com/watch?v=3I2JyLgHY_E)
+
 ## March 9th, 2021 Livestream
 * [Community FYI: Update 3 was a realignment of the game, whereas Update 4 is new content](../../transcriptions/yt-BoJRV1WelIM.md) [https://www.youtube.com/watch?v=BoJRV1WelIM](https://www.youtube.com/watch?v=BoJRV1WelIM)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## April 27th, 2021 Livestream
+* [Q&A: Are mushrooms going to regrow?](../../transcriptions/yt-QKmEWdHZSyg.md) [https://www.youtube.com/watch?v=QKmEWdHZSyg](https://www.youtube.com/watch?v=QKmEWdHZSyg)
+
 ## April 23rd, 2021 Video
 * [Snutt Talk: Foliage bugs](../../transcriptions/yt-vuDlUdTeEMI,322.7083333333333,358.8333333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=322&end=359](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=322&end=359)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Requested Features > Holstering Equipment
 
+## April 27th, 2021 Livestream
+* [Q&A: Holster Weapon toolkey?](../../../transcriptions/yt-D2NO_tzXhVg.md) [https://www.youtube.com/watch?v=D2NO_tzXhVg](https://www.youtube.com/watch?v=D2NO_tzXhVg)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: If you could add a feature yourself right now, what would that be ?](../../../transcriptions/yt-EbERjXIk_x4.md) [https://www.youtube.com/watch?v=EbERjXIk_x4](https://www.youtube.com/watch?v=EbERjXIk_x4)
 

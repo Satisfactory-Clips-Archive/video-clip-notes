@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## April 27th, 2021 Livestream
+* [Snutt Talk: Train Signals](../../../../transcriptions/yt-VzFUp1wDYMM.md) [https://www.youtube.com/watch?v=VzFUp1wDYMM](https://www.youtube.com/watch?v=VzFUp1wDYMM)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Train remake?](../../../../transcriptions/yt-4iPV87r2O7A.md) [https://www.youtube.com/watch?v=4iPV87r2O7A](https://www.youtube.com/watch?v=4iPV87r2O7A)
 

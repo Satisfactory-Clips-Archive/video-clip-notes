@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## April 27th, 2021 Livestream
+* [Q&A: What're the plans for No Man's Land in the south-west corner of the map?](../../transcriptions/yt-9xXGONAfI8s.md) [https://www.youtube.com/watch?v=9xXGONAfI8s](https://www.youtube.com/watch?v=9xXGONAfI8s)
+* [Q&A: Will there be another map?](../../transcriptions/yt-yR31iCrXx4w.md) [https://www.youtube.com/watch?v=yR31iCrXx4w](https://www.youtube.com/watch?v=yR31iCrXx4w)
+* [Q&A: Will you guys make a bigger map some day?](../../transcriptions/yt-YDk5S3_5Wdg.md) [https://www.youtube.com/watch?v=YDk5S3_5Wdg](https://www.youtube.com/watch?v=YDk5S3_5Wdg)
+
 ## April 20th, 2021 Livestream
 * [Community FYI: beacons work fine for tagging raided crash sites](../../transcriptions/yt-caCdUs9XJ9A.md) [https://www.youtube.com/watch?v=caCdUs9XJ9A](https://www.youtube.com/watch?v=caCdUs9XJ9A)
 * [Q&A: How about making Crash Sites deconstructable after looting?](../../transcriptions/yt-8NEorsLWk6k.md) [https://www.youtube.com/watch?v=8NEorsLWk6k](https://www.youtube.com/watch?v=8NEorsLWk6k)

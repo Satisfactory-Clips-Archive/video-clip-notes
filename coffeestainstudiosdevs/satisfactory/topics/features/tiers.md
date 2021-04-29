@@ -15,6 +15,10 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## April 27th, 2021 Livestream
+* [Q&A: Any plans to introduce a Blender at lower tiers?](../../transcriptions/yt-6LLHUYJVqz4.md) [https://www.youtube.com/watch?v=6LLHUYJVqz4](https://www.youtube.com/watch?v=6LLHUYJVqz4)
+* [Q&A: Tier 9, any plan?](../../transcriptions/yt-qTNbKJ6Ys0M.md) [https://www.youtube.com/watch?v=qTNbKJ6Ys0M](https://www.youtube.com/watch?v=qTNbKJ6Ys0M)
+
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Feedback from hardcore players vs. casual players](../../transcriptions/yt-7I4_CIh-ajM.md) [https://www.youtube.com/watch?v=7I4_CIh-ajM](https://www.youtube.com/watch?v=7I4_CIh-ajM)
 * [Snutt & Mark Talk: Measuring Complexity](../../transcriptions/yt-sDUy-9Ay1mk.md) [https://www.youtube.com/watch?v=sDUy-9Ay1mk](https://www.youtube.com/watch?v=sDUy-9Ay1mk)

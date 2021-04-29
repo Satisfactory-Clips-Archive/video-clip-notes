@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Farming
 
+## April 27th, 2021 Livestream
+* [Q&A: Farms?](../../../transcriptions/yt-kq125_HSqqE.md) [https://www.youtube.com/watch?v=kq125_HSqqE](https://www.youtube.com/watch?v=kq125_HSqqE)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Nut farm?](../../../transcriptions/yt-2--yx9IFs7U.md) [https://www.youtube.com/watch?v=2--yx9IFs7U](https://www.youtube.com/watch?v=2--yx9IFs7U)
 

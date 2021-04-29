@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## April 27th, 2021 Livestream
+* [Snutt Talk: Steam update quirks](../../transcriptions/yt-vIPPEDXHwjo.md) [https://www.youtube.com/watch?v=vIPPEDXHwjo](https://www.youtube.com/watch?v=vIPPEDXHwjo)
+
 ## April 23rd, 2021 Video
 * [Snutt Talk: Verify game files if you have issues](../../transcriptions/yt-vuDlUdTeEMI,36.208333333333336,130.20833333333334.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=36&end=131](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=36&end=131)
 

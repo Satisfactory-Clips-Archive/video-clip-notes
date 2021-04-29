@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## April 27th, 2021 Livestream
+* [Snutt Talk: Everyone asks where is Jace?](../../transcriptions/yt-D5gMEGe3ce0.md) [https://www.youtube.com/watch?v=D5gMEGe3ce0](https://www.youtube.com/watch?v=D5gMEGe3ce0)
+* [Q&A: Is that the Keanu Reeves MSPaint shirt?](../../transcriptions/yt-xBFNJxkeLmM.md) [https://www.youtube.com/watch?v=xBFNJxkeLmM](https://www.youtube.com/watch?v=xBFNJxkeLmM)
+* [Q&A: Is the shirt official Merch?](../../transcriptions/yt-st4oh2S3XHk.md) [https://www.youtube.com/watch?v=st4oh2S3XHk](https://www.youtube.com/watch?v=st4oh2S3XHk)
+* [Snutt Talk: Swedish vacations](../../transcriptions/yt-kovWhVSuVhg.md) [https://www.youtube.com/watch?v=kovWhVSuVhg](https://www.youtube.com/watch?v=kovWhVSuVhg)
+* [Q&A: Will you stream your gameplay?](../../transcriptions/yt-Fu1oJLSiJo0.md) [https://www.youtube.com/watch?v=Fu1oJLSiJo0](https://www.youtube.com/watch?v=Fu1oJLSiJo0)
+
 ## April 20th, 2021 Livestream
 * [Community Highlights: Jace gets featured in Community Highlights](../../transcriptions/yt-LMj4zqWimc4.md) [https://www.youtube.com/watch?v=LMj4zqWimc4](https://www.youtube.com/watch?v=LMj4zqWimc4)
 

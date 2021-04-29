@@ -1,0 +1,19 @@
+---
+title: "April 27th, 2021 Livestream Q&A: Can Chainsaw use liquid (fuel) in the future?"
+date: "2021-04-27"
+layout: transcript
+topics:
+    - "features/crafting/fuel"
+    - "features/equipment/chainsaw"
+---
+# [April 27th, 2021 Livestream](../2021-04-27.md)
+## Q&A: Can Chainsaw use liquid (fuel) in the future?
+https://www.youtube.com/watch?v=pxBuKCXaE6Y
+
+### Topics
+* [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
+* [Features > Equipment > Chainsaw](../topics/features/equipment/chainsaw.md)
+
+### Transcript
+
+> uh can chainsaw use liquid in the future potentially we the reason why chainsaw only uses like solid biofuel up until now is because the that has that has made sense when you unlock or like rather when we intended to unlock the chainsaw and then further down the line it made sense like maybe to have other fuel and we haven't had that in the game because we haven't solved we haven't had support to like change fuels uh for the equipment and that's something that we're probably gonna do in the future i don't know exactly when that will happen um but that's why we haven't had in the game i'm pretty sure we're gonna have it at some point like turbo fuel and chainsaw or you know liquid biofuel which like what else do you use that for um so yeah

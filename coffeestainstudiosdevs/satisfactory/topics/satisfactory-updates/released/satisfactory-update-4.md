@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## April 27th, 2021 Livestream
+* [Q&A: Can you tell us what Power change content were taken out of Update 4?](../../../transcriptions/yt-8HYOz7X16FU.md) [https://www.youtube.com/watch?v=8HYOz7X16FU](https://www.youtube.com/watch?v=8HYOz7X16FU)
+* [State of Dev: Cheatcrete](../../../transcriptions/yt-aXRTTO15rZg.md) [https://www.youtube.com/watch?v=aXRTTO15rZg](https://www.youtube.com/watch?v=aXRTTO15rZg)
+
 ## April 23rd, 2021 Video
 * [Snutt Talk: Last week we launched Update 4 on Early Access](../../../transcriptions/yt-vuDlUdTeEMI,11.458333333333334,36.208333333333336.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=11&end=37](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=11&end=37)
 * [Snutt Talk: Name and Icon for game is wrong](../../../transcriptions/yt-vuDlUdTeEMI,358.8333333333333,421.3333333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=358&end=422](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=358&end=422)

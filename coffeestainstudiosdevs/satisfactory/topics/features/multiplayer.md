@@ -5,6 +5,12 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## April 27th, 2021 Livestream
+* [Q&A: Any chance we'll get individual respawn points for Multiplayer?](../../transcriptions/yt-5PcURRkz6yc.md) [https://www.youtube.com/watch?v=5PcURRkz6yc](https://www.youtube.com/watch?v=5PcURRkz6yc)
+* [Q&A: How about a teleporter for people to hand-feed the system?](../../transcriptions/yt-m95zf9b3oo0.md) [https://www.youtube.com/watch?v=m95zf9b3oo0](https://www.youtube.com/watch?v=m95zf9b3oo0)
+* [Q&A: Is the Vehicle lag in Multiplayer a challenge?](../../transcriptions/yt-K58fUTWGpzU.md) [https://www.youtube.com/watch?v=K58fUTWGpzU](https://www.youtube.com/watch?v=K58fUTWGpzU)
+* [Q&A: PvP?](../../transcriptions/yt-rYjU9Pa3p_M.md) [https://www.youtube.com/watch?v=rYjU9Pa3p_M](https://www.youtube.com/watch?v=rYjU9Pa3p_M)
+
 ## April 23rd, 2021 Video
 * [Snutt Talk: Connectivity Issues and work arounds](../../transcriptions/yt-vuDlUdTeEMI,279.2083333333333,322.7083333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=279&end=323](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=279&end=323)
 

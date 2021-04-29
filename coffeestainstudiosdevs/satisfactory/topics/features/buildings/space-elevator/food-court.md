@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Buildings](../../../../topics/features/buildings.md) > [Space Elevator](../../../../topics/features/buildings/space-elevator.md) > Food Court
 
+## April 27th, 2021 Livestream
+* [Q&A: Are we doing all this work in the game to earn a 10-piece bucket of chicken?](../../../../transcriptions/yt-LgOQ-5jwczg.md) [https://www.youtube.com/watch?v=LgOQ-5jwczg](https://www.youtube.com/watch?v=LgOQ-5jwczg)
+* [Q&A: Can you get Nuclear Pasta at the Food Court?](../../../../transcriptions/yt-n_FqVjy7epM.md) [https://www.youtube.com/watch?v=n_FqVjy7epM](https://www.youtube.com/watch?v=n_FqVjy7epM)
+* [Q&A: What is actually at the end of the Space Elevator?](../../../../transcriptions/yt-46jdMN3bb28.md) [https://www.youtube.com/watch?v=46jdMN3bb28](https://www.youtube.com/watch?v=46jdMN3bb28)
+
 ## April 20th, 2021 Livestream
 * [Q&A: How many tiers will you need to reveal what Project Assembly is?](../../../../transcriptions/yt-YN-v2W9zwFE.md) [https://www.youtube.com/watch?v=YN-v2W9zwFE](https://www.youtube.com/watch?v=YN-v2W9zwFE)
 * [Community FYI: Need the Nitrogen Gas for fizzy drinks](../../../../transcriptions/yt-RoKvL8KuXFk.md) [https://www.youtube.com/watch?v=RoKvL8KuXFk](https://www.youtube.com/watch?v=RoKvL8KuXFk)

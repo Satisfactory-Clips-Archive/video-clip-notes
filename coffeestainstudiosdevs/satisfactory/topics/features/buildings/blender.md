@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Blender
 
+## April 27th, 2021 Livestream
+* [Q&A: Any plans to introduce a Blender at lower tiers?](../../../transcriptions/yt-6LLHUYJVqz4.md) [https://www.youtube.com/watch?v=6LLHUYJVqz4](https://www.youtube.com/watch?v=6LLHUYJVqz4)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Why is the Blender and Diluted Fuel recipe in Tier 7?](../../../transcriptions/yt-Y1V0UB_9GJA.md) [https://www.youtube.com/watch?v=Y1V0UB_9GJA](https://www.youtube.com/watch?v=Y1V0UB_9GJA)
 

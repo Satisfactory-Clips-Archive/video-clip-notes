@@ -6,6 +6,9 @@ date: Last Modified
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## April 27th, 2021 Livestream
+* Q&A: Can we have nuclear meltdowns? [https://www.youtube.com/watch?v=eSyifcA_yPg](https://www.youtube.com/watch?v=eSyifcA_yPg)
+
 ## April 20th, 2021 Livestream
 * [Q&A: What about letting people use Space Elevator to send up Fuel Rods instead of sinking them?](../../../transcriptions/yt-R83_D7zSZYo.md) [https://www.youtube.com/watch?v=R83_D7zSZYo](https://www.youtube.com/watch?v=R83_D7zSZYo)
 

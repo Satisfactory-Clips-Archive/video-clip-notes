@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## April 27th, 2021 Livestream
+* [Q&A: Can Chainsaw use liquid (fuel) in the future?](../../../transcriptions/yt-pxBuKCXaE6Y.md) [https://www.youtube.com/watch?v=pxBuKCXaE6Y](https://www.youtube.com/watch?v=pxBuKCXaE6Y)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Gas Station?](../../../transcriptions/yt-OwP-izM--nE.md) [https://www.youtube.com/watch?v=OwP-izM--nE](https://www.youtube.com/watch?v=OwP-izM--nE)
 

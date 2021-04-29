@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## April 27th, 2021 Livestream
+* [Q&A: Any thoughts to expand copy & paste functionality to work without opening the structure?](../../transcriptions/yt-kAGPc6PKVKM.md) [https://www.youtube.com/watch?v=kAGPc6PKVKM](https://www.youtube.com/watch?v=kAGPc6PKVKM)
+* [Q&A: Why do the radial menus for Walls not distinguish between regular walls and corrugated walls?](../../transcriptions/yt-6La5K6gxORE.md) [https://www.youtube.com/watch?v=6La5K6gxORE](https://www.youtube.com/watch?v=6La5K6gxORE)
+* [Q&A: Why is space bar twice not used for autocraft?](../../transcriptions/yt-BL3v75vPC10.md) [https://www.youtube.com/watch?v=BL3v75vPC10](https://www.youtube.com/watch?v=BL3v75vPC10)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Fix the in-game calculator please, it processes the operations in the wrong direction](../../transcriptions/yt-rc0nFP-LkhI.md) [https://www.youtube.com/watch?v=rc0nFP-LkhI](https://www.youtube.com/watch?v=rc0nFP-LkhI)
 * [Q&A: Why can't we access the inventory when we're in vehicles?](../../transcriptions/yt-RtaiQPBJVqQ.md) [https://www.youtube.com/watch?v=RtaiQPBJVqQ](https://www.youtube.com/watch?v=RtaiQPBJVqQ)

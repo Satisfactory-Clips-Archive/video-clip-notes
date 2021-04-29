@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## April 27th, 2021 Livestream
+* [Q&A: Are Doggos mammals or do they lay eggs?](../../../transcriptions/yt-aJpn8_kUdsY.md) [https://www.youtube.com/watch?v=aJpn8_kUdsY](https://www.youtube.com/watch?v=aJpn8_kUdsY)
+* [Q&A: Are we doing all this work in the game to earn a 10-piece bucket of chicken?](../../../transcriptions/yt-LgOQ-5jwczg.md) [https://www.youtube.com/watch?v=LgOQ-5jwczg](https://www.youtube.com/watch?v=LgOQ-5jwczg)
+* [State of Dev: Merch](../../../transcriptions/yt-m8P1TtWkSpM.md) [https://www.youtube.com/watch?v=m8P1TtWkSpM](https://www.youtube.com/watch?v=m8P1TtWkSpM)
+* [Q&A: Snutt is going to have Doggo Burgers tonight?](../../../transcriptions/yt-TqSWRAch-Yg.md) [https://www.youtube.com/watch?v=TqSWRAch-Yg](https://www.youtube.com/watch?v=TqSWRAch-Yg)
+
 ## April 20th, 2021 Livestream
 * [Q&A: When can we have Doggo houses?](../../../transcriptions/yt-3Dvfr0Nx0Ww.md) [https://www.youtube.com/watch?v=3Dvfr0Nx0Ww](https://www.youtube.com/watch?v=3Dvfr0Nx0Ww)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## April 27th, 2021 Livestream
+* [Q&A: What gameplay stats/information do you wish you had more visibility on?](../../transcriptions/yt-LNtVgVEpOaw.md) [https://www.youtube.com/watch?v=LNtVgVEpOaw](https://www.youtube.com/watch?v=LNtVgVEpOaw)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Why did the anti-spider mode went off?](../../transcriptions/yt-kd-VVREKHLE.md) [https://www.youtube.com/watch?v=kd-VVREKHLE](https://www.youtube.com/watch?v=kd-VVREKHLE)
 

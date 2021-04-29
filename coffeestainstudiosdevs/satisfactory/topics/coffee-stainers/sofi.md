@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Sofi
 
+## April 27th, 2021 Livestream
+* [Q&A: What is actually at the end of the Space Elevator?](../../transcriptions/yt-46jdMN3bb28.md) [https://www.youtube.com/watch?v=46jdMN3bb28](https://www.youtube.com/watch?v=46jdMN3bb28)
+
 ## April 10th, 2020 Video
 * [Torsten & Gunst Talk: Train Station redesign concept art](../../transcriptions/yt-CG-63B4g11U,232.364692,310.635063.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=232&end=311](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=232&end=311)
 

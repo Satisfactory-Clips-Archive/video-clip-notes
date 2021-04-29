@@ -4,6 +4,21 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## April 27th, 2021 Livestream
+* [Q&A: Can we get signs soon?](../transcriptions/yt-wUy8zszYfdQ.md) [https://www.youtube.com/watch?v=wUy8zszYfdQ](https://www.youtube.com/watch?v=wUy8zszYfdQ)
+* [Q&A: Can you make Gas Mask Filters last longer than 3 seconds each?](../transcriptions/yt-3I2JyLgHY_E.md) [https://www.youtube.com/watch?v=3I2JyLgHY_E](https://www.youtube.com/watch?v=3I2JyLgHY_E)
+* [Snutt Talk: Checking the top most-voted feature on the QA site](../transcriptions/yt-JApeySnoLgc.md) [https://www.youtube.com/watch?v=JApeySnoLgc](https://www.youtube.com/watch?v=JApeySnoLgc)
+* [State of Dev: Community-sourced Workarounds](../transcriptions/yt-EE50vUZbtBM.md) [https://www.youtube.com/watch?v=EE50vUZbtBM](https://www.youtube.com/watch?v=EE50vUZbtBM)
+* [Q&A: Could be cool to have golf courses?](../transcriptions/yt-SSzg_9XSooM.md) [https://www.youtube.com/watch?v=SSzg_9XSooM](https://www.youtube.com/watch?v=SSzg_9XSooM)
+* [Q&A: Farms?](../transcriptions/yt-kq125_HSqqE.md) [https://www.youtube.com/watch?v=kq125_HSqqE](https://www.youtube.com/watch?v=kq125_HSqqE)
+* [Snutt Talk: If you're running into crashes, check the QA Site for workarounds](../transcriptions/yt-XFj9FsKClCk.md) [https://www.youtube.com/watch?v=XFj9FsKClCk](https://www.youtube.com/watch?v=XFj9FsKClCk)
+* [State of Dev: If you have ideas for Update 5, use the QA Site](../transcriptions/yt-VaVktWVoFds.md) [https://www.youtube.com/watch?v=VaVktWVoFds](https://www.youtube.com/watch?v=VaVktWVoFds)
+* [Community FYI: It's marked as in-progress](../transcriptions/yt-qHeo-7n5tyE.md) [https://www.youtube.com/watch?v=qHeo-7n5tyE](https://www.youtube.com/watch?v=qHeo-7n5tyE)
+* [Community FYI: May have just DDOS'd the QA Site](../transcriptions/yt-pQC8vMo8PL0.md) [https://www.youtube.com/watch?v=pQC8vMo8PL0](https://www.youtube.com/watch?v=pQC8vMo8PL0)
+* [Snutt Talk: Please upvote Circular Foundations](../transcriptions/yt-MigkVZnWpVg.md) [https://www.youtube.com/watch?v=MigkVZnWpVg](https://www.youtube.com/watch?v=MigkVZnWpVg)
+* [Snutt Talk: Reading Golf comments](../transcriptions/yt-A1xd4qWdOgo.md) [https://www.youtube.com/watch?v=A1xd4qWdOgo](https://www.youtube.com/watch?v=A1xd4qWdOgo)
+* [Q&A: Why are we not upvoting circular Foundations?](../transcriptions/yt-n1fJJTUeKMM.md) [https://www.youtube.com/watch?v=n1fJJTUeKMM](https://www.youtube.com/watch?v=n1fJJTUeKMM)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Do you guys have stuff that you wanna add but not sure about putting it on the QA site?](../transcriptions/yt-1YwuzwU17kI.md) [https://www.youtube.com/watch?v=1YwuzwU17kI](https://www.youtube.com/watch?v=1YwuzwU17kI)
 * [Snutt Talk: Use the QA site](../transcriptions/yt-21WCyV94q2M.md) [https://www.youtube.com/watch?v=21WCyV94q2M](https://www.youtube.com/watch?v=21WCyV94q2M)

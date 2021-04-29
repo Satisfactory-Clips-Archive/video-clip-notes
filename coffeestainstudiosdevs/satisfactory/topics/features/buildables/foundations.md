@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 
+## April 27th, 2021 Livestream
+* [State of Dev: Cheatcrete](../../../transcriptions/yt-aXRTTO15rZg.md) [https://www.youtube.com/watch?v=aXRTTO15rZg](https://www.youtube.com/watch?v=aXRTTO15rZg)
+* [Snutt Talk: Please upvote Circular Foundations](../../../transcriptions/yt-MigkVZnWpVg.md) [https://www.youtube.com/watch?v=MigkVZnWpVg](https://www.youtube.com/watch?v=MigkVZnWpVg)
+* [Q&A: Why are we not upvoting circular Foundations?](../../../transcriptions/yt-n1fJJTUeKMM.md) [https://www.youtube.com/watch?v=n1fJJTUeKMM](https://www.youtube.com/watch?v=n1fJJTUeKMM)
+* [Q&A: Would love to see Triangle Foundations?](../../../transcriptions/yt-VSmR7_sGg8I.md) [https://www.youtube.com/watch?v=VSmR7_sGg8I](https://www.youtube.com/watch?v=VSmR7_sGg8I)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Cheatcrete?](../../../transcriptions/yt-6y1VtRXTYXY.md) [https://www.youtube.com/watch?v=6y1VtRXTYXY](https://www.youtube.com/watch?v=6y1VtRXTYXY)
 * [Q&A: Will you add structual integrity?](../../../transcriptions/yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)

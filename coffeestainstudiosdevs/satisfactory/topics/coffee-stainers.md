@@ -10,6 +10,7 @@ date: Last Modified
 * [Dylan](../topics/coffee-stainers/dylan.md)
 * [Etienne](../topics/coffee-stainers/etienne.md)
 * [G2](../topics/coffee-stainers/g2.md)
+* [Gnutt](../topics/coffee-stainers/gnutt.md)
 * [Hannah](../topics/coffee-stainers/hannah.md)
 * [Jace](../topics/coffee-stainers/jace.md)
 * [Jannik](../topics/coffee-stainers/jannik.md)
@@ -31,6 +32,12 @@ date: Last Modified
 * [Tobias](../topics/coffee-stainers/tobias.md)
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
+
+## April 27th, 2021 Livestream
+* [Community Highlights: 3pm Swedish Fika](../transcriptions/yt-vBXqwkho_ck.md) [https://www.youtube.com/watch?v=vBXqwkho_ck](https://www.youtube.com/watch?v=vBXqwkho_ck)
+* [Q&A: Mk.2 Buildings?](../transcriptions/yt-1mj3Rql5vGQ.md) [https://www.youtube.com/watch?v=1mj3Rql5vGQ](https://www.youtube.com/watch?v=1mj3Rql5vGQ)
+* [Snutt Talk: Swedish vacations](../transcriptions/yt-kovWhVSuVhg.md) [https://www.youtube.com/watch?v=kovWhVSuVhg](https://www.youtube.com/watch?v=kovWhVSuVhg)
+* [State of Dev: Update 5](../transcriptions/yt-6HuXkOLqZN8.md) [https://www.youtube.com/watch?v=6HuXkOLqZN8](https://www.youtube.com/watch?v=6HuXkOLqZN8)
 
 ## April 20th, 2021 Livestream
 * [Q&A: How tiring is it to work on a huge game like this?](../transcriptions/yt-PhJmHwM_g0k.md) [https://www.youtube.com/watch?v=PhJmHwM_g0k](https://www.youtube.com/watch?v=PhJmHwM_g0k)
