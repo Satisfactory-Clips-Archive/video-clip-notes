@@ -31,15 +31,15 @@ date: Last Modified
 * [Q&A: When are you adding hunger & thirst?](../../../transcriptions/yt-hro__pZa1pk.md) [https://www.youtube.com/watch?v=hro__pZa1pk](https://www.youtube.com/watch?v=hro__pZa1pk)
 
 ## November 10th, 2020 Livestream
-* [Q&A: Is there something you'll never add to the game that you recommend Modders add instead?](../../../transcriptions/yt-6RV2jnHyFvI.md) [https://www.youtube.com/watch?v=6RV2jnHyFvI](https://www.youtube.com/watch?v=6RV2jnHyFvI)
 * [Q&A: Randomising nodes?](../../../transcriptions/yt-eTALbWgKmuE.md) [https://www.youtube.com/watch?v=eTALbWgKmuE](https://www.youtube.com/watch?v=eTALbWgKmuE)
+* [Q&A: Is there something you'll never add to the game that you recommend Modders add instead?](../../../transcriptions/yt-6RV2jnHyFvI.md) [https://www.youtube.com/watch?v=6RV2jnHyFvI](https://www.youtube.com/watch?v=6RV2jnHyFvI)
 
 ## November 3rd, 2020 Livestream
 * Q&A: The Map of the Dedicated Server, currently it doesn't have enough nodes for a Competitive map [https://www.youtube.com/watch?v=rtOmNkt5whw](https://www.youtube.com/watch?v=rtOmNkt5whw)
 
 ## October 1st, 2020 Q&A
-* [Q&A: Can we get survival features added in a mode for those of us who want more of a challenge?](../../../transcriptions/yt-rATcozDE25c,309.87623333333335,354.5542.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=309&end=355](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=309&end=355)
 * [Q&A: Will there be a feature to allow multiple bases for competitive multiplayer?](../../../transcriptions/yt-rATcozDE25c,52.48576666666667,86.3863.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=52&end=87](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=52&end=87)
+* [Q&A: Can we get survival features added in a mode for those of us who want more of a challenge?](../../../transcriptions/yt-rATcozDE25c,309.87623333333335,354.5542.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=309&end=355](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=309&end=355)
 
 ## September 22nd, 2020 Livestream
 * [Q&A: Hoping for Base Defence?](../../../transcriptions/yt-RjFIQhJY824.md) [https://www.youtube.com/watch?v=RjFIQhJY824](https://www.youtube.com/watch?v=RjFIQhJY824)
@@ -48,14 +48,14 @@ date: Last Modified
 * [Q&A: Will there be more polish to the Survival aspects of the game?](../../../transcriptions/yt-0flTS1mpH7s.md) [https://www.youtube.com/watch?v=0flTS1mpH7s](https://www.youtube.com/watch?v=0flTS1mpH7s)
 
 ## September 8th, 2020 Livestream
-* [Q&A: Elements of Survival ?](../../../transcriptions/yt-B3bO7b-5jHA.md) [https://www.youtube.com/watch?v=B3bO7b-5jHA](https://www.youtube.com/watch?v=B3bO7b-5jHA)
 * [Q&A: Ever consider making a VR version of Satisfactory?](../../../transcriptions/yt-3s-PKymQ9QU.md) [https://www.youtube.com/watch?v=3s-PKymQ9QU](https://www.youtube.com/watch?v=3s-PKymQ9QU)
 * [Q&A: View of Satisfactory played from the top of the Space Elevator and it's an RTS?](../../../transcriptions/yt-GtVVUPWrKYk.md) [https://www.youtube.com/watch?v=GtVVUPWrKYk](https://www.youtube.com/watch?v=GtVVUPWrKYk)
+* [Q&A: Elements of Survival ?](../../../transcriptions/yt-B3bO7b-5jHA.md) [https://www.youtube.com/watch?v=B3bO7b-5jHA](https://www.youtube.com/watch?v=B3bO7b-5jHA)
 
 ## August 25th, 2020 Livestream
-* Q&A: Is there a Battle Royale Mode planned? [https://clips.twitch.tv/SavorySlickWombatOSkomodo](https://clips.twitch.tv/SavorySlickWombatOSkomodo)
 * [Q&A: Mad Max server where someone controls all the Iron nodes?](../../../transcriptions/yt-LcWR0d7elvs.md) [https://www.youtube.com/watch?v=LcWR0d7elvs](https://www.youtube.com/watch?v=LcWR0d7elvs)
 * [Q&A: Should I try a 5x5?](../../../transcriptions/yt-sTyZCrW9F_E.md) [https://www.youtube.com/watch?v=sTyZCrW9F_E](https://www.youtube.com/watch?v=sTyZCrW9F_E)
+* Q&A: Is there a Battle Royale Mode planned? [https://clips.twitch.tv/SavorySlickWombatOSkomodo](https://clips.twitch.tv/SavorySlickWombatOSkomodo)
 
 ## August 11th, 2020 Livestream
 * Q&A: Any plans for Difficulty Levels? [https://clips.twitch.tv/GrotesqueDaintyRamenGivePLZ](https://clips.twitch.tv/GrotesqueDaintyRamenGivePLZ)
@@ -79,9 +79,9 @@ date: Last Modified
 * [Q&A: Another game mode with a procedurally generated world?](../../../transcriptions/yt-GZlK2fIlYVk.md) [https://www.youtube.com/watch?v=GZlK2fIlYVk](https://www.youtube.com/watch?v=GZlK2fIlYVk)
 
 ## February 6th, 2019 Livestream
+* [Q&A: Will there be PvE or PvP ?](../../../transcriptions/yt-Dtm6xIj-wM4,586.378155,622.648759.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623)
 * [Q&A: Any plans for PvP?](../../../transcriptions/yt-Dtm6xIj-wM4,1573.58823,1589.649941.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1573&end=1590](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1573&end=1590)
-* [Q&A: Can we crush our friends with orbital drops, like Sanctum-style?](../../../transcriptions/yt-Dtm6xIj-wM4,3049.733333333333,3077.641329.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3049&end=3078](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3049&end=3078)
 * [Q&A: Is co-op style in line or are you focussed on solo?](../../../transcriptions/yt-Dtm6xIj-wM4,1639.0666666666666,1652.193414.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1639&end=1653](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1639&end=1653)
 * [Q&A: Is there going to be Survival elements to keep the player alive?](../../../transcriptions/yt-Dtm6xIj-wM4,2410.697848,2436.980614.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2410&end=2437](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2410&end=2437)
-* [Q&A: Will there be PvE or PvP ?](../../../transcriptions/yt-Dtm6xIj-wM4,586.378155,622.648759.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623)
 * [Q&A: You mentioned enemies earlier but now you say there'll be nothing to worry about?](../../../transcriptions/yt-Dtm6xIj-wM4,2685.5,2726.329682.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727)
+* [Q&A: Can we crush our friends with orbital drops, like Sanctum-style?](../../../transcriptions/yt-Dtm6xIj-wM4,3049.733333333333,3077.641329.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3049&end=3078](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3049&end=3078)

@@ -10,7 +10,7 @@ date: Last Modified
 
 ## September 26th, 2018 Video
 * [Intro](../../transcriptions/yt-Y7G72e0LLBg,,7.94.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=0&end=8](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=0&end=8)
-* [Jannik Talk: Musical styles](../../transcriptions/yt-Y7G72e0LLBg,239.28,280.26.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=239&end=281](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=239&end=281)
 * [Jannik Talk: Other games composed for](../../transcriptions/yt-Y7G72e0LLBg,7.94,29.52.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=7&end=30](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=7&end=30)
-* [Jannik Talk: Productivity](../../transcriptions/yt-Y7G72e0LLBg,194.44,239.28.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=194&end=240](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=194&end=240)
 * [Jannik Talk: Satisfactory composition process](../../transcriptions/yt-Y7G72e0LLBg,114.46,194.44.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=114&end=195](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=114&end=195)
+* [Jannik Talk: Productivity](../../transcriptions/yt-Y7G72e0LLBg,194.44,239.28.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=194&end=240](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=194&end=240)
+* [Jannik Talk: Musical styles](../../transcriptions/yt-Y7G72e0LLBg,239.28,280.26.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=239&end=281](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=239&end=281)

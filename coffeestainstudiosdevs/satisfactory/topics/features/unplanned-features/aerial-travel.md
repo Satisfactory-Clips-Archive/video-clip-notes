@@ -5,9 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel
 
 ## April 27th, 2021 Livestream
-* [Q&A: Can I add a glider for jumping down stuff?](../../../transcriptions/yt-i8j5U47-pcw.md) [https://www.youtube.com/watch?v=i8j5U47-pcw](https://www.youtube.com/watch?v=i8j5U47-pcw)
 * Q&A: Helicopters when? [https://www.youtube.com/watch?v=3MKZhjpTAhg](https://www.youtube.com/watch?v=3MKZhjpTAhg)
 * [Q&A: Planes & Ships?](../../../transcriptions/yt-ZZ4xIUGehNU.md) [https://www.youtube.com/watch?v=ZZ4xIUGehNU](https://www.youtube.com/watch?v=ZZ4xIUGehNU)
+* [Q&A: Can I add a glider for jumping down stuff?](../../../transcriptions/yt-i8j5U47-pcw.md) [https://www.youtube.com/watch?v=i8j5U47-pcw](https://www.youtube.com/watch?v=i8j5U47-pcw)
 
 ## April 20th, 2021 Livestream
 * [Q&A: When are we finally gonna get our own VTOL?](../../../transcriptions/yt-nty-h2xgybU.md) [https://www.youtube.com/watch?v=nty-h2xgybU](https://www.youtube.com/watch?v=nty-h2xgybU)
@@ -16,8 +16,8 @@ date: Last Modified
 * [Q&A: Will there be planes and helicopters?](../../../transcriptions/yt-E-c_NfjMqUM.md) [https://www.youtube.com/watch?v=E-c_NfjMqUM](https://www.youtube.com/watch?v=E-c_NfjMqUM)
 
 ## March 23rd, 2021 Livestream
-* Q&A: Will there be planes? [https://www.youtube.com/watch?v=DWx3XAQft60](https://www.youtube.com/watch?v=DWx3XAQft60)
 * [Community FYI: Yes you did](../../../transcriptions/yt-08O7dRyOYy0.md) [https://www.youtube.com/watch?v=08O7dRyOYy0](https://www.youtube.com/watch?v=08O7dRyOYy0)
+* Q&A: Will there be planes? [https://www.youtube.com/watch?v=DWx3XAQft60](https://www.youtube.com/watch?v=DWx3XAQft60)
 
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Community FYI: This is the 2nd update where you added a feature that you said "we're not adding"](../../../transcriptions/yt-dQtPBrWlx6c.md) [https://www.youtube.com/watch?v=dQtPBrWlx6c](https://www.youtube.com/watch?v=dQtPBrWlx6c)
@@ -44,15 +44,15 @@ date: Last Modified
 * [Q&A: Flying Lizard Doggos, when?](../../../transcriptions/yt-p-f_kfmUdR0.md) [https://www.youtube.com/watch?v=p-f_kfmUdR0](https://www.youtube.com/watch?v=p-f_kfmUdR0)
 
 ## September 8th, 2020 Livestream
+* [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](../../../transcriptions/yt--sa8wjg4lYk.md) [https://www.youtube.com/watch?v=-sa8wjg4lYk](https://www.youtube.com/watch?v=-sa8wjg4lYk)
 * [Jace Talk: Air Transportation](../../../transcriptions/yt-hKQlthlcwXc.md) [https://www.youtube.com/watch?v=hKQlthlcwXc](https://www.youtube.com/watch?v=hKQlthlcwXc)
 * [Q&A: The game needs small Flying Vehicles to travel long distance?](../../../transcriptions/yt-i0_bbpQ_91I.md) [https://www.youtube.com/watch?v=i0_bbpQ_91I](https://www.youtube.com/watch?v=i0_bbpQ_91I)
-* [Q&A: What're your guys thoughts on transport beyond Jetpacks ?](../../../transcriptions/yt--sa8wjg4lYk.md) [https://www.youtube.com/watch?v=-sa8wjg4lYk](https://www.youtube.com/watch?v=-sa8wjg4lYk)
 
 ## August 25th, 2020 Livestream
-* [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../../transcriptions/yt-Ds9NIPna9_4.md) [https://www.youtube.com/watch?v=Ds9NIPna9_4](https://www.youtube.com/watch?v=Ds9NIPna9_4)
-* Q&A: How about a drone to fly around? [https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby](https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby)
 * [Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ?](../../../transcriptions/yt-mAA2oX9mDOw.md) [https://www.youtube.com/watch?v=mAA2oX9mDOw](https://www.youtube.com/watch?v=mAA2oX9mDOw)
+* [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../../transcriptions/yt-Ds9NIPna9_4.md) [https://www.youtube.com/watch?v=Ds9NIPna9_4](https://www.youtube.com/watch?v=Ds9NIPna9_4)
 * [Q&A: State of things = 🤷?](../../../transcriptions/yt-5SH9eySqDzU.md) [https://www.youtube.com/watch?v=5SH9eySqDzU](https://www.youtube.com/watch?v=5SH9eySqDzU)
+* Q&A: How about a drone to fly around? [https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby](https://clips.twitch.tv/SteamyViscousGoshawkDancingBaby)
 
 ## August 11th, 2020 Livestream
 * Q&A: Will Drones be added to the game for aerial travel? [https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper](https://clips.twitch.tv/CredulousWimpyMosquitoResidentSleeper)

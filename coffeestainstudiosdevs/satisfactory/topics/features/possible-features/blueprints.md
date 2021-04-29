@@ -35,9 +35,9 @@ date: Last Modified
 * [Q&A: Blueprints?](../../../transcriptions/yt-hpl23B1A0Qk.md) [https://www.youtube.com/watch?v=hpl23B1A0Qk](https://www.youtube.com/watch?v=hpl23B1A0Qk)
 
 ## August 25th, 2020 Livestream
-* [Snutt Talk: Blueprints for beginners vs. end-game play](../../../transcriptions/yt-RdDroPYu1sk.md) [https://www.youtube.com/watch?v=RdDroPYu1sk](https://www.youtube.com/watch?v=RdDroPYu1sk)
 * [Q&A: Blueprints would be awesome for end-game](../../../transcriptions/yt-e2YhcCwJNNg.md) [https://www.youtube.com/watch?v=e2YhcCwJNNg](https://www.youtube.com/watch?v=e2YhcCwJNNg)
 * [Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?](../../../transcriptions/yt-EbTEcw5zg8k.md) [https://www.youtube.com/watch?v=EbTEcw5zg8k](https://www.youtube.com/watch?v=EbTEcw5zg8k)
+* [Snutt Talk: Blueprints for beginners vs. end-game play](../../../transcriptions/yt-RdDroPYu1sk.md) [https://www.youtube.com/watch?v=RdDroPYu1sk](https://www.youtube.com/watch?v=RdDroPYu1sk)
 
 ## June 8th, 2020 Livestream
 * [Q&A: Blueprints/Mass construction - will we have it ? If not, why not?](../../../transcriptions/yt-T1w4TV8Y8Lk.md) [https://www.youtube.com/watch?v=T1w4TV8Y8Lk](https://www.youtube.com/watch?v=T1w4TV8Y8Lk)

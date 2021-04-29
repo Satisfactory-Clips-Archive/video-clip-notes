@@ -28,8 +28,8 @@ date: Last Modified
 * [Q&A: Do you use emacs or vim?](../../transcriptions/yt-g6B1-vYXXd0.md) [https://www.youtube.com/watch?v=g6B1-vYXXd0](https://www.youtube.com/watch?v=g6B1-vYXXd0)
 
 ## October 6th, 2020 Livestream
-* [Q&A: Any plans to bring Satisfactory to Linux?](../../transcriptions/yt-ADBTXxQnDL4.md) [https://www.youtube.com/watch?v=ADBTXxQnDL4](https://www.youtube.com/watch?v=ADBTXxQnDL4)
 * [Q&A: Won't it run on Linux with Wine/Proton?](../../transcriptions/yt-rmduvSAc3P4.md) [https://www.youtube.com/watch?v=rmduvSAc3P4](https://www.youtube.com/watch?v=rmduvSAc3P4)
+* [Q&A: Any plans to bring Satisfactory to Linux?](../../transcriptions/yt-ADBTXxQnDL4.md) [https://www.youtube.com/watch?v=ADBTXxQnDL4](https://www.youtube.com/watch?v=ADBTXxQnDL4)
 
 ## September 22nd, 2020 Livestream
 * [Q&A: Will Dedicated Servers run on Linux?](../../transcriptions/yt-299eeYGePHM.md) [https://www.youtube.com/watch?v=299eeYGePHM](https://www.youtube.com/watch?v=299eeYGePHM)
@@ -38,9 +38,9 @@ date: Last Modified
 * [Snutt Talk: Dedicated Servers](../../transcriptions/yt-yRJNzDLMJZU.md) [https://www.youtube.com/watch?v=yRJNzDLMJZU](https://www.youtube.com/watch?v=yRJNzDLMJZU)
 
 ## August 25th, 2020 Livestream
-* [Q&A: Linux would be useful for Servers](../../transcriptions/yt-ITkosdWcGbA.md) [https://www.youtube.com/watch?v=ITkosdWcGbA](https://www.youtube.com/watch?v=ITkosdWcGbA)
-* [Q&A: Plans for official Linux support?](../../transcriptions/yt-vSFTo-1j-SA.md) [https://www.youtube.com/watch?v=vSFTo-1j-SA](https://www.youtube.com/watch?v=vSFTo-1j-SA)
 * [Q&A: Will Dedicated Servers be available on Linux, or Windows?](../../transcriptions/yt-4f7KWwnXhoU.md) [https://www.youtube.com/watch?v=4f7KWwnXhoU](https://www.youtube.com/watch?v=4f7KWwnXhoU)
+* [Q&A: Plans for official Linux support?](../../transcriptions/yt-vSFTo-1j-SA.md) [https://www.youtube.com/watch?v=vSFTo-1j-SA](https://www.youtube.com/watch?v=vSFTo-1j-SA)
+* [Q&A: Linux would be useful for Servers](../../transcriptions/yt-ITkosdWcGbA.md) [https://www.youtube.com/watch?v=ITkosdWcGbA](https://www.youtube.com/watch?v=ITkosdWcGbA)
 
 ## May 15th, 2020 Q&A
 * [Q&A: Are you planning to release a Linux/Mac version?](../../transcriptions/yt-NlIVwoRqjVk,142.50903333333335,211.4112.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=142&end=212](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=142&end=212)

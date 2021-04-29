@@ -42,12 +42,12 @@ date: Last Modified
 * [Q&A: Will we add more to the Map?](../../../transcriptions/yt-NeQpezHiVzI.md) [https://www.youtube.com/watch?v=NeQpezHiVzI](https://www.youtube.com/watch?v=NeQpezHiVzI)
 
 ## November 5th, 2020 Dev Vlog
-* Ben & Jace Talk: Chunky Waterfall [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=355&end=401](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=355&end=401)
-* Ben & Jace Talk: Fancy Caustics [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=312&end=340](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=312&end=340)
-* Ben & Jace Talk: Screen-space Reflections [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=263&end=313](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=263&end=313)
-* Ben & Jace Talk: The Rivers [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=146&end=264](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=146&end=264)
 * Ben & Jace Talk: Waterfalls [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=87&end=147](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=87&end=147)
+* Ben & Jace Talk: The Rivers [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=146&end=264](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=146&end=264)
+* Ben & Jace Talk: Screen-space Reflections [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=263&end=313](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=263&end=313)
+* Ben & Jace Talk: Fancy Caustics [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=312&end=340](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=312&end=340)
 * Q&A: When are the Water improvements being released? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=339&end=356](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=339&end=356)
+* Ben & Jace Talk: Chunky Waterfall [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=355&end=401](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=355&end=401)
 
 ## October 6th, 2020 Livestream
 * [Q&A: How is the World Building going?](../../../transcriptions/yt-nFJUho2El3Y.md) [https://www.youtube.com/watch?v=nFJUho2El3Y](https://www.youtube.com/watch?v=nFJUho2El3Y)

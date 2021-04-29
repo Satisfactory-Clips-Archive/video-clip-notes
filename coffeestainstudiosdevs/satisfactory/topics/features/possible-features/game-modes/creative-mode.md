@@ -41,8 +41,8 @@ date: Last Modified
 * Q&A: When is Creative Mode coming? [https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu](https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu)
 
 ## March 24th, 2020 Livestream
-* [Q&A: Creative Mode without having to Mod?](../../../../transcriptions/yt-ww37EE17YP4.md) [https://www.youtube.com/watch?v=ww37EE17YP4](https://www.youtube.com/watch?v=ww37EE17YP4)
 * [Q&A: Wouldn't you split normal & Creative Mode then not allow switching?](../../../../transcriptions/yt-7xTscBSrsY0.md) [https://www.youtube.com/watch?v=7xTscBSrsY0](https://www.youtube.com/watch?v=7xTscBSrsY0)
+* [Q&A: Creative Mode without having to Mod?](../../../../transcriptions/yt-ww37EE17YP4.md) [https://www.youtube.com/watch?v=ww37EE17YP4](https://www.youtube.com/watch?v=ww37EE17YP4)
 
 ## March 9th, 2019 Livestream
 * [Q&A: Will there be a creative mode?](../../../../transcriptions/yt-eIPuM39KDcE.md) [https://www.youtube.com/watch?v=eIPuM39KDcE](https://www.youtube.com/watch?v=eIPuM39KDcE)

@@ -21,5 +21,5 @@ date: Last Modified
 * [Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing](../../../transcriptions/yt-HU5CtNK3rds.md) [https://www.youtube.com/watch?v=HU5CtNK3rds](https://www.youtube.com/watch?v=HU5CtNK3rds)
 
 ## March 9th, 2019 Livestream
-* [Snutt, Simon, & Jace Talk: Space Potato](../../../transcriptions/yt-OAIUIEgtCxU.md) [https://www.youtube.com/watch?v=OAIUIEgtCxU](https://www.youtube.com/watch?v=OAIUIEgtCxU)
 * [Q&A: What's the name of the tall thing?](../../../transcriptions/yt-EhbB7DIOdZ4.md) [https://www.youtube.com/watch?v=EhbB7DIOdZ4](https://www.youtube.com/watch?v=EhbB7DIOdZ4)
+* [Snutt, Simon, & Jace Talk: Space Potato](../../../transcriptions/yt-OAIUIEgtCxU.md) [https://www.youtube.com/watch?v=OAIUIEgtCxU](https://www.youtube.com/watch?v=OAIUIEgtCxU)

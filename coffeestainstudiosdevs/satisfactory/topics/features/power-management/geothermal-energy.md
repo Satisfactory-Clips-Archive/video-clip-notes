@@ -5,11 +5,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Geothermal Energy
 
 ## March 30th, 2021 Livestream
-* [Q&A: Are all the Geysers in sync with the output?](../../../transcriptions/yt-b8EIuZb6-d8.md) [https://www.youtube.com/watch?v=b8EIuZb6-d8](https://www.youtube.com/watch?v=b8EIuZb6-d8)
+* [Q&A: What motivated the change for the Geyser node?](../../../transcriptions/yt-QZ4LfHmSXOc.md) [https://www.youtube.com/watch?v=QZ4LfHmSXOc](https://www.youtube.com/watch?v=QZ4LfHmSXOc)
 * [Community FYI: Geothermal needs Super Computers? (Part 1)](../../../transcriptions/yt-lWYVhh9tMHg.md) [https://www.youtube.com/watch?v=lWYVhh9tMHg](https://www.youtube.com/watch?v=lWYVhh9tMHg)
 * [Community FYI: Geothermal needs Super Computers? (Part 2)](../../../transcriptions/yt-m79SbaPCbtk.md) [https://www.youtube.com/watch?v=m79SbaPCbtk](https://www.youtube.com/watch?v=m79SbaPCbtk)
 * [Community FYI: I tried really hard to get Geothermal early-game but I saw no way to do it](../../../transcriptions/yt-T7qoKMgGwwI.md) [https://www.youtube.com/watch?v=T7qoKMgGwwI](https://www.youtube.com/watch?v=T7qoKMgGwwI)
-* [Q&A: What motivated the change for the Geyser node?](../../../transcriptions/yt-QZ4LfHmSXOc.md) [https://www.youtube.com/watch?v=QZ4LfHmSXOc](https://www.youtube.com/watch?v=QZ4LfHmSXOc)
+* [Q&A: Are all the Geysers in sync with the output?](../../../transcriptions/yt-b8EIuZb6-d8.md) [https://www.youtube.com/watch?v=b8EIuZb6-d8](https://www.youtube.com/watch?v=b8EIuZb6-d8)
 
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: Opinion on Power Storage](../../../transcriptions/yt-LwRUCB096Qw.md) [https://www.youtube.com/watch?v=LwRUCB096Qw](https://www.youtube.com/watch?v=LwRUCB096Qw)
@@ -33,5 +33,5 @@ date: Last Modified
 * [Q&A: Would geothermal generators get a buff or rework of sorts?](../../../transcriptions/yt-T7BPQ1ZHeJA.md) [https://www.youtube.com/watch?v=T7BPQ1ZHeJA](https://www.youtube.com/watch?v=T7BPQ1ZHeJA)
 
 ## August 25th, 2020 Livestream
-* [Q&A: Generators have power switches, so do all structures in the game?](../../../transcriptions/yt-CN2G6ZH6bmA.md) [https://www.youtube.com/watch?v=CN2G6ZH6bmA](https://www.youtube.com/watch?v=CN2G6ZH6bmA)
 * [Q&A: When will you ad UI for the Steam Geyser Power Plant?](../../../transcriptions/yt-xFZfkjY3J0c.md) [https://www.youtube.com/watch?v=xFZfkjY3J0c](https://www.youtube.com/watch?v=xFZfkjY3J0c)
+* [Q&A: Generators have power switches, so do all structures in the game?](../../../transcriptions/yt-CN2G6ZH6bmA.md) [https://www.youtube.com/watch?v=CN2G6ZH6bmA](https://www.youtube.com/watch?v=CN2G6ZH6bmA)

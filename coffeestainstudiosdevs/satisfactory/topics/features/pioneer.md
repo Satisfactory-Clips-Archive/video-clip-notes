@@ -5,19 +5,19 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Pioneer
 
 ## April 20th, 2021 Livestream
-* [Q&A: Is your character the Engineer or the Pioneer?](../../transcriptions/yt-KUqrPtD8LF8.md) [https://www.youtube.com/watch?v=KUqrPtD8LF8](https://www.youtube.com/watch?v=KUqrPtD8LF8)
 * [Q&A: My corpse is in the dead zone, how do I retrieve it?](../../transcriptions/yt-7ZhQQ90M2eU.md) [https://www.youtube.com/watch?v=7ZhQQ90M2eU](https://www.youtube.com/watch?v=7ZhQQ90M2eU)
+* [Q&A: Is your character the Engineer or the Pioneer?](../../transcriptions/yt-KUqrPtD8LF8.md) [https://www.youtube.com/watch?v=KUqrPtD8LF8](https://www.youtube.com/watch?v=KUqrPtD8LF8)
 * [Q&A: Vertical elevators for character and transport?](../../transcriptions/yt-uLe9eMpCxRg.md) [https://www.youtube.com/watch?v=uLe9eMpCxRg](https://www.youtube.com/watch?v=uLe9eMpCxRg)
 
 ## March 30th, 2021 Livestream
+* [Q&A: Is it possible that the Pioneer spawns in the Toilet after death?](../../transcriptions/yt-b8Fg3LOjcBo.md) [https://www.youtube.com/watch?v=b8Fg3LOjcBo](https://www.youtube.com/watch?v=b8Fg3LOjcBo)
 * [Q&A: Can we finally sleep in the HUB?](../../transcriptions/yt-vB8Drt_Ybhw.md) [https://www.youtube.com/watch?v=vB8Drt_Ybhw](https://www.youtube.com/watch?v=vB8Drt_Ybhw)
-* [Q&A: Could you make a setting to disable the feet dragging sound?](../../transcriptions/yt-KfKtG1DjjFI.md) [https://www.youtube.com/watch?v=KfKtG1DjjFI](https://www.youtube.com/watch?v=KfKtG1DjjFI)
+* [Q&A: Regain health?](../../transcriptions/yt-8SVPBlq4ORQ.md) [https://www.youtube.com/watch?v=8SVPBlq4ORQ](https://www.youtube.com/watch?v=8SVPBlq4ORQ)
+* Q&A: How do I remove disconnected players?, they just sit there and block builds. [https://www.youtube.com/watch?v=CDZ1Hu5vKzQ](https://www.youtube.com/watch?v=CDZ1Hu5vKzQ)
 * [Snutt Talk: Death crates (Part 1)](../../transcriptions/yt-zepXMTSrvTA.md) [https://www.youtube.com/watch?v=zepXMTSrvTA](https://www.youtube.com/watch?v=zepXMTSrvTA)
 * [Snutt Talk: Death crates (Part 2)](../../transcriptions/yt-Rk7SGMcEm5M.md) [https://www.youtube.com/watch?v=Rk7SGMcEm5M](https://www.youtube.com/watch?v=Rk7SGMcEm5M)
-* Q&A: How do I remove disconnected players?, they just sit there and block builds. [https://www.youtube.com/watch?v=CDZ1Hu5vKzQ](https://www.youtube.com/watch?v=CDZ1Hu5vKzQ)
-* [Q&A: Is it possible that the Pioneer spawns in the Toilet after death?](../../transcriptions/yt-b8Fg3LOjcBo.md) [https://www.youtube.com/watch?v=b8Fg3LOjcBo](https://www.youtube.com/watch?v=b8Fg3LOjcBo)
-* [Q&A: Regain health?](../../transcriptions/yt-8SVPBlq4ORQ.md) [https://www.youtube.com/watch?v=8SVPBlq4ORQ](https://www.youtube.com/watch?v=8SVPBlq4ORQ)
 * [Q&A: What about the HyperTube launcher that doesn't spawn a crate when you die?](../../transcriptions/yt-y7qT_KwDsI8.md) [https://www.youtube.com/watch?v=y7qT_KwDsI8](https://www.youtube.com/watch?v=y7qT_KwDsI8)
+* [Q&A: Could you make a setting to disable the feet dragging sound?](../../transcriptions/yt-KfKtG1DjjFI.md) [https://www.youtube.com/watch?v=KfKtG1DjjFI](https://www.youtube.com/watch?v=KfKtG1DjjFI)
 
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: That shot of the dead Pioneer](../../transcriptions/yt-dbVGMO1Wm-g.md) [https://www.youtube.com/watch?v=dbVGMO1Wm-g](https://www.youtube.com/watch?v=dbVGMO1Wm-g)
@@ -57,12 +57,12 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: I want to fire Nukes at my rival Pioneers?](../../transcriptions/yt-CQ0vc3uRaw8.md) [https://www.youtube.com/watch?v=CQ0vc3uRaw8](https://www.youtube.com/watch?v=CQ0vc3uRaw8)
-* [Q&A: Real-time reflections for the helmet?](../../transcriptions/yt-RuQcbza7pVw.md) [https://www.youtube.com/watch?v=RuQcbza7pVw](https://www.youtube.com/watch?v=RuQcbza7pVw)
 * [Q&A: She‽ Not me‽](../../transcriptions/yt-v2qV7Kfbcac.md) [https://www.youtube.com/watch?v=v2qV7Kfbcac](https://www.youtube.com/watch?v=v2qV7Kfbcac)
+* [Q&A: Real-time reflections for the helmet?](../../transcriptions/yt-RuQcbza7pVw.md) [https://www.youtube.com/watch?v=RuQcbza7pVw](https://www.youtube.com/watch?v=RuQcbza7pVw)
 
 ## August 18th, 2020 Livestream
-* Q&A: How did you make the character slide in Satisfactory? (part 1) [https://clips.twitch.tv/WittyYawningSangJKanStyle](https://clips.twitch.tv/WittyYawningSangJKanStyle)
 * Q&A: How did you make the character slide in Satisfactory? (part 2) [https://clips.twitch.tv/BlueBadWeaselPMSTwin](https://clips.twitch.tv/BlueBadWeaselPMSTwin)
+* Q&A: How did you make the character slide in Satisfactory? (part 1) [https://clips.twitch.tv/WittyYawningSangJKanStyle](https://clips.twitch.tv/WittyYawningSangJKanStyle)
 
 ## August 11th, 2020 Livestream
 * Q&A: FICSIT Pioneer gender confirmed? [https://clips.twitch.tv/TriangularLongOctopusOneHand](https://clips.twitch.tv/TriangularLongOctopusOneHand)
@@ -77,20 +77,20 @@ date: Last Modified
 * Developer Highlight - Concept Art (August 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=169&end=174](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=169&end=174)
 
 ## February 20th, 2019 Livestream
-* [Q&A: Aren't we the aliens when get to the planet?](../../transcriptions/yt-CB9bSigNYH8,4284.443325,4301.268185.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302)
 * [Q&A: Can I swim?](../../transcriptions/yt-CB9bSigNYH8,421.013576,427.456855.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=421&end=428](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=421&end=428)
-* Q&A: Can you climb steep terrain? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4509&end=4517](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4509&end=4517)
 * [Q&A: Can you pop down the player model?](../../transcriptions/yt-CB9bSigNYH8,1343.768866,1363.9333333333334.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1343&end=1364](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1343&end=1364)
 * [Hannah Talk: Scale of the player relative to the world](../../transcriptions/yt-CB9bSigNYH8,1376,1397.877607.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1376&end=1398](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1376&end=1398)
+* [Q&A: Aren't we the aliens when get to the planet?](../../transcriptions/yt-CB9bSigNYH8,4284.443325,4301.268185.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302)
+* Q&A: Can you climb steep terrain? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4509&end=4517](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4509&end=4517)
 
 ## February 6th, 2019 Livestream
-* [Q&A: Besides the starting areas,will there be random spawns in the release?](../../transcriptions/yt-Dtm6xIj-wM4,2974.6666666666665,3016.687892.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2974&end=3017](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2974&end=3017)
 * [Q&A: What happens when you die?](../../transcriptions/yt-Dtm6xIj-wM4,1663.964039,1669.29091.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1663&end=1670](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1663&end=1670)
+* [Q&A: Besides the starting areas,will there be random spawns in the release?](../../transcriptions/yt-Dtm6xIj-wM4,2974.6666666666665,3016.687892.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2974&end=3017](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2974&end=3017)
 
 ## November 8th, 2018 Dev Blog
 * [Using Iron Ingots to make Iron Plates](../../transcriptions/yt-J_Dznt1OG-0,365.9656,515.824177.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=365&end=516)
 
 ## August 15th, 2018 Video
-* Sofi Talk: Character Concept Art [https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C155.08%2C183.72](https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C155.08%2C183.72)
 * Sofi Talk: Pioneer Concept Art (Part 1) [https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C55.48%2C114.64](https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C55.48%2C114.64)
+* Sofi Talk: Character Concept Art [https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C155.08%2C183.72](https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C155.08%2C183.72)
 * Sofi Talk: Pioneer Concept Art (Part 2) [https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C205.52%2C300.84](https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C205.52%2C300.84)

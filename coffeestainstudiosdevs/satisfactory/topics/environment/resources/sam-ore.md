@@ -33,13 +33,13 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Are limited resources planned?](../../../transcriptions/yt-85XNSiDpeZw.md) [https://www.youtube.com/watch?v=85XNSiDpeZw](https://www.youtube.com/watch?v=85XNSiDpeZw)
-* [Q&A: Is the Story a mode, or can I play with my actual save game?](../../../transcriptions/yt-DdGctBLngpE.md) [https://www.youtube.com/watch?v=DdGctBLngpE](https://www.youtube.com/watch?v=DdGctBLngpE)
 * [Q&A: Please tell me Update 4 will use S.A.M. Ore](../../../transcriptions/yt--b2L_nlW_Fo.md) [https://www.youtube.com/watch?v=-b2L_nlW_Fo](https://www.youtube.com/watch?v=-b2L_nlW_Fo)
+* [Q&A: Is the Story a mode, or can I play with my actual save game?](../../../transcriptions/yt-DdGctBLngpE.md) [https://www.youtube.com/watch?v=DdGctBLngpE](https://www.youtube.com/watch?v=DdGctBLngpE)
 
 ## August 18th, 2020 Livestream
-* Q&A: Coffee Cups are made out of S.A.M. Ore? [https://clips.twitch.tv/SuspiciousImportantOryxSquadGoals](https://clips.twitch.tv/SuspiciousImportantOryxSquadGoals)
-* Q&A: Do you plan to make other resources beyond S.A.M. Ore? [https://clips.twitch.tv/InventiveBillowingEggPMSTwin](https://clips.twitch.tv/InventiveBillowingEggPMSTwin)
 * Q&A: S.A.M. Ore uses? [https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis](https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis)
+* Q&A: Do you plan to make other resources beyond S.A.M. Ore? [https://clips.twitch.tv/InventiveBillowingEggPMSTwin](https://clips.twitch.tv/InventiveBillowingEggPMSTwin)
+* Q&A: Coffee Cups are made out of S.A.M. Ore? [https://clips.twitch.tv/SuspiciousImportantOryxSquadGoals](https://clips.twitch.tv/SuspiciousImportantOryxSquadGoals)
 
 ## May 15th, 2020 Q&A
 * [Q&A: When is the S.A.M. Ore becoming useful in-game?](../../../transcriptions/yt-NlIVwoRqjVk,807.1730333333334,849.9491.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850)

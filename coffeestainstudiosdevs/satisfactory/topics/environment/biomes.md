@@ -17,8 +17,8 @@ date: Last Modified
 * [Q&A: When you push World Updates, will those come to EA & Experimental at the same time or separate?](../../transcriptions/yt-4mnVlMXrfyw.md) [https://www.youtube.com/watch?v=4mnVlMXrfyw](https://www.youtube.com/watch?v=4mnVlMXrfyw)
 
 ## March 2nd, 2021 Livestream
-* [Snutt & Jace Talk: Hannah confirms Spire Coast overhaul as "new biome"](../../transcriptions/yt-BZumPH8OW6o.md) [https://www.youtube.com/watch?v=BZumPH8OW6o](https://www.youtube.com/watch?v=BZumPH8OW6o)
 * [Q&A: What kind of changes can we expect from the World Update?](../../transcriptions/yt-5qQx1URl8lY.md) [https://www.youtube.com/watch?v=5qQx1URl8lY](https://www.youtube.com/watch?v=5qQx1URl8lY)
+* [Snutt & Jace Talk: Hannah confirms Spire Coast overhaul as "new biome"](../../transcriptions/yt-BZumPH8OW6o.md) [https://www.youtube.com/watch?v=BZumPH8OW6o](https://www.youtube.com/watch?v=BZumPH8OW6o)
 
 ## February 23rd, 2021 Livestream
 * [Q&A: Will the Dune Desert get crammed or will it stay as the perfect mega-base location?](../../transcriptions/yt-95QNCSBoRYM.md) [https://www.youtube.com/watch?v=95QNCSBoRYM](https://www.youtube.com/watch?v=95QNCSBoRYM)
@@ -28,11 +28,11 @@ date: Last Modified
 * [Q&A: Is there another area rework like the desert update happening?](../../transcriptions/yt-sV-kvBvlTXc.md) [https://www.youtube.com/watch?v=sV-kvBvlTXc](https://www.youtube.com/watch?v=sV-kvBvlTXc)
 
 ## January 19th, 2021 Livestream
-* [Q&A: Are you still planning Underground Biomes?](../../transcriptions/yt-zho1Gn_x76w.md) [https://www.youtube.com/watch?v=zho1Gn_x76w](https://www.youtube.com/watch?v=zho1Gn_x76w)
-* [Q&A: Can we please get a Snow Biome?](../../transcriptions/yt-QHVdhswD13w.md) [https://www.youtube.com/watch?v=QHVdhswD13w](https://www.youtube.com/watch?v=QHVdhswD13w)
 * [Q&A: If the community made a Snow Biome, would you add that?](../../transcriptions/yt-I8rWTBGdGio.md) [https://www.youtube.com/watch?v=I8rWTBGdGio](https://www.youtube.com/watch?v=I8rWTBGdGio)
 * [Q&A: What about the island off to the west of the Map?](../../transcriptions/yt-VjKPXr_e5yk.md) [https://www.youtube.com/watch?v=VjKPXr_e5yk](https://www.youtube.com/watch?v=VjKPXr_e5yk)
 * [Q&A: Will clearing out all the Biomes increase your garbage limit?](../../transcriptions/yt-XcfIWDujsxA.md) [https://www.youtube.com/watch?v=XcfIWDujsxA](https://www.youtube.com/watch?v=XcfIWDujsxA)
+* [Q&A: Can we please get a Snow Biome?](../../transcriptions/yt-QHVdhswD13w.md) [https://www.youtube.com/watch?v=QHVdhswD13w](https://www.youtube.com/watch?v=QHVdhswD13w)
+* [Q&A: Are you still planning Underground Biomes?](../../transcriptions/yt-zho1Gn_x76w.md) [https://www.youtube.com/watch?v=zho1Gn_x76w](https://www.youtube.com/watch?v=zho1Gn_x76w)
 
 ## January 12th, 2021 Livestream
 * [Q&A: Which Biome will be rebuilt?](../../transcriptions/yt-5v0_pFbQLF4.md) [https://www.youtube.com/watch?v=5v0_pFbQLF4](https://www.youtube.com/watch?v=5v0_pFbQLF4)
@@ -81,14 +81,14 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Jace Talk: fantasyish Biome](../../transcriptions/yt--2hJ5_qMAoM.md) [https://www.youtube.com/watch?v=-2hJ5_qMAoM](https://www.youtube.com/watch?v=-2hJ5_qMAoM)
 * [Q&A: How many biomes are in game?](../../transcriptions/yt-ouDTfnrZDKo.md) [https://www.youtube.com/watch?v=ouDTfnrZDKo](https://www.youtube.com/watch?v=ouDTfnrZDKo)
-* [Q&A: Is the Desert Biome available in the beta?](../../transcriptions/yt-JMQotRaN9Bs.md) [https://www.youtube.com/watch?v=JMQotRaN9Bs](https://www.youtube.com/watch?v=JMQotRaN9Bs)
 * Snutt, Simon, & Jace Talk: Unfinished areas/Biomes [https://www.youtube.com/watch?v=Un45veTgPk8](https://www.youtube.com/watch?v=Un45veTgPk8)
+* [Q&A: Is the Desert Biome available in the beta?](../../transcriptions/yt-JMQotRaN9Bs.md) [https://www.youtube.com/watch?v=JMQotRaN9Bs](https://www.youtube.com/watch?v=JMQotRaN9Bs)
 
 ## February 20th, 2019 Livestream
-* [Q&A: Do different Biomes contain different Resources?](../../transcriptions/yt-CB9bSigNYH8,501.647011,524.513606.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=501&end=525](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=501&end=525)
-* Q&A: Is there Lava? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2205&end=2214](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2205&end=2214)
 * [Hannah Talk: Level Design Stream (Part 2)](../../transcriptions/yt-CB9bSigNYH8,439.256018,501.647011.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=439&end=502](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=439&end=502)
+* [Q&A: Do different Biomes contain different Resources?](../../transcriptions/yt-CB9bSigNYH8,501.647011,524.513606.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=501&end=525](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=501&end=525)
 * [Q&A: What logic do you use to split up assets & sub-levels?](../../transcriptions/yt-CB9bSigNYH8,1526.886263,1559.959363.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1526&end=1560](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1526&end=1560)
+* Q&A: Is there Lava? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2205&end=2214](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2205&end=2214)
 
 ## February 6th, 2019 Livestream
 * [Q&A: Will there be underground/subterranean areas of the map?](../../transcriptions/yt-Dtm6xIj-wM4,1268.770686,1276.953399.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1268&end=1277](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1268&end=1277)

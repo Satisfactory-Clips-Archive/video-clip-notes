@@ -17,8 +17,8 @@ date: Last Modified
 * [Q&A: Will there be Trucks that can transport fluids?](../../../../transcriptions/yt-sO7qhlAKq3U.md) [https://www.youtube.com/watch?v=sO7qhlAKq3U](https://www.youtube.com/watch?v=sO7qhlAKq3U)
 
 ## March 23rd, 2021 Livestream
-* [Do you plan to integrate an automatic path travel for Trucks?](../../../../transcriptions/yt-i1cimOkbLHs.md) [https://www.youtube.com/watch?v=i1cimOkbLHs](https://www.youtube.com/watch?v=i1cimOkbLHs)
 * [Q&A: Will we get a Truck & Tractor ghosting fix soon?](../../../../transcriptions/yt-SU1kBDjZGhM.md) [https://www.youtube.com/watch?v=SU1kBDjZGhM](https://www.youtube.com/watch?v=SU1kBDjZGhM)
+* [Do you plan to integrate an automatic path travel for Trucks?](../../../../transcriptions/yt-i1cimOkbLHs.md) [https://www.youtube.com/watch?v=i1cimOkbLHs](https://www.youtube.com/watch?v=i1cimOkbLHs)
 
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: The Truck kept flipping & falling](../../../../transcriptions/yt-AP6XsLP_KUo.md) [https://www.youtube.com/watch?v=AP6XsLP_KUo](https://www.youtube.com/watch?v=AP6XsLP_KUo)
@@ -39,9 +39,9 @@ date: Last Modified
 * [Q&A: Any improvement for the Trucks so they can transport Fluids?](../../../../transcriptions/yt-lNpwyJr7lZc.md) [https://www.youtube.com/watch?v=lNpwyJr7lZc](https://www.youtube.com/watch?v=lNpwyJr7lZc)
 
 ## August 25th, 2020 Livestream
-* [Q&A: If you add Trucks then add Boats?](../../../../transcriptions/yt-A10cQzT6TpU.md) [https://www.youtube.com/watch?v=A10cQzT6TpU](https://www.youtube.com/watch?v=A10cQzT6TpU)
-* [Q&A: Smart Truck Stations?](../../../../transcriptions/yt-xYwIsp94W7c.md) [https://www.youtube.com/watch?v=xYwIsp94W7c](https://www.youtube.com/watch?v=xYwIsp94W7c)
 * [Q&A: Tanker Trucks?](../../../../transcriptions/yt-IPmVdCgi2_A.md) [https://www.youtube.com/watch?v=IPmVdCgi2_A](https://www.youtube.com/watch?v=IPmVdCgi2_A)
+* [Q&A: Smart Truck Stations?](../../../../transcriptions/yt-xYwIsp94W7c.md) [https://www.youtube.com/watch?v=xYwIsp94W7c](https://www.youtube.com/watch?v=xYwIsp94W7c)
+* [Q&A: If you add Trucks then add Boats?](../../../../transcriptions/yt-A10cQzT6TpU.md) [https://www.youtube.com/watch?v=A10cQzT6TpU](https://www.youtube.com/watch?v=A10cQzT6TpU)
 * [Q&A: Trailer for the Trucks?](../../../../transcriptions/yt-WjVP7rOR38M.md) [https://www.youtube.com/watch?v=WjVP7rOR38M](https://www.youtube.com/watch?v=WjVP7rOR38M)
 
 ## March 9th, 2019 Livestream

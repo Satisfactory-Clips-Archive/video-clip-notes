@@ -18,8 +18,8 @@ date: Last Modified
 * [Snutt & Jace Talk: Save Files & Cloud Sync](../../../transcriptions/yt-gGnQV2Rs5oc.md) [https://www.youtube.com/watch?v=gGnQV2Rs5oc](https://www.youtube.com/watch?v=gGnQV2Rs5oc)
 
 ## September 25th, 2019 Patch Notes
-* [Q&A: Can I disable Cloud Saves ?](../../../transcriptions/yt-t1LfyNfuMVQ,218.32,236.16.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=218&end=237](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=218&end=237)
 * [Snut Talk: Save Files & Cloud Saves](../../../transcriptions/yt-t1LfyNfuMVQ,100.36,186.48.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=100&end=187](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=100&end=187)
+* [Q&A: Can I disable Cloud Saves ?](../../../transcriptions/yt-t1LfyNfuMVQ,218.32,236.16.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=218&end=237](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=218&end=237)
 * [Q&A: What happens if I play offline?](../../../transcriptions/yt-t1LfyNfuMVQ,236.16,250.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=236&end=250](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=236&end=250)
 
 ## September 13th, 2019 Video

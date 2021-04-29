@@ -6,13 +6,13 @@ date: Last Modified
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
 ## April 20th, 2021 Livestream
-* [Snutt Talk: Might be a good habit to verify game files after every update](../../transcriptions/yt-11kugJNY9ug.md) [https://www.youtube.com/watch?v=11kugJNY9ug](https://www.youtube.com/watch?v=11kugJNY9ug)
-* [Snutt Talk: Steam & Epic patch download failures causing graphical issues](../../transcriptions/yt-uNYU4_DIxtI.md) [https://www.youtube.com/watch?v=uNYU4_DIxtI](https://www.youtube.com/watch?v=uNYU4_DIxtI)
 * [State of Dev: Try verifying files if you're experiencing graphical glitches](../../transcriptions/yt-5NkjFaKNJmI.md) [https://www.youtube.com/watch?v=5NkjFaKNJmI](https://www.youtube.com/watch?v=5NkjFaKNJmI)
+* [Snutt Talk: Steam & Epic patch download failures causing graphical issues](../../transcriptions/yt-uNYU4_DIxtI.md) [https://www.youtube.com/watch?v=uNYU4_DIxtI](https://www.youtube.com/watch?v=uNYU4_DIxtI)
+* [Snutt Talk: Might be a good habit to verify game files after every update](../../transcriptions/yt-11kugJNY9ug.md) [https://www.youtube.com/watch?v=11kugJNY9ug](https://www.youtube.com/watch?v=11kugJNY9ug)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Epic Store Support-a-creator revenue share [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4352&end=4422](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4352&end=4422)
 * Snutt Talk: Schedule Reitereation & Store Discounts [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4236&end=4353](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4236&end=4353)
+* Snutt Talk: Epic Store Support-a-creator revenue share [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4352&end=4422](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4352&end=4422)
 
 ## April 6th, 2021 Livestream
 * [State of Dev: Cloud Sync on Experimental branch for Epic Store disabled](../../transcriptions/yt-eAmIT8FuZdM.md) [https://www.youtube.com/watch?v=eAmIT8FuZdM](https://www.youtube.com/watch?v=eAmIT8FuZdM)
@@ -49,10 +49,10 @@ date: Last Modified
 * [Q&A: Regional Pricing?](../../transcriptions/yt-VHr4x1vNeoY,69.16,117.14.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118)
 
 ## December 12th, 2018 Q&A
-* [Community FYI: But Epic Launcher doesn't have [insert feature]](../../transcriptions/yt-7V4UPiBOshY,414.76,436.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=414&end=436](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=414&end=436)
 * Q&A: Is the Alpha being done via Epic? [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415)
-* [Q&A: Is the Epic Games Store DRM-free?](../../transcriptions/yt-7V4UPiBOshY,533.84,558.4.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=533&end=559](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=533&end=559)
+* [Community FYI: But Epic Launcher doesn't have [insert feature]](../../transcriptions/yt-7V4UPiBOshY,414.76,436.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=414&end=436](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=414&end=436)
 * Q&A: Is there a refund policy? [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=486&end=492](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=486&end=492)
 * [Q&A: Is there regional pricing on the Epic Games Store?](../../transcriptions/yt-7V4UPiBOshY,491.14,533.84.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=491&end=534](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=491&end=534)
+* [Q&A: Is the Epic Games Store DRM-free?](../../transcriptions/yt-7V4UPiBOshY,533.84,558.4.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=533&end=559](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=533&end=559)
 * [Q&A: What about the security breaches in the past with Epic?](../../transcriptions/yt-7V4UPiBOshY,558.4,612.98.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=558&end=613](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=558&end=613)
 * [Q&A: What are the payment options for the Epic Games Store?](../../transcriptions/yt-7V4UPiBOshY,612.98,643.72.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=612&end=644](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=612&end=644)

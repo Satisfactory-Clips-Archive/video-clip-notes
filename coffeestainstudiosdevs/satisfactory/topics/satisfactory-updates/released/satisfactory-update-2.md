@@ -17,8 +17,8 @@ date: Last Modified
 * [Q&A: Is Update 3 bigger than Update 2?](../../../transcriptions/yt-AssBQa36jAM.md) [https://www.youtube.com/watch?v=AssBQa36jAM](https://www.youtube.com/watch?v=AssBQa36jAM)
 
 ## July 2nd, 2019 Patch Notes
-* [Jace Talk: Bauxite](../../../transcriptions/yt-mtVwiCQ5sZI,227.68579166666666,244.7445.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=227&end=245](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=227&end=245)
-* [Jace Talk: Upgraded buildings available](../../../transcriptions/yt-mtVwiCQ5sZI,208.79191666666665,222.76420833333333.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223)
-* [Jace Talk: We've added Nuclear Power](../../../transcriptions/yt-mtVwiCQ5sZI,276.85991666666666,312.72908333333334.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=276&end=313](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=276&end=313)
 * [Jace Talk: We've added Trains](../../../transcriptions/yt-mtVwiCQ5sZI,62.437374999999996,180.63879166666666.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=62&end=181](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=62&end=181)
 * [Jace Talk: We've revampled the end-game areas](../../../transcriptions/yt-mtVwiCQ5sZI,194.15229166666666,201.326125.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=194&end=202](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=194&end=202)
+* [Jace Talk: Upgraded buildings available](../../../transcriptions/yt-mtVwiCQ5sZI,208.79191666666665,222.76420833333333.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223)
+* [Jace Talk: Bauxite](../../../transcriptions/yt-mtVwiCQ5sZI,227.68579166666666,244.7445.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=227&end=245](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=227&end=245)
+* [Jace Talk: We've added Nuclear Power](../../../transcriptions/yt-mtVwiCQ5sZI,276.85991666666666,312.72908333333334.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=276&end=313](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=276&end=313)

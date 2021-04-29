@@ -5,18 +5,18 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 5
 
 ## April 27th, 2021 Livestream
-* [State of Dev: If you have ideas for Update 5, use the QA Site](../../../transcriptions/yt-VaVktWVoFds.md) [https://www.youtube.com/watch?v=VaVktWVoFds](https://www.youtube.com/watch?v=VaVktWVoFds)
 * [State of Dev: Update 5](../../../transcriptions/yt-6HuXkOLqZN8.md) [https://www.youtube.com/watch?v=6HuXkOLqZN8](https://www.youtube.com/watch?v=6HuXkOLqZN8)
+* [State of Dev: If you have ideas for Update 5, use the QA Site](../../../transcriptions/yt-VaVktWVoFds.md) [https://www.youtube.com/watch?v=VaVktWVoFds](https://www.youtube.com/watch?v=VaVktWVoFds)
 * [State of Dev: Update 5 reiteration](../../../transcriptions/yt-l0Mr1fHQZpc.md) [https://www.youtube.com/watch?v=l0Mr1fHQZpc](https://www.youtube.com/watch?v=l0Mr1fHQZpc)
 
 ## April 23rd, 2021 Video
 * [Snutt Talk: The future for Satisfactory](../../../transcriptions/yt-vuDlUdTeEMI,461.7083333333333,522.5833333333334.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=461&end=523](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=461&end=523)
 
 ## April 20th, 2021 Livestream
-* [Q&A: Any timeframe for Update 5?](../../../transcriptions/yt-3vGN4jCBhdY.md) [https://www.youtube.com/watch?v=3vGN4jCBhdY](https://www.youtube.com/watch?v=3vGN4jCBhdY)
-* [Q&A: Doing something with S.A.M. Ore next update?](../../../transcriptions/yt-tSUBtq9ny4g.md) [https://www.youtube.com/watch?v=tSUBtq9ny4g](https://www.youtube.com/watch?v=tSUBtq9ny4g)
 * [State of Dev: Update 5](../../../transcriptions/yt-M3Q2LG6RaI8.md) [https://www.youtube.com/watch?v=M3Q2LG6RaI8](https://www.youtube.com/watch?v=M3Q2LG6RaI8)
 * [Q&A: Will there be an Update 4.5?](../../../transcriptions/yt-rczQrecqq6w.md) [https://www.youtube.com/watch?v=rczQrecqq6w](https://www.youtube.com/watch?v=rczQrecqq6w)
+* [Q&A: Doing something with S.A.M. Ore next update?](../../../transcriptions/yt-tSUBtq9ny4g.md) [https://www.youtube.com/watch?v=tSUBtq9ny4g](https://www.youtube.com/watch?v=tSUBtq9ny4g)
+* [Q&A: Any timeframe for Update 5?](../../../transcriptions/yt-3vGN4jCBhdY.md) [https://www.youtube.com/watch?v=3vGN4jCBhdY](https://www.youtube.com/watch?v=3vGN4jCBhdY)
 
 ## April 13th, 2021 Livestream
 * Snutt Talk: The future of Satisfactory [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6327&end=6460](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6327&end=6460)
@@ -32,9 +32,9 @@ date: Last Modified
 * [Q&A: When will Update 5 be?](../../../transcriptions/yt-D2CIkNehRNw.md) [https://www.youtube.com/watch?v=D2CIkNehRNw](https://www.youtube.com/watch?v=D2CIkNehRNw)
 
 ## February 23rd, 2021 Livestream
+* [Snutt & Jace Talk: Signs are confirmed](../../../transcriptions/yt-MowmGat6MFY.md) [https://www.youtube.com/watch?v=MowmGat6MFY](https://www.youtube.com/watch?v=MowmGat6MFY)
 * [Q&A: Any more major updates planned before 1.0?](../../../transcriptions/yt-XLXeOMWHoAc.md) [https://www.youtube.com/watch?v=XLXeOMWHoAc](https://www.youtube.com/watch?v=XLXeOMWHoAc)
 * [Q&A: Dedicated Servers confirmed for Update 5?](../../../transcriptions/yt-XATD7Tg7YmQ.md) [https://www.youtube.com/watch?v=XATD7Tg7YmQ](https://www.youtube.com/watch?v=XATD7Tg7YmQ)
-* [Snutt & Jace Talk: Signs are confirmed](../../../transcriptions/yt-MowmGat6MFY.md) [https://www.youtube.com/watch?v=MowmGat6MFY](https://www.youtube.com/watch?v=MowmGat6MFY)
 * [Q&A: Update 4 will come before Update 5?](../../../transcriptions/yt-1seCWtzI5kM.md) [https://www.youtube.com/watch?v=1seCWtzI5kM](https://www.youtube.com/watch?v=1seCWtzI5kM)
 
 ## February 9th, 2021 Livestream
@@ -53,14 +53,14 @@ date: Last Modified
 
 ## September 1st, 2020 Livestream
 * [Q&A: About how many Updates will there be before 1.0?](../../../transcriptions/yt-eIolvvHPWmw.md) [https://www.youtube.com/watch?v=eIolvvHPWmw](https://www.youtube.com/watch?v=eIolvvHPWmw)
-* [Q&A: Are you going to share something important related to next Updates?](../../../transcriptions/yt-Kx9TTDecZe4.md) [https://www.youtube.com/watch?v=Kx9TTDecZe4](https://www.youtube.com/watch?v=Kx9TTDecZe4)
 * [Q&A: When will we see the crab?](../../../transcriptions/yt-yHgb7ySKTMs.md) [https://www.youtube.com/watch?v=yHgb7ySKTMs](https://www.youtube.com/watch?v=yHgb7ySKTMs)
+* [Q&A: Are you going to share something important related to next Updates?](../../../transcriptions/yt-Kx9TTDecZe4.md) [https://www.youtube.com/watch?v=Kx9TTDecZe4](https://www.youtube.com/watch?v=Kx9TTDecZe4)
 
 ## August 25th, 2020 Livestream
-* [Q&A: Are there internal discussions to significantly rework existing buildings like refineries?](../../../transcriptions/yt-x07FQZjbA_c.md) [https://www.youtube.com/watch?v=x07FQZjbA_c](https://www.youtube.com/watch?v=x07FQZjbA_c)
-* [Q&A: New enemies / creatures?](../../../transcriptions/yt-TDbNru0heoU.md) [https://www.youtube.com/watch?v=TDbNru0heoU](https://www.youtube.com/watch?v=TDbNru0heoU)
-* [Q&A: Quality-of-life update?](../../../transcriptions/yt-cwWUYRciIoc.md) [https://www.youtube.com/watch?v=cwWUYRciIoc](https://www.youtube.com/watch?v=cwWUYRciIoc)
 * [State of Dev: Update 4 & Update 5](../../../transcriptions/yt-e-51TRYTVg8.md) [https://www.youtube.com/watch?v=e-51TRYTVg8](https://www.youtube.com/watch?v=e-51TRYTVg8)
+* [Q&A: Quality-of-life update?](../../../transcriptions/yt-cwWUYRciIoc.md) [https://www.youtube.com/watch?v=cwWUYRciIoc](https://www.youtube.com/watch?v=cwWUYRciIoc)
+* [Q&A: New enemies / creatures?](../../../transcriptions/yt-TDbNru0heoU.md) [https://www.youtube.com/watch?v=TDbNru0heoU](https://www.youtube.com/watch?v=TDbNru0heoU)
+* [Q&A: Are there internal discussions to significantly rework existing buildings like refineries?](../../../transcriptions/yt-x07FQZjbA_c.md) [https://www.youtube.com/watch?v=x07FQZjbA_c](https://www.youtube.com/watch?v=x07FQZjbA_c)
 * [Q&A: When's Tier 8 coming?](../../../transcriptions/yt-plexfdPIaSw.md) [https://www.youtube.com/watch?v=plexfdPIaSw](https://www.youtube.com/watch?v=plexfdPIaSw)
 
 ## May 19th, 2020 Livestream

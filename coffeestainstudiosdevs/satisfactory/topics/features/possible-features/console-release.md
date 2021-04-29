@@ -21,8 +21,8 @@ date: Last Modified
 * [Q&A: Do you plan to release on Console one day?](../../../transcriptions/yt-mS_O_qnXJp0.md) [https://www.youtube.com/watch?v=mS_O_qnXJp0](https://www.youtube.com/watch?v=mS_O_qnXJp0)
 
 ## February 2nd, 2021 Livestream
-* [Q&A: KFConsole exclusive?](../../../transcriptions/yt-nK8NUTMQVTM.md) [https://www.youtube.com/watch?v=nK8NUTMQVTM](https://www.youtube.com/watch?v=nK8NUTMQVTM)
 * [Q&A: Will Satisfactory be coming to Console?](../../../transcriptions/yt-ZljpvyZWlIA.md) [https://www.youtube.com/watch?v=ZljpvyZWlIA](https://www.youtube.com/watch?v=ZljpvyZWlIA)
+* [Q&A: KFConsole exclusive?](../../../transcriptions/yt-nK8NUTMQVTM.md) [https://www.youtube.com/watch?v=nK8NUTMQVTM](https://www.youtube.com/watch?v=nK8NUTMQVTM)
 * [Q&A: Will the game ever be on Console?](../../../transcriptions/yt-G_pmJbKEhX4.md) [https://www.youtube.com/watch?v=G_pmJbKEhX4](https://www.youtube.com/watch?v=G_pmJbKEhX4)
 
 ## January 26th, 2021 Livestream
@@ -35,9 +35,9 @@ date: Last Modified
 * [Q&A: Can we get a Console Release for the KFConsole?](../../../transcriptions/yt-P7R2hxi19pM.md) [https://www.youtube.com/watch?v=P7R2hxi19pM](https://www.youtube.com/watch?v=P7R2hxi19pM)
 
 ## November 24th, 2020 Livestream
-* [Q&A: Is Console confirmed for Satisfactory?](../../../transcriptions/yt-KEJYlYO511Q.md) [https://www.youtube.com/watch?v=KEJYlYO511Q](https://www.youtube.com/watch?v=KEJYlYO511Q)
-* [Q&A: When is Satisfactory coming to N-Gage?](../../../transcriptions/yt-qL6dp9eUB58.md) [https://www.youtube.com/watch?v=qL6dp9eUB58](https://www.youtube.com/watch?v=qL6dp9eUB58)
 * [Q&A: When is Satisfactory coming to Switch?](../../../transcriptions/yt-tBDXG3OHt1c.md) [https://www.youtube.com/watch?v=tBDXG3OHt1c](https://www.youtube.com/watch?v=tBDXG3OHt1c)
+* [Q&A: When is Satisfactory coming to N-Gage?](../../../transcriptions/yt-qL6dp9eUB58.md) [https://www.youtube.com/watch?v=qL6dp9eUB58](https://www.youtube.com/watch?v=qL6dp9eUB58)
+* [Q&A: Is Console confirmed for Satisfactory?](../../../transcriptions/yt-KEJYlYO511Q.md) [https://www.youtube.com/watch?v=KEJYlYO511Q](https://www.youtube.com/watch?v=KEJYlYO511Q)
 
 ## November 17th, 2020 Livestream
 * [Trolling: Console Support](../../../transcriptions/yt-OMFvjE8llfs.md) [https://www.youtube.com/watch?v=OMFvjE8llfs](https://www.youtube.com/watch?v=OMFvjE8llfs)
@@ -50,8 +50,8 @@ date: Last Modified
 * [Q&A: Is there any possibility it might come to PS4 and Xbox?](../../../transcriptions/yt-rATcozDE25c,163.83033333333333,261.52793333333335.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=163&end=262](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=163&end=262)
 
 ## September 15th, 2020 Livestream
-* [Q&A: Are you planning on porting the game to PS4?](../../../transcriptions/yt-0Zv9Qjp2fHI.md) [https://www.youtube.com/watch?v=0Zv9Qjp2fHI](https://www.youtube.com/watch?v=0Zv9Qjp2fHI)
 * [Q&A: Coming to Consoles?](../../../transcriptions/yt-09PyuqxekgU.md) [https://www.youtube.com/watch?v=09PyuqxekgU](https://www.youtube.com/watch?v=09PyuqxekgU)
+* [Q&A: Are you planning on porting the game to PS4?](../../../transcriptions/yt-0Zv9Qjp2fHI.md) [https://www.youtube.com/watch?v=0Zv9Qjp2fHI](https://www.youtube.com/watch?v=0Zv9Qjp2fHI)
 
 ## September 8th, 2020 Livestream
 * [Q&A: Will this game come out on Console at some point?](../../../transcriptions/yt-pfD6p4g3fQ8.md) [https://www.youtube.com/watch?v=pfD6p4g3fQ8](https://www.youtube.com/watch?v=pfD6p4g3fQ8)
@@ -84,8 +84,8 @@ date: Last Modified
 * [Q&A: Satisfactory on Switch?](../../../transcriptions/yt-QVQZ2qgtTsQ.md) [https://www.youtube.com/watch?v=QVQZ2qgtTsQ](https://www.youtube.com/watch?v=QVQZ2qgtTsQ)
 
 ## March 9th, 2019 Livestream
-* [Q&A: Any scope of the game being on consoles?](../../../transcriptions/yt-bsTq_WiSeCY.md) [https://www.youtube.com/watch?v=bsTq_WiSeCY](https://www.youtube.com/watch?v=bsTq_WiSeCY)
 * [Q&A: Will you create Console version of Satisfactory?](../../../transcriptions/yt-_MGUbEI247M.md) [https://www.youtube.com/watch?v=_MGUbEI247M](https://www.youtube.com/watch?v=_MGUbEI247M)
+* [Q&A: Any scope of the game being on consoles?](../../../transcriptions/yt-bsTq_WiSeCY.md) [https://www.youtube.com/watch?v=bsTq_WiSeCY](https://www.youtube.com/watch?v=bsTq_WiSeCY)
 
 ## June 22nd, 2018 Q&A
 * [Q&A: Will there be Mac/Linux/Console cross-platform support?](../../../transcriptions/yt-W1E6EWrAsII,406.52,421.68.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=406&end=422](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=406&end=422)

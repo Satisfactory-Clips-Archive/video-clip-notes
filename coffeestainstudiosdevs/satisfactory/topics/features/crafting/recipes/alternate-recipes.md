@@ -5,8 +5,8 @@ date: Last Modified
 # [Topics](../../../../topics.md) > Features > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
 ## April 20th, 2021 Livestream
-* [Community FYI: beacons work fine for tagging raided crash sites](../../../../transcriptions/yt-caCdUs9XJ9A.md) [https://www.youtube.com/watch?v=caCdUs9XJ9A](https://www.youtube.com/watch?v=caCdUs9XJ9A)
 * [Q&A: How about making Crash Sites deconstructable after looting?](../../../../transcriptions/yt-8NEorsLWk6k.md) [https://www.youtube.com/watch?v=8NEorsLWk6k](https://www.youtube.com/watch?v=8NEorsLWk6k)
+* [Community FYI: beacons work fine for tagging raided crash sites](../../../../transcriptions/yt-caCdUs9XJ9A.md) [https://www.youtube.com/watch?v=caCdUs9XJ9A](https://www.youtube.com/watch?v=caCdUs9XJ9A)
 * [Q&A: If we get the hard drive make the crash site disappear?](../../../../transcriptions/yt-O3fr1FIrFno.md) [https://www.youtube.com/watch?v=O3fr1FIrFno](https://www.youtube.com/watch?v=O3fr1FIrFno)
 
 ## April 6th, 2021 Livestream
@@ -25,9 +25,9 @@ date: Last Modified
 * [Snutt & Jace Talk: Can't remember of Turbofuel has changed](../../../../transcriptions/yt-tGsaRAqAAsk.md) [https://www.youtube.com/watch?v=tGsaRAqAAsk](https://www.youtube.com/watch?v=tGsaRAqAAsk)
 
 ## March 2nd, 2021 Livestream
-* [Snutt Talk: Mark said we're adding new Alternate Recipes & new Crash Sites](../../../../transcriptions/yt-PoEuuDU4jpo.md) [https://www.youtube.com/watch?v=PoEuuDU4jpo](https://www.youtube.com/watch?v=PoEuuDU4jpo)
-* [Snutt Talk: Response from Mark regarding Alternate Recipes](../../../../transcriptions/yt-AlKn7_O78tU.md) [https://www.youtube.com/watch?v=AlKn7_O78tU](https://www.youtube.com/watch?v=AlKn7_O78tU)
 * [Q&A: Will the new Update affect Alternate Recipes?](../../../../transcriptions/yt-AXoRnwF1P9E.md) [https://www.youtube.com/watch?v=AXoRnwF1P9E](https://www.youtube.com/watch?v=AXoRnwF1P9E)
+* [Snutt Talk: Response from Mark regarding Alternate Recipes](../../../../transcriptions/yt-AlKn7_O78tU.md) [https://www.youtube.com/watch?v=AlKn7_O78tU](https://www.youtube.com/watch?v=AlKn7_O78tU)
+* [Snutt Talk: Mark said we're adding new Alternate Recipes & new Crash Sites](../../../../transcriptions/yt-PoEuuDU4jpo.md) [https://www.youtube.com/watch?v=PoEuuDU4jpo](https://www.youtube.com/watch?v=PoEuuDU4jpo)
 
 ## February 23rd, 2021 Livestream
 * [Q&A: Are there going to be more recipes- not new item recipes but more recipes for old items?](../../../../transcriptions/yt-oojAhgClrl0.md) [https://www.youtube.com/watch?v=oojAhgClrl0](https://www.youtube.com/watch?v=oojAhgClrl0)

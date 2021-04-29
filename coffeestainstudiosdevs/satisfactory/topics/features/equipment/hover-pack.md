@@ -5,8 +5,8 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
 ## April 20th, 2021 Livestream
-* [Q&A: Range upgrade for Hover Pack?](../../../transcriptions/yt-tdatHpgolVQ.md) [https://www.youtube.com/watch?v=tdatHpgolVQ](https://www.youtube.com/watch?v=tdatHpgolVQ)
 * [Q&A: Use for batteries in the Hover Pack?](../../../transcriptions/yt-1HWvUD350gk.md) [https://www.youtube.com/watch?v=1HWvUD350gk](https://www.youtube.com/watch?v=1HWvUD350gk)
+* [Q&A: Range upgrade for Hover Pack?](../../../transcriptions/yt-tdatHpgolVQ.md) [https://www.youtube.com/watch?v=tdatHpgolVQ](https://www.youtube.com/watch?v=tdatHpgolVQ)
 
 ## April 13th, 2021 Livestream
 * Q&A: Hover Pack, why not Tier 6? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968)
@@ -16,8 +16,8 @@ date: Last Modified
 * [Snutt & Mark Talk: Hover Pack vs. Jetpack](../../../transcriptions/yt-_6MSvhb6COU.md) [https://www.youtube.com/watch?v=_6MSvhb6COU](https://www.youtube.com/watch?v=_6MSvhb6COU)
 
 ## March 30th, 2021 Livestream
-* [Q&A: Mk.2 & Mk.3 Power Poles gives us more Hover Pack range?](../../../transcriptions/yt-HE5CIGke424.md) [https://www.youtube.com/watch?v=HE5CIGke424](https://www.youtube.com/watch?v=HE5CIGke424)
 * [Q&A: Would you swap Hover and Jet packs?](../../../transcriptions/yt-wPguHi5TsY4.md) [https://www.youtube.com/watch?v=wPguHi5TsY4](https://www.youtube.com/watch?v=wPguHi5TsY4)
+* [Q&A: Mk.2 & Mk.3 Power Poles gives us more Hover Pack range?](../../../transcriptions/yt-HE5CIGke424.md) [https://www.youtube.com/watch?v=HE5CIGke424](https://www.youtube.com/watch?v=HE5CIGke424)
 
 ## March 23rd, 2021 Livestream
 * [Snutt Talk: Hover Pack](../../../transcriptions/yt-FA1JT6n44X4.md) [https://www.youtube.com/watch?v=FA1JT6n44X4](https://www.youtube.com/watch?v=FA1JT6n44X4)

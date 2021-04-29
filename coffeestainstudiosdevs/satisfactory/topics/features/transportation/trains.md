@@ -17,8 +17,8 @@ date: Last Modified
 
 ## March 23rd, 2021 Livestream
 * [Q&A: Be able to attach walkways to the Train Station platforms?](../../../transcriptions/yt-WJ6GNToob14.md) [https://www.youtube.com/watch?v=WJ6GNToob14](https://www.youtube.com/watch?v=WJ6GNToob14)
-* [Q&A: How about Train Elevators?](../../../transcriptions/yt-OsGX9e5N9wk.md) [https://www.youtube.com/watch?v=OsGX9e5N9wk](https://www.youtube.com/watch?v=OsGX9e5N9wk)
 * [Q&A: Will the Trains ever be paintable?](../../../transcriptions/yt-L2-j0MZepbI.md) [https://www.youtube.com/watch?v=L2-j0MZepbI](https://www.youtube.com/watch?v=L2-j0MZepbI)
+* [Q&A: How about Train Elevators?](../../../transcriptions/yt-OsGX9e5N9wk.md) [https://www.youtube.com/watch?v=OsGX9e5N9wk](https://www.youtube.com/watch?v=OsGX9e5N9wk)
 
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Community FYI: The train part looks amazing](../../../transcriptions/yt-oqjLxMUfZJo.md) [https://www.youtube.com/watch?v=oqjLxMUfZJo](https://www.youtube.com/watch?v=oqjLxMUfZJo)
@@ -27,8 +27,8 @@ date: Last Modified
 * Mod highlight part 2: FicsIt-Networks - Train Network integration [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13144&end=13194](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13144&end=13194)
 
 ## February 9th, 2021 Livestream
-* [Q&A: Are Truck Stations & Freight Platforms a part of the UI Update?](../../../transcriptions/yt-ANyv9_88k0A.md) [https://www.youtube.com/watch?v=ANyv9_88k0A](https://www.youtube.com/watch?v=ANyv9_88k0A)
 * [Q&A: Derailment?](../../../transcriptions/yt-dO0LLPFQ20s.md) [https://www.youtube.com/watch?v=dO0LLPFQ20s](https://www.youtube.com/watch?v=dO0LLPFQ20s)
+* [Q&A: Are Truck Stations & Freight Platforms a part of the UI Update?](../../../transcriptions/yt-ANyv9_88k0A.md) [https://www.youtube.com/watch?v=ANyv9_88k0A](https://www.youtube.com/watch?v=ANyv9_88k0A)
 * [Q&A: When Trains get updated will coupling & uncoupling like a real train yard be coming too?](../../../transcriptions/yt-TcUutEhjHaU.md) [https://www.youtube.com/watch?v=TcUutEhjHaU](https://www.youtube.com/watch?v=TcUutEhjHaU)
 
 ## February 2nd, 2021 Livestream
@@ -49,11 +49,11 @@ date: Last Modified
 * [Q&A: Train Update?](../../../transcriptions/yt-ts7TQnRykB0.md) [https://www.youtube.com/watch?v=ts7TQnRykB0](https://www.youtube.com/watch?v=ts7TQnRykB0)
 
 ## November 17th, 2020 Livestream
-* [Q&A: Are you going to fix the Trains so it doesn't break in multiplayer for other people?](../../../transcriptions/yt-Kg29HlSMQjI.md) [https://www.youtube.com/watch?v=Kg29HlSMQjI](https://www.youtube.com/watch?v=Kg29HlSMQjI)
 * [Q&A: Are you guys aware of how broken Rails are?](../../../transcriptions/yt-ziSNgugerjg.md) [https://www.youtube.com/watch?v=ziSNgugerjg](https://www.youtube.com/watch?v=ziSNgugerjg)
-* [Q&A: Can we go over the Freight Train fix in a little detail?](../../../transcriptions/yt-7vpbefcvoYI.md) [https://www.youtube.com/watch?v=7vpbefcvoYI](https://www.youtube.com/watch?v=7vpbefcvoYI)
 * [Q&A: Mk.0 Iron Trains that you can power with cOAL](../../../transcriptions/yt-cxtWo3QNH0I.md) [https://www.youtube.com/watch?v=cxtWo3QNH0I](https://www.youtube.com/watch?v=cxtWo3QNH0I)
 * [Q&A: Mk.2 Trains?](../../../transcriptions/yt-b0gm6P0BOkg.md) [https://www.youtube.com/watch?v=b0gm6P0BOkg](https://www.youtube.com/watch?v=b0gm6P0BOkg)
+* [Q&A: Are you going to fix the Trains so it doesn't break in multiplayer for other people?](../../../transcriptions/yt-Kg29HlSMQjI.md) [https://www.youtube.com/watch?v=Kg29HlSMQjI](https://www.youtube.com/watch?v=Kg29HlSMQjI)
+* [Q&A: Can we go over the Freight Train fix in a little detail?](../../../transcriptions/yt-7vpbefcvoYI.md) [https://www.youtube.com/watch?v=7vpbefcvoYI](https://www.youtube.com/watch?v=7vpbefcvoYI)
 
 ## November 10th, 2020 Livestream
 * [Q&A: Any news about Trains? If so put them in Update 4?](../../../transcriptions/yt-eT6uSBu-sVw.md) [https://www.youtube.com/watch?v=eT6uSBu-sVw](https://www.youtube.com/watch?v=eT6uSBu-sVw)
@@ -65,13 +65,13 @@ date: Last Modified
 * [Q&A: The Trains lag a lot on Multiplayer?](../../../transcriptions/yt-AxQoNckHBhI.md) [https://www.youtube.com/watch?v=AxQoNckHBhI](https://www.youtube.com/watch?v=AxQoNckHBhI)
 
 ## October 9th, 2020 Livestream
-* [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../../../transcriptions/yt-Ri4BTkabEaE.md) [https://www.youtube.com/watch?v=Ri4BTkabEaE](https://www.youtube.com/watch?v=Ri4BTkabEaE)
 * [Snutt & Dylan Talk: Development priorities](../../../transcriptions/yt-iap-q8Jggq8.md) [https://www.youtube.com/watch?v=iap-q8Jggq8](https://www.youtube.com/watch?v=iap-q8Jggq8)
+* [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../../../transcriptions/yt-Ri4BTkabEaE.md) [https://www.youtube.com/watch?v=Ri4BTkabEaE](https://www.youtube.com/watch?v=Ri4BTkabEaE)
 * [Q&A: What is the limit?](../../../transcriptions/yt-Njv_PJT3B2g.md) [https://www.youtube.com/watch?v=Njv_PJT3B2g](https://www.youtube.com/watch?v=Njv_PJT3B2g)
 
 ## October 6th, 2020 Livestream
-* [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](../../../transcriptions/yt-RVq5k89jlEA.md) [https://www.youtube.com/watch?v=RVq5k89jlEA](https://www.youtube.com/watch?v=RVq5k89jlEA)
 * [Q&A: Will the Resource Transportation get an update?](../../../transcriptions/yt-hKxm2Ps1UYY.md) [https://www.youtube.com/watch?v=hKxm2Ps1UYY](https://www.youtube.com/watch?v=hKxm2Ps1UYY)
+* [Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](../../../transcriptions/yt-RVq5k89jlEA.md) [https://www.youtube.com/watch?v=RVq5k89jlEA](https://www.youtube.com/watch?v=RVq5k89jlEA)
 
 ## September 29th, 2020 Livestream
 * [Q&A: Is there an update to Train Stations, Rails, and Railway Switches in the future?](../../../transcriptions/yt-vV-u0AjWWvU.md) [https://www.youtube.com/watch?v=vV-u0AjWWvU](https://www.youtube.com/watch?v=vV-u0AjWWvU)

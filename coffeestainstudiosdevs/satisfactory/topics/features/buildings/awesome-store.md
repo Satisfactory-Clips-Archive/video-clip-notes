@@ -8,9 +8,9 @@ date: Last Modified
 * [Q&A: Any updates to the AWESOME Store?](../../../transcriptions/yt-G-aFnOtVYTw.md) [https://www.youtube.com/watch?v=G-aFnOtVYTw](https://www.youtube.com/watch?v=G-aFnOtVYTw)
 
 ## February 23rd, 2021 Livestream
+* [Q&A: Can we get a Jace trophy in the game?](../../../transcriptions/yt-2Bd9mFmmRFg.md) [https://www.youtube.com/watch?v=2Bd9mFmmRFg](https://www.youtube.com/watch?v=2Bd9mFmmRFg)
 * [Q&A: A beanie trophy?](../../../transcriptions/yt-vQlvfDhG01E.md) [https://www.youtube.com/watch?v=vQlvfDhG01E](https://www.youtube.com/watch?v=vQlvfDhG01E)
 * [Q&A: Are we going to have new stuff in the AWESOME Shop for Update 4?](../../../transcriptions/yt-nuWfLlBMtA0.md) [https://www.youtube.com/watch?v=nuWfLlBMtA0](https://www.youtube.com/watch?v=nuWfLlBMtA0)
-* [Q&A: Can we get a Jace trophy in the game?](../../../transcriptions/yt-2Bd9mFmmRFg.md) [https://www.youtube.com/watch?v=2Bd9mFmmRFg](https://www.youtube.com/watch?v=2Bd9mFmmRFg)
 
 ## February 9th, 2021 Livestream
 * [Q&A: Any plans to improve the visual part of building in the game?](../../../transcriptions/yt-k-UDNJY0PWA.md) [https://www.youtube.com/watch?v=k-UDNJY0PWA](https://www.youtube.com/watch?v=k-UDNJY0PWA)
@@ -35,14 +35,14 @@ date: Last Modified
 
 ## February 11th, 2020 Livestream
 * [Q&A: Are we going to be able to use items from the shop in different saves?](../../../transcriptions/yt-SCcS2Wdqfs4.md) [https://www.youtube.com/watch?v=SCcS2Wdqfs4](https://www.youtube.com/watch?v=SCcS2Wdqfs4)
-* [Q&A: Is this the thing you can buy with Coupons?](../../../transcriptions/yt-nj-hjbu8RLA.md) [https://www.youtube.com/watch?v=nj-hjbu8RLA](https://www.youtube.com/watch?v=nj-hjbu8RLA)
 * [Q&A: What are the coupons for?](../../../transcriptions/yt-a5Ej8K5AHos.md) [https://www.youtube.com/watch?v=a5Ej8K5AHos](https://www.youtube.com/watch?v=a5Ej8K5AHos)
+* [Q&A: Is this the thing you can buy with Coupons?](../../../transcriptions/yt-nj-hjbu8RLA.md) [https://www.youtube.com/watch?v=nj-hjbu8RLA](https://www.youtube.com/watch?v=nj-hjbu8RLA)
 
 ## January 22nd, 2020 Livestream
-* [Snutt & Jace Talk: AWESOME Shop Teaser](../../../transcriptions/yt-0fiuHwwSrrI.md) [https://www.youtube.com/watch?v=0fiuHwwSrrI](https://www.youtube.com/watch?v=0fiuHwwSrrI)
-* [Snutt & Jace Talk: AWESOME Shop Teaser (no microtransactions)](../../../transcriptions/yt-1UbLRZJ0-SE.md) [https://www.youtube.com/watch?v=1UbLRZJ0-SE](https://www.youtube.com/watch?v=1UbLRZJ0-SE)
 * [Snutt & Jace Talk: Tongue-twisters](../../../transcriptions/yt-GpglKeDQ9h8.md) [https://www.youtube.com/watch?v=GpglKeDQ9h8](https://www.youtube.com/watch?v=GpglKeDQ9h8)
+* [Snutt & Jace Talk: AWESOME Shop Teaser (no microtransactions)](../../../transcriptions/yt-1UbLRZJ0-SE.md) [https://www.youtube.com/watch?v=1UbLRZJ0-SE](https://www.youtube.com/watch?v=1UbLRZJ0-SE)
+* [Snutt & Jace Talk: AWESOME Shop Teaser](../../../transcriptions/yt-0fiuHwwSrrI.md) [https://www.youtube.com/watch?v=0fiuHwwSrrI](https://www.youtube.com/watch?v=0fiuHwwSrrI)
 
 ## January 20th, 2020 Video
-* [Jace Talk: Microtransactions](../../../transcriptions/yt-pTKDTJSsAm4,89.267366,136.60313333333335.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=89&end=137](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=89&end=137)
 * [Jace Talk: Shop Teaser](../../../transcriptions/yt-pTKDTJSsAm4,38.30493333333333,89.267366.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=38&end=90](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=38&end=90)
+* [Jace Talk: Microtransactions](../../../transcriptions/yt-pTKDTJSsAm4,89.267366,136.60313333333335.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=89&end=137](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=89&end=137)

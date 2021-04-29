@@ -5,7 +5,6 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Custom Component: Instanced Spline Mesh
 
 ## October 9th, 2020 Livestream
-* [Q&A: Could we get Ray Tracing?](../../../transcriptions/yt-tsUgV4Irw9I.md) [https://www.youtube.com/watch?v=tsUgV4Irw9I](https://www.youtube.com/watch?v=tsUgV4Irw9I)
 * [Dylan Talk: Instanced Splines (Part 1)](../../../transcriptions/yt-c6Qy5jzXmqM.md) [https://www.youtube.com/watch?v=c6Qy5jzXmqM](https://www.youtube.com/watch?v=c6Qy5jzXmqM)
 * [Dylan Talk: Instanced Splines (Part 2)](../../../transcriptions/yt-NM5eNwiCX0c.md) [https://www.youtube.com/watch?v=NM5eNwiCX0c](https://www.youtube.com/watch?v=NM5eNwiCX0c)
 * [Dylan Talk: Instanced Splines (Part 3)](../../../transcriptions/yt-cZgVZMk4zvM.md) [https://www.youtube.com/watch?v=cZgVZMk4zvM](https://www.youtube.com/watch?v=cZgVZMk4zvM)
@@ -21,3 +20,4 @@ date: Last Modified
 * [Dylan Talk: Instanced Splines (Part 13)](../../../transcriptions/yt-0VtsjQsFzZU.md) [https://www.youtube.com/watch?v=0VtsjQsFzZU](https://www.youtube.com/watch?v=0VtsjQsFzZU)
 * [Dylan Talk: Instanced Splines (Part 14)](../../../transcriptions/yt-wPV9uZsHLN8.md) [https://www.youtube.com/watch?v=wPV9uZsHLN8](https://www.youtube.com/watch?v=wPV9uZsHLN8)
 * [Dylan Talk: Instanced Splines (Part 15)](../../../transcriptions/yt-fJRZSb0W8mQ.md) [https://www.youtube.com/watch?v=fJRZSb0W8mQ](https://www.youtube.com/watch?v=fJRZSb0W8mQ)
+* [Q&A: Could we get Ray Tracing?](../../../transcriptions/yt-tsUgV4Irw9I.md) [https://www.youtube.com/watch?v=tsUgV4Irw9I](https://www.youtube.com/watch?v=tsUgV4Irw9I)

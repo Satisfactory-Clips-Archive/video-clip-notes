@@ -15,5 +15,5 @@ date: Last Modified
 * [Q&A: WTF, there's a Rifle in Satisfactory?](../../../transcriptions/yt-WTCjl2Tu39A.md) [https://www.youtube.com/watch?v=WTCjl2Tu39A](https://www.youtube.com/watch?v=WTCjl2Tu39A)
 
 ## May 14th, 2019 Patch Notes
-* [Jace Talk: Rifle Mk.2](../../../transcriptions/yt-aceacdNX9WA,162.126431,170.318853.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=162&end=171](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=162&end=171)
 * [Jace Talk: We've added a Rifle](../../../transcriptions/yt-aceacdNX9WA,152.279617,162.126431.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=152&end=163](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=152&end=163)
+* [Jace Talk: Rifle Mk.2](../../../transcriptions/yt-aceacdNX9WA,162.126431,170.318853.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=162&end=171](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=162&end=171)

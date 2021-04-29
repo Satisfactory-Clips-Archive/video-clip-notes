@@ -5,8 +5,8 @@ date: Last Modified
 # [Topics](../topics.md) > Localisation
 
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
-* [Q&A: How did the jokes work with the localization?](../transcriptions/yt-C0ANmAcz5Fc.md) [https://www.youtube.com/watch?v=C0ANmAcz5Fc](https://www.youtube.com/watch?v=C0ANmAcz5Fc)
 * Jace Talk: Patch Notes Closed Captions [https://www.youtube.com/watch?v=W-x2oenkmvw](https://www.youtube.com/watch?v=W-x2oenkmvw)
+* [Q&A: How did the jokes work with the localization?](../transcriptions/yt-C0ANmAcz5Fc.md) [https://www.youtube.com/watch?v=C0ANmAcz5Fc](https://www.youtube.com/watch?v=C0ANmAcz5Fc)
 
 ## March 16th, 2021 Livestream
 * Jace Talk: Localisation community [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13385&end=13496](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13385&end=13496)
@@ -28,8 +28,8 @@ date: Last Modified
 * [Snutt Talk: Localisation Update](../transcriptions/yt-olB0GBC1sZI.md) [https://www.youtube.com/watch?v=olB0GBC1sZI](https://www.youtube.com/watch?v=olB0GBC1sZI)
 
 ## February 11th, 2020 Livestream
-* [Q&A: Are the builds already translated?](../transcriptions/yt-0W8y6KDem6U.md) [https://www.youtube.com/watch?v=0W8y6KDem6U](https://www.youtube.com/watch?v=0W8y6KDem6U)
 * [Q&A: How does one help with localisation?](../transcriptions/yt-uLblaRDOX4Y.md) [https://www.youtube.com/watch?v=uLblaRDOX4Y](https://www.youtube.com/watch?v=uLblaRDOX4Y)
+* [Q&A: Are the builds already translated?](../transcriptions/yt-0W8y6KDem6U.md) [https://www.youtube.com/watch?v=0W8y6KDem6U](https://www.youtube.com/watch?v=0W8y6KDem6U)
 
 ## January 22nd, 2020 Livestream
 * [Q&A: Will you fix translations?](../transcriptions/yt-NJxOCbsJtZQ.md) [https://www.youtube.com/watch?v=NJxOCbsJtZQ](https://www.youtube.com/watch?v=NJxOCbsJtZQ)

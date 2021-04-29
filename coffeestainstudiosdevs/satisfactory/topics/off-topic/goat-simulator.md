@@ -15,8 +15,8 @@ date: Last Modified
 * [Trolling: Goat Simulator DLC](../../transcriptions/yt-yXp4YAvRZHg.md) [https://www.youtube.com/watch?v=yXp4YAvRZHg](https://www.youtube.com/watch?v=yXp4YAvRZHg)
 
 ## August 25th, 2020 Livestream
-* [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../transcriptions/yt--AjFbGOOAQI.md) [https://www.youtube.com/watch?v=-AjFbGOOAQI](https://www.youtube.com/watch?v=-AjFbGOOAQI)
 * [Q&A: Will you be able to play Doom on the Hub screens?](../../transcriptions/yt-lVjzwGuhM5I.md) [https://www.youtube.com/watch?v=lVjzwGuhM5I](https://www.youtube.com/watch?v=lVjzwGuhM5I)
+* [Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?](../../transcriptions/yt--AjFbGOOAQI.md) [https://www.youtube.com/watch?v=-AjFbGOOAQI](https://www.youtube.com/watch?v=-AjFbGOOAQI)
 
 ## August 18th, 2020 Livestream
 * Q&A: Are vehicles going to get less sketchy or are we always getting Goat Simulator physics? [https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage](https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage)
@@ -25,8 +25,8 @@ date: Last Modified
 * [Q&A: Please tell us a story about your biggest night out together?](../../transcriptions/yt-NlIVwoRqjVk,677.4434333333334,733.1324.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=677&end=734](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=677&end=734)
 
 ## February 11th, 2020 Livestream
-* [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) [https://www.youtube.com/watch?v=jFeV8JA7NXg](https://www.youtube.com/watch?v=jFeV8JA7NXg)
 * [Snutt, Markus, & G2 Talk: Unreal Engine 3 vs. Unreal Engine 4](../../transcriptions/yt-lMh52dOpyUk.md) [https://www.youtube.com/watch?v=lMh52dOpyUk](https://www.youtube.com/watch?v=lMh52dOpyUk)
+* [Snutt & Markus Talk: Adding Multiplayer to a game adds 10x the complexity](../../transcriptions/yt-jFeV8JA7NXg.md) [https://www.youtube.com/watch?v=jFeV8JA7NXg](https://www.youtube.com/watch?v=jFeV8JA7NXg)
 
 ## December 19th, 2019 Livestream
 * [Q&A: Does it mean we get Goats?](../../transcriptions/yt-RlSL5DONzns.md) [https://www.youtube.com/watch?v=RlSL5DONzns](https://www.youtube.com/watch?v=RlSL5DONzns)

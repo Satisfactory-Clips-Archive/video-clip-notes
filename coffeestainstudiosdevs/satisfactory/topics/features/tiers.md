@@ -16,8 +16,8 @@ date: Last Modified
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
 ## April 27th, 2021 Livestream
-* [Q&A: Any plans to introduce a Blender at lower tiers?](../../transcriptions/yt-6LLHUYJVqz4.md) [https://www.youtube.com/watch?v=6LLHUYJVqz4](https://www.youtube.com/watch?v=6LLHUYJVqz4)
 * [Q&A: Tier 9, any plan?](../../transcriptions/yt-qTNbKJ6Ys0M.md) [https://www.youtube.com/watch?v=qTNbKJ6Ys0M](https://www.youtube.com/watch?v=qTNbKJ6Ys0M)
+* [Q&A: Any plans to introduce a Blender at lower tiers?](../../transcriptions/yt-6LLHUYJVqz4.md) [https://www.youtube.com/watch?v=6LLHUYJVqz4](https://www.youtube.com/watch?v=6LLHUYJVqz4)
 
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Feedback from hardcore players vs. casual players](../../transcriptions/yt-7I4_CIh-ajM.md) [https://www.youtube.com/watch?v=7I4_CIh-ajM](https://www.youtube.com/watch?v=7I4_CIh-ajM)
@@ -31,23 +31,23 @@ date: Last Modified
 * [Q&A: Swap Drones with Hover Pack?](../../transcriptions/yt-E_t6aUIA5Zk.md) [https://www.youtube.com/watch?v=E_t6aUIA5Zk](https://www.youtube.com/watch?v=E_t6aUIA5Zk)
 
 ## February 16th, 2021 Livestream
-* [Q&A: Anything interesting in the analytics?](../../transcriptions/yt-BMQs1ci2YXo.md) [https://www.youtube.com/watch?v=BMQs1ci2YXo](https://www.youtube.com/watch?v=BMQs1ci2YXo)
 * [Q&A: Are you using Google Analytics for collecting data?](../../transcriptions/yt-EQHWYOsMUls.md) [https://www.youtube.com/watch?v=EQHWYOsMUls](https://www.youtube.com/watch?v=EQHWYOsMUls)
+* [Q&A: Anything interesting in the analytics?](../../transcriptions/yt-BMQs1ci2YXo.md) [https://www.youtube.com/watch?v=BMQs1ci2YXo](https://www.youtube.com/watch?v=BMQs1ci2YXo)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Update 5 new Tiers?](../../transcriptions/yt-DyXs7ps8cOY.md) [https://www.youtube.com/watch?v=DyXs7ps8cOY](https://www.youtube.com/watch?v=DyXs7ps8cOY)
 
 ## January 19th, 2021 Livestream
-* [Q&A: Will some of the AWESOME Store items be integrated into Tiers of the M.A.M.?](../../transcriptions/yt-o-rncE3S1wA.md) [https://www.youtube.com/watch?v=o-rncE3S1wA](https://www.youtube.com/watch?v=o-rncE3S1wA)
 * [Q&A: Will you be able to skip Oil Extractors and go straight for Resource Well Extractors?](../../transcriptions/yt-_MeCW-2ol-c.md) [https://www.youtube.com/watch?v=_MeCW-2ol-c](https://www.youtube.com/watch?v=_MeCW-2ol-c)
+* [Q&A: Will some of the AWESOME Store items be integrated into Tiers of the M.A.M.?](../../transcriptions/yt-o-rncE3S1wA.md) [https://www.youtube.com/watch?v=o-rncE3S1wA](https://www.youtube.com/watch?v=o-rncE3S1wA)
 
 ## December 17th, 2020 Q&A
 * [Q&A: How are you planning to balance optimisation vs. new tiers/features in the future?](../../transcriptions/yt--JXPsTlJIiI,464.29716666666667,484.58410000000003.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=464&end=485](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=464&end=485)
 
 ## December 8th, 2020 Livestream
-* [Q&A: Do you guys know what is going to be the last Tier in the game?](../../transcriptions/yt-ZOmxbDTRWmg.md) [https://www.youtube.com/watch?v=ZOmxbDTRWmg](https://www.youtube.com/watch?v=ZOmxbDTRWmg)
-* [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../transcriptions/yt-42AzC9Qk2yc.md) [https://www.youtube.com/watch?v=42AzC9Qk2yc](https://www.youtube.com/watch?v=42AzC9Qk2yc)
 * [Snutt & Jace Talk: The Wiki](../../transcriptions/yt-JGdEGbzDFlY.md) [https://www.youtube.com/watch?v=JGdEGbzDFlY](https://www.youtube.com/watch?v=JGdEGbzDFlY)
+* [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../transcriptions/yt-42AzC9Qk2yc.md) [https://www.youtube.com/watch?v=42AzC9Qk2yc](https://www.youtube.com/watch?v=42AzC9Qk2yc)
+* [Q&A: Do you guys know what is going to be the last Tier in the game?](../../transcriptions/yt-ZOmxbDTRWmg.md) [https://www.youtube.com/watch?v=ZOmxbDTRWmg](https://www.youtube.com/watch?v=ZOmxbDTRWmg)
 
 ## December 4th, 2020 Video
 * [Jace Talk: Lost Progress / Broken saves?](../../transcriptions/yt-KH5SkE4nzhg,237.3371,261.1942666666667.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=237&end=262](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=237&end=262)
@@ -63,8 +63,8 @@ date: Last Modified
 * [Q&A: Are you concerned that Dedicated Servers will cause people to move through Tiers too quickly?](../../transcriptions/yt-A2fwfnB8O4U.md) [https://www.youtube.com/watch?v=A2fwfnB8O4U](https://www.youtube.com/watch?v=A2fwfnB8O4U)
 
 ## September 22nd, 2020 Livestream
-* [Q&A: Tier 9, 10, 11, 12?](../../transcriptions/yt-NU1DLvv4zb0.md) [https://www.youtube.com/watch?v=NU1DLvv4zb0](https://www.youtube.com/watch?v=NU1DLvv4zb0)
 * [Q&A: Will there be more adjustments to progression?](../../transcriptions/yt-9hON4HpgaXU.md) [https://www.youtube.com/watch?v=9hON4HpgaXU](https://www.youtube.com/watch?v=9hON4HpgaXU)
+* [Q&A: Tier 9, 10, 11, 12?](../../transcriptions/yt-NU1DLvv4zb0.md) [https://www.youtube.com/watch?v=NU1DLvv4zb0](https://www.youtube.com/watch?v=NU1DLvv4zb0)
 
 ## September 8th, 2020 Livestream
 * [Q&A: Any more tiers in 3.5?](../../transcriptions/yt-55GiH8YwDds.md) [https://www.youtube.com/watch?v=55GiH8YwDds](https://www.youtube.com/watch?v=55GiH8YwDds)

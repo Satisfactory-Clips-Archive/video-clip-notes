@@ -16,13 +16,13 @@ date: Last Modified
 * [Q&A: When is Toilet update coming?](../../../transcriptions/yt-b7ZVKjoH7CQ.md) [https://www.youtube.com/watch?v=b7ZVKjoH7CQ](https://www.youtube.com/watch?v=b7ZVKjoH7CQ)
 
 ## February 2nd, 2021 Livestream
-* [Snutt & Jace Talk: Turning the toilet into a shrine to us](../../../transcriptions/yt-JSE233L0yRA.md) [https://www.youtube.com/watch?v=JSE233L0yRA](https://www.youtube.com/watch?v=JSE233L0yRA)
 * [Q&A: Will the Toilet flush?](../../../transcriptions/yt-ydJvaDmoy0U.md) [https://www.youtube.com/watch?v=ydJvaDmoy0U](https://www.youtube.com/watch?v=ydJvaDmoy0U)
+* [Snutt & Jace Talk: Turning the toilet into a shrine to us](../../../transcriptions/yt-JSE233L0yRA.md) [https://www.youtube.com/watch?v=JSE233L0yRA](https://www.youtube.com/watch?v=JSE233L0yRA)
 
 ## January 26th, 2021 Livestream
-* [Q&A: Please, Toilet DLC before Official DLC?](../../../transcriptions/yt-5sqgxrPlcUI.md) [https://www.youtube.com/watch?v=5sqgxrPlcUI](https://www.youtube.com/watch?v=5sqgxrPlcUI)
 * [Q&A: When will we get the toilet DLC?](../../../transcriptions/yt-AeWfPCZQZBQ.md) [https://www.youtube.com/watch?v=AeWfPCZQZBQ](https://www.youtube.com/watch?v=AeWfPCZQZBQ)
 * [Q&A: Will DLC be paid or will it be free updates?](../../../transcriptions/yt-RpmitKGrznw.md) [https://www.youtube.com/watch?v=RpmitKGrznw](https://www.youtube.com/watch?v=RpmitKGrznw)
+* [Q&A: Please, Toilet DLC before Official DLC?](../../../transcriptions/yt-5sqgxrPlcUI.md) [https://www.youtube.com/watch?v=5sqgxrPlcUI](https://www.youtube.com/watch?v=5sqgxrPlcUI)
 
 ## January 12th, 2021 Livestream
 * [Q&A: The game is not done until I can flush the toilet?](../../../transcriptions/yt-64xmTN-rhbs.md) [https://www.youtube.com/watch?v=64xmTN-rhbs](https://www.youtube.com/watch?v=64xmTN-rhbs)
@@ -35,13 +35,13 @@ date: Last Modified
 * [Q&A: Toilet Plunger for The HUB when?](../../../transcriptions/yt-1-xFJyIBosU.md) [https://www.youtube.com/watch?v=1-xFJyIBosU](https://www.youtube.com/watch?v=1-xFJyIBosU)
 
 ## November 17th, 2020 Livestream
-* [Trolling: Flushing Toilet paid DLC](../../../transcriptions/yt-7HtEV_DVbgw.md) [https://www.youtube.com/watch?v=7HtEV_DVbgw](https://www.youtube.com/watch?v=7HtEV_DVbgw)
 * [Trolling: Goat Simulator DLC](../../../transcriptions/yt-yXp4YAvRZHg.md) [https://www.youtube.com/watch?v=yXp4YAvRZHg](https://www.youtube.com/watch?v=yXp4YAvRZHg)
 * [Trolling: Rockets Expansion](../../../transcriptions/yt-QgVfu28HSwA.md) [https://www.youtube.com/watch?v=QgVfu28HSwA](https://www.youtube.com/watch?v=QgVfu28HSwA)
+* [Trolling: Flushing Toilet paid DLC](../../../transcriptions/yt-7HtEV_DVbgw.md) [https://www.youtube.com/watch?v=7HtEV_DVbgw](https://www.youtube.com/watch?v=7HtEV_DVbgw)
 
 ## November 10th, 2020 Livestream
-* [Q&A: When are we getting Toilet Flush DLC?](../../../transcriptions/yt-24KsUKR3T-4.md) [https://www.youtube.com/watch?v=24KsUKR3T-4](https://www.youtube.com/watch?v=24KsUKR3T-4)
 * [Q&A: When does the Toilet Paper DLC come out?](../../../transcriptions/yt-8S1NK72uyLE.md) [https://www.youtube.com/watch?v=8S1NK72uyLE](https://www.youtube.com/watch?v=8S1NK72uyLE)
+* [Q&A: When are we getting Toilet Flush DLC?](../../../transcriptions/yt-24KsUKR3T-4.md) [https://www.youtube.com/watch?v=24KsUKR3T-4](https://www.youtube.com/watch?v=24KsUKR3T-4)
 
 ## November 3rd, 2020 Livestream
 * [Q&A: Will there be DLCs?](../../../transcriptions/yt--f-E47s74Uw.md) [https://www.youtube.com/watch?v=-f-E47s74Uw](https://www.youtube.com/watch?v=-f-E47s74Uw)
@@ -66,8 +66,8 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Everyone knows that quality-of-life updates are part of DLCs?](../../../transcriptions/yt-3KUCZoraaBc.md) [https://www.youtube.com/watch?v=3KUCZoraaBc](https://www.youtube.com/watch?v=3KUCZoraaBc)
-* [Q&A: Like a new map for Satisfactory?](../../../transcriptions/yt-gNfCEV1J-2Q.md) [https://www.youtube.com/watch?v=gNfCEV1J-2Q](https://www.youtube.com/watch?v=gNfCEV1J-2Q)
 * [Snutt Talk: Satisfactory 1.0, and beyond](../../../transcriptions/yt-gAO072mzibQ.md) [https://www.youtube.com/watch?v=gAO072mzibQ](https://www.youtube.com/watch?v=gAO072mzibQ)
+* [Q&A: Like a new map for Satisfactory?](../../../transcriptions/yt-gNfCEV1J-2Q.md) [https://www.youtube.com/watch?v=gNfCEV1J-2Q](https://www.youtube.com/watch?v=gNfCEV1J-2Q)
 
 ## August 18th, 2020 Livestream
 * Q&A: Is 1.0 the end of the game or will it be expanded? [https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace](https://clips.twitch.tv/AmazonianWealthyCroquetteDendiFace)
@@ -85,8 +85,8 @@ date: Last Modified
 * [Q&A: Are there going to be free DLCs?](../../../transcriptions/yt-4xBmUJNdyFg.md) [https://www.youtube.com/watch?v=4xBmUJNdyFg](https://www.youtube.com/watch?v=4xBmUJNdyFg)
 
 ## January 22nd, 2020 Livestream
-* [Q&A: Microtranscation DLC?](../../../transcriptions/yt-ithVAX7EptE.md) [https://www.youtube.com/watch?v=ithVAX7EptE](https://www.youtube.com/watch?v=ithVAX7EptE)
 * [Q&A: Will there be DLC after 1.0?](../../../transcriptions/yt-FHqvzjGbhvg.md) [https://www.youtube.com/watch?v=FHqvzjGbhvg](https://www.youtube.com/watch?v=FHqvzjGbhvg)
+* [Q&A: Microtranscation DLC?](../../../transcriptions/yt-ithVAX7EptE.md) [https://www.youtube.com/watch?v=ithVAX7EptE](https://www.youtube.com/watch?v=ithVAX7EptE)
 
 ## February 20th, 2019 Livestream
 * [Q&A: What about Snow in the game's future?](../../../transcriptions/yt-CB9bSigNYH8,5186.033333333334,5200.942785.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201)

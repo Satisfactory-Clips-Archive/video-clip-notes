@@ -15,19 +15,19 @@ date: Last Modified
 * [Q&A: Where are all the new music tracks so I can listen to them?](../transcriptions/yt-YdNaQY5PFe8.md) [https://www.youtube.com/watch?v=YdNaQY5PFe8](https://www.youtube.com/watch?v=YdNaQY5PFe8)
 
 ## March 23rd, 2021 Livestream
-* [Q&A: I did not hear new music?](../transcriptions/yt-OcxqY72VPfI.md) [https://www.youtube.com/watch?v=OcxqY72VPfI](https://www.youtube.com/watch?v=OcxqY72VPfI)
 * [Q&A: Will the game Soundtrack come to Spotify soon?](../transcriptions/yt-bBS_pCVpXwY.md) [https://www.youtube.com/watch?v=bBS_pCVpXwY](https://www.youtube.com/watch?v=bBS_pCVpXwY)
+* [Q&A: I did not hear new music?](../transcriptions/yt-OcxqY72VPfI.md) [https://www.youtube.com/watch?v=OcxqY72VPfI](https://www.youtube.com/watch?v=OcxqY72VPfI)
 
 ## March 9th, 2021 Livestream
-* [Q&A: Any plans on bringing music tracks to Spotify & YouTube?](../transcriptions/yt-K-yARAF955w.md) [https://www.youtube.com/watch?v=K-yARAF955w](https://www.youtube.com/watch?v=K-yARAF955w)
 * [Q&A: Will the soundtrack be expanded before 1.0?](../transcriptions/yt-Is1WuIaWXGE.md) [https://www.youtube.com/watch?v=Is1WuIaWXGE](https://www.youtube.com/watch?v=Is1WuIaWXGE)
+* [Q&A: Any plans on bringing music tracks to Spotify & YouTube?](../transcriptions/yt-K-yARAF955w.md) [https://www.youtube.com/watch?v=K-yARAF955w](https://www.youtube.com/watch?v=K-yARAF955w)
 
 ## March 2nd, 2021 Livestream
 * [Q&A: Were you going to put the game music on Spotify?](../transcriptions/yt-Ba6lc4pqHFo.md) [https://www.youtube.com/watch?v=Ba6lc4pqHFo](https://www.youtube.com/watch?v=Ba6lc4pqHFo)
 
 ## February 23rd, 2021 Livestream
-* [Q&A: Any more music tracks coming?](../transcriptions/yt-bzqL0DGULFM.md) [https://www.youtube.com/watch?v=bzqL0DGULFM](https://www.youtube.com/watch?v=bzqL0DGULFM)
 * [Q&A: Music?](../transcriptions/yt-dpSP-189CmA.md) [https://www.youtube.com/watch?v=dpSP-189CmA](https://www.youtube.com/watch?v=dpSP-189CmA)
+* [Q&A: Any more music tracks coming?](../transcriptions/yt-bzqL0DGULFM.md) [https://www.youtube.com/watch?v=bzqL0DGULFM](https://www.youtube.com/watch?v=bzqL0DGULFM)
 
 ## January 26th, 2021 Livestream
 * [Q&A: New music theme coming?](../transcriptions/yt-3Xf0xozi8zc.md) [https://www.youtube.com/watch?v=3Xf0xozi8zc](https://www.youtube.com/watch?v=3Xf0xozi8zc)
@@ -47,9 +47,9 @@ date: Last Modified
 * [Q&A: Is the OST on Spotify?](../transcriptions/yt-iCN324N905o.md) [https://www.youtube.com/watch?v=iCN324N905o](https://www.youtube.com/watch?v=iCN324N905o)
 
 ## September 8th, 2020 Livestream
-* [Q&A: Any new additions to the music planned?](../transcriptions/yt-RKfqg8EOZgE.md) [https://www.youtube.com/watch?v=RKfqg8EOZgE](https://www.youtube.com/watch?v=RKfqg8EOZgE)
-* [Q&A: Releasing a Vinyl on the Merch Store ?](../transcriptions/yt-DeEK7w3qPyg.md) [https://www.youtube.com/watch?v=DeEK7w3qPyg](https://www.youtube.com/watch?v=DeEK7w3qPyg)
 * [Q&A: Releasing the Soundtrack on Spotify?](../transcriptions/yt-zoDYA4Y9jdE.md) [https://www.youtube.com/watch?v=zoDYA4Y9jdE](https://www.youtube.com/watch?v=zoDYA4Y9jdE)
+* [Q&A: Releasing a Vinyl on the Merch Store ?](../transcriptions/yt-DeEK7w3qPyg.md) [https://www.youtube.com/watch?v=DeEK7w3qPyg](https://www.youtube.com/watch?v=DeEK7w3qPyg)
+* [Q&A: Any new additions to the music planned?](../transcriptions/yt-RKfqg8EOZgE.md) [https://www.youtube.com/watch?v=RKfqg8EOZgE](https://www.youtube.com/watch?v=RKfqg8EOZgE)
 
 ## September 1st, 2020 Livestream
 * [Q&A: Are you considering adding more music to the game?](../transcriptions/yt-iDyPOcW0o5E.md) [https://www.youtube.com/watch?v=iDyPOcW0o5E](https://www.youtube.com/watch?v=iDyPOcW0o5E)
@@ -67,9 +67,9 @@ date: Last Modified
 * [Q&A: Are there plans to put the OST on Spotify?](../transcriptions/yt-z4cypywhIks.md) [https://www.youtube.com/watch?v=z4cypywhIks](https://www.youtube.com/watch?v=z4cypywhIks)
 
 ## February 20th, 2019 Livestream
-* [Q&A: How many music tracks are there in the game?](../transcriptions/yt-CB9bSigNYH8,3335.4333333333334,3346.242026.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3335&end=3347](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3335&end=3347)
 * [Community FYI: Yo Hannah, the map looks a m a z i n g](../transcriptions/yt-CB9bSigNYH8,2614.932671,2630.888348.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2614&end=2631](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2614&end=2631)
+* [Q&A: How many music tracks are there in the game?](../transcriptions/yt-CB9bSigNYH8,3335.4333333333334,3346.242026.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3335&end=3347](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3335&end=3347)
 
 ## September 26th, 2018 Video
-* [Jannik Talk: Four different types of Satisfactory music](../transcriptions/yt-Y7G72e0LLBg,71.42,114.46.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=71&end=115](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=71&end=115)
 * [Jannik Talk: The vision for the Satisfactory music](../transcriptions/yt-Y7G72e0LLBg,29.52,71.42.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=29&end=72](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=29&end=72)
+* [Jannik Talk: Four different types of Satisfactory music](../transcriptions/yt-Y7G72e0LLBg,71.42,114.46.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=71&end=115](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=71&end=115)

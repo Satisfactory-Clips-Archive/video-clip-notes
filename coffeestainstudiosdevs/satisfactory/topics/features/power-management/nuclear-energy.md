@@ -37,8 +37,8 @@ date: Last Modified
 * [Jace Talk: Nuclear Fuel Rod Production Line rework](../../../transcriptions/yt-KH5SkE4nzhg,175.34183333333334,202.06853333333333.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=175&end=203](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=175&end=203)
 
 ## November 10th, 2020 Livestream
-* [Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?](../../../transcriptions/yt-2SqpfMeDmcw.md) [https://www.youtube.com/watch?v=2SqpfMeDmcw](https://www.youtube.com/watch?v=2SqpfMeDmcw)
 * [Q&A: Nuclear removal when?](../../../transcriptions/yt-q-Z32Ff5_Pg.md) [https://www.youtube.com/watch?v=q-Z32Ff5_Pg](https://www.youtube.com/watch?v=q-Z32Ff5_Pg)
+* [Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?](../../../transcriptions/yt-2SqpfMeDmcw.md) [https://www.youtube.com/watch?v=2SqpfMeDmcw](https://www.youtube.com/watch?v=2SqpfMeDmcw)
 
 ## September 29th, 2020 Livestream
 * [Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil?](../../../transcriptions/yt-DYy7NpZ7qYA.md) [https://www.youtube.com/watch?v=DYy7NpZ7qYA](https://www.youtube.com/watch?v=DYy7NpZ7qYA)

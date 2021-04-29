@@ -5,9 +5,9 @@ date: Last Modified
 # [Topics](../../../../topics.md) > Features > [Buildings](../../../../topics/features/buildings.md) > [Space Elevator](../../../../topics/features/buildings/space-elevator.md) > Food Court
 
 ## April 27th, 2021 Livestream
-* [Q&A: Are we doing all this work in the game to earn a 10-piece bucket of chicken?](../../../../transcriptions/yt-LgOQ-5jwczg.md) [https://www.youtube.com/watch?v=LgOQ-5jwczg](https://www.youtube.com/watch?v=LgOQ-5jwczg)
-* [Q&A: Can you get Nuclear Pasta at the Food Court?](../../../../transcriptions/yt-n_FqVjy7epM.md) [https://www.youtube.com/watch?v=n_FqVjy7epM](https://www.youtube.com/watch?v=n_FqVjy7epM)
 * [Q&A: What is actually at the end of the Space Elevator?](../../../../transcriptions/yt-46jdMN3bb28.md) [https://www.youtube.com/watch?v=46jdMN3bb28](https://www.youtube.com/watch?v=46jdMN3bb28)
+* [Q&A: Can you get Nuclear Pasta at the Food Court?](../../../../transcriptions/yt-n_FqVjy7epM.md) [https://www.youtube.com/watch?v=n_FqVjy7epM](https://www.youtube.com/watch?v=n_FqVjy7epM)
+* [Q&A: Are we doing all this work in the game to earn a 10-piece bucket of chicken?](../../../../transcriptions/yt-LgOQ-5jwczg.md) [https://www.youtube.com/watch?v=LgOQ-5jwczg](https://www.youtube.com/watch?v=LgOQ-5jwczg)
 
 ## April 20th, 2021 Livestream
 * [Q&A: How many tiers will you need to reveal what Project Assembly is?](../../../../transcriptions/yt-YN-v2W9zwFE.md) [https://www.youtube.com/watch?v=YN-v2W9zwFE](https://www.youtube.com/watch?v=YN-v2W9zwFE)
@@ -25,8 +25,8 @@ date: Last Modified
 * [Q&A: Are we going to be able to get the Space Elevator Food Court?](../../../../transcriptions/yt-YNogQuanQlc.md) [https://www.youtube.com/watch?v=YNogQuanQlc](https://www.youtube.com/watch?v=YNogQuanQlc)
 
 ## August 25th, 2020 Livestream
-* [Q&A: Can we send the nuke waste to FICSIT?](../../../../transcriptions/yt-MmiaI_vhyI0.md) [https://www.youtube.com/watch?v=MmiaI_vhyI0](https://www.youtube.com/watch?v=MmiaI_vhyI0)
 * [Q&A: Could we order food from the Food Station, or is it like a buffet?](../../../../transcriptions/yt-aSiqmneWXcg.md) [https://www.youtube.com/watch?v=aSiqmneWXcg](https://www.youtube.com/watch?v=aSiqmneWXcg)
+* [Q&A: Can we send the nuke waste to FICSIT?](../../../../transcriptions/yt-MmiaI_vhyI0.md) [https://www.youtube.com/watch?v=MmiaI_vhyI0](https://www.youtube.com/watch?v=MmiaI_vhyI0)
 
 ## February 20th, 2019 Livestream
 * [Community FYI: The cake is a lie!](../../../../transcriptions/yt-CB9bSigNYH8,4521.066755,4531.568623.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4521&end=4532](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4521&end=4532)

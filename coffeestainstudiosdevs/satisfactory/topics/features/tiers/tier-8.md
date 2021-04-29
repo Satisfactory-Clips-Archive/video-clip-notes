@@ -37,8 +37,8 @@ date: Last Modified
 
 ## December 4th, 2020 Video
 * [Intro](../../../transcriptions/yt-KH5SkE4nzhg,,18.952266666666667.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=0&end=19](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=0&end=19)
-* [Jace Talk: Tier 8 & the change in vision for Tier 7](../../../transcriptions/yt-KH5SkE4nzhg,45.237345,77.938843.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=45&end=78](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=45&end=78)
 * [Jace Talk: When Update 4 will come out](../../../transcriptions/yt-KH5SkE4nzhg,37.2372,45.237345.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=37&end=46](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=37&end=46)
+* [Jace Talk: Tier 8 & the change in vision for Tier 7](../../../transcriptions/yt-KH5SkE4nzhg,45.237345,77.938843.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=45&end=78](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=45&end=78)
 
 ## August 25th, 2020 Livestream
 * [Q&A: ETA for Update 4](../../../transcriptions/yt-3xgs6Y-ZSe8.md) [https://www.youtube.com/watch?v=3xgs6Y-ZSe8](https://www.youtube.com/watch?v=3xgs6Y-ZSe8)
@@ -47,8 +47,8 @@ date: Last Modified
 
 ## August 18th, 2020 Livestream
 * Q&A: Tier 8 before 1.0? [https://clips.twitch.tv/AgreeableTentativeBeeCurseLit](https://clips.twitch.tv/AgreeableTentativeBeeCurseLit)
-* Q&A: What's in Tier 8? (part 1) [https://clips.twitch.tv/RelievedRelievedCroissantMingLee](https://clips.twitch.tv/RelievedRelievedCroissantMingLee)
 * Q&A: What's in Tier 8? (part 2) [https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu](https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu)
+* Q&A: What's in Tier 8? (part 1) [https://clips.twitch.tv/RelievedRelievedCroissantMingLee](https://clips.twitch.tv/RelievedRelievedCroissantMingLee)
 
 ## May 19th, 2020 Livestream
 * [Q&A: What about Tier 8?](../../../transcriptions/yt-lQC68q7s21c.md) [https://www.youtube.com/watch?v=lQC68q7s21c](https://www.youtube.com/watch?v=lQC68q7s21c)

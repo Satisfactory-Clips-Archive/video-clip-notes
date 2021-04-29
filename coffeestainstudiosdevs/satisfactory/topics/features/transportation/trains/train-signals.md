@@ -63,8 +63,8 @@ date: Last Modified
 * [Q&A: Any more info on Train Signals?](../../../../transcriptions/yt-1hTjt3er8XI.md) [https://www.youtube.com/watch?v=1hTjt3er8XI](https://www.youtube.com/watch?v=1hTjt3er8XI)
 
 ## August 25th, 2020 Livestream
-* [Q&A: Train Signals?](../../../../transcriptions/yt-WQH5cWS3s2s.md) [https://www.youtube.com/watch?v=WQH5cWS3s2s](https://www.youtube.com/watch?v=WQH5cWS3s2s)
 * [Q&A: Why do big updates at all - why not just release everything in small bites?](../../../../transcriptions/yt-qEiYxLhX3CM.md) [https://www.youtube.com/watch?v=qEiYxLhX3CM](https://www.youtube.com/watch?v=qEiYxLhX3CM)
+* [Q&A: Train Signals?](../../../../transcriptions/yt-WQH5cWS3s2s.md) [https://www.youtube.com/watch?v=WQH5cWS3s2s](https://www.youtube.com/watch?v=WQH5cWS3s2s)
 * [Q&A: Will the Train always clip?](../../../../transcriptions/yt-PY6wf7cvjgM.md) [https://www.youtube.com/watch?v=PY6wf7cvjgM](https://www.youtube.com/watch?v=PY6wf7cvjgM)
 
 ## August 18th, 2020 Livestream

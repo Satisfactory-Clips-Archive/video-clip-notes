@@ -33,15 +33,15 @@ date: Last Modified
 * [Q&A: Any news on big Crab monster?](../../../transcriptions/yt-tTXExwaqZQM.md) [https://www.youtube.com/watch?v=tTXExwaqZQM](https://www.youtube.com/watch?v=tTXExwaqZQM)
 
 ## November 3rd, 2020 Livestream
-* [Q&A: Are there going to be new Creatures?](../../../transcriptions/yt-c3jeZv_aYug.md) [https://www.youtube.com/watch?v=c3jeZv_aYug](https://www.youtube.com/watch?v=c3jeZv_aYug)
 * [Q&A: Does the Crab have a Crab?](../../../transcriptions/yt-leLtSRvC-J8.md) [https://www.youtube.com/watch?v=leLtSRvC-J8](https://www.youtube.com/watch?v=leLtSRvC-J8)
+* [Q&A: Are there going to be new Creatures?](../../../transcriptions/yt-c3jeZv_aYug.md) [https://www.youtube.com/watch?v=c3jeZv_aYug](https://www.youtube.com/watch?v=c3jeZv_aYug)
 
 ## October 20th, 2020 Livestream
 * [Q&A: Will Aliens become more diverse/actually challenging?](../../../transcriptions/yt-K7fDE5Dg570.md) [https://www.youtube.com/watch?v=K7fDE5Dg570](https://www.youtube.com/watch?v=K7fDE5Dg570)
 
 ## October 6th, 2020 Livestream
-* [Q&A: When do we get the Crab Boss?](../../../transcriptions/yt-m4PtschrKJc.md) [https://www.youtube.com/watch?v=m4PtschrKJc](https://www.youtube.com/watch?v=m4PtschrKJc)
 * [Q&A: Will the Crab Boss be flying or ground-bound?](../../../transcriptions/yt-SoejWWEwmcI.md) [https://www.youtube.com/watch?v=SoejWWEwmcI](https://www.youtube.com/watch?v=SoejWWEwmcI)
+* [Q&A: When do we get the Crab Boss?](../../../transcriptions/yt-m4PtschrKJc.md) [https://www.youtube.com/watch?v=m4PtschrKJc](https://www.youtube.com/watch?v=m4PtschrKJc)
 
 ## October 1st, 2020 Q&A
 * [Q&A: What about the giant crab in the trailer, can we get that?](../../../transcriptions/yt-rATcozDE25c,591.3240666666667,600.6.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=591&end=601](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=591&end=601)
@@ -50,17 +50,17 @@ date: Last Modified
 * [Q&A: Will there be more creatures?](../../../transcriptions/yt-Yzd466gO44M.md) [https://www.youtube.com/watch?v=Yzd466gO44M](https://www.youtube.com/watch?v=Yzd466gO44M)
 
 ## September 15th, 2020 Livestream
-* [Q&A: Are we ever going to see a new enemy type?](../../../transcriptions/yt-Kxq543wzKcY.md) [https://www.youtube.com/watch?v=Kxq543wzKcY](https://www.youtube.com/watch?v=Kxq543wzKcY)
-* [Q&A: Does the Giant Crab unlock stuff?](../../../transcriptions/yt-Dsjz5ntv9II.md) [https://www.youtube.com/watch?v=Dsjz5ntv9II](https://www.youtube.com/watch?v=Dsjz5ntv9II)
 * [Q&A: Will you add any Monsters/Bosses in the future?](../../../transcriptions/yt-D_BVMiGNvqI.md) [https://www.youtube.com/watch?v=D_BVMiGNvqI](https://www.youtube.com/watch?v=D_BVMiGNvqI)
+* [Q&A: Does the Giant Crab unlock stuff?](../../../transcriptions/yt-Dsjz5ntv9II.md) [https://www.youtube.com/watch?v=Dsjz5ntv9II](https://www.youtube.com/watch?v=Dsjz5ntv9II)
+* [Q&A: Are we ever going to see a new enemy type?](../../../transcriptions/yt-Kxq543wzKcY.md) [https://www.youtube.com/watch?v=Kxq543wzKcY](https://www.youtube.com/watch?v=Kxq543wzKcY)
 
 ## September 8th, 2020 Livestream
 * [Q&A: Will we ever see the Crab Boss?](../../../transcriptions/yt-HD54tFdoDTE.md) [https://www.youtube.com/watch?v=HD54tFdoDTE](https://www.youtube.com/watch?v=HD54tFdoDTE)
 
 ## August 25th, 2020 Livestream
 * [Q&A: New enemies / creatures?](../../../transcriptions/yt-TDbNru0heoU.md) [https://www.youtube.com/watch?v=TDbNru0heoU](https://www.youtube.com/watch?v=TDbNru0heoU)
-* [Q&A: Please make the Walking Bean stop clipping?](../../../transcriptions/yt-wTbRzvQ8ZLY.md) [https://www.youtube.com/watch?v=wTbRzvQ8ZLY](https://www.youtube.com/watch?v=wTbRzvQ8ZLY)
 * [Q&A: Will we have more monsters?](../../../transcriptions/yt-shEKhZakMxQ.md) [https://www.youtube.com/watch?v=shEKhZakMxQ](https://www.youtube.com/watch?v=shEKhZakMxQ)
+* [Q&A: Please make the Walking Bean stop clipping?](../../../transcriptions/yt-wTbRzvQ8ZLY.md) [https://www.youtube.com/watch?v=wTbRzvQ8ZLY](https://www.youtube.com/watch?v=wTbRzvQ8ZLY)
 
 ## July 28th, 2020 Livestream
 * Q&A: More Wildlife? [https://clips.twitch.tv/DirtyHilariousPancakeWow](https://clips.twitch.tv/DirtyHilariousPancakeWow)

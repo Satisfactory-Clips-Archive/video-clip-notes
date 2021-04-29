@@ -5,8 +5,8 @@ date: Last Modified
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Kibitz
 
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
-* [Snutt & Jace Talk: Outro shoutouts](../../transcriptions/yt-TxyJKaXchnc.md) [https://www.youtube.com/watch?v=TxyJKaXchnc](https://www.youtube.com/watch?v=TxyJKaXchnc)
 * [Snutt & Jace Talk: Supah Computah](../../transcriptions/yt-e19bsvCgXa4.md) [https://www.youtube.com/watch?v=e19bsvCgXa4](https://www.youtube.com/watch?v=e19bsvCgXa4)
+* [Snutt & Jace Talk: Outro shoutouts](../../transcriptions/yt-TxyJKaXchnc.md) [https://www.youtube.com/watch?v=TxyJKaXchnc](https://www.youtube.com/watch?v=TxyJKaXchnc)
 
 ## March 16th, 2021 Livestream
 * Jace Talk: Something unplanned - surprise special guest [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13544&end=13960](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13544&end=13960)

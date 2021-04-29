@@ -19,8 +19,8 @@ date: Last Modified
 
 ## January 19th, 2021 Livestream
 * [Q&A: What do Resource Wells mean for existing ways for extracting Water & Oil?](../../../transcriptions/yt-ezGse7K-fWI.md) [https://www.youtube.com/watch?v=ezGse7K-fWI](https://www.youtube.com/watch?v=ezGse7K-fWI)
-* [Q&A: Will Oil fields be affected by the Update 4 patch?](../../../transcriptions/yt-khEicU2JVzY.md) [https://www.youtube.com/watch?v=khEicU2JVzY](https://www.youtube.com/watch?v=khEicU2JVzY)
 * [Q&A: Will you be able to skip Oil Extractors and go straight for Resource Well Extractors?](../../../transcriptions/yt-_MeCW-2ol-c.md) [https://www.youtube.com/watch?v=_MeCW-2ol-c](https://www.youtube.com/watch?v=_MeCW-2ol-c)
+* [Q&A: Will Oil fields be affected by the Update 4 patch?](../../../transcriptions/yt-khEicU2JVzY.md) [https://www.youtube.com/watch?v=khEicU2JVzY](https://www.youtube.com/watch?v=khEicU2JVzY)
 
 ## January 15th, 2021 Video
 * [Resource Wells](../../../transcriptions/yt-Jxh8kvtUuxY,56.38966666666667,100.56713333333333.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=56&end=101)

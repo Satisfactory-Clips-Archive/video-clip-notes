@@ -12,13 +12,13 @@ date: Last Modified
 * [Snutt Talk: Verify game files if you have issues](../../transcriptions/yt-vuDlUdTeEMI,36.208333333333336,130.20833333333334.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=36&end=131](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=36&end=131)
 
 ## April 20th, 2021 Livestream
-* [Snutt Talk: Might be a good habit to verify game files after every update](../../transcriptions/yt-11kugJNY9ug.md) [https://www.youtube.com/watch?v=11kugJNY9ug](https://www.youtube.com/watch?v=11kugJNY9ug)
-* [Snutt Talk: Steam & Epic patch download failures causing graphical issues](../../transcriptions/yt-uNYU4_DIxtI.md) [https://www.youtube.com/watch?v=uNYU4_DIxtI](https://www.youtube.com/watch?v=uNYU4_DIxtI)
 * [State of Dev: Try verifying files if you're experiencing graphical glitches](../../transcriptions/yt-5NkjFaKNJmI.md) [https://www.youtube.com/watch?v=5NkjFaKNJmI](https://www.youtube.com/watch?v=5NkjFaKNJmI)
+* [Snutt Talk: Steam & Epic patch download failures causing graphical issues](../../transcriptions/yt-uNYU4_DIxtI.md) [https://www.youtube.com/watch?v=uNYU4_DIxtI](https://www.youtube.com/watch?v=uNYU4_DIxtI)
+* [Snutt Talk: Might be a good habit to verify game files after every update](../../transcriptions/yt-11kugJNY9ug.md) [https://www.youtube.com/watch?v=11kugJNY9ug](https://www.youtube.com/watch?v=11kugJNY9ug)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Schedule Reitereation & Store Discounts [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4236&end=4353](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4236&end=4353)
 * Snutt Talk: Verify your game files before checking the QA site [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1386&end=1445](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1386&end=1445)
+* Snutt Talk: Schedule Reitereation & Store Discounts [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4236&end=4353](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4236&end=4353)
 
 ## April 6th, 2021 Livestream
 * Q&A: How to reset the Steam/EOS Link? [https://www.youtube.com/watch?v=7H6bpfUJH84](https://www.youtube.com/watch?v=7H6bpfUJH84)
@@ -70,5 +70,5 @@ date: Last Modified
 
 ## December 12th, 2018 Q&A
 * [Community FYI: But I hate Epic! All of my games are on Steam!](../../transcriptions/yt-7V4UPiBOshY,186.1,216.28.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=186&end=217](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=186&end=217)
-* [Q&A: Did you ever give out Steam keys?](../../transcriptions/yt-7V4UPiBOshY,460.08,486.04.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=460&end=487](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=460&end=487)
 * [Q&A: Why did you leave it on Steam for so long then do a bait and switch?](../../transcriptions/yt-7V4UPiBOshY,355.96,412.48.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=355&end=413](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=355&end=413)
+* [Q&A: Did you ever give out Steam keys?](../../transcriptions/yt-7V4UPiBOshY,460.08,486.04.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=460&end=487](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=460&end=487)

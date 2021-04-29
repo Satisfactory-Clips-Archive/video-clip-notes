@@ -74,8 +74,8 @@ date: Last Modified
 * [Q&A: What is one item or equipment that some of the staff have wanted, but got canned for balancing?](../../../transcriptions/yt-NlIVwoRqjVk,1034.8338,1062.2612.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063)
 
 ## March 9th, 2019 Livestream
-* [Q&A: Can creatures in any way disrupt your factory?](../../../transcriptions/yt-R2Fms8EjhN8.md) [https://www.youtube.com/watch?v=R2Fms8EjhN8](https://www.youtube.com/watch?v=R2Fms8EjhN8)
 * [Q&A: Will there be turrets or something in the game?](../../../transcriptions/yt-xNBFywqCrxM.md) [https://www.youtube.com/watch?v=xNBFywqCrxM](https://www.youtube.com/watch?v=xNBFywqCrxM)
+* [Q&A: Can creatures in any way disrupt your factory?](../../../transcriptions/yt-R2Fms8EjhN8.md) [https://www.youtube.com/watch?v=R2Fms8EjhN8](https://www.youtube.com/watch?v=R2Fms8EjhN8)
 
 ## February 6th, 2019 Livestream
 * [Q&A: Why not turrets like Sanctum?](../../../transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640)

@@ -26,73 +26,73 @@ date: Last Modified
 * [Snutt Talk: Last week we launched Update 4 on Early Access](../transcriptions/yt-vuDlUdTeEMI,11.458333333333334,36.208333333333336.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=11&end=37](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=11&end=37)
 
 ## April 20th, 2021 Livestream
+* [State of Dev: Update 4 Launch broke our concurrent player records](../transcriptions/yt-HdPnhgBykko.md) [https://www.youtube.com/watch?v=HdPnhgBykko](https://www.youtube.com/watch?v=HdPnhgBykko)
 * [Q&A: Are you doing any marketing to drive in new players?](../transcriptions/yt-4PMdlE1TIfY.md) [https://www.youtube.com/watch?v=4PMdlE1TIfY](https://www.youtube.com/watch?v=4PMdlE1TIfY)
 * [Snutt Talk: Getting a good flow of questions today](../transcriptions/yt-Ep_4itVvlBM.md) [https://www.youtube.com/watch?v=Ep_4itVvlBM](https://www.youtube.com/watch?v=Ep_4itVvlBM)
-* [State of Dev: Update 4 Launch broke our concurrent player records](../transcriptions/yt-HdPnhgBykko.md) [https://www.youtube.com/watch?v=HdPnhgBykko](https://www.youtube.com/watch?v=HdPnhgBykko)
 
 ## April 6th, 2021 Livestream
+* [Snutt & Mark Talk: Feedback from hardcore players vs. casual players](../transcriptions/yt-7I4_CIh-ajM.md) [https://www.youtube.com/watch?v=7I4_CIh-ajM](https://www.youtube.com/watch?v=7I4_CIh-ajM)
 * [Snutt & Mark Talk: Design challenges for Satisfactory](../transcriptions/yt-Z4sORbKADjs.md) [https://www.youtube.com/watch?v=Z4sORbKADjs](https://www.youtube.com/watch?v=Z4sORbKADjs)
 * [Snutt & Mark Talk: Endgame Balancing](../transcriptions/yt-LieMqMVIOgg.md) [https://www.youtube.com/watch?v=LieMqMVIOgg](https://www.youtube.com/watch?v=LieMqMVIOgg)
-* [Snutt & Mark Talk: Feedback from hardcore players vs. casual players](../transcriptions/yt-7I4_CIh-ajM.md) [https://www.youtube.com/watch?v=7I4_CIh-ajM](https://www.youtube.com/watch?v=7I4_CIh-ajM)
 
 ## March 23rd, 2021 Livestream
-* [Q&A: Can you cover the guy who placed 178 thousand foundations?](../transcriptions/yt-zT2Lz_L4zQY.md) [https://www.youtube.com/watch?v=zT2Lz_L4zQY](https://www.youtube.com/watch?v=zT2Lz_L4zQY)
-* Community FYI: I've noticed that vehicles drive a lot better as the not-host [https://www.youtube.com/watch?v=VwU9RL_CvLg](https://www.youtube.com/watch?v=VwU9RL_CvLg)
 * [Community FYI: The game is good, I have nothing to ask](../transcriptions/yt-dO6aZKbhGpo.md) [https://www.youtube.com/watch?v=dO6aZKbhGpo](https://www.youtube.com/watch?v=dO6aZKbhGpo)
+* Community FYI: I've noticed that vehicles drive a lot better as the not-host [https://www.youtube.com/watch?v=VwU9RL_CvLg](https://www.youtube.com/watch?v=VwU9RL_CvLg)
+* [Q&A: Can you cover the guy who placed 178 thousand foundations?](../transcriptions/yt-zT2Lz_L4zQY.md) [https://www.youtube.com/watch?v=zT2Lz_L4zQY](https://www.youtube.com/watch?v=zT2Lz_L4zQY)
 * Community FYI: You will not read this [https://www.youtube.com/watch?v=XjhrmxAkuLE](https://www.youtube.com/watch?v=XjhrmxAkuLE)
 
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
-* [Snutt & Jace Talk: Community responses to the Patch Notes video](../transcriptions/yt-EoftAI2xFVg.md) [https://www.youtube.com/watch?v=EoftAI2xFVg](https://www.youtube.com/watch?v=EoftAI2xFVg)
-* [Community FYI: Cryin in the club WHAT GOOD BOYS](../transcriptions/yt-y6IBtn49nFk.md) [https://www.youtube.com/watch?v=y6IBtn49nFk](https://www.youtube.com/watch?v=y6IBtn49nFk)
-* [Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 1)](../transcriptions/yt-n2lEPQH_oIs.md) [https://www.youtube.com/watch?v=n2lEPQH_oIs](https://www.youtube.com/watch?v=n2lEPQH_oIs)
-* [Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 2)](../transcriptions/yt-Agt4D0zAe50.md) [https://www.youtube.com/watch?v=Agt4D0zAe50](https://www.youtube.com/watch?v=Agt4D0zAe50)
 * [Snutt & Jace Talk: Lights reveal](../transcriptions/yt-NvQQ8tnbqbA.md) [https://www.youtube.com/watch?v=NvQQ8tnbqbA](https://www.youtube.com/watch?v=NvQQ8tnbqbA)
+* [Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 1)](../transcriptions/yt-n2lEPQH_oIs.md) [https://www.youtube.com/watch?v=n2lEPQH_oIs](https://www.youtube.com/watch?v=n2lEPQH_oIs)
+* [Snutt & Jace Talk: Community responses to the Patch Notes video](../transcriptions/yt-EoftAI2xFVg.md) [https://www.youtube.com/watch?v=EoftAI2xFVg](https://www.youtube.com/watch?v=EoftAI2xFVg)
+* [Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 2)](../transcriptions/yt-Agt4D0zAe50.md) [https://www.youtube.com/watch?v=Agt4D0zAe50](https://www.youtube.com/watch?v=Agt4D0zAe50)
+* [Community FYI: Cryin in the club WHAT GOOD BOYS](../transcriptions/yt-y6IBtn49nFk.md) [https://www.youtube.com/watch?v=y6IBtn49nFk](https://www.youtube.com/watch?v=y6IBtn49nFk)
 * [Community FYI: Teach him Sara](../transcriptions/yt-i7yjKJB-czI.md) [https://www.youtube.com/watch?v=i7yjKJB-czI](https://www.youtube.com/watch?v=i7yjKJB-czI)
 
 ## March 16th, 2021 Livestream
-* Mod highlight part 2 Q&A: Anything you want to say before we start the modding demo? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986)
-* Mod highlight part 2 Q&A: Are there any other shout-outs or things people should know? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10273&end=10365](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10273&end=10365)
+* Community FYI: I moved to Steam chat for a higher chance of Jace reading my comment [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=478&end=490](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=478&end=490)
+* Snutt Talk: Swedish Spoilers [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5385&end=5404](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5385&end=5404)
+* Mod highlight part 2: Introductions [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9035&end=9136](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9035&end=9136)
+* Mod highlight part 2: The unofficial modding community [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9145&end=9208](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9145&end=9208)
+* Mod highlight part 2: ficsit.app [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9329&end=9420](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9329&end=9420)
+* Mod highlight part 2: some stats [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9419&end=9523](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9419&end=9523)
+* Mod highlight part 2 Q&A: What is the most installed mod? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9522&end=9563](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9522&end=9563)
+* Mod highlight part 2: More Milestones mod caused crashes for Coffee Stain [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9562&end=9597](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9562&end=9597)
+* Mod highlight part 2 Q&A: What are some of the toughest challenges to get modding where it is now? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9596&end=9784](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9596&end=9784)
+* Mod highlight part 2 Q&A: What are some of the things that modders wanted to make but couldn't? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9783&end=9833](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9783&end=9833)
 * Mod highlight part 2: Banging your head against the wall [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9969&end=10009](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9969&end=10009)
 * Mod highlight part 2: Coffee Stain helped a lot in develping unofficial mod support [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10008&end=10124](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10008&end=10124)
-* Mod highlight part 2: Crash Reporting [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10155&end=10274](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10155&end=10274)
-* Mod highlight part 2 Q&A: Do mods work in Multiplayer? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11960&end=11980](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11960&end=11980)
-* Snutt & Jace Talk: Drone Fan Art [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313)
-* Mod highlight part 2: ficsit.app [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9329&end=9420](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9329&end=9420)
-* Community FYI: I moved to Steam chat for a higher chance of Jace reading my comment [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=478&end=490](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=478&end=490)
-* Mod highlight part 2: Introductions [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9035&end=9136](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9035&end=9136)
-* Mod highlight part 2: Introductions [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11144&end=11172](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11144&end=11172)
-* Jace Talk: Localisation community [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13385&end=13496](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13385&end=13496)
-* Mod highlight part 2 - Baine jumps in to say hi, OG moderator in discord [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10614&end=10692](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10614&end=10692)
 * Mod highlight part 2: Modular build [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10123&end=10156](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10123&end=10156)
-* Mod highlight part 2: More Milestones mod caused crashes for Coffee Stain [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9562&end=9597](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9562&end=9597)
-* Mod highlight part 2: some stats [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9419&end=9523](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9419&end=9523)
-* Snutt Talk: Swedish Spoilers [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5385&end=5404](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5385&end=5404)
-* Mod highlight part 2: The unofficial modding community [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9145&end=9208](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9145&end=9208)
+* Mod highlight part 2: Crash Reporting [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10155&end=10274](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10155&end=10274)
+* Mod highlight part 2 Q&A: Are there any other shout-outs or things people should know? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10273&end=10365](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10273&end=10365)
 * Mod highlight part 2 Q&A: We broke mods with Update 4, how does the community make them work again? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560)
-* Mod highlight part 2 Q&A: What are some of the things that modders wanted to make but couldn't? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9783&end=9833](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9783&end=9833)
-* Mod highlight part 2 Q&A: What are some of the toughest challenges to get modding where it is now? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9596&end=9784](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9596&end=9784)
-* Mod highlight part 2 Q&A: What is the most installed mod? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9522&end=9563](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=9522&end=9563)
+* Mod highlight part 2 - Baine jumps in to say hi, OG moderator in discord [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10614&end=10692](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10614&end=10692)
+* Mod highlight part 2 Q&A: Anything you want to say before we start the modding demo? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986)
+* Mod highlight part 2: Introductions [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11144&end=11172](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11144&end=11172)
+* Mod highlight part 2 Q&A: Do mods work in Multiplayer? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11960&end=11980](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11960&end=11980)
+* Jace Talk: Localisation community [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13385&end=13496](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=13385&end=13496)
+* Snutt & Jace Talk: Drone Fan Art [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313)
 
 ## March 9th, 2021 Livestream
-* [Snutt & Jace Talk: Can't remember of Turbofuel has changed](../transcriptions/yt-tGsaRAqAAsk.md) [https://www.youtube.com/watch?v=tGsaRAqAAsk](https://www.youtube.com/watch?v=tGsaRAqAAsk)
-* [Snutt & Jace Talk: Community figured out the Nuclear Refinement recipes](../transcriptions/yt-b1zq4fwxmsU.md) [https://www.youtube.com/watch?v=b1zq4fwxmsU](https://www.youtube.com/watch?v=b1zq4fwxmsU)
 * [Snutt & Jace Talk: Community spotted things in the Nuclear Refinement teaser](../transcriptions/yt-0BtRlCxfxEc.md) [https://www.youtube.com/watch?v=0BtRlCxfxEc](https://www.youtube.com/watch?v=0BtRlCxfxEc)
+* [Snutt & Jace Talk: Community figured out the Nuclear Refinement recipes](../transcriptions/yt-b1zq4fwxmsU.md) [https://www.youtube.com/watch?v=b1zq4fwxmsU](https://www.youtube.com/watch?v=b1zq4fwxmsU)
 * [Q&A: What do you guys like most about working at Coffee Stain?](../transcriptions/yt-L5P4V2YcjBc.md) [https://www.youtube.com/watch?v=L5P4V2YcjBc](https://www.youtube.com/watch?v=L5P4V2YcjBc)
+* [Snutt & Jace Talk: Can't remember of Turbofuel has changed](../transcriptions/yt-tGsaRAqAAsk.md) [https://www.youtube.com/watch?v=tGsaRAqAAsk](https://www.youtube.com/watch?v=tGsaRAqAAsk)
 
 ## March 2nd, 2021 Livestream
 * [State of Stream: Still haven't finished DrawingXaos' Maze yet](../transcriptions/yt-7o4VbiEXXHM.md) [https://www.youtube.com/watch?v=7o4VbiEXXHM](https://www.youtube.com/watch?v=7o4VbiEXXHM)
-* [Q&A: Was my question about Update 4.20 the one you wouldn't read out?](../transcriptions/yt-jRGWJsQxvfg.md) [https://www.youtube.com/watch?v=jRGWJsQxvfg](https://www.youtube.com/watch?v=jRGWJsQxvfg)
 * [Q&A: Who's sent you the largest save file so far?](../transcriptions/yt-CLQoGOQqZK0.md) [https://www.youtube.com/watch?v=CLQoGOQqZK0](https://www.youtube.com/watch?v=CLQoGOQqZK0)
+* [Q&A: Was my question about Update 4.20 the one you wouldn't read out?](../transcriptions/yt-jRGWJsQxvfg.md) [https://www.youtube.com/watch?v=jRGWJsQxvfg](https://www.youtube.com/watch?v=jRGWJsQxvfg)
 
 ## February 23rd, 2021 Livestream
-* [Community FYI: It runs better for me on Linux than on Windows](../transcriptions/yt-zPkgbgA8p1k.md) [https://www.youtube.com/watch?v=zPkgbgA8p1k](https://www.youtube.com/watch?v=zPkgbgA8p1k)
 * [Snutt & Jace Talk: Twitch chat is wacky today](../transcriptions/yt-pjQPU0u5aM0.md) [https://www.youtube.com/watch?v=pjQPU0u5aM0](https://www.youtube.com/watch?v=pjQPU0u5aM0)
+* [Community FYI: It runs better for me on Linux than on Windows](../transcriptions/yt-zPkgbgA8p1k.md) [https://www.youtube.com/watch?v=zPkgbgA8p1k](https://www.youtube.com/watch?v=zPkgbgA8p1k)
 
 ## February 16th, 2021 Livestream
 * [Community FYI: Currently I'm a fan of all Coffee Stain Publishing games](../transcriptions/yt-CVej1itsGJI.md) [https://www.youtube.com/watch?v=CVej1itsGJI](https://www.youtube.com/watch?v=CVej1itsGJI)
-* [Q&A: How do you stress-test the game?](../transcriptions/yt-HKh8CsYPMvw.md) [https://www.youtube.com/watch?v=HKh8CsYPMvw](https://www.youtube.com/watch?v=HKh8CsYPMvw)
-* [Community FYI: Songs of Conquest is pretty pog](../transcriptions/yt-8EnjSSJGeBI.md) [https://www.youtube.com/watch?v=8EnjSSJGeBI](https://www.youtube.com/watch?v=8EnjSSJGeBI)
 * [Community FYI: You forgot Midnight Ghost Hunter](../transcriptions/yt-XVKnvTPSyaw.md) [https://www.youtube.com/watch?v=XVKnvTPSyaw](https://www.youtube.com/watch?v=XVKnvTPSyaw)
+* [Community FYI: Songs of Conquest is pretty pog](../transcriptions/yt-8EnjSSJGeBI.md) [https://www.youtube.com/watch?v=8EnjSSJGeBI](https://www.youtube.com/watch?v=8EnjSSJGeBI)
+* [Q&A: How do you stress-test the game?](../transcriptions/yt-HKh8CsYPMvw.md) [https://www.youtube.com/watch?v=HKh8CsYPMvw](https://www.youtube.com/watch?v=HKh8CsYPMvw)
 
 ## February 9th, 2021 Livestream
 * [Q&A: Are you tired of answering the same questions every day?](../transcriptions/yt-ZV4gjWn8uCg.md) [https://www.youtube.com/watch?v=ZV4gjWn8uCg](https://www.youtube.com/watch?v=ZV4gjWn8uCg)
@@ -101,18 +101,18 @@ date: Last Modified
 * [Q&A: Will you do YouTuber statues?](../transcriptions/yt-394eLDR3mFU.md) [https://www.youtube.com/watch?v=394eLDR3mFU](https://www.youtube.com/watch?v=394eLDR3mFU)
 
 ## January 26th, 2021 Livestream
-* [Snutt & Jace Talk: Delete the VOD](../transcriptions/yt-MhIaB4UPEP4.md) [https://www.youtube.com/watch?v=MhIaB4UPEP4](https://www.youtube.com/watch?v=MhIaB4UPEP4)
 * [Q&A: How many bugs did you fix of the ones Let's Game It Out discovered?](../transcriptions/yt-OZTQGd4ZZ_E.md) [https://www.youtube.com/watch?v=OZTQGd4ZZ_E](https://www.youtube.com/watch?v=OZTQGd4ZZ_E)
+* [Snutt & Jace Talk: Delete the VOD](../transcriptions/yt-MhIaB4UPEP4.md) [https://www.youtube.com/watch?v=MhIaB4UPEP4](https://www.youtube.com/watch?v=MhIaB4UPEP4)
 
 ## January 19th, 2021 Livestream
-* [Q&A: Any news from the Content Creator program?](../transcriptions/yt-UbRjqQgji40.md) [https://www.youtube.com/watch?v=UbRjqQgji40](https://www.youtube.com/watch?v=UbRjqQgji40)
-* [Q&A: If the community made a Snow Biome, would you add that?](../transcriptions/yt-I8rWTBGdGio.md) [https://www.youtube.com/watch?v=I8rWTBGdGio](https://www.youtube.com/watch?v=I8rWTBGdGio)
 * [Mark Talk: My day-to-day work as Game Director](../transcriptions/yt-CG0ff4zpl7k.md) [https://www.youtube.com/watch?v=CG0ff4zpl7k](https://www.youtube.com/watch?v=CG0ff4zpl7k)
+* [Q&A: If the community made a Snow Biome, would you add that?](../transcriptions/yt-I8rWTBGdGio.md) [https://www.youtube.com/watch?v=I8rWTBGdGio](https://www.youtube.com/watch?v=I8rWTBGdGio)
+* [Q&A: Any news from the Content Creator program?](../transcriptions/yt-UbRjqQgji40.md) [https://www.youtube.com/watch?v=UbRjqQgji40](https://www.youtube.com/watch?v=UbRjqQgji40)
 
 ## January 12th, 2021 Livestream
-* [Snutt & Jace Talk: Dan Harmon plays Satisfactory](../transcriptions/yt-DnHcbBr79wI.md) [https://www.youtube.com/watch?v=DnHcbBr79wI](https://www.youtube.com/watch?v=DnHcbBr79wI)
 * [Q&A: How can I help with translation- the Spanish one looks like Google Translator?](../transcriptions/yt-qbaev-b4lbQ.md) [https://www.youtube.com/watch?v=qbaev-b4lbQ](https://www.youtube.com/watch?v=qbaev-b4lbQ)
 * [Q&A: What is your favourite Mod?](../transcriptions/yt-9tdYBCwd5no.md) [https://www.youtube.com/watch?v=9tdYBCwd5no](https://www.youtube.com/watch?v=9tdYBCwd5no)
+* [Snutt & Jace Talk: Dan Harmon plays Satisfactory](../transcriptions/yt-DnHcbBr79wI.md) [https://www.youtube.com/watch?v=DnHcbBr79wI](https://www.youtube.com/watch?v=DnHcbBr79wI)
 
 ## December 17th, 2020 Q&A
 * [Q&A: Is player fatigue a concern for you? Do you see people drop off at certain points in the game?](../transcriptions/yt--JXPsTlJIiI,492.75893333333335,527.1933333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=492&end=528](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=492&end=528)
@@ -130,16 +130,16 @@ date: Last Modified
 * [Q&A: Which studio has the goofiest Community Managers?](../transcriptions/yt-crxg2tpqQSc.md) [https://www.youtube.com/watch?v=crxg2tpqQSc](https://www.youtube.com/watch?v=crxg2tpqQSc)
 
 ## November 24th, 2020 Livestream
-* [Q&A: Any chance of Simon becoming 3rd Community Manager?](../transcriptions/yt-ycNS0lA5JWc.md) [https://www.youtube.com/watch?v=ycNS0lA5JWc](https://www.youtube.com/watch?v=ycNS0lA5JWc)
-* [Q&A: Any extra info about the Content Creator post on Twitter?](../transcriptions/yt-WoxF6_gsnSE.md) [https://www.youtube.com/watch?v=WoxF6_gsnSE](https://www.youtube.com/watch?v=WoxF6_gsnSE)
 * [Q&A: Community Translation do we get paid or is it free unlike buying the game?](../transcriptions/yt-HZFZLzljSRE.md) [https://www.youtube.com/watch?v=HZFZLzljSRE](https://www.youtube.com/watch?v=HZFZLzljSRE)
+* [Q&A: Any extra info about the Content Creator post on Twitter?](../transcriptions/yt-WoxF6_gsnSE.md) [https://www.youtube.com/watch?v=WoxF6_gsnSE](https://www.youtube.com/watch?v=WoxF6_gsnSE)
 * [Q&A: What other languages are going to be added?](../transcriptions/yt-xpzqQntBUgw.md) [https://www.youtube.com/watch?v=xpzqQntBUgw](https://www.youtube.com/watch?v=xpzqQntBUgw)
 * [Q&A: Would you guys be up for doing a stream reacting to other FanForge content?](../transcriptions/yt-dRtDPajp9Qo.md) [https://www.youtube.com/watch?v=dRtDPajp9Qo](https://www.youtube.com/watch?v=dRtDPajp9Qo)
+* [Q&A: Any chance of Simon becoming 3rd Community Manager?](../transcriptions/yt-ycNS0lA5JWc.md) [https://www.youtube.com/watch?v=ycNS0lA5JWc](https://www.youtube.com/watch?v=ycNS0lA5JWc)
 
 ## November 17th, 2020 Livestream
-* [Snutt & Jace Talk: More. More. More. More. More. More. More. More. More. More. More. More. More.](../transcriptions/yt-Vo3lY0SRijI.md) [https://www.youtube.com/watch?v=Vo3lY0SRijI](https://www.youtube.com/watch?v=Vo3lY0SRijI)
-* [Trolling: New Community Manager](../transcriptions/yt-awAhXucxS-Y.md) [https://www.youtube.com/watch?v=awAhXucxS-Y](https://www.youtube.com/watch?v=awAhXucxS-Y)
 * Snutt & Jace Don't Talk: Taking suggestions from Twitter [https://www.youtube.com/watch?v=AAGE7-1paKw](https://www.youtube.com/watch?v=AAGE7-1paKw)
+* [Trolling: New Community Manager](../transcriptions/yt-awAhXucxS-Y.md) [https://www.youtube.com/watch?v=awAhXucxS-Y](https://www.youtube.com/watch?v=awAhXucxS-Y)
+* [Snutt & Jace Talk: More. More. More. More. More. More. More. More. More. More. More. More. More.](../transcriptions/yt-Vo3lY0SRijI.md) [https://www.youtube.com/watch?v=Vo3lY0SRijI](https://www.youtube.com/watch?v=Vo3lY0SRijI)
 
 ## November 10th, 2020 Livestream
 * [Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?](../transcriptions/yt-tv1pCGiRtkM.md) [https://www.youtube.com/watch?v=tv1pCGiRtkM](https://www.youtube.com/watch?v=tv1pCGiRtkM)
@@ -184,16 +184,16 @@ date: Last Modified
 * [Community FYI: I love u](../transcriptions/yt-NlIVwoRqjVk,1129.8620666666666,1134.9004333333335.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1129&end=1135](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1129&end=1135)
 
 ## February 11th, 2020 Livestream
-* [Q&A: Is this the new Desert Biome?](../transcriptions/yt-ZKHgWByn3D4.md) [https://www.youtube.com/watch?v=ZKHgWByn3D4](https://www.youtube.com/watch?v=ZKHgWByn3D4)
 * [Jace Talk: Regretting mention Pipes on the Update 3 Launch stream](../transcriptions/yt-GHbZplfp7Jc.md) [https://www.youtube.com/watch?v=GHbZplfp7Jc](https://www.youtube.com/watch?v=GHbZplfp7Jc)
-* [Snutt & Jace Talk: Semlor (Part 1)](../transcriptions/yt-gHxHTyslv7Q.md) [https://www.youtube.com/watch?v=gHxHTyslv7Q](https://www.youtube.com/watch?v=gHxHTyslv7Q)
 * [Snutt & Jace Talk: Update 3 Launch Stream](../transcriptions/yt-omrl422pdJQ.md) [https://www.youtube.com/watch?v=omrl422pdJQ](https://www.youtube.com/watch?v=omrl422pdJQ)
+* [Snutt & Jace Talk: Semlor (Part 1)](../transcriptions/yt-gHxHTyslv7Q.md) [https://www.youtube.com/watch?v=gHxHTyslv7Q](https://www.youtube.com/watch?v=gHxHTyslv7Q)
+* [Q&A: Is this the new Desert Biome?](../transcriptions/yt-ZKHgWByn3D4.md) [https://www.youtube.com/watch?v=ZKHgWByn3D4](https://www.youtube.com/watch?v=ZKHgWByn3D4)
 
 ## January 22nd, 2020 Livestream
-* [Snutt Talk: Clip stuff, it makes our life a lot easier](../transcriptions/yt-hOrDM-9lNQo.md) [https://www.youtube.com/watch?v=hOrDM-9lNQo](https://www.youtube.com/watch?v=hOrDM-9lNQo)
-* [Q&A: Do you have to wear a hat when you become CM of Coffee Stain](../transcriptions/yt-h4V2Fx6IXyI.md) [https://www.youtube.com/watch?v=h4V2Fx6IXyI](https://www.youtube.com/watch?v=h4V2Fx6IXyI)
 * [Jace Talk: The QA Site](../transcriptions/yt-eaaYqnAGK0M.md) [https://www.youtube.com/watch?v=eaaYqnAGK0M](https://www.youtube.com/watch?v=eaaYqnAGK0M)
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../transcriptions/yt-d_FZQ5KTWA0.md) [https://www.youtube.com/watch?v=d_FZQ5KTWA0](https://www.youtube.com/watch?v=d_FZQ5KTWA0)
+* [Snutt Talk: Clip stuff, it makes our life a lot easier](../transcriptions/yt-hOrDM-9lNQo.md) [https://www.youtube.com/watch?v=hOrDM-9lNQo](https://www.youtube.com/watch?v=hOrDM-9lNQo)
+* [Q&A: Do you have to wear a hat when you become CM of Coffee Stain](../transcriptions/yt-h4V2Fx6IXyI.md) [https://www.youtube.com/watch?v=h4V2Fx6IXyI](https://www.youtube.com/watch?v=h4V2Fx6IXyI)
 * [Q&A: Why two Community Managers again?](../transcriptions/yt-vr0RPVS158o.md) [https://www.youtube.com/watch?v=vr0RPVS158o](https://www.youtube.com/watch?v=vr0RPVS158o)
 
 ## January 20th, 2020 Video
@@ -222,21 +222,21 @@ date: Last Modified
 * [Kristoffer Talk: Easter Eggs & Community Feedback](../transcriptions/yt-fI7gnbG4Omk,258.52,304.52.md) [https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=258&end=305](https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=258&end=305)
 
 ## March 15th, 2019 Q&A
-* [Jace Talk: Request for Q&As on twitter](../transcriptions/yt-R0S19_caQuw,363.28,378.46.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=363&end=379](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=363&end=379)
 * [Q&A: What's the plan with Content Creators?](../transcriptions/yt-R0S19_caQuw,264.36,363.28.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=264&end=364](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=264&end=364)
+* [Jace Talk: Request for Q&As on twitter](../transcriptions/yt-R0S19_caQuw,363.28,378.46.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=363&end=379](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=363&end=379)
 
 ## February 20th, 2019 Livestream
 * [Q&A: Can you write down my name on this cave?](../transcriptions/yt-CB9bSigNYH8,3639.645239,3717.887234.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3639&end=3718](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3639&end=3718)
-* [Community FYI: Satisfied with the look of the factory in Satisfactory](../transcriptions/yt-CB9bSigNYH8,4987.2,4999.795958.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4987&end=5000](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4987&end=5000)
 * [Community FYI: The cake is a lie!](../transcriptions/yt-CB9bSigNYH8,4521.066755,4531.568623.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4521&end=4532](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4521&end=4532)
 * [Community FYI: Too many stalactites on the right side](../transcriptions/yt-CB9bSigNYH8,4629.576753,4641.290481.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4629&end=4642](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4629&end=4642)
 * [Community FYI: Trees overlapping with stalactites doesn't look good](../transcriptions/yt-CB9bSigNYH8,4652.390689,4668.073271.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4652&end=4669](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4652&end=4669)
 * [Community FYI: You skipped the part where some stick through "balcony" roof](../transcriptions/yt-CB9bSigNYH8,4707.4,4715.707868.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4707&end=4716](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4707&end=4716)
+* [Community FYI: Satisfied with the look of the factory in Satisfactory](../transcriptions/yt-CB9bSigNYH8,4987.2,4999.795958.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4987&end=5000](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4987&end=5000)
 
 ## February 6th, 2019 Livestream
 * [Q&A: Can you say my name really quickly- it would make my day?](../transcriptions/yt-Dtm6xIj-wM4,3122.633333333333,3142.742535.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3122&end=3143](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3122&end=3143)
-* [Q&A: Have the Alpha Testers done any art using Walls and Paint Guns?](../transcriptions/yt-Dtm6xIj-wM4,3984.431848,4022.49158.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023)
 * [Q&A: You are one of the rare studios to be (openly) LGBTQ-friendly, why is that so important to you?](../transcriptions/yt-Dtm6xIj-wM4,3433.002272,3481.1666666666665.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482)
+* [Q&A: Have the Alpha Testers done any art using Walls and Paint Guns?](../transcriptions/yt-Dtm6xIj-wM4,3984.431848,4022.49158.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023)
 
 ## December 12th, 2018 Q&A
 * [Jace Talk: Thanking the people who supported us](../transcriptions/yt-7V4UPiBOshY,660.88,727.28.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=660&end=728](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=660&end=728)
@@ -245,5 +245,5 @@ date: Last Modified
 * [Jannik Talk: Community Feedback](../transcriptions/yt-Y7G72e0LLBg,280.26,303.68.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=280&end=304](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=280&end=304)
 
 ## July 4th, 2018 Video
-* [Oscar Talk: Getting feedback on Satisfactory](../transcriptions/yt-vUW3pockA5Y,300.2,353.16.md) [https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=300&end=354](https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=300&end=354)
 * [Oscar Talk: Players can find things that developers wouldn't](../transcriptions/yt-vUW3pockA5Y,188.92,209.88.md) [https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=188&end=210](https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=188&end=210)
+* [Oscar Talk: Getting feedback on Satisfactory](../transcriptions/yt-vUW3pockA5Y,300.2,353.16.md) [https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=300&end=354](https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=300&end=354)

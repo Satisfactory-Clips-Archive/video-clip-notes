@@ -32,19 +32,19 @@ date: Last Modified
 * [Q&A: When exactly will Early Access launch?](../../transcriptions/yt-R0S19_caQuw,46.2,55.16.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=46&end=56](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=46&end=56)
 
 ## March 9th, 2019 Livestream
+* [Q&A: When is the official release?](../../transcriptions/yt-H0HcDZTv_ts.md) [https://www.youtube.com/watch?v=H0HcDZTv_ts](https://www.youtube.com/watch?v=H0HcDZTv_ts)
+* [Q&A: Will these streams be a regular thing during Early Access phase?](../../transcriptions/yt-uCG8_WGh9Bk.md) [https://www.youtube.com/watch?v=uCG8_WGh9Bk](https://www.youtube.com/watch?v=uCG8_WGh9Bk)
 * [Q&A: Does the timer for Epic exclusivity run when the game comes out or Early Access phase?](../../transcriptions/yt-zHYxze67E28.md) [https://www.youtube.com/watch?v=zHYxze67E28](https://www.youtube.com/watch?v=zHYxze67E28)
 * [Snutt, Simon, Jace Talk: Early Access Release](../../transcriptions/yt-RsI9XqjI0fk.md) [https://www.youtube.com/watch?v=RsI9XqjI0fk](https://www.youtube.com/watch?v=RsI9XqjI0fk)
 * [Q&A: How often will you release updates in Early Access?](../../transcriptions/yt-PBkvqmyjADM.md) [https://www.youtube.com/watch?v=PBkvqmyjADM](https://www.youtube.com/watch?v=PBkvqmyjADM)
 * [Q&A: Is the Early Access version the same version Alpha Testers have?](../../transcriptions/yt-bnUTeUn6TA4.md) [https://www.youtube.com/watch?v=bnUTeUn6TA4](https://www.youtube.com/watch?v=bnUTeUn6TA4)
 * [Q&A: Tier 4 open now?](../../transcriptions/yt-dWt4mf9am90.md) [https://www.youtube.com/watch?v=dWt4mf9am90](https://www.youtube.com/watch?v=dWt4mf9am90)
-* [Q&A: When is the official release?](../../transcriptions/yt-H0HcDZTv_ts.md) [https://www.youtube.com/watch?v=H0HcDZTv_ts](https://www.youtube.com/watch?v=H0HcDZTv_ts)
-* [Q&A: Will these streams be a regular thing during Early Access phase?](../../transcriptions/yt-uCG8_WGh9Bk.md) [https://www.youtube.com/watch?v=uCG8_WGh9Bk](https://www.youtube.com/watch?v=uCG8_WGh9Bk)
 
 ## March 7th, 2019 Q&A
-* [Q&A: Can you tell us more about Early Access?](../../transcriptions/yt-VHr4x1vNeoY,195.46,244.9.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=195&end=245](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=195&end=245)
+* [Q&A: Why Early Access?](../../transcriptions/yt-VHr4x1vNeoY,35.34,47.56.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=35&end=48](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=35&end=48)
 * [Q&A: How much will it cost?](../../transcriptions/yt-VHr4x1vNeoY,47.56,69.16.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=47&end=70](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=47&end=70)
 * [Q&A: Regional Pricing?](../../transcriptions/yt-VHr4x1vNeoY,69.16,117.14.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118)
-* [Q&A: Why Early Access?](../../transcriptions/yt-VHr4x1vNeoY,35.34,47.56.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=35&end=48](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=35&end=48)
+* [Q&A: Can you tell us more about Early Access?](../../transcriptions/yt-VHr4x1vNeoY,195.46,244.9.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=195&end=245](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=195&end=245)
 
 ## December 12th, 2018 Q&A
 * Q&A: Is there an Early Access feature on the Epic Store? [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=270&end=274](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=270&end=274)

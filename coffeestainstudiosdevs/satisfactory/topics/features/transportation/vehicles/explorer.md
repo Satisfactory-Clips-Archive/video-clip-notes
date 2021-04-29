@@ -14,5 +14,5 @@ date: Last Modified
 * [Jace Talk: New Vehicle](../../../../transcriptions/yt-aceacdNX9WA,109.18,131.402374.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=109&end=132](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=109&end=132)
 
 ## July 19th, 2018 Dev Blog
-* [Explorer](../../../../transcriptions/yt-IxoCzb2M0vQ,358.2,424.68.md) [https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=358&end=425](https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=358&end=425)
 * [Tractor](../../../../transcriptions/yt-IxoCzb2M0vQ,88.366511,130.550701.md) [https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=88&end=131](https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=88&end=131)
+* [Explorer](../../../../transcriptions/yt-IxoCzb2M0vQ,358.2,424.68.md) [https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=358&end=425](https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=358&end=425)

@@ -17,8 +17,8 @@ date: Last Modified
 * [Q&A: Mac Release / Release to other platforms?](../../transcriptions/yt-xVOvU3NVxfs.md) [https://www.youtube.com/watch?v=xVOvU3NVxfs](https://www.youtube.com/watch?v=xVOvU3NVxfs)
 
 ## August 25th, 2020 Livestream
-* [Q&A: Plans for official Linux support?](../../transcriptions/yt-vSFTo-1j-SA.md) [https://www.youtube.com/watch?v=vSFTo-1j-SA](https://www.youtube.com/watch?v=vSFTo-1j-SA)
 * [Q&A: Will Dedicated Servers be available on Linux, or Windows?](../../transcriptions/yt-4f7KWwnXhoU.md) [https://www.youtube.com/watch?v=4f7KWwnXhoU](https://www.youtube.com/watch?v=4f7KWwnXhoU)
+* [Q&A: Plans for official Linux support?](../../transcriptions/yt-vSFTo-1j-SA.md) [https://www.youtube.com/watch?v=vSFTo-1j-SA](https://www.youtube.com/watch?v=vSFTo-1j-SA)
 
 ## August 18th, 2020 Livestream
 * Q&A: Is Satisfactory affected by Epic vs. Apple? [https://clips.twitch.tv/FurryAwkwardStrawberryWoofer](https://clips.twitch.tv/FurryAwkwardStrawberryWoofer)
@@ -27,5 +27,5 @@ date: Last Modified
 * [Q&A: Are you planning to release a Linux/Mac version?](../../transcriptions/yt-NlIVwoRqjVk,142.50903333333335,211.4112.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=142&end=212](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=142&end=212)
 
 ## March 9th, 2019 Livestream
-* [Q&A: Are you adding support for Mac any time soon?](../../transcriptions/yt-XQioxcXDRqc.md) [https://www.youtube.com/watch?v=XQioxcXDRqc](https://www.youtube.com/watch?v=XQioxcXDRqc)
 * [Q&A: Is Linux support planned in the future?](../../transcriptions/yt-GR3xet5AyuE.md) [https://www.youtube.com/watch?v=GR3xet5AyuE](https://www.youtube.com/watch?v=GR3xet5AyuE)
+* [Q&A: Are you adding support for Mac any time soon?](../../transcriptions/yt-XQioxcXDRqc.md) [https://www.youtube.com/watch?v=XQioxcXDRqc](https://www.youtube.com/watch?v=XQioxcXDRqc)
