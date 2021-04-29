@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Let me personalise my character?
 https://www.youtube.com/watch?v=QyKyNbHPaHg
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: New Suit Skins?](./yt-1ekgStY-lEc.md) [https://www.youtube.com/watch?v=1ekgStY-lEc](https://www.youtube.com/watch?v=1ekgStY-lEc)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Character Customisation?](./yt-pju6G7NEuq8.md) [https://www.youtube.com/watch?v=pju6G7NEuq8](https://www.youtube.com/watch?v=pju6G7NEuq8)
 
 
 ### Topics

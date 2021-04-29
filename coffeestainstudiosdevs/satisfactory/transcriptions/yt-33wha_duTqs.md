@@ -8,12 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Boats will come?
 https://www.youtube.com/watch?v=33wha_duTqs
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as August 2020.</summary>
-
-* [August 25th, 2020 Livestream Q&A: If you add Trucks then add Boats?](./yt-A10cQzT6TpU.md) [https://www.youtube.com/watch?v=A10cQzT6TpU](https://www.youtube.com/watch?v=A10cQzT6TpU)
-* [August 25th, 2020 Livestream Q&A: We need Battleships?](./yt-VaEaP9IBe08.md) [https://www.youtube.com/watch?v=VaEaP9IBe08](https://www.youtube.com/watch?v=VaEaP9IBe08)
-</details>
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Will Satisfactory ever have boats?](./yt-LVpl0f5g6ow.md) [https://www.youtube.com/watch?v=LVpl0f5g6ow](https://www.youtube.com/watch?v=LVpl0f5g6ow)
 
 
 ### Topics

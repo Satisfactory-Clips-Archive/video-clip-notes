@@ -9,6 +9,12 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Tier 9, any plan?
 https://www.youtube.com/watch?v=qTNbKJ6Ys0M
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
+
+* [August 25th, 2020 Livestream Q&A: What is expected for Tier 9?](./yt-EAOiEQn7E5A.md) [https://www.youtube.com/watch?v=EAOiEQn7E5A](https://www.youtube.com/watch?v=EAOiEQn7E5A)
+</details>
+
 
 ### Topics
 * [Features > Tiers](../topics/features/tiers.md)

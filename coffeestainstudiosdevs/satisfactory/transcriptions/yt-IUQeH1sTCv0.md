@@ -8,6 +8,13 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Two-person buggy?
 https://www.youtube.com/watch?v=IUQeH1sTCv0
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as August 2020.</summary>
+
+* August 11th, 2020 Livestream Q&A: Two-seated vehicles (Part 1) [https://clips.twitch.tv/OilySourBeaverAMPEnergy](https://clips.twitch.tv/OilySourBeaverAMPEnergy)
+* August 11th, 2020 Livestream Q&A: Two-seated vehicles (Part 2) [https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog](https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog)
+</details>
+
 
 ### Topics
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)

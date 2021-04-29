@@ -9,6 +9,8 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Do you know why the new lights don't go through glass?
 https://www.youtube.com/watch?v=IVz3eNdOyfI
+This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: If I spam lights will my factory die?](./yt-qn4e8a4Up7g.md) [https://www.youtube.com/watch?v=qn4e8a4Up7g](https://www.youtube.com/watch?v=qn4e8a4Up7g)
+
 
 ### Topics
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)

@@ -9,7 +9,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: What's the reason behind no daisy-chaining, it looks cleaner?
 https://www.youtube.com/watch?v=tqnmQ6HMij4
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Daisy-chaining machines when?](./yt-1ouv6GGsyY0.md) [https://www.youtube.com/watch?v=1ouv6GGsyY0](https://www.youtube.com/watch?v=1ouv6GGsyY0)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Daisy-chain all building power?](./yt-y86EDzn4-bY.md) [https://www.youtube.com/watch?v=y86EDzn4-bY](https://www.youtube.com/watch?v=y86EDzn4-bY)
 
 
 ### Topics

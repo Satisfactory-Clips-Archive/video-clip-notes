@@ -11,7 +11,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Where does the Space Elevator go?
 https://www.youtube.com/watch?v=g9FlxkN5dhc
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: How many tiers will you need to reveal what Project Assembly is?](./yt-YN-v2W9zwFE.md) [https://www.youtube.com/watch?v=YN-v2W9zwFE](https://www.youtube.com/watch?v=YN-v2W9zwFE)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: What is actually at the end of the Space Elevator?](./yt-46jdMN3bb28.md) [https://www.youtube.com/watch?v=46jdMN3bb28](https://www.youtube.com/watch?v=46jdMN3bb28)
 
 
 ### Topics

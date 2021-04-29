@@ -9,7 +9,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Hoping for Base Defence?
 https://www.youtube.com/watch?v=RjFIQhJY824
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Could some Sanctum gameplay, maybe the Tower Defense part come to Satisfactory?](./yt-1UTiDPGMgRI.md) [https://www.youtube.com/watch?v=1UTiDPGMgRI](https://www.youtube.com/watch?v=1UTiDPGMgRI)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Is there combat & Base Defense required in the game?](./yt-A9GtewxqeLo.md) [https://www.youtube.com/watch?v=A9GtewxqeLo](https://www.youtube.com/watch?v=A9GtewxqeLo)
 
 
 ### Topics

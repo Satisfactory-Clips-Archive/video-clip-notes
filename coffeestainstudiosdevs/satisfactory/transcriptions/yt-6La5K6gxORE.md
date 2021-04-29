@@ -9,6 +9,12 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Why do the radial menus for Walls not distinguish between regular walls and corrugated walls?
 https://www.youtube.com/watch?v=6La5K6gxORE
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as March 2021.</summary>
+
+* [March 30th, 2021 Livestream Q&A: Can you fix the wheels when selecting walls?](./yt-9qpSJT7gl9o.md) [https://www.youtube.com/watch?v=9qpSJT7gl9o](https://www.youtube.com/watch?v=9qpSJT7gl9o)
+</details>
+
 
 ### Topics
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)

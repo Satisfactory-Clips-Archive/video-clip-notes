@@ -10,7 +10,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: What about Mk. 6 Belts?
 https://www.youtube.com/watch?v=NiBLAUCxIEs
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Mk.6 Belts?](./yt-sUed4aFcYLs.md) [https://www.youtube.com/watch?v=sUed4aFcYLs](https://www.youtube.com/watch?v=sUed4aFcYLs)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Will there ever be a belt that goes faster, like a Mk.6 one?](./yt-cnyCqL7xl6U.md) [https://www.youtube.com/watch?v=cnyCqL7xl6U](https://www.youtube.com/watch?v=cnyCqL7xl6U)
 
 
 ### Topics

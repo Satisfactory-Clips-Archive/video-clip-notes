@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Why does the Chainsaw only run on Solid Biofuel?
 https://www.youtube.com/watch?v=qJF8f6v_FNw
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Why does the Chainsaw not consume Fuel?](./yt-_MMqKE-jYTk.md) [https://www.youtube.com/watch?v=_MMqKE-jYTk](https://www.youtube.com/watch?v=_MMqKE-jYTk)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Can Chainsaw use liquid (fuel) in the future?](./yt-pxBuKCXaE6Y.md) [https://www.youtube.com/watch?v=pxBuKCXaE6Y](https://www.youtube.com/watch?v=pxBuKCXaE6Y)
 
 
 ### Topics

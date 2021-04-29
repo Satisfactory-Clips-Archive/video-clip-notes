@@ -10,11 +10,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Can we get different spawn points not linked to the Hub?
 https://www.youtube.com/watch?v=DExdQ8KOKEA
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
-
-* [September 8th, 2020 Livestream Q&A: Secondary Hub/Spawn Point ?](./yt-MjQNNzVfZTY.md) [https://www.youtube.com/watch?v=MjQNNzVfZTY](https://www.youtube.com/watch?v=MjQNNzVfZTY)
-</details>
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Any chance we'll get individual respawn points for Multiplayer?](./yt-5PcURRkz6yc.md) [https://www.youtube.com/watch?v=5PcURRkz6yc](https://www.youtube.com/watch?v=5PcURRkz6yc)
 
 
 ### Topics

@@ -9,7 +9,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Even more Biomes coming to play?
 https://www.youtube.com/watch?v=VgDl00Ycn3U
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Will we get a bigger map?](./yt-3jmL6IM3Qqk.md) [https://www.youtube.com/watch?v=3jmL6IM3Qqk](https://www.youtube.com/watch?v=3jmL6IM3Qqk)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Will you guys make a bigger map some day?](./yt-YDk5S3_5Wdg.md) [https://www.youtube.com/watch?v=YDk5S3_5Wdg](https://www.youtube.com/watch?v=YDk5S3_5Wdg)
 
 
 ### Topics

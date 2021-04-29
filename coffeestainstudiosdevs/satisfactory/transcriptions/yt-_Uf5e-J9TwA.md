@@ -9,7 +9,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Can we add Solar Power?
 https://www.youtube.com/watch?v=_Uf5e-J9TwA
-This question was possibly duplicated with a more recent answer: March 23rd, 2021 Livestream Q&A: Solar panel? [https://www.youtube.com/watch?v=pnqysWUuGhM](https://www.youtube.com/watch?v=pnqysWUuGhM)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Solar Power?](./yt-oHxP9OXQn5w.md) [https://www.youtube.com/watch?v=oHxP9OXQn5w](https://www.youtube.com/watch?v=oHxP9OXQn5w)
 
 
 ### Topics

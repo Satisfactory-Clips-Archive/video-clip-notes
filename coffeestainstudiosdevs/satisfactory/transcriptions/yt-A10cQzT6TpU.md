@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: If you add Trucks then add Boats?
 https://www.youtube.com/watch?v=A10cQzT6TpU
-This question was possibly duplicated with a more recent answer: [September 22nd, 2020 Livestream Q&A: Boats will come?](./yt-33wha_duTqs.md) [https://www.youtube.com/watch?v=33wha_duTqs](https://www.youtube.com/watch?v=33wha_duTqs)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Will Satisfactory ever have boats?](./yt-LVpl0f5g6ow.md) [https://www.youtube.com/watch?v=LVpl0f5g6ow](https://www.youtube.com/watch?v=LVpl0f5g6ow)
 
 
 ### Topics

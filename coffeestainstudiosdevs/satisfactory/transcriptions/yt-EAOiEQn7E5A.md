@@ -10,6 +10,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: What is expected for Tier 9?
 https://www.youtube.com/watch?v=EAOiEQn7E5A
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Tier 9, any plan?](./yt-qTNbKJ6Ys0M.md) [https://www.youtube.com/watch?v=qTNbKJ6Ys0M](https://www.youtube.com/watch?v=qTNbKJ6Ys0M)
+
 
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)

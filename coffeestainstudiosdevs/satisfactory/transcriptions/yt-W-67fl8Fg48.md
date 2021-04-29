@@ -10,7 +10,7 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Will the Blade Runners actually be attached to the body at some point?
 https://www.youtube.com/watch?v=W-67fl8Fg48
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: When are my Blade Runners going to stay on my character while in Hyper Tubes?](./yt-gXm3WrzRrUU.md) [https://www.youtube.com/watch?v=gXm3WrzRrUU](https://www.youtube.com/watch?v=gXm3WrzRrUU)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Are the blade runners going to fit our feet properly soon?](./yt-48-kXDDW3-0.md) [https://www.youtube.com/watch?v=48-kXDDW3-0](https://www.youtube.com/watch?v=48-kXDDW3-0)
 
 
 ### Topics

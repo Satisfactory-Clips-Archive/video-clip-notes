@@ -9,6 +9,13 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Can Chainsaw use liquid (fuel) in the future?
 https://www.youtube.com/watch?v=pxBuKCXaE6Y
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as March 2021 and as early as October 2020.</summary>
+
+* [March 30th, 2021 Livestream Q&A: Why does the Chainsaw not consume Fuel?](./yt-_MMqKE-jYTk.md) [https://www.youtube.com/watch?v=_MMqKE-jYTk](https://www.youtube.com/watch?v=_MMqKE-jYTk)
+* [October 6th, 2020 Livestream Q&A: Why does the Chainsaw only run on Solid Biofuel?](./yt-qJF8f6v_FNw.md) [https://www.youtube.com/watch?v=qJF8f6v_FNw](https://www.youtube.com/watch?v=qJF8f6v_FNw)
+</details>
+
 
 ### Topics
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)

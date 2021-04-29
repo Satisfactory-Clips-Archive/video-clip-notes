@@ -10,7 +10,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Any future combat or enemy updates to come?
 https://www.youtube.com/watch?v=MS3_LOEapI4
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be more creatures ever?](./yt-hKlILzyla-Y.md) [https://www.youtube.com/watch?v=hKlILzyla-Y](https://www.youtube.com/watch?v=hKlILzyla-Y)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Any new aliens coming?](./yt-d5A3AQG5YoE.md) [https://www.youtube.com/watch?v=d5A3AQG5YoE](https://www.youtube.com/watch?v=d5A3AQG5YoE)
 
 
 ### Topics

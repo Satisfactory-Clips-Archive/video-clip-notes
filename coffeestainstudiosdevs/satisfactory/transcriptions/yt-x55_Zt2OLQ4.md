@@ -8,7 +8,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: When will we be able to get different character customisations?
 https://www.youtube.com/watch?v=x55_Zt2OLQ4
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: New Suit Skins?](./yt-1ekgStY-lEc.md) [https://www.youtube.com/watch?v=1ekgStY-lEc](https://www.youtube.com/watch?v=1ekgStY-lEc)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Character Customisation?](./yt-pju6G7NEuq8.md) [https://www.youtube.com/watch?v=pju6G7NEuq8](https://www.youtube.com/watch?v=pju6G7NEuq8)
 
 
 ### Topics

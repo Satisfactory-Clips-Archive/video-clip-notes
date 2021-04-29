@@ -8,6 +8,15 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Solar Power?
 https://www.youtube.com/watch?v=oHxP9OXQn5w
+<details>
+<summary>This question may have been asked previously at least 4 other times, as recently as March 2021 and as early as August 2020.</summary>
+
+* March 23rd, 2021 Livestream Q&A: Solar panel? [https://www.youtube.com/watch?v=pnqysWUuGhM](https://www.youtube.com/watch?v=pnqysWUuGhM)
+* [November 17th, 2020 Livestream Q&A: Can we add Solar Power?](./yt-_Uf5e-J9TwA.md) [https://www.youtube.com/watch?v=_Uf5e-J9TwA](https://www.youtube.com/watch?v=_Uf5e-J9TwA)
+* [October 20th, 2020 Livestream Q&A: Solar Panels?](./yt-zpNZHeAOoQE.md) [https://www.youtube.com/watch?v=zpNZHeAOoQE](https://www.youtube.com/watch?v=zpNZHeAOoQE)
+* [August 25th, 2020 Livestream Q&A: Why are there no Solar Panels ?](./yt-C1XaJJmvg1M.md) [https://www.youtube.com/watch?v=C1XaJJmvg1M](https://www.youtube.com/watch?v=C1XaJJmvg1M)
+</details>
+
 
 ### Topics
 * [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)

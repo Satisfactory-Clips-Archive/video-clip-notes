@@ -9,7 +9,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Berry Farming?
 https://www.youtube.com/watch?v=2Cq3xmLN8sQ
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Farming system?](./yt-1HxhGdiIGwk.md) [https://www.youtube.com/watch?v=1HxhGdiIGwk](https://www.youtube.com/watch?v=1HxhGdiIGwk)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Farms?](./yt-kq125_HSqqE.md) [https://www.youtube.com/watch?v=kq125_HSqqE](https://www.youtube.com/watch?v=kq125_HSqqE)
 
 
 ### Topics

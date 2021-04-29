@@ -9,12 +9,11 @@ topics:
 ## Q&A: Will there be planes and helicopters?
 https://www.youtube.com/watch?v=E-c_NfjMqUM
 <details>
-<summary>This question may have been asked previously at least 15 other times, as recently as February 2021 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 14 other times, as recently as February 2021 and as early as March 2019.</summary>
 
 * [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)
 * [January 26th, 2021 Livestream Q&A: Can we expect aircraft any time?](./yt-XMIUlTU9xcU.md) [https://www.youtube.com/watch?v=XMIUlTU9xcU](https://www.youtube.com/watch?v=XMIUlTU9xcU)
 * [December 17th, 2020 Q&A: Are there any other plans for vehicles? Amphibious, air?](./yt--JXPsTlJIiI,615.0477666666667,664.8642.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=615&end=665](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=615&end=665)
-* [November 10th, 2020 Livestream Q&A: Any plans for a helicopter so we don't have to turn into spaghetti to get across the map?](./yt-l-k7qpxgpRQ.md) [https://www.youtube.com/watch?v=l-k7qpxgpRQ](https://www.youtube.com/watch?v=l-k7qpxgpRQ)
 * [November 3rd, 2020 Livestream Q&A: Will we get Flying Vehicles?](./yt-CkWtF0M2ddY.md) [https://www.youtube.com/watch?v=CkWtF0M2ddY](https://www.youtube.com/watch?v=CkWtF0M2ddY)
 * [September 29th, 2020 Livestream Q&A: Will we see air vehicles some time in the future?](./yt-qJ56jBYTtAc.md) [https://www.youtube.com/watch?v=qJ56jBYTtAc](https://www.youtube.com/watch?v=qJ56jBYTtAc)
 * [September 8th, 2020 Livestream Q&A: The game needs small Flying Vehicles to travel long distance?](./yt-i0_bbpQ_91I.md) [https://www.youtube.com/watch?v=i0_bbpQ_91I](https://www.youtube.com/watch?v=i0_bbpQ_91I)

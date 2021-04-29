@@ -9,7 +9,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Ever consider making a VR version of Satisfactory?
 https://www.youtube.com/watch?v=3s-PKymQ9QU
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: VR, when?](./yt-njMrANjFNLc.md) [https://www.youtube.com/watch?v=njMrANjFNLc](https://www.youtube.com/watch?v=njMrANjFNLc)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Any chance for a VR port?](./yt-bPmfShefJi4.md) [https://www.youtube.com/watch?v=bPmfShefJi4](https://www.youtube.com/watch?v=bPmfShefJi4)
 
 
 ### Topics

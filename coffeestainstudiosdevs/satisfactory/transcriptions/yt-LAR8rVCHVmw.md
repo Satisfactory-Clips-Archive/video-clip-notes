@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Are there plans for Character Customisation?
 https://www.youtube.com/watch?v=LAR8rVCHVmw
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: New Suit Skins?](./yt-1ekgStY-lEc.md) [https://www.youtube.com/watch?v=1ekgStY-lEc](https://www.youtube.com/watch?v=1ekgStY-lEc)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Character Customisation?](./yt-pju6G7NEuq8.md) [https://www.youtube.com/watch?v=pju6G7NEuq8](https://www.youtube.com/watch?v=pju6G7NEuq8)
 
 
 ### Topics

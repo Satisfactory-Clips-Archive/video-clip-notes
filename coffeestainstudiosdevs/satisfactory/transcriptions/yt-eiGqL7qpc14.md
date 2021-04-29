@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will there be faster Smelter/Manufacturers?
 https://www.youtube.com/watch?v=eiGqL7qpc14
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Mk.2 Factory Buildings?](./yt-Qni_FzPcx9g.md) [https://www.youtube.com/watch?v=Qni_FzPcx9g](https://www.youtube.com/watch?v=Qni_FzPcx9g)
+This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Mk.2 Buildings?](./yt-1mj3Rql5vGQ.md) [https://www.youtube.com/watch?v=1mj3Rql5vGQ](https://www.youtube.com/watch?v=1mj3Rql5vGQ)
 
 
 ### Topics
