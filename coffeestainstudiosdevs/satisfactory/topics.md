@@ -263,7 +263,6 @@ date: Last Modified
 ---
 * [Level Design Stream](./topics/level-design-stream.md)
 * [Localisation](./topics/localisation.md)
-* [Mercer Shpere](./topics/mercer-shpere.md)
 
 # [Merch](./topics/merch.md)
 
