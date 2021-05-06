@@ -9,6 +9,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## May 4th, 2021 Livestream
+* [Q&A: Is there any reason why the Spiders look like that?](../../transcriptions/yt-s4sl2h532UM.md) [https://www.youtube.com/watch?v=s4sl2h532UM](https://www.youtube.com/watch?v=s4sl2h532UM)
+* [Q&A: Will there be bigger Spiders?](../../transcriptions/yt-yYRa-PlV17k.md) [https://www.youtube.com/watch?v=yYRa-PlV17k](https://www.youtube.com/watch?v=yYRa-PlV17k)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Where are we at with putting dolphins in Satisfactory?](../../transcriptions/yt-1rwQGZh9NVU.md) [https://www.youtube.com/watch?v=1rwQGZh9NVU](https://www.youtube.com/watch?v=1rwQGZh9NVU)
 

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Terrible Jokes
 
+## May 4th, 2021 Livestream
+* [Q&A: What do you use to make models?](../../transcriptions/yt-pZFmSr5jTAk.md) [https://www.youtube.com/watch?v=pZFmSr5jTAk](https://www.youtube.com/watch?v=pZFmSr5jTAk)
+* Q&A: Were the Paint Gun textures made in Paint? [https://www.youtube.com/watch?v=3A1v13ZMLZc](https://www.youtube.com/watch?v=3A1v13ZMLZc)
+
 ## March 23rd, 2021 Livestream
 * [Community FYI: It's a pun-ishable offence](../../transcriptions/yt--WX0_-KKIIo.md) [https://www.youtube.com/watch?v=-WX0_-KKIIo](https://www.youtube.com/watch?v=-WX0_-KKIIo)
 

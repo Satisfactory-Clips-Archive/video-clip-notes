@@ -1,0 +1,21 @@
+---
+title: "May 4th, 2021 Livestream Q&A: Do you like the Story so far?"
+date: "2021-05-04"
+layout: transcript
+topics:
+    - "coffee-stainers/snutt"
+    - "satisfactory-updates/satisfactory-prototypes"
+    - "story-lore"
+---
+# [May 4th, 2021 Livestream](../2021-05-04.md)
+## Q&A: Do you like the Story so far?
+https://www.youtube.com/watch?v=2I9bRbAag6Q
+
+### Topics
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
+* [Story & Lore](../topics/story-lore.md)
+
+### Transcript
+
+> do you like the story so far i haven't seen it so i don't know i've only seen the uh the abstract the synopsis for it but i don't know how it's gonna play out that's something that we're prototyping currently

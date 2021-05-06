@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## May 4th, 2021 Livestream
+* [Q&A: Will backpacks be added to the game later?](../../../transcriptions/yt-Plp6VuXxdgc.md) [https://www.youtube.com/watch?v=Plp6VuXxdgc](https://www.youtube.com/watch?v=Plp6VuXxdgc)
+* [Q&A: Will you have an option to change the container max size?](../../../transcriptions/yt-KSP1Zs560Rs.md) [https://www.youtube.com/watch?v=KSP1Zs560Rs](https://www.youtube.com/watch?v=KSP1Zs560Rs)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Will there be an option to limit the capacity of Freight Cars, Vehicles, and other Storages?](../../../transcriptions/yt-pzQu_zUweOI.md) [https://www.youtube.com/watch?v=pzQu_zUweOI](https://www.youtube.com/watch?v=pzQu_zUweOI)
 * [Q&A: Being able to pick up the orange Storage boxes and move them would be nice?](../../../transcriptions/yt-2r7-Vfzg2FM.md) [https://www.youtube.com/watch?v=2r7-Vfzg2FM](https://www.youtube.com/watch?v=2r7-Vfzg2FM)

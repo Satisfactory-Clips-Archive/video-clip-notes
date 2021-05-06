@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## May 4th, 2021 Livestream
+* [Q&A: Will Train Signals come in Update 5?](../../../../transcriptions/yt-A9o2zd2uN80.md) [https://www.youtube.com/watch?v=A9o2zd2uN80](https://www.youtube.com/watch?v=A9o2zd2uN80)
+* [Q&A: Will Trains get an Update?](../../../../transcriptions/yt-hXmvgEpyDdY.md) [https://www.youtube.com/watch?v=hXmvgEpyDdY](https://www.youtube.com/watch?v=hXmvgEpyDdY)
+
 ## April 27th, 2021 Livestream
 * [Snutt Talk: Train Signals](../../../../transcriptions/yt-VzFUp1wDYMM.md) [https://www.youtube.com/watch?v=VzFUp1wDYMM](https://www.youtube.com/watch?v=VzFUp1wDYMM)
 

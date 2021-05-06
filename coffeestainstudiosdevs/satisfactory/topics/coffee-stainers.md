@@ -33,6 +33,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## May 4th, 2021 Livestream
+* [Q&A: Is Hannah the only one working on the Story?](../transcriptions/yt-j0wtwJ9ZWI8.md) [https://www.youtube.com/watch?v=j0wtwJ9ZWI8](https://www.youtube.com/watch?v=j0wtwJ9ZWI8)
+
 ## April 27th, 2021 Livestream
 * [Snutt Talk: Swedish vacations](../transcriptions/yt-kovWhVSuVhg.md) [https://www.youtube.com/watch?v=kovWhVSuVhg](https://www.youtube.com/watch?v=kovWhVSuVhg)
 * [State of Dev: Update 5](../transcriptions/yt-6HuXkOLqZN8.md) [https://www.youtube.com/watch?v=6HuXkOLqZN8](https://www.youtube.com/watch?v=6HuXkOLqZN8)

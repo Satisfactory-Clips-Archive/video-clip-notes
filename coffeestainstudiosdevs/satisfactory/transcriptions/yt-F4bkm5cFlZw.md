@@ -8,12 +8,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: When will the Soundtrack be available?
 https://www.youtube.com/watch?v=F4bkm5cFlZw
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as May 2020 and as early as March 2020.</summary>
-
-* [May 19th, 2020 Livestream Q&A: Will there be a Soundtrack release?](./yt-XswfSsanpDo.md) [https://www.youtube.com/watch?v=XswfSsanpDo](https://www.youtube.com/watch?v=XswfSsanpDo)
-* [March 24th, 2020 Livestream Q&A: Will we be able to download & buy the amazing soundtrack?](./yt-yLgW2QiPT70.md) [https://www.youtube.com/watch?v=yLgW2QiPT70](https://www.youtube.com/watch?v=yLgW2QiPT70)
-</details>
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Where can we get the Soundtrack?](./yt-Qu6R2XZ2On0.md) [https://www.youtube.com/watch?v=Qu6R2XZ2On0](https://www.youtube.com/watch?v=Qu6R2XZ2On0)
 
 
 ### Topics

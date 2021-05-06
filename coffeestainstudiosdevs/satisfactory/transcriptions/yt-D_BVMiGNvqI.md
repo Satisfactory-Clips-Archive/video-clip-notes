@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will you add any Monsters/Bosses in the future?
 https://www.youtube.com/watch?v=D_BVMiGNvqI
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Any new aliens coming?](./yt-d5A3AQG5YoE.md) [https://www.youtube.com/watch?v=d5A3AQG5YoE](https://www.youtube.com/watch?v=d5A3AQG5YoE)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Plans to add new mobs?](./yt-l7vpFCb_aeo.md) [https://www.youtube.com/watch?v=l7vpFCb_aeo](https://www.youtube.com/watch?v=l7vpFCb_aeo)
 
 
 ### Topics

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## May 4th, 2021 Livestream
+* [Q&A: Any ideas on new Wall types, doors, windows, Foundations etc.?](../../../transcriptions/yt-EjDWJ7WXkC8.md) [https://www.youtube.com/watch?v=EjDWJ7WXkC8](https://www.youtube.com/watch?v=EjDWJ7WXkC8)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Why do the radial menus for Walls not distinguish between regular walls and corrugated walls?](../../../transcriptions/yt-6La5K6gxORE.md) [https://www.youtube.com/watch?v=6La5K6gxORE](https://www.youtube.com/watch?v=6La5K6gxORE)
 * [Q&A: Any news on ramp fences?](../../../transcriptions/yt-F4RJIokIzlY.md) [https://www.youtube.com/watch?v=F4RJIokIzlY](https://www.youtube.com/watch?v=F4RJIokIzlY)

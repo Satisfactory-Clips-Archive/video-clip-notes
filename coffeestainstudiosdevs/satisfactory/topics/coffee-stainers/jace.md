@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## May 4th, 2021 Livestream
+* [Q&A: Update on Cup Merch?](../../transcriptions/yt-EwycHQo44KE.md) [https://www.youtube.com/watch?v=EwycHQo44KE](https://www.youtube.com/watch?v=EwycHQo44KE)
+* [Q&A: EA game reward, Jace & Snutt poster in the HUB?](../../transcriptions/yt-sSUNc_iHBWc.md) [https://www.youtube.com/watch?v=sSUNc_iHBWc](https://www.youtube.com/watch?v=sSUNc_iHBWc)
+* [Q&A: When is Jace coming back?](../../transcriptions/yt-P5mLMN5fdg8.md) [https://www.youtube.com/watch?v=P5mLMN5fdg8](https://www.youtube.com/watch?v=P5mLMN5fdg8)
+
 ## April 27th, 2021 Livestream
 * [Snutt Talk: Swedish vacations](../../transcriptions/yt-kovWhVSuVhg.md) [https://www.youtube.com/watch?v=kovWhVSuVhg](https://www.youtube.com/watch?v=kovWhVSuVhg)
 * [Snutt Talk: Everyone asks where is Jace?](../../transcriptions/yt-D5gMEGe3ce0.md) [https://www.youtube.com/watch?v=D5gMEGe3ce0](https://www.youtube.com/watch?v=D5gMEGe3ce0)

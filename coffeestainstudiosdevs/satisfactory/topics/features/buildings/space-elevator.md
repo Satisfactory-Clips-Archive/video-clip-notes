@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## May 4th, 2021 Livestream
+* Q&A: Why is it a hard no on Planes when we're making Propulsion Engines? [https://www.youtube.com/watch?v=WqLo_thlV88](https://www.youtube.com/watch?v=WqLo_thlV88)
+
 ## April 27th, 2021 Livestream
 * [Q&A: What is actually at the end of the Space Elevator?](../../../transcriptions/yt-46jdMN3bb28.md) [https://www.youtube.com/watch?v=46jdMN3bb28](https://www.youtube.com/watch?v=46jdMN3bb28)
 

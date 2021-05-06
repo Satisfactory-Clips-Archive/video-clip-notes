@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
+## May 4th, 2021 Livestream
+* [Q&A: Plans to add Solar?](../../../transcriptions/yt-wrFOCRX7hDY.md) [https://www.youtube.com/watch?v=wrFOCRX7hDY](https://www.youtube.com/watch?v=wrFOCRX7hDY)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Solar Power?](../../../transcriptions/yt-oHxP9OXQn5w.md) [https://www.youtube.com/watch?v=oHxP9OXQn5w](https://www.youtube.com/watch?v=oHxP9OXQn5w)
 * [Snutt Talk: We don't want any type of maintenance in the game](../../../transcriptions/yt-Cms8R0fV8s4.md) [https://www.youtube.com/watch?v=Cms8R0fV8s4](https://www.youtube.com/watch?v=Cms8R0fV8s4)

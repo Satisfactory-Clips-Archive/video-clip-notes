@@ -8,7 +8,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Are there any plans of adding Keanu Reeves to Satisfactory?
 https://www.youtube.com/watch?v=Qonz6WXDEeM
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Any NPCs in the game?](./yt-z-DgcRCy3so.md) [https://www.youtube.com/watch?v=z-DgcRCy3so](https://www.youtube.com/watch?v=z-DgcRCy3so)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Any thoughts about having NPCs?](./yt-w3aiQMS3xBA.md) [https://www.youtube.com/watch?v=w3aiQMS3xBA](https://www.youtube.com/watch?v=w3aiQMS3xBA)
 
 
 ### Topics

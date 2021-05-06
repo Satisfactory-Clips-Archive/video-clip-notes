@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 8
 
+## May 4th, 2021 Livestream
+* [Q&A: Is the Golden Cup only a reward in EA, or will there be a final release as well?](../../../transcriptions/yt-T38Lc3xS3BE.md) [https://www.youtube.com/watch?v=T38Lc3xS3BE](https://www.youtube.com/watch?v=T38Lc3xS3BE)
+* [Q&A: Recipes subject to change again?](../../../transcriptions/yt-XY3ul4kOff4.md) [https://www.youtube.com/watch?v=XY3ul4kOff4](https://www.youtube.com/watch?v=XY3ul4kOff4)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Space Elevator says that Tier 8 is the final Tier of Early Access, what does this mean?](../../../transcriptions/yt-pUhUMOrlae4.md) [https://www.youtube.com/watch?v=pUhUMOrlae4](https://www.youtube.com/watch?v=pUhUMOrlae4)
 

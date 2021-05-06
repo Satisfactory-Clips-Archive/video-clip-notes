@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## May 4th, 2021 Livestream
+* [State of Dev: Connectivity Issues](../../transcriptions/yt-varBpNnpo7U.md) [https://www.youtube.com/watch?v=varBpNnpo7U](https://www.youtube.com/watch?v=varBpNnpo7U)
+* [State of Dev: Working on Update 5](../../transcriptions/yt-kp2pVEkljB4.md) [https://www.youtube.com/watch?v=kp2pVEkljB4](https://www.youtube.com/watch?v=kp2pVEkljB4)
+* [Q&A: Any news about fix for Multiplayer, issues where some players cannot join?](../../transcriptions/yt-aha078sVwGI.md) [https://www.youtube.com/watch?v=aha078sVwGI](https://www.youtube.com/watch?v=aha078sVwGI)
+
 ## April 27th, 2021 Livestream
 * [Q&A: What gameplay stats/information do you wish you had more visibility on?](../../transcriptions/yt-LNtVgVEpOaw.md) [https://www.youtube.com/watch?v=LNtVgVEpOaw](https://www.youtube.com/watch?v=LNtVgVEpOaw)
 

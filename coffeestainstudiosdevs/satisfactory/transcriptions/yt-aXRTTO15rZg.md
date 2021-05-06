@@ -3,7 +3,7 @@ title: "April 27th, 2021 Livestream State of Dev: Cheatcrete"
 date: "2021-04-27"
 layout: transcript
 topics:
-    - "features/buildables/foundations"
+    - "features/buildables/foundations/cheatcrete"
     - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/state-of-dev"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=aXRTTO15rZg
 
 ### Topics
-* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Buildables > Foundations > Cheatcrete](../topics/features/buildables/foundations/cheatcrete.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 

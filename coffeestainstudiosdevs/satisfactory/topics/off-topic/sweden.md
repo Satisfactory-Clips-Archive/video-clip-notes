@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## May 4th, 2021 Livestream
+* [Q&A: When is Jace coming back?](../../transcriptions/yt-P5mLMN5fdg8.md) [https://www.youtube.com/watch?v=P5mLMN5fdg8](https://www.youtube.com/watch?v=P5mLMN5fdg8)
+
 ## April 27th, 2021 Livestream
 * [Snutt Talk: Swedish vacations](../../transcriptions/yt-kovWhVSuVhg.md) [https://www.youtube.com/watch?v=kovWhVSuVhg](https://www.youtube.com/watch?v=kovWhVSuVhg)
 * [Community Highlights: 3pm Swedish Fika](../../transcriptions/yt-vBXqwkho_ck.md) [https://www.youtube.com/watch?v=vBXqwkho_ck](https://www.youtube.com/watch?v=vBXqwkho_ck)

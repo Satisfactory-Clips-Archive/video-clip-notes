@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio
 
+## May 4th, 2021 Livestream
+* [Q&A: Is Satisfactory inspired by Factorio?](../../transcriptions/yt-WdgSK2Le_eQ.md) [https://www.youtube.com/watch?v=WdgSK2Le_eQ](https://www.youtube.com/watch?v=WdgSK2Le_eQ)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Have you considered logic networks?](../../transcriptions/yt-we87JUG_GTw.md) [https://www.youtube.com/watch?v=we87JUG_GTw](https://www.youtube.com/watch?v=we87JUG_GTw)
 

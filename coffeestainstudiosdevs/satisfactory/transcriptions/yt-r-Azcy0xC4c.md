@@ -9,7 +9,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Please take a look at the Doggo farm
 https://www.youtube.com/watch?v=r-Azcy0xC4c
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Will we be able to breed the Doggos?](./yt-fdoiF6pPF1M.md) [https://www.youtube.com/watch?v=fdoiF6pPF1M](https://www.youtube.com/watch?v=fdoiF6pPF1M)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Can we breed the Doggos?](./yt-NwCEYPgIhNs.md) [https://www.youtube.com/watch?v=NwCEYPgIhNs](https://www.youtube.com/watch?v=NwCEYPgIhNs)
 
 
 ### Topics

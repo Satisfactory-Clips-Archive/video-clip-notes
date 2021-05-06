@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## May 4th, 2021 Livestream
+* [State of Dev: How Early Access impacts Development vs. Bug Fixing](../../transcriptions/yt-geMjC76veHc.md) [https://www.youtube.com/watch?v=geMjC76veHc](https://www.youtube.com/watch?v=geMjC76veHc)
+* [Snutt Talk: Tree regrowth bugs](../../transcriptions/yt-jr12dLcIW78.md) [https://www.youtube.com/watch?v=jr12dLcIW78](https://www.youtube.com/watch?v=jr12dLcIW78)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Are mushrooms going to regrow?](../../transcriptions/yt-QKmEWdHZSyg.md) [https://www.youtube.com/watch?v=QKmEWdHZSyg](https://www.youtube.com/watch?v=QKmEWdHZSyg)
 

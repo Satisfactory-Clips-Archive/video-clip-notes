@@ -13,6 +13,13 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## May 4th, 2021 Livestream
+* Snutt Talk: QA Site bug report - Gas Masks in vehicles [https://www.youtube.com/watch?v=JZ0ePy8UvWU](https://www.youtube.com/watch?v=JZ0ePy8UvWU)
+* [Snutt Talk: Issues with the Resource Scanner](../../transcriptions/yt-8Lbyna2HHfc.md) [https://www.youtube.com/watch?v=8Lbyna2HHfc](https://www.youtube.com/watch?v=8Lbyna2HHfc)
+* [Q&A: It would be cool if there was a hand equipment slot, you could put a light there?](../../transcriptions/yt-b6mQ0qUrMX4.md) [https://www.youtube.com/watch?v=b6mQ0qUrMX4](https://www.youtube.com/watch?v=b6mQ0qUrMX4)
+* [Q&A: Pick up Lizard Doggo as a feature?](../../transcriptions/yt-laV5SyI3MXg.md) [https://www.youtube.com/watch?v=laV5SyI3MXg](https://www.youtube.com/watch?v=laV5SyI3MXg)
+* [Q&A: Any chance for a rocket launcher?](../../transcriptions/yt-Y3SXMv4Jhs0.md) [https://www.youtube.com/watch?v=Y3SXMv4Jhs0](https://www.youtube.com/watch?v=Y3SXMv4Jhs0)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Can I add a glider for jumping down stuff?](../../transcriptions/yt-i8j5U47-pcw.md) [https://www.youtube.com/watch?v=i8j5U47-pcw](https://www.youtube.com/watch?v=i8j5U47-pcw)
 

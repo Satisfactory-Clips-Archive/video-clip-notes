@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## May 4th, 2021 Livestream
+* [State of Dev: mid-stream reiteration](../../../transcriptions/yt-PdewBPMQ2jk.md) [https://www.youtube.com/watch?v=PdewBPMQ2jk](https://www.youtube.com/watch?v=PdewBPMQ2jk)
+* [Q&A: Can we use beds to sleep overnight?](../../../transcriptions/yt-84Mwit3dmQk.md) [https://www.youtube.com/watch?v=84Mwit3dmQk](https://www.youtube.com/watch?v=84Mwit3dmQk)
+* [Q&A: Recipes subject to change again?](../../../transcriptions/yt-XY3ul4kOff4.md) [https://www.youtube.com/watch?v=XY3ul4kOff4](https://www.youtube.com/watch?v=XY3ul4kOff4)
+* [Q&A: Why is the UI size after update different than fresh installation?](../../../transcriptions/yt-7ICllu99lPI.md) [https://www.youtube.com/watch?v=7ICllu99lPI](https://www.youtube.com/watch?v=7ICllu99lPI)
+* [Snutt Talk: There's new music in the game already](../../../transcriptions/yt-mnOism9M7Us.md) [https://www.youtube.com/watch?v=mnOism9M7Us](https://www.youtube.com/watch?v=mnOism9M7Us)
+
 ## April 27th, 2021 Livestream
 * [State of Dev: Cheatcrete](../../../transcriptions/yt-aXRTTO15rZg.md) [https://www.youtube.com/watch?v=aXRTTO15rZg](https://www.youtube.com/watch?v=aXRTTO15rZg)
 * [Q&A: Can you tell us what Power change content were taken out of Update 4?](../../../transcriptions/yt-8HYOz7X16FU.md) [https://www.youtube.com/watch?v=8HYOz7X16FU](https://www.youtube.com/watch?v=8HYOz7X16FU)

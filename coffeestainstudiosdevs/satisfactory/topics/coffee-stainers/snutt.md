@@ -3,6 +3,14 @@ title: "Snutt"
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
+* [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
+
+## May 4th, 2021 Livestream
+* [Snutt Talk: QA Site feature request - Holstering](../../transcriptions/yt-UkF4FbtbplM.md) [https://www.youtube.com/watch?v=UkF4FbtbplM](https://www.youtube.com/watch?v=UkF4FbtbplM)
+* [Q&A: Did you eat your PB&J?](../../transcriptions/yt-gWHsFxVkY3k.md) [https://www.youtube.com/watch?v=gWHsFxVkY3k](https://www.youtube.com/watch?v=gWHsFxVkY3k)
+* [Q&A: EA game reward, Jace & Snutt poster in the HUB?](../../transcriptions/yt-sSUNc_iHBWc.md) [https://www.youtube.com/watch?v=sSUNc_iHBWc](https://www.youtube.com/watch?v=sSUNc_iHBWc)
+* [Q&A: Do you like the Story so far?](../../transcriptions/yt-2I9bRbAag6Q.md) [https://www.youtube.com/watch?v=2I9bRbAag6Q](https://www.youtube.com/watch?v=2I9bRbAag6Q)
+* [Q&A: You have to answer everything like 8 times?](../../transcriptions/yt-Ak3zLYWXuDk.md) [https://www.youtube.com/watch?v=Ak3zLYWXuDk](https://www.youtube.com/watch?v=Ak3zLYWXuDk)
 
 ## April 27th, 2021 Livestream
 * [Snutt Talk: Walking off-camera](../../transcriptions/yt-iSC5ytokwzw.md) [https://www.youtube.com/watch?v=iSC5ytokwzw](https://www.youtube.com/watch?v=iSC5ytokwzw)
@@ -10,11 +18,9 @@ date: Last Modified
 * [Snutt Talk: PSA "Things I Wish I Had Learned Before I Turned 30"](../../transcriptions/yt-qLSKN_Fp6ps.md) [https://www.youtube.com/watch?v=qLSKN_Fp6ps](https://www.youtube.com/watch?v=qLSKN_Fp6ps)
 * [Q&A: Will you stream your gameplay?](../../transcriptions/yt-Fu1oJLSiJo0.md) [https://www.youtube.com/watch?v=Fu1oJLSiJo0](https://www.youtube.com/watch?v=Fu1oJLSiJo0)
 * [Q&A: Why don't you try to make a Mod?](../../transcriptions/yt-fWjnJ3MU1rw.md) [https://www.youtube.com/watch?v=fWjnJ3MU1rw](https://www.youtube.com/watch?v=fWjnJ3MU1rw)
-* [Q&A: Snutt is going to have Doggo Burgers tonight?](../../transcriptions/yt-TqSWRAch-Yg.md) [https://www.youtube.com/watch?v=TqSWRAch-Yg](https://www.youtube.com/watch?v=TqSWRAch-Yg)
 
 ## April 20th, 2021 Livestream
 * [Snutt Talk: I did trim my beard](../../transcriptions/yt-mLeFpMjkIBw.md) [https://www.youtube.com/watch?v=mLeFpMjkIBw](https://www.youtube.com/watch?v=mLeFpMjkIBw)
-* [Q&A: How's the burger?](../../transcriptions/yt-5VNbStRGin8.md) [https://www.youtube.com/watch?v=5VNbStRGin8](https://www.youtube.com/watch?v=5VNbStRGin8)
 
 ## April 13th, 2021 Livestream
 * Snutt Talk: Snutt's Beard & Beanie [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=775&end=828](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=775&end=828)

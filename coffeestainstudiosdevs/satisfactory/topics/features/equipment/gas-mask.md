@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Gas Mask
 
+## May 4th, 2021 Livestream
+* Snutt Talk: QA Site bug report - Gas Masks in vehicles [https://www.youtube.com/watch?v=JZ0ePy8UvWU](https://www.youtube.com/watch?v=JZ0ePy8UvWU)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Can you make Gas Mask Filters last longer than 3 seconds each?](../../../transcriptions/yt-3I2JyLgHY_E.md) [https://www.youtube.com/watch?v=3I2JyLgHY_E](https://www.youtube.com/watch?v=3I2JyLgHY_E)
 

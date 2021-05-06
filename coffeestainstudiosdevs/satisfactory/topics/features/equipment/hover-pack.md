@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: QA Site Feature Request - Making the Hover Pack available earlier](../../../transcriptions/yt-kgax8gYD0DY.md) [https://www.youtube.com/watch?v=kgax8gYD0DY](https://www.youtube.com/watch?v=kgax8gYD0DY)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Use for batteries in the Hover Pack?](../../../transcriptions/yt-1HWvUD350gk.md) [https://www.youtube.com/watch?v=1HWvUD350gk](https://www.youtube.com/watch?v=1HWvUD350gk)
 * [Q&A: Range upgrade for Hover Pack?](../../../transcriptions/yt-tdatHpgolVQ.md) [https://www.youtube.com/watch?v=tdatHpgolVQ](https://www.youtube.com/watch?v=tdatHpgolVQ)

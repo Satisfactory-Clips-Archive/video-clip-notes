@@ -12,6 +12,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: Issues with the Resource Scanner](../../transcriptions/yt-8Lbyna2HHfc.md) [https://www.youtube.com/watch?v=8Lbyna2HHfc](https://www.youtube.com/watch?v=8Lbyna2HHfc)
+
 ## April 27th, 2021 Livestream
 * [Q&A: What about rare resources like silver & gold?](../../transcriptions/yt-lYgVTM0bibw.md) [https://www.youtube.com/watch?v=lYgVTM0bibw](https://www.youtube.com/watch?v=lYgVTM0bibw)
 * [Q&A: Will we get Quantum Computers & Superposition Oscillators before 1.0?](../../transcriptions/yt-jeOzZsWfYFo.md) [https://www.youtube.com/watch?v=jeOzZsWfYFo](https://www.youtube.com/watch?v=jeOzZsWfYFo)

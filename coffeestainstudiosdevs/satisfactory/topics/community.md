@@ -18,6 +18,13 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## May 4th, 2021 Livestream
+* [Q&A: Speedrunning support for 1.0?](../transcriptions/yt-u73FUuS5_ys.md) [https://www.youtube.com/watch?v=u73FUuS5_ys](https://www.youtube.com/watch?v=u73FUuS5_ys)
+* [Q&A: Why would you need support for speedrunning?](../transcriptions/yt-d0O-WTsvAYA.md) [https://www.youtube.com/watch?v=d0O-WTsvAYA](https://www.youtube.com/watch?v=d0O-WTsvAYA)
+* [Community FYI: Golf in Satisfactory exists, screenshot proof in QA post](../transcriptions/yt-YFdrWgy8xEk.md) [https://www.youtube.com/watch?v=YFdrWgy8xEk](https://www.youtube.com/watch?v=YFdrWgy8xEk)
+* [Q&A: You have to answer everything like 8 times?](../transcriptions/yt-Ak3zLYWXuDk.md) [https://www.youtube.com/watch?v=Ak3zLYWXuDk](https://www.youtube.com/watch?v=Ak3zLYWXuDk)
+* [Q&A: Have you seen players do things when you were like "Oh wow, I didn't know you could do that"](../transcriptions/yt--BicPnrRfsk.md) [https://www.youtube.com/watch?v=-BicPnrRfsk](https://www.youtube.com/watch?v=-BicPnrRfsk)
+
 ## April 27th, 2021 Livestream
 * [State of Dev: Community-sourced Workarounds](../transcriptions/yt-EE50vUZbtBM.md) [https://www.youtube.com/watch?v=EE50vUZbtBM](https://www.youtube.com/watch?v=EE50vUZbtBM)
 * [Q&A: Steam Mods?](../transcriptions/yt-GC8pyFLf1Rw.md) [https://www.youtube.com/watch?v=GC8pyFLf1Rw](https://www.youtube.com/watch?v=GC8pyFLf1Rw)

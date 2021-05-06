@@ -11,12 +11,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Any plans to improve the visual part of building in the game?
 https://www.youtube.com/watch?v=k-UDNJY0PWA
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as December 2020 and as early as November 2020.</summary>
-
-* [December 15th, 2020 Livestream Q&A: Can you imagine bringing something decoration foundations to factories?](./yt-wuimxgd7c_A.md) [https://www.youtube.com/watch?v=wuimxgd7c_A](https://www.youtube.com/watch?v=wuimxgd7c_A)
-* [November 3rd, 2020 Livestream Q&A: Could you add more Build pieces every week?](./yt-p0CdgjDIsEs.md) [https://www.youtube.com/watch?v=p0CdgjDIsEs](https://www.youtube.com/watch?v=p0CdgjDIsEs)
-</details>
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Any ideas on new Wall types, doors, windows, Foundations etc.?](./yt-EjDWJ7WXkC8.md) [https://www.youtube.com/watch?v=EjDWJ7WXkC8](https://www.youtube.com/watch?v=EjDWJ7WXkC8)
 
 
 ### Topics

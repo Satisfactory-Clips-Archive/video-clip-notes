@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: QA Site feature request - Days without incident](../../../transcriptions/yt-9Dx-cNdtNGA.md) [https://www.youtube.com/watch?v=9Dx-cNdtNGA](https://www.youtube.com/watch?v=9Dx-cNdtNGA)
+* [Q&A: EA game reward, Jace & Snutt poster in the HUB?](../../../transcriptions/yt-sSUNc_iHBWc.md) [https://www.youtube.com/watch?v=sSUNc_iHBWc](https://www.youtube.com/watch?v=sSUNc_iHBWc)
+* [Q&A: Can we use beds to sleep overnight?](../../../transcriptions/yt-84Mwit3dmQk.md) [https://www.youtube.com/watch?v=84Mwit3dmQk](https://www.youtube.com/watch?v=84Mwit3dmQk)
+* [Q&A: Is that why you can't ride the Drones?](../../../transcriptions/yt-38OwCUgGOjs.md) [https://www.youtube.com/watch?v=38OwCUgGOjs](https://www.youtube.com/watch?v=38OwCUgGOjs)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Any chance we'll get individual respawn points for Multiplayer?](../../../transcriptions/yt-5PcURRkz6yc.md) [https://www.youtube.com/watch?v=5PcURRkz6yc](https://www.youtube.com/watch?v=5PcURRkz6yc)
 

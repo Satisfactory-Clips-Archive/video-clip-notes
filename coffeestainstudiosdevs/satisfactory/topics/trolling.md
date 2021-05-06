@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## May 4th, 2021 Livestream
+* [Q&A: Pick up Lizard Doggo as a feature?](../transcriptions/yt-laV5SyI3MXg.md) [https://www.youtube.com/watch?v=laV5SyI3MXg](https://www.youtube.com/watch?v=laV5SyI3MXg)
+* [Q&A: Are you going to remove Pipes in Update 5?](../transcriptions/yt-W5ZWUNqbAeo.md) [https://www.youtube.com/watch?v=W5ZWUNqbAeo](https://www.youtube.com/watch?v=W5ZWUNqbAeo)
+
 ## April 27th, 2021 Livestream
 * [Snutt Talk: Walking off-camera](../transcriptions/yt-iSC5ytokwzw.md) [https://www.youtube.com/watch?v=iSC5ytokwzw](https://www.youtube.com/watch?v=iSC5ytokwzw)
 * [Snutt Talk: Livestream chat tropes](../transcriptions/yt-AYTOGDyRHLA.md) [https://www.youtube.com/watch?v=AYTOGDyRHLA](https://www.youtube.com/watch?v=AYTOGDyRHLA)

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes
 
+## May 4th, 2021 Livestream
+* [State of Dev: Cheatcrete](../../transcriptions/yt-GJN3Vm_kJgs.md) [https://www.youtube.com/watch?v=GJN3Vm_kJgs](https://www.youtube.com/watch?v=GJN3Vm_kJgs)
+* [Q&A: Do you like the Story so far?](../../transcriptions/yt-2I9bRbAag6Q.md) [https://www.youtube.com/watch?v=2I9bRbAag6Q](https://www.youtube.com/watch?v=2I9bRbAag6Q)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Will there be Weather in the game?](../../transcriptions/yt-m9oykKdGfUE.md) [https://www.youtube.com/watch?v=m9oykKdGfUE](https://www.youtube.com/watch?v=m9oykKdGfUE)
 

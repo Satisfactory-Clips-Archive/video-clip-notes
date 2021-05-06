@@ -9,7 +9,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Any news on Train revamp?
 https://www.youtube.com/watch?v=_kBUD_mMahs
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Train remake?](./yt-4iPV87r2O7A.md) [https://www.youtube.com/watch?v=4iPV87r2O7A](https://www.youtube.com/watch?v=4iPV87r2O7A)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Will Trains get an Update?](./yt-hXmvgEpyDdY.md) [https://www.youtube.com/watch?v=hXmvgEpyDdY](https://www.youtube.com/watch?v=hXmvgEpyDdY)
 
 
 ### Topics

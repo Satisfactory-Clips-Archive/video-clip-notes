@@ -15,6 +15,10 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## May 4th, 2021 Livestream
+* [Q&A: Did you eat your PB&J?](../transcriptions/yt-gWHsFxVkY3k.md) [https://www.youtube.com/watch?v=gWHsFxVkY3k](https://www.youtube.com/watch?v=gWHsFxVkY3k)
+* [Q&A: What do you think about Subnautica?](../transcriptions/yt-5P2O8AGpv-E.md) [https://www.youtube.com/watch?v=5P2O8AGpv-E](https://www.youtube.com/watch?v=5P2O8AGpv-E)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Is Satisfactory going to be in Smash any time soon?](../transcriptions/yt-tXsoac1sPx8.md) [https://www.youtube.com/watch?v=tXsoac1sPx8](https://www.youtube.com/watch?v=tXsoac1sPx8)
 

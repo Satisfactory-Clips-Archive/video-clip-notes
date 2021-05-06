@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## May 4th, 2021 Livestream
+* [State of Dev: Connectivity Issues](../../transcriptions/yt-varBpNnpo7U.md) [https://www.youtube.com/watch?v=varBpNnpo7U](https://www.youtube.com/watch?v=varBpNnpo7U)
+* [State of Dev: Working on Update 5](../../transcriptions/yt-kp2pVEkljB4.md) [https://www.youtube.com/watch?v=kp2pVEkljB4](https://www.youtube.com/watch?v=kp2pVEkljB4)
+* [State of Dev: Cheatcrete](../../transcriptions/yt-GJN3Vm_kJgs.md) [https://www.youtube.com/watch?v=GJN3Vm_kJgs](https://www.youtube.com/watch?v=GJN3Vm_kJgs)
+* [State of Dev: How Early Access impacts Development vs. Bug Fixing](../../transcriptions/yt-geMjC76veHc.md) [https://www.youtube.com/watch?v=geMjC76veHc](https://www.youtube.com/watch?v=geMjC76veHc)
+* [State of Dev: Multiplayer issues & Dedicated Servers](../../transcriptions/yt-Q3xs2lnP4YM.md) [https://www.youtube.com/watch?v=Q3xs2lnP4YM](https://www.youtube.com/watch?v=Q3xs2lnP4YM)
+* [State of Dev: Dedicated Servers release plan](../../transcriptions/yt-nHZMgxqhUHA.md) [https://www.youtube.com/watch?v=nHZMgxqhUHA](https://www.youtube.com/watch?v=nHZMgxqhUHA)
+* [State of Dev: mid-stream reiteration](../../transcriptions/yt-PdewBPMQ2jk.md) [https://www.youtube.com/watch?v=PdewBPMQ2jk](https://www.youtube.com/watch?v=PdewBPMQ2jk)
+
 ## April 27th, 2021 Livestream
 * [State of Dev: Update 5](../../transcriptions/yt-6HuXkOLqZN8.md) [https://www.youtube.com/watch?v=6HuXkOLqZN8](https://www.youtube.com/watch?v=6HuXkOLqZN8)
 * [State of Dev: Cheatcrete](../../transcriptions/yt-aXRTTO15rZg.md) [https://www.youtube.com/watch?v=aXRTTO15rZg](https://www.youtube.com/watch?v=aXRTTO15rZg)

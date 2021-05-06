@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: QA Site feature request - Days without incident](../../transcriptions/yt-9Dx-cNdtNGA.md) [https://www.youtube.com/watch?v=9Dx-cNdtNGA](https://www.youtube.com/watch?v=9Dx-cNdtNGA)
+* [Snutt Talk: Taking radiation damage when there's no radioactive materials in your inventory](../../transcriptions/yt-JKh7fGk995o.md) [https://www.youtube.com/watch?v=JKh7fGk995o](https://www.youtube.com/watch?v=JKh7fGk995o)
+* [Q&A: Can we use beds to sleep overnight?](../../transcriptions/yt-84Mwit3dmQk.md) [https://www.youtube.com/watch?v=84Mwit3dmQk](https://www.youtube.com/watch?v=84Mwit3dmQk)
+* [Q&A: It would be cool if there was a hand equipment slot, you could put a light there?](../../transcriptions/yt-b6mQ0qUrMX4.md) [https://www.youtube.com/watch?v=b6mQ0qUrMX4](https://www.youtube.com/watch?v=b6mQ0qUrMX4)
+* [Q&A: Will backpacks be added to the game later?](../../transcriptions/yt-Plp6VuXxdgc.md) [https://www.youtube.com/watch?v=Plp6VuXxdgc](https://www.youtube.com/watch?v=Plp6VuXxdgc)
+
 ## April 20th, 2021 Livestream
 * [Q&A: My corpse is in the dead zone, how do I retrieve it?](../../transcriptions/yt-7ZhQQ90M2eU.md) [https://www.youtube.com/watch?v=7ZhQQ90M2eU](https://www.youtube.com/watch?v=7ZhQQ90M2eU)
 * [Q&A: Is your character the Engineer or the Pioneer?](../../transcriptions/yt-KUqrPtD8LF8.md) [https://www.youtube.com/watch?v=KUqrPtD8LF8](https://www.youtube.com/watch?v=KUqrPtD8LF8)

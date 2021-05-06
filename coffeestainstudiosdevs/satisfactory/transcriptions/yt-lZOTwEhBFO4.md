@@ -9,11 +9,7 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Why are the Refineries so big?
 https://www.youtube.com/watch?v=lZOTwEhBFO4
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
-
-* [August 25th, 2020 Livestream Q&A: Refineries take up so much space?](./yt-KzQ1E8V06zA.md) [https://www.youtube.com/watch?v=KzQ1E8V06zA](https://www.youtube.com/watch?v=KzQ1E8V06zA)
-</details>
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Make refineries smaller?](./yt-TLElVB-PA3M.md) [https://www.youtube.com/watch?v=TLElVB-PA3M](https://www.youtube.com/watch?v=TLElVB-PA3M)
 
 
 ### Topics

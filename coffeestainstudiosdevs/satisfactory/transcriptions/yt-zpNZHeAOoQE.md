@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Solar Panels?
 https://www.youtube.com/watch?v=zpNZHeAOoQE
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Solar Power?](./yt-oHxP9OXQn5w.md) [https://www.youtube.com/watch?v=oHxP9OXQn5w](https://www.youtube.com/watch?v=oHxP9OXQn5w)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Plans to add Solar?](./yt-wrFOCRX7hDY.md) [https://www.youtube.com/watch?v=wrFOCRX7hDY](https://www.youtube.com/watch?v=wrFOCRX7hDY)
 
 
 ### Topics

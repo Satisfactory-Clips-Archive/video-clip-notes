@@ -8,6 +8,8 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: When are you adding Story?
 https://www.youtube.com/watch?v=U1s8L1JR36Q
+This question was possibly replaced with a more recent answer: [May 4th, 2021 Livestream Q&A: Are we going to get the Lore?](./yt-SwWuvwYEubU.md) [https://www.youtube.com/watch?v=SwWuvwYEubU](https://www.youtube.com/watch?v=SwWuvwYEubU)
+
 <details>
 <summary>This question may have been asked previously at least 16 other times, as recently as February 2021 and as early as February 2019.</summary>
 

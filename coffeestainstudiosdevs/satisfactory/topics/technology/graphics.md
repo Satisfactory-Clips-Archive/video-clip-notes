@@ -6,6 +6,9 @@ date: Last Modified
 * [DLSS](../../topics/technology/graphics/dlss.md)
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 
+## May 4th, 2021 Livestream
+* [Q&A: The flow rate issue in Pipes, is intended or will it be fixed?](../../transcriptions/yt-ZiAvo3uDBCM.md) [https://www.youtube.com/watch?v=ZiAvo3uDBCM](https://www.youtube.com/watch?v=ZiAvo3uDBCM)
+
 ## April 20th, 2021 Livestream
 * [State of Dev: Try verifying files if you're experiencing graphical glitches](../../transcriptions/yt-5NkjFaKNJmI.md) [https://www.youtube.com/watch?v=5NkjFaKNJmI](https://www.youtube.com/watch?v=5NkjFaKNJmI)
 * [Snutt Talk: Steam & Epic patch download failures causing graphical issues](../../transcriptions/yt-uNYU4_DIxtI.md) [https://www.youtube.com/watch?v=uNYU4_DIxtI](https://www.youtube.com/watch?v=uNYU4_DIxtI)

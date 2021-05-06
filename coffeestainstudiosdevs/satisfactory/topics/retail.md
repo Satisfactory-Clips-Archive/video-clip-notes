@@ -8,6 +8,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## May 4th, 2021 Livestream
+* [Q&A: Do you have to buy the full version of the game when it comes out?](../transcriptions/yt-fEyDe5viYQo.md) [https://www.youtube.com/watch?v=fEyDe5viYQo](https://www.youtube.com/watch?v=fEyDe5viYQo)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Would you recommend Satisfactory? because I want it but I don't know if it would suit me](../transcriptions/yt-lzxtnMt89Ig.md) [https://www.youtube.com/watch?v=lzxtnMt89Ig](https://www.youtube.com/watch?v=lzxtnMt89Ig)
 

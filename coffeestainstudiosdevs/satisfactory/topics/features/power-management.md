@@ -9,6 +9,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## May 4th, 2021 Livestream
+* [Q&A: Why does power building overclocking follow weird exponential function?](../../transcriptions/yt-6OIxOupnuLI.md) [https://www.youtube.com/watch?v=6OIxOupnuLI](https://www.youtube.com/watch?v=6OIxOupnuLI)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Can you tell us what Power change content were taken out of Update 4?](../../transcriptions/yt-8HYOz7X16FU.md) [https://www.youtube.com/watch?v=8HYOz7X16FU](https://www.youtube.com/watch?v=8HYOz7X16FU)
 * [Q&A: Tesla coil for short-range wireless power?](../../transcriptions/yt-jbpsoJMv5SU.md) [https://www.youtube.com/watch?v=jbpsoJMv5SU](https://www.youtube.com/watch?v=jbpsoJMv5SU)

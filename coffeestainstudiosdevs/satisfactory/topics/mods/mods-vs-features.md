@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## May 4th, 2021 Livestream
+* [Q&A: Will we be able to stop using mods for more building assets?](../../transcriptions/yt-YZJ8RChJn2w.md) [https://www.youtube.com/watch?v=YZJ8RChJn2w](https://www.youtube.com/watch?v=YZJ8RChJn2w)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Is there combat & Base Defense required in the game?](../../transcriptions/yt-A9GtewxqeLo.md) [https://www.youtube.com/watch?v=A9GtewxqeLo](https://www.youtube.com/watch?v=A9GtewxqeLo)
 * [Community FYI: Item teleportation with Mod worked really nicely](../../transcriptions/yt-ySno5Yhfj8w.md) [https://www.youtube.com/watch?v=ySno5Yhfj8w](https://www.youtube.com/watch?v=ySno5Yhfj8w)

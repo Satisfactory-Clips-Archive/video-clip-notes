@@ -4,6 +4,20 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## May 4th, 2021 Livestream
+* Snutt Talk: Use the QA Site [https://www.youtube.com/watch?v=nxbzule_avo](https://www.youtube.com/watch?v=nxbzule_avo)
+* [Snutt Talk: We've already confirmed we're going to have signs at some point](../transcriptions/yt-A0NUl5hWhrw.md) [https://www.youtube.com/watch?v=A0NUl5hWhrw](https://www.youtube.com/watch?v=A0NUl5hWhrw)
+* Snutt Talk: QA Site bug report - Gas Masks in vehicles [https://www.youtube.com/watch?v=JZ0ePy8UvWU](https://www.youtube.com/watch?v=JZ0ePy8UvWU)
+* [Snutt Talk: QA Site feature request - Days without incident](../transcriptions/yt-9Dx-cNdtNGA.md) [https://www.youtube.com/watch?v=9Dx-cNdtNGA](https://www.youtube.com/watch?v=9Dx-cNdtNGA)
+* [Snutt Talk: Workaround for feature request using existing features](../transcriptions/yt-LCZehy3T6ck.md) [https://www.youtube.com/watch?v=LCZehy3T6ck](https://www.youtube.com/watch?v=LCZehy3T6ck)
+* [Snutt Talk: QA Site Feature Request - Vertical Splitters & Mergers](../transcriptions/yt-Q2pXnXO1X6c.md) [https://www.youtube.com/watch?v=Q2pXnXO1X6c](https://www.youtube.com/watch?v=Q2pXnXO1X6c)
+* [Snutt Talk: QA Site Feature Request - Global build grid](../transcriptions/yt-3et3lB1Ak7A.md) [https://www.youtube.com/watch?v=3et3lB1Ak7A](https://www.youtube.com/watch?v=3et3lB1Ak7A)
+* [Snutt Talk: QA Site Feature Request - Making the Hover Pack available earlier](../transcriptions/yt-kgax8gYD0DY.md) [https://www.youtube.com/watch?v=kgax8gYD0DY](https://www.youtube.com/watch?v=kgax8gYD0DY)
+* [Snutt Talk: QA Site Feature Request - Snap Splitters & Mergers to each other](../transcriptions/yt-Me95NJDGqzc.md) [https://www.youtube.com/watch?v=Me95NJDGqzc](https://www.youtube.com/watch?v=Me95NJDGqzc)
+* [Snutt Talk: QA Site Feature Request - Power switches on poles](../transcriptions/yt-DXUw14tVRfk.md) [https://www.youtube.com/watch?v=DXUw14tVRfk](https://www.youtube.com/watch?v=DXUw14tVRfk)
+* [Snutt Talk: Issues with the Resource Scanner](../transcriptions/yt-8Lbyna2HHfc.md) [https://www.youtube.com/watch?v=8Lbyna2HHfc](https://www.youtube.com/watch?v=8Lbyna2HHfc)
+* [Snutt Talk: Maybe doing another QA Site review in future](../transcriptions/yt-9MMJ5KItZOU.md) [https://www.youtube.com/watch?v=9MMJ5KItZOU](https://www.youtube.com/watch?v=9MMJ5KItZOU)
+
 ## April 27th, 2021 Livestream
 * [State of Dev: If you have ideas for Update 5, use the QA Site](../transcriptions/yt-VaVktWVoFds.md) [https://www.youtube.com/watch?v=VaVktWVoFds](https://www.youtube.com/watch?v=VaVktWVoFds)
 * [State of Dev: Community-sourced Workarounds](../transcriptions/yt-EE50vUZbtBM.md) [https://www.youtube.com/watch?v=EE50vUZbtBM](https://www.youtube.com/watch?v=EE50vUZbtBM)

@@ -25,7 +25,6 @@ date: Last Modified
 * [Oscar](./topics/coffee-stainers/oscar.md)
 * [Pontus](./topics/coffee-stainers/pontus.md)
 * [Ros](./topics/coffee-stainers/ros.md)
-* [Snutt](./topics/coffee-stainers/snutt.md)
 * [Sofi](./topics/coffee-stainers/sofi.md)
 * [Tim](./topics/coffee-stainers/tim.md)
 * [Tobias](./topics/coffee-stainers/tobias.md)
@@ -34,6 +33,10 @@ date: Last Modified
 
 ## [Simon](./topics/coffee-stainers/simon.md)
 * [Simon Saga](./topics/coffee-stainers/simon/simon-saga.md)
+---
+
+## [Snutt](./topics/coffee-stainers/snutt.md)
+* [Snutt Burger Time](./topics/coffee-stainers/snutt/snutt-burger-time.md)
 ---
 
 # [Community](./topics/community.md)
@@ -106,13 +109,15 @@ date: Last Modified
 
 ## [Buildables](./topics/features/buildables.md)
 * [Conveyor Belts](./topics/features/buildables/conveyor-belts.md)
-* [Foundations](./topics/features/buildables/foundations.md)
 * [Jump Pads](./topics/features/buildables/jump-pads.md)
 * [Ladders](./topics/features/buildables/ladders.md)
 * [Lights](./topics/features/buildables/lights.md)
 * [Storage Containers](./topics/features/buildables/storage-containers.md)
 * [Walkways](./topics/features/buildables/walkways.md)
 * [Walls](./topics/features/buildables/walls.md)
+
+### [Foundations](./topics/features/buildables/foundations.md)
+* [Cheatcrete](./topics/features/buildables/foundations/cheatcrete.md)
 ---
 
 ## [Buildings](./topics/features/buildings.md)

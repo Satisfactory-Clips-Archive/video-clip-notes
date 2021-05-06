@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > DLC
 
+## May 4th, 2021 Livestream
+* [Q&A: Where do you draw the line between seeing the game as "finished" and adding stuff post-release?](../../../transcriptions/yt-CsMRdjnUx7U.md) [https://www.youtube.com/watch?v=CsMRdjnUx7U](https://www.youtube.com/watch?v=CsMRdjnUx7U)
+* [Q&A: Will you do free updates after release, paid DLC, or just move on?](../../../transcriptions/yt-QL_YLSmR5pc.md) [https://www.youtube.com/watch?v=QL_YLSmR5pc](https://www.youtube.com/watch?v=QL_YLSmR5pc)
+* [Q&A: Toilet flush?](../../../transcriptions/yt-b06s0rzssTc.md) [https://www.youtube.com/watch?v=b06s0rzssTc](https://www.youtube.com/watch?v=b06s0rzssTc)
+* [Q&A: Toilet DLC, when?](../../../transcriptions/yt-qgNE5bu73j0.md) [https://www.youtube.com/watch?v=qgNE5bu73j0](https://www.youtube.com/watch?v=qgNE5bu73j0)
+
 ## April 20th, 2021 Livestream
 * [Q&A: What about the flushing toilet?](../../../transcriptions/yt-sve9kjgML2E.md) [https://www.youtube.com/watch?v=sve9kjgML2E](https://www.youtube.com/watch?v=sve9kjgML2E)
 * [Q&A: Will there be any updates after 1.0?](../../../transcriptions/yt-at2Y5iISicY.md) [https://www.youtube.com/watch?v=at2Y5iISicY](https://www.youtube.com/watch?v=at2Y5iISicY)

@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will the Map become bigger?
 https://www.youtube.com/watch?v=1pzu9fbySq0
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Will you guys make a bigger map some day?](./yt-YDk5S3_5Wdg.md) [https://www.youtube.com/watch?v=YDk5S3_5Wdg](https://www.youtube.com/watch?v=YDk5S3_5Wdg)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Will we get a bigger Map?](./yt-LPvrY2LJghE.md) [https://www.youtube.com/watch?v=LPvrY2LJghE](https://www.youtube.com/watch?v=LPvrY2LJghE)
 
 
 ### Topics

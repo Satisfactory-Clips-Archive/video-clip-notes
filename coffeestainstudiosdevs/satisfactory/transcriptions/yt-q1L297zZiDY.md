@@ -9,6 +9,12 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Have you sold 10 copies yet?
 https://www.youtube.com/watch?v=q1L297zZiDY
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as December 2020.</summary>
+
+* [December 8th, 2020 Livestream Q&A: Have you sold more than 10 copies yet?](./yt-m7UjXQmtBK0.md) [https://www.youtube.com/watch?v=m7UjXQmtBK0](https://www.youtube.com/watch?v=m7UjXQmtBK0)
+</details>
+
 
 ### Topics
 * [Retail](../topics/retail.md)

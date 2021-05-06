@@ -3,14 +3,14 @@ title: "April 20th, 2021 Livestream Q&A: How's the burger?"
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "coffee-stainers/snutt"
+    - "coffee-stainers/snutt/snutt-burger-time"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: How's the burger?
 https://www.youtube.com/watch?v=5VNbStRGin8
 
 ### Topics
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Coffee Stainers > Snutt > Snutt Burger Time](../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
 ### Transcript
 

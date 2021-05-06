@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Requested Features > Holstering Equipment
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: QA Site feature request - Holstering](../../../transcriptions/yt-UkF4FbtbplM.md) [https://www.youtube.com/watch?v=UkF4FbtbplM](https://www.youtube.com/watch?v=UkF4FbtbplM)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Holster Weapon toolkey?](../../../transcriptions/yt-D2NO_tzXhVg.md) [https://www.youtube.com/watch?v=D2NO_tzXhVg](https://www.youtube.com/watch?v=D2NO_tzXhVg)
 

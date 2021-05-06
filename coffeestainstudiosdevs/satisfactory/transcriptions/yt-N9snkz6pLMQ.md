@@ -3,7 +3,7 @@ title: "March 23rd, 2021 Livestream Snutt Talk: Cheatcrete"
 date: "2021-03-23"
 layout: transcript
 topics:
-    - "features/buildables/foundations"
+    - "features/buildables/foundations/cheatcrete"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=N9snkz6pLMQ
 
 ### Topics
-* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Buildables > Foundations > Cheatcrete](../topics/features/buildables/foundations/cheatcrete.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript

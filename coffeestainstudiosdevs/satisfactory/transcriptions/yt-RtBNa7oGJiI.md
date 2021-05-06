@@ -4,7 +4,7 @@ date: "2021-04-06"
 layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
-    - "features/buildables/foundations"
+    - "features/buildables/foundations/cheatcrete"
     - "features/buildables/walls"
 ---
 # [April 6th, 2021 Livestream](../2021-04-06.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=RtBNa7oGJiI
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Buildables > Foundations > Cheatcrete](../topics/features/buildables/foundations/cheatcrete.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 
 ### Transcript

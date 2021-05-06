@@ -5,6 +5,13 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## May 4th, 2021 Livestream
+* [State of Dev: Connectivity Issues](../../transcriptions/yt-varBpNnpo7U.md) [https://www.youtube.com/watch?v=varBpNnpo7U](https://www.youtube.com/watch?v=varBpNnpo7U)
+* [State of Dev: Multiplayer issues & Dedicated Servers](../../transcriptions/yt-Q3xs2lnP4YM.md) [https://www.youtube.com/watch?v=Q3xs2lnP4YM](https://www.youtube.com/watch?v=Q3xs2lnP4YM)
+* [State of Dev: mid-stream reiteration](../../transcriptions/yt-PdewBPMQ2jk.md) [https://www.youtube.com/watch?v=PdewBPMQ2jk](https://www.youtube.com/watch?v=PdewBPMQ2jk)
+* [Q&A: Multiplayer update?](../../transcriptions/yt-wIu9YvRbl5Q.md) [https://www.youtube.com/watch?v=wIu9YvRbl5Q](https://www.youtube.com/watch?v=wIu9YvRbl5Q)
+* [Q&A: Any news about fix for Multiplayer, issues where some players cannot join?](../../transcriptions/yt-aha078sVwGI.md) [https://www.youtube.com/watch?v=aha078sVwGI](https://www.youtube.com/watch?v=aha078sVwGI)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Is the Vehicle lag in Multiplayer a challenge?](../../transcriptions/yt-K58fUTWGpzU.md) [https://www.youtube.com/watch?v=K58fUTWGpzU](https://www.youtube.com/watch?v=K58fUTWGpzU)
 * [Q&A: How about a teleporter for people to hand-feed the system?](../../transcriptions/yt-m95zf9b3oo0.md) [https://www.youtube.com/watch?v=m95zf9b3oo0](https://www.youtube.com/watch?v=m95zf9b3oo0)

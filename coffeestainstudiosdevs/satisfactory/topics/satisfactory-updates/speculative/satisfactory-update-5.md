@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 5
 
+## May 4th, 2021 Livestream
+* [State of Dev: Working on Update 5](../../../transcriptions/yt-kp2pVEkljB4.md) [https://www.youtube.com/watch?v=kp2pVEkljB4](https://www.youtube.com/watch?v=kp2pVEkljB4)
+* [State of Dev: Cheatcrete](../../../transcriptions/yt-GJN3Vm_kJgs.md) [https://www.youtube.com/watch?v=GJN3Vm_kJgs](https://www.youtube.com/watch?v=GJN3Vm_kJgs)
+* [State of Dev: mid-stream reiteration](../../../transcriptions/yt-PdewBPMQ2jk.md) [https://www.youtube.com/watch?v=PdewBPMQ2jk](https://www.youtube.com/watch?v=PdewBPMQ2jk)
+* [Q&A: Will Train Signals come in Update 5?](../../../transcriptions/yt-A9o2zd2uN80.md) [https://www.youtube.com/watch?v=A9o2zd2uN80](https://www.youtube.com/watch?v=A9o2zd2uN80)
+* [Q&A: Are you going to remove Pipes in Update 5?](../../../transcriptions/yt-W5ZWUNqbAeo.md) [https://www.youtube.com/watch?v=W5ZWUNqbAeo](https://www.youtube.com/watch?v=W5ZWUNqbAeo)
+
 ## April 27th, 2021 Livestream
 * [State of Dev: Update 5](../../../transcriptions/yt-6HuXkOLqZN8.md) [https://www.youtube.com/watch?v=6HuXkOLqZN8](https://www.youtube.com/watch?v=6HuXkOLqZN8)
 * [State of Dev: If you have ideas for Update 5, use the QA Site](../../../transcriptions/yt-VaVktWVoFds.md) [https://www.youtube.com/watch?v=VaVktWVoFds](https://www.youtube.com/watch?v=VaVktWVoFds)

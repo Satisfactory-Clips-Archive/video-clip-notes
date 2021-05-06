@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Early Access
 
+## May 4th, 2021 Livestream
+* [Q&A: Just add headlights to the Vehicles, please?](../../transcriptions/yt-_zbrGpdnQF4.md) [https://www.youtube.com/watch?v=_zbrGpdnQF4](https://www.youtube.com/watch?v=_zbrGpdnQF4)
+
 ## March 30th, 2021 Livestream
 * [Snutt Talk: Community Highlights entry illustrates pre-conveyor lift Satisfactory](../../transcriptions/yt-jokJfL5ds8U.md) [https://www.youtube.com/watch?v=jokJfL5ds8U](https://www.youtube.com/watch?v=jokJfL5ds8U)
 

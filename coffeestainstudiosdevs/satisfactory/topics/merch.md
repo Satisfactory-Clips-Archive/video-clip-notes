@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../topics.md) > Merch
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## May 4th, 2021 Livestream
+* [Q&A: Update on Cup Merch?](../transcriptions/yt-EwycHQo44KE.md) [https://www.youtube.com/watch?v=EwycHQo44KE](https://www.youtube.com/watch?v=EwycHQo44KE)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Is that the Keanu Reeves MSPaint shirt?](../transcriptions/yt-xBFNJxkeLmM.md) [https://www.youtube.com/watch?v=xBFNJxkeLmM](https://www.youtube.com/watch?v=xBFNJxkeLmM)
 * [State of Dev: Merch](../transcriptions/yt-m8P1TtWkSpM.md) [https://www.youtube.com/watch?v=m8P1TtWkSpM](https://www.youtube.com/watch?v=m8P1TtWkSpM)

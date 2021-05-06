@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## May 4th, 2021 Livestream
+* [Q&A: Quantum Computers don't exist yet, did I overlook something?](../../../../transcriptions/yt-Aflfj7-LF6w.md) [https://www.youtube.com/watch?v=Aflfj7-LF6w](https://www.youtube.com/watch?v=Aflfj7-LF6w)
+
 ## April 20th, 2021 Livestream
 * [Q&A: How about making Crash Sites deconstructable after looting?](../../../../transcriptions/yt-8NEorsLWk6k.md) [https://www.youtube.com/watch?v=8NEorsLWk6k](https://www.youtube.com/watch?v=8NEorsLWk6k)
 * [Community FYI: beacons work fine for tagging raided crash sites](../../../../transcriptions/yt-caCdUs9XJ9A.md) [https://www.youtube.com/watch?v=caCdUs9XJ9A](https://www.youtube.com/watch?v=caCdUs9XJ9A)

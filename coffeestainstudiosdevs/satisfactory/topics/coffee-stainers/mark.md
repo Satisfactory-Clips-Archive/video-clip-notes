@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: QA Site Feature Request - Making the Hover Pack available earlier](../../transcriptions/yt-kgax8gYD0DY.md) [https://www.youtube.com/watch?v=kgax8gYD0DY](https://www.youtube.com/watch?v=kgax8gYD0DY)
+* [Snutt Talk: Maybe doing another QA Site review in future](../../transcriptions/yt-9MMJ5KItZOU.md) [https://www.youtube.com/watch?v=9MMJ5KItZOU](https://www.youtube.com/watch?v=9MMJ5KItZOU)
+* [Q&A: Using natural Gases in the game?](../../transcriptions/yt-1D3Q3xWkQ6o.md) [https://www.youtube.com/watch?v=1D3Q3xWkQ6o](https://www.youtube.com/watch?v=1D3Q3xWkQ6o)
+* [Q&A: Can we use beds to sleep overnight?](../../transcriptions/yt-84Mwit3dmQk.md) [https://www.youtube.com/watch?v=84Mwit3dmQk](https://www.youtube.com/watch?v=84Mwit3dmQk)
+
 ## April 27th, 2021 Livestream
 * [State of Dev: If you have ideas for Update 5, use the QA Site](../../transcriptions/yt-VaVktWVoFds.md) [https://www.youtube.com/watch?v=VaVktWVoFds](https://www.youtube.com/watch?v=VaVktWVoFds)
 * [Q&A: Any new aliens coming?](../../transcriptions/yt-d5A3AQG5YoE.md) [https://www.youtube.com/watch?v=d5A3AQG5YoE](https://www.youtube.com/watch?v=d5A3AQG5YoE)

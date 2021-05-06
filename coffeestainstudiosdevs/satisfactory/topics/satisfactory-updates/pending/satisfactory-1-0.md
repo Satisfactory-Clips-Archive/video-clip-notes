@@ -4,6 +4,16 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: QA Site feature request - Holstering](../../../transcriptions/yt-UkF4FbtbplM.md) [https://www.youtube.com/watch?v=UkF4FbtbplM](https://www.youtube.com/watch?v=UkF4FbtbplM)
+* [Q&A: Where do you draw the line between seeing the game as "finished" and adding stuff post-release?](../../../transcriptions/yt-CsMRdjnUx7U.md) [https://www.youtube.com/watch?v=CsMRdjnUx7U](https://www.youtube.com/watch?v=CsMRdjnUx7U)
+* [Q&A: Do you have to buy the full version of the game when it comes out?](../../../transcriptions/yt-fEyDe5viYQo.md) [https://www.youtube.com/watch?v=fEyDe5viYQo](https://www.youtube.com/watch?v=fEyDe5viYQo)
+* [Q&A: When is S.A.M. Ore becoming use?](../../../transcriptions/yt-maWDJJM4ID8.md) [https://www.youtube.com/watch?v=maWDJJM4ID8](https://www.youtube.com/watch?v=maWDJJM4ID8)
+* [Q&A: Will you do free updates after release, paid DLC, or just move on?](../../../transcriptions/yt-QL_YLSmR5pc.md) [https://www.youtube.com/watch?v=QL_YLSmR5pc](https://www.youtube.com/watch?v=QL_YLSmR5pc)
+* [Q&A: How long do you think the game will take to beat in 1.0?](../../../transcriptions/yt-r4cyIHDA25I.md) [https://www.youtube.com/watch?v=r4cyIHDA25I](https://www.youtube.com/watch?v=r4cyIHDA25I)
+* [Q&A: How do you feel about people playing the game first time with version 1.0?](../../../transcriptions/yt-LPcgHZiB1BM.md) [https://www.youtube.com/watch?v=LPcgHZiB1BM](https://www.youtube.com/watch?v=LPcgHZiB1BM)
+* [Q&A: Speedrunning support for 1.0?](../../../transcriptions/yt-u73FUuS5_ys.md) [https://www.youtube.com/watch?v=u73FUuS5_ys](https://www.youtube.com/watch?v=u73FUuS5_ys)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Farms?](../../../transcriptions/yt-kq125_HSqqE.md) [https://www.youtube.com/watch?v=kq125_HSqqE](https://www.youtube.com/watch?v=kq125_HSqqE)
 * [Q&A: Will we get Quantum Computers & Superposition Oscillators before 1.0?](../../../transcriptions/yt-jeOzZsWfYFo.md) [https://www.youtube.com/watch?v=jeOzZsWfYFo](https://www.youtube.com/watch?v=jeOzZsWfYFo)

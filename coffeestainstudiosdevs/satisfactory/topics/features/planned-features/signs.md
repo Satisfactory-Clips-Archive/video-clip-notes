@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: We've already confirmed we're going to have signs at some point](../../../transcriptions/yt-A0NUl5hWhrw.md) [https://www.youtube.com/watch?v=A0NUl5hWhrw](https://www.youtube.com/watch?v=A0NUl5hWhrw)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Can we get signs soon?](../../../transcriptions/yt-wUy8zszYfdQ.md) [https://www.youtube.com/watch?v=wUy8zszYfdQ](https://www.youtube.com/watch?v=wUy8zszYfdQ)
 

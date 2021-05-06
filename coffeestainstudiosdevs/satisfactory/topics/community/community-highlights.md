@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## May 4th, 2021 Livestream
+* [Community Highlights: Dune Desert Waterfall Mesa & the pending World Updates](../../transcriptions/yt-b86m8SEx6Vw.md) [https://www.youtube.com/watch?v=b86m8SEx6Vw](https://www.youtube.com/watch?v=b86m8SEx6Vw)
+* [Community Highlights: This base looks like it's preparing for tower defense](../../transcriptions/yt-tSgSZ7D_z6I.md) [https://www.youtube.com/watch?v=tSgSZ7D_z6I](https://www.youtube.com/watch?v=tSgSZ7D_z6I)
+* [Q&A: What day do the screenshots have to be submitted for you to notice them?](../../transcriptions/yt-hcFKhzDygy0.md) [https://www.youtube.com/watch?v=hcFKhzDygy0](https://www.youtube.com/watch?v=hcFKhzDygy0)
+* [Snutt Talk: Collating photos for Community Highlights](../../transcriptions/yt-tfTnu802WQw.md) [https://www.youtube.com/watch?v=tfTnu802WQw](https://www.youtube.com/watch?v=tfTnu802WQw)
+
 ## April 27th, 2021 Livestream
 * [Community Highlights: 3pm Swedish Fika](../../transcriptions/yt-vBXqwkho_ck.md) [https://www.youtube.com/watch?v=vBXqwkho_ck](https://www.youtube.com/watch?v=vBXqwkho_ck)
 

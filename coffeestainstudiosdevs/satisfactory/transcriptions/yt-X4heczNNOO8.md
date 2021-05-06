@@ -11,6 +11,8 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Snutt & Jace poster in Satisfactory when?
 https://www.youtube.com/watch?v=X4heczNNOO8
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: EA game reward, Jace & Snutt poster in the HUB?](./yt-sSUNc_iHBWc.md) [https://www.youtube.com/watch?v=sSUNc_iHBWc](https://www.youtube.com/watch?v=sSUNc_iHBWc)
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

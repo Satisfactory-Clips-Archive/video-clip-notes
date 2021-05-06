@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## May 4th, 2021 Livestream
+* [State of Dev: Multiplayer issues & Dedicated Servers](../../../transcriptions/yt-Q3xs2lnP4YM.md) [https://www.youtube.com/watch?v=Q3xs2lnP4YM](https://www.youtube.com/watch?v=Q3xs2lnP4YM)
+* [State of Dev: Dedicated Servers release plan](../../../transcriptions/yt-nHZMgxqhUHA.md) [https://www.youtube.com/watch?v=nHZMgxqhUHA](https://www.youtube.com/watch?v=nHZMgxqhUHA)
+* [Q&A: Will Dedicated Servers be self-hosted?](../../../transcriptions/yt--1_j_CPi6YI.md) [https://www.youtube.com/watch?v=-1_j_CPi6YI](https://www.youtube.com/watch?v=-1_j_CPi6YI)
+
 ## April 27th, 2021 Livestream
 * [State of Dev: Dedicated Servers](../../../transcriptions/yt-kCjnulfKA1E.md) [https://www.youtube.com/watch?v=kCjnulfKA1E](https://www.youtube.com/watch?v=kCjnulfKA1E)
 * [Q&A: Any update on Dedicated Servers?](../../../transcriptions/yt-JmrA7qHuTNo.md) [https://www.youtube.com/watch?v=JmrA7qHuTNo](https://www.youtube.com/watch?v=JmrA7qHuTNo)

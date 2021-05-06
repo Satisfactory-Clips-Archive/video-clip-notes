@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Blueprints
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: QA Site Feature Request - Making the Hover Pack available earlier](../../../transcriptions/yt-kgax8gYD0DY.md) [https://www.youtube.com/watch?v=kgax8gYD0DY](https://www.youtube.com/watch?v=kgax8gYD0DY)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Blueprints?](../../../transcriptions/yt-x0N2HGv49Eg.md) [https://www.youtube.com/watch?v=x0N2HGv49Eg](https://www.youtube.com/watch?v=x0N2HGv49Eg)
 

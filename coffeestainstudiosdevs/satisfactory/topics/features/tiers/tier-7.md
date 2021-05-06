@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 7
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: QA Site Feature Request - Making the Hover Pack available earlier](../../../transcriptions/yt-kgax8gYD0DY.md) [https://www.youtube.com/watch?v=kgax8gYD0DY](https://www.youtube.com/watch?v=kgax8gYD0DY)
+* [Q&A: Recipes subject to change again?](../../../transcriptions/yt-XY3ul4kOff4.md) [https://www.youtube.com/watch?v=XY3ul4kOff4](https://www.youtube.com/watch?v=XY3ul4kOff4)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Why is the Blender and Diluted Fuel recipe in Tier 7?](../../../transcriptions/yt-Y1V0UB_9GJA.md) [https://www.youtube.com/watch?v=Y1V0UB_9GJA](https://www.youtube.com/watch?v=Y1V0UB_9GJA)
 

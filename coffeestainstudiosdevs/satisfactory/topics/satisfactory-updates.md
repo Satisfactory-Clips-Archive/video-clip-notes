@@ -16,6 +16,13 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## May 4th, 2021 Livestream
+* [State of Dev: How Early Access impacts Development vs. Bug Fixing](../transcriptions/yt-geMjC76veHc.md) [https://www.youtube.com/watch?v=geMjC76veHc](https://www.youtube.com/watch?v=geMjC76veHc)
+* [Snutt Talk: Tree regrowth bugs](../transcriptions/yt-jr12dLcIW78.md) [https://www.youtube.com/watch?v=jr12dLcIW78](https://www.youtube.com/watch?v=jr12dLcIW78)
+* [Q&A: Are we going to get the Lore?](../transcriptions/yt-SwWuvwYEubU.md) [https://www.youtube.com/watch?v=SwWuvwYEubU](https://www.youtube.com/watch?v=SwWuvwYEubU)
+* [Q&A: Where do you draw the line between seeing the game as "finished" and adding stuff post-release?](../transcriptions/yt-CsMRdjnUx7U.md) [https://www.youtube.com/watch?v=CsMRdjnUx7U](https://www.youtube.com/watch?v=CsMRdjnUx7U)
+* [Q&A: Will you do free updates after release, paid DLC, or just move on?](../transcriptions/yt-QL_YLSmR5pc.md) [https://www.youtube.com/watch?v=QL_YLSmR5pc](https://www.youtube.com/watch?v=QL_YLSmR5pc)
+
 ## April 27th, 2021 Livestream
 * [State of Dev: Update 5](../transcriptions/yt-6HuXkOLqZN8.md) [https://www.youtube.com/watch?v=6HuXkOLqZN8](https://www.youtube.com/watch?v=6HuXkOLqZN8)
 * [Snutt Talk: Pros & Cons of having Satisfactory in Early Access](../transcriptions/yt-KrDyv_wspsU.md) [https://www.youtube.com/watch?v=KrDyv_wspsU](https://www.youtube.com/watch?v=KrDyv_wspsU)

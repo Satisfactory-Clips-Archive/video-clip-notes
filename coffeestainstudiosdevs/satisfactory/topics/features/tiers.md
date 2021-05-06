@@ -15,6 +15,11 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: QA Site Feature Request - Making the Hover Pack available earlier](../../transcriptions/yt-kgax8gYD0DY.md) [https://www.youtube.com/watch?v=kgax8gYD0DY](https://www.youtube.com/watch?v=kgax8gYD0DY)
+* [Q&A: How long do you think the game will take to beat in 1.0?](../../transcriptions/yt-r4cyIHDA25I.md) [https://www.youtube.com/watch?v=r4cyIHDA25I](https://www.youtube.com/watch?v=r4cyIHDA25I)
+* [Q&A: Recipes subject to change again?](../../transcriptions/yt-XY3ul4kOff4.md) [https://www.youtube.com/watch?v=XY3ul4kOff4](https://www.youtube.com/watch?v=XY3ul4kOff4)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Tier 9, any plan?](../../transcriptions/yt-qTNbKJ6Ys0M.md) [https://www.youtube.com/watch?v=qTNbKJ6Ys0M](https://www.youtube.com/watch?v=qTNbKJ6Ys0M)
 * [Q&A: Any plans to introduce a Blender at lower tiers?](../../transcriptions/yt-6LLHUYJVqz4.md) [https://www.youtube.com/watch?v=6LLHUYJVqz4](https://www.youtube.com/watch?v=6LLHUYJVqz4)

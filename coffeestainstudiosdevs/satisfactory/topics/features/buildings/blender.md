@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Blender
 
+## May 4th, 2021 Livestream
+* [Q&A: What do you use to make models?](../../../transcriptions/yt-pZFmSr5jTAk.md) [https://www.youtube.com/watch?v=pZFmSr5jTAk](https://www.youtube.com/watch?v=pZFmSr5jTAk)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Any plans to introduce a Blender at lower tiers?](../../../transcriptions/yt-6LLHUYJVqz4.md) [https://www.youtube.com/watch?v=6LLHUYJVqz4](https://www.youtube.com/watch?v=6LLHUYJVqz4)
 

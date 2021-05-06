@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## May 4th, 2021 Livestream
+* [Q&A: Will you make the hit boxes on Buildings cleaner, or is that more effort than it's worth?](../../transcriptions/yt-e6lJjw_V5RI.md) [https://www.youtube.com/watch?v=e6lJjw_V5RI](https://www.youtube.com/watch?v=e6lJjw_V5RI)
+* [Q&A: Will you re-work vehicles, or add more?](../../transcriptions/yt-8OZFHe6joWg.md) [https://www.youtube.com/watch?v=8OZFHe6joWg](https://www.youtube.com/watch?v=8OZFHe6joWg)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Will you add structual integrity?](../../transcriptions/yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)
 

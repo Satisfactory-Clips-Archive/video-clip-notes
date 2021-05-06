@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Could you add more Build pieces every week?
 https://www.youtube.com/watch?v=p0CdgjDIsEs
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Any plans to improve the visual part of building in the game?](./yt-k-UDNJY0PWA.md) [https://www.youtube.com/watch?v=k-UDNJY0PWA](https://www.youtube.com/watch?v=k-UDNJY0PWA)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Any ideas on new Wall types, doors, windows, Foundations etc.?](./yt-EjDWJ7WXkC8.md) [https://www.youtube.com/watch?v=EjDWJ7WXkC8](https://www.youtube.com/watch?v=EjDWJ7WXkC8)
 
 
 ### Topics

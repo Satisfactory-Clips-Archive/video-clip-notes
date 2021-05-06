@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Birk
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: Maybe doing another QA Site review in future](../../transcriptions/yt-9MMJ5KItZOU.md) [https://www.youtube.com/watch?v=9MMJ5KItZOU](https://www.youtube.com/watch?v=9MMJ5KItZOU)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: Excitement about Signs](../../transcriptions/yt-n0be66gsOAM.md) [https://www.youtube.com/watch?v=n0be66gsOAM](https://www.youtube.com/watch?v=n0be66gsOAM)
 

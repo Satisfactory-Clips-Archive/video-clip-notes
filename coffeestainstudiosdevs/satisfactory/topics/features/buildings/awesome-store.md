@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## May 4th, 2021 Livestream
+* [Q&A: Is the Golden Cup only a reward in EA, or will there be a final release as well?](../../../transcriptions/yt-T38Lc3xS3BE.md) [https://www.youtube.com/watch?v=T38Lc3xS3BE](https://www.youtube.com/watch?v=T38Lc3xS3BE)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: Any updates to the AWESOME Store?](../../../transcriptions/yt-G-aFnOtVYTw.md) [https://www.youtube.com/watch?v=G-aFnOtVYTw](https://www.youtube.com/watch?v=G-aFnOtVYTw)
 

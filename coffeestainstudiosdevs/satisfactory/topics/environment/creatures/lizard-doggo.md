@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## May 4th, 2021 Livestream
+* [Q&A: Pick up Lizard Doggo as a feature?](../../../transcriptions/yt-laV5SyI3MXg.md) [https://www.youtube.com/watch?v=laV5SyI3MXg](https://www.youtube.com/watch?v=laV5SyI3MXg)
+* [Q&A: Can we breed the Doggos?](../../../transcriptions/yt-NwCEYPgIhNs.md) [https://www.youtube.com/watch?v=NwCEYPgIhNs](https://www.youtube.com/watch?v=NwCEYPgIhNs)
+
 ## April 27th, 2021 Livestream
 * [State of Dev: Merch](../../../transcriptions/yt-m8P1TtWkSpM.md) [https://www.youtube.com/watch?v=m8P1TtWkSpM](https://www.youtube.com/watch?v=m8P1TtWkSpM)
 * [Q&A: Are we doing all this work in the game to earn a 10-piece bucket of chicken?](../../../transcriptions/yt-LgOQ-5jwczg.md) [https://www.youtube.com/watch?v=LgOQ-5jwczg](https://www.youtube.com/watch?v=LgOQ-5jwczg)

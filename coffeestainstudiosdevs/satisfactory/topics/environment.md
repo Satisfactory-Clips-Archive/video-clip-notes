@@ -11,6 +11,10 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## May 4th, 2021 Livestream
+* [Q&A: Is there a secret internal lore for the giant spider skeletons?](../transcriptions/yt-OhNboZ3vVuU.md) [https://www.youtube.com/watch?v=OhNboZ3vVuU](https://www.youtube.com/watch?v=OhNboZ3vVuU)
+* [Q&A: Any chance for a rocket launcher?](../transcriptions/yt-Y3SXMv4Jhs0.md) [https://www.youtube.com/watch?v=Y3SXMv4Jhs0](https://www.youtube.com/watch?v=Y3SXMv4Jhs0)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Are there hidden puzzles in the game?](../transcriptions/yt-m7zB1crQc00.md) [https://www.youtube.com/watch?v=m7zB1crQc00](https://www.youtube.com/watch?v=m7zB1crQc00)
 

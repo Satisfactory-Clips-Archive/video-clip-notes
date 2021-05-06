@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## May 4th, 2021 Livestream
+* [Q&A: Will we be able to stop using mods for more building assets?](../../../transcriptions/yt-YZJ8RChJn2w.md) [https://www.youtube.com/watch?v=YZJ8RChJn2w](https://www.youtube.com/watch?v=YZJ8RChJn2w)
+* [Q&A: Any ideas on new Wall types, doors, windows, Foundations etc.?](../../../transcriptions/yt-EjDWJ7WXkC8.md) [https://www.youtube.com/watch?v=EjDWJ7WXkC8](https://www.youtube.com/watch?v=EjDWJ7WXkC8)
+
 ## April 20th, 2021 Livestream
 * [Q&A: When can we have Doggo houses?](../../../transcriptions/yt-3Dvfr0Nx0Ww.md) [https://www.youtube.com/watch?v=3Dvfr0Nx0Ww](https://www.youtube.com/watch?v=3Dvfr0Nx0Ww)
 * [Q&A: More decoration options planned?](../../../transcriptions/yt-TI92AJYh3eI.md) [https://www.youtube.com/watch?v=TI92AJYh3eI](https://www.youtube.com/watch?v=TI92AJYh3eI)

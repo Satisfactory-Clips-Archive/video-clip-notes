@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Do you guys have any plans for wrangling Lizard Doggos?
 https://www.youtube.com/watch?v=UjpXjYid5ng
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Will we be able to breed the Doggos?](./yt-fdoiF6pPF1M.md) [https://www.youtube.com/watch?v=fdoiF6pPF1M](https://www.youtube.com/watch?v=fdoiF6pPF1M)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Can we breed the Doggos?](./yt-NwCEYPgIhNs.md) [https://www.youtube.com/watch?v=NwCEYPgIhNs](https://www.youtube.com/watch?v=NwCEYPgIhNs)
 
 
 ### Topics

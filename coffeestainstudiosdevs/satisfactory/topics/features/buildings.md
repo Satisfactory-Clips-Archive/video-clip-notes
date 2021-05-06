@@ -23,6 +23,12 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## May 4th, 2021 Livestream
+* [Q&A: Make refineries smaller?](../../transcriptions/yt-TLElVB-PA3M.md) [https://www.youtube.com/watch?v=TLElVB-PA3M](https://www.youtube.com/watch?v=TLElVB-PA3M)
+* [Q&A: Why does power building overclocking follow weird exponential function?](../../transcriptions/yt-6OIxOupnuLI.md) [https://www.youtube.com/watch?v=6OIxOupnuLI](https://www.youtube.com/watch?v=6OIxOupnuLI)
+* [Q&A: Will you make the hit boxes on Buildings cleaner, or is that more effort than it's worth?](../../transcriptions/yt-e6lJjw_V5RI.md) [https://www.youtube.com/watch?v=e6lJjw_V5RI](https://www.youtube.com/watch?v=e6lJjw_V5RI)
+* [Q&A: How many machines will you add?](../../transcriptions/yt-eDymPpcon4E.md) [https://www.youtube.com/watch?v=eDymPpcon4E](https://www.youtube.com/watch?v=eDymPpcon4E)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Mk.2 Buildings?](../../transcriptions/yt-1mj3Rql5vGQ.md) [https://www.youtube.com/watch?v=1mj3Rql5vGQ](https://www.youtube.com/watch?v=1mj3Rql5vGQ)
 * [Snutt Talk: We don't want any type of maintenance in the game](../../transcriptions/yt-Cms8R0fV8s4.md) [https://www.youtube.com/watch?v=Cms8R0fV8s4](https://www.youtube.com/watch?v=Cms8R0fV8s4)

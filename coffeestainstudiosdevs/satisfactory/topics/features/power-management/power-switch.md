@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Switch
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: QA Site Feature Request - Power switches on poles](../../../transcriptions/yt-DXUw14tVRfk.md) [https://www.youtube.com/watch?v=DXUw14tVRfk](https://www.youtube.com/watch?v=DXUw14tVRfk)
+* [Community FYI: Golf in Satisfactory exists, screenshot proof in QA post](../../../transcriptions/yt-YFdrWgy8xEk.md) [https://www.youtube.com/watch?v=YFdrWgy8xEk](https://www.youtube.com/watch?v=YFdrWgy8xEk)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Is the Vehicle lag in Multiplayer a challenge?](../../../transcriptions/yt-K58fUTWGpzU.md) [https://www.youtube.com/watch?v=K58fUTWGpzU](https://www.youtube.com/watch?v=K58fUTWGpzU)
 

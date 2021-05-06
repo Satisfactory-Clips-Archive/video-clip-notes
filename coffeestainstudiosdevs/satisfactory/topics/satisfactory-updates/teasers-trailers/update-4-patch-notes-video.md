@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 4 Patch Notes Video
 
+## May 4th, 2021 Livestream
+* [Q&A: Pick up Lizard Doggo as a feature?](../../../transcriptions/yt-laV5SyI3MXg.md) [https://www.youtube.com/watch?v=laV5SyI3MXg](https://www.youtube.com/watch?v=laV5SyI3MXg)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Community FYI: When you threw the tape at your ps5 it truly hurt. Physically.](../../../transcriptions/yt-oBPsZ50il-8.md) [https://www.youtube.com/watch?v=oBPsZ50il-8](https://www.youtube.com/watch?v=oBPsZ50il-8)
 * [Q&A: Do we have lights though? really?](../../../transcriptions/yt-oUS42DdCFuU.md) [https://www.youtube.com/watch?v=oUS42DdCFuU](https://www.youtube.com/watch?v=oUS42DdCFuU)

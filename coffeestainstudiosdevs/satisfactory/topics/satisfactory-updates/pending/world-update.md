@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > World Update
 
+## May 4th, 2021 Livestream
+* [Community Highlights: Dune Desert Waterfall Mesa & the pending World Updates](../../../transcriptions/yt-b86m8SEx6Vw.md) [https://www.youtube.com/watch?v=b86m8SEx6Vw](https://www.youtube.com/watch?v=b86m8SEx6Vw)
+
 ## April 20th, 2021 Livestream
 * [Q&A: If you have plans to alter the current map, what about bases that are already set up?](../../../transcriptions/yt-HMIybK6hW1k.md) [https://www.youtube.com/watch?v=HMIybK6hW1k](https://www.youtube.com/watch?v=HMIybK6hW1k)
 * [Community FYI: There's places where there's water visually but when you fall there you take damage](../../../transcriptions/yt-Mj6RbY92QtU.md) [https://www.youtube.com/watch?v=Mj6RbY92QtU](https://www.youtube.com/watch?v=Mj6RbY92QtU)

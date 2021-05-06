@@ -3,14 +3,14 @@ title: "April 20th, 2021 Livestream Q&A: Cheatcrete?"
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "features/buildables/foundations"
+    - "features/buildables/foundations/cheatcrete"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Cheatcrete?
 https://www.youtube.com/watch?v=6y1VtRXTYXY
 
 ### Topics
-* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Buildables > Foundations > Cheatcrete](../topics/features/buildables/foundations/cheatcrete.md)
 
 ### Transcript
 

@@ -1,0 +1,21 @@
+---
+title: "May 4th, 2021 Livestream Snutt Talk: QA Site Feature Request - Global build grid"
+date: "2021-05-04"
+layout: transcript
+topics:
+    - "features/buildables/foundations"
+    - "qa-site"
+    - "technology/user-interface"
+---
+# [May 4th, 2021 Livestream](../2021-05-04.md)
+## Snutt Talk: QA Site Feature Request - Global build grid
+https://www.youtube.com/watch?v=3et3lB1Ak7A
+
+### Topics
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [QA Site](../topics/qa-site.md)
+* [Technology > User Interface](../topics/technology/user-interface.md)
+
+### Transcript
+
+> grid for remote factory alignments what is this about yeah this is so this is more like in time tie into like having a global grid um this is something that i think is pretty good this is a pretty good feature imo um something that i also don't know if it will happen but we'll see i guess i don't know anything about this if we've looked into this or not but really cool feature i hope personally we add that at some point because it's it's really tedious when like you're far away and you want to have like a perfect like bridge hooking things up have it being on the same grid would be awesome so yeah

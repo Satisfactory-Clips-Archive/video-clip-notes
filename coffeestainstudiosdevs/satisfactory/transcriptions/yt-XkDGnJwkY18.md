@@ -10,7 +10,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?
 https://www.youtube.com/watch?v=XkDGnJwkY18
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Body Slots?](./yt-G6TdxrJuIaA.md) [https://www.youtube.com/watch?v=G6TdxrJuIaA](https://www.youtube.com/watch?v=G6TdxrJuIaA)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Will there be a new body slot?](./yt-80Ajx6Ml2Aw.md) [https://www.youtube.com/watch?v=80Ajx6Ml2Aw](https://www.youtube.com/watch?v=80Ajx6Ml2Aw)
 
 
 ### Topics

@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Space Exploration
 
+## May 4th, 2021 Livestream
+* [Q&A: Travelling to other planets?](../../../transcriptions/yt-uiRY89T_9mg.md) [https://www.youtube.com/watch?v=uiRY89T_9mg](https://www.youtube.com/watch?v=uiRY89T_9mg)
+* [Community FYI: No Space stuff and no aquatic shit](../../../transcriptions/yt-EHzM9Q79LpE.md) [https://www.youtube.com/watch?v=EHzM9Q79LpE](https://www.youtube.com/watch?v=EHzM9Q79LpE)
+* [Q&A: New planet?](../../../transcriptions/yt-yT6M4mh83Vs.md) [https://www.youtube.com/watch?v=yT6M4mh83Vs](https://www.youtube.com/watch?v=yT6M4mh83Vs)
+
 ## March 30th, 2021 Livestream
 * Q&A: More space-based stuff coming? [https://www.youtube.com/watch?v=pTyR9FXrU_E](https://www.youtube.com/watch?v=pTyR9FXrU_E)
 * [Q&A: No Cyber Wagon in space?](../../../transcriptions/yt-Lkases6Rok0.md) [https://www.youtube.com/watch?v=Lkases6Rok0](https://www.youtube.com/watch?v=Lkases6Rok0)

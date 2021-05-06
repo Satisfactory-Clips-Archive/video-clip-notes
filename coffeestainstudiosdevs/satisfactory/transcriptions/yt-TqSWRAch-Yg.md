@@ -3,7 +3,7 @@ title: "April 27th, 2021 Livestream Q&A: Snutt is going to have Doggo Burgers to
 date: "2021-04-27"
 layout: transcript
 topics:
-    - "coffee-stainers/snutt"
+    - "coffee-stainers/snutt/snutt-burger-time"
     - "environment/creatures/lizard-doggo"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=TqSWRAch-Yg
 
 ### Topics
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Coffee Stainers > Snutt > Snutt Burger Time](../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 
 ### Transcript

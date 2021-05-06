@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Gases
 
+## May 4th, 2021 Livestream
+* [Q&A: Using natural Gases in the game?](../../transcriptions/yt-1D3Q3xWkQ6o.md) [https://www.youtube.com/watch?v=1D3Q3xWkQ6o](https://www.youtube.com/watch?v=1D3Q3xWkQ6o)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Are we going to have more gases in the game?](../../transcriptions/yt-4sc_Wnshsos.md) [https://www.youtube.com/watch?v=4sc_Wnshsos](https://www.youtube.com/watch?v=4sc_Wnshsos)
 * [Community FYI: Need the Nitrogen Gas for fizzy drinks](../../transcriptions/yt-RoKvL8KuXFk.md) [https://www.youtube.com/watch?v=RoKvL8KuXFk](https://www.youtube.com/watch?v=RoKvL8KuXFk)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: Taking radiation damage when there's no radioactive materials in your inventory](../../../../transcriptions/yt-JKh7fGk995o.md) [https://www.youtube.com/watch?v=JKh7fGk995o](https://www.youtube.com/watch?v=JKh7fGk995o)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Will Plutonium Waste be sinkable later?](../../../../transcriptions/yt-G0mmpee5yxE.md) [https://www.youtube.com/watch?v=G0mmpee5yxE](https://www.youtube.com/watch?v=G0mmpee5yxE)
 

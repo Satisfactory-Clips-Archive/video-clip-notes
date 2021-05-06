@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## May 4th, 2021 Livestream
+* [Q&A: Do you like Valheim?](../../transcriptions/yt-C_UznCZxD8M.md) [https://www.youtube.com/watch?v=C_UznCZxD8M](https://www.youtube.com/watch?v=C_UznCZxD8M)
+* [Q&A: When you die in Satisfactory, does the soul go to Valheim?](../../transcriptions/yt-bih1gdyxNMA.md) [https://www.youtube.com/watch?v=bih1gdyxNMA](https://www.youtube.com/watch?v=bih1gdyxNMA)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Any ETA on Valheim Earth & Home Update?](../../transcriptions/yt-tS_CE6H7Oc4.md) [https://www.youtube.com/watch?v=tS_CE6H7Oc4](https://www.youtube.com/watch?v=tS_CE6H7Oc4)
 * [Q&A: Please don't burn the sympathetic Valheim Community Manager](../../transcriptions/yt-I1q8M9cnCQg.md) [https://www.youtube.com/watch?v=I1q8M9cnCQg](https://www.youtube.com/watch?v=I1q8M9cnCQg)

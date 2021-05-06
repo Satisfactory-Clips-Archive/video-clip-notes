@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel
 
+## May 4th, 2021 Livestream
+* [Q&A: Will we get planes to fly in?](../../../transcriptions/yt-6eG84oRSwjE.md) [https://www.youtube.com/watch?v=6eG84oRSwjE](https://www.youtube.com/watch?v=6eG84oRSwjE)
+* Q&A: Why is it a hard no on Planes when we're making Propulsion Engines? [https://www.youtube.com/watch?v=WqLo_thlV88](https://www.youtube.com/watch?v=WqLo_thlV88)
+* [Q&A: Is that why you can't ride the Drones?](../../../transcriptions/yt-38OwCUgGOjs.md) [https://www.youtube.com/watch?v=38OwCUgGOjs](https://www.youtube.com/watch?v=38OwCUgGOjs)
+
 ## April 27th, 2021 Livestream
 * Q&A: Helicopters when? [https://www.youtube.com/watch?v=3MKZhjpTAhg](https://www.youtube.com/watch?v=3MKZhjpTAhg)
 * [Q&A: Planes & Ships?](../../../transcriptions/yt-ZZ4xIUGehNU.md) [https://www.youtube.com/watch?v=ZZ4xIUGehNU](https://www.youtube.com/watch?v=ZZ4xIUGehNU)

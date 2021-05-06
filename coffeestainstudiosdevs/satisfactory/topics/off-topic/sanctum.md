@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum
 
+## May 4th, 2021 Livestream
+* [Q&A: Are you thinking about Sanctum 3?](../../transcriptions/yt-TOKME3PCYXo.md) [https://www.youtube.com/watch?v=TOKME3PCYXo](https://www.youtube.com/watch?v=TOKME3PCYXo)
+
 ## April 20th, 2021 Livestream
 * [Q&A: You've said no defense turrets before, how about tesla towers?](../../transcriptions/yt-NoM9FK-dx6s.md) [https://www.youtube.com/watch?v=NoM9FK-dx6s](https://www.youtube.com/watch?v=NoM9FK-dx6s)
 

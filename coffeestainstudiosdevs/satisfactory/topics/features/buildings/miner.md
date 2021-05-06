@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## May 4th, 2021 Livestream
+* [Q&A: Mk.6 Conveyor Belts?](../../../transcriptions/yt-9KayDn0JaEY.md) [https://www.youtube.com/watch?v=9KayDn0JaEY](https://www.youtube.com/watch?v=9KayDn0JaEY)
+
 ## April 20th, 2021 Livestream
 * [Community FYI: Mk.3 Miners need a few more output belts](../../../transcriptions/yt-OgsFVqnBaR8.md) [https://www.youtube.com/watch?v=OgsFVqnBaR8](https://www.youtube.com/watch?v=OgsFVqnBaR8)
 

@@ -5,6 +5,17 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## May 4th, 2021 Livestream
+* [Q&A: Is there a secret internal lore for the giant spider skeletons?](../transcriptions/yt-OhNboZ3vVuU.md) [https://www.youtube.com/watch?v=OhNboZ3vVuU](https://www.youtube.com/watch?v=OhNboZ3vVuU)
+* [Q&A: Are we going to get the Lore?](../transcriptions/yt-SwWuvwYEubU.md) [https://www.youtube.com/watch?v=SwWuvwYEubU](https://www.youtube.com/watch?v=SwWuvwYEubU)
+* [Q&A: Is Hannah the only one working on the Story?](../transcriptions/yt-j0wtwJ9ZWI8.md) [https://www.youtube.com/watch?v=j0wtwJ9ZWI8](https://www.youtube.com/watch?v=j0wtwJ9ZWI8)
+* [Q&A: Do you like the Story so far?](../transcriptions/yt-2I9bRbAag6Q.md) [https://www.youtube.com/watch?v=2I9bRbAag6Q](https://www.youtube.com/watch?v=2I9bRbAag6Q)
+* [Q&A: How long do you think the game will take to beat in 1.0?](../transcriptions/yt-r4cyIHDA25I.md) [https://www.youtube.com/watch?v=r4cyIHDA25I](https://www.youtube.com/watch?v=r4cyIHDA25I)
+* [Q&A: What do you think about Subnautica?](../transcriptions/yt-5P2O8AGpv-E.md) [https://www.youtube.com/watch?v=5P2O8AGpv-E](https://www.youtube.com/watch?v=5P2O8AGpv-E)
+* [Q&A: Will there be Story?](../transcriptions/yt-SKa_F6Km7sA.md) [https://www.youtube.com/watch?v=SKa_F6Km7sA](https://www.youtube.com/watch?v=SKa_F6Km7sA)
+* [Q&A: What about work-in-progress things like Mercer Spheres?](../transcriptions/yt-y_iC9FJAhYk.md) [https://www.youtube.com/watch?v=y_iC9FJAhYk](https://www.youtube.com/watch?v=y_iC9FJAhYk)
+* [Q&A: Any thoughts about having NPCs?](../transcriptions/yt-w3aiQMS3xBA.md) [https://www.youtube.com/watch?v=w3aiQMS3xBA](https://www.youtube.com/watch?v=w3aiQMS3xBA)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Will you be able to experience the Story regardless of where you're at in the game?](../transcriptions/yt-XWaSY4K9P0U.md) [https://www.youtube.com/watch?v=XWaSY4K9P0U](https://www.youtube.com/watch?v=XWaSY4K9P0U)
 * [Q&A: When are you adding Story?](../transcriptions/yt-U1s8L1JR36Q.md) [https://www.youtube.com/watch?v=U1s8L1JR36Q](https://www.youtube.com/watch?v=U1s8L1JR36Q)

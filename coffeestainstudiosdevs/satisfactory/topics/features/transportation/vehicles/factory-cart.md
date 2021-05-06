@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Factory Cart
 
+## May 4th, 2021 Livestream
+* [Community FYI: Golf in Satisfactory exists, screenshot proof in QA post](../../../../transcriptions/yt-YFdrWgy8xEk.md) [https://www.youtube.com/watch?v=YFdrWgy8xEk](https://www.youtube.com/watch?v=YFdrWgy8xEk)
+
 ## February 9th, 2021 Livestream
 * [Q&A: Can you make a FICSIT remote-control factory cart?](../../../../transcriptions/yt-_l9SmmSzE-M.md) [https://www.youtube.com/watch?v=_l9SmmSzE-M](https://www.youtube.com/watch?v=_l9SmmSzE-M)
 

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## May 4th, 2021 Livestream
+* [Q&A: Just add headlights to the Vehicles, please?](../../../transcriptions/yt-_zbrGpdnQF4.md) [https://www.youtube.com/watch?v=_zbrGpdnQF4](https://www.youtube.com/watch?v=_zbrGpdnQF4)
+* [Q&A: It would be cool if there was a hand equipment slot, you could put a light there?](../../../transcriptions/yt-b6mQ0qUrMX4.md) [https://www.youtube.com/watch?v=b6mQ0qUrMX4](https://www.youtube.com/watch?v=b6mQ0qUrMX4)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Is the Vehicle lag in Multiplayer a challenge?](../../../transcriptions/yt-K58fUTWGpzU.md) [https://www.youtube.com/watch?v=K58fUTWGpzU](https://www.youtube.com/watch?v=K58fUTWGpzU)
 * [Q&A: Do you know why the new lights don't go through glass?](../../../transcriptions/yt-IVz3eNdOyfI.md) [https://www.youtube.com/watch?v=IVz3eNdOyfI](https://www.youtube.com/watch?v=IVz3eNdOyfI)

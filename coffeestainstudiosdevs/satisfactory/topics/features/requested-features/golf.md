@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Requested Features > Golf
 
+## May 4th, 2021 Livestream
+* [Snutt Talk: Latest update on the Golf feature request](../../../transcriptions/yt-f0bRcz6MQpw.md) [https://www.youtube.com/watch?v=f0bRcz6MQpw](https://www.youtube.com/watch?v=f0bRcz6MQpw)
+* [Community FYI: Golf in Satisfactory exists, screenshot proof in QA post](../../../transcriptions/yt-YFdrWgy8xEk.md) [https://www.youtube.com/watch?v=YFdrWgy8xEk](https://www.youtube.com/watch?v=YFdrWgy8xEk)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Could be cool to have golf courses?](../../../transcriptions/yt-SSzg_9XSooM.md) [https://www.youtube.com/watch?v=SSzg_9XSooM](https://www.youtube.com/watch?v=SSzg_9XSooM)
 * [Community FYI: May have just DDOS'd the QA Site](../../../transcriptions/yt-pQC8vMo8PL0.md) [https://www.youtube.com/watch?v=pQC8vMo8PL0](https://www.youtube.com/watch?v=pQC8vMo8PL0)

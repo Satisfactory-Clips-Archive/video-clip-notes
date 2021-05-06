@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: When do we get the Crab Boss?
 https://www.youtube.com/watch?v=m4PtschrKJc
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Any new aliens coming?](./yt-d5A3AQG5YoE.md) [https://www.youtube.com/watch?v=d5A3AQG5YoE](https://www.youtube.com/watch?v=d5A3AQG5YoE)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Plans to add new mobs?](./yt-l7vpFCb_aeo.md) [https://www.youtube.com/watch?v=l7vpFCb_aeo](https://www.youtube.com/watch?v=l7vpFCb_aeo)
 
 
 ### Topics

@@ -10,6 +10,9 @@ date: Last Modified
 * [Update 4 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
 * [Update 4 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
 
+## May 4th, 2021 Livestream
+* [Q&A: Are we going to get the Lore?](../../transcriptions/yt-SwWuvwYEubU.md) [https://www.youtube.com/watch?v=SwWuvwYEubU](https://www.youtube.com/watch?v=SwWuvwYEubU)
+
 ## March 30th, 2021 Livestream
 * [Snutt Talk: Community Highlights entry reminds Snutt of early trailer](../../transcriptions/yt-_F411Nlu46Q.md) [https://www.youtube.com/watch?v=_F411Nlu46Q](https://www.youtube.com/watch?v=_F411Nlu46Q)
 * [Q&A: Will there be any more Dora and Diego?](../../transcriptions/yt-9R0ldFVasJw.md) [https://www.youtube.com/watch?v=9R0ldFVasJw](https://www.youtube.com/watch?v=9R0ldFVasJw)

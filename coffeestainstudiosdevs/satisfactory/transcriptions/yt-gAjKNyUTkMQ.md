@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: When will you be adding more wildlife?
 https://www.youtube.com/watch?v=gAjKNyUTkMQ
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Any new aliens coming?](./yt-d5A3AQG5YoE.md) [https://www.youtube.com/watch?v=d5A3AQG5YoE](https://www.youtube.com/watch?v=d5A3AQG5YoE)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Plans to add new mobs?](./yt-l7vpFCb_aeo.md) [https://www.youtube.com/watch?v=l7vpFCb_aeo](https://www.youtube.com/watch?v=l7vpFCb_aeo)
 
 
 ### Topics
