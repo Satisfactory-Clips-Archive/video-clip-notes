@@ -4,8 +4,8 @@ date: "2021-01-26"
 layout: transcript
 topics:
     - "features/transportation/trains"
+    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/speculative/satisfactory-update-5"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Have there been any changes on Train collision stuff?
@@ -15,8 +15,8 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 
 ### Transcript
 

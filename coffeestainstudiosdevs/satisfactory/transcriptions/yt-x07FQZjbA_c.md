@@ -8,8 +8,8 @@ topics:
     - "features/buildings/refinery"
     - "features/fluids/pipes"
     - "features/power-management"
+    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/speculative/satisfactory-update-5"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Are there internal discussions to significantly rework existing buildings like refineries?
@@ -21,8 +21,8 @@ https://www.youtube.com/watch?v=x07FQZjbA_c
 * [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -4,8 +4,8 @@ date: "2021-04-20"
 layout: transcript
 topics:
     - "satisfactory-updates"
+    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-fluids-update"
-    - "satisfactory-updates/speculative/satisfactory-update-5"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Will there be an Update 4.5?
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=rczQrecqq6w
 
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 
 ### Transcript
 

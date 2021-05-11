@@ -345,6 +345,7 @@ date: Last Modified
 
 ## Pending
 * [World Update](./topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Update 5](./topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 ---
 
@@ -364,7 +365,6 @@ date: Last Modified
 ---
 
 ## Speculative
-* [Satisfactory Update 5](./topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Update 6](./topics/satisfactory-updates/speculative/satisfactory-update-6.md)
 * [Satisfactory Update 7](./topics/satisfactory-updates/speculative/satisfactory-update-7.md)
 * [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)

@@ -3,14 +3,14 @@ title: "September 15th, 2020 Livestream Snutt & Jace Talk: Update 5"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-5"
+    - "satisfactory-updates/pending/satisfactory-update-5"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Snutt & Jace Talk: Update 5
 https://www.youtube.com/watch?v=Fq5fx3DzOU8
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 
 ### Transcript
 

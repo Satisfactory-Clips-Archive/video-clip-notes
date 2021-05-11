@@ -4,8 +4,8 @@ date: "2021-05-04"
 layout: transcript
 topics:
     - "features/buildables/foundations/cheatcrete"
+    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/satisfactory-prototypes"
-    - "satisfactory-updates/speculative/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=GJN3Vm_kJgs
 
 ### Topics
 * [Features > Buildables > Foundations > Cheatcrete](../topics/features/buildables/foundations/cheatcrete.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

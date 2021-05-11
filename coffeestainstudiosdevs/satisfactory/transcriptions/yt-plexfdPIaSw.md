@@ -4,9 +4,9 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "features/tiers/tier-8"
+    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-3"
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/speculative/satisfactory-update-5"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: When's Tier 8 coming?
@@ -22,9 +22,9 @@ This question was possibly replaced with a more recent answer: [December 8th, 20
 
 ### Topics
 * [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/transportation/trains"
     - "features/transportation/trains/train-signals"
-    - "satisfactory-updates/speculative/satisfactory-update-5"
+    - "satisfactory-updates/pending/satisfactory-update-5"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Will Train Signals come in Update 5?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=A9o2zd2uN80
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 
 ### Transcript
 

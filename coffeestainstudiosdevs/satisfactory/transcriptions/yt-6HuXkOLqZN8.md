@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "coffee-stainers"
     - "satisfactory-updates"
+    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/seasonal-events/fics-mas"
-    - "satisfactory-updates/speculative/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=6HuXkOLqZN8
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

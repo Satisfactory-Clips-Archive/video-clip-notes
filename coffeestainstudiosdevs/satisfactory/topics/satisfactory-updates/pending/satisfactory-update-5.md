@@ -2,7 +2,7 @@
 title: "Satisfactory Update 5"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 5
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
 
 ## May 4th, 2021 Livestream
 * [State of Dev: Working on Update 5](../../../transcriptions/yt-kp2pVEkljB4.md) [https://www.youtube.com/watch?v=kp2pVEkljB4](https://www.youtube.com/watch?v=kp2pVEkljB4)

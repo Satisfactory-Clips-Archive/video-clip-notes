@@ -4,14 +4,14 @@ date: "2021-04-23"
 layout: transcript
 topics: 
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/speculative/satisfactory-update-5"
+    - "satisfactory-updates/pending/satisfactory-update-5"
 ---
 # [April 23rd, 2021 Known Issues with Update 4 and WHAT'S NEXT for Satisfactory??? 👀](../2021-04-23.md)
 ## Snutt Talk: The future for Satisfactory
 https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=461&end=523
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "April 20th, 2021 Livestream State of Dev: Update 5"
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-5"
+    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=M3Q2LG6RaI8
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

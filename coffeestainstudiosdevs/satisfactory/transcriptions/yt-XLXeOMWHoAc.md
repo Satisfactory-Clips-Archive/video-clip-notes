@@ -4,8 +4,8 @@ date: "2021-02-23"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
+    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/speculative/satisfactory-update-5"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Any more major updates planned before 1.0?
@@ -15,8 +15,8 @@ This question was possibly duplicated with a more recent answer: April 20th, 202
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/mark"
     - "qa-site"
-    - "satisfactory-updates/speculative/satisfactory-update-5"
+    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=VaVktWVoFds
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
 * [QA Site](../topics/qa-site.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

@@ -4,7 +4,7 @@ date: "2021-01-26"
 layout: transcript
 topics:
     - "features/tiers"
-    - "satisfactory-updates/speculative/satisfactory-update-5"
+    - "satisfactory-updates/pending/satisfactory-update-5"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Update 5 new Tiers?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=DyXs7ps8cOY
 
 ### Topics
 * [Features > Tiers](../topics/features/tiers.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "April 20th, 2021 Livestream Q&A: Any timeframe for Update 5?"
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-5"
+    - "satisfactory-updates/pending/satisfactory-update-5"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Any timeframe for Update 5?
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=3vGN4jCBhdY
 
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 5](../topics/satisfactory-updates/speculative/satisfactory-update-5.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 
 ### Transcript
 
