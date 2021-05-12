@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## May 11th, 2021 Livestream
+* [Q&A: When's the next EA Update?](../../transcriptions/yt-oRZCBpRdFqE.md) [https://www.youtube.com/watch?v=oRZCBpRdFqE](https://www.youtube.com/watch?v=oRZCBpRdFqE)
+
 ## May 4th, 2021 Livestream
 * [State of Dev: Connectivity Issues](../../transcriptions/yt-varBpNnpo7U.md) [https://www.youtube.com/watch?v=varBpNnpo7U](https://www.youtube.com/watch?v=varBpNnpo7U)
 * [State of Dev: Working on Update 5](../../transcriptions/yt-kp2pVEkljB4.md) [https://www.youtube.com/watch?v=kp2pVEkljB4](https://www.youtube.com/watch?v=kp2pVEkljB4)

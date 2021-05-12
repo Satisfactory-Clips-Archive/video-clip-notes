@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Save System](../../../topics/features/save-system.md) > Autosave
 
+## May 11th, 2021 Livestream
+* [Q&A: Workaround for client disconnecting on long saving processes? (Part 1)](../../../transcriptions/yt-uXQgdOqsBbc.md) [https://www.youtube.com/watch?v=uXQgdOqsBbc](https://www.youtube.com/watch?v=uXQgdOqsBbc)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Faster autosaves?](../../../transcriptions/yt-V1HcV3g7ELg.md) [https://www.youtube.com/watch?v=V1HcV3g7ELg](https://www.youtube.com/watch?v=V1HcV3g7ELg)
 

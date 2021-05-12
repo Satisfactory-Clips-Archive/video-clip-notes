@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## May 11th, 2021 Livestream
+* [Q&A: When's the next EA Update?](../../transcriptions/yt-oRZCBpRdFqE.md) [https://www.youtube.com/watch?v=oRZCBpRdFqE](https://www.youtube.com/watch?v=oRZCBpRdFqE)
+* [Q&A: What's up with Jace?](../../transcriptions/yt-PvMiTd6cWRs.md) [https://www.youtube.com/watch?v=PvMiTd6cWRs](https://www.youtube.com/watch?v=PvMiTd6cWRs)
+
 ## May 4th, 2021 Livestream
 * [Q&A: When is Jace coming back?](../../transcriptions/yt-P5mLMN5fdg8.md) [https://www.youtube.com/watch?v=P5mLMN5fdg8](https://www.youtube.com/watch?v=P5mLMN5fdg8)
 

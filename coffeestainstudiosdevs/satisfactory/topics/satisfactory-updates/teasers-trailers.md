@@ -10,6 +10,10 @@ date: Last Modified
 * [Update 4 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
 * [Update 4 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Snutt plays the game?](../../transcriptions/yt-uqKyjrtWJ7M.md) [https://www.youtube.com/watch?v=uqKyjrtWJ7M](https://www.youtube.com/watch?v=uqKyjrtWJ7M)
+* [Q&A: Friday new video?](../../transcriptions/yt-i9dHKJHDrqM.md) [https://www.youtube.com/watch?v=i9dHKJHDrqM](https://www.youtube.com/watch?v=i9dHKJHDrqM)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Are we going to get the Lore?](../../transcriptions/yt-SwWuvwYEubU.md) [https://www.youtube.com/watch?v=SwWuvwYEubU](https://www.youtube.com/watch?v=SwWuvwYEubU)
 

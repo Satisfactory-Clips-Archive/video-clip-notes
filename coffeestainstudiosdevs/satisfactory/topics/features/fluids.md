@@ -7,6 +7,9 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Can you add Trucks that carry liquids?](../../transcriptions/yt-2EiZU9aWekQ.md) [https://www.youtube.com/watch?v=2EiZU9aWekQ](https://www.youtube.com/watch?v=2EiZU9aWekQ)
+
 ## May 4th, 2021 Livestream
 * [Q&A: The flow rate issue in Pipes, is intended or will it be fixed?](../../transcriptions/yt-ZiAvo3uDBCM.md) [https://www.youtube.com/watch?v=ZiAvo3uDBCM](https://www.youtube.com/watch?v=ZiAvo3uDBCM)
 

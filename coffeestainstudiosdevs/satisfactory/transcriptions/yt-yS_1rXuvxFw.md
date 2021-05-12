@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will there be a Peacfull Mode with no Hostile Creatures?
 https://www.youtube.com/watch?v=yS_1rXuvxFw
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be a Peaceful Mode like in Subnautica?](./yt-NQcQeykbc1E.md) [https://www.youtube.com/watch?v=NQcQeykbc1E](https://www.youtube.com/watch?v=NQcQeykbc1E)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Will there be a Peaceful mode?](./yt-P2H7Yidopbo.md) [https://www.youtube.com/watch?v=P2H7Yidopbo](https://www.youtube.com/watch?v=P2H7Yidopbo)
 
 
 ### Topics

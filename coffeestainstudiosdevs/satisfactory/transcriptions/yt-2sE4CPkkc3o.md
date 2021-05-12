@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Can we have food-making in the game?
 https://www.youtube.com/watch?v=2sE4CPkkc3o
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Farms?](./yt-kq125_HSqqE.md) [https://www.youtube.com/watch?v=kq125_HSqqE](https://www.youtube.com/watch?v=kq125_HSqqE)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Grow things?](./yt-drp-Fjdq8Q0.md) [https://www.youtube.com/watch?v=drp-Fjdq8Q0](https://www.youtube.com/watch?v=drp-Fjdq8Q0)
 
 
 ### Topics

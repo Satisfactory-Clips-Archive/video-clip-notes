@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
 
+## May 11th, 2021 Livestream
+* [Q&A: What about allowing a second person in the buggy?](../../../../transcriptions/yt-RENRn0EnoZE.md) [https://www.youtube.com/watch?v=RENRn0EnoZE](https://www.youtube.com/watch?v=RENRn0EnoZE)
+
 ## January 12th, 2021 Livestream
 * [Q&A: Model of the Explorer seems incomplete?](../../../../transcriptions/yt-8wGU5mxm-bY.md) [https://www.youtube.com/watch?v=8wGU5mxm-bY](https://www.youtube.com/watch?v=8wGU5mxm-bY)
 

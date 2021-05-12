@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
 
+## May 11th, 2021 Livestream
+* [State of Dev: Working on Update 5](../../../transcriptions/yt-R3j3H4zNhjc.md) [https://www.youtube.com/watch?v=R3j3H4zNhjc](https://www.youtube.com/watch?v=R3j3H4zNhjc)
+* [State of Dev: Expected release window for Update 5](../../../transcriptions/yt-3Y23DYvgwhE.md) [https://www.youtube.com/watch?v=3Y23DYvgwhE](https://www.youtube.com/watch?v=3Y23DYvgwhE)
+* [State of Dev: Cheatcrete-related changes in Update 5](../../../transcriptions/yt-g-YO3v6JbSY.md) [https://www.youtube.com/watch?v=g-YO3v6JbSY](https://www.youtube.com/watch?v=g-YO3v6JbSY)
+* [Q&A: Any news about Update 6?](../../../transcriptions/yt-bIyYDcFuAhA.md) [https://www.youtube.com/watch?v=bIyYDcFuAhA](https://www.youtube.com/watch?v=bIyYDcFuAhA)
+* [Q&A: Roundations, Update 5 maybe?](../../../transcriptions/yt-NNpsw0IUTW4.md) [https://www.youtube.com/watch?v=NNpsw0IUTW4](https://www.youtube.com/watch?v=NNpsw0IUTW4)
+* [Q&A: What are the next Release planned dates?](../../../transcriptions/yt-wy6pur6OiWQ.md) [https://www.youtube.com/watch?v=wy6pur6OiWQ](https://www.youtube.com/watch?v=wy6pur6OiWQ)
+
 ## May 4th, 2021 Livestream
 * [State of Dev: Working on Update 5](../../../transcriptions/yt-kp2pVEkljB4.md) [https://www.youtube.com/watch?v=kp2pVEkljB4](https://www.youtube.com/watch?v=kp2pVEkljB4)
 * [State of Dev: Cheatcrete](../../../transcriptions/yt-GJN3Vm_kJgs.md) [https://www.youtube.com/watch?v=GJN3Vm_kJgs](https://www.youtube.com/watch?v=GJN3Vm_kJgs)

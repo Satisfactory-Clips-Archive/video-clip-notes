@@ -9,6 +9,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Mk. 2 Hypertubes?
 https://www.youtube.com/watch?v=SFKNdledOaA
+This question was possibly duplicated with a more recent answer: May 11th, 2021 Livestream Q&A: Hypertube Mk.2? [https://www.youtube.com/watch?v=csZRil9m6QI](https://www.youtube.com/watch?v=csZRil9m6QI)
+
 
 ### Topics
 * [Features > Transportation > Hyper Tubes](../topics/features/transportation/hyper-tubes.md)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 3
 
+## May 11th, 2021 Livestream
+* [Q&A: Any news about Update 6?](../../../transcriptions/yt-bIyYDcFuAhA.md) [https://www.youtube.com/watch?v=bIyYDcFuAhA](https://www.youtube.com/watch?v=bIyYDcFuAhA)
+
 ## March 30th, 2021 Livestream
 * [Community FYI: My Update 4 playthrough is running really well compared to Update 3](../../../transcriptions/yt-uO646ew3dfo.md) [https://www.youtube.com/watch?v=uO646ew3dfo](https://www.youtube.com/watch?v=uO646ew3dfo)
 

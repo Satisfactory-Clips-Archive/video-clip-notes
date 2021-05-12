@@ -23,6 +23,10 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## May 11th, 2021 Livestream
+* [State of Dev: Cheatcrete-related changes in Update 5](../../transcriptions/yt-g-YO3v6JbSY.md) [https://www.youtube.com/watch?v=g-YO3v6JbSY](https://www.youtube.com/watch?v=g-YO3v6JbSY)
+* [Q&A: Buildings that can be daisy-chained like the lights?](../../transcriptions/yt-JoMBbznOXGs.md) [https://www.youtube.com/watch?v=JoMBbznOXGs](https://www.youtube.com/watch?v=JoMBbznOXGs)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Make refineries smaller?](../../transcriptions/yt-TLElVB-PA3M.md) [https://www.youtube.com/watch?v=TLElVB-PA3M](https://www.youtube.com/watch?v=TLElVB-PA3M)
 * [Q&A: Why does power building overclocking follow weird exponential function?](../../transcriptions/yt-6OIxOupnuLI.md) [https://www.youtube.com/watch?v=6OIxOupnuLI](https://www.youtube.com/watch?v=6OIxOupnuLI)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Buildings](../../../../topics/features/buildings.md) > [Space Elevator](../../../../topics/features/buildings/space-elevator.md) > Food Court
 
+## May 11th, 2021 Livestream
+* [Q&A: Bar at the top of the Space Elevator?](../../../../transcriptions/yt-01kKtFHOsUg.md) [https://www.youtube.com/watch?v=01kKtFHOsUg](https://www.youtube.com/watch?v=01kKtFHOsUg)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Visit the Food Court?](../../../../transcriptions/yt-wpeE1y2iEMA.md) [https://www.youtube.com/watch?v=wpeE1y2iEMA](https://www.youtube.com/watch?v=wpeE1y2iEMA)
 

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Terrible Jokes
 
+## May 11th, 2021 Livestream
+* [Q&A: Mug?](../../transcriptions/yt-MNWvQrzo_Rk.md) [https://www.youtube.com/watch?v=MNWvQrzo_Rk](https://www.youtube.com/watch?v=MNWvQrzo_Rk)
+* [Q&A: Want to hear a UDP joke?](../../transcriptions/yt-HOv4TSMIrzU.md) [https://www.youtube.com/watch?v=HOv4TSMIrzU](https://www.youtube.com/watch?v=HOv4TSMIrzU)
+
 ## May 4th, 2021 Livestream
 * [Q&A: What do you use to make models?](../../transcriptions/yt-pZFmSr5jTAk.md) [https://www.youtube.com/watch?v=pZFmSr5jTAk](https://www.youtube.com/watch?v=pZFmSr5jTAk)
 * Q&A: Were the Paint Gun textures made in Paint? [https://www.youtube.com/watch?v=3A1v13ZMLZc](https://www.youtube.com/watch?v=3A1v13ZMLZc)

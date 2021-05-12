@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Mass Building
 
+## May 11th, 2021 Livestream
+* [Q&A: Any news about Mass Foundations or Building Blueprints?](../../../transcriptions/yt-U3HL6b4ugC4.md) [https://www.youtube.com/watch?v=U3HL6b4ugC4](https://www.youtube.com/watch?v=U3HL6b4ugC4)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Mass building like the Smart! Mod?](../../../transcriptions/yt-ewd0MlE-zzA.md) [https://www.youtube.com/watch?v=ewd0MlE-zzA](https://www.youtube.com/watch?v=ewd0MlE-zzA)
 * [Q&A: Have you considered something like the Smart! mod for foundations?](../../../transcriptions/yt-kZtseQMvMvo.md) [https://www.youtube.com/watch?v=kZtseQMvMvo](https://www.youtube.com/watch?v=kZtseQMvMvo)

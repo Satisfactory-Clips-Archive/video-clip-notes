@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## May 11th, 2021 Livestream
+* [Q&A: What's up with Jace?](../../transcriptions/yt-PvMiTd6cWRs.md) [https://www.youtube.com/watch?v=PvMiTd6cWRs](https://www.youtube.com/watch?v=PvMiTd6cWRs)
+* [Q&A: Jace is officially Satisfactory Pro?](../../transcriptions/yt-CqKiFu-37vQ.md) [https://www.youtube.com/watch?v=CqKiFu-37vQ](https://www.youtube.com/watch?v=CqKiFu-37vQ)
+* [Q&A: Friday new video?](../../transcriptions/yt-i9dHKJHDrqM.md) [https://www.youtube.com/watch?v=i9dHKJHDrqM](https://www.youtube.com/watch?v=i9dHKJHDrqM)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Update on Cup Merch?](../../transcriptions/yt-EwycHQo44KE.md) [https://www.youtube.com/watch?v=EwycHQo44KE](https://www.youtube.com/watch?v=EwycHQo44KE)
 * [Q&A: EA game reward, Jace & Snutt poster in the HUB?](../../transcriptions/yt-sSUNc_iHBWc.md) [https://www.youtube.com/watch?v=sSUNc_iHBWc](https://www.youtube.com/watch?v=sSUNc_iHBWc)

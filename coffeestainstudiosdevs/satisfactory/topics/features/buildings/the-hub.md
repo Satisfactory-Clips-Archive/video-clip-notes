@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## May 11th, 2021 Livestream
+* [Q&A: Will there be functionality for the HUB inside?](../../../transcriptions/yt-4cBtSl7Pwwk.md) [https://www.youtube.com/watch?v=4cBtSl7Pwwk](https://www.youtube.com/watch?v=4cBtSl7Pwwk)
+* [Q&A: What about toaster support?](../../../transcriptions/yt-K-9W322q7fs.md) [https://www.youtube.com/watch?v=K-9W322q7fs](https://www.youtube.com/watch?v=K-9W322q7fs)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: QA Site feature request - Days without incident](../../../transcriptions/yt-9Dx-cNdtNGA.md) [https://www.youtube.com/watch?v=9Dx-cNdtNGA](https://www.youtube.com/watch?v=9Dx-cNdtNGA)
 * [Q&A: EA game reward, Jace & Snutt poster in the HUB?](../../../transcriptions/yt-sSUNc_iHBWc.md) [https://www.youtube.com/watch?v=sSUNc_iHBWc](https://www.youtube.com/watch?v=sSUNc_iHBWc)

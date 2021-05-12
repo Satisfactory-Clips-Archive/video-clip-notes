@@ -6,6 +6,12 @@ date: Last Modified
 * [Custom Component: Instanced Spline Mesh](../../topics/technology/unreal-engine/custom-component-instanced-spline-mesh.md)
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Wasn't Update 4 the "Performance Update" ?](../../transcriptions/yt-F1LcL3vjHFo.md) [https://www.youtube.com/watch?v=F1LcL3vjHFo](https://www.youtube.com/watch?v=F1LcL3vjHFo)
+* [Q&A: When's the next EA Update?](../../transcriptions/yt-oRZCBpRdFqE.md) [https://www.youtube.com/watch?v=oRZCBpRdFqE](https://www.youtube.com/watch?v=oRZCBpRdFqE)
+* [Q&A: Any workarounds for the D3D Fault in Unreal Engine?](../../transcriptions/yt-oTvvZRRfLKY.md) [https://www.youtube.com/watch?v=oTvvZRRfLKY](https://www.youtube.com/watch?v=oTvvZRRfLKY)
+* [Q&A: Is there a fix so the new lights emit shadows?](../../transcriptions/yt-wIvvNslWt78.md) [https://www.youtube.com/watch?v=wIvvNslWt78](https://www.youtube.com/watch?v=wIvvNslWt78)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Can we use beds to sleep overnight?](../../transcriptions/yt-84Mwit3dmQk.md) [https://www.youtube.com/watch?v=84Mwit3dmQk](https://www.youtube.com/watch?v=84Mwit3dmQk)
 * [Q&A: Do you need to make another Engine Upgrade to make the Cyber Wagon wheels round?](../../transcriptions/yt-2bk0Yp7BSi4.md) [https://www.youtube.com/watch?v=2bk0Yp7BSi4](https://www.youtube.com/watch?v=2bk0Yp7BSi4)

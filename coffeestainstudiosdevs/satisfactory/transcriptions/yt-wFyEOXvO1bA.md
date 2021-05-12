@@ -9,7 +9,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Any plans to daisy-chain Buildings together to not have Power Poles everywhere?
 https://www.youtube.com/watch?v=wFyEOXvO1bA
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Daisy-chain all building power?](./yt-y86EDzn4-bY.md) [https://www.youtube.com/watch?v=y86EDzn4-bY](https://www.youtube.com/watch?v=y86EDzn4-bY)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Buildings that can be daisy-chained like the lights?](./yt-JoMBbznOXGs.md) [https://www.youtube.com/watch?v=JoMBbznOXGs](https://www.youtube.com/watch?v=JoMBbznOXGs)
 
 
 ### Topics

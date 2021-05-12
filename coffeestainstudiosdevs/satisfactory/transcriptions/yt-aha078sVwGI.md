@@ -9,11 +9,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Any news about fix for Multiplayer, issues where some players cannot join?
 https://www.youtube.com/watch?v=aha078sVwGI
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as May 2021.</summary>
-
-* [May 4th, 2021 Livestream Q&A: Multiplayer update?](./yt-wIu9YvRbl5Q.md) [https://www.youtube.com/watch?v=wIu9YvRbl5Q](https://www.youtube.com/watch?v=wIu9YvRbl5Q)
-</details>
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Did you know about the multiplayer bugs where I can't join a game or find it?](./yt-XxVEpTpQvcg.md) [https://www.youtube.com/watch?v=XxVEpTpQvcg](https://www.youtube.com/watch?v=XxVEpTpQvcg)
 
 
 ### Topics

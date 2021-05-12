@@ -9,6 +9,11 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Will enemies ever become more of a threat?](../../transcriptions/yt-3u0vyx3Dh6I.md) [https://www.youtube.com/watch?v=3u0vyx3Dh6I](https://www.youtube.com/watch?v=3u0vyx3Dh6I)
+* [Community FYI: Chainsaw needs to kill animals](../../transcriptions/yt-Sqcj2hdaKIM.md) [https://www.youtube.com/watch?v=Sqcj2hdaKIM](https://www.youtube.com/watch?v=Sqcj2hdaKIM)
+* [Q&A: Can we tame and ride the spiders?](../../transcriptions/yt-U0ZbXSRFOdw.md) [https://www.youtube.com/watch?v=U0ZbXSRFOdw](https://www.youtube.com/watch?v=U0ZbXSRFOdw)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Is there any reason why the Spiders look like that?](../../transcriptions/yt-s4sl2h532UM.md) [https://www.youtube.com/watch?v=s4sl2h532UM](https://www.youtube.com/watch?v=s4sl2h532UM)
 * [Q&A: Will there be bigger Spiders?](../../transcriptions/yt-yYRa-PlV17k.md) [https://www.youtube.com/watch?v=yYRa-PlV17k](https://www.youtube.com/watch?v=yYRa-PlV17k)

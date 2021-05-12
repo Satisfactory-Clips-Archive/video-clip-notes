@@ -5,6 +5,17 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## May 11th, 2021 Livestream
+* [State of Dev: Dedicated Servers](../../transcriptions/yt-IkZ23OHL5OE.md) [https://www.youtube.com/watch?v=IkZ23OHL5OE](https://www.youtube.com/watch?v=IkZ23OHL5OE)
+* [Q&A: When's the next EA Update?](../../transcriptions/yt-oRZCBpRdFqE.md) [https://www.youtube.com/watch?v=oRZCBpRdFqE](https://www.youtube.com/watch?v=oRZCBpRdFqE)
+* [Q&A: Did you know about the multiplayer bugs where I can't join a game or find it?](../../transcriptions/yt-XxVEpTpQvcg.md) [https://www.youtube.com/watch?v=XxVEpTpQvcg](https://www.youtube.com/watch?v=XxVEpTpQvcg)
+* [Q&A: Game requires high internet bandwidth, is a LAN multiplayer mode possible?](../../transcriptions/yt-EmGxKbgbamQ.md) [https://www.youtube.com/watch?v=EmGxKbgbamQ](https://www.youtube.com/watch?v=EmGxKbgbamQ)
+* [Q&A: Is it TCP or UDP?](../../transcriptions/yt-fWXyMbvdIKI.md) [https://www.youtube.com/watch?v=fWXyMbvdIKI](https://www.youtube.com/watch?v=fWXyMbvdIKI)
+* [Q&A: Workaround for client disconnecting on long saving processes? (Part 1)](../../transcriptions/yt-uXQgdOqsBbc.md) [https://www.youtube.com/watch?v=uXQgdOqsBbc](https://www.youtube.com/watch?v=uXQgdOqsBbc)
+* [Q&A: Workaround for client disconnecting on long saving processes? (Part 2)](../../transcriptions/yt-ob6i4CfQmnM.md) [https://www.youtube.com/watch?v=ob6i4CfQmnM](https://www.youtube.com/watch?v=ob6i4CfQmnM)
+* [Q&A: Increase the timeout by default?](../../transcriptions/yt-tnLtI9xAxkA.md) [https://www.youtube.com/watch?v=tnLtI9xAxkA](https://www.youtube.com/watch?v=tnLtI9xAxkA)
+* [Q&A: Does the game server host without graphics rendering fix some of the issues?](../../transcriptions/yt-j3QyZRmqpyw.md) [https://www.youtube.com/watch?v=j3QyZRmqpyw](https://www.youtube.com/watch?v=j3QyZRmqpyw)
+
 ## May 4th, 2021 Livestream
 * [State of Dev: Connectivity Issues](../../transcriptions/yt-varBpNnpo7U.md) [https://www.youtube.com/watch?v=varBpNnpo7U](https://www.youtube.com/watch?v=varBpNnpo7U)
 * [State of Dev: Multiplayer issues & Dedicated Servers](../../transcriptions/yt-Q3xs2lnP4YM.md) [https://www.youtube.com/watch?v=Q3xs2lnP4YM](https://www.youtube.com/watch?v=Q3xs2lnP4YM)

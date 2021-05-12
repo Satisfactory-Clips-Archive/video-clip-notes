@@ -8,6 +8,8 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Merch?
 https://www.youtube.com/watch?v=1Mdtq6Ytb1g
+This question was possibly duplicated with a more recent answer: [September 1st, 2020 Livestream Q&A: What about the Merch?](./yt-jQyDj_wa0LA.md) [https://www.youtube.com/watch?v=jQyDj_wa0LA](https://www.youtube.com/watch?v=jQyDj_wa0LA)
+
 
 ### Topics
 * [Merch](../topics/merch.md)

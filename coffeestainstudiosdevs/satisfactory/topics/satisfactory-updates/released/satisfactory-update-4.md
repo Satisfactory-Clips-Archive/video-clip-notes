@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## May 11th, 2021 Livestream
+* [Q&A: Wasn't Update 4 the "Performance Update" ?](../../../transcriptions/yt-F1LcL3vjHFo.md) [https://www.youtube.com/watch?v=F1LcL3vjHFo](https://www.youtube.com/watch?v=F1LcL3vjHFo)
+
 ## May 4th, 2021 Livestream
 * [State of Dev: mid-stream reiteration](../../../transcriptions/yt-PdewBPMQ2jk.md) [https://www.youtube.com/watch?v=PdewBPMQ2jk](https://www.youtube.com/watch?v=PdewBPMQ2jk)
 * [Q&A: Can we use beds to sleep overnight?](../../../transcriptions/yt-84Mwit3dmQk.md) [https://www.youtube.com/watch?v=84Mwit3dmQk](https://www.youtube.com/watch?v=84Mwit3dmQk)

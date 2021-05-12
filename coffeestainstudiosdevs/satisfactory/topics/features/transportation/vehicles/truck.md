@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## May 11th, 2021 Livestream
+* [Q&A: Can you add Trucks that carry liquids?](../../../../transcriptions/yt-2EiZU9aWekQ.md) [https://www.youtube.com/watch?v=2EiZU9aWekQ](https://www.youtube.com/watch?v=2EiZU9aWekQ)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Does looking into pathfinding apply to Truck & Tractor pathfinding?](../../../../transcriptions/yt-wANkw8R1tKQ.md) [https://www.youtube.com/watch?v=wANkw8R1tKQ](https://www.youtube.com/watch?v=wANkw8R1tKQ)
 

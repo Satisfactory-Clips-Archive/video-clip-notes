@@ -18,6 +18,10 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Lego set please?](../transcriptions/yt-sjo3yhJzE0Y.md) [https://www.youtube.com/watch?v=sjo3yhJzE0Y](https://www.youtube.com/watch?v=sjo3yhJzE0Y)
+* [Q&A: Will enemies ever become more of a threat?](../transcriptions/yt-3u0vyx3Dh6I.md) [https://www.youtube.com/watch?v=3u0vyx3Dh6I](https://www.youtube.com/watch?v=3u0vyx3Dh6I)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Speedrunning support for 1.0?](../transcriptions/yt-u73FUuS5_ys.md) [https://www.youtube.com/watch?v=u73FUuS5_ys](https://www.youtube.com/watch?v=u73FUuS5_ys)
 * [Q&A: Why would you need support for speedrunning?](../transcriptions/yt-d0O-WTsvAYA.md) [https://www.youtube.com/watch?v=d0O-WTsvAYA](https://www.youtube.com/watch?v=d0O-WTsvAYA)

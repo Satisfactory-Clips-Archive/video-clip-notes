@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## May 11th, 2021 Livestream
+* [Community FYI: Arachnophobia Mode is worse than the Spiders](../../../transcriptions/yt-DaTJpHN6dRg.md) [https://www.youtube.com/watch?v=DaTJpHN6dRg](https://www.youtube.com/watch?v=DaTJpHN6dRg)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Why did the anti-spider mode went off?](../../../transcriptions/yt-kd-VVREKHLE.md) [https://www.youtube.com/watch?v=kd-VVREKHLE](https://www.youtube.com/watch?v=kd-VVREKHLE)
 

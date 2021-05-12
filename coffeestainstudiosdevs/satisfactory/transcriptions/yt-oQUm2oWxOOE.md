@@ -10,6 +10,8 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: What about the Priority Switch?
 https://www.youtube.com/watch?v=oQUm2oWxOOE
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: What happened with Priority Switches?](./yt-p-3nFsRAtBI.md) [https://www.youtube.com/watch?v=p-3nFsRAtBI](https://www.youtube.com/watch?v=p-3nFsRAtBI)
+
 
 ### Topics
 * [Features > Power Management > Power Switch](../topics/features/power-management/power-switch.md)

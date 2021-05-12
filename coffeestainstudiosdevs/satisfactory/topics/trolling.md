@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## May 11th, 2021 Livestream
+* [Q&A: Ads for the Rifle?](../transcriptions/yt-xcMRZD8p_YY.md) [https://www.youtube.com/watch?v=xcMRZD8p_YY](https://www.youtube.com/watch?v=xcMRZD8p_YY)
+* [Q&A: What about toaster support?](../transcriptions/yt-K-9W322q7fs.md) [https://www.youtube.com/watch?v=K-9W322q7fs](https://www.youtube.com/watch?v=K-9W322q7fs)
+* [Q&A: Please, no console?](../transcriptions/yt-RiIcaoC6A2c.md) [https://www.youtube.com/watch?v=RiIcaoC6A2c](https://www.youtube.com/watch?v=RiIcaoC6A2c)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Pick up Lizard Doggo as a feature?](../transcriptions/yt-laV5SyI3MXg.md) [https://www.youtube.com/watch?v=laV5SyI3MXg](https://www.youtube.com/watch?v=laV5SyI3MXg)
 * [Q&A: Are you going to remove Pipes in Update 5?](../transcriptions/yt-W5ZWUNqbAeo.md) [https://www.youtube.com/watch?v=W5ZWUNqbAeo](https://www.youtube.com/watch?v=W5ZWUNqbAeo)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Mac
 
+## May 11th, 2021 Livestream
+* [Snutt Talk: Releasing for other operating systems beyond Windows](../../transcriptions/yt-ctG0T1dnSWY.md) [https://www.youtube.com/watch?v=ctG0T1dnSWY](https://www.youtube.com/watch?v=ctG0T1dnSWY)
+
 ## February 16th, 2021 Livestream
 * [Q&A: When is Satisfactory going to be on Mac?](../../transcriptions/yt-VTSAUKoarIw.md) [https://www.youtube.com/watch?v=VTSAUKoarIw](https://www.youtube.com/watch?v=VTSAUKoarIw)
 

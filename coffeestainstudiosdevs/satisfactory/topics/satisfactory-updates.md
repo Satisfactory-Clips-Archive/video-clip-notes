@@ -16,6 +16,15 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## May 11th, 2021 Livestream
+* [State of Dev: Approach to development while in Early Access](../transcriptions/yt-XXzwX-dd5jo.md) [https://www.youtube.com/watch?v=XXzwX-dd5jo](https://www.youtube.com/watch?v=XXzwX-dd5jo)
+* [Q&A: Wasn't Update 4 the "Performance Update" ?](../transcriptions/yt-F1LcL3vjHFo.md) [https://www.youtube.com/watch?v=F1LcL3vjHFo](https://www.youtube.com/watch?v=F1LcL3vjHFo)
+* [Snutt Talk: Difficulty in prioritising bugfixes over new content while in Early Access](../transcriptions/yt-3J1esd66Iko.md) [https://www.youtube.com/watch?v=3J1esd66Iko](https://www.youtube.com/watch?v=3J1esd66Iko)
+* [Snutt Talk: Snutt's favourite time- moments between Updates](../transcriptions/yt-jqUdSPQGWHc.md) [https://www.youtube.com/watch?v=jqUdSPQGWHc](https://www.youtube.com/watch?v=jqUdSPQGWHc)
+* [Q&A: When are you thinking of putting out updates for the Story?](../transcriptions/yt-4NOvrqJdUMY.md) [https://www.youtube.com/watch?v=4NOvrqJdUMY](https://www.youtube.com/watch?v=4NOvrqJdUMY)
+* [Q&A: Train physics, Train Signals?](../transcriptions/yt-YknqPfS5iLk.md) [https://www.youtube.com/watch?v=YknqPfS5iLk](https://www.youtube.com/watch?v=YknqPfS5iLk)
+* Q&A: How many Updates before 1.0? [https://www.youtube.com/watch?v=h3_N7HE2ZPQ](https://www.youtube.com/watch?v=h3_N7HE2ZPQ)
+
 ## May 4th, 2021 Livestream
 * [State of Dev: How Early Access impacts Development vs. Bug Fixing](../transcriptions/yt-geMjC76veHc.md) [https://www.youtube.com/watch?v=geMjC76veHc](https://www.youtube.com/watch?v=geMjC76veHc)
 * [Snutt Talk: Tree regrowth bugs](../transcriptions/yt-jr12dLcIW78.md) [https://www.youtube.com/watch?v=jr12dLcIW78](https://www.youtube.com/watch?v=jr12dLcIW78)

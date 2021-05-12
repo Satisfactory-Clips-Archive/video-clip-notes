@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: When will all the collectables like Mercer Spheres be implemented?
 https://www.youtube.com/watch?v=1_qy-PSFKO8
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: What about work-in-progress things like Mercer Spheres?](./yt-y_iC9FJAhYk.md) [https://www.youtube.com/watch?v=y_iC9FJAhYk](https://www.youtube.com/watch?v=y_iC9FJAhYk)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Are Mercer Spheres going to be useful before 1.0?](./yt-8oYXZQdnv4w.md) [https://www.youtube.com/watch?v=8oYXZQdnv4w](https://www.youtube.com/watch?v=8oYXZQdnv4w)
 
 
 ### Topics

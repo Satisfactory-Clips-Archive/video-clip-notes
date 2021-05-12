@@ -8,7 +8,7 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Is Console confirmed for Satisfactory?
 https://www.youtube.com/watch?v=KEJYlYO511Q
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Console port?](./yt-j1eVP7KViyA.md) [https://www.youtube.com/watch?v=j1eVP7KViyA](https://www.youtube.com/watch?v=j1eVP7KViyA)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: When the full game's out, will you consider releasing for Console?](./yt-CmSDjJQUmIM.md) [https://www.youtube.com/watch?v=CmSDjJQUmIM](https://www.youtube.com/watch?v=CmSDjJQUmIM)
 
 
 ### Topics

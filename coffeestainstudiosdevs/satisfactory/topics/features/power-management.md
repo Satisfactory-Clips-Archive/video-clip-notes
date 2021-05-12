@@ -9,6 +9,10 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Buildings that can be daisy-chained like the lights?](../../transcriptions/yt-JoMBbznOXGs.md) [https://www.youtube.com/watch?v=JoMBbznOXGs](https://www.youtube.com/watch?v=JoMBbznOXGs)
+* [Q&A: What happened to the plans to implement a structure that powers all foundations of a factory?](../../transcriptions/yt-1uP0bqUCsrc.md) [https://www.youtube.com/watch?v=1uP0bqUCsrc](https://www.youtube.com/watch?v=1uP0bqUCsrc)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Why does power building overclocking follow weird exponential function?](../../transcriptions/yt-6OIxOupnuLI.md) [https://www.youtube.com/watch?v=6OIxOupnuLI](https://www.youtube.com/watch?v=6OIxOupnuLI)
 

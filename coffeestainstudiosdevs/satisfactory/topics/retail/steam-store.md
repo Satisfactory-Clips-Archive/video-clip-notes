@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## May 11th, 2021 Livestream
+* [Community FYI: Epic doesn't have Linux support at all](../../transcriptions/yt-bmg87ZvXsjM.md) [https://www.youtube.com/watch?v=bmg87ZvXsjM](https://www.youtube.com/watch?v=bmg87ZvXsjM)
+
 ## April 27th, 2021 Livestream
 * [Snutt Talk: Steam update quirks](../../transcriptions/yt-vIPPEDXHwjo.md) [https://www.youtube.com/watch?v=vIPPEDXHwjo](https://www.youtube.com/watch?v=vIPPEDXHwjo)
 

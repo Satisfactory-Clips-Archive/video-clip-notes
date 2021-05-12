@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Blueprints
 
+## May 11th, 2021 Livestream
+* [Q&A: Any news about Mass Foundations or Building Blueprints?](../../../transcriptions/yt-U3HL6b4ugC4.md) [https://www.youtube.com/watch?v=U3HL6b4ugC4](https://www.youtube.com/watch?v=U3HL6b4ugC4)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: QA Site Feature Request - Making the Hover Pack available earlier](../../../transcriptions/yt-kgax8gYD0DY.md) [https://www.youtube.com/watch?v=kgax8gYD0DY](https://www.youtube.com/watch?v=kgax8gYD0DY)
 

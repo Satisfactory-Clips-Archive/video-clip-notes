@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Requested Features > Golf
 
+## May 11th, 2021 Livestream
+* [Snutt Talk: Golf upvotes status check (Part 1)](../../../transcriptions/yt-aIUXj1_scVc.md) [https://www.youtube.com/watch?v=aIUXj1_scVc](https://www.youtube.com/watch?v=aIUXj1_scVc)
+* [Snutt Talk: Golf upvotes status check (Part 2)](../../../transcriptions/yt-M1gBBTfr1dg.md) [https://www.youtube.com/watch?v=M1gBBTfr1dg](https://www.youtube.com/watch?v=M1gBBTfr1dg)
+* Q&A: Golf? [https://www.youtube.com/watch?v=iEYrtCLO364](https://www.youtube.com/watch?v=iEYrtCLO364)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: Latest update on the Golf feature request](../../../transcriptions/yt-f0bRcz6MQpw.md) [https://www.youtube.com/watch?v=f0bRcz6MQpw](https://www.youtube.com/watch?v=f0bRcz6MQpw)
 * [Community FYI: Golf in Satisfactory exists, screenshot proof in QA post](../../../transcriptions/yt-YFdrWgy8xEk.md) [https://www.youtube.com/watch?v=YFdrWgy8xEk](https://www.youtube.com/watch?v=YFdrWgy8xEk)

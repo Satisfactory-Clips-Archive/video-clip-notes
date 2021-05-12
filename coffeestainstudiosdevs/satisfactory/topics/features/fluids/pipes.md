@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## May 11th, 2021 Livestream
+* [Q&A: Any news about Update 6?](../../../transcriptions/yt-bIyYDcFuAhA.md) [https://www.youtube.com/watch?v=bIyYDcFuAhA](https://www.youtube.com/watch?v=bIyYDcFuAhA)
+
 ## May 4th, 2021 Livestream
 * [Q&A: The flow rate issue in Pipes, is intended or will it be fixed?](../../../transcriptions/yt-ZiAvo3uDBCM.md) [https://www.youtube.com/watch?v=ZiAvo3uDBCM](https://www.youtube.com/watch?v=ZiAvo3uDBCM)
 * [Q&A: Are you going to remove Pipes in Update 5?](../../../transcriptions/yt-W5ZWUNqbAeo.md) [https://www.youtube.com/watch?v=W5ZWUNqbAeo](https://www.youtube.com/watch?v=W5ZWUNqbAeo)

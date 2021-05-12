@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
+## May 11th, 2021 Livestream
+* [Q&A: How about using Batteries in Hover Packs?](../../../transcriptions/yt-jpy8YF462tk.md) [https://www.youtube.com/watch?v=jpy8YF462tk](https://www.youtube.com/watch?v=jpy8YF462tk)
+* [Q&A: Hover Pack drift, is that intentional or unintentional?](../../../transcriptions/yt-fpKUYsg0WG0.md) [https://www.youtube.com/watch?v=fpKUYsg0WG0](https://www.youtube.com/watch?v=fpKUYsg0WG0)
+* [Q&A: Is it a known issue that Hover Pack range is less than max distance between Power Poles?](../../../transcriptions/yt-hnCgAR0cxiQ.md) [https://www.youtube.com/watch?v=hnCgAR0cxiQ](https://www.youtube.com/watch?v=hnCgAR0cxiQ)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: QA Site Feature Request - Making the Hover Pack available earlier](../../../transcriptions/yt-kgax8gYD0DY.md) [https://www.youtube.com/watch?v=kgax8gYD0DY](https://www.youtube.com/watch?v=kgax8gYD0DY)
 

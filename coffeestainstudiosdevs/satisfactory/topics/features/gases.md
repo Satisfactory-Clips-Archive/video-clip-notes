@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Gases
 
+## May 11th, 2021 Livestream
+* [Q&A: Any more resources planned, more gases?](../../transcriptions/yt-udwQ9Jvg8Ng.md) [https://www.youtube.com/watch?v=udwQ9Jvg8Ng](https://www.youtube.com/watch?v=udwQ9Jvg8Ng)
+* [Q&A: Can we harvest the Fart Rocks?](../../transcriptions/yt-jCXP_YeRSn0.md) [https://www.youtube.com/watch?v=jCXP_YeRSn0](https://www.youtube.com/watch?v=jCXP_YeRSn0)
+* [Q&A: Destroy Gas Rocks?](../../transcriptions/yt-8s35osHP140.md) [https://www.youtube.com/watch?v=8s35osHP140](https://www.youtube.com/watch?v=8s35osHP140)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Using natural Gases in the game?](../../transcriptions/yt-1D3Q3xWkQ6o.md) [https://www.youtube.com/watch?v=1D3Q3xWkQ6o](https://www.youtube.com/watch?v=1D3Q3xWkQ6o)
 

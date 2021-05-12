@@ -9,7 +9,7 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: If Factories can get attacked?
 https://www.youtube.com/watch?v=tK_m7AqM4sY
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Is there combat & Base Defense required in the game?](./yt-A9GtewxqeLo.md) [https://www.youtube.com/watch?v=A9GtewxqeLo](https://www.youtube.com/watch?v=A9GtewxqeLo)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Tower Defense?](./yt-VRiUOPEpWvU.md) [https://www.youtube.com/watch?v=VRiUOPEpWvU](https://www.youtube.com/watch?v=VRiUOPEpWvU)
 
 
 ### Topics

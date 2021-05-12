@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Blade Runners
 
+## May 11th, 2021 Livestream
+* [Q&A: Any workarounds for the D3D Fault in Unreal Engine?](../../../transcriptions/yt-oTvvZRRfLKY.md) [https://www.youtube.com/watch?v=oTvvZRRfLKY](https://www.youtube.com/watch?v=oTvvZRRfLKY)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Are the blade runners going to fit our feet properly soon?](../../../transcriptions/yt-48-kXDDW3-0.md) [https://www.youtube.com/watch?v=48-kXDDW3-0](https://www.youtube.com/watch?v=48-kXDDW3-0)
 

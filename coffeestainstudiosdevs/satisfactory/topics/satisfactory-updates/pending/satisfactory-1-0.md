@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## May 11th, 2021 Livestream
+* [State of Dev: Approach to development while in Early Access](../../../transcriptions/yt-XXzwX-dd5jo.md) [https://www.youtube.com/watch?v=XXzwX-dd5jo](https://www.youtube.com/watch?v=XXzwX-dd5jo)
+* [Q&A: Any news about Update 6?](../../../transcriptions/yt-bIyYDcFuAhA.md) [https://www.youtube.com/watch?v=bIyYDcFuAhA](https://www.youtube.com/watch?v=bIyYDcFuAhA)
+* [Q&A: Do you have a clear idea of the Story Mode yet?](../../../transcriptions/yt-Zc2lKKROexI.md) [https://www.youtube.com/watch?v=Zc2lKKROexI](https://www.youtube.com/watch?v=Zc2lKKROexI)
+* [Q&A: Are there plans after 1.0?](../../../transcriptions/yt-WYAjX3vphIE.md) [https://www.youtube.com/watch?v=WYAjX3vphIE](https://www.youtube.com/watch?v=WYAjX3vphIE)
+* Q&A: How many Updates before 1.0? [https://www.youtube.com/watch?v=h3_N7HE2ZPQ](https://www.youtube.com/watch?v=h3_N7HE2ZPQ)
+* [Q&A: Are Mercer Spheres going to be useful before 1.0?](../../../transcriptions/yt-8oYXZQdnv4w.md) [https://www.youtube.com/watch?v=8oYXZQdnv4w](https://www.youtube.com/watch?v=8oYXZQdnv4w)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: QA Site feature request - Holstering](../../../transcriptions/yt-UkF4FbtbplM.md) [https://www.youtube.com/watch?v=UkF4FbtbplM](https://www.youtube.com/watch?v=UkF4FbtbplM)
 * [Q&A: Where do you draw the line between seeing the game as "finished" and adding stuff post-release?](../../../transcriptions/yt-CsMRdjnUx7U.md) [https://www.youtube.com/watch?v=CsMRdjnUx7U](https://www.youtube.com/watch?v=CsMRdjnUx7U)

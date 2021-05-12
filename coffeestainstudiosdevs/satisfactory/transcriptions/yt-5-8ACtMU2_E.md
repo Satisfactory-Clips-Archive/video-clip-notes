@@ -9,7 +9,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Will there be any Base Defense?
 https://www.youtube.com/watch?v=5-8ACtMU2_E
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Is there combat & Base Defense required in the game?](./yt-A9GtewxqeLo.md) [https://www.youtube.com/watch?v=A9GtewxqeLo](https://www.youtube.com/watch?v=A9GtewxqeLo)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Tower Defense?](./yt-VRiUOPEpWvU.md) [https://www.youtube.com/watch?v=VRiUOPEpWvU](https://www.youtube.com/watch?v=VRiUOPEpWvU)
 
 
 ### Topics

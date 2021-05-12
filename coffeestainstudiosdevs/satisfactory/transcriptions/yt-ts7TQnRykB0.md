@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Train Update?
 https://www.youtube.com/watch?v=ts7TQnRykB0
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Will Trains get an Update?](./yt-hXmvgEpyDdY.md) [https://www.youtube.com/watch?v=hXmvgEpyDdY](https://www.youtube.com/watch?v=hXmvgEpyDdY)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Train physics, Train Signals?](./yt-YknqPfS5iLk.md) [https://www.youtube.com/watch?v=YknqPfS5iLk](https://www.youtube.com/watch?v=YknqPfS5iLk)
 
 
 ### Topics

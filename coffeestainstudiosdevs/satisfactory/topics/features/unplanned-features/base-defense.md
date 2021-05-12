@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
+## May 11th, 2021 Livestream
+* [Q&A: Tower Defense?](../../../transcriptions/yt-VRiUOPEpWvU.md) [https://www.youtube.com/watch?v=VRiUOPEpWvU](https://www.youtube.com/watch?v=VRiUOPEpWvU)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: QA Site Feature Request - Making the Hover Pack available earlier](../../../transcriptions/yt-kgax8gYD0DY.md) [https://www.youtube.com/watch?v=kgax8gYD0DY](https://www.youtube.com/watch?v=kgax8gYD0DY)
 * [Community Highlights: This base looks like it's preparing for tower defense](../../../transcriptions/yt-tSgSZ7D_z6I.md) [https://www.youtube.com/watch?v=tSgSZ7D_z6I](https://www.youtube.com/watch?v=tSgSZ7D_z6I)

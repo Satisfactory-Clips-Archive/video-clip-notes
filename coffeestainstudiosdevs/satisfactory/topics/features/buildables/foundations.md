@@ -5,6 +5,12 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Will there be sloped frame foundations?](../../../transcriptions/yt-R2e5PQBCJRc.md) [https://www.youtube.com/watch?v=R2e5PQBCJRc](https://www.youtube.com/watch?v=R2e5PQBCJRc)
+* [Q&A: Roundations, Update 5 maybe?](../../../transcriptions/yt-NNpsw0IUTW4.md) [https://www.youtube.com/watch?v=NNpsw0IUTW4](https://www.youtube.com/watch?v=NNpsw0IUTW4)
+* [Q&A: Will non-floating structures ever be a thing?](../../../transcriptions/yt-xu7EL-x1qVE.md) [https://www.youtube.com/watch?v=xu7EL-x1qVE](https://www.youtube.com/watch?v=xu7EL-x1qVE)
+* [Q&A: More Foundations?](../../../transcriptions/yt-OZYCuyd59B4.md) [https://www.youtube.com/watch?v=OZYCuyd59B4](https://www.youtube.com/watch?v=OZYCuyd59B4)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: Workaround for feature request using existing features](../../../transcriptions/yt-LCZehy3T6ck.md) [https://www.youtube.com/watch?v=LCZehy3T6ck](https://www.youtube.com/watch?v=LCZehy3T6ck)
 * [Snutt Talk: QA Site Feature Request - Global build grid](../../../transcriptions/yt-3et3lB1Ak7A.md) [https://www.youtube.com/watch?v=3et3lB1Ak7A](https://www.youtube.com/watch?v=3et3lB1Ak7A)

@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we be able to deal with Gas towers you can't kill right now?
 https://www.youtube.com/watch?v=0nRCXveJemw
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will it be possible to remove the toxic pillars?](./yt-QM6AXdaNYN4.md) [https://www.youtube.com/watch?v=QM6AXdaNYN4](https://www.youtube.com/watch?v=QM6AXdaNYN4)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Can we harvest the Fart Rocks?](./yt-jCXP_YeRSn0.md) [https://www.youtube.com/watch?v=jCXP_YeRSn0](https://www.youtube.com/watch?v=jCXP_YeRSn0)
 
 
 ### Topics

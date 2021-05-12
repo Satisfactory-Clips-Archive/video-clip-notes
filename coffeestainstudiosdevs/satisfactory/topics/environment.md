@@ -11,6 +11,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Can you destroy gas rocks with Nobelisks?](../transcriptions/yt-pwY930G2HRg.md) [https://www.youtube.com/watch?v=pwY930G2HRg](https://www.youtube.com/watch?v=pwY930G2HRg)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Is there a secret internal lore for the giant spider skeletons?](../transcriptions/yt-OhNboZ3vVuU.md) [https://www.youtube.com/watch?v=OhNboZ3vVuU](https://www.youtube.com/watch?v=OhNboZ3vVuU)
 * [Q&A: Any chance for a rocket launcher?](../transcriptions/yt-Y3SXMv4Jhs0.md) [https://www.youtube.com/watch?v=Y3SXMv4Jhs0](https://www.youtube.com/watch?v=Y3SXMv4Jhs0)

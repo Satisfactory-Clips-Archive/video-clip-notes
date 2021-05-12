@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## May 11th, 2021 Livestream
+* [Q&A: Will non-floating structures ever be a thing?](../../../transcriptions/yt-xu7EL-x1qVE.md) [https://www.youtube.com/watch?v=xu7EL-x1qVE](https://www.youtube.com/watch?v=xu7EL-x1qVE)
+* [Q&A: What happened to the plans to implement a structure that powers all foundations of a factory?](../../../transcriptions/yt-1uP0bqUCsrc.md) [https://www.youtube.com/watch?v=1uP0bqUCsrc](https://www.youtube.com/watch?v=1uP0bqUCsrc)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Any ideas on new Wall types, doors, windows, Foundations etc.?](../../../transcriptions/yt-EjDWJ7WXkC8.md) [https://www.youtube.com/watch?v=EjDWJ7WXkC8](https://www.youtube.com/watch?v=EjDWJ7WXkC8)
 

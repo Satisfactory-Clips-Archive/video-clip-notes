@@ -8,7 +8,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Could we expect the game on Consoles some day?
 https://www.youtube.com/watch?v=OVn94IC65fw
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Console port?](./yt-j1eVP7KViyA.md) [https://www.youtube.com/watch?v=j1eVP7KViyA](https://www.youtube.com/watch?v=j1eVP7KViyA)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: When the full game's out, will you consider releasing for Console?](./yt-CmSDjJQUmIM.md) [https://www.youtube.com/watch?v=CmSDjJQUmIM](https://www.youtube.com/watch?v=CmSDjJQUmIM)
 
 
 ### Topics

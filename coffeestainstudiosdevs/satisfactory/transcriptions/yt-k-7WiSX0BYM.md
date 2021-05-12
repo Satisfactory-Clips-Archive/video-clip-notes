@@ -8,7 +8,7 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Console?
 https://www.youtube.com/watch?v=k-7WiSX0BYM
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: Console port?](./yt-j1eVP7KViyA.md) [https://www.youtube.com/watch?v=j1eVP7KViyA](https://www.youtube.com/watch?v=j1eVP7KViyA)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: When the full game's out, will you consider releasing for Console?](./yt-CmSDjJQUmIM.md) [https://www.youtube.com/watch?v=CmSDjJQUmIM](https://www.youtube.com/watch?v=CmSDjJQUmIM)
 
 
 ### Topics

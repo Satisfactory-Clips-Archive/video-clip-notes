@@ -33,6 +33,11 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## May 11th, 2021 Livestream
+* [State of Dev: How our showcase meetings work](../transcriptions/yt-OTb1ZkP5mkE.md) [https://www.youtube.com/watch?v=OTb1ZkP5mkE](https://www.youtube.com/watch?v=OTb1ZkP5mkE)
+* [State of Dev: Approach to development while in Early Access](../transcriptions/yt-XXzwX-dd5jo.md) [https://www.youtube.com/watch?v=XXzwX-dd5jo](https://www.youtube.com/watch?v=XXzwX-dd5jo)
+* [Q&A: What's up with Jace?](../transcriptions/yt-PvMiTd6cWRs.md) [https://www.youtube.com/watch?v=PvMiTd6cWRs](https://www.youtube.com/watch?v=PvMiTd6cWRs)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Is Hannah the only one working on the Story?](../transcriptions/yt-j0wtwJ9ZWI8.md) [https://www.youtube.com/watch?v=j0wtwJ9ZWI8](https://www.youtube.com/watch?v=j0wtwJ9ZWI8)
 

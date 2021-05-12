@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes
 
+## May 11th, 2021 Livestream
+* [State of Dev: How our showcase meetings work](../../transcriptions/yt-OTb1ZkP5mkE.md) [https://www.youtube.com/watch?v=OTb1ZkP5mkE](https://www.youtube.com/watch?v=OTb1ZkP5mkE)
+* [Q&A: Do you have a clear idea of the Story Mode yet?](../../transcriptions/yt-Zc2lKKROexI.md) [https://www.youtube.com/watch?v=Zc2lKKROexI](https://www.youtube.com/watch?v=Zc2lKKROexI)
+* [Q&A: Teleport System?](../../transcriptions/yt-aZHVhI9GZk8.md) [https://www.youtube.com/watch?v=aZHVhI9GZk8](https://www.youtube.com/watch?v=aZHVhI9GZk8)
+
 ## May 4th, 2021 Livestream
 * [State of Dev: Cheatcrete](../../transcriptions/yt-GJN3Vm_kJgs.md) [https://www.youtube.com/watch?v=GJN3Vm_kJgs](https://www.youtube.com/watch?v=GJN3Vm_kJgs)
 * [Q&A: Do you like the Story so far?](../../transcriptions/yt-2I9bRbAag6Q.md) [https://www.youtube.com/watch?v=2I9bRbAag6Q](https://www.youtube.com/watch?v=2I9bRbAag6Q)

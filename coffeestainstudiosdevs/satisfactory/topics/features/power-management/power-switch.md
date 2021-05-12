@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Switch
 
+## May 11th, 2021 Livestream
+* [Q&A: What happened with Priority Switches?](../../../transcriptions/yt-p-3nFsRAtBI.md) [https://www.youtube.com/watch?v=p-3nFsRAtBI](https://www.youtube.com/watch?v=p-3nFsRAtBI)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: QA Site Feature Request - Power switches on poles](../../../transcriptions/yt-DXUw14tVRfk.md) [https://www.youtube.com/watch?v=DXUw14tVRfk](https://www.youtube.com/watch?v=DXUw14tVRfk)
 * [Community FYI: Golf in Satisfactory exists, screenshot proof in QA post](../../../transcriptions/yt-YFdrWgy8xEk.md) [https://www.youtube.com/watch?v=YFdrWgy8xEk](https://www.youtube.com/watch?v=YFdrWgy8xEk)

@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## May 11th, 2021 Livestream
+* [Q&A: Vehicle Lights?](../../../transcriptions/yt-GW8fdTPWY8Y.md) [https://www.youtube.com/watch?v=GW8fdTPWY8Y](https://www.youtube.com/watch?v=GW8fdTPWY8Y)
+* [Q&A: Technical presentation of Lights, Simulation, and Trains, etc. ?](../../../transcriptions/yt-ifM6AIYMw80.md) [https://www.youtube.com/watch?v=ifM6AIYMw80](https://www.youtube.com/watch?v=ifM6AIYMw80)
+* [Q&A: Buildings that can be daisy-chained like the lights?](../../../transcriptions/yt-JoMBbznOXGs.md) [https://www.youtube.com/watch?v=JoMBbznOXGs](https://www.youtube.com/watch?v=JoMBbznOXGs)
+* [Q&A: Is there a fix so the new lights emit shadows?](../../../transcriptions/yt-wIvvNslWt78.md) [https://www.youtube.com/watch?v=wIvvNslWt78](https://www.youtube.com/watch?v=wIvvNslWt78)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Just add headlights to the Vehicles, please?](../../../transcriptions/yt-_zbrGpdnQF4.md) [https://www.youtube.com/watch?v=_zbrGpdnQF4](https://www.youtube.com/watch?v=_zbrGpdnQF4)
 * [Q&A: It would be cool if there was a hand equipment slot, you could put a light there?](../../../transcriptions/yt-b6mQ0qUrMX4.md) [https://www.youtube.com/watch?v=b6mQ0qUrMX4](https://www.youtube.com/watch?v=b6mQ0qUrMX4)

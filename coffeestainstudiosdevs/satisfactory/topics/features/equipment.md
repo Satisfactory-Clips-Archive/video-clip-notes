@@ -13,6 +13,13 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Mug?](../../transcriptions/yt-MNWvQrzo_Rk.md) [https://www.youtube.com/watch?v=MNWvQrzo_Rk](https://www.youtube.com/watch?v=MNWvQrzo_Rk)
+* [Q&A: Ads for the Rifle?](../../transcriptions/yt-xcMRZD8p_YY.md) [https://www.youtube.com/watch?v=xcMRZD8p_YY](https://www.youtube.com/watch?v=xcMRZD8p_YY)
+* [Q&A: Why can't you reload the bullets into the clips once you use so you don't waste any clips?](../../transcriptions/yt-ROevp5t8k6Y.md) [https://www.youtube.com/watch?v=ROevp5t8k6Y](https://www.youtube.com/watch?v=ROevp5t8k6Y)
+* [Q&A: More weapons?](../../transcriptions/yt-oxRXMC8b2q8.md) [https://www.youtube.com/watch?v=oxRXMC8b2q8](https://www.youtube.com/watch?v=oxRXMC8b2q8)
+* [Q&A: Can you destroy gas rocks with Nobelisks?](../../transcriptions/yt-pwY930G2HRg.md) [https://www.youtube.com/watch?v=pwY930G2HRg](https://www.youtube.com/watch?v=pwY930G2HRg)
+
 ## May 4th, 2021 Livestream
 * Snutt Talk: QA Site bug report - Gas Masks in vehicles [https://www.youtube.com/watch?v=JZ0ePy8UvWU](https://www.youtube.com/watch?v=JZ0ePy8UvWU)
 * [Snutt Talk: Issues with the Resource Scanner](../../transcriptions/yt-8Lbyna2HHfc.md) [https://www.youtube.com/watch?v=8Lbyna2HHfc](https://www.youtube.com/watch?v=8Lbyna2HHfc)

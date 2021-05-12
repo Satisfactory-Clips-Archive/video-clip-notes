@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## May 11th, 2021 Livestream
+* [Community FYI: Epic doesn't have Linux support at all](../../transcriptions/yt-bmg87ZvXsjM.md) [https://www.youtube.com/watch?v=bmg87ZvXsjM](https://www.youtube.com/watch?v=bmg87ZvXsjM)
+
 ## April 20th, 2021 Livestream
 * [State of Dev: Try verifying files if you're experiencing graphical glitches](../../transcriptions/yt-5NkjFaKNJmI.md) [https://www.youtube.com/watch?v=5NkjFaKNJmI](https://www.youtube.com/watch?v=5NkjFaKNJmI)
 * [Snutt Talk: Steam & Epic patch download failures causing graphical issues](../../transcriptions/yt-uNYU4_DIxtI.md) [https://www.youtube.com/watch?v=uNYU4_DIxtI](https://www.youtube.com/watch?v=uNYU4_DIxtI)

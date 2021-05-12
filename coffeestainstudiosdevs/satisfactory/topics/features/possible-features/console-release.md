@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+## May 11th, 2021 Livestream
+* [Q&A: When the full game's out, will you consider releasing for Console?](../../../transcriptions/yt-CmSDjJQUmIM.md) [https://www.youtube.com/watch?v=CmSDjJQUmIM](https://www.youtube.com/watch?v=CmSDjJQUmIM)
+* [Q&A: What about toaster support?](../../../transcriptions/yt-K-9W322q7fs.md) [https://www.youtube.com/watch?v=K-9W322q7fs](https://www.youtube.com/watch?v=K-9W322q7fs)
+* [Q&A: Please, no console?](../../../transcriptions/yt-RiIcaoC6A2c.md) [https://www.youtube.com/watch?v=RiIcaoC6A2c](https://www.youtube.com/watch?v=RiIcaoC6A2c)
+* [Q&A: KFC Console?](../../../transcriptions/yt-cFDgMxkg53A.md) [https://www.youtube.com/watch?v=cFDgMxkg53A](https://www.youtube.com/watch?v=cFDgMxkg53A)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Console port?](../../../transcriptions/yt-j1eVP7KViyA.md) [https://www.youtube.com/watch?v=j1eVP7KViyA](https://www.youtube.com/watch?v=j1eVP7KViyA)
 

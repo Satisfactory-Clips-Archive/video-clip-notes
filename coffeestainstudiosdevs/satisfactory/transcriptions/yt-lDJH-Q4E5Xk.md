@@ -9,14 +9,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Fluid Trucks?
 https://www.youtube.com/watch?v=lDJH-Q4E5Xk
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as March 2021 and as early as August 2020.</summary>
-
-* [March 30th, 2021 Livestream Q&A: Will there be Trucks that can transport fluids?](./yt-sO7qhlAKq3U.md) [https://www.youtube.com/watch?v=sO7qhlAKq3U](https://www.youtube.com/watch?v=sO7qhlAKq3U)
-* [October 6th, 2020 Livestream Q&A: What do you think about adding some kind of Tanker Truck?](./yt-JCBQj8Ern20.md) [https://www.youtube.com/watch?v=JCBQj8Ern20](https://www.youtube.com/watch?v=JCBQj8Ern20)
-* [September 15th, 2020 Livestream Q&A: Any improvement for the Trucks so they can transport Fluids?](./yt-lNpwyJr7lZc.md) [https://www.youtube.com/watch?v=lNpwyJr7lZc](https://www.youtube.com/watch?v=lNpwyJr7lZc)
-* [August 25th, 2020 Livestream Q&A: Tanker Trucks?](./yt-IPmVdCgi2_A.md) [https://www.youtube.com/watch?v=IPmVdCgi2_A](https://www.youtube.com/watch?v=IPmVdCgi2_A)
-</details>
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Can you add Trucks that carry liquids?](./yt-2EiZU9aWekQ.md) [https://www.youtube.com/watch?v=2EiZU9aWekQ](https://www.youtube.com/watch?v=2EiZU9aWekQ)
 
 
 ### Topics

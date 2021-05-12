@@ -10,7 +10,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Will Mercer Spheres and Somersloops be useful soon?
 https://www.youtube.com/watch?v=SYWPIjbe_4Y
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: What about work-in-progress things like Mercer Spheres?](./yt-y_iC9FJAhYk.md) [https://www.youtube.com/watch?v=y_iC9FJAhYk](https://www.youtube.com/watch?v=y_iC9FJAhYk)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Are Mercer Spheres going to be useful before 1.0?](./yt-8oYXZQdnv4w.md) [https://www.youtube.com/watch?v=8oYXZQdnv4w](https://www.youtube.com/watch?v=8oYXZQdnv4w)
 
 
 ### Topics

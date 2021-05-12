@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## May 11th, 2021 Livestream
+* [State of Dev: Dedicated Servers](../../../transcriptions/yt-IkZ23OHL5OE.md) [https://www.youtube.com/watch?v=IkZ23OHL5OE](https://www.youtube.com/watch?v=IkZ23OHL5OE)
+* [Q&A: Update on Dedicated Servers please?](../../../transcriptions/yt-98O8FhNdxAI.md) [https://www.youtube.com/watch?v=98O8FhNdxAI](https://www.youtube.com/watch?v=98O8FhNdxAI)
+* [Q&A: Does the game server host without graphics rendering fix some of the issues?](../../../transcriptions/yt-j3QyZRmqpyw.md) [https://www.youtube.com/watch?v=j3QyZRmqpyw](https://www.youtube.com/watch?v=j3QyZRmqpyw)
+
 ## May 4th, 2021 Livestream
 * [State of Dev: Multiplayer issues & Dedicated Servers](../../../transcriptions/yt-Q3xs2lnP4YM.md) [https://www.youtube.com/watch?v=Q3xs2lnP4YM](https://www.youtube.com/watch?v=Q3xs2lnP4YM)
 * [State of Dev: Dedicated Servers release plan](../../../transcriptions/yt-nHZMgxqhUHA.md) [https://www.youtube.com/watch?v=nHZMgxqhUHA](https://www.youtube.com/watch?v=nHZMgxqhUHA)

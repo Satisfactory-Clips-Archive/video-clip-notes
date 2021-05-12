@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../topics.md) > Merch
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Lego set please?](../transcriptions/yt-sjo3yhJzE0Y.md) [https://www.youtube.com/watch?v=sjo3yhJzE0Y](https://www.youtube.com/watch?v=sjo3yhJzE0Y)
+* [Q&A: Mug?](../transcriptions/yt-MNWvQrzo_Rk.md) [https://www.youtube.com/watch?v=MNWvQrzo_Rk](https://www.youtube.com/watch?v=MNWvQrzo_Rk)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Update on Cup Merch?](../transcriptions/yt-EwycHQo44KE.md) [https://www.youtube.com/watch?v=EwycHQo44KE](https://www.youtube.com/watch?v=EwycHQo44KE)
 

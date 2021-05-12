@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## May 11th, 2021 Livestream
+* [Q&A: Ride Drones?](../../../../transcriptions/yt-0tHe5NBul6M.md) [https://www.youtube.com/watch?v=0tHe5NBul6M](https://www.youtube.com/watch?v=0tHe5NBul6M)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Is that why you can't ride the Drones?](../../../../transcriptions/yt-38OwCUgGOjs.md) [https://www.youtube.com/watch?v=38OwCUgGOjs](https://www.youtube.com/watch?v=38OwCUgGOjs)
 

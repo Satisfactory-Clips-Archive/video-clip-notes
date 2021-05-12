@@ -8,7 +8,7 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: What do you think about Farming?
 https://www.youtube.com/watch?v=UijCvihSvzE
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Farms?](./yt-kq125_HSqqE.md) [https://www.youtube.com/watch?v=kq125_HSqqE](https://www.youtube.com/watch?v=kq125_HSqqE)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Grow things?](./yt-drp-Fjdq8Q0.md) [https://www.youtube.com/watch?v=drp-Fjdq8Q0](https://www.youtube.com/watch?v=drp-Fjdq8Q0)
 
 
 ### Topics

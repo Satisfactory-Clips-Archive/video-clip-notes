@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Daisy-chaining machines when?
 https://www.youtube.com/watch?v=1ouv6GGsyY0
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Daisy-chain all building power?](./yt-y86EDzn4-bY.md) [https://www.youtube.com/watch?v=y86EDzn4-bY](https://www.youtube.com/watch?v=y86EDzn4-bY)
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Buildings that can be daisy-chained like the lights?](./yt-JoMBbznOXGs.md) [https://www.youtube.com/watch?v=JoMBbznOXGs](https://www.youtube.com/watch?v=JoMBbznOXGs)
 
 
 ### Topics

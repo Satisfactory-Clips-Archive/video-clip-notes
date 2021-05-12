@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Do you have a clear idea of the Story Mode yet?](../transcriptions/yt-Zc2lKKROexI.md) [https://www.youtube.com/watch?v=Zc2lKKROexI](https://www.youtube.com/watch?v=Zc2lKKROexI)
+* [Q&A: When are you thinking of putting out updates for the Story?](../transcriptions/yt-4NOvrqJdUMY.md) [https://www.youtube.com/watch?v=4NOvrqJdUMY](https://www.youtube.com/watch?v=4NOvrqJdUMY)
+* [Q&A: Are Mercer Spheres going to be useful before 1.0?](../transcriptions/yt-8oYXZQdnv4w.md) [https://www.youtube.com/watch?v=8oYXZQdnv4w](https://www.youtube.com/watch?v=8oYXZQdnv4w)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Is there a secret internal lore for the giant spider skeletons?](../transcriptions/yt-OhNboZ3vVuU.md) [https://www.youtube.com/watch?v=OhNboZ3vVuU](https://www.youtube.com/watch?v=OhNboZ3vVuU)
 * [Q&A: Are we going to get the Lore?](../transcriptions/yt-SwWuvwYEubU.md) [https://www.youtube.com/watch?v=SwWuvwYEubU](https://www.youtube.com/watch?v=SwWuvwYEubU)

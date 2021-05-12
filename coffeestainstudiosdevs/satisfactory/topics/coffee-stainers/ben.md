@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Ben
 
+## May 11th, 2021 Livestream
+* [Q&A: Technical presentation of Lights, Simulation, and Trains, etc. ?](../../transcriptions/yt-ifM6AIYMw80.md) [https://www.youtube.com/watch?v=ifM6AIYMw80](https://www.youtube.com/watch?v=ifM6AIYMw80)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago](../../transcriptions/yt-GMj_2tY7LFI.md) [https://www.youtube.com/watch?v=GMj_2tY7LFI](https://www.youtube.com/watch?v=GMj_2tY7LFI)
 

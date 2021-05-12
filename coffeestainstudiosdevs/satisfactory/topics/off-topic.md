@@ -15,6 +15,11 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Which guitar is Snutt's favourite?](../transcriptions/yt-lMnT8KKOvtY.md) [https://www.youtube.com/watch?v=lMnT8KKOvtY](https://www.youtube.com/watch?v=lMnT8KKOvtY)
+* [Q&A: Is Snutt left-handed?](../transcriptions/yt-THQ2-ZTc7Jk.md) [https://www.youtube.com/watch?v=THQ2-ZTc7Jk](https://www.youtube.com/watch?v=THQ2-ZTc7Jk)
+* [Q&A: God of War cosplay any time soon?](../transcriptions/yt-6He0p-HIlb8.md) [https://www.youtube.com/watch?v=6He0p-HIlb8](https://www.youtube.com/watch?v=6He0p-HIlb8)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Did you eat your PB&J?](../transcriptions/yt-gWHsFxVkY3k.md) [https://www.youtube.com/watch?v=gWHsFxVkY3k](https://www.youtube.com/watch?v=gWHsFxVkY3k)
 * [Q&A: What do you think about Subnautica?](../transcriptions/yt-5P2O8AGpv-E.md) [https://www.youtube.com/watch?v=5P2O8AGpv-E](https://www.youtube.com/watch?v=5P2O8AGpv-E)

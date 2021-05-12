@@ -9,6 +9,8 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Did you eat your PB&J?
 https://www.youtube.com/watch?v=gWHsFxVkY3k
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Did you ever try that PB&J?](./yt-nYtAQHDSH1Q.md) [https://www.youtube.com/watch?v=nYtAQHDSH1Q](https://www.youtube.com/watch?v=nYtAQHDSH1Q)
+
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)

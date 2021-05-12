@@ -6,6 +6,10 @@ date: Last Modified
 * [DLSS](../../topics/technology/graphics/dlss.md)
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Is there a fix so the new lights emit shadows?](../../transcriptions/yt-wIvvNslWt78.md) [https://www.youtube.com/watch?v=wIvvNslWt78](https://www.youtube.com/watch?v=wIvvNslWt78)
+* [Q&A: Does the game server host without graphics rendering fix some of the issues?](../../transcriptions/yt-j3QyZRmqpyw.md) [https://www.youtube.com/watch?v=j3QyZRmqpyw](https://www.youtube.com/watch?v=j3QyZRmqpyw)
+
 ## May 4th, 2021 Livestream
 * [Q&A: The flow rate issue in Pipes, is intended or will it be fixed?](../../transcriptions/yt-ZiAvo3uDBCM.md) [https://www.youtube.com/watch?v=ZiAvo3uDBCM](https://www.youtube.com/watch?v=ZiAvo3uDBCM)
 

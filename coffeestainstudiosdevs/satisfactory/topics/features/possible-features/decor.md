@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## May 11th, 2021 Livestream
+* [Q&A: Will you add more cosmetics like statues in the future?](../../../transcriptions/yt-BxlM2EkXWlY.md) [https://www.youtube.com/watch?v=BxlM2EkXWlY](https://www.youtube.com/watch?v=BxlM2EkXWlY)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Will we be able to stop using mods for more building assets?](../../../transcriptions/yt-YZJ8RChJn2w.md) [https://www.youtube.com/watch?v=YZJ8RChJn2w](https://www.youtube.com/watch?v=YZJ8RChJn2w)
 * [Q&A: Any ideas on new Wall types, doors, windows, Foundations etc.?](../../../transcriptions/yt-EjDWJ7WXkC8.md) [https://www.youtube.com/watch?v=EjDWJ7WXkC8](https://www.youtube.com/watch?v=EjDWJ7WXkC8)

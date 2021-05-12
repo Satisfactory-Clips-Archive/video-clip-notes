@@ -6,6 +6,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: Can you destroy gas rocks with Nobelisks?](../../transcriptions/yt-pwY930G2HRg.md) [https://www.youtube.com/watch?v=pwY930G2HRg](https://www.youtube.com/watch?v=pwY930G2HRg)
+
 ## April 20th, 2021 Livestream
 * [Q&A: When Dedicated Servers are available, will we be able to load existing saves?](../../transcriptions/yt-_IXLS7G2Ef0.md) [https://www.youtube.com/watch?v=_IXLS7G2Ef0](https://www.youtube.com/watch?v=_IXLS7G2Ef0)
 

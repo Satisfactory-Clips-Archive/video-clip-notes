@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## May 11th, 2021 Livestream
+* [State of Dev: Working on Update 5](../../transcriptions/yt-R3j3H4zNhjc.md) [https://www.youtube.com/watch?v=R3j3H4zNhjc](https://www.youtube.com/watch?v=R3j3H4zNhjc)
+* [State of Dev: How our showcase meetings work](../../transcriptions/yt-OTb1ZkP5mkE.md) [https://www.youtube.com/watch?v=OTb1ZkP5mkE](https://www.youtube.com/watch?v=OTb1ZkP5mkE)
+* [State of Dev: Approach to development while in Early Access](../../transcriptions/yt-XXzwX-dd5jo.md) [https://www.youtube.com/watch?v=XXzwX-dd5jo](https://www.youtube.com/watch?v=XXzwX-dd5jo)
+* [State of Dev: Expected release window for Update 5](../../transcriptions/yt-3Y23DYvgwhE.md) [https://www.youtube.com/watch?v=3Y23DYvgwhE](https://www.youtube.com/watch?v=3Y23DYvgwhE)
+* [State of Dev: Cheatcrete-related changes in Update 5](../../transcriptions/yt-g-YO3v6JbSY.md) [https://www.youtube.com/watch?v=g-YO3v6JbSY](https://www.youtube.com/watch?v=g-YO3v6JbSY)
+* [State of Dev: Dedicated Servers](../../transcriptions/yt-IkZ23OHL5OE.md) [https://www.youtube.com/watch?v=IkZ23OHL5OE](https://www.youtube.com/watch?v=IkZ23OHL5OE)
+
 ## May 4th, 2021 Livestream
 * [State of Dev: Connectivity Issues](../../transcriptions/yt-varBpNnpo7U.md) [https://www.youtube.com/watch?v=varBpNnpo7U](https://www.youtube.com/watch?v=varBpNnpo7U)
 * [State of Dev: Working on Update 5](../../transcriptions/yt-kp2pVEkljB4.md) [https://www.youtube.com/watch?v=kp2pVEkljB4](https://www.youtube.com/watch?v=kp2pVEkljB4)

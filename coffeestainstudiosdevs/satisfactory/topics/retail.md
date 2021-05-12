@@ -8,6 +8,10 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## May 11th, 2021 Livestream
+* [Q&A: You could come out with a Stadia version for the twelve people that have it](../transcriptions/yt-6lgT3Lu6_fc.md) [https://www.youtube.com/watch?v=6lgT3Lu6_fc](https://www.youtube.com/watch?v=6lgT3Lu6_fc)
+* [Q&A: Steam Link instead of Stadia?](../transcriptions/yt-QKmETHKF-wQ.md) [https://www.youtube.com/watch?v=QKmETHKF-wQ](https://www.youtube.com/watch?v=QKmETHKF-wQ)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Do you have to buy the full version of the game when it comes out?](../transcriptions/yt-fEyDe5viYQo.md) [https://www.youtube.com/watch?v=fEyDe5viYQo](https://www.youtube.com/watch?v=fEyDe5viYQo)
 

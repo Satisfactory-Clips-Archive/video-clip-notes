@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Chainsaw
 
+## May 11th, 2021 Livestream
+* [Community FYI: Chainsaw needs to kill animals](../../../transcriptions/yt-Sqcj2hdaKIM.md) [https://www.youtube.com/watch?v=Sqcj2hdaKIM](https://www.youtube.com/watch?v=Sqcj2hdaKIM)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Can Chainsaw use liquid (fuel) in the future?](../../../transcriptions/yt-pxBuKCXaE6Y.md) [https://www.youtube.com/watch?v=pxBuKCXaE6Y](https://www.youtube.com/watch?v=pxBuKCXaE6Y)
 * [Q&A: Is the giant chainsaw a bug?](../../../transcriptions/yt-n1zvt3i66uE.md) [https://www.youtube.com/watch?v=n1zvt3i66uE](https://www.youtube.com/watch?v=n1zvt3i66uE)

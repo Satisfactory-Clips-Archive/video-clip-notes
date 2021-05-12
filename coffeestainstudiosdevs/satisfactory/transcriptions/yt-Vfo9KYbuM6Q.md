@@ -8,12 +8,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Please fix first-person vehicles?
 https://www.youtube.com/watch?v=Vfo9KYbuM6Q
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as August 2020.</summary>
-
-* [February 9th, 2021 Livestream Q&A: Can there be a first-person view for driving cars?](./yt-7R_kqWfRwhA.md) [https://www.youtube.com/watch?v=7R_kqWfRwhA](https://www.youtube.com/watch?v=7R_kqWfRwhA)
-* August 11th, 2020 Livestream Q&A: First-person Vehicle Driving? [https://clips.twitch.tv/ShinySilkyMelonGivePLZ](https://clips.twitch.tv/ShinySilkyMelonGivePLZ)
-</details>
+This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Will there be first-person POV in Vehicles?](./yt-Q40_kNmSB20.md) [https://www.youtube.com/watch?v=Q40_kNmSB20](https://www.youtube.com/watch?v=Q40_kNmSB20)
 
 
 ### Topics
