@@ -15,6 +15,11 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## May 18th, 2021 Livestream
+* [Q&A: Aside from Satisfactory, what games have you been playing?](../transcriptions/yt-VGjqOVxF1dE.md) [https://www.youtube.com/watch?v=VGjqOVxF1dE](https://www.youtube.com/watch?v=VGjqOVxF1dE)
+* [Q&A: Do men get parental leave in Sweden?](../transcriptions/yt-3UbMqP40hXc.md) [https://www.youtube.com/watch?v=3UbMqP40hXc](https://www.youtube.com/watch?v=3UbMqP40hXc)
+* [Q&A: What's Jace's tattoo about?](../transcriptions/yt-0gtk13goy6M.md) [https://www.youtube.com/watch?v=0gtk13goy6M](https://www.youtube.com/watch?v=0gtk13goy6M)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Which guitar is Snutt's favourite?](../transcriptions/yt-lMnT8KKOvtY.md) [https://www.youtube.com/watch?v=lMnT8KKOvtY](https://www.youtube.com/watch?v=lMnT8KKOvtY)
 * [Q&A: Is Snutt left-handed?](../transcriptions/yt-THQ2-ZTc7Jk.md) [https://www.youtube.com/watch?v=THQ2-ZTc7Jk](https://www.youtube.com/watch?v=THQ2-ZTc7Jk)

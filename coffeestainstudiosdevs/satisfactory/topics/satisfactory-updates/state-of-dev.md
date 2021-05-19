@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## May 18th, 2021 Livestream
+* [State of Dev: Update 5](../../transcriptions/yt-2kaP1jPZOL4.md) [https://www.youtube.com/watch?v=2kaP1jPZOL4](https://www.youtube.com/watch?v=2kaP1jPZOL4)
+* [State of Dev: Issues with Update 4](../../transcriptions/yt-xDmB6Zyrr1U.md) [https://www.youtube.com/watch?v=xDmB6Zyrr1U](https://www.youtube.com/watch?v=xDmB6Zyrr1U)
+
 ## May 11th, 2021 Livestream
 * [State of Dev: Working on Update 5](../../transcriptions/yt-R3j3H4zNhjc.md) [https://www.youtube.com/watch?v=R3j3H4zNhjc](https://www.youtube.com/watch?v=R3j3H4zNhjc)
 * [State of Dev: How our showcase meetings work](../../transcriptions/yt-OTb1ZkP5mkE.md) [https://www.youtube.com/watch?v=OTb1ZkP5mkE](https://www.youtube.com/watch?v=OTb1ZkP5mkE)

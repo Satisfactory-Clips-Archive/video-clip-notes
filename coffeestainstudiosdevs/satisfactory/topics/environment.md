@@ -11,6 +11,10 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## May 18th, 2021 Livestream
+* [Q&A: Will you add more gases?](../transcriptions/yt-oDflyVR8aeY.md) [https://www.youtube.com/watch?v=oDflyVR8aeY](https://www.youtube.com/watch?v=oDflyVR8aeY)
+* [Q&A: Can you thank Hannah for making a beautiful World?](../transcriptions/yt-E9cvnFnfm0M.md) [https://www.youtube.com/watch?v=E9cvnFnfm0M](https://www.youtube.com/watch?v=E9cvnFnfm0M)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Can you destroy gas rocks with Nobelisks?](../transcriptions/yt-pwY930G2HRg.md) [https://www.youtube.com/watch?v=pwY930G2HRg](https://www.youtube.com/watch?v=pwY930G2HRg)
 

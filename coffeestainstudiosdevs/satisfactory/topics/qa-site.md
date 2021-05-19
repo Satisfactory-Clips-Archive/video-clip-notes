@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## May 18th, 2021 Livestream
+* [Jace Talk: Leave your questions and concerns on the QA Site](../transcriptions/yt-kzIMrJOpg6Q.md) [https://www.youtube.com/watch?v=kzIMrJOpg6Q](https://www.youtube.com/watch?v=kzIMrJOpg6Q)
+* [Snutt Talk: Use the QA Site as well as the Q&A segment of the stream](../transcriptions/yt-h1xYzAHHId8.md) [https://www.youtube.com/watch?v=h1xYzAHHId8](https://www.youtube.com/watch?v=h1xYzAHHId8)
+* [Q&A: Do you review bugs weekly, or as they're reported?](../transcriptions/yt-thvzHJofHfw.md) [https://www.youtube.com/watch?v=thvzHJofHfw](https://www.youtube.com/watch?v=thvzHJofHfw)
+* [Q&A: Is there a way to consolidate votes for identical or similar-enough posts?](../transcriptions/yt-kli-dzmnEHI.md) [https://www.youtube.com/watch?v=kli-dzmnEHI](https://www.youtube.com/watch?v=kli-dzmnEHI)
+* [Q&A: Can you add an adjustment setting in the Light controls.](../transcriptions/yt-ABqk2URaH74.md) [https://www.youtube.com/watch?v=ABqk2URaH74](https://www.youtube.com/watch?v=ABqk2URaH74)
+
 ## May 11th, 2021 Livestream
 * [Snutt Talk: Use the QA Site](../transcriptions/yt-jOH4jhSNRLA.md) [https://www.youtube.com/watch?v=jOH4jhSNRLA](https://www.youtube.com/watch?v=jOH4jhSNRLA)
 

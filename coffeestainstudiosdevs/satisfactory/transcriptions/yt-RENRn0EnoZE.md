@@ -8,13 +8,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: What about allowing a second person in the buggy?
 https://www.youtube.com/watch?v=RENRn0EnoZE
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as April 2021 and as early as August 2020.</summary>
-
-* [April 27th, 2021 Livestream Q&A: Two-person buggy?](./yt-IUQeH1sTCv0.md) [https://www.youtube.com/watch?v=IUQeH1sTCv0](https://www.youtube.com/watch?v=IUQeH1sTCv0)
-* August 11th, 2020 Livestream Q&A: Two-seated vehicles (Part 1) [https://clips.twitch.tv/OilySourBeaverAMPEnergy](https://clips.twitch.tv/OilySourBeaverAMPEnergy)
-* August 11th, 2020 Livestream Q&A: Two-seated vehicles (Part 2) [https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog](https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog)
-</details>
+This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Will there ever be two players per car?](./yt-MGcq63fWfYY.md) [https://www.youtube.com/watch?v=MGcq63fWfYY](https://www.youtube.com/watch?v=MGcq63fWfYY)
 
 
 ### Topics

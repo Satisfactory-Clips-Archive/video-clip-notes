@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## May 18th, 2021 Livestream
+* [Q&A: Will Dedicated Servers be native Linux?](../../transcriptions/yt-oaRqXpLhZ4k.md) [https://www.youtube.com/watch?v=oaRqXpLhZ4k](https://www.youtube.com/watch?v=oaRqXpLhZ4k)
+
 ## May 11th, 2021 Livestream
 * [Snutt Talk: Releasing for other operating systems beyond Windows](../../transcriptions/yt-ctG0T1dnSWY.md) [https://www.youtube.com/watch?v=ctG0T1dnSWY](https://www.youtube.com/watch?v=ctG0T1dnSWY)
 * [Community FYI: Epic doesn't have Linux support at all](../../transcriptions/yt-bmg87ZvXsjM.md) [https://www.youtube.com/watch?v=bmg87ZvXsjM](https://www.youtube.com/watch?v=bmg87ZvXsjM)

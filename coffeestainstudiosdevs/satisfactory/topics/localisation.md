@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Localisation
 
+## May 18th, 2021 Livestream
+* [Q&A: Do you have any plans to localise the game to Swedish?](../transcriptions/yt-j9hx-QyK6xo.md) [https://www.youtube.com/watch?v=j9hx-QyK6xo](https://www.youtube.com/watch?v=j9hx-QyK6xo)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * Jace Talk: Patch Notes Closed Captions [https://www.youtube.com/watch?v=W-x2oenkmvw](https://www.youtube.com/watch?v=W-x2oenkmvw)
 * [Q&A: How did the jokes work with the localization?](../transcriptions/yt-C0ANmAcz5Fc.md) [https://www.youtube.com/watch?v=C0ANmAcz5Fc](https://www.youtube.com/watch?v=C0ANmAcz5Fc)

@@ -4,6 +4,25 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## May 18th, 2021 Livestream
+* [Snutt & Jace Talk: Jace is back](../../transcriptions/yt-NcaVeVq8uig.md) [https://www.youtube.com/watch?v=NcaVeVq8uig](https://www.youtube.com/watch?v=NcaVeVq8uig)
+* [Q&A: Train Collisions, soon / far away?](../../transcriptions/yt-1JyWZYpxLsk.md) [https://www.youtube.com/watch?v=1JyWZYpxLsk](https://www.youtube.com/watch?v=1JyWZYpxLsk)
+* [Q&A: I missed the surprise, what was it?](../../transcriptions/yt-ko3yGf2vfO4.md) [https://www.youtube.com/watch?v=ko3yGf2vfO4](https://www.youtube.com/watch?v=ko3yGf2vfO4)
+* [Q&A: Does Jace like PB&J Sandwiches?](../../transcriptions/yt-98TBLUBhlhI.md) [https://www.youtube.com/watch?v=98TBLUBhlhI](https://www.youtube.com/watch?v=98TBLUBhlhI)
+* [Q&A: Does Jace like a glass of milk though?](../../transcriptions/yt-SZQNxcD7qmk.md) [https://www.youtube.com/watch?v=SZQNxcD7qmk](https://www.youtube.com/watch?v=SZQNxcD7qmk)
+* [Q&A: Will there ever be two players per car?](../../transcriptions/yt-MGcq63fWfYY.md) [https://www.youtube.com/watch?v=MGcq63fWfYY](https://www.youtube.com/watch?v=MGcq63fWfYY)
+* [Q&A: Jace & Snutt statues for Update 5?](../../transcriptions/yt-IbOMZmlYbD8.md) [https://www.youtube.com/watch?v=IbOMZmlYbD8](https://www.youtube.com/watch?v=IbOMZmlYbD8)
+* [Q&A: Aside from Satisfactory, what games have you been playing?](../../transcriptions/yt-VGjqOVxF1dE.md) [https://www.youtube.com/watch?v=VGjqOVxF1dE](https://www.youtube.com/watch?v=VGjqOVxF1dE)
+* [Q&A: Are you allowed to say if there are plans for base building stuff like furniture?](../../transcriptions/yt-zQU4_LMkM0w.md) [https://www.youtube.com/watch?v=zQU4_LMkM0w](https://www.youtube.com/watch?v=zQU4_LMkM0w)
+* [Community FYI: Ah shit, Jace is back?](../../transcriptions/yt-hNMDQdKTEQM.md) [https://www.youtube.com/watch?v=hNMDQdKTEQM](https://www.youtube.com/watch?v=hNMDQdKTEQM)
+* [Q&A: What's living and working in Sweden like?](../../transcriptions/yt-rkXzMln6DcA.md) [https://www.youtube.com/watch?v=rkXzMln6DcA](https://www.youtube.com/watch?v=rkXzMln6DcA)
+* [Q&A: Snutt isn't going on vacation as soon as Jace arrived?](../../transcriptions/yt-VWRvjltgkNc.md) [https://www.youtube.com/watch?v=VWRvjltgkNc](https://www.youtube.com/watch?v=VWRvjltgkNc)
+* [Q&A: How old are you guys?](../../transcriptions/yt-P56ynLYzkug.md) [https://www.youtube.com/watch?v=P56ynLYzkug](https://www.youtube.com/watch?v=P56ynLYzkug)
+* [Q&A: How's your Swedish, Jace?](../../transcriptions/yt-0X8cNWXohRY.md) [https://www.youtube.com/watch?v=0X8cNWXohRY](https://www.youtube.com/watch?v=0X8cNWXohRY)
+* [Q&A: Do you do any coding any more?](../../transcriptions/yt-3Z-06sv9ZZM.md) [https://www.youtube.com/watch?v=3Z-06sv9ZZM](https://www.youtube.com/watch?v=3Z-06sv9ZZM)
+* [Q&A: What's for dinner?](../../transcriptions/yt-bLzbVAzSsH4.md) [https://www.youtube.com/watch?v=bLzbVAzSsH4](https://www.youtube.com/watch?v=bLzbVAzSsH4)
+* [Q&A: What's Jace's tattoo about?](../../transcriptions/yt-0gtk13goy6M.md) [https://www.youtube.com/watch?v=0gtk13goy6M](https://www.youtube.com/watch?v=0gtk13goy6M)
+
 ## May 11th, 2021 Livestream
 * [Q&A: What's up with Jace?](../../transcriptions/yt-PvMiTd6cWRs.md) [https://www.youtube.com/watch?v=PvMiTd6cWRs](https://www.youtube.com/watch?v=PvMiTd6cWRs)
 * [Q&A: Jace is officially Satisfactory Pro?](../../transcriptions/yt-CqKiFu-37vQ.md) [https://www.youtube.com/watch?v=CqKiFu-37vQ](https://www.youtube.com/watch?v=CqKiFu-37vQ)

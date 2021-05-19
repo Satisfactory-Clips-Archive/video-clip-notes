@@ -18,6 +18,17 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## May 18th, 2021 Livestream
+* [Snutt & Jace Talk: Jace is back](../transcriptions/yt-NcaVeVq8uig.md) [https://www.youtube.com/watch?v=NcaVeVq8uig](https://www.youtube.com/watch?v=NcaVeVq8uig)
+* [Q&A: Are you guys going to make a Q&A Site where I can ask inane questions like this one?](../transcriptions/yt-yy02KLk5tGE.md) [https://www.youtube.com/watch?v=yy02KLk5tGE](https://www.youtube.com/watch?v=yy02KLk5tGE)
+* [Q&A: Is there a way to consolidate votes for identical or similar-enough posts?](../transcriptions/yt-kli-dzmnEHI.md) [https://www.youtube.com/watch?v=kli-dzmnEHI](https://www.youtube.com/watch?v=kli-dzmnEHI)
+* [Q&A: Do you have a known issues page?](../transcriptions/yt-6ZEIqmoSzBc.md) [https://www.youtube.com/watch?v=6ZEIqmoSzBc](https://www.youtube.com/watch?v=6ZEIqmoSzBc)
+* [Snutt & Jace Talk: Asking questions about plans](../transcriptions/yt-VdTgcFtcMyA.md) [https://www.youtube.com/watch?v=VdTgcFtcMyA](https://www.youtube.com/watch?v=VdTgcFtcMyA)
+* [Q&A: Please, no Train hit box?](../transcriptions/yt-8ICP2Wp2YNc.md) [https://www.youtube.com/watch?v=8ICP2Wp2YNc](https://www.youtube.com/watch?v=8ICP2Wp2YNc)
+* [Q&A: Any plans on having a community get-together after the pandemic?](../transcriptions/yt-1dxC-6nvkMY.md) [https://www.youtube.com/watch?v=1dxC-6nvkMY](https://www.youtube.com/watch?v=1dxC-6nvkMY)
+* [Q&A: 2x2 Factory Challenge?](../transcriptions/yt-pGu4gQkQI1w.md) [https://www.youtube.com/watch?v=pGu4gQkQI1w](https://www.youtube.com/watch?v=pGu4gQkQI1w)
+* [Community FYI: Brazilian gamers love Satisfactory](../transcriptions/yt-6hh-d1juFmw.md) [https://www.youtube.com/watch?v=6hh-d1juFmw](https://www.youtube.com/watch?v=6hh-d1juFmw)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Lego set please?](../transcriptions/yt-sjo3yhJzE0Y.md) [https://www.youtube.com/watch?v=sjo3yhJzE0Y](https://www.youtube.com/watch?v=sjo3yhJzE0Y)
 * [Q&A: Will enemies ever become more of a threat?](../transcriptions/yt-3u0vyx3Dh6I.md) [https://www.youtube.com/watch?v=3u0vyx3Dh6I](https://www.youtube.com/watch?v=3u0vyx3Dh6I)

@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: When do Signs come?
 https://www.youtube.com/watch?v=5PwIEaLRDRY
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Can we get signs soon?](./yt-wUy8zszYfdQ.md) [https://www.youtube.com/watch?v=wUy8zszYfdQ](https://www.youtube.com/watch?v=wUy8zszYfdQ)
+This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Are you thinking of adding some type of Signs or screens?](./yt-N8sqIFGjwyk.md) [https://www.youtube.com/watch?v=N8sqIFGjwyk](https://www.youtube.com/watch?v=N8sqIFGjwyk)
 
 
 ### Topics

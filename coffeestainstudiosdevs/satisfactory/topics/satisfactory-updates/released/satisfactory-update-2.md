@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 2
 
+## May 18th, 2021 Livestream
+* [Q&A: Are you considering a Train rework?](../../../transcriptions/yt-68MP936ZdfQ.md) [https://www.youtube.com/watch?v=68MP936ZdfQ](https://www.youtube.com/watch?v=68MP936ZdfQ)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: Patch Notes video since Update 1?](../../../transcriptions/yt-APlNumHg7ng.md) [https://www.youtube.com/watch?v=APlNumHg7ng](https://www.youtube.com/watch?v=APlNumHg7ng)
 

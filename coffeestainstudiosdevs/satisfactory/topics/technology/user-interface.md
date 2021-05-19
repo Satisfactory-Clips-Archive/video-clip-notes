@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## May 18th, 2021 Livestream
+* [Q&A: What are the biggest difficulties when implementing a new feature?](../../transcriptions/yt-uQWR7_55EEI.md) [https://www.youtube.com/watch?v=uQWR7_55EEI](https://www.youtube.com/watch?v=uQWR7_55EEI)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Turbofuel for Jet Packs](../../transcriptions/yt-5Ij3wWqZb8Q.md) [https://www.youtube.com/watch?v=5Ij3wWqZb8Q](https://www.youtube.com/watch?v=5Ij3wWqZb8Q)
 * [Q&A: Will there be functionality for the HUB inside?](../../transcriptions/yt-4cBtSl7Pwwk.md) [https://www.youtube.com/watch?v=4cBtSl7Pwwk](https://www.youtube.com/watch?v=4cBtSl7Pwwk)
@@ -187,7 +190,7 @@ date: Last Modified
 * [Q&A: Have you played Infinifactory?](../../transcriptions/yt-QC5TQ6iL8sg.md) [https://www.youtube.com/watch?v=QC5TQ6iL8sg](https://www.youtube.com/watch?v=QC5TQ6iL8sg)
 * [Q&A: Water Extractors need to snap to grid](../../transcriptions/yt-sAHdYX0iwIg.md) [https://www.youtube.com/watch?v=sAHdYX0iwIg](https://www.youtube.com/watch?v=sAHdYX0iwIg)
 * [Q&A: Set a specific Foundation as the keystone?](../../transcriptions/yt-DTZz5jdnn_s.md) [https://www.youtube.com/watch?v=DTZz5jdnn_s](https://www.youtube.com/watch?v=DTZz5jdnn_s)
-* [Q&A: When will you ad UI for the Steam Geyser Power Plant?](../../transcriptions/yt-xFZfkjY3J0c.md) [https://www.youtube.com/watch?v=xFZfkjY3J0c](https://www.youtube.com/watch?v=xFZfkjY3J0c)
+* [Q&A: When will you add UI for the Steam Geyser Power Plant?](../../transcriptions/yt-xFZfkjY3J0c.md) [https://www.youtube.com/watch?v=xFZfkjY3J0c](https://www.youtube.com/watch?v=xFZfkjY3J0c)
 * [Q&A: Generators have power switches, so do all structures in the game?](../../transcriptions/yt-CN2G6ZH6bmA.md) [https://www.youtube.com/watch?v=CN2G6ZH6bmA](https://www.youtube.com/watch?v=CN2G6ZH6bmA)
 * [Q&A: Grid- a radius would be perfect?](../../transcriptions/yt-AgdOGd32U3w.md) [https://www.youtube.com/watch?v=AgdOGd32U3w](https://www.youtube.com/watch?v=AgdOGd32U3w)
 * [Q&A: A mark on pipes to show the meters ?](../../transcriptions/yt-lXL_N-a887E.md) [https://www.youtube.com/watch?v=lXL_N-a887E](https://www.youtube.com/watch?v=lXL_N-a887E)

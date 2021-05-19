@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## May 18th, 2021 Livestream
+* [State of Dev: Issues with Update 4](../../../transcriptions/yt-xDmB6Zyrr1U.md) [https://www.youtube.com/watch?v=xDmB6Zyrr1U](https://www.youtube.com/watch?v=xDmB6Zyrr1U)
+* [Q&A: Coal plants are gobbling coal like never before, have you nerfed them?](../../../transcriptions/yt-CJ8fQV1ttF4.md) [https://www.youtube.com/watch?v=CJ8fQV1ttF4](https://www.youtube.com/watch?v=CJ8fQV1ttF4)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Wasn't Update 4 the "Performance Update" ?](../../../transcriptions/yt-F1LcL3vjHFo.md) [https://www.youtube.com/watch?v=F1LcL3vjHFo](https://www.youtube.com/watch?v=F1LcL3vjHFo)
 

@@ -15,6 +15,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## May 18th, 2021 Livestream
+* [Q&A: Any idea how many Tiers we'd be looking at towards the end of development?](../../transcriptions/yt--ZE3BrvTn1g.md) [https://www.youtube.com/watch?v=-ZE3BrvTn1g](https://www.youtube.com/watch?v=-ZE3BrvTn1g)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: QA Site Feature Request - Making the Hover Pack available earlier](../../transcriptions/yt-kgax8gYD0DY.md) [https://www.youtube.com/watch?v=kgax8gYD0DY](https://www.youtube.com/watch?v=kgax8gYD0DY)
 * [Q&A: How long do you think the game will take to beat in 1.0?](../../transcriptions/yt-r4cyIHDA25I.md) [https://www.youtube.com/watch?v=r4cyIHDA25I](https://www.youtube.com/watch?v=r4cyIHDA25I)

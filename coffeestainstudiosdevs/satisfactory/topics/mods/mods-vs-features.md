@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## May 18th, 2021 Livestream
+* [Q&A: Please add cookie baking mode?](../../transcriptions/yt-BsNMpP14MPg.md) [https://www.youtube.com/watch?v=BsNMpP14MPg](https://www.youtube.com/watch?v=BsNMpP14MPg)
+* [Q&A: How do Mods handle Miners with multiple outputs?](../../transcriptions/yt-JvmCTyv0uNo.md) [https://www.youtube.com/watch?v=JvmCTyv0uNo](https://www.youtube.com/watch?v=JvmCTyv0uNo)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Will we be able to stop using mods for more building assets?](../../transcriptions/yt-YZJ8RChJn2w.md) [https://www.youtube.com/watch?v=YZJ8RChJn2w](https://www.youtube.com/watch?v=YZJ8RChJn2w)
 

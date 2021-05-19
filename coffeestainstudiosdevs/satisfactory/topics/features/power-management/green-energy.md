@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
+## May 18th, 2021 Livestream
+* [Snutt & Jace Talk: Green Energy](../../../transcriptions/yt-ZJj1LxI9JHc.md) [https://www.youtube.com/watch?v=ZJj1LxI9JHc](https://www.youtube.com/watch?v=ZJj1LxI9JHc)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Plans to add Solar?](../../../transcriptions/yt-wrFOCRX7hDY.md) [https://www.youtube.com/watch?v=wrFOCRX7hDY](https://www.youtube.com/watch?v=wrFOCRX7hDY)
 

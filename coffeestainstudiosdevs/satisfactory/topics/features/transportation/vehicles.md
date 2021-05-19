@@ -11,6 +11,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## May 18th, 2021 Livestream
+* [Q&A: Will there ever be two players per car?](../../../transcriptions/yt-MGcq63fWfYY.md) [https://www.youtube.com/watch?v=MGcq63fWfYY](https://www.youtube.com/watch?v=MGcq63fWfYY)
+* [Q&A: In an un-powered vehicle, why do brakes only work when you're not in it?](../../../transcriptions/yt-MScX3iWREj4.md) [https://www.youtube.com/watch?v=MScX3iWREj4](https://www.youtube.com/watch?v=MScX3iWREj4)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Will there be first-person POV in Vehicles?](../../../transcriptions/yt-Q40_kNmSB20.md) [https://www.youtube.com/watch?v=Q40_kNmSB20](https://www.youtube.com/watch?v=Q40_kNmSB20)
 * [Q&A: Vehicle Lights?](../../../transcriptions/yt-GW8fdTPWY8Y.md) [https://www.youtube.com/watch?v=GW8fdTPWY8Y](https://www.youtube.com/watch?v=GW8fdTPWY8Y)

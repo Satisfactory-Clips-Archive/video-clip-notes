@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## May 18th, 2021 Livestream
+* [Q&A: Jace & Snutt statues for Update 5?](../../../transcriptions/yt-IbOMZmlYbD8.md) [https://www.youtube.com/watch?v=IbOMZmlYbD8](https://www.youtube.com/watch?v=IbOMZmlYbD8)
+* [Q&A: Are you allowed to say if there are plans for base building stuff like furniture?](../../../transcriptions/yt-zQU4_LMkM0w.md) [https://www.youtube.com/watch?v=zQU4_LMkM0w](https://www.youtube.com/watch?v=zQU4_LMkM0w)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Will you add more cosmetics like statues in the future?](../../../transcriptions/yt-BxlM2EkXWlY.md) [https://www.youtube.com/watch?v=BxlM2EkXWlY](https://www.youtube.com/watch?v=BxlM2EkXWlY)
 

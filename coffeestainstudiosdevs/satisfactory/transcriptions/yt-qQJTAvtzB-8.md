@@ -9,7 +9,7 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will there be more options for aesthetics regarding things like house building?
 https://www.youtube.com/watch?v=qQJTAvtzB-8
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Can you guys add a lifestyle update with furniture in?](./yt-JlAmGDLcCfo.md) [https://www.youtube.com/watch?v=JlAmGDLcCfo](https://www.youtube.com/watch?v=JlAmGDLcCfo)
+This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Are you allowed to say if there are plans for base building stuff like furniture?](./yt-zQU4_LMkM0w.md) [https://www.youtube.com/watch?v=zQU4_LMkM0w](https://www.youtube.com/watch?v=zQU4_LMkM0w)
 
 
 ### Topics

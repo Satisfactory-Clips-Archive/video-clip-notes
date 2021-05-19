@@ -9,6 +9,10 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## May 18th, 2021 Livestream
+* [Q&A: Steam Power?](../../transcriptions/yt-A7yrlAlJ6l4.md) [https://www.youtube.com/watch?v=A7yrlAlJ6l4](https://www.youtube.com/watch?v=A7yrlAlJ6l4)
+* [Q&A: Coal plants are gobbling coal like never before, have you nerfed them?](../../transcriptions/yt-CJ8fQV1ttF4.md) [https://www.youtube.com/watch?v=CJ8fQV1ttF4](https://www.youtube.com/watch?v=CJ8fQV1ttF4)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Buildings that can be daisy-chained like the lights?](../../transcriptions/yt-JoMBbznOXGs.md) [https://www.youtube.com/watch?v=JoMBbznOXGs](https://www.youtube.com/watch?v=JoMBbznOXGs)
 * [Q&A: What happened to the plans to implement a structure that powers all foundations of a factory?](../../transcriptions/yt-1uP0bqUCsrc.md) [https://www.youtube.com/watch?v=1uP0bqUCsrc](https://www.youtube.com/watch?v=1uP0bqUCsrc)

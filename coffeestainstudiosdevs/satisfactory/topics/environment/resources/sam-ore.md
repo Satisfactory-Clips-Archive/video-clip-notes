@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## May 18th, 2021 Livestream
+* [Q&A: Any uses on S.A.M. Ore planned?](../../../transcriptions/yt-7R7T4kiIFDY.md) [https://www.youtube.com/watch?v=7R7T4kiIFDY](https://www.youtube.com/watch?v=7R7T4kiIFDY)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Are Mercer Spheres going to be useful before 1.0?](../../../transcriptions/yt-8oYXZQdnv4w.md) [https://www.youtube.com/watch?v=8oYXZQdnv4w](https://www.youtube.com/watch?v=8oYXZQdnv4w)
 

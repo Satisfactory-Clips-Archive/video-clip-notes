@@ -8,7 +8,7 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Are there any plans for integrated mod support?
 https://www.youtube.com/watch?v=25ssduoFoiA
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Any chance for Mod Support?](./yt-uRoRq878QHw.md) [https://www.youtube.com/watch?v=uRoRq878QHw](https://www.youtube.com/watch?v=uRoRq878QHw)
+This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Official Mod Support?](./yt-TQdwxoxIfX0.md) [https://www.youtube.com/watch?v=TQdwxoxIfX0](https://www.youtube.com/watch?v=TQdwxoxIfX0)
 
 
 ### Topics

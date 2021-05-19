@@ -8,7 +8,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Who speaks ADA?
 https://www.youtube.com/watch?v=aYUTkfL-jKk
-This question was possibly duplicated with a more recent answer: [October 27th, 2020 Livestream Q&A: Is ADA computer generated or a voice actress?](./yt-lSeLNlkKo1w.md) [https://www.youtube.com/watch?v=lSeLNlkKo1w](https://www.youtube.com/watch?v=lSeLNlkKo1w)
+This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Who is the voice actor for ADA?](./yt-pDGX-8_vTW0.md) [https://www.youtube.com/watch?v=pDGX-8_vTW0](https://www.youtube.com/watch?v=pDGX-8_vTW0)
 
 
 ### Topics

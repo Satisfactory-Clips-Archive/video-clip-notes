@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## May 18th, 2021 Livestream
+* [Q&A: In an un-powered vehicle, why do brakes only work when you're not in it?](../../transcriptions/yt-MScX3iWREj4.md) [https://www.youtube.com/watch?v=MScX3iWREj4](https://www.youtube.com/watch?v=MScX3iWREj4)
+
 ## May 11th, 2021 Livestream
 * [State of Dev: Cheatcrete-related changes in Update 5](../../transcriptions/yt-g-YO3v6JbSY.md) [https://www.youtube.com/watch?v=g-YO3v6JbSY](https://www.youtube.com/watch?v=g-YO3v6JbSY)
 * [Q&A: Will non-floating structures ever be a thing?](../../transcriptions/yt-xu7EL-x1qVE.md) [https://www.youtube.com/watch?v=xu7EL-x1qVE](https://www.youtube.com/watch?v=xu7EL-x1qVE)

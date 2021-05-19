@@ -8,7 +8,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Two-person buggy?
 https://www.youtube.com/watch?v=IUQeH1sTCv0
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: What about allowing a second person in the buggy?](./yt-RENRn0EnoZE.md) [https://www.youtube.com/watch?v=RENRn0EnoZE](https://www.youtube.com/watch?v=RENRn0EnoZE)
+This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Will there ever be two players per car?](./yt-MGcq63fWfYY.md) [https://www.youtube.com/watch?v=MGcq63fWfYY](https://www.youtube.com/watch?v=MGcq63fWfYY)
 
 
 ### Topics

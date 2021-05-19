@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## May 18th, 2021 Livestream
+* [State of Dev: Issues with Update 4](../../transcriptions/yt-xDmB6Zyrr1U.md) [https://www.youtube.com/watch?v=xDmB6Zyrr1U](https://www.youtube.com/watch?v=xDmB6Zyrr1U)
+
 ## May 11th, 2021 Livestream
 * [Q&A: When's the next EA Update?](../../transcriptions/yt-oRZCBpRdFqE.md) [https://www.youtube.com/watch?v=oRZCBpRdFqE](https://www.youtube.com/watch?v=oRZCBpRdFqE)
 

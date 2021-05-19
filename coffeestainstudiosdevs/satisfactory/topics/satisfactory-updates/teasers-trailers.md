@@ -9,6 +9,8 @@ date: Last Modified
 * [Update 4 Launch Trailer](../../topics/satisfactory-updates/teasers-trailers/update-4-launch-trailer.md)
 * [Update 4 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
 * [Update 4 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
+* [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+* [Update 5 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 
 ## May 11th, 2021 Livestream
 * [Q&A: Snutt plays the game?](../../transcriptions/yt-uqKyjrtWJ7M.md) [https://www.youtube.com/watch?v=uqKyjrtWJ7M](https://www.youtube.com/watch?v=uqKyjrtWJ7M)

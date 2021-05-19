@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## May 18th, 2021 Livestream
+* [Snutt & Jace Talk: Green Energy](../../transcriptions/yt-ZJj1LxI9JHc.md) [https://www.youtube.com/watch?v=ZJj1LxI9JHc](https://www.youtube.com/watch?v=ZJj1LxI9JHc)
+* [Q&A: Can you add an adjustment setting in the Light controls.](../../transcriptions/yt-ABqk2URaH74.md) [https://www.youtube.com/watch?v=ABqk2URaH74](https://www.youtube.com/watch?v=ABqk2URaH74)
+
 ## May 11th, 2021 Livestream
 * [Snutt Talk: Golf upvotes status check (Part 1)](../../transcriptions/yt-aIUXj1_scVc.md) [https://www.youtube.com/watch?v=aIUXj1_scVc](https://www.youtube.com/watch?v=aIUXj1_scVc)
 * [Q&A: Turbofuel for Jet Packs](../../transcriptions/yt-5Ij3wWqZb8Q.md) [https://www.youtube.com/watch?v=5Ij3wWqZb8Q](https://www.youtube.com/watch?v=5Ij3wWqZb8Q)

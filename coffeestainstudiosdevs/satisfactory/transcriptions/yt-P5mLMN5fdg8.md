@@ -9,6 +9,8 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: When is Jace coming back?
 https://www.youtube.com/watch?v=P5mLMN5fdg8
+This question was possibly replaced with a more recent answer: [May 18th, 2021 Livestream Snutt & Jace Talk: Jace is back](./yt-NcaVeVq8uig.md) [https://www.youtube.com/watch?v=NcaVeVq8uig](https://www.youtube.com/watch?v=NcaVeVq8uig)
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

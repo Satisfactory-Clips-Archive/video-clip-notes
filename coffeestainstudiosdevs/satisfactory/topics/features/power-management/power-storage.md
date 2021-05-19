@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Storage
 
+## May 18th, 2021 Livestream
+* [Q&A: Coal plants are gobbling coal like never before, have you nerfed them?](../../../transcriptions/yt-CJ8fQV1ttF4.md) [https://www.youtube.com/watch?v=CJ8fQV1ttF4](https://www.youtube.com/watch?v=CJ8fQV1ttF4)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Buildings that can be daisy-chained like the lights?](../../../transcriptions/yt-JoMBbznOXGs.md) [https://www.youtube.com/watch?v=JoMBbznOXGs](https://www.youtube.com/watch?v=JoMBbznOXGs)
 

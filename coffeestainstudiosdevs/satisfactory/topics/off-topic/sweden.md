@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## May 18th, 2021 Livestream
+* [Q&A: What's living and working in Sweden like?](../../transcriptions/yt-rkXzMln6DcA.md) [https://www.youtube.com/watch?v=rkXzMln6DcA](https://www.youtube.com/watch?v=rkXzMln6DcA)
+* [Q&A: Do men get parental leave in Sweden?](../../transcriptions/yt-3UbMqP40hXc.md) [https://www.youtube.com/watch?v=3UbMqP40hXc](https://www.youtube.com/watch?v=3UbMqP40hXc)
+* [Q&A: How's your Swedish, Jace?](../../transcriptions/yt-0X8cNWXohRY.md) [https://www.youtube.com/watch?v=0X8cNWXohRY](https://www.youtube.com/watch?v=0X8cNWXohRY)
+* [Snutt & Jace Talk: Update 5 Patch Notes video](../../transcriptions/yt-9PFxkX8nrx0.md) [https://www.youtube.com/watch?v=9PFxkX8nrx0](https://www.youtube.com/watch?v=9PFxkX8nrx0)
+
 ## May 11th, 2021 Livestream
 * [Q&A: When's the next EA Update?](../../transcriptions/yt-oRZCBpRdFqE.md) [https://www.youtube.com/watch?v=oRZCBpRdFqE](https://www.youtube.com/watch?v=oRZCBpRdFqE)
 * [Q&A: What's up with Jace?](../../transcriptions/yt-PvMiTd6cWRs.md) [https://www.youtube.com/watch?v=PvMiTd6cWRs](https://www.youtube.com/watch?v=PvMiTd6cWRs)

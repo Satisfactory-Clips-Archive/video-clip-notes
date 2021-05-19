@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## May 18th, 2021 Livestream
+* [Q&A: In-game events in the near-time?](../../../transcriptions/yt-9BJfkfV6Ka4.md) [https://www.youtube.com/watch?v=9BJfkfV6Ka4](https://www.youtube.com/watch?v=9BJfkfV6Ka4)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Quantum Computers don't exist yet, did I overlook something?](../../../transcriptions/yt-Aflfj7-LF6w.md) [https://www.youtube.com/watch?v=Aflfj7-LF6w](https://www.youtube.com/watch?v=Aflfj7-LF6w)
 

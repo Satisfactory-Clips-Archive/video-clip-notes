@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## May 18th, 2021 Livestream
+* [Q&A: Can you add an adjustment setting in the Light controls.](../../../transcriptions/yt-ABqk2URaH74.md) [https://www.youtube.com/watch?v=ABqk2URaH74](https://www.youtube.com/watch?v=ABqk2URaH74)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Vehicle Lights?](../../../transcriptions/yt-GW8fdTPWY8Y.md) [https://www.youtube.com/watch?v=GW8fdTPWY8Y](https://www.youtube.com/watch?v=GW8fdTPWY8Y)
 * [Q&A: Technical presentation of Lights, Simulation, and Trains, etc. ?](../../../transcriptions/yt-ifM6AIYMw80.md) [https://www.youtube.com/watch?v=ifM6AIYMw80](https://www.youtube.com/watch?v=ifM6AIYMw80)

@@ -377,6 +377,8 @@ date: Last Modified
 * [Update 4 Launch Stream](./topics/satisfactory-updates/teasers-trailers/update-4-launch-stream.md)
 * [Update 4 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
 * [Update 4 Launch Trailer](./topics/satisfactory-updates/teasers-trailers/update-4-launch-trailer.md)
+* [Update 5 Teasers](./topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Update 5 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
 ---
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)

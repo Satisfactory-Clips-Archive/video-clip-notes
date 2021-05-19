@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes
 
+## May 18th, 2021 Livestream
+* [Snutt & Jace Talk: Green Energy](../../transcriptions/yt-ZJj1LxI9JHc.md) [https://www.youtube.com/watch?v=ZJj1LxI9JHc](https://www.youtube.com/watch?v=ZJj1LxI9JHc)
+* [Q&A: Are there any plans for teleportation?](../../transcriptions/yt-RyU3sk4C5d8.md) [https://www.youtube.com/watch?v=RyU3sk4C5d8](https://www.youtube.com/watch?v=RyU3sk4C5d8)
+
 ## May 11th, 2021 Livestream
 * [State of Dev: How our showcase meetings work](../../transcriptions/yt-OTb1ZkP5mkE.md) [https://www.youtube.com/watch?v=OTb1ZkP5mkE](https://www.youtube.com/watch?v=OTb1ZkP5mkE)
 * [Q&A: Do you have a clear idea of the Story Mode yet?](../../transcriptions/yt-Zc2lKKROexI.md) [https://www.youtube.com/watch?v=Zc2lKKROexI](https://www.youtube.com/watch?v=Zc2lKKROexI)

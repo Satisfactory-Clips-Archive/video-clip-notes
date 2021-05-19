@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## May 18th, 2021 Livestream
+* [Q&A: Is there any sort of Story planned?](../transcriptions/yt-8cZ-oH-WA3E.md) [https://www.youtube.com/watch?v=8cZ-oH-WA3E](https://www.youtube.com/watch?v=8cZ-oH-WA3E)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Do you have a clear idea of the Story Mode yet?](../transcriptions/yt-Zc2lKKROexI.md) [https://www.youtube.com/watch?v=Zc2lKKROexI](https://www.youtube.com/watch?v=Zc2lKKROexI)
 * [Q&A: When are you thinking of putting out updates for the Story?](../transcriptions/yt-4NOvrqJdUMY.md) [https://www.youtube.com/watch?v=4NOvrqJdUMY](https://www.youtube.com/watch?v=4NOvrqJdUMY)

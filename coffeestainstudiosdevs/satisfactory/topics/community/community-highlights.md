@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## May 18th, 2021 Livestream
+* [Snutt & Jace Talk: How we find Community Highlights content](../../transcriptions/yt-dXL7RbnXeCg.md) [https://www.youtube.com/watch?v=dXL7RbnXeCg](https://www.youtube.com/watch?v=dXL7RbnXeCg)
+* [Snutt & Jace Talk: Issues in finding representative clips for Content Creator Highlights](../../transcriptions/yt-sOcio3xP8lE.md) [https://www.youtube.com/watch?v=sOcio3xP8lE](https://www.youtube.com/watch?v=sOcio3xP8lE)
+* [Q&A: Why not a Content Creator competition for the funniest clip?](../../transcriptions/yt-Jm1-6C34Akg.md) [https://www.youtube.com/watch?v=Jm1-6C34Akg](https://www.youtube.com/watch?v=Jm1-6C34Akg)
+
 ## May 4th, 2021 Livestream
 * [Community Highlights: Dune Desert Waterfall Mesa & the pending World Updates](../../transcriptions/yt-b86m8SEx6Vw.md) [https://www.youtube.com/watch?v=b86m8SEx6Vw](https://www.youtube.com/watch?v=b86m8SEx6Vw)
 * [Community Highlights: This base looks like it's preparing for tower defense](../../transcriptions/yt-tSgSZ7D_z6I.md) [https://www.youtube.com/watch?v=tSgSZ7D_z6I](https://www.youtube.com/watch?v=tSgSZ7D_z6I)

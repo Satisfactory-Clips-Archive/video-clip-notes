@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
 
+## May 18th, 2021 Livestream
+* [State of Dev: Update 5](../../../transcriptions/yt-2kaP1jPZOL4.md) [https://www.youtube.com/watch?v=2kaP1jPZOL4](https://www.youtube.com/watch?v=2kaP1jPZOL4)
+* Q&A: Quantum Computers & Superposition Oscillators; Update 5 content or separate release? [https://www.youtube.com/watch?v=gIahtVFvL68](https://www.youtube.com/watch?v=gIahtVFvL68)
+* [Q&A: Mk.2 Pipes are fixed?](../../../transcriptions/yt-qbY-LRh-Tus.md) [https://www.youtube.com/watch?v=qbY-LRh-Tus](https://www.youtube.com/watch?v=qbY-LRh-Tus)
+* [Q&A: Jace & Snutt statues for Update 5?](../../../transcriptions/yt-IbOMZmlYbD8.md) [https://www.youtube.com/watch?v=IbOMZmlYbD8](https://www.youtube.com/watch?v=IbOMZmlYbD8)
+
 ## May 11th, 2021 Livestream
 * [State of Dev: Working on Update 5](../../../transcriptions/yt-R3j3H4zNhjc.md) [https://www.youtube.com/watch?v=R3j3H4zNhjc](https://www.youtube.com/watch?v=R3j3H4zNhjc)
 * [State of Dev: Expected release window for Update 5](../../../transcriptions/yt-3Y23DYvgwhE.md) [https://www.youtube.com/watch?v=3Y23DYvgwhE](https://www.youtube.com/watch?v=3Y23DYvgwhE)

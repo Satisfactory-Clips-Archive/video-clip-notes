@@ -33,6 +33,16 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## May 18th, 2021 Livestream
+* [State of Dev: Update 5](../transcriptions/yt-2kaP1jPZOL4.md) [https://www.youtube.com/watch?v=2kaP1jPZOL4](https://www.youtube.com/watch?v=2kaP1jPZOL4)
+* [Q&A: Do you review bugs weekly, or as they're reported?](../transcriptions/yt-thvzHJofHfw.md) [https://www.youtube.com/watch?v=thvzHJofHfw](https://www.youtube.com/watch?v=thvzHJofHfw)
+* [Q&A: Is there a way to consolidate votes for identical or similar-enough posts?](../transcriptions/yt-kli-dzmnEHI.md) [https://www.youtube.com/watch?v=kli-dzmnEHI](https://www.youtube.com/watch?v=kli-dzmnEHI)
+* [Q&A: Will there ever be two players per car?](../transcriptions/yt-MGcq63fWfYY.md) [https://www.youtube.com/watch?v=MGcq63fWfYY](https://www.youtube.com/watch?v=MGcq63fWfYY)
+* [Q&A: Is there a technical reason you only made Mk.5 belts and not higher?](../transcriptions/yt-SiU_cgb0XhI.md) [https://www.youtube.com/watch?v=SiU_cgb0XhI](https://www.youtube.com/watch?v=SiU_cgb0XhI)
+* [Q&A: What are the biggest difficulties when implementing a new feature?](../transcriptions/yt-uQWR7_55EEI.md) [https://www.youtube.com/watch?v=uQWR7_55EEI](https://www.youtube.com/watch?v=uQWR7_55EEI)
+* [Q&A: Can you thank Hannah for making a beautiful World?](../transcriptions/yt-E9cvnFnfm0M.md) [https://www.youtube.com/watch?v=E9cvnFnfm0M](https://www.youtube.com/watch?v=E9cvnFnfm0M)
+* [Q&A: Do you do any coding any more?](../transcriptions/yt-3Z-06sv9ZZM.md) [https://www.youtube.com/watch?v=3Z-06sv9ZZM](https://www.youtube.com/watch?v=3Z-06sv9ZZM)
+
 ## May 11th, 2021 Livestream
 * [State of Dev: How our showcase meetings work](../transcriptions/yt-OTb1ZkP5mkE.md) [https://www.youtube.com/watch?v=OTb1ZkP5mkE](https://www.youtube.com/watch?v=OTb1ZkP5mkE)
 * [State of Dev: Approach to development while in Early Access](../transcriptions/yt-XXzwX-dd5jo.md) [https://www.youtube.com/watch?v=XXzwX-dd5jo](https://www.youtube.com/watch?v=XXzwX-dd5jo)

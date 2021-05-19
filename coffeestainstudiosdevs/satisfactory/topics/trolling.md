@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## May 18th, 2021 Livestream
+* [Q&A: Train Collisions, soon / far away?](../transcriptions/yt-1JyWZYpxLsk.md) [https://www.youtube.com/watch?v=1JyWZYpxLsk](https://www.youtube.com/watch?v=1JyWZYpxLsk)
+* [Q&A: Will the Coffee Cup ever spill in-game?](../transcriptions/yt-N-eEiFrITAY.md) [https://www.youtube.com/watch?v=N-eEiFrITAY](https://www.youtube.com/watch?v=N-eEiFrITAY)
+* [Q&A: Any uses on S.A.M. Ore planned?](../transcriptions/yt-7R7T4kiIFDY.md) [https://www.youtube.com/watch?v=7R7T4kiIFDY](https://www.youtube.com/watch?v=7R7T4kiIFDY)
+* Q&A: Any plans to add Excel to the game? [https://www.youtube.com/watch?v=lR3nSp1EQQI](https://www.youtube.com/watch?v=lR3nSp1EQQI)
+* [Q&A: How old are you guys?](../transcriptions/yt-P56ynLYzkug.md) [https://www.youtube.com/watch?v=P56ynLYzkug](https://www.youtube.com/watch?v=P56ynLYzkug)
+* [Q&A: Fix tractors?](../transcriptions/yt-MA7w4S6lUOs.md) [https://www.youtube.com/watch?v=MA7w4S6lUOs](https://www.youtube.com/watch?v=MA7w4S6lUOs)
+* [Q&A: Satisfactory belts in Valheim?](../transcriptions/yt-0C8W5uEdJJk.md) [https://www.youtube.com/watch?v=0C8W5uEdJJk](https://www.youtube.com/watch?v=0C8W5uEdJJk)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Ads for the Rifle?](../transcriptions/yt-xcMRZD8p_YY.md) [https://www.youtube.com/watch?v=xcMRZD8p_YY](https://www.youtube.com/watch?v=xcMRZD8p_YY)
 * [Q&A: What about toaster support?](../transcriptions/yt-K-9W322q7fs.md) [https://www.youtube.com/watch?v=K-9W322q7fs](https://www.youtube.com/watch?v=K-9W322q7fs)

@@ -16,6 +16,11 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## May 18th, 2021 Livestream
+* [Q&A: Mk.2 Pipes are fixed?](../transcriptions/yt-qbY-LRh-Tus.md) [https://www.youtube.com/watch?v=qbY-LRh-Tus](https://www.youtube.com/watch?v=qbY-LRh-Tus)
+* [Snutt & Jace Talk: Asking questions about plans](../transcriptions/yt-VdTgcFtcMyA.md) [https://www.youtube.com/watch?v=VdTgcFtcMyA](https://www.youtube.com/watch?v=VdTgcFtcMyA)
+* [Q&A: What are the biggest difficulties when implementing a new feature?](../transcriptions/yt-uQWR7_55EEI.md) [https://www.youtube.com/watch?v=uQWR7_55EEI](https://www.youtube.com/watch?v=uQWR7_55EEI)
+
 ## May 11th, 2021 Livestream
 * [State of Dev: Approach to development while in Early Access](../transcriptions/yt-XXzwX-dd5jo.md) [https://www.youtube.com/watch?v=XXzwX-dd5jo](https://www.youtube.com/watch?v=XXzwX-dd5jo)
 * [Q&A: Wasn't Update 4 the "Performance Update" ?](../transcriptions/yt-F1LcL3vjHFo.md) [https://www.youtube.com/watch?v=F1LcL3vjHFo](https://www.youtube.com/watch?v=F1LcL3vjHFo)

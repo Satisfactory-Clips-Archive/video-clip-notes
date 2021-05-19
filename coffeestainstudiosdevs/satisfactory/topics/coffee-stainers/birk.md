@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Birk
 
+## May 18th, 2021 Livestream
+* [Q&A: Are you thinking of adding some type of Signs or screens?](../../transcriptions/yt-N8sqIFGjwyk.md) [https://www.youtube.com/watch?v=N8sqIFGjwyk](https://www.youtube.com/watch?v=N8sqIFGjwyk)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: Maybe doing another QA Site review in future](../../transcriptions/yt-9MMJ5KItZOU.md) [https://www.youtube.com/watch?v=9MMJ5KItZOU](https://www.youtube.com/watch?v=9MMJ5KItZOU)
 

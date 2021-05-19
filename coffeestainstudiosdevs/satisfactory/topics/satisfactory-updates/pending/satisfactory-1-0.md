@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## May 18th, 2021 Livestream
+* [Q&A: Any idea how many Tiers we'd be looking at towards the end of development?](../../../transcriptions/yt--ZE3BrvTn1g.md) [https://www.youtube.com/watch?v=-ZE3BrvTn1g](https://www.youtube.com/watch?v=-ZE3BrvTn1g)
+
 ## May 11th, 2021 Livestream
 * [State of Dev: Approach to development while in Early Access](../../../transcriptions/yt-XXzwX-dd5jo.md) [https://www.youtube.com/watch?v=XXzwX-dd5jo](https://www.youtube.com/watch?v=XXzwX-dd5jo)
 * [Q&A: Any news about Update 6?](../../../transcriptions/yt-bIyYDcFuAhA.md) [https://www.youtube.com/watch?v=bIyYDcFuAhA](https://www.youtube.com/watch?v=bIyYDcFuAhA)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Blender
 
+## May 18th, 2021 Livestream
+* [Q&A: The Blender has a graphic bug, the pod disappears, is this a known thing?](../../../transcriptions/yt-Belfb_lFLmc.md) [https://www.youtube.com/watch?v=Belfb_lFLmc](https://www.youtube.com/watch?v=Belfb_lFLmc)
+
 ## May 4th, 2021 Livestream
 * [Q&A: What do you use to make models?](../../../transcriptions/yt-pZFmSr5jTAk.md) [https://www.youtube.com/watch?v=pZFmSr5jTAk](https://www.youtube.com/watch?v=pZFmSr5jTAk)
 

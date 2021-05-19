@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## May 18th, 2021 Livestream
+* [Q&A: Will Dedicated Servers be native Linux?](../../../transcriptions/yt-oaRqXpLhZ4k.md) [https://www.youtube.com/watch?v=oaRqXpLhZ4k](https://www.youtube.com/watch?v=oaRqXpLhZ4k)
+
 ## May 11th, 2021 Livestream
 * [State of Dev: Dedicated Servers](../../../transcriptions/yt-IkZ23OHL5OE.md) [https://www.youtube.com/watch?v=IkZ23OHL5OE](https://www.youtube.com/watch?v=IkZ23OHL5OE)
 * [Q&A: Update on Dedicated Servers please?](../../../transcriptions/yt-98O8FhNdxAI.md) [https://www.youtube.com/watch?v=98O8FhNdxAI](https://www.youtube.com/watch?v=98O8FhNdxAI)

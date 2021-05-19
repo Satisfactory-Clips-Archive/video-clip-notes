@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## May 18th, 2021 Livestream
+* [Q&A: Are you thinking of adding some type of Signs or screens?](../../../transcriptions/yt-N8sqIFGjwyk.md) [https://www.youtube.com/watch?v=N8sqIFGjwyk](https://www.youtube.com/watch?v=N8sqIFGjwyk)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: We've already confirmed we're going to have signs at some point](../../../transcriptions/yt-A0NUl5hWhrw.md) [https://www.youtube.com/watch?v=A0NUl5hWhrw](https://www.youtube.com/watch?v=A0NUl5hWhrw)
 

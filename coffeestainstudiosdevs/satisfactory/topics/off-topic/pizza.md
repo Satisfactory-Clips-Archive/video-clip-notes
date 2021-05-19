@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Pizza
 
+## May 18th, 2021 Livestream
+* [Snutt & Jace Talk: Update 5 Patch Notes video](../../transcriptions/yt-9PFxkX8nrx0.md) [https://www.youtube.com/watch?v=9PFxkX8nrx0](https://www.youtube.com/watch?v=9PFxkX8nrx0)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Is it burger time?](../../transcriptions/yt-FU1oVPY_HJg.md) [https://www.youtube.com/watch?v=FU1oVPY_HJg](https://www.youtube.com/watch?v=FU1oVPY_HJg)
 

@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will there be more Seasonal Events?
 https://www.youtube.com/watch?v=TNrm3qsWdxQ
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Any plans for holiday-themed events?](./yt-_kNClYfQnCE.md) [https://www.youtube.com/watch?v=_kNClYfQnCE](https://www.youtube.com/watch?v=_kNClYfQnCE)
+This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: In-game events in the near-time?](./yt-9BJfkfV6Ka4.md) [https://www.youtube.com/watch?v=9BJfkfV6Ka4](https://www.youtube.com/watch?v=9BJfkfV6Ka4)
 
 
 ### Topics

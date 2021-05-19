@@ -8,11 +8,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Do you guys know what is going to be the last Tier in the game?
 https://www.youtube.com/watch?v=ZOmxbDTRWmg
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
-
-* [September 22nd, 2020 Livestream Q&A: Tier 9, 10, 11, 12?](./yt-NU1DLvv4zb0.md) [https://www.youtube.com/watch?v=NU1DLvv4zb0](https://www.youtube.com/watch?v=NU1DLvv4zb0)
-</details>
+This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Any idea how many Tiers we'd be looking at towards the end of development?](./yt--ZE3BrvTn1g.md) [https://www.youtube.com/watch?v=-ZE3BrvTn1g](https://www.youtube.com/watch?v=-ZE3BrvTn1g)
 
 
 ### Topics

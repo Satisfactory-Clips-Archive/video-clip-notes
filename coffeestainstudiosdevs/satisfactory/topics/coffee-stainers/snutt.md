@@ -5,6 +5,16 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## May 18th, 2021 Livestream
+* [Q&A: Does Jace like PB&J Sandwiches?](../../transcriptions/yt-98TBLUBhlhI.md) [https://www.youtube.com/watch?v=98TBLUBhlhI](https://www.youtube.com/watch?v=98TBLUBhlhI)
+* [Q&A: Does Jace like a glass of milk though?](../../transcriptions/yt-SZQNxcD7qmk.md) [https://www.youtube.com/watch?v=SZQNxcD7qmk](https://www.youtube.com/watch?v=SZQNxcD7qmk)
+* [Q&A: Jace & Snutt statues for Update 5?](../../transcriptions/yt-IbOMZmlYbD8.md) [https://www.youtube.com/watch?v=IbOMZmlYbD8](https://www.youtube.com/watch?v=IbOMZmlYbD8)
+* [Q&A: Aside from Satisfactory, what games have you been playing?](../../transcriptions/yt-VGjqOVxF1dE.md) [https://www.youtube.com/watch?v=VGjqOVxF1dE](https://www.youtube.com/watch?v=VGjqOVxF1dE)
+* [Q&A: What's living and working in Sweden like?](../../transcriptions/yt-rkXzMln6DcA.md) [https://www.youtube.com/watch?v=rkXzMln6DcA](https://www.youtube.com/watch?v=rkXzMln6DcA)
+* [Q&A: Snutt isn't going on vacation as soon as Jace arrived?](../../transcriptions/yt-VWRvjltgkNc.md) [https://www.youtube.com/watch?v=VWRvjltgkNc](https://www.youtube.com/watch?v=VWRvjltgkNc)
+* [Q&A: How old are you guys?](../../transcriptions/yt-P56ynLYzkug.md) [https://www.youtube.com/watch?v=P56ynLYzkug](https://www.youtube.com/watch?v=P56ynLYzkug)
+* [Q&A: Do you do any coding any more?](../../transcriptions/yt-3Z-06sv9ZZM.md) [https://www.youtube.com/watch?v=3Z-06sv9ZZM](https://www.youtube.com/watch?v=3Z-06sv9ZZM)
+
 ## May 11th, 2021 Livestream
 * [Community FYI: Don't forget the Coffee Mug](../../transcriptions/yt-Is-um-kt16M.md) [https://www.youtube.com/watch?v=Is-um-kt16M](https://www.youtube.com/watch?v=Is-um-kt16M)
 * [Snutt Talk: Snutt's favourite time- moments between Updates](../../transcriptions/yt-jqUdSPQGWHc.md) [https://www.youtube.com/watch?v=jqUdSPQGWHc](https://www.youtube.com/watch?v=jqUdSPQGWHc)
@@ -37,7 +47,6 @@ date: Last Modified
 
 ## April 13th, 2021 Livestream
 * Snutt Talk: Snutt's Beard & Beanie [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=775&end=828](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=775&end=828)
-* Snutt Talk: Snutt hasn't had time for lunch [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1505&end=1559](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1505&end=1559)
 * Q&A: What're your plans for dinner? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1739&end=1808](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1739&end=1808)
 
 ## April 6th, 2021 Livestream

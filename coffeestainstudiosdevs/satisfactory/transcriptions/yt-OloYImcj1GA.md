@@ -9,6 +9,8 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How come the translations are weird when it was natively made in Swedish?
 https://www.youtube.com/watch?v=OloYImcj1GA
+This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Do you have any plans to localise the game to Swedish?](./yt-j9hx-QyK6xo.md) [https://www.youtube.com/watch?v=j9hx-QyK6xo](https://www.youtube.com/watch?v=j9hx-QyK6xo)
+
 
 ### Topics
 * [Localisation](../topics/localisation.md)

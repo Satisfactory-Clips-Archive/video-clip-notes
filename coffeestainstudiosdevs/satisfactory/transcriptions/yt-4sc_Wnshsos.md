@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Are we going to have more gases in the game?
 https://www.youtube.com/watch?v=4sc_Wnshsos
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Any more resources planned, more gases?](./yt-udwQ9Jvg8Ng.md) [https://www.youtube.com/watch?v=udwQ9Jvg8Ng](https://www.youtube.com/watch?v=udwQ9Jvg8Ng)
+This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Will you add more gases?](./yt-oDflyVR8aeY.md) [https://www.youtube.com/watch?v=oDflyVR8aeY](https://www.youtube.com/watch?v=oDflyVR8aeY)
 
 
 ### Topics

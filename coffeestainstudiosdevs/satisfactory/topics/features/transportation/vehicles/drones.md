@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## May 18th, 2021 Livestream
+* [Q&A: What are the biggest difficulties when implementing a new feature?](../../../../transcriptions/yt-uQWR7_55EEI.md) [https://www.youtube.com/watch?v=uQWR7_55EEI](https://www.youtube.com/watch?v=uQWR7_55EEI)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Ride Drones?](../../../../transcriptions/yt-0tHe5NBul6M.md) [https://www.youtube.com/watch?v=0tHe5NBul6M](https://www.youtube.com/watch?v=0tHe5NBul6M)
 

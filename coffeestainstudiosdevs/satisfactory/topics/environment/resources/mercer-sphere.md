@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
+## May 18th, 2021 Livestream
+* [Q&A: What does Mercer Sphere do, and how much does it weigh?](../../../transcriptions/yt-jBOgtsE6VYQ.md) [https://www.youtube.com/watch?v=jBOgtsE6VYQ](https://www.youtube.com/watch?v=jBOgtsE6VYQ)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Are Mercer Spheres going to be useful before 1.0?](../../../transcriptions/yt-8oYXZQdnv4w.md) [https://www.youtube.com/watch?v=8oYXZQdnv4w](https://www.youtube.com/watch?v=8oYXZQdnv4w)
 

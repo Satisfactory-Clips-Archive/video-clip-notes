@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## May 18th, 2021 Livestream
+* [Q&A: Mk.2 Pipes are fixed?](../../../transcriptions/yt-qbY-LRh-Tus.md) [https://www.youtube.com/watch?v=qbY-LRh-Tus](https://www.youtube.com/watch?v=qbY-LRh-Tus)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Any news about Update 6?](../../../transcriptions/yt-bIyYDcFuAhA.md) [https://www.youtube.com/watch?v=bIyYDcFuAhA](https://www.youtube.com/watch?v=bIyYDcFuAhA)
 

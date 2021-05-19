@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## May 18th, 2021 Livestream
+* [Q&A: Satisfactory belts in Valheim?](../../transcriptions/yt-0C8W5uEdJJk.md) [https://www.youtube.com/watch?v=0C8W5uEdJJk](https://www.youtube.com/watch?v=0C8W5uEdJJk)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Do you like Valheim?](../../transcriptions/yt-C_UznCZxD8M.md) [https://www.youtube.com/watch?v=C_UznCZxD8M](https://www.youtube.com/watch?v=C_UznCZxD8M)
 * [Q&A: When you die in Satisfactory, does the soul go to Valheim?](../../transcriptions/yt-bih1gdyxNMA.md) [https://www.youtube.com/watch?v=bih1gdyxNMA](https://www.youtube.com/watch?v=bih1gdyxNMA)

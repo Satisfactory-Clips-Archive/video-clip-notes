@@ -15,7 +15,7 @@ This question was possibly replaced with a more recent answer: [February 19th, 2
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* [August 25th, 2020 Livestream Q&A: When will you ad UI for the Steam Geyser Power Plant?](./yt-xFZfkjY3J0c.md) [https://www.youtube.com/watch?v=xFZfkjY3J0c](https://www.youtube.com/watch?v=xFZfkjY3J0c)
+* [August 25th, 2020 Livestream Q&A: When will you add UI for the Steam Geyser Power Plant?](./yt-xFZfkjY3J0c.md) [https://www.youtube.com/watch?v=xFZfkjY3J0c](https://www.youtube.com/watch?v=xFZfkjY3J0c)
 </details>
 
 

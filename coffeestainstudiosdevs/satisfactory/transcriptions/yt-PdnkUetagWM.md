@@ -10,6 +10,8 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: How many Tiers does the team envision having in the game?
 https://www.youtube.com/watch?v=PdnkUetagWM
+This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Any idea how many Tiers we'd be looking at towards the end of development?](./yt--ZE3BrvTn1g.md) [https://www.youtube.com/watch?v=-ZE3BrvTn1g](https://www.youtube.com/watch?v=-ZE3BrvTn1g)
+
 
 ### Topics
 * [Features > Tiers](../topics/features/tiers.md)

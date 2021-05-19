@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Pre-Alpha
 
+## May 18th, 2021 Livestream
+* [Q&A: In-game events in the near-time?](../../transcriptions/yt-9BJfkfV6Ka4.md) [https://www.youtube.com/watch?v=9BJfkfV6Ka4](https://www.youtube.com/watch?v=9BJfkfV6Ka4)
+
 ## January 19th, 2021 Livestream
 * [Q&A: Some buildings used to auto-select recipes?](../../transcriptions/yt-iCOiamAc_ak.md) [https://www.youtube.com/watch?v=iCOiamAc_ak](https://www.youtube.com/watch?v=iCOiamAc_ak)
 

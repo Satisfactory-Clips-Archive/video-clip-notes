@@ -12,6 +12,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## May 18th, 2021 Livestream
+* Q&A: Quantum Computers & Superposition Oscillators; Update 5 content or separate release? [https://www.youtube.com/watch?v=gIahtVFvL68](https://www.youtube.com/watch?v=gIahtVFvL68)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Any more resources planned, more gases?](../../transcriptions/yt-udwQ9Jvg8Ng.md) [https://www.youtube.com/watch?v=udwQ9Jvg8Ng](https://www.youtube.com/watch?v=udwQ9Jvg8Ng)
 

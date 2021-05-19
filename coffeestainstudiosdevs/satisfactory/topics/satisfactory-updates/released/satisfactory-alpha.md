@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Alpha
 * [Alpha Weekend](../../../topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
 
+## May 18th, 2021 Livestream
+* [Q&A: Are you guys going to make a Q&A Site where I can ask inane questions like this one?](../../../transcriptions/yt-yy02KLk5tGE.md) [https://www.youtube.com/watch?v=yy02KLk5tGE](https://www.youtube.com/watch?v=yy02KLk5tGE)
+
 ## November 24th, 2020 Livestream
 * [Q&A: Simon is dead, did he run out of Alpha Keys?](../../../transcriptions/yt-dj20zgoTvA0.md) [https://www.youtube.com/watch?v=dj20zgoTvA0](https://www.youtube.com/watch?v=dj20zgoTvA0)
 

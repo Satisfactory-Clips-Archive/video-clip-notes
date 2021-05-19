@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## May 18th, 2021 Livestream
+* [Q&A: Is there a technical reason you only made Mk.5 belts and not higher?](../../../transcriptions/yt-SiU_cgb0XhI.md) [https://www.youtube.com/watch?v=SiU_cgb0XhI](https://www.youtube.com/watch?v=SiU_cgb0XhI)
+* [Q&A: How do Mods handle Miners with multiple outputs?](../../../transcriptions/yt-JvmCTyv0uNo.md) [https://www.youtube.com/watch?v=JvmCTyv0uNo](https://www.youtube.com/watch?v=JvmCTyv0uNo)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Mk.6 Conveyor Belts?](../../../transcriptions/yt-9KayDn0JaEY.md) [https://www.youtube.com/watch?v=9KayDn0JaEY](https://www.youtube.com/watch?v=9KayDn0JaEY)
 

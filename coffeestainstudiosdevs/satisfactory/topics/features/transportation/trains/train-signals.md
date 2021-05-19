@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## May 18th, 2021 Livestream
+* [Q&A: Train Collisions, soon / far away?](../../../../transcriptions/yt-1JyWZYpxLsk.md) [https://www.youtube.com/watch?v=1JyWZYpxLsk](https://www.youtube.com/watch?v=1JyWZYpxLsk)
+* [Q&A: Are you considering a Train rework?](../../../../transcriptions/yt-68MP936ZdfQ.md) [https://www.youtube.com/watch?v=68MP936ZdfQ](https://www.youtube.com/watch?v=68MP936ZdfQ)
+* [Q&A: What's so hard with implementing Train hit box?](../../../../transcriptions/yt-lD9c8z6BYJI.md) [https://www.youtube.com/watch?v=lD9c8z6BYJI](https://www.youtube.com/watch?v=lD9c8z6BYJI)
+* [Q&A: Please, no Train hit box?](../../../../transcriptions/yt-8ICP2Wp2YNc.md) [https://www.youtube.com/watch?v=8ICP2Wp2YNc](https://www.youtube.com/watch?v=8ICP2Wp2YNc)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Train physics, Train Signals?](../../../../transcriptions/yt-YknqPfS5iLk.md) [https://www.youtube.com/watch?v=YknqPfS5iLk](https://www.youtube.com/watch?v=YknqPfS5iLk)
 

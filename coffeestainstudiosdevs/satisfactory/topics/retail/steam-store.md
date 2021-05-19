@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## May 18th, 2021 Livestream
+* [Q&A: The Blender has a graphic bug, the pod disappears, is this a known thing?](../../transcriptions/yt-Belfb_lFLmc.md) [https://www.youtube.com/watch?v=Belfb_lFLmc](https://www.youtube.com/watch?v=Belfb_lFLmc)
+
 ## May 11th, 2021 Livestream
 * [Community FYI: Epic doesn't have Linux support at all](../../transcriptions/yt-bmg87ZvXsjM.md) [https://www.youtube.com/watch?v=bmg87ZvXsjM](https://www.youtube.com/watch?v=bmg87ZvXsjM)
 

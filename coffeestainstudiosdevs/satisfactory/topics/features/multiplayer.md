@@ -5,6 +5,12 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## May 18th, 2021 Livestream
+* [State of Dev: Issues with Update 4](../../transcriptions/yt-xDmB6Zyrr1U.md) [https://www.youtube.com/watch?v=xDmB6Zyrr1U](https://www.youtube.com/watch?v=xDmB6Zyrr1U)
+* [Community FYI: Seems like Multiplayer bugs are getting better](../../transcriptions/yt-FeRI1cktA8Q.md) [https://www.youtube.com/watch?v=FeRI1cktA8Q](https://www.youtube.com/watch?v=FeRI1cktA8Q)
+* [Q&A: What's so hard with implementing Train hit box?](../../transcriptions/yt-lD9c8z6BYJI.md) [https://www.youtube.com/watch?v=lD9c8z6BYJI](https://www.youtube.com/watch?v=lD9c8z6BYJI)
+* [Q&A: Multiplayer sync bug fix when?](../../transcriptions/yt-goZSVbncdJI.md) [https://www.youtube.com/watch?v=goZSVbncdJI](https://www.youtube.com/watch?v=goZSVbncdJI)
+
 ## May 11th, 2021 Livestream
 * [State of Dev: Dedicated Servers](../../transcriptions/yt-IkZ23OHL5OE.md) [https://www.youtube.com/watch?v=IkZ23OHL5OE](https://www.youtube.com/watch?v=IkZ23OHL5OE)
 * [Q&A: When's the next EA Update?](../../transcriptions/yt-oRZCBpRdFqE.md) [https://www.youtube.com/watch?v=oRZCBpRdFqE](https://www.youtube.com/watch?v=oRZCBpRdFqE)
