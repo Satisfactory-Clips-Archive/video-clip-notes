@@ -24,7 +24,7 @@ date: Last Modified
 * Update #2: Trains & Nuclear (July 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=345&end=360](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=345&end=360)
 
 ## July 2nd, 2019 Patch Notes
-* Pizza [https://www.youtube.com/watch?v=yt-mtVwiCQ5sZI%2C344.7610833333333](https://www.youtube.com/watch?v=yt-mtVwiCQ5sZI%2C344.7610833333333)
+* Pizza [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=344](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=344)
 
 ## March 9th, 2019 Livestream
 * [Q&A: Pizza with seafood?](../../transcriptions/yt-cWHt7D471vI.md) [https://www.youtube.com/watch?v=cWHt7D471vI](https://www.youtube.com/watch?v=cWHt7D471vI)

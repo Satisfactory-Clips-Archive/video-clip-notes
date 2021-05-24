@@ -358,7 +358,7 @@ date: Last Modified
 * [Jace's opinion re: THQ Nordic](../../transcriptions/yt-1UqIDp_byFc,174.32,248.62.md) [https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=174&end=249](https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=174&end=249)
 
 ## July 19th, 2018 Dev Blog
-* End Tag [https://www.youtube.com/watch?v=yt-IxoCzb2M0vQ%2C562.24](https://www.youtube.com/watch?v=yt-IxoCzb2M0vQ%2C562.24)
+* End Tag [https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=562](https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=562)
 
 ## March 9th, 2018 Q&A
 * [Q&A: Coffee or tea?](../../transcriptions/yt-Zo2ybvs7keI,492.44,502.32.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503)
