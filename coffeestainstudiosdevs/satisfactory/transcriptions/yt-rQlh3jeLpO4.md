@@ -3,6 +3,7 @@ title: "May 25th, 2021 Livestream Q&A: Engine Update will make the game run bett
 date: "2021-05-25"
 layout: transcript
 topics:
+    - "technology/directx"
     - "technology/graphics"
     - "technology/unreal-engine"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=rQlh3jeLpO4
 
 ### Topics
+* [Technology > DirectX](../topics/technology/directx.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 

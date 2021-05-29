@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > DirectX
 
+## May 25th, 2021 Livestream
+* [Q&A: Engine Update will make the game run better?](../../transcriptions/yt-rQlh3jeLpO4.md) [https://www.youtube.com/watch?v=rQlh3jeLpO4](https://www.youtube.com/watch?v=rQlh3jeLpO4)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Is DirectX 12 fully supported now?](../../transcriptions/yt-zJ3RVfHpogY.md) [https://www.youtube.com/watch?v=zJ3RVfHpogY](https://www.youtube.com/watch?v=zJ3RVfHpogY)
 * [Snutt Talk: Ray Tracing & DLSS](../../transcriptions/yt-S7e0g_0B8GM.md) [https://www.youtube.com/watch?v=S7e0g_0B8GM](https://www.youtube.com/watch?v=S7e0g_0B8GM)
