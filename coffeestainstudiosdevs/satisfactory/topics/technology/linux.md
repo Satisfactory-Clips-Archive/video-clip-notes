@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## May 25th, 2021 Livestream
+* [Snutt Talk: Dedicated Servers](../../transcriptions/yt-0QmD2JZs7-g.md) [https://www.youtube.com/watch?v=0QmD2JZs7-g](https://www.youtube.com/watch?v=0QmD2JZs7-g)
+* [Q&A: Any plans for Mac or Linux?](../../transcriptions/yt-nhwUgABKGmE.md) [https://www.youtube.com/watch?v=nhwUgABKGmE](https://www.youtube.com/watch?v=nhwUgABKGmE)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Will Dedicated Servers be native Linux?](../../transcriptions/yt-oaRqXpLhZ4k.md) [https://www.youtube.com/watch?v=oaRqXpLhZ4k](https://www.youtube.com/watch?v=oaRqXpLhZ4k)
 

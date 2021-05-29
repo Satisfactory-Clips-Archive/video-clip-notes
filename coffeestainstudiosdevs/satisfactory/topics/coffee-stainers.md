@@ -33,6 +33,18 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## May 25th, 2021 Livestream
+* [State of Dev: Update 5](../transcriptions/yt-rz0oD16hpGw.md) [https://www.youtube.com/watch?v=rz0oD16hpGw](https://www.youtube.com/watch?v=rz0oD16hpGw)
+* [Snutt Talk: Dedicated Servers](../transcriptions/yt-0QmD2JZs7-g.md) [https://www.youtube.com/watch?v=0QmD2JZs7-g](https://www.youtube.com/watch?v=0QmD2JZs7-g)
+* [Community FYI: Thank you for being a dev team that cares about their player base](../transcriptions/yt-QiewjNjiDEE.md) [https://www.youtube.com/watch?v=QiewjNjiDEE](https://www.youtube.com/watch?v=QiewjNjiDEE)
+* [Q&A: What's the memeiest and stupidest thing you've seen a dev add in?](../transcriptions/yt-qYRsGrGlVqg.md) [https://www.youtube.com/watch?v=qYRsGrGlVqg](https://www.youtube.com/watch?v=qYRsGrGlVqg)
+* [Q&A: Are you considering disconnecting the Factory tick from FPS? (Part 1)](../transcriptions/yt-YMtTIS1de9A.md) [https://www.youtube.com/watch?v=YMtTIS1de9A](https://www.youtube.com/watch?v=YMtTIS1de9A)
+* [Snutt & Jace Talk: x is typing](../transcriptions/yt-nkwo0AOM33E.md) [https://www.youtube.com/watch?v=nkwo0AOM33E](https://www.youtube.com/watch?v=nkwo0AOM33E)
+* [Q&A: Are there any plans to fix Satisfactory soft-locking when loading large save files?](../transcriptions/yt-filXdYLQ12s.md) [https://www.youtube.com/watch?v=filXdYLQ12s](https://www.youtube.com/watch?v=filXdYLQ12s)
+* [Q&A: Is Simon going to delay the next Update?](../transcriptions/yt-hanQne_890c.md) [https://www.youtube.com/watch?v=hanQne_890c](https://www.youtube.com/watch?v=hanQne_890c)
+* [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 2)](../transcriptions/yt-N3p6MeSNbak.md) [https://www.youtube.com/watch?v=N3p6MeSNbak](https://www.youtube.com/watch?v=N3p6MeSNbak)
+* [Q&A: Are you planning on making another game?](../transcriptions/yt-EZSKGQNuklk.md) [https://www.youtube.com/watch?v=EZSKGQNuklk](https://www.youtube.com/watch?v=EZSKGQNuklk)
+
 ## May 18th, 2021 Livestream
 * [State of Dev: Update 5](../transcriptions/yt-2kaP1jPZOL4.md) [https://www.youtube.com/watch?v=2kaP1jPZOL4](https://www.youtube.com/watch?v=2kaP1jPZOL4)
 * [Q&A: Do you review bugs weekly, or as they're reported?](../transcriptions/yt-thvzHJofHfw.md) [https://www.youtube.com/watch?v=thvzHJofHfw](https://www.youtube.com/watch?v=thvzHJofHfw)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Rifle
 
+## May 25th, 2021 Livestream
+* [Q&A: Will the Rebar shotgun come back?](../../../transcriptions/yt-p7aALqL6xlo.md) [https://www.youtube.com/watch?v=p7aALqL6xlo](https://www.youtube.com/watch?v=p7aALqL6xlo)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Are you going to buff the Rifle damage?](../../../transcriptions/yt-LRXvhb0zjFs.md) [https://www.youtube.com/watch?v=LRXvhb0zjFs](https://www.youtube.com/watch?v=LRXvhb0zjFs)
 * [Q&A: Depleted Uranium ammo?](../../../transcriptions/yt-lNsmanCf4jk.md) [https://www.youtube.com/watch?v=lNsmanCf4jk](https://www.youtube.com/watch?v=lNsmanCf4jk)

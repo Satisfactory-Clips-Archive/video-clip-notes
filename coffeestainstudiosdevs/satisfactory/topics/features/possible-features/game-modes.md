@@ -7,6 +7,10 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## May 25th, 2021 Livestream
+* [Q&A: Have you tossed around the idea of Survival?](../../../transcriptions/yt-lT59LnhiKdI.md) [https://www.youtube.com/watch?v=lT59LnhiKdI](https://www.youtube.com/watch?v=lT59LnhiKdI)
+* [Q&A: Can you talk about plans for replayability?](../../../transcriptions/yt-VvnI641_TLs.md) [https://www.youtube.com/watch?v=VvnI641_TLs](https://www.youtube.com/watch?v=VvnI641_TLs)
+
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Feedback from hardcore players vs. casual players](../../../transcriptions/yt-7I4_CIh-ajM.md) [https://www.youtube.com/watch?v=7I4_CIh-ajM](https://www.youtube.com/watch?v=7I4_CIh-ajM)
 

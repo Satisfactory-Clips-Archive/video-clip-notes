@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+## May 25th, 2021 Livestream
+* [Q&A: Any plans for Mac or Linux?](../../../transcriptions/yt-nhwUgABKGmE.md) [https://www.youtube.com/watch?v=nhwUgABKGmE](https://www.youtube.com/watch?v=nhwUgABKGmE)
+* [Q&A: Can we expect a console release in 2022?](../../../transcriptions/yt-u1rxQ_Hwo-U.md) [https://www.youtube.com/watch?v=u1rxQ_Hwo-U](https://www.youtube.com/watch?v=u1rxQ_Hwo-U)
+* [Q&A: Date for KFC Console release?](../../../transcriptions/yt-t_i7vgMUGKA.md) [https://www.youtube.com/watch?v=t_i7vgMUGKA](https://www.youtube.com/watch?v=t_i7vgMUGKA)
+
 ## May 11th, 2021 Livestream
 * [Q&A: When the full game's out, will you consider releasing for Console?](../../../transcriptions/yt-CmSDjJQUmIM.md) [https://www.youtube.com/watch?v=CmSDjJQUmIM](https://www.youtube.com/watch?v=CmSDjJQUmIM)
 * [Q&A: What about toaster support?](../../../transcriptions/yt-K-9W322q7fs.md) [https://www.youtube.com/watch?v=K-9W322q7fs](https://www.youtube.com/watch?v=K-9W322q7fs)

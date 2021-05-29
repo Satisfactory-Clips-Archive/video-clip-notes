@@ -11,6 +11,12 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## May 25th, 2021 Livestream
+* [Q&A: What do you think about tougher aliens blocking late-game resources?](../../../transcriptions/yt--x5Y_5tR43A.md) [https://www.youtube.com/watch?v=-x5Y_5tR43A](https://www.youtube.com/watch?v=-x5Y_5tR43A)
+* [Q&A: What was your favourite item to work on as programmers?](../../../transcriptions/yt-1xZFoA2XyS8.md) [https://www.youtube.com/watch?v=1xZFoA2XyS8](https://www.youtube.com/watch?v=1xZFoA2XyS8)
+* Q&A: Adding boats, ports, or mass shipping around the coast? [https://www.youtube.com/watch?v=O_Ti41Q-JyE](https://www.youtube.com/watch?v=O_Ti41Q-JyE)
+* [Q&A: Any ships or submarines?](../../../transcriptions/yt-18BH9HDRl9A.md) [https://www.youtube.com/watch?v=18BH9HDRl9A](https://www.youtube.com/watch?v=18BH9HDRl9A)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Will there ever be two players per car?](../../../transcriptions/yt-MGcq63fWfYY.md) [https://www.youtube.com/watch?v=MGcq63fWfYY](https://www.youtube.com/watch?v=MGcq63fWfYY)
 * [Q&A: In an un-powered vehicle, why do brakes only work when you're not in it?](../../../transcriptions/yt-MScX3iWREj4.md) [https://www.youtube.com/watch?v=MScX3iWREj4](https://www.youtube.com/watch?v=MScX3iWREj4)

@@ -3,6 +3,7 @@ title: "January 19th, 2021 Livestream Q&A: Ever add DLSS at some point?"
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "technology/directx"
     - "technology/graphics/dlss"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -12,6 +13,7 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 
 ### Topics
+* [Technology > DirectX](../topics/technology/directx.md)
 * [Technology > Graphics > DLSS](../topics/technology/graphics/dlss.md)
 
 ### Transcript

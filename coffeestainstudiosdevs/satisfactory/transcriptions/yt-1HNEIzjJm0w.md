@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
+    - "community/signpostmarv"
     - "satisfactory-updates/pending/world-update"
     - "satisfactory-updates/teasers-trailers"
 ---
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=1HNEIzjJm0w
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Community > SignpostMarv](../topics/community/signpostmarv.md)
 * [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 

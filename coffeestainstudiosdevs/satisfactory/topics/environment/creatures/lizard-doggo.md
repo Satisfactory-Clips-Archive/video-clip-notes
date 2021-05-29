@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## May 28th, 2021 Livestream
+* [Q&A: Can you give a quick explanation of how the system for Lights works right now?](../../../transcriptions/yt-dyqOMITwLsY,199.03216666666665,448.69825.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449)
+
+## May 25th, 2021 Livestream
+* [Q&A: When can we get a Goat in Satisfactory?](../../../transcriptions/yt-KlD55eNxra0.md) [https://www.youtube.com/watch?v=KlD55eNxra0](https://www.youtube.com/watch?v=KlD55eNxra0)
+* [Q&A: How many Doggos are there in the world?](../../../transcriptions/yt-PtsEfgW-R7o.md) [https://www.youtube.com/watch?v=PtsEfgW-R7o](https://www.youtube.com/watch?v=PtsEfgW-R7o)
+* [Q&A: What will be the price of Doggo Burgers in the Food Court?](../../../transcriptions/yt-ebebOS0cCA4.md) [https://www.youtube.com/watch?v=ebebOS0cCA4](https://www.youtube.com/watch?v=ebebOS0cCA4)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Pick up Lizard Doggo as a feature?](../../../transcriptions/yt-laV5SyI3MXg.md) [https://www.youtube.com/watch?v=laV5SyI3MXg](https://www.youtube.com/watch?v=laV5SyI3MXg)
 * [Q&A: Can we breed the Doggos?](../../../transcriptions/yt-NwCEYPgIhNs.md) [https://www.youtube.com/watch?v=NwCEYPgIhNs](https://www.youtube.com/watch?v=NwCEYPgIhNs)

@@ -16,6 +16,9 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## May 25th, 2021 Livestream
+* [Q&A: How many Updates before Release?](../transcriptions/yt-dHKlfnU7pm8.md) [https://www.youtube.com/watch?v=dHKlfnU7pm8](https://www.youtube.com/watch?v=dHKlfnU7pm8)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Mk.2 Pipes are fixed?](../transcriptions/yt-qbY-LRh-Tus.md) [https://www.youtube.com/watch?v=qbY-LRh-Tus](https://www.youtube.com/watch?v=qbY-LRh-Tus)
 * [Snutt & Jace Talk: Asking questions about plans](../transcriptions/yt-VdTgcFtcMyA.md) [https://www.youtube.com/watch?v=VdTgcFtcMyA](https://www.youtube.com/watch?v=VdTgcFtcMyA)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## May 25th, 2021 Livestream
+* [Q&A: When can we get a Goat in Satisfactory?](../../transcriptions/yt-KlD55eNxra0.md) [https://www.youtube.com/watch?v=KlD55eNxra0](https://www.youtube.com/watch?v=KlD55eNxra0)
+
 ## February 16th, 2021 Livestream
 * [Q&A: Did Coffee Stain Studios develop Satisfactory?](../../transcriptions/yt-IPtH5E1-31k.md) [https://www.youtube.com/watch?v=IPtH5E1-31k](https://www.youtube.com/watch?v=IPtH5E1-31k)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Deep Rock Galactic
 
+## May 25th, 2021 Livestream
+* [Community FYI: I see you guys are getting absolutely destroyed on twitter by Deep Rock Galactic](../../transcriptions/yt-_Cuk9s2qD9c.md) [https://www.youtube.com/watch?v=_Cuk9s2qD9c](https://www.youtube.com/watch?v=_Cuk9s2qD9c)
+
 ## February 16th, 2021 Livestream
 * [Q&A: When will we see a Satisfactory / Deep Rock Galactic Crossover?](../../transcriptions/yt-P8FVNZqDjf8.md) [https://www.youtube.com/watch?v=P8FVNZqDjf8](https://www.youtube.com/watch?v=P8FVNZqDjf8)
 * [Q&A: Did Coffee Stain Studios develop Satisfactory?](../../transcriptions/yt-IPtH5E1-31k.md) [https://www.youtube.com/watch?v=IPtH5E1-31k](https://www.youtube.com/watch?v=IPtH5E1-31k)

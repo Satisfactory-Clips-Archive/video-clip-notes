@@ -3,13 +3,14 @@ title: "February 9th, 2021 Livestream Q&A: Do you have any plans to add Ray Trac
 date: "2021-02-09"
 layout: transcript
 topics:
+    - "technology/directx"
     - "technology/graphics/dlss"
     - "technology/graphics/ray-tracing"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Do you have any plans to add Ray Tracing or DLSS?
 https://www.youtube.com/watch?v=hRzZjCBoI8s
-This question was possibly replaced with a more recent answer: [April 6th, 2021 Livestream Q&A: DLSS?](./yt-1F9I7x50fnU.md) [https://www.youtube.com/watch?v=1F9I7x50fnU](https://www.youtube.com/watch?v=1F9I7x50fnU)
+This question was possibly replaced with a more recent answer: [May 25th, 2021 Livestream Q&A: Are you planning ray-tracing or DLSS in the future?](./yt-b9mNEeXtILM.md) [https://www.youtube.com/watch?v=b9mNEeXtILM](https://www.youtube.com/watch?v=b9mNEeXtILM)
 
 <details>
 <summary>This question may have been asked previously at least 11 other times, as recently as January 2021 and as early as September 2020.</summary>
@@ -29,6 +30,7 @@ This question was possibly replaced with a more recent answer: [April 6th, 2021 
 
 
 ### Topics
+* [Technology > DirectX](../topics/technology/directx.md)
 * [Technology > Graphics > DLSS](../topics/technology/graphics/dlss.md)
 * [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 

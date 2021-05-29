@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## May 28th, 2021 Livestream
+* [Q&A: Can you give a quick explanation of how the system for Lights works right now?](../../../transcriptions/yt-dyqOMITwLsY,199.03216666666665,448.69825.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449)
+
+## May 25th, 2021 Livestream
+* [Q&A: Hot tub stream, when?](../../../transcriptions/yt-vMoZj9MyvE8.md) [https://www.youtube.com/watch?v=vMoZj9MyvE8](https://www.youtube.com/watch?v=vMoZj9MyvE8)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Jace & Snutt statues for Update 5?](../../../transcriptions/yt-IbOMZmlYbD8.md) [https://www.youtube.com/watch?v=IbOMZmlYbD8](https://www.youtube.com/watch?v=IbOMZmlYbD8)
 * [Q&A: Are you allowed to say if there are plans for base building stuff like furniture?](../../../transcriptions/yt-zQU4_LMkM0w.md) [https://www.youtube.com/watch?v=zQU4_LMkM0w](https://www.youtube.com/watch?v=zQU4_LMkM0w)

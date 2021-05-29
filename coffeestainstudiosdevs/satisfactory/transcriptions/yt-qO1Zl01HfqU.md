@@ -9,7 +9,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Farming would be cool?
 https://www.youtube.com/watch?v=qO1Zl01HfqU
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Grow things?](./yt-drp-Fjdq8Q0.md) [https://www.youtube.com/watch?v=drp-Fjdq8Q0](https://www.youtube.com/watch?v=drp-Fjdq8Q0)
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Any talk of adding Farming?](./yt-bGXZgS3dKc8.md) [https://www.youtube.com/watch?v=bGXZgS3dKc8](https://www.youtube.com/watch?v=bGXZgS3dKc8)
 
 
 ### Topics

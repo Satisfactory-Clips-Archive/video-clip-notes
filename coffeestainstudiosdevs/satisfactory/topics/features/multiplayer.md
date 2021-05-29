@@ -5,6 +5,13 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## May 25th, 2021 Livestream
+* [Q&A: When do you think the focus will be on fixing Multiplayer?](../../transcriptions/yt-3alTbxWgPnc.md) [https://www.youtube.com/watch?v=3alTbxWgPnc](https://www.youtube.com/watch?v=3alTbxWgPnc)
+* [Q&A: Can we get a world co-owned by two people?](../../transcriptions/yt-Z5z7k_CnoUs.md) [https://www.youtube.com/watch?v=Z5z7k_CnoUs](https://www.youtube.com/watch?v=Z5z7k_CnoUs)
+* [Q&A: What was your favourite item to work on as programmers?](../../transcriptions/yt-1xZFoA2XyS8.md) [https://www.youtube.com/watch?v=1xZFoA2XyS8](https://www.youtube.com/watch?v=1xZFoA2XyS8)
+* [Q&A: Can we get an open Multiplayer "join" option?](../../transcriptions/yt-M8fKrDV7i1k.md) [https://www.youtube.com/watch?v=M8fKrDV7i1k](https://www.youtube.com/watch?v=M8fKrDV7i1k)
+* [Q&A: Biggest implementation regret for this game- Multiplayer?](../../transcriptions/yt-WSrssWxCklk.md) [https://www.youtube.com/watch?v=WSrssWxCklk](https://www.youtube.com/watch?v=WSrssWxCklk)
+
 ## May 18th, 2021 Livestream
 * [State of Dev: Issues with Update 4](../../transcriptions/yt-xDmB6Zyrr1U.md) [https://www.youtube.com/watch?v=xDmB6Zyrr1U](https://www.youtube.com/watch?v=xDmB6Zyrr1U)
 * [Community FYI: Seems like Multiplayer bugs are getting better](../../transcriptions/yt-FeRI1cktA8Q.md) [https://www.youtube.com/watch?v=FeRI1cktA8Q](https://www.youtube.com/watch?v=FeRI1cktA8Q)
@@ -98,8 +105,8 @@ date: Last Modified
 * [Q&A: Please give us tips to decrease/avoid Multiplayer delays?](../../transcriptions/yt-NGyFncgCUyo.md) [https://www.youtube.com/watch?v=NGyFncgCUyo](https://www.youtube.com/watch?v=NGyFncgCUyo)
 
 ## December 8th, 2020 Livestream
-* [Jace Talk: Multiplayer experience vs. Dedicated Server](../../transcriptions/yt-QcD9eKlgte0.md) [https://www.youtube.com/watch?v=QcD9eKlgte0](https://www.youtube.com/watch?v=QcD9eKlgte0)
 * [Q&A: Is Multiplayer desync fixed in Update 4?](../../transcriptions/yt-OjiLxOBdkU8.md) [https://www.youtube.com/watch?v=OjiLxOBdkU8](https://www.youtube.com/watch?v=OjiLxOBdkU8)
+* [Jace Talk: Multiplayer experience vs. Dedicated Server](../../transcriptions/yt-QcD9eKlgte0.md) [https://www.youtube.com/watch?v=QcD9eKlgte0](https://www.youtube.com/watch?v=QcD9eKlgte0)
 
 ## November 27th, 2020 Video
 * [Jace Talk: Packet Reordering](../../transcriptions/yt-0kmDHBWf640,217.75086666666667,269.13553333333334.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=217&end=270](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=217&end=270)

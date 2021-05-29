@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Localisation
 
+## May 25th, 2021 Livestream
+* [Q&A: There is Pirate Language?](../transcriptions/yt-IiD0uWYDg8w.md) [https://www.youtube.com/watch?v=IiD0uWYDg8w](https://www.youtube.com/watch?v=IiD0uWYDg8w)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Do you have any plans to localise the game to Swedish?](../transcriptions/yt-j9hx-QyK6xo.md) [https://www.youtube.com/watch?v=j9hx-QyK6xo](https://www.youtube.com/watch?v=j9hx-QyK6xo)
 

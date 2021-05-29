@@ -3,7 +3,7 @@ title: "February 23rd, 2021 Livestream Q&A: Is DirectX 12 fully supported now?"
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "technology/directx"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Is DirectX 12 fully supported now?
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=zJ3RVfHpogY
 
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > DirectX](../topics/technology/directx.md)
 
 ### Transcript
 

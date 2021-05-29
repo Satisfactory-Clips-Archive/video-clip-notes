@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Elements of Survival ?
 https://www.youtube.com/watch?v=B3bO7b-5jHA
-This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Will you guys eventually add survival elements like hunger & thirst?](./yt-5QJJqDM03Ww.md) [https://www.youtube.com/watch?v=5QJJqDM03Ww](https://www.youtube.com/watch?v=5QJJqDM03Ww)
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Have you tossed around the idea of Survival?](./yt-lT59LnhiKdI.md) [https://www.youtube.com/watch?v=lT59LnhiKdI](https://www.youtube.com/watch?v=lT59LnhiKdI)
 
 
 ### Topics

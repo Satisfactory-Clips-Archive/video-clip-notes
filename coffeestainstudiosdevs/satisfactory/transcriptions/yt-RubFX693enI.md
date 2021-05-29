@@ -4,6 +4,7 @@ date: "2020-12-15"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-4"
+    - "technology/directx"
     - "technology/graphics/ray-tracing"
     - "technology/unreal-engine"
 ---
@@ -15,6 +16,7 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
+* [Technology > DirectX](../topics/technology/directx.md)
 * [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 

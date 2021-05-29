@@ -51,6 +51,7 @@ date: Last Modified
 * [Panakotta](./topics/community/panakotta.md)
 * [Satisfactory Calculator](./topics/community/satisfactory-calculator.md)
 * [Satisfactory News](./topics/community/satisfactory-news.md)
+* [SignpostMarv](./topics/community/signpostmarv.md)
 * [Smerkin](./topics/community/smerkin.md)
 * [Tom](./topics/community/tom.md)
 * [Wiki](./topics/community/wiki.md)
@@ -393,6 +394,7 @@ date: Last Modified
 
 # [Technology](./topics/technology.md)
 * [Analytics](./topics/technology/analytics.md)
+* [DirectX](./topics/technology/directx.md)
 * [Linux](./topics/technology/linux.md)
 * [Mac](./topics/technology/mac.md)
 * [Physics](./topics/technology/physics.md)
@@ -404,6 +406,7 @@ date: Last Modified
 
 ## [Unreal Engine](./topics/technology/unreal-engine.md)
 * [Custom Component: Instanced Spline Mesh](./topics/technology/unreal-engine/custom-component-instanced-spline-mesh.md)
+* [Distance Fields](./topics/technology/unreal-engine/distance-fields.md)
 * [Object Limit](./topics/technology/unreal-engine/object-limit.md)
 ---
 

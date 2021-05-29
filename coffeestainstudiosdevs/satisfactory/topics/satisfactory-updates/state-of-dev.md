@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## May 25th, 2021 Livestream
+* [State of Dev: Update 5](../../transcriptions/yt-rz0oD16hpGw.md) [https://www.youtube.com/watch?v=rz0oD16hpGw](https://www.youtube.com/watch?v=rz0oD16hpGw)
+* [Q&A: Recap State of Dev?](../../transcriptions/yt-GEQE1mXk1cg.md) [https://www.youtube.com/watch?v=GEQE1mXk1cg](https://www.youtube.com/watch?v=GEQE1mXk1cg)
+
 ## May 18th, 2021 Livestream
 * [State of Dev: Update 5](../../transcriptions/yt-2kaP1jPZOL4.md) [https://www.youtube.com/watch?v=2kaP1jPZOL4](https://www.youtube.com/watch?v=2kaP1jPZOL4)
 * [State of Dev: Issues with Update 4](../../transcriptions/yt-xDmB6Zyrr1U.md) [https://www.youtube.com/watch?v=xDmB6Zyrr1U](https://www.youtube.com/watch?v=xDmB6Zyrr1U)
@@ -120,11 +124,11 @@ date: Last Modified
 * [State of Dev](../../transcriptions/yt-bGem8CSwRlQ.md) [https://www.youtube.com/watch?v=bGem8CSwRlQ](https://www.youtube.com/watch?v=bGem8CSwRlQ)
 
 ## December 8th, 2020 Livestream
-* [Q&A: Is that it for State of Dev?](../../transcriptions/yt-OI6OAux6VrM.md) [https://www.youtube.com/watch?v=OI6OAux6VrM](https://www.youtube.com/watch?v=OI6OAux6VrM)
-* [State of Dev: Blame Simon](../../transcriptions/yt-H4gyZoXsfo0.md) [https://www.youtube.com/watch?v=H4gyZoXsfo0](https://www.youtube.com/watch?v=H4gyZoXsfo0)
-* [State of Dev: Engine Upgrade](../../transcriptions/yt-j2kW9a3CTXE.md) [https://www.youtube.com/watch?v=j2kW9a3CTXE](https://www.youtube.com/watch?v=j2kW9a3CTXE)
 * [State of Dev: Update 4](../../transcriptions/yt-8tiGIPGptWQ.md) [https://www.youtube.com/watch?v=8tiGIPGptWQ](https://www.youtube.com/watch?v=8tiGIPGptWQ)
+* [State of Dev: Engine Upgrade](../../transcriptions/yt-j2kW9a3CTXE.md) [https://www.youtube.com/watch?v=j2kW9a3CTXE](https://www.youtube.com/watch?v=j2kW9a3CTXE)
+* [State of Dev: Blame Simon](../../transcriptions/yt-H4gyZoXsfo0.md) [https://www.youtube.com/watch?v=H4gyZoXsfo0](https://www.youtube.com/watch?v=H4gyZoXsfo0)
 * [State of Dev: FICS⁕MAS](../../transcriptions/yt-zxaJChchCMo.md) [https://www.youtube.com/watch?v=zxaJChchCMo](https://www.youtube.com/watch?v=zxaJChchCMo)
+* [Q&A: Is that it for State of Dev?](../../transcriptions/yt-OI6OAux6VrM.md) [https://www.youtube.com/watch?v=OI6OAux6VrM](https://www.youtube.com/watch?v=OI6OAux6VrM)
 
 ## December 1st, 2020 Livestream
 * [State of Dev](../../transcriptions/yt-Jn1zEzy2N9o.md) [https://www.youtube.com/watch?v=Jn1zEzy2N9o](https://www.youtube.com/watch?v=Jn1zEzy2N9o)

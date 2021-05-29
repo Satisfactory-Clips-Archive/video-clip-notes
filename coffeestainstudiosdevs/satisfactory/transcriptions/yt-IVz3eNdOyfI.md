@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/lights"
     - "features/buildables/walls"
+    - "technology/unreal-engine/distance-fields"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Do you know why the new lights don't go through glass?
@@ -15,6 +16,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 ### Topics
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
+* [Technology > Unreal Engine > Distance Fields](../topics/technology/unreal-engine/distance-fields.md)
 
 ### Transcript
 

@@ -9,7 +9,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Will this be the last Update before 1.0?
 https://www.youtube.com/watch?v=DOFC8O2yXNw
-This question was possibly duplicated with a more recent answer: May 11th, 2021 Livestream Q&A: How many Updates before 1.0? [https://www.youtube.com/watch?v=h3_N7HE2ZPQ](https://www.youtube.com/watch?v=h3_N7HE2ZPQ)
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: How many Updates before Release?](./yt-dHKlfnU7pm8.md) [https://www.youtube.com/watch?v=dHKlfnU7pm8](https://www.youtube.com/watch?v=dHKlfnU7pm8)
 
 
 ### Topics

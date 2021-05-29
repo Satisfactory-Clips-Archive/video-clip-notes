@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Pizza
 
+## May 25th, 2021 Livestream
+* [Q&A: How many Doggos are there in the world?](../../transcriptions/yt-PtsEfgW-R7o.md) [https://www.youtube.com/watch?v=PtsEfgW-R7o](https://www.youtube.com/watch?v=PtsEfgW-R7o)
+
 ## May 18th, 2021 Livestream
 * [Snutt & Jace Talk: Update 5 Patch Notes video](../../transcriptions/yt-9PFxkX8nrx0.md) [https://www.youtube.com/watch?v=9PFxkX8nrx0](https://www.youtube.com/watch?v=9PFxkX8nrx0)
 

@@ -9,12 +9,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Are there limited Lizard Doggos on the map?
 https://www.youtube.com/watch?v=v7d8Lqlq53w
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as March 2019.</summary>
-
-* [November 10th, 2020 Livestream Q&A: If you kill Lizard Doggos do they respawn?](./yt-71mjlgW3J28.md) [https://www.youtube.com/watch?v=71mjlgW3J28](https://www.youtube.com/watch?v=71mjlgW3J28)
-* [March 9th, 2019 Livestream Q&A: Where is Lizard Doggo?](./yt-bB6SOIoAYg4.md) [https://www.youtube.com/watch?v=bB6SOIoAYg4](https://www.youtube.com/watch?v=bB6SOIoAYg4)
-</details>
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: How many Doggos are there in the world?](./yt-PtsEfgW-R7o.md) [https://www.youtube.com/watch?v=PtsEfgW-R7o](https://www.youtube.com/watch?v=PtsEfgW-R7o)
 
 
 ### Topics

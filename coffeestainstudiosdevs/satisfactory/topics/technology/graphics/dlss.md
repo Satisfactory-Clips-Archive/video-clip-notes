@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > DLSS
 
+## May 25th, 2021 Livestream
+* [Q&A: Are you planning ray-tracing or DLSS in the future?](../../../transcriptions/yt-b9mNEeXtILM.md) [https://www.youtube.com/watch?v=b9mNEeXtILM](https://www.youtube.com/watch?v=b9mNEeXtILM)
+
 ## April 6th, 2021 Livestream
 * [Q&A: DLSS?](../../../transcriptions/yt-1F9I7x50fnU.md) [https://www.youtube.com/watch?v=1F9I7x50fnU](https://www.youtube.com/watch?v=1F9I7x50fnU)
 

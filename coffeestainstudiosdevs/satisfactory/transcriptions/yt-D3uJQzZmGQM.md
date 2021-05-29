@@ -8,7 +8,7 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Info on EU shopping for Merch?
 https://www.youtube.com/watch?v=D3uJQzZmGQM
-This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: When will Merch shipping worldwide be possible?](./yt-iyFXDTn2YPM.md) [https://www.youtube.com/watch?v=iyFXDTn2YPM](https://www.youtube.com/watch?v=iyFXDTn2YPM)
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: EU Shop?](./yt-GRcTICKsCGM.md) [https://www.youtube.com/watch?v=GRcTICKsCGM](https://www.youtube.com/watch?v=GRcTICKsCGM)
 
 
 ### Topics

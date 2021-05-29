@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Pre-Alpha
 
+## May 25th, 2021 Livestream
+* [Q&A: Can we have FICSIT stock trading & an economy system?](../../transcriptions/yt-aXNyMSx6VyM.md) [https://www.youtube.com/watch?v=aXNyMSx6VyM](https://www.youtube.com/watch?v=aXNyMSx6VyM)
+
 ## May 18th, 2021 Livestream
 * [Q&A: In-game events in the near-time?](../../transcriptions/yt-9BJfkfV6Ka4.md) [https://www.youtube.com/watch?v=9BJfkfV6Ka4](https://www.youtube.com/watch?v=9BJfkfV6Ka4)
 
@@ -11,8 +14,8 @@ date: Last Modified
 * [Q&A: Some buildings used to auto-select recipes?](../../transcriptions/yt-iCOiamAc_ak.md) [https://www.youtube.com/watch?v=iCOiamAc_ak](https://www.youtube.com/watch?v=iCOiamAc_ak)
 
 ## December 8th, 2020 Livestream
-* [State of Dev: FICS⁕MAS](../../transcriptions/yt-zxaJChchCMo.md) [https://www.youtube.com/watch?v=zxaJChchCMo](https://www.youtube.com/watch?v=zxaJChchCMo)
 * [Q&A: Please reintroduce the Mining mini-game?](../../transcriptions/yt-LTpEW1G0VH0.md) [https://www.youtube.com/watch?v=LTpEW1G0VH0](https://www.youtube.com/watch?v=LTpEW1G0VH0)
+* [State of Dev: FICS⁕MAS](../../transcriptions/yt-zxaJChchCMo.md) [https://www.youtube.com/watch?v=zxaJChchCMo](https://www.youtube.com/watch?v=zxaJChchCMo)
 
 ## November 10th, 2020 Livestream
 * [Q&A: Who in Coffee Stain Studios is the best Factory Builder?](../../transcriptions/yt-ypN9OtMd7YU.md) [https://www.youtube.com/watch?v=ypN9OtMd7YU](https://www.youtube.com/watch?v=ypN9OtMd7YU)

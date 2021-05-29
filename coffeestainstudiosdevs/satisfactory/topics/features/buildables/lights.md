@@ -4,6 +4,19 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## May 28th, 2021 Livestream
+* [Q&A: What was the main issue with implementing Lights?](../../../transcriptions/yt-dyqOMITwLsY,102.398474,167.292125.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168)
+* [Q&A: Can you give a quick explanation of how the system for Lights works right now?](../../../transcriptions/yt-dyqOMITwLsY,199.03216666666665,448.69825.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449)
+* [Q&A: Are we going to be able to turn Lights upside down?](../../../transcriptions/yt-dyqOMITwLsY,500.75024999999994,597.456414.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598)
+* [Q&A: Is there anything else you're planning to do with Lights in the future?](../../../transcriptions/yt-dyqOMITwLsY,597.456414,647.6052916666666.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=597&end=648](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=597&end=648)
+* [Snutt & Ben Talk: Fake fog planes on Ceiling Lights](../../../transcriptions/yt-dyqOMITwLsY,647.6052916666666,691.144145.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=647&end=692](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=647&end=692)
+* [Snutt & Ben Talk: Light Pooling](../../../transcriptions/yt-dyqOMITwLsY,691.144145,783.2824999999999.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=691&end=784](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=691&end=784)
+* [Snutt & Ben Talked: Consequences of too many lights](../../../transcriptions/yt-dyqOMITwLsY,783.279574,808.618017.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809)
+
+## May 25th, 2021 Livestream
+* [Q&A: Can you talk about multi-threading?](../../../transcriptions/yt-oRvsgiDJRR8.md) [https://www.youtube.com/watch?v=oRvsgiDJRR8](https://www.youtube.com/watch?v=oRvsgiDJRR8)
+* [Q&A: Why are glass Foundations more optimised than solid Foundations?](../../../transcriptions/yt-u30RKv4VEeI.md) [https://www.youtube.com/watch?v=u30RKv4VEeI](https://www.youtube.com/watch?v=u30RKv4VEeI)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Can you add an adjustment setting in the Light controls.](../../../transcriptions/yt-ABqk2URaH74.md) [https://www.youtube.com/watch?v=ABqk2URaH74](https://www.youtube.com/watch?v=ABqk2URaH74)
 

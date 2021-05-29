@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Object Limit
 
+## May 28th, 2021 Livestream
+* [Q&A: What was the main issue with implementing Lights?](../../../transcriptions/yt-dyqOMITwLsY,102.398474,167.292125.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168)
+* [Snutt & Ben Talk: Unreal Engine Object Limit](../../../transcriptions/yt-dyqOMITwLsY,167.292125,199.03216666666665.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=167&end=200](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=167&end=200)
+
 ## May 11th, 2021 Livestream
 * [Q&A: When the full game's out, will you consider releasing for Console?](../../../transcriptions/yt-CmSDjJQUmIM.md) [https://www.youtube.com/watch?v=CmSDjJQUmIM](https://www.youtube.com/watch?v=CmSDjJQUmIM)
 

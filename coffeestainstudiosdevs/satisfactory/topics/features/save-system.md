@@ -6,6 +6,14 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## May 28th, 2021 Livestream
+* [Snutt & Ben Talk: Holograms now use Stencils](../../transcriptions/yt-dyqOMITwLsY,1164.0795833333332,1286.773104.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1164&end=1287](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1164&end=1287)
+* [Q&A: What's coming in the future for optimisations to Satisfactory?](../../transcriptions/yt-dyqOMITwLsY,1837.377208333333,1944.0671249999998.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945)
+
+## May 25th, 2021 Livestream
+* [Q&A: Are there any plans to fix Satisfactory soft-locking when loading large save files?](../../transcriptions/yt-filXdYLQ12s.md) [https://www.youtube.com/watch?v=filXdYLQ12s](https://www.youtube.com/watch?v=filXdYLQ12s)
+* Q&A: What's the best way to upload my save file so I can post it to the QA Site? [https://www.youtube.com/watch?v=bV3ZS6Q3FBA](https://www.youtube.com/watch?v=bV3ZS6Q3FBA)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Can you destroy gas rocks with Nobelisks?](../../transcriptions/yt-pwY930G2HRg.md) [https://www.youtube.com/watch?v=pwY930G2HRg](https://www.youtube.com/watch?v=pwY930G2HRg)
 

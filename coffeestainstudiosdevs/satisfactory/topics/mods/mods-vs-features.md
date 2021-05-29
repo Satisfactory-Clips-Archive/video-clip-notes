@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## May 28th, 2021 Livestream
+* [Q&A: Is there anything else you're planning to do with Lights in the future?](../../transcriptions/yt-dyqOMITwLsY,597.456414,647.6052916666666.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=597&end=648](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=597&end=648)
+
+## May 25th, 2021 Livestream
+* [Community FYI: Game dev steals mod idea live](../../transcriptions/yt-SldrpB_Um-w.md) [https://www.youtube.com/watch?v=SldrpB_Um-w](https://www.youtube.com/watch?v=SldrpB_Um-w)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Please add cookie baking mode?](../../transcriptions/yt-BsNMpP14MPg.md) [https://www.youtube.com/watch?v=BsNMpP14MPg](https://www.youtube.com/watch?v=BsNMpP14MPg)
 * [Q&A: How do Mods handle Miners with multiple outputs?](../../transcriptions/yt-JvmCTyv0uNo.md) [https://www.youtube.com/watch?v=JvmCTyv0uNo](https://www.youtube.com/watch?v=JvmCTyv0uNo)

@@ -3,8 +3,7 @@ title: "December 8th, 2020 Livestream Q&A: DirectX 12 when?"
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "technology/graphics"
-    - "technology/unreal-engine"
+    - "technology/directx"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: DirectX 12 when?
@@ -13,8 +12,7 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
-* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > DirectX](../topics/technology/directx.md)
 
 ### Transcript
 

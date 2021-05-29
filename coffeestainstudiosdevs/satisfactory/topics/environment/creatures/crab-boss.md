@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## May 25th, 2021 Livestream
+* [Community FYI: If the Giant Crab can't break walls then I'm making a zoo](../../../transcriptions/yt-mX8bc3BMIMs.md) [https://www.youtube.com/watch?v=mX8bc3BMIMs](https://www.youtube.com/watch?v=mX8bc3BMIMs)
+* [Q&A: What do you think about tougher aliens blocking late-game resources?](../../../transcriptions/yt--x5Y_5tR43A.md) [https://www.youtube.com/watch?v=-x5Y_5tR43A](https://www.youtube.com/watch?v=-x5Y_5tR43A)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Plans to add new mobs?](../../../transcriptions/yt-l7vpFCb_aeo.md) [https://www.youtube.com/watch?v=l7vpFCb_aeo](https://www.youtube.com/watch?v=l7vpFCb_aeo)
 

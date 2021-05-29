@@ -53,8 +53,8 @@ date: Last Modified
 * [Q&A: How are you planning to balance optimisation vs. new tiers/features in the future?](../../transcriptions/yt--JXPsTlJIiI,464.29716666666667,484.58410000000003.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=464&end=485](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=464&end=485)
 
 ## December 8th, 2020 Livestream
-* [Snutt & Jace Talk: The Wiki](../../transcriptions/yt-JGdEGbzDFlY.md) [https://www.youtube.com/watch?v=JGdEGbzDFlY](https://www.youtube.com/watch?v=JGdEGbzDFlY)
 * [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../transcriptions/yt-42AzC9Qk2yc.md) [https://www.youtube.com/watch?v=42AzC9Qk2yc](https://www.youtube.com/watch?v=42AzC9Qk2yc)
+* [Snutt & Jace Talk: The Wiki](../../transcriptions/yt-JGdEGbzDFlY.md) [https://www.youtube.com/watch?v=JGdEGbzDFlY](https://www.youtube.com/watch?v=JGdEGbzDFlY)
 * [Q&A: Do you guys know what is going to be the last Tier in the game?](../../transcriptions/yt-ZOmxbDTRWmg.md) [https://www.youtube.com/watch?v=ZOmxbDTRWmg](https://www.youtube.com/watch?v=ZOmxbDTRWmg)
 
 ## December 4th, 2020 Video

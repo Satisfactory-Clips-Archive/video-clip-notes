@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Mass Building
 
+## May 25th, 2021 Livestream
+* [Q&A: Mass Building?](../../../transcriptions/yt-ueGK9d55G_Q.md) [https://www.youtube.com/watch?v=ueGK9d55G_Q](https://www.youtube.com/watch?v=ueGK9d55G_Q)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Any news about Mass Foundations or Building Blueprints?](../../../transcriptions/yt-U3HL6b4ugC4.md) [https://www.youtube.com/watch?v=U3HL6b4ugC4](https://www.youtube.com/watch?v=U3HL6b4ugC4)
 

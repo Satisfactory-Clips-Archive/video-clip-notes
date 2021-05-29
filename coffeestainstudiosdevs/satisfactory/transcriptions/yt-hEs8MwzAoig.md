@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: How are the talks with exclusivity on KFConsole?
 https://www.youtube.com/watch?v=hEs8MwzAoig
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: KFC Console?](./yt-cFDgMxkg53A.md) [https://www.youtube.com/watch?v=cFDgMxkg53A](https://www.youtube.com/watch?v=cFDgMxkg53A)
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Date for KFC Console release?](./yt-t_i7vgMUGKA.md) [https://www.youtube.com/watch?v=t_i7vgMUGKA](https://www.youtube.com/watch?v=t_i7vgMUGKA)
 
 
 ### Topics

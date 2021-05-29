@@ -8,6 +8,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## May 25th, 2021 Livestream
+* [Q&A: How many hours to be considered a real Satisfactory player?](../transcriptions/yt-w9rwc-OvRrE.md) [https://www.youtube.com/watch?v=w9rwc-OvRrE](https://www.youtube.com/watch?v=w9rwc-OvRrE)
+
 ## May 11th, 2021 Livestream
 * [Q&A: You could come out with a Stadia version for the twelve people that have it](../transcriptions/yt-6lgT3Lu6_fc.md) [https://www.youtube.com/watch?v=6lgT3Lu6_fc](https://www.youtube.com/watch?v=6lgT3Lu6_fc)
 * [Q&A: Steam Link instead of Stadia?](../transcriptions/yt-QKmETHKF-wQ.md) [https://www.youtube.com/watch?v=QKmETHKF-wQ](https://www.youtube.com/watch?v=QKmETHKF-wQ)
@@ -32,6 +35,7 @@ date: Last Modified
 
 ## December 8th, 2020 Livestream
 * [Q&A: Have you sold more than 10 copies yet?](../transcriptions/yt-m7UjXQmtBK0.md) [https://www.youtube.com/watch?v=m7UjXQmtBK0](https://www.youtube.com/watch?v=m7UjXQmtBK0)
+* [Q&A: If they refunded how could you get so many screenshots for FICS⁕MAS?](../transcriptions/yt-AHYlgGcYkjw.md) [https://www.youtube.com/watch?v=AHYlgGcYkjw](https://www.youtube.com/watch?v=AHYlgGcYkjw)
 
 ## November 10th, 2020 Livestream
 * [Q&A: Do you earn money with the keys sold on third-party sites?](../transcriptions/yt-1Q7R8pQ4WrE.md) [https://www.youtube.com/watch?v=1Q7R8pQ4WrE](https://www.youtube.com/watch?v=1Q7R8pQ4WrE)

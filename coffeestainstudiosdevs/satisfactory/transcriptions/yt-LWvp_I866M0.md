@@ -8,7 +8,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Will we ever make a Console version?
 https://www.youtube.com/watch?v=LWvp_I866M0
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: When the full game's out, will you consider releasing for Console?](./yt-CmSDjJQUmIM.md) [https://www.youtube.com/watch?v=CmSDjJQUmIM](https://www.youtube.com/watch?v=CmSDjJQUmIM)
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Can we expect a console release in 2022?](./yt-u1rxQ_Hwo-U.md) [https://www.youtube.com/watch?v=u1rxQ_Hwo-U](https://www.youtube.com/watch?v=u1rxQ_Hwo-U)
 
 
 ### Topics

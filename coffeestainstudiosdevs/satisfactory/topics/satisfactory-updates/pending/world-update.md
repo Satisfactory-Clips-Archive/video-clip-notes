@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > World Update
 
+## May 28th, 2021 Livestream
+* [Q&A: What's coming in the future for optimisations to Satisfactory?](../../../transcriptions/yt-dyqOMITwLsY,1837.377208333333,1944.0671249999998.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945)
+
 ## May 4th, 2021 Livestream
 * [Community Highlights: Dune Desert Waterfall Mesa & the pending World Updates](../../../transcriptions/yt-b86m8SEx6Vw.md) [https://www.youtube.com/watch?v=b86m8SEx6Vw](https://www.youtube.com/watch?v=b86m8SEx6Vw)
 

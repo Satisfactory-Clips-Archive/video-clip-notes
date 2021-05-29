@@ -4,7 +4,22 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Unreal Engine
 * [Custom Component: Instanced Spline Mesh](../../topics/technology/unreal-engine/custom-component-instanced-spline-mesh.md)
+* [Distance Fields](../../topics/technology/unreal-engine/distance-fields.md)
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
+
+## May 28th, 2021 Livestream
+* [Snutt & Ben Talk: Unreal Engine Object Limit](../../transcriptions/yt-dyqOMITwLsY,167.292125,199.03216666666665.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=167&end=200](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=167&end=200)
+* [Q&A: Can you give a quick explanation of how the system for Lights works right now?](../../transcriptions/yt-dyqOMITwLsY,199.03216666666665,448.69825.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449)
+* [Snutt & Ben Talk: Fake fog planes on Ceiling Lights](../../transcriptions/yt-dyqOMITwLsY,647.6052916666666,691.144145.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=647&end=692](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=647&end=692)
+* [Q&A: Could you quickly describe what instancing means?](../../transcriptions/yt-dyqOMITwLsY,1065.5645,1164.0795833333332.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1065&end=1165](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1065&end=1165)
+* [Snutt & Ben Talk: Impact of the Engine Upgrade on Conveyor Belt performance](../../transcriptions/yt-dyqOMITwLsY,1330.7460833333332,1726.746974.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1330&end=1727](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1330&end=1727)
+* [Q&A: What's coming in the future for optimisations to Satisfactory?](../../transcriptions/yt-dyqOMITwLsY,1837.377208333333,1944.0671249999998.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945)
+
+## May 25th, 2021 Livestream
+* [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 2)](../../transcriptions/yt-N3p6MeSNbak.md) [https://www.youtube.com/watch?v=N3p6MeSNbak](https://www.youtube.com/watch?v=N3p6MeSNbak)
+* [Q&A: Engine Update will make the game run better?](../../transcriptions/yt-rQlh3jeLpO4.md) [https://www.youtube.com/watch?v=rQlh3jeLpO4](https://www.youtube.com/watch?v=rQlh3jeLpO4)
+* [Q&A: Do you use C++ 20 yet?](../../transcriptions/yt-TLsu0PSmPG0.md) [https://www.youtube.com/watch?v=TLsu0PSmPG0](https://www.youtube.com/watch?v=TLsu0PSmPG0)
+* [Q&A: Why not Git?](../../transcriptions/yt-N7JAhM9rtTY.md) [https://www.youtube.com/watch?v=N7JAhM9rtTY](https://www.youtube.com/watch?v=N7JAhM9rtTY)
 
 ## May 18th, 2021 Livestream
 * [State of Dev: Issues with Update 4](../../transcriptions/yt-xDmB6Zyrr1U.md) [https://www.youtube.com/watch?v=xDmB6Zyrr1U](https://www.youtube.com/watch?v=xDmB6Zyrr1U)
@@ -107,13 +122,12 @@ date: Last Modified
 * [Intro](../../transcriptions/yt-njXBs_p2l1w,,95.36193333333334.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=0&end=96](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=0&end=96)
 
 ## December 8th, 2020 Livestream
-* [Snutt Talk: Lights (not) confirmed!](../../transcriptions/yt-9VodwDOMBl0.md) [https://www.youtube.com/watch?v=9VodwDOMBl0](https://www.youtube.com/watch?v=9VodwDOMBl0)
-* [Q&A: Can we can expect a dev *blog* article about the Engine changes?](../../transcriptions/yt-C9LL9rg1aOk.md) [https://www.youtube.com/watch?v=C9LL9rg1aOk](https://www.youtube.com/watch?v=C9LL9rg1aOk)
 * [State of Dev: Engine Upgrade](../../transcriptions/yt-j2kW9a3CTXE.md) [https://www.youtube.com/watch?v=j2kW9a3CTXE](https://www.youtube.com/watch?v=j2kW9a3CTXE)
-* [Snutt Talk: Emmissive Materials](../../transcriptions/yt-nYpEI8hZEgU.md) [https://www.youtube.com/watch?v=nYpEI8hZEgU](https://www.youtube.com/watch?v=nYpEI8hZEgU)
-* [Q&A: Are Coffee Stain looking for Unreal Engine programmers - do you hire remotely?](../../transcriptions/yt-sI7zMjVad1c.md) [https://www.youtube.com/watch?v=sI7zMjVad1c](https://www.youtube.com/watch?v=sI7zMjVad1c)
+* [Q&A: Can we can expect a dev *blog* article about the Engine changes?](../../transcriptions/yt-C9LL9rg1aOk.md) [https://www.youtube.com/watch?v=C9LL9rg1aOk](https://www.youtube.com/watch?v=C9LL9rg1aOk)
+* [Snutt Talk: Lights (not) confirmed!](../../transcriptions/yt-9VodwDOMBl0.md) [https://www.youtube.com/watch?v=9VodwDOMBl0](https://www.youtube.com/watch?v=9VodwDOMBl0)
 * Q&A: When is the Engine Upgrade planned now? [https://www.youtube.com/watch?v=kg4OkSCHFNs](https://www.youtube.com/watch?v=kg4OkSCHFNs)
-* [Q&A: DirectX 12 when?](../../transcriptions/yt-BxAAQTxvy-Y.md) [https://www.youtube.com/watch?v=BxAAQTxvy-Y](https://www.youtube.com/watch?v=BxAAQTxvy-Y)
+* [Q&A: Are Coffee Stain looking for Unreal Engine programmers - do you hire remotely?](../../transcriptions/yt-sI7zMjVad1c.md) [https://www.youtube.com/watch?v=sI7zMjVad1c](https://www.youtube.com/watch?v=sI7zMjVad1c)
+* [Snutt Talk: Emmissive Materials](../../transcriptions/yt-nYpEI8hZEgU.md) [https://www.youtube.com/watch?v=nYpEI8hZEgU](https://www.youtube.com/watch?v=nYpEI8hZEgU)
 
 ## November 27th, 2020 Video
 * [Q&A: Why do we upgrade the engine?](../../transcriptions/yt-0kmDHBWf640,65.79906666666666,154.401842.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=65&end=155](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=65&end=155)

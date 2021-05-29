@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
 
+## May 28th, 2021 Livestream
+* [Ben Talk: Custom Hologram colours coming in the future](../../../transcriptions/yt-dyqOMITwLsY,1286.7855,1330.7460833333332.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1286&end=1331](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1286&end=1331)
+
+## May 25th, 2021 Livestream
+* [State of Dev: Update 5](../../../transcriptions/yt-rz0oD16hpGw.md) [https://www.youtube.com/watch?v=rz0oD16hpGw](https://www.youtube.com/watch?v=rz0oD16hpGw)
+* [Q&A: Recap State of Dev?](../../../transcriptions/yt-GEQE1mXk1cg.md) [https://www.youtube.com/watch?v=GEQE1mXk1cg](https://www.youtube.com/watch?v=GEQE1mXk1cg)
+* [Q&A: Is Simon going to delay the next Update?](../../../transcriptions/yt-hanQne_890c.md) [https://www.youtube.com/watch?v=hanQne_890c](https://www.youtube.com/watch?v=hanQne_890c)
+* [Q&A: Mass Building?](../../../transcriptions/yt-ueGK9d55G_Q.md) [https://www.youtube.com/watch?v=ueGK9d55G_Q](https://www.youtube.com/watch?v=ueGK9d55G_Q)
+
 ## May 18th, 2021 Livestream
 * [State of Dev: Update 5](../../../transcriptions/yt-2kaP1jPZOL4.md) [https://www.youtube.com/watch?v=2kaP1jPZOL4](https://www.youtube.com/watch?v=2kaP1jPZOL4)
 * Q&A: Quantum Computers & Superposition Oscillators; Update 5 content or separate release? [https://www.youtube.com/watch?v=gIahtVFvL68](https://www.youtube.com/watch?v=gIahtVFvL68)

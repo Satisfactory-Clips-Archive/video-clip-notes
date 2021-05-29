@@ -3,6 +3,7 @@ title: "March 30th, 2021 Livestream Q&A: Could some Sanctum gameplay, maybe the 
 date: "2021-03-30"
 layout: transcript
 topics:
+    - "community/signpostmarv"
     - "features/unplanned-features/base-defense"
     - "off-topic/sanctum"
 ---
@@ -13,6 +14,7 @@ This question was possibly duplicated with a more recent answer: [May 11th, 2021
 
 
 ### Topics
+* [Community > SignpostMarv](../topics/community/signpostmarv.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 * [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
 

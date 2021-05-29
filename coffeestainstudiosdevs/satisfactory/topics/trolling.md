@@ -4,6 +4,17 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## May 25th, 2021 Livestream
+* [Q&A: Can we have FICSIT stock trading & an economy system?](../transcriptions/yt-aXNyMSx6VyM.md) [https://www.youtube.com/watch?v=aXNyMSx6VyM](https://www.youtube.com/watch?v=aXNyMSx6VyM)
+* [Q&A: How many hours to be considered a real Satisfactory player?](../transcriptions/yt-w9rwc-OvRrE.md) [https://www.youtube.com/watch?v=w9rwc-OvRrE](https://www.youtube.com/watch?v=w9rwc-OvRrE)
+* [Q&A: There is Pirate Language?](../transcriptions/yt-IiD0uWYDg8w.md) [https://www.youtube.com/watch?v=IiD0uWYDg8w](https://www.youtube.com/watch?v=IiD0uWYDg8w)
+* [Community FYI: I see you guys are getting absolutely destroyed on twitter by Deep Rock Galactic](../transcriptions/yt-_Cuk9s2qD9c.md) [https://www.youtube.com/watch?v=_Cuk9s2qD9c](https://www.youtube.com/watch?v=_Cuk9s2qD9c)
+* [Q&A: What's the status of Golf on the QA Site?](../transcriptions/yt-ZW_d-EY-0f4.md) [https://www.youtube.com/watch?v=ZW_d-EY-0f4](https://www.youtube.com/watch?v=ZW_d-EY-0f4)
+* [Q&A: When can we get a Goat in Satisfactory?](../transcriptions/yt-KlD55eNxra0.md) [https://www.youtube.com/watch?v=KlD55eNxra0](https://www.youtube.com/watch?v=KlD55eNxra0)
+* [Q&A: What will be the price of Doggo Burgers in the Food Court?](../transcriptions/yt-ebebOS0cCA4.md) [https://www.youtube.com/watch?v=ebebOS0cCA4](https://www.youtube.com/watch?v=ebebOS0cCA4)
+* [Q&A: Jace is no longer allowed to program again](../transcriptions/yt-hrzcMd0csWE.md) [https://www.youtube.com/watch?v=hrzcMd0csWE](https://www.youtube.com/watch?v=hrzcMd0csWE)
+* [Q&A: How you you making the Pipes transparent?](../transcriptions/yt-MOpSvRU5s94.md) [https://www.youtube.com/watch?v=MOpSvRU5s94](https://www.youtube.com/watch?v=MOpSvRU5s94)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Train Collisions, soon / far away?](../transcriptions/yt-1JyWZYpxLsk.md) [https://www.youtube.com/watch?v=1JyWZYpxLsk](https://www.youtube.com/watch?v=1JyWZYpxLsk)
 * [Q&A: Will the Coffee Cup ever spill in-game?](../transcriptions/yt-N-eEiFrITAY.md) [https://www.youtube.com/watch?v=N-eEiFrITAY](https://www.youtube.com/watch?v=N-eEiFrITAY)
@@ -97,14 +108,14 @@ date: Last Modified
 * [Coffee Stain R&D Factory](../transcriptions/yt-njXBs_p2l1w,124.9248,154.154.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155)
 
 ## December 8th, 2020 Livestream
-* [Jace Talk: FICS⁕MAS leaks are not "leaks"](../transcriptions/yt-TOevQ69HYNA.md) [https://www.youtube.com/watch?v=TOevQ69HYNA](https://www.youtube.com/watch?v=TOevQ69HYNA)
-* [Q&A: Is that it for State of Dev?](../transcriptions/yt-OI6OAux6VrM.md) [https://www.youtube.com/watch?v=OI6OAux6VrM](https://www.youtube.com/watch?v=OI6OAux6VrM)
-* [Q&A: Cyberpunk cross-over when?](../transcriptions/yt-GJMD7L7BLxE.md) [https://www.youtube.com/watch?v=GJMD7L7BLxE](https://www.youtube.com/watch?v=GJMD7L7BLxE)
 * [State of Dev: Blame Simon](../transcriptions/yt-H4gyZoXsfo0.md) [https://www.youtube.com/watch?v=H4gyZoXsfo0](https://www.youtube.com/watch?v=H4gyZoXsfo0)
-* [Q&A: If they refunded how could you get so many screenshots for FICS⁕MAS?](../transcriptions/yt-AHYlgGcYkjw.md) [https://www.youtube.com/watch?v=AHYlgGcYkjw](https://www.youtube.com/watch?v=AHYlgGcYkjw)
-* [Q&A: Have you sold more than 10 copies yet?](../transcriptions/yt-m7UjXQmtBK0.md) [https://www.youtube.com/watch?v=m7UjXQmtBK0](https://www.youtube.com/watch?v=m7UjXQmtBK0)
-* [Q&A: How many lines of code is Satisfactory?](../transcriptions/yt-HhFUbge6Z7E.md) [https://www.youtube.com/watch?v=HhFUbge6Z7E](https://www.youtube.com/watch?v=HhFUbge6Z7E)
+* [Q&A: Cyberpunk cross-over when?](../transcriptions/yt-GJMD7L7BLxE.md) [https://www.youtube.com/watch?v=GJMD7L7BLxE](https://www.youtube.com/watch?v=GJMD7L7BLxE)
+* [Q&A: Is that it for State of Dev?](../transcriptions/yt-OI6OAux6VrM.md) [https://www.youtube.com/watch?v=OI6OAux6VrM](https://www.youtube.com/watch?v=OI6OAux6VrM)
+* [Jace Talk: FICS⁕MAS leaks are not "leaks"](../transcriptions/yt-TOevQ69HYNA.md) [https://www.youtube.com/watch?v=TOevQ69HYNA](https://www.youtube.com/watch?v=TOevQ69HYNA)
 * [Q&A: Do I need a beanie to play the game?](../transcriptions/yt-Kx_0tBWze0k.md) [https://www.youtube.com/watch?v=Kx_0tBWze0k](https://www.youtube.com/watch?v=Kx_0tBWze0k)
+* [Q&A: How many lines of code is Satisfactory?](../transcriptions/yt-HhFUbge6Z7E.md) [https://www.youtube.com/watch?v=HhFUbge6Z7E](https://www.youtube.com/watch?v=HhFUbge6Z7E)
+* [Q&A: Have you sold more than 10 copies yet?](../transcriptions/yt-m7UjXQmtBK0.md) [https://www.youtube.com/watch?v=m7UjXQmtBK0](https://www.youtube.com/watch?v=m7UjXQmtBK0)
+* [Q&A: If they refunded how could you get so many screenshots for FICS⁕MAS?](../transcriptions/yt-AHYlgGcYkjw.md) [https://www.youtube.com/watch?v=AHYlgGcYkjw](https://www.youtube.com/watch?v=AHYlgGcYkjw)
 
 ## November 24th, 2020 Livestream
 * [Q&A: When is Satisfactory coming to N-Gage?](../transcriptions/yt-qL6dp9eUB58.md) [https://www.youtube.com/watch?v=qL6dp9eUB58](https://www.youtube.com/watch?v=qL6dp9eUB58)

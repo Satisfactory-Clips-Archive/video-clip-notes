@@ -3,6 +3,7 @@ title: "January 19th, 2021 Livestream Snutt & Mark Talk: We will not be adding t
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "community/signpostmarv"
     - "features/unplanned-features/base-defense"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=hq02irf8xGM
 
 ### Topics
+* [Community > SignpostMarv](../topics/community/signpostmarv.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript

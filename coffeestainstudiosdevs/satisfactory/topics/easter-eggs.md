@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## May 25th, 2021 Livestream
+* [Q&A: What's the memeiest and stupidest thing you've seen a dev add in?](../transcriptions/yt-qYRsGrGlVqg.md) [https://www.youtube.com/watch?v=qYRsGrGlVqg](https://www.youtube.com/watch?v=qYRsGrGlVqg)
+* [Q&A: When can we get a Goat in Satisfactory?](../transcriptions/yt-KlD55eNxra0.md) [https://www.youtube.com/watch?v=KlD55eNxra0](https://www.youtube.com/watch?v=KlD55eNxra0)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Are there hidden puzzles in the game?](../transcriptions/yt-m7zB1crQc00.md) [https://www.youtube.com/watch?v=m7zB1crQc00](https://www.youtube.com/watch?v=m7zB1crQc00)
 

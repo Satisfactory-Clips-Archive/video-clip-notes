@@ -13,6 +13,12 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## May 25th, 2021 Livestream
+* [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 1)](../../transcriptions/yt-n94KgIpWdZc.md) [https://www.youtube.com/watch?v=n94KgIpWdZc](https://www.youtube.com/watch?v=n94KgIpWdZc)
+* [Q&A: Will the Rebar shotgun come back?](../../transcriptions/yt-p7aALqL6xlo.md) [https://www.youtube.com/watch?v=p7aALqL6xlo](https://www.youtube.com/watch?v=p7aALqL6xlo)
+* [Q&A: How do you feel about automating the throwing/placing of Nobelisks?](../../transcriptions/yt-erI4Q5kLjuc.md) [https://www.youtube.com/watch?v=erI4Q5kLjuc](https://www.youtube.com/watch?v=erI4Q5kLjuc)
+* [Q&A: Thrown Nobelisks that can travel through Hyper Tubes?](../../transcriptions/yt-9C-nS_aD7xc.md) [https://www.youtube.com/watch?v=9C-nS_aD7xc](https://www.youtube.com/watch?v=9C-nS_aD7xc)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Mug?](../../transcriptions/yt-MNWvQrzo_Rk.md) [https://www.youtube.com/watch?v=MNWvQrzo_Rk](https://www.youtube.com/watch?v=MNWvQrzo_Rk)
 * [Q&A: Ads for the Rifle?](../../transcriptions/yt-xcMRZD8p_YY.md) [https://www.youtube.com/watch?v=xcMRZD8p_YY](https://www.youtube.com/watch?v=xcMRZD8p_YY)

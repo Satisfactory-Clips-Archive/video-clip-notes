@@ -3,6 +3,7 @@ title: "April 27th, 2021 Livestream Q&A: Is there combat & Base Defense required
 date: "2021-04-27"
 layout: transcript
 topics:
+    - "community/signpostmarv"
     - "features/unplanned-features/base-defense"
     - "mods/mods-vs-features"
 ---
@@ -13,6 +14,7 @@ This question was possibly duplicated with a more recent answer: [May 11th, 2021
 
 
 ### Topics
+* [Community > SignpostMarv](../topics/community/signpostmarv.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 

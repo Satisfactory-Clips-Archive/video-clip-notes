@@ -3,14 +3,14 @@ title: "November 3rd, 2020 Livestream Snutt Talk: SignpostMarv clips up all the 
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "community"
+    - "community/signpostmarv"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Snutt Talk: SignpostMarv clips up all the Questions & Answers
 https://www.youtube.com/watch?v=BIfBmiglakE
 
 ### Topics
-* [Community](../topics/community.md)
+* [Community > SignpostMarv](../topics/community/signpostmarv.md)
 
 ### Transcript
 

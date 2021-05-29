@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## May 25th, 2021 Livestream
+* [Q&A: Is the Soundtrack available to buy separately?](../transcriptions/yt-WdCt1y3TIM4.md) [https://www.youtube.com/watch?v=WdCt1y3TIM4](https://www.youtube.com/watch?v=WdCt1y3TIM4)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Where can we get the Soundtrack?](../transcriptions/yt-Qu6R2XZ2On0.md) [https://www.youtube.com/watch?v=Qu6R2XZ2On0](https://www.youtube.com/watch?v=Qu6R2XZ2On0)
 * [Snutt Talk: There's new music in the game already](../transcriptions/yt-mnOism9M7Us.md) [https://www.youtube.com/watch?v=mnOism9M7Us](https://www.youtube.com/watch?v=mnOism9M7Us)

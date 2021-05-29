@@ -15,6 +15,12 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## May 25th, 2021 Livestream
+* [Q&A: Hot tub stream, when?](../transcriptions/yt-vMoZj9MyvE8.md) [https://www.youtube.com/watch?v=vMoZj9MyvE8](https://www.youtube.com/watch?v=vMoZj9MyvE8)
+* [Q&A: What's growing faster, Snutt's beard or Jace's hair?](../transcriptions/yt-ZhS3RO6Sc_c.md) [https://www.youtube.com/watch?v=ZhS3RO6Sc_c](https://www.youtube.com/watch?v=ZhS3RO6Sc_c)
+* [Random: Snutt plays with his phone](../transcriptions/yt-JFYNrAFgkko.md) [https://www.youtube.com/watch?v=JFYNrAFgkko](https://www.youtube.com/watch?v=JFYNrAFgkko)
+* [Community FYI: But I'm a robot, you can't prove that](../transcriptions/yt-07qMVBE8P8E.md) [https://www.youtube.com/watch?v=07qMVBE8P8E](https://www.youtube.com/watch?v=07qMVBE8P8E)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Aside from Satisfactory, what games have you been playing?](../transcriptions/yt-VGjqOVxF1dE.md) [https://www.youtube.com/watch?v=VGjqOVxF1dE](https://www.youtube.com/watch?v=VGjqOVxF1dE)
 * [Q&A: Do men get parental leave in Sweden?](../transcriptions/yt-3UbMqP40hXc.md) [https://www.youtube.com/watch?v=3UbMqP40hXc](https://www.youtube.com/watch?v=3UbMqP40hXc)

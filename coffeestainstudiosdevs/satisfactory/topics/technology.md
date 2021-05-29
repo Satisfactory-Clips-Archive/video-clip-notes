@@ -4,12 +4,22 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Technology
 * [Analytics](../topics/technology/analytics.md)
+* [DirectX](../topics/technology/directx.md)
 * [Graphics](../topics/technology/graphics.md)
 * [Linux](../topics/technology/linux.md)
 * [Mac](../topics/technology/mac.md)
 * [Physics](../topics/technology/physics.md)
 * [Unreal Engine](../topics/technology/unreal-engine.md)
 * [User Interface](../topics/technology/user-interface.md)
+
+## May 25th, 2021 Livestream
+* [Q&A: Can you talk about multi-threading?](../transcriptions/yt-oRvsgiDJRR8.md) [https://www.youtube.com/watch?v=oRvsgiDJRR8](https://www.youtube.com/watch?v=oRvsgiDJRR8)
+* [Q&A: Are you considering disconnecting the Factory tick from FPS? (Part 1)](../transcriptions/yt-YMtTIS1de9A.md) [https://www.youtube.com/watch?v=YMtTIS1de9A](https://www.youtube.com/watch?v=YMtTIS1de9A)
+* [Q&A: Are you considering disconnecting the Factory tick from FPS? (Part 2)](../transcriptions/yt-_uigYftwYFo.md) [https://www.youtube.com/watch?v=_uigYftwYFo](https://www.youtube.com/watch?v=_uigYftwYFo)
+* [Q&A: Have you both done programming?](../transcriptions/yt-TicJq4FxVFA.md) [https://www.youtube.com/watch?v=TicJq4FxVFA](https://www.youtube.com/watch?v=TicJq4FxVFA)
+* [Q&A: Do you use C++ 20 yet?](../transcriptions/yt-TLsu0PSmPG0.md) [https://www.youtube.com/watch?v=TLsu0PSmPG0](https://www.youtube.com/watch?v=TLsu0PSmPG0)
+* [Q&A: Any plans to open-source the engine?](../transcriptions/yt-th80RuBpaRk.md) [https://www.youtube.com/watch?v=th80RuBpaRk](https://www.youtube.com/watch?v=th80RuBpaRk)
+* [Q&A: Why not Git?](../transcriptions/yt-N7JAhM9rtTY.md) [https://www.youtube.com/watch?v=N7JAhM9rtTY](https://www.youtube.com/watch?v=N7JAhM9rtTY)
 
 ## May 11th, 2021 Livestream
 * [Q&A: Technical presentation of Lights, Simulation, and Trains, etc. ?](../transcriptions/yt-ifM6AIYMw80.md) [https://www.youtube.com/watch?v=ifM6AIYMw80](https://www.youtube.com/watch?v=ifM6AIYMw80)

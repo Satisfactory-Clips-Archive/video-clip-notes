@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Mac
 
+## May 25th, 2021 Livestream
+* [Q&A: Any plans for Mac or Linux?](../../transcriptions/yt-nhwUgABKGmE.md) [https://www.youtube.com/watch?v=nhwUgABKGmE](https://www.youtube.com/watch?v=nhwUgABKGmE)
+
 ## May 11th, 2021 Livestream
 * [Snutt Talk: Releasing for other operating systems beyond Windows](../../transcriptions/yt-ctG0T1dnSWY.md) [https://www.youtube.com/watch?v=ctG0T1dnSWY](https://www.youtube.com/watch?v=ctG0T1dnSWY)
 

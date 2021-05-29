@@ -29,6 +29,9 @@ date: Last Modified
 * [Q&A: Is it cold inside?](../../transcriptions/yt--ePXx9kO3uQ.md) [https://www.youtube.com/watch?v=-ePXx9kO3uQ](https://www.youtube.com/watch?v=-ePXx9kO3uQ)
 * [Community FYI: Snutt has no clean shoes, so he can't get drunk. Swedes are weird](../../transcriptions/yt-ZBpgMm7_Mt0.md) [https://www.youtube.com/watch?v=ZBpgMm7_Mt0](https://www.youtube.com/watch?v=ZBpgMm7_Mt0)
 
+## December 8th, 2020 Livestream
+* [Q&A: Why do you guys speak English so fluently in Sweden?](../../transcriptions/yt-aFcW-Zs8DzE.md) [https://www.youtube.com/watch?v=aFcW-Zs8DzE](https://www.youtube.com/watch?v=aFcW-Zs8DzE)
+
 ## March 12th, 2020 Patch Notes
 * [Jace Talk: Finding the most amazing pipes](../../transcriptions/yt-DsbHR1Nc8fw,67.81774999999999,97.51408333333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98)
 * [Jace Talk: Jumbo Stay](../../transcriptions/yt-DsbHR1Nc8fw,160.70220833333332,176.63479166666664.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=160&end=177](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=160&end=177)

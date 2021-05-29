@@ -3,6 +3,7 @@ title: "February 23rd, 2021 Livestream Snutt Talk: Ray Tracing & DLSS"
 date: "2021-02-23"
 layout: transcript
 topics:
+    - "technology/directx"
     - "technology/graphics/dlss"
     - "technology/graphics/ray-tracing"
     - "technology/unreal-engine"
@@ -12,6 +13,7 @@ topics:
 https://www.youtube.com/watch?v=S7e0g_0B8GM
 
 ### Topics
+* [Technology > DirectX](../topics/technology/directx.md)
 * [Technology > Graphics > DLSS](../topics/technology/graphics/dlss.md)
 * [Technology > Graphics > Ray Tracing](../topics/technology/graphics/ray-tracing.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)

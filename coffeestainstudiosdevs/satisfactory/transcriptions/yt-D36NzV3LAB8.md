@@ -8,7 +8,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: What are the plans to improve multiplayer bugs in the future?
 https://www.youtube.com/watch?v=D36NzV3LAB8
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Multiplayer sync bug fix when?](./yt-goZSVbncdJI.md) [https://www.youtube.com/watch?v=goZSVbncdJI](https://www.youtube.com/watch?v=goZSVbncdJI)
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: When do you think the focus will be on fixing Multiplayer?](./yt-3alTbxWgPnc.md) [https://www.youtube.com/watch?v=3alTbxWgPnc](https://www.youtube.com/watch?v=3alTbxWgPnc)
 
 
 ### Topics

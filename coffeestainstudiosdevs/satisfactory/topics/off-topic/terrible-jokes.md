@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Terrible Jokes
 
+## May 25th, 2021 Livestream
+* [Terrible Jokes: Muted](../../transcriptions/yt-YLPrsAFrPRQ.md) [https://www.youtube.com/watch?v=YLPrsAFrPRQ](https://www.youtube.com/watch?v=YLPrsAFrPRQ)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Mug?](../../transcriptions/yt-MNWvQrzo_Rk.md) [https://www.youtube.com/watch?v=MNWvQrzo_Rk](https://www.youtube.com/watch?v=MNWvQrzo_Rk)
 * [Q&A: Want to hear a UDP joke?](../../transcriptions/yt-HOv4TSMIrzU.md) [https://www.youtube.com/watch?v=HOv4TSMIrzU](https://www.youtube.com/watch?v=HOv4TSMIrzU)

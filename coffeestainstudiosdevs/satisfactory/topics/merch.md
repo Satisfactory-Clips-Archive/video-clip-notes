@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../topics.md) > Merch
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## May 25th, 2021 Livestream
+* [Q&A: How many Doggos are there in the world?](../transcriptions/yt-PtsEfgW-R7o.md) [https://www.youtube.com/watch?v=PtsEfgW-R7o](https://www.youtube.com/watch?v=PtsEfgW-R7o)
+* [Q&A: What about the enamel cup?](../transcriptions/yt-bv7CJbAYnBM.md) [https://www.youtube.com/watch?v=bv7CJbAYnBM](https://www.youtube.com/watch?v=bv7CJbAYnBM)
+* [Q&A: EU Shop?](../transcriptions/yt-GRcTICKsCGM.md) [https://www.youtube.com/watch?v=GRcTICKsCGM](https://www.youtube.com/watch?v=GRcTICKsCGM)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Any news about the Cup?](../transcriptions/yt-j-2qEMyqXCY.md) [https://www.youtube.com/watch?v=j-2qEMyqXCY](https://www.youtube.com/watch?v=j-2qEMyqXCY)
 

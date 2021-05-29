@@ -5,6 +5,20 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## May 28th, 2021 Livestream
+* [Snutt & Ben Talked: Consequences of too many lights](../../transcriptions/yt-dyqOMITwLsY,783.279574,808.618017.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809)
+
+## May 25th, 2021 Livestream
+* [Q&A: When can we get in-game Jace/Snutt Pioneer skins?](../../transcriptions/yt-ikM8j671oEc.md) [https://www.youtube.com/watch?v=ikM8j671oEc](https://www.youtube.com/watch?v=ikM8j671oEc)
+* [Q&A: Is Simon going to delay the next Update?](../../transcriptions/yt-hanQne_890c.md) [https://www.youtube.com/watch?v=hanQne_890c](https://www.youtube.com/watch?v=hanQne_890c)
+* [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 2)](../../transcriptions/yt-N3p6MeSNbak.md) [https://www.youtube.com/watch?v=N3p6MeSNbak](https://www.youtube.com/watch?v=N3p6MeSNbak)
+* [Q&A: There is Pirate Language?](../../transcriptions/yt-IiD0uWYDg8w.md) [https://www.youtube.com/watch?v=IiD0uWYDg8w](https://www.youtube.com/watch?v=IiD0uWYDg8w)
+* [Q&A: How many Doggos are there in the world?](../../transcriptions/yt-PtsEfgW-R7o.md) [https://www.youtube.com/watch?v=PtsEfgW-R7o](https://www.youtube.com/watch?v=PtsEfgW-R7o)
+* [Q&A: What's growing faster, Snutt's beard or Jace's hair?](../../transcriptions/yt-ZhS3RO6Sc_c.md) [https://www.youtube.com/watch?v=ZhS3RO6Sc_c](https://www.youtube.com/watch?v=ZhS3RO6Sc_c)
+* [Q&A: Have you both done programming?](../../transcriptions/yt-TicJq4FxVFA.md) [https://www.youtube.com/watch?v=TicJq4FxVFA](https://www.youtube.com/watch?v=TicJq4FxVFA)
+* [Q&A: What was your favourite item to work on as programmers?](../../transcriptions/yt-1xZFoA2XyS8.md) [https://www.youtube.com/watch?v=1xZFoA2XyS8](https://www.youtube.com/watch?v=1xZFoA2XyS8)
+* [Random: Snutt plays with his phone](../../transcriptions/yt-JFYNrAFgkko.md) [https://www.youtube.com/watch?v=JFYNrAFgkko](https://www.youtube.com/watch?v=JFYNrAFgkko)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Does Jace like PB&J Sandwiches?](../../transcriptions/yt-98TBLUBhlhI.md) [https://www.youtube.com/watch?v=98TBLUBhlhI](https://www.youtube.com/watch?v=98TBLUBhlhI)
 * [Q&A: Does Jace like a glass of milk though?](../../transcriptions/yt-SZQNxcD7qmk.md) [https://www.youtube.com/watch?v=SZQNxcD7qmk](https://www.youtube.com/watch?v=SZQNxcD7qmk)

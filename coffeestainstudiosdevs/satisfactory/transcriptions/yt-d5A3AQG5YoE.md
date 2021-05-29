@@ -10,7 +10,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Any new aliens coming?
 https://www.youtube.com/watch?v=d5A3AQG5YoE
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Plans to add new mobs?](./yt-l7vpFCb_aeo.md) [https://www.youtube.com/watch?v=l7vpFCb_aeo](https://www.youtube.com/watch?v=l7vpFCb_aeo)
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: What do you think about tougher aliens blocking late-game resources?](./yt--x5Y_5tR43A.md) [https://www.youtube.com/watch?v=-x5Y_5tR43A](https://www.youtube.com/watch?v=-x5Y_5tR43A)
 
 
 ### Topics

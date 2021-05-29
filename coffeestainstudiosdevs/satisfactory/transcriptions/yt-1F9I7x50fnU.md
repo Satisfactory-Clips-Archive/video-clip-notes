@@ -8,12 +8,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: DLSS?
 https://www.youtube.com/watch?v=1F9I7x50fnU
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as March 2021 and as early as February 2021.</summary>
-
-* [March 2nd, 2021 Livestream Q&A: With the Nvidia DLSS plugin released for Unreal Engine 4.26, any thoughts on upgrading to that?](./yt-vRPycwAPQHI.md) [https://www.youtube.com/watch?v=vRPycwAPQHI](https://www.youtube.com/watch?v=vRPycwAPQHI)
-* [February 16th, 2021 Livestream Q&A: When does Satisfactory get DLSS 2.0, since it was open to other games?](./yt-z4088brm0rg.md) [https://www.youtube.com/watch?v=z4088brm0rg](https://www.youtube.com/watch?v=z4088brm0rg)
-</details>
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Are you planning ray-tracing or DLSS in the future?](./yt-b9mNEeXtILM.md) [https://www.youtube.com/watch?v=b9mNEeXtILM](https://www.youtube.com/watch?v=b9mNEeXtILM)
 
 
 ### Topics

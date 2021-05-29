@@ -14,9 +14,20 @@ date: Last Modified
 * [Panakotta](../topics/community/panakotta.md)
 * [Satisfactory Calculator](../topics/community/satisfactory-calculator.md)
 * [Satisfactory News](../topics/community/satisfactory-news.md)
+* [SignpostMarv](../topics/community/signpostmarv.md)
 * [Smerkin](../topics/community/smerkin.md)
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
+
+## May 25th, 2021 Livestream
+* [Terrible Jokes: Muted](../transcriptions/yt-YLPrsAFrPRQ.md) [https://www.youtube.com/watch?v=YLPrsAFrPRQ](https://www.youtube.com/watch?v=YLPrsAFrPRQ)
+* [Community FYI: I write Satisfactory fan-fiction](../transcriptions/yt-v4fB0C5N8To.md) [https://www.youtube.com/watch?v=v4fB0C5N8To](https://www.youtube.com/watch?v=v4fB0C5N8To)
+* [Community FYI: "We're making a chill game" - *goes into a dark cave*](../transcriptions/yt-T3HTo6rKIAI.md) [https://www.youtube.com/watch?v=T3HTo6rKIAI](https://www.youtube.com/watch?v=T3HTo6rKIAI)
+* [Community FYI: If the Giant Crab can't break walls then I'm making a zoo](../transcriptions/yt-mX8bc3BMIMs.md) [https://www.youtube.com/watch?v=mX8bc3BMIMs](https://www.youtube.com/watch?v=mX8bc3BMIMs)
+* [Q&A: How many hours to be considered a real Satisfactory player?](../transcriptions/yt-w9rwc-OvRrE.md) [https://www.youtube.com/watch?v=w9rwc-OvRrE](https://www.youtube.com/watch?v=w9rwc-OvRrE)
+* [Q&A: There is Pirate Language?](../transcriptions/yt-IiD0uWYDg8w.md) [https://www.youtube.com/watch?v=IiD0uWYDg8w](https://www.youtube.com/watch?v=IiD0uWYDg8w)
+* [Community FYI: Having placed 300k foundations I can confirm that glass is more optimised than solid](../transcriptions/yt-ptKu3sqVJo8.md) [https://www.youtube.com/watch?v=ptKu3sqVJo8](https://www.youtube.com/watch?v=ptKu3sqVJo8)
+* [Community FYI: I see you guys are getting absolutely destroyed on twitter by Deep Rock Galactic](../transcriptions/yt-_Cuk9s2qD9c.md) [https://www.youtube.com/watch?v=_Cuk9s2qD9c](https://www.youtube.com/watch?v=_Cuk9s2qD9c)
 
 ## May 18th, 2021 Livestream
 * [Snutt & Jace Talk: Jace is back](../transcriptions/yt-NcaVeVq8uig.md) [https://www.youtube.com/watch?v=NcaVeVq8uig](https://www.youtube.com/watch?v=NcaVeVq8uig)
@@ -147,9 +158,9 @@ date: Last Modified
 * [Outro](../transcriptions/yt-njXBs_p2l1w,713.1457666666666,757.1897666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758)
 
 ## December 8th, 2020 Livestream
+* [Q&A: Which studio has the goofiest Community Managers?](../transcriptions/yt-crxg2tpqQSc.md) [https://www.youtube.com/watch?v=crxg2tpqQSc](https://www.youtube.com/watch?v=crxg2tpqQSc)
 * [Q&A: How do you use the feedback from us when we play the game?](../transcriptions/yt-yEMTgjDHzI8.md) [https://www.youtube.com/watch?v=yEMTgjDHzI8](https://www.youtube.com/watch?v=yEMTgjDHzI8)
 * [Q&A: What's the most outrageous suggestion you've gotten from the community?](../transcriptions/yt-8T_tAhaxVvw.md) [https://www.youtube.com/watch?v=8T_tAhaxVvw](https://www.youtube.com/watch?v=8T_tAhaxVvw)
-* [Q&A: Which studio has the goofiest Community Managers?](../transcriptions/yt-crxg2tpqQSc.md) [https://www.youtube.com/watch?v=crxg2tpqQSc](https://www.youtube.com/watch?v=crxg2tpqQSc)
 
 ## November 24th, 2020 Livestream
 * [Q&A: Community Translation do we get paid or is it free unlike buying the game?](../transcriptions/yt-HZFZLzljSRE.md) [https://www.youtube.com/watch?v=HZFZLzljSRE](https://www.youtube.com/watch?v=HZFZLzljSRE)
@@ -166,9 +177,6 @@ date: Last Modified
 ## November 10th, 2020 Livestream
 * [Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?](../transcriptions/yt-tv1pCGiRtkM.md) [https://www.youtube.com/watch?v=tv1pCGiRtkM](https://www.youtube.com/watch?v=tv1pCGiRtkM)
 * [Jace Talk: Q&A Site](../transcriptions/yt-zpx-sze1Sxw.md) [https://www.youtube.com/watch?v=zpx-sze1Sxw](https://www.youtube.com/watch?v=zpx-sze1Sxw)
-
-## November 3rd, 2020 Livestream
-* [Snutt Talk: SignpostMarv clips up all the Questions & Answers](../transcriptions/yt-BIfBmiglakE.md) [https://www.youtube.com/watch?v=BIfBmiglakE](https://www.youtube.com/watch?v=BIfBmiglakE)
 
 ## October 13th, 2020 Livestream
 * [Q&A: Has there been any community interest in Building mirror or flip options?](../transcriptions/yt-sSGirp3aoDk.md) [https://www.youtube.com/watch?v=sSGirp3aoDk](https://www.youtube.com/watch?v=sSGirp3aoDk)

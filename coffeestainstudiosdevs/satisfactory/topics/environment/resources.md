@@ -12,6 +12,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## May 28th, 2021 Livestream
+* [Q&A: How does picking items off the belt work?](../../transcriptions/yt-dyqOMITwLsY,1726.746974,1837.377208333333.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1726&end=1838](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1726&end=1838)
+
 ## May 18th, 2021 Livestream
 * Q&A: Quantum Computers & Superposition Oscillators; Update 5 content or separate release? [https://www.youtube.com/watch?v=gIahtVFvL68](https://www.youtube.com/watch?v=gIahtVFvL68)
 

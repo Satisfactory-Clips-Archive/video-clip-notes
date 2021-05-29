@@ -35,8 +35,8 @@ date: Last Modified
 * [Q&A: Will Gas Pipes have Headlift or Valves?](../../transcriptions/yt-Zd9lUkAlJrk.md) [https://www.youtube.com/watch?v=Zd9lUkAlJrk](https://www.youtube.com/watch?v=Zd9lUkAlJrk)
 
 ## December 8th, 2020 Livestream
-* [Q&A: What do you think of the current state of the game?](../../transcriptions/yt-RtnMVVZj0E8.md) [https://www.youtube.com/watch?v=RtnMVVZj0E8](https://www.youtube.com/watch?v=RtnMVVZj0E8)
 * [Snutt & Jace Talk: Janky, Weird, and Gross](../../transcriptions/yt-GeLStDYCAcw.md) [https://www.youtube.com/watch?v=GeLStDYCAcw](https://www.youtube.com/watch?v=GeLStDYCAcw)
+* [Q&A: What do you think of the current state of the game?](../../transcriptions/yt-RtnMVVZj0E8.md) [https://www.youtube.com/watch?v=RtnMVVZj0E8](https://www.youtube.com/watch?v=RtnMVVZj0E8)
 
 ## November 10th, 2020 Livestream
 * [Q&A: Are there Mods that you might put into the game?](../../transcriptions/yt-DAmVYd9vGbA.md) [https://www.youtube.com/watch?v=DAmVYd9vGbA](https://www.youtube.com/watch?v=DAmVYd9vGbA)

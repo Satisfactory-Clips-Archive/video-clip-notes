@@ -10,6 +10,8 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Any news about Mass Foundations or Building Blueprints?
 https://www.youtube.com/watch?v=U3HL6b4ugC4
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Mass Building?](./yt-ueGK9d55G_Q.md) [https://www.youtube.com/watch?v=ueGK9d55G_Q](https://www.youtube.com/watch?v=ueGK9d55G_Q)
+
 
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)

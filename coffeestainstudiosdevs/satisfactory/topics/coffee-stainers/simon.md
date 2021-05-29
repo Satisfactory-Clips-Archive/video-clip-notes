@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Simon
 * [Simon Saga](../../topics/coffee-stainers/simon/simon-saga.md)
 
+## May 25th, 2021 Livestream
+* [Q&A: Is Simon going to delay the next Update?](../../transcriptions/yt-hanQne_890c.md) [https://www.youtube.com/watch?v=hanQne_890c](https://www.youtube.com/watch?v=hanQne_890c)
+* [Q&A: How do you handle optimising VFX in Satisfactory?](../../transcriptions/yt-7Ac-r21T8uI.md) [https://www.youtube.com/watch?v=7Ac-r21T8uI](https://www.youtube.com/watch?v=7Ac-r21T8uI)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt Talk: The VFX shot](../../transcriptions/yt-MTrCZR2Jsgo.md) [https://www.youtube.com/watch?v=MTrCZR2Jsgo](https://www.youtube.com/watch?v=MTrCZR2Jsgo)
 * [Snutt & Jace Talk: Drones previs](../../transcriptions/yt-RXBVh7B5kxk.md) [https://www.youtube.com/watch?v=RXBVh7B5kxk](https://www.youtube.com/watch?v=RXBVh7B5kxk)

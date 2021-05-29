@@ -5,6 +5,13 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## May 28th, 2021 Livestream
+* [Snutt & Ben Talk: New Holograms](../../../transcriptions/yt-dyqOMITwLsY,945.7364583333333,1065.561195.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066)
+
+## May 25th, 2021 Livestream
+* [Q&A: Why are glass Foundations more optimised than solid Foundations?](../../../transcriptions/yt-u30RKv4VEeI.md) [https://www.youtube.com/watch?v=u30RKv4VEeI](https://www.youtube.com/watch?v=u30RKv4VEeI)
+* [Community FYI: Having placed 300k foundations I can confirm that glass is more optimised than solid](../../../transcriptions/yt-ptKu3sqVJo8.md) [https://www.youtube.com/watch?v=ptKu3sqVJo8](https://www.youtube.com/watch?v=ptKu3sqVJo8)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Are there plans for Foundations with Conveyor spaces?](../../../transcriptions/yt-vcSdumvqOHg.md) [https://www.youtube.com/watch?v=vcSdumvqOHg](https://www.youtube.com/watch?v=vcSdumvqOHg)
 

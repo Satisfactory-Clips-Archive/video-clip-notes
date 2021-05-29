@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## May 25th, 2021 Livestream
+* [Q&A: Can you talk about plans for replayability?](../transcriptions/yt-VvnI641_TLs.md) [https://www.youtube.com/watch?v=VvnI641_TLs](https://www.youtube.com/watch?v=VvnI641_TLs)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Is there any sort of Story planned?](../transcriptions/yt-8cZ-oH-WA3E.md) [https://www.youtube.com/watch?v=8cZ-oH-WA3E](https://www.youtube.com/watch?v=8cZ-oH-WA3E)
 

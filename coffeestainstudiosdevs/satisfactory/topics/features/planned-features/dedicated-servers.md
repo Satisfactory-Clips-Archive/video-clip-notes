@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## May 25th, 2021 Livestream
+* [Snutt Talk: Dedicated Servers](../../../transcriptions/yt-0QmD2JZs7-g.md) [https://www.youtube.com/watch?v=0QmD2JZs7-g](https://www.youtube.com/watch?v=0QmD2JZs7-g)
+* [Q&A: When do you think the focus will be on fixing Multiplayer?](../../../transcriptions/yt-3alTbxWgPnc.md) [https://www.youtube.com/watch?v=3alTbxWgPnc](https://www.youtube.com/watch?v=3alTbxWgPnc)
+* [Q&A: What's the status of Golf on the QA Site?](../../../transcriptions/yt-ZW_d-EY-0f4.md) [https://www.youtube.com/watch?v=ZW_d-EY-0f4](https://www.youtube.com/watch?v=ZW_d-EY-0f4)
+* [Q&A: Can we get a world co-owned by two people?](../../../transcriptions/yt-Z5z7k_CnoUs.md) [https://www.youtube.com/watch?v=Z5z7k_CnoUs](https://www.youtube.com/watch?v=Z5z7k_CnoUs)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Will Dedicated Servers be native Linux?](../../../transcriptions/yt-oaRqXpLhZ4k.md) [https://www.youtube.com/watch?v=oaRqXpLhZ4k](https://www.youtube.com/watch?v=oaRqXpLhZ4k)
 
@@ -93,8 +99,8 @@ date: Last Modified
 
 ## December 8th, 2020 Livestream
 * [Q&A: Is there a reason for a lack of Dedicated Server builds?](../../../transcriptions/yt-47gzhAEWkFM.md) [https://www.youtube.com/watch?v=47gzhAEWkFM](https://www.youtube.com/watch?v=47gzhAEWkFM)
-* [Q&A: How much configuration will we be able to do with Dedicated Servers?](../../../transcriptions/yt-Dj2hOG7UjVA.md) [https://www.youtube.com/watch?v=Dj2hOG7UjVA](https://www.youtube.com/watch?v=Dj2hOG7UjVA)
 * [Jace Talk: Multiplayer experience vs. Dedicated Server](../../../transcriptions/yt-QcD9eKlgte0.md) [https://www.youtube.com/watch?v=QcD9eKlgte0](https://www.youtube.com/watch?v=QcD9eKlgte0)
+* [Q&A: How much configuration will we be able to do with Dedicated Servers?](../../../transcriptions/yt-Dj2hOG7UjVA.md) [https://www.youtube.com/watch?v=Dj2hOG7UjVA](https://www.youtube.com/watch?v=Dj2hOG7UjVA)
 
 ## November 24th, 2020 Livestream
 * [Q&A: Dedicated Servers in Update 4?](../../../transcriptions/yt-QWirowEMRbk.md) [https://www.youtube.com/watch?v=QWirowEMRbk](https://www.youtube.com/watch?v=QWirowEMRbk)

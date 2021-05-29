@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
+## May 25th, 2021 Livestream
+* [Q&A: What's the memeiest and stupidest thing you've seen a dev add in?](../../../transcriptions/yt-qYRsGrGlVqg.md) [https://www.youtube.com/watch?v=qYRsGrGlVqg](https://www.youtube.com/watch?v=qYRsGrGlVqg)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: Linus made a test render (Part 1)](../../../transcriptions/yt-iXslbiZMQ3Y.md) [https://www.youtube.com/watch?v=iXslbiZMQ3Y](https://www.youtube.com/watch?v=iXslbiZMQ3Y)
 * [Snutt & Jace Talk: Linus made a test render (Part 2)](../../../transcriptions/yt-18InqGOAWcc.md) [https://www.youtube.com/watch?v=18InqGOAWcc](https://www.youtube.com/watch?v=18InqGOAWcc)

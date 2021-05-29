@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## May 25th, 2021 Livestream
+* [Q&A: Can we have FICSIT stock trading & an economy system?](../../../transcriptions/yt-aXNyMSx6VyM.md) [https://www.youtube.com/watch?v=aXNyMSx6VyM](https://www.youtube.com/watch?v=aXNyMSx6VyM)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Will there be functionality for the HUB inside?](../../../transcriptions/yt-4cBtSl7Pwwk.md) [https://www.youtube.com/watch?v=4cBtSl7Pwwk](https://www.youtube.com/watch?v=4cBtSl7Pwwk)
 * [Q&A: What about toaster support?](../../../transcriptions/yt-K-9W322q7fs.md) [https://www.youtube.com/watch?v=K-9W322q7fs](https://www.youtube.com/watch?v=K-9W322q7fs)
@@ -55,6 +58,9 @@ date: Last Modified
 * [Q&A: Why is there a Coffee Cup in the HUB called "BRY"?](../../../transcriptions/yt-cIuO0sScXGg.md) [https://www.youtube.com/watch?v=cIuO0sScXGg](https://www.youtube.com/watch?v=cIuO0sScXGg)
 * [Q&A: Why can't we flush the toilet?](../../../transcriptions/yt-En8viTUiojc.md) [https://www.youtube.com/watch?v=En8viTUiojc](https://www.youtube.com/watch?v=En8viTUiojc)
 * [Q&A: Are you going to add more functionality to the HUB?](../../../transcriptions/yt-lacIs2by7tk.md) [https://www.youtube.com/watch?v=lacIs2by7tk](https://www.youtube.com/watch?v=lacIs2by7tk)
+
+## December 8th, 2020 Livestream
+* [Snutt & Jace Talk: The Trading Post](../../../transcriptions/yt-bJN6tKv9P3s.md) [https://www.youtube.com/watch?v=bJN6tKv9P3s](https://www.youtube.com/watch?v=bJN6tKv9P3s)
 
 ## November 24th, 2020 Livestream
 * [Q&A: Toilet Plunger for The HUB when?](../../../transcriptions/yt-1-xFJyIBosU.md) [https://www.youtube.com/watch?v=1-xFJyIBosU](https://www.youtube.com/watch?v=1-xFJyIBosU)

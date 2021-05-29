@@ -8,7 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Can we destroy those Gas pillars?
 https://www.youtube.com/watch?v=PcJHdVtZSp0
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Can we harvest the Fart Rocks?](./yt-jCXP_YeRSn0.md) [https://www.youtube.com/watch?v=jCXP_YeRSn0](https://www.youtube.com/watch?v=jCXP_YeRSn0)
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Can we use Poison Gas in some way?](./yt-zjpwvKcY2ss.md) [https://www.youtube.com/watch?v=zjpwvKcY2ss](https://www.youtube.com/watch?v=zjpwvKcY2ss)
 
 
 ### Topics

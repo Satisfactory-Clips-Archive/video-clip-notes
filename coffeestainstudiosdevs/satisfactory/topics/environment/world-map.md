@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## May 28th, 2021 Livestream
+* [Q&A: What's coming in the future for optimisations to Satisfactory?](../../transcriptions/yt-dyqOMITwLsY,1837.377208333333,1944.0671249999998.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945)
+
+## May 25th, 2021 Livestream
+* [Q&A: How many Doggos are there in the world?](../../transcriptions/yt-PtsEfgW-R7o.md) [https://www.youtube.com/watch?v=PtsEfgW-R7o](https://www.youtube.com/watch?v=PtsEfgW-R7o)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Will we get a bigger Map?](../../transcriptions/yt-LPvrY2LJghE.md) [https://www.youtube.com/watch?v=LPvrY2LJghE](https://www.youtube.com/watch?v=LPvrY2LJghE)
 * [Q&A: Ideas to add something in No Man's Land?](../../transcriptions/yt-Oe1kKDYZKek.md) [https://www.youtube.com/watch?v=Oe1kKDYZKek](https://www.youtube.com/watch?v=Oe1kKDYZKek)

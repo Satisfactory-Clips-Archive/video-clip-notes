@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## May 25th, 2021 Livestream
+* [Q&A: Can we have FICSIT stock trading & an economy system?](../../../transcriptions/yt-aXNyMSx6VyM.md) [https://www.youtube.com/watch?v=aXNyMSx6VyM](https://www.youtube.com/watch?v=aXNyMSx6VyM)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Is the Golden Cup only a reward in EA, or will there be a final release as well?](../../../transcriptions/yt-T38Lc3xS3BE.md) [https://www.youtube.com/watch?v=T38Lc3xS3BE](https://www.youtube.com/watch?v=T38Lc3xS3BE)
 

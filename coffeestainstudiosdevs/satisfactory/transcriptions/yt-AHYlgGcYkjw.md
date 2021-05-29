@@ -3,6 +3,7 @@ title: "December 8th, 2020 Livestream Q&A: If they refunded how could you get so
 date: "2020-12-08"
 layout: transcript
 topics:
+    - "retail"
     - "satisfactory-updates/seasonal-events/fics-mas"
     - "trolling"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=AHYlgGcYkjw
 
 ### Topics
+* [Retail](../topics/retail.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Trolling](../topics/trolling.md)
 

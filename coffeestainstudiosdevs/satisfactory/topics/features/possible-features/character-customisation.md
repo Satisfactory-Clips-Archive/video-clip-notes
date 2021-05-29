@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Character Customisation
 
+## May 25th, 2021 Livestream
+* [Q&A: When can we get in-game Jace/Snutt Pioneer skins?](../../../transcriptions/yt-ikM8j671oEc.md) [https://www.youtube.com/watch?v=ikM8j671oEc](https://www.youtube.com/watch?v=ikM8j671oEc)
+* [Q&A: Will avatar skins be added to the game?](../../../transcriptions/yt-imDJ1KxXSgM.md) [https://www.youtube.com/watch?v=imDJ1KxXSgM](https://www.youtube.com/watch?v=imDJ1KxXSgM)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Character Customisation?](../../../transcriptions/yt-pju6G7NEuq8.md) [https://www.youtube.com/watch?v=pju6G7NEuq8](https://www.youtube.com/watch?v=pju6G7NEuq8)
 

@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## May 25th, 2021 Livestream
+* [Q&A: When do you think the focus will be on fixing Multiplayer?](../../../transcriptions/yt-3alTbxWgPnc.md) [https://www.youtube.com/watch?v=3alTbxWgPnc](https://www.youtube.com/watch?v=3alTbxWgPnc)
+* [Q&A: Can you talk about plans for replayability?](../../../transcriptions/yt-VvnI641_TLs.md) [https://www.youtube.com/watch?v=VvnI641_TLs](https://www.youtube.com/watch?v=VvnI641_TLs)
+* [Q&A: How many Updates before Release?](../../../transcriptions/yt-dHKlfnU7pm8.md) [https://www.youtube.com/watch?v=dHKlfnU7pm8](https://www.youtube.com/watch?v=dHKlfnU7pm8)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Any idea how many Tiers we'd be looking at towards the end of development?](../../../transcriptions/yt--ZE3BrvTn1g.md) [https://www.youtube.com/watch?v=-ZE3BrvTn1g](https://www.youtube.com/watch?v=-ZE3BrvTn1g)
 

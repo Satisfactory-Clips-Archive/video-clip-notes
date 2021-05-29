@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## May 25th, 2021 Livestream
+* [Q&A: Will the game ever be "Let's Game It Out"-proof?](../../transcriptions/yt-q0hFHz2su4M.md) [https://www.youtube.com/watch?v=q0hFHz2su4M](https://www.youtube.com/watch?v=q0hFHz2su4M)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: How scared of you of the next Let's Game It Out video?](../../transcriptions/yt-8sbjtuLdwbA.md) [https://www.youtube.com/watch?v=8sbjtuLdwbA](https://www.youtube.com/watch?v=8sbjtuLdwbA)
 

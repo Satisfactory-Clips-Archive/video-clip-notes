@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > Ray Tracing
 
+## May 25th, 2021 Livestream
+* [Q&A: Are you planning ray-tracing or DLSS in the future?](../../../transcriptions/yt-b9mNEeXtILM.md) [https://www.youtube.com/watch?v=b9mNEeXtILM](https://www.youtube.com/watch?v=b9mNEeXtILM)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Will Satisfactory support ray tracing?](../../../transcriptions/yt-xiTNXgLoNK8.md) [https://www.youtube.com/watch?v=xiTNXgLoNK8](https://www.youtube.com/watch?v=xiTNXgLoNK8)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Particle Accelerator
 
+## May 25th, 2021 Livestream
+* [Snutt Talk: Redundant feature requests](../../../transcriptions/yt-TnfyBE6ARw4.md) [https://www.youtube.com/watch?v=TnfyBE6ARw4](https://www.youtube.com/watch?v=TnfyBE6ARw4)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Particle Accelerator has an unused Pipe entrance right now, are there plans for new Recipes?](../../../transcriptions/yt-hf_B-RfDt5A.md) [https://www.youtube.com/watch?v=hf_B-RfDt5A](https://www.youtube.com/watch?v=hf_B-RfDt5A)
 

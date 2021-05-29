@@ -3,7 +3,9 @@ title: "December 8th, 2020 Livestream Snutt Talk: Lights (not) confirmed!"
 date: "2020-12-08"
 layout: transcript
 topics:
+    - "community/community-highlights"
     - "features/buildables/lights"
+    - "satisfactory-updates/seasonal-events/fics-mas"
     - "technology/unreal-engine"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
@@ -11,7 +13,9 @@ topics:
 https://www.youtube.com/watch?v=9VodwDOMBl0
 
 ### Topics
+* [Community > Community Highlights](../topics/community/community-highlights.md)
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
+* [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

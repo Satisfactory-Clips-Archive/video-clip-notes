@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-lore.md) > Characters > ADA
 
+## May 25th, 2021 Livestream
+* Q&A: Can we have Jace voice ADA as well? [https://www.youtube.com/watch?v=xhEIChHi0Qc](https://www.youtube.com/watch?v=xhEIChHi0Qc)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Who is the voice actor for ADA?](../../../transcriptions/yt-pDGX-8_vTW0.md) [https://www.youtube.com/watch?v=pDGX-8_vTW0](https://www.youtube.com/watch?v=pDGX-8_vTW0)
 

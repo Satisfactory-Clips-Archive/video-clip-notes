@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## May 25th, 2021 Livestream
+* [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 2)](../../../transcriptions/yt-N3p6MeSNbak.md) [https://www.youtube.com/watch?v=N3p6MeSNbak](https://www.youtube.com/watch?v=N3p6MeSNbak)
+* [Community FYI: If the Giant Crab can't break walls then I'm making a zoo](../../../transcriptions/yt-mX8bc3BMIMs.md) [https://www.youtube.com/watch?v=mX8bc3BMIMs](https://www.youtube.com/watch?v=mX8bc3BMIMs)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Will non-floating structures ever be a thing?](../../../transcriptions/yt-xu7EL-x1qVE.md) [https://www.youtube.com/watch?v=xu7EL-x1qVE](https://www.youtube.com/watch?v=xu7EL-x1qVE)
 * [Q&A: What happened to the plans to implement a structure that powers all foundations of a factory?](../../../transcriptions/yt-1uP0bqUCsrc.md) [https://www.youtube.com/watch?v=1uP0bqUCsrc](https://www.youtube.com/watch?v=1uP0bqUCsrc)

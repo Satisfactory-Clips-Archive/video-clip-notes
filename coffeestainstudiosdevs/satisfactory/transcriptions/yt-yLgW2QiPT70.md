@@ -8,7 +8,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Will we be able to download & buy the amazing soundtrack?
 https://www.youtube.com/watch?v=yLgW2QiPT70
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Where can we get the Soundtrack?](./yt-Qu6R2XZ2On0.md) [https://www.youtube.com/watch?v=Qu6R2XZ2On0](https://www.youtube.com/watch?v=Qu6R2XZ2On0)
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Is the Soundtrack available to buy separately?](./yt-WdCt1y3TIM4.md) [https://www.youtube.com/watch?v=WdCt1y3TIM4](https://www.youtube.com/watch?v=WdCt1y3TIM4)
 
 
 ### Topics

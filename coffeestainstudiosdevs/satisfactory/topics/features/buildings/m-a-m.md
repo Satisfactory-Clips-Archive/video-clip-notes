@@ -14,6 +14,9 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Will some of the AWESOME Store items be integrated into Tiers of the M.A.M.?](../../../transcriptions/yt-o-rncE3S1wA.md) [https://www.youtube.com/watch?v=o-rncE3S1wA](https://www.youtube.com/watch?v=o-rncE3S1wA)
 
+## December 8th, 2020 Livestream
+* [Snutt & Jace Talk: The Trading Post](../../../transcriptions/yt-bJN6tKv9P3s.md) [https://www.youtube.com/watch?v=bJN6tKv9P3s](https://www.youtube.com/watch?v=bJN6tKv9P3s)
+
 ## April 10th, 2020 Video
 * [Torsten & Jace Talk: New M.A.M. Concept Art](../../../transcriptions/yt-CG-63B4g11U,426.157201,590.022878.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=426&end=591](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=426&end=591)
 

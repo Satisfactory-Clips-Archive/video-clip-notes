@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## May 28th, 2021 Livestream
+* [Q&A: What's coming in the future for optimisations to Satisfactory?](../../transcriptions/yt-dyqOMITwLsY,1837.377208333333,1944.0671249999998.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945)
+
 ## May 4th, 2021 Livestream
 * [State of Dev: How Early Access impacts Development vs. Bug Fixing](../../transcriptions/yt-geMjC76veHc.md) [https://www.youtube.com/watch?v=geMjC76veHc](https://www.youtube.com/watch?v=geMjC76veHc)
 * [Snutt Talk: Tree regrowth bugs](../../transcriptions/yt-jr12dLcIW78.md) [https://www.youtube.com/watch?v=jr12dLcIW78](https://www.youtube.com/watch?v=jr12dLcIW78)

@@ -8,7 +8,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Farming system?
 https://www.youtube.com/watch?v=1HxhGdiIGwk
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Grow things?](./yt-drp-Fjdq8Q0.md) [https://www.youtube.com/watch?v=drp-Fjdq8Q0](https://www.youtube.com/watch?v=drp-Fjdq8Q0)
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Any talk of adding Farming?](./yt-bGXZgS3dKc8.md) [https://www.youtube.com/watch?v=bGXZgS3dKc8](https://www.youtube.com/watch?v=bGXZgS3dKc8)
 
 
 ### Topics

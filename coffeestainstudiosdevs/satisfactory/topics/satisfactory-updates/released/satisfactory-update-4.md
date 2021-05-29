@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## May 28th, 2021 Livestream
+* [Q&A: What was the main issue with implementing Lights?](../../../transcriptions/yt-dyqOMITwLsY,102.398474,167.292125.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168)
+* [Snutt & Ben Talk: New Holograms](../../../transcriptions/yt-dyqOMITwLsY,945.7364583333333,1065.561195.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066)
+* [Snutt & Ben Talk: Impact of the Engine Upgrade on Conveyor Belt performance](../../../transcriptions/yt-dyqOMITwLsY,1330.7460833333332,1726.746974.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1330&end=1727](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1330&end=1727)
+
+## May 25th, 2021 Livestream
+* [State of Dev: Update 5](../../../transcriptions/yt-rz0oD16hpGw.md) [https://www.youtube.com/watch?v=rz0oD16hpGw](https://www.youtube.com/watch?v=rz0oD16hpGw)
+
 ## May 18th, 2021 Livestream
 * [State of Dev: Issues with Update 4](../../../transcriptions/yt-xDmB6Zyrr1U.md) [https://www.youtube.com/watch?v=xDmB6Zyrr1U](https://www.youtube.com/watch?v=xDmB6Zyrr1U)
 * [Q&A: Coal plants are gobbling coal like never before, have you nerfed them?](../../../transcriptions/yt-CJ8fQV1ttF4.md) [https://www.youtube.com/watch?v=CJ8fQV1ttF4](https://www.youtube.com/watch?v=CJ8fQV1ttF4)
@@ -442,16 +450,16 @@ date: Last Modified
 * [Outro](../../../transcriptions/yt-njXBs_p2l1w,713.1457666666666,757.1897666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=713&end=758)
 
 ## December 8th, 2020 Livestream
-* [Jace Talk: FICS⁕MAS leaks are not "leaks"](../../../transcriptions/yt-TOevQ69HYNA.md) [https://www.youtube.com/watch?v=TOevQ69HYNA](https://www.youtube.com/watch?v=TOevQ69HYNA)
-* [Snutt Talk: Update 4 Tier 7 changes & Early Access](../../../transcriptions/yt-X9X9MsVbDAk.md) [https://www.youtube.com/watch?v=X9X9MsVbDAk](https://www.youtube.com/watch?v=X9X9MsVbDAk)
-* [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../../transcriptions/yt-42AzC9Qk2yc.md) [https://www.youtube.com/watch?v=42AzC9Qk2yc](https://www.youtube.com/watch?v=42AzC9Qk2yc)
-* [Q&A: Will Mods break?](../../../transcriptions/yt-f1iY6Fj__E0.md) [https://www.youtube.com/watch?v=f1iY6Fj__E0](https://www.youtube.com/watch?v=f1iY6Fj__E0)
 * [State of Dev: Update 4](../../../transcriptions/yt-8tiGIPGptWQ.md) [https://www.youtube.com/watch?v=8tiGIPGptWQ](https://www.youtube.com/watch?v=8tiGIPGptWQ)
-* [Q&A: Are there plans to improve Vehicle performance for Update 4?](../../../transcriptions/yt-nat8VwaykqE.md) [https://www.youtube.com/watch?v=nat8VwaykqE](https://www.youtube.com/watch?v=nat8VwaykqE)
-* [Q&A: Any Update 4 teaser videos?](../../../transcriptions/yt-ww5wd63vgFo.md) [https://www.youtube.com/watch?v=ww5wd63vgFo](https://www.youtube.com/watch?v=ww5wd63vgFo)
-* [Q&A: Is Multiplayer desync fixed in Update 4?](../../../transcriptions/yt-OjiLxOBdkU8.md) [https://www.youtube.com/watch?v=OjiLxOBdkU8](https://www.youtube.com/watch?v=OjiLxOBdkU8)
-* [Q&A: ETA on Update 4?](../../../transcriptions/yt-2Slrxqcmay0.md) [https://www.youtube.com/watch?v=2Slrxqcmay0](https://www.youtube.com/watch?v=2Slrxqcmay0)
+* [Q&A: How does Coffee Stain feel with all Tier 1-6 stuff?](../../../transcriptions/yt-42AzC9Qk2yc.md) [https://www.youtube.com/watch?v=42AzC9Qk2yc](https://www.youtube.com/watch?v=42AzC9Qk2yc)
+* [Snutt Talk: Update 4 Tier 7 changes & Early Access](../../../transcriptions/yt-X9X9MsVbDAk.md) [https://www.youtube.com/watch?v=X9X9MsVbDAk](https://www.youtube.com/watch?v=X9X9MsVbDAk)
+* [Jace Talk: FICS⁕MAS leaks are not "leaks"](../../../transcriptions/yt-TOevQ69HYNA.md) [https://www.youtube.com/watch?v=TOevQ69HYNA](https://www.youtube.com/watch?v=TOevQ69HYNA)
 * [Q&A: As Update 4 gets closer will you be releasing more info on how to prepare for the changes?](../../../transcriptions/yt-dkVq6ix0lQM.md) [https://www.youtube.com/watch?v=dkVq6ix0lQM](https://www.youtube.com/watch?v=dkVq6ix0lQM)
+* [Q&A: Will Mods break?](../../../transcriptions/yt-f1iY6Fj__E0.md) [https://www.youtube.com/watch?v=f1iY6Fj__E0](https://www.youtube.com/watch?v=f1iY6Fj__E0)
+* [Q&A: ETA on Update 4?](../../../transcriptions/yt-2Slrxqcmay0.md) [https://www.youtube.com/watch?v=2Slrxqcmay0](https://www.youtube.com/watch?v=2Slrxqcmay0)
+* [Q&A: Is Multiplayer desync fixed in Update 4?](../../../transcriptions/yt-OjiLxOBdkU8.md) [https://www.youtube.com/watch?v=OjiLxOBdkU8](https://www.youtube.com/watch?v=OjiLxOBdkU8)
+* [Q&A: Any Update 4 teaser videos?](../../../transcriptions/yt-ww5wd63vgFo.md) [https://www.youtube.com/watch?v=ww5wd63vgFo](https://www.youtube.com/watch?v=ww5wd63vgFo)
+* [Q&A: Are there plans to improve Vehicle performance for Update 4?](../../../transcriptions/yt-nat8VwaykqE.md) [https://www.youtube.com/watch?v=nat8VwaykqE](https://www.youtube.com/watch?v=nat8VwaykqE)
 
 ## December 4th, 2020 Video
 * [Intro](../../../transcriptions/yt-KH5SkE4nzhg,,18.952266666666667.md) [https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=0&end=19](https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=0&end=19)

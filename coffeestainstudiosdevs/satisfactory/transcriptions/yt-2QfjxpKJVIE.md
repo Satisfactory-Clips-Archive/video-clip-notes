@@ -3,7 +3,7 @@ title: "January 19th, 2021 Livestream Snut Talk: Engine Upgrade - DirectX 12"
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "technology/directx"
     - "technology/unreal-engine"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=2QfjxpKJVIE
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > DirectX](../topics/technology/directx.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

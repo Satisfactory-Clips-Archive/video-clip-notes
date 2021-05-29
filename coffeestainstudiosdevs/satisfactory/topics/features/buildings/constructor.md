@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Constructor
 
+## May 28th, 2021 Livestream
+* [Snutt & Ben Talk: Other places Fog Planes are used](../../../transcriptions/yt-dyqOMITwLsY,808.618017,886.779315.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=808&end=887](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=808&end=887)
+* [Ben Talk: Other optimisations to Constructors](../../../transcriptions/yt-dyqOMITwLsY,886.779315,945.720316.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=886&end=946](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=886&end=946)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Can you make Constructors more efficient?](../../../transcriptions/yt-5ANUhKoS4uQ.md) [https://www.youtube.com/watch?v=5ANUhKoS4uQ](https://www.youtube.com/watch?v=5ANUhKoS4uQ)
 

@@ -6,6 +6,25 @@ date: Last Modified
 * [DLSS](../../topics/technology/graphics/dlss.md)
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 
+## May 28th, 2021 Livestream
+* [Q&A: What was the main issue with implementing Lights?](../../transcriptions/yt-dyqOMITwLsY,102.398474,167.292125.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168)
+* [Q&A: Can you give a quick explanation of how the system for Lights works right now?](../../transcriptions/yt-dyqOMITwLsY,199.03216666666665,448.69825.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449)
+* [Snutt & Ben Talk: Fake fog planes on Ceiling Lights](../../transcriptions/yt-dyqOMITwLsY,647.6052916666666,691.144145.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=647&end=692](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=647&end=692)
+* [Snutt & Ben Talk: Other places Fog Planes are used](../../transcriptions/yt-dyqOMITwLsY,808.618017,886.779315.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=808&end=887](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=808&end=887)
+* [Snutt & Ben Talk: New Holograms](../../transcriptions/yt-dyqOMITwLsY,945.7364583333333,1065.561195.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066)
+* [Q&A: Could you quickly describe what instancing means?](../../transcriptions/yt-dyqOMITwLsY,1065.5645,1164.0795833333332.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1065&end=1165](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1065&end=1165)
+* [Snutt & Ben Talk: Holograms now use Stencils](../../transcriptions/yt-dyqOMITwLsY,1164.0795833333332,1286.773104.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1164&end=1287](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1164&end=1287)
+* [Snutt & Ben Talk: Impact of the Engine Upgrade on Conveyor Belt performance](../../transcriptions/yt-dyqOMITwLsY,1330.7460833333332,1726.746974.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1330&end=1727](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1330&end=1727)
+
+## May 25th, 2021 Livestream
+* [Q&A: Why are glass Foundations more optimised than solid Foundations?](../../transcriptions/yt-u30RKv4VEeI.md) [https://www.youtube.com/watch?v=u30RKv4VEeI](https://www.youtube.com/watch?v=u30RKv4VEeI)
+* [Q&A: Are you considering disconnecting the Factory tick from FPS? (Part 1)](../../transcriptions/yt-YMtTIS1de9A.md) [https://www.youtube.com/watch?v=YMtTIS1de9A](https://www.youtube.com/watch?v=YMtTIS1de9A)
+* [Community FYI: Having placed 300k foundations I can confirm that glass is more optimised than solid](../../transcriptions/yt-ptKu3sqVJo8.md) [https://www.youtube.com/watch?v=ptKu3sqVJo8](https://www.youtube.com/watch?v=ptKu3sqVJo8)
+* [Q&A: How low can your FPS go before Pipes and Belts start bugging you?](../../transcriptions/yt-GFWvkkrw9_A.md) [https://www.youtube.com/watch?v=GFWvkkrw9_A](https://www.youtube.com/watch?v=GFWvkkrw9_A)
+* [Q&A: How do you handle optimising VFX in Satisfactory?](../../transcriptions/yt-7Ac-r21T8uI.md) [https://www.youtube.com/watch?v=7Ac-r21T8uI](https://www.youtube.com/watch?v=7Ac-r21T8uI)
+* [Q&A: Engine Update will make the game run better?](../../transcriptions/yt-rQlh3jeLpO4.md) [https://www.youtube.com/watch?v=rQlh3jeLpO4](https://www.youtube.com/watch?v=rQlh3jeLpO4)
+* [Q&A: Are you considering disconnecting the Factory tick from FPS? (Part 2)](../../transcriptions/yt-_uigYftwYFo.md) [https://www.youtube.com/watch?v=_uigYftwYFo](https://www.youtube.com/watch?v=_uigYftwYFo)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Is there a fix so the new lights emit shadows?](../../transcriptions/yt-wIvvNslWt78.md) [https://www.youtube.com/watch?v=wIvvNslWt78](https://www.youtube.com/watch?v=wIvvNslWt78)
 * [Q&A: Does the game server host without graphics rendering fix some of the issues?](../../transcriptions/yt-j3QyZRmqpyw.md) [https://www.youtube.com/watch?v=j3QyZRmqpyw](https://www.youtube.com/watch?v=j3QyZRmqpyw)
@@ -36,7 +55,6 @@ date: Last Modified
 ## February 23rd, 2021 Livestream
 * [Q&A: If we're not getting Dedicated Servers any time soon, is it possible to get disabled rendering?](../../transcriptions/yt-qiF-rpSnoTI.md) [https://www.youtube.com/watch?v=qiF-rpSnoTI](https://www.youtube.com/watch?v=qiF-rpSnoTI)
 * [Q&A: Third Person View?](../../transcriptions/yt-wcP5kwfOfSc.md) [https://www.youtube.com/watch?v=wcP5kwfOfSc](https://www.youtube.com/watch?v=wcP5kwfOfSc)
-* [Q&A: Is DirectX 12 fully supported now?](../../transcriptions/yt-zJ3RVfHpogY.md) [https://www.youtube.com/watch?v=zJ3RVfHpogY](https://www.youtube.com/watch?v=zJ3RVfHpogY)
 
 ## February 16th, 2021 Livestream
 * [Q&A: Have you fixed the gamma?](../../transcriptions/yt-2NIYN2OWrWs.md) [https://www.youtube.com/watch?v=2NIYN2OWrWs](https://www.youtube.com/watch?v=2NIYN2OWrWs)
@@ -59,13 +77,11 @@ date: Last Modified
 * [Q&A: Is there any plan to add the r.screenpercentage setting for folks on 4k or high-res screens?](../../transcriptions/yt-p3zdRLbGwsk.md) [https://www.youtube.com/watch?v=p3zdRLbGwsk](https://www.youtube.com/watch?v=p3zdRLbGwsk)
 * [Snutt Talk: We're not using a linear colour space](../../transcriptions/yt-jigwsKo5YKY.md) [https://www.youtube.com/watch?v=jigwsKo5YKY](https://www.youtube.com/watch?v=jigwsKo5YKY)
 * [Q&A: Any Vulkan support?](../../transcriptions/yt-9_yf4tON8MM.md) [https://www.youtube.com/watch?v=9_yf4tON8MM](https://www.youtube.com/watch?v=9_yf4tON8MM)
-* [Snut Talk: Engine Upgrade - DirectX 12](../../transcriptions/yt-2QfjxpKJVIE.md) [https://www.youtube.com/watch?v=2QfjxpKJVIE](https://www.youtube.com/watch?v=2QfjxpKJVIE)
 
 ## December 8th, 2020 Livestream
 * [Q&A: Look's like the game is performing better - what went wrong?](../../transcriptions/yt-x7dc9P7vEGQ.md) [https://www.youtube.com/watch?v=x7dc9P7vEGQ](https://www.youtube.com/watch?v=x7dc9P7vEGQ)
-* [Snutt Talk: Emmissive Materials](../../transcriptions/yt-nYpEI8hZEgU.md) [https://www.youtube.com/watch?v=nYpEI8hZEgU](https://www.youtube.com/watch?v=nYpEI8hZEgU)
-* [Q&A: DirectX 12 when?](../../transcriptions/yt-BxAAQTxvy-Y.md) [https://www.youtube.com/watch?v=BxAAQTxvy-Y](https://www.youtube.com/watch?v=BxAAQTxvy-Y)
 * [Snutt & Jace Talk: Water VFX](../../transcriptions/yt-rALTAvblpEM.md) [https://www.youtube.com/watch?v=rALTAvblpEM](https://www.youtube.com/watch?v=rALTAvblpEM)
+* [Snutt Talk: Emmissive Materials](../../transcriptions/yt-nYpEI8hZEgU.md) [https://www.youtube.com/watch?v=nYpEI8hZEgU](https://www.youtube.com/watch?v=nYpEI8hZEgU)
 
 ## November 27th, 2020 Video
 * [Jace Talk: Improvements to Glass Shaders](../../transcriptions/yt-0kmDHBWf640,584.3170666666667,607.2066.md) [https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=584&end=608](https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=584&end=608)

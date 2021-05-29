@@ -9,7 +9,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Update on Cup Merch?
 https://www.youtube.com/watch?v=EwycHQo44KE
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Any news about the Cup?](./yt-j-2qEMyqXCY.md) [https://www.youtube.com/watch?v=j-2qEMyqXCY](https://www.youtube.com/watch?v=j-2qEMyqXCY)
+This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: What about the enamel cup?](./yt-bv7CJbAYnBM.md) [https://www.youtube.com/watch?v=bv7CJbAYnBM](https://www.youtube.com/watch?v=bv7CJbAYnBM)
 
 
 ### Topics

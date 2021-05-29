@@ -4,6 +4,22 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## May 25th, 2021 Livestream
+* Q&A: Can we have Jace voice ADA as well? [https://www.youtube.com/watch?v=xhEIChHi0Qc](https://www.youtube.com/watch?v=xhEIChHi0Qc)
+* [Q&A: When can we get in-game Jace/Snutt Pioneer skins?](../../transcriptions/yt-ikM8j671oEc.md) [https://www.youtube.com/watch?v=ikM8j671oEc](https://www.youtube.com/watch?v=ikM8j671oEc)
+* [State of Dev: Update 5](../../transcriptions/yt-rz0oD16hpGw.md) [https://www.youtube.com/watch?v=rz0oD16hpGw](https://www.youtube.com/watch?v=rz0oD16hpGw)
+* [Snutt Talk: Dedicated Servers](../../transcriptions/yt-0QmD2JZs7-g.md) [https://www.youtube.com/watch?v=0QmD2JZs7-g](https://www.youtube.com/watch?v=0QmD2JZs7-g)
+* [Q&A: Is Simon going to delay the next Update?](../../transcriptions/yt-hanQne_890c.md) [https://www.youtube.com/watch?v=hanQne_890c](https://www.youtube.com/watch?v=hanQne_890c)
+* [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 2)](../../transcriptions/yt-N3p6MeSNbak.md) [https://www.youtube.com/watch?v=N3p6MeSNbak](https://www.youtube.com/watch?v=N3p6MeSNbak)
+* [Q&A: How many Doggos are there in the world?](../../transcriptions/yt-PtsEfgW-R7o.md) [https://www.youtube.com/watch?v=PtsEfgW-R7o](https://www.youtube.com/watch?v=PtsEfgW-R7o)
+* [Q&A: Can you talk about plans for replayability?](../../transcriptions/yt-VvnI641_TLs.md) [https://www.youtube.com/watch?v=VvnI641_TLs](https://www.youtube.com/watch?v=VvnI641_TLs)
+* [Q&A: Can Jace juggle?](../../transcriptions/yt-ClAUAVPmTnY.md) [https://www.youtube.com/watch?v=ClAUAVPmTnY](https://www.youtube.com/watch?v=ClAUAVPmTnY)
+* [Q&A: What's growing faster, Snutt's beard or Jace's hair?](../../transcriptions/yt-ZhS3RO6Sc_c.md) [https://www.youtube.com/watch?v=ZhS3RO6Sc_c](https://www.youtube.com/watch?v=ZhS3RO6Sc_c)
+* [Q&A: Does it hurt having a piercing in your lip?](../../transcriptions/yt-YM_8Kq1EkLQ.md) [https://www.youtube.com/watch?v=YM_8Kq1EkLQ](https://www.youtube.com/watch?v=YM_8Kq1EkLQ)
+* [Q&A: Have you both done programming?](../../transcriptions/yt-TicJq4FxVFA.md) [https://www.youtube.com/watch?v=TicJq4FxVFA](https://www.youtube.com/watch?v=TicJq4FxVFA)
+* [Q&A: Jace is no longer allowed to program again](../../transcriptions/yt-hrzcMd0csWE.md) [https://www.youtube.com/watch?v=hrzcMd0csWE](https://www.youtube.com/watch?v=hrzcMd0csWE)
+* [Q&A: What was your favourite item to work on as programmers?](../../transcriptions/yt-1xZFoA2XyS8.md) [https://www.youtube.com/watch?v=1xZFoA2XyS8](https://www.youtube.com/watch?v=1xZFoA2XyS8)
+
 ## May 18th, 2021 Livestream
 * [Snutt & Jace Talk: Jace is back](../../transcriptions/yt-NcaVeVq8uig.md) [https://www.youtube.com/watch?v=NcaVeVq8uig](https://www.youtube.com/watch?v=NcaVeVq8uig)
 * [Q&A: Train Collisions, soon / far away?](../../transcriptions/yt-1JyWZYpxLsk.md) [https://www.youtube.com/watch?v=1JyWZYpxLsk](https://www.youtube.com/watch?v=1JyWZYpxLsk)

@@ -30,3 +30,6 @@ date: Last Modified
 ## March 30th, 2021 Livestream
 * [Snutt Talk: Community Highlights entry reminds Snutt of early trailer](../../transcriptions/yt-_F411Nlu46Q.md) [https://www.youtube.com/watch?v=_F411Nlu46Q](https://www.youtube.com/watch?v=_F411Nlu46Q)
 * [Snutt Talk: Community Highlights entry illustrates pre-conveyor lift Satisfactory](../../transcriptions/yt-jokJfL5ds8U.md) [https://www.youtube.com/watch?v=jokJfL5ds8U](https://www.youtube.com/watch?v=jokJfL5ds8U)
+
+## December 8th, 2020 Livestream
+* [Snutt Talk: Lights (not) confirmed!](../../transcriptions/yt-9VodwDOMBl0.md) [https://www.youtube.com/watch?v=9VodwDOMBl0](https://www.youtube.com/watch?v=9VodwDOMBl0)
