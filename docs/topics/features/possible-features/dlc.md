@@ -13,6 +13,7 @@ date: Last Modified
 * [Community FYI: Toilet DLC can't be free](../../../transcriptions/yt-ytgi0IDEQYo.md) [https://www.youtube.com/watch?v=ytgi0IDEQYo](https://www.youtube.com/watch?v=ytgi0IDEQYo)
 * [Community FYI: Game needs Dyson Sphere soon or it'll lose people](../../../transcriptions/yt-IegIG0LR1-4.md) [https://www.youtube.com/watch?v=IegIG0LR1-4](https://www.youtube.com/watch?v=IegIG0LR1-4)
 * Q&A: What's a DLC? [https://www.youtube.com/watch?v=Y8BcGbtkWf0](https://www.youtube.com/watch?v=Y8BcGbtkWf0)
+* Q&A: Does the Toilet DLC feed into AWESOME Sink? [https://www.youtube.com/watch?v=Ka4Y6908xq0](https://www.youtube.com/watch?v=Ka4Y6908xq0)
 * [Q&A: Will Toilet DLC require Pipes?](../../../transcriptions/yt-99HzTmnXLaE.md) [https://www.youtube.com/watch?v=99HzTmnXLaE](https://www.youtube.com/watch?v=99HzTmnXLaE)
 * [Q&A: Will DLCs have microtransactions per flush?](../../../transcriptions/yt-25Uqa4KOKqc.md) [https://www.youtube.com/watch?v=25Uqa4KOKqc](https://www.youtube.com/watch?v=25Uqa4KOKqc)
 * [Q&A: Toilet Paper DLC?](../../../transcriptions/yt-BEv9D4YpBJk.md) [https://www.youtube.com/watch?v=BEv9D4YpBJk](https://www.youtube.com/watch?v=BEv9D4YpBJk)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
+## June 1st, 2021 Livestream
+* Q&A: Does the Toilet DLC feed into AWESOME Sink? [https://www.youtube.com/watch?v=Ka4Y6908xq0](https://www.youtube.com/watch?v=Ka4Y6908xq0)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Is it possible to have a Sink also do Fluids?](../../../transcriptions/yt-FQqUQHMw4QA.md) [https://www.youtube.com/watch?v=FQqUQHMw4QA](https://www.youtube.com/watch?v=FQqUQHMw4QA)
 * [Q&A: Will Plutonium Waste be sinkable later?](../../../transcriptions/yt-G0mmpee5yxE.md) [https://www.youtube.com/watch?v=G0mmpee5yxE](https://www.youtube.com/watch?v=G0mmpee5yxE)
