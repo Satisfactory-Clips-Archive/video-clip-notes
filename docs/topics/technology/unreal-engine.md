@@ -6,12 +6,10 @@ date: Last Modified
 * [Custom Component: Instanced Spline Mesh](../../topics/technology/unreal-engine/custom-component-instanced-spline-mesh.md)
 * [Distance Fields](../../topics/technology/unreal-engine/distance-fields.md)
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
+* [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
 ## June 1st, 2021 Livestream
-* [Q&A: Satisfactory move to Unreal Engine 5?](../../transcriptions/yt-fAjYRngL0Bk.md) [https://www.youtube.com/watch?v=fAjYRngL0Bk](https://www.youtube.com/watch?v=fAjYRngL0Bk)
 * [Community FYI: UE Dev said it would be easy to upgrade?](../../transcriptions/yt-mWJdPpqxW7k.md) [https://www.youtube.com/watch?v=mWJdPpqxW7k](https://www.youtube.com/watch?v=mWJdPpqxW7k)
-* [Q&A: Does Unreal Engine 5 have enough features for you to consider upgrading in future?](../../transcriptions/yt-ZvVALD7ZCOA.md) [https://www.youtube.com/watch?v=ZvVALD7ZCOA](https://www.youtube.com/watch?v=ZvVALD7ZCOA)
-* [Q&A: Any thoughts on Unreal Engine 5?](../../transcriptions/yt-6QjpBZm71KM.md) [https://www.youtube.com/watch?v=6QjpBZm71KM](https://www.youtube.com/watch?v=6QjpBZm71KM)
 
 ## May 28th, 2021 Livestream
 * [Snutt & Ben Talk: Unreal Engine Object Limit](../../transcriptions/yt-dyqOMITwLsY,167.292125,199.03216666666665.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=167&end=200](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=167&end=200)
@@ -39,9 +37,6 @@ date: Last Modified
 ## May 4th, 2021 Livestream
 * [Q&A: Can we use beds to sleep overnight?](../../transcriptions/yt-84Mwit3dmQk.md) [https://www.youtube.com/watch?v=84Mwit3dmQk](https://www.youtube.com/watch?v=84Mwit3dmQk)
 * [Q&A: Do you need to make another Engine Upgrade to make the Cyber Wagon wheels round?](../../transcriptions/yt-2bk0Yp7BSi4.md) [https://www.youtube.com/watch?v=2bk0Yp7BSi4](https://www.youtube.com/watch?v=2bk0Yp7BSi4)
-
-## April 27th, 2021 Livestream
-* [Q&A: Are there features in Unreal Engine 5 that you guys are looking forward to?](../../transcriptions/yt-Wa_DYTtbz_s.md) [https://www.youtube.com/watch?v=Wa_DYTtbz_s](https://www.youtube.com/watch?v=Wa_DYTtbz_s)
 
 ## April 20th, 2021 Livestream
 * [Q&A: Any changes to the colouring system?](../../transcriptions/yt-3b7amkQ5Cv0.md) [https://www.youtube.com/watch?v=3b7amkQ5Cv0](https://www.youtube.com/watch?v=3b7amkQ5Cv0)
@@ -160,12 +155,6 @@ date: Last Modified
 * [Q&A: Is there a debug command to see how many Objects you are using?](../../transcriptions/yt-3Tht0Ap0S8c.md) [https://www.youtube.com/watch?v=3Tht0Ap0S8c](https://www.youtube.com/watch?v=3Tht0Ap0S8c)
 * [Q&A: Can we theoretically make a Mod that reduces Constructor Object numbers?](../../transcriptions/yt-cynkLEnrC8s.md) [https://www.youtube.com/watch?v=cynkLEnrC8s](https://www.youtube.com/watch?v=cynkLEnrC8s)
 
-## October 27th, 2020 Livestream
-* [Q&A: Talking about Engine Update, was that Unreal Engine 5?](../../transcriptions/yt-unAf5J6OtDE.md) [https://www.youtube.com/watch?v=unAf5J6OtDE](https://www.youtube.com/watch?v=unAf5J6OtDE)
-
-## October 13th, 2020 Livestream
-* [Q&A: Will you switch to using Unreal Engine 5?](../../transcriptions/yt-9r6ROgTQ_n4.md) [https://www.youtube.com/watch?v=9r6ROgTQ_n4](https://www.youtube.com/watch?v=9r6ROgTQ_n4)
-
 ## October 9th, 2020 Livestream
 * [Dylan Talk: We have secrets, dirty secrets](../../transcriptions/yt-KLTPTV3T-JE.md) [https://www.youtube.com/watch?v=KLTPTV3T-JE](https://www.youtube.com/watch?v=KLTPTV3T-JE)
 * [Q&A: Do you use emacs or vim?](../../transcriptions/yt-g6B1-vYXXd0.md) [https://www.youtube.com/watch?v=g6B1-vYXXd0](https://www.youtube.com/watch?v=g6B1-vYXXd0)
@@ -214,7 +203,6 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [State of Dev: Update 4 & Update 5](../../transcriptions/yt-e-51TRYTVg8.md) [https://www.youtube.com/watch?v=e-51TRYTVg8](https://www.youtube.com/watch?v=e-51TRYTVg8)
-* [Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds](../../transcriptions/yt-rr1UWnrs0d4.md) [https://www.youtube.com/watch?v=rr1UWnrs0d4](https://www.youtube.com/watch?v=rr1UWnrs0d4)
 * [Snutt Talk: Hyper Tube max speed](../../transcriptions/yt-bQ-5mKC09Fk.md) [https://www.youtube.com/watch?v=bQ-5mKC09Fk](https://www.youtube.com/watch?v=bQ-5mKC09Fk)
 * [Q&A: Can we expect significant performance increase with Update 4?](../../transcriptions/yt-PVf-pBNYO_M.md) [https://www.youtube.com/watch?v=PVf-pBNYO_M](https://www.youtube.com/watch?v=PVf-pBNYO_M)
 * [Q&A: When will the next patch even get released?](../../transcriptions/yt-I59oaCtgopI.md) [https://www.youtube.com/watch?v=I59oaCtgopI](https://www.youtube.com/watch?v=I59oaCtgopI)
@@ -223,17 +211,12 @@ date: Last Modified
 * Build Limit (Part 4): [https://clips.twitch.tv/BlitheEnergeticEelPRChase](https://clips.twitch.tv/BlitheEnergeticEelPRChase)
 * Build Limit (Part 6): [https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ](https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ)
 * Build Limit (Part 5): [https://clips.twitch.tv/GiantGeniusGooseCclamChamp](https://clips.twitch.tv/GiantGeniusGooseCclamChamp)
-* Q&A: Are you going to upgrade to UE5? [https://clips.twitch.tv/GloriousTangentialSalmonPastaThat](https://clips.twitch.tv/GloriousTangentialSalmonPastaThat)
 * Build Limit (Part 1): [https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis](https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis)
 * Build Limit (Part 3): [https://clips.twitch.tv/SullenColdbloodedDiscEagleEye](https://clips.twitch.tv/SullenColdbloodedDiscEagleEye)
 * Build Limit (Part 2): [https://clips.twitch.tv/UnusualExquisiteKuduDendiFace](https://clips.twitch.tv/UnusualExquisiteKuduDendiFace)
 * Q&A: Custom game engine? [https://clips.twitch.tv/ViscousFuriousPonyPhilosoraptor](https://clips.twitch.tv/ViscousFuriousPonyPhilosoraptor)
 
-## July 28th, 2020 Livestream
-* Q&A: Unreal Engine 5 [https://clips.twitch.tv/PiliableZanyGrassFreakinStinkin](https://clips.twitch.tv/PiliableZanyGrassFreakinStinkin)
-
 ## May 19th, 2020 Livestream
-* [Q&A: Will you be using Unreal Engine 5 for Satisfactory?](../../transcriptions/yt-Wy79gUb24es.md) [https://www.youtube.com/watch?v=Wy79gUb24es](https://www.youtube.com/watch?v=Wy79gUb24es)
 * [Snutt & Gafgar Talk: Optimisation passes](../../transcriptions/yt-yOyNULmDdpc.md) [https://www.youtube.com/watch?v=yOyNULmDdpc](https://www.youtube.com/watch?v=yOyNULmDdpc)
 * [Q&A: Any work on Occlusion Culling?](../../transcriptions/yt-SauDZG88AFI.md) [https://www.youtube.com/watch?v=SauDZG88AFI](https://www.youtube.com/watch?v=SauDZG88AFI)
 * [Q&A: Why can't you just add lights to the game?](../../transcriptions/yt-IJdIUISe5S4.md) [https://www.youtube.com/watch?v=IJdIUISe5S4](https://www.youtube.com/watch?v=IJdIUISe5S4)

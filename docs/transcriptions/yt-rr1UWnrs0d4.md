@@ -4,7 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "satisfactory-updates/release-builds"
-    - "technology/unreal-engine"
+    - "technology/unreal-engine/unreal-engine-5"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [October 27th, 
 
 ### Topics
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
-* [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
+* [Technology > Unreal Engine > Unreal Engine 5](../topics/technology/unreal-engine/unreal-engine-5.md)
 
 ### Transcript
 
