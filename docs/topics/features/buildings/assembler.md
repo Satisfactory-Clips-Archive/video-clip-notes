@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Assembler
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Unlocking power options via the Space Elevator](../../../transcriptions/yt-UwNbfqHESy0.md) [https://www.youtube.com/watch?v=UwNbfqHESy0](https://www.youtube.com/watch?v=UwNbfqHESy0)
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 1)](../../../transcriptions/yt-_ngvdiVOMnk.md) [https://www.youtube.com/watch?v=_ngvdiVOMnk](https://www.youtube.com/watch?v=_ngvdiVOMnk)
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 2)](../../../transcriptions/yt-kj15iCn0COw.md) [https://www.youtube.com/watch?v=kj15iCn0COw](https://www.youtube.com/watch?v=kj15iCn0COw)
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 5)](../../../transcriptions/yt-jyLejK5nkNA.md) [https://www.youtube.com/watch?v=jyLejK5nkNA](https://www.youtube.com/watch?v=jyLejK5nkNA)
+* [Snutt & Jace Talk: Production Ratios & Overclocking (Part 1)](../../../transcriptions/yt-Q9950uKeMEY.md) [https://www.youtube.com/watch?v=Q9950uKeMEY](https://www.youtube.com/watch?v=Q9950uKeMEY)
+
 ## January 19th, 2021 Livestream
 * [Snutt Talk: Which one is the Assembler again?](../../../transcriptions/yt-rNeiGrE8ZL0.md) [https://www.youtube.com/watch?v=rNeiGrE8ZL0](https://www.youtube.com/watch?v=rNeiGrE8ZL0)
 

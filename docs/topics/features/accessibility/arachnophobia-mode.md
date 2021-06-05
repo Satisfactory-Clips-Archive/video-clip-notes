@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Arachnophobia Mode](../../../transcriptions/yt-GHWfece0mjM.md) [https://www.youtube.com/watch?v=GHWfece0mjM](https://www.youtube.com/watch?v=GHWfece0mjM)
+
 ## May 11th, 2021 Livestream
 * [Community FYI: Arachnophobia Mode is worse than the Spiders](../../../transcriptions/yt-DaTJpHN6dRg.md) [https://www.youtube.com/watch?v=DaTJpHN6dRg](https://www.youtube.com/watch?v=DaTJpHN6dRg)
 

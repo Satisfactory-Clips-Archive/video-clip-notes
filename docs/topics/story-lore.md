@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## June 1st, 2021 Livestream
+* [Q&A: What's the name of the planet Satisfactory takes place on?](../transcriptions/yt-UQSM39n9Iu4.md) [https://www.youtube.com/watch?v=UQSM39n9Iu4](https://www.youtube.com/watch?v=UQSM39n9Iu4)
+* [Jace Talk: There will be a Story](../transcriptions/yt-rSQif5MTsgo.md) [https://www.youtube.com/watch?v=rSQif5MTsgo](https://www.youtube.com/watch?v=rSQif5MTsgo)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Can you talk about plans for replayability?](../transcriptions/yt-VvnI641_TLs.md) [https://www.youtube.com/watch?v=VvnI641_TLs](https://www.youtube.com/watch?v=VvnI641_TLs)
 

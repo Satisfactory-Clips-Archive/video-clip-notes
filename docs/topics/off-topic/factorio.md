@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio
 
+## June 1st, 2021 Livestream
+* Q&A: Does Jace play Factorio? [https://www.youtube.com/watch?v=4tWUJUJRKNI](https://www.youtube.com/watch?v=4tWUJUJRKNI)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Is Satisfactory inspired by Factorio?](../../transcriptions/yt-WdgSK2Le_eQ.md) [https://www.youtube.com/watch?v=WdgSK2Le_eQ](https://www.youtube.com/watch?v=WdgSK2Le_eQ)
 

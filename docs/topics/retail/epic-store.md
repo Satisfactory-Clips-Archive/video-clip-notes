@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## June 1st, 2021 Livestream
+* [Q&A: Is this a Developer build?](../../transcriptions/yt-T6mvEOG0HLI.md) [https://www.youtube.com/watch?v=T6mvEOG0HLI](https://www.youtube.com/watch?v=T6mvEOG0HLI)
+* [Snutt & Jace Talk: Epic Mega Sale](../../transcriptions/yt-8Ad-XvODOss.md) [https://www.youtube.com/watch?v=8Ad-XvODOss](https://www.youtube.com/watch?v=8Ad-XvODOss)
+
 ## May 11th, 2021 Livestream
 * [Community FYI: Epic doesn't have Linux support at all](../../transcriptions/yt-bmg87ZvXsjM.md) [https://www.youtube.com/watch?v=bmg87ZvXsjM](https://www.youtube.com/watch?v=bmg87ZvXsjM)
 

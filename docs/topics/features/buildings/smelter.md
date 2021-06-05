@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Smelter
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 2)](../../../transcriptions/yt-kj15iCn0COw.md) [https://www.youtube.com/watch?v=kj15iCn0COw](https://www.youtube.com/watch?v=kj15iCn0COw)
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 3)](../../../transcriptions/yt-BYH_gm7gjqE.md) [https://www.youtube.com/watch?v=BYH_gm7gjqE](https://www.youtube.com/watch?v=BYH_gm7gjqE)
+* [Snutt & Jace Talk: Production Ratios & Overclocking (Part 1)](../../../transcriptions/yt-Q9950uKeMEY.md) [https://www.youtube.com/watch?v=Q9950uKeMEY](https://www.youtube.com/watch?v=Q9950uKeMEY)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: I hate this shot](../../../transcriptions/yt-dOLA__A5VnM.md) [https://www.youtube.com/watch?v=dOLA__A5VnM](https://www.youtube.com/watch?v=dOLA__A5VnM)
 

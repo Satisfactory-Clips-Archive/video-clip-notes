@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
 
+## June 1st, 2021 Livestream
+* [Q&A: What unexpected & surprising features will be in Update 5?](../../../transcriptions/yt-eOPr8JOE7gU.md) [https://www.youtube.com/watch?v=eOPr8JOE7gU](https://www.youtube.com/watch?v=eOPr8JOE7gU)
+
 ## May 28th, 2021 Livestream
 * [Ben Talk: Custom Hologram colours coming in the future](../../../transcriptions/yt-dyqOMITwLsY,1286.7855,1330.7460833333332.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1286&end=1331](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1286&end=1331)
 

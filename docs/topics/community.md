@@ -19,6 +19,15 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## June 1st, 2021 Livestream
+* [Community FYI: Imagine thinking Satisfactory would lose people for any reason](../transcriptions/yt-cKI8Ss3vpeA.md) [https://www.youtube.com/watch?v=cKI8Ss3vpeA](https://www.youtube.com/watch?v=cKI8Ss3vpeA)
+* Community FYI: Happy Pride Month [https://www.youtube.com/watch?v=egjVtAFwB4Y](https://www.youtube.com/watch?v=egjVtAFwB4Y)
+* Snutt & Jace Talk: Terrible "muted" jokes continue [https://www.youtube.com/watch?v=nDo4URMvvOI](https://www.youtube.com/watch?v=nDo4URMvvOI)
+* [Q&A: Are you going to showcase good building practices?](../transcriptions/yt-x6yfwFj_gco.md) [https://www.youtube.com/watch?v=x6yfwFj_gco](https://www.youtube.com/watch?v=x6yfwFj_gco)
+* [Snutt & Jace Talk: Lizard Doggo](../transcriptions/yt-LmYV5TGGKoo.md) [https://www.youtube.com/watch?v=LmYV5TGGKoo](https://www.youtube.com/watch?v=LmYV5TGGKoo)
+* [Snutt & Jace Talk: Pipe build modes](../transcriptions/yt-EqHF8tQ03mE.md) [https://www.youtube.com/watch?v=EqHF8tQ03mE](https://www.youtube.com/watch?v=EqHF8tQ03mE)
+* [Snutt & Jace Talk: Community Tools](../transcriptions/yt-yR6cb9fmWGU.md) [https://www.youtube.com/watch?v=yR6cb9fmWGU](https://www.youtube.com/watch?v=yR6cb9fmWGU)
+
 ## May 25th, 2021 Livestream
 * [Terrible Jokes: Muted](../transcriptions/yt-YLPrsAFrPRQ.md) [https://www.youtube.com/watch?v=YLPrsAFrPRQ](https://www.youtube.com/watch?v=YLPrsAFrPRQ)
 * [Community FYI: I write Satisfactory fan-fiction](../transcriptions/yt-v4fB0C5N8To.md) [https://www.youtube.com/watch?v=v4fB0C5N8To](https://www.youtube.com/watch?v=v4fB0C5N8To)

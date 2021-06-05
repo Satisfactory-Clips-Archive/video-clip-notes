@@ -8,10 +8,12 @@ date: Last Modified
 * [AWESOME Store](../../topics/features/buildings/awesome-store.md)
 * [Biomass Burner](../../topics/features/buildings/biomass-burner.md)
 * [Blender](../../topics/features/buildings/blender.md)
+* [Coal Generator](../../topics/features/buildings/coal-generator.md)
 * [Constructor](../../topics/features/buildings/constructor.md)
 * [M.A.M.](../../topics/features/buildings/m-a-m.md)
 * [Miner](../../topics/features/buildings/miner.md)
 * [Oil Extractor](../../topics/features/buildings/oil-extractor.md)
+* [Overclocking & Underclocking](../../topics/features/buildings/overclocking-underclocking.md)
 * [Packager](../../topics/features/buildings/packager.md)
 * [Particle Accelerator](../../topics/features/buildings/particle-accelerator.md)
 * [Radar Tower](../../topics/features/buildings/radar-tower.md)
@@ -22,6 +24,13 @@ date: Last Modified
 * [Space Elevator](../../topics/features/buildings/space-elevator.md)
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
+
+## June 1st, 2021 Livestream
+* [Snutt Talk: How the game starts](../../transcriptions/yt-onchLhZOONY.md) [https://www.youtube.com/watch?v=onchLhZOONY](https://www.youtube.com/watch?v=onchLhZOONY)
+* [Snutt & Jace Talk: Organisational approaches to factory building](../../transcriptions/yt-c1alrd8pbFU.md) [https://www.youtube.com/watch?v=c1alrd8pbFU](https://www.youtube.com/watch?v=c1alrd8pbFU)
+* [Snutt & Jace Talk: Production Ratios & Overclocking (Part 1)](../../transcriptions/yt-Q9950uKeMEY.md) [https://www.youtube.com/watch?v=Q9950uKeMEY](https://www.youtube.com/watch?v=Q9950uKeMEY)
+* [Snutt & Jace Talk: Copy & Paste production settings](../../transcriptions/yt-svIdrCN2zPk.md) [https://www.youtube.com/watch?v=svIdrCN2zPk](https://www.youtube.com/watch?v=svIdrCN2zPk)
+* [Snutt Talk: Production Efficiency](../../transcriptions/yt-12uZ730Ljc8.md) [https://www.youtube.com/watch?v=12uZ730Ljc8](https://www.youtube.com/watch?v=12uZ730Ljc8)
 
 ## May 28th, 2021 Livestream
 * [Q&A: Is there anything else aside from Conveyor Belts that's not using Distance Fields?](../../transcriptions/yt-dyqOMITwLsY,448.69825,500.75024999999994.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=448&end=501](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=448&end=501)
@@ -37,7 +46,6 @@ date: Last Modified
 
 ## May 4th, 2021 Livestream
 * [Q&A: Make refineries smaller?](../../transcriptions/yt-TLElVB-PA3M.md) [https://www.youtube.com/watch?v=TLElVB-PA3M](https://www.youtube.com/watch?v=TLElVB-PA3M)
-* [Q&A: Why does power building overclocking follow weird exponential function?](../../transcriptions/yt-6OIxOupnuLI.md) [https://www.youtube.com/watch?v=6OIxOupnuLI](https://www.youtube.com/watch?v=6OIxOupnuLI)
 * [Q&A: Will you make the hit boxes on Buildings cleaner, or is that more effort than it's worth?](../../transcriptions/yt-e6lJjw_V5RI.md) [https://www.youtube.com/watch?v=e6lJjw_V5RI](https://www.youtube.com/watch?v=e6lJjw_V5RI)
 * [Q&A: How many machines will you add?](../../transcriptions/yt-eDymPpcon4E.md) [https://www.youtube.com/watch?v=eDymPpcon4E](https://www.youtube.com/watch?v=eDymPpcon4E)
 
@@ -51,7 +59,6 @@ date: Last Modified
 * [Q&A: Daisy-chaining machines when?](../../transcriptions/yt-1ouv6GGsyY0.md) [https://www.youtube.com/watch?v=1ouv6GGsyY0](https://www.youtube.com/watch?v=1ouv6GGsyY0)
 * [Q&A: What's the reason behind no daisy-chaining, it looks cleaner?](../../transcriptions/yt-tqnmQ6HMij4.md) [https://www.youtube.com/watch?v=tqnmQ6HMij4](https://www.youtube.com/watch?v=tqnmQ6HMij4)
 * [Q&A: Will you add structual integrity?](../../transcriptions/yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)
-* [Q&A: Vertical elevators for character and transport?](../../transcriptions/yt-uLe9eMpCxRg.md) [https://www.youtube.com/watch?v=uLe9eMpCxRg](https://www.youtube.com/watch?v=uLe9eMpCxRg)
 
 ## April 6th, 2021 Livestream
 * [Q&A: Mk.2 Factory Buildings?](../../transcriptions/yt-Qni_FzPcx9g.md) [https://www.youtube.com/watch?v=Qni_FzPcx9g](https://www.youtube.com/watch?v=Qni_FzPcx9g)
@@ -214,9 +221,6 @@ date: Last Modified
 ## August 18th, 2020 Livestream
 * Q&A: How about adding machine variants during late-game so you can have less machines overall? [https://clips.twitch.tv/BlatantEnjoyableTigerStoneLightning](https://clips.twitch.tv/BlatantEnjoyableTigerStoneLightning)
 
-## August 11th, 2020 Livestream
-* Q&A: Elevators? [https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime](https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime)
-
 ## July 21st, 2020 Livestream
 * Q&A: What do you think about a game mode with weather effects doing damage or slowing machines? [https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime](https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime)
 
@@ -226,10 +230,6 @@ date: Last Modified
 ## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: VFX for Buildings (Part 1)](../../transcriptions/yt-mci92Mhr7MM,812.6118,893.1589333333334.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=812&end=894](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=812&end=894)
 * [Simon & Jace Talk: VFX for Buildings (Part 2)](../../transcriptions/yt-mci92Mhr7MM,928.6944333333333,947.2796666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948)
-
-## December 19th, 2019 Livestream
-* [Q&A: Human Elevators?](../../transcriptions/yt-HGwoBSLqtcw.md) [https://www.youtube.com/watch?v=HGwoBSLqtcw](https://www.youtube.com/watch?v=HGwoBSLqtcw)
-* [Q&A: How about personal elevators?](../../transcriptions/yt-f3TtRJWOI2Q.md) [https://www.youtube.com/watch?v=f3TtRJWOI2Q](https://www.youtube.com/watch?v=f3TtRJWOI2Q)
 
 ## March 9th, 2019 Livestream
 * [Jace Talk: Space Elevator](../../transcriptions/yt-0P2A2UtY834.md) [https://www.youtube.com/watch?v=0P2A2UtY834](https://www.youtube.com/watch?v=0P2A2UtY834)

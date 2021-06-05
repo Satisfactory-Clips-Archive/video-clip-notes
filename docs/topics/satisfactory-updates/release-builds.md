@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## June 1st, 2021 Livestream
+* [Q&A: Is this a Developer build?](../../transcriptions/yt-T6mvEOG0HLI.md) [https://www.youtube.com/watch?v=T6mvEOG0HLI](https://www.youtube.com/watch?v=T6mvEOG0HLI)
+
 ## May 18th, 2021 Livestream
 * [State of Dev: Issues with Update 4](../../transcriptions/yt-xDmB6Zyrr1U.md) [https://www.youtube.com/watch?v=xDmB6Zyrr1U](https://www.youtube.com/watch?v=xDmB6Zyrr1U)
 

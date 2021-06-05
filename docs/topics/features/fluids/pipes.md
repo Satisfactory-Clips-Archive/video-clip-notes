@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## June 1st, 2021 Livestream
+* [Q&A: Sewage pipes, too ?](../../../transcriptions/yt-pWwXk0cJ9Fk.md) [https://www.youtube.com/watch?v=pWwXk0cJ9Fk](https://www.youtube.com/watch?v=pWwXk0cJ9Fk)
+* [Q&A: Will Toilet DLC require Pipes?](../../../transcriptions/yt-99HzTmnXLaE.md) [https://www.youtube.com/watch?v=99HzTmnXLaE](https://www.youtube.com/watch?v=99HzTmnXLaE)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 6)](../../../transcriptions/yt-R9SFp0jzD7Q.md) [https://www.youtube.com/watch?v=R9SFp0jzD7Q](https://www.youtube.com/watch?v=R9SFp0jzD7Q)
+* [Snutt & Jace Talk: Pipe build modes](../../../transcriptions/yt-EqHF8tQ03mE.md) [https://www.youtube.com/watch?v=EqHF8tQ03mE](https://www.youtube.com/watch?v=EqHF8tQ03mE)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 10)](../../../transcriptions/yt-szj7yUfsDnA.md) [https://www.youtube.com/watch?v=szj7yUfsDnA](https://www.youtube.com/watch?v=szj7yUfsDnA)
+* [Q&A: How do you measure 10m height?](../../../transcriptions/yt-6_EKJGtzTdg.md) [https://www.youtube.com/watch?v=6_EKJGtzTdg](https://www.youtube.com/watch?v=6_EKJGtzTdg)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Can you talk about multi-threading?](../../../transcriptions/yt-oRvsgiDJRR8.md) [https://www.youtube.com/watch?v=oRvsgiDJRR8](https://www.youtube.com/watch?v=oRvsgiDJRR8)
 * [Q&A: How low can your FPS go before Pipes and Belts start bugging you?](../../../transcriptions/yt-GFWvkkrw9_A.md) [https://www.youtube.com/watch?v=GFWvkkrw9_A](https://www.youtube.com/watch?v=GFWvkkrw9_A)

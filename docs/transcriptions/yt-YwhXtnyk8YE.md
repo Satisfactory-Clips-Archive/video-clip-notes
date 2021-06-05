@@ -3,18 +3,22 @@ title: "March 9th, 2019 Livestream Q&A: Why is Coal so rare? It's almost impossi
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "environment/resources"
+    - "environment/resources/coal"
     - "features/buildables/conveyor-belts"
+    - "features/buildings/miner"
     - "features/transportation/vehicles"
+    - "features/transportation/vehicles/autopilot"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.
 https://www.youtube.com/watch?v=YwhXtnyk8YE
 
 ### Topics
-* [Environment > Resources](../topics/environment/resources.md)
+* [Environment > Resources > Coal](../topics/environment/resources/coal.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Features > Buildings > Miner](../topics/features/buildings/miner.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Features > Transportation > Vehicles > Autopilot](../topics/features/transportation/vehicles/autopilot.md)
 
 ### Transcript
 

@@ -2,7 +2,7 @@
 title: "Multiple Body Slots"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Requested Features > Multiple Body Slots
+# [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
 ## May 4th, 2021 Livestream
 * [Q&A: Will there be a new body slot?](../../../transcriptions/yt-80Ajx6Ml2Aw.md) [https://www.youtube.com/watch?v=80Ajx6Ml2Aw](https://www.youtube.com/watch?v=80Ajx6Ml2Aw)

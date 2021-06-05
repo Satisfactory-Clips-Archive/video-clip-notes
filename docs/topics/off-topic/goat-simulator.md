@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Bacon Agaric](../../transcriptions/yt-ohaQD5VeUxU.md) [https://www.youtube.com/watch?v=ohaQD5VeUxU](https://www.youtube.com/watch?v=ohaQD5VeUxU)
+
 ## May 25th, 2021 Livestream
 * [Q&A: When can we get a Goat in Satisfactory?](../../transcriptions/yt-KlD55eNxra0.md) [https://www.youtube.com/watch?v=KlD55eNxra0](https://www.youtube.com/watch?v=KlD55eNxra0)
 

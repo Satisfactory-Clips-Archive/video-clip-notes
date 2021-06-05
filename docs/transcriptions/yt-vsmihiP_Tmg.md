@@ -3,8 +3,8 @@ title: "January 19th, 2021 Livestream Q&A: With the introducion of Gas, will Coa
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "features/buildings/coal-generator"
     - "features/gases"
-    - "features/power-management"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=vsmihiP_Tmg
 
 ### Topics
+* [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
 * [Features > Gases](../topics/features/gases.md)
-* [Features > Power Management](../topics/features/power-management.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript

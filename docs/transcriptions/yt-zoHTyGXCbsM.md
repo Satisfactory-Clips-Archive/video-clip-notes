@@ -3,7 +3,7 @@ title: "September 29th, 2020 Livestream Q&A: Any plans for an elevator or lift?"
 date: "2020-09-29"
 layout: transcript
 topics:
-    - ""
+    - "features/requested-features/elevators"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Any plans for an elevator or lift?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
-
+* [Features > Requested Features > Elevators](../topics/features/requested-features/elevators.md)
 
 ### Transcript
 

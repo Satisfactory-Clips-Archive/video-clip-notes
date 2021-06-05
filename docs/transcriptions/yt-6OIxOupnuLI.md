@@ -3,7 +3,7 @@ title: "May 4th, 2021 Livestream Q&A: Why does power building overclocking follo
 date: "2021-05-04"
 layout: transcript
 topics:
-    - "features/buildings"
+    - "features/buildings/overclocking-underclocking"
     - "features/power-management"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=6OIxOupnuLI
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
 * [Features > Power Management](../topics/features/power-management.md)
 
 ### Transcript

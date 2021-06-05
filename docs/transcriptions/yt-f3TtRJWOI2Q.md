@@ -3,7 +3,7 @@ title: "December 19th, 2019 Livestream Q&A: How about personal elevators?"
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "features/buildings"
+    - "features/requested-features/elevators"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: How about personal elevators?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Requested Features > Elevators](../topics/features/requested-features/elevators.md)
 
 ### Transcript
 

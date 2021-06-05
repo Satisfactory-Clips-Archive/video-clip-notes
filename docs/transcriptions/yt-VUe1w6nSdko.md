@@ -4,6 +4,7 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "features/buildables/ladders"
+    - "features/requested-features/elevators"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans for Elevators?
@@ -13,6 +14,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Topics
 * [Features > Buildables > Ladders](../topics/features/buildables/ladders.md)
+* [Features > Requested Features > Elevators](../topics/features/requested-features/elevators.md)
 
 ### Transcript
 

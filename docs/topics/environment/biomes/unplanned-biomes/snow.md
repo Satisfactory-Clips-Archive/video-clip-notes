@@ -29,6 +29,9 @@ date: Last Modified
 ## September 15th, 2020 Livestream
 * [Q&A: Snow Area Confirmed?](../../../../transcriptions/yt-yUDtq7D8XU8.md) [https://www.youtube.com/watch?v=yUDtq7D8XU8](https://www.youtube.com/watch?v=yUDtq7D8XU8)
 
+## September 8th, 2020 Livestream
+* [Q&A: Even more Biomes coming to play?](../../../../transcriptions/yt-VgDl00Ycn3U.md) [https://www.youtube.com/watch?v=VgDl00Ycn3U](https://www.youtube.com/watch?v=VgDl00Ycn3U)
+
 ## August 18th, 2020 Livestream
 * Q&A: Any ice/snow biome plans? [https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl](https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl)
 

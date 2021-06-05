@@ -3,6 +3,7 @@ title: "Resources"
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Resources
+* [Coal](../../topics/environment/resources/coal.md)
 * [Mercer Sphere](../../topics/environment/resources/mercer-sphere.md)
 * [Nuclear Pasta](../../topics/environment/resources/nuclear-pasta.md)
 * [Oil](../../topics/environment/resources/oil.md)
@@ -11,6 +12,21 @@ date: Last Modified
 * [Somersloop](../../topics/environment/resources/somersloop.md)
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
+
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Starter zones in Northern Forest](../../transcriptions/yt-feKJ8l4XJ94.md) [https://www.youtube.com/watch?v=feKJ8l4XJ94](https://www.youtube.com/watch?v=feKJ8l4XJ94)
+* [Snutt & Jace Talk: Handling power cuts](../../transcriptions/yt-KgpTpm6CTOA.md) [https://www.youtube.com/watch?v=KgpTpm6CTOA](https://www.youtube.com/watch?v=KgpTpm6CTOA)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
+* [Snutt & Jace Talk: Unlocking additional inventory slots & Alternate Recipes via the M.A.M.](../../transcriptions/yt-gUf8YiKr15w.md) [https://www.youtube.com/watch?v=gUf8YiKr15w](https://www.youtube.com/watch?v=gUf8YiKr15w)
+* [Snutt & Jace Talk: The world of Satisfactory](../../transcriptions/yt-lwiruCRJKo0.md) [https://www.youtube.com/watch?v=lwiruCRJKo0](https://www.youtube.com/watch?v=lwiruCRJKo0)
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 1)](../../transcriptions/yt-_ngvdiVOMnk.md) [https://www.youtube.com/watch?v=_ngvdiVOMnk](https://www.youtube.com/watch?v=_ngvdiVOMnk)
+* [Snutt Talk: Sandwich layer for Conveyor Belts](../../transcriptions/yt-Kyla0AmCUoo.md) [https://www.youtube.com/watch?v=Kyla0AmCUoo](https://www.youtube.com/watch?v=Kyla0AmCUoo)
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 2)](../../transcriptions/yt-kj15iCn0COw.md) [https://www.youtube.com/watch?v=kj15iCn0COw](https://www.youtube.com/watch?v=kj15iCn0COw)
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 4)](../../transcriptions/yt-vXjkVdbqVWA.md) [https://www.youtube.com/watch?v=vXjkVdbqVWA](https://www.youtube.com/watch?v=vXjkVdbqVWA)
+* [Snutt & Jace Talk: Production Ratios & Overclocking (Part 1)](../../transcriptions/yt-Q9950uKeMEY.md) [https://www.youtube.com/watch?v=Q9950uKeMEY](https://www.youtube.com/watch?v=Q9950uKeMEY)
+* [Snutt & Jace Talk: Production Ratios & Overclocking (Part 2)](../../transcriptions/yt-S2QKl8Bbh5Y.md) [https://www.youtube.com/watch?v=S2QKl8Bbh5Y](https://www.youtube.com/watch?v=S2QKl8Bbh5Y)
+* [Snutt & Jace Talk: Recipes & Alternate Recipes](../../transcriptions/yt-H2u0LDZlzgo.md) [https://www.youtube.com/watch?v=H2u0LDZlzgo](https://www.youtube.com/watch?v=H2u0LDZlzgo)
+* [Snutt & Jace Talk: Jace's Factory Tour](../../transcriptions/yt-Uz5ubjKvQWg.md) [https://www.youtube.com/watch?v=Uz5ubjKvQWg](https://www.youtube.com/watch?v=Uz5ubjKvQWg)
 
 ## May 28th, 2021 Livestream
 * [Q&A: How does picking items off the belt work?](../../transcriptions/yt-dyqOMITwLsY,1726.746974,1837.377208333333.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1726&end=1838](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1726&end=1838)
@@ -141,7 +157,6 @@ date: Last Modified
 ## March 9th, 2019 Livestream
 * [Snutt Talk: Inpure Resource Nodes](../../transcriptions/yt--OHmfKyBPA4.md) [https://www.youtube.com/watch?v=-OHmfKyBPA4](https://www.youtube.com/watch?v=-OHmfKyBPA4)
 * [Q&A: Collect Fart Gas for fuel?](../../transcriptions/yt-O5R_YmTmXUI.md) [https://www.youtube.com/watch?v=O5R_YmTmXUI](https://www.youtube.com/watch?v=O5R_YmTmXUI)
-* [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../transcriptions/yt-YwhXtnyk8YE.md) [https://www.youtube.com/watch?v=YwhXtnyk8YE](https://www.youtube.com/watch?v=YwhXtnyk8YE)
 * [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](../../transcriptions/yt-v4zf3_-seAg.md) [https://www.youtube.com/watch?v=v4zf3_-seAg](https://www.youtube.com/watch?v=v4zf3_-seAg)
 
 ## February 20th, 2019 Livestream

@@ -7,6 +7,15 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Handling power cuts](../../transcriptions/yt-KgpTpm6CTOA.md) [https://www.youtube.com/watch?v=KgpTpm6CTOA](https://www.youtube.com/watch?v=KgpTpm6CTOA)
+* [Snutt & Jace Talk: The world of Satisfactory](../../transcriptions/yt-lwiruCRJKo0.md) [https://www.youtube.com/watch?v=lwiruCRJKo0](https://www.youtube.com/watch?v=lwiruCRJKo0)
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 1)](../../transcriptions/yt-_ngvdiVOMnk.md) [https://www.youtube.com/watch?v=_ngvdiVOMnk](https://www.youtube.com/watch?v=_ngvdiVOMnk)
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 2)](../../transcriptions/yt-kj15iCn0COw.md) [https://www.youtube.com/watch?v=kj15iCn0COw](https://www.youtube.com/watch?v=kj15iCn0COw)
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 4)](../../transcriptions/yt-vXjkVdbqVWA.md) [https://www.youtube.com/watch?v=vXjkVdbqVWA](https://www.youtube.com/watch?v=vXjkVdbqVWA)
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 5)](../../transcriptions/yt-jyLejK5nkNA.md) [https://www.youtube.com/watch?v=jyLejK5nkNA](https://www.youtube.com/watch?v=jyLejK5nkNA)
+* [Snutt & Jace Talk: Production Ratios & Overclocking (Part 1)](../../transcriptions/yt-Q9950uKeMEY.md) [https://www.youtube.com/watch?v=Q9950uKeMEY](https://www.youtube.com/watch?v=Q9950uKeMEY)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Why is space bar twice not used for autocraft?](../../transcriptions/yt-BL3v75vPC10.md) [https://www.youtube.com/watch?v=BL3v75vPC10](https://www.youtube.com/watch?v=BL3v75vPC10)
 

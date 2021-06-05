@@ -1,0 +1,17 @@
+---
+title: "June 1st, 2021 Livestream Q&A: Will DLCs have microtransactions per flush?"
+date: "2021-06-01"
+layout: transcript
+topics:
+    - "features/possible-features/dlc"
+---
+# [June 1st, 2021 Livestream](../2021-06-01.md)
+## Q&A: Will DLCs have microtransactions per flush?
+https://www.youtube.com/watch?v=25Uqa4KOKqc
+
+### Topics
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+
+### Transcript
+
+> well dlcs have micro transactions per flush i mean a lot of people say that uh we've thought of like you know like it's it's like the toilet paper could be like one dollar a square or something like that you know um and uh but but i don't i it's just a joke like i don't think we're gonna do that i i think i think i think part of the joke is is not that we make money from it it's just it's just a joke you know it's it's one dollar it's not a lot of money for something that doesn't matter and you can get it if you want you know that's it uh square toilet paper yeah square

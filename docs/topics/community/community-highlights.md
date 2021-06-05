@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## June 1st, 2021 Livestream
+* [Q&A: Will this factory feature on Community Highlights?](../../transcriptions/yt-nE7Y8M0kUOY.md) [https://www.youtube.com/watch?v=nE7Y8M0kUOY](https://www.youtube.com/watch?v=nE7Y8M0kUOY)
+
 ## May 18th, 2021 Livestream
 * [Snutt & Jace Talk: How we find Community Highlights content](../../transcriptions/yt-dXL7RbnXeCg.md) [https://www.youtube.com/watch?v=dXL7RbnXeCg](https://www.youtube.com/watch?v=dXL7RbnXeCg)
 * [Snutt & Jace Talk: Issues in finding representative clips for Content Creator Highlights](../../transcriptions/yt-sOcio3xP8lE.md) [https://www.youtube.com/watch?v=sOcio3xP8lE](https://www.youtube.com/watch?v=sOcio3xP8lE)

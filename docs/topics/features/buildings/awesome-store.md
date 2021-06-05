@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## June 1st, 2021 Livestream
+* [Q&A: Toilet Paper DLC?](../../../transcriptions/yt-BEv9D4YpBJk.md) [https://www.youtube.com/watch?v=BEv9D4YpBJk](https://www.youtube.com/watch?v=BEv9D4YpBJk)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Can we have FICSIT stock trading & an economy system?](../../../transcriptions/yt-aXNyMSx6VyM.md) [https://www.youtube.com/watch?v=aXNyMSx6VyM](https://www.youtube.com/watch?v=aXNyMSx6VyM)
 

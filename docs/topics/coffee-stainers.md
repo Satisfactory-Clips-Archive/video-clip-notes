@@ -33,6 +33,10 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## June 1st, 2021 Livestream
+* [Q&A: Can we get smaller Lights?](../transcriptions/yt-oV7CovRkpkE.md) [https://www.youtube.com/watch?v=oV7CovRkpkE](https://www.youtube.com/watch?v=oV7CovRkpkE)
+* [Snutt & Jace Talk: Epic Mega Sale](../transcriptions/yt-8Ad-XvODOss.md) [https://www.youtube.com/watch?v=8Ad-XvODOss](https://www.youtube.com/watch?v=8Ad-XvODOss)
+
 ## May 25th, 2021 Livestream
 * [State of Dev: Update 5](../transcriptions/yt-rz0oD16hpGw.md) [https://www.youtube.com/watch?v=rz0oD16hpGw](https://www.youtube.com/watch?v=rz0oD16hpGw)
 * [Snutt Talk: Dedicated Servers](../transcriptions/yt-0QmD2JZs7-g.md) [https://www.youtube.com/watch?v=0QmD2JZs7-g](https://www.youtube.com/watch?v=0QmD2JZs7-g)

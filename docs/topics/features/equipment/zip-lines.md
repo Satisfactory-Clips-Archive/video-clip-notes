@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Zip Lines
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: The Zip Line](../../../transcriptions/yt-fuJFAY4fxEg.md) [https://www.youtube.com/watch?v=fuJFAY4fxEg](https://www.youtube.com/watch?v=fuJFAY4fxEg)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: Issues with the Zip Lines teaser & Update 4 Multiplayer improvement](../../../transcriptions/yt-AJxPTC20qAE.md) [https://www.youtube.com/watch?v=AJxPTC20qAE](https://www.youtube.com/watch?v=AJxPTC20qAE)
 

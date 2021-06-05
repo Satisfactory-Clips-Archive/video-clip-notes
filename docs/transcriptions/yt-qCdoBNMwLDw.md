@@ -3,6 +3,7 @@ title: "March 9th, 2021 Livestream Snutt & Jace Talk: Snutt learned a thing from
 date: "2021-03-09"
 layout: transcript
 topics:
+    - "features/buildings/coal-generator"
     - "features/power-management"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=qCdoBNMwLDw
 
 ### Topics
+* [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 

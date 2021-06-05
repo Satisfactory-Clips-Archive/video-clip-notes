@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## June 1st, 2021 Livestream
+* [Q&A: How many people can be on one save without Servers?](../../transcriptions/yt-7uSzql6YPJc.md) [https://www.youtube.com/watch?v=7uSzql6YPJc](https://www.youtube.com/watch?v=7uSzql6YPJc)
+
 ## May 25th, 2021 Livestream
 * [Q&A: When do you think the focus will be on fixing Multiplayer?](../../transcriptions/yt-3alTbxWgPnc.md) [https://www.youtube.com/watch?v=3alTbxWgPnc](https://www.youtube.com/watch?v=3alTbxWgPnc)
 * [Q&A: Can we get a world co-owned by two people?](../../transcriptions/yt-Z5z7k_CnoUs.md) [https://www.youtube.com/watch?v=Z5z7k_CnoUs](https://www.youtube.com/watch?v=Z5z7k_CnoUs)

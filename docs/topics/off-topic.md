@@ -15,6 +15,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## June 1st, 2021 Livestream
+* Q&A: Does Jace play Factorio? [https://www.youtube.com/watch?v=4tWUJUJRKNI](https://www.youtube.com/watch?v=4tWUJUJRKNI)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Hot tub stream, when?](../transcriptions/yt-vMoZj9MyvE8.md) [https://www.youtube.com/watch?v=vMoZj9MyvE8](https://www.youtube.com/watch?v=vMoZj9MyvE8)
 * [Q&A: What's growing faster, Snutt's beard or Jace's hair?](../transcriptions/yt-ZhS3RO6Sc_c.md) [https://www.youtube.com/watch?v=ZhS3RO6Sc_c](https://www.youtube.com/watch?v=ZhS3RO6Sc_c)

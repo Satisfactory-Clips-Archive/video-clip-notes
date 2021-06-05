@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > World Update
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Northern Forest will be impacted by the World Update, blame Hannah](../../../transcriptions/yt-M7wSuhXitMk.md) [https://www.youtube.com/watch?v=M7wSuhXitMk](https://www.youtube.com/watch?v=M7wSuhXitMk)
+
 ## May 28th, 2021 Livestream
 * [Q&A: What's coming in the future for optimisations to Satisfactory?](../../../transcriptions/yt-dyqOMITwLsY,1837.377208333333,1944.0671249999998.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945)
 
@@ -21,6 +24,7 @@ date: Last Modified
 * [Q&A: Is the World Update part of Update 4 or will that come later?](../../../transcriptions/yt-ANIKlhFcjkk.md) [https://www.youtube.com/watch?v=ANIKlhFcjkk](https://www.youtube.com/watch?v=ANIKlhFcjkk)
 
 ## March 23rd, 2021 Livestream
+* [Q&A: Heard Dune Desert getting a second rework, is this true?](../../../transcriptions/yt-x3fI_4o0WPw.md) [https://www.youtube.com/watch?v=x3fI_4o0WPw](https://www.youtube.com/watch?v=x3fI_4o0WPw)
 * [Q&A: When you push World Updates, will those come to EA & Experimental at the same time or separate?](../../../transcriptions/yt-4mnVlMXrfyw.md) [https://www.youtube.com/watch?v=4mnVlMXrfyw](https://www.youtube.com/watch?v=4mnVlMXrfyw)
 
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
@@ -31,9 +35,11 @@ date: Last Modified
 
 ## March 2nd, 2021 Livestream
 * [Q&A: What kind of changes can we expect from the World Update?](../../../transcriptions/yt-5qQx1URl8lY.md) [https://www.youtube.com/watch?v=5qQx1URl8lY](https://www.youtube.com/watch?v=5qQx1URl8lY)
+* [Snutt & Jace Talk: Hannah confirms Spire Coast overhaul as "new biome"](../../../transcriptions/yt-BZumPH8OW6o.md) [https://www.youtube.com/watch?v=BZumPH8OW6o](https://www.youtube.com/watch?v=BZumPH8OW6o)
 
 ## February 23rd, 2021 Livestream
 * [Q&A: Any ideas on a more detailed Map?](../../../transcriptions/yt-w3_T37dQba0.md) [https://www.youtube.com/watch?v=w3_T37dQba0](https://www.youtube.com/watch?v=w3_T37dQba0)
+* [Q&A: Will the Dune Desert get crammed or will it stay as the perfect mega-base location?](../../../transcriptions/yt-95QNCSBoRYM.md) [https://www.youtube.com/watch?v=95QNCSBoRYM](https://www.youtube.com/watch?v=95QNCSBoRYM)
 
 ## February 9th, 2021 Livestream
 * [Q&A: Will Update 4 include Map Updates?](../../../transcriptions/yt-HoD69Qs7RTU.md) [https://www.youtube.com/watch?v=HoD69Qs7RTU](https://www.youtube.com/watch?v=HoD69Qs7RTU)
@@ -57,6 +63,9 @@ date: Last Modified
 
 ## October 6th, 2020 Livestream
 * [Q&A: How is the World Building going?](../../../transcriptions/yt-nFJUho2El3Y.md) [https://www.youtube.com/watch?v=nFJUho2El3Y](https://www.youtube.com/watch?v=nFJUho2El3Y)
+
+## September 8th, 2020 Livestream
+* [Q&A: Even more Biomes coming to play?](../../../transcriptions/yt-VgDl00Ycn3U.md) [https://www.youtube.com/watch?v=VgDl00Ycn3U](https://www.youtube.com/watch?v=VgDl00Ycn3U)
 
 ## October 24th, 2019 Video
 * [Hannah Talk: World Updates interfering with factories](../../../transcriptions/yt-8WYNwGDLYNE,362.38,417.64.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=362&end=418](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=362&end=418)

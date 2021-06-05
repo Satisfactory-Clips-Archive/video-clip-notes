@@ -3,6 +3,7 @@ title: "January 19th, 2021 Livestream Q&A: Will alternative recipes change with 
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "environment/resources/coal"
     - "features/crafting/recipes/alternate-recipes"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
@@ -13,6 +14,7 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 
 ### Topics
+* [Environment > Resources > Coal](../topics/environment/resources/coal.md)
 * [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 

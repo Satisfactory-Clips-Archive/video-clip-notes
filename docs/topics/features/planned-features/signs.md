@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## June 1st, 2021 Livestream
+* [Q&A: Screen we can program, write, or draw something on?](../../../transcriptions/yt-zZ0aGMG1xjM.md) [https://www.youtube.com/watch?v=zZ0aGMG1xjM](https://www.youtube.com/watch?v=zZ0aGMG1xjM)
+
 ## May 25th, 2021 Livestream
 * [Q&A: What's the status of Golf on the QA Site?](../../../transcriptions/yt-ZW_d-EY-0f4.md) [https://www.youtube.com/watch?v=ZW_d-EY-0f4](https://www.youtube.com/watch?v=ZW_d-EY-0f4)
 

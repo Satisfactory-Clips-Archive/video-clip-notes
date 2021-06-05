@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: The Space Giraffe-Tick-Penguin-Whale Thing](../../../transcriptions/yt-WcxVgGWsLcY.md) [https://www.youtube.com/watch?v=WcxVgGWsLcY](https://www.youtube.com/watch?v=WcxVgGWsLcY)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 8)](../../../transcriptions/yt-B5e4Is3oqYw.md) [https://www.youtube.com/watch?v=B5e4Is3oqYw](https://www.youtube.com/watch?v=B5e4Is3oqYw)
+
 ## May 25th, 2021 Livestream
 * [Q&A: What's the memeiest and stupidest thing you've seen a dev add in?](../../../transcriptions/yt-qYRsGrGlVqg.md) [https://www.youtube.com/watch?v=qYRsGrGlVqg](https://www.youtube.com/watch?v=qYRsGrGlVqg)
 

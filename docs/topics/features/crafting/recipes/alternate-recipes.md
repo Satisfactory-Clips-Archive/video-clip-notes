@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Unlocking additional inventory slots & Alternate Recipes via the M.A.M.](../../../../transcriptions/yt-gUf8YiKr15w.md) [https://www.youtube.com/watch?v=gUf8YiKr15w](https://www.youtube.com/watch?v=gUf8YiKr15w)
+* [Snutt & Jace Talk: The world of Satisfactory](../../../../transcriptions/yt-lwiruCRJKo0.md) [https://www.youtube.com/watch?v=lwiruCRJKo0](https://www.youtube.com/watch?v=lwiruCRJKo0)
+* [Community FYI: Ban screws in my factory](../../../../transcriptions/yt--TeX5OBsrGk.md) [https://www.youtube.com/watch?v=-TeX5OBsrGk](https://www.youtube.com/watch?v=-TeX5OBsrGk)
+* [Snutt & Jace Talk: Recipes & Alternate Recipes](../../../../transcriptions/yt-H2u0LDZlzgo.md) [https://www.youtube.com/watch?v=H2u0LDZlzgo](https://www.youtube.com/watch?v=H2u0LDZlzgo)
+* [Snutt & Jace Talk: Jace's Factory Tour](../../../../transcriptions/yt-Uz5ubjKvQWg.md) [https://www.youtube.com/watch?v=Uz5ubjKvQWg](https://www.youtube.com/watch?v=Uz5ubjKvQWg)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Quantum Computers don't exist yet, did I overlook something?](../../../../transcriptions/yt-Aflfj7-LF6w.md) [https://www.youtube.com/watch?v=Aflfj7-LF6w](https://www.youtube.com/watch?v=Aflfj7-LF6w)
 

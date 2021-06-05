@@ -208,7 +208,6 @@ date: Last Modified
 * [Q&A: Is there going to be a way to destroy the fart rock?](../../transcriptions/yt-byPiSQZOAhw.md) [https://www.youtube.com/watch?v=byPiSQZOAhw](https://www.youtube.com/watch?v=byPiSQZOAhw)
 * [Q&A: What's Hannah's favourite part of level design?](../../transcriptions/yt-sDZjuyYO-zE.md) [https://www.youtube.com/watch?v=sDZjuyYO-zE](https://www.youtube.com/watch?v=sDZjuyYO-zE)
 * [Q&A: What's Hannah's take on rocks that aren't on the ground?](../../transcriptions/yt-y8FchPasYvI.md) [https://www.youtube.com/watch?v=y8FchPasYvI](https://www.youtube.com/watch?v=y8FchPasYvI)
-* [Q&A: Will there be larger underground spaces?](../../transcriptions/yt-cuGHH7KF9BI.md) [https://www.youtube.com/watch?v=cuGHH7KF9BI](https://www.youtube.com/watch?v=cuGHH7KF9BI)
 * [Snutt & Hannah Talk: Hannah wants to delete the map.](../../transcriptions/yt-_bVk1N0dvDY.md) [https://www.youtube.com/watch?v=_bVk1N0dvDY](https://www.youtube.com/watch?v=_bVk1N0dvDY)
 * Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
 * [Q&A: Are there any Easter Eggs in the landscape?](../../transcriptions/yt-06YaY3zGZeg.md) [https://www.youtube.com/watch?v=06YaY3zGZeg](https://www.youtube.com/watch?v=06YaY3zGZeg)

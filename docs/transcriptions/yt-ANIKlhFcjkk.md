@@ -3,7 +3,6 @@ title: "March 30th, 2021 Livestream Q&A: Is the World Update part of Update 4 or
 date: "2021-03-30"
 layout: transcript
 topics:
-    - "environment/biomes"
     - "satisfactory-updates/pending/world-update"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
@@ -14,7 +13,6 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 
 ### Topics
-* [Environment > Biomes](../topics/environment/biomes.md)
 * [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 

@@ -3,7 +3,7 @@ title: "March 12th, 2020"
 date: "2020-03-12"
 layout: transcript
 topics: 
-    - "environment/biomes"
+    - "environment/biomes/dune-desert"
     - "satisfactory-updates/released/satisfactory-update-3"
     - "features/possible-features/weather-systems"
 ---
@@ -11,7 +11,7 @@ topics:
 ## Jace Talk: Update to the Dune Desert
 https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255
 ### Topics
-* [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
 

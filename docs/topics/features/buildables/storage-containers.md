@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## June 1st, 2021 Livestream
+* [Snutt Talk: How the game starts](../../../transcriptions/yt-onchLhZOONY.md) [https://www.youtube.com/watch?v=onchLhZOONY](https://www.youtube.com/watch?v=onchLhZOONY)
+
 ## May 25th, 2021 Livestream
 * [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 2)](../../../transcriptions/yt-N3p6MeSNbak.md) [https://www.youtube.com/watch?v=N3p6MeSNbak](https://www.youtube.com/watch?v=N3p6MeSNbak)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Smerkin
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: The Space Giraffe-Tick-Penguin-Whale Thing](../../transcriptions/yt-WcxVgGWsLcY.md) [https://www.youtube.com/watch?v=WcxVgGWsLcY](https://www.youtube.com/watch?v=WcxVgGWsLcY)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Can you make Gas Mask Filters last longer than 3 seconds each?](../../transcriptions/yt-3I2JyLgHY_E.md) [https://www.youtube.com/watch?v=3I2JyLgHY_E](https://www.youtube.com/watch?v=3I2JyLgHY_E)
 

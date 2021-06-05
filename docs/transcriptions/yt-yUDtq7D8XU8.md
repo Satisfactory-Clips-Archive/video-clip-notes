@@ -3,6 +3,7 @@ title: "September 15th, 2020 Livestream Q&A: Snow Area Confirmed?"
 date: "2020-09-15"
 layout: transcript
 topics:
+    - "coffee-stainers/hannah"
     - "environment/biomes"
     - "environment/biomes/unplanned-biomes/snow"
     - "environment/world-map"
@@ -14,6 +15,7 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 
 ### Topics
+* [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 * [Environment > World Map](../topics/environment/world-map.md)

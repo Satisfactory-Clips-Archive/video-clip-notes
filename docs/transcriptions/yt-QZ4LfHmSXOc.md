@@ -3,6 +3,8 @@ title: "March 30th, 2021 Livestream Q&A: What motivated the change for the Geyse
 date: "2021-03-30"
 layout: transcript
 topics:
+    - "features/buildings/biomass-burner"
+    - "features/buildings/coal-generator"
     - "features/power-management/geothermal-energy"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
@@ -10,6 +12,8 @@ topics:
 https://www.youtube.com/watch?v=QZ4LfHmSXOc
 
 ### Topics
+* [Features > Buildings > Biomass Burner](../topics/features/buildings/biomass-burner.md)
+* [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
 * [Features > Power Management > Geothermal Energy](../topics/features/power-management/geothermal-energy.md)
 
 ### Transcript

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 3
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Unlocking power options via the Space Elevator](../../../transcriptions/yt-UwNbfqHESy0.md) [https://www.youtube.com/watch?v=UwNbfqHESy0](https://www.youtube.com/watch?v=UwNbfqHESy0)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
+
 ## March 2nd, 2021 Livestream
 * [Q&A: How will Update 4 change the lower-level items?](../../../transcriptions/yt-7DIFELANBQs.md) [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)
 

@@ -3,18 +3,20 @@ title: "August 25th, 2020 Livestream Q&A: Do you have any tips on Coal Generator
 date: "2020-08-25"
 layout: transcript
 topics:
+    - "features/buildings/coal-generator"
+    - "features/fluids"
     - "features/fluids/pipes"
     - "features/fluids/pumps"
-    - "features/power-management"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Do you have any tips on Coal Generators?
 https://www.youtube.com/watch?v=M4myLkUI6HU
 
 ### Topics
+* [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
+* [Features > Fluids](../topics/features/fluids.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Fluids > Pumps](../topics/features/fluids/pumps.md)
-* [Features > Power Management](../topics/features/power-management.md)
 
 ### Transcript
 

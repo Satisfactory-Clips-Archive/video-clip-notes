@@ -3,7 +3,7 @@ title: "December 19th, 2019 Livestream Q&A: Will there be larger underground spa
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "environment/world-map"
+    - "features/possible-features/underground-biome"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Will there be larger underground spaces?
@@ -12,7 +12,7 @@ This question was possibly replaced with a more recent answer: [January 19th, 20
 
 
 ### Topics
-* [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Possible Features > Underground Biome](../topics/features/possible-features/underground-biome.md)
 
 ### Transcript
 

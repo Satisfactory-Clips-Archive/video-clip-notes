@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
+    - "features/buildings/coal-generator"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: What's your favourite part of the game so far?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=wrJ7nQO9kPk
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
 
 ### Transcript
 

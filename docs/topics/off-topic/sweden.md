@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## June 1st, 2021 Livestream
+* [Q&A: What percentage of Sweden speaks English?](../../transcriptions/yt-Mv4jKWx7V3U.md) [https://www.youtube.com/watch?v=Mv4jKWx7V3U](https://www.youtube.com/watch?v=Mv4jKWx7V3U)
+
 ## May 18th, 2021 Livestream
 * [Q&A: What's living and working in Sweden like?](../../transcriptions/yt-rkXzMln6DcA.md) [https://www.youtube.com/watch?v=rkXzMln6DcA](https://www.youtube.com/watch?v=rkXzMln6DcA)
 * [Q&A: Do men get parental leave in Sweden?](../../transcriptions/yt-3UbMqP40hXc.md) [https://www.youtube.com/watch?v=3UbMqP40hXc](https://www.youtube.com/watch?v=3UbMqP40hXc)

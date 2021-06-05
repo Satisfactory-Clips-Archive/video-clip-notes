@@ -4,6 +4,7 @@ date: "2021-01-26"
 layout: transcript
 topics:
     - "features/buildings"
+    - "features/buildings/coal-generator"
     - "technology/physics"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=JaheHIeuxXU
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
 * [Technology > Physics](../topics/technology/physics.md)
 
 ### Transcript

@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 3)](../../../transcriptions/yt-D4Tmjw6TT78.md) [https://www.youtube.com/watch?v=D4Tmjw6TT78](https://www.youtube.com/watch?v=D4Tmjw6TT78)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 9)](../../../transcriptions/yt-jV46xr17D-g.md) [https://www.youtube.com/watch?v=jV46xr17D-g](https://www.youtube.com/watch?v=jV46xr17D-g)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Is there a technical reason you only made Mk.5 belts and not higher?](../../../transcriptions/yt-SiU_cgb0XhI.md) [https://www.youtube.com/watch?v=SiU_cgb0XhI](https://www.youtube.com/watch?v=SiU_cgb0XhI)
 * [Q&A: How do Mods handle Miners with multiple outputs?](../../../transcriptions/yt-JvmCTyv0uNo.md) [https://www.youtube.com/watch?v=JvmCTyv0uNo](https://www.youtube.com/watch?v=JvmCTyv0uNo)
@@ -33,6 +38,7 @@ date: Last Modified
 * [Jace Talk: Upgraded buildings available](../../../transcriptions/yt-mtVwiCQ5sZI,208.79191666666665,222.76420833333333.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223)
 
 ## March 9th, 2019 Livestream
+* [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) [https://www.youtube.com/watch?v=YwhXtnyk8YE](https://www.youtube.com/watch?v=YwhXtnyk8YE)
 * [Q&A: Are the Ore deposits infinite or do they exhaust eventually??](../../../transcriptions/yt-v4zf3_-seAg.md) [https://www.youtube.com/watch?v=v4zf3_-seAg](https://www.youtube.com/watch?v=v4zf3_-seAg)
 
 ## November 8th, 2018 Dev Blog

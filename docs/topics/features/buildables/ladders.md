@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Ladders
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 4)](../../../transcriptions/yt-Qrxb07LY0xo.md) [https://www.youtube.com/watch?v=Qrxb07LY0xo](https://www.youtube.com/watch?v=Qrxb07LY0xo)
+* [Trolling: Climbing mechanic in the game](../../../transcriptions/yt-GQwO3ADzdfE.md) [https://www.youtube.com/watch?v=GQwO3ADzdfE](https://www.youtube.com/watch?v=GQwO3ADzdfE)
+
 ## May 25th, 2021 Livestream
 * [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 2)](../../../transcriptions/yt-N3p6MeSNbak.md) [https://www.youtube.com/watch?v=N3p6MeSNbak](https://www.youtube.com/watch?v=N3p6MeSNbak)
 * [Q&A: What was your favourite item to work on as programmers?](../../../transcriptions/yt-1xZFoA2XyS8.md) [https://www.youtube.com/watch?v=1xZFoA2XyS8](https://www.youtube.com/watch?v=1xZFoA2XyS8)

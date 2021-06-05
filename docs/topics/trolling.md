@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## June 1st, 2021 Livestream
+* [Trolling: Climbing mechanic in the game](../transcriptions/yt-GQwO3ADzdfE.md) [https://www.youtube.com/watch?v=GQwO3ADzdfE](https://www.youtube.com/watch?v=GQwO3ADzdfE)
+* [Q&A: Snutt, where our pizza?](../transcriptions/yt-wMYigdObVSU.md) [https://www.youtube.com/watch?v=wMYigdObVSU](https://www.youtube.com/watch?v=wMYigdObVSU)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Can we have FICSIT stock trading & an economy system?](../transcriptions/yt-aXNyMSx6VyM.md) [https://www.youtube.com/watch?v=aXNyMSx6VyM](https://www.youtube.com/watch?v=aXNyMSx6VyM)
 * [Q&A: How many hours to be considered a real Satisfactory player?](../transcriptions/yt-w9rwc-OvRrE.md) [https://www.youtube.com/watch?v=w9rwc-OvRrE](https://www.youtube.com/watch?v=w9rwc-OvRrE)

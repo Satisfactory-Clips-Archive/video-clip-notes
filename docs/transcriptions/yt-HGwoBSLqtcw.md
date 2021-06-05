@@ -3,8 +3,7 @@ title: "December 19th, 2019 Livestream Q&A: Human Elevators?"
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "features/buildings"
-    - "mods/mods-vs-features"
+    - "features/requested-features/elevators"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Human Elevators?
@@ -13,8 +12,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
-* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Features > Requested Features > Elevators](../topics/features/requested-features/elevators.md)
 
 ### Transcript
 

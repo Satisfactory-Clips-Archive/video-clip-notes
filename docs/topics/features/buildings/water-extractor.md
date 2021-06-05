@@ -4,8 +4,20 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Water Extractor
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 3)](../../../transcriptions/yt-D4Tmjw6TT78.md) [https://www.youtube.com/watch?v=D4Tmjw6TT78](https://www.youtube.com/watch?v=D4Tmjw6TT78)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 5)](../../../transcriptions/yt-tYT9uBlbPfA.md) [https://www.youtube.com/watch?v=tYT9uBlbPfA](https://www.youtube.com/watch?v=tYT9uBlbPfA)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 6)](../../../transcriptions/yt-R9SFp0jzD7Q.md) [https://www.youtube.com/watch?v=R9SFp0jzD7Q](https://www.youtube.com/watch?v=R9SFp0jzD7Q)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 7)](../../../transcriptions/yt-qsEzxGGDdXM.md) [https://www.youtube.com/watch?v=qsEzxGGDdXM](https://www.youtube.com/watch?v=qsEzxGGDdXM)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 9)](../../../transcriptions/yt-jV46xr17D-g.md) [https://www.youtube.com/watch?v=jV46xr17D-g](https://www.youtube.com/watch?v=jV46xr17D-g)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 10)](../../../transcriptions/yt-szj7yUfsDnA.md) [https://www.youtube.com/watch?v=szj7yUfsDnA](https://www.youtube.com/watch?v=szj7yUfsDnA)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Are you aware we can place Water Extractors in the air?](../../../transcriptions/yt-vfclN0P_Mfk.md) [https://www.youtube.com/watch?v=vfclN0P_Mfk](https://www.youtube.com/watch?v=vfclN0P_Mfk)
+
+## April 20th, 2021 Livestream
+* [Snutt Talk: Removal of power self-regulation](../../../transcriptions/yt-qOsby_F5q-w.md) [https://www.youtube.com/watch?v=qOsby_F5q-w](https://www.youtube.com/watch?v=qOsby_F5q-w)
 
 ## March 23rd, 2021 Livestream
 * [Community FYI: Can't wait for Drones and Water Extractors in EA, this is a great Update](../../../transcriptions/yt-UnQrLUVfwuI.md) [https://www.youtube.com/watch?v=UnQrLUVfwuI](https://www.youtube.com/watch?v=UnQrLUVfwuI)

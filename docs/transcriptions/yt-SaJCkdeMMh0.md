@@ -3,6 +3,7 @@ title: "March 9th, 2019 Livestream Q&A: Are you supposed to be able to break the
 date: "2019-03-09"
 layout: transcript
 topics:
+    - "environment/resources/power-slug"
     - "environment/world-map"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=SaJCkdeMMh0
 
 ### Topics
+* [Environment > Resources > Power Slug](../topics/environment/resources/power-slug.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript

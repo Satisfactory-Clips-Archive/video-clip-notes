@@ -7,6 +7,8 @@ topics:
     - "technology/graphics"
     - "environment"
     - "environment/biomes"
+    - "environment/biomes/northern-forest"
+    - "environment/biomes/grass-fields"
 ---
 # [April 30th, 2020 VFX with Simon](../2020-04-30.md)
 ## Simon & Jace Talk: Different ambient effects for different Biomes
@@ -16,6 +18,8 @@ https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698
 * [Technology > Graphics](../topics/technology/graphics.md)
 * [Environment](../topics/environment.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Biomes > Northern Forest](../topics/environment/biomes/northern-forest.md)
+* [Environment > Biomes > Grass Fields](../topics/environment/biomes/grass-fields.md)
 
 ### Transcript
 

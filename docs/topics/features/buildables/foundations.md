@@ -5,6 +5,14 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## June 1st, 2021 Livestream
+* [Q&A: Can we get smaller Lights?](../../../transcriptions/yt-oV7CovRkpkE.md) [https://www.youtube.com/watch?v=oV7CovRkpkE](https://www.youtube.com/watch?v=oV7CovRkpkE)
+* [Q&A: Are you going to showcase good building practices?](../../../transcriptions/yt-x6yfwFj_gco.md) [https://www.youtube.com/watch?v=x6yfwFj_gco](https://www.youtube.com/watch?v=x6yfwFj_gco)
+* [Snutt & Jace Talk: Factory Foundations](../../../transcriptions/yt-q6JKkiecwo8.md) [https://www.youtube.com/watch?v=q6JKkiecwo8](https://www.youtube.com/watch?v=q6JKkiecwo8)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 6)](../../../transcriptions/yt-R9SFp0jzD7Q.md) [https://www.youtube.com/watch?v=R9SFp0jzD7Q](https://www.youtube.com/watch?v=R9SFp0jzD7Q)
+* [Q&A: How do you measure 10m height?](../../../transcriptions/yt-6_EKJGtzTdg.md) [https://www.youtube.com/watch?v=6_EKJGtzTdg](https://www.youtube.com/watch?v=6_EKJGtzTdg)
+* [Snutt Talk: Sandwich layer for Conveyor Belts](../../../transcriptions/yt-Kyla0AmCUoo.md) [https://www.youtube.com/watch?v=Kyla0AmCUoo](https://www.youtube.com/watch?v=Kyla0AmCUoo)
+
 ## May 28th, 2021 Livestream
 * [Snutt & Ben Talk: New Holograms](../../../transcriptions/yt-dyqOMITwLsY,945.7364583333333,1065.561195.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066)
 

@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## June 1st, 2021 Livestream
+* [Q&A: Satisfactory move to Unreal Engine 5?](../../../transcriptions/yt-fAjYRngL0Bk.md) [https://www.youtube.com/watch?v=fAjYRngL0Bk](https://www.youtube.com/watch?v=fAjYRngL0Bk)
+* [Snutt & Jace Talk: The Zip Line](../../../transcriptions/yt-fuJFAY4fxEg.md) [https://www.youtube.com/watch?v=fuJFAY4fxEg](https://www.youtube.com/watch?v=fuJFAY4fxEg)
+* [Snutt & Jace Talk: Update 4](../../../transcriptions/yt-F2rZeAX6w4c.md) [https://www.youtube.com/watch?v=F2rZeAX6w4c](https://www.youtube.com/watch?v=F2rZeAX6w4c)
+* [Snutt & Jace Talk: Jace's Factory Tour](../../../transcriptions/yt-Uz5ubjKvQWg.md) [https://www.youtube.com/watch?v=Uz5ubjKvQWg](https://www.youtube.com/watch?v=Uz5ubjKvQWg)
+
 ## May 28th, 2021 Livestream
 * [Q&A: What was the main issue with implementing Lights?](../../../transcriptions/yt-dyqOMITwLsY,102.398474,167.292125.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168)
 * [Snutt & Ben Talk: New Holograms](../../../transcriptions/yt-dyqOMITwLsY,945.7364583333333,1065.561195.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066)
@@ -42,6 +48,7 @@ date: Last Modified
 * [State of Dev: Hologram change](../../../transcriptions/yt-k_ma-Eg_4og.md) [https://www.youtube.com/watch?v=k_ma-Eg_4og](https://www.youtube.com/watch?v=k_ma-Eg_4og)
 * [State of Dev: Update 4 Launch broke our concurrent player records](../../../transcriptions/yt-HdPnhgBykko.md) [https://www.youtube.com/watch?v=HdPnhgBykko](https://www.youtube.com/watch?v=HdPnhgBykko)
 * [State of Dev: Removal of power self-regulation & issues with pipes](../../../transcriptions/yt-g90f175Jk_w.md) [https://www.youtube.com/watch?v=g90f175Jk_w](https://www.youtube.com/watch?v=g90f175Jk_w)
+* [Snutt Talk: Removal of power self-regulation](../../../transcriptions/yt-qOsby_F5q-w.md) [https://www.youtube.com/watch?v=qOsby_F5q-w](https://www.youtube.com/watch?v=qOsby_F5q-w)
 * [Q&A: Did you get more reports of graphical glitches when Update 4 started?](../../../transcriptions/yt-Ec8iy7j7RxM.md) [https://www.youtube.com/watch?v=Ec8iy7j7RxM](https://www.youtube.com/watch?v=Ec8iy7j7RxM)
 * [Q&A: Please pass on our thanks to the rest of the team, loved the Update?](../../../transcriptions/yt-Z-EWZL18Di0.md) [https://www.youtube.com/watch?v=Z-EWZL18Di0](https://www.youtube.com/watch?v=Z-EWZL18Di0)
 

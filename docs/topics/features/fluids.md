@@ -7,6 +7,11 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## June 1st, 2021 Livestream
+* [Q&A: Sewage pipes, too ?](../../transcriptions/yt-pWwXk0cJ9Fk.md) [https://www.youtube.com/watch?v=pWwXk0cJ9Fk](https://www.youtube.com/watch?v=pWwXk0cJ9Fk)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 6)](../../transcriptions/yt-R9SFp0jzD7Q.md) [https://www.youtube.com/watch?v=R9SFp0jzD7Q](https://www.youtube.com/watch?v=R9SFp0jzD7Q)
+* [Snutt & Jace Talk: Fluid headlift](../../transcriptions/yt-sksqE5qhmzE.md) [https://www.youtube.com/watch?v=sksqE5qhmzE](https://www.youtube.com/watch?v=sksqE5qhmzE)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Can you add Trucks that carry liquids?](../../transcriptions/yt-2EiZU9aWekQ.md) [https://www.youtube.com/watch?v=2EiZU9aWekQ](https://www.youtube.com/watch?v=2EiZU9aWekQ)
 
@@ -84,6 +89,7 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Tanker Trucks?](../../transcriptions/yt-IPmVdCgi2_A.md) [https://www.youtube.com/watch?v=IPmVdCgi2_A](https://www.youtube.com/watch?v=IPmVdCgi2_A)
+* [Q&A: Do you have any tips on Coal Generators?](../../transcriptions/yt-M4myLkUI6HU.md) [https://www.youtube.com/watch?v=M4myLkUI6HU](https://www.youtube.com/watch?v=M4myLkUI6HU)
 * [Q&A: Will you be adding more variety of resources?](../../transcriptions/yt-wvFR-VL4nc8.md) [https://www.youtube.com/watch?v=wvFR-VL4nc8](https://www.youtube.com/watch?v=wvFR-VL4nc8)
 * [Q&A: Is the sink going to accept liquids in the future?](../../transcriptions/yt-k6ZS5wzlNKs.md) [https://www.youtube.com/watch?v=k6ZS5wzlNKs](https://www.youtube.com/watch?v=k6ZS5wzlNKs)
 

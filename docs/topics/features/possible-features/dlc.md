@@ -4,6 +4,19 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > DLC
 
+## June 1st, 2021 Livestream
+* [Q&A: Toilet DLC?](../../../transcriptions/yt-kitahOI_c88.md) [https://www.youtube.com/watch?v=kitahOI_c88](https://www.youtube.com/watch?v=kitahOI_c88)
+* [Q&A: Working HUB Toilet?](../../../transcriptions/yt-bSD9Vj_ZKek.md) [https://www.youtube.com/watch?v=bSD9Vj_ZKek](https://www.youtube.com/watch?v=bSD9Vj_ZKek)
+* [Community FYI: There shall be riots if there is no flush DLC](../../../transcriptions/yt-GK8dWbQF9lE.md) [https://www.youtube.com/watch?v=GK8dWbQF9lE](https://www.youtube.com/watch?v=GK8dWbQF9lE)
+* [Community FYI: Will pay $69 for Toilet DLC](../../../transcriptions/yt-dUp_ljCmhs0.md) [https://www.youtube.com/watch?v=dUp_ljCmhs0](https://www.youtube.com/watch?v=dUp_ljCmhs0)
+* [Q&A: Sewage pipes, too ?](../../../transcriptions/yt-pWwXk0cJ9Fk.md) [https://www.youtube.com/watch?v=pWwXk0cJ9Fk](https://www.youtube.com/watch?v=pWwXk0cJ9Fk)
+* [Community FYI: Toilet DLC can't be free](../../../transcriptions/yt-ytgi0IDEQYo.md) [https://www.youtube.com/watch?v=ytgi0IDEQYo](https://www.youtube.com/watch?v=ytgi0IDEQYo)
+* [Community FYI: Game needs Dyson Sphere soon or it'll lose people](../../../transcriptions/yt-IegIG0LR1-4.md) [https://www.youtube.com/watch?v=IegIG0LR1-4](https://www.youtube.com/watch?v=IegIG0LR1-4)
+* Q&A: What's a DLC? [https://www.youtube.com/watch?v=Y8BcGbtkWf0](https://www.youtube.com/watch?v=Y8BcGbtkWf0)
+* [Q&A: Will Toilet DLC require Pipes?](../../../transcriptions/yt-99HzTmnXLaE.md) [https://www.youtube.com/watch?v=99HzTmnXLaE](https://www.youtube.com/watch?v=99HzTmnXLaE)
+* [Q&A: Will DLCs have microtransactions per flush?](../../../transcriptions/yt-25Uqa4KOKqc.md) [https://www.youtube.com/watch?v=25Uqa4KOKqc](https://www.youtube.com/watch?v=25Uqa4KOKqc)
+* [Q&A: Toilet Paper DLC?](../../../transcriptions/yt-BEv9D4YpBJk.md) [https://www.youtube.com/watch?v=BEv9D4YpBJk](https://www.youtube.com/watch?v=BEv9D4YpBJk)
+
 ## May 18th, 2021 Livestream
 * [Snutt & Jace Talk: Golf with your Factory](../../../transcriptions/yt-Cc1dqI86IUw.md) [https://www.youtube.com/watch?v=Cc1dqI86IUw](https://www.youtube.com/watch?v=Cc1dqI86IUw)
 * [Q&A: Will the Coffee Cup ever spill in-game?](../../../transcriptions/yt-N-eEiFrITAY.md) [https://www.youtube.com/watch?v=N-eEiFrITAY](https://www.youtube.com/watch?v=N-eEiFrITAY)

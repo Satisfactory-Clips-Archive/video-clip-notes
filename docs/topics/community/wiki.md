@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
+## June 1st, 2021 Livestream
+* [Q&A: What's Jace's favourite item in Satisfactory? (Part 3)](../../transcriptions/yt-m9tVh9AX65w.md) [https://www.youtube.com/watch?v=m9tVh9AX65w](https://www.youtube.com/watch?v=m9tVh9AX65w)
+* [Snutt & Jace Talk: The world of Satisfactory](../../transcriptions/yt-lwiruCRJKo0.md) [https://www.youtube.com/watch?v=lwiruCRJKo0](https://www.youtube.com/watch?v=lwiruCRJKo0)
+
 ## May 25th, 2021 Livestream
 * [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 1)](../../transcriptions/yt-n94KgIpWdZc.md) [https://www.youtube.com/watch?v=n94KgIpWdZc](https://www.youtube.com/watch?v=n94KgIpWdZc)
 * [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 2)](../../transcriptions/yt-N3p6MeSNbak.md) [https://www.youtube.com/watch?v=N3p6MeSNbak](https://www.youtube.com/watch?v=N3p6MeSNbak)

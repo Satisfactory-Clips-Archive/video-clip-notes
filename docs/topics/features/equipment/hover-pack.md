@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 4)](../../../transcriptions/yt-Qrxb07LY0xo.md) [https://www.youtube.com/watch?v=Qrxb07LY0xo](https://www.youtube.com/watch?v=Qrxb07LY0xo)
+* [Snutt & Jace Talk: Jace's Factory Tour](../../../transcriptions/yt-Uz5ubjKvQWg.md) [https://www.youtube.com/watch?v=Uz5ubjKvQWg](https://www.youtube.com/watch?v=Uz5ubjKvQWg)
+
 ## May 11th, 2021 Livestream
 * [Q&A: How about using Batteries in Hover Packs?](../../../transcriptions/yt-jpy8YF462tk.md) [https://www.youtube.com/watch?v=jpy8YF462tk](https://www.youtube.com/watch?v=jpy8YF462tk)
 * [Q&A: Hover Pack drift, is that intentional or unintentional?](../../../transcriptions/yt-fpKUYsg0WG0.md) [https://www.youtube.com/watch?v=fpKUYsg0WG0](https://www.youtube.com/watch?v=fpKUYsg0WG0)

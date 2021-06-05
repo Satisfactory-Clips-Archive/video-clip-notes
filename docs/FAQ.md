@@ -3555,7 +3555,7 @@ date: Last Modified
 * [February 6th, 2019 Livestream Q&A: Any DLCs planned?](./transcriptions/yt-Dtm6xIj-wM4,1429.8333333333333,1437.887831.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1429&end=1438](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1429&end=1438)
 </details>
 
-## [October 27th, 2020 Patch Notes](./2020-10-27.md)
+## [October 27th, 2020 Livestream](./2020-10-27.md)
 ### [Q&A: Talking about Engine Update, was that Unreal Engine 5?](./transcriptions/yt-unAf5J6OtDE.md) [https://www.youtube.com/watch?v=unAf5J6OtDE](https://www.youtube.com/watch?v=unAf5J6OtDE)
 
 <details>

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Water
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 10)](../../../transcriptions/yt-szj7yUfsDnA.md) [https://www.youtube.com/watch?v=szj7yUfsDnA](https://www.youtube.com/watch?v=szj7yUfsDnA)
+
 ## March 16th, 2021 Livestream
 * [We're also adding Nitrogen Gas](../../../transcriptions/yt-Dp77ih_XmkY,163.625,185.58333333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186)
 

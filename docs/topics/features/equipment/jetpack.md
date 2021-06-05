@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 4)](../../../transcriptions/yt-Qrxb07LY0xo.md) [https://www.youtube.com/watch?v=Qrxb07LY0xo](https://www.youtube.com/watch?v=Qrxb07LY0xo)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Turbofuel for Jet Packs](../../../transcriptions/yt-5Ij3wWqZb8Q.md) [https://www.youtube.com/watch?v=5Ij3wWqZb8Q](https://www.youtube.com/watch?v=5Ij3wWqZb8Q)
 

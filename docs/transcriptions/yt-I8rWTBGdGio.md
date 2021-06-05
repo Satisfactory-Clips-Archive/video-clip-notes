@@ -4,7 +4,6 @@ date: "2021-01-19"
 layout: transcript
 topics:
     - "community"
-    - "environment/biomes"
     - "environment/biomes/unplanned-biomes/snow"
     - "mods/mods-vs-features"
 ---
@@ -16,7 +15,6 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 ### Topics
 * [Community](../topics/community.md)
-* [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 

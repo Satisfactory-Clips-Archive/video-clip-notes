@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## June 1st, 2021 Livestream
+* [Q&A: Can you reveal what S.A.M. Ore is please, I need to know?](../../../transcriptions/yt-2pUioeu_oKE.md) [https://www.youtube.com/watch?v=2pUioeu_oKE](https://www.youtube.com/watch?v=2pUioeu_oKE)
+
 ## May 25th, 2021 Livestream
 * [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 1)](../../../transcriptions/yt-n94KgIpWdZc.md) [https://www.youtube.com/watch?v=n94KgIpWdZc](https://www.youtube.com/watch?v=n94KgIpWdZc)
 

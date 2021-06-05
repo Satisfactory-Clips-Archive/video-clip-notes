@@ -5,6 +5,17 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## June 1st, 2021 Livestream
+* [Q&A: Is Snutt on vacation now?](../../transcriptions/yt-1tUStRymvso.md) [https://www.youtube.com/watch?v=1tUStRymvso](https://www.youtube.com/watch?v=1tUStRymvso)
+* [Snutt Talk: Who Coffee Stain are & what Satisfactory is](../../transcriptions/yt-mW7I3QY6Gds.md) [https://www.youtube.com/watch?v=mW7I3QY6Gds](https://www.youtube.com/watch?v=mW7I3QY6Gds)
+* [Snutt & Jace Talk: Satisfactory is an Early Access game](../../transcriptions/yt-IJ1JuOjF6Y0.md) [https://www.youtube.com/watch?v=IJ1JuOjF6Y0](https://www.youtube.com/watch?v=IJ1JuOjF6Y0)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 6)](../../transcriptions/yt-R9SFp0jzD7Q.md) [https://www.youtube.com/watch?v=R9SFp0jzD7Q](https://www.youtube.com/watch?v=R9SFp0jzD7Q)
+* [Snutt Talk: Sandwich layer for Conveyor Belts](../../transcriptions/yt-Kyla0AmCUoo.md) [https://www.youtube.com/watch?v=Kyla0AmCUoo](https://www.youtube.com/watch?v=Kyla0AmCUoo)
+* [Q&A: Will this factory feature on Community Highlights?](../../transcriptions/yt-nE7Y8M0kUOY.md) [https://www.youtube.com/watch?v=nE7Y8M0kUOY](https://www.youtube.com/watch?v=nE7Y8M0kUOY)
+* [Snutt & Jace Talk: Community Tools](../../transcriptions/yt-yR6cb9fmWGU.md) [https://www.youtube.com/watch?v=yR6cb9fmWGU](https://www.youtube.com/watch?v=yR6cb9fmWGU)
+* [Snutt & Jace Talk: Epic Mega Sale](../../transcriptions/yt-8Ad-XvODOss.md) [https://www.youtube.com/watch?v=8Ad-XvODOss](https://www.youtube.com/watch?v=8Ad-XvODOss)
+* [Snutt & Jace Talk: Mystery surprise in Jace's factory HUB](../../transcriptions/yt-_F3OkVu4LnQ.md) [https://www.youtube.com/watch?v=_F3OkVu4LnQ](https://www.youtube.com/watch?v=_F3OkVu4LnQ)
+
 ## May 28th, 2021 Livestream
 * [Snutt & Ben Talked: Consequences of too many lights](../../transcriptions/yt-dyqOMITwLsY,783.279574,808.618017.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## June 1st, 2021 Livestream
+* [Q&A: Are we going to get a working bath tub for bath tub streams?](../../../transcriptions/yt-AKSgtvlhOlg.md) [https://www.youtube.com/watch?v=AKSgtvlhOlg](https://www.youtube.com/watch?v=AKSgtvlhOlg)
+
 ## May 28th, 2021 Livestream
 * [Q&A: Can you give a quick explanation of how the system for Lights works right now?](../../../transcriptions/yt-dyqOMITwLsY,199.03216666666665,448.69825.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449)
 

@@ -3,14 +3,24 @@ title: "April 20th, 2021 Livestream Snutt Talk: Removal of power self-regulation
 date: "2021-04-20"
 layout: transcript
 topics:
-    - ""
+    - "environment/resources/coal"
+    - "features/buildings/coal-generator"
+    - "features/buildings/water-extractor"
+    - "features/power-management"
+    - "features/power-management/nuclear-energy"
+    - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Snutt Talk: Removal of power self-regulation
 https://www.youtube.com/watch?v=qOsby_F5q-w
 
 ### Topics
-
+* [Environment > Resources > Coal](../topics/environment/resources/coal.md)
+* [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
+* [Features > Buildings > Water Extractor](../topics/features/buildings/water-extractor.md)
+* [Features > Power Management](../topics/features/power-management.md)
+* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
+* [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 

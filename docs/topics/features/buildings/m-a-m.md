@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > M.A.M.
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Unlocking additional inventory slots & Alternate Recipes via the M.A.M.](../../../transcriptions/yt-gUf8YiKr15w.md) [https://www.youtube.com/watch?v=gUf8YiKr15w](https://www.youtube.com/watch?v=gUf8YiKr15w)
+* [Snutt & Jace Talk: Recipes & Alternate Recipes](../../../transcriptions/yt-H2u0LDZlzgo.md) [https://www.youtube.com/watch?v=H2u0LDZlzgo](https://www.youtube.com/watch?v=H2u0LDZlzgo)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Tier 8 is missing Inflated Pocket Dimension?](../../../transcriptions/yt-fW_6OcInDNU.md) [https://www.youtube.com/watch?v=fW_6OcInDNU](https://www.youtube.com/watch?v=fW_6OcInDNU)
 

@@ -3,8 +3,8 @@ title: "April 20th, 2021 Livestream Q&A: Vertical elevators for character and tr
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "features/buildings"
     - "features/pioneer"
+    - "features/requested-features/elevators"
     - "features/transportation/vehicles"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
@@ -27,8 +27,8 @@ https://www.youtube.com/watch?v=uLe9eMpCxRg
 
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
 * [Features > Pioneer](../topics/features/pioneer.md)
+* [Features > Requested Features > Elevators](../topics/features/requested-features/elevators.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 
 ### Transcript

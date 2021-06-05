@@ -72,6 +72,15 @@ date: Last Modified
 * [World Map](./topics/environment/world-map.md)
 
 ## [Biomes](./topics/environment/biomes.md)
+* [Blue Crater](./topics/environment/biomes/blue-crater.md)
+* [Dune Desert](./topics/environment/biomes/dune-desert.md)
+* [Grass Fields](./topics/environment/biomes/grass-fields.md)
+* [Northern Forest](./topics/environment/biomes/northern-forest.md)
+* [Red Bamboo Fields](./topics/environment/biomes/red-bamboo-fields.md)
+* [Red Jungle](./topics/environment/biomes/red-jungle.md)
+* [Rocky Desert](./topics/environment/biomes/rocky-desert.md)
+* [Spire Coast](./topics/environment/biomes/spire-coast.md)
+* [Swamp](./topics/environment/biomes/swamp.md)
 
 ### Unplanned Biomes
 * [Snow](./topics/environment/biomes/unplanned-biomes/snow.md)
@@ -87,6 +96,7 @@ date: Last Modified
 ---
 
 ## [Resources](./topics/environment/resources.md)
+* [Coal](./topics/environment/resources/coal.md)
 * [Mercer Sphere](./topics/environment/resources/mercer-sphere.md)
 * [Nuclear Pasta](./topics/environment/resources/nuclear-pasta.md)
 * [Oil](./topics/environment/resources/oil.md)
@@ -127,10 +137,12 @@ date: Last Modified
 * [AWESOME Store](./topics/features/buildings/awesome-store.md)
 * [Biomass Burner](./topics/features/buildings/biomass-burner.md)
 * [Blender](./topics/features/buildings/blender.md)
+* [Coal Generator](./topics/features/buildings/coal-generator.md)
 * [Constructor](./topics/features/buildings/constructor.md)
 * [M.A.M.](./topics/features/buildings/m-a-m.md)
 * [Miner](./topics/features/buildings/miner.md)
 * [Oil Extractor](./topics/features/buildings/oil-extractor.md)
+* [Overclocking & Underclocking](./topics/features/buildings/overclocking-underclocking.md)
 * [Packager](./topics/features/buildings/packager.md)
 * [Particle Accelerator](./topics/features/buildings/particle-accelerator.md)
 * [Radar Tower](./topics/features/buildings/radar-tower.md)
@@ -187,6 +199,7 @@ date: Last Modified
 * [Decor](./topics/features/possible-features/decor.md)
 * [DLC](./topics/features/possible-features/dlc.md)
 * [Farming](./topics/features/possible-features/farming.md)
+* [Underground Biome](./topics/features/possible-features/underground-biome.md)
 * [Weather Systems](./topics/features/possible-features/weather-systems.md)
 
 ### [Game Modes](./topics/features/possible-features/game-modes.md)
@@ -210,7 +223,8 @@ date: Last Modified
 * [Nuclear Waste](./topics/features/power-management/nuclear-energy/nuclear-waste.md)
 ---
 
-## Requested Features
+## [Requested Features](./topics/features/requested-features.md)
+* [Elevators](./topics/features/requested-features/elevators.md)
 * [Golf](./topics/features/requested-features/golf.md)
 * [Holstering Equipment](./topics/features/requested-features/holstering-equipment.md)
 * [Multiple Body Slots](./topics/features/requested-features/multiple-body-slots.md)
@@ -266,6 +280,11 @@ date: Last Modified
 
 ## Unreleased Features
 * [Unreleased Content](./topics/features/unreleased-features/unreleased-content.md)
+---
+
+# [June 2021 Epic Mega Sale Stream](./topics/june-2021-epic-mega-sale-stream.md)
+* [Setting up a Coal Generator](./topics/june-2021-epic-mega-sale-stream/setting-up-a-coal-generator.md)
+* [Setting up Modular Frame production](./topics/june-2021-epic-mega-sale-stream/setting-up-modular-frame-production.md)
 ---
 * [Level Design Stream](./topics/level-design-stream.md)
 * [Localisation](./topics/localisation.md)

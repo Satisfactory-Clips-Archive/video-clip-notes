@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## June 1st, 2021 Livestream
+* [Q&A: Working HUB Toilet?](../../../transcriptions/yt-bSD9Vj_ZKek.md) [https://www.youtube.com/watch?v=bSD9Vj_ZKek](https://www.youtube.com/watch?v=bSD9Vj_ZKek)
+* [Snutt Talk: How the game starts](../../../transcriptions/yt-onchLhZOONY.md) [https://www.youtube.com/watch?v=onchLhZOONY](https://www.youtube.com/watch?v=onchLhZOONY)
+* [Q&A: Toilet Paper DLC?](../../../transcriptions/yt-BEv9D4YpBJk.md) [https://www.youtube.com/watch?v=BEv9D4YpBJk](https://www.youtube.com/watch?v=BEv9D4YpBJk)
+* [Snutt & Jace Talk: Mystery surprise in Jace's factory HUB](../../../transcriptions/yt-_F3OkVu4LnQ.md) [https://www.youtube.com/watch?v=_F3OkVu4LnQ](https://www.youtube.com/watch?v=_F3OkVu4LnQ)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Can we have FICSIT stock trading & an economy system?](../../../transcriptions/yt-aXNyMSx6VyM.md) [https://www.youtube.com/watch?v=aXNyMSx6VyM](https://www.youtube.com/watch?v=aXNyMSx6VyM)
 

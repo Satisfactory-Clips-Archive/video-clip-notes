@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../topics.md) > Merch
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## June 1st, 2021 Livestream
+* [Q&A: Any updates on the Mug?](../transcriptions/yt-76HIK_X8Vjk.md) [https://www.youtube.com/watch?v=76HIK_X8Vjk](https://www.youtube.com/watch?v=76HIK_X8Vjk)
+* [Q&A: Mug Merch?](../transcriptions/yt-PGC0GFAOcrY.md) [https://www.youtube.com/watch?v=PGC0GFAOcrY](https://www.youtube.com/watch?v=PGC0GFAOcrY)
+
 ## May 25th, 2021 Livestream
 * [Q&A: How many Doggos are there in the world?](../transcriptions/yt-PtsEfgW-R7o.md) [https://www.youtube.com/watch?v=PtsEfgW-R7o](https://www.youtube.com/watch?v=PtsEfgW-R7o)
 * [Q&A: What about the enamel cup?](../transcriptions/yt-bv7CJbAYnBM.md) [https://www.youtube.com/watch?v=bv7CJbAYnBM](https://www.youtube.com/watch?v=bv7CJbAYnBM)

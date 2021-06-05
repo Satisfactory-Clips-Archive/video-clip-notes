@@ -13,6 +13,12 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
+* [Snutt & Jace Talk: The Zip Line](../../transcriptions/yt-fuJFAY4fxEg.md) [https://www.youtube.com/watch?v=fuJFAY4fxEg](https://www.youtube.com/watch?v=fuJFAY4fxEg)
+* [Snutt & Jace Talk: Unlocking additional inventory slots & Alternate Recipes via the M.A.M.](../../transcriptions/yt-gUf8YiKr15w.md) [https://www.youtube.com/watch?v=gUf8YiKr15w](https://www.youtube.com/watch?v=gUf8YiKr15w)
+* [Snutt & Jace Talk: B for Blashlight](../../transcriptions/yt-l68pg8Mc77g.md) [https://www.youtube.com/watch?v=l68pg8Mc77g](https://www.youtube.com/watch?v=l68pg8Mc77g)
+
 ## May 25th, 2021 Livestream
 * [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 1)](../../transcriptions/yt-n94KgIpWdZc.md) [https://www.youtube.com/watch?v=n94KgIpWdZc](https://www.youtube.com/watch?v=n94KgIpWdZc)
 * [Q&A: Will the Rebar shotgun come back?](../../transcriptions/yt-p7aALqL6xlo.md) [https://www.youtube.com/watch?v=p7aALqL6xlo](https://www.youtube.com/watch?v=p7aALqL6xlo)

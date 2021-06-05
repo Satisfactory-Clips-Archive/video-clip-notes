@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Jump Pads
 
+## June 1st, 2021 Livestream
+* [Snutt Talk: How the game starts](../../../transcriptions/yt-onchLhZOONY.md) [https://www.youtube.com/watch?v=onchLhZOONY](https://www.youtube.com/watch?v=onchLhZOONY)
+
 ## May 4th, 2021 Livestream
 * [Community FYI: Golf in Satisfactory exists, screenshot proof in QA post](../../../transcriptions/yt-YFdrWgy8xEk.md) [https://www.youtube.com/watch?v=YFdrWgy8xEk](https://www.youtube.com/watch?v=YFdrWgy8xEk)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 4 Teasers
 
+## June 1st, 2021 Livestream
+* [Q&A: What unexpected & surprising features will be in Update 5?](../../../transcriptions/yt-eOPr8JOE7gU.md) [https://www.youtube.com/watch?v=eOPr8JOE7gU](https://www.youtube.com/watch?v=eOPr8JOE7gU)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt Talk: We re-used shots](../../../transcriptions/yt-D0HtPNj2E-s.md) [https://www.youtube.com/watch?v=D0HtPNj2E-s](https://www.youtube.com/watch?v=D0HtPNj2E-s)
 * [Snutt & Jace Talk: These shots were captured by Linus](../../../transcriptions/yt-wmDKqgSU66s.md) [https://www.youtube.com/watch?v=wmDKqgSU66s](https://www.youtube.com/watch?v=wmDKqgSU66s)

@@ -3,7 +3,7 @@ title: "September 15th, 2020 Livestream Q&A: Are you guys going to make a Player
 date: "2020-09-15"
 layout: transcript
 topics:
-    - ""
+    - "features/requested-features/elevators"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are you guys going to make a Player Elevator?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
-
+* [Features > Requested Features > Elevators](../topics/features/requested-features/elevators.md)
 
 ### Transcript
 

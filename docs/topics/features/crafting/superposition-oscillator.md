@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Superposition Oscillator
 
+## June 1st, 2021 Livestream
+* [Q&A: What's Jace's favourite item in Satisfactory? (Part 1)](../../../transcriptions/yt-3ZT6X9iRTGk.md) [https://www.youtube.com/watch?v=3ZT6X9iRTGk](https://www.youtube.com/watch?v=3ZT6X9iRTGk)
+* [Q&A: What's Jace's favourite item in Satisfactory? (Part 2)](../../../transcriptions/yt-Soh2tpzlV7c.md) [https://www.youtube.com/watch?v=Soh2tpzlV7c](https://www.youtube.com/watch?v=Soh2tpzlV7c)
+* [Q&A: What's Jace's favourite item in Satisfactory? (Part 3)](../../../transcriptions/yt-m9tVh9AX65w.md) [https://www.youtube.com/watch?v=m9tVh9AX65w](https://www.youtube.com/watch?v=m9tVh9AX65w)
+
 ## May 18th, 2021 Livestream
 * Q&A: Quantum Computers & Superposition Oscillators; Update 5 content or separate release? [https://www.youtube.com/watch?v=gIahtVFvL68](https://www.youtube.com/watch?v=gIahtVFvL68)
 

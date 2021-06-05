@@ -3,40 +3,37 @@ title: "Biomes"
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Biomes
+* [Blue Crater](../../topics/environment/biomes/blue-crater.md)
+* [Dune Desert](../../topics/environment/biomes/dune-desert.md)
+* [Grass Fields](../../topics/environment/biomes/grass-fields.md)
+* [Northern Forest](../../topics/environment/biomes/northern-forest.md)
+* [Red Bamboo Fields](../../topics/environment/biomes/red-bamboo-fields.md)
+* [Red Jungle](../../topics/environment/biomes/red-jungle.md)
+* [Rocky Desert](../../topics/environment/biomes/rocky-desert.md)
+* [Spire Coast](../../topics/environment/biomes/spire-coast.md)
+* [Swamp](../../topics/environment/biomes/swamp.md)
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
 ## May 4th, 2021 Livestream
-* [Community Highlights: Dune Desert Waterfall Mesa & the pending World Updates](../../transcriptions/yt-b86m8SEx6Vw.md) [https://www.youtube.com/watch?v=b86m8SEx6Vw](https://www.youtube.com/watch?v=b86m8SEx6Vw)
 * [Q&A: Will we get a bigger Map?](../../transcriptions/yt-LPvrY2LJghE.md) [https://www.youtube.com/watch?v=LPvrY2LJghE](https://www.youtube.com/watch?v=LPvrY2LJghE)
 * [Q&A: Ideas to add something in No Man's Land?](../../transcriptions/yt-Oe1kKDYZKek.md) [https://www.youtube.com/watch?v=Oe1kKDYZKek](https://www.youtube.com/watch?v=Oe1kKDYZKek)
 
 ## April 27th, 2021 Livestream
 * [Q&A: Will you guys make a bigger map some day?](../../transcriptions/yt-YDk5S3_5Wdg.md) [https://www.youtube.com/watch?v=YDk5S3_5Wdg](https://www.youtube.com/watch?v=YDk5S3_5Wdg)
 
-## March 30th, 2021 Livestream
-* [Q&A: Asking very nicely even if it's a no; Oil node in Green Hills?](../../transcriptions/yt-RI8F-a7oO1s.md) [https://www.youtube.com/watch?v=RI8F-a7oO1s](https://www.youtube.com/watch?v=RI8F-a7oO1s)
-* [Q&A: Is the World Update part of Update 4 or will that come later?](../../transcriptions/yt-ANIKlhFcjkk.md) [https://www.youtube.com/watch?v=ANIKlhFcjkk](https://www.youtube.com/watch?v=ANIKlhFcjkk)
-
 ## March 23rd, 2021 Livestream
-* [Q&A: Heard Dune Desert getting a second rework, is this true?](../../transcriptions/yt-x3fI_4o0WPw.md) [https://www.youtube.com/watch?v=x3fI_4o0WPw](https://www.youtube.com/watch?v=x3fI_4o0WPw)
 * [Q&A: When you push World Updates, will those come to EA & Experimental at the same time or separate?](../../transcriptions/yt-4mnVlMXrfyw.md) [https://www.youtube.com/watch?v=4mnVlMXrfyw](https://www.youtube.com/watch?v=4mnVlMXrfyw)
 
 ## March 2nd, 2021 Livestream
 * [Q&A: What kind of changes can we expect from the World Update?](../../transcriptions/yt-5qQx1URl8lY.md) [https://www.youtube.com/watch?v=5qQx1URl8lY](https://www.youtube.com/watch?v=5qQx1URl8lY)
-* [Snutt & Jace Talk: Hannah confirms Spire Coast overhaul as "new biome"](../../transcriptions/yt-BZumPH8OW6o.md) [https://www.youtube.com/watch?v=BZumPH8OW6o](https://www.youtube.com/watch?v=BZumPH8OW6o)
-
-## February 23rd, 2021 Livestream
-* [Q&A: Will the Dune Desert get crammed or will it stay as the perfect mega-base location?](../../transcriptions/yt-95QNCSBoRYM.md) [https://www.youtube.com/watch?v=95QNCSBoRYM](https://www.youtube.com/watch?v=95QNCSBoRYM)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?](../../transcriptions/yt-gqIBbkGCxdI.md) [https://www.youtube.com/watch?v=gqIBbkGCxdI](https://www.youtube.com/watch?v=gqIBbkGCxdI)
 * [Q&A: Is there another area rework like the desert update happening?](../../transcriptions/yt-sV-kvBvlTXc.md) [https://www.youtube.com/watch?v=sV-kvBvlTXc](https://www.youtube.com/watch?v=sV-kvBvlTXc)
 
 ## January 19th, 2021 Livestream
-* [Q&A: If the community made a Snow Biome, would you add that?](../../transcriptions/yt-I8rWTBGdGio.md) [https://www.youtube.com/watch?v=I8rWTBGdGio](https://www.youtube.com/watch?v=I8rWTBGdGio)
 * [Q&A: What about the island off to the west of the Map?](../../transcriptions/yt-VjKPXr_e5yk.md) [https://www.youtube.com/watch?v=VjKPXr_e5yk](https://www.youtube.com/watch?v=VjKPXr_e5yk)
 * [Q&A: Will clearing out all the Biomes increase your garbage limit?](../../transcriptions/yt-XcfIWDujsxA.md) [https://www.youtube.com/watch?v=XcfIWDujsxA](https://www.youtube.com/watch?v=XcfIWDujsxA)
-* [Q&A: Can we please get a Snow Biome?](../../transcriptions/yt-QHVdhswD13w.md) [https://www.youtube.com/watch?v=QHVdhswD13w](https://www.youtube.com/watch?v=QHVdhswD13w)
 * [Q&A: Are you still planning Underground Biomes?](../../transcriptions/yt-zho1Gn_x76w.md) [https://www.youtube.com/watch?v=zho1Gn_x76w](https://www.youtube.com/watch?v=zho1Gn_x76w)
 
 ## January 12th, 2021 Livestream
@@ -44,9 +41,6 @@ date: Last Modified
 
 ## December 17th, 2020 Q&A
 * [Q&A: New biomes?](../../transcriptions/yt--JXPsTlJIiI,1026.3920333333333,1036.5688666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037)
-
-## December 15th, 2020 Livestream
-* [Q&A: Will there be a Snow Biome?](../../transcriptions/yt-iyhdKRg1b0A.md) [https://www.youtube.com/watch?v=iyhdKRg1b0A](https://www.youtube.com/watch?v=iyhdKRg1b0A)
 
 ## November 17th, 2020 Livestream
 * [Q&A: Is Snow/Ice coming?](../../transcriptions/yt-s8HISCrP7w8.md) [https://www.youtube.com/watch?v=s8HISCrP7w8](https://www.youtube.com/watch?v=s8HISCrP7w8)
@@ -68,20 +62,8 @@ date: Last Modified
 ## September 8th, 2020 Livestream
 * [Q&A: Even more Biomes coming to play?](../../transcriptions/yt-VgDl00Ycn3U.md) [https://www.youtube.com/watch?v=VgDl00Ycn3U](https://www.youtube.com/watch?v=VgDl00Ycn3U)
 
-## May 15th, 2020 Q&A
-* [Q&A: Might we see more megafauna? The Dune Desert is missing something.](../../transcriptions/yt-NlIVwoRqjVk,1062.2612,1092.6582333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1062&end=1093](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1062&end=1093)
-
 ## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: Different ambient effects for different Biomes](../../transcriptions/yt-mci92Mhr7MM,608.793576,697.5301666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698)
-
-## March 12th, 2020 Patch Notes
-* [Jace Talk: Update to the Dune Desert](../../transcriptions/yt-DsbHR1Nc8fw,221.864578,254.54595833333332.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255)
-
-## February 11th, 2020 Livestream
-* [Q&A: Is this the new Desert Biome?](../../transcriptions/yt-ZKHgWByn3D4.md) [https://www.youtube.com/watch?v=ZKHgWByn3D4](https://www.youtube.com/watch?v=ZKHgWByn3D4)
-
-## July 2nd, 2019 Patch Notes
-* [Jace Talk: We've revampled the end-game areas](../../transcriptions/yt-mtVwiCQ5sZI,194.15229166666666,201.326125.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=194&end=202](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=194&end=202)
 
 ## March 9th, 2019 Livestream
 * [Jace Talk: fantasyish Biome](../../transcriptions/yt--2hJ5_qMAoM.md) [https://www.youtube.com/watch?v=-2hJ5_qMAoM](https://www.youtube.com/watch?v=-2hJ5_qMAoM)

@@ -16,6 +16,10 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## June 1st, 2021 Livestream
+* [Community FYI: Game needs more optimising soon or you're going to lose people](../transcriptions/yt-oGk5GX8YYXQ.md) [https://www.youtube.com/watch?v=oGk5GX8YYXQ](https://www.youtube.com/watch?v=oGk5GX8YYXQ)
+* [Q&A: Do you take optimisation seriously?](../transcriptions/yt-ajNj4BScHZ0.md) [https://www.youtube.com/watch?v=ajNj4BScHZ0](https://www.youtube.com/watch?v=ajNj4BScHZ0)
+
 ## May 25th, 2021 Livestream
 * [Q&A: How many Updates before Release?](../transcriptions/yt-dHKlfnU7pm8.md) [https://www.youtube.com/watch?v=dHKlfnU7pm8](https://www.youtube.com/watch?v=dHKlfnU7pm8)
 
@@ -60,7 +64,6 @@ date: Last Modified
 
 ## March 23rd, 2021 Livestream
 * [Q&A: Please can I have the future Roadmap back, I need it in my life](../transcriptions/yt-AlerpJ2AaXQ.md) [https://www.youtube.com/watch?v=AlerpJ2AaXQ](https://www.youtube.com/watch?v=AlerpJ2AaXQ)
-* [Q&A: Heard Dune Desert getting a second rework, is this true?](../transcriptions/yt-x3fI_4o0WPw.md) [https://www.youtube.com/watch?v=x3fI_4o0WPw](https://www.youtube.com/watch?v=x3fI_4o0WPw)
 
 ## March 9th, 2021 Livestream
 * [Q&A: Do you guys have plans for other save-breaking changes in the future?](../transcriptions/yt-mFPSgNO5cIk.md) [https://www.youtube.com/watch?v=mFPSgNO5cIk](https://www.youtube.com/watch?v=mFPSgNO5cIk)

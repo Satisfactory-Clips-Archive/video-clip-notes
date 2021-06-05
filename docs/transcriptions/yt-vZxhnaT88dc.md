@@ -3,7 +3,7 @@ title: "August 25th, 2020 Livestream Q&A: Actual Elevators with floor-select but
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "mods/mods-vs-features"
+    - "features/requested-features/elevators"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Actual Elevators with floor-select buttons ?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
-* [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
+* [Features > Requested Features > Elevators](../topics/features/requested-features/elevators.md)
 
 ### Transcript
 

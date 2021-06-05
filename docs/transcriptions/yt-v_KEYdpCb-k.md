@@ -3,6 +3,7 @@ title: "September 8th, 2020 Livestream Q&A: Elevator for Vehicles & Players?"
 date: "2020-09-08"
 layout: transcript
 topics:
+    - "features/requested-features/elevators"
     - "features/transportation/vehicles"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
@@ -12,6 +13,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
+* [Features > Requested Features > Elevators](../topics/features/requested-features/elevators.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 
 ### Transcript

@@ -1,0 +1,27 @@
+---
+title: "June 1st, 2021 Livestream Snutt & Jace Talk: Setting up Modular Frame production (Part 3)"
+date: "2021-06-01"
+layout: transcript
+topics:
+    - "features/buildables/conveyor-belts"
+    - "features/buildings/constructor"
+    - "features/buildings/smelter"
+    - "features/power-management"
+    - "june-2021-epic-mega-sale-stream"
+    - "june-2021-epic-mega-sale-stream/setting-up-modular-frame-production"
+---
+# [June 1st, 2021 Livestream](../2021-06-01.md)
+## Snutt & Jace Talk: Setting up Modular Frame production (Part 3)
+https://www.youtube.com/watch?v=BYH_gm7gjqE
+
+### Topics
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Features > Buildings > Constructor](../topics/features/buildings/constructor.md)
+* [Features > Buildings > Smelter](../topics/features/buildings/smelter.md)
+* [Features > Power Management](../topics/features/power-management.md)
+* [June 2021 Epic Mega Sale Stream](../topics/june-2021-epic-mega-sale-stream.md)
+* [June 2021 Epic Mega Sale Stream > Setting up Modular Frame production](../topics/june-2021-epic-mega-sale-stream/setting-up-modular-frame-production.md)
+
+### Transcript
+
+> um so yeah one of these machines will produce 30 ingots oh and he's also going to see some power wait oh encroaching oh i missed it actually we're gonna do hello all right weird yeah no straight lines today guys sorry i can hear i can hear your chat right now like i don't even i'm not even looking but i can hear you guys okay like it's gonna be fine okay um right so now the smelters start smelting i think that's a verb um and we're just to feed that in here so more straight lines i'm going to try in a piece chat why do you why do you why do you cling to this when we all know where this is going to go right this also needs power so these power poles you can only connect like four lines at a time so we need to make do with what we got there we go you can get up through the power poles in the future yeah yeah more i mean i think you actually have them but uh so now we're making plates let's feed that into the machine with unknown organ this one also needs power so we're just gonna hook that up real quick perfect um so now we get plates done and now we're just going to look into the screws make some screws this one needs rods though so we're going to need to like make one more constructor here yes

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## June 1st, 2021 Livestream
+* [Q&A: Can we get smaller Lights?](../../../transcriptions/yt-oV7CovRkpkE.md) [https://www.youtube.com/watch?v=oV7CovRkpkE](https://www.youtube.com/watch?v=oV7CovRkpkE)
+
 ## May 28th, 2021 Livestream
 * [Q&A: What was the main issue with implementing Lights?](../../../transcriptions/yt-dyqOMITwLsY,102.398474,167.292125.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168)
 * [Q&A: Can you give a quick explanation of how the system for Lights works right now?](../../../transcriptions/yt-dyqOMITwLsY,199.03216666666665,448.69825.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449)
@@ -44,6 +47,9 @@ date: Last Modified
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Day/Night cycle changes](../../../transcriptions/yt-nDsZJUKHOUI.md) [https://www.youtube.com/watch?v=nDsZJUKHOUI](https://www.youtube.com/watch?v=nDsZJUKHOUI)
 * [Q&A: Do Lights affect gameplay?](../../../transcriptions/yt-Yf-LT5pHJTU.md) [https://www.youtube.com/watch?v=Yf-LT5pHJTU](https://www.youtube.com/watch?v=Yf-LT5pHJTU)
+
+## March 30th, 2021 Livestream
+* [Q&A: Is the buildings related to power going to be daisy-chained?](../../../transcriptions/yt-83vj59cC5wU.md) [https://www.youtube.com/watch?v=83vj59cC5wU](https://www.youtube.com/watch?v=83vj59cC5wU)
 
 ## March 23rd, 2021 Livestream
 * [Community FYI: 200fps Lighting bug is fixed](../../../transcriptions/yt-oUEubST5cWM.md) [https://www.youtube.com/watch?v=oUEubST5cWM](https://www.youtube.com/watch?v=oUEubST5cWM)

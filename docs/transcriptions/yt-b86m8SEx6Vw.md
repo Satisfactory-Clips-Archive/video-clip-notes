@@ -4,7 +4,8 @@ date: "2021-05-04"
 layout: transcript
 topics:
     - "community/community-highlights"
-    - "environment/biomes"
+    - "environment/biomes/dune-desert"
+    - "environment/biomes/spire-coast"
     - "satisfactory-updates/pending/world-update"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
@@ -13,7 +14,8 @@ https://www.youtube.com/watch?v=b86m8SEx6Vw
 
 ### Topics
 * [Community > Community Highlights](../topics/community/community-highlights.md)
-* [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)
+* [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
 * [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 
 ### Transcript

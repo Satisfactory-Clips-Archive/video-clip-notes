@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## June 1st, 2021 Livestream
+* [Q&A: Updates on Dedicated Servers?](../../../transcriptions/yt-JGj3aITwDg8.md) [https://www.youtube.com/watch?v=JGj3aITwDg8](https://www.youtube.com/watch?v=JGj3aITwDg8)
+* [Q&A: How many people can be on one save without Servers?](../../../transcriptions/yt-7uSzql6YPJc.md) [https://www.youtube.com/watch?v=7uSzql6YPJc](https://www.youtube.com/watch?v=7uSzql6YPJc)
+* [Q&A: Will Dedicated Servers be able to run on Linux?](../../../transcriptions/yt-yyhNw1SsYx0.md) [https://www.youtube.com/watch?v=yyhNw1SsYx0](https://www.youtube.com/watch?v=yyhNw1SsYx0)
+
 ## May 25th, 2021 Livestream
 * [Snutt Talk: Dedicated Servers](../../../transcriptions/yt-0QmD2JZs7-g.md) [https://www.youtube.com/watch?v=0QmD2JZs7-g](https://www.youtube.com/watch?v=0QmD2JZs7-g)
 * [Q&A: When do you think the focus will be on fixing Multiplayer?](../../../transcriptions/yt-3alTbxWgPnc.md) [https://www.youtube.com/watch?v=3alTbxWgPnc](https://www.youtube.com/watch?v=3alTbxWgPnc)

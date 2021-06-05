@@ -3,7 +3,6 @@ title: "January 19th, 2021 Livestream Q&A: Can we please get a Snow Biome?"
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "environment/biomes"
     - "environment/biomes/unplanned-biomes/snow"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
@@ -13,7 +12,6 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 
 ### Topics
-* [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 
 ### Transcript

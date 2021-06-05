@@ -11,6 +11,10 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: The world of Satisfactory](../transcriptions/yt-lwiruCRJKo0.md) [https://www.youtube.com/watch?v=lwiruCRJKo0](https://www.youtube.com/watch?v=lwiruCRJKo0)
+* [Trolling: Climbing mechanic in the game](../transcriptions/yt-GQwO3ADzdfE.md) [https://www.youtube.com/watch?v=GQwO3ADzdfE](https://www.youtube.com/watch?v=GQwO3ADzdfE)
+
 ## May 25th, 2021 Livestream
 * [Community FYI: "We're making a chill game" - *goes into a dark cave*](../transcriptions/yt-T3HTo6rKIAI.md) [https://www.youtube.com/watch?v=T3HTo6rKIAI](https://www.youtube.com/watch?v=T3HTo6rKIAI)
 * [Q&A: How many Doggos are there in the world?](../transcriptions/yt-PtsEfgW-R7o.md) [https://www.youtube.com/watch?v=PtsEfgW-R7o](https://www.youtube.com/watch?v=PtsEfgW-R7o)

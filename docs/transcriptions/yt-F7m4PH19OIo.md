@@ -3,6 +3,7 @@ title: "March 9th, 2021 Livestream Q&A: Why was the change done to Power?"
 date: "2021-03-09"
 layout: transcript
 topics:
+    - "features/buildings/coal-generator"
     - "features/power-management"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=F7m4PH19OIo
 
 ### Topics
+* [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
 * [Features > Power Management](../topics/features/power-management.md)
 
 ### Transcript

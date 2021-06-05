@@ -3,8 +3,12 @@ title: "September 8th, 2020 Livestream Q&A: Even more Biomes coming to play?"
 date: "2020-09-08"
 layout: transcript
 topics:
+    - "coffee-stainers/hannah"
     - "environment/biomes"
+    - "environment/biomes/dune-desert"
+    - "environment/biomes/unplanned-biomes/snow"
     - "environment/world-map"
+    - "satisfactory-updates/pending/world-update"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Even more Biomes coming to play?
@@ -13,8 +17,12 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 
 ### Topics
+* [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)
+* [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 
 ### Transcript
 

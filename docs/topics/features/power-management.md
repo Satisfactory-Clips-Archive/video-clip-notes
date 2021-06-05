@@ -9,6 +9,20 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## June 1st, 2021 Livestream
+* [Q&A: What's Jace's favourite thing to do in Satisfactory?](../../transcriptions/yt-Ic6-rM6otww.md) [https://www.youtube.com/watch?v=Ic6-rM6otww](https://www.youtube.com/watch?v=Ic6-rM6otww)
+* [Snutt & Jace Talk: Handling power cuts](../../transcriptions/yt-KgpTpm6CTOA.md) [https://www.youtube.com/watch?v=KgpTpm6CTOA](https://www.youtube.com/watch?v=KgpTpm6CTOA)
+* [Snutt & Jace Talk: Unlocking power options via the Space Elevator](../../transcriptions/yt-UwNbfqHESy0.md) [https://www.youtube.com/watch?v=UwNbfqHESy0](https://www.youtube.com/watch?v=UwNbfqHESy0)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 8)](../../transcriptions/yt-B5e4Is3oqYw.md) [https://www.youtube.com/watch?v=B5e4Is3oqYw](https://www.youtube.com/watch?v=B5e4Is3oqYw)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 9)](../../transcriptions/yt-jV46xr17D-g.md) [https://www.youtube.com/watch?v=jV46xr17D-g](https://www.youtube.com/watch?v=jV46xr17D-g)
+* [Snutt & Jace Talk: Power Management (Part 1)](../../transcriptions/yt-3uRBZeQb25o.md) [https://www.youtube.com/watch?v=3uRBZeQb25o](https://www.youtube.com/watch?v=3uRBZeQb25o)
+* [Snutt & Jace Talk: Power Management (Part 2)](../../transcriptions/yt-SfssbA6x1YI.md) [https://www.youtube.com/watch?v=SfssbA6x1YI](https://www.youtube.com/watch?v=SfssbA6x1YI)
+* [Snutt & Jace Talk: Power Management (Part 3)](../../transcriptions/yt-C9vuYpUPjBM.md) [https://www.youtube.com/watch?v=C9vuYpUPjBM](https://www.youtube.com/watch?v=C9vuYpUPjBM)
+* [Snutt & Jace Talk: Setting up a Coal Generator (Part 11)](../../transcriptions/yt-AdcVkDJ1d1o.md) [https://www.youtube.com/watch?v=AdcVkDJ1d1o](https://www.youtube.com/watch?v=AdcVkDJ1d1o)
+* [Snutt & Jace Talk: Setting up Modular Frame production (Part 3)](../../transcriptions/yt-BYH_gm7gjqE.md) [https://www.youtube.com/watch?v=BYH_gm7gjqE](https://www.youtube.com/watch?v=BYH_gm7gjqE)
+* [Snutt & Jace Talk: Recipes & Alternate Recipes](../../transcriptions/yt-H2u0LDZlzgo.md) [https://www.youtube.com/watch?v=H2u0LDZlzgo](https://www.youtube.com/watch?v=H2u0LDZlzgo)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Steam Power?](../../transcriptions/yt-A7yrlAlJ6l4.md) [https://www.youtube.com/watch?v=A7yrlAlJ6l4](https://www.youtube.com/watch?v=A7yrlAlJ6l4)
 * [Q&A: Coal plants are gobbling coal like never before, have you nerfed them?](../../transcriptions/yt-CJ8fQV1ttF4.md) [https://www.youtube.com/watch?v=CJ8fQV1ttF4](https://www.youtube.com/watch?v=CJ8fQV1ttF4)
@@ -29,6 +43,7 @@ date: Last Modified
 
 ## April 20th, 2021 Livestream
 * [State of Dev: Removal of power self-regulation & issues with pipes](../../transcriptions/yt-g90f175Jk_w.md) [https://www.youtube.com/watch?v=g90f175Jk_w](https://www.youtube.com/watch?v=g90f175Jk_w)
+* [Snutt Talk: Removal of power self-regulation](../../transcriptions/yt-qOsby_F5q-w.md) [https://www.youtube.com/watch?v=qOsby_F5q-w](https://www.youtube.com/watch?v=qOsby_F5q-w)
 * [Q&A: What's the reason behind no daisy-chaining, it looks cleaner?](../../transcriptions/yt-tqnmQ6HMij4.md) [https://www.youtube.com/watch?v=tqnmQ6HMij4](https://www.youtube.com/watch?v=tqnmQ6HMij4)
 * [Q&A: Any plans for power update to remove power flow through Train tracks?](../../transcriptions/yt-UkQvGhbLm9k.md) [https://www.youtube.com/watch?v=UkQvGhbLm9k](https://www.youtube.com/watch?v=UkQvGhbLm9k)
 
@@ -38,7 +53,6 @@ date: Last Modified
 
 ## March 30th, 2021 Livestream
 * [Q&A: Loss of efficiency over long distances?](../../transcriptions/yt-G3mcXzVjUZQ.md) [https://www.youtube.com/watch?v=G3mcXzVjUZQ](https://www.youtube.com/watch?v=G3mcXzVjUZQ)
-* [Q&A: Is the buildings related to power going to be daisy-chained?](../../transcriptions/yt-83vj59cC5wU.md) [https://www.youtube.com/watch?v=83vj59cC5wU](https://www.youtube.com/watch?v=83vj59cC5wU)
 
 ## March 23rd, 2021 Livestream
 * Q&A: Is it possible to have energy flow in one direction, like a Valve for energy? [https://www.youtube.com/watch?v=Ym19caliyN0](https://www.youtube.com/watch?v=Ym19caliyN0)
@@ -89,7 +103,6 @@ date: Last Modified
 * [Q&A: Any plans to daisy-chain Buildings together to not have Power Poles everywhere?](../../transcriptions/yt-wFyEOXvO1bA.md) [https://www.youtube.com/watch?v=wFyEOXvO1bA](https://www.youtube.com/watch?v=wFyEOXvO1bA)
 * [Q&A: Will you change Geothermal Generators?](../../transcriptions/yt-MmCfcNv8F8o.md) [https://www.youtube.com/watch?v=MmCfcNv8F8o](https://www.youtube.com/watch?v=MmCfcNv8F8o)
 * [Q&A: Do we have to worry about Nuclear Power Plants too in Update 4?](../../transcriptions/yt-Y8Ib5zlOzKI.md) [https://www.youtube.com/watch?v=Y8Ib5zlOzKI](https://www.youtube.com/watch?v=Y8Ib5zlOzKI)
-* [Q&A: With the introducion of Gas, will Coal Generators be split into two buildings?](../../transcriptions/yt-vsmihiP_Tmg.md) [https://www.youtube.com/watch?v=vsmihiP_Tmg](https://www.youtube.com/watch?v=vsmihiP_Tmg)
 
 ## January 15th, 2021 Video
 * [Q&A: What will Gases be used for?](../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188)
@@ -148,7 +161,6 @@ date: Last Modified
 * [Q&A: Would geothermal generators get a buff or rework of sorts?](../../transcriptions/yt-T7BPQ1ZHeJA.md) [https://www.youtube.com/watch?v=T7BPQ1ZHeJA](https://www.youtube.com/watch?v=T7BPQ1ZHeJA)
 
 ## August 25th, 2020 Livestream
-* [Q&A: Do you have any tips on Coal Generators?](../../transcriptions/yt-M4myLkUI6HU.md) [https://www.youtube.com/watch?v=M4myLkUI6HU](https://www.youtube.com/watch?v=M4myLkUI6HU)
 * [Q&A: What about a more complex power system with transformers and stuff?](../../transcriptions/yt-GaId9klI7ho.md) [https://www.youtube.com/watch?v=GaId9klI7ho](https://www.youtube.com/watch?v=GaId9klI7ho)
 * [Q&A: AI in an Electricity Management System that can handle power surges when we're away from base?](../../transcriptions/yt-gj-NgdVYap8.md) [https://www.youtube.com/watch?v=gj-NgdVYap8](https://www.youtube.com/watch?v=gj-NgdVYap8)
 * [Q&A: Are there internal discussions to significantly rework existing buildings like refineries?](../../transcriptions/yt-x07FQZjbA_c.md) [https://www.youtube.com/watch?v=x07FQZjbA_c](https://www.youtube.com/watch?v=x07FQZjbA_c)

@@ -15,6 +15,10 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## June 1st, 2021 Livestream
+* [Snutt Talk: How the game starts](../../transcriptions/yt-onchLhZOONY.md) [https://www.youtube.com/watch?v=onchLhZOONY](https://www.youtube.com/watch?v=onchLhZOONY)
+* [Snutt & Jace Talk: How unlocking milestones works](../../transcriptions/yt-qUoGdKTMqYo.md) [https://www.youtube.com/watch?v=qUoGdKTMqYo](https://www.youtube.com/watch?v=qUoGdKTMqYo)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Any idea how many Tiers we'd be looking at towards the end of development?](../../transcriptions/yt--ZE3BrvTn1g.md) [https://www.youtube.com/watch?v=-ZE3BrvTn1g](https://www.youtube.com/watch?v=-ZE3BrvTn1g)
 

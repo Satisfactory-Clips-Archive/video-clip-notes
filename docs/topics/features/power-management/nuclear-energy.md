@@ -10,6 +10,7 @@ date: Last Modified
 * Q&A: Can we have nuclear meltdowns? [https://www.youtube.com/watch?v=eSyifcA_yPg](https://www.youtube.com/watch?v=eSyifcA_yPg)
 
 ## April 20th, 2021 Livestream
+* [Snutt Talk: Removal of power self-regulation](../../../transcriptions/yt-qOsby_F5q-w.md) [https://www.youtube.com/watch?v=qOsby_F5q-w](https://www.youtube.com/watch?v=qOsby_F5q-w)
 * [Q&A: What about letting people use Space Elevator to send up Fuel Rods instead of sinking them?](../../../transcriptions/yt-R83_D7zSZYo.md) [https://www.youtube.com/watch?v=R83_D7zSZYo](https://www.youtube.com/watch?v=R83_D7zSZYo)
 
 ## April 13th, 2021 Livestream

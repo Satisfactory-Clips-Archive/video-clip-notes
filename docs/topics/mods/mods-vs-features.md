@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## June 1st, 2021 Livestream
+* [Community FYI: Game needs Dyson Sphere soon or it'll lose people](../../transcriptions/yt-IegIG0LR1-4.md) [https://www.youtube.com/watch?v=IegIG0LR1-4](https://www.youtube.com/watch?v=IegIG0LR1-4)
+
 ## May 28th, 2021 Livestream
 * [Q&A: Is there anything else you're planning to do with Lights in the future?](../../transcriptions/yt-dyqOMITwLsY,597.456414,647.6052916666666.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=597&end=648](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=597&end=648)
 
@@ -93,13 +96,13 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Plans for a Map Editor?](../../transcriptions/yt-vvRPYyc7sb8.md) [https://www.youtube.com/watch?v=vvRPYyc7sb8](https://www.youtube.com/watch?v=vvRPYyc7sb8)
 * [Q&A: Mk. 2 Hypertubes?](../../transcriptions/yt-SFKNdledOaA.md) [https://www.youtube.com/watch?v=SFKNdledOaA](https://www.youtube.com/watch?v=SFKNdledOaA)
-* [Q&A: Actual Elevators with floor-select buttons ?](../../transcriptions/yt-vZxhnaT88dc.md) [https://www.youtube.com/watch?v=vZxhnaT88dc](https://www.youtube.com/watch?v=vZxhnaT88dc)
 * [Snutt Talk: Map Builders](../../transcriptions/yt-UjOVdR5tNSw.md) [https://www.youtube.com/watch?v=UjOVdR5tNSw](https://www.youtube.com/watch?v=UjOVdR5tNSw)
 * [Q&A: Will light be added to the game?](../../transcriptions/yt-FuUHMwoNA0s.md) [https://www.youtube.com/watch?v=FuUHMwoNA0s](https://www.youtube.com/watch?v=FuUHMwoNA0s)
 * [Snutt Talk: VR Support](../../transcriptions/yt-ZHumj5MeIcw.md) [https://www.youtube.com/watch?v=ZHumj5MeIcw](https://www.youtube.com/watch?v=ZHumj5MeIcw)
 * Q&A: Can players have custom programmers ? (Part 1) [https://clips.twitch.tv/BovineConsiderateSangMVGame](https://clips.twitch.tv/BovineConsiderateSangMVGame)
 * Q&A: Do you have plans for elevators usable for players? [https://clips.twitch.tv/DullSmokyWaffleDoggo](https://clips.twitch.tv/DullSmokyWaffleDoggo)
 * Q&A: Can players have custom programmers ? (Part 2) [https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain](https://clips.twitch.tv/GrossPoisedAardvarkChocolateRain)
+* Q&A: Actual Elevators with floor-select buttons ? [https://clips.twitch.tv/SparklingFilthyKathyBleedPurple](https://clips.twitch.tv/SparklingFilthyKathyBleedPurple)
 
 ## August 18th, 2020 Livestream
 * Mods vs. Features (Part 3) [https://clips.twitch.tv/CorrectAlertEggplantPJSalt](https://clips.twitch.tv/CorrectAlertEggplantPJSalt)
@@ -124,7 +127,6 @@ date: Last Modified
 * [Q&A: Are we going to be implmenting any of the ideas from Mods?](../../transcriptions/yt-SUSCYnziYkI.md) [https://www.youtube.com/watch?v=SUSCYnziYkI](https://www.youtube.com/watch?v=SUSCYnziYkI)
 
 ## December 19th, 2019 Livestream
-* [Q&A: Human Elevators?](../../transcriptions/yt-HGwoBSLqtcw.md) [https://www.youtube.com/watch?v=HGwoBSLqtcw](https://www.youtube.com/watch?v=HGwoBSLqtcw)
 * [Q&A: Will there be more competitive stuff?](../../transcriptions/yt-sMGWvbL09qA.md) [https://www.youtube.com/watch?v=sMGWvbL09qA](https://www.youtube.com/watch?v=sMGWvbL09qA)
 
 ## March 9th, 2019 Livestream

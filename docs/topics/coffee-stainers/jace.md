@@ -4,6 +4,19 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## June 1st, 2021 Livestream
+* [Q&A: What's Jace's favourite thing to do in Satisfactory?](../../transcriptions/yt-Ic6-rM6otww.md) [https://www.youtube.com/watch?v=Ic6-rM6otww](https://www.youtube.com/watch?v=Ic6-rM6otww)
+* Q&A: Does Jace play Factorio? [https://www.youtube.com/watch?v=4tWUJUJRKNI](https://www.youtube.com/watch?v=4tWUJUJRKNI)
+* [Q&A: Jace, can we get a heart rate monitor?](../../transcriptions/yt-HTgGZVI4PfM.md) [https://www.youtube.com/watch?v=HTgGZVI4PfM](https://www.youtube.com/watch?v=HTgGZVI4PfM)
+* [Q&A: What's Jace's favourite item in Satisfactory? (Part 1)](../../transcriptions/yt-3ZT6X9iRTGk.md) [https://www.youtube.com/watch?v=3ZT6X9iRTGk](https://www.youtube.com/watch?v=3ZT6X9iRTGk)
+* [Q&A: What's Jace's favourite item in Satisfactory? (Part 2)](../../transcriptions/yt-Soh2tpzlV7c.md) [https://www.youtube.com/watch?v=Soh2tpzlV7c](https://www.youtube.com/watch?v=Soh2tpzlV7c)
+* [Q&A: What's Jace's favourite item in Satisfactory? (Part 3)](../../transcriptions/yt-m9tVh9AX65w.md) [https://www.youtube.com/watch?v=m9tVh9AX65w](https://www.youtube.com/watch?v=m9tVh9AX65w)
+* [Snutt Talk: Who Coffee Stain are & what Satisfactory is](../../transcriptions/yt-mW7I3QY6Gds.md) [https://www.youtube.com/watch?v=mW7I3QY6Gds](https://www.youtube.com/watch?v=mW7I3QY6Gds)
+* [Snutt & Jace Talk: Satisfactory is an Early Access game](../../transcriptions/yt-IJ1JuOjF6Y0.md) [https://www.youtube.com/watch?v=IJ1JuOjF6Y0](https://www.youtube.com/watch?v=IJ1JuOjF6Y0)
+* [Snutt & Jace Talk: Jace's Factory Tour](../../transcriptions/yt-Uz5ubjKvQWg.md) [https://www.youtube.com/watch?v=Uz5ubjKvQWg](https://www.youtube.com/watch?v=Uz5ubjKvQWg)
+* [Snutt & Jace Talk: Epic Mega Sale](../../transcriptions/yt-8Ad-XvODOss.md) [https://www.youtube.com/watch?v=8Ad-XvODOss](https://www.youtube.com/watch?v=8Ad-XvODOss)
+* [Snutt & Jace Talk: Mystery surprise in Jace's factory HUB](../../transcriptions/yt-_F3OkVu4LnQ.md) [https://www.youtube.com/watch?v=_F3OkVu4LnQ](https://www.youtube.com/watch?v=_F3OkVu4LnQ)
+
 ## May 25th, 2021 Livestream
 * Q&A: Can we have Jace voice ADA as well? [https://www.youtube.com/watch?v=xhEIChHi0Qc](https://www.youtube.com/watch?v=xhEIChHi0Qc)
 * [Q&A: When can we get in-game Jace/Snutt Pioneer skins?](../../transcriptions/yt-ikM8j671oEc.md) [https://www.youtube.com/watch?v=ikM8j671oEc](https://www.youtube.com/watch?v=ikM8j671oEc)

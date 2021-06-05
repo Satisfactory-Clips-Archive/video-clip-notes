@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 4
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Unlocking power options via the Space Elevator](../../../transcriptions/yt-UwNbfqHESy0.md) [https://www.youtube.com/watch?v=UwNbfqHESy0](https://www.youtube.com/watch?v=UwNbfqHESy0)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Power Storage what Tier?](../../../transcriptions/yt-hyFz4ZawRe8.md) [https://www.youtube.com/watch?v=hyFz4ZawRe8](https://www.youtube.com/watch?v=hyFz4ZawRe8)
 

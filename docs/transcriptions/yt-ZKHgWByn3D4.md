@@ -4,7 +4,7 @@ date: "2020-02-11"
 layout: transcript
 topics:
     - "community"
-    - "environment/biomes"
+    - "environment/biomes/dune-desert"
     - "trolling"
 ---
 # [February 11th, 2020 Livestream](../2020-02-11.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=ZKHgWByn3D4
 
 ### Topics
 * [Community](../topics/community.md)
-* [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

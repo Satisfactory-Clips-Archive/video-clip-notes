@@ -3,6 +3,7 @@ title: "September 8th, 2020 Livestream Q&A: When will \"coal\" be \"Coal\" on th
 date: "2020-09-08"
 layout: transcript
 topics:
+    - "environment/resources/coal"
     - "technology/user-interface"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=p-Zd7qm0D6E
 
 ### Topics
+* [Environment > Resources > Coal](../topics/environment/resources/coal.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

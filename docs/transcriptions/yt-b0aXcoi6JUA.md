@@ -3,6 +3,7 @@ title: "April 20th, 2021 Livestream Community FYI: Slug Soda as an energy drink"
 date: "2021-04-20"
 layout: transcript
 topics:
+    - "environment/resources/power-slug"
     - "features/buildings/space-elevator/food-court"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=b0aXcoi6JUA
 
 ### Topics
+* [Environment > Resources > Power Slug](../topics/environment/resources/power-slug.md)
 * [Features > Buildings > Space Elevator > Food Court](../topics/features/buildings/space-elevator/food-court.md)
 
 ### Transcript

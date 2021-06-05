@@ -3,6 +3,8 @@ title: "May 18th, 2021 Livestream Q&A: Coal plants are gobbling coal like never 
 date: "2021-05-18"
 layout: transcript
 topics:
+    - "environment/resources/coal"
+    - "features/buildings/coal-generator"
     - "features/power-management"
     - "features/power-management/power-storage"
     - "satisfactory-updates/released/satisfactory-update-4"
@@ -12,6 +14,8 @@ topics:
 https://www.youtube.com/watch?v=CJ8fQV1ttF4
 
 ### Topics
+* [Environment > Resources > Coal](../topics/environment/resources/coal.md)
+* [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Features > Power Management > Power Storage](../topics/features/power-management/power-storage.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)

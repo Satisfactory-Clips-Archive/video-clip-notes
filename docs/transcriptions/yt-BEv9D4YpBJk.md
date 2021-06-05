@@ -1,0 +1,23 @@
+---
+title: "June 1st, 2021 Livestream Q&A: Toilet Paper DLC?"
+date: "2021-06-01"
+layout: transcript
+topics:
+    - "features/buildings/awesome-store"
+    - "features/buildings/the-hub"
+    - "features/possible-features/dlc"
+    - "june-2021-epic-mega-sale-stream"
+---
+# [June 1st, 2021 Livestream](../2021-06-01.md)
+## Q&A: Toilet Paper DLC?
+https://www.youtube.com/watch?v=BEv9D4YpBJk
+
+### Topics
+* [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [June 2021 Epic Mega Sale Stream](../topics/june-2021-epic-mega-sale-stream.md)
+
+### Transcript
+
+> so uh toilet paper dlc that's the question that's in here so people uh we i i have i have announced that we will have a toilet paper dlc all right you can uh no toilet paper toilet flush flush tails uh there's a toilet in the hub in the game you can't flush it oh wait i propose that we have a dlc that you can't flush i just realized i realized we have time to show something here that i don't know what it was jase you mentioned something in the hub on your save file here i'm going to load it oh yeah but i don't know if there's anything there we have to see you can check it check it just check it see don't don't hype this up too much chat maybe it's not cool yeah this might not be good yeah yeah maybe we'll get banned from epic games we don't need toilet paper we have coupons yes yeah exactly all right

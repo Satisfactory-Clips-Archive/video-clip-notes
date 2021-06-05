@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-lore.md) > Characters > ADA
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: ADA (Part 1)](../../../transcriptions/yt-nTovpIX8gp0.md) [https://www.youtube.com/watch?v=nTovpIX8gp0](https://www.youtube.com/watch?v=nTovpIX8gp0)
+* [Snutt & Jace Talk: ADA (Part 2)](../../../transcriptions/yt-bTE1Sh5Hiew.md) [https://www.youtube.com/watch?v=bTE1Sh5Hiew](https://www.youtube.com/watch?v=bTE1Sh5Hiew)
+
 ## May 25th, 2021 Livestream
 * Q&A: Can we have Jace voice ADA as well? [https://www.youtube.com/watch?v=xhEIChHi0Qc](https://www.youtube.com/watch?v=xhEIChHi0Qc)
 

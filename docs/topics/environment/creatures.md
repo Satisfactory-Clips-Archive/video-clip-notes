@@ -9,6 +9,12 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## June 1st, 2021 Livestream
+* Q&A: Pet Spiders? [https://www.youtube.com/watch?v=9kOzRAR9jKE](https://www.youtube.com/watch?v=9kOzRAR9jKE)
+* [Snutt & Jace Talk: Hostile Creatures](../../transcriptions/yt-0twuCunKIQY.md) [https://www.youtube.com/watch?v=0twuCunKIQY](https://www.youtube.com/watch?v=0twuCunKIQY)
+* Snutt & Jace Talk: The Spitter [https://www.youtube.com/watch?v=MCgNEnp1p_g](https://www.youtube.com/watch?v=MCgNEnp1p_g)
+* [Snutt & Jace Talk: Arachnophobia Mode](../../transcriptions/yt-GHWfece0mjM.md) [https://www.youtube.com/watch?v=GHWfece0mjM](https://www.youtube.com/watch?v=GHWfece0mjM)
+
 ## May 28th, 2021 Livestream
 * [Q&A: Is there anything else aside from Conveyor Belts that's not using Distance Fields?](../../transcriptions/yt-dyqOMITwLsY,448.69825,500.75024999999994.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=448&end=501](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=448&end=501)
 

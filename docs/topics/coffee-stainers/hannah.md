@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 
+## June 1st, 2021 Livestream
+* [Snutt & Jace Talk: Northern Forest will be impacted by the World Update, blame Hannah](../../transcriptions/yt-M7wSuhXitMk.md) [https://www.youtube.com/watch?v=M7wSuhXitMk](https://www.youtube.com/watch?v=M7wSuhXitMk)
+* [Q&A: Any thoughts of respawning flora?](../../transcriptions/yt-EtJ0aoI_fBs.md) [https://www.youtube.com/watch?v=EtJ0aoI_fBs](https://www.youtube.com/watch?v=EtJ0aoI_fBs)
+
 ## May 25th, 2021 Livestream
 * [Community FYI: I write Satisfactory fan-fiction](../../transcriptions/yt-v4fB0C5N8To.md) [https://www.youtube.com/watch?v=v4fB0C5N8To](https://www.youtube.com/watch?v=v4fB0C5N8To)
 * [Q&A: How many Doggos are there in the world?](../../transcriptions/yt-PtsEfgW-R7o.md) [https://www.youtube.com/watch?v=PtsEfgW-R7o](https://www.youtube.com/watch?v=PtsEfgW-R7o)
@@ -59,6 +63,12 @@ date: Last Modified
 
 ## September 29th, 2020 Livestream
 * [Q&A: Will there be a stream or something with Hannah?](../../transcriptions/yt-YM0ojMjT1mU.md) [https://www.youtube.com/watch?v=YM0ojMjT1mU](https://www.youtube.com/watch?v=YM0ojMjT1mU)
+
+## September 15th, 2020 Livestream
+* [Q&A: Snow Area Confirmed?](../../transcriptions/yt-yUDtq7D8XU8.md) [https://www.youtube.com/watch?v=yUDtq7D8XU8](https://www.youtube.com/watch?v=yUDtq7D8XU8)
+
+## September 8th, 2020 Livestream
+* [Q&A: Even more Biomes coming to play?](../../transcriptions/yt-VgDl00Ycn3U.md) [https://www.youtube.com/watch?v=VgDl00Ycn3U](https://www.youtube.com/watch?v=VgDl00Ycn3U)
 
 ## September 1st, 2020 Livestream
 * [Q&A: Let Hannah finish her work on the map before expanding?](../../transcriptions/yt-wZOVw8KV1rQ.md) [https://www.youtube.com/watch?v=wZOVw8KV1rQ](https://www.youtube.com/watch?v=wZOVw8KV1rQ)

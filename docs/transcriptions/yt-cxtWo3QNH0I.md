@@ -3,6 +3,7 @@ title: "November 17th, 2020 Livestream Q&A: Mk.0 Iron Trains that you can power 
 date: "2020-11-17"
 layout: transcript
 topics:
+    - "environment/resources/coal"
     - "features/transportation/trains"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=cxtWo3QNH0I
 
 ### Topics
+* [Environment > Resources > Coal](../topics/environment/resources/coal.md)
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
 
 ### Transcript
