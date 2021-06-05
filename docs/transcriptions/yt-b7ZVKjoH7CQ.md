@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: When is Toilet update coming?
 https://www.youtube.com/watch?v=b7ZVKjoH7CQ
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: What about the flushing toilet?](./yt-sve9kjgML2E.md) [https://www.youtube.com/watch?v=sve9kjgML2E](https://www.youtube.com/watch?v=sve9kjgML2E)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Toilet flush?](./yt-b06s0rzssTc.md) [https://www.youtube.com/watch?v=b06s0rzssTc](https://www.youtube.com/watch?v=b06s0rzssTc)
 
 
 ### Topics

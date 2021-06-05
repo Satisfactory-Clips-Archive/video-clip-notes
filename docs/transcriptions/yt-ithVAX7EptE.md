@@ -8,7 +8,7 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Microtranscation DLC?
 https://www.youtube.com/watch?v=ithVAX7EptE
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Toilet DLC, when?](./yt-qgNE5bu73j0.md) [https://www.youtube.com/watch?v=qgNE5bu73j0](https://www.youtube.com/watch?v=qgNE5bu73j0)
+This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Toilet DLC?](./yt-kitahOI_c88.md) [https://www.youtube.com/watch?v=kitahOI_c88](https://www.youtube.com/watch?v=kitahOI_c88)
 
 
 ### Topics

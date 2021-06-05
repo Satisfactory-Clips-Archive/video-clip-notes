@@ -9,7 +9,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: The game is not done until I can flush the toilet?
 https://www.youtube.com/watch?v=64xmTN-rhbs
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: What about the flushing toilet?](./yt-sve9kjgML2E.md) [https://www.youtube.com/watch?v=sve9kjgML2E](https://www.youtube.com/watch?v=sve9kjgML2E)
+This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Toilet flush?](./yt-b06s0rzssTc.md) [https://www.youtube.com/watch?v=b06s0rzssTc](https://www.youtube.com/watch?v=b06s0rzssTc)
 
 
 ### Topics

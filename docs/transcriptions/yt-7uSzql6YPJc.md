@@ -9,6 +9,12 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: How many people can be on one save without Servers?
 https://www.youtube.com/watch?v=7uSzql6YPJc
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as February 2019.</summary>
+
+* [February 6th, 2019 Livestream Q&A: Is 4 players the recommended number?](./yt-Dtm6xIj-wM4,1733.7666666666667,1775.710975.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1733&end=1776](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1733&end=1776)
+</details>
+
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

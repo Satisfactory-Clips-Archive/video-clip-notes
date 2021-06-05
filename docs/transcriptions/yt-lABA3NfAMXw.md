@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Where's the mug?
 https://www.youtube.com/watch?v=lABA3NfAMXw
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: What about the enamel cup?](./yt-bv7CJbAYnBM.md) [https://www.youtube.com/watch?v=bv7CJbAYnBM](https://www.youtube.com/watch?v=bv7CJbAYnBM)
+This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Any updates on the Mug?](./yt-76HIK_X8Vjk.md) [https://www.youtube.com/watch?v=76HIK_X8Vjk](https://www.youtube.com/watch?v=76HIK_X8Vjk)
 
 
 ### Topics

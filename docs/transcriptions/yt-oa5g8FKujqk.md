@@ -9,7 +9,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: What about the Toilet?
 https://www.youtube.com/watch?v=oa5g8FKujqk
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Toilet DLC, when?](./yt-qgNE5bu73j0.md) [https://www.youtube.com/watch?v=qgNE5bu73j0](https://www.youtube.com/watch?v=qgNE5bu73j0)
+This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Toilet DLC?](./yt-kitahOI_c88.md) [https://www.youtube.com/watch?v=kitahOI_c88](https://www.youtube.com/watch?v=kitahOI_c88)
 
 
 ### Topics
