@@ -12,6 +12,15 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Snutt & Jace Talk: Setting up Modular Frame production (Part 5)
 https://www.youtube.com/watch?v=jyLejK5nkNA
+<details>
+<summary>This video is part of a series of 4 videos.</summary>
+
+* [June 1st, 2021 Livestream Snutt & Jace Talk: Setting up Modular Frame production (Part 1)](./yt-_ngvdiVOMnk.md) [https://www.youtube.com/watch?v=_ngvdiVOMnk](https://www.youtube.com/watch?v=_ngvdiVOMnk)
+* [June 1st, 2021 Livestream Snutt & Jace Talk: Setting up Modular Frame production (Part 2)](./yt-kj15iCn0COw.md) [https://www.youtube.com/watch?v=kj15iCn0COw](https://www.youtube.com/watch?v=kj15iCn0COw)
+* [June 1st, 2021 Livestream Snutt & Jace Talk: Setting up Modular Frame production (Part 3)](./yt-BYH_gm7gjqE.md) [https://www.youtube.com/watch?v=BYH_gm7gjqE](https://www.youtube.com/watch?v=BYH_gm7gjqE)
+* [June 1st, 2021 Livestream Snutt & Jace Talk: Setting up Modular Frame production (Part 4)](./yt-vXjkVdbqVWA.md) [https://www.youtube.com/watch?v=vXjkVdbqVWA](https://www.youtube.com/watch?v=vXjkVdbqVWA)
+</details>
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

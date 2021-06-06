@@ -11,6 +11,13 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Snutt & Jace Talk: Power Management (Part 1)
 https://www.youtube.com/watch?v=3uRBZeQb25o
+<details>
+<summary>This video continues in another video</summary>
+
+* [June 1st, 2021 Livestream Snutt & Jace Talk: Power Management (Part 2)](./yt-SfssbA6x1YI.md) [https://www.youtube.com/watch?v=SfssbA6x1YI](https://www.youtube.com/watch?v=SfssbA6x1YI)
+* [June 1st, 2021 Livestream Snutt & Jace Talk: Power Management (Part 3)](./yt-C9vuYpUPjBM.md) [https://www.youtube.com/watch?v=C9vuYpUPjBM](https://www.youtube.com/watch?v=C9vuYpUPjBM)
+</details>
+
 
 ### Topics
 * [Features > Power Management](../topics/features/power-management.md)

@@ -20,6 +20,12 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Snutt & Jace Talk: Production Ratios & Overclocking (Part 1)
 https://www.youtube.com/watch?v=Q9950uKeMEY
+<details>
+<summary>This video continues in another video</summary>
+
+* [June 1st, 2021 Livestream Snutt & Jace Talk: Production Ratios & Overclocking (Part 2)](./yt-S2QKl8Bbh5Y.md) [https://www.youtube.com/watch?v=S2QKl8Bbh5Y](https://www.youtube.com/watch?v=S2QKl8Bbh5Y)
+</details>
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

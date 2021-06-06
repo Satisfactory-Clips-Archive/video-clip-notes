@@ -11,6 +11,13 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: What's Jace's favourite item in Satisfactory? (Part 3)
 https://www.youtube.com/watch?v=m9tVh9AX65w
+<details>
+<summary>This video is a continuation of a previous video</summary>
+
+* [June 1st, 2021 Livestream Q&A: What's Jace's favourite item in Satisfactory? (Part 1)](./yt-3ZT6X9iRTGk.md) [https://www.youtube.com/watch?v=3ZT6X9iRTGk](https://www.youtube.com/watch?v=3ZT6X9iRTGk)
+* [June 1st, 2021 Livestream Q&A: What's Jace's favourite item in Satisfactory? (Part 2)](./yt-Soh2tpzlV7c.md) [https://www.youtube.com/watch?v=Soh2tpzlV7c](https://www.youtube.com/watch?v=Soh2tpzlV7c)
+</details>
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
