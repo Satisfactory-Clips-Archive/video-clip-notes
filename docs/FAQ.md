@@ -29,9 +29,9 @@ date: Last Modified
 * [August 25th, 2020 Livestream Q&A: Actual Elevators with floor-select buttons ?](./transcriptions/yt-vZxhnaT88dc.md) [https://www.youtube.com/watch?v=vZxhnaT88dc](https://www.youtube.com/watch?v=vZxhnaT88dc)
 * [August 25th, 2020 Livestream Q&A: Do you have plans for elevators usable for players?](./transcriptions/yt-ZnuY8kzdKQU.md) [https://www.youtube.com/watch?v=ZnuY8kzdKQU](https://www.youtube.com/watch?v=ZnuY8kzdKQU)
 * August 11th, 2020 Livestream Q&A: Elevators? [https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime](https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime)
+* December 19th, 2019 Livestream Q&A: Vehicle Lifts? [https://www.youtube.com/watch?v=ayGH9w3sEBo](https://www.youtube.com/watch?v=ayGH9w3sEBo)
 * [December 19th, 2019 Livestream Q&A: How about personal elevators?](./transcriptions/yt-f3TtRJWOI2Q.md) [https://www.youtube.com/watch?v=f3TtRJWOI2Q](https://www.youtube.com/watch?v=f3TtRJWOI2Q)
 * [December 19th, 2019 Livestream Q&A: Human Elevators?](./transcriptions/yt-HGwoBSLqtcw.md) [https://www.youtube.com/watch?v=HGwoBSLqtcw](https://www.youtube.com/watch?v=HGwoBSLqtcw)
-* December 19th, 2019 Livestream Q&A: Vehicle Lifts? [https://www.youtube.com/watch?v=ayGH9w3sEBo](https://www.youtube.com/watch?v=ayGH9w3sEBo)
 </details>
 
 ### [Q&A: Any updates on the Mug?](./transcriptions/yt-76HIK_X8Vjk.md) [https://www.youtube.com/watch?v=76HIK_X8Vjk](https://www.youtube.com/watch?v=76HIK_X8Vjk)
@@ -188,8 +188,8 @@ date: Last Modified
 * [May 11th, 2021 Livestream Q&A: Update on Dedicated Servers please?](./transcriptions/yt-98O8FhNdxAI.md) [https://www.youtube.com/watch?v=98O8FhNdxAI](https://www.youtube.com/watch?v=98O8FhNdxAI)
 * [April 27th, 2021 Livestream Q&A: Any update on Dedicated Servers?](./transcriptions/yt-JmrA7qHuTNo.md) [https://www.youtube.com/watch?v=JmrA7qHuTNo](https://www.youtube.com/watch?v=JmrA7qHuTNo)
 * [April 20th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt--y2km1ZuOs4.md) [https://www.youtube.com/watch?v=-y2km1ZuOs4](https://www.youtube.com/watch?v=-y2km1ZuOs4)
-* April 13th, 2021 Livestream Q&A: Any info on Dedicated Servers? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951)
 * April 13th, 2021 Livestream Q&A: Dedicated Servers? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708)
+* April 13th, 2021 Livestream Q&A: Any info on Dedicated Servers? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951)
 * [April 6th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-nUtF3e6i_lU.md) [https://www.youtube.com/watch?v=nUtF3e6i_lU](https://www.youtube.com/watch?v=nUtF3e6i_lU)
 * [March 30th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-dC-JRa2E6G0.md) [https://www.youtube.com/watch?v=dC-JRa2E6G0](https://www.youtube.com/watch?v=dC-JRa2E6G0)
 * [March 23rd, 2021 Livestream Q&A: Any updates on Dedicated Servers?](./transcriptions/yt-nmftIN5mJV0.md) [https://www.youtube.com/watch?v=nmftIN5mJV0](https://www.youtube.com/watch?v=nmftIN5mJV0)
@@ -274,8 +274,8 @@ date: Last Modified
 <summary>This question may have been asked previously at least 3 other times, as recently as April 2021 and as early as February 2019.</summary>
 
 * [April 27th, 2021 Livestream Q&A: PvP?](./transcriptions/yt-rYjU9Pa3p_M.md) [https://www.youtube.com/watch?v=rYjU9Pa3p_M](https://www.youtube.com/watch?v=rYjU9Pa3p_M)
-* [February 6th, 2019 Livestream Q&A: Any plans for PvP?](./transcriptions/yt-Dtm6xIj-wM4,1573.58823,1589.649941.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1573&end=1590](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1573&end=1590)
 * [February 6th, 2019 Livestream Q&A: Will there be PvE or PvP ?](./transcriptions/yt-Dtm6xIj-wM4,586.378155,622.648759.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623)
+* [February 6th, 2019 Livestream Q&A: Any plans for PvP?](./transcriptions/yt-Dtm6xIj-wM4,1573.58823,1589.649941.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1573&end=1590](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1573&end=1590)
 </details>
 
 ## [May 25th, 2021 Livestream](./2021-05-25.md)
@@ -610,8 +610,8 @@ date: Last Modified
 
 * March 2nd, 2021 Livestream Q&A: Is there a Goat hidden in Satisfactory? [https://www.youtube.com/watch?v=B2zcLGZLwJU](https://www.youtube.com/watch?v=B2zcLGZLwJU)
 * August 11th, 2020 Livestream Q&A: Do you have Goats in Satisfactory? [https://clips.twitch.tv/FurryTalentedCrowBleedPurple](https://clips.twitch.tv/FurryTalentedCrowBleedPurple)
-* [December 19th, 2019 Livestream Q&A: Does it mean we get Goats?](./transcriptions/yt-RlSL5DONzns.md) [https://www.youtube.com/watch?v=RlSL5DONzns](https://www.youtube.com/watch?v=RlSL5DONzns)
 * [December 19th, 2019 Livestream Q&A: Will there be goats?](./transcriptions/yt-3YZMayi1Qec.md) [https://www.youtube.com/watch?v=3YZMayi1Qec](https://www.youtube.com/watch?v=3YZMayi1Qec)
+* [December 19th, 2019 Livestream Q&A: Does it mean we get Goats?](./transcriptions/yt-RlSL5DONzns.md) [https://www.youtube.com/watch?v=RlSL5DONzns](https://www.youtube.com/watch?v=RlSL5DONzns)
 * March 9th, 2019 Livestream Q&A: Are there any goats in the game? [https://www.youtube.com/watch?v=jAjSoN6Z1rc](https://www.youtube.com/watch?v=jAjSoN6Z1rc)
 * [February 6th, 2019 Livestream Q&A: Is there goats in Satisfactory?](./transcriptions/yt-Dtm6xIj-wM4,3842.669132,3860.976436.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3842&end=3861](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3842&end=3861)
 </details>
@@ -2426,8 +2426,8 @@ date: Last Modified
 * [August 25th, 2020 Livestream Q&A: Plans for a Map Editor?](./transcriptions/yt-vvRPYyc7sb8.md) [https://www.youtube.com/watch?v=vvRPYyc7sb8](https://www.youtube.com/watch?v=vvRPYyc7sb8)
 * August 18th, 2020 Livestream Q&A: Will you be able to create your own map? [https://clips.twitch.tv/ChillyRockyWalrusUnSane](https://clips.twitch.tv/ChillyRockyWalrusUnSane)
 * August 11th, 2020 Livestream Q&A: Do you plan to release a World Editor? [https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank](https://clips.twitch.tv/AnnoyingImpartialGaurChefFrank)
-* [February 20th, 2019 Livestream Q&A: Will the players be able to make their own Maps?](./transcriptions/yt-CB9bSigNYH8,5159.481807,5167.186143.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168)
 * [February 20th, 2019 Livestream Q&A: Will you be able to use the Map Editor?](./transcriptions/yt-CB9bSigNYH8,536.959135,560.135106.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=536&end=561](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=536&end=561)
+* [February 20th, 2019 Livestream Q&A: Will the players be able to make their own Maps?](./transcriptions/yt-CB9bSigNYH8,5159.481807,5167.186143.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168)
 * [February 6th, 2019 Livestream Q&A: So if Mods are confirmed, how about Mods for creating Maps- will that happen?](./transcriptions/yt-Dtm6xIj-wM4,1334.740485,1399.146207.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1334&end=1400](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1334&end=1400)
 </details>
 
@@ -2472,6 +2472,15 @@ date: Last Modified
 </details>
 
 ## [March 16th, 2021 Livestream](./2021-03-16.md)
+### Q&A: Will 4 players be the limit? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5809&end=5841](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5809&end=5841)
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as March 2019.</summary>
+
+* [January 26th, 2021 Livestream Q&A: Are we going to increase the limit of only having 4 players per game?](./transcriptions/yt-9Fe7lcAQx9I.md) [https://www.youtube.com/watch?v=9Fe7lcAQx9I](https://www.youtube.com/watch?v=9Fe7lcAQx9I)
+* [March 9th, 2019 Livestream Q&A: Do you want to support more than 4 people?](./transcriptions/yt-wb5HY05QX9I.md) [https://www.youtube.com/watch?v=wb5HY05QX9I](https://www.youtube.com/watch?v=wb5HY05QX9I)
+</details>
+
 ### Mod highlight part 2 Q&A: We broke mods with Update 4, how does the community make them work again? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560)
 
 <details>
@@ -2481,15 +2490,6 @@ date: Last Modified
 * [January 26th, 2021 Livestream Q&A: When will Mods work again?](./transcriptions/yt-u6HJZ1gJhRk.md) [https://www.youtube.com/watch?v=u6HJZ1gJhRk](https://www.youtube.com/watch?v=u6HJZ1gJhRk)
 * [November 10th, 2020 Livestream Q&A: Will existing Mods work with new build?](./transcriptions/yt-bBrB9Qeb1hk.md) [https://www.youtube.com/watch?v=bBrB9Qeb1hk](https://www.youtube.com/watch?v=bBrB9Qeb1hk)
 * [January 22nd, 2020 Livestream Q&A: Will Mods work correctly after the Update?](./transcriptions/yt-qf6QTYIHDaQ.md) [https://www.youtube.com/watch?v=qf6QTYIHDaQ](https://www.youtube.com/watch?v=qf6QTYIHDaQ)
-</details>
-
-### Q&A: Will 4 players be the limit? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5809&end=5841](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5809&end=5841)
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as March 2019.</summary>
-
-* [January 26th, 2021 Livestream Q&A: Are we going to increase the limit of only having 4 players per game?](./transcriptions/yt-9Fe7lcAQx9I.md) [https://www.youtube.com/watch?v=9Fe7lcAQx9I](https://www.youtube.com/watch?v=9Fe7lcAQx9I)
-* [March 9th, 2019 Livestream Q&A: Do you want to support more than 4 people?](./transcriptions/yt-wb5HY05QX9I.md) [https://www.youtube.com/watch?v=wb5HY05QX9I](https://www.youtube.com/watch?v=wb5HY05QX9I)
 </details>
 
 ## [March 9th, 2021 Livestream](./2021-03-09.md)
@@ -2688,13 +2688,13 @@ date: Last Modified
 </details>
 
 ## [February 26th, 2021 Videos](./2021-02-26.md)
-### [Q&A: I'm on Early Access, how do I get in on this Experimental stuff?](./transcriptions/yt-F-q3vfj__M4,112.71260000000001,182.71586666666667.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183)
+### Q&A: Will we need some kind of pumps to get the gases to a height?? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Will_we_need_some_kind_of_pumps_to_get_the_gases_to_a_height.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Will_we_need_some_kind_of_pumps_to_get_the_gases_to_a_height.mp4)
 
 <details>
-<summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as October 2020.</summary>
+<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as January 2021.</summary>
 
-* [November 10th, 2020 Livestream Q&A: Can I switch between Experimental & Early Access?](./transcriptions/yt-cs8oV_l9O-k.md) [https://www.youtube.com/watch?v=cs8oV_l9O-k](https://www.youtube.com/watch?v=cs8oV_l9O-k)
-* [October 27th, 2020 Livestream Q&A: Can I play my Early Access save on Experimental?](./transcriptions/yt-d9u5Na0jBfo.md) [https://www.youtube.com/watch?v=d9u5Na0jBfo](https://www.youtube.com/watch?v=d9u5Na0jBfo)
+* [February 2nd, 2021 Livestream Q&A: Are Gases going to work like Liquids?](./transcriptions/yt-zZXcL3qlr7w.md) [https://www.youtube.com/watch?v=zZXcL3qlr7w](https://www.youtube.com/watch?v=zZXcL3qlr7w)
+* [January 19th, 2021 Livestream Q&A: Will Gas Pipes have Headlift or Valves?](./transcriptions/yt-Zd9lUkAlJrk.md) [https://www.youtube.com/watch?v=Zd9lUkAlJrk](https://www.youtube.com/watch?v=Zd9lUkAlJrk)
 </details>
 
 ### [Q&A: Why does it go to Experimental first?](./transcriptions/yt-F-q3vfj__M4,31.36466666666667,80.08.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81)
@@ -2711,13 +2711,13 @@ date: Last Modified
 * [October 6th, 2020 Livestream Q&A: Is the expected date relative to Early Access or Experimental?](./transcriptions/yt-rc0InGTzcOQ.md) [https://www.youtube.com/watch?v=rc0InGTzcOQ](https://www.youtube.com/watch?v=rc0InGTzcOQ)
 </details>
 
-### Q&A: Will we need some kind of pumps to get the gases to a height?? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Will_we_need_some_kind_of_pumps_to_get_the_gases_to_a_height.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Will_we_need_some_kind_of_pumps_to_get_the_gases_to_a_height.mp4)
+### [Q&A: I'm on Early Access, how do I get in on this Experimental stuff?](./transcriptions/yt-F-q3vfj__M4,112.71260000000001,182.71586666666667.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183)
 
 <details>
-<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as January 2021.</summary>
+<summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as October 2020.</summary>
 
-* [February 2nd, 2021 Livestream Q&A: Are Gases going to work like Liquids?](./transcriptions/yt-zZXcL3qlr7w.md) [https://www.youtube.com/watch?v=zZXcL3qlr7w](https://www.youtube.com/watch?v=zZXcL3qlr7w)
-* [January 19th, 2021 Livestream Q&A: Will Gas Pipes have Headlift or Valves?](./transcriptions/yt-Zd9lUkAlJrk.md) [https://www.youtube.com/watch?v=Zd9lUkAlJrk](https://www.youtube.com/watch?v=Zd9lUkAlJrk)
+* [November 10th, 2020 Livestream Q&A: Can I switch between Experimental & Early Access?](./transcriptions/yt-cs8oV_l9O-k.md) [https://www.youtube.com/watch?v=cs8oV_l9O-k](https://www.youtube.com/watch?v=cs8oV_l9O-k)
+* [October 27th, 2020 Livestream Q&A: Can I play my Early Access save on Experimental?](./transcriptions/yt-d9u5Na0jBfo.md) [https://www.youtube.com/watch?v=d9u5Na0jBfo](https://www.youtube.com/watch?v=d9u5Na0jBfo)
 </details>
 
 ## [February 23rd, 2021 Livestream](./2021-02-23.md)
@@ -2778,8 +2778,8 @@ date: Last Modified
 * [August 25th, 2020 Livestream Q&A: Please consider adding a third-person view?](./transcriptions/yt-HXXn10GhRWU.md) [https://www.youtube.com/watch?v=HXXn10GhRWU](https://www.youtube.com/watch?v=HXXn10GhRWU)
 * [May 15th, 2020 Q&A: Any 3rd person toggle planned?](./transcriptions/yt-NlIVwoRqjVk,957.1562,987.6199666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=957&end=988](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=957&end=988)
 * [March 24th, 2020 Livestream Q&A: Third-person Camera option?](./transcriptions/yt-hWRM_bQHXzc.md) [https://www.youtube.com/watch?v=hWRM_bQHXzc](https://www.youtube.com/watch?v=hWRM_bQHXzc)
-* [February 6th, 2019 Livestream Q&A: Can you see your character in third-person?](./transcriptions/yt-Dtm6xIj-wM4,3610.872363,3623.301698.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3610&end=3624](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3610&end=3624)
 * [February 6th, 2019 Livestream Q&A: Will there be third-person view?](./transcriptions/yt-Dtm6xIj-wM4,1245.697874,1259.567788.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1245&end=1260](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1245&end=1260)
+* [February 6th, 2019 Livestream Q&A: Can you see your character in third-person?](./transcriptions/yt-Dtm6xIj-wM4,3610.872363,3623.301698.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3610&end=3624](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3610&end=3624)
 </details>
 
 ## [February 16th, 2021 Livestream](./2021-02-16.md)
@@ -3773,8 +3773,8 @@ date: Last Modified
 <summary>This question may have been asked previously at least 3 other times, as recently as March 2019 and as early as August 2018.</summary>
 
 * [March 9th, 2019 Livestream Q&A: Can we have an alternate arachnophobia mode with Simon's face?](./transcriptions/yt-3h2P4TfAAwE.md) [https://www.youtube.com/watch?v=3h2P4TfAAwE](https://www.youtube.com/watch?v=3h2P4TfAAwE)
-* August 1st, 2018 Q&A: Can we change the sprite ourselves? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
 * [August 1st, 2018 Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](./transcriptions/yt-iFAy1NZUOGU,208.96,227.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228)
+* August 1st, 2018 Q&A: Can we change the sprite ourselves? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
 </details>
 
 ## [September 1st, 2020 Livestream](./2020-09-01.md)
@@ -3893,5 +3893,14 @@ date: Last Modified
 
 * February 6th, 2019 Livestream Q&A: Pipes? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051)
 * [August 1st, 2018 Q&A: But... will there be Pipes?](./transcriptions/yt-iFAy1NZUOGU,275.24,323.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324)
+</details>
+
+### [Q&A: Is there a height limit?](./transcriptions/yt-Dtm6xIj-wM4,2288.708088,2329.657223.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2288&end=2330](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2288&end=2330)
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as February 2019 and as early as June 2018.</summary>
+
+* [February 6th, 2019 Livestream Q&A: Can I build as high as I want?](./transcriptions/yt-Dtm6xIj-wM4,2806.989791,2816.5666666666666.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2806&end=2817](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2806&end=2817)
+* [June 22nd, 2018 Q&A: Is there a height limit in the game?](./transcriptions/yt-W1E6EWrAsII,434.4,492.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=434&end=493](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=434&end=493)
 </details>
 

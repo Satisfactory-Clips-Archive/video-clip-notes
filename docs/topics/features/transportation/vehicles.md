@@ -149,8 +149,8 @@ date: Last Modified
 * Q&A: Are vehicles going to get less sketchy or are we always getting Goat Simulator physics? [https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage](https://clips.twitch.tv/KawaiiPoorYakinikuJonCarnage)
 
 ## August 11th, 2020 Livestream
-* Q&A: Two-seated vehicles (Part 2) [https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog](https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog)
 * Q&A: Two-seated vehicles (Part 1) [https://clips.twitch.tv/OilySourBeaverAMPEnergy](https://clips.twitch.tv/OilySourBeaverAMPEnergy)
+* Q&A: Two-seated vehicles (Part 2) [https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog](https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog)
 * Q&A: First-person Vehicle Driving? [https://clips.twitch.tv/ShinySilkyMelonGivePLZ](https://clips.twitch.tv/ShinySilkyMelonGivePLZ)
 
 ## July 23rd, 2020 Video

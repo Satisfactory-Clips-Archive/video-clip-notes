@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=yktQGSMqHyo
 <summary>This question may have been asked previously at least 3 other times, as recently as April 2021 and as early as February 2019.</summary>
 
 * [April 27th, 2021 Livestream Q&A: PvP?](./yt-rYjU9Pa3p_M.md) [https://www.youtube.com/watch?v=rYjU9Pa3p_M](https://www.youtube.com/watch?v=rYjU9Pa3p_M)
-* [February 6th, 2019 Livestream Q&A: Any plans for PvP?](./yt-Dtm6xIj-wM4,1573.58823,1589.649941.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1573&end=1590](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1573&end=1590)
 * [February 6th, 2019 Livestream Q&A: Will there be PvE or PvP ?](./yt-Dtm6xIj-wM4,586.378155,622.648759.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623)
+* [February 6th, 2019 Livestream Q&A: Any plans for PvP?](./yt-Dtm6xIj-wM4,1573.58823,1589.649941.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1573&end=1590](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1573&end=1590)
 </details>
 
 
