@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Particle Accelerator
 
+## June 8th, 2021 Livestream
+* [Q&A: Will there be an option to craft low-tier items faster in the Particle Accelerator?](../../../transcriptions/yt-KVnmJKVYqZE.md) [https://www.youtube.com/watch?v=KVnmJKVYqZE](https://www.youtube.com/watch?v=KVnmJKVYqZE)
+
 ## May 25th, 2021 Livestream
 * [Snutt Talk: Redundant feature requests](../../../transcriptions/yt-TnfyBE6ARw4.md) [https://www.youtube.com/watch?v=TnfyBE6ARw4](https://www.youtube.com/watch?v=TnfyBE6ARw4)
 

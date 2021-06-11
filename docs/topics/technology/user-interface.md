@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## June 8th, 2021 Livestream
+* [Snutt & Jace Talk: Build Modes vs. manual effort vs. mods vs. save editors](../../transcriptions/yt-Tl2vrQ3oD18.md) [https://www.youtube.com/watch?v=Tl2vrQ3oD18](https://www.youtube.com/watch?v=Tl2vrQ3oD18)
+* [Q&A: Would it be possible to use Copy & Paste functionality on blocks that don't have recipes?](../../transcriptions/yt-xzRjKtWNZIo.md) [https://www.youtube.com/watch?v=xzRjKtWNZIo](https://www.youtube.com/watch?v=xzRjKtWNZIo)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
 * [Q&A: Snutt just deleted them all at once?](../../transcriptions/yt-zfzaEPZHtsA.md) [https://www.youtube.com/watch?v=zfzaEPZHtsA](https://www.youtube.com/watch?v=zfzaEPZHtsA)

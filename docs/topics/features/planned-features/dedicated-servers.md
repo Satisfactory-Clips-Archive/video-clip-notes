@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## June 8th, 2021 Livestream
+* [State of Dev: Dedicated Servers](../../../transcriptions/yt-uzSAawwW6EA.md) [https://www.youtube.com/watch?v=uzSAawwW6EA](https://www.youtube.com/watch?v=uzSAawwW6EA)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Updates on Dedicated Servers?](../../../transcriptions/yt-JGj3aITwDg8.md) [https://www.youtube.com/watch?v=JGj3aITwDg8](https://www.youtube.com/watch?v=JGj3aITwDg8)
 * [Q&A: How many people can be on one save without Servers?](../../../transcriptions/yt-7uSzql6YPJc.md) [https://www.youtube.com/watch?v=7uSzql6YPJc](https://www.youtube.com/watch?v=7uSzql6YPJc)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Localisation
 
+## June 8th, 2021 Livestream
+* [Snutt Talk: No more bug fixes until Update 5](../transcriptions/yt-hdbFUc78Srk.md) [https://www.youtube.com/watch?v=hdbFUc78Srk](https://www.youtube.com/watch?v=hdbFUc78Srk)
+
 ## May 25th, 2021 Livestream
 * [Q&A: There is Pirate Language?](../transcriptions/yt-IiD0uWYDg8w.md) [https://www.youtube.com/watch?v=IiD0uWYDg8w](https://www.youtube.com/watch?v=IiD0uWYDg8w)
 

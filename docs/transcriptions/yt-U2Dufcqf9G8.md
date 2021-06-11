@@ -8,7 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Is it possible to have Steam Workshop in the game?
 https://www.youtube.com/watch?v=U2Dufcqf9G8
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Steam Mods?](./yt-GC8pyFLf1Rw.md) [https://www.youtube.com/watch?v=GC8pyFLf1Rw](https://www.youtube.com/watch?v=GC8pyFLf1Rw)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Steam Workshop?](./yt-Ildv99O7E0M.md) [https://www.youtube.com/watch?v=Ildv99O7E0M](https://www.youtube.com/watch?v=Ildv99O7E0M)
 
 
 ### Topics

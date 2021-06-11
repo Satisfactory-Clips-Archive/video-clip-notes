@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Superposition Oscillator
 
+## June 8th, 2021 Livestream
+* [Q&A: Can we get a way to skip certain stages for new playthroughs?](../../../transcriptions/yt-DE_UxFAQUm0.md) [https://www.youtube.com/watch?v=DE_UxFAQUm0](https://www.youtube.com/watch?v=DE_UxFAQUm0)
+* [Community FYI: There is FICS⁕MAS event thing you need for one of the crash sites](../../../transcriptions/yt-UMBKLIKZ610.md) [https://www.youtube.com/watch?v=UMBKLIKZ610](https://www.youtube.com/watch?v=UMBKLIKZ610)
+
 ## June 1st, 2021 Livestream
 * [Q&A: What's Jace's favourite item in Satisfactory? (Part 1)](../../../transcriptions/yt-3ZT6X9iRTGk.md) [https://www.youtube.com/watch?v=3ZT6X9iRTGk](https://www.youtube.com/watch?v=3ZT6X9iRTGk)
 * [Q&A: What's Jace's favourite item in Satisfactory? (Part 2)](../../../transcriptions/yt-Soh2tpzlV7c.md) [https://www.youtube.com/watch?v=Soh2tpzlV7c](https://www.youtube.com/watch?v=Soh2tpzlV7c)

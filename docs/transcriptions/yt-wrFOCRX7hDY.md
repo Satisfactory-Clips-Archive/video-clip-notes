@@ -9,15 +9,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Plans to add Solar?
 https://www.youtube.com/watch?v=wrFOCRX7hDY
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as April 2021 and as early as August 2020.</summary>
-
-* [April 27th, 2021 Livestream Q&A: Solar Power?](./yt-oHxP9OXQn5w.md) [https://www.youtube.com/watch?v=oHxP9OXQn5w](https://www.youtube.com/watch?v=oHxP9OXQn5w)
-* March 23rd, 2021 Livestream Q&A: Solar panel? [https://www.youtube.com/watch?v=pnqysWUuGhM](https://www.youtube.com/watch?v=pnqysWUuGhM)
-* [November 17th, 2020 Livestream Q&A: Can we add Solar Power?](./yt-_Uf5e-J9TwA.md) [https://www.youtube.com/watch?v=_Uf5e-J9TwA](https://www.youtube.com/watch?v=_Uf5e-J9TwA)
-* [October 20th, 2020 Livestream Q&A: Solar Panels?](./yt-zpNZHeAOoQE.md) [https://www.youtube.com/watch?v=zpNZHeAOoQE](https://www.youtube.com/watch?v=zpNZHeAOoQE)
-* [August 25th, 2020 Livestream Q&A: Why are there no Solar Panels ?](./yt-C1XaJJmvg1M.md) [https://www.youtube.com/watch?v=C1XaJJmvg1M](https://www.youtube.com/watch?v=C1XaJJmvg1M)
-</details>
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](./yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)
 
 
 ### Topics

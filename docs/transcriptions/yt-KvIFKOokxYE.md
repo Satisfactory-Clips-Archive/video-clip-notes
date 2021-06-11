@@ -10,7 +10,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Have there been any changes on Train collision stuff?
 https://www.youtube.com/watch?v=KvIFKOokxYE
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Are you considering a Train rework?](./yt-68MP936ZdfQ.md) [https://www.youtube.com/watch?v=68MP936ZdfQ](https://www.youtube.com/watch?v=68MP936ZdfQ)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: When Train Update?](./yt-6UkeKRs-WVw.md) [https://www.youtube.com/watch?v=6UkeKRs-WVw](https://www.youtube.com/watch?v=6UkeKRs-WVw)
 
 
 ### Topics

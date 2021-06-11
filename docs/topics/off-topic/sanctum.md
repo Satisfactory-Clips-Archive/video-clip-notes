@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum
 
+## June 8th, 2021 Livestream
+* [Trolling: We're going to add Tower Defence in Update 5](../../transcriptions/yt-qwVOrlmH3BU.md) [https://www.youtube.com/watch?v=qwVOrlmH3BU](https://www.youtube.com/watch?v=qwVOrlmH3BU)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Are you thinking about Sanctum 3?](../../transcriptions/yt-TOKME3PCYXo.md) [https://www.youtube.com/watch?v=TOKME3PCYXo](https://www.youtube.com/watch?v=TOKME3PCYXo)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## June 8th, 2021 Livestream
+* [Q&A: We need a pixel-style arcade game in the HUB called "Doggo Quest"?](../../../transcriptions/yt-p0nELMGY4hA.md) [https://www.youtube.com/watch?v=p0nELMGY4hA](https://www.youtube.com/watch?v=p0nELMGY4hA)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Working HUB Toilet?](../../../transcriptions/yt-bSD9Vj_ZKek.md) [https://www.youtube.com/watch?v=bSD9Vj_ZKek](https://www.youtube.com/watch?v=bSD9Vj_ZKek)
 * [Snutt Talk: How the game starts](../../../transcriptions/yt-onchLhZOONY.md) [https://www.youtube.com/watch?v=onchLhZOONY](https://www.youtube.com/watch?v=onchLhZOONY)

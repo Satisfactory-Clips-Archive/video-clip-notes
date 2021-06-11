@@ -8,6 +8,9 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## June 8th, 2021 Livestream
+* [Snutt & Jace Talk: vWise](../../transcriptions/yt-_d53JmFce4w.md) [https://www.youtube.com/watch?v=_d53JmFce4w](https://www.youtube.com/watch?v=_d53JmFce4w)
+
 ## June 1st, 2021 Livestream
 * [Community FYI: UE Dev said it would be easy to upgrade?](../../transcriptions/yt-mWJdPpqxW7k.md) [https://www.youtube.com/watch?v=mWJdPpqxW7k](https://www.youtube.com/watch?v=mWJdPpqxW7k)
 

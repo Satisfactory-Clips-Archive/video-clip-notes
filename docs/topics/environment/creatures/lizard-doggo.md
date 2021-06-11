@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## June 8th, 2021 Livestream
+* [Q&A: How good at the Lizard Doggos?](../../../transcriptions/yt-hriGwLVbFBo.md) [https://www.youtube.com/watch?v=hriGwLVbFBo](https://www.youtube.com/watch?v=hriGwLVbFBo)
+* [Q&A: We need a pixel-style arcade game in the HUB called "Doggo Quest"?](../../../transcriptions/yt-p0nELMGY4hA.md) [https://www.youtube.com/watch?v=p0nELMGY4hA](https://www.youtube.com/watch?v=p0nELMGY4hA)
+
 ## June 1st, 2021 Livestream
 * Q&A: Petting Doggo? [https://www.youtube.com/watch?v=Fw9sZkeAqnk](https://www.youtube.com/watch?v=Fw9sZkeAqnk)
 * [Snutt & Jace Talk: Lizard Doggo](../../../transcriptions/yt-LmYV5TGGKoo.md) [https://www.youtube.com/watch?v=LmYV5TGGKoo](https://www.youtube.com/watch?v=LmYV5TGGKoo)

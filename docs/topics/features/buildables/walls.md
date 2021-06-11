@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## June 8th, 2021 Livestream
+* [Q&A: Will you be adding ramps, walls, maybe a chair?](../../../transcriptions/yt-V20SFRk4jpw.md) [https://www.youtube.com/watch?v=V20SFRk4jpw](https://www.youtube.com/watch?v=V20SFRk4jpw)
+
 ## May 25th, 2021 Livestream
 * [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 2)](../../../transcriptions/yt-N3p6MeSNbak.md) [https://www.youtube.com/watch?v=N3p6MeSNbak](https://www.youtube.com/watch?v=N3p6MeSNbak)
 * [Community FYI: If the Giant Crab can't break walls then I'm making a zoo](../../../transcriptions/yt-mX8bc3BMIMs.md) [https://www.youtube.com/watch?v=mX8bc3BMIMs](https://www.youtube.com/watch?v=mX8bc3BMIMs)

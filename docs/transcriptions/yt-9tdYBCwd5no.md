@@ -10,7 +10,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: What is your favourite Mod?
 https://www.youtube.com/watch?v=9tdYBCwd5no
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Do you have a favourite Mod?](./yt-URunN9abrss.md) [https://www.youtube.com/watch?v=URunN9abrss](https://www.youtube.com/watch?v=URunN9abrss)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: What's your favourite mod?](./yt-Y_FlnlBYZ2k.md) [https://www.youtube.com/watch?v=Y_FlnlBYZ2k](https://www.youtube.com/watch?v=Y_FlnlBYZ2k)
 
 
 ### Topics

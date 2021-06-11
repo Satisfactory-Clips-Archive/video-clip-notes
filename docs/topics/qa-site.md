@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## June 8th, 2021 Livestream
+* [Jace Talk: On making suggestions](../transcriptions/yt-DzDBVPQEZ2A.md) [https://www.youtube.com/watch?v=DzDBVPQEZ2A](https://www.youtube.com/watch?v=DzDBVPQEZ2A)
+* [Q&A: Can you make the QA Site work for non-registered users?](../transcriptions/yt-SntikqCypAU.md) [https://www.youtube.com/watch?v=SntikqCypAU](https://www.youtube.com/watch?v=SntikqCypAU)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Can we get smaller Lights?](../transcriptions/yt-oV7CovRkpkE.md) [https://www.youtube.com/watch?v=oV7CovRkpkE](https://www.youtube.com/watch?v=oV7CovRkpkE)
 * [Q&A: Any thoughts of respawning flora?](../transcriptions/yt-EtJ0aoI_fBs.md) [https://www.youtube.com/watch?v=EtJ0aoI_fBs](https://www.youtube.com/watch?v=EtJ0aoI_fBs)

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## June 8th, 2021 Livestream
+* [Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](../../transcriptions/yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)
+* [Q&A: Did you nerf the Hover Pack?](../../transcriptions/yt-7TMMfAe4qD8.md) [https://www.youtube.com/watch?v=7TMMfAe4qD8](https://www.youtube.com/watch?v=7TMMfAe4qD8)
+
 ## May 25th, 2021 Livestream
 * [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 1)](../../transcriptions/yt-n94KgIpWdZc.md) [https://www.youtube.com/watch?v=n94KgIpWdZc](https://www.youtube.com/watch?v=n94KgIpWdZc)
 * [Q&A: Can you talk about plans for replayability?](../../transcriptions/yt-VvnI641_TLs.md) [https://www.youtube.com/watch?v=VvnI641_TLs](https://www.youtube.com/watch?v=VvnI641_TLs)

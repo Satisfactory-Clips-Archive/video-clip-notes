@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: Plans to make saddle for the big flying 
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "environment/creatures"
+    - "environment/creatures/giant-flying-manta"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Plans to make saddle for the big flying thing?
 https://www.youtube.com/watch?v=gcjbJ7uX2No
 
 ### Topics
-* [Environment > Creatures](../topics/environment/creatures.md)
+* [Environment > Creatures > Giant Flying Manta](../topics/environment/creatures/giant-flying-manta.md)
 
 ### Transcript
 

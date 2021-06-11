@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: Is there any plan to let Smelters auto-select which recipe based on what's fed into them?](../../../transcriptions/yt-pU8w7iFl3WM.md) [https://www.youtube.com/watch?v=pU8w7iFl3WM](https://www.youtube.com/watch?v=pU8w7iFl3WM)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: The world of Satisfactory](../../../transcriptions/yt-lwiruCRJKo0.md) [https://www.youtube.com/watch?v=lwiruCRJKo0](https://www.youtube.com/watch?v=lwiruCRJKo0)
 * [Snutt & Jace Talk: Varying complexity to production Recipes](../../../transcriptions/yt-j2GvfNup9Ss.md) [https://www.youtube.com/watch?v=j2GvfNup9Ss](https://www.youtube.com/watch?v=j2GvfNup9Ss)

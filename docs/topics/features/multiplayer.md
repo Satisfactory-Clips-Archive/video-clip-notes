@@ -5,6 +5,12 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: Journey / Satisfactory crossover?](../../transcriptions/yt-hN1nhn93wLQ.md) [https://www.youtube.com/watch?v=hN1nhn93wLQ](https://www.youtube.com/watch?v=hN1nhn93wLQ)
+* [Q&A: Do you know if there's a console command to show the tick rate?](../../transcriptions/yt-xzWZbbvVH7g.md) [https://www.youtube.com/watch?v=xzWZbbvVH7g](https://www.youtube.com/watch?v=xzWZbbvVH7g)
+* [Q&A: What is the tick rate of the game?](../../transcriptions/yt-hw2wSvlLGZU.md) [https://www.youtube.com/watch?v=hw2wSvlLGZU](https://www.youtube.com/watch?v=hw2wSvlLGZU)
+* [Q&A: What's the current Multiplayer status?](../../transcriptions/yt-doX5Pn5A6Tc.md) [https://www.youtube.com/watch?v=doX5Pn5A6Tc](https://www.youtube.com/watch?v=doX5Pn5A6Tc)
+
 ## June 1st, 2021 Livestream
 * [Q&A: How many people can be on one save without Servers?](../../transcriptions/yt-7uSzql6YPJc.md) [https://www.youtube.com/watch?v=7uSzql6YPJc](https://www.youtube.com/watch?v=7uSzql6YPJc)
 

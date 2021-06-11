@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
+## June 8th, 2021 Livestream
+* [Q&A: Is there a community guide on how to make factories that don't have a big performance hit?](../../transcriptions/yt-YVs3sPwwZhg.md) [https://www.youtube.com/watch?v=YVs3sPwwZhg](https://www.youtube.com/watch?v=YVs3sPwwZhg)
+
 ## June 1st, 2021 Livestream
 * [Q&A: What's Jace's favourite item in Satisfactory? (Part 3)](../../transcriptions/yt-m9tVh9AX65w.md) [https://www.youtube.com/watch?v=m9tVh9AX65w](https://www.youtube.com/watch?v=m9tVh9AX65w)
 * [Snutt & Jace Talk: The world of Satisfactory](../../transcriptions/yt-lwiruCRJKo0.md) [https://www.youtube.com/watch?v=lwiruCRJKo0](https://www.youtube.com/watch?v=lwiruCRJKo0)

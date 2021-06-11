@@ -15,6 +15,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: Can we get a way to skip certain stages for new playthroughs?](../../transcriptions/yt-DE_UxFAQUm0.md) [https://www.youtube.com/watch?v=DE_UxFAQUm0](https://www.youtube.com/watch?v=DE_UxFAQUm0)
+
 ## June 1st, 2021 Livestream
 * [Snutt Talk: How the game starts](../../transcriptions/yt-onchLhZOONY.md) [https://www.youtube.com/watch?v=onchLhZOONY](https://www.youtube.com/watch?v=onchLhZOONY)
 * [Snutt & Jace Talk: How unlocking milestones works](../../transcriptions/yt-qUoGdKTMqYo.md) [https://www.youtube.com/watch?v=qUoGdKTMqYo](https://www.youtube.com/watch?v=qUoGdKTMqYo)

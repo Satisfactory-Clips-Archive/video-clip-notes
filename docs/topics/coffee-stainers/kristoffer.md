@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Kristoffer
 
+## June 8th, 2021 Livestream
+* Community FYI: Love all the animations in the game [https://www.youtube.com/watch?v=ZKZ6u1Ea--0](https://www.youtube.com/watch?v=ZKZ6u1Ea--0)
+
 ## April 30th, 2020 Dev Vlog
 * [Simon & Jace Talk: Kristoffer](../../transcriptions/yt-mci92Mhr7MM,893.1589333333334,928.6944333333333.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=893&end=929](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=893&end=929)
 

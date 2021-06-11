@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Buildings](../../../../topics/features/buildings.md) > [Space Elevator](../../../../topics/features/buildings/space-elevator.md) > Food Court
 
+## June 8th, 2021 Livestream
+* [Q&A: What about Story?](../../../../transcriptions/yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
+
 ## May 25th, 2021 Livestream
 * [Q&A: What will be the price of Doggo Burgers in the Food Court?](../../../../transcriptions/yt-ebebOS0cCA4.md) [https://www.youtube.com/watch?v=ebebOS0cCA4](https://www.youtube.com/watch?v=ebebOS0cCA4)
 

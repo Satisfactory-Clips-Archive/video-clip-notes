@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## June 8th, 2021 Livestream
+* [Q&A: Do you guys ever fight the Valheim team?](../../transcriptions/yt-FFoi2edjf6U.md) [https://www.youtube.com/watch?v=FFoi2edjf6U](https://www.youtube.com/watch?v=FFoi2edjf6U)
+* Community FYI: Valheim loves you [https://www.youtube.com/watch?v=MuxwWtJ895g](https://www.youtube.com/watch?v=MuxwWtJ895g)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Satisfactory belts in Valheim?](../../transcriptions/yt-0C8W5uEdJJk.md) [https://www.youtube.com/watch?v=0C8W5uEdJJk](https://www.youtube.com/watch?v=0C8W5uEdJJk)
 

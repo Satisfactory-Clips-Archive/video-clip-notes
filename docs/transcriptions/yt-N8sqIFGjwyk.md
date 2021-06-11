@@ -10,8 +10,9 @@ topics:
 ## Q&A: Are you thinking of adding some type of Signs or screens?
 https://www.youtube.com/watch?v=N8sqIFGjwyk
 <details>
-<summary>This question may have been asked previously at least 12 other times, as recently as April 2021 and as early as June 2020.</summary>
+<summary>This question may have been asked previously at least 13 other times, as recently as April 2021 and as early as June 2020.</summary>
 
+* [April 27th, 2021 Livestream Q&A: Can we get signs soon?](./yt-wUy8zszYfdQ.md) [https://www.youtube.com/watch?v=wUy8zszYfdQ](https://www.youtube.com/watch?v=wUy8zszYfdQ)
 * [April 20th, 2021 Livestream Q&A: Signs?](./yt-O0qKftrufFM.md) [https://www.youtube.com/watch?v=O0qKftrufFM](https://www.youtube.com/watch?v=O0qKftrufFM)
 * [April 6th, 2021 Livestream Q&A: Signs?](./yt-B6BEy7mals4.md) [https://www.youtube.com/watch?v=B6BEy7mals4](https://www.youtube.com/watch?v=B6BEy7mals4)
 * [March 23rd, 2021 Livestream Q&A: Signs when?](./yt-F3BYeHIbZzU.md) [https://www.youtube.com/watch?v=F3BYeHIbZzU](https://www.youtube.com/watch?v=F3BYeHIbZzU)

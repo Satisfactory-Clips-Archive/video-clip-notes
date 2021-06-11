@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## June 8th, 2021 Livestream
+* [Q&A: Do you guys play Deep Rock Galactic, too?](../../transcriptions/yt-R-q9Y-ZbTuk.md) [https://www.youtube.com/watch?v=R-q9Y-ZbTuk](https://www.youtube.com/watch?v=R-q9Y-ZbTuk)
+* [Community FYI: Hannah is like 1.5 times Jace's height](../../transcriptions/yt-zJFajU4lrHI.md) [https://www.youtube.com/watch?v=zJFajU4lrHI](https://www.youtube.com/watch?v=zJFajU4lrHI)
+* [Snutt & Jace Talk: Dora the Explorer (Update 4 Patch Notes reference)](../../transcriptions/yt-QgvkM96yPDA.md) [https://www.youtube.com/watch?v=QgvkM96yPDA](https://www.youtube.com/watch?v=QgvkM96yPDA)
+* [Q&A: Is today flannel shirt day?](../../transcriptions/yt-9AZgSf8XOFI.md) [https://www.youtube.com/watch?v=9AZgSf8XOFI](https://www.youtube.com/watch?v=9AZgSf8XOFI)
+* [Community FYI: Two flannel shirt per minute](../../transcriptions/yt-F1X_uJ7RRoM.md) [https://www.youtube.com/watch?v=F1X_uJ7RRoM](https://www.youtube.com/watch?v=F1X_uJ7RRoM)
+* [Q&A: Are you saying you can't divide by zero?](../../transcriptions/yt-0KgGoU6uZ9A.md) [https://www.youtube.com/watch?v=0KgGoU6uZ9A](https://www.youtube.com/watch?v=0KgGoU6uZ9A)
+* [Q&A: You were both developers, was becoming Community Managers punishment for being bad developers?](../../transcriptions/yt-jcViVJ1DsW8.md) [https://www.youtube.com/watch?v=jcViVJ1DsW8](https://www.youtube.com/watch?v=jcViVJ1DsW8)
+
 ## June 1st, 2021 Livestream
 * [Q&A: What's Jace's favourite thing to do in Satisfactory?](../../transcriptions/yt-Ic6-rM6otww.md) [https://www.youtube.com/watch?v=Ic6-rM6otww](https://www.youtube.com/watch?v=Ic6-rM6otww)
 * Q&A: Does Jace play Factorio? [https://www.youtube.com/watch?v=4tWUJUJRKNI](https://www.youtube.com/watch?v=4tWUJUJRKNI)

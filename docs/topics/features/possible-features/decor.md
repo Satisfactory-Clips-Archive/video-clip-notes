@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## June 8th, 2021 Livestream
+* [Q&A: Will you be adding ramps, walls, maybe a chair?](../../../transcriptions/yt-V20SFRk4jpw.md) [https://www.youtube.com/watch?v=V20SFRk4jpw](https://www.youtube.com/watch?v=V20SFRk4jpw)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Are we going to get a working bath tub for bath tub streams?](../../../transcriptions/yt-AKSgtvlhOlg.md) [https://www.youtube.com/watch?v=AKSgtvlhOlg](https://www.youtube.com/watch?v=AKSgtvlhOlg)
 

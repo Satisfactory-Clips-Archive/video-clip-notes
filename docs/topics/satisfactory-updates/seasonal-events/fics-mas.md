@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## June 8th, 2021 Livestream
+* [Community FYI: There is FICS⁕MAS event thing you need for one of the crash sites](../../../transcriptions/yt-UMBKLIKZ610.md) [https://www.youtube.com/watch?v=UMBKLIKZ610](https://www.youtube.com/watch?v=UMBKLIKZ610)
+
 ## June 1st, 2021 Livestream
 * [Q&A: What's Jace's favourite item in Satisfactory? (Part 3)](../../../transcriptions/yt-m9tVh9AX65w.md) [https://www.youtube.com/watch?v=m9tVh9AX65w](https://www.youtube.com/watch?v=m9tVh9AX65w)
 

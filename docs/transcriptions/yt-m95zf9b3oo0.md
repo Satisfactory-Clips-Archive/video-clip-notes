@@ -9,7 +9,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: How about a teleporter for people to hand-feed the system?
 https://www.youtube.com/watch?v=m95zf9b3oo0
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Are there any plans for teleportation?](./yt-RyU3sk4C5d8.md) [https://www.youtube.com/watch?v=RyU3sk4C5d8](https://www.youtube.com/watch?v=RyU3sk4C5d8)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Please, teleporters?](./yt-dNPT8HQ3qRk.md) [https://www.youtube.com/watch?v=dNPT8HQ3qRk](https://www.youtube.com/watch?v=dNPT8HQ3qRk)
 
 
 ### Topics

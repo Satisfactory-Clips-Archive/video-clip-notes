@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: We need Steam Workshop for this kind of thing?
 https://www.youtube.com/watch?v=sKwcRFzwGzI
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Steam Mods?](./yt-GC8pyFLf1Rw.md) [https://www.youtube.com/watch?v=GC8pyFLf1Rw](https://www.youtube.com/watch?v=GC8pyFLf1Rw)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Steam Workshop?](./yt-Ildv99O7E0M.md) [https://www.youtube.com/watch?v=Ildv99O7E0M](https://www.youtube.com/watch?v=Ildv99O7E0M)
 
 
 ### Topics

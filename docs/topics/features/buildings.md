@@ -25,6 +25,10 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: Will there be Mk.2 Trains?](../../transcriptions/yt-jfj5xytO5-s.md) [https://www.youtube.com/watch?v=jfj5xytO5-s](https://www.youtube.com/watch?v=jfj5xytO5-s)
+* [Q&A: Death Star appearing in orbit and having to construct something to kill it?](../../transcriptions/yt-pK3_VtGgKnA.md) [https://www.youtube.com/watch?v=pK3_VtGgKnA](https://www.youtube.com/watch?v=pK3_VtGgKnA)
+
 ## June 1st, 2021 Livestream
 * [Snutt Talk: How the game starts](../../transcriptions/yt-onchLhZOONY.md) [https://www.youtube.com/watch?v=onchLhZOONY](https://www.youtube.com/watch?v=onchLhZOONY)
 * [Snutt & Jace Talk: Organisational approaches to factory building](../../transcriptions/yt-c1alrd8pbFU.md) [https://www.youtube.com/watch?v=c1alrd8pbFU](https://www.youtube.com/watch?v=c1alrd8pbFU)

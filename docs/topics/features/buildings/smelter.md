@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Smelter
 
+## June 8th, 2021 Livestream
+* [Q&A: Is there any plan to let Smelters auto-select which recipe based on what's fed into them?](../../../transcriptions/yt-pU8w7iFl3WM.md) [https://www.youtube.com/watch?v=pU8w7iFl3WM](https://www.youtube.com/watch?v=pU8w7iFl3WM)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up Modular Frame production (Part 2)](../../../transcriptions/yt-kj15iCn0COw.md) [https://www.youtube.com/watch?v=kj15iCn0COw](https://www.youtube.com/watch?v=kj15iCn0COw)
 * [Snutt & Jace Talk: Setting up Modular Frame production (Part 3)](../../../transcriptions/yt-BYH_gm7gjqE.md) [https://www.youtube.com/watch?v=BYH_gm7gjqE](https://www.youtube.com/watch?v=BYH_gm7gjqE)

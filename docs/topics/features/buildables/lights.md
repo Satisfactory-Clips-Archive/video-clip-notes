@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## June 8th, 2021 Livestream
+* [Snutt & Jace Talk: Ben's dev vlog](../../../transcriptions/yt-1vTjHhoQL7Q.md) [https://www.youtube.com/watch?v=1vTjHhoQL7Q](https://www.youtube.com/watch?v=1vTjHhoQL7Q)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Can we get smaller Lights?](../../../transcriptions/yt-oV7CovRkpkE.md) [https://www.youtube.com/watch?v=oV7CovRkpkE](https://www.youtube.com/watch?v=oV7CovRkpkE)
 

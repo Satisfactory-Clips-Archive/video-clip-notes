@@ -11,7 +11,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can we get turrets and more PvE?
 https://www.youtube.com/watch?v=sJnuRV0OGF0
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Tower Defense?](./yt-VRiUOPEpWvU.md) [https://www.youtube.com/watch?v=VRiUOPEpWvU](https://www.youtube.com/watch?v=VRiUOPEpWvU)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Turrets & shit?](./yt-KPUcYM5lOac.md) [https://www.youtube.com/watch?v=KPUcYM5lOac](https://www.youtube.com/watch?v=KPUcYM5lOac)
 
 
 ### Topics

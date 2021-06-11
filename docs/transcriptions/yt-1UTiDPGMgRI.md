@@ -10,7 +10,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Could some Sanctum gameplay, maybe the Tower Defense part come to Satisfactory?
 https://www.youtube.com/watch?v=1UTiDPGMgRI
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Tower Defense?](./yt-VRiUOPEpWvU.md) [https://www.youtube.com/watch?v=VRiUOPEpWvU](https://www.youtube.com/watch?v=VRiUOPEpWvU)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Turrets & shit?](./yt-KPUcYM5lOac.md) [https://www.youtube.com/watch?v=KPUcYM5lOac](https://www.youtube.com/watch?v=KPUcYM5lOac)
 
 
 ### Topics

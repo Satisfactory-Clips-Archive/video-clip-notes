@@ -6,6 +6,9 @@ date: Last Modified
 * [Setting up a Coal Generator](../topics/june-2021-epic-mega-sale-stream/setting-up-a-coal-generator.md)
 * [Setting up Modular Frame production](../topics/june-2021-epic-mega-sale-stream/setting-up-modular-frame-production.md)
 
+## June 8th, 2021 Livestream
+* [Snutt & Jace Talk: Epic-hosted stream](../transcriptions/yt-5xYP-Zd5Eec.md) [https://www.youtube.com/watch?v=5xYP-Zd5Eec](https://www.youtube.com/watch?v=5xYP-Zd5Eec)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Is Snutt on vacation now?](../transcriptions/yt-1tUStRymvso.md) [https://www.youtube.com/watch?v=1tUStRymvso](https://www.youtube.com/watch?v=1tUStRymvso)
 * [Snutt Talk: Who Coffee Stain are & what Satisfactory is](../transcriptions/yt-mW7I3QY6Gds.md) [https://www.youtube.com/watch?v=mW7I3QY6Gds](https://www.youtube.com/watch?v=mW7I3QY6Gds)

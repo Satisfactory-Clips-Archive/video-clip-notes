@@ -140,7 +140,6 @@ date: Last Modified
 * [Q&A: Where can I find those "cute cats"](../../transcriptions/yt-ALTf24gjRHE.md) [https://www.youtube.com/watch?v=ALTf24gjRHE](https://www.youtube.com/watch?v=ALTf24gjRHE)
 * [Q&A: Is there more than 5 enemies in?](../../transcriptions/yt-DLnUjlixpg8.md) [https://www.youtube.com/watch?v=DLnUjlixpg8](https://www.youtube.com/watch?v=DLnUjlixpg8)
 * [Q&A: Can creatures in any way disrupt your factory?](../../transcriptions/yt-R2Fms8EjhN8.md) [https://www.youtube.com/watch?v=R2Fms8EjhN8](https://www.youtube.com/watch?v=R2Fms8EjhN8)
-* [Q&A: Plans to make saddle for the big flying thing?](../../transcriptions/yt-gcjbJ7uX2No.md) [https://www.youtube.com/watch?v=gcjbJ7uX2No](https://www.youtube.com/watch?v=gcjbJ7uX2No)
 * [Q&A: Are there going to be strawberry fishes in the game?](../../transcriptions/yt-LKcrsIMzGYY.md) [https://www.youtube.com/watch?v=LKcrsIMzGYY](https://www.youtube.com/watch?v=LKcrsIMzGYY)
 * Q&A: Are there any goats in the game? [https://www.youtube.com/watch?v=jAjSoN6Z1rc](https://www.youtube.com/watch?v=jAjSoN6Z1rc)
 * [Q&A: I don't like spiders but arachnophobia mode is even scarier](../../transcriptions/yt-GluAI4ipeLY.md) [https://www.youtube.com/watch?v=GluAI4ipeLY](https://www.youtube.com/watch?v=GluAI4ipeLY)

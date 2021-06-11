@@ -4,6 +4,7 @@ date: "2020-12-08"
 layout: transcript
 topics:
     - "features/accessibility/arachnophobia-mode"
+    - "features/requested-features/crossovers"
     - "trolling"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=GJMD7L7BLxE
 
 ### Topics
 * [Features > Accessibility > Arachnophobia Mode](../topics/features/accessibility/arachnophobia-mode.md)
+* [Features > Requested Features > Crossovers](../topics/features/requested-features/crossovers.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

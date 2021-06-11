@@ -7,6 +7,10 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: Can we get a way to skip certain stages for new playthroughs?](../../transcriptions/yt-DE_UxFAQUm0.md) [https://www.youtube.com/watch?v=DE_UxFAQUm0](https://www.youtube.com/watch?v=DE_UxFAQUm0)
+* [Q&A: Will there be an option to craft low-tier items faster in the Particle Accelerator?](../../transcriptions/yt-KVnmJKVYqZE.md) [https://www.youtube.com/watch?v=KVnmJKVYqZE](https://www.youtube.com/watch?v=KVnmJKVYqZE)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Handling power cuts](../../transcriptions/yt-KgpTpm6CTOA.md) [https://www.youtube.com/watch?v=KgpTpm6CTOA](https://www.youtube.com/watch?v=KgpTpm6CTOA)
 * [Snutt & Jace Talk: The world of Satisfactory](../../transcriptions/yt-lwiruCRJKo0.md) [https://www.youtube.com/watch?v=lwiruCRJKo0](https://www.youtube.com/watch?v=lwiruCRJKo0)

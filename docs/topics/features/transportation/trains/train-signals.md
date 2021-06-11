@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## June 8th, 2021 Livestream
+* [Q&A: When Train Update?](../../../../transcriptions/yt-6UkeKRs-WVw.md) [https://www.youtube.com/watch?v=6UkeKRs-WVw](https://www.youtube.com/watch?v=6UkeKRs-WVw)
+
 ## May 25th, 2021 Livestream
 * [Q&A: When will there be a Creative Mode or Train remake?](../../../../transcriptions/yt-m5NFRXkFgUg.md) [https://www.youtube.com/watch?v=m5NFRXkFgUg](https://www.youtube.com/watch?v=m5NFRXkFgUg)
 

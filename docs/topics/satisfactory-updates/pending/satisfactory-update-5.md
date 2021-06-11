@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
 
+## June 8th, 2021 Livestream
+* [Trolling: We're going to add Tower Defence in Update 5](../../../transcriptions/yt-qwVOrlmH3BU.md) [https://www.youtube.com/watch?v=qwVOrlmH3BU](https://www.youtube.com/watch?v=qwVOrlmH3BU)
+* [Q&A: Drone ports use too many batteries when the player is far away, is there any fix in the works?](../../../transcriptions/yt-px6Cmk_amfI.md) [https://www.youtube.com/watch?v=px6Cmk_amfI](https://www.youtube.com/watch?v=px6Cmk_amfI)
+* [Q&A: Can we have Hannah on stream to explain upcoming changes?](../../../transcriptions/yt-H0nimrhyQ4A.md) [https://www.youtube.com/watch?v=H0nimrhyQ4A](https://www.youtube.com/watch?v=H0nimrhyQ4A)
+* [State of Dev: Update 5](../../../transcriptions/yt-iZuz7S6SauA.md) [https://www.youtube.com/watch?v=iZuz7S6SauA](https://www.youtube.com/watch?v=iZuz7S6SauA)
+* [Q&A: Is S.A.M. Ore going to be used in the next Update?](../../../transcriptions/yt-pSqiS44lqIg.md) [https://www.youtube.com/watch?v=pSqiS44lqIg](https://www.youtube.com/watch?v=pSqiS44lqIg)
+* [Snutt Talk: No more bug fixes until Update 5](../../../transcriptions/yt-hdbFUc78Srk.md) [https://www.youtube.com/watch?v=hdbFUc78Srk](https://www.youtube.com/watch?v=hdbFUc78Srk)
+
 ## June 1st, 2021 Livestream
 * [Q&A: What unexpected & surprising features will be in Update 5?](../../../transcriptions/yt-eOPr8JOE7gU.md) [https://www.youtube.com/watch?v=eOPr8JOE7gU](https://www.youtube.com/watch?v=eOPr8JOE7gU)
 

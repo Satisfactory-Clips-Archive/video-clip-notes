@@ -2,6 +2,371 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [June 8th, 2021 Livestream](./2021-06-08.md)
+### [Q&A: $1 Toilet Paper DLC?](./transcriptions/yt-ekFl5tlk2ig.md) [https://www.youtube.com/watch?v=ekFl5tlk2ig](https://www.youtube.com/watch?v=ekFl5tlk2ig)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> one dollar toilet paper dlc coming soon coming soon guys it's it's one toilet wait i always get this wrong it's one dollar toilet flush dlc right uh yeah toilet flush toilet flush not paper exactly you already have paper you have the coupons you can wipe on those yeah exactly
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 8 other times, as recently as June 2021 and as early as January 2020.</summary>
+
+* [June 1st, 2021 Livestream Q&A: Toilet DLC?](./transcriptions/yt-kitahOI_c88.md) [https://www.youtube.com/watch?v=kitahOI_c88](https://www.youtube.com/watch?v=kitahOI_c88)
+* [June 1st, 2021 Livestream Q&A: Toilet Paper DLC?](./transcriptions/yt-BEv9D4YpBJk.md) [https://www.youtube.com/watch?v=BEv9D4YpBJk](https://www.youtube.com/watch?v=BEv9D4YpBJk)
+* [May 4th, 2021 Livestream Q&A: Toilet DLC, when?](./transcriptions/yt-qgNE5bu73j0.md) [https://www.youtube.com/watch?v=qgNE5bu73j0](https://www.youtube.com/watch?v=qgNE5bu73j0)
+* [March 30th, 2021 Livestream Q&A: What about the Toilet?](./transcriptions/yt-oa5g8FKujqk.md) [https://www.youtube.com/watch?v=oa5g8FKujqk](https://www.youtube.com/watch?v=oa5g8FKujqk)
+* [February 9th, 2021 Livestream Q&A: $1 Toilet DLC?](./transcriptions/yt-mBpIB3ojMC8.md) [https://www.youtube.com/watch?v=mBpIB3ojMC8](https://www.youtube.com/watch?v=mBpIB3ojMC8)
+* [September 1st, 2020 Livestream Q&A: Flushable Toilet DLC?](./transcriptions/yt-Z7KaqsyT7_k.md) [https://www.youtube.com/watch?v=Z7KaqsyT7_k](https://www.youtube.com/watch?v=Z7KaqsyT7_k)
+* [June 8th, 2020 Livestream Q&A: Flushable Toilet?](./transcriptions/yt-FlaP38G7O5U.md) [https://www.youtube.com/watch?v=FlaP38G7O5U](https://www.youtube.com/watch?v=FlaP38G7O5U)
+* [January 22nd, 2020 Livestream Q&A: Microtranscation DLC?](./transcriptions/yt-ithVAX7EptE.md) [https://www.youtube.com/watch?v=ithVAX7EptE](https://www.youtube.com/watch?v=ithVAX7EptE)
+</details>
+
+### [Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](./transcriptions/yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> there any plans to bring things like solar power and electric vehicles to the game i mean um i can't remember what the latest is on like green energy but uh we had thought about it a lot and i'm pretty sure we're not doing it yes mark talked about this this has been a while actually now but mark mark pretty pretty much like put down the foot when it comes to this discussion uh where so so i'm gonna do a real quick tldr for everyone that's like wishing for green energy and stuff like that so wind power and solar power are two things that we've already prototyped in the game very early on and there were two power options that we didn't like because they don't give you any interesting choices with the game with all power generators currently in the game there's always like a trade-off and there's always like a choice you make when you set it up so like with coal it's like the water and all the hassle with that and with like the fuel it's like the whole fuel production and how you balance that and then the nuclear where you make the trade off with the waste and then to extend on that you have the plutonium waste where like you have to trade off like do you want to make plutonian fuel rods you can sync them or do you want to use them as power blah blah there's always like a ton of different um trade-offs and decisions you have to make with all uh power generators in the game including the geothermal one where it doesn't give you a it fluctuates right so that's one thing we don't like about solar panel and and and winds and stuff like that and i already know what people are going to be like yeah but what if the solar panels get dirty and stuff like that that's also annoying because that adds like mechanics to the game where you have to like maintain your factory and that is super annoying that's something that we definitely don't want and also really random if we only apply it to to wind turbines you know what i mean like yeah but any other building could could get dirty or break down you know like why doesn't this apply to everything exactly um but the but the bigger problem is really that this is like an infinite builder game where like you can pretty much build however many you want and if you can build like an infinite amount of solar arrays that means you just get free power and that's also not something we think is a good idea with the game with the way it's set up right now but one thing that mark has been a little bit curious about and i'm not saying that we're going to do it because it's still i don't think we're actually gonna do it to be honest uh but one thing that mark was found a little bit interesting was water like turbines because there's a limited amount of of like waterfalls where you would be able to set these up so that's something that mark was like curious about but we don't really know if we're actually gonna do that or not um so that's the only like if if anything i mean the game is still in early access so you can never say never but i don't think we're gonna do it uh because i feel like we would have done that already if we wanted it but those that feels feels kind of unnecessary like like even with the waterfalls thing it's it's kind of just like the waterfalls are essentially a node then right and so what's the difference really between that and a geothermal right exactly you know what i mean and we're not happy with how the geothermal work either like right now so like i i don't know but that's essentially the tldr on that situation um there's one more thing i wanted to say about that i completely forgot cool but that's that's that's that's the tl they are we definitely won't add solar panel and wind um and we're very doubtful about water turbines but just for arguments there there are scotland saying power seems fairly complete at this point i you know there are some things that i know that we've talked about with power which i'm not going to mention now because i don't think we've ever mentioned it um but there are some things about power that could still be changed or reworked actually um that that could potentially make the game better or more interesting yes um and simply just like adding a new like power type like green energy or something like that uh is is there there's more ways to make things interesting than just throwing more things at it you know what i mean yes um again it's when you when you just if you're just adding something it's it's going back to just moving the goal post right like if we added hydro then people will add their hydro things in and then be like but yeah we want something else now right so that's why like simply just adding things adding more like like meat to the game doesn't necessarily uh really translate to a lot more gameplay um but but i will say this though because we we talked about this as well in the past uh when on on the topic of like powers feels complete uh like jace mentioned like you still early access like anything can happen but we feel i think we're already in a we are in a pretty good spot with power like we're pretty happy with most things power related uh update four was actually originally gonna be all about power like update 4 was originally supposed to be about you know power changes and like more dynamics to the power and like having you know uh like distance fall off and stuff like that and then we prototyped it and we felt like it's it's not really adding much to the game like it it's making things more complex but powers is a thing that comes in so early in the game um and it feels like it doesn't feel good to make it complex so early on in the game um so a lot of ideas we had for update 4 were scrapped because we just didn't feel like like eugene mentioned like adding on top of it it just doesn't add that much honestly uh solar solar is interesting because it's on during the day only uh so the the problem with that is i think it's 45 minutes day time five minutes night time yes so that means your solar power won't be working only 10 of the time yes which is honestly negligible if the game was like 50 50 or 60 40 or something like that uh i could that that could make you know a lot of sense i think um it would add more i think but with just that with with it just being like 10 percent of your game time being nighttime it doesn't really make much sense exactly so uh how you doing doing good
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as May 2021 and as early as August 2020.</summary>
+
+* [May 4th, 2021 Livestream Q&A: Plans to add Solar?](./transcriptions/yt-wrFOCRX7hDY.md) [https://www.youtube.com/watch?v=wrFOCRX7hDY](https://www.youtube.com/watch?v=wrFOCRX7hDY)
+* [April 27th, 2021 Livestream Q&A: Solar Power?](./transcriptions/yt-oHxP9OXQn5w.md) [https://www.youtube.com/watch?v=oHxP9OXQn5w](https://www.youtube.com/watch?v=oHxP9OXQn5w)
+* March 23rd, 2021 Livestream Q&A: Solar panel? [https://www.youtube.com/watch?v=pnqysWUuGhM](https://www.youtube.com/watch?v=pnqysWUuGhM)
+* [November 17th, 2020 Livestream Q&A: Can we add Solar Power?](./transcriptions/yt-_Uf5e-J9TwA.md) [https://www.youtube.com/watch?v=_Uf5e-J9TwA](https://www.youtube.com/watch?v=_Uf5e-J9TwA)
+* [October 20th, 2020 Livestream Q&A: Solar Panels?](./transcriptions/yt-zpNZHeAOoQE.md) [https://www.youtube.com/watch?v=zpNZHeAOoQE](https://www.youtube.com/watch?v=zpNZHeAOoQE)
+* [August 25th, 2020 Livestream Q&A: Why are there no Solar Panels ?](./transcriptions/yt-C1XaJJmvg1M.md) [https://www.youtube.com/watch?v=C1XaJJmvg1M](https://www.youtube.com/watch?v=C1XaJJmvg1M)
+</details>
+
+### [Q&A: Can we have Hannah on stream to explain upcoming changes?](./transcriptions/yt-H0nimrhyQ4A.md) [https://www.youtube.com/watch?v=H0nimrhyQ4A](https://www.youtube.com/watch?v=H0nimrhyQ4A)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> i think we want hannah on stream to explain upcoming changes i don't think hannah can explain upcoming changes i i mean i'm not saying she's incapable of it i'm just saying that like it's a secret the way i said it was like she's not able to do it no hannah would never even if she tried nobody can do our job especially at us oh my god oh i'm so happy that nobody i can obviously watches our streams yep
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as May 2021 and as early as September 2020.</summary>
+
+* May 4th, 2021 Livestream Q&A: Hannah stream, when? [https://www.youtube.com/watch?v=Wxsp6e00g0g](https://www.youtube.com/watch?v=Wxsp6e00g0g)
+* [April 6th, 2021 Livestream Q&A: Hannah Q&A, when?](./transcriptions/yt-__NtKQHoZzc.md) [https://www.youtube.com/watch?v=__NtKQHoZzc](https://www.youtube.com/watch?v=__NtKQHoZzc)
+* [September 29th, 2020 Livestream Q&A: Will there be a stream or something with Hannah?](./transcriptions/yt-YM0ojMjT1mU.md) [https://www.youtube.com/watch?v=YM0ojMjT1mU](https://www.youtube.com/watch?v=YM0ojMjT1mU)
+</details>
+
+### [Q&A: Is S.A.M. Ore going to be used in the next Update?](./transcriptions/yt-pSqiS44lqIg.md) [https://www.youtube.com/watch?v=pSqiS44lqIg](https://www.youtube.com/watch?v=pSqiS44lqIg)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> um sam are gonna be using the next update new samoa is tied to story stuff like we mentioned before story is gonna come in 1.0 um and that's when sam or plays a part i have no idea how samwar is going to play a part uh i guess we're gonna have to find out i have some ideas some ideas yeah okay it's gonna be interesting look at me look at me i'm jace i know a little bit more of the snoot and i can divide by zero
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 15 other times, as recently as June 2021 and as early as March 2019.</summary>
+
+* [June 1st, 2021 Livestream Q&A: Can you reveal what S.A.M. Ore is please, I need to know?](./transcriptions/yt-2pUioeu_oKE.md) [https://www.youtube.com/watch?v=2pUioeu_oKE](https://www.youtube.com/watch?v=2pUioeu_oKE)
+* [May 4th, 2021 Livestream Q&A: When is S.A.M. Ore becoming use?](./transcriptions/yt-maWDJJM4ID8.md) [https://www.youtube.com/watch?v=maWDJJM4ID8](https://www.youtube.com/watch?v=maWDJJM4ID8)
+* [April 20th, 2021 Livestream Q&A: Doing something with S.A.M. Ore next update?](./transcriptions/yt-tSUBtq9ny4g.md) [https://www.youtube.com/watch?v=tSUBtq9ny4g](https://www.youtube.com/watch?v=tSUBtq9ny4g)
+* [March 30th, 2021 Livestream Q&A: Will we ever use S.A.M. Ore?](./transcriptions/yt-SqyfGfz3APc.md) [https://www.youtube.com/watch?v=SqyfGfz3APc](https://www.youtube.com/watch?v=SqyfGfz3APc)
+* [February 23rd, 2021 Livestream Q&A: S.A.M. Ore getting a main use any time soon?](./transcriptions/yt-ow33F_nK6nc.md) [https://www.youtube.com/watch?v=ow33F_nK6nc](https://www.youtube.com/watch?v=ow33F_nK6nc)
+* [January 12th, 2021 Livestream Q&A: What's happening with S.A.M. Ore?](./transcriptions/yt-f0Z9VIAK5Iw.md) [https://www.youtube.com/watch?v=f0Z9VIAK5Iw](https://www.youtube.com/watch?v=f0Z9VIAK5Iw)
+* December 17th, 2020 Q&A: Will S.A.M. Ore ever be useful? [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079)
+* [October 20th, 2020 Livestream Q&A: What's the secret behind S.A.M. Ore?](./transcriptions/yt-tXqk1eu0-BQ.md) [https://www.youtube.com/watch?v=tXqk1eu0-BQ](https://www.youtube.com/watch?v=tXqk1eu0-BQ)
+* [September 29th, 2020 Livestream Q&A: How much S.A.M. Ore should we stock up on?](./transcriptions/yt-vBGfC7j2AyI.md) [https://www.youtube.com/watch?v=vBGfC7j2AyI](https://www.youtube.com/watch?v=vBGfC7j2AyI)
+* [August 25th, 2020 Livestream Q&A: Please tell me Update 4 will use S.A.M. Ore](./transcriptions/yt--b2L_nlW_Fo.md) [https://www.youtube.com/watch?v=-b2L_nlW_Fo](https://www.youtube.com/watch?v=-b2L_nlW_Fo)
+* August 18th, 2020 Livestream Q&A: S.A.M. Ore uses? [https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis](https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis)
+* [May 15th, 2020 Q&A: When is the S.A.M. Ore becoming useful in-game?](./transcriptions/yt-NlIVwoRqjVk,807.1730333333334,849.9491.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850)
+* [February 11th, 2020 Livestream Q&A: S.A.M. Ore?](./transcriptions/yt-6r-s6Hk7QwY.md) [https://www.youtube.com/watch?v=6r-s6Hk7QwY](https://www.youtube.com/watch?v=6r-s6Hk7QwY)
+* [December 19th, 2019 Livestream Q&A: S.A.M. Ore?](./transcriptions/yt-irJw2itG4wM.md) [https://www.youtube.com/watch?v=irJw2itG4wM](https://www.youtube.com/watch?v=irJw2itG4wM)
+* [March 9th, 2019 Livestream Q&A: What do you use S.A.M. Ore for?](./transcriptions/yt-jdOQXcBiSH0.md) [https://www.youtube.com/watch?v=jdOQXcBiSH0](https://www.youtube.com/watch?v=jdOQXcBiSH0)
+</details>
+
+### [Q&A: Is there going to be any Map expansion or random Weather?](./transcriptions/yt-3Vm_v02GWco.md) [https://www.youtube.com/watch?v=3Vm_v02GWco](https://www.youtube.com/watch?v=3Vm_v02GWco)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> um yeah is there gonna be map expansion or acid rain weather i don't know if there's gonna be whether or not something that we had planned from the very beginning but i don't know if it's something we're gonna stick with but if there's gonna be map expansion i don't think so i mean i don't think the map pretty sure the map's not gonna get any bigger than it is but it's also not done so like after all these years we haven't even finished one map yet so uh we're not going to be expanding on it or creating new ones anytime soon
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 17 other times, as recently as May 2021 and as early as December 2019.</summary>
+
+* [May 4th, 2021 Livestream Q&A: Will we get a bigger Map?](./transcriptions/yt-LPvrY2LJghE.md) [https://www.youtube.com/watch?v=LPvrY2LJghE](https://www.youtube.com/watch?v=LPvrY2LJghE)
+* [April 27th, 2021 Livestream Q&A: Will you guys make a bigger map some day?](./transcriptions/yt-YDk5S3_5Wdg.md) [https://www.youtube.com/watch?v=YDk5S3_5Wdg](https://www.youtube.com/watch?v=YDk5S3_5Wdg)
+* [April 20th, 2021 Livestream Q&A: Will we get a bigger map?](./transcriptions/yt-3jmL6IM3Qqk.md) [https://www.youtube.com/watch?v=3jmL6IM3Qqk](https://www.youtube.com/watch?v=3jmL6IM3Qqk)
+* [March 30th, 2021 Livestream Q&A: Is a bigger world a possibility?](./transcriptions/yt-dlL942ooTho.md) [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
+* [February 2nd, 2021 Livestream Q&A: Will the Map be bigger later?](./transcriptions/yt-gvOt4jwWA4Q.md) [https://www.youtube.com/watch?v=gvOt4jwWA4Q](https://www.youtube.com/watch?v=gvOt4jwWA4Q)
+* [January 19th, 2021 Livestream Q&A: Is the Map finalised, as in there will be no more additions?](./transcriptions/yt-zVnmYZemxe8.md) [https://www.youtube.com/watch?v=zVnmYZemxe8](https://www.youtube.com/watch?v=zVnmYZemxe8)
+* [December 17th, 2020 Q&A: New biomes?](./transcriptions/yt--JXPsTlJIiI,1026.3920333333333,1036.5688666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037)
+* [December 15th, 2020 Livestream Q&A: When are you going to expand the map?](./transcriptions/yt-axmmm-ituSg.md) [https://www.youtube.com/watch?v=axmmm-ituSg](https://www.youtube.com/watch?v=axmmm-ituSg)
+* [December 15th, 2020 Livestream Q&A: Will we add more to the Map?](./transcriptions/yt-NeQpezHiVzI.md) [https://www.youtube.com/watch?v=NeQpezHiVzI](https://www.youtube.com/watch?v=NeQpezHiVzI)
+* November 10th, 2020 Livestream Q&A: Any plans to expand the Map / add new Biomes? [https://www.youtube.com/watch?v=oZhfgq9vdKg](https://www.youtube.com/watch?v=oZhfgq9vdKg)
+* [November 3rd, 2020 Livestream Q&A: Will the Map become bigger?](./transcriptions/yt-1pzu9fbySq0.md) [https://www.youtube.com/watch?v=1pzu9fbySq0](https://www.youtube.com/watch?v=1pzu9fbySq0)
+* [September 29th, 2020 Livestream Q&A: Will the Map change for 1.0?](./transcriptions/yt-5AsSss96Idw.md) [https://www.youtube.com/watch?v=5AsSss96Idw](https://www.youtube.com/watch?v=5AsSss96Idw)
+* [September 15th, 2020 Livestream Q&A: Will the Map be bigger?](./transcriptions/yt-b49tcUeMO3E.md) [https://www.youtube.com/watch?v=b49tcUeMO3E](https://www.youtube.com/watch?v=b49tcUeMO3E)
+* [September 8th, 2020 Livestream Q&A: Even more Biomes coming to play?](./transcriptions/yt-VgDl00Ycn3U.md) [https://www.youtube.com/watch?v=VgDl00Ycn3U](https://www.youtube.com/watch?v=VgDl00Ycn3U)
+* [September 8th, 2020 Livestream Q&A: Extension on current Map?](./transcriptions/yt-Ad3tjOha0JI.md) [https://www.youtube.com/watch?v=Ad3tjOha0JI](https://www.youtube.com/watch?v=Ad3tjOha0JI)
+* [September 1st, 2020 Livestream Q&A: Map expansion ?](./transcriptions/yt-2ZHnQ9U4f9I.md) [https://www.youtube.com/watch?v=2ZHnQ9U4f9I](https://www.youtube.com/watch?v=2ZHnQ9U4f9I)
+* December 19th, 2019 Livestream Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
+</details>
+
+### [Q&A: Please, teleporters?](./transcriptions/yt-dNPT8HQ3qRk.md) [https://www.youtube.com/watch?v=dNPT8HQ3qRk](https://www.youtube.com/watch?v=dNPT8HQ3qRk)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> these teleporters i remember when we had teleporters back in the day like before the game was out and we were like we had prototype teleporters we didn't really have them in but the uh designers just uh prototype teleporters it helped me solve a crash bug in the vehicles i've told that story yeah i think i've told us i think you can tell it again because you have to tell it again it's been a while right yeah yeah so like we had these we had these teleporters and there was this test map that i would work on and um one day i made a change to vehicles lo and behold there was like a crowd they were causing a crash and we didn't know what the hell was going on um and uh wait how did this work yeah so so uh i was like okay so what's happening so simon showed me the simon who found it and if he parked uh like an explorer on this one ramp on this level and like and then got out the explorer would just disappear and reappear somewhere else on the map but if you stayed in the explorer the game would crash and the crash logs would look at like what's crashing and it was like a berry it was crashing in a berry or something like that we're like what the hell is going on why is it berry crashing when the the vehicle disappears and um so what what ended up uh solving it was like sometimes it would crash at this berry other times it would um it wouldn't crash but the vehicle would drive out of a teleporter and we're like why is this happening and you know why is it when i parked the vehicle it comes out of the teleporter and what happened was there was like a divide by zero error in the um in the vehicle and so in a very specific case which happened if you parked on this one ramp the physics in the vehicle would divide by zero and infinite forces would be applied to the to the vehicle and so the the hitbox of the vehicle expanded to infinity within a frame and occasionally that hitbox then overlapped with one of the teleporters which reset the physics in the vehicle positioned it to the other teleporter and then it would just drive out of the teleporter so that's kind of how that was happening and and that's how i figured that out so uh i just have to go and fix that divide by zero and then everything was fine again but yeah thanks teleporter and then sometimes it would crash on the um the uh the berry thing because like the hitbox would would collide with the berry first and then the physics object would like die or some [ __ ] and yeah it was really weird it was a really weird thing so uh yeah i had uh thanks teleporter what what a nice way to like fail graciously just having it be like yeah i was like why does it drive out of the the teleporters it's so weird oh it's so funny though yeah
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as May 2021 and as early as April 2021.</summary>
+
+* [May 18th, 2021 Livestream Q&A: Are there any plans for teleportation?](./transcriptions/yt-RyU3sk4C5d8.md) [https://www.youtube.com/watch?v=RyU3sk4C5d8](https://www.youtube.com/watch?v=RyU3sk4C5d8)
+* [May 11th, 2021 Livestream Q&A: Teleport System?](./transcriptions/yt-aZHVhI9GZk8.md) [https://www.youtube.com/watch?v=aZHVhI9GZk8](https://www.youtube.com/watch?v=aZHVhI9GZk8)
+* [April 27th, 2021 Livestream Q&A: How about a teleporter for people to hand-feed the system?](./transcriptions/yt-m95zf9b3oo0.md) [https://www.youtube.com/watch?v=m95zf9b3oo0](https://www.youtube.com/watch?v=m95zf9b3oo0)
+</details>
+
+### [Q&A: State of Golf?](./transcriptions/yt-aJVpnKvUiMs.md) [https://www.youtube.com/watch?v=aJVpnKvUiMs](https://www.youtube.com/watch?v=aJVpnKvUiMs)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> anyway uh i saw one very important thing here in chat state of golf i am curious we need what is the state of golf what is this what's the check see here oh we sat at 600 votes it's at 526 not enough wait really that's kind of juicy at 600 600 votes guys we'll put uh we'll prioritize golf and put it in we'll put it in immediately we'll we'll skip update five and just put it in and just make a standalone release of it yep cool
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as May 2021 and as early as May 2021.</summary>
+
+* [May 25th, 2021 Livestream Q&A: What's the status of Golf on the QA Site?](./transcriptions/yt-ZW_d-EY-0f4.md) [https://www.youtube.com/watch?v=ZW_d-EY-0f4](https://www.youtube.com/watch?v=ZW_d-EY-0f4)
+* May 11th, 2021 Livestream Q&A: Golf? [https://www.youtube.com/watch?v=iEYrtCLO364](https://www.youtube.com/watch?v=iEYrtCLO364)
+</details>
+
+### [Q&A: Steam Workshop?](./transcriptions/yt-Ildv99O7E0M.md) [https://www.youtube.com/watch?v=Ildv99O7E0M](https://www.youtube.com/watch?v=Ildv99O7E0M)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> steam workshop question mark don't know uh we have to see when we start uh doing like official mod support and how we wish to tackle that um steam workshop can make sense uh but it also doesn't make sense in some ways because we sell the game on multiple platforms right now it's epic and steam but you know maybe in the future we want to sell it on other platforms as well and we don't want people who bought the game on epic or non-steam platforms to not have access to mods right so we would like us some kind of solution that everyone can use um to access mods and so if we only have steam workshop then that won't make sense um so that could mean that it makes no sense to support steam workshop at all because then it creates a lot of work for modders who then are either need to create mods to support on different platforms or um they might end up only doing steam workshop and then everyone else misses out again so that kind of sucks so it's kind of a weird situation um but right now the way that the mods work that the unofficial modding community has done it works really well it's very easy so if you go to oh my god i'm blanking on the site what's it called physical.yeah.com.org wait fixit.app that's the one i think it's fixit.app yeah yes yes and i've got the um the mod manager modloader manager um there and it's super easy to just like um just enable a mod and then start the game so uh yep pretty pretty good solution at the moment
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 12 other times, as recently as April 2021 and as early as May 2020.</summary>
+
+* [April 27th, 2021 Livestream Q&A: Steam Mods?](./transcriptions/yt-GC8pyFLf1Rw.md) [https://www.youtube.com/watch?v=GC8pyFLf1Rw](https://www.youtube.com/watch?v=GC8pyFLf1Rw)
+* [March 23rd, 2021 Livestream Q&A: Is it possible to have Steam Workshop in the game?](./transcriptions/yt-U2Dufcqf9G8.md) [https://www.youtube.com/watch?v=U2Dufcqf9G8](https://www.youtube.com/watch?v=U2Dufcqf9G8)
+* [February 16th, 2021 Livestream Q&A: We need Steam Workshop for this kind of thing?](./transcriptions/yt-sKwcRFzwGzI.md) [https://www.youtube.com/watch?v=sKwcRFzwGzI](https://www.youtube.com/watch?v=sKwcRFzwGzI)
+* [February 9th, 2021 Livestream Q&A: Steam has a built-in Mod Workshop system, could that possibly work?](./transcriptions/yt-dy137Wbx24M.md) [https://www.youtube.com/watch?v=dy137Wbx24M](https://www.youtube.com/watch?v=dy137Wbx24M)
+* [November 17th, 2020 Livestream Q&A: Would Official Mod Support use Steam Workshop?](./transcriptions/yt-qzu-mnG_8uA.md) [https://www.youtube.com/watch?v=qzu-mnG_8uA](https://www.youtube.com/watch?v=qzu-mnG_8uA)
+* [September 15th, 2020 Livestream Q&A: Official Mod support?](./transcriptions/yt-0M3RKdwK5mA.md) [https://www.youtube.com/watch?v=0M3RKdwK5mA](https://www.youtube.com/watch?v=0M3RKdwK5mA)
+* [September 8th, 2020 Livestream Q&A: Will we have Steam Workshop on Steam?](./transcriptions/yt-PwFxPAf0nuM.md) [https://www.youtube.com/watch?v=PwFxPAf0nuM](https://www.youtube.com/watch?v=PwFxPAf0nuM)
+* [September 1st, 2020 Livestream Q&A: Steam Workshop support ?](./transcriptions/yt-FkG749zfA2w.md) [https://www.youtube.com/watch?v=FkG749zfA2w](https://www.youtube.com/watch?v=FkG749zfA2w)
+* August 18th, 2020 Livestream Q&A: Will you plan to add Steam Workshop support? [https://clips.twitch.tv/SwissTameCoffeeDansGame](https://clips.twitch.tv/SwissTameCoffeeDansGame)
+* [June 8th, 2020 Livestream Q&A: Will you using Steam Workshop?](./transcriptions/yt-5KyHoIVdGzc.md) [https://www.youtube.com/watch?v=5KyHoIVdGzc](https://www.youtube.com/watch?v=5KyHoIVdGzc)
+* [May 19th, 2020 Livestream Q&A: Will we be seeing support for Steam Workshop?](./transcriptions/yt-n4fagQ4eivI.md) [https://www.youtube.com/watch?v=n4fagQ4eivI](https://www.youtube.com/watch?v=n4fagQ4eivI)
+* [May 15th, 2020 Q&A: Do you intend to use Steam Workshop in any way?](./transcriptions/yt-NlIVwoRqjVk,346.41273333333334,368.9352333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=346&end=369](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=346&end=369)
+</details>
+
+### [Q&A: Tier 9, when?](./transcriptions/yt-vu1U6jodrJ4.md) [https://www.youtube.com/watch?v=vu1U6jodrJ4](https://www.youtube.com/watch?v=vu1U6jodrJ4)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> tier nine when tomorrow we're gonna put it out tomorrow big update smart tier nine guys i didn't know that yeah yeah that was they just told me
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as April 2021 and as early as August 2020.</summary>
+
+* [April 27th, 2021 Livestream Q&A: Tier 9, any plan?](./transcriptions/yt-qTNbKJ6Ys0M.md) [https://www.youtube.com/watch?v=qTNbKJ6Ys0M](https://www.youtube.com/watch?v=qTNbKJ6Ys0M)
+* [August 25th, 2020 Livestream Q&A: What is expected for Tier 9?](./transcriptions/yt-EAOiEQn7E5A.md) [https://www.youtube.com/watch?v=EAOiEQn7E5A](https://www.youtube.com/watch?v=EAOiEQn7E5A)
+</details>
+
+### [Q&A: Turrets & shit?](./transcriptions/yt-KPUcYM5lOac.md) [https://www.youtube.com/watch?v=KPUcYM5lOac](https://www.youtube.com/watch?v=KPUcYM5lOac)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> oh oh i i we almost didn't have a stream where we didn't say this uh somebody asked about turrets and [ __ ] we're not gonna add any bass defense to the game ever there you go marv there's your uh 47th reference on the wiki or something
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 16 other times, as recently as May 2021 and as early as June 2018.</summary>
+
+* [May 11th, 2021 Livestream Q&A: Tower Defense?](./transcriptions/yt-VRiUOPEpWvU.md) [https://www.youtube.com/watch?v=VRiUOPEpWvU](https://www.youtube.com/watch?v=VRiUOPEpWvU)
+* [April 27th, 2021 Livestream Q&A: Is there combat & Base Defense required in the game?](./transcriptions/yt-A9GtewxqeLo.md) [https://www.youtube.com/watch?v=A9GtewxqeLo](https://www.youtube.com/watch?v=A9GtewxqeLo)
+* [March 30th, 2021 Livestream Q&A: Could some Sanctum gameplay, maybe the Tower Defense part come to Satisfactory?](./transcriptions/yt-1UTiDPGMgRI.md) [https://www.youtube.com/watch?v=1UTiDPGMgRI](https://www.youtube.com/watch?v=1UTiDPGMgRI)
+* February 26th, 2021 Videos Q&A: Please add semi tower defense in this game I'm begging you! [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4)
+* [February 9th, 2021 Livestream Q&A: Is there going to be tower defense?](./transcriptions/yt-9dWWC0mFitU.md) [https://www.youtube.com/watch?v=9dWWC0mFitU](https://www.youtube.com/watch?v=9dWWC0mFitU)
+* January 22nd, 2021 Instagram AMA Q&A: Is there a plan for automatize the base defense? [https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4](https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4)
+* [December 15th, 2020 Livestream Q&A: Can we get turrets and more PvE?](./transcriptions/yt-sJnuRV0OGF0.md) [https://www.youtube.com/watch?v=sJnuRV0OGF0](https://www.youtube.com/watch?v=sJnuRV0OGF0)
+* [December 8th, 2020 Livestream Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) [https://www.youtube.com/watch?v=5-8ACtMU2_E](https://www.youtube.com/watch?v=5-8ACtMU2_E)
+* [October 13th, 2020 Livestream Q&A: If Factories can get attacked?](./transcriptions/yt-tK_m7AqM4sY.md) [https://www.youtube.com/watch?v=tK_m7AqM4sY](https://www.youtube.com/watch?v=tK_m7AqM4sY)
+* [September 22nd, 2020 Livestream Q&A: Hoping for Base Defence?](./transcriptions/yt-RjFIQhJY824.md) [https://www.youtube.com/watch?v=RjFIQhJY824](https://www.youtube.com/watch?v=RjFIQhJY824)
+* August 18th, 2020 Livestream Q&A: Will there be animals that attack the base? [https://clips.twitch.tv/ProtectiveTubularCatJebaited](https://clips.twitch.tv/ProtectiveTubularCatJebaited)
+* [May 15th, 2020 Q&A: What is one item or equipment that some of the staff have wanted, but got canned for balancing?](./transcriptions/yt-NlIVwoRqjVk,1034.8338,1062.2612.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063)
+* [March 9th, 2019 Livestream Q&A: Can creatures in any way disrupt your factory?](./transcriptions/yt-R2Fms8EjhN8.md) [https://www.youtube.com/watch?v=R2Fms8EjhN8](https://www.youtube.com/watch?v=R2Fms8EjhN8)
+* [March 9th, 2019 Livestream Q&A: Will there be turrets or something in the game?](./transcriptions/yt-xNBFywqCrxM.md) [https://www.youtube.com/watch?v=xNBFywqCrxM](https://www.youtube.com/watch?v=xNBFywqCrxM)
+* [February 6th, 2019 Livestream Q&A: Why not turrets like Sanctum?](./transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640)
+* [June 22nd, 2018 Q&A: Will we need to defend our factory?](./transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
+</details>
+
+### [Q&A: What's the current Multiplayer status?](./transcriptions/yt-doX5Pn5A6Tc.md) [https://www.youtube.com/watch?v=doX5Pn5A6Tc](https://www.youtube.com/watch?v=doX5Pn5A6Tc)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> i'm gonna say uh what's the current multiplayer status it's it's all right it's going it's going places it's all right i'll give it a solid six out of ten seven out of ten ten we're working i'm out ten on a good day yeah i saw a similar question about like if there's any big optimization uh updates coming like the the the tricky thing is like we've kind of like um i mentioned this before we are reworking a bunch of systems for the games to be able to like both because of technical depth and we're like we need to fix them to be able to work on other things but also to like so that we can actually do major improvements to the game it's a slow it's a marathon like it takes time we don't have any like obvious low hanging fruit and we haven't had that for a long time actually so like sometimes we figure out things in the game that we didn't know about for instance one thing that ben talked about in the um in the uh lights video was that we we noticed that the dismantle effect uh would cache kind of all the materials for all buildings in the game on like in one frame and then throw it away when you load it into the game and that wasn't something that we we realized until after we implemented the stencil drawing of the mantle effect but that was a huge gain for for like big factories and we didn't know about that so there's still a bunch of stuff we can do to improve on things like that but for the most part it's like we have like a bunch of systems that we need to build so that we can get a little bit of better performance here and there but you know all that stuff kind of trickles down and eventually you'll get a much smoother experience but it really is a marathon and there's no like one one thing to fix to fix all things um so slow and steady wins the race essentially if you go back to a bunch of builds of the game and look at play the game like you will definitely notice how much worse it was before um like i remember i remember bef when we released the ea e3 trailer um there was a factory that we we filmed in like slow motion so that we kind of like because we couldn't run that factory on the machine that we had at that time and then now that that factory is like nothing like compared to what people are running now so like there's definitely improvement to the game uh when it comes to performance and we have the receipts for that um so it's just uh it's just uh we just have to keep going so you're gonna see slow improvements but it's probably you won't probably like it also depends a little bit on your situations like sometimes people have had a factory setup that like is hugely affected by some optimization uh but for most people you probably won't notice until uh unless you go back
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 18 other times, as recently as May 2021 and as early as March 2020.</summary>
+
+* [May 25th, 2021 Livestream Q&A: When do you think the focus will be on fixing Multiplayer?](./transcriptions/yt-3alTbxWgPnc.md) [https://www.youtube.com/watch?v=3alTbxWgPnc](https://www.youtube.com/watch?v=3alTbxWgPnc)
+* [May 18th, 2021 Livestream Q&A: Multiplayer sync bug fix when?](./transcriptions/yt-goZSVbncdJI.md) [https://www.youtube.com/watch?v=goZSVbncdJI](https://www.youtube.com/watch?v=goZSVbncdJI)
+* [February 23rd, 2021 Livestream Q&A: What are the plans to improve multiplayer bugs in the future?](./transcriptions/yt-D36NzV3LAB8.md) [https://www.youtube.com/watch?v=D36NzV3LAB8](https://www.youtube.com/watch?v=D36NzV3LAB8)
+* [February 16th, 2021 Livestream Q&A: Are you planning to fix the Multiplayer late-game?](./transcriptions/yt-Fk_wKTIx5Z4.md) [https://www.youtube.com/watch?v=Fk_wKTIx5Z4](https://www.youtube.com/watch?v=Fk_wKTIx5Z4)
+* [February 2nd, 2021 Livestream Q&A: Multiplayer, how's it going- when came better sync in Multiplayer?](./transcriptions/yt-bfXUQNNIPRY.md) [https://www.youtube.com/watch?v=bfXUQNNIPRY](https://www.youtube.com/watch?v=bfXUQNNIPRY)
+* [December 8th, 2020 Livestream Q&A: Is Multiplayer desync fixed in Update 4?](./transcriptions/yt-OjiLxOBdkU8.md) [https://www.youtube.com/watch?v=OjiLxOBdkU8](https://www.youtube.com/watch?v=OjiLxOBdkU8)
+* [November 24th, 2020 Livestream Q&A: Multiplayer fix?](./transcriptions/yt-LX-zsQIkB3g.md) [https://www.youtube.com/watch?v=LX-zsQIkB3g](https://www.youtube.com/watch?v=LX-zsQIkB3g)
+* [November 17th, 2020 Livestream Q&A: Better Multiplayer support?](./transcriptions/yt-ECQdh3EiXws.md) [https://www.youtube.com/watch?v=ECQdh3EiXws](https://www.youtube.com/watch?v=ECQdh3EiXws)
+* [October 27th, 2020 Livestream Q&A: What about Multiplayer Updates?](./transcriptions/yt-jfn3FOb5Jdw.md) [https://www.youtube.com/watch?v=jfn3FOb5Jdw](https://www.youtube.com/watch?v=jfn3FOb5Jdw)
+* [October 6th, 2020 Livestream Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](./transcriptions/yt-RVq5k89jlEA.md) [https://www.youtube.com/watch?v=RVq5k89jlEA](https://www.youtube.com/watch?v=RVq5k89jlEA)
+* [October 6th, 2020 Livestream Q&A: Co-op networking bugs been fixed?](./transcriptions/yt-60kjGquJZnk.md) [https://www.youtube.com/watch?v=60kjGquJZnk](https://www.youtube.com/watch?v=60kjGquJZnk)
+* [September 8th, 2020 Livestream Q&A: Fix Multiplayer quick?](./transcriptions/yt--p03ktqVUdc.md) [https://www.youtube.com/watch?v=-p03ktqVUdc](https://www.youtube.com/watch?v=-p03ktqVUdc)
+* [September 1st, 2020 Livestream Q&A: Is multiplayer desync getting fixed?](./transcriptions/yt-tkx-DVLp3fs.md) [https://www.youtube.com/watch?v=tkx-DVLp3fs](https://www.youtube.com/watch?v=tkx-DVLp3fs)
+* [September 1st, 2020 Livestream Q&A: Will Update 4 include Multiplayer optimisation?](./transcriptions/yt-P0Q4nTvK9XU.md) [https://www.youtube.com/watch?v=P0Q4nTvK9XU](https://www.youtube.com/watch?v=P0Q4nTvK9XU)
+* [August 25th, 2020 Livestream Q&A: Are you going to improve networking for multiplayer?](./transcriptions/yt-mf-PgMUVTiI.md) [https://www.youtube.com/watch?v=mf-PgMUVTiI](https://www.youtube.com/watch?v=mf-PgMUVTiI)
+* [June 8th, 2020 Livestream Q&A: Please fix Multiplayer bugs?](./transcriptions/yt-X6OALg4vc7w.md) [https://www.youtube.com/watch?v=X6OALg4vc7w](https://www.youtube.com/watch?v=X6OALg4vc7w)
+* [May 15th, 2020 Q&A: Multiplayer has quality-of-life issues, are you going to fix them?](./transcriptions/yt-NlIVwoRqjVk,406.77303333333333,461.22743333333335.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=406&end=462](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=406&end=462)
+* [March 24th, 2020 Livestream Q&A: How high is Multiplayer bugfixing on the priority list?](./transcriptions/yt-mvSWBd42JYM.md) [https://www.youtube.com/watch?v=mvSWBd42JYM](https://www.youtube.com/watch?v=mvSWBd42JYM)
+</details>
+
+### [Q&A: What's your favourite mod?](./transcriptions/yt-Y_FlnlBYZ2k.md) [https://www.youtube.com/watch?v=Y_FlnlBYZ2k](https://www.youtube.com/watch?v=Y_FlnlBYZ2k)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> what's your favorite mod i haven't used mods in a long time so i actually haven't checked out uh it's been a while since since i played with mods honestly because i i've been making a lot of trailer stuff and i can't use the mod manager for that because it breaks our dev build potentially so i'm but uh maybe we should i'm just gonna try out some more i gotta check it out
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as April 2021 and as early as July 2020.</summary>
+
+* [April 20th, 2021 Livestream Q&A: Do you have a favourite Mod?](./transcriptions/yt-URunN9abrss.md) [https://www.youtube.com/watch?v=URunN9abrss](https://www.youtube.com/watch?v=URunN9abrss)
+* [January 12th, 2021 Livestream Q&A: What is your favourite Mod?](./transcriptions/yt-9tdYBCwd5no.md) [https://www.youtube.com/watch?v=9tdYBCwd5no](https://www.youtube.com/watch?v=9tdYBCwd5no)
+* [July 8th, 2020 Mod Highlight Q&A: What is your favourite Mod?](./transcriptions/yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
+</details>
+
+### [Q&A: What about Story?](./transcriptions/yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> so yeah what about story so we've been i think there's been like uh like story development uh is like is actually underway yeah i'm pretty sure we can actually talk a little about that we are prototyping how to like we have so hannah our lead writer she's made a story for the game and and she's had like a story in her mind for a long time but now she's like actually like put it down on paper she's gone through like the the everything and we have like a sort of uh how the story will play out what we're trying to figure out currently is how like the story is told in the game uh and that's something that we're prototyping currently like but the thing is you guys won't see any of that until 1.0 because we are not planning on releasing any of that stuff until the game is finished food court exactly that's that's all you need to know we really shouldn't have spoiled the food court in the early days yeah but we haven't talked about it in a while so glad you brought it up so that people get reminded by it
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 8 other times, as recently as May 2021 and as early as March 2021.</summary>
+
+* [May 18th, 2021 Livestream Q&A: Is there any sort of Story planned?](./transcriptions/yt-8cZ-oH-WA3E.md) [https://www.youtube.com/watch?v=8cZ-oH-WA3E](https://www.youtube.com/watch?v=8cZ-oH-WA3E)
+* [May 11th, 2021 Livestream Q&A: Do you have a clear idea of the Story Mode yet?](./transcriptions/yt-Zc2lKKROexI.md) [https://www.youtube.com/watch?v=Zc2lKKROexI](https://www.youtube.com/watch?v=Zc2lKKROexI)
+* [May 4th, 2021 Livestream Q&A: Will there be Story?](./transcriptions/yt-SKa_F6Km7sA.md) [https://www.youtube.com/watch?v=SKa_F6Km7sA](https://www.youtube.com/watch?v=SKa_F6Km7sA)
+* [March 30th, 2021 Livestream Q&A: Will there be Story to the game?](./transcriptions/yt-C23SCWtnv2U.md) [https://www.youtube.com/watch?v=C23SCWtnv2U](https://www.youtube.com/watch?v=C23SCWtnv2U)
+* [March 23rd, 2021 Livestream Q&A: Any Story hints?](./transcriptions/yt-83bWsjYlMrM.md) [https://www.youtube.com/watch?v=83bWsjYlMrM](https://www.youtube.com/watch?v=83bWsjYlMrM)
+* March 16th, 2021 Livestream Q&A: Storyline? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747)
+* [March 9th, 2021 Livestream Q&A: Is Lore & Story progressing well, not well, or not at all?](./transcriptions/yt-UHWeEsduD0Q.md) [https://www.youtube.com/watch?v=UHWeEsduD0Q](https://www.youtube.com/watch?v=UHWeEsduD0Q)
+* [March 2nd, 2021 Livestream Q&A: Is the Story completely written or is it still in progress?](./transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
+</details>
+
+### [Q&A: When Train Update?](./transcriptions/yt-6UkeKRs-WVw.md) [https://www.youtube.com/watch?v=6UkeKRs-WVw](https://www.youtube.com/watch?v=6UkeKRs-WVw)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> one train update we don't know um something i feel like when i read on the steam forum sometimes about this uh there's a little bit of mis information maybe about about the trains in satisfactory um the trains are in early access sort of if that makes sense like when we released the train update we weren't happy with the trains fully and we even announced at that point that we were gonna like work more on trains at some point in the future this is also haven't had that pass yet yeah exactly uh this is also why this like a lot of the multiplayer bugs that you may have faced uh have been tied to trains and it's because like when we run into an issue sometimes it's worth doing like a sort of workaround solution and sometimes it's like ah it's better to save this when we actually rework the entire system and that's been the case for a lot of train issues where we know that we're gonna rework trains at some point we just don't know when so it's like not been totally worth it to like in invest a lot of time in fixing issues if we if we notice that like the issue we're trying to solve actually doesn't just like you know it's actually a lot of work to fix it um but we are going to improve trains at some point in the future that's that's we've we've decided that and what we really want to shoot for is like having some kind of signaling system or some kind of collisioning system or both uh i don't know exactly what's been decided yeah i think we've said in the past that we won both i'm pretty sure i'm also pretty sure that that's still the plan but yeah yeah so so trains are gonna get an update at some point in the future yeah um just so you guys know i've seen some people say that we're not going to do updates to the trains but we are going to do some changes to the trains and that also means that just a fyi for people that have built train tracks um when we do implement that uh similar to how we've done with other things we've changed in the game like if you set up certain train systems where adding a signaling system or a collision system on top of that wouldn't make sense then your break your your train lines are probably going to break so the recommendation i have currently without actually knowing what we're gonna do is to not have all your train lines on one single track and going back and forth i guess that's that's the only thing i think like following the the same path that like factorio does with like their multi where you kind of need like two directions with your train lines and tracks i think you're safe in those situations but i don't know that's just uh my gut feeling um
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 27 other times, as recently as May 2021 and as early as May 2020.</summary>
+
+* [May 18th, 2021 Livestream Q&A: Are you considering a Train rework?](./transcriptions/yt-68MP936ZdfQ.md) [https://www.youtube.com/watch?v=68MP936ZdfQ](https://www.youtube.com/watch?v=68MP936ZdfQ)
+* [May 4th, 2021 Livestream Q&A: Will Trains get an Update?](./transcriptions/yt-hXmvgEpyDdY.md) [https://www.youtube.com/watch?v=hXmvgEpyDdY](https://www.youtube.com/watch?v=hXmvgEpyDdY)
+* [April 20th, 2021 Livestream Q&A: Train remake?](./transcriptions/yt-4iPV87r2O7A.md) [https://www.youtube.com/watch?v=4iPV87r2O7A](https://www.youtube.com/watch?v=4iPV87r2O7A)
+* April 13th, 2021 Livestream Q&A: Train Collision? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699)
+* [April 6th, 2021 Livestream Q&A: Train Collision?](./transcriptions/yt-ECH-dzoj7ro.md) [https://www.youtube.com/watch?v=ECH-dzoj7ro](https://www.youtube.com/watch?v=ECH-dzoj7ro)
+* [March 23rd, 2021 Livestream Q&A: Will Trains get collision in the future?](./transcriptions/yt-e8ctn7TDrq0.md) [https://www.youtube.com/watch?v=e8ctn7TDrq0](https://www.youtube.com/watch?v=e8ctn7TDrq0)
+* March 23rd, 2021 Livestream Q&A: Will Trains have some sort of signalling in the future? [https://www.youtube.com/watch?v=Ir3GVM1fDU0](https://www.youtube.com/watch?v=Ir3GVM1fDU0)
+* March 16th, 2021 Livestream Q&A: Train Collision in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5878&end=5885](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5878&end=5885)
+* [February 23rd, 2021 Livestream Q&A: Any news on Train revamp?](./transcriptions/yt-_kBUD_mMahs.md) [https://www.youtube.com/watch?v=_kBUD_mMahs](https://www.youtube.com/watch?v=_kBUD_mMahs)
+* [February 2nd, 2021 Livestream Q&A: Train Collisions?](./transcriptions/yt-rCOD5becD6M.md) [https://www.youtube.com/watch?v=rCOD5becD6M](https://www.youtube.com/watch?v=rCOD5becD6M)
+* [January 26th, 2021 Livestream Q&A: Have there been any changes on Train collision stuff?](./transcriptions/yt-KvIFKOokxYE.md) [https://www.youtube.com/watch?v=KvIFKOokxYE](https://www.youtube.com/watch?v=KvIFKOokxYE)
+* [January 12th, 2021 Livestream Q&A: Any new information regarding Signal system for Trains?](./transcriptions/yt-Bu2TPRFV_2o.md) [https://www.youtube.com/watch?v=Bu2TPRFV_2o](https://www.youtube.com/watch?v=Bu2TPRFV_2o)
+* [December 17th, 2020 Q&A: Will Trains be getting any updates? Signals? Collision?](./transcriptions/yt--JXPsTlJIiI,229.86296666666667,254.92133333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=229&end=255](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=229&end=255)
+* [December 15th, 2020 Livestream Q&A: Train Update?](./transcriptions/yt-ts7TQnRykB0.md) [https://www.youtube.com/watch?v=ts7TQnRykB0](https://www.youtube.com/watch?v=ts7TQnRykB0)
+* [December 8th, 2020 Livestream Q&A: Any news on Train Signals?](./transcriptions/yt-V-OVvjoUAmg.md) [https://www.youtube.com/watch?v=V-OVvjoUAmg](https://www.youtube.com/watch?v=V-OVvjoUAmg)
+* [November 17th, 2020 Livestream Q&A: Train Collision](./transcriptions/yt-OdCLosbTp60.md) [https://www.youtube.com/watch?v=OdCLosbTp60](https://www.youtube.com/watch?v=OdCLosbTp60)
+* [November 10th, 2020 Livestream Q&A: Any news about Trains? If so put them in Update 4?](./transcriptions/yt-eT6uSBu-sVw.md) [https://www.youtube.com/watch?v=eT6uSBu-sVw](https://www.youtube.com/watch?v=eT6uSBu-sVw)
+* [October 20th, 2020 Livestream Q&A: When will we have Train Collision?](./transcriptions/yt-TjSMwjueGc8.md) [https://www.youtube.com/watch?v=TjSMwjueGc8](https://www.youtube.com/watch?v=TjSMwjueGc8)
+* [September 29th, 2020 Livestream Q&A: Is there an update to Train Stations, Rails, and Railway Switches in the future?](./transcriptions/yt-vV-u0AjWWvU.md) [https://www.youtube.com/watch?v=vV-u0AjWWvU](https://www.youtube.com/watch?v=vV-u0AjWWvU)
+* [September 22nd, 2020 Livestream Q&A: Any new info about Train Signals?](./transcriptions/yt-bPU07wU3Mr0.md) [https://www.youtube.com/watch?v=bPU07wU3Mr0](https://www.youtube.com/watch?v=bPU07wU3Mr0)
+* [September 15th, 2020 Livestream Q&A: What will be happening with the Train collisions/signalling?](./transcriptions/yt-BZtRginha6g.md) [https://www.youtube.com/watch?v=BZtRginha6g](https://www.youtube.com/watch?v=BZtRginha6g)
+* [September 1st, 2020 Livestream Q&A: Any more info on Train Signals?](./transcriptions/yt-1hTjt3er8XI.md) [https://www.youtube.com/watch?v=1hTjt3er8XI](https://www.youtube.com/watch?v=1hTjt3er8XI)
+* [August 25th, 2020 Livestream Q&A: Train Signals?](./transcriptions/yt-WQH5cWS3s2s.md) [https://www.youtube.com/watch?v=WQH5cWS3s2s](https://www.youtube.com/watch?v=WQH5cWS3s2s)
+* [August 25th, 2020 Livestream Q&A: Will the Train always clip?](./transcriptions/yt-PY6wf7cvjgM.md) [https://www.youtube.com/watch?v=PY6wf7cvjgM](https://www.youtube.com/watch?v=PY6wf7cvjgM)
+* August 18th, 2020 Livestream Q&A: Any thoughts on whether Trains will ever collide? [https://clips.twitch.tv/SaltyJazzyPasta4Head](https://clips.twitch.tv/SaltyJazzyPasta4Head)
+* [June 8th, 2020 Livestream Q&A: What are plans for Trains?](./transcriptions/yt-9MVglCjtlwY.md) [https://www.youtube.com/watch?v=9MVglCjtlwY](https://www.youtube.com/watch?v=9MVglCjtlwY)
+* [May 15th, 2020 Q&A: Is proper rail signalling in the works for the future?](./transcriptions/yt-NlIVwoRqjVk,1227.0591666666667,1235.4342.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1227&end=1236](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1227&end=1236)
+</details>
+
 ## [June 1st, 2021 Livestream](./2021-06-01.md)
 ### [Q&A: Any plans for an Elevator for those of us that build mega factories?](./transcriptions/yt-snzgCf54CIQ.md) [https://www.youtube.com/watch?v=snzgCf54CIQ](https://www.youtube.com/watch?v=snzgCf54CIQ)
 
@@ -86,36 +451,6 @@ date: Last Modified
 * August 18th, 2020 Livestream Build Limit (Part 6): [https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ](https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ)
 </details>
 
-### [Q&A: Can you reveal what S.A.M. Ore is please, I need to know?](./transcriptions/yt-2pUioeu_oKE.md) [https://www.youtube.com/watch?v=2pUioeu_oKE](https://www.youtube.com/watch?v=2pUioeu_oKE)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> interview with samurais please i need to know we will you know we will reveal it in the future in the future
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 14 other times, as recently as May 2021 and as early as March 2019.</summary>
-
-* [May 4th, 2021 Livestream Q&A: When is S.A.M. Ore becoming use?](./transcriptions/yt-maWDJJM4ID8.md) [https://www.youtube.com/watch?v=maWDJJM4ID8](https://www.youtube.com/watch?v=maWDJJM4ID8)
-* [April 20th, 2021 Livestream Q&A: Doing something with S.A.M. Ore next update?](./transcriptions/yt-tSUBtq9ny4g.md) [https://www.youtube.com/watch?v=tSUBtq9ny4g](https://www.youtube.com/watch?v=tSUBtq9ny4g)
-* [March 30th, 2021 Livestream Q&A: Will we ever use S.A.M. Ore?](./transcriptions/yt-SqyfGfz3APc.md) [https://www.youtube.com/watch?v=SqyfGfz3APc](https://www.youtube.com/watch?v=SqyfGfz3APc)
-* [February 23rd, 2021 Livestream Q&A: S.A.M. Ore getting a main use any time soon?](./transcriptions/yt-ow33F_nK6nc.md) [https://www.youtube.com/watch?v=ow33F_nK6nc](https://www.youtube.com/watch?v=ow33F_nK6nc)
-* [January 12th, 2021 Livestream Q&A: What's happening with S.A.M. Ore?](./transcriptions/yt-f0Z9VIAK5Iw.md) [https://www.youtube.com/watch?v=f0Z9VIAK5Iw](https://www.youtube.com/watch?v=f0Z9VIAK5Iw)
-* December 17th, 2020 Q&A: Will S.A.M. Ore ever be useful? [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079)
-* [October 20th, 2020 Livestream Q&A: What's the secret behind S.A.M. Ore?](./transcriptions/yt-tXqk1eu0-BQ.md) [https://www.youtube.com/watch?v=tXqk1eu0-BQ](https://www.youtube.com/watch?v=tXqk1eu0-BQ)
-* [September 29th, 2020 Livestream Q&A: How much S.A.M. Ore should we stock up on?](./transcriptions/yt-vBGfC7j2AyI.md) [https://www.youtube.com/watch?v=vBGfC7j2AyI](https://www.youtube.com/watch?v=vBGfC7j2AyI)
-* [August 25th, 2020 Livestream Q&A: Please tell me Update 4 will use S.A.M. Ore](./transcriptions/yt--b2L_nlW_Fo.md) [https://www.youtube.com/watch?v=-b2L_nlW_Fo](https://www.youtube.com/watch?v=-b2L_nlW_Fo)
-* August 18th, 2020 Livestream Q&A: S.A.M. Ore uses? [https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis](https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis)
-* [May 15th, 2020 Q&A: When is the S.A.M. Ore becoming useful in-game?](./transcriptions/yt-NlIVwoRqjVk,807.1730333333334,849.9491.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850)
-* [February 11th, 2020 Livestream Q&A: S.A.M. Ore?](./transcriptions/yt-6r-s6Hk7QwY.md) [https://www.youtube.com/watch?v=6r-s6Hk7QwY](https://www.youtube.com/watch?v=6r-s6Hk7QwY)
-* [December 19th, 2019 Livestream Q&A: S.A.M. Ore?](./transcriptions/yt-irJw2itG4wM.md) [https://www.youtube.com/watch?v=irJw2itG4wM](https://www.youtube.com/watch?v=irJw2itG4wM)
-* [March 9th, 2019 Livestream Q&A: What do you use S.A.M. Ore for?](./transcriptions/yt-jdOQXcBiSH0.md) [https://www.youtube.com/watch?v=jdOQXcBiSH0](https://www.youtube.com/watch?v=jdOQXcBiSH0)
-</details>
-
 ### [Q&A: Does Unreal Engine 5 have enough features for you to consider upgrading in future?](./transcriptions/yt-ZvVALD7ZCOA.md) [https://www.youtube.com/watch?v=ZvVALD7ZCOA](https://www.youtube.com/watch?v=ZvVALD7ZCOA)
 
 <details>
@@ -146,29 +481,6 @@ date: Last Modified
 
 * August 18th, 2020 Livestream Q&A: Will you be able to pet the doggo? [https://clips.twitch.tv/DullHyperSpindlePanicVis](https://clips.twitch.tv/DullHyperSpindlePanicVis)
 * [March 9th, 2019 Livestream Q&A: How to pet Doggo?](./transcriptions/yt-izvalD5vPuc.md) [https://www.youtube.com/watch?v=izvalD5vPuc](https://www.youtube.com/watch?v=izvalD5vPuc)
-</details>
-
-### [Q&A: Toilet DLC?](./transcriptions/yt-kitahOI_c88.md) [https://www.youtube.com/watch?v=kitahOI_c88](https://www.youtube.com/watch?v=kitahOI_c88)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> toilet dlc toilet dlc coming soon uh toy look toilet dlc is gonna be a thing if it's if it's the last thing i ever do all right toilet dlc is gonna be my magnum opus we are gonna have toilet dlc you're here for the toile dc toilet dlc when it's coming it's coming don't worry i'm a man of the people and the toilet dlc is gonna be a thing don't you worry i swear
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 7 other times, as recently as June 2021 and as early as January 2020.</summary>
-
-* [June 1st, 2021 Livestream Q&A: Toilet Paper DLC?](./transcriptions/yt-BEv9D4YpBJk.md) [https://www.youtube.com/watch?v=BEv9D4YpBJk](https://www.youtube.com/watch?v=BEv9D4YpBJk)
-* [May 4th, 2021 Livestream Q&A: Toilet DLC, when?](./transcriptions/yt-qgNE5bu73j0.md) [https://www.youtube.com/watch?v=qgNE5bu73j0](https://www.youtube.com/watch?v=qgNE5bu73j0)
-* [March 30th, 2021 Livestream Q&A: What about the Toilet?](./transcriptions/yt-oa5g8FKujqk.md) [https://www.youtube.com/watch?v=oa5g8FKujqk](https://www.youtube.com/watch?v=oa5g8FKujqk)
-* [February 9th, 2021 Livestream Q&A: $1 Toilet DLC?](./transcriptions/yt-mBpIB3ojMC8.md) [https://www.youtube.com/watch?v=mBpIB3ojMC8](https://www.youtube.com/watch?v=mBpIB3ojMC8)
-* [September 1st, 2020 Livestream Q&A: Flushable Toilet DLC?](./transcriptions/yt-Z7KaqsyT7_k.md) [https://www.youtube.com/watch?v=Z7KaqsyT7_k](https://www.youtube.com/watch?v=Z7KaqsyT7_k)
-* [June 8th, 2020 Livestream Q&A: Flushable Toilet?](./transcriptions/yt-FlaP38G7O5U.md) [https://www.youtube.com/watch?v=FlaP38G7O5U](https://www.youtube.com/watch?v=FlaP38G7O5U)
-* [January 22nd, 2020 Livestream Q&A: Microtranscation DLC?](./transcriptions/yt-ithVAX7EptE.md) [https://www.youtube.com/watch?v=ithVAX7EptE](https://www.youtube.com/watch?v=ithVAX7EptE)
 </details>
 
 ### [Q&A: Updates on Dedicated Servers?](./transcriptions/yt-JGj3aITwDg8.md) [https://www.youtube.com/watch?v=JGj3aITwDg8](https://www.youtube.com/watch?v=JGj3aITwDg8)
@@ -563,7 +875,7 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 27 other times, as recently as May 2021 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 28 other times, as recently as May 2021 and as early as March 2019.</summary>
 
 * [May 4th, 2021 Livestream Q&A: Plans to add new mobs?](./transcriptions/yt-l7vpFCb_aeo.md) [https://www.youtube.com/watch?v=l7vpFCb_aeo](https://www.youtube.com/watch?v=l7vpFCb_aeo)
 * [April 27th, 2021 Livestream Q&A: Any new aliens coming?](./transcriptions/yt-d5A3AQG5YoE.md) [https://www.youtube.com/watch?v=d5A3AQG5YoE](https://www.youtube.com/watch?v=d5A3AQG5YoE)
@@ -591,6 +903,7 @@ date: Last Modified
 * [August 25th, 2020 Livestream Q&A: Will we have more monsters?](./transcriptions/yt-shEKhZakMxQ.md) [https://www.youtube.com/watch?v=shEKhZakMxQ](https://www.youtube.com/watch?v=shEKhZakMxQ)
 * July 28th, 2020 Livestream Q&A: More Wildlife? [https://clips.twitch.tv/DirtyHilariousPancakeWow](https://clips.twitch.tv/DirtyHilariousPancakeWow)
 * [May 15th, 2020 Q&A: Might we see more megafauna? The Dune Desert is missing something.](./transcriptions/yt-NlIVwoRqjVk,1062.2612,1092.6582333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1062&end=1093](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1062&end=1093)
+* [March 9th, 2019 Livestream Q&A: How many bosses in Satisfactory?](./transcriptions/yt-OHrWEP9zmy8.md) [https://www.youtube.com/watch?v=OHrWEP9zmy8](https://www.youtube.com/watch?v=OHrWEP9zmy8)
 * [March 9th, 2019 Livestream Q&A: Is there more than 5 enemies in?](./transcriptions/yt-DLnUjlixpg8.md) [https://www.youtube.com/watch?v=DLnUjlixpg8](https://www.youtube.com/watch?v=DLnUjlixpg8)
 </details>
 
@@ -614,39 +927,6 @@ date: Last Modified
 * [December 19th, 2019 Livestream Q&A: Does it mean we get Goats?](./transcriptions/yt-RlSL5DONzns.md) [https://www.youtube.com/watch?v=RlSL5DONzns](https://www.youtube.com/watch?v=RlSL5DONzns)
 * March 9th, 2019 Livestream Q&A: Are there any goats in the game? [https://www.youtube.com/watch?v=jAjSoN6Z1rc](https://www.youtube.com/watch?v=jAjSoN6Z1rc)
 * [February 6th, 2019 Livestream Q&A: Is there goats in Satisfactory?](./transcriptions/yt-Dtm6xIj-wM4,3842.669132,3860.976436.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3842&end=3861](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3842&end=3861)
-</details>
-
-### [Q&A: When do you think the focus will be on fixing Multiplayer?](./transcriptions/yt-3alTbxWgPnc.md) [https://www.youtube.com/watch?v=3alTbxWgPnc](https://www.youtube.com/watch?v=3alTbxWgPnc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> when do you think the main focus will be on fixing multiplayer and will multiplayer be cleaned up before release or that post release multiplayer will be cleaned up before and it's one of it's one of our focuses in order to get dedicated servers running um as for like when the main focus will be it's like i don't i don't think you can just throw a bunch of people at it and then it's i don't know if like adding more cooks to the kitchen necessarily speeds things up in a meaningful way yeah and then and then when you add more to the game the first thing that breaks is multiplayer yeah so it's it's it's just uh it's gonna be a pain that we're gonna have forever but it is gonna get better and it has gotten better uh it's just it just gets better slowly so that if you were to compare the state of multiplayer now to six months ago or a year ago it's way better than it was um but you know if we put all our resources into fixing every multiplayer issue now i can guarantee you in three or four months when we add new content or something uh we're just gonna have problems again and so it's not it's necessarily a worthwhile investment there's also the aspect of like maintaining uh the solution sometimes we have to make like very ad-hoc solutions to multiplayer right now and so a lot this has happened a lot where we fix multiple bugs and they just keep coming back in multiplayer uh just because like we need to change the way the systems works and when we change how the system works then they start like impacting certain issues and we kind of need to like reach a good point with certain systems before we can be like all right let's crack down on these bugs that's related to multiplayer and we've sort of like learned as we're going that like we can't get stuck keep fixing the same thing over and over again we have to move on there's an interesting an interesting analogy here i haven't heard this one before i've heard things like it but nine pregnant pregnant women can't make a baby in one month you know yeah pretty good so it's like if if it takes the one that i usually use is if it takes like a one person to dig a hole in an hour how long does it take 60 people it doesn't take one minute yeah the one i like is if it takes a program or one month to do something then if you throw two programs on it it will take two months yeah yeah yeah i heard that it was three months oh yeah that's pretty good too yeah you know the one it's like yeah what takes what takes one program or one month takes two programs three months something like that yeah oh i love it throw all the shade on programmers
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 17 other times, as recently as May 2021 and as early as March 2020.</summary>
-
-* [May 18th, 2021 Livestream Q&A: Multiplayer sync bug fix when?](./transcriptions/yt-goZSVbncdJI.md) [https://www.youtube.com/watch?v=goZSVbncdJI](https://www.youtube.com/watch?v=goZSVbncdJI)
-* [February 23rd, 2021 Livestream Q&A: What are the plans to improve multiplayer bugs in the future?](./transcriptions/yt-D36NzV3LAB8.md) [https://www.youtube.com/watch?v=D36NzV3LAB8](https://www.youtube.com/watch?v=D36NzV3LAB8)
-* [February 16th, 2021 Livestream Q&A: Are you planning to fix the Multiplayer late-game?](./transcriptions/yt-Fk_wKTIx5Z4.md) [https://www.youtube.com/watch?v=Fk_wKTIx5Z4](https://www.youtube.com/watch?v=Fk_wKTIx5Z4)
-* [February 2nd, 2021 Livestream Q&A: Multiplayer, how's it going- when came better sync in Multiplayer?](./transcriptions/yt-bfXUQNNIPRY.md) [https://www.youtube.com/watch?v=bfXUQNNIPRY](https://www.youtube.com/watch?v=bfXUQNNIPRY)
-* [December 8th, 2020 Livestream Q&A: Is Multiplayer desync fixed in Update 4?](./transcriptions/yt-OjiLxOBdkU8.md) [https://www.youtube.com/watch?v=OjiLxOBdkU8](https://www.youtube.com/watch?v=OjiLxOBdkU8)
-* [November 24th, 2020 Livestream Q&A: Multiplayer fix?](./transcriptions/yt-LX-zsQIkB3g.md) [https://www.youtube.com/watch?v=LX-zsQIkB3g](https://www.youtube.com/watch?v=LX-zsQIkB3g)
-* [November 17th, 2020 Livestream Q&A: Better Multiplayer support?](./transcriptions/yt-ECQdh3EiXws.md) [https://www.youtube.com/watch?v=ECQdh3EiXws](https://www.youtube.com/watch?v=ECQdh3EiXws)
-* [October 27th, 2020 Livestream Q&A: What about Multiplayer Updates?](./transcriptions/yt-jfn3FOb5Jdw.md) [https://www.youtube.com/watch?v=jfn3FOb5Jdw](https://www.youtube.com/watch?v=jfn3FOb5Jdw)
-* [October 6th, 2020 Livestream Q&A: Are Multiplayer desync issues with Trains and Vehicles being looked into?](./transcriptions/yt-RVq5k89jlEA.md) [https://www.youtube.com/watch?v=RVq5k89jlEA](https://www.youtube.com/watch?v=RVq5k89jlEA)
-* [October 6th, 2020 Livestream Q&A: Co-op networking bugs been fixed?](./transcriptions/yt-60kjGquJZnk.md) [https://www.youtube.com/watch?v=60kjGquJZnk](https://www.youtube.com/watch?v=60kjGquJZnk)
-* [September 8th, 2020 Livestream Q&A: Fix Multiplayer quick?](./transcriptions/yt--p03ktqVUdc.md) [https://www.youtube.com/watch?v=-p03ktqVUdc](https://www.youtube.com/watch?v=-p03ktqVUdc)
-* [September 1st, 2020 Livestream Q&A: Is multiplayer desync getting fixed?](./transcriptions/yt-tkx-DVLp3fs.md) [https://www.youtube.com/watch?v=tkx-DVLp3fs](https://www.youtube.com/watch?v=tkx-DVLp3fs)
-* [September 1st, 2020 Livestream Q&A: Will Update 4 include Multiplayer optimisation?](./transcriptions/yt-P0Q4nTvK9XU.md) [https://www.youtube.com/watch?v=P0Q4nTvK9XU](https://www.youtube.com/watch?v=P0Q4nTvK9XU)
-* [August 25th, 2020 Livestream Q&A: Are you going to improve networking for multiplayer?](./transcriptions/yt-mf-PgMUVTiI.md) [https://www.youtube.com/watch?v=mf-PgMUVTiI](https://www.youtube.com/watch?v=mf-PgMUVTiI)
-* [June 8th, 2020 Livestream Q&A: Please fix Multiplayer bugs?](./transcriptions/yt-X6OALg4vc7w.md) [https://www.youtube.com/watch?v=X6OALg4vc7w](https://www.youtube.com/watch?v=X6OALg4vc7w)
-* [May 15th, 2020 Q&A: Multiplayer has quality-of-life issues, are you going to fix them?](./transcriptions/yt-NlIVwoRqjVk,406.77303333333333,461.22743333333335.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=406&end=462](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=406&end=462)
-* [March 24th, 2020 Livestream Q&A: How high is Multiplayer bugfixing on the priority list?](./transcriptions/yt-mvSWBd42JYM.md) [https://www.youtube.com/watch?v=mvSWBd42JYM](https://www.youtube.com/watch?v=mvSWBd42JYM)
 </details>
 
 ### [Q&A: Will avatar skins be added to the game?](./transcriptions/yt-imDJ1KxXSgM.md) [https://www.youtube.com/watch?v=imDJ1KxXSgM](https://www.youtube.com/watch?v=imDJ1KxXSgM)
@@ -721,28 +1001,6 @@ date: Last Modified
 * [June 8th, 2020 Livestream Q&A: How many Tiers does the team envision having in the game?](./transcriptions/yt-PdnkUetagWM.md) [https://www.youtube.com/watch?v=PdnkUetagWM](https://www.youtube.com/watch?v=PdnkUetagWM)
 </details>
 
-### [Q&A: Are there any plans for teleportation?](./transcriptions/yt-RyU3sk4C5d8.md) [https://www.youtube.com/watch?v=RyU3sk4C5d8](https://www.youtube.com/watch?v=RyU3sk4C5d8)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> are there any plans for teleportation i don't know i don't know if there are plants actually what is teleportation teleportation yeah is that something the kids are doing yeah it's the they log into their tick tocks then they teleportation away tick tocks ah and then they use the teleportation kids and your your kids and your dabs and your dabs oh no you actually did that no of course i did that's the whole point of being a [ __ ] creamy boomer oh a boomer yeah of the king chase put grandpa in bed it's time to go to bed
->
-> [Laughter]
->
-> grandson's dobbing on the tic tac again uh nobody dabs anymore chad stop it
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as May 2021 and as early as April 2021.</summary>
-
-* [May 11th, 2021 Livestream Q&A: Teleport System?](./transcriptions/yt-aZHVhI9GZk8.md) [https://www.youtube.com/watch?v=aZHVhI9GZk8](https://www.youtube.com/watch?v=aZHVhI9GZk8)
-* [April 27th, 2021 Livestream Q&A: How about a teleporter for people to hand-feed the system?](./transcriptions/yt-m95zf9b3oo0.md) [https://www.youtube.com/watch?v=m95zf9b3oo0](https://www.youtube.com/watch?v=m95zf9b3oo0)
-</details>
-
 ### [Q&A: Are there plans for Foundations with Conveyor spaces?](./transcriptions/yt-vcSdumvqOHg.md) [https://www.youtube.com/watch?v=vcSdumvqOHg](https://www.youtube.com/watch?v=vcSdumvqOHg)
 
 <details>
@@ -784,48 +1042,6 @@ date: Last Modified
 * [June 8th, 2020 Livestream Q&A: Will there be a cosy place for the Pioneer to live in?](./transcriptions/yt-F0Lu47hMTD8.md) [https://www.youtube.com/watch?v=F0Lu47hMTD8](https://www.youtube.com/watch?v=F0Lu47hMTD8)
 </details>
 
-### [Q&A: Are you considering a Train rework?](./transcriptions/yt-68MP936ZdfQ.md) [https://www.youtube.com/watch?v=68MP936ZdfQ](https://www.youtube.com/watch?v=68MP936ZdfQ)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> are you considering a train where you work we've sort of already confirmed that we will be adding like a collision with trains at some point yeah uh so that yes there will be there will be train rework um will there be a better alternative to trains if there is i can't say if there isn't then there isn't yeah we've always wanted to redo the trains eve like eve i think even in the launch video for or like tight some some video that came right after the patch notes video for trains i believe we said like we definitely want to do more with trains uh but this is like the first iteration of trains so that's something we wanted to do for a long time
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 26 other times, as recently as May 2021 and as early as May 2020.</summary>
-
-* [May 4th, 2021 Livestream Q&A: Will Trains get an Update?](./transcriptions/yt-hXmvgEpyDdY.md) [https://www.youtube.com/watch?v=hXmvgEpyDdY](https://www.youtube.com/watch?v=hXmvgEpyDdY)
-* [April 20th, 2021 Livestream Q&A: Train remake?](./transcriptions/yt-4iPV87r2O7A.md) [https://www.youtube.com/watch?v=4iPV87r2O7A](https://www.youtube.com/watch?v=4iPV87r2O7A)
-* April 13th, 2021 Livestream Q&A: Train Collision? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699)
-* [April 6th, 2021 Livestream Q&A: Train Collision?](./transcriptions/yt-ECH-dzoj7ro.md) [https://www.youtube.com/watch?v=ECH-dzoj7ro](https://www.youtube.com/watch?v=ECH-dzoj7ro)
-* [March 23rd, 2021 Livestream Q&A: Will Trains get collision in the future?](./transcriptions/yt-e8ctn7TDrq0.md) [https://www.youtube.com/watch?v=e8ctn7TDrq0](https://www.youtube.com/watch?v=e8ctn7TDrq0)
-* March 23rd, 2021 Livestream Q&A: Will Trains have some sort of signalling in the future? [https://www.youtube.com/watch?v=Ir3GVM1fDU0](https://www.youtube.com/watch?v=Ir3GVM1fDU0)
-* March 16th, 2021 Livestream Q&A: Train Collision in Update 4? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5878&end=5885](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5878&end=5885)
-* [February 23rd, 2021 Livestream Q&A: Any news on Train revamp?](./transcriptions/yt-_kBUD_mMahs.md) [https://www.youtube.com/watch?v=_kBUD_mMahs](https://www.youtube.com/watch?v=_kBUD_mMahs)
-* [February 2nd, 2021 Livestream Q&A: Train Collisions?](./transcriptions/yt-rCOD5becD6M.md) [https://www.youtube.com/watch?v=rCOD5becD6M](https://www.youtube.com/watch?v=rCOD5becD6M)
-* [January 26th, 2021 Livestream Q&A: Have there been any changes on Train collision stuff?](./transcriptions/yt-KvIFKOokxYE.md) [https://www.youtube.com/watch?v=KvIFKOokxYE](https://www.youtube.com/watch?v=KvIFKOokxYE)
-* [January 12th, 2021 Livestream Q&A: Any new information regarding Signal system for Trains?](./transcriptions/yt-Bu2TPRFV_2o.md) [https://www.youtube.com/watch?v=Bu2TPRFV_2o](https://www.youtube.com/watch?v=Bu2TPRFV_2o)
-* [December 17th, 2020 Q&A: Will Trains be getting any updates? Signals? Collision?](./transcriptions/yt--JXPsTlJIiI,229.86296666666667,254.92133333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=229&end=255](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=229&end=255)
-* [December 15th, 2020 Livestream Q&A: Train Update?](./transcriptions/yt-ts7TQnRykB0.md) [https://www.youtube.com/watch?v=ts7TQnRykB0](https://www.youtube.com/watch?v=ts7TQnRykB0)
-* [December 8th, 2020 Livestream Q&A: Any news on Train Signals?](./transcriptions/yt-V-OVvjoUAmg.md) [https://www.youtube.com/watch?v=V-OVvjoUAmg](https://www.youtube.com/watch?v=V-OVvjoUAmg)
-* [November 17th, 2020 Livestream Q&A: Train Collision](./transcriptions/yt-OdCLosbTp60.md) [https://www.youtube.com/watch?v=OdCLosbTp60](https://www.youtube.com/watch?v=OdCLosbTp60)
-* [November 10th, 2020 Livestream Q&A: Any news about Trains? If so put them in Update 4?](./transcriptions/yt-eT6uSBu-sVw.md) [https://www.youtube.com/watch?v=eT6uSBu-sVw](https://www.youtube.com/watch?v=eT6uSBu-sVw)
-* [October 20th, 2020 Livestream Q&A: When will we have Train Collision?](./transcriptions/yt-TjSMwjueGc8.md) [https://www.youtube.com/watch?v=TjSMwjueGc8](https://www.youtube.com/watch?v=TjSMwjueGc8)
-* [September 29th, 2020 Livestream Q&A: Is there an update to Train Stations, Rails, and Railway Switches in the future?](./transcriptions/yt-vV-u0AjWWvU.md) [https://www.youtube.com/watch?v=vV-u0AjWWvU](https://www.youtube.com/watch?v=vV-u0AjWWvU)
-* [September 22nd, 2020 Livestream Q&A: Any new info about Train Signals?](./transcriptions/yt-bPU07wU3Mr0.md) [https://www.youtube.com/watch?v=bPU07wU3Mr0](https://www.youtube.com/watch?v=bPU07wU3Mr0)
-* [September 15th, 2020 Livestream Q&A: What will be happening with the Train collisions/signalling?](./transcriptions/yt-BZtRginha6g.md) [https://www.youtube.com/watch?v=BZtRginha6g](https://www.youtube.com/watch?v=BZtRginha6g)
-* [September 1st, 2020 Livestream Q&A: Any more info on Train Signals?](./transcriptions/yt-1hTjt3er8XI.md) [https://www.youtube.com/watch?v=1hTjt3er8XI](https://www.youtube.com/watch?v=1hTjt3er8XI)
-* [August 25th, 2020 Livestream Q&A: Train Signals?](./transcriptions/yt-WQH5cWS3s2s.md) [https://www.youtube.com/watch?v=WQH5cWS3s2s](https://www.youtube.com/watch?v=WQH5cWS3s2s)
-* [August 25th, 2020 Livestream Q&A: Will the Train always clip?](./transcriptions/yt-PY6wf7cvjgM.md) [https://www.youtube.com/watch?v=PY6wf7cvjgM](https://www.youtube.com/watch?v=PY6wf7cvjgM)
-* August 18th, 2020 Livestream Q&A: Any thoughts on whether Trains will ever collide? [https://clips.twitch.tv/SaltyJazzyPasta4Head](https://clips.twitch.tv/SaltyJazzyPasta4Head)
-* [June 8th, 2020 Livestream Q&A: What are plans for Trains?](./transcriptions/yt-9MVglCjtlwY.md) [https://www.youtube.com/watch?v=9MVglCjtlwY](https://www.youtube.com/watch?v=9MVglCjtlwY)
-* [May 15th, 2020 Q&A: Is proper rail signalling in the works for the future?](./transcriptions/yt-NlIVwoRqjVk,1227.0591666666667,1235.4342.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1227&end=1236](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1227&end=1236)
-</details>
-
 ### [Q&A: Are you thinking of adding some type of Signs or screens?](./transcriptions/yt-N8sqIFGjwyk.md) [https://www.youtube.com/watch?v=N8sqIFGjwyk](https://www.youtube.com/watch?v=N8sqIFGjwyk)
 
 <details>
@@ -838,8 +1054,9 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 12 other times, as recently as April 2021 and as early as June 2020.</summary>
+<summary>This question may have been asked previously at least 13 other times, as recently as April 2021 and as early as June 2020.</summary>
 
+* [April 27th, 2021 Livestream Q&A: Can we get signs soon?](./transcriptions/yt-wUy8zszYfdQ.md) [https://www.youtube.com/watch?v=wUy8zszYfdQ](https://www.youtube.com/watch?v=wUy8zszYfdQ)
 * [April 20th, 2021 Livestream Q&A: Signs?](./transcriptions/yt-O0qKftrufFM.md) [https://www.youtube.com/watch?v=O0qKftrufFM](https://www.youtube.com/watch?v=O0qKftrufFM)
 * [April 6th, 2021 Livestream Q&A: Signs?](./transcriptions/yt-B6BEy7mals4.md) [https://www.youtube.com/watch?v=B6BEy7mals4](https://www.youtube.com/watch?v=B6BEy7mals4)
 * [March 23rd, 2021 Livestream Q&A: Signs when?](./transcriptions/yt-F3BYeHIbZzU.md) [https://www.youtube.com/watch?v=F3BYeHIbZzU](https://www.youtube.com/watch?v=F3BYeHIbZzU)
@@ -873,29 +1090,6 @@ date: Last Modified
 * [January 19th, 2021 Livestream Q&A: Is there a goal amount of Events per year?](./transcriptions/yt-2koHO0P289M.md) [https://www.youtube.com/watch?v=2koHO0P289M](https://www.youtube.com/watch?v=2koHO0P289M)
 * [December 17th, 2020 Q&A: Will FICS⁕MAS and seasonal events in general be a regular thing?](./transcriptions/yt--JXPsTlJIiI,148.11463333333333,192.3922.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193)
 * [December 15th, 2020 Livestream Q&A: Will there be more Seasonal Events?](./transcriptions/yt-TNrm3qsWdxQ.md) [https://www.youtube.com/watch?v=TNrm3qsWdxQ](https://www.youtube.com/watch?v=TNrm3qsWdxQ)
-</details>
-
-### [Q&A: Is there any sort of Story planned?](./transcriptions/yt-8cZ-oH-WA3E.md) [https://www.youtube.com/watch?v=8cZ-oH-WA3E](https://www.youtube.com/watch?v=8cZ-oH-WA3E)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> is there any sort of story planned yes there's going to be a story in the game and you will learn about fix it and things like that through the story yeah and the story's going to come when the game reaches 1.0 so we're going to do like the entire story in one go in one update because we want you to experience the whole story uh in like one go and not just like in chunks where you have to wait until we release the next chunk
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 7 other times, as recently as May 2021 and as early as March 2021.</summary>
-
-* [May 11th, 2021 Livestream Q&A: Do you have a clear idea of the Story Mode yet?](./transcriptions/yt-Zc2lKKROexI.md) [https://www.youtube.com/watch?v=Zc2lKKROexI](https://www.youtube.com/watch?v=Zc2lKKROexI)
-* [May 4th, 2021 Livestream Q&A: Will there be Story?](./transcriptions/yt-SKa_F6Km7sA.md) [https://www.youtube.com/watch?v=SKa_F6Km7sA](https://www.youtube.com/watch?v=SKa_F6Km7sA)
-* [March 30th, 2021 Livestream Q&A: Will there be Story to the game?](./transcriptions/yt-C23SCWtnv2U.md) [https://www.youtube.com/watch?v=C23SCWtnv2U](https://www.youtube.com/watch?v=C23SCWtnv2U)
-* [March 23rd, 2021 Livestream Q&A: Any Story hints?](./transcriptions/yt-83bWsjYlMrM.md) [https://www.youtube.com/watch?v=83bWsjYlMrM](https://www.youtube.com/watch?v=83bWsjYlMrM)
-* March 16th, 2021 Livestream Q&A: Storyline? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747)
-* [March 9th, 2021 Livestream Q&A: Is Lore & Story progressing well, not well, or not at all?](./transcriptions/yt-UHWeEsduD0Q.md) [https://www.youtube.com/watch?v=UHWeEsduD0Q](https://www.youtube.com/watch?v=UHWeEsduD0Q)
-* [March 2nd, 2021 Livestream Q&A: Is the Story completely written or is it still in progress?](./transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
 </details>
 
 ### [Q&A: Is there a technical reason you only made Mk.5 belts and not higher?](./transcriptions/yt-SiU_cgb0XhI.md) [https://www.youtube.com/watch?v=SiU_cgb0XhI](https://www.youtube.com/watch?v=SiU_cgb0XhI)
@@ -1150,37 +1344,6 @@ date: Last Modified
 * [May 4th, 2021 Livestream Q&A: Multiplayer update?](./transcriptions/yt-wIu9YvRbl5Q.md) [https://www.youtube.com/watch?v=wIu9YvRbl5Q](https://www.youtube.com/watch?v=wIu9YvRbl5Q)
 </details>
 
-### [Q&A: Tower Defense?](./transcriptions/yt-VRiUOPEpWvU.md) [https://www.youtube.com/watch?v=VRiUOPEpWvU](https://www.youtube.com/watch?v=VRiUOPEpWvU)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh tower defense yeah we're never gonna have tower defense all right next next question
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 15 other times, as recently as April 2021 and as early as June 2018.</summary>
-
-* [April 27th, 2021 Livestream Q&A: Is there combat & Base Defense required in the game?](./transcriptions/yt-A9GtewxqeLo.md) [https://www.youtube.com/watch?v=A9GtewxqeLo](https://www.youtube.com/watch?v=A9GtewxqeLo)
-* [March 30th, 2021 Livestream Q&A: Could some Sanctum gameplay, maybe the Tower Defense part come to Satisfactory?](./transcriptions/yt-1UTiDPGMgRI.md) [https://www.youtube.com/watch?v=1UTiDPGMgRI](https://www.youtube.com/watch?v=1UTiDPGMgRI)
-* February 26th, 2021 Videos Q&A: Please add semi tower defense in this game I'm begging you! [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4)
-* [February 9th, 2021 Livestream Q&A: Is there going to be tower defense?](./transcriptions/yt-9dWWC0mFitU.md) [https://www.youtube.com/watch?v=9dWWC0mFitU](https://www.youtube.com/watch?v=9dWWC0mFitU)
-* January 22nd, 2021 Instagram AMA Q&A: Is there a plan for automatize the base defense? [https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4](https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4)
-* [December 15th, 2020 Livestream Q&A: Can we get turrets and more PvE?](./transcriptions/yt-sJnuRV0OGF0.md) [https://www.youtube.com/watch?v=sJnuRV0OGF0](https://www.youtube.com/watch?v=sJnuRV0OGF0)
-* [December 8th, 2020 Livestream Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) [https://www.youtube.com/watch?v=5-8ACtMU2_E](https://www.youtube.com/watch?v=5-8ACtMU2_E)
-* [October 13th, 2020 Livestream Q&A: If Factories can get attacked?](./transcriptions/yt-tK_m7AqM4sY.md) [https://www.youtube.com/watch?v=tK_m7AqM4sY](https://www.youtube.com/watch?v=tK_m7AqM4sY)
-* [September 22nd, 2020 Livestream Q&A: Hoping for Base Defence?](./transcriptions/yt-RjFIQhJY824.md) [https://www.youtube.com/watch?v=RjFIQhJY824](https://www.youtube.com/watch?v=RjFIQhJY824)
-* August 18th, 2020 Livestream Q&A: Will there be animals that attack the base? [https://clips.twitch.tv/ProtectiveTubularCatJebaited](https://clips.twitch.tv/ProtectiveTubularCatJebaited)
-* [May 15th, 2020 Q&A: What is one item or equipment that some of the staff have wanted, but got canned for balancing?](./transcriptions/yt-NlIVwoRqjVk,1034.8338,1062.2612.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063)
-* [March 9th, 2019 Livestream Q&A: Can creatures in any way disrupt your factory?](./transcriptions/yt-R2Fms8EjhN8.md) [https://www.youtube.com/watch?v=R2Fms8EjhN8](https://www.youtube.com/watch?v=R2Fms8EjhN8)
-* [March 9th, 2019 Livestream Q&A: Will there be turrets or something in the game?](./transcriptions/yt-xNBFywqCrxM.md) [https://www.youtube.com/watch?v=xNBFywqCrxM](https://www.youtube.com/watch?v=xNBFywqCrxM)
-* [February 6th, 2019 Livestream Q&A: Why not turrets like Sanctum?](./transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640)
-* [June 22nd, 2018 Q&A: Will we need to defend our factory?](./transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
-</details>
-
 ### [Q&A: Turbofuel for Jet Packs](./transcriptions/yt-5Ij3wWqZb8Q.md) [https://www.youtube.com/watch?v=5Ij3wWqZb8Q](https://www.youtube.com/watch?v=5Ij3wWqZb8Q)
 
 <details>
@@ -1390,15 +1553,6 @@ date: Last Modified
 * August 11th, 2020 Livestream Q&A: Sleep in-game? (Part 2) [https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime](https://clips.twitch.tv/PrettiestObedientLegItsBoshyTime)
 </details>
 
-### Q&A: Hannah stream, when? [https://www.youtube.com/watch?v=Wxsp6e00g0g](https://www.youtube.com/watch?v=Wxsp6e00g0g)
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as April 2021 and as early as September 2020.</summary>
-
-* [April 6th, 2021 Livestream Q&A: Hannah Q&A, when?](./transcriptions/yt-__NtKQHoZzc.md) [https://www.youtube.com/watch?v=__NtKQHoZzc](https://www.youtube.com/watch?v=__NtKQHoZzc)
-* [September 29th, 2020 Livestream Q&A: Will there be a stream or something with Hannah?](./transcriptions/yt-YM0ojMjT1mU.md) [https://www.youtube.com/watch?v=YM0ojMjT1mU](https://www.youtube.com/watch?v=YM0ojMjT1mU)
-</details>
-
 ### [Q&A: How long do you think the game will take to beat in 1.0?](./transcriptions/yt-r4cyIHDA25I.md) [https://www.youtube.com/watch?v=r4cyIHDA25I](https://www.youtube.com/watch?v=r4cyIHDA25I)
 
 <details>
@@ -1433,27 +1587,6 @@ date: Last Modified
 
 * [October 13th, 2020 Livestream Q&A: Why are the Refineries so big?](./transcriptions/yt-lZOTwEhBFO4.md) [https://www.youtube.com/watch?v=lZOTwEhBFO4](https://www.youtube.com/watch?v=lZOTwEhBFO4)
 * [August 25th, 2020 Livestream Q&A: Refineries take up so much space?](./transcriptions/yt-KzQ1E8V06zA.md) [https://www.youtube.com/watch?v=KzQ1E8V06zA](https://www.youtube.com/watch?v=KzQ1E8V06zA)
-</details>
-
-### [Q&A: Plans to add Solar?](./transcriptions/yt-wrFOCRX7hDY.md) [https://www.youtube.com/watch?v=wrFOCRX7hDY](https://www.youtube.com/watch?v=wrFOCRX7hDY)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> plans to add solar no um solar and wind power is something that we're not interested in adding the reason for that is because we think that all power generation in the game needs to come with sort of a trade-off and you need to be making some form of decision when it comes to power you know and the way we see it in our game is that having wind power and having solar power is just like infinite power essentially because there's no there's no nothing that's stopping you from just building you know an infinite amount of solar panels um or wind turbines for that matter either uh there's no like trade-off there and other people are like yeah but you can add like that they they don't get power during the night or like there's they get dusty or whatever you have to clean them and two things that we don't like about that is not having uh sun during the night is won't work because the days are 45 minutes long and the nights are five minutes long so like it's an insignificant amount of time where they won't be adding power the second one is if if we were to like have maintenance to factories and that's something that we hate we hate that idea uh just because satisfactory is supposed to be chill satisfactory is not supposed to be like um like the the one thing you maintain is power uh and balancing of power essentially in your factory and that's it we don't want you to like have to revisit old factory buildings and like i go back to certain areas to fix them up um chill has mutant spiders chill in the sense that like in the building aspect of the game okay um like when you're building factories we don't we want to be a chill experience we don't want that's why we don't want tower defense we want don't want you to feel like you have to like repair so it goes into that category the one thing that mark has pointed out that it kind of like is interested in is having maybe water turbines and stuff like that and like you're only able to place them on waterfalls maybe because then it becomes a resource thing where similar to the geothermal ones where you have a limited amount of space to place your water turbines and how you spend that space so a little bit into like that's more interesting but i also don't know if that's going to happen water power 50 confirmed sort of yeah but i don't know if it's gonna like it's an idea let me let me rephrase it because it's like it's an idea that we like but there are a ton of ideas that we like that we're not gonna do just because we don't have the time to do it or that we feel like it's a priority for the game so to speak like vr would be cool for the game we we would love that but we're never gonna do it we're never gonna develop that ourselves at least because we don't wanna spend time doing that um and we don't feel like it will add much to the game it will add much to the what is it like one percent of people on steam that own a vr headset or something like that um so it'll be great for them but like we always have to make decisions based on the grand scheme of things you know um so so
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as April 2021 and as early as August 2020.</summary>
-
-* [April 27th, 2021 Livestream Q&A: Solar Power?](./transcriptions/yt-oHxP9OXQn5w.md) [https://www.youtube.com/watch?v=oHxP9OXQn5w](https://www.youtube.com/watch?v=oHxP9OXQn5w)
-* March 23rd, 2021 Livestream Q&A: Solar panel? [https://www.youtube.com/watch?v=pnqysWUuGhM](https://www.youtube.com/watch?v=pnqysWUuGhM)
-* [November 17th, 2020 Livestream Q&A: Can we add Solar Power?](./transcriptions/yt-_Uf5e-J9TwA.md) [https://www.youtube.com/watch?v=_Uf5e-J9TwA](https://www.youtube.com/watch?v=_Uf5e-J9TwA)
-* [October 20th, 2020 Livestream Q&A: Solar Panels?](./transcriptions/yt-zpNZHeAOoQE.md) [https://www.youtube.com/watch?v=zpNZHeAOoQE](https://www.youtube.com/watch?v=zpNZHeAOoQE)
-* [August 25th, 2020 Livestream Q&A: Why are there no Solar Panels ?](./transcriptions/yt-C1XaJJmvg1M.md) [https://www.youtube.com/watch?v=C1XaJJmvg1M](https://www.youtube.com/watch?v=C1XaJJmvg1M)
 </details>
 
 ### [Q&A: Toilet flush?](./transcriptions/yt-b06s0rzssTc.md) [https://www.youtube.com/watch?v=b06s0rzssTc](https://www.youtube.com/watch?v=b06s0rzssTc)
@@ -1538,38 +1671,6 @@ date: Last Modified
 * [October 6th, 2020 Livestream Q&A: What's the max amount of body slots?](./transcriptions/yt-aPWXjH-Xf1o.md) [https://www.youtube.com/watch?v=aPWXjH-Xf1o](https://www.youtube.com/watch?v=aPWXjH-Xf1o)
 * [September 15th, 2020 Livestream Q&A: Can I wear Boots, Jetpack and a Gas Mask?](./transcriptions/yt-Gt1ATsmBu6k.md) [https://www.youtube.com/watch?v=Gt1ATsmBu6k](https://www.youtube.com/watch?v=Gt1ATsmBu6k)
 * [May 15th, 2020 Q&A: Will we get more than one body slot?](./transcriptions/yt-NlIVwoRqjVk,733.1324,779.1784.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780)
-</details>
-
-### [Q&A: Will we get a bigger Map?](./transcriptions/yt-LPvrY2LJghE.md) [https://www.youtube.com/watch?v=LPvrY2LJghE](https://www.youtube.com/watch?v=LPvrY2LJghE)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will we get a bigger map uh no you won't get a bigger map you will get a more detailed map is what we're working on we're working on adding more fixing up the map as it is there are a few areas in the map that aren't done uh there are a few areas that are like kind of work in progress too so if anything we're going to work on that
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 16 other times, as recently as April 2021 and as early as December 2019.</summary>
-
-* [April 27th, 2021 Livestream Q&A: Will you guys make a bigger map some day?](./transcriptions/yt-YDk5S3_5Wdg.md) [https://www.youtube.com/watch?v=YDk5S3_5Wdg](https://www.youtube.com/watch?v=YDk5S3_5Wdg)
-* [April 20th, 2021 Livestream Q&A: Will we get a bigger map?](./transcriptions/yt-3jmL6IM3Qqk.md) [https://www.youtube.com/watch?v=3jmL6IM3Qqk](https://www.youtube.com/watch?v=3jmL6IM3Qqk)
-* [March 30th, 2021 Livestream Q&A: Is a bigger world a possibility?](./transcriptions/yt-dlL942ooTho.md) [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
-* [February 2nd, 2021 Livestream Q&A: Will the Map be bigger later?](./transcriptions/yt-gvOt4jwWA4Q.md) [https://www.youtube.com/watch?v=gvOt4jwWA4Q](https://www.youtube.com/watch?v=gvOt4jwWA4Q)
-* [January 19th, 2021 Livestream Q&A: Is the Map finalised, as in there will be no more additions?](./transcriptions/yt-zVnmYZemxe8.md) [https://www.youtube.com/watch?v=zVnmYZemxe8](https://www.youtube.com/watch?v=zVnmYZemxe8)
-* [December 17th, 2020 Q&A: New biomes?](./transcriptions/yt--JXPsTlJIiI,1026.3920333333333,1036.5688666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037)
-* [December 15th, 2020 Livestream Q&A: When are you going to expand the map?](./transcriptions/yt-axmmm-ituSg.md) [https://www.youtube.com/watch?v=axmmm-ituSg](https://www.youtube.com/watch?v=axmmm-ituSg)
-* [December 15th, 2020 Livestream Q&A: Will we add more to the Map?](./transcriptions/yt-NeQpezHiVzI.md) [https://www.youtube.com/watch?v=NeQpezHiVzI](https://www.youtube.com/watch?v=NeQpezHiVzI)
-* November 10th, 2020 Livestream Q&A: Any plans to expand the Map / add new Biomes? [https://www.youtube.com/watch?v=oZhfgq9vdKg](https://www.youtube.com/watch?v=oZhfgq9vdKg)
-* [November 3rd, 2020 Livestream Q&A: Will the Map become bigger?](./transcriptions/yt-1pzu9fbySq0.md) [https://www.youtube.com/watch?v=1pzu9fbySq0](https://www.youtube.com/watch?v=1pzu9fbySq0)
-* [September 29th, 2020 Livestream Q&A: Will the Map change for 1.0?](./transcriptions/yt-5AsSss96Idw.md) [https://www.youtube.com/watch?v=5AsSss96Idw](https://www.youtube.com/watch?v=5AsSss96Idw)
-* [September 15th, 2020 Livestream Q&A: Will the Map be bigger?](./transcriptions/yt-b49tcUeMO3E.md) [https://www.youtube.com/watch?v=b49tcUeMO3E](https://www.youtube.com/watch?v=b49tcUeMO3E)
-* [September 8th, 2020 Livestream Q&A: Even more Biomes coming to play?](./transcriptions/yt-VgDl00Ycn3U.md) [https://www.youtube.com/watch?v=VgDl00Ycn3U](https://www.youtube.com/watch?v=VgDl00Ycn3U)
-* [September 8th, 2020 Livestream Q&A: Extension on current Map?](./transcriptions/yt-Ad3tjOha0JI.md) [https://www.youtube.com/watch?v=Ad3tjOha0JI](https://www.youtube.com/watch?v=Ad3tjOha0JI)
-* [September 1st, 2020 Livestream Q&A: Map expansion ?](./transcriptions/yt-2ZHnQ9U4f9I.md) [https://www.youtube.com/watch?v=2ZHnQ9U4f9I](https://www.youtube.com/watch?v=2ZHnQ9U4f9I)
-* December 19th, 2019 Livestream Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
 </details>
 
 ## [April 27th, 2021 Livestream](./2021-04-27.md)
@@ -1752,33 +1853,6 @@ date: Last Modified
 * [November 10th, 2020 Livestream Q&A: Will there be faster Smelter/Manufacturers?](./transcriptions/yt-eiGqL7qpc14.md) [https://www.youtube.com/watch?v=eiGqL7qpc14](https://www.youtube.com/watch?v=eiGqL7qpc14)
 </details>
 
-### [Q&A: Steam Mods?](./transcriptions/yt-GC8pyFLf1Rw.md) [https://www.youtube.com/watch?v=GC8pyFLf1Rw](https://www.youtube.com/watch?v=GC8pyFLf1Rw)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> steam mods we won't um we don't uh encourage like one platform or the other so that's that's mostly why the same i love it you guys you we have the best community i just want i just want to say hey this is this is the the your drunk uncle hey you know what you guys are the best okay just gonna say you guys you guys are the best you give us [ __ ] from being exclusive and epic but you know what i still love you're great you're a great gang you're you're the best love you guys anyway drunk lit exactly um
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 11 other times, as recently as March 2021 and as early as May 2020.</summary>
-
-* [March 23rd, 2021 Livestream Q&A: Is it possible to have Steam Workshop in the game?](./transcriptions/yt-U2Dufcqf9G8.md) [https://www.youtube.com/watch?v=U2Dufcqf9G8](https://www.youtube.com/watch?v=U2Dufcqf9G8)
-* [February 16th, 2021 Livestream Q&A: We need Steam Workshop for this kind of thing?](./transcriptions/yt-sKwcRFzwGzI.md) [https://www.youtube.com/watch?v=sKwcRFzwGzI](https://www.youtube.com/watch?v=sKwcRFzwGzI)
-* [February 9th, 2021 Livestream Q&A: Steam has a built-in Mod Workshop system, could that possibly work?](./transcriptions/yt-dy137Wbx24M.md) [https://www.youtube.com/watch?v=dy137Wbx24M](https://www.youtube.com/watch?v=dy137Wbx24M)
-* [November 17th, 2020 Livestream Q&A: Would Official Mod Support use Steam Workshop?](./transcriptions/yt-qzu-mnG_8uA.md) [https://www.youtube.com/watch?v=qzu-mnG_8uA](https://www.youtube.com/watch?v=qzu-mnG_8uA)
-* [September 15th, 2020 Livestream Q&A: Official Mod support?](./transcriptions/yt-0M3RKdwK5mA.md) [https://www.youtube.com/watch?v=0M3RKdwK5mA](https://www.youtube.com/watch?v=0M3RKdwK5mA)
-* [September 8th, 2020 Livestream Q&A: Will we have Steam Workshop on Steam?](./transcriptions/yt-PwFxPAf0nuM.md) [https://www.youtube.com/watch?v=PwFxPAf0nuM](https://www.youtube.com/watch?v=PwFxPAf0nuM)
-* [September 1st, 2020 Livestream Q&A: Steam Workshop support ?](./transcriptions/yt-FkG749zfA2w.md) [https://www.youtube.com/watch?v=FkG749zfA2w](https://www.youtube.com/watch?v=FkG749zfA2w)
-* August 18th, 2020 Livestream Q&A: Will you plan to add Steam Workshop support? [https://clips.twitch.tv/SwissTameCoffeeDansGame](https://clips.twitch.tv/SwissTameCoffeeDansGame)
-* [June 8th, 2020 Livestream Q&A: Will you using Steam Workshop?](./transcriptions/yt-5KyHoIVdGzc.md) [https://www.youtube.com/watch?v=5KyHoIVdGzc](https://www.youtube.com/watch?v=5KyHoIVdGzc)
-* [May 19th, 2020 Livestream Q&A: Will we be seeing support for Steam Workshop?](./transcriptions/yt-n4fagQ4eivI.md) [https://www.youtube.com/watch?v=n4fagQ4eivI](https://www.youtube.com/watch?v=n4fagQ4eivI)
-* [May 15th, 2020 Q&A: Do you intend to use Steam Workshop in any way?](./transcriptions/yt-NlIVwoRqjVk,346.41273333333334,368.9352333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=346&end=369](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=346&end=369)
-</details>
-
 ### [Q&A: What is actually at the end of the Space Elevator?](./transcriptions/yt-46jdMN3bb28.md) [https://www.youtube.com/watch?v=46jdMN3bb28](https://www.youtube.com/watch?v=46jdMN3bb28)
 
 <details>
@@ -1894,24 +1968,6 @@ date: Last Modified
 * [August 25th, 2020 Livestream Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?](./transcriptions/yt-EbTEcw5zg8k.md) [https://www.youtube.com/watch?v=EbTEcw5zg8k](https://www.youtube.com/watch?v=EbTEcw5zg8k)
 * [June 8th, 2020 Livestream Q&A: Blueprints/Mass construction - will we have it ? If not, why not?](./transcriptions/yt-T1w4TV8Y8Lk.md) [https://www.youtube.com/watch?v=T1w4TV8Y8Lk](https://www.youtube.com/watch?v=T1w4TV8Y8Lk)
 * [February 6th, 2019 Livestream Q&A: Any plans for stuff like Blueprints?](./transcriptions/yt-Dtm6xIj-wM4,2816.569184,2836.733333333333.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2816&end=2837](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2816&end=2837)
-</details>
-
-### [Q&A: Do you have a favourite Mod?](./transcriptions/yt-URunN9abrss.md) [https://www.youtube.com/watch?v=URunN9abrss](https://www.youtube.com/watch?v=URunN9abrss)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> do i have a favorite mod i haven't here's the thing i haven't looked at the recent mods i also haven't looked at mods since after update 4. uh it's been a while since i did that um i think the mod that has been blowing me away the most is the network's fixit networks one where you can like program like logic in the game that's really cool because that really opens up like the game to be way more than just a game but there are some really cool mods like the farming mod was really awesome uh when we saw a showcase of that um and the smart mod like the smartphone has a lot of cool stuff with the buildings and whatnot the way the way the way you build rather and like neat little quirks like the there's one thing that i've wanted to add for for satisfactory a long time is like the the preview of like belts and stuff that's something that smart mod does i'm pretty sure um so that's also like nice to see a confirmation of like that idea that i had in my head it works exactly how i imagined it in in the mod so like i get i said it before like mods are great for us to confirm uh ideas um our reactions is also pretty useful uh i i although i'll say that like like air reactions is a great mod when you're like when you have a plan and stuff like that but it doesn't appeal to me personally because i like the uh the like lo-fi i'm building this sort of situation like i prefer that over just like pacing in a bunch of foundations
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as July 2020.</summary>
-
-* [January 12th, 2021 Livestream Q&A: What is your favourite Mod?](./transcriptions/yt-9tdYBCwd5no.md) [https://www.youtube.com/watch?v=9tdYBCwd5no](https://www.youtube.com/watch?v=9tdYBCwd5no)
-* [July 8th, 2020 Mod Highlight Q&A: What is your favourite Mod?](./transcriptions/yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
 </details>
 
 ### [Q&A: Gonna be weather changes, like rain, snow, and sand storms?](./transcriptions/yt-wUZr64_l6R4.md) [https://www.youtube.com/watch?v=wUZr64_l6R4](https://www.youtube.com/watch?v=wUZr64_l6R4)
@@ -3315,9 +3371,10 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 3 other times, as recently as September 2020 and as early as March 2019.</summary>
 
 * [September 1st, 2020 Livestream Q&A: Will you be able to switch the mousewheel rotation with the hotbar?](./transcriptions/yt-n0CJicUwDF8.md) [https://www.youtube.com/watch?v=n0CJicUwDF8](https://www.youtube.com/watch?v=n0CJicUwDF8)
+* [March 9th, 2019 Livestream Q&A: Quick keys for tools?](./transcriptions/yt-MUBE6tb7AjQ.md) [https://www.youtube.com/watch?v=MUBE6tb7AjQ](https://www.youtube.com/watch?v=MUBE6tb7AjQ)
 * [March 9th, 2019 Livestream Q&A: There is no way to hotkey items?](./transcriptions/yt-KmX7CoVGPA0.md) [https://www.youtube.com/watch?v=KmX7CoVGPA0](https://www.youtube.com/watch?v=KmX7CoVGPA0)
 </details>
 

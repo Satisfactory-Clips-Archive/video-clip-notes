@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## June 8th, 2021 Livestream
+* [Q&A: Can we get a dev vlog on Pipes, Conveyors, & Splitters?](../../../transcriptions/yt-hSVNzU27It0.md) [https://www.youtube.com/watch?v=hSVNzU27It0](https://www.youtube.com/watch?v=hSVNzU27It0)
+* [Q&A: Do Pipe Pumps act as true valves or do they allow overflow through the other direction?](../../../transcriptions/yt-ug4BT_w5v_k.md) [https://www.youtube.com/watch?v=ug4BT_w5v_k](https://www.youtube.com/watch?v=ug4BT_w5v_k)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Sewage pipes, too ?](../../../transcriptions/yt-pWwXk0cJ9Fk.md) [https://www.youtube.com/watch?v=pWwXk0cJ9Fk](https://www.youtube.com/watch?v=pWwXk0cJ9Fk)
 * [Q&A: Will Toilet DLC require Pipes?](../../../transcriptions/yt-99HzTmnXLaE.md) [https://www.youtube.com/watch?v=99HzTmnXLaE](https://www.youtube.com/watch?v=99HzTmnXLaE)

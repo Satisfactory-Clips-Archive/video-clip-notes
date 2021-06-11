@@ -6,6 +6,10 @@ date: Last Modified
 * [DLSS](../../topics/technology/graphics/dlss.md)
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: Do you know if there's a console command to show the tick rate?](../../transcriptions/yt-xzWZbbvVH7g.md) [https://www.youtube.com/watch?v=xzWZbbvVH7g](https://www.youtube.com/watch?v=xzWZbbvVH7g)
+* [Q&A: My game stutters when I look around certain parts of the Map, what settings can I tweak?](../../transcriptions/yt-WGuwU-5F9QY.md) [https://www.youtube.com/watch?v=WGuwU-5F9QY](https://www.youtube.com/watch?v=WGuwU-5F9QY)
+
 ## May 28th, 2021 Livestream
 * [Q&A: What was the main issue with implementing Lights?](../../transcriptions/yt-dyqOMITwLsY,102.398474,167.292125.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168)
 * [Q&A: Can you give a quick explanation of how the system for Lights works right now?](../../transcriptions/yt-dyqOMITwLsY,199.03216666666665,448.69825.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449)

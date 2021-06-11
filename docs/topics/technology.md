@@ -12,6 +12,10 @@ date: Last Modified
 * [Unreal Engine](../topics/technology/unreal-engine.md)
 * [User Interface](../topics/technology/user-interface.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: Do you know if there's a console command to show the tick rate?](../transcriptions/yt-xzWZbbvVH7g.md) [https://www.youtube.com/watch?v=xzWZbbvVH7g](https://www.youtube.com/watch?v=xzWZbbvVH7g)
+* [Q&A: What is the tick rate of the game?](../transcriptions/yt-hw2wSvlLGZU.md) [https://www.youtube.com/watch?v=hw2wSvlLGZU](https://www.youtube.com/watch?v=hw2wSvlLGZU)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Can you talk about multi-threading?](../transcriptions/yt-oRvsgiDJRR8.md) [https://www.youtube.com/watch?v=oRvsgiDJRR8](https://www.youtube.com/watch?v=oRvsgiDJRR8)
 * [Q&A: Are you considering disconnecting the Factory tick from FPS? (Part 1)](../transcriptions/yt-YMtTIS1de9A.md) [https://www.youtube.com/watch?v=YMtTIS1de9A](https://www.youtube.com/watch?v=YMtTIS1de9A)

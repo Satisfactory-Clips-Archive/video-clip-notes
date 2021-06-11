@@ -8,7 +8,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: S.A.M. Ore?
 https://www.youtube.com/watch?v=6r-s6Hk7QwY
-This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Can you reveal what S.A.M. Ore is please, I need to know?](./yt-2pUioeu_oKE.md) [https://www.youtube.com/watch?v=2pUioeu_oKE](https://www.youtube.com/watch?v=2pUioeu_oKE)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Is S.A.M. Ore going to be used in the next Update?](./yt-pSqiS44lqIg.md) [https://www.youtube.com/watch?v=pSqiS44lqIg](https://www.youtube.com/watch?v=pSqiS44lqIg)
 
 
 ### Topics

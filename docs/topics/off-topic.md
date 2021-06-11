@@ -10,10 +10,17 @@ date: Last Modified
 * [Pizza](../topics/off-topic/pizza.md)
 * [Sanctum](../topics/off-topic/sanctum.md)
 * [Semlor](../topics/off-topic/semlor.md)
+* [Subnautica](../topics/off-topic/subnautica.md)
 * [Sweden](../topics/off-topic/sweden.md)
 * [Terrible Jokes](../topics/off-topic/terrible-jokes.md)
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
+
+## June 8th, 2021 Livestream
+* [Q&A: Journey / Satisfactory crossover?](../transcriptions/yt-hN1nhn93wLQ.md) [https://www.youtube.com/watch?v=hN1nhn93wLQ](https://www.youtube.com/watch?v=hN1nhn93wLQ)
+* [Q&A: Does Ark have doors or Elevators?](../transcriptions/yt-dwD8rl66KRM.md) [https://www.youtube.com/watch?v=dwD8rl66KRM](https://www.youtube.com/watch?v=dwD8rl66KRM)
+* [Community FYI: Bags do exist in the US but it's not as common](../transcriptions/yt-05iOdJucZzs.md) [https://www.youtube.com/watch?v=05iOdJucZzs](https://www.youtube.com/watch?v=05iOdJucZzs)
+* [Q&A: Is it better to rinse your kitchen sponge after every use or toss it once a week?](../transcriptions/yt-7beQurnHslA.md) [https://www.youtube.com/watch?v=7beQurnHslA](https://www.youtube.com/watch?v=7beQurnHslA)
 
 ## June 1st, 2021 Livestream
 * Q&A: Does Jace play Factorio? [https://www.youtube.com/watch?v=4tWUJUJRKNI](https://www.youtube.com/watch?v=4tWUJUJRKNI)

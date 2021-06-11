@@ -33,6 +33,11 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## June 8th, 2021 Livestream
+* [State of Dev: Dedicated Servers](../transcriptions/yt-uzSAawwW6EA.md) [https://www.youtube.com/watch?v=uzSAawwW6EA](https://www.youtube.com/watch?v=uzSAawwW6EA)
+* [Jace Talk: On making suggestions](../transcriptions/yt-DzDBVPQEZ2A.md) [https://www.youtube.com/watch?v=DzDBVPQEZ2A](https://www.youtube.com/watch?v=DzDBVPQEZ2A)
+* [Q&A: Do you guys play Deep Rock Galactic, too?](../transcriptions/yt-R-q9Y-ZbTuk.md) [https://www.youtube.com/watch?v=R-q9Y-ZbTuk](https://www.youtube.com/watch?v=R-q9Y-ZbTuk)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Can we get smaller Lights?](../transcriptions/yt-oV7CovRkpkE.md) [https://www.youtube.com/watch?v=oV7CovRkpkE](https://www.youtube.com/watch?v=oV7CovRkpkE)
 * [Snutt & Jace Talk: Epic Mega Sale](../transcriptions/yt-8Ad-XvODOss.md) [https://www.youtube.com/watch?v=8Ad-XvODOss](https://www.youtube.com/watch?v=8Ad-XvODOss)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory 2017
 
+## June 8th, 2021 Livestream
+* [Q&A: Is that version available somewhere?](../../transcriptions/yt-qOqS6B-RV4w.md) [https://www.youtube.com/watch?v=qOqS6B-RV4w](https://www.youtube.com/watch?v=qOqS6B-RV4w)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Can we have FICSIT stock trading & an economy system?](../../transcriptions/yt-aXNyMSx6VyM.md) [https://www.youtube.com/watch?v=aXNyMSx6VyM](https://www.youtube.com/watch?v=aXNyMSx6VyM)
 

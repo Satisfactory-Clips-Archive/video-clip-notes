@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes
 
+## June 8th, 2021 Livestream
+* [Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](../../transcriptions/yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)
+* [Q&A: Please, teleporters?](../../transcriptions/yt-dNPT8HQ3qRk.md) [https://www.youtube.com/watch?v=dNPT8HQ3qRk](https://www.youtube.com/watch?v=dNPT8HQ3qRk)
+
 ## May 18th, 2021 Livestream
 * [Snutt & Jace Talk: Green Energy](../../transcriptions/yt-ZJj1LxI9JHc.md) [https://www.youtube.com/watch?v=ZJj1LxI9JHc](https://www.youtube.com/watch?v=ZJj1LxI9JHc)
 * [Q&A: Are there any plans for teleportation?](../../transcriptions/yt-RyU3sk4C5d8.md) [https://www.youtube.com/watch?v=RyU3sk4C5d8](https://www.youtube.com/watch?v=RyU3sk4C5d8)

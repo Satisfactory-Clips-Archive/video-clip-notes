@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
+## June 8th, 2021 Livestream
+* [Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](../../../transcriptions/yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)
+
 ## May 18th, 2021 Livestream
 * [Snutt & Jace Talk: Green Energy](../../../transcriptions/yt-ZJj1LxI9JHc.md) [https://www.youtube.com/watch?v=ZJj1LxI9JHc](https://www.youtube.com/watch?v=ZJj1LxI9JHc)
 

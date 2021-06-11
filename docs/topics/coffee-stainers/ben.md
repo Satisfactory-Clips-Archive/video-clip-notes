@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Ben
 
+## June 8th, 2021 Livestream
+* [Snutt & Jace Talk: Ben's dev vlog](../../transcriptions/yt-1vTjHhoQL7Q.md) [https://www.youtube.com/watch?v=1vTjHhoQL7Q](https://www.youtube.com/watch?v=1vTjHhoQL7Q)
+
 ## May 28th, 2021 Livestream
 * [Q&A: Are we going to be able to turn Lights upside down?](../../transcriptions/yt-dyqOMITwLsY,500.75024999999994,597.456414.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598)
 * [Q&A: What's coming in the future for optimisations to Satisfactory?](../../transcriptions/yt-dyqOMITwLsY,1837.377208333333,1944.0671249999998.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945)

@@ -8,7 +8,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: $1 Toilet DLC?
 https://www.youtube.com/watch?v=mBpIB3ojMC8
-This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Toilet DLC?](./yt-kitahOI_c88.md) [https://www.youtube.com/watch?v=kitahOI_c88](https://www.youtube.com/watch?v=kitahOI_c88)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: $1 Toilet Paper DLC?](./yt-ekFl5tlk2ig.md) [https://www.youtube.com/watch?v=ekFl5tlk2ig](https://www.youtube.com/watch?v=ekFl5tlk2ig)
 
 
 ### Topics

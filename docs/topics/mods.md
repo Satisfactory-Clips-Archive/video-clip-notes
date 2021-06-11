@@ -31,6 +31,10 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: Steam Workshop?](../transcriptions/yt-Ildv99O7E0M.md) [https://www.youtube.com/watch?v=Ildv99O7E0M](https://www.youtube.com/watch?v=Ildv99O7E0M)
+* [Q&A: What's your favourite mod?](../transcriptions/yt-Y_FlnlBYZ2k.md) [https://www.youtube.com/watch?v=Y_FlnlBYZ2k](https://www.youtube.com/watch?v=Y_FlnlBYZ2k)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Will you stream your gameplay?](../transcriptions/yt-Fu1oJLSiJo0.md) [https://www.youtube.com/watch?v=Fu1oJLSiJo0](https://www.youtube.com/watch?v=Fu1oJLSiJo0)
 * [Q&A: Why don't you try to make a Mod?](../transcriptions/yt-fWjnJ3MU1rw.md) [https://www.youtube.com/watch?v=fWjnJ3MU1rw](https://www.youtube.com/watch?v=fWjnJ3MU1rw)

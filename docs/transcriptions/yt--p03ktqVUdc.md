@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Fix Multiplayer quick?
 https://www.youtube.com/watch?v=-p03ktqVUdc
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: When do you think the focus will be on fixing Multiplayer?](./yt-3alTbxWgPnc.md) [https://www.youtube.com/watch?v=3alTbxWgPnc](https://www.youtube.com/watch?v=3alTbxWgPnc)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: What's the current Multiplayer status?](./yt-doX5Pn5A6Tc.md) [https://www.youtube.com/watch?v=doX5Pn5A6Tc](https://www.youtube.com/watch?v=doX5Pn5A6Tc)
 
 
 ### Topics

@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## June 8th, 2021 Livestream
+* [Snutt & Jace Talk: Build Modes vs. manual effort vs. mods vs. save editors](../../../transcriptions/yt-Tl2vrQ3oD18.md) [https://www.youtube.com/watch?v=Tl2vrQ3oD18](https://www.youtube.com/watch?v=Tl2vrQ3oD18)
+* [Q&A: Will you be adding ramps, walls, maybe a chair?](../../../transcriptions/yt-V20SFRk4jpw.md) [https://www.youtube.com/watch?v=V20SFRk4jpw](https://www.youtube.com/watch?v=V20SFRk4jpw)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Can we get smaller Lights?](../../../transcriptions/yt-oV7CovRkpkE.md) [https://www.youtube.com/watch?v=oV7CovRkpkE](https://www.youtube.com/watch?v=oV7CovRkpkE)
 * [Q&A: Are you going to showcase good building practices?](../../../transcriptions/yt-x6yfwFj_gco.md) [https://www.youtube.com/watch?v=x6yfwFj_gco](https://www.youtube.com/watch?v=x6yfwFj_gco)

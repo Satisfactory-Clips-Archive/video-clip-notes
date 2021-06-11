@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## June 8th, 2021 Livestream
+* [Trolling: We're going to add Tower Defence in Update 5](../transcriptions/yt-qwVOrlmH3BU.md) [https://www.youtube.com/watch?v=qwVOrlmH3BU](https://www.youtube.com/watch?v=qwVOrlmH3BU)
+* [Q&A: Are you saying you can't divide by zero?](../transcriptions/yt-0KgGoU6uZ9A.md) [https://www.youtube.com/watch?v=0KgGoU6uZ9A](https://www.youtube.com/watch?v=0KgGoU6uZ9A)
+* [Q&A: Tier 9, when?](../transcriptions/yt-vu1U6jodrJ4.md) [https://www.youtube.com/watch?v=vu1U6jodrJ4](https://www.youtube.com/watch?v=vu1U6jodrJ4)
+
 ## June 1st, 2021 Livestream
 * [Trolling: Climbing mechanic in the game](../transcriptions/yt-GQwO3ADzdfE.md) [https://www.youtube.com/watch?v=GQwO3ADzdfE](https://www.youtube.com/watch?v=GQwO3ADzdfE)
 * [Q&A: Snutt, where our pizza?](../transcriptions/yt-wMYigdObVSU.md) [https://www.youtube.com/watch?v=wMYigdObVSU](https://www.youtube.com/watch?v=wMYigdObVSU)

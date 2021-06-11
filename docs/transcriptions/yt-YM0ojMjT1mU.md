@@ -8,7 +8,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will there be a stream or something with Hannah?
 https://www.youtube.com/watch?v=YM0ojMjT1mU
-This question was possibly duplicated with a more recent answer: May 4th, 2021 Livestream Q&A: Hannah stream, when? [https://www.youtube.com/watch?v=Wxsp6e00g0g](https://www.youtube.com/watch?v=Wxsp6e00g0g)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Can we have Hannah on stream to explain upcoming changes?](./yt-H0nimrhyQ4A.md) [https://www.youtube.com/watch?v=H0nimrhyQ4A](https://www.youtube.com/watch?v=H0nimrhyQ4A)
 
 
 ### Topics

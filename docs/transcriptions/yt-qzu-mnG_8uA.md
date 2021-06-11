@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Would Official Mod Support use Steam Workshop?
 https://www.youtube.com/watch?v=qzu-mnG_8uA
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Steam Mods?](./yt-GC8pyFLf1Rw.md) [https://www.youtube.com/watch?v=GC8pyFLf1Rw](https://www.youtube.com/watch?v=GC8pyFLf1Rw)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Steam Workshop?](./yt-Ildv99O7E0M.md) [https://www.youtube.com/watch?v=Ildv99O7E0M](https://www.youtube.com/watch?v=Ildv99O7E0M)
 
 
 ### Topics

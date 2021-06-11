@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## June 8th, 2021 Livestream
+* [Snutt & Jace Talk: Build Modes vs. manual effort vs. mods vs. save editors](../../transcriptions/yt-Tl2vrQ3oD18.md) [https://www.youtube.com/watch?v=Tl2vrQ3oD18](https://www.youtube.com/watch?v=Tl2vrQ3oD18)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Will this factory feature on Community Highlights?](../../transcriptions/yt-nE7Y8M0kUOY.md) [https://www.youtube.com/watch?v=nE7Y8M0kUOY](https://www.youtube.com/watch?v=nE7Y8M0kUOY)
 

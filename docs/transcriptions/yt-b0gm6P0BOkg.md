@@ -8,6 +8,8 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Mk.2 Trains?
 https://www.youtube.com/watch?v=b0gm6P0BOkg
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Will there be Mk.2 Trains?](./yt-jfj5xytO5-s.md) [https://www.youtube.com/watch?v=jfj5xytO5-s](https://www.youtube.com/watch?v=jfj5xytO5-s)
+
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)

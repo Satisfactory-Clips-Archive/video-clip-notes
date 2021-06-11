@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Solar Panels?
 https://www.youtube.com/watch?v=zpNZHeAOoQE
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Plans to add Solar?](./yt-wrFOCRX7hDY.md) [https://www.youtube.com/watch?v=wrFOCRX7hDY](https://www.youtube.com/watch?v=wrFOCRX7hDY)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](./yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)
 
 
 ### Topics

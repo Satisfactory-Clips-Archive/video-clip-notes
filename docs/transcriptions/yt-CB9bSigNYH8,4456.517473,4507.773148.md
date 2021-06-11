@@ -4,12 +4,14 @@ date: "2019-02-20"
 layout: transcript
 topics: 
     - "story-lore"
+    - "off-topic/subnautica"
 ---
 # [February 20th, 2019 Satisfactory Level Design Stream](../2019-02-20.md)
 ## Q&A: Are you going to make the Story like Subnautica?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4456&end=4508
 ### Topics
 * [Story & Lore](../topics/story-lore.md)
+* [Off-Topic > Subnautica](../topics/off-topic/subnautica.md)
 
 ### Transcript
 

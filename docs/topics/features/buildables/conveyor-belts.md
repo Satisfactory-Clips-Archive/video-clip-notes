@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## June 8th, 2021 Livestream
+* [Q&A: Why can't you attach a Splitter directly to the Miner?](../../../transcriptions/yt-jZU1bdvj78g.md) [https://www.youtube.com/watch?v=jZU1bdvj78g](https://www.youtube.com/watch?v=jZU1bdvj78g)
+* [Q&A: Can we get a dev vlog on Pipes, Conveyors, & Splitters?](../../../transcriptions/yt-hSVNzU27It0.md) [https://www.youtube.com/watch?v=hSVNzU27It0](https://www.youtube.com/watch?v=hSVNzU27It0)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 5)](../../../transcriptions/yt-tYT9uBlbPfA.md) [https://www.youtube.com/watch?v=tYT9uBlbPfA](https://www.youtube.com/watch?v=tYT9uBlbPfA)
 * [Snutt & Jace Talk: Different Conveyor Belt speeds](../../../transcriptions/yt-1jlqOs2xHy0.md) [https://www.youtube.com/watch?v=1jlqOs2xHy0](https://www.youtube.com/watch?v=1jlqOs2xHy0)

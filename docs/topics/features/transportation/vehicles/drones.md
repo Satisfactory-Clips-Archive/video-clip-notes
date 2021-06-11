@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## June 8th, 2021 Livestream
+* [Q&A: Drone ports use too many batteries when the player is far away, is there any fix in the works?](../../../../transcriptions/yt-px6Cmk_amfI.md) [https://www.youtube.com/watch?v=px6Cmk_amfI](https://www.youtube.com/watch?v=px6Cmk_amfI)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Jace's Factory Tour](../../../../transcriptions/yt-Uz5ubjKvQWg.md) [https://www.youtube.com/watch?v=Uz5ubjKvQWg](https://www.youtube.com/watch?v=Uz5ubjKvQWg)
 

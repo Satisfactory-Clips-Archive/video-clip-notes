@@ -5,6 +5,7 @@ layout: index
 ---
 # 2021
 ## June
+* [June 8th](2021-06-08.md)
 * [June 1st](2021-06-01.md)
 
 ## May

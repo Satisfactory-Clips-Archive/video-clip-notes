@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: What about Story?](../transcriptions/yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
+* [Q&A: Will there be an end to the Story?](../transcriptions/yt-h0N-cNnuBks.md) [https://www.youtube.com/watch?v=h0N-cNnuBks](https://www.youtube.com/watch?v=h0N-cNnuBks)
+
 ## June 1st, 2021 Livestream
 * [Q&A: What's the name of the planet Satisfactory takes place on?](../transcriptions/yt-UQSM39n9Iu4.md) [https://www.youtube.com/watch?v=UQSM39n9Iu4](https://www.youtube.com/watch?v=UQSM39n9Iu4)
 * [Jace Talk: There will be a Story](../transcriptions/yt-rSQif5MTsgo.md) [https://www.youtube.com/watch?v=rSQif5MTsgo](https://www.youtube.com/watch?v=rSQif5MTsgo)

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > World Update
 
+## June 8th, 2021 Livestream
+* [Q&A: Can you tease us some day with some upcoming Map improvements?](../../../transcriptions/yt-NslEtzx_gLs.md) [https://www.youtube.com/watch?v=NslEtzx_gLs](https://www.youtube.com/watch?v=NslEtzx_gLs)
+* [Q&A: Is there going to be any Map expansion or random Weather?](../../../transcriptions/yt-3Vm_v02GWco.md) [https://www.youtube.com/watch?v=3Vm_v02GWco](https://www.youtube.com/watch?v=3Vm_v02GWco)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Northern Forest will be impacted by the World Update, blame Hannah](../../../transcriptions/yt-M7wSuhXitMk.md) [https://www.youtube.com/watch?v=M7wSuhXitMk](https://www.youtube.com/watch?v=M7wSuhXitMk)
 

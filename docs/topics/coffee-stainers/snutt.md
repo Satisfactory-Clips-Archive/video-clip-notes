@@ -5,6 +5,14 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: Do you guys play Deep Rock Galactic, too?](../../transcriptions/yt-R-q9Y-ZbTuk.md) [https://www.youtube.com/watch?v=R-q9Y-ZbTuk](https://www.youtube.com/watch?v=R-q9Y-ZbTuk)
+* [Q&A: Is today flannel shirt day?](../../transcriptions/yt-9AZgSf8XOFI.md) [https://www.youtube.com/watch?v=9AZgSf8XOFI](https://www.youtube.com/watch?v=9AZgSf8XOFI)
+* [Community FYI: Two flannel shirt per minute](../../transcriptions/yt-F1X_uJ7RRoM.md) [https://www.youtube.com/watch?v=F1X_uJ7RRoM](https://www.youtube.com/watch?v=F1X_uJ7RRoM)
+* [Q&A: You were both developers, was becoming Community Managers punishment for being bad developers?](../../transcriptions/yt-jcViVJ1DsW8.md) [https://www.youtube.com/watch?v=jcViVJ1DsW8](https://www.youtube.com/watch?v=jcViVJ1DsW8)
+* [Q&A: Have you played "Subnautica: Below Zero" yet?](../../transcriptions/yt-PeiFjPI5iHM.md) [https://www.youtube.com/watch?v=PeiFjPI5iHM](https://www.youtube.com/watch?v=PeiFjPI5iHM)
+* [Q&A: What's your favourite mod?](../../transcriptions/yt-Y_FlnlBYZ2k.md) [https://www.youtube.com/watch?v=Y_FlnlBYZ2k](https://www.youtube.com/watch?v=Y_FlnlBYZ2k)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Is Snutt on vacation now?](../../transcriptions/yt-1tUStRymvso.md) [https://www.youtube.com/watch?v=1tUStRymvso](https://www.youtube.com/watch?v=1tUStRymvso)
 * [Snutt Talk: Who Coffee Stain are & what Satisfactory is](../../transcriptions/yt-mW7I3QY6Gds.md) [https://www.youtube.com/watch?v=mW7I3QY6Gds](https://www.youtube.com/watch?v=mW7I3QY6Gds)

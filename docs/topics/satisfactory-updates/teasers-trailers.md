@@ -12,6 +12,9 @@ date: Last Modified
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: What's your favourite mod?](../../transcriptions/yt-Y_FlnlBYZ2k.md) [https://www.youtube.com/watch?v=Y_FlnlBYZ2k](https://www.youtube.com/watch?v=Y_FlnlBYZ2k)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Snutt plays the game?](../../transcriptions/yt-uqKyjrtWJ7M.md) [https://www.youtube.com/watch?v=uqKyjrtWJ7M](https://www.youtube.com/watch?v=uqKyjrtWJ7M)
 * [Q&A: Friday new video?](../../transcriptions/yt-i9dHKJHDrqM.md) [https://www.youtube.com/watch?v=i9dHKJHDrqM](https://www.youtube.com/watch?v=i9dHKJHDrqM)

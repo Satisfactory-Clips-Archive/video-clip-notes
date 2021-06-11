@@ -8,7 +8,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Steam has a built-in Mod Workshop system, could that possibly work?
 https://www.youtube.com/watch?v=dy137Wbx24M
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Steam Mods?](./yt-GC8pyFLf1Rw.md) [https://www.youtube.com/watch?v=GC8pyFLf1Rw](https://www.youtube.com/watch?v=GC8pyFLf1Rw)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Steam Workshop?](./yt-Ildv99O7E0M.md) [https://www.youtube.com/watch?v=Ildv99O7E0M](https://www.youtube.com/watch?v=Ildv99O7E0M)
 
 
 ### Topics

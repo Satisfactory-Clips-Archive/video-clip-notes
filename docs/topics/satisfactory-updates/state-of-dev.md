@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## June 8th, 2021 Livestream
+* [State of Dev: Dedicated Servers](../../transcriptions/yt-uzSAawwW6EA.md) [https://www.youtube.com/watch?v=uzSAawwW6EA](https://www.youtube.com/watch?v=uzSAawwW6EA)
+* [State of Dev: Update 5](../../transcriptions/yt-iZuz7S6SauA.md) [https://www.youtube.com/watch?v=iZuz7S6SauA](https://www.youtube.com/watch?v=iZuz7S6SauA)
+* [State of Dev: Merch](../../transcriptions/yt-P3W4GvCIDf4.md) [https://www.youtube.com/watch?v=P3W4GvCIDf4](https://www.youtube.com/watch?v=P3W4GvCIDf4)
+* State of Dev: Update 5 teasers [https://www.youtube.com/watch?v=XUr2K5igSGo](https://www.youtube.com/watch?v=XUr2K5igSGo)
+
 ## May 25th, 2021 Livestream
 * [State of Dev: Update 5](../../transcriptions/yt-rz0oD16hpGw.md) [https://www.youtube.com/watch?v=rz0oD16hpGw](https://www.youtube.com/watch?v=rz0oD16hpGw)
 * [Q&A: Recap State of Dev?](../../transcriptions/yt-GEQE1mXk1cg.md) [https://www.youtube.com/watch?v=GEQE1mXk1cg](https://www.youtube.com/watch?v=GEQE1mXk1cg)

@@ -224,6 +224,7 @@ date: Last Modified
 ---
 
 ## [Requested Features](./topics/features/requested-features.md)
+* [Crossovers](./topics/features/requested-features/crossovers.md)
 * [Elevators](./topics/features/requested-features/elevators.md)
 * [Golf](./topics/features/requested-features/golf.md)
 * [Holstering Equipment](./topics/features/requested-features/holstering-equipment.md)
@@ -335,6 +336,7 @@ date: Last Modified
 * [Pizza](./topics/off-topic/pizza.md)
 * [Sanctum](./topics/off-topic/sanctum.md)
 * [Semlor](./topics/off-topic/semlor.md)
+* [Subnautica](./topics/off-topic/subnautica.md)
 * [Sweden](./topics/off-topic/sweden.md)
 * [Terrible Jokes](./topics/off-topic/terrible-jokes.md)
 * [The Cycle](./topics/off-topic/the-cycle.md)

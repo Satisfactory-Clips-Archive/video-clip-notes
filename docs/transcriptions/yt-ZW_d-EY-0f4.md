@@ -12,11 +12,7 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: What's the status of Golf on the QA Site?
 https://www.youtube.com/watch?v=ZW_d-EY-0f4
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as May 2021.</summary>
-
-* May 11th, 2021 Livestream Q&A: Golf? [https://www.youtube.com/watch?v=iEYrtCLO364](https://www.youtube.com/watch?v=iEYrtCLO364)
-</details>
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: State of Golf?](./yt-aJVpnKvUiMs.md) [https://www.youtube.com/watch?v=aJVpnKvUiMs](https://www.youtube.com/watch?v=aJVpnKvUiMs)
 
 
 ### Topics

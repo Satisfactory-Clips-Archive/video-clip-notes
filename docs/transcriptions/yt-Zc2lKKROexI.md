@@ -10,7 +10,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Do you have a clear idea of the Story Mode yet?
 https://www.youtube.com/watch?v=Zc2lKKROexI
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Is there any sort of Story planned?](./yt-8cZ-oH-WA3E.md) [https://www.youtube.com/watch?v=8cZ-oH-WA3E](https://www.youtube.com/watch?v=8cZ-oH-WA3E)
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: What about Story?](./yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
 
 
 ### Topics

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## June 8th, 2021 Livestream
+* [Snutt & Jace Talk: Build Modes vs. manual effort vs. mods vs. save editors](../../transcriptions/yt-Tl2vrQ3oD18.md) [https://www.youtube.com/watch?v=Tl2vrQ3oD18](https://www.youtube.com/watch?v=Tl2vrQ3oD18)
+
 ## June 1st, 2021 Livestream
 * [Community FYI: Game needs Dyson Sphere soon or it'll lose people](../../transcriptions/yt-IegIG0LR1-4.md) [https://www.youtube.com/watch?v=IegIG0LR1-4](https://www.youtube.com/watch?v=IegIG0LR1-4)
 

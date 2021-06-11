@@ -8,12 +8,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Are there any plans for teleportation?
 https://www.youtube.com/watch?v=RyU3sk4C5d8
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as May 2021 and as early as April 2021.</summary>
-
-* [May 11th, 2021 Livestream Q&A: Teleport System?](./yt-aZHVhI9GZk8.md) [https://www.youtube.com/watch?v=aZHVhI9GZk8](https://www.youtube.com/watch?v=aZHVhI9GZk8)
-* [April 27th, 2021 Livestream Q&A: How about a teleporter for people to hand-feed the system?](./yt-m95zf9b3oo0.md) [https://www.youtube.com/watch?v=m95zf9b3oo0](https://www.youtube.com/watch?v=m95zf9b3oo0)
-</details>
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Please, teleporters?](./yt-dNPT8HQ3qRk.md) [https://www.youtube.com/watch?v=dNPT8HQ3qRk](https://www.youtube.com/watch?v=dNPT8HQ3qRk)
 
 
 ### Topics

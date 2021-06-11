@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## June 8th, 2021 Livestream
+* [Q&A: Why can't you attach a Splitter directly to the Miner?](../../../transcriptions/yt-jZU1bdvj78g.md) [https://www.youtube.com/watch?v=jZU1bdvj78g](https://www.youtube.com/watch?v=jZU1bdvj78g)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 3)](../../../transcriptions/yt-D4Tmjw6TT78.md) [https://www.youtube.com/watch?v=D4Tmjw6TT78](https://www.youtube.com/watch?v=D4Tmjw6TT78)

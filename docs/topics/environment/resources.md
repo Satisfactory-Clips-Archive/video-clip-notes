@@ -13,6 +13,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: Drone ports use too many batteries when the player is far away, is there any fix in the works?](../../transcriptions/yt-px6Cmk_amfI.md) [https://www.youtube.com/watch?v=px6Cmk_amfI](https://www.youtube.com/watch?v=px6Cmk_amfI)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Starter zones in Northern Forest](../../transcriptions/yt-feKJ8l4XJ94.md) [https://www.youtube.com/watch?v=feKJ8l4XJ94](https://www.youtube.com/watch?v=feKJ8l4XJ94)
 * [Snutt & Jace Talk: Handling power cuts](../../transcriptions/yt-KgpTpm6CTOA.md) [https://www.youtube.com/watch?v=KgpTpm6CTOA](https://www.youtube.com/watch?v=KgpTpm6CTOA)

@@ -9,6 +9,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## June 8th, 2021 Livestream
+* [Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](../../transcriptions/yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)
+
 ## June 1st, 2021 Livestream
 * [Q&A: What's Jace's favourite thing to do in Satisfactory?](../../transcriptions/yt-Ic6-rM6otww.md) [https://www.youtube.com/watch?v=Ic6-rM6otww](https://www.youtube.com/watch?v=Ic6-rM6otww)
 * [Snutt & Jace Talk: Handling power cuts](../../transcriptions/yt-KgpTpm6CTOA.md) [https://www.youtube.com/watch?v=KgpTpm6CTOA](https://www.youtube.com/watch?v=KgpTpm6CTOA)

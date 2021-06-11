@@ -19,6 +19,13 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## June 8th, 2021 Livestream
+* Community FYI: Putting Chat on blast [https://www.youtube.com/watch?v=sZV8xj1qgRw](https://www.youtube.com/watch?v=sZV8xj1qgRw)
+* [Q&A: What kind of questions are good for Q&A?](../transcriptions/yt-j7Z2TwjQtBQ.md) [https://www.youtube.com/watch?v=j7Z2TwjQtBQ](https://www.youtube.com/watch?v=j7Z2TwjQtBQ)
+* [Community FYI: Bagged milk in Louisiana](../transcriptions/yt-nt2dUV404Ds.md) [https://www.youtube.com/watch?v=nt2dUV404Ds](https://www.youtube.com/watch?v=nt2dUV404Ds)
+* Community FYI: Love all the animations in the game [https://www.youtube.com/watch?v=ZKZ6u1Ea--0](https://www.youtube.com/watch?v=ZKZ6u1Ea--0)
+* [Q&A: Is there a community guide on how to make factories that don't have a big performance hit?](../transcriptions/yt-YVs3sPwwZhg.md) [https://www.youtube.com/watch?v=YVs3sPwwZhg](https://www.youtube.com/watch?v=YVs3sPwwZhg)
+
 ## June 1st, 2021 Livestream
 * [Community FYI: Imagine thinking Satisfactory would lose people for any reason](../transcriptions/yt-cKI8Ss3vpeA.md) [https://www.youtube.com/watch?v=cKI8Ss3vpeA](https://www.youtube.com/watch?v=cKI8Ss3vpeA)
 * Community FYI: Happy Pride Month [https://www.youtube.com/watch?v=egjVtAFwB4Y](https://www.youtube.com/watch?v=egjVtAFwB4Y)

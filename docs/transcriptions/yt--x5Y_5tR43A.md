@@ -10,7 +10,7 @@ topics:
 ## Q&A: What do you think about tougher aliens blocking late-game resources?
 https://www.youtube.com/watch?v=-x5Y_5tR43A
 <details>
-<summary>This question may have been asked previously at least 27 other times, as recently as May 2021 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 28 other times, as recently as May 2021 and as early as March 2019.</summary>
 
 * [May 4th, 2021 Livestream Q&A: Plans to add new mobs?](./yt-l7vpFCb_aeo.md) [https://www.youtube.com/watch?v=l7vpFCb_aeo](https://www.youtube.com/watch?v=l7vpFCb_aeo)
 * [April 27th, 2021 Livestream Q&A: Any new aliens coming?](./yt-d5A3AQG5YoE.md) [https://www.youtube.com/watch?v=d5A3AQG5YoE](https://www.youtube.com/watch?v=d5A3AQG5YoE)
@@ -38,6 +38,7 @@ https://www.youtube.com/watch?v=-x5Y_5tR43A
 * [August 25th, 2020 Livestream Q&A: Will we have more monsters?](./yt-shEKhZakMxQ.md) [https://www.youtube.com/watch?v=shEKhZakMxQ](https://www.youtube.com/watch?v=shEKhZakMxQ)
 * July 28th, 2020 Livestream Q&A: More Wildlife? [https://clips.twitch.tv/DirtyHilariousPancakeWow](https://clips.twitch.tv/DirtyHilariousPancakeWow)
 * [May 15th, 2020 Q&A: Might we see more megafauna? The Dune Desert is missing something.](./yt-NlIVwoRqjVk,1062.2612,1092.6582333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1062&end=1093](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1062&end=1093)
+* [March 9th, 2019 Livestream Q&A: How many bosses in Satisfactory?](./yt-OHrWEP9zmy8.md) [https://www.youtube.com/watch?v=OHrWEP9zmy8](https://www.youtube.com/watch?v=OHrWEP9zmy8)
 * [March 9th, 2019 Livestream Q&A: Is there more than 5 enemies in?](./yt-DLnUjlixpg8.md) [https://www.youtube.com/watch?v=DLnUjlixpg8](https://www.youtube.com/watch?v=DLnUjlixpg8)
 </details>
 

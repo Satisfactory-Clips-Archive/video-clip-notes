@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Gases
 
+## June 8th, 2021 Livestream
+* [Q&A: Will you add early-game gases?](../../transcriptions/yt-A6j0dU1ZGfk.md) [https://www.youtube.com/watch?v=A6j0dU1ZGfk](https://www.youtube.com/watch?v=A6j0dU1ZGfk)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Can we use Poison Gas in some way?](../../transcriptions/yt-zjpwvKcY2ss.md) [https://www.youtube.com/watch?v=zjpwvKcY2ss](https://www.youtube.com/watch?v=zjpwvKcY2ss)
 

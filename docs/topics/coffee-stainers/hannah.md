@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 
+## June 8th, 2021 Livestream
+* [Q&A: What about Story?](../../transcriptions/yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
+* [Q&A: Can we have Hannah on stream to explain upcoming changes?](../../transcriptions/yt-H0nimrhyQ4A.md) [https://www.youtube.com/watch?v=H0nimrhyQ4A](https://www.youtube.com/watch?v=H0nimrhyQ4A)
+* [Community FYI: Imagine if Hannah just popped in chat & responded](../../transcriptions/yt-xK0Bhw4SELQ.md) [https://www.youtube.com/watch?v=xK0Bhw4SELQ](https://www.youtube.com/watch?v=xK0Bhw4SELQ)
+* [Community FYI: Hannah is like 1.5 times Jace's height](../../transcriptions/yt-zJFajU4lrHI.md) [https://www.youtube.com/watch?v=zJFajU4lrHI](https://www.youtube.com/watch?v=zJFajU4lrHI)
+* [Q&A: So getting Hannah on stream is a tall order?](../../transcriptions/yt-QjEdNd-spH8.md) [https://www.youtube.com/watch?v=QjEdNd-spH8](https://www.youtube.com/watch?v=QjEdNd-spH8)
+* [Community FYI: Just because you can't say her surname](../../transcriptions/yt-dgahYWod27s.md) [https://www.youtube.com/watch?v=dgahYWod27s](https://www.youtube.com/watch?v=dgahYWod27s)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Northern Forest will be impacted by the World Update, blame Hannah](../../transcriptions/yt-M7wSuhXitMk.md) [https://www.youtube.com/watch?v=M7wSuhXitMk](https://www.youtube.com/watch?v=M7wSuhXitMk)
 * [Q&A: Any thoughts of respawning flora?](../../transcriptions/yt-EtJ0aoI_fBs.md) [https://www.youtube.com/watch?v=EtJ0aoI_fBs](https://www.youtube.com/watch?v=EtJ0aoI_fBs)

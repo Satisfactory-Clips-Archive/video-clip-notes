@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## June 8th, 2021 Livestream
+* [Q&A: My game stutters when I look around certain parts of the Map, what settings can I tweak?](../../transcriptions/yt-WGuwU-5F9QY.md) [https://www.youtube.com/watch?v=WGuwU-5F9QY](https://www.youtube.com/watch?v=WGuwU-5F9QY)
+* [Q&A: Is there going to be any Map expansion or random Weather?](../../transcriptions/yt-3Vm_v02GWco.md) [https://www.youtube.com/watch?v=3Vm_v02GWco](https://www.youtube.com/watch?v=3Vm_v02GWco)
+
 ## May 28th, 2021 Livestream
 * [Q&A: What's coming in the future for optimisations to Satisfactory?](../../transcriptions/yt-dyqOMITwLsY,1837.377208333333,1944.0671249999998.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945)
 

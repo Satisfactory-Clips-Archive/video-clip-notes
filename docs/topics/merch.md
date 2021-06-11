@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../topics.md) > Merch
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## June 8th, 2021 Livestream
+* [State of Dev: Merch](../transcriptions/yt-P3W4GvCIDf4.md) [https://www.youtube.com/watch?v=P3W4GvCIDf4](https://www.youtube.com/watch?v=P3W4GvCIDf4)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Any updates on the Mug?](../transcriptions/yt-76HIK_X8Vjk.md) [https://www.youtube.com/watch?v=76HIK_X8Vjk](https://www.youtube.com/watch?v=76HIK_X8Vjk)
 * [Q&A: Mug Merch?](../transcriptions/yt-PGC0GFAOcrY.md) [https://www.youtube.com/watch?v=PGC0GFAOcrY](https://www.youtube.com/watch?v=PGC0GFAOcrY)
