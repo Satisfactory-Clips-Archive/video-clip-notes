@@ -394,9 +394,9 @@ date: Last Modified
 * [August 25th, 2020 Livestream Q&A: Actual Elevators with floor-select buttons ?](./transcriptions/yt-vZxhnaT88dc.md) [https://www.youtube.com/watch?v=vZxhnaT88dc](https://www.youtube.com/watch?v=vZxhnaT88dc)
 * [August 25th, 2020 Livestream Q&A: Do you have plans for elevators usable for players?](./transcriptions/yt-ZnuY8kzdKQU.md) [https://www.youtube.com/watch?v=ZnuY8kzdKQU](https://www.youtube.com/watch?v=ZnuY8kzdKQU)
 * August 11th, 2020 Livestream Q&A: Elevators? [https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime](https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime)
-* December 19th, 2019 Livestream Q&A: Vehicle Lifts? [https://www.youtube.com/watch?v=ayGH9w3sEBo](https://www.youtube.com/watch?v=ayGH9w3sEBo)
-* [December 19th, 2019 Livestream Q&A: How about personal elevators?](./transcriptions/yt-f3TtRJWOI2Q.md) [https://www.youtube.com/watch?v=f3TtRJWOI2Q](https://www.youtube.com/watch?v=f3TtRJWOI2Q)
 * [December 19th, 2019 Livestream Q&A: Human Elevators?](./transcriptions/yt-HGwoBSLqtcw.md) [https://www.youtube.com/watch?v=HGwoBSLqtcw](https://www.youtube.com/watch?v=HGwoBSLqtcw)
+* [December 19th, 2019 Livestream Q&A: How about personal elevators?](./transcriptions/yt-f3TtRJWOI2Q.md) [https://www.youtube.com/watch?v=f3TtRJWOI2Q](https://www.youtube.com/watch?v=f3TtRJWOI2Q)
+* December 19th, 2019 Livestream Q&A: Vehicle Lifts? [https://www.youtube.com/watch?v=ayGH9w3sEBo](https://www.youtube.com/watch?v=ayGH9w3sEBo)
 </details>
 
 ### [Q&A: Any updates on the Mug?](./transcriptions/yt-76HIK_X8Vjk.md) [https://www.youtube.com/watch?v=76HIK_X8Vjk](https://www.youtube.com/watch?v=76HIK_X8Vjk)
@@ -2434,8 +2434,8 @@ date: Last Modified
 * August 25th, 2020 Livestream Q&A: How about a drone to fly around? [https://www.youtube.com/watch?v=1msTsQksmbI](https://www.youtube.com/watch?v=1msTsQksmbI)
 * [August 25th, 2020 Livestream Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ?](./transcriptions/yt-mAA2oX9mDOw.md) [https://www.youtube.com/watch?v=mAA2oX9mDOw](https://www.youtube.com/watch?v=mAA2oX9mDOw)
 * [May 15th, 2020 Q&A: Is there any plans for any sort of flying vehicle?](./transcriptions/yt-NlIVwoRqjVk,26.760066666666667,70.83743333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=26&end=71](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=26&end=71)
-* [December 19th, 2019 Livestream Q&A: Give us a flight vehicle?](./transcriptions/yt-Fb6JnI4Bb4I.md) [https://www.youtube.com/watch?v=Fb6JnI4Bb4I](https://www.youtube.com/watch?v=Fb6JnI4Bb4I)
 * [December 19th, 2019 Livestream Q&A: Have you considerd Flying Drones?](./transcriptions/yt-KYox3m1mePU.md) [https://www.youtube.com/watch?v=KYox3m1mePU](https://www.youtube.com/watch?v=KYox3m1mePU)
+* [December 19th, 2019 Livestream Q&A: Give us a flight vehicle?](./transcriptions/yt-Fb6JnI4Bb4I.md) [https://www.youtube.com/watch?v=Fb6JnI4Bb4I](https://www.youtube.com/watch?v=Fb6JnI4Bb4I)
 * [March 9th, 2019 Livestream Q&A: Flying vehicles for overhead view of your factory?](./transcriptions/yt-njN-07Q5-8s.md) [https://www.youtube.com/watch?v=njN-07Q5-8s](https://www.youtube.com/watch?v=njN-07Q5-8s)
 </details>
 
