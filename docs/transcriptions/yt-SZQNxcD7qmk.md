@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
+    - "off-topic/food-drink/milk"
 ---
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Does Jace like a glass of milk though?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=SZQNxcD7qmk
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Off-Topic > Food & Drink > Milk](../topics/off-topic/food-drink/milk.md)
 
 ### Transcript
 

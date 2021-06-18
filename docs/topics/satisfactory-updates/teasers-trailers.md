@@ -12,6 +12,10 @@ date: Last Modified
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 
+## June 15th, 2021 Livestream
+* [Q&A: TL;DR on State of Dev?](../../transcriptions/yt-AJZBEJHOvIM.md) [https://www.youtube.com/watch?v=AJZBEJHOvIM](https://www.youtube.com/watch?v=AJZBEJHOvIM)
+* [Community FYI: Thanks for the stream, please don't stop these streams](../../transcriptions/yt-o6REds5XjcI.md) [https://www.youtube.com/watch?v=o6REds5XjcI](https://www.youtube.com/watch?v=o6REds5XjcI)
+
 ## June 8th, 2021 Livestream
 * [Q&A: What's your favourite mod?](../../transcriptions/yt-Y_FlnlBYZ2k.md) [https://www.youtube.com/watch?v=Y_FlnlBYZ2k](https://www.youtube.com/watch?v=Y_FlnlBYZ2k)
 

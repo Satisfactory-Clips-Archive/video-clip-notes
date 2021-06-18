@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is there more than 5 enemies in?
 https://www.youtube.com/watch?v=DLnUjlixpg8
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: What do you think about tougher aliens blocking late-game resources?](./yt--x5Y_5tR43A.md) [https://www.youtube.com/watch?v=-x5Y_5tR43A](https://www.youtube.com/watch?v=-x5Y_5tR43A)
+This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Will there be Giant Crabs at all?](./yt--QSHbLCmevg.md) [https://www.youtube.com/watch?v=-QSHbLCmevg](https://www.youtube.com/watch?v=-QSHbLCmevg)
 
 
 ### Topics

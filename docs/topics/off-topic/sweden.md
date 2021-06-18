@@ -4,6 +4,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## June 18th, 2021 Livestream
+* Q&A: When is Update 5 coming? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132)
+
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: Swedish saying "V" for "W"](../../transcriptions/yt-2DwvxQ3H1Iw.md) [https://www.youtube.com/watch?v=2DwvxQ3H1Iw](https://www.youtube.com/watch?v=2DwvxQ3H1Iw)
+* [Snutt & Jace Talk: Tacos & other Swedish food](../../transcriptions/yt-riAPgApH4JU.md) [https://www.youtube.com/watch?v=riAPgApH4JU](https://www.youtube.com/watch?v=riAPgApH4JU)
+* [Q&A: Jace, do the Surströmming challenge?](../../transcriptions/yt-aTfHPvrGZmo.md) [https://www.youtube.com/watch?v=aTfHPvrGZmo](https://www.youtube.com/watch?v=aTfHPvrGZmo)
+
 ## June 1st, 2021 Livestream
 * [Q&A: What percentage of Sweden speaks English?](../../transcriptions/yt-Mv4jKWx7V3U.md) [https://www.youtube.com/watch?v=Mv4jKWx7V3U](https://www.youtube.com/watch?v=Mv4jKWx7V3U)
 

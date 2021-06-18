@@ -14,6 +14,13 @@ date: Last Modified
 * [Swamp](../../topics/environment/biomes/swamp.md)
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## June 18th, 2021 Livestream
+* Jace Talk: World Update [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435)
+
+## June 15th, 2021 Livestream
+* [Q&A: More Biomes coming to play?](../../transcriptions/yt-KrltUW332Rg.md) [https://www.youtube.com/watch?v=KrltUW332Rg](https://www.youtube.com/watch?v=KrltUW332Rg)
+* Jace Talk: Highlighting Biome changes on a Map [https://www.youtube.com/watch?v=QAP_L1Qq0eo](https://www.youtube.com/watch?v=QAP_L1Qq0eo)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Will we get a bigger Map?](../../transcriptions/yt-LPvrY2LJghE.md) [https://www.youtube.com/watch?v=LPvrY2LJghE](https://www.youtube.com/watch?v=LPvrY2LJghE)
 * [Q&A: Ideas to add something in No Man's Land?](../../transcriptions/yt-Oe1kKDYZKek.md) [https://www.youtube.com/watch?v=Oe1kKDYZKek](https://www.youtube.com/watch?v=Oe1kKDYZKek)

@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## June 15th, 2021 Livestream
+* [State of Dev: Golf QA Post](../transcriptions/yt-0Zmyk7cOJuU.md) [https://www.youtube.com/watch?v=0Zmyk7cOJuU](https://www.youtube.com/watch?v=0Zmyk7cOJuU)
+* [Snutt & Jace Talk: Fix Jace QA post (Part 1)](../transcriptions/yt-rgQCCk5ohMc.md) [https://www.youtube.com/watch?v=rgQCCk5ohMc](https://www.youtube.com/watch?v=rgQCCk5ohMc)
+* [Snutt & Jace Talk: Fix Jace QA post (Part 2)](../transcriptions/yt-_OosGOGi99M.md) [https://www.youtube.com/watch?v=_OosGOGi99M](https://www.youtube.com/watch?v=_OosGOGi99M)
+
 ## June 8th, 2021 Livestream
 * [Jace Talk: On making suggestions](../transcriptions/yt-DzDBVPQEZ2A.md) [https://www.youtube.com/watch?v=DzDBVPQEZ2A](https://www.youtube.com/watch?v=DzDBVPQEZ2A)
 * [Q&A: Can you make the QA Site work for non-registered users?](../transcriptions/yt-SntikqCypAU.md) [https://www.youtube.com/watch?v=SntikqCypAU](https://www.youtube.com/watch?v=SntikqCypAU)

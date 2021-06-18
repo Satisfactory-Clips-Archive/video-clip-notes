@@ -7,6 +7,7 @@ topics:
     - "off-topic/deep-rock-galactic"
     - "off-topic/goat-simulator"
     - "off-topic/sanctum"
+    - "off-topic/songs-of-conquest"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Did Coffee Stain Studios develop Satisfactory?
@@ -17,6 +18,7 @@ https://www.youtube.com/watch?v=IPtH5E1-31k
 * [Off-Topic > Deep Rock Galactic](../topics/off-topic/deep-rock-galactic.md)
 * [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
+* [Off-Topic > Songs of Conquest](../topics/off-topic/songs-of-conquest.md)
 
 ### Transcript
 

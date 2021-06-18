@@ -6,6 +6,9 @@ date: Last Modified
 * [DLSS](../../topics/technology/graphics/dlss.md)
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 
+## June 15th, 2021 Livestream
+* Q&A: Can we expect better draw distance in the future? [https://www.youtube.com/watch?v=ewLgyoLFAtE](https://www.youtube.com/watch?v=ewLgyoLFAtE)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Do you know if there's a console command to show the tick rate?](../../transcriptions/yt-xzWZbbvVH7g.md) [https://www.youtube.com/watch?v=xzWZbbvVH7g](https://www.youtube.com/watch?v=xzWZbbvVH7g)
 * [Q&A: My game stutters when I look around certain parts of the Map, what settings can I tweak?](../../transcriptions/yt-WGuwU-5F9QY.md) [https://www.youtube.com/watch?v=WGuwU-5F9QY](https://www.youtube.com/watch?v=WGuwU-5F9QY)

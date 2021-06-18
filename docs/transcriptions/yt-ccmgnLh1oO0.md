@@ -12,8 +12,6 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?
 https://www.youtube.com/watch?v=ccmgnLh1oO0
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: What does Mercer Sphere do, and how much does it weigh?](./yt-jBOgtsE6VYQ.md) [https://www.youtube.com/watch?v=jBOgtsE6VYQ](https://www.youtube.com/watch?v=jBOgtsE6VYQ)
-
 
 ### Topics
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)

@@ -4,7 +4,7 @@ date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers/snutt"
-    - "off-topic/semlor"
+    - "off-topic/food-drink/semlor"
     - "satisfactory-updates/released/satisfactory-update-3"
     - "satisfactory-updates/teasers-trailers"
 ---
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=9m7is-TbgQA
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Off-Topic > Semlor](../topics/off-topic/semlor.md)
+* [Off-Topic > Food & Drink > Semlor](../topics/off-topic/food-drink/semlor.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 

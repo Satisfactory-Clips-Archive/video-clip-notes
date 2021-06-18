@@ -13,6 +13,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## June 15th, 2021 Livestream
+* Community Highlights: Compact build for Modular Frame production [https://www.youtube.com/watch?v=HAJvhJRVol0](https://www.youtube.com/watch?v=HAJvhJRVol0)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Drone ports use too many batteries when the player is far away, is there any fix in the works?](../../transcriptions/yt-px6Cmk_amfI.md) [https://www.youtube.com/watch?v=px6Cmk_amfI](https://www.youtube.com/watch?v=px6Cmk_amfI)
 

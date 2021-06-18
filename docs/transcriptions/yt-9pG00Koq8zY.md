@@ -8,7 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Update on the Mug?
 https://www.youtube.com/watch?v=9pG00Koq8zY
-This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Any updates on the Mug?](./yt-76HIK_X8Vjk.md) [https://www.youtube.com/watch?v=76HIK_X8Vjk](https://www.youtube.com/watch?v=76HIK_X8Vjk)
+This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Any Coffee Cup Merch update?](./yt-Z6XM978pvyw.md) [https://www.youtube.com/watch?v=Z6XM978pvyw](https://www.youtube.com/watch?v=Z6XM978pvyw)
 
 
 ### Topics

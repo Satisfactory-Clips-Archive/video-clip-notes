@@ -9,7 +9,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will the Map change for 1.0?
 https://www.youtube.com/watch?v=5AsSss96Idw
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Is there going to be any Map expansion or random Weather?](./yt-3Vm_v02GWco.md) [https://www.youtube.com/watch?v=3Vm_v02GWco](https://www.youtube.com/watch?v=3Vm_v02GWco)
+This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: More Biomes coming to play?](./yt-KrltUW332Rg.md) [https://www.youtube.com/watch?v=KrltUW332Rg](https://www.youtube.com/watch?v=KrltUW332Rg)
 
 
 ### Topics

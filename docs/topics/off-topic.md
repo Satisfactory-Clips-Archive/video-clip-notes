@@ -4,17 +4,21 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Off-Topic
 * [Deep Rock Galactic](../topics/off-topic/deep-rock-galactic.md)
+* [E3](../topics/off-topic/e3.md)
 * [Factorio](../topics/off-topic/factorio.md)
+* [Food & Drink](../topics/off-topic/food-drink.md)
 * [Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [Infinifactory](../topics/off-topic/infinifactory.md)
-* [Pizza](../topics/off-topic/pizza.md)
 * [Sanctum](../topics/off-topic/sanctum.md)
-* [Semlor](../topics/off-topic/semlor.md)
+* [Songs of Conquest](../topics/off-topic/songs-of-conquest.md)
 * [Subnautica](../topics/off-topic/subnautica.md)
 * [Sweden](../topics/off-topic/sweden.md)
 * [Terrible Jokes](../topics/off-topic/terrible-jokes.md)
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
+
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: Goat Simulator, Sanctum, and Rocket League](../transcriptions/yt-5Tu2HsXRQNg.md) [https://www.youtube.com/watch?v=5Tu2HsXRQNg](https://www.youtube.com/watch?v=5Tu2HsXRQNg)
 
 ## June 8th, 2021 Livestream
 * [Q&A: Journey / Satisfactory crossover?](../transcriptions/yt-hN1nhn93wLQ.md) [https://www.youtube.com/watch?v=hN1nhn93wLQ](https://www.youtube.com/watch?v=hN1nhn93wLQ)
@@ -57,7 +61,6 @@ date: Last Modified
 * [Snutt & Jace Talk: What's a shoey?](../transcriptions/yt-azn21PqgIg4.md) [https://www.youtube.com/watch?v=azn21PqgIg4](https://www.youtube.com/watch?v=azn21PqgIg4)
 * [Jace Talk: Twitch doesn't count Raid views as channel views](../transcriptions/yt-IQ7MkxbSAXU.md) [https://www.youtube.com/watch?v=IQ7MkxbSAXU](https://www.youtube.com/watch?v=IQ7MkxbSAXU)
 * [Snutt & Jace Talk: My beanie hit my eye and I got a shoey with a shoelace in this one](../transcriptions/yt-KDeO0odxt2Q.md) [https://www.youtube.com/watch?v=KDeO0odxt2Q](https://www.youtube.com/watch?v=KDeO0odxt2Q)
-* [Snutt & Jace Talk: Drinking together on steam?](../transcriptions/yt-iW3bjJrRtS4.md) [https://www.youtube.com/watch?v=iW3bjJrRtS4](https://www.youtube.com/watch?v=iW3bjJrRtS4)
 * [Snutt & Jace Talk: Differences in corporate culture](../transcriptions/yt-JX00IqVjdSg.md) [https://www.youtube.com/watch?v=JX00IqVjdSg](https://www.youtube.com/watch?v=JX00IqVjdSg)
 * [Community FYI: Cryin in the club WHAT GOOD BOYS](../transcriptions/yt-y6IBtn49nFk.md) [https://www.youtube.com/watch?v=y6IBtn49nFk](https://www.youtube.com/watch?v=y6IBtn49nFk)
 * [Snutt Talk: Memes on Josh's channel](../transcriptions/yt-sGxVtGYAjkQ.md) [https://www.youtube.com/watch?v=sGxVtGYAjkQ](https://www.youtube.com/watch?v=sGxVtGYAjkQ)

@@ -5,6 +5,14 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## June 18th, 2021 Livestream
+* Jace Talk: Dedicated Servers [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493)
+
+## June 15th, 2021 Livestream
+* [State of Dev: Dedicated Servers](../../transcriptions/yt-S0OIEMuz-WU.md) [https://www.youtube.com/watch?v=S0OIEMuz-WU](https://www.youtube.com/watch?v=S0OIEMuz-WU)
+* [Q&A: Dedicated Servers?](../../transcriptions/yt-0KMqyzOeiEU.md) [https://www.youtube.com/watch?v=0KMqyzOeiEU](https://www.youtube.com/watch?v=0KMqyzOeiEU)
+* [Q&A: Any plans to change the Pioneer trim colour so you can differentiate each other on Multiplayer?](../../transcriptions/yt-ox4zHZlziCg.md) [https://www.youtube.com/watch?v=ox4zHZlziCg](https://www.youtube.com/watch?v=ox4zHZlziCg)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Journey / Satisfactory crossover?](../../transcriptions/yt-hN1nhn93wLQ.md) [https://www.youtube.com/watch?v=hN1nhn93wLQ](https://www.youtube.com/watch?v=hN1nhn93wLQ)
 * [Q&A: Do you know if there's a console command to show the tick rate?](../../transcriptions/yt-xzWZbbvVH7g.md) [https://www.youtube.com/watch?v=xzWZbbvVH7g](https://www.youtube.com/watch?v=xzWZbbvVH7g)

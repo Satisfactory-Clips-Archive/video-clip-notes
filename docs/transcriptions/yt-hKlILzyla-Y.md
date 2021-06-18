@@ -9,7 +9,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Will there be more creatures ever?
 https://www.youtube.com/watch?v=hKlILzyla-Y
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: What do you think about tougher aliens blocking late-game resources?](./yt--x5Y_5tR43A.md) [https://www.youtube.com/watch?v=-x5Y_5tR43A](https://www.youtube.com/watch?v=-x5Y_5tR43A)
+This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Will there be Giant Crabs at all?](./yt--QSHbLCmevg.md) [https://www.youtube.com/watch?v=-QSHbLCmevg](https://www.youtube.com/watch?v=-QSHbLCmevg)
 
 
 ### Topics

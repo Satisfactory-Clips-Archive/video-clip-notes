@@ -4,14 +4,14 @@ date: "2017-11-17"
 layout: transcript
 topics: 
     - "coffee-stainers/jace"
-    - "off-topic/pizza"
+    - "off-topic/food-drink/pizza"
 ---
 # [November 17th, 2017 Community Manager Introduction - Coffee Stain Studios](../2017-11-17.md)
 ## Why would we need a Community Manager now?
 https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
+* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-drink/pizza.md)
 
 ### Transcript
 

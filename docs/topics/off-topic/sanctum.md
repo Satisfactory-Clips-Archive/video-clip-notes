@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum
 
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: Goat Simulator, Sanctum, and Rocket League](../../transcriptions/yt-5Tu2HsXRQNg.md) [https://www.youtube.com/watch?v=5Tu2HsXRQNg](https://www.youtube.com/watch?v=5Tu2HsXRQNg)
+* [Q&A: Ever think about Tower Defense?](../../transcriptions/yt-ElkfY8wg5qs.md) [https://www.youtube.com/watch?v=ElkfY8wg5qs](https://www.youtube.com/watch?v=ElkfY8wg5qs)
+* [Community FYI: I had Tower Defense Satisfactory for a couple of years already](../../transcriptions/yt-XZPos5u6IQY.md) [https://www.youtube.com/watch?v=XZPos5u6IQY](https://www.youtube.com/watch?v=XZPos5u6IQY)
+* [Q&A: Can we get another reference to "No" on Factory Defense?](../../transcriptions/yt-1DkSWmgD1Ws.md) [https://www.youtube.com/watch?v=1DkSWmgD1Ws](https://www.youtube.com/watch?v=1DkSWmgD1Ws)
+
 ## June 8th, 2021 Livestream
 * [Trolling: We're going to add Tower Defence in Update 5](../../transcriptions/yt-qwVOrlmH3BU.md) [https://www.youtube.com/watch?v=qwVOrlmH3BU](https://www.youtube.com/watch?v=qwVOrlmH3BU)
 

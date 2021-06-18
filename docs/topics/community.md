@@ -19,6 +19,11 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: Fix Jace QA post (Part 2)](../transcriptions/yt-_OosGOGi99M.md) [https://www.youtube.com/watch?v=_OosGOGi99M](https://www.youtube.com/watch?v=_OosGOGi99M)
+* [Community FYI: Thanks for the stream, please don't stop these streams](../transcriptions/yt-o6REds5XjcI.md) [https://www.youtube.com/watch?v=o6REds5XjcI](https://www.youtube.com/watch?v=o6REds5XjcI)
+* [Q&A: Are there new Maps planned, or Map creation tools for the Community?](../transcriptions/yt-gpymYwsbqiI.md) [https://www.youtube.com/watch?v=gpymYwsbqiI](https://www.youtube.com/watch?v=gpymYwsbqiI)
+
 ## June 8th, 2021 Livestream
 * Community FYI: Putting Chat on blast [https://www.youtube.com/watch?v=sZV8xj1qgRw](https://www.youtube.com/watch?v=sZV8xj1qgRw)
 * [Q&A: What kind of questions are good for Q&A?](../transcriptions/yt-j7Z2TwjQtBQ.md) [https://www.youtube.com/watch?v=j7Z2TwjQtBQ](https://www.youtube.com/watch?v=j7Z2TwjQtBQ)

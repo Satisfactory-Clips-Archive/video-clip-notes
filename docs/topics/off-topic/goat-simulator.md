@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: Goat Simulator, Sanctum, and Rocket League](../../transcriptions/yt-5Tu2HsXRQNg.md) [https://www.youtube.com/watch?v=5Tu2HsXRQNg](https://www.youtube.com/watch?v=5Tu2HsXRQNg)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Bacon Agaric](../../transcriptions/yt-ohaQD5VeUxU.md) [https://www.youtube.com/watch?v=ohaQD5VeUxU](https://www.youtube.com/watch?v=ohaQD5VeUxU)
 

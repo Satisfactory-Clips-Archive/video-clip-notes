@@ -9,7 +9,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Is the Map finalised, as in there will be no more additions?
 https://www.youtube.com/watch?v=zVnmYZemxe8
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Is there going to be any Map expansion or random Weather?](./yt-3Vm_v02GWco.md) [https://www.youtube.com/watch?v=3Vm_v02GWco](https://www.youtube.com/watch?v=3Vm_v02GWco)
+This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: More Biomes coming to play?](./yt-KrltUW332Rg.md) [https://www.youtube.com/watch?v=KrltUW332Rg](https://www.youtube.com/watch?v=KrltUW332Rg)
 
 
 ### Topics

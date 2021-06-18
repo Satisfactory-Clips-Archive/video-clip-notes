@@ -4,6 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "features/planned-features/signs"
+    - "features/roadmap"
     - "features/transportation/trains/train-signals"
     - "satisfactory-updates/pending/satisfactory-1-0"
     - "satisfactory-updates/released/satisfactory-update-3"
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=qEiYxLhX3CM
 
 ### Topics
 * [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Roadmap](../topics/features/roadmap.md)
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)

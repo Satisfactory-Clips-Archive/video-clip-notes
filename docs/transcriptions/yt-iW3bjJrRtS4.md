@@ -1,20 +1,20 @@
 ---
-title: "March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary Snutt & Jace Talk: Drinking together on steam?"
+title: "March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary Snutt & Jace Talk: Drinking together on stream?"
 date: "2021-03-17"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
-    - "off-topic"
+    - "off-topic/food-drink"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
-## Snutt & Jace Talk: Drinking together on steam?
+## Snutt & Jace Talk: Drinking together on stream?
 https://www.youtube.com/watch?v=iW3bjJrRtS4
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Off-Topic](../topics/off-topic.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
 
 ### Transcript
 

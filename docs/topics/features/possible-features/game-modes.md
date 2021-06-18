@@ -7,6 +7,9 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## June 18th, 2021 Livestream
+* Jace Talk: Game Modes [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Can we get a way to skip certain stages for new playthroughs?](../../../transcriptions/yt-DE_UxFAQUm0.md) [https://www.youtube.com/watch?v=DE_UxFAQUm0](https://www.youtube.com/watch?v=DE_UxFAQUm0)
 

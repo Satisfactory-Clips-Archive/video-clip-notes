@@ -30,10 +30,10 @@ This question was possibly duplicated with a more recent answer: [May 25th, 2021
 >
 > Yeah?
 >
-> Simon: There's like the road map that you can take a look at.
+> Simon: There's like the [road map](../topics/features/roadmap.md) that you can take a look at.
 >
 > Jace: Yeah.
 >
-> There's the roadmap link below the video in the panels.
+> There's the [roadmap](../topics/features/roadmap.md) link below the video in the panels.
 >
 > Simon: Yeah.

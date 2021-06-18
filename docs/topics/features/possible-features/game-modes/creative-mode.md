@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Creative Mode
 
+## June 18th, 2021 Livestream
+* Jace Talk: Game Modes [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353)
+
 ## May 25th, 2021 Livestream
 * [Q&A: When will there be a Creative Mode or Train remake?](../../../../transcriptions/yt-m5NFRXkFgUg.md) [https://www.youtube.com/watch?v=m5NFRXkFgUg](https://www.youtube.com/watch?v=m5NFRXkFgUg)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Microtransactions
 
+## June 15th, 2021 Livestream
+* [Q&A: When do the microtransactions and DLC packs start?](../../../transcriptions/yt-V2cOLLcElBI.md) [https://www.youtube.com/watch?v=V2cOLLcElBI](https://www.youtube.com/watch?v=V2cOLLcElBI)
+
 ## October 6th, 2020 Livestream
 * [Jace & Snutt Talk: State of Dev](../../../transcriptions/yt-qG7a8qP2x_g.md) [https://www.youtube.com/watch?v=qG7a8qP2x_g](https://www.youtube.com/watch?v=qG7a8qP2x_g)
 

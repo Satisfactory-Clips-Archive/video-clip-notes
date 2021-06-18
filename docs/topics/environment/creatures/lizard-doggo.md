@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## June 15th, 2021 Livestream
+* [Q&A: Lizard Cat DLC?](../../../transcriptions/yt-ZyoU8gwO-PA.md) [https://www.youtube.com/watch?v=ZyoU8gwO-PA](https://www.youtube.com/watch?v=ZyoU8gwO-PA)
+
 ## June 8th, 2021 Livestream
 * [Q&A: How good at the Lizard Doggos?](../../../transcriptions/yt-hriGwLVbFBo.md) [https://www.youtube.com/watch?v=hriGwLVbFBo](https://www.youtube.com/watch?v=hriGwLVbFBo)
 * [Q&A: We need a pixel-style arcade game in the HUB called "Doggo Quest"?](../../../transcriptions/yt-p0nELMGY4hA.md) [https://www.youtube.com/watch?v=p0nELMGY4hA](https://www.youtube.com/watch?v=p0nELMGY4hA)

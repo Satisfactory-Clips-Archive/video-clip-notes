@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## June 15th, 2021 Livestream
+* [Q&A: Will parrots evolve into Giant Crabs after being too many times?](../../../transcriptions/yt-okxhWx00LxE.md) [https://www.youtube.com/watch?v=okxhWx00LxE](https://www.youtube.com/watch?v=okxhWx00LxE)
+* [Q&A: Will there be Giant Crabs at all?](../../../transcriptions/yt--QSHbLCmevg.md) [https://www.youtube.com/watch?v=-QSHbLCmevg](https://www.youtube.com/watch?v=-QSHbLCmevg)
+
 ## May 25th, 2021 Livestream
 * [Community FYI: If the Giant Crab can't break walls then I'm making a zoo](../../../transcriptions/yt-mX8bc3BMIMs.md) [https://www.youtube.com/watch?v=mX8bc3BMIMs](https://www.youtube.com/watch?v=mX8bc3BMIMs)
 * [Q&A: What do you think about tougher aliens blocking late-game resources?](../../../transcriptions/yt--x5Y_5tR43A.md) [https://www.youtube.com/watch?v=-x5Y_5tR43A](https://www.youtube.com/watch?v=-x5Y_5tR43A)

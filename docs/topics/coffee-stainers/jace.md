@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## June 18th, 2021 Livestream
+* Intro [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22)
+
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: Fix Jace QA post (Part 1)](../../transcriptions/yt-rgQCCk5ohMc.md) [https://www.youtube.com/watch?v=rgQCCk5ohMc](https://www.youtube.com/watch?v=rgQCCk5ohMc)
+* [Snutt & Jace Talk: Fix Jace QA post (Part 2)](../../transcriptions/yt-_OosGOGi99M.md) [https://www.youtube.com/watch?v=_OosGOGi99M](https://www.youtube.com/watch?v=_OosGOGi99M)
+* [Q&A: Jace, do the Surströmming challenge?](../../transcriptions/yt-aTfHPvrGZmo.md) [https://www.youtube.com/watch?v=aTfHPvrGZmo](https://www.youtube.com/watch?v=aTfHPvrGZmo)
+* Q&A: Jace, speak Japanese? [https://www.youtube.com/watch?v=zEBjy4DITFI](https://www.youtube.com/watch?v=zEBjy4DITFI)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Do you guys play Deep Rock Galactic, too?](../../transcriptions/yt-R-q9Y-ZbTuk.md) [https://www.youtube.com/watch?v=R-q9Y-ZbTuk](https://www.youtube.com/watch?v=R-q9Y-ZbTuk)
 * [Community FYI: Hannah is like 1.5 times Jace's height](../../transcriptions/yt-zJFajU4lrHI.md) [https://www.youtube.com/watch?v=zJFajU4lrHI](https://www.youtube.com/watch?v=zJFajU4lrHI)
@@ -140,7 +149,7 @@ date: Last Modified
 * [Jace Talk: Snutt was 99% of the work, I just showed up for filming](../../transcriptions/yt-IvB72E76hww.md) [https://www.youtube.com/watch?v=IvB72E76hww](https://www.youtube.com/watch?v=IvB72E76hww)
 * [Snutt & Jace Talk: Our working relationship](../../transcriptions/yt-HUrd9HUjA28.md) [https://www.youtube.com/watch?v=HUrd9HUjA28](https://www.youtube.com/watch?v=HUrd9HUjA28)
 * [Snutt & Jace Talk: My beanie hit my eye and I got a shoey with a shoelace in this one](../../transcriptions/yt-KDeO0odxt2Q.md) [https://www.youtube.com/watch?v=KDeO0odxt2Q](https://www.youtube.com/watch?v=KDeO0odxt2Q)
-* [Snutt & Jace Talk: Drinking together on steam?](../../transcriptions/yt-iW3bjJrRtS4.md) [https://www.youtube.com/watch?v=iW3bjJrRtS4](https://www.youtube.com/watch?v=iW3bjJrRtS4)
+* [Snutt & Jace Talk: Drinking together on stream?](../../transcriptions/yt-iW3bjJrRtS4.md) [https://www.youtube.com/watch?v=iW3bjJrRtS4](https://www.youtube.com/watch?v=iW3bjJrRtS4)
 * [Community FYI: When you were the only CM it was pretty bad. Now Snutt is here, it's somehow worse](../../transcriptions/yt-yXuVNumkDhw.md) [https://www.youtube.com/watch?v=yXuVNumkDhw](https://www.youtube.com/watch?v=yXuVNumkDhw)
 * [Jace Talk: Getting a little sappy (lots of love and kindness in the Satisfactory Community) (Part 2)](../../transcriptions/yt-Agt4D0zAe50.md) [https://www.youtube.com/watch?v=Agt4D0zAe50](https://www.youtube.com/watch?v=Agt4D0zAe50)
 * [Snutt & Jace Talk: Differences in corporate culture](../../transcriptions/yt-JX00IqVjdSg.md) [https://www.youtube.com/watch?v=JX00IqVjdSg](https://www.youtube.com/watch?v=JX00IqVjdSg)

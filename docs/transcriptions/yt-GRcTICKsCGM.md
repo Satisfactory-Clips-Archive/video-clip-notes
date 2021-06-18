@@ -3,7 +3,7 @@ title: "May 25th, 2021 Livestream Q&A: EU Shop?"
 date: "2021-05-25"
 layout: transcript
 topics:
-    - "merch"
+    - "merch/eu-merch-store"
 ---
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: EU Shop?
@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=GRcTICKsCGM
 
 
 ### Topics
-* [Merch](../topics/merch.md)
+* [Merch > EU Merch Store](../topics/merch/eu-merch-store.md)
 
 ### Transcript
 

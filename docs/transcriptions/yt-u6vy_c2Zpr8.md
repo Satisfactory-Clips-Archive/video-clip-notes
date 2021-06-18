@@ -3,14 +3,14 @@ title: "February 16th, 2021 Livestream Snutt & Jace Talk: Canadian Bacon"
 date: "2021-02-16"
 layout: transcript
 topics:
-    - ""
+    - "off-topic/food-drink"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Snutt & Jace Talk: Canadian Bacon
 https://www.youtube.com/watch?v=u6vy_c2Zpr8
 
 ### Topics
-
+* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
 
 ### Transcript
 

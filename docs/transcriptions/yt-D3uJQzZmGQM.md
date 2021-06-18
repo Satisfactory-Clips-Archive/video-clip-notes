@@ -3,7 +3,7 @@ title: "October 13th, 2020 Livestream Q&A: Info on EU shopping for Merch?"
 date: "2020-10-13"
 layout: transcript
 topics:
-    - "merch"
+    - "merch/eu-merch-store"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Info on EU shopping for Merch?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [May 25th, 2021
 
 
 ### Topics
-* [Merch](../topics/merch.md)
+* [Merch > EU Merch Store](../topics/merch/eu-merch-store.md)
 
 ### Transcript
 

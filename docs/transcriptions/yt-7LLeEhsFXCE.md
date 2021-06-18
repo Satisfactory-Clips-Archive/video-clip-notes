@@ -4,6 +4,8 @@ date: "2021-05-11"
 layout: transcript
 topics:
     - "coffee-stainers/snutt"
+    - "off-topic/food-drink"
+    - "off-topic/food-drink/milk"
 ---
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Did you have a cold glass of milk with that PB&J?
@@ -11,6 +13,8 @@ https://www.youtube.com/watch?v=7LLeEhsFXCE
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink > Milk](../topics/off-topic/food-drink/milk.md)
 
 ### Transcript
 

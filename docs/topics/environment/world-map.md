@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## June 18th, 2021 Livestream
+* Jace Talk: World Update [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435)
+
+## June 15th, 2021 Livestream
+* [Q&A: Are there new Maps planned, or Map creation tools for the Community?](../../transcriptions/yt-gpymYwsbqiI.md) [https://www.youtube.com/watch?v=gpymYwsbqiI](https://www.youtube.com/watch?v=gpymYwsbqiI)
+* [Q&A: Would you make the Map spherical in later Updates?](../../transcriptions/yt--ty9ja0Zvvk.md) [https://www.youtube.com/watch?v=-ty9ja0Zvvk](https://www.youtube.com/watch?v=-ty9ja0Zvvk)
+* [Q&A: Will we get notified in advance of Map changes so we can repair our builds?](../../transcriptions/yt-QHQ60VKYtS4.md) [https://www.youtube.com/watch?v=QHQ60VKYtS4](https://www.youtube.com/watch?v=QHQ60VKYtS4)
+* Jace Talk: Highlighting Biome changes on a Map [https://www.youtube.com/watch?v=QAP_L1Qq0eo](https://www.youtube.com/watch?v=QAP_L1Qq0eo)
+
 ## June 8th, 2021 Livestream
 * [Q&A: My game stutters when I look around certain parts of the Map, what settings can I tweak?](../../transcriptions/yt-WGuwU-5F9QY.md) [https://www.youtube.com/watch?v=WGuwU-5F9QY](https://www.youtube.com/watch?v=WGuwU-5F9QY)
 * [Q&A: Is there going to be any Map expansion or random Weather?](../../transcriptions/yt-3Vm_v02GWco.md) [https://www.youtube.com/watch?v=3Vm_v02GWco](https://www.youtube.com/watch?v=3Vm_v02GWco)

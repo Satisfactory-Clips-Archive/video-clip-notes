@@ -3,6 +3,7 @@ title: "October 13th, 2020 Livestream Q&A: Who knows the most about feature road
 date: "2020-10-13"
 layout: transcript
 topics:
+    - "features/roadmap"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=-MwbxCLSUC4
 
 ### Topics
+* [Features > Roadmap](../topics/features/roadmap.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 

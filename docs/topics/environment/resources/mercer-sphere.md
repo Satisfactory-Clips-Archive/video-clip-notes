@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
+## June 15th, 2021 Livestream
+* Q&A: Should we expect Somersloops & Mercer Spheres to not be useful until much later in development? [https://www.youtube.com/watch?v=qrmgbW2hPZA](https://www.youtube.com/watch?v=qrmgbW2hPZA)
+
 ## May 18th, 2021 Livestream
 * [Q&A: What does Mercer Sphere do, and how much does it weigh?](../../../transcriptions/yt-jBOgtsE6VYQ.md) [https://www.youtube.com/watch?v=jBOgtsE6VYQ](https://www.youtube.com/watch?v=jBOgtsE6VYQ)
 

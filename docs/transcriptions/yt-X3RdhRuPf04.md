@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Hyper Tube Cannon future ?
 https://www.youtube.com/watch?v=X3RdhRuPf04
-This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Is the cannon an intended behaviour for Hyper Tubes or a bug?](./yt-9oX64bJ65Cg.md) [https://www.youtube.com/watch?v=9oX64bJ65Cg](https://www.youtube.com/watch?v=9oX64bJ65Cg)
+This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Have you considered making actual Hyper Tube boosters?](./yt-Oz3Y-caTPTY.md) [https://www.youtube.com/watch?v=Oz3Y-caTPTY](https://www.youtube.com/watch?v=Oz3Y-caTPTY)
 
 
 ### Topics

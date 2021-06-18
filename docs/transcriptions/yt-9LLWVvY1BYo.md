@@ -8,11 +8,7 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: Any initial impressions of Unreal Engine 5?
 https://www.youtube.com/watch?v=9LLWVvY1BYo
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as June 2021.</summary>
-
-* [June 1st, 2021 Livestream Q&A: Any thoughts on Unreal Engine 5?](./yt-6QjpBZm71KM.md) [https://www.youtube.com/watch?v=6QjpBZm71KM](https://www.youtube.com/watch?v=6QjpBZm71KM)
-</details>
+This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Have you checked out Unreal Engine 5?](./yt-OdG-4Fybk0U.md) [https://www.youtube.com/watch?v=OdG-4Fybk0U](https://www.youtube.com/watch?v=OdG-4Fybk0U)
 
 
 ### Topics

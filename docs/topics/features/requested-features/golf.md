@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf
 
+## June 15th, 2021 Livestream
+* [State of Dev: Golf QA Post](../../../transcriptions/yt-0Zmyk7cOJuU.md) [https://www.youtube.com/watch?v=0Zmyk7cOJuU](https://www.youtube.com/watch?v=0Zmyk7cOJuU)
+
 ## June 8th, 2021 Livestream
 * [Q&A: State of Golf?](../../../transcriptions/yt-aJVpnKvUiMs.md) [https://www.youtube.com/watch?v=aJVpnKvUiMs](https://www.youtube.com/watch?v=aJVpnKvUiMs)
 

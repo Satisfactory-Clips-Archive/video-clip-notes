@@ -9,9 +9,8 @@ topics:
 ## Q&A: Any plans about new pets?
 https://www.youtube.com/watch?v=sLBqy5auRck
 <details>
-<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 1 other time, as recently as March 2019.</summary>
 
-* [September 8th, 2020 Livestream Q&A: Cat Companion instead of Doggo?](./yt-tUpHAgaYB4o.md) [https://www.youtube.com/watch?v=tUpHAgaYB4o](https://www.youtube.com/watch?v=tUpHAgaYB4o)
 * [March 9th, 2019 Livestream Q&A: You can tame any native lifeform?](./yt-EnGMyJjYDdI.md) [https://www.youtube.com/watch?v=EnGMyJjYDdI](https://www.youtube.com/watch?v=EnGMyJjYDdI)
 </details>
 

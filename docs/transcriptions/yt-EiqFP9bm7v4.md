@@ -3,6 +3,7 @@ title: "March 24th, 2020 Livestream Q&A: Will there be a roadmap again for Updat
 date: "2020-03-24"
 layout: transcript
 topics:
+    - "features/roadmap"
     - "satisfactory-updates/pending/satisfactory-1-0"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/released/satisfactory-update-4"
@@ -14,6 +15,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
+* [Features > Roadmap](../topics/features/roadmap.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)

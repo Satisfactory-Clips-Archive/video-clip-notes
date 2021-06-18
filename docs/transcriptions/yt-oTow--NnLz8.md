@@ -3,6 +3,7 @@ title: "April 20th, 2021 Livestream Q&A: Where can I find the latest roadmap?"
 date: "2021-04-20"
 layout: transcript
 topics:
+    - "features/roadmap"
     - "satisfactory-updates"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
@@ -12,6 +13,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
+* [Features > Roadmap](../topics/features/roadmap.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
 
 ### Transcript

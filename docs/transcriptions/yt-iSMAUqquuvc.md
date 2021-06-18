@@ -3,6 +3,7 @@ title: "September 1st, 2020 Livestream Q&A: Roadmap?"
 date: "2020-09-01"
 layout: transcript
 topics:
+    - "features/roadmap"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
@@ -12,6 +13,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
+* [Features > Roadmap](../topics/features/roadmap.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript

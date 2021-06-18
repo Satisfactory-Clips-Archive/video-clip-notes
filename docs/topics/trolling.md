@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## June 15th, 2021 Livestream
+* [Q&A: Ever think about Tower Defense?](../transcriptions/yt-ElkfY8wg5qs.md) [https://www.youtube.com/watch?v=ElkfY8wg5qs](https://www.youtube.com/watch?v=ElkfY8wg5qs)
+* [Q&A: Can we get another reference to "No" on Factory Defense?](../transcriptions/yt-1DkSWmgD1Ws.md) [https://www.youtube.com/watch?v=1DkSWmgD1Ws](https://www.youtube.com/watch?v=1DkSWmgD1Ws)
+
 ## June 8th, 2021 Livestream
 * [Trolling: We're going to add Tower Defence in Update 5](../transcriptions/yt-qwVOrlmH3BU.md) [https://www.youtube.com/watch?v=qwVOrlmH3BU](https://www.youtube.com/watch?v=qwVOrlmH3BU)
 * [Q&A: Are you saying you can't divide by zero?](../transcriptions/yt-0KgGoU6uZ9A.md) [https://www.youtube.com/watch?v=0KgGoU6uZ9A](https://www.youtube.com/watch?v=0KgGoU6uZ9A)

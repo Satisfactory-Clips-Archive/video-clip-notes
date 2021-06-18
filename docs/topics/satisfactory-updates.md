@@ -16,6 +16,9 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## June 15th, 2021 Livestream
+* [Q&A: Feature creep?](../transcriptions/yt-4vpZLAeFdyU.md) [https://www.youtube.com/watch?v=4vpZLAeFdyU](https://www.youtube.com/watch?v=4vpZLAeFdyU)
+
 ## June 1st, 2021 Livestream
 * [Community FYI: Game needs more optimising soon or you're going to lose people](../transcriptions/yt-oGk5GX8YYXQ.md) [https://www.youtube.com/watch?v=oGk5GX8YYXQ](https://www.youtube.com/watch?v=oGk5GX8YYXQ)
 * [Q&A: Do you take optimisation seriously?](../transcriptions/yt-ajNj4BScHZ0.md) [https://www.youtube.com/watch?v=ajNj4BScHZ0](https://www.youtube.com/watch?v=ajNj4BScHZ0)

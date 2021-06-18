@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Official Mod Support
 * [Steam Workshop](../../topics/mods/official-mod-support/steam-workshop.md)
 
+## June 15th, 2021 Livestream
+* [Q&A: Are there new Maps planned, or Map creation tools for the Community?](../../transcriptions/yt-gpymYwsbqiI.md) [https://www.youtube.com/watch?v=gpymYwsbqiI](https://www.youtube.com/watch?v=gpymYwsbqiI)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Steam Workshop?](../../transcriptions/yt-Ildv99O7E0M.md) [https://www.youtube.com/watch?v=Ildv99O7E0M](https://www.youtube.com/watch?v=Ildv99O7E0M)
 

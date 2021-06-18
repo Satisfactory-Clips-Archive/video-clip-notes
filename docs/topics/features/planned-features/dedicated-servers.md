@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## June 18th, 2021 Livestream
+* Jace Talk: Dedicated Servers [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493)
+
+## June 15th, 2021 Livestream
+* [State of Dev: Dedicated Servers](../../../transcriptions/yt-S0OIEMuz-WU.md) [https://www.youtube.com/watch?v=S0OIEMuz-WU](https://www.youtube.com/watch?v=S0OIEMuz-WU)
+* [Q&A: Dedicated Servers?](../../../transcriptions/yt-0KMqyzOeiEU.md) [https://www.youtube.com/watch?v=0KMqyzOeiEU](https://www.youtube.com/watch?v=0KMqyzOeiEU)
+
 ## June 8th, 2021 Livestream
 * [State of Dev: Dedicated Servers](../../../transcriptions/yt-uzSAawwW6EA.md) [https://www.youtube.com/watch?v=uzSAawwW6EA](https://www.youtube.com/watch?v=uzSAawwW6EA)
 

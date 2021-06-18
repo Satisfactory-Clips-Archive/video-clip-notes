@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Somersloop
 
+## June 15th, 2021 Livestream
+* Q&A: Should we expect Somersloops & Mercer Spheres to not be useful until much later in development? [https://www.youtube.com/watch?v=qrmgbW2hPZA](https://www.youtube.com/watch?v=qrmgbW2hPZA)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Do you have plans for the WIP items?](../../../transcriptions/yt-GPP6rcB8ROw.md) [https://www.youtube.com/watch?v=GPP6rcB8ROw](https://www.youtube.com/watch?v=GPP6rcB8ROw)
 * [Q&A: If the WIP items are for Story would you advise not collecting them yet?](../../../transcriptions/yt-OhElJ-ySLD4.md) [https://www.youtube.com/watch?v=OhElJ-ySLD4](https://www.youtube.com/watch?v=OhElJ-ySLD4)

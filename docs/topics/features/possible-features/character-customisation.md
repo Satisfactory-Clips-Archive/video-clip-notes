@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Character Customisation
 
+## June 15th, 2021 Livestream
+* [Q&A: Any plans to change the Pioneer trim colour so you can differentiate each other on Multiplayer?](../../../transcriptions/yt-ox4zHZlziCg.md) [https://www.youtube.com/watch?v=ox4zHZlziCg](https://www.youtube.com/watch?v=ox4zHZlziCg)
+
 ## May 25th, 2021 Livestream
 * [Q&A: When can we get in-game Jace/Snutt Pioneer skins?](../../../transcriptions/yt-ikM8j671oEc.md) [https://www.youtube.com/watch?v=ikM8j671oEc](https://www.youtube.com/watch?v=ikM8j671oEc)
 * [Q&A: Will avatar skins be added to the game?](../../../transcriptions/yt-imDJ1KxXSgM.md) [https://www.youtube.com/watch?v=imDJ1KxXSgM](https://www.youtube.com/watch?v=imDJ1KxXSgM)

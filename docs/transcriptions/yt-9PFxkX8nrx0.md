@@ -3,7 +3,7 @@ title: "May 18th, 2021 Livestream Snutt & Jace Talk: Update 5 Patch Notes video"
 date: "2021-05-18"
 layout: transcript
 topics:
-    - "off-topic/pizza"
+    - "off-topic/food-drink/pizza"
     - "off-topic/sweden"
     - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=9PFxkX8nrx0
 
 ### Topics
-* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
+* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-drink/pizza.md)
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
 

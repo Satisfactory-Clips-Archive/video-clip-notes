@@ -5,6 +5,13 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## June 18th, 2021 Livestream
+* Jace Talk: Build Modes in Update 5 [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201)
+
+## June 15th, 2021 Livestream
+* [State of Dev: Update 5](../../transcriptions/yt-4jZUVUeNXKQ.md) [https://www.youtube.com/watch?v=4jZUVUeNXKQ](https://www.youtube.com/watch?v=4jZUVUeNXKQ)
+* [Q&A: Any plans for quality of life improvements?](../../transcriptions/yt-wRmK8elIiXo.md) [https://www.youtube.com/watch?v=wRmK8elIiXo](https://www.youtube.com/watch?v=wRmK8elIiXo)
+
 ## June 8th, 2021 Livestream
 * [Snutt & Jace Talk: Build Modes vs. manual effort vs. mods vs. save editors](../../transcriptions/yt-Tl2vrQ3oD18.md) [https://www.youtube.com/watch?v=Tl2vrQ3oD18](https://www.youtube.com/watch?v=Tl2vrQ3oD18)
 * [Q&A: Would it be possible to use Copy & Paste functionality on blocks that don't have recipes?](../../transcriptions/yt-xzRjKtWNZIo.md) [https://www.youtube.com/watch?v=xzRjKtWNZIo](https://www.youtube.com/watch?v=xzRjKtWNZIo)

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "off-topic"
-    - "off-topic/semlor"
+    - "off-topic/food-drink/semlor"
 ---
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt & Jace Talk: Comparing foodstuffs to Burgers
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=QI6fPFYrMbE
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Off-Topic](../topics/off-topic.md)
-* [Off-Topic > Semlor](../topics/off-topic/semlor.md)
+* [Off-Topic > Food & Drink > Semlor](../topics/off-topic/food-drink/semlor.md)
 
 ### Transcript
 

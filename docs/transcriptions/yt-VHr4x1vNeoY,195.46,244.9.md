@@ -3,12 +3,14 @@ title: "March 7th, 2019"
 date: "2019-03-07"
 layout: transcript
 topics: 
+    - "features/roadmap"
     - "retail/early-access"
 ---
 # [March 7th, 2019 Q&A: Alpha Test Weekend, Early Access, Regional pricing + more](../2019-03-07.md)
 ## Q&A: Can you tell us more about Early Access?
 https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=195&end=245
 ### Topics
+* [Features > Roadmap](../topics/features/roadmap.md)
 * [Retail > Early Access](../topics/retail/early-access.md)
 
 ### Transcript

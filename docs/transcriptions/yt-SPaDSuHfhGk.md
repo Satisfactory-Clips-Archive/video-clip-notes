@@ -3,14 +3,14 @@ title: "February 16th, 2021 Livestream Q&A: Can we have pizza in-game?"
 date: "2021-02-16"
 layout: transcript
 topics:
-    - "off-topic/pizza"
+    - "off-topic/food-drink/pizza"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Can we have pizza in-game?
 https://www.youtube.com/watch?v=SPaDSuHfhGk
 
 ### Topics
-* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
+* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-drink/pizza.md)
 
 ### Transcript
 

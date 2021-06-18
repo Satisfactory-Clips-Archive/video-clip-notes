@@ -4,6 +4,22 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
 
+## June 18th, 2021 Livestream
+* Q&A: When is Update 5 coming? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132)
+* Jace Talk: Build Modes in Update 5 [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201)
+
+## June 15th, 2021 Livestream
+* [State of Dev: Update 5](../../../transcriptions/yt-4jZUVUeNXKQ.md) [https://www.youtube.com/watch?v=4jZUVUeNXKQ](https://www.youtube.com/watch?v=4jZUVUeNXKQ)
+* [Q&A: TL;DR on State of Dev?](../../../transcriptions/yt-AJZBEJHOvIM.md) [https://www.youtube.com/watch?v=AJZBEJHOvIM](https://www.youtube.com/watch?v=AJZBEJHOvIM)
+* [Q&A: With Update 5 coming this fall, will we get a mid-update patch like with the Fluids Update?](../../../transcriptions/yt-YLYrWKLJLK0.md) [https://www.youtube.com/watch?v=YLYrWKLJLK0](https://www.youtube.com/watch?v=YLYrWKLJLK0)
+* [Snutt & Jace Talk: Update 5](../../../transcriptions/yt-0ytcyyS2clI.md) [https://www.youtube.com/watch?v=0ytcyyS2clI](https://www.youtube.com/watch?v=0ytcyyS2clI)
+* [Q&A: Is Update 5 still shaping up to be the same size as Update 4?](../../../transcriptions/yt-i-QNHs4CWgc.md) [https://www.youtube.com/watch?v=i-QNHs4CWgc](https://www.youtube.com/watch?v=i-QNHs4CWgc)
+* [Q&A: Will Ben's water system be included?](../../../transcriptions/yt-FqnM4ASr440.md) [https://www.youtube.com/watch?v=FqnM4ASr440](https://www.youtube.com/watch?v=FqnM4ASr440)
+* [Q&A: Any optimisations or bug fixes between now and Update 5?](../../../transcriptions/yt-HMOMM2ZmYV8.md) [https://www.youtube.com/watch?v=HMOMM2ZmYV8](https://www.youtube.com/watch?v=HMOMM2ZmYV8)
+* [Q&A: When can we expect development to slow down due to holidays?](../../../transcriptions/yt-6Ql6WH903Zk.md) [https://www.youtube.com/watch?v=6Ql6WH903Zk](https://www.youtube.com/watch?v=6Ql6WH903Zk)
+* [Q&A: Any plans for quality of life improvements?](../../../transcriptions/yt-wRmK8elIiXo.md) [https://www.youtube.com/watch?v=wRmK8elIiXo](https://www.youtube.com/watch?v=wRmK8elIiXo)
+* [Q&A: Will Update 5 break mods?](../../../transcriptions/yt-VoDiMfS0618.md) [https://www.youtube.com/watch?v=VoDiMfS0618](https://www.youtube.com/watch?v=VoDiMfS0618)
+
 ## June 8th, 2021 Livestream
 * [Trolling: We're going to add Tower Defence in Update 5](../../../transcriptions/yt-qwVOrlmH3BU.md) [https://www.youtube.com/watch?v=qwVOrlmH3BU](https://www.youtube.com/watch?v=qwVOrlmH3BU)
 * [Q&A: Drone ports use too many batteries when the player is far away, is there any fix in the works?](../../../transcriptions/yt-px6Cmk_amfI.md) [https://www.youtube.com/watch?v=px6Cmk_amfI](https://www.youtube.com/watch?v=px6Cmk_amfI)

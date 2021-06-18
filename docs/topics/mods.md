@@ -31,6 +31,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## June 15th, 2021 Livestream
+* [Q&A: Will Update 5 break mods?](../transcriptions/yt-VoDiMfS0618.md) [https://www.youtube.com/watch?v=VoDiMfS0618](https://www.youtube.com/watch?v=VoDiMfS0618)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Steam Workshop?](../transcriptions/yt-Ildv99O7E0M.md) [https://www.youtube.com/watch?v=Ildv99O7E0M](https://www.youtube.com/watch?v=Ildv99O7E0M)
 * [Q&A: What's your favourite mod?](../transcriptions/yt-Y_FlnlBYZ2k.md) [https://www.youtube.com/watch?v=Y_FlnlBYZ2k](https://www.youtube.com/watch?v=Y_FlnlBYZ2k)

@@ -4,6 +4,7 @@ date: "2020-02-11"
 layout: transcript
 topics:
     - "merch"
+    - "off-topic/food-drink/coffee"
 ---
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: I'd love your Coffee?
@@ -13,6 +14,7 @@ This question was possibly duplicated with a more recent answer: August 11th, 20
 
 ### Topics
 * [Merch](../topics/merch.md)
+* [Off-Topic > Food & Drink > Coffee](../topics/off-topic/food-drink/coffee.md)
 
 ### Transcript
 

@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
+## June 15th, 2021 Livestream
+* [Q&A: Ever think about Tower Defense?](../../../transcriptions/yt-ElkfY8wg5qs.md) [https://www.youtube.com/watch?v=ElkfY8wg5qs](https://www.youtube.com/watch?v=ElkfY8wg5qs)
+* [Community FYI: I had Tower Defense Satisfactory for a couple of years already](../../../transcriptions/yt-XZPos5u6IQY.md) [https://www.youtube.com/watch?v=XZPos5u6IQY](https://www.youtube.com/watch?v=XZPos5u6IQY)
+* [Q&A: Can we get another reference to "No" on Factory Defense?](../../../transcriptions/yt-1DkSWmgD1Ws.md) [https://www.youtube.com/watch?v=1DkSWmgD1Ws](https://www.youtube.com/watch?v=1DkSWmgD1Ws)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Turrets & shit?](../../../transcriptions/yt-KPUcYM5lOac.md) [https://www.youtube.com/watch?v=KPUcYM5lOac](https://www.youtube.com/watch?v=KPUcYM5lOac)
 * [Trolling: We're going to add Tower Defence in Update 5](../../../transcriptions/yt-qwVOrlmH3BU.md) [https://www.youtube.com/watch?v=qwVOrlmH3BU](https://www.youtube.com/watch?v=qwVOrlmH3BU)

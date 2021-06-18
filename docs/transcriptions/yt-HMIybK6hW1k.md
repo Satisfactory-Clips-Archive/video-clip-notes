@@ -8,6 +8,8 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: If you have plans to alter the current map, what about bases that are already set up?
 https://www.youtube.com/watch?v=HMIybK6hW1k
+This question was possibly replaced with a more recent answer: [June 15th, 2021 Livestream Q&A: Will we get notified in advance of Map changes so we can repair our builds?](./yt-QHQ60VKYtS4.md) [https://www.youtube.com/watch?v=QHQ60VKYtS4](https://www.youtube.com/watch?v=QHQ60VKYtS4)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)

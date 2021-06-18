@@ -4,6 +4,7 @@ date: "2021-04-27"
 layout: transcript
 topics:
     - "coffee-stainers"
+    - "features/roadmap"
     - "satisfactory-updates"
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/seasonal-events/fics-mas"
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=6HuXkOLqZN8
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
+* [Features > Roadmap](../topics/features/roadmap.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)

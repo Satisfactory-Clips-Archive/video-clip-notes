@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## June 15th, 2021 Livestream
+* [State of Dev: Upcoming Streams & Videos about Update 4](../../../transcriptions/yt-JraxPzBMwyQ.md) [https://www.youtube.com/watch?v=JraxPzBMwyQ](https://www.youtube.com/watch?v=JraxPzBMwyQ)
+* [Q&A: Is Update 5 still shaping up to be the same size as Update 4?](../../../transcriptions/yt-i-QNHs4CWgc.md) [https://www.youtube.com/watch?v=i-QNHs4CWgc](https://www.youtube.com/watch?v=i-QNHs4CWgc)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](../../../transcriptions/yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)
 

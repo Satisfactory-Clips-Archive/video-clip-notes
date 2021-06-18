@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## June 15th, 2021 Livestream
+* [Q&A: Which came first, the resource Sink or the AWESOME Shop?](../../../transcriptions/yt-QTacw-RA8YA.md) [https://www.youtube.com/watch?v=QTacw-RA8YA](https://www.youtube.com/watch?v=QTacw-RA8YA)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Toilet Paper DLC?](../../../transcriptions/yt-BEv9D4YpBJk.md) [https://www.youtube.com/watch?v=BEv9D4YpBJk](https://www.youtube.com/watch?v=BEv9D4YpBJk)
 

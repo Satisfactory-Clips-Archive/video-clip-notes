@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: How many people signed up after E3?"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - ""
+    - "off-topic/e3"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How many people signed up after E3?
 https://www.youtube.com/watch?v=VeuGeA9Kzkc
 
 ### Topics
-
+* [Off-Topic > E3](../topics/off-topic/e3.md)
 
 ### Transcript
 

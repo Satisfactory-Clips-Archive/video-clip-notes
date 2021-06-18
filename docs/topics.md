@@ -113,6 +113,7 @@ date: Last Modified
 * [Paint](./topics/features/paint.md)
 * [Photo Mode](./topics/features/photo-mode.md)
 * [Pioneer](./topics/features/pioneer.md)
+* [Roadmap](./topics/features/roadmap.md)
 
 ## [Accessibility](./topics/features/accessibility.md)
 * [Arachnophobia Mode](./topics/features/accessibility/arachnophobia-mode.md)
@@ -291,6 +292,7 @@ date: Last Modified
 * [Localisation](./topics/localisation.md)
 
 # [Merch](./topics/merch.md)
+* [EU Merch Store](./topics/merch/eu-merch-store.md)
 
 ## [Merch Prototypes](./topics/merch/merch-prototypes.md)
 * [FICSIT Cup Prototypes](./topics/merch/merch-prototypes/ficsit-cup-prototypes.md)
@@ -330,17 +332,23 @@ date: Last Modified
 
 # [Off-Topic](./topics/off-topic.md)
 * [Deep Rock Galactic](./topics/off-topic/deep-rock-galactic.md)
+* [E3](./topics/off-topic/e3.md)
 * [Factorio](./topics/off-topic/factorio.md)
 * [Goat Simulator](./topics/off-topic/goat-simulator.md)
 * [Infinifactory](./topics/off-topic/infinifactory.md)
-* [Pizza](./topics/off-topic/pizza.md)
 * [Sanctum](./topics/off-topic/sanctum.md)
-* [Semlor](./topics/off-topic/semlor.md)
+* [Songs of Conquest](./topics/off-topic/songs-of-conquest.md)
 * [Subnautica](./topics/off-topic/subnautica.md)
 * [Sweden](./topics/off-topic/sweden.md)
 * [Terrible Jokes](./topics/off-topic/terrible-jokes.md)
 * [The Cycle](./topics/off-topic/the-cycle.md)
 * [Valheim](./topics/off-topic/valheim.md)
+
+## [Food & Drink](./topics/off-topic/food-drink.md)
+* [Coffee](./topics/off-topic/food-drink/coffee.md)
+* [Milk](./topics/off-topic/food-drink/milk.md)
+* [Pizza](./topics/off-topic/food-drink/pizza.md)
+* [Semlor](./topics/off-topic/food-drink/semlor.md)
 ---
 * [QA Site](./topics/qa-site.md)
 

@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Are you going to be able to change characters?
 https://www.youtube.com/watch?v=GymA7otvYYo
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Will avatar skins be added to the game?](./yt-imDJ1KxXSgM.md) [https://www.youtube.com/watch?v=imDJ1KxXSgM](https://www.youtube.com/watch?v=imDJ1KxXSgM)
+This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Any plans to change the Pioneer trim colour so you can differentiate each other on Multiplayer?](./yt-ox4zHZlziCg.md) [https://www.youtube.com/watch?v=ox4zHZlziCg](https://www.youtube.com/watch?v=ox4zHZlziCg)
 
 
 ### Topics

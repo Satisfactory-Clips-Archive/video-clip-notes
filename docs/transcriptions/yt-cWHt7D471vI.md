@@ -4,7 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "off-topic"
-    - "off-topic/pizza"
+    - "off-topic/food-drink/pizza"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Pizza with seafood?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=cWHt7D471vI
 
 ### Topics
 * [Off-Topic](../topics/off-topic.md)
-* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
+* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-drink/pizza.md)
 
 ### Transcript
 

@@ -4,6 +4,7 @@ date: "2021-05-11"
 layout: transcript
 topics:
     - "features/fluids/pipes"
+    - "features/roadmap"
     - "satisfactory-updates/pending/satisfactory-1-0"
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-3"
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=bIyYDcFuAhA
 
 ### Topics
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
+* [Features > Roadmap](../topics/features/roadmap.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)

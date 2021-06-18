@@ -5,6 +5,7 @@ layout: transcript
 topics: 
     - "localisation"
     - "satisfactory-updates"
+    - "features/roadmap"
 ---
 # [May 14th, 2019 End of April™ Update](../2019-05-14.md)
 ## Jace Talk: Opening up Localisation & changing Roadmap
@@ -12,6 +13,7 @@ https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=31&end=56
 ### Topics
 * [Localisation](../topics/localisation.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
+* [Features > Roadmap](../topics/features/roadmap.md)
 
 ### Transcript
 

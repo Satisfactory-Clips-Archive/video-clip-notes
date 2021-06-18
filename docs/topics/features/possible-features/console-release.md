@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+## June 15th, 2021 Livestream
+* [Q&A: Satisfactory on Playdate, when?](../../../transcriptions/yt-eFFICs_dlwo.md) [https://www.youtube.com/watch?v=eFFICs_dlwo](https://www.youtube.com/watch?v=eFFICs_dlwo)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Any plans for Mac or Linux?](../../../transcriptions/yt-nhwUgABKGmE.md) [https://www.youtube.com/watch?v=nhwUgABKGmE](https://www.youtube.com/watch?v=nhwUgABKGmE)
 * [Q&A: Can we expect a console release in 2022?](../../../transcriptions/yt-u1rxQ_Hwo-U.md) [https://www.youtube.com/watch?v=u1rxQ_Hwo-U](https://www.youtube.com/watch?v=u1rxQ_Hwo-U)

@@ -4,6 +4,7 @@ date: "2020-09-22"
 layout: transcript
 topics:
     - "merch"
+    - "merch/eu-merch-store"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Any information on Merch shipping to EU/rest of the world?
@@ -13,6 +14,7 @@ This question was possibly duplicated with a more recent answer: [May 25th, 2021
 
 ### Topics
 * [Merch](../topics/merch.md)
+* [Merch > EU Merch Store](../topics/merch/eu-merch-store.md)
 
 ### Transcript
 

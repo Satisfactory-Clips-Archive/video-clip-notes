@@ -3,6 +3,7 @@ title: "March 23rd, 2021 Livestream Q&A: Please can I have the future Roadmap ba
 date: "2021-03-23"
 layout: transcript
 topics:
+    - "features/roadmap"
     - "satisfactory-updates"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
@@ -12,6 +13,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
+* [Features > Roadmap](../topics/features/roadmap.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
 
 ### Transcript

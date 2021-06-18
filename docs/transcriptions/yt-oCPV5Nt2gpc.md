@@ -3,14 +3,14 @@ title: "April 27th, 2021 Livestream Snutt Talk: EU Merch"
 date: "2021-04-27"
 layout: transcript
 topics:
-    - "merch"
+    - "merch/eu-merch-store"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Snutt Talk: EU Merch
 https://www.youtube.com/watch?v=oCPV5Nt2gpc
 
 ### Topics
-* [Merch](../topics/merch.md)
+* [Merch > EU Merch Store](../topics/merch/eu-merch-store.md)
 
 ### Transcript
 

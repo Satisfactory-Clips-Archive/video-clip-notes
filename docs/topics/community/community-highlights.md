@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: Goat Simulator, Sanctum, and Rocket League](../../transcriptions/yt-5Tu2HsXRQNg.md) [https://www.youtube.com/watch?v=5Tu2HsXRQNg](https://www.youtube.com/watch?v=5Tu2HsXRQNg)
+* [Snutt & Jace Talk: Swedish saying "V" for "W"](../../transcriptions/yt-2DwvxQ3H1Iw.md) [https://www.youtube.com/watch?v=2DwvxQ3H1Iw](https://www.youtube.com/watch?v=2DwvxQ3H1Iw)
+* Community Highlights: Compact build for Modular Frame production [https://www.youtube.com/watch?v=HAJvhJRVol0](https://www.youtube.com/watch?v=HAJvhJRVol0)
+
 ## June 8th, 2021 Livestream
 * [Snutt & Jace Talk: Build Modes vs. manual effort vs. mods vs. save editors](../../transcriptions/yt-Tl2vrQ3oD18.md) [https://www.youtube.com/watch?v=Tl2vrQ3oD18](https://www.youtube.com/watch?v=Tl2vrQ3oD18)
 

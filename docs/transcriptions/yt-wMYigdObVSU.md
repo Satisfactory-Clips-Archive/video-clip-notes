@@ -4,7 +4,7 @@ date: "2021-06-01"
 layout: transcript
 topics:
     - "june-2021-epic-mega-sale-stream"
-    - "off-topic/pizza"
+    - "off-topic/food-drink/pizza"
     - "trolling"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=wMYigdObVSU
 
 ### Topics
 * [June 2021 Epic Mega Sale Stream](../topics/june-2021-epic-mega-sale-stream.md)
-* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
+* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-drink/pizza.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

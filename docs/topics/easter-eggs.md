@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: Goat Simulator, Sanctum, and Rocket League](../transcriptions/yt-5Tu2HsXRQNg.md) [https://www.youtube.com/watch?v=5Tu2HsXRQNg](https://www.youtube.com/watch?v=5Tu2HsXRQNg)
+
 ## May 25th, 2021 Livestream
 * [Q&A: What's the memeiest and stupidest thing you've seen a dev add in?](../transcriptions/yt-qYRsGrGlVqg.md) [https://www.youtube.com/watch?v=qYRsGrGlVqg](https://www.youtube.com/watch?v=qYRsGrGlVqg)
 * [Q&A: When can we get a Goat in Satisfactory?](../transcriptions/yt-KlD55eNxra0.md) [https://www.youtube.com/watch?v=KlD55eNxra0](https://www.youtube.com/watch?v=KlD55eNxra0)

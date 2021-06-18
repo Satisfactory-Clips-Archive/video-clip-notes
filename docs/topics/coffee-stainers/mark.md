@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## June 15th, 2021 Livestream
+* [Q&A: Is Director Mark's christmas video still canon, will we get that tea cup?](../../transcriptions/yt-Cq-UPGtRNGM.md) [https://www.youtube.com/watch?v=Cq-UPGtRNGM](https://www.youtube.com/watch?v=Cq-UPGtRNGM)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](../../transcriptions/yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)
 * [Q&A: Did you nerf the Hover Pack?](../../transcriptions/yt-7TMMfAe4qD8.md) [https://www.youtube.com/watch?v=7TMMfAe4qD8](https://www.youtube.com/watch?v=7TMMfAe4qD8)

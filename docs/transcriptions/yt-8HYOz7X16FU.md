@@ -6,6 +6,7 @@ topics:
     - "features/fluids/pipes"
     - "features/possible-features/weather-systems"
     - "features/power-management"
+    - "features/roadmap"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
@@ -16,6 +17,7 @@ https://www.youtube.com/watch?v=8HYOz7X16FU
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
 * [Features > Power Management](../topics/features/power-management.md)
+* [Features > Roadmap](../topics/features/roadmap.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript

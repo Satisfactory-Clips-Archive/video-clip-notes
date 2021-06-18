@@ -4,7 +4,7 @@ date: "2021-05-04"
 layout: transcript
 topics:
     - "coffee-stainers/snutt/snutt-burger-time"
-    - "off-topic/pizza"
+    - "off-topic/food-drink/pizza"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Is it burger time?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=FU1oVPY_HJg
 
 ### Topics
 * [Coffee Stainers > Snutt > Snutt Burger Time](../topics/coffee-stainers/snutt/snutt-burger-time.md)
-* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
+* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-drink/pizza.md)
 
 ### Transcript
 

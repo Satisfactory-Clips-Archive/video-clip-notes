@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: The new agenda overlay](../../transcriptions/yt-8o_ceVd1d2M.md) [https://www.youtube.com/watch?v=8o_ceVd1d2M](https://www.youtube.com/watch?v=8o_ceVd1d2M)
+* [Snutt & Jace Talk: Snutt corpsing over Walker Texas Ranger reference](../../transcriptions/yt-K6y-gXrVWHY.md) [https://www.youtube.com/watch?v=K6y-gXrVWHY](https://www.youtube.com/watch?v=K6y-gXrVWHY)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Do you guys play Deep Rock Galactic, too?](../../transcriptions/yt-R-q9Y-ZbTuk.md) [https://www.youtube.com/watch?v=R-q9Y-ZbTuk](https://www.youtube.com/watch?v=R-q9Y-ZbTuk)
 * [Q&A: Is today flannel shirt day?](../../transcriptions/yt-9AZgSf8XOFI.md) [https://www.youtube.com/watch?v=9AZgSf8XOFI](https://www.youtube.com/watch?v=9AZgSf8XOFI)
@@ -130,7 +134,7 @@ date: Last Modified
 * [Jace Talk: Snutt was 99% of the work, I just showed up for filming](../../transcriptions/yt-IvB72E76hww.md) [https://www.youtube.com/watch?v=IvB72E76hww](https://www.youtube.com/watch?v=IvB72E76hww)
 * [Snutt & Jace Talk: Our working relationship](../../transcriptions/yt-HUrd9HUjA28.md) [https://www.youtube.com/watch?v=HUrd9HUjA28](https://www.youtube.com/watch?v=HUrd9HUjA28)
 * [Snutt & Jace Talk: My beanie hit my eye and I got a shoey with a shoelace in this one](../../transcriptions/yt-KDeO0odxt2Q.md) [https://www.youtube.com/watch?v=KDeO0odxt2Q](https://www.youtube.com/watch?v=KDeO0odxt2Q)
-* [Snutt & Jace Talk: Drinking together on steam?](../../transcriptions/yt-iW3bjJrRtS4.md) [https://www.youtube.com/watch?v=iW3bjJrRtS4](https://www.youtube.com/watch?v=iW3bjJrRtS4)
+* [Snutt & Jace Talk: Drinking together on stream?](../../transcriptions/yt-iW3bjJrRtS4.md) [https://www.youtube.com/watch?v=iW3bjJrRtS4](https://www.youtube.com/watch?v=iW3bjJrRtS4)
 * [Community FYI: When you were the only CM it was pretty bad. Now Snutt is here, it's somehow worse](../../transcriptions/yt-yXuVNumkDhw.md) [https://www.youtube.com/watch?v=yXuVNumkDhw](https://www.youtube.com/watch?v=yXuVNumkDhw)
 * [Community FYI: Cryin in the club WHAT GOOD BOYS](../../transcriptions/yt-y6IBtn49nFk.md) [https://www.youtube.com/watch?v=y6IBtn49nFk](https://www.youtube.com/watch?v=y6IBtn49nFk)
 * [Snutt & Jace Talk: Rock climbing](../../transcriptions/yt-00F3FYkTJpQ.md) [https://www.youtube.com/watch?v=00F3FYkTJpQ](https://www.youtube.com/watch?v=00F3FYkTJpQ)

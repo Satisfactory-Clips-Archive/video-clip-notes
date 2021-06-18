@@ -3,7 +3,14 @@ title: "Merch"
 date: Last Modified
 ---
 # [Topics](../topics.md) > Merch
+* [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
+
+## June 18th, 2021 Livestream
+* Jace Talk: Merch Updates & EU Store [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=492&end=544](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=492&end=544)
+
+## June 15th, 2021 Livestream
+* [Q&A: Any Coffee Cup Merch update?](../transcriptions/yt-Z6XM978pvyw.md) [https://www.youtube.com/watch?v=Z6XM978pvyw](https://www.youtube.com/watch?v=Z6XM978pvyw)
 
 ## June 8th, 2021 Livestream
 * [State of Dev: Merch](../transcriptions/yt-P3W4GvCIDf4.md) [https://www.youtube.com/watch?v=P3W4GvCIDf4](https://www.youtube.com/watch?v=P3W4GvCIDf4)
@@ -15,7 +22,6 @@ date: Last Modified
 ## May 25th, 2021 Livestream
 * [Q&A: How many Doggos are there in the world?](../transcriptions/yt-PtsEfgW-R7o.md) [https://www.youtube.com/watch?v=PtsEfgW-R7o](https://www.youtube.com/watch?v=PtsEfgW-R7o)
 * [Q&A: What about the enamel cup?](../transcriptions/yt-bv7CJbAYnBM.md) [https://www.youtube.com/watch?v=bv7CJbAYnBM](https://www.youtube.com/watch?v=bv7CJbAYnBM)
-* [Q&A: EU Shop?](../transcriptions/yt-GRcTICKsCGM.md) [https://www.youtube.com/watch?v=GRcTICKsCGM](https://www.youtube.com/watch?v=GRcTICKsCGM)
 
 ## May 18th, 2021 Livestream
 * [Q&A: Any news about the Cup?](../transcriptions/yt-j-2qEMyqXCY.md) [https://www.youtube.com/watch?v=j-2qEMyqXCY](https://www.youtube.com/watch?v=j-2qEMyqXCY)
@@ -30,7 +36,6 @@ date: Last Modified
 ## April 27th, 2021 Livestream
 * [Q&A: Is that the Keanu Reeves MSPaint shirt?](../transcriptions/yt-xBFNJxkeLmM.md) [https://www.youtube.com/watch?v=xBFNJxkeLmM](https://www.youtube.com/watch?v=xBFNJxkeLmM)
 * [State of Dev: Merch](../transcriptions/yt-m8P1TtWkSpM.md) [https://www.youtube.com/watch?v=m8P1TtWkSpM](https://www.youtube.com/watch?v=m8P1TtWkSpM)
-* [Snutt Talk: EU Merch](../transcriptions/yt-oCPV5Nt2gpc.md) [https://www.youtube.com/watch?v=oCPV5Nt2gpc](https://www.youtube.com/watch?v=oCPV5Nt2gpc)
 * [Q&A: Is the shirt official Merch?](../transcriptions/yt-st4oh2S3XHk.md) [https://www.youtube.com/watch?v=st4oh2S3XHk](https://www.youtube.com/watch?v=st4oh2S3XHk)
 
 ## April 6th, 2021 Livestream
@@ -72,7 +77,6 @@ date: Last Modified
 * [State of Dev: Mug Merch](../transcriptions/yt-sDMER4xm8Gc.md) [https://www.youtube.com/watch?v=sDMER4xm8Gc](https://www.youtube.com/watch?v=sDMER4xm8Gc)
 
 ## December 15th, 2020 Livestream
-* [Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy?](../transcriptions/yt-PYyvu8feZqA.md) [https://www.youtube.com/watch?v=PYyvu8feZqA](https://www.youtube.com/watch?v=PYyvu8feZqA)
 * [Q&A: Coffee Mugs?](../transcriptions/yt-DuGUOXyGtHg.md) [https://www.youtube.com/watch?v=DuGUOXyGtHg](https://www.youtube.com/watch?v=DuGUOXyGtHg)
 
 ## December 11th, 2020 Teasers
@@ -96,10 +100,8 @@ date: Last Modified
 * [Jace Talk: Merch Shipping outside of the US](../transcriptions/yt-dPyS44dffR8.md) [https://www.youtube.com/watch?v=dPyS44dffR8](https://www.youtube.com/watch?v=dPyS44dffR8)
 
 ## October 13th, 2020 Livestream
-* [Q&A: When will the Merch be sold in the EU?](../transcriptions/yt-cLOvb6pC788.md) [https://www.youtube.com/watch?v=cLOvb6pC788](https://www.youtube.com/watch?v=cLOvb6pC788)
 * [Q&A: What about the Mug?](../transcriptions/yt-IVy_-gV3h6M.md) [https://www.youtube.com/watch?v=IVy_-gV3h6M](https://www.youtube.com/watch?v=IVy_-gV3h6M)
 * [Q&A: Update on the Mug?](../transcriptions/yt-9e8Q65g3HWI.md) [https://www.youtube.com/watch?v=9e8Q65g3HWI](https://www.youtube.com/watch?v=9e8Q65g3HWI)
-* [Q&A: Info on EU shopping for Merch?](../transcriptions/yt-D3uJQzZmGQM.md) [https://www.youtube.com/watch?v=D3uJQzZmGQM](https://www.youtube.com/watch?v=D3uJQzZmGQM)
 
 ## October 6th, 2020 Livestream
 * [Q&A: Any Update on Merch shipping alternatives?](../transcriptions/yt-kj_vdE5-CEI.md) [https://www.youtube.com/watch?v=kj_vdE5-CEI](https://www.youtube.com/watch?v=kj_vdE5-CEI)
@@ -120,7 +122,6 @@ date: Last Modified
 
 ## September 15th, 2020 Livestream
 * [Q&A: The Mug?](../transcriptions/yt-mg0CAgdI5S8.md) [https://www.youtube.com/watch?v=mg0CAgdI5S8](https://www.youtube.com/watch?v=mg0CAgdI5S8)
-* [Q&A: Any news on EU Merch?](../transcriptions/yt-IXeIE9qV-lA.md) [https://www.youtube.com/watch?v=IXeIE9qV-lA](https://www.youtube.com/watch?v=IXeIE9qV-lA)
 * [Q&A: FICSIT Coin?](../transcriptions/yt-QNG_fe9s3W8.md) [https://www.youtube.com/watch?v=QNG_fe9s3W8](https://www.youtube.com/watch?v=QNG_fe9s3W8)
 
 ## September 9th, 2020 Video
@@ -133,7 +134,6 @@ date: Last Modified
 
 ## September 8th, 2020 Livestream
 * [Q&A: Releasing a Vinyl on the Merch Store ?](../transcriptions/yt-DeEK7w3qPyg.md) [https://www.youtube.com/watch?v=DeEK7w3qPyg](https://www.youtube.com/watch?v=DeEK7w3qPyg)
-* [Q&A: Will there be a european Merch store?](../transcriptions/yt-GhfR61WpR6k.md) [https://www.youtube.com/watch?v=GhfR61WpR6k](https://www.youtube.com/watch?v=GhfR61WpR6k)
 
 ## September 1st, 2020 Livestream
 * [Q&A: What about the Merch?](../transcriptions/yt-jQyDj_wa0LA.md) [https://www.youtube.com/watch?v=jQyDj_wa0LA](https://www.youtube.com/watch?v=jQyDj_wa0LA)

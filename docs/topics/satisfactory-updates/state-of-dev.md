@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: State of Dev](../../transcriptions/yt-Fcv4E8SFUe0.md) [https://www.youtube.com/watch?v=Fcv4E8SFUe0](https://www.youtube.com/watch?v=Fcv4E8SFUe0)
+* [State of Dev: Update 5](../../transcriptions/yt-4jZUVUeNXKQ.md) [https://www.youtube.com/watch?v=4jZUVUeNXKQ](https://www.youtube.com/watch?v=4jZUVUeNXKQ)
+* [State of Dev: Dedicated Servers](../../transcriptions/yt-S0OIEMuz-WU.md) [https://www.youtube.com/watch?v=S0OIEMuz-WU](https://www.youtube.com/watch?v=S0OIEMuz-WU)
+* [Q&A: TL;DR on State of Dev?](../../transcriptions/yt-AJZBEJHOvIM.md) [https://www.youtube.com/watch?v=AJZBEJHOvIM](https://www.youtube.com/watch?v=AJZBEJHOvIM)
+* [Snutt & Jace Talk: Update 5](../../transcriptions/yt-0ytcyyS2clI.md) [https://www.youtube.com/watch?v=0ytcyyS2clI](https://www.youtube.com/watch?v=0ytcyyS2clI)
+
 ## June 8th, 2021 Livestream
 * [State of Dev: Dedicated Servers](../../transcriptions/yt-uzSAawwW6EA.md) [https://www.youtube.com/watch?v=uzSAawwW6EA](https://www.youtube.com/watch?v=uzSAawwW6EA)
 * [State of Dev: Update 5](../../transcriptions/yt-iZuz7S6SauA.md) [https://www.youtube.com/watch?v=iZuz7S6SauA](https://www.youtube.com/watch?v=iZuz7S6SauA)

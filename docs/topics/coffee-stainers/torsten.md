@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Torsten
 
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: The new agenda overlay](../../transcriptions/yt-8o_ceVd1d2M.md) [https://www.youtube.com/watch?v=8o_ceVd1d2M](https://www.youtube.com/watch?v=8o_ceVd1d2M)
+
 ## April 13th, 2021 Livestream
 * Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045)
 

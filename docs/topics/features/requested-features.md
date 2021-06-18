@@ -9,6 +9,9 @@ date: Last Modified
 * [Holstering Equipment](../../topics/features/requested-features/holstering-equipment.md)
 * [Multiple Body Slots](../../topics/features/requested-features/multiple-body-slots.md)
 
+## June 15th, 2021 Livestream
+* [Q&A: Have you considered making actual Hyper Tube boosters?](../../transcriptions/yt-Oz3Y-caTPTY.md) [https://www.youtube.com/watch?v=Oz3Y-caTPTY](https://www.youtube.com/watch?v=Oz3Y-caTPTY)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Please, teleporters?](../../transcriptions/yt-dNPT8HQ3qRk.md) [https://www.youtube.com/watch?v=dNPT8HQ3qRk](https://www.youtube.com/watch?v=dNPT8HQ3qRk)
 

@@ -4,7 +4,7 @@ date: "2021-01-12"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "off-topic/pizza"
+    - "off-topic/food-drink/pizza"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: When will Coffee Stain get Jace a pizza oven?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=LRsn8Qz3fms
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
+* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-drink/pizza.md)
 
 ### Transcript
 

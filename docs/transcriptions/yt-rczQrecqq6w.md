@@ -10,6 +10,8 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Will there be an Update 4.5?
 https://www.youtube.com/watch?v=rczQrecqq6w
+This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: With Update 5 coming this fall, will we get a mid-update patch like with the Fluids Update?](./yt-YLYrWKLJLK0.md) [https://www.youtube.com/watch?v=YLYrWKLJLK0](https://www.youtube.com/watch?v=YLYrWKLJLK0)
+
 
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)

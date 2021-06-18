@@ -4,6 +4,7 @@ date: "2021-02-16"
 layout: transcript
 topics:
     - "community"
+    - "off-topic/songs-of-conquest"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Community FYI: Songs of Conquest is pretty pog
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=8EnjSSJGeBI
 
 ### Topics
 * [Community](../topics/community.md)
+* [Off-Topic > Songs of Conquest](../topics/off-topic/songs-of-conquest.md)
 
 ### Transcript
 

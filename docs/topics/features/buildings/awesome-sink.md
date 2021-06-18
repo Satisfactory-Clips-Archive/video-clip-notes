@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
+## June 15th, 2021 Livestream
+* [Q&A: Which came first, the resource Sink or the AWESOME Shop?](../../../transcriptions/yt-QTacw-RA8YA.md) [https://www.youtube.com/watch?v=QTacw-RA8YA](https://www.youtube.com/watch?v=QTacw-RA8YA)
+
 ## June 1st, 2021 Livestream
 * Q&A: Does the Toilet DLC feed into AWESOME Sink? [https://www.youtube.com/watch?v=Ka4Y6908xq0](https://www.youtube.com/watch?v=Ka4Y6908xq0)
 

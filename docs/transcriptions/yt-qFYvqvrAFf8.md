@@ -4,7 +4,7 @@ date: "2019-12-19"
 layout: transcript
 topics:
     - "coffee-stainers/simon"
-    - "off-topic/pizza"
+    - "off-topic/food-drink/pizza"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Has Simon tried key pizza?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=qFYvqvrAFf8
 
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
-* [Off-Topic > Pizza](../topics/off-topic/pizza.md)
+* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-drink/pizza.md)
 
 ### Transcript
 

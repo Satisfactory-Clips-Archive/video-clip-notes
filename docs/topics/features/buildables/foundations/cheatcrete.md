@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Buildables](../../../../topics/features/buildables.md) > [Foundations](../../../../topics/features/buildables/foundations.md) > Cheatcrete
 
+## June 18th, 2021 Livestream
+* Jace Talk: Build Modes in Update 5 [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201)
+
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: Update 5](../../../../transcriptions/yt-0ytcyyS2clI.md) [https://www.youtube.com/watch?v=0ytcyyS2clI](https://www.youtube.com/watch?v=0ytcyyS2clI)
+
 ## May 25th, 2021 Livestream
 * [State of Dev: Update 5](../../../../transcriptions/yt-rz0oD16hpGw.md) [https://www.youtube.com/watch?v=rz0oD16hpGw](https://www.youtube.com/watch?v=rz0oD16hpGw)
 * [Q&A: Recap State of Dev?](../../../../transcriptions/yt-GEQE1mXk1cg.md) [https://www.youtube.com/watch?v=GEQE1mXk1cg](https://www.youtube.com/watch?v=GEQE1mXk1cg)

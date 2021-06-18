@@ -33,6 +33,13 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## June 18th, 2021 Livestream
+* Q&A: When is Update 5 coming? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132)
+* Jace Talk: Dedicated Servers [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493)
+
+## June 15th, 2021 Livestream
+* [Q&A: When can we expect development to slow down due to holidays?](../transcriptions/yt-6Ql6WH903Zk.md) [https://www.youtube.com/watch?v=6Ql6WH903Zk](https://www.youtube.com/watch?v=6Ql6WH903Zk)
+
 ## June 8th, 2021 Livestream
 * [State of Dev: Dedicated Servers](../transcriptions/yt-uzSAawwW6EA.md) [https://www.youtube.com/watch?v=uzSAawwW6EA](https://www.youtube.com/watch?v=uzSAawwW6EA)
 * [Jace Talk: On making suggestions](../transcriptions/yt-DzDBVPQEZ2A.md) [https://www.youtube.com/watch?v=DzDBVPQEZ2A](https://www.youtube.com/watch?v=DzDBVPQEZ2A)

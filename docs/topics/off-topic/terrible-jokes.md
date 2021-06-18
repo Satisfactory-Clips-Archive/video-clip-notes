@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Terrible Jokes
 
+## June 15th, 2021 Livestream
+* [Snutt & Jace Talk: Muted, yet again](../../transcriptions/yt-lm95vcIEOUA.md) [https://www.youtube.com/watch?v=lm95vcIEOUA](https://www.youtube.com/watch?v=lm95vcIEOUA)
+* [Snutt & Jace Talk: Let's raid E3](../../transcriptions/yt-lGExVXdrydY.md) [https://www.youtube.com/watch?v=lGExVXdrydY](https://www.youtube.com/watch?v=lGExVXdrydY)
+* [Q&A: Can we get another reference to "No" on Factory Defense?](../../transcriptions/yt-1DkSWmgD1Ws.md) [https://www.youtube.com/watch?v=1DkSWmgD1Ws](https://www.youtube.com/watch?v=1DkSWmgD1Ws)
+* [Snutt & Jace Talk: Snutt corpsing over Walker Texas Ranger reference](../../transcriptions/yt-K6y-gXrVWHY.md) [https://www.youtube.com/watch?v=K6y-gXrVWHY](https://www.youtube.com/watch?v=K6y-gXrVWHY)
+
 ## May 25th, 2021 Livestream
 * [Terrible Jokes: Muted](../../transcriptions/yt-YLPrsAFrPRQ.md) [https://www.youtube.com/watch?v=YLPrsAFrPRQ](https://www.youtube.com/watch?v=YLPrsAFrPRQ)
 

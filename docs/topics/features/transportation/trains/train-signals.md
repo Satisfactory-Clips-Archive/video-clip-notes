@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## June 18th, 2021 Livestream
+* Jace Talk: Train Updates [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=200&end=249](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=200&end=249)
+
 ## June 8th, 2021 Livestream
 * [Q&A: When Train Update?](../../../../transcriptions/yt-6UkeKRs-WVw.md) [https://www.youtube.com/watch?v=6UkeKRs-WVw](https://www.youtube.com/watch?v=6UkeKRs-WVw)
 
