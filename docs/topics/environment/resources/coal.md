@@ -21,7 +21,7 @@ date: Last Modified
 * [Q&A: Like prioritise Coal over Nuclear?](../../../transcriptions/yt-IdKhbyR81Nw.md) [https://www.youtube.com/watch?v=IdKhbyR81Nw](https://www.youtube.com/watch?v=IdKhbyR81Nw)
 
 ## January 19th, 2021 Livestream
-* [Q&A: Will alternative recipes change with Update 4?](../../../transcriptions/yt-mwrYWPHr4jk.md) [https://www.youtube.com/watch?v=mwrYWPHr4jk](https://www.youtube.com/watch?v=mwrYWPHr4jk)
+* [Q&A: Will Alternative Recipes change with Update 4?](../../../transcriptions/yt-mwrYWPHr4jk.md) [https://www.youtube.com/watch?v=mwrYWPHr4jk](https://www.youtube.com/watch?v=mwrYWPHr4jk)
 
 ## November 17th, 2020 Livestream
 * [Q&A: Mk.0 Iron Trains that you can power with cOAL](../../../transcriptions/yt-cxtWo3QNH0I.md) [https://www.youtube.com/watch?v=cxtWo3QNH0I](https://www.youtube.com/watch?v=cxtWo3QNH0I)

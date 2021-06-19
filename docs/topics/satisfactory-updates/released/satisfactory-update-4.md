@@ -380,7 +380,7 @@ date: Last Modified
 * [Q&A: Can we see a sneak-peek video?](../../../transcriptions/yt-w0h08ctpsz4.md) [https://www.youtube.com/watch?v=w0h08ctpsz4](https://www.youtube.com/watch?v=w0h08ctpsz4)
 * [Q&A: What is blocking you now from releasing Update 4, Story elements, Buildings, Maps?](../../../transcriptions/yt-pCwOyYQ1f6Y.md) [https://www.youtube.com/watch?v=pCwOyYQ1f6Y](https://www.youtube.com/watch?v=pCwOyYQ1f6Y)
 * [Q&A: Will Update 4 be rolled out to Experimental first?](../../../transcriptions/yt-xJ3zk3Yvav0.md) [https://www.youtube.com/watch?v=xJ3zk3Yvav0](https://www.youtube.com/watch?v=xJ3zk3Yvav0)
-* [Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?](../../../transcriptions/yt-zYh_QUHwAh4.md) [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
+* [Q&A: Will Update 4 affect the Refinery Recipes outside of Tier 7?](../../../transcriptions/yt-zYh_QUHwAh4.md) [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
 * [Snutt & Jace Talk: Delete the VOD](../../../transcriptions/yt-MhIaB4UPEP4.md) [https://www.youtube.com/watch?v=MhIaB4UPEP4](https://www.youtube.com/watch?v=MhIaB4UPEP4)
 
 ## January 22nd, 2021 Instagram AMA
@@ -414,7 +414,7 @@ date: Last Modified
 * [Q&A: Will Oil fields be affected by the Update 4 patch?](../../../transcriptions/yt-khEicU2JVzY.md) [https://www.youtube.com/watch?v=khEicU2JVzY](https://www.youtube.com/watch?v=khEicU2JVzY)
 * [Q&A: Will batteries be used alongside factory power?](../../../transcriptions/yt-UoDF7Vl1ZJQ.md) [https://www.youtube.com/watch?v=UoDF7Vl1ZJQ](https://www.youtube.com/watch?v=UoDF7Vl1ZJQ)
 * [Q&A: Will we use the Blender for Diluted Fuel?](../../../transcriptions/yt-9rPXUN4W5Hg.md) [https://www.youtube.com/watch?v=9rPXUN4W5Hg](https://www.youtube.com/watch?v=9rPXUN4W5Hg)
-* [Q&A: Will alternative recipes change with Update 4?](../../../transcriptions/yt-mwrYWPHr4jk.md) [https://www.youtube.com/watch?v=mwrYWPHr4jk](https://www.youtube.com/watch?v=mwrYWPHr4jk)
+* [Q&A: Will Alternative Recipes change with Update 4?](../../../transcriptions/yt-mwrYWPHr4jk.md) [https://www.youtube.com/watch?v=mwrYWPHr4jk](https://www.youtube.com/watch?v=mwrYWPHr4jk)
 * [Snutt & Mark Talk: Retaining legacy recipes with new buildings](../../../transcriptions/yt-ETgrEgA1-7Q.md) [https://www.youtube.com/watch?v=ETgrEgA1-7Q](https://www.youtube.com/watch?v=ETgrEgA1-7Q)
 * [Q&A: Are we getting a new gun with the Gas update like a freeze gun ?](../../../transcriptions/yt-eFgO1iuPr20.md) [https://www.youtube.com/watch?v=eFgO1iuPr20](https://www.youtube.com/watch?v=eFgO1iuPr20)
 * [Q&A: While Unreal Engine 4 gets upgraded, will the Object Limit get changed?](../../../transcriptions/yt-BE6kB3nmSdM.md) [https://www.youtube.com/watch?v=BE6kB3nmSdM](https://www.youtube.com/watch?v=BE6kB3nmSdM)

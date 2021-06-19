@@ -49,7 +49,7 @@ date: Last Modified
 * [Q&A: Will Update 4 change any existing Alt recipes? (Part 2)](../../../../transcriptions/yt-wN7_0V9lRfk.md) [https://www.youtube.com/watch?v=wN7_0V9lRfk](https://www.youtube.com/watch?v=wN7_0V9lRfk)
 
 ## January 19th, 2021 Livestream
-* [Q&A: Will alternative recipes change with Update 4?](../../../../transcriptions/yt-mwrYWPHr4jk.md) [https://www.youtube.com/watch?v=mwrYWPHr4jk](https://www.youtube.com/watch?v=mwrYWPHr4jk)
+* [Q&A: Will Alternative Recipes change with Update 4?](../../../../transcriptions/yt-mwrYWPHr4jk.md) [https://www.youtube.com/watch?v=mwrYWPHr4jk](https://www.youtube.com/watch?v=mwrYWPHr4jk)
 
 ## November 17th, 2020 Livestream
 * [Q&A: When are we getting an Alternate Recipe for Paint so we can automate it ?](../../../../transcriptions/yt-4pFomutD4T0.md) [https://www.youtube.com/watch?v=4pFomutD4T0](https://www.youtube.com/watch?v=4pFomutD4T0)

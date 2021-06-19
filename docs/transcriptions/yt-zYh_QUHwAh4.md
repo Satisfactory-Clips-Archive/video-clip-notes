@@ -1,5 +1,5 @@
 ---
-title: "January 26th, 2021 Livestream Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?"
+title: "January 26th, 2021 Livestream Q&A: Will Update 4 affect the Refinery Recipes outside of Tier 7?"
 date: "2021-01-26"
 layout: transcript
 topics:
@@ -9,7 +9,7 @@ topics:
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
-## Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?
+## Q&A: Will Update 4 affect the Refinery Recipes outside of Tier 7?
 https://www.youtube.com/watch?v=zYh_QUHwAh4
 This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: How will Update 4 change the lower-level items?](./yt-7DIFELANBQs.md) [https://www.youtube.com/watch?v=7DIFELANBQs](https://www.youtube.com/watch?v=7DIFELANBQs)
 

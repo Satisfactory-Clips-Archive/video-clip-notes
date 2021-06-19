@@ -2732,7 +2732,7 @@ date: Last Modified
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as January 2021 and as early as January 2021.</summary>
 
-* [January 26th, 2021 Livestream Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?](./transcriptions/yt-zYh_QUHwAh4.md) [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
+* [January 26th, 2021 Livestream Q&A: Will Update 4 affect the Refinery Recipes outside of Tier 7?](./transcriptions/yt-zYh_QUHwAh4.md) [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
 * [January 19th, 2021 Livestream Q&A: Recipes in Tier 6 and below will also change but no production lines below Tier 7?](./transcriptions/yt-2LczuvKevK4.md) [https://www.youtube.com/watch?v=2LczuvKevK4](https://www.youtube.com/watch?v=2LczuvKevK4)
 </details>
 
@@ -2779,7 +2779,7 @@ date: Last Modified
 
 * [February 23rd, 2021 Livestream Q&A: Are there going to be more recipes- not new item recipes but more recipes for old items?](./transcriptions/yt-oojAhgClrl0.md) [https://www.youtube.com/watch?v=oojAhgClrl0](https://www.youtube.com/watch?v=oojAhgClrl0)
 * [February 2nd, 2021 Livestream Q&A: Will Update 4 change any existing Alt recipes? (Part 1)](./transcriptions/yt-U7q88D_G0Ac.md) [https://www.youtube.com/watch?v=U7q88D_G0Ac](https://www.youtube.com/watch?v=U7q88D_G0Ac)
-* [January 19th, 2021 Livestream Q&A: Will alternative recipes change with Update 4?](./transcriptions/yt-mwrYWPHr4jk.md) [https://www.youtube.com/watch?v=mwrYWPHr4jk](https://www.youtube.com/watch?v=mwrYWPHr4jk)
+* [January 19th, 2021 Livestream Q&A: Will Alternative Recipes change with Update 4?](./transcriptions/yt-mwrYWPHr4jk.md) [https://www.youtube.com/watch?v=mwrYWPHr4jk](https://www.youtube.com/watch?v=mwrYWPHr4jk)
 </details>
 
 ## [February 26th, 2021 Videos](./2021-02-26.md)

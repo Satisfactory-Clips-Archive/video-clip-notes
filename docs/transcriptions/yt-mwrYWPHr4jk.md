@@ -1,5 +1,5 @@
 ---
-title: "January 19th, 2021 Livestream Q&A: Will alternative recipes change with Update 4?"
+title: "January 19th, 2021 Livestream Q&A: Will Alternative Recipes change with Update 4?"
 date: "2021-01-19"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
-## Q&A: Will alternative recipes change with Update 4?
+## Q&A: Will Alternative Recipes change with Update 4?
 https://www.youtube.com/watch?v=mwrYWPHr4jk
 This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Will the new Update affect Alternate Recipes?](./yt-AXoRnwF1P9E.md) [https://www.youtube.com/watch?v=AXoRnwF1P9E](https://www.youtube.com/watch?v=AXoRnwF1P9E)
 

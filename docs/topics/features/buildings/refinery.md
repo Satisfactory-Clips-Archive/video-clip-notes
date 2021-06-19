@@ -22,7 +22,7 @@ date: Last Modified
 * [Q&A: I still have Packaged Fuel being produced from a Refinery, will it be the same with Aluminium?](../../../transcriptions/yt-TT3qZCTt_0o.md) [https://www.youtube.com/watch?v=TT3qZCTt_0o](https://www.youtube.com/watch?v=TT3qZCTt_0o)
 
 ## January 26th, 2021 Livestream
-* [Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?](../../../transcriptions/yt-zYh_QUHwAh4.md) [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
+* [Q&A: Will Update 4 affect the Refinery Recipes outside of Tier 7?](../../../transcriptions/yt-zYh_QUHwAh4.md) [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Are you changing Pure Ingot recipes?](../../../transcriptions/yt-WTE-Q1zQLM0.md) [https://www.youtube.com/watch?v=WTE-Q1zQLM0](https://www.youtube.com/watch?v=WTE-Q1zQLM0)

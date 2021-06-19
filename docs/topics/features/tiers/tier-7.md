@@ -37,7 +37,7 @@ date: Last Modified
 * [Q&A: Will the new Update break my save game?](../../../transcriptions/yt-Hbs0pidLv_4.md) [https://www.youtube.com/watch?v=Hbs0pidLv_4](https://www.youtube.com/watch?v=Hbs0pidLv_4)
 
 ## January 26th, 2021 Livestream
-* [Q&A: Will Update 4 affect the Refinery recipes outside of Tier 7?](../../../transcriptions/yt-zYh_QUHwAh4.md) [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
+* [Q&A: Will Update 4 affect the Refinery Recipes outside of Tier 7?](../../../transcriptions/yt-zYh_QUHwAh4.md) [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Recipes in Tier 6 and below will also change but no production lines below Tier 7?](../../../transcriptions/yt-2LczuvKevK4.md) [https://www.youtube.com/watch?v=2LczuvKevK4](https://www.youtube.com/watch?v=2LczuvKevK4)
