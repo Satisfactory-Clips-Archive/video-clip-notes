@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## June 22nd, 2021 Livestream
+* [Q&A: Will Signs be in the AWESOME Shop?](../../../transcriptions/yt-FGSWvdPw8Uk.md) [https://www.youtube.com/watch?v=FGSWvdPw8Uk](https://www.youtube.com/watch?v=FGSWvdPw8Uk)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Which came first, the resource Sink or the AWESOME Shop?](../../../transcriptions/yt-QTacw-RA8YA.md) [https://www.youtube.com/watch?v=QTacw-RA8YA](https://www.youtube.com/watch?v=QTacw-RA8YA)
 

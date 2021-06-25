@@ -28,10 +28,19 @@ date: Last Modified
 * [Simon](../topics/coffee-stainers/simon.md)
 * [Snutt](../topics/coffee-stainers/snutt.md)
 * [Sofi](../topics/coffee-stainers/sofi.md)
+* [Stefan](../topics/coffee-stainers/stefan.md)
 * [Tim](../topics/coffee-stainers/tim.md)
 * [Tobias](../topics/coffee-stainers/tobias.md)
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
+
+## June 22nd, 2021 Livestream
+* [Q&A: Does Torsten have something that they came up with that they're very proud of?](../transcriptions/yt-FwWOSoWFo8A.md) [https://www.youtube.com/watch?v=FwWOSoWFo8A](https://www.youtube.com/watch?v=FwWOSoWFo8A)
+* [Q&A: How long does it take from start to end to make a Concept for a Building?](../transcriptions/yt-BIThI1ygHrE.md) [https://www.youtube.com/watch?v=BIThI1ygHrE](https://www.youtube.com/watch?v=BIThI1ygHrE)
+* Q&A: When you're providing 2D designs from Concept to Modellers, do you do full technical drawings? [https://www.youtube.com/watch?v=E7ye5Lf4d0U](https://www.youtube.com/watch?v=E7ye5Lf4d0U)
+* [Q&A: Does Music & Sound Effects fit into the Art team?](../transcriptions/yt-WQxofmKR4jI.md) [https://www.youtube.com/watch?v=WQxofmKR4jI](https://www.youtube.com/watch?v=WQxofmKR4jI)
+* [Q&A: We've seen a lot of Concept Art for Buildings, but does Torsten do any for the World?](../transcriptions/yt-mNKnQFH_0vQ.md) [https://www.youtube.com/watch?v=mNKnQFH_0vQ](https://www.youtube.com/watch?v=mNKnQFH_0vQ)
+* Q&A: Did Torsten have any familiarity with Satisfactory or other Coffee Stain games before starting? [https://www.youtube.com/watch?v=XWur2rhaSjY](https://www.youtube.com/watch?v=XWur2rhaSjY)
 
 ## June 18th, 2021 Livestream
 * Q&A: When is Update 5 coming? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132)

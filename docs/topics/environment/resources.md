@@ -13,6 +13,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## June 22nd, 2021 Livestream
+* [Q&A: What was the idea behind the new Ore models that got reverted?](../../transcriptions/yt-dpWWVaJWnBQ.md) [https://www.youtube.com/watch?v=dpWWVaJWnBQ](https://www.youtube.com/watch?v=dpWWVaJWnBQ)
+
 ## June 15th, 2021 Livestream
 * Community Highlights: Compact build for Modular Frame production [https://www.youtube.com/watch?v=HAJvhJRVol0](https://www.youtube.com/watch?v=HAJvhJRVol0)
 

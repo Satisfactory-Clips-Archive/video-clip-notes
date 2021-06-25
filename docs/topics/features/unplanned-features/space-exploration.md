@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Space Exploration
 
+## June 22nd, 2021 Livestream
+* [Q&A: Any plans on making the game multi-planetary?](../../../transcriptions/yt-fC5Ooqn4eA4.md) [https://www.youtube.com/watch?v=fC5Ooqn4eA4](https://www.youtube.com/watch?v=fC5Ooqn4eA4)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Travelling to other planets?](../../../transcriptions/yt-uiRY89T_9mg.md) [https://www.youtube.com/watch?v=uiRY89T_9mg](https://www.youtube.com/watch?v=uiRY89T_9mg)
 * [Community FYI: No Space stuff and no aquatic shit](../../../transcriptions/yt-EHzM9Q79LpE.md) [https://www.youtube.com/watch?v=EHzM9Q79LpE](https://www.youtube.com/watch?v=EHzM9Q79LpE)

@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: VR Support?
 https://www.youtube.com/watch?v=eJz8dJImPfQ
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Any chance for a VR port?](./yt-bPmfShefJi4.md) [https://www.youtube.com/watch?v=bPmfShefJi4](https://www.youtube.com/watch?v=bPmfShefJi4)
+This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: Are there any plans for VR?](./yt-aSo4zUTOCwE.md) [https://www.youtube.com/watch?v=aSo4zUTOCwE](https://www.youtube.com/watch?v=aSo4zUTOCwE)
 
 
 ### Topics

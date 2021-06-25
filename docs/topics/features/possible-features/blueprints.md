@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Blueprints
 
+## June 22nd, 2021 Livestream
+* [Q&A: Will we see something like Blueprints in Update 5?](../../../transcriptions/yt-A3GSOZWzGqs.md) [https://www.youtube.com/watch?v=A3GSOZWzGqs](https://www.youtube.com/watch?v=A3GSOZWzGqs)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Any news about Mass Foundations or Building Blueprints?](../../../transcriptions/yt-U3HL6b4ugC4.md) [https://www.youtube.com/watch?v=U3HL6b4ugC4](https://www.youtube.com/watch?v=U3HL6b4ugC4)
 

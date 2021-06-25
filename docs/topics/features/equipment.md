@@ -13,6 +13,10 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## June 22nd, 2021 Livestream
+* [Snutt & Jace & Torsten Talk: Concept Art - Zipline](../../transcriptions/yt-Bg2olZpAv_g.md) [https://www.youtube.com/watch?v=Bg2olZpAv_g](https://www.youtube.com/watch?v=Bg2olZpAv_g)
+* Q&A: What's the coolest Concept Art that Torsten has made that's been thrown out? [https://www.youtube.com/watch?v=kI5onSQdJLs](https://www.youtube.com/watch?v=kI5onSQdJLs)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
 * [Snutt & Jace Talk: The Zip Line](../../transcriptions/yt-fuJFAY4fxEg.md) [https://www.youtube.com/watch?v=fuJFAY4fxEg](https://www.youtube.com/watch?v=fuJFAY4fxEg)

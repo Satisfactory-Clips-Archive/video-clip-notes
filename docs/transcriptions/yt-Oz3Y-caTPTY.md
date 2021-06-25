@@ -9,14 +9,7 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Have you considered making actual Hyper Tube boosters?
 https://www.youtube.com/watch?v=Oz3Y-caTPTY
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as March 2021 and as early as August 2020.</summary>
-
-* [March 9th, 2021 Livestream Q&A: Is the cannon an intended behaviour for Hyper Tubes or a bug?](./yt-9oX64bJ65Cg.md) [https://www.youtube.com/watch?v=9oX64bJ65Cg](https://www.youtube.com/watch?v=9oX64bJ65Cg)
-* [December 15th, 2020 Livestream Q&A: Will Hyper Tube cannons be patched out eventually & officially supported as a feature?](./yt-bvtKzwJA4pw.md) [https://www.youtube.com/watch?v=bvtKzwJA4pw](https://www.youtube.com/watch?v=bvtKzwJA4pw)
-* [September 8th, 2020 Livestream Q&A: Hyper Tube Cannon future ?](./yt-X3RdhRuPf04.md) [https://www.youtube.com/watch?v=X3RdhRuPf04](https://www.youtube.com/watch?v=X3RdhRuPf04)
-* August 11th, 2020 Livestream Q&A: Hypertube Cannons - Bug or Feature? [https://clips.twitch.tv/OilyPatientOtterTBTacoLeft](https://clips.twitch.tv/OilyPatientOtterTBTacoLeft)
-</details>
+This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: Would you add a Hyper Tube launcher, or do you want to keep the exploity method people use now?](./yt-vGet8HcuE7E.md) [https://www.youtube.com/watch?v=vGet8HcuE7E](https://www.youtube.com/watch?v=vGet8HcuE7E)
 
 
 ### Topics

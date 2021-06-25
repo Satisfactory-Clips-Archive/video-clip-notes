@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Blender
 
+## June 22nd, 2021 Livestream
+* [Snutt & Torsten Talk: Concept Art - The Blender™](../../../transcriptions/yt--Z7MfVopphg.md) [https://www.youtube.com/watch?v=-Z7MfVopphg](https://www.youtube.com/watch?v=-Z7MfVopphg)
+
 ## May 18th, 2021 Livestream
 * [Q&A: The Blender has a graphic bug, the pod disappears, is this a known thing?](../../../transcriptions/yt-Belfb_lFLmc.md) [https://www.youtube.com/watch?v=Belfb_lFLmc](https://www.youtube.com/watch?v=Belfb_lFLmc)
 

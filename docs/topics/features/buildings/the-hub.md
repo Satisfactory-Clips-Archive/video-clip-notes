@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## June 22nd, 2021 Livestream
+* [Q&A: How happy is Torsten with the current interior of The HUB?](../../../transcriptions/yt-PddJ9_WrRsM.md) [https://www.youtube.com/watch?v=PddJ9_WrRsM](https://www.youtube.com/watch?v=PddJ9_WrRsM)
+
 ## June 8th, 2021 Livestream
 * [Q&A: We need a pixel-style arcade game in the HUB called "Doggo Quest"?](../../../transcriptions/yt-p0nELMGY4hA.md) [https://www.youtube.com/watch?v=p0nELMGY4hA](https://www.youtube.com/watch?v=p0nELMGY4hA)
 

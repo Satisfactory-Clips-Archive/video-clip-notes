@@ -16,6 +16,9 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## June 22nd, 2021 Livestream
+* [Q&A: After the game fully releases will there be any Updates that add game-altering factory design?](../transcriptions/yt-oVm-OJKlrZM.md) [https://www.youtube.com/watch?v=oVm-OJKlrZM](https://www.youtube.com/watch?v=oVm-OJKlrZM)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Feature creep?](../transcriptions/yt-4vpZLAeFdyU.md) [https://www.youtube.com/watch?v=4vpZLAeFdyU](https://www.youtube.com/watch?v=4vpZLAeFdyU)
 

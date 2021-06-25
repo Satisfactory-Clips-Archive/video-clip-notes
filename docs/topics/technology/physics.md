@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## June 22nd, 2021 Livestream
+* [Q&A: What about river physics, textures- any updates on that any time soon?](../../transcriptions/yt-ZPyYBY3IW00.md) [https://www.youtube.com/watch?v=ZPyYBY3IW00](https://www.youtube.com/watch?v=ZPyYBY3IW00)
+
 ## May 18th, 2021 Livestream
 * [Q&A: In an un-powered vehicle, why do brakes only work when you're not in it?](../../transcriptions/yt-MScX3iWREj4.md) [https://www.youtube.com/watch?v=MScX3iWREj4](https://www.youtube.com/watch?v=MScX3iWREj4)
 

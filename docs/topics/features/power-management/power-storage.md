@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Storage
 
+## June 22nd, 2021 Livestream
+* [Snutt & Jace & Torsten Talk: Concept Art - Power Storage](../../../transcriptions/yt-aHNGLfzMuxE.md) [https://www.youtube.com/watch?v=aHNGLfzMuxE](https://www.youtube.com/watch?v=aHNGLfzMuxE)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Coal plants are gobbling coal like never before, have you nerfed them?](../../../transcriptions/yt-CJ8fQV1ttF4.md) [https://www.youtube.com/watch?v=CJ8fQV1ttF4](https://www.youtube.com/watch?v=CJ8fQV1ttF4)
 

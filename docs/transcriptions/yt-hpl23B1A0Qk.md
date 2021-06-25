@@ -9,7 +9,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Blueprints?
 https://www.youtube.com/watch?v=hpl23B1A0Qk
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Blueprints?](./yt-x0N2HGv49Eg.md) [https://www.youtube.com/watch?v=x0N2HGv49Eg](https://www.youtube.com/watch?v=x0N2HGv49Eg)
+This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: Will we see something like Blueprints in Update 5?](./yt-A3GSOZWzGqs.md) [https://www.youtube.com/watch?v=A3GSOZWzGqs](https://www.youtube.com/watch?v=A3GSOZWzGqs)
 
 
 ### Topics

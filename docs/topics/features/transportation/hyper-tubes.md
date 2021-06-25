@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Transportation > Hyper Tubes
 
+## June 22nd, 2021 Livestream
+* [Q&A: Hyper Tube splitters, press A or D and you'll turn at the next junction, what do you think?](../../../transcriptions/yt-0KSOVcZ6f6A.md) [https://www.youtube.com/watch?v=0KSOVcZ6f6A](https://www.youtube.com/watch?v=0KSOVcZ6f6A)
+* [Q&A: Would you add a Hyper Tube launcher, or do you want to keep the exploity method people use now?](../../../transcriptions/yt-vGet8HcuE7E.md) [https://www.youtube.com/watch?v=vGet8HcuE7E](https://www.youtube.com/watch?v=vGet8HcuE7E)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Have you considered making actual Hyper Tube boosters?](../../../transcriptions/yt-Oz3Y-caTPTY.md) [https://www.youtube.com/watch?v=Oz3Y-caTPTY](https://www.youtube.com/watch?v=Oz3Y-caTPTY)
 

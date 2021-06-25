@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## June 22nd, 2021 Livestream
+* [Snutt & Jace Talk: Stream comments](../../transcriptions/yt-ccEJHN-2_JY.md) [https://www.youtube.com/watch?v=ccEJHN-2_JY](https://www.youtube.com/watch?v=ccEJHN-2_JY)
+
 ## June 18th, 2021 Livestream
 * Intro [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22)
 

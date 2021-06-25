@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## June 22nd, 2021 Livestream
+* [Q&A: "Damage to FICSIT property detected" - who or what is the property, the suit or the player?](../../transcriptions/yt-_w5OogSI8Wo.md) [https://www.youtube.com/watch?v=_w5OogSI8Wo](https://www.youtube.com/watch?v=_w5OogSI8Wo)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Mystery surprise in Jace's factory HUB](../../transcriptions/yt-_F3OkVu4LnQ.md) [https://www.youtube.com/watch?v=_F3OkVu4LnQ](https://www.youtube.com/watch?v=_F3OkVu4LnQ)
 

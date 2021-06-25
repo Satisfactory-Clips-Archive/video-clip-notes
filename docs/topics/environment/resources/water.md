@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Water
 
+## June 22nd, 2021 Livestream
+* [Q&A: What about river physics, textures- any updates on that any time soon?](../../../transcriptions/yt-ZPyYBY3IW00.md) [https://www.youtube.com/watch?v=ZPyYBY3IW00](https://www.youtube.com/watch?v=ZPyYBY3IW00)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 10)](../../../transcriptions/yt-szj7yUfsDnA.md) [https://www.youtube.com/watch?v=szj7yUfsDnA](https://www.youtube.com/watch?v=szj7yUfsDnA)
 

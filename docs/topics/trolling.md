@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## June 22nd, 2021 Livestream
+* [Community FYI: VR Confirmed](../transcriptions/yt-SNRBsvIqz-E.md) [https://www.youtube.com/watch?v=SNRBsvIqz-E](https://www.youtube.com/watch?v=SNRBsvIqz-E)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Ever think about Tower Defense?](../transcriptions/yt-ElkfY8wg5qs.md) [https://www.youtube.com/watch?v=ElkfY8wg5qs](https://www.youtube.com/watch?v=ElkfY8wg5qs)
 * [Q&A: Can we get another reference to "No" on Factory Defense?](../transcriptions/yt-1DkSWmgD1Ws.md) [https://www.youtube.com/watch?v=1DkSWmgD1Ws](https://www.youtube.com/watch?v=1DkSWmgD1Ws)

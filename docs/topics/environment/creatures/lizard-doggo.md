@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## June 22nd, 2021 Livestream
+* Q&A: What's the coolest Concept Art that Torsten has made that's been thrown out? [https://www.youtube.com/watch?v=kI5onSQdJLs](https://www.youtube.com/watch?v=kI5onSQdJLs)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Lizard Cat DLC?](../../../transcriptions/yt-ZyoU8gwO-PA.md) [https://www.youtube.com/watch?v=ZyoU8gwO-PA](https://www.youtube.com/watch?v=ZyoU8gwO-PA)
 

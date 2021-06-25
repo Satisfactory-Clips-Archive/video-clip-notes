@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Resource Well Pressurizer
 
+## June 22nd, 2021 Livestream
+* [Snutt & Torsten Talk: Concept Art - Resource Well Pressurizer](../../../transcriptions/yt-bXkX3Vwy_Xg.md) [https://www.youtube.com/watch?v=bXkX3Vwy_Xg](https://www.youtube.com/watch?v=bXkX3Vwy_Xg)
+
 ## March 16th, 2021 Livestream
 * [We're also adding Nitrogen Gas](../../../transcriptions/yt-Dp77ih_XmkY,163.625,185.58333333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186)
 

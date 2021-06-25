@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will there be DLCs?
 https://www.youtube.com/watch?v=-f-E47s74Uw
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Are there plans after 1.0?](./yt-WYAjX3vphIE.md) [https://www.youtube.com/watch?v=WYAjX3vphIE](https://www.youtube.com/watch?v=WYAjX3vphIE)
+This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: After the game fully releases will there be any Updates that add game-altering factory design?](./yt-oVm-OJKlrZM.md) [https://www.youtube.com/watch?v=oVm-OJKlrZM](https://www.youtube.com/watch?v=oVm-OJKlrZM)
 
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as October 2020 and as early as February 2019.</summary>

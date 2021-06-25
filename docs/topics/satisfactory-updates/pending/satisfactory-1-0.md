@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## June 22nd, 2021 Livestream
+* [Q&A: After the game fully releases will there be any Updates that add game-altering factory design?](../../../transcriptions/yt-oVm-OJKlrZM.md) [https://www.youtube.com/watch?v=oVm-OJKlrZM](https://www.youtube.com/watch?v=oVm-OJKlrZM)
+
 ## June 8th, 2021 Livestream
 * [Q&A: What about Story?](../../../transcriptions/yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
 * [Q&A: Is S.A.M. Ore going to be used in the next Update?](../../../transcriptions/yt-pSqiS44lqIg.md) [https://www.youtube.com/watch?v=pSqiS44lqIg](https://www.youtube.com/watch?v=pSqiS44lqIg)

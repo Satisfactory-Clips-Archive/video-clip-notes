@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > SignpostMarv
 
+## June 22nd, 2021 Livestream
+* Q&A: What's the coolest Concept Art that Torsten has made that's been thrown out? [https://www.youtube.com/watch?v=kI5onSQdJLs](https://www.youtube.com/watch?v=kI5onSQdJLs)
+
 ## June 8th, 2021 Livestream
 * [Trolling: We're going to add Tower Defence in Update 5](../../transcriptions/yt-qwVOrlmH3BU.md) [https://www.youtube.com/watch?v=qwVOrlmH3BU](https://www.youtube.com/watch?v=qwVOrlmH3BU)
 

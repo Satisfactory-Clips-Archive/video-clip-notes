@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Procedural Generation
 
+## June 22nd, 2021 Livestream
+* [Q&A: Could you comment on terraforming or infinite world generation?](../../../transcriptions/yt-f82WcT7hjGE.md) [https://www.youtube.com/watch?v=f82WcT7hjGE](https://www.youtube.com/watch?v=f82WcT7hjGE)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Is the map generation going to be randomised in the future?](../../../transcriptions/yt-XMhLiJd6N2U.md) [https://www.youtube.com/watch?v=XMhLiJd6N2U](https://www.youtube.com/watch?v=XMhLiJd6N2U)
 

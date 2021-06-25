@@ -11,6 +11,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## June 22nd, 2021 Livestream
+* [Q&A: We've seen a lot of Concept Art for Buildings, but does Torsten do any for the World?](../transcriptions/yt-mNKnQFH_0vQ.md) [https://www.youtube.com/watch?v=mNKnQFH_0vQ](https://www.youtube.com/watch?v=mNKnQFH_0vQ)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: The world of Satisfactory](../transcriptions/yt-lwiruCRJKo0.md) [https://www.youtube.com/watch?v=lwiruCRJKo0](https://www.youtube.com/watch?v=lwiruCRJKo0)
 * [Trolling: Climbing mechanic in the game](../transcriptions/yt-GQwO3ADzdfE.md) [https://www.youtube.com/watch?v=GQwO3ADzdfE](https://www.youtube.com/watch?v=GQwO3ADzdfE)

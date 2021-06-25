@@ -8,11 +8,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: New planet?
 https://www.youtube.com/watch?v=yT6M4mh83Vs
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as May 2021.</summary>
-
-* [May 4th, 2021 Livestream Q&A: Travelling to other planets?](./yt-uiRY89T_9mg.md) [https://www.youtube.com/watch?v=uiRY89T_9mg](https://www.youtube.com/watch?v=uiRY89T_9mg)
-</details>
+This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: Any plans on making the game multi-planetary?](./yt-fC5Ooqn4eA4.md) [https://www.youtube.com/watch?v=fC5Ooqn4eA4](https://www.youtube.com/watch?v=fC5Ooqn4eA4)
 
 
 ### Topics

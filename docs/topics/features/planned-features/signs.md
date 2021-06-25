@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## June 22nd, 2021 Livestream
+* [Q&A: Will Signs be in the AWESOME Shop?](../../../transcriptions/yt-FGSWvdPw8Uk.md) [https://www.youtube.com/watch?v=FGSWvdPw8Uk](https://www.youtube.com/watch?v=FGSWvdPw8Uk)
+
 ## June 18th, 2021 Livestream
 * Q&A: Will we have Signs? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292)
 

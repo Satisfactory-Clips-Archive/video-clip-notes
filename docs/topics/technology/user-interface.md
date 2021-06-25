@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## June 22nd, 2021 Livestream
+* [Q&A: Will we see something like Blueprints in Update 5?](../../transcriptions/yt-A3GSOZWzGqs.md) [https://www.youtube.com/watch?v=A3GSOZWzGqs](https://www.youtube.com/watch?v=A3GSOZWzGqs)
+
 ## June 18th, 2021 Livestream
 * Jace Talk: Build Modes in Update 5 [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201)
 

@@ -4,6 +4,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
 
+## June 22nd, 2021 Livestream
+* [State of Dev: Update 5](../../../transcriptions/yt-y0ZYguwTfuo.md) [https://www.youtube.com/watch?v=y0ZYguwTfuo](https://www.youtube.com/watch?v=y0ZYguwTfuo)
+* [Torsten Talk: Update 5 Concept Art](../../../transcriptions/yt-Jb_V7r_cnc0.md) [https://www.youtube.com/watch?v=Jb_V7r_cnc0](https://www.youtube.com/watch?v=Jb_V7r_cnc0)
+* [Q&A: Will Update 5 wreck our Update 4 saves?](../../../transcriptions/yt-Mjo9dzwcIcg.md) [https://www.youtube.com/watch?v=Mjo9dzwcIcg](https://www.youtube.com/watch?v=Mjo9dzwcIcg)
+* [Q&A: After the game fully releases will there be any Updates that add game-altering factory design?](../../../transcriptions/yt-oVm-OJKlrZM.md) [https://www.youtube.com/watch?v=oVm-OJKlrZM](https://www.youtube.com/watch?v=oVm-OJKlrZM)
+* [Q&A: Will we see something like Blueprints in Update 5?](../../../transcriptions/yt-A3GSOZWzGqs.md) [https://www.youtube.com/watch?v=A3GSOZWzGqs](https://www.youtube.com/watch?v=A3GSOZWzGqs)
+
 ## June 18th, 2021 Livestream
 * Q&A: When is Update 5 coming? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132)
 * Jace Talk: Build Modes in Update 5 [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201)

@@ -8,7 +8,7 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: What do you think about Splitters that can split a certain percentage of the Belts?
 https://www.youtube.com/watch?v=GiOZBqdfrAQ
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: The Ratio Splitter?](./yt-cBwAofHv-6o.md) [https://www.youtube.com/watch?v=cBwAofHv-6o](https://www.youtube.com/watch?v=cBwAofHv-6o)
+This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: Why can't we have custom ratio Splitters?](./yt-ripT8MydIjo.md) [https://www.youtube.com/watch?v=ripT8MydIjo](https://www.youtube.com/watch?v=ripT8MydIjo)
 
 
 ### Topics

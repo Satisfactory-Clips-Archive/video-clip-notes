@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Terraforming
 
+## June 22nd, 2021 Livestream
+* [Q&A: Could you comment on terraforming or infinite world generation?](../../../transcriptions/yt-f82WcT7hjGE.md) [https://www.youtube.com/watch?v=f82WcT7hjGE](https://www.youtube.com/watch?v=f82WcT7hjGE)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Procedural Map?](../../../transcriptions/yt-ee53aGXd5wg.md) [https://www.youtube.com/watch?v=ee53aGXd5wg](https://www.youtube.com/watch?v=ee53aGXd5wg)
 

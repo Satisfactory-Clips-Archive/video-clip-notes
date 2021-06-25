@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Fluids Update
 
+## June 22nd, 2021 Livestream
+* [Q&A: Will Update 5 wreck our Update 4 saves?](../../../transcriptions/yt-Mjo9dzwcIcg.md) [https://www.youtube.com/watch?v=Mjo9dzwcIcg](https://www.youtube.com/watch?v=Mjo9dzwcIcg)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Will there be an Update 4.5?](../../../transcriptions/yt-rczQrecqq6w.md) [https://www.youtube.com/watch?v=rczQrecqq6w](https://www.youtube.com/watch?v=rczQrecqq6w)
 

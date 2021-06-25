@@ -19,6 +19,9 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## June 22nd, 2021 Livestream
+* [Snutt & Jace Talk: Stream comments](../transcriptions/yt-ccEJHN-2_JY.md) [https://www.youtube.com/watch?v=ccEJHN-2_JY](https://www.youtube.com/watch?v=ccEJHN-2_JY)
+
 ## June 15th, 2021 Livestream
 * [Snutt & Jace Talk: Fix Jace QA post (Part 2)](../transcriptions/yt-_OosGOGi99M.md) [https://www.youtube.com/watch?v=_OosGOGi99M](https://www.youtube.com/watch?v=_OosGOGi99M)
 * [Community FYI: Thanks for the stream, please don't stop these streams](../transcriptions/yt-o6REds5XjcI.md) [https://www.youtube.com/watch?v=o6REds5XjcI](https://www.youtube.com/watch?v=o6REds5XjcI)

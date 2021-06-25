@@ -6,6 +6,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## June 22nd, 2021 Livestream
+* [Community FYI: Josh's save works because who knows what's going on in his factory](../../transcriptions/yt-S0ZbPSPA85k.md) [https://www.youtube.com/watch?v=S0ZbPSPA85k](https://www.youtube.com/watch?v=S0ZbPSPA85k)
+
 ## May 28th, 2021 Livestream
 * [Snutt & Ben Talk: Holograms now use Stencils](../../transcriptions/yt-dyqOMITwLsY,1164.0795833333332,1286.773104.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1164&end=1287](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1164&end=1287)
 * [Q&A: What's coming in the future for optimisations to Satisfactory?](../../transcriptions/yt-dyqOMITwLsY,1837.377208333333,1944.0671249999998.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945)

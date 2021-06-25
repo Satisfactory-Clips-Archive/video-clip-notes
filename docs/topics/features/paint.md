@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Paint
 
+## June 22nd, 2021 Livestream
+* Q&A: How much does Torsten take colours into account since they can be changed by players? [https://www.youtube.com/watch?v=AOAJRBqkvp8](https://www.youtube.com/watch?v=AOAJRBqkvp8)
+* [Q&A: Is the Color Gun FICSIT-approved or Pioneer made?](../../transcriptions/yt-JuKondHQOso.md) [https://www.youtube.com/watch?v=JuKondHQOso](https://www.youtube.com/watch?v=JuKondHQOso)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Any changes to the colouring system?](../../transcriptions/yt-3b7amkQ5Cv0.md) [https://www.youtube.com/watch?v=3b7amkQ5Cv0](https://www.youtube.com/watch?v=3b7amkQ5Cv0)
 

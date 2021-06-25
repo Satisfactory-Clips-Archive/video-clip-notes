@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## June 22nd, 2021 Livestream
+* [Q&A: When will Experimental come to EA?](../../transcriptions/yt-O8PEBlRC4kU.md) [https://www.youtube.com/watch?v=O8PEBlRC4kU](https://www.youtube.com/watch?v=O8PEBlRC4kU)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Is this a Developer build?](../../transcriptions/yt-T6mvEOG0HLI.md) [https://www.youtube.com/watch?v=T6mvEOG0HLI](https://www.youtube.com/watch?v=T6mvEOG0HLI)
 

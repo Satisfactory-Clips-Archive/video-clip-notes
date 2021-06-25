@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## June 22nd, 2021 Livestream
+* [Community FYI: VR Confirmed](../../transcriptions/yt-SNRBsvIqz-E.md) [https://www.youtube.com/watch?v=SNRBsvIqz-E](https://www.youtube.com/watch?v=SNRBsvIqz-E)
+* [Q&A: Do you feel like Mods help with the development of Satisfactory as a whole?](../../transcriptions/yt-frBQ5YZKqvg.md) [https://www.youtube.com/watch?v=frBQ5YZKqvg](https://www.youtube.com/watch?v=frBQ5YZKqvg)
+
 ## June 8th, 2021 Livestream
 * [Snutt & Jace Talk: Build Modes vs. manual effort vs. mods vs. save editors](../../transcriptions/yt-Tl2vrQ3oD18.md) [https://www.youtube.com/watch?v=Tl2vrQ3oD18](https://www.youtube.com/watch?v=Tl2vrQ3oD18)
 

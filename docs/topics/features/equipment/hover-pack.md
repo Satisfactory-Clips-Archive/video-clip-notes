@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
+## June 22nd, 2021 Livestream
+* [Snutt & Jace & Torsten Talk: Concept Art - Hover Pack](../../../transcriptions/yt-ZbST_Q9fdao.md) [https://www.youtube.com/watch?v=ZbST_Q9fdao](https://www.youtube.com/watch?v=ZbST_Q9fdao)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Did you nerf the Hover Pack?](../../../transcriptions/yt-7TMMfAe4qD8.md) [https://www.youtube.com/watch?v=7TMMfAe4qD8](https://www.youtube.com/watch?v=7TMMfAe4qD8)
 

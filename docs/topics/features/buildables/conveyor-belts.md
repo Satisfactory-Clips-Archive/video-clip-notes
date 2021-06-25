@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## June 22nd, 2021 Livestream
+* [Q&A: Will the belts from the Drone hub change so they're aligned to the rest?](../../../transcriptions/yt-0iBQzOBv4aI.md) [https://www.youtube.com/watch?v=0iBQzOBv4aI](https://www.youtube.com/watch?v=0iBQzOBv4aI)
+* [Q&A: Why can't we have custom ratio Splitters?](../../../transcriptions/yt-ripT8MydIjo.md) [https://www.youtube.com/watch?v=ripT8MydIjo](https://www.youtube.com/watch?v=ripT8MydIjo)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Why can't you attach a Splitter directly to the Miner?](../../../transcriptions/yt-jZU1bdvj78g.md) [https://www.youtube.com/watch?v=jZU1bdvj78g](https://www.youtube.com/watch?v=jZU1bdvj78g)
 * [Q&A: Can we get a dev vlog on Pipes, Conveyors, & Splitters?](../../../transcriptions/yt-hSVNzU27It0.md) [https://www.youtube.com/watch?v=hSVNzU27It0](https://www.youtube.com/watch?v=hSVNzU27It0)

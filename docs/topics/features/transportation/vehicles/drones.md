@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## June 22nd, 2021 Livestream
+* [Snutt & Jace & Torsten Talk: Concept Art - Drones](../../../../transcriptions/yt-5UL7wCflXdw.md) [https://www.youtube.com/watch?v=5UL7wCflXdw](https://www.youtube.com/watch?v=5UL7wCflXdw)
+* [Snutt & Jace & Torsten Talk: Concept Art - Drone Ports](../../../../transcriptions/yt-qV94qhEro3Y.md) [https://www.youtube.com/watch?v=qV94qhEro3Y](https://www.youtube.com/watch?v=qV94qhEro3Y)
+* [Q&A: Will the belts from the Drone hub change so they're aligned to the rest?](../../../../transcriptions/yt-0iBQzOBv4aI.md) [https://www.youtube.com/watch?v=0iBQzOBv4aI](https://www.youtube.com/watch?v=0iBQzOBv4aI)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Drone ports use too many batteries when the player is far away, is there any fix in the works?](../../../../transcriptions/yt-px6Cmk_amfI.md) [https://www.youtube.com/watch?v=px6Cmk_amfI](https://www.youtube.com/watch?v=px6Cmk_amfI)
 

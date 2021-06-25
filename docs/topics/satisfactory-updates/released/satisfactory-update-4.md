@@ -4,6 +4,19 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## June 22nd, 2021 Livestream
+* [Snutt & Torsten Talk: Concept Art - Resource Well Pressurizer](../../../transcriptions/yt-bXkX3Vwy_Xg.md) [https://www.youtube.com/watch?v=bXkX3Vwy_Xg](https://www.youtube.com/watch?v=bXkX3Vwy_Xg)
+* [Snutt & Torsten Talk: Concept Art - The Blender™](../../../transcriptions/yt--Z7MfVopphg.md) [https://www.youtube.com/watch?v=-Z7MfVopphg](https://www.youtube.com/watch?v=-Z7MfVopphg)
+* [Snutt & Jace & Torsten Talk: Concept Art - Drones](../../../transcriptions/yt-5UL7wCflXdw.md) [https://www.youtube.com/watch?v=5UL7wCflXdw](https://www.youtube.com/watch?v=5UL7wCflXdw)
+* [Snutt & Jace & Torsten Talk: Concept Art - Drone Ports](../../../transcriptions/yt-qV94qhEro3Y.md) [https://www.youtube.com/watch?v=qV94qhEro3Y](https://www.youtube.com/watch?v=qV94qhEro3Y)
+* [Snutt & Jace & Torsten Talk: Concept Art - Lights](../../../transcriptions/yt-iK80c-clNX8.md) [https://www.youtube.com/watch?v=iK80c-clNX8](https://www.youtube.com/watch?v=iK80c-clNX8)
+* [Snutt & Jace & Torsten Talk: Concept Art - Power Storage](../../../transcriptions/yt-aHNGLfzMuxE.md) [https://www.youtube.com/watch?v=aHNGLfzMuxE](https://www.youtube.com/watch?v=aHNGLfzMuxE)
+* [Snutt & Jace & Torsten Talk: Concept Art - Zipline](../../../transcriptions/yt-Bg2olZpAv_g.md) [https://www.youtube.com/watch?v=Bg2olZpAv_g](https://www.youtube.com/watch?v=Bg2olZpAv_g)
+* [Snutt & Jace & Torsten Talk: Concept Art - Hover Pack](../../../transcriptions/yt-ZbST_Q9fdao.md) [https://www.youtube.com/watch?v=ZbST_Q9fdao](https://www.youtube.com/watch?v=ZbST_Q9fdao)
+* [Torsten Talk: Update 5 Concept Art](../../../transcriptions/yt-Jb_V7r_cnc0.md) [https://www.youtube.com/watch?v=Jb_V7r_cnc0](https://www.youtube.com/watch?v=Jb_V7r_cnc0)
+* [Community FYI: We need more Torsten for more stuff](../../../transcriptions/yt-OYmODp23yio.md) [https://www.youtube.com/watch?v=OYmODp23yio](https://www.youtube.com/watch?v=OYmODp23yio)
+* [Q&A: Will Update 5 wreck our Update 4 saves?](../../../transcriptions/yt-Mjo9dzwcIcg.md) [https://www.youtube.com/watch?v=Mjo9dzwcIcg](https://www.youtube.com/watch?v=Mjo9dzwcIcg)
+
 ## June 15th, 2021 Livestream
 * [State of Dev: Upcoming Streams & Videos about Update 4](../../../transcriptions/yt-JraxPzBMwyQ.md) [https://www.youtube.com/watch?v=JraxPzBMwyQ](https://www.youtube.com/watch?v=JraxPzBMwyQ)
 * [Q&A: Is Update 5 still shaping up to be the same size as Update 4?](../../../transcriptions/yt-i-QNHs4CWgc.md) [https://www.youtube.com/watch?v=i-QNHs4CWgc](https://www.youtube.com/watch?v=i-QNHs4CWgc)

@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## June 22nd, 2021 Livestream
+* [Q&A: Make the Flying Manta fly higher please?](../transcriptions/yt-544C8V8neKk.md) [https://www.youtube.com/watch?v=544C8V8neKk](https://www.youtube.com/watch?v=544C8V8neKk)
+* [Q&A: Will the belts from the Drone hub change so they're aligned to the rest?](../transcriptions/yt-0iBQzOBv4aI.md) [https://www.youtube.com/watch?v=0iBQzOBv4aI](https://www.youtube.com/watch?v=0iBQzOBv4aI)
+* [Q&A: Would you add a Hyper Tube launcher, or do you want to keep the exploity method people use now?](../transcriptions/yt-vGet8HcuE7E.md) [https://www.youtube.com/watch?v=vGet8HcuE7E](https://www.youtube.com/watch?v=vGet8HcuE7E)
+
 ## June 15th, 2021 Livestream
 * [State of Dev: Golf QA Post](../transcriptions/yt-0Zmyk7cOJuU.md) [https://www.youtube.com/watch?v=0Zmyk7cOJuU](https://www.youtube.com/watch?v=0Zmyk7cOJuU)
 * [Snutt & Jace Talk: Fix Jace QA post (Part 1)](../transcriptions/yt-rgQCCk5ohMc.md) [https://www.youtube.com/watch?v=rgQCCk5ohMc](https://www.youtube.com/watch?v=rgQCCk5ohMc)

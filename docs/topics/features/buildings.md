@@ -25,6 +25,11 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## June 22nd, 2021 Livestream
+* [Q&A: How long does it take from start to end to make a Concept for a Building?](../../transcriptions/yt-BIThI1ygHrE.md) [https://www.youtube.com/watch?v=BIThI1ygHrE](https://www.youtube.com/watch?v=BIThI1ygHrE)
+* Q&A: How much does Torsten take colours into account since they can be changed by players? [https://www.youtube.com/watch?v=AOAJRBqkvp8](https://www.youtube.com/watch?v=AOAJRBqkvp8)
+* [Q&A: We've seen a lot of Concept Art for Buildings, but does Torsten do any for the World?](../../transcriptions/yt-mNKnQFH_0vQ.md) [https://www.youtube.com/watch?v=mNKnQFH_0vQ](https://www.youtube.com/watch?v=mNKnQFH_0vQ)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Will there be Mk.2 Trains?](../../transcriptions/yt-jfj5xytO5-s.md) [https://www.youtube.com/watch?v=jfj5xytO5-s](https://www.youtube.com/watch?v=jfj5xytO5-s)
 * [Q&A: Death Star appearing in orbit and having to construct something to kill it?](../../transcriptions/yt-pK3_VtGgKnA.md) [https://www.youtube.com/watch?v=pK3_VtGgKnA](https://www.youtube.com/watch?v=pK3_VtGgKnA)

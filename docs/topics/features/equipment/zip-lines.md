@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Zip Lines
 
+## June 22nd, 2021 Livestream
+* [Snutt & Jace & Torsten Talk: Concept Art - Zipline](../../../transcriptions/yt-Bg2olZpAv_g.md) [https://www.youtube.com/watch?v=Bg2olZpAv_g](https://www.youtube.com/watch?v=Bg2olZpAv_g)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: The Zip Line](../../../transcriptions/yt-fuJFAY4fxEg.md) [https://www.youtube.com/watch?v=fuJFAY4fxEg](https://www.youtube.com/watch?v=fuJFAY4fxEg)
 

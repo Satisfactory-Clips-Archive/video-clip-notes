@@ -26,6 +26,7 @@ date: Last Modified
 * [Pontus](./topics/coffee-stainers/pontus.md)
 * [Ros](./topics/coffee-stainers/ros.md)
 * [Sofi](./topics/coffee-stainers/sofi.md)
+* [Stefan](./topics/coffee-stainers/stefan.md)
 * [Tim](./topics/coffee-stainers/tim.md)
 * [Tobias](./topics/coffee-stainers/tobias.md)
 * [Torsten](./topics/coffee-stainers/torsten.md)
@@ -56,6 +57,7 @@ date: Last Modified
 * [Tom](./topics/community/tom.md)
 * [Wiki](./topics/community/wiki.md)
 ---
+* [Concept Art](./topics/concept-art.md)
 * [Easter Eggs](./topics/easter-eggs.md)
 
 # [Embracer Group](./topics/embracer-group.md)

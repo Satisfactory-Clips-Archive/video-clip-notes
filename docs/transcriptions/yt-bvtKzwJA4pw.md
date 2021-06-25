@@ -9,7 +9,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will Hyper Tube cannons be patched out eventually & officially supported as a feature?
 https://www.youtube.com/watch?v=bvtKzwJA4pw
-This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Have you considered making actual Hyper Tube boosters?](./yt-Oz3Y-caTPTY.md) [https://www.youtube.com/watch?v=Oz3Y-caTPTY](https://www.youtube.com/watch?v=Oz3Y-caTPTY)
+This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: Would you add a Hyper Tube launcher, or do you want to keep the exploity method people use now?](./yt-vGet8HcuE7E.md) [https://www.youtube.com/watch?v=vGet8HcuE7E](https://www.youtube.com/watch?v=vGet8HcuE7E)
 
 
 ### Topics

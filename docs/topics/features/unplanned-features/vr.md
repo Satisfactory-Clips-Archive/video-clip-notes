@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > VR
 
+## June 22nd, 2021 Livestream
+* [Community FYI: VR Confirmed](../../../transcriptions/yt-SNRBsvIqz-E.md) [https://www.youtube.com/watch?v=SNRBsvIqz-E](https://www.youtube.com/watch?v=SNRBsvIqz-E)
+* [Q&A: Are there any plans for VR?](../../../transcriptions/yt-aSo4zUTOCwE.md) [https://www.youtube.com/watch?v=aSo4zUTOCwE](https://www.youtube.com/watch?v=aSo4zUTOCwE)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Plans to add Solar?](../../../transcriptions/yt-wrFOCRX7hDY.md) [https://www.youtube.com/watch?v=wrFOCRX7hDY](https://www.youtube.com/watch?v=wrFOCRX7hDY)
 

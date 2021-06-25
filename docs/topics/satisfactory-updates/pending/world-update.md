@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > World Update
 
+## June 22nd, 2021 Livestream
+* [Q&A: What about river physics, textures- any updates on that any time soon?](../../../transcriptions/yt-ZPyYBY3IW00.md) [https://www.youtube.com/watch?v=ZPyYBY3IW00](https://www.youtube.com/watch?v=ZPyYBY3IW00)
+
 ## June 18th, 2021 Livestream
 * Jace Talk: World Update [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435)
 

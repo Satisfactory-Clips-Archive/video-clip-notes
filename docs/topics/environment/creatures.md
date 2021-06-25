@@ -9,6 +9,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## June 22nd, 2021 Livestream
+* [Q&A: So is Torsten who we blame for Spiders?](../../transcriptions/yt-E5mku0tfmmI.md) [https://www.youtube.com/watch?v=E5mku0tfmmI](https://www.youtube.com/watch?v=E5mku0tfmmI)
+
 ## June 1st, 2021 Livestream
 * Q&A: Pet Spiders? [https://www.youtube.com/watch?v=9kOzRAR9jKE](https://www.youtube.com/watch?v=9kOzRAR9jKE)
 * [Snutt & Jace Talk: Hostile Creatures](../../transcriptions/yt-0twuCunKIQY.md) [https://www.youtube.com/watch?v=0twuCunKIQY](https://www.youtube.com/watch?v=0twuCunKIQY)

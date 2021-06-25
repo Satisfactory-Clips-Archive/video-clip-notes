@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
 
+## June 22nd, 2021 Livestream
+* [Q&A: Is the Color Gun FICSIT-approved or Pioneer made?](../transcriptions/yt-JuKondHQOso.md) [https://www.youtube.com/watch?v=JuKondHQOso](https://www.youtube.com/watch?v=JuKondHQOso)
+* [Q&A: "Damage to FICSIT property detected" - who or what is the property, the suit or the player?](../transcriptions/yt-_w5OogSI8Wo.md) [https://www.youtube.com/watch?v=_w5OogSI8Wo](https://www.youtube.com/watch?v=_w5OogSI8Wo)
+
 ## June 8th, 2021 Livestream
 * [Q&A: What about Story?](../transcriptions/yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
 * [Q&A: Will there be an end to the Story?](../transcriptions/yt-h0N-cNnuBks.md) [https://www.youtube.com/watch?v=h0N-cNnuBks](https://www.youtube.com/watch?v=h0N-cNnuBks)

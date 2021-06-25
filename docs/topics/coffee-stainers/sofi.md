@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Sofi
 
+## June 22nd, 2021 Livestream
+* [Torsten Talk: Update 5 Concept Art](../../transcriptions/yt-Jb_V7r_cnc0.md) [https://www.youtube.com/watch?v=Jb_V7r_cnc0](https://www.youtube.com/watch?v=Jb_V7r_cnc0)
+* Snutt & Jace & Torsten Talk: Developer Highlights [https://www.youtube.com/watch?v=jO0uF_Ul7ZA](https://www.youtube.com/watch?v=jO0uF_Ul7ZA)
+
 ## April 27th, 2021 Livestream
 * [Q&A: What is actually at the end of the Space Elevator?](../../transcriptions/yt-46jdMN3bb28.md) [https://www.youtube.com/watch?v=46jdMN3bb28](https://www.youtube.com/watch?v=46jdMN3bb28)
 

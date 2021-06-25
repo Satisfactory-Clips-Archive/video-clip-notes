@@ -12,6 +12,9 @@ date: Last Modified
 * [Walkways](../../topics/features/buildables/walkways.md)
 * [Walls](../../topics/features/buildables/walls.md)
 
+## June 22nd, 2021 Livestream
+* [Q&A: Will Stairs & the Walkways be more connectable?](../../transcriptions/yt-nkrBqOatRWI.md) [https://www.youtube.com/watch?v=nkrBqOatRWI](https://www.youtube.com/watch?v=nkrBqOatRWI)
+
 ## May 28th, 2021 Livestream
 * [Snutt & Ben Talk: Light Pooling](../../transcriptions/yt-dyqOMITwLsY,691.144145,783.2824999999999.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=691&end=784](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=691&end=784)
 

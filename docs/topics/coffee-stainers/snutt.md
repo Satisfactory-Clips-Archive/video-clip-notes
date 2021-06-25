@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## June 22nd, 2021 Livestream
+* [Snutt & Jace Talk: Stream comments](../../transcriptions/yt-ccEJHN-2_JY.md) [https://www.youtube.com/watch?v=ccEJHN-2_JY](https://www.youtube.com/watch?v=ccEJHN-2_JY)
+
 ## June 15th, 2021 Livestream
 * [Snutt & Jace Talk: The new agenda overlay](../../transcriptions/yt-8o_ceVd1d2M.md) [https://www.youtube.com/watch?v=8o_ceVd1d2M](https://www.youtube.com/watch?v=8o_ceVd1d2M)
 * [Snutt & Jace Talk: Snutt corpsing over Walker Texas Ranger reference](../../transcriptions/yt-K6y-gXrVWHY.md) [https://www.youtube.com/watch?v=K6y-gXrVWHY](https://www.youtube.com/watch?v=K6y-gXrVWHY)

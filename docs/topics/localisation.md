@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Localisation
 
+## June 22nd, 2021 Livestream
+* [Q&A: When will Experimental come to EA?](../transcriptions/yt-O8PEBlRC4kU.md) [https://www.youtube.com/watch?v=O8PEBlRC4kU](https://www.youtube.com/watch?v=O8PEBlRC4kU)
+
 ## June 8th, 2021 Livestream
 * [Snutt Talk: No more bug fixes until Update 5](../transcriptions/yt-hdbFUc78Srk.md) [https://www.youtube.com/watch?v=hdbFUc78Srk](https://www.youtube.com/watch?v=hdbFUc78Srk)
 

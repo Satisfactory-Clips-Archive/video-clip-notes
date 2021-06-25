@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## June 22nd, 2021 Livestream
+* Q&A: Did Torsten have any familiarity with Satisfactory or other Coffee Stain games before starting? [https://www.youtube.com/watch?v=XWur2rhaSjY](https://www.youtube.com/watch?v=XWur2rhaSjY)
+
 ## June 15th, 2021 Livestream
 * [Snutt & Jace Talk: Goat Simulator, Sanctum, and Rocket League](../../transcriptions/yt-5Tu2HsXRQNg.md) [https://www.youtube.com/watch?v=5Tu2HsXRQNg](https://www.youtube.com/watch?v=5Tu2HsXRQNg)
 

@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## June 22nd, 2021 Livestream
+* [Q&A: How long does it take from start to end to make a Concept for a Building?](../../../transcriptions/yt-BIThI1ygHrE.md) [https://www.youtube.com/watch?v=BIThI1ygHrE](https://www.youtube.com/watch?v=BIThI1ygHrE)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Will there be Mk.2 Trains?](../../../transcriptions/yt-jfj5xytO5-s.md) [https://www.youtube.com/watch?v=jfj5xytO5-s](https://www.youtube.com/watch?v=jfj5xytO5-s)
 

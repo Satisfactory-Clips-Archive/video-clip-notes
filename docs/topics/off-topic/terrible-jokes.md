@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Terrible Jokes
 
+## June 22nd, 2021 Livestream
+* [Community FYI: We need more Torsten for more stuff](../../transcriptions/yt-OYmODp23yio.md) [https://www.youtube.com/watch?v=OYmODp23yio](https://www.youtube.com/watch?v=OYmODp23yio)
+* [Q&A: Will Stairs & the Walkways be more connectable?](../../transcriptions/yt-nkrBqOatRWI.md) [https://www.youtube.com/watch?v=nkrBqOatRWI](https://www.youtube.com/watch?v=nkrBqOatRWI)
+
 ## June 15th, 2021 Livestream
 * [Snutt & Jace Talk: Muted, yet again](../../transcriptions/yt-lm95vcIEOUA.md) [https://www.youtube.com/watch?v=lm95vcIEOUA](https://www.youtube.com/watch?v=lm95vcIEOUA)
 * [Snutt & Jace Talk: Let's raid E3](../../transcriptions/yt-lGExVXdrydY.md) [https://www.youtube.com/watch?v=lGExVXdrydY](https://www.youtube.com/watch?v=lGExVXdrydY)

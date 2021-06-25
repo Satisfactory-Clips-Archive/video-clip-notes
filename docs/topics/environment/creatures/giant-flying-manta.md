@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Giant Flying Manta
 
+## June 22nd, 2021 Livestream
+* [Q&A: Make the Flying Manta fly higher please?](../../../transcriptions/yt-544C8V8neKk.md) [https://www.youtube.com/watch?v=544C8V8neKk](https://www.youtube.com/watch?v=544C8V8neKk)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Can you add an option to turn the Manta off?](../../../transcriptions/yt-rV2iNBm3S-k.md) [https://www.youtube.com/watch?v=rV2iNBm3S-k](https://www.youtube.com/watch?v=rV2iNBm3S-k)
 
