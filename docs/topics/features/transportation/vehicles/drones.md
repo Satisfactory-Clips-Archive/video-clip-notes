@@ -55,8 +55,8 @@ date: Last Modified
 * [Q&A: Will the Drone fly through a mountain??](../../../../transcriptions/yt-WLe1_rdbPqM.md) [https://www.youtube.com/watch?v=WLe1_rdbPqM](https://www.youtube.com/watch?v=WLe1_rdbPqM)
 
 ## March 16th, 2021 Livestream
-* Snutt & Jace Talk: Drone Fan Art [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313)
 * [Drones](../../../../transcriptions/yt-Dp77ih_XmkY,409.4583333333333,458.9583333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459)
+* Snutt & Jace Talk: Drone Fan Art [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15258&end=15313)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Were you serious about the drones in the last YouTube video?](../../../../transcriptions/yt-bbAGxhCSN8c.md) [https://www.youtube.com/watch?v=bbAGxhCSN8c](https://www.youtube.com/watch?v=bbAGxhCSN8c)

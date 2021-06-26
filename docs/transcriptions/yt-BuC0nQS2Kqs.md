@@ -8,14 +8,6 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Confused on the use of Controllers?
 https://www.youtube.com/watch?v=BuC0nQS2Kqs
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as September 2020 and as early as February 2019.</summary>
-
-* [September 22nd, 2020 Livestream Q&A: Unreal Engine has default Controller support without you guys remapping?](./yt-ypJikGBEdvs.md) [https://www.youtube.com/watch?v=ypJikGBEdvs](https://www.youtube.com/watch?v=ypJikGBEdvs)
-* [March 9th, 2019 Livestream Q&A: Controller support?](./yt-XrsD3h62ils.md) [https://www.youtube.com/watch?v=XrsD3h62ils](https://www.youtube.com/watch?v=XrsD3h62ils)
-* [February 6th, 2019 Livestream Q&A: Controller support?](./yt-Dtm6xIj-wM4,4052.6,4151.820477.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152)
-</details>
-
 
 ### Topics
 

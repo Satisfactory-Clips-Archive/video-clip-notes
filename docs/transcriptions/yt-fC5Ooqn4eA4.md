@@ -11,8 +11,8 @@ https://www.youtube.com/watch?v=fC5Ooqn4eA4
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as May 2021.</summary>
 
-* [May 4th, 2021 Livestream Q&A: New planet?](./yt-yT6M4mh83Vs.md) [https://www.youtube.com/watch?v=yT6M4mh83Vs](https://www.youtube.com/watch?v=yT6M4mh83Vs)
 * [May 4th, 2021 Livestream Q&A: Travelling to other planets?](./yt-uiRY89T_9mg.md) [https://www.youtube.com/watch?v=uiRY89T_9mg](https://www.youtube.com/watch?v=uiRY89T_9mg)
+* [May 4th, 2021 Livestream Q&A: New planet?](./yt-yT6M4mh83Vs.md) [https://www.youtube.com/watch?v=yT6M4mh83Vs](https://www.youtube.com/watch?v=yT6M4mh83Vs)
 </details>
 
 

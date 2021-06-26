@@ -8,8 +8,8 @@ date: Last Modified
 * [Q&A: Asking very nicely even if it's a no; Oil node in Green Hills?](../../../transcriptions/yt-RI8F-a7oO1s.md) [https://www.youtube.com/watch?v=RI8F-a7oO1s](https://www.youtube.com/watch?v=RI8F-a7oO1s)
 
 ## March 16th, 2021 Livestream
-* Q&A: Does ADA's helmet contain Oil or something- there's a knob behind the Helmet? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868)
 * [We're also adding Nitrogen Gas](../../../transcriptions/yt-Dp77ih_XmkY,163.625,185.58333333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186)
+* Q&A: Does ADA's helmet contain Oil or something- there's a knob behind the Helmet? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5842&end=5868)
 
 ## March 2nd, 2021 Livestream
 * [Q&A: Will there be changes to the existing Oil nodes?](../../../transcriptions/yt-I6Zgi1aOJTk.md) [https://www.youtube.com/watch?v=I6Zgi1aOJTk](https://www.youtube.com/watch?v=I6Zgi1aOJTk)

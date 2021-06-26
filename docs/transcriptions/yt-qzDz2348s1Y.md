@@ -10,12 +10,6 @@ topics:
 https://www.youtube.com/watch?v=qzDz2348s1Y
 This question was possibly replaced with a more recent answer: [April 20th, 2021 Livestream Q&A: The Ratio Splitter?](./yt-cBwAofHv-6o.md) [https://www.youtube.com/watch?v=cBwAofHv-6o](https://www.youtube.com/watch?v=cBwAofHv-6o)
 
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as March 2019.</summary>
-
-* [March 9th, 2019 Livestream Q&A: Are there plans to have Conveyor filters?](./yt-AtqljG_K7xA.md) [https://www.youtube.com/watch?v=AtqljG_K7xA](https://www.youtube.com/watch?v=AtqljG_K7xA)
-</details>
-
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

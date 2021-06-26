@@ -12,12 +12,6 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Can we get another reference to "No" on Factory Defense?
 https://www.youtube.com/watch?v=1DkSWmgD1Ws
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as June 2021.</summary>
-
-* [June 15th, 2021 Livestream Q&A: Ever think about Tower Defense?](./yt-ElkfY8wg5qs.md) [https://www.youtube.com/watch?v=ElkfY8wg5qs](https://www.youtube.com/watch?v=ElkfY8wg5qs)
-</details>
-
 
 ### Topics
 * [Community > Tom](../topics/community/tom.md)

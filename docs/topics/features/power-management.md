@@ -66,8 +66,8 @@ date: Last Modified
 * [Snutt & Jace Talk: Particle Accelerator power usage](../../transcriptions/yt-Ejl1r4KQpMY.md) [https://www.youtube.com/watch?v=Ejl1r4KQpMY](https://www.youtube.com/watch?v=Ejl1r4KQpMY)
 
 ## March 16th, 2021 Livestream
-* Mark & Snutt Talk: Removal of Power Self-Regulation [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5403&end=5534](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5403&end=5534)
 * [Power Generators are no longer Self-Regulating](../../transcriptions/yt-Dp77ih_XmkY,283.432566,307.5833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=283&end=308](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=283&end=308)
+* Mark & Snutt Talk: Removal of Power Self-Regulation [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5403&end=5534](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5403&end=5534)
 
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: Snutt learned a thing from Update 4](../../transcriptions/yt-qCdoBNMwLDw.md) [https://www.youtube.com/watch?v=qCdoBNMwLDw](https://www.youtube.com/watch?v=qCdoBNMwLDw)
