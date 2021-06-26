@@ -2765,7 +2765,7 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 7 other times, as recently as January 2021 and as early as August 2020.</summary>
+<summary>This question may have been asked previously at least 8 other times, as recently as January 2021 and as early as February 2019.</summary>
 
 * [January 19th, 2021 Livestream Q&A: If the community made a Snow Biome, would you add that?](./transcriptions/yt-I8rWTBGdGio.md) [https://www.youtube.com/watch?v=I8rWTBGdGio](https://www.youtube.com/watch?v=I8rWTBGdGio)
 * [January 19th, 2021 Livestream Q&A: Can we please get a Snow Biome?](./transcriptions/yt-QHVdhswD13w.md) [https://www.youtube.com/watch?v=QHVdhswD13w](https://www.youtube.com/watch?v=QHVdhswD13w)
@@ -2774,6 +2774,7 @@ date: Last Modified
 * [September 22nd, 2020 Livestream Q&A: Snowy Biome confirmed?](./transcriptions/yt-Yend7bHTMvw.md) [https://www.youtube.com/watch?v=Yend7bHTMvw](https://www.youtube.com/watch?v=Yend7bHTMvw)
 * [September 15th, 2020 Livestream Q&A: Snow Area Confirmed?](./transcriptions/yt-yUDtq7D8XU8.md) [https://www.youtube.com/watch?v=yUDtq7D8XU8](https://www.youtube.com/watch?v=yUDtq7D8XU8)
 * August 18th, 2020 Livestream Q&A: Any ice/snow biome plans? [https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl](https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl)
+* [February 20th, 2019 Livestream Q&A: What about Snow in the game's future?](./transcriptions/yt-CB9bSigNYH8,5186.033333333334,5200.942785.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201)
 </details>
 
 ### [Q&A: Are Smart Splitters changing in Update 4?](./transcriptions/yt-WVQ5pUtT-TQ.md) [https://www.youtube.com/watch?v=WVQ5pUtT-TQ](https://www.youtube.com/watch?v=WVQ5pUtT-TQ)

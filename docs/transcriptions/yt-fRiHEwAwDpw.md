@@ -9,6 +9,12 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Is that not actual gameplay footage?
 https://www.youtube.com/watch?v=fRiHEwAwDpw
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as June 2018.</summary>
+
+* [June 22nd, 2018 Q&A: Was the trailer a cinematic, or shot in-engine?](./yt-W1E6EWrAsII,492.52,520.44.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=492&end=521](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=492&end=521)
+</details>
+
 
 ### Topics
 * [Features > Buildings > Packager](../topics/features/buildings/packager.md)
