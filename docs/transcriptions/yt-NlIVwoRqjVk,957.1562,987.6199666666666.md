@@ -3,13 +3,13 @@ title: "May 15th, 2020 - Q&A: Any 3rd person toggle planned?"
 date: "2020-05-15"
 layout: transcript
 topics: 
-    - "technology/user-interface"
+    - "features/requested-features/third-person-view"
 ---
 # [May 15th, 2020 MASSIVE Q&A // Mod support, S.A.M ore, Train signals, New Buildings and Vehicles + more](../2020-05-15.md)
 ## Q&A: Any 3rd person toggle planned?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=957&end=988
 ### Topics
-* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Features > Requested Features > Third-person View](../topics/features/requested-features/third-person-view.md)
 
 ### Transcript
 

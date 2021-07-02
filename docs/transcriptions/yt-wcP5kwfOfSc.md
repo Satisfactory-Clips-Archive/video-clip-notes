@@ -3,7 +3,7 @@ title: "February 23rd, 2021 Livestream Q&A: Third Person View?"
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "features/requested-features/third-person-view"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Third Person View?
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=wcP5kwfOfSc
 
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Features > Requested Features > Third-person View](../topics/features/requested-features/third-person-view.md)
 
 ### Transcript
 

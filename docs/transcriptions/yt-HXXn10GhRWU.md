@@ -3,9 +3,9 @@ title: "August 25th, 2020 Livestream Q&A: Please consider adding a third-person 
 date: "2020-08-25"
 layout: transcript
 topics:
+    - "features/requested-features/third-person-view"
     - "features/transportation/vehicles"
     - "satisfactory-updates/pre-alpha"
-    - "technology/graphics"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Please consider adding a third-person view?
@@ -14,9 +14,9 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 
 ### Topics
+* [Features > Requested Features > Third-person View](../topics/features/requested-features/third-person-view.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 * [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript
 

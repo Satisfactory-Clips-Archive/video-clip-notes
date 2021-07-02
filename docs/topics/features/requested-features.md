@@ -8,6 +8,7 @@ date: Last Modified
 * [Golf](../../topics/features/requested-features/golf.md)
 * [Holstering Equipment](../../topics/features/requested-features/holstering-equipment.md)
 * [Multiple Body Slots](../../topics/features/requested-features/multiple-body-slots.md)
+* [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
 ## June 15th, 2021 Livestream
 * [Q&A: Have you considered making actual Hyper Tube boosters?](../../transcriptions/yt-Oz3Y-caTPTY.md) [https://www.youtube.com/watch?v=Oz3Y-caTPTY](https://www.youtube.com/watch?v=Oz3Y-caTPTY)

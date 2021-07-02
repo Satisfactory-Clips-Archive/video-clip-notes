@@ -3,13 +3,13 @@ title: "December 17th, 2020 - Q&A: Will there ever be 3rd person?"
 date: "2020-12-17"
 layout: transcript
 topics: 
-    - "technology/user-interface"
+    - "features/requested-features/third-person-view"
 ---
 # [December 17th, 2020 Another BIIIIG Q&A Video // Wiki leaks, Foundation shapes, Signs, Farms, Copy&Paste, and a LOT more!](../2020-12-17.md)
 ## Q&A: Will there ever be 3rd person?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=875&end=912
 ### Topics
-* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Features > Requested Features > Third-person View](../topics/features/requested-features/third-person-view.md)
 
 ### Transcript
 

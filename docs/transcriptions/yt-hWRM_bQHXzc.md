@@ -3,8 +3,7 @@ title: "March 24th, 2020 Livestream Q&A: Third-person Camera option?"
 date: "2020-03-24"
 layout: transcript
 topics:
-    - "technology/graphics"
-    - "technology/user-interface"
+    - "features/requested-features/third-person-view"
 ---
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Third-person Camera option?
@@ -13,8 +12,7 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Features > Requested Features > Third-person View](../topics/features/requested-features/third-person-view.md)
 
 ### Transcript
 

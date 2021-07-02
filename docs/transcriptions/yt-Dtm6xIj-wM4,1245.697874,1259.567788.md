@@ -3,13 +3,13 @@ title: "February 6th, 2019 - Q&A: Will there be third-person view?"
 date: "2019-02-06"
 layout: transcript
 topics: 
-    - "technology/user-interface"
+    - "features/requested-features/third-person-view"
 ---
 # [February 6th, 2019 Satisfactory Q&A/Hangout Stream](../2019-02-06.md)
 ## Q&A: Will there be third-person view?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1245&end=1260
 ### Topics
-* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Features > Requested Features > Third-person View](../topics/features/requested-features/third-person-view.md)
 
 ### Transcript
 

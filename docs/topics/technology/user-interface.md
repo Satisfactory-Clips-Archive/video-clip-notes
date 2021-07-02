@@ -160,7 +160,6 @@ date: Last Modified
 ## December 17th, 2020 Q&A
 * [Q&A: Can we replace walls without having to delete them?](../../transcriptions/yt--JXPsTlJIiI,564.9644,585.4515333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=564&end=586](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=564&end=586)
 * [Q&A: Why don't my computer screens in my hub show me power consumption or total production?](../../transcriptions/yt--JXPsTlJIiI,808.0739333333333,844.2767666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845)
-* [Q&A: Will there ever be 3rd person?](../../transcriptions/yt--JXPsTlJIiI,875.7081666666667,911.9110000000001.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=875&end=912](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=875&end=912)
 
 ## December 15th, 2020 Livestream
 * [Q&A: Will planning be added?](../../transcriptions/yt-_HKsPj2tx04.md) [https://www.youtube.com/watch?v=_HKsPj2tx04](https://www.youtube.com/watch?v=_HKsPj2tx04)
@@ -214,7 +213,6 @@ date: Last Modified
 * [Q&A: Can you add ability to deselect with ctrl?](../../transcriptions/yt-CjWFoMF7EIo.md) [https://www.youtube.com/watch?v=CjWFoMF7EIo](https://www.youtube.com/watch?v=CjWFoMF7EIo)
 * [Q&A: Any chance of you putting a daily limit in the game?](../../transcriptions/yt-vgxwqJg7o2A.md) [https://www.youtube.com/watch?v=vgxwqJg7o2A](https://www.youtube.com/watch?v=vgxwqJg7o2A)
 * [Q&A: Can we get the stream starting video as the main menu?](../../transcriptions/yt-Mqso2kUIPVA.md) [https://www.youtube.com/watch?v=Mqso2kUIPVA](https://www.youtube.com/watch?v=Mqso2kUIPVA)
-* [Q&A: Third-Person When?](../../transcriptions/yt-nVXcTzC72EQ.md) [https://www.youtube.com/watch?v=nVXcTzC72EQ](https://www.youtube.com/watch?v=nVXcTzC72EQ)
 * [Q&A: When can I change the keybindings?](../../transcriptions/yt-M4ZlxfNJg4s.md) [https://www.youtube.com/watch?v=M4ZlxfNJg4s](https://www.youtube.com/watch?v=M4ZlxfNJg4s)
 * [Q&A: When will "coal" be "Coal" on the Resource Scanner?](../../transcriptions/yt-p-Zd7qm0D6E.md) [https://www.youtube.com/watch?v=p-Zd7qm0D6E](https://www.youtube.com/watch?v=p-Zd7qm0D6E)
 
@@ -244,14 +242,12 @@ date: Last Modified
 
 ## May 15th, 2020 Q&A
 * [Q&A: Will we get more than one body slot?](../../transcriptions/yt-NlIVwoRqjVk,733.1324,779.1784.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780)
-* [Q&A: Any 3rd person toggle planned?](../../transcriptions/yt-NlIVwoRqjVk,957.1562,987.6199666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=957&end=988](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=957&end=988)
 * [Q&A: Any chance of a holster keybind so we can lower our hand slot when not in use?](../../transcriptions/yt-NlIVwoRqjVk,1019.9856333333333,1034.8338.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1019&end=1035](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1019&end=1035)
 
 ## April 10th, 2020 Video
 * [Jace Talk: Multiple hotbars](../../transcriptions/yt-CG-63B4g11U,37.333333333333336,94.737738.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=37&end=95](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=37&end=95)
 
 ## March 24th, 2020 Livestream
-* [Q&A: Third-person Camera option?](../../transcriptions/yt-hWRM_bQHXzc.md) [https://www.youtube.com/watch?v=hWRM_bQHXzc](https://www.youtube.com/watch?v=hWRM_bQHXzc)
 * [Q&A: Can we turn off ADA notifications?](../../transcriptions/yt-w2S15UcuaUs.md) [https://www.youtube.com/watch?v=w2S15UcuaUs](https://www.youtube.com/watch?v=w2S15UcuaUs)
 
 ## March 12th, 2020 Patch Notes
@@ -296,8 +292,6 @@ date: Last Modified
 
 ## February 6th, 2019 Livestream
 * [Q&A: Top-down view?](../../transcriptions/yt-Dtm6xIj-wM4,1125.56383,1155.053199.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1125&end=1156](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1125&end=1156)
-* [Q&A: Will there be third-person view?](../../transcriptions/yt-Dtm6xIj-wM4,1245.697874,1259.567788.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1245&end=1260](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1245&end=1260)
-* [Q&A: Can you see your character in third-person?](../../transcriptions/yt-Dtm6xIj-wM4,3610.872363,3623.301698.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3610&end=3624](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3610&end=3624)
 * [Q&A: Controller support?](../../transcriptions/yt-Dtm6xIj-wM4,4052.6,4151.820477.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152)
 
 ## January 19th, 2019 Video

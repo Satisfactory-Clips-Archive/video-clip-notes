@@ -3,8 +3,7 @@ title: "September 8th, 2020 Livestream Q&A: Third-Person When?"
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "technology/graphics"
-    - "technology/user-interface"
+    - "features/requested-features/third-person-view"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Third-Person When?
@@ -13,8 +12,7 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Features > Requested Features > Third-person View](../topics/features/requested-features/third-person-view.md)
 
 ### Transcript
 

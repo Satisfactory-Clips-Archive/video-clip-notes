@@ -232,6 +232,7 @@ date: Last Modified
 * [Golf](./topics/features/requested-features/golf.md)
 * [Holstering Equipment](./topics/features/requested-features/holstering-equipment.md)
 * [Multiple Body Slots](./topics/features/requested-features/multiple-body-slots.md)
+* [Third-person View](./topics/features/requested-features/third-person-view.md)
 ---
 
 ## [Save System](./topics/features/save-system.md)

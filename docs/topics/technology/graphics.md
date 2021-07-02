@@ -61,7 +61,6 @@ date: Last Modified
 
 ## February 23rd, 2021 Livestream
 * [Q&A: If we're not getting Dedicated Servers any time soon, is it possible to get disabled rendering?](../../transcriptions/yt-qiF-rpSnoTI.md) [https://www.youtube.com/watch?v=qiF-rpSnoTI](https://www.youtube.com/watch?v=qiF-rpSnoTI)
-* [Q&A: Third Person View?](../../transcriptions/yt-wcP5kwfOfSc.md) [https://www.youtube.com/watch?v=wcP5kwfOfSc](https://www.youtube.com/watch?v=wcP5kwfOfSc)
 
 ## February 16th, 2021 Livestream
 * [Q&A: Have you fixed the gamma?](../../transcriptions/yt-2NIYN2OWrWs.md) [https://www.youtube.com/watch?v=2NIYN2OWrWs](https://www.youtube.com/watch?v=2NIYN2OWrWs)
@@ -166,7 +165,6 @@ date: Last Modified
 * [Q&A: Removing 90 Factory Carts doubled my FPS](../../transcriptions/yt-R6XOvosAptg.md) [https://www.youtube.com/watch?v=R6XOvosAptg](https://www.youtube.com/watch?v=R6XOvosAptg)
 
 ## September 8th, 2020 Livestream
-* [Q&A: Third-Person When?](../../transcriptions/yt-nVXcTzC72EQ.md) [https://www.youtube.com/watch?v=nVXcTzC72EQ](https://www.youtube.com/watch?v=nVXcTzC72EQ)
 * [Q&A: Should I remove all nature to improve FPS?](../../transcriptions/yt-t-FNpaJUBcE.md) [https://www.youtube.com/watch?v=t-FNpaJUBcE](https://www.youtube.com/watch?v=t-FNpaJUBcE)
 
 ## September 1st, 2020 Livestream
@@ -174,7 +172,6 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Reducing the stupid poly counts?](../../transcriptions/yt-aDlrBrPtdfw.md) [https://www.youtube.com/watch?v=aDlrBrPtdfw](https://www.youtube.com/watch?v=aDlrBrPtdfw)
-* [Q&A: Please consider adding a third-person view?](../../transcriptions/yt-HXXn10GhRWU.md) [https://www.youtube.com/watch?v=HXXn10GhRWU](https://www.youtube.com/watch?v=HXXn10GhRWU)
 * [Q&A: Why is hyperloop in first person?](../../transcriptions/yt-BmSeFBv2rAQ.md) [https://www.youtube.com/watch?v=BmSeFBv2rAQ](https://www.youtube.com/watch?v=BmSeFBv2rAQ)
 * [Q&A: Real-time reflections for the helmet?](../../transcriptions/yt-RuQcbza7pVw.md) [https://www.youtube.com/watch?v=RuQcbza7pVw](https://www.youtube.com/watch?v=RuQcbza7pVw)
 * [Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](../../transcriptions/yt-Ds9NIPna9_4.md) [https://www.youtube.com/watch?v=Ds9NIPna9_4](https://www.youtube.com/watch?v=Ds9NIPna9_4)
@@ -197,9 +194,6 @@ date: Last Modified
 * [Simon & Jace Talk: VFX for Buildings (Part 1)](../../transcriptions/yt-mci92Mhr7MM,812.6118,893.1589333333334.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=812&end=894](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=812&end=894)
 * [Simon & Jace Talk: VFX for Buildings (Part 2)](../../transcriptions/yt-mci92Mhr7MM,928.6944333333333,947.2796666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948)
 * [Simon & Jace Talk: Modifying VFX](../../transcriptions/yt-mci92Mhr7MM,947.2796666666667,1092.0910000000001.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=947&end=1093](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=947&end=1093)
-
-## March 24th, 2020 Livestream
-* [Q&A: Third-person Camera option?](../../transcriptions/yt-hWRM_bQHXzc.md) [https://www.youtube.com/watch?v=hWRM_bQHXzc](https://www.youtube.com/watch?v=hWRM_bQHXzc)
 
 ## February 11th, 2020 Livestream
 * [Snutt Talk: There's so many things I want to fix & do](../../transcriptions/yt-jNQ4IPihWUY.md) [https://www.youtube.com/watch?v=jNQ4IPihWUY](https://www.youtube.com/watch?v=jNQ4IPihWUY)
