@@ -3,7 +3,8 @@ title: "September 8th, 2020 Livestream Snutt Talk: Belts, Pipes, and Hyper Tube 
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "features/buildings"
+    - "features/buildables/conveyor-belts"
+    - "features/fluids/pipes"
     - "features/transportation/hyper-tubes"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
@@ -11,7 +12,8 @@ topics:
 https://www.youtube.com/watch?v=IeP2Y9SFeh8
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
+* [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Transportation > Hyper Tubes](../topics/features/transportation/hyper-tubes.md)
 
 ### Transcript

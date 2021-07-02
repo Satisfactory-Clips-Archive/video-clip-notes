@@ -152,7 +152,7 @@ date: Last Modified
 
 ## September 29th, 2020 Livestream
 * [Q&A: Enclosed Belts](../../transcriptions/yt-oLpv9B5-OjE.md) [https://www.youtube.com/watch?v=oLpv9B5-OjE](https://www.youtube.com/watch?v=oLpv9B5-OjE)
-* [Q&A: What about Mk. 6 Belts?](../../transcriptions/yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)
+* [Q&A: What about Mk.6 Belts?](../../transcriptions/yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)
 
 ## September 22nd, 2020 Livestream
 * [Q&A: Engine Update - allow more objects to be built without fps drops?](../../transcriptions/yt-sADDzCQqkmE.md) [https://www.youtube.com/watch?v=sADDzCQqkmE](https://www.youtube.com/watch?v=sADDzCQqkmE)

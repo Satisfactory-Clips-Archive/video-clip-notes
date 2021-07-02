@@ -1,18 +1,18 @@
 ---
-title: "October 13th, 2020 Livestream Q&A: Only use it (mk. 2 belts) for Load Balancing."
+title: "October 13th, 2020 Livestream Q&A: Only use it (mk.2 belts) for Load Balancing."
 date: "2020-10-13"
 layout: transcript
 topics:
     - "environment/resources"
-    - "features/buildings"
+    - "features/buildables/conveyor-belts"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
-## Q&A: Only use it (mk. 2 belts) for Load Balancing.
+## Q&A: Only use it (mk.2 belts) for Load Balancing.
 https://www.youtube.com/watch?v=1xgb-jbAWt4
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
-* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 
 ### Transcript
 

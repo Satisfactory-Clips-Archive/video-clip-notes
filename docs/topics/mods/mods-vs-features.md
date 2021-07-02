@@ -87,7 +87,7 @@ date: Last Modified
 
 ## September 29th, 2020 Livestream
 * [Q&A: Enclosed Belts](../../transcriptions/yt-oLpv9B5-OjE.md) [https://www.youtube.com/watch?v=oLpv9B5-OjE](https://www.youtube.com/watch?v=oLpv9B5-OjE)
-* [Q&A: What about Mk. 6 Belts?](../../transcriptions/yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)
+* [Q&A: What about Mk.6 Belts?](../../transcriptions/yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)
 
 ## September 15th, 2020 Livestream
 * [Q&A: Will there be a Map Editor?](../../transcriptions/yt-MYno60AbSGk.md) [https://www.youtube.com/watch?v=MYno60AbSGk](https://www.youtube.com/watch?v=MYno60AbSGk)

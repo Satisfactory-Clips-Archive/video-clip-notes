@@ -283,6 +283,7 @@ date: Last Modified
 * [Loot Boxes](./topics/features/unplanned-features/loot-boxes.md)
 * [Mass Building](./topics/features/unplanned-features/mass-building.md)
 * [Microtransactions](./topics/features/unplanned-features/microtransactions.md)
+* [Mk.2 Buildings](./topics/features/unplanned-features/mk-2-buildings.md)
 * [Procedural Generation](./topics/features/unplanned-features/procedural-generation.md)
 * [Space Exploration](./topics/features/unplanned-features/space-exploration.md)
 * [Terraforming](./topics/features/unplanned-features/terraforming.md)

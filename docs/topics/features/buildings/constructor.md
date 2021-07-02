@@ -16,6 +16,7 @@ date: Last Modified
 
 ## March 23rd, 2021 Livestream
 * [Q&A: Can you make Constructors more efficient?](../../../transcriptions/yt-5ANUhKoS4uQ.md) [https://www.youtube.com/watch?v=5ANUhKoS4uQ](https://www.youtube.com/watch?v=5ANUhKoS4uQ)
+* [Q&A: Will we ever see Mk.2 versions of the Constructor, Assembler, Refinery etc.?](../../../transcriptions/yt-b9z-MopRxic.md) [https://www.youtube.com/watch?v=b9z-MopRxic](https://www.youtube.com/watch?v=b9z-MopRxic)
 
 ## March 2nd, 2021 Livestream
 * [Q&A: Now that Jace knows what a Constructor looks like, do you feel inferior?](../../../transcriptions/yt-x56_-zALi10.md) [https://www.youtube.com/watch?v=x56_-zALi10](https://www.youtube.com/watch?v=x56_-zALi10)

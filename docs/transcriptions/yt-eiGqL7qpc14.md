@@ -6,6 +6,7 @@ topics:
     - "features/buildings"
     - "features/buildings/overclocking-underclocking"
     - "features/buildings/smelter"
+    - "features/unplanned-features/mk-2-buildings"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will there be faster Smelter/Manufacturers?
@@ -17,6 +18,7 @@ This question was possibly duplicated with a more recent answer: [April 27th, 20
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
 * [Features > Buildings > Smelter](../topics/features/buildings/smelter.md)
+* [Features > Unplanned Features > Mk.2 Buildings](../topics/features/unplanned-features/mk-2-buildings.md)
 
 ### Transcript
 

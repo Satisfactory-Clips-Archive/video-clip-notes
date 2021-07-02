@@ -153,11 +153,24 @@ date: Last Modified
 * [Q&A: Will you be able to upgrade Splitters to Smart/Programmable Splitters?](../../../transcriptions/yt-7G0wdPB4X-c.md) [https://www.youtube.com/watch?v=7G0wdPB4X-c](https://www.youtube.com/watch?v=7G0wdPB4X-c)
 * [Q&A: Any possibility of Conveyor crossover junctions?](../../../transcriptions/yt-u-8FaZsEVwk.md) [https://www.youtube.com/watch?v=u-8FaZsEVwk](https://www.youtube.com/watch?v=u-8FaZsEVwk)
 
+## October 13th, 2020 Livestream
+* [Q&A: I think the price for mk.3 & mk.4 belts are great, but mk.2 I skip almost every time.](../../../transcriptions/yt-d6uqZlgK7ao.md) [https://www.youtube.com/watch?v=d6uqZlgK7ao](https://www.youtube.com/watch?v=d6uqZlgK7ao)
+* [Q&A: Only use it (mk.2 belts) for Load Balancing.](../../../transcriptions/yt-1xgb-jbAWt4.md) [https://www.youtube.com/watch?v=1xgb-jbAWt4](https://www.youtube.com/watch?v=1xgb-jbAWt4)
+
 ## October 9th, 2020 Livestream
 * [Dylan Talk: Instanced Splines (Part 13)](../../../transcriptions/yt-0VtsjQsFzZU.md) [https://www.youtube.com/watch?v=0VtsjQsFzZU](https://www.youtube.com/watch?v=0VtsjQsFzZU)
 * [Dylan Talk: Instanced Splines (Part 15)](../../../transcriptions/yt-fJRZSb0W8mQ.md) [https://www.youtube.com/watch?v=fJRZSb0W8mQ](https://www.youtube.com/watch?v=fJRZSb0W8mQ)
 * [Snutt & Dylan Talk: Developing Trains, Pipes, and Engine Upgrade Belts](../../../transcriptions/yt-Ri4BTkabEaE.md) [https://www.youtube.com/watch?v=Ri4BTkabEaE](https://www.youtube.com/watch?v=Ri4BTkabEaE)
 * [Dylan Talk: Working on the Replication Graph](../../../transcriptions/yt-0THShqltbYM.md) [https://www.youtube.com/watch?v=0THShqltbYM](https://www.youtube.com/watch?v=0THShqltbYM)
+
+## September 29th, 2020 Livestream
+* [Q&A: What about Mk.6 Belts?](../../../transcriptions/yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)
+
+## September 22nd, 2020 Livestream
+* [Q&A: Would implementing covered belts reduce the number of objects in the world?](../../../transcriptions/yt-2R4MfLt_oMw.md) [https://www.youtube.com/watch?v=2R4MfLt_oMw](https://www.youtube.com/watch?v=2R4MfLt_oMw)
+
+## September 8th, 2020 Livestream
+* [Snutt Talk: Belts, Pipes, and Hyper Tube max lengths](../../../transcriptions/yt-IeP2Y9SFeh8.md) [https://www.youtube.com/watch?v=IeP2Y9SFeh8](https://www.youtube.com/watch?v=IeP2Y9SFeh8)
 
 ## August 25th, 2020 Livestream
 * [Q&A: What about holes for Foundations?](../../../transcriptions/yt-fufH5ltdn7E.md) [https://www.youtube.com/watch?v=fufH5ltdn7E](https://www.youtube.com/watch?v=fufH5ltdn7E)

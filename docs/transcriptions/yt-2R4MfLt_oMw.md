@@ -3,7 +3,7 @@ title: "September 22nd, 2020 Livestream Q&A: Would implementing covered belts re
 date: "2020-09-22"
 layout: transcript
 topics:
-    - "features/buildings"
+    - "features/buildables/conveyor-belts"
     - "features/unplanned-features/mass-building"
     - "technology/graphics"
     - "technology/unreal-engine/object-limit"
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 * [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)

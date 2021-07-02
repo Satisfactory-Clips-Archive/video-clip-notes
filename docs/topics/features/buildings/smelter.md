@@ -12,6 +12,9 @@ date: Last Modified
 * [Snutt & Jace Talk: Setting up Modular Frame production (Part 3)](../../../transcriptions/yt-BYH_gm7gjqE.md) [https://www.youtube.com/watch?v=BYH_gm7gjqE](https://www.youtube.com/watch?v=BYH_gm7gjqE)
 * [Snutt & Jace Talk: Production Ratios & Overclocking (Part 1)](../../../transcriptions/yt-Q9950uKeMEY.md) [https://www.youtube.com/watch?v=Q9950uKeMEY](https://www.youtube.com/watch?v=Q9950uKeMEY)
 
+## March 23rd, 2021 Livestream
+* [Q&A: Will we ever see Mk.2 versions of the Constructor, Assembler, Refinery etc.?](../../../transcriptions/yt-b9z-MopRxic.md) [https://www.youtube.com/watch?v=b9z-MopRxic](https://www.youtube.com/watch?v=b9z-MopRxic)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: I hate this shot](../../../transcriptions/yt-dOLA__A5VnM.md) [https://www.youtube.com/watch?v=dOLA__A5VnM](https://www.youtube.com/watch?v=dOLA__A5VnM)
 

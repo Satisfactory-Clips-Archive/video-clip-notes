@@ -1,18 +1,18 @@
 ---
-title: "October 13th, 2020 Livestream Q&A: I think the price for mk. 3 & 4 belts are great, but mk. 2 I skip almost every time."
+title: "October 13th, 2020 Livestream Q&A: I think the price for mk.3 & mk.4 belts are great, but mk.2 I skip almost every time."
 date: "2020-10-13"
 layout: transcript
 topics:
     - "environment/resources"
-    - "features/buildings"
+    - "features/buildables/conveyor-belts"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
-## Q&A: I think the price for mk. 3 & 4 belts are great, but mk. 2 I skip almost every time.
+## Q&A: I think the price for mk.3 & mk.4 belts are great, but mk.2 I skip almost every time.
 https://www.youtube.com/watch?v=d6uqZlgK7ao
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
-* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 
 ### Transcript
 

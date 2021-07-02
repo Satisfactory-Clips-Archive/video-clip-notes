@@ -58,7 +58,6 @@ date: Last Modified
 * [Q&A: How many machines will you add?](../../transcriptions/yt-eDymPpcon4E.md) [https://www.youtube.com/watch?v=eDymPpcon4E](https://www.youtube.com/watch?v=eDymPpcon4E)
 
 ## April 27th, 2021 Livestream
-* [Q&A: Mk.2 Buildings?](../../transcriptions/yt-1mj3Rql5vGQ.md) [https://www.youtube.com/watch?v=1mj3Rql5vGQ](https://www.youtube.com/watch?v=1mj3Rql5vGQ)
 * [Q&A: Any thoughts to expand copy & paste functionality to work without opening the structure?](../../transcriptions/yt-kAGPc6PKVKM.md) [https://www.youtube.com/watch?v=kAGPc6PKVKM](https://www.youtube.com/watch?v=kAGPc6PKVKM)
 * [Q&A: Daisy-chain all building power?](../../transcriptions/yt-y86EDzn4-bY.md) [https://www.youtube.com/watch?v=y86EDzn4-bY](https://www.youtube.com/watch?v=y86EDzn4-bY)
 
@@ -68,7 +67,6 @@ date: Last Modified
 * [Q&A: Will you add structual integrity?](../../transcriptions/yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)
 
 ## April 6th, 2021 Livestream
-* [Q&A: Mk.2 Factory Buildings?](../../transcriptions/yt-Qni_FzPcx9g.md) [https://www.youtube.com/watch?v=Qni_FzPcx9g](https://www.youtube.com/watch?v=Qni_FzPcx9g)
 * [Q&A: Would you ever add a way to produce Power Shards?](../../transcriptions/yt-57oPRYp61-s.md) [https://www.youtube.com/watch?v=57oPRYp61-s](https://www.youtube.com/watch?v=57oPRYp61-s)
 
 ## March 23rd, 2021 Livestream
@@ -167,8 +165,6 @@ date: Last Modified
 * [Q&A: Is it only packaging or does it unpack as well?](../../transcriptions/yt-usWp2cMLGwE.md) [https://www.youtube.com/watch?v=usWp2cMLGwE](https://www.youtube.com/watch?v=usWp2cMLGwE)
 * [Q&A: Is the building going to be built with already in-game materials or built with new materials?](../../transcriptions/yt-MY9wSTT45O4.md) [https://www.youtube.com/watch?v=MY9wSTT45O4](https://www.youtube.com/watch?v=MY9wSTT45O4)
 * [Q&A: I think it's better to stack the inputs & outputs](../../transcriptions/yt-RK0ENdeE27c.md) [https://www.youtube.com/watch?v=RK0ENdeE27c](https://www.youtube.com/watch?v=RK0ENdeE27c)
-* [Q&A: I think the price for mk. 3 & 4 belts are great, but mk. 2 I skip almost every time.](../../transcriptions/yt-d6uqZlgK7ao.md) [https://www.youtube.com/watch?v=d6uqZlgK7ao](https://www.youtube.com/watch?v=d6uqZlgK7ao)
-* [Q&A: Only use it (mk. 2 belts) for Load Balancing.](../../transcriptions/yt-1xgb-jbAWt4.md) [https://www.youtube.com/watch?v=1xgb-jbAWt4](https://www.youtube.com/watch?v=1xgb-jbAWt4)
 * [Q&A: How does the Industrial Storage decide what comes out the bottom & what comes out the top?](../../transcriptions/yt-d0XfDk63vUI.md) [https://www.youtube.com/watch?v=d0XfDk63vUI](https://www.youtube.com/watch?v=d0XfDk63vUI)
 
 ## October 6th, 2020 Livestream
@@ -180,13 +176,11 @@ date: Last Modified
 * [Q&A: When are we getting a Production Overview in the game?](../../transcriptions/yt-OnK4DcHAB4o.md) [https://www.youtube.com/watch?v=OnK4DcHAB4o](https://www.youtube.com/watch?v=OnK4DcHAB4o)
 * [Q&A: Enclosed Belts](../../transcriptions/yt-oLpv9B5-OjE.md) [https://www.youtube.com/watch?v=oLpv9B5-OjE](https://www.youtube.com/watch?v=oLpv9B5-OjE)
 * [Snutt Talk: The Pipes Indicator](../../transcriptions/yt-MhUCod36x7Y.md) [https://www.youtube.com/watch?v=MhUCod36x7Y](https://www.youtube.com/watch?v=MhUCod36x7Y)
-* [Q&A: What about Mk. 6 Belts?](../../transcriptions/yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)
 * [Q&A: Any form of Mass Storage Management?](../../transcriptions/yt-v_dacWIRc1Y.md) [https://www.youtube.com/watch?v=v_dacWIRc1Y](https://www.youtube.com/watch?v=v_dacWIRc1Y)
 
 ## September 22nd, 2020 Livestream
 * [Q&A: Is there any possibility to autodetect materials on the belts to preselect recipes per input?](../../transcriptions/yt-KB49DxFs6tw.md) [https://www.youtube.com/watch?v=KB49DxFs6tw](https://www.youtube.com/watch?v=KB49DxFs6tw)
 * [Q&A: Are there specific parts or objects that contain a lot of objects in them ?](../../transcriptions/yt-DDHlxZV39B0.md) [https://www.youtube.com/watch?v=DDHlxZV39B0](https://www.youtube.com/watch?v=DDHlxZV39B0)
-* [Q&A: Would implementing covered belts reduce the number of objects in the world?](../../transcriptions/yt-2R4MfLt_oMw.md) [https://www.youtube.com/watch?v=2R4MfLt_oMw](https://www.youtube.com/watch?v=2R4MfLt_oMw)
 * [Q&A: Will we get automatic curtain doors?](../../transcriptions/yt-Qye9x2Ht1AI.md) [https://www.youtube.com/watch?v=Qye9x2Ht1AI](https://www.youtube.com/watch?v=Qye9x2Ht1AI)
 * [Q&A: What is the Object Count Limit, and how can we tell in our own game?](../../transcriptions/yt-gMq-fPCqGWQ.md) [https://www.youtube.com/watch?v=gMq-fPCqGWQ](https://www.youtube.com/watch?v=gMq-fPCqGWQ)
 
@@ -201,7 +195,6 @@ date: Last Modified
 
 ## September 8th, 2020 Livestream
 * [Q&A: Overhaul Production output?](../../transcriptions/yt-LZKS9z5niSk.md) [https://www.youtube.com/watch?v=LZKS9z5niSk](https://www.youtube.com/watch?v=LZKS9z5niSk)
-* [Snutt Talk: Belts, Pipes, and Hyper Tube max lengths](../../transcriptions/yt-IeP2Y9SFeh8.md) [https://www.youtube.com/watch?v=IeP2Y9SFeh8](https://www.youtube.com/watch?v=IeP2Y9SFeh8)
 * [Q&A: A hard-reset option for the paint presets used for the painted surfaces](../../transcriptions/yt-LZvHStKqoQI.md) [https://www.youtube.com/watch?v=LZvHStKqoQI](https://www.youtube.com/watch?v=LZvHStKqoQI)
 * [Q&A: Secondary Hub/Spawn Point ?](../../transcriptions/yt-MjQNNzVfZTY.md) [https://www.youtube.com/watch?v=MjQNNzVfZTY](https://www.youtube.com/watch?v=MjQNNzVfZTY)
 * [Q&A: Pollution is a thing?](../../transcriptions/yt-EI4HJKvO-OU.md) [https://www.youtube.com/watch?v=EI4HJKvO-OU](https://www.youtube.com/watch?v=EI4HJKvO-OU)

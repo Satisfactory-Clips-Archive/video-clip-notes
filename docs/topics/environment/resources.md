@@ -122,8 +122,8 @@ date: Last Modified
 * [Q&A: Any plans for better Belts for Pure nodes?](../../transcriptions/yt-UxW9nGO9Ius.md) [https://www.youtube.com/watch?v=UxW9nGO9Ius](https://www.youtube.com/watch?v=UxW9nGO9Ius)
 
 ## October 13th, 2020 Livestream
-* [Q&A: I think the price for mk. 3 & 4 belts are great, but mk. 2 I skip almost every time.](../../transcriptions/yt-d6uqZlgK7ao.md) [https://www.youtube.com/watch?v=d6uqZlgK7ao](https://www.youtube.com/watch?v=d6uqZlgK7ao)
-* [Q&A: Only use it (mk. 2 belts) for Load Balancing.](../../transcriptions/yt-1xgb-jbAWt4.md) [https://www.youtube.com/watch?v=1xgb-jbAWt4](https://www.youtube.com/watch?v=1xgb-jbAWt4)
+* [Q&A: I think the price for mk.3 & mk.4 belts are great, but mk.2 I skip almost every time.](../../transcriptions/yt-d6uqZlgK7ao.md) [https://www.youtube.com/watch?v=d6uqZlgK7ao](https://www.youtube.com/watch?v=d6uqZlgK7ao)
+* [Q&A: Only use it (mk.2 belts) for Load Balancing.](../../transcriptions/yt-1xgb-jbAWt4.md) [https://www.youtube.com/watch?v=1xgb-jbAWt4](https://www.youtube.com/watch?v=1xgb-jbAWt4)
 * [Q&A: Any new Ores coming to the game?](../../transcriptions/yt-LWek-LtjnU0.md) [https://www.youtube.com/watch?v=LWek-LtjnU0](https://www.youtube.com/watch?v=LWek-LtjnU0)
 
 ## October 9th, 2020 Livestream

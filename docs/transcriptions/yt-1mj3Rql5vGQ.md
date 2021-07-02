@@ -4,7 +4,7 @@ date: "2021-04-27"
 layout: transcript
 topics:
     - "coffee-stainers"
-    - "features/buildings"
+    - "features/unplanned-features/mk-2-buildings"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Mk.2 Buildings?
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=1mj3Rql5vGQ
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
-* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Unplanned Features > Mk.2 Buildings](../topics/features/unplanned-features/mk-2-buildings.md)
 
 ### Transcript
 
