@@ -3,7 +3,7 @@ title: "January 26th, 2021 Livestream Q&A: Any plans for deterioration or mainte
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "features/buildings"
+    - "features/unplanned-features/factory-maintenance"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Any plans for deterioration or maintenance mechanics for Buildings?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [May 25th, 2021
 
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Unplanned Features > Factory Maintenance](../topics/features/unplanned-features/factory-maintenance.md)
 
 ### Transcript
 

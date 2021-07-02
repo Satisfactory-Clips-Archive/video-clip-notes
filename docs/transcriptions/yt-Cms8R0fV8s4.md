@@ -3,18 +3,14 @@ title: "April 27th, 2021 Livestream Snutt Talk: We don't want any type of mainte
 date: "2021-04-27"
 layout: transcript
 topics:
-    - "features/buildings"
-    - "features/possible-features/weather-systems"
-    - "features/power-management/green-energy"
+    - "features/unplanned-features/factory-maintenance"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Snutt Talk: We don't want any type of maintenance in the game
 https://www.youtube.com/watch?v=Cms8R0fV8s4
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
-* [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)
+* [Features > Unplanned Features > Factory Maintenance](../topics/features/unplanned-features/factory-maintenance.md)
 
 ### Transcript
 

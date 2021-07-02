@@ -3,12 +3,14 @@ title: "February 6th, 2019 - Q&A: Will there be breakdowns of machines and we ha
 date: "2019-02-06"
 layout: transcript
 topics: 
+    - "features/unplanned-features/factory-maintenance"
     - "features/buildings"
 ---
 # [February 6th, 2019 Satisfactory Q&A/Hangout Stream](../2019-02-06.md)
 ## Q&A: Will there be breakdowns of machines and we have to fix & repair?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3823&end=3837
 ### Topics
+* [Features > Unplanned Features > Factory Maintenance](../topics/features/unplanned-features/factory-maintenance.md)
 * [Features > Buildings](../topics/features/buildings.md)
 
 ### Transcript

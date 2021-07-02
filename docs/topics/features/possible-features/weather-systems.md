@@ -5,7 +5,6 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Possible Features > Weather Systems
 
 ## April 27th, 2021 Livestream
-* [Snutt Talk: We don't want any type of maintenance in the game](../../../transcriptions/yt-Cms8R0fV8s4.md) [https://www.youtube.com/watch?v=Cms8R0fV8s4](https://www.youtube.com/watch?v=Cms8R0fV8s4)
 * [Q&A: Can you tell us what Power change content were taken out of Update 4?](../../../transcriptions/yt-8HYOz7X16FU.md) [https://www.youtube.com/watch?v=8HYOz7X16FU](https://www.youtube.com/watch?v=8HYOz7X16FU)
 
 ## April 20th, 2021 Livestream

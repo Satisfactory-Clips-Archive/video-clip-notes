@@ -3,8 +3,8 @@ title: "May 25th, 2021 Livestream Q&A: Would be interesting to have Machines bre
 date: "2021-05-25"
 layout: transcript
 topics:
-    - "features/buildings"
     - "features/unplanned-features/base-defense"
+    - "features/unplanned-features/factory-maintenance"
 ---
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: Would be interesting to have Machines break or need maintenance?
@@ -20,8 +20,8 @@ https://www.youtube.com/watch?v=eou80scmTqE
 
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
+* [Features > Unplanned Features > Factory Maintenance](../topics/features/unplanned-features/factory-maintenance.md)
 
 ### Transcript
 

@@ -45,7 +45,6 @@ date: Last Modified
 * [Q&A: Is there anything else aside from Conveyor Belts that's not using Distance Fields?](../../transcriptions/yt-dyqOMITwLsY,448.69825,500.75024999999994.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=448&end=501](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=448&end=501)
 
 ## May 25th, 2021 Livestream
-* [Q&A: Would be interesting to have Machines break or need maintenance?](../../transcriptions/yt-eou80scmTqE.md) [https://www.youtube.com/watch?v=eou80scmTqE](https://www.youtube.com/watch?v=eou80scmTqE)
 * [Q&A: Can you talk about multi-threading?](../../transcriptions/yt-oRvsgiDJRR8.md) [https://www.youtube.com/watch?v=oRvsgiDJRR8](https://www.youtube.com/watch?v=oRvsgiDJRR8)
 * [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 1)](../../transcriptions/yt-n94KgIpWdZc.md) [https://www.youtube.com/watch?v=n94KgIpWdZc](https://www.youtube.com/watch?v=n94KgIpWdZc)
 
@@ -60,7 +59,6 @@ date: Last Modified
 
 ## April 27th, 2021 Livestream
 * [Q&A: Mk.2 Buildings?](../../transcriptions/yt-1mj3Rql5vGQ.md) [https://www.youtube.com/watch?v=1mj3Rql5vGQ](https://www.youtube.com/watch?v=1mj3Rql5vGQ)
-* [Snutt Talk: We don't want any type of maintenance in the game](../../transcriptions/yt-Cms8R0fV8s4.md) [https://www.youtube.com/watch?v=Cms8R0fV8s4](https://www.youtube.com/watch?v=Cms8R0fV8s4)
 * [Q&A: Any thoughts to expand copy & paste functionality to work without opening the structure?](../../transcriptions/yt-kAGPc6PKVKM.md) [https://www.youtube.com/watch?v=kAGPc6PKVKM](https://www.youtube.com/watch?v=kAGPc6PKVKM)
 * [Q&A: Daisy-chain all building power?](../../transcriptions/yt-y86EDzn4-bY.md) [https://www.youtube.com/watch?v=y86EDzn4-bY](https://www.youtube.com/watch?v=y86EDzn4-bY)
 
@@ -103,7 +101,6 @@ date: Last Modified
 * [Q&A: Any thoughts on letting you have a planning tool mode?](../../transcriptions/yt-MFCmy7atLDk.md) [https://www.youtube.com/watch?v=MFCmy7atLDk](https://www.youtube.com/watch?v=MFCmy7atLDk)
 * [Q&A: What is blocking you now from releasing Update 4, Story elements, Buildings, Maps?](../../transcriptions/yt-pCwOyYQ1f6Y.md) [https://www.youtube.com/watch?v=pCwOyYQ1f6Y](https://www.youtube.com/watch?v=pCwOyYQ1f6Y)
 * [Q&A: Will any of the Building dimensions change?](../../transcriptions/yt-JaheHIeuxXU.md) [https://www.youtube.com/watch?v=JaheHIeuxXU](https://www.youtube.com/watch?v=JaheHIeuxXU)
-* [Q&A: Any plans for deterioration or maintenance mechanics for Buildings?](../../transcriptions/yt-W8Ia5yx0n-k.md) [https://www.youtube.com/watch?v=W8Ia5yx0n-k](https://www.youtube.com/watch?v=W8Ia5yx0n-k)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Will it be possible to use decimal places for percentages in future?](../../transcriptions/yt-zGH69_aSwwk.md) [https://www.youtube.com/watch?v=zGH69_aSwwk](https://www.youtube.com/watch?v=zGH69_aSwwk)
@@ -220,18 +217,15 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: Copy & Paste settings from Machine to Machine?](../../transcriptions/yt-20nzwUoDWuA.md) [https://www.youtube.com/watch?v=20nzwUoDWuA](https://www.youtube.com/watch?v=20nzwUoDWuA)
-* [Q&A: Fixing machines that break?](../../transcriptions/yt-oYFn3xvAOHs.md) [https://www.youtube.com/watch?v=oYFn3xvAOHs](https://www.youtube.com/watch?v=oYFn3xvAOHs)
-* [Snutt Talk: Machines breaking & Base Defence](../../transcriptions/yt-UhehbJ9kR2c.md) [https://www.youtube.com/watch?v=UhehbJ9kR2c](https://www.youtube.com/watch?v=UhehbJ9kR2c)
 * [Q&A: Generators have power switches, so do all structures in the game?](../../transcriptions/yt-CN2G6ZH6bmA.md) [https://www.youtube.com/watch?v=CN2G6ZH6bmA](https://www.youtube.com/watch?v=CN2G6ZH6bmA)
 * Q&A: Some new Machines in the next update? [https://clips.twitch.tv/CourteousSmellyNewtTTours](https://clips.twitch.tv/CourteousSmellyNewtTTours)
+* Snutt Talk: Machines breaking & Base Defence [https://clips.twitch.tv/ElegantKawaiiGnatOneHand](https://clips.twitch.tv/ElegantKawaiiGnatOneHand)
+* Q&A: Fixing machines that break? [https://clips.twitch.tv/EnergeticInexpensiveDillCurseLit](https://clips.twitch.tv/EnergeticInexpensiveDillCurseLit)
 * Q&A: Reducing the stupid poly counts? [https://clips.twitch.tv/PoliteTallLocustStoneLightning](https://clips.twitch.tv/PoliteTallLocustStoneLightning)
 * Q&A: Will I be able to place walls slightly into splitters, mergers, and conveyors? [https://clips.twitch.tv/RespectfulGiftedStaplePicoMause](https://clips.twitch.tv/RespectfulGiftedStaplePicoMause)
 
 ## August 18th, 2020 Livestream
 * Q&A: How about adding machine variants during late-game so you can have less machines overall? [https://clips.twitch.tv/BlatantEnjoyableTigerStoneLightning](https://clips.twitch.tv/BlatantEnjoyableTigerStoneLightning)
-
-## July 21st, 2020 Livestream
-* Q&A: What do you think about a game mode with weather effects doing damage or slowing machines? [https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime](https://clips.twitch.tv/ProudArbitraryClintmullinsPeanutButterJellyTime)
 
 ## May 15th, 2020 Q&A
 * [Q&A: Will new buildings be added into the game?](../../transcriptions/yt-NlIVwoRqjVk,917.1162,957.1562.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=917&end=958](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=917&end=958)

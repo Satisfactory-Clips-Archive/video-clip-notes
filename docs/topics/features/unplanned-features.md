@@ -5,6 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Unplanned Features
 * [Aerial Travel](../../topics/features/unplanned-features/aerial-travel.md)
 * [Base Defense](../../topics/features/unplanned-features/base-defense.md)
+* [Factory Maintenance](../../topics/features/unplanned-features/factory-maintenance.md)
 * [Loot Boxes](../../topics/features/unplanned-features/loot-boxes.md)
 * [Mass Building](../../topics/features/unplanned-features/mass-building.md)
 * [Microtransactions](../../topics/features/unplanned-features/microtransactions.md)

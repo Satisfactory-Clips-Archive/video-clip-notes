@@ -15,7 +15,6 @@ date: Last Modified
 
 ## April 27th, 2021 Livestream
 * [Q&A: Solar Power?](../../../transcriptions/yt-oHxP9OXQn5w.md) [https://www.youtube.com/watch?v=oHxP9OXQn5w](https://www.youtube.com/watch?v=oHxP9OXQn5w)
-* [Snutt Talk: We don't want any type of maintenance in the game](../../../transcriptions/yt-Cms8R0fV8s4.md) [https://www.youtube.com/watch?v=Cms8R0fV8s4](https://www.youtube.com/watch?v=Cms8R0fV8s4)
 
 ## April 6th, 2021 Livestream
 * [Q&A: Wind Power, when?](../../../transcriptions/yt-jxB9EKkm9i0.md) [https://www.youtube.com/watch?v=jxB9EKkm9i0](https://www.youtube.com/watch?v=jxB9EKkm9i0)

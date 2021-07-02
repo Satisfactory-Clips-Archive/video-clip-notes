@@ -3,7 +3,7 @@ title: "August 25th, 2020 Livestream Q&A: Fixing machines that break?"
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "features/buildings"
+    - "features/unplanned-features/factory-maintenance"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Fixing machines that break?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [May 25th, 2021
 
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Unplanned Features > Factory Maintenance](../topics/features/unplanned-features/factory-maintenance.md)
 
 ### Transcript
 
