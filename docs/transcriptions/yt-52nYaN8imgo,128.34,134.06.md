@@ -1,5 +1,5 @@
 ---
-title: "December 19th, 2019"
+title: "December 19th, 2019 - Studio Tour of Coffee Stain Studios (June 2019)"
 date: "2019-12-19"
 layout: transcript
 topics: 

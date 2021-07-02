@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: Is all lighting done with a directional, or do you have other lights in the environment too?"
 date: "2019-02-20"
 layout: transcript
 topics: 

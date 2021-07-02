@@ -1,5 +1,5 @@
 ---
-title: "May 24th, 2019"
+title: "May 24th, 2019 - Kristoffer Talk: Collaborating with other Coffee Stainers"
 date: "2019-05-24"
 layout: transcript
 topics: 

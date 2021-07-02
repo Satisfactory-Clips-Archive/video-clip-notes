@@ -1,5 +1,5 @@
 ---
-title: "September 25th, 2019"
+title: "September 25th, 2019 - Snutt Talk: Mass Dismantle"
 date: "2019-09-25"
 layout: transcript
 topics: 

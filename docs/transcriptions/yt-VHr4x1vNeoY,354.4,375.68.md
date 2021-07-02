@@ -1,5 +1,5 @@
 ---
-title: "March 7th, 2019"
+title: "March 7th, 2019 - Q&A: The minimum system requirements are kinda high... Why?"
 date: "2019-03-07"
 layout: transcript
 topics: 

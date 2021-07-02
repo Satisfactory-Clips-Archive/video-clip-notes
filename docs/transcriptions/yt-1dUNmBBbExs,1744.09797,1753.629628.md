@@ -1,5 +1,5 @@
 ---
-title: "July 8th, 2020"
+title: "July 8th, 2020 - Q&A: When are we getting Signs?"
 date: "2020-07-08"
 layout: transcript
 topics: 

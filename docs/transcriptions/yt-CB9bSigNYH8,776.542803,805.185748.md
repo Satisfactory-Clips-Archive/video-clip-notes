@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: Who creates the decorations & assets?"
 date: "2019-02-20"
 layout: transcript
 topics: 

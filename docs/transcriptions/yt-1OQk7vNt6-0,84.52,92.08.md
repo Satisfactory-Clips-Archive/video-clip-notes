@@ -1,5 +1,5 @@
 ---
-title: "October 3rd, 2018"
+title: "October 3rd, 2018 - Q&A: But what if I still don't get an alpha key?"
 date: "2018-10-03"
 layout: transcript
 topics: 

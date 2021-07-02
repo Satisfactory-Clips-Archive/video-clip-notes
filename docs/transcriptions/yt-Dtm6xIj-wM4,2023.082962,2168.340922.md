@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: How big can you make your factory?"
 date: "2019-02-06"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "May 15th, 2020"
+title: "May 15th, 2020 - Q&A: Will the Steam version of the game run on Linux? Either native or with Proton?"
 date: "2020-05-15"
 layout: transcript
 topics: 

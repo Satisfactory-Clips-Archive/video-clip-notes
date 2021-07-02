@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: Have the Alpha Testers done any art using Walls and Paint Guns?"
 date: "2019-02-06"
 layout: transcript
 topics: 

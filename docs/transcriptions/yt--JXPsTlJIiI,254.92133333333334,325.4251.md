@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: How does the current trajectory to the game compare to everyone's original concept?"
 date: "2020-12-17"
 layout: transcript
 topics: 

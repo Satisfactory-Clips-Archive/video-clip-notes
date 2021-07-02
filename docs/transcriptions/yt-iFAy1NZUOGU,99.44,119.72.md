@@ -1,5 +1,5 @@
 ---
-title: "August 1st, 2018"
+title: "August 1st, 2018 - Q&A: How much will the game cost when it's released?"
 date: "2018-08-01"
 layout: transcript
 topics: 

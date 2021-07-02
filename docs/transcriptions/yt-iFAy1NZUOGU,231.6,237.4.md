@@ -1,5 +1,5 @@
 ---
-title: "August 1st, 2018"
+title: "August 1st, 2018 - Q&A: Will cat sprites affect the creature's hitboxes?"
 date: "2018-08-01"
 layout: transcript
 topics: 

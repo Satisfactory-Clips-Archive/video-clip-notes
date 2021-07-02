@@ -1,5 +1,5 @@
 ---
-title: "October 1st, 2020"
+title: "October 1st, 2020 - Q&A: Any plans to make more randomness like resources, start locations, other random world elements?"
 date: "2020-10-01"
 layout: transcript
 topics: 

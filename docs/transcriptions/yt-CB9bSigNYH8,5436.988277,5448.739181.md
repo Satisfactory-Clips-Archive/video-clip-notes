@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: Will co-op be available from the start in Early Access?"
 date: "2019-02-20"
 layout: transcript
 topics: 

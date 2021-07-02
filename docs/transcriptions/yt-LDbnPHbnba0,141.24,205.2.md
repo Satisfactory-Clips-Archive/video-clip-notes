@@ -1,5 +1,5 @@
 ---
-title: "September 19th, 2018"
+title: "September 19th, 2018 - Joel Talk: Working with other Coffee Stainers"
 date: "2018-09-19"
 layout: transcript
 topics: 

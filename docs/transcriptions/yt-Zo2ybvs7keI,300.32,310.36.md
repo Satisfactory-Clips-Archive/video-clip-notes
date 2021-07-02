@@ -1,5 +1,5 @@
 ---
-title: "March 9th, 2018"
+title: "March 9th, 2018 - Q&A: Who is the better colleague, Nathalie or Hannah?"
 date: "2018-03-09"
 layout: transcript
 topics: 

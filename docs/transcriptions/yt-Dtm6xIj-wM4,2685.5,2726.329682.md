@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: You mentioned enemies earlier but now you say there'll be nothing to worry about?"
 date: "2019-02-06"
 layout: transcript
 topics: 

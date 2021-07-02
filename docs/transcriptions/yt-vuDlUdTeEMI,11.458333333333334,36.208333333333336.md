@@ -1,5 +1,5 @@
 ---
-title: "April 23rd, 2021"
+title: "April 23rd, 2021 - Snutt Talk: Last week we launched Update 4 on Early Access"
 date: "2021-04-23"
 layout: transcript
 topics: 

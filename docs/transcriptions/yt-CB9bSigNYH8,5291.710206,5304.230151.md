@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: Will there be christmas/new year events or something like that when the game is finished?"
 date: "2019-02-20"
 layout: transcript
 topics: 

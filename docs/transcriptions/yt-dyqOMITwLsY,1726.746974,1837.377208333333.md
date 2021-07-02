@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021"
+title: "May 28th, 2021 - Q&A: How does picking items off the belt work?"
 date: "2021-05-28"
 layout: transcript
 topics: 

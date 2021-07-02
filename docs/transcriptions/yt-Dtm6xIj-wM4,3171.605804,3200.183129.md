@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: What happens to players eventually when they are run over by a friend in a vehicle?"
 date: "2019-02-06"
 layout: transcript
 topics: 

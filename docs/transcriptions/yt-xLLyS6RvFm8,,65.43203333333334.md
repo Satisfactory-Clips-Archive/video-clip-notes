@@ -1,5 +1,5 @@
 ---
-title: "March 12th, 2021"
+title: "March 12th, 2021 - Join us for the Update 4 launch stream"
 date: "2021-03-12"
 layout: transcript
 topics: 

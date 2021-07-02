@@ -1,5 +1,5 @@
 ---
-title: "October 24th, 2019"
+title: "October 24th, 2019 - Hannah Talk: Becoming the Level Designer at Coffee Stain"
 date: "2019-10-24"
 layout: transcript
 topics: 

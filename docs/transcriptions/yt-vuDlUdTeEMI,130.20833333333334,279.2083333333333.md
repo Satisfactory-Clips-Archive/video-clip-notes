@@ -1,5 +1,5 @@
 ---
-title: "April 23rd, 2021"
+title: "April 23rd, 2021 - Snutt Talk: Power Changes Info (and fluid dynamics concerns)"
 date: "2021-04-23"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: Why not turrets like Sanctum?"
 date: "2019-02-06"
 layout: transcript
 topics: 

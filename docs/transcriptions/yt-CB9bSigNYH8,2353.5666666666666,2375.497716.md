@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: Do the level names come back in game Lore?"
 date: "2019-02-20"
 layout: transcript
 topics: 

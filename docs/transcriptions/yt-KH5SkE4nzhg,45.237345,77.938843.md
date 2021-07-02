@@ -1,5 +1,5 @@
 ---
-title: "December 4th, 2020"
+title: "December 4th, 2020 - Jace Talk: Tier 8 & the change in vision for Tier 7"
 date: "2020-12-04"
 layout: transcript
 topics: 

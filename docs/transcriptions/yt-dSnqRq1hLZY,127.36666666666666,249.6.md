@@ -1,5 +1,5 @@
 ---
-title: "September 9th, 2020"
+title: "September 9th, 2020 - Snutt Talk: Merch"
 date: "2020-09-09"
 layout: transcript
 topics: 

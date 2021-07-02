@@ -1,5 +1,5 @@
 ---
-title: "April 2nd, 2020"
+title: "April 2nd, 2020 - Q&A: Will there be cross-platform support between Steam and Epic?"
 date: "2020-04-02"
 layout: transcript
 topics: 

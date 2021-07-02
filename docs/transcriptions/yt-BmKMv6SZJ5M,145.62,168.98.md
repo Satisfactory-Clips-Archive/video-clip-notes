@@ -1,5 +1,5 @@
 ---
-title: "April 2nd, 2020"
+title: "April 2nd, 2020 - Q&A: What will the price be on Steam?"
 date: "2020-04-02"
 layout: transcript
 topics: 

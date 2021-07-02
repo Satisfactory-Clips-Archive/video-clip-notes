@@ -1,5 +1,5 @@
 ---
-title: "November 16th, 2020"
+title: "November 16th, 2020 - Intro"
 date: "2020-11-16"
 layout: transcript
 topics: 

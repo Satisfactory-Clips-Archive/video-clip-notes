@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: Does the game use any lock step- any concern for desync across a large map?"
 date: "2019-02-06"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "May 24th, 2019"
+title: "May 24th, 2019 - Kristoffer Talk: History at Coffee Stain"
 date: "2019-05-24"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "May 15th, 2020"
+title: "May 15th, 2020 - Q&A: Multiplayer has quality-of-life issues, are you going to fix them?"
 date: "2020-05-15"
 layout: transcript
 topics: 

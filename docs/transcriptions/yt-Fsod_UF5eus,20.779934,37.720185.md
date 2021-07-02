@@ -1,5 +1,5 @@
 ---
-title: "November 5th, 2019"
+title: "November 5th, 2019 - Jace Talk: Hannah's Dev Highlight video"
 date: "2019-11-05"
 layout: transcript
 topics: 

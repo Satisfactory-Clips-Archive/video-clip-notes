@@ -1,5 +1,5 @@
 ---
-title: "November 12th, 2020"
+title: "November 12th, 2020 - Birk Talk: Technical Content"
 date: "2020-11-12"
 layout: transcript
 topics: 

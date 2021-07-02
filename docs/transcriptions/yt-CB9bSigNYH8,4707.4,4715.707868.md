@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Community FYI: You skipped the part where some stick through \"balcony\" roof"
 date: "2019-02-20"
 layout: transcript
 topics: 

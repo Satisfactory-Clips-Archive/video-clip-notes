@@ -1,5 +1,5 @@
 ---
-title: "April 23rd, 2021"
+title: "April 23rd, 2021 - Snutt Talk: Name and Icon for game is wrong"
 date: "2021-04-23"
 layout: transcript
 topics: 

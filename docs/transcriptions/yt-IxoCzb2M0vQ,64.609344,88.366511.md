@@ -1,5 +1,5 @@
 ---
-title: "July 19th, 2018"
+title: "July 19th, 2018 - Introducing: Tractors, Explorers, Trucks, and Trains"
 date: "2018-07-19"
 layout: transcript
 topics: 

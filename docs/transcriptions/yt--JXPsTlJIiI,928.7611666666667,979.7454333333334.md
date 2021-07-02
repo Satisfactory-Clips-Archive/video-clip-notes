@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Names in photo mode, when?"
 date: "2020-12-17"
 layout: transcript
 topics: 

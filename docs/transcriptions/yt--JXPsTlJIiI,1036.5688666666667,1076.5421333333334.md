@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Do you enjoying working from home or are you looking forward to getting back in the office?"
 date: "2020-12-17"
 layout: transcript
 topics: 

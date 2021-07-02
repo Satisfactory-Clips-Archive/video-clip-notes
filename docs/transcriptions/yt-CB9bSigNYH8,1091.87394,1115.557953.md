@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: What is Hannah's job in the franchise?"
 date: "2019-02-20"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: Doesn't that rock block the player's path?"
 date: "2019-02-20"
 layout: transcript
 topics: 

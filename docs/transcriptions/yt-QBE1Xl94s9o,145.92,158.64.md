@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2020"
+title: "February 20th, 2020 - Q&A: Will I be able to play with people from Epic on the Steam version?"
 date: "2020-02-20"
 layout: transcript
 topics: 

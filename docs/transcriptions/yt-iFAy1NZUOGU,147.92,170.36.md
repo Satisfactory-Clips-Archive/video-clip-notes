@@ -1,5 +1,5 @@
 ---
-title: "August 1st, 2018"
+title: "August 1st, 2018 - Q&A: Is there research or a tech tree in the game?"
 date: "2018-08-01"
 layout: transcript
 topics: 

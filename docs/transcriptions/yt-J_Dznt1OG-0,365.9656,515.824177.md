@@ -1,5 +1,5 @@
 ---
-title: "November 8th, 2018"
+title: "November 8th, 2018 - Using Iron Ingots to make Iron Plates"
 date: "2018-11-08"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Has the decision to press on to 1.0 recently been prompted - at least in part - by financials?"
 date: "2020-12-17"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "November 17th, 2017"
+title: "November 17th, 2017 - Why would we need a Community Manager now?"
 date: "2017-11-17"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Jace, Hannah, & Snutt Talk: Snutt looks like Michael from VSauce"
 date: "2019-02-06"
 layout: transcript
 topics: 

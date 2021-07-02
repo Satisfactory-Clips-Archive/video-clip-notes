@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Hannah Talk: Scale of the player relative to the world"
 date: "2019-02-20"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: Are there going to be free updates after the game is released, or is it all going to be DLCs?"
 date: "2019-02-06"
 layout: transcript
 topics: 

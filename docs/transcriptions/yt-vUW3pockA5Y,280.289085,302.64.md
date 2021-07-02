@@ -1,5 +1,5 @@
 ---
-title: "July 4th, 2018"
+title: "July 4th, 2018 - That infamous moment with the coffee"
 date: "2018-07-04"
 layout: transcript
 topics: 

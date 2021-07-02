@@ -1,5 +1,5 @@
 ---
-title: "November 23rd, 2018"
+title: "November 23rd, 2018 - Q&A: Will this affect Coffee Stain games?"
 date: "2018-11-23"
 layout: transcript
 topics: 

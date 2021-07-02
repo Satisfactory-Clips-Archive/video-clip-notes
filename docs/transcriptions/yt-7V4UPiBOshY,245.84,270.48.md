@@ -1,5 +1,5 @@
 ---
-title: "December 12th, 2018"
+title: "December 12th, 2018 - Community FYI: But I don't want to have another launcher open in the background!"
 date: "2018-12-12"
 layout: transcript
 topics: 

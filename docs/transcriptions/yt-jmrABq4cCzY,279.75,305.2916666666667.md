@@ -1,5 +1,5 @@
 ---
-title: "March 26th, 2021"
+title: "March 26th, 2021 - Snutt Talk: If you have thoughts or feedback about Recipe balancing, use the QA Site"
 date: "2021-03-26"
 layout: transcript
 topics: 

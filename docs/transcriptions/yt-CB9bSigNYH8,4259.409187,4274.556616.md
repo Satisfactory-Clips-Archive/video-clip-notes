@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: How long does it usually take for sending off for the Alpha to get a response?"
 date: "2019-02-20"
 layout: transcript
 topics: 

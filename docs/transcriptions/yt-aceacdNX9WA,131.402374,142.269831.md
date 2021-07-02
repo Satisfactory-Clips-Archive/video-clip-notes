@@ -1,5 +1,5 @@
 ---
-title: "May 14th, 2019"
+title: "May 14th, 2019 - Jace Talk: Hand slot is now a toolbelt"
 date: "2019-05-14"
 layout: transcript
 topics: 

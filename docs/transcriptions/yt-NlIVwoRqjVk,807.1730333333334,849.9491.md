@@ -1,5 +1,5 @@
 ---
-title: "May 15th, 2020"
+title: "May 15th, 2020 - Q&A: When is the S.A.M. Ore becoming useful in-game?"
 date: "2020-05-15"
 layout: transcript
 topics: 

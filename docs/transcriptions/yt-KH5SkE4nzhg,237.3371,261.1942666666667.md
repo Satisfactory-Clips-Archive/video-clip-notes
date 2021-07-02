@@ -1,5 +1,5 @@
 ---
-title: "December 4th, 2020"
+title: "December 4th, 2020 - Jace Talk: Lost Progress / Broken saves?"
 date: "2020-12-04"
 layout: transcript
 topics: 

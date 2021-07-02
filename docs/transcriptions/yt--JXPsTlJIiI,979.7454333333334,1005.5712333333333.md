@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Any thoughts on adding drones to the game?"
 date: "2020-12-17"
 layout: transcript
 topics: 

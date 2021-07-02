@@ -1,5 +1,5 @@
 ---
-title: "December 2nd, 2019"
+title: "December 2nd, 2019 - Jace Talk: We do see the bug reports and crash reports on the Experimental version of the game"
 date: "2019-12-02"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "December 19th, 2019"
+title: "December 19th, 2019 - Update #2: Trains & Nuclear (July 2019)"
 date: "2019-12-19"
 layout: transcript
 topics: 

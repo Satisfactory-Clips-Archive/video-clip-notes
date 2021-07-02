@@ -1,5 +1,5 @@
 ---
-title: "November 17th, 2017"
+title: "November 17th, 2017 - How can we be friends if you know nothing about me?"
 date: "2017-11-17"
 layout: transcript
 topics: 

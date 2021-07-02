@@ -1,5 +1,5 @@
 ---
-title: "March 16th, 2021"
+title: "March 16th, 2021 - Power Generators are no longer Self-Regulating"
 date: "2021-03-16"
 layout: transcript
 topics: 

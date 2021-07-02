@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: Any timeline on when the end game will be released?"
 date: "2019-02-06"
 layout: transcript
 topics: 

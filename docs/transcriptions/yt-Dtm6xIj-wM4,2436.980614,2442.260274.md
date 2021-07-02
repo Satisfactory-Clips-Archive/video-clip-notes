@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: How has THQ Nordic been to you guys on the project?"
 date: "2019-02-06"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "October 1st, 2020"
+title: "October 1st, 2020 - Q&A: What about the giant crab in the trailer, can we get that?"
 date: "2020-10-01"
 layout: transcript
 topics: 

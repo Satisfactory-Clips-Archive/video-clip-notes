@@ -1,5 +1,5 @@
 ---
-title: "October 1st, 2020"
+title: "October 1st, 2020 - Q&A: Are there any plans to put a blueprint system in the game?"
 date: "2020-10-01"
 layout: transcript
 topics: 

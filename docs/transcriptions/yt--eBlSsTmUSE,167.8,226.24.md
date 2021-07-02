@@ -1,5 +1,5 @@
 ---
-title: "April 26th, 2019"
+title: "April 26th, 2019 - Jace Talk: Milo tutorial delays Update"
 date: "2019-04-26"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Are Tiers 8-10 anywhere near accurate on the Satisfactory Wiki?"
 date: "2020-12-17"
 layout: transcript
 topics: 

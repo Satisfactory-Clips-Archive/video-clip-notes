@@ -1,5 +1,5 @@
 ---
-title: "May 15th, 2020"
+title: "May 15th, 2020 - Q&A: Are you planning to release a Linux/Mac version?"
 date: "2020-05-15"
 layout: transcript
 topics: 

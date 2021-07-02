@@ -1,5 +1,5 @@
 ---
-title: "May 15th, 2020"
+title: "May 15th, 2020 - Q&A: Do you have a general idea of how, the team as a whole, want the game to be for 1.0?"
 date: "2020-05-15"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "March 12th, 2020"
+title: "March 12th, 2020 - Jace Talk: We're sleeping in a plane, but we won't be adding planes"
 date: "2020-03-12"
 layout: transcript
 topics: 

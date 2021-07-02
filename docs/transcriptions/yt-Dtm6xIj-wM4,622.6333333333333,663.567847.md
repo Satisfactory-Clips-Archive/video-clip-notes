@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: Is it Server Multiplayer, Dedicated Servers, or Peer to Peer?"
 date: "2019-02-06"
 layout: transcript
 topics: 

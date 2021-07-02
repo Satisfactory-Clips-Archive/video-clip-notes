@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: Do you take interns in Game & Level Design?"
 date: "2019-02-20"
 layout: transcript
 topics: 

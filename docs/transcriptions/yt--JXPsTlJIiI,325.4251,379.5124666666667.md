@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Will we keep our FICS⁕MAS stuff after the event ends?"
 date: "2020-12-17"
 layout: transcript
 topics: 

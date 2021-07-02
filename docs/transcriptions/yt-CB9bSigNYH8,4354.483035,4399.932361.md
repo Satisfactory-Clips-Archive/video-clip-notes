@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: Why do you not have a lot players in the Alpha?"
 date: "2019-02-20"
 layout: transcript
 topics: 

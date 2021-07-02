@@ -1,5 +1,5 @@
 ---
-title: "July 8th, 2020"
+title: "July 8th, 2020 - Mod highlight part 1: Moar Factory (Part 2)"
 date: "2020-07-08"
 layout: transcript
 topics: 

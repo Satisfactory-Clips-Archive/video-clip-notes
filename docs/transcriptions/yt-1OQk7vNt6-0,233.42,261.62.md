@@ -1,5 +1,5 @@
 ---
-title: "October 3rd, 2018"
+title: "October 3rd, 2018 - Q&A: Will there be an NDA?"
 date: "2018-10-03"
 layout: transcript
 topics: 

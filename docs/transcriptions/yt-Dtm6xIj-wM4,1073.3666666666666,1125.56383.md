@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: What resources do you use to help with level design, story writing & world building?"
 date: "2019-02-06"
 layout: transcript
 topics: 

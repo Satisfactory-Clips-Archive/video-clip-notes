@@ -1,5 +1,5 @@
 ---
-title: "April 2nd, 2020"
+title: "April 2nd, 2020 - Jace Talk: More information on Steam release and next Update coming soon"
 date: "2020-04-02"
 layout: transcript
 topics: 

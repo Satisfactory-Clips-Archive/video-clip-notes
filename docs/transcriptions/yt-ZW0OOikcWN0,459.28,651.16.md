@@ -1,5 +1,5 @@
 ---
-title: "August 1st, 2017"
+title: "August 1st, 2017 - Jace Talk: Automating Resource gathering"
 date: "2017-08-01"
 layout: transcript
 topics: 

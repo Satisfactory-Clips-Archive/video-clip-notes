@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021"
+title: "May 28th, 2021 - Q&A: Can you give a quick explanation of how the system for Lights works right now?"
 date: "2021-05-28"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "March 16th, 2021"
+title: "March 16th, 2021 - Tier 7 is getting a makeover"
 date: "2021-03-16"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "March 16th, 2021"
+title: "March 16th, 2021 - Encased Uranium Cells now produced in the Blender"
 date: "2021-03-16"
 layout: transcript
 topics: 

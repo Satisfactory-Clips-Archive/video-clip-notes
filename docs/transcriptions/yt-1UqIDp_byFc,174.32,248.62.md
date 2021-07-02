@@ -1,5 +1,5 @@
 ---
-title: "November 23rd, 2018"
+title: "November 23rd, 2018 - Jace's opinion re: THQ Nordic"
 date: "2018-11-23"
 layout: transcript
 topics: 

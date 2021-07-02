@@ -1,5 +1,5 @@
 ---
-title: "July 23rd, 2020"
+title: "July 23rd, 2020 - Jace Art: You guys want boats? I'll give you boats."
 date: "2020-07-23"
 layout: transcript
 topics: 

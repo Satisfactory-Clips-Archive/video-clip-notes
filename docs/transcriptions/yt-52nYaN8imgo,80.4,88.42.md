@@ -1,5 +1,5 @@
 ---
-title: "December 19th, 2019"
+title: "December 19th, 2019 - 500 Alpha Keys Sent Out! - Simon Saga Ep. 2 [BTS] (October 2018)"
 date: "2019-12-19"
 layout: transcript
 topics: 

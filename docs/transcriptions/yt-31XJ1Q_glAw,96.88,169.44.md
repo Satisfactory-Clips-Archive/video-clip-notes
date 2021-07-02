@@ -1,5 +1,5 @@
 ---
-title: "September 12th, 2018"
+title: "September 12th, 2018 - Alpha's content focus"
 date: "2018-09-12"
 layout: transcript
 topics: 

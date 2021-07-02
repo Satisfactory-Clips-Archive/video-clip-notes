@@ -1,5 +1,5 @@
 ---
-title: "July 2nd, 2019"
+title: "July 2nd, 2019 - Jace Talk: Snutt's little baby"
 date: "2019-07-02"
 layout: transcript
 topics: 

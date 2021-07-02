@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Hannah Talk: How I became a writer at Coffee Stain"
 date: "2019-02-20"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Are we going to be stuck in the cave looking at speleothems the whole stream?"
 date: "2019-02-20"
 layout: transcript
 topics: 

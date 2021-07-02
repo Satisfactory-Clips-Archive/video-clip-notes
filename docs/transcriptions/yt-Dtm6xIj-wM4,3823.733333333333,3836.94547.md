@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: Will there be breakdowns of machines and we have to fix & repair?"
 date: "2019-02-06"
 layout: transcript
 topics: 

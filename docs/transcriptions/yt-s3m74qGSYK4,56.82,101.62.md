@@ -1,5 +1,5 @@
 ---
-title: "September 13th, 2019"
+title: "September 13th, 2019 - Jace Talk: Community priotisation of Dedicated Servers vs. Mod Support"
 date: "2019-09-13"
 layout: transcript
 topics: 

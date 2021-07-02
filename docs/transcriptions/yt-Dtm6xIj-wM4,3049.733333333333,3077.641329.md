@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: Can we crush our friends with orbital drops, like Sanctum-style?"
 date: "2019-02-06"
 layout: transcript
 topics: 

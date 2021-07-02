@@ -1,5 +1,5 @@
 ---
-title: "March 15th, 2019"
+title: "March 15th, 2019 - Q&A: Please, please, please make a Linux based dedicated server that can run headless."
 date: "2019-03-15"
 layout: transcript
 topics: 

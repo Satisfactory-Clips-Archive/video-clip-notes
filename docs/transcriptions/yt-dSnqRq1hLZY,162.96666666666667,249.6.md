@@ -1,5 +1,5 @@
 ---
-title: "September 9th, 2020"
+title: "September 9th, 2020 - Q&A: Are there any more designs coming?"
 date: "2020-09-09"
 layout: transcript
 topics: 

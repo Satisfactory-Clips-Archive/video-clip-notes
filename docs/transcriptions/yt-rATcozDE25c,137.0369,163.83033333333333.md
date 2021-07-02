@@ -1,5 +1,5 @@
 ---
-title: "October 1st, 2020"
+title: "October 1st, 2020 - Q&A: Do you have a timeline on when you want to start implementing lore? Is it on the near horizon?"
 date: "2020-10-01"
 layout: transcript
 topics: 

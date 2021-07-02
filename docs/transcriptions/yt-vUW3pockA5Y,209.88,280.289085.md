@@ -1,5 +1,5 @@
 ---
-title: "July 4th, 2018"
+title: "July 4th, 2018 - Oscar Talk: Game Director vs. Game Designer"
 date: "2018-07-04"
 layout: transcript
 topics: 

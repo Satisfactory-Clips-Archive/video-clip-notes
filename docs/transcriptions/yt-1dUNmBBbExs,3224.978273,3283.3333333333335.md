@@ -1,5 +1,5 @@
 ---
-title: "July 8th, 2020"
+title: "July 8th, 2020 - Q&A: What is your favourite Mod?"
 date: "2020-07-08"
 layout: transcript
 topics: 

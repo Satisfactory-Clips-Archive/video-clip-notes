@@ -1,5 +1,5 @@
 ---
-title: "July 2nd, 2019"
+title: "July 2nd, 2019 - Pizza"
 date: "2019-07-02"
 layout: transcript
 topics: 

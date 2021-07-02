@@ -1,5 +1,5 @@
 ---
-title: "June 22nd, 2018"
+title: "June 22nd, 2018 - Q&A: Let's talk about Simon?"
 date: "2018-06-22"
 layout: transcript
 topics: 

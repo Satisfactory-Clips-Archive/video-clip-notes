@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: How many Level Designer are working on the map? Or are you the only one?"
 date: "2019-02-20"
 layout: transcript
 topics: 

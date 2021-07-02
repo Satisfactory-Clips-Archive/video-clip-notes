@@ -1,5 +1,5 @@
 ---
-title: "October 1st, 2020"
+title: "October 1st, 2020 - Q&A: Is the poisonous gas going to be hallucinogenic?"
 date: "2020-10-01"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "December 12th, 2018"
+title: "December 12th, 2018 - Q&A: But do your evil corporate decision makers play video games‽"
 date: "2018-12-12"
 layout: transcript
 topics: 

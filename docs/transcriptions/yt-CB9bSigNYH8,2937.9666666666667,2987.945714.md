@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: Say something in French for the French community?"
 date: "2019-02-20"
 layout: transcript
 topics: 

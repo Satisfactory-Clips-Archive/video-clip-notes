@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Community FYI: That \"nein\" is very aggressive"
 date: "2019-02-20"
 layout: transcript
 topics: 

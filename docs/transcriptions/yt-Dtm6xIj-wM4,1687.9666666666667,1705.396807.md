@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: What do you make your models/textures with?"
 date: "2019-02-06"
 layout: transcript
 topics: 

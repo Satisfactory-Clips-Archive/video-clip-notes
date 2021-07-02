@@ -1,5 +1,5 @@
 ---
-title: "August 1st, 2018"
+title: "August 1st, 2018 - Q&A: How many Buildings will there be? What kind of complexity can we expect?"
 date: "2018-08-01"
 layout: transcript
 topics: 

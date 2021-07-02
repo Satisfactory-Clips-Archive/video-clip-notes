@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Do you look at the mods and think there are features you'd like to include in the full game?"
 date: "2020-12-17"
 layout: transcript
 topics: 

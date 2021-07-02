@@ -1,5 +1,5 @@
 ---
-title: "November 5th, 2019"
+title: "November 5th, 2019 - Jace Talk: Workaround for broken save games"
 date: "2019-11-05"
 layout: transcript
 topics: 

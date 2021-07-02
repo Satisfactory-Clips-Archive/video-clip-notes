@@ -1,5 +1,5 @@
 ---
-title: "June 7th, 2019"
+title: "June 7th, 2019 - Jace Talk: Coffee Stain's trepidation over Satisfactory launch"
 date: "2019-06-07"
 layout: transcript
 topics: 

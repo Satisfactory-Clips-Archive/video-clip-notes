@@ -1,5 +1,5 @@
 ---
-title: "November 27th, 2020"
+title: "November 27th, 2020 - Q&A: Does this mean we will lose the color palette / preset functionality?"
 date: "2020-11-27"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "October 1st, 2020"
+title: "October 1st, 2020 - Q&A: Will there be a 1:1 Lizard Doggo plushie?"
 date: "2020-10-01"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: You are one of the rare studios to be (openly) LGBTQ-friendly, why is that so important to you?"
 date: "2019-02-06"
 layout: transcript
 topics: 

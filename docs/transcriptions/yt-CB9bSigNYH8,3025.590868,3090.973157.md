@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: What is the biggest difference in working at an indie studio vs. a major one?"
 date: "2019-02-20"
 layout: transcript
 topics: 

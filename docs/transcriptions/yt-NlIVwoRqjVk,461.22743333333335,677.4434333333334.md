@@ -1,5 +1,5 @@
 ---
-title: "May 15th, 2020"
+title: "May 15th, 2020 - Q&A: Why did you sign an exclusivity deal with Epic?"
 date: "2020-05-15"
 layout: transcript
 topics: 

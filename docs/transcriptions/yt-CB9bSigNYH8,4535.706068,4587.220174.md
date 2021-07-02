@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - I see you're sculpting the Environment. I thought that was something Environment Artists do?"
 date: "2019-02-20"
 layout: transcript
 topics: 

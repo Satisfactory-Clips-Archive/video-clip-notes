@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: Are there going to be collectables/easter eggs/shrines to your previous games hidden around?"
 date: "2019-02-06"
 layout: transcript
 topics: 

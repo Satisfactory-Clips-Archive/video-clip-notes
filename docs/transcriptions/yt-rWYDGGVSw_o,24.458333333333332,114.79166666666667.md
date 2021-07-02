@@ -1,5 +1,5 @@
 ---
-title: "May 22nd, 2020"
+title: "May 22nd, 2020 - Snutt Talk: Steam Release possibly delayed"
 date: "2020-05-22"
 layout: transcript
 topics: 

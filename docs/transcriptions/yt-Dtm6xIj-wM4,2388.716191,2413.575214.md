@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: Jace - make that smile from 1 month after THQ acquisition?"
 date: "2019-02-06"
 layout: transcript
 topics: 

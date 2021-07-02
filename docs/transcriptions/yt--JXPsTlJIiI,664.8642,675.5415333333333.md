@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Any plans on giant boss enemies and giant mech suits to fight them in?"
 date: "2020-12-17"
 layout: transcript
 topics: 

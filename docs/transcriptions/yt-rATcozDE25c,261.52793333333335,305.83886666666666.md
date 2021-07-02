@@ -1,5 +1,5 @@
 ---
-title: "October 1st, 2020"
+title: "October 1st, 2020 - Q&A: Are there any hidden parts of the map you think people haven't found?"
 date: "2020-10-01"
 layout: transcript
 topics: 

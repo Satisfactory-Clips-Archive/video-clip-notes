@@ -1,5 +1,5 @@
 ---
-title: "December 12th, 2018"
+title: "December 12th, 2018 - Jace Talk: Satisfactory will be an Epic Store exclusive"
 date: "2018-12-12"
 layout: transcript
 topics: 

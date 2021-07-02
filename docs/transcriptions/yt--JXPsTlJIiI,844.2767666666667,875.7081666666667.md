@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Are farms going to be a thing?"
 date: "2020-12-17"
 layout: transcript
 topics: 

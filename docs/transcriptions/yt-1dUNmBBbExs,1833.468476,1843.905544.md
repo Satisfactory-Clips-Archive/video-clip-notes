@@ -1,5 +1,5 @@
 ---
-title: "July 8th, 2020"
+title: "July 8th, 2020 - Q&A: Does anyone know if there's a mod to holster weapon?"
 date: "2020-07-08"
 layout: transcript
 topics: 

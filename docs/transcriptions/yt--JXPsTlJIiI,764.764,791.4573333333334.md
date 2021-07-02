@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: If you were a Satisfactory building, what building would you be?"
 date: "2020-12-17"
 layout: transcript
 topics: 

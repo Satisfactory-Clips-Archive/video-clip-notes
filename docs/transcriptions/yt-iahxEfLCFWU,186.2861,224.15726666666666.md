@@ -1,5 +1,5 @@
 ---
-title: "October 27th, 2020"
+title: "October 27th, 2020 - Snutt Talk: Pump Mk.2"
 date: "2020-10-27"
 layout: transcript
 topics: 

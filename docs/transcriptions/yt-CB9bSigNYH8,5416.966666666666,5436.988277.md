@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: Is this the kind of game that you wanted to design?"
 date: "2019-02-20"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "November 27th, 2020"
+title: "November 27th, 2020 - Jace Talk: When there's a new feature in an engine doesn't mean you can use it"
 date: "2020-11-27"
 layout: transcript
 topics: 

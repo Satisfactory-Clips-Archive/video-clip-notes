@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: How are you planning to balance optimisation vs. new tiers/features in the future?"
 date: "2020-12-17"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "October 24th, 2019"
+title: "October 24th, 2019 - Hannah Talk: Making a world feel interesting with limited assets"
 date: "2019-10-24"
 layout: transcript
 topics: 

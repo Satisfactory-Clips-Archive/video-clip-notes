@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021"
+title: "May 28th, 2021 - Q&A: Is there anything else you're planning to do with Lights in the future?"
 date: "2021-05-28"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "February 26th, 2021"
+title: "February 26th, 2021 - Q&A: I'm on Early Access, how do I get in on this Experimental stuff?"
 date: "2021-02-26"
 layout: transcript
 topics: 

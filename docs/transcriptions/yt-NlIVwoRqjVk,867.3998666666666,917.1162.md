@@ -1,5 +1,5 @@
 ---
-title: "May 15th, 2020"
+title: "May 15th, 2020 - Q&A: While lights are not currently in the game, would it be an option for it to always be daytime?"
 date: "2020-05-15"
 layout: transcript
 topics: 

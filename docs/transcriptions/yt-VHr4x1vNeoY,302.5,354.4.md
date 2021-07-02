@@ -1,5 +1,5 @@
 ---
-title: "March 7th, 2019"
+title: "March 7th, 2019 - Q&A: What happens after the Alpha Test Weekend and before Early Access?"
 date: "2019-03-07"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Are there plans for mass building foundation and walls?"
 date: "2020-12-17"
 layout: transcript
 topics: 

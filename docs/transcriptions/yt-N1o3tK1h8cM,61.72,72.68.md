@@ -1,5 +1,5 @@
 ---
-title: "December 13th, 2019"
+title: "December 13th, 2019 - Snutt Talk: Improving Community Engagement"
 date: "2019-12-13"
 layout: transcript
 topics: 

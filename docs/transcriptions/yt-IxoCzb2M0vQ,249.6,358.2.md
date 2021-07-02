@@ -1,5 +1,5 @@
 ---
-title: "July 19th, 2018"
+title: "July 19th, 2018 - Truck"
 date: "2018-07-19"
 layout: transcript
 topics: 

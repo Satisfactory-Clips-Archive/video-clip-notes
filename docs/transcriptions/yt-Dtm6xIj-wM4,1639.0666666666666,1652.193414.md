@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: Is co-op style in line or are you focussed on solo?"
 date: "2019-02-06"
 layout: transcript
 topics: 

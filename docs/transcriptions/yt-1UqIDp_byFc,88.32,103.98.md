@@ -1,5 +1,5 @@
 ---
-title: "November 23rd, 2018"
+title: "November 23rd, 2018 - Q&A: Are your games going to be full of Microtransactions now?"
 date: "2018-11-23"
 layout: transcript
 topics: 

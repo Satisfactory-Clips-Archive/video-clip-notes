@@ -1,5 +1,5 @@
 ---
-title: "November 27th, 2020"
+title: "November 27th, 2020 - Jace Talk: Screen Space Global Illumination"
 date: "2020-11-27"
 layout: transcript
 topics: 

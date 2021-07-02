@@ -1,5 +1,5 @@
 ---
-title: "November 23rd, 2018"
+title: "November 23rd, 2018 - Q&A: Did THQ Nordic buy Coffee Stain?"
 date: "2018-11-23"
 layout: transcript
 topics: 

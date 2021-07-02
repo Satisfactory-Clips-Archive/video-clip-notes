@@ -1,5 +1,5 @@
 ---
-title: "September 19th, 2018"
+title: "September 19th, 2018 - Joel Talk: Joel's favourite sound effect"
 date: "2018-09-19"
 layout: transcript
 topics: 

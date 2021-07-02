@@ -1,5 +1,5 @@
 ---
-title: "October 1st, 2020"
+title: "October 1st, 2020 - Q&A: What are the community managers' favourite dinosaurs?"
 date: "2020-10-01"
 layout: transcript
 topics: 

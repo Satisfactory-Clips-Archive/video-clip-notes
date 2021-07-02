@@ -1,5 +1,5 @@
 ---
-title: "June 22nd, 2018"
+title: "June 22nd, 2018 - Q&A: Was the trailer a cinematic, or shot in-engine?"
 date: "2018-06-22"
 layout: transcript
 topics: 

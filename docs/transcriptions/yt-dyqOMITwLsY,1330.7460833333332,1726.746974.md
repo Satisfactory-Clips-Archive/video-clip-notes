@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021"
+title: "May 28th, 2021 - Snutt & Ben Talk: Impact of the Engine Upgrade on Conveyor Belt performance"
 date: "2021-05-28"
 layout: transcript
 topics: 

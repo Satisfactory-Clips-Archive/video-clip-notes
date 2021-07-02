@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Why don't my computer screens in my hub show me power consumption or total production?"
 date: "2020-12-17"
 layout: transcript
 topics: 

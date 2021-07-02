@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021"
+title: "May 28th, 2021 - Snutt & Ben Talked: Consequences of too many lights"
 date: "2021-05-28"
 layout: transcript
 topics: 

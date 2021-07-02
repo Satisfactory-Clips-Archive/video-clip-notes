@@ -1,5 +1,5 @@
 ---
-title: "August 1st, 2017"
+title: "August 1st, 2017 - Outro"
 date: "2017-08-01"
 layout: transcript
 topics: 

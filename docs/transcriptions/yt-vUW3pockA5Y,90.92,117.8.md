@@ -1,5 +1,5 @@
 ---
-title: "July 4th, 2018"
+title: "July 4th, 2018 - Oscar Talk: Combat is a part of the game but not a super big part"
 date: "2018-07-04"
 layout: transcript
 topics: 

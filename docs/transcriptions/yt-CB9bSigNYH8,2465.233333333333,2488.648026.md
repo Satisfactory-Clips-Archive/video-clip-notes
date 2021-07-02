@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: Will the machinery still work if I'm not loading that particular tile?"
 date: "2019-02-20"
 layout: transcript
 topics: 

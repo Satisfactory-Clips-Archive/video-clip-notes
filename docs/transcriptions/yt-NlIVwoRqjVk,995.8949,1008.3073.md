@@ -1,5 +1,5 @@
 ---
-title: "May 15th, 2020"
+title: "May 15th, 2020 - Q&A: Do you have any rough expectation of when the full release of the game will be?"
 date: "2020-05-15"
 layout: transcript
 topics: 

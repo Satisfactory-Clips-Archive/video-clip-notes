@@ -1,5 +1,5 @@
 ---
-title: "October 1st, 2020"
+title: "October 1st, 2020 - Q&A: What was your inspiration of making Satisfactory?"
 date: "2020-10-01"
 layout: transcript
 topics: 

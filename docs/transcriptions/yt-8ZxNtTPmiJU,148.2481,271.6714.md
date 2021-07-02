@@ -1,5 +1,5 @@
 ---
-title: "July 3rd, 2020"
+title: "July 3rd, 2020 - Jace Talk: Sales breakdown, Steam vs. Epic"
 date: "2020-07-03"
 layout: transcript
 topics: 

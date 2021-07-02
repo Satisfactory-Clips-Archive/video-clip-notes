@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: What happens when you die?"
 date: "2019-02-06"
 layout: transcript
 topics: 

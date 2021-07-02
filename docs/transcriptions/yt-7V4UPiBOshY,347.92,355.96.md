@@ -1,5 +1,5 @@
 ---
-title: "December 12th, 2018"
+title: "December 12th, 2018 - Community FYI: But revenue share doesn't matter if you don't have any customers"
 date: "2018-12-12"
 layout: transcript
 topics: 

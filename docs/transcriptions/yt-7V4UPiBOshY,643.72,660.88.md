@@ -1,5 +1,5 @@
 ---
-title: "December 12th, 2018"
+title: "December 12th, 2018 - Community FYI: Your Community Manager is unprofessional, you should be ashamed"
 date: "2018-12-12"
 layout: transcript
 topics: 

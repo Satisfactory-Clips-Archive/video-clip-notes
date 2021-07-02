@@ -1,5 +1,5 @@
 ---
-title: "July 30th, 2020"
+title: "July 30th, 2020 - Jace Talk: The QA Site"
 date: "2020-07-30"
 layout: transcript
 topics: 

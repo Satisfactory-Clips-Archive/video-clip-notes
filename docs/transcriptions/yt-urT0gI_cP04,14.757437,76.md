@@ -1,5 +1,5 @@
 ---
-title: "August 30th, 2019"
+title: "August 30th, 2019 - Jace Talk: I went to Gamescom"
 date: "2019-08-30"
 layout: transcript
 topics: 

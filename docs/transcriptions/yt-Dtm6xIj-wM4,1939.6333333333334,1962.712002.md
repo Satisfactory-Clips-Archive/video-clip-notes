@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: With resource nodes are you going to have to run out of one node, and have to change nodes?"
 date: "2019-02-06"
 layout: transcript
 topics: 

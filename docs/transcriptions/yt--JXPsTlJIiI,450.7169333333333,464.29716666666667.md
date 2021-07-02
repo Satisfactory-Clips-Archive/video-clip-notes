@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: What does a day in the life of a community manager Jace look like?"
 date: "2020-12-17"
 layout: transcript
 topics: 

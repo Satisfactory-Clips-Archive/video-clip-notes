@@ -1,5 +1,5 @@
 ---
-title: "May 15th, 2020"
+title: "May 15th, 2020 - Q&A: What are your thoughts regarding replayability?"
 date: "2020-05-15"
 layout: transcript
 topics: 

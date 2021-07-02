@@ -1,5 +1,5 @@
 ---
-title: "March 16th, 2021"
+title: "March 16th, 2021 - Geothermal is getting a change, too"
 date: "2021-03-16"
 layout: transcript
 topics: 

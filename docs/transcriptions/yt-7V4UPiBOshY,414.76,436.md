@@ -1,5 +1,5 @@
 ---
-title: "December 12th, 2018"
+title: "December 12th, 2018 - Community FYI: But Epic Launcher doesn't have [insert feature]"
 date: "2018-12-12"
 layout: transcript
 topics: 

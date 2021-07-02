@@ -1,5 +1,5 @@
 ---
-title: "November 23rd, 2018"
+title: "November 23rd, 2018 - Q&A: You say things are fine now, but what about in 5 years?"
 date: "2018-11-23"
 layout: transcript
 topics: 

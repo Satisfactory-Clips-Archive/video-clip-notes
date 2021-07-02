@@ -1,5 +1,5 @@
 ---
-title: "February 20th, 2019"
+title: "February 20th, 2019 - Q&A: Are you going to make Easter Eggs?"
 date: "2019-02-20"
 layout: transcript
 topics: 

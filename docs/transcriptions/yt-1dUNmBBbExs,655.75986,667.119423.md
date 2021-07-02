@@ -1,5 +1,5 @@
 ---
-title: "July 8th, 2020"
+title: "July 8th, 2020 - Community FYI: Uses standard popup with custom disconnect message"
 date: "2020-07-08"
 layout: transcript
 topics: 

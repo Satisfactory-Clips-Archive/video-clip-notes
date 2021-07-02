@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Will Trains be getting any updates? Signals? Collision?"
 date: "2020-12-17"
 layout: transcript
 topics: 

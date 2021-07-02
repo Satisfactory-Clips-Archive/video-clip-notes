@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Is there a plan for Nuclear Waste? Besides being used as Lizard Doggo treats."
 date: "2020-12-17"
 layout: transcript
 topics: 

@@ -1,5 +1,5 @@
 ---
-title: "October 1st, 2020"
+title: "October 1st, 2020 - Q&A: Can we get survival features added in a mode for those of us who want more of a challenge?"
 date: "2020-10-01"
 layout: transcript
 topics: 

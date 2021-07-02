@@ -1,5 +1,5 @@
 ---
-title: "July 4th, 2018"
+title: "July 4th, 2018 - Oscar Talk: The scope of gameplay and automation"
 date: "2018-07-04"
 layout: transcript
 topics: 

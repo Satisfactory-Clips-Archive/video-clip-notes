@@ -1,5 +1,5 @@
 ---
-title: "December 17th, 2020"
+title: "December 17th, 2020 - Q&A: Is player fatigue a concern for you? Do you see people drop off at certain points in the game?"
 date: "2020-12-17"
 layout: transcript
 topics: 

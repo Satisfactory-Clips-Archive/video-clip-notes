@@ -1,5 +1,5 @@
 ---
-title: "March 26th, 2021"
+title: "March 26th, 2021 - Snutt Talk: Tweaking Update 4 Alt Recipes"
 date: "2021-03-26"
 layout: transcript
 topics: 

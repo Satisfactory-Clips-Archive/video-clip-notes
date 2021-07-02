@@ -1,5 +1,5 @@
 ---
-title: "December 12th, 2018"
+title: "December 12th, 2018 - Q&A: Who forced you to do this‽"
 date: "2018-12-12"
 layout: transcript
 topics: 

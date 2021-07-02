@@ -1,5 +1,5 @@
 ---
-title: "October 27th, 2020"
+title: "October 27th, 2020 - Snutt Talk: Fluids Update being released on the Experimental Branch"
 date: "2020-10-27"
 layout: transcript
 topics: 

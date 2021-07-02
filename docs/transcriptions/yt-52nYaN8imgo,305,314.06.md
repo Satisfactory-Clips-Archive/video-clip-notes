@@ -1,5 +1,5 @@
 ---
-title: "December 19th, 2019"
+title: "December 19th, 2019 - Developer Highlight - Music/ Developer Highlight - Sound Design [BTS] (September 2018)"
 date: "2019-12-19"
 layout: transcript
 topics: 

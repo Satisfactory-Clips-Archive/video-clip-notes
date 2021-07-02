@@ -1,5 +1,5 @@
 ---
-title: "November 16th, 2020"
+title: "November 16th, 2020 - Hannah Talk: How Hannah joined Coffee Stain"
 date: "2020-11-16"
 layout: transcript
 topics: 

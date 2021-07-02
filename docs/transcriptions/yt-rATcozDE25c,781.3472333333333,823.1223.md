@@ -1,5 +1,5 @@
 ---
-title: "October 1st, 2020"
+title: "October 1st, 2020 - Q&A: What was the thought process behind the design of the engineer, will we see character creation?"
 date: "2020-10-01"
 layout: transcript
 topics: 

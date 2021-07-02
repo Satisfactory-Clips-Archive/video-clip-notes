@@ -1,5 +1,5 @@
 ---
-title: "November 16th, 2020"
+title: "November 16th, 2020 - Anna Talk: How I got into Game Development"
 date: "2020-11-16"
 layout: transcript
 topics: 

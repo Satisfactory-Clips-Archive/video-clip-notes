@@ -1,5 +1,5 @@
 ---
-title: "February 6th, 2019"
+title: "February 6th, 2019 - Q&A: Is 4 players the recommended number?"
 date: "2019-02-06"
 layout: transcript
 topics: 

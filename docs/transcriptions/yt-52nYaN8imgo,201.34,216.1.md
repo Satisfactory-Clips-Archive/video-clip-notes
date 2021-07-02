@@ -1,5 +1,5 @@
 ---
-title: "December 19th, 2019"
+title: "December 19th, 2019 - Q&A: Satisfactory exclusive to Epic Games Store (December 2018)"
 date: "2019-12-19"
 layout: transcript
 topics: 

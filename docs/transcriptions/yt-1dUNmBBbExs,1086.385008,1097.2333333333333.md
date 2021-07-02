@@ -1,5 +1,5 @@
 ---
-title: "July 8th, 2020"
+title: "July 8th, 2020 - Q&A: Where's the Tony Hawk Pro Skater mod so you can grind that sick rail"
 date: "2020-07-08"
 layout: transcript
 topics: 

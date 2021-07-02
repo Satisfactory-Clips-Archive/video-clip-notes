@@ -1,5 +1,5 @@
 ---
-title: "January 19th, 2019"
+title: "January 19th, 2019 - Nathalie Talk: Satisfactory's previous UI/UX"
 date: "2019-01-19"
 layout: transcript
 topics: 

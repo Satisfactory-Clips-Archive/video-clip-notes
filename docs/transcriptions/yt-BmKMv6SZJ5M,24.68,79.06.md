@@ -1,5 +1,5 @@
 ---
-title: "April 2nd, 2020"
+title: "April 2nd, 2020 - Jace Talk: Impact of global pandemic"
 date: "2020-04-02"
 layout: transcript
 topics: 

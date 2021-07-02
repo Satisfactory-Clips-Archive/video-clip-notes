@@ -1,5 +1,5 @@
 ---
-title: "August 1st, 2018"
+title: "August 1st, 2018 - Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?"
 date: "2018-08-01"
 layout: transcript
 topics: 

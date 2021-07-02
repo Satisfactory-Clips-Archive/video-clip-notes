@@ -1,5 +1,5 @@
 ---
-title: "October 1st, 2020"
+title: "October 1st, 2020 - Q&A: Will there be any environmental influences later on, like climate change or heatwave storms?"
 date: "2020-10-01"
 layout: transcript
 topics: 
