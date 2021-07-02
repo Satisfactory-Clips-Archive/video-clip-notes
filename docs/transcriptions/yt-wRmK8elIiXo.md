@@ -3,16 +3,16 @@ title: "June 15th, 2021 Livestream Q&A: Any plans for quality of life improvemen
 date: "2021-06-15"
 layout: transcript
 topics:
+    - "features/planned-features/build-modes"
     - "satisfactory-updates/pending/satisfactory-update-5"
-    - "technology/user-interface"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Any plans for quality of life improvements?
 https://www.youtube.com/watch?v=wRmK8elIiXo
 
 ### Topics
+* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

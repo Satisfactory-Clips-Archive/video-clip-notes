@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "community/community-highlights"
     - "features/buildables/foundations"
+    - "features/planned-features/build-modes"
     - "mods/mods-vs-features"
-    - "technology/user-interface"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Snutt & Jace Talk: Build Modes vs. manual effort vs. mods vs. save editors
@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=Tl2vrQ3oD18
 ### Topics
 * [Community > Community Highlights](../topics/community/community-highlights.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript
 

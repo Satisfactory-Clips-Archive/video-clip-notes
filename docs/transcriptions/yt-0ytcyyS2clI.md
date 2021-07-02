@@ -4,6 +4,7 @@ date: "2021-06-15"
 layout: transcript
 topics:
     - "features/buildables/foundations/cheatcrete"
+    - "features/planned-features/build-modes"
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=0ytcyyS2clI
 
 ### Topics
 * [Features > Buildables > Foundations > Cheatcrete](../topics/features/buildables/foundations/cheatcrete.md)
+* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 

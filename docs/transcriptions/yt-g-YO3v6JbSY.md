@@ -6,6 +6,7 @@ topics:
     - "features/buildables/foundations/cheatcrete"
     - "features/buildings"
     - "features/buildings/coal-generator"
+    - "features/planned-features/build-modes"
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
     - "technology/physics"
@@ -18,6 +19,7 @@ https://www.youtube.com/watch?v=g-YO3v6JbSY
 * [Features > Buildables > Foundations > Cheatcrete](../topics/features/buildables/foundations/cheatcrete.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
+* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Technology > Physics](../topics/technology/physics.md)

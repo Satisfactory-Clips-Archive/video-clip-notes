@@ -8,15 +8,7 @@ date: Last Modified
 ## June 22nd, 2021 Livestream
 * [Q&A: Will we see something like Blueprints in Update 5?](../../transcriptions/yt-A3GSOZWzGqs.md) [https://www.youtube.com/watch?v=A3GSOZWzGqs](https://www.youtube.com/watch?v=A3GSOZWzGqs)
 
-## June 18th, 2021 Livestream
-* Jace Talk: Build Modes in Update 5 [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201)
-
-## June 15th, 2021 Livestream
-* [State of Dev: Update 5](../../transcriptions/yt-4jZUVUeNXKQ.md) [https://www.youtube.com/watch?v=4jZUVUeNXKQ](https://www.youtube.com/watch?v=4jZUVUeNXKQ)
-* [Q&A: Any plans for quality of life improvements?](../../transcriptions/yt-wRmK8elIiXo.md) [https://www.youtube.com/watch?v=wRmK8elIiXo](https://www.youtube.com/watch?v=wRmK8elIiXo)
-
 ## June 8th, 2021 Livestream
-* [Snutt & Jace Talk: Build Modes vs. manual effort vs. mods vs. save editors](../../transcriptions/yt-Tl2vrQ3oD18.md) [https://www.youtube.com/watch?v=Tl2vrQ3oD18](https://www.youtube.com/watch?v=Tl2vrQ3oD18)
 * [Q&A: Would it be possible to use Copy & Paste functionality on blocks that don't have recipes?](../../transcriptions/yt-xzRjKtWNZIo.md) [https://www.youtube.com/watch?v=xzRjKtWNZIo](https://www.youtube.com/watch?v=xzRjKtWNZIo)
 
 ## June 1st, 2021 Livestream
@@ -80,7 +72,6 @@ date: Last Modified
 * [Q&A: Any plans on a global grid?](../../transcriptions/yt-QxJ8e_0r9uE.md) [https://www.youtube.com/watch?v=QxJ8e_0r9uE](https://www.youtube.com/watch?v=QxJ8e_0r9uE)
 * [Q&A: Percentage with decimals in overclock menu?](../../transcriptions/yt-t-BYjRnBkAs.md) [https://www.youtube.com/watch?v=t-BYjRnBkAs](https://www.youtube.com/watch?v=t-BYjRnBkAs)
 * [Community FYI: Not being able to wear a mask is annoying](../../transcriptions/yt-r12CKyyTTJk.md) [https://www.youtube.com/watch?v=r12CKyyTTJk](https://www.youtube.com/watch?v=r12CKyyTTJk)
-* [Q&A: What's the feature you want to add?](../../transcriptions/yt-VJgvG8RvkLw.md) [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
 * [Q&A: Can you fix the wheels when selecting walls?](../../transcriptions/yt-9qpSJT7gl9o.md) [https://www.youtube.com/watch?v=9qpSJT7gl9o](https://www.youtube.com/watch?v=9qpSJT7gl9o)
 
 ## March 23rd, 2021 Livestream

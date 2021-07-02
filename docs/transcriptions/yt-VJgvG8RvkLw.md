@@ -4,7 +4,7 @@ date: "2021-03-30"
 layout: transcript
 topics:
     - "coffee-stainers/snutt"
-    - "technology/user-interface"
+    - "features/planned-features/build-modes"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: What's the feature you want to add?
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=VJgvG8RvkLw
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 
 ### Transcript
 
