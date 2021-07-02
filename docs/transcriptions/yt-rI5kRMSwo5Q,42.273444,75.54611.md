@@ -1,5 +1,5 @@
 ---
-title: "February 5th, 2021 - UI change - Open in Codex"
+title: "February 5th, 2021 - UI Change - Open in Codex"
 date: "2021-02-05"
 layout: transcript
 topics: 
@@ -8,7 +8,7 @@ topics:
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 5th, 2021 Update 4 UI Changes (including the new Resource Well Pressurizers & Extractors)](../2021-02-05.md)
-## UI change - Open in Codex
+## UI Change - Open in Codex
 https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76
 ### Topics
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)

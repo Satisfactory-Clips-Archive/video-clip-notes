@@ -59,7 +59,7 @@ date: Last Modified
 * [Q&A: Will there be another list coming in the Codex showing you which recipes need certain items?](../../../transcriptions/yt-Wk1osyojNQw.md) [https://www.youtube.com/watch?v=Wk1osyojNQw](https://www.youtube.com/watch?v=Wk1osyojNQw)
 
 ## February 5th, 2021 Video
-* [UI change - Open in Codex](../../../transcriptions/yt-rI5kRMSwo5Q,42.273444,75.54611.md) [https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76](https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76)
+* [UI Change - Open in Codex](../../../transcriptions/yt-rI5kRMSwo5Q,42.273444,75.54611.md) [https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76](https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=42&end=76)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Will Update 4 affect the Refinery Recipes outside of Tier 7?](../../../transcriptions/yt-zYh_QUHwAh4.md) [https://www.youtube.com/watch?v=zYh_QUHwAh4](https://www.youtube.com/watch?v=zYh_QUHwAh4)
