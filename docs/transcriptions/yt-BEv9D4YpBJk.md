@@ -5,7 +5,8 @@ layout: transcript
 topics:
     - "features/buildings/awesome-store"
     - "features/buildings/the-hub"
-    - "features/possible-features/dlc"
+    - "features/possible-features/dlc/flushable-toilet-dlc"
+    - "features/possible-features/dlc/toilet-paper-dlc"
     - "june-2021-epic-mega-sale-stream"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
@@ -17,7 +18,8 @@ This question was possibly duplicated with a more recent answer: [June 8th, 2021
 ### Topics
 * [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Possible Features > DLC > Flushable Toilet DLC](../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
+* [Features > Possible Features > DLC > Toilet Paper DLC](../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 * [June 2021 Epic Mega Sale Stream](../topics/june-2021-epic-mega-sale-stream.md)
 
 ### Transcript

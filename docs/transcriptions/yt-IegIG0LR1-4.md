@@ -3,7 +3,6 @@ title: "June 1st, 2021 Livestream Community FYI: Game needs Dyson Sphere soon or
 date: "2021-06-01"
 layout: transcript
 topics:
-    - "features/possible-features/dlc"
     - "mods/mods-vs-features"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
@@ -11,7 +10,6 @@ topics:
 https://www.youtube.com/watch?v=IegIG0LR1-4
 
 ### Topics
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 
 ### Transcript

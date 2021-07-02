@@ -3,14 +3,16 @@ title: "January 26th, 2021 Livestream Q&A: Will DLC be paid or will it be free u
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "features/possible-features/dlc"
+    - "features/buildings/the-hub"
+    - "features/possible-features/dlc/flushable-toilet-dlc"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Will DLC be paid or will it be free updates?
 https://www.youtube.com/watch?v=RpmitKGrznw
 
 ### Topics
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Possible Features > DLC > Flushable Toilet DLC](../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 
 ### Transcript
 

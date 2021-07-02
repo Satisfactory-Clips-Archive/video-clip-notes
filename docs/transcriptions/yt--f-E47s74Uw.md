@@ -4,6 +4,7 @@ date: "2020-11-03"
 layout: transcript
 topics:
     - "features/possible-features/dlc"
+    - "features/possible-features/dlc/flushable-toilet-dlc"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will there be DLCs?
@@ -20,6 +21,7 @@ This question was possibly duplicated with a more recent answer: [June 22nd, 202
 
 ### Topics
 * [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Possible Features > DLC > Flushable Toilet DLC](../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 
 ### Transcript
 

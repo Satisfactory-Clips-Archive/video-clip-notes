@@ -7,10 +7,14 @@ date: Last Modified
 ## June 15th, 2021 Livestream
 * [Q&A: When do the microtransactions and DLC packs start?](../../../transcriptions/yt-V2cOLLcElBI.md) [https://www.youtube.com/watch?v=V2cOLLcElBI](https://www.youtube.com/watch?v=V2cOLLcElBI)
 
+## June 1st, 2021 Livestream
+* [Q&A: Will DLCs have microtransactions per flush?](../../../transcriptions/yt-25Uqa4KOKqc.md) [https://www.youtube.com/watch?v=25Uqa4KOKqc](https://www.youtube.com/watch?v=25Uqa4KOKqc)
+
 ## October 6th, 2020 Livestream
 * [Jace & Snutt Talk: State of Dev](../../../transcriptions/yt-qG7a8qP2x_g.md) [https://www.youtube.com/watch?v=qG7a8qP2x_g](https://www.youtube.com/watch?v=qG7a8qP2x_g)
 
 ## January 22nd, 2020 Livestream
+* [Q&A: Microtranscation DLC?](../../../transcriptions/yt-ithVAX7EptE.md) [https://www.youtube.com/watch?v=ithVAX7EptE](https://www.youtube.com/watch?v=ithVAX7EptE)
 * [Snutt & Jace Talk: AWESOME Shop Teaser (no microtransactions)](../../../transcriptions/yt-1UbLRZJ0-SE.md) [https://www.youtube.com/watch?v=1UbLRZJ0-SE](https://www.youtube.com/watch?v=1UbLRZJ0-SE)
 
 ## November 23rd, 2018 Dev Blog

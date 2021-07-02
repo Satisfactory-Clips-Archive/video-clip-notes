@@ -4,15 +4,17 @@ date: "2021-06-01"
 layout: transcript
 topics:
     - "features/buildings/the-hub"
-    - "features/possible-features/dlc"
+    - "features/possible-features/dlc/flushable-toilet-dlc"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: Working HUB Toilet?
 https://www.youtube.com/watch?v=bSD9Vj_ZKek
+This question was possibly duplicated with a more recent answer: [June 8th, 2020 Livestream Q&A: Flushable Toilet?](./yt-FlaP38G7O5U.md) [https://www.youtube.com/watch?v=FlaP38G7O5U](https://www.youtube.com/watch?v=FlaP38G7O5U)
+
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Possible Features > DLC > Flushable Toilet DLC](../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 
 ### Transcript
 

@@ -201,10 +201,14 @@ date: Last Modified
 * [Character Customisation](./topics/features/possible-features/character-customisation.md)
 * [Console Release](./topics/features/possible-features/console-release.md)
 * [Decor](./topics/features/possible-features/decor.md)
-* [DLC](./topics/features/possible-features/dlc.md)
 * [Farming](./topics/features/possible-features/farming.md)
 * [Underground Biome](./topics/features/possible-features/underground-biome.md)
 * [Weather Systems](./topics/features/possible-features/weather-systems.md)
+
+### [DLC](./topics/features/possible-features/dlc.md)
+* [Flushable Toilet DLC](./topics/features/possible-features/dlc/flushable-toilet-dlc.md)
+* [Toilet Paper DLC](./topics/features/possible-features/dlc/toilet-paper-dlc.md)
+---
 
 ### [Game Modes](./topics/features/possible-features/game-modes.md)
 * [Battle Royale](./topics/features/possible-features/game-modes/battle-royale.md)

@@ -3,16 +3,18 @@ title: "September 1st, 2020 Livestream Q&A: Flushable Toilet DLC?"
 date: "2020-09-01"
 layout: transcript
 topics:
-    - "features/possible-features/dlc"
+    - "features/buildings/the-hub"
+    - "features/possible-features/dlc/flushable-toilet-dlc"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Flushable Toilet DLC?
 https://www.youtube.com/watch?v=Z7KaqsyT7_k
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: $1 Toilet Paper DLC?](./yt-ekFl5tlk2ig.md) [https://www.youtube.com/watch?v=ekFl5tlk2ig](https://www.youtube.com/watch?v=ekFl5tlk2ig)
+This question was possibly duplicated with a more recent answer: [June 8th, 2020 Livestream Q&A: Flushable Toilet?](./yt-FlaP38G7O5U.md) [https://www.youtube.com/watch?v=FlaP38G7O5U](https://www.youtube.com/watch?v=FlaP38G7O5U)
 
 
 ### Topics
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Possible Features > DLC > Flushable Toilet DLC](../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 
 ### Transcript
 

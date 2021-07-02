@@ -4,7 +4,7 @@ date: "2020-11-24"
 layout: transcript
 topics:
     - "features/buildings/the-hub"
-    - "features/possible-features/dlc"
+    - "features/possible-features/decor"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Toilet Plunger for The HUB when?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=1-xFJyIBosU
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
 
 ### Transcript
 

@@ -3,17 +3,19 @@ title: "January 12th, 2021 Livestream Q&A: The game is not done until I can flus
 date: "2021-01-12"
 layout: transcript
 topics:
-    - "features/possible-features/dlc"
+    - "features/buildings/the-hub"
+    - "features/possible-features/dlc/flushable-toilet-dlc"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: The game is not done until I can flush the toilet?
 https://www.youtube.com/watch?v=64xmTN-rhbs
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Toilet flush?](./yt-b06s0rzssTc.md) [https://www.youtube.com/watch?v=b06s0rzssTc](https://www.youtube.com/watch?v=b06s0rzssTc)
+This question was possibly duplicated with a more recent answer: [June 8th, 2020 Livestream Q&A: Flushable Toilet?](./yt-FlaP38G7O5U.md) [https://www.youtube.com/watch?v=FlaP38G7O5U](https://www.youtube.com/watch?v=FlaP38G7O5U)
 
 
 ### Topics
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Possible Features > DLC > Flushable Toilet DLC](../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript

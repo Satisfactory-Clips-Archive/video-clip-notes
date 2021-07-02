@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
     - "features/buildings/the-hub"
-    - "features/possible-features/dlc"
+    - "features/possible-features/decor"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Snutt & Jace Talk: Turning the toilet into a shrine to us
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=JSE233L0yRA
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
 
 ### Transcript
 

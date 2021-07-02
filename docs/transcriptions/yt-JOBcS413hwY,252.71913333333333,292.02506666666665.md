@@ -5,7 +5,7 @@ layout: transcript
 topics: 
     - "coffee-stainers/jace"
     - "trolling"
-    - "features/possible-features/dlc"
+    - "features/possible-features/dlc/toilet-paper-dlc"
 ---
 # [July 23rd, 2020 I made High Quality "Screenshots"™ of whatever you asked for](../2020-07-23.md)
 ## Jace Art: TP in the loo
@@ -13,7 +13,7 @@ https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=252&end=293
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Trolling](../topics/trolling.md)
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Possible Features > DLC > Toilet Paper DLC](../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 
 ### Transcript
 

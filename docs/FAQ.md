@@ -488,16 +488,11 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 8 other times, as recently as June 2021 and as early as January 2020.</summary>
+<summary>This question may have been asked previously at least 3 other times, as recently as June 2021 and as early as August 2020.</summary>
 
-* [June 1st, 2021 Livestream Q&A: Toilet DLC?](./transcriptions/yt-kitahOI_c88.md) [https://www.youtube.com/watch?v=kitahOI_c88](https://www.youtube.com/watch?v=kitahOI_c88)
 * [June 1st, 2021 Livestream Q&A: Toilet Paper DLC?](./transcriptions/yt-BEv9D4YpBJk.md) [https://www.youtube.com/watch?v=BEv9D4YpBJk](https://www.youtube.com/watch?v=BEv9D4YpBJk)
-* [May 4th, 2021 Livestream Q&A: Toilet DLC, when?](./transcriptions/yt-qgNE5bu73j0.md) [https://www.youtube.com/watch?v=qgNE5bu73j0](https://www.youtube.com/watch?v=qgNE5bu73j0)
-* [March 30th, 2021 Livestream Q&A: What about the Toilet?](./transcriptions/yt-oa5g8FKujqk.md) [https://www.youtube.com/watch?v=oa5g8FKujqk](https://www.youtube.com/watch?v=oa5g8FKujqk)
-* [February 9th, 2021 Livestream Q&A: $1 Toilet DLC?](./transcriptions/yt-mBpIB3ojMC8.md) [https://www.youtube.com/watch?v=mBpIB3ojMC8](https://www.youtube.com/watch?v=mBpIB3ojMC8)
-* [September 1st, 2020 Livestream Q&A: Flushable Toilet DLC?](./transcriptions/yt-Z7KaqsyT7_k.md) [https://www.youtube.com/watch?v=Z7KaqsyT7_k](https://www.youtube.com/watch?v=Z7KaqsyT7_k)
-* [June 8th, 2020 Livestream Q&A: Flushable Toilet?](./transcriptions/yt-FlaP38G7O5U.md) [https://www.youtube.com/watch?v=FlaP38G7O5U](https://www.youtube.com/watch?v=FlaP38G7O5U)
-* [January 22nd, 2020 Livestream Q&A: Microtranscation DLC?](./transcriptions/yt-ithVAX7EptE.md) [https://www.youtube.com/watch?v=ithVAX7EptE](https://www.youtube.com/watch?v=ithVAX7EptE)
+* [November 10th, 2020 Livestream Q&A: When does the Toilet Paper DLC come out?](./transcriptions/yt-8S1NK72uyLE.md) [https://www.youtube.com/watch?v=8S1NK72uyLE](https://www.youtube.com/watch?v=8S1NK72uyLE)
+* August 18th, 2020 Livestream Q&A: Any plans to add toilet paper in the bathroom? [https://clips.twitch.tv/AuspiciousPrettiestAlfalfaKAPOW](https://clips.twitch.tv/AuspiciousPrettiestAlfalfaKAPOW)
 </details>
 
 ### [Q&A: What about Story?](./transcriptions/yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
@@ -1656,31 +1651,6 @@ date: Last Modified
 * [March 9th, 2019 Livestream Q&A: Will there be a creative mode?](./transcriptions/yt-eIPuM39KDcE.md) [https://www.youtube.com/watch?v=eIPuM39KDcE](https://www.youtube.com/watch?v=eIPuM39KDcE)
 * [February 6th, 2019 Livestream Q&A: Sandbox mode available?](./transcriptions/yt-Dtm6xIj-wM4,1962.712002,2009.493406.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010)
 * [August 1st, 2018 Q&A: Will there be a Creative Mode?](./transcriptions/yt-iFAy1NZUOGU,14,29.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29)
-</details>
-
-### [Q&A: Toilet flush?](./transcriptions/yt-b06s0rzssTc.md) [https://www.youtube.com/watch?v=b06s0rzssTc](https://www.youtube.com/watch?v=b06s0rzssTc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> toilet flush this is an important question this is definitely happening you guys it's dlc yeah charlie yeah no that's the dlc the toilet flushing
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 9 other times, as recently as April 2021 and as early as September 2020.</summary>
-
-* [April 20th, 2021 Livestream Q&A: What about the flushing toilet?](./transcriptions/yt-sve9kjgML2E.md) [https://www.youtube.com/watch?v=sve9kjgML2E](https://www.youtube.com/watch?v=sve9kjgML2E)
-* [February 9th, 2021 Livestream Q&A: When is Toilet update coming?](./transcriptions/yt-b7ZVKjoH7CQ.md) [https://www.youtube.com/watch?v=b7ZVKjoH7CQ](https://www.youtube.com/watch?v=b7ZVKjoH7CQ)
-* [February 2nd, 2021 Livestream Q&A: Will the Toilet flush?](./transcriptions/yt-ydJvaDmoy0U.md) [https://www.youtube.com/watch?v=ydJvaDmoy0U](https://www.youtube.com/watch?v=ydJvaDmoy0U)
-* [January 26th, 2021 Livestream Q&A: When will we get the toilet DLC?](./transcriptions/yt-AeWfPCZQZBQ.md) [https://www.youtube.com/watch?v=AeWfPCZQZBQ](https://www.youtube.com/watch?v=AeWfPCZQZBQ)
-* [January 12th, 2021 Livestream Q&A: The game is not done until I can flush the toilet?](./transcriptions/yt-64xmTN-rhbs.md) [https://www.youtube.com/watch?v=64xmTN-rhbs](https://www.youtube.com/watch?v=64xmTN-rhbs)
-* [November 10th, 2020 Livestream Q&A: When are we getting Toilet Flush DLC?](./transcriptions/yt-24KsUKR3T-4.md) [https://www.youtube.com/watch?v=24KsUKR3T-4](https://www.youtube.com/watch?v=24KsUKR3T-4)
-* [September 22nd, 2020 Livestream Q&A: Where is the Toilet DLC?](./transcriptions/yt-unZciwmFlwA.md) [https://www.youtube.com/watch?v=unZciwmFlwA](https://www.youtube.com/watch?v=unZciwmFlwA)
-* [September 15th, 2020 Livestream Q&A: FICSIT Toilet soon?](./transcriptions/yt-clJjkvA5whw.md) [https://www.youtube.com/watch?v=clJjkvA5whw](https://www.youtube.com/watch?v=clJjkvA5whw)
-* [September 8th, 2020 Livestream Q&A: When will the Toilet be operative?](./transcriptions/yt-zoVojtGZw9A.md) [https://www.youtube.com/watch?v=zoVojtGZw9A](https://www.youtube.com/watch?v=zoVojtGZw9A)
 </details>
 
 ### [Q&A: Can we use beds to sleep overnight?](./transcriptions/yt-84Mwit3dmQk.md) [https://www.youtube.com/watch?v=84Mwit3dmQk](https://www.youtube.com/watch?v=84Mwit3dmQk)

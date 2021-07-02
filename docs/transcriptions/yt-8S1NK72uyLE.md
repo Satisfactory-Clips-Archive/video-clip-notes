@@ -3,20 +3,18 @@ title: "November 10th, 2020 Livestream Q&A: When does the Toilet Paper DLC come 
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "features/possible-features/dlc"
+    - "features/buildings/the-hub"
+    - "features/possible-features/dlc/toilet-paper-dlc"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When does the Toilet Paper DLC come out?
 https://www.youtube.com/watch?v=8S1NK72uyLE
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
-
-* August 18th, 2020 Livestream Q&A: Any plans to add toilet paper in the bathroom? [https://clips.twitch.tv/AuspiciousPrettiestAlfalfaKAPOW](https://clips.twitch.tv/AuspiciousPrettiestAlfalfaKAPOW)
-</details>
+This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: $1 Toilet Paper DLC?](./yt-ekFl5tlk2ig.md) [https://www.youtube.com/watch?v=ekFl5tlk2ig](https://www.youtube.com/watch?v=ekFl5tlk2ig)
 
 
 ### Topics
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Possible Features > DLC > Toilet Paper DLC](../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 
 ### Transcript
 

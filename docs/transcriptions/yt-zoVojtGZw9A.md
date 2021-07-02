@@ -3,16 +3,18 @@ title: "September 8th, 2020 Livestream Q&A: When will the Toilet be operative?"
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "features/possible-features/dlc"
+    - "features/buildings/the-hub"
+    - "features/possible-features/dlc/flushable-toilet-dlc"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When will the Toilet be operative?
 https://www.youtube.com/watch?v=zoVojtGZw9A
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Toilet flush?](./yt-b06s0rzssTc.md) [https://www.youtube.com/watch?v=b06s0rzssTc](https://www.youtube.com/watch?v=b06s0rzssTc)
+This question was possibly duplicated with a more recent answer: [June 8th, 2020 Livestream Q&A: Flushable Toilet?](./yt-FlaP38G7O5U.md) [https://www.youtube.com/watch?v=FlaP38G7O5U](https://www.youtube.com/watch?v=FlaP38G7O5U)
 
 
 ### Topics
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Possible Features > DLC > Flushable Toilet DLC](../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 
 ### Transcript
 

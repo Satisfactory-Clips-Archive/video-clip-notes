@@ -8,10 +8,17 @@ date: Last Modified
 * [Q&A: How happy is Torsten with the current interior of The HUB?](../../../transcriptions/yt-PddJ9_WrRsM.md) [https://www.youtube.com/watch?v=PddJ9_WrRsM](https://www.youtube.com/watch?v=PddJ9_WrRsM)
 
 ## June 8th, 2021 Livestream
+* [Q&A: $1 Toilet Paper DLC?](../../../transcriptions/yt-ekFl5tlk2ig.md) [https://www.youtube.com/watch?v=ekFl5tlk2ig](https://www.youtube.com/watch?v=ekFl5tlk2ig)
 * [Q&A: We need a pixel-style arcade game in the HUB called "Doggo Quest"?](../../../transcriptions/yt-p0nELMGY4hA.md) [https://www.youtube.com/watch?v=p0nELMGY4hA](https://www.youtube.com/watch?v=p0nELMGY4hA)
 
 ## June 1st, 2021 Livestream
+* [Q&A: Toilet DLC?](../../../transcriptions/yt-kitahOI_c88.md) [https://www.youtube.com/watch?v=kitahOI_c88](https://www.youtube.com/watch?v=kitahOI_c88)
 * [Q&A: Working HUB Toilet?](../../../transcriptions/yt-bSD9Vj_ZKek.md) [https://www.youtube.com/watch?v=bSD9Vj_ZKek](https://www.youtube.com/watch?v=bSD9Vj_ZKek)
+* [Community FYI: There shall be riots if there is no flush DLC](../../../transcriptions/yt-GK8dWbQF9lE.md) [https://www.youtube.com/watch?v=GK8dWbQF9lE](https://www.youtube.com/watch?v=GK8dWbQF9lE)
+* [Community FYI: Will pay $69 for Toilet DLC](../../../transcriptions/yt-dUp_ljCmhs0.md) [https://www.youtube.com/watch?v=dUp_ljCmhs0](https://www.youtube.com/watch?v=dUp_ljCmhs0)
+* [Community FYI: Toilet DLC can't be free](../../../transcriptions/yt-ytgi0IDEQYo.md) [https://www.youtube.com/watch?v=ytgi0IDEQYo](https://www.youtube.com/watch?v=ytgi0IDEQYo)
+* Q&A: Does the Toilet DLC feed into AWESOME Sink? [https://www.youtube.com/watch?v=Ka4Y6908xq0](https://www.youtube.com/watch?v=Ka4Y6908xq0)
+* [Q&A: Will DLCs have microtransactions per flush?](../../../transcriptions/yt-25Uqa4KOKqc.md) [https://www.youtube.com/watch?v=25Uqa4KOKqc](https://www.youtube.com/watch?v=25Uqa4KOKqc)
 * [Snutt Talk: How the game starts](../../../transcriptions/yt-onchLhZOONY.md) [https://www.youtube.com/watch?v=onchLhZOONY](https://www.youtube.com/watch?v=onchLhZOONY)
 * [Q&A: Toilet Paper DLC?](../../../transcriptions/yt-BEv9D4YpBJk.md) [https://www.youtube.com/watch?v=BEv9D4YpBJk](https://www.youtube.com/watch?v=BEv9D4YpBJk)
 * [Snutt & Jace Talk: Mystery surprise in Jace's factory HUB](../../../transcriptions/yt-_F3OkVu4LnQ.md) [https://www.youtube.com/watch?v=_F3OkVu4LnQ](https://www.youtube.com/watch?v=_F3OkVu4LnQ)
@@ -26,7 +33,9 @@ date: Last Modified
 ## May 4th, 2021 Livestream
 * [Snutt Talk: QA Site feature request - Days without incident](../../../transcriptions/yt-9Dx-cNdtNGA.md) [https://www.youtube.com/watch?v=9Dx-cNdtNGA](https://www.youtube.com/watch?v=9Dx-cNdtNGA)
 * [Q&A: EA game reward, Jace & Snutt poster in the HUB?](../../../transcriptions/yt-sSUNc_iHBWc.md) [https://www.youtube.com/watch?v=sSUNc_iHBWc](https://www.youtube.com/watch?v=sSUNc_iHBWc)
+* [Q&A: Toilet flush?](../../../transcriptions/yt-b06s0rzssTc.md) [https://www.youtube.com/watch?v=b06s0rzssTc](https://www.youtube.com/watch?v=b06s0rzssTc)
 * [Q&A: Can we use beds to sleep overnight?](../../../transcriptions/yt-84Mwit3dmQk.md) [https://www.youtube.com/watch?v=84Mwit3dmQk](https://www.youtube.com/watch?v=84Mwit3dmQk)
+* [Q&A: Toilet DLC, when?](../../../transcriptions/yt-qgNE5bu73j0.md) [https://www.youtube.com/watch?v=qgNE5bu73j0](https://www.youtube.com/watch?v=qgNE5bu73j0)
 * [Q&A: Is that why you can't ride the Drones?](../../../transcriptions/yt-38OwCUgGOjs.md) [https://www.youtube.com/watch?v=38OwCUgGOjs](https://www.youtube.com/watch?v=38OwCUgGOjs)
 
 ## April 27th, 2021 Livestream
@@ -52,16 +61,24 @@ date: Last Modified
 * [Q&A: Can we sleep through nights?](../../../transcriptions/yt-uskbxtN069Q.md) [https://www.youtube.com/watch?v=uskbxtN069Q](https://www.youtube.com/watch?v=uskbxtN069Q)
 
 ## February 9th, 2021 Livestream
+* [Q&A: $1 Toilet DLC?](../../../transcriptions/yt-mBpIB3ojMC8.md) [https://www.youtube.com/watch?v=mBpIB3ojMC8](https://www.youtube.com/watch?v=mBpIB3ojMC8)
 * [Q&A: When is Toilet update coming?](../../../transcriptions/yt-b7ZVKjoH7CQ.md) [https://www.youtube.com/watch?v=b7ZVKjoH7CQ](https://www.youtube.com/watch?v=b7ZVKjoH7CQ)
 
 ## February 2nd, 2021 Livestream
+* [Q&A: Will the Toilet flush?](../../../transcriptions/yt-ydJvaDmoy0U.md) [https://www.youtube.com/watch?v=ydJvaDmoy0U](https://www.youtube.com/watch?v=ydJvaDmoy0U)
 * [Snutt & Jace Talk: Turning the toilet into a shrine to us](../../../transcriptions/yt-JSE233L0yRA.md) [https://www.youtube.com/watch?v=JSE233L0yRA](https://www.youtube.com/watch?v=JSE233L0yRA)
 
 ## January 26th, 2021 Livestream
+* [Q&A: When will we get the toilet DLC?](../../../transcriptions/yt-AeWfPCZQZBQ.md) [https://www.youtube.com/watch?v=AeWfPCZQZBQ](https://www.youtube.com/watch?v=AeWfPCZQZBQ)
+* [Q&A: Will DLC be paid or will it be free updates?](../../../transcriptions/yt-RpmitKGrznw.md) [https://www.youtube.com/watch?v=RpmitKGrznw](https://www.youtube.com/watch?v=RpmitKGrznw)
+* [Q&A: Please, Toilet DLC before Official DLC?](../../../transcriptions/yt-5sqgxrPlcUI.md) [https://www.youtube.com/watch?v=5sqgxrPlcUI](https://www.youtube.com/watch?v=5sqgxrPlcUI)
 * [Q&A: Ability to sleep coming any time?](../../../transcriptions/yt-kDwywg_UJoc.md) [https://www.youtube.com/watch?v=kDwywg_UJoc](https://www.youtube.com/watch?v=kDwywg_UJoc)
 
 ## January 19th, 2021 Livestream
 * [Q&A: Will there be ways to see your total production per minute?](../../../transcriptions/yt-tHzH3dkTZ4s.md) [https://www.youtube.com/watch?v=tHzH3dkTZ4s](https://www.youtube.com/watch?v=tHzH3dkTZ4s)
+
+## January 12th, 2021 Livestream
+* [Q&A: The game is not done until I can flush the toilet?](../../../transcriptions/yt-64xmTN-rhbs.md) [https://www.youtube.com/watch?v=64xmTN-rhbs](https://www.youtube.com/watch?v=64xmTN-rhbs)
 
 ## December 17th, 2020 Q&A
 * [Q&A: Why don't my computer screens in my hub show me power consumption or total production?](../../../transcriptions/yt--JXPsTlJIiI,808.0739333333333,844.2767666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845)
@@ -82,6 +99,7 @@ date: Last Modified
 * [Trolling: Flushing Toilet paid DLC](../../../transcriptions/yt-7HtEV_DVbgw.md) [https://www.youtube.com/watch?v=7HtEV_DVbgw](https://www.youtube.com/watch?v=7HtEV_DVbgw)
 
 ## November 10th, 2020 Livestream
+* [Q&A: When does the Toilet Paper DLC come out?](../../../transcriptions/yt-8S1NK72uyLE.md) [https://www.youtube.com/watch?v=8S1NK72uyLE](https://www.youtube.com/watch?v=8S1NK72uyLE)
 * [Q&A: When are the next stages in the HUB?](../../../transcriptions/yt-m4ur5WEWkRY.md) [https://www.youtube.com/watch?v=m4ur5WEWkRY](https://www.youtube.com/watch?v=m4ur5WEWkRY)
 * [Q&A: Why have two beds and loo but can't use?](../../../transcriptions/yt-9sP0hOMzQ40.md) [https://www.youtube.com/watch?v=9sP0hOMzQ40](https://www.youtube.com/watch?v=9sP0hOMzQ40)
 * [Q&A: Any plans on in-game Jukebox?](../../../transcriptions/yt-dbyTU3Wdpog.md) [https://www.youtube.com/watch?v=dbyTU3Wdpog](https://www.youtube.com/watch?v=dbyTU3Wdpog)
@@ -104,11 +122,19 @@ date: Last Modified
 ## October 1st, 2020 Q&A
 * [Q&A: Will there be a feature to allow multiple bases for competitive multiplayer?](../../../transcriptions/yt-rATcozDE25c,52.48576666666667,86.3863.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=52&end=87](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=52&end=87)
 
+## September 22nd, 2020 Livestream
+* [Q&A: Where is the Toilet DLC?](../../../transcriptions/yt-unZciwmFlwA.md) [https://www.youtube.com/watch?v=unZciwmFlwA](https://www.youtube.com/watch?v=unZciwmFlwA)
+
 ## September 15th, 2020 Livestream
 * [Q&A: Can we have a natural healing area in the Hub?](../../../transcriptions/yt-yhi19PhUzkE.md) [https://www.youtube.com/watch?v=yhi19PhUzkE](https://www.youtube.com/watch?v=yhi19PhUzkE)
+* [Q&A: FICSIT Toilet soon?](../../../transcriptions/yt-clJjkvA5whw.md) [https://www.youtube.com/watch?v=clJjkvA5whw](https://www.youtube.com/watch?v=clJjkvA5whw)
 
 ## September 8th, 2020 Livestream
+* [Q&A: When will the Toilet be operative?](../../../transcriptions/yt-zoVojtGZw9A.md) [https://www.youtube.com/watch?v=zoVojtGZw9A](https://www.youtube.com/watch?v=zoVojtGZw9A)
 * [Q&A: Secondary Hub/Spawn Point ?](../../../transcriptions/yt-MjQNNzVfZTY.md) [https://www.youtube.com/watch?v=MjQNNzVfZTY](https://www.youtube.com/watch?v=MjQNNzVfZTY)
+
+## September 1st, 2020 Livestream
+* [Q&A: Flushable Toilet DLC?](../../../transcriptions/yt-Z7KaqsyT7_k.md) [https://www.youtube.com/watch?v=Z7KaqsyT7_k](https://www.youtube.com/watch?v=Z7KaqsyT7_k)
 
 ## August 25th, 2020 Livestream
 * [Q&A: Can we get a drink on the fridge in the base?](../../../transcriptions/yt-Lk34vKl94hI.md) [https://www.youtube.com/watch?v=Lk34vKl94hI](https://www.youtube.com/watch?v=Lk34vKl94hI)
@@ -132,6 +158,7 @@ date: Last Modified
 
 ## May 19th, 2020 Livestream
 * [Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing](../../../transcriptions/yt-HU5CtNK3rds.md) [https://www.youtube.com/watch?v=HU5CtNK3rds](https://www.youtube.com/watch?v=HU5CtNK3rds)
+* [Q&A: Tier 14 Toilet?](../../../transcriptions/yt-d8RBkY8oP1Q.md) [https://www.youtube.com/watch?v=d8RBkY8oP1Q](https://www.youtube.com/watch?v=d8RBkY8oP1Q)
 
 ## December 19th, 2019 Livestream
 * [Q&A: When is Coffee going to be introduced to the game?](../../../transcriptions/yt-o3Nr13tH7dY.md) [https://www.youtube.com/watch?v=o3Nr13tH7dY](https://www.youtube.com/watch?v=o3Nr13tH7dY)

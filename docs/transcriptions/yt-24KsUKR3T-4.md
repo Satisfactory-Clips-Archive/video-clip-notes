@@ -4,17 +4,17 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "features/buildings/the-hub"
-    - "features/possible-features/dlc"
+    - "features/possible-features/dlc/flushable-toilet-dlc"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When are we getting Toilet Flush DLC?
 https://www.youtube.com/watch?v=24KsUKR3T-4
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Toilet flush?](./yt-b06s0rzssTc.md) [https://www.youtube.com/watch?v=b06s0rzssTc](https://www.youtube.com/watch?v=b06s0rzssTc)
+This question was possibly duplicated with a more recent answer: [June 8th, 2020 Livestream Q&A: Flushable Toilet?](./yt-FlaP38G7O5U.md) [https://www.youtube.com/watch?v=FlaP38G7O5U](https://www.youtube.com/watch?v=FlaP38G7O5U)
 
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
-* [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
+* [Features > Possible Features > DLC > Flushable Toilet DLC](../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 
 ### Transcript
 

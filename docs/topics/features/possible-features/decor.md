@@ -39,6 +39,7 @@ date: Last Modified
 ## February 2nd, 2021 Livestream
 * [Q&A: Will you do YouTuber statues?](../../../transcriptions/yt-394eLDR3mFU.md) [https://www.youtube.com/watch?v=394eLDR3mFU](https://www.youtube.com/watch?v=394eLDR3mFU)
 * [Q&A: Snutt & Jace poster in Satisfactory when?](../../../transcriptions/yt-X4heczNNOO8.md) [https://www.youtube.com/watch?v=X4heczNNOO8](https://www.youtube.com/watch?v=X4heczNNOO8)
+* [Snutt & Jace Talk: Turning the toilet into a shrine to us](../../../transcriptions/yt-JSE233L0yRA.md) [https://www.youtube.com/watch?v=JSE233L0yRA](https://www.youtube.com/watch?v=JSE233L0yRA)
 
 ## January 26th, 2021 Livestream
 * [Q&A: Any chance for decorative stuff?](../../../transcriptions/yt-2JUtqNFl5_8.md) [https://www.youtube.com/watch?v=2JUtqNFl5_8](https://www.youtube.com/watch?v=2JUtqNFl5_8)
@@ -48,6 +49,7 @@ date: Last Modified
 
 ## November 24th, 2020 Livestream
 * [Q&A: Will there be more options for aesthetics regarding things like house building?](../../../transcriptions/yt-qQJTAvtzB-8.md) [https://www.youtube.com/watch?v=qQJTAvtzB-8](https://www.youtube.com/watch?v=qQJTAvtzB-8)
+* [Q&A: Toilet Plunger for The HUB when?](../../../transcriptions/yt-1-xFJyIBosU.md) [https://www.youtube.com/watch?v=1-xFJyIBosU](https://www.youtube.com/watch?v=1-xFJyIBosU)
 
 ## August 25th, 2020 Livestream
 * [Snutt Talk: Snutt discovers the fridge](../../../transcriptions/yt-AwfR7ExmwJ0.md) [https://www.youtube.com/watch?v=AwfR7ExmwJ0](https://www.youtube.com/watch?v=AwfR7ExmwJ0)
