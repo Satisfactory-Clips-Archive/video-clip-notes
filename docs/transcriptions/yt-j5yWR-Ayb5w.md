@@ -1,12 +1,12 @@
 ---
-title: "November 10th, 2020 Livestream Q&A: Do we have support for Ultra-wide Monitors?"
+title: "November 10th, 2020 Livestream Q&A: Do we have support for Ultrawide Monitors?"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "technology/graphics/ultrawide-monitors"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
-## Q&A: Do we have support for Ultra-wide Monitors?
+## Q&A: Do we have support for Ultrawide Monitors?
 https://www.youtube.com/watch?v=j5yWR-Ayb5w
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=j5yWR-Ayb5w
 
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > Graphics > Ultrawide Monitors](../topics/technology/graphics/ultrawide-monitors.md)
 
 ### Transcript
 

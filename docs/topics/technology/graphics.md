@@ -5,6 +5,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Graphics
 * [DLSS](../../topics/technology/graphics/dlss.md)
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
+* [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
 ## June 15th, 2021 Livestream
 * Q&A: Can we expect better draw distance in the future? [https://www.youtube.com/watch?v=ewLgyoLFAtE](https://www.youtube.com/watch?v=ewLgyoLFAtE)
@@ -106,7 +107,6 @@ date: Last Modified
 
 ## November 10th, 2020 Livestream
 * [Q&A: Is it true that building vertically equals worse performance than building horizontally?](../../transcriptions/yt-BF0MYqw_SpM.md) [https://www.youtube.com/watch?v=BF0MYqw_SpM](https://www.youtube.com/watch?v=BF0MYqw_SpM)
-* [Q&A: Do we have support for Ultra-wide Monitors?](../../transcriptions/yt-j5yWR-Ayb5w.md) [https://www.youtube.com/watch?v=j5yWR-Ayb5w](https://www.youtube.com/watch?v=j5yWR-Ayb5w)
 * [Jace Talk: Encased Conveyor Belts](../../transcriptions/yt-xT-2uWvm3iw.md) [https://www.youtube.com/watch?v=xT-2uWvm3iw](https://www.youtube.com/watch?v=xT-2uWvm3iw)
 * [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](../../transcriptions/yt-IFxnvuYEVtk.md) [https://www.youtube.com/watch?v=IFxnvuYEVtk](https://www.youtube.com/watch?v=IFxnvuYEVtk)
 
@@ -157,7 +157,6 @@ date: Last Modified
 ## September 22nd, 2020 Livestream
 * [Q&A: Engine Update - allow more objects to be built without fps drops?](../../transcriptions/yt-sADDzCQqkmE.md) [https://www.youtube.com/watch?v=sADDzCQqkmE](https://www.youtube.com/watch?v=sADDzCQqkmE)
 * [Q&A: Would implementing covered belts reduce the number of objects in the world?](../../transcriptions/yt-2R4MfLt_oMw.md) [https://www.youtube.com/watch?v=2R4MfLt_oMw](https://www.youtube.com/watch?v=2R4MfLt_oMw)
-* [Q&A: Ultrawide Monitors?](../../transcriptions/yt-j9oy_AyPXnU.md) [https://www.youtube.com/watch?v=j9oy_AyPXnU](https://www.youtube.com/watch?v=j9oy_AyPXnU)
 * [Q&A: Can we get more cat variety?](../../transcriptions/yt-v_9SO9SU3B0.md) [https://www.youtube.com/watch?v=v_9SO9SU3B0](https://www.youtube.com/watch?v=v_9SO9SU3B0)
 * [Q&A: Is it recommended to use all cores in Steam?](../../transcriptions/yt-vOdftO3hYsI.md) [https://www.youtube.com/watch?v=vOdftO3hYsI](https://www.youtube.com/watch?v=vOdftO3hYsI)
 * [Q&A: Does destroying trees & rocks make the game slower like making buildings?](../../transcriptions/yt-vOJIZQfzcUk.md) [https://www.youtube.com/watch?v=vOJIZQfzcUk](https://www.youtube.com/watch?v=vOJIZQfzcUk)

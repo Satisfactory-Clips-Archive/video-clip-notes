@@ -441,6 +441,7 @@ date: Last Modified
 ## [Graphics](./topics/technology/graphics.md)
 * [DLSS](./topics/technology/graphics/dlss.md)
 * [Ray Tracing](./topics/technology/graphics/ray-tracing.md)
+* [Ultrawide Monitors](./topics/technology/graphics/ultrawide-monitors.md)
 ---
 
 ## [Unreal Engine](./topics/technology/unreal-engine.md)
