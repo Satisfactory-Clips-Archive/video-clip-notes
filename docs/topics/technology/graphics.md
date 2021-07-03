@@ -83,7 +83,6 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Is there any plan to add the r.screenpercentage setting for folks on 4k or high-res screens?](../../transcriptions/yt-p3zdRLbGwsk.md) [https://www.youtube.com/watch?v=p3zdRLbGwsk](https://www.youtube.com/watch?v=p3zdRLbGwsk)
 * [Snutt Talk: We're not using a linear colour space](../../transcriptions/yt-jigwsKo5YKY.md) [https://www.youtube.com/watch?v=jigwsKo5YKY](https://www.youtube.com/watch?v=jigwsKo5YKY)
-* [Q&A: Any Vulkan support?](../../transcriptions/yt-9_yf4tON8MM.md) [https://www.youtube.com/watch?v=9_yf4tON8MM](https://www.youtube.com/watch?v=9_yf4tON8MM)
 
 ## December 8th, 2020 Livestream
 * [Q&A: Look's like the game is performing better - what went wrong?](../../transcriptions/yt-x7dc9P7vEGQ.md) [https://www.youtube.com/watch?v=x7dc9P7vEGQ](https://www.youtube.com/watch?v=x7dc9P7vEGQ)

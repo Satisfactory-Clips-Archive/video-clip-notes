@@ -6,6 +6,7 @@ topics:
     - "coffee-stainers/snutt"
     - "technology"
     - "technology/directx"
+    - "technology/vulkan"
 ---
 # [October 9th, 2020 Livestream](../2020-10-09.md)
 ## Snutt & Dylan Talk: Vulkan, Metal, OpenGL, and DirectX
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=l26WNbPPzzI
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Technology](../topics/technology.md)
 * [Technology > DirectX](../topics/technology/directx.md)
+* [Technology > Vulkan](../topics/technology/vulkan.md)
 
 ### Transcript
 
