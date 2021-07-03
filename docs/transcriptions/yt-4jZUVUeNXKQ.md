@@ -5,7 +5,6 @@ layout: transcript
 topics:
     - "features/planned-features/build-modes"
     - "satisfactory-updates/pending/satisfactory-update-5"
-    - "satisfactory-updates/pending/world-update"
     - "satisfactory-updates/state-of-dev"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
@@ -15,7 +14,6 @@ https://www.youtube.com/watch?v=4jZUVUeNXKQ
 ### Topics
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

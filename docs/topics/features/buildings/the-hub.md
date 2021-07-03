@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## June 29th, 2021 Livestream
+* [Q&A: Will there be a proper use for the toilet in The HUB one day?](../../../transcriptions/yt-MW1lkjm7g3U.md) [https://www.youtube.com/watch?v=MW1lkjm7g3U](https://www.youtube.com/watch?v=MW1lkjm7g3U)
+* Q&A: Can you put "Snake" in The HUB? [https://www.youtube.com/watch?v=I92-EFlUd4U](https://www.youtube.com/watch?v=I92-EFlUd4U)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: How happy is Torsten with the current interior of The HUB?](../../../transcriptions/yt-PddJ9_WrRsM.md) [https://www.youtube.com/watch?v=PddJ9_WrRsM](https://www.youtube.com/watch?v=PddJ9_WrRsM)
 

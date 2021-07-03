@@ -31,6 +31,10 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Have you read my latest crash report?](../transcriptions/yt-UjLAYqr2L6g.md) [https://www.youtube.com/watch?v=UjLAYqr2L6g](https://www.youtube.com/watch?v=UjLAYqr2L6g)
+* [Q&A: Will Update 5 break Mods?](../transcriptions/yt-4OudGoLGTuk.md) [https://www.youtube.com/watch?v=4OudGoLGTuk](https://www.youtube.com/watch?v=4OudGoLGTuk)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: Has Torsten seen the models that the Modders have made, and have they inspired Torsten?](../transcriptions/yt-GGXuWbV11S4.md) [https://www.youtube.com/watch?v=GGXuWbV11S4](https://www.youtube.com/watch?v=GGXuWbV11S4)
 

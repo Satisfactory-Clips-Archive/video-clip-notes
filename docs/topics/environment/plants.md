@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## June 29th, 2021 Livestream
+* [Q&A: Is the foliage system getting reworked?](../../transcriptions/yt-ksexAXZNcGg.md) [https://www.youtube.com/watch?v=ksexAXZNcGg](https://www.youtube.com/watch?v=ksexAXZNcGg)
+* [Q&A: Can you make flower petals renewable?](../../transcriptions/yt-kvFxIEqyL8E.md) [https://www.youtube.com/watch?v=kvFxIEqyL8E](https://www.youtube.com/watch?v=kvFxIEqyL8E)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Any thoughts of respawning flora?](../../transcriptions/yt-EtJ0aoI_fBs.md) [https://www.youtube.com/watch?v=EtJ0aoI_fBs](https://www.youtube.com/watch?v=EtJ0aoI_fBs)
 * [Snutt & Jace Talk: Bacon Agaric](../../transcriptions/yt-ohaQD5VeUxU.md) [https://www.youtube.com/watch?v=ohaQD5VeUxU](https://www.youtube.com/watch?v=ohaQD5VeUxU)

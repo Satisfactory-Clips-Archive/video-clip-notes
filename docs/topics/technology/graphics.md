@@ -8,6 +8,12 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## June 29th, 2021 Livestream
+* [Community FYI: Alt-Tabbing the game causes my Nvidia driver to crash](../../transcriptions/yt-Zn4vb2QRykU.md) [https://www.youtube.com/watch?v=Zn4vb2QRykU](https://www.youtube.com/watch?v=Zn4vb2QRykU)
+* [Q&A: In an infinite building game how do you quantify an acceptable performance on standard specs?](../../transcriptions/yt-Ib023Qb25Pw.md) [https://www.youtube.com/watch?v=Ib023Qb25Pw](https://www.youtube.com/watch?v=Ib023Qb25Pw)
+* [Q&A: FSR?](../../transcriptions/yt-eWzUtouLQrI.md) [https://www.youtube.com/watch?v=eWzUtouLQrI](https://www.youtube.com/watch?v=eWzUtouLQrI)
+* [Q&A: Toggle for Fog?](../../transcriptions/yt-5qjtJ3Qwbjo.md) [https://www.youtube.com/watch?v=5qjtJ3Qwbjo](https://www.youtube.com/watch?v=5qjtJ3Qwbjo)
+
 ## June 15th, 2021 Livestream
 * Q&A: Can we expect better draw distance in the future? [https://www.youtube.com/watch?v=ewLgyoLFAtE](https://www.youtube.com/watch?v=ewLgyoLFAtE)
 

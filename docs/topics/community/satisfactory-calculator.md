@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Satisfactory Calculator
 
+## June 29th, 2021 Livestream
+* [Q&A: Are you thinking of implementing a system like Satisfactory Calculator?](../../transcriptions/yt-wHbulAfnOyc.md) [https://www.youtube.com/watch?v=wHbulAfnOyc](https://www.youtube.com/watch?v=wHbulAfnOyc)
+
 ## April 6th, 2021 Livestream
 * Q&A: What are your thoughts on an in-game project planner, similar to Satisfactory Calculator? [https://www.youtube.com/watch?v=MVijm9JAoaw](https://www.youtube.com/watch?v=MVijm9JAoaw)
 

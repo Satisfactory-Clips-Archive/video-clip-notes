@@ -8,7 +8,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Achievements?
 https://www.youtube.com/watch?v=G8K0Bjs8mNo
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Will achievements be added?](./yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Please add Achievements & badges on Steam](./yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
 
 
 ### Topics

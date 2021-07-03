@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?
 https://www.youtube.com/watch?v=5Z5pyzNiaVY
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Turbofuel for Jet Packs](./yt-5Ij3wWqZb8Q.md) [https://www.youtube.com/watch?v=5Ij3wWqZb8Q](https://www.youtube.com/watch?v=5Ij3wWqZb8Q)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Turbofuel for Jetpacks?](./yt-PBccbfC_x2E.md) [https://www.youtube.com/watch?v=PBccbfC_x2E](https://www.youtube.com/watch?v=PBccbfC_x2E)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will Blueprints be a thing at some point?
 https://www.youtube.com/watch?v=Ywq4zdWMiq8
-This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: Will we see something like Blueprints in Update 5?](./yt-A3GSOZWzGqs.md) [https://www.youtube.com/watch?v=A3GSOZWzGqs](https://www.youtube.com/watch?v=A3GSOZWzGqs)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Blueprints, for repetitive factory setups?](./yt-NYHU62S6czs.md) [https://www.youtube.com/watch?v=NYHU62S6czs](https://www.youtube.com/watch?v=NYHU62S6czs)
 
 
 ### Topics

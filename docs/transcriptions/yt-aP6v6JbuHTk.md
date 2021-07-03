@@ -8,7 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Any ETA on Launch?
 https://www.youtube.com/watch?v=aP6v6JbuHTk
-This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: What about 1.0? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Do you have an approximate timeline for when 1.0 will be ready?](./yt-JV12w3UZIHE.md) [https://www.youtube.com/watch?v=JV12w3UZIHE](https://www.youtube.com/watch?v=JV12w3UZIHE)
 
 
 ### Topics

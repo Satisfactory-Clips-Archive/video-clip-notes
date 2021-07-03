@@ -8,7 +8,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: How about personal elevators?
 https://www.youtube.com/watch?v=f3TtRJWOI2Q
-This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Any plans for an Elevator for those of us that build mega factories?](./yt-snzgCf54CIQ.md) [https://www.youtube.com/watch?v=snzgCf54CIQ](https://www.youtube.com/watch?v=snzgCf54CIQ)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Elevators, when?](./yt-fRuFxL5hv-I.md) [https://www.youtube.com/watch?v=fRuFxL5hv-I](https://www.youtube.com/watch?v=fRuFxL5hv-I)
 
 
 ### Topics

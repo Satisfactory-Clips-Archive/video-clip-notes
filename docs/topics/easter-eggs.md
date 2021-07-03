@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## June 29th, 2021 Livestream
+* [Q&A: Can we get a Goat Simulator easter egg in the game?](../transcriptions/yt-hSZdK3Pg9AE.md) [https://www.youtube.com/watch?v=hSZdK3Pg9AE](https://www.youtube.com/watch?v=hSZdK3Pg9AE)
+
 ## June 15th, 2021 Livestream
 * [Snutt & Jace Talk: Goat Simulator, Sanctum, and Rocket League](../transcriptions/yt-5Tu2HsXRQNg.md) [https://www.youtube.com/watch?v=5Tu2HsXRQNg](https://www.youtube.com/watch?v=5Tu2HsXRQNg)
 

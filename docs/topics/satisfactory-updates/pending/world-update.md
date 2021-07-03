@@ -11,7 +11,6 @@ date: Last Modified
 * Jace Talk: World Update [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435)
 
 ## June 15th, 2021 Livestream
-* [State of Dev: Update 5](../../../transcriptions/yt-4jZUVUeNXKQ.md) [https://www.youtube.com/watch?v=4jZUVUeNXKQ](https://www.youtube.com/watch?v=4jZUVUeNXKQ)
 * [Q&A: Will we get notified in advance of Map changes so we can repair our builds?](../../../transcriptions/yt-QHQ60VKYtS4.md) [https://www.youtube.com/watch?v=QHQ60VKYtS4](https://www.youtube.com/watch?v=QHQ60VKYtS4)
 
 ## June 8th, 2021 Livestream

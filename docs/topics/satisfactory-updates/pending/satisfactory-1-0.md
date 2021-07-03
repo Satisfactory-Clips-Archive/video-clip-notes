@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## June 29th, 2021 Livestream
+* [Q&A: Do you have an approximate timeline for when 1.0 will be ready?](../../../transcriptions/yt-JV12w3UZIHE.md) [https://www.youtube.com/watch?v=JV12w3UZIHE](https://www.youtube.com/watch?v=JV12w3UZIHE)
+* [Trolling: We're going to release 1.0 at 700 votes](../../../transcriptions/yt-f_ce5tbndOw.md) [https://www.youtube.com/watch?v=f_ce5tbndOw](https://www.youtube.com/watch?v=f_ce5tbndOw)
+* [Q&A: Will 1.0 be out before the world ends?](../../../transcriptions/yt-NBcrfP9kxG8.md) [https://www.youtube.com/watch?v=NBcrfP9kxG8](https://www.youtube.com/watch?v=NBcrfP9kxG8)
+* [Q&A: Will you release in 2022 or 2023?](../../../transcriptions/yt-1FZ1xfDjOww.md) [https://www.youtube.com/watch?v=1FZ1xfDjOww](https://www.youtube.com/watch?v=1FZ1xfDjOww)
+* [Q&A: Are the team thinking to release 1.0 in 2022?](../../../transcriptions/yt-EfqxH78tmFc.md) [https://www.youtube.com/watch?v=EfqxH78tmFc](https://www.youtube.com/watch?v=EfqxH78tmFc)
+* [Community FYI: Just as long as it comes with Dedicated Servers, I don't care how long it takes](../../../transcriptions/yt-aNjrI1SZYRY.md) [https://www.youtube.com/watch?v=aNjrI1SZYRY](https://www.youtube.com/watch?v=aNjrI1SZYRY)
+* [Q&A: What do you guys hope to see in end-game?](../../../transcriptions/yt-z6UlNwXqRCg.md) [https://www.youtube.com/watch?v=z6UlNwXqRCg](https://www.youtube.com/watch?v=z6UlNwXqRCg)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: After the game fully releases will there be any Updates that add game-altering factory design?](../../../transcriptions/yt-oVm-OJKlrZM.md) [https://www.youtube.com/watch?v=oVm-OJKlrZM](https://www.youtube.com/watch?v=oVm-OJKlrZM)
 

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Mk.2 Buildings
 
+## June 29th, 2021 Livestream
+* [Snutt & Jace Talk: Mk.2 Machines](../../../transcriptions/yt-YyKF72R1MQA.md) [https://www.youtube.com/watch?v=YyKF72R1MQA](https://www.youtube.com/watch?v=YyKF72R1MQA)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Mk.2 Buildings?](../../../transcriptions/yt-1mj3Rql5vGQ.md) [https://www.youtube.com/watch?v=1mj3Rql5vGQ](https://www.youtube.com/watch?v=1mj3Rql5vGQ)
 

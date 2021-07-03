@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## June 29th, 2021 Livestream
+* [Q&A: Will you add more decoration options so we don't have to rely on Mods so much?](../../../transcriptions/yt-453B0wDDHFA.md) [https://www.youtube.com/watch?v=453B0wDDHFA](https://www.youtube.com/watch?v=453B0wDDHFA)
+* [Q&A: In-game whiteboard?](../../../transcriptions/yt-Q7VGYiAagwA.md) [https://www.youtube.com/watch?v=Q7VGYiAagwA](https://www.youtube.com/watch?v=Q7VGYiAagwA)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Will you be adding ramps, walls, maybe a chair?](../../../transcriptions/yt-V20SFRk4jpw.md) [https://www.youtube.com/watch?v=V20SFRk4jpw](https://www.youtube.com/watch?v=V20SFRk4jpw)
 

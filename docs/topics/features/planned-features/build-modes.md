@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Build Modes
 
+## June 29th, 2021 Livestream
+* [Q&A: Can you give information about new Build Modes coming out?](../../../transcriptions/yt-MKrIZzZe0aQ.md) [https://www.youtube.com/watch?v=MKrIZzZe0aQ](https://www.youtube.com/watch?v=MKrIZzZe0aQ)
+
 ## June 18th, 2021 Livestream
 * Jace Talk: Build Modes in Update 5 [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201)
 

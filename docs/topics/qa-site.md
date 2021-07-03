@@ -4,6 +4,12 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## June 29th, 2021 Livestream
+* [Community FYI: Golf has more than 600 upvotes](../transcriptions/yt-fTiVON_tW_Y.md) [https://www.youtube.com/watch?v=fTiVON_tW_Y](https://www.youtube.com/watch?v=fTiVON_tW_Y)
+* [Trolling: Dedicated Servers please](../transcriptions/yt-12HEwpNJ8zs.md) [https://www.youtube.com/watch?v=12HEwpNJ8zs](https://www.youtube.com/watch?v=12HEwpNJ8zs)
+* [Trolling: We're going to release 1.0 at 700 votes](../transcriptions/yt-f_ce5tbndOw.md) [https://www.youtube.com/watch?v=f_ce5tbndOw](https://www.youtube.com/watch?v=f_ce5tbndOw)
+* [Community FYI: I just put in a Merch request on the QA Site for pins](../transcriptions/yt-EUcbnLVnrJI.md) [https://www.youtube.com/watch?v=EUcbnLVnrJI](https://www.youtube.com/watch?v=EUcbnLVnrJI)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: Make the Flying Manta fly higher please?](../transcriptions/yt-544C8V8neKk.md) [https://www.youtube.com/watch?v=544C8V8neKk](https://www.youtube.com/watch?v=544C8V8neKk)
 * [Q&A: Will the belts from the Drone hub change so they're aligned to the rest?](../transcriptions/yt-0iBQzOBv4aI.md) [https://www.youtube.com/watch?v=0iBQzOBv4aI](https://www.youtube.com/watch?v=0iBQzOBv4aI)

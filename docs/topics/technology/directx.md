@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > DirectX
 
+## June 29th, 2021 Livestream
+* [Q&A: DirectX 12 support?](../../transcriptions/yt-ZZKygLGMC7w.md) [https://www.youtube.com/watch?v=ZZKygLGMC7w](https://www.youtube.com/watch?v=ZZKygLGMC7w)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Engine Update will make the game run better?](../../transcriptions/yt-rQlh3jeLpO4.md) [https://www.youtube.com/watch?v=rQlh3jeLpO4](https://www.youtube.com/watch?v=rQlh3jeLpO4)
 

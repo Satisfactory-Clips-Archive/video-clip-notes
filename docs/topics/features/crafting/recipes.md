@@ -5,6 +5,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Are we going to get changes to the basic material Recipes?](../../../transcriptions/yt-utp7TQEksi0.md) [https://www.youtube.com/watch?v=utp7TQEksi0](https://www.youtube.com/watch?v=utp7TQEksi0)
+* [Q&A: How do you figure out the Recipes?](../../../transcriptions/yt-I6mpLei5WZk.md) [https://www.youtube.com/watch?v=I6mpLei5WZk](https://www.youtube.com/watch?v=I6mpLei5WZk)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Is there any plan to let Smelters auto-select which recipe based on what's fed into them?](../../../transcriptions/yt-pU8w7iFl3WM.md) [https://www.youtube.com/watch?v=pU8w7iFl3WM](https://www.youtube.com/watch?v=pU8w7iFl3WM)
 

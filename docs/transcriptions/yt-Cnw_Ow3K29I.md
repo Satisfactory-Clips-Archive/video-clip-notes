@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?
 https://www.youtube.com/watch?v=Cnw_Ow3K29I
-This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Will Dedicated Servers be able to run on Linux?](./yt-yyhNw1SsYx0.md) [https://www.youtube.com/watch?v=yyhNw1SsYx0](https://www.youtube.com/watch?v=yyhNw1SsYx0)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Any plans for supporting Dedicated Servers on Linux?](./yt-hJSXfLTVMHE.md) [https://www.youtube.com/watch?v=hJSXfLTVMHE](https://www.youtube.com/watch?v=hJSXfLTVMHE)
 
 
 ### Topics

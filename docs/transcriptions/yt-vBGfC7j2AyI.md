@@ -9,7 +9,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: How much S.A.M. Ore should we stock up on?
 https://www.youtube.com/watch?v=vBGfC7j2AyI
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Is S.A.M. Ore going to be used in the next Update?](./yt-pSqiS44lqIg.md) [https://www.youtube.com/watch?v=pSqiS44lqIg](https://www.youtube.com/watch?v=pSqiS44lqIg)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Do you have plans for S.A.M. Ore?](./yt-DiLr2o5ealA.md) [https://www.youtube.com/watch?v=DiLr2o5ealA](https://www.youtube.com/watch?v=DiLr2o5ealA)
 
 
 ### Topics

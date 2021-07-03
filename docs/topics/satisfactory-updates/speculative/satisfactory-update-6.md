@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## June 29th, 2021 Livestream
+* [Q&A: What are the odds of an Update 6?](../../../transcriptions/yt-SOQlMqZBglM.md) [https://www.youtube.com/watch?v=SOQlMqZBglM](https://www.youtube.com/watch?v=SOQlMqZBglM)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Any news about Update 6?](../../../transcriptions/yt-bIyYDcFuAhA.md) [https://www.youtube.com/watch?v=bIyYDcFuAhA](https://www.youtube.com/watch?v=bIyYDcFuAhA)
 

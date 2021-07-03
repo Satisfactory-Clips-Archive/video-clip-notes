@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Please add Achievements & badges on Steam](../../../transcriptions/yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Any plans for an elevator in the game?](../../../transcriptions/yt-3eu1Tgh96HY.md) [https://www.youtube.com/watch?v=3eu1Tgh96HY](https://www.youtube.com/watch?v=3eu1Tgh96HY)
 * [Q&A: Can you stand on the Space Elevator while it launches?](../../../transcriptions/yt-Lw9r_gSLLOE.md) [https://www.youtube.com/watch?v=Lw9r_gSLLOE](https://www.youtube.com/watch?v=Lw9r_gSLLOE)

@@ -7,6 +7,9 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Any thoughts on an expensive mode?](../../../transcriptions/yt-f05_-GJTYyg.md) [https://www.youtube.com/watch?v=f05_-GJTYyg](https://www.youtube.com/watch?v=f05_-GJTYyg)
+
 ## June 18th, 2021 Livestream
 * Jace Talk: Game Modes [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353)
 

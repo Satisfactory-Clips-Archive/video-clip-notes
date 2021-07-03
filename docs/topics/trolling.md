@@ -4,6 +4,19 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## June 29th, 2021 Livestream
+* [Community FYI: Golf has more than 600 upvotes](../transcriptions/yt-fTiVON_tW_Y.md) [https://www.youtube.com/watch?v=fTiVON_tW_Y](https://www.youtube.com/watch?v=fTiVON_tW_Y)
+* [Trolling: Dedicated Servers please](../transcriptions/yt-12HEwpNJ8zs.md) [https://www.youtube.com/watch?v=12HEwpNJ8zs](https://www.youtube.com/watch?v=12HEwpNJ8zs)
+* [Trolling: So no-one wants Dedicated Servers?](../transcriptions/yt-rur1X-JfHCk.md) [https://www.youtube.com/watch?v=rur1X-JfHCk](https://www.youtube.com/watch?v=rur1X-JfHCk)
+* [Trolling: We're going to release 1.0 at 700 votes](../transcriptions/yt-f_ce5tbndOw.md) [https://www.youtube.com/watch?v=f_ce5tbndOw](https://www.youtube.com/watch?v=f_ce5tbndOw)
+* [Q&A: Will 1.0 be out before the world ends?](../transcriptions/yt-NBcrfP9kxG8.md) [https://www.youtube.com/watch?v=NBcrfP9kxG8](https://www.youtube.com/watch?v=NBcrfP9kxG8)
+* [Q&A: Will you release in 2022 or 2023?](../transcriptions/yt-1FZ1xfDjOww.md) [https://www.youtube.com/watch?v=1FZ1xfDjOww](https://www.youtube.com/watch?v=1FZ1xfDjOww)
+* [Community FYI: Just as long as it comes with Dedicated Servers, I don't care how long it takes](../transcriptions/yt-aNjrI1SZYRY.md) [https://www.youtube.com/watch?v=aNjrI1SZYRY](https://www.youtube.com/watch?v=aNjrI1SZYRY)
+* [Q&A: Feature Creep party you say?](../transcriptions/yt-TZZ14bWUnZM.md) [https://www.youtube.com/watch?v=TZZ14bWUnZM](https://www.youtube.com/watch?v=TZZ14bWUnZM)
+* [Q&A: Do you recommend the game?](../transcriptions/yt-oMusY1HxVhA.md) [https://www.youtube.com/watch?v=oMusY1HxVhA](https://www.youtube.com/watch?v=oMusY1HxVhA)
+* [Q&A: What do you guys hope to see in end-game?](../transcriptions/yt-z6UlNwXqRCg.md) [https://www.youtube.com/watch?v=z6UlNwXqRCg](https://www.youtube.com/watch?v=z6UlNwXqRCg)
+* [Q&A: Do you live in a fog?](../transcriptions/yt-dSQu_22pC_w.md) [https://www.youtube.com/watch?v=dSQu_22pC_w](https://www.youtube.com/watch?v=dSQu_22pC_w)
+
 ## June 22nd, 2021 Livestream
 * [Community FYI: VR Confirmed](../transcriptions/yt-SNRBsvIqz-E.md) [https://www.youtube.com/watch?v=SNRBsvIqz-E](https://www.youtube.com/watch?v=SNRBsvIqz-E)
 

@@ -13,6 +13,11 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Equipment Hotkey, when?](../../transcriptions/yt-W56wGXyT_sA.md) [https://www.youtube.com/watch?v=W56wGXyT_sA](https://www.youtube.com/watch?v=W56wGXyT_sA)
+* [Q&A: When will we get ranged weapons in the game?](../../transcriptions/yt-MiBdM3dSRPQ.md) [https://www.youtube.com/watch?v=MiBdM3dSRPQ](https://www.youtube.com/watch?v=MiBdM3dSRPQ)
+* [Q&A: Can we get a suit powered by Fuel Rods & Nuclear Pasta?](../../transcriptions/yt-Os0322plJss.md) [https://www.youtube.com/watch?v=Os0322plJss](https://www.youtube.com/watch?v=Os0322plJss)
+
 ## June 22nd, 2021 Livestream
 * [Snutt & Jace & Torsten Talk: Concept Art - Zipline](../../transcriptions/yt-Bg2olZpAv_g.md) [https://www.youtube.com/watch?v=Bg2olZpAv_g](https://www.youtube.com/watch?v=Bg2olZpAv_g)
 * Q&A: What's the coolest Concept Art that Torsten has made that's been thrown out? [https://www.youtube.com/watch?v=kI5onSQdJLs](https://www.youtube.com/watch?v=kI5onSQdJLs)

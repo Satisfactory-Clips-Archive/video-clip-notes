@@ -9,6 +9,8 @@ topics:
 # [October 9th, 2020 Livestream](../2020-10-09.md)
 ## Q&A: What do you use to test performance gains?
 https://www.youtube.com/watch?v=YPWIkvRbeHI
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: In an infinite building game how do you quantify an acceptable performance on standard specs?](./yt-Ib023Qb25Pw.md) [https://www.youtube.com/watch?v=Ib023Qb25Pw](https://www.youtube.com/watch?v=Ib023Qb25Pw)
+
 
 ### Topics
 * [Coffee Stainers > Ben](../topics/coffee-stainers/ben.md)

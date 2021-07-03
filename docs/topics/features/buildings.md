@@ -25,6 +25,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Any thoughts about attaching Splitters directly to machines/Miners?](../../transcriptions/yt-jkMcXbJhFoQ.md) [https://www.youtube.com/watch?v=jkMcXbJhFoQ](https://www.youtube.com/watch?v=jkMcXbJhFoQ)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: How long does it take from start to end to make a Concept for a Building?](../../transcriptions/yt-BIThI1ygHrE.md) [https://www.youtube.com/watch?v=BIThI1ygHrE](https://www.youtube.com/watch?v=BIThI1ygHrE)
 * Q&A: How much does Torsten take colours into account since they can be changed by players? [https://www.youtube.com/watch?v=AOAJRBqkvp8](https://www.youtube.com/watch?v=AOAJRBqkvp8)

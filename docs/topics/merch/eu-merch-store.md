@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Merch](../../topics/merch.md) > EU Merch Store
 
+## June 29th, 2021 Livestream
+* [Q&A: Any news on EU store?](../../transcriptions/yt-VtM58J6-DDQ.md) [https://www.youtube.com/watch?v=VtM58J6-DDQ](https://www.youtube.com/watch?v=VtM58J6-DDQ)
+
 ## June 18th, 2021 Livestream
 * Jace Talk: Merch Updates & EU Store [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=492&end=544](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=492&end=544)
 

@@ -9,7 +9,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Will there be more creatures?
 https://www.youtube.com/watch?v=Yzd466gO44M
-This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Will there be Giant Crabs at all?](./yt--QSHbLCmevg.md) [https://www.youtube.com/watch?v=-QSHbLCmevg](https://www.youtube.com/watch?v=-QSHbLCmevg)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Will the big monster from the trailer get released?](./yt-l_Ex-qIRiwo.md) [https://www.youtube.com/watch?v=l_Ex-qIRiwo](https://www.youtube.com/watch?v=l_Ex-qIRiwo)
 
 
 ### Topics

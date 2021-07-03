@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## June 29th, 2021 Livestream
+* [Q&A: Will Drones ever be able to carry the Pioneer?](../../../../transcriptions/yt-L0-x7Htlj14.md) [https://www.youtube.com/watch?v=L0-x7Htlj14](https://www.youtube.com/watch?v=L0-x7Htlj14)
+
 ## June 22nd, 2021 Livestream
 * [Snutt & Jace & Torsten Talk: Concept Art - Drones](../../../../transcriptions/yt-5UL7wCflXdw.md) [https://www.youtube.com/watch?v=5UL7wCflXdw](https://www.youtube.com/watch?v=5UL7wCflXdw)
 * [Snutt & Jace & Torsten Talk: Concept Art - Drone Ports](../../../../transcriptions/yt-qV94qhEro3Y.md) [https://www.youtube.com/watch?v=qV94qhEro3Y](https://www.youtube.com/watch?v=qV94qhEro3Y)
@@ -60,7 +63,6 @@ date: Last Modified
 
 ## January 26th, 2021 Livestream
 * [Q&A: Were you serious about the drones in the last YouTube video?](../../../../transcriptions/yt-bbAGxhCSN8c.md) [https://www.youtube.com/watch?v=bbAGxhCSN8c](https://www.youtube.com/watch?v=bbAGxhCSN8c)
-* [Q&A: Please, Toilet DLC before Official DLC?](../../../../transcriptions/yt-5sqgxrPlcUI.md) [https://www.youtube.com/watch?v=5sqgxrPlcUI](https://www.youtube.com/watch?v=5sqgxrPlcUI)
 * [Q&A: Will you add drones to Satisfactory?](../../../../transcriptions/yt-pdppJAPp4yA.md) [https://www.youtube.com/watch?v=pdppJAPp4yA](https://www.youtube.com/watch?v=pdppJAPp4yA)
 
 ## December 17th, 2020 Q&A

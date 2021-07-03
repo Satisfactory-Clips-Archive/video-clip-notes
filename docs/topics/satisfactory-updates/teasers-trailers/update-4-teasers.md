@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 4 Teasers
 
+## June 29th, 2021 Livestream
+* [Q&A: Was the Update 4 Trailer music written for you?](../../../transcriptions/yt-yXa-4uTFKJ0.md) [https://www.youtube.com/watch?v=yXa-4uTFKJ0](https://www.youtube.com/watch?v=yXa-4uTFKJ0)
+
 ## June 1st, 2021 Livestream
 * [Q&A: What unexpected & surprising features will be in Update 5?](../../../transcriptions/yt-eOPr8JOE7gU.md) [https://www.youtube.com/watch?v=eOPr8JOE7gU](https://www.youtube.com/watch?v=eOPr8JOE7gU)
 

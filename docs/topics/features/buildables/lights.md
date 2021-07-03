@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## June 29th, 2021 Livestream
+* [Q&A: Will there be Lights for Vehicles?](../../../transcriptions/yt-PxxImwwm5ko.md) [https://www.youtube.com/watch?v=PxxImwwm5ko](https://www.youtube.com/watch?v=PxxImwwm5ko)
+
 ## June 22nd, 2021 Livestream
 * [Snutt & Jace & Torsten Talk: Concept Art - Lights](../../../transcriptions/yt-iK80c-clNX8.md) [https://www.youtube.com/watch?v=iK80c-clNX8](https://www.youtube.com/watch?v=iK80c-clNX8)
 

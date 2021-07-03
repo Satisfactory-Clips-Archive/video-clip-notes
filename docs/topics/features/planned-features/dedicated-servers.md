@@ -4,6 +4,16 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## June 29th, 2021 Livestream
+* [Trolling: Dedicated Servers please](../../../transcriptions/yt-12HEwpNJ8zs.md) [https://www.youtube.com/watch?v=12HEwpNJ8zs](https://www.youtube.com/watch?v=12HEwpNJ8zs)
+* [Trolling: So no-one wants Dedicated Servers?](../../../transcriptions/yt-rur1X-JfHCk.md) [https://www.youtube.com/watch?v=rur1X-JfHCk](https://www.youtube.com/watch?v=rur1X-JfHCk)
+* [Q&A: Any plans for supporting Dedicated Servers on Linux?](../../../transcriptions/yt-hJSXfLTVMHE.md) [https://www.youtube.com/watch?v=hJSXfLTVMHE](https://www.youtube.com/watch?v=hJSXfLTVMHE)
+* [Community FYI: Just as long as it comes with Dedicated Servers, I don't care how long it takes](../../../transcriptions/yt-aNjrI1SZYRY.md) [https://www.youtube.com/watch?v=aNjrI1SZYRY](https://www.youtube.com/watch?v=aNjrI1SZYRY)
+* [Q&A: What are the problems you are facing with Dedicated Servers?](../../../transcriptions/yt-xp3hSA1CwFM.md) [https://www.youtube.com/watch?v=xp3hSA1CwFM](https://www.youtube.com/watch?v=xp3hSA1CwFM)
+* [Q&A: Dedicated Servers on Windows & Linux?](../../../transcriptions/yt-yVe94ABvZ88.md) [https://www.youtube.com/watch?v=yVe94ABvZ88](https://www.youtube.com/watch?v=yVe94ABvZ88)
+* [Q&A: In Multiplayer will we each have our own levels on the server?](../../../transcriptions/yt-scyn-JQyOuU.md) [https://www.youtube.com/watch?v=scyn-JQyOuU](https://www.youtube.com/watch?v=scyn-JQyOuU)
+* [Snutt & Jace Talk: Third-party Dedicated Servers are currently probably a scam](../../../transcriptions/yt-YXKvodUO14Q.md) [https://www.youtube.com/watch?v=YXKvodUO14Q](https://www.youtube.com/watch?v=YXKvodUO14Q)
+
 ## June 18th, 2021 Livestream
 * Jace Talk: Dedicated Servers [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493)
 

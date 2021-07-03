@@ -8,7 +8,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Any hints you can give on the level of mod support you'll provide eventually?
 https://www.youtube.com/watch?v=o7FFLZpEf_Y
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Official Mod Support?](./yt-TQdwxoxIfX0.md) [https://www.youtube.com/watch?v=TQdwxoxIfX0](https://www.youtube.com/watch?v=TQdwxoxIfX0)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Will there be Mod support?](./yt-6t4_ersHMTA.md) [https://www.youtube.com/watch?v=6t4_ersHMTA](https://www.youtube.com/watch?v=6t4_ersHMTA)
 
 
 ### Topics

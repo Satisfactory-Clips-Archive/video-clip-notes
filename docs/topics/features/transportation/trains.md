@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Will you be able to set your own routes for Trains, the AI does not always use the best route?](../../../transcriptions/yt-rSX888DAE0Y.md) [https://www.youtube.com/watch?v=rSX888DAE0Y](https://www.youtube.com/watch?v=rSX888DAE0Y)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: How long does it take from start to end to make a Concept for a Building?](../../../transcriptions/yt-BIThI1ygHrE.md) [https://www.youtube.com/watch?v=BIThI1ygHrE](https://www.youtube.com/watch?v=BIThI1ygHrE)
 

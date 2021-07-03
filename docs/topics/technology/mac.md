@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Mac
 
+## June 29th, 2021 Livestream
+* [Q&A: Is Satisfactory optimised on the M1 chip?](../../transcriptions/yt-MDQAA3IdUbo.md) [https://www.youtube.com/watch?v=MDQAA3IdUbo](https://www.youtube.com/watch?v=MDQAA3IdUbo)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Any plans for Mac or Linux?](../../transcriptions/yt-nhwUgABKGmE.md) [https://www.youtube.com/watch?v=nhwUgABKGmE](https://www.youtube.com/watch?v=nhwUgABKGmE)
 

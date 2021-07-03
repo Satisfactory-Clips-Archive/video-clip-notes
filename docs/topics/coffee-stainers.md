@@ -34,6 +34,11 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## June 29th, 2021 Livestream
+* [Snutt & Jace Talk: Coffee Stain / Swedish vacations](../transcriptions/yt--Nos691KN8M.md) [https://www.youtube.com/watch?v=-Nos691KN8M](https://www.youtube.com/watch?v=-Nos691KN8M)
+* [Q&A: Any plans for future videos with devs like the Lighting video?](../transcriptions/yt-m9Uh0DXTSss.md) [https://www.youtube.com/watch?v=m9Uh0DXTSss](https://www.youtube.com/watch?v=m9Uh0DXTSss)
+* [Q&A: Do you get meetings at any pub, can we join?](../transcriptions/yt-zb-kBKU_EZo.md) [https://www.youtube.com/watch?v=zb-kBKU_EZo](https://www.youtube.com/watch?v=zb-kBKU_EZo)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: Does Torsten have something that they came up with that they're very proud of?](../transcriptions/yt-FwWOSoWFo8A.md) [https://www.youtube.com/watch?v=FwWOSoWFo8A](https://www.youtube.com/watch?v=FwWOSoWFo8A)
 * [Q&A: How long does it take from start to end to make a Concept for a Building?](../transcriptions/yt-BIThI1ygHrE.md) [https://www.youtube.com/watch?v=BIThI1ygHrE](https://www.youtube.com/watch?v=BIThI1ygHrE)

@@ -9,11 +9,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Any plans on a global grid?
 https://www.youtube.com/watch?v=QxJ8e_0r9uE
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
-
-* [January 19th, 2021 Livestream Q&A: What about an opional grid to put all Foundations all aligned around the Map?](./yt-Xi9S_sVklB8.md) [https://www.youtube.com/watch?v=Xi9S_sVklB8](https://www.youtube.com/watch?v=Xi9S_sVklB8)
-</details>
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Global grid?](./yt-_psXx_dfadY.md) [https://www.youtube.com/watch?v=_psXx_dfadY](https://www.youtube.com/watch?v=_psXx_dfadY)
 
 
 ### Topics

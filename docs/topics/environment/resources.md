@@ -13,6 +13,11 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Can we see Jace stream his Aluminium factory build?](../../transcriptions/yt-nsejnx28EKk.md) [https://www.youtube.com/watch?v=nsejnx28EKk](https://www.youtube.com/watch?v=nsejnx28EKk)
+* [Q&A: More Sulfur nodes in the future, like you did with Bauxite?](../../transcriptions/yt-YZU9cZ0XzIk.md) [https://www.youtube.com/watch?v=YZU9cZ0XzIk](https://www.youtube.com/watch?v=YZU9cZ0XzIk)
+* [Q&A: Any thoughts on an expensive mode?](../../transcriptions/yt-f05_-GJTYyg.md) [https://www.youtube.com/watch?v=f05_-GJTYyg](https://www.youtube.com/watch?v=f05_-GJTYyg)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: What was the idea behind the new Ore models that got reverted?](../../transcriptions/yt-dpWWVaJWnBQ.md) [https://www.youtube.com/watch?v=dpWWVaJWnBQ](https://www.youtube.com/watch?v=dpWWVaJWnBQ)
 

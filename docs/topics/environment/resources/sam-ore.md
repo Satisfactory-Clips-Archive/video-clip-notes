@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## June 29th, 2021 Livestream
+* [Q&A: Do you have plans for S.A.M. Ore?](../../../transcriptions/yt-DiLr2o5ealA.md) [https://www.youtube.com/watch?v=DiLr2o5ealA](https://www.youtube.com/watch?v=DiLr2o5ealA)
+* [Q&A: Are you allowed to comment on new ores, like S.A.M. Ore?](../../../transcriptions/yt-NfxKGSt-Ogw.md) [https://www.youtube.com/watch?v=NfxKGSt-Ogw](https://www.youtube.com/watch?v=NfxKGSt-Ogw)
+* [Q&A: Do you know what S.A.M. stands for?](../../../transcriptions/yt-9KV0D_VniRI.md) [https://www.youtube.com/watch?v=9KV0D_VniRI](https://www.youtube.com/watch?v=9KV0D_VniRI)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Is S.A.M. Ore going to be used in the next Update?](../../../transcriptions/yt-pSqiS44lqIg.md) [https://www.youtube.com/watch?v=pSqiS44lqIg](https://www.youtube.com/watch?v=pSqiS44lqIg)
 

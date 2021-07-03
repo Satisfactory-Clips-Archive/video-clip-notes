@@ -5,6 +5,12 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Equipment Hotkey, when?](../../transcriptions/yt-W56wGXyT_sA.md) [https://www.youtube.com/watch?v=W56wGXyT_sA](https://www.youtube.com/watch?v=W56wGXyT_sA)
+* [Q&A: Are you thinking of implementing a system like Satisfactory Calculator?](../../transcriptions/yt-wHbulAfnOyc.md) [https://www.youtube.com/watch?v=wHbulAfnOyc](https://www.youtube.com/watch?v=wHbulAfnOyc)
+* [Q&A: Add a scratch pad in game?](../../transcriptions/yt-pZozYHy8vNk.md) [https://www.youtube.com/watch?v=pZozYHy8vNk](https://www.youtube.com/watch?v=pZozYHy8vNk)
+* [Q&A: In-game whiteboard?](../../transcriptions/yt-Q7VGYiAagwA.md) [https://www.youtube.com/watch?v=Q7VGYiAagwA](https://www.youtube.com/watch?v=Q7VGYiAagwA)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: Will we see something like Blueprints in Update 5?](../../transcriptions/yt-A3GSOZWzGqs.md) [https://www.youtube.com/watch?v=A3GSOZWzGqs](https://www.youtube.com/watch?v=A3GSOZWzGqs)
 

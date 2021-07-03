@@ -5,6 +5,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Alpha
 * [Alpha Weekend](../../../topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
 
+## June 29th, 2021 Livestream
+* [Community FYI: Have been playing since beta first release, so excited to see where the game goes](../../../transcriptions/yt-4BNL9dwtq4A.md) [https://www.youtube.com/watch?v=4BNL9dwtq4A](https://www.youtube.com/watch?v=4BNL9dwtq4A)
+
 ## June 22nd, 2021 Livestream
 * [Community FYI: Josh's save works because who knows what's going on in his factory](../../../transcriptions/yt-S0ZbPSPA85k.md) [https://www.youtube.com/watch?v=S0ZbPSPA85k](https://www.youtube.com/watch?v=S0ZbPSPA85k)
 

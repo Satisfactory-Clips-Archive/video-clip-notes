@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## June 29th, 2021 Livestream
+* [Q&A: Do you recommend the game?](../../transcriptions/yt-oMusY1HxVhA.md) [https://www.youtube.com/watch?v=oMusY1HxVhA](https://www.youtube.com/watch?v=oMusY1HxVhA)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Do you guys ever fight the Valheim team?](../../transcriptions/yt-FFoi2edjf6U.md) [https://www.youtube.com/watch?v=FFoi2edjf6U](https://www.youtube.com/watch?v=FFoi2edjf6U)
 * Community FYI: Valheim loves you [https://www.youtube.com/watch?v=MuxwWtJ895g](https://www.youtube.com/watch?v=MuxwWtJ895g)

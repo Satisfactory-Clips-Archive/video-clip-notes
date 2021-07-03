@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum
 
+## June 29th, 2021 Livestream
+* [Q&A: Do you recommend the game?](../../transcriptions/yt-oMusY1HxVhA.md) [https://www.youtube.com/watch?v=oMusY1HxVhA](https://www.youtube.com/watch?v=oMusY1HxVhA)
+
 ## June 15th, 2021 Livestream
 * [Snutt & Jace Talk: Goat Simulator, Sanctum, and Rocket League](../../transcriptions/yt-5Tu2HsXRQNg.md) [https://www.youtube.com/watch?v=5Tu2HsXRQNg](https://www.youtube.com/watch?v=5Tu2HsXRQNg)
 * [Q&A: Ever think about Tower Defense?](../../transcriptions/yt-ElkfY8wg5qs.md) [https://www.youtube.com/watch?v=ElkfY8wg5qs](https://www.youtube.com/watch?v=ElkfY8wg5qs)

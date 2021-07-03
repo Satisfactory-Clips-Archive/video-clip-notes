@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## June 29th, 2021 Livestream
+* [Q&A: Turbofuel for Jetpacks?](../../../transcriptions/yt-PBccbfC_x2E.md) [https://www.youtube.com/watch?v=PBccbfC_x2E](https://www.youtube.com/watch?v=PBccbfC_x2E)
+* [Q&A: Can we get a suit powered by Fuel Rods & Nuclear Pasta?](../../../transcriptions/yt-Os0322plJss.md) [https://www.youtube.com/watch?v=Os0322plJss](https://www.youtube.com/watch?v=Os0322plJss)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Can Chainsaw use liquid (fuel) in the future?](../../../transcriptions/yt-pxBuKCXaE6Y.md) [https://www.youtube.com/watch?v=pxBuKCXaE6Y](https://www.youtube.com/watch?v=pxBuKCXaE6Y)
 

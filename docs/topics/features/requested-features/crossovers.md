@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Crossovers
 
+## June 29th, 2021 Livestream
+* [Q&A: Satisfactory crossed with Stardew Valley?](../../../transcriptions/yt-U8-r7GQXOdU.md) [https://www.youtube.com/watch?v=U8-r7GQXOdU](https://www.youtube.com/watch?v=U8-r7GQXOdU)
+* [Q&A: Collab with CDPR, when?](../../../transcriptions/yt-XKjzX-knQU0.md) [https://www.youtube.com/watch?v=XKjzX-knQU0](https://www.youtube.com/watch?v=XKjzX-knQU0)
+
 ## June 15th, 2021 Livestream
 * [Snutt & Jace Talk: Goat Simulator, Sanctum, and Rocket League](../../../transcriptions/yt-5Tu2HsXRQNg.md) [https://www.youtube.com/watch?v=5Tu2HsXRQNg](https://www.youtube.com/watch?v=5Tu2HsXRQNg)
 

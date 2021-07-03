@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Snutt](../../../topics/coffee-stainers/snutt.md) > Snutt Burger Time
 
+## June 29th, 2021 Livestream
+* [Q&A: Burger or Pizza today, Snutt?](../../../transcriptions/yt-fXSxpjRKyts.md) [https://www.youtube.com/watch?v=fXSxpjRKyts](https://www.youtube.com/watch?v=fXSxpjRKyts)
+
 ## May 18th, 2021 Livestream
 * [Q&A: What's for dinner?](../../../transcriptions/yt-bLzbVAzSsH4.md) [https://www.youtube.com/watch?v=bLzbVAzSsH4](https://www.youtube.com/watch?v=bLzbVAzSsH4)
 

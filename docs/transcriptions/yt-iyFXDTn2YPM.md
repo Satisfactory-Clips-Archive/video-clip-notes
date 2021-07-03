@@ -8,7 +8,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: When will Merch shipping worldwide be possible?
 https://www.youtube.com/watch?v=iyFXDTn2YPM
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: EU Shop?](./yt-GRcTICKsCGM.md) [https://www.youtube.com/watch?v=GRcTICKsCGM](https://www.youtube.com/watch?v=GRcTICKsCGM)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Any news on EU store?](./yt-VtM58J6-DDQ.md) [https://www.youtube.com/watch?v=VtM58J6-DDQ](https://www.youtube.com/watch?v=VtM58J6-DDQ)
 
 
 ### Topics

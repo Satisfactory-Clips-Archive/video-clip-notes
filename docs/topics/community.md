@@ -19,6 +19,12 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Favourite unofficial game modes from the modding folks?](../transcriptions/yt-VwrPzpHGFcg.md) [https://www.youtube.com/watch?v=VwrPzpHGFcg](https://www.youtube.com/watch?v=VwrPzpHGFcg)
+* [Snutt & Jace Talk: Community Spreadsheets for Satisfactory](../transcriptions/yt-n_4mmcc9w-k.md) [https://www.youtube.com/watch?v=n_4mmcc9w-k](https://www.youtube.com/watch?v=n_4mmcc9w-k)
+* [Community FYI: Have been playing since beta first release, so excited to see where the game goes](../transcriptions/yt-4BNL9dwtq4A.md) [https://www.youtube.com/watch?v=4BNL9dwtq4A](https://www.youtube.com/watch?v=4BNL9dwtq4A)
+* [Q&A: My friend doesn't want to play because it's in Early Access, what do I do?](../transcriptions/yt-tRB1pMdoCIE.md) [https://www.youtube.com/watch?v=tRB1pMdoCIE](https://www.youtube.com/watch?v=tRB1pMdoCIE)
+
 ## June 22nd, 2021 Livestream
 * [Snutt & Jace Talk: Stream comments](../transcriptions/yt-ccEJHN-2_JY.md) [https://www.youtube.com/watch?v=ccEJHN-2_JY](https://www.youtube.com/watch?v=ccEJHN-2_JY)
 

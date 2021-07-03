@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## June 29th, 2021 Livestream
+* [Q&A: Why do Mk.3 and Mk.5 belts have weird transfer speeds?](../../../transcriptions/yt-wOqgDgyjNqk.md) [https://www.youtube.com/watch?v=wOqgDgyjNqk](https://www.youtube.com/watch?v=wOqgDgyjNqk)
+* [Q&A: Any thoughts about attaching Splitters directly to machines/Miners?](../../../transcriptions/yt-jkMcXbJhFoQ.md) [https://www.youtube.com/watch?v=jkMcXbJhFoQ](https://www.youtube.com/watch?v=jkMcXbJhFoQ)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: Will the belts from the Drone hub change so they're aligned to the rest?](../../../transcriptions/yt-0iBQzOBv4aI.md) [https://www.youtube.com/watch?v=0iBQzOBv4aI](https://www.youtube.com/watch?v=0iBQzOBv4aI)
 * [Q&A: Why can't we have custom ratio Splitters?](../../../transcriptions/yt-ripT8MydIjo.md) [https://www.youtube.com/watch?v=ripT8MydIjo](https://www.youtube.com/watch?v=ripT8MydIjo)

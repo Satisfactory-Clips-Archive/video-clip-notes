@@ -8,6 +8,11 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-drink/semlor.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Is a Hot Dog a sandwich?](../../transcriptions/yt-RbQ1QpTvJi8.md) [https://www.youtube.com/watch?v=RbQ1QpTvJi8](https://www.youtube.com/watch?v=RbQ1QpTvJi8)
+* Q&A: Is cereal a soup? [https://www.youtube.com/watch?v=yUkplMNxmcM](https://www.youtube.com/watch?v=yUkplMNxmcM)
+* [Q&A: Would you classify Lasagne as Spaghetti, or Mac & Cheese?](../../transcriptions/yt-Ow5LVDtlPpE.md) [https://www.youtube.com/watch?v=Ow5LVDtlPpE](https://www.youtube.com/watch?v=Ow5LVDtlPpE)
+
 ## June 15th, 2021 Livestream
 * [Snutt & Jace Talk: Tacos & other Swedish food](../../transcriptions/yt-riAPgApH4JU.md) [https://www.youtube.com/watch?v=riAPgApH4JU](https://www.youtube.com/watch?v=riAPgApH4JU)
 * [Q&A: Jace, do the Surströmming challenge?](../../transcriptions/yt-aTfHPvrGZmo.md) [https://www.youtube.com/watch?v=aTfHPvrGZmo](https://www.youtube.com/watch?v=aTfHPvrGZmo)

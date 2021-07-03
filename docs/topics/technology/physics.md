@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## June 29th, 2021 Livestream
+* [Q&A: Does Train Collision mean that Trains will collide with terrain & buildings like Trucks do?](../../transcriptions/yt-3rgaLHEbzMg.md) [https://www.youtube.com/watch?v=3rgaLHEbzMg](https://www.youtube.com/watch?v=3rgaLHEbzMg)
+* [Q&A: Will we always have sky factories or will we need to figure out how to build on the ground?](../../transcriptions/yt-WiDZuigYT2c.md) [https://www.youtube.com/watch?v=WiDZuigYT2c](https://www.youtube.com/watch?v=WiDZuigYT2c)
+* [Q&A: Will Vehicle physics ever get a revisit?](../../transcriptions/yt-IP_jZskvU6k.md) [https://www.youtube.com/watch?v=IP_jZskvU6k](https://www.youtube.com/watch?v=IP_jZskvU6k)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: What about river physics, textures- any updates on that any time soon?](../../transcriptions/yt-ZPyYBY3IW00.md) [https://www.youtube.com/watch?v=ZPyYBY3IW00](https://www.youtube.com/watch?v=ZPyYBY3IW00)
 

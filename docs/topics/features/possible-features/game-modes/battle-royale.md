@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Battle Royale
 
+## June 29th, 2021 Livestream
+* [Q&A: When are you guys adding Battle Royale mode?](../../../../transcriptions/yt-J_Dzjr_-8Hc.md) [https://www.youtube.com/watch?v=J_Dzjr_-8Hc](https://www.youtube.com/watch?v=J_Dzjr_-8Hc)
+
 ## January 26th, 2021 Livestream
 * [Q&A: Battle Royale mode?](../../../../transcriptions/yt-U4t0BJ7mjwc.md) [https://www.youtube.com/watch?v=U4t0BJ7mjwc](https://www.youtube.com/watch?v=U4t0BJ7mjwc)
 

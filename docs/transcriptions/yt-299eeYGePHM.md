@@ -9,7 +9,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Will Dedicated Servers run on Linux?
 https://www.youtube.com/watch?v=299eeYGePHM
-This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Will Dedicated Servers be able to run on Linux?](./yt-yyhNw1SsYx0.md) [https://www.youtube.com/watch?v=yyhNw1SsYx0](https://www.youtube.com/watch?v=yyhNw1SsYx0)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Any plans for supporting Dedicated Servers on Linux?](./yt-hJSXfLTVMHE.md) [https://www.youtube.com/watch?v=hJSXfLTVMHE](https://www.youtube.com/watch?v=hJSXfLTVMHE)
 
 
 ### Topics

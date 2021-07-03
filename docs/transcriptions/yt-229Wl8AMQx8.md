@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: The map is pre-made, not procedurally generated?
 https://www.youtube.com/watch?v=229Wl8AMQx8
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Is the map generation going to be randomised in the future?](./yt-XMhLiJd6N2U.md) [https://www.youtube.com/watch?v=XMhLiJd6N2U](https://www.youtube.com/watch?v=XMhLiJd6N2U)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Any plans for random map generation?](./yt-Z9c7weKgaz0.md) [https://www.youtube.com/watch?v=Z9c7weKgaz0](https://www.youtube.com/watch?v=Z9c7weKgaz0)
 
 
 ### Topics

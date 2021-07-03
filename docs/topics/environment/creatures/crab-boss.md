@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## June 29th, 2021 Livestream
+* [Q&A: Will the big monster from the trailer get released?](../../../transcriptions/yt-l_Ex-qIRiwo.md) [https://www.youtube.com/watch?v=l_Ex-qIRiwo](https://www.youtube.com/watch?v=l_Ex-qIRiwo)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Will parrots evolve into Giant Crabs after being too many times?](../../../transcriptions/yt-okxhWx00LxE.md) [https://www.youtube.com/watch?v=okxhWx00LxE](https://www.youtube.com/watch?v=okxhWx00LxE)
 * [Q&A: Will there be Giant Crabs at all?](../../../transcriptions/yt--QSHbLCmevg.md) [https://www.youtube.com/watch?v=-QSHbLCmevg](https://www.youtube.com/watch?v=-QSHbLCmevg)

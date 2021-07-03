@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Nuclear Pasta
 
+## June 29th, 2021 Livestream
+* [Q&A: Can we get a suit powered by Fuel Rods & Nuclear Pasta?](../../../transcriptions/yt-Os0322plJss.md) [https://www.youtube.com/watch?v=Os0322plJss](https://www.youtube.com/watch?v=Os0322plJss)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Can you get Nuclear Pasta at the Food Court?](../../../transcriptions/yt-n_FqVjy7epM.md) [https://www.youtube.com/watch?v=n_FqVjy7epM](https://www.youtube.com/watch?v=n_FqVjy7epM)
 

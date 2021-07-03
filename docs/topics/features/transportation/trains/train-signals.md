@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## June 29th, 2021 Livestream
+* [Q&A: Does Train Collision mean that Trains will collide with terrain & buildings like Trucks do?](../../../../transcriptions/yt-3rgaLHEbzMg.md) [https://www.youtube.com/watch?v=3rgaLHEbzMg](https://www.youtube.com/watch?v=3rgaLHEbzMg)
+
 ## June 18th, 2021 Livestream
 * Jace Talk: Train Updates [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=200&end=249](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=200&end=249)
 

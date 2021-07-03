@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: There is no way to hotkey items?
 https://www.youtube.com/watch?v=KmX7CoVGPA0
-This question was possibly duplicated with a more recent answer: [December 15th, 2020 Livestream Q&A: Can you make a toolbar selection to be with just hotkeys instead of mousewheel?](./yt-xwwx4N37G8M.md) [https://www.youtube.com/watch?v=xwwx4N37G8M](https://www.youtube.com/watch?v=xwwx4N37G8M)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Equipment Hotkey, when?](./yt-W56wGXyT_sA.md) [https://www.youtube.com/watch?v=W56wGXyT_sA](https://www.youtube.com/watch?v=W56wGXyT_sA)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Are Steam Achievements going to be added in the future?
 https://www.youtube.com/watch?v=Gi08SVnHyLU
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Will achievements be added?](./yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Please add Achievements & badges on Steam](./yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
 
 
 ### Topics

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## June 29th, 2021 Livestream
+* [Q&A: Any plans for supporting Dedicated Servers on Linux?](../../transcriptions/yt-hJSXfLTVMHE.md) [https://www.youtube.com/watch?v=hJSXfLTVMHE](https://www.youtube.com/watch?v=hJSXfLTVMHE)
+* [Q&A: Native Linux support?](../../transcriptions/yt-fvvftnYCayg.md) [https://www.youtube.com/watch?v=fvvftnYCayg](https://www.youtube.com/watch?v=fvvftnYCayg)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Will Dedicated Servers be able to run on Linux?](../../transcriptions/yt-yyhNw1SsYx0.md) [https://www.youtube.com/watch?v=yyhNw1SsYx0](https://www.youtube.com/watch?v=yyhNw1SsYx0)
 

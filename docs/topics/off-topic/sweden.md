@@ -4,6 +4,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## June 29th, 2021 Livestream
+* [Q&A: How was Midsummer?](../../transcriptions/yt-U9bVS61gZCE.md) [https://www.youtube.com/watch?v=U9bVS61gZCE](https://www.youtube.com/watch?v=U9bVS61gZCE)
+* [Snutt & Jace Talk: Coffee Stain / Swedish vacations](../../transcriptions/yt--Nos691KN8M.md) [https://www.youtube.com/watch?v=-Nos691KN8M](https://www.youtube.com/watch?v=-Nos691KN8M)
+* [Q&A: I heard a bunch of appointments opened up in Stockholm today, are you guys getting vaccinated?](../../transcriptions/yt-WJpe_Y6e9es.md) [https://www.youtube.com/watch?v=WJpe_Y6e9es](https://www.youtube.com/watch?v=WJpe_Y6e9es)
+
 ## June 18th, 2021 Livestream
 * Q&A: When is Update 5 coming? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132)
 

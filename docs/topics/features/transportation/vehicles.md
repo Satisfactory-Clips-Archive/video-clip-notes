@@ -11,6 +11,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Will there be Lights for Vehicles?](../../../transcriptions/yt-PxxImwwm5ko.md) [https://www.youtube.com/watch?v=PxxImwwm5ko](https://www.youtube.com/watch?v=PxxImwwm5ko)
+* [Q&A: Will Vehicle physics ever get a revisit?](../../../transcriptions/yt-IP_jZskvU6k.md) [https://www.youtube.com/watch?v=IP_jZskvU6k](https://www.youtube.com/watch?v=IP_jZskvU6k)
+
 ## June 8th, 2021 Livestream
 * [Q&A: How about an Elevator big enough for Vehicles?](../../../transcriptions/yt-VI3dLtemVvg.md) [https://www.youtube.com/watch?v=VI3dLtemVvg](https://www.youtube.com/watch?v=VI3dLtemVvg)
 

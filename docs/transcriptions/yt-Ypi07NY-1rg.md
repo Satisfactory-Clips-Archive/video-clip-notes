@@ -9,7 +9,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Any chance splitters/mergers can be placed in production buildings?
 https://www.youtube.com/watch?v=Ypi07NY-1rg
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Why can't you attach a Splitter directly to the Miner?](./yt-jZU1bdvj78g.md) [https://www.youtube.com/watch?v=jZU1bdvj78g](https://www.youtube.com/watch?v=jZU1bdvj78g)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Any thoughts about attaching Splitters directly to machines/Miners?](./yt-jkMcXbJhFoQ.md) [https://www.youtube.com/watch?v=jkMcXbJhFoQ](https://www.youtube.com/watch?v=jkMcXbJhFoQ)
 
 
 ### Topics

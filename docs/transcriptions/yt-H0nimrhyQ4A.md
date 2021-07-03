@@ -9,13 +9,7 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: Can we have Hannah on stream to explain upcoming changes?
 https://www.youtube.com/watch?v=H0nimrhyQ4A
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as May 2021 and as early as September 2020.</summary>
-
-* May 4th, 2021 Livestream Q&A: Hannah stream, when? [https://www.youtube.com/watch?v=Wxsp6e00g0g](https://www.youtube.com/watch?v=Wxsp6e00g0g)
-* [April 6th, 2021 Livestream Q&A: Hannah Q&A, when?](./yt-__NtKQHoZzc.md) [https://www.youtube.com/watch?v=__NtKQHoZzc](https://www.youtube.com/watch?v=__NtKQHoZzc)
-* [September 29th, 2020 Livestream Q&A: Will there be a stream or something with Hannah?](./yt-YM0ojMjT1mU.md) [https://www.youtube.com/watch?v=YM0ojMjT1mU](https://www.youtube.com/watch?v=YM0ojMjT1mU)
-</details>
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Can we get Hannah on stream or pre-recorded?](./yt-SwjERGgPOgU.md) [https://www.youtube.com/watch?v=SwjERGgPOgU](https://www.youtube.com/watch?v=SwjERGgPOgU)
 
 
 ### Topics

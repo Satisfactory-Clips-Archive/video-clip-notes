@@ -10,7 +10,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Vertical elevators for character and transport?
 https://www.youtube.com/watch?v=uLe9eMpCxRg
-This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Any plans for an Elevator for those of us that build mega factories?](./yt-snzgCf54CIQ.md) [https://www.youtube.com/watch?v=snzgCf54CIQ](https://www.youtube.com/watch?v=snzgCf54CIQ)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Elevators, when?](./yt-fRuFxL5hv-I.md) [https://www.youtube.com/watch?v=fRuFxL5hv-I](https://www.youtube.com/watch?v=fRuFxL5hv-I)
 
 
 ### Topics

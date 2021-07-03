@@ -8,6 +8,8 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Having burger or pizza this week?
 https://www.youtube.com/watch?v=PFQ6liB59pw
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Burger or Pizza today, Snutt?](./yt-fXSxpjRKyts.md) [https://www.youtube.com/watch?v=fXSxpjRKyts](https://www.youtube.com/watch?v=fXSxpjRKyts)
+
 
 ### Topics
 * [Coffee Stainers > Snutt > Snutt Burger Time](../topics/coffee-stainers/snutt/snutt-burger-time.md)

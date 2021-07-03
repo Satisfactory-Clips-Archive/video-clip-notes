@@ -13,6 +13,8 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Any news about Update 6?
 https://www.youtube.com/watch?v=bIyYDcFuAhA
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: What are the odds of an Update 6?](./yt-SOQlMqZBglM.md) [https://www.youtube.com/watch?v=SOQlMqZBglM](https://www.youtube.com/watch?v=SOQlMqZBglM)
+
 
 ### Topics
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)

@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Character Customisation
 
+## June 29th, 2021 Livestream
+* [Q&A: How about a male character model?](../../../transcriptions/yt-yNnIzPtYBcs.md) [https://www.youtube.com/watch?v=yNnIzPtYBcs](https://www.youtube.com/watch?v=yNnIzPtYBcs)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Any plans to change the Pioneer trim colour so you can differentiate each other on Multiplayer?](../../../transcriptions/yt-ox4zHZlziCg.md) [https://www.youtube.com/watch?v=ox4zHZlziCg](https://www.youtube.com/watch?v=ox4zHZlziCg)
 

@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## June 29th, 2021 Livestream
+* [Q&A: Any plans for player-generated maps?](../../transcriptions/yt-8AAgPIENmZ0.md) [https://www.youtube.com/watch?v=8AAgPIENmZ0](https://www.youtube.com/watch?v=8AAgPIENmZ0)
+* [Q&A: Do you think you'll fix being able to build under the map, or keep it because people like it?](../../transcriptions/yt-IAMN_jSQRaQ.md) [https://www.youtube.com/watch?v=IAMN_jSQRaQ](https://www.youtube.com/watch?v=IAMN_jSQRaQ)
+
 ## June 18th, 2021 Livestream
 * Jace Talk: World Update [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435)
 

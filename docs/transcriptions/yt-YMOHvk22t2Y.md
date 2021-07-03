@@ -8,6 +8,8 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: DMCA Strikes if we use your Music?
 https://www.youtube.com/watch?v=YMOHvk22t2Y
+This question was possibly replaced with a more recent answer: [June 29th, 2021 Livestream Q&A: Can you release an official statement if it's okay to stream the game with music on Twitch?](./yt-oQKGmRdLdvs.md) [https://www.youtube.com/watch?v=oQKGmRdLdvs](https://www.youtube.com/watch?v=oQKGmRdLdvs)
+
 
 ### Topics
 * [Soundtrack](../topics/soundtrack.md)

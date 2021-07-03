@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## June 29th, 2021 Livestream
+* [Q&A: Will you add more decoration options so we don't have to rely on Mods so much?](../../transcriptions/yt-453B0wDDHFA.md) [https://www.youtube.com/watch?v=453B0wDDHFA](https://www.youtube.com/watch?v=453B0wDDHFA)
+
 ## June 22nd, 2021 Livestream
 * [Community FYI: VR Confirmed](../../transcriptions/yt-SNRBsvIqz-E.md) [https://www.youtube.com/watch?v=SNRBsvIqz-E](https://www.youtube.com/watch?v=SNRBsvIqz-E)
 * [Q&A: Do you feel like Mods help with the development of Satisfactory as a whole?](../../transcriptions/yt-frBQ5YZKqvg.md) [https://www.youtube.com/watch?v=frBQ5YZKqvg](https://www.youtube.com/watch?v=frBQ5YZKqvg)

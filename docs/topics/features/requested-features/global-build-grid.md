@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Global Build Grid
 
+## June 29th, 2021 Livestream
+* [Q&A: Global grid?](../../../transcriptions/yt-_psXx_dfadY.md) [https://www.youtube.com/watch?v=_psXx_dfadY](https://www.youtube.com/watch?v=_psXx_dfadY)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: QA Site Feature Request - Global build grid](../../../transcriptions/yt-3et3lB1Ak7A.md) [https://www.youtube.com/watch?v=3et3lB1Ak7A](https://www.youtube.com/watch?v=3et3lB1Ak7A)
 

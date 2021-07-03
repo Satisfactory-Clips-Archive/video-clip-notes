@@ -13,6 +13,12 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: How would you suggest learning C++?](../transcriptions/yt-YKThpL6o12Y.md) [https://www.youtube.com/watch?v=YKThpL6o12Y](https://www.youtube.com/watch?v=YKThpL6o12Y)
+* [Community FYI: Do not check out Java unless you want to cry](../transcriptions/yt-UoouH-xdwnM.md) [https://www.youtube.com/watch?v=UoouH-xdwnM](https://www.youtube.com/watch?v=UoouH-xdwnM)
+* [Q&A: Windows 11 support?](../transcriptions/yt-klWHGzjUQe4.md) [https://www.youtube.com/watch?v=klWHGzjUQe4](https://www.youtube.com/watch?v=klWHGzjUQe4)
+* [Q&A: How do you make your animations, what programs do you use?](../transcriptions/yt-ZUBPh6l13G8.md) [https://www.youtube.com/watch?v=ZUBPh6l13G8](https://www.youtube.com/watch?v=ZUBPh6l13G8)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Have you considered having Community-contributed code for the game?](../transcriptions/yt-02H8PRuvZIc.md) [https://www.youtube.com/watch?v=02H8PRuvZIc](https://www.youtube.com/watch?v=02H8PRuvZIc)
 

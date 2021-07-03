@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## June 29th, 2021 Livestream
+* [State of Dev: Update 5](../../transcriptions/yt-HzCKJX8FQGg.md) [https://www.youtube.com/watch?v=HzCKJX8FQGg](https://www.youtube.com/watch?v=HzCKJX8FQGg)
+
 ## June 22nd, 2021 Livestream
 * [State of Dev: Update 5](../../transcriptions/yt-y0ZYguwTfuo.md) [https://www.youtube.com/watch?v=y0ZYguwTfuo](https://www.youtube.com/watch?v=y0ZYguwTfuo)
 * [State of Dev: State of Golf](../../transcriptions/yt--DQx0Ui-vQY.md) [https://www.youtube.com/watch?v=-DQx0Ui-vQY](https://www.youtube.com/watch?v=-DQx0Ui-vQY)

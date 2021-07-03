@@ -8,7 +8,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: What's the plan for Mod support?
 https://www.youtube.com/watch?v=IlACElBWukM
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Official Mod Support?](./yt-TQdwxoxIfX0.md) [https://www.youtube.com/watch?v=TQdwxoxIfX0](https://www.youtube.com/watch?v=TQdwxoxIfX0)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Will there be Mod support?](./yt-6t4_ersHMTA.md) [https://www.youtube.com/watch?v=6t4_ersHMTA](https://www.youtube.com/watch?v=6t4_ersHMTA)
 
 
 ### Topics

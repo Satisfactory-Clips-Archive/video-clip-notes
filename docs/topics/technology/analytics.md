@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Analytics
 
+## June 29th, 2021 Livestream
+* [Q&A: Are you going to reinstate/expand gameplay telemetry?](../../transcriptions/yt-Uof19aszfFc.md) [https://www.youtube.com/watch?v=Uof19aszfFc](https://www.youtube.com/watch?v=Uof19aszfFc)
+
 ## April 27th, 2021 Livestream
 * [Q&A: What gameplay stats/information do you wish you had more visibility on?](../../transcriptions/yt-LNtVgVEpOaw.md) [https://www.youtube.com/watch?v=LNtVgVEpOaw](https://www.youtube.com/watch?v=LNtVgVEpOaw)
 

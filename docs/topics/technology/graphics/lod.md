@@ -4,6 +4,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > LOD
 
+## June 29th, 2021 Livestream
+* [Q&A: What does LOD Dithering do in the game?](../../../transcriptions/yt-SGvX6YFSVJI.md) [https://www.youtube.com/watch?v=SGvX6YFSVJI](https://www.youtube.com/watch?v=SGvX6YFSVJI)
+* [Q&A: Can I use that low-res model all the time?](../../../transcriptions/yt-jmFnfqKlRLI.md) [https://www.youtube.com/watch?v=jmFnfqKlRLI](https://www.youtube.com/watch?v=jmFnfqKlRLI)
+
 ## January 26th, 2021 Livestream
 * [Q&A: Any chance on updating level-of-detail for coloured Walls?](../../../transcriptions/yt-b7j3iswXHAc.md) [https://www.youtube.com/watch?v=b7j3iswXHAc](https://www.youtube.com/watch?v=b7j3iswXHAc)
 

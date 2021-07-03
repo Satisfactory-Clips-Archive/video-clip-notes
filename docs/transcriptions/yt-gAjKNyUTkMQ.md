@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: When will you be adding more wildlife?
 https://www.youtube.com/watch?v=gAjKNyUTkMQ
-This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Will there be Giant Crabs at all?](./yt--QSHbLCmevg.md) [https://www.youtube.com/watch?v=-QSHbLCmevg](https://www.youtube.com/watch?v=-QSHbLCmevg)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Will the big monster from the trailer get released?](./yt-l_Ex-qIRiwo.md) [https://www.youtube.com/watch?v=l_Ex-qIRiwo](https://www.youtube.com/watch?v=l_Ex-qIRiwo)
 
 
 ### Topics

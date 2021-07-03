@@ -4,6 +4,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
 
+## June 29th, 2021 Livestream
+* [State of Dev: Update 5](../../../transcriptions/yt-HzCKJX8FQGg.md) [https://www.youtube.com/watch?v=HzCKJX8FQGg](https://www.youtube.com/watch?v=HzCKJX8FQGg)
+* [Q&A: Will Update 5 break Mods?](../../../transcriptions/yt-4OudGoLGTuk.md) [https://www.youtube.com/watch?v=4OudGoLGTuk](https://www.youtube.com/watch?v=4OudGoLGTuk)
+* [Community FYI: Alt-Tabbing the game causes my Nvidia driver to crash](../../../transcriptions/yt-Zn4vb2QRykU.md) [https://www.youtube.com/watch?v=Zn4vb2QRykU](https://www.youtube.com/watch?v=Zn4vb2QRykU)
+* [Community FYI: Needs more Feature Creep](../../../transcriptions/yt-j_Ty92kvb5s.md) [https://www.youtube.com/watch?v=j_Ty92kvb5s](https://www.youtube.com/watch?v=j_Ty92kvb5s)
+* [Q&A: Will we have to rebuild parts of our factory for Update 5 like we did back with Update 3?](../../../transcriptions/yt-hIKBX_gy5tk.md) [https://www.youtube.com/watch?v=hIKBX_gy5tk](https://www.youtube.com/watch?v=hIKBX_gy5tk)
+* [Q&A: Feature Creep party you say?](../../../transcriptions/yt-TZZ14bWUnZM.md) [https://www.youtube.com/watch?v=TZZ14bWUnZM](https://www.youtube.com/watch?v=TZZ14bWUnZM)
+* [Q&A: Are we going to get changes to the basic material Recipes?](../../../transcriptions/yt-utp7TQEksi0.md) [https://www.youtube.com/watch?v=utp7TQEksi0](https://www.youtube.com/watch?v=utp7TQEksi0)
+
 ## June 22nd, 2021 Livestream
 * [State of Dev: Update 5](../../../transcriptions/yt-y0ZYguwTfuo.md) [https://www.youtube.com/watch?v=y0ZYguwTfuo](https://www.youtube.com/watch?v=y0ZYguwTfuo)
 * [Torsten Talk: Update 5 Concept Art](../../../transcriptions/yt-Jb_V7r_cnc0.md) [https://www.youtube.com/watch?v=Jb_V7r_cnc0](https://www.youtube.com/watch?v=Jb_V7r_cnc0)

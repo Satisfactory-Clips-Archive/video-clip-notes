@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Blueprints?
 https://www.youtube.com/watch?v=x0N2HGv49Eg
-This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: Will we see something like Blueprints in Update 5?](./yt-A3GSOZWzGqs.md) [https://www.youtube.com/watch?v=A3GSOZWzGqs](https://www.youtube.com/watch?v=A3GSOZWzGqs)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Blueprints, for repetitive factory setups?](./yt-NYHU62S6czs.md) [https://www.youtube.com/watch?v=NYHU62S6czs](https://www.youtube.com/watch?v=NYHU62S6czs)
 
 
 ### Topics

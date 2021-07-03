@@ -5,6 +5,14 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: How was Midsummer?](../../transcriptions/yt-U9bVS61gZCE.md) [https://www.youtube.com/watch?v=U9bVS61gZCE](https://www.youtube.com/watch?v=U9bVS61gZCE)
+* [Q&A: Do you do any work outside of the streams?](../../transcriptions/yt-V96viZIrKfQ.md) [https://www.youtube.com/watch?v=V96viZIrKfQ](https://www.youtube.com/watch?v=V96viZIrKfQ)
+* [Q&A: I heard a bunch of appointments opened up in Stockholm today, are you guys getting vaccinated?](../../transcriptions/yt-WJpe_Y6e9es.md) [https://www.youtube.com/watch?v=WJpe_Y6e9es](https://www.youtube.com/watch?v=WJpe_Y6e9es)
+* Q&A: Did Snutt practice his juggling? [https://www.youtube.com/watch?v=4gWw_2sQIvc](https://www.youtube.com/watch?v=4gWw_2sQIvc)
+* [Snutt & Jace Talk: Snutt makes noises when breathing](../../transcriptions/yt-3XRZmwYw_EY.md) [https://www.youtube.com/watch?v=3XRZmwYw_EY](https://www.youtube.com/watch?v=3XRZmwYw_EY)
+* [Q&A: What are your summer vacation plans?](../../transcriptions/yt-tvc_Q0s8_Uo.md) [https://www.youtube.com/watch?v=tvc_Q0s8_Uo](https://www.youtube.com/watch?v=tvc_Q0s8_Uo)
+
 ## June 22nd, 2021 Livestream
 * [Snutt & Jace Talk: Stream comments](../../transcriptions/yt-ccEJHN-2_JY.md) [https://www.youtube.com/watch?v=ccEJHN-2_JY](https://www.youtube.com/watch?v=ccEJHN-2_JY)
 

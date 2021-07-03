@@ -10,7 +10,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Any idea about Official Modding?
 https://www.youtube.com/watch?v=D5-Y6LYR7jk
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Official Mod Support?](./yt-TQdwxoxIfX0.md) [https://www.youtube.com/watch?v=TQdwxoxIfX0](https://www.youtube.com/watch?v=TQdwxoxIfX0)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Will there be Mod support?](./yt-6t4_ersHMTA.md) [https://www.youtube.com/watch?v=6t4_ersHMTA](https://www.youtube.com/watch?v=6t4_ersHMTA)
 
 
 ### Topics

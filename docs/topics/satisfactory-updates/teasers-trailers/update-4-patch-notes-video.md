@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 4 Patch Notes Video
 
+## June 29th, 2021 Livestream
+* [Q&A: Did Jace become Dora of Coffee Stain Studios?](../../../transcriptions/yt-n2iZ5LMi2QI.md) [https://www.youtube.com/watch?v=n2iZ5LMi2QI](https://www.youtube.com/watch?v=n2iZ5LMi2QI)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Pick up Lizard Doggo as a feature?](../../../transcriptions/yt-laV5SyI3MXg.md) [https://www.youtube.com/watch?v=laV5SyI3MXg](https://www.youtube.com/watch?v=laV5SyI3MXg)
 

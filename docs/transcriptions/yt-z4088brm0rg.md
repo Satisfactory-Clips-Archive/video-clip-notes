@@ -10,7 +10,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: When does Satisfactory get DLSS 2.0, since it was open to other games?
 https://www.youtube.com/watch?v=z4088brm0rg
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Are you planning ray-tracing or DLSS in the future?](./yt-b9mNEeXtILM.md) [https://www.youtube.com/watch?v=b9mNEeXtILM](https://www.youtube.com/watch?v=b9mNEeXtILM)
+This question was possibly duplicated with a more recent answer: June 29th, 2021 Livestream Q&A: DLSS? [https://www.youtube.com/watch?v=IueQtEGBigw](https://www.youtube.com/watch?v=IueQtEGBigw)
 
 
 ### Topics

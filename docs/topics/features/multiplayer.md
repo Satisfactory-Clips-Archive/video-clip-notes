@@ -5,6 +5,11 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## June 29th, 2021 Livestream
+* [Q&A: Can you make it so friends in multiplayer can have more rights like setting Train routes?](../../transcriptions/yt-pLGMWKj9AW0.md) [https://www.youtube.com/watch?v=pLGMWKj9AW0](https://www.youtube.com/watch?v=pLGMWKj9AW0)
+* [Q&A: What's the greatest number of people you've had in a Multiplayer session?](../../transcriptions/yt-w_ZCP0Syl-A.md) [https://www.youtube.com/watch?v=w_ZCP0Syl-A](https://www.youtube.com/watch?v=w_ZCP0Syl-A)
+* [Q&A: In Multiplayer will we each have our own levels on the server?](../../transcriptions/yt-scyn-JQyOuU.md) [https://www.youtube.com/watch?v=scyn-JQyOuU](https://www.youtube.com/watch?v=scyn-JQyOuU)
+
 ## June 18th, 2021 Livestream
 * Jace Talk: Dedicated Servers [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493)
 

@@ -10,7 +10,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will there be a Map Editor?
 https://www.youtube.com/watch?v=MYno60AbSGk
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any plans to release a Map Editor?](./yt-5qoXAwqaGWA.md) [https://www.youtube.com/watch?v=5qoXAwqaGWA](https://www.youtube.com/watch?v=5qoXAwqaGWA)
+This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Any plans for player-generated maps?](./yt-8AAgPIENmZ0.md) [https://www.youtube.com/watch?v=8AAgPIENmZ0](https://www.youtube.com/watch?v=8AAgPIENmZ0)
 
 
 ### Topics

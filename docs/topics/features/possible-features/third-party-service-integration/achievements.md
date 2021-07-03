@@ -4,6 +4,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Third-Party Service Integration](../../../../topics/features/possible-features/third-party-service-integration.md) > Achievements
 
+## June 29th, 2021 Livestream
+* [Q&A: Please add Achievements & badges on Steam](../../../../transcriptions/yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Will achievements be added?](../../../../transcriptions/yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
 
