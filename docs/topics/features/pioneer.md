@@ -74,8 +74,8 @@ date: Last Modified
 * [Q&A: Real-time reflections for the helmet?](../../transcriptions/yt-RuQcbza7pVw.md) [https://www.youtube.com/watch?v=RuQcbza7pVw](https://www.youtube.com/watch?v=RuQcbza7pVw)
 
 ## August 18th, 2020 Livestream
-* Q&A: How did you make the character slide in Satisfactory? (part 2) [https://clips.twitch.tv/BlueBadWeaselPMSTwin](https://clips.twitch.tv/BlueBadWeaselPMSTwin)
 * Q&A: How did you make the character slide in Satisfactory? (part 1) [https://clips.twitch.tv/WittyYawningSangJKanStyle](https://clips.twitch.tv/WittyYawningSangJKanStyle)
+* Q&A: How did you make the character slide in Satisfactory? (part 2) [https://clips.twitch.tv/BlueBadWeaselPMSTwin](https://clips.twitch.tv/BlueBadWeaselPMSTwin)
 
 ## August 11th, 2020 Livestream
 * Q&A: FICSIT Pioneer gender confirmed? [https://clips.twitch.tv/TriangularLongOctopusOneHand](https://clips.twitch.tv/TriangularLongOctopusOneHand)

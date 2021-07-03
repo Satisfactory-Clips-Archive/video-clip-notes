@@ -633,10 +633,10 @@ date: Last Modified
 
 ## August 18th, 2020 Livestream
 * Q&A: Tier 8 before 1.0? [https://clips.twitch.tv/AgreeableTentativeBeeCurseLit](https://clips.twitch.tv/AgreeableTentativeBeeCurseLit)
-* Q&A: What's in Tier 8? (part 2) [https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu](https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu)
 * Q&A: How often will there be updates to the game? [https://clips.twitch.tv/CheerfulZanyWebVoteYea](https://clips.twitch.tv/CheerfulZanyWebVoteYea)
 * Snutt Talk: There's also discussions about how we release Update 4 [https://clips.twitch.tv/FaintToughRingYee](https://clips.twitch.tv/FaintToughRingYee)
 * Q&A: What's in Tier 8? (part 1) [https://clips.twitch.tv/RelievedRelievedCroissantMingLee](https://clips.twitch.tv/RelievedRelievedCroissantMingLee)
+* Q&A: What's in Tier 8? (part 2) [https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu](https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu)
 * Q&A: When is Update 4 pencilled for? [https://clips.twitch.tv/RelievedTawdryEelDogFace](https://clips.twitch.tv/RelievedTawdryEelDogFace)
 * Q&A: What are some of the priorities for the next update? [https://clips.twitch.tv/SneakyLovelyCrabsAMPEnergyCherry](https://clips.twitch.tv/SneakyLovelyCrabsAMPEnergyCherry)
 

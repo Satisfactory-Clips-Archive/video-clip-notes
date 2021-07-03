@@ -41,9 +41,9 @@ date: Last Modified
 
 ## August 18th, 2020 Livestream
 * Snutt & Jace Talk: Arachnophobia Mode (part 1) [https://clips.twitch.tv/HandsomeJoyousPigeonYouWHY](https://clips.twitch.tv/HandsomeJoyousPigeonYouWHY)
+* Snutt & Jace Talk: Arachnophobia Mode (part 2) [https://clips.twitch.tv/ResilientTalentedSalsifySSSsss](https://clips.twitch.tv/ResilientTalentedSalsifySSSsss)
 * Snutt & Jace Talk: Arachnophobia Mode (part 3) [https://clips.twitch.tv/ModernExquisiteJayFeelsBadMan](https://clips.twitch.tv/ModernExquisiteJayFeelsBadMan)
 * Snutt & Jace Talk: Arachnophobia Mode (part 4) [https://clips.twitch.tv/NurturingPlayfulSwanTBTacoLeft](https://clips.twitch.tv/NurturingPlayfulSwanTBTacoLeft)
-* Snutt & Jace Talk: Arachnophobia Mode (part 2) [https://clips.twitch.tv/ResilientTalentedSalsifySSSsss](https://clips.twitch.tv/ResilientTalentedSalsifySSSsss)
 
 ## December 19th, 2019 Video
 * The REAL meaning of fear... [not clickbait] (July 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=34&end=38](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=34&end=38)

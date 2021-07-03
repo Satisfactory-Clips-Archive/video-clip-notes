@@ -51,8 +51,8 @@ date: Last Modified
 
 ## August 18th, 2020 Livestream
 * Q&A: Tier 8 before 1.0? [https://clips.twitch.tv/AgreeableTentativeBeeCurseLit](https://clips.twitch.tv/AgreeableTentativeBeeCurseLit)
-* Q&A: What's in Tier 8? (part 2) [https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu](https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu)
 * Q&A: What's in Tier 8? (part 1) [https://clips.twitch.tv/RelievedRelievedCroissantMingLee](https://clips.twitch.tv/RelievedRelievedCroissantMingLee)
+* Q&A: What's in Tier 8? (part 2) [https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu](https://clips.twitch.tv/AwkwardBloodyNightingaleShadyLulu)
 
 ## May 19th, 2020 Livestream
 * [Q&A: What about Tier 8?](../../../transcriptions/yt-lQC68q7s21c.md) [https://www.youtube.com/watch?v=lQC68q7s21c](https://www.youtube.com/watch?v=lQC68q7s21c)

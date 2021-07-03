@@ -112,9 +112,9 @@ date: Last Modified
 * Q&A: Actual Elevators with floor-select buttons ? [https://clips.twitch.tv/SparklingFilthyKathyBleedPurple](https://clips.twitch.tv/SparklingFilthyKathyBleedPurple)
 
 ## August 18th, 2020 Livestream
-* Mods vs. Features (Part 3) [https://clips.twitch.tv/CorrectAlertEggplantPJSalt](https://clips.twitch.tv/CorrectAlertEggplantPJSalt)
-* Mods vs. Features (Part 2) [https://clips.twitch.tv/OriginalDifficultTeaKevinTurtle](https://clips.twitch.tv/OriginalDifficultTeaKevinTurtle)
 * Mods vs. Features (Part 1) [https://clips.twitch.tv/ShakingCredulousGalagoCopyThis](https://clips.twitch.tv/ShakingCredulousGalagoCopyThis)
+* Mods vs. Features (Part 2) [https://clips.twitch.tv/OriginalDifficultTeaKevinTurtle](https://clips.twitch.tv/OriginalDifficultTeaKevinTurtle)
+* Mods vs. Features (Part 3) [https://clips.twitch.tv/CorrectAlertEggplantPJSalt](https://clips.twitch.tv/CorrectAlertEggplantPJSalt)
 * Mods vs. Features (Part 4) [https://clips.twitch.tv/ShakingNastyJaguarGrammarKing](https://clips.twitch.tv/ShakingNastyJaguarGrammarKing)
 
 ## August 11th, 2020 Livestream
