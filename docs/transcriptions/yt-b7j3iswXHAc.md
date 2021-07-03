@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/walls"
     - "features/paint"
-    - "technology/graphics"
+    - "technology/graphics/lod"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Any chance on updating level-of-detail for coloured Walls?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=b7j3iswXHAc
 ### Topics
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Features > Paint](../topics/features/paint.md)
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Technology > Graphics > LOD](../topics/technology/graphics/lod.md)
 
 ### Transcript
 

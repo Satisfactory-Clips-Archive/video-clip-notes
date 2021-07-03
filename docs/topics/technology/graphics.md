@@ -4,6 +4,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Graphics
 * [DLSS](../../topics/technology/graphics/dlss.md)
+* [LOD](../../topics/technology/graphics/lod.md)
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
@@ -75,7 +76,6 @@ date: Last Modified
 * [Q&A: Any chance on making a tutorial on optimal graphics settings for performance?](../../transcriptions/yt-vwI3DmL9xHM.md) [https://www.youtube.com/watch?v=vwI3DmL9xHM](https://www.youtube.com/watch?v=vwI3DmL9xHM)
 
 ## January 26th, 2021 Livestream
-* [Q&A: Any chance on updating level-of-detail for coloured Walls?](../../transcriptions/yt-b7j3iswXHAc.md) [https://www.youtube.com/watch?v=b7j3iswXHAc](https://www.youtube.com/watch?v=b7j3iswXHAc)
 * [Q&A: Ability to sleep coming any time?](../../transcriptions/yt-kDwywg_UJoc.md) [https://www.youtube.com/watch?v=kDwywg_UJoc](https://www.youtube.com/watch?v=kDwywg_UJoc)
 * [Q&A: Lights & Lampposts please?](../../transcriptions/yt-xXbrwFqiS5g.md) [https://www.youtube.com/watch?v=xXbrwFqiS5g](https://www.youtube.com/watch?v=xXbrwFqiS5g)
 * [Q&A: In terms of pure performance is the fewer items being moved by Conveyor, the better?](../../transcriptions/yt-h0rUjNNgiCw.md) [https://www.youtube.com/watch?v=h0rUjNNgiCw](https://www.youtube.com/watch?v=h0rUjNNgiCw)
@@ -117,9 +117,7 @@ date: Last Modified
 * Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 2) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=639&end=739](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=639&end=739)
 * Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 3) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=738&end=882](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=738&end=882)
 * Ben & Jace Talk: Mesh Animation vs. Material Animations (Part 4) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=881&end=975](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=881&end=975)
-* Ben & Jace Talk: Mesh Imposters / LODing (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=974&end=1138](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=974&end=1138)
 * Ben & Jace Talk: Factory Render Distance [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1137&end=1172](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1137&end=1172)
-* Ben & Jace Talk: Mesh Imposters / LODing (Part 2) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1171&end=1213](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1171&end=1213)
 * Q&A: If you were to decide what area of the game to optimise, how do you decide what to do? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1384&end=1501](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1384&end=1501)
 * Ben & Jace Talk: Optimisation review - Refinery (Part 1) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1500&end=1558](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1500&end=1558)
 * Q&A: What are Baked Materials? [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1557&end=1612](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1557&end=1612)
@@ -206,6 +204,3 @@ date: Last Modified
 ## February 20th, 2019 Livestream
 * [Q&A: Are graphics rendered in tiles?](../../transcriptions/yt-CB9bSigNYH8,1840.1333333333334,1854.301799.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1840&end=1855](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1840&end=1855)
 * [Q&A: It looks like a AAA game?](../../transcriptions/yt-CB9bSigNYH8,2884.266666666667,2897.082625.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2884&end=2898](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2884&end=2898)
-
-## February 6th, 2019 Livestream
-* Q&A: How many LOD levels do you use? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3264&end=3269](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3264&end=3269)
