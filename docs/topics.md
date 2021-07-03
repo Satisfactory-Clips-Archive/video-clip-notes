@@ -234,6 +234,7 @@ date: Last Modified
 ## [Requested Features](./topics/features/requested-features.md)
 * [Crossovers](./topics/features/requested-features/crossovers.md)
 * [Elevators](./topics/features/requested-features/elevators.md)
+* [Global Build Grid](./topics/features/requested-features/global-build-grid.md)
 * [Golf](./topics/features/requested-features/golf.md)
 * [Holstering Equipment](./topics/features/requested-features/holstering-equipment.md)
 * [Multiple Body Slots](./topics/features/requested-features/multiple-body-slots.md)

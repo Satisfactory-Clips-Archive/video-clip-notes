@@ -4,7 +4,7 @@ date: "2021-03-30"
 layout: transcript
 topics:
     - "features/buildables/foundations"
-    - "technology/user-interface"
+    - "features/requested-features/global-build-grid"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Any plans on a global grid?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=QxJ8e_0r9uE
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Features > Requested Features > Global Build Grid](../topics/features/requested-features/global-build-grid.md)
 
 ### Transcript
 

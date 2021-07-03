@@ -48,7 +48,6 @@ date: Last Modified
 
 ## May 4th, 2021 Livestream
 * [Snutt Talk: Workaround for feature request using existing features](../../transcriptions/yt-LCZehy3T6ck.md) [https://www.youtube.com/watch?v=LCZehy3T6ck](https://www.youtube.com/watch?v=LCZehy3T6ck)
-* [Snutt Talk: QA Site Feature Request - Global build grid](../../transcriptions/yt-3et3lB1Ak7A.md) [https://www.youtube.com/watch?v=3et3lB1Ak7A](https://www.youtube.com/watch?v=3et3lB1Ak7A)
 * [Q&A: Why'd you put the character limit on Beacons & Train Stations?](../../transcriptions/yt-xQ9mh8bgHJ8.md) [https://www.youtube.com/watch?v=xQ9mh8bgHJ8](https://www.youtube.com/watch?v=xQ9mh8bgHJ8)
 * [Q&A: It would be cool if there was a hand equipment slot, you could put a light there?](../../transcriptions/yt-b6mQ0qUrMX4.md) [https://www.youtube.com/watch?v=b6mQ0qUrMX4](https://www.youtube.com/watch?v=b6mQ0qUrMX4)
 * [Q&A: Why is the UI size after update different than fresh installation?](../../transcriptions/yt-7ICllu99lPI.md) [https://www.youtube.com/watch?v=7ICllu99lPI](https://www.youtube.com/watch?v=7ICllu99lPI)
@@ -69,7 +68,6 @@ date: Last Modified
 
 ## March 30th, 2021 Livestream
 * [Q&A: Why does the Chainsaw not consume Fuel?](../../transcriptions/yt-_MMqKE-jYTk.md) [https://www.youtube.com/watch?v=_MMqKE-jYTk](https://www.youtube.com/watch?v=_MMqKE-jYTk)
-* [Q&A: Any plans on a global grid?](../../transcriptions/yt-QxJ8e_0r9uE.md) [https://www.youtube.com/watch?v=QxJ8e_0r9uE](https://www.youtube.com/watch?v=QxJ8e_0r9uE)
 * [Q&A: Percentage with decimals in overclock menu?](../../transcriptions/yt-t-BYjRnBkAs.md) [https://www.youtube.com/watch?v=t-BYjRnBkAs](https://www.youtube.com/watch?v=t-BYjRnBkAs)
 * [Community FYI: Not being able to wear a mask is annoying](../../transcriptions/yt-r12CKyyTTJk.md) [https://www.youtube.com/watch?v=r12CKyyTTJk](https://www.youtube.com/watch?v=r12CKyyTTJk)
 * [Q&A: Can you fix the wheels when selecting walls?](../../transcriptions/yt-9qpSJT7gl9o.md) [https://www.youtube.com/watch?v=9qpSJT7gl9o](https://www.youtube.com/watch?v=9qpSJT7gl9o)
@@ -136,7 +134,6 @@ date: Last Modified
 ## January 19th, 2021 Livestream
 * [Q&A: Any plans to revisit the To-Do List for Quality-of-Life pass?](../../transcriptions/yt-nI31KeD88V8.md) [https://www.youtube.com/watch?v=nI31KeD88V8](https://www.youtube.com/watch?v=nI31KeD88V8)
 * [Q&A: Will it be possible to use decimal places for percentages in future?](../../transcriptions/yt-zGH69_aSwwk.md) [https://www.youtube.com/watch?v=zGH69_aSwwk](https://www.youtube.com/watch?v=zGH69_aSwwk)
-* [Q&A: What about an opional grid to put all Foundations all aligned around the Map?](../../transcriptions/yt-Xi9S_sVklB8.md) [https://www.youtube.com/watch?v=Xi9S_sVklB8](https://www.youtube.com/watch?v=Xi9S_sVklB8)
 * [Q&A: Mass Foundation creation?](../../transcriptions/yt-Z0H06UJbb4E.md) [https://www.youtube.com/watch?v=Z0H06UJbb4E](https://www.youtube.com/watch?v=Z0H06UJbb4E)
 * [Q&A: Any plans for alternate Conveyor Belt layout modes, like how Pipes have multiple layout modes?](../../transcriptions/yt-N8GQDbxeYkE.md) [https://www.youtube.com/watch?v=N8GQDbxeYkE](https://www.youtube.com/watch?v=N8GQDbxeYkE)
 * [Q&A: Why do we get a Gas warning when we're in a Hypertube?](../../transcriptions/yt-b1pzjEAzXOU.md) [https://www.youtube.com/watch?v=b1pzjEAzXOU](https://www.youtube.com/watch?v=b1pzjEAzXOU)
@@ -222,8 +219,8 @@ date: Last Modified
 * [Q&A: Set a specific Foundation as the keystone?](../../transcriptions/yt-DTZz5jdnn_s.md) [https://www.youtube.com/watch?v=DTZz5jdnn_s](https://www.youtube.com/watch?v=DTZz5jdnn_s)
 * [Q&A: When will you add UI for the Steam Geyser Power Plant?](../../transcriptions/yt-xFZfkjY3J0c.md) [https://www.youtube.com/watch?v=xFZfkjY3J0c](https://www.youtube.com/watch?v=xFZfkjY3J0c)
 * [Q&A: Generators have power switches, so do all structures in the game?](../../transcriptions/yt-CN2G6ZH6bmA.md) [https://www.youtube.com/watch?v=CN2G6ZH6bmA](https://www.youtube.com/watch?v=CN2G6ZH6bmA)
-* [Q&A: Grid- a radius would be perfect?](../../transcriptions/yt-AgdOGd32U3w.md) [https://www.youtube.com/watch?v=AgdOGd32U3w](https://www.youtube.com/watch?v=AgdOGd32U3w)
 * [Q&A: A mark on pipes to show the meters ?](../../transcriptions/yt-lXL_N-a887E.md) [https://www.youtube.com/watch?v=lXL_N-a887E](https://www.youtube.com/watch?v=lXL_N-a887E)
+* Q&A: Grid- a radius would be perfect [https://clips.twitch.tv/GeniusConcernedEggDogFace](https://clips.twitch.tv/GeniusConcernedEggDogFace)
 
 ## July 8th, 2020 Mod Highlight
 * [Community FYI: Uses standard popup with custom disconnect message](../../transcriptions/yt-1dUNmBBbExs,655.75986,667.119423.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668)

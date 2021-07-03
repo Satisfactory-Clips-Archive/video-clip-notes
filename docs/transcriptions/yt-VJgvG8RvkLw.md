@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/snutt"
     - "features/planned-features/build-modes"
+    - "features/requested-features/global-build-grid"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: What's the feature you want to add?
@@ -23,6 +24,7 @@ https://www.youtube.com/watch?v=VJgvG8RvkLw
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
+* [Features > Requested Features > Global Build Grid](../topics/features/requested-features/global-build-grid.md)
 
 ### Transcript
 
