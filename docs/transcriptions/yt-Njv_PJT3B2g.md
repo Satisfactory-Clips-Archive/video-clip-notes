@@ -11,7 +11,7 @@ topics:
 # [October 9th, 2020 Livestream](../2020-10-09.md)
 ## Q&A: What is the limit?
 https://www.youtube.com/watch?v=Njv_PJT3B2g
-This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Can you explain the Object Limit ?](./yt-F1TmvRv7IQ8.md) [https://www.youtube.com/watch?v=F1TmvRv7IQ8](https://www.youtube.com/watch?v=F1TmvRv7IQ8)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: What does the Object Limit refer to exactly?](./yt-cVhPGZZyMn8.md) [https://www.youtube.com/watch?v=cVhPGZZyMn8](https://www.youtube.com/watch?v=cVhPGZZyMn8)
 
 
 ### Topics

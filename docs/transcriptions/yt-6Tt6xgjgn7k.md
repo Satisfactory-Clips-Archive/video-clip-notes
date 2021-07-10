@@ -3,6 +3,7 @@ title: "August 25th, 2020 Livestream Q&A: Will there be any further goals beside
 date: "2020-08-25"
 layout: transcript
 topics:
+    - "features/tiers"
     - "story-lore/project-assembly"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=6Tt6xgjgn7k
 
 ### Topics
+* [Features > Tiers](../topics/features/tiers.md)
 * [Story & Lore > Project Assembly](../topics/story-lore/project-assembly.md)
 
 ### Transcript

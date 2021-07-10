@@ -10,13 +10,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Do you think we'll rework Radar Towers?
 https://www.youtube.com/watch?v=hoLnbnTC5vE
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as March 2021 and as early as December 2020.</summary>
-
-* [March 23rd, 2021 Livestream Q&A: Will there be additional use for Radar Towers?](./yt-vfJj5Fg21WI.md) [https://www.youtube.com/watch?v=vfJj5Fg21WI](https://www.youtube.com/watch?v=vfJj5Fg21WI)
-* [February 9th, 2021 Livestream Q&A: Do you have any plans for the Radar Towers?](./yt-Jb1JBMGknBY.md) [https://www.youtube.com/watch?v=Jb1JBMGknBY](https://www.youtube.com/watch?v=Jb1JBMGknBY)
-* [December 15th, 2020 Livestream Q&A: Will Radar Towers get a Mk.2 version?](./yt--2Z0rsxuisQ.md) [https://www.youtube.com/watch?v=-2Z0rsxuisQ](https://www.youtube.com/watch?v=-2Z0rsxuisQ)
-</details>
+This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Are Radar Towers going to get an upgrade at some point? [https://www.youtube.com/watch?v=CBfhAo3Ok58](https://www.youtube.com/watch?v=CBfhAo3Ok58)
 
 
 ### Topics

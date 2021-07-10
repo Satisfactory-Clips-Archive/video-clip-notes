@@ -8,6 +8,8 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: How does one help with localisation?
 https://www.youtube.com/watch?v=uLblaRDOX4Y
+This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: How would you join the translation crew? [https://www.youtube.com/watch?v=21YJgMguxHQ](https://www.youtube.com/watch?v=21YJgMguxHQ)
+
 
 ### Topics
 * [Localisation](../topics/localisation.md)

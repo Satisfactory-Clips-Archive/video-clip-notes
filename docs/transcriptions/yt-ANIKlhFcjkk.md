@@ -9,7 +9,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Is the World Update part of Update 4 or will that come later?
 https://www.youtube.com/watch?v=ANIKlhFcjkk
-This question was possibly duplicated with a more recent answer: [April 6th, 2021 Livestream Q&A: World Update, when?](./yt-ldiVaemLNss.md) [https://www.youtube.com/watch?v=ldiVaemLNss](https://www.youtube.com/watch?v=ldiVaemLNss)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: How's the current Map update progressing?](./yt-v4q_WoTeOQM.md) [https://www.youtube.com/watch?v=v4q_WoTeOQM](https://www.youtube.com/watch?v=v4q_WoTeOQM)
 
 
 ### Topics

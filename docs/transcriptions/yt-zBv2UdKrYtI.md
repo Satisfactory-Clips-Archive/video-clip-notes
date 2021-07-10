@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Any plans for new Maps?
 https://www.youtube.com/watch?v=zBv2UdKrYtI
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Will there be another map?](./yt-yR31iCrXx4w.md) [https://www.youtube.com/watch?v=yR31iCrXx4w](https://www.youtube.com/watch?v=yR31iCrXx4w)
+This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Do you plan on doing a new Map? [https://www.youtube.com/watch?v=ZfTLZTQMWU0](https://www.youtube.com/watch?v=ZfTLZTQMWU0)
 
 
 ### Topics

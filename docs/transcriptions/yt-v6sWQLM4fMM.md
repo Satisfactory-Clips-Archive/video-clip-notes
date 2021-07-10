@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Add Train tunnels to go through mountains?
 https://www.youtube.com/watch?v=v6sWQLM4fMM
-This question was possibly duplicated with a more recent answer: [September 8th, 2020 Livestream Q&A: Any thoughts on Terraforming, specifically tunneling ?](./yt-LIi_14XOp60.md) [https://www.youtube.com/watch?v=LIi_14XOp60](https://www.youtube.com/watch?v=LIi_14XOp60)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Is there a way to alter the terrain in certain circumstances?](./yt-35jxkNZh7mA.md) [https://www.youtube.com/watch?v=35jxkNZh7mA](https://www.youtube.com/watch?v=35jxkNZh7mA)
 
 
 ### Topics

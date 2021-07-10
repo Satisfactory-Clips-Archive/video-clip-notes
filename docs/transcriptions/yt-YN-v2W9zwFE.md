@@ -3,7 +3,7 @@ title: "April 20th, 2021 Livestream Q&A: How many tiers will you need to reveal 
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "features/buildings/space-elevator/food-court"
+    - "features/tiers"
     - "story-lore/project-assembly"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [April 27th, 20
 
 
 ### Topics
-* [Features > Buildings > Space Elevator > Food Court](../topics/features/buildings/space-elevator/food-court.md)
+* [Features > Tiers](../topics/features/tiers.md)
 * [Story & Lore > Project Assembly](../topics/story-lore/project-assembly.md)
 
 ### Transcript

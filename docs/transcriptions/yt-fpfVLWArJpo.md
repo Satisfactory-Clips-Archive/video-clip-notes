@@ -9,6 +9,8 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Are you going to add more spoken languages to the game?
 https://www.youtube.com/watch?v=fpfVLWArJpo
+This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: What about voice language support for ADA? [https://www.youtube.com/watch?v=kQW8lEkmYH8](https://www.youtube.com/watch?v=kQW8lEkmYH8)
+
 
 ### Topics
 * [Localisation](../topics/localisation.md)

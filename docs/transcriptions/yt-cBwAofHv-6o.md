@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: The Ratio Splitter?
 https://www.youtube.com/watch?v=cBwAofHv-6o
-This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: Why can't we have custom ratio Splitters?](./yt-ripT8MydIjo.md) [https://www.youtube.com/watch?v=ripT8MydIjo](https://www.youtube.com/watch?v=ripT8MydIjo)
+This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Can we please make Programmable Splitter ratio outputs? [https://www.youtube.com/watch?v=ZxdCngTCah4](https://www.youtube.com/watch?v=ZxdCngTCah4)
 
 
 ### Topics
