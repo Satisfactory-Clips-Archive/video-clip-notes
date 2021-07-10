@@ -1,5 +1,6 @@
 ---
 title: "Biomes"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoD25ogJ2FI5QrNv6DMLSO_
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Biomes

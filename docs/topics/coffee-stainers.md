@@ -1,5 +1,6 @@
 ---
 title: "Coffee Stainers"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq19o51RGWKNiq8qu2KySZJ
 date: Last Modified
 ---
 # [Topics](../topics.md) > Coffee Stainers

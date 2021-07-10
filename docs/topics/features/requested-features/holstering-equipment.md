@@ -1,5 +1,6 @@
 ---
 title: "Holstering Equipment"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpQHQYvzPxQNBl2NvsugIO0
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Holstering Equipment

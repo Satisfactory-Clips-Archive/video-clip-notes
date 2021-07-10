@@ -1,5 +1,6 @@
 ---
 title: "Lizard Doggo"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpeue2wFBDqf_qrb1h1Fvgs
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo

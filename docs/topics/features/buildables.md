@@ -1,5 +1,6 @@
 ---
 title: "Buildables"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp9DQ8xVeTCFqcFSLB_9tJj
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Buildables

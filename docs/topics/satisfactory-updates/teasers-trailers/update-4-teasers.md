@@ -1,5 +1,6 @@
 ---
 title: "Update 4 Teasers"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq5RG94oLoX2Uh2s1qdO7pT
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 4 Teasers

@@ -1,5 +1,6 @@
 ---
 title: "Global Build Grid"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr68wcM_BJQsE35xXzjmwqX
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Global Build Grid

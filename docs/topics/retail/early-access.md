@@ -1,5 +1,6 @@
 ---
 title: "Early Access"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpMIxj6CKI55n7fF0PTReng
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Early Access

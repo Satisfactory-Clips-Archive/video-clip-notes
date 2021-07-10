@@ -1,5 +1,6 @@
 ---
 title: "Assembler"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErjDwRaqXFiQTvINaWCY2Ne
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Assembler

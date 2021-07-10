@@ -1,5 +1,6 @@
 ---
 title: "Joshie"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEps-bmHeQJHnTRQ-AsP3YfL
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Joshie

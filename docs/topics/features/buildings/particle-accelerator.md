@@ -1,5 +1,6 @@
 ---
 title: "Particle Accelerator"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoxTyK_HelUP2U9cdXFgVK6
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Particle Accelerator

@@ -1,5 +1,6 @@
 ---
 title: "GeForce Now"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEogLaUpHfzYrDFWtqkpZ-Fw
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > GeForce Now

@@ -1,5 +1,6 @@
 ---
 title: "Satisfactory 2017"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp3nVij0OnuqpiuBFlKDB-K
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory 2017

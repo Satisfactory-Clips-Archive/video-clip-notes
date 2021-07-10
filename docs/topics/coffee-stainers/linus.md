@@ -1,5 +1,6 @@
 ---
 title: "Linus"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErLIqP7klFJBCBImVRLTrqD
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Linus

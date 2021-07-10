@@ -1,5 +1,6 @@
 ---
 title: "Miner"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoIpaioyzE9nqrU_5CxfkUC
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner

@@ -1,5 +1,6 @@
 ---
 title: "Caterina Parks"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqHIuDkJqcpobQ_z7NknHVJ
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-lore.md) > Characters > Caterina Parks

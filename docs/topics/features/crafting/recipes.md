@@ -1,5 +1,6 @@
 ---
 title: "Recipes"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErp1tjQWToGbsDM6fsjInME
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes

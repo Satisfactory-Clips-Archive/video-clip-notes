@@ -1,5 +1,6 @@
 ---
 title: "Smerkin"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqaTHSimlEIVkVtJC8gMWrh
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Smerkin

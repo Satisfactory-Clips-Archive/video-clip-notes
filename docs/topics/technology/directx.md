@@ -1,5 +1,6 @@
 ---
 title: "DirectX"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpS1BDtD6ZonY3QdNz6g9Gj
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > DirectX

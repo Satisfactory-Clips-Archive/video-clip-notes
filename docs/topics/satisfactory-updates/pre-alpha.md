@@ -1,5 +1,6 @@
 ---
 title: "Pre-Alpha"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErefLJefhTwZ4IQWai8n8iH
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Pre-Alpha

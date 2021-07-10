@@ -1,5 +1,6 @@
 ---
 title: "Tier 2"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEotFjYXBVhIYTrMvWMYeDfw
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 2

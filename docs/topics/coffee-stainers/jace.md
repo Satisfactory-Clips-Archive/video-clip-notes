@@ -1,5 +1,6 @@
 ---
 title: "Jace"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqC9fXtj3M18h0ZeCfZ2u6I
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace

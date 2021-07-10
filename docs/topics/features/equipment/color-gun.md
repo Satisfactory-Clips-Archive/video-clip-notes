@@ -1,5 +1,6 @@
 ---
 title: "Color Gun"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpTVb0_x1OKn63RM6I9ScVq
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Color Gun

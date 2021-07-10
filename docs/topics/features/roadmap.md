@@ -1,5 +1,6 @@
 ---
 title: "Roadmap"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErnqhP4QT4xxKBYd7q9wqH5
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Roadmap

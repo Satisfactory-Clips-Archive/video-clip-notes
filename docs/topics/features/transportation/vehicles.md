@@ -1,5 +1,6 @@
 ---
 title: "Vehicles"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr97STV5beB_aCFM6jZaVDL
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Transportation > Vehicles

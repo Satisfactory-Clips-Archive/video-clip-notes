@@ -1,5 +1,6 @@
 ---
 title: "Farming"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpWd9yLFdA-rdx0uR6EJfRh
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Farming

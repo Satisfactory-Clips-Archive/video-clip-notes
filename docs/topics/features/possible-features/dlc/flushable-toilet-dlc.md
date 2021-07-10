@@ -1,5 +1,6 @@
 ---
 title: "Flushable Toilet DLC"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo6-Jsza66SWDUgX688DEh5
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC

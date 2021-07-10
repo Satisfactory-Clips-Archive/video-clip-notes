@@ -1,5 +1,6 @@
 ---
 title: "Procedural Generation"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEprHLlT4mBHmpA1Hbsdd9TV
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Procedural Generation

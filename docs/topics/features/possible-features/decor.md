@@ -1,5 +1,6 @@
 ---
 title: "Decor"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqVTlmqhbpntiX-LNPSHZqz
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor

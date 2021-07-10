@@ -1,5 +1,6 @@
 ---
 title: "Signs"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErdYb5Nn5q1dZBDC_ktf1h_
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs

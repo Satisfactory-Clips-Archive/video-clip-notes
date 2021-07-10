@@ -1,5 +1,6 @@
 ---
 title: "Vulkan"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoYcnK5o9ipaJlkK58MApga
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Vulkan

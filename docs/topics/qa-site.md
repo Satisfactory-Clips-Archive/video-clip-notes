@@ -1,5 +1,6 @@
 ---
 title: "QA Site"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqqhOELGDMQdwRCiQAo99bW
 date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site

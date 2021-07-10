@@ -1,5 +1,6 @@
 ---
 title: "Lights"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqDSLRIdyHmUlI71j458DqR
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights

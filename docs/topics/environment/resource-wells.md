@@ -1,5 +1,6 @@
 ---
 title: "Resource Wells"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo-t9KKeKOJS_Q_pVDfTt9i
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Resource Wells

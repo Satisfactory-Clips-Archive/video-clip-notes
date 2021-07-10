@@ -1,5 +1,6 @@
 ---
 title: "Conveyor Belts"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp3QMTxKRnehenCwo17MuJy
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts

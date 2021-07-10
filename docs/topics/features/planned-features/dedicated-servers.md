@@ -1,5 +1,6 @@
 ---
 title: "Dedicated Servers"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErU4o7RRN4bcc2H_F-wO-dl
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers

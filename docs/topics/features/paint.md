@@ -1,5 +1,6 @@
 ---
 title: "Paint"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoUH4kdC1Vuc8zUrwXyfmUB
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Paint

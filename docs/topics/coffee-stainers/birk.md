@@ -1,5 +1,6 @@
 ---
 title: "Birk"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp2Wt-93hcr6HjooDor6QYr
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Birk

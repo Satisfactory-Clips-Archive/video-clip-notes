@@ -1,5 +1,6 @@
 ---
 title: "Cloud Sync"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpO7bRoOBAsKPkxnUtC0Rdp
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Save System](../../../topics/features/save-system.md) > Cloud Sync

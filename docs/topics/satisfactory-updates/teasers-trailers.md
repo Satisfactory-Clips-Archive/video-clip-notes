@@ -1,5 +1,6 @@
 ---
 title: "Teasers & Trailers"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp-sFymxlcEagoTYEPciGUc
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Teasers & Trailers

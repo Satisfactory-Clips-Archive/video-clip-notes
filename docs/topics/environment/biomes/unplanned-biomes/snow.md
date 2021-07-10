@@ -1,5 +1,6 @@
 ---
 title: "Snow"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoJtf2OIfMXFmMDHaxZJBfg
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Snow

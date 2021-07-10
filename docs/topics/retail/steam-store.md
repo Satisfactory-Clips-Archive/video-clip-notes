@@ -1,5 +1,6 @@
 ---
 title: "Steam Store"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoztbnzfvEZjurwzZnL1wv4
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store

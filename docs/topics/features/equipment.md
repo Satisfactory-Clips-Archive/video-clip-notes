@@ -1,5 +1,6 @@
 ---
 title: "Equipment"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpZqJYXU-zIKp_92qIaMC3F
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Equipment

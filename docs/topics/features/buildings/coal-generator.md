@@ -1,5 +1,6 @@
 ---
 title: "Coal Generator"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr1rRsrKhfeFO8lpQ3ETpbe
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Coal Generator

@@ -1,5 +1,6 @@
 ---
 title: "Community Highlights"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo9mOjyYPzHqEmuA09FKcgd
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights

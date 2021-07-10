@@ -1,5 +1,6 @@
 ---
 title: "Tier 6"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp40Wz_gOPUUxdAb9fDf9QG
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 6

@@ -1,5 +1,6 @@
 ---
 title: "Satisfactory Alpha"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoe5rHqE8w9OpWENlICvWKD
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Alpha

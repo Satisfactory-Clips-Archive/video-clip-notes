@@ -1,5 +1,6 @@
 ---
 title: "Tier 0"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEquIZfkx9IHxCSgbaA1JK7r
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 0

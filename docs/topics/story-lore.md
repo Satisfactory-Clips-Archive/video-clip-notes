@@ -1,5 +1,6 @@
 ---
 title: "Story & Lore"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqVFI-QzAYCAwlivLcFxa61
 date: Last Modified
 ---
 # [Topics](../topics.md) > Story & Lore

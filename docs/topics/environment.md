@@ -1,5 +1,6 @@
 ---
 title: "Environment"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpb71JNThWu5nEdgz8LNUFL
 date: Last Modified
 ---
 # [Topics](../topics.md) > Environment

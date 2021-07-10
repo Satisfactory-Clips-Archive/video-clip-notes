@@ -1,5 +1,6 @@
 ---
 title: "Trains"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEosbWcrHc-p6N-xeS77Rv5P
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Transportation > Trains

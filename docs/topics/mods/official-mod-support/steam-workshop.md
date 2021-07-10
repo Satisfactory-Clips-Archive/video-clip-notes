@@ -1,5 +1,6 @@
 ---
 title: "Steam Workshop"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEopIEcpam21k5zDe3w-I0oA
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Mods](../../../topics/mods.md) > [Official Mod Support](../../../topics/mods/official-mod-support.md) > Steam Workshop

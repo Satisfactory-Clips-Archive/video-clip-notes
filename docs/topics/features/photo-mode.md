@@ -1,5 +1,6 @@
 ---
 title: "Photo Mode"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr_y5FuYy4mEW7F87dLs1ve
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Photo Mode

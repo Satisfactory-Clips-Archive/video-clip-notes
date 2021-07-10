@@ -1,5 +1,6 @@
 ---
 title: "Satisfactory Update 4"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpH9vCWSguzYfXrsjagXgyE
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4

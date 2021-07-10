@@ -1,5 +1,6 @@
 ---
 title: "Fuel"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErkd_Mfx2t-MUAbsERuK3fd
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Fuel

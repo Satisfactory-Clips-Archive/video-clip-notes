@@ -1,5 +1,6 @@
 ---
 title: "Dylan"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErQ8_2rnJ749i4017On9Ss3
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Dylan

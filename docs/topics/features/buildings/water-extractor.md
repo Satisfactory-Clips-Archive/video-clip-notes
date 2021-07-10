@@ -1,5 +1,6 @@
 ---
 title: "Water Extractor"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqV3H-fkFZVMqPZZ8M-Sexh
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Water Extractor

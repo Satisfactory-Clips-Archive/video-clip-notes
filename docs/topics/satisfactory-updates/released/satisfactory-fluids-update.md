@@ -1,5 +1,6 @@
 ---
 title: "Satisfactory Fluids Update"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq_0QTxH7_C0c8quZsI1uMu
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Fluids Update

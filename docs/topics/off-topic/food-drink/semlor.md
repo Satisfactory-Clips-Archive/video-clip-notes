@@ -1,5 +1,6 @@
 ---
 title: "Semlor"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq-TyD3B3FYRk-YaTyPt7_k
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-drink.md) > Semlor

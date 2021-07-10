@@ -1,5 +1,6 @@
 ---
 title: "Coffee"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoAocvkqdiufABlldkC0MiI
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-drink.md) > Coffee

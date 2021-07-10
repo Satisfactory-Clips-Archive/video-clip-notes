@@ -1,5 +1,6 @@
 ---
 title: "Ultrawide Monitors"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErwuxp-AwGwlUCua_gQh6QU
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > Ultrawide Monitors

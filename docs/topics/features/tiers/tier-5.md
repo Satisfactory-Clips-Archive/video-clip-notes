@@ -1,5 +1,6 @@
 ---
 title: "Tier 5"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErC6mOXeFD7RPvN8qZaju8f
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 5

@@ -1,5 +1,6 @@
 ---
 title: "Gearbox Software"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqOpJsmyxhwRVWzfYKwmIKI
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Embracer Group](../../topics/embracer-group.md) > Gearbox Software

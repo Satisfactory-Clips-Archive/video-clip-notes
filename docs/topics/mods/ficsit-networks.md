@@ -1,5 +1,6 @@
 ---
 title: "FicsIt-Networks"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqRTal-bQ-tlGQPcGhOg1UL
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > FicsIt-Networks

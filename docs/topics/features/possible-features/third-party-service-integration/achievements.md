@@ -1,5 +1,6 @@
 ---
 title: "Achievements"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErZMU9GqSYTxgx4QvM_i2hK
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Third-Party Service Integration](../../../../topics/features/possible-features/third-party-service-integration.md) > Achievements

@@ -1,5 +1,6 @@
 ---
 title: "Explorer"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoYQyB8xMKJc0fOKdwncF5o
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer

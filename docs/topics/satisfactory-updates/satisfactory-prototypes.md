@@ -1,5 +1,6 @@
 ---
 title: "Satisfactory Prototypes"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq-eP01Lynsg2Jv-wLEWQ7e
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes

@@ -1,5 +1,6 @@
 ---
 title: "Nathalie"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoYdHzkwIdOZJ_4WfDeAB-z
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Nathalie

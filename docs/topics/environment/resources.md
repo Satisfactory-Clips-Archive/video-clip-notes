@@ -1,5 +1,6 @@
 ---
 title: "Resources"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr1a23kLgbSYkwgfuD1tQao
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Resources

@@ -1,5 +1,6 @@
 ---
 title: "Pollution"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErB8M3t_-CDtAh-q9TXdooO
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Pollution

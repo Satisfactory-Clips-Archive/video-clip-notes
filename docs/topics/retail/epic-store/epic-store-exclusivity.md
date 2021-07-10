@@ -1,5 +1,6 @@
 ---
 title: "Epic Store Exclusivity"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEofikmXnRJhU7m4yhEZfPhH
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Retail](../../../topics/retail.md) > [Epic Store](../../../topics/retail/epic-store.md) > Epic Store Exclusivity

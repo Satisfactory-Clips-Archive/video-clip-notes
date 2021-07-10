@@ -1,5 +1,6 @@
 ---
 title: "Goat Simulator"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo8-KZTgxIJ71UXOd1d9Vn9
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator

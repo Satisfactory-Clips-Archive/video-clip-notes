@@ -1,5 +1,6 @@
 ---
 title: "Technology"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpklAd6_lSkks24tB-19K-w
 date: Last Modified
 ---
 # [Topics](../topics.md) > Technology

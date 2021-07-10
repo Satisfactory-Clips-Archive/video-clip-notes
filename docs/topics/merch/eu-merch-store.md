@@ -1,5 +1,6 @@
 ---
 title: "EU Merch Store"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEorrhm28SKQy37Zdc9gfiMr
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Merch](../../topics/merch.md) > EU Merch Store

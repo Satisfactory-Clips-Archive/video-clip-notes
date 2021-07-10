@@ -1,5 +1,6 @@
 ---
 title: "Space Giraffe-Tick-Penguin-Whale Thing"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErDOgZMrAyAUG1I0PWgMobn
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing

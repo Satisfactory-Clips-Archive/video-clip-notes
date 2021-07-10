@@ -1,5 +1,6 @@
 ---
 title: "Tier 9"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp4Qe-sQjkMStIywC-iIGDR
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 9

@@ -1,5 +1,6 @@
 ---
 title: "Superposition Oscillator"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErkd_71h9F1jHbOJBnku5mI
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Superposition Oscillator

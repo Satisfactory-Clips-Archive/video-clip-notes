@@ -1,5 +1,6 @@
 ---
 title: "Aerial Travel"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoi-oa-SAwEGKc4YFrkMVvd
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel

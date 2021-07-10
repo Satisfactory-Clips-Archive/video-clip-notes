@@ -1,5 +1,6 @@
 ---
 title: "Trolling"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoXyQTLOJbkWv8yo-nzAsSH
 date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling

@@ -1,5 +1,6 @@
 ---
 title: "Grass Fields"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoOlTxmOqYZ2ZkyD1dtpyz5
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Grass Fields

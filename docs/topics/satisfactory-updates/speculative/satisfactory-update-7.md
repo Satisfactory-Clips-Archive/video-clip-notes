@@ -1,5 +1,6 @@
 ---
 title: "Satisfactory Update 7"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq99AIuldrDf7WJJpvEtkEO
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 7

@@ -1,5 +1,6 @@
 ---
 title: "Kristoffer"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqV2RcUFiWJFx2JzyJMRdNX
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Kristoffer

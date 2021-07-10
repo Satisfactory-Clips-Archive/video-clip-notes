@@ -1,5 +1,6 @@
 ---
 title: "Milk"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpAdZpi9bywSwC-YRlCfSq4
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-drink.md) > Milk

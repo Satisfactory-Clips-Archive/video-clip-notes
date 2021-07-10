@@ -1,5 +1,6 @@
 ---
 title: "Green Energy"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoxt-MkPSDtxi9DBMOneqyT
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Green Energy

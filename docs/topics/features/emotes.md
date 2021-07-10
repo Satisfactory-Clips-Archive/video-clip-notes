@@ -1,5 +1,6 @@
 ---
 title: "Emotes"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqjQuyYsNElrE2MqzMywC4c
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Emotes

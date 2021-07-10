@@ -1,5 +1,6 @@
 ---
 title: "Community"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqKQQAwFUt5ePvF0mAGeQeB
 date: Last Modified
 ---
 # [Topics](../topics.md) > Community

@@ -1,5 +1,6 @@
 ---
 title: "Resource Well Pressurizer"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEosnfIbQBLgkkxOx-UNe6t8
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Resource Well Pressurizer

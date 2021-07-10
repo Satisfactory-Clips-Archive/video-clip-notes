@@ -1,5 +1,6 @@
 ---
 title: "Gas Mask"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqQq_lP1_OYqhjcEng5hkOx
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Gas Mask

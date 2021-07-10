@@ -1,5 +1,6 @@
 ---
 title: "Tier 4"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEroI7PiwagLCfedWDhcakIN
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 4

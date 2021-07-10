@@ -1,5 +1,6 @@
 ---
 title: "Power Management"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqbVv5qFvJ7SDFemhz9imET
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Power Management

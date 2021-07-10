@@ -1,5 +1,6 @@
 ---
 title: "Holograms"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqy8rMgGZL8AmMomES_Hzf8
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Holograms

@@ -1,5 +1,6 @@
 ---
 title: "Physics"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoXhNOpIRZfGPOUVxgPQFBa
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics

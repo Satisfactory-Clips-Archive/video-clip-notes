@@ -1,5 +1,6 @@
 ---
 title: "Walkways"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoBmj-QZNgr4liNREljxxSr
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walkways

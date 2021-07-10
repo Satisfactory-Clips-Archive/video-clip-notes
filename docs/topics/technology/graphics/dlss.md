@@ -1,5 +1,6 @@
 ---
 title: "DLSS"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqY1dlDDnwf4Fo9Z9l7YtM4
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > DLSS

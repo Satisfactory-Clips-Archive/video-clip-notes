@@ -1,5 +1,6 @@
 ---
 title: "Update 3 Patch Notes Video"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoJKFR8oveQqco9GX9ct3MJ
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 3 Patch Notes Video

@@ -1,5 +1,6 @@
 ---
 title: "Storage Containers"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErau2lNl-y0Uv9FHhiZc6Pl
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Storage Containers

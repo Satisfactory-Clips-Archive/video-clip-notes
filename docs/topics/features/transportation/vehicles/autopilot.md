@@ -1,5 +1,6 @@
 ---
 title: "Autopilot"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqPm28aPUU6rg5QQLbrnpRy
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Autopilot

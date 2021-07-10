@@ -1,5 +1,6 @@
 ---
 title: "Creatures"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpED5R4C4489wyekiGkNVe2
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Creatures

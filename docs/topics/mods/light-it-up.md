@@ -1,5 +1,6 @@
 ---
 title: "Light It Up"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpmM6BAdgD_uXd_IcsFZ75Y
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Light It Up

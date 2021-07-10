@@ -1,5 +1,6 @@
 ---
 title: "Seasonal Events"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErq1cTFe-14F7UISclc1uc-
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events

@@ -1,5 +1,6 @@
 ---
 title: "Valheim"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErFYB5etMa4dBURmJ9kDAH-
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim

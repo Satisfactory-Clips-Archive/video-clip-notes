@@ -1,5 +1,6 @@
 ---
 title: "Concept Art"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErfSRFGVD72KG2FQQkUqXOf
 date: Last Modified
 ---
 # [Topics](../topics.md) > Concept Art

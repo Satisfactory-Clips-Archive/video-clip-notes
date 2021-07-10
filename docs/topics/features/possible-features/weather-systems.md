@@ -1,5 +1,6 @@
 ---
 title: "Weather Systems"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEovsoSQPihKXk6g7ttQ95sI
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Weather Systems

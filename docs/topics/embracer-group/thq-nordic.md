@@ -1,5 +1,6 @@
 ---
 title: "THQ Nordic"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoAITjLL1cZSEVM6EPXPKyu
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Embracer Group](../../topics/embracer-group.md) > THQ Nordic

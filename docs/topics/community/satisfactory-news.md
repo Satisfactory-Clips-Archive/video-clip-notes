@@ -1,5 +1,6 @@
 ---
 title: "Satisfactory News"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr245KxK6CPHEThfipuYc3R
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Satisfactory News

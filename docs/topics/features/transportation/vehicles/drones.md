@@ -1,5 +1,6 @@
 ---
 title: "Drones"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqV2AcIJNb7Y3TkYLQ3Bif-
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones

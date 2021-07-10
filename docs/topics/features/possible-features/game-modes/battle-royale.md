@@ -1,5 +1,6 @@
 ---
 title: "Battle Royale"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoPhqRIy60XVEui9X3o6p0S
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Battle Royale

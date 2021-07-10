@@ -1,5 +1,6 @@
 ---
 title: "Mass Building"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr4RIwd7JK5NWkjYLh0-Wg1
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Mass Building

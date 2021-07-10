@@ -1,5 +1,6 @@
 ---
 title: "Rifle"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq4mhfpNDUXpX3dVhF5Vnmw
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Rifle

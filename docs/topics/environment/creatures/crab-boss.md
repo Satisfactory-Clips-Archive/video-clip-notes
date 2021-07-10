@@ -1,5 +1,6 @@
 ---
 title: "Crab Boss"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpWutLTcipkGc48H1VdSe2K
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss

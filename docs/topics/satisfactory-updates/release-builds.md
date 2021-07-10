@@ -1,5 +1,6 @@
 ---
 title: "Release Builds"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqrvp3UlLgVHZbY9Yb045zj
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds

@@ -1,5 +1,6 @@
 ---
 title: "Steam Release"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqZex4vbgYkVTsT4vBy6ycE
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Retail](../../../topics/retail.md) > [Steam Store](../../../topics/retail/steam-store.md) > Steam Release

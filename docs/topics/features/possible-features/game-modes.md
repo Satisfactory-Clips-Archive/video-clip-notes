@@ -1,5 +1,6 @@
 ---
 title: "Game Modes"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEralVcWNAwdbnP_tRGbAhFx
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Game Modes

@@ -1,5 +1,6 @@
 ---
 title: "Alex"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq_Sp5_CYEUpa-kgDN5m6Tf
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Alex

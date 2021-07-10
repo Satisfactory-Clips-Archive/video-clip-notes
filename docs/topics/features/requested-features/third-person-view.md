@@ -1,5 +1,6 @@
 ---
 title: "Third-person View"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqY7gI4bEGW0mH9AWoFv7P6
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Third-person View

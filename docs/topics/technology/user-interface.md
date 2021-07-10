@@ -1,5 +1,6 @@
 ---
 title: "User Interface"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErigMS9awrudaD0lSjyUN13
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface

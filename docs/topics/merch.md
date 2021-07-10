@@ -1,5 +1,6 @@
 ---
 title: "Merch"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq2OZ-yqQbL6M59gbwAL5ia
 date: Last Modified
 ---
 # [Topics](../topics.md) > Merch

@@ -1,5 +1,6 @@
 ---
 title: "Simon"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo6wrqcweq2pi9HmfRJdkME
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Simon

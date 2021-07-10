@@ -1,5 +1,6 @@
 ---
 title: "Modular Build"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErIs7tyigBsVwTUg4hsKvx1
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Modular Build

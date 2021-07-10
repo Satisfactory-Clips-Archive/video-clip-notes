@@ -1,5 +1,6 @@
 ---
 title: "S.A.M. Ore"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp8wlgAM7rcgGivq1zvs1Do
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore

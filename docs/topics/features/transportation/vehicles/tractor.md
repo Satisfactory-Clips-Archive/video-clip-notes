@@ -1,5 +1,6 @@
 ---
 title: "Tractor"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqfDAWTcOyXdQBpZx1oiEim
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Tractor

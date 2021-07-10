@@ -1,5 +1,6 @@
 ---
 title: "Geothermal Energy"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq5jpYwmYkaBeX-9e9HSPYf
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Geothermal Energy

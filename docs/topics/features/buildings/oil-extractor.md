@@ -1,5 +1,6 @@
 ---
 title: "Oil Extractor"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoUp0wJsZwKk1B0FacoYg-T
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Oil Extractor

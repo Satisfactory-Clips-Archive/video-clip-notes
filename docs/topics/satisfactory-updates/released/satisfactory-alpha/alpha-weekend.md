@@ -1,5 +1,6 @@
 ---
 title: "Alpha Weekend"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErt_GKKuC2z1kLZfTg1-ior
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Satisfactory Updates](../../../../topics/satisfactory-updates.md) > Released > [Satisfactory Alpha](../../../../topics/satisfactory-updates/released/satisfactory-alpha.md) > Alpha Weekend

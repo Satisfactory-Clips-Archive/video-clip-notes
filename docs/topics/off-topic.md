@@ -1,5 +1,6 @@
 ---
 title: "Off-Topic"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoWhSmy95t6DChdWdZluWLu
 date: Last Modified
 ---
 # [Topics](../topics.md) > Off-Topic

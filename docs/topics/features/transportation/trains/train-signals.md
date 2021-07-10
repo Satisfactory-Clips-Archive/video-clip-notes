@@ -1,5 +1,6 @@
 ---
 title: "Train Signals"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErrg7lK40K9vEj_Jl2dS1hd
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals

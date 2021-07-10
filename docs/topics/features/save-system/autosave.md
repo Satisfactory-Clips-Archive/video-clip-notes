@@ -1,5 +1,6 @@
 ---
 title: "Autosave"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErz2wvc36rgBLUdiLdLIQdb
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Save System](../../../topics/features/save-system.md) > Autosave

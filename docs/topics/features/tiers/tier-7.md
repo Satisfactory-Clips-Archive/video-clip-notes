@@ -1,5 +1,6 @@
 ---
 title: "Tier 7"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqZ6jA6KOjykO3SA7o4k5NL
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 7

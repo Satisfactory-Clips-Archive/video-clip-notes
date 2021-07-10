@@ -1,5 +1,6 @@
 ---
 title: "Arachnophobia Mode"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr8-tKvQxrwXxCKw4R5_PoP
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode

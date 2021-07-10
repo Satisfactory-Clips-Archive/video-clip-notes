@@ -1,5 +1,6 @@
 ---
 title: "Console Release"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoiskJRYH3hrAA192_4QTQ_
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Console Release

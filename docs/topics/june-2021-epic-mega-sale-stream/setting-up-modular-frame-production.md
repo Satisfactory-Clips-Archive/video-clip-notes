@@ -1,5 +1,6 @@
 ---
 title: "Setting up Modular Frame production"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErkUXKPTQ6N5HfY2SOgKGQg
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [June 2021 Epic Mega Sale Stream](../../topics/june-2021-epic-mega-sale-stream.md) > Setting up Modular Frame production

@@ -1,5 +1,6 @@
 ---
 title: "Setting up a Coal Generator"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErB5o0Ng2yayZnaugDJX4BM
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [June 2021 Epic Mega Sale Stream](../../topics/june-2021-epic-mega-sale-stream.md) > Setting up a Coal Generator

@@ -1,5 +1,6 @@
 ---
 title: "Wiki"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErS9sKol90eUQvUOe0Bl_GI
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki

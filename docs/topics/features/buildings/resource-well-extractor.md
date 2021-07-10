@@ -1,5 +1,6 @@
 ---
 title: "Resource Well Extractor"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr_8eU2Hmzfvu1fyz46917f
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Resource Well Extractor

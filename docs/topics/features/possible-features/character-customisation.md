@@ -1,5 +1,6 @@
 ---
 title: "Character Customisation"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErakQW-p-n78uCwn21Irv7v
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Character Customisation

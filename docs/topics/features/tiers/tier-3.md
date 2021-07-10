@@ -1,5 +1,6 @@
 ---
 title: "Tier 3"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqY2nvhibREOqsw2uQ7lXJV
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 3

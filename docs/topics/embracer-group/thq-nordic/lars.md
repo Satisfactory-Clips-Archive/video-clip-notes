@@ -1,5 +1,6 @@
 ---
 title: "Lars"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoqFaAHiwnkN6nPi2T2LPzi
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > [THQ Nordic](../../../topics/embracer-group/thq-nordic.md) > Lars

@@ -1,5 +1,6 @@
 ---
 title: "Peaceful Mode"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpP_8-58Z-qL-wqL5BQGgNl
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Peaceful Mode

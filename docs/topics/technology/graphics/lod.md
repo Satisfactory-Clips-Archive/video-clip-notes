@@ -1,5 +1,6 @@
 ---
 title: "LOD"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErGWyROgM1QN46mY7Am9SgY
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > LOD

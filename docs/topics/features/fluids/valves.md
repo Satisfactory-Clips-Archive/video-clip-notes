@@ -1,5 +1,6 @@
 ---
 title: "Valves"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEomyjHFvEis2-_puqS6kLbl
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Valves

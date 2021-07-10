@@ -1,5 +1,6 @@
 ---
 title: "Analytics"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoLg1lGISuIdkOC1u2PuiCe
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Analytics

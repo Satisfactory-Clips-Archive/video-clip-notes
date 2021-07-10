@@ -1,5 +1,6 @@
 ---
 title: "Satisfactory Update 5"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEov1pe4Y3Fr8AFfJuu7jIR6
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5

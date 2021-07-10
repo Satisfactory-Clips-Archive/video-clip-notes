@@ -1,5 +1,6 @@
 ---
 title: "Truck"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqrupg1p4jryyE_AvpWTWzF
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck

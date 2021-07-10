@@ -1,5 +1,6 @@
 ---
 title: "Uzu"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqe6yJj8TvkF6VxhLGiah3b
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Uzu

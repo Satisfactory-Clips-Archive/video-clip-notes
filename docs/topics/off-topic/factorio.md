@@ -1,5 +1,6 @@
 ---
 title: "Factorio"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpZz_Py2KcHNItA7jY1nTrB
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio

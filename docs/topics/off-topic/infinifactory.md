@@ -1,5 +1,6 @@
 ---
 title: "Infinifactory"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErs1LeFED3Y0pNoUtFtZHNu
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Infinifactory

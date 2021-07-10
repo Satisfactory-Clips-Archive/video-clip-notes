@@ -1,5 +1,6 @@
 ---
 title: "Overclocking & Underclocking"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErcP0g2Ihv6H7ZJUVB8sOqH
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking

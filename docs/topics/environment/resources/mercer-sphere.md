@@ -1,5 +1,6 @@
 ---
 title: "Mercer Sphere"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEob8i8BnGXs3MaviNDLKxQ5
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere

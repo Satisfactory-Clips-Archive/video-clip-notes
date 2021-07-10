@@ -1,5 +1,6 @@
 ---
 title: "Sanctum"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp9qgkHSjAgFlLTm5-ZWSQD
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum

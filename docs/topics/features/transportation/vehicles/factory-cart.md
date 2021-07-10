@@ -1,5 +1,6 @@
 ---
 title: "Factory Cart"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEolepny6NyMIt3ItHySMb-x
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Factory Cart

@@ -1,5 +1,6 @@
 ---
 title: "World Map"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErqg0B590-PblxF9Yu5aGnR
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map

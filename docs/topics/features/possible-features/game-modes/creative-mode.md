@@ -1,5 +1,6 @@
 ---
 title: "Creative Mode"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpI_eZ6JseCdaLBHV5IokQ1
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Creative Mode

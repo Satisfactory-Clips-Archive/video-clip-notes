@@ -1,5 +1,6 @@
 ---
 title: "Base Defense"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqp_c5jfKfMjjFOjbTAWrFE
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense

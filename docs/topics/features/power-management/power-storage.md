@@ -1,5 +1,6 @@
 ---
 title: "Power Storage"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErp1LdzC2TRke-xZQJTc3m5
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Storage

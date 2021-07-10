@@ -1,5 +1,6 @@
 ---
 title: "Plants"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq1P6bQ-17tMjKuFJyxcfSU
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants

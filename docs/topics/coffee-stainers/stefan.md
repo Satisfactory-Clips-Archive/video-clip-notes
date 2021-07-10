@@ -1,5 +1,6 @@
 ---
 title: "Stefan"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEovRzGRSnxOCvPCJODjbey_
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Stefan

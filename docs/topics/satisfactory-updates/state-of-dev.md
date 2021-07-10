@@ -1,5 +1,6 @@
 ---
 title: "State of Dev"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo8RlgfifC8OhLmJl8SgpJE
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev

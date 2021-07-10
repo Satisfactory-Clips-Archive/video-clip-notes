@@ -1,5 +1,6 @@
 ---
 title: "Blastroid"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErIOO8TJyFU5Z1Snw8Ze7-O
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Blastroid

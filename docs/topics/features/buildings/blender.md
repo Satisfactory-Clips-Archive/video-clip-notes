@@ -1,5 +1,6 @@
 ---
 title: "Blender"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqVBjXPO21-ZkvLV76plSGV
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Blender

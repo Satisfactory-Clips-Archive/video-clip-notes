@@ -1,5 +1,6 @@
 ---
 title: "Tiers"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqOZ_KZZ80tAfzJmF5RNakK
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Tiers

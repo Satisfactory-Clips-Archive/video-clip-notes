@@ -1,5 +1,6 @@
 ---
 title: "The Cycle"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp0LTS_gLsiacb7JQimuAra
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > The Cycle

@@ -1,5 +1,6 @@
 ---
 title: "AWESOME Sink"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoavILe5ochrdZT10xLLyV9
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink

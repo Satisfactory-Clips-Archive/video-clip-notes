@@ -1,5 +1,6 @@
 ---
 title: "Cup"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo53bRP06aC5lXPWjSx84Cx
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Cup

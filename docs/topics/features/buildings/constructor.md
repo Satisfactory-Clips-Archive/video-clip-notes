@@ -1,5 +1,6 @@
 ---
 title: "Constructor"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqRDaqJAxsDu8ejfRc_h1fn
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Constructor

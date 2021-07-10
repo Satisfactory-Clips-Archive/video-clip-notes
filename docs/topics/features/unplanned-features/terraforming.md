@@ -1,5 +1,6 @@
 ---
 title: "Terraforming"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo_Z7JjldxMswBGTxOI9cDH
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Terraforming

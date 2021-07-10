@@ -1,5 +1,6 @@
 ---
 title: "Tom"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErx_HMSb_4tVLA_MBo9bphw
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Tom

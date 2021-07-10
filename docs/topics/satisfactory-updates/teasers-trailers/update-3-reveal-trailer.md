@@ -1,5 +1,6 @@
 ---
 title: "Update 3 Reveal Trailer"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpQ6aOWoeKjQHAvB5VZAJsj
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 3 Reveal Trailer

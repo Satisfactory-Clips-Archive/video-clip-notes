@@ -1,5 +1,6 @@
 ---
 title: "Baine"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoN8SCD5zn_8BK5d2HV34sw
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Baine

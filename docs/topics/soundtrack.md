@@ -1,5 +1,6 @@
 ---
 title: "Soundtrack"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErTu2VvA2vgW-Iy2hMXtRkM
 date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack

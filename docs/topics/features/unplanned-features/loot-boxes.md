@@ -1,5 +1,6 @@
 ---
 title: "Loot Boxes"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqv3IjSWWO1kTyDloN8abwF
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Loot Boxes

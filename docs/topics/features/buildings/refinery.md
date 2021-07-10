@@ -1,5 +1,6 @@
 ---
 title: "Refinery"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErPq-K_XJmklK3wFLBycvVr
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Refinery

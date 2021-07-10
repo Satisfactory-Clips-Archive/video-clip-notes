@@ -1,5 +1,6 @@
 ---
 title: "Space Exploration"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpT_HG6yiXztZ5oNXPOutgR
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Space Exploration

@@ -1,5 +1,6 @@
 ---
 title: "Chainsaw"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqIkJnV32EKANow9vvvZtgO
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Chainsaw

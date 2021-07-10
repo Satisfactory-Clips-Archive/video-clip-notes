@@ -1,5 +1,6 @@
 ---
 title: "Update 4 Launch Stream"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEooFFzttwXeeagqJmJRQi_V
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 4 Launch Stream

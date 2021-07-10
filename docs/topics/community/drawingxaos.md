@@ -1,5 +1,6 @@
 ---
 title: "DrawingXaos"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErKnSCIxjj74FJZ_655tJXK
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > DrawingXaos

@@ -1,5 +1,6 @@
 ---
 title: "Spire Coast"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoGfsgeuz9AkG6fxwj9EHJz
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast

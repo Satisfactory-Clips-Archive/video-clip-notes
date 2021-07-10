@@ -1,5 +1,6 @@
 ---
 title: "Snutt Burger Time"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpQNWBETWpyzpgjN3Q6bHnj
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Snutt](../../../topics/coffee-stainers/snutt.md) > Snutt Burger Time

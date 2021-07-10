@@ -1,5 +1,6 @@
 ---
 title: "Elevators"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqGt2sjZVdmGPpirMrXcDkA
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Elevators

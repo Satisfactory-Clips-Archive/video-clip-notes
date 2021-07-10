@@ -1,5 +1,6 @@
 ---
 title: "Factory Maintenance"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq6PNjgFFfdxBwNkW0KOJeI
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Factory Maintenance

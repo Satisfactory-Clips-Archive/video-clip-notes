@@ -1,5 +1,6 @@
 ---
 title: "Panakotta"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErkymYcX3dP0NvEKzXeYON8
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Panakotta

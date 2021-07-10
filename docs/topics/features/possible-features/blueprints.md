@@ -1,5 +1,6 @@
 ---
 title: "Blueprints"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpUuYgu0-pxFGsbN2YXpbOP
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Blueprints

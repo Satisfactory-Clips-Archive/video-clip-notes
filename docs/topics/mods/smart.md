@@ -1,5 +1,6 @@
 ---
 title: "Smart!"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEruD11x_g9qPkDYlsRkEYNz
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Smart!

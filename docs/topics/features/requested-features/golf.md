@@ -1,5 +1,6 @@
 ---
 title: "Golf"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf

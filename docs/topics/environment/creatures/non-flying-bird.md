@@ -1,5 +1,6 @@
 ---
 title: "Non Flying Bird"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp472ylbvaGd3FDUiIP7MbR
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Non Flying Bird

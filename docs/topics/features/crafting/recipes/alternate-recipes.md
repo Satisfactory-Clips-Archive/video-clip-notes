@@ -1,5 +1,6 @@
 ---
 title: "Alternate Recipes"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqkEomU289GxvxUQx8hM_i8
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes

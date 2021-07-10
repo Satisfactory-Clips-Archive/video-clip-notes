@@ -1,5 +1,6 @@
 ---
 title: "Object Limit"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqa47-NYtnxl93i8azA089W
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Object Limit

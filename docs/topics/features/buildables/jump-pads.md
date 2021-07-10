@@ -1,5 +1,6 @@
 ---
 title: "Jump Pads"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpVKlAtlIftyOD0SUkwZuNw
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Jump Pads

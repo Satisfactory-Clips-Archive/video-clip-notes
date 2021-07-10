@@ -1,5 +1,6 @@
 ---
 title: "The HUB"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpz0p3GUy76rNNYI0kiJ0iW
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB

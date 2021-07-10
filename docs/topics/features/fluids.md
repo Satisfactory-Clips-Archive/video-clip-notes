@@ -1,5 +1,6 @@
 ---
 title: "Fluids"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEolThmLnFdhDVd_6guCwPXS
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Fluids

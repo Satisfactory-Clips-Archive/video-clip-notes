@@ -1,5 +1,6 @@
 ---
 title: "Walls"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpmT1vmxxciR96Op1TkWR8J
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls

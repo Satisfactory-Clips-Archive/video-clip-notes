@@ -1,5 +1,6 @@
 ---
 title: "Ficsit Farming"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErj1SNTDxK3-OgUFy3b9x9U
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Ficsit Farming

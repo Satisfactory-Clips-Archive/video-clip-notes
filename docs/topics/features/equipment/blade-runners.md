@@ -1,5 +1,6 @@
 ---
 title: "Blade Runners"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoxIy2QXhvKUmi6kTjM4sVS
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Blade Runners

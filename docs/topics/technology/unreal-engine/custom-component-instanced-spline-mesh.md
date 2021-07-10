@@ -1,5 +1,6 @@
 ---
 title: "Custom Component: Instanced Spline Mesh"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEopYhuGHxbk-YOT6Fyy0pU8
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Custom Component: Instanced Spline Mesh

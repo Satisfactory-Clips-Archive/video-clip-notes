@@ -1,5 +1,6 @@
 ---
 title: "Tier 1"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqKW01FG2TkgBDQO9NtmuJx
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 1

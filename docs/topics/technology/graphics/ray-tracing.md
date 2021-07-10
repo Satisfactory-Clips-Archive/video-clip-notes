@@ -1,5 +1,6 @@
 ---
 title: "Ray Tracing"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqd09Y91Qt4sfvmiIY_jN_J
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > Ray Tracing

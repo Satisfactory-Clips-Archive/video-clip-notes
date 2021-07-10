@@ -1,5 +1,6 @@
 ---
 title: "Gases"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq3TKcPLzSagH1kjcX0FieC
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Gases

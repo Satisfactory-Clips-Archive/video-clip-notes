@@ -1,5 +1,6 @@
 ---
 title: "Songs of Conquest"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqfR1MnhVFg3l7gIipzbOSD
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Songs of Conquest

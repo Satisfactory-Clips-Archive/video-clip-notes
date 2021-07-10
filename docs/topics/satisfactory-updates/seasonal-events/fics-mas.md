@@ -1,5 +1,6 @@
 ---
 title: "FICS⁕MAS"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq84iBBkP2g69rPYXD-yWMy
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS

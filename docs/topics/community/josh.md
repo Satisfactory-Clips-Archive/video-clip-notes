@@ -1,5 +1,6 @@
 ---
 title: "Josh"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEontiBSe54bXKMMdsRG7Q3_
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh

@@ -1,5 +1,6 @@
 ---
 title: "Northern Forest"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErtxu53LKc8Z8vFR13XeKfG
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Northern Forest

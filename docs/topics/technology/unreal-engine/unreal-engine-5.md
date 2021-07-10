@@ -1,5 +1,6 @@
 ---
 title: "Unreal Engine 5"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqE6cyJPicfKslpaX5zwjCq
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Unreal Engine 5

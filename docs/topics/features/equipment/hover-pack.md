@@ -1,5 +1,6 @@
 ---
 title: "Hover Pack"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoJXfr9MUsQgAjnRHJrZJWM
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Hover Pack

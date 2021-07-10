@@ -1,5 +1,6 @@
 ---
 title: "Giant Flying Manta"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErLM-OUYLIMpPRKrDekzBfT
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Giant Flying Manta

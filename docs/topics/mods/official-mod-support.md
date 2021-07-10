@@ -1,5 +1,6 @@
 ---
 title: "Official Mod Support"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEolhfvxFmSHBd2Ct-lyZW6N
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Official Mod Support

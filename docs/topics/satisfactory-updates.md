@@ -1,5 +1,6 @@
 ---
 title: "Satisfactory Updates"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEopEAS4gV89hOHJSasX4XUj
 date: Last Modified
 ---
 # [Topics](../topics.md) > Satisfactory Updates

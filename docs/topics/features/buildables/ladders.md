@@ -1,5 +1,6 @@
 ---
 title: "Ladders"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq2Ir2tWVfwVVZJnnYr127W
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Ladders

@@ -1,5 +1,6 @@
 ---
 title: "Simon Saga"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoJs6pgkkriityQb1BaPgnx
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Simon](../../../topics/coffee-stainers/simon.md) > Simon Saga

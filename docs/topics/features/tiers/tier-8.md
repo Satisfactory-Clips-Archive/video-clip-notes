@@ -1,5 +1,6 @@
 ---
 title: "Tier 8"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEruS8Xi3bkV9I-Hi-0E8DO7
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 8

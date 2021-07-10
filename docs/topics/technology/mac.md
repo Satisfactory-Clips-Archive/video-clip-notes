@@ -1,5 +1,6 @@
 ---
 title: "Mac"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErPmwCcdEax-8TIvyvjdlm2
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Mac

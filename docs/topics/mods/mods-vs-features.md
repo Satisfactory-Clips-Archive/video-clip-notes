@@ -1,5 +1,6 @@
 ---
 title: "Mods vs. Features"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr8o-WHAZJf8lAVaNJlbHmH
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features

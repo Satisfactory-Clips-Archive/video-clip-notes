@@ -1,5 +1,6 @@
 ---
 title: "Mods"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErABErNV8_bjXIF_CFZILeP
 date: Last Modified
 ---
 # [Topics](../topics.md) > Mods

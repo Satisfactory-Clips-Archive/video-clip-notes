@@ -1,5 +1,6 @@
 ---
 title: "Buildings"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqhhpjoy5eqGRQQGUItie6A
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Buildings

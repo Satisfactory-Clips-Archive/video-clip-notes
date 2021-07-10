@@ -1,5 +1,6 @@
 ---
 title: "Sofi"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoIWT_BxcmHV8fcZ1m38gGz
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Sofi

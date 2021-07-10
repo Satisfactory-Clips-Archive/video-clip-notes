@@ -1,5 +1,6 @@
 ---
 title: "Subnautica"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpb1WTHN6Sos7AvvW-rY_Cr
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Subnautica

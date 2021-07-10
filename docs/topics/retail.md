@@ -1,5 +1,6 @@
 ---
 title: "Retail"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoVdI8oUySvhtHrzmdqn6iT
 date: Last Modified
 ---
 # [Topics](../topics.md) > Retail

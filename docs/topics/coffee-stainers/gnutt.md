@@ -1,5 +1,6 @@
 ---
 title: "Gnutt"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEot9p9zUqcWo-SABtobaM9V
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Gnutt

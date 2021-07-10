@@ -1,5 +1,6 @@
 ---
 title: "Water"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr_iLGFpJxH-pKRn9D0qsna
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Water

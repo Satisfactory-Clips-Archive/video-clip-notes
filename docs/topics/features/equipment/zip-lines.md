@@ -1,5 +1,6 @@
 ---
 title: "Zip Lines"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr6QJ8QlJx7grzrcplzUTDt
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Zip Lines

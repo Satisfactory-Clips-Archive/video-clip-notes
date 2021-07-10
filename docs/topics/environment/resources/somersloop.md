@@ -1,5 +1,6 @@
 ---
 title: "Somersloop"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErVEFr3VZqHIAHfUd0Z7AUj
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Somersloop

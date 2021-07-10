@@ -1,5 +1,6 @@
 ---
 title: "June 2021 Epic Mega Sale Stream"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErdHt5qAosuMOe7KcAEH69N
 date: Last Modified
 ---
 # [Topics](../topics.md) > June 2021 Epic Mega Sale Stream

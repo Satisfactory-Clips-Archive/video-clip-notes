@@ -1,5 +1,6 @@
 ---
 title: "Cyber Wagon"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpeF2A25b6waQZkQA2EMlvx
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Cyber Wagon

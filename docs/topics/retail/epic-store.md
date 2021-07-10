@@ -1,5 +1,6 @@
 ---
 title: "Epic Store"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoRw9O4Lx_d3-RNK0Grlm1c
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store

@@ -1,5 +1,6 @@
 ---
 title: "Packager"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo-kXF1M3ONmu_VdZKJyQNc
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Packager

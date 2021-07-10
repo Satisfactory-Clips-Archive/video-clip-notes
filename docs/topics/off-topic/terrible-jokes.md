@@ -1,5 +1,6 @@
 ---
 title: "Terrible Jokes"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo6DXBwcUjUqDH7Mqjx5zmM
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Terrible Jokes

@@ -1,5 +1,6 @@
 ---
 title: "Cheatcrete"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqFD6h2jA0BQQ2mkp0R5joi
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Buildables](../../../../topics/features/buildables.md) > [Foundations](../../../../topics/features/buildables/foundations.md) > Cheatcrete

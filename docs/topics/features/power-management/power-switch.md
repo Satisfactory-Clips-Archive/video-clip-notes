@@ -1,5 +1,6 @@
 ---
 title: "Power Switch"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr-AG-93Qqd43nuzOUIcufC
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Switch

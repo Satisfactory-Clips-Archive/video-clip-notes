@@ -1,5 +1,6 @@
 ---
 title: "Deep Rock Galactic"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqfFrKHQh-XOvtmMN7F0Rqa
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Deep Rock Galactic

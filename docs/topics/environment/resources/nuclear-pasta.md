@@ -1,5 +1,6 @@
 ---
 title: "Nuclear Pasta"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErJj29LAC45t7vdxXY53esO
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Nuclear Pasta

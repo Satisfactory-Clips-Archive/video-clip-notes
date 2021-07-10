@@ -1,5 +1,6 @@
 ---
 title: "Kibitz"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErdRwJCqU5y5d6Hxm2lKd46
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Kibitz

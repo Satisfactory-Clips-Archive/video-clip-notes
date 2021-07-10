@@ -1,5 +1,6 @@
 ---
 title: "Biomass Burner"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqRBeGXVroVP5HrbSUxSTz6
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Biomass Burner

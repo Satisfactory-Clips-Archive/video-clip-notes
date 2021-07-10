@@ -1,5 +1,6 @@
 ---
 title: "Smelter"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqf-Zh7cNTVq_Ad6E6PgK3r
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Smelter

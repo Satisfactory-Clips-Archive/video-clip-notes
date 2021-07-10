@@ -1,5 +1,6 @@
 ---
 title: "Pioneer"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErbdgIq2TL2rTjyGvOiwC9O
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer

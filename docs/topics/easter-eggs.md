@@ -1,5 +1,6 @@
 ---
 title: "Easter Eggs"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErKLMdttPO2KvxytOZwVoII
 date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs

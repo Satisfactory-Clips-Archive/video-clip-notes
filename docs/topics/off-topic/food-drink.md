@@ -1,5 +1,6 @@
 ---
 title: "Food & Drink"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqyvBwUfe5uPRaYXnxqzV7F
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Food & Drink

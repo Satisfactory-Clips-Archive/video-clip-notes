@@ -1,5 +1,6 @@
 ---
 title: "Nuclear Energy"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqykvbeU5B1yvLZ3EI1NSC6
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Nuclear Energy

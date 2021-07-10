@@ -1,5 +1,6 @@
 ---
 title: "Sweden"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoik7dzzDmMntF6tKuv-my2
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden

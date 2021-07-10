@@ -1,5 +1,6 @@
 ---
 title: "Special Guests"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq8flVTWu6Ua5UZ9sF1Ar54
 date: Last Modified
 ---
 # [Topics](../topics.md) > Special Guests

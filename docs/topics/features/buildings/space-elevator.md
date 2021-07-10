@@ -1,5 +1,6 @@
 ---
 title: "Space Elevator"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErRO8WsKyL84ktw50L1KBD9
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator

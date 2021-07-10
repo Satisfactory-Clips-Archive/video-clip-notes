@@ -1,5 +1,6 @@
 ---
 title: "Nuclear Refinement"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq8_QoVM--eNIMMoOq1IlfE
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement

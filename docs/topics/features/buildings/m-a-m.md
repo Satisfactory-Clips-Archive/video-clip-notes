@@ -1,5 +1,6 @@
 ---
 title: "M.A.M."
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpNdRJ8p4FPF7P0Ll5YIpYV
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > M.A.M.

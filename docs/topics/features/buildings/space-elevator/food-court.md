@@ -1,5 +1,6 @@
 ---
 title: "Food Court"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErF6kzFEUGxmP_TLQUXbkxm
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Buildings](../../../../topics/features/buildings.md) > [Space Elevator](../../../../topics/features/buildings/space-elevator.md) > Food Court

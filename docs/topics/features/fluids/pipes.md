@@ -1,5 +1,6 @@
 ---
 title: "Pipes"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr5Ks1V8bqkO3qCZeI796Xk
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes

@@ -1,5 +1,6 @@
 ---
 title: "AWESOME Store"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr6Nss4Y03AxUncqfZfcu1L
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store

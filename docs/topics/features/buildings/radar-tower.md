@@ -1,5 +1,6 @@
 ---
 title: "Radar Tower"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp_OX3mKaOyTdkVijB78MU4
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Radar Tower

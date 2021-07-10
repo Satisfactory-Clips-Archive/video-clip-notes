@@ -1,5 +1,6 @@
 ---
 title: "ADA"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErZY7hh-HMSgx77BlCLUgRb
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-lore.md) > Characters > ADA

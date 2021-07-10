@@ -1,5 +1,6 @@
 ---
 title: "VR"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > VR

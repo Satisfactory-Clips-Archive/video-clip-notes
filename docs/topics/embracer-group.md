@@ -1,5 +1,6 @@
 ---
 title: "Embracer Group"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqDcbJ-gfxVZx50FGEyT-9a
 date: Last Modified
 ---
 # [Topics](../topics.md) > Embracer Group

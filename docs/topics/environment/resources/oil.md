@@ -1,5 +1,6 @@
 ---
 title: "Oil"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoqeifeAJSpwnQVcQUC0FzZ
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Oil

@@ -1,5 +1,6 @@
 ---
 title: "World Update"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqNB46ydy3DN3k5Pn2ZyHrS
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > World Update

@@ -1,5 +1,6 @@
 ---
 title: "Power Slug"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEphc1QenCFLI8cOhJF8szkh
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug

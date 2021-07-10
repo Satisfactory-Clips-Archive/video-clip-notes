@@ -1,5 +1,6 @@
 ---
 title: "Jetpack"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEogzZ5ihqFGBEDRmk9cEgAk
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Jetpack

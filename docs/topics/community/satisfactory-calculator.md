@@ -1,5 +1,6 @@
 ---
 title: "Satisfactory Calculator"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEomDrLRY8jOvB_l8DEGgrnG
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Satisfactory Calculator

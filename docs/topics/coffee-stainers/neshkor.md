@@ -1,5 +1,6 @@
 ---
 title: "Neshkor"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErSWX2noEv1twPQ9F4lRZi1
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Neshkor

@@ -1,5 +1,6 @@
 ---
 title: "Snutt"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoAqIqsBIdN_uoV-HsP8YDJ
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt

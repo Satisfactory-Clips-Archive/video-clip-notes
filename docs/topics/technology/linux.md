@@ -1,5 +1,6 @@
 ---
 title: "Linux"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEozm5BT2Qi4Mvu9uI6ga2uJ
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux

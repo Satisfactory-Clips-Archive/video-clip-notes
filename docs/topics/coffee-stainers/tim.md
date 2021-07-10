@@ -1,5 +1,6 @@
 ---
 title: "Tim"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq2kx3e7IHxW0MNZocN_pup
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Tim

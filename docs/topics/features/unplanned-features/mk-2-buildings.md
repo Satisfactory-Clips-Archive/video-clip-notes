@@ -1,5 +1,6 @@
 ---
 title: "Mk.2 Buildings"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErkR6x1_jWiiIrfVBF2fatT
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Mk.2 Buildings

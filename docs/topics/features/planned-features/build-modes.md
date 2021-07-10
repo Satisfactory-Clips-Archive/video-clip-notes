@@ -1,5 +1,6 @@
 ---
 title: "Build Modes"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErB8iPe1PpO-x4cGtPIEN24
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Build Modes

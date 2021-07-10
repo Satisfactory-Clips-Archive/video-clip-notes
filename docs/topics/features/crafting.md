@@ -1,5 +1,6 @@
 ---
 title: "Crafting"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqkzbujtsOp2ySj671M8CR3
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Crafting

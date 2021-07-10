@@ -1,5 +1,6 @@
 ---
 title: "Third-Party Service Integration"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErmYlQEEHD-GrNpRC1_6R9b
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Third-Party Service Integration

@@ -1,5 +1,6 @@
 ---
 title: "Steve"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr4KkkPWBDMJdu4Y4S3Pn7x
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-lore.md) > Characters > Steve

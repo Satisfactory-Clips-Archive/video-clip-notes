@@ -1,5 +1,6 @@
 ---
 title: "Graphics"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqkVCgSUhCfhs0up_sRMN2L
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Graphics

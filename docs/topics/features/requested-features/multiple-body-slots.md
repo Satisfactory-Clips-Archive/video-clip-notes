@@ -1,5 +1,6 @@
 ---
 title: "Multiple Body Slots"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq6HX-1Nude7wjby2B29wEt
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
