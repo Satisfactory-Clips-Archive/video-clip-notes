@@ -3,7 +3,7 @@ title: "March 9th, 2019 Livestream Q&A: What's the final objective of the game?"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-lore/project-assembly"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: What's the final objective of the game?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore > Project Assembly](../topics/story-lore/project-assembly.md)
 
 ### Transcript
 

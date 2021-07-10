@@ -3,14 +3,14 @@ title: "August 25th, 2020 Livestream Q&A: Will there be any further goals beside
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-lore/project-assembly"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will there be any further goals besides Research & Development stages?
 https://www.youtube.com/watch?v=6Tt6xgjgn7k
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore > Project Assembly](../topics/story-lore/project-assembly.md)
 
 ### Transcript
 

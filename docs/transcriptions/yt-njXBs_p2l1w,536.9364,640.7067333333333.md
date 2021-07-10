@@ -4,6 +4,7 @@ date: "2020-12-11"
 layout: transcript
 topics: 
     - "satisfactory-updates/released/satisfactory-update-4"
+    - "story-lore/project-assembly"
     - "features/buildings/space-elevator"
 ---
 # [December 11th, 2020 New Parts coming in Update 4](../2020-12-11.md)
@@ -11,6 +12,7 @@ topics:
 https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=536&end=641
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
+* [Story & Lore > Project Assembly](../topics/story-lore/project-assembly.md)
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
 
 ### Transcript

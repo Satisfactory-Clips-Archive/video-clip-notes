@@ -4,6 +4,7 @@ date: "2021-04-20"
 layout: transcript
 topics:
     - "features/buildings/space-elevator/food-court"
+    - "story-lore/project-assembly"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: How many tiers will you need to reveal what Project Assembly is?
@@ -13,6 +14,7 @@ This question was possibly duplicated with a more recent answer: [April 27th, 20
 
 ### Topics
 * [Features > Buildings > Space Elevator > Food Court](../topics/features/buildings/space-elevator/food-court.md)
+* [Story & Lore > Project Assembly](../topics/story-lore/project-assembly.md)
 
 ### Transcript
 

@@ -425,6 +425,7 @@ date: Last Modified
 * [Special Guests](./topics/special-guests.md)
 
 # [Story & Lore](./topics/story-lore.md)
+* [Project Assembly](./topics/story-lore/project-assembly.md)
 
 ## Characters
 * [ADA](./topics/story-lore/characters/ada.md)

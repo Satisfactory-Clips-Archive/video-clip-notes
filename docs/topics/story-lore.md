@@ -5,6 +5,7 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Story & Lore
 * [Characters](../topics/story-lore/characters.md)
+* [Project Assembly](../topics/story-lore/project-assembly.md)
 
 ## June 22nd, 2021 Livestream
 * [Q&A: Is the Color Gun FICSIT-approved or Pioneer made?](../transcriptions/yt-JuKondHQOso.md) [https://www.youtube.com/watch?v=JuKondHQOso](https://www.youtube.com/watch?v=JuKondHQOso)
@@ -162,7 +163,6 @@ date: Last Modified
 * [Q&A: Do you have any clue on what the alien artefacts do?](../transcriptions/yt-hRe0QvJDjsg.md) [https://www.youtube.com/watch?v=hRe0QvJDjsg](https://www.youtube.com/watch?v=hRe0QvJDjsg)
 * [Q&A: Why are there no Solar Panels ?](../transcriptions/yt-C1XaJJmvg1M.md) [https://www.youtube.com/watch?v=C1XaJJmvg1M](https://www.youtube.com/watch?v=C1XaJJmvg1M)
 * [Q&A: Will there be more narrative?](../transcriptions/yt-8Igl_hPAXPs.md) [https://www.youtube.com/watch?v=8Igl_hPAXPs](https://www.youtube.com/watch?v=8Igl_hPAXPs)
-* [Q&A: Will there be any further goals besides Research & Development stages?](../transcriptions/yt-6Tt6xgjgn7k.md) [https://www.youtube.com/watch?v=6Tt6xgjgn7k](https://www.youtube.com/watch?v=6Tt6xgjgn7k)
 * [Q&A: Is the Story a mode, or can I play with my actual save game?](../transcriptions/yt-DdGctBLngpE.md) [https://www.youtube.com/watch?v=DdGctBLngpE](https://www.youtube.com/watch?v=DdGctBLngpE)
 
 ## August 18th, 2020 Livestream
@@ -202,7 +202,6 @@ date: Last Modified
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../transcriptions/yt-Pn5tcfKmF20.md) [https://www.youtube.com/watch?v=Pn5tcfKmF20](https://www.youtube.com/watch?v=Pn5tcfKmF20)
 * [Snutt Talk: Somersloop](../transcriptions/yt-9ALpZxsfl10.md) [https://www.youtube.com/watch?v=9ALpZxsfl10](https://www.youtube.com/watch?v=9ALpZxsfl10)
 * [Q&A: What gender is the character model?](../transcriptions/yt-eoMeAy8w2Fs.md) [https://www.youtube.com/watch?v=eoMeAy8w2Fs](https://www.youtube.com/watch?v=eoMeAy8w2Fs)
-* [Q&A: What's the final objective of the game?](../transcriptions/yt-xG0mfuXiFY8.md) [https://www.youtube.com/watch?v=xG0mfuXiFY8](https://www.youtube.com/watch?v=xG0mfuXiFY8)
 
 ## February 20th, 2019 Livestream
 * [Q&A: Does the cave have anything to do with Story?](../transcriptions/yt-CB9bSigNYH8,1161.976181,1173.829446.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1161&end=1174](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1161&end=1174)
