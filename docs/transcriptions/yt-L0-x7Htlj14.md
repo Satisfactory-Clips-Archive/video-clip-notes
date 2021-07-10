@@ -9,8 +9,6 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Will Drones ever be able to carry the Pioneer?
 https://www.youtube.com/watch?v=L0-x7Htlj14
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Ride Drones?](./yt-0tHe5NBul6M.md) [https://www.youtube.com/watch?v=0tHe5NBul6M](https://www.youtube.com/watch?v=0tHe5NBul6M)
-
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as May 2021.</summary>
 
