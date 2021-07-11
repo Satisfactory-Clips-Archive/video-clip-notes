@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## July 6th, 2021 Livestream
+* Q&A: Can we please make Programmable Splitter ratio outputs? [https://www.youtube.com/watch?v=ZxdCngTCah4](https://www.youtube.com/watch?v=ZxdCngTCah4)
+* Q&A: How do Belts affect performance? [https://www.youtube.com/watch?v=0a2DgXuAy6I](https://www.youtube.com/watch?v=0a2DgXuAy6I)
+* [Q&A: Why does the game render items & Belts hidden behind walls even when they're not visible?](../../../transcriptions/yt-uO1QT1SKsZA.md) [https://www.youtube.com/watch?v=uO1QT1SKsZA](https://www.youtube.com/watch?v=uO1QT1SKsZA)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Why do Mk.3 and Mk.5 belts have weird transfer speeds?](../../../transcriptions/yt-wOqgDgyjNqk.md) [https://www.youtube.com/watch?v=wOqgDgyjNqk](https://www.youtube.com/watch?v=wOqgDgyjNqk)
 * [Q&A: Any thoughts about attaching Splitters directly to machines/Miners?](../../../transcriptions/yt-jkMcXbJhFoQ.md) [https://www.youtube.com/watch?v=jkMcXbJhFoQ](https://www.youtube.com/watch?v=jkMcXbJhFoQ)

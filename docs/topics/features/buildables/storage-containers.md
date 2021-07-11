@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## July 6th, 2021 Livestream
+* [Q&A: Is there a way to collect a bin from the bottom of the sea?](../../../transcriptions/yt-mffqiLX6liU.md) [https://www.youtube.com/watch?v=mffqiLX6liU](https://www.youtube.com/watch?v=mffqiLX6liU)
+
 ## June 1st, 2021 Livestream
 * [Snutt Talk: How the game starts](../../../transcriptions/yt-onchLhZOONY.md) [https://www.youtube.com/watch?v=onchLhZOONY](https://www.youtube.com/watch?v=onchLhZOONY)
 

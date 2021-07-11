@@ -9,6 +9,8 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Is Update 5 still shaping up to be the same size as Update 4?
 https://www.youtube.com/watch?v=i-QNHs4CWgc
+This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Will Update 5 be bigger than Update 4? [https://www.youtube.com/watch?v=3Ad-13NANOg](https://www.youtube.com/watch?v=3Ad-13NANOg)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## July 6th, 2021 Livestream
+* Snutt & Jace Talk: Trolling about copying ideas from Mods [https://www.youtube.com/watch?v=LukumNkFhzI](https://www.youtube.com/watch?v=LukumNkFhzI)
+
 ## June 29th, 2021 Livestream
 * [Community FYI: Golf has more than 600 upvotes](../transcriptions/yt-fTiVON_tW_Y.md) [https://www.youtube.com/watch?v=fTiVON_tW_Y](https://www.youtube.com/watch?v=fTiVON_tW_Y)
 * [Trolling: Dedicated Servers please](../transcriptions/yt-12HEwpNJ8zs.md) [https://www.youtube.com/watch?v=12HEwpNJ8zs](https://www.youtube.com/watch?v=12HEwpNJ8zs)
@@ -259,7 +262,7 @@ date: Last Modified
 
 ## November 23rd, 2018 Dev Blog
 * [Q&A: Are your games going to be full of Microtransactions now?](../transcriptions/yt-1UqIDp_byFc,88.32,103.98.md) [https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=88&end=104](https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=88&end=104)
-* End Tag [https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=275](https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=275)
+* [End Tag](../transcriptions/yt-1UqIDp_byFc,275.2.md) [https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=275](https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=275)
 
 ## August 1st, 2018 Q&A
 * [Q&A: How much will the game cost when it's released?](../transcriptions/yt-iFAy1NZUOGU,99.44,119.72.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=99&end=120)

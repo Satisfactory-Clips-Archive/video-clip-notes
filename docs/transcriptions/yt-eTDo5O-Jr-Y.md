@@ -9,6 +9,8 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: What games have you played that inspired Satisfactory?
 https://www.youtube.com/watch?v=eTDo5O-Jr-Y
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Are you & your colleagues looking up to some other indie games?](./yt-Wo5BV2FL0T0.md) [https://www.youtube.com/watch?v=Wo5BV2FL0T0](https://www.youtube.com/watch?v=Wo5BV2FL0T0)
+
 
 ### Topics
 * [Off-Topic > Factorio](../topics/off-topic/factorio.md)

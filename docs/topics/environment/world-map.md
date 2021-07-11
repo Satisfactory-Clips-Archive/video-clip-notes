@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## July 6th, 2021 Livestream
+* Q&A: Do you plan on doing a new Map? [https://www.youtube.com/watch?v=ZfTLZTQMWU0](https://www.youtube.com/watch?v=ZfTLZTQMWU0)
+* Q&A: Are you going to expand the playable area on the Map? [https://www.youtube.com/watch?v=gy1FELPzm2w](https://www.youtube.com/watch?v=gy1FELPzm2w)
+* [Q&A: Is there going to be a new island sometime?](../../transcriptions/yt-7FkrFPCnP1w.md) [https://www.youtube.com/watch?v=7FkrFPCnP1w](https://www.youtube.com/watch?v=7FkrFPCnP1w)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Any plans for player-generated maps?](../../transcriptions/yt-8AAgPIENmZ0.md) [https://www.youtube.com/watch?v=8AAgPIENmZ0](https://www.youtube.com/watch?v=8AAgPIENmZ0)
 * [Q&A: Do you think you'll fix being able to build under the map, or keep it because people like it?](../../transcriptions/yt-IAMN_jSQRaQ.md) [https://www.youtube.com/watch?v=IAMN_jSQRaQ](https://www.youtube.com/watch?v=IAMN_jSQRaQ)

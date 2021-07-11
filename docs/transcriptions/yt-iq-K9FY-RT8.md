@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can we get Weather to change?
 https://www.youtube.com/watch?v=iq-K9FY-RT8
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Gonna be weather changes, like rain, snow, and sand storms?](./yt-wUZr64_l6R4.md) [https://www.youtube.com/watch?v=wUZr64_l6R4](https://www.youtube.com/watch?v=wUZr64_l6R4)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Will you be adding Weather Systems?](./yt-WMMQ1b8eAvA.md) [https://www.youtube.com/watch?v=WMMQ1b8eAvA](https://www.youtube.com/watch?v=WMMQ1b8eAvA)
 
 
 ### Topics

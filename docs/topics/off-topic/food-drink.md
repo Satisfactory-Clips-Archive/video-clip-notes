@@ -9,6 +9,11 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-drink/semlor.md)
 
+## July 6th, 2021 Livestream
+* Q&A: What did Snutt have for breakfast? [https://www.youtube.com/watch?v=6nEbRCnR4yc](https://www.youtube.com/watch?v=6nEbRCnR4yc)
+* Q&A: Do you guys have time to clean 5 and a half kilos of freshly-picked strawberries? [https://www.youtube.com/watch?v=GUjo-sPcDNw](https://www.youtube.com/watch?v=GUjo-sPcDNw)
+* [Q&A: Would you choose Vodka or Tequila?](../../transcriptions/yt-Zu95lrXblrk.md) [https://www.youtube.com/watch?v=Zu95lrXblrk](https://www.youtube.com/watch?v=Zu95lrXblrk)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Is a Hot Dog a sandwich?](../../transcriptions/yt-RbQ1QpTvJi8.md) [https://www.youtube.com/watch?v=RbQ1QpTvJi8](https://www.youtube.com/watch?v=RbQ1QpTvJi8)
 * Q&A: Is cereal a soup? [https://www.youtube.com/watch?v=yUkplMNxmcM](https://www.youtube.com/watch?v=yUkplMNxmcM)

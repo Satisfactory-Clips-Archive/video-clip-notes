@@ -9,7 +9,12 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Will this be the last Update before 1.0?
 https://www.youtube.com/watch?v=DOFC8O2yXNw
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: How many Updates until 1.0? [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as March 2021 and as early as February 2021.</summary>
+
+* March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary Q&A: Update 4 is the last one? [https://www.youtube.com/watch?v=YiacwbKpDzY](https://www.youtube.com/watch?v=YiacwbKpDzY)
+* [February 9th, 2021 Livestream Q&A: Is Update 4 the last update?](./yt-3fNjN1FjhPU.md) [https://www.youtube.com/watch?v=3fNjN1FjhPU](https://www.youtube.com/watch?v=3fNjN1FjhPU)
+</details>
 
 
 ### Topics

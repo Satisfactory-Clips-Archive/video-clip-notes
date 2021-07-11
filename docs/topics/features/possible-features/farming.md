@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Farming
 
+## July 6th, 2021 Livestream
+* Q&A: Will there ever be Farming added to the base game? [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Any talk of adding Farming?](../../../transcriptions/yt-bGXZgS3dKc8.md) [https://www.youtube.com/watch?v=bGXZgS3dKc8](https://www.youtube.com/watch?v=bGXZgS3dKc8)
 * [Q&A: Do you have plans to add a Coffee maker with Coffee nodes?](../../../transcriptions/yt-6QqajUpsshE.md) [https://www.youtube.com/watch?v=6QqajUpsshE](https://www.youtube.com/watch?v=6QqajUpsshE)

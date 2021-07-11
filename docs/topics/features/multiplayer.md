@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## July 6th, 2021 Livestream
+* [Q&A: I need someone to collect slugs in my game, do you provide that service?](../../transcriptions/yt-mmwKyAUI6q8.md) [https://www.youtube.com/watch?v=mmwKyAUI6q8](https://www.youtube.com/watch?v=mmwKyAUI6q8)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Can you make it so friends in multiplayer can have more rights like setting Train routes?](../../transcriptions/yt-pLGMWKj9AW0.md) [https://www.youtube.com/watch?v=pLGMWKj9AW0](https://www.youtube.com/watch?v=pLGMWKj9AW0)
 * [Q&A: What's the greatest number of people you've had in a Multiplayer session?](../../transcriptions/yt-w_ZCP0Syl-A.md) [https://www.youtube.com/watch?v=w_ZCP0Syl-A](https://www.youtube.com/watch?v=w_ZCP0Syl-A)

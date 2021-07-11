@@ -5,6 +5,19 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## July 6th, 2021 Livestream
+* Q&A: Will Jace be dubbing ADA's lines into Spanish? [https://www.youtube.com/watch?v=mKUON_7AYp8](https://www.youtube.com/watch?v=mKUON_7AYp8)
+* Q&A: Is Jace fixed? [https://www.youtube.com/watch?v=wV3t17BdtMo](https://www.youtube.com/watch?v=wV3t17BdtMo)
+* Q&A: What did Snutt have for breakfast? [https://www.youtube.com/watch?v=6nEbRCnR4yc](https://www.youtube.com/watch?v=6nEbRCnR4yc)
+* Community FYI: Jace, you look like Philipp Kirkorov the Russian pop star [https://www.youtube.com/watch?v=vIxlNniUSW0](https://www.youtube.com/watch?v=vIxlNniUSW0)
+* Jace Talk: The Russian community really think I look like this guy [https://www.youtube.com/watch?v=WEpAa29aMTc](https://www.youtube.com/watch?v=WEpAa29aMTc)
+* [Q&A: You guys work in the office yet?](../../transcriptions/yt-MSxZt_IUpsA.md) [https://www.youtube.com/watch?v=MSxZt_IUpsA](https://www.youtube.com/watch?v=MSxZt_IUpsA)
+* [Q&A: Do you enjoy your job at Coffee Stain?](../../transcriptions/yt--5bGGsM72l0.md) [https://www.youtube.com/watch?v=-5bGGsM72l0](https://www.youtube.com/watch?v=-5bGGsM72l0)
+* [Q&A: Did Jace ever finish refactoring the attachments system?](../../transcriptions/yt-RLAevtWkTUA.md) [https://www.youtube.com/watch?v=RLAevtWkTUA](https://www.youtube.com/watch?v=RLAevtWkTUA)
+* [Snutt & Jace Talk: Poop Emoji plush](../../transcriptions/yt-RCeee9HK3Zs.md) [https://www.youtube.com/watch?v=RCeee9HK3Zs](https://www.youtube.com/watch?v=RCeee9HK3Zs)
+* [Q&A: Why won't Jace donate hair to Snutt?](../../transcriptions/yt-zz3FDAM8zxs.md) [https://www.youtube.com/watch?v=zz3FDAM8zxs](https://www.youtube.com/watch?v=zz3FDAM8zxs)
+* [Q&A: Would you choose Vodka or Tequila?](../../transcriptions/yt-Zu95lrXblrk.md) [https://www.youtube.com/watch?v=Zu95lrXblrk](https://www.youtube.com/watch?v=Zu95lrXblrk)
+
 ## June 29th, 2021 Livestream
 * [Q&A: How was Midsummer?](../../transcriptions/yt-U9bVS61gZCE.md) [https://www.youtube.com/watch?v=U9bVS61gZCE](https://www.youtube.com/watch?v=U9bVS61gZCE)
 * [Snutt & Jace Talk: Coffee Stain / Swedish vacations](../../transcriptions/yt--Nos691KN8M.md) [https://www.youtube.com/watch?v=-Nos691KN8M](https://www.youtube.com/watch?v=-Nos691KN8M)
@@ -419,7 +432,7 @@ date: Last Modified
 * [Jace's opinion re: THQ Nordic](../../transcriptions/yt-1UqIDp_byFc,174.32,248.62.md) [https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=174&end=249](https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=174&end=249)
 
 ## July 19th, 2018 Dev Blog
-* End Tag [https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=562](https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=562)
+* [End Tag](../../transcriptions/yt-IxoCzb2M0vQ,562.24.md) [https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=562](https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=562)
 
 ## March 9th, 2018 Q&A
 * [Q&A: Coffee or tea?](../../transcriptions/yt-Zo2ybvs7keI,492.44,502.32.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503)

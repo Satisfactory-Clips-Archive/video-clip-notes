@@ -49,7 +49,9 @@ date: Last Modified
 * [Josh](./topics/community/josh.md)
 * [Joshie](./topics/community/joshie.md)
 * [Kibitz](./topics/community/kibitz.md)
+* [McGalleon](./topics/community/mcgalleon.md)
 * [Panakotta](./topics/community/panakotta.md)
+* [RogerHN](./topics/community/rogerhn.md)
 * [Satisfactory Calculator](./topics/community/satisfactory-calculator.md)
 * [Satisfactory News](./topics/community/satisfactory-news.md)
 * [SignpostMarv](./topics/community/signpostmarv.md)
@@ -300,7 +302,10 @@ date: Last Modified
 * [Setting up Modular Frame production](./topics/june-2021-epic-mega-sale-stream/setting-up-modular-frame-production.md)
 ---
 * [Level Design Stream](./topics/level-design-stream.md)
-* [Localisation](./topics/localisation.md)
+
+# [Localisation](./topics/localisation.md)
+* [Localization Community Highlight](./topics/localisation/localization-community-highlight.md)
+---
 
 # [Merch](./topics/merch.md)
 * [EU Merch Store](./topics/merch/eu-merch-store.md)

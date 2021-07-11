@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## July 6th, 2021 Livestream
+* [Q&A: Do you envision the game having randomised ore deposits?](../../transcriptions/yt-os5iJblX7sM.md) [https://www.youtube.com/watch?v=os5iJblX7sM](https://www.youtube.com/watch?v=os5iJblX7sM)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Can we see Jace stream his Aluminium factory build?](../../transcriptions/yt-nsejnx28EKk.md) [https://www.youtube.com/watch?v=nsejnx28EKk](https://www.youtube.com/watch?v=nsejnx28EKk)
 * [Q&A: More Sulfur nodes in the future, like you did with Bauxite?](../../transcriptions/yt-YZU9cZ0XzIk.md) [https://www.youtube.com/watch?v=YZU9cZ0XzIk](https://www.youtube.com/watch?v=YZU9cZ0XzIk)

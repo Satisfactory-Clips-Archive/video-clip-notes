@@ -2,17 +2,217 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
-## [June 29th, 2021 Livestream](./2021-06-29.md)
-### [Q&A: Please add Achievements & badges on Steam](./transcriptions/yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
+## [July 6th, 2021 Livestream](./2021-07-06.md)
+### Q&A: How would you join the translation crew? [https://www.youtube.com/watch?v=21YJgMguxHQ](https://www.youtube.com/watch?v=21YJgMguxHQ)
 
 <details>
+<summary>This question may have been asked previously at least 4 other times, as recently as January 2021 and as early as February 2019.</summary>
 
-<summary>A transcript is available</summary>
-
-> please add achievements and badges on steam we'll add uh achievements one day not at the moment though probably for at one point when we know how the game is like if that it's balanced and basically finished uh then we'll add achievements then yeah it kind of sucks if we'd add achievements before we knew like for instance if we had achievements for the face for the elevator which used to be like you know send off 500 iron plates which is like nothing now that achievement would mean nothing essentially at this point exactly
-
-
+* [January 12th, 2021 Livestream Q&A: How can I help with translation- the Spanish one looks like Google Translator?](./transcriptions/yt-qbaev-b4lbQ.md) [https://www.youtube.com/watch?v=qbaev-b4lbQ](https://www.youtube.com/watch?v=qbaev-b4lbQ)
+* [February 11th, 2020 Livestream Q&A: How does one help with localisation?](./transcriptions/yt-uLblaRDOX4Y.md) [https://www.youtube.com/watch?v=uLblaRDOX4Y](https://www.youtube.com/watch?v=uLblaRDOX4Y)
+* [January 22nd, 2020 Livestream Q&A: Will you fix translations?](./transcriptions/yt-NJxOCbsJtZQ.md) [https://www.youtube.com/watch?v=NJxOCbsJtZQ](https://www.youtube.com/watch?v=NJxOCbsJtZQ)
+* [February 6th, 2019 Livestream Q&A: Localisation support?](./transcriptions/yt-Dtm6xIj-wM4,1398.110387,1429.840647.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1398&end=1430](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1398&end=1430)
 </details>
+
+### Q&A: Can we please make Programmable Splitter ratio outputs? [https://www.youtube.com/watch?v=ZxdCngTCah4](https://www.youtube.com/watch?v=ZxdCngTCah4)
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as June 2021 and as early as January 2020.</summary>
+
+* [June 22nd, 2021 Livestream Q&A: Why can't we have custom ratio Splitters?](./transcriptions/yt-ripT8MydIjo.md) [https://www.youtube.com/watch?v=ripT8MydIjo](https://www.youtube.com/watch?v=ripT8MydIjo)
+* [April 20th, 2021 Livestream Q&A: The Ratio Splitter?](./transcriptions/yt-cBwAofHv-6o.md) [https://www.youtube.com/watch?v=cBwAofHv-6o](https://www.youtube.com/watch?v=cBwAofHv-6o)
+* April 6th, 2021 Livestream Q&A: Ratio Splitters? [https://www.youtube.com/watch?v=A26wW5I25T8](https://www.youtube.com/watch?v=A26wW5I25T8)
+* [January 19th, 2021 Livestream Q&A: Are you going to add more functionality to the Programmable Splitters?](./transcriptions/yt-PGyc_YN4DaM.md) [https://www.youtube.com/watch?v=PGyc_YN4DaM](https://www.youtube.com/watch?v=PGyc_YN4DaM)
+* [December 15th, 2020 Livestream Q&A: Any thought to allow Splitters to regulate the flow of items per minute?](./transcriptions/yt-nSC4C_h1ONo.md) [https://www.youtube.com/watch?v=nSC4C_h1ONo](https://www.youtube.com/watch?v=nSC4C_h1ONo)
+* [January 22nd, 2020 Livestream Q&A: What do you think about Splitters that can split a certain percentage of the Belts?](./transcriptions/yt-GiOZBqdfrAQ.md) [https://www.youtube.com/watch?v=GiOZBqdfrAQ](https://www.youtube.com/watch?v=GiOZBqdfrAQ)
+</details>
+
+### Q&A: Are Radar Towers going to get an upgrade at some point? [https://www.youtube.com/watch?v=CBfhAo3Ok58](https://www.youtube.com/watch?v=CBfhAo3Ok58)
+
+<details>
+<summary>This question may have been asked previously at least 4 other times, as recently as April 2021 and as early as December 2020.</summary>
+
+* [April 6th, 2021 Livestream Q&A: Do you think we'll rework Radar Towers?](./transcriptions/yt-hoLnbnTC5vE.md) [https://www.youtube.com/watch?v=hoLnbnTC5vE](https://www.youtube.com/watch?v=hoLnbnTC5vE)
+* [March 23rd, 2021 Livestream Q&A: Will there be additional use for Radar Towers?](./transcriptions/yt-vfJj5Fg21WI.md) [https://www.youtube.com/watch?v=vfJj5Fg21WI](https://www.youtube.com/watch?v=vfJj5Fg21WI)
+* [February 9th, 2021 Livestream Q&A: Do you have any plans for the Radar Towers?](./transcriptions/yt-Jb1JBMGknBY.md) [https://www.youtube.com/watch?v=Jb1JBMGknBY](https://www.youtube.com/watch?v=Jb1JBMGknBY)
+* [December 15th, 2020 Livestream Q&A: Will Radar Towers get a Mk.2 version?](./transcriptions/yt--2Z0rsxuisQ.md) [https://www.youtube.com/watch?v=-2Z0rsxuisQ](https://www.youtube.com/watch?v=-2Z0rsxuisQ)
+</details>
+
+### Q&A: Do you plan on doing a new Map? [https://www.youtube.com/watch?v=ZfTLZTQMWU0](https://www.youtube.com/watch?v=ZfTLZTQMWU0)
+
+<details>
+<summary>This question may have been asked previously at least 9 other times, as recently as April 2021 and as early as May 2020.</summary>
+
+* [April 27th, 2021 Livestream Q&A: Will there be another map?](./transcriptions/yt-yR31iCrXx4w.md) [https://www.youtube.com/watch?v=yR31iCrXx4w](https://www.youtube.com/watch?v=yR31iCrXx4w)
+* [October 27th, 2020 Livestream Q&A: What about a new Map?](./transcriptions/yt-O9cRWaKhSRo.md) [https://www.youtube.com/watch?v=O9cRWaKhSRo](https://www.youtube.com/watch?v=O9cRWaKhSRo)
+* [October 1st, 2020 Q&A: Any new maps coming?](./transcriptions/yt-rATcozDE25c,763.0623,781.3472333333333.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=763&end=782](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=763&end=782)
+* [September 22nd, 2020 Livestream Q&A: Any chance of a new Map?](./transcriptions/yt-GcWk8f29OBM.md) [https://www.youtube.com/watch?v=GcWk8f29OBM](https://www.youtube.com/watch?v=GcWk8f29OBM)
+* [September 8th, 2020 Livestream Q&A: Any plans for new Maps?](./transcriptions/yt-zBv2UdKrYtI.md) [https://www.youtube.com/watch?v=zBv2UdKrYtI](https://www.youtube.com/watch?v=zBv2UdKrYtI)
+* [August 25th, 2020 Livestream Q&A: Like a new map for Satisfactory?](./transcriptions/yt-gNfCEV1J-2Q.md) [https://www.youtube.com/watch?v=gNfCEV1J-2Q](https://www.youtube.com/watch?v=gNfCEV1J-2Q)
+* August 18th, 2020 Livestream Q&A: Any different maps planned? [https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat](https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat)
+* [June 8th, 2020 Livestream Q&A: Will we have other maps?](./transcriptions/yt-1-A4zqHdNKA.md) [https://www.youtube.com/watch?v=1-A4zqHdNKA](https://www.youtube.com/watch?v=1-A4zqHdNKA)
+* [May 15th, 2020 Q&A: In a far and glorious future will we have other maps?](./transcriptions/yt-NlIVwoRqjVk,1213.6124,1227.0591666666667.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1213&end=1228](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1213&end=1228)
+</details>
+
+### Q&A: Will there ever be Farming added to the base game? [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
+
+<details>
+<summary>This question may have been asked previously at least 16 other times, as recently as May 2021 and as early as March 2019.</summary>
+
+* [May 25th, 2021 Livestream Q&A: Any talk of adding Farming?](./transcriptions/yt-bGXZgS3dKc8.md) [https://www.youtube.com/watch?v=bGXZgS3dKc8](https://www.youtube.com/watch?v=bGXZgS3dKc8)
+* [May 11th, 2021 Livestream Q&A: Grow things?](./transcriptions/yt-drp-Fjdq8Q0.md) [https://www.youtube.com/watch?v=drp-Fjdq8Q0](https://www.youtube.com/watch?v=drp-Fjdq8Q0)
+* [April 27th, 2021 Livestream Q&A: Farms?](./transcriptions/yt-kq125_HSqqE.md) [https://www.youtube.com/watch?v=kq125_HSqqE](https://www.youtube.com/watch?v=kq125_HSqqE)
+* [April 6th, 2021 Livestream Q&A: Farming system?](./transcriptions/yt-1HxhGdiIGwk.md) [https://www.youtube.com/watch?v=1HxhGdiIGwk](https://www.youtube.com/watch?v=1HxhGdiIGwk)
+* [March 23rd, 2021 Livestream Q&A: Will there ever be Farming in the game?](./transcriptions/yt-o2GDy5QKSfQ.md) [https://www.youtube.com/watch?v=o2GDy5QKSfQ](https://www.youtube.com/watch?v=o2GDy5QKSfQ)
+* [February 23rd, 2021 Livestream Q&A: Is there a plan to let us grow food in some way?](./transcriptions/yt-axNVUjsuMwo.md) [https://www.youtube.com/watch?v=axNVUjsuMwo](https://www.youtube.com/watch?v=axNVUjsuMwo)
+* [January 26th, 2021 Livestream Q&A: Farming would be cool?](./transcriptions/yt-qO1Zl01HfqU.md) [https://www.youtube.com/watch?v=qO1Zl01HfqU](https://www.youtube.com/watch?v=qO1Zl01HfqU)
+* [December 17th, 2020 Q&A: Are farms going to be a thing?](./transcriptions/yt--JXPsTlJIiI,844.2767666666667,875.7081666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=844&end=876](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=844&end=876)
+* [December 15th, 2020 Livestream Q&A: Is automated food production planned?](./transcriptions/yt--9WFYJETif4.md) [https://www.youtube.com/watch?v=-9WFYJETif4](https://www.youtube.com/watch?v=-9WFYJETif4)
+* [October 20th, 2020 Livestream Q&A: Any word on farming Pale Berries / Nuts / Bacon?](./transcriptions/yt-L1Ur5X7gVH8.md) [https://www.youtube.com/watch?v=L1Ur5X7gVH8](https://www.youtube.com/watch?v=L1Ur5X7gVH8)
+* [September 22nd, 2020 Livestream Q&A: Farm?](./transcriptions/yt-2i5toplIVJo.md) [https://www.youtube.com/watch?v=2i5toplIVJo](https://www.youtube.com/watch?v=2i5toplIVJo)
+* [September 1st, 2020 Livestream Q&A: Can we have food-making in the game?](./transcriptions/yt-2sE4CPkkc3o.md) [https://www.youtube.com/watch?v=2sE4CPkkc3o](https://www.youtube.com/watch?v=2sE4CPkkc3o)
+* [June 8th, 2020 Livestream Q&A: What do you think about Farming?](./transcriptions/yt-UijCvihSvzE.md) [https://www.youtube.com/watch?v=UijCvihSvzE](https://www.youtube.com/watch?v=UijCvihSvzE)
+* [May 15th, 2020 Q&A: Will there be a farming system with seeds and stuff so we can plant our own fruits?](./transcriptions/yt-NlIVwoRqjVk,1164.4633000000001,1176.7088666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1164&end=1177](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1164&end=1177)
+* [March 24th, 2020 Livestream Q&A: Berry Farming?](./transcriptions/yt-2Cq3xmLN8sQ.md) [https://www.youtube.com/watch?v=2Cq3xmLN8sQ](https://www.youtube.com/watch?v=2Cq3xmLN8sQ)
+* [March 9th, 2019 Livestream Q&A: Any plans for farming (for biomass production) ?](./transcriptions/yt-unMHGjOsGAc.md) [https://www.youtube.com/watch?v=unMHGjOsGAc](https://www.youtube.com/watch?v=unMHGjOsGAc)
+</details>
+
+### Q&A: How many Updates until 1.0? [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
+
+<details>
+<summary>This question may have been asked previously at least 13 other times, as recently as May 2021 and as early as March 2019.</summary>
+
+* [May 25th, 2021 Livestream Q&A: How many Updates before Release?](./transcriptions/yt-dHKlfnU7pm8.md) [https://www.youtube.com/watch?v=dHKlfnU7pm8](https://www.youtube.com/watch?v=dHKlfnU7pm8)
+* May 11th, 2021 Livestream Q&A: How many Updates before 1.0? [https://www.youtube.com/watch?v=h3_N7HE2ZPQ](https://www.youtube.com/watch?v=h3_N7HE2ZPQ)
+* April 20th, 2021 Livestream Q&A: How many Updates before full release? [https://www.youtube.com/watch?v=7XSZ-08BaXc](https://www.youtube.com/watch?v=7XSZ-08BaXc)
+* [March 23rd, 2021 Livestream Q&A: How many more big Updates are planned before 1.0?](./transcriptions/yt-RAyToKIKD2I.md) [https://www.youtube.com/watch?v=RAyToKIKD2I](https://www.youtube.com/watch?v=RAyToKIKD2I)
+* March 2nd, 2021 Livestream Q&A: How many Updates are planned before 1.0? [https://www.youtube.com/watch?v=DVSYDPE6STc](https://www.youtube.com/watch?v=DVSYDPE6STc)
+* [February 23rd, 2021 Livestream Q&A: Any more major updates planned before 1.0?](./transcriptions/yt-XLXeOMWHoAc.md) [https://www.youtube.com/watch?v=XLXeOMWHoAc](https://www.youtube.com/watch?v=XLXeOMWHoAc)
+* January 26th, 2021 Livestream Q&A: How many Updates do you have planned before 1.0? [https://www.youtube.com/watch?v=7t2DLBi7kl8](https://www.youtube.com/watch?v=7t2DLBi7kl8)
+* [November 3rd, 2020 Livestream Q&A: How many Updates until 1.0?](./transcriptions/yt-qtf26oE7kQs.md) [https://www.youtube.com/watch?v=qtf26oE7kQs](https://www.youtube.com/watch?v=qtf26oE7kQs)
+* [September 1st, 2020 Livestream Q&A: About how many Updates will there be before 1.0?](./transcriptions/yt-eIolvvHPWmw.md) [https://www.youtube.com/watch?v=eIolvvHPWmw](https://www.youtube.com/watch?v=eIolvvHPWmw)
+* August 18th, 2020 Livestream Q&A: How often will there be updates to the game? [https://clips.twitch.tv/CheerfulZanyWebVoteYea](https://clips.twitch.tv/CheerfulZanyWebVoteYea)
+* [May 19th, 2020 Livestream Q&A: Do you intended to do planned amount of huge Updates?](./transcriptions/yt-Nk53HWpUnnk.md) [https://www.youtube.com/watch?v=Nk53HWpUnnk](https://www.youtube.com/watch?v=Nk53HWpUnnk)
+* [March 24th, 2020 Livestream Q&A: How often will you be releasing new content?](./transcriptions/yt-1gGMZa-xf70.md) [https://www.youtube.com/watch?v=1gGMZa-xf70](https://www.youtube.com/watch?v=1gGMZa-xf70)
+* [March 9th, 2019 Livestream Q&A: How often will you release updates in Early Access?](./transcriptions/yt-PBkvqmyjADM.md) [https://www.youtube.com/watch?v=PBkvqmyjADM](https://www.youtube.com/watch?v=PBkvqmyjADM)
+</details>
+
+### [Q&A: How's the current Map update progressing?](./transcriptions/yt-v4q_WoTeOQM.md) [https://www.youtube.com/watch?v=v4q_WoTeOQM](https://www.youtube.com/watch?v=v4q_WoTeOQM)
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as April 2021 and as early as March 2021.</summary>
+
+* [April 6th, 2021 Livestream Q&A: World Update, when?](./transcriptions/yt-ldiVaemLNss.md) [https://www.youtube.com/watch?v=ldiVaemLNss](https://www.youtube.com/watch?v=ldiVaemLNss)
+* [March 30th, 2021 Livestream Q&A: Is the World Update part of Update 4 or will that come later?](./transcriptions/yt-ANIKlhFcjkk.md) [https://www.youtube.com/watch?v=ANIKlhFcjkk](https://www.youtube.com/watch?v=ANIKlhFcjkk)
+</details>
+
+### [Q&A: Is there a way to alter the terrain in certain circumstances?](./transcriptions/yt-35jxkNZh7mA.md) [https://www.youtube.com/watch?v=35jxkNZh7mA](https://www.youtube.com/watch?v=35jxkNZh7mA)
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as August 2020.</summary>
+
+* [September 8th, 2020 Livestream Q&A: Any thoughts on Terraforming, specifically tunneling ?](./transcriptions/yt-LIi_14XOp60.md) [https://www.youtube.com/watch?v=LIi_14XOp60](https://www.youtube.com/watch?v=LIi_14XOp60)
+* [August 25th, 2020 Livestream Q&A: Add Train tunnels to go through mountains?](./transcriptions/yt-v6sWQLM4fMM.md) [https://www.youtube.com/watch?v=v6sWQLM4fMM](https://www.youtube.com/watch?v=v6sWQLM4fMM)
+</details>
+
+### [Q&A: What does the Object Limit refer to exactly?](./transcriptions/yt-cVhPGZZyMn8.md) [https://www.youtube.com/watch?v=cVhPGZZyMn8](https://www.youtube.com/watch?v=cVhPGZZyMn8)
+
+<details>
+<summary>This question may have been asked previously at least 11 other times, as recently as June 2021 and as early as August 2020.</summary>
+
+* [June 1st, 2021 Livestream Q&A: Can you explain the Object Limit ?](./transcriptions/yt-F1TmvRv7IQ8.md) [https://www.youtube.com/watch?v=F1TmvRv7IQ8](https://www.youtube.com/watch?v=F1TmvRv7IQ8)
+* [March 30th, 2021 Livestream Q&A: What's the Object Limit?](./transcriptions/yt-KjV7JMFQ3Is.md) [https://www.youtube.com/watch?v=KjV7JMFQ3Is](https://www.youtube.com/watch?v=KjV7JMFQ3Is)
+* [October 9th, 2020 Livestream Q&A: What is the limit?](./transcriptions/yt-Njv_PJT3B2g.md) [https://www.youtube.com/watch?v=Njv_PJT3B2g](https://www.youtube.com/watch?v=Njv_PJT3B2g)
+* [October 6th, 2020 Livestream Q&A: What is the object limit and why is it that number?](./transcriptions/yt-VpCuu0aYFw0.md) [https://www.youtube.com/watch?v=VpCuu0aYFw0](https://www.youtube.com/watch?v=VpCuu0aYFw0)
+* [September 1st, 2020 Livestream Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?](./transcriptions/yt-RyE_hc4huhA.md) [https://www.youtube.com/watch?v=RyE_hc4huhA](https://www.youtube.com/watch?v=RyE_hc4huhA)
+* August 18th, 2020 Livestream Build Limit (Part 1): [https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis](https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis)
+* August 18th, 2020 Livestream Build Limit (Part 2): [https://clips.twitch.tv/UnusualExquisiteKuduDendiFace](https://clips.twitch.tv/UnusualExquisiteKuduDendiFace)
+* August 18th, 2020 Livestream Build Limit (Part 3): [https://clips.twitch.tv/SullenColdbloodedDiscEagleEye](https://clips.twitch.tv/SullenColdbloodedDiscEagleEye)
+* August 18th, 2020 Livestream Build Limit (Part 4): [https://clips.twitch.tv/BlitheEnergeticEelPRChase](https://clips.twitch.tv/BlitheEnergeticEelPRChase)
+* August 18th, 2020 Livestream Build Limit (Part 5): [https://clips.twitch.tv/GiantGeniusGooseCclamChamp](https://clips.twitch.tv/GiantGeniusGooseCclamChamp)
+* August 18th, 2020 Livestream Build Limit (Part 6): [https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ](https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ)
+</details>
+
+### Q&A: Are you going to expand the playable area on the Map? [https://www.youtube.com/watch?v=gy1FELPzm2w](https://www.youtube.com/watch?v=gy1FELPzm2w)
+
+<details>
+<summary>This question may have been asked previously at least 8 other times, as recently as May 2021 and as early as December 2019.</summary>
+
+* [May 4th, 2021 Livestream Q&A: Will we get a bigger Map?](./transcriptions/yt-LPvrY2LJghE.md) [https://www.youtube.com/watch?v=LPvrY2LJghE](https://www.youtube.com/watch?v=LPvrY2LJghE)
+* [April 27th, 2021 Livestream Q&A: Will you guys make a bigger map some day?](./transcriptions/yt-YDk5S3_5Wdg.md) [https://www.youtube.com/watch?v=YDk5S3_5Wdg](https://www.youtube.com/watch?v=YDk5S3_5Wdg)
+* [April 20th, 2021 Livestream Q&A: Will we get a bigger map?](./transcriptions/yt-3jmL6IM3Qqk.md) [https://www.youtube.com/watch?v=3jmL6IM3Qqk](https://www.youtube.com/watch?v=3jmL6IM3Qqk)
+* [March 30th, 2021 Livestream Q&A: Is a bigger world a possibility?](./transcriptions/yt-dlL942ooTho.md) [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
+* [February 2nd, 2021 Livestream Q&A: Will the Map be bigger later?](./transcriptions/yt-gvOt4jwWA4Q.md) [https://www.youtube.com/watch?v=gvOt4jwWA4Q](https://www.youtube.com/watch?v=gvOt4jwWA4Q)
+* [November 3rd, 2020 Livestream Q&A: Will the Map become bigger?](./transcriptions/yt-1pzu9fbySq0.md) [https://www.youtube.com/watch?v=1pzu9fbySq0](https://www.youtube.com/watch?v=1pzu9fbySq0)
+* [September 15th, 2020 Livestream Q&A: Will the Map be bigger?](./transcriptions/yt-b49tcUeMO3E.md) [https://www.youtube.com/watch?v=b49tcUeMO3E](https://www.youtube.com/watch?v=b49tcUeMO3E)
+* December 19th, 2019 Livestream Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
+</details>
+
+### [Q&A: Go implement HUB computer, I want to see graphs & statistics?](./transcriptions/yt-aA0KIR6AKC8.md) [https://www.youtube.com/watch?v=aA0KIR6AKC8](https://www.youtube.com/watch?v=aA0KIR6AKC8)
+
+<details>
+<summary>This question may have been asked previously at least 7 other times, as recently as January 2021 and as early as December 2019.</summary>
+
+* [January 19th, 2021 Livestream Q&A: Will there be ways to see your total production per minute?](./transcriptions/yt-tHzH3dkTZ4s.md) [https://www.youtube.com/watch?v=tHzH3dkTZ4s](https://www.youtube.com/watch?v=tHzH3dkTZ4s)
+* [December 17th, 2020 Q&A: Why don't my computer screens in my hub show me power consumption or total production?](./transcriptions/yt--JXPsTlJIiI,808.0739333333333,844.2767666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845)
+* [November 17th, 2020 Livestream Q&A: What's the reason for not having good in-production overview?](./transcriptions/yt-66gt7CjmdXs.md) [https://www.youtube.com/watch?v=66gt7CjmdXs](https://www.youtube.com/watch?v=66gt7CjmdXs)
+* [November 17th, 2020 Livestream Q&A: Any chance to use the HUB Computer to display the statistics and production of the factory?](./transcriptions/yt-5rVqTHOiwh0.md) [https://www.youtube.com/watch?v=5rVqTHOiwh0](https://www.youtube.com/watch?v=5rVqTHOiwh0)
+* [September 29th, 2020 Livestream Q&A: Control Console with a simple representation of the Remote Plants?](./transcriptions/yt-hVDlrmNvsIY.md) [https://www.youtube.com/watch?v=hVDlrmNvsIY](https://www.youtube.com/watch?v=hVDlrmNvsIY)
+* [September 29th, 2020 Livestream Q&A: When are we getting a Production Overview in the game?](./transcriptions/yt-OnK4DcHAB4o.md) [https://www.youtube.com/watch?v=OnK4DcHAB4o](https://www.youtube.com/watch?v=OnK4DcHAB4o)
+* [December 19th, 2019 Livestream Q&A: Is there going to be a central computer plant where you can check the whole production?](./transcriptions/yt-Zlq2K0-z0_8.md) [https://www.youtube.com/watch?v=Zlq2K0-z0_8](https://www.youtube.com/watch?v=Zlq2K0-z0_8)
+</details>
+
+### [Q&A: Do you envision the game having randomised ore deposits?](./transcriptions/yt-os5iJblX7sM.md) [https://www.youtube.com/watch?v=os5iJblX7sM](https://www.youtube.com/watch?v=os5iJblX7sM)
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as November 2020 and as early as October 2020.</summary>
+
+* [November 10th, 2020 Livestream Q&A: Randomising nodes?](./transcriptions/yt-eTALbWgKmuE.md) [https://www.youtube.com/watch?v=eTALbWgKmuE](https://www.youtube.com/watch?v=eTALbWgKmuE)
+* [November 3rd, 2020 Livestream Q&A: Is it going to be possible to create randomly generated Resources on the Map?](./transcriptions/yt-xeAXhjMWZpI.md) [https://www.youtube.com/watch?v=xeAXhjMWZpI](https://www.youtube.com/watch?v=xeAXhjMWZpI)
+* [October 1st, 2020 Q&A: Any plans to make more randomness like resources, start locations, other random world elements?](./transcriptions/yt-rATcozDE25c,632.7321000000001,695.2278666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=632&end=696](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=632&end=696)
+</details>
+
+### [Q&A: Will you be adding Weather Systems?](./transcriptions/yt-WMMQ1b8eAvA.md) [https://www.youtube.com/watch?v=WMMQ1b8eAvA](https://www.youtube.com/watch?v=WMMQ1b8eAvA)
+
+<details>
+<summary>This question may have been asked previously at least 13 other times, as recently as April 2021 and as early as August 2018.</summary>
+
+* [April 20th, 2021 Livestream Q&A: Gonna be weather changes, like rain, snow, and sand storms?](./transcriptions/yt-wUZr64_l6R4.md) [https://www.youtube.com/watch?v=wUZr64_l6R4](https://www.youtube.com/watch?v=wUZr64_l6R4)
+* [March 9th, 2021 Livestream Q&A: Will there be Weather in the game?](./transcriptions/yt-m9oykKdGfUE.md) [https://www.youtube.com/watch?v=m9oykKdGfUE](https://www.youtube.com/watch?v=m9oykKdGfUE)
+* [February 16th, 2021 Livestream Q&A: Storm or natural disasters in the game?](./transcriptions/yt-LgYBDQkiTrk.md) [https://www.youtube.com/watch?v=LgYBDQkiTrk](https://www.youtube.com/watch?v=LgYBDQkiTrk)
+* [November 17th, 2020 Livestream Q&A: Any plans on Weather cycles?](./transcriptions/yt--QpGRQcZfe0.md) [https://www.youtube.com/watch?v=-QpGRQcZfe0](https://www.youtube.com/watch?v=-QpGRQcZfe0)
+* [November 10th, 2020 Livestream Q&A: Can we get Weather to change?](./transcriptions/yt-iq-K9FY-RT8.md) [https://www.youtube.com/watch?v=iq-K9FY-RT8](https://www.youtube.com/watch?v=iq-K9FY-RT8)
+* [November 10th, 2020 Livestream Q&A: Will we have Weather events?](./transcriptions/yt-MzWzCnmbkYI.md) [https://www.youtube.com/watch?v=MzWzCnmbkYI](https://www.youtube.com/watch?v=MzWzCnmbkYI)
+* [October 1st, 2020 Q&A: Will there be any environmental influences later on, like climate change or heatwave storms?](./transcriptions/yt-rATcozDE25c,390.9238666666667,429.5291.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=390&end=430](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=390&end=430)
+* [September 22nd, 2020 Livestream Q&A: Weather in Satisfactory?](./transcriptions/yt-Sxvg881RjeA.md) [https://www.youtube.com/watch?v=Sxvg881RjeA](https://www.youtube.com/watch?v=Sxvg881RjeA)
+* [September 8th, 2020 Livestream Q&A: Do we intend to add rain/storms ?](./transcriptions/yt-3WDeVbpr30g.md) [https://www.youtube.com/watch?v=3WDeVbpr30g](https://www.youtube.com/watch?v=3WDeVbpr30g)
+* August 11th, 2020 Livestream Q&A: What about Weather systems? [https://clips.twitch.tv/SilkyFurryCheetahMVGame](https://clips.twitch.tv/SilkyFurryCheetahMVGame)
+* [May 15th, 2020 Q&A: Will there be weather changes?](./transcriptions/yt-NlIVwoRqjVk,374.5742,397.43036666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398)
+* February 20th, 2019 Livestream Q&A: Weather confirmed? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
+* August 1st, 2018 Q&A: Is there Weather in the game? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
+</details>
+
+### [Q&A: When's the mug coming?](./transcriptions/yt-PSnl87wl_Os.md) [https://www.youtube.com/watch?v=PSnl87wl_Os](https://www.youtube.com/watch?v=PSnl87wl_Os)
+
+<details>
+<summary>This question may have been asked previously at least 12 other times, as recently as June 2021 and as early as February 2021.</summary>
+
+* [June 15th, 2021 Livestream Q&A: Any Coffee Cup Merch update?](./transcriptions/yt-Z6XM978pvyw.md) [https://www.youtube.com/watch?v=Z6XM978pvyw](https://www.youtube.com/watch?v=Z6XM978pvyw)
+* [June 1st, 2021 Livestream Q&A: Any updates on the Mug?](./transcriptions/yt-76HIK_X8Vjk.md) [https://www.youtube.com/watch?v=76HIK_X8Vjk](https://www.youtube.com/watch?v=76HIK_X8Vjk)
+* [June 1st, 2021 Livestream Q&A: Mug Merch?](./transcriptions/yt-PGC0GFAOcrY.md) [https://www.youtube.com/watch?v=PGC0GFAOcrY](https://www.youtube.com/watch?v=PGC0GFAOcrY)
+* [May 25th, 2021 Livestream Q&A: What about the enamel cup?](./transcriptions/yt-bv7CJbAYnBM.md) [https://www.youtube.com/watch?v=bv7CJbAYnBM](https://www.youtube.com/watch?v=bv7CJbAYnBM)
+* [May 18th, 2021 Livestream Q&A: Any news about the Cup?](./transcriptions/yt-j-2qEMyqXCY.md) [https://www.youtube.com/watch?v=j-2qEMyqXCY](https://www.youtube.com/watch?v=j-2qEMyqXCY)
+* [May 11th, 2021 Livestream Q&A: Mug?](./transcriptions/yt-MNWvQrzo_Rk.md) [https://www.youtube.com/watch?v=MNWvQrzo_Rk](https://www.youtube.com/watch?v=MNWvQrzo_Rk)
+* [May 4th, 2021 Livestream Q&A: Update on Cup Merch?](./transcriptions/yt-EwycHQo44KE.md) [https://www.youtube.com/watch?v=EwycHQo44KE](https://www.youtube.com/watch?v=EwycHQo44KE)
+* [March 30th, 2021 Livestream Q&A: When can we order our Coffee Mug?](./transcriptions/yt-UGnFRDOjd-M.md) [https://www.youtube.com/watch?v=UGnFRDOjd-M](https://www.youtube.com/watch?v=UGnFRDOjd-M)
+* [March 23rd, 2021 Livestream Q&A: Update on the Mug?](./transcriptions/yt-9pG00Koq8zY.md) [https://www.youtube.com/watch?v=9pG00Koq8zY](https://www.youtube.com/watch?v=9pG00Koq8zY)
+* [March 2nd, 2021 Livestream Q&A: Coffee Mug?](./transcriptions/yt-eBG3cwtdwuY.md) [https://www.youtube.com/watch?v=eBG3cwtdwuY](https://www.youtube.com/watch?v=eBG3cwtdwuY)
+* [February 16th, 2021 Livestream Q&A: Where's the mug?](./transcriptions/yt-lABA3NfAMXw.md) [https://www.youtube.com/watch?v=lABA3NfAMXw](https://www.youtube.com/watch?v=lABA3NfAMXw)
+* [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./transcriptions/yt-bQnAGoo8jQA.md) [https://www.youtube.com/watch?v=bQnAGoo8jQA](https://www.youtube.com/watch?v=bQnAGoo8jQA)
+</details>
+
+## [June 29th, 2021 Livestream](./2021-06-29.md)
+### [Q&A: Please add Achievements & badges on Steam](./transcriptions/yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
 
 <details>
 <summary>This question may have been asked previously at least 10 other times, as recently as April 2021 and as early as August 2018.</summary>
@@ -30,15 +230,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Do you have an approximate timeline for when 1.0 will be ready?](./transcriptions/yt-JV12w3UZIHE.md) [https://www.youtube.com/watch?v=JV12w3UZIHE](https://www.youtube.com/watch?v=JV12w3UZIHE)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> do you all have an approximate timeline from when 1.0 will be ready i think we kind of do but we don't really have uh we're not saying it no because it could change i i have a feeling it will change because i don't think i think we're a bit optimistic with our timeline you don't think you don't think we'll hit 2028 no impossible [ __ ] yeah [ __ ] you're gonna be doing this for a while oh yeah but we are gonna finish that at some point like i i know that i i saw a couple of posts on on the steam forums about how like our game is is one of those like it's going to gain early access for forever like we don't want that that's yeah that was never really the goal either to release this game in early access i believe yeah yeah it wasn't it was just like kind of out of necessity pretty much yeah
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 19 other times, as recently as June 2021 and as early as February 2019.</summary>
@@ -67,15 +258,6 @@ date: Last Modified
 ### [Q&A: When are you guys adding Battle Royale mode?](./transcriptions/yt-J_Dzjr_-8Hc.md) [https://www.youtube.com/watch?v=J_Dzjr_-8Hc](https://www.youtube.com/watch?v=J_Dzjr_-8Hc)
 
 <details>
-
-<summary>A transcript is available</summary>
-
-> what are you guys adding battle royale mode i don't know sometime before 1.0 i mean you it's already in you can already do it kind of yeah 2029 possible it's more likely 2030 maybe 20 now 20 20 30 might be a little bit too ridiculous yeah let's not get ahead of ourselves here
-
-
-</details>
-
-<details>
 <summary>This question may have been asked previously at least 6 other times, as recently as January 2021 and as early as February 2020.</summary>
 
 * [January 26th, 2021 Livestream Q&A: Battle Royale mode?](./transcriptions/yt-U4t0BJ7mjwc.md) [https://www.youtube.com/watch?v=U4t0BJ7mjwc](https://www.youtube.com/watch?v=U4t0BJ7mjwc)
@@ -87,15 +269,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Any plans for supporting Dedicated Servers on Linux?](./transcriptions/yt-hJSXfLTVMHE.md) [https://www.youtube.com/watch?v=hJSXfLTVMHE](https://www.youtube.com/watch?v=hJSXfLTVMHE)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> any plans for supporting dedicated servers on linux that's a maybe my understanding is it's a maybe it's not like a we don't know for sure we are interested in it though so it's not yeah there's definitely a maybe it's not like a we're going to investigate that when we when we get to that point
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 8 other times, as recently as June 2021 and as early as March 2019.</summary>
@@ -113,15 +286,6 @@ date: Last Modified
 ### [Q&A: Equipment Hotkey, when?](./transcriptions/yt-W56wGXyT_sA.md) [https://www.youtube.com/watch?v=W56wGXyT_sA](https://www.youtube.com/watch?v=W56wGXyT_sA)
 
 <details>
-
-<summary>A transcript is available</summary>
-
-> equipment hotkey when uh i'll put that on the qr side if you want that i don't know exactly what that entails but it sounds good oh you mean on the hot bar maybe that's uh that would be sweet it would be really nice yeah so you could just press like one two three or four or five or whatever that would be really nice yeah
-
-
-</details>
-
-<details>
 <summary>This question may have been asked previously at least 4 other times, as recently as December 2020 and as early as March 2019.</summary>
 
 * [December 15th, 2020 Livestream Q&A: Can you make a toolbar selection to be with just hotkeys instead of mousewheel?](./transcriptions/yt-xwwx4N37G8M.md) [https://www.youtube.com/watch?v=xwwx4N37G8M](https://www.youtube.com/watch?v=xwwx4N37G8M)
@@ -131,15 +295,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Will you add more decoration options so we don't have to rely on Mods so much?](./transcriptions/yt-453B0wDDHFA.md) [https://www.youtube.com/watch?v=453B0wDDHFA](https://www.youtube.com/watch?v=453B0wDDHFA)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh really wondering will you add more decoration options so we don't have to rely on mud so much yeah i think that'll happen at some point it'll be neat i think i think i think just a lot of stuff
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 5 other times, as recently as May 2021 and as early as June 2020.</summary>
@@ -154,19 +309,6 @@ date: Last Modified
 ### [Q&A: Turbofuel for Jetpacks?](./transcriptions/yt-PBccbfC_x2E.md) [https://www.youtube.com/watch?v=PBccbfC_x2E](https://www.youtube.com/watch?v=PBccbfC_x2E)
 
 <details>
-
-<summary>A transcript is available</summary>
-
-> uh
->
-> [Music]
->
-> turbo fuel for a jet pack might be on the um yeah i suggested um i think we are gonna do that at some point i believe mark has confirmed that uh the problem with turbo fuel wasn't that we didn't want to do it like the the issue was that there was no good way to like pick turbo fuel for any equipment like there's no way even in like a chainsaw to be able to pick like you know liquid biofuel or anything like that which is maybe something we're gonna do in the future too for the chainsaw um but currently there was no way when we released the jetpack there was no way to like pick fuel and uh we're probably gonna add that in the future so that you can pick turbo fuel and maybe that's more efficient or something like that um so yeah that's the that's that's the reason why we haven't done it yet
-
-
-</details>
-
-<details>
 <summary>This question may have been asked previously at least 5 other times, as recently as May 2021 and as early as October 2020.</summary>
 
 * [May 11th, 2021 Livestream Q&A: Turbofuel for Jet Packs](./transcriptions/yt-5Ij3wWqZb8Q.md) [https://www.youtube.com/watch?v=5Ij3wWqZb8Q](https://www.youtube.com/watch?v=5Ij3wWqZb8Q)
@@ -177,15 +319,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Do you have plans for S.A.M. Ore?](./transcriptions/yt-DiLr2o5ealA.md) [https://www.youtube.com/watch?v=DiLr2o5ealA](https://www.youtube.com/watch?v=DiLr2o5ealA)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> do we have plans for samore you better believe we do um but we're not gonna disclose it yep
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 16 other times, as recently as June 2021 and as early as March 2019.</summary>
@@ -211,15 +344,6 @@ date: Last Modified
 ### [Q&A: Any plans for random map generation?](./transcriptions/yt-Z9c7weKgaz0.md) [https://www.youtube.com/watch?v=Z9c7weKgaz0](https://www.youtube.com/watch?v=Z9c7weKgaz0)
 
 <details>
-
-<summary>A transcript is available</summary>
-
-> any plans for random map generation we don't have any plans for that um for when it comes to like terraforming we definitely don't have plans for that because we don't want to do it like there was something that we decided pretty early on that it wouldn't like we'd rather do a customized map that was like hand tailored for for this specific experience because a lot of procedural generation stuff can feel very like the same and it's really difficult to make it good um but the other aspect of that as well like maybe in the future we'll do so you can maybe randomly generate notes or something like that that's on the same map we don't know yet that's that's a that's prospect so we'll see
-
-
-</details>
-
-<details>
 <summary>This question may have been asked previously at least 16 other times, as recently as April 2021 and as early as June 2018.</summary>
 
 * [April 27th, 2021 Livestream Q&A: Is the map generation going to be randomised in the future?](./transcriptions/yt-XMhLiJd6N2U.md) [https://www.youtube.com/watch?v=XMhLiJd6N2U](https://www.youtube.com/watch?v=XMhLiJd6N2U)
@@ -243,15 +367,6 @@ date: Last Modified
 ### [Q&A: Can we get Hannah on stream or pre-recorded?](./transcriptions/yt-SwjERGgPOgU.md) [https://www.youtube.com/watch?v=SwjERGgPOgU](https://www.youtube.com/watch?v=SwjERGgPOgU)
 
 <details>
-
-<summary>A transcript is available</summary>
-
-> even pre-recorded pretty please she's too busy we might get her on sometime but i'm not going to be like can we get pre-recorded message dude can you make a soundboard out of hannah yeah i had a soundboard that's all we need to make that would be [ __ ] awesome yeah oh my god i actually have to do that
-
-
-</details>
-
-<details>
 <summary>This question may have been asked previously at least 4 other times, as recently as June 2021 and as early as September 2020.</summary>
 
 * [June 8th, 2021 Livestream Q&A: Can we have Hannah on stream to explain upcoming changes?](./transcriptions/yt-H0nimrhyQ4A.md) [https://www.youtube.com/watch?v=H0nimrhyQ4A](https://www.youtube.com/watch?v=H0nimrhyQ4A)
@@ -261,15 +376,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Will we always have sky factories or will we need to figure out how to build on the ground?](./transcriptions/yt-WiDZuigYT2c.md) [https://www.youtube.com/watch?v=WiDZuigYT2c](https://www.youtube.com/watch?v=WiDZuigYT2c)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will we always have sky factories where we need to figure out how to build more on the ground uh i mean you can build wherever you want right uh so you don't have to have skyfactory if you don't want to but if you sort of mean is there going to be like uh stability kind of like structural support kind of thing where you need to make sure that everything is you know the structural integrity is sound or whatever and whatever you're building uh i don't think we're adding that to the game so uh if you want to have sky factories i think you you can continue having them in the future yes you don't need to worry about that
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 7 other times, as recently as May 2021 and as early as August 2020.</summary>
@@ -284,15 +390,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Any plans for player-generated maps?](./transcriptions/yt-8AAgPIENmZ0.md) [https://www.youtube.com/watch?v=8AAgPIENmZ0](https://www.youtube.com/watch?v=8AAgPIENmZ0)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> any place for player generated map i don't think there are any plans for that right now but we'll have to see what happens when we start working more with mod support um maybe maybe that's a thing that can be done so that uh modders can change up the map but right now i don't think there's any plan yeah it's kind of tricky with the map because like a lot of the map is baked so it's kind of hard to change it you'd have to like unload an entire tile and then reload like your version of it with the chain like if you want to make like a slight change to a tile or something you'd have to remove like the entire thing essentially uh it's kind of tricky with that stuff but we'll see if we can figure something out
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 10 other times, as recently as March 2021 and as early as February 2019.</summary>
@@ -310,15 +407,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Will there be a proper use for the toilet in The HUB one day?](./transcriptions/yt-MW1lkjm7g3U.md) [https://www.youtube.com/watch?v=MW1lkjm7g3U](https://www.youtube.com/watch?v=MW1lkjm7g3U)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will there be a proper use for the toilet in the hub 18 yep one dollar dlc watch the toilet coming soon
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 19 other times, as recently as June 2021 and as early as June 2020.</summary>
@@ -347,15 +435,6 @@ date: Last Modified
 ### [Q&A: How can I play with a friend, Epic/Steam?](./transcriptions/yt-5THxL1hH6GI.md) [https://www.youtube.com/watch?v=5THxL1hH6GI](https://www.youtube.com/watch?v=5THxL1hH6GI)
 
 <details>
-
-<summary>A transcript is available</summary>
-
-> uh um how can i play with a friend epic slash theme so if you want to play cross play i think i can never remember when you started the game up you could link your steam and epic if you were on steam or something like that yes and if you do that i can't remember which direction this works but you may it may make it easier for you to just invite friends because they'll appear in your uh friends list if they're on epic when you're on steam or something i can't remember which one that is right yeah okay we're going yeah do you want me to dive do the deep dive so essentially the way it works is i was just going to say the use session ids yes that's the way that works everywhere you can use session ids essentially on epic like you can't see the steam friends list unless you like give that access to epic so to speak or like give that permission so that's what that linking does essentially so that you can see steam but you can always use the session id regardless of what option you pick yeah so so if you want to use the session id if you're hosting the game in the pause menu there's manage sessions and if you follow the menus there there's you can copy your session id to build a clipboard you send that to your friend and from the main menu they hit join game and at the bottom of the screen there's joined via session id you click that and then you put in the session id and then it works so uh yeah don't you and so like if you if you weren't don't remember what what option you chose in the beginning to link or not link your epping and sim it doesn't matter if you do or you don't yeah you can still play cross play between the two platforms using session ids the only real difference is that when you're in the game you get your friend listed in the friends list but you can always use the session id no matter what
-
-
-</details>
-
-<details>
 <summary>This question may have been asked previously at least 3 other times, as recently as November 2020 and as early as March 2020.</summary>
 
 * [November 3rd, 2020 Livestream Q&A: Can I play on Epic with someone on Steam?](./transcriptions/yt-zekvCEX_mv8.md) [https://www.youtube.com/watch?v=zekvCEX_mv8](https://www.youtube.com/watch?v=zekvCEX_mv8)
@@ -364,15 +443,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Any news on EU store?](./transcriptions/yt-VtM58J6-DDQ.md) [https://www.youtube.com/watch?v=VtM58J6-DDQ](https://www.youtube.com/watch?v=VtM58J6-DDQ)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> um in the news on eu store and the cup i don't think we have any updates uh no no no updates uh i mean the update that i think i gave last week or the week before i think it was last week i said a year before um was that we yeah so so we plan on the the mug we have plans on when that can come out might be in the next few months sometime and when that comes out we will probably also have an eu store come out with with it so that you'll be able to get the mug on the e store as for what other products will be available on the eu store i don't know if it's just going to be the mug or some of the other new stuff or if all the products will be there i'm not sure but i'm pretty sure that there will be an eu store for when the mug comes out and that looks like it's going to be in the next few months or something oh that's so that's uh that's all i know on that
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 11 other times, as recently as May 2021 and as early as September 2020.</summary>
@@ -391,15 +461,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Blueprints, for repetitive factory setups?](./transcriptions/yt-NYHU62S6czs.md) [https://www.youtube.com/watch?v=NYHU62S6czs](https://www.youtube.com/watch?v=NYHU62S6czs)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> blueprints for repetitive factory setups what was the status on blueprints again mark keep changing his mind on this back and forth i think the last thing he said was that he likes the idea now and uh like doesn't know exactly to what degree blueprints will happen if it does in the game uh i remember he once talked about like we were inspired by the uh i can never remember their reddit name but uh there's there's someone something foam uh that posts like blueprints or like small uh layouts of like here's how you can make this many uh ingots permitted in this small segment um and we were inspired by that be like yo that would be sweet sweet if like you could set up a blueprint that was like in a you know maybe five by five or like ten by ten or like a small segment of space um and be able to like build that whatever uh put some limitation to it old shaving foam thanks yeah they post a bunch of really neat looking uh like collections of different setups that i think is pretty sweet um so we were a little bit inspired by that in the ways of thinking of blueprints but i don't know exactly we don't know what exactly is going to happen with that uh i guess we'll burn that bridge when we get to it
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 16 other times, as recently as June 2021 and as early as February 2019.</summary>
@@ -425,15 +486,6 @@ date: Last Modified
 ### [Q&A: What's your opinion on Hyper Tube accelerators?](./transcriptions/yt-HmJNJUmQyGQ.md) [https://www.youtube.com/watch?v=HmJNJUmQyGQ](https://www.youtube.com/watch?v=HmJNJUmQyGQ)
 
 <details>
-
-<summary>A transcript is available</summary>
-
-> uh what's your opinion on hypertube accelerators once they're possible to build want to be convenient to add them as an item so we talked about this actually just last last week so adding hypertube like accelerators or adjusting the speed on them or or whatever well the the hypertube speed up bug thing in itself has been left in the game because there's a trade-off and the trade-off is their tds to build and excess power right uh if we added in a game and in the game as a base thing and making it convenient that takes away some of the trade-off all right so you're right adding it in the game would make it more convenient but we need to balance it right and so the inconvenience of making it plus the excess power that you need to use plus the like uncertainty of where it's going to go like it's kind of kind of hard to set up right like that difficulty kind of the gain you get from that is is kind of offsetted by the difficulty to set it up so i don't i don't think it's going to be added and it but if it is there'd have to be something done to it to make it um more balanced yeah i guess but i think also we're kind of proud of the fact that it's like an emergent thing that happened that like we didn't account for so it feels also like we lose out a little bit on that prestige that the fact that that is a thing in the game then it makes it like easy to build
-
-
-</details>
-
-<details>
 <summary>This question may have been asked previously at least 6 other times, as recently as June 2021 and as early as August 2020.</summary>
 
 * [June 22nd, 2021 Livestream Q&A: Would you add a Hyper Tube launcher, or do you want to keep the exploity method people use now?](./transcriptions/yt-vGet8HcuE7E.md) [https://www.youtube.com/watch?v=vGet8HcuE7E](https://www.youtube.com/watch?v=vGet8HcuE7E)
@@ -445,15 +497,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Can we get a Goat Simulator easter egg in the game?](./transcriptions/yt-hSZdK3Pg9AE.md) [https://www.youtube.com/watch?v=hSZdK3Pg9AE](https://www.youtube.com/watch?v=hSZdK3Pg9AE)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> can we get a goat simulator easter egg in the game what if i told you there already is one is there one yeah there is isn't there probably pretty sure this one
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 7 other times, as recently as May 2021 and as early as February 2019.</summary>
@@ -468,15 +511,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Will the big monster from the trailer get released?](./transcriptions/yt-l_Ex-qIRiwo.md) [https://www.youtube.com/watch?v=l_Ex-qIRiwo](https://www.youtube.com/watch?v=l_Ex-qIRiwo)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> with a big monster spawning fly things from that one steam trailer get released yes that's the big crab it's gonna be it's gonna be in the game at some point tm
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 30 other times, as recently as June 2021 and as early as March 2019.</summary>
@@ -516,15 +550,6 @@ date: Last Modified
 ### [Q&A: Will there be Mod support?](./transcriptions/yt-6t4_ersHMTA.md) [https://www.youtube.com/watch?v=6t4_ersHMTA](https://www.youtube.com/watch?v=6t4_ersHMTA)
 
 <details>
-
-<summary>A transcript is available</summary>
-
-> well the remod support i believe we answered this before but yes there will be official mod sport at some point
-
-
-</details>
-
-<details>
 <summary>This question may have been asked previously at least 13 other times, as recently as May 2021 and as early as June 2018.</summary>
 
 * [May 18th, 2021 Livestream Q&A: Official Mod Support?](./transcriptions/yt-TQdwxoxIfX0.md) [https://www.youtube.com/watch?v=TQdwxoxIfX0](https://www.youtube.com/watch?v=TQdwxoxIfX0)
@@ -545,15 +570,6 @@ date: Last Modified
 ### [Q&A: Native Linux support?](./transcriptions/yt-fvvftnYCayg.md) [https://www.youtube.com/watch?v=fvvftnYCayg](https://www.youtube.com/watch?v=fvvftnYCayg)
 
 <details>
-
-<summary>A transcript is available</summary>
-
-> uh somebody asked about native linux uh yeah we answered that before with dedicated service if we have native linux support we don't know but we are interested in it but we'll see if we actually implement it um why can't i religion read my mind it does in unreal engine 5 just reads your mind think of the game you want it just works it just works yeah are we going to get changes to the unreal
-
-
-</details>
-
-<details>
 <summary>This question may have been asked previously at least 4 other times, as recently as December 2020 and as early as March 2019.</summary>
 
 * [December 15th, 2020 Livestream Q&A: Will Satisfactory have native support for Linux?](./transcriptions/yt-jGFUMhD3WGg.md) [https://www.youtube.com/watch?v=jGFUMhD3WGg](https://www.youtube.com/watch?v=jGFUMhD3WGg)
@@ -563,15 +579,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: How much do you think Unreal Engine 5 would help development of the game?](./transcriptions/yt-yHr48ojeNho.md) [https://www.youtube.com/watch?v=yHr48ojeNho](https://www.youtube.com/watch?v=yHr48ojeNho)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> how much do you think around five will help develop the game i don't think it does help the development i don't think it would in our case and and it's like we're not gonna be switching to it anytime soon so i don't think it's gonna help us i don't know maybe it will in the future at some point but it's not anytime soon you
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 8 other times, as recently as June 2021 and as early as May 2020.</summary>
@@ -587,15 +594,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Elevators, when?](./transcriptions/yt-fRuFxL5hv-I.md) [https://www.youtube.com/watch?v=fRuFxL5hv-I](https://www.youtube.com/watch?v=fRuFxL5hv-I)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> elevators when i don't know if we're gonna be putting elevators i don't know i'm not sure feel free to go to the qa site and you know put that there i'm sure it's probably up
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 12 other times, as recently as June 2021 and as early as December 2019.</summary>
@@ -615,15 +613,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Global grid?](./transcriptions/yt-_psXx_dfadY.md) [https://www.youtube.com/watch?v=_psXx_dfadY](https://www.youtube.com/watch?v=_psXx_dfadY)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> global grid uh would be awesome i i wish we had that go to the qa side enough about that [ __ ]
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as March 2021 and as early as January 2021.</summary>
@@ -646,15 +635,6 @@ date: Last Modified
 ### [Q&A: DirectX 12 support?](./transcriptions/yt-ZZKygLGMC7w.md) [https://www.youtube.com/watch?v=ZZKygLGMC7w](https://www.youtube.com/watch?v=ZZKygLGMC7w)
 
 <details>
-
-<summary>A transcript is available</summary>
-
-> um directx 12 support we tried to uh and uh didn't go so well um but it's not impossible we'll try again maybe in the future
-
-
-</details>
-
-<details>
 <summary>This question may have been asked previously at least 3 other times, as recently as February 2021 and as early as November 2020.</summary>
 
 * [February 23rd, 2021 Livestream Q&A: Is DirectX 12 fully supported now?](./transcriptions/yt-zJ3RVfHpogY.md) [https://www.youtube.com/watch?v=zJ3RVfHpogY](https://www.youtube.com/watch?v=zJ3RVfHpogY)
@@ -663,15 +643,6 @@ date: Last Modified
 </details>
 
 ### [Q&A: Any thoughts about attaching Splitters directly to machines/Miners?](./transcriptions/yt-jkMcXbJhFoQ.md) [https://www.youtube.com/watch?v=jkMcXbJhFoQ](https://www.youtube.com/watch?v=jkMcXbJhFoQ)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh any thoughts about attaching splitters directly to machines such miners i mean i like the idea i don't know why we don't have that uh but yeah i'm not sure so say that again what was it i missed the any thoughts of attaching splitters directly to machine slash miners yes i was actually part of a lot of discussion in that regard in the early days this is the early days because i believe we changed our minds a little bit but one of the main reasons was because it wasn't clear enough what happened uh when you just attached a splitter to a machine it became like odd to like figure out what was going on there's also like a technical reason um where we need the the the belt sort of and if we wanted to do the thing where you can attach splitters to to factories we would need to like add like additional logic to the splitters and mergers and it made it like pretty ugly um so we just decided not to pursue that it's not impossible that we change our minds in the future and and make it so that you can attach them straight on because i believe there's an exception to conveyor lifts because they are technically a belt you can attach splitters directly on them i believe correct me if i'm wrong um but that's not but that's because it is a conveyor belt and it already has because the problem with with the also with this threading in the game is that when we update the threads in the game they're updated separately so belts are upgraded updated separately and then splitters and then factory buildings which would mean that the order of execution would be like a special case when a factory building could output directly to a splitter so we would like mess up that update order or something i'm not quite sure exactly how what was the issue there but that was one of the reasons too but it's not like an impossible thing to fix at some point but i don't think we are going to spend time on that because it's a lot of it's a lot of time for like maybe a little too little payout sort of so yeah you
-
-
-</details>
 
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as June 2021 and as early as November 2020.</summary>
@@ -721,27 +692,6 @@ date: Last Modified
 * [September 8th, 2020 Livestream Q&A: Ever consider making a VR version of Satisfactory?](./transcriptions/yt-3s-PKymQ9QU.md) [https://www.youtube.com/watch?v=3s-PKymQ9QU](https://www.youtube.com/watch?v=3s-PKymQ9QU)
 * [February 6th, 2019 Livestream Q&A: Will there be VR support?](./transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
 * August 1st, 2018 Q&A: What about VR support? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
-</details>
-
-### [Q&A: Why can't we have custom ratio Splitters?](./transcriptions/yt-ripT8MydIjo.md) [https://www.youtube.com/watch?v=ripT8MydIjo](https://www.youtube.com/watch?v=ripT8MydIjo)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> why can't we have custom ratio splitters you could if we made them that that's something that yeah that's definitely something we could do it's something that i personally would like but but it's also a matter of like it depends on whether or not we ultimately want to have it like you know a lot of suggestions sound good in a vacuum but when you uh put it within the context of the the game as a whole as a player experience what kind of experience you're supposed to give people and whatnot uh some suggestions kind of just throw that balance out of whack and i'm not saying that that's necessarily the case in this case but but if we didn't have one it wouldn't i don't think it would be for a technical reason it would probably be because uh designers or director or whatever would deem it to be something that like is maybe 20 uh you know maybe it cut it it will just make it so that people only ever make them i don't know i i don't make those sort of calls but that would be why you wouldn't be able to have it if we didn't put it in that's my guess i feel like that's that's a lot of truth was spoken truth
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as April 2021 and as early as January 2020.</summary>
-
-* [April 20th, 2021 Livestream Q&A: The Ratio Splitter?](./transcriptions/yt-cBwAofHv-6o.md) [https://www.youtube.com/watch?v=cBwAofHv-6o](https://www.youtube.com/watch?v=cBwAofHv-6o)
-* April 6th, 2021 Livestream Q&A: Ratio Splitters? [https://www.youtube.com/watch?v=A26wW5I25T8](https://www.youtube.com/watch?v=A26wW5I25T8)
-* [January 19th, 2021 Livestream Q&A: Are you going to add more functionality to the Programmable Splitters?](./transcriptions/yt-PGyc_YN4DaM.md) [https://www.youtube.com/watch?v=PGyc_YN4DaM](https://www.youtube.com/watch?v=PGyc_YN4DaM)
-* [December 15th, 2020 Livestream Q&A: Any thought to allow Splitters to regulate the flow of items per minute?](./transcriptions/yt-nSC4C_h1ONo.md) [https://www.youtube.com/watch?v=nSC4C_h1ONo](https://www.youtube.com/watch?v=nSC4C_h1ONo)
-* [January 22nd, 2020 Livestream Q&A: What do you think about Splitters that can split a certain percentage of the Belts?](./transcriptions/yt-GiOZBqdfrAQ.md) [https://www.youtube.com/watch?v=GiOZBqdfrAQ](https://www.youtube.com/watch?v=GiOZBqdfrAQ)
 </details>
 
 ### [Q&A: After the game fully releases will there be any Updates that add game-altering factory design?](./transcriptions/yt-oVm-OJKlrZM.md) [https://www.youtube.com/watch?v=oVm-OJKlrZM](https://www.youtube.com/watch?v=oVm-OJKlrZM)
@@ -924,53 +874,18 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 18 other times, as recently as June 2021 and as early as December 2019.</summary>
+<summary>This question may have been asked previously at least 10 other times, as recently as June 2021 and as early as September 2020.</summary>
 
 * [June 8th, 2021 Livestream Q&A: Is there going to be any Map expansion or random Weather?](./transcriptions/yt-3Vm_v02GWco.md) [https://www.youtube.com/watch?v=3Vm_v02GWco](https://www.youtube.com/watch?v=3Vm_v02GWco)
-* [May 4th, 2021 Livestream Q&A: Will we get a bigger Map?](./transcriptions/yt-LPvrY2LJghE.md) [https://www.youtube.com/watch?v=LPvrY2LJghE](https://www.youtube.com/watch?v=LPvrY2LJghE)
-* [April 27th, 2021 Livestream Q&A: Will you guys make a bigger map some day?](./transcriptions/yt-YDk5S3_5Wdg.md) [https://www.youtube.com/watch?v=YDk5S3_5Wdg](https://www.youtube.com/watch?v=YDk5S3_5Wdg)
-* [April 20th, 2021 Livestream Q&A: Will we get a bigger map?](./transcriptions/yt-3jmL6IM3Qqk.md) [https://www.youtube.com/watch?v=3jmL6IM3Qqk](https://www.youtube.com/watch?v=3jmL6IM3Qqk)
-* [March 30th, 2021 Livestream Q&A: Is a bigger world a possibility?](./transcriptions/yt-dlL942ooTho.md) [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
-* [February 2nd, 2021 Livestream Q&A: Will the Map be bigger later?](./transcriptions/yt-gvOt4jwWA4Q.md) [https://www.youtube.com/watch?v=gvOt4jwWA4Q](https://www.youtube.com/watch?v=gvOt4jwWA4Q)
 * [January 19th, 2021 Livestream Q&A: Is the Map finalised, as in there will be no more additions?](./transcriptions/yt-zVnmYZemxe8.md) [https://www.youtube.com/watch?v=zVnmYZemxe8](https://www.youtube.com/watch?v=zVnmYZemxe8)
 * [December 17th, 2020 Q&A: New biomes?](./transcriptions/yt--JXPsTlJIiI,1026.3920333333333,1036.5688666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037)
 * [December 15th, 2020 Livestream Q&A: Will we add more to the Map?](./transcriptions/yt-NeQpezHiVzI.md) [https://www.youtube.com/watch?v=NeQpezHiVzI](https://www.youtube.com/watch?v=NeQpezHiVzI)
 * [December 15th, 2020 Livestream Q&A: When are you going to expand the map?](./transcriptions/yt-axmmm-ituSg.md) [https://www.youtube.com/watch?v=axmmm-ituSg](https://www.youtube.com/watch?v=axmmm-ituSg)
 * November 10th, 2020 Livestream Q&A: Any plans to expand the Map / add new Biomes? [https://www.youtube.com/watch?v=oZhfgq9vdKg](https://www.youtube.com/watch?v=oZhfgq9vdKg)
-* [November 3rd, 2020 Livestream Q&A: Will the Map become bigger?](./transcriptions/yt-1pzu9fbySq0.md) [https://www.youtube.com/watch?v=1pzu9fbySq0](https://www.youtube.com/watch?v=1pzu9fbySq0)
 * [September 29th, 2020 Livestream Q&A: Will the Map change for 1.0?](./transcriptions/yt-5AsSss96Idw.md) [https://www.youtube.com/watch?v=5AsSss96Idw](https://www.youtube.com/watch?v=5AsSss96Idw)
-* [September 15th, 2020 Livestream Q&A: Will the Map be bigger?](./transcriptions/yt-b49tcUeMO3E.md) [https://www.youtube.com/watch?v=b49tcUeMO3E](https://www.youtube.com/watch?v=b49tcUeMO3E)
 * [September 8th, 2020 Livestream Q&A: Extension on current Map?](./transcriptions/yt-Ad3tjOha0JI.md) [https://www.youtube.com/watch?v=Ad3tjOha0JI](https://www.youtube.com/watch?v=Ad3tjOha0JI)
 * [September 8th, 2020 Livestream Q&A: Even more Biomes coming to play?](./transcriptions/yt-VgDl00Ycn3U.md) [https://www.youtube.com/watch?v=VgDl00Ycn3U](https://www.youtube.com/watch?v=VgDl00Ycn3U)
 * [September 1st, 2020 Livestream Q&A: Map expansion ?](./transcriptions/yt-2ZHnQ9U4f9I.md) [https://www.youtube.com/watch?v=2ZHnQ9U4f9I](https://www.youtube.com/watch?v=2ZHnQ9U4f9I)
-* December 19th, 2019 Livestream Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
-</details>
-
-### [Q&A: Any Coffee Cup Merch update?](./transcriptions/yt-Z6XM978pvyw.md) [https://www.youtube.com/watch?v=Z6XM978pvyw](https://www.youtube.com/watch?v=Z6XM978pvyw)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh any coffee cup merch update oh okay so merch update um uh last week i said i didn't know so today i went and found out um so uh i can't say we we have a time that we are planning to release the cup uh with it will come some other merch as well so it's not just going to be the cup there's going to be some other things coming with it and the plan is to launch all that together with an eu store as well that's the plan all right that's the goal now when that's gonna happen i can't say uh we have ideas of when it'll be but you never know again there's just too many things where uh we're waiting for other deadlines etc etc etc and things are still moving but that's where we are so um all of that is actively being worked on and that's currently the goal for what we're working towards when it comes to the mug and eu store um also yeah yeah that's that's it so there'll be some other cool merch coming with it as well so it's not just the mug some other cool stuff
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 11 other times, as recently as June 2021 and as early as February 2021.</summary>
-
-* [June 1st, 2021 Livestream Q&A: Any updates on the Mug?](./transcriptions/yt-76HIK_X8Vjk.md) [https://www.youtube.com/watch?v=76HIK_X8Vjk](https://www.youtube.com/watch?v=76HIK_X8Vjk)
-* [June 1st, 2021 Livestream Q&A: Mug Merch?](./transcriptions/yt-PGC0GFAOcrY.md) [https://www.youtube.com/watch?v=PGC0GFAOcrY](https://www.youtube.com/watch?v=PGC0GFAOcrY)
-* [May 25th, 2021 Livestream Q&A: What about the enamel cup?](./transcriptions/yt-bv7CJbAYnBM.md) [https://www.youtube.com/watch?v=bv7CJbAYnBM](https://www.youtube.com/watch?v=bv7CJbAYnBM)
-* [May 18th, 2021 Livestream Q&A: Any news about the Cup?](./transcriptions/yt-j-2qEMyqXCY.md) [https://www.youtube.com/watch?v=j-2qEMyqXCY](https://www.youtube.com/watch?v=j-2qEMyqXCY)
-* [May 11th, 2021 Livestream Q&A: Mug?](./transcriptions/yt-MNWvQrzo_Rk.md) [https://www.youtube.com/watch?v=MNWvQrzo_Rk](https://www.youtube.com/watch?v=MNWvQrzo_Rk)
-* [May 4th, 2021 Livestream Q&A: Update on Cup Merch?](./transcriptions/yt-EwycHQo44KE.md) [https://www.youtube.com/watch?v=EwycHQo44KE](https://www.youtube.com/watch?v=EwycHQo44KE)
-* [March 30th, 2021 Livestream Q&A: When can we order our Coffee Mug?](./transcriptions/yt-UGnFRDOjd-M.md) [https://www.youtube.com/watch?v=UGnFRDOjd-M](https://www.youtube.com/watch?v=UGnFRDOjd-M)
-* [March 23rd, 2021 Livestream Q&A: Update on the Mug?](./transcriptions/yt-9pG00Koq8zY.md) [https://www.youtube.com/watch?v=9pG00Koq8zY](https://www.youtube.com/watch?v=9pG00Koq8zY)
-* [March 2nd, 2021 Livestream Q&A: Coffee Mug?](./transcriptions/yt-eBG3cwtdwuY.md) [https://www.youtube.com/watch?v=eBG3cwtdwuY](https://www.youtube.com/watch?v=eBG3cwtdwuY)
-* [February 16th, 2021 Livestream Q&A: Where's the mug?](./transcriptions/yt-lABA3NfAMXw.md) [https://www.youtube.com/watch?v=lABA3NfAMXw](https://www.youtube.com/watch?v=lABA3NfAMXw)
-* [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./transcriptions/yt-bQnAGoo8jQA.md) [https://www.youtube.com/watch?v=bQnAGoo8jQA](https://www.youtube.com/watch?v=bQnAGoo8jQA)
 </details>
 
 ### [Q&A: Have you checked out Unreal Engine 5?](./transcriptions/yt-OdG-4Fybk0U.md) [https://www.youtube.com/watch?v=OdG-4Fybk0U](https://www.youtube.com/watch?v=OdG-4Fybk0U)
@@ -1311,32 +1226,6 @@ date: Last Modified
 * [March 9th, 2019 Livestream Q&A: How to pet Doggo?](./transcriptions/yt-izvalD5vPuc.md) [https://www.youtube.com/watch?v=izvalD5vPuc](https://www.youtube.com/watch?v=izvalD5vPuc)
 </details>
 
-### [Q&A: Can you explain the Object Limit ?](./transcriptions/yt-F1TmvRv7IQ8.md) [https://www.youtube.com/watch?v=F1TmvRv7IQ8](https://www.youtube.com/watch?v=F1TmvRv7IQ8)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> can you explain the object limit so the object limit is um it's related to unreal engine's garbage collection so it's just a thing that keeps track of all the objects and helps clean them up in memory and all that kind of stuff right um and what what an object is it's not like an item in game right an object is an unreal engine game object right and and this doesn't really make too much sense to a player but if you're a developer you know like so so there could be like you know an object could be a like i think a foundation could be an object but sometimes like one single building can be made up of multiple objects so like a constructor i think historically had like four or four four or seven or something like objects in one object right so like that's and so we've done things to help like optimize that but that's what the object limit is and so the the the max limit there is just how many of those unreal engine game objects can we keep track of at a time
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 10 other times, as recently as March 2021 and as early as August 2020.</summary>
-
-* [March 30th, 2021 Livestream Q&A: What's the Object Limit?](./transcriptions/yt-KjV7JMFQ3Is.md) [https://www.youtube.com/watch?v=KjV7JMFQ3Is](https://www.youtube.com/watch?v=KjV7JMFQ3Is)
-* [October 9th, 2020 Livestream Q&A: What is the limit?](./transcriptions/yt-Njv_PJT3B2g.md) [https://www.youtube.com/watch?v=Njv_PJT3B2g](https://www.youtube.com/watch?v=Njv_PJT3B2g)
-* [October 6th, 2020 Livestream Q&A: What is the object limit and why is it that number?](./transcriptions/yt-VpCuu0aYFw0.md) [https://www.youtube.com/watch?v=VpCuu0aYFw0](https://www.youtube.com/watch?v=VpCuu0aYFw0)
-* [September 1st, 2020 Livestream Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?](./transcriptions/yt-RyE_hc4huhA.md) [https://www.youtube.com/watch?v=RyE_hc4huhA](https://www.youtube.com/watch?v=RyE_hc4huhA)
-* August 18th, 2020 Livestream Build Limit (Part 1): [https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis](https://clips.twitch.tv/SplendidAffluentVampireNotLikeThis)
-* August 18th, 2020 Livestream Build Limit (Part 2): [https://clips.twitch.tv/UnusualExquisiteKuduDendiFace](https://clips.twitch.tv/UnusualExquisiteKuduDendiFace)
-* August 18th, 2020 Livestream Build Limit (Part 3): [https://clips.twitch.tv/SullenColdbloodedDiscEagleEye](https://clips.twitch.tv/SullenColdbloodedDiscEagleEye)
-* August 18th, 2020 Livestream Build Limit (Part 4): [https://clips.twitch.tv/BlitheEnergeticEelPRChase](https://clips.twitch.tv/BlitheEnergeticEelPRChase)
-* August 18th, 2020 Livestream Build Limit (Part 5): [https://clips.twitch.tv/GiantGeniusGooseCclamChamp](https://clips.twitch.tv/GiantGeniusGooseCclamChamp)
-* August 18th, 2020 Livestream Build Limit (Part 6): [https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ](https://clips.twitch.tv/BoxySmallAsparagusSmoocherZ)
-</details>
-
 ### [Q&A: Will Satisfactory have PvP?](./transcriptions/yt-yktQGSMqHyo.md) [https://www.youtube.com/watch?v=yktQGSMqHyo](https://www.youtube.com/watch?v=yktQGSMqHyo)
 
 <details>
@@ -1464,37 +1353,6 @@ date: Last Modified
 * [March 9th, 2019 Livestream Q&A: Where is Lizard Doggo?](./transcriptions/yt-bB6SOIoAYg4.md) [https://www.youtube.com/watch?v=bB6SOIoAYg4](https://www.youtube.com/watch?v=bB6SOIoAYg4)
 </details>
 
-### [Q&A: Any talk of adding Farming?](./transcriptions/yt-bGXZgS3dKc8.md) [https://www.youtube.com/watch?v=bGXZgS3dKc8](https://www.youtube.com/watch?v=bGXZgS3dKc8)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> guessing this gets asked a bit but any talk on adding farming actually doesn't get asked that often but it is something that has been requested and has been something that we sort of commented on before definitely sounds cool sounds fun uh don't really know um yeah don't really know much more beyond that but it is something that people think is uh cool and can make sense
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 15 other times, as recently as May 2021 and as early as March 2019.</summary>
-
-* [May 11th, 2021 Livestream Q&A: Grow things?](./transcriptions/yt-drp-Fjdq8Q0.md) [https://www.youtube.com/watch?v=drp-Fjdq8Q0](https://www.youtube.com/watch?v=drp-Fjdq8Q0)
-* [April 27th, 2021 Livestream Q&A: Farms?](./transcriptions/yt-kq125_HSqqE.md) [https://www.youtube.com/watch?v=kq125_HSqqE](https://www.youtube.com/watch?v=kq125_HSqqE)
-* [April 6th, 2021 Livestream Q&A: Farming system?](./transcriptions/yt-1HxhGdiIGwk.md) [https://www.youtube.com/watch?v=1HxhGdiIGwk](https://www.youtube.com/watch?v=1HxhGdiIGwk)
-* [March 23rd, 2021 Livestream Q&A: Will there ever be Farming in the game?](./transcriptions/yt-o2GDy5QKSfQ.md) [https://www.youtube.com/watch?v=o2GDy5QKSfQ](https://www.youtube.com/watch?v=o2GDy5QKSfQ)
-* [February 23rd, 2021 Livestream Q&A: Is there a plan to let us grow food in some way?](./transcriptions/yt-axNVUjsuMwo.md) [https://www.youtube.com/watch?v=axNVUjsuMwo](https://www.youtube.com/watch?v=axNVUjsuMwo)
-* [January 26th, 2021 Livestream Q&A: Farming would be cool?](./transcriptions/yt-qO1Zl01HfqU.md) [https://www.youtube.com/watch?v=qO1Zl01HfqU](https://www.youtube.com/watch?v=qO1Zl01HfqU)
-* [December 17th, 2020 Q&A: Are farms going to be a thing?](./transcriptions/yt--JXPsTlJIiI,844.2767666666667,875.7081666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=844&end=876](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=844&end=876)
-* [December 15th, 2020 Livestream Q&A: Is automated food production planned?](./transcriptions/yt--9WFYJETif4.md) [https://www.youtube.com/watch?v=-9WFYJETif4](https://www.youtube.com/watch?v=-9WFYJETif4)
-* [October 20th, 2020 Livestream Q&A: Any word on farming Pale Berries / Nuts / Bacon?](./transcriptions/yt-L1Ur5X7gVH8.md) [https://www.youtube.com/watch?v=L1Ur5X7gVH8](https://www.youtube.com/watch?v=L1Ur5X7gVH8)
-* [September 22nd, 2020 Livestream Q&A: Farm?](./transcriptions/yt-2i5toplIVJo.md) [https://www.youtube.com/watch?v=2i5toplIVJo](https://www.youtube.com/watch?v=2i5toplIVJo)
-* [September 1st, 2020 Livestream Q&A: Can we have food-making in the game?](./transcriptions/yt-2sE4CPkkc3o.md) [https://www.youtube.com/watch?v=2sE4CPkkc3o](https://www.youtube.com/watch?v=2sE4CPkkc3o)
-* [June 8th, 2020 Livestream Q&A: What do you think about Farming?](./transcriptions/yt-UijCvihSvzE.md) [https://www.youtube.com/watch?v=UijCvihSvzE](https://www.youtube.com/watch?v=UijCvihSvzE)
-* [May 15th, 2020 Q&A: Will there be a farming system with seeds and stuff so we can plant our own fruits?](./transcriptions/yt-NlIVwoRqjVk,1164.4633000000001,1176.7088666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1164&end=1177](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1164&end=1177)
-* [March 24th, 2020 Livestream Q&A: Berry Farming?](./transcriptions/yt-2Cq3xmLN8sQ.md) [https://www.youtube.com/watch?v=2Cq3xmLN8sQ](https://www.youtube.com/watch?v=2Cq3xmLN8sQ)
-* [March 9th, 2019 Livestream Q&A: Any plans for farming (for biomass production) ?](./transcriptions/yt-unMHGjOsGAc.md) [https://www.youtube.com/watch?v=unMHGjOsGAc](https://www.youtube.com/watch?v=unMHGjOsGAc)
-</details>
-
 ### [Q&A: Have you tossed around the idea of Survival?](./transcriptions/yt-lT59LnhiKdI.md) [https://www.youtube.com/watch?v=lT59LnhiKdI](https://www.youtube.com/watch?v=lT59LnhiKdI)
 
 <details>
@@ -1539,37 +1397,6 @@ date: Last Modified
 * [December 15th, 2020 Livestream Q&A: Will we be able to deal with Gas towers you can't kill right now?](./transcriptions/yt-0nRCXveJemw.md) [https://www.youtube.com/watch?v=0nRCXveJemw](https://www.youtube.com/watch?v=0nRCXveJemw)
 * [September 8th, 2020 Livestream Q&A: When can Poison Pillars be removed?](./transcriptions/yt-BRpEHi7W7u0.md) [https://www.youtube.com/watch?v=BRpEHi7W7u0](https://www.youtube.com/watch?v=BRpEHi7W7u0)
 * [December 19th, 2019 Livestream Q&A: Is there going to be a way to destroy the fart rock?](./transcriptions/yt-byPiSQZOAhw.md) [https://www.youtube.com/watch?v=byPiSQZOAhw](https://www.youtube.com/watch?v=byPiSQZOAhw)
-</details>
-
-### [Q&A: How many Updates before Release?](./transcriptions/yt-dHKlfnU7pm8.md) [https://www.youtube.com/watch?v=dHKlfnU7pm8](https://www.youtube.com/watch?v=dHKlfnU7pm8)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh how many updates before release we haven't decided on like a number or anything like that that can change um um we have said that we're releasing update five and uh there's probably one people yeah yeah it's probably gonna be another one at least another one after that at least it could be more than one more but yeah we'll see
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 15 other times, as recently as May 2021 and as early as March 2019.</summary>
-
-* May 11th, 2021 Livestream Q&A: How many Updates before 1.0? [https://www.youtube.com/watch?v=h3_N7HE2ZPQ](https://www.youtube.com/watch?v=h3_N7HE2ZPQ)
-* April 20th, 2021 Livestream Q&A: How many Updates before full release? [https://www.youtube.com/watch?v=7XSZ-08BaXc](https://www.youtube.com/watch?v=7XSZ-08BaXc)
-* [March 23rd, 2021 Livestream Q&A: Will this be the last Update before 1.0?](./transcriptions/yt-DOFC8O2yXNw.md) [https://www.youtube.com/watch?v=DOFC8O2yXNw](https://www.youtube.com/watch?v=DOFC8O2yXNw)
-* [March 23rd, 2021 Livestream Q&A: How many more big Updates are planned before 1.0?](./transcriptions/yt-RAyToKIKD2I.md) [https://www.youtube.com/watch?v=RAyToKIKD2I](https://www.youtube.com/watch?v=RAyToKIKD2I)
-* March 2nd, 2021 Livestream Q&A: How many Updates are planned before 1.0? [https://www.youtube.com/watch?v=DVSYDPE6STc](https://www.youtube.com/watch?v=DVSYDPE6STc)
-* [February 23rd, 2021 Livestream Q&A: Any more major updates planned before 1.0?](./transcriptions/yt-XLXeOMWHoAc.md) [https://www.youtube.com/watch?v=XLXeOMWHoAc](https://www.youtube.com/watch?v=XLXeOMWHoAc)
-* [February 9th, 2021 Livestream Q&A: Is Update 4 the last update?](./transcriptions/yt-3fNjN1FjhPU.md) [https://www.youtube.com/watch?v=3fNjN1FjhPU](https://www.youtube.com/watch?v=3fNjN1FjhPU)
-* January 26th, 2021 Livestream Q&A: How many Updates do you have planned before 1.0? [https://www.youtube.com/watch?v=7t2DLBi7kl8](https://www.youtube.com/watch?v=7t2DLBi7kl8)
-* [November 3rd, 2020 Livestream Q&A: How many Updates until 1.0?](./transcriptions/yt-qtf26oE7kQs.md) [https://www.youtube.com/watch?v=qtf26oE7kQs](https://www.youtube.com/watch?v=qtf26oE7kQs)
-* [September 1st, 2020 Livestream Q&A: About how many Updates will there be before 1.0?](./transcriptions/yt-eIolvvHPWmw.md) [https://www.youtube.com/watch?v=eIolvvHPWmw](https://www.youtube.com/watch?v=eIolvvHPWmw)
-* August 18th, 2020 Livestream Q&A: How often will there be updates to the game? [https://clips.twitch.tv/CheerfulZanyWebVoteYea](https://clips.twitch.tv/CheerfulZanyWebVoteYea)
-* [May 19th, 2020 Livestream Q&A: Do you intended to do planned amount of huge Updates?](./transcriptions/yt-Nk53HWpUnnk.md) [https://www.youtube.com/watch?v=Nk53HWpUnnk](https://www.youtube.com/watch?v=Nk53HWpUnnk)
-* [March 24th, 2020 Livestream Q&A: How often will you be releasing new content?](./transcriptions/yt-1gGMZa-xf70.md) [https://www.youtube.com/watch?v=1gGMZa-xf70](https://www.youtube.com/watch?v=1gGMZa-xf70)
-* [November 5th, 2019 Q&A: Is this the last update?](./transcriptions/yt-Fsod_UF5eus,138.04,156.08.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=138&end=157](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=138&end=157)
-* [March 9th, 2019 Livestream Q&A: How often will you release updates in Early Access?](./transcriptions/yt-PBkvqmyjADM.md) [https://www.youtube.com/watch?v=PBkvqmyjADM](https://www.youtube.com/watch?v=PBkvqmyjADM)
 </details>
 
 ### Q&A: Adding boats, ports, or mass shipping around the coast? [https://www.youtube.com/watch?v=O_Ti41Q-JyE](https://www.youtube.com/watch?v=O_Ti41Q-JyE)
@@ -2117,30 +1944,6 @@ date: Last Modified
 * [November 10th, 2020 Livestream Q&A: Will there be faster Smelter/Manufacturers?](./transcriptions/yt-eiGqL7qpc14.md) [https://www.youtube.com/watch?v=eiGqL7qpc14](https://www.youtube.com/watch?v=eiGqL7qpc14)
 </details>
 
-### [Q&A: Will there be another map?](./transcriptions/yt-yR31iCrXx4w.md) [https://www.youtube.com/watch?v=yR31iCrXx4w](https://www.youtube.com/watch?v=yR31iCrXx4w)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh will be another map no nothing planned that is more optimized exactly more work for hannah confirmed there's always more work for hannah hannah never sleeps
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as October 2020 and as early as May 2020.</summary>
-
-* [October 27th, 2020 Livestream Q&A: What about a new Map?](./transcriptions/yt-O9cRWaKhSRo.md) [https://www.youtube.com/watch?v=O9cRWaKhSRo](https://www.youtube.com/watch?v=O9cRWaKhSRo)
-* [October 1st, 2020 Q&A: Any new maps coming?](./transcriptions/yt-rATcozDE25c,763.0623,781.3472333333333.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=763&end=782](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=763&end=782)
-* [September 22nd, 2020 Livestream Q&A: Any chance of a new Map?](./transcriptions/yt-GcWk8f29OBM.md) [https://www.youtube.com/watch?v=GcWk8f29OBM](https://www.youtube.com/watch?v=GcWk8f29OBM)
-* [September 8th, 2020 Livestream Q&A: Any plans for new Maps?](./transcriptions/yt-zBv2UdKrYtI.md) [https://www.youtube.com/watch?v=zBv2UdKrYtI](https://www.youtube.com/watch?v=zBv2UdKrYtI)
-* [August 25th, 2020 Livestream Q&A: Like a new map for Satisfactory?](./transcriptions/yt-gNfCEV1J-2Q.md) [https://www.youtube.com/watch?v=gNfCEV1J-2Q](https://www.youtube.com/watch?v=gNfCEV1J-2Q)
-* August 18th, 2020 Livestream Q&A: Any different maps planned? [https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat](https://clips.twitch.tv/PlausibleEnthusiasticGrassRedCoat)
-* [June 8th, 2020 Livestream Q&A: Will we have other maps?](./transcriptions/yt-1-A4zqHdNKA.md) [https://www.youtube.com/watch?v=1-A4zqHdNKA](https://www.youtube.com/watch?v=1-A4zqHdNKA)
-* [May 15th, 2020 Q&A: In a far and glorious future will we have other maps?](./transcriptions/yt-NlIVwoRqjVk,1213.6124,1227.0591666666667.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1213&end=1228](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1213&end=1228)
-</details>
-
 ### [Q&A: Can Chainsaw use liquid (fuel) in the future?](./transcriptions/yt-pxBuKCXaE6Y.md) [https://www.youtube.com/watch?v=pxBuKCXaE6Y](https://www.youtube.com/watch?v=pxBuKCXaE6Y)
 
 <details>
@@ -2427,34 +2230,6 @@ date: Last Modified
 * [March 24th, 2020 Livestream Q&A: Will there be a roadmap again for Updates?](./transcriptions/yt-EiqFP9bm7v4.md) [https://www.youtube.com/watch?v=EiqFP9bm7v4](https://www.youtube.com/watch?v=EiqFP9bm7v4)
 </details>
 
-### [Q&A: Gonna be weather changes, like rain, snow, and sand storms?](./transcriptions/yt-wUZr64_l6R4.md) [https://www.youtube.com/watch?v=wUZr64_l6R4](https://www.youtube.com/watch?v=wUZr64_l6R4)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> gonna be weather changes like rain snow and sandstorms i don't know i don't think so
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 12 other times, as recently as March 2021 and as early as August 2018.</summary>
-
-* [March 9th, 2021 Livestream Q&A: Will there be Weather in the game?](./transcriptions/yt-m9oykKdGfUE.md) [https://www.youtube.com/watch?v=m9oykKdGfUE](https://www.youtube.com/watch?v=m9oykKdGfUE)
-* [February 16th, 2021 Livestream Q&A: Storm or natural disasters in the game?](./transcriptions/yt-LgYBDQkiTrk.md) [https://www.youtube.com/watch?v=LgYBDQkiTrk](https://www.youtube.com/watch?v=LgYBDQkiTrk)
-* [November 17th, 2020 Livestream Q&A: Any plans on Weather cycles?](./transcriptions/yt--QpGRQcZfe0.md) [https://www.youtube.com/watch?v=-QpGRQcZfe0](https://www.youtube.com/watch?v=-QpGRQcZfe0)
-* [November 10th, 2020 Livestream Q&A: Can we get Weather to change?](./transcriptions/yt-iq-K9FY-RT8.md) [https://www.youtube.com/watch?v=iq-K9FY-RT8](https://www.youtube.com/watch?v=iq-K9FY-RT8)
-* [November 10th, 2020 Livestream Q&A: Will we have Weather events?](./transcriptions/yt-MzWzCnmbkYI.md) [https://www.youtube.com/watch?v=MzWzCnmbkYI](https://www.youtube.com/watch?v=MzWzCnmbkYI)
-* [October 1st, 2020 Q&A: Will there be any environmental influences later on, like climate change or heatwave storms?](./transcriptions/yt-rATcozDE25c,390.9238666666667,429.5291.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=390&end=430](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=390&end=430)
-* [September 22nd, 2020 Livestream Q&A: Weather in Satisfactory?](./transcriptions/yt-Sxvg881RjeA.md) [https://www.youtube.com/watch?v=Sxvg881RjeA](https://www.youtube.com/watch?v=Sxvg881RjeA)
-* [September 8th, 2020 Livestream Q&A: Do we intend to add rain/storms ?](./transcriptions/yt-3WDeVbpr30g.md) [https://www.youtube.com/watch?v=3WDeVbpr30g](https://www.youtube.com/watch?v=3WDeVbpr30g)
-* August 11th, 2020 Livestream Q&A: What about Weather systems? [https://clips.twitch.tv/SilkyFurryCheetahMVGame](https://clips.twitch.tv/SilkyFurryCheetahMVGame)
-* [May 15th, 2020 Q&A: Will there be weather changes?](./transcriptions/yt-NlIVwoRqjVk,374.5742,397.43036666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398)
-* February 20th, 2019 Livestream Q&A: Weather confirmed? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
-* August 1st, 2018 Q&A: Is there Weather in the game? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
-</details>
-
 ### [Q&A: Will we get Mk.2 Power Storage in the future?](./transcriptions/yt-jsp79Vz8tA0.md) [https://www.youtube.com/watch?v=jsp79Vz8tA0](https://www.youtube.com/watch?v=jsp79Vz8tA0)
 
 <details>
@@ -2584,25 +2359,6 @@ date: Last Modified
 * [February 9th, 2021 Livestream Q&A: When does Experimental come to Early Access?](./transcriptions/yt-s0KzZA300xo.md) [https://www.youtube.com/watch?v=s0KzZA300xo](https://www.youtube.com/watch?v=s0KzZA300xo)
 </details>
 
-### [Q&A: Do you think we'll rework Radar Towers?](./transcriptions/yt-hoLnbnTC5vE.md) [https://www.youtube.com/watch?v=hoLnbnTC5vE](https://www.youtube.com/watch?v=hoLnbnTC5vE)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> um do you think we'll rework radar towers in what sense like are we happy because that's a pretty good point too are we happy with the the way the map works in the game with like the exploration aspects of it i think we could do a lot more with it uh also the radar tower if you think from a purely gameplay perspective then i think there could be more benefits to having it uh and the map has always been the suspension point of like we kind of wanted in the mam but then you also as a new player you don't even know that it's there uh how do you know where to get the map maybe it's just something that we should give by default or it should be way clearer that you can get it in that quartz research somehow uh there's different things there but yeah i want to do more with the map in general as well wait do you not get the map from from the map right now yeah you do yeah okay i was like oh yeah yeah yeah you get in the quartz research pretty pretty easily but the problem is that generally you don't know that it's there you have to know yeah i've seen a bunch of people are like hey why do i not have the map yet and it's like because you haven't researched it that's true yeah maybe that's one of those things you don't want to put behind a progression wall like that where yeah uh raider towers have no use uh i guess they help you like what do they actually do i've never used onex they reveal parts of the map yeah that's it right yeah because we have to think they could do more yeah we have talked about like maybe being able to like scout on the map stuff because you have the like an upgrade to your uh object scanner because right now the obvious scanner is just like it just looks so the closest one in proximity whereas the radar tower could be more like in this area you can find that's pretty cool though like you get an area of effect on the map where an object is i was also thinking it could just constantly show you what resources are within its radius so you don't have to constantly scan for them to see them that kind of becomes an issue of course with the compass but i think we can figure something out for that yeah that would already make it more practical another suggestion i think that burke gave me a while back was that if we do the logic system or the circuit system however you want to call it that could be a really cool use as well for the raider tower to potentially send data from those kind of systems over longer distances to other parts of the factory right so there is some more potential for them i think both with the map and other features that we might want to add
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as March 2021 and as early as December 2020.</summary>
-
-* [March 23rd, 2021 Livestream Q&A: Will there be additional use for Radar Towers?](./transcriptions/yt-vfJj5Fg21WI.md) [https://www.youtube.com/watch?v=vfJj5Fg21WI](https://www.youtube.com/watch?v=vfJj5Fg21WI)
-* [February 9th, 2021 Livestream Q&A: Do you have any plans for the Radar Towers?](./transcriptions/yt-Jb1JBMGknBY.md) [https://www.youtube.com/watch?v=Jb1JBMGknBY](https://www.youtube.com/watch?v=Jb1JBMGknBY)
-* [December 15th, 2020 Livestream Q&A: Will Radar Towers get a Mk.2 version?](./transcriptions/yt--2Z0rsxuisQ.md) [https://www.youtube.com/watch?v=-2Z0rsxuisQ](https://www.youtube.com/watch?v=-2Z0rsxuisQ)
-</details>
-
 ## [March 30th, 2021 Livestream](./2021-03-30.md)
 ### [Q&A: Faster autosaves?](./transcriptions/yt-V1HcV3g7ELg.md) [https://www.youtube.com/watch?v=V1HcV3g7ELg](https://www.youtube.com/watch?v=V1HcV3g7ELg)
 
@@ -2677,13 +2433,12 @@ date: Last Modified
 ### Q&A: More space-based stuff coming? [https://www.youtube.com/watch?v=pTyR9FXrU_E](https://www.youtube.com/watch?v=pTyR9FXrU_E)
 
 <details>
-<summary>This question may have been asked previously at least 9 other times, as recently as February 2021 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 8 other times, as recently as February 2021 and as early as February 2019.</summary>
 
 * [February 23rd, 2021 Livestream Q&A: Planning on making any space stuff?](./transcriptions/yt-pYPBpZdBvP4.md) [https://www.youtube.com/watch?v=pYPBpZdBvP4](https://www.youtube.com/watch?v=pYPBpZdBvP4)
 * [February 16th, 2021 Livestream Q&A: Do you guys plan on any space stations or building amongst multi planets?](./transcriptions/yt-OJ8LnojSUzo.md) [https://www.youtube.com/watch?v=OJ8LnojSUzo](https://www.youtube.com/watch?v=OJ8LnojSUzo)
 * [February 9th, 2021 Livestream Q&A: Are there going to be other planets in the game?](./transcriptions/yt-Xg0nkRNXaIk.md) [https://www.youtube.com/watch?v=Xg0nkRNXaIk](https://www.youtube.com/watch?v=Xg0nkRNXaIk)
 * August 25th, 2020 Livestream Q&A: Will there be a rocket to leave the planet? [https://clips.twitch.tv/BusyPowerfulWombatSoonerLater](https://clips.twitch.tv/BusyPowerfulWombatSoonerLater)
-* [May 19th, 2020 Livestream Q&A: Planet has floating rocks, is not bound by Earth physics?](./transcriptions/yt-jXwIeLGuSvI.md) [https://www.youtube.com/watch?v=jXwIeLGuSvI](https://www.youtube.com/watch?v=jXwIeLGuSvI)
 * [May 15th, 2020 Q&A: Will we ever be able to leave this planet?](./transcriptions/yt-NlIVwoRqjVk,1008.3073,1019.9856333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1008&end=1020](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1008&end=1020)
 * [March 9th, 2019 Livestream Q&A: Will the game expand into space or will it stay on the ground?](./transcriptions/yt-Ea0f72zZshQ.md) [https://www.youtube.com/watch?v=Ea0f72zZshQ](https://www.youtube.com/watch?v=Ea0f72zZshQ)
 * February 20th, 2019 Livestream Q&A: Can you travel to other planets? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314)
@@ -2730,6 +2485,24 @@ date: Last Modified
 </details>
 
 ## [March 23rd, 2021 Livestream](./2021-03-23.md)
+### [Q&A: Will this be the last Update before 1.0?](./transcriptions/yt-DOFC8O2yXNw.md) [https://www.youtube.com/watch?v=DOFC8O2yXNw](https://www.youtube.com/watch?v=DOFC8O2yXNw)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will this be the last update before 1.0 no the we still have update 5 slated at some point i don't know how many updates we'll do after that um or even how many updates come in between that because we've kind of we went down the path of like doing like a smaller update uh which we call the fluid update uh in between three and four um and we kind of like that approach too um maybe we'll just like change and just rename all the updates to just number updates but we'll see we'll see
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as March 2021 and as early as February 2021.</summary>
+
+* March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary Q&A: Update 4 is the last one? [https://www.youtube.com/watch?v=YiacwbKpDzY](https://www.youtube.com/watch?v=YiacwbKpDzY)
+* [February 9th, 2021 Livestream Q&A: Is Update 4 the last update?](./transcriptions/yt-3fNjN1FjhPU.md) [https://www.youtube.com/watch?v=3fNjN1FjhPU](https://www.youtube.com/watch?v=3fNjN1FjhPU)
+</details>
+
 ### [Q&A: Will the game Soundtrack come to Spotify soon?](./transcriptions/yt-bBS_pCVpXwY.md) [https://www.youtube.com/watch?v=bBS_pCVpXwY](https://www.youtube.com/watch?v=bBS_pCVpXwY)
 
 <details>
@@ -3003,6 +2776,19 @@ date: Last Modified
 ### [Q&A: Why does it go to Experimental first?](./transcriptions/yt-F-q3vfj__M4,31.36466666666667,80.08.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81)
 
 <details>
+
+<summary>A transcript is available</summary>
+
+> hey everyone my name is jason i'm the community manager coffee stay in studios and today i don't have any cool like content or teasers or or anything like that no leaks but i do have information uh we have a release date for update four on experimental uh previously we had said maybe march 9th maybe march 16th uh can confirm now that march 16th is the date that we're going for we're really short 99 sure that we can hit march 16th you never know with gamedev something crazy might happen and maybe there'll be a delay but we're pretty certain that we're good for march 16. we still have questions now you know why does it go to experimental first and basically it's because we want the early access branch to be stable basically that's our stable branch and we do everything we can to make sure that the you know with testing internally to make sure that the game is as stable as possible when we bring it to experimental but we can never really be sure you know there's only like 30 40 of us or something like that and there's a bajillion of you guys and the feedback and the crash reports and all that kind of stuff that we get from you guys in the community um is just on a level that we couldn't get ourselves when testing internally so we put it we always put this stuff out all of our updates out on experimental first we gather as much information and feedback from you guys as possible fix any bugs all that kind of stuff stabilize the game and then once it's stable we bring it over to early access and that's just kind of the procedure that we have you might be wondering then so like okay so when's it gonna be on early access then don't know uh that completely depends on the feedback we get from you guys right but we kind of have a rough plan and our rough plan is we want to be on experimental for maybe about a month it'll take to stabilize it is our guess but this completely depends on like i said what information we get from you guys so take that date with a grain of salt you know it could be a month after that it could be two months after that if things really aren't going well um but we'll get it over to early access as soon as we can uh now you might be wondering okay well i'm on early access how do i get on get in on this experimental stuff you know i want i want to fly close to the sun i'm going to live life on the edge right i don't care if it's unstable i want update for the second it drops how do i get experimental i hear you say okay so everyone has access to experimental if you are on the epic version of the game in your epic library you actually will just have two versions of satisfactory there one's experimental one's early access download the experimental one and play if you're on steam and you want access to the experimental version you just find satisfactory in your steam library and you right click on it go to properties select betas there's a drop down box and then choose experimental from the drop down box and that's all it is the game will redownload the experimental version of the game one thing that you should be wary of is your save files whenever changing versions always back up your saves save files from early access to experimental are supported not necessarily the other way around and then also experimental is unstable so you never know what's gonna happen maybe you need to revert but then you can't and you've lost your save files now so back up your saves i'll leave the path to your save files in the description down below back them up before changing branches like that okay uh yeah so that's it you know when it's coming too experimental you kind of know when maybe it's coming to early access you now know how to get experimental if you didn't already and uh yeah update four come in march 16th we will also do a big stream so we stream every week at twitch.tv coffeestandstudiosdevs and we will do a special stream on march 16th for the release of update 4 if you want to hang out with us at that time so thank you all so much for watching this video i know it was just a lot of talking a lot of information but i hope you found it interesting and useful and i hope you have a lovely weekend this weekend take care everybody
+>
+> [Music]
+>
+> bye you
+
+
+</details>
+
+<details>
 <summary>This question may have been asked previously at least 7 other times, as recently as February 2021 and as early as October 2020.</summary>
 
 * [February 23rd, 2021 Livestream Q&A: Is that March date for Experimental?](./transcriptions/yt-sQTpG9Ws6EA.md) [https://www.youtube.com/watch?v=sQTpG9Ws6EA](https://www.youtube.com/watch?v=sQTpG9Ws6EA)
@@ -3015,6 +2801,19 @@ date: Last Modified
 </details>
 
 ### [Q&A: I'm on Early Access, how do I get in on this Experimental stuff?](./transcriptions/yt-F-q3vfj__M4,112.71260000000001,182.71586666666667.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> hey everyone my name is jason i'm the community manager coffee stay in studios and today i don't have any cool like content or teasers or or anything like that no leaks but i do have information uh we have a release date for update four on experimental uh previously we had said maybe march 9th maybe march 16th uh can confirm now that march 16th is the date that we're going for we're really short 99 sure that we can hit march 16th you never know with gamedev something crazy might happen and maybe there'll be a delay but we're pretty certain that we're good for march 16. we still have questions now you know why does it go to experimental first and basically it's because we want the early access branch to be stable basically that's our stable branch and we do everything we can to make sure that the you know with testing internally to make sure that the game is as stable as possible when we bring it to experimental but we can never really be sure you know there's only like 30 40 of us or something like that and there's a bajillion of you guys and the feedback and the crash reports and all that kind of stuff that we get from you guys in the community um is just on a level that we couldn't get ourselves when testing internally so we put it we always put this stuff out all of our updates out on experimental first we gather as much information and feedback from you guys as possible fix any bugs all that kind of stuff stabilize the game and then once it's stable we bring it over to early access and that's just kind of the procedure that we have you might be wondering then so like okay so when's it gonna be on early access then don't know uh that completely depends on the feedback we get from you guys right but we kind of have a rough plan and our rough plan is we want to be on experimental for maybe about a month it'll take to stabilize it is our guess but this completely depends on like i said what information we get from you guys so take that date with a grain of salt you know it could be a month after that it could be two months after that if things really aren't going well um but we'll get it over to early access as soon as we can uh now you might be wondering okay well i'm on early access how do i get on get in on this experimental stuff you know i want i want to fly close to the sun i'm going to live life on the edge right i don't care if it's unstable i want update for the second it drops how do i get experimental i hear you say okay so everyone has access to experimental if you are on the epic version of the game in your epic library you actually will just have two versions of satisfactory there one's experimental one's early access download the experimental one and play if you're on steam and you want access to the experimental version you just find satisfactory in your steam library and you right click on it go to properties select betas there's a drop down box and then choose experimental from the drop down box and that's all it is the game will redownload the experimental version of the game one thing that you should be wary of is your save files whenever changing versions always back up your saves save files from early access to experimental are supported not necessarily the other way around and then also experimental is unstable so you never know what's gonna happen maybe you need to revert but then you can't and you've lost your save files now so back up your saves i'll leave the path to your save files in the description down below back them up before changing branches like that okay uh yeah so that's it you know when it's coming too experimental you kind of know when maybe it's coming to early access you now know how to get experimental if you didn't already and uh yeah update four come in march 16th we will also do a big stream so we stream every week at twitch.tv coffeestandstudiosdevs and we will do a special stream on march 16th for the release of update 4 if you want to hang out with us at that time so thank you all so much for watching this video i know it was just a lot of talking a lot of information but i hope you found it interesting and useful and i hope you have a lovely weekend this weekend take care everybody
+>
+> [Music]
+>
+> bye you
+
+
+</details>
 
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as October 2020.</summary>
@@ -3443,28 +3242,6 @@ date: Last Modified
 * [September 1st, 2020 Livestream Q&A: Maybe it's a good idea to dynamically hand over authority a vehicle in multiplayer?](./transcriptions/yt-Xdrr6IazPTg.md) [https://www.youtube.com/watch?v=Xdrr6IazPTg](https://www.youtube.com/watch?v=Xdrr6IazPTg)
 </details>
 
-### [Q&A: Will there be ways to see your total production per minute?](./transcriptions/yt-tHzH3dkTZ4s.md) [https://www.youtube.com/watch?v=tHzH3dkTZ4s](https://www.youtube.com/watch?v=tHzH3dkTZ4s)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> let's see will there be ways to see your total production um per minute blah blah blah or maybe achievements we're getting certain production rates that's something what we've i'm pretty sure we've said that that's going to happen i'm not i'm not i'm sure we've said that but i'm not sure if we said that you know what i mean uh there we want some way to be able to manage to to view that i don't know exactly how we would do that but there is some intention from our part to like make it possible for you to be able to see how performant your factory is essentially but i don't know exactly how that will work and we've seen like the mods that are where like you have you're using like the object scanner to like look at the the belts and stuff like that um we've seen that and and we're gonna like yeah we have some ideas i don't know exactly what we've uh committed to but eventually i don't think it's gonna be up for four but maybe in the future
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 6 other times, as recently as December 2020 and as early as December 2019.</summary>
-
-* [December 17th, 2020 Q&A: Why don't my computer screens in my hub show me power consumption or total production?](./transcriptions/yt--JXPsTlJIiI,808.0739333333333,844.2767666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845)
-* [November 17th, 2020 Livestream Q&A: What's the reason for not having good in-production overview?](./transcriptions/yt-66gt7CjmdXs.md) [https://www.youtube.com/watch?v=66gt7CjmdXs](https://www.youtube.com/watch?v=66gt7CjmdXs)
-* [November 17th, 2020 Livestream Q&A: Any chance to use the HUB Computer to display the statistics and production of the factory?](./transcriptions/yt-5rVqTHOiwh0.md) [https://www.youtube.com/watch?v=5rVqTHOiwh0](https://www.youtube.com/watch?v=5rVqTHOiwh0)
-* [September 29th, 2020 Livestream Q&A: Control Console with a simple representation of the Remote Plants?](./transcriptions/yt-hVDlrmNvsIY.md) [https://www.youtube.com/watch?v=hVDlrmNvsIY](https://www.youtube.com/watch?v=hVDlrmNvsIY)
-* [September 29th, 2020 Livestream Q&A: When are we getting a Production Overview in the game?](./transcriptions/yt-OnK4DcHAB4o.md) [https://www.youtube.com/watch?v=OnK4DcHAB4o](https://www.youtube.com/watch?v=OnK4DcHAB4o)
-* [December 19th, 2019 Livestream Q&A: Is there going to be a central computer plant where you can check the whole production?](./transcriptions/yt-Zlq2K0-z0_8.md) [https://www.youtube.com/watch?v=Zlq2K0-z0_8](https://www.youtube.com/watch?v=Zlq2K0-z0_8)
-</details>
-
 ### [Q&A: How possible are Dedicated Servers in Update 4?](./transcriptions/yt--3JqJE_94g0.md) [https://www.youtube.com/watch?v=-3JqJE_94g0](https://www.youtube.com/watch?v=-3JqJE_94g0)
 
 <details>
@@ -3539,9 +3316,8 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 6 other times, as recently as November 2020 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 5 other times, as recently as October 2020 and as early as February 2019.</summary>
 
-* [November 10th, 2020 Livestream Q&A: Any Easter Eggs nobody's found yet?](./transcriptions/yt-6z70mPmDc5g.md) [https://www.youtube.com/watch?v=6z70mPmDc5g](https://www.youtube.com/watch?v=6z70mPmDc5g)
 * [October 1st, 2020 Q&A: Are there any hidden parts of the map you think people haven't found?](./transcriptions/yt-rATcozDE25c,261.52793333333335,305.83886666666666.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=261&end=306](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=261&end=306)
 * [August 25th, 2020 Livestream Q&A: We need some more Easter Egg hints from Hannah?](./transcriptions/yt-faI65v9Solc.md) [https://www.youtube.com/watch?v=faI65v9Solc](https://www.youtube.com/watch?v=faI65v9Solc)
 * [August 25th, 2020 Livestream Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode?](./transcriptions/yt-7EM97GvjRGY.md) [https://www.youtube.com/watch?v=7EM97GvjRGY](https://www.youtube.com/watch?v=7EM97GvjRGY)
@@ -3753,24 +3529,6 @@ date: Last Modified
 * February 20th, 2019 Livestream Q&A: How many Dutch people at Coffee Stain? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438)
 </details>
 
-### [Q&A: Randomising nodes?](./transcriptions/yt-eTALbWgKmuE.md) [https://www.youtube.com/watch?v=eTALbWgKmuE](https://www.youtube.com/watch?v=eTALbWgKmuE)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh we're randomizing nodes uh yeah like things like randomizing and increase replayability and things uh all these like different game modes like creative mode someone was asking about as well they're all possibilities um but probably added as like extra game modes that people can opt into we're not doing that just yet though
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as October 2020.</summary>
-
-* [November 3rd, 2020 Livestream Q&A: Is it going to be possible to create randomly generated Resources on the Map?](./transcriptions/yt-xeAXhjMWZpI.md) [https://www.youtube.com/watch?v=xeAXhjMWZpI](https://www.youtube.com/watch?v=xeAXhjMWZpI)
-* [October 1st, 2020 Q&A: Any plans to make more randomness like resources, start locations, other random world elements?](./transcriptions/yt-rATcozDE25c,632.7321000000001,695.2278666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=632&end=696](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=632&end=696)
-</details>
-
 ### [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](./transcriptions/yt-IFxnvuYEVtk.md) [https://www.youtube.com/watch?v=IFxnvuYEVtk](https://www.youtube.com/watch?v=IFxnvuYEVtk)
 
 <details>
@@ -3979,6 +3737,19 @@ date: Last Modified
 ### [Q&A: When is the Steam release going to come?](./transcriptions/yt-BmKMv6SZJ5M,122.12,145.62.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=122&end=146](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=122&end=146)
 
 <details>
+
+<summary>A transcript is available</summary>
+
+> oh hi there my name is Jason the community manager coffee stain studios hey everyone my name is Jason I'm a community manager coffee stain studios I guess and today we're I'm just going to be putting out a bit of information yeah I'm in my home because because isolation social distancing quarantine all of that good stuff I just want to let you all know first of all that a lot of people have been asking about how we're doing here coffee stain not here but there and everyone is safe and healthy so far hopefully that doesn't change anytime soon or ever and we are all working from home are a couple people but this is basically no one at the office anymore so we're we're playing it safe and we're taking care of ourselves we are continual continuing to work from home and we're talking to each other online and all that stuff it's a bit tricky not gonna lie but I think development has slowed down just a little while we adjust to what's going on and how things are gonna work but yeah we're doing our best and things are still moving forward and thank you very much for all the concern so the main topic of today is steam a lot of people want to know what's going on not much has been said yet the reason for that is we as you all know we don't know what's going on 99% of the time and yeah we just we just didn't really know and sometimes we have some ideas of what we want to do but when it's just ideas we don't really want to put that those ideas or guesses out there too much because a lot of folks tend to latch on to that and think it's the truth and it gets their hopes up no we don't want to do that we'd rather wait until we're a little more confident on things and so now we've got some information where we are a little more confident on things so now I can present it to you all so now I can present it to you all now okay so when is the steam release going to come again we don't have an exact date but we do have a better timeframe we were sort of thinking like maybe in April but that's not gonna happen we're pretty confident on May now I don't know if it's beginning middle or end I'm just gonna say middle because if it's a little early then you're gonna be happy if it's a little little late it won't be too late so sometime in May folks yeah really looking forward to bring that out for you guys what will the price of the game be on Steam yeah so the price of satisfactory will be the same on Steam as it is on epic so that is 2995 u.s. dollars or $29.99 euro or the relevant changes between different regions okay so cuz we have regional pricing some of the regional pricing may differ between the stores but for the most part the game should be the same price everywhere will my save files work between the Steam and the epic version yep they totally will so if you happen to own steam and epic they're both gonna work we have no intention of making the save format for each platform different so the early difference is your save files might be located in different places on your computer if I in the game on epic can I transfer that to steam or get a free copy on Steam no you can't do that have no idea how that would work another thing to consider here is epic and steam our competitors you've given your money to epic why would steam give you a free version that's just not gonna happen if you own an epic it's yours an epic will there be cross-platform can I play multiplayer with my friends between Steam and epic yeah yes yeah we're gonna make it uh-huh now the thing with that is we're like 99% sure we're gonna have cross-platform and I'm pretty sure we're gonna have it the only thing is how that's gonna look and how it's gonna work is a little bit up in the air as we continue to develop it now so I can't give you any more information on how that will work and yeah so in the future we'll probably do more information on that okay so that's most of the frequently asked questions about steam so I hope that ties your a little more more information will come later will we also want to like give more information about what will be in the update it's not just steam there's gonna be some new stuff in there as well so hopefully we can do that over the coming weeks yeah so the like okay so the the last thing to address here is you've seen it in the descript Idol of the video snoot and I are leaving coffee-stained we announced that on Twitter we started a new YouTube channel called let's get out yeah you know it's like we figured it was time I've been with Coffee State for five and a half years it's time to move on to other things it's been really fun with you all so it was exciting to announce that I had my heart racing the whole time the other thing though is that we released it on April 1st it was an April Fool's joke so we're fine wish you were here yeah we're still here we're not leaving the channel is real the video is real but we're not leaving coffee-stained it was just a joke it was a very very cruel joke I just want to say though a really big thanks to everyone who supported us a lot of people were like we're gonna miss you and all this stuff and that is really nice I'm sorry I'm sorry we played with your heartstrings I'm also not sorry because I love trolling so much we're not going anywhere I've also sorry that we're not going anywhere yeah so that's the last video for this week but you'll have another one next week anyway that's enough for this video I've gone bananas here in quarantine and isolation remember to take care of yourselves and yeah be safe and I will see you maybe next week it's a bit weird making videos from my home but maybe I'll see you next week but we will also have streams on Tuesday as always at 4 p.m. Sweden time CET 3:00 p.m. GMT so yeah you can catch us there then twitch.tv slash coffee stain studios devs have a lovely day everybody and I'll catch you next time bye
+>
+> [Music]
+>
+> this by good
+
+
+</details>
+
+<details>
 <summary>This question may have been asked previously at least 3 other times, as recently as February 2020 and as early as February 2019.</summary>
 
 * [February 20th, 2020 Video Q&A: When will the game be released on Steam?](./transcriptions/yt-QBE1Xl94s9o,100.04,137.04.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=100&end=138](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=100&end=138)
@@ -4014,6 +3785,53 @@ date: Last Modified
 ### Q&A: Pipes? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=278&end=281](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=278&end=281)
 
 <details>
+
+<summary>A transcript is available</summary>
+
+> [Music]
+>
+> [Music]
+>
+> [Music]
+>
+> [Music]
+>
+> [Music]
+>
+> [Music]
+>
+> [Music]
+>
+> [Music]
+>
+> what boom hello everyone hi hi hi so my name is Jace you probably know that already I'm joined here with Hannah and snit that's me and a big THANK YOU to snowed for for putting this entire stream all the technical stuff together is I'm a fantastic job you'll see how hopefully it'll work so probably should we've seen it don't see don't set it up like it seems great I think it's really great hopefully it'll works out but um yeah so welcome to the stream thank you very much for joining and obviously this is gonna be a Q&amp;A slash kind of like a hangout thing a lot of people are probably gonna ask general questions about satisfactory like release date alpha cos blah blah of course I'll answer that like once or twice but ultimately I don't want to keep repeating answers because we want to move on to other things so that you can cover more things I also suggest I'm incredibly good at not answering things and I'm also not really able to answer a lot of general questions but honestly these two can answer ask them questions you're probably gonna get more out of them than you're gonna get out of me so Hannah is a writer as you can see and level designer I don't know if it's got that they're no writer and level designer and real programmer and I'm the cartoon character sir yeah hit us up with some questions now and question 1 what is wrong with your face is that you mom sorry about that yeah someone's asking pipes no release date actually I can't say something about release really I can say something about release Matt look at that just worked I'm kidding I'll say I'll say something alright so something pretty cool about the release date is what I can say is it is sooner than you think later than you it is sooner than you think the other thing to consider here is we're not the kind of company who's gonna be like here's the release date it's in six months we can't commit to anything in six months we have no idea what the hell is gonna happen we can't commit this [ __ ] we're like yeah we can't we couldn't think we couldn't commit to this 4:00 p.m. start time okay so we can't commit to anything so when we do give a really stay they get the the whatever the release is is gonna happen reasonably soon after that and and I can say that that's that's gonna happen probably sooner than you think we just want things to be the best it can be yeah honestly we want to make a good game crazy who would have thought right yeah I just want money so it's earlier than never earlier than the the heat death of the universe all right this decade maybe we'll see see how much will satisfactory cost I think I know now but I'm definitely not allowed to say but you have said it in the past oh yeah three hundred dollars or something and there's monthly subscription with the thousand sea gems absolutely why he's Jase the PR I ask myself that every day Jimmy's lagging for someone but maybe it's fine for others it's probably on with you so you're like one one thing to point out guys if you notice that something is weird angles as well URLs allows your also yeah everyone if you're all allowed to chime in if something goes wrong with the chat if some not to chat everything's gonna go wrong with the chat something wrong with the stream please point it out shout out and we will do something about it hopefully hopefully probably I've got a couple of people saying stream is lagging stream is fine whatever we'll keep going we go geez Hannity you go clothes shopping in the same place this was a complete accident right totally complete accident not coordinated at all how does the game look because I don't have an alpha key let's let someone else answer something so do you want to answer that the game looks like how does the game look I mean let's just say how's the Alpha pretty good it's pretty good right there where if you guys didn't notice we put out a video where people are alpha testers worked on a bunch of cool levels and we were genuinely like surprised around cool stuff people were making so but that's not to say like everything's been perfect there's been a few issues here in there but overall we've been getting quite good like feedback on alpha and like one thing that I don't think we have announced but we're gonna do now is that we've had multiplayer in alpha for a few days now so we're finally in the phase now where we're starting to roll out the multiplayer aspect of the game and that brought its own party with Nick so this now we introduced more more snowflakes it's fine it's just for you though yeah we got a few more people saying laggy do you know if there's anything that can happen with that I don't know no okay well if not to worry about it as well what type of lag is it lagging like video lag where is it lagging I assume it's extreme lacking really hard is it lagging like sync lag or is it I think it's uh is it is it possible first to like reduce the bitrate yeah yeah we can do that but we have to restart well if it's quick and easy we can just restart immediately yeah it's pretty but I won't guarantee you yeah we'll be we'll be right back we're gonna try fix the lag if we come you go ahead I think it is stuttering buffering yeah already yeah okay so let us know let us know how that goes good stream yeah yeah hopefully it's better now try to reduce the scale there's no quality or equality if it's lagging but yeah let us know well you know this is like our first real stream so we're hopefully figuring this stuff out yep all right so something that I saw [ __ ] I forgot it oh well it was a good question that it was a really good question things go a little faster but keep asking room hopefully we can catch them job opportunities yeah are there any job opportunities I have no idea uh it's no idea but you can always apply yeah that's right we have an open application on our website coffee stain studios comm slash jobs I think yeah not lying it like will debrief PvE or PvP uh there's no PvP no no but there's PvE we have like angry monsters in the world and as you can see some of them in the trailer pay attention yeah if I hadn't closed my thing I could have shown it there's a few things you would obviously as you can see fight flowers flowers are the most lethal thing you can find in this game absolutely committing to it now snip is its server multiplayer dedicated servers or peer-to-peer so it is peer-to-peer we're using a listen server architecture which means that someone sets up the game and acts as a server and then people when people join their hosted game they will be connected to it so that person is the one sending like all the updates and everything which means that the person like acting as host probably needs a good computer the more that connect them the more the more strain you put on the host so to speak but there's no like matchmaking or anything like that we're using epics friends lists stream total new stuff for me the stuff's constant buffing Stream is still mine stop flood it's cuz you guys started spamming so much just lighting up the stream there anything else we can do can we just down scale - yeah weekend everybody we'll be right back after these short Michener's Rises things stuff oh all right right right right yeah I fixed it all right let's see how many times we do this yeah y'all a [ __ ] us around yeah so refresh the page the unimportant thing I forgot to say that refresh the page right now if you were having issues with that yeah so give that a refresh because a lot of people have been saying it's fine yeah all right so let's moving on let's move moving on let's move on are you going on to me we will but will we have what's the possibility of dedicated servers uh we want to have dedicated servers right now we don't fully support it but it's kind yeah we're getting there like we want dedicated servers it's just that we need to spend like production time on actually making sure that runs well and dedicated servers here and right now we're focusing on that it runs it all that runs it all basically yeah but we want that and it's the same thing with mods I guess and just bring that up immediately oh yeah we want lots as well we really want more absolutely but it's the same thing there we we need to spend the production time to make it happen and right now we want the game to run at all yeah we need we need the base game yeah like working really well but we have been like the architecture of the of the game has mods in mind always so whenever we add new stuff or and we develop the engine further we always have like mod support in mind so once we actually start implementing it it will hopefully be okay more straightforward yeah moisture a foot we don't like need to remake aim to support it like in fact at one point in development mods were made even like like so yeah that's that's about as far as we got at that point was like we could make buds and some people outside of the office made some months but yeah we basically event in that for now okay let's get some questions for Hannah banana level design writing questions for us awesome writing Chris's flight as we answered okay probably pick some out so ask them now is there story in the game yes okay I guess I can just elaborate maybe sure yeah that we release story in the game it won't be the main driving force of the game because that's obviously factories and the story itself is largely optional in the way that if you look for it and if you want to to essentially politically wrong with it you can you can find it but it won't be there all the time explicitly essentially so it will essentially be given especially when there is context that is needed or during tutorials for example and story serves a good purpose in that it can tell you why you're here what are you doing what's the goal etcetera etcetera and also for example fix-it the company you work for gives context to the gameplay yeah that's that is it more lore yes yes there's lore yeah it's it's I guess it's more lore kind of stuff that there's also a more like contemporary sir line that plays as you play essentially so it's it's there is something in the background going on that happens because of you it's reactive is there an endgame slash gold yes yes there is I'm not saying you can you can finish the game you can finish the game is it still Simon's the only one who's done it I think I think she was finished okay yeah I know that Simon took 130 hours or something like it was and that was like a year back yeah it was so right now we have no idea how long it will take but we allow us to game quite a lot since imma beat it as well so Simon replay it fairly recently and there's like it's pretty different now compared to when I played it mhm so it's also interesting that that changed a lot yeah yeah there is a delay I think it was like eight seconds yeah yeah that's uh it'sit's a bit short on twitch but we want to do the stream here on YouTube soon can we get your shirts in-game you're good I mean you get red flannel anywhere sure you're wearing a red planet underneath the the spacesuit er yes yeah yes actually that's kind of man a lot of people are asking about terraforming oh yeah no please no the the map itself is handmade we don't have any procedural generation really in it and it will not it be can't change the landscape in itself to to work your base it's more like you have to sort of try to try to work with the landscape that's kind of the challenge we're going with as well like finding good spots and finding interesting spots to make your base work so no question from Timothy Smith large factories seem like they can get complicated with a large number of belts and and he plans for butts or other means of transport other than belts and trains there are vehicles there's a video of like a vehicle showcase on our YouTube channel from a little while ago things have changed a lot they're both in the game and how the vehicles function in fact I just rewrote the drifting mechanics and there's so much better now it's actually good it was pretty good before as well that's way better no sorry so yeah there's that as well for Hannah what resources do you use to help with level design story writing world building actually the devil sauce to another question which is really quick for J's plushies win and what's the actual story behind blame Simon sir behind hashtag William Simon is Simon's fault all the time plushies we're working on it okay Hannah resources do you use for a level design I just work in unreal mostly we have for example an important tools the foliage tool that we use a lot and we work a lot with the landscaping a lot of static meshes that we drag into the level as well it's all think of it as like I don't know playing The Sims but natural world kinda like that as for writing it's mostly I do research a lot especially considering like this is a more technical oriented game I try to familiarize myself with the the science that gets behind things and the technology that gets fine things but I also try to sort of you know it's my brainchild so mostly my brain that's a pretty useful tool someone has asked about a top-down view that's another thing that I have addressed in an earlier like a video way way way back and top-down I understand why people want it but it doesn't make sense in three because like now you can build upwards what does top-down do you actually show you but that doesn't mean like I understand the problem which is people want to see their factory from a different angle and so I think we've already taken some steps to that and there are some other plans or whatever so I can't really telling anything about that and snut yes what system do you use to save maps I heard from Marcus our other programmer say that it took you guys six months to get it working yeah so we're we're basing our seyh system on the way you save in Unreal Engine yeah the way we're using Unreal Engine if if that wasn't clear so in a real engine it's it's like it's there's a system for how you save a normal engine and we're using the same system whereas you mark stuff on properties on actors and stuff like that and then we extend it by having support for there's a lot of like complex saving on certain things and we wanted to have like support for to be able to like load any save whenever and be able to support that like no matter how much we update the engine and stuff like that should always be able to like load the saves that being said there are a few cases where we change game design a lot which can may happen where you might get stuck if you start loading old safes but yeah there's a lot of work that went into making the safe system work which I important it wasn't too involved in so I don't know that that Pacific's specifics but yeah the the amount of time we spent on it is just because we want it to be very very sturdy so that and it's it's not been acting up a lot or at all almost yeah it's been pretty pretty good well there the third person view I think we can confirm that there will be I think it's not in right now we had it at one point before we got rid of it and I think we're gonna reintroduce it but cannot confirm tonight what happened to the large to the Hadron Collider we saw in the UI video I don't know maybe so maybe it's not I just genuinely don't know yeah yep will they be underground subterranean areas of the map there there are caves but depending on the context I saw someone asking about what tools were using we're using visual studio we're using a real engine we're using perforce as our let's go version control yeah thank you Jesus I'm programmer I was like well how do you put stuff in the Bing where you use it for language it's great I'm on Linux okay will the move to have fixed obi time exclusive a permanent it is time exclusive it's 12 months a lot of people said or asked are we gonna be on steam after that again we can't plan anything right so when we say basically the answer is don't know and don't know is not know and it's not yes it is literally don't know we haven't thought that far ahead and we're not gonna right now probably whatever yeah said modes are confirmed how about mods for creating maps will that happen and someone else did house before are we gonna make new maps in the future I have no idea whether that will be a thing that's probably just too solid we don't want to think about that right right now yeah we can finish this one map and then we'll see if if we have the time and resources to make more maps and then as for and as for mods but there aren't people can make their own maps again that's probably something we tackle when we look at momentum will see that can be supported essentially that being said though like I've played this game for a long time I still haven't seen the whole map even I haven't I don't know I don't know my way around every time I go driving I'm just like [ __ ] where am i how do I get back it's it's so big and we've challenged someone to cut like they're like I'm gonna cover the entire map we're like alright try good luck yeah it's just not gonna happen it's just not gonna happen localization support there will be there will be localization support and we will do community driven localization so the community can jump in and and help us improve it which means we should TM be able to support like a bunch of languages basically whoever wants to translate that language gene I love this column is the plan it's a coffee stain yeah coffee stain also known as yeah yeah that's the way we do it any TLC's planned yo dude we haven't even released yet yeah I don't even thinking about it can we have some gameplay we're not doing gameplay today unfortunately we'll have something like video clips pop-up insures or not I get this Tiger there's some gameplay that's crazy yeah there's gameplay literally gameplay yeah hazards in the map yep what kinds exactly I don't think I should tell you we've had a surprise but yes there will be hazardous hello alphas not a scam text I forgot to remove trust us it's no scam the more we say that the more you'll believe is right yeah for Hannah is that an alpha key around your neck maybe like maybe it's the last alpha key it is the only real alpha key can you make custom cars trucks maybe if there are months if I buy an epic now and another platform later will the save files be compatible maybe good question hopefully yeah is the answer hopefully because I don't think save files are like tied to the server well maybe I don't know but no they're not yeah you can like load and save and send your save file to the host or whatnot and they can load it a stuff so it's not tied so but but saves like when you're joining someone when they're hosting it's their save file that you're playing on so it's not like across what you can call it like some games have where when some when two people play together they're both playing on their save file so to speak so if one unlocks something the other one also gets it that's not the case in satisfactory if you're playing as hosts and people are joining you you're you're unlocking stuff on the host side file Oh someone asked if there's gonna be free updates after the game is released or is it all going to be DLCs after the game is released to the public we will be doing free updates yeah because we're don't bug fixes we're gonna be doing for the balancing adding new features yeah basically so the answer is yes any plans for pvp nope cooperative play it's cool we like friendly like people yeah it's us against nature screw nature why nerd turrets like sanctum why do you need tarts in this game when they're sanctum yeah uh uh our director yeah the director of the game kind of answered this and basically it was just as we were developing the game and designing it we just felt we didn't need it no like it just wasn't necessary and and you know we had it in the beginning and even though we had it we still were like we don't need this and we got rid of it so I know that that might sound counterintuitive to some but there is like the concept of less is more sometimes and cutting things out can often be the best thing and I think that's what at least the director believes I I'm an idiot so I'm just down with that whatever if you really really hurts Therese your mots turrets menthe alright alright yes is caught style in line refocus on solo it's it's solo or caught there's no difference yeah you can play it single-player
+>
+> [Music]
+>
+> plugins are using are you talking about the game or a stream cuz I can tell you what plugins are using the stream you know what happens when you die you die you die in real life facilities the game use any luck step any concern for desync across a large map no there's no concern there are no D sinks ya know at the very least not from a large map now I think there are no D sinks I hope not yeah it shouldn't be right now what do you make your model such texturing with none of us a 3d artist but I'm pretty sure they just use like Photoshop in Maya maybe that brush yeah I think computer player limits we support for but we're not gonna put a limit so in you and your hundred friends if you have I don't believe that for a second yeah you were your hundred friends can join a server and it'll crash but if but we're not gonna help you there by all means just try it let us know let us know how it goes yeah yeah scream Capet we'd love to see how it dies yes so right now we're testing for four is four plays the recommended number not per se really honest with anything I mean it could be that you know you want to have people are looking for different things from the game some people really want to manage the factory some people really want to go out there and find resources that way cuz whenever I play with people I'm like I always like okay I'm gonna line everything up perfect and then someone's like I'm just gonna put this here and put this down I'm like mmm but it's not it's not straight though I'm person number two that shouldn't be straight yeah there was can i play as Kristen Stewart though we would welcome for anyone are there any difficulty adjustments when playing multiplayer I don't really think and that's it it doesn't really get easier does it not really it's a little faster I guess doesn't really get here though it depends on your ability to multitask and coordinate with your friends instead yeah I don't think it I don't think it needs it I mean the challenge in itself isn't really based on like difficulty because we don't it's it's just building something together yeah like that's what it's about feels like you can you can argue the same thing we're like you have one programmer it takes a month to do a task but you got another another programmer now it takes two months the more people you have the more you're probably gonna fight about how you pick your friends yeah that's my friends will there be co2 emissions and will affect the ecosystems no but we really thought about that we did yeah like different different types of energy winning and such yeah what could be more environmentally friendly not but it makes everything so complex yeah I mean it might be an issue we might revisit later but right now again there are more important things yeah exactly and otherwise hey months but will they be a founders plak plak plak will they be a founders pack with alpha access um we're not no comment yeah name maybe I don't know developer Diaries is that like developer sort of like more developer Hyatt like updates maybe you know the highlights bit like update videos like in here this is where the vehicles are now oh yeah I mean it could be good the the main issue with a lot of the content we have so many content ideas and we get a lot of content ideas from you guys as well but it's it's honestly just time that's the thing it's just not much time like as I'm I'm loosely a programmer and for for like the longest time last year I couldn't do any of it because I was so busy with community management and and even then I couldn't put out as much content as that's that just a taste of their quality videos yeah yeah exactly are you in a cinema yes we are you have a cinema here so we're in the cinema right yeah we're not spoil yeah not at all no it only seats eight people it's not that snow that big again pick your friends yeah with resource nodes are you going to run out of the one load fast and have to change nodes often we have like recesses that run out and resources that don't run out so it depends on like which one you use but generally no because it's already too much having to you know people want to restructure the factory anyways we don't want to force it too much sandbox mode available I assume this is what people also call a creative mode which I assume is just no limit for you know you don't need to what you don't need resources to build things you just build structures I I mean I assume that we'll have it at some point but we sort of thought about this before and basically no at least not at the beginning because in the beginning times we're gonna need feedback from people and if we have a create a creative mode where people just do any old [ __ ] then it's really hard for us to know what feedback comes from where especially when we need balanced feedback so so whether there's gonna be a sandbox mode or not you know we can't commit to that right now the címon gonna be the last boss yes
+>
+> [Laughter]
+>
+> how big can you make your factory I guess we can touch on optimization here as well yes sir so your factories can technically or theoretically be as big as you want them to be so it all comes down to a beautiful computer you have promising no but we're working hard on like optimizing the game there are a lot of factors that comes into it like first of all it's an open-world game which it's in itself is pretty taxing because you can't load everything at the same time because the world is too big so we're streaming like tiles or what we call and dance like parts of the of the world depending on where you are and then when you build factors all over the place there's optimization to handle when you walk away from this so they don't render or run unnecessary CPU time and where was I going with this we're talking about socialization there's also net code like how much when you were playing multiplayer also how much net net cohere sending and how much packets you're sending etcetera etc what was the real question though that was Dale I mean it was it was how big of a factory can you make yeah and so I think maybe one thing to touch on there is the like the instant splines for example yeah so like everything is relative and in the game so you can make like you can probably do a lot of stuff but there's there's a ton of like it depends is the boring answer because like when we talk about conveyor belt specifically like when you look at conveyor belts it depends on like what's visible on it and you know how they're placed especially that we were optimizing it so that we reduced draw calls as much as possible on the spine or on the conveyor belt specifically so that you don't see when you see stuff in the world it's not too taxing and then also like when you start stepping away from stuff that it's not updated as often so there's there's a lot of stuff we can still do right now for optimizing it but we build pretty big factories ourselves right now so yeah it's it's like it's a relative question I guess it is kind of hard to answer we've done a lot of stuff with optimization I think we still have a lot of a lot of like ideas so I yeah else we can optimize so and I think it's kind of cool so yeah talk about the game if it's totally broken and full of glitches is that the case how much percentage of the game is even implemented it's not really like glitchy I mean actually laying playing for yeah the people in the Alpha have very little like big issues with when it considers optimization and performance actually that's one of personal miss points I think yeah right now so it's been actually really good yeah it's pretty good in terms of how much money what percentage this are really a question we can answer not really percentage-wise no doesn't make much sense for us cuz because a lot of it can also be like depending on a feedback may change what we need to do it also and it's also not good aspect when you in production wise sometimes we don't fully implement everything like there are issues that we are aware of but we just want to like try it so like this there's a there's a few glitches that I know personally that I've like let like fix that right now because I know it's it I know it exists and I know how to fix it but I'd rather spend time on fixing something else that's more like what people want in the Alpha right now we are listening to a lot of what people are asking about like specific features are specific bugs that exist right now yeah that's what the Alpha is partly for yeah it's getting feedback mostly for Jase give me your sucks well a lot of people are retired yeah yeah you know what I can wear these for seven days and you get like seven day dirty socks oh yeah they're gonna go for a good price you just bid for it yeah it's gonna happen my socks I don't care I'll take your cash money for it are they going to be collectibles Easter eggs shrines to your previous game sitting around two different probably maybe good maybe I often do change her hair color oh I'm actually curious Lin stuff um I mean like it's changed here but it's just faded honestly that's all it is every couple months it's usually a little expensive so I just try saving money is there a height limit it's the skybox how high is the skybox sky's the limit very high pretty high we've had some people hit it just by like building directly up I know our our tester yeah he hit it and he was just like building underneath himself like like 30 40 minutes or something something like that it's ridiculous you're not gonna be able to factory that I challenge you yeah yeah yeah people have tried in performance might not be optimal up there yeah I think just all the tiles are gonna be garbage yeah where have you learned your unreal skills I mean obviously everyone has learned in their own time and way but you can also say when it comes to coffee stain we have used Unreal Engine since [ __ ] before coffee stain existed like so before coffee stain existed a few other people here did a UDK like mod or something which was sanctum one a demo for that and ever since then it's just been Unreal Engine for literally everything we've done so this studio has just been Unreal Engine so there's that and I think I don't know correct me if I'm wrong maybe you guys might also know about I think like even from the big very very beginning like this studio was founded on like a bunch of students who made a project and they wanted to make it in a real engine specifically and at the time they were like like you're not supposed to use engines so they they said okay it's fine if you're all artists like no programmers and I think that says a lot of Unreal Engine that they may like managed to make a game with that a single programmer in it and then after that that was like alright let's make something out of this and Chandon want to share with the class yes Jase make that smile from one month what's a THQ Dornoch acquisition that happened you already got at once I like the hash tag is there going to be survival elements to keep the player alive it would no no this is it's a management game it's not a survival game kinda he's like drink water no no no there's nothing there's nothing like that in a game you're just you're fine all the time magically don't find an explanation somehow how is huge THQ Nordic been to you guys in the project there you haven't done anything yeah will they be VR support sorry I didn't mean to just do that people have asked about VR support that would that was about like holy [ __ ] it's gonna be so much occult yeah and also again it's one of those there are more important things to do and it's not like a game that was built with VR in mind as well and when it comes to VR you need to you need to think about it yeah standard design principles don't work yeah on PRI developer fire before it's very different like it's a lot of things that work for for normal games design practices and even just art art styles or certain tricks that you use just don't work at all anymore and you have to find a completely different way to interact with it so you have to it can't use VRS a gimmick it doesn't really work it needs to be the whole game needs to be made with VR in mind yes otherwise it doesn't work I feel like it's the same principle it's like we want to make them like if you want to have multiplayer in a game you can I want to have that in mind yeah yeah so yeah otherwise it's gonna be a hassle to like start your like force it in because not only is it a like interaction problem with they are not problem but like we don't know the best way yet in general like how do you handle input and stuff like that but also from a technical side like do you need to optimize a lot for specifically we are there's a lot of solutions you need to have yeah in order for it to work so it was a lot of work and how spit slash Jace how do you divide work amongst the various programmers on the team we have I was gonna say why are you looking at me and I'm like wait I'm I'm kind of a special case which is just not doing me any saying that is not doing me any so we have our producers or producer which kind of have a good sense of what's going on overall in the game so they collect feedback from like how are the artists working or what are they artists working on right now with the program is working on right now I like all the different game development prints whatever so they tend to like gather information and talk to our talk to our leads in the various fields so like to talk to our graphics lead and our program lead discuss like what do we need right now what can we do right now what's important for our developers right now so that all trickles down to the programmers where we have daily stand-ups and planning meetings where we discuss like if you want to implement this how hard can be and what are you weren't like and then we get to work and then we talk about what are we working on right now so we have daily stand-ups where we discussed that and then yeah I mentioned the leads have their own meetings in in my case because I do a lot of community management stuff I can be out of touch with the programming that has gone on in the project at large so I tend to take on things that are independent from what other people do so I I have been doing the vehicle since the beginning which is has been a lot of work but but these days like when I was redoing the drifting there's no dependency on any other programmer for me to rework drifting for example so I've been doing a bunch of things like that and there's like we all we're not a lot of people in studio know like it's not a super big studio when you're five or so bit more now we're gonna be about 30 so like no programmer is really like you're only doing that code stuff or you're only doing AI stuff so we're all kind of like split we take we tried to like generalize as much as possible so that everybody can jump in and do stuff to it but obviously like some people have done like specialize and stuff for the game like you've done vehicles yeah I've done a lot of net code like you I should yeah you mentioned enemies earlier but now you say there will be nothing to worry about what's up I think from that you mean nothing to worry about in terms of survival was what we were saying I think what we refer to there is you don't need to drink you don't need to things like that sleep yeah but but the enemies can you know they can kill you yeah they can still get you yep they may seem docile but they are quick yeah especially in lizard eyes there's cold eyes murder can't trust him I just sorry all the alien birds out there yeah there was someone before who else are they gonna be NPCs that you get quest from blah blah blah no there's not that
+>
+> [Music]
+>
+> wait ready which one who is the funniest at the stand-ups well you're never there obviously me yep everyone else is dead inside for a herring on my jo excite yes it's fresh when I come in and they're gonna be like never thought we'd say this yeah they were like I thought it was bad before and that's nuts here so yeah yeah please come back how does it take to build a medium-sized factory I think that's completely relative depends on what you think it's medium-sized yeah there's that but there's also depends on your OCD when it comes to refactoring yeah some people don't get very far because they're like this isn't quite perfect I'm redoing my basic iron production or something all over again so like which is satisfying which is fine I mean that's a bad way to play I'm not like [ __ ] on that but it will take more time exactly it's kind of hard to know I love when you build a factory you abandon it and go somewhere else and and do the refactoring somewhere else and you come back to you earlier you like Oh God God Oh what is this oh no did I do this no let's purge it with fire yeah can I build as high as I want we kind of answered that before it's just up to the skybox but there's no physics that's gonna knock you everything yep any plans for stuff like blueprints as in like the factorial blueprinting no we answered that in a video once before basically you know it's it's a thing that we thought about as well but at this point no maybe we will I don't know we'll see will it be out of space in galaxies no how did you come up with the name Oh a satisfactory no no it was it it was a it was a big process yeah yeah and it took us so long it was like no it was like ironically no one was satisfied yeah it was like it was like two weeks before like the or like a month before the reveal or whatever his name right now like alright we'll just go as satisfactory I guess it's been the working title for so long everyone got used to it I guess yeah yeah it's the company as well I was one of the people who hated it yeah yeah I hated it but but I got I'm I think it's good now yeah yeah but I I was one of the people who's like no to bed it's a warm yeah it took me like a year it took us just maybe they gave and putting it out there but it's like did you get indoctrinated or did you actually get one over who knows you know they could have been some subliminal stuff or they put something in my water because it is a pretty big task to name again yeah yeah it is sometimes it's like you you make a game base up like a name like a funny name something but if ya think it's around me like it's like this represents us our soul our hearts our identity it's just crisis this Factory yeah it's not it's not amazing it's just it's it's fine it's also a nice thing that if we just get average reviews it's like above 50% it's a little going for yeah that's how high we yeah yeah we're getting a lot of questions that have been asked before like translating the game or when is released even though we didn't really answer that but we can't just keep going over the same questions over and over so sorry but you may have missed some of the vlog before and you can watch it again what's the entire thing I'm sorry yeah we have to move on to like other things as well yeah and like peer to peer servers are dedicated that was answered before for Hannah besides the starting Aires will there be random spawns in the release i legit don't know if that's gonna be a thing yeah at the moment no no spawns of resources what I assume that's a good like what is the context of yes I mean I guess either yeah maybe either resources have set locations that I can answer they part of it by their part of the environment we built them in that way but like considering player spawns was first far as I know no but is the question about how long we've been in game dev each person like personally I think next in the longest of us Lee I've been a game de force five six five years give or take like working full-time at Lee yeah if if we're talking working full-time almost exactly two years right there comes seven years I'm a newbie seven years I think for me this is my first proper project on this way so can we crush our friends with orbital drops like sanctums thank you style you can't you can't crush them stuff like that but you can absolutely drive your vehicle of your friends yeah yeah you'd be like it's a new mode of transport actually we do that sometimes yeah faster did you stand with someone else's vehicle yeah so like PvP it's well I got a good one for Hanna can you tell us your favorite place on the map and why have you done the day night thing yeah that's a good one favorite place on the map I mean if I wanna if I want to stroke my own ego I'd say I'd say the desert that's that's an area I've worked on the most but if we're talking like proper proper favorite place gosh okay I would say yeah deserts I just like deserts they're nice I like this area Lee there's a swampy ish kinda I made that well you made it I like I love this yeah that one's no cool just made that one good can you say my name really quickly it would make my diet date I'd rather die I thought you said could you say my name real quick it would make my diet like my diet no just kidding blood money to you man toy toy dude this is that's my tribe it made your day love away why I kept seeing like all the time we're a pair of glasses snoot why what's the deal of it maybe I think they you look like someone I think like someone I think they said something like that yeah what hmm how can I get the key to Hanna not what I didn't get it no I get it my key well not alpha key to your heart a surprise but I think you guys same yeah definitely bribery what happens to player eventually when they are run over by a friend in vehicle a cadence probably died if you probably probably can we say look what happens if you die with in terms of you in the very probably right of your inventory yeah sure you you lose it but you don't lose you can get it back yeah go back and pick it up yeah so it's it's yeah it's like dark so it's not like this game I wanted to make that joke but I like no I'm not gonna no I'm gonna how many items exist oh you like to greater than 1 greater than yes that's it's a lot of items basically yeah a lot of buildings did not count no it looks like Michael from Vsauce oh yeah some people were saying why is Michael from Vsauce Michael here I'm sorry that was probably pretty loud in the mic or maybe not oh my god yeah yeah I'm not gonna hear that ever gave me I can't wait to grow my hair back yet now yeah you better cuz you need a new disguise oh that's why them can sing glasses how many load levels you use that's a question for Simon like a bazillion yeah all is a print screen natural put it somewhere else that I can find it that was that I did good okay be on eBay with Jason sucks yeah available in steam in the future we don't know genuinely don't know there's we don't know when you die some up it what made you cut your hair because I donated my hair if you oh yeah I didn't notice I add like super long hair and then I cuz Hannah cut her hair and I was like yeah we had the same hair sighs so I got it and donate it to kids who have alopecia and I can't wait to dye my hair again because I haven't been able to do that because I want to donate my hair really so I can have LuAnn and like crazy here so I can fit in again yes like these my hair is fading I say not he's not part of the group man it's like even these shirts kind of Rob yeah I'm the black sheep the white red flash yeah yeah Doku gun room you can we doing mascara lease of 50,000 if Lord Simon allows it no but this is a good quest like things to lead into a lot of people saying why don't you send out more alpha keys why don't you just send it to everyone more people means more feedback and that will help and that's not all exactly true if we get too many people in we will get more feedback but there is such a thing as too much feedback and if we get too much feedback then we will not be able to wade through the noise and try to find what's important and fix things so that's kind of why we limit the number to something that is always manageable for us and we don't bite off more than we can chew the other reason is and this is a probably a bit too straightforward but ultimately the elf the Alpha keys and the Alpha is actually not for you it's for us to develop the game so I know like a lot of people say I've just been looking forward to the game just give it to me right it's like but we're like hang on we need to get the right people that we want the right amount and at the right time so sorry if that doesn't give everyone what they want but we're doing what's best for us so that the game gets as good as it possibly can be and there's also the aspect of first time plate like your first time experience you only get one of those so whenever we test stuff and we start adding news like that will change the first time user experience so if we gave the keys to everybody they would all experience the game at that point at the same time and then we wouldn't have the opportunity to address any of the issues that the first time experience that yes yeah so that's also one big thing why you might hold off on testing on some people so to speak you are one of the rescueteers to be LGBT friendly or at least open about it why is it so important for you is this to you for me it's important just because like I try not to especially on YouTube and stuff I try not to just like shove it down anyone's faces or anything instead for me as bisexual dude I like to just just be on the screen and just be there and then everyone just gets to know who I am and hopefully just gets okay with the fact that I'm not straight but and to me that that that's important and I know that the Institute entire studio is very much LGBTQ from yeah just just in general just very open-minded and very supportive yeah we've got a few we've got a fair few LGBT folks here yeah thinking forearm stance there on the Alpha keys yeah dude I'll always give the honest answer if I can answer sometimes I can answer though any timeline of when the NDA will be released well Jesus it'll be obviously dumb question some time before the Alpha is released but as I said kind of earlier that's gonna an announcement about that will probably be happening sooner than you think that's the best I can say but later than you hope let's make the same joke again all right sir on service we've answered that before sorry we're not I'm trying not to answer the same questions ever ever yeah where is Simon I don't know he's behind us all yeah everyone spin around three times and say Simon if you can save Simon appeared regretted oh that's why he's here now yeah I'm sorry I suppose it's actually Jason's fault yeah blame case any plans for harnessing mod life for your base listed ogres as pack animals over up which sort of touches aren't a question that other people have asked about Ken animals follow you around like pets yeah kind of like pets what do we say maybe if you try hard enough I think maybe if you buy him a drink first well as you could see in the basic gameplay / convey about gameplay vids I made you could pet that lose a dog oh he just got mad at me and ran away or it got him mad at me right away my tinder experience but but yeah that's check - real but I can say but yeah you can also follow you around it's possible but I'm not gonna tell you anything about it yep can you see you character third-person did we touch on this so we're not gonna have three together basically it's not supported now we had it before maybe we'll have it later mmm there you go what's the biggest bug you guys have seen so far I got a good one you do yeah go ahead okay oh this is a good one I like I'm thinking to turn him into a video it's an idea that we've had but people have been a little hesitant to show like you heard it here first folks but this is gonna be a girlfriend it was I hope I don't go on too long about this but it was with the vehicles and I had a test level with a ramp and if you drove up the ramp to a certain point and hit the brakes then the and and on the map that was a we tested these teleporters and I have no idea it was gonna happen alright I actually genuinely don't but we had these like test teleporters and there was one on the other side of the mountain and if you drove this vehicle up on this rent to a certain point and hit and then stopped it disappeared and drove out of the teleporter we're like what the hell is going on right and if you go in the vehicle and you stop it so like before if you stopped at me hop down with root cellar if you're in it you died and the game crashed and then we had no idea what was going on and we found out that it was triggering a plant later as well that was crashing and we had no idea what was going on and then we realized that I had added camber support which is to make the wheels do this and in one case there was a the possibility to divide by zero and so then that would happen put infinite forces on the vehicle the vehicle became infinitely as big and then it crashed right but if it went infinitely is big and it hit the teleporter then it overlapped the teleporter and drove out of it beautiful yeah that's a good one beautiful I love [ __ ] like that where it's like you have to smooth out what the hell is happening yeah it was bizarre yeah that was a hard one question for you what is the sense of humor / memes come from so natural we're pretty tired like yeah super boring at work yes you saw the THQ yeah really are the rest of it is alive yeah no but the the honest there's the truth is Carson's been like this since the very beginning I wasn't there from the very beginning but it's always been like that even if you look at so sanctum and sanctum 2 are more serious games but even in there there's like a lot of like weird Easter eggs like these Fresno horses floating around in this dark room it's like what the hell is that about has nothing to do with anything yeah but that goes in there right and then goat simulator happened of course it's just how we've been all the time and even if you think about goat simulator that was a game that had like a lot of commentary on the game industry and and like twitch bait and things like that as well as even Kickstarter you know it we sort of just turned everything into memes and so that's just kind of happening now as satisfactory or that's what I'm doing it's gonna happen whether you like it or not yeah it's pretty relaxed here well yeah we joke around a bunch me and Simon have the thing where we do this yeah are you watching Simon are you watching got him do that it was like I was gonna include this thing yeah in the will they be breakdowns of machines then you have to fix and repair good answer please don't firm that a rubber bone what the hell a rubber bum bum Oh what is their goats and satisfactory I don't think so it's that would be a fantastic goats speaking of these cards we have his tricks like already in yeah already mmm don't say yeah don't say any of them yeah yes sir yeah of course yeah no how much time have you invested currently in satisfactory it's like three years I'm invested I don't know how many hours it's like what if you play the game that you're developing as much as I feel like I didn't phrase that correctly what if what if you played any game as much as you played it when you're developing yes I didn't I was I was gonna say like you probably don't know we're talking about because you probably rate play more runescape than your entire life foot but like I mean I played a lot of inside runescape that Freudian slip yeah yeah I'm gonna say it's game here but I was but I meant good simulators but I didn't really played much outside of work I don't really satisfactory that much however if you play it like yeah yeah will there be any cosmetics available player colours uniforms well there is the ability to paint buildings and vehicles different colors can be useful for color coding sections of you factory whatever well just for aesthetic reasons someone did ask before if there's gonna be any sort of just purely aesthetic things that you can build like Windows whatever and there are some yeah I think there's gonna be more in the future I think what we're hoping yeah we're planning yeah III would really want it as well because I think would add a lot of value I think a lot of people would really love like putting a couch down yeah down a table like they'd make it look pretty that I think people would love that I mean yeah we're all for personalizing the you know Factory in the spaces but it all comes back to will they be jetpacks in satisfactory yes yep it's do the trailer it's in the trailer so I'm the site as well so how the alpha testers done any art using walls and paint gun well the way I'm not gonna say that actually but not I mean all right I don't I don't think so I think they've just made beautiful factories as you can see on the screen right now you know I think we have to wrap this up soon it's been about an hour even taking into account that we we're late you weren't late when you talk about it yeah we said we said 420 you're on 420 yeah we were on time on it and somebody in a year I'll be 12
+>
+> [Laughter]
+>
+> long-range transport one more good question go go go just one more quick good question then we're just gonna answer here's the best question so far can i play a civilization session with you Jace no one more good question pipes nut that's a bad question will it be terraforming answered that one control the support yeah controls we and do we end on control support I guess we do control support we have it right now I think I haven't tested anyway like yeah it's country I think we're gonna have it and we have had it all this time the tricky thing with keeping up to date with our control support is we keep adding features taking things out and remapping things over and over and then it's like it's like we don't know if this is gonna work the way we want we don't know if we want this menu or this button or this function or whatever and then then basically the control the support just falls apart because no one's kept up to date with it but I think when we get to specific milestones then the controller will be considered again and then tightened up and then because it's also the aspect of like when we add new features we don't want an SS able to be like because when you're when you're live with the game you have to take all things into consideration every time so like how does it work with control like control support so if we had a new feature we have to test it with like oh how does it with keyboard how does it work with control sport how does work with all these different types of controls you know stuff like that and right now we'd rather test features and like try them implement them and see what happens rather than try to kind of be tied back by those types of theö but there is some control support right now yeah but I'm not sure with the state of it supports it whether or not the buttons are mapped to the Google things I don't think I know that out UI the entire time had kept control of your mind yeah I don't know where that is now yeah yes it's still yeah UI at least is supported you program your side all right I think we're done yeah all right cool not looking at any more questions no closing the window even done all right well thank you all very much for tuning in I had a lot of fun hmm these guys did all right but yeah I think hopefully we're gonna be doing more live streaming stuff in the future yeah so we can have a more technical day at the very least this you know this was kind of a trial run as well to see what's it like live streaming interacting with you I think it went well sounds very fun you know yeah and we have some other live stream ideas as well which I say this and hopefully don't get in trouble for saying it but it may happen it may not happen yet but we'll try make it happen because it's a really good idea yep okay so thanks for tuning in yeah yep and I will catch you all later then we share the vaad paint with people yeah hopefully yeah thank you everyone
+>
+> [Music]
+>
+> [Music]
+>
+> [Music]
+
+
+</details>
+
+<details>
 <summary>This question may have been asked previously at least 2 other times, as recently as February 2019 and as early as August 2018.</summary>
 
 * February 6th, 2019 Livestream Q&A: Pipes? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051)
@@ -4021,6 +3839,53 @@ date: Last Modified
 </details>
 
 ### [Q&A: Is there a height limit?](./transcriptions/yt-Dtm6xIj-wM4,2288.708088,2329.657223.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2288&end=2330](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2288&end=2330)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> [Music]
+>
+> [Music]
+>
+> [Music]
+>
+> [Music]
+>
+> [Music]
+>
+> [Music]
+>
+> [Music]
+>
+> [Music]
+>
+> what boom hello everyone hi hi hi so my name is Jace you probably know that already I'm joined here with Hannah and snit that's me and a big THANK YOU to snowed for for putting this entire stream all the technical stuff together is I'm a fantastic job you'll see how hopefully it'll work so probably should we've seen it don't see don't set it up like it seems great I think it's really great hopefully it'll works out but um yeah so welcome to the stream thank you very much for joining and obviously this is gonna be a Q&amp;A slash kind of like a hangout thing a lot of people are probably gonna ask general questions about satisfactory like release date alpha cos blah blah of course I'll answer that like once or twice but ultimately I don't want to keep repeating answers because we want to move on to other things so that you can cover more things I also suggest I'm incredibly good at not answering things and I'm also not really able to answer a lot of general questions but honestly these two can answer ask them questions you're probably gonna get more out of them than you're gonna get out of me so Hannah is a writer as you can see and level designer I don't know if it's got that they're no writer and level designer and real programmer and I'm the cartoon character sir yeah hit us up with some questions now and question 1 what is wrong with your face is that you mom sorry about that yeah someone's asking pipes no release date actually I can't say something about release really I can say something about release Matt look at that just worked I'm kidding I'll say I'll say something alright so something pretty cool about the release date is what I can say is it is sooner than you think later than you it is sooner than you think the other thing to consider here is we're not the kind of company who's gonna be like here's the release date it's in six months we can't commit to anything in six months we have no idea what the hell is gonna happen we can't commit this [ __ ] we're like yeah we can't we couldn't think we couldn't commit to this 4:00 p.m. start time okay so we can't commit to anything so when we do give a really stay they get the the whatever the release is is gonna happen reasonably soon after that and and I can say that that's that's gonna happen probably sooner than you think we just want things to be the best it can be yeah honestly we want to make a good game crazy who would have thought right yeah I just want money so it's earlier than never earlier than the the heat death of the universe all right this decade maybe we'll see see how much will satisfactory cost I think I know now but I'm definitely not allowed to say but you have said it in the past oh yeah three hundred dollars or something and there's monthly subscription with the thousand sea gems absolutely why he's Jase the PR I ask myself that every day Jimmy's lagging for someone but maybe it's fine for others it's probably on with you so you're like one one thing to point out guys if you notice that something is weird angles as well URLs allows your also yeah everyone if you're all allowed to chime in if something goes wrong with the chat if some not to chat everything's gonna go wrong with the chat something wrong with the stream please point it out shout out and we will do something about it hopefully hopefully probably I've got a couple of people saying stream is lagging stream is fine whatever we'll keep going we go geez Hannity you go clothes shopping in the same place this was a complete accident right totally complete accident not coordinated at all how does the game look because I don't have an alpha key let's let someone else answer something so do you want to answer that the game looks like how does the game look I mean let's just say how's the Alpha pretty good it's pretty good right there where if you guys didn't notice we put out a video where people are alpha testers worked on a bunch of cool levels and we were genuinely like surprised around cool stuff people were making so but that's not to say like everything's been perfect there's been a few issues here in there but overall we've been getting quite good like feedback on alpha and like one thing that I don't think we have announced but we're gonna do now is that we've had multiplayer in alpha for a few days now so we're finally in the phase now where we're starting to roll out the multiplayer aspect of the game and that brought its own party with Nick so this now we introduced more more snowflakes it's fine it's just for you though yeah we got a few more people saying laggy do you know if there's anything that can happen with that I don't know no okay well if not to worry about it as well what type of lag is it lagging like video lag where is it lagging I assume it's extreme lacking really hard is it lagging like sync lag or is it I think it's uh is it is it possible first to like reduce the bitrate yeah yeah we can do that but we have to restart well if it's quick and easy we can just restart immediately yeah it's pretty but I won't guarantee you yeah we'll be we'll be right back we're gonna try fix the lag if we come you go ahead I think it is stuttering buffering yeah already yeah okay so let us know let us know how that goes good stream yeah yeah hopefully it's better now try to reduce the scale there's no quality or equality if it's lagging but yeah let us know well you know this is like our first real stream so we're hopefully figuring this stuff out yep all right so something that I saw [ __ ] I forgot it oh well it was a good question that it was a really good question things go a little faster but keep asking room hopefully we can catch them job opportunities yeah are there any job opportunities I have no idea uh it's no idea but you can always apply yeah that's right we have an open application on our website coffee stain studios comm slash jobs I think yeah not lying it like will debrief PvE or PvP uh there's no PvP no no but there's PvE we have like angry monsters in the world and as you can see some of them in the trailer pay attention yeah if I hadn't closed my thing I could have shown it there's a few things you would obviously as you can see fight flowers flowers are the most lethal thing you can find in this game absolutely committing to it now snip is its server multiplayer dedicated servers or peer-to-peer so it is peer-to-peer we're using a listen server architecture which means that someone sets up the game and acts as a server and then people when people join their hosted game they will be connected to it so that person is the one sending like all the updates and everything which means that the person like acting as host probably needs a good computer the more that connect them the more the more strain you put on the host so to speak but there's no like matchmaking or anything like that we're using epics friends lists stream total new stuff for me the stuff's constant buffing Stream is still mine stop flood it's cuz you guys started spamming so much just lighting up the stream there anything else we can do can we just down scale - yeah weekend everybody we'll be right back after these short Michener's Rises things stuff oh all right right right right yeah I fixed it all right let's see how many times we do this yeah y'all a [ __ ] us around yeah so refresh the page the unimportant thing I forgot to say that refresh the page right now if you were having issues with that yeah so give that a refresh because a lot of people have been saying it's fine yeah all right so let's moving on let's move moving on let's move on are you going on to me we will but will we have what's the possibility of dedicated servers uh we want to have dedicated servers right now we don't fully support it but it's kind yeah we're getting there like we want dedicated servers it's just that we need to spend like production time on actually making sure that runs well and dedicated servers here and right now we're focusing on that it runs it all that runs it all basically yeah but we want that and it's the same thing with mods I guess and just bring that up immediately oh yeah we want lots as well we really want more absolutely but it's the same thing there we we need to spend the production time to make it happen and right now we want the game to run at all yeah we need we need the base game yeah like working really well but we have been like the architecture of the of the game has mods in mind always so whenever we add new stuff or and we develop the engine further we always have like mod support in mind so once we actually start implementing it it will hopefully be okay more straightforward yeah moisture a foot we don't like need to remake aim to support it like in fact at one point in development mods were made even like like so yeah that's that's about as far as we got at that point was like we could make buds and some people outside of the office made some months but yeah we basically event in that for now okay let's get some questions for Hannah banana level design writing questions for us awesome writing Chris's flight as we answered okay probably pick some out so ask them now is there story in the game yes okay I guess I can just elaborate maybe sure yeah that we release story in the game it won't be the main driving force of the game because that's obviously factories and the story itself is largely optional in the way that if you look for it and if you want to to essentially politically wrong with it you can you can find it but it won't be there all the time explicitly essentially so it will essentially be given especially when there is context that is needed or during tutorials for example and story serves a good purpose in that it can tell you why you're here what are you doing what's the goal etcetera etcetera and also for example fix-it the company you work for gives context to the gameplay yeah that's that is it more lore yes yes there's lore yeah it's it's I guess it's more lore kind of stuff that there's also a more like contemporary sir line that plays as you play essentially so it's it's there is something in the background going on that happens because of you it's reactive is there an endgame slash gold yes yes there is I'm not saying you can you can finish the game you can finish the game is it still Simon's the only one who's done it I think I think she was finished okay yeah I know that Simon took 130 hours or something like it was and that was like a year back yeah it was so right now we have no idea how long it will take but we allow us to game quite a lot since imma beat it as well so Simon replay it fairly recently and there's like it's pretty different now compared to when I played it mhm so it's also interesting that that changed a lot yeah yeah there is a delay I think it was like eight seconds yeah yeah that's uh it'sit's a bit short on twitch but we want to do the stream here on YouTube soon can we get your shirts in-game you're good I mean you get red flannel anywhere sure you're wearing a red planet underneath the the spacesuit er yes yeah yes actually that's kind of man a lot of people are asking about terraforming oh yeah no please no the the map itself is handmade we don't have any procedural generation really in it and it will not it be can't change the landscape in itself to to work your base it's more like you have to sort of try to try to work with the landscape that's kind of the challenge we're going with as well like finding good spots and finding interesting spots to make your base work so no question from Timothy Smith large factories seem like they can get complicated with a large number of belts and and he plans for butts or other means of transport other than belts and trains there are vehicles there's a video of like a vehicle showcase on our YouTube channel from a little while ago things have changed a lot they're both in the game and how the vehicles function in fact I just rewrote the drifting mechanics and there's so much better now it's actually good it was pretty good before as well that's way better no sorry so yeah there's that as well for Hannah what resources do you use to help with level design story writing world building actually the devil sauce to another question which is really quick for J's plushies win and what's the actual story behind blame Simon sir behind hashtag William Simon is Simon's fault all the time plushies we're working on it okay Hannah resources do you use for a level design I just work in unreal mostly we have for example an important tools the foliage tool that we use a lot and we work a lot with the landscaping a lot of static meshes that we drag into the level as well it's all think of it as like I don't know playing The Sims but natural world kinda like that as for writing it's mostly I do research a lot especially considering like this is a more technical oriented game I try to familiarize myself with the the science that gets behind things and the technology that gets fine things but I also try to sort of you know it's my brainchild so mostly my brain that's a pretty useful tool someone has asked about a top-down view that's another thing that I have addressed in an earlier like a video way way way back and top-down I understand why people want it but it doesn't make sense in three because like now you can build upwards what does top-down do you actually show you but that doesn't mean like I understand the problem which is people want to see their factory from a different angle and so I think we've already taken some steps to that and there are some other plans or whatever so I can't really telling anything about that and snut yes what system do you use to save maps I heard from Marcus our other programmer say that it took you guys six months to get it working yeah so we're we're basing our seyh system on the way you save in Unreal Engine yeah the way we're using Unreal Engine if if that wasn't clear so in a real engine it's it's like it's there's a system for how you save a normal engine and we're using the same system whereas you mark stuff on properties on actors and stuff like that and then we extend it by having support for there's a lot of like complex saving on certain things and we wanted to have like support for to be able to like load any save whenever and be able to support that like no matter how much we update the engine and stuff like that should always be able to like load the saves that being said there are a few cases where we change game design a lot which can may happen where you might get stuck if you start loading old safes but yeah there's a lot of work that went into making the safe system work which I important it wasn't too involved in so I don't know that that Pacific's specifics but yeah the the amount of time we spent on it is just because we want it to be very very sturdy so that and it's it's not been acting up a lot or at all almost yeah it's been pretty pretty good well there the third person view I think we can confirm that there will be I think it's not in right now we had it at one point before we got rid of it and I think we're gonna reintroduce it but cannot confirm tonight what happened to the large to the Hadron Collider we saw in the UI video I don't know maybe so maybe it's not I just genuinely don't know yeah yep will they be underground subterranean areas of the map there there are caves but depending on the context I saw someone asking about what tools were using we're using visual studio we're using a real engine we're using perforce as our let's go version control yeah thank you Jesus I'm programmer I was like well how do you put stuff in the Bing where you use it for language it's great I'm on Linux okay will the move to have fixed obi time exclusive a permanent it is time exclusive it's 12 months a lot of people said or asked are we gonna be on steam after that again we can't plan anything right so when we say basically the answer is don't know and don't know is not know and it's not yes it is literally don't know we haven't thought that far ahead and we're not gonna right now probably whatever yeah said modes are confirmed how about mods for creating maps will that happen and someone else did house before are we gonna make new maps in the future I have no idea whether that will be a thing that's probably just too solid we don't want to think about that right right now yeah we can finish this one map and then we'll see if if we have the time and resources to make more maps and then as for and as for mods but there aren't people can make their own maps again that's probably something we tackle when we look at momentum will see that can be supported essentially that being said though like I've played this game for a long time I still haven't seen the whole map even I haven't I don't know I don't know my way around every time I go driving I'm just like [ __ ] where am i how do I get back it's it's so big and we've challenged someone to cut like they're like I'm gonna cover the entire map we're like alright try good luck yeah it's just not gonna happen it's just not gonna happen localization support there will be there will be localization support and we will do community driven localization so the community can jump in and and help us improve it which means we should TM be able to support like a bunch of languages basically whoever wants to translate that language gene I love this column is the plan it's a coffee stain yeah coffee stain also known as yeah yeah that's the way we do it any TLC's planned yo dude we haven't even released yet yeah I don't even thinking about it can we have some gameplay we're not doing gameplay today unfortunately we'll have something like video clips pop-up insures or not I get this Tiger there's some gameplay that's crazy yeah there's gameplay literally gameplay yeah hazards in the map yep what kinds exactly I don't think I should tell you we've had a surprise but yes there will be hazardous hello alphas not a scam text I forgot to remove trust us it's no scam the more we say that the more you'll believe is right yeah for Hannah is that an alpha key around your neck maybe like maybe it's the last alpha key it is the only real alpha key can you make custom cars trucks maybe if there are months if I buy an epic now and another platform later will the save files be compatible maybe good question hopefully yeah is the answer hopefully because I don't think save files are like tied to the server well maybe I don't know but no they're not yeah you can like load and save and send your save file to the host or whatnot and they can load it a stuff so it's not tied so but but saves like when you're joining someone when they're hosting it's their save file that you're playing on so it's not like across what you can call it like some games have where when some when two people play together they're both playing on their save file so to speak so if one unlocks something the other one also gets it that's not the case in satisfactory if you're playing as hosts and people are joining you you're you're unlocking stuff on the host side file Oh someone asked if there's gonna be free updates after the game is released or is it all going to be DLCs after the game is released to the public we will be doing free updates yeah because we're don't bug fixes we're gonna be doing for the balancing adding new features yeah basically so the answer is yes any plans for pvp nope cooperative play it's cool we like friendly like people yeah it's us against nature screw nature why nerd turrets like sanctum why do you need tarts in this game when they're sanctum yeah uh uh our director yeah the director of the game kind of answered this and basically it was just as we were developing the game and designing it we just felt we didn't need it no like it just wasn't necessary and and you know we had it in the beginning and even though we had it we still were like we don't need this and we got rid of it so I know that that might sound counterintuitive to some but there is like the concept of less is more sometimes and cutting things out can often be the best thing and I think that's what at least the director believes I I'm an idiot so I'm just down with that whatever if you really really hurts Therese your mots turrets menthe alright alright yes is caught style in line refocus on solo it's it's solo or caught there's no difference yeah you can play it single-player
+>
+> [Music]
+>
+> plugins are using are you talking about the game or a stream cuz I can tell you what plugins are using the stream you know what happens when you die you die you die in real life facilities the game use any luck step any concern for desync across a large map no there's no concern there are no D sinks ya know at the very least not from a large map now I think there are no D sinks I hope not yeah it shouldn't be right now what do you make your model such texturing with none of us a 3d artist but I'm pretty sure they just use like Photoshop in Maya maybe that brush yeah I think computer player limits we support for but we're not gonna put a limit so in you and your hundred friends if you have I don't believe that for a second yeah you were your hundred friends can join a server and it'll crash but if but we're not gonna help you there by all means just try it let us know let us know how it goes yeah yeah scream Capet we'd love to see how it dies yes so right now we're testing for four is four plays the recommended number not per se really honest with anything I mean it could be that you know you want to have people are looking for different things from the game some people really want to manage the factory some people really want to go out there and find resources that way cuz whenever I play with people I'm like I always like okay I'm gonna line everything up perfect and then someone's like I'm just gonna put this here and put this down I'm like mmm but it's not it's not straight though I'm person number two that shouldn't be straight yeah there was can i play as Kristen Stewart though we would welcome for anyone are there any difficulty adjustments when playing multiplayer I don't really think and that's it it doesn't really get easier does it not really it's a little faster I guess doesn't really get here though it depends on your ability to multitask and coordinate with your friends instead yeah I don't think it I don't think it needs it I mean the challenge in itself isn't really based on like difficulty because we don't it's it's just building something together yeah like that's what it's about feels like you can you can argue the same thing we're like you have one programmer it takes a month to do a task but you got another another programmer now it takes two months the more people you have the more you're probably gonna fight about how you pick your friends yeah that's my friends will there be co2 emissions and will affect the ecosystems no but we really thought about that we did yeah like different different types of energy winning and such yeah what could be more environmentally friendly not but it makes everything so complex yeah I mean it might be an issue we might revisit later but right now again there are more important things yeah exactly and otherwise hey months but will they be a founders plak plak plak will they be a founders pack with alpha access um we're not no comment yeah name maybe I don't know developer Diaries is that like developer sort of like more developer Hyatt like updates maybe you know the highlights bit like update videos like in here this is where the vehicles are now oh yeah I mean it could be good the the main issue with a lot of the content we have so many content ideas and we get a lot of content ideas from you guys as well but it's it's honestly just time that's the thing it's just not much time like as I'm I'm loosely a programmer and for for like the longest time last year I couldn't do any of it because I was so busy with community management and and even then I couldn't put out as much content as that's that just a taste of their quality videos yeah yeah exactly are you in a cinema yes we are you have a cinema here so we're in the cinema right yeah we're not spoil yeah not at all no it only seats eight people it's not that snow that big again pick your friends yeah with resource nodes are you going to run out of the one load fast and have to change nodes often we have like recesses that run out and resources that don't run out so it depends on like which one you use but generally no because it's already too much having to you know people want to restructure the factory anyways we don't want to force it too much sandbox mode available I assume this is what people also call a creative mode which I assume is just no limit for you know you don't need to what you don't need resources to build things you just build structures I I mean I assume that we'll have it at some point but we sort of thought about this before and basically no at least not at the beginning because in the beginning times we're gonna need feedback from people and if we have a create a creative mode where people just do any old [ __ ] then it's really hard for us to know what feedback comes from where especially when we need balanced feedback so so whether there's gonna be a sandbox mode or not you know we can't commit to that right now the címon gonna be the last boss yes
+>
+> [Laughter]
+>
+> how big can you make your factory I guess we can touch on optimization here as well yes sir so your factories can technically or theoretically be as big as you want them to be so it all comes down to a beautiful computer you have promising no but we're working hard on like optimizing the game there are a lot of factors that comes into it like first of all it's an open-world game which it's in itself is pretty taxing because you can't load everything at the same time because the world is too big so we're streaming like tiles or what we call and dance like parts of the of the world depending on where you are and then when you build factors all over the place there's optimization to handle when you walk away from this so they don't render or run unnecessary CPU time and where was I going with this we're talking about socialization there's also net code like how much when you were playing multiplayer also how much net net cohere sending and how much packets you're sending etcetera etc what was the real question though that was Dale I mean it was it was how big of a factory can you make yeah and so I think maybe one thing to touch on there is the like the instant splines for example yeah so like everything is relative and in the game so you can make like you can probably do a lot of stuff but there's there's a ton of like it depends is the boring answer because like when we talk about conveyor belt specifically like when you look at conveyor belts it depends on like what's visible on it and you know how they're placed especially that we were optimizing it so that we reduced draw calls as much as possible on the spine or on the conveyor belt specifically so that you don't see when you see stuff in the world it's not too taxing and then also like when you start stepping away from stuff that it's not updated as often so there's there's a lot of stuff we can still do right now for optimizing it but we build pretty big factories ourselves right now so yeah it's it's like it's a relative question I guess it is kind of hard to answer we've done a lot of stuff with optimization I think we still have a lot of a lot of like ideas so I yeah else we can optimize so and I think it's kind of cool so yeah talk about the game if it's totally broken and full of glitches is that the case how much percentage of the game is even implemented it's not really like glitchy I mean actually laying playing for yeah the people in the Alpha have very little like big issues with when it considers optimization and performance actually that's one of personal miss points I think yeah right now so it's been actually really good yeah it's pretty good in terms of how much money what percentage this are really a question we can answer not really percentage-wise no doesn't make much sense for us cuz because a lot of it can also be like depending on a feedback may change what we need to do it also and it's also not good aspect when you in production wise sometimes we don't fully implement everything like there are issues that we are aware of but we just want to like try it so like this there's a there's a few glitches that I know personally that I've like let like fix that right now because I know it's it I know it exists and I know how to fix it but I'd rather spend time on fixing something else that's more like what people want in the Alpha right now we are listening to a lot of what people are asking about like specific features are specific bugs that exist right now yeah that's what the Alpha is partly for yeah it's getting feedback mostly for Jase give me your sucks well a lot of people are retired yeah yeah you know what I can wear these for seven days and you get like seven day dirty socks oh yeah they're gonna go for a good price you just bid for it yeah it's gonna happen my socks I don't care I'll take your cash money for it are they going to be collectibles Easter eggs shrines to your previous game sitting around two different probably maybe good maybe I often do change her hair color oh I'm actually curious Lin stuff um I mean like it's changed here but it's just faded honestly that's all it is every couple months it's usually a little expensive so I just try saving money is there a height limit it's the skybox how high is the skybox sky's the limit very high pretty high we've had some people hit it just by like building directly up I know our our tester yeah he hit it and he was just like building underneath himself like like 30 40 minutes or something something like that it's ridiculous you're not gonna be able to factory that I challenge you yeah yeah yeah people have tried in performance might not be optimal up there yeah I think just all the tiles are gonna be garbage yeah where have you learned your unreal skills I mean obviously everyone has learned in their own time and way but you can also say when it comes to coffee stain we have used Unreal Engine since [ __ ] before coffee stain existed like so before coffee stain existed a few other people here did a UDK like mod or something which was sanctum one a demo for that and ever since then it's just been Unreal Engine for literally everything we've done so this studio has just been Unreal Engine so there's that and I think I don't know correct me if I'm wrong maybe you guys might also know about I think like even from the big very very beginning like this studio was founded on like a bunch of students who made a project and they wanted to make it in a real engine specifically and at the time they were like like you're not supposed to use engines so they they said okay it's fine if you're all artists like no programmers and I think that says a lot of Unreal Engine that they may like managed to make a game with that a single programmer in it and then after that that was like alright let's make something out of this and Chandon want to share with the class yes Jase make that smile from one month what's a THQ Dornoch acquisition that happened you already got at once I like the hash tag is there going to be survival elements to keep the player alive it would no no this is it's a management game it's not a survival game kinda he's like drink water no no no there's nothing there's nothing like that in a game you're just you're fine all the time magically don't find an explanation somehow how is huge THQ Nordic been to you guys in the project there you haven't done anything yeah will they be VR support sorry I didn't mean to just do that people have asked about VR support that would that was about like holy [ __ ] it's gonna be so much occult yeah and also again it's one of those there are more important things to do and it's not like a game that was built with VR in mind as well and when it comes to VR you need to you need to think about it yeah standard design principles don't work yeah on PRI developer fire before it's very different like it's a lot of things that work for for normal games design practices and even just art art styles or certain tricks that you use just don't work at all anymore and you have to find a completely different way to interact with it so you have to it can't use VRS a gimmick it doesn't really work it needs to be the whole game needs to be made with VR in mind yes otherwise it doesn't work I feel like it's the same principle it's like we want to make them like if you want to have multiplayer in a game you can I want to have that in mind yeah yeah so yeah otherwise it's gonna be a hassle to like start your like force it in because not only is it a like interaction problem with they are not problem but like we don't know the best way yet in general like how do you handle input and stuff like that but also from a technical side like do you need to optimize a lot for specifically we are there's a lot of solutions you need to have yeah in order for it to work so it was a lot of work and how spit slash Jace how do you divide work amongst the various programmers on the team we have I was gonna say why are you looking at me and I'm like wait I'm I'm kind of a special case which is just not doing me any saying that is not doing me any so we have our producers or producer which kind of have a good sense of what's going on overall in the game so they collect feedback from like how are the artists working or what are they artists working on right now with the program is working on right now I like all the different game development prints whatever so they tend to like gather information and talk to our talk to our leads in the various fields so like to talk to our graphics lead and our program lead discuss like what do we need right now what can we do right now what's important for our developers right now so that all trickles down to the programmers where we have daily stand-ups and planning meetings where we discuss like if you want to implement this how hard can be and what are you weren't like and then we get to work and then we talk about what are we working on right now so we have daily stand-ups where we discussed that and then yeah I mentioned the leads have their own meetings in in my case because I do a lot of community management stuff I can be out of touch with the programming that has gone on in the project at large so I tend to take on things that are independent from what other people do so I I have been doing the vehicle since the beginning which is has been a lot of work but but these days like when I was redoing the drifting there's no dependency on any other programmer for me to rework drifting for example so I've been doing a bunch of things like that and there's like we all we're not a lot of people in studio know like it's not a super big studio when you're five or so bit more now we're gonna be about 30 so like no programmer is really like you're only doing that code stuff or you're only doing AI stuff so we're all kind of like split we take we tried to like generalize as much as possible so that everybody can jump in and do stuff to it but obviously like some people have done like specialize and stuff for the game like you've done vehicles yeah I've done a lot of net code like you I should yeah you mentioned enemies earlier but now you say there will be nothing to worry about what's up I think from that you mean nothing to worry about in terms of survival was what we were saying I think what we refer to there is you don't need to drink you don't need to things like that sleep yeah but but the enemies can you know they can kill you yeah they can still get you yep they may seem docile but they are quick yeah especially in lizard eyes there's cold eyes murder can't trust him I just sorry all the alien birds out there yeah there was someone before who else are they gonna be NPCs that you get quest from blah blah blah no there's not that
+>
+> [Music]
+>
+> wait ready which one who is the funniest at the stand-ups well you're never there obviously me yep everyone else is dead inside for a herring on my jo excite yes it's fresh when I come in and they're gonna be like never thought we'd say this yeah they were like I thought it was bad before and that's nuts here so yeah yeah please come back how does it take to build a medium-sized factory I think that's completely relative depends on what you think it's medium-sized yeah there's that but there's also depends on your OCD when it comes to refactoring yeah some people don't get very far because they're like this isn't quite perfect I'm redoing my basic iron production or something all over again so like which is satisfying which is fine I mean that's a bad way to play I'm not like [ __ ] on that but it will take more time exactly it's kind of hard to know I love when you build a factory you abandon it and go somewhere else and and do the refactoring somewhere else and you come back to you earlier you like Oh God God Oh what is this oh no did I do this no let's purge it with fire yeah can I build as high as I want we kind of answered that before it's just up to the skybox but there's no physics that's gonna knock you everything yep any plans for stuff like blueprints as in like the factorial blueprinting no we answered that in a video once before basically you know it's it's a thing that we thought about as well but at this point no maybe we will I don't know we'll see will it be out of space in galaxies no how did you come up with the name Oh a satisfactory no no it was it it was a it was a big process yeah yeah and it took us so long it was like no it was like ironically no one was satisfied yeah it was like it was like two weeks before like the or like a month before the reveal or whatever his name right now like alright we'll just go as satisfactory I guess it's been the working title for so long everyone got used to it I guess yeah yeah it's the company as well I was one of the people who hated it yeah yeah I hated it but but I got I'm I think it's good now yeah yeah but I I was one of the people who's like no to bed it's a warm yeah it took me like a year it took us just maybe they gave and putting it out there but it's like did you get indoctrinated or did you actually get one over who knows you know they could have been some subliminal stuff or they put something in my water because it is a pretty big task to name again yeah yeah it is sometimes it's like you you make a game base up like a name like a funny name something but if ya think it's around me like it's like this represents us our soul our hearts our identity it's just crisis this Factory yeah it's not it's not amazing it's just it's it's fine it's also a nice thing that if we just get average reviews it's like above 50% it's a little going for yeah that's how high we yeah yeah we're getting a lot of questions that have been asked before like translating the game or when is released even though we didn't really answer that but we can't just keep going over the same questions over and over so sorry but you may have missed some of the vlog before and you can watch it again what's the entire thing I'm sorry yeah we have to move on to like other things as well yeah and like peer to peer servers are dedicated that was answered before for Hannah besides the starting Aires will there be random spawns in the release i legit don't know if that's gonna be a thing yeah at the moment no no spawns of resources what I assume that's a good like what is the context of yes I mean I guess either yeah maybe either resources have set locations that I can answer they part of it by their part of the environment we built them in that way but like considering player spawns was first far as I know no but is the question about how long we've been in game dev each person like personally I think next in the longest of us Lee I've been a game de force five six five years give or take like working full-time at Lee yeah if if we're talking working full-time almost exactly two years right there comes seven years I'm a newbie seven years I think for me this is my first proper project on this way so can we crush our friends with orbital drops like sanctums thank you style you can't you can't crush them stuff like that but you can absolutely drive your vehicle of your friends yeah yeah you'd be like it's a new mode of transport actually we do that sometimes yeah faster did you stand with someone else's vehicle yeah so like PvP it's well I got a good one for Hanna can you tell us your favorite place on the map and why have you done the day night thing yeah that's a good one favorite place on the map I mean if I wanna if I want to stroke my own ego I'd say I'd say the desert that's that's an area I've worked on the most but if we're talking like proper proper favorite place gosh okay I would say yeah deserts I just like deserts they're nice I like this area Lee there's a swampy ish kinda I made that well you made it I like I love this yeah that one's no cool just made that one good can you say my name really quickly it would make my diet date I'd rather die I thought you said could you say my name real quick it would make my diet like my diet no just kidding blood money to you man toy toy dude this is that's my tribe it made your day love away why I kept seeing like all the time we're a pair of glasses snoot why what's the deal of it maybe I think they you look like someone I think like someone I think they said something like that yeah what hmm how can I get the key to Hanna not what I didn't get it no I get it my key well not alpha key to your heart a surprise but I think you guys same yeah definitely bribery what happens to player eventually when they are run over by a friend in vehicle a cadence probably died if you probably probably can we say look what happens if you die with in terms of you in the very probably right of your inventory yeah sure you you lose it but you don't lose you can get it back yeah go back and pick it up yeah so it's it's yeah it's like dark so it's not like this game I wanted to make that joke but I like no I'm not gonna no I'm gonna how many items exist oh you like to greater than 1 greater than yes that's it's a lot of items basically yeah a lot of buildings did not count no it looks like Michael from Vsauce oh yeah some people were saying why is Michael from Vsauce Michael here I'm sorry that was probably pretty loud in the mic or maybe not oh my god yeah yeah I'm not gonna hear that ever gave me I can't wait to grow my hair back yet now yeah you better cuz you need a new disguise oh that's why them can sing glasses how many load levels you use that's a question for Simon like a bazillion yeah all is a print screen natural put it somewhere else that I can find it that was that I did good okay be on eBay with Jason sucks yeah available in steam in the future we don't know genuinely don't know there's we don't know when you die some up it what made you cut your hair because I donated my hair if you oh yeah I didn't notice I add like super long hair and then I cuz Hannah cut her hair and I was like yeah we had the same hair sighs so I got it and donate it to kids who have alopecia and I can't wait to dye my hair again because I haven't been able to do that because I want to donate my hair really so I can have LuAnn and like crazy here so I can fit in again yes like these my hair is fading I say not he's not part of the group man it's like even these shirts kind of Rob yeah I'm the black sheep the white red flash yeah yeah Doku gun room you can we doing mascara lease of 50,000 if Lord Simon allows it no but this is a good quest like things to lead into a lot of people saying why don't you send out more alpha keys why don't you just send it to everyone more people means more feedback and that will help and that's not all exactly true if we get too many people in we will get more feedback but there is such a thing as too much feedback and if we get too much feedback then we will not be able to wade through the noise and try to find what's important and fix things so that's kind of why we limit the number to something that is always manageable for us and we don't bite off more than we can chew the other reason is and this is a probably a bit too straightforward but ultimately the elf the Alpha keys and the Alpha is actually not for you it's for us to develop the game so I know like a lot of people say I've just been looking forward to the game just give it to me right it's like but we're like hang on we need to get the right people that we want the right amount and at the right time so sorry if that doesn't give everyone what they want but we're doing what's best for us so that the game gets as good as it possibly can be and there's also the aspect of first time plate like your first time experience you only get one of those so whenever we test stuff and we start adding news like that will change the first time user experience so if we gave the keys to everybody they would all experience the game at that point at the same time and then we wouldn't have the opportunity to address any of the issues that the first time experience that yes yeah so that's also one big thing why you might hold off on testing on some people so to speak you are one of the rescueteers to be LGBT friendly or at least open about it why is it so important for you is this to you for me it's important just because like I try not to especially on YouTube and stuff I try not to just like shove it down anyone's faces or anything instead for me as bisexual dude I like to just just be on the screen and just be there and then everyone just gets to know who I am and hopefully just gets okay with the fact that I'm not straight but and to me that that that's important and I know that the Institute entire studio is very much LGBTQ from yeah just just in general just very open-minded and very supportive yeah we've got a few we've got a fair few LGBT folks here yeah thinking forearm stance there on the Alpha keys yeah dude I'll always give the honest answer if I can answer sometimes I can answer though any timeline of when the NDA will be released well Jesus it'll be obviously dumb question some time before the Alpha is released but as I said kind of earlier that's gonna an announcement about that will probably be happening sooner than you think that's the best I can say but later than you hope let's make the same joke again all right sir on service we've answered that before sorry we're not I'm trying not to answer the same questions ever ever yeah where is Simon I don't know he's behind us all yeah everyone spin around three times and say Simon if you can save Simon appeared regretted oh that's why he's here now yeah I'm sorry I suppose it's actually Jason's fault yeah blame case any plans for harnessing mod life for your base listed ogres as pack animals over up which sort of touches aren't a question that other people have asked about Ken animals follow you around like pets yeah kind of like pets what do we say maybe if you try hard enough I think maybe if you buy him a drink first well as you could see in the basic gameplay / convey about gameplay vids I made you could pet that lose a dog oh he just got mad at me and ran away or it got him mad at me right away my tinder experience but but yeah that's check - real but I can say but yeah you can also follow you around it's possible but I'm not gonna tell you anything about it yep can you see you character third-person did we touch on this so we're not gonna have three together basically it's not supported now we had it before maybe we'll have it later mmm there you go what's the biggest bug you guys have seen so far I got a good one you do yeah go ahead okay oh this is a good one I like I'm thinking to turn him into a video it's an idea that we've had but people have been a little hesitant to show like you heard it here first folks but this is gonna be a girlfriend it was I hope I don't go on too long about this but it was with the vehicles and I had a test level with a ramp and if you drove up the ramp to a certain point and hit the brakes then the and and on the map that was a we tested these teleporters and I have no idea it was gonna happen alright I actually genuinely don't but we had these like test teleporters and there was one on the other side of the mountain and if you drove this vehicle up on this rent to a certain point and hit and then stopped it disappeared and drove out of the teleporter we're like what the hell is going on right and if you go in the vehicle and you stop it so like before if you stopped at me hop down with root cellar if you're in it you died and the game crashed and then we had no idea what was going on and we found out that it was triggering a plant later as well that was crashing and we had no idea what was going on and then we realized that I had added camber support which is to make the wheels do this and in one case there was a the possibility to divide by zero and so then that would happen put infinite forces on the vehicle the vehicle became infinitely as big and then it crashed right but if it went infinitely is big and it hit the teleporter then it overlapped the teleporter and drove out of it beautiful yeah that's a good one beautiful I love [ __ ] like that where it's like you have to smooth out what the hell is happening yeah it was bizarre yeah that was a hard one question for you what is the sense of humor / memes come from so natural we're pretty tired like yeah super boring at work yes you saw the THQ yeah really are the rest of it is alive yeah no but the the honest there's the truth is Carson's been like this since the very beginning I wasn't there from the very beginning but it's always been like that even if you look at so sanctum and sanctum 2 are more serious games but even in there there's like a lot of like weird Easter eggs like these Fresno horses floating around in this dark room it's like what the hell is that about has nothing to do with anything yeah but that goes in there right and then goat simulator happened of course it's just how we've been all the time and even if you think about goat simulator that was a game that had like a lot of commentary on the game industry and and like twitch bait and things like that as well as even Kickstarter you know it we sort of just turned everything into memes and so that's just kind of happening now as satisfactory or that's what I'm doing it's gonna happen whether you like it or not yeah it's pretty relaxed here well yeah we joke around a bunch me and Simon have the thing where we do this yeah are you watching Simon are you watching got him do that it was like I was gonna include this thing yeah in the will they be breakdowns of machines then you have to fix and repair good answer please don't firm that a rubber bone what the hell a rubber bum bum Oh what is their goats and satisfactory I don't think so it's that would be a fantastic goats speaking of these cards we have his tricks like already in yeah already mmm don't say yeah don't say any of them yeah yes sir yeah of course yeah no how much time have you invested currently in satisfactory it's like three years I'm invested I don't know how many hours it's like what if you play the game that you're developing as much as I feel like I didn't phrase that correctly what if what if you played any game as much as you played it when you're developing yes I didn't I was I was gonna say like you probably don't know we're talking about because you probably rate play more runescape than your entire life foot but like I mean I played a lot of inside runescape that Freudian slip yeah yeah I'm gonna say it's game here but I was but I meant good simulators but I didn't really played much outside of work I don't really satisfactory that much however if you play it like yeah yeah will there be any cosmetics available player colours uniforms well there is the ability to paint buildings and vehicles different colors can be useful for color coding sections of you factory whatever well just for aesthetic reasons someone did ask before if there's gonna be any sort of just purely aesthetic things that you can build like Windows whatever and there are some yeah I think there's gonna be more in the future I think what we're hoping yeah we're planning yeah III would really want it as well because I think would add a lot of value I think a lot of people would really love like putting a couch down yeah down a table like they'd make it look pretty that I think people would love that I mean yeah we're all for personalizing the you know Factory in the spaces but it all comes back to will they be jetpacks in satisfactory yes yep it's do the trailer it's in the trailer so I'm the site as well so how the alpha testers done any art using walls and paint gun well the way I'm not gonna say that actually but not I mean all right I don't I don't think so I think they've just made beautiful factories as you can see on the screen right now you know I think we have to wrap this up soon it's been about an hour even taking into account that we we're late you weren't late when you talk about it yeah we said we said 420 you're on 420 yeah we were on time on it and somebody in a year I'll be 12
+>
+> [Laughter]
+>
+> long-range transport one more good question go go go just one more quick good question then we're just gonna answer here's the best question so far can i play a civilization session with you Jace no one more good question pipes nut that's a bad question will it be terraforming answered that one control the support yeah controls we and do we end on control support I guess we do control support we have it right now I think I haven't tested anyway like yeah it's country I think we're gonna have it and we have had it all this time the tricky thing with keeping up to date with our control support is we keep adding features taking things out and remapping things over and over and then it's like it's like we don't know if this is gonna work the way we want we don't know if we want this menu or this button or this function or whatever and then then basically the control the support just falls apart because no one's kept up to date with it but I think when we get to specific milestones then the controller will be considered again and then tightened up and then because it's also the aspect of like when we add new features we don't want an SS able to be like because when you're when you're live with the game you have to take all things into consideration every time so like how does it work with control like control support so if we had a new feature we have to test it with like oh how does it with keyboard how does it work with control sport how does work with all these different types of controls you know stuff like that and right now we'd rather test features and like try them implement them and see what happens rather than try to kind of be tied back by those types of theö but there is some control support right now yeah but I'm not sure with the state of it supports it whether or not the buttons are mapped to the Google things I don't think I know that out UI the entire time had kept control of your mind yeah I don't know where that is now yeah yes it's still yeah UI at least is supported you program your side all right I think we're done yeah all right cool not looking at any more questions no closing the window even done all right well thank you all very much for tuning in I had a lot of fun hmm these guys did all right but yeah I think hopefully we're gonna be doing more live streaming stuff in the future yeah so we can have a more technical day at the very least this you know this was kind of a trial run as well to see what's it like live streaming interacting with you I think it went well sounds very fun you know yeah and we have some other live stream ideas as well which I say this and hopefully don't get in trouble for saying it but it may happen it may not happen yet but we'll try make it happen because it's a really good idea yep okay so thanks for tuning in yeah yep and I will catch you all later then we share the vaad paint with people yeah hopefully yeah thank you everyone
+>
+> [Music]
+>
+> [Music]
+>
+> [Music]
+
+
+</details>
 
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as February 2019 and as early as June 2018.</summary>

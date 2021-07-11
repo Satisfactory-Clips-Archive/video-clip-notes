@@ -18,6 +18,10 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## July 6th, 2021 Livestream
+* [Snutt & Jace Talk: Poop Emoji plush](../transcriptions/yt-RCeee9HK3Zs.md) [https://www.youtube.com/watch?v=RCeee9HK3Zs](https://www.youtube.com/watch?v=RCeee9HK3Zs)
+* [Q&A: Why won't Jace donate hair to Snutt?](../transcriptions/yt-zz3FDAM8zxs.md) [https://www.youtube.com/watch?v=zz3FDAM8zxs](https://www.youtube.com/watch?v=zz3FDAM8zxs)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Did you guys know that today was Matt Mercer's birthday?](../transcriptions/yt-dJhg5hbiMoQ.md) [https://www.youtube.com/watch?v=dJhg5hbiMoQ](https://www.youtube.com/watch?v=dJhg5hbiMoQ)
 * [Snutt & Jace Talk: Snutt makes noises when breathing](../transcriptions/yt-3XRZmwYw_EY.md) [https://www.youtube.com/watch?v=3XRZmwYw_EY](https://www.youtube.com/watch?v=3XRZmwYw_EY)

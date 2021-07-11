@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
+## July 6th, 2021 Livestream
+* Community Highlights: Kinda looks like turrets [https://www.youtube.com/watch?v=y4-QPJ5UuI8](https://www.youtube.com/watch?v=y4-QPJ5UuI8)
+
 ## June 22nd, 2021 Livestream
 * Q&A: What's the coolest Concept Art that Torsten has made that's been thrown out? [https://www.youtube.com/watch?v=kI5onSQdJLs](https://www.youtube.com/watch?v=kI5onSQdJLs)
 

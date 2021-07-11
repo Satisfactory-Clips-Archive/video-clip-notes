@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: What's the reason for not having good in-production overview?
 https://www.youtube.com/watch?v=66gt7CjmdXs
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Will there be ways to see your total production per minute?](./yt-tHzH3dkTZ4s.md) [https://www.youtube.com/watch?v=tHzH3dkTZ4s](https://www.youtube.com/watch?v=tHzH3dkTZ4s)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Go implement HUB computer, I want to see graphs & statistics?](./yt-aA0KIR6AKC8.md) [https://www.youtube.com/watch?v=aA0KIR6AKC8](https://www.youtube.com/watch?v=aA0KIR6AKC8)
 
 
 ### Topics

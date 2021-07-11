@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Terraforming
 
+## July 6th, 2021 Livestream
+* [Q&A: Is there a way to alter the terrain in certain circumstances?](../../../transcriptions/yt-35jxkNZh7mA.md) [https://www.youtube.com/watch?v=35jxkNZh7mA](https://www.youtube.com/watch?v=35jxkNZh7mA)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: Could you comment on terraforming or infinite world generation?](../../../transcriptions/yt-f82WcT7hjGE.md) [https://www.youtube.com/watch?v=f82WcT7hjGE](https://www.youtube.com/watch?v=f82WcT7hjGE)
 

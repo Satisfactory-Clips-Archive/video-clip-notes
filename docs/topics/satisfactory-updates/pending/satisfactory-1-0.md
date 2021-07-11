@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## July 6th, 2021 Livestream
+* Q&A: How many Updates until 1.0? [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
+* [Q&A: Does your studio ever think about joining Green Game Jam one day once 1.0 is out?](../../../transcriptions/yt-ZbzxAbnVH4Y.md) [https://www.youtube.com/watch?v=ZbzxAbnVH4Y](https://www.youtube.com/watch?v=ZbzxAbnVH4Y)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Do you have an approximate timeline for when 1.0 will be ready?](../../../transcriptions/yt-JV12w3UZIHE.md) [https://www.youtube.com/watch?v=JV12w3UZIHE](https://www.youtube.com/watch?v=JV12w3UZIHE)
 * [Trolling: We're going to release 1.0 at 700 votes](../../../transcriptions/yt-f_ce5tbndOw.md) [https://www.youtube.com/watch?v=f_ce5tbndOw](https://www.youtube.com/watch?v=f_ce5tbndOw)

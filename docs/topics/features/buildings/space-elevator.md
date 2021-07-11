@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## July 6th, 2021 Livestream
+* Q&A: Why do we send stuff to the Space Elevator, is there a purpose or just to unlock new Tiers? [https://www.youtube.com/watch?v=8tmtxAwI04I](https://www.youtube.com/watch?v=8tmtxAwI04I)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Please add Achievements & badges on Steam](../../../transcriptions/yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
 

@@ -17,6 +17,11 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## July 6th, 2021 Livestream
+* Q&A: How long do you have to wait to see if your translation works in the game? [https://www.youtube.com/watch?v=gdTe3A1S7eU](https://www.youtube.com/watch?v=gdTe3A1S7eU)
+* Q&A: How many Updates until 1.0? [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
+* [Community FYI: I love that you guys engage with us and explain your decision-making](../transcriptions/yt-HQo_SFMjHdc.md) [https://www.youtube.com/watch?v=HQo_SFMjHdc](https://www.youtube.com/watch?v=HQo_SFMjHdc)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Any optimisations in the future?](../transcriptions/yt-o7yp11NU3bQ.md) [https://www.youtube.com/watch?v=o7yp11NU3bQ](https://www.youtube.com/watch?v=o7yp11NU3bQ)
 

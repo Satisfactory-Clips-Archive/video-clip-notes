@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## July 6th, 2021 Livestream
+* Snutt & Jace Talk: Swedish & Spanish pronunciations of Snutt's (German) last name [https://www.youtube.com/watch?v=FnoevKAqqxk](https://www.youtube.com/watch?v=FnoevKAqqxk)
+* Snutt & Jace Talk: Trolling about copying ideas from Mods [https://www.youtube.com/watch?v=LukumNkFhzI](https://www.youtube.com/watch?v=LukumNkFhzI)
+* Community Highlights: Kinda looks like turrets [https://www.youtube.com/watch?v=y4-QPJ5UuI8](https://www.youtube.com/watch?v=y4-QPJ5UuI8)
+
 ## June 15th, 2021 Livestream
 * [Snutt & Jace Talk: Goat Simulator, Sanctum, and Rocket League](../../transcriptions/yt-5Tu2HsXRQNg.md) [https://www.youtube.com/watch?v=5Tu2HsXRQNg](https://www.youtube.com/watch?v=5Tu2HsXRQNg)
 * [Snutt & Jace Talk: Swedish saying "V" for "W"](../../transcriptions/yt-2DwvxQ3H1Iw.md) [https://www.youtube.com/watch?v=2DwvxQ3H1Iw](https://www.youtube.com/watch?v=2DwvxQ3H1Iw)

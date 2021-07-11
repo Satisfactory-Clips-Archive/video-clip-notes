@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unreleased Features > Unreleased Content
 
+## July 6th, 2021 Livestream
+* Q&A: Do you know how much the community has translated that wasn't supposed to be public? [https://www.youtube.com/watch?v=9ywjYyGTnKo](https://www.youtube.com/watch?v=9ywjYyGTnKo)
+
 ## May 11th, 2021 Livestream
 * [Q&A: What happened to the plans to implement a structure that powers all foundations of a factory?](../../../transcriptions/yt-1uP0bqUCsrc.md) [https://www.youtube.com/watch?v=1uP0bqUCsrc](https://www.youtube.com/watch?v=1uP0bqUCsrc)
 

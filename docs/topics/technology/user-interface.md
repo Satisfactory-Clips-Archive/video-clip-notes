@@ -6,6 +6,13 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## July 6th, 2021 Livestream
+* Localization Community Highlight: Localization Debug Mode [https://www.youtube.com/watch?v=wK2NURlKWxM](https://www.youtube.com/watch?v=wK2NURlKWxM)
+* Snutt & Jace Talk: DebugText% [https://www.youtube.com/watch?v=R_PE2NXxUlw](https://www.youtube.com/watch?v=R_PE2NXxUlw)
+* Alex & McGalleon & Jace Talk: Working with the UI Team [https://www.youtube.com/watch?v=J87W2wlGVJ0](https://www.youtube.com/watch?v=J87W2wlGVJ0)
+* Snutt & Alex Talk: Switching languages in the game [https://www.youtube.com/watch?v=7OgxrcqFwY8](https://www.youtube.com/watch?v=7OgxrcqFwY8)
+* [Q&A: Have you thought about updating values when overclocking without needing both items & power?](../../transcriptions/yt-zf3aLdrxZKc.md) [https://www.youtube.com/watch?v=zf3aLdrxZKc](https://www.youtube.com/watch?v=zf3aLdrxZKc)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Equipment Hotkey, when?](../../transcriptions/yt-W56wGXyT_sA.md) [https://www.youtube.com/watch?v=W56wGXyT_sA](https://www.youtube.com/watch?v=W56wGXyT_sA)
 * [Q&A: Are you thinking of implementing a system like Satisfactory Calculator?](../../transcriptions/yt-wHbulAfnOyc.md) [https://www.youtube.com/watch?v=wHbulAfnOyc](https://www.youtube.com/watch?v=wHbulAfnOyc)

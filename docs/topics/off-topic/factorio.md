@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio
 
+## July 6th, 2021 Livestream
+* [Q&A: Are you & your colleagues looking up to some other indie games?](../../transcriptions/yt-Wo5BV2FL0T0.md) [https://www.youtube.com/watch?v=Wo5BV2FL0T0](https://www.youtube.com/watch?v=Wo5BV2FL0T0)
+
 ## June 8th, 2021 Livestream
 * [Q&A: What games have you played that inspired Satisfactory?](../../transcriptions/yt-eTDo5O-Jr-Y.md) [https://www.youtube.com/watch?v=eTDo5O-Jr-Y](https://www.youtube.com/watch?v=eTDo5O-Jr-Y)
 

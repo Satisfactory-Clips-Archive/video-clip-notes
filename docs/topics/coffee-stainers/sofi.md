@@ -22,6 +22,6 @@ date: Last Modified
 * [Q&A: Satisfactory exclusive to Epic Games Store (December 2018)](../../transcriptions/yt-52nYaN8imgo,201.34,216.1.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=201&end=217](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=201&end=217)
 
 ## August 15th, 2018 Video
-* Sofi Talk: Being a Concept Artist at Coffee Stain [https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C6.88%2C55.48](https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C6.88%2C55.48)
-* Sofi Talk: Working with Concept Art [https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C114.64%2C155.08](https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C114.64%2C155.08)
-* Sofi Talk: My own art [https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C300.84%2C338.16](https://www.youtube.com/watch?v=yt-PkozY8_q-LE%26%2C300.84%2C338.16)
+* [Sofi Talk: Being a Concept Artist at Coffee Stain](../../transcriptions/yt-PkozY8_q-LE,6.88,55.48.md) [https://youtube.com/embed/PkozY8_q-LE?autoplay=1&start=6&end=56](https://youtube.com/embed/PkozY8_q-LE?autoplay=1&start=6&end=56)
+* [Sofi Talk: Working with Concept Art](../../transcriptions/yt-PkozY8_q-LE,114.64,155.08.md) [https://youtube.com/embed/PkozY8_q-LE?autoplay=1&start=114&end=156](https://youtube.com/embed/PkozY8_q-LE?autoplay=1&start=114&end=156)
+* [Sofi Talk: My own art](../../transcriptions/yt-PkozY8_q-LE,300.84,338.16.md) [https://youtube.com/embed/PkozY8_q-LE?autoplay=1&start=300&end=339](https://youtube.com/embed/PkozY8_q-LE?autoplay=1&start=300&end=339)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## July 6th, 2021 Livestream
+* [Q&A: Would you choose Vodka or Tequila?](../../transcriptions/yt-Zu95lrXblrk.md) [https://www.youtube.com/watch?v=Zu95lrXblrk](https://www.youtube.com/watch?v=Zu95lrXblrk)
+
 ## June 29th, 2021 Livestream
 * [Q&A: How was Midsummer?](../../transcriptions/yt-U9bVS61gZCE.md) [https://www.youtube.com/watch?v=U9bVS61gZCE](https://www.youtube.com/watch?v=U9bVS61gZCE)
 * [Snutt & Jace Talk: Coffee Stain / Swedish vacations](../../transcriptions/yt--Nos691KN8M.md) [https://www.youtube.com/watch?v=-Nos691KN8M](https://www.youtube.com/watch?v=-Nos691KN8M)

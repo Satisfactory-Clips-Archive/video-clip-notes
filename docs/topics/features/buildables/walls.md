@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## July 6th, 2021 Livestream
+* [Q&A: Why does the game render items & Belts hidden behind walls even when they're not visible?](../../../transcriptions/yt-uO1QT1SKsZA.md) [https://www.youtube.com/watch?v=uO1QT1SKsZA](https://www.youtube.com/watch?v=uO1QT1SKsZA)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Will you be adding ramps, walls, maybe a chair?](../../../transcriptions/yt-V20SFRk4jpw.md) [https://www.youtube.com/watch?v=V20SFRk4jpw](https://www.youtube.com/watch?v=V20SFRk4jpw)
 

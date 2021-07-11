@@ -32,6 +32,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## July 6th, 2021 Livestream
+* [Q&A: Do you guys help some Mod teams or are they on there own?](../transcriptions/yt-2KJvQH-8V28.md) [https://www.youtube.com/watch?v=2KJvQH-8V28](https://www.youtube.com/watch?v=2KJvQH-8V28)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Have you read my latest crash report?](../transcriptions/yt-UjLAYqr2L6g.md) [https://www.youtube.com/watch?v=UjLAYqr2L6g](https://www.youtube.com/watch?v=UjLAYqr2L6g)
 * [Q&A: Will Update 5 break Mods?](../transcriptions/yt-4OudGoLGTuk.md) [https://www.youtube.com/watch?v=4OudGoLGTuk](https://www.youtube.com/watch?v=4OudGoLGTuk)

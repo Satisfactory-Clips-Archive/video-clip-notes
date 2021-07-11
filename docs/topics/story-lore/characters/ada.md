@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-lore.md) > Characters > ADA
 
+## July 6th, 2021 Livestream
+* Q&A: Will Jace be dubbing ADA's lines into Spanish? [https://www.youtube.com/watch?v=mKUON_7AYp8](https://www.youtube.com/watch?v=mKUON_7AYp8)
+* Q&A: What about voice language support for ADA? [https://www.youtube.com/watch?v=kQW8lEkmYH8](https://www.youtube.com/watch?v=kQW8lEkmYH8)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: ADA (Part 1)](../../../transcriptions/yt-nTovpIX8gp0.md) [https://www.youtube.com/watch?v=nTovpIX8gp0](https://www.youtube.com/watch?v=nTovpIX8gp0)
 * [Snutt & Jace Talk: ADA (Part 2)](../../../transcriptions/yt-bTE1Sh5Hiew.md) [https://www.youtube.com/watch?v=bTE1Sh5Hiew](https://www.youtube.com/watch?v=bTE1Sh5Hiew)

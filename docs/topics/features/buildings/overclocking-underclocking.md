@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## July 6th, 2021 Livestream
+* [Q&A: Why we can make Power Shard?](../../../transcriptions/yt-OyM6Xmc4aKM.md) [https://www.youtube.com/watch?v=OyM6Xmc4aKM](https://www.youtube.com/watch?v=OyM6Xmc4aKM)
+* [Q&A: Have you thought about updating values when overclocking without needing both items & power?](../../../transcriptions/yt-zf3aLdrxZKc.md) [https://www.youtube.com/watch?v=zf3aLdrxZKc](https://www.youtube.com/watch?v=zf3aLdrxZKc)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Production Ratios & Overclocking (Part 1)](../../../transcriptions/yt-Q9950uKeMEY.md) [https://www.youtube.com/watch?v=Q9950uKeMEY](https://www.youtube.com/watch?v=Q9950uKeMEY)
 * [Snutt & Jace Talk: Production Ratios & Overclocking (Part 2)](../../../transcriptions/yt-S2QKl8Bbh5Y.md) [https://www.youtube.com/watch?v=S2QKl8Bbh5Y](https://www.youtube.com/watch?v=S2QKl8Bbh5Y)

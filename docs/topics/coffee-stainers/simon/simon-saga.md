@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Simon](../../../topics/coffee-stainers/simon.md) > Simon Saga
 
+## July 6th, 2021 Livestream
+* [Q&A: Did Jace ever finish refactoring the attachments system?](../../../transcriptions/yt-RLAevtWkTUA.md) [https://www.youtube.com/watch?v=RLAevtWkTUA](https://www.youtube.com/watch?v=RLAevtWkTUA)
+
 ## February 16th, 2021 Livestream
 * [Q&A: Who's Simon?](../../../transcriptions/yt-MQSdhIKAjNc.md) [https://www.youtube.com/watch?v=MQSdhIKAjNc](https://www.youtube.com/watch?v=MQSdhIKAjNc)
 

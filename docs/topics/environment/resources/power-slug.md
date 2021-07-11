@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## July 6th, 2021 Livestream
+* [Q&A: I need someone to collect slugs in my game, do you provide that service?](../../../transcriptions/yt-mmwKyAUI6q8.md) [https://www.youtube.com/watch?v=mmwKyAUI6q8](https://www.youtube.com/watch?v=mmwKyAUI6q8)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Exploring the world](../../../transcriptions/yt-1W4U_f_dUog.md) [https://www.youtube.com/watch?v=1W4U_f_dUog](https://www.youtube.com/watch?v=1W4U_f_dUog)
 * [Snutt & Jace Talk: Production Ratios & Overclocking (Part 1)](../../../transcriptions/yt-Q9950uKeMEY.md) [https://www.youtube.com/watch?v=Q9950uKeMEY](https://www.youtube.com/watch?v=Q9950uKeMEY)

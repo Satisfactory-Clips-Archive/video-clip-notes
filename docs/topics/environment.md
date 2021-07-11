@@ -12,6 +12,11 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## July 6th, 2021 Livestream
+* [Q&A: I really want to know who's responsible for the beautiful World design?](../transcriptions/yt-oR-6X_Lru8I.md) [https://www.youtube.com/watch?v=oR-6X_Lru8I](https://www.youtube.com/watch?v=oR-6X_Lru8I)
+* [Q&A: Fix random floating Plants & rocks?](../transcriptions/yt-pEVKagBHXRA.md) [https://www.youtube.com/watch?v=pEVKagBHXRA](https://www.youtube.com/watch?v=pEVKagBHXRA)
+* [Q&A: Is there a way to collect a bin from the bottom of the sea?](../transcriptions/yt-mffqiLX6liU.md) [https://www.youtube.com/watch?v=mffqiLX6liU](https://www.youtube.com/watch?v=mffqiLX6liU)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: We've seen a lot of Concept Art for Buildings, but does Torsten do any for the World?](../transcriptions/yt-mNKnQFH_0vQ.md) [https://www.youtube.com/watch?v=mNKnQFH_0vQ](https://www.youtube.com/watch?v=mNKnQFH_0vQ)
 

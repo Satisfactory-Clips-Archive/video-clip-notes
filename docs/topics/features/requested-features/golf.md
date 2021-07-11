@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf
 
+## July 6th, 2021 Livestream
+* Snutt & Jace Talk: State of Golf [https://www.youtube.com/watch?v=FZfRbpnOZtM](https://www.youtube.com/watch?v=FZfRbpnOZtM)
+
 ## June 29th, 2021 Livestream
 * [Community FYI: Golf has more than 600 upvotes](../../../transcriptions/yt-fTiVON_tW_Y.md) [https://www.youtube.com/watch?v=fTiVON_tW_Y](https://www.youtube.com/watch?v=fTiVON_tW_Y)
 

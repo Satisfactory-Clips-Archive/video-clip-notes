@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
+## July 6th, 2021 Livestream
+* [Q&A: AWESOME Sink volume button?](../../../transcriptions/yt-6KmwHFLnoO4.md) [https://www.youtube.com/watch?v=6KmwHFLnoO4](https://www.youtube.com/watch?v=6KmwHFLnoO4)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Which came first, the resource Sink or the AWESOME Shop?](../../../transcriptions/yt-QTacw-RA8YA.md) [https://www.youtube.com/watch?v=QTacw-RA8YA](https://www.youtube.com/watch?v=QTacw-RA8YA)
 

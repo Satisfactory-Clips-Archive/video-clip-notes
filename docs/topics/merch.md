@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## July 6th, 2021 Livestream
+* [Q&A: When's the mug coming?](../transcriptions/yt-PSnl87wl_Os.md) [https://www.youtube.com/watch?v=PSnl87wl_Os](https://www.youtube.com/watch?v=PSnl87wl_Os)
+
 ## June 29th, 2021 Livestream
 * [Community FYI: I just put in a Merch request on the QA Site for pins](../transcriptions/yt-EUcbnLVnrJI.md) [https://www.youtube.com/watch?v=EUcbnLVnrJI](https://www.youtube.com/watch?v=EUcbnLVnrJI)
 * [Q&A: Any news on EU store?](../transcriptions/yt-VtM58J6-DDQ.md) [https://www.youtube.com/watch?v=VtM58J6-DDQ](https://www.youtube.com/watch?v=VtM58J6-DDQ)

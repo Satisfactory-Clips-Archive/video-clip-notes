@@ -12,13 +12,26 @@ date: Last Modified
 * [Josh](../topics/community/josh.md)
 * [Joshie](../topics/community/joshie.md)
 * [Kibitz](../topics/community/kibitz.md)
+* [McGalleon](../topics/community/mcgalleon.md)
 * [Panakotta](../topics/community/panakotta.md)
+* [RogerHN](../topics/community/rogerhn.md)
 * [Satisfactory Calculator](../topics/community/satisfactory-calculator.md)
 * [Satisfactory News](../topics/community/satisfactory-news.md)
 * [SignpostMarv](../topics/community/signpostmarv.md)
 * [Smerkin](../topics/community/smerkin.md)
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
+
+## July 6th, 2021 Livestream
+* Q&A: How many proof-readers does each language have? [https://www.youtube.com/watch?v=7N8yr1WzSwc](https://www.youtube.com/watch?v=7N8yr1WzSwc)
+* Q&A: How would you join the translation crew? [https://www.youtube.com/watch?v=21YJgMguxHQ](https://www.youtube.com/watch?v=21YJgMguxHQ)
+* Jace & Roger & Alex Talk: Trello Board [https://www.youtube.com/watch?v=8vHRxUKPIM0](https://www.youtube.com/watch?v=8vHRxUKPIM0)
+* Localization Community Highlight: Outro [https://www.youtube.com/watch?v=wqMveGY5x18](https://www.youtube.com/watch?v=wqMveGY5x18)
+* Snutt & Jace Talk: Translation community shout-out [https://www.youtube.com/watch?v=aRYlLtfuze0](https://www.youtube.com/watch?v=aRYlLtfuze0)
+* Jace Talk: The Russian community really think I look like this guy [https://www.youtube.com/watch?v=WEpAa29aMTc](https://www.youtube.com/watch?v=WEpAa29aMTc)
+* [Community FYI: Love from India](../transcriptions/yt-unw-HJxUj8A.md) [https://www.youtube.com/watch?v=unw-HJxUj8A](https://www.youtube.com/watch?v=unw-HJxUj8A)
+* [Community FYI: I love that you guys engage with us and explain your decision-making](../transcriptions/yt-HQo_SFMjHdc.md) [https://www.youtube.com/watch?v=HQo_SFMjHdc](https://www.youtube.com/watch?v=HQo_SFMjHdc)
+* [Q&A: Do you know which country plays Satisfactory the most?](../transcriptions/yt-PffkKbi07gU.md) [https://www.youtube.com/watch?v=PffkKbi07gU](https://www.youtube.com/watch?v=PffkKbi07gU)
 
 ## June 29th, 2021 Livestream
 * [Q&A: Favourite unofficial game modes from the modding folks?](../transcriptions/yt-VwrPzpHGFcg.md) [https://www.youtube.com/watch?v=VwrPzpHGFcg](https://www.youtube.com/watch?v=VwrPzpHGFcg)

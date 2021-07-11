@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## July 6th, 2021 Livestream
+* Q&A: Will Update 5 be bigger than Update 4? [https://www.youtube.com/watch?v=3Ad-13NANOg](https://www.youtube.com/watch?v=3Ad-13NANOg)
+
 ## June 22nd, 2021 Livestream
 * [Snutt & Torsten Talk: Concept Art - Resource Well Pressurizer](../../../transcriptions/yt-bXkX3Vwy_Xg.md) [https://www.youtube.com/watch?v=bXkX3Vwy_Xg](https://www.youtube.com/watch?v=bXkX3Vwy_Xg)
 * [Snutt & Torsten Talk: Concept Art - The Blender™](../../../transcriptions/yt--Z7MfVopphg.md) [https://www.youtube.com/watch?v=-Z7MfVopphg](https://www.youtube.com/watch?v=-Z7MfVopphg)

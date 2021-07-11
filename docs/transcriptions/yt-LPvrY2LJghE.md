@@ -9,7 +9,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Will we get a bigger Map?
 https://www.youtube.com/watch?v=LPvrY2LJghE
-This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: More Biomes coming to play?](./yt-KrltUW332Rg.md) [https://www.youtube.com/watch?v=KrltUW332Rg](https://www.youtube.com/watch?v=KrltUW332Rg)
+This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Are you going to expand the playable area on the Map? [https://www.youtube.com/watch?v=gy1FELPzm2w](https://www.youtube.com/watch?v=gy1FELPzm2w)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## July 6th, 2021 Livestream
+* State of Dev: Internal builds of Update 5 [https://www.youtube.com/watch?v=mVtsTBLEbvs](https://www.youtube.com/watch?v=mVtsTBLEbvs)
+
 ## June 29th, 2021 Livestream
 * [State of Dev: Update 5](../../transcriptions/yt-HzCKJX8FQGg.md) [https://www.youtube.com/watch?v=HzCKJX8FQGg](https://www.youtube.com/watch?v=HzCKJX8FQGg)
 

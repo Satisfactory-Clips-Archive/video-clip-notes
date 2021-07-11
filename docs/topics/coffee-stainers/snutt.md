@@ -6,6 +6,14 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## July 6th, 2021 Livestream
+* Snutt & Jace Talk: Swedish & Spanish pronunciations of Snutt's (German) last name [https://www.youtube.com/watch?v=FnoevKAqqxk](https://www.youtube.com/watch?v=FnoevKAqqxk)
+* Q&A: What did Snutt have for breakfast? [https://www.youtube.com/watch?v=6nEbRCnR4yc](https://www.youtube.com/watch?v=6nEbRCnR4yc)
+* [Q&A: You guys work in the office yet?](../../transcriptions/yt-MSxZt_IUpsA.md) [https://www.youtube.com/watch?v=MSxZt_IUpsA](https://www.youtube.com/watch?v=MSxZt_IUpsA)
+* [Q&A: Do you enjoy your job at Coffee Stain?](../../transcriptions/yt--5bGGsM72l0.md) [https://www.youtube.com/watch?v=-5bGGsM72l0](https://www.youtube.com/watch?v=-5bGGsM72l0)
+* [Q&A: Why won't Jace donate hair to Snutt?](../../transcriptions/yt-zz3FDAM8zxs.md) [https://www.youtube.com/watch?v=zz3FDAM8zxs](https://www.youtube.com/watch?v=zz3FDAM8zxs)
+* [Q&A: Would you choose Vodka or Tequila?](../../transcriptions/yt-Zu95lrXblrk.md) [https://www.youtube.com/watch?v=Zu95lrXblrk](https://www.youtube.com/watch?v=Zu95lrXblrk)
+
 ## June 29th, 2021 Livestream
 * [Q&A: How was Midsummer?](../../transcriptions/yt-U9bVS61gZCE.md) [https://www.youtube.com/watch?v=U9bVS61gZCE](https://www.youtube.com/watch?v=U9bVS61gZCE)
 * [Q&A: Do you do any work outside of the streams?](../../transcriptions/yt-V96viZIrKfQ.md) [https://www.youtube.com/watch?v=V96viZIrKfQ](https://www.youtube.com/watch?v=V96viZIrKfQ)

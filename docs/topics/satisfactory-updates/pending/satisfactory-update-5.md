@@ -5,6 +5,16 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
 
+## July 6th, 2021 Livestream
+* State of Dev: Internal builds of Update 5 [https://www.youtube.com/watch?v=mVtsTBLEbvs](https://www.youtube.com/watch?v=mVtsTBLEbvs)
+* Q&A: Do we know what's going to be in Update 5? [https://www.youtube.com/watch?v=giUJWJP_VTE](https://www.youtube.com/watch?v=giUJWJP_VTE)
+* Q&A: Can you tell us the theme for Update 5? [https://www.youtube.com/watch?v=GeoD7JmX6cM](https://www.youtube.com/watch?v=GeoD7JmX6cM)
+* Q&A: When do you plan to announce details for Update 5 [https://www.youtube.com/watch?v=JKNpXoM1Rv4](https://www.youtube.com/watch?v=JKNpXoM1Rv4)
+* Q&A: Will Update 5 live up to the hype? [https://www.youtube.com/watch?v=9RAPB6rsco8](https://www.youtube.com/watch?v=9RAPB6rsco8)
+* [Q&A: Is there any major performance boost in Update 5?](../../../transcriptions/yt-Vcf5p_uTs7w.md) [https://www.youtube.com/watch?v=Vcf5p_uTs7w](https://www.youtube.com/watch?v=Vcf5p_uTs7w)
+* [Q&A: Is there a main thing in Update 5?](../../../transcriptions/yt-zl0iKo3TKng.md) [https://www.youtube.com/watch?v=zl0iKo3TKng](https://www.youtube.com/watch?v=zl0iKo3TKng)
+* Q&A: Will Update 5 be bigger than Update 4? [https://www.youtube.com/watch?v=3Ad-13NANOg](https://www.youtube.com/watch?v=3Ad-13NANOg)
+
 ## June 29th, 2021 Livestream
 * [State of Dev: Update 5](../../../transcriptions/yt-HzCKJX8FQGg.md) [https://www.youtube.com/watch?v=HzCKJX8FQGg](https://www.youtube.com/watch?v=HzCKJX8FQGg)
 * [Q&A: Will Update 5 break Mods?](../../../transcriptions/yt-4OudGoLGTuk.md) [https://www.youtube.com/watch?v=4OudGoLGTuk](https://www.youtube.com/watch?v=4OudGoLGTuk)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## July 6th, 2021 Livestream
+* Q&A: Have you all added Easter Eggs in the game that have not yet been discovered? [https://www.youtube.com/watch?v=aLNaD031GPw](https://www.youtube.com/watch?v=aLNaD031GPw)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Can we get a Goat Simulator easter egg in the game?](../transcriptions/yt-hSZdK3Pg9AE.md) [https://www.youtube.com/watch?v=hSZdK3Pg9AE](https://www.youtube.com/watch?v=hSZdK3Pg9AE)
 

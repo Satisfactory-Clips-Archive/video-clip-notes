@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Will there be Weather in the game?
 https://www.youtube.com/watch?v=m9oykKdGfUE
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Gonna be weather changes, like rain, snow, and sand storms?](./yt-wUZr64_l6R4.md) [https://www.youtube.com/watch?v=wUZr64_l6R4](https://www.youtube.com/watch?v=wUZr64_l6R4)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Will you be adding Weather Systems?](./yt-WMMQ1b8eAvA.md) [https://www.youtube.com/watch?v=WMMQ1b8eAvA](https://www.youtube.com/watch?v=WMMQ1b8eAvA)
 
 
 ### Topics

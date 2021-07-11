@@ -16,6 +16,10 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## July 6th, 2021 Livestream
+* Q&A: Do you plan to add more Tiers? [https://www.youtube.com/watch?v=VaqszvQTlYA](https://www.youtube.com/watch?v=VaqszvQTlYA)
+* Q&A: Why do we send stuff to the Space Elevator, is there a purpose or just to unlock new Tiers? [https://www.youtube.com/watch?v=8tmtxAwI04I](https://www.youtube.com/watch?v=8tmtxAwI04I)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Can we get a way to skip certain stages for new playthroughs?](../../transcriptions/yt-DE_UxFAQUm0.md) [https://www.youtube.com/watch?v=DE_UxFAQUm0](https://www.youtube.com/watch?v=DE_UxFAQUm0)
 
@@ -34,6 +38,9 @@ date: Last Modified
 ## April 27th, 2021 Livestream
 * [Q&A: Tier 9, any plan?](../../transcriptions/yt-qTNbKJ6Ys0M.md) [https://www.youtube.com/watch?v=qTNbKJ6Ys0M](https://www.youtube.com/watch?v=qTNbKJ6Ys0M)
 * [Q&A: Any plans to introduce a Blender at lower tiers?](../../transcriptions/yt-6LLHUYJVqz4.md) [https://www.youtube.com/watch?v=6LLHUYJVqz4](https://www.youtube.com/watch?v=6LLHUYJVqz4)
+
+## April 20th, 2021 Livestream
+* [Q&A: How many tiers will you need to reveal what Project Assembly is?](../../transcriptions/yt-YN-v2W9zwFE.md) [https://www.youtube.com/watch?v=YN-v2W9zwFE](https://www.youtube.com/watch?v=YN-v2W9zwFE)
 
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Feedback from hardcore players vs. casual players](../../transcriptions/yt-7I4_CIh-ajM.md) [https://www.youtube.com/watch?v=7I4_CIh-ajM](https://www.youtube.com/watch?v=7I4_CIh-ajM)
@@ -87,7 +94,7 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: End game is all about building refineries?](../../transcriptions/yt-mZ4l1leFAWY.md) [https://www.youtube.com/watch?v=mZ4l1leFAWY](https://www.youtube.com/watch?v=mZ4l1leFAWY)
-* Q&A: Will there be any further goals besides Research & Development stages? [https://clips.twitch.tv/TsundereOutstandingNuggetsFUNgineer](https://clips.twitch.tv/TsundereOutstandingNuggetsFUNgineer)
+* [Q&A: Will there be any further goals besides Research & Development stages?](../../transcriptions/yt-6Tt6xgjgn7k.md) [https://www.youtube.com/watch?v=6Tt6xgjgn7k](https://www.youtube.com/watch?v=6Tt6xgjgn7k)
 
 ## July 28th, 2020 Livestream
 * Jace Talk: Content & Tiers [https://clips.twitch.tv/SwissFurryPlumPlanking](https://clips.twitch.tv/SwissFurryPlumPlanking)

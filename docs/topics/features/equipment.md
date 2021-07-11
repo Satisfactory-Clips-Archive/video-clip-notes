@@ -14,6 +14,9 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## July 6th, 2021 Livestream
+* Localization Community Highlight: Translating specialised words such as "Xeno-Zapper" [https://www.youtube.com/watch?v=XFLWFV6Sd8M](https://www.youtube.com/watch?v=XFLWFV6Sd8M)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Equipment Hotkey, when?](../../transcriptions/yt-W56wGXyT_sA.md) [https://www.youtube.com/watch?v=W56wGXyT_sA](https://www.youtube.com/watch?v=W56wGXyT_sA)
 * [Q&A: When will we get ranged weapons in the game?](../../transcriptions/yt-MiBdM3dSRPQ.md) [https://www.youtube.com/watch?v=MiBdM3dSRPQ](https://www.youtube.com/watch?v=MiBdM3dSRPQ)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Weather Systems
 
+## July 6th, 2021 Livestream
+* [Q&A: Will you be adding Weather Systems?](../../../transcriptions/yt-WMMQ1b8eAvA.md) [https://www.youtube.com/watch?v=WMMQ1b8eAvA](https://www.youtube.com/watch?v=WMMQ1b8eAvA)
+* [Q&A: Random clouds would be good?](../../../transcriptions/yt-o_76lxBOUDU.md) [https://www.youtube.com/watch?v=o_76lxBOUDU](https://www.youtube.com/watch?v=o_76lxBOUDU)
+
 ## April 27th, 2021 Livestream
 * [Q&A: Can you tell us what Power change content were taken out of Update 4?](../../../transcriptions/yt-8HYOz7X16FU.md) [https://www.youtube.com/watch?v=8HYOz7X16FU](https://www.youtube.com/watch?v=8HYOz7X16FU)
 

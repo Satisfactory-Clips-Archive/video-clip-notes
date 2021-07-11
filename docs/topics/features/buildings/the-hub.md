@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## July 6th, 2021 Livestream
+* [Q&A: Go implement HUB computer, I want to see graphs & statistics?](../../../transcriptions/yt-aA0KIR6AKC8.md) [https://www.youtube.com/watch?v=aA0KIR6AKC8](https://www.youtube.com/watch?v=aA0KIR6AKC8)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Will there be a proper use for the toilet in The HUB one day?](../../../transcriptions/yt-MW1lkjm7g3U.md) [https://www.youtube.com/watch?v=MW1lkjm7g3U](https://www.youtube.com/watch?v=MW1lkjm7g3U)
 * Q&A: Can you put "Snake" in The HUB? [https://www.youtube.com/watch?v=I92-EFlUd4U](https://www.youtube.com/watch?v=I92-EFlUd4U)
