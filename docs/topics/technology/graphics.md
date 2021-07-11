@@ -13,7 +13,6 @@ date: Last Modified
 * Q&A: How do Belts affect performance? [https://www.youtube.com/watch?v=0a2DgXuAy6I](https://www.youtube.com/watch?v=0a2DgXuAy6I)
 * [Q&A: Why does the game render items & Belts hidden behind walls even when they're not visible?](../../transcriptions/yt-uO1QT1SKsZA.md) [https://www.youtube.com/watch?v=uO1QT1SKsZA](https://www.youtube.com/watch?v=uO1QT1SKsZA)
 * [Snutt Talk: "Occlusion Culling" was the word I was looking for](../../transcriptions/yt-K5CKH3D4gkM.md) [https://www.youtube.com/watch?v=K5CKH3D4gkM](https://www.youtube.com/watch?v=K5CKH3D4gkM)
-* [Q&A: When will you stop updating the game for language translation and patch this broken map?](../../transcriptions/yt-umeicktBnxg.md) [https://www.youtube.com/watch?v=umeicktBnxg](https://www.youtube.com/watch?v=umeicktBnxg)
 
 ## June 29th, 2021 Livestream
 * [Community FYI: Alt-Tabbing the game causes my Nvidia driver to crash](../../transcriptions/yt-Zn4vb2QRykU.md) [https://www.youtube.com/watch?v=Zn4vb2QRykU](https://www.youtube.com/watch?v=Zn4vb2QRykU)

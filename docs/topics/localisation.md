@@ -28,6 +28,7 @@ date: Last Modified
 * Localization Community Highlight: Outro [https://www.youtube.com/watch?v=wqMveGY5x18](https://www.youtube.com/watch?v=wqMveGY5x18)
 * Snutt & Jace Talk: Translation community shout-out [https://www.youtube.com/watch?v=aRYlLtfuze0](https://www.youtube.com/watch?v=aRYlLtfuze0)
 * Q&A: Where do I join for Danish translation of the game? [https://www.youtube.com/watch?v=MC4-4YPmLjM](https://www.youtube.com/watch?v=MC4-4YPmLjM)
+* [Q&A: When will you stop updating the game for language translation and patch this broken map?](../transcriptions/yt-umeicktBnxg.md) [https://www.youtube.com/watch?v=umeicktBnxg](https://www.youtube.com/watch?v=umeicktBnxg)
 
 ## June 22nd, 2021 Livestream
 * [Q&A: When will Experimental come to EA?](../transcriptions/yt-O8PEBlRC4kU.md) [https://www.youtube.com/watch?v=O8PEBlRC4kU](https://www.youtube.com/watch?v=O8PEBlRC4kU)

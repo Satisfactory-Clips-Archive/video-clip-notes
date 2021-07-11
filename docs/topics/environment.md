@@ -14,6 +14,7 @@ date: Last Modified
 
 ## July 6th, 2021 Livestream
 * [Q&A: I really want to know who's responsible for the beautiful World design?](../transcriptions/yt-oR-6X_Lru8I.md) [https://www.youtube.com/watch?v=oR-6X_Lru8I](https://www.youtube.com/watch?v=oR-6X_Lru8I)
+* [Q&A: When will you stop updating the game for language translation and patch this broken map?](../transcriptions/yt-umeicktBnxg.md) [https://www.youtube.com/watch?v=umeicktBnxg](https://www.youtube.com/watch?v=umeicktBnxg)
 * [Q&A: Fix random floating Plants & rocks?](../transcriptions/yt-pEVKagBHXRA.md) [https://www.youtube.com/watch?v=pEVKagBHXRA](https://www.youtube.com/watch?v=pEVKagBHXRA)
 * [Q&A: Is there a way to collect a bin from the bottom of the sea?](../transcriptions/yt-mffqiLX6liU.md) [https://www.youtube.com/watch?v=mffqiLX6liU](https://www.youtube.com/watch?v=mffqiLX6liU)
 
