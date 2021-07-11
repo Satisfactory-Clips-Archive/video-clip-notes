@@ -1,34 +1,39 @@
 ---
-title: "July 23rd, 2020 - Jace Art: You guys want boats? I'll give you boats."
+title: "July 23rd, 2020 Video Jace Art: You guys want boats? I'll give you boats."
 date: "2020-07-23"
 layout: transcript
-topics: 
+topics:
     - "coffee-stainers/jace"
-    - "trolling"
     - "features/transportation/vehicles"
+    - "trolling"
 ---
-# [July 23rd, 2020 I made High Quality "Screenshots"™ of whatever you asked for](../2020-07-23.md)
+# [July 23rd, 2020 Video](../2020-07-23.md)
 ## Jace Art: You guys want boats? I'll give you boats.
 https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=60&end=95
+
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Trolling](../topics/trolling.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 
-> with twitter
-> we always start with twitter okay so
-> let's uh scroll down here
-> um i'm gonna try to find some that has a
-> lot of up votes
-> so this one here clean pick there's like
-> so many things um
-> i'll pick one here a boat you guys want
-> boats i'll give you boats let's make
-> this
-> in game and then make take a screenshot
-> alright
-> there you are
-> oh boats hang on a second
-> there you are
+> i get paid for this hey everyone my name is jason i'm a community manager coffee stain studios and today you know what we're on vacation everyone's on vacation or most people are or a lot of people are uh we're we're entering this period here in sweden which is like the vacation period where pretty much the entire sweden just shuts down and everyone goes on vacation that's gonna be happening now uh for the next few weeks i will not be going on vacation uh i will be here with you so i'm gonna be taking care of streams and videos and as such uh since not much is gonna be happening there won't be much news and so i'm gonna just do just some fun stuff with you guys for the next let's do fun stuff i tweeted out yesterday and put on facebook as well to give me some suggestions of features that you really are interested in having added to the game and i've done this before where i take those features and i either make them real quickly or maybe we already have them uh and i get some screenshots and take some really nice high quality screenshots of them and then i share it with you guys and you guys really like it so today i'm gonna do it on youtube instead so okay so let's look at we'll start with twitter we always start with twitter okay so let's uh scroll down here um i'm gonna try to find some that has a lot of up votes so this one here clean pick there's like so many things um i'll pick one here a boat you guys want boats i'll give you boats let's make this in game and then make take a screenshot alright there you are oh boats hang on a second there you are let's go to facebook all right so this one here has a 600 000 la lofts the ability to specify an inventory slot to be a specific item and a specific amount and then have a cute personal drone fetching it for you when you use set items so uh if you want to get one of those that is already implemented we just implemented it over on discord so frederick i hope that helps top fan here by the way marcus garcia or it would be cool if we could make uh coffee to go with our fix-it cup maybe we can purchase the beans and make it from the shop that's pretty cool okay so i i i think the way this will work is we need this to be more efficient right so like running to the shop and then like buying it from there and then like running back and you've got like a little machine and then like manually doing it like it's not good enough fix it it's not going to allow such a waste of time but fix it likes efficiency and they want you to do more stuff quicker so let's see here we've got the the awesome shop there's a conveyor belt on this side now on it you put your like little tickets your coupons so you have to you have to be able to automate these now so you do that it goes in here and then out here bam and then if i copy paste it there looks so many mugs not only do you get more coffee you get more mugs all right who's next let's go to twitter andrew keene wants jace and snoot statues all right give me a second
+>
+> [Music]
+>
+> [Laughter]
+>
+> oh yes
+>
+> [Music]
+>
+> yeah all right so if we're doing the statues we'll make them gold this is gold by the way actually i'm like so much shorter than snit so i'm gonna be like this and apparently i have a gigantic neck uh so the faces are the hard part there we are statues done this one i put a little bit more effort into getting the uh to get the faces right than i usually do it was worth it guys it was worth it i'd do a free anything for you guys okay so mezza asks for toilet paper in the loo okay doesn't it like do this i don't know i've never used the toilet before i usually just go in my pants just put them in the laundry afterwards you know all right so there's some toilet paper in the loop but there'd be no reason for it to be there unless there was like like a like a little fresh one yeah and we're top down so we can give it the old we're looking at it from the drone you know there we are we are zooming straight into the toilet paper there you are i think it looks good all right so brain dg wants user names in photo mode highly requested one total eclipse wants it to be disabled as they want yeah this makes sense let's get going all right this one took a little while but you know what we're there in the end as you can see i mean i don't need to explain what this is it's pretty obvious the folks on the right um are getting married they're in love and this person supposed to be holding a ring i couldn't draw the ring so i just made a cheeto instead it's cute brain is the photographer here taking a picture you can have it uh with usernames uh or you can toggle them off as well so it's it's up to you it's already functioning as it should so we've got uh ravi rez here from twitter um has a bunch of suggestions when folks suggest them all i can't do all of them of course so i'm gonna get some screenshots uh and in-game footage even of elevators apparently moves like this a little bit as well so ramurez also wanted a like dedicated doggo pen so we have that here so basically you just put the doggo in the blender and you turn it on and then it just sits in there you can leave it it won't leave anymore you have to make sure you shake it once in a while because it's like this like red down here it just gets stuck at the bottom so you have to like give it a little blend again or yeah anyway so we have the pen here all right so we got another one here from karasien karasiebin just coming in like a wrecking ball with lamps lights and flood lights okay so i alright y'all you want lights all right so let's do some lights okay all right so uh i got a little prototype here an interactable prototype actually this is nighttime people have told us that it's too dark and yeah we we know we know it's too dark so we're going to be doing something about it but we've been prototyping lights you know just so you can see more you can see what's coming all right so let's just turn the light on all right so let's just turn the light on uh here we are it's a doggo but it's a big evil one right this is why you blend them guys you blend them i'm telling you i'm warning you all right we gotta go right here from brandon who just started playing from a week ago so it doesn't know if it's in the game or not but there's if there's the ability to pack up the whole base and be able to settle somewhere else there is it's not in the game yet it'll be in the next update i'll show you a screenshot yeah so i got the screenshot ready to show you now it's not like a copy paste but you can sort of like pack it up and then move it and then like unload it so you have to do a bit of work yourself right so here it is you just gotta you have to order the ikea truck and it's really big because your factory can be really big but uh just to show you how big it is um this is the door where you get in right here this is the door so you have to like jump on the wheels to get up and then inside you have to walk and there's someone driving you can see and this is a lizard doggo for scale right so it's a very big truck hope you're looking forward to that one all right gonna do one more i'll take one more from facebook and this is a good one all right so fel anthony tan asks automation robot with which which is programmable for what it'll do hunt it could farm pick grasses and foods and berries i guess okay so i'll grab that screenshot right now
+>
+> [Music]
+>
+> okay so i dug up the uh the um the programmable automation robot thingy and i took some took a pretty nice screenshot of it so i'll bring it up now there it is i don't know what do you guys think this is uh you know it may go through some more changes in terms of design we're not really sure yet but it's looking pretty good to me it's pretty close to final as far as i know and it'll do you know a bunch of different things so that's uh all the things all the things that i have time for today uh you know there were a lot a lot of requests i hope you enjoyed the screenshots the uh demonstrations and the animations that i showed today i hope that this ties you over for a little bit more i know a lot of people want more information more information won't be coming anytime soon because people are on vacation i'm going to keep you posted when i if i find anything i'll tell you so anyway stream on tuesday uh usually 4 p.m cest twitch.tv coffee stand studios devs it's usually night there he's on vacation so i'm going to try and make this happen so hopefully i will see you then and i'll see you in another video next week have a lovely weekend everybody and i'll catch you next time bye
+>
+> [Music]
+>
+> you

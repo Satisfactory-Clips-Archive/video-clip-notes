@@ -17,4 +17,4 @@ date: Last Modified
 * Ben & Jace Talk: Mesh Imposters / LODing (Part 2) [https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1171&end=1213](https://youtube.com/embed/omjFqZQV9fI?autoplay=1&start=1171&end=1213)
 
 ## February 6th, 2019 Livestream
-* Q&A: How many LOD levels do you use? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3264&end=3269](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3264&end=3269)
+* [Q&A: How many LOD levels do you use?](../../../transcriptions/yt-Dtm6xIj-wM4,3264.910326,3268.219046.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3264&end=3269](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3264&end=3269)

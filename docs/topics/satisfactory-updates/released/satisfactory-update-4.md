@@ -221,7 +221,7 @@ date: Last Modified
 
 ## March 12th, 2021 Video
 * [Join us for the Update 4 launch stream](../../../transcriptions/yt-xLLyS6RvFm8,,65.43203333333334.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=0&end=66)
-* All of the Update 4 related things in a playlist [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83)
+* [All of the Update 4 related things in a playlist](../../../transcriptions/yt-xLLyS6RvFm8,65.43203333333334,82.253109.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=65&end=83)
 
 ## March 9th, 2021 Livestream
 * [State of Dev: Update 4 Release date trolling](../../../transcriptions/yt-9V_3E9_masw.md) [https://www.youtube.com/watch?v=9V_3E9_masw](https://www.youtube.com/watch?v=9V_3E9_masw)
@@ -646,11 +646,6 @@ date: Last Modified
 
 ## August 11th, 2020 Livestream
 * Q&A: Next Update? [https://clips.twitch.tv/CrunchyMistyAsparagus4Head](https://clips.twitch.tv/CrunchyMistyAsparagus4Head)
-
-## July 30th, 2020 Q&A
-* Q&A: When is Update 4 going to come out? [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=66&end=71](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=66&end=71)
-* Q&A: What's going to be in Update 4? [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=70&end=74](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=70&end=74)
-* [Q&A: Will Dedicated Servers be part of Update 4?](../../../transcriptions/yt-1dUNmBBbExs,88.2,101.20356.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=88&end=102](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=88&end=102)
 
 ## July 28th, 2020 Livestream
 * Q&A: update 4 will rethink power situation? [https://clips.twitch.tv/ProudRockyInternTooSpicy](https://clips.twitch.tv/ProudRockyInternTooSpicy)

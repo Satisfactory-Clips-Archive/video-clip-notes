@@ -1,41 +1,19 @@
 ---
-title: "January 20th, 2020 - Save Files in Update 3"
+title: "January 20th, 2020 Video Save Files in Update 3"
 date: "2020-01-20"
 layout: transcript
-topics: 
+topics:
     - "features/save-system"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
-# [January 20th, 2020 Coupon Shop, Release Info update & microtransactions are a lie. [CC]](../2020-01-20.md)
+# [January 20th, 2020 Video](../2020-01-20.md)
 ## Save Files in Update 3
 https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=247&end=301
+
 ### Topics
 * [Features > Save System](../topics/features/save-system.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript
 
-> worth mentioning is we mentioned it last
-> week on Twitter and on the social medias
-> but maybe you missed it is that
-> information about the save files going
-> from update to which is what we are now
-> in to update number three we previously
-> said that we didn't know if your saves
-> would be even loadable in update number
-> three
-> or if they were loadable your factory
-> would be broken and that you would have
-> to fix it however one thing that we are
-> very confident in now is that your save
-> files should be loadable if they are
-> loadable you are most likely going to
-> have to refactor your factory like if
-> you have hardly anything in your factory
-> maybe you don't need to refactor it but
-> if you've got a medium-sized to big
-> factory you are most likely going to
-> have to refactor your factory and fix it
-> all up but your sales will load shitload
-> if they don't please let us know and
-> back them up first we'll see if we can
+> I'm so funny and relatable I think he was depressed on the camera I'd be more relatable everyone my name is Jason the community met a community manager here at coffee stain studios today I'm gonna be given a bunch of information about some various things and I'm gonna try something new I'm gonna put the time stamps somewhere here so if you want to skip ahead to any specific topic you'll see the time stamps and you can just go ahead to that otherwise sit tight and let's let's go let's get on with it all right all right the first thing that I want to address is last week was a doozy we released a teaser trailer for a new feature in satisfactory that is going to be an update number three it is a shop and there isn't much else that was said about the shop and it was open for folks to speculate about what is this shop what can it be used for not only that but the shop was just check the location of the shop and this biome looked a little different as well so if you if you haven't seen that teaser trailer I will put it up here or here whichever side the cards are on and so you can check that out so I can give a little bit more information about the shop as well I can say that the shop will offer some cosmetic items also some non cosmetic items the shop will use coupons that you attain somehow in the game honestly I think that's pretty much about it but when you when you get the shop you could have a look in there and see what's what's interesting the thing that I want to address here is microtransactions a lot of people were concerned that there were microtransactions in the game because they saw a shop rest assured there are no microtransactions in satisfactory most people figured it wasn't migrated transactions but a significant number of people thought it was micro transactions in the shop you might be wondering why we didn't say anything about it why we didn't say that it wasn't micro transactions and it was quite simply because one it was kind of interesting to see and to again it was a teaser and we wanted to see people's reactions and let it simmer a little bit and then tell you what is oh I know some people might not like that because you're stressed about it or you know what annoyed you or you were concerned but here you are now you know no microtransactions old is good now the shop is one of many things okay it's it's not the biggest feature and it is certainly not the only feature in update number three this week we're gonna have another teaser trailer out for something else and it's gonna be the same kind of thing it's gonna be a teaser and we're not gonna give much more information and do want you guys to talk about it and speculate about what it'll be and eventually you're gonna find out what it is and more information about it another question that I've been getting a lot is information about the release date we haven't given much information for quite some time the reason is we don't have much information we previously said end of January or beginning of February later at the end of this week on Friday I'm going to give you the the best prediction that we have as for now what I can give you is that the release will not be the end of at the end of January it will be either in the beginning of February or if delayed it will be a matter of weeks one two weeks or something like that but it's not gonna be any longer than that so that's that on Friday I will give you more information well the other reason the reason I have to wait till Friday is because this week of development is actually really really important internally here so depending on how this week goes will affect the release date of update number three so that's why I'm gonna wait till Friday and give you more info fun little side note here is we're gonna start streaming more commonly or no wait more regularly is the word because now that we have snow helping out with community management snow is great at streaming and setting up streams we're gonna try and do streams every week every Tuesday and that means it's gonna be a stream tomorrow so you can stop by you can ask more questions we may play some games do some Q&amp;A just hang out and have a good time with you all so be sure to follow us on our twitch which is twitch.tv slash coffee stain studios devs I hope to see you there another thing that's probably worth mentioning is we mentioned it last week on Twitter and on the social medias but maybe you missed it is that information about the save files going from update to which is what we are now in to update number three we previously said that we didn't know if your saves would be even loadable in update number three or if they were loadable your factory would be broken and that you would have to fix it however one thing that we are very confident in now is that your save files should be loadable if they are loadable you are most likely going to have to refactor your factory like if you have hardly anything in your factory maybe you don't need to refactor it but if you've got a medium-sized to big factory you are most likely going to have to refactor your factory and fix it all up but your sales will load shitload if they don't please let us know and back them up first we'll see if we can make sure that it works for everybody okay so the next thing is something that we would love some help from you Oh for we would like to know what your most annoying bugs or features or issues are in satisfactory right now it's easy for us when working on update number three to just focus on update three and fix it and make it work and that's very good and that's important but it will it's easy for us to forget all the issues that we had before this so if you can tell us in the comments below what is the most annoying thing that that that you're running into please let us know so that we can consider going back and working on that a little bit instead because we need to catch up with some of those issues as well prefer it if you didn't talk about optimization or like network and multiplayer issues because yeah we know that and we are constantly optimizing so that is an ongoing thing we don't need you to say that but if you really want to if it'll make you feel better by all means say it and we'll see it and we're gonna work on it okay so that's that's all the information for today I hope that's gonna tie you over for a bit and just a recap tomorrow is a stream twitch.tv slash coffee stain studios devs on Thursday I think if not Thursday Friday there'll be another teaser trailer and there will also be a video with information on Friday about the release date so we've got a pretty big week ahead I hope this was useful if you liked it hit like if you want to subscribe you could do that too just do it just do whatever you want it's so awkward to say this stuff alright bye I am recording the thank you funny yeah

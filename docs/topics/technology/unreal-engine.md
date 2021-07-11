@@ -237,7 +237,7 @@ date: Last Modified
 * [Q&A: The game won't have any random world generation, is that because of limitations of the engine?](../../transcriptions/yt-NUXUlt4c26k.md) [https://www.youtube.com/watch?v=NUXUlt4c26k](https://www.youtube.com/watch?v=NUXUlt4c26k)
 
 ## February 20th, 2019 Livestream
-* Q&A: What is this? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=359&end=362](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=359&end=362)
+* [Q&A: What is this?](../../transcriptions/yt-CB9bSigNYH8,359.388323,361.317611.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=359&end=362](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=359&end=362)
 * [Q&A: What Engine?](../../transcriptions/yt-CB9bSigNYH8,692.002303,698.226859.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699)
 * [Q&A: Are graphics rendered in tiles?](../../transcriptions/yt-CB9bSigNYH8,1840.1333333333334,1854.301799.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1840&end=1855](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1840&end=1855)
 * [Q&A: Is there an undo button?](../../transcriptions/yt-CB9bSigNYH8,3786.18899,3821.273832.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3786&end=3822](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3786&end=3822)

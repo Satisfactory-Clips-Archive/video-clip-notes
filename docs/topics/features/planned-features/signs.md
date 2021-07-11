@@ -73,11 +73,11 @@ date: Last Modified
 * [Q&A: Why do big updates at all - why not just release everything in small bites?](../../../transcriptions/yt-qEiYxLhX3CM.md) [https://www.youtube.com/watch?v=qEiYxLhX3CM](https://www.youtube.com/watch?v=qEiYxLhX3CM)
 * [Q&A: Signs for Hypertube Entrances?](../../../transcriptions/yt-y3w-vPtVjog.md) [https://www.youtube.com/watch?v=y3w-vPtVjog](https://www.youtube.com/watch?v=y3w-vPtVjog)
 
+## July 30th, 2020 Mod Highlight
+* [Q&A: When are we getting Signs?](../../../transcriptions/yt-1dUNmBBbExs,1744.09797,1753.629628.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754)
+
 ## July 28th, 2020 Livestream
 * Q&A: Signs & Planets [https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo](https://clips.twitch.tv/ArtisticTrustworthyHamOSkomodo)
-
-## July 8th, 2020 Mod Highlight
-* [Q&A: When are we getting Signs?](../../../transcriptions/yt-1dUNmBBbExs,1744.09797,1753.629628.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754)
 
 ## June 8th, 2020 Livestream
 * [Q&A: What about Signs?](../../../transcriptions/yt-UGKquiGR0CY.md) [https://www.youtube.com/watch?v=UGKquiGR0CY](https://www.youtube.com/watch?v=UGKquiGR0CY)

@@ -1,20 +1,23 @@
 ---
-title: "April 17th, 2019 - Dancing coffee stainer"
+title: "April 17th, 2019 Video Dancing coffee stainer"
 date: "2019-04-17"
 layout: transcript
-topics: 
+topics:
     - "coffee-stainers/birk"
     - "trolling"
 ---
-# [April 17th, 2019 Patch procedure, vacation, etc](../2019-04-17.md)
+# [April 17th, 2019 Video](../2019-04-17.md)
 ## Dancing coffee stainer
 https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=96&end=112
+
 ### Topics
 * [Coffee Stainers > Birk](../topics/coffee-stainers/birk.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript
 
-> we do and if we group them all up into
-> one big content update patch then we
-> only have to test that one
+> now's your chance now a chance run everyone my name is Jace I'm a program in the community manager here at coffee stain studios and guess what I'm on vacation that's right I'm someone else needs to edit this video and put it out while I'm away I hope that that will be done before I get back what I want to tell you all about today are two different kinds of patches that we plan on doing the first kind is larger content updates they're you know they're bigger new things are released like trains for example then there are also smaller bug fix patches and those are for the smaller bugs that are kind of critical between the big content patches so that we can fix things so people can keep playing or whatever the bigger content update patches aren't always just reliant on the big feature that they will also include many many different like quality of life updates and stuff as well now those things may be ready earlier you know we may finish a quality-of-life update this week but we're not going to release it until the end of the month and the reason for that is we want to group as many things into one update as possible so even if we have part of the content for the big content update patch ready like for example a lot of smaller quality of life fixes we're still going to hold it off until the end of the month we don't want to keep updating every single week unless it's they're critical bugs that need fixing and the reason for that is because even putting in a small update a small quality of life update can introduce a large issue so what we want to do is we want to make sure that we spend enough time testing any fix that we do and if we group them all up into one big content update patch then we only have to test that one
+>
+> [Music]
+>
+> so that's kind of why we hold off for an entire month even if some parts of the content update patch already we don't want your to break the other kind of patch we're gonna be doing our bug fix patches they're gonna be small patches taking care of just critical issues and as I said before this is because every small thing that we introduced into the game risks destabilizing the game and so we only want to limit the fixes we do weekly to be four critical issues only but generally gonna be aiming to have these patches out on every Tuesday hopefully Tuesday TM and the reason for that is a little schedule plan thing that we've got going is will work until Thursdays to fix whatever we can and from there we branch it up put it up onto a test server so that our small test group contested over Thursday and Friday we come back to work on Mondays we fix whatever problems that they found and then we launch it to everyone in Tuesdays and then we continue the rest of the week fixing what we just broke again so long story short we're gonna have a big update at the end of April and May and perhaps we're gonna continue a monthly thing but we don't know and we're also gonna have small critical bug fixes every week on Tuesdays so you can all expect that and hopefully we can stick to that if anything changes we'll let you know so I hope you all found that information interesting just a reminder please leave any feedback bug reports questions suggestions on our website questions satisfactory game comm please put it there so that other people in the community can help you upload any bug reports that you may have and also so the dev team here can see what you're saying and don't send them to me don't send to my inbox because even when I'm here at work I can't really help you when you do that and also I'm on vacation now so I still kind of you do that so please please please use that website and I hope you have a lovely day and life I'll catch you whenever bye Oh nailed it

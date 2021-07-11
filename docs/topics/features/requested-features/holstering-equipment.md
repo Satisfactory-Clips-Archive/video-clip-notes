@@ -17,7 +17,7 @@ date: Last Modified
 ## February 26th, 2021 Videos
 * Q&A: Are there any plans for adding a holster button? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_adding_a_holster_button.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_adding_a_holster_button.mp4)
 
-## July 8th, 2020 Mod Highlight
+## July 30th, 2020 Mod Highlight
 * [Q&A: Does anyone know if there's a mod to holster weapon?](../../../transcriptions/yt-1dUNmBBbExs,1833.468476,1843.905544.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1833&end=1844](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1833&end=1844)
 
 ## May 15th, 2020 Q&A

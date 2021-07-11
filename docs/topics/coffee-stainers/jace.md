@@ -194,7 +194,7 @@ date: Last Modified
 * Snutt Talk: We do these streams every week [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15421&end=15450](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=15421&end=15450)
 
 ## March 12th, 2021 Video
-* Jace is going on an extended break [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100)
+* [Jace is going on an extended break](../../transcriptions/yt-xLLyS6RvFm8,82.253109,99.371802.md) [https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100](https://youtube.com/embed/xLLyS6RvFm8?autoplay=1&start=82&end=100)
 
 ## March 9th, 2021 Livestream
 * [Snutt & Jace Talk: Oreos](../../transcriptions/yt-2cWkWV6irT0.md) [https://www.youtube.com/watch?v=2cWkWV6irT0](https://www.youtube.com/watch?v=2cWkWV6irT0)
@@ -265,10 +265,10 @@ date: Last Modified
 * [Q&A: When will Coffee Stain get Jace a pizza oven?](../../transcriptions/yt-LRsn8Qz3fms.md) [https://www.youtube.com/watch?v=LRsn8Qz3fms](https://www.youtube.com/watch?v=LRsn8Qz3fms)
 
 ## December 17th, 2020 Q&A
-* Q&A: How are you? [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=201&end=204](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=201&end=204)
+* [Q&A: How are you?](../../transcriptions/yt--JXPsTlJIiI,201.23436666666666,203.1029.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=201&end=204](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=201&end=204)
 * [Q&A: How proud are you of the code you wrote and systems you helped make in Satisfactory?](../../transcriptions/yt--JXPsTlJIiI,379.5124666666667,450.7169333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=379&end=451](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=379&end=451)
 * [Q&A: What does a day in the life of a community manager Jace look like?](../../transcriptions/yt--JXPsTlJIiI,450.7169333333333,464.29716666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=450&end=465](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=450&end=465)
-* Q&A: Are you a woman trapped in a man's body? [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=728&end=736](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=728&end=736)
+* [Q&A: Are you a woman trapped in a man's body?](../../transcriptions/yt--JXPsTlJIiI,728.4610666666666,735.8351.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=728&end=736](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=728&end=736)
 * [Q&A: If you were a Satisfactory building, what building would you be?](../../transcriptions/yt--JXPsTlJIiI,764.764,791.4573333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=764&end=792](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=764&end=792)
 * [Q&A: Do you miss Australia](../../transcriptions/yt--JXPsTlJIiI,1005.5712333333333,1026.3920333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1005&end=1027](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1005&end=1027)
 * [Q&A: Do you enjoying working from home or are you looking forward to getting back in the office?](../../transcriptions/yt--JXPsTlJIiI,1036.5688666666667,1076.5421333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1036&end=1077](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1036&end=1077)
@@ -288,9 +288,9 @@ date: Last Modified
 * [Q&A: Who in Coffee Stain Studios is the best Factory Builder?](../../transcriptions/yt-ypN9OtMd7YU.md) [https://www.youtube.com/watch?v=ypN9OtMd7YU](https://www.youtube.com/watch?v=ypN9OtMd7YU)
 
 ## October 1st, 2020 Q&A
-* Q&A: How are you? [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=134&end=138](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=134&end=138)
-* Q&A: How many likes on this YouTube video for Jace to get fired? [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310)
-* Q&A: How's life? [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=695&end=697](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=695&end=697)
+* [Q&A: How are you?](../../transcriptions/yt-rATcozDE25c,134.26746666666668,137.0369.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=134&end=138](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=134&end=138)
+* [Q&A: How many likes on this YouTube video for Jace to get fired?](../../transcriptions/yt-rATcozDE25c,305.83886666666666,309.87623333333335.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310)
+* [Q&A: How's life?](../../transcriptions/yt-rATcozDE25c,695.2278666666667,696.7961.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=695&end=697](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=695&end=697)
 * [Q&A: What are the community managers' favourite dinosaurs?](../../transcriptions/yt-rATcozDE25c,823.1223,839.8723666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=823&end=840](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=823&end=840)
 * [Q&A: Will there be a Jace poster?](../../transcriptions/yt-rATcozDE25c,1119.4850333333334,1132.131.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=1119&end=1133](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=1119&end=1133)
 
@@ -301,6 +301,9 @@ date: Last Modified
 
 ## August 11th, 2020 Livestream
 * Q&A: New Apartment? [https://clips.twitch.tv/CorrectAdorableDinosaurWoofer](https://clips.twitch.tv/CorrectAdorableDinosaurWoofer)
+
+## July 30th, 2020 Mod Highlight
+* [Q&A: What is your favourite Mod?](../../transcriptions/yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
 
 ## July 23rd, 2020 Video
 * [Jace Talk: JaceArt](../../transcriptions/yt-JOBcS413hwY,27.660966666666667,60.427033333333334.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=27&end=61](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=27&end=61)
@@ -315,9 +318,6 @@ date: Last Modified
 * [Jace Art: Packing up the base](../../transcriptions/yt-JOBcS413hwY,441.40763333333337,489.3221666666667.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=441&end=490](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=441&end=490)
 * [Jace Art: Programmable Automation Robot](../../transcriptions/yt-JOBcS413hwY,489.3221666666667,533.2660666666667.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=489&end=534](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=489&end=534)
 
-## July 8th, 2020 Mod Highlight
-* [Q&A: What is your favourite Mod?](../../transcriptions/yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
-
 ## June 8th, 2020 Livestream
 * [Q&A: Where is Jace and why has he been replaced with a large child?](../../transcriptions/yt-ftJxvHWUROQ.md) [https://www.youtube.com/watch?v=ftJxvHWUROQ](https://www.youtube.com/watch?v=ftJxvHWUROQ)
 
@@ -325,7 +325,7 @@ date: Last Modified
 * [Q&A: What about Tier 8?](../../transcriptions/yt-lQC68q7s21c.md) [https://www.youtube.com/watch?v=lQC68q7s21c](https://www.youtube.com/watch?v=lQC68q7s21c)
 
 ## May 15th, 2020 Q&A
-* Q&A: Didn't you quit? [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=994&end=996](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=994&end=996)
+* [Q&A: Didn't you quit?](../../transcriptions/yt-NlIVwoRqjVk,994.1932,995.8949.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=994&end=996](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=994&end=996)
 
 ## April 2nd, 2020 Q&A
 * [Jace Talk: Let's Gay It Out](../../transcriptions/yt-BmKMv6SZJ5M,254.96,319.04.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320)
@@ -335,7 +335,7 @@ date: Last Modified
 * Q&A: When are the Wind Turbines that Jace leaked coming? [https://www.youtube.com/watch?v=nRMTYlLqiSc](https://www.youtube.com/watch?v=nRMTYlLqiSc)
 
 ## March 12th, 2020 Patch Notes
-* Snutt & Jace Talk: Jace climbs into an airplane engine [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=118&end=124](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=118&end=124)
+* [Snutt & Jace Talk: Jace climbs into an airplane engine](../../transcriptions/yt-DsbHR1Nc8fw,118.57679166666667,123.28983333333332.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=118&end=124](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=118&end=124)
 * [Jace Talk: We're sleeping in a plane, but we won't be adding planes](../../transcriptions/yt-DsbHR1Nc8fw,123.28983333333332,155.44695833333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156)
 * [Jace Talk: Searching for pipes in Geneva](../../transcriptions/yt-DsbHR1Nc8fw,254.54595833333332,274.02375.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275)
 * [Jace Talk: Dedicated Servers](../../transcriptions/yt-DsbHR1Nc8fw,348.88025,385.25987499999997.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=348&end=386](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=348&end=386)
@@ -361,31 +361,31 @@ date: Last Modified
 * [Q&A: What is the job of Community Managers?](../../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
 
 ## December 19th, 2019 Video
-* April Update Info + Milo tutorial (April 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25)
-* Q&A: Early Access info, localisation, save files + more (March 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=24&end=26](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=24&end=26)
-* Coffee Stain are hiring a Community Manager! [BTS] (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=25&end=35](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=25&end=35)
-* EPIC amount of Alpha Keys - Simon Saga Ep. 7 (December 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49)
+* [April Update Info + Milo tutorial (April 2019)](../../transcriptions/yt-52nYaN8imgo,21.58,24.46.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25)
+* [Q&A: Early Access info, localisation, save files + more (March 2019)](../../transcriptions/yt-52nYaN8imgo,24.46,25.22.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=24&end=26](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=24&end=26)
+* [Coffee Stain are hiring a Community Manager! [BTS] (November 2018)](../../transcriptions/yt-52nYaN8imgo,25.22,34.16.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=25&end=35](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=25&end=35)
+* [EPIC amount of Alpha Keys - Simon Saga Ep. 7 (December 2018)](../../transcriptions/yt-52nYaN8imgo,45.26,48.86.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49)
 * [End of April™ Update (May 2019)](../../transcriptions/yt-52nYaN8imgo,48.86,58.54.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=48&end=59](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=48&end=59)
-* Alpha Keys! - Simon Saga Ep. 11 [BTS] (January 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76)
-* Alpha Keys - Simon Saga Ep. 12 (February 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93)
-* Even MORE keys! - Simon Saga Ep. 4 (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=106&end=110](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=106&end=110)
-* Simon Saga Finale (March 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127)
-* Bonus Experimental Bugfix patch (December 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=127&end=129](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=127&end=129)
+* [Alpha Keys! - Simon Saga Ep. 11 [BTS] (January 2019)](../../transcriptions/yt-52nYaN8imgo,68.82,75.48.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76)
+* [Alpha Keys - Simon Saga Ep. 12 (February 2019)](../../transcriptions/yt-52nYaN8imgo,88.42,92.16.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93)
+* [Even MORE keys! - Simon Saga Ep. 4 (November 2018)](../../transcriptions/yt-52nYaN8imgo,106.12,109.4.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=106&end=110](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=106&end=110)
+* [Simon Saga Finale (March 2019)](../../transcriptions/yt-52nYaN8imgo,116.48,126.04.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127)
+* [Bonus Experimental Bugfix patch (December 2019)](../../transcriptions/yt-52nYaN8imgo,127.62,128.34.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=127&end=129](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=127&end=129)
 * [Studio Tour of Coffee Stain Studios (June 2019)](../../transcriptions/yt-52nYaN8imgo,128.34,134.06.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=128&end=135](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=128&end=135)
-* Alpha Release Date, Selection Process + more (October 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=134&end=140](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=134&end=140)
+* [Alpha Release Date, Selection Process + more (October 2018)](../../transcriptions/yt-52nYaN8imgo,134.06,139.12.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=134&end=140](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=134&end=140)
 * [Developer Highlights - Helping Jace with programming](../../transcriptions/yt-52nYaN8imgo,152.94,169.54.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170)
 * [Update #2: Trains & Nuclear (July 2019)](../../transcriptions/yt-52nYaN8imgo,173.56,190.88.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=173&end=191](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=173&end=191)
-* Developer Highlights - Who's your favourite person in the office? [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195)
-* Snutt's Little Baby [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202)
+* [Developer Highlights - Who's your favourite person in the office?](../../transcriptions/yt-52nYaN8imgo,190.88,194.28.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195)
+* [Snutt's Little Baby](../../transcriptions/yt-52nYaN8imgo,194.28,201.34.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202)
 * [Q&A: Satisfactory exclusive to Epic Games Store (December 2018)](../../transcriptions/yt-52nYaN8imgo,201.34,216.1.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=201&end=217](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=201&end=217)
-* Dev Blog #2: Conveyor Belts/Basic Production Gameplay + Alpha Key info! (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=216&end=221](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=216&end=221)
-* On the first day of Jacemas... [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=232&end=238](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=232&end=238)
-* Studio Tour of Coffee Stain Studios (June 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=237&end=241](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=237&end=241)
-* Studio Tour of Coffee Stain Studios [BTS] (June 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=240&end=246](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=240&end=246)
-* Jace thinking about pipes for 1 hour [livestream] [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=245&end=251](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=245&end=251)
+* [Dev Blog #2: Conveyor Belts/Basic Production Gameplay + Alpha Key info! (November 2018)](../../transcriptions/yt-52nYaN8imgo,216.1,220.56.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=216&end=221](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=216&end=221)
+* [On the first day of Jacemas...](../../transcriptions/yt-52nYaN8imgo,232.76,237.16.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=232&end=238](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=232&end=238)
+* [Studio Tour of Coffee Stain Studios (June 2019)](../../transcriptions/yt-52nYaN8imgo,237.16,240.56.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=237&end=241](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=237&end=241)
+* [Studio Tour of Coffee Stain Studios [BTS] (June 2019)](../../transcriptions/yt-52nYaN8imgo,240.56,245.24.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=240&end=246](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=240&end=246)
+* [Jace thinking about pipes for 1 hour [livestream]](../../transcriptions/yt-52nYaN8imgo,245.24,250.1.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=245&end=251](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=245&end=251)
 * [Simon Saga Finale [BTS] (May 2019)](../../transcriptions/yt-52nYaN8imgo,250.1,284.4.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=250&end=285](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=250&end=285)
-* Q&A: Satisfactory exclusive to Epic Games Store (December 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=284&end=288](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=284&end=288)
-* Studio Tour of Coffee Stain Studios [BTS] (June 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=359&end=366](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=359&end=366)
+* [Q&A: Satisfactory exclusive to Epic Games Store (December 2018)](../../transcriptions/yt-52nYaN8imgo,284.4,287.44.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=284&end=288](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=284&end=288)
+* [Studio Tour of Coffee Stain Studios [BTS] (June 2019)](../../transcriptions/yt-52nYaN8imgo,359.58,365.44.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=359&end=366](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=359&end=366)
 
 ## December 13th, 2019 Video
 * [Snutt Talk: I'm not replacing Jace](../../transcriptions/yt-N1o3tK1h8cM,27.8,61.72.md) [https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=27&end=62](https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=27&end=62)
@@ -404,13 +404,13 @@ date: Last Modified
 * [Jace Talk: Early Tutorial](../../transcriptions/yt-FYLxMnDCuNw.md) [https://www.youtube.com/watch?v=FYLxMnDCuNw](https://www.youtube.com/watch?v=FYLxMnDCuNw)
 
 ## February 20th, 2019 Livestream
-* Q&A: Will enemies have Jace's hair? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
-* Q&A: This fountain has Jace's hair? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239)
+* [Q&A: Will enemies have Jace's hair?](../../transcriptions/yt-CB9bSigNYH8,3208.601002,3215.171287.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
+* [Q&A: This fountain has Jace's hair?](../../transcriptions/yt-CB9bSigNYH8,3232.115343,3238.673381.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239)
 * [Q&A: What are the red dome things?](../../transcriptions/yt-CB9bSigNYH8,5109.490199,5126.785633.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5109&end=5127](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5109&end=5127)
 
 ## February 6th, 2019 Livestream
-* Q&A: What is wrong with your face? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=271&end=279](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=271&end=279)
-* Q&A: Why is Jace the PR? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=371&end=379](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=371&end=379)
+* [Q&A: What is wrong with your face?](../../transcriptions/yt-Dtm6xIj-wM4,271.997687,278.693237.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=271&end=279](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=271&end=279)
+* [Q&A: Why is Jace the PR?](../../transcriptions/yt-Dtm6xIj-wM4,371.76666666666665,378.135744.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=371&end=379](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=371&end=379)
 * [Q&A: Jace & Hannah, do you go clothes shopping in the same place?](../../transcriptions/yt-Dtm6xIj-wM4,408.559369,418.865174.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=408&end=419](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=408&end=419)
 * [Q&A: Developer diaries?](../../transcriptions/yt-Dtm6xIj-wM4,1872.81796,1925.453116.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1872&end=1926)
 * [Q&A: Jace - give me your socks?](../../transcriptions/yt-Dtm6xIj-wM4,2244.4666666666667,2262.349854.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2244&end=2263](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2244&end=2263)

@@ -43,7 +43,7 @@ date: Last Modified
 * [Q&A: When are these Work In Progress (WIP) items going to be used?](../../../transcriptions/yt-bmRdzV3-wJI.md) [https://www.youtube.com/watch?v=bmRdzV3-wJI](https://www.youtube.com/watch?v=bmRdzV3-wJI)
 
 ## October 1st, 2020 Q&A
-* Q&A: What is the story with the Mercer Sphere? [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436)
+* [Q&A: What is the story with the Mercer Sphere?](../../../transcriptions/yt-rATcozDE25c,429.5291,435.5351.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436)
 
 ## September 29th, 2020 Livestream
 * [Snutt Talk: WIP (Work In Progress) Items](../../../transcriptions/yt-ItHlbfIkVl4.md) [https://www.youtube.com/watch?v=ItHlbfIkVl4](https://www.youtube.com/watch?v=ItHlbfIkVl4)
@@ -61,4 +61,4 @@ date: Last Modified
 * [Q&A: Will Mercer Spheres and Somersloops be useful soon?](../../../transcriptions/yt-SYWPIjbe_4Y.md) [https://www.youtube.com/watch?v=SYWPIjbe_4Y](https://www.youtube.com/watch?v=SYWPIjbe_4Y)
 
 ## February 20th, 2019 Livestream
-* Q&A: What's the glowing ball? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=385&end=394](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=385&end=394)
+* [Q&A: What's the glowing ball?](../../../transcriptions/yt-CB9bSigNYH8,385.6666666666667,393.696476.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=385&end=394](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=385&end=394)

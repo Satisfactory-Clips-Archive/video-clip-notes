@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=rlBA0k1-sWs
 
 * [March 9th, 2019 Livestream Q&A: Can we have an alternate arachnophobia mode with Simon's face?](./yt-3h2P4TfAAwE.md) [https://www.youtube.com/watch?v=3h2P4TfAAwE](https://www.youtube.com/watch?v=3h2P4TfAAwE)
 * [August 1st, 2018 Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](./yt-iFAy1NZUOGU,208.96,227.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228)
-* August 1st, 2018 Q&A: Can we change the sprite ourselves? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
+* [August 1st, 2018 Q&A: Can we change the sprite ourselves?](./yt-iFAy1NZUOGU,227.8,231.6.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
 </details>
 
 

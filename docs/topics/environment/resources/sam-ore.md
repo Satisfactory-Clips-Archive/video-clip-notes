@@ -41,7 +41,7 @@ date: Last Modified
 * [Q&A: What's happening with S.A.M. Ore?](../../../transcriptions/yt-f0Z9VIAK5Iw.md) [https://www.youtube.com/watch?v=f0Z9VIAK5Iw](https://www.youtube.com/watch?v=f0Z9VIAK5Iw)
 
 ## December 17th, 2020 Q&A
-* Q&A: Will S.A.M. Ore ever be useful? [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079)
+* [Q&A: Will S.A.M. Ore ever be useful?](../../../transcriptions/yt--JXPsTlJIiI,1076.5421333333334,1078.9779.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079)
 
 ## November 17th, 2020 Livestream
 * [Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](../../../transcriptions/yt-ccmgnLh1oO0.md) [https://www.youtube.com/watch?v=ccmgnLh1oO0](https://www.youtube.com/watch?v=ccmgnLh1oO0)

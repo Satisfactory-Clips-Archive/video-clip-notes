@@ -77,16 +77,16 @@ date: Last Modified
 * [Q&A: What happened to the keys?](../../transcriptions/yt-Xv-yl9jnC4s.md) [https://www.youtube.com/watch?v=Xv-yl9jnC4s](https://www.youtube.com/watch?v=Xv-yl9jnC4s)
 
 ## December 19th, 2019 Video
-* EPIC amount of Alpha Keys - Simon Saga Ep. 7 (December 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49)
-* More Alpha Keys - Simon Saga Ep. 3 [BTS] (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=66&end=69](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=66&end=69)
-* Alpha Keys! - Simon Saga Ep. 11 [BTS] (January 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76)
+* [EPIC amount of Alpha Keys - Simon Saga Ep. 7 (December 2018)](../../transcriptions/yt-52nYaN8imgo,45.26,48.86.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49)
+* [More Alpha Keys - Simon Saga Ep. 3 [BTS] (November 2018)](../../transcriptions/yt-52nYaN8imgo,66.84,68.82.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=66&end=69](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=66&end=69)
+* [Alpha Keys! - Simon Saga Ep. 11 [BTS] (January 2019)](../../transcriptions/yt-52nYaN8imgo,68.82,75.48.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76)
 * [500 Alpha Keys Sent Out! - Simon Saga Ep. 2 [BTS] (October 2018)](../../transcriptions/yt-52nYaN8imgo,80.4,88.42.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=80&end=89](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=80&end=89)
-* Alpha Keys - Simon Saga Ep. 12 (February 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93)
-* Simon Saga Finale (March 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127)
-* Even MORE keys! - Simon Saga Ep. 4 [BTS] (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=126&end=128](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=126&end=128)
+* [Alpha Keys - Simon Saga Ep. 12 (February 2019)](../../transcriptions/yt-52nYaN8imgo,88.42,92.16.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93)
+* [Simon Saga Finale (March 2019)](../../transcriptions/yt-52nYaN8imgo,116.48,126.04.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127)
+* [Even MORE keys! - Simon Saga Ep. 4 [BTS] (November 2018)](../../transcriptions/yt-52nYaN8imgo,126.04,127.62.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=126&end=128](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=126&end=128)
 * [Developer Highlight - Music/ Developer Highlight - Sound Design [BTS] (September 2018)](../../transcriptions/yt-52nYaN8imgo,220.56,232.76.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=220&end=233](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=220&end=233)
 * [Simon Saga Finale [BTS] (May 2019)](../../transcriptions/yt-52nYaN8imgo,250.1,284.4.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=250&end=285](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=250&end=285)
-* Alpha keys - Simon Saga Ep. 8 [BTS] (December 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=287&end=293](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=287&end=293)
+* [Alpha keys - Simon Saga Ep. 8 [BTS] (December 2018)](../../transcriptions/yt-52nYaN8imgo,287.44,292.66.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=287&end=293](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=287&end=293)
 * [Simon Saga Finale [BTS] (May 2019)](../../transcriptions/yt-52nYaN8imgo,332.44,343.44.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=332&end=344](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=332&end=344)
 
 ## March 9th, 2019 Livestream
@@ -99,16 +99,16 @@ date: Last Modified
 
 ## February 20th, 2019 Livestream
 * [Hannah Talk: Try not to anger Simon too much](../../transcriptions/yt-CB9bSigNYH8,627.22452,643.534867.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=627&end=644](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=627&end=644)
-* Hannah Talk: Please don't reward Simon for scaring me [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1062&end=1072](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1062&end=1072)
+* [Hannah Talk: Please don't reward Simon for scaring me](../../transcriptions/yt-CB9bSigNYH8,1062.901046,1071.158032.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1062&end=1072](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1062&end=1072)
 * [Q&A: What does Simon do?](../../transcriptions/yt-CB9bSigNYH8,1190.626477,1203.37129.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1190&end=1204](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1190&end=1204)
-* Q&A: Does Simon work in the basement in a cage? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3241&end=3248](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3241&end=3248)
+* [Q&A: Does Simon work in the basement in a cage?](../../transcriptions/yt-CB9bSigNYH8,3241.081332,3247.056294.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3241&end=3248](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3241&end=3248)
 * [Simon says: Can I go to the bathroom?](../../transcriptions/yt-CB9bSigNYH8,5017.8,5049.442939.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5017&end=5050](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5017&end=5050)
 * [Q&A: What are the red dome things?](../../transcriptions/yt-CB9bSigNYH8,5109.490199,5126.785633.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5109&end=5127](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5109&end=5127)
 
 ## February 6th, 2019 Livestream
 * [Q&A: Is there an end-game/goal?](../../transcriptions/yt-Dtm6xIj-wM4,912.113976,952.667535.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=912&end=953](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=912&end=953)
 * [Q&A: Plushies when & what's the story behind #blamesimon ?](../../transcriptions/yt-Dtm6xIj-wM4,1062.151666,1073.371446.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1062&end=1074](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1062&end=1074)
-* Q&A: Is Simon going to be the last Boss? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018)
+* [Q&A: Is Simon going to be the last Boss?](../../transcriptions/yt-Dtm6xIj-wM4,2009.5,2017.005329.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018)
 * [Q&A: Who is the funniest at the stand-ups?](../../transcriptions/yt-Dtm6xIj-wM4,2733.4333333333334,2765.667433.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766)
 * [Q&A: Can you do a mass-key release of 50000 if Lord Simon allows it?](../../transcriptions/yt-Dtm6xIj-wM4,3333.678121,3433.002272.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3333&end=3434](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3333&end=3434)
 * [Q&A: Where is Simon?](../../transcriptions/yt-Dtm6xIj-wM4,3518.277144,3545.070455.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3518&end=3546](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3518&end=3546)

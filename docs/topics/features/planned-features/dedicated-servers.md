@@ -207,10 +207,6 @@ date: Last Modified
 * Jace Talk: Massive Bases, Multiplayer lag, and Dedicated Servers [https://clips.twitch.tv/RealPrettiestKoalaBloodTrail](https://clips.twitch.tv/RealPrettiestKoalaBloodTrail)
 * Q&A: What's the hold-up on Dedicated Servers? [https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride](https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride)
 
-## July 30th, 2020 Q&A
-* [Q&A: Dedicated Servers when?](../../../transcriptions/yt-1dUNmBBbExs,73.73333333333333,88.2.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89)
-* [Q&A: Will Dedicated Servers be part of Update 4?](../../../transcriptions/yt-1dUNmBBbExs,88.2,101.20356.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=88&end=102](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=88&end=102)
-
 ## July 28th, 2020 Livestream
 * Q&A: Dedicated Server cost [https://clips.twitch.tv/ConfidentLittleSnood4Head](https://clips.twitch.tv/ConfidentLittleSnood4Head)
 

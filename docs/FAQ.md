@@ -188,8 +188,8 @@ date: Last Modified
 * [September 8th, 2020 Livestream Q&A: Do we intend to add rain/storms ?](./transcriptions/yt-3WDeVbpr30g.md) [https://www.youtube.com/watch?v=3WDeVbpr30g](https://www.youtube.com/watch?v=3WDeVbpr30g)
 * August 11th, 2020 Livestream Q&A: What about Weather systems? [https://clips.twitch.tv/SilkyFurryCheetahMVGame](https://clips.twitch.tv/SilkyFurryCheetahMVGame)
 * [May 15th, 2020 Q&A: Will there be weather changes?](./transcriptions/yt-NlIVwoRqjVk,374.5742,397.43036666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398)
-* February 20th, 2019 Livestream Q&A: Weather confirmed? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
-* August 1st, 2018 Q&A: Is there Weather in the game? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
+* [February 20th, 2019 Livestream Q&A: Weather confirmed?](./transcriptions/yt-CB9bSigNYH8,5234.485233,5238.267007.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
+* [August 1st, 2018 Q&A: Is there Weather in the game?](./transcriptions/yt-iFAy1NZUOGU,58.6,60.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
 </details>
 
 ### [Q&A: When's the mug coming?](./transcriptions/yt-PSnl87wl_Os.md) [https://www.youtube.com/watch?v=PSnl87wl_Os](https://www.youtube.com/watch?v=PSnl87wl_Os)
@@ -251,7 +251,7 @@ date: Last Modified
 * [May 15th, 2020 Q&A: Do you have a general idea of how, the team as a whole, want the game to be for 1.0?](./transcriptions/yt-NlIVwoRqjVk,226.3261,288.288.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=226&end=289](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=226&end=289)
 * [May 15th, 2020 Q&A: Do you have any rough expectation of when the full release of the game will be?](./transcriptions/yt-NlIVwoRqjVk,995.8949,1008.3073.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=995&end=1009](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=995&end=1009)
 * [March 9th, 2019 Livestream Q&A: When is the official release?](./transcriptions/yt-H0HcDZTv_ts.md) [https://www.youtube.com/watch?v=H0HcDZTv_ts](https://www.youtube.com/watch?v=H0HcDZTv_ts)
-* February 20th, 2019 Livestream Q&A: Release date? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257)
+* [February 20th, 2019 Livestream Q&A: Release date?](./transcriptions/yt-CB9bSigNYH8,4250.630211,4256.657128.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257)
 * [February 6th, 2019 Livestream Q&A: Any timeline on when the end game will be released?](./transcriptions/yt-Dtm6xIj-wM4,3487.8333333333335,3508.867162.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509)
 </details>
 
@@ -330,7 +330,7 @@ date: Last Modified
 * [March 30th, 2021 Livestream Q&A: Will we ever use S.A.M. Ore?](./transcriptions/yt-SqyfGfz3APc.md) [https://www.youtube.com/watch?v=SqyfGfz3APc](https://www.youtube.com/watch?v=SqyfGfz3APc)
 * [February 23rd, 2021 Livestream Q&A: S.A.M. Ore getting a main use any time soon?](./transcriptions/yt-ow33F_nK6nc.md) [https://www.youtube.com/watch?v=ow33F_nK6nc](https://www.youtube.com/watch?v=ow33F_nK6nc)
 * [January 12th, 2021 Livestream Q&A: What's happening with S.A.M. Ore?](./transcriptions/yt-f0Z9VIAK5Iw.md) [https://www.youtube.com/watch?v=f0Z9VIAK5Iw](https://www.youtube.com/watch?v=f0Z9VIAK5Iw)
-* December 17th, 2020 Q&A: Will S.A.M. Ore ever be useful? [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079)
+* [December 17th, 2020 Q&A: Will S.A.M. Ore ever be useful?](./transcriptions/yt--JXPsTlJIiI,1076.5421333333334,1078.9779.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079)
 * [October 20th, 2020 Livestream Q&A: What's the secret behind S.A.M. Ore?](./transcriptions/yt-tXqk1eu0-BQ.md) [https://www.youtube.com/watch?v=tXqk1eu0-BQ](https://www.youtube.com/watch?v=tXqk1eu0-BQ)
 * [September 29th, 2020 Livestream Q&A: How much S.A.M. Ore should we stock up on?](./transcriptions/yt-vBGfC7j2AyI.md) [https://www.youtube.com/watch?v=vBGfC7j2AyI](https://www.youtube.com/watch?v=vBGfC7j2AyI)
 * [August 25th, 2020 Livestream Q&A: Please tell me Update 4 will use S.A.M. Ore](./transcriptions/yt--b2L_nlW_Fo.md) [https://www.youtube.com/watch?v=-b2L_nlW_Fo](https://www.youtube.com/watch?v=-b2L_nlW_Fo)
@@ -691,7 +691,7 @@ date: Last Modified
 * [November 3rd, 2020 Livestream Q&A: VR Support?](./transcriptions/yt-eJz8dJImPfQ.md) [https://www.youtube.com/watch?v=eJz8dJImPfQ](https://www.youtube.com/watch?v=eJz8dJImPfQ)
 * [September 8th, 2020 Livestream Q&A: Ever consider making a VR version of Satisfactory?](./transcriptions/yt-3s-PKymQ9QU.md) [https://www.youtube.com/watch?v=3s-PKymQ9QU](https://www.youtube.com/watch?v=3s-PKymQ9QU)
 * [February 6th, 2019 Livestream Q&A: Will there be VR support?](./transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
-* August 1st, 2018 Q&A: What about VR support? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
+* [August 1st, 2018 Q&A: What about VR support?](./transcriptions/yt-iFAy1NZUOGU,66.08,68.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
 </details>
 
 ### [Q&A: After the game fully releases will there be any Updates that add game-altering factory design?](./transcriptions/yt-oVm-OJKlrZM.md) [https://www.youtube.com/watch?v=oVm-OJKlrZM](https://www.youtube.com/watch?v=oVm-OJKlrZM)
@@ -771,7 +771,7 @@ date: Last Modified
 * [November 3rd, 2020 Livestream Q&A: When do Signs come?](./transcriptions/yt-5PwIEaLRDRY.md) [https://www.youtube.com/watch?v=5PwIEaLRDRY](https://www.youtube.com/watch?v=5PwIEaLRDRY)
 * [September 29th, 2020 Livestream Q&A: Can we get Signs in the game?](./transcriptions/yt-P1hgqMJ8MW0.md) [https://www.youtube.com/watch?v=P1hgqMJ8MW0](https://www.youtube.com/watch?v=P1hgqMJ8MW0)
 * [August 25th, 2020 Livestream Q&A: Signs for Hypertube Entrances?](./transcriptions/yt-y3w-vPtVjog.md) [https://www.youtube.com/watch?v=y3w-vPtVjog](https://www.youtube.com/watch?v=y3w-vPtVjog)
-* [July 8th, 2020 Mod Highlight Q&A: When are we getting Signs?](./transcriptions/yt-1dUNmBBbExs,1744.09797,1753.629628.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754)
+* [July 30th, 2020 Mod Highlight Q&A: When are we getting Signs?](./transcriptions/yt-1dUNmBBbExs,1744.09797,1753.629628.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754)
 * [June 8th, 2020 Livestream Q&A: What about Signs?](./transcriptions/yt-UGKquiGR0CY.md) [https://www.youtube.com/watch?v=UGKquiGR0CY](https://www.youtube.com/watch?v=UGKquiGR0CY)
 </details>
 
@@ -788,7 +788,7 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 51 other times, as recently as June 2021 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 50 other times, as recently as June 2021 and as early as February 2019.</summary>
 
 * [June 1st, 2021 Livestream Q&A: Updates on Dedicated Servers?](./transcriptions/yt-JGj3aITwDg8.md) [https://www.youtube.com/watch?v=JGj3aITwDg8](https://www.youtube.com/watch?v=JGj3aITwDg8)
 * [May 11th, 2021 Livestream Q&A: Update on Dedicated Servers please?](./transcriptions/yt-98O8FhNdxAI.md) [https://www.youtube.com/watch?v=98O8FhNdxAI](https://www.youtube.com/watch?v=98O8FhNdxAI)
@@ -833,7 +833,6 @@ date: Last Modified
 * August 11th, 2020 Livestream Q&A: Are Dedicated Servers coming? [https://clips.twitch.tv/BigDeadPhoneKappaWealth](https://clips.twitch.tv/BigDeadPhoneKappaWealth)
 * August 11th, 2020 Livestream Q&A: Dedicated Servers, start building a community around that? [https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow](https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow)
 * August 11th, 2020 Livestream Q&A: What's the hold-up on Dedicated Servers? [https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride](https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride)
-* [July 30th, 2020 Q&A: Dedicated Servers when?](./transcriptions/yt-1dUNmBBbExs,73.73333333333333,88.2.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89)
 * [June 8th, 2020 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-XuFfkTTZnoA.md) [https://www.youtube.com/watch?v=XuFfkTTZnoA](https://www.youtube.com/watch?v=XuFfkTTZnoA)
 * [May 15th, 2020 Q&A: Would Dedicated Servers break the game?](./transcriptions/yt-NlIVwoRqjVk,70.83743333333334,142.50903333333335.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=70&end=143](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=70&end=143)
 * [February 11th, 2020 Livestream Q&A: Any news on Dedicated Servers?](./transcriptions/yt-pUhzc1Fd8sg.md) [https://www.youtube.com/watch?v=pUhzc1Fd8sg](https://www.youtube.com/watch?v=pUhzc1Fd8sg)
@@ -1160,7 +1159,7 @@ date: Last Modified
 
 * [April 20th, 2021 Livestream Q&A: Do you have a favourite Mod?](./transcriptions/yt-URunN9abrss.md) [https://www.youtube.com/watch?v=URunN9abrss](https://www.youtube.com/watch?v=URunN9abrss)
 * [January 12th, 2021 Livestream Q&A: What is your favourite Mod?](./transcriptions/yt-9tdYBCwd5no.md) [https://www.youtube.com/watch?v=9tdYBCwd5no](https://www.youtube.com/watch?v=9tdYBCwd5no)
-* [July 8th, 2020 Mod Highlight Q&A: What is your favourite Mod?](./transcriptions/yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
+* [July 30th, 2020 Mod Highlight Q&A: What is your favourite Mod?](./transcriptions/yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
 </details>
 
 ### [Q&A: Please, teleporters?](./transcriptions/yt-dNPT8HQ3qRk.md) [https://www.youtube.com/watch?v=dNPT8HQ3qRk](https://www.youtube.com/watch?v=dNPT8HQ3qRk)
@@ -1507,7 +1506,7 @@ date: Last Modified
 * [May 4th, 2021 Livestream Q&A: What about work-in-progress things like Mercer Spheres?](./transcriptions/yt-y_iC9FJAhYk.md) [https://www.youtube.com/watch?v=y_iC9FJAhYk](https://www.youtube.com/watch?v=y_iC9FJAhYk)
 * [January 26th, 2021 Livestream Q&A: News for the Work In Progress collectables for anything in Update 4?](./transcriptions/yt-5vlFsF0dm3E.md) [https://www.youtube.com/watch?v=5vlFsF0dm3E](https://www.youtube.com/watch?v=5vlFsF0dm3E)
 * [October 6th, 2020 Livestream Q&A: When are these Work In Progress (WIP) items going to be used?](./transcriptions/yt-bmRdzV3-wJI.md) [https://www.youtube.com/watch?v=bmRdzV3-wJI](https://www.youtube.com/watch?v=bmRdzV3-wJI)
-* October 1st, 2020 Q&A: What is the story with the Mercer Sphere? [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436)
+* [October 1st, 2020 Q&A: What is the story with the Mercer Sphere?](./transcriptions/yt-rATcozDE25c,429.5291,435.5351.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436)
 * [September 15th, 2020 Livestream Q&A: Any chance Update 4 unlocks the Work In Progress items?](./transcriptions/yt-Z870GlRbfjk.md) [https://www.youtube.com/watch?v=Z870GlRbfjk](https://www.youtube.com/watch?v=Z870GlRbfjk)
 * [September 15th, 2020 Livestream Q&A: When do the Work In Progress items get a purpose?](./transcriptions/yt-koMqOABA6x8.md) [https://www.youtube.com/watch?v=koMqOABA6x8](https://www.youtube.com/watch?v=koMqOABA6x8)
 * August 18th, 2020 Livestream Q&A: When are Somersloops and Orbs have meaning? [https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride](https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride)
@@ -2441,8 +2440,8 @@ date: Last Modified
 * August 25th, 2020 Livestream Q&A: Will there be a rocket to leave the planet? [https://clips.twitch.tv/BusyPowerfulWombatSoonerLater](https://clips.twitch.tv/BusyPowerfulWombatSoonerLater)
 * [May 15th, 2020 Q&A: Will we ever be able to leave this planet?](./transcriptions/yt-NlIVwoRqjVk,1008.3073,1019.9856333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1008&end=1020](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1008&end=1020)
 * [March 9th, 2019 Livestream Q&A: Will the game expand into space or will it stay on the ground?](./transcriptions/yt-Ea0f72zZshQ.md) [https://www.youtube.com/watch?v=Ea0f72zZshQ](https://www.youtube.com/watch?v=Ea0f72zZshQ)
-* February 20th, 2019 Livestream Q&A: Can you travel to other planets? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314)
-* February 6th, 2019 Livestream Q&A: Will there be outer space & galaxies? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841)
+* [February 20th, 2019 Livestream Q&A: Can you travel to other planets?](./transcriptions/yt-CB9bSigNYH8,1305.6,1313.344125.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1305&end=1314)
+* [February 6th, 2019 Livestream Q&A: Will there be outer space & galaxies?](./transcriptions/yt-Dtm6xIj-wM4,2836.733333333333,2840.698964.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2836&end=2841)
 </details>
 
 ### [Q&A: What's the feature you want to add?](./transcriptions/yt-VJgvG8RvkLw.md) [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
@@ -3425,7 +3424,7 @@ date: Last Modified
 * [March 9th, 2019 Livestream Q&A: Are you guys planning to add any terraforming or digging?](./transcriptions/yt-DW0MT8G-wMI.md) [https://www.youtube.com/watch?v=DW0MT8G-wMI](https://www.youtube.com/watch?v=DW0MT8G-wMI)
 * [February 20th, 2019 Livestream Q&A: Can we deform terrain?](./transcriptions/yt-CB9bSigNYH8,5141.221945,5152.209084.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5141&end=5153](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5141&end=5153)
 * [February 6th, 2019 Livestream Q&A: Terraforming?](./transcriptions/yt-Dtm6xIj-wM4,979.016429,1016.088881.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=979&end=1017](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=979&end=1017)
-* August 1st, 2018 Q&A: Will there be landscape deformation or Terraforming? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67)
+* [August 1st, 2018 Q&A: Will there be landscape deformation or Terraforming?](./transcriptions/yt-iFAy1NZUOGU,62.6,66.08.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67)
 </details>
 
 ## [November 10th, 2020 Livestream](./2020-11-10.md)
@@ -3526,7 +3525,7 @@ date: Last Modified
 <summary>This question may have been asked previously at least 2 other times, as recently as June 2020 and as early as February 2019.</summary>
 
 * [June 8th, 2020 Livestream Q&A: Are there any Dutch people in Coffee Stain?](./transcriptions/yt-ZhrRG351PsI.md) [https://www.youtube.com/watch?v=ZhrRG351PsI](https://www.youtube.com/watch?v=ZhrRG351PsI)
-* February 20th, 2019 Livestream Q&A: How many Dutch people at Coffee Stain? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438)
+* [February 20th, 2019 Livestream Q&A: How many Dutch people at Coffee Stain?](./transcriptions/yt-CB9bSigNYH8,427.46666666666664,437.20508.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438)
 </details>
 
 ### [Q&A: Does destroying all the foliage in the game biomes increase or decrease performance?](./transcriptions/yt-IFxnvuYEVtk.md) [https://www.youtube.com/watch?v=IFxnvuYEVtk](https://www.youtube.com/watch?v=IFxnvuYEVtk)
@@ -3675,7 +3674,7 @@ date: Last Modified
 
 * [March 9th, 2019 Livestream Q&A: Can we have an alternate arachnophobia mode with Simon's face?](./transcriptions/yt-3h2P4TfAAwE.md) [https://www.youtube.com/watch?v=3h2P4TfAAwE](https://www.youtube.com/watch?v=3h2P4TfAAwE)
 * [August 1st, 2018 Q&A: What if I'm also afraid of cats? What about changing the cats' head to Simon's head instead?](./transcriptions/yt-iFAy1NZUOGU,208.96,227.8.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=208&end=228)
-* August 1st, 2018 Q&A: Can we change the sprite ourselves? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
+* [August 1st, 2018 Q&A: Can we change the sprite ourselves?](./transcriptions/yt-iFAy1NZUOGU,227.8,231.6.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=227&end=232)
 </details>
 
 ## [September 1st, 2020 Livestream](./2020-09-01.md)
@@ -3693,9 +3692,8 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 3 other times, as recently as July 2020 and as early as February 2020.</summary>
+<summary>This question may have been asked previously at least 2 other times, as recently as March 2020 and as early as February 2020.</summary>
 
-* [July 30th, 2020 Q&A: Merch?](./transcriptions/yt-1dUNmBBbExs,101.20356,116.33333333333333.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=101&end=117](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=101&end=117)
 * [March 24th, 2020 Livestream Q&A: Merch?](./transcriptions/yt-PIlduefx6Vk.md) [https://www.youtube.com/watch?v=PIlduefx6Vk](https://www.youtube.com/watch?v=PIlduefx6Vk)
 * [February 11th, 2020 Livestream Q&A: Merch?](./transcriptions/yt-1Mdtq6Ytb1g.md) [https://www.youtube.com/watch?v=1Mdtq6Ytb1g](https://www.youtube.com/watch?v=1Mdtq6Ytb1g)
 </details>
@@ -3782,7 +3780,7 @@ date: Last Modified
 </details>
 
 ## [February 6th, 2019 Livestream](./2019-02-06.md)
-### Q&A: Pipes? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=278&end=281](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=278&end=281)
+### [Q&A: Pipes?](./transcriptions/yt-Dtm6xIj-wM4,278.693237,280.42817.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=278&end=281](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=278&end=281)
 
 <details>
 
@@ -3834,7 +3832,7 @@ date: Last Modified
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as February 2019 and as early as August 2018.</summary>
 
-* February 6th, 2019 Livestream Q&A: Pipes? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051)
+* [February 6th, 2019 Livestream Q&A: Pipes?](./transcriptions/yt-Dtm6xIj-wM4,4048.165275,4050.819876.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051)
 * [August 1st, 2018 Q&A: But... will there be Pipes?](./transcriptions/yt-iFAy1NZUOGU,275.24,323.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=275&end=324)
 </details>
 

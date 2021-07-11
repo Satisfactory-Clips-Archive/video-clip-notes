@@ -277,12 +277,12 @@ date: Last Modified
 ## August 18th, 2020 Livestream
 * Q&A: Why does Snutt have many guitars? [https://clips.twitch.tv/AverageRenownedAxeWholeWheat](https://clips.twitch.tv/AverageRenownedAxeWholeWheat)
 
-## July 23rd, 2020 Video
-* [Jace Art: Jace & Snutt Statues](../../transcriptions/yt-JOBcS413hwY,194.3942,252.71913333333333.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=194&end=253](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=194&end=253)
-
-## July 8th, 2020 Mod Highlight
+## July 30th, 2020 Mod Highlight
 * [Q&A: What is your favourite Mod?](../../transcriptions/yt-1dUNmBBbExs,3224.978273,3283.3333333333335.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3224&end=3284)
 * [Q&A: What's in the box?](../../transcriptions/yt-1dUNmBBbExs,3395.015298,3450.885972.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3395&end=3451](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3395&end=3451)
+
+## July 23rd, 2020 Video
+* [Jace Art: Jace & Snutt Statues](../../transcriptions/yt-JOBcS413hwY,194.3942,252.71913333333333.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=194&end=253](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=194&end=253)
 
 ## April 2nd, 2020 Q&A
 * [Jace Talk: Let's Gay It Out](../../transcriptions/yt-BmKMv6SZJ5M,254.96,319.04.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320)
@@ -309,14 +309,14 @@ date: Last Modified
 * [Q&A: What is the job of Community Managers?](../../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
 
 ## December 19th, 2019 Video
-* Alpha Keys - Simon Saga Ep. 13 [BTS] (February 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46)
-* Alpha Keys! - Simon Saga Ep. 11 [BTS] (January 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76)
+* [Alpha Keys - Simon Saga Ep. 13 [BTS] (February 2019)](../../transcriptions/yt-52nYaN8imgo,37.1,45.26.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46)
+* [Alpha Keys! - Simon Saga Ep. 11 [BTS] (January 2019)](../../transcriptions/yt-52nYaN8imgo,68.82,75.48.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=68&end=76)
 * [500 Alpha Keys Sent Out! - Simon Saga Ep. 2 [BTS] (October 2018)](../../transcriptions/yt-52nYaN8imgo,80.4,88.42.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=80&end=89](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=80&end=89)
 * [New Community Manager - REVEALED (December 2019)](../../transcriptions/yt-52nYaN8imgo,92.16,105.12.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=92&end=106](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=92&end=106)
-* New Community Manager - REVEALED [BTS] (December 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=105&end=107](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=105&end=107)
-* Snutt's Little Baby [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202)
-* Alpha keys - Simon Saga Ep. 8 [BTS] (December 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=287&end=293](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=287&end=293)
-* New Community Manager - REVEALED (Deccember 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=343&end=346](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=343&end=346)
+* [New Community Manager - REVEALED [BTS] (December 2019)](../../transcriptions/yt-52nYaN8imgo,105.12,106.12.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=105&end=107](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=105&end=107)
+* [Snutt's Little Baby](../../transcriptions/yt-52nYaN8imgo,194.28,201.34.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202)
+* [Alpha keys - Simon Saga Ep. 8 [BTS] (December 2018)](../../transcriptions/yt-52nYaN8imgo,287.44,292.66.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=287&end=293](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=287&end=293)
+* [New Community Manager - REVEALED (Deccember 2019)](../../transcriptions/yt-52nYaN8imgo,343.44,345.8.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=343&end=346](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=343&end=346)
 
 ## December 13th, 2019 Video
 * [Snutt Talk: I'm not replacing Jace](../../transcriptions/yt-N1o3tK1h8cM,27.8,61.72.md) [https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=27&end=62](https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=27&end=62)

@@ -88,14 +88,14 @@ date: Last Modified
 * [Snutt & Gafgar Talk: Zombie Pioneers](../../transcriptions/yt-90rAQ31MQPI.md) [https://www.youtube.com/watch?v=90rAQ31MQPI](https://www.youtube.com/watch?v=90rAQ31MQPI)
 
 ## December 19th, 2019 Video
-* Developer Highlight - Concept Art (August 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=169&end=174](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=169&end=174)
+* [Developer Highlight - Concept Art (August 2018)](../../transcriptions/yt-52nYaN8imgo,169.54,173.56.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=169&end=174](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=169&end=174)
 
 ## February 20th, 2019 Livestream
 * [Q&A: Can I swim?](../../transcriptions/yt-CB9bSigNYH8,421.013576,427.456855.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=421&end=428](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=421&end=428)
 * [Q&A: Can you pop down the player model?](../../transcriptions/yt-CB9bSigNYH8,1343.768866,1363.9333333333334.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1343&end=1364](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1343&end=1364)
 * [Hannah Talk: Scale of the player relative to the world](../../transcriptions/yt-CB9bSigNYH8,1376,1397.877607.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1376&end=1398](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1376&end=1398)
 * [Q&A: Aren't we the aliens when get to the planet?](../../transcriptions/yt-CB9bSigNYH8,4284.443325,4301.268185.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302)
-* Q&A: Can you climb steep terrain? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4509&end=4517](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4509&end=4517)
+* [Q&A: Can you climb steep terrain?](../../transcriptions/yt-CB9bSigNYH8,4509.424639,4516.550398.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4509&end=4517](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4509&end=4517)
 
 ## February 6th, 2019 Livestream
 * [Q&A: What happens when you die?](../../transcriptions/yt-Dtm6xIj-wM4,1663.964039,1669.29091.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1663&end=1670](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1663&end=1670)

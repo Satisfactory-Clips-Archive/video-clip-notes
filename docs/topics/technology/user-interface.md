@@ -236,7 +236,7 @@ date: Last Modified
 * [Q&A: A mark on pipes to show the meters ?](../../transcriptions/yt-lXL_N-a887E.md) [https://www.youtube.com/watch?v=lXL_N-a887E](https://www.youtube.com/watch?v=lXL_N-a887E)
 * Q&A: Grid- a radius would be perfect [https://clips.twitch.tv/GeniusConcernedEggDogFace](https://clips.twitch.tv/GeniusConcernedEggDogFace)
 
-## July 8th, 2020 Mod Highlight
+## July 30th, 2020 Mod Highlight
 * [Community FYI: Uses standard popup with custom disconnect message](../../transcriptions/yt-1dUNmBBbExs,655.75986,667.119423.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668)
 
 ## June 8th, 2020 Livestream

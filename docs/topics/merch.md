@@ -137,7 +137,7 @@ date: Last Modified
 * [Snutt Talk: Merch](../transcriptions/yt-dSnqRq1hLZY,127.36666666666666,249.6.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=127&end=250](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=127&end=250)
 * [Q&A: Where's the mug?](../transcriptions/yt-dSnqRq1hLZY,136.4,145.46666666666667.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=136&end=146](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=136&end=146)
 * [Q&A: Why is shipping so expensive (outside of the US)?](../transcriptions/yt-dSnqRq1hLZY,145.46666666666667,159.96666666666667.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=145&end=160](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=145&end=160)
-* Q&A: Did Coffee Stain become sellouts? [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=159&end=163](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=159&end=163)
+* [Q&A: Did Coffee Stain become sellouts?](../transcriptions/yt-dSnqRq1hLZY,159.96666666666667,162.96666666666667.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=159&end=163](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=159&end=163)
 * [Q&A: Are there any more designs coming?](../transcriptions/yt-dSnqRq1hLZY,162.96666666666667,249.6.md) [https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=162&end=250](https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=162&end=250)
 
 ## September 8th, 2020 Livestream
@@ -166,9 +166,6 @@ date: Last Modified
 * Q&A: FICSIT employee t-shirt? [https://clips.twitch.tv/SuspiciousAlluringDolphinThunBeast](https://clips.twitch.tv/SuspiciousAlluringDolphinThunBeast)
 * Q&A: gravity-defying FICSIT-branded coffee [https://clips.twitch.tv/TalentedIntelligentGazelleFunRun](https://clips.twitch.tv/TalentedIntelligentGazelleFunRun)
 * Q&A: Lizard Doggo Plushies [https://clips.twitch.tv/TolerantPunchyNewtJKanStyle](https://clips.twitch.tv/TolerantPunchyNewtJKanStyle)
-
-## July 30th, 2020 Q&A
-* [Q&A: Merch?](../transcriptions/yt-1dUNmBBbExs,101.20356,116.33333333333333.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=101&end=117](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=101&end=117)
 
 ## July 28th, 2020 Livestream
 * Q&A: Coffee Mug? [https://clips.twitch.tv/SpunkyHyperWasabi4Head](https://clips.twitch.tv/SpunkyHyperWasabi4Head)

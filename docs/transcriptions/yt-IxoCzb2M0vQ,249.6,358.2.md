@@ -1,54 +1,21 @@
 ---
-title: "July 19th, 2018 - Truck"
+title: "July 19th, 2018 Dev Blog Truck"
 date: "2018-07-19"
 layout: transcript
-topics: 
+topics:
     - "features/transportation/vehicles/truck"
 ---
-# [July 19th, 2018 Dev Blog #1: Vehicles](../2018-07-19.md)
+# [July 19th, 2018 Dev Blog](../2018-07-19.md)
 ## Truck
 https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=249&end=359
+
 ### Topics
 * [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
 
 ### Transcript
 
-> truck
-> the truck is super nice I think it's a
-> big vehicle it's much faster than the
-> tractor it's much more reliable with
-> these big wheels and a nice suspension
-> it feels really heavy it's got a bigger
-> storage size than the tractor does so
-> let's just take it for a little spin
-> let's fit these here you can see it
-> feels really heavy I think it's really
-> nice so like there's some rough terrain
-> over here that we can there's like a
-> little bump in the level over here you
-> can see that little ditch let's hit that
-> so you know it handles those things
-> quite nicely so as you can see here the
-> the turning circle is pretty tight which
-> is super nice and one of the things that
-> helps with that is the the rear wheels
-> counter steer to the front wheels super
-> nice another feature that I haven't
-> mentioned yet is we actually have
-> drifting in this game now the tractor
-> can't drift at all but the truck can
-> just a little bit and it's mostly just
-> for handling just so you know you can do
-> what you want and get get where you want
-> easy that the truck can function the way
-> you want it to so here's the normal turn
-> and then I'll activate drift you'll see
-> that it tightens quite a lot and I hit
-> that spike there so you can also get
-> some like pretty cool drifts in the
-> truck but it's it's all pretty slight so
-> let's see if you can good very good
-> there's a nice little drift there yeah
-> the truck is pretty powerful they can go
-> up pretty tough terrain like this yeah
-> it's a nice vehicle very reliable and of
+> hi I'm James from coffee stain studios hi everyone my name's Jason on the community manager and programming here at coffee stain studios that's right I'm also a programmer and not a lot of people believe that which is kind of weird even some people outside of the office don't believe that bizarre anyway today something special it's gonna be a let's play I cannot wait to show you my skills in fortnight it's gonna be real I'm kidding I'm gonna be showing you vehicles in satisfactory so let's just help straight up it's the PC and I'll show you what's up all right everybody here we are in satisfactory as you can see first thing I need to say because otherwise everyone else is gonna kill me if I don't is that a reminder we're in pre-alpha there's some weird stuff going on anything is subject to change we have some like UI issues we have maybe some graphical issues things like that and yeah also the character doesn't have a head anymore I don't know what happened there but no head that's great and a lot of these things are easy to fix so don't be too discouraged and this is why the Alpha hasn't started yet alright so let's get on with it here are three of our vehicles this is the tractor or some of us like to call it the sugar cube I think that's a really cute name and we should use it and this is the Explorer and this is the truck and then behind us is Bob up up nothing there it is it's the Train it's over there so we'll look at the Train as well so let's take the tractor first first bin and that bloom there don't look directly at it you'll damage your eyes okay so here's the tractor it's an early game vehicle you know there's nothing too special about it it has a reasonable it has a reasonable sized storage and as you can see there's no head on the the character reasonable size size storage and it doesn't really handle rough terrain that well let's see what else you know it's not too fast but when you get at early game and you start automating it it's very useful a good way to carry resources back to your base so let's let's show off the self-driving but for on the bottom right hand you'll see a little fuel icon and that's where we would normally show what fuel you have and how much right now there's no fuel in the vehicle but I'm using cheats so I can drive without fuel all right and then below that it says Q self driving menu so I'll hold Q now the automation and self driving has gone through many iterations and has changed the way it functions many times so maybe this will change again but this is what we have now you can clear a path hide path nodes enable autopilot and start recording you'll see what the path nodes are in a moment so let's hit start recording and go for a drive you'll notice that we're pooping out little blue hours so that's um to be expected I'm sure so let's go for a little drive up here you do need to close the circuit for the vehicles for the automation because you wouldn't really want it to try and find some path back it doesn't really work that well yet like you really wouldn't want that because maybe you don't want it to come that back the same path or something so arrant will finish the recording will enable auto pilot and even though I've enabled it it's not driving that is because we have a driver in the vehicle so once we just hop out it'll start driving there it goes and so here I'm just following the vehicle as it drives around and the the the Waypoint system is you know not super smart it just goes from waypoints a waypoint so you you want to be super careful with how you record the vehicles you want to make sure that it's a safe and reliable path otherwise the vehicle will get stuck and you know you it'll get stuck and then you won't complete the circuit and it'll burn off its fuel and it's a pain in the butt to go and fix it so you want to make sure you've got a safe circuit there and then yeah so these blue arrows are the path nodes which you can hide if you wish as well in that previous menu so let's move on to the truck the truck is super nice I think it's a big vehicle it's much faster than the tractor it's much more reliable with these big wheels and a nice suspension it feels really heavy it's got a bigger storage size than the tractor does so let's just take it for a little spin let's fit these here you can see it feels really heavy I think it's really nice so like there's some rough terrain over here that we can there's like a little bump in the level over here you can see that little ditch let's hit that so you know it handles those things quite nicely so as you can see here the the turning circle is pretty tight which is super nice and one of the things that helps with that is the the rear wheels counter steer to the front wheels super nice another feature that I haven't mentioned yet is we actually have drifting in this game now the tractor can't drift at all but the truck can just a little bit and it's mostly just for handling just so you know you can do what you want and get get where you want easy that the truck can function the way you want it to so here's the normal turn and then I'll activate drift you'll see that it tightens quite a lot and I hit that spike there so you can also get some like pretty cool drifts in the truck but it's it's all pretty slight so let's see if you can good very good there's a nice little drift there yeah the truck is pretty powerful they can go up pretty tough terrain like this yeah it's a nice vehicle very reliable and of course it can be automated as well let's not hit the traction here okay so let's move on to the Explorer and a little better as well and as you would expect because we have this drift feature this vehicle is much nicer when it comes to drifting as you can see we go down here get some speed you can get some ice drifts a lot of the tuning needs to get better the Explorer is pretty hard to tune well and make it fun and reliable but you know it's getting there it's gone through many iterations as well and will continue to go through more it definitely needs some more improvements so I think the camera could use some more feedback obviously there's no sound in here right now for the Explorer it's pretty tricky to create the sound for it but you know we're working on it we'll get that so I'll see if I can show off some of the Explorer just kind of like grappling the terrain seeing as you can see just kind of grabs things and climbs it's kind of weird but but I like it you know it helps you get to hard-to-reach places yep so that's the Explorer let's go check out the Train okay so the Train is really cool you can build tracks really far so you can use the trains to cross the map yourself good because you can drive it but it's also a nice way to automate resources to be delivered the trains are really fast as well so I'm not going remotely as fast as it can go because it's gonna go super super fast so yeah it's pretty nice now you can automate them as well and I'll show you how that works so first of all I'll just go to a train station so here's one that's there and then there's another one on the other side and so the stands to open prove that I press Q to open that up Sam is automating vehicles and we can add stand store and we can I prove that to it we can change how long we want it to stay there at the stop let's do five seconds cool and then we'll just jump out and it will do its thing so there's the next station it's where is it alright so here's the next station the trains pulling up it's a little shaky yep so there you go okay so those are the vehicles that I'm showing today so let's head back to standing Jase alright everyone that's all we have time for today I really hope you found the information interesting and that it'll tie you over til next week let us know in the comments what you think about the vehicles and a bit of news is that we're gonna be trying to keep to a schedule like every Wednesday we want to put out some information or some content and the way we're going to do it is we're gonna have one week's going to be big content and then the next week will be small and then big and then continuing on like that so the last week was the day night cycle video if you haven't seen that check it out it's the previous video on this YouTube channel and this week was this video which is a big content and then next week will be small again and then big content so on okay so I'll catch you all later don't forget to Like subscribe follow on Twitter join discord and if we get a hundred thousand likes I'll release the game tomorrow I'm lying have a lovely day bye
+>
+> [Music]
+>
+> yeah look I look pretty tired again today I know that everyone in the coments are gonna be like you so it looks so tired mhmmm get some sleep shave your beard that's what you sound like yeah

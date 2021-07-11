@@ -1,53 +1,21 @@
 ---
-title: "August 30th, 2019 - Jace Talk: The QA Site"
+title: "August 30th, 2019 Video Jace Talk: The QA Site"
 date: "2019-08-30"
 layout: transcript
-topics: 
+topics:
     - "qa-site"
 ---
-# [August 30th, 2019 Info/Progress updates on Update #3, Merch, QA site + more](../2019-08-30.md)
+# [August 30th, 2019 Video](../2019-08-30.md)
 ## Jace Talk: The QA Site
 https://youtube.com/embed/urT0gI_cP04?autoplay=1&start=76&end=158
+
 ### Topics
 * [QA Site](../topics/qa-site.md)
 
 ### Transcript
 
-> talk about is our QA site which is where
-> people can report bugs offer suggestions
-> ask questions and the community can help
-> each other out upvote and downvote
-> things and whatnot so if we've said it
-> we've talked about it before if you have
-> any bugs that is the single best place
-> to report blood blogs so report bugs a
-> lot of people have also given us a lot
-> of feedback about it's not really easy
-> to use and there's some issues and a lot
-> of people who are trying to offer
-> suggestions are just getting mast down
-> voted when you know their suggestion
-> might be for a quality-of-life thing for
-> a casual player but not for a hardcore
-> player than they're getting down voted
-> and I've seen this many times really
-> good suggestions with like -5 votes so
-> we've actually done something to address
-> that specific thing we've removed down
-> votes completely you can only up vote so
-> if you like something you up voted if
-> not you just move on and it doesn't get
-> your up the vote that way people who
-> people will not be afraid to make
-> suggestions and I think we're still
-> going to be seeing a good spread of what
-> is getting a lot of attention and what
-> is not we're going to be doing more
-> updates on the QA side it's really hard
-> search for things there's a lot of
-> problems with it and we're aware of it
-> and I've been wanting to work on it for
-> quite some time but now I found some
-> time to really focus on it with our QA
-> tester and IT guy so hopefully we're
-> going to be getting some results on the
+> fine yeah we'll make it work in post
+>
+> [Laughter]
+>
+> hey everyone my name is Jason the community manager here at coffee stain studios today's video is gonna be a bit of a jumbly thing I'm gonna cover a bunch of different things but first off I'm gonna talk about games come I went to games come last week for a couple days and it was super fun I met a lot of industry folks and content creators but I also met with a lot of community members and it was just incredible how many people actually came up and met me and how many people I ran into when I was just running around from meetings to meetings so that was super cool so I've given out some loot to them I took a lot of pictures hopefully I'll remember to add the pictures here and one of the coolest things that were in the loot bags were these like really awesome fix-it coins that we made we're really proud of those and a lot of people really like them and a lot of people online are asking if they can get their own or buy their own it's not possible because we have run out of coins sorry but in terms of merch we are currently actively looking into merch and so hopefully it'd be really cool if we can have something by Christmas but we really don't know yet but this loot that I gave away Gamescom was also just kind of like a trial of how we can make some merch and it obviously it went pretty well so the next thing I want to talk about is our QA site which is where people can report bugs offer suggestions ask questions and the community can help each other out upvote and downvote things and whatnot so if we've said it we've talked about it before if you have any bugs that is the single best place to report blood blogs so report bugs a lot of people have also given us a lot of feedback about it's not really easy to use and there's some issues and a lot of people who are trying to offer suggestions are just getting mast down voted when you know their suggestion might be for a quality-of-life thing for a casual player but not for a hardcore player than they're getting down voted and I've seen this many times really good suggestions with like -5 votes so we've actually done something to address that specific thing we've removed down votes completely you can only up vote so if you like something you up voted if not you just move on and it doesn't get your up the vote that way people who people will not be afraid to make suggestions and I think we're still going to be seeing a good spread of what is getting a lot of attention and what is not we're going to be doing more updates on the QA side it's really hard search for things there's a lot of problems with it and we're aware of it and I've been wanting to work on it for quite some time but now I found some time to really focus on it with our QA tester and IT guy so hopefully we're going to be getting some results on the QA site pretty soon and I'll keep you posted on that too so the last thing I want to talk about is update number three the big one and as I've said in a video before we were away on holidays and we had no idea what we were doing for update number three but we have been working on that and we have some vague ideas and some plans of what we want to do so that's good news so what I can tell you about that update number three is that we plan on releasing it around December at the end of this year so that's a big period big gap with no real meaty substance updates and the reason for that is if we do that we can put in bigger content like bigger systems or anything like that in the game so we may do that from time to time we may do monthly things not really sure yet but in this case we want to take a lot of time to put some big stuff in the game as for what we're gonna put in the game I can't tell you everything because we do want to keep some stuff hidden to build some hype but there are some other really cool things that I can tell you right now and that is we want to put in either mud support or dedicated servers or both if we can we think that there's they're both super important we have a really active mod community right now even though there's no mod support so we wanted to enable the modding community by giving them official mod support so everyone can enjoy mods at the same time we have a lot of network issues and performance and issues with non persisting worlds when friends are playing together and so dedicated servers will be very useful for that so these are two really big things and we need to choose which one we want to do if you have an opinion on if we should do what like if the priority should be mod support or the priority should be dedicated servers I would really like to hear it in the comments below I don't do the whole comment down below thing very often but this one we're genuinely interested in what you think should be the top priority so yeah that's pretty much everything today it's again a bit of a mishmash of information I hope this video is okay but and I hope you're okay I hope you're doing a doing great today bye got to have confidence in my work yes

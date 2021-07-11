@@ -31,7 +31,7 @@ date: Last Modified
 * [Q&A: Alpha Keys, when ?](../../../transcriptions/yt-Kuj7AhSysV8.md) [https://www.youtube.com/watch?v=Kuj7AhSysV8](https://www.youtube.com/watch?v=Kuj7AhSysV8)
 
 ## December 19th, 2019 Video
-* Alpha Key Counts [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=110&end=117](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=110&end=117)
+* [Alpha Key Counts](../../../transcriptions/yt-52nYaN8imgo,110.44,116.48.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=110&end=117](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=110&end=117)
 
 ## March 15th, 2019 Q&A
 * [Q&A: Why don't I have a beta key?](../../../transcriptions/yt-R0S19_caQuw,378.46,384.72.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=378&end=385](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=378&end=385)
@@ -52,10 +52,10 @@ date: Last Modified
 ## February 20th, 2019 Livestream
 * [Hannah Talk: Caves are broken in Alpha](../../../transcriptions/yt-CB9bSigNYH8,592.38942,606.403501.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=592&end=607](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=592&end=607)
 * [Hannah Talk: Building factories in caves](../../../transcriptions/yt-CB9bSigNYH8,1419.15309,1441.680622.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1419&end=1442](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1419&end=1442)
-* Q&A: If you don't speak german, give me an Alpha Key? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3370&end=3376](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3370&end=3376)
+* [Q&A: If you don't speak german, give me an Alpha Key?](../../../transcriptions/yt-CB9bSigNYH8,3370.075643,3375.232839.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3370&end=3376](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3370&end=3376)
 * [Q&A: Where are you in development?](../../../transcriptions/yt-CB9bSigNYH8,4196.251148,4208.189437.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4196&end=4209](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4196&end=4209)
 * [Q&A: How long does it usually take for sending off for the Alpha to get a response?](../../../transcriptions/yt-CB9bSigNYH8,4259.409187,4274.556616.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4259&end=4275](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4259&end=4275)
-* Q&A: How big is the Alpha? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4322&end=4330](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4322&end=4330)
+* [Q&A: How big is the Alpha?](../../../transcriptions/yt-CB9bSigNYH8,4322.982105,4329.356095.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4322&end=4330](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4322&end=4330)
 * [Q&A: Why do you not have a lot players in the Alpha?](../../../transcriptions/yt-CB9bSigNYH8,4354.483035,4399.932361.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4354&end=4400](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4354&end=4400)
 * [Q&A: Is the game a scam?](../../../transcriptions/yt-CB9bSigNYH8,4587.220174,4600.881774.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4587&end=4601](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4587&end=4601)
 * [Q&A: How big is the game in file size?](../../../transcriptions/yt-CB9bSigNYH8,4718.242065,4747.934062.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4718&end=4748](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4718&end=4748)
@@ -72,7 +72,7 @@ date: Last Modified
 * [Q&A: Have the Alpha Testers done any art using Walls and Paint Guns?](../../../transcriptions/yt-Dtm6xIj-wM4,3984.431848,4022.49158.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023)
 
 ## December 12th, 2018 Q&A
-* Q&A: Is the Alpha being done via Epic? [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415)
+* [Q&A: Is the Alpha being done via Epic?](../../../transcriptions/yt-7V4UPiBOshY,412.48,414.76.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415)
 * [Q&A: Was the Alpha always on Epic?](../../../transcriptions/yt-7V4UPiBOshY,452,460.08.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=452&end=461](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=452&end=461)
 * [Q&A: Did you ever give out Steam keys?](../../../transcriptions/yt-7V4UPiBOshY,460.08,486.04.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=460&end=487](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=460&end=487)
 
@@ -104,7 +104,7 @@ date: Last Modified
 * [Alpha's content focus](../../../transcriptions/yt-31XJ1Q_glAw,96.88,169.44.md) [https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170](https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=96&end=170)
 
 ## August 1st, 2018 Q&A
-* Q&A: Any more news on the alpha? Can we pay to get in? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=68&end=73](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=68&end=73)
+* [Q&A: Any more news on the alpha? Can we pay to get in?](../../../transcriptions/yt-iFAy1NZUOGU,68.24,72.44.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=68&end=73](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=68&end=73)
 
 ## June 22nd, 2018 Q&A
 * [Q&A: How many Alpha Keys will there be?](../../../transcriptions/yt-W1E6EWrAsII,238.12,256.8.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=238&end=257](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=238&end=257)

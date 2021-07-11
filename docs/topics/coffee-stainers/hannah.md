@@ -111,12 +111,12 @@ date: Last Modified
 * [Q&A: Why does Hannah look like Billie Eilish?](../../transcriptions/yt-vn8SMPtHoJM.md) [https://www.youtube.com/watch?v=vn8SMPtHoJM](https://www.youtube.com/watch?v=vn8SMPtHoJM)
 
 ## December 19th, 2019 Video
-* Alpha Keys - Simon Saga Ep. 13 [BTS] (February 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46)
-* Developre Highlight - Level Design [BTS] (October 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81)
+* [Alpha Keys - Simon Saga Ep. 13 [BTS] (February 2019)](../../transcriptions/yt-52nYaN8imgo,37.1,45.26.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46)
+* [Developre Highlight - Level Design [BTS] (October 2019)](../../transcriptions/yt-52nYaN8imgo,75.48,80.4.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81)
 * [Developer Highlights - Helping Jace with programming](../../transcriptions/yt-52nYaN8imgo,152.94,169.54.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170)
-* Developer Highlights - Who's your favourite person in the office? [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195)
+* [Developer Highlights - Who's your favourite person in the office?](../../transcriptions/yt-52nYaN8imgo,190.88,194.28.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195)
 * [Developer Highlight - Level Design [BTS] (October 2019)](../../transcriptions/yt-52nYaN8imgo,292.66,305.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=292&end=305](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=292&end=305)
-* Developer Highlight - Level Design [BTS] (October 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=318&end=333](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=318&end=333)
+* [Developer Highlight - Level Design [BTS] (October 2019)](../../transcriptions/yt-52nYaN8imgo,318.02,332.44.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=318&end=333](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=318&end=333)
 
 ## November 5th, 2019 Q&A
 * [Jace Talk: Hannah's Dev Highlight video](../../transcriptions/yt-Fsod_UF5eus,20.779934,37.720185.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=20&end=38](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=20&end=38)
@@ -150,20 +150,20 @@ date: Last Modified
 * [Q&A: Who is Hannah's favourite member of Coffee Stain?](../../transcriptions/yt-CB9bSigNYH8,3125.355289,3145.082652.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3125&end=3146](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3125&end=3146)
 * [Q&A: What's Hannah's favourite flavour of music?](../../transcriptions/yt-CB9bSigNYH8,3266.313772,3335.428417.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3266&end=3336](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3266&end=3336)
 * [Hannah Talk: The Spotify song cap is 10,000](../../transcriptions/yt-CB9bSigNYH8,3352.0666666666666,3367.862741.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3352&end=3368](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3352&end=3368)
-* Q&A: If you don't speak german, give me an Alpha Key? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3370&end=3376](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3370&end=3376)
+* [Q&A: If you don't speak german, give me an Alpha Key?](../../transcriptions/yt-CB9bSigNYH8,3370.075643,3375.232839.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3370&end=3376](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3370&end=3376)
 * [Community FYI: That "nein" is very aggressive](../../transcriptions/yt-CB9bSigNYH8,3423.427489,3443.53224.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3423&end=3444](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3423&end=3444)
 * [Q&A: What was Hannah's first day at Coffee Stain like?](../../transcriptions/yt-CB9bSigNYH8,3720.651227,3739.395108.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3720&end=3740](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3720&end=3740)
 * [Hannah Talk: How I became a writer at Coffee Stain](../../transcriptions/yt-CB9bSigNYH8,3876.728582,3960.579115.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3876&end=3961](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3876&end=3961)
 * [Q&A: Did Hannah study to become a designer?](../../transcriptions/yt-CB9bSigNYH8,4001.34046,4068.282782.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4001&end=4069](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4001&end=4069)
-* Q&A: Can Hannah speak Dutch? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4092&end=4104](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4092&end=4104)
-* Q&A: What School did Hannah go to? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4169&end=4175](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4169&end=4175)
+* [Q&A: Can Hannah speak Dutch?](../../transcriptions/yt-CB9bSigNYH8,4092.622678,4103.016174.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4092&end=4104](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4092&end=4104)
+* [Q&A: What School did Hannah go to?](../../transcriptions/yt-CB9bSigNYH8,4169.009739,4174.063485.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4169&end=4175](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4169&end=4175)
 * [Q&A: Is your Unreal Engine pirated?](../../transcriptions/yt-CB9bSigNYH8,4803.983031,4818.284845.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4803&end=4819](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4803&end=4819)
 * [Q&A: Has Hannah used Unity before?](../../transcriptions/yt-CB9bSigNYH8,4889.926418,4935.130471.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4889&end=4936](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4889&end=4936)
 * [Q&A: Do you take interns in Game & Level Design?](../../transcriptions/yt-CB9bSigNYH8,4977.019619,4987.213353.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4977&end=4988](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4977&end=4988)
-* Q&A: Can Hannah do a little gameplay? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5073&end=5082](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5073&end=5082)
+* [Q&A: Can Hannah do a little gameplay?](../../transcriptions/yt-CB9bSigNYH8,5073.28789,5081.553759.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5073&end=5082](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5073&end=5082)
 * [Q&A: When you studied in Breda, did you think you would work on this kind of big project?](../../transcriptions/yt-CB9bSigNYH8,5081.553759,5093.168545.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5081&end=5094](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5081&end=5094)
-* Q&A: Does Coffee Stain pay you in foot-long subs? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292)
-* Q&A: Tea drinker? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5304&end=5308](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5304&end=5308)
+* [Q&A: Does Coffee Stain pay you in foot-long subs?](../../transcriptions/yt-CB9bSigNYH8,5287.2614,5291.710206.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292)
+* [Q&A: Tea drinker?](../../transcriptions/yt-CB9bSigNYH8,5304.233333333334,5307.797919.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5304&end=5308](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5304&end=5308)
 * [Q&A: Is this the kind of game that you wanted to design?](../../transcriptions/yt-CB9bSigNYH8,5416.966666666666,5436.988277.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5416&end=5437](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5416&end=5437)
 
 ## February 6th, 2019 Livestream

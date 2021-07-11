@@ -1,32 +1,27 @@
 ---
-title: "August 1st, 2018 - Q&A: How many Buildings will there be? What kind of complexity can we expect?"
+title: "August 1st, 2018 Q&A Q&A: How many Buildings will there be? What kind of complexity can we expect?"
 date: "2018-08-01"
 layout: transcript
-topics: 
-    - "features/buildings"
-    - "features/buildables/foundations"
-    - "features/transportation/vehicles"
+topics:
     - "environment/resources"
+    - "features/buildables/foundations"
+    - "features/buildings"
+    - "features/transportation/vehicles"
 ---
-# [August 1st, 2018 Q&A #3: Pipes, Research, Vehicles + more!](../2018-08-01.md)
+# [August 1st, 2018 Q&A](../2018-08-01.md)
 ## Q&A: How many Buildings will there be? What kind of complexity can we expect?
 https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100
+
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
-* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Buildings](../topics/features/buildings.md)
+* [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 
 ### Transcript
 
-> be what kind of complexity can we expect
-> yeah that's a little tough to answer
-> given the way things are in satisfactory
-> but the safe answer would be I counted
-> about 24 unique buildings and that
-> doesn't include foundations or vehicles
-> or a couple other things as well as for
-> complexity I mean I don't know I it's
-> complex for me but I don't know how we
-> we gauge that but with the number of
-> buildings we have and the number of
+> hey guys and welcome to the Internet hey everyone my name is JSON the community manager and programming here at coffee stain studios today we're doing a Q&amp;A I've taken questions from all over the social medias so let's get on with it and answer the questions so the first question is will there be a creative mode yeah it's a really great idea and we kind of already have support for it however we definitely don't want to do it at the beginning of the Alpha because it's just gonna spoil too much of the game and we really want to test things like pacing and that's just gonna undo all of that will there be a top-down view to assist with building the short answer is no and we kind of had some plans for something like it but it's definitely not going to be the Alpha and we can't confirm if we're gonna be adding it in the future but if we did do it it wouldn't be something like a typical tough down view because that doesn't make much sense given verticality like if you have a if you have a factory that's 5 stories high what does the top down view look at when you're trying to build so that doesn't make too much sense there but we do have potential solutions if we go ahead and add it into the game is there a weather in the game nope will they be pollution in the game nope will they be landscape deformation or terraforming no what about VR support nope any more info on the alpha can we buy into it no and no how many buildings will there be what kind of complexity can we expect yeah that's a little tough to answer given the way things are in satisfactory but the safe answer would be I counted about 24 unique buildings and that doesn't include foundations or vehicles or a couple other things as well as for complexity I mean I don't know I it's complex for me but I don't know how we we gauge that but with the number of buildings we have and the number of resources we have I think things get pretty complex how much will the game cost when it's released yeah so what we're gonna be doing is we're gonna have like a base price and increase it over time so we get to start off at 150 dollars and then we're gonna move up to $250 with microtransactions and then we're gonna go up to $350 plus a monthly subscription but that's gonna get you a thousand gems for every month and they'll also be adds but you can pay to remove them will there be steam achievements yeah most likely but we're definitely not gonna have it during the Alpha and whatnot because you know there bugs or imbalances it'll be too easy to exploit the steam achievements so probably down the line below it was everything in the vehicle dev blog all that the vehicles could do no not at all there were a lot of features that were intentionally left out and we could make another dev blog video on those and those features are in the game or most of them are in the game it's not like we left them out because they're not done or anything like that so is there research or tech tree in the game there will be progression regarding equipment and buildings and there'll be multiple ways to unlock things as well so for example if you find a specific resource while you're out exploring in the early game and you can't use it you might actually be able to use it for progression purposes so if you're playing with the buddy maybe you should send one of you guys out to explore because that might help you out won't the factory unload and stop working if you're really far away from it actually no the factory will run reliably no matter where you are on the map and that does not mean that far-off areas need to be loaded for the factory to run because that would be incredibly heavy with regards to performance and also vehicles still run no matter where you are on the map and what's loaded or not arachnophobia mode okay so for those of you who don't know what a rack no phobia mode is that was actually something that was outlined in our FAQ on our website what it is is if you have wreckin phobia for example or can't handle big spider like creatures in games you can go into gameplay options and turn on a recce phobia mode and it switches out spiders with sprites of cute cats what if I'm also afraid of cats what about changing the cats to Simon's head instead yeah actually I really do enjoy the idea of having Simon's head there you know maybe we can have like it I'm afraid of everything mode where everything just becomes Simon it could be pretty funny and that's just me rambling right now but in terms of if you're afraid of cats I don't know right now can we change the sprite ourselves no you can't change the cat sprites at the moment since there are sprites will this affect the hitboxes no I don't think so or maybe they do it but probably not let's just say no there are there actual spiders in the game if you're in a rapid there may be some creatures in the game that will seriously affect your experience or gameplay so that's pretty vague right there but also there are some in the trailer so go watch that we're done why did you spend time adding this feature when it only supports a small amount of people well it's not like it actually delayed the game it took like one day to put into the game including the sprite effects the reason we put it in is because we have an erect foe in the office and they can't even look at those creatures at all so it was kind of put in so that they could play the game and work with the game but also it's a pretty fun gimmick but will they be pipes are the most anticipated question from the community will there be pipes well whether or not they'll be pipes all I can say is what is with the obsession with pipes I mean seriously how can people be more excited about pipes than anything else in satisfactory every time I go to the community and I say why are people so excited to pipes how is it gonna positively affect the gameplay to justify that excitement basically all the responses just boil down to they're cool they look cool and otherwise it would be unrealistic I mean if you really want pipes go play that freaking what's it called pipe dream from the 1800s but my mind is open convinced me comment down below as to why people should be excited about pipes and how they're gonna positively affect the gameplay to justify that hype and don't you say they're cool tell me how they're really gonna affect the gameplay I'm really curious as to what you come up with and that's all I'll be answering today I did say on Twitter that for every retweet the tweet got I would have answered one extra question we got like 184 retweets and basically I lied but thanks for the retweets so don't forget to comment why pipes are cool like subscribe share all that stuff holes and Twitter join our discord all the links are below have a lovely day and I'll catch you next time bye
+>
+> [Music]
+>
+> nope nope nope nope nope nope I don't know nope no no n-no

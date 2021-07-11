@@ -281,7 +281,7 @@ date: Last Modified
 * [Q&A: How many Level Designer are working on the map? Or are you the only one?](../../transcriptions/yt-CB9bSigNYH8,4116.866666666667,4142.206297.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4116&end=4143](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4116&end=4143)
 * [Q&A: Will the players be able to make their own Maps?](../../transcriptions/yt-CB9bSigNYH8,5159.481807,5167.186143.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168)
 * [Q&A: What about Snow in the game's future?](../../transcriptions/yt-CB9bSigNYH8,5186.033333333334,5200.942785.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201)
-* Q&A: How big is the map? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5238&end=5245](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5238&end=5245)
+* [Q&A: How big is the map?](../../transcriptions/yt-CB9bSigNYH8,5238.267007,5244.490972.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5238&end=5245](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5238&end=5245)
 * [Q&A: How often will the Map be updated?](../../transcriptions/yt-CB9bSigNYH8,5336.08426,5347.37039.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5336&end=5348](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5336&end=5348)
 
 ## February 6th, 2019 Livestream

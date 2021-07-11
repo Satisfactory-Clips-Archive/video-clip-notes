@@ -1,100 +1,23 @@
 ---
-title: "December 4th, 2020 - Jace Talk: Changes in Production Lines"
+title: "December 4th, 2020 Video Jace Talk: Changes in Production Lines"
 date: "2020-12-04"
 layout: transcript
-topics: 
+topics:
     - "environment/resources"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
-# [December 4th, 2020 Tier 8 is coming in Update 4](../2020-12-04.md)
+# [December 4th, 2020 Video](../2020-12-04.md)
 ## Jace Talk: Changes in Production Lines
 https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=77&end=216
+
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript
 
-> uh so let's talk about what changes in
-> production lines
-> there were and uh we'll take it from
-> there but no no like specific
-> recipes or numbers just yet just the
-> overview of what's changing
-> so the production line of bauxite
-> refinement in two aluminium ingots has
-> changed this will affect
-> alumina solutions aluminium scrap and
-> alumi
-> aluminium and aluminium ingots
-> nailed it first try now so i've got a
-> little note here from mark i could have
-> like paraphrased it and you know turned
-> his homework into my own just changed it
-> a little bit but i think it's just much
-> better that i read it straight from him
-> so this is from director mark the main
-> challenge here was intended to be the
-> back merging of the
-> water byproduct and a longer production
-> line using a variety of different
-> resources
-> however we feel the setup has gone out
-> of hand for the start of a new phase
-> which is supposed to be interesting or
-> just different and not necessarily
-> complex
-> also we're still looking into reducing
-> the number of refineries outside of oil
-> production and alternative recipes
-> and boxsite refinement uses a lot so
-> this will impact
-> aluminium alclad sheets and heatsinks
-> the next thing that's been affected is a
-> turbo motor production line so the thing
-> with turbo motors is that it's an
-> incredibly complex part
-> and that's good we we really like that
-> however that sort of just means it
-> doesn't work
-> for tier vii anymore so we're gonna
-> promote that up to tier viii as i was
-> saying before or as mark said rather
-> tier seven is supposed to be sort of
-> this this new phase that's supposed to
-> be more different rather than complex so
-> turbo motors would fit
-> better into tier eight than tier seven
-> so that's moving super computers
-> and radio control units are going to be
-> getting a bit of a change
-> as well so even though these parts are
-> unlocked in the mam uh
-> they're still considered late game parts
-> and so they're gonna have to be adjusted
-> to fit the new additions and changes in
-> tier seven
-> and eight the nuclear fuel rod
-> production line has also undergone a bit
-> of a change we're adding a new building
-> uh to update for i'm not going to say
-> what it is just yet but we felt that the
-> uh
-> this production line could benefit from
-> using that building so
-> all parts that are uh introduced with
-> the nuclear fuel rods
-> are going to be affected by this and
-> there will also be another production
-> line
-> related to the nuclear fuel rods in tier
-> viii so you can
-> look forward to that so there's also
-> been a change to the battery production
-> line um so batteries will have its own
-> spot now in progression
-> and will have some very unique use cases
-> as well
-> it will also require the the new
-> building that i alluded to
-> before so batteries are going to get a
+> we're adding tier eight in update four yay we're going to break your saves yay not really kind of it's fine just watch hey everyone my name is jason i'm a community manager at coffeestain studios and today i'm going to be talking about update 4 but more specifically tier viii so we've confirmed before that there's going to be an eighth tier in satisfactory we've not given any other information about that and i don't think we had confirmed that it's coming in update 4. but that's right tier eight will be arriving in update number four and so now i'm not just gonna tell you that and leave you i'm actually gonna give you a bunch of uh new information about that as well oh and before i forget just a quick update on when update four will come out it's still looking like february or maybe march uh next year so uh yeah okay so let's let's dive into the details okay so the thing with uh tier eight is we had a vision of what tier 8 was going to be and we had uh designed tier seven to be in a specific way so that it would lead into what we thought we wanted for tier viii but based on feedback um from you guys and what we've observed our vision for t8 has changed a little bit and what this means is there's going to be a lot of rework to tier seven as well to sort of justify that change so there's gonna be uh not only just a bunch of new content but a bunch of changes to existing production lines and this means if you if you have a late game factory it's not really gonna work anymore i'm so sorry about that uh so let's talk about what changes in production lines there were and uh we'll take it from there but no no like specific recipes or numbers just yet just the overview of what's changing so the production line of bauxite refinement in two aluminium ingots has changed this will affect alumina solutions aluminium scrap and alumi aluminium and aluminium ingots nailed it first try now so i've got a little note here from mark i could have like paraphrased it and you know turned his homework into my own just changed it a little bit but i think it's just much better that i read it straight from him so this is from director mark the main challenge here was intended to be the back merging of the water byproduct and a longer production line using a variety of different resources however we feel the setup has gone out of hand for the start of a new phase which is supposed to be interesting or just different and not necessarily complex also we're still looking into reducing the number of refineries outside of oil production and alternative recipes and boxsite refinement uses a lot so this will impact aluminium alclad sheets and heatsinks the next thing that's been affected is a turbo motor production line so the thing with turbo motors is that it's an incredibly complex part and that's good we we really like that however that sort of just means it doesn't work for tier vii anymore so we're gonna promote that up to tier viii as i was saying before or as mark said rather tier seven is supposed to be sort of this this new phase that's supposed to be more different rather than complex so turbo motors would fit better into tier eight than tier seven so that's moving super computers and radio control units are going to be getting a bit of a change as well so even though these parts are unlocked in the mam uh they're still considered late game parts and so they're gonna have to be adjusted to fit the new additions and changes in tier seven and eight the nuclear fuel rod production line has also undergone a bit of a change we're adding a new building uh to update for i'm not going to say what it is just yet but we felt that the uh this production line could benefit from using that building so all parts that are uh introduced with the nuclear fuel rods are going to be affected by this and there will also be another production line related to the nuclear fuel rods in tier viii so you can look forward to that so there's also been a change to the battery production line um so batteries will have its own spot now in progression and will have some very unique use cases as well it will also require the the new building that i alluded to before so batteries are going to get a bit of a bit of a change so there are a couple small other things that um i might as well just throw into this video and that is power consumption for late game buildings is going to be adapted to the new changes that are coming so there'll be changes in power there and also some milestones and building costs in tier five and six will change as well but um nothing else in tiers five and six will change so you that shouldn't break that part of your factory um yeah any content that you have unlocked before the updates any milestones or anything like that will remain unlocked even if the costs have changed so um you don't have to like re-unlock things after the update and your save files should load uh we're pretty sure that they're they're gonna load but again with if you're in the in the later uh tiers of your factory then it's likely your production lines will stop working so you could try and repair them if you want so some of you out there some of you hardcore players will probably be losing some progress and so i asked director mark chung could you please please give our community your top 10 tips on how to prepare for this update so that they don't waste time so that they don't lose progress what can they do and he gave me a list of 10 things you can try okay so let's go number one don't start investing in tier 7 setups or ones that include the super computer or radio control unit hold off on that stuff for now tip number two if you've already built those production lines start stockpiling those parts so that you can use them to unlock milestones or build new buildings when the update hits so that's uh mark's tip number two tip number three and that's it there's only two tips actually so mark really [ __ ] scammed us on that one holy [ __ ] my dude was even get paid for god okay so that's kind of all i'm gonna be doing for this video and just the disclaimer this is not everything to do with tier viii this is not everything to do with update 4. this is just some stuff to tie you over for a little while you know we're going to be teasing new parts and buildings and features or whatever going forward as the weeks roll by so this is just one little bit of what's coming in update four so i hope you found that interesting if you did don't forget to like comment subscribe consider sharing online do all the great things thank you all so much for watching and i'll see you next thursday or friday depending on if i get my job done in time okay bye
+>
+> [Music]
+>
+> we're adding tier 8 this mic is in the way

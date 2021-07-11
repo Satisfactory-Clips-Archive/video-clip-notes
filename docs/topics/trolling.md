@@ -177,7 +177,7 @@ date: Last Modified
 * [Trolling: This is an honest stream](../transcriptions/yt-L5L3kXz810E.md) [https://www.youtube.com/watch?v=L5L3kXz810E](https://www.youtube.com/watch?v=L5L3kXz810E)
 
 ## October 1st, 2020 Q&A
-* Q&A: How many likes on this YouTube video for Jace to get fired? [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310)
+* [Q&A: How many likes on this YouTube video for Jace to get fired?](../transcriptions/yt-rATcozDE25c,305.83886666666666,309.87623333333335.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310)
 
 ## July 23rd, 2020 Video
 * [Jace Talk: JaceArt](../transcriptions/yt-JOBcS413hwY,27.660966666666667,60.427033333333334.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=27&end=61](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=27&end=61)
@@ -196,7 +196,7 @@ date: Last Modified
 * [Q&A: Will Jace and Snutt still be friends with me if I buy it on Steam?](../transcriptions/yt-Lem_s04UYBA.md) [https://www.youtube.com/watch?v=Lem_s04UYBA](https://www.youtube.com/watch?v=Lem_s04UYBA)
 
 ## May 15th, 2020 Q&A
-* Q&A: Didn't you quit? [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=994&end=996](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=994&end=996)
+* [Q&A: Didn't you quit?](../transcriptions/yt-NlIVwoRqjVk,994.1932,995.8949.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=994&end=996](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=994&end=996)
 
 ## April 2nd, 2020 Q&A
 * [Jace Talk: Let's Gay It Out](../transcriptions/yt-BmKMv6SZJ5M,254.96,319.04.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=254&end=320)
@@ -207,7 +207,7 @@ date: Last Modified
 * Q&A: Could sell Dev Bath Water? [https://www.youtube.com/watch?v=-Lqo5URgAfM](https://www.youtube.com/watch?v=-Lqo5URgAfM)
 
 ## March 12th, 2020 Patch Notes
-* Snutt & Jace Talk: Jace climbs into an airplane engine [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=118&end=124](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=118&end=124)
+* [Snutt & Jace Talk: Jace climbs into an airplane engine](../transcriptions/yt-DsbHR1Nc8fw,118.57679166666667,123.28983333333332.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=118&end=124](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=118&end=124)
 * [Jace Talk: Searching for pipes in Geneva](../transcriptions/yt-DsbHR1Nc8fw,254.54595833333332,274.02375.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275)
 * [Jace Talk: On the Tram to CERN](../transcriptions/yt-DsbHR1Nc8fw,326.15916666666664,348.88025.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=326&end=349](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=326&end=349)
 
@@ -228,8 +228,8 @@ date: Last Modified
 * [Snutt & Hannah Talk: Hannah wants to delete the map.](../transcriptions/yt-_bVk1N0dvDY.md) [https://www.youtube.com/watch?v=_bVk1N0dvDY](https://www.youtube.com/watch?v=_bVk1N0dvDY)
 
 ## December 19th, 2019 Video
-* April Update Info + Milo tutorial (April 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25)
-* Developer Highlights - What kind of hardware do you use? [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149)
+* [April Update Info + Milo tutorial (April 2019)](../transcriptions/yt-52nYaN8imgo,21.58,24.46.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25)
+* [Developer Highlights - What kind of hardware do you use?](../transcriptions/yt-52nYaN8imgo,142.38,148.52.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149)
 * [Developer Highlight - Music/ Developer Highlight - Sound Design [BTS] (September 2018)](../transcriptions/yt-52nYaN8imgo,220.56,232.76.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=220&end=233](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=220&end=233)
 
 ## April 26th, 2019 Milo Tutorial
@@ -249,11 +249,11 @@ date: Last Modified
 * [Q&A: How big is the game in file size?](../transcriptions/yt-CB9bSigNYH8,4718.242065,4747.934062.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4718&end=4748](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4718&end=4748)
 * [Q&A: Is your Unreal Engine pirated?](../transcriptions/yt-CB9bSigNYH8,4803.983031,4818.284845.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4803&end=4819](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4803&end=4819)
 * [Community FYI: Satisfied with the look of the factory in Satisfactory](../transcriptions/yt-CB9bSigNYH8,4987.2,4999.795958.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4987&end=5000](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4987&end=5000)
-* Q&A: Does Coffee Stain pay you in foot-long subs? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292)
+* [Q&A: Does Coffee Stain pay you in foot-long subs?](../transcriptions/yt-CB9bSigNYH8,5287.2614,5291.710206.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292)
 * [Q&A: Will co-op be available from the start in Early Access?](../transcriptions/yt-CB9bSigNYH8,5436.988277,5448.739181.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5436&end=5449](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5436&end=5449)
 
 ## February 6th, 2019 Livestream
-* Q&A: Is Simon going to be the last Boss? [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018)
+* [Q&A: Is Simon going to be the last Boss?](../transcriptions/yt-Dtm6xIj-wM4,2009.5,2017.005329.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2009&end=2018)
 
 ## December 25th, 2018 Video
 * [Intro](../transcriptions/yt-S_AKfh38880,,73.8.md) [https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74](https://youtube.com/embed/S_AKfh38880?autoplay=1&start=0&end=74)

@@ -5,8 +5,8 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Oscar
 
 ## December 19th, 2019 Video
-* Coffee Stain are hiring a Community Manager! [BTS] (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=25&end=35](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=25&end=35)
-* Developer Highlight - Game Design (July 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=58&end=67](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=58&end=67)
+* [Coffee Stain are hiring a Community Manager! [BTS] (November 2018)](../../transcriptions/yt-52nYaN8imgo,25.22,34.16.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=25&end=35](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=25&end=35)
+* [Developer Highlight - Game Design (July 2018)](../../transcriptions/yt-52nYaN8imgo,58.54,66.84.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=58&end=67](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=58&end=67)
 
 ## July 4th, 2018 Video
 * [That infamous moment with the coffee](../../transcriptions/yt-vUW3pockA5Y,280.289085,302.64.md) [https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=280&end=303](https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=280&end=303)

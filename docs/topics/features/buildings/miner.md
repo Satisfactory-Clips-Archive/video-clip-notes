@@ -36,7 +36,7 @@ date: Last Modified
 * [Q&A: Adjustable Scanner so when you scan for nodes it doesn't show ones that have a Miner on them.](../../../transcriptions/yt-goLJr05seZs.md) [https://www.youtube.com/watch?v=goLJr05seZs](https://www.youtube.com/watch?v=goLJr05seZs)
 
 ## December 19th, 2019 Video
-* Developer Highlight - Level Design (October 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=314&end=319](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=314&end=319)
+* [Developer Highlight - Level Design (October 2019)](../../../transcriptions/yt-52nYaN8imgo,314.06,318.02.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=314&end=319](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=314&end=319)
 
 ## July 2nd, 2019 Patch Notes
 * [Jace Talk: Upgraded buildings available](../../../transcriptions/yt-mtVwiCQ5sZI,208.79191666666665,222.76420833333333.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223)

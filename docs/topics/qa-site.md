@@ -123,9 +123,6 @@ date: Last Modified
 * Jace Talk: The Q&A Site (Part 2): [https://clips.twitch.tv/RenownedQuaintBeaverAMPTropPunch](https://clips.twitch.tv/RenownedQuaintBeaverAMPTropPunch)
 * Jace Talk: The Q&A Site (Part 3): [https://clips.twitch.tv/ZealousNastyCiderPeteZarollTie](https://clips.twitch.tv/ZealousNastyCiderPeteZarollTie)
 
-## July 30th, 2020 Q&A
-* [Jace Talk: The QA Site](../transcriptions/yt-1dUNmBBbExs,116.33333333333333,156.424212.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=116&end=157](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=116&end=157)
-
 ## March 24th, 2020 Livestream
 * [Jace Talk: Use the QA Site](../transcriptions/yt-Bm_Yh-0jjtI.md) [https://www.youtube.com/watch?v=Bm_Yh-0jjtI](https://www.youtube.com/watch?v=Bm_Yh-0jjtI)
 

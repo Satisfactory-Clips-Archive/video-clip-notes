@@ -43,7 +43,7 @@ date: Last Modified
 
 ## February 20th, 2019 Livestream
 * [Q&A: Does Coffee Stain pay you in Coffee?](../../transcriptions/yt-CB9bSigNYH8,5245.97296,5251.640578.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5245&end=5252](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5245&end=5252)
-* Q&A: Does Coffee Stain pay you in foot-long subs? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292)
+* [Q&A: Does Coffee Stain pay you in foot-long subs?](../../transcriptions/yt-CB9bSigNYH8,5287.2614,5291.710206.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5287&end=5292)
 
 ## March 9th, 2018 Q&A
 * [Q&A: Coffee or tea?](../../transcriptions/yt-Zo2ybvs7keI,492.44,502.32.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503)

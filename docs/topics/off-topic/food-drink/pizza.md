@@ -34,7 +34,7 @@ date: Last Modified
 * [Q&A: Bananas on Pizza?](../../../transcriptions/yt-RbDtGuXHEH0.md) [https://www.youtube.com/watch?v=RbDtGuXHEH0](https://www.youtube.com/watch?v=RbDtGuXHEH0)
 
 ## December 19th, 2019 Video
-* Update #2: Trains & Nuclear (July 2019) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=345&end=360](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=345&end=360)
+* [Update #2: Trains & Nuclear (July 2019)](../../../transcriptions/yt-52nYaN8imgo,345.8,359.58.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=345&end=360](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=345&end=360)
 
 ## July 2nd, 2019 Patch Notes
 * [Pizza](../../../transcriptions/yt-mtVwiCQ5sZI,344.7610833333333.md) [https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=344](https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=344)

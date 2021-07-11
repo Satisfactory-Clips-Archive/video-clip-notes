@@ -168,7 +168,7 @@ date: Last Modified
 * [Q&A: I wanna see a Mod highlight part 2?](../transcriptions/yt-ZaVKeo3QXqg.md) [https://www.youtube.com/watch?v=ZaVKeo3QXqg](https://www.youtube.com/watch?v=ZaVKeo3QXqg)
 * Q&A: Will the Server source code be available for Custom Mods, or with pre-compiled binaries? [https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc](https://clips.twitch.tv/ShinyFunnyJellyfishSMOrc)
 
-## July 8th, 2020 Mod Highlight
+## July 30th, 2020 Mod Highlight
 * [Snutt Talk: How unofficial mods work (Part 1)](../transcriptions/yt-1dUNmBBbExs,158.1,644.481447.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=158&end=645](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=158&end=645)
 * [Community FYI: Uses standard popup with custom disconnect message](../transcriptions/yt-1dUNmBBbExs,655.75986,667.119423.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668)
 * [Q&A: Where's the Tony Hawk Pro Skater mod so you can grind that sick rail](../transcriptions/yt-1dUNmBBbExs,1086.385008,1097.2333333333333.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1086&end=1098](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1086&end=1098)
@@ -189,7 +189,7 @@ date: Last Modified
 
 ## February 20th, 2019 Livestream
 * [Q&A: Graphical modding, like different texture packs?](../transcriptions/yt-CB9bSigNYH8,1766.070784,1792.112783.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1766&end=1793](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1766&end=1793)
-* Q&A: Will enemies have Jace's hair? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
+* [Q&A: Will enemies have Jace's hair?](../transcriptions/yt-CB9bSigNYH8,3208.601002,3215.171287.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
 * [Q&A: Will the players be able to make their own Maps?](../transcriptions/yt-CB9bSigNYH8,5159.481807,5167.186143.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168)
 
 ## February 6th, 2019 Livestream

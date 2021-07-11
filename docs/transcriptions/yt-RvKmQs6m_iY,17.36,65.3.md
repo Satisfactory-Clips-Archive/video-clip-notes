@@ -1,32 +1,17 @@
 ---
-title: "June 7th, 2019 - Jace Talk: Satisfactory sales figures"
+title: "June 7th, 2019 Video Jace Talk: Satisfactory sales figures"
 date: "2019-06-07"
 layout: transcript
-topics: 
+topics:
     - "retail"
 ---
-# [June 7th, 2019 Total number of sales for Satisfactory](../2019-06-07.md)
+# [June 7th, 2019 Video](../2019-06-07.md)
 ## Jace Talk: Satisfactory sales figures
 https://youtube.com/embed/RvKmQs6m_iY?autoplay=1&start=17&end=66
+
 ### Topics
 * [Retail](../topics/retail.md)
 
 ### Transcript
 
-> the past I've jerked many times on
-> Twitter about how many copies of
-> satisfactory you actually sold I think I
-> said I claimed that we sold 10 and then
-> 9 and then back up to 15 and then back
-> down to 9 and then there was a refund
-> down to 8 and now we're back at 10 but
-> but today I'm giving you the real
-> numbers I'm serious no joking no miler
-> just the real numbers so we have sold
-> drum drumroll then 300 wait 500 wait 507
-> wait five hundred and seven thousand
-> three hundred and seventy four first try
-> and that's a lot of that's a lot of
-> coffee thread of every unit and in fact
-> this is our best launch ever for coffee
-> stains so this is just super cool it has
+> so I'm trying to new lens here I don't know if it's gonna work or not if it looks funny it's all in the name of science hey everyone my name is Jase parle I'm a programmer in the community manager here at coffee stain studios and you've read the title of this video you know what it's about so let's do this in the past I've jerked many times on Twitter about how many copies of satisfactory you actually sold I think I said I claimed that we sold 10 and then 9 and then back up to 15 and then back down to 9 and then there was a refund down to 8 and now we're back at 10 but but today I'm giving you the real numbers I'm serious no joking no miler just the real numbers so we have sold drum drumroll then 300 wait 500 wait 507 wait five hundred and seven thousand three hundred and seventy four first try and that's a lot of that's a lot of coffee thread of every unit and in fact this is our best launch ever for coffee stains so this is just super cool it has exceeded all of our expectations it's just amazing cool we just want to extend a huge thank you to everyone who bought the game and also to just the community at large the ones who are you know active in the community thank you all so much you're all funny supportive passionate it is such a pleasure to be able to work with you all as a community manager I love hanging out on discord with you all whenever I get the time to do so it's it's it really is a lot of fun and then I also just want to say big thank you to the content creators who have in streaming the game YouTube in the game and getting helping us get the name of satisfactory out there so thank you all to everyone who helped in the beginning for that initial push and then including the people who still create satisfactory content today thank you all so much and a big thank you to everyone who submits bug reports and feedback thank you all so much for doing that taking the time to do it we may not be able to respond to every single one of you but as a big collection of information from all the feedback and reports you've sent us we're able to extract really useful stuff and we use that day-to-day to improve the game so thank you all so much for the help with that as well yeah so it was a little scary in the beginning embarking on this journey in my opinion we all we all knew that satisfactory could be a good game the prototype was really fun and addictive but it was and it still is it wasn't still is a really really difficult game to make and so no matter how confident we could be upon release we would never know what the reception would be like and it's a factory game which is like a niche genre right and so I remember like along the journey myself and I'm sure others as well had always thought like ah is this right is this gonna work it was many times it was very scary but hey like it worked out right so it's a great game now and it seems like a lot of people are enjoying it and it feels so good and so I remember last year when we unveiled the reveal trailer at the PC gaming show on e3 I remember that night it was wild everyone else had finished their work and they were down in that big meeting room down there and I was stuck here at my desk because the second things got revealed I had to go home like update all the social medias and stuff right and so as soon as I did and I'm like oh update the pictures update in the pictures and then I look over the discord and within minutes we've got thousands of people and I never ran a discord server before my mods won't be surprised to hear that at all and so I was freaking out it was just the adrenaline was was running and I picked up some random muds and they turned out to be amazing and there's still my months today and they saved me on the discord and then things took off and read it on Twitter everywhere it was it was at that moment that I knew I had work to do as the community manager so it was very exciting I don't know if I'll ever have Brooks have an experience like that ever again and so from the bottom of our hearts at least those of us who have arts thank you thank you thank you thank you so much for this response and the support it's been amazing and this next part is going to sound super like corporate II but we look forward to working with you all to completing the game and release the full game there's like one point I we looked forward to that and it sounds corporate II it's because I read it in my spread in my scripts but it is true I really do look forward to that we all do just can't wait to get out of early access and like imagine that mmm it's gonna be good all right catch you all later bye you proud of those units proud of every unit

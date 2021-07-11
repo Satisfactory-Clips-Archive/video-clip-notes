@@ -55,4 +55,4 @@ date: Last Modified
 * [Q&A: Can you tell us more about Early Access?](../../transcriptions/yt-VHr4x1vNeoY,195.46,244.9.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=195&end=245](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=195&end=245)
 
 ## December 12th, 2018 Q&A
-* Q&A: Is there an Early Access feature on the Epic Store? [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=270&end=274](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=270&end=274)
+* [Q&A: Is there an Early Access feature on the Epic Store?](../../transcriptions/yt-7V4UPiBOshY,270.48,273.12.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=270&end=274](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=270&end=274)

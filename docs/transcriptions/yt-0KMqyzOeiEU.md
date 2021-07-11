@@ -10,7 +10,7 @@ topics:
 ## Q&A: Dedicated Servers?
 https://www.youtube.com/watch?v=0KMqyzOeiEU
 <details>
-<summary>This question may have been asked previously at least 51 other times, as recently as June 2021 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 50 other times, as recently as June 2021 and as early as February 2019.</summary>
 
 * [June 1st, 2021 Livestream Q&A: Updates on Dedicated Servers?](./yt-JGj3aITwDg8.md) [https://www.youtube.com/watch?v=JGj3aITwDg8](https://www.youtube.com/watch?v=JGj3aITwDg8)
 * [May 11th, 2021 Livestream Q&A: Update on Dedicated Servers please?](./yt-98O8FhNdxAI.md) [https://www.youtube.com/watch?v=98O8FhNdxAI](https://www.youtube.com/watch?v=98O8FhNdxAI)
@@ -55,7 +55,6 @@ https://www.youtube.com/watch?v=0KMqyzOeiEU
 * August 11th, 2020 Livestream Q&A: Are Dedicated Servers coming? [https://clips.twitch.tv/BigDeadPhoneKappaWealth](https://clips.twitch.tv/BigDeadPhoneKappaWealth)
 * August 11th, 2020 Livestream Q&A: Dedicated Servers, start building a community around that? [https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow](https://clips.twitch.tv/EagerPeacefulMonkeyDoubleRainbow)
 * August 11th, 2020 Livestream Q&A: What's the hold-up on Dedicated Servers? [https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride](https://clips.twitch.tv/ShinyAthleticCrocodileKappaPride)
-* [July 30th, 2020 Q&A: Dedicated Servers when?](./yt-1dUNmBBbExs,73.73333333333333,88.2.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=73&end=89)
 * [June 8th, 2020 Livestream Q&A: Dedicated Servers?](./yt-XuFfkTTZnoA.md) [https://www.youtube.com/watch?v=XuFfkTTZnoA](https://www.youtube.com/watch?v=XuFfkTTZnoA)
 * [May 15th, 2020 Q&A: Would Dedicated Servers break the game?](./yt-NlIVwoRqjVk,70.83743333333334,142.50903333333335.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=70&end=143](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=70&end=143)
 * [February 11th, 2020 Livestream Q&A: Any news on Dedicated Servers?](./yt-pUhzc1Fd8sg.md) [https://www.youtube.com/watch?v=pUhzc1Fd8sg](https://www.youtube.com/watch?v=pUhzc1Fd8sg)

@@ -16,7 +16,7 @@ date: Last Modified
 * [Jace, Snutt, & Birk Talk: Kristoffer](../../transcriptions/yt-tDRTj2KHrCc.md) [https://www.youtube.com/watch?v=tDRTj2KHrCc](https://www.youtube.com/watch?v=tDRTj2KHrCc)
 
 ## December 19th, 2019 Video
-* Developer Highlights - What kind of hardware do you use? [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149)
+* [Developer Highlights - What kind of hardware do you use?](../../transcriptions/yt-52nYaN8imgo,142.38,148.52.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149)
 * [Developer Highlights - Helping Jace with programming](../../transcriptions/yt-52nYaN8imgo,152.94,169.54.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170)
 
 ## May 24th, 2019 Video

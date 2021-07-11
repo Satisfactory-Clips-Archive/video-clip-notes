@@ -137,7 +137,7 @@ date: Last Modified
 * [Jace Talk: Petting the Lizard Doggo](../../../transcriptions/yt-1ZxQ9RoC930.md) [https://www.youtube.com/watch?v=1ZxQ9RoC930](https://www.youtube.com/watch?v=1ZxQ9RoC930)
 
 ## February 20th, 2019 Livestream
-* Q&A: Can you have your own pet in the game? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5050&end=5057](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5050&end=5057)
+* [Q&A: Can you have your own pet in the game?](../../../transcriptions/yt-CB9bSigNYH8,5050.579615,5056.929969.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5050&end=5057](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5050&end=5057)
 
 ## February 6th, 2019 Livestream
 * [Q&A: You mentioned enemies earlier but now you say there'll be nothing to worry about?](../../../transcriptions/yt-Dtm6xIj-wM4,2685.5,2726.329682.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727)

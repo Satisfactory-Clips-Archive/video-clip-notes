@@ -155,7 +155,7 @@ date: Last Modified
 
 ## February 20th, 2019 Livestream
 * [Q&A: Cave-dwelling creatures?](../../transcriptions/yt-CB9bSigNYH8,1588.139576,1605.870345.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1588&end=1606](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1588&end=1606)
-* Q&A: Will enemies have Jace's hair? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
+* [Q&A: Will enemies have Jace's hair?](../../transcriptions/yt-CB9bSigNYH8,3208.601002,3215.171287.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3208&end=3216)
 * [Q&A: Is it possible to get chickens in the game?](../../transcriptions/yt-CB9bSigNYH8,3991.90858,4001.34046.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3991&end=4002](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3991&end=4002)
 * [Q&A: What are the splines for?](../../transcriptions/yt-CB9bSigNYH8,4226.827791,4247.935173.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4226&end=4248](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4226&end=4248)
 * [Q&A: Aren't we the aliens when get to the planet?](../../transcriptions/yt-CB9bSigNYH8,4284.443325,4301.268185.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302)

@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=jBOgtsE6VYQ
 * [May 4th, 2021 Livestream Q&A: What about work-in-progress things like Mercer Spheres?](./yt-y_iC9FJAhYk.md) [https://www.youtube.com/watch?v=y_iC9FJAhYk](https://www.youtube.com/watch?v=y_iC9FJAhYk)
 * [January 26th, 2021 Livestream Q&A: News for the Work In Progress collectables for anything in Update 4?](./yt-5vlFsF0dm3E.md) [https://www.youtube.com/watch?v=5vlFsF0dm3E](https://www.youtube.com/watch?v=5vlFsF0dm3E)
 * [October 6th, 2020 Livestream Q&A: When are these Work In Progress (WIP) items going to be used?](./yt-bmRdzV3-wJI.md) [https://www.youtube.com/watch?v=bmRdzV3-wJI](https://www.youtube.com/watch?v=bmRdzV3-wJI)
-* October 1st, 2020 Q&A: What is the story with the Mercer Sphere? [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436)
+* [October 1st, 2020 Q&A: What is the story with the Mercer Sphere?](./yt-rATcozDE25c,429.5291,435.5351.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=429&end=436)
 * [September 15th, 2020 Livestream Q&A: Any chance Update 4 unlocks the Work In Progress items?](./yt-Z870GlRbfjk.md) [https://www.youtube.com/watch?v=Z870GlRbfjk](https://www.youtube.com/watch?v=Z870GlRbfjk)
 * [September 15th, 2020 Livestream Q&A: When do the Work In Progress items get a purpose?](./yt-koMqOABA6x8.md) [https://www.youtube.com/watch?v=koMqOABA6x8](https://www.youtube.com/watch?v=koMqOABA6x8)
 * August 18th, 2020 Livestream Q&A: When are Somersloops and Orbs have meaning? [https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride](https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride)

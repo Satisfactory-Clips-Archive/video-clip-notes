@@ -180,4 +180,4 @@ date: Last Modified
 * [Snutt Talk: HUB screens](../../../transcriptions/yt-ofpDJ6kv9Iw.md) [https://www.youtube.com/watch?v=ofpDJ6kv9Iw](https://www.youtube.com/watch?v=ofpDJ6kv9Iw)
 
 ## February 20th, 2019 Livestream
-* Q&A: What's the rocket gonna look like inside & outside? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2796&end=2807](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2796&end=2807)
+* [Q&A: What's the rocket gonna look like inside & outside?](../../../transcriptions/yt-CB9bSigNYH8,2796.809704,2806.025515.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2796&end=2807](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2796&end=2807)

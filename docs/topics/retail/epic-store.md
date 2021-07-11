@@ -57,9 +57,9 @@ date: Last Modified
 * [Q&A: Regional Pricing?](../../transcriptions/yt-VHr4x1vNeoY,69.16,117.14.md) [https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118](https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=69&end=118)
 
 ## December 12th, 2018 Q&A
-* Q&A: Is the Alpha being done via Epic? [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415)
+* [Q&A: Is the Alpha being done via Epic?](../../transcriptions/yt-7V4UPiBOshY,412.48,414.76.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415)
 * [Community FYI: But Epic Launcher doesn't have [insert feature]](../../transcriptions/yt-7V4UPiBOshY,414.76,436.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=414&end=436](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=414&end=436)
-* Q&A: Is there a refund policy? [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=486&end=492](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=486&end=492)
+* [Q&A: Is there a refund policy?](../../transcriptions/yt-7V4UPiBOshY,486.04,491.14.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=486&end=492](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=486&end=492)
 * [Q&A: Is there regional pricing on the Epic Games Store?](../../transcriptions/yt-7V4UPiBOshY,491.14,533.84.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=491&end=534](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=491&end=534)
 * [Q&A: Is the Epic Games Store DRM-free?](../../transcriptions/yt-7V4UPiBOshY,533.84,558.4.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=533&end=559](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=533&end=559)
 * [Q&A: What about the security breaches in the past with Epic?](../../transcriptions/yt-7V4UPiBOshY,558.4,612.98.md) [https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=558&end=613](https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=558&end=613)

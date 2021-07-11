@@ -41,4 +41,4 @@ date: Last Modified
 
 ## February 20th, 2019 Livestream
 * [Q&A: What about Snow in the game's future?](../../../../transcriptions/yt-CB9bSigNYH8,5186.033333333334,5200.942785.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201)
-* Q&A: Will there be seasons? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5450&end=5455](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5450&end=5455)
+* [Q&A: Will there be seasons?](../../../../transcriptions/yt-CB9bSigNYH8,5450.593416,5454.661311.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5450&end=5455](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5450&end=5455)

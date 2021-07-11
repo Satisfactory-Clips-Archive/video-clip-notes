@@ -1,24 +1,23 @@
 ---
-title: "April 2nd, 2020 - Q&A: What will the price be on Steam?"
+title: "April 2nd, 2020 Q&A Q&A: What will the price be on Steam?"
 date: "2020-04-02"
 layout: transcript
-topics: 
+topics:
     - "retail/steam-store/steam-release"
 ---
-# [April 2nd, 2020 Updated info on Steam // Jace & Snutt leaving](../2020-04-02.md)
+# [April 2nd, 2020 Q&A](../2020-04-02.md)
 ## Q&A: What will the price be on Steam?
 https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=145&end=169
+This question was possibly duplicated with a more recent answer: [June 8th, 2020 Livestream Q&A: How much is it going to cost on Steam?](./yt-_UZr4JLSA1c.md) [https://www.youtube.com/watch?v=_UZr4JLSA1c](https://www.youtube.com/watch?v=_UZr4JLSA1c)
+
+
 ### Topics
 * [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript
 
-> the price of the game be on Steam yeah
-> so the price of satisfactory will be the
-> same on Steam as it is on epic so that
-> is 2995 u.s. dollars or $29.99 euro or
-> the relevant changes between different
-> regions
-> okay so cuz we have regional pricing
-> some of the regional pricing may differ
-> between the stores but for the most part
+> oh hi there my name is Jason the community manager coffee stain studios hey everyone my name is Jason I'm a community manager coffee stain studios I guess and today we're I'm just going to be putting out a bit of information yeah I'm in my home because because isolation social distancing quarantine all of that good stuff I just want to let you all know first of all that a lot of people have been asking about how we're doing here coffee stain not here but there and everyone is safe and healthy so far hopefully that doesn't change anytime soon or ever and we are all working from home are a couple people but this is basically no one at the office anymore so we're we're playing it safe and we're taking care of ourselves we are continual continuing to work from home and we're talking to each other online and all that stuff it's a bit tricky not gonna lie but I think development has slowed down just a little while we adjust to what's going on and how things are gonna work but yeah we're doing our best and things are still moving forward and thank you very much for all the concern so the main topic of today is steam a lot of people want to know what's going on not much has been said yet the reason for that is we as you all know we don't know what's going on 99% of the time and yeah we just we just didn't really know and sometimes we have some ideas of what we want to do but when it's just ideas we don't really want to put that those ideas or guesses out there too much because a lot of folks tend to latch on to that and think it's the truth and it gets their hopes up no we don't want to do that we'd rather wait until we're a little more confident on things and so now we've got some information where we are a little more confident on things so now I can present it to you all so now I can present it to you all now okay so when is the steam release going to come again we don't have an exact date but we do have a better timeframe we were sort of thinking like maybe in April but that's not gonna happen we're pretty confident on May now I don't know if it's beginning middle or end I'm just gonna say middle because if it's a little early then you're gonna be happy if it's a little little late it won't be too late so sometime in May folks yeah really looking forward to bring that out for you guys what will the price of the game be on Steam yeah so the price of satisfactory will be the same on Steam as it is on epic so that is 2995 u.s. dollars or $29.99 euro or the relevant changes between different regions okay so cuz we have regional pricing some of the regional pricing may differ between the stores but for the most part the game should be the same price everywhere will my save files work between the Steam and the epic version yep they totally will so if you happen to own steam and epic they're both gonna work we have no intention of making the save format for each platform different so the early difference is your save files might be located in different places on your computer if I in the game on epic can I transfer that to steam or get a free copy on Steam no you can't do that have no idea how that would work another thing to consider here is epic and steam our competitors you've given your money to epic why would steam give you a free version that's just not gonna happen if you own an epic it's yours an epic will there be cross-platform can I play multiplayer with my friends between Steam and epic yeah yes yeah we're gonna make it uh-huh now the thing with that is we're like 99% sure we're gonna have cross-platform and I'm pretty sure we're gonna have it the only thing is how that's gonna look and how it's gonna work is a little bit up in the air as we continue to develop it now so I can't give you any more information on how that will work and yeah so in the future we'll probably do more information on that okay so that's most of the frequently asked questions about steam so I hope that ties your a little more more information will come later will we also want to like give more information about what will be in the update it's not just steam there's gonna be some new stuff in there as well so hopefully we can do that over the coming weeks yeah so the like okay so the the last thing to address here is you've seen it in the descript Idol of the video snoot and I are leaving coffee-stained we announced that on Twitter we started a new YouTube channel called let's get out yeah you know it's like we figured it was time I've been with Coffee State for five and a half years it's time to move on to other things it's been really fun with you all so it was exciting to announce that I had my heart racing the whole time the other thing though is that we released it on April 1st it was an April Fool's joke so we're fine wish you were here yeah we're still here we're not leaving the channel is real the video is real but we're not leaving coffee-stained it was just a joke it was a very very cruel joke I just want to say though a really big thanks to everyone who supported us a lot of people were like we're gonna miss you and all this stuff and that is really nice I'm sorry I'm sorry we played with your heartstrings I'm also not sorry because I love trolling so much we're not going anywhere I've also sorry that we're not going anywhere yeah so that's the last video for this week but you'll have another one next week anyway that's enough for this video I've gone bananas here in quarantine and isolation remember to take care of yourselves and yeah be safe and I will see you maybe next week it's a bit weird making videos from my home but maybe I'll see you next week but we will also have streams on Tuesday as always at 4 p.m. Sweden time CET 3:00 p.m. GMT so yeah you can catch us there then twitch.tv slash coffee stain studios devs have a lovely day everybody and I'll catch you next time bye
+>
+> [Music]
+>
+> this by good

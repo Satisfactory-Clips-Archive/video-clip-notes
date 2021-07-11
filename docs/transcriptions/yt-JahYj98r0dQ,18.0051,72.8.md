@@ -1,38 +1,17 @@
 ---
-title: "December 2nd, 2019 - Jace Talk: We do see the bug reports and crash reports on the Experimental version of the game"
+title: "December 2nd, 2019 Patch Notes Jace Talk: We do see the bug reports and crash reports on the Experimental version of the game"
 date: "2019-12-02"
 layout: transcript
-topics: 
+topics:
     - "satisfactory-updates/release-builds"
 ---
-# [December 2nd, 2019 Bonus Experimental Bugfix patch](../2019-12-02.md)
+# [December 2nd, 2019 Patch Notes](../2019-12-02.md)
 ## Jace Talk: We do see the bug reports and crash reports on the Experimental version of the game
 https://youtube.com/embed/JahYj98r0dQ?autoplay=1&start=18&end=73
+
 ### Topics
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 
 ### Transcript
 
-> quick update video just want to let you
-> all know that we do see the bug reports
-> and the crash reports you all getting on
-> the experimental version of the game we
-> did expect this to happen we said last
-> week I said last week in the last week's
-> video that we also don't intend to fix
-> those bugs yet on the experimental
-> version what we intend to do is fix them
-> internally here on update number 3 and
-> then when we release update number 3 all
-> the fixes will go with it having said
-> that we just fixed some bugs on
-> experimental I get paid to do this by
-> the way we fixed the trains and we fixed
-> a wall called wall conveyor
-> perpendicular or something like that so
-> those are now fixed this is just kind of
-> like a bonus update we really didn't
-> intend to do this and we really don't
-> intend to do any more bug fixes but we
-> may we may not who knows if the
-> experimental version of the game is too
+> did you hear me Cort chase yeah it's recording alright alright alright thank you I'd like to thank my parents my mom yeah alright hey everyone my name is Jace I'm the community manager here at coffee stain studios and today really quick update video just want to let you all know that we do see the bug reports and the crash reports you all getting on the experimental version of the game we did expect this to happen we said last week I said last week in the last week's video that we also don't intend to fix those bugs yet on the experimental version what we intend to do is fix them internally here on update number 3 and then when we release update number 3 all the fixes will go with it having said that we just fixed some bugs on experimental I get paid to do this by the way we fixed the trains and we fixed a wall called wall conveyor perpendicular or something like that so those are now fixed this is just kind of like a bonus update we really didn't intend to do this and we really don't intend to do any more bug fixes but we may we may not who knows if the experimental version of the game is too buggy for you consider going back to early access and that might help you so that's all for today count how many times I said experimental in this video and leave it in the comments below and I'll catch you all next time bye oh I'm some mad no no nope no I also didn't like the entire thing so

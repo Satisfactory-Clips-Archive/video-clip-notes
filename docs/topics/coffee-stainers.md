@@ -186,7 +186,7 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Q&A: Do you have a QA department? [https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull](https://clips.twitch.tv/WanderingWonderfulTitanTBCheesePull)
 
-## July 8th, 2020 Mod Highlight
+## July 30th, 2020 Mod Highlight
 * [Community FYI: You guys helped us a lot in making mods](../transcriptions/yt-1dUNmBBbExs,2393.307296,2438.703271.md) [https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439](https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2393&end=2439)
 
 ## May 15th, 2020 Q&A
@@ -215,7 +215,7 @@ date: Last Modified
 * [State of Dev: Biggest thing that's going on in the office right now.](../transcriptions/yt--HN8rUEaVwY.md) [https://www.youtube.com/watch?v=-HN8rUEaVwY](https://www.youtube.com/watch?v=-HN8rUEaVwY)
 
 ## December 19th, 2019 Video
-* Coffee Stain are hiring a Community Manager! [BTS] (November 2018) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=148&end=153](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=148&end=153)
+* [Coffee Stain are hiring a Community Manager! [BTS] (November 2018)](../transcriptions/yt-52nYaN8imgo,148.52,152.94.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=148&end=153](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=148&end=153)
 
 ## October 24th, 2019 Video
 * [Hannah Talk: Satisfactory work process](../transcriptions/yt-8WYNwGDLYNE,189.52,302.56.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=189&end=303](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=189&end=303)
@@ -238,7 +238,7 @@ date: Last Modified
 * [Q&A: But do they take your opinion (about steam) serious?](../transcriptions/yt-sZDS8dOdyvQ.md) [https://www.youtube.com/watch?v=sZDS8dOdyvQ](https://www.youtube.com/watch?v=sZDS8dOdyvQ)
 
 ## February 20th, 2019 Livestream
-* Q&A: How many Dutch people at Coffee Stain? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438)
+* [Q&A: How many Dutch people at Coffee Stain?](../transcriptions/yt-CB9bSigNYH8,427.46666666666664,437.20508.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=427&end=438)
 * [Q&A: What does Coffee Stain make the foliage in?](../transcriptions/yt-CB9bSigNYH8,560.1333333333333,589.385044.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=560&end=590](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=560&end=590)
 * [Q&A: Who creates the decorations & assets?](../transcriptions/yt-CB9bSigNYH8,776.542803,805.185748.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=776&end=806](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=776&end=806)
 * [Q&A: How many people are there in the studio?](../transcriptions/yt-CB9bSigNYH8,808.45003,837.796486.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838)

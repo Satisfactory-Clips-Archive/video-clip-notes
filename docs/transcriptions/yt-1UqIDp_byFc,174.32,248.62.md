@@ -1,49 +1,19 @@
 ---
-title: "November 23rd, 2018 - Jace's opinion re: THQ Nordic"
+title: "November 23rd, 2018 Dev Blog Jace's opinion re: THQ Nordic"
 date: "2018-11-23"
 layout: transcript
-topics: 
+topics:
     - "coffee-stainers/jace"
     - "embracer-group/thq-nordic"
 ---
-# [November 23rd, 2018 Q&A #4: Questions about THQ Nordic + my opinion](../2018-11-23.md)
+# [November 23rd, 2018 Dev Blog](../2018-11-23.md)
 ## Jace's opinion re: THQ Nordic
 https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=174&end=249
+
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Embracer Group > THQ Nordic](../topics/embracer-group/thq-nordic.md)
 
 ### Transcript
 
-> of questions I hope that sort of clears
-> the air a little bit for you but there
-> is something that I am quite passionate
-> about that I want to try and do in this
-> video and that is basically one thing
-> that's important to me is to showcase to
-> everyone out there that every single
-> person in this company and in all
-> companies are individual people with
-> their own lives and with their own
-> brains and their own opinions and so
-> instead of doing what I think most other
-> companies will studios would would want
-> to do and just keep things all positive
-> and roses so what I'm gonna do I'm gonna
-> just give you my honest opinion and my
-> opinion or all of this is I don't really
-> have much of an opinion like this
-> doesn't matter so much for me
-> I am a little bit skeptical or cautious
-> I guess because I have no idea what's
-> gonna happen like people can say
-> everything's gonna be fine and then it's
-> not fine I have no idea but I was that I
-> was cautious and a little skeptical of
-> coffee-stained publishing as well when
-> they came to be but I was super wrong or
-> they're super amazing basically they're
-> they're great and so maybe THQ neurotic
-> is the same thing I don't know inside
-> and outside work what matters to me most
-> is making today as as good as possible
+> hi my name is Jace I'm a program in the community manager here at coffee stain studios and as you may have heard there was some pretty big news last week coffee stain has been bought by THQ Nordic so I have the founder guy here so Lars if you could just step in and introduce yourself say a few words hey I'm Lars I'm the founder of three words I don't need your life story get up okay this is my shirt how am I looking fine I'm in frame great let's continue so there have been understandably a lot of thoughts and opinions floating around online and so I'm gonna do a Q&amp;A video here to hopefully clear up as much as I can did THQ Nordic by coffee-stained yes they did and there is also a very important distinction to make coffee stain and coffee stain studios are not the same thing so coffee stain is a big group and under coffee stain there is coffee stain studios which is where I am right now there's also coffee stain north in Stockholm lava potion in Gothenburg and coffee stain publishing who does a bunch of publishing things and why this matters is because THQ Nordic bought coffee stain the group and so everything there stays the same so for example coffee stain publishing is still our publishing arm so the way this works is there's THQ Nordic and directly underneath them is Koch media and then there's THQ Nordic which is not the same as this THQ Nordic that's a publisher in Vienna or something and then there's coffee stain and so we're we're considered as the third leg which is endearing Aria games gonna be full of micro transactions now I already answered that back in I think it was Q&amp;A number two or three I'm not sure and basically it's going to be a $300 subscription but you do get a thousand gems with that and if you run out of gems of course you can buy more gems as well is THQ Nordic out publisher know THQ Nordic is not a publisher coffee-stained publishing remains to be our publisher I think we can go with THQ Nordic if we wanted to but satisfactory is going to be published with coffee-stained publishing well will this affect coffee-stained games or the way coffee-stained functions at all apparently not they say that they like the way that we make games and want us to just keep doing what we do best why did coffee stain sell were you going bankrupt or something no not at all basically coffee stain was founded by nine students back in like eight years ago or something and over the years aspirations changed it became more difficult to decide on things as nine people it's a lot of people and so the majority of them thought that continuing as they were was not best for the company the founders didn't want to just sell coffee saying to anyone they thought that if they found the right buyer who would do right by the company then then they would sell and THQ Nordic was it the majority of the founders they still work here as plebs like everyone else but a couple of them did leave you say things are fine now but what are they gonna do to you in five years yeah I don't know maybe they screw a server in five years I have no idea maybe they don't and even if we remain as indie we still have no idea what's gonna happen in five years maybe we go bankrupt and there's no more coffee stain like anything could have happened okay so that was a bunch of questions I hope that sort of clears the air a little bit for you but there is something that I am quite passionate about that I want to try and do in this video and that is basically one thing that's important to me is to showcase to everyone out there that every single person in this company and in all companies are individual people with their own lives and with their own brains and their own opinions and so instead of doing what I think most other companies will studios would would want to do and just keep things all positive and roses so what I'm gonna do I'm gonna just give you my honest opinion and my opinion or all of this is I don't really have much of an opinion like this doesn't matter so much for me I am a little bit skeptical or cautious I guess because I have no idea what's gonna happen like people can say everything's gonna be fine and then it's not fine I have no idea but I was that I was cautious and a little skeptical of coffee-stained publishing as well when they came to be but I was super wrong or they're super amazing basically they're they're great and so maybe THQ neurotic is the same thing I don't know inside and outside work what matters to me most is making today as as good as possible and if tomorrow change is always up then I'll just deal with it then so if you like this video well smash that like button comment subscribe share it on social media as well again I think doing this kind of transparency is I I'm really passionate about it so if you could share it that would make me so warm and fuzzy inside have a lovely day everybody and I'll see you next time by I'm I'm kidding there's no microtransactions I think I hope

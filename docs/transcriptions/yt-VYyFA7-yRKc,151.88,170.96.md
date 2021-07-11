@@ -1,26 +1,25 @@
 ---
-title: "November 12th, 2020 - Birk Talk: Story"
+title: "November 12th, 2020 Video Birk Talk: Story"
 date: "2020-11-12"
 layout: transcript
-topics: 
+topics:
     - "story-lore"
 ---
-# [November 12th, 2020 Shifting Focus to 1.0, Update 4 in Q1 (maybe) + more w/ Producer Birk](../2020-11-12.md)
+# [November 12th, 2020 Video](../2020-11-12.md)
 ## Birk Talk: Story
 https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=151&end=171
+
 ### Topics
 * [Story & Lore](../topics/story-lore.md)
 
 ### Transcript
 
-> on other things ongoing like for example
-> the story
-> we still need to work on that to make
-> sure that it's the best story that we
-> can deliver
-> we need to be working on it and we're
-> working on it now but you won't be
-> seeing that
-> so there's time happening development
-> time behind the scenes that
-> you won't see the fruits off until much
+> hi there i'm burke welcome to my place i'm the producer at coffee stain studios uh that means i work with another team with project planning it's like kind of answering the question when are we doing what exactly for the game how are we going to do it the best way that we can and what is like the time frame that we think we'll be able to do it in and that we can deliver it to you guys for like for example updates in general so in the future when will inevitably delay an update again you can at least partly blame me for that
+>
+> [Music]
+>
+> nice to meet you i want to talk to you today a little bit about um how we're developing the game uh specifically to the future and we go back a little bit uh until the steam release basically from the time released this game in early access right we focused always on the next update who's the next thing we're going to do after steam release we thought it was time to start thinking further ahead vaguely we'll still stay flexible and how we do things but overall instead of always having our focus basically set on next step we're gonna try and have a focus set on satisfactory 1.0 the finished game what does that mean for you well hopefully not too much of a difference hopefully only positive stuff but yeah we'll still release updates kind of as usual but what kind of changes behind the scenes is that we're working on more things than usual at the same time one of those is core content updates um those are updates to actually to the factory like the packager it's a building uh that serves a certain purpose and now it's released and practically done then we also have ongoing content ongoing features like that include things like the world which is much bigger and needs to be seen in its entirety really an exploration because it's in the world uh it's a big topic like that itself you'll probably still see those in like the updates coming around but we also work on other things ongoing like for example the story we still need to work on that to make sure that it's the best story that we can deliver we need to be working on it and we're working on it now but you won't be seeing that so there's time happening development time behind the scenes that you won't see the fruits off until much later other types of things that we're working on as well next to all of this is the technical content because we have a bunch of still super important technical dependencies that we think need to be done before 1.0 and those include things like improving optimization generally making the game run better for all of you multiplayer improvements fixing the bugs that are there making everything smoother
+>
+> [Music]
+>
+> dedicated servers is its own big topic something that is super important for us to finish and also getting official mod support in all those topics we also need to address and want to address before satisfactory is released in 1.0 so let's talk a little bit about that bet for at this point aren't they four still set for the first quarter of 2021. like i did say we are planning further ahead it doesn't necessarily mean we know better an exact date for like all the next updates or something along those lines uh we're still remaining flexible with that because the exact like we have a lot of things for update for that like we know what we want to do and that we've started doing but like the exact content is still flexible uh so it's too early for a more accurate estimate of when it's gonna be out although i would say don't bet on january i don't think yeah i don't i don't think it could be january since we're speaking about like bigger updates something that has come up the i want to talk about a little bit is like how many more updates are we doing because some people have been like suspecting like update 4 is like the last big update before we release 1.0 or maybe like the second to last or something and that's not the case i mean probably we do change our minds but yeah probably uh there's lots of stuff still to do so there'll be more updates sorry one second just lots of talking really nice to have you here by the way there's a few more things actually that we want to do this year uh two specifically um one small thing and one bigger thing uh not gonna be major new content sorry about that um but something that we want to release very soon dm uh is another rework of the conveyor networking we had done one earlier escaping me right now when exactly but yeah he's on another one because after having the latest free work up for a while and testing it and seeing how that actually works the live environment with all of you guys um realize that there's still things to fix so with this rework something uh one of the major things is that it should eliminate some of the most common crashes uh that are part of the conveyor networking so that's gonna be really nice to get out and in general to make our conveyor networking more stable than it is now so yeah hopefully that's going to not stay in the experimental very long and gonna go to early access pretty soon as well after it's released but we'll see about that anything can happen and the other thing is we have been working on upgrading unreal engine the only engine will be working in uh two version 4.25 there's lots of cool stuff in 4.25 that we want to use to make the game better and also should allow us to bring a bunch of optimization so performance upgrades for you all and we hope you're going to notice uh but we're also doing with that one and that one goes live on experimental we'll be adding some improvements to multiplayer mostly in terms of bandwidth and how the bandwidth is handled so uh we're hoping that that gives some improvement for playing together multiplayer and like specifically one of the things it's supposed to be addressing is the player character lag and like creature lag that clients can experience and experience mostly um to make that better so yeah that one is hopefully during the experimental still this year and maybe maybe charlie asset this year as well this really depends on the buttons because engine upgrades can be quite heavy on bugs yeah that's this year this is kind of everything that i wanted to talk about today uh so yeah thanks for joining me it's fun talking to you maybe we'll do this again sometime maybe we won't either way i hope you have a wonderful time it was a lot of fun and i'll see you all around

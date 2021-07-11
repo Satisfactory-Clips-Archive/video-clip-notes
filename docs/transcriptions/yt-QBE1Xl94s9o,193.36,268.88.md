@@ -1,53 +1,21 @@
 ---
-title: "February 20th, 2020 - Snutt Talk: Dedicated Servers"
+title: "February 20th, 2020 Video Snutt Talk: Dedicated Servers"
 date: "2020-02-20"
 layout: transcript
-topics: 
+topics:
     - "features/planned-features/dedicated-servers"
 ---
-# [February 20th, 2020 State of Update 3, Steam, and Dedicated Servers](../2020-02-20.md)
+# [February 20th, 2020 Video](../2020-02-20.md)
 ## Snutt Talk: Dedicated Servers
 https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=193&end=269
+
 ### Topics
 * [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
 
 ### Transcript
 
-> update on dedicated servers we're still
-> working on them I know a lot of you are
-> really eager to get your hands on
-> dedicated servers and the status right
-> now is that we're still working on them
-> unfortunately we don't really have an
-> estimate yet on when they will be done
-> we're working on them constantly and I
-> just want to take this opportunity as
-> well while we're on the topic of
-> dedicated servers to address that I've
-> seen a lot of people talk online about
-> how dedicated service will fix all the
-> like online issues that we're having
-> right now in the game and I just want to
-> say that that's not necessarily true
-> implementing dedicated servers might
-> solve some issues but in other regards
-> it might make it way worse the truth is
-> that we need to fix a bunch of stuff and
-> there's a lot of stuff that we need to
-> do like we need to do better client
-> prediction and we need to fix up like a
-> bunch of small bugs with multiplayer and
-> just rolling out a dedicated server
-> would not fix all that and that's partly
-> why it's taking so long because we need
-> to kind of fix one thing to fix the
-> other so to speak
-> and this is why it's taking so long to
-> get dedicated service out because we not
-> only need to implement that a good
-> servers and all that jazz we also need
-> to fix up all the like network related
-> issues the game is running into so we
-> can deliver it all into one big
-> sweet package but we are working really
-> hard on this this is something that's
+> hey everyone it means snoot I'm one of the community manager here at coffee stain studios and today I'm gonna give you a quick update on what's going on with update 3 steam and dedicated servers whoa let's check it out so if you haven't heard already we revealed update 3 last week and with update 3 we added a bunch of new stuff so for instance we've added cosmetics to your buildings we've added a resource sink that you can sync any resources that you're not using for anything we've added a little factory card that you can drive around with and other various like bug fixes and other minor additions so up until this point update 3 has been released on our experimental branch as soon as we feel like it's stable enough we're gonna move it over to the early access branch so that everyone can play it right now the current version seems pretty good on experimental but there's still a few kinks that we want to iron out so but we might happen soon enough like the next week or maybe the week after that take that with a bit of grain of salt though because everything we touch to seems to be delayed so it'll be available in early access sooner than you think but later than you hope and a quick reminder if you want to report any feedback or any issues that you're having with the game the best way to do so is to go to our QA site I'll drop a link in the description down here another thing that we revealed last week was the fact that we're coming to steam and we're really excited about that we've been getting a lot of questions on the subject and unfortunately it's still pretty early on for us so we can't really answer all of these questions but I'm gonna try and answer some of the most common questions that we've been getting but bear mine like I said is still pretty early on so some of these may be subject to change when will the game be released on Steam we currently don't have a release date for Steam just yet if you keep track you may remember that on March 19 our exclusivity deal with epic runs out but we will unfortunately not be able to release the game on that date or in March either for that matter we we actually don't know when we'll be able to do it one of the main reasons for that is because there are a lot of systems that we need to implement to be able to support steam and we currently don't have these in place so so we'll announce a date when we know one right now we don't really have one all we know that it will be sometime 2020 which can I get a copy on Steam if I own it on Epic so we don't know this for sure yet but at this point we don't really see how that's gonna happen unfortunately will I be able to play with people from epic on the Steam version cross-play is one of the things where we don't know for sure 100% if we can do it or not however this is something that we definitely want and it's something that we're looking into right now will my save file work in either version yes a me save file that you've made in the epic version should trademark load up in the Steam version and vice-versa we really wish we could give you more information in regards to the steam release but like I said before it's still kind of early so there's still a bunch of unknowns for us one thing that I can say however is that when we do put it out on Steam we're gonna commit equally on both versions of the game and that's also partly why we can't give it out sooner is because we need to know that we can commit to both versions if we were to do that and finally a quick update on dedicated servers we're still working on them I know a lot of you are really eager to get your hands on dedicated servers and the status right now is that we're still working on them unfortunately we don't really have an estimate yet on when they will be done we're working on them constantly and I just want to take this opportunity as well while we're on the topic of dedicated servers to address that I've seen a lot of people talk online about how dedicated service will fix all the like online issues that we're having right now in the game and I just want to say that that's not necessarily true implementing dedicated servers might solve some issues but in other regards it might make it way worse the truth is that we need to fix a bunch of stuff and there's a lot of stuff that we need to do like we need to do better client prediction and we need to fix up like a bunch of small bugs with multiplayer and just rolling out a dedicated server would not fix all that and that's partly why it's taking so long because we need to kind of fix one thing to fix the other so to speak and this is why it's taking so long to get dedicated service out because we not only need to implement that a good servers and all that jazz we also need to fix up all the like network related issues the game is running into so we can deliver it all into one big sweet package but we are working really hard on this this is something that's constantly being developed on please bear with us all right and that's going to be it for this video I really wish we could give you more concrete information about some of these things but it'd be like you do have a fantastic day and we'll see each other some other time
+>
+> [Music]
+>
+> concrete information about the some of this stuff whoa I didn't even hear you come up Jesus Christ ninja not the streamer guy that an actual ninja yeah
