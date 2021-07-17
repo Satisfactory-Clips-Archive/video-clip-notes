@@ -8,8 +8,11 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: Any chance there will be survival mode soon like monsters attack your base at night and stuff?](../../../transcriptions/yt-bJNwHG1M-6c.md) [https://www.youtube.com/watch?v=bJNwHG1M-6c](https://www.youtube.com/watch?v=bJNwHG1M-6c)
+
 ## July 6th, 2021 Livestream
-* Snutt & Jace Talk: DebugText% [https://www.youtube.com/watch?v=R_PE2NXxUlw](https://www.youtube.com/watch?v=R_PE2NXxUlw)
+* [Snutt & Jace Talk: DebugText%](../../../transcriptions/yt-R_PE2NXxUlw.md) [https://www.youtube.com/watch?v=R_PE2NXxUlw](https://www.youtube.com/watch?v=R_PE2NXxUlw)
 
 ## June 29th, 2021 Livestream
 * [Q&A: Any thoughts on an expensive mode?](../../../transcriptions/yt-f05_-GJTYyg.md) [https://www.youtube.com/watch?v=f05_-GJTYyg](https://www.youtube.com/watch?v=f05_-GJTYyg)

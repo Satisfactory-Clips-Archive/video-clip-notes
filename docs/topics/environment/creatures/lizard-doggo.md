@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## July 13th, 2021 Livestream
+* [Community FYI: Wrangler title hints for lassoing Doggos](../../../transcriptions/yt-rBIoeBysK4w.md) [https://www.youtube.com/watch?v=rBIoeBysK4w](https://www.youtube.com/watch?v=rBIoeBysK4w)
+* [Q&A: When do we get to play as the Doggo?](../../../transcriptions/yt-WD5PzPADedo.md) [https://www.youtube.com/watch?v=WD5PzPADedo](https://www.youtube.com/watch?v=WD5PzPADedo)
+
 ## June 22nd, 2021 Livestream
 * Q&A: What's the coolest Concept Art that Torsten has made that's been thrown out? [https://www.youtube.com/watch?v=kI5onSQdJLs](https://www.youtube.com/watch?v=kI5onSQdJLs)
 

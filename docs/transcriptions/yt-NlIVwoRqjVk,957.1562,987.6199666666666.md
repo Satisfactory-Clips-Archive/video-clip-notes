@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Any 3rd person toggle planned?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=957&end=988
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Third Person View?](./yt-wcP5kwfOfSc.md) [https://www.youtube.com/watch?v=wcP5kwfOfSc](https://www.youtube.com/watch?v=wcP5kwfOfSc)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any thoughts about non-first-person Building Mode?](./yt-K2gmJrcqZ20.md) [https://www.youtube.com/watch?v=K2gmJrcqZ20](https://www.youtube.com/watch?v=K2gmJrcqZ20)
 
 
 ### Topics

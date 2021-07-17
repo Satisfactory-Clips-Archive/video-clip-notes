@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## July 13th, 2021 Livestream
+* [Q&A: Any plans to update the QA site?](../transcriptions/yt-6RZ-shXYnEg.md) [https://www.youtube.com/watch?v=6RZ-shXYnEg](https://www.youtube.com/watch?v=6RZ-shXYnEg)
+* Q&A: Do downvotes count double? [https://www.youtube.com/watch?v=5c9z6-vXkPs](https://www.youtube.com/watch?v=5c9z6-vXkPs)
+
 ## June 29th, 2021 Livestream
 * [Community FYI: Golf has more than 600 upvotes](../transcriptions/yt-fTiVON_tW_Y.md) [https://www.youtube.com/watch?v=fTiVON_tW_Y](https://www.youtube.com/watch?v=fTiVON_tW_Y)
 * [Trolling: Dedicated Servers please](../transcriptions/yt-12HEwpNJ8zs.md) [https://www.youtube.com/watch?v=12HEwpNJ8zs](https://www.youtube.com/watch?v=12HEwpNJ8zs)

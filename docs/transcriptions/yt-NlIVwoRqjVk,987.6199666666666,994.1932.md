@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Customisation of our characters?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=987&end=995
-This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Any plans to change the Pioneer trim colour so you can differentiate each other on Multiplayer?](./yt-ox4zHZlziCg.md) [https://www.youtube.com/watch?v=ox4zHZlziCg](https://www.youtube.com/watch?v=ox4zHZlziCg)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any plans for Character Customisation?](./yt-bC4-mnWrSQM.md) [https://www.youtube.com/watch?v=bC4-mnWrSQM](https://www.youtube.com/watch?v=bC4-mnWrSQM)
 
 
 ### Topics

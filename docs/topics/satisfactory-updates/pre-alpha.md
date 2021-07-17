@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Pre-Alpha
 
+## July 13th, 2021 Livestream
+* [Q&A: Two-people Explorer, please](../../transcriptions/yt-hnYfzcUnUQE.md) [https://www.youtube.com/watch?v=hnYfzcUnUQE](https://www.youtube.com/watch?v=hnYfzcUnUQE)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Can we have FICSIT stock trading & an economy system?](../../transcriptions/yt-aXNyMSx6VyM.md) [https://www.youtube.com/watch?v=aXNyMSx6VyM](https://www.youtube.com/watch?v=aXNyMSx6VyM)
 

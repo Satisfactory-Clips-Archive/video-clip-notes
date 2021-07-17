@@ -9,7 +9,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Are you thinking of adding some type of Signs or screens?
 https://www.youtube.com/watch?v=N8sqIFGjwyk
-This question was possibly duplicated with a more recent answer: June 18th, 2021 Livestream Q&A: Will we have Signs? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Would you consider adding custom text signs?](./yt-HmdG5XPGjN8.md) [https://www.youtube.com/watch?v=HmdG5XPGjN8](https://www.youtube.com/watch?v=HmdG5XPGjN8)
 
 
 ### Topics

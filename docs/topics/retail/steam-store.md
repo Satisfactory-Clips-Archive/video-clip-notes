@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: When I started the game I got a black Particle Accelerator on the home screen- is that a bug?](../../transcriptions/yt-SkcmBKDOi1U.md) [https://www.youtube.com/watch?v=SkcmBKDOi1U](https://www.youtube.com/watch?v=SkcmBKDOi1U)
+
 ## May 18th, 2021 Livestream
 * [Q&A: The Blender has a graphic bug, the pod disappears, is this a known thing?](../../transcriptions/yt-Belfb_lFLmc.md) [https://www.youtube.com/watch?v=Belfb_lFLmc](https://www.youtube.com/watch?v=Belfb_lFLmc)
 

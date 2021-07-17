@@ -5,9 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## July 13th, 2021 Livestream
+* [Community FYI: Conveyor clipping is stupid](../../../transcriptions/yt-guT_rOkRQGo.md) [https://www.youtube.com/watch?v=guT_rOkRQGo](https://www.youtube.com/watch?v=guT_rOkRQGo)
+
 ## July 6th, 2021 Livestream
-* Q&A: Can we please make Programmable Splitter ratio outputs? [https://www.youtube.com/watch?v=ZxdCngTCah4](https://www.youtube.com/watch?v=ZxdCngTCah4)
-* Q&A: How do Belts affect performance? [https://www.youtube.com/watch?v=0a2DgXuAy6I](https://www.youtube.com/watch?v=0a2DgXuAy6I)
+* [Q&A: Can we please make Programmable Splitter ratio outputs?](../../../transcriptions/yt-ZxdCngTCah4.md) [https://www.youtube.com/watch?v=ZxdCngTCah4](https://www.youtube.com/watch?v=ZxdCngTCah4)
+* [Q&A: How do Belts affect performance?](../../../transcriptions/yt-0a2DgXuAy6I.md) [https://www.youtube.com/watch?v=0a2DgXuAy6I](https://www.youtube.com/watch?v=0a2DgXuAy6I)
 * [Q&A: Why does the game render items & Belts hidden behind walls even when they're not visible?](../../../transcriptions/yt-uO1QT1SKsZA.md) [https://www.youtube.com/watch?v=uO1QT1SKsZA](https://www.youtube.com/watch?v=uO1QT1SKsZA)
 
 ## June 29th, 2021 Livestream

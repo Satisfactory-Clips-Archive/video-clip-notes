@@ -35,9 +35,12 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: When are vacations over?](../transcriptions/yt-47kyeruceXI.md) [https://www.youtube.com/watch?v=47kyeruceXI](https://www.youtube.com/watch?v=47kyeruceXI)
+
 ## July 6th, 2021 Livestream
-* Snutt & Jace Talk: Coffee Stain Meetings [https://www.youtube.com/watch?v=9Yml4Gnkf2U](https://www.youtube.com/watch?v=9Yml4Gnkf2U)
-* Alex & McGalleon & Jace Talk: Working with the UI Team [https://www.youtube.com/watch?v=J87W2wlGVJ0](https://www.youtube.com/watch?v=J87W2wlGVJ0)
+* [Snutt & Jace Talk: Coffee Stain Meetings](../transcriptions/yt-9Yml4Gnkf2U.md) [https://www.youtube.com/watch?v=9Yml4Gnkf2U](https://www.youtube.com/watch?v=9Yml4Gnkf2U)
+* [Alex & McGalleon & Jace Talk: Working with the UI Team](../transcriptions/yt-J87W2wlGVJ0.md) [https://www.youtube.com/watch?v=J87W2wlGVJ0](https://www.youtube.com/watch?v=J87W2wlGVJ0)
 * Q&A: Have you all added Easter Eggs in the game that have not yet been discovered? [https://www.youtube.com/watch?v=aLNaD031GPw](https://www.youtube.com/watch?v=aLNaD031GPw)
 * [Q&A: I really want to know who's responsible for the beautiful World design?](../transcriptions/yt-oR-6X_Lru8I.md) [https://www.youtube.com/watch?v=oR-6X_Lru8I](https://www.youtube.com/watch?v=oR-6X_Lru8I)
 

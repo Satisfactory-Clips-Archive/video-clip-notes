@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Buildings](../../../../topics/features/buildings.md) > [Space Elevator](../../../../topics/features/buildings/space-elevator.md) > Food Court
 
+## July 13th, 2021 Livestream
+* [Q&A: Will there be FICSIT food items?](../../../../transcriptions/yt-LoKORvJh0Vw.md) [https://www.youtube.com/watch?v=LoKORvJh0Vw](https://www.youtube.com/watch?v=LoKORvJh0Vw)
+
 ## June 8th, 2021 Livestream
 * [Q&A: What about Story?](../../../../transcriptions/yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
 

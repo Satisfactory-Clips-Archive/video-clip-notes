@@ -9,7 +9,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Update 5 trailer, when?
 https://www.youtube.com/watch?v=pf0uO8nhD_Q
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: No epic reveal trailer? [https://www.youtube.com/watch?v=jUhdgy_uAts](https://www.youtube.com/watch?v=jUhdgy_uAts)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: No epic reveal trailer?](./yt-jUhdgy_uAts.md) [https://www.youtube.com/watch?v=jUhdgy_uAts](https://www.youtube.com/watch?v=jUhdgy_uAts)
 
 
 ### Topics

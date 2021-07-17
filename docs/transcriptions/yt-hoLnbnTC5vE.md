@@ -10,7 +10,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Do you think we'll rework Radar Towers?
 https://www.youtube.com/watch?v=hoLnbnTC5vE
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Are Radar Towers going to get an upgrade at some point? [https://www.youtube.com/watch?v=CBfhAo3Ok58](https://www.youtube.com/watch?v=CBfhAo3Ok58)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Are Radar Towers going to get an upgrade at some point?](./yt-CBfhAo3Ok58.md) [https://www.youtube.com/watch?v=CBfhAo3Ok58](https://www.youtube.com/watch?v=CBfhAo3Ok58)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Can we deform the terrain?
 https://www.youtube.com/watch?v=UDguGGIxs3c
-This question was possibly duplicated with a more recent answer: [November 24th, 2020 Livestream Q&A: Is terraforming possible any time in the future?](./yt-_fE2dbyaJZg.md) [https://www.youtube.com/watch?v=_fE2dbyaJZg](https://www.youtube.com/watch?v=_fE2dbyaJZg)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Consider terraforming?](./yt-CR-lp1uJfIw.md) [https://www.youtube.com/watch?v=CR-lp1uJfIw](https://www.youtube.com/watch?v=CR-lp1uJfIw)
 
 
 ### Topics

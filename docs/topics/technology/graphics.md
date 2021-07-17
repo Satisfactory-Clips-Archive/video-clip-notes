@@ -9,8 +9,13 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: When I started the game I got a black Particle Accelerator on the home screen- is that a bug?](../../transcriptions/yt-SkcmBKDOi1U.md) [https://www.youtube.com/watch?v=SkcmBKDOi1U](https://www.youtube.com/watch?v=SkcmBKDOi1U)
+* [Q&A: Since the FPS tied to game precision and late-game tends to be laggy, will you optimise?](../../transcriptions/yt-kulvUg6bHhI.md) [https://www.youtube.com/watch?v=kulvUg6bHhI](https://www.youtube.com/watch?v=kulvUg6bHhI)
+* [Jace Talk: FPS targets on the Playstation 2](../../transcriptions/yt-MBX7aUP_wsY.md) [https://www.youtube.com/watch?v=MBX7aUP_wsY](https://www.youtube.com/watch?v=MBX7aUP_wsY)
+
 ## July 6th, 2021 Livestream
-* Q&A: How do Belts affect performance? [https://www.youtube.com/watch?v=0a2DgXuAy6I](https://www.youtube.com/watch?v=0a2DgXuAy6I)
+* [Q&A: How do Belts affect performance?](../../transcriptions/yt-0a2DgXuAy6I.md) [https://www.youtube.com/watch?v=0a2DgXuAy6I](https://www.youtube.com/watch?v=0a2DgXuAy6I)
 * [Q&A: Why does the game render items & Belts hidden behind walls even when they're not visible?](../../transcriptions/yt-uO1QT1SKsZA.md) [https://www.youtube.com/watch?v=uO1QT1SKsZA](https://www.youtube.com/watch?v=uO1QT1SKsZA)
 * [Snutt Talk: "Occlusion Culling" was the word I was looking for](../../transcriptions/yt-K5CKH3D4gkM.md) [https://www.youtube.com/watch?v=K5CKH3D4gkM](https://www.youtube.com/watch?v=K5CKH3D4gkM)
 

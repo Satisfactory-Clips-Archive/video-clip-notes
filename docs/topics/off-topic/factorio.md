@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio
 
+## July 13th, 2021 Livestream
+* [Q&A: Would the Train Signals be similar to the system in Factorio?](../../transcriptions/yt-91vobZE_Zww.md) [https://www.youtube.com/watch?v=91vobZE_Zww](https://www.youtube.com/watch?v=91vobZE_Zww)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Are you & your colleagues looking up to some other indie games?](../../transcriptions/yt-Wo5BV2FL0T0.md) [https://www.youtube.com/watch?v=Wo5BV2FL0T0](https://www.youtube.com/watch?v=Wo5BV2FL0T0)
 

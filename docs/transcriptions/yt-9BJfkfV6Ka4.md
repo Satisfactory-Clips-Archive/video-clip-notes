@@ -10,15 +10,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: In-game events in the near-time?
 https://www.youtube.com/watch?v=9BJfkfV6Ka4
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as April 2021 and as early as December 2020.</summary>
-
-* [April 27th, 2021 Livestream Q&A: Any plans for holiday-themed events?](./yt-_kNClYfQnCE.md) [https://www.youtube.com/watch?v=_kNClYfQnCE](https://www.youtube.com/watch?v=_kNClYfQnCE)
-* [March 23rd, 2021 Livestream Q&A: Do you have any Holiday Theme plans in the future?](./yt-EIGGdc4b7vc.md) [https://www.youtube.com/watch?v=EIGGdc4b7vc](https://www.youtube.com/watch?v=EIGGdc4b7vc)
-* [January 19th, 2021 Livestream Q&A: Is there a goal amount of Events per year?](./yt-2koHO0P289M.md) [https://www.youtube.com/watch?v=2koHO0P289M](https://www.youtube.com/watch?v=2koHO0P289M)
-* [December 17th, 2020 Q&A: Will FICS⁕MAS and seasonal events in general be a regular thing?](./yt--JXPsTlJIiI,148.11463333333333,192.3922.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193)
-* [December 15th, 2020 Livestream Q&A: Will there be more Seasonal Events?](./yt-TNrm3qsWdxQ.md) [https://www.youtube.com/watch?v=TNrm3qsWdxQ](https://www.youtube.com/watch?v=TNrm3qsWdxQ)
-</details>
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any more Holiday Events?](./yt-PLi6OES4LTg.md) [https://www.youtube.com/watch?v=PLi6OES4LTg](https://www.youtube.com/watch?v=PLi6OES4LTg)
 
 
 ### Topics

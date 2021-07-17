@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=JV12w3UZIHE
 * [May 15th, 2020 Q&A: Do you have a general idea of how, the team as a whole, want the game to be for 1.0?](./yt-NlIVwoRqjVk,226.3261,288.288.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=226&end=289](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=226&end=289)
 * [May 15th, 2020 Q&A: Do you have any rough expectation of when the full release of the game will be?](./yt-NlIVwoRqjVk,995.8949,1008.3073.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=995&end=1009](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=995&end=1009)
 * [March 9th, 2019 Livestream Q&A: When is the official release?](./yt-H0HcDZTv_ts.md) [https://www.youtube.com/watch?v=H0HcDZTv_ts](https://www.youtube.com/watch?v=H0HcDZTv_ts)
-* February 20th, 2019 Livestream Q&A: Release date? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257)
+* [February 20th, 2019 Livestream Q&A: Release date?](./yt-CB9bSigNYH8,4250.630211,4256.657128.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4250&end=4257)
 * [February 6th, 2019 Livestream Q&A: Any timeline on when the end game will be released?](./yt-Dtm6xIj-wM4,3487.8333333333335,3508.867162.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509)
 </details>
 

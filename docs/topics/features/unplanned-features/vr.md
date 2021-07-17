@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > VR
 
+## July 13th, 2021 Livestream
+* [Q&A: I noticed some VR-related commands in console, is the game getting VR?](../../../transcriptions/yt-laybFj6QKzA.md) [https://www.youtube.com/watch?v=laybFj6QKzA](https://www.youtube.com/watch?v=laybFj6QKzA)
+
 ## June 22nd, 2021 Livestream
 * [Community FYI: VR Confirmed](../../../transcriptions/yt-SNRBsvIqz-E.md) [https://www.youtube.com/watch?v=SNRBsvIqz-E](https://www.youtube.com/watch?v=SNRBsvIqz-E)
 * [Q&A: Are there any plans for VR?](../../../transcriptions/yt-aSo4zUTOCwE.md) [https://www.youtube.com/watch?v=aSo4zUTOCwE](https://www.youtube.com/watch?v=aSo4zUTOCwE)

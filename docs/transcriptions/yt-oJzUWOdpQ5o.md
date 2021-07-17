@@ -8,7 +8,7 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Player skin customisation?
 https://www.youtube.com/watch?v=oJzUWOdpQ5o
-This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Any plans to change the Pioneer trim colour so you can differentiate each other on Multiplayer?](./yt-ox4zHZlziCg.md) [https://www.youtube.com/watch?v=ox4zHZlziCg](https://www.youtube.com/watch?v=ox4zHZlziCg)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any plans for Character Customisation?](./yt-bC4-mnWrSQM.md) [https://www.youtube.com/watch?v=bC4-mnWrSQM](https://www.youtube.com/watch?v=bC4-mnWrSQM)
 
 
 ### Topics

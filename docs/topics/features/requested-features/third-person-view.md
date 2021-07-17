@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Third-person View
 
+## July 13th, 2021 Livestream
+* [Q&A: Any thoughts about non-first-person Building Mode?](../../../transcriptions/yt-K2gmJrcqZ20.md) [https://www.youtube.com/watch?v=K2gmJrcqZ20](https://www.youtube.com/watch?v=K2gmJrcqZ20)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Third Person View?](../../../transcriptions/yt-wcP5kwfOfSc.md) [https://www.youtube.com/watch?v=wcP5kwfOfSc](https://www.youtube.com/watch?v=wcP5kwfOfSc)
 

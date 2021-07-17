@@ -22,8 +22,8 @@ https://www.youtube.com/watch?v=WMMQ1b8eAvA
 * [September 8th, 2020 Livestream Q&A: Do we intend to add rain/storms ?](./yt-3WDeVbpr30g.md) [https://www.youtube.com/watch?v=3WDeVbpr30g](https://www.youtube.com/watch?v=3WDeVbpr30g)
 * August 11th, 2020 Livestream Q&A: What about Weather systems? [https://clips.twitch.tv/SilkyFurryCheetahMVGame](https://clips.twitch.tv/SilkyFurryCheetahMVGame)
 * [May 15th, 2020 Q&A: Will there be weather changes?](./yt-NlIVwoRqjVk,374.5742,397.43036666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398)
-* February 20th, 2019 Livestream Q&A: Weather confirmed? [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
-* August 1st, 2018 Q&A: Is there Weather in the game? [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
+* [February 20th, 2019 Livestream Q&A: Weather confirmed?](./yt-CB9bSigNYH8,5234.485233,5238.267007.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
+* [August 1st, 2018 Q&A: Is there Weather in the game?](./yt-iFAy1NZUOGU,58.6,60.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
 </details>
 
 

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: Can you make it more obvious that Project Parts need to be used in future Project Parts?](../../../transcriptions/yt-CwMFyTkMlaE.md) [https://www.youtube.com/watch?v=CwMFyTkMlaE](https://www.youtube.com/watch?v=CwMFyTkMlaE)
+
 ## July 6th, 2021 Livestream
 * Q&A: Why do we send stuff to the Space Elevator, is there a purpose or just to unlock new Tiers? [https://www.youtube.com/watch?v=8tmtxAwI04I](https://www.youtube.com/watch?v=8tmtxAwI04I)
 

@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How often will you release updates in Early Access?
 https://www.youtube.com/watch?v=PBkvqmyjADM
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: How many Updates until 1.0? [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: How many Updates until 1.0?](./yt-vGF9MjeBuus.md) [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
 
 
 ### Topics

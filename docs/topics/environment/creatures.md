@@ -10,6 +10,11 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## July 13th, 2021 Livestream
+* [Community FYI: Those interesting animals look like they would make good burgers](../../transcriptions/yt-M644npYkLRA.md) [https://www.youtube.com/watch?v=M644npYkLRA](https://www.youtube.com/watch?v=M644npYkLRA)
+* [Q&A: Mounts?](../../transcriptions/yt-cdakPXAMAqI.md) [https://www.youtube.com/watch?v=cdakPXAMAqI](https://www.youtube.com/watch?v=cdakPXAMAqI)
+* [Q&A: How did the Spider get the app?](../../transcriptions/yt-cQDaqPwPLbI.md) [https://www.youtube.com/watch?v=cQDaqPwPLbI](https://www.youtube.com/watch?v=cQDaqPwPLbI)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: So is Torsten who we blame for Spiders?](../../transcriptions/yt-E5mku0tfmmI.md) [https://www.youtube.com/watch?v=E5mku0tfmmI](https://www.youtube.com/watch?v=E5mku0tfmmI)
 

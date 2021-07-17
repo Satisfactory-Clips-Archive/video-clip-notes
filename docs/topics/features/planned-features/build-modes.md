@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Build Modes
 
+## July 13th, 2021 Livestream
+* [Q&A: Will there be a Smart!-similar system for Update 5?](../../../transcriptions/yt-s1AawKfPvK0.md) [https://www.youtube.com/watch?v=s1AawKfPvK0](https://www.youtube.com/watch?v=s1AawKfPvK0)
+* [Q&A: Would you circular Foundations in base game rather than using tricks from YouTube?](../../../transcriptions/yt-WvzJo6P-rNY.md) [https://www.youtube.com/watch?v=WvzJo6P-rNY](https://www.youtube.com/watch?v=WvzJo6P-rNY)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Can you give information about new Build Modes coming out?](../../../transcriptions/yt-MKrIZzZe0aQ.md) [https://www.youtube.com/watch?v=MKrIZzZe0aQ](https://www.youtube.com/watch?v=MKrIZzZe0aQ)
 

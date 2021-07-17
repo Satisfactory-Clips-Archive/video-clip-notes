@@ -10,6 +10,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Have you played Infinifactory?
 https://www.youtube.com/watch?v=QC5TQ6iL8sg
+This question was possibly duplicated with a more recent answer: [March 9th, 2021 Livestream Q&A: Have you played Dyson Sphere Program?](./yt-e8_ddoqo6iE.md) [https://www.youtube.com/watch?v=e8_ddoqo6iE](https://www.youtube.com/watch?v=e8_ddoqo6iE)
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

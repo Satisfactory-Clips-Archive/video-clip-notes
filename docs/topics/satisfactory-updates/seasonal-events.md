@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events
 * [FICS⁕MAS](../../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: Any more Holiday Events?](../../transcriptions/yt-PLi6OES4LTg.md) [https://www.youtube.com/watch?v=PLi6OES4LTg](https://www.youtube.com/watch?v=PLi6OES4LTg)
+
 ## May 28th, 2021 Livestream
 * [Q&A: Can you give a quick explanation of how the system for Lights works right now?](../../transcriptions/yt-dyqOMITwLsY,199.03216666666665,448.69825.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449)
 
@@ -36,6 +39,9 @@ date: Last Modified
 
 ## November 10th, 2020 Livestream
 * [Q&A: You need to add some Christmas and Halloween stuff](../../transcriptions/yt-ZTHtVU1twTY.md) [https://www.youtube.com/watch?v=ZTHtVU1twTY](https://www.youtube.com/watch?v=ZTHtVU1twTY)
+
+## October 20th, 2020 Livestream
+* [Q&A: Any Halloween Event?](../../transcriptions/yt-WU3ncx4Ok3Y.md) [https://www.youtube.com/watch?v=WU3ncx4Ok3Y](https://www.youtube.com/watch?v=WU3ncx4Ok3Y)
 
 ## December 19th, 2019 Video
 * [On the first day of Jacemas...](../../transcriptions/yt-52nYaN8imgo,232.76,237.16.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=232&end=238](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=232&end=238)

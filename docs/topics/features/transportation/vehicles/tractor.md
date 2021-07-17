@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Tractor
 
+## July 13th, 2021 Livestream
+* [Q&A: Will Truck Stations, Trucks & Tractors be renamable?](../../../../transcriptions/yt-xOPbMP6jy6E.md) [https://www.youtube.com/watch?v=xOPbMP6jy6E](https://www.youtube.com/watch?v=xOPbMP6jy6E)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Fix tractors?](../../../../transcriptions/yt-MA7w4S6lUOs.md) [https://www.youtube.com/watch?v=MA7w4S6lUOs](https://www.youtube.com/watch?v=MA7w4S6lUOs)
 

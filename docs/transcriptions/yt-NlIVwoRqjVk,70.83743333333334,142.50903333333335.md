@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Would Dedicated Servers break the game?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=70&end=143
-This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Dedicated Servers?](./yt-0KMqyzOeiEU.md) [https://www.youtube.com/watch?v=0KMqyzOeiEU](https://www.youtube.com/watch?v=0KMqyzOeiEU)
+This question was possibly duplicated with a more recent answer: July 13th, 2021 Livestream Q&A: Any progress on Dedicated Servers? [https://www.youtube.com/watch?v=p2-eAYfsDYY](https://www.youtube.com/watch?v=p2-eAYfsDYY)
 
 
 ### Topics

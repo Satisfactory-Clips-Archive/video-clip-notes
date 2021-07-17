@@ -8,7 +8,7 @@ topics:
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Is there a main thing in Update 5?
 https://www.youtube.com/watch?v=zl0iKo3TKng
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: When do you plan to announce details for Update 5 [https://www.youtube.com/watch?v=JKNpXoM1Rv4](https://www.youtube.com/watch?v=JKNpXoM1Rv4)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: When do you plan to announce details for Update 5](./yt-JKNpXoM1Rv4.md) [https://www.youtube.com/watch?v=JKNpXoM1Rv4](https://www.youtube.com/watch?v=JKNpXoM1Rv4)
 
 
 ### Topics

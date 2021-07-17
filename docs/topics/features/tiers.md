@@ -16,8 +16,11 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: More items, more Tiers?](../../transcriptions/yt-g4q1PG9-g6U.md) [https://www.youtube.com/watch?v=g4q1PG9-g6U](https://www.youtube.com/watch?v=g4q1PG9-g6U)
+
 ## July 6th, 2021 Livestream
-* Q&A: Do you plan to add more Tiers? [https://www.youtube.com/watch?v=VaqszvQTlYA](https://www.youtube.com/watch?v=VaqszvQTlYA)
+* [Q&A: Do you plan to add more Tiers?](../../transcriptions/yt-VaqszvQTlYA.md) [https://www.youtube.com/watch?v=VaqszvQTlYA](https://www.youtube.com/watch?v=VaqszvQTlYA)
 * Q&A: Why do we send stuff to the Space Elevator, is there a purpose or just to unlock new Tiers? [https://www.youtube.com/watch?v=8tmtxAwI04I](https://www.youtube.com/watch?v=8tmtxAwI04I)
 
 ## June 8th, 2021 Livestream

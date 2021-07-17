@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Does Coffee Stain have a fun code-name for the game, or is it just Satisfactory internally?
 https://www.youtube.com/watch?v=plD49WyK_6c
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Did Satisfactory have any other names before you settled on it? [https://www.youtube.com/watch?v=5zbeDE0Velc](https://www.youtube.com/watch?v=5zbeDE0Velc)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Did Satisfactory have any other names before you settled on it?](./yt-5zbeDE0Velc.md) [https://www.youtube.com/watch?v=5zbeDE0Velc](https://www.youtube.com/watch?v=5zbeDE0Velc)
 
 
 ### Topics

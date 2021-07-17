@@ -5,8 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## July 13th, 2021 Livestream
+* Q&A: Will Update 5 be the Train remake and/or the last Update before 1.0? [https://www.youtube.com/watch?v=qjuQW9Qx5Mo](https://www.youtube.com/watch?v=qjuQW9Qx5Mo)
+
 ## July 6th, 2021 Livestream
-* Q&A: How many Updates until 1.0? [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
+* [Q&A: How many Updates until 1.0?](../../../transcriptions/yt-vGF9MjeBuus.md) [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
 * [Q&A: Does your studio ever think about joining Green Game Jam one day once 1.0 is out?](../../../transcriptions/yt-ZbzxAbnVH4Y.md) [https://www.youtube.com/watch?v=ZbzxAbnVH4Y](https://www.youtube.com/watch?v=ZbzxAbnVH4Y)
 
 ## June 29th, 2021 Livestream

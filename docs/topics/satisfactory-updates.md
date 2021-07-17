@@ -17,9 +17,12 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## July 13th, 2021 Livestream
+* [Community FYI: I start from scratch every time there's a major Update](../transcriptions/yt-weSHyVmGPHI.md) [https://www.youtube.com/watch?v=weSHyVmGPHI](https://www.youtube.com/watch?v=weSHyVmGPHI)
+
 ## July 6th, 2021 Livestream
-* Q&A: How long do you have to wait to see if your translation works in the game? [https://www.youtube.com/watch?v=gdTe3A1S7eU](https://www.youtube.com/watch?v=gdTe3A1S7eU)
-* Q&A: How many Updates until 1.0? [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
+* [Q&A: How long do you have to wait to see if your translation works in the game?](../transcriptions/yt-gdTe3A1S7eU.md) [https://www.youtube.com/watch?v=gdTe3A1S7eU](https://www.youtube.com/watch?v=gdTe3A1S7eU)
+* [Q&A: How many Updates until 1.0?](../transcriptions/yt-vGF9MjeBuus.md) [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
 * [Community FYI: I love that you guys engage with us and explain your decision-making](../transcriptions/yt-HQo_SFMjHdc.md) [https://www.youtube.com/watch?v=HQo_SFMjHdc](https://www.youtube.com/watch?v=HQo_SFMjHdc)
 
 ## June 29th, 2021 Livestream
@@ -101,6 +104,9 @@ date: Last Modified
 * Q&A: Why do big updates at all - why not just release everything in small bites? (Part 1) [https://clips.twitch.tv/FrozenLuckyRamenDxCat](https://clips.twitch.tv/FrozenLuckyRamenDxCat)
 * Q&A: Why do big updates at all - why not just release everything in small bites? (Part 6) [https://clips.twitch.tv/LachrymoseCourteousDoveDxAbomb](https://clips.twitch.tv/LachrymoseCourteousDoveDxAbomb)
 * Q&A: Why do big updates at all - why not just release everything in small bites? (Part 3) [https://clips.twitch.tv/SpunkyFlirtySoybeanJebaited](https://clips.twitch.tv/SpunkyFlirtySoybeanJebaited)
+
+## March 24th, 2020 Livestream
+* [Q&A: How often will you be releasing new content?](../transcriptions/yt-1gGMZa-xf70.md) [https://www.youtube.com/watch?v=1gGMZa-xf70](https://www.youtube.com/watch?v=1gGMZa-xf70)
 
 ## November 5th, 2019 Q&A
 * [Q&A: Is this the last update?](../transcriptions/yt-Fsod_UF5eus,138.04,156.08.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=138&end=157](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=138&end=157)

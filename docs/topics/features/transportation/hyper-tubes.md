@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Transportation > Hyper Tubes
 
+## July 13th, 2021 Livestream
+* [Q&A: Are Hyper Tubes clipping through the ground going to be fixed?](../../../transcriptions/yt-lp-78BEgCW4.md) [https://www.youtube.com/watch?v=lp-78BEgCW4](https://www.youtube.com/watch?v=lp-78BEgCW4)
+
 ## June 29th, 2021 Livestream
 * [Q&A: What's your opinion on Hyper Tube accelerators?](../../../transcriptions/yt-HmJNJUmQyGQ.md) [https://www.youtube.com/watch?v=HmJNJUmQyGQ](https://www.youtube.com/watch?v=HmJNJUmQyGQ)
 

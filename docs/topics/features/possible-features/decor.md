@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## July 13th, 2021 Livestream
+* [Q&A: Any chance of purely-aesthetic parts?](../../../transcriptions/yt-pduDLZtiJwI.md) [https://www.youtube.com/watch?v=pduDLZtiJwI](https://www.youtube.com/watch?v=pduDLZtiJwI)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Will you add more decoration options so we don't have to rely on Mods so much?](../../../transcriptions/yt-453B0wDDHFA.md) [https://www.youtube.com/watch?v=453B0wDDHFA](https://www.youtube.com/watch?v=453B0wDDHFA)
 * [Q&A: In-game whiteboard?](../../../transcriptions/yt-Q7VGYiAagwA.md) [https://www.youtube.com/watch?v=Q7VGYiAagwA](https://www.youtube.com/watch?v=Q7VGYiAagwA)

@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Any word on farming Pale Berries / Nuts / Bacon?
 https://www.youtube.com/watch?v=L1Ur5X7gVH8
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Will there ever be Farming added to the base game? [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Will there ever be Farming added to the base game?](./yt-4txPAGPmzXQ.md) [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
 
 
 ### Topics

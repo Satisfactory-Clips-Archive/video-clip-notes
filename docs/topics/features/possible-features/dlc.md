@@ -7,6 +7,9 @@ date: Last Modified
 * [Flushable Toilet DLC](../../../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 * [Toilet Paper DLC](../../../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 
+## July 13th, 2021 Livestream
+* [Community FYI: Wrangler title hints for lassoing Doggos](../../../transcriptions/yt-rBIoeBysK4w.md) [https://www.youtube.com/watch?v=rBIoeBysK4w](https://www.youtube.com/watch?v=rBIoeBysK4w)
+
 ## June 15th, 2021 Livestream
 * [Q&A: When do the microtransactions and DLC packs start?](../../../transcriptions/yt-V2cOLLcElBI.md) [https://www.youtube.com/watch?v=V2cOLLcElBI](https://www.youtube.com/watch?v=V2cOLLcElBI)
 * [Q&A: Lizard Cat DLC?](../../../transcriptions/yt-ZyoU8gwO-PA.md) [https://www.youtube.com/watch?v=ZyoU8gwO-PA](https://www.youtube.com/watch?v=ZyoU8gwO-PA)

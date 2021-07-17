@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## July 13th, 2021 Livestream
+* [Q&A: Can Trains & cars have the same throughput that Drones have?](../../../../transcriptions/yt-KrFS-sBw9U4.md) [https://www.youtube.com/watch?v=KrFS-sBw9U4](https://www.youtube.com/watch?v=KrFS-sBw9U4)
+* [Community FYI: You said flying Vehicles would never be a thing, and then we got Drones](../../../../transcriptions/yt-Aqe4sfwWECk.md) [https://www.youtube.com/watch?v=Aqe4sfwWECk](https://www.youtube.com/watch?v=Aqe4sfwWECk)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Will Drones ever be able to carry the Pioneer?](../../../../transcriptions/yt-L0-x7Htlj14.md) [https://www.youtube.com/watch?v=L0-x7Htlj14](https://www.youtube.com/watch?v=L0-x7Htlj14)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Biomass Burner
 
+## July 13th, 2021 Livestream
+* [Q&A: Any thoughts of adding a method of growing Biomass, Farms maybe?](../../../transcriptions/yt-M9XrXjf-GdU.md) [https://www.youtube.com/watch?v=M9XrXjf-GdU](https://www.youtube.com/watch?v=M9XrXjf-GdU)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Handling power cuts](../../../transcriptions/yt-KgpTpm6CTOA.md) [https://www.youtube.com/watch?v=KgpTpm6CTOA](https://www.youtube.com/watch?v=KgpTpm6CTOA)
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 2)](../../../transcriptions/yt-V5iNAIlEA38.md) [https://www.youtube.com/watch?v=V5iNAIlEA38](https://www.youtube.com/watch?v=V5iNAIlEA38)

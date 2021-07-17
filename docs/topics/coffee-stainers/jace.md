@@ -5,12 +5,24 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## July 13th, 2021 Livestream
+* [Jace Talk: Getting used to Snutt's stream setup](../../transcriptions/yt-ayWs12NtiU8.md) [https://www.youtube.com/watch?v=ayWs12NtiU8](https://www.youtube.com/watch?v=ayWs12NtiU8)
+* [Q&A: Is that a Portal tattoo on your wrist?](../../transcriptions/yt-8HGFi6hIqoU.md) [https://www.youtube.com/watch?v=8HGFi6hIqoU](https://www.youtube.com/watch?v=8HGFi6hIqoU)
+* [Q&A: Does everyone help Jace with programming?](../../transcriptions/yt-07skmCOlWLk.md) [https://www.youtube.com/watch?v=07skmCOlWLk](https://www.youtube.com/watch?v=07skmCOlWLk)
+* [Q&A: What did Jace have for lunch?](../../transcriptions/yt-8Jc_IDLBlyk.md) [https://www.youtube.com/watch?v=8Jc_IDLBlyk](https://www.youtube.com/watch?v=8Jc_IDLBlyk)
+* [Community FYI: King of Question Dodging](../../transcriptions/yt-PuIVw3wCELk.md) [https://www.youtube.com/watch?v=PuIVw3wCELk](https://www.youtube.com/watch?v=PuIVw3wCELk)
+* [Q&A: How are you, I saw your documentary on Twitter?](../../transcriptions/yt-BtzgOBKZd_Q.md) [https://www.youtube.com/watch?v=BtzgOBKZd_Q](https://www.youtube.com/watch?v=BtzgOBKZd_Q)
+* [Jace Talk: Someone needs to make Midgar](../../transcriptions/yt-fq7MwDA2py8.md) [https://www.youtube.com/watch?v=fq7MwDA2py8](https://www.youtube.com/watch?v=fq7MwDA2py8)
+* [Q&A: Does Jace still feel sad about his PS5?](../../transcriptions/yt-6zXM0xfjYEE.md) [https://www.youtube.com/watch?v=6zXM0xfjYEE](https://www.youtube.com/watch?v=6zXM0xfjYEE)
+* [Q&A: A Mod with Jace Face?](../../transcriptions/yt-_7mFZV4JwrU.md) [https://www.youtube.com/watch?v=_7mFZV4JwrU](https://www.youtube.com/watch?v=_7mFZV4JwrU)
+* [Q&A: Will Jace be the end-boss in the game?](../../transcriptions/yt-aFIv65hCAk0.md) [https://www.youtube.com/watch?v=aFIv65hCAk0](https://www.youtube.com/watch?v=aFIv65hCAk0)
+
 ## July 6th, 2021 Livestream
-* Q&A: Will Jace be dubbing ADA's lines into Spanish? [https://www.youtube.com/watch?v=mKUON_7AYp8](https://www.youtube.com/watch?v=mKUON_7AYp8)
-* Q&A: Is Jace fixed? [https://www.youtube.com/watch?v=wV3t17BdtMo](https://www.youtube.com/watch?v=wV3t17BdtMo)
-* Q&A: What did Snutt have for breakfast? [https://www.youtube.com/watch?v=6nEbRCnR4yc](https://www.youtube.com/watch?v=6nEbRCnR4yc)
-* Community FYI: Jace, you look like Philipp Kirkorov the Russian pop star [https://www.youtube.com/watch?v=vIxlNniUSW0](https://www.youtube.com/watch?v=vIxlNniUSW0)
-* Jace Talk: The Russian community really think I look like this guy [https://www.youtube.com/watch?v=WEpAa29aMTc](https://www.youtube.com/watch?v=WEpAa29aMTc)
+* [Q&A: Will Jace be dubbing ADA's lines into Spanish?](../../transcriptions/yt-mKUON_7AYp8.md) [https://www.youtube.com/watch?v=mKUON_7AYp8](https://www.youtube.com/watch?v=mKUON_7AYp8)
+* [Q&A: Is Jace fixed?](../../transcriptions/yt-wV3t17BdtMo.md) [https://www.youtube.com/watch?v=wV3t17BdtMo](https://www.youtube.com/watch?v=wV3t17BdtMo)
+* [Q&A: What did Snutt have for breakfast?](../../transcriptions/yt-6nEbRCnR4yc.md) [https://www.youtube.com/watch?v=6nEbRCnR4yc](https://www.youtube.com/watch?v=6nEbRCnR4yc)
+* [Community FYI: Jace, you look like Philipp Kirkorov the Russian pop star](../../transcriptions/yt-vIxlNniUSW0.md) [https://www.youtube.com/watch?v=vIxlNniUSW0](https://www.youtube.com/watch?v=vIxlNniUSW0)
+* [Jace Talk: The Russian community really think I look like this guy](../../transcriptions/yt-WEpAa29aMTc.md) [https://www.youtube.com/watch?v=WEpAa29aMTc](https://www.youtube.com/watch?v=WEpAa29aMTc)
 * [Q&A: You guys work in the office yet?](../../transcriptions/yt-MSxZt_IUpsA.md) [https://www.youtube.com/watch?v=MSxZt_IUpsA](https://www.youtube.com/watch?v=MSxZt_IUpsA)
 * [Q&A: Do you enjoy your job at Coffee Stain?](../../transcriptions/yt--5bGGsM72l0.md) [https://www.youtube.com/watch?v=-5bGGsM72l0](https://www.youtube.com/watch?v=-5bGGsM72l0)
 * [Q&A: Did Jace ever finish refactoring the attachments system?](../../transcriptions/yt-RLAevtWkTUA.md) [https://www.youtube.com/watch?v=RLAevtWkTUA](https://www.youtube.com/watch?v=RLAevtWkTUA)
@@ -248,7 +260,7 @@ date: Last Modified
 * [Q&A: Jace in Link outfit when?](../../transcriptions/yt-KGPakNvzKVY.md) [https://www.youtube.com/watch?v=KGPakNvzKVY](https://www.youtube.com/watch?v=KGPakNvzKVY)
 
 ## January 26th, 2021 Livestream
-* [Q&A: Do either of you have a FICSIT checkmark tatooed on your person?](../../transcriptions/yt-72yhov-YwuU.md) [https://www.youtube.com/watch?v=72yhov-YwuU](https://www.youtube.com/watch?v=72yhov-YwuU)
+* [Q&A: Do either of you have a FICSIT checkmark tattooed on your person?](../../transcriptions/yt-72yhov-YwuU.md) [https://www.youtube.com/watch?v=72yhov-YwuU](https://www.youtube.com/watch?v=72yhov-YwuU)
 * [Q&A: How much do you both play Satisfactory?](../../transcriptions/yt-fIb1LHQ0TJw.md) [https://www.youtube.com/watch?v=fIb1LHQ0TJw](https://www.youtube.com/watch?v=fIb1LHQ0TJw)
 * [Q&A: What do you guys do outside of Community Manager responsibilities?](../../transcriptions/yt-AoGBlnRxGdw.md) [https://www.youtube.com/watch?v=AoGBlnRxGdw](https://www.youtube.com/watch?v=AoGBlnRxGdw)
 * [Snutt & Jace Talk: Shaving](../../transcriptions/yt-2lh_A-WR2Gw.md) [https://www.youtube.com/watch?v=2lh_A-WR2Gw](https://www.youtube.com/watch?v=2lh_A-WR2Gw)

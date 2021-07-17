@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Save System](../../../topics/features/save-system.md) > Autosave
 
+## July 13th, 2021 Livestream
+* [Q&A: Quicker Autosave, please?](../../../transcriptions/yt-cIhVRJPmBoc.md) [https://www.youtube.com/watch?v=cIhVRJPmBoc](https://www.youtube.com/watch?v=cIhVRJPmBoc)
+* [Q&A: Just hide Autosave with a cutscene?](../../../transcriptions/yt-rkvnAvracY0.md) [https://www.youtube.com/watch?v=rkvnAvracY0](https://www.youtube.com/watch?v=rkvnAvracY0)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Workaround for client disconnecting on long saving processes? (Part 1)](../../../transcriptions/yt-uXQgdOqsBbc.md) [https://www.youtube.com/watch?v=uXQgdOqsBbc](https://www.youtube.com/watch?v=uXQgdOqsBbc)
 

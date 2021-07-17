@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Gases
 
+## July 13th, 2021 Livestream
+* [Q&A: Will we ever be able to remove or destroy Poison Pillars?](../../transcriptions/yt-pkKMsKoH6y4.md) [https://www.youtube.com/watch?v=pkKMsKoH6y4](https://www.youtube.com/watch?v=pkKMsKoH6y4)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Will you add early-game gases?](../../transcriptions/yt-A6j0dU1ZGfk.md) [https://www.youtube.com/watch?v=A6j0dU1ZGfk](https://www.youtube.com/watch?v=A6j0dU1ZGfk)
 

@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes
 
 ## July 6th, 2021 Livestream
-* Q&A: Did Satisfactory have any other names before you settled on it? [https://www.youtube.com/watch?v=5zbeDE0Velc](https://www.youtube.com/watch?v=5zbeDE0Velc)
+* [Q&A: Did Satisfactory have any other names before you settled on it?](../../transcriptions/yt-5zbeDE0Velc.md) [https://www.youtube.com/watch?v=5zbeDE0Velc](https://www.youtube.com/watch?v=5zbeDE0Velc)
 
 ## June 8th, 2021 Livestream
 * [Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](../../transcriptions/yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)

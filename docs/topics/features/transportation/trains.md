@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: Can Trains & cars have the same throughput that Drones have?](../../../transcriptions/yt-KrFS-sBw9U4.md) [https://www.youtube.com/watch?v=KrFS-sBw9U4](https://www.youtube.com/watch?v=KrFS-sBw9U4)
+* [Q&A: Why do call them "timetables" when they don't track time?](../../../transcriptions/yt-MUDbv61nCQ0.md) [https://www.youtube.com/watch?v=MUDbv61nCQ0](https://www.youtube.com/watch?v=MUDbv61nCQ0)
+* [Community FYI: Trains should have supports like Conveyors & Pipes](../../../transcriptions/yt-pncHeRlDRmQ.md) [https://www.youtube.com/watch?v=pncHeRlDRmQ](https://www.youtube.com/watch?v=pncHeRlDRmQ)
+* [Community FYI: I used Foundations & Frames & Pillars to design my own rail supports](../../../transcriptions/yt-zwcbTTf2Y2Y.md) [https://www.youtube.com/watch?v=zwcbTTf2Y2Y](https://www.youtube.com/watch?v=zwcbTTf2Y2Y)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Will you be able to set your own routes for Trains, the AI does not always use the best route?](../../../transcriptions/yt-rSX888DAE0Y.md) [https://www.youtube.com/watch?v=rSX888DAE0Y](https://www.youtube.com/watch?v=rSX888DAE0Y)
 

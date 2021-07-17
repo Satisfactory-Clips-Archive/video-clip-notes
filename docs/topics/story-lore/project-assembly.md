@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Story & Lore](../../topics/story-lore.md) > Project Assembly
 
 ## July 6th, 2021 Livestream
-* Q&A: What is Project Assembly for? [https://www.youtube.com/watch?v=TPp0jk-SXDg](https://www.youtube.com/watch?v=TPp0jk-SXDg)
+* [Q&A: What is Project Assembly for?](../../transcriptions/yt-TPp0jk-SXDg.md) [https://www.youtube.com/watch?v=TPp0jk-SXDg](https://www.youtube.com/watch?v=TPp0jk-SXDg)
 * Q&A: Why do we send stuff to the Space Elevator, is there a purpose or just to unlock new Tiers? [https://www.youtube.com/watch?v=8tmtxAwI04I](https://www.youtube.com/watch?v=8tmtxAwI04I)
 
 ## April 20th, 2021 Livestream

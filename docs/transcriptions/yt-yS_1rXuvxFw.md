@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will there be a Peacfull Mode with no Hostile Creatures?
 https://www.youtube.com/watch?v=yS_1rXuvxFw
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Will there be a Peaceful mode?](./yt-P2H7Yidopbo.md) [https://www.youtube.com/watch?v=P2H7Yidopbo](https://www.youtube.com/watch?v=P2H7Yidopbo)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Is there going to be some kind of Peaceful Mode?](./yt-pPeoQr8CpGg.md) [https://www.youtube.com/watch?v=pPeoQr8CpGg](https://www.youtube.com/watch?v=pPeoQr8CpGg)
 
 
 ### Topics

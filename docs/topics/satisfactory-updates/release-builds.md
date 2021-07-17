@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## July 13th, 2021 Livestream
+* [Q&A: How do you get the source control version number embedded in the game?](../../transcriptions/yt-C7jnOWalyHM.md) [https://www.youtube.com/watch?v=C7jnOWalyHM](https://www.youtube.com/watch?v=C7jnOWalyHM)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Does Experimental run with more detailed logging so performance would be worse?](../../transcriptions/yt-HtrCOtzx3Aw.md) [https://www.youtube.com/watch?v=HtrCOtzx3Aw](https://www.youtube.com/watch?v=HtrCOtzx3Aw)
 

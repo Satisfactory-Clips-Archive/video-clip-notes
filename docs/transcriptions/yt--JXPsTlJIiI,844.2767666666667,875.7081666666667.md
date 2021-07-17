@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Are farms going to be a thing?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=844&end=876
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Will there ever be Farming added to the base game? [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Will there ever be Farming added to the base game?](./yt-4txPAGPmzXQ.md) [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
 
 
 ### Topics

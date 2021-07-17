@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## July 13th, 2021 Livestream
+* [Q&A: Are you adding more music to the game?](../transcriptions/yt-TvhHf9MdjIw.md) [https://www.youtube.com/watch?v=TvhHf9MdjIw](https://www.youtube.com/watch?v=TvhHf9MdjIw)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Was the Update 4 Trailer music written for you?](../transcriptions/yt-yXa-4uTFKJ0.md) [https://www.youtube.com/watch?v=yXa-4uTFKJ0](https://www.youtube.com/watch?v=yXa-4uTFKJ0)
 * [Q&A: Can you release an official statement if it's okay to stream the game with music on Twitch?](../transcriptions/yt-oQKGmRdLdvs.md) [https://www.youtube.com/watch?v=oQKGmRdLdvs](https://www.youtube.com/watch?v=oQKGmRdLdvs)

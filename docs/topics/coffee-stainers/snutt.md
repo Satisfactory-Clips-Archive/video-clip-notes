@@ -7,8 +7,8 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
 ## July 6th, 2021 Livestream
-* Snutt & Jace Talk: Swedish & Spanish pronunciations of Snutt's (German) last name [https://www.youtube.com/watch?v=FnoevKAqqxk](https://www.youtube.com/watch?v=FnoevKAqqxk)
-* Q&A: What did Snutt have for breakfast? [https://www.youtube.com/watch?v=6nEbRCnR4yc](https://www.youtube.com/watch?v=6nEbRCnR4yc)
+* [Snutt & Jace Talk: Swedish & Spanish pronunciations of Snutt's (German) last name](../../transcriptions/yt-FnoevKAqqxk.md) [https://www.youtube.com/watch?v=FnoevKAqqxk](https://www.youtube.com/watch?v=FnoevKAqqxk)
+* [Q&A: What did Snutt have for breakfast?](../../transcriptions/yt-6nEbRCnR4yc.md) [https://www.youtube.com/watch?v=6nEbRCnR4yc](https://www.youtube.com/watch?v=6nEbRCnR4yc)
 * [Q&A: You guys work in the office yet?](../../transcriptions/yt-MSxZt_IUpsA.md) [https://www.youtube.com/watch?v=MSxZt_IUpsA](https://www.youtube.com/watch?v=MSxZt_IUpsA)
 * [Q&A: Do you enjoy your job at Coffee Stain?](../../transcriptions/yt--5bGGsM72l0.md) [https://www.youtube.com/watch?v=-5bGGsM72l0](https://www.youtube.com/watch?v=-5bGGsM72l0)
 * [Q&A: Why won't Jace donate hair to Snutt?](../../transcriptions/yt-zz3FDAM8zxs.md) [https://www.youtube.com/watch?v=zz3FDAM8zxs](https://www.youtube.com/watch?v=zz3FDAM8zxs)
@@ -225,7 +225,7 @@ date: Last Modified
 * [Q&A: I am grateful that our 2 Community Managers have dev experience](../../transcriptions/yt-VeGSy0F0mVY.md) [https://www.youtube.com/watch?v=VeGSy0F0mVY](https://www.youtube.com/watch?v=VeGSy0F0mVY)
 
 ## January 26th, 2021 Livestream
-* [Q&A: Do either of you have a FICSIT checkmark tatooed on your person?](../../transcriptions/yt-72yhov-YwuU.md) [https://www.youtube.com/watch?v=72yhov-YwuU](https://www.youtube.com/watch?v=72yhov-YwuU)
+* [Q&A: Do either of you have a FICSIT checkmark tattooed on your person?](../../transcriptions/yt-72yhov-YwuU.md) [https://www.youtube.com/watch?v=72yhov-YwuU](https://www.youtube.com/watch?v=72yhov-YwuU)
 * [Q&A: How much do you both play Satisfactory?](../../transcriptions/yt-fIb1LHQ0TJw.md) [https://www.youtube.com/watch?v=fIb1LHQ0TJw](https://www.youtube.com/watch?v=fIb1LHQ0TJw)
 * [Q&A: What do you guys do outside of Community Manager responsibilities?](../../transcriptions/yt-AoGBlnRxGdw.md) [https://www.youtube.com/watch?v=AoGBlnRxGdw](https://www.youtube.com/watch?v=AoGBlnRxGdw)
 * [Snutt & Jace Talk: Shaving](../../transcriptions/yt-2lh_A-WR2Gw.md) [https://www.youtube.com/watch?v=2lh_A-WR2Gw](https://www.youtube.com/watch?v=2lh_A-WR2Gw)

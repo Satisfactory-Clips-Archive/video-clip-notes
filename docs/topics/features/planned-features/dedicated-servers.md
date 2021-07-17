@@ -5,8 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## July 13th, 2021 Livestream
+* Q&A: Any progress on Dedicated Servers? [https://www.youtube.com/watch?v=p2-eAYfsDYY](https://www.youtube.com/watch?v=p2-eAYfsDYY)
+
 ## July 6th, 2021 Livestream
-* Snutt & Jace Talk: Coffee Stain Meetings [https://www.youtube.com/watch?v=9Yml4Gnkf2U](https://www.youtube.com/watch?v=9Yml4Gnkf2U)
+* [Snutt & Jace Talk: Coffee Stain Meetings](../../../transcriptions/yt-9Yml4Gnkf2U.md) [https://www.youtube.com/watch?v=9Yml4Gnkf2U](https://www.youtube.com/watch?v=9Yml4Gnkf2U)
 
 ## June 29th, 2021 Livestream
 * [Trolling: Dedicated Servers please](../../../transcriptions/yt-12HEwpNJ8zs.md) [https://www.youtube.com/watch?v=12HEwpNJ8zs](https://www.youtube.com/watch?v=12HEwpNJ8zs)

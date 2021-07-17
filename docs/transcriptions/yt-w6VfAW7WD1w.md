@@ -8,7 +8,7 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: When are we going to be able to use more than one Equipment at a time?
 https://www.youtube.com/watch?v=w6VfAW7WD1w
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Will there be a new body slot?](./yt-80Ajx6Ml2Aw.md) [https://www.youtube.com/watch?v=80Ajx6Ml2Aw](https://www.youtube.com/watch?v=80Ajx6Ml2Aw)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any chance we can get another Body Slot?](./yt-UuhHtf0yr64.md) [https://www.youtube.com/watch?v=UuhHtf0yr64](https://www.youtube.com/watch?v=UuhHtf0yr64)
 
 
 ### Topics

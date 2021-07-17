@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Terraforming
 
+## July 13th, 2021 Livestream
+* [Q&A: Consider terraforming?](../../../transcriptions/yt-CR-lp1uJfIw.md) [https://www.youtube.com/watch?v=CR-lp1uJfIw](https://www.youtube.com/watch?v=CR-lp1uJfIw)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Is there a way to alter the terrain in certain circumstances?](../../../transcriptions/yt-35jxkNZh7mA.md) [https://www.youtube.com/watch?v=35jxkNZh7mA](https://www.youtube.com/watch?v=35jxkNZh7mA)
 

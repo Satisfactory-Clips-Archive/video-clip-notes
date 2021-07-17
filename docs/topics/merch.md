@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: Mug?](../transcriptions/yt-c6X2qE0ou1M.md) [https://www.youtube.com/watch?v=c6X2qE0ou1M](https://www.youtube.com/watch?v=c6X2qE0ou1M)
+
 ## July 6th, 2021 Livestream
 * [Q&A: When's the mug coming?](../transcriptions/yt-PSnl87wl_Os.md) [https://www.youtube.com/watch?v=PSnl87wl_Os](https://www.youtube.com/watch?v=PSnl87wl_Os)
 

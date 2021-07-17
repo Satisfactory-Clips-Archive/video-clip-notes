@@ -6,10 +6,16 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: Why do call them "timetables" when they don't track time?](../../transcriptions/yt-MUDbv61nCQ0.md) [https://www.youtube.com/watch?v=MUDbv61nCQ0](https://www.youtube.com/watch?v=MUDbv61nCQ0)
+* [Q&A: Have you ever tried overclocking Fuel Generators, it has a very confusing interface?](../../transcriptions/yt-W6Zxy430lZo.md) [https://www.youtube.com/watch?v=W6Zxy430lZo](https://www.youtube.com/watch?v=W6Zxy430lZo)
+* [Q&A: Will Truck Stations, Trucks & Tractors be renamable?](../../transcriptions/yt-xOPbMP6jy6E.md) [https://www.youtube.com/watch?v=xOPbMP6jy6E](https://www.youtube.com/watch?v=xOPbMP6jy6E)
+* [Q&A: Will the in-game calculator be updated to be more scientifically-minded?](../../transcriptions/yt-ciJP3Sa_ybI.md) [https://www.youtube.com/watch?v=ciJP3Sa_ybI](https://www.youtube.com/watch?v=ciJP3Sa_ybI)
+
 ## July 6th, 2021 Livestream
-* Localization Community Highlight: Localization Debug Mode [https://www.youtube.com/watch?v=wK2NURlKWxM](https://www.youtube.com/watch?v=wK2NURlKWxM)
-* Snutt & Jace Talk: DebugText% [https://www.youtube.com/watch?v=R_PE2NXxUlw](https://www.youtube.com/watch?v=R_PE2NXxUlw)
-* Alex & McGalleon & Jace Talk: Working with the UI Team [https://www.youtube.com/watch?v=J87W2wlGVJ0](https://www.youtube.com/watch?v=J87W2wlGVJ0)
+* [Localization Community Highlight: Localization Debug Mode](../../transcriptions/yt-wK2NURlKWxM.md) [https://www.youtube.com/watch?v=wK2NURlKWxM](https://www.youtube.com/watch?v=wK2NURlKWxM)
+* [Snutt & Jace Talk: DebugText%](../../transcriptions/yt-R_PE2NXxUlw.md) [https://www.youtube.com/watch?v=R_PE2NXxUlw](https://www.youtube.com/watch?v=R_PE2NXxUlw)
+* [Alex & McGalleon & Jace Talk: Working with the UI Team](../../transcriptions/yt-J87W2wlGVJ0.md) [https://www.youtube.com/watch?v=J87W2wlGVJ0](https://www.youtube.com/watch?v=J87W2wlGVJ0)
 * Snutt & Alex Talk: Switching languages in the game [https://www.youtube.com/watch?v=7OgxrcqFwY8](https://www.youtube.com/watch?v=7OgxrcqFwY8)
 * [Q&A: Have you thought about updating values when overclocking without needing both items & power?](../../transcriptions/yt-zf3aLdrxZKc.md) [https://www.youtube.com/watch?v=zf3aLdrxZKc](https://www.youtube.com/watch?v=zf3aLdrxZKc)
 

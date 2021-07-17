@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Walls/barriers that follow the incline of Foundation?
 https://www.youtube.com/watch?v=UK0P7CWe1V4
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Any news on ramp fences?](./yt-F4RJIokIzlY.md) [https://www.youtube.com/watch?v=F4RJIokIzlY](https://www.youtube.com/watch?v=F4RJIokIzlY)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: When will we have fences for ramps?](./yt-t8yHcCZPSF4.md) [https://www.youtube.com/watch?v=t8yHcCZPSF4](https://www.youtube.com/watch?v=t8yHcCZPSF4)
 
 
 ### Topics

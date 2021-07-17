@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: Will you fix the Multiplayer bugs in the next Update?](../../transcriptions/yt-7Fa_fPfnP2Y.md) [https://www.youtube.com/watch?v=7Fa_fPfnP2Y](https://www.youtube.com/watch?v=7Fa_fPfnP2Y)
+
 ## July 6th, 2021 Livestream
 * [Q&A: I need someone to collect slugs in my game, do you provide that service?](../../transcriptions/yt-mmwKyAUI6q8.md) [https://www.youtube.com/watch?v=mmwKyAUI6q8](https://www.youtube.com/watch?v=mmwKyAUI6q8)
 

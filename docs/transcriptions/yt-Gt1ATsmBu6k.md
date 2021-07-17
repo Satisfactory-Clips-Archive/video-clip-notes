@@ -11,7 +11,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Can I wear Boots, Jetpack and a Gas Mask?
 https://www.youtube.com/watch?v=Gt1ATsmBu6k
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Will there be a new body slot?](./yt-80Ajx6Ml2Aw.md) [https://www.youtube.com/watch?v=80Ajx6Ml2Aw](https://www.youtube.com/watch?v=80Ajx6Ml2Aw)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any chance we can get another Body Slot?](./yt-UuhHtf0yr64.md) [https://www.youtube.com/watch?v=UuhHtf0yr64](https://www.youtube.com/watch?v=UuhHtf0yr64)
 
 
 ### Topics

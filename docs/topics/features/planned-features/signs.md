@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## July 13th, 2021 Livestream
+* [Q&A: Add name tag on Container?](../../../transcriptions/yt-ARhDX9dqoGE.md) [https://www.youtube.com/watch?v=ARhDX9dqoGE](https://www.youtube.com/watch?v=ARhDX9dqoGE)
+* [Q&A: Would you consider adding custom text signs?](../../../transcriptions/yt-HmdG5XPGjN8.md) [https://www.youtube.com/watch?v=HmdG5XPGjN8](https://www.youtube.com/watch?v=HmdG5XPGjN8)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: Will Signs be in the AWESOME Shop?](../../../transcriptions/yt-FGSWvdPw8Uk.md) [https://www.youtube.com/watch?v=FGSWvdPw8Uk](https://www.youtube.com/watch?v=FGSWvdPw8Uk)
 

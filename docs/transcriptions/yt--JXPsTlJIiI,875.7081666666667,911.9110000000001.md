@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Will there ever be 3rd person?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=875&end=912
-This question was possibly duplicated with a more recent answer: [February 23rd, 2021 Livestream Q&A: Third Person View?](./yt-wcP5kwfOfSc.md) [https://www.youtube.com/watch?v=wcP5kwfOfSc](https://www.youtube.com/watch?v=wcP5kwfOfSc)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any thoughts about non-first-person Building Mode?](./yt-K2gmJrcqZ20.md) [https://www.youtube.com/watch?v=K2gmJrcqZ20](https://www.youtube.com/watch?v=K2gmJrcqZ20)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel
 
+## July 13th, 2021 Livestream
+* [Community FYI: You said flying Vehicles would never be a thing, and then we got Drones](../../../transcriptions/yt-Aqe4sfwWECk.md) [https://www.youtube.com/watch?v=Aqe4sfwWECk](https://www.youtube.com/watch?v=Aqe4sfwWECk)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Will Drones ever be able to carry the Pioneer?](../../../transcriptions/yt-L0-x7Htlj14.md) [https://www.youtube.com/watch?v=L0-x7Htlj14](https://www.youtube.com/watch?v=L0-x7Htlj14)
 

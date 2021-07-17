@@ -3,14 +3,18 @@ title: "July 6th, 2021 Livestream Q&A: When will you stop updating the game for 
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "technology/graphics"
+    - "environment"
+    - "environment/world-map"
+    - "localisation"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: When will you stop updating the game for language translation and patch this broken map?
 https://www.youtube.com/watch?v=umeicktBnxg
 
 ### Topics
-* [Technology > Graphics](../topics/technology/graphics.md)
+* [Environment](../topics/environment.md)
+* [Environment > World Map](../topics/environment/world-map.md)
+* [Localisation](../topics/localisation.md)
 
 ### Transcript
 

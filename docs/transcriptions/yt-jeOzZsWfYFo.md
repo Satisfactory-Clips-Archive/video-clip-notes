@@ -9,7 +9,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Will we get Quantum Computers & Superposition Oscillators before 1.0?
 https://www.youtube.com/watch?v=jeOzZsWfYFo
-This question was possibly duplicated with a more recent answer: May 18th, 2021 Livestream Q&A: Quantum Computers & Superposition Oscillators; Update 5 content or separate release? [https://www.youtube.com/watch?v=gIahtVFvL68](https://www.youtube.com/watch?v=gIahtVFvL68)
+This question was possibly duplicated with a more recent answer: July 13th, 2021 Livestream Q&A: Will the Quantum Computer or Superposition Oscillator come in Update 5? [https://www.youtube.com/watch?v=vlKol_rSeM0](https://www.youtube.com/watch?v=vlKol_rSeM0)
 
 
 ### Topics

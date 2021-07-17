@@ -1,5 +1,5 @@
 ---
-title: "January 26th, 2021 Livestream Q&A: Do either of you have a FICSIT checkmark tatooed on your person?"
+title: "January 26th, 2021 Livestream Q&A: Do either of you have a FICSIT checkmark tattooed on your person?"
 date: "2021-01-26"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "coffee-stainers/snutt"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
-## Q&A: Do either of you have a FICSIT checkmark tatooed on your person?
+## Q&A: Do either of you have a FICSIT checkmark tattooed on your person?
 https://www.youtube.com/watch?v=72yhov-YwuU
 
 ### Topics

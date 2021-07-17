@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Sandbox mode available?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Will there be a Creative Mode?](./yt-t5M96JMVybM.md) [https://www.youtube.com/watch?v=t5M96JMVybM](https://www.youtube.com/watch?v=t5M96JMVybM)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Creative Mode?](./yt-vUd-XU0sTXo.md) [https://www.youtube.com/watch?v=vUd-XU0sTXo](https://www.youtube.com/watch?v=vUd-XU0sTXo)
 
 
 ### Topics

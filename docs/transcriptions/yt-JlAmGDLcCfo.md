@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Can you guys add a lifestyle update with furniture in?
 https://www.youtube.com/watch?v=JlAmGDLcCfo
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Will you add more decoration options so we don't have to rely on Mods so much?](./yt-453B0wDDHFA.md) [https://www.youtube.com/watch?v=453B0wDDHFA](https://www.youtube.com/watch?v=453B0wDDHFA)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any chance of purely-aesthetic parts?](./yt-pduDLZtiJwI.md) [https://www.youtube.com/watch?v=pduDLZtiJwI](https://www.youtube.com/watch?v=pduDLZtiJwI)
 
 
 ### Topics

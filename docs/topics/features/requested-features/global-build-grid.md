@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Global Build Grid
 
+## July 13th, 2021 Livestream
+* [Q&A: Will there ever be global grid options based off of your first Foundation?](../../../transcriptions/yt-ITqM4YCJpgU.md) [https://www.youtube.com/watch?v=ITqM4YCJpgU](https://www.youtube.com/watch?v=ITqM4YCJpgU)
+* [Community FYI: Global grid would be pretty cool](../../../transcriptions/yt-wQDevAQJ3DI.md) [https://www.youtube.com/watch?v=wQDevAQJ3DI](https://www.youtube.com/watch?v=wQDevAQJ3DI)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Global grid?](../../../transcriptions/yt-_psXx_dfadY.md) [https://www.youtube.com/watch?v=_psXx_dfadY](https://www.youtube.com/watch?v=_psXx_dfadY)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Character Customisation
 
+## July 13th, 2021 Livestream
+* [Q&A: Any plans for Character Customisation?](../../../transcriptions/yt-bC4-mnWrSQM.md) [https://www.youtube.com/watch?v=bC4-mnWrSQM](https://www.youtube.com/watch?v=bC4-mnWrSQM)
+* [Q&A: Is there plans to have a helmet-less Pioneer?](../../../transcriptions/yt-U2AePcCYNEI.md) [https://www.youtube.com/watch?v=U2AePcCYNEI](https://www.youtube.com/watch?v=U2AePcCYNEI)
+
 ## June 29th, 2021 Livestream
 * [Q&A: How about a male character model?](../../../transcriptions/yt-yNnIzPtYBcs.md) [https://www.youtube.com/watch?v=yNnIzPtYBcs](https://www.youtube.com/watch?v=yNnIzPtYBcs)
 

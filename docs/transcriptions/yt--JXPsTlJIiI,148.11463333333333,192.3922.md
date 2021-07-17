@@ -9,7 +9,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Will FICS⁕MAS and seasonal events in general be a regular thing?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: In-game events in the near-time?](./yt-9BJfkfV6Ka4.md) [https://www.youtube.com/watch?v=9BJfkfV6Ka4](https://www.youtube.com/watch?v=9BJfkfV6Ka4)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any more Holiday Events?](./yt-PLi6OES4LTg.md) [https://www.youtube.com/watch?v=PLi6OES4LTg](https://www.youtube.com/watch?v=PLi6OES4LTg)
 
 
 ### Topics

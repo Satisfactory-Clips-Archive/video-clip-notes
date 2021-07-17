@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## July 13th, 2021 Livestream
+* [Q&A: Ability to change Arachnophobia Mode replace cats with Jace & Snutt?](../../../transcriptions/yt-nktOwqQ3gpI.md) [https://www.youtube.com/watch?v=nktOwqQ3gpI](https://www.youtube.com/watch?v=nktOwqQ3gpI)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Arachnophobia Mode](../../../transcriptions/yt-GHWfece0mjM.md) [https://www.youtube.com/watch?v=GHWfece0mjM](https://www.youtube.com/watch?v=GHWfece0mjM)
 

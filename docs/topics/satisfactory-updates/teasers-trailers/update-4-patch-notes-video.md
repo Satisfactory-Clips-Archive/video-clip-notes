@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 4 Patch Notes Video
 
+## July 13th, 2021 Livestream
+* [Q&A: Does Jace still feel sad about his PS5?](../../../transcriptions/yt-6zXM0xfjYEE.md) [https://www.youtube.com/watch?v=6zXM0xfjYEE](https://www.youtube.com/watch?v=6zXM0xfjYEE)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Did Jace become Dora of Coffee Stain Studios?](../../../transcriptions/yt-n2iZ5LMi2QI.md) [https://www.youtube.com/watch?v=n2iZ5LMi2QI](https://www.youtube.com/watch?v=n2iZ5LMi2QI)
 

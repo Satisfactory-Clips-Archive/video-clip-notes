@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Better Autosave system?
 https://www.youtube.com/watch?v=EGl4PxUS0J8
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Faster autosaves?](./yt-V1HcV3g7ELg.md) [https://www.youtube.com/watch?v=V1HcV3g7ELg](https://www.youtube.com/watch?v=V1HcV3g7ELg)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Quicker Autosave, please?](./yt-cIhVRJPmBoc.md) [https://www.youtube.com/watch?v=cIhVRJPmBoc](https://www.youtube.com/watch?v=cIhVRJPmBoc)
 
 
 ### Topics

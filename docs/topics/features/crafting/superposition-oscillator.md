@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Superposition Oscillator
 
+## July 13th, 2021 Livestream
+* Q&A: Will the Quantum Computer or Superposition Oscillator come in Update 5? [https://www.youtube.com/watch?v=vlKol_rSeM0](https://www.youtube.com/watch?v=vlKol_rSeM0)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Can we get a way to skip certain stages for new playthroughs?](../../../transcriptions/yt-DE_UxFAQUm0.md) [https://www.youtube.com/watch?v=DE_UxFAQUm0](https://www.youtube.com/watch?v=DE_UxFAQUm0)
 * [Community FYI: There is FICS⁕MAS event thing you need for one of the crash sites](../../../transcriptions/yt-UMBKLIKZ610.md) [https://www.youtube.com/watch?v=UMBKLIKZ610](https://www.youtube.com/watch?v=UMBKLIKZ610)

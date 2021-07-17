@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Creative Mode
 
+## July 13th, 2021 Livestream
+* [Q&A: Creative Mode?](../../../../transcriptions/yt-vUd-XU0sTXo.md) [https://www.youtube.com/watch?v=vUd-XU0sTXo](https://www.youtube.com/watch?v=vUd-XU0sTXo)
+
 ## June 18th, 2021 Livestream
 * Jace Talk: Game Modes [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353)
 

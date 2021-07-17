@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: Have you ever tried overclocking Fuel Generators, it has a very confusing interface?](../../transcriptions/yt-W6Zxy430lZo.md) [https://www.youtube.com/watch?v=W6Zxy430lZo](https://www.youtube.com/watch?v=W6Zxy430lZo)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](../../transcriptions/yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)
 

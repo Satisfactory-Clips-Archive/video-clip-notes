@@ -44,6 +44,9 @@ date: Last Modified
 ## November 3rd, 2020 Livestream
 * [Q&A: Will there be an update on how many copies of the game has sold?](../transcriptions/yt-WevOPEUHjT4.md) [https://www.youtube.com/watch?v=WevOPEUHjT4](https://www.youtube.com/watch?v=WevOPEUHjT4)
 
+## August 25th, 2020 Livestream
+* [Q&A: Can you make it free for one time only?](../transcriptions/yt-LSc7QIlaGg4.md) [https://www.youtube.com/watch?v=LSc7QIlaGg4](https://www.youtube.com/watch?v=LSc7QIlaGg4)
+
 ## July 3rd, 2020 Video
 * [Jace Talk: Sales figures for Satisfactory](../transcriptions/yt-8ZxNtTPmiJU,16.934897,148.2481.md) [https://youtube.com/embed/8ZxNtTPmiJU?autoplay=1&start=16&end=149](https://youtube.com/embed/8ZxNtTPmiJU?autoplay=1&start=16&end=149)
 

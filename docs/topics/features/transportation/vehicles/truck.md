@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## July 13th, 2021 Livestream
+* [Q&A: Will Truck Stations, Trucks & Tractors be renamable?](../../../../transcriptions/yt-xOPbMP6jy6E.md) [https://www.youtube.com/watch?v=xOPbMP6jy6E](https://www.youtube.com/watch?v=xOPbMP6jy6E)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Can you add Trucks that carry liquids?](../../../../transcriptions/yt-2EiZU9aWekQ.md) [https://www.youtube.com/watch?v=2EiZU9aWekQ](https://www.youtube.com/watch?v=2EiZU9aWekQ)
 

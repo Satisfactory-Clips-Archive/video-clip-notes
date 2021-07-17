@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## July 13th, 2021 Livestream
+* [Q&A: Is it true that if I use Power Shard, that I have a lot of CPU consumption?](../../../transcriptions/yt-8PCFVeQsVXo.md) [https://www.youtube.com/watch?v=8PCFVeQsVXo](https://www.youtube.com/watch?v=8PCFVeQsVXo)
+* [Q&A: Have you ever tried overclocking Fuel Generators, it has a very confusing interface?](../../../transcriptions/yt-W6Zxy430lZo.md) [https://www.youtube.com/watch?v=W6Zxy430lZo](https://www.youtube.com/watch?v=W6Zxy430lZo)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Why we can make Power Shard?](../../../transcriptions/yt-OyM6Xmc4aKM.md) [https://www.youtube.com/watch?v=OyM6Xmc4aKM](https://www.youtube.com/watch?v=OyM6Xmc4aKM)
 * [Q&A: Have you thought about updating values when overclocking without needing both items & power?](../../../transcriptions/yt-zf3aLdrxZKc.md) [https://www.youtube.com/watch?v=zf3aLdrxZKc](https://www.youtube.com/watch?v=zf3aLdrxZKc)

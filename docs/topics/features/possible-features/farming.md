@@ -5,8 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Farming
 
+## July 13th, 2021 Livestream
+* [Q&A: Any thoughts of adding a method of growing Biomass, Farms maybe?](../../../transcriptions/yt-M9XrXjf-GdU.md) [https://www.youtube.com/watch?v=M9XrXjf-GdU](https://www.youtube.com/watch?v=M9XrXjf-GdU)
+* [Q&A: Want to make a meat factory?](../../../transcriptions/yt-xjsa3kVm6Kc.md) [https://www.youtube.com/watch?v=xjsa3kVm6Kc](https://www.youtube.com/watch?v=xjsa3kVm6Kc)
+
 ## July 6th, 2021 Livestream
-* Q&A: Will there ever be Farming added to the base game? [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
+* [Q&A: Will there ever be Farming added to the base game?](../../../transcriptions/yt-4txPAGPmzXQ.md) [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
 
 ## May 25th, 2021 Livestream
 * [Q&A: Any talk of adding Farming?](../../../transcriptions/yt-bGXZgS3dKc8.md) [https://www.youtube.com/watch?v=bGXZgS3dKc8](https://www.youtube.com/watch?v=bGXZgS3dKc8)

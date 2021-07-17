@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Autopilot
 
+## July 13th, 2021 Livestream
+* [Community FYI: I kind of like riding on top of automated trucks](../../../../transcriptions/yt-95mNYrm4XZY.md) [https://www.youtube.com/watch?v=95mNYrm4XZY](https://www.youtube.com/watch?v=95mNYrm4XZY)
+
 ## March 23rd, 2021 Livestream
 * [Do you plan to integrate an automatic path travel for Trucks?](../../../../transcriptions/yt-i1cimOkbLHs.md) [https://www.youtube.com/watch?v=i1cimOkbLHs](https://www.youtube.com/watch?v=i1cimOkbLHs)
 

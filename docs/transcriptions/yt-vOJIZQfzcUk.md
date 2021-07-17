@@ -10,6 +10,8 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Does destroying trees & rocks make the game slower like making buildings?
 https://www.youtube.com/watch?v=vOJIZQfzcUk
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Is it true the more Trees & Plants cut down the slower your game is?](./yt-MwG60ilcvf0.md) [https://www.youtube.com/watch?v=MwG60ilcvf0](https://www.youtube.com/watch?v=MwG60ilcvf0)
+
 
 ### Topics
 * [Environment > Plants](../topics/environment/plants.md)

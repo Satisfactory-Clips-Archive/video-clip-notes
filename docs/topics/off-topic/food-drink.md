@@ -9,9 +9,13 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-drink/semlor.md)
 
+## July 13th, 2021 Livestream
+* [Community FYI: Those interesting animals look like they would make good burgers](../../transcriptions/yt-M644npYkLRA.md) [https://www.youtube.com/watch?v=M644npYkLRA](https://www.youtube.com/watch?v=M644npYkLRA)
+* [Q&A: What did Jace have for lunch?](../../transcriptions/yt-8Jc_IDLBlyk.md) [https://www.youtube.com/watch?v=8Jc_IDLBlyk](https://www.youtube.com/watch?v=8Jc_IDLBlyk)
+
 ## July 6th, 2021 Livestream
-* Q&A: What did Snutt have for breakfast? [https://www.youtube.com/watch?v=6nEbRCnR4yc](https://www.youtube.com/watch?v=6nEbRCnR4yc)
-* Q&A: Do you guys have time to clean 5 and a half kilos of freshly-picked strawberries? [https://www.youtube.com/watch?v=GUjo-sPcDNw](https://www.youtube.com/watch?v=GUjo-sPcDNw)
+* [Q&A: What did Snutt have for breakfast?](../../transcriptions/yt-6nEbRCnR4yc.md) [https://www.youtube.com/watch?v=6nEbRCnR4yc](https://www.youtube.com/watch?v=6nEbRCnR4yc)
+* [Q&A: Do you guys have time to clean 5 and a half kilos of freshly-picked strawberries?](../../transcriptions/yt-GUjo-sPcDNw.md) [https://www.youtube.com/watch?v=GUjo-sPcDNw](https://www.youtube.com/watch?v=GUjo-sPcDNw)
 * [Q&A: Would you choose Vodka or Tequila?](../../transcriptions/yt-Zu95lrXblrk.md) [https://www.youtube.com/watch?v=Zu95lrXblrk](https://www.youtube.com/watch?v=Zu95lrXblrk)
 
 ## June 29th, 2021 Livestream

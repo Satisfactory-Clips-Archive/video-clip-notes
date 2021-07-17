@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## July 13th, 2021 Livestream
+* [Q&A: Can we automate cutting down Trees?](../../transcriptions/yt-1glj0bQfFQc.md) [https://www.youtube.com/watch?v=1glj0bQfFQc](https://www.youtube.com/watch?v=1glj0bQfFQc)
+* [Q&A: Is it true the more Trees & Plants cut down the slower your game is?](../../transcriptions/yt-MwG60ilcvf0.md) [https://www.youtube.com/watch?v=MwG60ilcvf0](https://www.youtube.com/watch?v=MwG60ilcvf0)
+* [Community FYI: Need a robot lawnmower that brings me all the Flower Petals, that'd be nice](../../transcriptions/yt-o4C0y2dyhEw.md) [https://www.youtube.com/watch?v=o4C0y2dyhEw](https://www.youtube.com/watch?v=o4C0y2dyhEw)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Is the foliage system getting reworked?](../../transcriptions/yt-ksexAXZNcGg.md) [https://www.youtube.com/watch?v=ksexAXZNcGg](https://www.youtube.com/watch?v=ksexAXZNcGg)
 * [Q&A: Can you make flower petals renewable?](../../transcriptions/yt-kvFxIEqyL8E.md) [https://www.youtube.com/watch?v=kvFxIEqyL8E](https://www.youtube.com/watch?v=kvFxIEqyL8E)

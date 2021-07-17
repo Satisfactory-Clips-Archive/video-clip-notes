@@ -14,6 +14,12 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## July 13th, 2021 Livestream
+* Q&A: Will the Quantum Computer or Superposition Oscillator come in Update 5? [https://www.youtube.com/watch?v=vlKol_rSeM0](https://www.youtube.com/watch?v=vlKol_rSeM0)
+* [Q&A: Did the Bauxite rebalance fix the player fall-off issue?](../../transcriptions/yt-jZ-bf0y1kzE.md) [https://www.youtube.com/watch?v=jZ-bf0y1kzE](https://www.youtube.com/watch?v=jZ-bf0y1kzE)
+* [Q&A: Can you make it more obvious that Project Parts need to be used in future Project Parts?](../../transcriptions/yt-CwMFyTkMlaE.md) [https://www.youtube.com/watch?v=CwMFyTkMlaE](https://www.youtube.com/watch?v=CwMFyTkMlaE)
+* [Q&A: Can we automate cutting down Trees?](../../transcriptions/yt-1glj0bQfFQc.md) [https://www.youtube.com/watch?v=1glj0bQfFQc](https://www.youtube.com/watch?v=1glj0bQfFQc)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Do you envision the game having randomised ore deposits?](../../transcriptions/yt-os5iJblX7sM.md) [https://www.youtube.com/watch?v=os5iJblX7sM](https://www.youtube.com/watch?v=os5iJblX7sM)
 

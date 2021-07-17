@@ -12,6 +12,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: Will we ever be able to remove or destroy Poison Pillars?](../transcriptions/yt-pkKMsKoH6y4.md) [https://www.youtube.com/watch?v=pkKMsKoH6y4](https://www.youtube.com/watch?v=pkKMsKoH6y4)
+
 ## July 6th, 2021 Livestream
 * [Q&A: I really want to know who's responsible for the beautiful World design?](../transcriptions/yt-oR-6X_Lru8I.md) [https://www.youtube.com/watch?v=oR-6X_Lru8I](https://www.youtube.com/watch?v=oR-6X_Lru8I)
 * [Q&A: When will you stop updating the game for language translation and patch this broken map?](../transcriptions/yt-umeicktBnxg.md) [https://www.youtube.com/watch?v=umeicktBnxg](https://www.youtube.com/watch?v=umeicktBnxg)

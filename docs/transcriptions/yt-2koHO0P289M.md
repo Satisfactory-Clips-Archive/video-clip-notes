@@ -8,7 +8,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Is there a goal amount of Events per year?
 https://www.youtube.com/watch?v=2koHO0P289M
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: In-game events in the near-time?](./yt-9BJfkfV6Ka4.md) [https://www.youtube.com/watch?v=9BJfkfV6Ka4](https://www.youtube.com/watch?v=9BJfkfV6Ka4)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any more Holiday Events?](./yt-PLi6OES4LTg.md) [https://www.youtube.com/watch?v=PLi6OES4LTg](https://www.youtube.com/watch?v=PLi6OES4LTg)
 
 
 ### Topics

@@ -5,8 +5,14 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## July 13th, 2021 Livestream
+* [Community FYI: Those interesting animals look like they would make good burgers](../transcriptions/yt-M644npYkLRA.md) [https://www.youtube.com/watch?v=M644npYkLRA](https://www.youtube.com/watch?v=M644npYkLRA)
+* [Q&A: Can you fix the things?](../transcriptions/yt-uL-1FhPazSQ.md) [https://www.youtube.com/watch?v=uL-1FhPazSQ](https://www.youtube.com/watch?v=uL-1FhPazSQ)
+* [Community FYI: Wrangler title hints for lassoing Doggos](../transcriptions/yt-rBIoeBysK4w.md) [https://www.youtube.com/watch?v=rBIoeBysK4w](https://www.youtube.com/watch?v=rBIoeBysK4w)
+* [Q&A: Why stop playing, what's that concept?](../transcriptions/yt-s2cVSckjjvs.md) [https://www.youtube.com/watch?v=s2cVSckjjvs](https://www.youtube.com/watch?v=s2cVSckjjvs)
+
 ## July 6th, 2021 Livestream
-* Snutt & Jace Talk: Trolling about copying ideas from Mods [https://www.youtube.com/watch?v=LukumNkFhzI](https://www.youtube.com/watch?v=LukumNkFhzI)
+* [Snutt & Jace Talk: Trolling about copying ideas from Mods](../transcriptions/yt-LukumNkFhzI.md) [https://www.youtube.com/watch?v=LukumNkFhzI](https://www.youtube.com/watch?v=LukumNkFhzI)
 
 ## June 29th, 2021 Livestream
 * [Community FYI: Golf has more than 600 upvotes](../transcriptions/yt-fTiVON_tW_Y.md) [https://www.youtube.com/watch?v=fTiVON_tW_Y](https://www.youtube.com/watch?v=fTiVON_tW_Y)

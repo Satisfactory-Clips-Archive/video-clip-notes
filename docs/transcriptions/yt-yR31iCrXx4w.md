@@ -9,7 +9,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Will there be another map?
 https://www.youtube.com/watch?v=yR31iCrXx4w
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Do you plan on doing a new Map? [https://www.youtube.com/watch?v=ZfTLZTQMWU0](https://www.youtube.com/watch?v=ZfTLZTQMWU0)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Do you plan on doing a new Map?](./yt-ZfTLZTQMWU0.md) [https://www.youtube.com/watch?v=ZfTLZTQMWU0](https://www.youtube.com/watch?v=ZfTLZTQMWU0)
 
 
 ### Topics

@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: Is it true the more Trees & Plants cut down the slower your game is?](../../transcriptions/yt-MwG60ilcvf0.md) [https://www.youtube.com/watch?v=MwG60ilcvf0](https://www.youtube.com/watch?v=MwG60ilcvf0)
+
 ## June 22nd, 2021 Livestream
 * [Community FYI: Josh's save works because who knows what's going on in his factory](../../transcriptions/yt-S0ZbPSPA85k.md) [https://www.youtube.com/watch?v=S0ZbPSPA85k](https://www.youtube.com/watch?v=S0ZbPSPA85k)
 

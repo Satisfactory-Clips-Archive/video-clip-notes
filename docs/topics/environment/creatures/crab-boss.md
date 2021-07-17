@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## July 13th, 2021 Livestream
+* [Q&A: When Giant Crab?](../../../transcriptions/yt-Xl56Z8GO6-o.md) [https://www.youtube.com/watch?v=Xl56Z8GO6-o](https://www.youtube.com/watch?v=Xl56Z8GO6-o)
+* [Q&A: When will we see the Crab?](../../../transcriptions/yt-mZp1Zy4FX6k.md) [https://www.youtube.com/watch?v=mZp1Zy4FX6k](https://www.youtube.com/watch?v=mZp1Zy4FX6k)
+* [Q&A: Will there be other bosses?](../../../transcriptions/yt-W_czo-nZ4hw.md) [https://www.youtube.com/watch?v=W_czo-nZ4hw](https://www.youtube.com/watch?v=W_czo-nZ4hw)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Will the big monster from the trailer get released?](../../../transcriptions/yt-l_Ex-qIRiwo.md) [https://www.youtube.com/watch?v=l_Ex-qIRiwo](https://www.youtube.com/watch?v=l_Ex-qIRiwo)
 

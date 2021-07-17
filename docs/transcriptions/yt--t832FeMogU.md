@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Will there be signs in future updates?
 https://www.youtube.com/watch?v=-t832FeMogU
-This question was possibly duplicated with a more recent answer: June 18th, 2021 Livestream Q&A: Will we have Signs? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Would you consider adding custom text signs?](./yt-HmdG5XPGjN8.md) [https://www.youtube.com/watch?v=HmdG5XPGjN8](https://www.youtube.com/watch?v=HmdG5XPGjN8)
 
 
 ### Topics

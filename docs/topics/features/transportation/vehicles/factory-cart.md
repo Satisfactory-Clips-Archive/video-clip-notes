@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Factory Cart
 
+## July 13th, 2021 Livestream
+* [Q&A: Two Pioneers in the Cart? Why was it removed?](../../../../transcriptions/yt-jvRdfL_tEc0.md) [https://www.youtube.com/watch?v=jvRdfL_tEc0](https://www.youtube.com/watch?v=jvRdfL_tEc0)
+
 ## May 28th, 2021 Livestream
 * [Q&A: Could you quickly describe what instancing means?](../../../../transcriptions/yt-dyqOMITwLsY,1065.5645,1164.0795833333332.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1065&end=1165](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1065&end=1165)
 

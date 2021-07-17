@@ -8,7 +8,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Grow things?
 https://www.youtube.com/watch?v=drp-Fjdq8Q0
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Will there ever be Farming added to the base game? [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Will there ever be Farming added to the base game?](./yt-4txPAGPmzXQ.md) [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
 
 
 ### Topics

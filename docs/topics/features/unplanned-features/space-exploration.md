@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Space Exploration
 
+## July 13th, 2021 Livestream
+* [Q&A: Any secondary Maps or Planets planned?](../../../transcriptions/yt-q3VwDMvfbTM.md) [https://www.youtube.com/watch?v=q3VwDMvfbTM](https://www.youtube.com/watch?v=q3VwDMvfbTM)
+* Q&A: Will there be another planet? [https://www.youtube.com/watch?v=L4XI-JH7avw](https://www.youtube.com/watch?v=L4XI-JH7avw)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: Any plans on making the game multi-planetary?](../../../transcriptions/yt-fC5Ooqn4eA4.md) [https://www.youtube.com/watch?v=fC5Ooqn4eA4](https://www.youtube.com/watch?v=fC5Ooqn4eA4)
 

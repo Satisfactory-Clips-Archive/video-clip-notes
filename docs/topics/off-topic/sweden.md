@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## July 13th, 2021 Livestream
+* [Q&A: When are vacations over?](../../transcriptions/yt-47kyeruceXI.md) [https://www.youtube.com/watch?v=47kyeruceXI](https://www.youtube.com/watch?v=47kyeruceXI)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Would you choose Vodka or Tequila?](../../transcriptions/yt-Zu95lrXblrk.md) [https://www.youtube.com/watch?v=Zu95lrXblrk](https://www.youtube.com/watch?v=Zu95lrXblrk)
 

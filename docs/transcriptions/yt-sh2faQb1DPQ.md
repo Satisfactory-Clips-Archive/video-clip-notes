@@ -9,6 +9,8 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Bikes in Satisfactory confirmed?
 https://www.youtube.com/watch?v=sh2faQb1DPQ
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Will you add bikes?](./yt-rEjEJpuqsus.md) [https://www.youtube.com/watch?v=rEjEJpuqsus](https://www.youtube.com/watch?v=rEjEJpuqsus)
+
 
 ### Topics
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)

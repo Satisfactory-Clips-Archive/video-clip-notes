@@ -9,7 +9,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will Aliens become more diverse/actually challenging?
 https://www.youtube.com/watch?v=K7fDE5Dg570
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Will the big monster from the trailer get released?](./yt-l_Ex-qIRiwo.md) [https://www.youtube.com/watch?v=l_Ex-qIRiwo](https://www.youtube.com/watch?v=l_Ex-qIRiwo)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: When Giant Crab?](./yt-Xl56Z8GO6-o.md) [https://www.youtube.com/watch?v=Xl56Z8GO6-o](https://www.youtube.com/watch?v=Xl56Z8GO6-o)
 
 
 ### Topics

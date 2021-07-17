@@ -8,7 +8,7 @@ topics:
 # [July 30th, 2020 Mod Highlight](../2020-07-30.md)
 ## Q&A: When are we getting Signs?
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754
-This question was possibly duplicated with a more recent answer: June 18th, 2021 Livestream Q&A: Will we have Signs? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Would you consider adding custom text signs?](./yt-HmdG5XPGjN8.md) [https://www.youtube.com/watch?v=HmdG5XPGjN8](https://www.youtube.com/watch?v=HmdG5XPGjN8)
 
 
 ### Topics

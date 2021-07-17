@@ -8,7 +8,7 @@ topics:
 # [November 5th, 2019 Q&A](../2019-11-05.md)
 ## Q&A: Dedicated Servers?
 https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=367&end=404
-This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: Dedicated Servers?](./yt-0KMqyzOeiEU.md) [https://www.youtube.com/watch?v=0KMqyzOeiEU](https://www.youtube.com/watch?v=0KMqyzOeiEU)
+This question was possibly duplicated with a more recent answer: July 13th, 2021 Livestream Q&A: Any progress on Dedicated Servers? [https://www.youtube.com/watch?v=p2-eAYfsDYY](https://www.youtube.com/watch?v=p2-eAYfsDYY)
 
 
 ### Topics

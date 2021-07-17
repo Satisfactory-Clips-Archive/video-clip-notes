@@ -5,8 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## July 13th, 2021 Livestream
+* [Q&A: When do we get to play as the Doggo?](../../transcriptions/yt-WD5PzPADedo.md) [https://www.youtube.com/watch?v=WD5PzPADedo](https://www.youtube.com/watch?v=WD5PzPADedo)
+* [Q&A: Ability to change Arachnophobia Mode replace cats with Jace & Snutt?](../../transcriptions/yt-nktOwqQ3gpI.md) [https://www.youtube.com/watch?v=nktOwqQ3gpI](https://www.youtube.com/watch?v=nktOwqQ3gpI)
+
 ## July 6th, 2021 Livestream
-* Snutt & Jace Talk: Trolling about copying ideas from Mods [https://www.youtube.com/watch?v=LukumNkFhzI](https://www.youtube.com/watch?v=LukumNkFhzI)
+* [Snutt & Jace Talk: Trolling about copying ideas from Mods](../../transcriptions/yt-LukumNkFhzI.md) [https://www.youtube.com/watch?v=LukumNkFhzI](https://www.youtube.com/watch?v=LukumNkFhzI)
 
 ## June 29th, 2021 Livestream
 * [Q&A: Will you add more decoration options so we don't have to rely on Mods so much?](../../transcriptions/yt-453B0wDDHFA.md) [https://www.youtube.com/watch?v=453B0wDDHFA](https://www.youtube.com/watch?v=453B0wDDHFA)

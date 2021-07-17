@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## July 13th, 2021 Livestream
+* [Q&A: Did the Bauxite rebalance fix the player fall-off issue?](../../../transcriptions/yt-jZ-bf0y1kzE.md) [https://www.youtube.com/watch?v=jZ-bf0y1kzE](https://www.youtube.com/watch?v=jZ-bf0y1kzE)
+* Q&A: Performance improved a lot in Update 4, was that due to continuous improvement you mentioned? [https://www.youtube.com/watch?v=XPnh3BGUteY](https://www.youtube.com/watch?v=XPnh3BGUteY)
+
 ## July 6th, 2021 Livestream
 * Q&A: Will Update 5 be bigger than Update 4? [https://www.youtube.com/watch?v=3Ad-13NANOg](https://www.youtube.com/watch?v=3Ad-13NANOg)
 

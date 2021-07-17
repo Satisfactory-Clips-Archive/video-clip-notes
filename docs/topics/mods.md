@@ -32,6 +32,10 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## July 13th, 2021 Livestream
+* Q&A: Pizza Mod? [https://www.youtube.com/watch?v=_8gVasEIUcY](https://www.youtube.com/watch?v=_8gVasEIUcY)
+* [Q&A: A Mod with Jace Face?](../transcriptions/yt-_7mFZV4JwrU.md) [https://www.youtube.com/watch?v=_7mFZV4JwrU](https://www.youtube.com/watch?v=_7mFZV4JwrU)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Do you guys help some Mod teams or are they on there own?](../transcriptions/yt-2KJvQH-8V28.md) [https://www.youtube.com/watch?v=2KJvQH-8V28](https://www.youtube.com/watch?v=2KJvQH-8V28)
 

@@ -12,6 +12,17 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: Some YouTubers referred to a Vehicle Update, is this a thing?](../../../transcriptions/yt-414Ibs0g0Yo.md) [https://www.youtube.com/watch?v=414Ibs0g0Yo](https://www.youtube.com/watch?v=414Ibs0g0Yo)
+* [Q&A: Will you add bikes?](../../../transcriptions/yt-rEjEJpuqsus.md) [https://www.youtube.com/watch?v=rEjEJpuqsus](https://www.youtube.com/watch?v=rEjEJpuqsus)
+* [Q&A: Skateboard or hoverboard, rather than bikes?](../../../transcriptions/yt-yANHNF56qd4.md) [https://www.youtube.com/watch?v=yANHNF56qd4](https://www.youtube.com/watch?v=yANHNF56qd4)
+* Q&A: Ocean vessels? [https://www.youtube.com/watch?v=l7Pb9atvuRs](https://www.youtube.com/watch?v=l7Pb9atvuRs)
+* [Q&A: Will Vehicles be colourable?](../../../transcriptions/yt-x5oG7A7-dnA.md) [https://www.youtube.com/watch?v=x5oG7A7-dnA](https://www.youtube.com/watch?v=x5oG7A7-dnA)
+* [Q&A: Can Trains & cars have the same throughput that Drones have?](../../../transcriptions/yt-KrFS-sBw9U4.md) [https://www.youtube.com/watch?v=KrFS-sBw9U4](https://www.youtube.com/watch?v=KrFS-sBw9U4)
+* [Q&A: Two Pioneers in the Cart? Why was it removed?](../../../transcriptions/yt-jvRdfL_tEc0.md) [https://www.youtube.com/watch?v=jvRdfL_tEc0](https://www.youtube.com/watch?v=jvRdfL_tEc0)
+* Q&A: Any plans for boats? [https://www.youtube.com/watch?v=6a1lKPUaDaQ](https://www.youtube.com/watch?v=6a1lKPUaDaQ)
+* [Q&A: Blink three times if there's going to be a new Vehicle?](../../../transcriptions/yt-Qh2Gvvy68G4.md) [https://www.youtube.com/watch?v=Qh2Gvvy68G4](https://www.youtube.com/watch?v=Qh2Gvvy68G4)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Will there be Lights for Vehicles?](../../../transcriptions/yt-PxxImwwm5ko.md) [https://www.youtube.com/watch?v=PxxImwwm5ko](https://www.youtube.com/watch?v=PxxImwwm5ko)
 * [Q&A: Will Vehicle physics ever get a revisit?](../../../transcriptions/yt-IP_jZskvU6k.md) [https://www.youtube.com/watch?v=IP_jZskvU6k](https://www.youtube.com/watch?v=IP_jZskvU6k)

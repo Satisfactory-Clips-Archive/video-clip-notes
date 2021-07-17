@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Underground Biome
 
+## July 13th, 2021 Livestream
+* [Q&A: Any changes planned for the void area underground?](../../../transcriptions/yt--rldplszJSQ.md) [https://www.youtube.com/watch?v=-rldplszJSQ](https://www.youtube.com/watch?v=-rldplszJSQ)
+
 ## January 19th, 2021 Livestream
 * [Q&A: Is the Map finalised, as in there will be no more additions?](../../../transcriptions/yt-zVnmYZemxe8.md) [https://www.youtube.com/watch?v=zVnmYZemxe8](https://www.youtube.com/watch?v=zVnmYZemxe8)
 * [Q&A: Are you still planning Underground Biomes?](../../../transcriptions/yt-zho1Gn_x76w.md) [https://www.youtube.com/watch?v=zho1Gn_x76w](https://www.youtube.com/watch?v=zho1Gn_x76w)

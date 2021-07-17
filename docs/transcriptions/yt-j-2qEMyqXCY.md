@@ -9,7 +9,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Any news about the Cup?
 https://www.youtube.com/watch?v=j-2qEMyqXCY
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: When's the mug coming?](./yt-PSnl87wl_Os.md) [https://www.youtube.com/watch?v=PSnl87wl_Os](https://www.youtube.com/watch?v=PSnl87wl_Os)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Mug?](./yt-c6X2qE0ou1M.md) [https://www.youtube.com/watch?v=c6X2qE0ou1M](https://www.youtube.com/watch?v=c6X2qE0ou1M)
 
 
 ### Topics

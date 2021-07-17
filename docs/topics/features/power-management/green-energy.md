@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
+## July 13th, 2021 Livestream
+* [Q&A: Were there any plans for Solar Power now that we have Batteries?](../../../transcriptions/yt-jI0zm0I2KHU.md) [https://www.youtube.com/watch?v=jI0zm0I2KHU](https://www.youtube.com/watch?v=jI0zm0I2KHU)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](../../../transcriptions/yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)
 

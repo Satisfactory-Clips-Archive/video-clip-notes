@@ -14,8 +14,12 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: Any more destructible elements planned, I would like to explode more things with Nobelisks?](../../transcriptions/yt-kMRu9njOTE0.md) [https://www.youtube.com/watch?v=kMRu9njOTE0](https://www.youtube.com/watch?v=kMRu9njOTE0)
+* Q&A: App that turns your phone into a Build Gun? [https://www.youtube.com/watch?v=VWMpYvhC4qI](https://www.youtube.com/watch?v=VWMpYvhC4qI)
+
 ## July 6th, 2021 Livestream
-* Localization Community Highlight: Translating specialised words such as "Xeno-Zapper" [https://www.youtube.com/watch?v=XFLWFV6Sd8M](https://www.youtube.com/watch?v=XFLWFV6Sd8M)
+* [Localization Community Highlight: Translating specialised words such as "Xeno-Zapper"](../../transcriptions/yt-XFLWFV6Sd8M.md) [https://www.youtube.com/watch?v=XFLWFV6Sd8M](https://www.youtube.com/watch?v=XFLWFV6Sd8M)
 
 ## June 29th, 2021 Livestream
 * [Q&A: Equipment Hotkey, when?](../../transcriptions/yt-W56wGXyT_sA.md) [https://www.youtube.com/watch?v=W56wGXyT_sA](https://www.youtube.com/watch?v=W56wGXyT_sA)

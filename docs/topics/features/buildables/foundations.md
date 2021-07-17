@@ -6,6 +6,14 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## July 13th, 2021 Livestream
+* [Q&A: When will we have fences for ramps?](../../../transcriptions/yt-t8yHcCZPSF4.md) [https://www.youtube.com/watch?v=t8yHcCZPSF4](https://www.youtube.com/watch?v=t8yHcCZPSF4)
+* [Q&A: Would you circular Foundations in base game rather than using tricks from YouTube?](../../../transcriptions/yt-WvzJo6P-rNY.md) [https://www.youtube.com/watch?v=WvzJo6P-rNY](https://www.youtube.com/watch?v=WvzJo6P-rNY)
+* [Community FYI: Triangle Foundations would make me so happy](../../../transcriptions/yt-YzLyQJ97JQ4.md) [https://www.youtube.com/watch?v=YzLyQJ97JQ4](https://www.youtube.com/watch?v=YzLyQJ97JQ4)
+* [Q&A: Are there going to be half-Foundations?](../../../transcriptions/yt-v2-4y3n9dBw.md) [https://www.youtube.com/watch?v=v2-4y3n9dBw](https://www.youtube.com/watch?v=v2-4y3n9dBw)
+* [Q&A: If Circular foundations are a thing will Z-fighting be addressed?](../../../transcriptions/yt-4iUdXfx0v5k.md) [https://www.youtube.com/watch?v=4iUdXfx0v5k](https://www.youtube.com/watch?v=4iUdXfx0v5k)
+* [Community FYI: I used Foundations & Frames & Pillars to design my own rail supports](../../../transcriptions/yt-zwcbTTf2Y2Y.md) [https://www.youtube.com/watch?v=zwcbTTf2Y2Y](https://www.youtube.com/watch?v=zwcbTTf2Y2Y)
+
 ## June 8th, 2021 Livestream
 * [Snutt & Jace Talk: Build Modes vs. manual effort vs. mods vs. save editors](../../../transcriptions/yt-Tl2vrQ3oD18.md) [https://www.youtube.com/watch?v=Tl2vrQ3oD18](https://www.youtube.com/watch?v=Tl2vrQ3oD18)
 * [Q&A: Will you be adding ramps, walls, maybe a chair?](../../../transcriptions/yt-V20SFRk4jpw.md) [https://www.youtube.com/watch?v=V20SFRk4jpw](https://www.youtube.com/watch?v=V20SFRk4jpw)

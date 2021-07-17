@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Where's the mug?
 https://www.youtube.com/watch?v=lABA3NfAMXw
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: When's the mug coming?](./yt-PSnl87wl_Os.md) [https://www.youtube.com/watch?v=PSnl87wl_Os](https://www.youtube.com/watch?v=PSnl87wl_Os)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Mug?](./yt-c6X2qE0ou1M.md) [https://www.youtube.com/watch?v=c6X2qE0ou1M](https://www.youtube.com/watch?v=c6X2qE0ou1M)
 
 
 ### Topics

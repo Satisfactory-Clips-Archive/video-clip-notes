@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Can we have food-making in the game?
 https://www.youtube.com/watch?v=2sE4CPkkc3o
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Will there ever be Farming added to the base game? [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Will there ever be Farming added to the base game?](./yt-4txPAGPmzXQ.md) [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
 
 
 ### Topics

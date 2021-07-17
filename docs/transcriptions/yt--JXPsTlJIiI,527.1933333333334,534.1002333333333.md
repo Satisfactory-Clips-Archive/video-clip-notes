@@ -9,7 +9,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Can we paint vehicles?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=527&end=535
-This question was possibly duplicated with a more recent answer: February 2nd, 2021 Livestream Q&A: Vehicle Painting? [https://www.youtube.com/watch?v=aIproPDd8V0](https://www.youtube.com/watch?v=aIproPDd8V0)
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Will Vehicles be colourable?](./yt-x5oG7A7-dnA.md) [https://www.youtube.com/watch?v=x5oG7A7-dnA](https://www.youtube.com/watch?v=x5oG7A7-dnA)
 
 
 ### Topics

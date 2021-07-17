@@ -8,12 +8,7 @@ topics:
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: How's the current Map update progressing?
 https://www.youtube.com/watch?v=v4q_WoTeOQM
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as April 2021 and as early as March 2021.</summary>
-
-* [April 6th, 2021 Livestream Q&A: World Update, when?](./yt-ldiVaemLNss.md) [https://www.youtube.com/watch?v=ldiVaemLNss](https://www.youtube.com/watch?v=ldiVaemLNss)
-* [March 30th, 2021 Livestream Q&A: Is the World Update part of Update 4 or will that come later?](./yt-ANIKlhFcjkk.md) [https://www.youtube.com/watch?v=ANIKlhFcjkk](https://www.youtube.com/watch?v=ANIKlhFcjkk)
-</details>
+This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: When do we get a Map Update?](./yt-Ns1NwYrB16M.md) [https://www.youtube.com/watch?v=Ns1NwYrB16M](https://www.youtube.com/watch?v=Ns1NwYrB16M)
 
 
 ### Topics

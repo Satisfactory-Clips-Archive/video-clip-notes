@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## July 13th, 2021 Livestream
+* [Q&A: Is there plans to have a helmet-less Pioneer?](../../transcriptions/yt-U2AePcCYNEI.md) [https://www.youtube.com/watch?v=U2AePcCYNEI](https://www.youtube.com/watch?v=U2AePcCYNEI)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: "Damage to FICSIT property detected" - who or what is the property, the suit or the player?](../../transcriptions/yt-_w5OogSI8Wo.md) [https://www.youtube.com/watch?v=_w5OogSI8Wo](https://www.youtube.com/watch?v=_w5OogSI8Wo)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
+## July 13th, 2021 Livestream
+* [Q&A: Any chance we can get another Body Slot?](../../../transcriptions/yt-UuhHtf0yr64.md) [https://www.youtube.com/watch?v=UuhHtf0yr64](https://www.youtube.com/watch?v=UuhHtf0yr64)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Will there be a new body slot?](../../../transcriptions/yt-80Ajx6Ml2Aw.md) [https://www.youtube.com/watch?v=80Ajx6Ml2Aw](https://www.youtube.com/watch?v=80Ajx6Ml2Aw)
 

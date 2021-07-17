@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Alex
 
 ## July 6th, 2021 Livestream
-* Localization Community Highlight: Outro [https://www.youtube.com/watch?v=wqMveGY5x18](https://www.youtube.com/watch?v=wqMveGY5x18)
+* [Localization Community Highlight: Outro](../../transcriptions/yt-wqMveGY5x18.md) [https://www.youtube.com/watch?v=wqMveGY5x18](https://www.youtube.com/watch?v=wqMveGY5x18)
 
 ## April 13th, 2021 Livestream
 * Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045)

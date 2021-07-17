@@ -3,16 +3,16 @@ title: "March 24th, 2020 Livestream Q&A: How often will you be releasing new con
 date: "2020-03-24"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates"
 ---
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: How often will you be releasing new content?
 https://www.youtube.com/watch?v=1gGMZa-xf70
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: How many Updates until 1.0? [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
+This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: How many Updates until 1.0?](./yt-vGF9MjeBuus.md) [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
 
 
 ### Topics
-
+* [Satisfactory Updates](../topics/satisfactory-updates.md)
 
 ### Transcript
 

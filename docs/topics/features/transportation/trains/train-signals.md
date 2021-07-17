@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## July 13th, 2021 Livestream
+* Q&A: Will Update 5 be the Train remake and/or the last Update before 1.0? [https://www.youtube.com/watch?v=qjuQW9Qx5Mo](https://www.youtube.com/watch?v=qjuQW9Qx5Mo)
+* Q&A: Will Trains have collision with terrain? [https://www.youtube.com/watch?v=pUhrOIByr2A](https://www.youtube.com/watch?v=pUhrOIByr2A)
+* [Q&A: Train switches won't be fun to code](../../../../transcriptions/yt-3xmta8wRxz8.md) [https://www.youtube.com/watch?v=3xmta8wRxz8](https://www.youtube.com/watch?v=3xmta8wRxz8)
+* [Q&A: Would you mind defining Train Signalling & Train Collisions that everyone keeps asking for?](../../../../transcriptions/yt-0PJMyS9k9Nc.md) [https://www.youtube.com/watch?v=0PJMyS9k9Nc](https://www.youtube.com/watch?v=0PJMyS9k9Nc)
+* [Q&A: Would the Train Signals be similar to the system in Factorio?](../../../../transcriptions/yt-91vobZE_Zww.md) [https://www.youtube.com/watch?v=91vobZE_Zww](https://www.youtube.com/watch?v=91vobZE_Zww)
+* [Q&A: Trains are going to smash into each other, or will they be smart once collisions are enabled?](../../../../transcriptions/yt-5MBPRaV8NZs.md) [https://www.youtube.com/watch?v=5MBPRaV8NZs](https://www.youtube.com/watch?v=5MBPRaV8NZs)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Does Train Collision mean that Trains will collide with terrain & buildings like Trucks do?](../../../../transcriptions/yt-3rgaLHEbzMg.md) [https://www.youtube.com/watch?v=3rgaLHEbzMg](https://www.youtube.com/watch?v=3rgaLHEbzMg)
 

@@ -3,14 +3,14 @@ title: "August 25th, 2020 Livestream Q&A: Can you make it free for one time only
 date: "2020-08-25"
 layout: transcript
 topics:
-    - ""
+    - "retail"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Can you make it free for one time only?
 https://www.youtube.com/watch?v=LSc7QIlaGg4
 
 ### Topics
-
+* [Retail](../topics/retail.md)
 
 ### Transcript
 

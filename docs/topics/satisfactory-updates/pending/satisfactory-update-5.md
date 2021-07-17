@@ -5,12 +5,26 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
 
+## July 13th, 2021 Livestream
+* [State of Dev: Update 5](../../../transcriptions/yt-BlpeB9T_1Ns.md) [https://www.youtube.com/watch?v=BlpeB9T_1Ns](https://www.youtube.com/watch?v=BlpeB9T_1Ns)
+* [State of Dev: TL;DR](../../../transcriptions/yt-XqPZ6iZ0GCg.md) [https://www.youtube.com/watch?v=XqPZ6iZ0GCg](https://www.youtube.com/watch?v=XqPZ6iZ0GCg)
+* [Q&A: When is Update 5 coming?](../../../transcriptions/yt-iwOHi2NY5UI.md) [https://www.youtube.com/watch?v=iwOHi2NY5UI](https://www.youtube.com/watch?v=iwOHi2NY5UI)
+* [Q&A: Are you filming the playtest so we can have a mini-documentary during Update 5 launch stream?](../../../transcriptions/yt-bQoFSKckhQs.md) [https://www.youtube.com/watch?v=bQoFSKckhQs](https://www.youtube.com/watch?v=bQoFSKckhQs)
+* [Q&A: Will there be a Smart!-similar system for Update 5?](../../../transcriptions/yt-s1AawKfPvK0.md) [https://www.youtube.com/watch?v=s1AawKfPvK0](https://www.youtube.com/watch?v=s1AawKfPvK0)
+* Q&A: Will Update 5 be the Train remake and/or the last Update before 1.0? [https://www.youtube.com/watch?v=qjuQW9Qx5Mo](https://www.youtube.com/watch?v=qjuQW9Qx5Mo)
+* [Q&A: Will you fix the Multiplayer bugs in the next Update?](../../../transcriptions/yt-7Fa_fPfnP2Y.md) [https://www.youtube.com/watch?v=7Fa_fPfnP2Y](https://www.youtube.com/watch?v=7Fa_fPfnP2Y)
+* [Q&A: When Update 5?](../../../transcriptions/yt-n9RVKfDqqag.md) [https://www.youtube.com/watch?v=n9RVKfDqqag](https://www.youtube.com/watch?v=n9RVKfDqqag)
+* Q&A: Will the Quantum Computer or Superposition Oscillator come in Update 5? [https://www.youtube.com/watch?v=vlKol_rSeM0](https://www.youtube.com/watch?v=vlKol_rSeM0)
+* [Q&A: Some sneak-peek pictures?](../../../transcriptions/yt-NGASSnryRp0.md) [https://www.youtube.com/watch?v=NGASSnryRp0](https://www.youtube.com/watch?v=NGASSnryRp0)
+* [Q&A: Blink three times if there's going to be a new Vehicle?](../../../transcriptions/yt-Qh2Gvvy68G4.md) [https://www.youtube.com/watch?v=Qh2Gvvy68G4](https://www.youtube.com/watch?v=Qh2Gvvy68G4)
+* [Q&A: Golf confirmed, Update 5?](../../../transcriptions/yt-Qmb7auhBqvs.md) [https://www.youtube.com/watch?v=Qmb7auhBqvs](https://www.youtube.com/watch?v=Qmb7auhBqvs)
+
 ## July 6th, 2021 Livestream
-* State of Dev: Internal builds of Update 5 [https://www.youtube.com/watch?v=mVtsTBLEbvs](https://www.youtube.com/watch?v=mVtsTBLEbvs)
-* Q&A: Do we know what's going to be in Update 5? [https://www.youtube.com/watch?v=giUJWJP_VTE](https://www.youtube.com/watch?v=giUJWJP_VTE)
-* Q&A: Can you tell us the theme for Update 5? [https://www.youtube.com/watch?v=GeoD7JmX6cM](https://www.youtube.com/watch?v=GeoD7JmX6cM)
-* Q&A: When do you plan to announce details for Update 5 [https://www.youtube.com/watch?v=JKNpXoM1Rv4](https://www.youtube.com/watch?v=JKNpXoM1Rv4)
-* Q&A: Will Update 5 live up to the hype? [https://www.youtube.com/watch?v=9RAPB6rsco8](https://www.youtube.com/watch?v=9RAPB6rsco8)
+* [State of Dev: Internal builds of Update 5](../../../transcriptions/yt-mVtsTBLEbvs.md) [https://www.youtube.com/watch?v=mVtsTBLEbvs](https://www.youtube.com/watch?v=mVtsTBLEbvs)
+* [Q&A: Do we know what's going to be in Update 5?](../../../transcriptions/yt-giUJWJP_VTE.md) [https://www.youtube.com/watch?v=giUJWJP_VTE](https://www.youtube.com/watch?v=giUJWJP_VTE)
+* [Q&A: Can you tell us the theme for Update 5?](../../../transcriptions/yt-GeoD7JmX6cM.md) [https://www.youtube.com/watch?v=GeoD7JmX6cM](https://www.youtube.com/watch?v=GeoD7JmX6cM)
+* [Q&A: When do you plan to announce details for Update 5](../../../transcriptions/yt-JKNpXoM1Rv4.md) [https://www.youtube.com/watch?v=JKNpXoM1Rv4](https://www.youtube.com/watch?v=JKNpXoM1Rv4)
+* [Q&A: Will Update 5 live up to the hype?](../../../transcriptions/yt-9RAPB6rsco8.md) [https://www.youtube.com/watch?v=9RAPB6rsco8](https://www.youtube.com/watch?v=9RAPB6rsco8)
 * [Q&A: Is there any major performance boost in Update 5?](../../../transcriptions/yt-Vcf5p_uTs7w.md) [https://www.youtube.com/watch?v=Vcf5p_uTs7w](https://www.youtube.com/watch?v=Vcf5p_uTs7w)
 * [Q&A: Is there a main thing in Update 5?](../../../transcriptions/yt-zl0iKo3TKng.md) [https://www.youtube.com/watch?v=zl0iKo3TKng](https://www.youtube.com/watch?v=zl0iKo3TKng)
 * Q&A: Will Update 5 be bigger than Update 4? [https://www.youtube.com/watch?v=3Ad-13NANOg](https://www.youtube.com/watch?v=3Ad-13NANOg)

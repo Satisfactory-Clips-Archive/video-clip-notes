@@ -5,8 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
+## July 13th, 2021 Livestream
+* [Q&A: Any chance there will be survival mode soon like monsters attack your base at night and stuff?](../../../transcriptions/yt-bJNwHG1M-6c.md) [https://www.youtube.com/watch?v=bJNwHG1M-6c](https://www.youtube.com/watch?v=bJNwHG1M-6c)
+
 ## July 6th, 2021 Livestream
-* Community Highlights: Kinda looks like turrets [https://www.youtube.com/watch?v=y4-QPJ5UuI8](https://www.youtube.com/watch?v=y4-QPJ5UuI8)
+* [Community Highlights: Kinda looks like turrets](../../../transcriptions/yt-y4-QPJ5UuI8.md) [https://www.youtube.com/watch?v=y4-QPJ5UuI8](https://www.youtube.com/watch?v=y4-QPJ5UuI8)
 
 ## June 22nd, 2021 Livestream
 * Q&A: What's the coolest Concept Art that Torsten has made that's been thrown out? [https://www.youtube.com/watch?v=kI5onSQdJLs](https://www.youtube.com/watch?v=kI5onSQdJLs)
