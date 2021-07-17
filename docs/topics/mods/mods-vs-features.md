@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## July 16th, 2021 Livestream
+* [Q&A: Are you influenced by Mods?](../../transcriptions/yt-Z2WggHmVHGI,235.13490000000002,308.97533333333337.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=235&end=309](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=235&end=309)
+* [Community FYI: You stole Feature X from this mod!!!](../../transcriptions/yt-Z2WggHmVHGI,309.00870000000003,364.83113333333336.md) [https://youtube.com/clip/UgziQKW9eKklGg5acQx4AaABCQ](https://youtube.com/clip/UgziQKW9eKklGg5acQx4AaABCQ)
+* [Q&A: Why haven't you added [Feature] into the base game?](../../transcriptions/yt-Z2WggHmVHGI,364.8645,545.6784666666666.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=364&end=546](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=364&end=546)
+
 ## July 13th, 2021 Livestream
 * [Q&A: When do we get to play as the Doggo?](../../transcriptions/yt-WD5PzPADedo.md) [https://www.youtube.com/watch?v=WD5PzPADedo](https://www.youtube.com/watch?v=WD5PzPADedo)
 * [Q&A: Ability to change Arachnophobia Mode replace cats with Jace & Snutt?](../../transcriptions/yt-nktOwqQ3gpI.md) [https://www.youtube.com/watch?v=nktOwqQ3gpI](https://www.youtube.com/watch?v=nktOwqQ3gpI)

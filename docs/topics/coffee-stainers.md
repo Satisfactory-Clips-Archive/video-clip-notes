@@ -35,6 +35,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## July 16th, 2021 Livestream
+* [Q&A: Are you okay with people modding Satisfactory‽](../transcriptions/yt-Z2WggHmVHGI,95.26183333333333,135.70223333333334.md) [https://youtube.com/clip/UgxFKiSujXKdNnKqhY94AaABCQ](https://youtube.com/clip/UgxFKiSujXKdNnKqhY94AaABCQ)
+
 ## July 13th, 2021 Livestream
 * [Q&A: When are vacations over?](../transcriptions/yt-47kyeruceXI.md) [https://www.youtube.com/watch?v=47kyeruceXI](https://www.youtube.com/watch?v=47kyeruceXI)
 

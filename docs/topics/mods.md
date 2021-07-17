@@ -32,6 +32,10 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## July 16th, 2021 Livestream
+* [Q&A: Are you okay with people modding Satisfactory‽](../transcriptions/yt-Z2WggHmVHGI,95.26183333333333,135.70223333333334.md) [https://youtube.com/clip/UgxFKiSujXKdNnKqhY94AaABCQ](https://youtube.com/clip/UgxFKiSujXKdNnKqhY94AaABCQ)
+* [Q&A: I use mods and my game is crashing. Can you help?](../transcriptions/yt-Z2WggHmVHGI,545.7118333333333,614.9476666666667.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=545&end=615](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=545&end=615)
+
 ## July 13th, 2021 Livestream
 * Q&A: Pizza Mod? [https://www.youtube.com/watch?v=_8gVasEIUcY](https://www.youtube.com/watch?v=_8gVasEIUcY)
 * [Q&A: A Mod with Jace Face?](../transcriptions/yt-_7mFZV4JwrU.md) [https://www.youtube.com/watch?v=_7mFZV4JwrU](https://www.youtube.com/watch?v=_7mFZV4JwrU)

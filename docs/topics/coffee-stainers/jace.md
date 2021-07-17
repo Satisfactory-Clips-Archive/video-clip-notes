@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 
+## July 16th, 2021 Livestream
+* [Intro Karaoke (RIP Chester)](../../transcriptions/yt-Z2WggHmVHGI,,9.6096.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=0&end=10](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=0&end=10)
+
 ## July 13th, 2021 Livestream
 * [Jace Talk: Getting used to Snutt's stream setup](../../transcriptions/yt-ayWs12NtiU8.md) [https://www.youtube.com/watch?v=ayWs12NtiU8](https://www.youtube.com/watch?v=ayWs12NtiU8)
 * [Q&A: Is that a Portal tattoo on your wrist?](../../transcriptions/yt-8HGFi6hIqoU.md) [https://www.youtube.com/watch?v=8HGFi6hIqoU](https://www.youtube.com/watch?v=8HGFi6hIqoU)

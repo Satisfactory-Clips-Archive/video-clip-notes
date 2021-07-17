@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Official Mod Support
 * [Steam Workshop](../../topics/mods/official-mod-support/steam-workshop.md)
 
+## July 16th, 2021 Livestream
+* [Q&A: Does Satisfactory have Official Mod Support?](../../transcriptions/yt-Z2WggHmVHGI,39.1391,95.22846666666666.md) [https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ](https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Do you guys help some Mod teams or are they on there own?](../../transcriptions/yt-2KJvQH-8V28.md) [https://www.youtube.com/watch?v=2KJvQH-8V28](https://www.youtube.com/watch?v=2KJvQH-8V28)
 

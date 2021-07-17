@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Mods](../../../topics/mods.md) > [Official Mod Support](../../../topics/mods/official-mod-support.md) > Steam Workshop
 
+## July 16th, 2021 Livestream
+* [Q&A: Will there be Steam Workshop?](../../../transcriptions/yt-Z2WggHmVHGI,135.7356,235.10153333333335.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=135&end=236](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=135&end=236)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Steam Workshop?](../../../transcriptions/yt-Ildv99O7E0M.md) [https://www.youtube.com/watch?v=Ildv99O7E0M](https://www.youtube.com/watch?v=Ildv99O7E0M)
 
