@@ -8,6 +8,8 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Are you okay with Mods?
 https://www.youtube.com/watch?v=IalBixhW2ck
+This question was possibly duplicated with a more recent answer: [July 16th, 2021 Livestream Q&A: Are you okay with people modding Satisfactory‽](./yt-Z2WggHmVHGI,95.26183333333333,135.70223333333334.md) [https://youtube.com/clip/UgxFKiSujXKdNnKqhY94AaABCQ](https://youtube.com/clip/UgxFKiSujXKdNnKqhY94AaABCQ)
+
 
 ### Topics
 * [Mods](../topics/mods.md)
