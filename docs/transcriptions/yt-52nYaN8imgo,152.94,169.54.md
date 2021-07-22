@@ -22,4 +22,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170
 
 ### Transcript
 
-> sometimes do a little programming up Jase with some stuff actually like I help J so every now and then the guy
+> I'm also this unsigned but I do sometimes do a little programming up Jase with some stuff actually like I help J so every now and then the guy needs some help trying to help no I

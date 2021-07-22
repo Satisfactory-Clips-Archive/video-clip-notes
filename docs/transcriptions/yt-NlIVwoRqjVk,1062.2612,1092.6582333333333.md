@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> is missing something I don't know there's gonna be something in to do does it but we are gonna have a big crab a big angry crab if you watch our reveal trailer there's a big crab in it that hasn't been added into the game yet and also in Christopher animators develop a highlight maybe I'll remember to do this
+> might we see more megafauna doing desert is missing something I don't know there's gonna be something in to do does it but we are gonna have a big crab a big angry crab if you watch our reveal trailer there's a big crab in it that hasn't been added into the game yet and also in Christopher animators develop a highlight maybe I'll remember to do this he you can see the animation of the big

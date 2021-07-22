@@ -16,4 +16,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1449&end=1459
 
 ### Transcript
 
-> exactly I don't think I should tell you
+> exactly I don't think I should tell you we've had a surprise but yes there will

@@ -16,4 +16,4 @@ https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=167&end=200
 
 ### Transcript
 
-> object limit we're talking about like memory not like um the well it's kind of tied to that but it's not like necessarily one-to-one with like the amount of objects you place in the world it's it's more tied to like what the memory footprint of each game object has in the world rather just add on that it is the objects that are an unreal garbage collection reflection system right because an object doesn't need to be managed by unreal
+> also to clarify when we talk about the object limit we're talking about like memory not like um the well it's kind of tied to that but it's not like necessarily one-to-one with like the amount of objects you place in the world it's it's more tied to like what the memory footprint of each game object has in the world rather just add on that it is the objects that are an unreal garbage collection reflection system right because an object doesn't need to be managed by unreal but best cases it is managed by unreal

@@ -14,4 +14,4 @@ https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=645
 
 ### Transcript
 
-> decision to announce sanctum 3 this Friday also how excited do you think the community will be when they learn that consoles will be getting sanctum 1 &amp; 2 as pre-order bonuses
+> what did it feel like when you made the decision to announce sanctum 3 this Friday also how excited do you think the community will be when they learn that consoles will be getting sanctum 1 &amp; 2 as pre-order bonuses

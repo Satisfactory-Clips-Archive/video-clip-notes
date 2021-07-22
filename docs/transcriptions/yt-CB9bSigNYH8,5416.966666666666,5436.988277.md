@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5416&end=5437
 
 ### Transcript
 
-> that I wanted to design I didn't really have too much requirements I guess I actually prefer working on a game that I would not play than a game that I would
+> that I wanted to design I didn't really have too much requirements I guess I actually prefer working on a game that I would not play than a game that I would play because then it doesn't get like

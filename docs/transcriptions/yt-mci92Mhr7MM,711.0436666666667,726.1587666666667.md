@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 
 ### Transcript
 
-> right so that's the summer salute yeah what what does it what does it do so it's gonna like
+> right so that's the summer salute yeah what what does it what does it do so it's gonna like just gonna but thank you yeah so

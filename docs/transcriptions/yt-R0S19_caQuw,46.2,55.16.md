@@ -14,4 +14,4 @@ https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=46&end=56
 
 ### Transcript
 
-> Early Access will launch on Tuesday, March 19 at, wait for it, 5PM GMT.
+> When exactly will Early Access launch? Early Access will launch on Tuesday, March 19 at, wait for it, 5PM GMT. I pre-purchased Satisfactory but it's not appearing in my game library.

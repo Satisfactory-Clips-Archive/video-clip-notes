@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> question is will there be a creative mode yeah it's a really great idea and we kind of already have support for it however we definitely don't want to do it at the beginning of the Alpha because it's just gonna spoil too much of the game and we really want to test things
+> and answer the questions so the first question is will there be a creative mode yeah it's a really great idea and we kind of already have support for it however we definitely don't want to do it at the beginning of the Alpha because it's just gonna spoil too much of the game and we really want to test things like pacing and that's just gonna undo

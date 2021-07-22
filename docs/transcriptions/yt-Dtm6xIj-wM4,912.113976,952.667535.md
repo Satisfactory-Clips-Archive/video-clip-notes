@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 
 ### Transcript
 
-> gold yes yes there is I'm not saying you can you can finish the game you can finish the game is it still Simon's the only one who's done it I think I think she was finished okay yeah I know that Simon took 130 hours or something like it was and that was like a year back yeah it was so right now we have no idea how long it will take but we allow us to game quite a lot since imma beat it as well so Simon replay it fairly recently and there's like it's pretty different now compared to when I played it mhm so it's
+> gold yes yes there is I'm not saying you can you can finish the game you can finish the game is it still Simon's the only one who's done it I think I think she was finished okay yeah I know that Simon took 130 hours or something like it was and that was like a year back yeah it was so right now we have no idea how long it will take but we allow us to game quite a lot since imma beat it as well so Simon replay it fairly recently and there's like it's pretty different now compared to when I played it mhm so it's also interesting that that changed a lot

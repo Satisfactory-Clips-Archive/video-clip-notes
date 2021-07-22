@@ -21,3 +21,5 @@ This question was possibly duplicated with a more recent answer: [April 27th, 20
 > chance of a holster key bind yeah this is something that people have been upset about for a long time right rightfully so I get it I don't know though I don't know what I forgot to actually ask
 >
 > [Music]
+>
+> what is one item or equipment that some

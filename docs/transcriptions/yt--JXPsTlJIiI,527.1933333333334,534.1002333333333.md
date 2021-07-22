@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> real question is can we paint lizard logger that's the real question no one's
+> can we paint vehicles yes eventually the real question is can we paint lizard logger that's the real question no one's asking it

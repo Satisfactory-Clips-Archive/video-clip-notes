@@ -14,4 +14,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=48&end=59
 
 ### Transcript
 
-> wanted a new vehicle a lot of people requested a flying vehicle like a plane
+> wanted a new vehicle a lot of people requested a flying vehicle like a plane or like a drone well we didn't make

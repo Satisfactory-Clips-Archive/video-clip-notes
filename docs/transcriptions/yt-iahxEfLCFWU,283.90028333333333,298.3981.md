@@ -16,4 +16,4 @@ https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=283&end=299
 
 ### Transcript
 
-> we've also added so that when you're dragging wires from buildables the connector will now match walls and ceilings depending on what you're aiming at and yes we're adding the ability to place power mounts on ceilings now
+> we've also added so that when you're dragging wires from buildables the connector will now match walls and ceilings depending on what you're aiming at and yes we're adding the ability to place power mounts on ceilings now and last but not least we're adding

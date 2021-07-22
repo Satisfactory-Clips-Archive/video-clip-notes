@@ -18,4 +18,6 @@ https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206
 
 ### Transcript
 
-> These will now be produced in the Blender as well
+> And, in fact, there's a significant change in how
+encased uranium cells are produced These will now be produced in the Blender as well And will no longer require uranium pellets
+which have been removed from the game

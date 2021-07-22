@@ -21,4 +21,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2288&end=2330
 
 ### Transcript
 
-> skybox how high is the skybox sky's the limit very high pretty high we've had some people hit it just by like building directly up I know our our tester yeah he hit it and he was just like building underneath himself like like 30 40 minutes or something something like that it's ridiculous you're not gonna be able to factory that I challenge you yeah yeah yeah people have tried in performance might not be optimal up there yeah I think just all the tiles are gonna be garbage yeah
+> money is there a height limit it's the skybox how high is the skybox sky's the limit very high pretty high we've had some people hit it just by like building directly up I know our our tester yeah he hit it and he was just like building underneath himself like like 30 40 minutes or something something like that it's ridiculous you're not gonna be able to factory that I challenge you yeah yeah yeah people have tried in performance might not be optimal up there yeah I think just all the tiles are gonna be garbage yeah where have you learned your unreal

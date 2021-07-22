@@ -16,4 +16,4 @@ https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=85&end=97
 
 ### Transcript
 
-> new resources quartz and sulfur I don't know what they do because I don't play
+> diet the next thing we've added are two new resources quartz and sulfur I don't know what they do because I don't play satisfactory I prefer to play factory

@@ -18,4 +18,4 @@ https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=6&end=35
 
 ### Transcript
 
-> Costain studios when I started I worked on a little bit on sanctum one like their last the DLC and then I was almost part of the home sanctum two series and then also the goat simulator six seven years six years
+> hi I'm Christopher and I'm the animator Costain studios when I started I worked on a little bit on sanctum one like their last the DLC and then I was almost part of the home sanctum two series and then also the goat simulator six seven years six years eight seven years six six to seven years

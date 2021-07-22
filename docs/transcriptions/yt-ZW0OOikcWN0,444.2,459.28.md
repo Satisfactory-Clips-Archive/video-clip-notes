@@ -18,4 +18,4 @@ https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460
 
 ### Transcript
 
-> I'd like to say real quickly is we can make another one actual workbench so if you're playing online only one person can use one workbench at a time but if you you can create extra work benches so
+> I'd like to say real quickly is we can make another one actual workbench so if you're playing online only one person can use one workbench at a time but if you you can create extra work benches so you and a friends can work at the same

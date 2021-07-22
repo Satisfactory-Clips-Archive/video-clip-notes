@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> foundations and walls okay so we've talked about this a bunch of times but it's a question that still comes up so many of you who uh you know watch all of our videos are like ah this question again but um the answer's generally been it's an ongoing discussion and so i figured i would ask mark you know what's the status on that and he told me he said it's still an
+> are there plans for mass building foundations and walls okay so we've talked about this a bunch of times but it's a question that still comes up so many of you who uh you know watch all of our videos are like ah this question again but um the answer's generally been it's an ongoing discussion and so i figured i would ask mark you know what's the status on that and he told me he said it's still an ongoing discussion

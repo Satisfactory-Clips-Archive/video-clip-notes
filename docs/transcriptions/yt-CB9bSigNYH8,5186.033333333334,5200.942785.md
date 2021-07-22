@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 ### Transcript
 
-> future if we ever do like a expansion or something where we do like add stuff to
+> future if we ever do like a expansion or something where we do like add stuff to come up or make a new nap map maybe

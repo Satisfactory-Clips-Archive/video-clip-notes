@@ -16,6 +16,8 @@ This question was possibly duplicated with a more recent answer: [March 9th, 201
 
 ### Transcript
 
+> I don't know.
+>
 > Omni snuck in two questions. Number 1: &quot;Is the one year Epic store exclusivity one year from
 >
-> Early Access launch? Or one year from full launch?&quot;
+> Early Access launch? Or one year from full launch?&quot; It will be one year from the Early Access launch.

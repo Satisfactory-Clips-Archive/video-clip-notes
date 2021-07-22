@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1004&end=1029
 
 ### Transcript
 
-> the most ridiculous thing I could show you I have a little thing I could sure you and let's see where it is again it's over there somewhere in this mist there's a little thing I think some people could appreciate
+> the most ridiculous thing I could show you I have a little thing I could sure you and let's see where it is again it's over there somewhere in this mist there's a little thing I think some people could appreciate let's go back to our cave

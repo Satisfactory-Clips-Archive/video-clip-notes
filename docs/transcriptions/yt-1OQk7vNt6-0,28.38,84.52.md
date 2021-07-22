@@ -23,4 +23,5 @@ if everything goes to shit it may even be that we have to stop the Alpha,
 put out some fires and then restart it later. We really just have to react to what's going on, because we have no idea really
 what's gonna happen, and also as mentioned in a previous,
 I think it was a Q&amp;A, the Alpha will actually be in stages, and one of the things about the stages is
-as those stages progress we're going to be taking more people in as well.
+as those stages progress we're going to be taking more people in as well. So if you didn't get in at the beginning, you may get in
+at one of those extra stages, too.

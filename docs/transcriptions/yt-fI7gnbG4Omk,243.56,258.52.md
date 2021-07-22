@@ -14,4 +14,4 @@ https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=243&end=259
 
 ### Transcript
 
-> it's really useful to have like to act it out and like you see so much like many shoot reference that you miss if
+> it's really useful to have like to act it out and like you see so much like many shoot reference that you miss if you just like trying to do it from your

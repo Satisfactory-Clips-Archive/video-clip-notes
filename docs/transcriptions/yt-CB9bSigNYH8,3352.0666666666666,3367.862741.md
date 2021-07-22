@@ -15,3 +15,5 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3352&end=3368
 ### Transcript
 
 > the Spotify song cap is 10,000 I'm way past that now because I just make playlists now to save all my new stuff I'm at like $20 my finger at this point
+>
+> [Music]

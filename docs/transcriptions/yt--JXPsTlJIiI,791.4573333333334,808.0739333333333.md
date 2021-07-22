@@ -14,4 +14,4 @@ https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=791&end=809
 
 ### Transcript
 
-> let's ask him hi simon how are you hey i'm i'm good thank you fine good all right thanks man by the way
+> all right is simon okay i don't know let's ask him hi simon how are you hey i'm i'm good thank you fine good all right thanks man by the way what did you think about cyberpunk so

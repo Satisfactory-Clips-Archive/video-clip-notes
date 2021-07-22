@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 6th, 2021
 
 ### Transcript
 
-> person says something about tasty metal don't know what you're on my friend but in a fart and glorious future what we have other maps he'll know I mean in a
+> person says something about tasty metal don't know what you're on my friend but in a fart and glorious future what we have other maps he'll know I mean in a far and glorious future maybe in a far

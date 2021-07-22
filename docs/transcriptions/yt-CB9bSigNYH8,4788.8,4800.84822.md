@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4788&end=4801
 
 ### Transcript
 
-> that that's a crime don't ask the writer how it ends No
+> what is the ending don't ask her writer that that's a crime don't ask the writer how it ends No is my Unreal Engine pirated if it was

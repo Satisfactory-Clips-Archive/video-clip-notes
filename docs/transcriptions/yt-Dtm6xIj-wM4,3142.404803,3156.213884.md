@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3142&end=3157
 
 ### Transcript
 
-> we're a pair of glasses snoot why what's the deal of it maybe I think they you look like someone I think like someone I
+> away why I kept seeing like all the time we're a pair of glasses snoot why what's the deal of it maybe I think they you look like someone I think like someone I think they said something like that yeah

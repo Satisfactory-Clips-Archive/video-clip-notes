@@ -24,4 +24,4 @@ https://youtube.com/embed/PkozY8_q-LE?autoplay=1&start=55&end=115
 >
 > [pipe confirmation blocked]
 >
-> it's really cool. There is definitely both big and super small stuff to work on. The smallest one i can think of right now, which isn't that small but like for example the med kit. I'm gonna take the character as an example again, because it's a good example, like there are all these small little details in her outfit and like little lamps on the helmet and stuff like that, so always trying to get into the details as well.
+> it's really cool. There is definitely both big and super small stuff to work on. The smallest one i can think of right now, which isn't that small but like for example the med kit. I'm gonna take the character as an example again, because it's a good example, like there are all these small little details in her outfit and like little lamps on the helmet and stuff like that, so always trying to get into the details as well. I would say the hardest part about concept art or working with concept art

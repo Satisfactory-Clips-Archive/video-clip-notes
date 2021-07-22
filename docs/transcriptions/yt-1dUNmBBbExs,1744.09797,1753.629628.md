@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> that's a good question i don't know
+> um hey snoot when are we getting signs that's a good question i don't know wouldn't you like to know uh so that

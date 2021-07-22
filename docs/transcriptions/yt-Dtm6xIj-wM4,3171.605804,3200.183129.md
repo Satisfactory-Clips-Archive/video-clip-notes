@@ -16,4 +16,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3171&end=3201
 
 ### Transcript
 
-> player eventually when they are run over by a friend in vehicle a cadence probably died if you probably probably can we say look what happens if you die with in terms of you in the very probably right of your inventory yeah sure you you lose it but you don't lose you can get it back yeah go back and pick it up yeah so it's it's yeah it's like dark so it's not like this game I
+> player eventually when they are run over by a friend in vehicle a cadence probably died if you probably probably can we say look what happens if you die with in terms of you in the very probably right of your inventory yeah sure you you lose it but you don't lose you can get it back yeah go back and pick it up yeah so it's it's yeah it's like dark so it's not like this game I wanted to make that joke but I like no

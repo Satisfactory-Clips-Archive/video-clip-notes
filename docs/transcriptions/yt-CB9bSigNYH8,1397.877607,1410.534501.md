@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 20th, 2
 
 ### Transcript
 
-> big the world is in football fields but
+> big the world is in football fields but it's about 30 by 30 kilometers so that's

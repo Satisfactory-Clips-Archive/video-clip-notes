@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 20th,
 
 ### Transcript
 
-> or separate ones I'm not sure what you mean if you mean if there will be stuff like look like loading screens between areas
+> or separate ones I'm not sure what you mean if you mean if there will be stuff like look like loading screens between areas no there won't be it's all like fluid

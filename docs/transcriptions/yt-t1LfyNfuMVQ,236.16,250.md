@@ -14,4 +14,4 @@ https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=236&end=250
 
 ### Transcript
 
-> offline so if you play offline as in not through the epics game structure then the save files will either be placed in the common folder or in the folder that
+> offline so if you play offline as in not through the epics game structure then the save files will either be placed in the common folder or in the folder that was last associated with your last login

@@ -16,4 +16,4 @@ https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=162&end=176
 
 ### Transcript
 
-> and radio control units are going to be getting a bit of a change as well so even though these parts are unlocked in the mam uh they're still considered late game parts and so they're gonna have to be adjusted to fit the new additions and changes in
+> and radio control units are going to be getting a bit of a change as well so even though these parts are unlocked in the mam uh they're still considered late game parts and so they're gonna have to be adjusted to fit the new additions and changes in tier seven

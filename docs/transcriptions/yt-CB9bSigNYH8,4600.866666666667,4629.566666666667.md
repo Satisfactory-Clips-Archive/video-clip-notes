@@ -36,4 +36,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4600&end=4630
 
 ### Transcript
 
-> tell me this is look good I don't know hmm maybe it's just a texture that needs to be fixed to make it better for the trees I don't know there's a lot of that going around to like does this look good I don't know if I'm staring at it for
+> does this look good tell me this is look good I don't know hmm maybe it's just a texture that needs to be fixed to make it better for the trees I don't know there's a lot of that going around to like does this look good I don't know if I'm staring at it for like five hours see let's see

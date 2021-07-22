@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=361&end=375
 
 ### Transcript
 
-> where I'm from I'm from the Netherlands that's where I studied as well and I
+> where I'm from I'm from the Netherlands that's where I studied as well and I moved here for coffee stain for this job

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> in like the factorial blueprinting no we answered that in a video once before basically you know it's it's a thing that we thought about as well but at
+> any plans for stuff like blueprints as in like the factorial blueprinting no we answered that in a video once before basically you know it's it's a thing that we thought about as well but at this point no maybe we will I don't know

@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4196&end=4209
 
 ### Transcript
 
-> where are we in development well Alfa that's where we're at so definitely not
+> where are we in development well Alfa that's where we're at so definitely not finished yet but we have a very good

@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2992&end=3011
 
 ### Transcript
 
-> now say something a German no would you believe me if I can if I say I speak Francesc better than Germans just because I've spoken French more even
+> now say something a German no would you believe me if I can if I say I speak Francesc better than Germans just because I've spoken French more even though I'm that it's don't make me do

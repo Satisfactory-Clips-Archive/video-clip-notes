@@ -16,4 +16,4 @@ https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=168&end=188
 
 ### Transcript
 
-> between the Steam and the epic version yep they totally will so if you happen to own steam and epic they're both gonna work we have no intention of making the save format for each platform different so the early difference is your save
+> between the Steam and the epic version yep they totally will so if you happen to own steam and epic they're both gonna work we have no intention of making the save format for each platform different so the early difference is your save files might be located in different

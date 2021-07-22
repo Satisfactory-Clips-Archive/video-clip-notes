@@ -16,4 +16,4 @@ https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=46&end=68
 
 ### Transcript
 
-> super happy with update 4. uh of course there are a few bugs and some issues and maybe some balancing things that you guys may have some feedback on and if you do make sure to hit up our keyway site questions.satisfactorygame.com um and give us your feedback and report
+> super happy with update 4. uh of course there are a few bugs and some issues and maybe some balancing things that you guys may have some feedback on and if you do make sure to hit up our keyway site questions.satisfactorygame.com um and give us your feedback and report your issues make tickets

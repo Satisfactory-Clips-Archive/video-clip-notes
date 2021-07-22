@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 24th,
 
 ### Transcript
 
-> spend time adding this feature when it only supports a small amount of people well it's not like it actually delayed the game it took like one day to put into the game including the sprite effects the reason we put it in is because we have an erect foe in the office and they can't even look at those creatures at all so it was kind of put in so that they could play the game and
+> spend time adding this feature when it only supports a small amount of people well it's not like it actually delayed the game it took like one day to put into the game including the sprite effects the reason we put it in is because we have an erect foe in the office and they can't even look at those creatures at all so it was kind of put in so that they could play the game and work with the game but also it's a

@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2436&end=2443
 
 ### Transcript
 
-> Nordic been to you guys in the project
+> Nordic been to you guys in the project there you haven't done anything

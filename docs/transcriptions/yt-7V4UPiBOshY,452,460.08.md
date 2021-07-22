@@ -16,4 +16,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=452&end=461
 
 ### Transcript
 
-> this closed alpha that we've been doing sending keys out to the public slowly
+> story was the Alpha always on Epic a so this closed alpha that we've been doing sending keys out to the public slowly that has that has all been on the epic

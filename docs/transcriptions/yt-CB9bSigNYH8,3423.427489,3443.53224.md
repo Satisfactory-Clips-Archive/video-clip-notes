@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3423&end=3444
 
 ### Transcript
 
-> that nine is very aggressive well you know learn from the best our producers German also the mighty nine if you know that I love you
+> that nine is very aggressive well you know learn from the best our producers German also the mighty nine if you know that I love you the world isn't randomly generated for

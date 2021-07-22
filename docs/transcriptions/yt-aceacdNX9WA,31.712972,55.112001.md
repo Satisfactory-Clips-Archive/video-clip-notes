@@ -18,4 +18,4 @@ https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=31&end=56
 
 ### Transcript
 
-> features I just want to talk about a couple new changes to the community the first is that we are now opening up localization to the community so that anyone who wishes to help with translation can do so we're also changing up our roadmap because the current roadmap was not going to be working out so we're currently working on that right now more information about
+> features I just want to talk about a couple new changes to the community the first is that we are now opening up localization to the community so that anyone who wishes to help with translation can do so we're also changing up our roadmap because the current roadmap was not going to be working out so we're currently working on that right now more information about both of these things can be found in a

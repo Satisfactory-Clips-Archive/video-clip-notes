@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2510&end=2538
 
 ### Transcript
 
-> mostly just the endless void or see what we're doing a lot of perimeter work right now to make the the ending of the map look nice and feel nice and not just like invisible walls because there's anything that most people hate it's
+> how does the map and currently it's mostly just the endless void or see what we're doing a lot of perimeter work right now to make the the ending of the map look nice and feel nice and not just like invisible walls because there's anything that most people hate it's invisible walls and trust me that is a

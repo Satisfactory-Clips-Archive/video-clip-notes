@@ -16,4 +16,4 @@ https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=150&end=190
 
 ### Transcript
 
-> interesting well we have a very limited set of assets and also it's because it's so big and we're hand making everything is very easy to lose oversight and to lose sight of what's good sometimes I'm just placing the same cliffs for a week or the same trees for a week or going over an area 50 times just to purge and rebuild and purge and rebuild when you're placing your mm rock does it look good you don't know anymore you have no
+> interesting well we have a very limited set of assets and also it's because it's so big and we're hand making everything is very easy to lose oversight and to lose sight of what's good sometimes I'm just placing the same cliffs for a week or the same trees for a week or going over an area 50 times just to purge and rebuild and purge and rebuild when you're placing your mm rock does it look good you don't know anymore you have no clue it's it's hard sometimes to keep

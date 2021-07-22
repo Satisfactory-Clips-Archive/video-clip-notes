@@ -16,4 +16,4 @@ https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=152&end=163
 
 ### Transcript
 
-> is a rapid-fire weapon with a capacity of 10 rounds and it will really help
+> we've also added a rifle to the game it is a rapid-fire weapon with a capacity of 10 rounds and it will really help show lizard Agha who's boss

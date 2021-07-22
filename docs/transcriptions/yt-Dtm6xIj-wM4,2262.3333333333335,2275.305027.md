@@ -16,4 +16,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2262&end=2276
 
 ### Transcript
 
-> collectibles Easter eggs shrines to your previous game sitting around two
+> collectibles Easter eggs shrines to your previous game sitting around two different probably maybe good maybe I

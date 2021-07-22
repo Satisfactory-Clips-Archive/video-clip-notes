@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 20th,
 
 ### Transcript
 
-> the factory unload and stop working if you're really far away from it actually no the factory will run reliably no matter where you are on the map and that does not mean that far-off areas need to be loaded for the factory to run because that would be incredibly heavy with regards to performance and also vehicles still run no matter where you are on the
+> the factory unload and stop working if you're really far away from it actually no the factory will run reliably no matter where you are on the map and that does not mean that far-off areas need to be loaded for the factory to run because that would be incredibly heavy with regards to performance and also vehicles still run no matter where you are on the map and what's loaded or not

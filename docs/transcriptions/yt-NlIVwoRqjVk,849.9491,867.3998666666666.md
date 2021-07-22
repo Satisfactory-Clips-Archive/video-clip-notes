@@ -14,4 +14,4 @@ https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=849&end=868
 
 ### Transcript
 
-> transportation trucks trains or updating the current versions of vehicles it's gonna be a new vehicle in into year seven or eight as for upgrading vehicles we're considering it but we don't know yet as for updating vehicles or vehicle
+> do you plan on introducing more ways of transportation trucks trains or updating the current versions of vehicles it's gonna be a new vehicle in into year seven or eight as for upgrading vehicles we're considering it but we don't know yet as for updating vehicles or vehicle functionality there's gonna be updates

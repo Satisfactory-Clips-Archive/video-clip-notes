@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=643&end=665
 
 ### Transcript
 
-> yeah and ZBrush confirmed just got a message that's not like right does it fit nicely
+> ooh substance painter is a thing as well yeah and ZBrush confirmed just got a message that's not like right does it fit nicely so yeah we use substance painter

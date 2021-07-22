@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> well there the third person view I think we can confirm that there will be I think it's not in right now we had it at one point before we got rid of it and I
+> well there the third person view I think we can confirm that there will be I think it's not in right now we had it at one point before we got rid of it and I think we're gonna reintroduce it but

@@ -24,4 +24,4 @@ https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=928&end=948
 
 ### Transcript
 
-> like it's like miners miners on the remaining so I just did some oh I might in course I want it to look like of course oh you've got the little troubles coming out cold oh dude nice so it's so it feels like
+> like it's like miners miners on the remaining so I just did some oh I might in course I want it to look like of course oh you've got the little troubles coming out cold oh dude nice so it's so it feels like you were mining the resources that you

@@ -16,4 +16,4 @@ https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=584&end=608
 
 ### Transcript
 
-> better gloss shader so we can make um yeah basically it's just a more performance gloss shader so uh for those of you out there who have gloss buildings you're going to have it's going to perform better for you moving forward um yeah that's nice now i don't know if that's going to actually be in when the update comes out but if it doesn't it will be
+> right leave me alone they've added a better gloss shader so we can make um yeah basically it's just a more performance gloss shader so uh for those of you out there who have gloss buildings you're going to have it's going to perform better for you moving forward um yeah that's nice now i don't know if that's going to actually be in when the update comes out but if it doesn't it will be added after

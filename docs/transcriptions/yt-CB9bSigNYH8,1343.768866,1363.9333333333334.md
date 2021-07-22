@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1343&end=1364
 
 ### Transcript
 
-> hold on let's see static mesh that is not what I want let's see
+> sure I can I can pop down a player model hold on let's see static mesh that is not what I want let's see what is it called

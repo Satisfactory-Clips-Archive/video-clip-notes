@@ -16,4 +16,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=305&end=315
 
 ### Transcript
 
-> the screen ads yes it is ants and that's
+> they give the screen and then look at the screen ads yes it is ants and that's an answer was that like intentional or

@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3254&end=3263
 
 ### Transcript
 
-> the edge of the map is currently mostly
+> the edge of the map is currently mostly ocean or the eternal void that will

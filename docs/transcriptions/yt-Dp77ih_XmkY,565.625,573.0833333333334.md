@@ -16,5 +16,5 @@ https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=565&end=574
 
 ### Transcript
 
-> At least in the game we've added more traversal options Where you can now use a zipline to travel from
-power pole to power pole in your base
+> This sucks At least in the game we've added more traversal options Where you can now use a zipline to travel from
+power pole to power pole in your base We made it to the top floor!

@@ -16,4 +16,4 @@ https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=464&end=485
 
 ### Transcript
 
-> optimization versus new tiers features in the future optimize as you go or as early access comes to a close and the game approaches 1.0 will there be a big push for optimization leading up to that the short answer is we just optimized as we go uh there could also maybe be pushes of optimization at certain points along the way but uh
+> optimization versus new tiers features in the future optimize as you go or as early access comes to a close and the game approaches 1.0 will there be a big push for optimization leading up to that the short answer is we just optimized as we go uh there could also maybe be pushes of optimization at certain points along the way but uh short answer is

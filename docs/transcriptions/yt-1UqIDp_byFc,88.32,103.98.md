@@ -18,4 +18,4 @@ https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=88&end=104
 
 ### Transcript
 
-> micro transactions now I already answered that back in I think it was Q&amp;A number two or three I'm not sure and basically it's going to be a $300 subscription but you do get a thousand gems with that and if you run out of
+> endearing Aria games gonna be full of micro transactions now I already answered that back in I think it was Q&amp;A number two or three I'm not sure and basically it's going to be a $300 subscription but you do get a thousand gems with that and if you run out of gems of course you can buy more gems as

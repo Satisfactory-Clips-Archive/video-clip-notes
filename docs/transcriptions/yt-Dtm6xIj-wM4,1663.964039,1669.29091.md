@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1663&end=1670
 
 ### Transcript
 
-> you die in real life
+> you die in real life facilities the game use any luck step

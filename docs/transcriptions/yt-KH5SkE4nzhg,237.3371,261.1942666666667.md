@@ -18,4 +18,4 @@ https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=237&end=262
 
 ### Transcript
 
-> content that you have unlocked before the updates any milestones or anything like that will remain unlocked even if the costs have changed so um you don't have to like re-unlock things after the update and your save files should load uh we're pretty sure that they're they're gonna load but again with if you're in the in the later uh tiers of your factory then it's likely your production lines will
+> content that you have unlocked before the updates any milestones or anything like that will remain unlocked even if the costs have changed so um you don't have to like re-unlock things after the update and your save files should load uh we're pretty sure that they're they're gonna load but again with if you're in the in the later uh tiers of your factory then it's likely your production lines will stop working so you could try and repair

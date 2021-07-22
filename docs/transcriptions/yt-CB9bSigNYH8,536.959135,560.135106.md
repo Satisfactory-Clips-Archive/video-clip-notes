@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> will you be able to use the map editor no this is an engine so an engine is not something that you can use as you play but maybe in the future that will be a
+> will you be able to use the map editor no this is an engine so an engine is not something that you can use as you play but maybe in the future that will be a thing depending also how much we want to

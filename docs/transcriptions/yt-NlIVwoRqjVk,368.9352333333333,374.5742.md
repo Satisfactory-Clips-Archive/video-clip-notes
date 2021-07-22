@@ -14,4 +14,4 @@ https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=368&end=375
 
 ### Transcript
 
-> first releases on Steam
+> we'll see I will to be a sale when it first releases on Steam completely unimportant will there be

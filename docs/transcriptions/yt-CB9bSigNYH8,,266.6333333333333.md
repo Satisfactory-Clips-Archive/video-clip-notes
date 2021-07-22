@@ -37,3 +37,5 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=0&end=267
 > [Music]
 >
 > [Music]
+>
+> hi hello everyone so we are live so I'm

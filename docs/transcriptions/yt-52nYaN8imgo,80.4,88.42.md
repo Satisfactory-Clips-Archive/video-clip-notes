@@ -18,4 +18,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=80&end=89
 
 ### Transcript
 
-> all right this is much better for you
+> all right this is much better for you have you been there the whole time

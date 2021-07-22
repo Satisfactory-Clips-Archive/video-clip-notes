@@ -14,4 +14,4 @@ https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=450&end=465
 
 ### Transcript
 
-> what does a day in the life of community manager jace look like i assume wake up afternoon lunch from 1 p.m to 3 p.m and playing video games by 4 30. yeah whatever dude whatever whatever
+> forward what does a day in the life of community manager jace look like i assume wake up afternoon lunch from 1 p.m to 3 p.m and playing video games by 4 30. yeah whatever dude whatever whatever dude i think you're funny

@@ -16,4 +16,4 @@ https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=298&end=310
 
 ### Transcript
 
-> and last but not least we're adding ladders to the game magyad their height can be adjusted and they can also be attached to walls and
+> and last but not least we're adding ladders to the game magyad their height can be adjusted and they can also be attached to walls and at the bottom of foundations

@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1840&end=1855
 
 ### Transcript
 
-> that's exactly why we have this tile system so not all the tiles are loaded
+> our graphics rendered in tiles yes that's exactly why we have this tile system so not all the tiles are loaded at at any point in playing the game so

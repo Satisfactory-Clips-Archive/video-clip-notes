@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1526&end=1560
 
 ### Transcript
 
-> acid limits real set it's yeah about 15 15 assets for biome or area so there's about 15 assets that we can use for caves and there's about 15 assets for example that we use for deserts and there's about 15 assets we use for forests and we mix and match those where
+> acid limits real set it's yeah about 15 15 assets for biome or area so there's about 15 assets that we can use for caves and there's about 15 assets for example that we use for deserts and there's about 15 assets we use for forests and we mix and match those where we have sub areas within like a bigger

@@ -20,4 +20,4 @@ https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=421&end=435
 
 ### Transcript
 
-> elevator at the end of the trailer yeah it is a space elevator and it actually takes you to that big thingy in the sky and that thing is actually a food court
+> elevator at the end of the trailer yeah it is a space elevator and it actually takes you to that big thingy in the sky and that thing is actually a food court but they're sort of burritos Chinese

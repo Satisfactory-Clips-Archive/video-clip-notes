@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1091&end=1116
 
 ### Transcript
 
-> is my job in the franchise well as the title hopefully hopefully says level designer but I also worked on writing the story and recently I've been doing some lighting which ties pretty tightly
+> is my job in the franchise well as the title hopefully hopefully says level designer but I also worked on writing the story and recently I've been doing some lighting which ties pretty tightly into level design so most of that is

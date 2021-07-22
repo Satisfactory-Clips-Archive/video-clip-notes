@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2614&end=2631
 
 ### Transcript
 
-> oh thanks sleepers delight also the guy whose music you're hearing currently good stuff
+> oh thanks sleepers delight also the guy whose music you're hearing currently good stuff what is my most favorite game oh no that

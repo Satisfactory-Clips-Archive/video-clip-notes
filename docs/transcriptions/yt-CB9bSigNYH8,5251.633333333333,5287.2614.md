@@ -34,4 +34,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5251&end=5288
 
 ### Transcript
 
-> want to make for example you want to change the color at 12:00 midnight when we go to 12 in the night we make it more more blue if it wants to work nope oh right it's this one hahaha there
+> want to make for example you want to change the color at 12:00 midnight when we go to 12 in the night we make it more more blue if it wants to work nope oh right it's this one hahaha there we go

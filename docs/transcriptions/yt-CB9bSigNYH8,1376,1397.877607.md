@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1376&end=1398
 
 ### Transcript
 
-> you and it's probably a blueprint not a static question there we go okay so that's how big the player actually is so that you can see that things look a lot smaller than they actually are and there you can sort of see like a small camera
+> you and it's probably a blueprint not a static question there we go okay so that's how big the player actually is so that you can see that things look a lot smaller than they actually are and there you can sort of see like a small camera perspective from what the player can't

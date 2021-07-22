@@ -18,4 +18,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2630&end=2724
 >
 > [Music]
 >
-> they are that like more narrative driven games like like the strings or the telltale games but I also play stuff like Borderlands and do silly shooters I'm yeah I'm probably gonna play anthem I played the demo I think that was two weeks back and the gameplay is actually really cool I'm just so worried about the the hub stuff but it thankfully gives them time it'll be pretty cool but I mean honestly the the gameplay and the the navigation of the areas just
+> they are that like more narrative driven games like like the strings or the telltale games but I also play stuff like Borderlands and do silly shooters I'm yeah I'm probably gonna play anthem I played the demo I think that was two weeks back and the gameplay is actually really cool I'm just so worried about the the hub stuff but it thankfully gives them time it'll be pretty cool but I mean honestly the the gameplay and the the navigation of the areas just flying around in a suit and really cool

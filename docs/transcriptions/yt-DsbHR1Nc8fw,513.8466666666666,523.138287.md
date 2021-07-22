@@ -22,4 +22,4 @@ https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524
 
 ### Transcript
 
-> so we finally made it so this amazing pipe it's the biggest one in the world it doesn't look that impressive it seems
+> so we finally made it so this amazing pipe it's the biggest one in the world it doesn't look that impressive it seems like it's kind of blocked up just like I

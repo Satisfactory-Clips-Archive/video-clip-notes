@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> customization of our character I don't
+> customization of our character I don't know but I think it's gonna be a matter

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 ### Transcript
 
-> under order gameplay as of now that is
+> under order gameplay as of now that is not really a thing but who knows maybe

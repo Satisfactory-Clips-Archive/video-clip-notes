@@ -14,4 +14,4 @@ https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=162&end=171
 
 ### Transcript
 
-> version of the game may have seen a
+> some of you who played the experimental version of the game may have seen a rifle mark - that was not supposed to be

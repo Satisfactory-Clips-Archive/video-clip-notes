@@ -14,4 +14,4 @@ https://youtube.com/embed/PkozY8_q-LE?autoplay=1&start=183&end=206
 
 ### Transcript
 
-> I did! It's a food court. We weren't sure what it's gonna be like, how many different food places, what they would serve and stuff like that. So i wasn't sure how big it was gonna be, lot's of iterations on that one. I was told we can't have fish, which is sad. I love fish.
+> I did! It's a food court. We weren't sure what it's gonna be like, how many different food places, what they would serve and stuff like that. So i wasn't sure how big it was gonna be, lot's of iterations on that one. I was told we can't have fish, which is sad. I love fish. *sniff*

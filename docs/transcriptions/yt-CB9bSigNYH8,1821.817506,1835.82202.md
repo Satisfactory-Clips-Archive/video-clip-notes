@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1821&end=1836
 
 ### Transcript
 
-> I have orange plants to put in the cave that is an oddly specific question I mean we have orange plants but whether they go in caves
+> I have orange plants to put in the cave that is an oddly specific question I mean we have orange plants but whether they go in caves our graphics rendered in tiles yes

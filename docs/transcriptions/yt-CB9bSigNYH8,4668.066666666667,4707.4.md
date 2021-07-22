@@ -34,4 +34,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4668&end=4708
 
 ### Transcript
 
-> be honest it works better in very confined environments you know what let's just pretend this games exist for a while cool there that is a glowy thing yes and the glowy thing is interesting because
+> be honest it works better in very confined environments you know what let's just pretend this games exist for a while cool there that is a glowy thing yes and the glowy thing is interesting because they do stuff here we go this is a big

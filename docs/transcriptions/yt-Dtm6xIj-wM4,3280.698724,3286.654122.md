@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 2nd, 202
 
 ### Transcript
 
-> available in steam in the future we
+> available in steam in the future we don't know genuinely don't know there's

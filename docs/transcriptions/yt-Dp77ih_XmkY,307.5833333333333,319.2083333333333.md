@@ -20,4 +20,4 @@ https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320
 
 > Geothermal is getting a change too Instead of providing a static amount of power Geothermal Generators will now provide a
 fluctuating amount of power But you can use the Power Storage to help smooth
-over production for a more stable output
+over production for a more stable output We're also adding Power Switches that can be used to enable

@@ -14,4 +14,4 @@ https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1129&end=1135
 
 ### Transcript
 
-> question
+> question what did Simon really say about the

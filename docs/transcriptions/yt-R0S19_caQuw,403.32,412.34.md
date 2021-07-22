@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> &quot;Please, please, please make a Linux based dedicated server that can run headless. Hosting multiple instances on a single server is a nightmare, and a waste of resources on Windows.&quot;
+> &quot;Please, please, please make a Linux based dedicated server that can run headless. Hosting multiple instances on a single server is a nightmare, and a waste of resources on Windows.&quot; Not a question.

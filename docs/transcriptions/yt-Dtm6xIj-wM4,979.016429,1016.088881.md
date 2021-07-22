@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> terraforming oh yeah no please no the the map itself is handmade we don't have any procedural generation really in it and it will not it be can't change the landscape in itself to to work your base it's more like you have to sort of try to try to work with the landscape that's kind of the challenge we're going with as well like finding
+> terraforming oh yeah no please no the the map itself is handmade we don't have any procedural generation really in it and it will not it be can't change the landscape in itself to to work your base it's more like you have to sort of try to try to work with the landscape that's kind of the challenge we're going with as well like finding good spots and finding interesting spots

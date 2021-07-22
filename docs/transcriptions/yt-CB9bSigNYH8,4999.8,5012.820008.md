@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 ### Transcript
 
-> to finish a few of few hours of finish the game and they took like hun'red or
+> how long is the game gonna be for start to finish a few of few hours of finish the game and they took like hun'red or so hours I don't like the exact numbers

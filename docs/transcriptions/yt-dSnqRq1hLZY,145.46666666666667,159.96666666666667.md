@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> fans by fans is based in the us which means that yeah shipping is favorable for people in the us which sucks for everyone else we are looking into other alternatives from non-us peeps but uh we don't really have
+> why is shipping so expensive so four fans by fans is based in the us which means that yeah shipping is favorable for people in the us which sucks for everyone else we are looking into other alternatives from non-us peeps but uh we don't really have anything ready just yet

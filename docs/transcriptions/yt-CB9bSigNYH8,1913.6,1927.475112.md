@@ -17,3 +17,5 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1913&end=1928
 ### Transcript
 
 > yeah all the elbe a little patience and I'll be showing the tile and second just
+>
+> [Music]

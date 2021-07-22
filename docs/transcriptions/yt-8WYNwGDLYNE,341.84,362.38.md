@@ -16,4 +16,4 @@ https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=341&end=363
 
 ### Transcript
 
-> and Jace wear the same clothes okay do you do anything else other than level designer writing uh I did some VFX at
+> and Jace wear the same clothes okay do you do anything else other than level designer writing uh I did some VFX at some point but that's about it

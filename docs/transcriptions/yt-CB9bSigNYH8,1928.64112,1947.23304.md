@@ -32,4 +32,8 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1928&end=1948
 
 ### Transcript
 
+> [Music]
+>
 > it's still extreme it's actually kind of annoying to paint on the ceiling because of how the camera works and my brain doesn't always catch up with the perspective
+>
+> [Music]

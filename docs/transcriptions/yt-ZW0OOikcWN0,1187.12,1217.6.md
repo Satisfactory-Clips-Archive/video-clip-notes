@@ -14,4 +14,4 @@ https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1187&end=1218
 
 ### Transcript
 
-> what a big factory could look like there's some like copper things being produced over there it's like a multi-story factory going on here there's more here I have no idea what's happening here pretty sure I helped build it though and this is the starting area where I showed you guys before yeah so it's quite quite big and you can see that the the world
+> direction okay so just wanted to show you guys what a big factory could look like there's some like copper things being produced over there it's like a multi-story factory going on here there's more here I have no idea what's happening here pretty sure I helped build it though and this is the starting area where I showed you guys before yeah so it's quite quite big and you can see that the the world is also quite big

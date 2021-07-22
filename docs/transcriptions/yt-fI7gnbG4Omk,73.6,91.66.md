@@ -14,4 +14,4 @@ https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=73&end=92
 
 ### Transcript
 
-> my favorite thing is first personal mission because the second animation that's like directly controlled by the player so you need to be very clear on what you're showing and not like make it feel responsive and like not like sluggish and stuff like that I find that
+> and stuff like that my favorite thing is first personal mission because the second animation that's like directly controlled by the player so you need to be very clear on what you're showing and not like make it feel responsive and like not like sluggish and stuff like that I find that you can found that like kind of a

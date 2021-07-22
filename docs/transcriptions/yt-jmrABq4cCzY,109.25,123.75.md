@@ -14,4 +14,4 @@ https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=109&end=124
 
 ### Transcript
 
-> point out that update 4 is out on experimental but we're still making some tweaks to it and there's still some minor changes that might come to it i just wanted to kind of talk a little bit
+> with that said though um i just want to point out that update 4 is out on experimental but we're still making some tweaks to it and there's still some minor changes that might come to it i just wanted to kind of talk a little bit about some of those things

@@ -18,4 +18,4 @@ https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=764&end=792
 
 ### Transcript
 
-> satisfactory building what building would you be i'd be a biomass burner i'd be a biomass burner really [ __ ] simple and basic uh i thought that we would ask snoop this as well and see what he said um and he said that his favorite is a steel furnace okay oh and by the way for those wondering simon would definitely be the superposition oscillator you know it's not even a building it's just an
+> satisfactory building what building would you be i'd be a biomass burner i'd be a biomass burner really [ __ ] simple and basic uh i thought that we would ask snoop this as well and see what he said um and he said that his favorite is a steel furnace okay oh and by the way for those wondering simon would definitely be the superposition oscillator you know it's not even a building it's just an enigma

@@ -22,4 +22,6 @@ https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=282&end=322
 
 ### Transcript
 
-> number three is a resource sink and a resource sink is it's kind of like a building and then you put excess resources into it can you crunch it all up and you analyze it you send it up to headquarters and they give you coupons and then what you can do with the coupons is you go to a shop that we've also added into the game and in the shop you can buy other resources as well as foundations and some vehicles and some statues and a lot of really cool things so you can check it out do you think that no no that we shot this at a different time
+> another thing that we've added to update number three is a resource sink and a resource sink is it's kind of like a building and then you put excess resources into it can you crunch it all up and you analyze it you send it up to headquarters and they give you coupons and then what you can do with the coupons is you go to a shop that we've also added into the game and in the shop you can buy other resources as well as foundations and some vehicles and some statues and a lot of really cool things so you can check it out do you think that no no that we shot this at a different time
+>
+> [Music]

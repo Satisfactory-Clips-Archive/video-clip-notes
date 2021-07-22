@@ -18,4 +18,4 @@ https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1407&end=1427
 
 ### Transcript
 
-> also look at what we found here what's this it's coal so adventuring also leads to finding different resources uh here's some coal we could use coal to power our
+> also look at what we found here what's this it's coal so adventuring also leads to finding different resources uh here's some coal we could use coal to power our plant instead of biomass which would

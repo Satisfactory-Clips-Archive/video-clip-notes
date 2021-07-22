@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=608&end=623
 
 ### Transcript
 
-> SpeedTree ZBrush could be I think maybe I would have to ask the artists
+> SpeedTree yes that's it SpeedTree ZBrush could be I think maybe I would have to ask the artists yes don't try it try not to anger Simon

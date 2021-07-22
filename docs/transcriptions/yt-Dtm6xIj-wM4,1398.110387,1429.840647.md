@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 6th, 2021
 
 ### Transcript
 
-> localization support there will be there will be localization support and we will do community driven localization so the community can jump in and and help us improve it which means we should TM be able to support like a bunch of languages basically whoever wants to translate that language gene I love this column is the plan it's a coffee stain yeah coffee stain also known as yeah
+> localization support there will be there will be localization support and we will do community driven localization so the community can jump in and and help us improve it which means we should TM be able to support like a bunch of languages basically whoever wants to translate that language gene I love this column is the plan it's a coffee stain yeah coffee stain also known as yeah yeah that's the way we do it any TLC's

@@ -16,4 +16,4 @@ https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=655&end=668
 
 ### Transcript
 
-> uses a standard pop-up with custom disconnect message that that sounds reasonable i i assume that's what how it was done but i didn't
+> uses a standard pop-up with custom disconnect message that that sounds reasonable i i assume that's what how it was done but i didn't know it

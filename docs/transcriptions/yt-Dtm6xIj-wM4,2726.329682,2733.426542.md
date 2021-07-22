@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 ### Transcript
 
-> they gonna be NPCs that you get quest
+> there yeah there was someone before who else are they gonna be NPCs that you get quest from blah blah blah no there's not that

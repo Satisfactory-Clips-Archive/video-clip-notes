@@ -20,4 +20,4 @@ https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=96&end=110
 
 ### Transcript
 
-> a lot of you wanted a map and we wanted a map too so now it's in the game and you can't see everything on the map at first but we have then introduced a new
+> town we've also added a map to the game a lot of you wanted a map and we wanted a map too so now it's in the game and you can't see everything on the map at first but we have then introduced a new structure called the radio tower that

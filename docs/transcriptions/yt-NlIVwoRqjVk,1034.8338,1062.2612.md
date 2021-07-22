@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [June 8th, 2021
 
 ### Transcript
 
-> what is one item or equipment that some of the staff have wanted but got can't for balance reasons or because it just didn't make the cut so one thing so one thing that comes to mind is like factory defense based defense creatures attacking a factory and destroying it any turrets and stuff we had we had that idea a lot of people even suggested that but we have chosen not to do it we don't like the idea anymore and we don't want to do it so we
+> what is one item or equipment that some of the staff have wanted but got can't for balance reasons or because it just didn't make the cut so one thing so one thing that comes to mind is like factory defense based defense creatures attacking a factory and destroying it any turrets and stuff we had we had that idea a lot of people even suggested that but we have chosen not to do it we don't like the idea anymore and we don't want to do it so we have removed that and we're not gonna do

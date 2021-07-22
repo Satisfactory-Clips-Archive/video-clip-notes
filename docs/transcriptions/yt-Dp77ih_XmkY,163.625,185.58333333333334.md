@@ -28,4 +28,4 @@ https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186
 
 > We're also adding nitrogen gas to the game Which can be extracted from a new resource node type
 we've added called &quot;Resource Wells&quot; Resource Wells consist of a main node and
-nearby satellite nodes You simply place the pressurizer on the main node That then activates the satellite nodes Which can then be extracted via pipes using an Extractor Oil and water Resource Wells will also be added As an additional method of extracting oil and water
+nearby satellite nodes You simply place the pressurizer on the main node That then activates the satellite nodes Which can then be extracted via pipes using an Extractor Oil and water Resource Wells will also be added As an additional method of extracting oil and water Another thing we've added is a new building called the Blender

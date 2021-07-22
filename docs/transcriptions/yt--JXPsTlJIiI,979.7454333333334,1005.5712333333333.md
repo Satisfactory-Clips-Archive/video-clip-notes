@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [March 16th, 2021
 
 ### Transcript
 
-> to the game that would get you suppliers from the factory while you're building far away and don't have a vehicle pass set up yet so we hear you on the second part of that question um in that it's problematic when you're building far away and you want to get supplies to you so you know that is a problem that could be solved in some way but whether it's drones whether it's something else don't know but uh totally hear the the concern or the problem that you're experiencing there
+> to the game that would get you suppliers from the factory while you're building far away and don't have a vehicle pass set up yet so we hear you on the second part of that question um in that it's problematic when you're building far away and you want to get supplies to you so you know that is a problem that could be solved in some way but whether it's drones whether it's something else don't know but uh totally hear the the concern or the problem that you're experiencing there and we'll find some

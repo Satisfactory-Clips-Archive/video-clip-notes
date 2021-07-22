@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> uh yeah we think that we're going to have that uh to what capacity we don't really know yet like are you just going to change your colors or will there be different skins or like hats you can wear um who knows we think that we'll probably end up adding character customization at some point it
+> character customization uh yeah we think that we're going to have that uh to what capacity we don't really know yet like are you just going to change your colors or will there be different skins or like hats you can wear um who knows we think that we'll probably end up adding character customization at some point it makes sense and it makes a lot of sense

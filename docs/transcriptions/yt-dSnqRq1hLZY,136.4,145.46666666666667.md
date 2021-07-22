@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 9th, 20
 
 ### Transcript
 
-> haven't finalized production on the mug just yet it's something that we're gonna
+> so where's the mug so we unfortunately haven't finalized production on the mug just yet it's something that we're gonna roll out further down the line

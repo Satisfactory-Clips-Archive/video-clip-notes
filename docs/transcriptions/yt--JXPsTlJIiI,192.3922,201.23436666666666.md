@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> anytime soon soon no soon tm yes
+> the short answer will we get science anytime soon soon no soon tm yes how are you i'm good are there going to

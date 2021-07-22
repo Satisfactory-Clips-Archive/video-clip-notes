@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 8th, 2020
 
 ### Transcript
 
-> I own it on Epic so we don't know this for sure yet but at this point we don't
+> I own it on Epic so we don't know this for sure yet but at this point we don't really see how that's gonna happen

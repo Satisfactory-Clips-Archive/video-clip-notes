@@ -14,4 +14,4 @@ https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=218&end=237
 
 ### Transcript
 
-> epics games launcher there'll be an option there's like a little cog wheel and then you press it and there's like a drop-down list or something and in that list there will be like an option for you to be able to disable cloud safes
+> can I disable cloud saves yes so in the epics games launcher there'll be an option there's like a little cog wheel and then you press it and there's like a drop-down list or something and in that list there will be like an option for you to be able to disable cloud safes should I back up my saves before trying

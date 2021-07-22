@@ -22,4 +22,4 @@ https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=280&end=303
 >
 > [Jace is playing us the song of his people]
 >
-> Well.. uh.. Coffee Stain, right?
+> Well.. uh.. Coffee Stain, right? ..so i lurk for some shit and I find out what people say.

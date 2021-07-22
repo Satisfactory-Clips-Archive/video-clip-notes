@@ -18,4 +18,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4707&end=4716
 
 ### Transcript
 
-> some stick through balcony roof Oh oops
+> some stick through balcony roof Oh oops well I'll be fixing that it's okay no

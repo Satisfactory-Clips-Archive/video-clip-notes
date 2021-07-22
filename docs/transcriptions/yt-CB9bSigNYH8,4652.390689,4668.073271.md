@@ -18,4 +18,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4652&end=4669
 
 ### Transcript
 
-> trees overlapped with psychos doesn't lucrative yeah no I'm gonna fix that at some point cuz overlapping never really looks good this is just kind of a rough
+> trees overlapped with psychos doesn't lucrative yeah no I'm gonna fix that at some point cuz overlapping never really looks good this is just kind of a rough try of like does it work

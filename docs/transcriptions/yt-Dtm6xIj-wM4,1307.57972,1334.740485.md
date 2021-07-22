@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [January 22nd, 20
 
 ### Transcript
 
-> time exclusive a permanent it is time exclusive it's 12 months a lot of people said or asked are we gonna be on steam after that again we can't plan anything right so when we say basically the answer is don't know and don't know is not know and it's not yes it is literally don't know we haven't thought
+> time exclusive a permanent it is time exclusive it's 12 months a lot of people said or asked are we gonna be on steam after that again we can't plan anything right so when we say basically the answer is don't know and don't know is not know and it's not yes it is literally don't know we haven't thought that far ahead and we're not gonna right

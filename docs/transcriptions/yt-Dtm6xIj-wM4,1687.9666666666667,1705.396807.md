@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 ### Transcript
 
-> such texturing with none of us a 3d artist but I'm pretty sure they just use
+> such texturing with none of us a 3d artist but I'm pretty sure they just use like Photoshop in Maya maybe that brush

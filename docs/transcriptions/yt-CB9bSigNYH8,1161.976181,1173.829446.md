@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1161&end=1174
 
 ### Transcript
 
-> cave of anything to do with story well no story spoilers here
+> cave of anything to do with story well no story spoilers here let's add some color this year sure

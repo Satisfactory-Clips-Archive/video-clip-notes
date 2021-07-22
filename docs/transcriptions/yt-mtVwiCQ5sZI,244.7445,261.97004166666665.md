@@ -14,4 +14,4 @@ https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=244&end=262
 
 ### Transcript
 
-> of the journey we're driving from Gothenburg 50 minutes to the power plant and schnitz little schnitz a little baby over here duh don't people kick the tires and that a
+> and so now here we are at the last part of the journey we're driving from Gothenburg 50 minutes to the power plant and schnitz little schnitz a little baby over here duh don't people kick the tires and that a thing if you kick a tire and it's like a

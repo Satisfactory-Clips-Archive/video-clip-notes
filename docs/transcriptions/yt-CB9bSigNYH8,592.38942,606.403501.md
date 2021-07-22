@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=592&end=607
 
 ### Transcript
 
-> the caves are kind of broken we fixed them though that's a big thing that we're doing so if you get stuck in them now hopefully in the future you won't get stuck in them again
+> I am if you are in the Alpha right now the caves are kind of broken we fixed them though that's a big thing that we're doing so if you get stuck in them now hopefully in the future you won't get stuck in them again SpeedTree yes that's it

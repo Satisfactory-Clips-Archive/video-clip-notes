@@ -14,4 +14,4 @@ https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=562
 
 ### Transcript
 
-> today I know that everyone in the coments are gonna be like you so it looks so tired mhmmm get some sleep shave your beard that's what you sound like yeah
+> yeah look I look pretty tired again today I know that everyone in the coments are gonna be like you so it looks so tired mhmmm get some sleep shave your beard that's what you sound like yeah

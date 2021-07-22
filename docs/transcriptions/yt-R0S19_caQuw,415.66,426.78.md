@@ -16,4 +16,4 @@ https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=415&end=427
 
 ### Transcript
 
-> SatisfactoryCN writes &quot;Are there plans to add more than seven tiers? Or will the tiers shuffle around more or is the team happy with how they are laid out right now?&quot;
+> Yes. SatisfactoryCN writes &quot;Are there plans to add more than seven tiers? Or will the tiers shuffle around more or is the team happy with how they are laid out right now?&quot; We expect to have eight tiers, and then whether that changes or not, who knows?

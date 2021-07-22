@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 3rd, 
 
 ### Transcript
 
-> planned yo dude we haven't even released
+> planned yo dude we haven't even released yet yeah I don't even thinking about it

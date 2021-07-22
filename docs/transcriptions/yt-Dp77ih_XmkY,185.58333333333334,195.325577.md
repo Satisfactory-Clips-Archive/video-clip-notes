@@ -18,5 +18,6 @@ https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=185&end=196
 
 ### Transcript
 
-> It will blend liquids and gases together with other resources To be able to construct fused modular frames,
-nitric acid, and more!
+> Another thing we've added is a new building called the Blender It will blend liquids and gases together with other resources To be able to construct fused modular frames,
+nitric acid, and more! And, in fact, there's a significant change in how
+encased uranium cells are produced

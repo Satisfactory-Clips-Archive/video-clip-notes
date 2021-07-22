@@ -24,4 +24,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3639&end=3718
 >
 > [Music]
 >
-> a little bit make it less stress I'm not gonna do all your names it's too much where and I can't get anything done today but you know you can write it in factory if you
+> a little bit make it less stress I'm not gonna do all your names it's too much where and I can't get anything done today but you know you can write it in factory if you build your name that'd be pretty cool I

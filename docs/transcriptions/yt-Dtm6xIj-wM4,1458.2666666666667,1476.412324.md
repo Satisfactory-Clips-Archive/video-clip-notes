@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1458&end=1477
 
 ### Transcript
 
-> hello alphas not a scam text I forgot to remove trust us it's no scam the more we say that the more you'll
+> be hazardous hello alphas not a scam text I forgot to remove trust us it's no scam the more we say that the more you'll believe is right yeah

@@ -30,7 +30,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> there be steam workshop it seems like it's a no-brainer but there are actually a few reasons why we shouldn't have steam workshop support i don't know what we're going to be doing whether we're going to have it or not but here are the reasons for not having steam workshop first of all we don't want to fragment the modding community basically so not everyone that plays satisfactory has access to steam and or the steam workshop so we would prefer it if all of our mods were in one sort of repository that anyone can access regardless of what platform they're on kind of like what the unofficial modding community is already doing that would be great so people on steam people on epic whatever they'll be able to uh use mods and if we have two different things we have steam workshop and this other global thing then it means people well one it means we have more work to do and two it also means people who are making mods have more work to do because if they want everyone to be able to use it they're gonna have to target steam and this other thing some people might not uh target the global one and just target steam and then now we've fragmented the the community so only some people get access to certain mods and we don't want that we would rather have a level playing field for everybody kind of what the unofficial modding community is already doing we're you know that's that's uh that's useful to see what they've been doing uh so that we can find a good solution ourselves when it comes to it and also like you might be saying yeah but steam workshop is super convenient and it is but but but don't don't don't count out the uh the satisfactory mod manager that the modding community has made so far that thing is super super easy to use and super convenient so like there there are convenient solutions for everybody uh without steam workshop we'll see what happens in the future when that happens but i don't think i don't think steam workshop shop is is a necessity i don't think it has to be uh implemented in order for there to be
+> there be steam workshop it seems like it's a no-brainer but there are actually a few reasons why we shouldn't have steam workshop support i don't know what we're going to be doing whether we're going to have it or not but here are the reasons for not having steam workshop first of all we don't want to fragment the modding community basically so not everyone that plays satisfactory has access to steam and or the steam workshop so we would prefer it if all of our mods were in one sort of repository that anyone can access regardless of what platform they're on kind of like what the unofficial modding community is already doing that would be great so people on steam people on epic whatever they'll be able to uh use mods and if we have two different things we have steam workshop and this other global thing then it means people well one it means we have more work to do and two it also means people who are making mods have more work to do because if they want everyone to be able to use it they're gonna have to target steam and this other thing some people might not uh target the global one and just target steam and then now we've fragmented the the community so only some people get access to certain mods and we don't want that we would rather have a level playing field for everybody kind of what the unofficial modding community is already doing we're you know that's that's uh that's useful to see what they've been doing uh so that we can find a good solution ourselves when it comes to it and also like you might be saying yeah but steam workshop is super convenient and it is but but but don't don't don't count out the uh the satisfactory mod manager that the modding community has made so far that thing is super super easy to use and super convenient so like there there are convenient solutions for everybody uh without steam workshop we'll see what happens in the future when that happens but i don't think i don't think steam workshop shop is is a necessity i don't think it has to be uh implemented in order for there to be a good mod solution
 
 
 </details>
@@ -3271,7 +3271,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> you know why does it go to experimental first and basically it's because we want the early access branch to be stable basically that's our stable branch and we do everything we can to make sure that the you know with testing internally to make sure that the game is as stable as possible when we bring it to experimental but we can never really be sure you know there's only like 30 40 of us or something like that and there's a bajillion of you guys and the feedback and the crash reports and all that kind of stuff that we get from you guys in the community um is just on a level that we couldn't get ourselves when testing internally so we put it we always put this stuff out all of our updates out on experimental first we gather as much information and feedback from you guys as possible fix any bugs all that kind of stuff stabilize the game and then once it's stable we bring it over to early access and that's just
+> march 16. we still have questions now you know why does it go to experimental first and basically it's because we want the early access branch to be stable basically that's our stable branch and we do everything we can to make sure that the you know with testing internally to make sure that the game is as stable as possible when we bring it to experimental but we can never really be sure you know there's only like 30 40 of us or something like that and there's a bajillion of you guys and the feedback and the crash reports and all that kind of stuff that we get from you guys in the community um is just on a level that we couldn't get ourselves when testing internally so we put it we always put this stuff out all of our updates out on experimental first we gather as much information and feedback from you guys as possible fix any bugs all that kind of stuff stabilize the game and then once it's stable we bring it over to early access and that's just kind of the procedure
 
 
 </details>
@@ -3294,7 +3294,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> wondering okay well i'm on early access how do i get on get in on this experimental stuff you know i want i want to fly close to the sun i'm going to live life on the edge right i don't care if it's unstable i want update for the second it drops how do i get experimental i hear you say okay so everyone has access to experimental if you are on the epic version of the game in your epic library you actually will just have two versions of satisfactory there one's experimental one's early access download the experimental one and play if you're on steam and you want access to the experimental version you just find satisfactory in your steam library and you right click on it go to properties select betas there's a drop down box and then choose experimental from the drop down box and that's all it is the game will redownload the experimental version of the game one thing that you should be wary of is your save files whenever changing versions always back up your saves save files from early access to experimental are supported not necessarily the other way around and then also experimental is unstable so you never know what's gonna happen maybe you need to revert but then you can't and you've lost your save files now so back up your saves i'll leave the path to your save files in the description down below back them up
+> soon as we can uh now you might be wondering okay well i'm on early access how do i get on get in on this experimental stuff you know i want i want to fly close to the sun i'm going to live life on the edge right i don't care if it's unstable i want update for the second it drops how do i get experimental i hear you say okay so everyone has access to experimental if you are on the epic version of the game in your epic library you actually will just have two versions of satisfactory there one's experimental one's early access download the experimental one and play if you're on steam and you want access to the experimental version you just find satisfactory in your steam library and you right click on it go to properties select betas there's a drop down box and then choose experimental from the drop down box and that's all it is the game will redownload the experimental version of the game one thing that you should be wary of is your save files whenever changing versions always back up your saves save files from early access to experimental are supported not necessarily the other way around and then also experimental is unstable so you never know what's gonna happen maybe you need to revert but then you can't and you've lost your save files now so back up your saves i'll leave the path to your save files in the description down below back them up before changing
 
 
 </details>
@@ -4162,7 +4162,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> is the steam release going to come again we don't have an exact date but we do have a better timeframe we were sort of thinking like maybe in April but that's not gonna happen we're pretty confident on May now I don't know if it's beginning middle or end I'm just gonna say middle because if it's a little early then you're gonna be happy if it's a little little late it won't be too late so sometime in May folks
+> is the steam release going to come again we don't have an exact date but we do have a better timeframe we were sort of thinking like maybe in April but that's not gonna happen we're pretty confident on May now I don't know if it's beginning middle or end I'm just gonna say middle because if it's a little early then you're gonna be happy if it's a little little late it won't be too late so sometime in May folks yeah really looking forward to
 
 
 </details>
@@ -4203,6 +4203,15 @@ date: Last Modified
 ### [Q&A: Pipes?](./transcriptions/yt-Dtm6xIj-wM4,278.693237,280.42817.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=278&end=281](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=278&end=281)
 
 <details>
+
+<summary>A transcript is available</summary>
+
+> pipes no release date actually I can't
+
+
+</details>
+
+<details>
 <summary>This question may have been asked previously at least 2 other times, as recently as February 2019 and as early as August 2018.</summary>
 
 * [February 6th, 2019 Livestream Q&A: Pipes?](./transcriptions/yt-Dtm6xIj-wM4,4048.165275,4050.819876.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4048&end=4051)
@@ -4215,7 +4224,7 @@ date: Last Modified
 
 <summary>A transcript is available</summary>
 
-> skybox how high is the skybox sky's the limit very high pretty high we've had some people hit it just by like building directly up I know our our tester yeah he hit it and he was just like building underneath himself like like 30 40 minutes or something something like that it's ridiculous you're not gonna be able to factory that I challenge you yeah yeah yeah people have tried in performance might not be optimal up there yeah I think just all the tiles are gonna be garbage yeah
+> money is there a height limit it's the skybox how high is the skybox sky's the limit very high pretty high we've had some people hit it just by like building directly up I know our our tester yeah he hit it and he was just like building underneath himself like like 30 40 minutes or something something like that it's ridiculous you're not gonna be able to factory that I challenge you yeah yeah yeah people have tried in performance might not be optimal up there yeah I think just all the tiles are gonna be garbage yeah where have you learned your unreal
 
 
 </details>

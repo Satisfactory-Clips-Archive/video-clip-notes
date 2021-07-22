@@ -16,4 +16,4 @@ https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=69&end=86
 
 ### Transcript
 
-> feature the conveyor lifts conveyor lifts are a thing that can vertically transfer items from one can variable to another so this should no doubt reduce some of the spaghetti in some of your
+> the first feature is a highly requested feature the conveyor lifts conveyor lifts are a thing that can vertically transfer items from one can variable to another so this should no doubt reduce some of the spaghetti in some of your factories for those of you on an lchf

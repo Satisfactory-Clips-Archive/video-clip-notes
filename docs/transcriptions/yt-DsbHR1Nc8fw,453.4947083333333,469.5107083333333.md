@@ -16,4 +16,4 @@ https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=453&end=470
 
 ### Transcript
 
-> quicker so do I luckily in satisfactory you don't have to deal with long queues but you do have a big map that you want to travel around in so we've added travel tubes so you can zoom around and
+> we want to get from point A to point B quicker so do I luckily in satisfactory you don't have to deal with long queues but you do have a big map that you want to travel around in so we've added travel tubes so you can zoom around and and don't have to look anymore

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 1st, 2021
 
 ### Transcript
 
-> it's cool we like friendly like people yeah it's us against nature screw nature
+> any plans for pvp nope cooperative play it's cool we like friendly like people yeah it's us against nature screw nature why nerd turrets like sanctum why do you

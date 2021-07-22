@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [June 22nd, 202
 
 ### Transcript
 
-> there's gonna be free updates after the game is released or is it all going to be DLCs after the game is released to the public we will be doing free updates yeah because we're don't bug fixes we're gonna be doing for the balancing adding new features yeah basically so the answer is yes
+> there's gonna be free updates after the game is released or is it all going to be DLCs after the game is released to the public we will be doing free updates yeah because we're don't bug fixes we're gonna be doing for the balancing adding new features yeah basically so the answer is yes any plans for pvp nope cooperative play

@@ -24,4 +24,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2465&end=2489
 
 ### Transcript
 
-> loading that specific tile yes your factory will always stay active no matter where you are on the map unless of course you run out of fuel but that's a problem to deal with more with management have you set up your factory
+> well the machinery still work if I'm not loading that specific tile yes your factory will always stay active no matter where you are on the map unless of course you run out of fuel but that's a problem to deal with more with management have you set up your factory yourself but of course we give you a

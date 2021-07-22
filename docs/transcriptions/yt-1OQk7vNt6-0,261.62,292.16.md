@@ -23,4 +23,4 @@ so that, you know, you guys can just help out with any translations
 that we want into any language. But we will not have it at the very beginning, We're really hoping to add it into the Alpha,
 at one of those stages because we know that we have a lot of different communities in non-english speaking locations in the world, so we would like to provide the game
 in their language. We actually planned to have it in the Alpha
-from the beginning but
+from the beginning but Simon happened I guess,

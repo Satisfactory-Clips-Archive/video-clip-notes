@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> nope the world is not generated it's every single thing that you see on this map is is hand placed and if you if you hate it then then you personally insult
+> nope the world is not generated it's every single thing that you see on this map is is hand placed and if you if you hate it then then you personally insult us and we will be crying from behind the

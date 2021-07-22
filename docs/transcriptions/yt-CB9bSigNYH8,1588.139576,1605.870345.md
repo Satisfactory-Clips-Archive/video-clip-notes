@@ -18,4 +18,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1588&end=1606
 >
 > [Music]
 >
-> but there's definitely stuff roaming around the planet that isn't all too
+> but there's definitely stuff roaming around the planet that isn't all too friendly towards you and stuff that

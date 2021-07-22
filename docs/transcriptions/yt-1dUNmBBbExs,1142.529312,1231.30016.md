@@ -21,3 +21,5 @@ https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1142&end=1232
 > yeah so
 >
 > [Music]
+>
+> um next up we have the

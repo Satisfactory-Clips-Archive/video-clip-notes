@@ -22,4 +22,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5109&end=5127
 >
 > [Music]
 >
-> gameplay stuff around things yeah also if you want to blame someone for not sharing gameplay bleep Jase live days
+> gameplay stuff around things yeah also if you want to blame someone for not sharing gameplay bleep Jase live days for everything if not blame Simon that's

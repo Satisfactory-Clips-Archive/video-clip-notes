@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 19th,
 
 ### Transcript
 
-> satisfactory cost I think I know now but I'm definitely not allowed to say but you have said it in the past oh yeah three hundred dollars or something and there's monthly
+> satisfactory cost I think I know now but I'm definitely not allowed to say but you have said it in the past oh yeah three hundred dollars or something and there's monthly subscription with the thousand sea gems

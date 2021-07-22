@@ -18,4 +18,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=460&end=487
 
 ### Transcript
 
-> before the exclusive deal with epic we had given steam keys out to close friends and family so that they could test the game and check it out so obviously they played it on Steam at that time but then after things changed and we went with the epic store then they couldn't play on Steam anymore no one can we can't even play on Steam anymore and everyone who had a steam key at that
+> store did you ever give steam keys before the exclusive deal with epic we had given steam keys out to close friends and family so that they could test the game and check it out so obviously they played it on Steam at that time but then after things changed and we went with the epic store then they couldn't play on Steam anymore no one can we can't even play on Steam anymore and everyone who had a steam key at that time now has an epic key and everyone

@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1034&end=1052
 
 ### Transcript
 
-> as far as I know but they're also we have some temporary assets that we use
+> we're not using the same assets as Ark as far as I know but they're also we have some temporary assets that we use until but our team can make make

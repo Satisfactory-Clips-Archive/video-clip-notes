@@ -16,4 +16,4 @@ https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=142&end=153
 
 ### Transcript
 
-> a thing called the novelist detonator it blows up rocks and stuff and it opens up the map and exposes resources and just
+> a thing called the novelist detonator it blows up rocks and stuff and it opens up the map and exposes resources and just helps establish dominance in general

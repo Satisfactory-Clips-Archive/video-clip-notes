@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [October 27th, 20
 
 ### Transcript
 
-> never we're never adding pipes i've told you a million times for years now we will never add pipes
+> will you add pipes never we're never adding pipes i've told you a million times for years now we will never add pipes okay

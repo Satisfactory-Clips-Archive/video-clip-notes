@@ -14,4 +14,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=128&end=135
 
 ### Transcript
 
-> this is where the magic happens over
+> this is where the magic happens over here hey everyone is Jace the community

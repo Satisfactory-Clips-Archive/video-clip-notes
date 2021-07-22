@@ -14,4 +14,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=92&end=106
 
 ### Transcript
 
-> I'm an Aries and you've already probably noticed that I have incredibly blue eyes
+> I'm an Aries and you've already probably noticed that I have incredibly blue eyes I like the party yeah I'm I'm somewhat

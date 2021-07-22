@@ -18,4 +18,4 @@ https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=208&end=223
 
 ### Transcript
 
-> have some new upgraded buildings available the miner mark 3 is now available and it is twice as efficient as the mark 2 and the conveyor belt mark 5 and the conveyor lift mark 5 are also
+> have some new upgraded buildings available the miner mark 3 is now available and it is twice as efficient as the mark 2 and the conveyor belt mark 5 and the conveyor lift mark 5 are also available and they transport up to seven

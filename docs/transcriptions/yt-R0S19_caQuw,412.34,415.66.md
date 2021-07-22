@@ -16,4 +16,4 @@ https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=412&end=416
 
 ### Transcript
 
-> &quot;You guys fixed the M.A.M. hard drive crash yet? Winky face.&quot;
+> Not a question. &quot;You guys fixed the M.A.M. hard drive crash yet? Winky face.&quot; Yes.

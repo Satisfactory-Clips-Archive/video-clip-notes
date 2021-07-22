@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 6th, 2021
 
 ### Transcript
 
-> a farming system with seeds and stuff so we can plant our own fruits that's something that's in talks so maybe like we there's another thing that we've been
+> a farming system with seeds and stuff so we can plant our own fruits that's something that's in talks so maybe like we there's another thing that we've been doing that we've been discussing so

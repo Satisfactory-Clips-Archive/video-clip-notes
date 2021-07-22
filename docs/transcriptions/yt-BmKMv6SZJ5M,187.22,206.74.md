@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [June 8th, 2020
 
 ### Transcript
 
-> on epic can I transfer that to steam or get a free copy on Steam no you can't do that have no idea how that would work another thing to consider here is epic and steam our competitors you've given your money to epic why would steam give you a free version that's just not gonna
+> on epic can I transfer that to steam or get a free copy on Steam no you can't do that have no idea how that would work another thing to consider here is epic and steam our competitors you've given your money to epic why would steam give you a free version that's just not gonna happen if you own an epic it's yours an

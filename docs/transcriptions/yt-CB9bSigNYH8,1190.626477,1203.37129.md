@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1190&end=1204
 
 ### Transcript
 
-> things unless you want a serious answer
+> what the Simon do well he mostly delays things unless you want a serious answer but do a serious answer do you really

@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: July 13th, 2021
 
 > therealzohmygod writes: &quot;Any ETA on dedicated servers?&quot;
 >
-> I don't know the ETA exactly, but if you go to our website satisfactorygame.com there's a roadmap. There's a lot of information about what we're planning on doing next and dedicated servers is written there.
+> I don't know the ETA exactly, but if you go to our website satisfactorygame.com there's a roadmap. There's a lot of information about what we're planning on doing next and dedicated servers is written there. So that's a bunch of information. I really hope that that covered

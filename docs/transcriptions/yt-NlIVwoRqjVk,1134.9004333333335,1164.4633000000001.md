@@ -16,4 +16,4 @@ https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1134&end=1165
 
 ### Transcript
 
-> sloops okay so something happened in the audio it was in the video with Simon VFX with Simon yeah there was something weird with the audio I missed that sorry so what he was saying about the slopes right is I like it and no because I don't maybe you will and maybe that's something that you
+> what did Simon really say about the sloops okay so something happened in the audio it was in the video with Simon VFX with Simon yeah there was something weird with the audio I missed that sorry so what he was saying about the slopes right is I like it and no because I don't maybe you will and maybe that's something that you would like but that's pretty much yeah

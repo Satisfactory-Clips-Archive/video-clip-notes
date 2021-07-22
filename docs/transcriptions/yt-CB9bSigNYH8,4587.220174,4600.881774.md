@@ -18,4 +18,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4587&end=4601
 
 ### Transcript
 
-> everything you see is fake it's not real it doesn't exist it's the figment of your imagination
+> everything you see is fake it's not real it doesn't exist it's the figment of your imagination does this look good

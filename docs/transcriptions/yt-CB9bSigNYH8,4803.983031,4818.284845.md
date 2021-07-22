@@ -18,4 +18,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4803&end=4819
 
 ### Transcript
 
-> is my Unreal Engine pirated if it was that would be very stupid of me no of course not
+> is my Unreal Engine pirated if it was that would be very stupid of me no of course not this yeah this is unlit mode so lit

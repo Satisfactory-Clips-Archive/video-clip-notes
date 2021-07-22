@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 6th, 
 
 ### Transcript
 
-> can I build as high as I want we kind of answered that before it's just up to the skybox but there's no physics that's gonna knock you everything
+> can I build as high as I want we kind of answered that before it's just up to the skybox but there's no physics that's gonna knock you everything yep

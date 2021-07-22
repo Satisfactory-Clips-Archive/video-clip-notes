@@ -14,4 +14,4 @@ https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=428&end=440
 
 ### Transcript
 
-> to say also what's your favorite character from sanctum there's this guy mine is sweet sky sister sweet autumn and she's really cool I liked how she was super playful I loved her rocket
+> to say also what's your favorite character from sanctum there's this guy mine is sweet sky sister sweet autumn and she's really cool I liked how she was super playful I loved her rocket launcher I would always play sweet

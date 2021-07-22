@@ -18,4 +18,4 @@ https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275
 
 ### Transcript
 
-> you're unhappy alright you're on this here we got a pipe I had a rip you in half if it gets the chance you ought to be careful isn't she
+> you're unhappy alright you're on this here we got a pipe I had a rip you in half if it gets the chance you ought to be careful isn't she a beauty though she's not what we're

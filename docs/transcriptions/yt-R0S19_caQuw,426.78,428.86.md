@@ -17,3 +17,5 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 ### Transcript
 
 > BustaSnutt asks:&quot;Sanctum 3 when?&quot;
+>
+> serubi asks: &quot;Any plans to make jump pads adjustable?&quot;

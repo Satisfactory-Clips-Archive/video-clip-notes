@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 25th, 2021
 
 ### Transcript
 
-> survival elements to keep the player alive it would no no this is it's a management game it's not a survival game kinda he's like drink water no no no there's nothing there's nothing like that in a game you're just you're fine
+> I like the hash tag is there going to be survival elements to keep the player alive it would no no this is it's a management game it's not a survival game kinda he's like drink water no no no there's nothing there's nothing like that in a game you're just you're fine all the time magically don't find an

@@ -16,4 +16,4 @@ https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=269&end=297
 
 ### Transcript
 
-> improved input output speeds uh so this means yeah basically just quicker loading saving streaming things like that so hopefully autosave hitches will be less severe uh hopefully hitches that you get as you navigate around the world as the game loads in new tiles or whatever hopefully that that kind of stuff should be um you should get a performance upgrade
+> yay yeah so the next thing is improved input output speeds uh so this means yeah basically just quicker loading saving streaming things like that so hopefully autosave hitches will be less severe uh hopefully hitches that you get as you navigate around the world as the game loads in new tiles or whatever hopefully that that kind of stuff should be um you should get a performance upgrade there so

@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4226&end=4248
 
 ### Transcript
 
-> or the splines for oh these things that's for example these planes are indicators of where alien creatures would walk for example sort of like their designated area of where they roll
+> or the splines for oh these things that's for example these planes are indicators of where alien creatures would walk for example sort of like their designated area of where they roll around their patrol routes I guess you

@@ -20,4 +20,4 @@ https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=194&end=202
 
 ### Transcript
 
-> the red jungle the red bamboo fields and
+> so we've also revamped the endgame areas the red jungle the red bamboo fields and the swamp and I'll leave that up to you

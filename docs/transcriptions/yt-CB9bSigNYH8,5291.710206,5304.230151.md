@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5291&end=5305
 
 ### Transcript
 
-> Christmas New Year events or something like that when the game is finished not a clue not something we're really thinking about yet
+> Christmas New Year events or something like that when the game is finished not a clue not something we're really thinking about yet stuff like that we just want to get the

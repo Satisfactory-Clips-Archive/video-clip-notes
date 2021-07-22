@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [December 19th, 2
 
 ### Transcript
 
-> that that was like alright let's make something out of this and Chandon want to share with the class yes Jase make that smile from one month what's a THQ Dornoch acquisition that happened you
+> that that was like alright let's make something out of this and Chandon want to share with the class yes Jase make that smile from one month what's a THQ Dornoch acquisition that happened you already got at once

@@ -16,4 +16,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1276&end=1308
 
 ### Transcript
 
-> were using we're using visual studio we're using a real engine we're using perforce as our let's go version control yeah thank you Jesus I'm programmer I was like well how do you put stuff in the Bing where you use it for language it's great I'm on Linux
+> I saw someone asking about what tools were using we're using visual studio we're using a real engine we're using perforce as our let's go version control yeah thank you Jesus I'm programmer I was like well how do you put stuff in the Bing where you use it for language it's great I'm on Linux okay will the move to have fixed obi

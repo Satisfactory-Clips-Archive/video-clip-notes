@@ -17,3 +17,5 @@ https://youtube.com/embed/mtVwiCQ5sZI?autoplay=1&start=227&end=245
 ### Transcript
 
 > you can now combine bauxite with silica to create aluminium which will open up a whole new world of possibilities like soda cans
+>
+> [Music]

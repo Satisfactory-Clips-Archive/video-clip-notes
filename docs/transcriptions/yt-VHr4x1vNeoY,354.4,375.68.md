@@ -14,4 +14,4 @@ https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=354&end=376
 
 ### Transcript
 
-> the system requirements of the game they looked pretty high yeah I guess they are kind of high at the moment but you know we've done a lot to optimize the game it's a really big and complex game but again we're just gonna be releasing an early access and while it's pretty good honestly at early access where we've we're not even remotely done with optimization it's just gonna keep getting better and better as we go on it
+> what you're gonna be putting out I saw the system requirements of the game they looked pretty high yeah I guess they are kind of high at the moment but you know we've done a lot to optimize the game it's a really big and complex game but again we're just gonna be releasing an early access and while it's pretty good honestly at early access where we've we're not even remotely done with optimization it's just gonna keep getting better and better as we go on it just takes some time for us to do it

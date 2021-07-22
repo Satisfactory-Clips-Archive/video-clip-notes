@@ -16,4 +16,4 @@ https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1078&end=1095
 
 ### Transcript
 
-> tea so i prefer tea to coffee and uh i like it black just with a pinch of cocaine just a little little pick me up you know extra get that extra kick give me you'll be starting for the work
+> how do you have your coffee and slash or tea so i prefer tea to coffee and uh i like it black just with a pinch of cocaine just a little little pick me up you know extra get that extra kick give me you'll be starting for the work day

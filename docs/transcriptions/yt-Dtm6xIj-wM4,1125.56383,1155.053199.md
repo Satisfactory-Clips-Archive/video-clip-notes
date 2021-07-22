@@ -20,4 +20,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1125&end=1156
 
 ### Transcript
 
-> about a top-down view that's another thing that I have addressed in an earlier like a video way way way back and top-down I understand why people want it but it doesn't make sense in three because like now you can build upwards what does top-down do you actually show you but that doesn't mean like I understand the problem which is people want to see their factory from a different angle and so I think we've already taken some steps to that and there are some other plans or whatever
+> about a top-down view that's another thing that I have addressed in an earlier like a video way way way back and top-down I understand why people want it but it doesn't make sense in three because like now you can build upwards what does top-down do you actually show you but that doesn't mean like I understand the problem which is people want to see their factory from a different angle and so I think we've already taken some steps to that and there are some other plans or whatever so I can't really telling anything about

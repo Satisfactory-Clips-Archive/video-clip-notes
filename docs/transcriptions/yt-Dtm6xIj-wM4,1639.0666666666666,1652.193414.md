@@ -16,4 +16,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1639&end=1653
 
 ### Transcript
 
-> line refocus on solo it's it's solo or caught there's no difference
+> line refocus on solo it's it's solo or caught there's no difference yeah you can play it single-player

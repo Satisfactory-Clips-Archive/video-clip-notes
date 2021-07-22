@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4977&end=4988
 
 ### Transcript
 
-> level design yeah we take in terms so if
+> level design yeah we take in terms so if you feel like applying go ahead I was an

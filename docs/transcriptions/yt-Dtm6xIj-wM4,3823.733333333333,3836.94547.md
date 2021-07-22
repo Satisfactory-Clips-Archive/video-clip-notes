@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [May 25th, 2021
 
 ### Transcript
 
-> machines then you have to fix and repair
+> machines then you have to fix and repair good answer please don't firm that a

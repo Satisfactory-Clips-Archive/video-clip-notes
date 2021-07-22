@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4284&end=4302
 
 ### Transcript
 
-> aren't we the aliens when we get yes we are technically we are the aliens when we get to this planet so fair point fair point these are native creatures let's
+> aren't we the aliens when we get yes we are technically we are the aliens when we get to this planet so fair point fair point these are native creatures let's call them that now yes still be nice to

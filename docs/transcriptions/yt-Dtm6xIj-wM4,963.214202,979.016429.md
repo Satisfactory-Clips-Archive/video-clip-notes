@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=963&end=980
 
 ### Transcript
 
-> you're good I mean you get red flannel anywhere sure you're wearing a red planet underneath the the spacesuit er
+> soon can we get your shirts in-game you're good I mean you get red flannel anywhere sure you're wearing a red planet underneath the the spacesuit er yes yeah yes actually that's kind of man

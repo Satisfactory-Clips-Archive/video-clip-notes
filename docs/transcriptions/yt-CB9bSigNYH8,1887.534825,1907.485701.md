@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1887&end=1908
 
 ### Transcript
 
-> can I put something in this cave to make it easy to identify well try to fine it from from the screenshot make it a treasure amount I don't know this is where it is also those beautiful waterfalls that haven't been fixed yet speak more for these
+> can I put something in this cave to make it easy to identify well try to fine it from from the screenshot make it a treasure amount I don't know this is where it is also those beautiful waterfalls that haven't been fixed yet speak more for these yeah all the elbe a little patience and

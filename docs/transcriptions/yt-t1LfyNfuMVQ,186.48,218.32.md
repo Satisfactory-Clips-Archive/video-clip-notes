@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: April 13th, 202
 
 ### Transcript
 
-> files supported in an older version of the game no new so once you switch version you can't load them in an old version anymore so if you do switch to experimental we highly recommend that you stay on that version and if you still want to be able to switch back to an older version then you have to backup your saves so what I need to do so you shouldn't really need to do anything out of the ordinary you can still load up and save the game
+> files supported in an older version of the game no new so once you switch version you can't load them in an old version anymore so if you do switch to experimental we highly recommend that you stay on that version and if you still want to be able to switch back to an older version then you have to backup your saves so what I need to do so you shouldn't really need to do anything out of the ordinary you can still load up and save the game as usual and everything should be dandy

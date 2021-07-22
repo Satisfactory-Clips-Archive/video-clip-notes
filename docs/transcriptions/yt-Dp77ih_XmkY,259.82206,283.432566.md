@@ -16,6 +16,8 @@ https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=259&end=284
 
 ### Transcript
 
-> One of which is a new building called the Power Storage Power Storages allow players to store excess power Which can then be used when or if
+> While Snutt looks for the fuse I'll tell you about the
+upcoming changes to power in Update 4 One of which is a new building called the Power Storage Power Storages allow players to store excess power Which can then be used when or if
 consumption exceeds production We've all done it! We've all been there! We've all hooked up a freshly built section
-of our factories to the power grid Only to hear the dreaded [Power Outage sound effect] Power Storages will help buy you time in these cases
+of our factories to the power grid Only to hear the dreaded [Power Outage sound effect] Power Storages will help buy you time in these cases But there are other changes that will make
+use of the Power Storage as well

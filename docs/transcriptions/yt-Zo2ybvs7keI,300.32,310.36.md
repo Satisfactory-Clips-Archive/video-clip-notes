@@ -16,4 +16,4 @@ https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=300&end=311
 
 ### Transcript
 
-> better colleague Natalie or Hannah come on Jim I cop pick a better cut level who's my favorite colleague I can't I gotta do that on the video nonetheless
+> better colleague Natalie or Hannah come on Jim I cop pick a better cut level who's my favorite colleague I can't I gotta do that on the video nonetheless it's Natalie

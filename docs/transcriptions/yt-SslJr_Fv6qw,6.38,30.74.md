@@ -16,4 +16,4 @@ https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=6&end=31
 
 ### Transcript
 
-> designer here at caucusing so this Factory is a very very do AI heavy game first year and a half the UI was just not working like it was working like it it served its purpose it was so boring like it was really boring and was also necessary to just are thinking about UX UI Newark's like they really like they
+> designer here at caucusing so this Factory is a very very do AI heavy game first year and a half the UI was just not working like it was working like it it served its purpose it was so boring like it was really boring and was also necessary to just are thinking about UX UI Newark's like they really like they they blend together you can't really do

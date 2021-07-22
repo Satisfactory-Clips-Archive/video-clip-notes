@@ -16,4 +16,4 @@ https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=0&end=19
 
 ### Transcript
 
-> we're adding tier eight in update four yay we're going to break your saves yay not really kind of it's fine just watch hey everyone my name is jason i'm a community manager at coffeestain studios and today i'm going to be talking about
+> we're adding tier eight in update four yay we're going to break your saves yay not really kind of it's fine just watch hey everyone my name is jason i'm a community manager at coffeestain studios and today i'm going to be talking about update 4 but more specifically tier viii

@@ -16,4 +16,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2244&end=2263
 
 ### Transcript
 
-> give me your sucks well a lot of people are retired yeah yeah you know what I can wear these for seven days and you get like seven day dirty socks oh yeah they're gonna go for a good price you just bid for it yeah it's gonna happen
+> give me your sucks well a lot of people are retired yeah yeah you know what I can wear these for seven days and you get like seven day dirty socks oh yeah they're gonna go for a good price you just bid for it yeah it's gonna happen my socks I don't care I'll take your

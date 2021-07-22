@@ -16,4 +16,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=408&end=419
 
 ### Transcript
 
-> geez Hannity you go clothes shopping in the same place this was a complete
+> geez Hannity you go clothes shopping in the same place this was a complete accident right totally complete accident

@@ -18,4 +18,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=173&end=191
 
 ### Transcript
 
-> power snip and I are gonna take a train to a nuclear power plant I'm here at ring house nuclear power plant and that
+> so in the spirit of trains and nuclear power snip and I are gonna take a train to a nuclear power plant I'm here at ring house nuclear power plant and that is because of course we are adding

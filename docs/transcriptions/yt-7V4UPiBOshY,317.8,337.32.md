@@ -16,4 +16,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=317&end=338
 
 ### Transcript
 
-> corporate decision-makers play video games yeah they do there's this like one evil corporate decision maker named Tim and he's always playing Call of Duty or something and then there's obviously Anton and he placed so much dota I'll I'll try and convince him to let me put
+> corporate decision-makers play video games yeah they do there's this like one evil corporate decision maker named Tim and he's always playing Call of Duty or something and then there's obviously Anton and he placed so much dota I'll I'll try and convince him to let me put his hours in this video so that like

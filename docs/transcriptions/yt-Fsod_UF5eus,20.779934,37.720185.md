@@ -14,4 +14,4 @@ https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=20&end=38
 
 ### Transcript
 
-> developer highlight recently it's Hannah I can't say her last name not very fair Hannah's develop a highlight video on level design has just been released last week so I put a lot of time in that I'm
+> that I just want to say we released a developer highlight recently it's Hannah I can't say her last name not very fair Hannah's develop a highlight video on level design has just been released last week so I put a lot of time in that I'm really proud of it so please check it

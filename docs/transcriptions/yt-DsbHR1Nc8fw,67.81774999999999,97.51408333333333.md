@@ -18,4 +18,4 @@ https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98
 
 ### Transcript
 
-> our journey and the goal here is we want to travel around and we want to find the most amazing pipe we've ever seen and we want to see different kinds of pipes along the way we want to see what pipes do what does it mean how long are they how much do pipes wait but of course on the journey we're going to be giving a lot of information about other things that are coming in this update as well so stay tuned and at different locations you'll get more information and we're gonna go to our next location now or I
+> so we're here in Stockholm we've begun our journey and the goal here is we want to travel around and we want to find the most amazing pipe we've ever seen and we want to see different kinds of pipes along the way we want to see what pipes do what does it mean how long are they how much do pipes wait but of course on the journey we're going to be giving a lot of information about other things that are coming in this update as well so stay tuned and at different locations you'll get more information and we're gonna go to our next location now or I bye

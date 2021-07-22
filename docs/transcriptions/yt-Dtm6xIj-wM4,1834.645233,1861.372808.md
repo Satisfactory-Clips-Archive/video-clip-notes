@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 16th, 2
 
 ### Transcript
 
-> emissions and will affect the ecosystems no but we really thought about that we did yeah like different different types of energy winning and such yeah what could be more environmentally friendly not but it makes everything so complex yeah I mean it might be an issue we might revisit later but right now again there are more important things yeah
+> emissions and will affect the ecosystems no but we really thought about that we did yeah like different different types of energy winning and such yeah what could be more environmentally friendly not but it makes everything so complex yeah I mean it might be an issue we might revisit later but right now again there are more important things yeah exactly and otherwise hey months but

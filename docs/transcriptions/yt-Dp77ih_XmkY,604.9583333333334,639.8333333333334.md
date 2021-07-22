@@ -21,3 +21,5 @@ before using these bad boys And consider utilizing Power Storages It's used to p
 for the plutonium production line
 >
 > And also Project Part #9: Nuclear Pasta
+>
+> Wow that sure is a lot of stuff coming to Update 4, Snutt!

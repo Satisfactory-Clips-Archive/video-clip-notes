@@ -14,4 +14,4 @@ https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=74&end=87
 
 ### Transcript
 
-> Well then why would I pre-purchase? Because you love us and you're excited about the game. And you wanna... play the game more than you want to pay your own bills.
+> Well then why would I pre-purchase? Because you love us and you're excited about the game. And you wanna... play the game more than you want to pay your own bills. I don't know dude just like do whatever you want.

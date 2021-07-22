@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=710&end=748
 
 ### Transcript
 
-> going into caves besides exploration while you can find stuff like these little guys nice little goodies that will help you in some shape or form whether that be factory related or exploration related otherwise it's also it could sometimes find resources you can find oh that's a little very big let's tone that down and just nice little areas sometimes we just make caves for the sake of having a pretty
+> going into caves besides exploration while you can find stuff like these little guys nice little goodies that will help you in some shape or form whether that be factory related or exploration related otherwise it's also it could sometimes find resources you can find oh that's a little very big let's tone that down and just nice little areas sometimes we just make caves for the sake of having a pretty little corner of the world to to see and

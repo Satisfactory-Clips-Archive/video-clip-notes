@@ -24,4 +24,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1016&end=1053
 
 ### Transcript
 
-> from Timothy Smith large factories seem like they can get complicated with a large number of belts and and he plans for butts or other means of transport other than belts and trains there are vehicles there's a video of like a vehicle showcase on our YouTube channel from a little while ago things have changed a lot they're both in the game and how the vehicles function in fact I just rewrote the drifting mechanics and there's so much better now it's actually good it was pretty good
+> from Timothy Smith large factories seem like they can get complicated with a large number of belts and and he plans for butts or other means of transport other than belts and trains there are vehicles there's a video of like a vehicle showcase on our YouTube channel from a little while ago things have changed a lot they're both in the game and how the vehicles function in fact I just rewrote the drifting mechanics and there's so much better now it's actually good it was pretty good before as well that's way better no

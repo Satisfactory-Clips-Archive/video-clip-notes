@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1688&end=1695
 
 ### Transcript
 
-> I don't really work on gameplay
+> I don't really work on gameplay blueprints no it's mostly I mostly do

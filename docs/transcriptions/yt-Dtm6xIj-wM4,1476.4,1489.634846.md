@@ -16,4 +16,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1476&end=1490
 
 ### Transcript
 
-> your neck maybe like maybe it's the last alpha key it is the only real alpha key
+> for Hannah is that an alpha key around your neck maybe like maybe it's the last alpha key it is the only real alpha key can you make custom cars trucks maybe if

@@ -14,4 +14,4 @@ https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=35&end=48
 
 ### Transcript
 
-> doing early access is pretty simple the game isn't done yet and we really need the help of the community to make it better and take it all the way to love
+> doing early access is pretty simple the game isn't done yet and we really need the help of the community to make it better and take it all the way to love til full release so that's that's

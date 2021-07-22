@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 8th, 2021
 
 ### Transcript
 
-> signalling in the works for the future the consensus here is that there
+> signalling in the works for the future the consensus here is that there probably will be don't know when it

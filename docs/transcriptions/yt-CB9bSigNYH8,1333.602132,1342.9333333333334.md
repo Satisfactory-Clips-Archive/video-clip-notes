@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1333&end=1343
 
 ### Transcript
 
-> well that gigantic rock is pretty
+> well that gigantic rock is pretty gigantic but you can pass by it so it

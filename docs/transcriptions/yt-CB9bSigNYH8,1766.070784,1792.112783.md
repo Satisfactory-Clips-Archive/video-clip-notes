@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1766&end=1793
 
 ### Transcript
 
-> modeling like different texture packs maybe I don't know we're really just focused on release and and and trying to figure out you know how to make this game like the foundation make it work and you know make it fun as it is and then we'll think about making extras and
+> modeling like different texture packs maybe I don't know we're really just focused on release and and and trying to figure out you know how to make this game like the foundation make it work and you know make it fun as it is and then we'll think about making extras and making it bigger and all those kind of

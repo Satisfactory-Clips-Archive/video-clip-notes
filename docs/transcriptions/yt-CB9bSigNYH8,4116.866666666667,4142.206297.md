@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4116&end=4143
 
 ### Transcript
 
-> we are two level designers but there's there's a third who is kind of more like I guess you can call them more of a game designer because he designs stamp stuff like the encounters and puzzles and like the more gameplay oriented stuff in the level itself and Oscar for example does
+> we are two level designers but there's there's a third who is kind of more like I guess you can call them more of a game designer because he designs stamp stuff like the encounters and puzzles and like the more gameplay oriented stuff in the level itself and Oscar for example does stuff like that too I believe but he

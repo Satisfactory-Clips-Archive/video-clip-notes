@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1939&end=1963
 
 ### Transcript
 
-> nodes are you going to run out of the one load fast and have to change nodes often we have like recesses that run out and resources that don't run out so it depends on like which one you use but generally no because it's already too much having to you know people want to
+> nodes are you going to run out of the one load fast and have to change nodes often we have like recesses that run out and resources that don't run out so it depends on like which one you use but generally no because it's already too much having to you know people want to restructure the factory anyways we don't

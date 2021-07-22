@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> third person toggle and/or customization for our character planned the third person toggle is something that you know we kinda have that support we used to have that support we kind of have it in the vehicles right however it actually causes a lot of issues like design issues if you have third person and that will require time and resources to solve and right now we don't feel we want to allocate time to solving third person design issues right
+> bug reports there is there gonna be any third person toggle and/or customization for our character planned the third person toggle is something that you know we kinda have that support we used to have that support we kind of have it in the vehicles right however it actually causes a lot of issues like design issues if you have third person and that will require time and resources to solve and right now we don't feel we want to allocate time to solving third person design issues right now and maybe check the cool ones if

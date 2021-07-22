@@ -14,7 +14,7 @@ https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1975&end=2131
 
 ### Transcript
 
-> micromanage mod which i think is really really neat um this is like for you know when you place something you can't really move it so with this mod you can so if you let me just uh refer to this let me place like a few foundations here right so i'm going to place like one whoops i [ __ ] that up oh it went through that maybe it didn't blow anything uh so yeah like here are a bunch of foundations and what if i'm like oh no i wanted to like move them up like i want to have them on like pillar support like that so you can like use this mod to do that so you like uh let's see if i do this correctly you click on them and you have control and then you can like wait which one is this
+> mean so there's this mod called the micromanage mod which i think is really really neat um this is like for you know when you place something you can't really move it so with this mod you can so if you let me just uh refer to this let me place like a few foundations here right so i'm going to place like one whoops i [ __ ] that up oh it went through that maybe it didn't blow anything uh so yeah like here are a bunch of foundations and what if i'm like oh no i wanted to like move them up like i want to have them on like pillar support like that so you can like use this mod to do that so you like uh let's see if i do this correctly you click on them and you have control and then you can like wait which one is this
 >
 > [Music]
 >
@@ -22,4 +22,4 @@ https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1975&end=2131
 >
 > [Music]
 >
-> and if i'm like no it's still too too low because like now i'm gonna allow like maybe you like that or maybe you want to like move them down even more so you can like do do do do do i want to make it down even more yeah moving down anymore let's do it what if you do this yeah that's where i want it that's perfect all right um very nice i don't know if there's a way to like do uh similar to what a reaction mod does where like you can select an area but maybe that's something that's coming or maybe you can already do that and i just haven't figured it out yet um but so that's pretty much like that's the that's the gist of the micromanagement
+> and if i'm like no it's still too too low because like now i'm gonna allow like maybe you like that or maybe you want to like move them down even more so you can like do do do do do i want to make it down even more yeah moving down anymore let's do it what if you do this yeah that's where i want it that's perfect all right um very nice i don't know if there's a way to like do uh similar to what a reaction mod does where like you can select an area but maybe that's something that's coming or maybe you can already do that and i just haven't figured it out yet um but so that's pretty much like that's the that's the gist of the micromanagement there are more stuff to it but

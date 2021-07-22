@@ -32,4 +32,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5200&end=5235
 
 ### Transcript
 
-> is this a 12 how this is having multiple values okay so let's go crazy with color let's see we want to make this a little bit more yellow there we go or we can make it super yellow that that's maybe the beautiful thing thankfully yellow cuz it's the desert alright warmoth warming up a little bit
+> is this a 12 how this is having multiple values okay so let's go crazy with color let's see we want to make this a little bit more yellow there we go or we can make it super yellow that that's maybe the beautiful thing thankfully yellow cuz it's the desert alright warmoth warming up a little bit yeah weather confirmed cuz of fog sure

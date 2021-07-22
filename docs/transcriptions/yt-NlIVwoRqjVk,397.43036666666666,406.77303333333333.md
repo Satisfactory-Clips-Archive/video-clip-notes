@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 8th, 2020
 
 ### Transcript
 
-> I've bought a copy on epic game store I was wondering it when the the game can't read the game releases on Steam don't
+> I've bought a copy on epic game store I was wondering it when the the game can't read the game releases on Steam don't get a like a free steam key no you do

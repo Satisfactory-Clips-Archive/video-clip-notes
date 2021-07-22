@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=627&end=644
 
 ### Transcript
 
-> yes don't try it try not to anger Simon too much you know you might sneak up on me and scare the crap out of me or I don't know steal my key that'd be a bad
+> yes don't try it try not to anger Simon too much you know you might sneak up on me and scare the crap out of me or I don't know steal my key that'd be a bad thing

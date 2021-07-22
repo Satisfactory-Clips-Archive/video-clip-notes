@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=421&end=428
 
 ### Transcript
 
-> swim well that depends me personally or
+> swim well that depends me personally or in the game because it might be a

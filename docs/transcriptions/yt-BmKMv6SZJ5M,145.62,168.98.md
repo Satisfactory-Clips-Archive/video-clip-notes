@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 8th, 2020
 
 ### Transcript
 
-> the price of the game be on Steam yeah so the price of satisfactory will be the same on Steam as it is on epic so that is 2995 u.s. dollars or $29.99 euro or the relevant changes between different regions okay so cuz we have regional pricing some of the regional pricing may differ between the stores but for the most part
+> bring that out for you guys what will the price of the game be on Steam yeah so the price of satisfactory will be the same on Steam as it is on epic so that is 2995 u.s. dollars or $29.99 euro or the relevant changes between different regions okay so cuz we have regional pricing some of the regional pricing may differ between the stores but for the most part the game should be the same price

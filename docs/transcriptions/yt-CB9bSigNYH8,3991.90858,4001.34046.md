@@ -15,3 +15,5 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3991&end=4002
 ### Transcript
 
 > possible to get chickens in the game alien chickens
+>
+> [Music]

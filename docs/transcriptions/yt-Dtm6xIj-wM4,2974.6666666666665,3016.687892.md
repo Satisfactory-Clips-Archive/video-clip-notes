@@ -18,4 +18,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2974&end=3017
 
 ### Transcript
 
-> besides the starting Aires will there be random spawns in the release i legit don't know if that's gonna be a thing yeah at the moment no no spawns of resources what I assume that's a good like what is the context of yes I mean I guess either yeah maybe either resources have set locations that I can answer they part of it by their part of the environment we built them in that way but like
+> besides the starting Aires will there be random spawns in the release i legit don't know if that's gonna be a thing yeah at the moment no no spawns of resources what I assume that's a good like what is the context of yes I mean I guess either yeah maybe either resources have set locations that I can answer they part of it by their part of the environment we built them in that way but like considering player spawns

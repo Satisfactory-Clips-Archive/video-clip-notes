@@ -14,4 +14,4 @@ https://youtube.com/embed/rATcozDE25c?autoplay=1&start=839&end=849
 
 ### Transcript
 
-> hallucinogenic i'm not sure if you're talking about
+> hallucinogenic i'm not sure if you're talking about in-game or in real life but uh

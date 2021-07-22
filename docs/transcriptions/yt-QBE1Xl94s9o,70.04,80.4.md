@@ -14,4 +14,4 @@ https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=70&end=81
 
 ### Transcript
 
-> quick reminder if you want to report any feedback or any issues that you're having with the game the best way to do so is to go to our QA site I'll drop a
+> quick reminder if you want to report any feedback or any issues that you're having with the game the best way to do so is to go to our QA site I'll drop a link in the description down here

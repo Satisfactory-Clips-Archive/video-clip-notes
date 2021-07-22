@@ -14,4 +14,4 @@ https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=103&end=118
 
 ### Transcript
 
-> THQ Nordic is not a publisher coffee-stained publishing remains to be our publisher I think we can go with THQ Nordic if we wanted to but satisfactory
+> well is THQ Nordic out publisher know THQ Nordic is not a publisher coffee-stained publishing remains to be our publisher I think we can go with THQ Nordic if we wanted to but satisfactory is going to be published with

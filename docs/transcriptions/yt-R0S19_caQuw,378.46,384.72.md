@@ -14,4 +14,4 @@ https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=378&end=385
 
 ### Transcript
 
-> elk writes &quot;Why don't I have a beta key? Colon three.&quot; Well make your contenders
+> elk writes &quot;Why don't I have a beta key? Colon three.&quot; Well make your contenders record 25 you know, and maybe we can talk.

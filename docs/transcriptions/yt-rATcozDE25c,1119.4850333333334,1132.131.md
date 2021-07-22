@@ -16,4 +16,4 @@ https://youtube.com/embed/rATcozDE25c?autoplay=1&start=1119&end=1133
 
 ### Transcript
 
-> there's gonna be a poster it probably should be of snoot or me ensn because snoot's lovable and everyone hates me
+> good will there be a jace poster uh if there's gonna be a poster it probably should be of snoot or me ensn because snoot's lovable and everyone hates me will there be an official peaceful slash

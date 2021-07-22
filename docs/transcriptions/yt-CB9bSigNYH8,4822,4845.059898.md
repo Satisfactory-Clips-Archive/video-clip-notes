@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4822&end=4846
 
 ### Transcript
 
-> this yeah this is unlit mode so lit looks a little different and then we'll be doing like separate lighting and fog for the caves to make them look nicer as well right now they don't really have that too much because I'm reworking the system at this point so this is just so I can see what I'm doing because caves
+> this yeah this is unlit mode so lit looks a little different and then we'll be doing like separate lighting and fog for the caves to make them look nicer as well right now they don't really have that too much because I'm reworking the system at this point so this is just so I can see what I'm doing because caves tend to be dark and I don't want to

@@ -16,4 +16,4 @@ https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=11&end=37
 
 ### Transcript
 
-> so last week we launched update 4 on early access and we're super pleased with the update and you guys really showed up because you broke our concurrent player numbers on both steam and epic so thank you so much for showing up it's really surreal to see like your game be part of like the top most played games on steam uh on that list so so thank you so much
+> so last week we launched update 4 on early access and we're super pleased with the update and you guys really showed up because you broke our concurrent player numbers on both steam and epic so thank you so much for showing up it's really surreal to see like your game be part of like the top most played games on steam uh on that list so so thank you so much for showing up and playing our game

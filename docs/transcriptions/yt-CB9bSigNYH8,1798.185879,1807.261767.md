@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1798&end=1808
 
 ### Transcript
 
-> you show the whole world please if I load the whole world will be sitting
+> you show the whole world please if I load the whole world will be sitting here for like half an hour please no

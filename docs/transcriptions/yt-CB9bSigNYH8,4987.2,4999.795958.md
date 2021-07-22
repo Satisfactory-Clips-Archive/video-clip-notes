@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4987&end=5000
 
 ### Transcript
 
-> look of the factory in satisfactory well that is satisfactory there we go fun done and over with we can move on now
+> look of the factory in satisfactory well that is satisfactory there we go fun done and over with we can move on now how long is the game gonna be for start

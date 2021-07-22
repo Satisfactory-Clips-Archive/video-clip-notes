@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4069&end=4093
 
 ### Transcript
 
-> Earth's so you can walk around it or will be they'll be an end I think of it more as an island that you're on it's not it doesn't go all the way around and there's there's edges as if he can't go past the the designated edge essentially so it's sort of like a very very big
+> Earth's so you can walk around it or will be they'll be an end I think of it more as an island that you're on it's not it doesn't go all the way around and there's there's edges as if he can't go past the the designated edge essentially so it's sort of like a very very big island

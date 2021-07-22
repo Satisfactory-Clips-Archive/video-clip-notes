@@ -16,4 +16,4 @@ https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=0&end=8
 
 ### Transcript
 
-> I wish we were more people observing him
+> I wish we were more people observing him can we shame him can we shame him online

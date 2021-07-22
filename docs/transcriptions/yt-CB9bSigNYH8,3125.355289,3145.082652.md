@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3125&end=3146
 
 ### Transcript
 
-> favorite member of coffee-stained I will not say this I'm not gonna pick favorites no no it's Natalie but I'm biased because anywhere along before I knew coffee stain no no I don't
+> favorite member of coffee-stained I will not say this I'm not gonna pick favorites no no it's Natalie but I'm biased because anywhere along before I knew coffee stain no no I don't I did say that

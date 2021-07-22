@@ -14,4 +14,4 @@ https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=30&end=53
 
 ### Transcript
 
-> video is gonna be all about the patch that's coming out on XP rental today it's gonna contain some goodies and some bug fixes but before you run off and try it out there's some very important information regarding save files so make sure to stick around for the whole duration of the video to learn more about that I also urge you to backup your saves your save files are located
+> video is gonna be all about the patch that's coming out on XP rental today it's gonna contain some goodies and some bug fixes but before you run off and try it out there's some very important information regarding save files so make sure to stick around for the whole duration of the video to learn more about that I also urge you to backup your saves your save files are located in this directory you can also find it

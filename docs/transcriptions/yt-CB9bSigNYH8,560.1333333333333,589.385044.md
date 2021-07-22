@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=560&end=590
 
 ### Transcript
 
-> make the foliage and the models in program wise not entirely sure I think we use Maya for one of our tools and we probably use I was it called there was a program that could create trees of some
+> make the foliage and the models in program wise not entirely sure I think we use Maya for one of our tools and we probably use I was it called there was a program that could create trees of some kind that was specifically very good at

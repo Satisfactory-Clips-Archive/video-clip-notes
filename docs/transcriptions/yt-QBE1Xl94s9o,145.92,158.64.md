@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 20th, 2
 
 ### Transcript
 
-> with people from epic on the Steam version cross-play is one of the things where we don't know for sure 100% if we can do it or not however this is something that we
+> with people from epic on the Steam version cross-play is one of the things where we don't know for sure 100% if we can do it or not however this is something that we definitely want and it's something that

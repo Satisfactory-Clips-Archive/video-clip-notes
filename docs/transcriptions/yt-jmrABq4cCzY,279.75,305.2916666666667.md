@@ -18,4 +18,4 @@ https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=279&end=306
 
 ### Transcript
 
-> any thoughts on the balancing of things and or if you feel like there are any specific recipes that you want to see in the game make sure to upload that on the keyway site or even make tickets for it the the qa site isn't just for you know bug issues and whatnot that's also for your feedback so if you feel like some alternate recipe is too strong or too weak or you know if you want to change something with some other recipe don't be discouraged to post that kind of
+> any thoughts on the balancing of things and or if you feel like there are any specific recipes that you want to see in the game make sure to upload that on the keyway site or even make tickets for it the the qa site isn't just for you know bug issues and whatnot that's also for your feedback so if you feel like some alternate recipe is too strong or too weak or you know if you want to change something with some other recipe don't be discouraged to post that kind of stuff as well on the keyway site so

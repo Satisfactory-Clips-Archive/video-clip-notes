@@ -16,4 +16,4 @@ https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=237&end=255
 
 ### Transcript
 
-> frequently asked questions about steam so I hope that ties your a little more more information will come later will we also want to like give more information about what will be in the update it's not just steam there's gonna be some new
+> that okay so that's most of the frequently asked questions about steam so I hope that ties your a little more more information will come later will we also want to like give more information about what will be in the update it's not just steam there's gonna be some new stuff in there as well so hopefully we

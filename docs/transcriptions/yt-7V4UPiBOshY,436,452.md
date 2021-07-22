@@ -14,4 +14,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=436&end=452
 
 ### Transcript
 
-> look what epic did with other games I loved Paragon and they just cancelled it said it's satisfactory is still our game so we can do whatever we want with it epic can't like cancel our game they can't do anything to our game it's ours
+> look what epic did with other games I loved Paragon and they just cancelled it said it's satisfactory is still our game so we can do whatever we want with it epic can't like cancel our game they can't do anything to our game it's ours we're just selling it over on the epic
