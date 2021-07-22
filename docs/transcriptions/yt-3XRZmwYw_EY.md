@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=3XRZmwYw_EY
 >
 > [Laughter]
 >
-> sandwiches [ __ ] myself wait how did you hear that very sensitive microphone
+> sandwiches myself wait how did you hear that very sensitive microphone

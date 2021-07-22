@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=_psXx_dfadY
 
 ### Transcript
 
-> global grid uh would be awesome i i wish we had that go to the qa side enough about that [ __ ]
+> global grid uh would be awesome i i wish we had that go to the qa side enough about that

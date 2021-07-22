@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=SwjERGgPOgU
 
 ### Transcript
 
-> even pre-recorded pretty please she's too busy we might get her on sometime but i'm not going to be like can we get pre-recorded message dude can you make a soundboard out of hannah yeah i had a soundboard that's all we need to make that would be [ __ ] awesome yeah oh my god i actually have to do that
+> even pre-recorded pretty please she's too busy we might get her on sometime but i'm not going to be like can we get pre-recorded message dude can you make a soundboard out of hannah yeah i had a soundboard that's all we need to make that would be awesome yeah oh my god i actually have to do that

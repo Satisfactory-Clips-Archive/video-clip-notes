@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=YXKvodUO14Q
 
 ### Transcript
 
-> yeah by the way if you see a site out there saying that they've got like dedicated servers available that you can like pay to rent them they're like probably a scam or some [ __ ] step way i cause there there isn't a dedicated server version of the game yeah so be wary of that please folks there's like i've seen a couple of people that made a they claim to have made like headless versions of the game which is i guess like with mods it's somewhat possible to do that but it wouldn't be proper headless because a lot of
+> yeah by the way if you see a site out there saying that they've got like dedicated servers available that you can like pay to rent them they're like probably a scam or some step way i cause there there isn't a dedicated server version of the game yeah so be wary of that please folks there's like i've seen a couple of people that made a they claim to have made like headless versions of the game which is i guess like with mods it's somewhat possible to do that but it wouldn't be proper headless because a lot of
 >
 > [Music]
 >
