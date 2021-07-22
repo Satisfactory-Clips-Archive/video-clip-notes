@@ -253,7 +253,7 @@ date: Last Modified
 * [Q&A: Any chance of a holster keybind so we can lower our hand slot when not in use?](../../transcriptions/yt-NlIVwoRqjVk,1019.9856333333333,1034.8338.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1019&end=1035](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1019&end=1035)
 
 ## April 10th, 2020 Video
-* [Jace Talk: Multiple hotbars](../../transcriptions/yt-CG-63B4g11U,37.333333333333336,94.737738.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=37&end=95](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=37&end=95)
+* [Jace Talk: Multiple hotbars](../../transcriptions/yt-CG-63B4g11U,37.333333333333336,94.737738.md) [https://youtube.com/clip/Ugyjrzj-yY6XHTxEglJ4AaABCQ](https://youtube.com/clip/Ugyjrzj-yY6XHTxEglJ4AaABCQ)
 
 ## March 24th, 2020 Livestream
 * [Q&A: Can we turn off ADA notifications?](../../transcriptions/yt-w2S15UcuaUs.md) [https://www.youtube.com/watch?v=w2S15UcuaUs](https://www.youtube.com/watch?v=w2S15UcuaUs)

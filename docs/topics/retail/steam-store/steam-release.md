@@ -53,7 +53,7 @@ date: Last Modified
 * [Q&A: If I bought the game on Epic will I get a Steam key when it releases?](../../../transcriptions/yt-NlIVwoRqjVk,397.43036666666666,406.77303333333333.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=397&end=407](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=397&end=407)
 
 ## April 10th, 2020 Video
-* [Q&A: Will the Train Station redesign be in the Steam Release?](../../../transcriptions/yt-CG-63B4g11U,391.581169,426.157201.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=391&end=427](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=391&end=427)
+* [Q&A: Will the Train Station redesign be in the Steam Release?](../../../transcriptions/yt-CG-63B4g11U,391.581169,426.157201.md) [https://youtube.com/clip/UgwjLuVIdALkd8YloXp4AaABCQ](https://youtube.com/clip/UgwjLuVIdALkd8YloXp4AaABCQ)
 
 ## April 2nd, 2020 Q&A
 * [Jace Talk: Steam Release](../../../transcriptions/yt-BmKMv6SZJ5M,79.06,122.12.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=79&end=123](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=79&end=123)

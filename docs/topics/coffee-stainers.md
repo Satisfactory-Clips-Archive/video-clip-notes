@@ -199,8 +199,8 @@ date: Last Modified
 * [Q&A: Please tell us a story about your biggest night out together?](../transcriptions/yt-NlIVwoRqjVk,677.4434333333334,733.1324.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=677&end=734](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=677&end=734)
 
 ## April 10th, 2020 Video
-* [Jace Talk: The Art Team is not the bottleneck for new features](../transcriptions/yt-CG-63B4g11U,310.635063,339.523337.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=310&end=340](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=310&end=340)
-* [Torsten & Jace Talk: Showing off concept art](../transcriptions/yt-CG-63B4g11U,339.523337,391.581169.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=339&end=392](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=339&end=392)
+* [Jace Talk: The Art Team is not the bottleneck for new features](../transcriptions/yt-CG-63B4g11U,310.635063,339.523337.md) [https://youtube.com/clip/UgwsDNfiElxA9pbwjJx4AaABCQ](https://youtube.com/clip/UgwsDNfiElxA9pbwjJx4AaABCQ)
+* [Torsten & Jace Talk: Showing off concept art](../transcriptions/yt-CG-63B4g11U,339.523337,391.581169.md) [https://youtube.com/clip/Ugz9mylk5Z6ZK5GFI7V4AaABCQ](https://youtube.com/clip/Ugz9mylk5Z6ZK5GFI7V4AaABCQ)
 
 ## April 2nd, 2020 Q&A
 * [Jace Talk: Impact of global pandemic](../transcriptions/yt-BmKMv6SZJ5M,24.68,79.06.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=24&end=80](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=24&end=80)

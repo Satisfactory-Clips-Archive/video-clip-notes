@@ -21,3 +21,11 @@ date: Last Modified
 * Q&A: When you're providing 2D designs from Concept to Modellers, do you do full technical drawings? [https://www.youtube.com/watch?v=E7ye5Lf4d0U](https://www.youtube.com/watch?v=E7ye5Lf4d0U)
 * [Q&A: We've seen a lot of Concept Art for Buildings, but does Torsten do any for the World?](../transcriptions/yt-mNKnQFH_0vQ.md) [https://www.youtube.com/watch?v=mNKnQFH_0vQ](https://www.youtube.com/watch?v=mNKnQFH_0vQ)
 * Q&A: What's the coolest Concept Art that Torsten has made that's been thrown out? [https://www.youtube.com/watch?v=kI5onSQdJLs](https://www.youtube.com/watch?v=kI5onSQdJLs)
+
+## April 10th, 2020 Video
+* [Torsten & Gunst Talk: Train Station redesign concept art](../transcriptions/yt-CG-63B4g11U,232.364692,310.635063.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=232&end=311](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=232&end=311)
+* [Jace Talk: The Art Team is not the bottleneck for new features](../transcriptions/yt-CG-63B4g11U,310.635063,339.523337.md) [https://youtube.com/clip/UgwsDNfiElxA9pbwjJx4AaABCQ](https://youtube.com/clip/UgwsDNfiElxA9pbwjJx4AaABCQ)
+* [Torsten & Jace Talk: Showing off concept art](../transcriptions/yt-CG-63B4g11U,339.523337,391.581169.md) [https://youtube.com/clip/Ugz9mylk5Z6ZK5GFI7V4AaABCQ](https://youtube.com/clip/Ugz9mylk5Z6ZK5GFI7V4AaABCQ)
+* [Q&A: Will the Train Station redesign be in the Steam Release?](../transcriptions/yt-CG-63B4g11U,391.581169,426.157201.md) [https://youtube.com/clip/UgwjLuVIdALkd8YloXp4AaABCQ](https://youtube.com/clip/UgwjLuVIdALkd8YloXp4AaABCQ)
+* [Torsten & Jace Talk: New M.A.M. Concept Art](../transcriptions/yt-CG-63B4g11U,426.157201,590.022878.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=426&end=591](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=426&end=591)
+* [Torsten & Jace Talk: FICSIT Equipment polish](../transcriptions/yt-CG-63B4g11U,611.642462,724.268522.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=611&end=725](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=611&end=725)

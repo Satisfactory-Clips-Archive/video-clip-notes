@@ -125,7 +125,7 @@ date: Last Modified
 
 ## April 10th, 2020 Video
 * [Torsten & Gunst Talk: Train Station redesign concept art](../../../transcriptions/yt-CG-63B4g11U,232.364692,310.635063.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=232&end=311](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=232&end=311)
-* [Q&A: Will the Train Station redesign be in the Steam Release?](../../../transcriptions/yt-CG-63B4g11U,391.581169,426.157201.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=391&end=427](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=391&end=427)
+* [Q&A: Will the Train Station redesign be in the Steam Release?](../../../transcriptions/yt-CG-63B4g11U,391.581169,426.157201.md) [https://youtube.com/clip/UgwjLuVIdALkd8YloXp4AaABCQ](https://youtube.com/clip/UgwjLuVIdALkd8YloXp4AaABCQ)
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: What the community would like to see in Update 3?](../../../transcriptions/yt-d_FZQ5KTWA0.md) [https://www.youtube.com/watch?v=d_FZQ5KTWA0](https://www.youtube.com/watch?v=d_FZQ5KTWA0)
