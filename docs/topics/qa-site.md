@@ -88,7 +88,7 @@ date: Last Modified
 * [Q&A: Do you guys have stuff that you wanna add but not sure about putting it on the QA site?](../transcriptions/yt-1YwuzwU17kI.md) [https://www.youtube.com/watch?v=1YwuzwU17kI](https://www.youtube.com/watch?v=1YwuzwU17kI)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Verify your game files before checking the QA site [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1386&end=1445](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1386&end=1445)
+* [Snutt Talk: Verify your game files before checking the QA site](../transcriptions/yt-cF3QleeEiJo,1386.6346418457936,1444.599012.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1386&end=1445](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1386&end=1445)
 
 ## March 30th, 2021 Livestream
 * [Snutt Talk: The QA Site](../transcriptions/yt-whzzgnN5izE.md) [https://www.youtube.com/watch?v=whzzgnN5izE](https://www.youtube.com/watch?v=whzzgnN5izE)

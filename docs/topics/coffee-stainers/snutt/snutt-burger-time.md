@@ -24,4 +24,4 @@ date: Last Modified
 * [Q&A: How's the burger?](../../../transcriptions/yt-5VNbStRGin8.md) [https://www.youtube.com/watch?v=5VNbStRGin8](https://www.youtube.com/watch?v=5VNbStRGin8)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Snutt hasn't had time for lunch [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1505&end=1559](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1505&end=1559)
+* [Snutt Talk: Snutt hasn't had time for lunch](../../../transcriptions/yt-cF3QleeEiJo,1505.837998,1558.322977.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1505&end=1559](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1505&end=1559)

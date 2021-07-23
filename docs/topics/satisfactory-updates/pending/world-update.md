@@ -15,7 +15,7 @@ date: Last Modified
 * [Q&A: What about river physics, textures- any updates on that any time soon?](../../../transcriptions/yt-ZPyYBY3IW00.md) [https://www.youtube.com/watch?v=ZPyYBY3IW00](https://www.youtube.com/watch?v=ZPyYBY3IW00)
 
 ## June 18th, 2021 Livestream
-* Jace Talk: World Update [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435)
+* [Jace Talk: World Update](../../../transcriptions/yt-slNYE26evgc,352.5522,434.4673666666667.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435)
 
 ## June 15th, 2021 Livestream
 * [Q&A: Will we get notified in advance of Map changes so we can repair our builds?](../../../transcriptions/yt-QHQ60VKYtS4.md) [https://www.youtube.com/watch?v=QHQ60VKYtS4](https://www.youtube.com/watch?v=QHQ60VKYtS4)

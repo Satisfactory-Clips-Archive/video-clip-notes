@@ -19,7 +19,7 @@ date: Last Modified
 * Q&A: Are you going to expand the playable area on the Map? [https://www.youtube.com/watch?v=gy1FELPzm2w](https://www.youtube.com/watch?v=gy1FELPzm2w)
 
 ## June 18th, 2021 Livestream
-* Jace Talk: World Update [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435)
+* [Jace Talk: World Update](../../transcriptions/yt-slNYE26evgc,352.5522,434.4673666666667.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435)
 
 ## June 15th, 2021 Livestream
 * [Q&A: More Biomes coming to play?](../../transcriptions/yt-KrltUW332Rg.md) [https://www.youtube.com/watch?v=KrltUW332Rg](https://www.youtube.com/watch?v=KrltUW332Rg)

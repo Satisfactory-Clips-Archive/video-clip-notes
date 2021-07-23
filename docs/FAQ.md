@@ -6,6 +6,15 @@ date: Last Modified
 ### [Q&A: Does Satisfactory have Official Mod Support?](./transcriptions/yt-Z2WggHmVHGI,39.1391,95.22846666666666.md) [https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ](https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ)
 
 <details>
+
+<summary>A transcript is available</summary>
+
+> vamanos does satisfactory have official mod support so satisfactory currently does not have official mod support but we do intend on doing that uh you know adding it into the game at some point in the future we don't really know when that's going to be or what that's going to look like yet at this stage so uh you know once we do know i'll you know make another video in the future and let you all know about that but at this stage we don't really know however there is a thriving unofficial modding community out there so um if you're interested in playing satisfactory with mods i'm going to leave some links in the description down below to the fixit.app website which is a website that has like all the mods on it it also has links to the satisfactory mod manager which is a tool to install and play satisfactory with mods super super easy to use that thing's like voodoo magic it's amazing and then also i'm gonna leave another link down there to the unofficial modding community discord a lot of people there are super active there as well so if you want to start playing with mods or have questions you can go there and ask them if you want to get into modding as well i'm sure you can go and ask there and they can point you in the right direction as well are you okay with people modding
+
+
+</details>
+
+<details>
 <summary>This question may have been asked previously at least 14 other times, as recently as June 2021 and as early as June 2018.</summary>
 
 * [June 29th, 2021 Livestream Q&A: Will there be Mod support?](./transcriptions/yt-6t4_ersHMTA.md) [https://www.youtube.com/watch?v=6t4_ersHMTA](https://www.youtube.com/watch?v=6t4_ersHMTA)
@@ -69,10 +78,10 @@ date: Last Modified
 <summary>This question may have been asked previously at least 8 other times, as recently as July 2021 and as early as February 2021.</summary>
 
 * [July 13th, 2021 Livestream Q&A: When Update 5?](./transcriptions/yt-n9RVKfDqqag.md) [https://www.youtube.com/watch?v=n9RVKfDqqag](https://www.youtube.com/watch?v=n9RVKfDqqag)
-* June 18th, 2021 Livestream Q&A: When is Update 5 coming? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132)
+* [June 18th, 2021 Livestream Q&A: When is Update 5 coming?](./transcriptions/yt-slNYE26evgc,83.45003333333334,131.86506666666668.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132)
 * [May 11th, 2021 Livestream Q&A: What are the next Release planned dates?](./transcriptions/yt-wy6pur6OiWQ.md) [https://www.youtube.com/watch?v=wy6pur6OiWQ](https://www.youtube.com/watch?v=wy6pur6OiWQ)
 * [April 20th, 2021 Livestream Q&A: Any timeframe for Update 5?](./transcriptions/yt-3vGN4jCBhdY.md) [https://www.youtube.com/watch?v=3vGN4jCBhdY](https://www.youtube.com/watch?v=3vGN4jCBhdY)
-* April 13th, 2021 Livestream Q&A: When is Update 5? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6587&end=6611](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6587&end=6611)
+* [April 13th, 2021 Livestream Q&A: When is Update 5?](./transcriptions/yt-cF3QleeEiJo,6587.255816,6610.940808051914.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6587&end=6611](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6587&end=6611)
 * March 16th, 2021 Livestream Q&A: Will Update 5 come this year? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8653&end=8716](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8653&end=8716)
 * [March 9th, 2021 Livestream Q&A: When will Update 5 be?](./transcriptions/yt-D2CIkNehRNw.md) [https://www.youtube.com/watch?v=D2CIkNehRNw](https://www.youtube.com/watch?v=D2CIkNehRNw)
 * [February 9th, 2021 Livestream Q&A: When is Update 5?](./transcriptions/yt-n4H073Xwp-8.md) [https://www.youtube.com/watch?v=n4H073Xwp-8](https://www.youtube.com/watch?v=n4H073Xwp-8)
@@ -261,8 +270,8 @@ date: Last Modified
 * [May 11th, 2021 Livestream Q&A: Update on Dedicated Servers please?](./transcriptions/yt-98O8FhNdxAI.md) [https://www.youtube.com/watch?v=98O8FhNdxAI](https://www.youtube.com/watch?v=98O8FhNdxAI)
 * [April 27th, 2021 Livestream Q&A: Any update on Dedicated Servers?](./transcriptions/yt-JmrA7qHuTNo.md) [https://www.youtube.com/watch?v=JmrA7qHuTNo](https://www.youtube.com/watch?v=JmrA7qHuTNo)
 * [April 20th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt--y2km1ZuOs4.md) [https://www.youtube.com/watch?v=-y2km1ZuOs4](https://www.youtube.com/watch?v=-y2km1ZuOs4)
-* April 13th, 2021 Livestream Q&A: Dedicated Servers? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708)
-* April 13th, 2021 Livestream Q&A: Any info on Dedicated Servers? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951)
+* [April 13th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-cF3QleeEiJo,1558.322977,1707.162654.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708)
+* [April 13th, 2021 Livestream Q&A: Any info on Dedicated Servers?](./transcriptions/yt-cF3QleeEiJo,6901.607817790491,6950.851175.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951)
 * [April 6th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-nUtF3e6i_lU.md) [https://www.youtube.com/watch?v=nUtF3e6i_lU](https://www.youtube.com/watch?v=nUtF3e6i_lU)
 * [March 30th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt-dC-JRa2E6G0.md) [https://www.youtube.com/watch?v=dC-JRa2E6G0](https://www.youtube.com/watch?v=dC-JRa2E6G0)
 * [March 23rd, 2021 Livestream Q&A: How's the status of Dedicated Servers?](./transcriptions/yt-BPgHpDjoIwc.md) [https://www.youtube.com/watch?v=BPgHpDjoIwc](https://www.youtube.com/watch?v=BPgHpDjoIwc)
@@ -690,7 +699,7 @@ date: Last Modified
 <details>
 <summary>This question may have been asked previously at least 16 other times, as recently as June 2021 and as early as June 2020.</summary>
 
-* June 18th, 2021 Livestream Q&A: Will we have Signs? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292)
+* [June 18th, 2021 Livestream Q&A: Will we have Signs?](./transcriptions/yt-slNYE26evgc,248.61503333333334,291.32436666666666.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292)
 * [June 15th, 2021 Livestream Q&A: Are there any plans to put Signs in the game?](./transcriptions/yt-7Iz77o4a4Mk.md) [https://www.youtube.com/watch?v=7Iz77o4a4Mk](https://www.youtube.com/watch?v=7Iz77o4a4Mk)
 * [May 18th, 2021 Livestream Q&A: Are you thinking of adding some type of Signs or screens?](./transcriptions/yt-N8sqIFGjwyk.md) [https://www.youtube.com/watch?v=N8sqIFGjwyk](https://www.youtube.com/watch?v=N8sqIFGjwyk)
 * [April 27th, 2021 Livestream Q&A: Can we get signs soon?](./transcriptions/yt-wUy8zszYfdQ.md) [https://www.youtube.com/watch?v=wUy8zszYfdQ](https://www.youtube.com/watch?v=wUy8zszYfdQ)
@@ -1013,7 +1022,7 @@ date: Last Modified
 <summary>This question may have been asked previously at least 10 other times, as recently as April 2021 and as early as August 2018.</summary>
 
 * [April 20th, 2021 Livestream Q&A: Will achievements be added?](./transcriptions/yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
-* April 13th, 2021 Livestream Q&A: Anything about achievements? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680)
+* [April 13th, 2021 Livestream Q&A: Anything about achievements?](./transcriptions/yt-cF3QleeEiJo,6652.069241,6679.928238.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680)
 * [February 16th, 2021 Livestream Q&A: Will Achievements ever be created?](./transcriptions/yt-scxr_vl9Pzk.md) [https://www.youtube.com/watch?v=scxr_vl9Pzk](https://www.youtube.com/watch?v=scxr_vl9Pzk)
 * [November 10th, 2020 Livestream Q&A: Achievements system?](./transcriptions/yt-bthe_Dhs6uo.md) [https://www.youtube.com/watch?v=bthe_Dhs6uo](https://www.youtube.com/watch?v=bthe_Dhs6uo)
 * [November 3rd, 2020 Livestream Q&A: Are Steam Achievements going to be added in the future?](./transcriptions/yt-Gi08SVnHyLU.md) [https://www.youtube.com/watch?v=Gi08SVnHyLU](https://www.youtube.com/watch?v=Gi08SVnHyLU)
@@ -1039,7 +1048,7 @@ date: Last Modified
 <summary>This question may have been asked previously at least 19 other times, as recently as June 2021 and as early as February 2019.</summary>
 
 * [June 29th, 2021 Livestream Q&A: Are the team thinking to release 1.0 in 2022?](./transcriptions/yt-EfqxH78tmFc.md) [https://www.youtube.com/watch?v=EfqxH78tmFc](https://www.youtube.com/watch?v=EfqxH78tmFc)
-* April 13th, 2021 Livestream Q&A: What about 1.0? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636)
+* [April 13th, 2021 Livestream Q&A: What about 1.0?](./transcriptions/yt-cF3QleeEiJo,6610.940808051914,6635.114829.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636)
 * [March 30th, 2021 Livestream Q&A: When will the game actually release?](./transcriptions/yt-KvCsUb7f0KY.md) [https://www.youtube.com/watch?v=KvCsUb7f0KY](https://www.youtube.com/watch?v=KvCsUb7f0KY)
 * [March 23rd, 2021 Livestream Q&A: Do you plan to put Update 4 out earlier than April 13th?](./transcriptions/yt-aclI7pbRT3I.md) [https://www.youtube.com/watch?v=aclI7pbRT3I](https://www.youtube.com/watch?v=aclI7pbRT3I)
 * [March 23rd, 2021 Livestream Q&A: Any ETA on Launch?](./transcriptions/yt-aP6v6JbuHTk.md) [https://www.youtube.com/watch?v=aP6v6JbuHTk](https://www.youtube.com/watch?v=aP6v6JbuHTk)
@@ -1814,7 +1823,7 @@ date: Last Modified
 * [May 18th, 2021 Livestream Q&A: Are you considering a Train rework?](./transcriptions/yt-68MP936ZdfQ.md) [https://www.youtube.com/watch?v=68MP936ZdfQ](https://www.youtube.com/watch?v=68MP936ZdfQ)
 * [May 4th, 2021 Livestream Q&A: Will Trains get an Update?](./transcriptions/yt-hXmvgEpyDdY.md) [https://www.youtube.com/watch?v=hXmvgEpyDdY](https://www.youtube.com/watch?v=hXmvgEpyDdY)
 * [April 20th, 2021 Livestream Q&A: Train remake?](./transcriptions/yt-4iPV87r2O7A.md) [https://www.youtube.com/watch?v=4iPV87r2O7A](https://www.youtube.com/watch?v=4iPV87r2O7A)
-* April 13th, 2021 Livestream Q&A: Train Collision? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699)
+* [April 13th, 2021 Livestream Q&A: Train Collision?](./transcriptions/yt-cF3QleeEiJo,6681.040890790472,6698.939684.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699)
 * [April 6th, 2021 Livestream Q&A: Train Collision?](./transcriptions/yt-ECH-dzoj7ro.md) [https://www.youtube.com/watch?v=ECH-dzoj7ro](https://www.youtube.com/watch?v=ECH-dzoj7ro)
 * [March 23rd, 2021 Livestream Q&A: Will Trains get collision in the future?](./transcriptions/yt-e8ctn7TDrq0.md) [https://www.youtube.com/watch?v=e8ctn7TDrq0](https://www.youtube.com/watch?v=e8ctn7TDrq0)
 * March 23rd, 2021 Livestream Q&A: Will Trains have some sort of signalling in the future? [https://www.youtube.com/watch?v=Ir3GVM1fDU0](https://www.youtube.com/watch?v=Ir3GVM1fDU0)
@@ -2839,7 +2848,20 @@ date: Last Modified
 </details>
 
 ## [April 13th, 2021 Livestream](./2021-04-13.md)
-### Q&A: If I play it on Experimental, will I still be able to load it if I switch to Early Access? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387)
+### [Q&A: If I play it on Experimental, will I still be able to load it if I switch to Early Access?](./transcriptions/yt-cF3QleeEiJo,1303.766903,1386.648083.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> people have been wondering if i play it on experimental and i have a save there will i still be loaded if i switch back to early access and yes you will you will the saves will will generally the saves will always load if you're playing on a newer or the same version of the game and you can see that if you check in like the left corner in the game there's like a version number there or a change list number rather cl if you will
+>
+> [Music]
+>
+> where uh it will tell you what version you're on and if you're playing on a similar version or a higher number then you can always load older saves it's the other way around where it's not possible because the game can't know in advance you know what's gonna be in the save structure and stuff like that sometimes we even change the save structure so and uh yeah so it's it's it's possible to load old saves but you can't load like newer version save files so your save files will load in early access if you played on experimental um it's possible that you might need to like move the save files around on disk it depends a little bit of how you've been playing uh the game if you've been on epic or if on steam and if you're playing offline and stuff like that um so if your save file doesn't show up in the list uh it's probably still in the uh save folder somewhere so just like move it around and it should be fine another thing that i have to point out
+
+
+</details>
 
 <details>
 <summary>This question may have been asked previously at least 6 other times, as recently as March 2021 and as early as September 2019.</summary>

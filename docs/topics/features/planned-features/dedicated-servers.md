@@ -22,7 +22,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Third-party Dedicated Servers are currently probably a scam](../../../transcriptions/yt-YXKvodUO14Q.md) [https://www.youtube.com/watch?v=YXKvodUO14Q](https://www.youtube.com/watch?v=YXKvodUO14Q)
 
 ## June 18th, 2021 Livestream
-* Jace Talk: Dedicated Servers [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493)
+* [Jace Talk: Dedicated Servers](../../../transcriptions/yt-slNYE26evgc,434.4673666666667,492.492.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493)
 
 ## June 15th, 2021 Livestream
 * [State of Dev: Dedicated Servers](../../../transcriptions/yt-S0OIEMuz-WU.md) [https://www.youtube.com/watch?v=S0OIEMuz-WU](https://www.youtube.com/watch?v=S0OIEMuz-WU)
@@ -64,8 +64,8 @@ date: Last Modified
 * [Q&A: When Dedicated Servers are available, will we be able to load existing saves?](../../../transcriptions/yt-_IXLS7G2Ef0.md) [https://www.youtube.com/watch?v=_IXLS7G2Ef0](https://www.youtube.com/watch?v=_IXLS7G2Ef0)
 
 ## April 13th, 2021 Livestream
-* Q&A: Dedicated Servers? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708)
-* Q&A: Any info on Dedicated Servers? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951)
+* [Q&A: Dedicated Servers?](../../../transcriptions/yt-cF3QleeEiJo,1558.322977,1707.162654.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1558&end=1708)
+* [Q&A: Any info on Dedicated Servers?](../../../transcriptions/yt-cF3QleeEiJo,6901.607817790491,6950.851175.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6901&end=6951)
 
 ## April 6th, 2021 Livestream
 * [Q&A: Dedicated Servers?](../../../transcriptions/yt-nUtF3e6i_lU.md) [https://www.youtube.com/watch?v=nUtF3e6i_lU](https://www.youtube.com/watch?v=nUtF3e6i_lU)

@@ -37,7 +37,7 @@ date: Last Modified
 * [Q&A: Any new aliens coming?](../../transcriptions/yt-d5A3AQG5YoE.md) [https://www.youtube.com/watch?v=d5A3AQG5YoE](https://www.youtube.com/watch?v=d5A3AQG5YoE)
 
 ## April 13th, 2021 Livestream
-* Q&A: Hover Pack, why not Tier 6? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968)
+* [Q&A: Hover Pack, why not Tier 6?](../../transcriptions/yt-cF3QleeEiJo,6956.145611,6967.729984.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968)
 
 ## April 6th, 2021 Livestream
 * [Snutt Talk: Game Director Mark will be on later](../../transcriptions/yt-4a6K3mz85kk.md) [https://www.youtube.com/watch?v=4a6K3mz85kk](https://www.youtube.com/watch?v=4a6K3mz85kk)

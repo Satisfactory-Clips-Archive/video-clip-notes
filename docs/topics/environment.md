@@ -48,7 +48,7 @@ date: Last Modified
 * [Q&A: Are there hidden puzzles in the game?](../transcriptions/yt-m7zB1crQc00.md) [https://www.youtube.com/watch?v=m7zB1crQc00](https://www.youtube.com/watch?v=m7zB1crQc00)
 
 ## April 13th, 2021 Livestream
-* Hannah Talk: Floating rocks [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157)
+* [Hannah Talk: Floating rocks](../transcriptions/yt-cF3QleeEiJo,2105.731039,2156.762994.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157)
 
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Day/Night cycle changes](../transcriptions/yt-nDsZJUKHOUI.md) [https://www.youtube.com/watch?v=nDsZJUKHOUI](https://www.youtube.com/watch?v=nDsZJUKHOUI)

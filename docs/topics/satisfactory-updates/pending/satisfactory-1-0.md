@@ -63,7 +63,7 @@ date: Last Modified
 * Q&A: How many Updates before full release? [https://www.youtube.com/watch?v=7XSZ-08BaXc](https://www.youtube.com/watch?v=7XSZ-08BaXc)
 
 ## April 13th, 2021 Livestream
-* Q&A: What about 1.0? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636)
+* [Q&A: What about 1.0?](../../../transcriptions/yt-cF3QleeEiJo,6610.940808051914,6635.114829.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636)
 
 ## March 30th, 2021 Livestream
 * [Q&A: When will the game actually release?](../../../transcriptions/yt-KvCsUb7f0KY.md) [https://www.youtube.com/watch?v=KvCsUb7f0KY](https://www.youtube.com/watch?v=KvCsUb7f0KY)

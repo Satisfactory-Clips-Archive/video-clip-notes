@@ -15,7 +15,7 @@ date: Last Modified
 * [Q&A: What about letting people use Space Elevator to send up Fuel Rods instead of sinking them?](../../../transcriptions/yt-R83_D7zSZYo.md) [https://www.youtube.com/watch?v=R83_D7zSZYo](https://www.youtube.com/watch?v=R83_D7zSZYo)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Are you excited for your Nuclear stuff to break? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6214&end=6286](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6214&end=6286)
+* [Snutt Talk: Are you excited for your Nuclear stuff to break?](../../../transcriptions/yt-cF3QleeEiJo,6214.354499,6285.17544.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6214&end=6286](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6214&end=6286)
 
 ## March 23rd, 2021 Livestream
 * [Snutt Talk: Update 4 Plutonium Rebalancing](../../../transcriptions/yt-kUZOFrRXmzw.md) [https://www.youtube.com/watch?v=kUZOFrRXmzw](https://www.youtube.com/watch?v=kUZOFrRXmzw)

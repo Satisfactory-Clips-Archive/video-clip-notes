@@ -103,8 +103,8 @@ date: Last Modified
 * [Snutt Talk: I did trim my beard](../../transcriptions/yt-mLeFpMjkIBw.md) [https://www.youtube.com/watch?v=mLeFpMjkIBw](https://www.youtube.com/watch?v=mLeFpMjkIBw)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Snutt's Beard & Beanie [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=775&end=828](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=775&end=828)
-* Q&A: What're your plans for dinner? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1739&end=1808](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1739&end=1808)
+* [Snutt Talk: Snutt's Beard & Beanie](../../transcriptions/yt-cF3QleeEiJo,775.109813,827.4339818257979.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=775&end=828](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=775&end=828)
+* [Q&A: What're your plans for dinner?](../../transcriptions/yt-cF3QleeEiJo,1739.877184,1807.6684721219358.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1739&end=1808](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1739&end=1808)
 
 ## April 6th, 2021 Livestream
 * [Q&A: What kind of things do you learn from the gameplay stats that you gather?](../../transcriptions/yt-Xp4cDuSRMMs.md) [https://www.youtube.com/watch?v=Xp4cDuSRMMs](https://www.youtube.com/watch?v=Xp4cDuSRMMs)

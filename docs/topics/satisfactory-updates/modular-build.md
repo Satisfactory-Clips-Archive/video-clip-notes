@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Modular Build
 
 ## April 13th, 2021 Livestream
-* State of Dev: The Modular Build [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1074&end=1123](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1074&end=1123)
+* [State of Dev: The Modular Build](../../transcriptions/yt-cF3QleeEiJo,1074.4676067309116,1122.807214.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1074&end=1123](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1074&end=1123)
 
 ## March 30th, 2021 Livestream
 * [Q&A: Modular Build will come out when?](../../transcriptions/yt-cPFaiUJc9LE.md) [https://www.youtube.com/watch?v=cPFaiUJc9LE](https://www.youtube.com/watch?v=cPFaiUJc9LE)

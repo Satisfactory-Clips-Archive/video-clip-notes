@@ -57,7 +57,7 @@ date: Last Modified
 * [Q&A: Will you add structual integrity?](../../../transcriptions/yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Cheatcrete [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6459&end=6560](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6459&end=6560)
+* [Snutt Talk: Cheatcrete](../../../transcriptions/yt-cF3QleeEiJo,6459.607296100866,6559.72657.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6459&end=6560](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6459&end=6560)
 
 ## March 30th, 2021 Livestream
 * [Q&A: Any plans on a global grid?](../../../transcriptions/yt-QxJ8e_0r9uE.md) [https://www.youtube.com/watch?v=QxJ8e_0r9uE](https://www.youtube.com/watch?v=QxJ8e_0r9uE)

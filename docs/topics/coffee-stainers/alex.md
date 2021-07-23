@@ -9,7 +9,7 @@ date: Last Modified
 * [Localization Community Highlight: Outro](../../transcriptions/yt-wqMveGY5x18.md) [https://www.youtube.com/watch?v=wqMveGY5x18](https://www.youtube.com/watch?v=wqMveGY5x18)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045)
+* [Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together](../../transcriptions/yt-cF3QleeEiJo,1833.468502573502,2044.295458.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045)
 
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * Jace Talk: Patch Notes Closed Captions [https://www.youtube.com/watch?v=W-x2oenkmvw](https://www.youtube.com/watch?v=W-x2oenkmvw)

@@ -28,7 +28,7 @@ date: Last Modified
 * [Q&A: Range upgrade for Hover Pack?](../../../transcriptions/yt-tdatHpgolVQ.md) [https://www.youtube.com/watch?v=tdatHpgolVQ](https://www.youtube.com/watch?v=tdatHpgolVQ)
 
 ## April 13th, 2021 Livestream
-* Q&A: Hover Pack, why not Tier 6? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968)
+* [Q&A: Hover Pack, why not Tier 6?](../../../transcriptions/yt-cF3QleeEiJo,6956.145611,6967.729984.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968)
 
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Hover Pack rebalance](../../../transcriptions/yt-0sIdZWKvt5w.md) [https://www.youtube.com/watch?v=0sIdZWKvt5w](https://www.youtube.com/watch?v=0sIdZWKvt5w)

@@ -23,7 +23,7 @@ date: Last Modified
 * [Q&A: When will the Soundtrack be available?](../transcriptions/yt-F4bkm5cFlZw.md) [https://www.youtube.com/watch?v=F4bkm5cFlZw](https://www.youtube.com/watch?v=F4bkm5cFlZw)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Update 4 Trailer Music [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=7280&end=7321](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=7280&end=7321)
+* [Snutt Talk: Update 4 Trailer Music](../transcriptions/yt-cF3QleeEiJo,7280.486312,7320.342219.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=7280&end=7321](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=7280&end=7321)
 
 ## March 30th, 2021 Livestream
 * [Community FYI: Loving the soundtrack](../transcriptions/yt-dUtrkKPkWVg.md) [https://www.youtube.com/watch?v=dUtrkKPkWVg](https://www.youtube.com/watch?v=dUtrkKPkWVg)

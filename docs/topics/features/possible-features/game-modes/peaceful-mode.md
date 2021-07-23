@@ -12,7 +12,7 @@ date: Last Modified
 * [Q&A: Is peaceful mode basically no creatures?](../../../../transcriptions/yt--nAX-cCDJRI.md) [https://www.youtube.com/watch?v=-nAX-cCDJRI](https://www.youtube.com/watch?v=-nAX-cCDJRI)
 
 ## June 18th, 2021 Livestream
-* Jace Talk: Game Modes [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353)
+* [Jace Talk: Game Modes](../../../../transcriptions/yt-slNYE26evgc,291.32436666666666,352.5522.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353)
 
 ## May 11th, 2021 Livestream
 * [Q&A: Will there be a Peaceful mode?](../../../../transcriptions/yt-P2H7Yidopbo.md) [https://www.youtube.com/watch?v=P2H7Yidopbo](https://www.youtube.com/watch?v=P2H7Yidopbo)

@@ -74,11 +74,11 @@ date: Last Modified
 * [State of Dev: Removal of power self-regulation & issues with pipes](../../transcriptions/yt-g90f175Jk_w.md) [https://www.youtube.com/watch?v=g90f175Jk_w](https://www.youtube.com/watch?v=g90f175Jk_w)
 
 ## April 13th, 2021 Livestream
-* State of Dev: Releasing Update 4 on Early Access today [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=606&end=622](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=606&end=622)
-* State of Dev: Early Access branch and the Experimental branch [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=827&end=1075](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=827&end=1075)
-* State of Dev: The Modular Build [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1074&end=1123](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1074&end=1123)
-* State of Dev: Update 4 bug fixing [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1122&end=1172](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1122&end=1172)
-* State of Dev: Unofficial Mod Support & Update 4 [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1171&end=1276](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1171&end=1276)
+* [State of Dev: Releasing Update 4 on Early Access today](../../transcriptions/yt-cF3QleeEiJo,606.00038713619193,621.383652.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=606&end=622](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=606&end=622)
+* [State of Dev: Early Access branch and the Experimental branch](../../transcriptions/yt-cF3QleeEiJo,827.4339818257979,1074.4676067309116.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=827&end=1075](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=827&end=1075)
+* [State of Dev: The Modular Build](../../transcriptions/yt-cF3QleeEiJo,1074.4676067309116,1122.807214.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1074&end=1123](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1074&end=1123)
+* [State of Dev: Update 4 bug fixing](../../transcriptions/yt-cF3QleeEiJo,1122.807214,1171.962603.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1122&end=1172](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1122&end=1172)
+* [State of Dev: Unofficial Mod Support & Update 4](../../transcriptions/yt-cF3QleeEiJo,1171.962603,1275.365078.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1171&end=1276](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1171&end=1276)
 
 ## April 6th, 2021 Livestream
 * [State of Dev: April Fools 2021](../../transcriptions/yt-eMPr_Y9bstc.md) [https://www.youtube.com/watch?v=eMPr_Y9bstc](https://www.youtube.com/watch?v=eMPr_Y9bstc)

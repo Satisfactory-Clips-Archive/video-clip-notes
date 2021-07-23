@@ -12,7 +12,7 @@ date: Last Modified
 * [Q&A: Will achievements be added?](../../../../transcriptions/yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
 
 ## April 13th, 2021 Livestream
-* Q&A: Anything about achievements? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680)
+* [Q&A: Anything about achievements?](../../../../transcriptions/yt-cF3QleeEiJo,6652.069241,6679.928238.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680)
 
 ## February 16th, 2021 Livestream
 * [Q&A: Will Achievements ever be created?](../../../../transcriptions/yt-scxr_vl9Pzk.md) [https://www.youtube.com/watch?v=scxr_vl9Pzk](https://www.youtube.com/watch?v=scxr_vl9Pzk)

@@ -19,7 +19,7 @@ date: Last Modified
 * [Q&A: Do you think you'll fix being able to build under the map, or keep it because people like it?](../../transcriptions/yt-IAMN_jSQRaQ.md) [https://www.youtube.com/watch?v=IAMN_jSQRaQ](https://www.youtube.com/watch?v=IAMN_jSQRaQ)
 
 ## June 18th, 2021 Livestream
-* Jace Talk: World Update [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435)
+* [Jace Talk: World Update](../../transcriptions/yt-slNYE26evgc,352.5522,434.4673666666667.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435)
 
 ## June 15th, 2021 Livestream
 * [Q&A: Are there new Maps planned, or Map creation tools for the Community?](../../transcriptions/yt-gpymYwsbqiI.md) [https://www.youtube.com/watch?v=gpymYwsbqiI](https://www.youtube.com/watch?v=gpymYwsbqiI)

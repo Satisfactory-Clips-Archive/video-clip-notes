@@ -8,7 +8,7 @@ topics:
 # [September 25th, 2019 Patch Notes](../2019-09-25.md)
 ## Q&A: Are the new save files supported in an older version of the game?
 https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=186&end=219
-This question was possibly duplicated with a more recent answer: April 13th, 2021 Livestream Q&A: If I play it on Experimental, will I still be able to load it if I switch to Early Access? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387)
+This question was possibly duplicated with a more recent answer: [April 13th, 2021 Livestream Q&A: If I play it on Experimental, will I still be able to load it if I switch to Early Access?](./yt-cF3QleeEiJo,1303.766903,1386.648083.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387)
 
 
 ### Topics

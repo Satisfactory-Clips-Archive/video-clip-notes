@@ -13,7 +13,7 @@ date: Last Modified
 * [Q&A: Will Signs be in the AWESOME Shop?](../../../transcriptions/yt-FGSWvdPw8Uk.md) [https://www.youtube.com/watch?v=FGSWvdPw8Uk](https://www.youtube.com/watch?v=FGSWvdPw8Uk)
 
 ## June 18th, 2021 Livestream
-* Q&A: Will we have Signs? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292)
+* [Q&A: Will we have Signs?](../../../transcriptions/yt-slNYE26evgc,248.61503333333334,291.32436666666666.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292)
 
 ## June 15th, 2021 Livestream
 * [Q&A: Are there any plans to put Signs in the game?](../../../transcriptions/yt-7Iz77o4a4Mk.md) [https://www.youtube.com/watch?v=7Iz77o4a4Mk](https://www.youtube.com/watch?v=7Iz77o4a4Mk)

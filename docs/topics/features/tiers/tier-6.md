@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 6
 
 ## April 13th, 2021 Livestream
-* Q&A: Hover Pack, why not Tier 6? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968)
+* [Q&A: Hover Pack, why not Tier 6?](../../../transcriptions/yt-cF3QleeEiJo,6956.145611,6967.729984.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968)
 
 ## March 9th, 2021 Livestream
 * [Q&A: Power Storage what Tier?](../../../transcriptions/yt-hyFz4ZawRe8.md) [https://www.youtube.com/watch?v=hyFz4ZawRe8](https://www.youtube.com/watch?v=hyFz4ZawRe8)

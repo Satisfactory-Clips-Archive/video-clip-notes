@@ -18,7 +18,7 @@ date: Last Modified
 * [Q&A: In Multiplayer will we each have our own levels on the server?](../../transcriptions/yt-scyn-JQyOuU.md) [https://www.youtube.com/watch?v=scyn-JQyOuU](https://www.youtube.com/watch?v=scyn-JQyOuU)
 
 ## June 18th, 2021 Livestream
-* Jace Talk: Dedicated Servers [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493)
+* [Jace Talk: Dedicated Servers](../../transcriptions/yt-slNYE26evgc,434.4673666666667,492.492.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493)
 
 ## June 15th, 2021 Livestream
 * [State of Dev: Dedicated Servers](../../transcriptions/yt-S0OIEMuz-WU.md) [https://www.youtube.com/watch?v=S0OIEMuz-WU](https://www.youtube.com/watch?v=S0OIEMuz-WU)

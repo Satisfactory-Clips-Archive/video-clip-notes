@@ -35,13 +35,13 @@ date: Last Modified
 * [Q&A: Why did the anti-spider mode went off?](../../transcriptions/yt-kd-VVREKHLE.md) [https://www.youtube.com/watch?v=kd-VVREKHLE](https://www.youtube.com/watch?v=kd-VVREKHLE)
 
 ## April 13th, 2021 Livestream
-* State of Dev: Releasing Update 4 on Early Access today [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=606&end=622](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=606&end=622)
-* State of Dev: Early Access branch and the Experimental branch [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=827&end=1075](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=827&end=1075)
-* Q&A: If I play it on Experimental, will I still be able to load it if I switch to Early Access? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387)
-* Snutt Talk: Update 4 being released on Early Access [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4421&end=4465](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4421&end=4465)
-* Q&A: Will Update 4 on Early Access break Mods? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4464&end=4520](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4464&end=4520)
-* Q&A: Mods? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4551&end=4564](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4551&end=4564)
-* Snutt Talk: No surprise content in the Early Access release of Update 4 [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=5100&end=5133](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=5100&end=5133)
+* [State of Dev: Releasing Update 4 on Early Access today](../../transcriptions/yt-cF3QleeEiJo,606.00038713619193,621.383652.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=606&end=622](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=606&end=622)
+* [State of Dev: Early Access branch and the Experimental branch](../../transcriptions/yt-cF3QleeEiJo,827.4339818257979,1074.4676067309116.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=827&end=1075](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=827&end=1075)
+* [Q&A: If I play it on Experimental, will I still be able to load it if I switch to Early Access?](../../transcriptions/yt-cF3QleeEiJo,1303.766903,1386.648083.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387)
+* [Snutt Talk: Update 4 being released on Early Access](../../transcriptions/yt-cF3QleeEiJo,4421.216082,4464.700819.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4421&end=4465](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4421&end=4465)
+* [Q&A: Will Update 4 on Early Access break Mods?](../../transcriptions/yt-cF3QleeEiJo,4464.700819,4519.685072.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4464&end=4520](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4464&end=4520)
+* [Q&A: Mods?](../../transcriptions/yt-cF3QleeEiJo,4551.729517,4563.536908.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4551&end=4564](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=4551&end=4564)
+* [Snutt Talk: No surprise content in the Early Access release of Update 4](../../transcriptions/yt-cF3QleeEiJo,5100.388509,5132.438087.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=5100&end=5133](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=5100&end=5133)
 
 ## April 6th, 2021 Livestream
 * [State of Dev: April Fools 2021](../../transcriptions/yt-eMPr_Y9bstc.md) [https://www.youtube.com/watch?v=eMPr_Y9bstc](https://www.youtube.com/watch?v=eMPr_Y9bstc)

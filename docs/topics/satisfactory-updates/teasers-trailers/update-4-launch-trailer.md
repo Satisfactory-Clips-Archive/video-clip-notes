@@ -8,4 +8,4 @@ date: Last Modified
 * [Snutt & Ben Talked: Consequences of too many lights](../../../transcriptions/yt-dyqOMITwLsY,783.279574,808.618017.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Update 4 Trailer Music [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=7280&end=7321](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=7280&end=7321)
+* [Snutt Talk: Update 4 Trailer Music](../../../transcriptions/yt-cF3QleeEiJo,7280.486312,7320.342219.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=7280&end=7321](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=7280&end=7321)

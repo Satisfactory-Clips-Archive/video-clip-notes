@@ -17,7 +17,7 @@ date: Last Modified
 * [Q&A: Does Train Collision mean that Trains will collide with terrain & buildings like Trucks do?](../../../../transcriptions/yt-3rgaLHEbzMg.md) [https://www.youtube.com/watch?v=3rgaLHEbzMg](https://www.youtube.com/watch?v=3rgaLHEbzMg)
 
 ## June 18th, 2021 Livestream
-* Jace Talk: Train Updates [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=200&end=249](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=200&end=249)
+* [Jace Talk: Train Updates](../../../../transcriptions/yt-slNYE26evgc,200.86733333333333,248.61503333333334.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=200&end=249](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=200&end=249)
 
 ## June 8th, 2021 Livestream
 * [Q&A: When Train Update?](../../../../transcriptions/yt-6UkeKRs-WVw.md) [https://www.youtube.com/watch?v=6UkeKRs-WVw](https://www.youtube.com/watch?v=6UkeKRs-WVw)
@@ -45,7 +45,7 @@ date: Last Modified
 * [Q&A: Train remake?](../../../../transcriptions/yt-4iPV87r2O7A.md) [https://www.youtube.com/watch?v=4iPV87r2O7A](https://www.youtube.com/watch?v=4iPV87r2O7A)
 
 ## April 13th, 2021 Livestream
-* Q&A: Train Collision? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699)
+* [Q&A: Train Collision?](../../../../transcriptions/yt-cF3QleeEiJo,6681.040890790472,6698.939684.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699)
 
 ## April 6th, 2021 Livestream
 * [Q&A: Train Collision?](../../../../transcriptions/yt-ECH-dzoj7ro.md) [https://www.youtube.com/watch?v=ECH-dzoj7ro](https://www.youtube.com/watch?v=ECH-dzoj7ro)

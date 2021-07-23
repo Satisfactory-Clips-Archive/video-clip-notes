@@ -18,7 +18,7 @@ date: Last Modified
 * [Q&A: Any thoughts on an expensive mode?](../../../transcriptions/yt-f05_-GJTYyg.md) [https://www.youtube.com/watch?v=f05_-GJTYyg](https://www.youtube.com/watch?v=f05_-GJTYyg)
 
 ## June 18th, 2021 Livestream
-* Jace Talk: Game Modes [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353)
+* [Jace Talk: Game Modes](../../../transcriptions/yt-slNYE26evgc,291.32436666666666,352.5522.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353)
 
 ## June 8th, 2021 Livestream
 * [Q&A: Can we get a way to skip certain stages for new playthroughs?](../../../transcriptions/yt-DE_UxFAQUm0.md) [https://www.youtube.com/watch?v=DE_UxFAQUm0](https://www.youtube.com/watch?v=DE_UxFAQUm0)

@@ -37,8 +37,8 @@ date: Last Modified
 * [Q&A: Any new aliens coming?](../../transcriptions/yt-d5A3AQG5YoE.md) [https://www.youtube.com/watch?v=d5A3AQG5YoE](https://www.youtube.com/watch?v=d5A3AQG5YoE)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045)
-* Hannah Talk: Floating rocks [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157)
+* [Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together](../../transcriptions/yt-cF3QleeEiJo,1833.468502573502,2044.295458.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045)
+* [Hannah Talk: Floating rocks](../../transcriptions/yt-cF3QleeEiJo,2105.731039,2156.762994.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157)
 
 ## April 6th, 2021 Livestream
 * [Q&A: Hannah Q&A, when?](../../transcriptions/yt-__NtKQHoZzc.md) [https://www.youtube.com/watch?v=__NtKQHoZzc](https://www.youtube.com/watch?v=__NtKQHoZzc)

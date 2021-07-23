@@ -9,7 +9,7 @@ date: Last Modified
 * [Q&A: Creative Mode?](../../../../transcriptions/yt-vUd-XU0sTXo.md) [https://www.youtube.com/watch?v=vUd-XU0sTXo](https://www.youtube.com/watch?v=vUd-XU0sTXo)
 
 ## June 18th, 2021 Livestream
-* Jace Talk: Game Modes [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353)
+* [Jace Talk: Game Modes](../../../../transcriptions/yt-slNYE26evgc,291.32436666666666,352.5522.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353)
 
 ## May 25th, 2021 Livestream
 * [Q&A: When will there be a Creative Mode or Train remake?](../../../../transcriptions/yt-m5NFRXkFgUg.md) [https://www.youtube.com/watch?v=m5NFRXkFgUg](https://www.youtube.com/watch?v=m5NFRXkFgUg)

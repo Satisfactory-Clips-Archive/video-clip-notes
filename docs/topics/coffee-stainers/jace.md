@@ -48,7 +48,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Stream comments](../../transcriptions/yt-ccEJHN-2_JY.md) [https://www.youtube.com/watch?v=ccEJHN-2_JY](https://www.youtube.com/watch?v=ccEJHN-2_JY)
 
 ## June 18th, 2021 Livestream
-* Intro [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22)
+* [Intro](../../transcriptions/yt-slNYE26evgc,,21.588233333333335.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22)
 
 ## June 15th, 2021 Livestream
 * [Snutt & Jace Talk: Fix Jace QA post (Part 1)](../../transcriptions/yt-rgQCCk5ohMc.md) [https://www.youtube.com/watch?v=rgQCCk5ohMc](https://www.youtube.com/watch?v=rgQCCk5ohMc)
@@ -134,7 +134,7 @@ date: Last Modified
 * [Community Highlights: Jace gets featured in Community Highlights](../../transcriptions/yt-LMj4zqWimc4.md) [https://www.youtube.com/watch?v=LMj4zqWimc4](https://www.youtube.com/watch?v=LMj4zqWimc4)
 
 ## April 13th, 2021 Livestream
-* State of Dev: Jace is still on vacation [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=636&end=688](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=636&end=688)
+* [State of Dev: Jace is still on vacation](../../transcriptions/yt-cF3QleeEiJo,636.86561,687.994812.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=636&end=688](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=636&end=688)
 
 ## April 6th, 2021 Livestream
 * Community FYI: Still waiting on Jace [https://www.youtube.com/watch?v=a1_yR3_Z0Co](https://www.youtube.com/watch?v=a1_yR3_Z0Co)

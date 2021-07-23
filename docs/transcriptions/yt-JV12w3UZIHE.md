@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=JV12w3UZIHE
 <summary>This question may have been asked previously at least 19 other times, as recently as June 2021 and as early as February 2019.</summary>
 
 * [June 29th, 2021 Livestream Q&A: Are the team thinking to release 1.0 in 2022?](./yt-EfqxH78tmFc.md) [https://www.youtube.com/watch?v=EfqxH78tmFc](https://www.youtube.com/watch?v=EfqxH78tmFc)
-* April 13th, 2021 Livestream Q&A: What about 1.0? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636)
+* [April 13th, 2021 Livestream Q&A: What about 1.0?](./yt-cF3QleeEiJo,6610.940808051914,6635.114829.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636)
 * [March 30th, 2021 Livestream Q&A: When will the game actually release?](./yt-KvCsUb7f0KY.md) [https://www.youtube.com/watch?v=KvCsUb7f0KY](https://www.youtube.com/watch?v=KvCsUb7f0KY)
 * [March 23rd, 2021 Livestream Q&A: Do you plan to put Update 4 out earlier than April 13th?](./yt-aclI7pbRT3I.md) [https://www.youtube.com/watch?v=aclI7pbRT3I](https://www.youtube.com/watch?v=aclI7pbRT3I)
 * [March 23rd, 2021 Livestream Q&A: Any ETA on Launch?](./yt-aP6v6JbuHTk.md) [https://www.youtube.com/watch?v=aP6v6JbuHTk](https://www.youtube.com/watch?v=aP6v6JbuHTk)

@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=HmdG5XPGjN8
 <details>
 <summary>This question may have been asked previously at least 16 other times, as recently as June 2021 and as early as June 2020.</summary>
 
-* June 18th, 2021 Livestream Q&A: Will we have Signs? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292)
+* [June 18th, 2021 Livestream Q&A: Will we have Signs?](./yt-slNYE26evgc,248.61503333333334,291.32436666666666.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292)
 * [June 15th, 2021 Livestream Q&A: Are there any plans to put Signs in the game?](./yt-7Iz77o4a4Mk.md) [https://www.youtube.com/watch?v=7Iz77o4a4Mk](https://www.youtube.com/watch?v=7Iz77o4a4Mk)
 * [May 18th, 2021 Livestream Q&A: Are you thinking of adding some type of Signs or screens?](./yt-N8sqIFGjwyk.md) [https://www.youtube.com/watch?v=N8sqIFGjwyk](https://www.youtube.com/watch?v=N8sqIFGjwyk)
 * [April 27th, 2021 Livestream Q&A: Can we get signs soon?](./yt-wUy8zszYfdQ.md) [https://www.youtube.com/watch?v=wUy8zszYfdQ](https://www.youtube.com/watch?v=wUy8zszYfdQ)

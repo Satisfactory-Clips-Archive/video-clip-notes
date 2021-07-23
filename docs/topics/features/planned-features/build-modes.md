@@ -13,7 +13,7 @@ date: Last Modified
 * [Q&A: Can you give information about new Build Modes coming out?](../../../transcriptions/yt-MKrIZzZe0aQ.md) [https://www.youtube.com/watch?v=MKrIZzZe0aQ](https://www.youtube.com/watch?v=MKrIZzZe0aQ)
 
 ## June 18th, 2021 Livestream
-* Jace Talk: Build Modes in Update 5 [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201)
+* [Jace Talk: Build Modes in Update 5](../../../transcriptions/yt-slNYE26evgc,131.86506666666668,200.86733333333333.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201)
 
 ## June 15th, 2021 Livestream
 * [State of Dev: Update 5](../../../transcriptions/yt-4jZUVUeNXKQ.md) [https://www.youtube.com/watch?v=4jZUVUeNXKQ](https://www.youtube.com/watch?v=4jZUVUeNXKQ)

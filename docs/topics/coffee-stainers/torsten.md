@@ -30,7 +30,7 @@ date: Last Modified
 * [Snutt & Jace Talk: The new agenda overlay](../../transcriptions/yt-8o_ceVd1d2M.md) [https://www.youtube.com/watch?v=8o_ceVd1d2M](https://www.youtube.com/watch?v=8o_ceVd1d2M)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045)
+* [Snutt Talk: Inviting a bunch of Coffee Stainers to look at the Community Highlights together](../../transcriptions/yt-cF3QleeEiJo,1833.468502573502,2044.295458.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1833&end=2045)
 
 ## April 10th, 2020 Video
 * [Q&A: Who is Torsten?](../../transcriptions/yt-CG-63B4g11U,130.208023,158.391799.md) [https://youtube.com/clip/UgxCxJc9bzVLy3xghEd4AaABCQ](https://youtube.com/clip/UgxCxJc9bzVLy3xghEd4AaABCQ)

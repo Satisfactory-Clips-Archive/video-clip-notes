@@ -46,8 +46,8 @@ date: Last Modified
 * [Q&A: Will we see something like Blueprints in Update 5?](../../../transcriptions/yt-A3GSOZWzGqs.md) [https://www.youtube.com/watch?v=A3GSOZWzGqs](https://www.youtube.com/watch?v=A3GSOZWzGqs)
 
 ## June 18th, 2021 Livestream
-* Q&A: When is Update 5 coming? [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132)
-* Jace Talk: Build Modes in Update 5 [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201)
+* [Q&A: When is Update 5 coming?](../../../transcriptions/yt-slNYE26evgc,83.45003333333334,131.86506666666668.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132)
+* [Jace Talk: Build Modes in Update 5](../../../transcriptions/yt-slNYE26evgc,131.86506666666668,200.86733333333333.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201)
 
 ## June 15th, 2021 Livestream
 * [State of Dev: Update 5](../../../transcriptions/yt-4jZUVUeNXKQ.md) [https://www.youtube.com/watch?v=4jZUVUeNXKQ](https://www.youtube.com/watch?v=4jZUVUeNXKQ)
@@ -117,9 +117,9 @@ date: Last Modified
 * [Q&A: Any timeframe for Update 5?](../../../transcriptions/yt-3vGN4jCBhdY.md) [https://www.youtube.com/watch?v=3vGN4jCBhdY](https://www.youtube.com/watch?v=3vGN4jCBhdY)
 
 ## April 13th, 2021 Livestream
-* Snutt Talk: The future of Satisfactory [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6327&end=6460](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6327&end=6460)
-* Snutt Talk: Update 5 is probably going to be smaller than Update 4 [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6559&end=6588](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6559&end=6588)
-* Q&A: When is Update 5? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6587&end=6611](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6587&end=6611)
+* [Snutt Talk: The future of Satisfactory](../../../transcriptions/yt-cF3QleeEiJo,6327.259459,6459.607296100866.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6327&end=6460](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6327&end=6460)
+* [Snutt Talk: Update 5 is probably going to be smaller than Update 4](../../../transcriptions/yt-cF3QleeEiJo,6559.740747620899,6587.255816.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6559&end=6588](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6559&end=6588)
+* [Q&A: When is Update 5?](../../../transcriptions/yt-cF3QleeEiJo,6587.255816,6610.940808051914.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6587&end=6611](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6587&end=6611)
 
 ## March 16th, 2021 Livestream
 * Q&A: Do you already have plans for Update 5? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8510&end=8559](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8510&end=8559)

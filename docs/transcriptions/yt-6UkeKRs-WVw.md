@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=6UkeKRs-WVw
 * [May 18th, 2021 Livestream Q&A: Are you considering a Train rework?](./yt-68MP936ZdfQ.md) [https://www.youtube.com/watch?v=68MP936ZdfQ](https://www.youtube.com/watch?v=68MP936ZdfQ)
 * [May 4th, 2021 Livestream Q&A: Will Trains get an Update?](./yt-hXmvgEpyDdY.md) [https://www.youtube.com/watch?v=hXmvgEpyDdY](https://www.youtube.com/watch?v=hXmvgEpyDdY)
 * [April 20th, 2021 Livestream Q&A: Train remake?](./yt-4iPV87r2O7A.md) [https://www.youtube.com/watch?v=4iPV87r2O7A](https://www.youtube.com/watch?v=4iPV87r2O7A)
-* April 13th, 2021 Livestream Q&A: Train Collision? [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699)
+* [April 13th, 2021 Livestream Q&A: Train Collision?](./yt-cF3QleeEiJo,6681.040890790472,6698.939684.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6681&end=6699)
 * [April 6th, 2021 Livestream Q&A: Train Collision?](./yt-ECH-dzoj7ro.md) [https://www.youtube.com/watch?v=ECH-dzoj7ro](https://www.youtube.com/watch?v=ECH-dzoj7ro)
 * [March 23rd, 2021 Livestream Q&A: Will Trains get collision in the future?](./yt-e8ctn7TDrq0.md) [https://www.youtube.com/watch?v=e8ctn7TDrq0](https://www.youtube.com/watch?v=e8ctn7TDrq0)
 * March 23rd, 2021 Livestream Q&A: Will Trains have some sort of signalling in the future? [https://www.youtube.com/watch?v=Ir3GVM1fDU0](https://www.youtube.com/watch?v=Ir3GVM1fDU0)

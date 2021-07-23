@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Linus
 
 ## June 18th, 2021 Livestream
-* Intro [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22)
+* [Intro](../../transcriptions/yt-slNYE26evgc,,21.588233333333335.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22)
 
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Community FYI: I saw the camera shake](../../transcriptions/yt-E2Z9xhl_i0I.md) [https://www.youtube.com/watch?v=E2Z9xhl_i0I](https://www.youtube.com/watch?v=E2Z9xhl_i0I)
