@@ -13,7 +13,6 @@ date: Last Modified
 * [G2](./topics/coffee-stainers/g2.md)
 * [Gnutt](./topics/coffee-stainers/gnutt.md)
 * [Hannah](./topics/coffee-stainers/hannah.md)
-* [Jace](./topics/coffee-stainers/jace.md)
 * [Jannik](./topics/coffee-stainers/jannik.md)
 * [Joel](./topics/coffee-stainers/joel.md)
 * [Kristoffer](./topics/coffee-stainers/kristoffer.md)
@@ -32,6 +31,10 @@ date: Last Modified
 * [Tobias](./topics/coffee-stainers/tobias.md)
 * [Torsten](./topics/coffee-stainers/torsten.md)
 * [Uzu](./topics/coffee-stainers/uzu.md)
+
+## [Jace](./topics/coffee-stainers/jace.md)
+* ["Fix Jace" QA Site Posts](./topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
+---
 
 ## [Simon](./topics/coffee-stainers/simon.md)
 * [Simon Saga](./topics/coffee-stainers/simon/simon-saga.md)

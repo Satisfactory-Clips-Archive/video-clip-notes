@@ -4,6 +4,7 @@ date: "2021-06-15"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "coffee-stainers/jace/fix-jace-qa-site-posts"
     - "community"
     - "qa-site"
 ---
@@ -19,6 +20,7 @@ https://www.youtube.com/watch?v=_OosGOGi99M
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Jace > "Fix Jace" QA Site Posts](../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Community](../topics/community.md)
 * [QA Site](../topics/qa-site.md)
 
