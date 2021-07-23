@@ -14,4 +14,4 @@ https://youtube.com/embed/OXblIR1BnIM?autoplay=1&start=9&end=20
 
 ### Transcript
 
-> or so it is our summer break and so various people are going on holidays at different times and so that what that means is we do not we are not really going to have a full team at any point
+> or so it is our summer break and so various people are going on holidays at different times and so that what that means is we do not we are not really going to have a full team at any point during that time so there aren't going

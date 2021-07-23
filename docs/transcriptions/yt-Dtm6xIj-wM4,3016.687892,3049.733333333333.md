@@ -18,4 +18,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3016&end=3050
 
 ### Transcript
 
-> question about how long we've been in game dev each person like personally I think next in the longest of us Lee I've been a game de force five six five years give or take like working full-time at Lee yeah if if we're talking working full-time almost exactly two years right there comes seven years I'm a newbie seven years I think for me this is my first proper project on this
+> question about how long we've been in game dev each person like personally I think next in the longest of us Lee I've been a game de force five six five years give or take like working full-time at Lee yeah if if we're talking working full-time almost exactly two years right there comes seven years I'm a newbie seven years I think for me this is my first proper project on this way so can we crush our friends with

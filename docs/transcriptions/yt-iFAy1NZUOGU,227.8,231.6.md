@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 8th,
 
 ### Transcript
 
-> sprite ourselves no you can't change the
+> sprite ourselves no you can't change the cat sprites at the moment since there are sprites will this affect the

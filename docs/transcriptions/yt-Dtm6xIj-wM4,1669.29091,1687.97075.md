@@ -16,4 +16,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1669&end=1688
 
 ### Transcript
 
-> facilities the game use any luck step any concern for desync across a large map no there's no concern there are no D sinks ya know at the very least not from a large map now I think there are no D sinks I hope not yeah it shouldn't be
+> facilities the game use any luck step any concern for desync across a large map no there's no concern there are no D sinks ya know at the very least not from a large map now I think there are no D sinks I hope not yeah it shouldn't be right now what do you make your model

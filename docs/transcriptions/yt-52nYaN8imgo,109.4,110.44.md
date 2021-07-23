@@ -14,4 +14,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=109&end=111
 
 ### Transcript
 
-> inside
+> inside I need the keys to survive I hate the

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> well the player to be able to make their own laps maybe that's something we'll
+> well the player to be able to make their own laps maybe that's something we'll look at in the future right now No

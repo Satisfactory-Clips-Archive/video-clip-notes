@@ -17,3 +17,5 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 ### Transcript
 
 > are we gonna make Easter eggs yes we will have Easter eggs in the game
+>
+> [Music]

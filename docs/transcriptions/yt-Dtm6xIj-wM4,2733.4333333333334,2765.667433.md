@@ -18,4 +18,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2733&end=2766
 
 > [Music]
 >
-> wait ready which one who is the funniest at the stand-ups well you're never there obviously me yep everyone else is dead inside for a herring on my jo excite yes it's fresh when I come in and they're gonna be like never thought we'd say this yeah they were like I thought it was bad before and that's nuts here so
+> wait ready which one who is the funniest at the stand-ups well you're never there obviously me yep everyone else is dead inside for a herring on my jo excite yes it's fresh when I come in and they're gonna be like never thought we'd say this yeah they were like I thought it was bad before and that's nuts here so yeah yeah please come back how does it take to build a medium-sized factory I

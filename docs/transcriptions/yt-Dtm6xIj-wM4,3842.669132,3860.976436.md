@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> satisfactory I don't think so it's that would be a fantastic goats speaking of these cards we have his tricks like already in yeah already mmm don't say yeah don't say any of them yeah yes sir
+> satisfactory I don't think so it's that would be a fantastic goats speaking of these cards we have his tricks like already in yeah already mmm don't say yeah don't say any of them yeah yes sir yeah of course yeah no how much time have you invested currently in

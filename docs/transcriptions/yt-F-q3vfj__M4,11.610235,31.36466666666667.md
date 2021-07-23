@@ -14,4 +14,4 @@ https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=11&end=32
 
 ### Transcript
 
-> we have a release date for update four on experimental uh previously we had said maybe march 9th maybe march 16th uh can confirm now that march 16th is the date that we're going for we're really short 99 sure that we can hit march 16th you never know with gamedev something crazy might happen and maybe there'll be a delay but we're pretty certain that we're good for
+> we have a release date for update four on experimental uh previously we had said maybe march 9th maybe march 16th uh can confirm now that march 16th is the date that we're going for we're really short 99 sure that we can hit march 16th you never know with gamedev something crazy might happen and maybe there'll be a delay but we're pretty certain that we're good for march 16. we still have questions now

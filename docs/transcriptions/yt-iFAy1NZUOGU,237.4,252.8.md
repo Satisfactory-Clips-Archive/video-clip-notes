@@ -14,4 +14,4 @@ https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=237&end=253
 
 ### Transcript
 
-> let's just say no there are there actual spiders in the game if you're in a rapid there may be some creatures in the game that will seriously affect your experience or gameplay so that's pretty vague right there but also there are some in the trailer
+> let's just say no there are there actual spiders in the game if you're in a rapid there may be some creatures in the game that will seriously affect your experience or gameplay so that's pretty vague right there but also there are some in the trailer so go watch that we're done why did you spend time adding this feature when it

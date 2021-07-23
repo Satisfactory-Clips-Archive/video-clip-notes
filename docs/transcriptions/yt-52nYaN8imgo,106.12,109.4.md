@@ -14,4 +14,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=106&end=110
 
 ### Transcript
 
-> I'm laughing before but really undead
+> I'm laughing before but really undead inside I need the keys to survive I hate the

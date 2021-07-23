@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 
 ### Transcript
 
-> there an end game will there be a story yes there will be story and an end game as for the story we've actually already revealed two characters Katharina parks and Steve and you can find their names and hints of their personality on our website so check it out
+> there an end game will there be a story yes there will be story and an end game as for the story we've actually already revealed two characters Katharina parks and Steve and you can find their names and hints of their personality on our website so check it out will there be Mac Linux console

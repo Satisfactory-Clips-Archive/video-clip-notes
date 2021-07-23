@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 16th, 202
 
 ### Transcript
 
-> Bernie Sanders says I'm once again asking for official mod support so yeah again we have confirmed official mod support we will be doing it in syndicated service of taking forever to do but we're gonna be doing it yeah I
+> Bernie Sanders says I'm once again asking for official mod support so yeah again we have confirmed official mod support we will be doing it in syndicated service of taking forever to do but we're gonna be doing it yeah I just don't know when yet will it be

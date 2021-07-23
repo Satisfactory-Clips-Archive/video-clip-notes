@@ -18,4 +18,4 @@ https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=162&end=250
 >
 > [Music]
 >
-> i love the way i said that and you can read more about submitting your designs and the link in the description and like i know it's super cliche to say this but uh i'm super looking forward to what you guys create because i know just how insanely creative our community is
+> i love the way i said that and you can read more about submitting your designs and the link in the description and like i know it's super cliche to say this but uh i'm super looking forward to what you guys create because i know just how insanely creative our community is um so i that's gonna be it for me today

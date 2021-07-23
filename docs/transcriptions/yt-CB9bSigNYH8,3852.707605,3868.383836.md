@@ -18,4 +18,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3852&end=3869
 
 ### Transcript
 
-> a kind of resolution I I'm not sure what the resolution is of our landscape tiles actually sorry can't answer that
+> a kind of resolution I I'm not sure what the resolution is of our landscape tiles actually sorry can't answer that question not too sure I already told the story of how it

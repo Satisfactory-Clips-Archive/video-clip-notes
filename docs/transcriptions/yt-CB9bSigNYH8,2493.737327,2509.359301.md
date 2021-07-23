@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2493&end=2510
 
 ### Transcript
 
-> I think yes some things don't exist yet in real life but who knows what the future brings could be that I know some inventor somewhere is inspired by our game and I don't make something stupid
+> I think yes some things don't exist yet in real life but who knows what the future brings could be that I know some inventor somewhere is inspired by our game and I don't make something stupid because why not

@@ -15,3 +15,5 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=134&end=140
 ### Transcript
 
 > [Music]
+>
+> what kind of hardware computer a

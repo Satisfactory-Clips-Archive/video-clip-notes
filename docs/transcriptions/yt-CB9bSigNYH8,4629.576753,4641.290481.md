@@ -18,4 +18,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4629&end=4642
 
 ### Transcript
 
-> okay too many tights on the right side could be good B I might revisit this cave we're gonna revisit this cave
+> okay too many tights on the right side could be good B I might revisit this cave we're gonna revisit this cave anyway as well I feel like

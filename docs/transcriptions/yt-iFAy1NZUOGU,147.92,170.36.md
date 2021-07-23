@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [October 3rd, 2
 
 ### Transcript
 
-> research or tech tree in the game there will be progression regarding equipment and buildings and there'll be multiple ways to unlock things as well so for example if you find a specific resource while you're out exploring in the early game and you can't use it you might actually be able to use it for progression purposes so if you're playing with the buddy maybe you should send one of you guys out to explore
+> research or tech tree in the game there will be progression regarding equipment and buildings and there'll be multiple ways to unlock things as well so for example if you find a specific resource while you're out exploring in the early game and you can't use it you might actually be able to use it for progression purposes so if you're playing with the buddy maybe you should send one of you guys out to explore because that might help you out won't the factory unload and stop working if

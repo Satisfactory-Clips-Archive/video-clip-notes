@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 
 ### Transcript
 
-> different question how many Dutch people we have three and
+> different question how many Dutch people we have three and we'll get another one soon yes we have

@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2884&end=2898
 
 ### Transcript
 
-> a game it's a very ambitious project I have to say like this is the biggest biggest game that coffee stains to you
+> a game it's a very ambitious project I have to say like this is the biggest biggest game that coffee stains to you this is maybe yet it's pretty insane

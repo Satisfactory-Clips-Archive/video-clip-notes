@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> customization of our character I don't know but I think it's gonna be a matter
+> customization of our character I don't know but I think it's gonna be a matter of prioritization at this point didn't you quit yes you have any rough

@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4259&end=4275
 
 ### Transcript
 
-> sending up for the F to get response we don't have an automated response for the Alpha per se but if you signed up here in like like your your your input on the list there's no confirmation email but
+> sending up for the F to get response we don't have an automated response for the Alpha per se but if you signed up here in like like your your your input on the list there's no confirmation email but no worries oh just that's a little too big

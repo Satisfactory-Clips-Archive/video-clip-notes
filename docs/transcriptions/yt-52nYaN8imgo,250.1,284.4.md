@@ -16,4 +16,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=250&end=285
 
 ### Transcript
 
-> there's something weird happening this sign something weird going on is going on with Simon
+> there's something weird happening this sign something weird going on is going on with Simon I can see his reflection it's hard you

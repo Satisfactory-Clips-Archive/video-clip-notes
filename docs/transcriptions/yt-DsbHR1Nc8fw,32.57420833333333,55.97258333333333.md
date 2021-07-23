@@ -14,4 +14,4 @@ https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=32&end=56
 
 ### Transcript
 
-> you enjoy one thing I do want to mention is that we had to go on this adventure back in September and this video is probably coming out in December so we actually don't know everything that's gone into the update but in some case somehow we're gonna make this as clear as possible to you all I don't know how that's gonna happen since we have no idea what's going on so let's go on an
+> you enjoy one thing I do want to mention is that we had to go on this adventure back in September and this video is probably coming out in December so we actually don't know everything that's gone into the update but in some case somehow we're gonna make this as clear as possible to you all I don't know how that's gonna happen since we have no idea what's going on so let's go on an adventure

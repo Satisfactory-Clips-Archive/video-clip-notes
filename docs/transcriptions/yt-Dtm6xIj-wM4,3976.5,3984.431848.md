@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3976&end=3985
 
 ### Transcript
 
-> satisfactory yes yep it's do the trailer it's in the trailer so I'm the site as
+> satisfactory yes yep it's do the trailer it's in the trailer so I'm the site as well so how the alpha testers done any

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> can we paint vehicles yes eventually the real question is can we paint lizard logger that's the real question no one's asking it
+> can we paint vehicles yes eventually the real question is can we paint lizard logger that's the real question no one's asking it where did the idea of satisfactory come

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> expectation when the full release of the game will be 20 20 21 or 22 not 20 20 could be 21 it may be 22 you know since we since we also don't know how much work is ahead of us it's kind of hard to
+> expectation when the full release of the game will be 20 20 21 or 22 not 20 20 could be 21 it may be 22 you know since we since we also don't know how much work is ahead of us it's kind of hard to predict will we ever be able to leave

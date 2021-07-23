@@ -20,4 +20,4 @@ https://youtube.com/embed/0kmDHBWf640?autoplay=1&start=364&end=552
 >
 > [Music]
 >
-> another really big thing that isn't going to be in this upgrade but will come in the future and that is we had a 16 color color palette on the color gun before because that was just a limitation we imposed on ourselves but if we only need to use one material per object and the custom data is on the object then that data could just be a color it could be any color and that means you could have infinite colors so this one thing gives us a massive performance increase and it's going to allow us to expand upon the color gun
+> another really big thing that isn't going to be in this upgrade but will come in the future and that is we had a 16 color color palette on the color gun before because that was just a limitation we imposed on ourselves but if we only need to use one material per object and the custom data is on the object then that data could just be a color it could be any color and that means you could have infinite colors so this one thing gives us a massive performance increase and it's going to allow us to expand upon the color gun now some of you might think well but i

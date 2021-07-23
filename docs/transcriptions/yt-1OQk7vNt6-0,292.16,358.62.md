@@ -30,4 +30,5 @@ what we need to make the game better. It's a really big game with many moving pa
 and we're pretty small team. So I think it's, to some degree, we must work with the community
 to make the game better. So it may be in some kind of like
 early accessy kind of state for some time, and yeah, we'll work with you guys
-to make it better.
+to make it better. And that's all the information
+we have about the Alpha, if you have any questions or concerns

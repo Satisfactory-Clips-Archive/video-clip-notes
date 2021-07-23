@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5103&end=5107
 
 ### Transcript
 
-> distracted me version control software do we use we
+> distracted me version control software do we use we use perforce what are the red dome things they are

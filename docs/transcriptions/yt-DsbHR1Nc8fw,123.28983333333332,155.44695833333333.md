@@ -24,4 +24,6 @@ https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156
 
 ### Transcript
 
-> here at our first location and a lot of people are still asking us about flying vehicles and drones or something like that and so in the spirit of that snoot and I we're gonna be sleeping in a plane there won't be planes in the game though but what we'll be in are some general updates that we're going to be adding to update number three and so that's gonna include multiplayer fixes more bug fixes UI overhauls rebalancing the game optimizations a lot of different things but before we do that let's just check
+> here at our first location and a lot of people are still asking us about flying vehicles and drones or something like that and so in the spirit of that snoot and I we're gonna be sleeping in a plane there won't be planes in the game though but what we'll be in are some general updates that we're going to be adding to update number three and so that's gonna include multiplayer fixes more bug fixes UI overhauls rebalancing the game optimizations a lot of different things but before we do that let's just check out this bad boy looking pretty good
+>
+> [Music]

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: November 10th, 
 
 ### Transcript
 
-> yeah we're based in Sweden we're in this little little town called Hebda in between the two big lakes it's still
+> yeah we're based in Sweden we're in this little little town called Hebda in between the two big lakes it's still pretty south let's do one of the bigger

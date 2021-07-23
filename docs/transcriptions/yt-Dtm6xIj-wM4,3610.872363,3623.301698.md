@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> see you character third-person did we touch on this so we're not gonna have three together basically it's not supported now we had it before maybe we'll have it later
+> see you character third-person did we touch on this so we're not gonna have three together basically it's not supported now we had it before maybe we'll have it later mmm there you go what's the biggest bug

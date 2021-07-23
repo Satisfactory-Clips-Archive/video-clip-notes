@@ -20,4 +20,4 @@ https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=46&end=57
 
 ### Transcript
 
-> so the gas that's coming is going to be nitrogen gas with it will be a new resource node type that you will extract the gas from and you will do that via a new
+> so the gas that's coming is going to be nitrogen gas with it will be a new resource node type that you will extract the gas from and you will do that via a new extraction method so there will be three kinds of resource welds

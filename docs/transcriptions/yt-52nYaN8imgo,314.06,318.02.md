@@ -17,3 +17,5 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=314&end=319
 ### Transcript
 
 > [Music]
+>
+> for the lidar data in the background

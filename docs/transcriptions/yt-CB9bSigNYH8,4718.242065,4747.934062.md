@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4718&end=4748
 
 ### Transcript
 
-> no idea no clue like ten ten units there we go this is better I have to go unlit though look now I can
+> no idea no clue like ten ten units there we go this is better I have to go unlit though look now I can see them 10 the whole units yeah

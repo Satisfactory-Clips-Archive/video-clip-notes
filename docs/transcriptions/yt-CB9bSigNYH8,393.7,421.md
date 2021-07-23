@@ -32,4 +32,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=393&end=421
 
 ### Transcript
 
-> so I've been working on decorating Caves specifically where I put stuff like stalagmites static tights some lights things like roots coming from the roof stuff like that like I had just done in this cave this is a cave that I have just finished at least for now so I'll
+> so I've been working on decorating Caves specifically where I put stuff like stalagmites static tights some lights things like roots coming from the roof stuff like that like I had just done in this cave this is a cave that I have just finished at least for now so I'll be moving on to an another one can I

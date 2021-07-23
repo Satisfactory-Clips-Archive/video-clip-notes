@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1792&end=1799
 
 ### Transcript
 
-> why not make a maze out of the caves who
+> why not make a maze out of the caves who says some caves aren't mazes no could

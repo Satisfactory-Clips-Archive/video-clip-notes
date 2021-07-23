@@ -16,4 +16,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=270&end=274
 
 ### Transcript
 
-> early access feature on the epic store
+> early access feature on the epic store yep do you think not revealing anything

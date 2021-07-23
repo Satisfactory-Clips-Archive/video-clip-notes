@@ -32,4 +32,4 @@ from transition from early to mid-game. The stages of the Alpha will also
 focus on starting points, that doesn't mean the map is not cut off but we really want to start you in one area, and see how do they play there, and how does the game develop
 in that starting area, and then move you to a different one,
 and then move you to a different one. But if you want to go for a walk to
-the other side of the map and start there, you can do that.
+the other side of the map and start there, you can do that. Will there be an NDA? There will be an NDA but it'll be a soft NDA,

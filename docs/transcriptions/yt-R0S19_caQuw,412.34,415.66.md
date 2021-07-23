@@ -16,4 +16,4 @@ https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=412&end=416
 
 ### Transcript
 
-> Not a question. &quot;You guys fixed the M.A.M. hard drive crash yet? Winky face.&quot; Yes.
+> Not a question. &quot;You guys fixed the M.A.M. hard drive crash yet? Winky face.&quot; Yes. SatisfactoryCN writes &quot;Are there plans to add more than seven tiers? Or will the tiers shuffle around more or is the team happy with how they are laid out right now?&quot;

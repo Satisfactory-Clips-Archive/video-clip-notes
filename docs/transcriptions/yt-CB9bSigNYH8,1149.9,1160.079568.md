@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1149&end=1161
 
 ### Transcript
 
-> yeah this is it's not a desert your we're under a waterfall it's fine if there's a route screwing here don't
+> yeah this is it's not a desert your we're under a waterfall it's fine if there's a route screwing here don't don't come up with logic keys this is a

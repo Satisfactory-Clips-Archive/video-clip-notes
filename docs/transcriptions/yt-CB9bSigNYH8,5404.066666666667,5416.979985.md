@@ -34,4 +34,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5404&end=5417
 
 ### Transcript
 
-> night day night cycle will be less in the day and we're in the night and I
+> night day night cycle will be less in the day and we're in the night and I think is this a game the kind of game

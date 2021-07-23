@@ -34,4 +34,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5307&end=5337
 
 ### Transcript
 
-> it let's see for example we want to make it bit more pale never come down or do we want to make it more maybe a lighter blue no that doesn't really work with the trees they're just doing something right now just to show you sort of what it what it's like there that's for
+> it let's see for example we want to make it bit more pale never come down or do we want to make it more maybe a lighter blue no that doesn't really work with the trees they're just doing something right now just to show you sort of what it what it's like there that's for example the color and how often will the

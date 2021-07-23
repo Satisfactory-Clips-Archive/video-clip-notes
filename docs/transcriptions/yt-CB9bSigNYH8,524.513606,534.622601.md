@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=524&end=535
 
 ### Transcript
 
-> there are definitely Easter eggs in the game of course we love putting those in and I won't tell you about them because
+> there are definitely Easter eggs in the game of course we love putting those in and I won't tell you about them because that's kind of defeats the purpose will you be able to use the map editor

@@ -14,4 +14,6 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1955&end=1967
 
 ### Transcript
 
-> well water effect items on the belts it would be cool if they got like a shine or like a new texture or maybe maybe I
+> well water effect items on the belts it would be cool if they got like a shine or like a new texture or maybe maybe I don't think it's in right now but maybe
+>
+> [Music]

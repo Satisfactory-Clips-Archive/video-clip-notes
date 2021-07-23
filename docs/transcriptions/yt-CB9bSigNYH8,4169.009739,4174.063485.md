@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4169&end=4175
 
 ### Transcript
 
-> that I go to I went to an HDTV in Breda
+> that I go to I went to an HDTV in Breda let's see see if there's any interesting

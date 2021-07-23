@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1131&end=1141
 
 ### Transcript
 
-> he building caves well you could try it's a cramped space but you know I won't stop you
+> he building caves well you could try it's a cramped space but you know I won't stop you it could be pretty cool okay let's see

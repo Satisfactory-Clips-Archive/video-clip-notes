@@ -14,4 +14,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=332&end=344
 
 ### Transcript
 
-> la-dee-da in the background la-de-da-de-da in the [ __ ] background the Galata die in the background like la-dee-da in the background [ __ ] I'm looking at you I should look in
+> la-dee-da in the background la-de-da-de-da in the [ __ ] background the Galata die in the background like la-dee-da in the background [ __ ] I'm looking at you I should look in there right so do I look at you or do I

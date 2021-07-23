@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3219&end=3266
 
 ### Transcript
 
-> from Vsauce oh yeah some people were saying why is Michael from Vsauce Michael here I'm sorry that was probably pretty loud in the mic or maybe not oh my god yeah yeah I'm not gonna hear that ever gave me I can't wait to grow my hair back yet now yeah you better cuz you need a new disguise oh that's why them can sing
+> from Vsauce oh yeah some people were saying why is Michael from Vsauce Michael here I'm sorry that was probably pretty loud in the mic or maybe not oh my god yeah yeah I'm not gonna hear that ever gave me I can't wait to grow my hair back yet now yeah you better cuz you need a new disguise oh that's why them can sing glasses how many load levels you use

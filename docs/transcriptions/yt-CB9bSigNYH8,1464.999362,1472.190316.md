@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1464&end=1473
 
 ### Transcript
 
-> level designs me well that's it that's
+> level designs me well that's it that's that's an interesting thought probably like twice as big as the player

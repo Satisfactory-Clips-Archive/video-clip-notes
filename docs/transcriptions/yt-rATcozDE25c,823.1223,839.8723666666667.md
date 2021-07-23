@@ -16,4 +16,4 @@ https://youtube.com/embed/rATcozDE25c?autoplay=1&start=823&end=840
 
 ### Transcript
 
-> was cool what are the community managers favorite dinosaurs so mine is the archaeopteryx and snoots is uh i mean the dude's vanilla as [ __ ] all right like he's like stegosaurus or a velociraptor
+> was cool what are the community managers favorite dinosaurs so mine is the archaeopteryx and snoots is uh i mean the dude's vanilla as [ __ ] all right like he's like stegosaurus or a velociraptor boring is the poison gas going to be

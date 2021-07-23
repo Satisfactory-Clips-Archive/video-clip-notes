@@ -16,4 +16,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=292&end=318
 
 ### Transcript
 
-> do the people at coffee-stained even used the epic launcher as gamers yeah of course we have it do you guys know play for at night yeah we are all gamers here some of us are we play a lot of games some of us are filthy casuals some of those have lower slayer levels than 80 and rinse cape some of us like Steam some don't some of us like the epic launcher some don't we're just gamers like you are so
+> do the people at coffee-stained even used the epic launcher as gamers yeah of course we have it do you guys know play for at night yeah we are all gamers here some of us are we play a lot of games some of us are filthy casuals some of those have lower slayer levels than 80 and rinse cape some of us like Steam some don't some of us like the epic launcher some don't we're just gamers like you are so everyone is different but do your evil

@@ -15,3 +15,5 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=58&end=67
 ### Transcript
 
 > [Applause]
+>
+> [Laughter]

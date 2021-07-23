@@ -14,4 +14,4 @@ https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=231&end=238
 
 ### Transcript
 
-> cat sprites at the moment since there are sprites will this affect the hitboxes no I don't think so or maybe they do it but probably not
+> cat sprites at the moment since there are sprites will this affect the hitboxes no I don't think so or maybe they do it but probably not let's just say no there are there actual

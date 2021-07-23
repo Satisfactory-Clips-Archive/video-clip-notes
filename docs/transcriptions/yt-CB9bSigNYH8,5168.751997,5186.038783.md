@@ -34,4 +34,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5168&end=5187
 
 ### Transcript
 
-> so for example these tables here because sort of control the coloring and the density of the fog and stuff like that so we are currently at 12 in the
+> so for example these tables here because sort of control the coloring and the density of the fog and stuff like that so we are currently at 12 in the afternoon what about snow in the games

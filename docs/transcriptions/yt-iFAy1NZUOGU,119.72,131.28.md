@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> remove them will there be steam achievements yeah most likely but we're definitely not gonna have it during the Alpha and whatnot because you know there bugs or imbalances it'll be too easy to exploit the steam achievements so
+> remove them will there be steam achievements yeah most likely but we're definitely not gonna have it during the Alpha and whatnot because you know there bugs or imbalances it'll be too easy to exploit the steam achievements so probably down the line below it was everything in the vehicle dev blog all

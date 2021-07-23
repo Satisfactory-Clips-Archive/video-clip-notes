@@ -14,4 +14,4 @@ https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=18&end=38
 
 ### Transcript
 
-> so we've confirmed before that there's going to be an eighth tier in satisfactory we've not given any other information about that and i don't think we had confirmed that it's coming in update 4. but that's right tier eight will be arriving in update number four and so now i'm not just gonna tell you that and leave you i'm actually gonna give you a bunch of uh
+> so we've confirmed before that there's going to be an eighth tier in satisfactory we've not given any other information about that and i don't think we had confirmed that it's coming in update 4. but that's right tier eight will be arriving in update number four and so now i'm not just gonna tell you that and leave you i'm actually gonna give you a bunch of uh new information about that as well oh and before i forget just a quick update

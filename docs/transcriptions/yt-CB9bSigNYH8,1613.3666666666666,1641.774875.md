@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 20th,
 
 ### Transcript
 
-> as for the question of why we chose Hugh's manual building of the levels instead of procedural generation I'm not entirely sure because I wasn't there for that decision process but I think the idea was that procedural generation at the time seemed to be a lot more effort for the work that we're putting into may be retroactive Lee we can say that it could have been better but honestly
+> as for the question of why we chose Hugh's manual building of the levels instead of procedural generation I'm not entirely sure because I wasn't there for that decision process but I think the idea was that procedural generation at the time seemed to be a lot more effort for the work that we're putting into may be retroactive Lee we can say that it could have been better but honestly we're we're managing pretty fine I'm also I'm not the only level design

@@ -16,4 +16,5 @@ https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=92&end=103
 
 > How long will the Alpha last? It really kind of depends, the feedback
 we get is really gonna dictate how the Alpha really is gonna run.
-We're going to be very reactive. So answering this question is kind of hard. What is this election process gonna be like?
+We're going to be very reactive. So answering this question is kind of hard. What is this election process gonna be like? All the people who signed up for the newsletter
+at satisfactorygame.com

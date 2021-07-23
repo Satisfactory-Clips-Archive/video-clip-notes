@@ -14,4 +14,4 @@ https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=15&end=40
 
 ### Transcript
 
-> is a say yesterday I did a live stream on our Twitch you can follow us on Twitch which is twitch.tv slash coffee stain studios Deb's put a link in the description below and I streamed me editing the next develop a highlight video which is focused on Hana a level designer so that was me just doing some
+> is a say yesterday I did a live stream on our Twitch you can follow us on Twitch which is twitch.tv slash coffee stain studios Deb's put a link in the description below and I streamed me editing the next develop a highlight video which is focused on Hana a level designer so that was me just doing some video editing but we've done a couple other streams we want to do more but we

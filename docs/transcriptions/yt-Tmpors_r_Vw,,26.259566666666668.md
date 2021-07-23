@@ -22,4 +22,4 @@ https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27
 
 ### Transcript
 
-> let's go okay hey everyone my name is jason i'm the community manager at coffee stain studios and today i'm going to be talking to you all about the feature teaser trailer last week where we released a feature teaser trailer that revealed the power storage and if you had a keen eye you would have seen a power switch as well so i'm going to talk about those two things plus some you know changes that are coming to power in update four as well okay so
+> let's go okay hey everyone my name is jason i'm the community manager at coffee stain studios and today i'm going to be talking to you all about the feature teaser trailer last week where we released a feature teaser trailer that revealed the power storage and if you had a keen eye you would have seen a power switch as well so i'm going to talk about those two things plus some you know changes that are coming to power in update four as well okay so let's get into it i'll start with the power switch because it's easier to explain

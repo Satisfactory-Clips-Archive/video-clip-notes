@@ -14,4 +14,4 @@ https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=30&end=61
 
 ### Transcript
 
-> did this on my TV once so you could actually target because they're ready if your UI is that like the entire experience becomes bad it's the glue between the designer and the player for example you're you're out to go to this mission and you know you have no idea how to get there but you open up your map and it's just absolute to use I'm sorry so then you're probably going
+> did this on my TV once so you could actually target because they're ready if your UI is that like the entire experience becomes bad it's the glue between the designer and the player for example you're you're out to go to this mission and you know you have no idea how to get there but you open up your map and it's just absolute to use I'm sorry so then you're probably going to quit this really screwed it we have like some exploration and like

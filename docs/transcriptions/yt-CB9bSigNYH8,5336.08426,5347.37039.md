@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5336&end=5348
 
 ### Transcript
 
-> map be updated again no idea what we're exactly gonna do with updates just want to get the game finished first but the map is still under construction for sure
+> map be updated again no idea what we're exactly gonna do with updates just want to get the game finished first but the map is still under construction for sure right now like fog height we can might

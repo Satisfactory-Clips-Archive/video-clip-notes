@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 6th, 2021
 
 ### Transcript
 
-> add it into the game is there a weather
+> add it into the game is there a weather in the game nope will they be pollution

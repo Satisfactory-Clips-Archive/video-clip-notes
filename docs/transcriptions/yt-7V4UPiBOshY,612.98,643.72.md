@@ -16,4 +16,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=612&end=644
 
 ### Transcript
 
-> the payment options for Epic Games store so I don't think anyone actually asked this question but I do remember seeing that some people said but the game story epic game store doesn't take credit cards in my region and that's pretty bad so I went online and I went to check more information but I got distracted by the fact that you can pay via subway gift card instead of by your footlong meatball sub with cheddar cheese you could just buy a game
+> the payment options for Epic Games store so I don't think anyone actually asked this question but I do remember seeing that some people said but the game story epic game store doesn't take credit cards in my region and that's pretty bad so I went online and I went to check more information but I got distracted by the fact that you can pay via subway gift card instead of by your footlong meatball sub with cheddar cheese you could just buy a game did I just give the prize away your community manager is unprofessional you

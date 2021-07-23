@@ -19,3 +19,5 @@ https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=96&end=112
 > we do and if we group them all up into one big content update patch then we only have to test that one
 >
 > [Music]
+>
+> so that's kind of why we hold off for an

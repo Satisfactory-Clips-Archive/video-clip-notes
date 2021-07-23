@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3370&end=3376
 
 ### Transcript
 
-> if you don't speak German give me an
+> if you don't speak German give me an alpha team name there we go

@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=766&end=773
 
 ### Transcript
 
-> the specs of the PC I'm working on honestly hey you don't know but it's a
+> the specs of the PC I'm working on honestly hey you don't know but it's a pretty good one who creates the decorations and assets

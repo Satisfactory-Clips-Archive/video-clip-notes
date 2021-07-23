@@ -16,4 +16,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1062&end=1074
 
 ### Transcript
 
-> another question which is really quick for J's plushies win and what's the actual story behind blame Simon sir behind hashtag William Simon is Simon's fault all the time plushies we're
+> another question which is really quick for J's plushies win and what's the actual story behind blame Simon sir behind hashtag William Simon is Simon's fault all the time plushies we're working on it okay Hannah resources do

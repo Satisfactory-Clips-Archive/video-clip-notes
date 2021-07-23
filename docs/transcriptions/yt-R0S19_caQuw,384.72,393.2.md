@@ -17,3 +17,5 @@ This question was possibly duplicated with a more recent answer: [June 8th, 2020
 ### Transcript
 
 > TheTitan84 writes &quot;If I buy the game on the Epic games story now can I have it moved to my Steam account when you do a full release and the exclusivity deal is over?&quot; I don't know.
+>
+> Omni snuck in two questions. Number 1: &quot;Is the one year Epic store exclusivity one year from

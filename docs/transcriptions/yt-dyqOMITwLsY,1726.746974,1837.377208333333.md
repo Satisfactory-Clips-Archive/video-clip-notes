@@ -20,4 +20,4 @@ https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1726&end=1838
 >
 > [Music]
 >
-> so we just make an approximation from looking at the belt because if you hover on the item you're not getting the item either so it's it's really based on the belt itself yeah um instead and i guess we cannot make thousands of hitboxes for that all the time yeah just not doable and i guess that's the limitation of doing it this way it's just that it's not like i said it's not an actual object in the world it's part of the belt so to speak yeah it's abstract data being represented yeah cool
+> so we just make an approximation from looking at the belt because if you hover on the item you're not getting the item either so it's it's really based on the belt itself yeah um instead and i guess we cannot make thousands of hitboxes for that all the time yeah just not doable and i guess that's the limitation of doing it this way it's just that it's not like i said it's not an actual object in the world it's part of the belt so to speak yeah it's abstract data being represented yeah cool so what's what's coming in the future

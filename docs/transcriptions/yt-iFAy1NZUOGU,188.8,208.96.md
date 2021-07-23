@@ -14,4 +14,4 @@ https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=188&end=209
 
 ### Transcript
 
-> arachnophobia mode okay so for those of you who don't know what a rack no phobia mode is that was actually something that was outlined in our FAQ on our website what it is is if you have wreckin phobia for example or can't handle big spider like creatures in games you can go into gameplay options and turn on a recce phobia mode and it switches out spiders
+> arachnophobia mode okay so for those of you who don't know what a rack no phobia mode is that was actually something that was outlined in our FAQ on our website what it is is if you have wreckin phobia for example or can't handle big spider like creatures in games you can go into gameplay options and turn on a recce phobia mode and it switches out spiders with sprites of cute cats what if I'm also afraid of cats what about changing

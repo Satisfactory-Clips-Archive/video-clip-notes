@@ -14,4 +14,4 @@ https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=118&end=133
 
 ### Transcript
 
-> one of those is core content updates um those are updates to actually to the factory like the packager it's a building uh that serves a certain purpose and now it's released and practically done
+> one of those is core content updates um those are updates to actually to the factory like the packager it's a building uh that serves a certain purpose and now it's released and practically done then we also have

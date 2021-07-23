@@ -16,4 +16,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=88&end=93
 
 ### Transcript
 
-> have you been there the whole time
+> have you been there the whole time yeah hi my name is Newt I'm 57 years old

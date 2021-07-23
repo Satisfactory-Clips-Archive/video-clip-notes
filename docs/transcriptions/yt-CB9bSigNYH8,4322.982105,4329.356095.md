@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4322&end=4330
 
 ### Transcript
 
-> the Alpha is pretty small small Wow
+> the Alpha is pretty small small Wow clear players or it's smart to be a bit more irregular

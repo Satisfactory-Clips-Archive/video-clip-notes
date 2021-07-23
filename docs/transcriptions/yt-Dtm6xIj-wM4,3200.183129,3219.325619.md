@@ -16,4 +16,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3200&end=3220
 
 ### Transcript
 
-> items exist oh you like to greater than 1 greater than yes that's it's a lot of items basically yeah a lot of buildings
+> items exist oh you like to greater than 1 greater than yes that's it's a lot of items basically yeah a lot of buildings did not count no it looks like Michael

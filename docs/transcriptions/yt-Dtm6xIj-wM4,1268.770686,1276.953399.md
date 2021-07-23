@@ -20,4 +20,4 @@ This question was possibly replaced with a more recent answer: [January 19th, 20
 
 ### Transcript
 
-> will they be underground subterranean areas of the map there there are caves but depending on the context
+> will they be underground subterranean areas of the map there there are caves but depending on the context I saw someone asking about what tools

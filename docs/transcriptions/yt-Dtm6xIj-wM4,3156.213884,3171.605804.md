@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3156&end=3172
 
 ### Transcript
 
-> not what I didn't get it no I get it my key well not alpha key to your heart a surprise but I think you guys same
+> not what I didn't get it no I get it my key well not alpha key to your heart a surprise but I think you guys same yeah definitely bribery what happens to player eventually when they are run over

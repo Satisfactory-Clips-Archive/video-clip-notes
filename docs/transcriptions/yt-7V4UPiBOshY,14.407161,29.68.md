@@ -14,4 +14,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=14&end=30
 
 ### Transcript
 
-> studios and recently you may have heard that satisfactory will be an epic game store exclusive title a lot of people all over the Internet's had questions about that so I'm going to answer them for you now it's gonna be a long video
+> studios and recently you may have heard that satisfactory will be an epic game store exclusive title a lot of people all over the Internet's had questions about that so I'm going to answer them for you now it's gonna be a long video so let's just jump it let's go who forced you to do this

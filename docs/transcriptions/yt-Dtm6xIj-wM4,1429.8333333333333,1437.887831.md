@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 3rd, 
 
 ### Transcript
 
-> planned yo dude we haven't even released yet yeah I don't even thinking about it
+> planned yo dude we haven't even released yet yeah I don't even thinking about it can we have some gameplay we're not

@@ -24,4 +24,6 @@ put out some fires and then restart it later. We really just have to react to wh
 what's gonna happen, and also as mentioned in a previous,
 I think it was a Q&amp;A, the Alpha will actually be in stages, and one of the things about the stages is
 as those stages progress we're going to be taking more people in as well. So if you didn't get in at the beginning, you may get in
-at one of those extra stages, too.
+at one of those extra stages, too. But what if I still don't get an alpha key?
+>
+> [ sad piano music ]

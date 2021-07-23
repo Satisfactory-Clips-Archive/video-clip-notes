@@ -14,4 +14,4 @@ https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=893&end=929
 
 ### Transcript
 
-> things like this you just die who suffer dust animation and I go in and add the effects like this to its spark he used the doll the VFX himself kidding yeah yeah you did and he's so he's so good and Christopher is our animator we've done a developer highlight on him maybe I'll remember to put it thing up here and he's crazy he did like all the animations in the game and all the VFX up until Simon started helping out or so I was taken over the VFX man but yeah yeah he's super talented he's super talented guy yeah
+> things like this you just die who suffer dust animation and I go in and add the effects like this to its spark he used the doll the VFX himself kidding yeah yeah you did and he's so he's so good and Christopher is our animator we've done a developer highlight on him maybe I'll remember to put it thing up here and he's crazy he did like all the animations in the game and all the VFX up until Simon started helping out or so I was taken over the VFX man but yeah yeah he's super talented he's super talented guy yeah yeah absolutely that's that thing and

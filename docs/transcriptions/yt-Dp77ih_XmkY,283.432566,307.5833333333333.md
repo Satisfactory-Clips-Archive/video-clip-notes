@@ -20,4 +20,4 @@ https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=283&end=308
 use of the Power Storage as well Right, Snutt? No Oh... Just kidding We've actually changed it so that power generators
 are no longer self-regulating Previously generators would only produce as much
 power as the factory was consuming But generators now always produce the
-full amount of power With the exception of Biomass Burners And this will mean you will likely produce excess power Which can be saved up in Power Storages Geothermal is getting a change too
+full amount of power With the exception of Biomass Burners And this will mean you will likely produce excess power Which can be saved up in Power Storages Geothermal is getting a change too Instead of providing a static amount of power

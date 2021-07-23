@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 6th, 2021
 
 ### Transcript
 
-> completely unimportant will there be weather changes would look cool to have like a roof of your head I guess when rains hitting it or whatever maybe in some effects on machines it's really unimportant it's a good question and I also asked the director about this and we do want it because it would be great to have it's just it's one of those things that depends on priority so what they're saying here is maybe a yes but don't
+> completely unimportant will there be weather changes would look cool to have like a roof of your head I guess when rains hitting it or whatever maybe in some effects on machines it's really unimportant it's a good question and I also asked the director about this and we do want it because it would be great to have it's just it's one of those things that depends on priority so what they're saying here is maybe a yes but don't know when definitely a cool idea that I've bought a copy on epic game store I

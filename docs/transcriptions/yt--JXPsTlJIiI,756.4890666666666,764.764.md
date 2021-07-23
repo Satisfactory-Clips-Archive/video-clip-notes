@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [March 16th, 2021
 
 ### Transcript
 
-> yeah we plan on it one day there's gonna be lights all right they're hard to make we're gonna we're gonna make the lights they'll be in the game one day
+> yeah we plan on it one day there's gonna be lights all right they're hard to make we're gonna we're gonna make the lights they'll be in the game one day we're looking into it if you were a satisfactory building what building

@@ -18,4 +18,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=412&end=415
 
 ### Transcript
 
-> that's what we went with is the alpha
+> that's what we went with is the alpha being done via epic yep but epic

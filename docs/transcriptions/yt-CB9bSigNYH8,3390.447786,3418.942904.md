@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [July 16th, 202
 
 > [Music]
 >
-> MOT support is something that we've been thinking about and that's been taken into accounts when when making the game from the start it's not something we've given a lot of attention to lately so it's not something that will be there immediately but we definitely want it in and the foundation for it is there but it is quite a lot of work to include that into the game and we just want the
+> MOT support is something that we've been thinking about and that's been taken into accounts when when making the game from the start it's not something we've given a lot of attention to lately so it's not something that will be there immediately but we definitely want it in and the foundation for it is there but it is quite a lot of work to include that into the game and we just want the foundation finish that nine is very aggressive well you

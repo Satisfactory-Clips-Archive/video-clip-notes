@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [November 3rd, 20
 
 ### Transcript
 
-> epic will there be cross-platform can I play multiplayer with my friends between Steam and epic yeah yes yeah we're gonna make it uh-huh now the thing with that is we're like 99% sure we're gonna have cross-platform and I'm pretty sure we're gonna have it the only thing is how that's gonna look and how it's gonna work is a little bit up in the air as we continue to develop it now so I can't give you any more information on how that will work and yeah so in the future we'll probably do more information on
+> epic will there be cross-platform can I play multiplayer with my friends between Steam and epic yeah yes yeah we're gonna make it uh-huh now the thing with that is we're like 99% sure we're gonna have cross-platform and I'm pretty sure we're gonna have it the only thing is how that's gonna look and how it's gonna work is a little bit up in the air as we continue to develop it now so I can't give you any more information on how that will work and yeah so in the future we'll probably do more information on that okay so that's most of the

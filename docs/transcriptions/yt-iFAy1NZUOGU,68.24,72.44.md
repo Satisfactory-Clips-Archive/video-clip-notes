@@ -14,4 +14,4 @@ https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=68&end=73
 
 ### Transcript
 
-> the alpha can we buy into it
+> the alpha can we buy into it no and no how many buildings will there

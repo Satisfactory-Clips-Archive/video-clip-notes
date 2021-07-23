@@ -16,4 +16,4 @@ https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=211&end=227
 
 ### Transcript
 
-> the steam version run game run on Linux either native or with proton not native whether it runs with ports on or not I don't know I we haven't put any time or effort or looked into it so I don't
+> the steam version run game run on Linux either native or with proton not native whether it runs with ports on or not I don't know I we haven't put any time or effort or looked into it so I don't probably not see another good question what does one point it looked like

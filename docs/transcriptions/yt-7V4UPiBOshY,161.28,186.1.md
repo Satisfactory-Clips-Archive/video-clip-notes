@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [January 22nd, 20
 
 ### Transcript
 
-> a timed exclusive deal yeah it's actually a timed exclusive deal it is twelve months long and then after that we can put the game wherever we want whether we will or not I don't know I don't want to tell you after twelve months it'll be on Steam and then like maybe we just choose not to put it on Steam I don't know we have no plans regarding that so please don't really have any expectations there but the the deal is twelve months long and then who
+> a timed exclusive deal yeah it's actually a timed exclusive deal it is twelve months long and then after that we can put the game wherever we want whether we will or not I don't know I don't want to tell you after twelve months it'll be on Steam and then like maybe we just choose not to put it on Steam I don't know we have no plans regarding that so please don't really have any expectations there but the the deal is twelve months long and then who knows what happens after that but I hate

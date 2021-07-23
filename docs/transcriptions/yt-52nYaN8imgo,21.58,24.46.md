@@ -16,4 +16,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25
 
 ### Transcript
 
-> here we go
+> here we go go for it dude coffee stain looking for

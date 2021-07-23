@@ -14,4 +14,4 @@ https://youtube.com/embed/rATcozDE25c?autoplay=1&start=134&end=138
 
 ### Transcript
 
-> is how are you
+> is how are you dead inside next question do you have a timeline on when you want to start

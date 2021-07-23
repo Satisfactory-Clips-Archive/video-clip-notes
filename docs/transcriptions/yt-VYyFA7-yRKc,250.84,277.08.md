@@ -14,4 +14,4 @@ https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=250&end=278
 
 ### Transcript
 
-> january since we're speaking about like bigger updates something that has come up the i want to talk about a little bit is like how many more updates are we doing because some people have been like suspecting like update 4 is like the last big update before we release 1.0 or maybe like the second to last or something and that's not the case i mean probably we do change our minds but yeah probably uh there's lots of stuff still to do so there'll be
+> january since we're speaking about like bigger updates something that has come up the i want to talk about a little bit is like how many more updates are we doing because some people have been like suspecting like update 4 is like the last big update before we release 1.0 or maybe like the second to last or something and that's not the case i mean probably we do change our minds but yeah probably uh there's lots of stuff still to do so there'll be more updates sorry one second just lots of talking

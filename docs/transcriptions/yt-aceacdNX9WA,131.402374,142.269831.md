@@ -18,4 +18,4 @@ https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143
 
 ### Transcript
 
-> we've also reworked the hand slot it is now a tool belt that can hold multiple items that you can switch between the number of items it can hold depends on how much you have
+> we've also reworked the hand slot it is now a tool belt that can hold multiple items that you can switch between the number of items it can hold depends on how much you have upgraded the tool belt we've also added

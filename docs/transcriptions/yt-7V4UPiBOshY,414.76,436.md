@@ -16,4 +16,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=414&end=436
 
 ### Transcript
 
-> launcher doesn't have insert feature the epic launcher is still being developed it's brand new and you know we can see it being developed as we work alongside epic so if there's a feature that you want and the epic store doesn't have that yet there's a good chance that it's gonna be added in the future for example like achievements will be there and I
+> launcher doesn't have insert feature the epic launcher is still being developed it's brand new and you know we can see it being developed as we work alongside epic so if there's a feature that you want and the epic store doesn't have that yet there's a good chance that it's gonna be added in the future for example like achievements will be there and I think reviews will be there as well but look what epic did with other games I

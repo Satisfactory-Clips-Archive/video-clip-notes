@@ -22,4 +22,5 @@ the best computer in the universe, and you've played a million hours
 of other games like Satisfactory, that's not gonna give you a
 better chance of getting in, because we want a wide range of people. So please just be honest, if you lie it just means we're not going to be getting the sample of people that we want and
 we won't be able to make the game better. So please be honest. People who are selected are gonna get an email
-sent to them with all the information they need to join the Alpha. Will the Alpha be single-player or multiplayer?
+sent to them with all the information they need to join the Alpha. Will the Alpha be single-player or multiplayer? We did previously say that
+there would be multiplayer in the Alpha

@@ -14,4 +14,4 @@ https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=151&end=171
 
 ### Transcript
 
-> on other things ongoing like for example the story we still need to work on that to make sure that it's the best story that we can deliver we need to be working on it and we're working on it now but you won't be seeing that so there's time happening development time behind the scenes that you won't see the fruits off until much later
+> on other things ongoing like for example the story we still need to work on that to make sure that it's the best story that we can deliver we need to be working on it and we're working on it now but you won't be seeing that so there's time happening development time behind the scenes that you won't see the fruits off until much later other types of things that we're working

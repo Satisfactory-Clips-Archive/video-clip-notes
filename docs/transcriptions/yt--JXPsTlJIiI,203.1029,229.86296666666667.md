@@ -20,4 +20,4 @@ https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=203&end=230
 
 ### Transcript
 
-> be more types of foundation shapes will there be added functionality such as rotating on other axes we plan on giving you more options with foundations and walls and this is going to be a super vague answer here but whether we do that by making more things or whether we do that by changing the way things work is something that we don't really know yet but um foundations and walls and building functionalities is not done completely as it is there there's probably going to be some changes to that
+> be more types of foundation shapes will there be added functionality such as rotating on other axes we plan on giving you more options with foundations and walls and this is going to be a super vague answer here but whether we do that by making more things or whether we do that by changing the way things work is something that we don't really know yet but um foundations and walls and building functionalities is not done completely as it is there there's probably going to be some changes to that um in the future will train to be

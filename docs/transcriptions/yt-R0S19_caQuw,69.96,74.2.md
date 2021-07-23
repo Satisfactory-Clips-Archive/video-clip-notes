@@ -14,4 +14,4 @@ https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=69&end=75
 
 ### Transcript
 
-> No. Well are there any perks for pre-purchase? There are no perks for pre-purchase.
+> No. Well are there any perks for pre-purchase? There are no perks for pre-purchase. Well then why would I pre-purchase? Because you love us and you're excited

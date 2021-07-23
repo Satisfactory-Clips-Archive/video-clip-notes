@@ -16,4 +16,4 @@ https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=319&end=328
 
 ### Transcript
 
-> We're also adding Power Switches that can be used to enable and disable the connection between parts of the power grid And you can name them for better organisation Ooh! I think I got it!
+> We're also adding Power Switches that can be used to enable and disable the connection between parts of the power grid And you can name them for better organisation Ooh! I think I got it! Ah shit...

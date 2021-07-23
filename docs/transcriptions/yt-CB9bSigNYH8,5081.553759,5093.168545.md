@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5081&end=5094
 
 ### Transcript
 
-> when I studied in verdad did I I think I would work in this kind of break project I had no idea where I was gonna end up how things were gonna be I I was
+> when I studied in verdad did I I think I would work in this kind of break project I had no idea where I was gonna end up how things were gonna be I I was clueless

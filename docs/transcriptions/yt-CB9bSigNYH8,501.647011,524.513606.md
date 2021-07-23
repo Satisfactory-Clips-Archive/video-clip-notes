@@ -18,4 +18,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=501&end=525
 
 ### Transcript
 
-> different resources not really foliage is a thing but different biomes don't necessarily have different resources but there might be by biomes that work better for certain resources so you might find some assets that
+> different resources not really foliage is a thing but different biomes don't necessarily have different resources but there might be by biomes that work better for certain resources so you might find some assets that relate to that around there and yes

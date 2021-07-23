@@ -16,4 +16,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=194&end=202
 
 ### Transcript
 
-> schnitz a little baby over here then people kick the tires you kick a tire
+> schnitz a little baby over here then people kick the tires you kick a tire and it's like a good car yeah we got

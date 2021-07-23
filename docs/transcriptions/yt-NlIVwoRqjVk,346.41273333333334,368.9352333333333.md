@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 16th, 202
 
 ### Transcript
 
-> intend to use the Steam Workshop in any way we have to wait until with the amount support for that and then we'll figure it out it makes some sense it also doesn't in some ways in that we're gonna have people in other platforms like epic potentially others who knows who may not have workshop to work with but maybe we also put workshop right because it's it's nice for those who are in steam
+> intend to use the Steam Workshop in any way we have to wait until with the amount support for that and then we'll figure it out it makes some sense it also doesn't in some ways in that we're gonna have people in other platforms like epic potentially others who knows who may not have workshop to work with but maybe we also put workshop right because it's it's nice for those who are in steam we'll see I will to be a sale when it

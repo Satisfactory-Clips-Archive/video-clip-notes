@@ -18,4 +18,4 @@ https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=170&end=211
 >
 > [Music]
 >
-> dedicated servers is its own big topic something that is super important for us to finish and also getting official mod support in all those topics we also need to address and want to address before satisfactory
+> dedicated servers is its own big topic something that is super important for us to finish and also getting official mod support in all those topics we also need to address and want to address before satisfactory is released in 1.0 so let's talk a little bit about that

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> enemies and a giant mech suit to fight them in mark thinks the uh mexico will never happen uh
+> enemies and a giant mech suit to fight them in mark thinks the uh mexico will never happen uh he's wrong of course also big crab will combat be expanded upon

@@ -14,4 +14,4 @@ https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=55&end=68
 
 ### Transcript
 
-> I pre-purchased Satisfactory but it's not appearing in my game library. No it is not and that is simply because it hasn't been released yet. So when we release it it'll appear in your game library and then you can download the game and enjoy.
+> I pre-purchased Satisfactory but it's not appearing in my game library. No it is not and that is simply because it hasn't been released yet. So when we release it it'll appear in your game library and then you can download the game and enjoy. Can I pre-download the game? No. Well are there any perks for pre-purchase?

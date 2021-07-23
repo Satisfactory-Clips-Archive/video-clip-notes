@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2909&end=2938
 
 ### Transcript
 
-> requirements so far windows yes windows is a requirement we were we're probably gonna have different kinds of stuff like the platform we're currently using his windows just because it's the easiest for us to do at the moment cuz we're also we're not you know we're not done yet we're still in development but that
+> requirements so far windows yes windows is a requirement we were we're probably gonna have different kinds of stuff like the platform we're currently using his windows just because it's the easiest for us to do at the moment cuz we're also we're not you know we're not done yet we're still in development but that that list will grow I'm very certain say

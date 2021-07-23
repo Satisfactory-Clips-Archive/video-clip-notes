@@ -16,4 +16,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=116&end=127
 
 ### Transcript
 
-> keys what you you eat them like ice
+> keys what you you eat them like ice cream like ice cream [ __ ] [ __ ]

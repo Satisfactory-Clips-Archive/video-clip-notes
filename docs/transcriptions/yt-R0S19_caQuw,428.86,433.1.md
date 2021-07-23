@@ -19,3 +19,5 @@ This question was possibly replaced with a more recent answer: [October 27th, 20
 > serubi asks: &quot;Any plans to make jump pads adjustable?&quot;
 >
 > As far as I know, no plans.
+>
+> therealzohmygod writes: &quot;Any ETA on dedicated servers?&quot;

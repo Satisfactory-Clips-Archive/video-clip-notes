@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=385&end=394
 
 ### Transcript
 
-> glowing ball well you'll have to play
+> glowing ball well you'll have to play the game to find that one out all right

@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3720&end=3740
 
 ### Transcript
 
-> what was my first day at coffee stain like don't really remember per se I mean it's just mostly a lot of like played the game get familiar with it meet a whole bunch of new people it was nice it
+> what was my first day at coffee stain like don't really remember per se I mean it's just mostly a lot of like played the game get familiar with it meet a whole bunch of new people it was nice it was just a wreck or old first day here

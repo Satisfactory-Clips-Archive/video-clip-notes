@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: March 30th, 202
 
 ### Transcript
 
-> predict will we ever be able to leave the planet that it might be a great idea to mine an asteroid for high tech materials tier 8 plus maybe definitely sounds fun definitely sounds like we're
+> predict will we ever be able to leave the planet that it might be a great idea to mine an asteroid for high tech materials tier 8 plus maybe definitely sounds fun definitely sounds like we're not doing it sounds like a nightmare any chance of a holster key bind yeah this

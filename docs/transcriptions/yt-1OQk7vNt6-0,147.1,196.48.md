@@ -26,4 +26,4 @@ and crashes and whatnot, and that will probably just
 distract us from the feedback we really really need in the beginning. So that's you know, so we're cutting it out. However, we will introduce multiplayer later. We really do need to test it and make sure it's stable, make sure the gameplay is fun
 when you're playing with friends, so that will come, just a little later. And we're not trying to hide the fact that
 we don't have multiplayer, we do, it's just really about single-player
-feedback at this point.
+feedback at this point. Will all the tech be available in the Alpha?

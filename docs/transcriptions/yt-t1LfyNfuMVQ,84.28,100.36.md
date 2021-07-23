@@ -14,4 +14,4 @@ https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=84&end=101
 
 ### Transcript
 
-> added a feature so you can mass as mental buildings so if you want to wipe your whole factory it should be a bill to quicker this was a feature that I worked on a few weeks back on my dev stream and it's gonna be red I'm can't wait to hear what you guys think about
+> added a feature so you can mass as mental buildings so if you want to wipe your whole factory it should be a bill to quicker this was a feature that I worked on a few weeks back on my dev stream and it's gonna be red I'm can't wait to hear what you guys think about it alright so let's talk about safe

@@ -38,4 +38,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3090&end=3126
 
 ### Transcript
 
-> I think let's see if there's anything we're missing it's a for realism steak there isn't a lot of plant life above this cave maybe a little bit here so I'm no roots maybe cuz it's it is a desert so I think we're good also but that one's floating but that is not for me to fix and that's also in a different level that I cannot touch right now so good
+> I think let's see if there's anything we're missing it's a for realism steak there isn't a lot of plant life above this cave maybe a little bit here so I'm no roots maybe cuz it's it is a desert so I think we're good also but that one's floating but that is not for me to fix and that's also in a different level that I cannot touch right now so good luck mark do we deal with that who's my

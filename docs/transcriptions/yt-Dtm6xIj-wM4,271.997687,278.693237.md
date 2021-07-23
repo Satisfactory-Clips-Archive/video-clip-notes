@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=271&end=279
 
 ### Transcript
 
-> and question 1 what is wrong with your face is that you mom
+> and question 1 what is wrong with your face is that you mom sorry about that yeah someone's asking

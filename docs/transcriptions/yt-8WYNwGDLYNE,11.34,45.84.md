@@ -14,4 +14,4 @@ https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=11&end=46
 
 ### Transcript
 
-> you pronounce it the Dutch way I work mostly in level design and I also do some writing but mostly I make trees and rocks look nice together I am I'm currently the only level designer in the company but we used to be with to Gustav who left recently I learned a lot from him and now I'm taking over so that's very exciting and also very frightening no I'm solely in charge of both the world and the story it's cool I'm good
+> you pronounce it the Dutch way I work mostly in level design and I also do some writing but mostly I make trees and rocks look nice together I am I'm currently the only level designer in the company but we used to be with to Gustav who left recently I learned a lot from him and now I'm taking over so that's very exciting and also very frightening no I'm solely in charge of both the world and the story it's cool I'm good don't leave I pretty much started with

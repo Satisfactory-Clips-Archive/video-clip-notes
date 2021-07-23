@@ -14,4 +14,4 @@ https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=145&end=165
 
 ### Transcript
 
-> gonna be in the patch the next thing I want to talk about is mast dismantle so we're gonna have a new feature which is mass dismantle so you can clear out your factory much much quick oh my god much quicker and that is actually a feature that Snoke was making on the developer livestream so we'll hopefully have mass dismantle in it's actually already merged into the code and stuff
+> gonna be in the patch the next thing I want to talk about is mast dismantle so we're gonna have a new feature which is mass dismantle so you can clear out your factory much much quick oh my god much quicker and that is actually a feature that Snoke was making on the developer livestream so we'll hopefully have mass dismantle in it's actually already merged into the code and stuff so it should be should be in there the next thing is again it's another snits

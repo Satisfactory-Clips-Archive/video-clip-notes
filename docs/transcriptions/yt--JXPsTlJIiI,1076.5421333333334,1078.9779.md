@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> working from home will sam or ever be useful yes
+> working from home will sam or ever be useful yes how do you have your coffee and slash or

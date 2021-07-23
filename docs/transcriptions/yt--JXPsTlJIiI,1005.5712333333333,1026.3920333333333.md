@@ -14,4 +14,4 @@ https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1005&end=1027
 
 ### Transcript
 
-> australia or is sweden better so for those of you who don't know i'm australian so i grew up there uh but i live in sweden because that's where coffee stain is and i've been living here for a while um but i don't really miss australia i i don't like have a thing against australia or anything like that i like australia it's a great place but i don't i don't really miss it i'm i'm happy here in sweden
+> australia or is sweden better so for those of you who don't know i'm australian so i grew up there uh but i live in sweden because that's where coffee stain is and i've been living here for a while um but i don't really miss australia i i don't like have a thing against australia or anything like that i like australia it's a great place but i don't i don't really miss it i'm i'm happy here in sweden will there be new biomes uh well we can

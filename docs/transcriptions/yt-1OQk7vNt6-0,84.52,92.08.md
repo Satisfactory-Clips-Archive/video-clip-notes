@@ -18,4 +18,5 @@ https://youtube.com/embed/1OQk7vNt6-0?autoplay=1&start=84&end=93
 >
 > [ sad piano music ]
 >
-> How long will the Alpha last?
+> How long will the Alpha last? It really kind of depends, the feedback
+we get is really gonna dictate

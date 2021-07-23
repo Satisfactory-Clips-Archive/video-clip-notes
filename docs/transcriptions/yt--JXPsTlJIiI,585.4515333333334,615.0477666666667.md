@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [February 16th, 2
 
 ### Transcript
 
-> is there a plan for nuclear waste besides being used as lizard doggo treats so for that uh tim has all the answers please dm at timberlake on twitter uh he gave some of the answers on on stream a few weeks ago i think there's an update coming where you can you can do stuff with the toxic waste leak just comes out and says this [ __ ] he has all the information on that feel free to go and dm him
+> is there a plan for nuclear waste besides being used as lizard doggo treats so for that uh tim has all the answers please dm at timberlake on twitter uh he gave some of the answers on on stream a few weeks ago i think there's an update coming where you can you can do stuff with the toxic waste leak just comes out and says this [ __ ] he has all the information on that feel free to go and dm him and ask him are there any other plans

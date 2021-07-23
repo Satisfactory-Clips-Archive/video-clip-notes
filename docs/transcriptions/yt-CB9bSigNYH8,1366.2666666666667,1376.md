@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1366&end=1376
 
 ### Transcript
 
-> well it's not a story spoiler to say that there's not gonna be in another planet it's just giving you a sense of
+> well it's not a story spoiler to say that there's not gonna be in another planet it's just giving you a sense of the scale of the game chart player got

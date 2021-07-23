@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=371&end=379
 
 ### Transcript
 
-> absolutely why he's Jase the PR I ask
+> absolutely why he's Jase the PR I ask myself that every day Jimmy's lagging

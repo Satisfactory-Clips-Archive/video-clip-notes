@@ -14,4 +14,4 @@ https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=131&end=148
 
 ### Transcript
 
-> everything in the vehicle dev blog all that the vehicles could do no not at all there were a lot of features that were intentionally left out and we could make another dev blog video on those and those features are in the game or most of them are in the game it's not like we left them out because they're not done
+> everything in the vehicle dev blog all that the vehicles could do no not at all there were a lot of features that were intentionally left out and we could make another dev blog video on those and those features are in the game or most of them are in the game it's not like we left them out because they're not done or anything like that so is there research or tech tree in the game there

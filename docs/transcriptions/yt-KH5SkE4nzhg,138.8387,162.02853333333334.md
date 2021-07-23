@@ -16,4 +16,4 @@ https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=138&end=163
 
 ### Transcript
 
-> the next thing that's been affected is a turbo motor production line so the thing with turbo motors is that it's an incredibly complex part and that's good we we really like that however that sort of just means it doesn't work for tier vii anymore so we're gonna promote that up to tier viii as i was saying before or as mark said rather tier seven is supposed to be sort of this this new phase that's supposed to be more different rather than complex so turbo motors would fit better into tier eight than tier seven
+> the next thing that's been affected is a turbo motor production line so the thing with turbo motors is that it's an incredibly complex part and that's good we we really like that however that sort of just means it doesn't work for tier vii anymore so we're gonna promote that up to tier viii as i was saying before or as mark said rather tier seven is supposed to be sort of this this new phase that's supposed to be more different rather than complex so turbo motors would fit better into tier eight than tier seven so that's moving super computers

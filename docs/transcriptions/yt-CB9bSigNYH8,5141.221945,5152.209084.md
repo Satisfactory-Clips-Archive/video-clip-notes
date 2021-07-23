@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> terrain no the terrain is not editable by the player it's more of a challenge of making your factory work with the
+> terrain no the terrain is not editable by the player it's more of a challenge of making your factory work with the terrain rather than against it right after do this and then I could split it

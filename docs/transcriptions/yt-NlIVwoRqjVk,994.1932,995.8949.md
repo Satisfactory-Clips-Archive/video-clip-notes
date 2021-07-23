@@ -16,4 +16,4 @@ https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=994&end=996
 
 ### Transcript
 
-> you quit yes you have any rough
+> you quit yes you have any rough expectation when the full release of the

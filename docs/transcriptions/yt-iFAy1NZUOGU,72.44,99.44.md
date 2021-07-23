@@ -20,4 +20,4 @@ https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=72&end=100
 
 ### Transcript
 
-> be what kind of complexity can we expect yeah that's a little tough to answer given the way things are in satisfactory but the safe answer would be I counted about 24 unique buildings and that doesn't include foundations or vehicles or a couple other things as well as for complexity I mean I don't know I it's complex for me but I don't know how we we gauge that but with the number of buildings we have and the number of resources we have
+> be what kind of complexity can we expect yeah that's a little tough to answer given the way things are in satisfactory but the safe answer would be I counted about 24 unique buildings and that doesn't include foundations or vehicles or a couple other things as well as for complexity I mean I don't know I it's complex for me but I don't know how we we gauge that but with the number of buildings we have and the number of resources we have I think things get pretty complex how much will the game cost when it's

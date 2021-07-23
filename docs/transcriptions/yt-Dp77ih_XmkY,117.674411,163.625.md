@@ -28,4 +28,5 @@ Tier 7 to be a bit too complex Now I know everyone loves complexity But the goal
 and interesting recipes While the goal with Tier 8 is to take that knowledge And challenge you with more complex ones Some of the changes include: Battery production being reworked Bauxite refinement And aluminium production has been rebalanced
 to reduce complexity and scale And the amount of refineries! That's right Jace! We've also moved Turbo Motors and
 Supercomputers to Tier 8 And we've slightly changed recipes for parts such as: the radio control unit, alclad sheets, batteries, and
-iodine infused filters We're also adding nitrogen gas to the game
+iodine infused filters We're also adding nitrogen gas to the game Which can be extracted from a new resource node type
+we've added called &quot;Resource Wells&quot;

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 25th, 2
 
 ### Transcript
 
-> look at something outside what's rocket
+> look at something outside what's rocket I'm not sure what you're talking about

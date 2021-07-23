@@ -21,4 +21,4 @@ https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3055&end=3082
 
 ### Transcript
 
-> part of the part of the moor factory is also like um oh right the curved like windows here pretty neat so i made like a little watch tower here now you can stand there like president shinra from fun faces exactly exactly dude that's kind of what i was
+> part of the part of the moor factory is also like um oh right the curved like windows here pretty neat so i made like a little watch tower here now you can stand there like president shinra from fun faces exactly exactly dude that's kind of what i was thinking when i made this um

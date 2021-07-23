@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 25th, 2
 
 ### Transcript
 
-> can you make custom cars trucks maybe if
+> can you make custom cars trucks maybe if there are months if I buy an epic now

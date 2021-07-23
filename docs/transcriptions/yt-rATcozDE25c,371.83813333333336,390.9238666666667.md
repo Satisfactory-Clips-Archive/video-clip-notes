@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> will there be a one-to-one lizard doggo plushie probably not but that would be cool or like a statue or something that would be cool figurine or even better a real one we can just engineer one we'll get on to that right now we won't do consoles but we will dedicate resources to engineering and lizard dogger
+> will there be a one-to-one lizard doggo plushie probably not but that would be cool or like a statue or something that would be cool figurine or even better a real one we can just engineer one we'll get on to that right now we won't do consoles but we will dedicate resources to engineering and lizard dogger will there be any environmental

@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4144&end=4170
 
 ### Transcript
 
-> I'll assume that not look here a little bit of other stuff I actually don't have a lot of level design work to do besides cave at this point so and that way you don't get spoiled too much cuz you still want to just go out and explore and find out the world for yourselves and you know stuff like that
+> I'll assume that not look here a little bit of other stuff I actually don't have a lot of level design work to do besides cave at this point so and that way you don't get spoiled too much cuz you still want to just go out and explore and find out the world for yourselves and you know stuff like that it's what the games for what's school

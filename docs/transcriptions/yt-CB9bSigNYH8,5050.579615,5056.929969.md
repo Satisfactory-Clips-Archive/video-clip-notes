@@ -14,4 +14,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5050&end=5057
 
 ### Transcript
 
-> can you have your own pet in the game if
+> can you have your own pet in the game if you try hard enough they will love you this one unlock it so yeah ask your

@@ -14,4 +14,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=292&end=305
 
 ### Transcript
 
-> these mascots to remind me what happens if I work too long so that's me hmm that's my brain don't work too long kids
+> these mascots to remind me what happens if I work too long so that's me hmm that's my brain don't work too long kids they give the screen and then look at

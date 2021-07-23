@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239
 
 ### Transcript
 
-> hair yeah it's blue that's what I mean
+> hair yeah it's blue that's what I mean this Simon worked in the basement in the

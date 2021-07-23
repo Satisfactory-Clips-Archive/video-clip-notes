@@ -32,4 +32,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1868&end=1879
 
 ### Transcript
 
-> I'll just fix up the stalactites in this cave and then we'll move on to your another area and you'll be able to see a
+> I'll just fix up the stalactites in this cave and then we'll move on to your another area and you'll be able to see a bit more of the map again there we go

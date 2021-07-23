@@ -16,4 +16,4 @@ https://youtube.com/embed/rATcozDE25c?autoplay=1&start=305&end=310
 
 ### Transcript
 
-> see it how many likes on this youtube video for jace to get fired
+> see it how many likes on this youtube video for jace to get fired one like can we get more survival

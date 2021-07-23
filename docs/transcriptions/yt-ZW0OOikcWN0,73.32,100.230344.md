@@ -16,4 +16,4 @@ https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=73&end=101
 
 ### Transcript
 
-> you guys okay so first things first just movement basic movement commands middle mouse click changes the camera from a third person to first person so middle mouse button clicking WASD to move just general if you've played any other videos before you'll know spaces to jump holding shift is sprints and you can see there's a stamina bar on the bottom right hand over the corner yeah so
+> you guys okay so first things first just movement basic movement commands middle mouse click changes the camera from a third person to first person so middle mouse button clicking WASD to move just general if you've played any other videos before you'll know spaces to jump holding shift is sprints and you can see there's a stamina bar on the bottom right hand over the corner yeah so that's movement one other thing I just

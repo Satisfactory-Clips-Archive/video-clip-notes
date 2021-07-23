@@ -14,4 +14,4 @@ https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=132&end=152
 
 ### Transcript
 
-> then we also have ongoing content ongoing features like that include things like the world which is much bigger and needs to be seen in its entirety really an exploration because it's in the world uh it's a big topic like that itself you'll probably still see those in like the
+> then we also have ongoing content ongoing features like that include things like the world which is much bigger and needs to be seen in its entirety really an exploration because it's in the world uh it's a big topic like that itself you'll probably still see those in like the updates coming around but we also work

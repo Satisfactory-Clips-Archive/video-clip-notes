@@ -16,4 +16,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=643&end=661
 
 ### Transcript
 
-> community manager is unprofessional you should be ashamed what gave you that idea I trim my pubic hair don't miss anything for Jim awful [ __ ] sake Simon what are you doing then make it great I have no idea what you're talking about
+> community manager is unprofessional you should be ashamed what gave you that idea I trim my pubic hair don't miss anything for Jim awful [ __ ] sake Simon what are you doing then make it great I have no idea what you're talking about hey everyone its Jase from the future

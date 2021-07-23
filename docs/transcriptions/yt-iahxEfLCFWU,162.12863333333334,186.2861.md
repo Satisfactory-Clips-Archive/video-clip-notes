@@ -16,4 +16,4 @@ https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=162&end=187
 
 ### Transcript
 
-> you all want a pipeline mark ii and well here they are the new pipes are still the same size and they can be upgraded for mark 1 pipes the same way you can update conveyor belts and have a maximum flow rate of 600 cubic meters per minute and uh that's as good as going to get folks because we have no plans for mark 3 pipes and even if we did were to add that the maximum flow rate would still be 600
+> you all want a pipeline mark ii and well here they are the new pipes are still the same size and they can be upgraded for mark 1 pipes the same way you can update conveyor belts and have a maximum flow rate of 600 cubic meters per minute and uh that's as good as going to get folks because we have no plans for mark 3 pipes and even if we did were to add that the maximum flow rate would still be 600 due to technical limitations now of

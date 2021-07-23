@@ -14,4 +14,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=337&end=348
 
 ### Transcript
 
-> corporation goddess the revenue share
+> corporation goddess the revenue share doesn't matter if you don't have any

@@ -21,3 +21,7 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3984&end=4023
 ### Transcript
 
 > art using walls and paint gun well the way I'm not gonna say that actually but not I mean all right I don't I don't think so I think they've just made beautiful factories as you can see on the screen right now you know I think we have to wrap this up soon it's been about an hour even taking into account that we we're late you weren't late when you talk about it yeah we said we said 420 you're on 420 yeah we were on time on it and somebody in a year I'll be 12
+>
+> [Laughter]
+>
+> long-range transport one more good

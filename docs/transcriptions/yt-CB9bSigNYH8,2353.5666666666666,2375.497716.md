@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2353&end=2376
 
 ### Transcript
 
-> mostly for internal purposes the the names of the the levels and such so I can't say there will be in the story but they might be probably I honestly don't think we'll use them it's more for internal communication I think work we're gonna give you the freedom to name
+> mostly for internal purposes the the names of the the levels and such so I can't say there will be in the story but they might be probably I honestly don't think we'll use them it's more for internal communication I think work we're gonna give you the freedom to name things as you like so know this do I work with any astronomers

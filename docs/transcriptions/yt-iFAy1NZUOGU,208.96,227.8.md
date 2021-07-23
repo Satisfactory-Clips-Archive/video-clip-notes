@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 8th,
 
 ### Transcript
 
-> also afraid of cats what about changing the cats to Simon's head instead yeah actually I really do enjoy the idea of having Simon's head there you know maybe we can have like it I'm afraid of everything mode where everything just becomes Simon it could be pretty funny and that's just me rambling right now but in terms of if you're afraid of cats
+> also afraid of cats what about changing the cats to Simon's head instead yeah actually I really do enjoy the idea of having Simon's head there you know maybe we can have like it I'm afraid of everything mode where everything just becomes Simon it could be pretty funny and that's just me rambling right now but in terms of if you're afraid of cats I don't know right now can we change the

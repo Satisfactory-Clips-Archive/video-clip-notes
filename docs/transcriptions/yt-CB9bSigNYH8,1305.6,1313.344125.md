@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: March 30th, 202
 
 ### Transcript
 
-> can you travel to other planets we are
+> can you travel to other planets we are currently just on this planet

@@ -14,4 +14,4 @@ https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=164&end=169
 
 ### Transcript
 
-> feel of what kind of movement to Fisk out there should they have when it's
+> feel of what kind of movement to Fisk out there should they have when it's like super weird and like the legs are

@@ -14,4 +14,4 @@ https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=417&end=440
 
 ### Transcript
 
-> this coffee stain your first job in the game industry caffeine is definitely my first job in industry it's not my first I interned at Ubisoft before but it's it's it's you know it's really way different to actually work somewhere so this is my first job and I feel like I'm getting real biased I don't want to leave anymore man no yeah I feel like everything after this just downhill
+> this coffee stain your first job in the game industry caffeine is definitely my first job in industry it's not my first I interned at Ubisoft before but it's it's it's you know it's really way different to actually work somewhere so this is my first job and I feel like I'm getting real biased I don't want to leave anymore man no yeah I feel like everything after this just downhill goodbye and thank you for watching this

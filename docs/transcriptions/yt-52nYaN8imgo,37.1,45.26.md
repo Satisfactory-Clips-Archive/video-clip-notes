@@ -16,4 +16,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46
 
 ### Transcript
 
-> you were like a little bit late - three
+> you were like a little bit late - three too early - three it's like a Christmas

@@ -14,4 +14,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=347&end=356
 
 ### Transcript
 
-> doesn't matter if you don't have any customers eighty-eight percent of nothing is still zero something something haven't you even considered
+> doesn't matter if you don't have any customers eighty-eight percent of nothing is still zero something something haven't you even considered that yes we have why did you leave

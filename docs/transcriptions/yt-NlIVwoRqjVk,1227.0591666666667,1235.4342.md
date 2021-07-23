@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 8th, 2021
 
 ### Transcript
 
-> signalling in the works for the future the consensus here is that there probably will be don't know when it
+> signalling in the works for the future the consensus here is that there probably will be don't know when it looks like it's gonna happen lights when I can't see you around my base at night

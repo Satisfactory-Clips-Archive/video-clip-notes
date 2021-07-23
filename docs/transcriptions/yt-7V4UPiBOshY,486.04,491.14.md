@@ -16,4 +16,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=486&end=492
 
 ### Transcript
 
-> refund policy yep there is a 14-day no
+> refund policy yep there is a 14-day no questions asked refund policy is their regional pricing on the epic game store

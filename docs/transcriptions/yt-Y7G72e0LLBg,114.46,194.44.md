@@ -20,4 +20,4 @@ https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=114&end=195
 >
 > [Music]
 >
-> it suits the game and it's sci-fi but it's also a little bit retro I use a program called reason for some reason or writing music but then I mix and master in another software called qubits which I'm sure people will know who works yeah I compose for other media I've been composing for quite a few mobile games and anything it's a completely different format it's it's not as fun it's not as creative because it's usually just two tracks that loop over and over again so you can't do anything dramatic I can't
+> it suits the game and it's sci-fi but it's also a little bit retro I use a program called reason for some reason or writing music but then I mix and master in another software called qubits which I'm sure people will know who works yeah I compose for other media I've been composing for quite a few mobile games and anything it's a completely different format it's it's not as fun it's not as creative because it's usually just two tracks that loop over and over again so you can't do anything dramatic I can't go bananas the same way I loathe

@@ -16,4 +16,4 @@ https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=37&end=46
 
 ### Transcript
 
-> and before i forget just a quick update on when update four will come out it's still looking like february or maybe march uh next year so
+> and before i forget just a quick update on when update four will come out it's still looking like february or maybe march uh next year so uh yeah okay so let's let's dive into

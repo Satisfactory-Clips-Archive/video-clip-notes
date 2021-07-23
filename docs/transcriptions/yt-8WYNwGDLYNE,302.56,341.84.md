@@ -14,4 +14,4 @@ https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=302&end=342
 
 ### Transcript
 
-> so what Socrates well years on the real engine and I use Photoshop and I use pink this thing called pigment map where we can paint this this canvas essentially which we then project over the level which can edit colors of assets so basically we can make sure that there you know we just have the one green grass asset and then if we lay over the pigment map we can actually make you know grass look more yellowish and dry in certain spots without actually having to make a new asset so
+> so what Socrates well years on the real engine and I use Photoshop and I use pink this thing called pigment map where we can paint this this canvas essentially which we then project over the level which can edit colors of assets so basically we can make sure that there you know we just have the one green grass asset and then if we lay over the pigment map we can actually make you know grass look more yellowish and dry in certain spots without actually having to make a new asset so it's a lot cheaper to do that why do you

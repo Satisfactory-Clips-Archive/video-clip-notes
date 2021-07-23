@@ -22,4 +22,4 @@ https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149
 
 ### Transcript
 
-> what kind of hardware computer a
+> what kind of hardware computer a computer the computer and completely I'm also this unsigned but I do

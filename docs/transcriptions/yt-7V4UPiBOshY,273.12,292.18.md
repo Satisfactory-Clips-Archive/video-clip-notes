@@ -14,4 +14,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=273&end=293
 
 ### Transcript
 
-> yep do you think not revealing anything sooner was misleading we were actually under NDA so we couldn't actually say anything and it was up to epic to make the announcement so we couldn't say anything sooner in fact I told you as soon as I could I was literally in my living room with my iPhone and I made a video and put it on YouTube I told you as soon as we could
+> yep do you think not revealing anything sooner was misleading we were actually under NDA so we couldn't actually say anything and it was up to epic to make the announcement so we couldn't say anything sooner in fact I told you as soon as I could I was literally in my living room with my iPhone and I made a video and put it on YouTube I told you as soon as we could do the people at coffee-stained even

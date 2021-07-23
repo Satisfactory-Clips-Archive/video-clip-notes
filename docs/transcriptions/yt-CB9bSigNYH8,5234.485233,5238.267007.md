@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [July 6th, 2021
 
 ### Transcript
 
-> yeah weather confirmed cuz of fog sure
+> yeah weather confirmed cuz of fog sure how BIG's the map it's about five and a
