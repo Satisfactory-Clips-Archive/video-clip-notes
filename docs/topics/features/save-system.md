@@ -99,7 +99,7 @@ date: Last Modified
 * [Jace Talk: Save files after Update 3](../../transcriptions/yt-DsbHR1Nc8fw,406.11404166666665,438.14604166666663.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=406&end=439](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=406&end=439)
 
 ## February 20th, 2020 Video
-* [Q&A: Will my save file work in either version?](../../transcriptions/yt-QBE1Xl94s9o,158.64,193.36.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=158&end=194](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=158&end=194)
+* [Q&A: Will my save file work in either version?](../../transcriptions/yt-QBE1Xl94s9o,158.64,193.36.md) [https://youtube.com/clip/UgwNV2lwF18EOTwfRch4AaABCQ](https://youtube.com/clip/UgwNV2lwF18EOTwfRch4AaABCQ)
 
 ## January 20th, 2020 Video
 * [Save Files in Update 3](../../transcriptions/yt-pTKDTJSsAm4,247.8476,300.9006.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=247&end=301](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=247&end=301)

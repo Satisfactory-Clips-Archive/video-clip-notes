@@ -48,7 +48,7 @@ date: Last Modified
 * [Q&A: Can I transfer my Epic version to Steam?](../../transcriptions/yt-BmKMv6SZJ5M,187.22,206.74.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207)
 
 ## February 20th, 2020 Video
-* [Q&A: Will my save file work in either version?](../../transcriptions/yt-QBE1Xl94s9o,158.64,193.36.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=158&end=194](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=158&end=194)
+* [Q&A: Will my save file work in either version?](../../transcriptions/yt-QBE1Xl94s9o,158.64,193.36.md) [https://youtube.com/clip/UgwNV2lwF18EOTwfRch4AaABCQ](https://youtube.com/clip/UgwNV2lwF18EOTwfRch4AaABCQ)
 
 ## April 26th, 2019 Milo Tutorial
 * [Jace Talk: Milo tutorial delays Update](../../transcriptions/yt--eBlSsTmUSE,167.8,226.24.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=167&end=227](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=167&end=227)

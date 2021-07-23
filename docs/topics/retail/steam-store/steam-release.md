@@ -70,9 +70,9 @@ date: Last Modified
 * [State of Dev: Update 3, Steam Release](../../../transcriptions/yt-Y__cl6AcRzs.md) [https://www.youtube.com/watch?v=Y__cl6AcRzs](https://www.youtube.com/watch?v=Y__cl6AcRzs)
 
 ## February 20th, 2020 Video
-* [Snutt Talk: Steam Release](../../../transcriptions/yt-QBE1Xl94s9o,80.4,100.04.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=80&end=101](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=80&end=101)
-* [Q&A: When will the game be released on Steam?](../../../transcriptions/yt-QBE1Xl94s9o,100.04,137.04.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=100&end=138](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=100&end=138)
-* [Q&A: Can I get a copy on Steam if I own it on Epic?](../../../transcriptions/yt-QBE1Xl94s9o,137.04,145.92.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=137&end=146](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=137&end=146)
+* [Snutt Talk: Steam Release](../../../transcriptions/yt-QBE1Xl94s9o,80.4,100.04.md) [https://youtube.com/clip/Ugyn6YWp-xXXv_jWMfV4AaABCQ](https://youtube.com/clip/Ugyn6YWp-xXXv_jWMfV4AaABCQ)
+* [Q&A: When will the game be released on Steam?](../../../transcriptions/yt-QBE1Xl94s9o,100.04,137.04.md) [https://youtube.com/clip/UgwxAs6_LIBK1w3oOdx4AaABCQ](https://youtube.com/clip/UgwxAs6_LIBK1w3oOdx4AaABCQ)
+* [Q&A: Can I get a copy on Steam if I own it on Epic?](../../../transcriptions/yt-QBE1Xl94s9o,137.04,145.92.md) [https://youtube.com/clip/UgzXGq9OKT0i9e9lLp94AaABCQ](https://youtube.com/clip/UgzXGq9OKT0i9e9lLp94AaABCQ)
 
 ## February 11th, 2020 Livestream
 * [Q&A: Will you be able to preload the game?](../../../transcriptions/yt-xY1OQ_CuQhQ.md) [https://www.youtube.com/watch?v=xY1OQ_CuQhQ](https://www.youtube.com/watch?v=xY1OQ_CuQhQ)

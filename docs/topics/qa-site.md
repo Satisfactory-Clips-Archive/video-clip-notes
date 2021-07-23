@@ -131,7 +131,7 @@ date: Last Modified
 * [Jace Talk: Use the QA Site](../transcriptions/yt-Bm_Yh-0jjtI.md) [https://www.youtube.com/watch?v=Bm_Yh-0jjtI](https://www.youtube.com/watch?v=Bm_Yh-0jjtI)
 
 ## February 20th, 2020 Video
-* [Snutt Talk: Use the QA site](../transcriptions/yt-QBE1Xl94s9o,70.04,80.4.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=70&end=81](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=70&end=81)
+* [Snutt Talk: Use the QA site](../transcriptions/yt-QBE1Xl94s9o,70.04,80.4.md) [https://youtube.com/clip/UgypRHIyN4LVmV3mVZ14AaABCQ](https://youtube.com/clip/UgypRHIyN4LVmV3mVZ14AaABCQ)
 
 ## January 22nd, 2020 Livestream
 * [Jace Talk: The QA Site](../transcriptions/yt-eaaYqnAGK0M.md) [https://www.youtube.com/watch?v=eaaYqnAGK0M](https://www.youtube.com/watch?v=eaaYqnAGK0M)

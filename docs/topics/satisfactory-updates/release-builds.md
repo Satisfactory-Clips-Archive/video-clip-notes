@@ -164,7 +164,7 @@ date: Last Modified
 * [State of Dev: Update 3, Steam Release](../../transcriptions/yt-Y__cl6AcRzs.md) [https://www.youtube.com/watch?v=Y__cl6AcRzs](https://www.youtube.com/watch?v=Y__cl6AcRzs)
 
 ## February 20th, 2020 Video
-* [Snutt Talk: Eventually moving Update 3 to the Early Access branch](../../transcriptions/yt-QBE1Xl94s9o,37.64,70.04.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=37&end=71](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=37&end=71)
+* [Snutt Talk: Eventually moving Update 3 to the Early Access branch](../../transcriptions/yt-QBE1Xl94s9o,37.64,70.04.md) [https://youtube.com/clip/UgzqC__DEmkN7QnKAVx4AaABCQ](https://youtube.com/clip/UgzqC__DEmkN7QnKAVx4AaABCQ)
 
 ## February 11th, 2020 Livestream
 * [Q&A: How big is the Update going to be?](../../transcriptions/yt-yQe_yYHAwsQ.md) [https://www.youtube.com/watch?v=yQe_yYHAwsQ](https://www.youtube.com/watch?v=yQe_yYHAwsQ)

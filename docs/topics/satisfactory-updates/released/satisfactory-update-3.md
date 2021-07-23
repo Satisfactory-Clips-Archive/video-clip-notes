@@ -80,8 +80,8 @@ date: Last Modified
 * [Jace Talk: Biiiiig Pipe](../../../transcriptions/yt-DsbHR1Nc8fw,513.8466666666666,523.138287.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524)
 
 ## February 20th, 2020 Video
-* [Snutt Talk: We revealed Update 3 last week](../../../transcriptions/yt-QBE1Xl94s9o,15.56,37.64.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=15&end=38](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=15&end=38)
-* [Snutt Talk: Eventually moving Update 3 to the Early Access branch](../../../transcriptions/yt-QBE1Xl94s9o,37.64,70.04.md) [https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=37&end=71](https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=37&end=71)
+* [Snutt Talk: We revealed Update 3 last week](../../../transcriptions/yt-QBE1Xl94s9o,15.56,37.64.md) [https://youtube.com/clip/UgyMboOqn1K1nogBzKh4AaABCQ](https://youtube.com/clip/UgyMboOqn1K1nogBzKh4AaABCQ)
+* [Snutt Talk: Eventually moving Update 3 to the Early Access branch](../../../transcriptions/yt-QBE1Xl94s9o,37.64,70.04.md) [https://youtube.com/clip/UgzqC__DEmkN7QnKAVx4AaABCQ](https://youtube.com/clip/UgzqC__DEmkN7QnKAVx4AaABCQ)
 
 ## February 11th, 2020 Livestream
 * [Q&A: How big is the Update going to be?](../../../transcriptions/yt-yQe_yYHAwsQ.md) [https://www.youtube.com/watch?v=yQe_yYHAwsQ](https://www.youtube.com/watch?v=yQe_yYHAwsQ)
