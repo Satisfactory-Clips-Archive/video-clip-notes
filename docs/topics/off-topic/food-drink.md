@@ -4,6 +4,7 @@ external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqyvBwUfe5uPRaYX
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Food & Drink
+* [Bacon](../../topics/off-topic/food-drink/bacon.md)
 * [Coffee](../../topics/off-topic/food-drink/coffee.md)
 * [Milk](../../topics/off-topic/food-drink/milk.md)
 * [Pizza](../../topics/off-topic/food-drink/pizza.md)
@@ -40,7 +41,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Oreos](../../transcriptions/yt-2cWkWV6irT0.md) [https://www.youtube.com/watch?v=2cWkWV6irT0](https://www.youtube.com/watch?v=2cWkWV6irT0)
 
 ## February 16th, 2021 Livestream
-* [Snutt & Jace Talk: Canadian Bacon](../../transcriptions/yt-u6vy_c2Zpr8.md) [https://www.youtube.com/watch?v=u6vy_c2Zpr8](https://www.youtube.com/watch?v=u6vy_c2Zpr8)
+* [Q&A: Bacon or Sausage?](../../transcriptions/yt-n70T0HTcjB0.md) [https://www.youtube.com/watch?v=n70T0HTcjB0](https://www.youtube.com/watch?v=n70T0HTcjB0)
 
 ## April 26th, 2019 Milo Tutorial
 * [Jace Talk: Milo tutorial](../../transcriptions/yt--eBlSsTmUSE,23.92,167.8.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168)

@@ -7,6 +7,7 @@ date: Last Modified
 * [Anna](./topics/coffee-stainers/anna.md)
 * [Ben](./topics/coffee-stainers/ben.md)
 * [Birk](./topics/coffee-stainers/birk.md)
+* [Coffee Stainers can't pronounce Hannah's last name](./topics/coffee-stainers/coffee-stainers-can-t-pronounce-hannah-s-last-name.md)
 * [Dylan](./topics/coffee-stainers/dylan.md)
 * [Etienne](./topics/coffee-stainers/etienne.md)
 * [G2](./topics/coffee-stainers/g2.md)
@@ -348,6 +349,7 @@ date: Last Modified
 ---
 
 # [Off-Topic](./topics/off-topic.md)
+* [Australia](./topics/off-topic/australia.md)
 * [Deep Rock Galactic](./topics/off-topic/deep-rock-galactic.md)
 * [E3](./topics/off-topic/e3.md)
 * [Factorio](./topics/off-topic/factorio.md)
@@ -362,6 +364,7 @@ date: Last Modified
 * [Valheim](./topics/off-topic/valheim.md)
 
 ## [Food & Drink](./topics/off-topic/food-drink.md)
+* [Bacon](./topics/off-topic/food-drink/bacon.md)
 * [Coffee](./topics/off-topic/food-drink/coffee.md)
 * [Milk](./topics/off-topic/food-drink/milk.md)
 * [Pizza](./topics/off-topic/food-drink/pizza.md)

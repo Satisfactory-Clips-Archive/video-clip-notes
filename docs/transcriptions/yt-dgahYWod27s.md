@@ -3,6 +3,7 @@ title: "June 8th, 2021 Livestream Community FYI: Just because you can't say her 
 date: "2021-06-08"
 layout: transcript
 topics:
+    - "coffee-stainers/coffee-stainers-can-t-pronounce-hannah-s-last-name"
     - "coffee-stainers/hannah"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=dgahYWod27s
 
 ### Topics
+* [Coffee Stainers > Coffee Stainers can't pronounce Hannah's last name](../topics/coffee-stainers/coffee-stainers-can-t-pronounce-hannah-s-last-name.md)
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 
 ### Transcript

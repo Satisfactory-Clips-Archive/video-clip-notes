@@ -4,6 +4,7 @@ date: "2019-04-26"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "off-topic/australia"
     - "off-topic/food-drink"
     - "trolling"
 ---
@@ -13,6 +14,7 @@ https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Off-Topic > Australia](../topics/off-topic/australia.md)
 * [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
 * [Trolling](../topics/trolling.md)
 

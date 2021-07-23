@@ -4,6 +4,7 @@ date: "2020-12-17"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "off-topic/australia"
 ---
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Do you miss Australia
@@ -11,6 +12,7 @@ https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1005&end=1027
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Off-Topic > Australia](../topics/off-topic/australia.md)
 
 ### Transcript
 

@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
+    - "off-topic/australia"
     - "off-topic/sweden"
     - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
 ---
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=0hFaZFsmmb8
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Off-Topic > Australia](../topics/off-topic/australia.md)
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
 
