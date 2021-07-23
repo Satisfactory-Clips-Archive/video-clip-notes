@@ -2,7 +2,7 @@
 title: "November 23rd, 2018 - Q&A: You say things are fine now, but what about in 5 years?"
 date: "2018-11-23"
 layout: transcript
-topics: 
+topics:
     - ""
 ---
 # [November 23rd, 2018 Q&A #4: Questions about THQ Nordic + my opinion](../2018-11-23.md)

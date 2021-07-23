@@ -2,7 +2,7 @@
 title: "June 18th, 2021 - Jace Talk: Game Modes"
 date: "2021-06-18"
 layout: transcript
-topics: 
+topics:
     - "features/possible-features/game-modes"
     - "features/possible-features/game-modes/peaceful-mode"
     - "features/possible-features/game-modes/creative-mode"

@@ -2,7 +2,7 @@
 title: "June 18th, 2021 - Intro"
 date: "2021-06-18"
 layout: transcript
-topics: 
+topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/linus"
 ---

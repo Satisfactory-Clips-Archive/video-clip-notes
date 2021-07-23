@@ -2,7 +2,7 @@
 title: "June 18th, 2021 - Q&A: When is Update 5 coming?"
 date: "2021-06-18"
 layout: transcript
-topics: 
+topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "off-topic/sweden"
     - "coffee-stainers"

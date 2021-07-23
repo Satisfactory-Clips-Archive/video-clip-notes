@@ -2,7 +2,7 @@
 title: "November 8th, 2018 - Outro"
 date: "2018-11-08"
 layout: transcript
-topics: 
+topics:
     - ""
 ---
 # [November 8th, 2018 Dev Blog #2: Conveyor Belts/Basic Production Gameplay + Alpha Key info!](../2018-11-08.md)

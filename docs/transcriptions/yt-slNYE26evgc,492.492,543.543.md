@@ -2,7 +2,7 @@
 title: "June 18th, 2021 - Jace Talk: Merch Updates & EU Store"
 date: "2021-06-18"
 layout: transcript
-topics: 
+topics:
     - "merch"
     - "merch/eu-merch-store"
 ---

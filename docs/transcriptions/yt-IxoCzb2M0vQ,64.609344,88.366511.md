@@ -2,7 +2,7 @@
 title: "July 19th, 2018 - Introducing: Tractors, Explorers, Trucks, and Trains"
 date: "2018-07-19"
 layout: transcript
-topics: 
+topics:
     - ""
 ---
 # [July 19th, 2018 Dev Blog #1: Vehicles](../2018-07-19.md)

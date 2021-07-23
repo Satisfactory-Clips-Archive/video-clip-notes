@@ -2,7 +2,7 @@
 title: "June 18th, 2021 - Jace Talk: Dedicated Servers"
 date: "2021-06-18"
 layout: transcript
-topics: 
+topics:
     - "features/planned-features/dedicated-servers"
     - "coffee-stainers"
     - "features/multiplayer"

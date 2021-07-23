@@ -2,7 +2,7 @@
 title: "June 18th, 2021 - Q&A: Will we have Signs?"
 date: "2021-06-18"
 layout: transcript
-topics: 
+topics:
     - "features/planned-features/signs"
 ---
 # [June 18th, 2021 Satisfactory Recap! Stuff we've revealed on stream (but not yet on Youtube)](../2021-06-18.md)

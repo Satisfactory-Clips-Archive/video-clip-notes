@@ -2,7 +2,7 @@
 title: "February 6th, 2019 - Q&A: Are you in a cinema?"
 date: "2019-02-06"
 layout: transcript
-topics: 
+topics:
     - ""
 ---
 # [February 6th, 2019 Satisfactory Q&A/Hangout Stream](../2019-02-06.md)

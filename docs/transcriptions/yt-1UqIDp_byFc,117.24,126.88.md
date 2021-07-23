@@ -2,7 +2,7 @@
 title: "November 23rd, 2018 - Q&A: Will this affect Coffee Stain games?"
 date: "2018-11-23"
 layout: transcript
-topics: 
+topics:
     - ""
 ---
 # [November 23rd, 2018 Q&A #4: Questions about THQ Nordic + my opinion](../2018-11-23.md)

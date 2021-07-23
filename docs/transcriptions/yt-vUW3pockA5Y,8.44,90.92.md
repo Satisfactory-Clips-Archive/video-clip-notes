@@ -2,7 +2,7 @@
 title: "July 4th, 2018 - Oscar Talk: The initial idea for Satisfactory"
 date: "2018-07-04"
 layout: transcript
-topics: 
+topics:
     - ""
 ---
 # [July 4th, 2018 Developer Highlight - Game Design](../2018-07-04.md)

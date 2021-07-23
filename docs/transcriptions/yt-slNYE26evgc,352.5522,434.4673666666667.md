@@ -2,7 +2,7 @@
 title: "June 18th, 2021 - Jace Talk: World Update"
 date: "2021-06-18"
 layout: transcript
-topics: 
+topics:
     - "satisfactory-updates/pending/world-update"
     - "environment/biomes"
     - "environment/biomes/northern-forest"

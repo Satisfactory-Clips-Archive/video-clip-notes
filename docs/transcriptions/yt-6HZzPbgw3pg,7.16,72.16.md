@@ -2,7 +2,7 @@
 title: "November 17th, 2017 - Hi, I'm Jace"
 date: "2017-11-17"
 layout: transcript
-topics: 
+topics:
     - ""
 ---
 # [November 17th, 2017 Community Manager Introduction - Coffee Stain Studios](../2017-11-17.md)
