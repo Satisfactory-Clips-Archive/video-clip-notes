@@ -8,7 +8,7 @@ date: Last Modified
 * [Anna](../topics/coffee-stainers/anna.md)
 * [Ben](../topics/coffee-stainers/ben.md)
 * [Birk](../topics/coffee-stainers/birk.md)
-* [Coffee Stainers can't pronounce Hannah's last name](../topics/coffee-stainers/coffee-stainers-can-t-pronounce-hannah-s-last-name.md)
+* [Coffee Stainers can't pronounce Hannah's last name](../topics/coffee-stainers/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 * [Dylan](../topics/coffee-stainers/dylan.md)
 * [Etienne](../topics/coffee-stainers/etienne.md)
 * [G2](../topics/coffee-stainers/g2.md)
