@@ -6,6 +6,7 @@ topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/simon"
     - "coffee-stainers/uzu"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
     - "features/fluids/pipes"
     - "satisfactory-updates/pre-alpha"
 ---
@@ -17,6 +18,7 @@ https://www.youtube.com/watch?v=ypN9OtMd7YU
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
 * [Coffee Stainers > Uzu](../topics/coffee-stainers/uzu.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)
 

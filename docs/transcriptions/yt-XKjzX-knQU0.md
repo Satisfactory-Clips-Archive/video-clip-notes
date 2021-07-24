@@ -3,6 +3,7 @@ title: "June 29th, 2021 Livestream Q&A: Collab with CDPR, when?"
 date: "2021-06-29"
 layout: transcript
 topics:
+    - "embracer-group/coffee-stain-holding/coffee-stain-north"
     - "features/requested-features/crossovers"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=XKjzX-knQU0
 
 ### Topics
+* [Embracer Group > Coffee Stain Holding > Coffee Stain North](../topics/embracer-group/coffee-stain-holding/coffee-stain-north.md)
 * [Features > Requested Features > Crossovers](../topics/features/requested-features/crossovers.md)
 
 ### Transcript

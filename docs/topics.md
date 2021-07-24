@@ -72,6 +72,12 @@ date: Last Modified
 # [Embracer Group](./topics/embracer-group.md)
 * [Gearbox Software](./topics/embracer-group/gearbox-software.md)
 
+## Coffee Stain Holding
+* [Coffee Stain North](./topics/embracer-group/coffee-stain-holding/coffee-stain-north.md)
+* [Coffee Stain Studios](./topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
+* [Lavapotion](./topics/embracer-group/coffee-stain-holding/lavapotion.md)
+---
+
 ## [THQ Nordic](./topics/embracer-group/thq-nordic.md)
 * [Lars](./topics/embracer-group/thq-nordic/lars.md)
 ---

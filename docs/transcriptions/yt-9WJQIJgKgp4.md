@@ -3,14 +3,14 @@ title: "February 2nd, 2021 Livestream Q&A: Will you guys do a new Studio tour wi
 date: "2021-02-02"
 layout: transcript
 topics:
-    - "coffee-stainers"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Will you guys do a new Studio tour with Sweden on lockdown?
 https://www.youtube.com/watch?v=9WJQIJgKgp4
 
 ### Topics
-* [Coffee Stainers](../topics/coffee-stainers.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "November 10th, 2020 Livestream Q&A: Does Coffee Stain \"matrix\" it's pe
 date: "2020-11-10"
 layout: transcript
 topics:
-    - ""
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Does Coffee Stain "matrix" it's people across different games?
 https://www.youtube.com/watch?v=AjCUCamZMTk
 
 ### Topics
-
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 
 ### Transcript
 

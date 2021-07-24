@@ -3,14 +3,14 @@ title: "December 8th, 2020 Livestream Q&A: Jobs available in Stockholm but not S
 date: "2020-12-08"
 layout: transcript
 topics:
-    - ""
+    - "embracer-group/coffee-stain-holding/coffee-stain-north"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Jobs available in Stockholm but not Skövde?
 https://www.youtube.com/watch?v=aT2csoqT3MI
 
 ### Topics
-
+* [Embracer Group > Coffee Stain Holding > Coffee Stain North](../topics/embracer-group/coffee-stain-holding/coffee-stain-north.md)
 
 ### Transcript
 

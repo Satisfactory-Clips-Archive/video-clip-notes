@@ -3,7 +3,7 @@ title: "May 11th, 2021 Livestream State of Dev: How our showcase meetings work"
 date: "2021-05-11"
 layout: transcript
 topics:
-    - "coffee-stainers"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
     - "satisfactory-updates/satisfactory-prototypes"
     - "satisfactory-updates/state-of-dev"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=OTb1ZkP5mkE
 
 ### Topics
-* [Coffee Stainers](../topics/coffee-stainers.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 * [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 

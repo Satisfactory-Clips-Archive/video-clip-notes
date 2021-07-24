@@ -3,7 +3,9 @@ title: "February 16th, 2021 Livestream Q&A: Did Coffee Stain Studios develop Sat
 date: "2021-02-16"
 layout: transcript
 topics:
-    - "coffee-stainers"
+    - "embracer-group/coffee-stain-holding/coffee-stain-north"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
+    - "embracer-group/coffee-stain-holding/lavapotion"
     - "off-topic/deep-rock-galactic"
     - "off-topic/goat-simulator"
     - "off-topic/sanctum"
@@ -14,7 +16,9 @@ topics:
 https://www.youtube.com/watch?v=IPtH5E1-31k
 
 ### Topics
-* [Coffee Stainers](../topics/coffee-stainers.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain North](../topics/embracer-group/coffee-stain-holding/coffee-stain-north.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
+* [Embracer Group > Coffee Stain Holding > Lavapotion](../topics/embracer-group/coffee-stain-holding/lavapotion.md)
 * [Off-Topic > Deep Rock Galactic](../topics/off-topic/deep-rock-galactic.md)
 * [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)

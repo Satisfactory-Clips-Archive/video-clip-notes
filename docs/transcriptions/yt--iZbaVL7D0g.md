@@ -3,7 +3,7 @@ title: "February 16th, 2021 Livestream Q&A: How big is the development team?"
 date: "2021-02-16"
 layout: transcript
 topics:
-    - "coffee-stainers"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: How big is the development team?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
-* [Coffee Stainers](../topics/coffee-stainers.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 
 ### Transcript
 

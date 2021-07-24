@@ -4,6 +4,7 @@ date: "2019-02-06"
 layout: transcript
 topics:
     - "coffee-stainers"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
     - "technology/unreal-engine"
 ---
 # [February 6th, 2019 Livestream](../2019-02-06.md)
@@ -12,6 +13,7 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2329&end=2392
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

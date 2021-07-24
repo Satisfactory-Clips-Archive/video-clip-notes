@@ -3,8 +3,8 @@ title: "June 29th, 2021 Livestream Snutt & Jace Talk: Coffee Stain / Swedish vac
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "coffee-stainers"
     - "coffee-stainers/jace"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
     - "off-topic/sweden"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=-Nos691KN8M
 
 ### Topics
-* [Coffee Stainers](../topics/coffee-stainers.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)
 
 ### Transcript

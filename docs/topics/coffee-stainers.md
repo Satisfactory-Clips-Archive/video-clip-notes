@@ -48,7 +48,6 @@ date: Last Modified
 * [Q&A: I really want to know who's responsible for the beautiful World design?](../transcriptions/yt-oR-6X_Lru8I.md) [https://www.youtube.com/watch?v=oR-6X_Lru8I](https://www.youtube.com/watch?v=oR-6X_Lru8I)
 
 ## June 29th, 2021 Livestream
-* [Snutt & Jace Talk: Coffee Stain / Swedish vacations](../transcriptions/yt--Nos691KN8M.md) [https://www.youtube.com/watch?v=-Nos691KN8M](https://www.youtube.com/watch?v=-Nos691KN8M)
 * [Q&A: Any plans for future videos with devs like the Lighting video?](../transcriptions/yt-m9Uh0DXTSss.md) [https://www.youtube.com/watch?v=m9Uh0DXTSss](https://www.youtube.com/watch?v=m9Uh0DXTSss)
 * [Q&A: Do you get meetings at any pub, can we join?](../transcriptions/yt-zb-kBKU_EZo.md) [https://www.youtube.com/watch?v=zb-kBKU_EZo](https://www.youtube.com/watch?v=zb-kBKU_EZo)
 
@@ -99,7 +98,6 @@ date: Last Modified
 * [Q&A: Do you do any coding any more?](../transcriptions/yt-3Z-06sv9ZZM.md) [https://www.youtube.com/watch?v=3Z-06sv9ZZM](https://www.youtube.com/watch?v=3Z-06sv9ZZM)
 
 ## May 11th, 2021 Livestream
-* [State of Dev: How our showcase meetings work](../transcriptions/yt-OTb1ZkP5mkE.md) [https://www.youtube.com/watch?v=OTb1ZkP5mkE](https://www.youtube.com/watch?v=OTb1ZkP5mkE)
 * [State of Dev: Approach to development while in Early Access](../transcriptions/yt-XXzwX-dd5jo.md) [https://www.youtube.com/watch?v=XXzwX-dd5jo](https://www.youtube.com/watch?v=XXzwX-dd5jo)
 * [Q&A: What's up with Jace?](../transcriptions/yt-PvMiTd6cWRs.md) [https://www.youtube.com/watch?v=PvMiTd6cWRs](https://www.youtube.com/watch?v=PvMiTd6cWRs)
 
@@ -145,24 +143,17 @@ date: Last Modified
 * [Q&A: How many of them work on Valheim?](../transcriptions/yt-15R0t95pwvc.md) [https://www.youtube.com/watch?v=15R0t95pwvc](https://www.youtube.com/watch?v=15R0t95pwvc)
 
 ## February 16th, 2021 Livestream
-* [Q&A: How big is the development team?](../transcriptions/yt--iZbaVL7D0g.md) [https://www.youtube.com/watch?v=-iZbaVL7D0g](https://www.youtube.com/watch?v=-iZbaVL7D0g)
 * [Q&A: See coworkers in real life- wtf is that?](../transcriptions/yt-kZqiiOvcW6E.md) [https://www.youtube.com/watch?v=kZqiiOvcW6E](https://www.youtube.com/watch?v=kZqiiOvcW6E)
-* [Q&A: Did Coffee Stain Studios develop Satisfactory?](../transcriptions/yt-IPtH5E1-31k.md) [https://www.youtube.com/watch?v=IPtH5E1-31k](https://www.youtube.com/watch?v=IPtH5E1-31k)
 
 ## February 9th, 2021 Livestream
 * [Snutt & Jace Talk: Leak™](../transcriptions/yt-TbSECv5M4ZM.md) [https://www.youtube.com/watch?v=TbSECv5M4ZM](https://www.youtube.com/watch?v=TbSECv5M4ZM)
 
 ## February 2nd, 2021 Livestream
-* [Q&A: Will you guys do a new Studio tour with Sweden on lockdown?](../transcriptions/yt-9WJQIJgKgp4.md) [https://www.youtube.com/watch?v=9WJQIJgKgp4](https://www.youtube.com/watch?v=9WJQIJgKgp4)
 * [Q&A: I am grateful that our 2 Community Managers have dev experience](../transcriptions/yt-VeGSy0F0mVY.md) [https://www.youtube.com/watch?v=VeGSy0F0mVY](https://www.youtube.com/watch?v=VeGSy0F0mVY)
 
 ## January 26th, 2021 Livestream
 * [Q&A: How did you come up with the idea of making Satisfactory?](../transcriptions/yt-BG-xhTN4-0Q.md) [https://www.youtube.com/watch?v=BG-xhTN4-0Q](https://www.youtube.com/watch?v=BG-xhTN4-0Q)
-* [Q&A: Where is Coffee Stain HQ located?](../transcriptions/yt-1xr77MkTmdM.md) [https://www.youtube.com/watch?v=1xr77MkTmdM](https://www.youtube.com/watch?v=1xr77MkTmdM)
 * [Q&A: Whose idea was the Coffee Cup anyway?](../transcriptions/yt-JiqZXOgj8WA.md) [https://www.youtube.com/watch?v=JiqZXOgj8WA](https://www.youtube.com/watch?v=JiqZXOgj8WA)
-
-## January 19th, 2021 Livestream
-* [Q&A: Who in Coffee Stain plays Satisfactory the most?](../transcriptions/yt-N4JpnY4zy70.md) [https://www.youtube.com/watch?v=N4JpnY4zy70](https://www.youtube.com/watch?v=N4JpnY4zy70)
 
 ## December 17th, 2020 Q&A
 * [Q&A: How proud are you of the code you wrote and systems you helped make in Satisfactory?](../transcriptions/yt--JXPsTlJIiI,379.5124666666667,450.7169333333333.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=379&end=451](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=379&end=451)
@@ -208,7 +199,6 @@ date: Last Modified
 ## March 24th, 2020 Livestream
 * [Snutt & Jace Talk: We don't plan very well at all](../transcriptions/yt-uNWZuo9AxdM.md) [https://www.youtube.com/watch?v=uNWZuo9AxdM](https://www.youtube.com/watch?v=uNWZuo9AxdM)
 * [State of Dev: Working from home](../transcriptions/yt-4umNqbDy7Yc.md) [https://www.youtube.com/watch?v=4umNqbDy7Yc](https://www.youtube.com/watch?v=4umNqbDy7Yc)
-* [Q&A: You have several job openings right now?](../transcriptions/yt-lqRP7DsUVes.md) [https://www.youtube.com/watch?v=lqRP7DsUVes](https://www.youtube.com/watch?v=lqRP7DsUVes)
 
 ## February 11th, 2020 Livestream
 * [Jace Talk: Funny roulette story](../transcriptions/yt-8Cw56ZD9syU.md) [https://www.youtube.com/watch?v=8Cw56ZD9syU](https://www.youtube.com/watch?v=8Cw56ZD9syU)

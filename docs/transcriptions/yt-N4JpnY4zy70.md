@@ -3,16 +3,16 @@ title: "January 19th, 2021 Livestream Q&A: Who in Coffee Stain plays Satisfactor
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "coffee-stainers"
     - "coffee-stainers/g2"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Who in Coffee Stain plays Satisfactory the most?
 https://www.youtube.com/watch?v=N4JpnY4zy70
 
 ### Topics
-* [Coffee Stainers](../topics/coffee-stainers.md)
 * [Coffee Stainers > G2](../topics/coffee-stainers/g2.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 
 ### Transcript
 

@@ -3,6 +3,8 @@ title: "November 23rd, 2018 Dev Blog Q&A: Did THQ Nordic buy Coffee Stain?"
 date: "2018-11-23"
 layout: transcript
 topics:
+    - "embracer-group/coffee-stain-holding/coffee-stain-north"
+    - "embracer-group/coffee-stain-holding/lavapotion"
     - "embracer-group/thq-nordic"
 ---
 # [November 23rd, 2018 Dev Blog](../2018-11-23.md)
@@ -10,6 +12,8 @@ topics:
 https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=36&end=89
 
 ### Topics
+* [Embracer Group > Coffee Stain Holding > Coffee Stain North](../topics/embracer-group/coffee-stain-holding/coffee-stain-north.md)
+* [Embracer Group > Coffee Stain Holding > Lavapotion](../topics/embracer-group/coffee-stain-holding/lavapotion.md)
 * [Embracer Group > THQ Nordic](../topics/embracer-group/thq-nordic.md)
 
 ### Transcript

@@ -3,10 +3,10 @@ title: "March 24th, 2020 Livestream Q&A: You have several job openings right now
 date: "2020-03-24"
 layout: transcript
 topics:
-    - "coffee-stainers"
     - "coffee-stainers/hannah"
     - "coffee-stainers/marie"
     - "coffee-stainers/mark"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: You have several job openings right now?
@@ -15,10 +15,10 @@ This question was possibly duplicated with a more recent answer: [January 12th, 
 
 
 ### Topics
-* [Coffee Stainers](../topics/coffee-stainers.md)
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Coffee Stainers > Marie](../topics/coffee-stainers/marie.md)
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "January 26th, 2021 Livestream Q&A: Where is Coffee Stain HQ located?"
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "coffee-stainers"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Where is Coffee Stain HQ located?
 https://www.youtube.com/watch?v=1xr77MkTmdM
 
 ### Topics
-* [Coffee Stainers](../topics/coffee-stainers.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 
 ### Transcript
 

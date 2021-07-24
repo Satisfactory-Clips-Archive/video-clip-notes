@@ -4,6 +4,7 @@ date: "2019-02-20"
 layout: transcript
 topics:
     - "coffee-stainers"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Who creates the decorations & assets?
@@ -11,6 +12,7 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=776&end=806
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 
 ### Transcript
 

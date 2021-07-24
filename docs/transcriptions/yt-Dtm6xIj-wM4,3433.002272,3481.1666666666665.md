@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers"
     - "community"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: You are one of the rare studios to be (openly) LGBTQ-friendly, why is that so important to you?
@@ -13,6 +14,7 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3433&end=3482
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Community](../topics/community.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 
 ### Transcript
 

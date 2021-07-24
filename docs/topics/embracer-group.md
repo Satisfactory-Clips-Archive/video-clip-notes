@@ -4,6 +4,7 @@ external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqDcbJ-gfxVZx50F
 date: Last Modified
 ---
 # [Topics](../topics.md) > Embracer Group
+* [Coffee Stain Holding](../topics/embracer-group/coffee-stain-holding.md)
 * [Gearbox Software](../topics/embracer-group/gearbox-software.md)
 * [THQ Nordic](../topics/embracer-group/thq-nordic.md)
 

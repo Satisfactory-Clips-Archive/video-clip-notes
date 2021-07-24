@@ -4,6 +4,7 @@ date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers"
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [February 11th, 2020 Livestream](../2020-02-11.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=ZfUik8FwH2Y
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript

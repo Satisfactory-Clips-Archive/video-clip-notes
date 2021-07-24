@@ -3,6 +3,7 @@ title: "December 19th, 2019 Livestream Q&A: Does it mean we get Goats?"
 date: "2019-12-19"
 layout: transcript
 topics:
+    - "embracer-group/coffee-stain-holding/coffee-stain-north"
     - "environment/creatures"
     - "off-topic/goat-simulator"
 ---
@@ -13,6 +14,7 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 
 ### Topics
+* [Embracer Group > Coffee Stain Holding > Coffee Stain North](../topics/embracer-group/coffee-stain-holding/coffee-stain-north.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
 

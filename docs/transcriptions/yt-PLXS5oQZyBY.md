@@ -3,6 +3,7 @@ title: "June 15th, 2021 Livestream Snutt & Jace Talk: Songs of Conquest"
 date: "2021-06-15"
 layout: transcript
 topics:
+    - "embracer-group/coffee-stain-holding/lavapotion"
     - "off-topic/songs-of-conquest"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=PLXS5oQZyBY
 
 ### Topics
+* [Embracer Group > Coffee Stain Holding > Lavapotion](../topics/embracer-group/coffee-stain-holding/lavapotion.md)
 * [Off-Topic > Songs of Conquest](../topics/off-topic/songs-of-conquest.md)
 
 ### Transcript
