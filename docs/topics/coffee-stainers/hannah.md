@@ -113,7 +113,7 @@ date: Last Modified
 
 ## December 19th, 2019 Video
 * [Alpha Keys - Simon Saga Ep. 13 [BTS] (February 2019)](../../transcriptions/yt-52nYaN8imgo,37.1,45.26.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46)
-* [Developre Highlight - Level Design [BTS] (October 2019)](../../transcriptions/yt-52nYaN8imgo,75.48,80.4.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81)
+* [Developer Highlight - Level Design [BTS] (October 2019)](../../transcriptions/yt-52nYaN8imgo,75.48,80.4.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81)
 * [Developer Highlights - Helping Jace with programming](../../transcriptions/yt-52nYaN8imgo,152.94,169.54.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170)
 * [Developer Highlights - Who's your favourite person in the office?](../../transcriptions/yt-52nYaN8imgo,190.88,194.28.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=190&end=195)
 * [Developer Highlight - Level Design [BTS] (October 2019)](../../transcriptions/yt-52nYaN8imgo,292.66,305.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=292&end=305](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=292&end=305)

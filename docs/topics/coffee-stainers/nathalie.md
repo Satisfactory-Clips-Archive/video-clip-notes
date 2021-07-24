@@ -27,7 +27,7 @@ date: Last Modified
 * [Q&A: Do you know how much we love you?](../../transcriptions/yt-EBG0144tNiQ.md) [https://www.youtube.com/watch?v=EBG0144tNiQ](https://www.youtube.com/watch?v=EBG0144tNiQ)
 
 ## December 19th, 2019 Video
-* [Developre Highlight - Level Design [BTS] (October 2019)](../../transcriptions/yt-52nYaN8imgo,75.48,80.4.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81)
+* [Developer Highlight - Level Design [BTS] (October 2019)](../../transcriptions/yt-52nYaN8imgo,75.48,80.4.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=75&end=81)
 * [500 Alpha Keys Sent Out! - Simon Saga Ep. 2 [BTS] (October 2018)](../../transcriptions/yt-52nYaN8imgo,80.4,88.42.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=80&end=89](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=80&end=89)
 * [Developer Highlights - What kind of hardware do you use?](../../transcriptions/yt-52nYaN8imgo,142.38,148.52.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=142&end=149)
 * [Developer Highlights - Helping Jace with programming](../../transcriptions/yt-52nYaN8imgo,152.94,169.54.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=152&end=170)
