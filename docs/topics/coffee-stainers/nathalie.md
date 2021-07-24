@@ -22,8 +22,8 @@ date: Last Modified
 * [Q&A: Are there any Dutch people in Coffee Stain?](../../transcriptions/yt-ZhrRG351PsI.md) [https://www.youtube.com/watch?v=ZhrRG351PsI](https://www.youtube.com/watch?v=ZhrRG351PsI)
 
 ## December 19th, 2019 Livestream
-* [Q&A: What software does Nathalie use?](../../transcriptions/yt-mzJAHopMW8o.md) [https://www.youtube.com/watch?v=mzJAHopMW8o](https://www.youtube.com/watch?v=mzJAHopMW8o)
 * [Q&A: Favourite problem to solve in the UI so far?](../../transcriptions/yt-cONX37SiszU.md) [https://www.youtube.com/watch?v=cONX37SiszU](https://www.youtube.com/watch?v=cONX37SiszU)
+* [Q&A: What software does Nathalie use?](../../transcriptions/yt-mzJAHopMW8o.md) [https://www.youtube.com/watch?v=mzJAHopMW8o](https://www.youtube.com/watch?v=mzJAHopMW8o)
 * [Q&A: Do you know how much we love you?](../../transcriptions/yt-EBG0144tNiQ.md) [https://www.youtube.com/watch?v=EBG0144tNiQ](https://www.youtube.com/watch?v=EBG0144tNiQ)
 
 ## December 19th, 2019 Video

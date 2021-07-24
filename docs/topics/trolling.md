@@ -229,9 +229,9 @@ date: Last Modified
 * [Q&A: Is this the new Desert Biome?](../transcriptions/yt-ZKHgWByn3D4.md) [https://www.youtube.com/watch?v=ZKHgWByn3D4](https://www.youtube.com/watch?v=ZKHgWByn3D4)
 
 ## December 19th, 2019 Livestream
-* [Q&A: What happened to the keys?](../transcriptions/yt-Xv-yl9jnC4s.md) [https://www.youtube.com/watch?v=Xv-yl9jnC4s](https://www.youtube.com/watch?v=Xv-yl9jnC4s)
 * [Q&A: What's Hannah's take on rocks that aren't on the ground?](../transcriptions/yt-y8FchPasYvI.md) [https://www.youtube.com/watch?v=y8FchPasYvI](https://www.youtube.com/watch?v=y8FchPasYvI)
 * [Snutt & Hannah Talk: Hannah wants to delete the map.](../transcriptions/yt-_bVk1N0dvDY.md) [https://www.youtube.com/watch?v=_bVk1N0dvDY](https://www.youtube.com/watch?v=_bVk1N0dvDY)
+* [Q&A: What happened to the keys?](../transcriptions/yt-Xv-yl9jnC4s.md) [https://www.youtube.com/watch?v=Xv-yl9jnC4s](https://www.youtube.com/watch?v=Xv-yl9jnC4s)
 
 ## December 19th, 2019 Video
 * [April Update Info + Milo tutorial (April 2019)](../transcriptions/yt-52nYaN8imgo,21.58,24.46.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25)

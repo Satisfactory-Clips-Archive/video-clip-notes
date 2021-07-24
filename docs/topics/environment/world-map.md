@@ -231,15 +231,15 @@ date: Last Modified
 * [Q&A: In a far and glorious future will we have other maps?](../../transcriptions/yt-NlIVwoRqjVk,1213.6124,1227.0591666666667.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1213&end=1228](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1213&end=1228)
 
 ## December 19th, 2019 Livestream
+* [Q&A: Is Hannah working on a new level?](../../transcriptions/yt-gcdDfoBWaog.md) [https://www.youtube.com/watch?v=gcdDfoBWaog](https://www.youtube.com/watch?v=gcdDfoBWaog)
+* [Q&A: What's Hannah's take on rocks that aren't on the ground?](../../transcriptions/yt-y8FchPasYvI.md) [https://www.youtube.com/watch?v=y8FchPasYvI](https://www.youtube.com/watch?v=y8FchPasYvI)
+* [Q&A: What's Hannah's favourite part of level design?](../../transcriptions/yt-sDZjuyYO-zE.md) [https://www.youtube.com/watch?v=sDZjuyYO-zE](https://www.youtube.com/watch?v=sDZjuyYO-zE)
+* [Hannah Talk: Non-buoyant water](../../transcriptions/yt-lbjhdAumMKc.md) [https://www.youtube.com/watch?v=lbjhdAumMKc](https://www.youtube.com/watch?v=lbjhdAumMKc)
+* [Q&A: Are there any Easter Eggs in the landscape?](../../transcriptions/yt-06YaY3zGZeg.md) [https://www.youtube.com/watch?v=06YaY3zGZeg](https://www.youtube.com/watch?v=06YaY3zGZeg)
+* Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
+* [Snutt & Hannah Talk: Hannah wants to delete the map.](../../transcriptions/yt-_bVk1N0dvDY.md) [https://www.youtube.com/watch?v=_bVk1N0dvDY](https://www.youtube.com/watch?v=_bVk1N0dvDY)
 * [Q&A: Underwater Worlds?](../../transcriptions/yt-QXK9y3pnWGg.md) [https://www.youtube.com/watch?v=QXK9y3pnWGg](https://www.youtube.com/watch?v=QXK9y3pnWGg)
 * [Q&A: Is there going to be a way to destroy the fart rock?](../../transcriptions/yt-byPiSQZOAhw.md) [https://www.youtube.com/watch?v=byPiSQZOAhw](https://www.youtube.com/watch?v=byPiSQZOAhw)
-* [Q&A: What's Hannah's favourite part of level design?](../../transcriptions/yt-sDZjuyYO-zE.md) [https://www.youtube.com/watch?v=sDZjuyYO-zE](https://www.youtube.com/watch?v=sDZjuyYO-zE)
-* [Q&A: What's Hannah's take on rocks that aren't on the ground?](../../transcriptions/yt-y8FchPasYvI.md) [https://www.youtube.com/watch?v=y8FchPasYvI](https://www.youtube.com/watch?v=y8FchPasYvI)
-* [Snutt & Hannah Talk: Hannah wants to delete the map.](../../transcriptions/yt-_bVk1N0dvDY.md) [https://www.youtube.com/watch?v=_bVk1N0dvDY](https://www.youtube.com/watch?v=_bVk1N0dvDY)
-* Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
-* [Q&A: Are there any Easter Eggs in the landscape?](../../transcriptions/yt-06YaY3zGZeg.md) [https://www.youtube.com/watch?v=06YaY3zGZeg](https://www.youtube.com/watch?v=06YaY3zGZeg)
-* [Hannah Talk: Non-buoyant water](../../transcriptions/yt-lbjhdAumMKc.md) [https://www.youtube.com/watch?v=lbjhdAumMKc](https://www.youtube.com/watch?v=lbjhdAumMKc)
-* [Q&A: Is Hannah working on a new level?](../../transcriptions/yt-gcdDfoBWaog.md) [https://www.youtube.com/watch?v=gcdDfoBWaog](https://www.youtube.com/watch?v=gcdDfoBWaog)
 
 ## October 24th, 2019 Video
 * [Hannah Talk: Community feedback on level bugs](../../transcriptions/yt-8WYNwGDLYNE,132.8,150.36.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=132&end=151](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=132&end=151)

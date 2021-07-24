@@ -303,10 +303,10 @@ date: Last Modified
 * [Jace Talk: Upcoming Livestream](../../transcriptions/yt-pTKDTJSsAm4,214.5143,247.8476.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=214&end=248](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=214&end=248)
 
 ## December 19th, 2019 Livestream
-* [Q&A: Snutt Jace's baby Community Manager?](../../transcriptions/yt-mmaqnomYjFQ.md) [https://www.youtube.com/watch?v=mmaqnomYjFQ](https://www.youtube.com/watch?v=mmaqnomYjFQ)
-* [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../transcriptions/yt-krQI-cHEAl8.md) [https://www.youtube.com/watch?v=krQI-cHEAl8](https://www.youtube.com/watch?v=krQI-cHEAl8)
-* [Q&A: Will Birk take Snutt's hat & put it on?](../../transcriptions/yt-QGR8OUtf08c.md) [https://www.youtube.com/watch?v=QGR8OUtf08c](https://www.youtube.com/watch?v=QGR8OUtf08c)
 * [Q&A: What is the job of Community Managers?](../../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
+* [Q&A: Will Birk take Snutt's hat & put it on?](../../transcriptions/yt-QGR8OUtf08c.md) [https://www.youtube.com/watch?v=QGR8OUtf08c](https://www.youtube.com/watch?v=QGR8OUtf08c)
+* [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../transcriptions/yt-krQI-cHEAl8.md) [https://www.youtube.com/watch?v=krQI-cHEAl8](https://www.youtube.com/watch?v=krQI-cHEAl8)
+* [Q&A: Snutt Jace's baby Community Manager?](../../transcriptions/yt-mmaqnomYjFQ.md) [https://www.youtube.com/watch?v=mmaqnomYjFQ](https://www.youtube.com/watch?v=mmaqnomYjFQ)
 
 ## December 19th, 2019 Video
 * [Alpha Keys - Simon Saga Ep. 13 [BTS] (February 2019)](../../transcriptions/yt-52nYaN8imgo,37.1,45.26.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46)

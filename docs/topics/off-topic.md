@@ -152,12 +152,12 @@ date: Last Modified
 * [Snutt & Jace Talk: Game delays](../transcriptions/yt-xE2XbR8_jgA.md) [https://www.youtube.com/watch?v=xE2XbR8_jgA](https://www.youtube.com/watch?v=xE2XbR8_jgA)
 
 ## December 19th, 2019 Livestream
-* [Q&A: How is Simon so jacked?](../transcriptions/yt-yRdv_AYUVR4.md) [https://www.youtube.com/watch?v=yRdv_AYUVR4](https://www.youtube.com/watch?v=yRdv_AYUVR4)
-* [Jace, Snutt, & Hannah Talk: Modelling real-world places in games.](../transcriptions/yt-kxQNltod8kw.md) [https://www.youtube.com/watch?v=kxQNltod8kw](https://www.youtube.com/watch?v=kxQNltod8kw)
-* [Q&A: Did you meet the makers of Space Engineers?](../transcriptions/yt-aeNPY1Wpos8.md) [https://www.youtube.com/watch?v=aeNPY1Wpos8](https://www.youtube.com/watch?v=aeNPY1Wpos8)
-* [Q&A: Will Birk take Snutt's hat & put it on?](../transcriptions/yt-QGR8OUtf08c.md) [https://www.youtube.com/watch?v=QGR8OUtf08c](https://www.youtube.com/watch?v=QGR8OUtf08c)
-* [Q&A: Can Birk slap Jace?](../transcriptions/yt-BEOwkK8suFc.md) [https://www.youtube.com/watch?v=BEOwkK8suFc](https://www.youtube.com/watch?v=BEOwkK8suFc)
 * Q&A: No Coffee in Coffee Stain? [https://www.youtube.com/watch?v=bNX04zqQ-uY](https://www.youtube.com/watch?v=bNX04zqQ-uY)
+* [Q&A: Can Birk slap Jace?](../transcriptions/yt-BEOwkK8suFc.md) [https://www.youtube.com/watch?v=BEOwkK8suFc](https://www.youtube.com/watch?v=BEOwkK8suFc)
+* [Q&A: Will Birk take Snutt's hat & put it on?](../transcriptions/yt-QGR8OUtf08c.md) [https://www.youtube.com/watch?v=QGR8OUtf08c](https://www.youtube.com/watch?v=QGR8OUtf08c)
+* [Q&A: Did you meet the makers of Space Engineers?](../transcriptions/yt-aeNPY1Wpos8.md) [https://www.youtube.com/watch?v=aeNPY1Wpos8](https://www.youtube.com/watch?v=aeNPY1Wpos8)
+* [Jace, Snutt, & Hannah Talk: Modelling real-world places in games.](../transcriptions/yt-kxQNltod8kw.md) [https://www.youtube.com/watch?v=kxQNltod8kw](https://www.youtube.com/watch?v=kxQNltod8kw)
+* [Q&A: How is Simon so jacked?](../transcriptions/yt-yRdv_AYUVR4.md) [https://www.youtube.com/watch?v=yRdv_AYUVR4](https://www.youtube.com/watch?v=yRdv_AYUVR4)
 
 ## March 9th, 2019 Livestream
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../transcriptions/yt-3gFgrVEkOpc.md) [https://www.youtube.com/watch?v=3gFgrVEkOpc](https://www.youtube.com/watch?v=3gFgrVEkOpc)

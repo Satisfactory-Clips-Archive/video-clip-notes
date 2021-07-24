@@ -37,8 +37,8 @@ date: Last Modified
 * [Q&A: We need some more Easter Egg hints from Hannah?](../transcriptions/yt-faI65v9Solc.md) [https://www.youtube.com/watch?v=faI65v9Solc](https://www.youtube.com/watch?v=faI65v9Solc)
 
 ## December 19th, 2019 Livestream
-* [Q&A: Are there any Easter Eggs in the landscape?](../transcriptions/yt-06YaY3zGZeg.md) [https://www.youtube.com/watch?v=06YaY3zGZeg](https://www.youtube.com/watch?v=06YaY3zGZeg)
 * [Q&A: Can we put the "Nani‽" back in?](../transcriptions/yt-sn0yrFw_Lfw.md) [https://www.youtube.com/watch?v=sn0yrFw_Lfw](https://www.youtube.com/watch?v=sn0yrFw_Lfw)
+* [Q&A: Are there any Easter Eggs in the landscape?](../transcriptions/yt-06YaY3zGZeg.md) [https://www.youtube.com/watch?v=06YaY3zGZeg](https://www.youtube.com/watch?v=06YaY3zGZeg)
 
 ## May 24th, 2019 Video
 * [Kristoffer Talk: Easter Eggs & Community Feedback](../transcriptions/yt-fI7gnbG4Omk,258.52,304.52.md) [https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=258&end=305](https://youtube.com/embed/fI7gnbG4Omk?autoplay=1&start=258&end=305)

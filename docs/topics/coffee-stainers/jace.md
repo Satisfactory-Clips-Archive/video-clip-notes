@@ -367,14 +367,14 @@ date: Last Modified
 * [Q&A: Why two Community Managers again?](../../transcriptions/yt-vr0RPVS158o.md) [https://www.youtube.com/watch?v=vr0RPVS158o](https://www.youtube.com/watch?v=vr0RPVS158o)
 
 ## December 19th, 2019 Livestream
-* [Q&A: Snutt Jace's baby Community Manager?](../../transcriptions/yt-mmaqnomYjFQ.md) [https://www.youtube.com/watch?v=mmaqnomYjFQ](https://www.youtube.com/watch?v=mmaqnomYjFQ)
-* [Q&A: Are there any plans on releasing these arts?](../../transcriptions/yt-caJMcQ-Z0eE.md) [https://www.youtube.com/watch?v=caJMcQ-Z0eE](https://www.youtube.com/watch?v=caJMcQ-Z0eE)
-* [Jace, Snutt, & Hannah Talk: Jace can't pronounce last names](../../transcriptions/yt-k2MGfjgt5Wo.md) [https://www.youtube.com/watch?v=k2MGfjgt5Wo](https://www.youtube.com/watch?v=k2MGfjgt5Wo)
-* [Q&A: What does Hannah think about Jace's hair?](../../transcriptions/yt-Pum1v7HDgzU.md) [https://www.youtube.com/watch?v=Pum1v7HDgzU](https://www.youtube.com/watch?v=Pum1v7HDgzU)
-* [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../transcriptions/yt-krQI-cHEAl8.md) [https://www.youtube.com/watch?v=krQI-cHEAl8](https://www.youtube.com/watch?v=krQI-cHEAl8)
-* [Q&A: Can Birk slap Jace?](../../transcriptions/yt-BEOwkK8suFc.md) [https://www.youtube.com/watch?v=BEOwkK8suFc](https://www.youtube.com/watch?v=BEOwkK8suFc)
-* [Q&A: Can Jace smile for us?](../../transcriptions/yt-L5MBf2GoTxQ.md) [https://www.youtube.com/watch?v=L5MBf2GoTxQ](https://www.youtube.com/watch?v=L5MBf2GoTxQ)
 * [Q&A: What is the job of Community Managers?](../../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
+* [Q&A: Can Jace smile for us?](../../transcriptions/yt-L5MBf2GoTxQ.md) [https://www.youtube.com/watch?v=L5MBf2GoTxQ](https://www.youtube.com/watch?v=L5MBf2GoTxQ)
+* [Q&A: Can Birk slap Jace?](../../transcriptions/yt-BEOwkK8suFc.md) [https://www.youtube.com/watch?v=BEOwkK8suFc](https://www.youtube.com/watch?v=BEOwkK8suFc)
+* [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../transcriptions/yt-krQI-cHEAl8.md) [https://www.youtube.com/watch?v=krQI-cHEAl8](https://www.youtube.com/watch?v=krQI-cHEAl8)
+* [Q&A: What does Hannah think about Jace's hair?](../../transcriptions/yt-Pum1v7HDgzU.md) [https://www.youtube.com/watch?v=Pum1v7HDgzU](https://www.youtube.com/watch?v=Pum1v7HDgzU)
+* [Jace, Snutt, & Hannah Talk: Jace can't pronounce last names](../../transcriptions/yt-k2MGfjgt5Wo.md) [https://www.youtube.com/watch?v=k2MGfjgt5Wo](https://www.youtube.com/watch?v=k2MGfjgt5Wo)
+* [Q&A: Are there any plans on releasing these arts?](../../transcriptions/yt-caJMcQ-Z0eE.md) [https://www.youtube.com/watch?v=caJMcQ-Z0eE](https://www.youtube.com/watch?v=caJMcQ-Z0eE)
+* [Q&A: Snutt Jace's baby Community Manager?](../../transcriptions/yt-mmaqnomYjFQ.md) [https://www.youtube.com/watch?v=mmaqnomYjFQ](https://www.youtube.com/watch?v=mmaqnomYjFQ)
 
 ## December 19th, 2019 Video
 * [April Update Info + Milo tutorial (April 2019)](../../transcriptions/yt-52nYaN8imgo,21.58,24.46.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=21&end=25)

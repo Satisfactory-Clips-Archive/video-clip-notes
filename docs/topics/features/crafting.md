@@ -70,8 +70,8 @@ date: Last Modified
 * Q&A: Set a specific Foundation as the keystone [https://clips.twitch.tv/GoodAnimatedSproutPipeHype](https://clips.twitch.tv/GoodAnimatedSproutPipeHype)
 
 ## December 19th, 2019 Livestream
-* [Q&A: Can we put the "Nani‽" back in?](../../transcriptions/yt-sn0yrFw_Lfw.md) [https://www.youtube.com/watch?v=sn0yrFw_Lfw](https://www.youtube.com/watch?v=sn0yrFw_Lfw)
 * [Q&A: Favourite problem to solve in the UI so far?](../../transcriptions/yt-cONX37SiszU.md) [https://www.youtube.com/watch?v=cONX37SiszU](https://www.youtube.com/watch?v=cONX37SiszU)
+* [Q&A: Can we put the "Nani‽" back in?](../../transcriptions/yt-sn0yrFw_Lfw.md) [https://www.youtube.com/watch?v=sn0yrFw_Lfw](https://www.youtube.com/watch?v=sn0yrFw_Lfw)
 
 ## February 6th, 2019 Livestream
 * [Q&A: How many items exist?](../../transcriptions/yt-Dtm6xIj-wM4,3200.183129,3219.325619.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3200&end=3220](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3200&end=3220)

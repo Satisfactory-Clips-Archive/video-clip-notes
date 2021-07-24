@@ -269,11 +269,11 @@ date: Last Modified
 * [Q&A: Alignment issues?](../../transcriptions/yt-Wqkx9p4mbn0.md) [https://www.youtube.com/watch?v=Wqkx9p4mbn0](https://www.youtube.com/watch?v=Wqkx9p4mbn0)
 
 ## December 19th, 2019 Livestream
-* [Q&A: Is there going to be a central computer plant where you can check the whole production?](../../transcriptions/yt-Zlq2K0-z0_8.md) [https://www.youtube.com/watch?v=Zlq2K0-z0_8](https://www.youtube.com/watch?v=Zlq2K0-z0_8)
-* [Q&A: Can we put the "Nani‽" back in?](../../transcriptions/yt-sn0yrFw_Lfw.md) [https://www.youtube.com/watch?v=sn0yrFw_Lfw](https://www.youtube.com/watch?v=sn0yrFw_Lfw)
 * [Q&A: Favourite problem to solve in the UI so far?](../../transcriptions/yt-cONX37SiszU.md) [https://www.youtube.com/watch?v=cONX37SiszU](https://www.youtube.com/watch?v=cONX37SiszU)
-* [Q&A: Hotbars?](../../transcriptions/yt-pkYEJmwJWrg.md) [https://www.youtube.com/watch?v=pkYEJmwJWrg](https://www.youtube.com/watch?v=pkYEJmwJWrg)
+* [Q&A: Can we put the "Nani‽" back in?](../../transcriptions/yt-sn0yrFw_Lfw.md) [https://www.youtube.com/watch?v=sn0yrFw_Lfw](https://www.youtube.com/watch?v=sn0yrFw_Lfw)
 * [Q&A: Colour blind accessibility stuff?](../../transcriptions/yt-r4TS6nRxy9k.md) [https://www.youtube.com/watch?v=r4TS6nRxy9k](https://www.youtube.com/watch?v=r4TS6nRxy9k)
+* [Q&A: Hotbars?](../../transcriptions/yt-pkYEJmwJWrg.md) [https://www.youtube.com/watch?v=pkYEJmwJWrg](https://www.youtube.com/watch?v=pkYEJmwJWrg)
+* [Q&A: Is there going to be a central computer plant where you can check the whole production?](../../transcriptions/yt-Zlq2K0-z0_8.md) [https://www.youtube.com/watch?v=Zlq2K0-z0_8](https://www.youtube.com/watch?v=Zlq2K0-z0_8)
 
 ## September 25th, 2019 Patch Notes
 * [Snutt Talk: Mass Dismantle](../../transcriptions/yt-t1LfyNfuMVQ,84.28,100.36.md) [https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=84&end=101](https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=84&end=101)

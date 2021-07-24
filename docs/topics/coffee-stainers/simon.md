@@ -70,11 +70,11 @@ date: Last Modified
 * [Q&A: Lizard Doggo plushies?](../../transcriptions/yt-SFZCi_HshCE.md) [https://www.youtube.com/watch?v=SFZCi_HshCE](https://www.youtube.com/watch?v=SFZCi_HshCE)
 
 ## December 19th, 2019 Livestream
-* [Q&A: Which one was Simon's favourite Simon Saga video?](../../transcriptions/yt-weWtkbvOxdU.md) [https://www.youtube.com/watch?v=weWtkbvOxdU](https://www.youtube.com/watch?v=weWtkbvOxdU)
-* [Q&A: Does Simon even like the game?](../../transcriptions/yt-diuFSFaPAJ4.md) [https://www.youtube.com/watch?v=diuFSFaPAJ4](https://www.youtube.com/watch?v=diuFSFaPAJ4)
-* [Q&A: Has Simon tried key pizza?](../../transcriptions/yt-qFYvqvrAFf8.md) [https://www.youtube.com/watch?v=qFYvqvrAFf8](https://www.youtube.com/watch?v=qFYvqvrAFf8)
-* [Q&A: How is Simon so jacked?](../../transcriptions/yt-yRdv_AYUVR4.md) [https://www.youtube.com/watch?v=yRdv_AYUVR4](https://www.youtube.com/watch?v=yRdv_AYUVR4)
 * [Q&A: What happened to the keys?](../../transcriptions/yt-Xv-yl9jnC4s.md) [https://www.youtube.com/watch?v=Xv-yl9jnC4s](https://www.youtube.com/watch?v=Xv-yl9jnC4s)
+* [Q&A: Which one was Simon's favourite Simon Saga video?](../../transcriptions/yt-weWtkbvOxdU.md) [https://www.youtube.com/watch?v=weWtkbvOxdU](https://www.youtube.com/watch?v=weWtkbvOxdU)
+* [Q&A: How is Simon so jacked?](../../transcriptions/yt-yRdv_AYUVR4.md) [https://www.youtube.com/watch?v=yRdv_AYUVR4](https://www.youtube.com/watch?v=yRdv_AYUVR4)
+* [Q&A: Has Simon tried key pizza?](../../transcriptions/yt-qFYvqvrAFf8.md) [https://www.youtube.com/watch?v=qFYvqvrAFf8](https://www.youtube.com/watch?v=qFYvqvrAFf8)
+* [Q&A: Does Simon even like the game?](../../transcriptions/yt-diuFSFaPAJ4.md) [https://www.youtube.com/watch?v=diuFSFaPAJ4](https://www.youtube.com/watch?v=diuFSFaPAJ4)
 
 ## December 19th, 2019 Video
 * [EPIC amount of Alpha Keys - Simon Saga Ep. 7 (December 2018)](../../transcriptions/yt-52nYaN8imgo,45.26,48.86.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=45&end=49)

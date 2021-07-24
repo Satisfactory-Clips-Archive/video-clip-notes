@@ -279,8 +279,8 @@ date: Last Modified
 * [Most Annoying Bugs?](../transcriptions/yt-pTKDTJSsAm4,300.9006,359.09206666666665.md) [https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=300&end=360](https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=300&end=360)
 
 ## December 19th, 2019 Livestream
-* [Q&A: Snutt Jace's baby Community Manager?](../transcriptions/yt-mmaqnomYjFQ.md) [https://www.youtube.com/watch?v=mmaqnomYjFQ](https://www.youtube.com/watch?v=mmaqnomYjFQ)
 * [Q&A: What is the job of Community Managers?](../transcriptions/yt-zaE2VeeV2mY.md) [https://www.youtube.com/watch?v=zaE2VeeV2mY](https://www.youtube.com/watch?v=zaE2VeeV2mY)
+* [Q&A: Snutt Jace's baby Community Manager?](../transcriptions/yt-mmaqnomYjFQ.md) [https://www.youtube.com/watch?v=mmaqnomYjFQ](https://www.youtube.com/watch?v=mmaqnomYjFQ)
 
 ## December 13th, 2019 Video
 * [Snutt Talk: Improving Community Engagement](../transcriptions/yt-N1o3tK1h8cM,61.72,72.68.md) [https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=61&end=73](https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=61&end=73)

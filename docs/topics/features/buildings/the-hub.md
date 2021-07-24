@@ -169,9 +169,9 @@ date: Last Modified
 * [Q&A: Tier 14 Toilet?](../../../transcriptions/yt-d8RBkY8oP1Q.md) [https://www.youtube.com/watch?v=d8RBkY8oP1Q](https://www.youtube.com/watch?v=d8RBkY8oP1Q)
 
 ## December 19th, 2019 Livestream
-* [Q&A: When is Coffee going to be introduced to the game?](../../../transcriptions/yt-o3Nr13tH7dY.md) [https://www.youtube.com/watch?v=o3Nr13tH7dY](https://www.youtube.com/watch?v=o3Nr13tH7dY)
-* [Q&A: Is there going to be a central computer plant where you can check the whole production?](../../../transcriptions/yt-Zlq2K0-z0_8.md) [https://www.youtube.com/watch?v=Zlq2K0-z0_8](https://www.youtube.com/watch?v=Zlq2K0-z0_8)
 * [Q&A: Will there be more competitive stuff?](../../../transcriptions/yt-sMGWvbL09qA.md) [https://www.youtube.com/watch?v=sMGWvbL09qA](https://www.youtube.com/watch?v=sMGWvbL09qA)
+* [Q&A: Is there going to be a central computer plant where you can check the whole production?](../../../transcriptions/yt-Zlq2K0-z0_8.md) [https://www.youtube.com/watch?v=Zlq2K0-z0_8](https://www.youtube.com/watch?v=Zlq2K0-z0_8)
+* [Q&A: When is Coffee going to be introduced to the game?](../../../transcriptions/yt-o3Nr13tH7dY.md) [https://www.youtube.com/watch?v=o3Nr13tH7dY](https://www.youtube.com/watch?v=o3Nr13tH7dY)
 
 ## March 9th, 2019 Livestream
 * [Q&A: Why does the rocket pod fly away for 1 - 10 minutes and then come back?](../../../transcriptions/yt-PtrLYyfhnvQ.md) [https://www.youtube.com/watch?v=PtrLYyfhnvQ](https://www.youtube.com/watch?v=PtrLYyfhnvQ)

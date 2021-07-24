@@ -194,9 +194,9 @@ date: Last Modified
 * [Q&A: Are we getting Story?](../transcriptions/yt-0U_N0TCXqxU.md) [https://www.youtube.com/watch?v=0U_N0TCXqxU](https://www.youtube.com/watch?v=0U_N0TCXqxU)
 
 ## December 19th, 2019 Livestream
-* [Q&A: Will Mercer Spheres and Somersloops be useful soon?](../transcriptions/yt-SYWPIjbe_4Y.md) [https://www.youtube.com/watch?v=SYWPIjbe_4Y](https://www.youtube.com/watch?v=SYWPIjbe_4Y)
 * [Q&A: What's Hannah's take on rocks that aren't on the ground?](../transcriptions/yt-y8FchPasYvI.md) [https://www.youtube.com/watch?v=y8FchPasYvI](https://www.youtube.com/watch?v=y8FchPasYvI)
 * [Q&A: Is there going to be a storyline?](../transcriptions/yt-mFxik_NlE0w.md) [https://www.youtube.com/watch?v=mFxik_NlE0w](https://www.youtube.com/watch?v=mFxik_NlE0w)
+* [Q&A: Will Mercer Spheres and Somersloops be useful soon?](../transcriptions/yt-SYWPIjbe_4Y.md) [https://www.youtube.com/watch?v=SYWPIjbe_4Y](https://www.youtube.com/watch?v=SYWPIjbe_4Y)
 
 ## March 9th, 2019 Livestream
 * [Q&A: Is there an actual win condition or is it just 'til end of content?](../transcriptions/yt-Pn5tcfKmF20.md) [https://www.youtube.com/watch?v=Pn5tcfKmF20](https://www.youtube.com/watch?v=Pn5tcfKmF20)

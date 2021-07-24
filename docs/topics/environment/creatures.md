@@ -142,8 +142,8 @@ date: Last Modified
 * [Q&A: Creatures and Resources in deep ocean?](../../transcriptions/yt-bz7PJ3VF6FE.md) [https://www.youtube.com/watch?v=bz7PJ3VF6FE](https://www.youtube.com/watch?v=bz7PJ3VF6FE)
 
 ## December 19th, 2019 Livestream
-* [Q&A: Will there be goats?](../../transcriptions/yt-3YZMayi1Qec.md) [https://www.youtube.com/watch?v=3YZMayi1Qec](https://www.youtube.com/watch?v=3YZMayi1Qec)
 * [Q&A: Does it mean we get Goats?](../../transcriptions/yt-RlSL5DONzns.md) [https://www.youtube.com/watch?v=RlSL5DONzns](https://www.youtube.com/watch?v=RlSL5DONzns)
+* [Q&A: Will there be goats?](../../transcriptions/yt-3YZMayi1Qec.md) [https://www.youtube.com/watch?v=3YZMayi1Qec](https://www.youtube.com/watch?v=3YZMayi1Qec)
 
 ## March 9th, 2019 Livestream
 * [Q&A: Where can I find those "cute cats"](../../transcriptions/yt-ALTf24gjRHE.md) [https://www.youtube.com/watch?v=ALTf24gjRHE](https://www.youtube.com/watch?v=ALTf24gjRHE)

@@ -102,14 +102,14 @@ date: Last Modified
 * [Q&A: You have several job openings right now?](../../transcriptions/yt-lqRP7DsUVes.md) [https://www.youtube.com/watch?v=lqRP7DsUVes](https://www.youtube.com/watch?v=lqRP7DsUVes)
 
 ## December 19th, 2019 Livestream
-* [Q&A: What's Hannah's favourite part of level design?](../../transcriptions/yt-sDZjuyYO-zE.md) [https://www.youtube.com/watch?v=sDZjuyYO-zE](https://www.youtube.com/watch?v=sDZjuyYO-zE)
-* [Q&A: What's Hannah's take on rocks that aren't on the ground?](../../transcriptions/yt-y8FchPasYvI.md) [https://www.youtube.com/watch?v=y8FchPasYvI](https://www.youtube.com/watch?v=y8FchPasYvI)
-* [Snutt & Hannah Talk: Hannah wants to delete the map.](../../transcriptions/yt-_bVk1N0dvDY.md) [https://www.youtube.com/watch?v=_bVk1N0dvDY](https://www.youtube.com/watch?v=_bVk1N0dvDY)
-* [Jace, Snutt, & Hannah Talk: Jace can't pronounce last names](../../transcriptions/yt-k2MGfjgt5Wo.md) [https://www.youtube.com/watch?v=k2MGfjgt5Wo](https://www.youtube.com/watch?v=k2MGfjgt5Wo)
-* [Q&A: What would Hannah look for in an Environment Artist's portfolio?](../../transcriptions/yt-yDZRa_7BTrU.md) [https://www.youtube.com/watch?v=yDZRa_7BTrU](https://www.youtube.com/watch?v=yDZRa_7BTrU)
-* [Q&A: What does Hannah think about Jace's hair?](../../transcriptions/yt-Pum1v7HDgzU.md) [https://www.youtube.com/watch?v=Pum1v7HDgzU](https://www.youtube.com/watch?v=Pum1v7HDgzU)
-* [Q&A: Is Hannah working on a new level?](../../transcriptions/yt-gcdDfoBWaog.md) [https://www.youtube.com/watch?v=gcdDfoBWaog](https://www.youtube.com/watch?v=gcdDfoBWaog)
 * [Q&A: Why does Hannah look like Billie Eilish?](../../transcriptions/yt-vn8SMPtHoJM.md) [https://www.youtube.com/watch?v=vn8SMPtHoJM](https://www.youtube.com/watch?v=vn8SMPtHoJM)
+* [Q&A: Is Hannah working on a new level?](../../transcriptions/yt-gcdDfoBWaog.md) [https://www.youtube.com/watch?v=gcdDfoBWaog](https://www.youtube.com/watch?v=gcdDfoBWaog)
+* [Q&A: What does Hannah think about Jace's hair?](../../transcriptions/yt-Pum1v7HDgzU.md) [https://www.youtube.com/watch?v=Pum1v7HDgzU](https://www.youtube.com/watch?v=Pum1v7HDgzU)
+* [Q&A: What would Hannah look for in an Environment Artist's portfolio?](../../transcriptions/yt-yDZRa_7BTrU.md) [https://www.youtube.com/watch?v=yDZRa_7BTrU](https://www.youtube.com/watch?v=yDZRa_7BTrU)
+* [Q&A: What's Hannah's take on rocks that aren't on the ground?](../../transcriptions/yt-y8FchPasYvI.md) [https://www.youtube.com/watch?v=y8FchPasYvI](https://www.youtube.com/watch?v=y8FchPasYvI)
+* [Q&A: What's Hannah's favourite part of level design?](../../transcriptions/yt-sDZjuyYO-zE.md) [https://www.youtube.com/watch?v=sDZjuyYO-zE](https://www.youtube.com/watch?v=sDZjuyYO-zE)
+* [Jace, Snutt, & Hannah Talk: Jace can't pronounce last names](../../transcriptions/yt-k2MGfjgt5Wo.md) [https://www.youtube.com/watch?v=k2MGfjgt5Wo](https://www.youtube.com/watch?v=k2MGfjgt5Wo)
+* [Snutt & Hannah Talk: Hannah wants to delete the map.](../../transcriptions/yt-_bVk1N0dvDY.md) [https://www.youtube.com/watch?v=_bVk1N0dvDY](https://www.youtube.com/watch?v=_bVk1N0dvDY)
 
 ## December 19th, 2019 Video
 * [Alpha Keys - Simon Saga Ep. 13 [BTS] (February 2019)](../../transcriptions/yt-52nYaN8imgo,37.1,45.26.md) [https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46](https://youtube.com/embed/52nYaN8imgo?autoplay=1&start=37&end=46)
