@@ -3,7 +3,7 @@ title: "January 22nd, 2020 Livestream Q&A: When is Satisfactory 2 coming out?"
 date: "2020-01-22"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates/speculative/satisfactory-2-0"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: When is Satisfactory 2 coming out?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 20th, 
 
 
 ### Topics
-
+* [Satisfactory Updates > Speculative > Satisfactory 2.0](../topics/satisfactory-updates/speculative/satisfactory-2-0.md)
 
 ### Transcript
 

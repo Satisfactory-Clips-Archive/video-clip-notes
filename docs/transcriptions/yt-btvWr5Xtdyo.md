@@ -3,7 +3,7 @@ title: "September 22nd, 2020 Livestream Q&A: When will Satisfactory 2 come out f
 date: "2020-09-22"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates/speculative/satisfactory-2-0"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: When will Satisfactory 2 come out for Raspberry Pi 4?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 20th, 
 
 
 ### Topics
-
+* [Satisfactory Updates > Speculative > Satisfactory 2.0](../topics/satisfactory-updates/speculative/satisfactory-2-0.md)
 
 ### Transcript
 
