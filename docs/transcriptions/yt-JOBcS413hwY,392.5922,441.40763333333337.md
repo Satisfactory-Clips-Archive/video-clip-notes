@@ -4,6 +4,7 @@ date: "2020-07-23"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "coffee-stainers/jace/jace-art"
     - "features/buildables/lights"
     - "trolling"
 ---
@@ -13,6 +14,7 @@ https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=392&end=442
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Jace > Jace Art](../topics/coffee-stainers/jace/jace-art.md)
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Trolling](../topics/trolling.md)
 

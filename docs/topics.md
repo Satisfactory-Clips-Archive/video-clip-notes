@@ -36,6 +36,7 @@ date: Last Modified
 
 ## [Jace](./topics/coffee-stainers/jace.md)
 * ["Fix Jace" QA Site Posts](./topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
+* [Jace Art](./topics/coffee-stainers/jace/jace-art.md)
 ---
 
 ## [Simon](./topics/coffee-stainers/simon.md)

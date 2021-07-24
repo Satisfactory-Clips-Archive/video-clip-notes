@@ -11,3 +11,4 @@ date: Last Modified
 
 ## July 23rd, 2020 Video
 * [Jace Art: Programmable Automation Robot](../../transcriptions/yt-JOBcS413hwY,489.3221666666667,533.2660666666667.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=489&end=534](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=489&end=534)
+* [Jace Art: Bonus Clip!](../../transcriptions/yt-JOBcS413hwY,580.4131666666667.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=580](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=580)

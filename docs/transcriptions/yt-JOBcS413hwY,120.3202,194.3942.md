@@ -4,6 +4,7 @@ date: "2020-07-23"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "coffee-stainers/jace/jace-art"
     - "trolling"
 ---
 # [July 23rd, 2020 Video](../2020-07-23.md)
@@ -12,6 +13,7 @@ https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=120&end=195
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Jace > Jace Art](../topics/coffee-stainers/jace/jace-art.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

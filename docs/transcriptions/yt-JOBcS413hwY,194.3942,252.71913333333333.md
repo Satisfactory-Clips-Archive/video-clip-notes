@@ -4,6 +4,7 @@ date: "2020-07-23"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "coffee-stainers/jace/jace-art"
     - "coffee-stainers/snutt"
     - "trolling"
 ---
@@ -13,6 +14,7 @@ https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=194&end=253
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Jace > Jace Art](../topics/coffee-stainers/jace/jace-art.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Trolling](../topics/trolling.md)
 

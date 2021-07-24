@@ -4,6 +4,7 @@ date: "2020-07-23"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "coffee-stainers/jace/jace-art"
     - "features/photo-mode"
     - "trolling"
 ---
@@ -13,6 +14,7 @@ https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=292&end=354
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Jace > Jace Art](../topics/coffee-stainers/jace/jace-art.md)
 * [Features > Photo Mode](../topics/features/photo-mode.md)
 * [Trolling](../topics/trolling.md)
 

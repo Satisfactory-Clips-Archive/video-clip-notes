@@ -3,7 +3,7 @@ title: "December 19th, 2019 Livestream Q&A: Are there any plans on releasing the
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "coffee-stainers/jace"
+    - "coffee-stainers/jace/jace-art"
     - "merch"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=caJMcQ-Z0eE
 
 ### Topics
-* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Jace > Jace Art](../topics/coffee-stainers/jace/jace-art.md)
 * [Merch](../topics/merch.md)
 
 ### Transcript

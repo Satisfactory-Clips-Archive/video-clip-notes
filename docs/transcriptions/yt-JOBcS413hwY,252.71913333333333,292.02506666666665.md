@@ -4,6 +4,7 @@ date: "2020-07-23"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "coffee-stainers/jace/jace-art"
     - "features/possible-features/dlc/toilet-paper-dlc"
     - "trolling"
 ---
@@ -13,6 +14,7 @@ https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=252&end=293
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Jace > Jace Art](../topics/coffee-stainers/jace/jace-art.md)
 * [Features > Possible Features > DLC > Toilet Paper DLC](../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 * [Trolling](../topics/trolling.md)
 

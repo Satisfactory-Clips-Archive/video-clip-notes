@@ -5,6 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
+* [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
 ## July 16th, 2021 Livestream
 * [Intro Karaoke (RIP Chester)](../../transcriptions/yt-Z2WggHmVHGI,,9.6096.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=0&end=10](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=0&end=10)
@@ -373,7 +374,6 @@ date: Last Modified
 * [Q&A: Will Snutt carry on Jace's legacy thinking about Pipes?](../../transcriptions/yt-krQI-cHEAl8.md) [https://www.youtube.com/watch?v=krQI-cHEAl8](https://www.youtube.com/watch?v=krQI-cHEAl8)
 * [Q&A: What does Hannah think about Jace's hair?](../../transcriptions/yt-Pum1v7HDgzU.md) [https://www.youtube.com/watch?v=Pum1v7HDgzU](https://www.youtube.com/watch?v=Pum1v7HDgzU)
 * [Jace, Snutt, & Hannah Talk: Jace can't pronounce last names](../../transcriptions/yt-k2MGfjgt5Wo.md) [https://www.youtube.com/watch?v=k2MGfjgt5Wo](https://www.youtube.com/watch?v=k2MGfjgt5Wo)
-* [Q&A: Are there any plans on releasing these arts?](../../transcriptions/yt-caJMcQ-Z0eE.md) [https://www.youtube.com/watch?v=caJMcQ-Z0eE](https://www.youtube.com/watch?v=caJMcQ-Z0eE)
 * [Q&A: Snutt Jace's baby Community Manager?](../../transcriptions/yt-mmaqnomYjFQ.md) [https://www.youtube.com/watch?v=mmaqnomYjFQ](https://www.youtube.com/watch?v=mmaqnomYjFQ)
 
 ## December 19th, 2019 Video
