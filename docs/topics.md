@@ -7,12 +7,10 @@ date: Last Modified
 * [Anna](./topics/coffee-stainers/anna.md)
 * [Ben](./topics/coffee-stainers/ben.md)
 * [Birk](./topics/coffee-stainers/birk.md)
-* [Coffee Stainers can't pronounce Hannah's last name](./topics/coffee-stainers/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 * [Dylan](./topics/coffee-stainers/dylan.md)
 * [Etienne](./topics/coffee-stainers/etienne.md)
 * [G2](./topics/coffee-stainers/g2.md)
 * [Gnutt](./topics/coffee-stainers/gnutt.md)
-* [Hannah](./topics/coffee-stainers/hannah.md)
 * [Jannik](./topics/coffee-stainers/jannik.md)
 * [Joel](./topics/coffee-stainers/joel.md)
 * [Kristoffer](./topics/coffee-stainers/kristoffer.md)
@@ -31,6 +29,10 @@ date: Last Modified
 * [Tobias](./topics/coffee-stainers/tobias.md)
 * [Torsten](./topics/coffee-stainers/torsten.md)
 * [Uzu](./topics/coffee-stainers/uzu.md)
+
+## [Hannah](./topics/coffee-stainers/hannah.md)
+* [Coffee Stainers can't pronounce Hannah's last name](./topics/coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name.md)
+---
 
 ## [Jace](./topics/coffee-stainers/jace.md)
 * ["Fix Jace" QA Site Posts](./topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)

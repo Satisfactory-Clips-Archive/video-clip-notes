@@ -3,8 +3,8 @@ title: "December 19th, 2019 Livestream Jace, Snutt, & Hannah Talk: Jace can't pr
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "coffee-stainers/coffee-stainers-cant-pronounce-hannahs-last-name"
     - "coffee-stainers/hannah"
+    - "coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name"
     - "coffee-stainers/jace"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=k2MGfjgt5Wo
 
 ### Topics
-* [Coffee Stainers > Coffee Stainers can't pronounce Hannah's last name](../topics/coffee-stainers/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
+* [Coffee Stainers > Hannah > Coffee Stainers can't pronounce Hannah's last name](../topics/coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 
 ### Transcript
