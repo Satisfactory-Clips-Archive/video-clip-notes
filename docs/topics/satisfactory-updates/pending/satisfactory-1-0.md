@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## July 20th, 2021 Livestream
+* [Q&A: How are plans surrounding 1.0 shaping up?](../../../transcriptions/yt-ERZuus5HBho.md) [https://www.youtube.com/watch?v=ERZuus5HBho](https://www.youtube.com/watch?v=ERZuus5HBho)
+* [Q&A: How many Updates 'til 1.0?](../../../transcriptions/yt-CtPbiRm_Geg.md) [https://www.youtube.com/watch?v=CtPbiRm_Geg](https://www.youtube.com/watch?v=CtPbiRm_Geg)
+* [Q&A: Will version 1.0 let us sit on the in-game Toilet?](../../../transcriptions/yt-q_5mt4kk7o4.md) [https://www.youtube.com/watch?v=q_5mt4kk7o4](https://www.youtube.com/watch?v=q_5mt4kk7o4)
+* [Q&A: Will 1.0 remain compatible with current PC hardware?](../../../transcriptions/yt-Q0wo21IdowE.md) [https://www.youtube.com/watch?v=Q0wo21IdowE](https://www.youtube.com/watch?v=Q0wo21IdowE)
+
 ## July 13th, 2021 Livestream
 * Q&A: Will Update 5 be the Train remake and/or the last Update before 1.0? [https://www.youtube.com/watch?v=qjuQW9Qx5Mo](https://www.youtube.com/watch?v=qjuQW9Qx5Mo)
 

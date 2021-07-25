@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Snutt](../../../topics/coffee-stainers/snutt.md) > Snutt Burger Time
 
+## July 20th, 2021 Livestream
+* Q&A: Is Jace taking over Snutt's Burger Time duties? [https://www.youtube.com/watch?v=FhPfeosk3EQ](https://www.youtube.com/watch?v=FhPfeosk3EQ)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Burger or Pizza today, Snutt?](../../../transcriptions/yt-fXSxpjRKyts.md) [https://www.youtube.com/watch?v=fXSxpjRKyts](https://www.youtube.com/watch?v=fXSxpjRKyts)
 

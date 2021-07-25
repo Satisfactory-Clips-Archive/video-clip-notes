@@ -10,6 +10,8 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?
 https://www.youtube.com/watch?v=5BOnK8wVCro
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Will Mk.3 Miners get two outputs to transport the full production?](./yt-my4Zmq3LUNU.md) [https://www.youtube.com/watch?v=my4Zmq3LUNU](https://www.youtube.com/watch?v=my4Zmq3LUNU)
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

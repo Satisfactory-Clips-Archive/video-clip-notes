@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Any timeframe for Update 5?
 https://www.youtube.com/watch?v=3vGN4jCBhdY
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: When is Update 5 coming?](./yt-iwOHi2NY5UI.md) [https://www.youtube.com/watch?v=iwOHi2NY5UI](https://www.youtube.com/watch?v=iwOHi2NY5UI)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Is Update 5 relatively close to releasing or do we have to wait a bit longer?](./yt-oGSSaTIXPUU.md) [https://www.youtube.com/watch?v=oGSSaTIXPUU](https://www.youtube.com/watch?v=oGSSaTIXPUU)
 
 
 ### Topics

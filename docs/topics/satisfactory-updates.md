@@ -17,6 +17,11 @@ date: Last Modified
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Are there big changes since Update 4?](../transcriptions/yt-srjS5H6rZSI.md) [https://www.youtube.com/watch?v=srjS5H6rZSI](https://www.youtube.com/watch?v=srjS5H6rZSI)
+* [Q&A: How many Updates 'til 1.0?](../transcriptions/yt-CtPbiRm_Geg.md) [https://www.youtube.com/watch?v=CtPbiRm_Geg](https://www.youtube.com/watch?v=CtPbiRm_Geg)
+* [Q&A: Are we expecting any patches prior to Update 5?](../transcriptions/yt-VPGerw4doBo.md) [https://www.youtube.com/watch?v=VPGerw4doBo](https://www.youtube.com/watch?v=VPGerw4doBo)
+
 ## July 13th, 2021 Livestream
 * [Community FYI: I start from scratch every time there's a major Update](../transcriptions/yt-weSHyVmGPHI.md) [https://www.youtube.com/watch?v=weSHyVmGPHI](https://www.youtube.com/watch?v=weSHyVmGPHI)
 

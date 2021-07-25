@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Early Access
 
+## July 20th, 2021 Livestream
+* [Community FYI: You only said 1 year of Early Access at launch](../../transcriptions/yt-1osB5f3a3zA.md) [https://www.youtube.com/watch?v=1osB5f3a3zA](https://www.youtube.com/watch?v=1osB5f3a3zA)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Early Access, any regrets?](../../transcriptions/yt-C5qsDMH6vRU.md) [https://www.youtube.com/watch?v=C5qsDMH6vRU](https://www.youtube.com/watch?v=C5qsDMH6vRU)
 * [Community FYI: I don't think people realise how much data you get from an EA release](../../transcriptions/yt-i-wS98XSZFc.md) [https://www.youtube.com/watch?v=i-wS98XSZFc](https://www.youtube.com/watch?v=i-wS98XSZFc)

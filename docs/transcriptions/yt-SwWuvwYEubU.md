@@ -10,7 +10,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Are we going to get the Lore?
 https://www.youtube.com/watch?v=SwWuvwYEubU
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: When are you thinking of putting out updates for the Story?](./yt-4NOvrqJdUMY.md) [https://www.youtube.com/watch?v=4NOvrqJdUMY](https://www.youtube.com/watch?v=4NOvrqJdUMY)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Story Update coming soon?](./yt-dHL-myxcngM.md) [https://www.youtube.com/watch?v=dHL-myxcngM](https://www.youtube.com/watch?v=dHL-myxcngM)
 
 
 ### Topics

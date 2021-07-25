@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## July 20th, 2021 Livestream
+* [Q&A: Will version 1.0 let us sit on the in-game Toilet?](../../../transcriptions/yt-q_5mt4kk7o4.md) [https://www.youtube.com/watch?v=q_5mt4kk7o4](https://www.youtube.com/watch?v=q_5mt4kk7o4)
+* [Q&A: Will there ever be more interaction with the HUB living space, like using the bed or computer?](../../../transcriptions/yt-HUFsO3ZHBwI.md) [https://www.youtube.com/watch?v=HUFsO3ZHBwI](https://www.youtube.com/watch?v=HUFsO3ZHBwI)
+* [Q&A: Can the HUB have live feed from Discord?](../../../transcriptions/yt-CLFSgP1ywbI.md) [https://www.youtube.com/watch?v=CLFSgP1ywbI](https://www.youtube.com/watch?v=CLFSgP1ywbI)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Go implement HUB computer, I want to see graphs & statistics?](../../../transcriptions/yt-aA0KIR6AKC8.md) [https://www.youtube.com/watch?v=aA0KIR6AKC8](https://www.youtube.com/watch?v=aA0KIR6AKC8)
 

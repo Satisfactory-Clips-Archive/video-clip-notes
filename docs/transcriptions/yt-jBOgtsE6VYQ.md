@@ -9,7 +9,7 @@ topics:
 ## Q&A: What does Mercer Sphere do, and how much does it weigh?
 https://www.youtube.com/watch?v=jBOgtsE6VYQ
 <details>
-<summary>This question may have been asked previously at least 10 other times, as recently as May 2021 and as early as February 2020.</summary>
+<summary>This question may have been asked previously at least 9 other times, as recently as May 2021 and as early as February 2020.</summary>
 
 * [May 11th, 2021 Livestream Q&A: Are Mercer Spheres going to be useful before 1.0?](./yt-8oYXZQdnv4w.md) [https://www.youtube.com/watch?v=8oYXZQdnv4w](https://www.youtube.com/watch?v=8oYXZQdnv4w)
 * [May 4th, 2021 Livestream Q&A: What about work-in-progress things like Mercer Spheres?](./yt-y_iC9FJAhYk.md) [https://www.youtube.com/watch?v=y_iC9FJAhYk](https://www.youtube.com/watch?v=y_iC9FJAhYk)
@@ -19,7 +19,6 @@ https://www.youtube.com/watch?v=jBOgtsE6VYQ
 * [September 15th, 2020 Livestream Q&A: Any chance Update 4 unlocks the Work In Progress items?](./yt-Z870GlRbfjk.md) [https://www.youtube.com/watch?v=Z870GlRbfjk](https://www.youtube.com/watch?v=Z870GlRbfjk)
 * [September 15th, 2020 Livestream Q&A: When do the Work In Progress items get a purpose?](./yt-koMqOABA6x8.md) [https://www.youtube.com/watch?v=koMqOABA6x8](https://www.youtube.com/watch?v=koMqOABA6x8)
 * August 18th, 2020 Livestream Q&A: When are Somersloops and Orbs have meaning? [https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride](https://clips.twitch.tv/SarcasticProudWoodpeckerKappaPride)
-* [April 30th, 2020 Dev Vlog Q&A: What does the Somersloop do?](./yt-mci92Mhr7MM,711.0436666666667,726.1587666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=711&end=727](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=711&end=727)
 * [February 11th, 2020 Livestream Q&A: Mercer Spheres?](./yt-9VS0lGfDZ1k.md) [https://www.youtube.com/watch?v=9VS0lGfDZ1k](https://www.youtube.com/watch?v=9VS0lGfDZ1k)
 </details>
 

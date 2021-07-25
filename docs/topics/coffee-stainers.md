@@ -35,6 +35,12 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: How much coffee does an average Coffee Stainer drink on each day?](../transcriptions/yt-ihdKZQwk4jQ.md) [https://www.youtube.com/watch?v=ihdKZQwk4jQ](https://www.youtube.com/watch?v=ihdKZQwk4jQ)
+* [Community FYI: ⅔ on vacation, ⅓ slacking](../transcriptions/yt-8ZOx79_6uoQ.md) [https://www.youtube.com/watch?v=8ZOx79_6uoQ](https://www.youtube.com/watch?v=8ZOx79_6uoQ)
+* [Q&A: How many developers are trying to expense air conditioning systems to Coffee Stain Studios?](../transcriptions/yt-9g0PvQbOblQ.md) [https://www.youtube.com/watch?v=9g0PvQbOblQ](https://www.youtube.com/watch?v=9g0PvQbOblQ)
+* [Q&A: Many fewer meetings?](../transcriptions/yt-2mRmz5GUnp8.md) [https://www.youtube.com/watch?v=2mRmz5GUnp8](https://www.youtube.com/watch?v=2mRmz5GUnp8)
+
 ## July 16th, 2021 Livestream
 * [Q&A: Are you okay with people modding Satisfactory‽](../transcriptions/yt-Z2WggHmVHGI,95.26183333333333,135.70223333333334.md) [https://youtube.com/clip/UgxFKiSujXKdNnKqhY94AaABCQ](https://youtube.com/clip/UgxFKiSujXKdNnKqhY94AaABCQ)
 

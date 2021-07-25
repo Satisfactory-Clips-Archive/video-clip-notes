@@ -10,7 +10,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Farms?
 https://www.youtube.com/watch?v=kq125_HSqqE
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Will there ever be Farming added to the base game?](./yt-4txPAGPmzXQ.md) [https://www.youtube.com/watch?v=4txPAGPmzXQ](https://www.youtube.com/watch?v=4txPAGPmzXQ)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Any plans for Farming?](./yt-70U_d1fVoHk.md) [https://www.youtube.com/watch?v=70U_d1fVoHk](https://www.youtube.com/watch?v=70U_d1fVoHk)
 
 
 ### Topics

@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Will we ever see something like custom challenges & custom milestones?](../../transcriptions/yt-cd8yJp9cRAE.md) [https://www.youtube.com/watch?v=cd8yJp9cRAE](https://www.youtube.com/watch?v=cd8yJp9cRAE)
+
 ## July 13th, 2021 Livestream
 * [Q&A: More items, more Tiers?](../../transcriptions/yt-g4q1PG9-g6U.md) [https://www.youtube.com/watch?v=g4q1PG9-g6U](https://www.youtube.com/watch?v=g4q1PG9-g6U)
 

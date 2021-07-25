@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 5
 
+## July 20th, 2021 Livestream
+* [Q&A: Can we have stronger monsters in the game, at Tier 5/6 they hardly challenge you in building](../../../transcriptions/yt-CjX7Sti2AJo.md) [https://www.youtube.com/watch?v=CjX7Sti2AJo](https://www.youtube.com/watch?v=CjX7Sti2AJo)
+
 ## March 9th, 2021 Livestream
 * [Q&A: Power Storage what Tier?](../../../transcriptions/yt-hyFz4ZawRe8.md) [https://www.youtube.com/watch?v=hyFz4ZawRe8](https://www.youtube.com/watch?v=hyFz4ZawRe8)
 

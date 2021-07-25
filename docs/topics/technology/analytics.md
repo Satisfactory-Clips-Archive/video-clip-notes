@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Analytics
 
+## July 20th, 2021 Livestream
+* [Q&A: Do you have any data on how many players just straight-up don't care about efficiency?](../../transcriptions/yt-NyB4nwLLAq8.md) [https://www.youtube.com/watch?v=NyB4nwLLAq8](https://www.youtube.com/watch?v=NyB4nwLLAq8)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Are you going to reinstate/expand gameplay telemetry?](../../transcriptions/yt-Uof19aszfFc.md) [https://www.youtube.com/watch?v=Uof19aszfFc](https://www.youtube.com/watch?v=Uof19aszfFc)
 

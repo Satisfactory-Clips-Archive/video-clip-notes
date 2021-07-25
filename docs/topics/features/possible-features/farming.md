@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Farming
 
+## July 20th, 2021 Livestream
+* [Q&A: Any plans for Farming?](../../../transcriptions/yt-70U_d1fVoHk.md) [https://www.youtube.com/watch?v=70U_d1fVoHk](https://www.youtube.com/watch?v=70U_d1fVoHk)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Any thoughts of adding a method of growing Biomass, Farms maybe?](../../../transcriptions/yt-M9XrXjf-GdU.md) [https://www.youtube.com/watch?v=M9XrXjf-GdU](https://www.youtube.com/watch?v=M9XrXjf-GdU)
 * [Q&A: Want to make a meat factory?](../../../transcriptions/yt-xjsa3kVm6Kc.md) [https://www.youtube.com/watch?v=xjsa3kVm6Kc](https://www.youtube.com/watch?v=xjsa3kVm6Kc)

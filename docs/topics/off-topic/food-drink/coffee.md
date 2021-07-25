@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-drink.md) > Coffee
 
+## July 20th, 2021 Livestream
+* [Q&A: How much coffee does an average Coffee Stainer drink on each day?](../../../transcriptions/yt-ihdKZQwk4jQ.md) [https://www.youtube.com/watch?v=ihdKZQwk4jQ](https://www.youtube.com/watch?v=ihdKZQwk4jQ)
+
 ## April 27th, 2021 Livestream
 * [Community Highlights: 3pm Swedish Fika](../../../transcriptions/yt-vBXqwkho_ck.md) [https://www.youtube.com/watch?v=vBXqwkho_ck](https://www.youtube.com/watch?v=vBXqwkho_ck)
 

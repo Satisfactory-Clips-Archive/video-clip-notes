@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: When is the S.A.M. Ore becoming useful in-game?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Will we use S.A.M. Ore for something?](./yt-y8zrEB5BiwQ.md) [https://www.youtube.com/watch?v=y8zrEB5BiwQ](https://www.youtube.com/watch?v=y8zrEB5BiwQ)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Has S.A.M. Ore been given a function yet?](./yt-VVYzPlbpSwM.md) [https://www.youtube.com/watch?v=VVYzPlbpSwM](https://www.youtube.com/watch?v=VVYzPlbpSwM)
 
 
 ### Topics

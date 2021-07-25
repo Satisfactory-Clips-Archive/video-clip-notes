@@ -22,6 +22,11 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: How can we support you even better moving forward?](../transcriptions/yt-fMVVdQsBzJ8.md) [https://www.youtube.com/watch?v=fMVVdQsBzJ8](https://www.youtube.com/watch?v=fMVVdQsBzJ8)
+* [Q&A: Did you see my Detonator?](../transcriptions/yt-BmfHjF5edC4.md) [https://www.youtube.com/watch?v=BmfHjF5edC4](https://www.youtube.com/watch?v=BmfHjF5edC4)
+* [Q&A: Do you have any data on how many players just straight-up don't care about efficiency?](../transcriptions/yt-NyB4nwLLAq8.md) [https://www.youtube.com/watch?v=NyB4nwLLAq8](https://www.youtube.com/watch?v=NyB4nwLLAq8)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Is there a feeling at Coffee Stain with sales and development of the game and it's Community?](../transcriptions/yt-KkCywy49WfY.md) [https://www.youtube.com/watch?v=KkCywy49WfY](https://www.youtube.com/watch?v=KkCywy49WfY)
 * [Q&A: Jace, can you fix my lack of forward planning?](../transcriptions/yt-Gh3rtkUV7dQ.md) [https://www.youtube.com/watch?v=Gh3rtkUV7dQ](https://www.youtube.com/watch?v=Gh3rtkUV7dQ)

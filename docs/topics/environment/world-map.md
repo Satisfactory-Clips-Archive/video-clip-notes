@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## July 20th, 2021 Livestream
+* [Q&A: My game 100% of the time lags at the same spots on the map, fix this please?](../../transcriptions/yt-JLedB89bE74.md) [https://www.youtube.com/watch?v=JLedB89bE74](https://www.youtube.com/watch?v=JLedB89bE74)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Any secondary Maps or Planets planned?](../../transcriptions/yt-q3VwDMvfbTM.md) [https://www.youtube.com/watch?v=q3VwDMvfbTM](https://www.youtube.com/watch?v=q3VwDMvfbTM)
 

@@ -7,6 +7,13 @@ date: Last Modified
 * [Characters](../topics/story-lore/characters.md)
 * [Project Assembly](../topics/story-lore/project-assembly.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Story Update coming soon?](../transcriptions/yt-dHL-myxcngM.md) [https://www.youtube.com/watch?v=dHL-myxcngM](https://www.youtube.com/watch?v=dHL-myxcngM)
+* [Q&A: Can we do the Story with an existing 500-hour factory or do we have to start from scratch?](../transcriptions/yt-z9tjeFkYXAY.md) [https://www.youtube.com/watch?v=z9tjeFkYXAY](https://www.youtube.com/watch?v=z9tjeFkYXAY)
+* [Q&A: Is there any Lore behind the World, it looks like it was underwater judging by landscape?](../transcriptions/yt-WbKIIe_sffI.md) [https://www.youtube.com/watch?v=WbKIIe_sffI](https://www.youtube.com/watch?v=WbKIIe_sffI)
+* [Q&A: Maybe starting from scratch in Story Mode, importing save in Construction Mode?](../transcriptions/yt-3uqePr4WNrw.md) [https://www.youtube.com/watch?v=3uqePr4WNrw](https://www.youtube.com/watch?v=3uqePr4WNrw)
+* [Q&A: Will S.A.M. Ore, Somersloops, and Mercer Spheres have a function beyond Story stuff?](../transcriptions/yt-mzMRZqpxaug.md) [https://www.youtube.com/watch?v=mzMRZqpxaug](https://www.youtube.com/watch?v=mzMRZqpxaug)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: Is the Color Gun FICSIT-approved or Pioneer made?](../transcriptions/yt-JuKondHQOso.md) [https://www.youtube.com/watch?v=JuKondHQOso](https://www.youtube.com/watch?v=JuKondHQOso)
 * [Q&A: "Damage to FICSIT property detected" - who or what is the property, the suit or the player?](../transcriptions/yt-_w5OogSI8Wo.md) [https://www.youtube.com/watch?v=_w5OogSI8Wo](https://www.youtube.com/watch?v=_w5OogSI8Wo)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > M.A.M.
 
+## July 20th, 2021 Livestream
+* [Q&A: Will we ever see something like custom challenges & custom milestones?](../../../transcriptions/yt-cd8yJp9cRAE.md) [https://www.youtube.com/watch?v=cd8yJp9cRAE](https://www.youtube.com/watch?v=cd8yJp9cRAE)
+* [Q&A: Why did decide you make the M.A.M. a separate building?](../../../transcriptions/yt-I2HtPSih_u8.md) [https://www.youtube.com/watch?v=I2HtPSih_u8](https://www.youtube.com/watch?v=I2HtPSih_u8)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Unlocking additional inventory slots & Alternate Recipes via the M.A.M.](../../../transcriptions/yt-gUf8YiKr15w.md) [https://www.youtube.com/watch?v=gUf8YiKr15w](https://www.youtube.com/watch?v=gUf8YiKr15w)
 * [Snutt & Jace Talk: Recipes & Alternate Recipes](../../../transcriptions/yt-H2u0LDZlzgo.md) [https://www.youtube.com/watch?v=H2u0LDZlzgo](https://www.youtube.com/watch?v=H2u0LDZlzgo)

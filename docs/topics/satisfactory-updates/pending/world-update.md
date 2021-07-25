@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > World Update
 
+## July 20th, 2021 Livestream
+* [Q&A: Did you go over the areas we're not to build in for the moment?](../../../transcriptions/yt-IpKxv4dkVJU.md) [https://www.youtube.com/watch?v=IpKxv4dkVJU](https://www.youtube.com/watch?v=IpKxv4dkVJU)
+* [Q&A: Will there be more Caves?](../../../transcriptions/yt-h_MDCRRxWsM.md) [https://www.youtube.com/watch?v=h_MDCRRxWsM](https://www.youtube.com/watch?v=h_MDCRRxWsM)
+* [Q&A: Should I be afraid of the map changes in Update 5 before I start building in Update 4?](../../../transcriptions/yt-rb-b8rH8Y1I.md) [https://www.youtube.com/watch?v=rb-b8rH8Y1I](https://www.youtube.com/watch?v=rb-b8rH8Y1I)
+
 ## July 13th, 2021 Livestream
 * [Q&A: When do we get a Map Update?](../../../transcriptions/yt-Ns1NwYrB16M.md) [https://www.youtube.com/watch?v=Ns1NwYrB16M](https://www.youtube.com/watch?v=Ns1NwYrB16M)
 

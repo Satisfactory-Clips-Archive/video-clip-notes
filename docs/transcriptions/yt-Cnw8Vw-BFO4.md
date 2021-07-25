@@ -10,6 +10,8 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Does building Walls around big factories help performance?
 https://www.youtube.com/watch?v=Cnw8Vw-BFO4
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Do Walls improve rendering?](./yt-nRYObYdENUQ.md) [https://www.youtube.com/watch?v=nRYObYdENUQ](https://www.youtube.com/watch?v=nRYObYdENUQ)
+
 
 ### Topics
 * [Coffee Stainers > G2](../topics/coffee-stainers/g2.md)

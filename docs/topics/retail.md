@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## July 20th, 2021 Livestream
+* [Community FYI: Bought the game 2 years ago for €30, now I wouldn't feel bad for spending €60](../transcriptions/yt-ldftljubt0w.md) [https://www.youtube.com/watch?v=ldftljubt0w](https://www.youtube.com/watch?v=ldftljubt0w)
+
 ## May 25th, 2021 Livestream
 * [Q&A: How many hours to be considered a real Satisfactory player?](../transcriptions/yt-w9rwc-OvRrE.md) [https://www.youtube.com/watch?v=w9rwc-OvRrE](https://www.youtube.com/watch?v=w9rwc-OvRrE)
 

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## July 20th, 2021 Livestream
+* [Q&A: Update 4 increased loading times so much, is it a known issue?](../../../transcriptions/yt-f3C99ZImAj8.md) [https://www.youtube.com/watch?v=f3C99ZImAj8](https://www.youtube.com/watch?v=f3C99ZImAj8)
+* [Q&A: What Update are we up to, I haven't played since Update 3?](../../../transcriptions/yt-hT1dvzAOwKY.md) [https://www.youtube.com/watch?v=hT1dvzAOwKY](https://www.youtube.com/watch?v=hT1dvzAOwKY)
+* [Q&A: Should I be afraid of the map changes in Update 5 before I start building in Update 4?](../../../transcriptions/yt-rb-b8rH8Y1I.md) [https://www.youtube.com/watch?v=rb-b8rH8Y1I](https://www.youtube.com/watch?v=rb-b8rH8Y1I)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Did the Bauxite rebalance fix the player fall-off issue?](../../../transcriptions/yt-jZ-bf0y1kzE.md) [https://www.youtube.com/watch?v=jZ-bf0y1kzE](https://www.youtube.com/watch?v=jZ-bf0y1kzE)
 * Q&A: Performance improved a lot in Update 4, was that due to continuous improvement you mentioned? [https://www.youtube.com/watch?v=XPnh3BGUteY](https://www.youtube.com/watch?v=XPnh3BGUteY)

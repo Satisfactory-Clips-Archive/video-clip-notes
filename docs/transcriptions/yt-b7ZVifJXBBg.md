@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Is there a Battle Royale Mode planned?
 https://www.youtube.com/watch?v=b7ZVifJXBBg
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: When are you guys adding Battle Royale mode?](./yt-J_Dzjr_-8Hc.md) [https://www.youtube.com/watch?v=J_Dzjr_-8Hc](https://www.youtube.com/watch?v=J_Dzjr_-8Hc)
+This question was possibly duplicated with a more recent answer: July 20th, 2021 Livestream Q&A: When are you adding Battle Royale event? [https://www.youtube.com/watch?v=H_jxvn-F_WY](https://www.youtube.com/watch?v=H_jxvn-F_WY)
 
 
 ### Topics

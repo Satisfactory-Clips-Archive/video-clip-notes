@@ -8,7 +8,7 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Train Collisions?
 https://www.youtube.com/watch?v=rCOD5becD6M
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: When Train Update?](./yt-6UkeKRs-WVw.md) [https://www.youtube.com/watch?v=6UkeKRs-WVw](https://www.youtube.com/watch?v=6UkeKRs-WVw)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: How's progress on Train Signals & collisions?](./yt-nKGDe2SsRWA.md) [https://www.youtube.com/watch?v=nKGDe2SsRWA](https://www.youtube.com/watch?v=nKGDe2SsRWA)
 
 
 ### Topics

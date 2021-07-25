@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Any plans for Fusion Power?](../../transcriptions/yt-GFpWe3jY2hQ.md) [https://www.youtube.com/watch?v=GFpWe3jY2hQ](https://www.youtube.com/watch?v=GFpWe3jY2hQ)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Have you ever tried overclocking Fuel Generators, it has a very confusing interface?](../../transcriptions/yt-W6Zxy430lZo.md) [https://www.youtube.com/watch?v=W6Zxy430lZo](https://www.youtube.com/watch?v=W6Zxy430lZo)
 

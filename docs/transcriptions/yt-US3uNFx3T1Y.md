@@ -3,14 +3,16 @@ title: "October 20th, 2020 Livestream Q&A: Are you not devs?"
 date: "2020-10-20"
 layout: transcript
 topics:
-    - ""
+    - "coffee-stainers/jace"
+    - "coffee-stainers/snutt"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Are you not devs?
 https://www.youtube.com/watch?v=US3uNFx3T1Y
 
 ### Topics
-
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 
 ### Transcript
 

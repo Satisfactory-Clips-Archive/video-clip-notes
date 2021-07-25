@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## July 20th, 2021 Livestream
+* [Jace Talk: "Plugs" (Part 1)](../../transcriptions/yt-pnGkL7ZIDDw.md) [https://www.youtube.com/watch?v=pnGkL7ZIDDw](https://www.youtube.com/watch?v=pnGkL7ZIDDw)
+* [Jace Talk: "Plugs" (Part 2)](../../transcriptions/yt-ub8BeIFPJP8.md) [https://www.youtube.com/watch?v=ub8BeIFPJP8](https://www.youtube.com/watch?v=ub8BeIFPJP8)
+
 ## July 6th, 2021 Livestream
 * [Snutt & Jace Talk: Swedish & Spanish pronunciations of Snutt's (German) last name](../../transcriptions/yt-FnoevKAqqxk.md) [https://www.youtube.com/watch?v=FnoevKAqqxk](https://www.youtube.com/watch?v=FnoevKAqqxk)
 * [Snutt & Jace Talk: Trolling about copying ideas from Mods](../../transcriptions/yt-LukumNkFhzI.md) [https://www.youtube.com/watch?v=LukumNkFhzI](https://www.youtube.com/watch?v=LukumNkFhzI)

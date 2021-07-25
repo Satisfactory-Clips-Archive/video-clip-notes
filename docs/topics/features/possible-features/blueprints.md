@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Blueprints
 
+## July 20th, 2021 Livestream
+* [Q&A: Are the dev team still on the fence about Blueprints?](../../../transcriptions/yt-DFWtj9NjVXY.md) [https://www.youtube.com/watch?v=DFWtj9NjVXY](https://www.youtube.com/watch?v=DFWtj9NjVXY)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Blueprints, for repetitive factory setups?](../../../transcriptions/yt-NYHU62S6czs.md) [https://www.youtube.com/watch?v=NYHU62S6czs](https://www.youtube.com/watch?v=NYHU62S6czs)
 

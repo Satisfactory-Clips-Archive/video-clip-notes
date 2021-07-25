@@ -12,6 +12,11 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Is there any Lore behind the World, it looks like it was underwater judging by landscape?](../transcriptions/yt-WbKIIe_sffI.md) [https://www.youtube.com/watch?v=WbKIIe_sffI](https://www.youtube.com/watch?v=WbKIIe_sffI)
+* [Q&A: Are we going to get a moon?](../transcriptions/yt-01tZ8LavWWg.md) [https://www.youtube.com/watch?v=01tZ8LavWWg](https://www.youtube.com/watch?v=01tZ8LavWWg)
+* [Q&A: Let us blow up Poison Pillars?](../transcriptions/yt-fNGVR7trxFE.md) [https://www.youtube.com/watch?v=fNGVR7trxFE](https://www.youtube.com/watch?v=fNGVR7trxFE)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Will we ever be able to remove or destroy Poison Pillars?](../transcriptions/yt-pkKMsKoH6y4.md) [https://www.youtube.com/watch?v=pkKMsKoH6y4](https://www.youtube.com/watch?v=pkKMsKoH6y4)
 

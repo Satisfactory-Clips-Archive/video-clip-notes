@@ -9,6 +9,11 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Optimisation for frames?](../../transcriptions/yt-0Kqm4BsCdN0.md) [https://www.youtube.com/watch?v=0Kqm4BsCdN0](https://www.youtube.com/watch?v=0Kqm4BsCdN0)
+* [Q&A: Do Walls improve rendering?](../../transcriptions/yt-nRYObYdENUQ.md) [https://www.youtube.com/watch?v=nRYObYdENUQ](https://www.youtube.com/watch?v=nRYObYdENUQ)
+* [Q&A: Is there a technical reason why Conveyors go faster than the items on them?](../../transcriptions/yt-IT5jhfah7Eo.md) [https://www.youtube.com/watch?v=IT5jhfah7Eo](https://www.youtube.com/watch?v=IT5jhfah7Eo)
+
 ## July 13th, 2021 Livestream
 * [Q&A: When I started the game I got a black Particle Accelerator on the home screen- is that a bug?](../../transcriptions/yt-SkcmBKDOi1U.md) [https://www.youtube.com/watch?v=SkcmBKDOi1U](https://www.youtube.com/watch?v=SkcmBKDOi1U)
 * [Q&A: Since the FPS tied to game precision and late-game tends to be laggy, will you optimise?](../../transcriptions/yt-kulvUg6bHhI.md) [https://www.youtube.com/watch?v=kulvUg6bHhI](https://www.youtube.com/watch?v=kulvUg6bHhI)

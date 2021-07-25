@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Read-only Multiplayer for giving non-destructive tours?](../../transcriptions/yt-XrpjZbyjRG8.md) [https://www.youtube.com/watch?v=XrpjZbyjRG8](https://www.youtube.com/watch?v=XrpjZbyjRG8)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Will you fix the Multiplayer bugs in the next Update?](../../transcriptions/yt-7Fa_fPfnP2Y.md) [https://www.youtube.com/watch?v=7Fa_fPfnP2Y](https://www.youtube.com/watch?v=7Fa_fPfnP2Y)
 

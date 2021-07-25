@@ -7,6 +7,19 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## July 20th, 2021 Livestream
+* [Jace Talk: Philipp Kirkorov](../../transcriptions/yt-7j7c8D3okLQ.md) [https://www.youtube.com/watch?v=7j7c8D3okLQ](https://www.youtube.com/watch?v=7j7c8D3okLQ)
+* [Community FYI: Jace's YouTube channel has 660 subscribers](../../transcriptions/yt-nBPPzhTE1Vg.md) [https://www.youtube.com/watch?v=nBPPzhTE1Vg](https://www.youtube.com/watch?v=nBPPzhTE1Vg)
+* [Jace Talk: Air conditioning](../../transcriptions/yt-jkJgJCCkhsk.md) [https://www.youtube.com/watch?v=jkJgJCCkhsk](https://www.youtube.com/watch?v=jkJgJCCkhsk)
+* [Q&A: What happened to Jace's acting classes during the pandemic?](../../transcriptions/yt-WJ3lc_Blm6Q.md) [https://www.youtube.com/watch?v=WJ3lc_Blm6Q](https://www.youtube.com/watch?v=WJ3lc_Blm6Q)
+* [Q&A: What was the best part of Jace's Monday?](../../transcriptions/yt-3Z1fgl80K0I.md) [https://www.youtube.com/watch?v=3Z1fgl80K0I](https://www.youtube.com/watch?v=3Z1fgl80K0I)
+* [Community FYI: The old "suggest thing and Jace adds them live on stream"](../../transcriptions/yt-36QL_sAxGkU.md) [https://www.youtube.com/watch?v=36QL_sAxGkU](https://www.youtube.com/watch?v=36QL_sAxGkU)
+* [Q&A: Why is there a Community Management position open on the website, are you leaving us?](../../transcriptions/yt-OzcH3XX6cJ8.md) [https://www.youtube.com/watch?v=OzcH3XX6cJ8](https://www.youtube.com/watch?v=OzcH3XX6cJ8)
+* [Jace Talk: PS5 scratches](../../transcriptions/yt-1G7PQj5Ic9A.md) [https://www.youtube.com/watch?v=1G7PQj5Ic9A](https://www.youtube.com/watch?v=1G7PQj5Ic9A)
+* [Q&A: Is Jace having a good day?](../../transcriptions/yt-idpbHOu8uQU.md) [https://www.youtube.com/watch?v=idpbHOu8uQU](https://www.youtube.com/watch?v=idpbHOu8uQU)
+* [Q&A: Which Update will you be able to smelt limestone?](../../transcriptions/yt-5yAXcjunHOs.md) [https://www.youtube.com/watch?v=5yAXcjunHOs](https://www.youtube.com/watch?v=5yAXcjunHOs)
+* [Q&A: Are you gonna add Glass material so you can smelt that limestone node?](../../transcriptions/yt-6jozauxOEbc.md) [https://www.youtube.com/watch?v=6jozauxOEbc](https://www.youtube.com/watch?v=6jozauxOEbc)
+
 ## July 16th, 2021 Livestream
 * [Intro Karaoke (RIP Chester)](../../transcriptions/yt-Z2WggHmVHGI,,9.6096.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=0&end=10](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=0&end=10)
 
@@ -303,6 +316,9 @@ date: Last Modified
 
 ## November 10th, 2020 Livestream
 * [Q&A: Who in Coffee Stain Studios is the best Factory Builder?](../../transcriptions/yt-ypN9OtMd7YU.md) [https://www.youtube.com/watch?v=ypN9OtMd7YU](https://www.youtube.com/watch?v=ypN9OtMd7YU)
+
+## October 20th, 2020 Livestream
+* [Q&A: Are you not devs?](../../transcriptions/yt-US3uNFx3T1Y.md) [https://www.youtube.com/watch?v=US3uNFx3T1Y](https://www.youtube.com/watch?v=US3uNFx3T1Y)
 
 ## October 1st, 2020 Q&A
 * [Q&A: How are you?](../../transcriptions/yt-rATcozDE25c,134.26746666666668,137.0369.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=134&end=138](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=134&end=138)

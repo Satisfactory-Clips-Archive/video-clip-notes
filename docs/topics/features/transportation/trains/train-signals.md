@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## July 20th, 2021 Livestream
+* [Q&A: How's progress on Train Signals & collisions?](../../../../transcriptions/yt-nKGDe2SsRWA.md) [https://www.youtube.com/watch?v=nKGDe2SsRWA](https://www.youtube.com/watch?v=nKGDe2SsRWA)
+* [Q&A: Are other things that currently clip in the game going to change other than Trains?](../../../../transcriptions/yt-dck7gUAnjt4.md) [https://www.youtube.com/watch?v=dck7gUAnjt4](https://www.youtube.com/watch?v=dck7gUAnjt4)
+
 ## July 13th, 2021 Livestream
 * Q&A: Will Update 5 be the Train remake and/or the last Update before 1.0? [https://www.youtube.com/watch?v=qjuQW9Qx5Mo](https://www.youtube.com/watch?v=qjuQW9Qx5Mo)
 * Q&A: Will Trains have collision with terrain? [https://www.youtube.com/watch?v=pUhrOIByr2A](https://www.youtube.com/watch?v=pUhrOIByr2A)

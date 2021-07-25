@@ -8,6 +8,11 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Maybe starting from scratch in Story Mode, importing save in Construction Mode?](../../../transcriptions/yt-3uqePr4WNrw.md) [https://www.youtube.com/watch?v=3uqePr4WNrw](https://www.youtube.com/watch?v=3uqePr4WNrw)
+* [Jace Talk: Game Modes](../../../transcriptions/yt-oy_BABy1Sao.md) [https://www.youtube.com/watch?v=oy_BABy1Sao](https://www.youtube.com/watch?v=oy_BABy1Sao)
+* [Q&A: Casual & Ranked modes, when?](../../../transcriptions/yt-IxAksExJFhw.md) [https://www.youtube.com/watch?v=IxAksExJFhw](https://www.youtube.com/watch?v=IxAksExJFhw)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Any chance there will be survival mode soon like monsters attack your base at night and stuff?](../../../transcriptions/yt-bJNwHG1M-6c.md) [https://www.youtube.com/watch?v=bJNwHG1M-6c](https://www.youtube.com/watch?v=bJNwHG1M-6c)
 

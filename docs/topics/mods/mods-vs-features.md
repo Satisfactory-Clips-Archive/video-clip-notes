@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## July 20th, 2021 Livestream
+* [Q&A: Will we ever see something like custom challenges & custom milestones?](../../transcriptions/yt-cd8yJp9cRAE.md) [https://www.youtube.com/watch?v=cd8yJp9cRAE](https://www.youtube.com/watch?v=cd8yJp9cRAE)
+* [Q&A: Are Vehicle concepts actually something that Mods could provide?](../../transcriptions/yt-Rn_yVlZsyOY.md) [https://www.youtube.com/watch?v=Rn_yVlZsyOY](https://www.youtube.com/watch?v=Rn_yVlZsyOY)
+
 ## July 16th, 2021 Livestream
 * [Q&A: Are you influenced by Mods?](../../transcriptions/yt-Z2WggHmVHGI,235.13490000000002,308.97533333333337.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=235&end=309](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=235&end=309)
 * [Community FYI: You stole Feature X from this mod!!!](../../transcriptions/yt-Z2WggHmVHGI,309.00870000000003,364.83113333333336.md) [https://youtube.com/clip/UgziQKW9eKklGg5acQx4AaABCQ](https://youtube.com/clip/UgziQKW9eKklGg5acQx4AaABCQ)

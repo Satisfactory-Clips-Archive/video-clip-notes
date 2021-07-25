@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## July 20th, 2021 Livestream
+* [Q&A: Any plans on making Crash Sites deconstructible after Hard Drive has been retrieved?](../../../../transcriptions/yt-zz7h3PhhWAg.md) [https://www.youtube.com/watch?v=zz7h3PhhWAg](https://www.youtube.com/watch?v=zz7h3PhhWAg)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Unlocking additional inventory slots & Alternate Recipes via the M.A.M.](../../../../transcriptions/yt-gUf8YiKr15w.md) [https://www.youtube.com/watch?v=gUf8YiKr15w](https://www.youtube.com/watch?v=gUf8YiKr15w)
 * [Snutt & Jace Talk: The world of Satisfactory](../../../../transcriptions/yt-lwiruCRJKo0.md) [https://www.youtube.com/watch?v=lwiruCRJKo0](https://www.youtube.com/watch?v=lwiruCRJKo0)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace Art
 
+## July 20th, 2021 Livestream
+* [Q&A: Any plans to do another Jace Art stream specifically for Update 5 leaks?](../../../transcriptions/yt-0-fYDPO17Q4.md) [https://www.youtube.com/watch?v=0-fYDPO17Q4](https://www.youtube.com/watch?v=0-fYDPO17Q4)
+
 ## August 11th, 2020 Livestream
 * Fine Art by Jace Varlet [https://clips.twitch.tv/CrispyAstuteBeeNerfRedBlaster](https://clips.twitch.tv/CrispyAstuteBeeNerfRedBlaster)
 

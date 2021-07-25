@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
+## July 20th, 2021 Livestream
+* [Q&A: Will S.A.M. Ore, Somersloops, and Mercer Spheres have a function beyond Story stuff?](../../../transcriptions/yt-mzMRZqpxaug.md) [https://www.youtube.com/watch?v=mzMRZqpxaug](https://www.youtube.com/watch?v=mzMRZqpxaug)
+
 ## June 15th, 2021 Livestream
 * Q&A: Should we expect Somersloops & Mercer Spheres to not be useful until much later in development? [https://www.youtube.com/watch?v=qrmgbW2hPZA](https://www.youtube.com/watch?v=qrmgbW2hPZA)
 

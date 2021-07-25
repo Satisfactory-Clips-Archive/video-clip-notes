@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## July 20th, 2021 Livestream
+* [Jace Talk: Air conditioning](../../transcriptions/yt-jkJgJCCkhsk.md) [https://www.youtube.com/watch?v=jkJgJCCkhsk](https://www.youtube.com/watch?v=jkJgJCCkhsk)
+* [Q&A: How's the Covid situation there?](../../transcriptions/yt-gei8ZkbMnmw.md) [https://www.youtube.com/watch?v=gei8ZkbMnmw](https://www.youtube.com/watch?v=gei8ZkbMnmw)
+
 ## July 13th, 2021 Livestream
 * [Q&A: When are vacations over?](../../transcriptions/yt-47kyeruceXI.md) [https://www.youtube.com/watch?v=47kyeruceXI](https://www.youtube.com/watch?v=47kyeruceXI)
 

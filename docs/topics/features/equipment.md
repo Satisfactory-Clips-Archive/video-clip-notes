@@ -14,6 +14,10 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Did you see my Detonator?](../../transcriptions/yt-BmfHjF5edC4.md) [https://www.youtube.com/watch?v=BmfHjF5edC4](https://www.youtube.com/watch?v=BmfHjF5edC4)
+* [Q&A: Are you going to fix the FICS⁕MAS Basher so you can hit enemies with it again?](../../transcriptions/yt-rZ_ZrEDqUW8.md) [https://www.youtube.com/watch?v=rZ_ZrEDqUW8](https://www.youtube.com/watch?v=rZ_ZrEDqUW8)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Any more destructible elements planned, I would like to explode more things with Nobelisks?](../../transcriptions/yt-kMRu9njOTE0.md) [https://www.youtube.com/watch?v=kMRu9njOTE0](https://www.youtube.com/watch?v=kMRu9njOTE0)
 * Q&A: App that turns your phone into a Build Gun? [https://www.youtube.com/watch?v=VWMpYvhC4qI](https://www.youtube.com/watch?v=VWMpYvhC4qI)

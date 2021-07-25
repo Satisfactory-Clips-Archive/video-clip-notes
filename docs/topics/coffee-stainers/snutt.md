@@ -252,6 +252,9 @@ date: Last Modified
 ## November 24th, 2020 Livestream
 * [Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?](../../transcriptions/yt-a1eSZz7wksU.md) [https://www.youtube.com/watch?v=a1eSZz7wksU](https://www.youtube.com/watch?v=a1eSZz7wksU)
 
+## October 20th, 2020 Livestream
+* [Q&A: Are you not devs?](../../transcriptions/yt-US3uNFx3T1Y.md) [https://www.youtube.com/watch?v=US3uNFx3T1Y](https://www.youtube.com/watch?v=US3uNFx3T1Y)
+
 ## October 9th, 2020 Livestream
 * [Q&A: How did Dylan get into programming?](../../transcriptions/yt-yJH2nTjQ9Tc.md) [https://www.youtube.com/watch?v=yJH2nTjQ9Tc](https://www.youtube.com/watch?v=yJH2nTjQ9Tc)
 * [Snutt Talk: Perforce & Git](../../transcriptions/yt-3Fe1cJ3ujCE.md) [https://www.youtube.com/watch?v=3Fe1cJ3ujCE](https://www.youtube.com/watch?v=3Fe1cJ3ujCE)

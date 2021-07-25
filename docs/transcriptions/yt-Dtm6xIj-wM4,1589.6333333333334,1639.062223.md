@@ -10,7 +10,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Why not turrets like Sanctum?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Turrets & shit?](./yt-KPUcYM5lOac.md) [https://www.youtube.com/watch?v=KPUcYM5lOac](https://www.youtube.com/watch?v=KPUcYM5lOac)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: What're your thoughts on making the game Tower Defense?](./yt-Ki4ohrbXbrk.md) [https://www.youtube.com/watch?v=Ki4ohrbXbrk](https://www.youtube.com/watch?v=Ki4ohrbXbrk)
 
 
 ### Topics

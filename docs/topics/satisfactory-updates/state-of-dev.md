@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## July 20th, 2021 Livestream
+* [State of Dev: Not much to say](../../transcriptions/yt-jeKOLTOqbeo.md) [https://www.youtube.com/watch?v=jeKOLTOqbeo](https://www.youtube.com/watch?v=jeKOLTOqbeo)
+
 ## July 13th, 2021 Livestream
 * [State of Dev: Update 5](../../transcriptions/yt-BlpeB9T_1Ns.md) [https://www.youtube.com/watch?v=BlpeB9T_1Ns](https://www.youtube.com/watch?v=BlpeB9T_1Ns)
 * [State of Dev: TL;DR](../../transcriptions/yt-XqPZ6iZ0GCg.md) [https://www.youtube.com/watch?v=XqPZ6iZ0GCg](https://www.youtube.com/watch?v=XqPZ6iZ0GCg)

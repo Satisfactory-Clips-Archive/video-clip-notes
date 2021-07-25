@@ -26,6 +26,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Are you going to add more Buildings to make the game less Refinery-reliant?](../../transcriptions/yt-Fp1WczBseIM.md) [https://www.youtube.com/watch?v=Fp1WczBseIM](https://www.youtube.com/watch?v=Fp1WczBseIM)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Any thoughts about attaching Splitters directly to machines/Miners?](../../transcriptions/yt-jkMcXbJhFoQ.md) [https://www.youtube.com/watch?v=jkMcXbJhFoQ](https://www.youtube.com/watch?v=jkMcXbJhFoQ)
 

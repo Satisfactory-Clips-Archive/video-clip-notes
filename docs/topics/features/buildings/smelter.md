@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Smelter
 
+## July 20th, 2021 Livestream
+* [Q&A: Which Update will you be able to smelt limestone?](../../../transcriptions/yt-5yAXcjunHOs.md) [https://www.youtube.com/watch?v=5yAXcjunHOs](https://www.youtube.com/watch?v=5yAXcjunHOs)
+* [Q&A: Are you gonna add Glass material so you can smelt that limestone node?](../../../transcriptions/yt-6jozauxOEbc.md) [https://www.youtube.com/watch?v=6jozauxOEbc](https://www.youtube.com/watch?v=6jozauxOEbc)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Is there any plan to let Smelters auto-select which recipe based on what's fed into them?](../../../transcriptions/yt-pU8w7iFl3WM.md) [https://www.youtube.com/watch?v=pU8w7iFl3WM](https://www.youtube.com/watch?v=pU8w7iFl3WM)
 

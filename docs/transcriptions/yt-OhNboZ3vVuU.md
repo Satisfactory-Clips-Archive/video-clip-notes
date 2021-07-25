@@ -9,6 +9,8 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Is there a secret internal lore for the giant spider skeletons?
 https://www.youtube.com/watch?v=OhNboZ3vVuU
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Is there any Lore behind the World, it looks like it was underwater judging by landscape?](./yt-WbKIIe_sffI.md) [https://www.youtube.com/watch?v=WbKIIe_sffI](https://www.youtube.com/watch?v=WbKIIe_sffI)
+
 
 ### Topics
 * [Environment](../topics/environment.md)

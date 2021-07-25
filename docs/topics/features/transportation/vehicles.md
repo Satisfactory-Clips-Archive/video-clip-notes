@@ -12,6 +12,12 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: When will Vehicles be paintable?](../../../transcriptions/yt-RG3Oa3un-cg.md) [https://www.youtube.com/watch?v=RG3Oa3un-cg](https://www.youtube.com/watch?v=RG3Oa3un-cg)
+* [Q&A: Are there plans for faster World travel?](../../../transcriptions/yt-a5r7Mm3H7zc.md) [https://www.youtube.com/watch?v=a5r7Mm3H7zc](https://www.youtube.com/watch?v=a5r7Mm3H7zc)
+* [Q&A: Are Vehicle concepts actually something that Mods could provide?](../../../transcriptions/yt-Rn_yVlZsyOY.md) [https://www.youtube.com/watch?v=Rn_yVlZsyOY](https://www.youtube.com/watch?v=Rn_yVlZsyOY)
+* [Q&A: Any plans for Vehicles to hold more than one player?](../../../transcriptions/yt-49PWrYsgFtk.md) [https://www.youtube.com/watch?v=49PWrYsgFtk](https://www.youtube.com/watch?v=49PWrYsgFtk)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Some YouTubers referred to a Vehicle Update, is this a thing?](../../../transcriptions/yt-414Ibs0g0Yo.md) [https://www.youtube.com/watch?v=414Ibs0g0Yo](https://www.youtube.com/watch?v=414Ibs0g0Yo)
 * [Q&A: Will you add bikes?](../../../transcriptions/yt-rEjEJpuqsus.md) [https://www.youtube.com/watch?v=rEjEJpuqsus](https://www.youtube.com/watch?v=rEjEJpuqsus)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Refinery
 
+## July 20th, 2021 Livestream
+* [Q&A: Are you going to add more Buildings to make the game less Refinery-reliant?](../../../transcriptions/yt-Fp1WczBseIM.md) [https://www.youtube.com/watch?v=Fp1WczBseIM](https://www.youtube.com/watch?v=Fp1WczBseIM)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Make refineries smaller?](../../../transcriptions/yt-TLElVB-PA3M.md) [https://www.youtube.com/watch?v=TLElVB-PA3M](https://www.youtube.com/watch?v=TLElVB-PA3M)
 

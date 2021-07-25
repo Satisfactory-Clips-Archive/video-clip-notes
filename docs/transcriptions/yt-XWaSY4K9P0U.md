@@ -8,13 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Will you be able to experience the Story regardless of where you're at in the game?
 https://www.youtube.com/watch?v=XWaSY4K9P0U
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as February 2021 and as early as September 2020.</summary>
-
-* [February 23rd, 2021 Livestream Q&A: Will you be able to play Story on an existing save when 1.0 comes out?](./yt-fbIm1CfGGZQ.md) [https://www.youtube.com/watch?v=fbIm1CfGGZQ](https://www.youtube.com/watch?v=fbIm1CfGGZQ)
-* [November 10th, 2020 Livestream Q&A: Will Story need a new Save File?](./yt-zrHzxTVBc3w.md) [https://www.youtube.com/watch?v=zrHzxTVBc3w](https://www.youtube.com/watch?v=zrHzxTVBc3w)
-* [September 22nd, 2020 Livestream Q&A: Will the Story play out when implemented or will we have to start a new game?](./yt-PPu_s5Gg8gs.md) [https://www.youtube.com/watch?v=PPu_s5Gg8gs](https://www.youtube.com/watch?v=PPu_s5Gg8gs)
-</details>
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Can we do the Story with an existing 500-hour factory or do we have to start from scratch?](./yt-z9tjeFkYXAY.md) [https://www.youtube.com/watch?v=z9tjeFkYXAY](https://www.youtube.com/watch?v=z9tjeFkYXAY)
 
 
 ### Topics

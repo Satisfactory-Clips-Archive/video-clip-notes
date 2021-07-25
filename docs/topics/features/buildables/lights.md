@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## July 20th, 2021 Livestream
+* Q&A: Are the Lights in a final state or is there the possibility for tweaks? [https://www.youtube.com/watch?v=RqAkqn6vV3g](https://www.youtube.com/watch?v=RqAkqn6vV3g)
+* Q&A: More Light colours coming? [https://www.youtube.com/watch?v=tUCU01sL23U](https://www.youtube.com/watch?v=tUCU01sL23U)
+
 ## July 16th, 2021 Livestream
 * [Community FYI: You stole Feature X from this mod!!!](../../../transcriptions/yt-Z2WggHmVHGI,309.00870000000003,364.83113333333336.md) [https://youtube.com/clip/UgziQKW9eKklGg5acQx4AaABCQ](https://youtube.com/clip/UgziQKW9eKklGg5acQx4AaABCQ)
 

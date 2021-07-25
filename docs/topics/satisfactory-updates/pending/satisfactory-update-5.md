@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
 
+## July 20th, 2021 Livestream
+* [Q&A: How's Update 5 coming along, any new structures?](../../../transcriptions/yt-6Ow19L00bDc.md) [https://www.youtube.com/watch?v=6Ow19L00bDc](https://www.youtube.com/watch?v=6Ow19L00bDc)
+* [Q&A: Are we expecting any patches prior to Update 5?](../../../transcriptions/yt-VPGerw4doBo.md) [https://www.youtube.com/watch?v=VPGerw4doBo](https://www.youtube.com/watch?v=VPGerw4doBo)
+* [Q&A: What's the impressions of the internal build of Update 5 so far?](../../../transcriptions/yt-doACo2rj-o4.md) [https://www.youtube.com/watch?v=doACo2rj-o4](https://www.youtube.com/watch?v=doACo2rj-o4)
+* [Q&A: Any plans to do another Jace Art stream specifically for Update 5 leaks?](../../../transcriptions/yt-0-fYDPO17Q4.md) [https://www.youtube.com/watch?v=0-fYDPO17Q4](https://www.youtube.com/watch?v=0-fYDPO17Q4)
+* [Q&A: Are you going to add more Buildings to make the game less Refinery-reliant?](../../../transcriptions/yt-Fp1WczBseIM.md) [https://www.youtube.com/watch?v=Fp1WczBseIM](https://www.youtube.com/watch?v=Fp1WczBseIM)
+* [Q&A: Is Update 5 relatively close to releasing or do we have to wait a bit longer?](../../../transcriptions/yt-oGSSaTIXPUU.md) [https://www.youtube.com/watch?v=oGSSaTIXPUU](https://www.youtube.com/watch?v=oGSSaTIXPUU)
+* [Q&A: Should I be afraid of the map changes in Update 5 before I start building in Update 4?](../../../transcriptions/yt-rb-b8rH8Y1I.md) [https://www.youtube.com/watch?v=rb-b8rH8Y1I](https://www.youtube.com/watch?v=rb-b8rH8Y1I)
+
 ## July 13th, 2021 Livestream
 * [State of Dev: Update 5](../../../transcriptions/yt-BlpeB9T_1Ns.md) [https://www.youtube.com/watch?v=BlpeB9T_1Ns](https://www.youtube.com/watch?v=BlpeB9T_1Ns)
 * [State of Dev: TL;DR](../../../transcriptions/yt-XqPZ6iZ0GCg.md) [https://www.youtube.com/watch?v=XqPZ6iZ0GCg](https://www.youtube.com/watch?v=XqPZ6iZ0GCg)

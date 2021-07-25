@@ -8,14 +8,6 @@ topics:
 # [April 2nd, 2020 Q&A](../2020-04-02.md)
 ## Q&A: When is the Steam release going to come?
 https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=122&end=146
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as February 2020 and as early as February 2019.</summary>
-
-* [February 20th, 2020 Video Q&A: When will the game be released on Steam?](./yt-QBE1Xl94s9o,100.04,137.04.md) [https://youtube.com/clip/UgwxAs6_LIBK1w3oOdx4AaABCQ](https://youtube.com/clip/UgwxAs6_LIBK1w3oOdx4AaABCQ)
-* [January 22nd, 2020 Livestream Q&A: Satisfactory on Steam?](./yt-gOgyvgKAGAQ.md) [https://www.youtube.com/watch?v=gOgyvgKAGAQ](https://www.youtube.com/watch?v=gOgyvgKAGAQ)
-* [February 6th, 2019 Livestream Q&A: Available on Steam in future?](./yt-Dtm6xIj-wM4,3280.698724,3286.654122.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3280&end=3287)
-</details>
-
 
 ### Topics
 * [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)

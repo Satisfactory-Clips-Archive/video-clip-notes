@@ -10,7 +10,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Any more major updates planned before 1.0?
 https://www.youtube.com/watch?v=XLXeOMWHoAc
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: How many Updates until 1.0?](./yt-vGF9MjeBuus.md) [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: How many Updates 'til 1.0?](./yt-CtPbiRm_Geg.md) [https://www.youtube.com/watch?v=CtPbiRm_Geg](https://www.youtube.com/watch?v=CtPbiRm_Geg)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf
 
+## July 20th, 2021 Livestream
+* [Community FYI: 666 for Golf](../../../transcriptions/yt-Lh0RQ9YYjwU.md) [https://www.youtube.com/watch?v=Lh0RQ9YYjwU](https://www.youtube.com/watch?v=Lh0RQ9YYjwU)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Golf, when?](../../../transcriptions/yt-QHzEKv8s86M.md) [https://www.youtube.com/watch?v=QHzEKv8s86M](https://www.youtube.com/watch?v=QHzEKv8s86M)
 * [Q&A: Golf confirmed, Update 5?](../../../transcriptions/yt-Qmb7auhBqvs.md) [https://www.youtube.com/watch?v=Qmb7auhBqvs](https://www.youtube.com/watch?v=Qmb7auhBqvs)

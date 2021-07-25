@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 4 Patch Notes Video
 
+## July 20th, 2021 Livestream
+* [Jace Talk: PS5 scratches](../../../transcriptions/yt-1G7PQj5Ic9A.md) [https://www.youtube.com/watch?v=1G7PQj5Ic9A](https://www.youtube.com/watch?v=1G7PQj5Ic9A)
+* [Community FYI: I like how you immediately use the PS5 for important things](../../../transcriptions/yt-v2iZ5p9Dsq0.md) [https://www.youtube.com/watch?v=v2iZ5p9Dsq0](https://www.youtube.com/watch?v=v2iZ5p9Dsq0)
+* [Community FYI: Jace's PS5 inclusion in the Update 4 Patch Notes makes it part of gaming history now](../../../transcriptions/yt-jtHvJEE-kTQ.md) [https://www.youtube.com/watch?v=jtHvJEE-kTQ](https://www.youtube.com/watch?v=jtHvJEE-kTQ)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Does Jace still feel sad about his PS5?](../../../transcriptions/yt-6zXM0xfjYEE.md) [https://www.youtube.com/watch?v=6zXM0xfjYEE](https://www.youtube.com/watch?v=6zXM0xfjYEE)
 

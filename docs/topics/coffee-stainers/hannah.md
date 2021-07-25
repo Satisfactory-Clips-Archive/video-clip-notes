@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 * [Coffee Stainers can't pronounce Hannah's last name](../../topics/coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 
+## July 20th, 2021 Livestream
+* [Community FYI: Her name is Hanburger](../../transcriptions/yt-8e_1bMWzV7I.md) [https://www.youtube.com/watch?v=8e_1bMWzV7I](https://www.youtube.com/watch?v=8e_1bMWzV7I)
+* [Community FYI: If you had a "Dear Hannah" segment, you'd have less dead air](../../transcriptions/yt-ai2N0C2tJPA.md) [https://www.youtube.com/watch?v=ai2N0C2tJPA](https://www.youtube.com/watch?v=ai2N0C2tJPA)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Can we get Hannah on stream or pre-recorded?](../../transcriptions/yt-SwjERGgPOgU.md) [https://www.youtube.com/watch?v=SwjERGgPOgU](https://www.youtube.com/watch?v=SwjERGgPOgU)
 

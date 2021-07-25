@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Can we have stronger monsters in the game, at Tier 5/6 they hardly challenge you in building](../../transcriptions/yt-CjX7Sti2AJo.md) [https://www.youtube.com/watch?v=CjX7Sti2AJo](https://www.youtube.com/watch?v=CjX7Sti2AJo)
+
 ## July 13th, 2021 Livestream
 * [Community FYI: Those interesting animals look like they would make good burgers](../../transcriptions/yt-M644npYkLRA.md) [https://www.youtube.com/watch?v=M644npYkLRA](https://www.youtube.com/watch?v=M644npYkLRA)
 * [Q&A: Mounts?](../../transcriptions/yt-cdakPXAMAqI.md) [https://www.youtube.com/watch?v=cdakPXAMAqI](https://www.youtube.com/watch?v=cdakPXAMAqI)
@@ -101,7 +104,6 @@ date: Last Modified
 
 ## October 20th, 2020 Livestream
 * [Q&A: Will Aliens become more diverse/actually challenging?](../../transcriptions/yt-K7fDE5Dg570.md) [https://www.youtube.com/watch?v=K7fDE5Dg570](https://www.youtube.com/watch?v=K7fDE5Dg570)
-* [Q&A: Why are the weird 4-legged pigeon things bouncy?](../../transcriptions/yt-5yND7lhkWFw.md) [https://www.youtube.com/watch?v=5yND7lhkWFw](https://www.youtube.com/watch?v=5yND7lhkWFw)
 
 ## October 13th, 2020 Livestream
 * [Q&A: If Factories can get attacked?](../../transcriptions/yt-tK_m7AqM4sY.md) [https://www.youtube.com/watch?v=tK_m7AqM4sY](https://www.youtube.com/watch?v=tK_m7AqM4sY)

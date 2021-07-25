@@ -1,0 +1,17 @@
+---
+title: "July 20th, 2021 Livestream Q&A: How are plans surrounding 1.0 shaping up?"
+date: "2021-07-20"
+layout: transcript
+topics:
+    - "satisfactory-updates/pending/satisfactory-1-0"
+---
+# [July 20th, 2021 Livestream](../2021-07-20.md)
+## Q&A: How are plans surrounding 1.0 shaping up?
+https://www.youtube.com/watch?v=ERZuus5HBho
+
+### Topics
+* [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
+
+### Transcript
+
+> how are plans around 1.0 shaping up i think okay actually uh i don't really it's it's kind of hard to i don't know we're we're sort of focused on update five and then what's after update five which is i'm just it's update six it's yeah i'm pretty sure that's how that's working uh and uh yeah and so i don't really know exactly if like we're on target for 1.0 or not but we are on target for the things that are more immediate it seems so far

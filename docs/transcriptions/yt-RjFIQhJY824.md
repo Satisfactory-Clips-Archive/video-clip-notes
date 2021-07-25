@@ -9,7 +9,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Hoping for Base Defence?
 https://www.youtube.com/watch?v=RjFIQhJY824
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Turrets & shit?](./yt-KPUcYM5lOac.md) [https://www.youtube.com/watch?v=KPUcYM5lOac](https://www.youtube.com/watch?v=KPUcYM5lOac)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: What're your thoughts on making the game Tower Defense?](./yt-Ki4ohrbXbrk.md) [https://www.youtube.com/watch?v=Ki4ohrbXbrk](https://www.youtube.com/watch?v=Ki4ohrbXbrk)
 
 
 ### Topics

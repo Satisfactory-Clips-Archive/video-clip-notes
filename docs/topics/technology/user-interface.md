@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Does the read-out on machines have a purpose?](../../transcriptions/yt-Kq1yKGpbExM.md) [https://www.youtube.com/watch?v=Kq1yKGpbExM](https://www.youtube.com/watch?v=Kq1yKGpbExM)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Why do call them "timetables" when they don't track time?](../../transcriptions/yt-MUDbv61nCQ0.md) [https://www.youtube.com/watch?v=MUDbv61nCQ0](https://www.youtube.com/watch?v=MUDbv61nCQ0)
 * [Q&A: Have you ever tried overclocking Fuel Generators, it has a very confusing interface?](../../transcriptions/yt-W6Zxy430lZo.md) [https://www.youtube.com/watch?v=W6Zxy430lZo](https://www.youtube.com/watch?v=W6Zxy430lZo)

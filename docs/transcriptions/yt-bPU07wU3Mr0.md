@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Any new info about Train Signals?
 https://www.youtube.com/watch?v=bPU07wU3Mr0
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: When Train Update?](./yt-6UkeKRs-WVw.md) [https://www.youtube.com/watch?v=6UkeKRs-WVw](https://www.youtube.com/watch?v=6UkeKRs-WVw)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: How's progress on Train Signals & collisions?](./yt-nKGDe2SsRWA.md) [https://www.youtube.com/watch?v=nKGDe2SsRWA](https://www.youtube.com/watch?v=nKGDe2SsRWA)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
+## July 20th, 2021 Livestream
+* [Q&A: Can you answer if there will be Base Defense again, we're only at 40 citations?](../../transcriptions/yt-VrzN65UdofQ.md) [https://www.youtube.com/watch?v=VrzN65UdofQ](https://www.youtube.com/watch?v=VrzN65UdofQ)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Is there a community guide on how to make factories that don't have a big performance hit?](../../transcriptions/yt-YVs3sPwwZhg.md) [https://www.youtube.com/watch?v=YVs3sPwwZhg](https://www.youtube.com/watch?v=YVs3sPwwZhg)
 

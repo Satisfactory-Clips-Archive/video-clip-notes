@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## July 20th, 2021 Livestream
+* [Q&A: Are you going to fix the FICS⁕MAS Basher so you can hit enemies with it again?](../../../transcriptions/yt-rZ_ZrEDqUW8.md) [https://www.youtube.com/watch?v=rZ_ZrEDqUW8](https://www.youtube.com/watch?v=rZ_ZrEDqUW8)
+
 ## June 8th, 2021 Livestream
 * [Community FYI: There is FICS⁕MAS event thing you need for one of the crash sites](../../../transcriptions/yt-UMBKLIKZ610.md) [https://www.youtube.com/watch?v=UMBKLIKZ610](https://www.youtube.com/watch?v=UMBKLIKZ610)
 

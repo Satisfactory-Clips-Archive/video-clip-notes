@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Paint
 
+## July 20th, 2021 Livestream
+* [Q&A: When will Vehicles be paintable?](../../transcriptions/yt-RG3Oa3un-cg.md) [https://www.youtube.com/watch?v=RG3Oa3un-cg](https://www.youtube.com/watch?v=RG3Oa3un-cg)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Will Vehicles be colourable?](../../transcriptions/yt-x5oG7A7-dnA.md) [https://www.youtube.com/watch?v=x5oG7A7-dnA](https://www.youtube.com/watch?v=x5oG7A7-dnA)
 * [Community FYI: Need a robot lawnmower that brings me all the Flower Petals, that'd be nice](../../transcriptions/yt-o4C0y2dyhEw.md) [https://www.youtube.com/watch?v=o4C0y2dyhEw](https://www.youtube.com/watch?v=o4C0y2dyhEw)

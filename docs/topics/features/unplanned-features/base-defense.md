@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
 
+## July 20th, 2021 Livestream
+* [Community FYI: I'm so excited for the Tower Defense mode they announced](../../../transcriptions/yt-RzcHWe-bqSM.md) [https://www.youtube.com/watch?v=RzcHWe-bqSM](https://www.youtube.com/watch?v=RzcHWe-bqSM)
+* [Q&A: Can you answer if there will be Base Defense again, we're only at 40 citations?](../../../transcriptions/yt-VrzN65UdofQ.md) [https://www.youtube.com/watch?v=VrzN65UdofQ](https://www.youtube.com/watch?v=VrzN65UdofQ)
+* [Q&A: What're your thoughts on making the game Tower Defense?](../../../transcriptions/yt-Ki4ohrbXbrk.md) [https://www.youtube.com/watch?v=Ki4ohrbXbrk](https://www.youtube.com/watch?v=Ki4ohrbXbrk)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Any chance there will be survival mode soon like monsters attack your base at night and stuff?](../../../transcriptions/yt-bJNwHG1M-6c.md) [https://www.youtube.com/watch?v=bJNwHG1M-6c](https://www.youtube.com/watch?v=bJNwHG1M-6c)
 

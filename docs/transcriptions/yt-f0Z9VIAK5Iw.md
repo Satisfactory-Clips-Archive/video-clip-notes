@@ -9,7 +9,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: What's happening with S.A.M. Ore?
 https://www.youtube.com/watch?v=f0Z9VIAK5Iw
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Will we use S.A.M. Ore for something?](./yt-y8zrEB5BiwQ.md) [https://www.youtube.com/watch?v=y8zrEB5BiwQ](https://www.youtube.com/watch?v=y8zrEB5BiwQ)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Has S.A.M. Ore been given a function yet?](./yt-VVYzPlbpSwM.md) [https://www.youtube.com/watch?v=VVYzPlbpSwM](https://www.youtube.com/watch?v=VVYzPlbpSwM)
 
 
 ### Topics

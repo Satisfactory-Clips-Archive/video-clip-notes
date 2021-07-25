@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Is proper rail signalling in the works for the future?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1227&end=1236
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: When Train Update?](./yt-6UkeKRs-WVw.md) [https://www.youtube.com/watch?v=6UkeKRs-WVw](https://www.youtube.com/watch?v=6UkeKRs-WVw)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: How's progress on Train Signals & collisions?](./yt-nKGDe2SsRWA.md) [https://www.youtube.com/watch?v=nKGDe2SsRWA](https://www.youtube.com/watch?v=nKGDe2SsRWA)
 
 
 ### Topics

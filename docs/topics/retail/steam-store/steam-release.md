@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Retail](../../../topics/retail.md) > [Steam Store](../../../topics/retail/steam-store.md) > Steam Release
 
+## July 20th, 2021 Livestream
+* [Q&A: You said that Dedicated Servers would be released with the Steam Release though?](../../../transcriptions/yt-3tQ8lO7Yk6g.md) [https://www.youtube.com/watch?v=3tQ8lO7Yk6g](https://www.youtube.com/watch?v=3tQ8lO7Yk6g)
+
 ## June 8th, 2021 Livestream
 * [State of Dev: Dedicated Servers](../../../transcriptions/yt-uzSAawwW6EA.md) [https://www.youtube.com/watch?v=uzSAawwW6EA](https://www.youtube.com/watch?v=uzSAawwW6EA)
 

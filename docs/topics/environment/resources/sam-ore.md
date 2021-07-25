@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## July 20th, 2021 Livestream
+* [Q&A: Has S.A.M. Ore been given a function yet?](../../../transcriptions/yt-VVYzPlbpSwM.md) [https://www.youtube.com/watch?v=VVYzPlbpSwM](https://www.youtube.com/watch?v=VVYzPlbpSwM)
+* [Q&A: Is it useful to mine S.A.M. Ore at the moment?](../../../transcriptions/yt-JM24GmqDQ8M.md) [https://www.youtube.com/watch?v=JM24GmqDQ8M](https://www.youtube.com/watch?v=JM24GmqDQ8M)
+* [Q&A: Will S.A.M. Ore, Somersloops, and Mercer Spheres have a function beyond Story stuff?](../../../transcriptions/yt-mzMRZqpxaug.md) [https://www.youtube.com/watch?v=mzMRZqpxaug](https://www.youtube.com/watch?v=mzMRZqpxaug)
+* [Q&A: Why are resources like S.A.M. Ore already implemented but have no recipes?](../../../transcriptions/yt-ChxmSYhIRA8.md) [https://www.youtube.com/watch?v=ChxmSYhIRA8](https://www.youtube.com/watch?v=ChxmSYhIRA8)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Will we use S.A.M. Ore for something?](../../../transcriptions/yt-y8zrEB5BiwQ.md) [https://www.youtube.com/watch?v=y8zrEB5BiwQ](https://www.youtube.com/watch?v=y8zrEB5BiwQ)
 

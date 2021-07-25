@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## July 20th, 2021 Livestream
+* [Q&A: More Shop items (decorations, plants) in the next Update?](../../../transcriptions/yt-ABvXAJSdX2c.md) [https://www.youtube.com/watch?v=ABvXAJSdX2c](https://www.youtube.com/watch?v=ABvXAJSdX2c)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Any chance of purely-aesthetic parts?](../../../transcriptions/yt-pduDLZtiJwI.md) [https://www.youtube.com/watch?v=pduDLZtiJwI](https://www.youtube.com/watch?v=pduDLZtiJwI)
 

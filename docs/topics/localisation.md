@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../topics.md) > Localisation
 * [Localization Community Highlight](../topics/localisation/localization-community-highlight.md)
 
+## July 20th, 2021 Livestream
+* [Q&A: Are we expecting any patches prior to Update 5?](../transcriptions/yt-VPGerw4doBo.md) [https://www.youtube.com/watch?v=VPGerw4doBo](https://www.youtube.com/watch?v=VPGerw4doBo)
+
 ## July 6th, 2021 Livestream
 * [Alex & Snutt & Jace Talk: Localization stats](../transcriptions/yt-wKiRve1ctJg.md) [https://www.youtube.com/watch?v=wKiRve1ctJg](https://www.youtube.com/watch?v=wKiRve1ctJg)
 * [Q&A: What is the process like for translating?](../transcriptions/yt-2Rs25Etx9-g.md) [https://www.youtube.com/watch?v=2Rs25Etx9-g](https://www.youtube.com/watch?v=2Rs25Etx9-g)

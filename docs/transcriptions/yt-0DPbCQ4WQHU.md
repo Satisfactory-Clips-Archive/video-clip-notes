@@ -9,7 +9,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Paintable Vehicles when?
 https://www.youtube.com/watch?v=0DPbCQ4WQHU
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Will Vehicles be colourable?](./yt-x5oG7A7-dnA.md) [https://www.youtube.com/watch?v=x5oG7A7-dnA](https://www.youtube.com/watch?v=x5oG7A7-dnA)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: When will Vehicles be paintable?](./yt-RG3Oa3un-cg.md) [https://www.youtube.com/watch?v=RG3Oa3un-cg](https://www.youtube.com/watch?v=RG3Oa3un-cg)
 
 
 ### Topics

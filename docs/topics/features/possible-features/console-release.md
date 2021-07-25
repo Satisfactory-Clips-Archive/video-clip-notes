@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+## July 20th, 2021 Livestream
+* [Q&A: Opinions on Steam Deck?](../../../transcriptions/yt-uWMkC2jALgk.md) [https://www.youtube.com/watch?v=uWMkC2jALgk](https://www.youtube.com/watch?v=uWMkC2jALgk)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Satisfactory on Playdate, when?](../../../transcriptions/yt-eFFICs_dlwo.md) [https://www.youtube.com/watch?v=eFFICs_dlwo](https://www.youtube.com/watch?v=eFFICs_dlwo)
 

@@ -20,7 +20,8 @@ date: Last Modified
 * [Q&A: Alien creature launcher - evict the giant Tick?](../../../transcriptions/yt-mASNXinF0mA.md) [https://www.youtube.com/watch?v=mASNXinF0mA](https://www.youtube.com/watch?v=mASNXinF0mA)
 
 ## October 20th, 2020 Livestream
-* [Q&A: Is the Tick the official for the Space Cow Bean Giraffe?](../../../transcriptions/yt-1vgaetZXbxM.md) [https://www.youtube.com/watch?v=1vgaetZXbxM](https://www.youtube.com/watch?v=1vgaetZXbxM)
+* [Q&A: Is the Tick the official name for the Space Cow Bean Giraffe?](../../../transcriptions/yt-1vgaetZXbxM.md) [https://www.youtube.com/watch?v=1vgaetZXbxM](https://www.youtube.com/watch?v=1vgaetZXbxM)
+* [Q&A: Why are the weird 4-legged pigeon things bouncy?](../../../transcriptions/yt-5yND7lhkWFw.md) [https://www.youtube.com/watch?v=5yND7lhkWFw](https://www.youtube.com/watch?v=5yND7lhkWFw)
 
 ## August 25th, 2020 Livestream
 * [Q&A: Please make the Walking Bean stop clipping?](../../../transcriptions/yt-wTbRzvQ8ZLY.md) [https://www.youtube.com/watch?v=wTbRzvQ8ZLY](https://www.youtube.com/watch?v=wTbRzvQ8ZLY)

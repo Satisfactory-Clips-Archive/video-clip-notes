@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain North
 
+## July 20th, 2021 Livestream
+* [Q&A: Why is there a Community Management position open on the website, are you leaving us?](../../../transcriptions/yt-OzcH3XX6cJ8.md) [https://www.youtube.com/watch?v=OzcH3XX6cJ8](https://www.youtube.com/watch?v=OzcH3XX6cJ8)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Collab with CDPR, when?](../../../transcriptions/yt-XKjzX-knQU0.md) [https://www.youtube.com/watch?v=XKjzX-knQU0](https://www.youtube.com/watch?v=XKjzX-knQU0)
 

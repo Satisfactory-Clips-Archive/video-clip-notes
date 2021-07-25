@@ -1,12 +1,12 @@
 ---
-title: "October 20th, 2020 Livestream Q&A: Is the Tick the official for the Space Cow Bean Giraffe?"
+title: "October 20th, 2020 Livestream Q&A: Is the Tick the official name for the Space Cow Bean Giraffe?"
 date: "2020-10-20"
 layout: transcript
 topics:
     - "environment/creatures/space-giraffe-tick-penguin-whale-thing"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
-## Q&A: Is the Tick the official for the Space Cow Bean Giraffe?
+## Q&A: Is the Tick the official name for the Space Cow Bean Giraffe?
 https://www.youtube.com/watch?v=1vgaetZXbxM
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Two-person buggy?
 https://www.youtube.com/watch?v=IUQeH1sTCv0
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Two-people Explorer, please](./yt-hnYfzcUnUQE.md) [https://www.youtube.com/watch?v=hnYfzcUnUQE](https://www.youtube.com/watch?v=hnYfzcUnUQE)
+This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Any plans for Vehicles to hold more than one player?](./yt-49PWrYsgFtk.md) [https://www.youtube.com/watch?v=49PWrYsgFtk](https://www.youtube.com/watch?v=49PWrYsgFtk)
 
 
 ### Topics

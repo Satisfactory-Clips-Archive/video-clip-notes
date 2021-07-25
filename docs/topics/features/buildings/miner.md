@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## July 20th, 2021 Livestream
+* [Q&A: Will Mk.3 Miners get two outputs to transport the full production?](../../../transcriptions/yt-my4Zmq3LUNU.md) [https://www.youtube.com/watch?v=my4Zmq3LUNU](https://www.youtube.com/watch?v=my4Zmq3LUNU)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Why can't you attach a Splitter directly to the Miner?](../../../transcriptions/yt-jZU1bdvj78g.md) [https://www.youtube.com/watch?v=jZU1bdvj78g](https://www.youtube.com/watch?v=jZU1bdvj78g)
 

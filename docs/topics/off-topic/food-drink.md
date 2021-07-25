@@ -10,6 +10,9 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-drink/semlor.md)
 
+## July 20th, 2021 Livestream
+* Q&A: Is Jace taking over Snutt's Burger Time duties? [https://www.youtube.com/watch?v=FhPfeosk3EQ](https://www.youtube.com/watch?v=FhPfeosk3EQ)
+
 ## July 13th, 2021 Livestream
 * [Community FYI: Those interesting animals look like they would make good burgers](../../transcriptions/yt-M644npYkLRA.md) [https://www.youtube.com/watch?v=M644npYkLRA](https://www.youtube.com/watch?v=M644npYkLRA)
 * [Q&A: What did Jace have for lunch?](../../transcriptions/yt-8Jc_IDLBlyk.md) [https://www.youtube.com/watch?v=8Jc_IDLBlyk](https://www.youtube.com/watch?v=8Jc_IDLBlyk)

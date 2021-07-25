@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum
 
+## July 20th, 2021 Livestream
+* [Community FYI: Sanctum was the main reason I bought Satisfactory](../../transcriptions/yt-KdOAXeK58bg.md) [https://www.youtube.com/watch?v=KdOAXeK58bg](https://www.youtube.com/watch?v=KdOAXeK58bg)
+* [Community FYI: Should demo Sanctum 2 on dev stream one week?](../../transcriptions/yt-uG37YMFe5BQ.md) [https://www.youtube.com/watch?v=uG37YMFe5BQ](https://www.youtube.com/watch?v=uG37YMFe5BQ)
+* [Q&A: If your next game is Sanctum 3, will you look forward to the requests for factory automation ?](../../transcriptions/yt-o-EuIuJUVwM.md) [https://www.youtube.com/watch?v=o-EuIuJUVwM](https://www.youtube.com/watch?v=o-EuIuJUVwM)
+* [Jace Talk: Check out Sanctum 2](../../transcriptions/yt-UOKVbH99zdo.md) [https://www.youtube.com/watch?v=UOKVbH99zdo](https://www.youtube.com/watch?v=UOKVbH99zdo)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Do you recommend the game?](../../transcriptions/yt-oMusY1HxVhA.md) [https://www.youtube.com/watch?v=oMusY1HxVhA](https://www.youtube.com/watch?v=oMusY1HxVhA)
 
