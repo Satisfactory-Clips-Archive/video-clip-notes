@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel
 
+## July 23rd, 2021 Livestream
+* [Q&A: Can we pilot Drones?](../../../transcriptions/yt-FyOHDcxtEUA,51.005634,64.1.md) [https://youtube.com/clip/UgwoWLQOb1xROLzSTph4AaABCQ](https://youtube.com/clip/UgwoWLQOb1xROLzSTph4AaABCQ)
+
 ## July 13th, 2021 Livestream
 * [Community FYI: You said flying Vehicles would never be a thing, and then we got Drones](../../../transcriptions/yt-Aqe4sfwWECk.md) [https://www.youtube.com/watch?v=Aqe4sfwWECk](https://www.youtube.com/watch?v=Aqe4sfwWECk)
 

@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes
 
+## July 23rd, 2021 Livestream
+* [Tobias & Jace Talk: Drone WIP Footage - First implementation of Drones](../../transcriptions/yt-FyOHDcxtEUA,536.6333333333333,562.6666666666666.md) [https://youtube.com/clip/UgyaHJbh1qj9vMOb5k94AaABCQ](https://youtube.com/clip/UgyaHJbh1qj9vMOb5k94AaABCQ)
+* [Tobias & Jace Talk: Drone WIP Footage - First implementation of the Drone World Grid](../../transcriptions/yt-FyOHDcxtEUA,562.7,619.3.md) [https://youtube.com/clip/UgwYho04_UJK5gzjLJ14AaABCQ](https://youtube.com/clip/UgwYho04_UJK5gzjLJ14AaABCQ)
+* [Tobias & Jace Talk: Drone WIP Footage - Drones using their World Grid to pathfind](../../transcriptions/yt-FyOHDcxtEUA,619.3333333333334,644.908873.md) [https://youtube.com/clip/UgxRV6hcvXyjD6YnjPl4AaABCQ](https://youtube.com/clip/UgxRV6hcvXyjD6YnjPl4AaABCQ)
+* [Tobias Talk: Drone WIP Footage - First implementation of docking & take-off animation](../../transcriptions/yt-FyOHDcxtEUA,688.1,743.823032.md) [https://youtube.com/clip/Ugx1wXZIIMeYwnzB5XV4AaABCQ](https://youtube.com/clip/Ugx1wXZIIMeYwnzB5XV4AaABCQ)
+* [Tobias & Jace Talk: Drone WIP Footage - Drone World Grid height updates](../../transcriptions/yt-FyOHDcxtEUA,766.672609,789.6666666666666.md) [https://youtube.com/clip/Ugw8x_S9XXS7RVhAK_N4AaABCQ](https://youtube.com/clip/Ugw8x_S9XXS7RVhAK_N4AaABCQ)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Did Satisfactory have any other names before you settled on it?](../../transcriptions/yt-5zbeDE0Velc.md) [https://www.youtube.com/watch?v=5zbeDE0Velc](https://www.youtube.com/watch?v=5zbeDE0Velc)
 

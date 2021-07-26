@@ -14,6 +14,11 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## July 23rd, 2021 Livestream
+* [Tobias Talk: Battery consumption of Drones](../../transcriptions/yt-FyOHDcxtEUA,225.46666666666667,270.3333333333333.md) [https://youtube.com/clip/UgxQF40-E2C7byyl9MN4AaABCQ](https://youtube.com/clip/UgxQF40-E2C7byyl9MN4AaABCQ)
+* [Q&A: When are the Batteries used by Drones?](../../transcriptions/yt-FyOHDcxtEUA,317.03333333333336,357.56666666666666.md) [https://youtube.com/clip/UgybX97cu8npyL1-ag94AaABCQ](https://youtube.com/clip/UgybX97cu8npyL1-ag94AaABCQ)
+* [Q&A: Are there bugs with Drone's Battery consumption?](../../transcriptions/yt-FyOHDcxtEUA,357.6,383.6666666666667.md) [https://youtube.com/clip/UgzrWEuR3Z4I1VXqEIx4AaABCQ](https://youtube.com/clip/UgzrWEuR3Z4I1VXqEIx4AaABCQ)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Do you have any intent on adding Gold into the game?](../../transcriptions/yt-6jX9MU7ZKB4.md) [https://www.youtube.com/watch?v=6jX9MU7ZKB4](https://www.youtube.com/watch?v=6jX9MU7ZKB4)
 * [Q&A: Machine or Tech Tier that lets you use plasma?](../../transcriptions/yt-WEZ6i914Gs0.md) [https://www.youtube.com/watch?v=WEZ6i914Gs0](https://www.youtube.com/watch?v=WEZ6i914Gs0)

@@ -5,6 +5,7 @@ layout: index
 ---
 # 2021
 ## July
+* [July 23rd](2021-07-23.md)
 * [July 20th](2021-07-20.md)
 * [July 16th](2021-07-16.md)
 * [July 13th](2021-07-13.md)

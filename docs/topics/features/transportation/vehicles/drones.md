@@ -5,6 +5,29 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## July 23rd, 2021 Livestream
+* [Q&A: What are Drones, what do they do?](../../../../transcriptions/yt-FyOHDcxtEUA,24.44953,51.005634.md) [https://youtube.com/clip/UgwKDl1O95rewluahrl4AaABCQ](https://youtube.com/clip/UgwKDl1O95rewluahrl4AaABCQ)
+* [Q&A: Can we pilot Drones?](../../../../transcriptions/yt-FyOHDcxtEUA,51.005634,64.1.md) [https://youtube.com/clip/UgwoWLQOb1xROLzSTph4AaABCQ](https://youtube.com/clip/UgwoWLQOb1xROLzSTph4AaABCQ)
+* [Q&A: What was the basic development progression of Drones like?](../../../../transcriptions/yt-FyOHDcxtEUA,64.13333333333334,111.36666666666666.md) [https://youtube.com/clip/Ugz8dzC2odh1-fyZXRx4AaABCQ](https://youtube.com/clip/Ugz8dzC2odh1-fyZXRx4AaABCQ)
+* [Tobias & Jace Talk: Drone World Grid](../../../../transcriptions/yt-FyOHDcxtEUA,111.4,158.56666666666666.md) [https://youtube.com/clip/UgxfrOUyYIU6_AoE4P94AaABCQ](https://youtube.com/clip/UgxfrOUyYIU6_AoE4P94AaABCQ)
+* [Q&A: How do Drones deal with things that might be above them?](../../../../transcriptions/yt-FyOHDcxtEUA,158.6,187.73333333333332.md) [https://youtube.com/clip/UgycGV0nuTNRiyrlE8N4AaABCQ](https://youtube.com/clip/UgycGV0nuTNRiyrlE8N4AaABCQ)
+* [Q&A: Does the Drone World Grid take into account players' Buildings?](../../../../transcriptions/yt-FyOHDcxtEUA,187.76666666666668,225.43333333333334.md) [https://youtube.com/clip/Ugy_LYnkg3Di19SfH-J4AaABCQ](https://youtube.com/clip/Ugy_LYnkg3Di19SfH-J4AaABCQ)
+* [Tobias Talk: Battery consumption of Drones](../../../../transcriptions/yt-FyOHDcxtEUA,225.46666666666667,270.3333333333333.md) [https://youtube.com/clip/UgxQF40-E2C7byyl9MN4AaABCQ](https://youtube.com/clip/UgxQF40-E2C7byyl9MN4AaABCQ)
+* [Jace Math: Drones are more efficient the further they travel](../../../../transcriptions/yt-FyOHDcxtEUA,270.3666666666667,291.md) [https://youtube.com/clip/UgwCeOry0Hy7Dg0QywB4AaABCQ](https://youtube.com/clip/UgwCeOry0Hy7Dg0QywB4AaABCQ)
+* [Q&A: What if your Drone path changes?](../../../../transcriptions/yt-FyOHDcxtEUA,291.03333333333336,317.md) [https://youtube.com/clip/Ugxf7KIoJwFAPoKFNa54AaABCQ](https://youtube.com/clip/Ugxf7KIoJwFAPoKFNa54AaABCQ)
+* [Q&A: When are the Batteries used by Drones?](../../../../transcriptions/yt-FyOHDcxtEUA,317.03333333333336,357.56666666666666.md) [https://youtube.com/clip/UgybX97cu8npyL1-ag94AaABCQ](https://youtube.com/clip/UgybX97cu8npyL1-ag94AaABCQ)
+* [Q&A: Are there bugs with Drone's Battery consumption?](../../../../transcriptions/yt-FyOHDcxtEUA,357.6,383.6666666666667.md) [https://youtube.com/clip/UgzrWEuR3Z4I1VXqEIx4AaABCQ](https://youtube.com/clip/UgzrWEuR3Z4I1VXqEIx4AaABCQ)
+* [Q&A: What are some of the biggest challenges you had when working on the Drones?](../../../../transcriptions/yt-FyOHDcxtEUA,383.7,454.06666666666666.md) [https://youtube.com/embed/FyOHDcxtEUA?autoplay=1&start=383&end=455](https://youtube.com/embed/FyOHDcxtEUA?autoplay=1&start=383&end=455)
+* [Q&A: Will people be able to ride on the Drones?](../../../../transcriptions/yt-FyOHDcxtEUA,454.1,503.56666666666666.md) [https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ](https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ)
+* [Q&A: What future plans are there for Drones?](../../../../transcriptions/yt-FyOHDcxtEUA,503.6,533.1.md) [https://youtube.com/clip/UgxSn7sZCo9cJTo0QTN4AaABCQ](https://youtube.com/clip/UgxSn7sZCo9cJTo0QTN4AaABCQ)
+* [Tobias & Jace Talk: Drone WIP Footage - First implementation of Drones](../../../../transcriptions/yt-FyOHDcxtEUA,536.6333333333333,562.6666666666666.md) [https://youtube.com/clip/UgyaHJbh1qj9vMOb5k94AaABCQ](https://youtube.com/clip/UgyaHJbh1qj9vMOb5k94AaABCQ)
+* [Tobias & Jace Talk: Drone WIP Footage - First implementation of the Drone World Grid](../../../../transcriptions/yt-FyOHDcxtEUA,562.7,619.3.md) [https://youtube.com/clip/UgwYho04_UJK5gzjLJ14AaABCQ](https://youtube.com/clip/UgwYho04_UJK5gzjLJ14AaABCQ)
+* [Tobias & Jace Talk: Drone WIP Footage - Drones using their World Grid to pathfind](../../../../transcriptions/yt-FyOHDcxtEUA,619.3333333333334,644.908873.md) [https://youtube.com/clip/UgxRV6hcvXyjD6YnjPl4AaABCQ](https://youtube.com/clip/UgxRV6hcvXyjD6YnjPl4AaABCQ)
+* [Q&A: Drones fly through the center of their World Grid, they don't fly diagonally?](../../../../transcriptions/yt-FyOHDcxtEUA,644.908873,688.0666666666667.md) [https://youtube.com/clip/UgzIJfRBdlBhb2mEtSB4AaABCQ](https://youtube.com/clip/UgzIJfRBdlBhb2mEtSB4AaABCQ)
+* [Tobias Talk: Drone WIP Footage - First implementation of docking & take-off animation](../../../../transcriptions/yt-FyOHDcxtEUA,688.1,743.823032.md) [https://youtube.com/clip/Ugx1wXZIIMeYwnzB5XV4AaABCQ](https://youtube.com/clip/Ugx1wXZIIMeYwnzB5XV4AaABCQ)
+* [Q&A: What's the timer for?](../../../../transcriptions/yt-FyOHDcxtEUA,743.823032,766.6333333333333.md) [https://youtube.com/clip/UgyYNv0yANrj0o9ti7h4AaABCQ](https://youtube.com/clip/UgyYNv0yANrj0o9ti7h4AaABCQ)
+* [Tobias & Jace Talk: Drone WIP Footage - Drone World Grid height updates](../../../../transcriptions/yt-FyOHDcxtEUA,766.672609,789.6666666666666.md) [https://youtube.com/clip/Ugw8x_S9XXS7RVhAK_N4AaABCQ](https://youtube.com/clip/Ugw8x_S9XXS7RVhAK_N4AaABCQ)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Can Trains & cars have the same throughput that Drones have?](../../../../transcriptions/yt-KrFS-sBw9U4.md) [https://www.youtube.com/watch?v=KrFS-sBw9U4](https://www.youtube.com/watch?v=KrFS-sBw9U4)
 * [Community FYI: You said flying Vehicles would never be a thing, and then we got Drones](../../../../transcriptions/yt-Aqe4sfwWECk.md) [https://www.youtube.com/watch?v=Aqe4sfwWECk](https://www.youtube.com/watch?v=Aqe4sfwWECk)
