@@ -65,7 +65,7 @@ date: Last Modified
 * [Q&A: Has the team discussed other possible map ideas such as tundra or archipelago?](../../transcriptions/yt-gqIBbkGCxdI.md) [https://www.youtube.com/watch?v=gqIBbkGCxdI](https://www.youtube.com/watch?v=gqIBbkGCxdI)
 
 ## December 17th, 2020 Q&A
-* [Q&A: New biomes?](../../transcriptions/yt--JXPsTlJIiI,1026.3920333333333,1036.5688666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037)
+* [Q&A: New biomes?](../../transcriptions/yt--JXPsTlJIiI,1026.3920333333333,1036.5688666666667.md) [https://youtube.com/clip/UgzXEuVMu241oXqusb54AaABCQ](https://youtube.com/clip/UgzXEuVMu241oXqusb54AaABCQ)
 
 ## November 17th, 2020 Livestream
 * [Q&A: The question is not "Who is Hannah?", the question is "Who is Hannannatalie?"](../../transcriptions/yt-hCcT5uhzwso.md) [https://www.youtube.com/watch?v=hCcT5uhzwso](https://www.youtube.com/watch?v=hCcT5uhzwso)

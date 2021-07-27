@@ -51,7 +51,7 @@ date: Last Modified
 * [Q&A: Which Biome will be rebuilt?](../../transcriptions/yt-5v0_pFbQLF4.md) [https://www.youtube.com/watch?v=5v0_pFbQLF4](https://www.youtube.com/watch?v=5v0_pFbQLF4)
 
 ## December 17th, 2020 Q&A
-* [Q&A: New biomes?](../../transcriptions/yt--JXPsTlJIiI,1026.3920333333333,1036.5688666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1026&end=1037)
+* [Q&A: New biomes?](../../transcriptions/yt--JXPsTlJIiI,1026.3920333333333,1036.5688666666667.md) [https://youtube.com/clip/UgzXEuVMu241oXqusb54AaABCQ](https://youtube.com/clip/UgzXEuVMu241oXqusb54AaABCQ)
 
 ## November 17th, 2020 Livestream
 * [Q&A: Is Snow/Ice coming?](../../transcriptions/yt-s8HISCrP7w8.md) [https://www.youtube.com/watch?v=s8HISCrP7w8](https://www.youtube.com/watch?v=s8HISCrP7w8)
