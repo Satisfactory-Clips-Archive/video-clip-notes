@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "environment/resource-wells"
     - "environment/world-map"
-    - "satisfactory-updates/pending/world-update"
     - "satisfactory-updates/released/satisfactory-update-4"
+    - "satisfactory-updates/world-update"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Will Update 4 include Map Updates?
@@ -17,8 +17,8 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 ### Topics
 * [Environment > Resource Wells](../topics/environment/resource-wells.md)
 * [Environment > World Map](../topics/environment/world-map.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

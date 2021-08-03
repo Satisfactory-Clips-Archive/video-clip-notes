@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/biomes"
     - "environment/biomes/dune-desert"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Is there another area rework like the desert update happening?
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=sV-kvBvlTXc
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

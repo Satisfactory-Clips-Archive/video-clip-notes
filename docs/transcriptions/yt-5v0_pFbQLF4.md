@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/biomes"
     - "environment/biomes/dune-desert"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Which Biome will be rebuilt?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

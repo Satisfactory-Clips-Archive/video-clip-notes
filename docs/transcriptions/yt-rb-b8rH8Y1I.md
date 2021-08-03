@@ -4,8 +4,8 @@ date: "2021-07-20"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
-    - "satisfactory-updates/pending/world-update"
     - "satisfactory-updates/released/satisfactory-update-4"
+    - "satisfactory-updates/world-update"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Should I be afraid of the map changes in Update 5 before I start building in Update 4?
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=rb-b8rH8Y1I
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "July 13th, 2021 Livestream Q&A: When do we get a Map Update?"
 date: "2021-07-13"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: When do we get a Map Update?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=Ns1NwYrB16M
 
 
 ### Topics
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

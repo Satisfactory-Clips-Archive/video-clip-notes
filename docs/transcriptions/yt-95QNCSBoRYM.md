@@ -4,7 +4,7 @@ date: "2021-02-23"
 layout: transcript
 topics:
     - "environment/biomes/dune-desert"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Will the Dune Desert get crammed or will it stay as the perfect mega-base location?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=95QNCSBoRYM
 
 ### Topics
 * [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

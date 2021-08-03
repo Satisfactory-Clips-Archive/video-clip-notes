@@ -6,8 +6,8 @@ topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
     - "community/signpostmarv"
-    - "satisfactory-updates/pending/world-update"
     - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/world-update"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Q&A: If it makes changes to the mountains, can you go rock climbing for the World Update video?
@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=1HNEIzjJm0w
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Community > SignpostMarv](../topics/community/signpostmarv.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

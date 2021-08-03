@@ -3,14 +3,14 @@ title: "April 20th, 2021 Livestream Community FYI: There's places where there's 
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Community FYI: There's places where there's water visually but when you fall there you take damage
 https://www.youtube.com/watch?v=Mj6RbY92QtU
 
 ### Topics
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

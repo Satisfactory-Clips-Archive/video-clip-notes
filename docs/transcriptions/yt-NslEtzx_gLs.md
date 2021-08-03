@@ -3,14 +3,14 @@ title: "June 8th, 2021 Livestream Q&A: Can you tease us some day with some upcom
 date: "2021-06-08"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: Can you tease us some day with some upcoming Map improvements?
 https://www.youtube.com/watch?v=NslEtzx_gLs
 
 ### Topics
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

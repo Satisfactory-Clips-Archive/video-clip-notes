@@ -4,7 +4,7 @@ date: "2021-06-15"
 layout: transcript
 topics:
     - "environment/world-map"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Will we get notified in advance of Map changes so we can repair our builds?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=QHQ60VKYtS4
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

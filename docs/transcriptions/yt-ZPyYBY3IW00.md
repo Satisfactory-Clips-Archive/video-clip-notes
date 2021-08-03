@@ -4,7 +4,7 @@ date: "2021-06-22"
 layout: transcript
 topics:
     - "environment/resources/water"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
     - "technology/physics"
 ---
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=ZPyYBY3IW00
 
 ### Topics
 * [Environment > Resources > Water](../topics/environment/resources/water.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 * [Technology > Physics](../topics/technology/physics.md)
 
 ### Transcript

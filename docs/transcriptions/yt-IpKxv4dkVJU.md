@@ -3,14 +3,14 @@ title: "July 20th, 2021 Livestream Q&A: Did you go over the areas we're not to b
 date: "2021-07-20"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Did you go over the areas we're not to build in for the moment?
 https://www.youtube.com/watch?v=IpKxv4dkVJU
 
 ### Topics
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

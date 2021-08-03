@@ -6,7 +6,7 @@ topics:
     - "community/community-highlights"
     - "environment/biomes/dune-desert"
     - "environment/biomes/spire-coast"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Community Highlights: Dune Desert Waterfall Mesa & the pending World Updates
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=b86m8SEx6Vw
 * [Community > Community Highlights](../topics/community/community-highlights.md)
 * [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-03-23"
 layout: transcript
 topics:
     - "environment/biomes/dune-desert"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Heard Dune Desert getting a second rework, is this true?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=x3fI_4o0WPw
 
 ### Topics
 * [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

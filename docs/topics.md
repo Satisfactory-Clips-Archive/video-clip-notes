@@ -404,9 +404,9 @@ date: Last Modified
 * [Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
 * [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)
 * [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
+* [World Update](./topics/satisfactory-updates/world-update.md)
 
 ## Pending
-* [World Update](./topics/satisfactory-updates/pending/world-update.md)
 * [Satisfactory Update 5](./topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 ---

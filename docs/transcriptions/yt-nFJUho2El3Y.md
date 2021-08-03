@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/hannah"
     - "environment/world-map"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: How is the World Building going?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=nFJUho2El3Y
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Environment > World Map](../topics/environment/world-map.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

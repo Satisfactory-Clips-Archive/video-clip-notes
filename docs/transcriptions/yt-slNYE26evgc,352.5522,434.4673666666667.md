@@ -3,7 +3,7 @@ title: "June 18th, 2021 - Jace Talk: World Update"
 date: "2021-06-18"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
     - "environment/biomes"
     - "environment/biomes/northern-forest"
     - "environment/world-map"
@@ -12,7 +12,7 @@ topics:
 ## Jace Talk: World Update
 https://youtube.com/embed/slNYE26evgc?autoplay=1&start=352&end=435
 ### Topics
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > Biomes > Northern Forest](../topics/environment/biomes/northern-forest.md)
 * [Environment > World Map](../topics/environment/world-map.md)

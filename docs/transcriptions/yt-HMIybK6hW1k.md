@@ -3,7 +3,7 @@ title: "April 20th, 2021 Livestream Q&A: If you have plans to alter the current 
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: If you have plans to alter the current map, what about bases that are already set up?
@@ -12,7 +12,7 @@ This question was possibly replaced with a more recent answer: [June 15th, 2021 
 
 
 ### Topics
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

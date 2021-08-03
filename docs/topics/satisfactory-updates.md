@@ -16,6 +16,7 @@ date: Last Modified
 * [Speculative](../topics/satisfactory-updates/speculative.md)
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [World Update](../topics/satisfactory-updates/world-update.md)
 
 ## July 20th, 2021 Livestream
 * [Q&A: Are there big changes since Update 4?](../transcriptions/yt-srjS5H6rZSI.md) [https://www.youtube.com/watch?v=srjS5H6rZSI](https://www.youtube.com/watch?v=srjS5H6rZSI)

@@ -3,7 +3,7 @@ title: "July 6th, 2021 Livestream Q&A: How's the current Map update progressing?
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: How's the current Map update progressing?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 
 ### Topics
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

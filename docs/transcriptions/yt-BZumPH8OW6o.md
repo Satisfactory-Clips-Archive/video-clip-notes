@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/hannah"
     - "environment/biomes/spire-coast"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Snutt & Jace Talk: Hannah confirms Spire Coast overhaul as "new biome"
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=BZumPH8OW6o
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

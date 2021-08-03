@@ -8,7 +8,7 @@ topics:
     - "environment/biomes/dune-desert"
     - "environment/biomes/unplanned-biomes/snow"
     - "environment/world-map"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Even more Biomes coming to play?
@@ -22,7 +22,7 @@ This question was possibly duplicated with a more recent answer: [June 15th, 202
 * [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)
 * [Environment > Biomes > Unplanned Biomes > Snow](../topics/environment/biomes/unplanned-biomes/snow.md)
 * [Environment > World Map](../topics/environment/world-map.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

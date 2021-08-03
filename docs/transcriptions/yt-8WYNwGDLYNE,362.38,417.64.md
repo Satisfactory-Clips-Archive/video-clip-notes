@@ -3,14 +3,14 @@ title: "October 24th, 2019 Video Hannah Talk: World Updates interfering with fac
 date: "2019-10-24"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [October 24th, 2019 Video](../2019-10-24.md)
 ## Hannah Talk: World Updates interfering with factories
 https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=362&end=418
 
 ### Topics
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

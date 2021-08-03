@@ -4,7 +4,7 @@ date: "2021-06-08"
 layout: transcript
 topics:
     - "environment/world-map"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: Is there going to be any Map expansion or random Weather?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [June 15th, 202
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

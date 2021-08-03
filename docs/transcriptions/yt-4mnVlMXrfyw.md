@@ -4,8 +4,8 @@ date: "2021-03-23"
 layout: transcript
 topics:
     - "environment/biomes"
-    - "satisfactory-updates/pending/world-update"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/world-update"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: When you push World Updates, will those come to EA & Experimental at the same time or separate?
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=4mnVlMXrfyw
 
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

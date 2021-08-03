@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/hannah"
     - "environment/biomes/northern-forest"
     - "june-2021-epic-mega-sale-stream"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Snutt & Jace Talk: Northern Forest will be impacted by the World Update, blame Hannah
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=M7wSuhXitMk
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Environment > Biomes > Northern Forest](../topics/environment/biomes/northern-forest.md)
 * [June 2021 Epic Mega Sale Stream](../topics/june-2021-epic-mega-sale-stream.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript
 

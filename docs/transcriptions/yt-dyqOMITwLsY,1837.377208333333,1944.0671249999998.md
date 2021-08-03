@@ -7,7 +7,7 @@ topics:
     - "environment/plants"
     - "environment/world-map"
     - "features/save-system"
-    - "satisfactory-updates/pending/world-update"
+    - "satisfactory-updates/world-update"
     - "technology/unreal-engine"
     - "technology/unreal-engine/custom-component-instanced-spline-mesh"
 ---
@@ -22,7 +22,7 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 * [Environment > Plants](../topics/environment/plants.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Save System](../topics/features/save-system.md)
-* [Satisfactory Updates > Pending > World Update](../topics/satisfactory-updates/pending/world-update.md)
+* [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 * [Technology > Unreal Engine > Custom Component: Instanced Spline Mesh](../topics/technology/unreal-engine/custom-component-instanced-spline-mesh.md)
 
