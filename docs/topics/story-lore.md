@@ -96,7 +96,7 @@ date: Last Modified
 * [Q&A: What is blocking you now from releasing Update 4, Story elements, Buildings, Maps?](../transcriptions/yt-pCwOyYQ1f6Y.md) [https://www.youtube.com/watch?v=pCwOyYQ1f6Y](https://www.youtube.com/watch?v=pCwOyYQ1f6Y)
 
 ## January 22nd, 2021 Instagram AMA
-* Q&A: Will you add a lore or a secret story to satisfactory? [https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA_-_story_is_fully_written.mp4](https://satisfactory.gamepedia.com/File:January_22nd%2C_2021_Instagram_AMA_-_story_is_fully_written.mp4)
+* Q&A: Will you add a lore or a secret story to satisfactory? [https://satisfactory.fandom.com/wiki/File:January_22nd%2C_2021_Instagram_AMA_-_story_is_fully_written.mp4](https://satisfactory.fandom.com/wiki/File:January_22nd%2C_2021_Instagram_AMA_-_story_is_fully_written.mp4)
 
 ## January 12th, 2021 Livestream
 * [Q&A: Does the game get a deeper Story?](../transcriptions/yt-QViQ--AWYjY.md) [https://www.youtube.com/watch?v=QViQ--AWYjY](https://www.youtube.com/watch?v=QViQ--AWYjY)

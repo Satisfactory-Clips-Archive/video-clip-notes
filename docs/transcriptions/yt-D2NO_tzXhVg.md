@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=D2NO_tzXhVg
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as May 2020.</summary>
 
-* February 26th, 2021 Videos Q&A: Are there any plans for adding a holster button? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_adding_a_holster_button.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_adding_a_holster_button.mp4)
+* February 26th, 2021 Videos Q&A: Are there any plans for adding a holster button? [https://satisfactory.fandom.com/wiki/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_adding_a_holster_button.mp4](https://satisfactory.fandom.com/wiki/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_adding_a_holster_button.mp4)
 * [May 15th, 2020 Q&A: Any chance of a holster keybind so we can lower our hand slot when not in use?](./yt-NlIVwoRqjVk,1019.9856333333333,1034.8338.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1019&end=1035](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1019&end=1035)
 </details>
 

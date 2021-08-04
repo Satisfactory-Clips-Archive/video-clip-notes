@@ -41,7 +41,7 @@ date: Last Modified
 * [Q&A: So the Trees growing back is a bug?](../../transcriptions/yt-Snicf2PrIa4.md) [https://www.youtube.com/watch?v=Snicf2PrIa4](https://www.youtube.com/watch?v=Snicf2PrIa4)
 
 ## February 26th, 2021 Videos
-* Q&A: Are there any plans for removing the poison spreading plants in Satisfactory? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4)
+* Q&A: Are there any plans for removing the poison spreading plants in Satisfactory? [https://satisfactory.fandom.com/wiki/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4](https://satisfactory.fandom.com/wiki/File:February_26th,_2021_Instagram_AMA_-_Are_there_any_plans_for_removing_the_poison_spreading_plants_in_Satisfactory.mp4)
 
 ## February 9th, 2021 Livestream
 * [Q&A: Can I smoke trees?](../../transcriptions/yt-NRpK_K8wzuo.md) [https://www.youtube.com/watch?v=NRpK_K8wzuo](https://www.youtube.com/watch?v=NRpK_K8wzuo)

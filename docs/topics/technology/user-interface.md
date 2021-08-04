@@ -113,7 +113,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Community spotted things in the Nuclear Refinement teaser](../../transcriptions/yt-0BtRlCxfxEc.md) [https://www.youtube.com/watch?v=0BtRlCxfxEc](https://www.youtube.com/watch?v=0BtRlCxfxEc)
 
 ## February 26th, 2021 Videos
-* Q&A: What is your favourite feature and bug in Satisfactory? [https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_What_is_your_favourite_feature_and_bug_in_Satisfactory.mp4](https://satisfactory.gamepedia.com/File:February_26th,_2021_Instagram_AMA_-_What_is_your_favourite_feature_and_bug_in_Satisfactory.mp4)
+* Q&A: What is your favourite feature and bug in Satisfactory? [https://satisfactory.fandom.com/wiki/File:February_26th,_2021_Instagram_AMA_-_What_is_your_favourite_feature_and_bug_in_Satisfactory.mp4](https://satisfactory.fandom.com/wiki/File:February_26th,_2021_Instagram_AMA_-_What_is_your_favourite_feature_and_bug_in_Satisfactory.mp4)
 
 ## February 23rd, 2021 Livestream
 * [Q&A: Can you toggle the Power Switch on/off without opening the GUI ?](../../transcriptions/yt-NVHH5f2Vfak.md) [https://www.youtube.com/watch?v=NVHH5f2Vfak](https://www.youtube.com/watch?v=NVHH5f2Vfak)
