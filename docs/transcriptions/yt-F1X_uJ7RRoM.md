@@ -3,6 +3,7 @@ title: "June 8th, 2021 Livestream Community FYI: Two flannel shirt per minute"
 date: "2021-06-08"
 layout: transcript
 topics:
+    - "coffee-stainers/flannel"
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=F1X_uJ7RRoM
 
 ### Topics
+* [Coffee Stainers > Flannel](../topics/coffee-stainers/flannel.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 

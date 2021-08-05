@@ -80,6 +80,6 @@ date: Last Modified
 * [Q&A: What gender is the character model?](../../../transcriptions/yt-eoMeAy8w2Fs.md) [https://www.youtube.com/watch?v=eoMeAy8w2Fs](https://www.youtube.com/watch?v=eoMeAy8w2Fs)
 
 ## February 6th, 2019 Livestream
-* [Q&A: Can we get your shirts in-game?](../../../transcriptions/yt-Dtm6xIj-wM4,963.214202,979.016429.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=963&end=980](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=963&end=980)
+* [Q&A: Can we get your shirts in-game?](../../../transcriptions/yt-Dtm6xIj-wM4,963.214202,979.016429.md) [https://youtube.com/clip/UgyaDf7PYKacIuF2Knp4AaABCQ](https://youtube.com/clip/UgyaDf7PYKacIuF2Knp4AaABCQ)
 * [Q&A: Can I play as Kristen Stewart, though?](../../../transcriptions/yt-Dtm6xIj-wM4,1775.7,1786.241562.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1775&end=1787](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1775&end=1787)
 * [Q&A: Will there be any cosmetics available?](../../../transcriptions/yt-Dtm6xIj-wM4,3923.903388,3977.117038.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978)

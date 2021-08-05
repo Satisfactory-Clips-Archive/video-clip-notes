@@ -10,6 +10,7 @@ date: Last Modified
 * [Birk](../topics/coffee-stainers/birk.md)
 * [Dylan](../topics/coffee-stainers/dylan.md)
 * [Etienne](../topics/coffee-stainers/etienne.md)
+* [Flannel](../topics/coffee-stainers/flannel.md)
 * [G2](../topics/coffee-stainers/g2.md)
 * [Gnutt](../topics/coffee-stainers/gnutt.md)
 * [Hannah](../topics/coffee-stainers/hannah.md)

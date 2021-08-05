@@ -3,13 +3,15 @@ title: "February 6th, 2019 Livestream Q&A: Can we get your shirts in-game?"
 date: "2019-02-06"
 layout: transcript
 topics:
+    - "coffee-stainers/flannel"
     - "features/possible-features/character-customisation"
 ---
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Can we get your shirts in-game?
-https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=963&end=980
+https://youtube.com/clip/UgyaDf7PYKacIuF2Knp4AaABCQ
 
 ### Topics
+* [Coffee Stainers > Flannel](../topics/coffee-stainers/flannel.md)
 * [Features > Possible Features > Character Customisation](../topics/features/possible-features/character-customisation.md)
 
 ### Transcript
