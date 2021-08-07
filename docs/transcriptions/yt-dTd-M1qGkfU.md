@@ -4,8 +4,8 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "environment/plants"
-    - "environment/pollution"
     - "features/possible-features/weather-systems"
+    - "features/requested-features/pollution"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: More pollution as you progress?
@@ -15,8 +15,8 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 ### Topics
 * [Environment > Plants](../topics/environment/plants.md)
-* [Environment > Pollution](../topics/environment/pollution.md)
 * [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Features > Requested Features > Pollution](../topics/features/requested-features/pollution.md)
 
 ### Transcript
 

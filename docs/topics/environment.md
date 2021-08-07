@@ -7,7 +7,6 @@ date: Last Modified
 * [Biomes](../topics/environment/biomes.md)
 * [Creatures](../topics/environment/creatures.md)
 * [Plants](../topics/environment/plants.md)
-* [Pollution](../topics/environment/pollution.md)
 * [Resource Wells](../topics/environment/resource-wells.md)
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)

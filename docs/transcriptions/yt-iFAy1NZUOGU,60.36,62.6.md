@@ -3,7 +3,7 @@ title: "August 1st, 2018 Q&A Q&A: Will there be Pollution in the game?"
 date: "2018-08-01"
 layout: transcript
 topics:
-    - "environment/pollution"
+    - "features/requested-features/pollution"
 ---
 # [August 1st, 2018 Q&A](../2018-08-01.md)
 ## Q&A: Will there be Pollution in the game?
@@ -12,7 +12,7 @@ This question was possibly replaced with a more recent answer: [February 16th, 2
 
 
 ### Topics
-* [Environment > Pollution](../topics/environment/pollution.md)
+* [Features > Requested Features > Pollution](../topics/features/requested-features/pollution.md)
 
 ### Transcript
 

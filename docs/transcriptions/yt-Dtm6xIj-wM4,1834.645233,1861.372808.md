@@ -3,7 +3,7 @@ title: "February 6th, 2019 Livestream Q&A: Will there be CO₂ emissions and wil
 date: "2019-02-06"
 layout: transcript
 topics:
-    - "environment/pollution"
+    - "features/requested-features/pollution"
 ---
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Will there be CO₂ emissions and will it effect the ecosystem?
@@ -12,7 +12,7 @@ This question was possibly replaced with a more recent answer: [February 16th, 2
 
 
 ### Topics
-* [Environment > Pollution](../topics/environment/pollution.md)
+* [Features > Requested Features > Pollution](../topics/features/requested-features/pollution.md)
 
 ### Transcript
 

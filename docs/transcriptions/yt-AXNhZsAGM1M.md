@@ -3,14 +3,14 @@ title: "March 9th, 2019 Livestream Q&A: Are you going to add earth problems for 
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "environment/pollution"
+    - "features/requested-features/pollution"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are you going to add earth problems for smoke fault?
 https://www.youtube.com/watch?v=AXNhZsAGM1M
 
 ### Topics
-* [Environment > Pollution](../topics/environment/pollution.md)
+* [Features > Requested Features > Pollution](../topics/features/requested-features/pollution.md)
 
 ### Transcript
 

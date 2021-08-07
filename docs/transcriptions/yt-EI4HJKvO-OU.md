@@ -3,9 +3,9 @@ title: "September 8th, 2020 Livestream Q&A: Pollution is a thing?"
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "environment/pollution"
     - "environment/world-map"
     - "features/buildings"
+    - "features/requested-features/pollution"
     - "features/unplanned-features/base-defense"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
@@ -15,9 +15,9 @@ This question was possibly duplicated with a more recent answer: [November 17th,
 
 
 ### Topics
-* [Environment > Pollution](../topics/environment/pollution.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Requested Features > Pollution](../topics/features/requested-features/pollution.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript

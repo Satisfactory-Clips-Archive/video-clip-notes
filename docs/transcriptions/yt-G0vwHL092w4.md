@@ -3,8 +3,8 @@ title: "November 17th, 2020 Livestream Q&A: The world should react to the invasi
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "environment/pollution"
     - "environment/world-map"
+    - "features/requested-features/pollution"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: The world should react to the invasive destruction and polluting?
@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=G0vwHL092w4
 
 
 ### Topics
-* [Environment > Pollution](../topics/environment/pollution.md)
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Requested Features > Pollution](../topics/features/requested-features/pollution.md)
 
 ### Transcript
 
