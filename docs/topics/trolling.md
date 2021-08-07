@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## August 3rd, 2021 Livestream
+* Q&A: When's Update 6? [https://www.youtube.com/watch?v=idUzu51pIKQ](https://www.youtube.com/watch?v=idUzu51pIKQ)
+
 ## July 13th, 2021 Livestream
 * [Community FYI: Those interesting animals look like they would make good burgers](../transcriptions/yt-M644npYkLRA.md) [https://www.youtube.com/watch?v=M644npYkLRA](https://www.youtube.com/watch?v=M644npYkLRA)
 * [Q&A: Can you fix the things?](../transcriptions/yt-uL-1FhPazSQ.md) [https://www.youtube.com/watch?v=uL-1FhPazSQ](https://www.youtube.com/watch?v=uL-1FhPazSQ)

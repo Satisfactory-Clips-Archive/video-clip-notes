@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## August 3rd, 2021 Livestream
+* [Q&A: Has anyone asked about Splitter Ratios before?](../../../transcriptions/yt-kvuii0bRjv4.md) [https://www.youtube.com/watch?v=kvuii0bRjv4](https://www.youtube.com/watch?v=kvuii0bRjv4)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Is there a technical reason why Conveyors go faster than the items on them?](../../../transcriptions/yt-IT5jhfah7Eo.md) [https://www.youtube.com/watch?v=IT5jhfah7Eo](https://www.youtube.com/watch?v=IT5jhfah7Eo)
 

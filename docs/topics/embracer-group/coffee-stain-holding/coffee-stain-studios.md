@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## August 3rd, 2021 Livestream
+* [Community: Welcome to your first day at Coffee Stain, here's your work uniform](../../../transcriptions/yt-rksKMbX598Y.md) [https://www.youtube.com/watch?v=rksKMbX598Y](https://www.youtube.com/watch?v=rksKMbX598Y)
+* [Q&A: What did Jace do before working at Coffee Stain Studios?](../../../transcriptions/yt-eEUR1sf2dQc.md) [https://www.youtube.com/watch?v=eEUR1sf2dQc](https://www.youtube.com/watch?v=eEUR1sf2dQc)
+
 ## July 20th, 2021 Livestream
 * [Q&A: How many developers are trying to expense air conditioning systems to Coffee Stain Studios?](../../../transcriptions/yt-9g0PvQbOblQ.md) [https://www.youtube.com/watch?v=9g0PvQbOblQ](https://www.youtube.com/watch?v=9g0PvQbOblQ)
 * [Jace Talk: We hit 200k subscribers on YouTube and forgot to do anything about it](../../../transcriptions/yt-saIw4cqM0nI.md) [https://www.youtube.com/watch?v=saIw4cqM0nI](https://www.youtube.com/watch?v=saIw4cqM0nI)

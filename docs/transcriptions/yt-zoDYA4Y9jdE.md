@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Releasing the Soundtrack on Spotify?
 https://www.youtube.com/watch?v=zoDYA4Y9jdE
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will the game Soundtrack come to Spotify soon?](./yt-bBS_pCVpXwY.md) [https://www.youtube.com/watch?v=bBS_pCVpXwY](https://www.youtube.com/watch?v=bBS_pCVpXwY)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Will the soundtrack be released on Spotify?](./yt-HCcWGBc_lDo.md) [https://www.youtube.com/watch?v=HCcWGBc_lDo](https://www.youtube.com/watch?v=HCcWGBc_lDo)
 
 
 ### Topics

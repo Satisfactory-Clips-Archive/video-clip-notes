@@ -7,6 +7,27 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## August 3rd, 2021 Livestream
+* [Community: Usual saying with Updates is "Your factories will be mega broken"](../../transcriptions/yt-d5naZ7yeDw8.md) [https://www.youtube.com/watch?v=d5naZ7yeDw8](https://www.youtube.com/watch?v=d5naZ7yeDw8)
+* [Jace & Hannah Talk: Flannel Cosplay](../../transcriptions/yt-M1tUfWB30GQ.md) [https://www.youtube.com/watch?v=M1tUfWB30GQ](https://www.youtube.com/watch?v=M1tUfWB30GQ)
+* [Community FYI: Jace shaved](../../transcriptions/yt-S5KvicTkt3w.md) [https://www.youtube.com/watch?v=S5KvicTkt3w](https://www.youtube.com/watch?v=S5KvicTkt3w)
+* Jace & Hannah Talk: Jace was blown away by the Update 5 World changes [https://www.youtube.com/watch?v=lrTgR_d1v6Y](https://www.youtube.com/watch?v=lrTgR_d1v6Y)
+* [Q&A: Are you two wearing the same flannel?](../../transcriptions/yt-5bMEBEraqQE.md) [https://www.youtube.com/watch?v=5bMEBEraqQE](https://www.youtube.com/watch?v=5bMEBEraqQE)
+* [Jace & Hannah Talk: Hannah is as old as Lara Croft](../../transcriptions/yt-j4oTKsvhtmA.md) [https://www.youtube.com/watch?v=j4oTKsvhtmA](https://www.youtube.com/watch?v=j4oTKsvhtmA)
+* [Q&A: Is it a hard or soft "T" pronunciation for Jace's surname?](../../transcriptions/yt-Op1JE3gc6f8.md) [https://www.youtube.com/watch?v=Op1JE3gc6f8](https://www.youtube.com/watch?v=Op1JE3gc6f8)
+* [Q&A: Is Jace's last name French?](../../transcriptions/yt-jRsZ9D_Hklw.md) [https://www.youtube.com/watch?v=jRsZ9D_Hklw](https://www.youtube.com/watch?v=jRsZ9D_Hklw)
+* [Q&A: What's Jace's favourite announced feature?](../../transcriptions/yt-MItwXiMzElM.md) [https://www.youtube.com/watch?v=MItwXiMzElM](https://www.youtube.com/watch?v=MItwXiMzElM)
+* [Q&A: Do you relish holding back these secrets?](../../transcriptions/yt-_Lp0i6edRnY.md) [https://www.youtube.com/watch?v=_Lp0i6edRnY](https://www.youtube.com/watch?v=_Lp0i6edRnY)
+* [Q&A: What will Jace have for dinner today?](../../transcriptions/yt-WGJ4I2tAvrY.md) [https://www.youtube.com/watch?v=WGJ4I2tAvrY](https://www.youtube.com/watch?v=WGJ4I2tAvrY)
+* Q&A: Do you like to eat Lutefisk? [https://www.youtube.com/watch?v=Wzxy6yxbRCU](https://www.youtube.com/watch?v=Wzxy6yxbRCU)
+* [Q&A: Have you been to America and if so have you tried any Pizza?](../../transcriptions/yt-H0wL0VJjkJY.md) [https://www.youtube.com/watch?v=H0wL0VJjkJY](https://www.youtube.com/watch?v=H0wL0VJjkJY)
+* [Q&A: What did Jace do before working at Coffee Stain Studios?](../../transcriptions/yt-eEUR1sf2dQc.md) [https://www.youtube.com/watch?v=eEUR1sf2dQc](https://www.youtube.com/watch?v=eEUR1sf2dQc)
+* [Q&A: Did Jace work on Metal Slug?](../../transcriptions/yt-wXmaEokJ54A.md) [https://www.youtube.com/watch?v=wXmaEokJ54A](https://www.youtube.com/watch?v=wXmaEokJ54A)
+* [Q&A: How was living in Japan as a foreigner?](../../transcriptions/yt-HOon2wz92fg.md) [https://www.youtube.com/watch?v=HOon2wz92fg](https://www.youtube.com/watch?v=HOon2wz92fg)
+* [Q&A: Can Jace speak Norwegian?](../../transcriptions/yt-_AZt0TU9RfE.md) [https://www.youtube.com/watch?v=_AZt0TU9RfE](https://www.youtube.com/watch?v=_AZt0TU9RfE)
+* [Q&A: Does Jace speak Australian?](../../transcriptions/yt-3LMy9l2W7xY.md) [https://www.youtube.com/watch?v=3LMy9l2W7xY](https://www.youtube.com/watch?v=3LMy9l2W7xY)
+* [Q&A: Can Jace speak good Swedish?](../../transcriptions/yt-9N_et0j9GS8.md) [https://www.youtube.com/watch?v=9N_et0j9GS8](https://www.youtube.com/watch?v=9N_et0j9GS8)
+
 ## July 20th, 2021 Livestream
 * [Jace Talk: Philipp Kirkorov](../../transcriptions/yt-7j7c8D3okLQ.md) [https://www.youtube.com/watch?v=7j7c8D3okLQ](https://www.youtube.com/watch?v=7j7c8D3okLQ)
 * [Community FYI: Jace's YouTube channel has 660 subscribers](../../transcriptions/yt-nBPPzhTE1Vg.md) [https://www.youtube.com/watch?v=nBPPzhTE1Vg](https://www.youtube.com/watch?v=nBPPzhTE1Vg)

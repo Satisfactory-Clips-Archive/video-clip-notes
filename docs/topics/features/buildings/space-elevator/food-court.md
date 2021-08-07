@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Buildings](../../../../topics/features/buildings.md) > [Space Elevator](../../../../topics/features/buildings/space-elevator.md) > Food Court
 
+## August 3rd, 2021 Livestream
+* [Jace & Hannah Talk: Food Court, no fish allowed](../../../../transcriptions/yt-k6bndNMxxdE.md) [https://www.youtube.com/watch?v=k6bndNMxxdE](https://www.youtube.com/watch?v=k6bndNMxxdE)
+* Q&A: When is Satisfactory Food Court open? [https://www.youtube.com/watch?v=ewVv8u7Misw](https://www.youtube.com/watch?v=ewVv8u7Misw)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Will there be FICSIT food items?](../../../../transcriptions/yt-LoKORvJh0Vw.md) [https://www.youtube.com/watch?v=LoKORvJh0Vw](https://www.youtube.com/watch?v=LoKORvJh0Vw)
 

@@ -8,6 +8,8 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: When can we expect Update 5 teasers?
 https://www.youtube.com/watch?v=7j6b-9dwlao
+This question was possibly replaced with a more recent answer: [August 3rd, 2021 Livestream Q&A: Is there a look at Update 5 every week now?](./yt-2IR944j_1X4.md) [https://www.youtube.com/watch?v=2IR944j_1X4](https://www.youtube.com/watch?v=2IR944j_1X4)
+
 
 ### Topics
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Underwater
 
+## August 3rd, 2021 Livestream
+* [Q&A: What about Underwater?](../../../../transcriptions/yt-UgeFxfdLV0k.md) [https://www.youtube.com/watch?v=UgeFxfdLV0k](https://www.youtube.com/watch?v=UgeFxfdLV0k)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Any ships or submarines?](../../../../transcriptions/yt-18BH9HDRl9A.md) [https://www.youtube.com/watch?v=18BH9HDRl9A](https://www.youtube.com/watch?v=18BH9HDRl9A)
 

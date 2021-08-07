@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## August 3rd, 2021 Livestream
+* [Q&A: How have you not made a "Hot Coffee" mini-game where you literally just make coffee?](../../../transcriptions/yt-sp0SRzvvDAc.md) [https://www.youtube.com/watch?v=sp0SRzvvDAc](https://www.youtube.com/watch?v=sp0SRzvvDAc)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Will version 1.0 let us sit on the in-game Toilet?](../../../transcriptions/yt-q_5mt4kk7o4.md) [https://www.youtube.com/watch?v=q_5mt4kk7o4](https://www.youtube.com/watch?v=q_5mt4kk7o4)
 * [Q&A: Will there ever be more interaction with the HUB living space, like using the bed or computer?](../../../transcriptions/yt-HUFsO3ZHBwI.md) [https://www.youtube.com/watch?v=HUFsO3ZHBwI](https://www.youtube.com/watch?v=HUFsO3ZHBwI)

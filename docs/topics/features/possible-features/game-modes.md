@@ -8,6 +8,9 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## August 3rd, 2021 Livestream
+* [Q&A: Does Update 5 have a MOBA in?](../../../transcriptions/yt-MTJ0Jl2QvNk.md) [https://www.youtube.com/watch?v=MTJ0Jl2QvNk](https://www.youtube.com/watch?v=MTJ0Jl2QvNk)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Maybe starting from scratch in Story Mode, importing save in Construction Mode?](../../../transcriptions/yt-3uqePr4WNrw.md) [https://www.youtube.com/watch?v=3uqePr4WNrw](https://www.youtube.com/watch?v=3uqePr4WNrw)
 * [Jace Talk: Game Modes](../../../transcriptions/yt-oy_BABy1Sao.md) [https://www.youtube.com/watch?v=oy_BABy1Sao](https://www.youtube.com/watch?v=oy_BABy1Sao)

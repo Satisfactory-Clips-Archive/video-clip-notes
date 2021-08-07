@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## August 6th, 2021 Livestream
+* [Jace Talk: Roadmap for Map changes](../../../transcriptions/yt-MxvGbCCc6DI,542.8089333333334,611.5442666666667.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=542&end=612](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=542&end=612)
+
 ## July 20th, 2021 Livestream
 * [Q&A: How are plans surrounding 1.0 shaping up?](../../../transcriptions/yt-ERZuus5HBho.md) [https://www.youtube.com/watch?v=ERZuus5HBho](https://www.youtube.com/watch?v=ERZuus5HBho)
 * [Q&A: How many Updates 'til 1.0?](../../../transcriptions/yt-CtPbiRm_Geg.md) [https://www.youtube.com/watch?v=CtPbiRm_Geg](https://www.youtube.com/watch?v=CtPbiRm_Geg)

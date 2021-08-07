@@ -3,14 +3,14 @@ title: "February 20th, 2019 Livestream Q&A: Are caves a hazard or will they just
 date: "2019-02-20"
 layout: transcript
 topics:
-    - "environment"
+    - "environment/biomes/caves"
 ---
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Are caves a hazard or will they just be there to explore?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=673&end=692
 
 ### Topics
-* [Environment](../topics/environment.md)
+* [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 
 ### Transcript
 

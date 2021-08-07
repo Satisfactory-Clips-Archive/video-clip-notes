@@ -7,6 +7,9 @@ date: Last Modified
 * [Characters](../topics/story-lore/characters.md)
 * [Project Assembly](../topics/story-lore/project-assembly.md)
 
+## August 3rd, 2021 Livestream
+* [Q&A: Will the Story be good?](../transcriptions/yt-TJ9ylAHb3_Y.md) [https://www.youtube.com/watch?v=TJ9ylAHb3_Y](https://www.youtube.com/watch?v=TJ9ylAHb3_Y)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Story Update coming soon?](../transcriptions/yt-dHL-myxcngM.md) [https://www.youtube.com/watch?v=dHL-myxcngM](https://www.youtube.com/watch?v=dHL-myxcngM)
 * [Q&A: Can we do the Story with an existing 500-hour factory or do we have to start from scratch?](../transcriptions/yt-z9tjeFkYXAY.md) [https://www.youtube.com/watch?v=z9tjeFkYXAY](https://www.youtube.com/watch?v=z9tjeFkYXAY)

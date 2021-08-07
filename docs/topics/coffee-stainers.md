@@ -36,6 +36,13 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## August 3rd, 2021 Livestream
+* [State of Dev: A lot of people on vacation (Part 1)](../transcriptions/yt-8unTVigMkpU.md) [https://www.youtube.com/watch?v=8unTVigMkpU](https://www.youtube.com/watch?v=8unTVigMkpU)
+* [State of Dev: A lot of people on vacation (Part 2)](../transcriptions/yt-WrLwZOzni3o.md) [https://www.youtube.com/watch?v=WrLwZOzni3o](https://www.youtube.com/watch?v=WrLwZOzni3o)
+* [Community FYI: Great work!](../transcriptions/yt-oUR-uYAevLM.md) [https://www.youtube.com/watch?v=oUR-uYAevLM](https://www.youtube.com/watch?v=oUR-uYAevLM)
+* [Q&A: Has it been nice getting everyone back after vacation?](../transcriptions/yt-igC28oBFD6o.md) [https://www.youtube.com/watch?v=igC28oBFD6o](https://www.youtube.com/watch?v=igC28oBFD6o)
+* [Q&A: Does anyone on the team watch people streaming randomly?](../transcriptions/yt-x1Cu1TerhSc.md) [https://www.youtube.com/watch?v=x1Cu1TerhSc](https://www.youtube.com/watch?v=x1Cu1TerhSc)
+
 ## July 20th, 2021 Livestream
 * [Q&A: How much coffee does an average Coffee Stainer drink on each day?](../transcriptions/yt-ihdKZQwk4jQ.md) [https://www.youtube.com/watch?v=ihdKZQwk4jQ](https://www.youtube.com/watch?v=ihdKZQwk4jQ)
 * [Community FYI: ⅔ on vacation, ⅓ slacking](../transcriptions/yt-8ZOx79_6uoQ.md) [https://www.youtube.com/watch?v=8ZOx79_6uoQ](https://www.youtube.com/watch?v=8ZOx79_6uoQ)

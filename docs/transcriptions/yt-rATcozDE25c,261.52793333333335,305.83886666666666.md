@@ -4,6 +4,7 @@ date: "2020-10-01"
 layout: transcript
 topics:
     - "easter-eggs"
+    - "environment/biomes/caves"
     - "environment/world-map"
 ---
 # [October 1st, 2020 Q&A](../2020-10-01.md)
@@ -14,6 +15,7 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 
 ### Topics
 * [Easter Eggs](../topics/easter-eggs.md)
+* [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 
 ### Transcript

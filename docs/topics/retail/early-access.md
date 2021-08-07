@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Early Access
 
+## August 3rd, 2021 Livestream
+* [Q&A: How different is the game now from your initial vision when Early Access launched?](../../transcriptions/yt-bSg5WdpYnuQ.md) [https://www.youtube.com/watch?v=bSg5WdpYnuQ](https://www.youtube.com/watch?v=bSg5WdpYnuQ)
+
 ## July 20th, 2021 Livestream
 * [Community FYI: You only said 1 year of Early Access at launch](../../transcriptions/yt-1osB5f3a3zA.md) [https://www.youtube.com/watch?v=1osB5f3a3zA](https://www.youtube.com/watch?v=1osB5f3a3zA)
 

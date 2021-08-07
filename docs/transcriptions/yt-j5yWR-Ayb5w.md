@@ -8,11 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do we have support for Ultrawide Monitors?
 https://www.youtube.com/watch?v=j5yWR-Ayb5w
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
-
-* [September 22nd, 2020 Livestream Q&A: Ultrawide Monitors?](./yt-j9oy_AyPXnU.md) [https://www.youtube.com/watch?v=j9oy_AyPXnU](https://www.youtube.com/watch?v=j9oy_AyPXnU)
-</details>
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Will the game be adapted for 21:9 monitors?](./yt-u47gi9ATjX4.md) [https://www.youtube.com/watch?v=u47gi9ATjX4](https://www.youtube.com/watch?v=u47gi9ATjX4)
 
 
 ### Topics

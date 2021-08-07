@@ -9,6 +9,8 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Is the Story good though?
 https://www.youtube.com/watch?v=q6ZTpN0GVHA
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Will the Story be good?](./yt-TJ9ylAHb3_Y.md) [https://www.youtube.com/watch?v=TJ9ylAHb3_Y](https://www.youtube.com/watch?v=TJ9ylAHb3_Y)
+
 
 ### Topics
 * [Story & Lore](../topics/story-lore.md)

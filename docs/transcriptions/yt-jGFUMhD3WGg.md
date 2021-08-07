@@ -9,7 +9,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will Satisfactory have native support for Linux?
 https://www.youtube.com/watch?v=jGFUMhD3WGg
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Native Linux support?](./yt-fvvftnYCayg.md) [https://www.youtube.com/watch?v=fvvftnYCayg](https://www.youtube.com/watch?v=fvvftnYCayg)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Does Satisfactory run on Linux?](./yt-JjyzyUK5tj8.md) [https://www.youtube.com/watch?v=JjyzyUK5tj8](https://www.youtube.com/watch?v=JjyzyUK5tj8)
 
 
 ### Topics

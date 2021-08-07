@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## August 3rd, 2021 Livestream
+* [Q&A: When are you removing Spiders, I can't handle them?](../../../transcriptions/yt-0S0ISLTI2es.md) [https://www.youtube.com/watch?v=0S0ISLTI2es](https://www.youtube.com/watch?v=0S0ISLTI2es)
+* [Community FYI: Those things can burn in hell](../../../transcriptions/yt-pxGSEQM2uso.md) [https://www.youtube.com/watch?v=pxGSEQM2uso](https://www.youtube.com/watch?v=pxGSEQM2uso)
+* [Community FYI: Would be better if there was PNGs of Jace](../../../transcriptions/yt-bijynPRvDQs.md) [https://www.youtube.com/watch?v=bijynPRvDQs](https://www.youtube.com/watch?v=bijynPRvDQs)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Ability to change Arachnophobia Mode replace cats with Jace & Snutt?](../../../transcriptions/yt-nktOwqQ3gpI.md) [https://www.youtube.com/watch?v=nktOwqQ3gpI](https://www.youtube.com/watch?v=nktOwqQ3gpI)
 

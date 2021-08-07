@@ -7,6 +7,9 @@ date: Last Modified
 * [Flushable Toilet DLC](../../../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 * [Toilet Paper DLC](../../../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 
+## August 3rd, 2021 Livestream
+* [Q&A: When is the fart DLC?](../../../transcriptions/yt-wg3JM2S0rp4.md) [https://www.youtube.com/watch?v=wg3JM2S0rp4](https://www.youtube.com/watch?v=wg3JM2S0rp4)
+
 ## July 13th, 2021 Livestream
 * [Community FYI: Wrangler title hints for lassoing Doggos](../../../transcriptions/yt-rBIoeBysK4w.md) [https://www.youtube.com/watch?v=rBIoeBysK4w](https://www.youtube.com/watch?v=rBIoeBysK4w)
 

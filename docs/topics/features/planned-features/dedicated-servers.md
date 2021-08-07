@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## August 3rd, 2021 Livestream
+* [Q&A: Dedicated Servers?](../../../transcriptions/yt-RL544J64HsY.md) [https://www.youtube.com/watch?v=RL544J64HsY](https://www.youtube.com/watch?v=RL544J64HsY)
+* [Q&A: Any updates about Dedicated Servers?](../../../transcriptions/yt-GYn_hCVhVlo.md) [https://www.youtube.com/watch?v=GYn_hCVhVlo](https://www.youtube.com/watch?v=GYn_hCVhVlo)
+
 ## July 20th, 2021 Livestream
 * [Q&A: You said that Dedicated Servers would be released with the Steam Release though?](../../../transcriptions/yt-3tQ8lO7Yk6g.md) [https://www.youtube.com/watch?v=3tQ8lO7Yk6g](https://www.youtube.com/watch?v=3tQ8lO7Yk6g)
 

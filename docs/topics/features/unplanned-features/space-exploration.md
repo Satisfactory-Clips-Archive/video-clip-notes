@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Space Exploration
 
+## August 3rd, 2021 Livestream
+* [Q&A: Is there in some future spaceships & other planets?](../../../transcriptions/yt-vb6AS9mxtcA.md) [https://www.youtube.com/watch?v=vb6AS9mxtcA](https://www.youtube.com/watch?v=vb6AS9mxtcA)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Any secondary Maps or Planets planned?](../../../transcriptions/yt-q3VwDMvfbTM.md) [https://www.youtube.com/watch?v=q3VwDMvfbTM](https://www.youtube.com/watch?v=q3VwDMvfbTM)
 * Q&A: Will there be another planet? [https://www.youtube.com/watch?v=L4XI-JH7avw](https://www.youtube.com/watch?v=L4XI-JH7avw)

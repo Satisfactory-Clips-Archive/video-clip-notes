@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Patch Notes Video
 
+## August 3rd, 2021 Livestream
+* [Q&A: Will you be working on the script for the Update 5 Patch Notes?](../../../transcriptions/yt-4X9QW9dOfY4.md) [https://www.youtube.com/watch?v=4X9QW9dOfY4](https://www.youtube.com/watch?v=4X9QW9dOfY4)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Update 5 trailer, when?](../../../transcriptions/yt-pf0uO8nhD_Q.md) [https://www.youtube.com/watch?v=pf0uO8nhD_Q](https://www.youtube.com/watch?v=pf0uO8nhD_Q)
 

@@ -22,6 +22,10 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## August 3rd, 2021 Livestream
+* [Community FYI: Great work!](../transcriptions/yt-oUR-uYAevLM.md) [https://www.youtube.com/watch?v=oUR-uYAevLM](https://www.youtube.com/watch?v=oUR-uYAevLM)
+* [Q&A: Does anyone on the team watch people streaming randomly?](../transcriptions/yt-x1Cu1TerhSc.md) [https://www.youtube.com/watch?v=x1Cu1TerhSc](https://www.youtube.com/watch?v=x1Cu1TerhSc)
+
 ## July 20th, 2021 Livestream
 * [Q&A: How can we support you even better moving forward?](../transcriptions/yt-fMVVdQsBzJ8.md) [https://www.youtube.com/watch?v=fMVVdQsBzJ8](https://www.youtube.com/watch?v=fMVVdQsBzJ8)
 * [Q&A: Did you see my Detonator?](../transcriptions/yt-BmfHjF5edC4.md) [https://www.youtube.com/watch?v=BmfHjF5edC4](https://www.youtube.com/watch?v=BmfHjF5edC4)

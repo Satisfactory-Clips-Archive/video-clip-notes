@@ -9,7 +9,7 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Will Update 5 break mods?
 https://www.youtube.com/watch?v=VoDiMfS0618
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Will Update 5 break Mods?](./yt-4OudGoLGTuk.md) [https://www.youtube.com/watch?v=4OudGoLGTuk](https://www.youtube.com/watch?v=4OudGoLGTuk)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Will Mods break after Update 5?](./yt-XQkP3meJoSo.md) [https://www.youtube.com/watch?v=XQkP3meJoSo](https://www.youtube.com/watch?v=XQkP3meJoSo)
 
 
 ### Topics

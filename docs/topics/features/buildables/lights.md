@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## August 3rd, 2021 Livestream
+* [Q&A: Are Lights in their final form or will there be tweaks to how they diffuse?](../../../transcriptions/yt-vkf7RUDKnDY.md) [https://www.youtube.com/watch?v=vkf7RUDKnDY](https://www.youtube.com/watch?v=vkf7RUDKnDY)
+
 ## July 20th, 2021 Livestream
 * Q&A: Are the Lights in a final state or is there the possibility for tweaks? [https://www.youtube.com/watch?v=RqAkqn6vV3g](https://www.youtube.com/watch?v=RqAkqn6vV3g)
 * Q&A: More Light colours coming? [https://www.youtube.com/watch?v=tUCU01sL23U](https://www.youtube.com/watch?v=tUCU01sL23U)

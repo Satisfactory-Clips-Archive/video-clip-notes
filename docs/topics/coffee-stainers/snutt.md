@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## August 3rd, 2021 Livestream
+* [Q&A: Are things moving faster with Snutt on vacation?](../../transcriptions/yt--GUsWpxhZzg.md) [https://www.youtube.com/watch?v=-GUsWpxhZzg](https://www.youtube.com/watch?v=-GUsWpxhZzg)
+
 ## July 6th, 2021 Livestream
 * [Snutt & Jace Talk: Swedish & Spanish pronunciations of Snutt's (German) last name](../../transcriptions/yt-FnoevKAqqxk.md) [https://www.youtube.com/watch?v=FnoevKAqqxk](https://www.youtube.com/watch?v=FnoevKAqqxk)
 * [Q&A: What did Snutt have for breakfast?](../../transcriptions/yt-6nEbRCnR4yc.md) [https://www.youtube.com/watch?v=6nEbRCnR4yc](https://www.youtube.com/watch?v=6nEbRCnR4yc)

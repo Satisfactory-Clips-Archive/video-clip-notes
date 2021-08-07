@@ -4,7 +4,7 @@ date: "2019-02-20"
 layout: transcript
 topics:
     - "community"
-    - "environment"
+    - "environment/biomes/caves"
     - "features/buildables"
     - "level-design-stream"
 ---
@@ -14,7 +14,7 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3639&end=3718
 
 ### Topics
 * [Community](../topics/community.md)
-* [Environment](../topics/environment.md)
+* [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Features > Buildables](../topics/features/buildables.md)
 * [Level Design Stream](../topics/level-design-stream.md)
 

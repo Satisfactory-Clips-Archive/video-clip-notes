@@ -8,7 +8,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Underwater gameplay?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=374&end=386
-This question was possibly duplicated with a more recent answer: [January 19th, 2021 Livestream Q&A: Underwater Biome?](./yt-loc82lE_XK4.md) [https://www.youtube.com/watch?v=loc82lE_XK4](https://www.youtube.com/watch?v=loc82lE_XK4)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: What about Underwater?](./yt-UgeFxfdLV0k.md) [https://www.youtube.com/watch?v=UgeFxfdLV0k](https://www.youtube.com/watch?v=UgeFxfdLV0k)
 
 
 ### Topics

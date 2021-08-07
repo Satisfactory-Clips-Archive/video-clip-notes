@@ -9,7 +9,7 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: Any plans for an Elevator for those of us that build mega factories?
 https://www.youtube.com/watch?v=snzgCf54CIQ
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Elevators, when?](./yt-fRuFxL5hv-I.md) [https://www.youtube.com/watch?v=fRuFxL5hv-I](https://www.youtube.com/watch?v=fRuFxL5hv-I)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Will there be passenger elevators in the game in Update 5?](./yt-qOQrrNMcI8g.md) [https://www.youtube.com/watch?v=qOQrrNMcI8g](https://www.youtube.com/watch?v=qOQrrNMcI8g)
 
 
 ### Topics

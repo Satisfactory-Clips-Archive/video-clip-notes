@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > Ultrawide Monitors
 
+## August 3rd, 2021 Livestream
+* [Q&A: Will the game be adapted for 21:9 monitors?](../../../transcriptions/yt-u47gi9ATjX4.md) [https://www.youtube.com/watch?v=u47gi9ATjX4](https://www.youtube.com/watch?v=u47gi9ATjX4)
+
 ## June 29th, 2021 Livestream
 * [Community FYI: Game looks blurry on ultrawide resolution despite indicating it's running natively](../../../transcriptions/yt-XrHLYw27VyE.md) [https://www.youtube.com/watch?v=XrHLYw27VyE](https://www.youtube.com/watch?v=XrHLYw27VyE)
 

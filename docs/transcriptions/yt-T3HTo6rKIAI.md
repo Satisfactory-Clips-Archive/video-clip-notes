@@ -4,7 +4,7 @@ date: "2021-05-25"
 layout: transcript
 topics:
     - "community"
-    - "environment"
+    - "environment/biomes/caves"
     - "environment/creatures"
 ---
 # [May 25th, 2021 Livestream](../2021-05-25.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=T3HTo6rKIAI
 
 ### Topics
 * [Community](../topics/community.md)
-* [Environment](../topics/environment.md)
+* [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 
 ### Transcript

@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Can we have food-making in the game?
 https://www.youtube.com/watch?v=2sE4CPkkc3o
-This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Any plans for Farming?](./yt-70U_d1fVoHk.md) [https://www.youtube.com/watch?v=70U_d1fVoHk](https://www.youtube.com/watch?v=70U_d1fVoHk)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Are there any plans to add Farming food to the game?](./yt-hv9v539zaa8.md) [https://www.youtube.com/watch?v=hv9v539zaa8](https://www.youtube.com/watch?v=hv9v539zaa8)
 
 
 ### Topics

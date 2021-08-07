@@ -9,7 +9,7 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Is Update 5 still shaping up to be the same size as Update 4?
 https://www.youtube.com/watch?v=i-QNHs4CWgc
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Will Update 5 be bigger than Update 4? [https://www.youtube.com/watch?v=3Ad-13NANOg](https://www.youtube.com/watch?v=3Ad-13NANOg)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: What sort of size will Update 5 be compared to Update 4?](./yt-6szGN07pKus.md) [https://www.youtube.com/watch?v=6szGN07pKus](https://www.youtube.com/watch?v=6szGN07pKus)
 
 
 ### Topics

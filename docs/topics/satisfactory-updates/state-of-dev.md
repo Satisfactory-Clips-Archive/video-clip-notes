@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## August 3rd, 2021 Livestream
+* [State of Dev: A lot of people on vacation (Part 1)](../../transcriptions/yt-8unTVigMkpU.md) [https://www.youtube.com/watch?v=8unTVigMkpU](https://www.youtube.com/watch?v=8unTVigMkpU)
+
 ## July 20th, 2021 Livestream
 * [State of Dev: Not much to say](../../transcriptions/yt-jeKOLTOqbeo.md) [https://www.youtube.com/watch?v=jeKOLTOqbeo](https://www.youtube.com/watch?v=jeKOLTOqbeo)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Snutt](../../../topics/coffee-stainers/snutt.md) > Snutt Burger Time
 
+## August 3rd, 2021 Livestream
+* [Q&A: What will Jace have for dinner today?](../../../transcriptions/yt-WGJ4I2tAvrY.md) [https://www.youtube.com/watch?v=WGJ4I2tAvrY](https://www.youtube.com/watch?v=WGJ4I2tAvrY)
+* [Community FYI: Snutt Beuger Time](../../../transcriptions/yt-cCmKMxqgfw8.md) [https://www.youtube.com/watch?v=cCmKMxqgfw8](https://www.youtube.com/watch?v=cCmKMxqgfw8)
+
 ## July 20th, 2021 Livestream
 * Q&A: Is Jace taking over Snutt's Burger Time duties? [https://www.youtube.com/watch?v=FhPfeosk3EQ](https://www.youtube.com/watch?v=FhPfeosk3EQ)
 

@@ -1,0 +1,19 @@
+---
+title: "August 3rd, 2021 Livestream Q&A: How do floating trees & rocks happen?"
+date: "2021-08-03"
+layout: transcript
+topics:
+    - "environment"
+    - "satisfactory-updates/pending/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah"
+---
+# [August 3rd, 2021 Livestream](../2021-08-03.md)
+## Q&A: How do floating trees & rocks happen?
+https://www.youtube.com/watch?v=6Y25k25rbWg
+
+### Topics
+* [Environment](../topics/environment.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 5 > Northern Forest World Update Q&A with Hannah](../topics/satisfactory-updates/pending/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
+
+### Transcript
+
+> when we actually see floating trees or other stuff not touch the ground what happened okay so what so how how do floating trees and rocks happen how how does that boy uh sometimes so the way we paint foliage like trees and bushes is that it automatically attaches itself that we painted on so that could be the landscape that belongs to the tile or the cliff that is saved in the tile and if that landscape changes or the cliff is removed or something is just moved a little bit sometimes the foliage doesn't update with it although usually it should disappear so it's kind of a bug in the system and there is some foliage that is part of uh like the landscape painting that we do like the the the sand and the grass and the the gravel and the earth like all of that that is like on the floor that is paint but it also spawns like small foliage and sometimes when the terrain like has a really harsh angle in it the foliage extends past the angle because it's it's like a certain size uh so that happens a lot with like the floating pebbles and stuff is usually that's what happens so what about like there's like there's like nut bushes right that are like floating is that yeah is that that's that's not the painting thing right you places individually but when you change the landscape i guess someone forgot to move him yeah exactly like uh that is the stuff that nut brushes and and all that that is stuff that doesn't update automatically because it's not actually in the tile it's in this like invisible overlay across everything where all the gameplay is so it's usually an introduction or something is it yeah yeah exactly so you know you know i make the landscape and then level design comes in then it places those things but if i then change the landscape again then those things are in the wrong spot so they would have to update them again and sometimes things get missed sometimes you know i forget to notify them that i've changed something or or we just haven't gotten around to it yet we're like oh we're already going to change this landscape pretty harshly anyway or we're going to like work on this biome again there's no use us like fixing it every time so we just wait until we're sure that this biome isn't going to be touched anymore and then we're going to fix it all in one then we fix it all in one go you guys yep and then this um because yeah i guess like uh the way that it works you have like you've got your level which is like the terrain and then there's like another level which is like gameplay objects like nuts yeah and usually when you're working on the terrain you probably don't have the exploration level loaded on top right so you don't you don't see those things yeah exactly because it can be very cluttering for the vision and like there's a lot of like um in indicators and icons and things on top of them that you don't see in the game but you do see an editor that can be really annoying to work with we've sort of showed a little bit of that in your uh developer highlight video way back when yeah exactly like i load in like a creature spawn point and i load it out again

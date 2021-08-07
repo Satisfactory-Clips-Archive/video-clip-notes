@@ -5,6 +5,34 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## August 6th, 2021 Livestream
+* [Jace Talk: Northern Forest is getting a rework](../../transcriptions/yt-MxvGbCCc6DI,72.60586666666667,127.39393333333334.md) [https://youtube.com/clip/Ugxg09eDw0herz-p4bF4AaABCQ](https://youtube.com/clip/Ugxg09eDw0herz-p4bF4AaABCQ)
+* [Jace Talk: Northern Forest feedback](../../transcriptions/yt-MxvGbCCc6DI,127.4273,272.4388333333333.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=127&end=273](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=127&end=273)
+* [Jace Talk: Dune Desert Update](../../transcriptions/yt-MxvGbCCc6DI,272.4722,373.5398333333333.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=272&end=374](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=272&end=374)
+* [Jace Talk: The Northern Forest & the Dune Desert are considered "final"](../../transcriptions/yt-MxvGbCCc6DI,373.5732,397.02996666666667.md) [https://youtube.com/clip/UgwlT4wrAbzLm83jER94AaABCQ](https://youtube.com/clip/UgwlT4wrAbzLm83jER94AaABCQ)
+* [Jace Talk: Cave Update](../../transcriptions/yt-MxvGbCCc6DI,397.06333333333333,451.978662.md) [https://youtube.com/clip/UgyMg6x-5O9_IZLNXZx4AaABCQ](https://youtube.com/clip/UgyMg6x-5O9_IZLNXZx4AaABCQ)
+* [Jace Talk: Northern Forest teaser cave before & after shot](../../transcriptions/yt-MxvGbCCc6DI,452.01823333333334,493.9935.md) [https://youtube.com/clip/Ugzn8JzWSfeXO5NjeqR4AaABCQ](https://youtube.com/clip/Ugzn8JzWSfeXO5NjeqR4AaABCQ)
+* [Q&A: Can we get a map to see what's been worked on & what's been changed](../../transcriptions/yt-MxvGbCCc6DI,494.02686666666665,542.7755666666667.md) [https://youtube.com/clip/Ugxc2QWKgGz3eJShU2N4AaABCQ](https://youtube.com/clip/Ugxc2QWKgGz3eJShU2N4AaABCQ)
+* [Jace Talk: Roadmap for Map changes](../../transcriptions/yt-MxvGbCCc6DI,542.8089333333334,611.5442666666667.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=542&end=612](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=542&end=612)
+* [Q&A: What's happening with Resource Nodes?](../../transcriptions/yt-MxvGbCCc6DI,611.5776333333333,668.5011666666667.md) [https://youtube.com/clip/UgxbJIWwg9IIhNa4BQN4AaABCQ](https://youtube.com/clip/UgxbJIWwg9IIhNa4BQN4AaABCQ)
+
+## August 3rd, 2021 Livestream
+* [Q&A: How long has the Update 5 World Update been worked on?](../../transcriptions/yt-9Brfhzr6oW0.md) [https://www.youtube.com/watch?v=9Brfhzr6oW0](https://www.youtube.com/watch?v=9Brfhzr6oW0)
+* [Q&A: What inspired the new look of the Northern Forest?](../../transcriptions/yt--INOqzrvPOw.md) [https://www.youtube.com/watch?v=-INOqzrvPOw](https://www.youtube.com/watch?v=-INOqzrvPOw)
+* [Q&A: What are Hannah's thoughts on players' concerns that the new look is "less alien" ?](../../transcriptions/yt-KoEtf42M5_8.md) [https://www.youtube.com/watch?v=KoEtf42M5_8](https://www.youtube.com/watch?v=KoEtf42M5_8)
+* Q&A: Are the Willows gone? [https://www.youtube.com/watch?v=g7AdCMFATk4](https://www.youtube.com/watch?v=g7AdCMFATk4)
+* Jace & Hannah Talk: Jace was blown away by the Update 5 World changes [https://www.youtube.com/watch?v=lrTgR_d1v6Y](https://www.youtube.com/watch?v=lrTgR_d1v6Y)
+* Q&A: Should players be worried about the changes elsewhere on the map? [https://www.youtube.com/watch?v=gC79gfIucYo](https://www.youtube.com/watch?v=gC79gfIucYo)
+* [Jace Talk: Continue to vote #SaveTheWillows](../../transcriptions/yt-vaJUG2WcuVA.md) [https://www.youtube.com/watch?v=vaJUG2WcuVA](https://www.youtube.com/watch?v=vaJUG2WcuVA)
+* [Q&A: Is there a Cave Biome?](../../transcriptions/yt-pH6WLlg-i9w.md) [https://www.youtube.com/watch?v=pH6WLlg-i9w](https://www.youtube.com/watch?v=pH6WLlg-i9w)
+* [Q&A: Are you only reworking caves that already exist in Update 5?](../../transcriptions/yt-k2D0ahsnMMw.md) [https://www.youtube.com/watch?v=k2D0ahsnMMw](https://www.youtube.com/watch?v=k2D0ahsnMMw)
+* [Q&A: What was the inspiration for the Northern Forest redesign?](../../transcriptions/yt-nD48o-qhzbg.md) [https://www.youtube.com/watch?v=nD48o-qhzbg](https://www.youtube.com/watch?v=nD48o-qhzbg)
+* [Q&A: New Resource Nodes in the Northern Forest?](../../transcriptions/yt-k4lycXGHDAQ.md) [https://www.youtube.com/watch?v=k4lycXGHDAQ](https://www.youtube.com/watch?v=k4lycXGHDAQ)
+* [Q&A: Is Hannah making any of the assets herself?](../../transcriptions/yt-Gvg1CSGVFnQ.md) [https://www.youtube.com/watch?v=Gvg1CSGVFnQ](https://www.youtube.com/watch?v=Gvg1CSGVFnQ)
+* [Q&A: How often do you guys create new assets?](../../transcriptions/yt-87jNIqZKfyQ.md) [https://www.youtube.com/watch?v=87jNIqZKfyQ](https://www.youtube.com/watch?v=87jNIqZKfyQ)
+* [Jace Talk: #SaveTheWillows](../../transcriptions/yt-xt8yainML_g.md) [https://www.youtube.com/watch?v=xt8yainML_g](https://www.youtube.com/watch?v=xt8yainML_g)
+* [Q&A: Do we know if my factory will be affected by Northern Forest?](../../transcriptions/yt-FfBD0ltr2o0.md) [https://www.youtube.com/watch?v=FfBD0ltr2o0](https://www.youtube.com/watch?v=FfBD0ltr2o0)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Did you go over the areas we're not to build in for the moment?](../../transcriptions/yt-IpKxv4dkVJU.md) [https://www.youtube.com/watch?v=IpKxv4dkVJU](https://www.youtube.com/watch?v=IpKxv4dkVJU)
 * [Q&A: Will there be more Caves?](../../transcriptions/yt-h_MDCRRxWsM.md) [https://www.youtube.com/watch?v=h_MDCRRxWsM](https://www.youtube.com/watch?v=h_MDCRRxWsM)

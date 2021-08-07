@@ -8,7 +8,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Can we please get a Snow Biome?
 https://www.youtube.com/watch?v=QHVdhswD13w
-This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Is there a winter zone?](./yt-QgS9flDgvZk.md) [https://www.youtube.com/watch?v=QgS9flDgvZk](https://www.youtube.com/watch?v=QgS9flDgvZk)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Ice Biome?](./yt-Gu_MSs0-G-Y.md) [https://www.youtube.com/watch?v=Gu_MSs0-G-Y](https://www.youtube.com/watch?v=Gu_MSs0-G-Y)
 
 
 ### Topics

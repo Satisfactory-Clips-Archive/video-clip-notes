@@ -1,0 +1,47 @@
+---
+title: "Northern Forest World Update Q&A with Hannah"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoRdndnsQZEZnZcL35VZRmD
+date: Last Modified
+---
+# [Topics](../../../../topics.md) > [Satisfactory Updates](../../../../topics/satisfactory-updates.md) > Pending > [Satisfactory Update 5](../../../../topics/satisfactory-updates/pending/satisfactory-update-5.md) > Northern Forest World Update Q&A with Hannah
+
+## August 3rd, 2021 Livestream
+* [Jace & Hannah Talk: Flannel Cosplay](../../../../transcriptions/yt-M1tUfWB30GQ.md) [https://www.youtube.com/watch?v=M1tUfWB30GQ](https://www.youtube.com/watch?v=M1tUfWB30GQ)
+* [Community FYI: Jace shaved](../../../../transcriptions/yt-S5KvicTkt3w.md) [https://www.youtube.com/watch?v=S5KvicTkt3w](https://www.youtube.com/watch?v=S5KvicTkt3w)
+* [Q&A: When are you removing Spiders, I can't handle them?](../../../../transcriptions/yt-0S0ISLTI2es.md) [https://www.youtube.com/watch?v=0S0ISLTI2es](https://www.youtube.com/watch?v=0S0ISLTI2es)
+* [Q&A: When was the last time anyone saw Hannah's work?](../../../../transcriptions/yt-5feJ-HhDn9w.md) [https://www.youtube.com/watch?v=5feJ-HhDn9w](https://www.youtube.com/watch?v=5feJ-HhDn9w)
+* [Q&A: How long has the Update 5 World Update been worked on?](../../../../transcriptions/yt-9Brfhzr6oW0.md) [https://www.youtube.com/watch?v=9Brfhzr6oW0](https://www.youtube.com/watch?v=9Brfhzr6oW0)
+* [Q&A: What's the floating plant & rock situation in Update 5?](../../../../transcriptions/yt-cHGEiggCmOs.md) [https://www.youtube.com/watch?v=cHGEiggCmOs](https://www.youtube.com/watch?v=cHGEiggCmOs)
+* [Q&A: What inspired the new look of the Northern Forest?](../../../../transcriptions/yt--INOqzrvPOw.md) [https://www.youtube.com/watch?v=-INOqzrvPOw](https://www.youtube.com/watch?v=-INOqzrvPOw)
+* [Q&A: Are you saying dinosaurs?](../../../../transcriptions/yt-oU5O751x1Cg.md) [https://www.youtube.com/watch?v=oU5O751x1Cg](https://www.youtube.com/watch?v=oU5O751x1Cg)
+* [Q&A: What are Hannah's thoughts on players' concerns that the new look is "less alien" ?](../../../../transcriptions/yt-KoEtf42M5_8.md) [https://www.youtube.com/watch?v=KoEtf42M5_8](https://www.youtube.com/watch?v=KoEtf42M5_8)
+* Q&A: Are the Willows gone? [https://www.youtube.com/watch?v=g7AdCMFATk4](https://www.youtube.com/watch?v=g7AdCMFATk4)
+* Jace & Hannah Talk: Jace was blown away by the Update 5 World changes [https://www.youtube.com/watch?v=lrTgR_d1v6Y](https://www.youtube.com/watch?v=lrTgR_d1v6Y)
+* [Q&A: Do we plan on changing Northern Forest again after Update 5?](../../../../transcriptions/yt-_P_kowqyH2M.md) [https://www.youtube.com/watch?v=_P_kowqyH2M](https://www.youtube.com/watch?v=_P_kowqyH2M)
+* [Q&A: Should players be worried about the changes in Northern Forest?](../../../../transcriptions/yt-7KkFhdN7Eh8.md) [https://www.youtube.com/watch?v=7KkFhdN7Eh8](https://www.youtube.com/watch?v=7KkFhdN7Eh8)
+* Q&A: Should players be worried about the changes elsewhere on the map? [https://www.youtube.com/watch?v=gC79gfIucYo](https://www.youtube.com/watch?v=gC79gfIucYo)
+* [Jace Talk: Continue to vote #SaveTheWillows](../../../../transcriptions/yt-vaJUG2WcuVA.md) [https://www.youtube.com/watch?v=vaJUG2WcuVA](https://www.youtube.com/watch?v=vaJUG2WcuVA)
+* [Q&A: Is there a Cave Biome?](../../../../transcriptions/yt-pH6WLlg-i9w.md) [https://www.youtube.com/watch?v=pH6WLlg-i9w](https://www.youtube.com/watch?v=pH6WLlg-i9w)
+* [Q&A: Are you only reworking caves that already exist in Update 5?](../../../../transcriptions/yt-k2D0ahsnMMw.md) [https://www.youtube.com/watch?v=k2D0ahsnMMw](https://www.youtube.com/watch?v=k2D0ahsnMMw)
+* Q&A: Golf Biome? [https://www.youtube.com/watch?v=ItA7tWo8dsc](https://www.youtube.com/watch?v=ItA7tWo8dsc)
+* [Q&A: Are we getting new types of floating trees?](../../../../transcriptions/yt-Qef2i5Nug_U.md) [https://www.youtube.com/watch?v=Qef2i5Nug_U](https://www.youtube.com/watch?v=Qef2i5Nug_U)
+* [Q&A: Ice Biome?](../../../../transcriptions/yt-Gu_MSs0-G-Y.md) [https://www.youtube.com/watch?v=Gu_MSs0-G-Y](https://www.youtube.com/watch?v=Gu_MSs0-G-Y)
+* [Q&A: Ice Golf Biome?](../../../../transcriptions/yt-R8E41fHzIkg.md) [https://www.youtube.com/watch?v=R8E41fHzIkg](https://www.youtube.com/watch?v=R8E41fHzIkg)
+* [Community FYI: Great work!](../../../../transcriptions/yt-oUR-uYAevLM.md) [https://www.youtube.com/watch?v=oUR-uYAevLM](https://www.youtube.com/watch?v=oUR-uYAevLM)
+* [Q&A: Willows as Golf flags?](../../../../transcriptions/yt-feEo1i1k3hw.md) [https://www.youtube.com/watch?v=feEo1i1k3hw](https://www.youtube.com/watch?v=feEo1i1k3hw)
+* [Q&A: Are Lights in their final form or will there be tweaks to how they diffuse?](../../../../transcriptions/yt-vkf7RUDKnDY.md) [https://www.youtube.com/watch?v=vkf7RUDKnDY](https://www.youtube.com/watch?v=vkf7RUDKnDY)
+* [Q&A: What was the inspiration for the Northern Forest redesign?](../../../../transcriptions/yt-nD48o-qhzbg.md) [https://www.youtube.com/watch?v=nD48o-qhzbg](https://www.youtube.com/watch?v=nD48o-qhzbg)
+* [Q&A: What's Hannah's favourite part of her work?](../../../../transcriptions/yt-gdSLR8WM1zg.md) [https://www.youtube.com/watch?v=gdSLR8WM1zg](https://www.youtube.com/watch?v=gdSLR8WM1zg)
+* [Q&A: New Resource Nodes in the Northern Forest?](../../../../transcriptions/yt-k4lycXGHDAQ.md) [https://www.youtube.com/watch?v=k4lycXGHDAQ](https://www.youtube.com/watch?v=k4lycXGHDAQ)
+* [Q&A: Coffee Shop Biome?](../../../../transcriptions/yt-1a099owXMxE.md) [https://www.youtube.com/watch?v=1a099owXMxE](https://www.youtube.com/watch?v=1a099owXMxE)
+* [Q&A: Is Hannah making any of the assets herself?](../../../../transcriptions/yt-Gvg1CSGVFnQ.md) [https://www.youtube.com/watch?v=Gvg1CSGVFnQ](https://www.youtube.com/watch?v=Gvg1CSGVFnQ)
+* [Q&A: How often do you guys create new assets?](../../../../transcriptions/yt-87jNIqZKfyQ.md) [https://www.youtube.com/watch?v=87jNIqZKfyQ](https://www.youtube.com/watch?v=87jNIqZKfyQ)
+* [Q&A: What was the reason behind the Dune Desert Biome?](../../../../transcriptions/yt-n9pgDgdj_28.md) [https://www.youtube.com/watch?v=n9pgDgdj_28](https://www.youtube.com/watch?v=n9pgDgdj_28)
+* [Q&A: What about Underwater?](../../../../transcriptions/yt-UgeFxfdLV0k.md) [https://www.youtube.com/watch?v=UgeFxfdLV0k](https://www.youtube.com/watch?v=UgeFxfdLV0k)
+* [Q&A: What's Hannah's personal favourite Biome?](../../../../transcriptions/yt-vyG5w8eQfQM.md) [https://www.youtube.com/watch?v=vyG5w8eQfQM](https://www.youtube.com/watch?v=vyG5w8eQfQM)
+* [Q&A: Are you two wearing the same flannel?](../../../../transcriptions/yt-5bMEBEraqQE.md) [https://www.youtube.com/watch?v=5bMEBEraqQE](https://www.youtube.com/watch?v=5bMEBEraqQE)
+* [Q&A: How do floating trees & rocks happen?](../../../../transcriptions/yt-6Y25k25rbWg.md) [https://www.youtube.com/watch?v=6Y25k25rbWg](https://www.youtube.com/watch?v=6Y25k25rbWg)
+* [Community: Welcome to your first day at Coffee Stain, here's your work uniform](../../../../transcriptions/yt-rksKMbX598Y.md) [https://www.youtube.com/watch?v=rksKMbX598Y](https://www.youtube.com/watch?v=rksKMbX598Y)
+* [Q&A: Was there a change in the eastern Dune Desert between Update 3 and Update 4?](../../../../transcriptions/yt-yu5hKyAsHFU.md) [https://www.youtube.com/watch?v=yu5hKyAsHFU](https://www.youtube.com/watch?v=yu5hKyAsHFU)
+* [Q&A: Is there an estimated release date?](../../../../transcriptions/yt-93grprYOrqg.md) [https://www.youtube.com/watch?v=93grprYOrqg](https://www.youtube.com/watch?v=93grprYOrqg)
+* [Q&A: Any more penis rocks coming into the game?](../../../../transcriptions/yt-rq_G9PiuWQU.md) [https://www.youtube.com/watch?v=rq_G9PiuWQU](https://www.youtube.com/watch?v=rq_G9PiuWQU)

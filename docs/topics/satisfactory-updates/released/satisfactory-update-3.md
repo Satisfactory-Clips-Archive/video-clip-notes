@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 3
 
+## August 3rd, 2021 Livestream
+* [Q&A: Was there a change in the eastern Dune Desert between Update 3 and Update 4?](../../../transcriptions/yt-yu5hKyAsHFU.md) [https://www.youtube.com/watch?v=yu5hKyAsHFU](https://www.youtube.com/watch?v=yu5hKyAsHFU)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: What was the idea behind the new Ore models that got reverted?](../../../transcriptions/yt-dpWWVaJWnBQ.md) [https://www.youtube.com/watch?v=dpWWVaJWnBQ](https://www.youtube.com/watch?v=dpWWVaJWnBQ)
 * [Q&A: Will Update 5 wreck our Update 4 saves?](../../../transcriptions/yt-Mjo9dzwcIcg.md) [https://www.youtube.com/watch?v=Mjo9dzwcIcg](https://www.youtube.com/watch?v=Mjo9dzwcIcg)

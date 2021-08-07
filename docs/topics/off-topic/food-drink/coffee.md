@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-drink.md) > Coffee
 
+## August 3rd, 2021 Livestream
+* [Q&A: How have you not made a "Hot Coffee" mini-game where you literally just make coffee?](../../../transcriptions/yt-sp0SRzvvDAc.md) [https://www.youtube.com/watch?v=sp0SRzvvDAc](https://www.youtube.com/watch?v=sp0SRzvvDAc)
+
 ## July 20th, 2021 Livestream
 * [Q&A: How much coffee does an average Coffee Stainer drink on each day?](../../../transcriptions/yt-ihdKZQwk4jQ.md) [https://www.youtube.com/watch?v=ihdKZQwk4jQ](https://www.youtube.com/watch?v=ihdKZQwk4jQ)
 

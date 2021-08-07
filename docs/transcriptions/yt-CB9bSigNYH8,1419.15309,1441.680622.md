@@ -4,6 +4,7 @@ date: "2019-02-20"
 layout: transcript
 topics:
     - "environment"
+    - "environment/biomes/caves"
     - "features/buildables"
     - "satisfactory-updates/released/satisfactory-alpha"
 ---
@@ -13,6 +14,7 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1419&end=1442
 
 ### Topics
 * [Environment](../topics/environment.md)
+* [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Features > Buildables](../topics/features/buildables.md)
 * [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 

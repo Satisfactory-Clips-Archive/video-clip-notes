@@ -9,7 +9,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Can we add Solar Power?
 https://www.youtube.com/watch?v=_Uf5e-J9TwA
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Are there any plans to bring things like Solar Power & Electric Vehicles to the game?](./yt-IEC_Inpb8Cg.md) [https://www.youtube.com/watch?v=IEC_Inpb8Cg](https://www.youtube.com/watch?v=IEC_Inpb8Cg)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Solar Energy?](./yt-WLbaUlcla48.md) [https://www.youtube.com/watch?v=WLbaUlcla48](https://www.youtube.com/watch?v=WLbaUlcla48)
 
 
 ### Topics

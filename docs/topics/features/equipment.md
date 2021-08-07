@@ -14,6 +14,12 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## August 3rd, 2021 Livestream
+* [Q&A: Are there any plans for more weapons?](../../transcriptions/yt-xsjiSj9f2Oo.md) [https://www.youtube.com/watch?v=xsjiSj9f2Oo](https://www.youtube.com/watch?v=xsjiSj9f2Oo)
+* Q&A: Buster Sword reskin for Xenobasher? [https://www.youtube.com/watch?v=49nksxmITAQ](https://www.youtube.com/watch?v=49nksxmITAQ)
+* [Q&A: Grenade Launcher?](../../transcriptions/yt-5t56gFZ8I0M.md) [https://www.youtube.com/watch?v=5t56gFZ8I0M](https://www.youtube.com/watch?v=5t56gFZ8I0M)
+* [Q&A: Can we get a nuke?](../../transcriptions/yt-dY4eAJyuK3w.md) [https://www.youtube.com/watch?v=dY4eAJyuK3w](https://www.youtube.com/watch?v=dY4eAJyuK3w)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Did you see my Detonator?](../../transcriptions/yt-BmfHjF5edC4.md) [https://www.youtube.com/watch?v=BmfHjF5edC4](https://www.youtube.com/watch?v=BmfHjF5edC4)
 * [Q&A: Are you going to fix the FICS⁕MAS Basher so you can hit enemies with it again?](../../transcriptions/yt-rZ_ZrEDqUW8.md) [https://www.youtube.com/watch?v=rZ_ZrEDqUW8](https://www.youtube.com/watch?v=rZ_ZrEDqUW8)

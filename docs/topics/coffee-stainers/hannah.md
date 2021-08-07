@@ -6,6 +6,17 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 * [Coffee Stainers can't pronounce Hannah's last name](../../topics/coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 
+## August 3rd, 2021 Livestream
+* [Jace & Hannah Talk: Flannel Cosplay](../../transcriptions/yt-M1tUfWB30GQ.md) [https://www.youtube.com/watch?v=M1tUfWB30GQ](https://www.youtube.com/watch?v=M1tUfWB30GQ)
+* [Community FYI: Jace shaved](../../transcriptions/yt-S5KvicTkt3w.md) [https://www.youtube.com/watch?v=S5KvicTkt3w](https://www.youtube.com/watch?v=S5KvicTkt3w)
+* [Q&A: When was the last time anyone saw Hannah's work?](../../transcriptions/yt-5feJ-HhDn9w.md) [https://www.youtube.com/watch?v=5feJ-HhDn9w](https://www.youtube.com/watch?v=5feJ-HhDn9w)
+* [Community FYI: Great work!](../../transcriptions/yt-oUR-uYAevLM.md) [https://www.youtube.com/watch?v=oUR-uYAevLM](https://www.youtube.com/watch?v=oUR-uYAevLM)
+* [Q&A: What's Hannah's favourite part of her work?](../../transcriptions/yt-gdSLR8WM1zg.md) [https://www.youtube.com/watch?v=gdSLR8WM1zg](https://www.youtube.com/watch?v=gdSLR8WM1zg)
+* [Q&A: Is Hannah making any of the assets herself?](../../transcriptions/yt-Gvg1CSGVFnQ.md) [https://www.youtube.com/watch?v=Gvg1CSGVFnQ](https://www.youtube.com/watch?v=Gvg1CSGVFnQ)
+* [Q&A: What's Hannah's personal favourite Biome?](../../transcriptions/yt-vyG5w8eQfQM.md) [https://www.youtube.com/watch?v=vyG5w8eQfQM](https://www.youtube.com/watch?v=vyG5w8eQfQM)
+* [Q&A: Are you two wearing the same flannel?](../../transcriptions/yt-5bMEBEraqQE.md) [https://www.youtube.com/watch?v=5bMEBEraqQE](https://www.youtube.com/watch?v=5bMEBEraqQE)
+* [Jace & Hannah Talk: Hannah is as old as Lara Croft](../../transcriptions/yt-j4oTKsvhtmA.md) [https://www.youtube.com/watch?v=j4oTKsvhtmA](https://www.youtube.com/watch?v=j4oTKsvhtmA)
+
 ## July 20th, 2021 Livestream
 * [Community FYI: Her name is Hanburger](../../transcriptions/yt-8e_1bMWzV7I.md) [https://www.youtube.com/watch?v=8e_1bMWzV7I](https://www.youtube.com/watch?v=8e_1bMWzV7I)
 * [Community FYI: If you had a "Dear Hannah" segment, you'd have less dead air](../../transcriptions/yt-ai2N0C2tJPA.md) [https://www.youtube.com/watch?v=ai2N0C2tJPA](https://www.youtube.com/watch?v=ai2N0C2tJPA)

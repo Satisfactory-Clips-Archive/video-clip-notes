@@ -4,7 +4,7 @@ date: "2019-02-20"
 layout: transcript
 topics:
     - "coffee-stainers"
-    - "environment/world-map"
+    - "environment/biomes/caves"
 ---
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: How do you decide who fills caves with stuff?
@@ -12,7 +12,7 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1696&end=1746
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
-* [Environment > World Map](../topics/environment/world-map.md)
+* [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 
 ### Transcript
 

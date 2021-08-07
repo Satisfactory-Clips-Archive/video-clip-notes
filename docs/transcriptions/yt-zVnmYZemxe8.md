@@ -3,16 +3,20 @@ title: "January 19th, 2021 Livestream Q&A: Is the Map finalised, as in there wil
 date: "2021-01-19"
 layout: transcript
 topics:
+    - "environment/biomes/caves"
     - "environment/world-map"
     - "features/possible-features/underground-biome"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Is the Map finalised, as in there will be no more additions?
 https://www.youtube.com/watch?v=zVnmYZemxe8
+This question was possibly replaced with a more recent answer: [August 6th, 2021 Livestream Q&A: Can we get a map to see what's been worked on & what's been changed](./yt-MxvGbCCc6DI,494.02686666666665,542.7755666666667.md) [https://youtube.com/clip/Ugxc2QWKgGz3eJShU2N4AaABCQ](https://youtube.com/clip/Ugxc2QWKgGz3eJShU2N4AaABCQ)
+
 This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: More Biomes coming to play?](./yt-KrltUW332Rg.md) [https://www.youtube.com/watch?v=KrltUW332Rg](https://www.youtube.com/watch?v=KrltUW332Rg)
 
 
 ### Topics
+* [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Possible Features > Underground Biome](../topics/features/possible-features/underground-biome.md)
 

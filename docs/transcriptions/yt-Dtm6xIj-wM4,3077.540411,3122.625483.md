@@ -9,6 +9,8 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: What is Hannah's favourite place on the map?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3077&end=3123
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: What's Hannah's personal favourite Biome?](./yt-vyG5w8eQfQM.md) [https://www.youtube.com/watch?v=vyG5w8eQfQM](https://www.youtube.com/watch?v=vyG5w8eQfQM)
+
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)

@@ -90,6 +90,7 @@ date: Last Modified
 
 ## [Biomes](./topics/environment/biomes.md)
 * [Blue Crater](./topics/environment/biomes/blue-crater.md)
+* [Caves](./topics/environment/biomes/caves.md)
 * [Dune Desert](./topics/environment/biomes/dune-desert.md)
 * [Grass Fields](./topics/environment/biomes/grass-fields.md)
 * [Northern Forest](./topics/environment/biomes/northern-forest.md)
@@ -408,7 +409,11 @@ date: Last Modified
 * [World Update](./topics/satisfactory-updates/world-update.md)
 
 ## Pending
-* [Satisfactory Update 5](./topics/satisfactory-updates/pending/satisfactory-update-5.md)
+
+### [Satisfactory Update 5](./topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [#SaveTheWillows](./topics/satisfactory-updates/pending/satisfactory-update-5/save-the-willows.md)
+* [Northern Forest World Update Q&A with Hannah](./topics/satisfactory-updates/pending/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
+---
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 ---
 

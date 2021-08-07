@@ -9,6 +9,8 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Do you ever lurk on Satisfactory streams and watch vids?
 https://www.youtube.com/watch?v=IQYDSa80AL0
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Does anyone on the team watch people streaming randomly?](./yt-x1Cu1TerhSc.md) [https://www.youtube.com/watch?v=x1Cu1TerhSc](https://www.youtube.com/watch?v=x1Cu1TerhSc)
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

@@ -4,7 +4,7 @@ date: "2019-02-20"
 layout: transcript
 topics:
     - "community"
-    - "environment"
+    - "environment/biomes/caves"
     - "level-design-stream"
 ---
 # [February 20th, 2019 Livestream](../2019-02-20.md)
@@ -13,7 +13,7 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4629&end=4642
 
 ### Topics
 * [Community](../topics/community.md)
-* [Environment](../topics/environment.md)
+* [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Level Design Stream](../topics/level-design-stream.md)
 
 ### Transcript

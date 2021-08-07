@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## August 3rd, 2021 Livestream
+* Q&A: Will we ever see writable signs to label stuff? [https://www.youtube.com/watch?v=5lnAMr0DyBE](https://www.youtube.com/watch?v=5lnAMr0DyBE)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Add name tag on Container?](../../../transcriptions/yt-ARhDX9dqoGE.md) [https://www.youtube.com/watch?v=ARhDX9dqoGE](https://www.youtube.com/watch?v=ARhDX9dqoGE)
 * [Q&A: Would you consider adding custom text signs?](../../../transcriptions/yt-HmdG5XPGjN8.md) [https://www.youtube.com/watch?v=HmdG5XPGjN8](https://www.youtube.com/watch?v=HmdG5XPGjN8)

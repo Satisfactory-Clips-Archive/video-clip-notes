@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## August 3rd, 2021 Livestream
+* [Q&A: Was there a change in the eastern Dune Desert between Update 3 and Update 4?](../../../transcriptions/yt-yu5hKyAsHFU.md) [https://www.youtube.com/watch?v=yu5hKyAsHFU](https://www.youtube.com/watch?v=yu5hKyAsHFU)
+* [Q&A: Favourite addition from Update 4?](../../../transcriptions/yt-wUURn7xPIto.md) [https://www.youtube.com/watch?v=wUURn7xPIto](https://www.youtube.com/watch?v=wUURn7xPIto)
+* [Q&A: What sort of size will Update 5 be compared to Update 4?](../../../transcriptions/yt-6szGN07pKus.md) [https://www.youtube.com/watch?v=6szGN07pKus](https://www.youtube.com/watch?v=6szGN07pKus)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Update 4 increased loading times so much, is it a known issue?](../../../transcriptions/yt-f3C99ZImAj8.md) [https://www.youtube.com/watch?v=f3C99ZImAj8](https://www.youtube.com/watch?v=f3C99ZImAj8)
 * [Q&A: What Update are we up to, I haven't played since Update 3?](../../../transcriptions/yt-hT1dvzAOwKY.md) [https://www.youtube.com/watch?v=hT1dvzAOwKY](https://www.youtube.com/watch?v=hT1dvzAOwKY)

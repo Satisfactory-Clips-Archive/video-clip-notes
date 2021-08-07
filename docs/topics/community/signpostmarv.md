@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > SignpostMarv
 
+## August 3rd, 2021 Livestream
+* Q&A: No pronunciation tutorial? [https://www.youtube.com/watch?v=LbwqJGQhnK8](https://www.youtube.com/watch?v=LbwqJGQhnK8)
+
 ## June 29th, 2021 Livestream
 * Q&A: What is a Calzone, but a Pizza sandwich? [https://www.youtube.com/watch?v=gl_O6eDr9yM](https://www.youtube.com/watch?v=gl_O6eDr9yM)
 

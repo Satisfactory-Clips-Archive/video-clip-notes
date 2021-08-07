@@ -1,0 +1,15 @@
+---
+title: "#SaveTheWillows"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqNe4SQNEAvhKRLQX39g9Ix
+date: Last Modified
+---
+# [Topics](../../../../topics.md) > [Satisfactory Updates](../../../../topics/satisfactory-updates.md) > Pending > [Satisfactory Update 5](../../../../topics/satisfactory-updates/pending/satisfactory-update-5.md) > #SaveTheWillows
+
+## August 6th, 2021 Livestream
+* [Jace Talk: Northern Forest feedback](../../../../transcriptions/yt-MxvGbCCc6DI,127.4273,272.4388333333333.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=127&end=273](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=127&end=273)
+
+## August 3rd, 2021 Livestream
+* Q&A: Are the Willows gone? [https://www.youtube.com/watch?v=g7AdCMFATk4](https://www.youtube.com/watch?v=g7AdCMFATk4)
+* [Jace Talk: Continue to vote #SaveTheWillows](../../../../transcriptions/yt-vaJUG2WcuVA.md) [https://www.youtube.com/watch?v=vaJUG2WcuVA](https://www.youtube.com/watch?v=vaJUG2WcuVA)
+* [Q&A: Willows as Golf flags?](../../../../transcriptions/yt-feEo1i1k3hw.md) [https://www.youtube.com/watch?v=feEo1i1k3hw](https://www.youtube.com/watch?v=feEo1i1k3hw)
+* [Jace Talk: #SaveTheWillows](../../../../transcriptions/yt-xt8yainML_g.md) [https://www.youtube.com/watch?v=xt8yainML_g](https://www.youtube.com/watch?v=xt8yainML_g)

@@ -14,6 +14,12 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## August 6th, 2021 Livestream
+* [Q&A: What's happening with Resource Nodes?](../../transcriptions/yt-MxvGbCCc6DI,611.5776333333333,668.5011666666667.md) [https://youtube.com/clip/UgxbJIWwg9IIhNa4BQN4AaABCQ](https://youtube.com/clip/UgxbJIWwg9IIhNa4BQN4AaABCQ)
+
+## August 3rd, 2021 Livestream
+* [Q&A: New Resource Nodes in the Northern Forest?](../../transcriptions/yt-k4lycXGHDAQ.md) [https://www.youtube.com/watch?v=k4lycXGHDAQ](https://www.youtube.com/watch?v=k4lycXGHDAQ)
+
 ## July 23rd, 2021 Livestream
 * [Tobias Talk: Battery consumption of Drones](../../transcriptions/yt-FyOHDcxtEUA,225.46666666666667,270.3333333333333.md) [https://youtube.com/clip/UgxQF40-E2C7byyl9MN4AaABCQ](https://youtube.com/clip/UgxQF40-E2C7byyl9MN4AaABCQ)
 * [Q&A: When are the Batteries used by Drones?](../../transcriptions/yt-FyOHDcxtEUA,317.03333333333336,357.56666666666666.md) [https://youtube.com/clip/UgybX97cu8npyL1-ag94AaABCQ](https://youtube.com/clip/UgybX97cu8npyL1-ag94AaABCQ)

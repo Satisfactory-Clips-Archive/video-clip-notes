@@ -19,6 +19,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## August 3rd, 2021 Livestream
+* [Q&A: What is the sound of one hand clapping?](../transcriptions/yt--A46SS0eZ-o.md) [https://www.youtube.com/watch?v=-A46SS0eZ-o](https://www.youtube.com/watch?v=-A46SS0eZ-o)
+
 ## July 6th, 2021 Livestream
 * [Snutt & Jace Talk: Poop Emoji plush](../transcriptions/yt-RCeee9HK3Zs.md) [https://www.youtube.com/watch?v=RCeee9HK3Zs](https://www.youtube.com/watch?v=RCeee9HK3Zs)
 * [Q&A: Why won't Jace donate hair to Snutt?](../transcriptions/yt-zz3FDAM8zxs.md) [https://www.youtube.com/watch?v=zz3FDAM8zxs](https://www.youtube.com/watch?v=zz3FDAM8zxs)

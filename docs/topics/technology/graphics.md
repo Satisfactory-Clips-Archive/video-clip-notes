@@ -9,6 +9,9 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## August 3rd, 2021 Livestream
+* [Q&A: How will the FPS be with this change to the Biome?](../../transcriptions/yt-Otus1GbtWtE.md) [https://www.youtube.com/watch?v=Otus1GbtWtE](https://www.youtube.com/watch?v=Otus1GbtWtE)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Optimisation for frames?](../../transcriptions/yt-0Kqm4BsCdN0.md) [https://www.youtube.com/watch?v=0Kqm4BsCdN0](https://www.youtube.com/watch?v=0Kqm4BsCdN0)
 * [Q&A: Do Walls improve rendering?](../../transcriptions/yt-nRYObYdENUQ.md) [https://www.youtube.com/watch?v=nRYObYdENUQ](https://www.youtube.com/watch?v=nRYObYdENUQ)

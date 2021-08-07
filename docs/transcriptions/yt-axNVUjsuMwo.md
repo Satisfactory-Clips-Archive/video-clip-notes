@@ -8,7 +8,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Is there a plan to let us grow food in some way?
 https://www.youtube.com/watch?v=axNVUjsuMwo
-This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Any plans for Farming?](./yt-70U_d1fVoHk.md) [https://www.youtube.com/watch?v=70U_d1fVoHk](https://www.youtube.com/watch?v=70U_d1fVoHk)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Are there any plans to add Farming food to the game?](./yt-hv9v539zaa8.md) [https://www.youtube.com/watch?v=hv9v539zaa8](https://www.youtube.com/watch?v=hv9v539zaa8)
 
 
 ### Topics

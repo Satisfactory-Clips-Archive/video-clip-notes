@@ -4,6 +4,7 @@ date: "2019-02-20"
 layout: transcript
 topics:
     - "environment"
+    - "environment/biomes/caves"
     - "environment/plants"
     - "environment/resources/power-slug"
     - "level-design-stream"
@@ -32,6 +33,7 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3090&end=3126
 
 ### Topics
 * [Environment](../topics/environment.md)
+* [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Environment > Plants](../topics/environment/plants.md)
 * [Environment > Resources > Power Slug](../topics/environment/resources/power-slug.md)
 * [Level Design Stream](../topics/level-design-stream.md)

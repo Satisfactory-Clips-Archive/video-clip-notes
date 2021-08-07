@@ -10,7 +10,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: What about Snow in the game's future?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201
-This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Is there a winter zone?](./yt-QgS9flDgvZk.md) [https://www.youtube.com/watch?v=QgS9flDgvZk](https://www.youtube.com/watch?v=QgS9flDgvZk)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Ice Biome?](./yt-Gu_MSs0-G-Y.md) [https://www.youtube.com/watch?v=Gu_MSs0-G-Y](https://www.youtube.com/watch?v=Gu_MSs0-G-Y)
 
 
 ### Topics

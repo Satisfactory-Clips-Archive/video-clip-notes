@@ -3,7 +3,7 @@ title: "February 20th, 2019 Livestream Hannah Talk: Caves are broken in Alpha"
 date: "2019-02-20"
 layout: transcript
 topics:
-    - "environment"
+    - "environment/biomes/caves"
     - "satisfactory-updates/released/satisfactory-alpha"
 ---
 # [February 20th, 2019 Livestream](../2019-02-20.md)
@@ -11,7 +11,7 @@ topics:
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=592&end=607
 
 ### Topics
-* [Environment](../topics/environment.md)
+* [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 
 ### Transcript

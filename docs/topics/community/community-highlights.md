@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## August 3rd, 2021 Livestream
+* [Jace & Hannah Talk: Hannah is as old as Lara Croft](../../transcriptions/yt-j4oTKsvhtmA.md) [https://www.youtube.com/watch?v=j4oTKsvhtmA](https://www.youtube.com/watch?v=j4oTKsvhtmA)
+* [Jace & Hannah Talk: Food Court, no fish allowed](../../transcriptions/yt-k6bndNMxxdE.md) [https://www.youtube.com/watch?v=k6bndNMxxdE](https://www.youtube.com/watch?v=k6bndNMxxdE)
+
 ## July 20th, 2021 Livestream
 * [Jace Talk: "Plugs" (Part 1)](../../transcriptions/yt-pnGkL7ZIDDw.md) [https://www.youtube.com/watch?v=pnGkL7ZIDDw](https://www.youtube.com/watch?v=pnGkL7ZIDDw)
 * [Jace Talk: "Plugs" (Part 2)](../../transcriptions/yt-ub8BeIFPJP8.md) [https://www.youtube.com/watch?v=ub8BeIFPJP8](https://www.youtube.com/watch?v=ub8BeIFPJP8)

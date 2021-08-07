@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Any plans on bringing music tracks to Spotify & YouTube?
 https://www.youtube.com/watch?v=K-yARAF955w
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will the game Soundtrack come to Spotify soon?](./yt-bBS_pCVpXwY.md) [https://www.youtube.com/watch?v=bBS_pCVpXwY](https://www.youtube.com/watch?v=bBS_pCVpXwY)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Will the soundtrack be released on Spotify?](./yt-HCcWGBc_lDo.md) [https://www.youtube.com/watch?v=HCcWGBc_lDo](https://www.youtube.com/watch?v=HCcWGBc_lDo)
 
 
 ### Topics

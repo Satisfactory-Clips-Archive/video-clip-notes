@@ -4,6 +4,7 @@ date: "2019-02-20"
 layout: transcript
 topics:
     - "environment/biomes"
+    - "environment/biomes/caves"
     - "environment/plants"
     - "level-design-stream"
 ---
@@ -31,6 +32,7 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=439&end=502
 
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Environment > Plants](../topics/environment/plants.md)
 * [Level Design Stream](../topics/level-design-stream.md)
 

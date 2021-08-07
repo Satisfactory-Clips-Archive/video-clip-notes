@@ -11,7 +11,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Snow Area Confirmed?
 https://www.youtube.com/watch?v=yUDtq7D8XU8
-This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Is there a winter zone?](./yt-QgS9flDgvZk.md) [https://www.youtube.com/watch?v=QgS9flDgvZk](https://www.youtube.com/watch?v=QgS9flDgvZk)
+This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Ice Biome?](./yt-Gu_MSs0-G-Y.md) [https://www.youtube.com/watch?v=Gu_MSs0-G-Y](https://www.youtube.com/watch?v=Gu_MSs0-G-Y)
 
 
 ### Topics

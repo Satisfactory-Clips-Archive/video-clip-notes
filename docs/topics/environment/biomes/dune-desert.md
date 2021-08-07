@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Dune Desert
 
+## August 6th, 2021 Livestream
+* [Jace Talk: Dune Desert Update](../../../transcriptions/yt-MxvGbCCc6DI,272.4722,373.5398333333333.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=272&end=374](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=272&end=374)
+* [Jace Talk: The Northern Forest & the Dune Desert are considered "final"](../../../transcriptions/yt-MxvGbCCc6DI,373.5732,397.02996666666667.md) [https://youtube.com/clip/UgwlT4wrAbzLm83jER94AaABCQ](https://youtube.com/clip/UgwlT4wrAbzLm83jER94AaABCQ)
+
+## August 3rd, 2021 Livestream
+* [Q&A: What was the reason behind the Dune Desert Biome?](../../../transcriptions/yt-n9pgDgdj_28.md) [https://www.youtube.com/watch?v=n9pgDgdj_28](https://www.youtube.com/watch?v=n9pgDgdj_28)
+* [Q&A: Was there a change in the eastern Dune Desert between Update 3 and Update 4?](../../../transcriptions/yt-yu5hKyAsHFU.md) [https://www.youtube.com/watch?v=yu5hKyAsHFU](https://www.youtube.com/watch?v=yu5hKyAsHFU)
+
 ## May 4th, 2021 Livestream
 * [Community Highlights: Dune Desert Waterfall Mesa & the pending World Updates](../../../transcriptions/yt-b86m8SEx6Vw.md) [https://www.youtube.com/watch?v=b86m8SEx6Vw](https://www.youtube.com/watch?v=b86m8SEx6Vw)
 

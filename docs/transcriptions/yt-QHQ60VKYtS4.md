@@ -9,6 +9,8 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Will we get notified in advance of Map changes so we can repair our builds?
 https://www.youtube.com/watch?v=QHQ60VKYtS4
+This question was possibly replaced with a more recent answer: [August 6th, 2021 Livestream Q&A: Can we get a map to see what's been worked on & what's been changed](./yt-MxvGbCCc6DI,494.02686666666665,542.7755666666667.md) [https://youtube.com/clip/Ugxc2QWKgGz3eJShU2N4AaABCQ](https://youtube.com/clip/Ugxc2QWKgGz3eJShU2N4AaABCQ)
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

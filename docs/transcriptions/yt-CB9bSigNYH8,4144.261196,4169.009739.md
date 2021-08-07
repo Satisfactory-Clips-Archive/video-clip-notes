@@ -3,7 +3,7 @@ title: "February 20th, 2019 Livestream Are we going to be stuck in the cave look
 date: "2019-02-20"
 layout: transcript
 topics:
-    - "environment"
+    - "environment/biomes/caves"
     - "level-design-stream"
 ---
 # [February 20th, 2019 Livestream](../2019-02-20.md)
@@ -11,7 +11,7 @@ topics:
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4144&end=4170
 
 ### Topics
-* [Environment](../topics/environment.md)
+* [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Level Design Stream](../topics/level-design-stream.md)
 
 ### Transcript

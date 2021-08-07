@@ -65,7 +65,6 @@ date: Last Modified
 * [Q&A: Is a bigger world a possibility?](../../transcriptions/yt-dlL942ooTho.md) [https://www.youtube.com/watch?v=dlL942ooTho](https://www.youtube.com/watch?v=dlL942ooTho)
 * [Q&A: Are you going to fix the places where you instantly die?](../../transcriptions/yt-ZWjntHKKxxE.md) [https://www.youtube.com/watch?v=ZWjntHKKxxE](https://www.youtube.com/watch?v=ZWjntHKKxxE)
 * [Community FYI: Joke's on you, I glitched under the map with a Train; immersion ruined.](../../transcriptions/yt-eVumrhkcdn4.md) [https://www.youtube.com/watch?v=eVumrhkcdn4](https://www.youtube.com/watch?v=eVumrhkcdn4)
-* [Q&A: Why are there obvious cave entrances that lead under the map?](../../transcriptions/yt-sh3gPpdUAik.md) [https://www.youtube.com/watch?v=sh3gPpdUAik](https://www.youtube.com/watch?v=sh3gPpdUAik)
 
 ## March 23rd, 2021 Livestream
 * Q&A: Why does the Map look like Spain? [https://www.youtube.com/watch?v=DvhDthCbCtU](https://www.youtube.com/watch?v=DvhDthCbCtU)
@@ -276,7 +275,6 @@ date: Last Modified
 * [Q&A: How big is the world in football fields?](../../transcriptions/yt-CB9bSigNYH8,1397.877607,1410.534501.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1397&end=1411](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1397&end=1411)
 * [Q&A: Is the World a single landscape, or separate ones?](../../transcriptions/yt-CB9bSigNYH8,1441.6666666666667,1463.45343.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1441&end=1464](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1441&end=1464)
 * [Hannah Talk: Retracting a previous statement](../../transcriptions/yt-CB9bSigNYH8,1497.194313,1526.886263.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1497&end=1527](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1497&end=1527)
-* [Q&A: How do you decide who fills caves with stuff?](../../transcriptions/yt-CB9bSigNYH8,1696.76254,1745.665541.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1696&end=1746](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1696&end=1746)
 * [Community FYI: That's a lot of tiles!](../../transcriptions/yt-CB9bSigNYH8,1745.665541,1766.070784.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1745&end=1767](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1745&end=1767)
 * [Q&A: Could you show the whole World please?](../../transcriptions/yt-CB9bSigNYH8,1798.185879,1807.261767.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1798&end=1808](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1798&end=1808)
 * [Q&A: Will the machinery still work if I'm not loading that particular tile?](../../transcriptions/yt-CB9bSigNYH8,2465.233333333333,2488.648026.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2465&end=2489](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2465&end=2489)
