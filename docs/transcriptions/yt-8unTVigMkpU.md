@@ -9,6 +9,12 @@ topics:
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## State of Dev: A lot of people on vacation (Part 1)
 https://www.youtube.com/watch?v=8unTVigMkpU
+<details>
+<summary>This video continues in another video</summary>
+
+* [August 3rd, 2021 Livestream State of Dev: A lot of people on vacation (Part 2)](./yt-WrLwZOzni3o.md) [https://www.youtube.com/watch?v=WrLwZOzni3o](https://www.youtube.com/watch?v=WrLwZOzni3o)
+</details>
+
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
