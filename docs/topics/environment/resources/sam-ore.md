@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## August 10th, 2021 Livestream
+* [Q&A: Is the S.A.M. Ore ever going to be useful?](../../../transcriptions/yt-7zXN4R-njHk.md) [https://www.youtube.com/watch?v=7zXN4R-njHk](https://www.youtube.com/watch?v=7zXN4R-njHk)
+* [Jace Talk: Community asking about S.A.M. Ore](../../../transcriptions/yt-EeygC5CqH1g.md) [https://www.youtube.com/watch?v=EeygC5CqH1g](https://www.youtube.com/watch?v=EeygC5CqH1g)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Has S.A.M. Ore been given a function yet?](../../../transcriptions/yt-VVYzPlbpSwM.md) [https://www.youtube.com/watch?v=VVYzPlbpSwM](https://www.youtube.com/watch?v=VVYzPlbpSwM)
 * [Q&A: Is it useful to mine S.A.M. Ore at the moment?](../../../transcriptions/yt-JM24GmqDQ8M.md) [https://www.youtube.com/watch?v=JM24GmqDQ8M](https://www.youtube.com/watch?v=JM24GmqDQ8M)

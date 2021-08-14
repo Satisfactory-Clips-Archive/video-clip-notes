@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## August 10th, 2021 Livestream
+* [Community FYI: Didn't know I had arachnophobia until I played this game](../../../transcriptions/yt-y4lTTsp9h9Q.md) [https://www.youtube.com/watch?v=y4lTTsp9h9Q](https://www.youtube.com/watch?v=y4lTTsp9h9Q)
+* [Jace Talk: Yeah, there is a crab](../../../transcriptions/yt--q2ppE6vZVU.md) [https://www.youtube.com/watch?v=-q2ppE6vZVU](https://www.youtube.com/watch?v=-q2ppE6vZVU)
+* [Q&A: Giant Crab near Paradies Island?](../../../transcriptions/yt-ortoJ5e3-vU.md) [https://www.youtube.com/watch?v=ortoJ5e3-vU](https://www.youtube.com/watch?v=ortoJ5e3-vU)
+* [Q&A: Will there be new alien forms of life?](../../../transcriptions/yt-9e3AzoHz4yI.md) [https://www.youtube.com/watch?v=9e3AzoHz4yI](https://www.youtube.com/watch?v=9e3AzoHz4yI)
+
 ## July 13th, 2021 Livestream
 * [Q&A: When Giant Crab?](../../../transcriptions/yt-Xl56Z8GO6-o.md) [https://www.youtube.com/watch?v=Xl56Z8GO6-o](https://www.youtube.com/watch?v=Xl56Z8GO6-o)
 * [Q&A: When will we see the Crab?](../../../transcriptions/yt-mZp1Zy4FX6k.md) [https://www.youtube.com/watch?v=mZp1Zy4FX6k](https://www.youtube.com/watch?v=mZp1Zy4FX6k)

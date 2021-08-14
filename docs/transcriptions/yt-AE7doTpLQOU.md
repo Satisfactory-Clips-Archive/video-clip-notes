@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Will there be Creative Mode?
 https://www.youtube.com/watch?v=AE7doTpLQOU
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Creative Mode?](./yt-vUd-XU0sTXo.md) [https://www.youtube.com/watch?v=vUd-XU0sTXo](https://www.youtube.com/watch?v=vUd-XU0sTXo)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Is there going to be a sandbox mode in Satisfactory?](./yt-xH1ucvjBDdA.md) [https://www.youtube.com/watch?v=xH1ucvjBDdA](https://www.youtube.com/watch?v=xH1ucvjBDdA)
 
 
 ### Topics

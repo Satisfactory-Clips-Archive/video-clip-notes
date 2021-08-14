@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## August 10th, 2021 Livestream
+* [State of Dev: Coffee Stainers returning from vacation](../../transcriptions/yt-cVBULNdIJlQ.md) [https://www.youtube.com/watch?v=cVBULNdIJlQ](https://www.youtube.com/watch?v=cVBULNdIJlQ)
+* [State of Dev: Update 5 Map Changes](../../transcriptions/yt-9iO2_2X7M2s.md) [https://www.youtube.com/watch?v=9iO2_2X7M2s](https://www.youtube.com/watch?v=9iO2_2X7M2s)
+
 ## August 3rd, 2021 Livestream
 * [State of Dev: A lot of people on vacation (Part 1)](../../transcriptions/yt-8unTVigMkpU.md) [https://www.youtube.com/watch?v=8unTVigMkpU](https://www.youtube.com/watch?v=8unTVigMkpU)
 

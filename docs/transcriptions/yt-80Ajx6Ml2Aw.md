@@ -8,7 +8,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Will there be a new body slot?
 https://www.youtube.com/watch?v=80Ajx6Ml2Aw
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any chance we can get another Body Slot?](./yt-UuhHtf0yr64.md) [https://www.youtube.com/watch?v=UuhHtf0yr64](https://www.youtube.com/watch?v=UuhHtf0yr64)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Will we be able to equip more than one item?](./yt-qiA_5oti7s8.md) [https://www.youtube.com/watch?v=qiA_5oti7s8](https://www.youtube.com/watch?v=qiA_5oti7s8)
 
 
 ### Topics

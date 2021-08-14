@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## August 10th, 2021 Livestream
+* [Q&A: Can we get MS Paint installed at The HUB?](../../../transcriptions/yt-oEz7zm8gldk.md) [https://www.youtube.com/watch?v=oEz7zm8gldk](https://www.youtube.com/watch?v=oEz7zm8gldk)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: How have you not made a "Hot Coffee" mini-game where you literally just make coffee?](../../../transcriptions/yt-sp0SRzvvDAc.md) [https://www.youtube.com/watch?v=sp0SRzvvDAc](https://www.youtube.com/watch?v=sp0SRzvvDAc)
 

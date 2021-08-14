@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## August 10th, 2021 Livestream
+* [Q&A: Is a second map planned for a few months after release?](../../transcriptions/yt-hpzqL7Ujefs.md) [https://www.youtube.com/watch?v=hpzqL7Ujefs](https://www.youtube.com/watch?v=hpzqL7Ujefs)
+* [Q&A: Equipment workshop Mk.2 for making mini-map?](../../transcriptions/yt-xKCeCVI8Htc.md) [https://www.youtube.com/watch?v=xKCeCVI8Htc](https://www.youtube.com/watch?v=xKCeCVI8Htc)
+* [Q&A: I do wish the map unlock was earlier in progression?](../../transcriptions/yt-YyNVHzk_OlQ.md) [https://www.youtube.com/watch?v=YyNVHzk_OlQ](https://www.youtube.com/watch?v=YyNVHzk_OlQ)
+
 ## July 20th, 2021 Livestream
 * [Q&A: My game 100% of the time lags at the same spots on the map, fix this please?](../../transcriptions/yt-JLedB89bE74.md) [https://www.youtube.com/watch?v=JLedB89bE74](https://www.youtube.com/watch?v=JLedB89bE74)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## August 10th, 2021 Livestream
+* Q&A: Is there much more to come from the AWESOME Shop? Floor holes? [https://www.youtube.com/watch?v=CEma7SsYMS8](https://www.youtube.com/watch?v=CEma7SsYMS8)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: Will Signs be in the AWESOME Shop?](../../../transcriptions/yt-FGSWvdPw8Uk.md) [https://www.youtube.com/watch?v=FGSWvdPw8Uk](https://www.youtube.com/watch?v=FGSWvdPw8Uk)
 

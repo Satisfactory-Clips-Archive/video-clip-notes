@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Aerial Travel
 
+## August 10th, 2021 Livestream
+* [Q&A: Could there ever be Drones or airplanes that we could fly or transport stuff with?](../../../transcriptions/yt-r8KwSMf7_kk.md) [https://www.youtube.com/watch?v=r8KwSMf7_kk](https://www.youtube.com/watch?v=r8KwSMf7_kk)
+* [Q&A: Flying Factory Cart, when?](../../../transcriptions/yt-N9-tzL5aozw.md) [https://www.youtube.com/watch?v=N9-tzL5aozw](https://www.youtube.com/watch?v=N9-tzL5aozw)
+* [Q&A: Flying Cyber Wagon?](../../../transcriptions/yt-MEubHHz2-Rw.md) [https://www.youtube.com/watch?v=MEubHHz2-Rw](https://www.youtube.com/watch?v=MEubHHz2-Rw)
+
 ## July 23rd, 2021 Livestream
 * [Q&A: Can we pilot Drones?](../../../transcriptions/yt-FyOHDcxtEUA,51.005634,64.1.md) [https://youtube.com/clip/UgwoWLQOb1xROLzSTph4AaABCQ](https://youtube.com/clip/UgwoWLQOb1xROLzSTph4AaABCQ)
 

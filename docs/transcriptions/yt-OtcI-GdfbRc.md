@@ -10,6 +10,8 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Are you going to add any more Alternative Recipes?
 https://www.youtube.com/watch?v=OtcI-GdfbRc
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Have you considered more Alternative Recipes?](./yt-2aOpQh44UV8.md) [https://www.youtube.com/watch?v=2aOpQh44UV8](https://www.youtube.com/watch?v=2aOpQh44UV8)
+
 
 ### Topics
 * [Features > Buildings > M.A.M.](../topics/features/buildings/m-a-m.md)

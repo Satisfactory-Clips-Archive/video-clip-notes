@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## August 10th, 2021 Livestream
+* [Q&A: Will there be an easter egg for the Doggos community?](../transcriptions/yt-iXoNsvLOpIA.md) [https://www.youtube.com/watch?v=iXoNsvLOpIA](https://www.youtube.com/watch?v=iXoNsvLOpIA)
+* [Q&A: I know Jace likes Portal, if you get Doggos near each other they could sing like the turrets?](../transcriptions/yt-LxR-pnwW_so.md) [https://www.youtube.com/watch?v=LxR-pnwW_so](https://www.youtube.com/watch?v=LxR-pnwW_so)
+
 ## July 6th, 2021 Livestream
 * Q&A: Have you all added Easter Eggs in the game that have not yet been discovered? [https://www.youtube.com/watch?v=aLNaD031GPw](https://www.youtube.com/watch?v=aLNaD031GPw)
 

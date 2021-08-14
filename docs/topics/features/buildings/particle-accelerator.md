@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Particle Accelerator
 
+## August 10th, 2021 Livestream
+* [Q&A: Would it be possible to craft Power Shards with the Particle Accelerator?](../../../transcriptions/yt-MKMFfY4DZlg.md) [https://www.youtube.com/watch?v=MKMFfY4DZlg](https://www.youtube.com/watch?v=MKMFfY4DZlg)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Will there be an option to craft low-tier items faster in the Particle Accelerator?](../../../transcriptions/yt-KVnmJKVYqZE.md) [https://www.youtube.com/watch?v=KVnmJKVYqZE](https://www.youtube.com/watch?v=KVnmJKVYqZE)
 

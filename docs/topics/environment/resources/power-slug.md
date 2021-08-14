@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## August 10th, 2021 Livestream
+* [Q&A: Would it be possible to craft Power Shards with the Particle Accelerator?](../../../transcriptions/yt-MKMFfY4DZlg.md) [https://www.youtube.com/watch?v=MKMFfY4DZlg](https://www.youtube.com/watch?v=MKMFfY4DZlg)
+
 ## July 6th, 2021 Livestream
 * [Q&A: I need someone to collect slugs in my game, do you provide that service?](../../../transcriptions/yt-mmwKyAUI6q8.md) [https://www.youtube.com/watch?v=mmwKyAUI6q8](https://www.youtube.com/watch?v=mmwKyAUI6q8)
 

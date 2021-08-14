@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## August 10th, 2021 Livestream
+* [Q&A: Can Jace tease or Troll us?](../transcriptions/yt-_M2lFTR8Xh0.md) [https://www.youtube.com/watch?v=_M2lFTR8Xh0](https://www.youtube.com/watch?v=_M2lFTR8Xh0)
+* [Q&A: Will Trains collide with Toilets?](../transcriptions/yt-ioPXHnpubzQ.md) [https://www.youtube.com/watch?v=ioPXHnpubzQ](https://www.youtube.com/watch?v=ioPXHnpubzQ)
+
 ## August 3rd, 2021 Livestream
 * Q&A: When's Update 6? [https://www.youtube.com/watch?v=idUzu51pIKQ](https://www.youtube.com/watch?v=idUzu51pIKQ)
 

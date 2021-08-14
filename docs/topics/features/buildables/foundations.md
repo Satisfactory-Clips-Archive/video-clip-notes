@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Can we get giant propeller attachments for platforms, so floating platforms don't look so odd?](../../../transcriptions/yt-vq7blLuSJ2w.md) [https://www.youtube.com/watch?v=vq7blLuSJ2w](https://www.youtube.com/watch?v=vq7blLuSJ2w)
+
 ## July 13th, 2021 Livestream
 * [Q&A: When will we have fences for ramps?](../../../transcriptions/yt-t8yHcCZPSF4.md) [https://www.youtube.com/watch?v=t8yHcCZPSF4](https://www.youtube.com/watch?v=t8yHcCZPSF4)
 * [Q&A: Would you circular Foundations in base game rather than using tricks from YouTube?](../../../transcriptions/yt-WvzJo6P-rNY.md) [https://www.youtube.com/watch?v=WvzJo6P-rNY](https://www.youtube.com/watch?v=WvzJo6P-rNY)

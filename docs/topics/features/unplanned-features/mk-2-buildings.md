@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Unplanned Features > Mk.2 Buildings
 
+## August 10th, 2021 Livestream
+* [Q&A: Will we ever get a Mk.2 Constructor?](../../../transcriptions/yt-lTmi7l3XfEI.md) [https://www.youtube.com/watch?v=lTmi7l3XfEI](https://www.youtube.com/watch?v=lTmi7l3XfEI)
+* [Q&A: Equipment workshop Mk.2 for making mini-map?](../../../transcriptions/yt-xKCeCVI8Htc.md) [https://www.youtube.com/watch?v=xKCeCVI8Htc](https://www.youtube.com/watch?v=xKCeCVI8Htc)
+* [Jace Talk: Mk.2 Buildings](../../../transcriptions/yt-6knOOQ2SgJI.md) [https://www.youtube.com/watch?v=6knOOQ2SgJI](https://www.youtube.com/watch?v=6knOOQ2SgJI)
+
 ## June 29th, 2021 Livestream
 * [Snutt & Jace Talk: Mk.2 Machines](../../../transcriptions/yt-YyKF72R1MQA.md) [https://www.youtube.com/watch?v=YyKF72R1MQA](https://www.youtube.com/watch?v=YyKF72R1MQA)
 

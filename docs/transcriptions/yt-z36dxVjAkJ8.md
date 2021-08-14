@@ -8,6 +8,8 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Can we get an autorun button?
 https://www.youtube.com/watch?v=z36dxVjAkJ8
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: An auto-run button would be nice?](./yt-o4EJeHpS7RM.md) [https://www.youtube.com/watch?v=o4EJeHpS7RM](https://www.youtube.com/watch?v=o4EJeHpS7RM)
+
 
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)

@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
 
+## August 10th, 2021 Livestream
+* [Q&A: When is flushing DLC coming?](../../../../transcriptions/yt-btTUPx2DUAk.md) [https://www.youtube.com/watch?v=btTUPx2DUAk](https://www.youtube.com/watch?v=btTUPx2DUAk)
+* [Q&A: WTF is Flushing DLC?](../../../../transcriptions/yt-xQKyWQJs50Y.md) [https://www.youtube.com/watch?v=xQKyWQJs50Y](https://www.youtube.com/watch?v=xQKyWQJs50Y)
+* [Q&A: $1 per flush?](../../../../transcriptions/yt-2z5tA7_oN7s.md) [https://www.youtube.com/watch?v=2z5tA7_oN7s](https://www.youtube.com/watch?v=2z5tA7_oN7s)
+* [Q&A: Why would I spend $1 if I could just build Gas Mask?](../../../../transcriptions/yt-QrOJ_rZvb7M.md) [https://www.youtube.com/watch?v=QrOJ_rZvb7M](https://www.youtube.com/watch?v=QrOJ_rZvb7M)
+* [Q&A: Will Trains collide with Toilets?](../../../../transcriptions/yt-ioPXHnpubzQ.md) [https://www.youtube.com/watch?v=ioPXHnpubzQ](https://www.youtube.com/watch?v=ioPXHnpubzQ)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Will there be a proper use for the toilet in The HUB one day?](../../../../transcriptions/yt-MW1lkjm7g3U.md) [https://www.youtube.com/watch?v=MW1lkjm7g3U](https://www.youtube.com/watch?v=MW1lkjm7g3U)
 

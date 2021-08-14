@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: We need Battleships?
 https://www.youtube.com/watch?v=VaEaP9IBe08
-This question was possibly duplicated with a more recent answer: July 13th, 2021 Livestream Q&A: Ocean vessels? [https://www.youtube.com/watch?v=l7Pb9atvuRs](https://www.youtube.com/watch?v=l7Pb9atvuRs)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Boats?](./yt-Kkr3alKdef0.md) [https://www.youtube.com/watch?v=Kkr3alKdef0](https://www.youtube.com/watch?v=Kkr3alKdef0)
 
 
 ### Topics

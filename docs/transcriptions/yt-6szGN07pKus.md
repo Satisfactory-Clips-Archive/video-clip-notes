@@ -9,12 +9,7 @@ topics:
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: What sort of size will Update 5 be compared to Update 4?
 https://www.youtube.com/watch?v=6szGN07pKus
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as July 2021 and as early as June 2021.</summary>
-
-* July 6th, 2021 Livestream Q&A: Will Update 5 be bigger than Update 4? [https://www.youtube.com/watch?v=3Ad-13NANOg](https://www.youtube.com/watch?v=3Ad-13NANOg)
-* [June 15th, 2021 Livestream Q&A: Is Update 5 still shaping up to be the same size as Update 4?](./yt-i-QNHs4CWgc.md) [https://www.youtube.com/watch?v=i-QNHs4CWgc](https://www.youtube.com/watch?v=i-QNHs4CWgc)
-</details>
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Is Update 5 bigger than Update 4?](./yt-HOtX8hK6Lxg.md) [https://www.youtube.com/watch?v=HOtX8hK6Lxg](https://www.youtube.com/watch?v=HOtX8hK6Lxg)
 
 
 ### Topics

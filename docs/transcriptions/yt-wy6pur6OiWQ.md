@@ -8,7 +8,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: What are the next Release planned dates?
 https://www.youtube.com/watch?v=wy6pur6OiWQ
-This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Is there an estimated release date?](./yt-93grprYOrqg.md) [https://www.youtube.com/watch?v=93grprYOrqg](https://www.youtube.com/watch?v=93grprYOrqg)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Will there be another game Update this month or next month?](./yt-RFBNUCRN7cE.md) [https://www.youtube.com/watch?v=RFBNUCRN7cE](https://www.youtube.com/watch?v=RFBNUCRN7cE)
 
 
 ### Topics

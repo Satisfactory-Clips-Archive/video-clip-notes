@@ -8,6 +8,9 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Any chance of a Craft Bench or Workshop Train cart?](../../transcriptions/yt-wiS1sjSEt9g.md) [https://www.youtube.com/watch?v=wiS1sjSEt9g](https://www.youtube.com/watch?v=wiS1sjSEt9g)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Can we get a way to skip certain stages for new playthroughs?](../../transcriptions/yt-DE_UxFAQUm0.md) [https://www.youtube.com/watch?v=DE_UxFAQUm0](https://www.youtube.com/watch?v=DE_UxFAQUm0)
 * [Q&A: Will there be an option to craft low-tier items faster in the Particle Accelerator?](../../transcriptions/yt-KVnmJKVYqZE.md) [https://www.youtube.com/watch?v=KVnmJKVYqZE](https://www.youtube.com/watch?v=KVnmJKVYqZE)

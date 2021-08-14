@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## August 10th, 2021 Livestream
+* [Q&A: Automatic Doors?](../../../transcriptions/yt-9Mb3uFjYEqw.md) [https://www.youtube.com/watch?v=9Mb3uFjYEqw](https://www.youtube.com/watch?v=9Mb3uFjYEqw)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Do Walls improve rendering?](../../../transcriptions/yt-nRYObYdENUQ.md) [https://www.youtube.com/watch?v=nRYObYdENUQ](https://www.youtube.com/watch?v=nRYObYdENUQ)
 

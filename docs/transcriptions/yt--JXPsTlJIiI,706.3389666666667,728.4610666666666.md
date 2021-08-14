@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Are there plans for mass building foundation and walls?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=706&end=729
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Will there be a Smart!-similar system for Update 5?](./yt-s1AawKfPvK0.md) [https://www.youtube.com/watch?v=s1AawKfPvK0](https://www.youtube.com/watch?v=s1AawKfPvK0)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Tools for massive builds like Smart! mod ?](./yt-A2dxY3Nl3Ew.md) [https://www.youtube.com/watch?v=A2dxY3Nl3Ew](https://www.youtube.com/watch?v=A2dxY3Nl3Ew)
 
 
 ### Topics

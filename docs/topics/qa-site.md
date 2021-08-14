@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## August 10th, 2021 Livestream
+* [Q&A: Are people still checking the QA Site daily with everyone on vacation?](../transcriptions/yt-4pvmXbqHYZk.md) [https://www.youtube.com/watch?v=4pvmXbqHYZk](https://www.youtube.com/watch?v=4pvmXbqHYZk)
+* Q&A: Is it possible to make a bug report with pictures? [https://www.youtube.com/watch?v=K7Mbmuyhsxg](https://www.youtube.com/watch?v=K7Mbmuyhsxg)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Any plans to update the QA site?](../transcriptions/yt-6RZ-shXYnEg.md) [https://www.youtube.com/watch?v=6RZ-shXYnEg](https://www.youtube.com/watch?v=6RZ-shXYnEg)
 * Q&A: Do downvotes count double? [https://www.youtube.com/watch?v=5c9z6-vXkPs](https://www.youtube.com/watch?v=5c9z6-vXkPs)

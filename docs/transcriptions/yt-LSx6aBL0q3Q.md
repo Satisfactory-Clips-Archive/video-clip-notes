@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do you ever get the feeling the game will be put aside and never leave Early Access?
 https://www.youtube.com/watch?v=LSx6aBL0q3Q
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Do you have an approximate timeline for when 1.0 will be ready?](./yt-JV12w3UZIHE.md) [https://www.youtube.com/watch?v=JV12w3UZIHE](https://www.youtube.com/watch?v=JV12w3UZIHE)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Is there a goal date that you want the game finished?](./yt-_VPyUP6E2pE.md) [https://www.youtube.com/watch?v=_VPyUP6E2pE](https://www.youtube.com/watch?v=_VPyUP6E2pE)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > [THQ Nordic](../../../topics/embracer-group/thq-nordic.md) > Lars
 
+## August 10th, 2021 Livestream
+* [Q&A: Does Lars not make you not indie?](../../../transcriptions/yt-NZaGL-Zjl0o.md) [https://www.youtube.com/watch?v=NZaGL-Zjl0o](https://www.youtube.com/watch?v=NZaGL-Zjl0o)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Q&A: Lars telling you to smile = lol- whose idea was that?](../../../transcriptions/yt-NmBjitrYGZk.md) [https://www.youtube.com/watch?v=NmBjitrYGZk](https://www.youtube.com/watch?v=NmBjitrYGZk)
 

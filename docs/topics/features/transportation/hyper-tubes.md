@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Transportation > Hyper Tubes
 
+## August 10th, 2021 Livestream
+* [Q&A: How about a Hyper Tube exit?](../../../transcriptions/yt-dj0DJuAQAxo.md) [https://www.youtube.com/watch?v=dj0DJuAQAxo](https://www.youtube.com/watch?v=dj0DJuAQAxo)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Are there plans for faster World travel?](../../../transcriptions/yt-a5r7Mm3H7zc.md) [https://www.youtube.com/watch?v=a5r7Mm3H7zc](https://www.youtube.com/watch?v=a5r7Mm3H7zc)
 

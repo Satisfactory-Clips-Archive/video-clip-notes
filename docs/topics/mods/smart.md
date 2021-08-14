@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Smart!
 
+## August 10th, 2021 Livestream
+* [Q&A: Tools for massive builds like Smart! mod ?](../../transcriptions/yt-A2dxY3Nl3Ew.md) [https://www.youtube.com/watch?v=A2dxY3Nl3Ew](https://www.youtube.com/watch?v=A2dxY3Nl3Ew)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Will there be a Smart!-similar system for Update 5?](../../transcriptions/yt-s1AawKfPvK0.md) [https://www.youtube.com/watch?v=s1AawKfPvK0](https://www.youtube.com/watch?v=s1AawKfPvK0)
 

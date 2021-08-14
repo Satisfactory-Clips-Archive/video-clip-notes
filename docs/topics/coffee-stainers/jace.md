@@ -7,6 +7,14 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Is it easier to be on time without Snutt?](../../transcriptions/yt-HtAZQN9T8so.md) [https://www.youtube.com/watch?v=HtAZQN9T8so](https://www.youtube.com/watch?v=HtAZQN9T8so)
+* [Q&A: Why does Jace look like Philipp Kirkorov](../../transcriptions/yt-zZhtKTWcxg8.md) [https://www.youtube.com/watch?v=zZhtKTWcxg8](https://www.youtube.com/watch?v=zZhtKTWcxg8)
+* [Q&A: Will there be a Jace mob?](../../transcriptions/yt-bkv73fUWgD8.md) [https://www.youtube.com/watch?v=bkv73fUWgD8](https://www.youtube.com/watch?v=bkv73fUWgD8)
+* [Q&A: Are you full-time Community Manager now, or still Developing?](../../transcriptions/yt-wB-swgOSD0Q.md) [https://www.youtube.com/watch?v=wB-swgOSD0Q](https://www.youtube.com/watch?v=wB-swgOSD0Q)
+* [Q&A: How is Jace feeling?](../../transcriptions/yt-476NXSQVuK0.md) [https://www.youtube.com/watch?v=476NXSQVuK0](https://www.youtube.com/watch?v=476NXSQVuK0)
+* [Jace Talk: Gyoza](../../transcriptions/yt-bY80dkTfPc0.md) [https://www.youtube.com/watch?v=bY80dkTfPc0](https://www.youtube.com/watch?v=bY80dkTfPc0)
+
 ## August 3rd, 2021 Livestream
 * [Community: Usual saying with Updates is "Your factories will be mega broken"](../../transcriptions/yt-d5naZ7yeDw8.md) [https://www.youtube.com/watch?v=d5naZ7yeDw8](https://www.youtube.com/watch?v=d5naZ7yeDw8)
 * [Jace & Hannah Talk: Flannel Cosplay](../../transcriptions/yt-M1tUfWB30GQ.md) [https://www.youtube.com/watch?v=M1tUfWB30GQ](https://www.youtube.com/watch?v=M1tUfWB30GQ)

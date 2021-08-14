@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Creative Mode
 
+## August 10th, 2021 Livestream
+* [Q&A: Is there going to be a sandbox mode in Satisfactory?](../../../../transcriptions/yt-xH1ucvjBDdA.md) [https://www.youtube.com/watch?v=xH1ucvjBDdA](https://www.youtube.com/watch?v=xH1ucvjBDdA)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Creative Mode?](../../../../transcriptions/yt-vUd-XU0sTXo.md) [https://www.youtube.com/watch?v=vUd-XU0sTXo](https://www.youtube.com/watch?v=vUd-XU0sTXo)
 

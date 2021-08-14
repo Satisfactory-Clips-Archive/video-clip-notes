@@ -8,7 +8,7 @@ topics:
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Will we use S.A.M. Ore for something?
 https://www.youtube.com/watch?v=y8zrEB5BiwQ
-This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Has S.A.M. Ore been given a function yet?](./yt-VVYzPlbpSwM.md) [https://www.youtube.com/watch?v=VVYzPlbpSwM](https://www.youtube.com/watch?v=VVYzPlbpSwM)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Is the S.A.M. Ore ever going to be useful?](./yt-7zXN4R-njHk.md) [https://www.youtube.com/watch?v=7zXN4R-njHk](https://www.youtube.com/watch?v=7zXN4R-njHk)
 
 
 ### Topics

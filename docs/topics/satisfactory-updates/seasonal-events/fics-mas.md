@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## August 10th, 2021 Livestream
+* [Q&A: Will FICS⁕MAS be different or the same as last year?](../../../transcriptions/yt-VeD6hOmySbE.md) [https://www.youtube.com/watch?v=VeD6hOmySbE](https://www.youtube.com/watch?v=VeD6hOmySbE)
+* [Q&A: Could recycle the old FICS⁕MAS from last year?](../../../transcriptions/yt-pt-jn5xUdhk.md) [https://www.youtube.com/watch?v=pt-jn5xUdhk](https://www.youtube.com/watch?v=pt-jn5xUdhk)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Are you going to fix the FICS⁕MAS Basher so you can hit enemies with it again?](../../../transcriptions/yt-rZ_ZrEDqUW8.md) [https://www.youtube.com/watch?v=rZ_ZrEDqUW8](https://www.youtube.com/watch?v=rZ_ZrEDqUW8)
 

@@ -9,7 +9,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Update on Cup Merch?
 https://www.youtube.com/watch?v=EwycHQo44KE
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Mug?](./yt-c6X2qE0ou1M.md) [https://www.youtube.com/watch?v=c6X2qE0ou1M](https://www.youtube.com/watch?v=c6X2qE0ou1M)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: What is with the Mug?](./yt-X6tO45Qd-GI.md) [https://www.youtube.com/watch?v=X6tO45Qd-GI](https://www.youtube.com/watch?v=X6tO45Qd-GI)
 
 
 ### Topics

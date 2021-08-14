@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## August 10th, 2021 Livestream
+* [Q&A: Have you considered more Alternative Recipes?](../../../../transcriptions/yt-2aOpQh44UV8.md) [https://www.youtube.com/watch?v=2aOpQh44UV8](https://www.youtube.com/watch?v=2aOpQh44UV8)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Any plans on making Crash Sites deconstructible after Hard Drive has been retrieved?](../../../../transcriptions/yt-zz7h3PhhWAg.md) [https://www.youtube.com/watch?v=zz7h3PhhWAg](https://www.youtube.com/watch?v=zz7h3PhhWAg)
 

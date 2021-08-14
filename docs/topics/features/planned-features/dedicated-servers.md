@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## August 10th, 2021 Livestream
+* [Q&A: Was there an actual ETA on Dedicated Servers?](../../../transcriptions/yt-_W5YNDh8nCY.md) [https://www.youtube.com/watch?v=_W5YNDh8nCY](https://www.youtube.com/watch?v=_W5YNDh8nCY)
+* [Q&A: How big is the list of issues you need to resolve before Dedicated Servers are viable?](../../../transcriptions/yt-Nqfx6sRRwW8.md) [https://www.youtube.com/watch?v=Nqfx6sRRwW8](https://www.youtube.com/watch?v=Nqfx6sRRwW8)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Dedicated Servers?](../../../transcriptions/yt-RL544J64HsY.md) [https://www.youtube.com/watch?v=RL544J64HsY](https://www.youtube.com/watch?v=RL544J64HsY)
 * [Q&A: Any updates about Dedicated Servers?](../../../transcriptions/yt-GYn_hCVhVlo.md) [https://www.youtube.com/watch?v=GYn_hCVhVlo](https://www.youtube.com/watch?v=GYn_hCVhVlo)

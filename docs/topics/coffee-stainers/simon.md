@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Simon
 * [Simon Saga](../../topics/coffee-stainers/simon/simon-saga.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: It is a myth that you can finish Satisfactory in 1000 hours? (Part 2)](../../transcriptions/yt-F00TKCiz4RY.md) [https://www.youtube.com/watch?v=F00TKCiz4RY](https://www.youtube.com/watch?v=F00TKCiz4RY)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Is Simon going to delay the next Update?](../../transcriptions/yt-hanQne_890c.md) [https://www.youtube.com/watch?v=hanQne_890c](https://www.youtube.com/watch?v=hanQne_890c)
 * [Q&A: How do you handle optimising VFX in Satisfactory?](../../transcriptions/yt-7Ac-r21T8uI.md) [https://www.youtube.com/watch?v=7Ac-r21T8uI](https://www.youtube.com/watch?v=7Ac-r21T8uI)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Flannel
 
+## August 10th, 2021 Livestream
+* [Q&A: Where's the Flannel?](../../transcriptions/yt-L410e2quLJA.md) [https://www.youtube.com/watch?v=L410e2quLJA](https://www.youtube.com/watch?v=L410e2quLJA)
+
 ## August 3rd, 2021 Livestream
 * [Jace & Hannah Talk: Flannel Cosplay](../../transcriptions/yt-M1tUfWB30GQ.md) [https://www.youtube.com/watch?v=M1tUfWB30GQ](https://www.youtube.com/watch?v=M1tUfWB30GQ)
 * [Q&A: Are you two wearing the same flannel?](../../transcriptions/yt-5bMEBEraqQE.md) [https://www.youtube.com/watch?v=5bMEBEraqQE](https://www.youtube.com/watch?v=5bMEBEraqQE)

@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Equipment workshop Mk.2 for making mini-map?](../../transcriptions/yt-xKCeCVI8Htc.md) [https://www.youtube.com/watch?v=xKCeCVI8Htc](https://www.youtube.com/watch?v=xKCeCVI8Htc)
+* [Q&A: An auto-run button would be nice?](../../transcriptions/yt-o4EJeHpS7RM.md) [https://www.youtube.com/watch?v=o4EJeHpS7RM](https://www.youtube.com/watch?v=o4EJeHpS7RM)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Does the read-out on machines have a purpose?](../../transcriptions/yt-Kq1yKGpbExM.md) [https://www.youtube.com/watch?v=Kq1yKGpbExM](https://www.youtube.com/watch?v=Kq1yKGpbExM)
 

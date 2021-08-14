@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf
 
+## August 10th, 2021 Livestream
+* [Jace Talk: Golf (Part 1)](../../../transcriptions/yt-ejFvm7ESxk0.md) [https://www.youtube.com/watch?v=ejFvm7ESxk0](https://www.youtube.com/watch?v=ejFvm7ESxk0)
+* [Jace Talk: Golf (Part 2)](../../../transcriptions/yt-K5YpKYuj2W0.md) [https://www.youtube.com/watch?v=K5YpKYuj2W0](https://www.youtube.com/watch?v=K5YpKYuj2W0)
+* [Jace Talk: Golf (Part 3)](../../../transcriptions/yt-_puACB8clXQ.md) [https://www.youtube.com/watch?v=_puACB8clXQ](https://www.youtube.com/watch?v=_puACB8clXQ)
+* [Jace Talk: Golf (Part 4)](../../../transcriptions/yt-JvloiZrUmgs.md) [https://www.youtube.com/watch?v=JvloiZrUmgs](https://www.youtube.com/watch?v=JvloiZrUmgs)
+* [Jace Talk: Golf (Part 5)](../../../transcriptions/yt-1YsAHChZmrs.md) [https://www.youtube.com/watch?v=1YsAHChZmrs](https://www.youtube.com/watch?v=1YsAHChZmrs)
+* [Jace Talk: Golf (Part 6)](../../../transcriptions/yt-SN1SSlPdSUo.md) [https://www.youtube.com/watch?v=SN1SSlPdSUo](https://www.youtube.com/watch?v=SN1SSlPdSUo)
+* [Jace Talk: Golf (Part 7)](../../../transcriptions/yt-DFibHuakmB0.md) [https://www.youtube.com/watch?v=DFibHuakmB0](https://www.youtube.com/watch?v=DFibHuakmB0)
+
 ## August 3rd, 2021 Livestream
 * Q&A: Golf Biome? [https://www.youtube.com/watch?v=ItA7tWo8dsc](https://www.youtube.com/watch?v=ItA7tWo8dsc)
 * [Q&A: Ice Golf Biome?](../../../transcriptions/yt-R8E41fHzIkg.md) [https://www.youtube.com/watch?v=R8E41fHzIkg](https://www.youtube.com/watch?v=R8E41fHzIkg)

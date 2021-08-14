@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## August 10th, 2021 Livestream
+* [Q&A: Soundtrack that I can buy from Steam?](../transcriptions/yt-VlJsz3lP4qo.md) [https://www.youtube.com/watch?v=VlJsz3lP4qo](https://www.youtube.com/watch?v=VlJsz3lP4qo)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Will the soundtrack be released on Spotify?](../transcriptions/yt-HCcWGBc_lDo.md) [https://www.youtube.com/watch?v=HCcWGBc_lDo](https://www.youtube.com/watch?v=HCcWGBc_lDo)
 

@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Any chance of a Craft Bench or Workshop Train cart?](../../../transcriptions/yt-wiS1sjSEt9g.md) [https://www.youtube.com/watch?v=wiS1sjSEt9g](https://www.youtube.com/watch?v=wiS1sjSEt9g)
+* [Q&A: Any chance the tracks will have a change so they work better at intersections/switch points?](../../../transcriptions/yt-JqvA3qyHS2g.md) [https://www.youtube.com/watch?v=JqvA3qyHS2g](https://www.youtube.com/watch?v=JqvA3qyHS2g)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Can Trains & cars have the same throughput that Drones have?](../../../transcriptions/yt-KrFS-sBw9U4.md) [https://www.youtube.com/watch?v=KrFS-sBw9U4](https://www.youtube.com/watch?v=KrFS-sBw9U4)
 * [Q&A: Why do call them "timetables" when they don't track time?](../../../transcriptions/yt-MUDbv61nCQ0.md) [https://www.youtube.com/watch?v=MUDbv61nCQ0](https://www.youtube.com/watch?v=MUDbv61nCQ0)

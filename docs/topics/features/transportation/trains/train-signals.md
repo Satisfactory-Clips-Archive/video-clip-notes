@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## August 10th, 2021 Livestream
+* [Q&A: Will you change Train collisions?](../../../../transcriptions/yt-Naz8-MfIlZI.md) [https://www.youtube.com/watch?v=Naz8-MfIlZI](https://www.youtube.com/watch?v=Naz8-MfIlZI)
+* [Q&A: What can you tell about Train Update, will it be more than just collisions?](../../../../transcriptions/yt-tCsNeadKzLU.md) [https://www.youtube.com/watch?v=tCsNeadKzLU](https://www.youtube.com/watch?v=tCsNeadKzLU)
+* [Q&A: Gonna hurt your 1000 hour save?](../../../../transcriptions/yt-C4n6x_JOdP8.md) [https://www.youtube.com/watch?v=C4n6x_JOdP8](https://www.youtube.com/watch?v=C4n6x_JOdP8)
+* [Q&A: Will Trains collide with Toilets?](../../../../transcriptions/yt-ioPXHnpubzQ.md) [https://www.youtube.com/watch?v=ioPXHnpubzQ](https://www.youtube.com/watch?v=ioPXHnpubzQ)
+
 ## July 20th, 2021 Livestream
 * [Q&A: How's progress on Train Signals & collisions?](../../../../transcriptions/yt-nKGDe2SsRWA.md) [https://www.youtube.com/watch?v=nKGDe2SsRWA](https://www.youtube.com/watch?v=nKGDe2SsRWA)
 * [Q&A: Are other things that currently clip in the game going to change other than Trains?](../../../../transcriptions/yt-dck7gUAnjt4.md) [https://www.youtube.com/watch?v=dck7gUAnjt4](https://www.youtube.com/watch?v=dck7gUAnjt4)

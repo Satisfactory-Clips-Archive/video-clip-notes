@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## August 10th, 2021 Livestream
+* [State of Dev: Update 5 Map Changes](../../transcriptions/yt-9iO2_2X7M2s.md) [https://www.youtube.com/watch?v=9iO2_2X7M2s](https://www.youtube.com/watch?v=9iO2_2X7M2s)
+
 ## August 6th, 2021 Livestream
 * [Jace Talk: Northern Forest is getting a rework](../../transcriptions/yt-MxvGbCCc6DI,72.60586666666667,127.39393333333334.md) [https://youtube.com/clip/Ugxg09eDw0herz-p4bF4AaABCQ](https://youtube.com/clip/Ugxg09eDw0herz-p4bF4AaABCQ)
 * [Jace Talk: Northern Forest feedback](../../transcriptions/yt-MxvGbCCc6DI,127.4273,272.4388333333333.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=127&end=273](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=127&end=273)

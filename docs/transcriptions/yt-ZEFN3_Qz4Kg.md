@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Off-road Motorbike?
 https://www.youtube.com/watch?v=ZEFN3_Qz4Kg
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Will you add bikes?](./yt-rEjEJpuqsus.md) [https://www.youtube.com/watch?v=rEjEJpuqsus](https://www.youtube.com/watch?v=rEjEJpuqsus)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Let's get a bicycle?](./yt-0ajNSKl4azA.md) [https://www.youtube.com/watch?v=0ajNSKl4azA](https://www.youtube.com/watch?v=0ajNSKl4azA)
 
 
 ### Topics

@@ -10,7 +10,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Have you considered something like the Smart! mod for foundations?
 https://www.youtube.com/watch?v=kZtseQMvMvo
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Will there be a Smart!-similar system for Update 5?](./yt-s1AawKfPvK0.md) [https://www.youtube.com/watch?v=s1AawKfPvK0](https://www.youtube.com/watch?v=s1AawKfPvK0)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Tools for massive builds like Smart! mod ?](./yt-A2dxY3Nl3Ew.md) [https://www.youtube.com/watch?v=A2dxY3Nl3Ew](https://www.youtube.com/watch?v=A2dxY3Nl3Ew)
 
 
 ### Topics

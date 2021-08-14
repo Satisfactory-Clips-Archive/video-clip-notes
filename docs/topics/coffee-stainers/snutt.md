@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Is it easier to be on time without Snutt?](../../transcriptions/yt-HtAZQN9T8so.md) [https://www.youtube.com/watch?v=HtAZQN9T8so](https://www.youtube.com/watch?v=HtAZQN9T8so)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Are things moving faster with Snutt on vacation?](../../transcriptions/yt--GUsWpxhZzg.md) [https://www.youtube.com/watch?v=-GUsWpxhZzg](https://www.youtube.com/watch?v=-GUsWpxhZzg)
 

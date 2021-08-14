@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## August 10th, 2021 Livestream
+* [Jace Talk: Golf (Part 4)](../../transcriptions/yt-JvloiZrUmgs.md) [https://www.youtube.com/watch?v=JvloiZrUmgs](https://www.youtube.com/watch?v=JvloiZrUmgs)
+* [Jace Talk: Golf (Part 5)](../../transcriptions/yt-1YsAHChZmrs.md) [https://www.youtube.com/watch?v=1YsAHChZmrs](https://www.youtube.com/watch?v=1YsAHChZmrs)
+
 ## August 3rd, 2021 Livestream
 * [Jace & Hannah Talk: Hannah is as old as Lara Croft](../../transcriptions/yt-j4oTKsvhtmA.md) [https://www.youtube.com/watch?v=j4oTKsvhtmA](https://www.youtube.com/watch?v=j4oTKsvhtmA)
 * [Jace & Hannah Talk: Food Court, no fish allowed](../../transcriptions/yt-k6bndNMxxdE.md) [https://www.youtube.com/watch?v=k6bndNMxxdE](https://www.youtube.com/watch?v=k6bndNMxxdE)

@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: How many more updates will you publish before launch](../transcriptions/yt-V9vVWjA75-0.md) [https://www.youtube.com/watch?v=V9vVWjA75-0](https://www.youtube.com/watch?v=V9vVWjA75-0)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: What's Jace's favourite announced feature?](../transcriptions/yt-MItwXiMzElM.md) [https://www.youtube.com/watch?v=MItwXiMzElM](https://www.youtube.com/watch?v=MItwXiMzElM)
 * [Q&A: Do you relish holding back these secrets?](../transcriptions/yt-_Lp0i6edRnY.md) [https://www.youtube.com/watch?v=_Lp0i6edRnY](https://www.youtube.com/watch?v=_Lp0i6edRnY)

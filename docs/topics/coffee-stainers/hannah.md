@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 * [Coffee Stainers can't pronounce Hannah's last name](../../topics/coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 
+## August 10th, 2021 Livestream
+* [Community FYI: Should ask Hannah](../../transcriptions/yt-PHKMuNslxYY.md) [https://www.youtube.com/watch?v=PHKMuNslxYY](https://www.youtube.com/watch?v=PHKMuNslxYY)
+
 ## August 3rd, 2021 Livestream
 * [Jace & Hannah Talk: Flannel Cosplay](../../transcriptions/yt-M1tUfWB30GQ.md) [https://www.youtube.com/watch?v=M1tUfWB30GQ](https://www.youtube.com/watch?v=M1tUfWB30GQ)
 * [Community FYI: Jace shaved](../../transcriptions/yt-S5KvicTkt3w.md) [https://www.youtube.com/watch?v=S5KvicTkt3w](https://www.youtube.com/watch?v=S5KvicTkt3w)

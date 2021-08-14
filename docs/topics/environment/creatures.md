@@ -10,6 +10,11 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Will there be a Jace mob?](../../transcriptions/yt-bkv73fUWgD8.md) [https://www.youtube.com/watch?v=bkv73fUWgD8](https://www.youtube.com/watch?v=bkv73fUWgD8)
+* [Q&A: Will there be new alien forms of life?](../../transcriptions/yt-9e3AzoHz4yI.md) [https://www.youtube.com/watch?v=9e3AzoHz4yI](https://www.youtube.com/watch?v=9e3AzoHz4yI)
+* [Q&A: Newgame+ where you keep your factory but all monsters respawn and hunt you across the map](../../transcriptions/yt-dTd1HNZxWrE.md) [https://www.youtube.com/watch?v=dTd1HNZxWrE](https://www.youtube.com/watch?v=dTd1HNZxWrE)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Can we have stronger monsters in the game, at Tier 5/6 they hardly challenge you in building](../../transcriptions/yt-CjX7Sti2AJo.md) [https://www.youtube.com/watch?v=CjX7Sti2AJo](https://www.youtube.com/watch?v=CjX7Sti2AJo)
 

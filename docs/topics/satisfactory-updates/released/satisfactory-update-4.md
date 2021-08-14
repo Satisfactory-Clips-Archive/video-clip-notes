@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## August 10th, 2021 Livestream
+* [Q&A: Is Update 5 bigger than Update 4?](../../../transcriptions/yt-HOtX8hK6Lxg.md) [https://www.youtube.com/watch?v=HOtX8hK6Lxg](https://www.youtube.com/watch?v=HOtX8hK6Lxg)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Was there a change in the eastern Dune Desert between Update 3 and Update 4?](../../../transcriptions/yt-yu5hKyAsHFU.md) [https://www.youtube.com/watch?v=yu5hKyAsHFU](https://www.youtube.com/watch?v=yu5hKyAsHFU)
 * [Q&A: Favourite addition from Update 4?](../../../transcriptions/yt-wUURn7xPIto.md) [https://www.youtube.com/watch?v=wUURn7xPIto](https://www.youtube.com/watch?v=wUURn7xPIto)

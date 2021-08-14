@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## August 10th, 2021 Livestream
+* [Q&A: Do you like Mods? Is it something that helps you with the development of the game?](../../transcriptions/yt-9s-7Ipd_EE4.md) [https://www.youtube.com/watch?v=9s-7Ipd_EE4](https://www.youtube.com/watch?v=9s-7Ipd_EE4)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Will we ever see something like custom challenges & custom milestones?](../../transcriptions/yt-cd8yJp9cRAE.md) [https://www.youtube.com/watch?v=cd8yJp9cRAE](https://www.youtube.com/watch?v=cd8yJp9cRAE)
 * [Q&A: Are Vehicle concepts actually something that Mods could provide?](../../transcriptions/yt-Rn_yVlZsyOY.md) [https://www.youtube.com/watch?v=Rn_yVlZsyOY](https://www.youtube.com/watch?v=Rn_yVlZsyOY)

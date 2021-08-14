@@ -8,7 +8,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: I would buy Merch but there's no Coffee Cup?
 https://www.youtube.com/watch?v=bQnAGoo8jQA
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Mug?](./yt-c6X2qE0ou1M.md) [https://www.youtube.com/watch?v=c6X2qE0ou1M](https://www.youtube.com/watch?v=c6X2qE0ou1M)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: What is with the Mug?](./yt-X6tO45Qd-GI.md) [https://www.youtube.com/watch?v=X6tO45Qd-GI](https://www.youtube.com/watch?v=X6tO45Qd-GI)
 
 
 ### Topics

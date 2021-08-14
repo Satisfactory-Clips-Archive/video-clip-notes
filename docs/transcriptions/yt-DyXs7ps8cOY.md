@@ -9,6 +9,8 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Update 5 new Tiers?
 https://www.youtube.com/watch?v=DyXs7ps8cOY
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Is The HUB/Space Elevator getting more levels in Update 5?](./yt--iLL6nu7YvM.md) [https://www.youtube.com/watch?v=-iLL6nu7YvM](https://www.youtube.com/watch?v=-iLL6nu7YvM)
+
 
 ### Topics
 * [Features > Tiers](../topics/features/tiers.md)

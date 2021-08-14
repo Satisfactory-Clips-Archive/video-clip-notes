@@ -9,7 +9,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Will we get more than one body slot?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any chance we can get another Body Slot?](./yt-UuhHtf0yr64.md) [https://www.youtube.com/watch?v=UuhHtf0yr64](https://www.youtube.com/watch?v=UuhHtf0yr64)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Will we be able to equip more than one item?](./yt-qiA_5oti7s8.md) [https://www.youtube.com/watch?v=qiA_5oti7s8](https://www.youtube.com/watch?v=qiA_5oti7s8)
 
 
 ### Topics

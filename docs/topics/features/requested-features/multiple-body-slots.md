@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
+## August 10th, 2021 Livestream
+* [Q&A: Will we be able to equip more than one item?](../../../transcriptions/yt-qiA_5oti7s8.md) [https://www.youtube.com/watch?v=qiA_5oti7s8](https://www.youtube.com/watch?v=qiA_5oti7s8)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Any chance we can get another Body Slot?](../../../transcriptions/yt-UuhHtf0yr64.md) [https://www.youtube.com/watch?v=UuhHtf0yr64](https://www.youtube.com/watch?v=UuhHtf0yr64)
 

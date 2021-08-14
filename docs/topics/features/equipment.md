@@ -14,6 +14,11 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Battle Royale mode with only Nobelisk Detonators?](../../transcriptions/yt-815wYM_Z6_Q.md) [https://www.youtube.com/watch?v=815wYM_Z6_Q](https://www.youtube.com/watch?v=815wYM_Z6_Q)
+* [Q&A: Maybe a grapple gun?](../../transcriptions/yt-fLz-4eFS6XQ.md) [https://www.youtube.com/watch?v=fLz-4eFS6XQ](https://www.youtube.com/watch?v=fLz-4eFS6XQ)
+* [Q&A: Why would I spend $1 if I could just build Gas Mask?](../../transcriptions/yt-QrOJ_rZvb7M.md) [https://www.youtube.com/watch?v=QrOJ_rZvb7M](https://www.youtube.com/watch?v=QrOJ_rZvb7M)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Are there any plans for more weapons?](../../transcriptions/yt-xsjiSj9f2Oo.md) [https://www.youtube.com/watch?v=xsjiSj9f2Oo](https://www.youtube.com/watch?v=xsjiSj9f2Oo)
 * Q&A: Buster Sword reskin for Xenobasher? [https://www.youtube.com/watch?v=49nksxmITAQ](https://www.youtube.com/watch?v=49nksxmITAQ)

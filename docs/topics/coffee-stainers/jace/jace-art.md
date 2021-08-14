@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace Art
 
+## August 10th, 2021 Livestream
+* [Q&A: Did Jace paint the Doggo?](../../../transcriptions/yt-UBj-gw_Jv_8.md) [https://www.youtube.com/watch?v=UBj-gw_Jv_8](https://www.youtube.com/watch?v=UBj-gw_Jv_8)
+* [Q&A: Can Jace tease or Troll us?](../../../transcriptions/yt-_M2lFTR8Xh0.md) [https://www.youtube.com/watch?v=_M2lFTR8Xh0](https://www.youtube.com/watch?v=_M2lFTR8Xh0)
+* [Q&A: Can we get MS Paint installed at The HUB?](../../../transcriptions/yt-oEz7zm8gldk.md) [https://www.youtube.com/watch?v=oEz7zm8gldk](https://www.youtube.com/watch?v=oEz7zm8gldk)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Any plans to do another Jace Art stream specifically for Update 5 leaks?](../../../transcriptions/yt-0-fYDPO17Q4.md) [https://www.youtube.com/watch?v=0-fYDPO17Q4](https://www.youtube.com/watch?v=0-fYDPO17Q4)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Buildings](../../../../topics/features/buildings.md) > [Space Elevator](../../../../topics/features/buildings/space-elevator.md) > Food Court
 
+## August 10th, 2021 Livestream
+* [Q&A: Food Court is the place where we can get Doggo burgers?](../../../../transcriptions/yt-mrs1Bw4amO8.md) [https://www.youtube.com/watch?v=mrs1Bw4amO8](https://www.youtube.com/watch?v=mrs1Bw4amO8)
+* [Jace Talk: Gyoza](../../../../transcriptions/yt-bY80dkTfPc0.md) [https://www.youtube.com/watch?v=bY80dkTfPc0](https://www.youtube.com/watch?v=bY80dkTfPc0)
+
 ## August 3rd, 2021 Livestream
 * [Jace & Hannah Talk: Food Court, no fish allowed](../../../../transcriptions/yt-k6bndNMxxdE.md) [https://www.youtube.com/watch?v=k6bndNMxxdE](https://www.youtube.com/watch?v=k6bndNMxxdE)
 * Q&A: When is Satisfactory Food Court open? [https://www.youtube.com/watch?v=ewVv8u7Misw](https://www.youtube.com/watch?v=ewVv8u7Misw)

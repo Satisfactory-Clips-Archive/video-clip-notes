@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## August 10th, 2021 Livestream
+* [Q&A: Any ways to transport Doggos long distance in the future?](../../../transcriptions/yt-zN9bnZKIqbo.md) [https://www.youtube.com/watch?v=zN9bnZKIqbo](https://www.youtube.com/watch?v=zN9bnZKIqbo)
+* [Q&A: Are we going to be able to make Lizard Doggos sit so they don't constantly follow us?](../../../transcriptions/yt-nflEbAv7uXc.md) [https://www.youtube.com/watch?v=nflEbAv7uXc](https://www.youtube.com/watch?v=nflEbAv7uXc)
+* [Q&A: Will there be an easter egg for the Doggos community?](../../../transcriptions/yt-iXoNsvLOpIA.md) [https://www.youtube.com/watch?v=iXoNsvLOpIA](https://www.youtube.com/watch?v=iXoNsvLOpIA)
+* [Q&A: Food Court is the place where we can get Doggo burgers?](../../../transcriptions/yt-mrs1Bw4amO8.md) [https://www.youtube.com/watch?v=mrs1Bw4amO8](https://www.youtube.com/watch?v=mrs1Bw4amO8)
+* [Q&A: I know Jace likes Portal, if you get Doggos near each other they could sing like the turrets?](../../../transcriptions/yt-LxR-pnwW_so.md) [https://www.youtube.com/watch?v=LxR-pnwW_so](https://www.youtube.com/watch?v=LxR-pnwW_so)
+* [Q&A: Doggo as mount would be wonderful](../../../transcriptions/yt-_4LsCK2Uq3M.md) [https://www.youtube.com/watch?v=_4LsCK2Uq3M](https://www.youtube.com/watch?v=_4LsCK2Uq3M)
+
 ## July 13th, 2021 Livestream
 * [Community FYI: Wrangler title hints for lassoing Doggos](../../../transcriptions/yt-rBIoeBysK4w.md) [https://www.youtube.com/watch?v=rBIoeBysK4w](https://www.youtube.com/watch?v=rBIoeBysK4w)
 * [Q&A: When do we get to play as the Doggo?](../../../transcriptions/yt-WD5PzPADedo.md) [https://www.youtube.com/watch?v=WD5PzPADedo](https://www.youtube.com/watch?v=WD5PzPADedo)

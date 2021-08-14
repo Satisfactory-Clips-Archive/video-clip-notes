@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Soundtrack that I can buy from Steam?](../../transcriptions/yt-VlJsz3lP4qo.md) [https://www.youtube.com/watch?v=VlJsz3lP4qo](https://www.youtube.com/watch?v=VlJsz3lP4qo)
+
 ## July 13th, 2021 Livestream
 * [Q&A: When I started the game I got a black Particle Accelerator on the home screen- is that a bug?](../../transcriptions/yt-SkcmBKDOi1U.md) [https://www.youtube.com/watch?v=SkcmBKDOi1U](https://www.youtube.com/watch?v=SkcmBKDOi1U)
 

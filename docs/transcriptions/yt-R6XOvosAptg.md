@@ -3,6 +3,7 @@ title: "September 22nd, 2020 Livestream Q&A: Removing 90 Factory Carts doubled m
 date: "2020-09-22"
 layout: transcript
 topics:
+    - "community/meza"
     - "features/transportation/vehicles/factory-cart"
     - "technology/graphics"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=R6XOvosAptg
 
 ### Topics
+* [Community > Meza](../topics/community/meza.md)
 * [Features > Transportation > Vehicles > Factory Cart](../topics/features/transportation/vehicles/factory-cart.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 

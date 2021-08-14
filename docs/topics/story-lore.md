@@ -7,6 +7,12 @@ date: Last Modified
 * [Characters](../topics/story-lore/characters.md)
 * [Project Assembly](../topics/story-lore/project-assembly.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Will there be a Satisfactory Story or not?](../transcriptions/yt-jYJBghZ58LU.md) [https://www.youtube.com/watch?v=jYJBghZ58LU](https://www.youtube.com/watch?v=jYJBghZ58LU)
+* [Q&A: Is the plan to continue playing after finishing the Story?](../transcriptions/yt-Rn0Q8sielK8.md) [https://www.youtube.com/watch?v=Rn0Q8sielK8](https://www.youtube.com/watch?v=Rn0Q8sielK8)
+* [Community FYI: I don't want to leave the planet after finishing the Story](../transcriptions/yt-3veZ5xlZQB8.md) [https://www.youtube.com/watch?v=3veZ5xlZQB8](https://www.youtube.com/watch?v=3veZ5xlZQB8)
+* [Q&A: Will the Mercer Spheres be lore related?](../transcriptions/yt-Y0Z_OwnDN20.md) [https://www.youtube.com/watch?v=Y0Z_OwnDN20](https://www.youtube.com/watch?v=Y0Z_OwnDN20)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Will the Story be good?](../transcriptions/yt-TJ9ylAHb3_Y.md) [https://www.youtube.com/watch?v=TJ9ylAHb3_Y](https://www.youtube.com/watch?v=TJ9ylAHb3_Y)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## August 10th, 2021 Livestream
+* [Q&A: Will it be possible for us to set our own Drone paths in the future?](../../../../transcriptions/yt-BAw5PGJH918.md) [https://www.youtube.com/watch?v=BAw5PGJH918](https://www.youtube.com/watch?v=BAw5PGJH918)
+
 ## July 23rd, 2021 Livestream
 * [Q&A: What are Drones, what do they do?](../../../../transcriptions/yt-FyOHDcxtEUA,24.44953,51.005634.md) [https://youtube.com/clip/UgwKDl1O95rewluahrl4AaABCQ](https://youtube.com/clip/UgwKDl1O95rewluahrl4AaABCQ)
 * [Q&A: Can we pilot Drones?](../../../../transcriptions/yt-FyOHDcxtEUA,51.005634,64.1.md) [https://youtube.com/clip/UgwoWLQOb1xROLzSTph4AaABCQ](https://youtube.com/clip/UgwoWLQOb1xROLzSTph4AaABCQ)

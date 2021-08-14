@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Ability to ride the Space Elevator?](../../../transcriptions/yt-lGuvPYdd1SY.md) [https://www.youtube.com/watch?v=lGuvPYdd1SY](https://www.youtube.com/watch?v=lGuvPYdd1SY)
+* [Q&A: Any plans for a possible repeatable project for end game?](../../../transcriptions/yt-I2FEid_rB8c.md) [https://www.youtube.com/watch?v=I2FEid_rB8c](https://www.youtube.com/watch?v=I2FEid_rB8c)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Can you make it more obvious that Project Parts need to be used in future Project Parts?](../../../transcriptions/yt-CwMFyTkMlaE.md) [https://www.youtube.com/watch?v=CwMFyTkMlaE](https://www.youtube.com/watch?v=CwMFyTkMlaE)
 

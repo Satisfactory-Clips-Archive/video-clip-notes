@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## August 10th, 2021 Livestream
+* [Q&A: Will there be Steam Achievements in 1.0?](../../../transcriptions/yt-_wKUYaG0Hwc.md) [https://www.youtube.com/watch?v=_wKUYaG0Hwc](https://www.youtube.com/watch?v=_wKUYaG0Hwc)
+* [Q&A: Is there a goal date that you want the game finished?](../../../transcriptions/yt-_VPyUP6E2pE.md) [https://www.youtube.com/watch?v=_VPyUP6E2pE](https://www.youtube.com/watch?v=_VPyUP6E2pE)
+* [Q&A: Is a second map planned for a few months after release?](../../../transcriptions/yt-hpzqL7Ujefs.md) [https://www.youtube.com/watch?v=hpzqL7Ujefs](https://www.youtube.com/watch?v=hpzqL7Ujefs)
+* [Q&A: How many more updates will you publish before launch](../../../transcriptions/yt-V9vVWjA75-0.md) [https://www.youtube.com/watch?v=V9vVWjA75-0](https://www.youtube.com/watch?v=V9vVWjA75-0)
+
 ## August 6th, 2021 Livestream
 * [Jace Talk: Roadmap for Map changes](../../../transcriptions/yt-MxvGbCCc6DI,542.8089333333334,611.5442666666667.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=542&end=612](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=542&end=612)
 

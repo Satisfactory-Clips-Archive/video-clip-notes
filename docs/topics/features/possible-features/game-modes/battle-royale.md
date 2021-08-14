@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Battle Royale
 
+## August 10th, 2021 Livestream
+* [Q&A: Battle Royale mode with only Nobelisk Detonators?](../../../../transcriptions/yt-815wYM_Z6_Q.md) [https://www.youtube.com/watch?v=815wYM_Z6_Q](https://www.youtube.com/watch?v=815wYM_Z6_Q)
+
 ## July 20th, 2021 Livestream
 * Q&A: When are you adding Battle Royale event? [https://www.youtube.com/watch?v=H_jxvn-F_WY](https://www.youtube.com/watch?v=H_jxvn-F_WY)
 * [Q&A: Satisfactory Battle Royale?](../../../../transcriptions/yt--8W5tI5mRPM.md) [https://www.youtube.com/watch?v=-8W5tI5mRPM](https://www.youtube.com/watch?v=-8W5tI5mRPM)

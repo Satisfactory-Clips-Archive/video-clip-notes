@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: How often is Satisfactory on sale?](../transcriptions/yt-k0LexOe2wsE.md) [https://www.youtube.com/watch?v=k0LexOe2wsE](https://www.youtube.com/watch?v=k0LexOe2wsE)
+
 ## July 20th, 2021 Livestream
 * [Community FYI: Bought the game 2 years ago for €30, now I wouldn't feel bad for spending €60](../transcriptions/yt-ldftljubt0w.md) [https://www.youtube.com/watch?v=ldftljubt0w](https://www.youtube.com/watch?v=ldftljubt0w)
 

@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Any timeline on when the end game will be released?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Do you have an approximate timeline for when 1.0 will be ready?](./yt-JV12w3UZIHE.md) [https://www.youtube.com/watch?v=JV12w3UZIHE](https://www.youtube.com/watch?v=JV12w3UZIHE)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Is there a goal date that you want the game finished?](./yt-_VPyUP6E2pE.md) [https://www.youtube.com/watch?v=_VPyUP6E2pE](https://www.youtube.com/watch?v=_VPyUP6E2pE)
 
 
 ### Topics

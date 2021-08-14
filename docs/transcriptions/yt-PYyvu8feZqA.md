@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we get a Shop in Europe - the shipping costs are a bit spicy?
 https://www.youtube.com/watch?v=PYyvu8feZqA
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Any news on EU store?](./yt-VtM58J6-DDQ.md) [https://www.youtube.com/watch?v=VtM58J6-DDQ](https://www.youtube.com/watch?v=VtM58J6-DDQ)
+This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: EU Merch Shop?](./yt-fkCoDFaTwPs.md) [https://www.youtube.com/watch?v=fkCoDFaTwPs](https://www.youtube.com/watch?v=fkCoDFaTwPs)
 
 
 ### Topics

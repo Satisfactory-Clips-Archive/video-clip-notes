@@ -16,6 +16,10 @@ date: Last Modified
 * [Swamp](../../topics/environment/biomes/swamp.md)
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Is the island in the south west "Paradies Island" or "Paradise Island" ?](../../transcriptions/yt-8Lp7oflSHfc.md) [https://www.youtube.com/watch?v=8Lp7oflSHfc](https://www.youtube.com/watch?v=8Lp7oflSHfc)
+* [Q&A: Giant Crab near Paradies Island?](../../transcriptions/yt-ortoJ5e3-vU.md) [https://www.youtube.com/watch?v=ortoJ5e3-vU](https://www.youtube.com/watch?v=ortoJ5e3-vU)
+
 ## August 3rd, 2021 Livestream
 * Q&A: Golf Biome? [https://www.youtube.com/watch?v=ItA7tWo8dsc](https://www.youtube.com/watch?v=ItA7tWo8dsc)
 * [Q&A: Coffee Shop Biome?](../../transcriptions/yt-1a099owXMxE.md) [https://www.youtube.com/watch?v=1a099owXMxE](https://www.youtube.com/watch?v=1a099owXMxE)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Constructor
 
+## August 10th, 2021 Livestream
+* [Q&A: Will we ever get a Mk.2 Constructor?](../../../transcriptions/yt-lTmi7l3XfEI.md) [https://www.youtube.com/watch?v=lTmi7l3XfEI](https://www.youtube.com/watch?v=lTmi7l3XfEI)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up Modular Frame production (Part 1)](../../../transcriptions/yt-_ngvdiVOMnk.md) [https://www.youtube.com/watch?v=_ngvdiVOMnk](https://www.youtube.com/watch?v=_ngvdiVOMnk)
 * [Snutt & Jace Talk: Setting up Modular Frame production (Part 2)](../../../transcriptions/yt-kj15iCn0COw.md) [https://www.youtube.com/watch?v=kj15iCn0COw](https://www.youtube.com/watch?v=kj15iCn0COw)

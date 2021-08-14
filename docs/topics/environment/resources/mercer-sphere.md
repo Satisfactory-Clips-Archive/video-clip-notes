@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
+## August 10th, 2021 Livestream
+* [Q&A: Will the Mercer Spheres be lore related?](../../../transcriptions/yt-Y0Z_OwnDN20.md) [https://www.youtube.com/watch?v=Y0Z_OwnDN20](https://www.youtube.com/watch?v=Y0Z_OwnDN20)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Will S.A.M. Ore, Somersloops, and Mercer Spheres have a function beyond Story stuff?](../../../transcriptions/yt-mzMRZqpxaug.md) [https://www.youtube.com/watch?v=mzMRZqpxaug](https://www.youtube.com/watch?v=mzMRZqpxaug)
 

@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## August 10th, 2021 Livestream
+* [Q&A: Is The HUB/Space Elevator getting more levels in Update 5?](../../transcriptions/yt--iLL6nu7YvM.md) [https://www.youtube.com/watch?v=-iLL6nu7YvM](https://www.youtube.com/watch?v=-iLL6nu7YvM)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Will there be a Tier 9 & 10?](../../transcriptions/yt-ak2xGu7ZZIc.md) [https://www.youtube.com/watch?v=ak2xGu7ZZIc](https://www.youtube.com/watch?v=ak2xGu7ZZIc)
 
