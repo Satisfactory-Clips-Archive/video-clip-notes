@@ -84,6 +84,9 @@ date: Last Modified
 ## August 11th, 2020 Livestream
 * Q&A: FICSIT Pioneer gender confirmed? [https://clips.twitch.tv/TriangularLongOctopusOneHand](https://clips.twitch.tv/TriangularLongOctopusOneHand)
 
+## July 14th, 2020 Livestream
+* Trolling: Face Reveal [https://clips.twitch.tv/EnjoyableStrangePenguinRitzMitz](https://clips.twitch.tv/EnjoyableStrangePenguinRitzMitz)
+
 ## June 8th, 2020 Livestream
 * [Q&A: Will there be a cosy place for the Pioneer to live in?](../../transcriptions/yt-F0Lu47hMTD8.md) [https://www.youtube.com/watch?v=F0Lu47hMTD8](https://www.youtube.com/watch?v=F0Lu47hMTD8)
 

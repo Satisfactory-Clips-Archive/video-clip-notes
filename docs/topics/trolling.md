@@ -205,6 +205,9 @@ date: Last Modified
 * [Jace Art: Packing up the base](../transcriptions/yt-JOBcS413hwY,441.40763333333337,489.3221666666667.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=441&end=490](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=441&end=490)
 * [Jace Art: Programmable Automation Robot](../transcriptions/yt-JOBcS413hwY,489.3221666666667,533.2660666666667.md) [https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=489&end=534](https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=489&end=534)
 
+## July 14th, 2020 Livestream
+* Trolling: Face Reveal [https://clips.twitch.tv/EnjoyableStrangePenguinRitzMitz](https://clips.twitch.tv/EnjoyableStrangePenguinRitzMitz)
+
 ## June 8th, 2020 Livestream
 * [Q&A: Will Jace and Snutt still be friends with me if I buy it on Steam?](../transcriptions/yt-Lem_s04UYBA.md) [https://www.youtube.com/watch?v=Lem_s04UYBA](https://www.youtube.com/watch?v=Lem_s04UYBA)
 
