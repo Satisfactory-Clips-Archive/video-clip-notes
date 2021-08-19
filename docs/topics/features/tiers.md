@@ -16,6 +16,10 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Are you adding more stuff to early Tiers?](../../transcriptions/yt-EZ9RcEC5ZTQ.md) [https://www.youtube.com/watch?v=EZ9RcEC5ZTQ](https://www.youtube.com/watch?v=EZ9RcEC5ZTQ)
+* [Q&A: How do you decide what goes in the M.A.M., Shop, or in a Tier ?](../../transcriptions/yt-z-Ozh3_DDzs.md) [https://www.youtube.com/watch?v=z-Ozh3_DDzs](https://www.youtube.com/watch?v=z-Ozh3_DDzs)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Is The HUB/Space Elevator getting more levels in Update 5?](../../transcriptions/yt--iLL6nu7YvM.md) [https://www.youtube.com/watch?v=-iLL6nu7YvM](https://www.youtube.com/watch?v=-iLL6nu7YvM)
 

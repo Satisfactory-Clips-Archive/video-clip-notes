@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## August 17th, 2021 Livestream
+* [Q&A: Any plans to add a leash for the Lizard Doggos](../../../transcriptions/yt-n7GV7t18JZ8.md) [https://www.youtube.com/watch?v=n7GV7t18JZ8](https://www.youtube.com/watch?v=n7GV7t18JZ8)
+* [Q&A: Will the Lizard Doggo act as a Golf caddy when Golf gets implemented?](../../../transcriptions/yt-fzhc__1B2L8.md) [https://www.youtube.com/watch?v=fzhc__1B2L8](https://www.youtube.com/watch?v=fzhc__1B2L8)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Any ways to transport Doggos long distance in the future?](../../../transcriptions/yt-zN9bnZKIqbo.md) [https://www.youtube.com/watch?v=zN9bnZKIqbo](https://www.youtube.com/watch?v=zN9bnZKIqbo)
 * [Q&A: Are we going to be able to make Lizard Doggos sit so they don't constantly follow us?](../../../transcriptions/yt-nflEbAv7uXc.md) [https://www.youtube.com/watch?v=nflEbAv7uXc](https://www.youtube.com/watch?v=nflEbAv7uXc)

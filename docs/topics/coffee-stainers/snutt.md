@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## August 17th, 2021 Livestream
+* [Snutt & Jace Talk: Vocal exercises](../../transcriptions/yt-ipFt_rieUP8.md) [https://www.youtube.com/watch?v=ipFt_rieUP8](https://www.youtube.com/watch?v=ipFt_rieUP8)
+* [Snutt & Jace Talk: Snutt's Summer 2021 Vacation Photos](../../transcriptions/yt-O091MGGUbOE.md) [https://www.youtube.com/watch?v=O091MGGUbOE](https://www.youtube.com/watch?v=O091MGGUbOE)
+* [Q&A: Is Snutt at home, or in the office with greenscreen?](../../transcriptions/yt-lioAEHnpDvc.md) [https://www.youtube.com/watch?v=lioAEHnpDvc](https://www.youtube.com/watch?v=lioAEHnpDvc)
+* [Q&A: So what's for dinner today?](../../transcriptions/yt-LaDbKbTnmzI.md) [https://www.youtube.com/watch?v=LaDbKbTnmzI](https://www.youtube.com/watch?v=LaDbKbTnmzI)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Is it easier to be on time without Snutt?](../../transcriptions/yt-HtAZQN9T8so.md) [https://www.youtube.com/watch?v=HtAZQN9T8so](https://www.youtube.com/watch?v=HtAZQN9T8so)
 

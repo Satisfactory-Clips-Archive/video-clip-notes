@@ -9,7 +9,7 @@ topics:
 # [August 1st, 2018 Q&A](../2018-08-01.md)
 ## Q&A: Won't the factory stop working if you're really far away?
 https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=170&end=189
-This question was possibly duplicated with a more recent answer: [February 20th, 2019 Livestream Q&A: Will the machinery still work if I'm not loading that particular tile?](./yt-CB9bSigNYH8,2465.233333333333,2488.648026.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2465&end=2489](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2465&end=2489)
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: How do factories keep running if they're not actually loaded?](./yt-jcWCvjYzlvw.md) [https://www.youtube.com/watch?v=jcWCvjYzlvw](https://www.youtube.com/watch?v=jcWCvjYzlvw)
 
 
 ### Topics

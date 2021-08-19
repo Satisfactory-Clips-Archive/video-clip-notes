@@ -9,7 +9,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: When are my Blade Runners going to stay on my character while in Hyper Tubes?
 https://www.youtube.com/watch?v=gXm3WrzRrUU
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Are the blade runners going to fit our feet properly soon?](./yt-48-kXDDW3-0.md) [https://www.youtube.com/watch?v=48-kXDDW3-0](https://www.youtube.com/watch?v=48-kXDDW3-0)
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Same bug as the equipment that flies in the tube?](./yt-r7lFsWlRIPE.md) [https://www.youtube.com/watch?v=r7lFsWlRIPE](https://www.youtube.com/watch?v=r7lFsWlRIPE)
 
 
 ### Topics

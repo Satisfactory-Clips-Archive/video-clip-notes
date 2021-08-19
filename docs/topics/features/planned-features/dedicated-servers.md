@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## August 17th, 2021 Livestream
+* [Q&A: Why do you guys focus on Windows Dedicated Servers?](../../../transcriptions/yt-SyUOpmEn7Aw.md) [https://www.youtube.com/watch?v=SyUOpmEn7Aw](https://www.youtube.com/watch?v=SyUOpmEn7Aw)
+* [Q&A: Will Dedicated Servers be a standalone program?](../../../transcriptions/yt-tkUBo4RzAn8.md) [https://www.youtube.com/watch?v=tkUBo4RzAn8](https://www.youtube.com/watch?v=tkUBo4RzAn8)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Was there an actual ETA on Dedicated Servers?](../../../transcriptions/yt-_W5YNDh8nCY.md) [https://www.youtube.com/watch?v=_W5YNDh8nCY](https://www.youtube.com/watch?v=_W5YNDh8nCY)
 * [Q&A: How big is the list of issues you need to resolve before Dedicated Servers are viable?](../../../transcriptions/yt-Nqfx6sRRwW8.md) [https://www.youtube.com/watch?v=Nqfx6sRRwW8](https://www.youtube.com/watch?v=Nqfx6sRRwW8)

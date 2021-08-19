@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Rifle
 
+## August 17th, 2021 Livestream
+* [Snutt & Jace Talk: Add back the Rifle Mk.2 but make it worse](../../../transcriptions/yt-_qJufAxzJq0.md) [https://www.youtube.com/watch?v=_qJufAxzJq0](https://www.youtube.com/watch?v=_qJufAxzJq0)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Will the Rebar shotgun come back?](../../../transcriptions/yt-p7aALqL6xlo.md) [https://www.youtube.com/watch?v=p7aALqL6xlo](https://www.youtube.com/watch?v=p7aALqL6xlo)
 

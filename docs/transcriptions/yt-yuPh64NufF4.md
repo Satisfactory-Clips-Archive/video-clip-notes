@@ -8,6 +8,8 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: What about Update 3.5?
 https://www.youtube.com/watch?v=yuPh64NufF4
+This question was possibly duplicated with a more recent answer: [October 6th, 2020 Livestream Q&A: What's the Fluid Update?](./yt-ENj6nSQdDcY.md) [https://www.youtube.com/watch?v=ENj6nSQdDcY](https://www.youtube.com/watch?v=ENj6nSQdDcY)
+
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)

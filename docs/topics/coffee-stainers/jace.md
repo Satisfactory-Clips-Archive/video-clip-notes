@@ -7,6 +7,11 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## August 17th, 2021 Livestream
+* [Snutt & Jace Talk: Vocal exercises](../../transcriptions/yt-ipFt_rieUP8.md) [https://www.youtube.com/watch?v=ipFt_rieUP8](https://www.youtube.com/watch?v=ipFt_rieUP8)
+* [Q&A: So what's for dinner today?](../../transcriptions/yt-LaDbKbTnmzI.md) [https://www.youtube.com/watch?v=LaDbKbTnmzI](https://www.youtube.com/watch?v=LaDbKbTnmzI)
+* [Q&A: What did you think of the fusion photo?](../../transcriptions/yt-8Ed70U5TDmM.md) [https://www.youtube.com/watch?v=8Ed70U5TDmM](https://www.youtube.com/watch?v=8Ed70U5TDmM)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Is it easier to be on time without Snutt?](../../transcriptions/yt-HtAZQN9T8so.md) [https://www.youtube.com/watch?v=HtAZQN9T8so](https://www.youtube.com/watch?v=HtAZQN9T8so)
 * [Q&A: Why does Jace look like Philipp Kirkorov](../../transcriptions/yt-zZhtKTWcxg8.md) [https://www.youtube.com/watch?v=zZhtKTWcxg8](https://www.youtube.com/watch?v=zZhtKTWcxg8)

@@ -8,7 +8,7 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: Any updates on the Mug?
 https://www.youtube.com/watch?v=76HIK_X8Vjk
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: What is with the Mug?](./yt-X6tO45Qd-GI.md) [https://www.youtube.com/watch?v=X6tO45Qd-GI](https://www.youtube.com/watch?v=X6tO45Qd-GI)
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: When can I buy my official FICSIT Mug replicas?](./yt-uUr24sBhqmI.md) [https://www.youtube.com/watch?v=uUr24sBhqmI](https://www.youtube.com/watch?v=uUr24sBhqmI)
 
 
 ### Topics

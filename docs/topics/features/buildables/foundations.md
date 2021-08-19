@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Will the Hyper Tube wall mount rotation ever be aligned with a 8x4 ramp?](../../../transcriptions/yt-HokduD0IdEY.md) [https://www.youtube.com/watch?v=HokduD0IdEY](https://www.youtube.com/watch?v=HokduD0IdEY)
+* [Q&A: Will there ever be a Conveyor or Pipe hole in Foundations?](../../../transcriptions/yt-T7YW7I7D7jk.md) [https://www.youtube.com/watch?v=T7YW7I7D7jk](https://www.youtube.com/watch?v=T7YW7I7D7jk)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Can we get giant propeller attachments for platforms, so floating platforms don't look so odd?](../../../transcriptions/yt-vq7blLuSJ2w.md) [https://www.youtube.com/watch?v=vq7blLuSJ2w](https://www.youtube.com/watch?v=vq7blLuSJ2w)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Transportation > Hyper Tubes
 
+## August 17th, 2021 Livestream
+* [Q&A: Will the Hyper Tube wall mount rotation ever be aligned with a 8x4 ramp?](../../../transcriptions/yt-HokduD0IdEY.md) [https://www.youtube.com/watch?v=HokduD0IdEY](https://www.youtube.com/watch?v=HokduD0IdEY)
+* [Q&A: Same bug as the equipment that flies in the tube?](../../../transcriptions/yt-r7lFsWlRIPE.md) [https://www.youtube.com/watch?v=r7lFsWlRIPE](https://www.youtube.com/watch?v=r7lFsWlRIPE)
+
 ## August 10th, 2021 Livestream
 * [Q&A: How about a Hyper Tube exit?](../../../transcriptions/yt-dj0DJuAQAxo.md) [https://www.youtube.com/watch?v=dj0DJuAQAxo](https://www.youtube.com/watch?v=dj0DJuAQAxo)
 

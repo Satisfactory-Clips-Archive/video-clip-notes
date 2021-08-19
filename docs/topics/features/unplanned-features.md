@@ -1,5 +1,6 @@
 ---
 title: "Unplanned Features"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpUYS6KsdUeKIGxi-NsEL_0
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Unplanned Features
@@ -14,3 +15,6 @@ date: Last Modified
 * [Space Exploration](../../topics/features/unplanned-features/space-exploration.md)
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
+
+## August 17th, 2021 Livestream
+* [Q&A: Sleep & Food?](../../transcriptions/yt-Rfq5XpdNCnA.md) [https://www.youtube.com/watch?v=Rfq5XpdNCnA](https://www.youtube.com/watch?v=Rfq5XpdNCnA)

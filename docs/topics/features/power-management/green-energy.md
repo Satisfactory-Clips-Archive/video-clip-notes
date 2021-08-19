@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
+## August 17th, 2021 Livestream
+* [Q&A: Are you planning on adding Renewable Powers like Solar & Wind?](../../../transcriptions/yt-g0JP5QLR-I8.md) [https://www.youtube.com/watch?v=g0JP5QLR-I8](https://www.youtube.com/watch?v=g0JP5QLR-I8)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Solar Energy?](../../../transcriptions/yt-WLbaUlcla48.md) [https://www.youtube.com/watch?v=WLbaUlcla48](https://www.youtube.com/watch?v=WLbaUlcla48)
 

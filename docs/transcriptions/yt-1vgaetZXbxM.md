@@ -8,6 +8,8 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Is the Tick the official name for the Space Cow Bean Giraffe?
 https://www.youtube.com/watch?v=1vgaetZXbxM
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Is there an official name for the confusing creature?](./yt-dspo4FmBxqI.md) [https://www.youtube.com/watch?v=dspo4FmBxqI](https://www.youtube.com/watch?v=dspo4FmBxqI)
+
 
 ### Topics
 * [Environment > Creatures > Space Giraffe-Tick-Penguin-Whale Thing](../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)

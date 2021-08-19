@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Meza
 
+## August 17th, 2021 Livestream
+* [Q&A: What did you think of the fusion photo?](../../transcriptions/yt-8Ed70U5TDmM.md) [https://www.youtube.com/watch?v=8Ed70U5TDmM](https://www.youtube.com/watch?v=8Ed70U5TDmM)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Why does Jace look like Philipp Kirkorov](../../transcriptions/yt-zZhtKTWcxg8.md) [https://www.youtube.com/watch?v=zZhtKTWcxg8](https://www.youtube.com/watch?v=zZhtKTWcxg8)
 

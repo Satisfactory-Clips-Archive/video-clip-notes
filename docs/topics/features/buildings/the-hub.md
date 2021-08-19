@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## August 17th, 2021 Livestream
+* [Q&A: I Love Strawberries ported to The HUB Computer?](../../../transcriptions/yt-fJ5wWQ7oq9k.md) [https://www.youtube.com/watch?v=fJ5wWQ7oq9k](https://www.youtube.com/watch?v=fJ5wWQ7oq9k)
+* [Community FYI: Miss the M.A.M. in The HUB](../../../transcriptions/yt-GT2-1T5Aq9o.md) [https://www.youtube.com/watch?v=GT2-1T5Aq9o](https://www.youtube.com/watch?v=GT2-1T5Aq9o)
+* [Q&A: Sleep & Food?](../../../transcriptions/yt-Rfq5XpdNCnA.md) [https://www.youtube.com/watch?v=Rfq5XpdNCnA](https://www.youtube.com/watch?v=Rfq5XpdNCnA)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Can we get MS Paint installed at The HUB?](../../../transcriptions/yt-oEz7zm8gldk.md) [https://www.youtube.com/watch?v=oEz7zm8gldk](https://www.youtube.com/watch?v=oEz7zm8gldk)
 

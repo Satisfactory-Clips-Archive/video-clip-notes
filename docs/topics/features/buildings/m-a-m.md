@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > M.A.M.
 
+## August 17th, 2021 Livestream
+* [Q&A: Can you fix the issue with Mod users losing their hard drives if they restart or crash?](../../../transcriptions/yt-0-a_MfTEsks.md) [https://www.youtube.com/watch?v=0-a_MfTEsks](https://www.youtube.com/watch?v=0-a_MfTEsks)
+* [Community FYI: Miss the M.A.M. in The HUB](../../../transcriptions/yt-GT2-1T5Aq9o.md) [https://www.youtube.com/watch?v=GT2-1T5Aq9o](https://www.youtube.com/watch?v=GT2-1T5Aq9o)
+* [Q&A: How do you decide what goes in the M.A.M., Shop, or in a Tier ?](../../../transcriptions/yt-z-Ozh3_DDzs.md) [https://www.youtube.com/watch?v=z-Ozh3_DDzs](https://www.youtube.com/watch?v=z-Ozh3_DDzs)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Will we ever see something like custom challenges & custom milestones?](../../../transcriptions/yt-cd8yJp9cRAE.md) [https://www.youtube.com/watch?v=cd8yJp9cRAE](https://www.youtube.com/watch?v=cd8yJp9cRAE)
 * [Q&A: Why did decide you make the M.A.M. a separate building?](../../../transcriptions/yt-I2HtPSih_u8.md) [https://www.youtube.com/watch?v=I2HtPSih_u8](https://www.youtube.com/watch?v=I2HtPSih_u8)

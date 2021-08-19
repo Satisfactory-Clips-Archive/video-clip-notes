@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## August 17th, 2021 Livestream
+* [State of Dev: Most people are back from vacation](../../transcriptions/yt-yb2UEdQMQMI.md) [https://www.youtube.com/watch?v=yb2UEdQMQMI](https://www.youtube.com/watch?v=yb2UEdQMQMI)
+* [State of Dev: EU Merch Store + Mug](../../transcriptions/yt-VoxNe9_Po9s.md) [https://www.youtube.com/watch?v=VoxNe9_Po9s](https://www.youtube.com/watch?v=VoxNe9_Po9s)
+
 ## August 10th, 2021 Livestream
 * [State of Dev: Coffee Stainers returning from vacation](../../transcriptions/yt-cVBULNdIJlQ.md) [https://www.youtube.com/watch?v=cVBULNdIJlQ](https://www.youtube.com/watch?v=cVBULNdIJlQ)
 * [State of Dev: Update 5 Map Changes](../../transcriptions/yt-9iO2_2X7M2s.md) [https://www.youtube.com/watch?v=9iO2_2X7M2s](https://www.youtube.com/watch?v=9iO2_2X7M2s)

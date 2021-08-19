@@ -8,7 +8,7 @@ topics:
 # [July 30th, 2020 Mod Highlight](../2020-07-30.md)
 ## Q&A: When are we getting Signs?
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754
-This question was possibly duplicated with a more recent answer: August 3rd, 2021 Livestream Q&A: Will we ever see writable signs to label stuff? [https://www.youtube.com/watch?v=5lnAMr0DyBE](https://www.youtube.com/watch?v=5lnAMr0DyBE)
+This question was possibly duplicated with a more recent answer: August 17th, 2021 Livestream Q&A: Will you add Signs in the game? [https://www.youtube.com/watch?v=bmLgjjNst3M](https://www.youtube.com/watch?v=bmLgjjNst3M)
 
 
 ### Topics

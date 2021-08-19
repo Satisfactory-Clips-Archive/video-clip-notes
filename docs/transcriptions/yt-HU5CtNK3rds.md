@@ -10,12 +10,6 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Are there any name change plans for Space Giraffe-Tick-Penguin-Whale Thing
 https://www.youtube.com/watch?v=HU5CtNK3rds
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as March 2019.</summary>
-
-* [March 9th, 2019 Livestream Q&A: What's the name of the tall thing?](./yt-EhbB7DIOdZ4.md) [https://www.youtube.com/watch?v=EhbB7DIOdZ4](https://www.youtube.com/watch?v=EhbB7DIOdZ4)
-</details>
-
 
 ### Topics
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)

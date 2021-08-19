@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf
 
+## August 17th, 2021 Livestream
+* [Snutt & Jace Talk: Golf](../../../transcriptions/yt-WcHVMJwEpKU.md) [https://www.youtube.com/watch?v=WcHVMJwEpKU](https://www.youtube.com/watch?v=WcHVMJwEpKU)
+* [Q&A: Will the Lizard Doggo act as a Golf caddy when Golf gets implemented?](../../../transcriptions/yt-fzhc__1B2L8.md) [https://www.youtube.com/watch?v=fzhc__1B2L8](https://www.youtube.com/watch?v=fzhc__1B2L8)
+
 ## August 10th, 2021 Livestream
 * [Jace Talk: Golf (Part 1)](../../../transcriptions/yt-ejFvm7ESxk0.md) [https://www.youtube.com/watch?v=ejFvm7ESxk0](https://www.youtube.com/watch?v=ejFvm7ESxk0)
 * [Jace Talk: Golf (Part 2)](../../../transcriptions/yt-K5YpKYuj2W0.md) [https://www.youtube.com/watch?v=K5YpKYuj2W0](https://www.youtube.com/watch?v=K5YpKYuj2W0)

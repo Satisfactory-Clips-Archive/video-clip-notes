@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## August 17th, 2021 Livestream
+* [Snutt & Jace Talk: Snutt's Summer 2021 Vacation Photos](../../transcriptions/yt-O091MGGUbOE.md) [https://www.youtube.com/watch?v=O091MGGUbOE](https://www.youtube.com/watch?v=O091MGGUbOE)
+
 ## July 20th, 2021 Livestream
 * [Jace Talk: Air conditioning](../../transcriptions/yt-jkJgJCCkhsk.md) [https://www.youtube.com/watch?v=jkJgJCCkhsk](https://www.youtube.com/watch?v=jkJgJCCkhsk)
 * [Q&A: How's the Covid situation there?](../../transcriptions/yt-gei8ZkbMnmw.md) [https://www.youtube.com/watch?v=gei8ZkbMnmw](https://www.youtube.com/watch?v=gei8ZkbMnmw)

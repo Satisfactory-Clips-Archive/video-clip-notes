@@ -8,7 +8,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: How many people are there in the studio?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: How many people work at Coffee Stain?](./yt-UPpX70SHb5s.md) [https://www.youtube.com/watch?v=UPpX70SHb5s](https://www.youtube.com/watch?v=UPpX70SHb5s)
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: How many devs are you?](./yt-SvpznvEqr5E.md) [https://www.youtube.com/watch?v=SvpznvEqr5E](https://www.youtube.com/watch?v=SvpznvEqr5E)
 
 
 ### Topics

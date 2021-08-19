@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Have you tossed around the idea of opening a Building's recipe menu from further away?](../../transcriptions/yt-GpX8z1kEuC4.md) [https://www.youtube.com/watch?v=GpX8z1kEuC4](https://www.youtube.com/watch?v=GpX8z1kEuC4)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Equipment workshop Mk.2 for making mini-map?](../../transcriptions/yt-xKCeCVI8Htc.md) [https://www.youtube.com/watch?v=xKCeCVI8Htc](https://www.youtube.com/watch?v=xKCeCVI8Htc)
 * [Q&A: An auto-run button would be nice?](../../transcriptions/yt-o4EJeHpS7RM.md) [https://www.youtube.com/watch?v=o4EJeHpS7RM](https://www.youtube.com/watch?v=o4EJeHpS7RM)

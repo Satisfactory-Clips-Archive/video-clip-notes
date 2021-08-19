@@ -8,6 +8,8 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Do you think you'll fix being able to build under the map, or keep it because people like it?
 https://www.youtube.com/watch?v=IAMN_jSQRaQ
+This question was possibly replaced with a more recent answer: [August 17th, 2021 Livestream Q&A: Will the access to under the map stay after Update 5?](./yt-7larr0PFzsY.md) [https://www.youtube.com/watch?v=7larr0PFzsY](https://www.youtube.com/watch?v=7larr0PFzsY)
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

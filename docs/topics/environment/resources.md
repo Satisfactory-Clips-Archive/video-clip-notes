@@ -14,6 +14,10 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## August 17th, 2021 Livestream
+* Q&A: Quantum Computers in the next Update? [https://www.youtube.com/watch?v=c976JiKNfyU](https://www.youtube.com/watch?v=c976JiKNfyU)
+* [Community FYI: The Resource Scanner, it's slightly off- it doesn't do the elevation of the node](../../transcriptions/yt-FCSBHSAkKww.md) [https://www.youtube.com/watch?v=FCSBHSAkKww](https://www.youtube.com/watch?v=FCSBHSAkKww)
+
 ## August 6th, 2021 Livestream
 * [Q&A: What's happening with Resource Nodes?](../../transcriptions/yt-MxvGbCCc6DI,611.5776333333333,668.5011666666667.md) [https://youtube.com/clip/UgxbJIWwg9IIhNa4BQN4AaABCQ](https://youtube.com/clip/UgxbJIWwg9IIhNa4BQN4AaABCQ)
 

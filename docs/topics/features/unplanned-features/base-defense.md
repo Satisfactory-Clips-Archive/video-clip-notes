@@ -3,7 +3,7 @@ title: "Base Defense"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqp_c5jfKfMjjFOjbTAWrFE
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Unplanned Features > Base Defense
+# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
 ## July 20th, 2021 Livestream
 * [Community FYI: I'm so excited for the Tower Defense mode they announced](../../../transcriptions/yt-RzcHWe-bqSM.md) [https://www.youtube.com/watch?v=RzcHWe-bqSM](https://www.youtube.com/watch?v=RzcHWe-bqSM)

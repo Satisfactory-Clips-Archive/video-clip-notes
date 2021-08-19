@@ -3,7 +3,7 @@ title: "Mass Building"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr4RIwd7JK5NWkjYLh0-Wg1
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Unplanned Features > Mass Building
+# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Mass Building
 
 ## May 25th, 2021 Livestream
 * [Q&A: Mass Building?](../../../transcriptions/yt-ueGK9d55G_Q.md) [https://www.youtube.com/watch?v=ueGK9d55G_Q](https://www.youtube.com/watch?v=ueGK9d55G_Q)

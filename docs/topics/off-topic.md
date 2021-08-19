@@ -10,6 +10,7 @@ date: Last Modified
 * [Factorio](../topics/off-topic/factorio.md)
 * [Food & Drink](../topics/off-topic/food-drink.md)
 * [Goat Simulator](../topics/off-topic/goat-simulator.md)
+* [I Love Strawberries](../topics/off-topic/i-love-strawberries.md)
 * [Infinifactory](../topics/off-topic/infinifactory.md)
 * [Sanctum](../topics/off-topic/sanctum.md)
 * [Songs of Conquest](../topics/off-topic/songs-of-conquest.md)

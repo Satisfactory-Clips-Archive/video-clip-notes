@@ -9,7 +9,7 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Will there be signs in Update 4?
 https://www.youtube.com/watch?v=8BmHQuMW_L8
-This question was possibly duplicated with a more recent answer: August 3rd, 2021 Livestream Q&A: Will we ever see writable signs to label stuff? [https://www.youtube.com/watch?v=5lnAMr0DyBE](https://www.youtube.com/watch?v=5lnAMr0DyBE)
+This question was possibly duplicated with a more recent answer: August 17th, 2021 Livestream Q&A: Will you add Signs in the game? [https://www.youtube.com/watch?v=bmLgjjNst3M](https://www.youtube.com/watch?v=bmLgjjNst3M)
 
 
 ### Topics

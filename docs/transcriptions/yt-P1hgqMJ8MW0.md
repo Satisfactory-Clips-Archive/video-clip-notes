@@ -8,7 +8,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Can we get Signs in the game?
 https://www.youtube.com/watch?v=P1hgqMJ8MW0
-This question was possibly duplicated with a more recent answer: August 3rd, 2021 Livestream Q&A: Will we ever see writable signs to label stuff? [https://www.youtube.com/watch?v=5lnAMr0DyBE](https://www.youtube.com/watch?v=5lnAMr0DyBE)
+This question was possibly duplicated with a more recent answer: August 17th, 2021 Livestream Q&A: Will you add Signs in the game? [https://www.youtube.com/watch?v=bmLgjjNst3M](https://www.youtube.com/watch?v=bmLgjjNst3M)
 
 
 ### Topics

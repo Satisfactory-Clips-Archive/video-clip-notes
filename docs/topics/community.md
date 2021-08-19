@@ -23,6 +23,9 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: What did you think of the fusion photo?](../transcriptions/yt-8Ed70U5TDmM.md) [https://www.youtube.com/watch?v=8Ed70U5TDmM](https://www.youtube.com/watch?v=8Ed70U5TDmM)
+
 ## August 3rd, 2021 Livestream
 * [Community FYI: Great work!](../transcriptions/yt-oUR-uYAevLM.md) [https://www.youtube.com/watch?v=oUR-uYAevLM](https://www.youtube.com/watch?v=oUR-uYAevLM)
 * [Q&A: Does anyone on the team watch people streaming randomly?](../transcriptions/yt-x1Cu1TerhSc.md) [https://www.youtube.com/watch?v=x1Cu1TerhSc](https://www.youtube.com/watch?v=x1Cu1TerhSc)

@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: How many Updates until 1.0?
 https://www.youtube.com/watch?v=qtf26oE7kQs
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: How many more updates will you publish before launch](./yt-V9vVWjA75-0.md) [https://www.youtube.com/watch?v=V9vVWjA75-0](https://www.youtube.com/watch?v=V9vVWjA75-0)
+This question was possibly duplicated with a more recent answer: August 17th, 2021 Livestream Q&A: How many Updates after 5? [https://www.youtube.com/watch?v=Rbh6KabAZSY](https://www.youtube.com/watch?v=Rbh6KabAZSY)
 
 
 ### Topics

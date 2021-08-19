@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## August 17th, 2021 Livestream
+* [Q&A: Is there a fix for Pipes losing Fluids?](../../../transcriptions/yt-KhQsMU7iR3I.md) [https://www.youtube.com/watch?v=KhQsMU7iR3I](https://www.youtube.com/watch?v=KhQsMU7iR3I)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Pipe Max Flow bugfix, when?](../../../transcriptions/yt-rpM6yCKgW7w.md) [https://www.youtube.com/watch?v=rpM6yCKgW7w](https://www.youtube.com/watch?v=rpM6yCKgW7w)
 

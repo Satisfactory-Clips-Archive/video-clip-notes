@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will the Train always clip?
 https://www.youtube.com/watch?v=PY6wf7cvjgM
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: What can you tell about Train Update, will it be more than just collisions?](./yt-tCsNeadKzLU.md) [https://www.youtube.com/watch?v=tCsNeadKzLU](https://www.youtube.com/watch?v=tCsNeadKzLU)
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Train system rework?](./yt-wCZKwW_RtXg.md) [https://www.youtube.com/watch?v=wCZKwW_RtXg](https://www.youtube.com/watch?v=wCZKwW_RtXg)
 
 
 ### Topics

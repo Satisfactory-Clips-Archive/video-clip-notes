@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Peaceful Mode
 
+## August 17th, 2021 Livestream
+* [Q&A: Any plans for peace mode in the game?](../../../../transcriptions/yt-MDBg0w3FweM.md) [https://www.youtube.com/watch?v=MDBg0w3FweM](https://www.youtube.com/watch?v=MDBg0w3FweM)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Is there going to be some kind of Peaceful Mode?](../../../../transcriptions/yt-pPeoQr8CpGg.md) [https://www.youtube.com/watch?v=pPeoQr8CpGg](https://www.youtube.com/watch?v=pPeoQr8CpGg)
 

@@ -14,6 +14,11 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Same bug as the equipment that flies in the tube?](../../transcriptions/yt-r7lFsWlRIPE.md) [https://www.youtube.com/watch?v=r7lFsWlRIPE](https://www.youtube.com/watch?v=r7lFsWlRIPE)
+* [Q&A: Are there any plans for new weapons?](../../transcriptions/yt-cZUm0MioIek.md) [https://www.youtube.com/watch?v=cZUm0MioIek](https://www.youtube.com/watch?v=cZUm0MioIek)
+* [Community FYI: The Resource Scanner, it's slightly off- it doesn't do the elevation of the node](../../transcriptions/yt-FCSBHSAkKww.md) [https://www.youtube.com/watch?v=FCSBHSAkKww](https://www.youtube.com/watch?v=FCSBHSAkKww)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Battle Royale mode with only Nobelisk Detonators?](../../transcriptions/yt-815wYM_Z6_Q.md) [https://www.youtube.com/watch?v=815wYM_Z6_Q](https://www.youtube.com/watch?v=815wYM_Z6_Q)
 * [Q&A: Maybe a grapple gun?](../../transcriptions/yt-fLz-4eFS6XQ.md) [https://www.youtube.com/watch?v=fLz-4eFS6XQ](https://www.youtube.com/watch?v=fLz-4eFS6XQ)

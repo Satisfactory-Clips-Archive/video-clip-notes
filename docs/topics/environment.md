@@ -11,6 +11,10 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Any chance of a fan or a vent to neutralise the gas towers?](../transcriptions/yt-bA-jzp-iFV8.md) [https://www.youtube.com/watch?v=bA-jzp-iFV8](https://www.youtube.com/watch?v=bA-jzp-iFV8)
+* [Q&A: Adjustable day/night cycle?](../transcriptions/yt-fgduj_wvIkQ.md) [https://www.youtube.com/watch?v=fgduj_wvIkQ](https://www.youtube.com/watch?v=fgduj_wvIkQ)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: How do floating trees & rocks happen?](../transcriptions/yt-6Y25k25rbWg.md) [https://www.youtube.com/watch?v=6Y25k25rbWg](https://www.youtube.com/watch?v=6Y25k25rbWg)
 * [Q&A: Any more penis rocks coming into the game?](../transcriptions/yt-rq_G9PiuWQU.md) [https://www.youtube.com/watch?v=rq_G9PiuWQU](https://www.youtube.com/watch?v=rq_G9PiuWQU)

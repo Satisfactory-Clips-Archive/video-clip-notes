@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## August 17th, 2021 Livestream
+* [Snutt & Jace Talk: Vocal exercises](../transcriptions/yt-ipFt_rieUP8.md) [https://www.youtube.com/watch?v=ipFt_rieUP8](https://www.youtube.com/watch?v=ipFt_rieUP8)
+* [Snutt & Jace Talk: Snutt's Summer 2021 Vacation Photos](../transcriptions/yt-O091MGGUbOE.md) [https://www.youtube.com/watch?v=O091MGGUbOE](https://www.youtube.com/watch?v=O091MGGUbOE)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Can Jace tease or Troll us?](../transcriptions/yt-_M2lFTR8Xh0.md) [https://www.youtube.com/watch?v=_M2lFTR8Xh0](https://www.youtube.com/watch?v=_M2lFTR8Xh0)
 * [Q&A: Will Trains collide with Toilets?](../transcriptions/yt-ioPXHnpubzQ.md) [https://www.youtube.com/watch?v=ioPXHnpubzQ](https://www.youtube.com/watch?v=ioPXHnpubzQ)

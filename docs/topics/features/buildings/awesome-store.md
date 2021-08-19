@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## August 17th, 2021 Livestream
+* [Q&A: How do you decide what goes in the M.A.M., Shop, or in a Tier ?](../../../transcriptions/yt-z-Ozh3_DDzs.md) [https://www.youtube.com/watch?v=z-Ozh3_DDzs](https://www.youtube.com/watch?v=z-Ozh3_DDzs)
+
 ## August 10th, 2021 Livestream
 * Q&A: Is there much more to come from the AWESOME Shop? Floor holes? [https://www.youtube.com/watch?v=CEma7SsYMS8](https://www.youtube.com/watch?v=CEma7SsYMS8)
 

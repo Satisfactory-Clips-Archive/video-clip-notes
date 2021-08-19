@@ -8,7 +8,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: How often will you be releasing new content?
 https://www.youtube.com/watch?v=1gGMZa-xf70
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: How many more updates will you publish before launch](./yt-V9vVWjA75-0.md) [https://www.youtube.com/watch?v=V9vVWjA75-0](https://www.youtube.com/watch?v=V9vVWjA75-0)
+This question was possibly duplicated with a more recent answer: August 17th, 2021 Livestream Q&A: How many Updates after 5? [https://www.youtube.com/watch?v=Rbh6KabAZSY](https://www.youtube.com/watch?v=Rbh6KabAZSY)
 
 
 ### Topics

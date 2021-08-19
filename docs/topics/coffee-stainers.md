@@ -36,6 +36,10 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## August 17th, 2021 Livestream
+* [State of Dev: Most people are back from vacation](../transcriptions/yt-yb2UEdQMQMI.md) [https://www.youtube.com/watch?v=yb2UEdQMQMI](https://www.youtube.com/watch?v=yb2UEdQMQMI)
+* [Q&A: Does the dev team have their own list of crap to do?](../transcriptions/yt-MkdQtDkdOAM.md) [https://www.youtube.com/watch?v=MkdQtDkdOAM](https://www.youtube.com/watch?v=MkdQtDkdOAM)
+
 ## August 10th, 2021 Livestream
 * [State of Dev: Coffee Stainers returning from vacation](../transcriptions/yt-cVBULNdIJlQ.md) [https://www.youtube.com/watch?v=cVBULNdIJlQ](https://www.youtube.com/watch?v=cVBULNdIJlQ)
 * [Q&A: Are people still checking the QA Site daily with everyone on vacation?](../transcriptions/yt-4pvmXbqHYZk.md) [https://www.youtube.com/watch?v=4pvmXbqHYZk](https://www.youtube.com/watch?v=4pvmXbqHYZk)

@@ -9,7 +9,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Underwater Worlds?
 https://www.youtube.com/watch?v=QXK9y3pnWGg
-This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: What about Underwater?](./yt-UgeFxfdLV0k.md) [https://www.youtube.com/watch?v=UgeFxfdLV0k](https://www.youtube.com/watch?v=UgeFxfdLV0k)
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Will there be an Underwater Biome](./yt-u-5r_fGpBz4.md) [https://www.youtube.com/watch?v=u-5r_fGpBz4](https://www.youtube.com/watch?v=u-5r_fGpBz4)
 
 
 ### Topics

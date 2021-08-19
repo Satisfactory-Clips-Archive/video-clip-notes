@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## August 17th, 2021 Livestream
+* [Q&A: Train system rework?](../../../../transcriptions/yt-wCZKwW_RtXg.md) [https://www.youtube.com/watch?v=wCZKwW_RtXg](https://www.youtube.com/watch?v=wCZKwW_RtXg)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Will you change Train collisions?](../../../../transcriptions/yt-Naz8-MfIlZI.md) [https://www.youtube.com/watch?v=Naz8-MfIlZI](https://www.youtube.com/watch?v=Naz8-MfIlZI)
 * [Q&A: What can you tell about Train Update, will it be more than just collisions?](../../../../transcriptions/yt-tCsNeadKzLU.md) [https://www.youtube.com/watch?v=tCsNeadKzLU](https://www.youtube.com/watch?v=tCsNeadKzLU)

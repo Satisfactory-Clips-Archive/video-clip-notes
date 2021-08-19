@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## August 17th, 2021 Livestream
+* [Q&A: When's the Pioneer face reveal?](../../transcriptions/yt-ij10c9v0qGI.md) [https://www.youtube.com/watch?v=ij10c9v0qGI](https://www.youtube.com/watch?v=ij10c9v0qGI)
+* [Q&A: Sleep & Food?](../../transcriptions/yt-Rfq5XpdNCnA.md) [https://www.youtube.com/watch?v=Rfq5XpdNCnA](https://www.youtube.com/watch?v=Rfq5XpdNCnA)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Is there plans to have a helmet-less Pioneer?](../../transcriptions/yt-U2AePcCYNEI.md) [https://www.youtube.com/watch?v=U2AePcCYNEI](https://www.youtube.com/watch?v=U2AePcCYNEI)
 

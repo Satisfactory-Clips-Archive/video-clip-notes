@@ -8,6 +8,9 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Is there a fix for Pipes losing Fluids?](../../transcriptions/yt-KhQsMU7iR3I.md) [https://www.youtube.com/watch?v=KhQsMU7iR3I](https://www.youtube.com/watch?v=KhQsMU7iR3I)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Sewage pipes, too ?](../../transcriptions/yt-pWwXk0cJ9Fk.md) [https://www.youtube.com/watch?v=pWwXk0cJ9Fk](https://www.youtube.com/watch?v=pWwXk0cJ9Fk)
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 6)](../../transcriptions/yt-R9SFp0jzD7Q.md) [https://www.youtube.com/watch?v=R9SFp0jzD7Q](https://www.youtube.com/watch?v=R9SFp0jzD7Q)

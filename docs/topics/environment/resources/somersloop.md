@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Somersloop
 
+## August 17th, 2021 Livestream
+* [Q&A: Internally, do you know what the WIP items are planned to do, or is it up in the air?](../../../transcriptions/yt-cH02SWIw8-A.md) [https://www.youtube.com/watch?v=cH02SWIw8-A](https://www.youtube.com/watch?v=cH02SWIw8-A)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Will S.A.M. Ore, Somersloops, and Mercer Spheres have a function beyond Story stuff?](../../../transcriptions/yt-mzMRZqpxaug.md) [https://www.youtube.com/watch?v=mzMRZqpxaug](https://www.youtube.com/watch?v=mzMRZqpxaug)
 

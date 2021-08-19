@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Merch](../../topics/merch.md) > EU Merch Store
 
+## August 17th, 2021 Livestream
+* [State of Dev: EU Merch Store + Mug](../../transcriptions/yt-VoxNe9_Po9s.md) [https://www.youtube.com/watch?v=VoxNe9_Po9s](https://www.youtube.com/watch?v=VoxNe9_Po9s)
+
 ## August 10th, 2021 Livestream
 * [Q&A: EU Merch Shop?](../../transcriptions/yt-fkCoDFaTwPs.md) [https://www.youtube.com/watch?v=fkCoDFaTwPs](https://www.youtube.com/watch?v=fkCoDFaTwPs)
 

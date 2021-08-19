@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 * [Coffee Stainers can't pronounce Hannah's last name](../../topics/coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Does Hannah use VR when editing the world?](../../transcriptions/yt-bbAIZkim4Ww.md) [https://www.youtube.com/watch?v=bbAIZkim4Ww](https://www.youtube.com/watch?v=bbAIZkim4Ww)
+
 ## August 10th, 2021 Livestream
 * [Community FYI: Should ask Hannah](../../transcriptions/yt-PHKMuNslxYY.md) [https://www.youtube.com/watch?v=PHKMuNslxYY](https://www.youtube.com/watch?v=PHKMuNslxYY)
 

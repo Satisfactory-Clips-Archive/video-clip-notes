@@ -7,6 +7,13 @@ date: Last Modified
 * [Northern Forest World Update Q&A with Hannah](../../../topics/satisfactory-updates/pending/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
 * [#SaveTheWillows](../../../topics/satisfactory-updates/pending/satisfactory-update-5/save-the-willows.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Will the access to under the map stay after Update 5?](../../../transcriptions/yt-7larr0PFzsY.md) [https://www.youtube.com/watch?v=7larr0PFzsY](https://www.youtube.com/watch?v=7larr0PFzsY)
+* Q&A: Quantum Computers in the next Update? [https://www.youtube.com/watch?v=c976JiKNfyU](https://www.youtube.com/watch?v=c976JiKNfyU)
+* Q&A: How many Updates after 5? [https://www.youtube.com/watch?v=Rbh6KabAZSY](https://www.youtube.com/watch?v=Rbh6KabAZSY)
+* Q&A: Will there be a trailer for Update 5? [https://www.youtube.com/watch?v=JV4smAOF8J8](https://www.youtube.com/watch?v=JV4smAOF8J8)
+* [Q&A: Is Update 5 just going to be World changes?](../../../transcriptions/yt-pie5IqfXjD0.md) [https://www.youtube.com/watch?v=pie5IqfXjD0](https://www.youtube.com/watch?v=pie5IqfXjD0)
+
 ## August 10th, 2021 Livestream
 * [State of Dev: Update 5 Map Changes](../../../transcriptions/yt-9iO2_2X7M2s.md) [https://www.youtube.com/watch?v=9iO2_2X7M2s](https://www.youtube.com/watch?v=9iO2_2X7M2s)
 * [Q&A: Will there be another game Update this month or next month?](../../../transcriptions/yt-RFBNUCRN7cE.md) [https://www.youtube.com/watch?v=RFBNUCRN7cE](https://www.youtube.com/watch?v=RFBNUCRN7cE)

@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: How many Devs are working on the Game approximately?
 https://www.youtube.com/watch?v=cqz8zcpP2og
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: How many people work at Coffee Stain?](./yt-UPpX70SHb5s.md) [https://www.youtube.com/watch?v=UPpX70SHb5s](https://www.youtube.com/watch?v=UPpX70SHb5s)
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: How many devs are you?](./yt-SvpznvEqr5E.md) [https://www.youtube.com/watch?v=SvpznvEqr5E](https://www.youtube.com/watch?v=SvpznvEqr5E)
 
 
 ### Topics

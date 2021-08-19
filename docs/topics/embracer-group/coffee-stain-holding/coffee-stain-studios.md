@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## August 17th, 2021 Livestream
+* [Q&A: Can you confirm Coffee Stain is part of THQ/Embracer Group](../../../transcriptions/yt-xwK1JN5-k_o.md) [https://www.youtube.com/watch?v=xwK1JN5-k_o](https://www.youtube.com/watch?v=xwK1JN5-k_o)
+* [Q&A: How many devs are you?](../../../transcriptions/yt-SvpznvEqr5E.md) [https://www.youtube.com/watch?v=SvpznvEqr5E](https://www.youtube.com/watch?v=SvpznvEqr5E)
+
 ## August 10th, 2021 Livestream
 * [Q&A: You're self-publishing, right? Is Satisfactory technically an indie game?](../../../transcriptions/yt-jM_iu4s-OJ8.md) [https://www.youtube.com/watch?v=jM_iu4s-OJ8](https://www.youtube.com/watch?v=jM_iu4s-OJ8)
 * [Q&A: Does Lars not make you not indie?](../../../transcriptions/yt-NZaGL-Zjl0o.md) [https://www.youtube.com/watch?v=NZaGL-Zjl0o](https://www.youtube.com/watch?v=NZaGL-Zjl0o)
@@ -23,6 +27,9 @@ date: Last Modified
 
 ## May 11th, 2021 Livestream
 * [State of Dev: How our showcase meetings work](../../../transcriptions/yt-OTb1ZkP5mkE.md) [https://www.youtube.com/watch?v=OTb1ZkP5mkE](https://www.youtube.com/watch?v=OTb1ZkP5mkE)
+
+## April 20th, 2021 Livestream
+* [Q&A: How many people work at Coffee Stain?](../../../transcriptions/yt-UPpX70SHb5s.md) [https://www.youtube.com/watch?v=UPpX70SHb5s](https://www.youtube.com/watch?v=UPpX70SHb5s)
 
 ## February 16th, 2021 Livestream
 * [Q&A: How big is the development team?](../../../transcriptions/yt--iZbaVL7D0g.md) [https://www.youtube.com/watch?v=-iZbaVL7D0g](https://www.youtube.com/watch?v=-iZbaVL7D0g)

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## August 17th, 2021 Livestream
+* [Community FYI: Trains change colour when docking with stations if the stations are different colours](../../../transcriptions/yt-UUOheBkifOY.md) [https://www.youtube.com/watch?v=UUOheBkifOY](https://www.youtube.com/watch?v=UUOheBkifOY)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Any chance of a Craft Bench or Workshop Train cart?](../../../transcriptions/yt-wiS1sjSEt9g.md) [https://www.youtube.com/watch?v=wiS1sjSEt9g](https://www.youtube.com/watch?v=wiS1sjSEt9g)
 * [Q&A: Any chance the tracks will have a change so they work better at intersections/switch points?](../../../transcriptions/yt-JqvA3qyHS2g.md) [https://www.youtube.com/watch?v=JqvA3qyHS2g](https://www.youtube.com/watch?v=JqvA3qyHS2g)

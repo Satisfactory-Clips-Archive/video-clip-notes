@@ -296,7 +296,7 @@ date: Last Modified
 * [Truck](./topics/features/transportation/vehicles/truck.md)
 ---
 
-## Unplanned Features
+## [Unplanned Features](./topics/features/unplanned-features.md)
 * [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)
 * [Base Defense](./topics/features/unplanned-features/base-defense.md)
 * [Factory Maintenance](./topics/features/unplanned-features/factory-maintenance.md)
@@ -369,6 +369,7 @@ date: Last Modified
 * [E3](./topics/off-topic/e3.md)
 * [Factorio](./topics/off-topic/factorio.md)
 * [Goat Simulator](./topics/off-topic/goat-simulator.md)
+* [I Love Strawberries](./topics/off-topic/i-love-strawberries.md)
 * [Infinifactory](./topics/off-topic/infinifactory.md)
 * [Sanctum](./topics/off-topic/sanctum.md)
 * [Songs of Conquest](./topics/off-topic/songs-of-conquest.md)

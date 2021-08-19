@@ -3,7 +3,10 @@ title: "VR"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Unplanned Features > VR
+# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > VR
+
+## August 17th, 2021 Livestream
+* [Q&A: Does Hannah use VR when editing the world?](../../../transcriptions/yt-bbAIZkim4Ww.md) [https://www.youtube.com/watch?v=bbAIZkim4Ww](https://www.youtube.com/watch?v=bbAIZkim4Ww)
 
 ## July 13th, 2021 Livestream
 * [Q&A: I noticed some VR-related commands in console, is the game getting VR?](../../../transcriptions/yt-laybFj6QKzA.md) [https://www.youtube.com/watch?v=laybFj6QKzA](https://www.youtube.com/watch?v=laybFj6QKzA)

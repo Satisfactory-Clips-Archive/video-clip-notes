@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## August 17th, 2021 Livestream
+* [Jace Talk: I Love Strawberries poster](../../../transcriptions/yt-M9rzguRCWjc.md) [https://www.youtube.com/watch?v=M9rzguRCWjc](https://www.youtube.com/watch?v=M9rzguRCWjc)
+
 ## July 20th, 2021 Livestream
 * [Q&A: More Shop items (decorations, plants) in the next Update?](../../../transcriptions/yt-ABvXAJSdX2c.md) [https://www.youtube.com/watch?v=ABvXAJSdX2c](https://www.youtube.com/watch?v=ABvXAJSdX2c)
 

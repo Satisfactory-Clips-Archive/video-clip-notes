@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## August 17th, 2021 Livestream
+* [Q&A: Is Update 5 just going to be World changes?](../../transcriptions/yt-pie5IqfXjD0.md) [https://www.youtube.com/watch?v=pie5IqfXjD0](https://www.youtube.com/watch?v=pie5IqfXjD0)
+
 ## August 10th, 2021 Livestream
 * [State of Dev: Update 5 Map Changes](../../transcriptions/yt-9iO2_2X7M2s.md) [https://www.youtube.com/watch?v=9iO2_2X7M2s](https://www.youtube.com/watch?v=9iO2_2X7M2s)
 

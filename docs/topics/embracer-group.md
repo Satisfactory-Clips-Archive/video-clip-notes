@@ -8,6 +8,9 @@ date: Last Modified
 * [Gearbox Software](../topics/embracer-group/gearbox-software.md)
 * [THQ Nordic](../topics/embracer-group/thq-nordic.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Can you confirm Coffee Stain is part of THQ/Embracer Group](../transcriptions/yt-xwK1JN5-k_o.md) [https://www.youtube.com/watch?v=xwK1JN5-k_o](https://www.youtube.com/watch?v=xwK1JN5-k_o)
+
 ## February 9th, 2021 Livestream
 * [Snutt & Jace Talk: Embracer Group acquiring Gearbox Software](../transcriptions/yt-_W2IUbLc1Zw.md) [https://www.youtube.com/watch?v=_W2IUbLc1Zw](https://www.youtube.com/watch?v=_W2IUbLc1Zw)
 

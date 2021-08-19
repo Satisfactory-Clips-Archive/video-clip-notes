@@ -8,6 +8,12 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any plans for customising the Build Menu organisation?
 https://www.youtube.com/watch?v=Y6RYXEZ3aek
+<details>
+<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+
+* [September 1st, 2020 Livestream Q&A: Adding of favourites to the Construction Menu ?](./yt-tet-0DBydrc.md) [https://www.youtube.com/watch?v=tet-0DBydrc](https://www.youtube.com/watch?v=tet-0DBydrc)
+</details>
+
 
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)

@@ -26,6 +26,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Have you tossed around the idea of opening a Building's recipe menu from further away?](../../transcriptions/yt-GpX8z1kEuC4.md) [https://www.youtube.com/watch?v=GpX8z1kEuC4](https://www.youtube.com/watch?v=GpX8z1kEuC4)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Are you going to add more Buildings to make the game less Refinery-reliant?](../../transcriptions/yt-Fp1WczBseIM.md) [https://www.youtube.com/watch?v=Fp1WczBseIM](https://www.youtube.com/watch?v=Fp1WczBseIM)
 

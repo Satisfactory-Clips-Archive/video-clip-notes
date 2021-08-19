@@ -8,6 +8,8 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Adding of favourites to the Construction Menu ?
 https://www.youtube.com/watch?v=tet-0DBydrc
+This question was possibly duplicated with a more recent answer: [November 17th, 2020 Livestream Q&A: Any plans for customising the Build Menu organisation?](./yt-Y6RYXEZ3aek.md) [https://www.youtube.com/watch?v=Y6RYXEZ3aek](https://www.youtube.com/watch?v=Y6RYXEZ3aek)
+
 
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)

@@ -9,7 +9,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Do you have plans for the WIP items?
 https://www.youtube.com/watch?v=GPP6rcB8ROw
-This question was possibly duplicated with a more recent answer: June 15th, 2021 Livestream Q&A: Should we expect Somersloops & Mercer Spheres to not be useful until much later in development? [https://www.youtube.com/watch?v=qrmgbW2hPZA](https://www.youtube.com/watch?v=qrmgbW2hPZA)
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Internally, do you know what the WIP items are planned to do, or is it up in the air?](./yt-cH02SWIw8-A.md) [https://www.youtube.com/watch?v=cH02SWIw8-A](https://www.youtube.com/watch?v=cH02SWIw8-A)
 
 
 ### Topics

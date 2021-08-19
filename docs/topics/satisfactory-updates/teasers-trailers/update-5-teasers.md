@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Teasers
 
+## August 17th, 2021 Livestream
+* Q&A: Will there be a trailer for Update 5? [https://www.youtube.com/watch?v=JV4smAOF8J8](https://www.youtube.com/watch?v=JV4smAOF8J8)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Is there a look at Update 5 every week now?](../../../transcriptions/yt-2IR944j_1X4.md) [https://www.youtube.com/watch?v=2IR944j_1X4](https://www.youtube.com/watch?v=2IR944j_1X4)
 * [Q&A: Trailer, where?](../../../transcriptions/yt-McTFRkVG3es.md) [https://www.youtube.com/watch?v=McTFRkVG3es](https://www.youtube.com/watch?v=McTFRkVG3es)

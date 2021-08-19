@@ -8,6 +8,8 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: What can you tell about Train Update, will it be more than just collisions?
 https://www.youtube.com/watch?v=tCsNeadKzLU
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Train system rework?](./yt-wCZKwW_RtXg.md) [https://www.youtube.com/watch?v=wCZKwW_RtXg](https://www.youtube.com/watch?v=wCZKwW_RtXg)
+
 
 ### Topics
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)

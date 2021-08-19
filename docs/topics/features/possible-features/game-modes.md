@@ -8,6 +8,9 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Sleep & Food?](../../../transcriptions/yt-Rfq5XpdNCnA.md) [https://www.youtube.com/watch?v=Rfq5XpdNCnA](https://www.youtube.com/watch?v=Rfq5XpdNCnA)
+
 ## August 10th, 2021 Livestream
 * [Community FYI: Need hardcore mode- you die, save gets deleted.](../../../transcriptions/yt-b1_Wa8T0l5Q.md) [https://www.youtube.com/watch?v=b1_Wa8T0l5Q](https://www.youtube.com/watch?v=b1_Wa8T0l5Q)
 * [Q&A: Newgame+ where you keep your factory but all monsters respawn and hunt you across the map](../../../transcriptions/yt-dTd1HNZxWrE.md) [https://www.youtube.com/watch?v=dTd1HNZxWrE](https://www.youtube.com/watch?v=dTd1HNZxWrE)

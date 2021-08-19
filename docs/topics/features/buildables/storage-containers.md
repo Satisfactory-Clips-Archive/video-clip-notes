@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## August 17th, 2021 Livestream
+* [Q&A: Thoughts on adding smaller Storage bins?](../../../transcriptions/yt-KsKSqvk27Qk.md) [https://www.youtube.com/watch?v=KsKSqvk27Qk](https://www.youtube.com/watch?v=KsKSqvk27Qk)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Is there a way to collect a bin from the bottom of the sea?](../../../transcriptions/yt-mffqiLX6liU.md) [https://www.youtube.com/watch?v=mffqiLX6liU](https://www.youtube.com/watch?v=mffqiLX6liU)
 

@@ -3,7 +3,10 @@ title: "Terraforming"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo_Z7JjldxMswBGTxOI9cDH
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Unplanned Features > Terraforming
+# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Terraforming
+
+## August 17th, 2021 Livestream
+* [Q&A: Will there be some chance to get Terraforming?](../../../transcriptions/yt-Ojwu95O6Z3Q.md) [https://www.youtube.com/watch?v=Ojwu95O6Z3Q](https://www.youtube.com/watch?v=Ojwu95O6Z3Q)
 
 ## July 13th, 2021 Livestream
 * [Q&A: Consider terraforming?](../../../transcriptions/yt-CR-lp1uJfIw.md) [https://www.youtube.com/watch?v=CR-lp1uJfIw](https://www.youtube.com/watch?v=CR-lp1uJfIw)

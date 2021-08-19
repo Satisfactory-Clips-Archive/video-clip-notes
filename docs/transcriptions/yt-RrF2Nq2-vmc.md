@@ -9,7 +9,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Will we be able to place holes in Walls and floors freely?
 https://www.youtube.com/watch?v=RrF2Nq2-vmc
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Are there plans for Foundations with Conveyor spaces?](./yt-vcSdumvqOHg.md) [https://www.youtube.com/watch?v=vcSdumvqOHg](https://www.youtube.com/watch?v=vcSdumvqOHg)
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Will there ever be a Conveyor or Pipe hole in Foundations?](./yt-T7YW7I7D7jk.md) [https://www.youtube.com/watch?v=T7YW7I7D7jk](https://www.youtube.com/watch?v=T7YW7I7D7jk)
 
 
 ### Topics

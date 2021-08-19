@@ -3,7 +3,7 @@ title: "Procedural Generation"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEprHLlT4mBHmpA1Hbsdd9TV
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Unplanned Features > Procedural Generation
+# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Procedural Generation
 
 ## June 29th, 2021 Livestream
 * [Q&A: Any plans for random map generation?](../../../transcriptions/yt-Z9c7weKgaz0.md) [https://www.youtube.com/watch?v=Z9c7weKgaz0](https://www.youtube.com/watch?v=Z9c7weKgaz0)

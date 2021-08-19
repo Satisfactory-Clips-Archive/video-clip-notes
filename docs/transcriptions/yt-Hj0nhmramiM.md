@@ -8,7 +8,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: How many devs do you have?
 https://www.youtube.com/watch?v=Hj0nhmramiM
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: How many people work at Coffee Stain?](./yt-UPpX70SHb5s.md) [https://www.youtube.com/watch?v=UPpX70SHb5s](https://www.youtube.com/watch?v=UPpX70SHb5s)
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: How many devs are you?](./yt-SvpznvEqr5E.md) [https://www.youtube.com/watch?v=SvpznvEqr5E](https://www.youtube.com/watch?v=SvpznvEqr5E)
 
 
 ### Topics

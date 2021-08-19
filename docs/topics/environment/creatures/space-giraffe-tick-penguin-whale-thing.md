@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
+## August 17th, 2021 Livestream
+* [Q&A: Is there an official name for the confusing creature?](../../../transcriptions/yt-dspo4FmBxqI.md) [https://www.youtube.com/watch?v=dspo4FmBxqI](https://www.youtube.com/watch?v=dspo4FmBxqI)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: The Space Giraffe-Tick-Penguin-Whale Thing](../../../transcriptions/yt-WcxVgGWsLcY.md) [https://www.youtube.com/watch?v=WcxVgGWsLcY](https://www.youtube.com/watch?v=WcxVgGWsLcY)
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 8)](../../../transcriptions/yt-B5e4Is3oqYw.md) [https://www.youtube.com/watch?v=B5e4Is3oqYw](https://www.youtube.com/watch?v=B5e4Is3oqYw)

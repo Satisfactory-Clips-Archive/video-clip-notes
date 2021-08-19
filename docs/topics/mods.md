@@ -32,6 +32,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Can you fix the issue with Mod users losing their hard drives if they restart or crash?](../transcriptions/yt-0-a_MfTEsks.md) [https://www.youtube.com/watch?v=0-a_MfTEsks](https://www.youtube.com/watch?v=0-a_MfTEsks)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Will Mods break after Update 5?](../transcriptions/yt-XQkP3meJoSo.md) [https://www.youtube.com/watch?v=XQkP3meJoSo](https://www.youtube.com/watch?v=XQkP3meJoSo)
 

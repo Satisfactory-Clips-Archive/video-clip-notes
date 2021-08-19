@@ -3,7 +3,7 @@ title: "Space Exploration"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpT_HG6yiXztZ5oNXPOutgR
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Unplanned Features > Space Exploration
+# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Space Exploration
 
 ## August 3rd, 2021 Livestream
 * [Q&A: Is there in some future spaceships & other planets?](../../../transcriptions/yt-vb6AS9mxtcA.md) [https://www.youtube.com/watch?v=vb6AS9mxtcA](https://www.youtube.com/watch?v=vb6AS9mxtcA)

@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Unreal Engine has default Controller support without you guys remapping?
 https://www.youtube.com/watch?v=ypJikGBEdvs
-This question was possibly duplicated with a more recent answer: [September 22nd, 2020 Livestream Q&A: Confused on the use of Controllers?](./yt-BuC0nQS2Kqs.md) [https://www.youtube.com/watch?v=BuC0nQS2Kqs](https://www.youtube.com/watch?v=BuC0nQS2Kqs)
+This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Any chance for improved controller support?](./yt-jZYkquJsDyM.md) [https://www.youtube.com/watch?v=jZYkquJsDyM](https://www.youtube.com/watch?v=jZYkquJsDyM)
 
 
 ### Topics

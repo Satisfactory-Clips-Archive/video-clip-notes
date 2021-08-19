@@ -12,6 +12,11 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## August 17th, 2021 Livestream
+* [Q&A: Why isn't gas inside the Vehicles?](../../../transcriptions/yt-pZ64H9SULDQ.md) [https://www.youtube.com/watch?v=pZ64H9SULDQ](https://www.youtube.com/watch?v=pZ64H9SULDQ)
+* [Snutt & Jace Talk: Lights on Vehicles](../../../transcriptions/yt-zthUcZHeiu0.md) [https://www.youtube.com/watch?v=zthUcZHeiu0](https://www.youtube.com/watch?v=zthUcZHeiu0)
+* [Q&A: What about the Vehicles being paintable?](../../../transcriptions/yt-C18EauRatIw.md) [https://www.youtube.com/watch?v=C18EauRatIw](https://www.youtube.com/watch?v=C18EauRatIw)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Any chance of a large Vehicle that we can build upon?](../../../transcriptions/yt-XYsjNVANI1k.md) [https://www.youtube.com/watch?v=XYsjNVANI1k](https://www.youtube.com/watch?v=XYsjNVANI1k)
 * [Q&A: Boats?](../../../transcriptions/yt-Kkr3alKdef0.md) [https://www.youtube.com/watch?v=Kkr3alKdef0](https://www.youtube.com/watch?v=Kkr3alKdef0)

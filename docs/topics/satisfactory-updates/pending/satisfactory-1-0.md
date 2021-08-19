@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## August 17th, 2021 Livestream
+* [Q&A: Have you got any plans after Satisfactory?](../../../transcriptions/yt-GWygJUeqbHU.md) [https://www.youtube.com/watch?v=GWygJUeqbHU](https://www.youtube.com/watch?v=GWygJUeqbHU)
+* Q&A: How many Updates after 5? [https://www.youtube.com/watch?v=Rbh6KabAZSY](https://www.youtube.com/watch?v=Rbh6KabAZSY)
+* [Q&A: I love Strawberries 2 after Satisfactory?](../../../transcriptions/yt-j5IDlc3JcAE.md) [https://www.youtube.com/watch?v=j5IDlc3JcAE](https://www.youtube.com/watch?v=j5IDlc3JcAE)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Will there be Steam Achievements in 1.0?](../../../transcriptions/yt-_wKUYaG0Hwc.md) [https://www.youtube.com/watch?v=_wKUYaG0Hwc](https://www.youtube.com/watch?v=_wKUYaG0Hwc)
 * [Q&A: Is there a goal date that you want the game finished?](../../../transcriptions/yt-_VPyUP6E2pE.md) [https://www.youtube.com/watch?v=_VPyUP6E2pE](https://www.youtube.com/watch?v=_VPyUP6E2pE)

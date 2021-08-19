@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## August 17th, 2021 Livestream
+* [Q&A: Internally, do you know what the WIP items are planned to do, or is it up in the air?](../../../transcriptions/yt-cH02SWIw8-A.md) [https://www.youtube.com/watch?v=cH02SWIw8-A](https://www.youtube.com/watch?v=cH02SWIw8-A)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Is the S.A.M. Ore ever going to be useful?](../../../transcriptions/yt-7zXN4R-njHk.md) [https://www.youtube.com/watch?v=7zXN4R-njHk](https://www.youtube.com/watch?v=7zXN4R-njHk)
 * [Jace Talk: Community asking about S.A.M. Ore](../../../transcriptions/yt-EeygC5CqH1g.md) [https://www.youtube.com/watch?v=EeygC5CqH1g](https://www.youtube.com/watch?v=EeygC5CqH1g)
