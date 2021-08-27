@@ -3,7 +3,7 @@ title: "April 27th, 2021 Livestream Q&A: Any news on ramp fences?"
 date: "2021-04-27"
 layout: transcript
 topics:
-    - "features/buildables/walls"
+    - "features/buildables/railings"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Any news on ramp fences?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 
 ### Topics
-* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
+* [Features > Buildables > Railings](../topics/features/buildables/railings.md)
 
 ### Transcript
 

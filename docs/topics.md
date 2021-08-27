@@ -143,6 +143,7 @@ date: Last Modified
 * [Jump Pads](./topics/features/buildables/jump-pads.md)
 * [Ladders](./topics/features/buildables/ladders.md)
 * [Lights](./topics/features/buildables/lights.md)
+* [Railings](./topics/features/buildables/railings.md)
 * [Storage Containers](./topics/features/buildables/storage-containers.md)
 * [Walkways](./topics/features/buildables/walkways.md)
 * [Walls](./topics/features/buildables/walls.md)

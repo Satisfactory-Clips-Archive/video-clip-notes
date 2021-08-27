@@ -3,14 +3,14 @@ title: "March 30th, 2021 Livestream Community FYI: Definitely need more Railing 
 date: "2021-03-30"
 layout: transcript
 topics:
-    - "features/buildables/walls"
+    - "features/buildables/railings"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Community FYI: Definitely need more Railing types
 https://www.youtube.com/watch?v=n-OQJu_fwJk
 
 ### Topics
-* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
+* [Features > Buildables > Railings](../topics/features/buildables/railings.md)
 
 ### Transcript
 

@@ -9,12 +9,10 @@ date: Last Modified
 * [Jump Pads](../../topics/features/buildables/jump-pads.md)
 * [Ladders](../../topics/features/buildables/ladders.md)
 * [Lights](../../topics/features/buildables/lights.md)
+* [Railings](../../topics/features/buildables/railings.md)
 * [Storage Containers](../../topics/features/buildables/storage-containers.md)
 * [Walkways](../../topics/features/buildables/walkways.md)
 * [Walls](../../topics/features/buildables/walls.md)
-
-## July 20th, 2021 Livestream
-* [Q&A: Fences that can go around corners?](../../transcriptions/yt-RFKNtwyObH4.md) [https://www.youtube.com/watch?v=RFKNtwyObH4](https://www.youtube.com/watch?v=RFKNtwyObH4)
 
 ## June 22nd, 2021 Livestream
 * [Q&A: Will Stairs & the Walkways be more connectable?](../../transcriptions/yt-nkrBqOatRWI.md) [https://www.youtube.com/watch?v=nkrBqOatRWI](https://www.youtube.com/watch?v=nkrBqOatRWI)

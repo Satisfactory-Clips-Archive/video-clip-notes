@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: How about diagonal walls?
 https://www.youtube.com/watch?v=Nf6bTwsv-_w
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: When will we have fences for ramps?](./yt-t8yHcCZPSF4.md) [https://www.youtube.com/watch?v=t8yHcCZPSF4](https://www.youtube.com/watch?v=t8yHcCZPSF4)
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Any news on Walls that would fit on ramps?](./yt-96m9d5aWQtY.md) [https://www.youtube.com/watch?v=96m9d5aWQtY](https://www.youtube.com/watch?v=96m9d5aWQtY)
 
 
 ### Topics

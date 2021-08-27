@@ -4,6 +4,7 @@ date: "2021-06-08"
 layout: transcript
 topics:
     - "features/buildables/foundations"
+    - "features/buildables/railings"
     - "features/buildables/walls"
     - "features/possible-features/decor"
 ---
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=V20SFRk4jpw
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Buildables > Railings](../topics/features/buildables/railings.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
 

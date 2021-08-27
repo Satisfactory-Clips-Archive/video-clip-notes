@@ -4,7 +4,7 @@ date: "2021-03-23"
 layout: transcript
 topics:
     - "features/buildables/foundations"
-    - "features/buildables/walls"
+    - "features/buildables/railings"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Any plans on adding fences for ramps?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Features > Buildables > Walls](../topics/features/buildables/walls.md)
+* [Features > Buildables > Railings](../topics/features/buildables/railings.md)
 
 ### Transcript
 

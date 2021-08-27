@@ -4,6 +4,7 @@ date: "2020-07-30"
 layout: transcript
 topics:
     - "community/haigen"
+    - "features/buildables/railings"
     - "mods"
 ---
 # [July 30th, 2020 Mod Highlight](../2020-07-30.md)
@@ -12,6 +13,7 @@ https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1086&end=1098
 
 ### Topics
 * [Community > Haigen](../topics/community/haigen.md)
+* [Features > Buildables > Railings](../topics/features/buildables/railings.md)
 * [Mods](../topics/mods.md)
 
 ### Transcript

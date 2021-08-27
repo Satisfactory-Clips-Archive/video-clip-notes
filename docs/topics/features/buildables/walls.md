@@ -30,7 +30,6 @@ date: Last Modified
 
 ## April 27th, 2021 Livestream
 * [Q&A: Why do the radial menus for Walls not distinguish between regular walls and corrugated walls?](../../../transcriptions/yt-6La5K6gxORE.md) [https://www.youtube.com/watch?v=6La5K6gxORE](https://www.youtube.com/watch?v=6La5K6gxORE)
-* [Q&A: Any news on ramp fences?](../../../transcriptions/yt-F4RJIokIzlY.md) [https://www.youtube.com/watch?v=F4RJIokIzlY](https://www.youtube.com/watch?v=F4RJIokIzlY)
 * [Q&A: Do you know why the new lights don't go through glass?](../../../transcriptions/yt-IVz3eNdOyfI.md) [https://www.youtube.com/watch?v=IVz3eNdOyfI](https://www.youtube.com/watch?v=IVz3eNdOyfI)
 * [Q&A: How the hell are we going to put a Conveyor window in a curved Wall?](../../../transcriptions/yt-egj__9iKpzc.md) [https://www.youtube.com/watch?v=egj__9iKpzc](https://www.youtube.com/watch?v=egj__9iKpzc)
 * [Snutt Talk: Replacing pre-holed walls with placeable wall holes](../../../transcriptions/yt-TGil-LEiwIk.md) [https://www.youtube.com/watch?v=TGil-LEiwIk](https://www.youtube.com/watch?v=TGil-LEiwIk)
@@ -44,13 +43,10 @@ date: Last Modified
 
 ## March 30th, 2021 Livestream
 * [Q&A: Curved Walls, Windows, and Foundations?](../../../transcriptions/yt-gBErG8jzRtI.md) [https://www.youtube.com/watch?v=gBErG8jzRtI](https://www.youtube.com/watch?v=gBErG8jzRtI)
-* [Community FYI: Definitely need more Railing types](../../../transcriptions/yt-n-OQJu_fwJk.md) [https://www.youtube.com/watch?v=n-OQJu_fwJk](https://www.youtube.com/watch?v=n-OQJu_fwJk)
 * [Q&A: Plan on adding Steel Wall/Windows?](../../../transcriptions/yt-3K-aGFIg5uU.md) [https://www.youtube.com/watch?v=3K-aGFIg5uU](https://www.youtube.com/watch?v=3K-aGFIg5uU)
-* [Q&A: Tilted fences?](../../../transcriptions/yt-JVp03wXCxWY.md) [https://www.youtube.com/watch?v=JVp03wXCxWY](https://www.youtube.com/watch?v=JVp03wXCxWY)
 * [Q&A: Can you fix the wheels when selecting walls?](../../../transcriptions/yt-9qpSJT7gl9o.md) [https://www.youtube.com/watch?v=9qpSJT7gl9o](https://www.youtube.com/watch?v=9qpSJT7gl9o)
 
 ## March 23rd, 2021 Livestream
-* [Q&A: Any plans on adding fences for ramps?](../../../transcriptions/yt-cXFXfI1lRDs.md) [https://www.youtube.com/watch?v=cXFXfI1lRDs](https://www.youtube.com/watch?v=cXFXfI1lRDs)
 * [Q&A: Are you still working on Glass optimisations?](../../../transcriptions/yt-jE0Fm11bEZk.md) [https://www.youtube.com/watch?v=jE0Fm11bEZk](https://www.youtube.com/watch?v=jE0Fm11bEZk)
 * [Q&A: If you could add a feature yourself right now, what would that be ?](../../../transcriptions/yt-EbERjXIk_x4.md) [https://www.youtube.com/watch?v=EbERjXIk_x4](https://www.youtube.com/watch?v=EbERjXIk_x4)
 * [Q&A: Any news on Walls that would fit on ramps?](../../../transcriptions/yt-96m9d5aWQtY.md) [https://www.youtube.com/watch?v=96m9d5aWQtY](https://www.youtube.com/watch?v=96m9d5aWQtY)
